@@ -1,0 +1,2 @@
+ip_address,ip_type,service,region
+20.192.184.128/27,IPv4,AzureSecurityCenter.SouthIndia,southindia

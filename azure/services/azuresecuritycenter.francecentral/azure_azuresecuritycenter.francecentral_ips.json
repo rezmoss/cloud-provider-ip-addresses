@@ -1,0 +1,8 @@
+[
+  {
+    "ip_address": "40.79.139.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.FranceCentral",
+    "region": "centralfrance"
+  }
+]

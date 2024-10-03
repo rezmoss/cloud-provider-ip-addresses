@@ -1,0 +1,80 @@
+[
+  {
+    "ip_address": "20.58.66.128/25",
+    "ip_type": "IPv4",
+    "service": "Sql.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.58.68.56/30",
+    "ip_type": "IPv4",
+    "service": "Sql.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.11.97.192/26",
+    "ip_type": "IPv4",
+    "service": "Sql.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.140.208.64/27",
+    "ip_type": "IPv4",
+    "service": "Sql.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.140.208.96/29",
+    "ip_type": "IPv4",
+    "service": "Sql.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.140.209.0/27",
+    "ip_type": "IPv4",
+    "service": "Sql.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.140.209.32/29",
+    "ip_type": "IPv4",
+    "service": "Sql.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.141.8.11/32",
+    "ip_type": "IPv4",
+    "service": "Sql.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.142.133.128/25",
+    "ip_type": "IPv4",
+    "service": "Sql.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605::280/123",
+    "ip_type": "IPv6",
+    "service": "Sql.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:1::200/121",
+    "ip_type": "IPv6",
+    "service": "Sql.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:3::180/121",
+    "ip_type": "IPv6",
+    "service": "Sql.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:400::/123",
+    "ip_type": "IPv6",
+    "service": "Sql.UKWest",
+    "region": "ukwest"
+  }
+]

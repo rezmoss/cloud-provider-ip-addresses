@@ -1,0 +1,62 @@
+[
+  {
+    "ip_address": "20.39.168.21/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "20.200.163.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "20.200.164.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "20.200.165.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "40.80.173.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "40.80.235.125/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "40.80.236.159/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.146.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.206.234/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:5::80/123",
+    "ip_type": "IPv6",
+    "service": "AzureCosmosDB.KoreaSouth",
+    "region": "koreasouth"
+  }
+]

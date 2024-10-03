@@ -1,0 +1,7 @@
+ip_address,ip_type,service,region
+68.221.98.64/29,IPv4,MicrosoftContainerRegistry.SpainCentral,spaincentral
+68.221.146.64/29,IPv4,MicrosoftContainerRegistry.SpainCentral,spaincentral
+68.221.154.64/29,IPv4,MicrosoftContainerRegistry.SpainCentral,spaincentral
+2603:1020:1403:400::/125,IPv6,MicrosoftContainerRegistry.SpainCentral,spaincentral
+2603:1020:1403:800::/125,IPv6,MicrosoftContainerRegistry.SpainCentral,spaincentral
+2603:1020:1403:c00::40/125,IPv6,MicrosoftContainerRegistry.SpainCentral,spaincentral

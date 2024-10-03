@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "40.69.111.116/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.89.23.44/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:3::1e0/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.CanadaEast",
+    "region": "canadaeast"
+  }
+]

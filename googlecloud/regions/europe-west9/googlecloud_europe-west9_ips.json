@@ -1,0 +1,38 @@
+[
+  {
+    "ip_address": "34.1.0.0/20",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "europe-west9"
+  },
+  {
+    "ip_address": "34.155.0.0/16",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "europe-west9"
+  },
+  {
+    "ip_address": "34.157.12.0/22",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "europe-west9"
+  },
+  {
+    "ip_address": "34.157.140.0/22",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "europe-west9"
+  },
+  {
+    "ip_address": "34.163.0.0/16",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "europe-west9"
+  },
+  {
+    "ip_address": "2600:1901:8120::/44",
+    "ip_type": "IPv6",
+    "service": "Google Cloud",
+    "region": "europe-west9"
+  }
+]

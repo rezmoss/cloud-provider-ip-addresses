@@ -1,0 +1,32 @@
+[
+  {
+    "ip_address": "172.204.174.0/28",
+    "ip_type": "IPv4",
+    "service": "LogicApps.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.177.176/28",
+    "ip_type": "IPv4",
+    "service": "LogicApps.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.182.160/27",
+    "ip_type": "IPv4",
+    "service": "LogicApps.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1010:502:400::2d0/124",
+    "ip_type": "IPv6",
+    "service": "LogicApps.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1010:502:400::2e0/123",
+    "ip_type": "IPv6",
+    "service": "LogicApps.NewZealandNorth",
+    "region": "newzealandnorth"
+  }
+]

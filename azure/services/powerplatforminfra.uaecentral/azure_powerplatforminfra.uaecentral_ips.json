@@ -1,0 +1,86 @@
+[
+  {
+    "ip_address": "20.37.68.48/28",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UAECentral",
+    "region": "uaecentral"
+  },
+  {
+    "ip_address": "20.37.68.64/26",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UAECentral",
+    "region": "uaecentral"
+  },
+  {
+    "ip_address": "20.37.68.128/28",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UAECentral",
+    "region": "uaecentral"
+  },
+  {
+    "ip_address": "20.37.70.120/29",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UAECentral",
+    "region": "uaecentral"
+  },
+  {
+    "ip_address": "20.37.80.56/32",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UAECentral",
+    "region": "uaecentral"
+  },
+  {
+    "ip_address": "20.37.82.215/32",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UAECentral",
+    "region": "uaecentral"
+  },
+  {
+    "ip_address": "20.45.93.160/27",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UAECentral",
+    "region": "uaecentral"
+  },
+  {
+    "ip_address": "20.45.93.192/26",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UAECentral",
+    "region": "uaecentral"
+  },
+  {
+    "ip_address": "20.45.94.72/29",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UAECentral",
+    "region": "uaecentral"
+  },
+  {
+    "ip_address": "40.120.1.91/32",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UAECentral",
+    "region": "uaecentral"
+  },
+  {
+    "ip_address": "40.120.1.94/32",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UAECentral",
+    "region": "uaecentral"
+  },
+  {
+    "ip_address": "40.120.1.96/32",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UAECentral",
+    "region": "uaecentral"
+  },
+  {
+    "ip_address": "40.120.2.208/31",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UAECentral",
+    "region": "uaecentral"
+  },
+  {
+    "ip_address": "2603:1061:2002:7100::/57",
+    "ip_type": "IPv6",
+    "service": "PowerPlatformInfra.UAECentral",
+    "region": "uaecentral"
+  }
+]

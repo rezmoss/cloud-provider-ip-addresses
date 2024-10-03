@@ -1,0 +1,62 @@
+[
+  {
+    "ip_address": "20.170.0.18/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "20.170.7.88/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "20.218.222.2/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "20.218.223.248/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "40.64.145.240/28",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "51.116.225.43/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "51.116.225.44/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "51.116.225.55/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "51.116.236.74/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "2603:1061:2010:29::/117",
+    "ip_type": "IPv6",
+    "service": "WindowsVirtualDesktop.GermanyWestCentral",
+    "region": "germanywc"
+  }
+]

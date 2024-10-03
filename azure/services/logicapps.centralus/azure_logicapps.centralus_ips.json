@@ -1,0 +1,188 @@
+[
+  {
+    "ip_address": "13.67.236.76/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "13.67.236.125/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "13.86.98.126/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "13.89.178.48/28",
+    "ip_type": "IPv4",
+    "service": "LogicApps.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "20.109.202.29/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "20.109.202.36/31",
+    "ip_type": "IPv4",
+    "service": "LogicApps.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "20.118.195.224/27",
+    "ip_type": "IPv4",
+    "service": "LogicApps.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "23.100.82.16/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "23.100.86.139/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "23.100.87.24/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "23.100.87.56/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "40.77.31.87/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "40.77.111.254/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "40.113.218.230/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "40.122.41.236/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "40.122.46.197/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "40.122.170.198/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "52.141.218.55/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "52.141.221.6/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "52.182.141.160/27",
+    "ip_type": "IPv4",
+    "service": "LogicApps.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "104.43.166.135/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "104.43.243.39/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "104.208.25.27/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "168.61.152.201/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "168.61.172.83/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "168.61.172.225/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "168.61.173.172/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "168.61.217.177/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "172.212.239.224/28",
+    "ip_type": "IPv4",
+    "service": "LogicApps.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "2603:1030:10:402::3c0/124",
+    "ip_type": "IPv6",
+    "service": "LogicApps.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "2603:1030:10:402::3e0/123",
+    "ip_type": "IPv6",
+    "service": "LogicApps.CentralUS",
+    "region": "centralus"
+  }
+]

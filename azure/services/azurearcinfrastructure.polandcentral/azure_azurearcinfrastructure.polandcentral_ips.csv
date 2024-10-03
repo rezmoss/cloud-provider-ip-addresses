@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+20.215.21.178/32,IPv4,AzureArcInfrastructure.PolandCentral,polandcentral
+20.215.170.104/30,IPv4,AzureArcInfrastructure.PolandCentral,polandcentral
+20.215.174.6/31,IPv4,AzureArcInfrastructure.PolandCentral,polandcentral
+20.215.174.24/29,IPv4,AzureArcInfrastructure.PolandCentral,polandcentral

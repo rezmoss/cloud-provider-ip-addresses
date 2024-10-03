@@ -1,0 +1,6 @@
+ip_address,ip_type,service,region
+172.204.174.0/28,IPv4,LogicApps.NewZealandNorth,newzealandnorth
+172.204.177.176/28,IPv4,LogicApps.NewZealandNorth,newzealandnorth
+172.204.182.160/27,IPv4,LogicApps.NewZealandNorth,newzealandnorth
+2603:1010:502:400::2d0/124,IPv6,LogicApps.NewZealandNorth,newzealandnorth
+2603:1010:502:400::2e0/123,IPv6,LogicApps.NewZealandNorth,newzealandnorth

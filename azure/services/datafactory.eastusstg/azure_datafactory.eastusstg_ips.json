@@ -1,0 +1,50 @@
+[
+  {
+    "ip_address": "20.49.83.224/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.EastUSSTG",
+    "region": "usstagee"
+  },
+  {
+    "ip_address": "20.99.12.0/23",
+    "ip_type": "IPv4",
+    "service": "DataFactory.EastUSSTG",
+    "region": "usstagee"
+  },
+  {
+    "ip_address": "2603:1030:104:1::480/121",
+    "ip_type": "IPv6",
+    "service": "DataFactory.EastUSSTG",
+    "region": "usstagee"
+  },
+  {
+    "ip_address": "2603:1030:104:1::500/122",
+    "ip_type": "IPv6",
+    "service": "DataFactory.EastUSSTG",
+    "region": "usstagee"
+  },
+  {
+    "ip_address": "2603:1030:104:1::700/121",
+    "ip_type": "IPv6",
+    "service": "DataFactory.EastUSSTG",
+    "region": "usstagee"
+  },
+  {
+    "ip_address": "2603:1030:104:1::780/122",
+    "ip_type": "IPv6",
+    "service": "DataFactory.EastUSSTG",
+    "region": "usstagee"
+  },
+  {
+    "ip_address": "2603:1030:104:402::330/124",
+    "ip_type": "IPv6",
+    "service": "DataFactory.EastUSSTG",
+    "region": "usstagee"
+  },
+  {
+    "ip_address": "2603:1030:104:802::40/124",
+    "ip_type": "IPv6",
+    "service": "DataFactory.EastUSSTG",
+    "region": "usstagee"
+  }
+]

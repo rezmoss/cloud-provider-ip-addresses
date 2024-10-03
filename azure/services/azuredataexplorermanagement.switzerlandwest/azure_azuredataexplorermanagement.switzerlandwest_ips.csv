@@ -1,0 +1,6 @@
+ip_address,ip_type,service,region
+20.199.207.240/28,IPv4,AzureDataExplorerManagement.SwitzerlandWest,switzerlandw
+51.107.98.201/32,IPv4,AzureDataExplorerManagement.SwitzerlandWest,switzerlandw
+51.107.155.160/28,IPv4,AzureDataExplorerManagement.SwitzerlandWest,switzerlandw
+2603:1020:b04:1::380/121,IPv6,AzureDataExplorerManagement.SwitzerlandWest,switzerlandw
+2603:1020:b04:402::150/124,IPv6,AzureDataExplorerManagement.SwitzerlandWest,switzerlandw

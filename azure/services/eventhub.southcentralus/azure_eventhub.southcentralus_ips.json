@@ -1,0 +1,176 @@
+[
+  {
+    "ip_address": "4.150.33.0/24",
+    "ip_type": "IPv4",
+    "service": "EventHub.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "13.65.209.24/32",
+    "ip_type": "IPv4",
+    "service": "EventHub.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "20.45.122.64/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "20.45.126.192/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "20.49.93.64/27",
+    "ip_type": "IPv4",
+    "service": "EventHub.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "20.49.93.128/27",
+    "ip_type": "IPv4",
+    "service": "EventHub.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "20.49.95.128/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "20.97.32.192/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "23.102.128.15/32",
+    "ip_type": "IPv4",
+    "service": "EventHub.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "23.102.160.39/32",
+    "ip_type": "IPv4",
+    "service": "EventHub.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "23.102.161.227/32",
+    "ip_type": "IPv4",
+    "service": "EventHub.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "23.102.163.4/32",
+    "ip_type": "IPv4",
+    "service": "EventHub.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "23.102.165.127/32",
+    "ip_type": "IPv4",
+    "service": "EventHub.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "23.102.167.73/32",
+    "ip_type": "IPv4",
+    "service": "EventHub.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "23.102.180.26/32",
+    "ip_type": "IPv4",
+    "service": "EventHub.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "40.84.150.241/32",
+    "ip_type": "IPv4",
+    "service": "EventHub.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "40.84.185.67/32",
+    "ip_type": "IPv4",
+    "service": "EventHub.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "40.124.65.64/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "104.44.129.14/32",
+    "ip_type": "IPv4",
+    "service": "EventHub.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "104.44.129.59/32",
+    "ip_type": "IPv4",
+    "service": "EventHub.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "104.210.146.250/32",
+    "ip_type": "IPv4",
+    "service": "EventHub.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "104.214.18.128/27",
+    "ip_type": "IPv4",
+    "service": "EventHub.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "104.214.70.229/32",
+    "ip_type": "IPv4",
+    "service": "EventHub.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "191.238.160.221/32",
+    "ip_type": "IPv4",
+    "service": "EventHub.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "2603:1030:807:1::240/122",
+    "ip_type": "IPv6",
+    "service": "EventHub.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "2603:1030:807:7::200/119",
+    "ip_type": "IPv6",
+    "service": "EventHub.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "2603:1030:807:402::1c0/123",
+    "ip_type": "IPv6",
+    "service": "EventHub.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "2603:1030:807:802::160/123",
+    "ip_type": "IPv6",
+    "service": "EventHub.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "2603:1030:807:c02::160/123",
+    "ip_type": "IPv6",
+    "service": "EventHub.SouthCentralUS",
+    "region": "southcentralus"
+  }
+]

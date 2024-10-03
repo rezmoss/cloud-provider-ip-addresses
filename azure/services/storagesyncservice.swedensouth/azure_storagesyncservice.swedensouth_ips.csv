@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+20.91.11.144/29,IPv4,StorageSyncService.SwedenSouth,swedensouth
+51.12.204.248/29,IPv4,StorageSyncService.SwedenSouth,swedensouth
+2603:1020:1104:400::320/123,IPv6,StorageSyncService.SwedenSouth,swedensouth

@@ -1,0 +1,17 @@
+ip_address,ip_type,service,region
+4.243.45.128/26,IPv4,PowerPlatformInfra.KoreaSouth,koreasouth
+4.243.46.0/25,IPv4,PowerPlatformInfra.KoreaSouth,koreasouth
+52.147.113.88/29,IPv4,PowerPlatformInfra.KoreaSouth,koreasouth
+52.147.116.192/26,IPv4,PowerPlatformInfra.KoreaSouth,koreasouth
+52.147.117.0/27,IPv4,PowerPlatformInfra.KoreaSouth,koreasouth
+52.147.117.128/26,IPv4,PowerPlatformInfra.KoreaSouth,koreasouth
+52.147.117.192/27,IPv4,PowerPlatformInfra.KoreaSouth,koreasouth
+52.147.119.0/29,IPv4,PowerPlatformInfra.KoreaSouth,koreasouth
+52.147.121.95/32,IPv4,PowerPlatformInfra.KoreaSouth,koreasouth
+52.231.136.212/32,IPv4,PowerPlatformInfra.KoreaSouth,koreasouth
+52.231.137.237/32,IPv4,PowerPlatformInfra.KoreaSouth,koreasouth
+52.231.140.224/29,IPv4,PowerPlatformInfra.KoreaSouth,koreasouth
+52.231.143.171/32,IPv4,PowerPlatformInfra.KoreaSouth,koreasouth
+52.231.164.79/32,IPv4,PowerPlatformInfra.KoreaSouth,koreasouth
+52.231.185.0/32,IPv4,PowerPlatformInfra.KoreaSouth,koreasouth
+2603:1061:2002:2100::/57,IPv6,PowerPlatformInfra.KoreaSouth,koreasouth

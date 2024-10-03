@@ -1,0 +1,2378 @@
+[
+  {
+    "ip_address": "4.147.241.0/28",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "4.149.240.248/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "4.150.168.160/28",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "4.150.177.120/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "4.151.11.48/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "4.158.9.160/28",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "4.178.122.232/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "4.189.194.16/28",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "4.198.113.16/28",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "4.209.165.0/28",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "4.216.211.0/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "4.225.21.224/28",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "4.227.68.192/28",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "4.229.241.184/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "4.229.241.192/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "4.232.24.32/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "4.233.185.56/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "4.233.193.64/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "4.235.113.232/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "4.239.251.152/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "4.239.251.160/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "4.242.19.240/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "4.245.219.224/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "4.245.227.208/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "4.249.192.240/28",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "9.160.40.32/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "13.70.105.50/32",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "13.70.107.141/32",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "13.71.184.74/32",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "13.71.187.166/32",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "13.75.164.249/32",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "13.75.218.172/32",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "13.78.18.152/32",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "13.78.19.235/32",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "13.78.197.48/28",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "13.78.197.240/28",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "13.86.58.215/32",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "13.88.249.244/32",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "13.91.180.32/28",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.2.226.184/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.2.234.144/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.5.1.136/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.5.170.240/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.6.34.248/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.6.82.208/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.6.83.136/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.6.233.184/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.11.26.96/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.15.235.192/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.17.48.32/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.17.112.32/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.19.34.168/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.19.35.8/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.19.113.192/28",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.21.32.32/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.21.129.232/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.28.138.72/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.36.120.68/30",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.37.156.208/28",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.37.195.16/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.37.224.68/30",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.38.84.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.38.136.120/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.39.8.68/30",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.39.198.216/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.39.199.24/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.40.72.88/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.40.91.88/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.41.4.112/28",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.41.65.136/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.41.105.232/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.41.120.112/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.41.192.68/30",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.42.4.208/28",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.42.129.160/28",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.42.224.68/30",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.43.41.152/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.43.65.144/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.43.130.96/28",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.45.112.68/30",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.45.192.68/30",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.46.12.200/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.46.121.76/32",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.46.193.40/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.46.193.88/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.52.93.40/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.59.51.96/28",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.65.137.224/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.70.34.64/28",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.72.16.32/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.87.238.224/28",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.99.8.64/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.100.214.208/28",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.103.219.240/28",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.115.219.72/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.123.51.88/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.150.160.104/30",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.150.160.208/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.151.145.208/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.151.153.184/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.161.68.200/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.161.68.208/28",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.161.68.224/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.161.81.88/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.161.82.48/28",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.161.82.64/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.163.2.88/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.163.3.56/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.163.31.104/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.164.16.48/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.164.16.120/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.168.96.96/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.168.96.112/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.169.49.96/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.173.17.128/28",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.173.50.40/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.173.50.48/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.173.97.224/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.173.105.232/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.173.105.240/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.174.35.32/28",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.174.162.24/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.174.162.32/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.186.83.56/32",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.186.233.208/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.189.106.192/28",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.189.126.232/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.192.160.32/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.192.225.24/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.193.110.128/28",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.194.4.102/32",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.198.9.224/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.198.25.0/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.199.198.240/28",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.199.199.32/28",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.201.68.160/28",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.201.127.40/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.203.90.136/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.205.24.128/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.206.144.56/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.206.205.224/28",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.208.63.112/28",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.210.146.0/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.210.194.80/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.210.195.88/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.211.147.64/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.214.117.160/28",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.215.0.32/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.217.40.32/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.217.248.32/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.218.169.40/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.218.169.48/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.220.50.240/28",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.220.99.176/28",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.222.179.176/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.233.156.224/28",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.235.199.64/28",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.239.211.144/28",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.240.203.248/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.240.218.136/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.243.34.72/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.244.88.56/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.247.134.0/28",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.250.144.32/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.250.160.184/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.251.169.232/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.254.183.0/28",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "23.97.106.142/32",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "23.97.201.41/32",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "23.100.0.135/32",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "23.100.226.13/32",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "23.101.147.147/32",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "23.101.152.95/32",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "40.67.48.68/30",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "40.70.58.221/32",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "40.74.30.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "40.80.56.68/30",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "40.80.168.68/30",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "40.80.188.0/28",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "40.82.248.112/28",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "40.83.176.199/32",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "40.83.178.242/32",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "40.85.223.25/32",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "40.86.167.110/32",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "40.89.16.68/30",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "40.89.168.225/32",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "40.89.170.184/32",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "40.89.171.101/32",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "40.118.174.12/32",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "40.119.9.208/28",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "40.123.212.253/32",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "40.123.218.63/32",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "40.123.219.125/32",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "40.123.225.135/32",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "40.124.140.48/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "40.127.5.82/32",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "40.127.5.124/32",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "40.127.8.48/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "40.127.8.136/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "40.127.147.196/32",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "48.216.16.32/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "48.219.192.32/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "51.12.41.16/30",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "51.12.47.16/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "51.12.59.200/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "51.12.193.16/30",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "51.12.198.200/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "51.12.250.248/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "51.12.251.232/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "51.53.24.32/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "51.53.168.32/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "51.103.18.111/32",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "51.103.214.248/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "51.104.25.136/30",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "51.105.80.68/30",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "51.105.88.68/30",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "51.107.12.208/28",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "51.107.48.120/30",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "51.107.144.68/30",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "51.107.203.195/32",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "51.107.246.160/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "51.116.74.16/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "51.116.120.96/28",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "51.120.8.32/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "51.120.8.208/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "51.120.40.120/30",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "51.120.180.120/30",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "51.120.224.68/30",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "51.120.234.176/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "51.120.246.96/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "51.120.246.120/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "51.137.160.120/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "51.138.96.158/32",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "51.140.200.46/32",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "51.140.203.27/32",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "51.140.204.4/32",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "51.141.67.0/28",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "51.141.103.193/32",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "51.143.192.68/30",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "52.136.48.68/30",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "52.140.35.224/28",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "52.140.104.120/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "52.141.6.71/32",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "52.141.6.181/32",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "52.141.22.164/32",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "52.141.26.120/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "52.141.26.136/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "52.146.50.16/32",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "52.150.136.68/30",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "52.157.9.208/28",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "52.165.98.248/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "52.172.133.58/32",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "52.180.139.48/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "52.184.83.208/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "52.185.215.96/28",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "52.187.0.85/32",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "52.187.3.203/32",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "52.187.145.107/32",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "52.228.81.136/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "52.230.27.216/32",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "52.232.19.246/32",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "52.234.168.240/28",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "52.237.98.24/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "52.240.210.16/28",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "52.246.160.72/32",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "52.247.0.200/32",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "52.254.24.96/28",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "57.151.82.88/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "57.151.84.240/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "57.151.106.192/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "57.151.124.56/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "57.151.124.96/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "57.151.208.32/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "68.154.4.136/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "68.210.160.32/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "68.219.252.224/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "68.221.80.32/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "70.153.152.32/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "74.234.43.80/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "74.242.170.224/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "74.249.107.232/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "74.249.108.56/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "74.249.108.120/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "98.66.170.152/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "98.67.186.32/28",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "98.67.225.0/28",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "98.70.75.40/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "98.70.76.16/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "98.70.91.64/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "98.71.25.152/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "102.37.41.3/32",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "102.37.214.88/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "102.37.214.112/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "102.133.56.68/30",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "102.133.216.96/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "102.133.224.24/32",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "104.41.54.118/32",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "104.45.7.191/32",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "104.211.89.81/32",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "104.211.101.14/32",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "104.211.103.82/32",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "104.211.190.96/28",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "138.91.16.64/28",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "158.23.96.32/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "172.160.244.40/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "172.188.66.64/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "172.188.123.176/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "172.201.83.192/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "172.201.84.24/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "172.201.244.200/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "172.202.121.240/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "172.203.186.112/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "172.204.152.32/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "172.205.204.120/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "172.205.204.128/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "172.211.2.248/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "172.211.3.72/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "172.211.58.192/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "172.211.67.168/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "172.214.168.112/28",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "191.232.53.223/32",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "191.233.8.32/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "191.233.243.64/28",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "191.234.160.82/32",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "191.235.225.144/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1000:4::160/123",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1000:104:1::160/123",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1010:6:1::160/123",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1010:101::160/123",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1010:304::160/123",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1010:404::160/123",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1010:502::1a0/123",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:5:1::160/123",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:104:4::/123",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:206:1::160/123",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:305::160/123",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:405::160/123",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:605::160/123",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:705:1::160/123",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:805:1::160/123",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:905::160/123",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:a04:1::160/123",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:b04::160/123",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:c04:1::160/123",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:d04::160/123",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:e04:1::160/123",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:f04::160/123",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:1004::160/123",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:1104::160/123",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:1204::1a0/123",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:1302::1a0/123",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:1403::1a0/123",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:1502::1a0/123",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:f:1::160/123",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:10:1::160/123",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:104:1::160/123",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:107::160/123",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:210:1::160/123",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:40b:1::160/123",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:40c:1::160/123",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:504:1::160/123",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:608::160/123",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:702::1a0/123",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:807:1::160/123",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:902::1a0/123",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:a07::160/123",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:b04::160/123",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:c06:1::160/123",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:f05:1::160/123",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:1005::160/123",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:1102::1a0/123",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:1202::1a0/123",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1040:5:1::160/123",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1040:207::160/123",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1040:407:1::160/123",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1040:606::160/123",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1040:806::160/123",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1040:904:1::160/123",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1040:a06:1::160/123",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1040:b04::160/123",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1040:c06::160/123",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1040:d04::160/123",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1040:e05:1::600/123",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1040:f05:1::160/123",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1040:1002::e0/123",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1040:1104::160/123",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1040:1202::1a0/123",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1040:1302::1a0/123",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1040:1402::1a0/123",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1040:1503::1a0/123",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1040:1602::1a0/123",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1040:1702::1a0/123",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1040:1802:3::80/123",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1050:6:1::160/123",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1050:301::1a0/123",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1050:403::160/123",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  }
+]

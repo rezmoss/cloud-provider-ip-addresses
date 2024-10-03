@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "40.117.248.145/32",
+    "ip_type": "IPv4",
+    "service": "AzureUpdateDelivery.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "52.152.180.144/28",
+    "ip_type": "IPv4",
+    "service": "AzureUpdateDelivery.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "74.235.227.153/32",
+    "ip_type": "IPv4",
+    "service": "AzureUpdateDelivery.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "2a01:111:f100:2003::8975:3840/124",
+    "ip_type": "IPv6",
+    "service": "AzureUpdateDelivery.EastUS",
+    "region": "eastus"
+  }
+]

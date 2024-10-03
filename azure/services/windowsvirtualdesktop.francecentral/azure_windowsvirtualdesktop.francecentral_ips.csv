@@ -1,0 +1,9 @@
+ip_address,ip_type,service,region
+20.111.42.147/32,IPv4,WindowsVirtualDesktop.FranceCentral,centralfrance
+20.188.39.108/32,IPv4,WindowsVirtualDesktop.FranceCentral,centralfrance
+20.188.41.240/32,IPv4,WindowsVirtualDesktop.FranceCentral,centralfrance
+20.188.45.82/32,IPv4,WindowsVirtualDesktop.FranceCentral,centralfrance
+20.216.182.176/32,IPv4,WindowsVirtualDesktop.FranceCentral,centralfrance
+40.64.145.224/28,IPv4,WindowsVirtualDesktop.FranceCentral,centralfrance
+40.89.129.146/32,IPv4,WindowsVirtualDesktop.FranceCentral,centralfrance
+2603:1061:2010:b::/117,IPv6,WindowsVirtualDesktop.FranceCentral,centralfrance

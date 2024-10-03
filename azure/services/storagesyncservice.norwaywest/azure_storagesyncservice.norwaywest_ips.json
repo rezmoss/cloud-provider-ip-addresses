@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "51.120.224.216/29",
+    "ip_type": "IPv4",
+    "service": "StorageSyncService.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04::340/123",
+    "ip_type": "IPv6",
+    "service": "StorageSyncService.NorwayWest",
+    "region": "norwayw"
+  }
+]

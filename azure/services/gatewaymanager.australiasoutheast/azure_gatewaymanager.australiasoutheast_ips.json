@@ -1,0 +1,38 @@
+[
+  {
+    "ip_address": "13.77.50.88/29",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  },
+  {
+    "ip_address": "20.40.173.147/32",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  },
+  {
+    "ip_address": "20.42.224.72/29",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  },
+  {
+    "ip_address": "20.92.4.224/27",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  },
+  {
+    "ip_address": "52.147.44.33/32",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  },
+  {
+    "ip_address": "2603:1010:101::40/122",
+    "ip_type": "IPv6",
+    "service": "GatewayManager.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  }
+]

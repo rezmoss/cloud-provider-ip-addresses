@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+20.21.36.64/27,IPv4,AzureDigitalTwins.QatarCentral,qatarcentral
+2603:1040:1002::7c0/123,IPv6,AzureDigitalTwins.QatarCentral,qatarcentral
+2603:1040:1002:1::/121,IPv6,AzureDigitalTwins.QatarCentral,qatarcentral
+2603:1040:1002:5::64c/126,IPv6,AzureDigitalTwins.QatarCentral,qatarcentral

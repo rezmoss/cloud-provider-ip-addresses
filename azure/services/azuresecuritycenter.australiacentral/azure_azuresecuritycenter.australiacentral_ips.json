@@ -1,0 +1,8 @@
+[
+  {
+    "ip_address": "20.53.0.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.AustraliaCentral",
+    "region": "australiacentral"
+  }
+]

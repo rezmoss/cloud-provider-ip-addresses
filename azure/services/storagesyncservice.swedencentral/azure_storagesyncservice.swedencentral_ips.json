@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "20.91.146.0/29",
+    "ip_type": "IPv4",
+    "service": "StorageSyncService.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "51.12.101.240/29",
+    "ip_type": "IPv4",
+    "service": "StorageSyncService.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "2603:1020:1004::300/123",
+    "ip_type": "IPv6",
+    "service": "StorageSyncService.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "2603:1020:1004:800::120/123",
+    "ip_type": "IPv6",
+    "service": "StorageSyncService.SwedenCentral",
+    "region": "swedencentral"
+  }
+]

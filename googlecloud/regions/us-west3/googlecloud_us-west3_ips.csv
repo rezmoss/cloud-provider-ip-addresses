@@ -1,0 +1,9 @@
+ip_address,ip_type,service,region
+34.22.32.0/19,IPv4,Google Cloud,us-west3
+34.104.52.0/24,IPv4,Google Cloud,us-west3
+34.106.0.0/16,IPv4,Google Cloud,us-west3
+34.127.180.0/24,IPv4,Google Cloud,us-west3
+35.217.64.0/18,IPv4,Google Cloud,us-west3
+35.220.31.0/24,IPv4,Google Cloud,us-west3
+35.242.31.0/24,IPv4,Google Cloud,us-west3
+2600:1900:4170::/44,IPv6,Google Cloud,us-west3

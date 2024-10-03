@@ -1,0 +1,6 @@
+ip_address,ip_type,service,region
+102.133.123.64/27,IPv4,BatchNodeManagement.SouthAfricaNorth,southafricanorth
+102.133.155.192/27,IPv4,BatchNodeManagement.SouthAfricaNorth,southafricanorth
+102.133.217.224/27,IPv4,BatchNodeManagement.SouthAfricaNorth,southafricanorth
+102.133.250.224/27,IPv4,BatchNodeManagement.SouthAfricaNorth,southafricanorth
+2603:1000:104:1::340/122,IPv6,BatchNodeManagement.SouthAfricaNorth,southafricanorth

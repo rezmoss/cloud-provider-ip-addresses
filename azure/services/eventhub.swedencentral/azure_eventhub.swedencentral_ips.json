@@ -1,0 +1,56 @@
+[
+  {
+    "ip_address": "51.12.30.0/24",
+    "ip_type": "IPv4",
+    "service": "EventHub.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "51.12.98.160/27",
+    "ip_type": "IPv4",
+    "service": "EventHub.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "51.12.102.64/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "51.12.226.64/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "51.12.234.64/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "2603:1020:1004::240/122",
+    "ip_type": "IPv6",
+    "service": "EventHub.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "2603:1020:1004:2::400/120",
+    "ip_type": "IPv6",
+    "service": "EventHub.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "2603:1020:1004:400::2c0/123",
+    "ip_type": "IPv6",
+    "service": "EventHub.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "2603:1020:1004:c02::c0/123",
+    "ip_type": "IPv6",
+    "service": "EventHub.SwedenCentral",
+    "region": "swedencentral"
+  }
+]

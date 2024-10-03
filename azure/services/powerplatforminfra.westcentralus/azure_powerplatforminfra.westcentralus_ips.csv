@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+52.150.154.48/28,IPv4,PowerPlatformInfra.WestCentralUS,westcentralus
+52.150.154.128/26,IPv4,PowerPlatformInfra.WestCentralUS,westcentralus
+2603:1061:2002:400::/57,IPv6,PowerPlatformInfra.WestCentralUS,westcentralus

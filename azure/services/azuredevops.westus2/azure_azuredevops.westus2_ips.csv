@@ -1,0 +1,2 @@
+ip_address,ip_type,service,region
+20.42.134.0/23,IPv4,AzureDevOps.WestUS2,westus2

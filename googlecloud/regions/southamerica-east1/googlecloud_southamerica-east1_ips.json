@@ -1,0 +1,86 @@
+[
+  {
+    "ip_address": "34.39.128.0/17",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "southamerica-east1"
+  },
+  {
+    "ip_address": "34.95.128.0/17",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "southamerica-east1"
+  },
+  {
+    "ip_address": "34.104.80.0/21",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "southamerica-east1"
+  },
+  {
+    "ip_address": "34.124.16.0/21",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "southamerica-east1"
+  },
+  {
+    "ip_address": "34.151.0.0/18",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "southamerica-east1"
+  },
+  {
+    "ip_address": "34.151.192.0/18",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "southamerica-east1"
+  },
+  {
+    "ip_address": "35.198.0.0/18",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "southamerica-east1"
+  },
+  {
+    "ip_address": "35.199.64.0/18",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "southamerica-east1"
+  },
+  {
+    "ip_address": "35.215.192.0/18",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "southamerica-east1"
+  },
+  {
+    "ip_address": "35.220.40.0/24",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "southamerica-east1"
+  },
+  {
+    "ip_address": "35.235.0.0/20",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "southamerica-east1"
+  },
+  {
+    "ip_address": "35.242.40.0/24",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "southamerica-east1"
+  },
+  {
+    "ip_address": "35.247.192.0/18",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "southamerica-east1"
+  },
+  {
+    "ip_address": "2600:1900:40f0::/44",
+    "ip_type": "IPv6",
+    "service": "Google Cloud",
+    "region": "southamerica-east1"
+  }
+]

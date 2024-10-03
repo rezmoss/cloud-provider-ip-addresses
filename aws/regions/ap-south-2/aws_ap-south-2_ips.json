@@ -1,0 +1,752 @@
+[
+  {
+    "ip_address": "98.131.0.0/16",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "52.93.115.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "15.177.94.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "40.194.0.0/16",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "40.193.0.0/16",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "52.94.249.208/28",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "150.222.50.160/27",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "18.60.0.0/15",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "99.87.4.0/22",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "150.222.50.192/27",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "104.255.59.122/32",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "3.5.44.0/22",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "104.255.59.123/32",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "104.255.59.126/32",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "40.192.0.0/16",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "104.255.59.124/32",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "99.87.16.0/20",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "52.95.186.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "54.239.1.160/28",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "104.255.59.127/32",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "18.99.160.0/20",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "52.95.184.0/23",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "15.230.246.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "99.150.112.0/21",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "98.130.0.0/16",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "13.248.64.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "35.71.108.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "104.255.59.125/32",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "99.87.8.0/21",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "150.222.50.128/27",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "40.195.0.0/16",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "18.60.125.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "18.60.127.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "18.60.128.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "18.60.151.0/25",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "18.60.151.128/25",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "18.60.152.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "18.60.192.0/25",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "18.60.196.0/25",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "18.60.196.128/25",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "18.60.76.0/23",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "18.61.120.0/22",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "18.61.124.0/23",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "98.130.12.0/23",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "3.5.44.0/22",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "52.95.186.0/24",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "52.95.184.0/23",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "18.60.78.192/28",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "18.60.78.208/28",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "15.177.94.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "52.94.249.208/28",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "18.60.0.0/15",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "3.5.44.0/22",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "18.99.160.0/20",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "99.150.112.0/21",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "98.130.0.0/16",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "35.71.108.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "15.177.94.0/24",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_HEALTHCHECKS_PUBLISHING",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "18.60.78.240/28",
+    "ip_type": "IPv4",
+    "service": "CODEBUILD",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "18.60.65.0/24",
+    "ip_type": "IPv4",
+    "service": "API_GATEWAY",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "18.61.189.0/24",
+    "ip_type": "IPv4",
+    "service": "API_GATEWAY",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "18.61.26.0/25",
+    "ip_type": "IPv4",
+    "service": "API_GATEWAY",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "18.61.26.128/25",
+    "ip_type": "IPv4",
+    "service": "API_GATEWAY",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "18.60.64.192/26",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_RESOLVER",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "18.60.68.0/26",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_RESOLVER",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "18.60.68.64/26",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_RESOLVER",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "18.60.252.248/29",
+    "ip_type": "IPv4",
+    "service": "EC2_INSTANCE_CONNECT",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "18.61.132.240/29",
+    "ip_type": "IPv4",
+    "service": "MEDIA_PACKAGE_V2",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "18.61.132.248/29",
+    "ip_type": "IPv4",
+    "service": "MEDIA_PACKAGE_V2",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "13.248.64.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "35.71.108.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "2406:da1b::/36",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "2406:da69:b000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "2400:6500:0:7900::/56",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "2406:da61:b000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "2406:daf4:b000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "2406:daf8:b000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "2406:daf0:b000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "2406:dab8:b000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "2406:da60:b000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "2406:da36:b000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "2406:da32:b000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "2406:da68:b000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "2406:daff:b000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "2406:daf1:b000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "2406:daf5:b000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "2406:da00:b000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "2406:dafc:b000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "2406:daa0:b000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "2406:da38:b000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "2406:dafb:b000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "2406:da2b::/36",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "2406:daf6:b000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "2406:daf9:b000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "2406:da70:b000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "2406:dafe:b000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "2406:daf7:b000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "2406:daf2:b000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "2406:daf8:b000::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "2406:daf0:b000::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "2406:da68:b000::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "2406:daa0:b000::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "2406:daf9:b000::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "2406:da1b::/36",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "2406:da69:b000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "2406:da61:b000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "2406:daf4:b000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "2406:daf0:b000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "2406:dab8:b000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "2406:da60:b000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "2406:da36:b000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "2406:da32:b000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "2406:da68:b000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "2406:daff:b000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "2406:daf1:b000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "2406:daf5:b000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "2406:da00:b000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "2406:da38:b000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "2406:dafb:b000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "2406:da2b::/36",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "2406:daf6:b000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "2406:da70:b000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "2406:daf7:b000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "2406:daf2:b000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "2406:da1b:d1d:8800::/56",
+    "ip_type": "IPv6",
+    "service": "EC2_INSTANCE_CONNECT",
+    "region": "ap-south-2"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "ip_address": "20.217.45.0/24",
+    "ip_type": "IPv4",
+    "service": "EventHub.IsraelCentral",
+    "region": "israelcentral"
+  },
+  {
+    "ip_address": "20.217.59.128/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.IsraelCentral",
+    "region": "israelcentral"
+  },
+  {
+    "ip_address": "20.217.75.64/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.IsraelCentral",
+    "region": "israelcentral"
+  },
+  {
+    "ip_address": "20.217.91.64/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.IsraelCentral",
+    "region": "israelcentral"
+  },
+  {
+    "ip_address": "2603:1040:1402:1::/120",
+    "ip_type": "IPv6",
+    "service": "EventHub.IsraelCentral",
+    "region": "israelcentral"
+  }
+]

@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+40.80.173.208/29,IPv4,AzureDigitalTwins.KoreaSouth,koreasouth
+40.80.173.224/27,IPv4,AzureDigitalTwins.KoreaSouth,koreasouth
+2603:1040:e05:5::280/121,IPv6,AzureDigitalTwins.KoreaSouth,koreasouth

@@ -1,0 +1,206 @@
+[
+  {
+    "ip_address": "20.58.71.128/26",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.58.71.192/27",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.68.125.79/32",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.77.240.43/32",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.90.32.128/29",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.81.113.131/32",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.81.116.141/32",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.81.116.143/32",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.81.116.223/32",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.81.117.23/32",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.104.36.212/32",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.132.68.126/32",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.132.72.50/32",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.132.72.181/32",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.132.73.95/32",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.136.98/32",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.137.158/31",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.137.224/32",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.137.235/32",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.164.224/27",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.165.192/26",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.166.0/28",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.166.16/29",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.166.24/30",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.166.64/26",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.167.176/29",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.180.86/32",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.142.134.176/28",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.142.134.192/27",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.142.162.40/32",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "52.142.168.104/32",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "172.187.37.224/30",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "172.187.38.0/23",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1061:2002:3100::/57",
+    "ip_type": "IPv6",
+    "service": "PowerPlatformInfra.UKWest",
+    "region": "ukwest"
+  }
+]

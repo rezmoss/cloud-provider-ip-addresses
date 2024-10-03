@@ -1,0 +1,78 @@
+-- SQL script to create table `azure_azurecloud.usstagee_ips` and insert IP addresses
+
+CREATE TABLE IF NOT EXISTS `azure_azurecloud.usstagee_ips` (
+  `ip_address` VARCHAR(45) NOT NULL,
+  `ip_type` VARCHAR(10) NOT NULL,
+  PRIMARY KEY (`ip_address`)
+);
+
+INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('13.105.102.176/28', 'IPv4');
+INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('13.105.103.176/28', 'IPv4');
+INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('13.105.103.224/27', 'IPv4');
+INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('13.105.104.0/27', 'IPv4');
+INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('20.33.142.0/24', 'IPv4');
+INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('20.38.119.0/24', 'IPv4');
+INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('20.47.13.0/24', 'IPv4');
+INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('20.49.64.0/20', 'IPv4');
+INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('20.49.80.0/21', 'IPv4');
+INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('20.60.5.0/24', 'IPv4');
+INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('20.60.198.0/23', 'IPv4');
+INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('20.99.0.0/17', 'IPv4');
+INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('20.135.206.0/23', 'IPv4');
+INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('20.135.208.0/23', 'IPv4');
+INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('20.150.57.0/24', 'IPv4');
+INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('20.190.191.128/26', 'IPv4');
+INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('20.209.254.0/23', 'IPv4');
+INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('40.64.179.128/25', 'IPv4');
+INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('40.67.0.0/18', 'IPv4');
+INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('40.67.64.0/19', 'IPv4');
+INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('40.67.96.0/20', 'IPv4');
+INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('40.67.112.0/21', 'IPv4');
+INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('40.82.80.0/22', 'IPv4');
+INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('40.90.18.16/28', 'IPv4');
+INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('40.90.31.32/27', 'IPv4');
+INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('40.90.31.64/27', 'IPv4');
+INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('40.90.129.0/27', 'IPv4');
+INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('40.90.129.32/28', 'IPv4');
+INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('40.90.129.64/27', 'IPv4');
+INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('40.97.62.128/25', 'IPv4');
+INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('40.119.100.0/27', 'IPv4');
+INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('40.119.100.32/28', 'IPv4');
+INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('40.119.100.48/30', 'IPv4');
+INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('40.119.100.80/28', 'IPv4');
+INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('40.119.100.96/27', 'IPv4');
+INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('40.119.100.128/29', 'IPv4');
+INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('40.119.100.136/30', 'IPv4');
+INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('40.119.100.142/31', 'IPv4');
+INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('40.119.100.144/31', 'IPv4');
+INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('40.119.100.180/30', 'IPv4');
+INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('40.119.100.184/30', 'IPv4');
+INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('40.126.63.128/26', 'IPv4');
+INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('40.126.199.0/24', 'IPv4');
+INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('52.108.118.0/24', 'IPv4');
+INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('52.253.164.0/24', 'IPv4');
+INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('52.253.199.0/24', 'IPv4');
+INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:100::/61', 'IPv6');
+INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:100:8::/62', 'IPv6');
+INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:100:c::/63', 'IPv6');
+INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:100:10::/60', 'IPv6');
+INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:100:20::/61', 'IPv6');
+INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:100:28::/62', 'IPv6');
+INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:100:2c::/63', 'IPv6');
+INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:100:2f::/64', 'IPv6');
+INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:100:30::/64', 'IPv6');
+INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:100:42::/63', 'IPv6');
+INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:100:44::/63', 'IPv6');
+INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:101::/48', 'IPv6');
+INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:103::/48', 'IPv6');
+INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:104::/48', 'IPv6');
+INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:108::/48', 'IPv6');
+INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('2603:1036:903:43::/64', 'IPv6');
+INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('2603:1036:903:44::/64', 'IPv6');
+INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('2603:1036:240b::/48', 'IPv6');
+INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('2603:1036:2500:c::/64', 'IPv6');
+INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('2603:1036:3000:a0::/59', 'IPv6');
+INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('2603:1037:1:a0::/59', 'IPv6');
+INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1700::/48', 'IPv6');
+INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2010:27::/64', 'IPv6');
+INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2011:27::/64', 'IPv6');

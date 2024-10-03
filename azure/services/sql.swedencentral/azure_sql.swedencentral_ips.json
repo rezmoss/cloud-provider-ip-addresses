@@ -1,0 +1,140 @@
+[
+  {
+    "ip_address": "20.91.149.128/25",
+    "ip_type": "IPv4",
+    "service": "Sql.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "51.12.46.32/27",
+    "ip_type": "IPv4",
+    "service": "Sql.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "51.12.46.64/27",
+    "ip_type": "IPv4",
+    "service": "Sql.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "51.12.46.128/26",
+    "ip_type": "IPv4",
+    "service": "Sql.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "51.12.96.0/27",
+    "ip_type": "IPv4",
+    "service": "Sql.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "51.12.96.32/29",
+    "ip_type": "IPv4",
+    "service": "Sql.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "51.12.97.0/27",
+    "ip_type": "IPv4",
+    "service": "Sql.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "51.12.224.0/27",
+    "ip_type": "IPv4",
+    "service": "Sql.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "51.12.224.32/29",
+    "ip_type": "IPv4",
+    "service": "Sql.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "51.12.225.0/27",
+    "ip_type": "IPv4",
+    "service": "Sql.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "51.12.232.0/27",
+    "ip_type": "IPv4",
+    "service": "Sql.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "51.12.232.32/29",
+    "ip_type": "IPv4",
+    "service": "Sql.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "51.12.233.0/27",
+    "ip_type": "IPv4",
+    "service": "Sql.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "2603:1020:1004:1::520/123",
+    "ip_type": "IPv6",
+    "service": "Sql.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "2603:1020:1004:1::580/121",
+    "ip_type": "IPv6",
+    "service": "Sql.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "2603:1020:1004:3::400/121",
+    "ip_type": "IPv6",
+    "service": "Sql.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "2603:1020:1004:400::400/123",
+    "ip_type": "IPv6",
+    "service": "Sql.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "2603:1020:1004:402::/123",
+    "ip_type": "IPv6",
+    "service": "Sql.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "2603:1020:1004:403::/123",
+    "ip_type": "IPv6",
+    "service": "Sql.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "2603:1020:1004:802::/123",
+    "ip_type": "IPv6",
+    "service": "Sql.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "2603:1020:1004:803::/123",
+    "ip_type": "IPv6",
+    "service": "Sql.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "2603:1020:1004:c03::/123",
+    "ip_type": "IPv6",
+    "service": "Sql.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "2603:1020:1004:c04::/123",
+    "ip_type": "IPv6",
+    "service": "Sql.SwedenCentral",
+    "region": "swedencentral"
+  }
+]

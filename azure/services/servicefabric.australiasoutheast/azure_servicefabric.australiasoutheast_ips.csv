@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+13.77.52.0/29,IPv4,ServiceFabric.AustraliaSoutheast,australiasoutheast
+40.115.64.123/32,IPv4,ServiceFabric.AustraliaSoutheast,australiasoutheast
+2603:1010:101:402::98/125,IPv6,ServiceFabric.AustraliaSoutheast,australiasoutheast

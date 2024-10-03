@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+20.193.206.192/26,IPv4,AzureConnectors.JioIndiaWest,jioindiawest
+40.64.8.48/28,IPv4,AzureConnectors.JioIndiaWest,jioindiawest
+40.64.8.128/27,IPv4,AzureConnectors.JioIndiaWest,jioindiawest
+2603:1040:d04:c02::80/122,IPv6,AzureConnectors.JioIndiaWest,jioindiawest

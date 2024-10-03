@@ -1,0 +1,38 @@
+[
+  {
+    "ip_address": "20.60.54.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "20.150.65.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "20.150.97.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "20.157.153.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "20.157.234.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "2603:1040:d00::/48",
+    "ip_type": "IPv6",
+    "service": "Storage.JioIndiaWest",
+    "region": "jioindiawest"
+  }
+]

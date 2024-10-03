@@ -1,0 +1,3 @@
+ip_address,ip_type,service,region
+51.53.24.192/26,IPv4,AzureCognitiveSearch.TaiwanNorth,taiwannorth
+2603:1040:1302::100/121,IPv6,AzureCognitiveSearch.TaiwanNorth,taiwannorth

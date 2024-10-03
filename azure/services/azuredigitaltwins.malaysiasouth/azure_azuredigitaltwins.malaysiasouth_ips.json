@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "20.17.51.192/27",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.MalaysiaSouth",
+    "region": "malaysiasouth"
+  },
+  {
+    "ip_address": "2603:1040:1503::580/121",
+    "ip_type": "IPv6",
+    "service": "AzureDigitalTwins.MalaysiaSouth",
+    "region": "malaysiasouth"
+  }
+]

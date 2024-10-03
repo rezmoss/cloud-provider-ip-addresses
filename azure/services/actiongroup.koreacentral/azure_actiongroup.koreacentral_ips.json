@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "4.218.236.160/30",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "2603:1040:f05:1::10c/126",
+    "ip_type": "IPv6",
+    "service": "ActionGroup.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "2603:1040:f05:402::178/125",
+    "ip_type": "IPv6",
+    "service": "ActionGroup.KoreaCentral",
+    "region": "koreacentral"
+  }
+]

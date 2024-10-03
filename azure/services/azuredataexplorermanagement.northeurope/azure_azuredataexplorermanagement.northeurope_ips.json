@@ -1,0 +1,32 @@
+[
+  {
+    "ip_address": "4.207.251.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureDataExplorerManagement.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "13.69.229.176/28",
+    "ip_type": "IPv4",
+    "service": "AzureDataExplorerManagement.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "52.142.91.221/32",
+    "ip_type": "IPv4",
+    "service": "AzureDataExplorerManagement.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "2603:1020:5::600/121",
+    "ip_type": "IPv6",
+    "service": "AzureDataExplorerManagement.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "2603:1020:5:402::150/124",
+    "ip_type": "IPv6",
+    "service": "AzureDataExplorerManagement.NorthEurope",
+    "region": "northeurope"
+  }
+]

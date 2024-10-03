@@ -1,0 +1,122 @@
+[
+  {
+    "ip_address": "20.97.112.246/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "20.97.126.118/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "20.97.127.64/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "20.97.127.102/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "20.97.127.182/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "20.225.79.193/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "20.225.170.191/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "20.225.210.211/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "20.225.213.145/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "20.225.215.155/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "40.64.144.0/27",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "52.171.36.33/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "52.185.202.152/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "70.37.83.67/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "70.37.99.24/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "104.210.150.160/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "104.210.157.209/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "104.214.60.144/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "104.215.112.85/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "2603:1061:2010:13::/117",
+    "ip_type": "IPv6",
+    "service": "WindowsVirtualDesktop.SouthCentralUS",
+    "region": "southcentralus"
+  }
+]

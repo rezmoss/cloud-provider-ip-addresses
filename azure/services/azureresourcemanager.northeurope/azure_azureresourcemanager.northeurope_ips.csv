@@ -1,0 +1,10 @@
+ip_address,ip_type,service,region
+13.69.229.224/28,IPv4,AzureResourceManager.NorthEurope,northeurope
+13.69.234.0/23,IPv4,AzureResourceManager.NorthEurope,northeurope
+13.104.150.85/32,IPv4,AzureResourceManager.NorthEurope,northeurope
+20.50.68.96/28,IPv4,AzureResourceManager.NorthEurope,northeurope
+20.135.136.30/32,IPv4,AzureResourceManager.NorthEurope,northeurope
+20.135.138.85/32,IPv4,AzureResourceManager.NorthEurope,northeurope
+52.146.134.0/23,IPv4,AzureResourceManager.NorthEurope,northeurope
+2603:1020:5::180/122,IPv6,AzureResourceManager.NorthEurope,northeurope
+2603:1020:5:402::280/122,IPv6,AzureResourceManager.NorthEurope,northeurope

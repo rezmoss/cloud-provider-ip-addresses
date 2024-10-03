@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+20.192.230.32/27,IPv4,AzureIoTHub.JioIndiaCentral,jioindiacentral
+20.192.230.128/25,IPv4,AzureIoTHub.JioIndiaCentral,jioindiacentral
+20.192.238.0/27,IPv4,AzureIoTHub.JioIndiaCentral,jioindiacentral
+2603:1040:1104:400::300/123,IPv6,AzureIoTHub.JioIndiaCentral,jioindiacentral

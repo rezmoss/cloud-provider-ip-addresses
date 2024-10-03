@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+40.89.18.160/27,IPv4,AzurePortal.CanadaEast,canadaeast
+40.89.20.132/30,IPv4,AzurePortal.CanadaEast,canadaeast
+40.89.23.232/29,IPv4,AzurePortal.CanadaEast,canadaeast
+2603:1030:1005::700/121,IPv6,AzurePortal.CanadaEast,canadaeast

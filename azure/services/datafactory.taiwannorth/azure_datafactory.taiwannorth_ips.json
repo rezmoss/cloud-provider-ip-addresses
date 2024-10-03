@@ -1,0 +1,44 @@
+[
+  {
+    "ip_address": "51.53.40.176/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.40.192/26",
+    "ip_type": "IPv4",
+    "service": "DataFactory.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.48.0/25",
+    "ip_type": "IPv4",
+    "service": "DataFactory.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.96.0/23",
+    "ip_type": "IPv4",
+    "service": "DataFactory.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.110.64/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:1::600/121",
+    "ip_type": "IPv6",
+    "service": "DataFactory.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:400::3c0/124",
+    "ip_type": "IPv6",
+    "service": "DataFactory.TaiwanNorth",
+    "region": "taiwannorth"
+  }
+]

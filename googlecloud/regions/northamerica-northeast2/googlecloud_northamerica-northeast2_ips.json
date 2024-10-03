@@ -1,0 +1,50 @@
+[
+  {
+    "ip_address": "34.0.32.0/20",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "northamerica-northeast2"
+  },
+  {
+    "ip_address": "34.104.114.0/23",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "northamerica-northeast2"
+  },
+  {
+    "ip_address": "34.124.50.0/23",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "northamerica-northeast2"
+  },
+  {
+    "ip_address": "34.124.112.0/20",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "northamerica-northeast2"
+  },
+  {
+    "ip_address": "34.130.0.0/16",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "northamerica-northeast2"
+  },
+  {
+    "ip_address": "34.152.69.0/24",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "northamerica-northeast2"
+  },
+  {
+    "ip_address": "34.157.255.0/24",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "northamerica-northeast2"
+  },
+  {
+    "ip_address": "2600:1900:41e0::/44",
+    "ip_type": "IPv6",
+    "service": "Google Cloud",
+    "region": "northamerica-northeast2"
+  }
+]

@@ -1,0 +1,13 @@
+ip_address,ip_type,service,region
+20.192.160.40/29,IPv4,ServiceBus.JioIndiaWest,jioindiawest
+20.193.199.0/25,IPv4,ServiceBus.JioIndiaWest,jioindiawest
+20.193.204.104/29,IPv4,ServiceBus.JioIndiaWest,jioindiawest
+20.193.204.112/28,IPv4,ServiceBus.JioIndiaWest,jioindiawest
+40.64.16.60/32,IPv4,ServiceBus.JioIndiaWest,jioindiawest
+2603:1040:d04::220/123,IPv6,ServiceBus.JioIndiaWest,jioindiawest
+2603:1040:d04:2::400/120,IPv6,ServiceBus.JioIndiaWest,jioindiawest
+2603:1040:d04:800::e0/124,IPv6,ServiceBus.JioIndiaWest,jioindiawest
+2603:1040:d04:800::f0/125,IPv6,ServiceBus.JioIndiaWest,jioindiawest
+2603:1040:d04:800::358/125,IPv6,ServiceBus.JioIndiaWest,jioindiawest
+2603:1040:d04:800::3c0/125,IPv6,ServiceBus.JioIndiaWest,jioindiawest
+2603:1040:d04:800::3e8/125,IPv6,ServiceBus.JioIndiaWest,jioindiawest

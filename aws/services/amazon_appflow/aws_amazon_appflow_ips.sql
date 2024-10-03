@@ -1,0 +1,56 @@
+-- SQL script to create table `aws_amazon_appflow_ips` and insert IP addresses
+
+CREATE TABLE IF NOT EXISTS `aws_amazon_appflow_ips` (
+  `ip_address` VARCHAR(45) NOT NULL,
+  `ip_type` VARCHAR(10) NOT NULL,
+  PRIMARY KEY (`ip_address`)
+);
+
+INSERT INTO `aws_amazon_appflow_ips` (`ip_address`, `ip_type`) VALUES ('13.245.127.232/30', 'IPv4');
+INSERT INTO `aws_amazon_appflow_ips` (`ip_address`, `ip_type`) VALUES ('13.245.166.128/30', 'IPv4');
+INSERT INTO `aws_amazon_appflow_ips` (`ip_address`, `ip_type`) VALUES ('13.245.166.132/30', 'IPv4');
+INSERT INTO `aws_amazon_appflow_ips` (`ip_address`, `ip_type`) VALUES ('18.176.203.120/30', 'IPv4');
+INSERT INTO `aws_amazon_appflow_ips` (`ip_address`, `ip_type`) VALUES ('3.113.218.76/30', 'IPv4');
+INSERT INTO `aws_amazon_appflow_ips` (`ip_address`, `ip_type`) VALUES ('35.74.77.240/30', 'IPv4');
+INSERT INTO `aws_amazon_appflow_ips` (`ip_address`, `ip_type`) VALUES ('3.34.89.192/30', 'IPv4');
+INSERT INTO `aws_amazon_appflow_ips` (`ip_address`, `ip_type`) VALUES ('3.34.89.196/30', 'IPv4');
+INSERT INTO `aws_amazon_appflow_ips` (`ip_address`, `ip_type`) VALUES ('3.36.245.232/30', 'IPv4');
+INSERT INTO `aws_amazon_appflow_ips` (`ip_address`, `ip_type`) VALUES ('3.108.13.124/30', 'IPv4');
+INSERT INTO `aws_amazon_appflow_ips` (`ip_address`, `ip_type`) VALUES ('3.6.70.76/30', 'IPv4');
+INSERT INTO `aws_amazon_appflow_ips` (`ip_address`, `ip_type`) VALUES ('3.7.25.48/30', 'IPv4');
+INSERT INTO `aws_amazon_appflow_ips` (`ip_address`, `ip_type`) VALUES ('18.141.238.68/30', 'IPv4');
+INSERT INTO `aws_amazon_appflow_ips` (`ip_address`, `ip_type`) VALUES ('18.141.66.248/30', 'IPv4');
+INSERT INTO `aws_amazon_appflow_ips` (`ip_address`, `ip_type`) VALUES ('18.141.66.252/30', 'IPv4');
+INSERT INTO `aws_amazon_appflow_ips` (`ip_address`, `ip_type`) VALUES ('3.25.47.28/30', 'IPv4');
+INSERT INTO `aws_amazon_appflow_ips` (`ip_address`, `ip_type`) VALUES ('3.25.47.32/30', 'IPv4');
+INSERT INTO `aws_amazon_appflow_ips` (`ip_address`, `ip_type`) VALUES ('3.26.109.216/30', 'IPv4');
+INSERT INTO `aws_amazon_appflow_ips` (`ip_address`, `ip_type`) VALUES ('3.96.2.68/30', 'IPv4');
+INSERT INTO `aws_amazon_appflow_ips` (`ip_address`, `ip_type`) VALUES ('3.96.2.72/30', 'IPv4');
+INSERT INTO `aws_amazon_appflow_ips` (`ip_address`, `ip_type`) VALUES ('3.98.171.196/30', 'IPv4');
+INSERT INTO `aws_amazon_appflow_ips` (`ip_address`, `ip_type`) VALUES ('3.127.48.244/30', 'IPv4');
+INSERT INTO `aws_amazon_appflow_ips` (`ip_address`, `ip_type`) VALUES ('3.127.48.248/30', 'IPv4');
+INSERT INTO `aws_amazon_appflow_ips` (`ip_address`, `ip_type`) VALUES ('3.68.251.176/30', 'IPv4');
+INSERT INTO `aws_amazon_appflow_ips` (`ip_address`, `ip_type`) VALUES ('3.248.186.92/30', 'IPv4');
+INSERT INTO `aws_amazon_appflow_ips` (`ip_address`, `ip_type`) VALUES ('3.248.244.240/30', 'IPv4');
+INSERT INTO `aws_amazon_appflow_ips` (`ip_address`, `ip_type`) VALUES ('3.251.152.44/30', 'IPv4');
+INSERT INTO `aws_amazon_appflow_ips` (`ip_address`, `ip_type`) VALUES ('18.130.91.144/30', 'IPv4');
+INSERT INTO `aws_amazon_appflow_ips` (`ip_address`, `ip_type`) VALUES ('18.130.91.148/30', 'IPv4');
+INSERT INTO `aws_amazon_appflow_ips` (`ip_address`, `ip_type`) VALUES ('18.169.230.136/30', 'IPv4');
+INSERT INTO `aws_amazon_appflow_ips` (`ip_address`, `ip_type`) VALUES ('13.36.84.44/30', 'IPv4');
+INSERT INTO `aws_amazon_appflow_ips` (`ip_address`, `ip_type`) VALUES ('15.188.210.196/30', 'IPv4');
+INSERT INTO `aws_amazon_appflow_ips` (`ip_address`, `ip_type`) VALUES ('15.188.210.200/30', 'IPv4');
+INSERT INTO `aws_amazon_appflow_ips` (`ip_address`, `ip_type`) VALUES ('15.228.126.72/30', 'IPv4');
+INSERT INTO `aws_amazon_appflow_ips` (`ip_address`, `ip_type`) VALUES ('18.229.100.112/30', 'IPv4');
+INSERT INTO `aws_amazon_appflow_ips` (`ip_address`, `ip_type`) VALUES ('18.229.100.116/30', 'IPv4');
+INSERT INTO `aws_amazon_appflow_ips` (`ip_address`, `ip_type`) VALUES ('3.235.189.100/30', 'IPv4');
+INSERT INTO `aws_amazon_appflow_ips` (`ip_address`, `ip_type`) VALUES ('3.235.189.96/30', 'IPv4');
+INSERT INTO `aws_amazon_appflow_ips` (`ip_address`, `ip_type`) VALUES ('44.194.111.224/30', 'IPv4');
+INSERT INTO `aws_amazon_appflow_ips` (`ip_address`, `ip_type`) VALUES ('18.117.239.68/30', 'IPv4');
+INSERT INTO `aws_amazon_appflow_ips` (`ip_address`, `ip_type`) VALUES ('3.12.23.88/30', 'IPv4');
+INSERT INTO `aws_amazon_appflow_ips` (`ip_address`, `ip_type`) VALUES ('3.12.23.92/30', 'IPv4');
+INSERT INTO `aws_amazon_appflow_ips` (`ip_address`, `ip_type`) VALUES ('3.101.177.20/30', 'IPv4');
+INSERT INTO `aws_amazon_appflow_ips` (`ip_address`, `ip_type`) VALUES ('3.101.52.208/30', 'IPv4');
+INSERT INTO `aws_amazon_appflow_ips` (`ip_address`, `ip_type`) VALUES ('3.101.52.212/30', 'IPv4');
+INSERT INTO `aws_amazon_appflow_ips` (`ip_address`, `ip_type`) VALUES ('35.84.36.0/30', 'IPv4');
+INSERT INTO `aws_amazon_appflow_ips` (`ip_address`, `ip_type`) VALUES ('44.234.73.116/30', 'IPv4');
+INSERT INTO `aws_amazon_appflow_ips` (`ip_address`, `ip_type`) VALUES ('44.234.73.120/30', 'IPv4');

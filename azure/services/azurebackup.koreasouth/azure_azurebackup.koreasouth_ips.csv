@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+52.147.113.0/26,IPv4,AzureBackup.KoreaSouth,koreasouth
+52.231.147.32/27,IPv4,AzureBackup.KoreaSouth,koreasouth
+52.231.147.64/26,IPv4,AzureBackup.KoreaSouth,koreasouth
+2603:1040:e05:5::300/121,IPv6,AzureBackup.KoreaSouth,koreasouth

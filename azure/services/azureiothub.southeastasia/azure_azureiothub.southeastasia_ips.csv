@@ -1,0 +1,14 @@
+ip_address,ip_type,service,region
+13.67.10.224/27,IPv4,AzureIoTHub.SoutheastAsia,southeastasia
+13.76.83.155/32,IPv4,AzureIoTHub.SoutheastAsia,southeastasia
+13.76.217.46/32,IPv4,AzureIoTHub.SoutheastAsia,southeastasia
+23.98.86.0/27,IPv4,AzureIoTHub.SoutheastAsia,southeastasia
+23.98.104.192/27,IPv4,AzureIoTHub.SoutheastAsia,southeastasia
+23.98.106.0/25,IPv4,AzureIoTHub.SoutheastAsia,southeastasia
+23.101.29.228/32,IPv4,AzureIoTHub.SoutheastAsia,southeastasia
+40.78.238.0/27,IPv4,AzureIoTHub.SoutheastAsia,southeastasia
+52.163.212.39/32,IPv4,AzureIoTHub.SoutheastAsia,southeastasia
+52.163.215.122/32,IPv4,AzureIoTHub.SoutheastAsia,southeastasia
+2603:1040:5:402::300/123,IPv6,AzureIoTHub.SoutheastAsia,southeastasia
+2603:1040:5:802::240/123,IPv6,AzureIoTHub.SoutheastAsia,southeastasia
+2603:1040:5:c02::240/123,IPv6,AzureIoTHub.SoutheastAsia,southeastasia

@@ -1,0 +1,8 @@
+ip_address,ip_type,service,region
+13.77.50.64/30,IPv4,AzureKeyVault.AustraliaSoutheast,australiasoutheast
+104.46.179.244/30,IPv4,AzureKeyVault.AustraliaSoutheast,australiasoutheast
+104.46.183.152/29,IPv4,AzureKeyVault.AustraliaSoutheast,australiasoutheast
+2603:1010:101::100/125,IPv6,AzureKeyVault.AustraliaSoutheast,australiasoutheast
+2603:1010:101::108/126,IPv6,AzureKeyVault.AustraliaSoutheast,australiasoutheast
+2603:1010:101::2a0/125,IPv6,AzureKeyVault.AustraliaSoutheast,australiasoutheast
+2603:1010:101:402::80/125,IPv6,AzureKeyVault.AustraliaSoutheast,australiasoutheast

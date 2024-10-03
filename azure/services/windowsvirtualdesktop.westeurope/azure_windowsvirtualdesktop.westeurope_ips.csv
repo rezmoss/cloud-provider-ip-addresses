@@ -1,0 +1,13 @@
+ip_address,ip_type,service,region
+13.69.82.138/32,IPv4,WindowsVirtualDesktop.WestEurope,westeurope
+13.81.103.164/32,IPv4,WindowsVirtualDesktop.WestEurope,westeurope
+40.64.144.32/27,IPv4,WindowsVirtualDesktop.WestEurope,westeurope
+40.68.18.120/32,IPv4,WindowsVirtualDesktop.WestEurope,westeurope
+40.114.241.90/32,IPv4,WindowsVirtualDesktop.WestEurope,westeurope
+51.136.28.200/32,IPv4,WindowsVirtualDesktop.WestEurope,westeurope
+51.137.89.79/32,IPv4,WindowsVirtualDesktop.WestEurope,westeurope
+52.174.65.5/32,IPv4,WindowsVirtualDesktop.WestEurope,westeurope
+65.52.158.177/32,IPv4,WindowsVirtualDesktop.WestEurope,westeurope
+104.40.156.194/32,IPv4,WindowsVirtualDesktop.WestEurope,westeurope
+168.63.31.54/32,IPv4,WindowsVirtualDesktop.WestEurope,westeurope
+2603:1061:2010:19::/117,IPv6,WindowsVirtualDesktop.WestEurope,westeurope

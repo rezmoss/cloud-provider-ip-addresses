@@ -1,0 +1,17 @@
+ip_address,ip_type,service,region
+4.232.26.128/26,IPv4,AzureContainerRegistry.ItalyNorth,italynorth
+4.232.51.192/26,IPv4,AzureContainerRegistry.ItalyNorth,italynorth
+4.232.106.128/26,IPv4,AzureContainerRegistry.ItalyNorth,italynorth
+4.232.108.128/25,IPv4,AzureContainerRegistry.ItalyNorth,italynorth
+4.232.122.128/26,IPv4,AzureContainerRegistry.ItalyNorth,italynorth
+4.232.125.0/25,IPv4,AzureContainerRegistry.ItalyNorth,italynorth
+4.232.194.128/26,IPv4,AzureContainerRegistry.ItalyNorth,italynorth
+4.232.197.0/25,IPv4,AzureContainerRegistry.ItalyNorth,italynorth
+2603:1020:1204::580/125,IPv6,AzureContainerRegistry.ItalyNorth,italynorth
+2603:1020:1204:3::500/122,IPv6,AzureContainerRegistry.ItalyNorth,italynorth
+2603:1020:1204:400::48/125,IPv6,AzureContainerRegistry.ItalyNorth,italynorth
+2603:1020:1204:400::200/121,IPv6,AzureContainerRegistry.ItalyNorth,italynorth
+2603:1020:1204:800::8/125,IPv6,AzureContainerRegistry.ItalyNorth,italynorth
+2603:1020:1204:800::180/121,IPv6,AzureContainerRegistry.ItalyNorth,italynorth
+2603:1020:1204:c00::8/125,IPv6,AzureContainerRegistry.ItalyNorth,italynorth
+2603:1020:1204:c00::180/121,IPv6,AzureContainerRegistry.ItalyNorth,italynorth

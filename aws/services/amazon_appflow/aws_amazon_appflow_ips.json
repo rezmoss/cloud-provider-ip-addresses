@@ -1,0 +1,290 @@
+[
+  {
+    "ip_address": "13.245.127.232/30",
+    "ip_type": "IPv4",
+    "service": "AMAZON_APPFLOW",
+    "region": "af-south-1"
+  },
+  {
+    "ip_address": "13.245.166.128/30",
+    "ip_type": "IPv4",
+    "service": "AMAZON_APPFLOW",
+    "region": "af-south-1"
+  },
+  {
+    "ip_address": "13.245.166.132/30",
+    "ip_type": "IPv4",
+    "service": "AMAZON_APPFLOW",
+    "region": "af-south-1"
+  },
+  {
+    "ip_address": "18.176.203.120/30",
+    "ip_type": "IPv4",
+    "service": "AMAZON_APPFLOW",
+    "region": "ap-northeast-1"
+  },
+  {
+    "ip_address": "3.113.218.76/30",
+    "ip_type": "IPv4",
+    "service": "AMAZON_APPFLOW",
+    "region": "ap-northeast-1"
+  },
+  {
+    "ip_address": "35.74.77.240/30",
+    "ip_type": "IPv4",
+    "service": "AMAZON_APPFLOW",
+    "region": "ap-northeast-1"
+  },
+  {
+    "ip_address": "3.34.89.192/30",
+    "ip_type": "IPv4",
+    "service": "AMAZON_APPFLOW",
+    "region": "ap-northeast-2"
+  },
+  {
+    "ip_address": "3.34.89.196/30",
+    "ip_type": "IPv4",
+    "service": "AMAZON_APPFLOW",
+    "region": "ap-northeast-2"
+  },
+  {
+    "ip_address": "3.36.245.232/30",
+    "ip_type": "IPv4",
+    "service": "AMAZON_APPFLOW",
+    "region": "ap-northeast-2"
+  },
+  {
+    "ip_address": "3.108.13.124/30",
+    "ip_type": "IPv4",
+    "service": "AMAZON_APPFLOW",
+    "region": "ap-south-1"
+  },
+  {
+    "ip_address": "3.6.70.76/30",
+    "ip_type": "IPv4",
+    "service": "AMAZON_APPFLOW",
+    "region": "ap-south-1"
+  },
+  {
+    "ip_address": "3.7.25.48/30",
+    "ip_type": "IPv4",
+    "service": "AMAZON_APPFLOW",
+    "region": "ap-south-1"
+  },
+  {
+    "ip_address": "18.141.238.68/30",
+    "ip_type": "IPv4",
+    "service": "AMAZON_APPFLOW",
+    "region": "ap-southeast-1"
+  },
+  {
+    "ip_address": "18.141.66.248/30",
+    "ip_type": "IPv4",
+    "service": "AMAZON_APPFLOW",
+    "region": "ap-southeast-1"
+  },
+  {
+    "ip_address": "18.141.66.252/30",
+    "ip_type": "IPv4",
+    "service": "AMAZON_APPFLOW",
+    "region": "ap-southeast-1"
+  },
+  {
+    "ip_address": "3.25.47.28/30",
+    "ip_type": "IPv4",
+    "service": "AMAZON_APPFLOW",
+    "region": "ap-southeast-2"
+  },
+  {
+    "ip_address": "3.25.47.32/30",
+    "ip_type": "IPv4",
+    "service": "AMAZON_APPFLOW",
+    "region": "ap-southeast-2"
+  },
+  {
+    "ip_address": "3.26.109.216/30",
+    "ip_type": "IPv4",
+    "service": "AMAZON_APPFLOW",
+    "region": "ap-southeast-2"
+  },
+  {
+    "ip_address": "3.96.2.68/30",
+    "ip_type": "IPv4",
+    "service": "AMAZON_APPFLOW",
+    "region": "ca-central-1"
+  },
+  {
+    "ip_address": "3.96.2.72/30",
+    "ip_type": "IPv4",
+    "service": "AMAZON_APPFLOW",
+    "region": "ca-central-1"
+  },
+  {
+    "ip_address": "3.98.171.196/30",
+    "ip_type": "IPv4",
+    "service": "AMAZON_APPFLOW",
+    "region": "ca-central-1"
+  },
+  {
+    "ip_address": "3.127.48.244/30",
+    "ip_type": "IPv4",
+    "service": "AMAZON_APPFLOW",
+    "region": "eu-central-1"
+  },
+  {
+    "ip_address": "3.127.48.248/30",
+    "ip_type": "IPv4",
+    "service": "AMAZON_APPFLOW",
+    "region": "eu-central-1"
+  },
+  {
+    "ip_address": "3.68.251.176/30",
+    "ip_type": "IPv4",
+    "service": "AMAZON_APPFLOW",
+    "region": "eu-central-1"
+  },
+  {
+    "ip_address": "3.248.186.92/30",
+    "ip_type": "IPv4",
+    "service": "AMAZON_APPFLOW",
+    "region": "eu-west-1"
+  },
+  {
+    "ip_address": "3.248.244.240/30",
+    "ip_type": "IPv4",
+    "service": "AMAZON_APPFLOW",
+    "region": "eu-west-1"
+  },
+  {
+    "ip_address": "3.251.152.44/30",
+    "ip_type": "IPv4",
+    "service": "AMAZON_APPFLOW",
+    "region": "eu-west-1"
+  },
+  {
+    "ip_address": "18.130.91.144/30",
+    "ip_type": "IPv4",
+    "service": "AMAZON_APPFLOW",
+    "region": "eu-west-2"
+  },
+  {
+    "ip_address": "18.130.91.148/30",
+    "ip_type": "IPv4",
+    "service": "AMAZON_APPFLOW",
+    "region": "eu-west-2"
+  },
+  {
+    "ip_address": "18.169.230.136/30",
+    "ip_type": "IPv4",
+    "service": "AMAZON_APPFLOW",
+    "region": "eu-west-2"
+  },
+  {
+    "ip_address": "13.36.84.44/30",
+    "ip_type": "IPv4",
+    "service": "AMAZON_APPFLOW",
+    "region": "eu-west-3"
+  },
+  {
+    "ip_address": "15.188.210.196/30",
+    "ip_type": "IPv4",
+    "service": "AMAZON_APPFLOW",
+    "region": "eu-west-3"
+  },
+  {
+    "ip_address": "15.188.210.200/30",
+    "ip_type": "IPv4",
+    "service": "AMAZON_APPFLOW",
+    "region": "eu-west-3"
+  },
+  {
+    "ip_address": "15.228.126.72/30",
+    "ip_type": "IPv4",
+    "service": "AMAZON_APPFLOW",
+    "region": "sa-east-1"
+  },
+  {
+    "ip_address": "18.229.100.112/30",
+    "ip_type": "IPv4",
+    "service": "AMAZON_APPFLOW",
+    "region": "sa-east-1"
+  },
+  {
+    "ip_address": "18.229.100.116/30",
+    "ip_type": "IPv4",
+    "service": "AMAZON_APPFLOW",
+    "region": "sa-east-1"
+  },
+  {
+    "ip_address": "3.235.189.100/30",
+    "ip_type": "IPv4",
+    "service": "AMAZON_APPFLOW",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "3.235.189.96/30",
+    "ip_type": "IPv4",
+    "service": "AMAZON_APPFLOW",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "44.194.111.224/30",
+    "ip_type": "IPv4",
+    "service": "AMAZON_APPFLOW",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "18.117.239.68/30",
+    "ip_type": "IPv4",
+    "service": "AMAZON_APPFLOW",
+    "region": "us-east-2"
+  },
+  {
+    "ip_address": "3.12.23.88/30",
+    "ip_type": "IPv4",
+    "service": "AMAZON_APPFLOW",
+    "region": "us-east-2"
+  },
+  {
+    "ip_address": "3.12.23.92/30",
+    "ip_type": "IPv4",
+    "service": "AMAZON_APPFLOW",
+    "region": "us-east-2"
+  },
+  {
+    "ip_address": "3.101.177.20/30",
+    "ip_type": "IPv4",
+    "service": "AMAZON_APPFLOW",
+    "region": "us-west-1"
+  },
+  {
+    "ip_address": "3.101.52.208/30",
+    "ip_type": "IPv4",
+    "service": "AMAZON_APPFLOW",
+    "region": "us-west-1"
+  },
+  {
+    "ip_address": "3.101.52.212/30",
+    "ip_type": "IPv4",
+    "service": "AMAZON_APPFLOW",
+    "region": "us-west-1"
+  },
+  {
+    "ip_address": "35.84.36.0/30",
+    "ip_type": "IPv4",
+    "service": "AMAZON_APPFLOW",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "44.234.73.116/30",
+    "ip_type": "IPv4",
+    "service": "AMAZON_APPFLOW",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "44.234.73.120/30",
+    "ip_type": "IPv4",
+    "service": "AMAZON_APPFLOW",
+    "region": "us-west-2"
+  }
+]

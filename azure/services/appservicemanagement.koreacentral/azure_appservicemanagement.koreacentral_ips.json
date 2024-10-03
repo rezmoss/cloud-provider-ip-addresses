@@ -1,0 +1,44 @@
+[
+  {
+    "ip_address": "20.200.196.64/28",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "52.231.18.64/26",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "52.231.32.117/32",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "2603:1040:f05:3::100/123",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "2603:1040:f05:402::100/122",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "2603:1040:f05:802::100/122",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "2603:1040:f05:c02::100/122",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.KoreaCentral",
+    "region": "koreacentral"
+  }
+]

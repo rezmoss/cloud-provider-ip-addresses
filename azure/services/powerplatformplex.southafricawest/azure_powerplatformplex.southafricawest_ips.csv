@@ -1,0 +1,9 @@
+ip_address,ip_type,service,region
+40.117.28.240/29,IPv4,PowerPlatformPlex.SouthAfricaWest,southafricawest
+102.37.87.100/30,IPv4,PowerPlatformPlex.SouthAfricaWest,southafricawest
+102.37.87.136/30,IPv4,PowerPlatformPlex.SouthAfricaWest,southafricawest
+102.37.87.184/29,IPv4,PowerPlatformPlex.SouthAfricaWest,southafricawest
+102.133.78.96/28,IPv4,PowerPlatformPlex.SouthAfricaWest,southafricawest
+172.209.8.32/29,IPv4,PowerPlatformPlex.SouthAfricaWest,southafricawest
+172.209.15.8/29,IPv4,PowerPlatformPlex.SouthAfricaWest,southafricawest
+2603:1061:2004:2100::/57,IPv6,PowerPlatformPlex.SouthAfricaWest,southafricawest

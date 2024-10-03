@@ -1,0 +1,74 @@
+[
+  {
+    "ip_address": "20.40.190.0/26",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "20.70.223.24/29",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "20.70.223.80/29",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "20.70.223.88/30",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "20.70.223.168/29",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "20.213.194.128/29",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "20.213.194.136/30",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "68.218.130.168/29",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "68.218.130.176/28",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "68.218.131.0/28",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "68.218.139.56/29",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "2603:1061:2004:5900::/57",
+    "ip_type": "IPv6",
+    "service": "PowerPlatformPlex.AustraliaEast",
+    "region": "australiaeast"
+  }
+]

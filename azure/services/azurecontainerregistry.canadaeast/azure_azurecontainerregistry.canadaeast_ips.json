@@ -1,0 +1,62 @@
+[
+  {
+    "ip_address": "40.69.106.80/29",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.69.110.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.69.116.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.89.23.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:3::180/125",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:6::40/122",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:402::90/125",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:402::340/122",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:402::580/122",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:402::600/121",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.CanadaEast",
+    "region": "canadaeast"
+  }
+]

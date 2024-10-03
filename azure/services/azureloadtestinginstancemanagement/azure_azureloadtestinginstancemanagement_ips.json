@@ -1,0 +1,146 @@
+[
+  {
+    "ip_address": "20.14.122.64/32",
+    "ip_type": "IPv4",
+    "service": "AzureLoadTestingInstanceManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "20.18.2.123/32",
+    "ip_type": "IPv4",
+    "service": "AzureLoadTestingInstanceManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "20.24.1.136/30",
+    "ip_type": "IPv4",
+    "service": "AzureLoadTestingInstanceManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "20.26.16.112/30",
+    "ip_type": "IPv4",
+    "service": "AzureLoadTestingInstanceManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "20.50.88.154/32",
+    "ip_type": "IPv4",
+    "service": "AzureLoadTestingInstanceManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "20.70.223.12/32",
+    "ip_type": "IPv4",
+    "service": "AzureLoadTestingInstanceManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "20.83.222.204/32",
+    "ip_type": "IPv4",
+    "service": "AzureLoadTestingInstanceManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "20.88.159.138/32",
+    "ip_type": "IPv4",
+    "service": "AzureLoadTestingInstanceManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "20.91.147.64/32",
+    "ip_type": "IPv4",
+    "service": "AzureLoadTestingInstanceManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "20.98.194.67/32",
+    "ip_type": "IPv4",
+    "service": "AzureLoadTestingInstanceManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "20.98.199.120/30",
+    "ip_type": "IPv4",
+    "service": "AzureLoadTestingInstanceManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "20.107.239.218/32",
+    "ip_type": "IPv4",
+    "service": "AzureLoadTestingInstanceManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "20.117.192.200/32",
+    "ip_type": "IPv4",
+    "service": "AzureLoadTestingInstanceManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "20.125.7.20/30",
+    "ip_type": "IPv4",
+    "service": "AzureLoadTestingInstanceManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "20.195.85.190/32",
+    "ip_type": "IPv4",
+    "service": "AzureLoadTestingInstanceManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "20.204.198.37/32",
+    "ip_type": "IPv4",
+    "service": "AzureLoadTestingInstanceManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "20.205.55.209/32",
+    "ip_type": "IPv4",
+    "service": "AzureLoadTestingInstanceManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "20.206.183.106/32",
+    "ip_type": "IPv4",
+    "service": "AzureLoadTestingInstanceManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "20.213.195.80/30",
+    "ip_type": "IPv4",
+    "service": "AzureLoadTestingInstanceManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "20.220.2.105/32",
+    "ip_type": "IPv4",
+    "service": "AzureLoadTestingInstanceManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "20.223.65.156/30",
+    "ip_type": "IPv4",
+    "service": "AzureLoadTestingInstanceManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "20.232.91.28/30",
+    "ip_type": "IPv4",
+    "service": "AzureLoadTestingInstanceManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "20.236.145.196/30",
+    "ip_type": "IPv4",
+    "service": "AzureLoadTestingInstanceManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "52.242.47.104/32",
+    "ip_type": "IPv4",
+    "service": "AzureLoadTestingInstanceManagement",
+    "region": ""
+  }
+]

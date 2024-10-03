@@ -1,0 +1,7 @@
+ip_address,ip_type,service,region
+40.64.147.32/28,IPv4,WindowsVirtualDesktop.SwitzerlandNorth,switzerlandn
+51.107.69.35/32,IPv4,WindowsVirtualDesktop.SwitzerlandNorth,switzerlandn
+51.107.85.67/32,IPv4,WindowsVirtualDesktop.SwitzerlandNorth,switzerlandn
+51.107.85.110/32,IPv4,WindowsVirtualDesktop.SwitzerlandNorth,switzerlandn
+51.107.86.99/32,IPv4,WindowsVirtualDesktop.SwitzerlandNorth,switzerlandn
+2603:1061:2010:28::/117,IPv6,WindowsVirtualDesktop.SwitzerlandNorth,switzerlandn

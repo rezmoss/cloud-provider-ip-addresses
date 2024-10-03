@@ -1,0 +1,8 @@
+ip_address,ip_type,service,region
+40.64.146.64/28,IPv4,WindowsVirtualDesktop.AustraliaSoutheast,australiasoutheast
+52.189.194.14/32,IPv4,WindowsVirtualDesktop.AustraliaSoutheast,australiasoutheast
+52.189.215.151/32,IPv4,WindowsVirtualDesktop.AustraliaSoutheast,australiasoutheast
+52.243.74.213/32,IPv4,WindowsVirtualDesktop.AustraliaSoutheast,australiasoutheast
+52.255.40.105/32,IPv4,WindowsVirtualDesktop.AustraliaSoutheast,australiasoutheast
+52.255.61.145/32,IPv4,WindowsVirtualDesktop.AustraliaSoutheast,australiasoutheast
+2603:1061:2010:1::/117,IPv6,WindowsVirtualDesktop.AustraliaSoutheast,australiasoutheast

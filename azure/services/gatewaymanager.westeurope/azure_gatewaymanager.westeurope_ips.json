@@ -1,0 +1,38 @@
+[
+  {
+    "ip_address": "13.69.64.224/29",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "20.71.77.117/32",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "20.71.77.160/32",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "20.105.210.128/27",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "40.74.24.72/29",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "2603:1020:206:1::40/122",
+    "ip_type": "IPv6",
+    "service": "GatewayManager.WestEurope",
+    "region": "westeurope"
+  }
+]

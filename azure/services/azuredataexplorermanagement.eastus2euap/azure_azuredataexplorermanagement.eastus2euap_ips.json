@@ -1,0 +1,38 @@
+[
+  {
+    "ip_address": "40.74.147.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureDataExplorerManagement.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "52.253.225.186/32",
+    "ip_type": "IPv4",
+    "service": "AzureDataExplorerManagement.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "52.253.226.110/32",
+    "ip_type": "IPv4",
+    "service": "AzureDataExplorerManagement.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "172.173.40.32/28",
+    "ip_type": "IPv4",
+    "service": "AzureDataExplorerManagement.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "2603:1030:40b:2::400/121",
+    "ip_type": "IPv6",
+    "service": "AzureDataExplorerManagement.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "2603:1030:40b:400::950/124",
+    "ip_type": "IPv6",
+    "service": "AzureDataExplorerManagement.EastUS2EUAP",
+    "region": "eastus2euap"
+  }
+]

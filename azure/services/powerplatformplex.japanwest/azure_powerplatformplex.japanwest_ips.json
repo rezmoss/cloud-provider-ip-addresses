@@ -1,0 +1,56 @@
+[
+  {
+    "ip_address": "4.190.136.184/29",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.JapanWest",
+    "region": "japanwest"
+  },
+  {
+    "ip_address": "4.190.136.192/28",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.JapanWest",
+    "region": "japanwest"
+  },
+  {
+    "ip_address": "4.190.143.216/29",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.JapanWest",
+    "region": "japanwest"
+  },
+  {
+    "ip_address": "20.39.179.192/26",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.JapanWest",
+    "region": "japanwest"
+  },
+  {
+    "ip_address": "20.189.194.180/30",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.JapanWest",
+    "region": "japanwest"
+  },
+  {
+    "ip_address": "20.189.198.88/29",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.JapanWest",
+    "region": "japanwest"
+  },
+  {
+    "ip_address": "20.189.198.136/29",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.JapanWest",
+    "region": "japanwest"
+  },
+  {
+    "ip_address": "20.189.199.32/30",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.JapanWest",
+    "region": "japanwest"
+  },
+  {
+    "ip_address": "2603:1061:2004:3100::/57",
+    "ip_type": "IPv6",
+    "service": "PowerPlatformPlex.JapanWest",
+    "region": "japanwest"
+  }
+]

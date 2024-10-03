@@ -1,0 +1,3 @@
+ip_address,ip_type,service,region
+51.53.108.96/27,IPv4,AzureIoTHub.TaiwanNorth,taiwannorth
+2603:1040:1302:400::220/123,IPv6,AzureIoTHub.TaiwanNorth,taiwannorth

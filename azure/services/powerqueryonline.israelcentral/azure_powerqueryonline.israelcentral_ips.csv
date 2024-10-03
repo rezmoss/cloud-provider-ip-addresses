@@ -1,0 +1,13 @@
+ip_address,ip_type,service,region
+20.217.40.20/31,IPv4,PowerQueryOnline.IsraelCentral,israelcentral
+20.217.47.60/31,IPv4,PowerQueryOnline.IsraelCentral,israelcentral
+20.217.47.232/29,IPv4,PowerQueryOnline.IsraelCentral,israelcentral
+20.217.62.138/31,IPv4,PowerQueryOnline.IsraelCentral,israelcentral
+20.217.74.8/31,IPv4,PowerQueryOnline.IsraelCentral,israelcentral
+20.217.90.8/31,IPv4,PowerQueryOnline.IsraelCentral,israelcentral
+20.217.165.0/29,IPv4,PowerQueryOnline.IsraelCentral,israelcentral
+2603:1040:1402::1c0/123,IPv6,PowerQueryOnline.IsraelCentral,israelcentral
+2603:1040:1402:400::198/126,IPv6,PowerQueryOnline.IsraelCentral,israelcentral
+2603:1040:1402:402::40/126,IPv6,PowerQueryOnline.IsraelCentral,israelcentral
+2603:1040:1402:800::/125,IPv6,PowerQueryOnline.IsraelCentral,israelcentral
+2603:1040:1402:c00::/125,IPv6,PowerQueryOnline.IsraelCentral,israelcentral

@@ -1,0 +1,7 @@
+ip_address,ip_type,service,region
+40.79.178.128/26,IPv4,AppServiceManagement.FranceSouth,southfrance
+52.136.136.72/32,IPv4,AppServiceManagement.FranceSouth,southfrance
+52.136.191.16/28,IPv4,AppServiceManagement.FranceSouth,southfrance
+2603:1020:905:1::480/123,IPv6,AppServiceManagement.FranceSouth,southfrance
+2603:1020:905:5::580/122,IPv6,AppServiceManagement.FranceSouth,southfrance
+2603:1020:905:402::100/122,IPv6,AppServiceManagement.FranceSouth,southfrance

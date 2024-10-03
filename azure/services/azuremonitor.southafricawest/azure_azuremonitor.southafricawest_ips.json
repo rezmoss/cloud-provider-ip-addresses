@@ -1,0 +1,92 @@
+[
+  {
+    "ip_address": "40.117.24.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SouthAfricaWest",
+    "region": "southafricawest"
+  },
+  {
+    "ip_address": "102.37.64.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SouthAfricaWest",
+    "region": "southafricawest"
+  },
+  {
+    "ip_address": "102.37.80.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SouthAfricaWest",
+    "region": "southafricawest"
+  },
+  {
+    "ip_address": "102.37.86.196/31",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SouthAfricaWest",
+    "region": "southafricawest"
+  },
+  {
+    "ip_address": "102.133.27.48/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SouthAfricaWest",
+    "region": "southafricawest"
+  },
+  {
+    "ip_address": "102.133.28.64/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SouthAfricaWest",
+    "region": "southafricawest"
+  },
+  {
+    "ip_address": "172.209.15.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SouthAfricaWest",
+    "region": "southafricawest"
+  },
+  {
+    "ip_address": "172.209.15.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SouthAfricaWest",
+    "region": "southafricawest"
+  },
+  {
+    "ip_address": "2603:1000:4::780/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SouthAfricaWest",
+    "region": "southafricawest"
+  },
+  {
+    "ip_address": "2603:1000:4:1::280/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SouthAfricaWest",
+    "region": "southafricawest"
+  },
+  {
+    "ip_address": "2603:1000:4:1::300/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SouthAfricaWest",
+    "region": "southafricawest"
+  },
+  {
+    "ip_address": "2603:1000:4:2::500/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SouthAfricaWest",
+    "region": "southafricawest"
+  },
+  {
+    "ip_address": "2603:1000:4:2::7c0/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SouthAfricaWest",
+    "region": "southafricawest"
+  },
+  {
+    "ip_address": "2603:1000:4:5::/122",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SouthAfricaWest",
+    "region": "southafricawest"
+  },
+  {
+    "ip_address": "2603:1000:4:402::500/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SouthAfricaWest",
+    "region": "southafricawest"
+  }
+]

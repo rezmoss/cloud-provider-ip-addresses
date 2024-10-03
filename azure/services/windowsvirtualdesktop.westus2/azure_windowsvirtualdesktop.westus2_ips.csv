@@ -1,0 +1,11 @@
+ip_address,ip_type,service,region
+13.66.251.49/32,IPv4,WindowsVirtualDesktop.WestUS2,westus2
+13.77.140.58/32,IPv4,WindowsVirtualDesktop.WestUS2,westus2
+20.190.43.99/32,IPv4,WindowsVirtualDesktop.WestUS2,westus2
+40.64.145.160/28,IPv4,WindowsVirtualDesktop.WestUS2,westus2
+40.65.122.222/32,IPv4,WindowsVirtualDesktop.WestUS2,westus2
+51.141.173.236/32,IPv4,WindowsVirtualDesktop.WestUS2,westus2
+51.143.39.79/32,IPv4,WindowsVirtualDesktop.WestUS2,westus2
+52.151.53.196/32,IPv4,WindowsVirtualDesktop.WestUS2,westus2
+52.175.253.156/32,IPv4,WindowsVirtualDesktop.WestUS2,westus2
+2603:1061:2010:1c::/117,IPv6,WindowsVirtualDesktop.WestUS2,westus2

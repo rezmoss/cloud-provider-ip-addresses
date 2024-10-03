@@ -1,0 +1,374 @@
+[
+  {
+    "ip_address": "13.65.39.247/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "13.65.82.17/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "13.65.82.190/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "13.65.86.56/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "13.65.98.39/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "13.66.52.232/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "13.73.244.144/28",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "13.73.244.160/27",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "13.84.41.46/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "13.84.43.45/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "13.84.159.168/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "13.85.79.155/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "20.88.209.88/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "20.88.209.97/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "20.88.209.113/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "20.94.149.199/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "20.94.150.220/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "20.94.151.41/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "20.94.168.143/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "20.94.168.235/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "20.94.168.241/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "20.97.39.48/29",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "20.97.39.64/27",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "23.100.124.84/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "23.100.127.172/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "23.101.183.225/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "23.101.191.106/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "40.84.138.132/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "52.152.91.74/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "52.152.91.77/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "52.249.31.63/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "52.255.124.118/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "52.255.126.229/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "52.255.127.24/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "52.255.127.125/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "52.255.127.201/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "52.255.127.211/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "52.255.127.233/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "52.255.127.243/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "70.37.50.6/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "70.37.54.122/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "104.210.144.48/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "104.210.153.89/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "104.215.88.156/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "104.215.89.144/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "104.215.90.86/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "104.215.90.189/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "104.215.90.203/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "104.215.93.125/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "172.206.187.57/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "172.206.187.62/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "172.206.187.90/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "172.206.187.92/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "172.206.187.98/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "172.206.187.101/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "172.206.187.132/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "172.206.187.135/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "172.215.135.240/28",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "191.238.161.62/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "191.238.163.65/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "2603:1030:807:402::3c0/124",
+    "ip_type": "IPv6",
+    "service": "LogicApps.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "2603:1030:807:402::3e0/123",
+    "ip_type": "IPv6",
+    "service": "LogicApps.SouthCentralUS",
+    "region": "southcentralus"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "ip_address": "20.240.10.145/32",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "20.240.11.143/32",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "51.12.29.112/28",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "51.12.72.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "51.12.98.240/28",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "51.12.102.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "2603:1020:1004:c02::80/122",
+    "ip_type": "IPv6",
+    "service": "AzureConnectors.SwedenCentral",
+    "region": "swedencentral"
+  }
+]

@@ -1,0 +1,7 @@
+ip_address,ip_type,service,region
+34.1.0.0/20,IPv4,Google Cloud,europe-west9
+34.155.0.0/16,IPv4,Google Cloud,europe-west9
+34.157.12.0/22,IPv4,Google Cloud,europe-west9
+34.157.140.0/22,IPv4,Google Cloud,europe-west9
+34.163.0.0/16,IPv4,Google Cloud,europe-west9
+2600:1901:8120::/44,IPv6,Google Cloud,europe-west9

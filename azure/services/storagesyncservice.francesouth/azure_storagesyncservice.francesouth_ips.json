@@ -1,0 +1,32 @@
+[
+  {
+    "ip_address": "51.105.88.248/29",
+    "ip_type": "IPv4",
+    "service": "StorageSyncService.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "51.138.161.40/29",
+    "ip_type": "IPv4",
+    "service": "StorageSyncService.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "52.136.131.99/32",
+    "ip_type": "IPv4",
+    "service": "StorageSyncService.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "2603:1020:905::340/123",
+    "ip_type": "IPv6",
+    "service": "StorageSyncService.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "2603:1020:905:402::5e0/123",
+    "ip_type": "IPv6",
+    "service": "StorageSyncService.FranceSouth",
+    "region": "southfrance"
+  }
+]

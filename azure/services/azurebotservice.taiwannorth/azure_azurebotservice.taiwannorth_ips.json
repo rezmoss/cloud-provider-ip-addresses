@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "51.53.24.16/30",
+    "ip_type": "IPv4",
+    "service": "AzureBotService.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302::20/123",
+    "ip_type": "IPv6",
+    "service": "AzureBotService.TaiwanNorth",
+    "region": "taiwannorth"
+  }
+]

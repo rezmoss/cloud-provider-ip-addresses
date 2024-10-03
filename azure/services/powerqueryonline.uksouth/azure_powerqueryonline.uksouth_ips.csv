@@ -1,0 +1,12 @@
+ip_address,ip_type,service,region
+4.250.1.26/31,IPv4,PowerQueryOnline.UKSouth,uksouth
+20.117.193.48/29,IPv4,PowerQueryOnline.UKSouth,uksouth
+51.104.10.114/31,IPv4,PowerQueryOnline.UKSouth,uksouth
+51.104.24.70/31,IPv4,PowerQueryOnline.UKSouth,uksouth
+51.132.193.122/31,IPv4,PowerQueryOnline.UKSouth,uksouth
+172.187.102.64/29,IPv4,PowerQueryOnline.UKSouth,uksouth
+172.187.102.80/28,IPv4,PowerQueryOnline.UKSouth,uksouth
+2603:1020:705:1::200/123,IPv6,PowerQueryOnline.UKSouth,uksouth
+2603:1020:705:402::160/125,IPv6,PowerQueryOnline.UKSouth,uksouth
+2603:1020:705:802::140/125,IPv6,PowerQueryOnline.UKSouth,uksouth
+2603:1020:705:c00::20/125,IPv6,PowerQueryOnline.UKSouth,uksouth

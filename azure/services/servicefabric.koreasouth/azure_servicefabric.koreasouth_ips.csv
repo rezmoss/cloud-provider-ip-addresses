@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+52.231.147.16/29,IPv4,ServiceFabric.KoreaSouth,koreasouth
+52.231.200.124/32,IPv4,ServiceFabric.KoreaSouth,koreasouth
+2603:1040:e05:402::158/125,IPv6,ServiceFabric.KoreaSouth,koreasouth

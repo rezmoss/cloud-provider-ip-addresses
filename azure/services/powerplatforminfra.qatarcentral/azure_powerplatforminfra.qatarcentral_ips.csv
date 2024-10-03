@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+4.171.31.176/29,IPv4,PowerPlatformInfra.QatarCentral,qatarcentral
+4.171.31.192/26,IPv4,PowerPlatformInfra.QatarCentral,qatarcentral
+20.21.88.0/27,IPv4,PowerPlatformInfra.QatarCentral,qatarcentral
+2603:1061:2002:a000::/57,IPv6,PowerPlatformInfra.QatarCentral,qatarcentral

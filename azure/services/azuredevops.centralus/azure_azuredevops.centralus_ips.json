@@ -1,0 +1,8 @@
+[
+  {
+    "ip_address": "20.37.158.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureDevOps.CentralUS",
+    "region": "centralus"
+  }
+]

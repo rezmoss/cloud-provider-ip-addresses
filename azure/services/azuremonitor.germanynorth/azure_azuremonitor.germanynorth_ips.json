@@ -1,0 +1,116 @@
+[
+  {
+    "ip_address": "4.184.2.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "20.52.72.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "20.52.72.96/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "20.113.254.30/31",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "20.113.254.76/31",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "20.170.168.160/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "20.170.175.192/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "51.116.54.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "51.116.59.176/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "51.116.75.92/31",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "51.116.77.254/31",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d01:2::a/128",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04::780/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:1::280/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:1::300/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:5::400/122",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:5::580/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:5::7c0/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:402::500/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.GermanyNorth",
+    "region": "germanyn"
+  }
+]

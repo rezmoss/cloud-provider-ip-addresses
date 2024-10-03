@@ -1,0 +1,74 @@
+[
+  {
+    "ip_address": "158.23.15.0/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "158.23.108.208/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "158.23.110.0/23",
+    "ip_type": "IPv4",
+    "service": "DataFactory.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "158.23.119.128/26",
+    "ip_type": "IPv4",
+    "service": "DataFactory.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "158.23.123.208/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "158.23.195.208/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "158.23.200.0/25",
+    "ip_type": "IPv4",
+    "service": "DataFactory.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "2603:1030:702:2::180/121",
+    "ip_type": "IPv6",
+    "service": "DataFactory.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "2603:1030:702:4::2f8/125",
+    "ip_type": "IPv6",
+    "service": "DataFactory.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "2603:1030:702:400::440/124",
+    "ip_type": "IPv6",
+    "service": "DataFactory.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "2603:1030:702:800::280/124",
+    "ip_type": "IPv6",
+    "service": "DataFactory.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "2603:1030:702:c00::280/124",
+    "ip_type": "IPv6",
+    "service": "DataFactory.MexicoCentral",
+    "region": "mexicocentral"
+  }
+]

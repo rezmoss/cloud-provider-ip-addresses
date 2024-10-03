@@ -1,0 +1,74 @@
+[
+  {
+    "ip_address": "20.217.40.20/31",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.IsraelCentral",
+    "region": "israelcentral"
+  },
+  {
+    "ip_address": "20.217.47.60/31",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.IsraelCentral",
+    "region": "israelcentral"
+  },
+  {
+    "ip_address": "20.217.47.232/29",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.IsraelCentral",
+    "region": "israelcentral"
+  },
+  {
+    "ip_address": "20.217.62.138/31",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.IsraelCentral",
+    "region": "israelcentral"
+  },
+  {
+    "ip_address": "20.217.74.8/31",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.IsraelCentral",
+    "region": "israelcentral"
+  },
+  {
+    "ip_address": "20.217.90.8/31",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.IsraelCentral",
+    "region": "israelcentral"
+  },
+  {
+    "ip_address": "20.217.165.0/29",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.IsraelCentral",
+    "region": "israelcentral"
+  },
+  {
+    "ip_address": "2603:1040:1402::1c0/123",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.IsraelCentral",
+    "region": "israelcentral"
+  },
+  {
+    "ip_address": "2603:1040:1402:400::198/126",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.IsraelCentral",
+    "region": "israelcentral"
+  },
+  {
+    "ip_address": "2603:1040:1402:402::40/126",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.IsraelCentral",
+    "region": "israelcentral"
+  },
+  {
+    "ip_address": "2603:1040:1402:800::/125",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.IsraelCentral",
+    "region": "israelcentral"
+  },
+  {
+    "ip_address": "2603:1040:1402:c00::/125",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.IsraelCentral",
+    "region": "israelcentral"
+  }
+]

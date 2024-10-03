@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "191.233.207.212/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "191.238.72.72/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.BrazilSouth",
+    "region": "brazilsouth"
+  }
+]

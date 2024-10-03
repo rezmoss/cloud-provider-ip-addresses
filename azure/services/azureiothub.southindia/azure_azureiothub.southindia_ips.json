@@ -1,0 +1,44 @@
+[
+  {
+    "ip_address": "13.71.84.34/32",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "13.71.113.127/32",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "20.41.197.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "20.41.197.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "40.78.196.96/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "104.211.210.195/32",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "2603:1040:c06:402::300/123",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.SouthIndia",
+    "region": "southindia"
+  }
+]

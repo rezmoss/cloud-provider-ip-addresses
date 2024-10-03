@@ -1,0 +1,1874 @@
+[
+  {
+    "ip_address": "4.220.138.104/30",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04::10c/126",
+    "ip_type": "IPv6",
+    "service": "ActionGroup.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04:402::178/125",
+    "ip_type": "IPv6",
+    "service": "ActionGroup.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.130.134/32",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.182.240/28",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.218.224/28",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04:3::730/124",
+    "ip_type": "IPv6",
+    "service": "ApiManagement.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04:402::140/124",
+    "ip_type": "IPv6",
+    "service": "ApiManagement.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.13.142.128/25",
+    "ip_type": "IPv4",
+    "service": "AppService.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.13.143.64/27",
+    "ip_type": "IPv4",
+    "service": "AppService.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.13.143.128/25",
+    "ip_type": "IPv4",
+    "service": "AppService.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.218.192/27",
+    "ip_type": "IPv4",
+    "service": "AppService.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.226.0/27",
+    "ip_type": "IPv4",
+    "service": "AppService.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04:3::400/120",
+    "ip_type": "IPv6",
+    "service": "AppService.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04:402::a0/123",
+    "ip_type": "IPv6",
+    "service": "AppService.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.13.143.16/28",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.164.77/32",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.219.0/26",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04:1::480/123",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04:6::500/122",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04:402::100/122",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.13.128.80/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.183.220/31",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.183.248/29",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.226.52/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04:6::4c0/124",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.13.128.64/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.13.136.184/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04:3::750/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.13.137.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.219.96/27",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.219.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04:6::/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04:402::200/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.218.4/30",
+    "ip_type": "IPv4",
+    "service": "AzureBotService.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.224.64/30",
+    "ip_type": "IPv4",
+    "service": "AzureBotService.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04::20/123",
+    "ip_type": "IPv6",
+    "service": "AzureBotService.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.224.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureCognitiveSearch.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04::180/121",
+    "ip_type": "IPv6",
+    "service": "AzureCognitiveSearch.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.13.139.160/27",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.13.139.192/28",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.13.147.130/32",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.13.150.71/32",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.218.240/28",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.220.192/27",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04:6::3c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureConnectors.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04:402::180/122",
+    "ip_type": "IPv6",
+    "service": "AzureConnectors.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "4.220.142.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.13.128.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.13.129.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.182.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.218.24/29",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04:1::4b0/125",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04:6::780/122",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04:402::90/125",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04:402::340/122",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04:402::580/122",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04:402::600/121",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.13.149.218/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.13.150.175/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.13.150.233/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.179.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.181.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.182.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.218.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.228.160/27",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04:3::520/123",
+    "ip_type": "IPv6",
+    "service": "AzureCosmosDB.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04:402::c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureCosmosDB.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.182.192/28",
+    "ip_type": "IPv4",
+    "service": "AzureDataExplorerManagement.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.219.192/28",
+    "ip_type": "IPv4",
+    "service": "AzureDataExplorerManagement.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04:1::380/121",
+    "ip_type": "IPv6",
+    "service": "AzureDataExplorerManagement.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04:402::150/124",
+    "ip_type": "IPv6",
+    "service": "AzureDataExplorerManagement.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.13.136.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.13.136.160/29",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04:3::780/121",
+    "ip_type": "IPv6",
+    "service": "AzureDigitalTwins.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.131.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.225.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04::380/121",
+    "ip_type": "IPv6",
+    "service": "AzureEventGrid.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.13.140.0/24",
+    "ip_type": "IPv4",
+    "service": "EventHub.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.218.160/27",
+    "ip_type": "IPv4",
+    "service": "EventHub.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04::240/122",
+    "ip_type": "IPv6",
+    "service": "EventHub.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04:3::/120",
+    "ip_type": "IPv6",
+    "service": "EventHub.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04:402::1c0/123",
+    "ip_type": "IPv6",
+    "service": "EventHub.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.13.129.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.227.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.228.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04:402::300/123",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.13.136.188/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.13.137.216/29",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.218.0/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04::100/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04::108/126",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04::2a0/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04:402::80/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.219.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.227.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04::300/122",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "4.220.142.192/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "4.220.152.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.13.128.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.13.128.96/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.13.136.192/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.13.143.48/31",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.178.144/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.180.124/30",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.183.160/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.219.208/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04::780/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04:1::280/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04:1::300/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04:6::400/122",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04:6::580/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04:6::7c0/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04:402::500/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.224.192/28",
+    "ip_type": "IPv4",
+    "service": "AzureOpenDatasets.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.13.136.8/29",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.225.128/27",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.226.56/30",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04::700/121",
+    "ip_type": "IPv6",
+    "service": "AzurePortal.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.220.32/28",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.222.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.230.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04::6c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04:6::200/120",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04:402::280/122",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.13.136.224/27",
+    "ip_type": "IPv4",
+    "service": "Sql.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.13.137.0/27",
+    "ip_type": "IPv4",
+    "service": "Sql.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.13.137.64/26",
+    "ip_type": "IPv4",
+    "service": "Sql.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.181.0/25",
+    "ip_type": "IPv4",
+    "service": "Sql.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.216.0/27",
+    "ip_type": "IPv4",
+    "service": "Sql.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.217.0/27",
+    "ip_type": "IPv4",
+    "service": "Sql.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.217.32/29",
+    "ip_type": "IPv4",
+    "service": "Sql.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04::280/123",
+    "ip_type": "IPv6",
+    "service": "Sql.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04:1::200/121",
+    "ip_type": "IPv6",
+    "service": "Sql.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04:3::600/121",
+    "ip_type": "IPv6",
+    "service": "Sql.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04:400::/123",
+    "ip_type": "IPv6",
+    "service": "Sql.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.220.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.13.141.0/25",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.164.31/32",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.218.8/29",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04::220/123",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04:1::500/120",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04:402::170/125",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.179.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureSignalR.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04:3::100/120",
+    "ip_type": "IPv6",
+    "service": "AzureSignalR.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "20.33.170.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "20.47.49.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "20.60.15.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "20.150.0.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "20.150.56.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f05::/48",
+    "ip_type": "IPv6",
+    "service": "Storage.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.220.0/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.225.160/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04::400/122",
+    "ip_type": "IPv6",
+    "service": "BatchNodeManagement.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "4.220.136.0/24",
+    "ip_type": "IPv4",
+    "service": "DataFactory.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.13.128.0/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.228.224/27",
+    "ip_type": "IPv4",
+    "service": "DataFactory.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.229.64/26",
+    "ip_type": "IPv4",
+    "service": "DataFactory.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.229.128/25",
+    "ip_type": "IPv4",
+    "service": "DataFactory.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04::440/122",
+    "ip_type": "IPv6",
+    "service": "DataFactory.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04::500/121",
+    "ip_type": "IPv6",
+    "service": "DataFactory.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04:402::330/124",
+    "ip_type": "IPv6",
+    "service": "DataFactory.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.176.32/27",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.219.64/29",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.224.72/29",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04::40/122",
+    "ip_type": "IPv6",
+    "service": "GatewayManager.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.220.48/29",
+    "ip_type": "IPv4",
+    "service": "HDInsight.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.228.40/29",
+    "ip_type": "IPv4",
+    "service": "HDInsight.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04:6::300/124",
+    "ip_type": "IPv6",
+    "service": "HDInsight.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04:402::320/124",
+    "ip_type": "IPv6",
+    "service": "HDInsight.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "4.220.142.224/28",
+    "ip_type": "IPv4",
+    "service": "LogicApps.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "20.100.72.6/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "20.100.72.17/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "20.100.72.154/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "20.100.72.232/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "20.100.73.211/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "20.100.74.37/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "20.100.74.215/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "20.100.74.217/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "20.100.74.245/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "20.100.75.45/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "20.100.75.51/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "20.100.75.97/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "20.100.75.141/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "20.100.75.243/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "20.100.76.68/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "20.100.76.234/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.13.148.11/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.13.148.178/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.13.149.162/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.13.151.90/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.13.153.172/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.13.155.184/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.176.16/28",
+    "ip_type": "IPv4",
+    "service": "LogicApps.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.176.160/28",
+    "ip_type": "IPv4",
+    "service": "LogicApps.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.220.128/27",
+    "ip_type": "IPv4",
+    "service": "LogicApps.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.220.160/28",
+    "ip_type": "IPv4",
+    "service": "LogicApps.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04:402::3c0/124",
+    "ip_type": "IPv6",
+    "service": "LogicApps.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04:402::3e0/123",
+    "ip_type": "IPv6",
+    "service": "LogicApps.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.218.16/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04:402::88/125",
+    "ip_type": "IPv6",
+    "service": "MicrosoftContainerRegistry.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "4.220.153.0/26",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "4.220.153.128/25",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.13.136.168/29",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.13.139.224/27",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.13.141.128/26",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.13.141.248/29",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.13.148.255/32",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.13.149.70/32",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.228.48/28",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.228.64/26",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.228.128/28",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1061:2002:1900::/57",
+    "ip_type": "IPv6",
+    "service": "PowerPlatformInfra.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "4.220.137.8/29",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "4.220.138.96/29",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "4.220.152.8/29",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.176.192/29",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.176.220/30",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.176.232/30",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.184.144/28",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1061:2004:1100::/57",
+    "ip_type": "IPv6",
+    "service": "PowerPlatformPlex.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "4.220.142.240/28",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "4.220.152.16/29",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.13.128.116/31",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.176.224/29",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.224.120/31",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04::200/123",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04:402::160/125",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.13.128.16/29",
+    "ip_type": "IPv4",
+    "service": "SCCservice.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.164.23/32",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.219.72/29",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04:402::98/125",
+    "ip_type": "IPv6",
+    "service": "ServiceFabric.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.224.216/29",
+    "ip_type": "IPv4",
+    "service": "StorageSyncService.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04::340/123",
+    "ip_type": "IPv6",
+    "service": "StorageSyncService.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "40.64.147.216/29",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1061:2010:2b::/117",
+    "ip_type": "IPv6",
+    "service": "WindowsVirtualDesktop.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "4.220.128.0/17",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "13.104.153.48/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "13.104.153.96/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "13.104.155.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "13.104.217.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "20.33.170.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "20.47.49.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "20.60.15.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "20.100.64.0/18",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "20.135.58.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "20.150.0.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "20.150.56.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "20.157.3.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "20.190.186.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "40.64.147.216/29",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "40.64.181.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "40.93.82.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "40.101.26.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "40.101.27.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "40.107.151.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "40.107.152.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "40.119.108.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "40.126.58.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "40.126.201.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.5.70.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.13.128.0/19",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.128.0/18",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.192.0/20",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.216.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.224.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "52.101.179.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "52.101.180.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "52.102.180.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "52.103.52.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "52.103.180.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "52.108.177.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "52.108.198.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "52.109.144.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "52.111.198.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "52.114.238.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "52.123.45.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "52.123.148.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "52.253.167.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "70.152.21.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "74.240.0.0/17",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "74.240.128.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f00::/47",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f03::/48",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04::/47",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1026:900:33::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1026:900:34::/63",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1026:2409::/48",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1026:2500:10::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1026:3000:80::/59",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1027:1:80::/59",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1061:1311:2c00::/54",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1061:172b::/48",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1061:2000:488::/62",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1061:2002:1900::/57",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1061:2004:1100::/57",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1061:2010:2b::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1061:2011:2b::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1063:4::/56",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1063:104::/55",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1063:104:200::/56",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1063:204::/55",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1063:411::/56",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1063:61b::/56",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1063:2206:c::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2a01:111:f403:c210::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2a01:111:f403:ca36::/63",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2a01:111:f403:ca59::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2a01:111:f403:ca5a::/63",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2a01:111:f403:d210::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2a01:111:f403:da10::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2a01:111:f403:e210::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  }
+]

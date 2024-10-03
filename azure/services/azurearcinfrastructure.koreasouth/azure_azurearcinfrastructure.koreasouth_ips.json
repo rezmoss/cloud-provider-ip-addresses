@@ -1,0 +1,32 @@
+[
+  {
+    "ip_address": "4.243.24.48/29",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "4.243.24.56/31",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "40.80.172.12/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.151.80/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:6::90/124",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.KoreaSouth",
+    "region": "koreasouth"
+  }
+]

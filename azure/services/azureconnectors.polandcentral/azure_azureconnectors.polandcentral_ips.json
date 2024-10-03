@@ -1,0 +1,38 @@
+[
+  {
+    "ip_address": "20.215.144.243/32",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "20.215.144.251/32",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "20.215.155.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "20.215.169.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "2603:1020:1302:2::600/122",
+    "ip_type": "IPv6",
+    "service": "AzureConnectors.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "2603:1020:1302:400::c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureConnectors.PolandCentral",
+    "region": "polandcentral"
+  }
+]

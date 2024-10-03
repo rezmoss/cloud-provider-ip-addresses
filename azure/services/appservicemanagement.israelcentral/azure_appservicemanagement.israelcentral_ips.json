@@ -1,0 +1,50 @@
+[
+  {
+    "ip_address": "20.217.11.64/26",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.IsraelCentral",
+    "region": "israelcentral"
+  },
+  {
+    "ip_address": "20.217.58.192/26",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.IsraelCentral",
+    "region": "israelcentral"
+  },
+  {
+    "ip_address": "20.217.74.192/26",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.IsraelCentral",
+    "region": "israelcentral"
+  },
+  {
+    "ip_address": "20.217.90.192/26",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.IsraelCentral",
+    "region": "israelcentral"
+  },
+  {
+    "ip_address": "2603:1040:1402:3::3c0/123",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.IsraelCentral",
+    "region": "israelcentral"
+  },
+  {
+    "ip_address": "2603:1040:1402:400::80/122",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.IsraelCentral",
+    "region": "israelcentral"
+  },
+  {
+    "ip_address": "2603:1040:1402:800::80/122",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.IsraelCentral",
+    "region": "israelcentral"
+  },
+  {
+    "ip_address": "2603:1040:1402:c00::80/122",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.IsraelCentral",
+    "region": "israelcentral"
+  }
+]

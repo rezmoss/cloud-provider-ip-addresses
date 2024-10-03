@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "20.193.202.8/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "2603:1040:d04:400::88/125",
+    "ip_type": "IPv6",
+    "service": "MicrosoftContainerRegistry.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "2603:1040:d04:400::3b0/125",
+    "ip_type": "IPv6",
+    "service": "MicrosoftContainerRegistry.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "2603:1040:d04:800::148/125",
+    "ip_type": "IPv6",
+    "service": "MicrosoftContainerRegistry.JioIndiaWest",
+    "region": "jioindiawest"
+  }
+]

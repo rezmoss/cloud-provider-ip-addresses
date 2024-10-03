@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+4.232.50.144/28,IPv4,PowerPlatformPlex.ItalyNorth,italynorth
+4.232.53.136/29,IPv4,PowerPlatformPlex.ItalyNorth,italynorth
+2603:1061:2004:a800::/57,IPv6,PowerPlatformPlex.ItalyNorth,italynorth

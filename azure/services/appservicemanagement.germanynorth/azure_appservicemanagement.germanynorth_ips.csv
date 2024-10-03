@@ -1,0 +1,6 @@
+ip_address,ip_type,service,region
+51.116.58.192/26,IPv4,AppServiceManagement.GermanyNorth,germanyn
+51.116.75.96/28,IPv4,AppServiceManagement.GermanyNorth,germanyn
+51.116.208.94/32,IPv4,AppServiceManagement.GermanyNorth,germanyn
+2603:1020:d04:1::480/123,IPv6,AppServiceManagement.GermanyNorth,germanyn
+2603:1020:d04:402::100/122,IPv6,AppServiceManagement.GermanyNorth,germanyn

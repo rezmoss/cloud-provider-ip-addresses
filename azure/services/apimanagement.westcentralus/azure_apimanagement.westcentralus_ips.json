@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "13.71.194.116/31",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "13.71.196.32/28",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.253.135.58/32",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:402::140/124",
+    "ip_type": "IPv6",
+    "service": "ApiManagement.WestCentralUS",
+    "region": "westcentralus"
+  }
+]

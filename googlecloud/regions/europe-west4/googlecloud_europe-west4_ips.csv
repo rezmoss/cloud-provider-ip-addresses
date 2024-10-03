@@ -1,0 +1,19 @@
+ip_address,ip_type,service,region
+34.1.224.0/19,IPv4,Google Cloud,europe-west4
+34.32.128.0/17,IPv4,Google Cloud,europe-west4
+34.34.0.0/17,IPv4,Google Cloud,europe-west4
+34.90.0.0/15,IPv4,Google Cloud,europe-west4
+34.104.126.0/23,IPv4,Google Cloud,europe-west4
+34.124.62.0/23,IPv4,Google Cloud,europe-west4
+34.141.128.0/17,IPv4,Google Cloud,europe-west4
+34.147.0.0/17,IPv4,Google Cloud,europe-west4
+34.157.80.0/23,IPv4,Google Cloud,europe-west4
+34.157.92.0/22,IPv4,Google Cloud,europe-west4
+34.157.208.0/23,IPv4,Google Cloud,europe-west4
+34.157.220.0/22,IPv4,Google Cloud,europe-west4
+35.204.0.0/16,IPv4,Google Cloud,europe-west4
+35.214.128.0/17,IPv4,Google Cloud,europe-west4
+35.220.16.0/23,IPv4,Google Cloud,europe-west4
+35.234.160.0/20,IPv4,Google Cloud,europe-west4
+35.242.16.0/23,IPv4,Google Cloud,europe-west4
+2600:1900:4060::/44,IPv6,Google Cloud,europe-west4

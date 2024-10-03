@@ -1,0 +1,80 @@
+[
+  {
+    "ip_address": "13.76.195.19/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "13.76.230.148/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "20.205.211.156/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "20.205.212.9/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "20.212.192.4/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "20.212.192.147/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "20.212.196.72/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "23.98.66.174/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "40.64.144.216/29",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "40.64.145.144/28",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "52.163.209.255/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "52.187.127.152/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "2603:1061:2010:14::/117",
+    "ip_type": "IPv6",
+    "service": "WindowsVirtualDesktop.SoutheastAsia",
+    "region": "southeastasia"
+  }
+]

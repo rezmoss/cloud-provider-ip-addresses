@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+40.80.169.224/27,IPv4,AzurePortal.KoreaSouth,koreasouth
+40.80.172.16/30,IPv4,AzurePortal.KoreaSouth,koreasouth
+40.80.173.192/29,IPv4,AzurePortal.KoreaSouth,koreasouth
+2603:1040:e05:6::300/121,IPv6,AzurePortal.KoreaSouth,koreasouth

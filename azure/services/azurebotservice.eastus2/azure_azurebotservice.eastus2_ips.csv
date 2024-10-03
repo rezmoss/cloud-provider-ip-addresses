@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+20.41.0.64/30,IPv4,AzureBotService.EastUS2,eastus2
+20.44.17.24/30,IPv4,AzureBotService.EastUS2,eastus2
+2603:1030:40c:1::20/123,IPv6,AzureBotService.EastUS2,eastus2

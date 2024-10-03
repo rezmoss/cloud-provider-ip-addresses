@@ -1,0 +1,7 @@
+ip_address,ip_type,service,region
+40.64.147.0/28,IPv4,WindowsVirtualDesktop.KoreaCentral,koreacentral
+52.141.37.201/32,IPv4,WindowsVirtualDesktop.KoreaCentral,koreacentral
+52.231.38.211/32,IPv4,WindowsVirtualDesktop.KoreaCentral,koreacentral
+52.231.93.224/32,IPv4,WindowsVirtualDesktop.KoreaCentral,koreacentral
+52.231.98.58/32,IPv4,WindowsVirtualDesktop.KoreaCentral,koreacentral
+2603:1061:2010:f::/117,IPv6,WindowsVirtualDesktop.KoreaCentral,koreacentral

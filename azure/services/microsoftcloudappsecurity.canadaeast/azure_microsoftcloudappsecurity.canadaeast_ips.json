@@ -1,0 +1,38 @@
+[
+  {
+    "ip_address": "4.229.67.220/31",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "4.229.68.32/27",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "4.229.68.64/28",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "4.248.98.186/31",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "4.248.98.192/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.69.108.96/27",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.CanadaEast",
+    "region": "canadaeast"
+  }
+]

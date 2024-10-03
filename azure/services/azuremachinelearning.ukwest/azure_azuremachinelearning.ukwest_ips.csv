@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+51.137.161.224/28,IPv4,AzureMachineLearning.UKWest,ukwest
+51.140.210.208/28,IPv4,AzureMachineLearning.UKWest,ukwest
+2603:1020:605::300/122,IPv6,AzureMachineLearning.UKWest,ukwest

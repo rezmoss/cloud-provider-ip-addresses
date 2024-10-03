@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+20.44.2.128/26,IPv4,EventHub.SouthCentralUSSTG,usstagec
+20.45.117.128/26,IPv4,EventHub.SouthCentralUSSTG,usstagec
+2603:1030:302::200/120,IPv6,EventHub.SouthCentralUSSTG,usstagec

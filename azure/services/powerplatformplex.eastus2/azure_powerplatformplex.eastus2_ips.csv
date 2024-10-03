@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+20.186.165.112/28,IPv4,PowerPlatformPlex.EastUS2,eastus2
+40.84.87.96/27,IPv4,PowerPlatformPlex.EastUS2,eastus2
+40.84.87.128/28,IPv4,PowerPlatformPlex.EastUS2,eastus2
+2603:1061:2004:7300::/57,IPv6,PowerPlatformPlex.EastUS2,eastus2

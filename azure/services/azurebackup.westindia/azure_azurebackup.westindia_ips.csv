@@ -1,0 +1,6 @@
+ip_address,ip_type,service,region
+20.192.80.64/26,IPv4,AzureBackup.WestIndia,westindia
+104.211.147.0/26,IPv4,AzureBackup.WestIndia,westindia
+104.211.147.64/27,IPv4,AzureBackup.WestIndia,westindia
+2603:1040:806:3::280/121,IPv6,AzureBackup.WestIndia,westindia
+2603:1040:806:402::200/121,IPv6,AzureBackup.WestIndia,westindia

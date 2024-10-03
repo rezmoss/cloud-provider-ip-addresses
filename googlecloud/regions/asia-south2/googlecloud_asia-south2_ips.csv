@@ -1,0 +1,9 @@
+ip_address,ip_type,service,region
+34.0.0.0/20,IPv4,Google Cloud,asia-south2
+34.104.120.0/23,IPv4,Google Cloud,asia-south2
+34.124.56.0/23,IPv4,Google Cloud,asia-south2
+34.126.208.0/20,IPv4,Google Cloud,asia-south2
+34.131.0.0/16,IPv4,Google Cloud,asia-south2
+34.153.32.0/24,IPv4,Google Cloud,asia-south2
+34.153.224.0/24,IPv4,Google Cloud,asia-south2
+2600:1900:41b0::/44,IPv6,Google Cloud,asia-south2

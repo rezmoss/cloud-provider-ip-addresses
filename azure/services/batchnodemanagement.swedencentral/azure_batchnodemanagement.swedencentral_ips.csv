@@ -1,0 +1,6 @@
+ip_address,ip_type,service,region
+51.12.41.192/27,IPv4,BatchNodeManagement.SwedenCentral,swedencentral
+51.12.100.0/27,IPv4,BatchNodeManagement.SwedenCentral,swedencentral
+51.12.227.96/27,IPv4,BatchNodeManagement.SwedenCentral,swedencentral
+51.12.235.96/27,IPv4,BatchNodeManagement.SwedenCentral,swedencentral
+2603:1020:1004::340/122,IPv6,BatchNodeManagement.SwedenCentral,swedencentral

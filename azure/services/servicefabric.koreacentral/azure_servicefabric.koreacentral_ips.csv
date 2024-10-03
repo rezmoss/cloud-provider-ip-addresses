@@ -1,0 +1,8 @@
+ip_address,ip_type,service,region
+20.44.29.52/30,IPv4,ServiceFabric.KoreaCentral,koreacentral
+20.194.66.4/30,IPv4,ServiceFabric.KoreaCentral,koreacentral
+52.231.18.232/29,IPv4,ServiceFabric.KoreaCentral,koreacentral
+52.231.32.81/32,IPv4,ServiceFabric.KoreaCentral,koreacentral
+2603:1040:f05:402::98/125,IPv6,ServiceFabric.KoreaCentral,koreacentral
+2603:1040:f05:802::98/125,IPv6,ServiceFabric.KoreaCentral,koreacentral
+2603:1040:f05:c02::98/125,IPv6,ServiceFabric.KoreaCentral,koreacentral

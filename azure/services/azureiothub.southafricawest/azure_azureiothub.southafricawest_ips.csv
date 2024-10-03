@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+102.133.28.160/27,IPv4,AzureIoTHub.SouthAfricaWest,southafricawest
+102.133.59.0/25,IPv4,AzureIoTHub.SouthAfricaWest,southafricawest
+102.133.59.128/27,IPv4,AzureIoTHub.SouthAfricaWest,southafricawest
+2603:1000:4:402::300/123,IPv6,AzureIoTHub.SouthAfricaWest,southafricawest

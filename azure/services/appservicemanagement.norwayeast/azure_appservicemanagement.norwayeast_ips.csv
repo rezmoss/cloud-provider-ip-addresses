@@ -1,0 +1,8 @@
+ip_address,ip_type,service,region
+20.100.2.0/28,IPv4,AppServiceManagement.NorwayEast,norwaye
+51.120.79.170/32,IPv4,AppServiceManagement.NorwayEast,norwaye
+51.120.99.0/26,IPv4,AppServiceManagement.NorwayEast,norwaye
+2603:1020:e04:3::4c0/123,IPv6,AppServiceManagement.NorwayEast,norwaye
+2603:1020:e04:402::100/122,IPv6,AppServiceManagement.NorwayEast,norwaye
+2603:1020:e04:802::100/122,IPv6,AppServiceManagement.NorwayEast,norwaye
+2603:1020:e04:c02::100/122,IPv6,AppServiceManagement.NorwayEast,norwaye

@@ -1,0 +1,68 @@
+[
+  {
+    "ip_address": "20.62.133.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "20.62.134.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "40.71.12.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "40.71.12.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "40.78.227.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "40.78.227.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "40.79.155.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "40.79.155.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "2603:1030:210:402::200/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "2603:1030:210:802::180/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "2603:1030:210:c02::180/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.EastUS",
+    "region": "eastus"
+  }
+]

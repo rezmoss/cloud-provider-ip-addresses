@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+20.195.144.0/23,IPv4,AzureResourceManager.BrazilSoutheast,brazilse
+191.233.52.0/23,IPv4,AzureResourceManager.BrazilSoutheast,brazilse
+2603:1050:403:1::40/122,IPv6,AzureResourceManager.BrazilSoutheast,brazilse
+2603:1050:403:400::440/122,IPv6,AzureResourceManager.BrazilSoutheast,brazilse

@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "51.140.149.84/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "51.143.209.132/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.UKSouth",
+    "region": "uksouth"
+  }
+]

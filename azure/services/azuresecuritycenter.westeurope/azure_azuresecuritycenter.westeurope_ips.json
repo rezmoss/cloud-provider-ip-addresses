@@ -1,0 +1,32 @@
+[
+  {
+    "ip_address": "48.209.0.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "48.209.2.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "52.178.17.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "57.153.216.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "172.211.127.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.WestEurope",
+    "region": "westeurope"
+  }
+]

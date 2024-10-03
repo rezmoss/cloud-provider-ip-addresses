@@ -1,0 +1,38 @@
+[
+  {
+    "ip_address": "20.236.85.126/31",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.NorthCentralUS",
+    "region": "northcentralus"
+  },
+  {
+    "ip_address": "40.64.146.96/28",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.NorthCentralUS",
+    "region": "northcentralus"
+  },
+  {
+    "ip_address": "52.159.115.97/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.NorthCentralUS",
+    "region": "northcentralus"
+  },
+  {
+    "ip_address": "52.159.116.86/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.NorthCentralUS",
+    "region": "northcentralus"
+  },
+  {
+    "ip_address": "52.159.116.149/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.NorthCentralUS",
+    "region": "northcentralus"
+  },
+  {
+    "ip_address": "2603:1061:2010:11::/117",
+    "ip_type": "IPv6",
+    "service": "WindowsVirtualDesktop.NorthCentralUS",
+    "region": "northcentralus"
+  }
+]

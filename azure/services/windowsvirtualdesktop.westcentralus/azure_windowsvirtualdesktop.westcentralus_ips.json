@@ -1,0 +1,44 @@
+[
+  {
+    "ip_address": "13.78.209.22/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "40.64.146.160/28",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.161.33.59/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.161.33.187/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.161.38.18/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.161.38.218/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1061:2010:18::/117",
+    "ip_type": "IPv6",
+    "service": "WindowsVirtualDesktop.WestCentralUS",
+    "region": "westcentralus"
+  }
+]

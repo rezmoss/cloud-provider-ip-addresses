@@ -1,0 +1,14 @@
+ip_address,ip_type,service,region
+20.33.182.0/24,IPv4,Storage.GermanyWestCentral,germanywc
+20.33.238.0/24,IPv4,Storage.GermanyWestCentral,germanywc
+20.38.118.0/24,IPv4,Storage.GermanyWestCentral,germanywc
+20.47.27.0/24,IPv4,Storage.GermanyWestCentral,germanywc
+20.60.22.0/23,IPv4,Storage.GermanyWestCentral,germanywc
+20.150.54.0/24,IPv4,Storage.GermanyWestCentral,germanywc
+20.150.125.0/24,IPv4,Storage.GermanyWestCentral,germanywc
+20.157.160.0/24,IPv4,Storage.GermanyWestCentral,germanywc
+20.157.183.0/24,IPv4,Storage.GermanyWestCentral,germanywc
+20.209.32.0/23,IPv4,Storage.GermanyWestCentral,germanywc
+20.209.176.0/23,IPv4,Storage.GermanyWestCentral,germanywc
+20.209.242.0/23,IPv4,Storage.GermanyWestCentral,germanywc
+2603:1020:c05::/48,IPv6,Storage.GermanyWestCentral,germanywc

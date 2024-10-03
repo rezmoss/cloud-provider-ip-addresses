@@ -1,0 +1,7 @@
+ip_address,ip_type,service,region
+51.107.54.0/23,IPv4,AzureResourceManager.SwitzerlandNorth,switzerlandn
+51.107.60.32/28,IPv4,AzureResourceManager.SwitzerlandNorth,switzerlandn
+51.107.62.0/23,IPv4,AzureResourceManager.SwitzerlandNorth,switzerlandn
+2603:1020:a04::180/122,IPv6,AzureResourceManager.SwitzerlandNorth,switzerlandn
+2603:1020:a04:2::700/120,IPv6,AzureResourceManager.SwitzerlandNorth,switzerlandn
+2603:1020:a04:402::280/122,IPv6,AzureResourceManager.SwitzerlandNorth,switzerlandn

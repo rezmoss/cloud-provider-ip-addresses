@@ -1,0 +1,62 @@
+[
+  {
+    "ip_address": "158.23.10.114/31",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "158.23.96.40/29",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "158.23.122.112/31",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "158.23.194.112/31",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "158.23.202.144/28",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "158.23.205.16/29",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "2603:1030:702::1c0/123",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "2603:1030:702:400::108/125",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "2603:1030:702:800::18/125",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "2603:1030:702:c00::18/125",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.MexicoCentral",
+    "region": "mexicocentral"
+  }
+]

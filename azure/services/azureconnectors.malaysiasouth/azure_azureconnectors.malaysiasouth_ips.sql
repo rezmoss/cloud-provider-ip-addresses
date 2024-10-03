@@ -1,0 +1,12 @@
+-- SQL script to create table `azure_azureconnectors.malaysiasouth_ips` and insert IP addresses
+
+CREATE TABLE IF NOT EXISTS `azure_azureconnectors.malaysiasouth_ips` (
+  `ip_address` VARCHAR(45) NOT NULL,
+  `ip_type` VARCHAR(10) NOT NULL,
+  PRIMARY KEY (`ip_address`)
+);
+
+INSERT INTO `azure_azureconnectors.malaysiasouth_ips` (`ip_address`, `ip_type`) VALUES ('20.17.25.0/26', 'IPv4');
+INSERT INTO `azure_azureconnectors.malaysiasouth_ips` (`ip_address`, `ip_type`) VALUES ('20.17.67.0/26', 'IPv4');
+INSERT INTO `azure_azureconnectors.malaysiasouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1503:2::580/122', 'IPv6');
+INSERT INTO `azure_azureconnectors.malaysiasouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1503:400::c0/122', 'IPv6');

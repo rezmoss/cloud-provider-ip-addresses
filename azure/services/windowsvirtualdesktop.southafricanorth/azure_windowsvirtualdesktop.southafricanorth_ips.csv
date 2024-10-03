@@ -1,0 +1,8 @@
+ip_address,ip_type,service,region
+40.64.146.112/28,IPv4,WindowsVirtualDesktop.SouthAfricaNorth,southafricanorth
+102.37.42.159/32,IPv4,WindowsVirtualDesktop.SouthAfricaNorth,southafricanorth
+102.133.161.220/32,IPv4,WindowsVirtualDesktop.SouthAfricaNorth,southafricanorth
+102.133.166.135/32,IPv4,WindowsVirtualDesktop.SouthAfricaNorth,southafricanorth
+102.133.224.81/32,IPv4,WindowsVirtualDesktop.SouthAfricaNorth,southafricanorth
+102.133.234.139/32,IPv4,WindowsVirtualDesktop.SouthAfricaNorth,southafricanorth
+2603:1061:2010:20::/117,IPv6,WindowsVirtualDesktop.SouthAfricaNorth,southafricanorth

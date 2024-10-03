@@ -1,0 +1,16 @@
+ip_address,ip_type,service,region
+20.49.103.112/29,IPv4,AzureDigitalTwins.EastUS2,eastus2
+20.49.103.192/27,IPv4,AzureDigitalTwins.EastUS2,eastus2
+52.247.76.74/32,IPv4,AzureDigitalTwins.EastUS2,eastus2
+52.247.76.167/32,IPv4,AzureDigitalTwins.EastUS2,eastus2
+52.247.76.187/32,IPv4,AzureDigitalTwins.EastUS2,eastus2
+52.247.76.199/32,IPv4,AzureDigitalTwins.EastUS2,eastus2
+52.247.76.216/32,IPv4,AzureDigitalTwins.EastUS2,eastus2
+52.247.76.246/32,IPv4,AzureDigitalTwins.EastUS2,eastus2
+52.247.76.252/32,IPv4,AzureDigitalTwins.EastUS2,eastus2
+52.247.77.7/32,IPv4,AzureDigitalTwins.EastUS2,eastus2
+52.247.77.22/32,IPv4,AzureDigitalTwins.EastUS2,eastus2
+52.247.77.26/32,IPv4,AzureDigitalTwins.EastUS2,eastus2
+104.208.203.238/31,IPv4,AzureDigitalTwins.EastUS2,eastus2
+104.208.203.240/29,IPv4,AzureDigitalTwins.EastUS2,eastus2
+2603:1030:40c:e::5d4/126,IPv6,AzureDigitalTwins.EastUS2,eastus2

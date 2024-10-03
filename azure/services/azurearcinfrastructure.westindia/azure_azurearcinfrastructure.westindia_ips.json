@@ -1,0 +1,32 @@
+[
+  {
+    "ip_address": "20.207.175.32/29",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.WestIndia",
+    "region": "westindia"
+  },
+  {
+    "ip_address": "20.207.175.102/31",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.WestIndia",
+    "region": "westindia"
+  },
+  {
+    "ip_address": "52.136.51.68/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.WestIndia",
+    "region": "westindia"
+  },
+  {
+    "ip_address": "104.211.146.248/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.WestIndia",
+    "region": "westindia"
+  },
+  {
+    "ip_address": "2603:1040:806:3::7c0/124",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.WestIndia",
+    "region": "westindia"
+  }
+]

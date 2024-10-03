@@ -1,0 +1,16 @@
+ip_address,ip_type,service,region
+20.42.4.128/26,IPv4,AzureCognitiveSearch.EastUS,eastus
+20.42.24.90/32,IPv4,AzureCognitiveSearch.EastUS,eastus
+20.42.29.212/32,IPv4,AzureCognitiveSearch.EastUS,eastus
+20.42.30.105/32,IPv4,AzureCognitiveSearch.EastUS,eastus
+20.42.34.190/32,IPv4,AzureCognitiveSearch.EastUS,eastus
+20.42.35.204/32,IPv4,AzureCognitiveSearch.EastUS,eastus
+20.185.110.199/32,IPv4,AzureCognitiveSearch.EastUS,eastus
+40.90.240.17/32,IPv4,AzureCognitiveSearch.EastUS,eastus
+52.151.235.150/32,IPv4,AzureCognitiveSearch.EastUS,eastus
+52.151.235.242/32,IPv4,AzureCognitiveSearch.EastUS,eastus
+52.151.235.244/32,IPv4,AzureCognitiveSearch.EastUS,eastus
+52.188.217.235/32,IPv4,AzureCognitiveSearch.EastUS,eastus
+52.188.218.228/32,IPv4,AzureCognitiveSearch.EastUS,eastus
+52.188.218.239/32,IPv4,AzureCognitiveSearch.EastUS,eastus
+2603:1030:210:1::180/121,IPv6,AzureCognitiveSearch.EastUS,eastus

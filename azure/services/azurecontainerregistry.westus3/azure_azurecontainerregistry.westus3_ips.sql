@@ -1,0 +1,32 @@
+-- SQL script to create table `azure_azurecontainerregistry.westus3_ips` and insert IP addresses
+
+CREATE TABLE IF NOT EXISTS `azure_azurecontainerregistry.westus3_ips` (
+  `ip_address` VARCHAR(45) NOT NULL,
+  `ip_type` VARCHAR(10) NOT NULL,
+  PRIMARY KEY (`ip_address`)
+);
+
+INSERT INTO `azure_azurecontainerregistry.westus3_ips` (`ip_address`, `ip_type`) VALUES ('20.150.170.24/29', 'IPv4');
+INSERT INTO `azure_azurecontainerregistry.westus3_ips` (`ip_address`, `ip_type`) VALUES ('20.150.173.128/26', 'IPv4');
+INSERT INTO `azure_azurecontainerregistry.westus3_ips` (`ip_address`, `ip_type`) VALUES ('20.150.174.0/25', 'IPv4');
+INSERT INTO `azure_azurecontainerregistry.westus3_ips` (`ip_address`, `ip_type`) VALUES ('20.150.175.128/26', 'IPv4');
+INSERT INTO `azure_azurecontainerregistry.westus3_ips` (`ip_address`, `ip_type`) VALUES ('20.150.178.144/29', 'IPv4');
+INSERT INTO `azure_azurecontainerregistry.westus3_ips` (`ip_address`, `ip_type`) VALUES ('20.150.181.192/26', 'IPv4');
+INSERT INTO `azure_azurecontainerregistry.westus3_ips` (`ip_address`, `ip_type`) VALUES ('20.150.182.128/25', 'IPv4');
+INSERT INTO `azure_azurecontainerregistry.westus3_ips` (`ip_address`, `ip_type`) VALUES ('20.150.186.144/29', 'IPv4');
+INSERT INTO `azure_azurecontainerregistry.westus3_ips` (`ip_address`, `ip_type`) VALUES ('20.150.189.192/26', 'IPv4');
+INSERT INTO `azure_azurecontainerregistry.westus3_ips` (`ip_address`, `ip_type`) VALUES ('20.150.190.128/25', 'IPv4');
+INSERT INTO `azure_azurecontainerregistry.westus3_ips` (`ip_address`, `ip_type`) VALUES ('20.150.225.64/26', 'IPv4');
+INSERT INTO `azure_azurecontainerregistry.westus3_ips` (`ip_address`, `ip_type`) VALUES ('20.150.241.0/26', 'IPv4');
+INSERT INTO `azure_azurecontainerregistry.westus3_ips` (`ip_address`, `ip_type`) VALUES ('72.154.137.0/26', 'IPv4');
+INSERT INTO `azure_azurecontainerregistry.westus3_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:504::1a0/125', 'IPv6');
+INSERT INTO `azure_azurecontainerregistry.westus3_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:504:8::400/122', 'IPv6');
+INSERT INTO `azure_azurecontainerregistry.westus3_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:504:402::90/125', 'IPv6');
+INSERT INTO `azure_azurecontainerregistry.westus3_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:504:402::3b8/125', 'IPv6');
+INSERT INTO `azure_azurecontainerregistry.westus3_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:504:402::480/121', 'IPv6');
+INSERT INTO `azure_azurecontainerregistry.westus3_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:504:802::c0/125', 'IPv6');
+INSERT INTO `azure_azurecontainerregistry.westus3_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:504:802::150/125', 'IPv6');
+INSERT INTO `azure_azurecontainerregistry.westus3_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:504:802::180/121', 'IPv6');
+INSERT INTO `azure_azurecontainerregistry.westus3_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:504:c02::140/122', 'IPv6');
+INSERT INTO `azure_azurecontainerregistry.westus3_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:504:c02::300/121', 'IPv6');
+INSERT INTO `azure_azurecontainerregistry.westus3_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:504:c02::400/125', 'IPv6');

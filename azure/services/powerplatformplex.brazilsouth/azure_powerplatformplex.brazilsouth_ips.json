@@ -1,0 +1,80 @@
+[
+  {
+    "ip_address": "4.202.249.56/29",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "4.202.253.32/28",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "4.202.253.48/29",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "4.203.121.64/29",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "4.228.18.112/28",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "20.206.178.56/29",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "20.206.178.96/30",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "20.206.178.164/30",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "20.206.179.128/29",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "20.206.179.136/30",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "191.234.130.0/26",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "191.238.78.84/30",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "2603:1061:2004:100::/57",
+    "ip_type": "IPv6",
+    "service": "PowerPlatformPlex.BrazilSouth",
+    "region": "brazilsouth"
+  }
+]

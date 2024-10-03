@@ -1,0 +1,38 @@
+[
+  {
+    "ip_address": "20.41.195.128/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "40.78.195.128/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "104.211.224.117/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "104.211.224.119/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "104.211.224.121/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "2603:1040:c06::400/122",
+    "ip_type": "IPv6",
+    "service": "BatchNodeManagement.SouthIndia",
+    "region": "southindia"
+  }
+]

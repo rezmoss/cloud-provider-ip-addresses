@@ -1,0 +1,68 @@
+-- SQL script to create table `azure_microsoftcloudappsecurity.eastus2_ips` and insert IP addresses
+
+CREATE TABLE IF NOT EXISTS `azure_microsoftcloudappsecurity.eastus2_ips` (
+  `ip_address` VARCHAR(45) NOT NULL,
+  `ip_type` VARCHAR(10) NOT NULL,
+  PRIMARY KEY (`ip_address`)
+);
+
+INSERT INTO `azure_microsoftcloudappsecurity.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('13.77.80.28/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('20.15.114.156/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('20.36.220.93/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('20.36.222.59/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('20.36.222.60/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('20.36.240.76/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('20.36.244.208/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('20.36.245.0/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('20.36.245.182/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('20.36.245.235/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('20.36.246.188/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('20.36.248.40/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('20.44.17.64/28', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('20.44.72.173/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('20.44.72.217/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('20.44.73.253/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('23.100.67.153/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('40.65.233.253/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('40.65.235.54/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('40.67.152.91/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('40.67.152.227/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('40.67.154.160/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('40.67.155.146/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('40.67.159.55/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('40.70.0.255/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('40.70.29.49/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('40.70.29.200/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('40.70.148.112/28', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('40.70.184.90/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('40.84.2.83/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('40.84.4.93/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('40.84.4.119/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('40.84.5.28/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('40.84.49.16/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('40.84.91.224/27', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('40.84.95.128/28', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('40.84.96.0/24', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('52.167.107.96/28', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('52.177.85.43/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('52.179.155.177/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('52.179.194.73/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('52.179.198.41/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('52.184.165.82/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('52.225.225.218/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('52.225.231.232/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('52.232.224.227/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('52.232.225.84/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('52.232.228.217/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('52.232.245.96/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('104.46.116.211/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('104.46.121.72/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('104.46.122.189/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('104.208.207.188/31', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('104.208.207.208/29', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('104.208.207.224/27', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('104.208.216.221/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('104.209.168.251/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('104.210.0.32/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('135.237.169.0/25', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('137.116.52.31/32', 'IPv4');

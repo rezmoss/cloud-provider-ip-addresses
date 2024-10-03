@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+4.232.25.0/27,IPv4,AzureMachineLearning.ItalyNorth,italynorth
+4.232.45.128/27,IPv4,AzureMachineLearning.ItalyNorth,italynorth
+2603:1020:1204::200/122,IPv6,AzureMachineLearning.ItalyNorth,italynorth

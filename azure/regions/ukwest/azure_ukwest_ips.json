@@ -1,0 +1,3086 @@
+[
+  {
+    "ip_address": "20.90.38.38/31",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.140.215.184/30",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "172.187.32.16/30",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605::128/126",
+    "ip_type": "IPv6",
+    "service": "ActionGroup.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:402::178/125",
+    "ip_type": "IPv6",
+    "service": "ActionGroup.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.136.0/32",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.140.210.84/31",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.140.211.176/28",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.142.134.224/28",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:3::3b0/124",
+    "ip_type": "IPv6",
+    "service": "ApiManagement.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:402::140/124",
+    "ip_type": "IPv6",
+    "service": "ApiManagement.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.90.33.0/24",
+    "ip_type": "IPv4",
+    "service": "AppService.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.90.34.0/23",
+    "ip_type": "IPv4",
+    "service": "AppService.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.90.36.0/28",
+    "ip_type": "IPv4",
+    "service": "AppService.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.163.32/27",
+    "ip_type": "IPv4",
+    "service": "AppService.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.140.210.96/27",
+    "ip_type": "IPv4",
+    "service": "AppService.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.140.244.162/32",
+    "ip_type": "IPv4",
+    "service": "AppService.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.140.245.89/32",
+    "ip_type": "IPv4",
+    "service": "AppService.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.141.12.112/32",
+    "ip_type": "IPv4",
+    "service": "AppService.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.141.37.245/32",
+    "ip_type": "IPv4",
+    "service": "AppService.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.141.44.139/32",
+    "ip_type": "IPv4",
+    "service": "AppService.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.141.45.207/32",
+    "ip_type": "IPv4",
+    "service": "AppService.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.141.90.252/32",
+    "ip_type": "IPv4",
+    "service": "AppService.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:2::400/118",
+    "ip_type": "IPv6",
+    "service": "AppService.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:402::a0/123",
+    "ip_type": "IPv6",
+    "service": "AppService.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.90.32.160/28",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.140.210.128/26",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.141.8.34/32",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:1::4a0/123",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:6::1c0/122",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:402::100/122",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.11.98.64/29",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.164.76/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.166.40/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.140.212.216/31",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.140.215.180/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "172.187.0.16/29",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "172.187.0.24/31",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:6::180/124",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.167.184/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.140.215.168/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:3::3d0/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.58.67.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.140.211.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.140.211.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:3::480/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:402::200/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.160.64/30",
+    "ip_type": "IPv4",
+    "service": "AzureBotService.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.140.212.72/30",
+    "ip_type": "IPv4",
+    "service": "AzureBotService.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605::20/123",
+    "ip_type": "IPv6",
+    "service": "AzureBotService.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.161.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureCognitiveSearch.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605::180/121",
+    "ip_type": "IPv6",
+    "service": "AzureCognitiveSearch.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.58.70.192/27",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.58.70.224/28",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.140.211.0/28",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.140.212.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.140.245.29/32",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.141.47.105/32",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.141.52.185/32",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.141.124.13/32",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.142.168.153/32",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.142.174.255/32",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:6::100/122",
+    "ip_type": "IPv6",
+    "service": "AzureConnectors.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:402::180/122",
+    "ip_type": "IPv6",
+    "service": "AzureConnectors.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.11.97.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.166.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.140.210.192/29",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.140.215.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:3::280/122",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:402::90/125",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:402::340/122",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:402::580/122",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:402::600/121",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.132.66.99/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.137.138/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.137.218/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.166.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.140.210.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.141.53.76/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.142.130.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.142.132.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.142.133.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:3::340/123",
+    "ip_type": "IPv6",
+    "service": "AzureCosmosDB.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:402::c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureCosmosDB.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.81.122.39/32",
+    "ip_type": "IPv4",
+    "service": "AzureDataExplorerManagement.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.140.212.0/28",
+    "ip_type": "IPv4",
+    "service": "AzureDataExplorerManagement.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.142.134.240/28",
+    "ip_type": "IPv4",
+    "service": "AzureDataExplorerManagement.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:1::380/121",
+    "ip_type": "IPv6",
+    "service": "AzureDataExplorerManagement.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:402::150/124",
+    "ip_type": "IPv6",
+    "service": "AzureDataExplorerManagement.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.58.66.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.58.66.32/29",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:3::400/121",
+    "ip_type": "IPv6",
+    "service": "AzureDigitalTwins.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.142.32/28",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.162.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "52.142.152.144/28",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605::380/121",
+    "ip_type": "IPv6",
+    "service": "AzureEventGrid.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.58.69.0/24",
+    "ip_type": "IPv4",
+    "service": "EventHub.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.11.98.192/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.140.210.32/27",
+    "ip_type": "IPv4",
+    "service": "EventHub.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.141.14.113/32",
+    "ip_type": "IPv4",
+    "service": "EventHub.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.141.14.168/32",
+    "ip_type": "IPv4",
+    "service": "EventHub.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.141.50.179/32",
+    "ip_type": "IPv4",
+    "service": "EventHub.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605::240/122",
+    "ip_type": "IPv6",
+    "service": "EventHub.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:2::/120",
+    "ip_type": "IPv6",
+    "service": "EventHub.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:402::1c0/123",
+    "ip_type": "IPv6",
+    "service": "EventHub.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.164.160/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.165.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.140.212.160/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.140.226.207/32",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.140.240.234/32",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.141.49.253/32",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:402::300/123",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.58.67.48/29",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.58.67.56/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.140.210.80/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605::104/126",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605::108/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605::2a0/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:402::80/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.161.224/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.140.210.208/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605::300/122",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.58.66.96/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.11.97.96/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.11.100.16/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.11.100.48/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.164.92/31",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.164.112/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.164.200/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.164.208/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.140.211.160/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.140.212.64/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.141.113.128/32",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.142.130.8/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.142.135.10/31",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "172.187.35.160/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "172.187.35.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:600::9f/128",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605::780/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:1::280/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:1::300/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:3::/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:7::400/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:7::440/122",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:402::500/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.161.144/28",
+    "ip_type": "IPv4",
+    "service": "AzureOpenDatasets.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.162.160/27",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.164.80/30",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.167.152/29",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605::700/121",
+    "ip_type": "IPv6",
+    "service": "AzurePortal.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.58.64.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.11.96.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.140.212.16/28",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.140.214.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605::6c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:3::700/120",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:402::280/122",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.58.66.128/25",
+    "ip_type": "IPv4",
+    "service": "Sql.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.58.68.56/30",
+    "ip_type": "IPv4",
+    "service": "Sql.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.11.97.192/26",
+    "ip_type": "IPv4",
+    "service": "Sql.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.140.208.64/27",
+    "ip_type": "IPv4",
+    "service": "Sql.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.140.208.96/29",
+    "ip_type": "IPv4",
+    "service": "Sql.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.140.209.0/27",
+    "ip_type": "IPv4",
+    "service": "Sql.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.140.209.32/29",
+    "ip_type": "IPv4",
+    "service": "Sql.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.141.8.11/32",
+    "ip_type": "IPv4",
+    "service": "Sql.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.142.133.128/25",
+    "ip_type": "IPv4",
+    "service": "Sql.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605::280/123",
+    "ip_type": "IPv6",
+    "service": "Sql.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:1::200/121",
+    "ip_type": "IPv6",
+    "service": "Sql.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:3::180/121",
+    "ip_type": "IPv6",
+    "service": "Sql.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:400::/123",
+    "ip_type": "IPv6",
+    "service": "Sql.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.140.215.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.58.70.0/25",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.140.210.64/28",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.141.1.129/32",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.141.45.118/32",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "172.186.0.0/25",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605::220/123",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:1::500/120",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:402::170/125",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.90.37.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureSignalR.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:2::100/120",
+    "ip_type": "IPv6",
+    "service": "AzureSignalR.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.33.134.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.33.166.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.47.56.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.60.112.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.60.164.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.150.2.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.150.52.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.150.110.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.157.46.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.209.132.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.209.198.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.140.232.64/27",
+    "ip_type": "IPv4",
+    "service": "Storage.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.140.232.112/28",
+    "ip_type": "IPv4",
+    "service": "Storage.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.140.232.128/28",
+    "ip_type": "IPv4",
+    "service": "Storage.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.140.232.160/27",
+    "ip_type": "IPv4",
+    "service": "Storage.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.141.128.0/27",
+    "ip_type": "IPv4",
+    "service": "Storage.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.141.128.64/26",
+    "ip_type": "IPv4",
+    "service": "Storage.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.141.128.128/25",
+    "ip_type": "IPv4",
+    "service": "Storage.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.141.129.128/26",
+    "ip_type": "IPv4",
+    "service": "Storage.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "52.239.240.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:606::/48",
+    "ip_type": "IPv6",
+    "service": "Storage.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.162.192/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.140.211.128/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.141.8.61/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.141.8.62/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.141.8.64/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605::400/122",
+    "ip_type": "IPv6",
+    "service": "BatchNodeManagement.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.58.71.0/26",
+    "ip_type": "IPv4",
+    "service": "DataFactory.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.90.38.248/29",
+    "ip_type": "IPv4",
+    "service": "DataFactory.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.160.128/25",
+    "ip_type": "IPv4",
+    "service": "DataFactory.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.161.0/26",
+    "ip_type": "IPv4",
+    "service": "DataFactory.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.164.192/29",
+    "ip_type": "IPv4",
+    "service": "DataFactory.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.140.212.112/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "172.186.7.128/27",
+    "ip_type": "IPv4",
+    "service": "DataFactory.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605::440/122",
+    "ip_type": "IPv6",
+    "service": "DataFactory.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605::500/121",
+    "ip_type": "IPv6",
+    "service": "DataFactory.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:402::330/124",
+    "ip_type": "IPv6",
+    "service": "DataFactory.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.90.36.64/27",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.160.72/29",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.140.210.200/29",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "52.142.152.114/32",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "52.142.154.100/32",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605::40/122",
+    "ip_type": "IPv6",
+    "service": "GatewayManager.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.166.32/29",
+    "ip_type": "IPv4",
+    "service": "HDInsight.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.140.211.24/29",
+    "ip_type": "IPv4",
+    "service": "HDInsight.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.141.7.20/32",
+    "ip_type": "IPv4",
+    "service": "HDInsight.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.141.13.110/32",
+    "ip_type": "IPv4",
+    "service": "HDInsight.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:3::6c0/124",
+    "ip_type": "IPv6",
+    "service": "HDInsight.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:402::320/124",
+    "ip_type": "IPv6",
+    "service": "HDInsight.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.90.37.224/27",
+    "ip_type": "IPv4",
+    "service": "LogicApps.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.162.80.198/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.162.84.125/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.162.86.120/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.162.86.241/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.162.87.200/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.162.87.253/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.254.241.7/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.254.242.187/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.254.242.213/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.254.244.41/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.254.244.108/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.254.244.189/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.254.245.81/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.254.245.102/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.11.97.16/28",
+    "ip_type": "IPv4",
+    "service": "LogicApps.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.11.97.32/27",
+    "ip_type": "IPv4",
+    "service": "LogicApps.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.104.57.160/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.104.58.40/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.104.62.166/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.141.45.238/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.141.47.136/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.141.48.98/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.141.51.145/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.141.53.164/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.141.54.185/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.141.80.175/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.141.86.225/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.141.112.112/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.141.113.36/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.141.114.77/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.141.118.119/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.141.119.63/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.141.119.150/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.141.121.72/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.141.121.220/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.141.123.161/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "172.186.6.240/28",
+    "ip_type": "IPv4",
+    "service": "LogicApps.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:402::3c0/124",
+    "ip_type": "IPv6",
+    "service": "LogicApps.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:402::3e0/123",
+    "ip_type": "IPv6",
+    "service": "LogicApps.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.40.106.50/31",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.40.107.84/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.90.9.64/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.81.120.13/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.81.120.24/31",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.81.120.97/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.81.120.187/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.81.120.191/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.81.120.192/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.81.121.66/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.81.121.76/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.81.121.78/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.81.121.107/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.81.121.108/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.81.121.111/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.81.121.127/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.81.121.135/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.81.121.140/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.81.121.175/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.81.122.4/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.81.122.62/31",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.81.122.76/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.81.122.203/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.81.123.124/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.81.123.157/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.81.124.185/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.81.124.219/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.81.127.25/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.81.127.139/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.81.127.140/31",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.81.127.229/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.81.127.230/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.81.127.239/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.136.13/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.136.14/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.136.34/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.137.69/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.137.118/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.137.121/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.137.200/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.137.237/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.140.212.128/27",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.140.230.246/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.140.231.138/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.141.2.189/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.141.7.11/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "172.186.6.144/31",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "172.186.6.160/27",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "172.186.6.192/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "172.186.7.192/28",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "172.187.37.0/25",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "172.187.40.0/24",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "172.187.41.0/25",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.140.210.88/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:402::88/125",
+    "ip_type": "IPv6",
+    "service": "MicrosoftContainerRegistry.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.58.71.128/26",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.58.71.192/27",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.68.125.79/32",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.77.240.43/32",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.90.32.128/29",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.81.113.131/32",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.81.116.141/32",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.81.116.143/32",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.81.116.223/32",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.81.117.23/32",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.104.36.212/32",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.132.68.126/32",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.132.72.50/32",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.132.72.181/32",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.132.73.95/32",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.136.98/32",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.137.158/31",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.137.224/32",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.137.235/32",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.164.224/27",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.165.192/26",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.166.0/28",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.166.16/29",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.166.24/30",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.166.64/26",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.167.176/29",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.180.86/32",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.142.134.176/28",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.142.134.192/27",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.142.162.40/32",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "52.142.168.104/32",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "172.187.37.224/30",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "172.187.38.0/23",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1061:2002:3100::/57",
+    "ip_type": "IPv6",
+    "service": "PowerPlatformInfra.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.90.38.16/29",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.90.38.24/30",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.90.38.52/30",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.90.38.240/29",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.139.0/26",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.142.135.216/29",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "172.186.6.136/29",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "172.187.7.224/28",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1061:2004:2900::/57",
+    "ip_type": "IPv6",
+    "service": "PowerPlatformPlex.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.90.38.56/29",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.160.68/31",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "172.186.6.128/29",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "172.186.7.0/28",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605::200/123",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:402::168/126",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.140.215.160/29",
+    "ip_type": "IPv4",
+    "service": "SCCservice.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.140.211.16/29",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.141.8.30/32",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:402::98/125",
+    "ip_type": "IPv6",
+    "service": "ServiceFabric.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.11.98.144/29",
+    "ip_type": "IPv4",
+    "service": "StorageSyncService.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.161.240/29",
+    "ip_type": "IPv4",
+    "service": "StorageSyncService.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.140.202.34/32",
+    "ip_type": "IPv4",
+    "service": "StorageSyncService.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605::340/123",
+    "ip_type": "IPv6",
+    "service": "StorageSyncService.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:402::5e0/123",
+    "ip_type": "IPv6",
+    "service": "StorageSyncService.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.77.241.140/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.77.242.0/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.77.242.207/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.77.243.96/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.64.144.240/29",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.64.145.96/28",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.104.49.88/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.140.206.110/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.140.255.55/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.141.30.31/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.141.122.89/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1061:2010:17::/117",
+    "ip_type": "IPv6",
+    "service": "WindowsVirtualDesktop.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.33.134.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.33.166.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.39.160.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.40.104.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.45.176.0/20",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.47.56.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.47.82.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.58.64.0/18",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.60.112.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.60.164.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.68.64.0/18",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.77.192.0/18",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.90.0.0/18",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.95.86.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.95.110.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.117.0.0/18",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.135.64.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.150.2.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.150.52.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.150.110.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.157.46.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.162.0.0/17",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.190.144.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.190.171.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.202.3.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.209.132.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.209.198.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.254.128.0/17",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.64.144.240/29",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.64.145.96/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.64.171.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.79.218.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.81.112.0/20",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.87.228.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.90.28.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.90.29.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.90.131.96/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.90.139.96/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.90.157.192/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.93.68.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.101.20.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.101.115.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.126.16.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.126.43.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.5.18.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.11.96.0/19",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.104.32.0/19",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.132.64.0/18",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.128.0/18",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.140.192.0/18",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.141.0.0/17",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.141.128.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.141.128.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.141.128.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.141.129.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.141.134.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.141.136.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.142.48.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.142.128.0/18",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "52.101.98.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "52.101.100.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "52.101.102.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "52.101.195.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "52.102.166.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "52.103.38.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "52.103.166.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "52.108.189.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "52.108.224.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "52.109.32.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "52.111.205.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "52.112.134.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "52.112.168.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "52.112.212.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "52.112.230.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "52.114.84.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "52.114.92.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "52.123.55.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "52.123.155.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "52.123.156.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "52.136.20.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "52.142.128.0/18",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "52.239.240.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "70.152.34.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "104.44.90.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "172.186.0.0/16",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "172.187.0.0/18",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:600::/47",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:602::/48",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:604::/48",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605::/48",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:606::/48",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1026:900:19::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1026:900:46::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1026:2407::/48",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1026:3000:200::/59",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1027:1:200::/59",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1061:1311:5400::/54",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1061:171b::/48",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1061:2000:588::/62",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1061:2002:3100::/57",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1061:2004:2900::/57",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1061:2010:17::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1061:2011:17::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1062:c:34::/63",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1063:1d::/56",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1063:11f::/55",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1063:11f:200::/56",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1063:21f::/55",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1063:41e::/56",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1063:629::/56",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1063:2206:34::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2a01:111:f403:c206::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2a01:111:f403:c947::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2a01:111:f403:ca0f::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2a01:111:f403:ca1a::/63",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2a01:111:f403:ca1c::/63",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2a01:111:f403:d206::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2a01:111:f403:da06::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2a01:111:f403:e206::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  }
+]

@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+51.120.232.40/29,IPv4,AzureDigitalTwins.NorwayEast,norwaye
+51.120.232.128/27,IPv4,AzureDigitalTwins.NorwayEast,norwaye
+2603:1020:e04::700/121,IPv6,AzureDigitalTwins.NorwayEast,norwaye

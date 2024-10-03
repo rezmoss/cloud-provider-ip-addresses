@@ -1,0 +1,38 @@
+[
+  {
+    "ip_address": "20.6.143.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.189.108.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.189.115.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.189.123.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.189.125.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "2603:1040:207::380/121",
+    "ip_type": "IPv6",
+    "service": "AzureEventGrid.EastAsia",
+    "region": "eastasia"
+  }
+]

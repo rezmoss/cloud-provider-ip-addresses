@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+51.107.145.160/27,IPv4,BatchNodeManagement.SwitzerlandWest,switzerlandw
+51.107.155.224/27,IPv4,BatchNodeManagement.SwitzerlandWest,switzerlandw
+2603:1020:b04::400/122,IPv6,BatchNodeManagement.SwitzerlandWest,switzerlandw

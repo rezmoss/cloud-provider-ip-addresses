@@ -1,0 +1,68 @@
+[
+  {
+    "ip_address": "40.79.130.40/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "40.79.141.136/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "40.79.148.84/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "51.138.210.132/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "51.138.211.8/29",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "2603:1020:805::340/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "2603:1020:805:1::10c/126",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "2603:1020:805:1::110/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "2603:1020:805:402::80/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "2603:1020:805:802::80/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "2603:1020:805:c02::80/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.FranceCentral",
+    "region": "centralfrance"
+  }
+]

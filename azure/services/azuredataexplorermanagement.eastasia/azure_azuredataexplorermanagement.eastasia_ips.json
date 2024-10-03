@@ -1,0 +1,38 @@
+[
+  {
+    "ip_address": "13.75.39.0/28",
+    "ip_type": "IPv4",
+    "service": "AzureDataExplorerManagement.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.189.74.103/32",
+    "ip_type": "IPv4",
+    "service": "AzureDataExplorerManagement.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.195.78.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureDataExplorerManagement.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "40.81.28.50/32",
+    "ip_type": "IPv4",
+    "service": "AzureDataExplorerManagement.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "2603:1040:207:1::380/121",
+    "ip_type": "IPv6",
+    "service": "AzureDataExplorerManagement.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "2603:1040:207:402::150/124",
+    "ip_type": "IPv6",
+    "service": "AzureDataExplorerManagement.EastAsia",
+    "region": "eastasia"
+  }
+]

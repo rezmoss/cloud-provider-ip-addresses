@@ -1,0 +1,3 @@
+ip_address,ip_type,service,region
+51.12.193.64/26,IPv4,AzureCognitiveSearch.SwedenSouth,swedensouth
+2603:1020:1104::180/121,IPv6,AzureCognitiveSearch.SwedenSouth,swedensouth

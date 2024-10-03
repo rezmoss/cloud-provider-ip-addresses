@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "172.204.152.40/29",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.172.24/29",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.174.16/28",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1010:502::1c0/123",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.NewZealandNorth",
+    "region": "newzealandnorth"
+  }
+]

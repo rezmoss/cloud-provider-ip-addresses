@@ -1,0 +1,7 @@
+ip_address,ip_type,service,region
+20.192.153.112/28,IPv4,AppServiceManagement.SouthIndia,southindia
+40.78.194.128/26,IPv4,AppServiceManagement.SouthIndia,southindia
+104.211.225.66/32,IPv4,AppServiceManagement.SouthIndia,southindia
+2603:1040:c06:1::4a0/123,IPv6,AppServiceManagement.SouthIndia,southindia
+2603:1040:c06:6::240/122,IPv6,AppServiceManagement.SouthIndia,southindia
+2603:1040:c06:402::100/122,IPv6,AppServiceManagement.SouthIndia,southindia

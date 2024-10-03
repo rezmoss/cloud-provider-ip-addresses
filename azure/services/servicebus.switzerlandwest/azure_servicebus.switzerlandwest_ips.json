@@ -1,0 +1,44 @@
+[
+  {
+    "ip_address": "51.107.154.8/29",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "51.107.193.144/28",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "51.107.227.231/32",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "51.107.252.128/25",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "2603:1020:b04::220/123",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "2603:1020:b04:1::500/120",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "2603:1020:b04:402::170/125",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.SwitzerlandWest",
+    "region": "switzerlandw"
+  }
+]

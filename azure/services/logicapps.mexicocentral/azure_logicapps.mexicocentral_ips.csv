@@ -1,0 +1,7 @@
+ip_address,ip_type,service,region
+68.155.71.192/28,IPv4,LogicApps.MexicoCentral,mexicocentral
+158.23.15.16/28,IPv4,LogicApps.MexicoCentral,mexicocentral
+158.23.15.32/27,IPv4,LogicApps.MexicoCentral,mexicocentral
+158.23.202.128/28,IPv4,LogicApps.MexicoCentral,mexicocentral
+2603:1030:702:400::450/124,IPv6,LogicApps.MexicoCentral,mexicocentral
+2603:1030:702:400::460/123,IPv6,LogicApps.MexicoCentral,mexicocentral

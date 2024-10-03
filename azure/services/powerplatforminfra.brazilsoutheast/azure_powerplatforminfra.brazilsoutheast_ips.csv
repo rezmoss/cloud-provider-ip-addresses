@@ -1,0 +1,7 @@
+ip_address,ip_type,service,region
+20.206.3.24/29,IPv4,PowerPlatformInfra.BrazilSoutheast,brazilse
+20.206.3.32/27,IPv4,PowerPlatformInfra.BrazilSoutheast,brazilse
+20.206.3.64/26,IPv4,PowerPlatformInfra.BrazilSoutheast,brazilse
+20.206.3.128/25,IPv4,PowerPlatformInfra.BrazilSoutheast,brazilse
+20.206.4.0/26,IPv4,PowerPlatformInfra.BrazilSoutheast,brazilse
+2603:1061:2002:1000::/57,IPv6,PowerPlatformInfra.BrazilSoutheast,brazilse

@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+52.136.49.160/27,IPv4,AzurePortal.WestIndia,westindia
+52.136.51.72/30,IPv4,AzurePortal.WestIndia,westindia
+52.136.52.232/29,IPv4,AzurePortal.WestIndia,westindia
+2603:1040:806::700/121,IPv6,AzurePortal.WestIndia,westindia

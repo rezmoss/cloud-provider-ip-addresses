@@ -1,0 +1,6 @@
+ip_address,ip_type,service,region
+20.215.5.0/24,IPv4,EventHub.PolandCentral,polandcentral
+20.215.19.64/26,IPv4,EventHub.PolandCentral,polandcentral
+20.215.27.64/26,IPv4,EventHub.PolandCentral,polandcentral
+20.215.155.128/26,IPv4,EventHub.PolandCentral,polandcentral
+2603:1020:1302:1::/120,IPv6,EventHub.PolandCentral,polandcentral

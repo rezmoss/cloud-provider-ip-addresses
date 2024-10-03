@@ -1,0 +1,104 @@
+[
+  {
+    "ip_address": "13.71.5.20/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "20.198.67.41/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "20.198.67.137/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "20.204.26.16/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "20.204.81.191/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "20.204.84.32/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "20.204.86.137/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "20.204.136.84/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "20.204.136.104/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "40.64.144.232/29",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "40.64.145.80/28",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "52.140.113.34/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "52.172.210.235/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "52.172.223.46/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "104.211.78.17/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "104.211.114.61/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "2603:1061:2010:5::/117",
+    "ip_type": "IPv6",
+    "service": "WindowsVirtualDesktop.CentralIndia",
+    "region": "centralindia"
+  }
+]

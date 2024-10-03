@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "20.36.120.216/29",
+    "ip_type": "IPv4",
+    "service": "StorageSyncService.AustraliaCentral2",
+    "region": "australiacentral2"
+  },
+  {
+    "ip_address": "20.193.96.232/29",
+    "ip_type": "IPv4",
+    "service": "StorageSyncService.AustraliaCentral2",
+    "region": "australiacentral2"
+  },
+  {
+    "ip_address": "2603:1010:404::340/123",
+    "ip_type": "IPv6",
+    "service": "StorageSyncService.AustraliaCentral2",
+    "region": "australiacentral2"
+  },
+  {
+    "ip_address": "2603:1010:404:402::5e0/123",
+    "ip_type": "IPv6",
+    "service": "StorageSyncService.AustraliaCentral2",
+    "region": "australiacentral2"
+  }
+]

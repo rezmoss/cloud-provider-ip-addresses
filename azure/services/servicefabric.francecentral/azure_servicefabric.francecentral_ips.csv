@@ -1,0 +1,10 @@
+ip_address,ip_type,service,region
+40.79.130.232/29,IPv4,ServiceFabric.FranceCentral,centralfrance
+40.79.139.192/30,IPv4,ServiceFabric.FranceCentral,centralfrance
+40.79.148.80/30,IPv4,ServiceFabric.FranceCentral,centralfrance
+40.89.168.15/32,IPv4,ServiceFabric.FranceCentral,centralfrance
+52.143.136.15/32,IPv4,ServiceFabric.FranceCentral,centralfrance
+52.143.184.15/32,IPv4,ServiceFabric.FranceCentral,centralfrance
+2603:1020:805:402::98/125,IPv6,ServiceFabric.FranceCentral,centralfrance
+2603:1020:805:802::98/125,IPv6,ServiceFabric.FranceCentral,centralfrance
+2603:1020:805:c02::98/125,IPv6,ServiceFabric.FranceCentral,centralfrance

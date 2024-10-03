@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "20.17.63.212/30",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.MalaysiaSouth",
+    "region": "malaysiasouth"
+  },
+  {
+    "ip_address": "20.17.66.88/30",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.MalaysiaSouth",
+    "region": "malaysiasouth"
+  },
+  {
+    "ip_address": "2603:1040:1503:1::1c4/126",
+    "ip_type": "IPv6",
+    "service": "ActionGroup.MalaysiaSouth",
+    "region": "malaysiasouth"
+  },
+  {
+    "ip_address": "2603:1040:1503:400::180/125",
+    "ip_type": "IPv6",
+    "service": "ActionGroup.MalaysiaSouth",
+    "region": "malaysiasouth"
+  }
+]

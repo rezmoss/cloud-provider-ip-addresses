@@ -1,0 +1,92 @@
+[
+  {
+    "ip_address": "20.168.190.152/29",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.148.29.27/32",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.148.46.114/31",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.150.156.248/29",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.150.157.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.153.153.146/32",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.153.153.246/32",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.153.153.255/32",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.153.154.13/32",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.153.154.40/32",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.153.154.123/32",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.153.154.158/32",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.153.154.161/32",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.161.185.49/32",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:3::478/126",
+    "ip_type": "IPv6",
+    "service": "AzureDigitalTwins.WestCentralUS",
+    "region": "westcentralus"
+  }
+]

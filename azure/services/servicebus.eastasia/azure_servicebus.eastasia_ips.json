@@ -1,0 +1,92 @@
+[
+  {
+    "ip_address": "4.252.139.0/24",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "13.75.34.128/28",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "13.75.108.23/32",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.195.75.128/25",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.205.74.80/29",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.205.75.64/28",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.205.82.80/29",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.205.83.64/28",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "65.52.160.127/32",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "104.214.165.72/29",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "207.46.138.15/32",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "2603:1040:207::220/123",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "2603:1040:207:2::80/121",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "2603:1040:207:2::500/120",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "2603:1040:207:402::170/125",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.EastAsia",
+    "region": "eastasia"
+  }
+]

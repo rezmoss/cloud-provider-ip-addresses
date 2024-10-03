@@ -1,0 +1,56 @@
+[
+  {
+    "ip_address": "51.12.42.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "51.12.42.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "51.12.100.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "51.12.227.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "51.12.235.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "2603:1020:1004:400::480/123",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "2603:1020:1004:800::100/123",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "2603:1020:1004:800::240/123",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "2603:1020:1004:c02::2a0/123",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.SwedenCentral",
+    "region": "swedencentral"
+  }
+]

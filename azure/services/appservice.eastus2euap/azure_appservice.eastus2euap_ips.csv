@@ -1,0 +1,12 @@
+ip_address,ip_type,service,region
+20.39.11.104/29,IPv4,AppService.EastUS2EUAP,eastus2euap
+20.47.233.120/29,IPv4,AppService.EastUS2EUAP,eastus2euap
+20.47.234.0/24,IPv4,AppService.EastUS2EUAP,eastus2euap
+20.47.235.0/25,IPv4,AppService.EastUS2EUAP,eastus2euap
+52.225.179.39/32,IPv4,AppService.EastUS2EUAP,eastus2euap
+52.225.190.65/32,IPv4,AppService.EastUS2EUAP,eastus2euap
+52.253.224.223/32,IPv4,AppService.EastUS2EUAP,eastus2euap
+2603:1030:40b:3::400/119,IPv6,AppService.EastUS2EUAP,eastus2euap
+2603:1030:40b:400::8a0/123,IPv6,AppService.EastUS2EUAP,eastus2euap
+2603:1030:40b:800::a0/123,IPv6,AppService.EastUS2EUAP,eastus2euap
+2603:1030:40b:c00::a0/123,IPv6,AppService.EastUS2EUAP,eastus2euap

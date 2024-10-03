@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "20.41.136.240/28",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.NorthCentralUS",
+    "region": "northcentralus"
+  },
+  {
+    "ip_address": "40.80.190.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.NorthCentralUS",
+    "region": "northcentralus"
+  },
+  {
+    "ip_address": "52.252.213.192/28",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.NorthCentralUS",
+    "region": "northcentralus"
+  },
+  {
+    "ip_address": "2603:1030:608::380/121",
+    "ip_type": "IPv6",
+    "service": "AzureEventGrid.NorthCentralUS",
+    "region": "northcentralus"
+  }
+]

@@ -1,0 +1,7 @@
+ip_address,ip_type,service,region
+34.0.240.0/20,IPv4,Google Cloud,europe-central2
+34.104.116.0/22,IPv4,Google Cloud,europe-central2
+34.116.128.0/17,IPv4,Google Cloud,europe-central2
+34.118.0.0/17,IPv4,Google Cloud,europe-central2
+34.124.52.0/22,IPv4,Google Cloud,europe-central2
+2600:1900:4140::/44,IPv6,Google Cloud,europe-central2

@@ -1,0 +1,17 @@
+ip_address,ip_type,service,region
+13.67.191.143/32,IPv4,AzureUpdateDelivery.CentralUS,centralus
+20.12.236.228/32,IPv4,AzureUpdateDelivery.CentralUS,centralus
+20.109.209.108/31,IPv4,AzureUpdateDelivery.CentralUS,centralus
+23.99.220.122/32,IPv4,AzureUpdateDelivery.CentralUS,centralus
+40.83.50.80/28,IPv4,AzureUpdateDelivery.CentralUS,centralus
+52.165.164.15/32,IPv4,AzureUpdateDelivery.CentralUS,centralus
+52.165.164.33/32,IPv4,AzureUpdateDelivery.CentralUS,centralus
+52.165.165.26/32,IPv4,AzureUpdateDelivery.CentralUS,centralus
+52.173.87.47/32,IPv4,AzureUpdateDelivery.CentralUS,centralus
+2603:1030:7::10/128,IPv6,AzureUpdateDelivery.CentralUS,centralus
+2603:1030:7::26/128,IPv6,AzureUpdateDelivery.CentralUS,centralus
+2603:1030:7::106/127,IPv6,AzureUpdateDelivery.CentralUS,centralus
+2603:1030:7::65e/128,IPv6,AzureUpdateDelivery.CentralUS,centralus
+2603:1030:7::712/128,IPv6,AzureUpdateDelivery.CentralUS,centralus
+2603:1030:7::79c/128,IPv6,AzureUpdateDelivery.CentralUS,centralus
+2603:1030:7:5::350/124,IPv6,AzureUpdateDelivery.CentralUS,centralus

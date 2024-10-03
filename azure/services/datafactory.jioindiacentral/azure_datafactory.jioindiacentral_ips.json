@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "20.192.226.0/23",
+    "ip_type": "IPv4",
+    "service": "DataFactory.JioIndiaCentral",
+    "region": "jioindiacentral"
+  },
+  {
+    "ip_address": "20.192.238.96/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.JioIndiaCentral",
+    "region": "jioindiacentral"
+  },
+  {
+    "ip_address": "2603:1040:1104::600/121",
+    "ip_type": "IPv6",
+    "service": "DataFactory.JioIndiaCentral",
+    "region": "jioindiacentral"
+  },
+  {
+    "ip_address": "2603:1040:1104:400::500/124",
+    "ip_type": "IPv6",
+    "service": "DataFactory.JioIndiaCentral",
+    "region": "jioindiacentral"
+  }
+]

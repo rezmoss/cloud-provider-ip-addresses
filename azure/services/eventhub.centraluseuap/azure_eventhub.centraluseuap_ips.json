@@ -1,0 +1,68 @@
+[
+  {
+    "ip_address": "20.45.240.128/25",
+    "ip_type": "IPv4",
+    "service": "EventHub.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.45.241.0/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.46.15.64/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "40.78.202.32/27",
+    "ip_type": "IPv4",
+    "service": "EventHub.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "52.180.180.228/32",
+    "ip_type": "IPv4",
+    "service": "EventHub.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "52.180.182.75/32",
+    "ip_type": "IPv4",
+    "service": "EventHub.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "168.61.143.128/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:1::240/122",
+    "ip_type": "IPv6",
+    "service": "EventHub.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:3::200/122",
+    "ip_type": "IPv6",
+    "service": "EventHub.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:3::400/120",
+    "ip_type": "IPv6",
+    "service": "EventHub.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:400::9c0/123",
+    "ip_type": "IPv6",
+    "service": "EventHub.CentralUSEUAP",
+    "region": "centraluseuap"
+  }
+]

@@ -1,0 +1,140 @@
+[
+  {
+    "ip_address": "4.206.228.192/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "13.71.170.16/28",
+    "ip_type": "IPv4",
+    "service": "EventHub.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "13.71.177.128/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "20.38.146.64/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "20.48.200.128/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "20.151.32.64/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "40.85.226.62/32",
+    "ip_type": "IPv4",
+    "service": "EventHub.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "40.85.229.32/32",
+    "ip_type": "IPv4",
+    "service": "EventHub.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "52.139.4.118/32",
+    "ip_type": "IPv4",
+    "service": "EventHub.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "52.233.30.41/32",
+    "ip_type": "IPv4",
+    "service": "EventHub.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "52.237.33.36/32",
+    "ip_type": "IPv4",
+    "service": "EventHub.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "52.246.154.64/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "52.246.159.0/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "2603:1030:f05:1::100/125",
+    "ip_type": "IPv6",
+    "service": "EventHub.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "2603:1030:f05:1::108/126",
+    "ip_type": "IPv6",
+    "service": "EventHub.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "2603:1030:f05:1::240/122",
+    "ip_type": "IPv6",
+    "service": "EventHub.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "2603:1030:f05:2::400/120",
+    "ip_type": "IPv6",
+    "service": "EventHub.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "2603:1030:f05:4::260/123",
+    "ip_type": "IPv6",
+    "service": "EventHub.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "2603:1030:f05:4::400/120",
+    "ip_type": "IPv6",
+    "service": "EventHub.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "2603:1030:f05:402::1c0/123",
+    "ip_type": "IPv6",
+    "service": "EventHub.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "2603:1030:f05:802::160/123",
+    "ip_type": "IPv6",
+    "service": "EventHub.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "2603:1030:f05:c02::160/123",
+    "ip_type": "IPv6",
+    "service": "EventHub.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "2603:10e1:100:2::348b:476/128",
+    "ip_type": "IPv6",
+    "service": "EventHub.CanadaCentral",
+    "region": "canadacentral"
+  }
+]

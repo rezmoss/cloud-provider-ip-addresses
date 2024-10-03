@@ -1,0 +1,62 @@
+[
+  {
+    "ip_address": "20.39.80.153/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "20.39.81.227/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "20.39.81.229/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "40.79.178.0/28",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "40.80.101.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "40.80.103.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "40.80.103.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "51.105.92.192/27",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "2603:1020:905:2::4a0/123",
+    "ip_type": "IPv6",
+    "service": "AzureCosmosDB.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "2603:1020:905:402::c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureCosmosDB.FranceSouth",
+    "region": "southfrance"
+  }
+]

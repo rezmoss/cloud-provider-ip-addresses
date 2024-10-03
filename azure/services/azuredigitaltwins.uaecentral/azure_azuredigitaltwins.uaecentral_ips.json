@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "20.37.70.112/29",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.UAECentral",
+    "region": "uaecentral"
+  },
+  {
+    "ip_address": "20.37.70.192/27",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.UAECentral",
+    "region": "uaecentral"
+  },
+  {
+    "ip_address": "2603:1040:b04:2::700/121",
+    "ip_type": "IPv6",
+    "service": "AzureDigitalTwins.UAECentral",
+    "region": "uaecentral"
+  }
+]

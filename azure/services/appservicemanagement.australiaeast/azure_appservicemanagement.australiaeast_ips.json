@@ -1,0 +1,44 @@
+[
+  {
+    "ip_address": "13.70.73.128/26",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "20.70.222.64/28",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "104.210.90.65/32",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "2603:1010:6:2::700/123",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "2603:1010:6:402::100/122",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "2603:1010:6:802::100/122",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "2603:1010:6:c02::100/122",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.AustraliaEast",
+    "region": "australiaeast"
+  }
+]

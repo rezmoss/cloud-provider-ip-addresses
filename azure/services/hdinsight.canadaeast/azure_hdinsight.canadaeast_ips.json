@@ -1,0 +1,38 @@
+[
+  {
+    "ip_address": "40.69.107.8/29",
+    "ip_type": "IPv4",
+    "service": "HDInsight.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.89.22.88/29",
+    "ip_type": "IPv4",
+    "service": "HDInsight.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.229.123.172/32",
+    "ip_type": "IPv4",
+    "service": "HDInsight.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.229.127.96/32",
+    "ip_type": "IPv4",
+    "service": "HDInsight.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:3::430/124",
+    "ip_type": "IPv6",
+    "service": "HDInsight.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:402::320/124",
+    "ip_type": "IPv6",
+    "service": "HDInsight.CanadaEast",
+    "region": "canadaeast"
+  }
+]

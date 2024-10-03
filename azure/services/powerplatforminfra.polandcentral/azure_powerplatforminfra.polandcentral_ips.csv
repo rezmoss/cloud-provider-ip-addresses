@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+20.215.74.96/29,IPv4,PowerPlatformInfra.PolandCentral,polandcentral
+20.215.75.0/26,IPv4,PowerPlatformInfra.PolandCentral,polandcentral
+20.215.75.64/27,IPv4,PowerPlatformInfra.PolandCentral,polandcentral
+2603:1061:2002:9800::/57,IPv6,PowerPlatformInfra.PolandCentral,polandcentral

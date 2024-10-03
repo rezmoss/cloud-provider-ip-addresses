@@ -1,0 +1,9 @@
+ip_address,ip_type,service,region
+172.204.158.0/25,IPv4,ServiceBus.NewZealandNorth,newzealandnorth
+172.204.182.136/29,IPv4,ServiceBus.NewZealandNorth,newzealandnorth
+172.204.182.208/28,IPv4,ServiceBus.NewZealandNorth,newzealandnorth
+172.204.192.16/29,IPv4,ServiceBus.NewZealandNorth,newzealandnorth
+172.204.192.32/28,IPv4,ServiceBus.NewZealandNorth,newzealandnorth
+172.204.208.16/29,IPv4,ServiceBus.NewZealandNorth,newzealandnorth
+172.204.208.32/28,IPv4,ServiceBus.NewZealandNorth,newzealandnorth
+2603:1010:502::780/121,IPv6,ServiceBus.NewZealandNorth,newzealandnorth

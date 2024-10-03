@@ -1,0 +1,38 @@
+[
+  {
+    "ip_address": "68.155.71.192/28",
+    "ip_type": "IPv4",
+    "service": "LogicApps.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "158.23.15.16/28",
+    "ip_type": "IPv4",
+    "service": "LogicApps.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "158.23.15.32/27",
+    "ip_type": "IPv4",
+    "service": "LogicApps.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "158.23.202.128/28",
+    "ip_type": "IPv4",
+    "service": "LogicApps.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "2603:1030:702:400::450/124",
+    "ip_type": "IPv6",
+    "service": "LogicApps.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "2603:1030:702:400::460/123",
+    "ip_type": "IPv6",
+    "service": "LogicApps.MexicoCentral",
+    "region": "mexicocentral"
+  }
+]

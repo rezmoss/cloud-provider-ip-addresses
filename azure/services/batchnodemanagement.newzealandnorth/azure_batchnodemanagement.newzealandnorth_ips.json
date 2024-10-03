@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "172.204.153.64/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1010:502::300/122",
+    "ip_type": "IPv6",
+    "service": "BatchNodeManagement.NewZealandNorth",
+    "region": "newzealandnorth"
+  }
+]

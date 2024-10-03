@@ -1,0 +1,50 @@
+-- SQL script to create table `azure_microsoftcloudappsecurity.westus_ips` and insert IP addresses
+
+CREATE TABLE IF NOT EXISTS `azure_microsoftcloudappsecurity.westus_ips` (
+  `ip_address` VARCHAR(45) NOT NULL,
+  `ip_type` VARCHAR(10) NOT NULL,
+  PRIMARY KEY (`ip_address`)
+);
+
+INSERT INTO `azure_microsoftcloudappsecurity.westus_ips` (`ip_address`, `ip_type`) VALUES ('13.64.26.88/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.westus_ips` (`ip_address`, `ip_type`) VALUES ('13.64.28.87/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.westus_ips` (`ip_address`, `ip_type`) VALUES ('13.64.29.32/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.westus_ips` (`ip_address`, `ip_type`) VALUES ('13.64.29.161/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.westus_ips` (`ip_address`, `ip_type`) VALUES ('13.64.30.76/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.westus_ips` (`ip_address`, `ip_type`) VALUES ('13.64.30.117/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.westus_ips` (`ip_address`, `ip_type`) VALUES ('13.64.30.118/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.westus_ips` (`ip_address`, `ip_type`) VALUES ('13.64.31.116/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.westus_ips` (`ip_address`, `ip_type`) VALUES ('13.64.196.27/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.westus_ips` (`ip_address`, `ip_type`) VALUES ('13.64.198.19/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.westus_ips` (`ip_address`, `ip_type`) VALUES ('13.64.198.97/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.westus_ips` (`ip_address`, `ip_type`) VALUES ('13.64.199.41/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.westus_ips` (`ip_address`, `ip_type`) VALUES ('13.64.252.115/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.westus_ips` (`ip_address`, `ip_type`) VALUES ('13.86.176.189/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.westus_ips` (`ip_address`, `ip_type`) VALUES ('13.86.176.211/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.westus_ips` (`ip_address`, `ip_type`) VALUES ('13.86.219.224/27', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.westus_ips` (`ip_address`, `ip_type`) VALUES ('13.86.235.202/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.westus_ips` (`ip_address`, `ip_type`) VALUES ('13.86.239.236/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.westus_ips` (`ip_address`, `ip_type`) VALUES ('13.91.61.249/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.westus_ips` (`ip_address`, `ip_type`) VALUES ('13.91.91.243/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.westus_ips` (`ip_address`, `ip_type`) VALUES ('13.91.98.185/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.westus_ips` (`ip_address`, `ip_type`) VALUES ('13.93.196.52/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.westus_ips` (`ip_address`, `ip_type`) VALUES ('13.93.216.68/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.westus_ips` (`ip_address`, `ip_type`) VALUES ('13.93.233.42/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.westus_ips` (`ip_address`, `ip_type`) VALUES ('23.101.201.123/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.westus_ips` (`ip_address`, `ip_type`) VALUES ('40.78.23.204/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.westus_ips` (`ip_address`, `ip_type`) VALUES ('40.78.56.129/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.westus_ips` (`ip_address`, `ip_type`) VALUES ('40.118.211.172/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.westus_ips` (`ip_address`, `ip_type`) VALUES ('52.157.19.228/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.westus_ips` (`ip_address`, `ip_type`) VALUES ('52.157.20.142/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.westus_ips` (`ip_address`, `ip_type`) VALUES ('52.159.213.32/27', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.westus_ips` (`ip_address`, `ip_type`) VALUES ('52.159.213.128/25', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.westus_ips` (`ip_address`, `ip_type`) VALUES ('57.154.150.0/23', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.westus_ips` (`ip_address`, `ip_type`) VALUES ('104.40.28.202/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.westus_ips` (`ip_address`, `ip_type`) VALUES ('104.42.15.41/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.westus_ips` (`ip_address`, `ip_type`) VALUES ('104.42.34.58/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.westus_ips` (`ip_address`, `ip_type`) VALUES ('104.42.38.254/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.westus_ips` (`ip_address`, `ip_type`) VALUES ('104.42.54.24/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.westus_ips` (`ip_address`, `ip_type`) VALUES ('104.42.75.120/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.westus_ips` (`ip_address`, `ip_type`) VALUES ('104.42.211.215/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.westus_ips` (`ip_address`, `ip_type`) VALUES ('104.209.35.177/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.westus_ips` (`ip_address`, `ip_type`) VALUES ('138.91.147.71/32', 'IPv4');

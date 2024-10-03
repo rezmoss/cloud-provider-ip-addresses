@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "20.195.146.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "191.233.50.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "191.233.51.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "2603:1050:403:400::500/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.BrazilSoutheast",
+    "region": "brazilse"
+  }
+]

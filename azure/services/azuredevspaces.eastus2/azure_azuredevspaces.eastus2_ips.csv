@@ -1,0 +1,3 @@
+ip_address,ip_type,service,region
+20.41.5.128/28,IPv4,AzureDevSpaces.EastUS2,eastus2
+40.70.151.80/28,IPv4,AzureDevSpaces.EastUS2,eastus2

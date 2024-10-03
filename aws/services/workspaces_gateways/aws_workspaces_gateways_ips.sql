@@ -1,0 +1,74 @@
+-- SQL script to create table `aws_workspaces_gateways_ips` and insert IP addresses
+
+CREATE TABLE IF NOT EXISTS `aws_workspaces_gateways_ips` (
+  `ip_address` VARCHAR(45) NOT NULL,
+  `ip_type` VARCHAR(10) NOT NULL,
+  PRIMARY KEY (`ip_address`)
+);
+
+INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('43.192.144.0/22', 'IPv4');
+INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('52.83.58.0/24', 'IPv4');
+INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('69.235.162.0/24', 'IPv4');
+INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('18.254.140.0/22', 'IPv4');
+INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('18.254.148.0/22', 'IPv4');
+INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('3.30.129.0/24', 'IPv4');
+INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('3.30.130.0/23', 'IPv4');
+INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('3.32.139.0/24', 'IPv4');
+INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('52.61.193.0/24', 'IPv4');
+INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('13.246.108.0/22', 'IPv4');
+INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('13.246.120.0/22', 'IPv4');
+INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('18.180.178.0/24', 'IPv4');
+INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('18.180.180.0/23', 'IPv4');
+INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('3.114.164.0/22', 'IPv4');
+INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('54.250.251.0/24', 'IPv4');
+INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('13.124.247.0/24', 'IPv4');
+INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('3.34.37.0/24', 'IPv4');
+INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('3.34.38.0/23', 'IPv4');
+INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('3.35.160.0/22', 'IPv4');
+INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('13.126.243.0/24', 'IPv4');
+INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('65.1.156.0/22', 'IPv4');
+INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('13.212.132.0/22', 'IPv4');
+INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('18.141.152.0/24', 'IPv4');
+INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('18.141.154.0/23', 'IPv4');
+INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('52.76.127.0/24', 'IPv4');
+INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('3.25.248.0/22', 'IPv4');
+INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('3.25.43.0/24', 'IPv4');
+INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('3.25.44.0/23', 'IPv4');
+INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('54.153.254.0/24', 'IPv4');
+INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('15.223.100.0/24', 'IPv4');
+INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('15.223.102.0/23', 'IPv4');
+INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('3.97.20.0/22', 'IPv4');
+INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('35.183.255.0/24', 'IPv4');
+INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('18.156.52.0/24', 'IPv4');
+INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('18.156.54.0/23', 'IPv4');
+INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('18.192.216.0/22', 'IPv4');
+INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('52.59.127.0/24', 'IPv4');
+INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('3.248.176.0/22', 'IPv4');
+INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('3.249.28.0/23', 'IPv4');
+INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('52.19.124.0/23', 'IPv4');
+INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('18.132.21.0/24', 'IPv4');
+INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('18.132.22.0/23', 'IPv4');
+INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('18.134.68.0/22', 'IPv4');
+INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('35.176.32.0/24', 'IPv4');
+INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('51.44.72.0/22', 'IPv4');
+INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('51.17.72.0/22', 'IPv4');
+INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('15.228.64.0/22', 'IPv4');
+INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('18.230.103.0/24', 'IPv4');
+INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('18.230.104.0/23', 'IPv4');
+INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('54.233.204.0/24', 'IPv4');
+INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('3.217.228.0/22', 'IPv4');
+INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('3.227.4.0/22', 'IPv4');
+INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('3.235.112.0/21', 'IPv4');
+INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('44.209.84.0/22', 'IPv4');
+INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('44.214.144.0/22', 'IPv4');
+INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('44.214.148.0/22', 'IPv4');
+INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('44.214.152.0/22', 'IPv4');
+INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('44.214.156.0/22', 'IPv4');
+INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('52.23.61.0/24', 'IPv4');
+INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('52.23.62.0/24', 'IPv4');
+INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('3.146.84.0/22', 'IPv4');
+INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('34.223.96.0/22', 'IPv4');
+INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('35.80.88.0/22', 'IPv4');
+INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('35.80.92.0/22', 'IPv4');
+INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('44.234.54.0/23', 'IPv4');
+INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('54.244.46.0/23', 'IPv4');

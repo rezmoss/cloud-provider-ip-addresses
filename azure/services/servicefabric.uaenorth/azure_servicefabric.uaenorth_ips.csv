@@ -1,0 +1,8 @@
+ip_address,ip_type,service,region
+20.38.152.68/30,IPv4,ServiceFabric.UAENorth,uaenorth
+40.120.74.4/30,IPv4,ServiceFabric.UAENorth,uaenorth
+40.123.204.26/32,IPv4,ServiceFabric.UAENorth,uaenorth
+65.52.250.224/29,IPv4,ServiceFabric.UAENorth,uaenorth
+2603:1040:904:402::98/125,IPv6,ServiceFabric.UAENorth,uaenorth
+2603:1040:904:802::98/125,IPv6,ServiceFabric.UAENorth,uaenorth
+2603:1040:904:c02::98/125,IPv6,ServiceFabric.UAENorth,uaenorth

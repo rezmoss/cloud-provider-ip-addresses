@@ -1,0 +1,8 @@
+[
+  {
+    "ip_address": "20.204.197.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureDevOps.CentralIndia",
+    "region": "centralindia"
+  }
+]

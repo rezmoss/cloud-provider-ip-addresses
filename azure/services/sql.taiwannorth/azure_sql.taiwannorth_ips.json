@@ -1,0 +1,44 @@
+[
+  {
+    "ip_address": "51.53.101.32/27",
+    "ip_type": "IPv4",
+    "service": "Sql.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.101.64/26",
+    "ip_type": "IPv4",
+    "service": "Sql.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.104.64/27",
+    "ip_type": "IPv4",
+    "service": "Sql.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.105.64/27",
+    "ip_type": "IPv4",
+    "service": "Sql.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.107.248/29",
+    "ip_type": "IPv4",
+    "service": "Sql.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:1::260/123",
+    "ip_type": "IPv6",
+    "service": "Sql.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:1::280/121",
+    "ip_type": "IPv6",
+    "service": "Sql.TaiwanNorth",
+    "region": "taiwannorth"
+  }
+]

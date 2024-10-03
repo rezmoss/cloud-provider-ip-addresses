@@ -1,0 +1,32 @@
+[
+  {
+    "ip_address": "20.192.80.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.WestIndia",
+    "region": "westindia"
+  },
+  {
+    "ip_address": "104.211.147.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.WestIndia",
+    "region": "westindia"
+  },
+  {
+    "ip_address": "104.211.147.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.WestIndia",
+    "region": "westindia"
+  },
+  {
+    "ip_address": "2603:1040:806:3::280/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.WestIndia",
+    "region": "westindia"
+  },
+  {
+    "ip_address": "2603:1040:806:402::200/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.WestIndia",
+    "region": "westindia"
+  }
+]

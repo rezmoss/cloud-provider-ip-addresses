@@ -1,0 +1,8 @@
+[
+  {
+    "ip_address": "13.77.51.0/24",
+    "ip_type": "IPv4",
+    "service": "Dynamics365ForMarketingEmail.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  }
+]

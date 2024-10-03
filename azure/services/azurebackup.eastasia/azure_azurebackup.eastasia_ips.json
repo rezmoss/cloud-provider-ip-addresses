@@ -1,0 +1,86 @@
+[
+  {
+    "ip_address": "13.75.36.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "13.75.37.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.195.73.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.195.74.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.205.74.96/27",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.205.75.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.205.82.96/27",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.205.83.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "104.214.165.96/27",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "104.214.165.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "2603:1040:207:1::580/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "2603:1040:207:402::200/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "2603:1040:207:800::100/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "2603:1040:207:c00::100/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.EastAsia",
+    "region": "eastasia"
+  }
+]

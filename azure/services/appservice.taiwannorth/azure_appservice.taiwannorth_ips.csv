@@ -1,0 +1,3 @@
+ip_address,ip_type,service,region
+51.53.100.0/24,IPv4,AppService.TaiwanNorth,taiwannorth
+2603:1040:1302:1::/120,IPv6,AppService.TaiwanNorth,taiwannorth

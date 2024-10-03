@@ -1,0 +1,8 @@
+ip_address,ip_type,service,region
+34.0.16.0/20,IPv4,Google Cloud,australia-southeast2
+34.1.176.0/20,IPv4,Google Cloud,australia-southeast2
+34.104.122.0/23,IPv4,Google Cloud,australia-southeast2
+34.124.58.0/23,IPv4,Google Cloud,australia-southeast2
+34.126.192.0/20,IPv4,Google Cloud,australia-southeast2
+34.129.0.0/16,IPv4,Google Cloud,australia-southeast2
+2600:1900:41c0::/44,IPv6,Google Cloud,australia-southeast2

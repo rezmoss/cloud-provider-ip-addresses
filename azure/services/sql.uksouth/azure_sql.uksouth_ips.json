@@ -1,0 +1,182 @@
+[
+  {
+    "ip_address": "20.26.23.0/25",
+    "ip_type": "IPv4",
+    "service": "Sql.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "51.104.10.0/26",
+    "ip_type": "IPv4",
+    "service": "Sql.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "51.105.64.0/27",
+    "ip_type": "IPv4",
+    "service": "Sql.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "51.105.64.32/29",
+    "ip_type": "IPv4",
+    "service": "Sql.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "51.105.65.0/27",
+    "ip_type": "IPv4",
+    "service": "Sql.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "51.105.71.192/26",
+    "ip_type": "IPv4",
+    "service": "Sql.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "51.105.72.0/27",
+    "ip_type": "IPv4",
+    "service": "Sql.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "51.105.72.32/29",
+    "ip_type": "IPv4",
+    "service": "Sql.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "51.105.73.0/27",
+    "ip_type": "IPv4",
+    "service": "Sql.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "51.132.193.64/27",
+    "ip_type": "IPv4",
+    "service": "Sql.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "51.132.193.128/26",
+    "ip_type": "IPv4",
+    "service": "Sql.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "51.140.77.9/32",
+    "ip_type": "IPv4",
+    "service": "Sql.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "51.140.115.150/32",
+    "ip_type": "IPv4",
+    "service": "Sql.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "51.140.144.0/27",
+    "ip_type": "IPv4",
+    "service": "Sql.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "51.140.144.32/29",
+    "ip_type": "IPv4",
+    "service": "Sql.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "51.140.145.0/27",
+    "ip_type": "IPv4",
+    "service": "Sql.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "51.140.151.128/27",
+    "ip_type": "IPv4",
+    "service": "Sql.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "51.140.184.11/32",
+    "ip_type": "IPv4",
+    "service": "Sql.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "51.143.209.224/27",
+    "ip_type": "IPv4",
+    "service": "Sql.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "51.143.212.0/27",
+    "ip_type": "IPv4",
+    "service": "Sql.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "51.143.212.64/26",
+    "ip_type": "IPv4",
+    "service": "Sql.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "2603:1020:705::320/123",
+    "ip_type": "IPv6",
+    "service": "Sql.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "2603:1020:705::380/121",
+    "ip_type": "IPv6",
+    "service": "Sql.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "2603:1020:705:3::180/121",
+    "ip_type": "IPv6",
+    "service": "Sql.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "2603:1020:705:400::/123",
+    "ip_type": "IPv6",
+    "service": "Sql.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "2603:1020:705:401::/123",
+    "ip_type": "IPv6",
+    "service": "Sql.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "2603:1020:705:800::/123",
+    "ip_type": "IPv6",
+    "service": "Sql.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "2603:1020:705:801::/123",
+    "ip_type": "IPv6",
+    "service": "Sql.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "2603:1020:705:c00::/123",
+    "ip_type": "IPv6",
+    "service": "Sql.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "2603:1020:705:c01::/123",
+    "ip_type": "IPv6",
+    "service": "Sql.UKSouth",
+    "region": "uksouth"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "ip_address": "20.37.193.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureCognitiveSearch.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "20.40.123.36/32",
+    "ip_type": "IPv4",
+    "service": "AzureCognitiveSearch.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "20.40.123.39/32",
+    "ip_type": "IPv4",
+    "service": "AzureCognitiveSearch.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "20.40.123.46/32",
+    "ip_type": "IPv4",
+    "service": "AzureCognitiveSearch.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "20.40.123.72/32",
+    "ip_type": "IPv4",
+    "service": "AzureCognitiveSearch.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "2603:1010:6:1::180/121",
+    "ip_type": "IPv6",
+    "service": "AzureCognitiveSearch.AustraliaEast",
+    "region": "australiaeast"
+  }
+]

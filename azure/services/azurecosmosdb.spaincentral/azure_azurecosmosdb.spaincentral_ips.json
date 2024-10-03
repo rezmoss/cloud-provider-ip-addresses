@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "68.221.42.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.82.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403::1e0/123",
+    "ip_type": "IPv6",
+    "service": "AzureCosmosDB.SpainCentral",
+    "region": "spaincentral"
+  }
+]

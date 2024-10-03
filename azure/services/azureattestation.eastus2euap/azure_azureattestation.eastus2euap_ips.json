@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "20.51.20.80/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "40.89.121.168/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.EastUS2EUAP",
+    "region": "eastus2euap"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "ip_address": "13.69.82.138/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "13.81.103.164/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "40.64.144.32/27",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "40.68.18.120/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "40.114.241.90/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "51.136.28.200/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "51.137.89.79/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "52.174.65.5/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "65.52.158.177/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "104.40.156.194/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "168.63.31.54/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "2603:1061:2010:19::/117",
+    "ip_type": "IPv6",
+    "service": "WindowsVirtualDesktop.WestEurope",
+    "region": "westeurope"
+  }
+]

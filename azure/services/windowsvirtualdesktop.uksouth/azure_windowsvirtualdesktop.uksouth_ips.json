@@ -1,0 +1,98 @@
+[
+  {
+    "ip_address": "20.49.204.196/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "20.90.254.101/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "20.90.255.42/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "20.117.72.15/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "20.117.72.80/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "20.117.72.235/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "40.64.144.200/29",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "40.64.145.16/28",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "40.120.39.124/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "51.11.13.248/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "51.132.29.107/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "51.140.57.159/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "51.140.143.155/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "51.143.164.192/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "51.145.87.232/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "2603:1061:2010:16::/117",
+    "ip_type": "IPv6",
+    "service": "WindowsVirtualDesktop.UKSouth",
+    "region": "uksouth"
+  }
+]

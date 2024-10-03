@@ -1,0 +1,8 @@
+[
+  {
+    "ip_address": "40.69.111.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.CanadaEast",
+    "region": "canadaeast"
+  }
+]

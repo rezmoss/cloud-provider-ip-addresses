@@ -1,0 +1,32 @@
+[
+  {
+    "ip_address": "34.1.208.0/20",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "africa-south1"
+  },
+  {
+    "ip_address": "34.35.0.0/16",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "africa-south1"
+  },
+  {
+    "ip_address": "34.152.86.0/23",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "africa-south1"
+  },
+  {
+    "ip_address": "34.177.50.0/23",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "africa-south1"
+  },
+  {
+    "ip_address": "2600:1900:8000::/44",
+    "ip_type": "IPv6",
+    "service": "Google Cloud",
+    "region": "africa-south1"
+  }
+]

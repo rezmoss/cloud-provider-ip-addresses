@@ -1,0 +1,74 @@
+[
+  {
+    "ip_address": "20.97.34.224/28",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "23.102.188.65/32",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "70.37.57.58/32",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "70.37.89.222/32",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "104.44.129.141/32",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "104.44.129.243/32",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "104.44.129.255/32",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "104.44.134.255/32",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "2603:1030:807:3::220/123",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "2603:1030:807:402::100/122",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "2603:1030:807:802::100/122",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "2603:1030:807:c02::100/122",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.SouthCentralUS",
+    "region": "southcentralus"
+  }
+]

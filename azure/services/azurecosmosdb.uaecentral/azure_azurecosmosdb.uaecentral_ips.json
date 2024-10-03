@@ -1,0 +1,68 @@
+[
+  {
+    "ip_address": "20.37.68.160/27",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.UAECentral",
+    "region": "uaecentral"
+  },
+  {
+    "ip_address": "20.37.75.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.UAECentral",
+    "region": "uaecentral"
+  },
+  {
+    "ip_address": "20.37.84.77/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.UAECentral",
+    "region": "uaecentral"
+  },
+  {
+    "ip_address": "20.37.84.143/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.UAECentral",
+    "region": "uaecentral"
+  },
+  {
+    "ip_address": "20.37.84.166/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.UAECentral",
+    "region": "uaecentral"
+  },
+  {
+    "ip_address": "20.203.91.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.UAECentral",
+    "region": "uaecentral"
+  },
+  {
+    "ip_address": "20.203.91.84/30",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.UAECentral",
+    "region": "uaecentral"
+  },
+  {
+    "ip_address": "20.203.92.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.UAECentral",
+    "region": "uaecentral"
+  },
+  {
+    "ip_address": "20.203.92.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.UAECentral",
+    "region": "uaecentral"
+  },
+  {
+    "ip_address": "2603:1040:b04:2::600/123",
+    "ip_type": "IPv6",
+    "service": "AzureCosmosDB.UAECentral",
+    "region": "uaecentral"
+  },
+  {
+    "ip_address": "2603:1040:b04:402::c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureCosmosDB.UAECentral",
+    "region": "uaecentral"
+  }
+]

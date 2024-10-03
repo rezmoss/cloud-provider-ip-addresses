@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "51.12.46.224/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "2603:1020:1004:1::720/123",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.SwedenCentral",
+    "region": "swedencentral"
+  }
+]

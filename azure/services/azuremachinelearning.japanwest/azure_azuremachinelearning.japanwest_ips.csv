@@ -1,0 +1,6 @@
+ip_address,ip_type,service,region
+20.189.229.176/28,IPv4,AzureMachineLearning.JapanWest,japanwest
+20.210.146.32/27,IPv4,AzureMachineLearning.JapanWest,japanwest
+40.74.100.176/28,IPv4,AzureMachineLearning.JapanWest,japanwest
+40.80.57.176/28,IPv4,AzureMachineLearning.JapanWest,japanwest
+2603:1040:606::300/122,IPv6,AzureMachineLearning.JapanWest,japanwest

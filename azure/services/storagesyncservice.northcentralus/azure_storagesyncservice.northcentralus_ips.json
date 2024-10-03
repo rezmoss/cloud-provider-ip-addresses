@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "40.80.188.24/29",
+    "ip_type": "IPv4",
+    "service": "StorageSyncService.NorthCentralUS",
+    "region": "northcentralus"
+  },
+  {
+    "ip_address": "65.52.62.167/32",
+    "ip_type": "IPv4",
+    "service": "StorageSyncService.NorthCentralUS",
+    "region": "northcentralus"
+  },
+  {
+    "ip_address": "2603:1030:608::340/123",
+    "ip_type": "IPv6",
+    "service": "StorageSyncService.NorthCentralUS",
+    "region": "northcentralus"
+  },
+  {
+    "ip_address": "2603:1030:608:402::5e0/123",
+    "ip_type": "IPv6",
+    "service": "StorageSyncService.NorthCentralUS",
+    "region": "northcentralus"
+  }
+]

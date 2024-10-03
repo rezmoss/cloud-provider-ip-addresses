@@ -1,0 +1,6 @@
+ip_address,ip_type,service,region
+40.69.106.128/26,IPv4,AppServiceManagement.CanadaEast,canadaeast
+40.86.229.100/32,IPv4,AppServiceManagement.CanadaEast,canadaeast
+52.242.40.112/28,IPv4,AppServiceManagement.CanadaEast,canadaeast
+2603:1030:1005:1::4a0/123,IPv6,AppServiceManagement.CanadaEast,canadaeast
+2603:1030:1005:402::100/122,IPv6,AppServiceManagement.CanadaEast,canadaeast

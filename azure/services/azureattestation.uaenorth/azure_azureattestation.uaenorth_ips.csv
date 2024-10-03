@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+20.38.143.40/30,IPv4,AzureAttestation.UAENorth,uaenorth
+40.120.75.60/30,IPv4,AzureAttestation.UAENorth,uaenorth
+2603:1040:904:2::6b0/124,IPv6,AzureAttestation.UAENorth,uaenorth

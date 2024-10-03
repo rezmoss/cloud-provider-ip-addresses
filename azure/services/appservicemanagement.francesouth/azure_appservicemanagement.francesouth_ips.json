@@ -1,0 +1,38 @@
+[
+  {
+    "ip_address": "40.79.178.128/26",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "52.136.136.72/32",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "52.136.191.16/28",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "2603:1020:905:1::480/123",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "2603:1020:905:5::580/122",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "2603:1020:905:402::100/122",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.FranceSouth",
+    "region": "southfrance"
+  }
+]

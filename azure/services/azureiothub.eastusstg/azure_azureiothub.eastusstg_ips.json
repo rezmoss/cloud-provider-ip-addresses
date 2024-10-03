@@ -1,0 +1,44 @@
+[
+  {
+    "ip_address": "20.49.83.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.EastUSSTG",
+    "region": "usstagee"
+  },
+  {
+    "ip_address": "40.67.51.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.EastUSSTG",
+    "region": "usstagee"
+  },
+  {
+    "ip_address": "40.67.51.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.EastUSSTG",
+    "region": "usstagee"
+  },
+  {
+    "ip_address": "40.67.60.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.EastUSSTG",
+    "region": "usstagee"
+  },
+  {
+    "ip_address": "2603:1030:104:402::300/123",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.EastUSSTG",
+    "region": "usstagee"
+  },
+  {
+    "ip_address": "2603:1030:104:402::740/123",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.EastUSSTG",
+    "region": "usstagee"
+  },
+  {
+    "ip_address": "2603:1030:104:802::1e0/123",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.EastUSSTG",
+    "region": "usstagee"
+  }
+]

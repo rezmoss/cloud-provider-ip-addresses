@@ -1,0 +1,38 @@
+[
+  {
+    "ip_address": "104.41.46.178/32",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "191.238.77.240/28",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "2603:1050:6:2::500/123",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "2603:1050:6:402::100/122",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "2603:1050:6:802::100/122",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "2603:1050:6:c02::100/122",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.BrazilSouth",
+    "region": "brazilsouth"
+  }
+]

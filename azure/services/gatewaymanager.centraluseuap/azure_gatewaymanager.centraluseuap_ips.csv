@@ -1,0 +1,10 @@
+ip_address,ip_type,service,region
+20.45.192.72/29,IPv4,GatewayManager.CentralUSEUAP,centraluseuap
+20.46.13.128/26,IPv4,GatewayManager.CentralUSEUAP,centraluseuap
+40.78.202.112/29,IPv4,GatewayManager.CentralUSEUAP,centraluseuap
+52.180.182.210/32,IPv4,GatewayManager.CentralUSEUAP,centraluseuap
+52.253.157.2/32,IPv4,GatewayManager.CentralUSEUAP,centraluseuap
+52.253.159.209/32,IPv4,GatewayManager.CentralUSEUAP,centraluseuap
+52.253.232.235/32,IPv4,GatewayManager.CentralUSEUAP,centraluseuap
+52.253.239.162/32,IPv4,GatewayManager.CentralUSEUAP,centraluseuap
+2603:1030:f:1::40/122,IPv6,GatewayManager.CentralUSEUAP,centraluseuap

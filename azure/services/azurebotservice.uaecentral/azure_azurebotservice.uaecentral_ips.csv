@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+20.37.64.64/30,IPv4,AzureBotService.UAECentral,uaecentral
+20.37.76.104/30,IPv4,AzureBotService.UAECentral,uaecentral
+2603:1040:b04::20/123,IPv6,AzureBotService.UAECentral,uaecentral

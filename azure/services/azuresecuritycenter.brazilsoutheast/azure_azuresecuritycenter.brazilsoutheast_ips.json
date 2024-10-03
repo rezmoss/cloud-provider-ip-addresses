@@ -1,0 +1,8 @@
+[
+  {
+    "ip_address": "191.237.224.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.BrazilSoutheast",
+    "region": "brazilse"
+  }
+]

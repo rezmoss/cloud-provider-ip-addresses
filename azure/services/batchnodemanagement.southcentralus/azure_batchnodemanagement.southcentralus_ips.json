@@ -1,0 +1,86 @@
+[
+  {
+    "ip_address": "13.65.192.161/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "13.65.208.36/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "13.73.249.64/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "20.45.122.224/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "20.49.91.64/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "23.101.176.33/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "23.102.178.148/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "23.102.185.64/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "40.74.177.177/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "52.249.60.22/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "70.37.49.163/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "104.214.19.192/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "104.214.65.153/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "2603:1030:807:1::340/122",
+    "ip_type": "IPv6",
+    "service": "BatchNodeManagement.SouthCentralUS",
+    "region": "southcentralus"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "51.116.145.168/29",
+    "ip_type": "IPv4",
+    "service": "HDInsight.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "51.116.156.48/29",
+    "ip_type": "IPv4",
+    "service": "HDInsight.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "2603:1020:c04:402::320/124",
+    "ip_type": "IPv6",
+    "service": "HDInsight.GermanyWestCentral",
+    "region": "germanywc"
+  }
+]

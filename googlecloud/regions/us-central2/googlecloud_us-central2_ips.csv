@@ -1,0 +1,11 @@
+ip_address,ip_type,service,region
+34.22.0.0/19,IPv4,Google Cloud,us-central2
+35.186.0.0/17,IPv4,Google Cloud,us-central2
+35.186.128.0/20,IPv4,Google Cloud,us-central2
+35.206.32.0/19,IPv4,Google Cloud,us-central2
+35.220.46.0/24,IPv4,Google Cloud,us-central2
+35.242.46.0/24,IPv4,Google Cloud,us-central2
+107.167.160.0/20,IPv4,Google Cloud,us-central2
+108.59.88.0/21,IPv4,Google Cloud,us-central2
+173.255.120.0/21,IPv4,Google Cloud,us-central2
+2600:1900:4070::/44,IPv6,Google Cloud,us-central2

@@ -1,0 +1,86 @@
+[
+  {
+    "ip_address": "20.44.26.64/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "20.44.31.128/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "20.194.68.192/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "20.194.80.0/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "20.200.193.0/24",
+    "ip_type": "IPv4",
+    "service": "EventHub.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "52.231.18.16/28",
+    "ip_type": "IPv4",
+    "service": "EventHub.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "52.231.29.105/32",
+    "ip_type": "IPv4",
+    "service": "EventHub.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "52.231.32.85/32",
+    "ip_type": "IPv4",
+    "service": "EventHub.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "52.231.32.94/32",
+    "ip_type": "IPv4",
+    "service": "EventHub.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "2603:1040:f05:1::240/122",
+    "ip_type": "IPv6",
+    "service": "EventHub.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "2603:1040:f05:2::600/120",
+    "ip_type": "IPv6",
+    "service": "EventHub.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "2603:1040:f05:402::1c0/123",
+    "ip_type": "IPv6",
+    "service": "EventHub.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "2603:1040:f05:802::160/123",
+    "ip_type": "IPv6",
+    "service": "EventHub.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "2603:1040:f05:c02::160/123",
+    "ip_type": "IPv6",
+    "service": "EventHub.KoreaCentral",
+    "region": "koreacentral"
+  }
+]

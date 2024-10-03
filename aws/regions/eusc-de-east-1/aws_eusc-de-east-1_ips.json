@@ -1,0 +1,446 @@
+[
+  {
+    "ip_address": "51.0.16.0/21",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "51.0.128.0/21",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "51.0.0.0/20",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "83.118.240.0/21",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "51.224.0.0/15",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "51.0.29.128/28",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "51.226.0.0/15",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "51.0.29.0/28",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "51.0.24.0/22",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "51.0.28.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "65.176.0.0/14",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "83.118.240.0/21",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "51.0.128.0/21",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "51.224.0.0/15",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "51.0.29.128/28",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "83.118.240.0/22",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "51.0.28.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2001:3fc7:1800::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2001:3fc5:8800::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2001:3fc3:2800::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2001:3fc7:5800::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2001:3fc7:9800::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2001:3fc3:4800::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2001:3fc5:800::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2a05:d013::/36",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2001:3fc3:6800::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2001:3fc3:a800::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2001:3fc7:4800::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2001:3fc7:800::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2001:3fc7:7800::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2001:3fc1:8000::/36",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2001:3fc7:e800::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2001:3fc0:800::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2001:3fc7:6800::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2001:3fc3:1800::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2001:3fc7:f800::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2001:3fc7:a800::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2001:3fc3:8800::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2001:3fc3:5800::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2001:3fc7:2800::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2001:3fc3:800::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2001:3fc7:8800::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2a05:d023::/36",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2001:3fc2:8000::/36",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2001:3fc7:b800::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2001:3fc7:9800::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2001:3fc3:4800::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2001:3fc5:800::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2001:3fc7:800::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2001:3fc7:a800::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2001:3fc7:8800::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2001:3fc7:1800::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2001:3fc5:8800::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2001:3fc3:2800::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2001:3fc7:5800::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2001:3fc3:4800::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2a05:d013::/36",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2001:3fc3:6800::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2001:3fc3:a800::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2001:3fc7:4800::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2001:3fc7:800::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2001:3fc7:7800::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2001:3fc1:8000::/36",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2001:3fc0:800::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2001:3fc7:6800::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2001:3fc3:1800::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2001:3fc7:f800::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2001:3fc3:8800::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2001:3fc3:5800::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2001:3fc7:2800::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2001:3fc3:800::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2a05:d023::/36",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2001:3fc2:8000::/36",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2001:3fc7:b800::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eusc-de-east-1"
+  }
+]

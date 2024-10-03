@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "158.23.100.128/28",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "2603:1030:702::5c0/124",
+    "ip_type": "IPv6",
+    "service": "ApiManagement.MexicoCentral",
+    "region": "mexicocentral"
+  }
+]

@@ -1,0 +1,11 @@
+ip_address,ip_type,service,region
+13.66.140.0/26,IPv4,AppServiceManagement.WestUS2,westus2
+13.66.225.188/32,IPv4,AppServiceManagement.WestUS2,westus2
+20.83.192.128/26,IPv4,AppServiceManagement.WestUS2,westus2
+20.83.221.240/28,IPv4,AppServiceManagement.WestUS2,westus2
+40.64.113.192/26,IPv4,AppServiceManagement.WestUS2,westus2
+52.151.25.45/32,IPv4,AppServiceManagement.WestUS2,westus2
+2603:1030:c06:5::180/123,IPv6,AppServiceManagement.WestUS2,westus2
+2603:1030:c06:400::900/122,IPv6,AppServiceManagement.WestUS2,westus2
+2603:1030:c06:802::100/122,IPv6,AppServiceManagement.WestUS2,westus2
+2603:1030:c06:c02::100/122,IPv6,AppServiceManagement.WestUS2,westus2

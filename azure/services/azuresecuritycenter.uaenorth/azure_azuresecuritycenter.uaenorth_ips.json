@@ -1,0 +1,8 @@
+[
+  {
+    "ip_address": "40.120.64.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.UAENorth",
+    "region": "uaenorth"
+  }
+]

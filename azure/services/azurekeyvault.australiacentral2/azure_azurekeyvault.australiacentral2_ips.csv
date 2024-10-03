@@ -1,0 +1,8 @@
+ip_address,ip_type,service,region
+20.36.114.16/30,IPv4,AzureKeyVault.AustraliaCentral2,australiacentral2
+20.53.57.40/29,IPv4,AzureKeyVault.AustraliaCentral2,australiacentral2
+20.53.57.48/30,IPv4,AzureKeyVault.AustraliaCentral2,australiacentral2
+2603:1010:404::100/125,IPv6,AzureKeyVault.AustraliaCentral2,australiacentral2
+2603:1010:404::108/126,IPv6,AzureKeyVault.AustraliaCentral2,australiacentral2
+2603:1010:404::2a0/125,IPv6,AzureKeyVault.AustraliaCentral2,australiacentral2
+2603:1010:404:402::80/125,IPv6,AzureKeyVault.AustraliaCentral2,australiacentral2

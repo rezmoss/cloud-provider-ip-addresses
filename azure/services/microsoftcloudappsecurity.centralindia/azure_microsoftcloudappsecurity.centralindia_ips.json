@@ -1,0 +1,44 @@
+[
+  {
+    "ip_address": "4.213.28.74/31",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "4.213.28.76/30",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "4.213.28.80/28",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "4.213.28.96/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "4.213.106.240/28",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "4.213.107.0/25",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "4.213.107.128/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.CentralIndia",
+    "region": "centralindia"
+  }
+]

@@ -1,0 +1,9 @@
+ip_address,ip_type,service,region
+20.33.176.0/24,IPv4,Storage.QatarCentral,qatarcentral
+20.60.208.0/23,IPv4,Storage.QatarCentral,qatarcentral
+20.157.154.0/24,IPv4,Storage.QatarCentral,qatarcentral
+20.157.190.0/24,IPv4,Storage.QatarCentral,qatarcentral
+20.209.2.0/23,IPv4,Storage.QatarCentral,qatarcentral
+20.209.54.0/23,IPv4,Storage.QatarCentral,qatarcentral
+20.209.202.0/23,IPv4,Storage.QatarCentral,qatarcentral
+2603:1040:1004::/48,IPv6,Storage.QatarCentral,qatarcentral

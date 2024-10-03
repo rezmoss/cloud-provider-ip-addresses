@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+20.37.64.216/29,IPv4,StorageSyncService.UAECentral,uaecentral
+20.45.71.151/32,IPv4,StorageSyncService.UAECentral,uaecentral
+2603:1040:b04::340/123,IPv6,StorageSyncService.UAECentral,uaecentral
+2603:1040:b04:402::5e0/123,IPv6,StorageSyncService.UAECentral,uaecentral

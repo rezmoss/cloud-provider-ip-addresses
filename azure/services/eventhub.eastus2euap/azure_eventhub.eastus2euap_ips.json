@@ -1,0 +1,110 @@
+[
+  {
+    "ip_address": "20.47.216.64/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "20.51.22.128/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "20.51.23.0/25",
+    "ip_type": "IPv4",
+    "service": "EventHub.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "20.51.23.128/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "40.74.146.16/28",
+    "ip_type": "IPv4",
+    "service": "EventHub.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "40.74.151.0/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "40.75.34.0/28",
+    "ip_type": "IPv4",
+    "service": "EventHub.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "40.89.122.0/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "52.138.90.0/28",
+    "ip_type": "IPv4",
+    "service": "EventHub.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "52.225.184.224/32",
+    "ip_type": "IPv4",
+    "service": "EventHub.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "52.225.186.130/32",
+    "ip_type": "IPv4",
+    "service": "EventHub.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "68.220.83.0/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "2603:1030:40b:1::240/122",
+    "ip_type": "IPv6",
+    "service": "EventHub.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "2603:1030:40b:2::4c0/122",
+    "ip_type": "IPv6",
+    "service": "EventHub.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "2603:1030:40b:3::/120",
+    "ip_type": "IPv6",
+    "service": "EventHub.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "2603:1030:40b:400::9c0/123",
+    "ip_type": "IPv6",
+    "service": "EventHub.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "2603:1030:40b:800::160/123",
+    "ip_type": "IPv6",
+    "service": "EventHub.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "2603:1030:40b:c00::160/123",
+    "ip_type": "IPv6",
+    "service": "EventHub.EastUS2EUAP",
+    "region": "eastus2euap"
+  }
+]

@@ -1,0 +1,2 @@
+ip_address,ip_type,service,region
+20.39.13.0/26,IPv4,AzureDevOps.EastUS2EUAP,eastus2euap

@@ -1,0 +1,38 @@
+[
+  {
+    "ip_address": "20.215.19.160/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "20.215.27.160/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "20.215.156.96/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "2603:1020:1302:400::220/123",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "2603:1020:1302:800::e0/123",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "2603:1020:1302:c00::e0/123",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.PolandCentral",
+    "region": "polandcentral"
+  }
+]

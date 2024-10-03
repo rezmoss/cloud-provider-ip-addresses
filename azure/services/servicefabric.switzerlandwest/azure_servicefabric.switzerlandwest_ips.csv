@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+51.107.155.40/29,IPv4,ServiceFabric.SwitzerlandWest,switzerlandw
+51.107.239.250/32,IPv4,ServiceFabric.SwitzerlandWest,switzerlandw
+2603:1020:b04:402::98/125,IPv6,ServiceFabric.SwitzerlandWest,switzerlandw

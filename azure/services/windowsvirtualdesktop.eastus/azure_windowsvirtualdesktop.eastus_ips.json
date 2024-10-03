@@ -1,0 +1,68 @@
+[
+  {
+    "ip_address": "4.157.241.73/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "4.157.248.58/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "20.127.137.143/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "20.163.206.97/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "20.231.109.75/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "20.231.110.84/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "20.232.123.155/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "20.232.127.69/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "20.232.137.227/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "40.64.146.80/28",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "2603:1061:2010:9::/117",
+    "ip_type": "IPv6",
+    "service": "WindowsVirtualDesktop.EastUS",
+    "region": "eastus"
+  }
+]

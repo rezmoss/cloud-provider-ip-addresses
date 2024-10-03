@@ -1,0 +1,32 @@
+[
+  {
+    "ip_address": "40.69.116.110/31",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.89.16.120/31",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.242.44.240/29",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005::200/123",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:402::168/125",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.CanadaEast",
+    "region": "canadaeast"
+  }
+]

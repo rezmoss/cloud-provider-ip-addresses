@@ -1,0 +1,8 @@
+[
+  {
+    "ip_address": "20.150.172.32/29",
+    "ip_type": "IPv4",
+    "service": "SCCservice.WestUS3",
+    "region": "westus3"
+  }
+]

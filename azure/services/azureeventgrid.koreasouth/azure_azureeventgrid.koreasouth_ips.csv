@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+40.80.170.0/25,IPv4,AzureEventGrid.KoreaSouth,koreasouth
+40.80.236.192/27,IPv4,AzureEventGrid.KoreaSouth,koreasouth
+2603:1040:e05:1::700/121,IPv6,AzureEventGrid.KoreaSouth,koreasouth

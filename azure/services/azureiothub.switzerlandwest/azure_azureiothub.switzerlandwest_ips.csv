@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+51.107.147.64/27,IPv4,AzureIoTHub.SwitzerlandWest,switzerlandw
+51.107.147.128/25,IPv4,AzureIoTHub.SwitzerlandWest,switzerlandw
+51.107.156.96/27,IPv4,AzureIoTHub.SwitzerlandWest,switzerlandw
+2603:1020:b04:402::300/123,IPv6,AzureIoTHub.SwitzerlandWest,switzerlandw

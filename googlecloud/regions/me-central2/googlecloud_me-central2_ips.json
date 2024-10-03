@@ -1,0 +1,32 @@
+[
+  {
+    "ip_address": "34.1.48.0/20",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "me-central2"
+  },
+  {
+    "ip_address": "34.152.84.0/23",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "me-central2"
+  },
+  {
+    "ip_address": "34.166.0.0/16",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "me-central2"
+  },
+  {
+    "ip_address": "34.177.48.0/23",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "me-central2"
+  },
+  {
+    "ip_address": "2600:1900:5400::/44",
+    "ip_type": "IPv6",
+    "service": "Google Cloud",
+    "region": "me-central2"
+  }
+]

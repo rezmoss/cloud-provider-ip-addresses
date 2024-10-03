@@ -1,0 +1,68 @@
+[
+  {
+    "ip_address": "51.13.136.224/27",
+    "ip_type": "IPv4",
+    "service": "Sql.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.13.137.0/27",
+    "ip_type": "IPv4",
+    "service": "Sql.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.13.137.64/26",
+    "ip_type": "IPv4",
+    "service": "Sql.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.181.0/25",
+    "ip_type": "IPv4",
+    "service": "Sql.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.216.0/27",
+    "ip_type": "IPv4",
+    "service": "Sql.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.217.0/27",
+    "ip_type": "IPv4",
+    "service": "Sql.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.217.32/29",
+    "ip_type": "IPv4",
+    "service": "Sql.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04::280/123",
+    "ip_type": "IPv6",
+    "service": "Sql.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04:1::200/121",
+    "ip_type": "IPv6",
+    "service": "Sql.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04:3::600/121",
+    "ip_type": "IPv6",
+    "service": "Sql.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04:400::/123",
+    "ip_type": "IPv6",
+    "service": "Sql.NorwayWest",
+    "region": "norwayw"
+  }
+]

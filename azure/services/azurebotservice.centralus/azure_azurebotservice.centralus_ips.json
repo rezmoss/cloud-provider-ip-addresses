@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "13.89.171.116/30",
+    "ip_type": "IPv4",
+    "service": "AzureBotService.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "20.37.152.64/30",
+    "ip_type": "IPv4",
+    "service": "AzureBotService.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "2603:1030:10:1::20/123",
+    "ip_type": "IPv6",
+    "service": "AzureBotService.CentralUS",
+    "region": "centralus"
+  }
+]

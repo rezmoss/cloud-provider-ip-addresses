@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "20.164.158.200/30",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "2603:1000:104:3::1ec/126",
+    "ip_type": "IPv6",
+    "service": "ActionGroup.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "2603:1000:104:402::178/125",
+    "ip_type": "IPv6",
+    "service": "ActionGroup.SouthAfricaNorth",
+    "region": "southafricanorth"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "ip_address": "20.17.51.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.MalaysiaSouth",
+    "region": "malaysiasouth"
+  },
+  {
+    "ip_address": "20.17.58.48/29",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.MalaysiaSouth",
+    "region": "malaysiasouth"
+  },
+  {
+    "ip_address": "20.17.66.124/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.MalaysiaSouth",
+    "region": "malaysiasouth"
+  },
+  {
+    "ip_address": "20.17.194.176/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.MalaysiaSouth",
+    "region": "malaysiasouth"
+  },
+  {
+    "ip_address": "2603:1040:1503::520/123",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.MalaysiaSouth",
+    "region": "malaysiasouth"
+  },
+  {
+    "ip_address": "2603:1040:1503:1::1c8/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.MalaysiaSouth",
+    "region": "malaysiasouth"
+  },
+  {
+    "ip_address": "2603:1040:1503:2::6a8/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.MalaysiaSouth",
+    "region": "malaysiasouth"
+  },
+  {
+    "ip_address": "2603:1040:1503:2::6b0/126",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.MalaysiaSouth",
+    "region": "malaysiasouth"
+  }
+]

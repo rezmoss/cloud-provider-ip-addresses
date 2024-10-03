@@ -1,0 +1,62 @@
+[
+  {
+    "ip_address": "20.21.8.3/32",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
+    "ip_address": "20.21.37.128/25",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
+    "ip_address": "20.21.42.80/29",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
+    "ip_address": "20.21.42.96/28",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
+    "ip_address": "20.21.56.175/32",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
+    "ip_address": "20.21.66.80/29",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
+    "ip_address": "20.21.66.96/28",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
+    "ip_address": "20.21.74.80/29",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
+    "ip_address": "20.21.74.96/28",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
+    "ip_address": "2603:1040:1002:1::300/121",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.QatarCentral",
+    "region": "qatarcentral"
+  }
+]

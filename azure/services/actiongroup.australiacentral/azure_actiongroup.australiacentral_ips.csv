@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+20.53.1.68/30,IPv4,ActionGroup.AustraliaCentral,australiacentral
+20.213.228.120/30,IPv4,ActionGroup.AustraliaCentral,australiacentral
+2603:1010:304::10c/126,IPv6,ActionGroup.AustraliaCentral,australiacentral
+2603:1010:304:402::178/125,IPv6,ActionGroup.AustraliaCentral,australiacentral

@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+34.37.0.0/16,IPv4,Google Cloud,us-west8
+34.128.46.0/23,IPv4,Google Cloud,us-west8
+34.128.62.0/23,IPv4,Google Cloud,us-west8
+2600:1900:4280::/44,IPv6,Google Cloud,us-west8

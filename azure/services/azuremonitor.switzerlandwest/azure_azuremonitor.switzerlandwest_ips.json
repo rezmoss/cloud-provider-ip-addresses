@@ -1,0 +1,116 @@
+[
+  {
+    "ip_address": "20.199.203.80/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "51.107.147.16/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "51.107.147.116/30",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "51.107.148.0/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "51.107.148.16/31",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "51.107.155.176/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "51.107.156.48/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "51.107.192.160/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "51.107.194.136/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "51.107.250.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "74.242.4.14/31",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "74.242.36.96/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "74.242.36.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "2603:1020:b04::780/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "2603:1020:b04:1::280/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "2603:1020:b04:1::300/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "2603:1020:b04:2::500/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "2603:1020:b04:6::60/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "2603:1020:b04:402::500/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SwitzerlandWest",
+    "region": "switzerlandw"
+  }
+]

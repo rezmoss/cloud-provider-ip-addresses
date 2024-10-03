@@ -1,0 +1,68 @@
+[
+  {
+    "ip_address": "4.207.249.176/28",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "4.207.251.64/29",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "13.69.239.110/31",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "20.38.80.70/31",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "20.50.74.150/31",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "20.50.83.88/31",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "20.223.64.128/29",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "2603:1020:5:1::200/123",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "2603:1020:5:402::160/125",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "2603:1020:5:802::140/125",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "2603:1020:5:c00::20/125",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.NorthEurope",
+    "region": "northeurope"
+  }
+]

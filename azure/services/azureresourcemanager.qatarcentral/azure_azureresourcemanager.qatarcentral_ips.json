@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "20.21.44.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
+    "ip_address": "20.21.50.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
+    "ip_address": "2603:1040:1002:1::600/120",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
+    "ip_address": "2603:1040:1002:400::1c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.QatarCentral",
+    "region": "qatarcentral"
+  }
+]

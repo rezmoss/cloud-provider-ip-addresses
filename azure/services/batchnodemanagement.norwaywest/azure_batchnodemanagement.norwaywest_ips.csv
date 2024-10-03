@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+51.120.220.0/27,IPv4,BatchNodeManagement.NorwayWest,norwayw
+51.120.225.160/27,IPv4,BatchNodeManagement.NorwayWest,norwayw
+2603:1020:f04::400/122,IPv6,BatchNodeManagement.NorwayWest,norwayw

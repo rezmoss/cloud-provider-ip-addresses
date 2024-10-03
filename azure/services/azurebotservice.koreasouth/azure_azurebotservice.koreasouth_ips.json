@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "40.80.168.64/30",
+    "ip_type": "IPv4",
+    "service": "AzureBotService.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.148.88/30",
+    "ip_type": "IPv4",
+    "service": "AzureBotService.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:1::540/123",
+    "ip_type": "IPv6",
+    "service": "AzureBotService.KoreaSouth",
+    "region": "koreasouth"
+  }
+]

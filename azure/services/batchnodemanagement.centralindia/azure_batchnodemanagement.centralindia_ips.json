@@ -1,0 +1,44 @@
+[
+  {
+    "ip_address": "20.192.99.96/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "40.80.50.224/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "52.140.106.128/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "104.211.82.96/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "104.211.96.142/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "104.211.96.144/31",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "2603:1040:a06:1::340/122",
+    "ip_type": "IPv6",
+    "service": "BatchNodeManagement.CentralIndia",
+    "region": "centralindia"
+  }
+]

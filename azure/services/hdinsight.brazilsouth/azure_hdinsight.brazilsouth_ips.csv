@@ -1,0 +1,6 @@
+ip_address,ip_type,service,region
+191.233.204.240/29,IPv4,HDInsight.BrazilSouth,brazilsouth
+191.234.138.128/29,IPv4,HDInsight.BrazilSouth,brazilsouth
+191.235.84.104/32,IPv4,HDInsight.BrazilSouth,brazilsouth
+191.235.87.113/32,IPv4,HDInsight.BrazilSouth,brazilsouth
+2603:1050:6:402::320/124,IPv6,HDInsight.BrazilSouth,brazilsouth

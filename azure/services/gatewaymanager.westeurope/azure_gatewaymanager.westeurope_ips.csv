@@ -1,0 +1,7 @@
+ip_address,ip_type,service,region
+13.69.64.224/29,IPv4,GatewayManager.WestEurope,westeurope
+20.71.77.117/32,IPv4,GatewayManager.WestEurope,westeurope
+20.71.77.160/32,IPv4,GatewayManager.WestEurope,westeurope
+20.105.210.128/27,IPv4,GatewayManager.WestEurope,westeurope
+40.74.24.72/29,IPv4,GatewayManager.WestEurope,westeurope
+2603:1020:206:1::40/122,IPv6,GatewayManager.WestEurope,westeurope

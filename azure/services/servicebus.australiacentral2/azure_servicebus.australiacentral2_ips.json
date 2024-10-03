@@ -1,0 +1,38 @@
+[
+  {
+    "ip_address": "20.36.73.65/32",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.AustraliaCentral2",
+    "region": "australiacentral2"
+  },
+  {
+    "ip_address": "20.36.114.128/27",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.AustraliaCentral2",
+    "region": "australiacentral2"
+  },
+  {
+    "ip_address": "20.53.58.128/25",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.AustraliaCentral2",
+    "region": "australiacentral2"
+  },
+  {
+    "ip_address": "2603:1010:404::220/123",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.AustraliaCentral2",
+    "region": "australiacentral2"
+  },
+  {
+    "ip_address": "2603:1010:404:1::500/120",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.AustraliaCentral2",
+    "region": "australiacentral2"
+  },
+  {
+    "ip_address": "2603:1010:404:402::170/125",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.AustraliaCentral2",
+    "region": "australiacentral2"
+  }
+]

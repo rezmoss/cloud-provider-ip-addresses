@@ -1,0 +1,7 @@
+ip_address,ip_type,service,region
+172.204.182.152/29,IPv4,MicrosoftContainerRegistry.NewZealandNorth,newzealandnorth
+172.204.192.0/29,IPv4,MicrosoftContainerRegistry.NewZealandNorth,newzealandnorth
+172.204.208.0/29,IPv4,MicrosoftContainerRegistry.NewZealandNorth,newzealandnorth
+2603:1010:502:400::40/125,IPv6,MicrosoftContainerRegistry.NewZealandNorth,newzealandnorth
+2603:1010:502:800::/125,IPv6,MicrosoftContainerRegistry.NewZealandNorth,newzealandnorth
+2603:1010:502:c00::/125,IPv6,MicrosoftContainerRegistry.NewZealandNorth,newzealandnorth

@@ -1,0 +1,56 @@
+[
+  {
+    "ip_address": "13.88.73.16/28",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.WestUS",
+    "region": "westus"
+  },
+  {
+    "ip_address": "13.88.73.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.WestUS",
+    "region": "westus"
+  },
+  {
+    "ip_address": "13.88.135.208/28",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.WestUS",
+    "region": "westus"
+  },
+  {
+    "ip_address": "13.91.193.0/28",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.WestUS",
+    "region": "westus"
+  },
+  {
+    "ip_address": "40.82.254.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.WestUS",
+    "region": "westus"
+  },
+  {
+    "ip_address": "52.159.210.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.WestUS",
+    "region": "westus"
+  },
+  {
+    "ip_address": "52.160.136.16/28",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.WestUS",
+    "region": "westus"
+  },
+  {
+    "ip_address": "52.160.136.32/28",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.WestUS",
+    "region": "westus"
+  },
+  {
+    "ip_address": "2603:1030:a07::380/121",
+    "ip_type": "IPv6",
+    "service": "AzureEventGrid.WestUS",
+    "region": "westus"
+  }
+]

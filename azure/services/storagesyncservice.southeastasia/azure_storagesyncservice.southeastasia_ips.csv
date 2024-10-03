@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+13.76.81.46/32,IPv4,StorageSyncService.SoutheastAsia,southeastasia
+20.43.131.40/29,IPv4,StorageSyncService.SoutheastAsia,southeastasia
+2603:1040:5:1::300/123,IPv6,StorageSyncService.SoutheastAsia,southeastasia

@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+40.81.253.154/32,IPv4,AzureCognitiveSearch.CentralIndia,centralindia
+52.140.105.64/26,IPv4,AzureCognitiveSearch.CentralIndia,centralindia
+2603:1040:a06:1::180/121,IPv6,AzureCognitiveSearch.CentralIndia,centralindia

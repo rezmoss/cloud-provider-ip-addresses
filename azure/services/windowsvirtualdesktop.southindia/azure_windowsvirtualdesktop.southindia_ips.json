@@ -1,0 +1,110 @@
+[
+  {
+    "ip_address": "13.71.70.215/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "13.71.71.122/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "13.71.81.161/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "13.71.89.108/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "13.71.94.182/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "13.71.95.31/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "13.71.113.6/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "40.64.144.208/29",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "40.64.145.32/28",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "52.172.8.227/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "52.172.32.35/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "52.172.34.178/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "52.172.40.215/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "104.211.202.78/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "104.211.211.213/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "104.211.222.50/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "104.211.242.104/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "2603:1061:2010:15::/117",
+    "ip_type": "IPv6",
+    "service": "WindowsVirtualDesktop.SouthIndia",
+    "region": "southindia"
+  }
+]

@@ -1,0 +1,8 @@
+ip_address,ip_type,service,region
+20.17.48.20/31,IPv4,PowerQueryOnline.MalaysiaSouth,malaysiasouth
+20.17.63.8/29,IPv4,PowerQueryOnline.MalaysiaSouth,malaysiasouth
+20.17.71.138/31,IPv4,PowerQueryOnline.MalaysiaSouth,malaysiasouth
+20.17.192.72/29,IPv4,PowerQueryOnline.MalaysiaSouth,malaysiasouth
+20.17.192.224/28,IPv4,PowerQueryOnline.MalaysiaSouth,malaysiasouth
+2603:1040:1503::1c0/123,IPv6,PowerQueryOnline.MalaysiaSouth,malaysiasouth
+2603:1040:1503:400::198/125,IPv6,PowerQueryOnline.MalaysiaSouth,malaysiasouth

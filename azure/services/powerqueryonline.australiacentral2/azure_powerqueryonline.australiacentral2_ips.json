@@ -1,0 +1,44 @@
+[
+  {
+    "ip_address": "4.198.41.104/29",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.AustraliaCentral2",
+    "region": "australiacentral2"
+  },
+  {
+    "ip_address": "4.198.42.176/28",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.AustraliaCentral2",
+    "region": "australiacentral2"
+  },
+  {
+    "ip_address": "20.36.120.120/31",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.AustraliaCentral2",
+    "region": "australiacentral2"
+  },
+  {
+    "ip_address": "20.53.62.108/31",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.AustraliaCentral2",
+    "region": "australiacentral2"
+  },
+  {
+    "ip_address": "20.53.62.112/29",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.AustraliaCentral2",
+    "region": "australiacentral2"
+  },
+  {
+    "ip_address": "2603:1010:404::200/123",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.AustraliaCentral2",
+    "region": "australiacentral2"
+  },
+  {
+    "ip_address": "2603:1010:404:402::168/126",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.AustraliaCentral2",
+    "region": "australiacentral2"
+  }
+]

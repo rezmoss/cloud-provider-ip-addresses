@@ -1,0 +1,6 @@
+ip_address,ip_type,service,region
+20.49.82.4/30,IPv4,ServiceFabric.EastUSSTG,usstagee
+40.67.59.72/29,IPv4,ServiceFabric.EastUSSTG,usstagee
+2603:1030:104:402::98/125,IPv6,ServiceFabric.EastUSSTG,usstagee
+2603:1030:104:402::3d8/125,IPv6,ServiceFabric.EastUSSTG,usstagee
+2603:1030:104:802::60/125,IPv6,ServiceFabric.EastUSSTG,usstagee

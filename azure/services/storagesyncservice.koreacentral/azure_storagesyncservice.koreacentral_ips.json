@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "20.41.65.184/29",
+    "ip_type": "IPv4",
+    "service": "StorageSyncService.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "52.231.67.75/32",
+    "ip_type": "IPv4",
+    "service": "StorageSyncService.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "2603:1040:f05:1::300/123",
+    "ip_type": "IPv6",
+    "service": "StorageSyncService.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "2603:1040:f05:802::2a0/123",
+    "ip_type": "IPv6",
+    "service": "StorageSyncService.KoreaCentral",
+    "region": "koreacentral"
+  }
+]

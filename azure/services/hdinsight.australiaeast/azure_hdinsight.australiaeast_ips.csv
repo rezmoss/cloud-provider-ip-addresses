@@ -1,0 +1,6 @@
+ip_address,ip_type,service,region
+13.70.73.96/29,IPv4,HDInsight.AustraliaEast,australiaeast
+13.75.152.195/32,IPv4,HDInsight.AustraliaEast,australiaeast
+20.53.40.120/29,IPv4,HDInsight.AustraliaEast,australiaeast
+104.210.84.115/32,IPv4,HDInsight.AustraliaEast,australiaeast
+2603:1010:6:402::320/124,IPv6,HDInsight.AustraliaEast,australiaeast

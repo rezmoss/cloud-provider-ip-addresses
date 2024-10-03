@@ -1,0 +1,74 @@
+[
+  {
+    "ip_address": "191.233.204.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "191.233.204.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "191.234.147.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "191.234.147.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "191.234.149.160/27",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "191.234.155.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "191.234.155.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "191.234.157.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "191.238.72.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "2603:1050:6:402::200/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "2603:1050:6:802::180/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "2603:1050:6:c02::180/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.BrazilSouth",
+    "region": "brazilsouth"
+  }
+]

@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+13.71.194.116/31,IPv4,ApiManagement.WestCentralUS,westcentralus
+13.71.196.32/28,IPv4,ApiManagement.WestCentralUS,westcentralus
+52.253.135.58/32,IPv4,ApiManagement.WestCentralUS,westcentralus
+2603:1030:b04:402::140/124,IPv6,ApiManagement.WestCentralUS,westcentralus

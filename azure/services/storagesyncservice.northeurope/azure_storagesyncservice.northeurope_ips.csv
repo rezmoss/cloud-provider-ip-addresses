@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+20.38.85.152/29,IPv4,StorageSyncService.NorthEurope,northeurope
+40.113.94.67/32,IPv4,StorageSyncService.NorthEurope,northeurope
+2603:1020:5:1::300/123,IPv6,StorageSyncService.NorthEurope,northeurope

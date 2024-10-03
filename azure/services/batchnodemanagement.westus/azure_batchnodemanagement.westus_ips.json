@@ -1,0 +1,86 @@
+[
+  {
+    "ip_address": "13.86.218.192/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.WestUS",
+    "region": "westus"
+  },
+  {
+    "ip_address": "13.91.55.167/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.WestUS",
+    "region": "westus"
+  },
+  {
+    "ip_address": "13.91.88.93/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.WestUS",
+    "region": "westus"
+  },
+  {
+    "ip_address": "13.91.107.154/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.WestUS",
+    "region": "westus"
+  },
+  {
+    "ip_address": "13.93.206.144/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.WestUS",
+    "region": "westus"
+  },
+  {
+    "ip_address": "40.82.255.64/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.WestUS",
+    "region": "westus"
+  },
+  {
+    "ip_address": "40.112.254.235/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.WestUS",
+    "region": "westus"
+  },
+  {
+    "ip_address": "40.118.208.127/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.WestUS",
+    "region": "westus"
+  },
+  {
+    "ip_address": "104.40.69.159/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.WestUS",
+    "region": "westus"
+  },
+  {
+    "ip_address": "168.62.4.114/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.WestUS",
+    "region": "westus"
+  },
+  {
+    "ip_address": "191.239.18.3/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.WestUS",
+    "region": "westus"
+  },
+  {
+    "ip_address": "191.239.21.73/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.WestUS",
+    "region": "westus"
+  },
+  {
+    "ip_address": "191.239.40.217/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.WestUS",
+    "region": "westus"
+  },
+  {
+    "ip_address": "2603:1030:a07::400/122",
+    "ip_type": "IPv6",
+    "service": "BatchNodeManagement.WestUS",
+    "region": "westus"
+  }
+]

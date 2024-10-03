@@ -1,0 +1,2 @@
+ip_address,ip_type,service,region
+40.69.111.64/27,IPv4,AzureSecurityCenter.CanadaEast,canadaeast

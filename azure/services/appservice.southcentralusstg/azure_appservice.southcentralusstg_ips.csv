@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+20.44.2.32/27,IPv4,AppService.SouthCentralUSSTG,usstagec
+23.100.216.96/27,IPv4,AppService.SouthCentralUSSTG,usstagec
+23.100.216.128/25,IPv4,AppService.SouthCentralUSSTG,usstagec
+2603:1030:302::600/120,IPv6,AppService.SouthCentralUSSTG,usstagec

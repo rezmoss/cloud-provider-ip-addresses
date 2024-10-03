@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "20.206.6.188/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "108.140.1.96/29",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "108.140.1.104/31",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "191.237.224.230/32",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.BrazilSoutheast",
+    "region": "brazilse"
+  }
+]

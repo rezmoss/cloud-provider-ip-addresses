@@ -1,0 +1,98 @@
+[
+  {
+    "ip_address": "51.53.28.214/31",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.30.156/30",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.31.144/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.31.152/31",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.31.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.42.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.49.160/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.49.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.110.128/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.110.144/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1301:4::b/128",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:1::100/120",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:1::200/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:2::540/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:2::680/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:3::540/122",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.TaiwanNorth",
+    "region": "taiwannorth"
+  }
+]

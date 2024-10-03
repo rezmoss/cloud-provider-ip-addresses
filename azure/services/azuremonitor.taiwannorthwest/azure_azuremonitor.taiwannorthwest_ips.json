@@ -1,0 +1,110 @@
+[
+  {
+    "ip_address": "51.53.137.192/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.TaiwanNorthwest",
+    "region": "taiwannorthwest"
+  },
+  {
+    "ip_address": "51.53.172.214/31",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.TaiwanNorthwest",
+    "region": "taiwannorthwest"
+  },
+  {
+    "ip_address": "51.53.172.220/30",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.TaiwanNorthwest",
+    "region": "taiwannorthwest"
+  },
+  {
+    "ip_address": "51.53.178.192/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.TaiwanNorthwest",
+    "region": "taiwannorthwest"
+  },
+  {
+    "ip_address": "51.53.178.200/31",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.TaiwanNorthwest",
+    "region": "taiwannorthwest"
+  },
+  {
+    "ip_address": "51.53.178.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.TaiwanNorthwest",
+    "region": "taiwannorthwest"
+  },
+  {
+    "ip_address": "51.53.191.128/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.TaiwanNorthwest",
+    "region": "taiwannorthwest"
+  },
+  {
+    "ip_address": "51.53.191.144/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.TaiwanNorthwest",
+    "region": "taiwannorthwest"
+  },
+  {
+    "ip_address": "167.105.144.192/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.TaiwanNorthwest",
+    "region": "taiwannorthwest"
+  },
+  {
+    "ip_address": "167.105.145.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.TaiwanNorthwest",
+    "region": "taiwannorthwest"
+  },
+  {
+    "ip_address": "2603:1040:1201:2::14/128",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.TaiwanNorthwest",
+    "region": "taiwannorthwest"
+  },
+  {
+    "ip_address": "2603:1040:1202:1::6c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.TaiwanNorthwest",
+    "region": "taiwannorthwest"
+  },
+  {
+    "ip_address": "2603:1040:1202:2::100/122",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.TaiwanNorthwest",
+    "region": "taiwannorthwest"
+  },
+  {
+    "ip_address": "2603:1040:1202:2::140/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.TaiwanNorthwest",
+    "region": "taiwannorthwest"
+  },
+  {
+    "ip_address": "2603:1040:1202:2::180/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.TaiwanNorthwest",
+    "region": "taiwannorthwest"
+  },
+  {
+    "ip_address": "2603:1040:1202:2::540/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.TaiwanNorthwest",
+    "region": "taiwannorthwest"
+  },
+  {
+    "ip_address": "2603:1040:1202:2::700/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.TaiwanNorthwest",
+    "region": "taiwannorthwest"
+  },
+  {
+    "ip_address": "2603:1040:1202:3::4c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.TaiwanNorthwest",
+    "region": "taiwannorthwest"
+  }
+]

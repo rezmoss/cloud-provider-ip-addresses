@@ -1,0 +1,38 @@
+[
+  {
+    "ip_address": "68.221.98.76/30",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.146.72/30",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.154.72/30",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:400::18/125",
+    "ip_type": "IPv6",
+    "service": "ServiceFabric.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:800::10/125",
+    "ip_type": "IPv6",
+    "service": "ServiceFabric.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:c00::50/125",
+    "ip_type": "IPv6",
+    "service": "ServiceFabric.SpainCentral",
+    "region": "spaincentral"
+  }
+]

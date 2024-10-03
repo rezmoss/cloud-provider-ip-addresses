@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "108.140.5.168/30",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "191.233.50.4/30",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "2603:1050:403::10c/126",
+    "ip_type": "IPv6",
+    "service": "ActionGroup.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "2603:1050:403:400::1f8/125",
+    "ip_type": "IPv6",
+    "service": "ActionGroup.BrazilSoutheast",
+    "region": "brazilse"
+  }
+]

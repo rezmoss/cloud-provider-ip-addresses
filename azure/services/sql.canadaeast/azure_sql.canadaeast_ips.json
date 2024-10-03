@@ -1,0 +1,80 @@
+[
+  {
+    "ip_address": "20.175.4.128/25",
+    "ip_type": "IPv4",
+    "service": "Sql.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.69.104.0/27",
+    "ip_type": "IPv4",
+    "service": "Sql.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.69.105.0/27",
+    "ip_type": "IPv4",
+    "service": "Sql.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.69.105.32/29",
+    "ip_type": "IPv4",
+    "service": "Sql.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.69.116.128/25",
+    "ip_type": "IPv4",
+    "service": "Sql.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.86.226.166/32",
+    "ip_type": "IPv4",
+    "service": "Sql.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.139.106.192/26",
+    "ip_type": "IPv4",
+    "service": "Sql.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.139.107.0/26",
+    "ip_type": "IPv4",
+    "service": "Sql.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.242.30.154/32",
+    "ip_type": "IPv4",
+    "service": "Sql.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005::280/123",
+    "ip_type": "IPv6",
+    "service": "Sql.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:1::200/121",
+    "ip_type": "IPv6",
+    "service": "Sql.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:6::80/121",
+    "ip_type": "IPv6",
+    "service": "Sql.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:400::/123",
+    "ip_type": "IPv6",
+    "service": "Sql.CanadaEast",
+    "region": "canadaeast"
+  }
+]

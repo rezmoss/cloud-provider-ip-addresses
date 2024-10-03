@@ -1,0 +1,27 @@
+-- SQL script to create table `azure_azuremonitor.germanynorth_ips` and insert IP addresses
+
+CREATE TABLE IF NOT EXISTS `azure_azuremonitor.germanynorth_ips` (
+  `ip_address` VARCHAR(45) NOT NULL,
+  `ip_type` VARCHAR(10) NOT NULL,
+  PRIMARY KEY (`ip_address`)
+);
+
+INSERT INTO `azure_azuremonitor.germanynorth_ips` (`ip_address`, `ip_type`) VALUES ('4.184.2.128/26', 'IPv4');
+INSERT INTO `azure_azuremonitor.germanynorth_ips` (`ip_address`, `ip_type`) VALUES ('20.52.72.64/27', 'IPv4');
+INSERT INTO `azure_azuremonitor.germanynorth_ips` (`ip_address`, `ip_type`) VALUES ('20.52.72.96/28', 'IPv4');
+INSERT INTO `azure_azuremonitor.germanynorth_ips` (`ip_address`, `ip_type`) VALUES ('20.113.254.30/31', 'IPv4');
+INSERT INTO `azure_azuremonitor.germanynorth_ips` (`ip_address`, `ip_type`) VALUES ('20.113.254.76/31', 'IPv4');
+INSERT INTO `azure_azuremonitor.germanynorth_ips` (`ip_address`, `ip_type`) VALUES ('20.170.168.160/29', 'IPv4');
+INSERT INTO `azure_azuremonitor.germanynorth_ips` (`ip_address`, `ip_type`) VALUES ('20.170.175.192/27', 'IPv4');
+INSERT INTO `azure_azuremonitor.germanynorth_ips` (`ip_address`, `ip_type`) VALUES ('51.116.54.32/27', 'IPv4');
+INSERT INTO `azure_azuremonitor.germanynorth_ips` (`ip_address`, `ip_type`) VALUES ('51.116.59.176/28', 'IPv4');
+INSERT INTO `azure_azuremonitor.germanynorth_ips` (`ip_address`, `ip_type`) VALUES ('51.116.75.92/31', 'IPv4');
+INSERT INTO `azure_azuremonitor.germanynorth_ips` (`ip_address`, `ip_type`) VALUES ('51.116.77.254/31', 'IPv4');
+INSERT INTO `azure_azuremonitor.germanynorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:d01:2::a/128', 'IPv6');
+INSERT INTO `azure_azuremonitor.germanynorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:d04::780/121', 'IPv6');
+INSERT INTO `azure_azuremonitor.germanynorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:d04:1::280/123', 'IPv6');
+INSERT INTO `azure_azuremonitor.germanynorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:d04:1::300/121', 'IPv6');
+INSERT INTO `azure_azuremonitor.germanynorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:d04:5::400/122', 'IPv6');
+INSERT INTO `azure_azuremonitor.germanynorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:d04:5::580/121', 'IPv6');
+INSERT INTO `azure_azuremonitor.germanynorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:d04:5::7c0/123', 'IPv6');
+INSERT INTO `azure_azuremonitor.germanynorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:d04:402::500/121', 'IPv6');

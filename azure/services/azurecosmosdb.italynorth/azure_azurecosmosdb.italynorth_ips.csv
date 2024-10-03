@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+4.232.26.64/27,IPv4,AzureCosmosDB.ItalyNorth,italynorth
+4.232.42.64/26,IPv4,AzureCosmosDB.ItalyNorth,italynorth
+2603:1020:1204::1e0/123,IPv6,AzureCosmosDB.ItalyNorth,italynorth

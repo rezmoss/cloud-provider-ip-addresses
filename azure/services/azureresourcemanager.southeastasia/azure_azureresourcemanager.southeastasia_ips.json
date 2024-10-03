@@ -1,0 +1,50 @@
+[
+  {
+    "ip_address": "13.67.18.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "20.135.84.112/32",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "20.135.86.130/32",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "20.135.88.129/32",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "23.98.110.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "40.78.234.176/28",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "2603:1040:5::280/122",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "2603:1040:5:402::280/122",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.SoutheastAsia",
+    "region": "southeastasia"
+  }
+]

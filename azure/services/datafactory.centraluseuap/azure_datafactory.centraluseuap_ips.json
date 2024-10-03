@@ -1,0 +1,62 @@
+[
+  {
+    "ip_address": "20.45.208.16/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.228.5.112/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.228.7.0/25",
+    "ip_type": "IPv4",
+    "service": "DataFactory.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.228.7.128/26",
+    "ip_type": "IPv4",
+    "service": "DataFactory.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "40.122.0.16/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "52.176.232.16/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "172.215.36.224/27",
+    "ip_type": "IPv4",
+    "service": "DataFactory.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:1::440/122",
+    "ip_type": "IPv6",
+    "service": "DataFactory.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:1::500/121",
+    "ip_type": "IPv6",
+    "service": "DataFactory.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:400::b30/124",
+    "ip_type": "IPv6",
+    "service": "DataFactory.CentralUSEUAP",
+    "region": "centraluseuap"
+  }
+]

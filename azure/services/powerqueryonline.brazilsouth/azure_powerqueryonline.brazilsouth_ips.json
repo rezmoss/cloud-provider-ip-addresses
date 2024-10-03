@@ -1,0 +1,68 @@
+[
+  {
+    "ip_address": "4.203.121.0/28",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "4.203.121.16/29",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "20.195.138.50/31",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "20.195.154.0/31",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "20.206.178.168/29",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "191.234.150.110/31",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "191.235.224.70/31",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "2603:1050:6:1::200/123",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "2603:1050:6:402::160/125",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "2603:1050:6:802::140/125",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "2603:1050:6:c00::c0/125",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.BrazilSouth",
+    "region": "brazilsouth"
+  }
+]

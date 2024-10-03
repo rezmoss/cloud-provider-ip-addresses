@@ -1,0 +1,80 @@
+[
+  {
+    "ip_address": "20.49.82.16/29",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.EastUSSTG",
+    "region": "usstagee"
+  },
+  {
+    "ip_address": "20.49.84.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.EastUSSTG",
+    "region": "usstagee"
+  },
+  {
+    "ip_address": "20.49.86.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.EastUSSTG",
+    "region": "usstagee"
+  },
+  {
+    "ip_address": "20.99.8.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.EastUSSTG",
+    "region": "usstagee"
+  },
+  {
+    "ip_address": "40.67.58.24/29",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.EastUSSTG",
+    "region": "usstagee"
+  },
+  {
+    "ip_address": "2603:1030:104::348/125",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.EastUSSTG",
+    "region": "usstagee"
+  },
+  {
+    "ip_address": "2603:1030:104:402::90/125",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.EastUSSTG",
+    "region": "usstagee"
+  },
+  {
+    "ip_address": "2603:1030:104:402::168/125",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.EastUSSTG",
+    "region": "usstagee"
+  },
+  {
+    "ip_address": "2603:1030:104:402::340/122",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.EastUSSTG",
+    "region": "usstagee"
+  },
+  {
+    "ip_address": "2603:1030:104:402::580/122",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.EastUSSTG",
+    "region": "usstagee"
+  },
+  {
+    "ip_address": "2603:1030:104:402::780/121",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.EastUSSTG",
+    "region": "usstagee"
+  },
+  {
+    "ip_address": "2603:1030:104:802::58/125",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.EastUSSTG",
+    "region": "usstagee"
+  },
+  {
+    "ip_address": "2603:1030:104:802::200/121",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.EastUSSTG",
+    "region": "usstagee"
+  }
+]

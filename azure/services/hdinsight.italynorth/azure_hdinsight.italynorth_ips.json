@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "4.232.30.208/29",
+    "ip_type": "IPv4",
+    "service": "HDInsight.ItalyNorth",
+    "region": "italynorth"
+  },
+  {
+    "ip_address": "2603:1020:1204:1::290/124",
+    "ip_type": "IPv6",
+    "service": "HDInsight.ItalyNorth",
+    "region": "italynorth"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "ip_address": "4.187.93.128/26",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.WestIndia",
+    "region": "westindia"
+  },
+  {
+    "ip_address": "20.192.82.128/25",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.WestIndia",
+    "region": "westindia"
+  },
+  {
+    "ip_address": "104.211.146.16/28",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.WestIndia",
+    "region": "westindia"
+  },
+  {
+    "ip_address": "104.211.157.172/32",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.WestIndia",
+    "region": "westindia"
+  },
+  {
+    "ip_address": "104.211.190.88/32",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.WestIndia",
+    "region": "westindia"
+  },
+  {
+    "ip_address": "2603:1040:806::220/123",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.WestIndia",
+    "region": "westindia"
+  },
+  {
+    "ip_address": "2603:1040:806:1::500/120",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.WestIndia",
+    "region": "westindia"
+  },
+  {
+    "ip_address": "2603:1040:806:402::170/125",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.WestIndia",
+    "region": "westindia"
+  }
+]

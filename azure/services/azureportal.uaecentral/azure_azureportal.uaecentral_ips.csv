@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+20.37.65.128/27,IPv4,AzurePortal.UAECentral,uaecentral
+20.37.66.56/30,IPv4,AzurePortal.UAECentral,uaecentral
+20.37.70.96/29,IPv4,AzurePortal.UAECentral,uaecentral
+2603:1040:b04::700/121,IPv6,AzurePortal.UAECentral,uaecentral

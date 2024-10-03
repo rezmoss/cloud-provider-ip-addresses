@@ -1,0 +1,38 @@
+[
+  {
+    "ip_address": "40.64.147.0/28",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "52.141.37.201/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "52.231.38.211/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "52.231.93.224/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "52.231.98.58/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "2603:1061:2010:f::/117",
+    "ip_type": "IPv6",
+    "service": "WindowsVirtualDesktop.KoreaCentral",
+    "region": "koreacentral"
+  }
+]

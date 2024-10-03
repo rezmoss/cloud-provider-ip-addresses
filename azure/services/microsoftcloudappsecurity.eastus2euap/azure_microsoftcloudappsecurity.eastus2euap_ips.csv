@@ -1,0 +1,3 @@
+ip_address,ip_type,service,region
+172.173.47.82/31,IPv4,MicrosoftCloudAppSecurity.EastUS2EUAP,eastus2euap
+172.173.47.88/29,IPv4,MicrosoftCloudAppSecurity.EastUS2EUAP,eastus2euap

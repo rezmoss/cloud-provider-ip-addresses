@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+20.17.54.0/25,IPv4,ServiceBus.MalaysiaSouth,malaysiasouth
+20.17.66.80/29,IPv4,ServiceBus.MalaysiaSouth,malaysiasouth
+20.17.66.96/28,IPv4,ServiceBus.MalaysiaSouth,malaysiasouth
+2603:1040:1503::780/121,IPv6,ServiceBus.MalaysiaSouth,malaysiasouth

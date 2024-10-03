@@ -1,0 +1,8 @@
+[
+  {
+    "ip_address": "20.37.194.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureDevOps.AustraliaEast",
+    "region": "australiaeast"
+  }
+]

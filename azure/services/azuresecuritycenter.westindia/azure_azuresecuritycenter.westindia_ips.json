@@ -1,0 +1,8 @@
+[
+  {
+    "ip_address": "20.38.132.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.WestIndia",
+    "region": "westindia"
+  }
+]

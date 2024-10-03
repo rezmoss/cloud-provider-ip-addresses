@@ -1,0 +1,9 @@
+ip_address,ip_type,service,region
+34.0.32.0/20,IPv4,Google Cloud,northamerica-northeast2
+34.104.114.0/23,IPv4,Google Cloud,northamerica-northeast2
+34.124.50.0/23,IPv4,Google Cloud,northamerica-northeast2
+34.124.112.0/20,IPv4,Google Cloud,northamerica-northeast2
+34.130.0.0/16,IPv4,Google Cloud,northamerica-northeast2
+34.152.69.0/24,IPv4,Google Cloud,northamerica-northeast2
+34.157.255.0/24,IPv4,Google Cloud,northamerica-northeast2
+2600:1900:41e0::/44,IPv6,Google Cloud,northamerica-northeast2

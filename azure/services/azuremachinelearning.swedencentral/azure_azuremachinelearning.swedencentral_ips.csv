@@ -1,0 +1,8 @@
+ip_address,ip_type,service,region
+51.12.29.0/28,IPv4,AzureMachineLearning.SwedenCentral,swedencentral
+51.12.29.64/27,IPv4,AzureMachineLearning.SwedenCentral,swedencentral
+51.12.47.32/28,IPv4,AzureMachineLearning.SwedenCentral,swedencentral
+51.12.99.80/28,IPv4,AzureMachineLearning.SwedenCentral,swedencentral
+51.12.227.64/28,IPv4,AzureMachineLearning.SwedenCentral,swedencentral
+51.12.235.64/28,IPv4,AzureMachineLearning.SwedenCentral,swedencentral
+2603:1020:1004::2c0/122,IPv6,AzureMachineLearning.SwedenCentral,swedencentral

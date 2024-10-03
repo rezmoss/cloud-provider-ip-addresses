@@ -1,0 +1,3 @@
+ip_address,ip_type,service,region
+104.46.162.16/30,IPv4,AzureAttestation.AustraliaSoutheast,australiasoutheast
+104.46.179.240/30,IPv4,AzureAttestation.AustraliaSoutheast,australiasoutheast

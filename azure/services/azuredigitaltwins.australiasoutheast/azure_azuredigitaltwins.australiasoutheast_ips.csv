@@ -1,0 +1,3 @@
+ip_address,ip_type,service,region
+104.46.178.120/29,IPv4,AzureDigitalTwins.AustraliaSoutheast,australiasoutheast
+104.46.178.160/27,IPv4,AzureDigitalTwins.AustraliaSoutheast,australiasoutheast

@@ -1,0 +1,74 @@
+[
+  {
+    "ip_address": "13.71.125.22/32",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "13.71.127.26/32",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "13.71.127.169/32",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "20.192.152.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "20.192.152.96/28",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "20.192.184.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "40.78.194.240/28",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "52.172.80.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "104.211.206.193/32",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "104.211.208.168/32",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "2603:1040:c06:6::1c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureConnectors.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "2603:1040:c06:402::180/122",
+    "ip_type": "IPv6",
+    "service": "AzureConnectors.SouthIndia",
+    "region": "southindia"
+  }
+]

@@ -1,0 +1,338 @@
+[
+  {
+    "ip_address": "20.33.141.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "20.33.177.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "20.33.200.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "20.47.6.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "20.60.154.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "20.60.184.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "20.60.238.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "20.150.108.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "20.157.58.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "20.157.149.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "20.209.136.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "20.209.148.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "20.209.248.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "40.70.88.0/30",
+    "ip_type": "IPv4",
+    "service": "Storage.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "40.70.88.4/31",
+    "ip_type": "IPv4",
+    "service": "Storage.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "40.70.88.6/32",
+    "ip_type": "IPv4",
+    "service": "Storage.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "40.70.88.8/31",
+    "ip_type": "IPv4",
+    "service": "Storage.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "40.70.88.10/32",
+    "ip_type": "IPv4",
+    "service": "Storage.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "40.70.88.12/32",
+    "ip_type": "IPv4",
+    "service": "Storage.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "40.70.88.14/31",
+    "ip_type": "IPv4",
+    "service": "Storage.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "40.79.88.16/30",
+    "ip_type": "IPv4",
+    "service": "Storage.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "40.79.88.20/31",
+    "ip_type": "IPv4",
+    "service": "Storage.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "40.79.88.22/32",
+    "ip_type": "IPv4",
+    "service": "Storage.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "40.79.88.24/31",
+    "ip_type": "IPv4",
+    "service": "Storage.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "40.79.88.26/32",
+    "ip_type": "IPv4",
+    "service": "Storage.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "40.79.88.28/32",
+    "ip_type": "IPv4",
+    "service": "Storage.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "40.79.88.30/31",
+    "ip_type": "IPv4",
+    "service": "Storage.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "52.184.168.32/30",
+    "ip_type": "IPv4",
+    "service": "Storage.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "52.184.168.36/31",
+    "ip_type": "IPv4",
+    "service": "Storage.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "52.184.168.38/32",
+    "ip_type": "IPv4",
+    "service": "Storage.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "52.184.168.40/31",
+    "ip_type": "IPv4",
+    "service": "Storage.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "52.184.168.42/32",
+    "ip_type": "IPv4",
+    "service": "Storage.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "52.184.168.44/32",
+    "ip_type": "IPv4",
+    "service": "Storage.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "52.184.168.46/31",
+    "ip_type": "IPv4",
+    "service": "Storage.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "52.239.157.224/27",
+    "ip_type": "IPv4",
+    "service": "Storage.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "52.239.165.192/26",
+    "ip_type": "IPv4",
+    "service": "Storage.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "52.239.184.176/28",
+    "ip_type": "IPv4",
+    "service": "Storage.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "52.239.184.224/27",
+    "ip_type": "IPv4",
+    "service": "Storage.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "52.239.185.0/28",
+    "ip_type": "IPv4",
+    "service": "Storage.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "52.239.192.128/27",
+    "ip_type": "IPv4",
+    "service": "Storage.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "52.239.198.128/27",
+    "ip_type": "IPv4",
+    "service": "Storage.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "52.239.230.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "52.239.239.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "57.150.12.144/28",
+    "ip_type": "IPv4",
+    "service": "Storage.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "57.150.12.160/27",
+    "ip_type": "IPv4",
+    "service": "Storage.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "57.150.12.192/26",
+    "ip_type": "IPv4",
+    "service": "Storage.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "57.150.13.0/25",
+    "ip_type": "IPv4",
+    "service": "Storage.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "57.150.19.176/28",
+    "ip_type": "IPv4",
+    "service": "Storage.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "57.150.19.192/26",
+    "ip_type": "IPv4",
+    "service": "Storage.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "57.150.50.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "57.150.64.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "2603:1030:410::/49",
+    "ip_type": "IPv6",
+    "service": "Storage.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "2603:1030:410:8000::/61",
+    "ip_type": "IPv6",
+    "service": "Storage.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "2603:1030:410:8008::/62",
+    "ip_type": "IPv6",
+    "service": "Storage.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "2603:1030:410:800c::/63",
+    "ip_type": "IPv6",
+    "service": "Storage.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "2603:1030:410:800e::/64",
+    "ip_type": "IPv6",
+    "service": "Storage.EastUS2EUAP",
+    "region": "eastus2euap"
+  }
+]

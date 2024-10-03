@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "20.37.196.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "68.218.137.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "2603:1010:6:1::380/121",
+    "ip_type": "IPv6",
+    "service": "AzureEventGrid.AustraliaEast",
+    "region": "australiaeast"
+  }
+]

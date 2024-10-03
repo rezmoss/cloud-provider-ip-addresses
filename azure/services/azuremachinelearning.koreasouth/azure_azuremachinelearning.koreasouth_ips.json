@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "40.80.169.160/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.146.208/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:1::640/122",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.KoreaSouth",
+    "region": "koreasouth"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "ip_address": "20.41.69.32/29",
+    "ip_type": "IPv4",
+    "service": "HDInsight.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "20.44.26.240/29",
+    "ip_type": "IPv4",
+    "service": "HDInsight.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "52.231.36.209/32",
+    "ip_type": "IPv4",
+    "service": "HDInsight.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "52.231.39.142/32",
+    "ip_type": "IPv4",
+    "service": "HDInsight.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "2603:1040:f05::790/124",
+    "ip_type": "IPv6",
+    "service": "HDInsight.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "2603:1040:f05:402::320/124",
+    "ip_type": "IPv6",
+    "service": "HDInsight.KoreaCentral",
+    "region": "koreacentral"
+  }
+]

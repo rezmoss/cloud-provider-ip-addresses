@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "51.53.173.0/24",
+    "ip_type": "IPv4",
+    "service": "EventHub.TaiwanNorthwest",
+    "region": "taiwannorthwest"
+  },
+  {
+    "ip_address": "51.53.187.128/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.TaiwanNorthwest",
+    "region": "taiwannorthwest"
+  },
+  {
+    "ip_address": "2603:1040:1202:1::/120",
+    "ip_type": "IPv6",
+    "service": "EventHub.TaiwanNorthwest",
+    "region": "taiwannorthwest"
+  }
+]

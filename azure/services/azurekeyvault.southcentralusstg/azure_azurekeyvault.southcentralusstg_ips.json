@@ -1,0 +1,32 @@
+[
+  {
+    "ip_address": "20.44.2.0/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "20.45.117.32/29",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "20.45.117.40/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "2603:1030:302::90/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "2603:1030:302::98/126",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.SouthCentralUSSTG",
+    "region": "usstagec"
+  }
+]

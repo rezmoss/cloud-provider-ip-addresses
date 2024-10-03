@@ -1,0 +1,140 @@
+[
+  {
+    "ip_address": "34.0.224.0/24",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "europe-west3"
+  },
+  {
+    "ip_address": "34.0.226.0/24",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "europe-west3"
+  },
+  {
+    "ip_address": "34.40.0.0/17",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "europe-west3"
+  },
+  {
+    "ip_address": "34.89.128.0/17",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "europe-west3"
+  },
+  {
+    "ip_address": "34.104.112.0/23",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "europe-west3"
+  },
+  {
+    "ip_address": "34.107.0.0/17",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "europe-west3"
+  },
+  {
+    "ip_address": "34.118.244.0/22",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "europe-west3"
+  },
+  {
+    "ip_address": "34.124.48.0/23",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "europe-west3"
+  },
+  {
+    "ip_address": "34.141.0.0/17",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "europe-west3"
+  },
+  {
+    "ip_address": "34.157.48.0/20",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "europe-west3"
+  },
+  {
+    "ip_address": "34.157.176.0/20",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "europe-west3"
+  },
+  {
+    "ip_address": "34.159.0.0/16",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "europe-west3"
+  },
+  {
+    "ip_address": "35.198.64.0/18",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "europe-west3"
+  },
+  {
+    "ip_address": "35.198.128.0/18",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "europe-west3"
+  },
+  {
+    "ip_address": "35.207.64.0/18",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "europe-west3"
+  },
+  {
+    "ip_address": "35.207.128.0/18",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "europe-west3"
+  },
+  {
+    "ip_address": "35.220.18.0/23",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "europe-west3"
+  },
+  {
+    "ip_address": "35.234.64.0/18",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "europe-west3"
+  },
+  {
+    "ip_address": "35.235.32.0/20",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "europe-west3"
+  },
+  {
+    "ip_address": "35.242.18.0/23",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "europe-west3"
+  },
+  {
+    "ip_address": "35.242.192.0/18",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "europe-west3"
+  },
+  {
+    "ip_address": "35.246.128.0/17",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "europe-west3"
+  },
+  {
+    "ip_address": "2600:1900:40d0::/44",
+    "ip_type": "IPv6",
+    "service": "Google Cloud",
+    "region": "europe-west3"
+  }
+]

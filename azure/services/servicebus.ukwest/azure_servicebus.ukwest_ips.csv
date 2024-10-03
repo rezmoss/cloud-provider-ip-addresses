@@ -1,0 +1,9 @@
+ip_address,ip_type,service,region
+20.58.70.0/25,IPv4,ServiceBus.UKWest,ukwest
+51.140.210.64/28,IPv4,ServiceBus.UKWest,ukwest
+51.141.1.129/32,IPv4,ServiceBus.UKWest,ukwest
+51.141.45.118/32,IPv4,ServiceBus.UKWest,ukwest
+172.186.0.0/25,IPv4,ServiceBus.UKWest,ukwest
+2603:1020:605::220/123,IPv6,ServiceBus.UKWest,ukwest
+2603:1020:605:1::500/120,IPv6,ServiceBus.UKWest,ukwest
+2603:1020:605:402::170/125,IPv6,ServiceBus.UKWest,ukwest

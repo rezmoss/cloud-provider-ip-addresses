@@ -1,0 +1,38 @@
+[
+  {
+    "ip_address": "4.238.1.104/32",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "4.238.1.131/32",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "20.206.0.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "23.97.120.109/32",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "191.233.51.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "2603:1050:403:400::2c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureConnectors.BrazilSoutheast",
+    "region": "brazilse"
+  }
+]

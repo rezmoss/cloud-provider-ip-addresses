@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+20.61.102.64/27,IPv4,AzureSignalR.WestEurope,westeurope
+20.86.94.128/25,IPv4,AzureSignalR.WestEurope,westeurope
+2603:1020:206:4::200/120,IPv6,AzureSignalR.WestEurope,westeurope

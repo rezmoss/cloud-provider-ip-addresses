@@ -1,0 +1,9 @@
+ip_address,ip_type,service,region
+20.45.208.8/30,IPv4,AzureKeyVault.CentralUSEUAP,centraluseuap
+20.45.241.176/29,IPv4,AzureKeyVault.CentralUSEUAP,centraluseuap
+20.46.11.248/29,IPv4,AzureKeyVault.CentralUSEUAP,centraluseuap
+20.46.12.192/30,IPv4,AzureKeyVault.CentralUSEUAP,centraluseuap
+2603:1030:f:1::100/124,IPv6,AzureKeyVault.CentralUSEUAP,centraluseuap
+2603:1030:f:1::110/125,IPv6,AzureKeyVault.CentralUSEUAP,centraluseuap
+2603:1030:f:1::2a0/125,IPv6,AzureKeyVault.CentralUSEUAP,centraluseuap
+2603:1030:f:400::880/125,IPv6,AzureKeyVault.CentralUSEUAP,centraluseuap

@@ -1,0 +1,32 @@
+[
+  {
+    "ip_address": "4.198.41.112/28",
+    "ip_type": "IPv4",
+    "service": "LogicApps.AustraliaCentral2",
+    "region": "australiacentral2"
+  },
+  {
+    "ip_address": "20.36.117.96/27",
+    "ip_type": "IPv4",
+    "service": "LogicApps.AustraliaCentral2",
+    "region": "australiacentral2"
+  },
+  {
+    "ip_address": "20.36.117.128/28",
+    "ip_type": "IPv4",
+    "service": "LogicApps.AustraliaCentral2",
+    "region": "australiacentral2"
+  },
+  {
+    "ip_address": "2603:1010:404:402::3c0/124",
+    "ip_type": "IPv6",
+    "service": "LogicApps.AustraliaCentral2",
+    "region": "australiacentral2"
+  },
+  {
+    "ip_address": "2603:1010:404:402::3e0/123",
+    "ip_type": "IPv6",
+    "service": "LogicApps.AustraliaCentral2",
+    "region": "australiacentral2"
+  }
+]

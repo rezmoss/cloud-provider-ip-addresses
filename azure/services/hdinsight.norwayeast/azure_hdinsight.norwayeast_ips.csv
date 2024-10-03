@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+51.120.43.88/29,IPv4,HDInsight.NorwayEast,norwaye
+51.120.100.48/29,IPv4,HDInsight.NorwayEast,norwaye
+2603:1020:e04::790/124,IPv6,HDInsight.NorwayEast,norwaye
+2603:1020:e04:402::320/124,IPv6,HDInsight.NorwayEast,norwaye

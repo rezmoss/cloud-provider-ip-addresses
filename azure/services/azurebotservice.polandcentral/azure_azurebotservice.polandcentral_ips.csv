@@ -1,0 +1,3 @@
+ip_address,ip_type,service,region
+20.215.0.16/30,IPv4,AzureBotService.PolandCentral,polandcentral
+2603:1020:1302::20/123,IPv6,AzureBotService.PolandCentral,polandcentral

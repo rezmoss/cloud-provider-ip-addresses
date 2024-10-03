@@ -1,0 +1,7 @@
+ip_address,ip_type,service,region
+13.67.8.112/29,IPv4,MicrosoftContainerRegistry.SoutheastAsia,southeastasia
+23.98.82.104/29,IPv4,MicrosoftContainerRegistry.SoutheastAsia,southeastasia
+40.78.234.40/29,IPv4,MicrosoftContainerRegistry.SoutheastAsia,southeastasia
+2603:1040:5:402::88/125,IPv6,MicrosoftContainerRegistry.SoutheastAsia,southeastasia
+2603:1040:5:802::88/125,IPv6,MicrosoftContainerRegistry.SoutheastAsia,southeastasia
+2603:1040:5:c02::88/125,IPv6,MicrosoftContainerRegistry.SoutheastAsia,southeastasia

@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "51.12.17.48/29",
+    "ip_type": "IPv4",
+    "service": "HDInsight.SwedenSouth",
+    "region": "swedensouth"
+  },
+  {
+    "ip_address": "2603:1020:1104:1::140/124",
+    "ip_type": "IPv6",
+    "service": "HDInsight.SwedenSouth",
+    "region": "swedensouth"
+  }
+]

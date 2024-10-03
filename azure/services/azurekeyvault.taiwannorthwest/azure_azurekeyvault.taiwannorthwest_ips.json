@@ -1,0 +1,38 @@
+[
+  {
+    "ip_address": "51.53.178.16/29",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.TaiwanNorthwest",
+    "region": "taiwannorthwest"
+  },
+  {
+    "ip_address": "51.53.178.204/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.TaiwanNorthwest",
+    "region": "taiwannorthwest"
+  },
+  {
+    "ip_address": "51.53.186.124/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.TaiwanNorthwest",
+    "region": "taiwannorthwest"
+  },
+  {
+    "ip_address": "2603:1040:1202:1::1a8/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.TaiwanNorthwest",
+    "region": "taiwannorthwest"
+  },
+  {
+    "ip_address": "2603:1040:1202:2::420/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.TaiwanNorthwest",
+    "region": "taiwannorthwest"
+  },
+  {
+    "ip_address": "2603:1040:1202:2::428/126",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.TaiwanNorthwest",
+    "region": "taiwannorthwest"
+  }
+]

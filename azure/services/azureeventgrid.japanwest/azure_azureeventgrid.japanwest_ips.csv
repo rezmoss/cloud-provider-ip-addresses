@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+40.74.106.96/27,IPv4,AzureEventGrid.JapanWest,japanwest
+40.80.58.0/25,IPv4,AzureEventGrid.JapanWest,japanwest
+2603:1040:606::380/121,IPv6,AzureEventGrid.JapanWest,japanwest

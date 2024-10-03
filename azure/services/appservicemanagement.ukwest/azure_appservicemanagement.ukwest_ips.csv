@@ -1,0 +1,7 @@
+ip_address,ip_type,service,region
+20.90.32.160/28,IPv4,AppServiceManagement.UKWest,ukwest
+51.140.210.128/26,IPv4,AppServiceManagement.UKWest,ukwest
+51.141.8.34/32,IPv4,AppServiceManagement.UKWest,ukwest
+2603:1020:605:1::4a0/123,IPv6,AppServiceManagement.UKWest,ukwest
+2603:1020:605:6::1c0/122,IPv6,AppServiceManagement.UKWest,ukwest
+2603:1020:605:402::100/122,IPv6,AppServiceManagement.UKWest,ukwest

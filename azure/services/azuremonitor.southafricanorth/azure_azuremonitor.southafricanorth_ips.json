@@ -1,0 +1,182 @@
+[
+  {
+    "ip_address": "20.87.86.208/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "20.164.159.160/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "20.164.159.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "102.37.72.240/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "102.133.122.152/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "102.133.123.240/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "102.133.126.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "102.133.126.152/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "102.133.155.48/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "102.133.161.73/32",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "102.133.162.233/32",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "102.133.216.68/31",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "102.133.216.106/31",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "102.133.218.144/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "102.133.218.244/30",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "102.133.219.128/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "102.133.221.160/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "102.133.250.152/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "102.133.251.80/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "102.133.254.224/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "2603:1000:104::4c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "2603:1000:104::600/122",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "2603:1000:104:1::280/122",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "2603:1000:104:2::/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "2603:1000:104:2::80/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "2603:1000:104:6::/122",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "2603:1000:104:6::40/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "2603:1000:104:402::500/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "2603:1000:104:802::480/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "2603:1000:104:c02::480/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SouthAfricaNorth",
+    "region": "southafricanorth"
+  }
+]

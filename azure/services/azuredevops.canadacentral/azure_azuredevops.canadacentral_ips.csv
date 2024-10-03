@@ -1,0 +1,2 @@
+ip_address,ip_type,service,region
+52.228.82.0/24,IPv4,AzureDevOps.CanadaCentral,canadacentral

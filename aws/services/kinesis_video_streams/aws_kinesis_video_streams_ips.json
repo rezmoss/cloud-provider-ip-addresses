@@ -1,0 +1,548 @@
+[
+  {
+    "ip_address": "43.196.24.4/31",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "cn-north-1"
+  },
+  {
+    "ip_address": "43.196.24.8/30",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "cn-north-1"
+  },
+  {
+    "ip_address": "18.252.165.140/30",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "3.30.40.84/30",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "us-gov-west-1"
+  },
+  {
+    "ip_address": "13.247.76.100/30",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "af-south-1"
+  },
+  {
+    "ip_address": "13.247.76.96/31",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "af-south-1"
+  },
+  {
+    "ip_address": "43.199.26.124/31",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "ap-east-1"
+  },
+  {
+    "ip_address": "43.199.26.128/30",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "ap-east-1"
+  },
+  {
+    "ip_address": "35.72.36.140/31",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "ap-northeast-1"
+  },
+  {
+    "ip_address": "35.72.36.142/31",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "ap-northeast-1"
+  },
+  {
+    "ip_address": "35.72.36.144/30",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "ap-northeast-1"
+  },
+  {
+    "ip_address": "35.72.36.148/30",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "ap-northeast-1"
+  },
+  {
+    "ip_address": "57.181.142.224/31",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "ap-northeast-1"
+  },
+  {
+    "ip_address": "57.181.142.228/30",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "ap-northeast-1"
+  },
+  {
+    "ip_address": "43.202.213.132/31",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "ap-northeast-2"
+  },
+  {
+    "ip_address": "43.202.213.136/30",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "ap-northeast-2"
+  },
+  {
+    "ip_address": "13.200.142.116/31",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "ap-south-1"
+  },
+  {
+    "ip_address": "13.201.195.64/30",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "ap-south-1"
+  },
+  {
+    "ip_address": "47.128.82.102/31",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "ap-southeast-1"
+  },
+  {
+    "ip_address": "47.129.23.132/30",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "ap-southeast-1"
+  },
+  {
+    "ip_address": "3.107.30.180/31",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "ap-southeast-2"
+  },
+  {
+    "ip_address": "3.107.30.184/30",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "ap-southeast-2"
+  },
+  {
+    "ip_address": "15.157.167.134/31",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "ca-central-1"
+  },
+  {
+    "ip_address": "15.157.167.136/30",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "ca-central-1"
+  },
+  {
+    "ip_address": "18.153.184.142/31",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "eu-central-1"
+  },
+  {
+    "ip_address": "18.153.184.148/30",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "eu-central-1"
+  },
+  {
+    "ip_address": "54.247.243.134/31",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "eu-west-1"
+  },
+  {
+    "ip_address": "54.247.243.136/30",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "eu-west-1"
+  },
+  {
+    "ip_address": "18.171.35.214/31",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "eu-west-2"
+  },
+  {
+    "ip_address": "18.171.63.36/30",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "eu-west-2"
+  },
+  {
+    "ip_address": "15.188.210.206/31",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "eu-west-3"
+  },
+  {
+    "ip_address": "15.237.162.40/30",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "eu-west-3"
+  },
+  {
+    "ip_address": "15.229.206.224/31",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "sa-east-1"
+  },
+  {
+    "ip_address": "15.229.206.228/30",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "sa-east-1"
+  },
+  {
+    "ip_address": "44.220.189.16/31",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "44.220.189.20/30",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "44.220.189.44/31",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "44.220.189.46/31",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "44.220.189.48/30",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "44.220.189.52/30",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "44.220.189.56/31",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "44.220.189.58/31",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "44.220.189.60/30",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "44.220.189.64/30",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "44.220.189.68/31",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "44.220.189.70/31",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "44.220.189.72/30",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "44.220.189.76/30",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "44.220.189.80/31",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "44.220.189.82/31",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "44.220.189.84/30",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "44.220.189.88/30",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "44.220.189.92/31",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "44.220.189.96/30",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "3.146.42.74/31",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "us-east-2"
+  },
+  {
+    "ip_address": "3.146.42.80/30",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "us-east-2"
+  },
+  {
+    "ip_address": "18.246.224.200/31",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "18.246.224.202/31",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "18.246.224.204/30",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "18.246.224.208/30",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "18.246.224.212/31",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "18.246.224.214/31",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "18.246.224.216/30",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "18.246.224.220/30",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "18.246.224.224/31",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "18.246.224.226/31",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "18.246.224.228/30",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "18.246.224.232/30",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "18.246.224.236/31",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "18.246.224.238/31",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "18.246.224.240/30",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "18.246.224.244/30",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "18.246.224.248/31",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "18.246.224.252/30",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "35.93.175.4/31",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "35.93.175.8/30",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "44.242.143.180/31",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "44.242.143.224/30",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "44.242.143.242/31",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "44.242.143.244/30",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "44.242.143.248/31",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "44.242.143.250/31",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "44.242.143.252/30",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "44.242.161.0/30",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "44.242.161.10/31",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "44.242.161.12/30",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "44.242.161.16/31",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "44.242.161.20/30",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "44.242.161.4/31",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "44.242.161.6/31",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "44.242.161.8/31",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "us-west-2"
+  }
+]

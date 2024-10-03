@@ -1,0 +1,10 @@
+ip_address,ip_type,service,region
+104.41.34.180/32,IPv4,AzureIoTHub.BrazilSouth,brazilsouth
+191.233.205.128/27,IPv4,AzureIoTHub.BrazilSouth,brazilsouth
+191.234.136.128/25,IPv4,AzureIoTHub.BrazilSouth,brazilsouth
+191.234.137.0/27,IPv4,AzureIoTHub.BrazilSouth,brazilsouth
+191.234.147.224/27,IPv4,AzureIoTHub.BrazilSouth,brazilsouth
+191.234.155.224/27,IPv4,AzureIoTHub.BrazilSouth,brazilsouth
+2603:1050:6:402::300/123,IPv6,AzureIoTHub.BrazilSouth,brazilsouth
+2603:1050:6:802::240/123,IPv6,AzureIoTHub.BrazilSouth,brazilsouth
+2603:1050:6:c02::240/123,IPv6,AzureIoTHub.BrazilSouth,brazilsouth

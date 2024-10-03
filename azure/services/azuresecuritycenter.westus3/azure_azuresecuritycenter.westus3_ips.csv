@@ -1,0 +1,2 @@
+ip_address,ip_type,service,region
+20.150.173.224/27,IPv4,AzureSecurityCenter.WestUS3,westus3

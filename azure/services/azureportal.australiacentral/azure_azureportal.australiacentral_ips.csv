@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+20.37.225.128/27,IPv4,AzurePortal.AustraliaCentral,australiacentral
+20.37.226.56/30,IPv4,AzurePortal.AustraliaCentral,australiacentral
+20.37.229.152/29,IPv4,AzurePortal.AustraliaCentral,australiacentral
+2603:1010:304::700/121,IPv6,AzurePortal.AustraliaCentral,australiacentral

@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+20.193.202.8/29,IPv4,MicrosoftContainerRegistry.JioIndiaWest,jioindiawest
+2603:1040:d04:400::88/125,IPv6,MicrosoftContainerRegistry.JioIndiaWest,jioindiawest
+2603:1040:d04:400::3b0/125,IPv6,MicrosoftContainerRegistry.JioIndiaWest,jioindiawest
+2603:1040:d04:800::148/125,IPv6,MicrosoftContainerRegistry.JioIndiaWest,jioindiawest

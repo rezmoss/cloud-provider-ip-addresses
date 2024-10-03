@@ -1,0 +1,8 @@
+[
+  {
+    "ip_address": "40.74.30.112/28",
+    "ip_type": "IPv4",
+    "service": "AzureOpenDatasets.WestEurope",
+    "region": "westeurope"
+  }
+]

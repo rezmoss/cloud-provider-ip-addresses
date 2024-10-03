@@ -1,0 +1,32 @@
+[
+  {
+    "ip_address": "51.116.58.192/26",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "51.116.75.96/28",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "51.116.208.94/32",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:1::480/123",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:402::100/122",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.GermanyNorth",
+    "region": "germanyn"
+  }
+]

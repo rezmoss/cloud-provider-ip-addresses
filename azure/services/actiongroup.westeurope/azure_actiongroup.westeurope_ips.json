@@ -1,0 +1,38 @@
+[
+  {
+    "ip_address": "13.69.109.132/30",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "20.105.215.20/31",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "172.201.232.60/30",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "2603:1020:206:b::fc/126",
+    "ip_type": "IPv6",
+    "service": "ActionGroup.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "2603:1020:206:402::178/125",
+    "ip_type": "IPv6",
+    "service": "ActionGroup.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "2603:1020:206:403::78/125",
+    "ip_type": "IPv6",
+    "service": "ActionGroup.WestEurope",
+    "region": "westeurope"
+  }
+]

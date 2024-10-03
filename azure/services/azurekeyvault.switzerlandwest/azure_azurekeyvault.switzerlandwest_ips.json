@@ -1,0 +1,44 @@
+[
+  {
+    "ip_address": "51.107.154.0/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "51.107.250.44/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "51.107.251.104/29",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "2603:1020:b04::2a0/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "2603:1020:b04:2::5a8/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "2603:1020:b04:2::5b0/126",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "2603:1020:b04:402::80/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.SwitzerlandWest",
+    "region": "switzerlandw"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "ip_address": "20.47.236.96/27",
+    "ip_type": "IPv4",
+    "service": "LogicApps.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "20.47.249.56/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "20.47.249.65/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "20.47.249.165/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "20.102.164.100/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "20.102.166.9/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "20.102.166.10/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "40.74.149.96/27",
+    "ip_type": "IPv4",
+    "service": "LogicApps.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "40.75.35.240/28",
+    "ip_type": "IPv4",
+    "service": "LogicApps.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "68.220.127.128/28",
+    "ip_type": "IPv4",
+    "service": "LogicApps.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "2603:1030:40b:400::bc0/124",
+    "ip_type": "IPv6",
+    "service": "LogicApps.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "2603:1030:40b:400::be0/123",
+    "ip_type": "IPv6",
+    "service": "LogicApps.EastUS2EUAP",
+    "region": "eastus2euap"
+  }
+]

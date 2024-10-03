@@ -1,0 +1,134 @@
+[
+  {
+    "ip_address": "13.89.170.216/29",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "13.89.175.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "13.89.178.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "20.40.224.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "20.44.11.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "20.44.11.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "20.44.12.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "52.182.138.208/29",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "52.182.142.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "52.182.142.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "72.152.15.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "104.208.16.80/29",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "172.212.129.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "2603:1030:10:b::280/122",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "2603:1030:10:402::90/125",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "2603:1030:10:402::340/122",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "2603:1030:10:402::580/121",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "2603:1030:10:802::90/125",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "2603:1030:10:802::2c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "2603:1030:10:802::400/121",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "2603:1030:10:c02::90/125",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "2603:1030:10:c02::400/121",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.CentralUS",
+    "region": "centralus"
+  }
+]

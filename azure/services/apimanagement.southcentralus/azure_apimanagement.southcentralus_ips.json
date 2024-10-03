@@ -1,0 +1,50 @@
+[
+  {
+    "ip_address": "13.84.189.17/32",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "13.85.22.63/32",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "20.97.32.190/31",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "20.188.77.119/32",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "104.214.18.172/31",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "104.214.19.224/28",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "191.238.241.97/32",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "2603:1030:807:402::140/124",
+    "ip_type": "IPv6",
+    "service": "ApiManagement.SouthCentralUS",
+    "region": "southcentralus"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "ip_address": "20.111.28.147/32",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "20.111.56.34/32",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "20.199.96.185/32",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "40.79.130.32/29",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "40.79.138.16/29",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "40.79.141.192/26",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "40.79.146.16/29",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "40.79.149.0/26",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "51.11.192.64/26",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "51.138.213.128/25",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "52.143.136.46/32",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "52.143.142.50/32",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "98.66.150.0/24",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "2603:1020:805::700/120",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "2603:1020:805:1::220/123",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "2603:1020:805:402::170/125",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "2603:1020:805:802::150/125",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "2603:1020:805:c02::150/125",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.FranceCentral",
+    "region": "centralfrance"
+  }
+]

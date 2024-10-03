@@ -1,0 +1,290 @@
+[
+  {
+    "ip_address": "15.177.0.0/18",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "GLOBAL"
+  },
+  {
+    "ip_address": "52.80.197.0/25",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "cn-north-1"
+  },
+  {
+    "ip_address": "52.80.197.128/25",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "cn-north-1"
+  },
+  {
+    "ip_address": "52.80.198.0/25",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "cn-north-1"
+  },
+  {
+    "ip_address": "52.83.34.128/25",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "52.83.35.0/25",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "52.83.35.128/25",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "54.248.220.0/26",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "ap-northeast-1"
+  },
+  {
+    "ip_address": "54.250.253.192/26",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "ap-northeast-1"
+  },
+  {
+    "ip_address": "54.251.31.128/26",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "ap-southeast-1"
+  },
+  {
+    "ip_address": "54.255.254.192/26",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "ap-southeast-1"
+  },
+  {
+    "ip_address": "54.252.254.192/26",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "ap-southeast-2"
+  },
+  {
+    "ip_address": "54.252.79.128/26",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "ap-southeast-2"
+  },
+  {
+    "ip_address": "176.34.159.192/26",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "eu-west-1"
+  },
+  {
+    "ip_address": "54.228.16.0/26",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "eu-west-1"
+  },
+  {
+    "ip_address": "177.71.207.128/26",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "sa-east-1"
+  },
+  {
+    "ip_address": "54.232.40.64/26",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "sa-east-1"
+  },
+  {
+    "ip_address": "107.23.255.0/26",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "54.243.31.192/26",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "54.183.255.128/26",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "us-west-1"
+  },
+  {
+    "ip_address": "54.241.32.64/26",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "us-west-1"
+  },
+  {
+    "ip_address": "54.244.52.192/26",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "54.245.168.0/26",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "2600:f0f0:30f::/48",
+    "ip_type": "IPv6",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "eu-central-1"
+  },
+  {
+    "ip_address": "2600:f0f0:30e::/48",
+    "ip_type": "IPv6",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "2600:f0f0:300:100::/56",
+    "ip_type": "IPv6",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "2400:7fc0:83cc:cc00::/56",
+    "ip_type": "IPv6",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "cn-north-1"
+  },
+  {
+    "ip_address": "2400:7fc0:83cc:cd00::/56",
+    "ip_type": "IPv6",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "cn-north-1"
+  },
+  {
+    "ip_address": "2400:7fc0:83cc:ce00::/56",
+    "ip_type": "IPv6",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "cn-north-1"
+  },
+  {
+    "ip_address": "2404:c2c0:83cc:cc00::/56",
+    "ip_type": "IPv6",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "2404:c2c0:83cc:cd00::/56",
+    "ip_type": "IPv6",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "2404:c2c0:83cc:ce00::/56",
+    "ip_type": "IPv6",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "2406:da14:7ff:f800::/56",
+    "ip_type": "IPv6",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "ap-northeast-1"
+  },
+  {
+    "ip_address": "2406:da14:fff:f800::/56",
+    "ip_type": "IPv6",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "ap-northeast-1"
+  },
+  {
+    "ip_address": "2406:da18:7ff:f800::/56",
+    "ip_type": "IPv6",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "ap-southeast-1"
+  },
+  {
+    "ip_address": "2406:da18:fff:f800::/56",
+    "ip_type": "IPv6",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "ap-southeast-1"
+  },
+  {
+    "ip_address": "2406:da1c:7ff:f800::/56",
+    "ip_type": "IPv6",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "ap-southeast-2"
+  },
+  {
+    "ip_address": "2406:da1c:fff:f800::/56",
+    "ip_type": "IPv6",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "ap-southeast-2"
+  },
+  {
+    "ip_address": "2a05:d018:7ff:f800::/56",
+    "ip_type": "IPv6",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "eu-west-1"
+  },
+  {
+    "ip_address": "2a05:d018:fff:f800::/56",
+    "ip_type": "IPv6",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "eu-west-1"
+  },
+  {
+    "ip_address": "2600:1f1e:7ff:f800::/56",
+    "ip_type": "IPv6",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "sa-east-1"
+  },
+  {
+    "ip_address": "2600:1f1e:fff:f800::/56",
+    "ip_type": "IPv6",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "sa-east-1"
+  },
+  {
+    "ip_address": "2600:1f18:3fff:f800::/56",
+    "ip_type": "IPv6",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "2600:1f18:7fff:f800::/56",
+    "ip_type": "IPv6",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "2600:1f1c:7ff:f800::/56",
+    "ip_type": "IPv6",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "us-west-1"
+  },
+  {
+    "ip_address": "2600:1f1c:fff:f800::/56",
+    "ip_type": "IPv6",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "us-west-1"
+  },
+  {
+    "ip_address": "2600:1f14:7ff:f800::/56",
+    "ip_type": "IPv6",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "2600:1f14:fff:f800::/56",
+    "ip_type": "IPv6",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "us-west-2"
+  }
+]

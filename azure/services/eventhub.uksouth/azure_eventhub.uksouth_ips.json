@@ -1,0 +1,188 @@
+[
+  {
+    "ip_address": "20.90.128.128/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "51.105.66.64/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "51.105.71.0/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "51.105.74.64/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "51.132.192.192/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "51.140.80.99/32",
+    "ip_type": "IPv4",
+    "service": "EventHub.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "51.140.87.93/32",
+    "ip_type": "IPv4",
+    "service": "EventHub.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "51.140.125.8/32",
+    "ip_type": "IPv4",
+    "service": "EventHub.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "51.140.146.32/28",
+    "ip_type": "IPv4",
+    "service": "EventHub.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "51.140.149.192/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "51.140.189.52/32",
+    "ip_type": "IPv4",
+    "service": "EventHub.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "51.140.189.108/32",
+    "ip_type": "IPv4",
+    "service": "EventHub.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "85.210.228.0/23",
+    "ip_type": "IPv4",
+    "service": "EventHub.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "172.187.65.64/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "2603:1020:705:1::100/125",
+    "ip_type": "IPv6",
+    "service": "EventHub.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "2603:1020:705:1::108/126",
+    "ip_type": "IPv6",
+    "service": "EventHub.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "2603:1020:705:1::240/122",
+    "ip_type": "IPv6",
+    "service": "EventHub.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "2603:1020:705:2::400/120",
+    "ip_type": "IPv6",
+    "service": "EventHub.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "2603:1020:705:6::/120",
+    "ip_type": "IPv6",
+    "service": "EventHub.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "2603:1020:705:6::100/123",
+    "ip_type": "IPv6",
+    "service": "EventHub.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "2603:1020:705:6::120/124",
+    "ip_type": "IPv6",
+    "service": "EventHub.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "2603:1020:705:6::130/125",
+    "ip_type": "IPv6",
+    "service": "EventHub.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "2603:1020:705:6::140/123",
+    "ip_type": "IPv6",
+    "service": "EventHub.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "2603:1020:705:6::200/120",
+    "ip_type": "IPv6",
+    "service": "EventHub.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "2603:1020:705:7::300/120",
+    "ip_type": "IPv6",
+    "service": "EventHub.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "2603:1020:705:7::400/123",
+    "ip_type": "IPv6",
+    "service": "EventHub.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "2603:1020:705:a::/119",
+    "ip_type": "IPv6",
+    "service": "EventHub.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "2603:1020:705:a::400/119",
+    "ip_type": "IPv6",
+    "service": "EventHub.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "2603:1020:705:402::1c0/123",
+    "ip_type": "IPv6",
+    "service": "EventHub.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "2603:1020:705:802::160/123",
+    "ip_type": "IPv6",
+    "service": "EventHub.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "2603:1020:705:c02::160/123",
+    "ip_type": "IPv6",
+    "service": "EventHub.UKSouth",
+    "region": "uksouth"
+  }
+]

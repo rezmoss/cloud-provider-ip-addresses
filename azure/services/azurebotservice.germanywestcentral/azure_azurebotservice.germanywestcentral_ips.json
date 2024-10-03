@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "51.116.144.64/30",
+    "ip_type": "IPv4",
+    "service": "AzureBotService.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "2603:1020:c04:1::20/123",
+    "ip_type": "IPv6",
+    "service": "AzureBotService.GermanyWestCentral",
+    "region": "germanywc"
+  }
+]

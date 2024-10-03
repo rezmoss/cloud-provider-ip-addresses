@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "20.41.193.224/27",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "20.41.197.16/30",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "52.172.112.152/29",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "2603:1040:c06::700/121",
+    "ip_type": "IPv6",
+    "service": "AzurePortal.SouthIndia",
+    "region": "southindia"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "ip_address": "13.68.24.173/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.EastUS2",
+    "region": "eastus2"
+  },
+  {
+    "ip_address": "13.68.76.104/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.EastUS2",
+    "region": "eastus2"
+  },
+  {
+    "ip_address": "20.96.12.123/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.EastUS2",
+    "region": "eastus2"
+  },
+  {
+    "ip_address": "40.64.144.192/29",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.EastUS2",
+    "region": "eastus2"
+  },
+  {
+    "ip_address": "40.64.145.0/28",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.EastUS2",
+    "region": "eastus2"
+  },
+  {
+    "ip_address": "40.70.189.87/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.EastUS2",
+    "region": "eastus2"
+  },
+  {
+    "ip_address": "40.75.30.117/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.EastUS2",
+    "region": "eastus2"
+  },
+  {
+    "ip_address": "52.147.160.158/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.EastUS2",
+    "region": "eastus2"
+  },
+  {
+    "ip_address": "52.167.171.53/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.EastUS2",
+    "region": "eastus2"
+  },
+  {
+    "ip_address": "52.177.123.162/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.EastUS2",
+    "region": "eastus2"
+  },
+  {
+    "ip_address": "52.177.172.247/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.EastUS2",
+    "region": "eastus2"
+  },
+  {
+    "ip_address": "52.242.86.101/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.EastUS2",
+    "region": "eastus2"
+  },
+  {
+    "ip_address": "52.247.123.0/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.EastUS2",
+    "region": "eastus2"
+  },
+  {
+    "ip_address": "137.116.49.12/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.EastUS2",
+    "region": "eastus2"
+  },
+  {
+    "ip_address": "2603:1061:2010:a::/117",
+    "ip_type": "IPv6",
+    "service": "WindowsVirtualDesktop.EastUS2",
+    "region": "eastus2"
+  }
+]

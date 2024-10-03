@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "20.217.53.48/28",
+    "ip_type": "IPv4",
+    "service": "AzureDataExplorerManagement.IsraelCentral",
+    "region": "israelcentral"
+  },
+  {
+    "ip_address": "2603:1040:1402:2::120/123",
+    "ip_type": "IPv6",
+    "service": "AzureDataExplorerManagement.IsraelCentral",
+    "region": "israelcentral"
+  }
+]

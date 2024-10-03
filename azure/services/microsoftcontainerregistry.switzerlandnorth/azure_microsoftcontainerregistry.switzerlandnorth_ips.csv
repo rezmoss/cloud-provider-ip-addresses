@@ -1,0 +1,7 @@
+ip_address,ip_type,service,region
+20.208.18.64/29,IPv4,MicrosoftContainerRegistry.SwitzerlandNorth,switzerlandn
+51.103.202.64/29,IPv4,MicrosoftContainerRegistry.SwitzerlandNorth,switzerlandn
+51.107.58.16/29,IPv4,MicrosoftContainerRegistry.SwitzerlandNorth,switzerlandn
+2603:1020:a04:402::88/125,IPv6,MicrosoftContainerRegistry.SwitzerlandNorth,switzerlandn
+2603:1020:a04:802::88/125,IPv6,MicrosoftContainerRegistry.SwitzerlandNorth,switzerlandn
+2603:1020:a04:c02::88/125,IPv6,MicrosoftContainerRegistry.SwitzerlandNorth,switzerlandn

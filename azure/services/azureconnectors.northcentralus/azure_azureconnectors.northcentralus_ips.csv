@@ -1,0 +1,11 @@
+ip_address,ip_type,service,region
+20.51.4.192/27,IPv4,AzureConnectors.NorthCentralUS,northcentralus
+20.51.4.224/28,IPv4,AzureConnectors.NorthCentralUS,northcentralus
+20.221.230.54/32,IPv4,AzureConnectors.NorthCentralUS,northcentralus
+20.236.90.161/32,IPv4,AzureConnectors.NorthCentralUS,northcentralus
+52.162.107.160/28,IPv4,AzureConnectors.NorthCentralUS,northcentralus
+52.162.111.192/27,IPv4,AzureConnectors.NorthCentralUS,northcentralus
+52.162.126.4/32,IPv4,AzureConnectors.NorthCentralUS,northcentralus
+52.162.242.161/32,IPv4,AzureConnectors.NorthCentralUS,northcentralus
+65.52.197.64/32,IPv4,AzureConnectors.NorthCentralUS,northcentralus
+2603:1030:608:402::180/122,IPv6,AzureConnectors.NorthCentralUS,northcentralus

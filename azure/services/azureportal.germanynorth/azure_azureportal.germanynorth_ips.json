@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "51.116.48.192/27",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "51.116.49.140/30",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "51.116.51.160/29",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04::700/121",
+    "ip_type": "IPv6",
+    "service": "AzurePortal.GermanyNorth",
+    "region": "germanyn"
+  }
+]

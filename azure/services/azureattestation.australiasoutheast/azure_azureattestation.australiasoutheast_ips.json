@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "104.46.162.16/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  },
+  {
+    "ip_address": "104.46.179.240/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  }
+]

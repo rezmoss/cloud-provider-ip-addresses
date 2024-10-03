@@ -1,0 +1,6 @@
+ip_address,ip_type,service,region
+40.69.108.128/27,IPv4,AzureIoTHub.CanadaEast,canadaeast
+40.89.20.192/27,IPv4,AzureIoTHub.CanadaEast,canadaeast
+40.89.21.0/25,IPv4,AzureIoTHub.CanadaEast,canadaeast
+52.242.31.77/32,IPv4,AzureIoTHub.CanadaEast,canadaeast
+2603:1030:1005:402::300/123,IPv6,AzureIoTHub.CanadaEast,canadaeast

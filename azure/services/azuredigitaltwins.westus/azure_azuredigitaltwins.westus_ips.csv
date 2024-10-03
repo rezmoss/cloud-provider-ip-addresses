@@ -1,0 +1,7 @@
+ip_address,ip_type,service,region
+20.66.2.16/29,IPv4,AzureDigitalTwins.WestUS,westus
+20.66.2.128/27,IPv4,AzureDigitalTwins.WestUS,westus
+52.159.214.240/28,IPv4,AzureDigitalTwins.WestUS,westus
+52.159.217.192/27,IPv4,AzureDigitalTwins.WestUS,westus
+52.159.222.32/28,IPv4,AzureDigitalTwins.WestUS,westus
+2603:1030:a07:4::280/121,IPv6,AzureDigitalTwins.WestUS,westus

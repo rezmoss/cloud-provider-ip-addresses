@@ -1,0 +1,7 @@
+ip_address,ip_type,service,region
+20.41.0.72/29,IPv4,GatewayManager.EastUS2,eastus2
+20.98.194.96/27,IPv4,GatewayManager.EastUS2,eastus2
+40.70.146.224/29,IPv4,GatewayManager.EastUS2,eastus2
+52.184.255.23/32,IPv4,GatewayManager.EastUS2,eastus2
+52.251.12.161/32,IPv4,GatewayManager.EastUS2,eastus2
+2603:1030:40c:1::40/122,IPv6,GatewayManager.EastUS2,eastus2

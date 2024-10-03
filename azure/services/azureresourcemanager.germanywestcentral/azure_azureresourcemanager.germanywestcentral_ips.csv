@@ -1,0 +1,6 @@
+ip_address,ip_type,service,region
+51.116.150.0/23,IPv4,AzureResourceManager.GermanyWestCentral,germanywc
+51.116.156.32/28,IPv4,AzureResourceManager.GermanyWestCentral,germanywc
+51.116.159.0/24,IPv4,AzureResourceManager.GermanyWestCentral,germanywc
+2603:1020:c04::180/122,IPv6,AzureResourceManager.GermanyWestCentral,germanywc
+2603:1020:c04:402::280/122,IPv6,AzureResourceManager.GermanyWestCentral,germanywc

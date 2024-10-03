@@ -1,0 +1,10 @@
+ip_address,ip_type,service,region
+20.226.211.158/31,IPv4,AzureArcInfrastructure.BrazilSouth,brazilsouth
+20.226.212.160/29,IPv4,AzureArcInfrastructure.BrazilSouth,brazilsouth
+191.233.207.26/32,IPv4,AzureArcInfrastructure.BrazilSouth,brazilsouth
+191.233.207.30/31,IPv4,AzureArcInfrastructure.BrazilSouth,brazilsouth
+191.234.136.44/30,IPv4,AzureArcInfrastructure.BrazilSouth,brazilsouth
+191.234.138.144/30,IPv4,AzureArcInfrastructure.BrazilSouth,brazilsouth
+191.234.149.138/32,IPv4,AzureArcInfrastructure.BrazilSouth,brazilsouth
+191.234.157.42/32,IPv4,AzureArcInfrastructure.BrazilSouth,brazilsouth
+191.234.157.172/30,IPv4,AzureArcInfrastructure.BrazilSouth,brazilsouth

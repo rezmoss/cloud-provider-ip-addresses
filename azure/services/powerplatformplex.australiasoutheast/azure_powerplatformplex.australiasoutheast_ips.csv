@@ -1,0 +1,11 @@
+ip_address,ip_type,service,region
+4.200.251.88/29,IPv4,PowerPlatformPlex.AustraliaSoutheast,australiasoutheast
+4.200.251.160/27,IPv4,PowerPlatformPlex.AustraliaSoutheast,australiasoutheast
+20.40.165.192/26,IPv4,PowerPlatformPlex.AustraliaSoutheast,australiasoutheast
+20.92.4.220/30,IPv4,PowerPlatformPlex.AustraliaSoutheast,australiasoutheast
+20.92.5.80/28,IPv4,PowerPlatformPlex.AustraliaSoutheast,australiasoutheast
+20.92.5.124/30,IPv4,PowerPlatformPlex.AustraliaSoutheast,australiasoutheast
+20.92.6.8/29,IPv4,PowerPlatformPlex.AustraliaSoutheast,australiasoutheast
+20.92.6.192/29,IPv4,PowerPlatformPlex.AustraliaSoutheast,australiasoutheast
+68.218.170.16/29,IPv4,PowerPlatformPlex.AustraliaSoutheast,australiasoutheast
+2603:1061:2004:5800::/57,IPv6,PowerPlatformPlex.AustraliaSoutheast,australiasoutheast

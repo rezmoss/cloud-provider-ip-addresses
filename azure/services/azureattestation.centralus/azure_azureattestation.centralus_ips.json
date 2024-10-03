@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "20.40.225.60/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "20.44.12.140/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.CentralUS",
+    "region": "centralus"
+  }
+]

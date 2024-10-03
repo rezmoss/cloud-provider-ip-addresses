@@ -1,0 +1,50 @@
+[
+  {
+    "ip_address": "4.219.249.200/29",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.NorwayEast",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "4.219.249.208/29",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.NorwayEast",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "20.100.4.136/29",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.NorwayEast",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "20.100.4.180/30",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.NorwayEast",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "20.100.5.16/30",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.NorwayEast",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "20.100.129.0/28",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.NorwayEast",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "74.240.192.32/29",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.NorwayEast",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "2603:1061:2004:1000::/57",
+    "ip_type": "IPv6",
+    "service": "PowerPlatformPlex.NorwayEast",
+    "region": "norwaye"
+  }
+]

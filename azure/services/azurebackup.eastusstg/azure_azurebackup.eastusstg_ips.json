@@ -1,0 +1,50 @@
+[
+  {
+    "ip_address": "20.49.82.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.EastUSSTG",
+    "region": "usstagee"
+  },
+  {
+    "ip_address": "20.49.83.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.EastUSSTG",
+    "region": "usstagee"
+  },
+  {
+    "ip_address": "20.99.9.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.EastUSSTG",
+    "region": "usstagee"
+  },
+  {
+    "ip_address": "40.67.59.96/27",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.EastUSSTG",
+    "region": "usstagee"
+  },
+  {
+    "ip_address": "40.67.59.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.EastUSSTG",
+    "region": "usstagee"
+  },
+  {
+    "ip_address": "2603:1030:104:402::200/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.EastUSSTG",
+    "region": "usstagee"
+  },
+  {
+    "ip_address": "2603:1030:104:402::680/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.EastUSSTG",
+    "region": "usstagee"
+  },
+  {
+    "ip_address": "2603:1030:104:802::100/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.EastUSSTG",
+    "region": "usstagee"
+  }
+]

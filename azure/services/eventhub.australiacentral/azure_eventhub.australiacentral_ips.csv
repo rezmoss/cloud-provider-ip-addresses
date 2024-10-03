@@ -1,0 +1,8 @@
+ip_address,ip_type,service,region
+20.36.46.142/32,IPv4,EventHub.AustraliaCentral,australiacentral
+20.36.106.192/27,IPv4,EventHub.AustraliaCentral,australiacentral
+20.53.1.128/26,IPv4,EventHub.AustraliaCentral,australiacentral
+20.53.51.0/24,IPv4,EventHub.AustraliaCentral,australiacentral
+2603:1010:304::240/122,IPv6,EventHub.AustraliaCentral,australiacentral
+2603:1010:304:2::/120,IPv6,EventHub.AustraliaCentral,australiacentral
+2603:1010:304:402::1c0/123,IPv6,EventHub.AustraliaCentral,australiacentral

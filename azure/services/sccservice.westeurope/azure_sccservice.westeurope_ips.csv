@@ -1,0 +1,6 @@
+ip_address,ip_type,service,region
+40.74.56.205/32,IPv4,SCCservice.WestEurope,westeurope
+48.209.79.32/27,IPv4,SCCservice.WestEurope,westeurope
+52.178.17.16/28,IPv4,SCCservice.WestEurope,westeurope
+104.46.32.191/32,IPv4,SCCservice.WestEurope,westeurope
+2603:1020:206:12::440/123,IPv6,SCCservice.WestEurope,westeurope

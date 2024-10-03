@@ -1,0 +1,320 @@
+[
+  {
+    "ip_address": "20.40.106.50/31",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.40.107.84/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.90.9.64/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.81.120.13/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.81.120.24/31",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.81.120.97/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.81.120.187/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.81.120.191/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.81.120.192/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.81.121.66/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.81.121.76/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.81.121.78/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.81.121.107/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.81.121.108/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.81.121.111/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.81.121.127/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.81.121.135/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.81.121.140/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.81.121.175/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.81.122.4/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.81.122.62/31",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.81.122.76/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.81.122.203/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.81.123.124/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.81.123.157/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.81.124.185/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.81.124.219/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.81.127.25/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.81.127.139/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.81.127.140/31",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.81.127.229/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.81.127.230/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.81.127.239/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.136.13/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.136.14/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.136.34/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.137.69/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.137.118/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.137.121/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.137.200/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.137.237/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.140.212.128/27",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.140.230.246/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.140.231.138/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.141.2.189/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.141.7.11/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "172.186.6.144/31",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "172.186.6.160/27",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "172.186.6.192/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "172.186.7.192/28",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "172.187.37.0/25",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "172.187.40.0/24",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "172.187.41.0/25",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  }
+]

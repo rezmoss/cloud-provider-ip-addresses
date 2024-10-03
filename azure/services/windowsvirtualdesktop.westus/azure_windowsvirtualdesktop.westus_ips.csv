@@ -1,0 +1,8 @@
+ip_address,ip_type,service,region
+40.64.146.176/28,IPv4,WindowsVirtualDesktop.WestUS,westus
+104.40.21.35/32,IPv4,WindowsVirtualDesktop.WestUS,westus
+104.209.33.60/32,IPv4,WindowsVirtualDesktop.WestUS,westus
+137.135.43.30/32,IPv4,WindowsVirtualDesktop.WestUS,westus
+138.91.158.134/32,IPv4,WindowsVirtualDesktop.WestUS,westus
+157.56.160.89/32,IPv4,WindowsVirtualDesktop.WestUS,westus
+2603:1061:2010:1b::/117,IPv6,WindowsVirtualDesktop.WestUS,westus

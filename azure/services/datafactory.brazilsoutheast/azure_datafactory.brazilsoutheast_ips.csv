@@ -1,0 +1,6 @@
+ip_address,ip_type,service,region
+191.233.12.0/23,IPv4,DataFactory.BrazilSoutheast,brazilse
+191.233.54.224/28,IPv4,DataFactory.BrazilSoutheast,brazilse
+2603:1050:403::480/121,IPv6,DataFactory.BrazilSoutheast,brazilse
+2603:1050:403::500/122,IPv6,DataFactory.BrazilSoutheast,brazilse
+2603:1050:403:400::240/124,IPv6,DataFactory.BrazilSoutheast,brazilse

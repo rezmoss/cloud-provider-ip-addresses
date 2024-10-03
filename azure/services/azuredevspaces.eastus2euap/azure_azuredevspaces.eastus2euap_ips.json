@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "20.39.11.64/28",
+    "ip_type": "IPv4",
+    "service": "AzureDevSpaces.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "40.75.35.224/28",
+    "ip_type": "IPv4",
+    "service": "AzureDevSpaces.EastUS2EUAP",
+    "region": "eastus2euap"
+  }
+]

@@ -1,0 +1,13 @@
+ip_address,ip_type,service,region
+13.71.125.22/32,IPv4,AzureConnectors.SouthIndia,southindia
+13.71.127.26/32,IPv4,AzureConnectors.SouthIndia,southindia
+13.71.127.169/32,IPv4,AzureConnectors.SouthIndia,southindia
+20.192.152.64/27,IPv4,AzureConnectors.SouthIndia,southindia
+20.192.152.96/28,IPv4,AzureConnectors.SouthIndia,southindia
+20.192.184.32/27,IPv4,AzureConnectors.SouthIndia,southindia
+40.78.194.240/28,IPv4,AzureConnectors.SouthIndia,southindia
+52.172.80.0/26,IPv4,AzureConnectors.SouthIndia,southindia
+104.211.206.193/32,IPv4,AzureConnectors.SouthIndia,southindia
+104.211.208.168/32,IPv4,AzureConnectors.SouthIndia,southindia
+2603:1040:c06:6::1c0/122,IPv6,AzureConnectors.SouthIndia,southindia
+2603:1040:c06:402::180/122,IPv6,AzureConnectors.SouthIndia,southindia

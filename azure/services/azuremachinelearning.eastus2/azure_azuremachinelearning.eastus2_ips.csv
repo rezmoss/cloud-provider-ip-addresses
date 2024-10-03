@@ -1,0 +1,11 @@
+ip_address,ip_type,service,region
+20.41.0.240/28,IPv4,AzureMachineLearning.EastUS2,eastus2
+20.62.61.128/28,IPv4,AzureMachineLearning.EastUS2,eastus2
+20.98.195.64/27,IPv4,AzureMachineLearning.EastUS2,eastus2
+40.70.146.192/28,IPv4,AzureMachineLearning.EastUS2,eastus2
+40.70.154.161/32,IPv4,AzureMachineLearning.EastUS2,eastus2
+52.167.106.160/28,IPv4,AzureMachineLearning.EastUS2,eastus2
+52.177.164.219/32,IPv4,AzureMachineLearning.EastUS2,eastus2
+104.208.144.160/28,IPv4,AzureMachineLearning.EastUS2,eastus2
+2603:1030:40c:1::2c0/122,IPv6,AzureMachineLearning.EastUS2,eastus2
+2603:1030:40c:e::700/122,IPv6,AzureMachineLearning.EastUS2,eastus2

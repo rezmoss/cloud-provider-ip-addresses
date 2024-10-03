@@ -1,0 +1,12 @@
+ip_address,ip_type,service,region
+20.208.1.0/24,IPv4,AppService.SwitzerlandNorth,switzerlandn
+20.208.5.32/29,IPv4,AppService.SwitzerlandNorth,switzerlandn
+20.208.5.128/25,IPv4,AppService.SwitzerlandNorth,switzerlandn
+20.208.6.0/24,IPv4,AppService.SwitzerlandNorth,switzerlandn
+51.107.50.0/27,IPv4,AppService.SwitzerlandNorth,switzerlandn
+51.107.58.160/27,IPv4,AppService.SwitzerlandNorth,switzerlandn
+2603:1020:a04:3::100/120,IPv6,AppService.SwitzerlandNorth,switzerlandn
+2603:1020:a04:3::400/119,IPv6,AppService.SwitzerlandNorth,switzerlandn
+2603:1020:a04:402::a0/123,IPv6,AppService.SwitzerlandNorth,switzerlandn
+2603:1020:a04:802::a0/123,IPv6,AppService.SwitzerlandNorth,switzerlandn
+2603:1020:a04:c02::a0/123,IPv6,AppService.SwitzerlandNorth,switzerlandn

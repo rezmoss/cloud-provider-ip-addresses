@@ -1,0 +1,32 @@
+[
+  {
+    "ip_address": "20.189.172.152/29",
+    "ip_type": "IPv4",
+    "service": "StorageSyncService.WestUS",
+    "region": "westus"
+  },
+  {
+    "ip_address": "40.82.253.192/29",
+    "ip_type": "IPv4",
+    "service": "StorageSyncService.WestUS",
+    "region": "westus"
+  },
+  {
+    "ip_address": "40.112.150.67/32",
+    "ip_type": "IPv4",
+    "service": "StorageSyncService.WestUS",
+    "region": "westus"
+  },
+  {
+    "ip_address": "2603:1030:a07::340/123",
+    "ip_type": "IPv6",
+    "service": "StorageSyncService.WestUS",
+    "region": "westus"
+  },
+  {
+    "ip_address": "2603:1030:a07:402::b00/123",
+    "ip_type": "IPv6",
+    "service": "StorageSyncService.WestUS",
+    "region": "westus"
+  }
+]

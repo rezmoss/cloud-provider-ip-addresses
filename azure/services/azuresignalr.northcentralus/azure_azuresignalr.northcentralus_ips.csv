@@ -1,0 +1,3 @@
+ip_address,ip_type,service,region
+20.49.119.96/27,IPv4,AzureSignalR.NorthCentralUS,northcentralus
+2603:1030:608:1::700/120,IPv6,AzureSignalR.NorthCentralUS,northcentralus

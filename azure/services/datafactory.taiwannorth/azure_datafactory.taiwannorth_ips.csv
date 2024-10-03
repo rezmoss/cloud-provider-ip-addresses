@@ -1,0 +1,8 @@
+ip_address,ip_type,service,region
+51.53.40.176/28,IPv4,DataFactory.TaiwanNorth,taiwannorth
+51.53.40.192/26,IPv4,DataFactory.TaiwanNorth,taiwannorth
+51.53.48.0/25,IPv4,DataFactory.TaiwanNorth,taiwannorth
+51.53.96.0/23,IPv4,DataFactory.TaiwanNorth,taiwannorth
+51.53.110.64/28,IPv4,DataFactory.TaiwanNorth,taiwannorth
+2603:1040:1302:1::600/121,IPv6,DataFactory.TaiwanNorth,taiwannorth
+2603:1040:1302:400::3c0/124,IPv6,DataFactory.TaiwanNorth,taiwannorth

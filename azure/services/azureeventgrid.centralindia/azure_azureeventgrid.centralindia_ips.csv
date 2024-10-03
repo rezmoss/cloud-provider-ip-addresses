@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+13.71.56.240/28,IPv4,AzureEventGrid.CentralIndia,centralindia
+13.71.57.0/28,IPv4,AzureEventGrid.CentralIndia,centralindia
+52.140.106.0/25,IPv4,AzureEventGrid.CentralIndia,centralindia
+2603:1040:a06:1::380/121,IPv6,AzureEventGrid.CentralIndia,centralindia

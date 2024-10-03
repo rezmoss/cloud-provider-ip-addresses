@@ -1,0 +1,7 @@
+ip_address,ip_type,service,region
+4.251.224.184/29,IPv4,MicrosoftCloudAppSecurity.FranceSouth,southfrance
+4.251.231.56/31,IPv4,MicrosoftCloudAppSecurity.FranceSouth,southfrance
+4.251.231.80/28,IPv4,MicrosoftCloudAppSecurity.FranceSouth,southfrance
+4.251.231.96/27,IPv4,MicrosoftCloudAppSecurity.FranceSouth,southfrance
+20.111.79.110/31,IPv4,MicrosoftCloudAppSecurity.FranceSouth,southfrance
+40.79.180.64/27,IPv4,MicrosoftCloudAppSecurity.FranceSouth,southfrance

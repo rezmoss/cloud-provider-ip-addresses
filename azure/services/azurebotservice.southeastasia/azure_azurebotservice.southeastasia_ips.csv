@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+13.67.10.88/30,IPv4,AzureBotService.SoutheastAsia,southeastasia
+20.43.128.64/30,IPv4,AzureBotService.SoutheastAsia,southeastasia
+2603:1040:5:1::20/123,IPv6,AzureBotService.SoutheastAsia,southeastasia

@@ -1,0 +1,92 @@
+[
+  {
+    "ip_address": "20.50.211.192/32",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "20.50.212.99/32",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "20.50.212.103/32",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "20.50.212.140/32",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "20.50.213.6/32",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "20.50.213.76/32",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "20.50.213.88/32",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "20.50.213.93/32",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "20.50.213.94/32",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "20.50.213.120/32",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "20.61.98.144/29",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "20.61.99.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "57.153.238.96/27",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "172.211.126.88/29",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "2603:1020:206:10::118/126",
+    "ip_type": "IPv6",
+    "service": "AzureDigitalTwins.WestEurope",
+    "region": "westeurope"
+  }
+]

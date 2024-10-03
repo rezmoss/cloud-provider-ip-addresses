@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+65.52.108.31/32,IPv4,AzureDataLake.EastUS2,eastus2
+65.52.108.38/32,IPv4,AzureDataLake.EastUS2,eastus2
+104.44.88.106/31,IPv4,AzureDataLake.EastUS2,eastus2
+104.44.88.112/31,IPv4,AzureDataLake.EastUS2,eastus2

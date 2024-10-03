@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "13.78.108.172/30",
+    "ip_type": "IPv4",
+    "service": "AzureBotService.JapanEast",
+    "region": "japaneast"
+  },
+  {
+    "ip_address": "20.43.64.64/30",
+    "ip_type": "IPv4",
+    "service": "AzureBotService.JapanEast",
+    "region": "japaneast"
+  },
+  {
+    "ip_address": "2603:1040:407:1::20/123",
+    "ip_type": "IPv6",
+    "service": "AzureBotService.JapanEast",
+    "region": "japaneast"
+  }
+]

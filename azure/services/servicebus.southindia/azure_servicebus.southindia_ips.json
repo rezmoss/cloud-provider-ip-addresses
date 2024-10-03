@@ -1,0 +1,50 @@
+[
+  {
+    "ip_address": "13.71.114.157/32",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "13.71.123.92/32",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "20.207.222.0/25",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "40.78.194.16/28",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "52.172.118.128/25",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "2603:1040:c06::220/123",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "2603:1040:c06:1::500/120",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "2603:1040:c06:402::170/125",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.SouthIndia",
+    "region": "southindia"
+  }
+]

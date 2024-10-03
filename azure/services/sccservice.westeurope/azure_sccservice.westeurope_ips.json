@@ -1,0 +1,32 @@
+[
+  {
+    "ip_address": "40.74.56.205/32",
+    "ip_type": "IPv4",
+    "service": "SCCservice.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "48.209.79.32/27",
+    "ip_type": "IPv4",
+    "service": "SCCservice.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "52.178.17.16/28",
+    "ip_type": "IPv4",
+    "service": "SCCservice.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "104.46.32.191/32",
+    "ip_type": "IPv4",
+    "service": "SCCservice.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "2603:1020:206:12::440/123",
+    "ip_type": "IPv6",
+    "service": "SCCservice.WestEurope",
+    "region": "westeurope"
+  }
+]

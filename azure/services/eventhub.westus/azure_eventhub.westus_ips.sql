@@ -1,0 +1,35 @@
+-- SQL script to create table `azure_eventhub.westus_ips` and insert IP addresses
+
+CREATE TABLE IF NOT EXISTS `azure_eventhub.westus_ips` (
+  `ip_address` VARCHAR(45) NOT NULL,
+  `ip_type` VARCHAR(10) NOT NULL,
+  PRIMARY KEY (`ip_address`)
+);
+
+INSERT INTO `azure_eventhub.westus_ips` (`ip_address`, `ip_type`) VALUES ('13.64.195.117/32', 'IPv4');
+INSERT INTO `azure_eventhub.westus_ips` (`ip_address`, `ip_type`) VALUES ('13.88.20.117/32', 'IPv4');
+INSERT INTO `azure_eventhub.westus_ips` (`ip_address`, `ip_type`) VALUES ('13.88.26.28/32', 'IPv4');
+INSERT INTO `azure_eventhub.westus_ips` (`ip_address`, `ip_type`) VALUES ('13.91.61.11/32', 'IPv4');
+INSERT INTO `azure_eventhub.westus_ips` (`ip_address`, `ip_type`) VALUES ('20.66.7.0/24', 'IPv4');
+INSERT INTO `azure_eventhub.westus_ips` (`ip_address`, `ip_type`) VALUES ('20.168.163.64/26', 'IPv4');
+INSERT INTO `azure_eventhub.westus_ips` (`ip_address`, `ip_type`) VALUES ('23.99.7.105/32', 'IPv4');
+INSERT INTO `azure_eventhub.westus_ips` (`ip_address`, `ip_type`) VALUES ('23.99.54.235/32', 'IPv4');
+INSERT INTO `azure_eventhub.westus_ips` (`ip_address`, `ip_type`) VALUES ('23.99.60.253/32', 'IPv4');
+INSERT INTO `azure_eventhub.westus_ips` (`ip_address`, `ip_type`) VALUES ('23.99.80.186/32', 'IPv4');
+INSERT INTO `azure_eventhub.westus_ips` (`ip_address`, `ip_type`) VALUES ('40.78.110.196/32', 'IPv4');
+INSERT INTO `azure_eventhub.westus_ips` (`ip_address`, `ip_type`) VALUES ('40.83.191.202/32', 'IPv4');
+INSERT INTO `azure_eventhub.westus_ips` (`ip_address`, `ip_type`) VALUES ('40.83.222.100/32', 'IPv4');
+INSERT INTO `azure_eventhub.westus_ips` (`ip_address`, `ip_type`) VALUES ('40.86.176.23/32', 'IPv4');
+INSERT INTO `azure_eventhub.westus_ips` (`ip_address`, `ip_type`) VALUES ('40.112.213.11/32', 'IPv4');
+INSERT INTO `azure_eventhub.westus_ips` (`ip_address`, `ip_type`) VALUES ('40.112.242.0/25', 'IPv4');
+INSERT INTO `azure_eventhub.westus_ips` (`ip_address`, `ip_type`) VALUES ('104.40.26.199/32', 'IPv4');
+INSERT INTO `azure_eventhub.westus_ips` (`ip_address`, `ip_type`) VALUES ('104.40.29.113/32', 'IPv4');
+INSERT INTO `azure_eventhub.westus_ips` (`ip_address`, `ip_type`) VALUES ('104.40.68.250/32', 'IPv4');
+INSERT INTO `azure_eventhub.westus_ips` (`ip_address`, `ip_type`) VALUES ('104.40.69.64/32', 'IPv4');
+INSERT INTO `azure_eventhub.westus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:a07::240/122', 'IPv6');
+INSERT INTO `azure_eventhub.westus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:a07:1::600/120', 'IPv6');
+INSERT INTO `azure_eventhub.westus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:a07:4::750/125', 'IPv6');
+INSERT INTO `azure_eventhub.westus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:a07:4::758/126', 'IPv6');
+INSERT INTO `azure_eventhub.westus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:a07:4::760/123', 'IPv6');
+INSERT INTO `azure_eventhub.westus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:a07:b::/120', 'IPv6');
+INSERT INTO `azure_eventhub.westus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:a07:402::140/123', 'IPv6');

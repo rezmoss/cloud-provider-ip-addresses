@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+20.41.5.144/29,IPv4,StorageSyncService.EastUS2,eastus2
+40.123.47.110/32,IPv4,StorageSyncService.EastUS2,eastus2
+2603:1030:40c:1::300/123,IPv6,StorageSyncService.EastUS2,eastus2

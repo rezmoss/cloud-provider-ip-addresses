@@ -1,0 +1,44 @@
+[
+  {
+    "ip_address": "13.70.182.204/32",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  },
+  {
+    "ip_address": "13.70.182.210/32",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  },
+  {
+    "ip_address": "13.73.115.51/32",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  },
+  {
+    "ip_address": "13.77.53.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  },
+  {
+    "ip_address": "20.42.230.160/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  },
+  {
+    "ip_address": "20.42.231.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  },
+  {
+    "ip_address": "2603:1010:101:402::300/123",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  }
+]

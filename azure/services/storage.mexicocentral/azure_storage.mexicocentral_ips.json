@@ -1,0 +1,50 @@
+[
+  {
+    "ip_address": "20.33.130.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "20.33.179.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "20.60.96.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "20.60.110.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "20.157.241.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "20.209.122.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "20.209.222.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "2603:1030:704::/48",
+    "ip_type": "IPv6",
+    "service": "Storage.MexicoCentral",
+    "region": "mexicocentral"
+  }
+]

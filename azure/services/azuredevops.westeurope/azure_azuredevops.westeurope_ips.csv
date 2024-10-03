@@ -1,0 +1,2 @@
+ip_address,ip_type,service,region
+40.74.28.0/23,IPv4,AzureDevOps.WestEurope,westeurope

@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+20.43.42.8/29,IPv4,StorageSyncService.FranceCentral,centralfrance
+52.143.166.54/32,IPv4,StorageSyncService.FranceCentral,centralfrance
+2603:1020:805:1::300/123,IPv6,StorageSyncService.FranceCentral,centralfrance

@@ -1,0 +1,2 @@
+ip_address,ip_type,service,region
+20.189.107.0/24,IPv4,AzureDevOps.EastAsia,eastasia

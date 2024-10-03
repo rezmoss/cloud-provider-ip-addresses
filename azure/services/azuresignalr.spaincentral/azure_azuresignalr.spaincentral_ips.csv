@@ -1,0 +1,3 @@
+ip_address,ip_type,service,region
+68.221.110.128/26,IPv4,AzureSignalR.SpainCentral,spaincentral
+2603:1020:1403:3::6c0/122,IPv6,AzureSignalR.SpainCentral,spaincentral

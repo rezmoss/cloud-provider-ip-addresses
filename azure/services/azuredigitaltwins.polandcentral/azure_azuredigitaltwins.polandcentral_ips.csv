@@ -1,0 +1,3 @@
+ip_address,ip_type,service,region
+20.215.3.192/27,IPv4,AzureDigitalTwins.PolandCentral,polandcentral
+2603:1020:1302::580/121,IPv6,AzureDigitalTwins.PolandCentral,polandcentral

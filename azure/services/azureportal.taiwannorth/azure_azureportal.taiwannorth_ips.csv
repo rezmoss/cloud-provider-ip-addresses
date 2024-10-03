@@ -1,0 +1,3 @@
+ip_address,ip_type,service,region
+51.53.30.224/27,IPv4,AzurePortal.TaiwanNorth,taiwannorth
+2603:1040:1302:2::/121,IPv6,AzurePortal.TaiwanNorth,taiwannorth

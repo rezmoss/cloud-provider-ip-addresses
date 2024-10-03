@@ -1,0 +1,68 @@
+[
+  {
+    "ip_address": "13.70.79.218/31",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "20.37.192.70/31",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "20.70.223.160/29",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "40.79.167.30/31",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "40.79.173.54/31",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "68.218.139.32/28",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "68.218.139.48/29",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "2603:1010:6:1::200/123",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "2603:1010:6:402::160/125",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "2603:1010:6:802::140/125",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "2603:1010:6:c00::20/125",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.AustraliaEast",
+    "region": "australiaeast"
+  }
+]

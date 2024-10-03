@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "51.53.27.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.103.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302::1e0/123",
+    "ip_type": "IPv6",
+    "service": "AzureCosmosDB.TaiwanNorth",
+    "region": "taiwannorth"
+  }
+]

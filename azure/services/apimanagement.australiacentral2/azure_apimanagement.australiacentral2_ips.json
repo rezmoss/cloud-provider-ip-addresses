@@ -1,0 +1,38 @@
+[
+  {
+    "ip_address": "20.36.114.20/31",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.AustraliaCentral2",
+    "region": "australiacentral2"
+  },
+  {
+    "ip_address": "20.36.115.128/28",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.AustraliaCentral2",
+    "region": "australiacentral2"
+  },
+  {
+    "ip_address": "20.39.99.81/32",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.AustraliaCentral2",
+    "region": "australiacentral2"
+  },
+  {
+    "ip_address": "20.167.130.96/28",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.AustraliaCentral2",
+    "region": "australiacentral2"
+  },
+  {
+    "ip_address": "2603:1010:404:2::720/124",
+    "ip_type": "IPv6",
+    "service": "ApiManagement.AustraliaCentral2",
+    "region": "australiacentral2"
+  },
+  {
+    "ip_address": "2603:1010:404:402::140/124",
+    "ip_type": "IPv6",
+    "service": "ApiManagement.AustraliaCentral2",
+    "region": "australiacentral2"
+  }
+]

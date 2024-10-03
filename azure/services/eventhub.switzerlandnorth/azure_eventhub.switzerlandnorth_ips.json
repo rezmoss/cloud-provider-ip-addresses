@@ -1,0 +1,62 @@
+[
+  {
+    "ip_address": "20.208.19.64/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "51.103.203.64/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "51.107.58.128/27",
+    "ip_type": "IPv4",
+    "service": "EventHub.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "51.107.129.0/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "51.107.245.0/24",
+    "ip_type": "IPv4",
+    "service": "EventHub.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "2603:1020:a04:1::240/122",
+    "ip_type": "IPv6",
+    "service": "EventHub.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "2603:1020:a04:2::200/120",
+    "ip_type": "IPv6",
+    "service": "EventHub.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "2603:1020:a04:402::1c0/123",
+    "ip_type": "IPv6",
+    "service": "EventHub.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "2603:1020:a04:802::160/123",
+    "ip_type": "IPv6",
+    "service": "EventHub.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "2603:1020:a04:c02::160/123",
+    "ip_type": "IPv6",
+    "service": "EventHub.SwitzerlandNorth",
+    "region": "switzerlandn"
+  }
+]

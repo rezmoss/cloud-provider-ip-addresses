@@ -1,0 +1,140 @@
+[
+  {
+    "ip_address": "13.67.8.64/27",
+    "ip_type": "IPv4",
+    "service": "EventHub.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "13.67.20.64/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "13.76.179.223/32",
+    "ip_type": "IPv4",
+    "service": "EventHub.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "13.76.216.217/32",
+    "ip_type": "IPv4",
+    "service": "EventHub.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "20.195.81.0/24",
+    "ip_type": "IPv4",
+    "service": "EventHub.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "20.195.97.0/32",
+    "ip_type": "IPv4",
+    "service": "EventHub.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "23.98.64.92/32",
+    "ip_type": "IPv4",
+    "service": "EventHub.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "23.98.65.24/32",
+    "ip_type": "IPv4",
+    "service": "EventHub.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "23.98.82.64/27",
+    "ip_type": "IPv4",
+    "service": "EventHub.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "23.98.87.192/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "23.98.112.192/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "40.78.234.0/27",
+    "ip_type": "IPv4",
+    "service": "EventHub.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "52.187.2.226/32",
+    "ip_type": "IPv4",
+    "service": "EventHub.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "104.43.18.219/32",
+    "ip_type": "IPv4",
+    "service": "EventHub.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "137.116.157.26/32",
+    "ip_type": "IPv4",
+    "service": "EventHub.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "137.116.158.30/32",
+    "ip_type": "IPv4",
+    "service": "EventHub.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "207.46.227.14/32",
+    "ip_type": "IPv4",
+    "service": "EventHub.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "2603:1040:5:1::240/122",
+    "ip_type": "IPv6",
+    "service": "EventHub.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "2603:1040:5:3::780/121",
+    "ip_type": "IPv6",
+    "service": "EventHub.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "2603:1040:5:402::1c0/123",
+    "ip_type": "IPv6",
+    "service": "EventHub.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "2603:1040:5:802::160/123",
+    "ip_type": "IPv6",
+    "service": "EventHub.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "2603:1040:5:c02::160/123",
+    "ip_type": "IPv6",
+    "service": "EventHub.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "2603:10e1:100:2::14c3:6100/128",
+    "ip_type": "IPv6",
+    "service": "EventHub.SoutheastAsia",
+    "region": "southeastasia"
+  }
+]

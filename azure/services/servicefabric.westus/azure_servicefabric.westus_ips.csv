@@ -1,0 +1,10 @@
+ip_address,ip_type,service,region
+13.91.7.211/32,IPv4,ServiceFabric.WestUS,westus
+13.91.252.58/32,IPv4,ServiceFabric.WestUS,westus
+20.168.162.72/30,IPv4,ServiceFabric.WestUS,westus
+23.99.11.219/32,IPv4,ServiceFabric.WestUS,westus
+40.112.243.176/29,IPv4,ServiceFabric.WestUS,westus
+104.42.181.121/32,IPv4,ServiceFabric.WestUS,westus
+137.135.33.49/32,IPv4,ServiceFabric.WestUS,westus
+2603:1030:a07:402::98/125,IPv6,ServiceFabric.WestUS,westus
+2603:1030:a07:c00::50/125,IPv6,ServiceFabric.WestUS,westus

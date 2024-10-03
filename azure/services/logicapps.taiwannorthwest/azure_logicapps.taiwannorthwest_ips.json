@@ -1,0 +1,38 @@
+[
+  {
+    "ip_address": "51.53.191.80/28",
+    "ip_type": "IPv4",
+    "service": "LogicApps.TaiwanNorthwest",
+    "region": "taiwannorthwest"
+  },
+  {
+    "ip_address": "51.53.191.96/27",
+    "ip_type": "IPv4",
+    "service": "LogicApps.TaiwanNorthwest",
+    "region": "taiwannorthwest"
+  },
+  {
+    "ip_address": "167.105.144.112/28",
+    "ip_type": "IPv4",
+    "service": "LogicApps.TaiwanNorthwest",
+    "region": "taiwannorthwest"
+  },
+  {
+    "ip_address": "167.105.151.48/28",
+    "ip_type": "IPv4",
+    "service": "LogicApps.TaiwanNorthwest",
+    "region": "taiwannorthwest"
+  },
+  {
+    "ip_address": "2603:1040:1202:400::3d0/124",
+    "ip_type": "IPv6",
+    "service": "LogicApps.TaiwanNorthwest",
+    "region": "taiwannorthwest"
+  },
+  {
+    "ip_address": "2603:1040:1202:400::3e0/123",
+    "ip_type": "IPv6",
+    "service": "LogicApps.TaiwanNorthwest",
+    "region": "taiwannorthwest"
+  }
+]

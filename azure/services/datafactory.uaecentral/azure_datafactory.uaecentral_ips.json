@@ -1,0 +1,62 @@
+[
+  {
+    "ip_address": "20.37.68.144/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.UAECentral",
+    "region": "uaecentral"
+  },
+  {
+    "ip_address": "20.37.69.128/25",
+    "ip_type": "IPv4",
+    "service": "DataFactory.UAECentral",
+    "region": "uaecentral"
+  },
+  {
+    "ip_address": "20.37.70.0/26",
+    "ip_type": "IPv4",
+    "service": "DataFactory.UAECentral",
+    "region": "uaecentral"
+  },
+  {
+    "ip_address": "40.120.8.56/29",
+    "ip_type": "IPv4",
+    "service": "DataFactory.UAECentral",
+    "region": "uaecentral"
+  },
+  {
+    "ip_address": "40.120.9.192/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.UAECentral",
+    "region": "uaecentral"
+  },
+  {
+    "ip_address": "74.243.20.176/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.UAECentral",
+    "region": "uaecentral"
+  },
+  {
+    "ip_address": "2603:1040:b04::440/122",
+    "ip_type": "IPv6",
+    "service": "DataFactory.UAECentral",
+    "region": "uaecentral"
+  },
+  {
+    "ip_address": "2603:1040:b04::500/121",
+    "ip_type": "IPv6",
+    "service": "DataFactory.UAECentral",
+    "region": "uaecentral"
+  },
+  {
+    "ip_address": "2603:1040:b04:402::330/124",
+    "ip_type": "IPv6",
+    "service": "DataFactory.UAECentral",
+    "region": "uaecentral"
+  },
+  {
+    "ip_address": "2603:1040:b04:800::70/124",
+    "ip_type": "IPv6",
+    "service": "DataFactory.UAECentral",
+    "region": "uaecentral"
+  }
+]

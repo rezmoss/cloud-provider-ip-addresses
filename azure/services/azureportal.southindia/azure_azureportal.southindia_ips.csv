@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+20.41.193.224/27,IPv4,AzurePortal.SouthIndia,southindia
+20.41.197.16/30,IPv4,AzurePortal.SouthIndia,southindia
+52.172.112.152/29,IPv4,AzurePortal.SouthIndia,southindia
+2603:1040:c06::700/121,IPv6,AzurePortal.SouthIndia,southindia

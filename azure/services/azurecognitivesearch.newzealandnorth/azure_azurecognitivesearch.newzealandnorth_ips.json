@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "172.204.152.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureCognitiveSearch.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1010:502::100/121",
+    "ip_type": "IPv6",
+    "service": "AzureCognitiveSearch.NewZealandNorth",
+    "region": "newzealandnorth"
+  }
+]

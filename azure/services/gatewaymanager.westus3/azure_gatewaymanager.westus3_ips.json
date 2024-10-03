@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "20.150.160.64/29",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.WestUS3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "20.150.161.0/26",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.WestUS3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "20.150.171.64/29",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.WestUS3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "2603:1030:504:1::40/122",
+    "ip_type": "IPv6",
+    "service": "GatewayManager.WestUS3",
+    "region": "westus3"
+  }
+]

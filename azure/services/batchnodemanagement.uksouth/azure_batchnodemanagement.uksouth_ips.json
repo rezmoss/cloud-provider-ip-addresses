@@ -1,0 +1,50 @@
+[
+  {
+    "ip_address": "51.104.28.0/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "51.105.66.224/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "51.105.74.224/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "51.140.148.160/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "51.140.184.59/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "51.140.184.61/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "51.140.184.63/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "2603:1020:705:1::340/122",
+    "ip_type": "IPv6",
+    "service": "BatchNodeManagement.UKSouth",
+    "region": "uksouth"
+  }
+]

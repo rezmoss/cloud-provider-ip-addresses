@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "20.215.74.56/30",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "20.215.154.88/30",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "2603:1020:1302:2::5a0/126",
+    "ip_type": "IPv6",
+    "service": "ActionGroup.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "2603:1020:1302:400::180/125",
+    "ip_type": "IPv6",
+    "service": "ActionGroup.PolandCentral",
+    "region": "polandcentral"
+  }
+]

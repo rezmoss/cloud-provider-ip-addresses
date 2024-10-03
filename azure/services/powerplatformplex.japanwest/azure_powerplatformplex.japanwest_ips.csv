@@ -1,0 +1,10 @@
+ip_address,ip_type,service,region
+4.190.136.184/29,IPv4,PowerPlatformPlex.JapanWest,japanwest
+4.190.136.192/28,IPv4,PowerPlatformPlex.JapanWest,japanwest
+4.190.143.216/29,IPv4,PowerPlatformPlex.JapanWest,japanwest
+20.39.179.192/26,IPv4,PowerPlatformPlex.JapanWest,japanwest
+20.189.194.180/30,IPv4,PowerPlatformPlex.JapanWest,japanwest
+20.189.198.88/29,IPv4,PowerPlatformPlex.JapanWest,japanwest
+20.189.198.136/29,IPv4,PowerPlatformPlex.JapanWest,japanwest
+20.189.199.32/30,IPv4,PowerPlatformPlex.JapanWest,japanwest
+2603:1061:2004:3100::/57,IPv6,PowerPlatformPlex.JapanWest,japanwest

@@ -1,0 +1,80 @@
+[
+  {
+    "ip_address": "20.33.182.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "20.33.238.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "20.38.118.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "20.47.27.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "20.60.22.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "20.150.54.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "20.150.125.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "20.157.160.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "20.157.183.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "20.209.32.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "20.209.176.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "20.209.242.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "2603:1020:c05::/48",
+    "ip_type": "IPv6",
+    "service": "Storage.GermanyWestCentral",
+    "region": "germanywc"
+  }
+]

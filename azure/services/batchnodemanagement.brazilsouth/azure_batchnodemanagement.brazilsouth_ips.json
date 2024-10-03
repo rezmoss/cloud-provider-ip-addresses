@@ -1,0 +1,50 @@
+[
+  {
+    "ip_address": "23.97.97.29/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "104.41.2.182/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "191.232.37.60/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "191.233.204.96/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "191.234.147.96/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "191.234.155.96/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "191.235.227.192/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "2603:1050:6:1::340/122",
+    "ip_type": "IPv6",
+    "service": "BatchNodeManagement.BrazilSouth",
+    "region": "brazilsouth"
+  }
+]

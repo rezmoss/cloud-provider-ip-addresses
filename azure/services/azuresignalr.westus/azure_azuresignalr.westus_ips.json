@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "20.66.3.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureSignalR.WestUS",
+    "region": "westus"
+  },
+  {
+    "ip_address": "20.189.170.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureSignalR.WestUS",
+    "region": "westus"
+  },
+  {
+    "ip_address": "52.159.213.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureSignalR.WestUS",
+    "region": "westus"
+  },
+  {
+    "ip_address": "2603:1030:a07:1::700/120",
+    "ip_type": "IPv6",
+    "service": "AzureSignalR.WestUS",
+    "region": "westus"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "ip_address": "20.58.67.48/29",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.58.67.56/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.140.210.80/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605::104/126",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605::108/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605::2a0/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:402::80/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.UKWest",
+    "region": "ukwest"
+  }
+]

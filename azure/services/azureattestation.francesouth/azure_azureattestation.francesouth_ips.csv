@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+51.138.160.76/30,IPv4,AzureAttestation.FranceSouth,southfrance
+52.136.184.232/30,IPv4,AzureAttestation.FranceSouth,southfrance
+2603:1020:905:2::760/124,IPv6,AzureAttestation.FranceSouth,southfrance

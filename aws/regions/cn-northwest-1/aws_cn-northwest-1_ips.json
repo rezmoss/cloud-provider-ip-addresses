@@ -1,0 +1,998 @@
+[
+  {
+    "ip_address": "52.82.169.16/28",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "52.82.169.0/28",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "43.193.0.0/18",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "52.83.0.0/16",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "52.93.127.104/32",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "69.235.128.0/18",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "52.93.127.96/32",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "52.93.127.93/32",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "69.231.128.0/18",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "69.230.192.0/18",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "52.93.127.99/32",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "43.194.0.0/16",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "52.82.168.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "52.82.176.0/22",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "52.93.127.105/32",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "52.82.184.0/23",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "52.82.170.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "52.82.160.0/22",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "52.93.127.97/32",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "52.93.127.101/32",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "68.79.0.0/18",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "52.93.127.94/32",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "52.93.127.92/32",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "43.192.0.0/16",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "52.93.127.95/32",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "52.93.127.100/32",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "52.82.180.0/22",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "161.189.0.0/16",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "52.93.127.102/32",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "52.82.0.0/17",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "52.82.187.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "54.239.0.176/28",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "52.82.171.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "69.234.192.0/18",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "52.93.127.98/32",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "52.82.164.0/22",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "43.193.64.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "52.93.127.103/32",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "52.82.192.0/18",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "52.82.188.0/22",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "161.189.66.128/26",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "161.189.66.192/26",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "43.192.156.0/23",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "43.192.160.0/22",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "52.82.92.0/23",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "52.83.26.0/26",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "52.83.26.64/26",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "52.83.5.0/26",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "69.234.197.192/26",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "52.83.34.128/25",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "52.83.35.0/25",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "52.83.35.128/25",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "52.82.184.0/23",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "52.82.164.0/22",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "52.82.188.0/22",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "68.79.2.192/28",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "68.79.2.224/28",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "69.234.250.64/28",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "69.234.250.80/28",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "52.82.169.0/28",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "43.193.0.0/18",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "52.83.0.0/16",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "69.235.128.0/18",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "69.231.128.0/18",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "69.230.192.0/18",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "52.82.168.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "52.82.176.0/22",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "52.82.184.0/23",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "52.82.170.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "68.79.0.0/18",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "43.192.0.0/16",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "52.82.180.0/22",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "161.189.0.0/16",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "52.82.0.0/17",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "69.234.192.0/18",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "52.82.164.0/22",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "43.193.64.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "52.83.25.128/27",
+    "ip_type": "IPv4",
+    "service": "CLOUD9",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "52.83.25.160/27",
+    "ip_type": "IPv4",
+    "service": "CLOUD9",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "52.82.1.0/29",
+    "ip_type": "IPv4",
+    "service": "CODEBUILD",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "69.234.197.72/29",
+    "ip_type": "IPv4",
+    "service": "CODEBUILD",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "161.189.148.0/23",
+    "ip_type": "IPv4",
+    "service": "API_GATEWAY",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "52.82.127.0/24",
+    "ip_type": "IPv4",
+    "service": "API_GATEWAY",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "69.230.219.0/24",
+    "ip_type": "IPv4",
+    "service": "API_GATEWAY",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "69.235.170.0/23",
+    "ip_type": "IPv4",
+    "service": "API_GATEWAY",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "161.189.23.0/27",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_RESOLVER",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "161.189.23.32/27",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_RESOLVER",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "52.83.26.192/27",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_RESOLVER",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "52.83.26.224/27",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_RESOLVER",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "52.83.33.104/29",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_RESOLVER",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "52.83.33.112/29",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_RESOLVER",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "52.83.33.72/29",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_RESOLVER",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "52.83.33.80/29",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_RESOLVER",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "52.83.33.88/29",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_RESOLVER",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "52.83.33.96/29",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_RESOLVER",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "52.83.34.72/29",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_RESOLVER",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "52.83.34.80/29",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_RESOLVER",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "52.83.34.88/29",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_RESOLVER",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "52.83.34.96/27",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_RESOLVER",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "68.79.2.64/27",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_RESOLVER",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "69.230.226.0/24",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_RESOLVER",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "69.230.227.0/24",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_RESOLVER",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "69.230.228.0/24",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_RESOLVER",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "43.192.155.130/31",
+    "ip_type": "IPv4",
+    "service": "EBS",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "43.192.155.140/30",
+    "ip_type": "IPv4",
+    "service": "EBS",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "68.79.2.244/30",
+    "ip_type": "IPv4",
+    "service": "EBS",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "68.79.2.248/29",
+    "ip_type": "IPv4",
+    "service": "EBS",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "43.192.155.8/29",
+    "ip_type": "IPv4",
+    "service": "EC2_INSTANCE_CONNECT",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "43.192.144.0/22",
+    "ip_type": "IPv4",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "52.83.58.0/24",
+    "ip_type": "IPv4",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "69.235.162.0/24",
+    "ip_type": "IPv4",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "52.82.187.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "43.193.64.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "240f:80ff:4000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "240f:80f8:4000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "240f:80f9:4000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "2404:c2c0::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "2404:c2c0:2e80::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "2404:c2c0:2f00::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "2404:c2c0:c000::/36",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "2404:c2c0:4000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "2404:c2c0:200::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "2404:c2c0:2a00::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "2404:c2c0:2200::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "240f:8014::/36",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "240f:80a0:4000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "2404:c2c0:8000::/36",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "240f:80fa:4000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "2404:c2c0:3100::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "2404:c2c0:2800::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "2404:c2c0:2c00::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "240f:8000:4000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "2404:c2c0:2600::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "2404:c2c0:2100::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "240f:80fc:4000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "2400:6500:100:7200::/56",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "2404:c2c0:2400::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "240f:80fe:4000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "2404:c2c0:4000:100::/56",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "2404:c2c0:4000:200::/56",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "2404:c2c0:4000:300::/56",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "2404:c2c0:4000:400::/56",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "2404:c2c0:4000::/56",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "2404:c2c0:83cc:cc00::/56",
+    "ip_type": "IPv6",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "2404:c2c0:83cc:cd00::/56",
+    "ip_type": "IPv6",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "2404:c2c0:83cc:ce00::/56",
+    "ip_type": "IPv6",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "240f:80f8:4000::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "240f:80f9:4000::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "2404:c2c0:200::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "240f:80a0:4000::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "240f:80fa:4000::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "2404:c2c0:2800::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "2404:c2c0:2c00::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "2404:c2c0:2400::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "240f:80ff:4000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "2404:c2c0::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "2404:c2c0:2f00::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "2404:c2c0:c000::/36",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "2404:c2c0:4000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "2404:c2c0:2200::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "240f:8014::/36",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "2404:c2c0:8000::/36",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "2404:c2c0:3100::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "240f:8000:4000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "2404:c2c0:2100::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "2404:c2c0:87aa:4800::/56",
+    "ip_type": "IPv6",
+    "service": "EC2_INSTANCE_CONNECT",
+    "region": "cn-northwest-1"
+  }
+]

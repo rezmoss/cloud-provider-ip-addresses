@@ -1,0 +1,8 @@
+[
+  {
+    "ip_address": "20.39.13.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureDevOps.EastUS2EUAP",
+    "region": "eastus2euap"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "ip_address": "20.240.1.100/31",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "51.12.101.172/30",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "172.160.216.24/30",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "2603:1020:1004::130/126",
+    "ip_type": "IPv6",
+    "service": "ActionGroup.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "2603:1020:1004:800::f8/125",
+    "ip_type": "IPv6",
+    "service": "ActionGroup.SwedenCentral",
+    "region": "swedencentral"
+  }
+]

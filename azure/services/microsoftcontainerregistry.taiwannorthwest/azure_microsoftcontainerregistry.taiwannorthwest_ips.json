@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "51.53.186.64/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry.TaiwanNorthwest",
+    "region": "taiwannorthwest"
+  },
+  {
+    "ip_address": "2603:1040:1202:400::40/125",
+    "ip_type": "IPv6",
+    "service": "MicrosoftContainerRegistry.TaiwanNorthwest",
+    "region": "taiwannorthwest"
+  }
+]

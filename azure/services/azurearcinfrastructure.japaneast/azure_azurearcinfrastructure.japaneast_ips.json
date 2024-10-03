@@ -1,0 +1,50 @@
+[
+  {
+    "ip_address": "13.78.111.193/32",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.JapanEast",
+    "region": "japaneast"
+  },
+  {
+    "ip_address": "20.18.7.60/31",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.JapanEast",
+    "region": "japaneast"
+  },
+  {
+    "ip_address": "20.18.7.128/29",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.JapanEast",
+    "region": "japaneast"
+  },
+  {
+    "ip_address": "20.43.67.88/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.JapanEast",
+    "region": "japaneast"
+  },
+  {
+    "ip_address": "20.191.160.28/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.JapanEast",
+    "region": "japaneast"
+  },
+  {
+    "ip_address": "20.194.129.106/31",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.JapanEast",
+    "region": "japaneast"
+  },
+  {
+    "ip_address": "40.79.191.216/32",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.JapanEast",
+    "region": "japaneast"
+  },
+  {
+    "ip_address": "40.115.144.0/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.JapanEast",
+    "region": "japaneast"
+  }
+]

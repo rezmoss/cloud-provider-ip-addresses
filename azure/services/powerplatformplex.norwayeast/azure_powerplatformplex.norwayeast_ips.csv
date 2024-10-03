@@ -1,0 +1,9 @@
+ip_address,ip_type,service,region
+4.219.249.200/29,IPv4,PowerPlatformPlex.NorwayEast,norwaye
+4.219.249.208/29,IPv4,PowerPlatformPlex.NorwayEast,norwaye
+20.100.4.136/29,IPv4,PowerPlatformPlex.NorwayEast,norwaye
+20.100.4.180/30,IPv4,PowerPlatformPlex.NorwayEast,norwaye
+20.100.5.16/30,IPv4,PowerPlatformPlex.NorwayEast,norwaye
+20.100.129.0/28,IPv4,PowerPlatformPlex.NorwayEast,norwaye
+74.240.192.32/29,IPv4,PowerPlatformPlex.NorwayEast,norwaye
+2603:1061:2004:1000::/57,IPv6,PowerPlatformPlex.NorwayEast,norwaye

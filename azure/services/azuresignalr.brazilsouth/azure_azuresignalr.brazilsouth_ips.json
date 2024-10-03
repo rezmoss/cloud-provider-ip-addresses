@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "191.238.72.96/27",
+    "ip_type": "IPv4",
+    "service": "AzureSignalR.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "2603:1050:6:2::300/120",
+    "ip_type": "IPv6",
+    "service": "AzureSignalR.BrazilSouth",
+    "region": "brazilsouth"
+  }
+]

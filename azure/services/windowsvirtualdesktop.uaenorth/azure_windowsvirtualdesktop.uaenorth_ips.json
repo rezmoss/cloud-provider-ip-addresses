@@ -1,0 +1,56 @@
+[
+  {
+    "ip_address": "20.46.46.252/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.UAENorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "20.74.152.13/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.UAENorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "20.74.154.246/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.UAENorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "20.74.156.183/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.UAENorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "20.74.182.99/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.UAENorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "20.203.7.51/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.UAENorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "20.203.18.112/32",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.UAENorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "40.64.145.112/28",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.UAENorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "2603:1061:2010:22::/117",
+    "ip_type": "IPv6",
+    "service": "WindowsVirtualDesktop.UAENorth",
+    "region": "uaenorth"
+  }
+]

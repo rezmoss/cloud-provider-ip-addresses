@@ -1,0 +1,11 @@
+ip_address,ip_type,service,region
+20.36.106.0/26,IPv4,AzureCosmosDB.AustraliaCentral,australiacentral
+20.37.228.32/27,IPv4,AzureCosmosDB.AustraliaCentral,australiacentral
+20.38.185.29/32,IPv4,AzureCosmosDB.AustraliaCentral,australiacentral
+20.39.65.58/32,IPv4,AzureCosmosDB.AustraliaCentral,australiacentral
+20.39.65.140/32,IPv4,AzureCosmosDB.AustraliaCentral,australiacentral
+20.213.224.128/26,IPv4,AzureCosmosDB.AustraliaCentral,australiacentral
+20.213.225.192/26,IPv4,AzureCosmosDB.AustraliaCentral,australiacentral
+20.213.226.0/25,IPv4,AzureCosmosDB.AustraliaCentral,australiacentral
+2603:1010:304:2::4a0/123,IPv6,AzureCosmosDB.AustraliaCentral,australiacentral
+2603:1010:304:402::c0/122,IPv6,AzureCosmosDB.AustraliaCentral,australiacentral

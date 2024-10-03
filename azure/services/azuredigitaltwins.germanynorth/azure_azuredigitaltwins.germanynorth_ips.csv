@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+51.116.51.176/29,IPv4,AzureDigitalTwins.GermanyNorth,germanyn
+51.116.54.0/27,IPv4,AzureDigitalTwins.GermanyNorth,germanyn
+2603:1020:d04:2::680/121,IPv6,AzureDigitalTwins.GermanyNorth,germanyn

@@ -1,0 +1,1370 @@
+[
+  {
+    "ip_address": "172.204.177.28/30",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1010:502:400::80/125",
+    "ip_type": "IPv6",
+    "service": "ActionGroup.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.154.240/28",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1010:502::5a0/124",
+    "ip_type": "IPv6",
+    "service": "ApiManagement.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.161.0/24",
+    "ip_type": "IPv4",
+    "service": "AppService.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1010:502:1::700/120",
+    "ip_type": "IPv6",
+    "service": "AppService.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.166.0/26",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1010:502:2::240/122",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.165.72/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.177.160/32",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1010:502:2::130/124",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.152.20/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1010:502::5c0/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.156.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1010:502::680/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.152.16/30",
+    "ip_type": "IPv4",
+    "service": "AzureBotService.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1010:502::20/123",
+    "ip_type": "IPv6",
+    "service": "AzureBotService.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.152.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureCognitiveSearch.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1010:502::100/121",
+    "ip_type": "IPv6",
+    "service": "AzureCognitiveSearch.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.164.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.174.128/28",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1010:502:2::40/122",
+    "ip_type": "IPv6",
+    "service": "AzureConnectors.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.154.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.171.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.182.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.183.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.192.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.194.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.208.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.210.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1010:502::560/125",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1010:502:400::48/125",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1010:502:400::100/121",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1010:502:800::8/125",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1010:502:800::80/121",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1010:502:c00::8/125",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1010:502:c00::80/121",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.154.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1010:502::1e0/123",
+    "ip_type": "IPv6",
+    "service": "AzureCosmosDB.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.158.208/28",
+    "ip_type": "IPv4",
+    "service": "AzureDataExplorerManagement.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1010:502:1::240/123",
+    "ip_type": "IPv6",
+    "service": "AzureDataExplorerManagement.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.156.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1010:502::600/121",
+    "ip_type": "IPv6",
+    "service": "AzureDigitalTwins.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.153.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1010:502::280/121",
+    "ip_type": "IPv6",
+    "service": "AzureEventGrid.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.157.0/24",
+    "ip_type": "IPv4",
+    "service": "EventHub.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.183.0/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.192.128/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.208.128/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1010:502:1::/120",
+    "ip_type": "IPv6",
+    "service": "EventHub.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.183.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.192.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.208.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1010:502:400::c0/123",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1010:502:800::40/123",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1010:502:c00::40/123",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.160.32/29",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.182.132/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.192.12/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.208.12/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1010:502:1::228/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.153.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1010:502::200/122",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.165.124/30",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.166.72/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.166.224/31",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.167.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.182.144/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.182.192/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.195.0/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.195.16/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.211.0/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.211.16/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1010:501:8::10/127",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1010:502:2::4a0/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1010:502:2::600/122",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1010:502:2::640/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1010:502:2::680/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1010:502:2::700/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.166.192/27",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1010:502:2::580/121",
+    "ip_type": "IPv6",
+    "service": "AzurePortal.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.162.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1010:502:1::400/120",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.167.64/27",
+    "ip_type": "IPv4",
+    "service": "Sql.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.167.128/26",
+    "ip_type": "IPv4",
+    "service": "Sql.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.177.0/29",
+    "ip_type": "IPv4",
+    "service": "Sql.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.183.96/27",
+    "ip_type": "IPv4",
+    "service": "Sql.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.192.24/29",
+    "ip_type": "IPv4",
+    "service": "Sql.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.194.128/27",
+    "ip_type": "IPv4",
+    "service": "Sql.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.208.24/29",
+    "ip_type": "IPv4",
+    "service": "Sql.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.210.128/27",
+    "ip_type": "IPv4",
+    "service": "Sql.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1010:502:2::7a0/123",
+    "ip_type": "IPv6",
+    "service": "Sql.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1010:502:3::/121",
+    "ip_type": "IPv6",
+    "service": "Sql.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.158.0/25",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.182.136/29",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.182.208/28",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.192.16/29",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.192.32/28",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.208.16/29",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.208.32/28",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1010:502::780/121",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "20.33.190.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "20.33.196.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "20.60.115.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "20.60.116.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "20.209.246.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1010:503::/48",
+    "ip_type": "IPv6",
+    "service": "Storage.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.153.64/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1010:502::300/122",
+    "ip_type": "IPv6",
+    "service": "BatchNodeManagement.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.168.0/23",
+    "ip_type": "IPv4",
+    "service": "DataFactory.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.170.208/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.171.64/26",
+    "ip_type": "IPv4",
+    "service": "DataFactory.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.171.128/25",
+    "ip_type": "IPv4",
+    "service": "DataFactory.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.182.48/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.194.176/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.210.176/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1010:502:2::380/121",
+    "ip_type": "IPv6",
+    "service": "DataFactory.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1010:502:400::2c0/124",
+    "ip_type": "IPv6",
+    "service": "DataFactory.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1010:502:800::70/124",
+    "ip_type": "IPv6",
+    "service": "DataFactory.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1010:502:c00::70/124",
+    "ip_type": "IPv6",
+    "service": "DataFactory.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.152.64/26",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1010:502::40/122",
+    "ip_type": "IPv6",
+    "service": "GatewayManager.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.160.24/29",
+    "ip_type": "IPv4",
+    "service": "HDInsight.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1010:502:1::2f0/124",
+    "ip_type": "IPv6",
+    "service": "HDInsight.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.174.0/28",
+    "ip_type": "IPv4",
+    "service": "LogicApps.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.177.176/28",
+    "ip_type": "IPv4",
+    "service": "LogicApps.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.182.160/27",
+    "ip_type": "IPv4",
+    "service": "LogicApps.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1010:502:400::2d0/124",
+    "ip_type": "IPv6",
+    "service": "LogicApps.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1010:502:400::2e0/123",
+    "ip_type": "IPv6",
+    "service": "LogicApps.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.182.152/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.192.0/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.208.0/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1010:502:400::40/125",
+    "ip_type": "IPv6",
+    "service": "MicrosoftContainerRegistry.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1010:502:800::/125",
+    "ip_type": "IPv6",
+    "service": "MicrosoftContainerRegistry.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1010:502:c00::/125",
+    "ip_type": "IPv6",
+    "service": "MicrosoftContainerRegistry.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.152.40/29",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.172.24/29",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.174.16/28",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1010:502::1c0/123",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.182.128/30",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.192.8/30",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.208.8/30",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1010:502:400::58/125",
+    "ip_type": "IPv6",
+    "service": "ServiceFabric.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1010:502:800::10/125",
+    "ip_type": "IPv6",
+    "service": "ServiceFabric.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1010:502:c00::10/125",
+    "ip_type": "IPv6",
+    "service": "ServiceFabric.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.177.56/29",
+    "ip_type": "IPv4",
+    "service": "StorageSyncService.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1010:502:400::180/123",
+    "ip_type": "IPv6",
+    "service": "StorageSyncService.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "40.64.144.152/29",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1061:2010:39::/117",
+    "ip_type": "IPv6",
+    "service": "WindowsVirtualDesktop.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "20.20.40.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "20.33.190.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "20.33.196.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "20.38.26.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "20.60.115.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "20.60.116.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "20.143.56.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "20.143.60.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "20.157.205.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "20.209.246.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "20.231.137.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "40.64.144.152/29",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "40.64.188.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "40.93.141.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "40.100.26.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "40.100.26.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "40.100.68.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "40.100.69.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "40.107.4.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "40.107.10.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "40.120.172.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "40.120.172.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "40.120.172.160/29",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "40.120.172.168/31",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "51.5.59.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "51.5.63.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "52.101.234.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "52.102.205.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "52.103.77.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "52.103.205.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "52.108.127.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "52.108.151.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "52.109.84.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "52.111.196.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "52.113.6.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "52.123.58.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "52.123.204.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "52.253.210.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "52.253.212.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "70.152.211.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.0.0/16",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "209.199.17.112/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "209.199.18.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "209.199.19.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "209.199.19.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "209.199.19.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "209.199.20.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1010:501::/48",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1010:502::/47",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1010:504::/48",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1016:1400:80::/59",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1017:0:80::/59",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1046:a00:16::/63",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1046:a00:18::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1046:a00:59::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1046:a00:5a::/63",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1061:100e::/58",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1061:100e:40::/61",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1061:100e:48::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1061:1314:1000::/54",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1061:1739::/48",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1061:2010:39::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1061:2011:39::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1063:4a::/55",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1063:133::/55",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1063:133:200::/56",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1063:234::/56",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1063:431::/56",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1063:630::/56",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1063:2202:48::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1063:2202:68::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2a01:111:f403:c412::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2a01:111:f403:cc3d::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2a01:111:f403:cc3e::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2a01:111:f403:cc42::/63",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2a01:111:f403:cc44::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2a01:111:f403:d412::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2a01:111:f403:dc12::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2a01:111:f403:e412::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  }
+]

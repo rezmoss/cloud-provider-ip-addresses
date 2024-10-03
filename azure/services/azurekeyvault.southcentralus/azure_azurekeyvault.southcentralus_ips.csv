@@ -1,0 +1,15 @@
+ip_address,ip_type,service,region
+20.45.123.240/30,IPv4,AzureKeyVault.SouthCentralUS,southcentralus
+20.45.123.252/30,IPv4,AzureKeyVault.SouthCentralUS,southcentralus
+20.49.90.0/30,IPv4,AzureKeyVault.SouthCentralUS,southcentralus
+20.49.91.232/30,IPv4,AzureKeyVault.SouthCentralUS,southcentralus
+20.65.134.48/28,IPv4,AzureKeyVault.SouthCentralUS,southcentralus
+20.65.134.64/29,IPv4,AzureKeyVault.SouthCentralUS,southcentralus
+40.124.64.128/30,IPv4,AzureKeyVault.SouthCentralUS,southcentralus
+104.214.18.168/30,IPv4,AzureKeyVault.SouthCentralUS,southcentralus
+2603:1030:807::340/125,IPv6,AzureKeyVault.SouthCentralUS,southcentralus
+2603:1030:807:1::108/125,IPv6,AzureKeyVault.SouthCentralUS,southcentralus
+2603:1030:807:1::110/124,IPv6,AzureKeyVault.SouthCentralUS,southcentralus
+2603:1030:807:402::80/125,IPv6,AzureKeyVault.SouthCentralUS,southcentralus
+2603:1030:807:802::80/125,IPv6,AzureKeyVault.SouthCentralUS,southcentralus
+2603:1030:807:c02::80/125,IPv6,AzureKeyVault.SouthCentralUS,southcentralus

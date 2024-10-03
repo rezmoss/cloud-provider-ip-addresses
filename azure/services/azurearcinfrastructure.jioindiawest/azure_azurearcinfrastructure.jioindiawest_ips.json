@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "20.192.164.176/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "20.193.160.230/32",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "20.244.194.6/31",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "20.244.194.8/29",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.JioIndiaWest",
+    "region": "jioindiawest"
+  }
+]

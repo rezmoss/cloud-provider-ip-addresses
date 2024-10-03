@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+20.45.240.64/28,IPv4,AzureMachineLearning.CentralUSEUAP,centraluseuap
+20.46.13.192/28,IPv4,AzureMachineLearning.CentralUSEUAP,centraluseuap
+40.78.202.80/28,IPv4,AzureMachineLearning.CentralUSEUAP,centraluseuap
+2603:1030:f:1::300/122,IPv6,AzureMachineLearning.CentralUSEUAP,centraluseuap

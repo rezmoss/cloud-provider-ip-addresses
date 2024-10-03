@@ -1,0 +1,7 @@
+ip_address,ip_type,service,region
+13.71.194.120/29,IPv4,MicrosoftContainerRegistry.WestCentralUS,westcentralus
+57.151.152.0/29,IPv4,MicrosoftContainerRegistry.WestCentralUS,westcentralus
+172.215.202.0/29,IPv4,MicrosoftContainerRegistry.WestCentralUS,westcentralus
+2603:1030:b04:402::88/125,IPv6,MicrosoftContainerRegistry.WestCentralUS,westcentralus
+2603:1030:b04:800::/125,IPv6,MicrosoftContainerRegistry.WestCentralUS,westcentralus
+2603:1030:b04:c00::/125,IPv6,MicrosoftContainerRegistry.WestCentralUS,westcentralus

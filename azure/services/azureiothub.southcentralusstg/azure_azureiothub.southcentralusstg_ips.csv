@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+20.44.4.128/27,IPv4,AzureIoTHub.SouthCentralUSSTG,usstagec
+20.45.114.224/27,IPv4,AzureIoTHub.SouthCentralUSSTG,usstagec
+20.45.115.0/25,IPv4,AzureIoTHub.SouthCentralUSSTG,usstagec

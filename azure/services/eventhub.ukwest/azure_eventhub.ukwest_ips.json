@@ -1,0 +1,56 @@
+[
+  {
+    "ip_address": "20.58.69.0/24",
+    "ip_type": "IPv4",
+    "service": "EventHub.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.11.98.192/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.140.210.32/27",
+    "ip_type": "IPv4",
+    "service": "EventHub.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.141.14.113/32",
+    "ip_type": "IPv4",
+    "service": "EventHub.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.141.14.168/32",
+    "ip_type": "IPv4",
+    "service": "EventHub.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.141.50.179/32",
+    "ip_type": "IPv4",
+    "service": "EventHub.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605::240/122",
+    "ip_type": "IPv6",
+    "service": "EventHub.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:2::/120",
+    "ip_type": "IPv6",
+    "service": "EventHub.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:402::1c0/123",
+    "ip_type": "IPv6",
+    "service": "EventHub.UKWest",
+    "region": "ukwest"
+  }
+]

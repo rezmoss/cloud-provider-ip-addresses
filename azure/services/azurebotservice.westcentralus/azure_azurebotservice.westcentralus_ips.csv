@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+13.71.196.160/30,IPv4,AzureBotService.WestCentralUS,westcentralus
+52.150.136.64/30,IPv4,AzureBotService.WestCentralUS,westcentralus
+2603:1030:b04::20/123,IPv6,AzureBotService.WestCentralUS,westcentralus
