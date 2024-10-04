@@ -65,6 +65,7 @@ INSERT INTO `aws_eu-central-1_ips` (`ip_address`, `ip_type`) VALUES ('15.230.15.
 INSERT INTO `aws_eu-central-1_ips` (`ip_address`, `ip_type`) VALUES ('150.222.5.0/24', 'IPv4');
 INSERT INTO `aws_eu-central-1_ips` (`ip_address`, `ip_type`) VALUES ('15.230.15.150/31', 'IPv4');
 INSERT INTO `aws_eu-central-1_ips` (`ip_address`, `ip_type`) VALUES ('52.58.0.0/15', 'IPv4');
+INSERT INTO `aws_eu-central-1_ips` (`ip_address`, `ip_type`) VALUES ('3.4.12.34/32', 'IPv4');
 INSERT INTO `aws_eu-central-1_ips` (`ip_address`, `ip_type`) VALUES ('15.230.15.74/31', 'IPv4');
 INSERT INTO `aws_eu-central-1_ips` (`ip_address`, `ip_type`) VALUES ('15.220.48.0/21', 'IPv4');
 INSERT INTO `aws_eu-central-1_ips` (`ip_address`, `ip_type`) VALUES ('15.230.15.8/32', 'IPv4');
@@ -130,6 +131,7 @@ INSERT INTO `aws_eu-central-1_ips` (`ip_address`, `ip_type`) VALUES ('15.230.15.
 INSERT INTO `aws_eu-central-1_ips` (`ip_address`, `ip_type`) VALUES ('150.222.139.124/30', 'IPv4');
 INSERT INTO `aws_eu-central-1_ips` (`ip_address`, `ip_type`) VALUES ('15.230.15.154/31', 'IPv4');
 INSERT INTO `aws_eu-central-1_ips` (`ip_address`, `ip_type`) VALUES ('52.93.127.237/32', 'IPv4');
+INSERT INTO `aws_eu-central-1_ips` (`ip_address`, `ip_type`) VALUES ('3.4.12.33/32', 'IPv4');
 INSERT INTO `aws_eu-central-1_ips` (`ip_address`, `ip_type`) VALUES ('3.64.0.0/12', 'IPv4');
 INSERT INTO `aws_eu-central-1_ips` (`ip_address`, `ip_type`) VALUES ('15.230.15.108/31', 'IPv4');
 INSERT INTO `aws_eu-central-1_ips` (`ip_address`, `ip_type`) VALUES ('151.148.35.0/24', 'IPv4');
@@ -248,6 +250,7 @@ INSERT INTO `aws_eu-central-1_ips` (`ip_address`, `ip_type`) VALUES ('52.93.23.0
 INSERT INTO `aws_eu-central-1_ips` (`ip_address`, `ip_type`) VALUES ('99.83.103.0/24', 'IPv4');
 INSERT INTO `aws_eu-central-1_ips` (`ip_address`, `ip_type`) VALUES ('15.230.15.34/31', 'IPv4');
 INSERT INTO `aws_eu-central-1_ips` (`ip_address`, `ip_type`) VALUES ('15.230.15.144/31', 'IPv4');
+INSERT INTO `aws_eu-central-1_ips` (`ip_address`, `ip_type`) VALUES ('3.4.15.80/29', 'IPv4');
 INSERT INTO `aws_eu-central-1_ips` (`ip_address`, `ip_type`) VALUES ('52.93.126.134/32', 'IPv4');
 INSERT INTO `aws_eu-central-1_ips` (`ip_address`, `ip_type`) VALUES ('35.71.105.0/24', 'IPv4');
 INSERT INTO `aws_eu-central-1_ips` (`ip_address`, `ip_type`) VALUES ('52.28.0.0/16', 'IPv4');

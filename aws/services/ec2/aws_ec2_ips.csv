@@ -390,6 +390,7 @@ ip_address,ip_type,service,region
 13.214.0.0/15,IPv4,EC2,ap-southeast-1
 15.177.77.0/24,IPv4,EC2,ap-northeast-3
 15.177.90.0/24,IPv4,EC2,eu-south-1
+16.15.8.0/22,IPv4,EC2,ap-southeast-6
 16.26.0.0/16,IPv4,EC2,ap-southeast-4
 43.216.0.0/15,IPv4,EC2,ap-southeast-5
 54.180.0.0/15,IPv4,EC2,ap-northeast-2

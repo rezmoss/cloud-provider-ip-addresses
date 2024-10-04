@@ -75,6 +75,7 @@ ip_address,ip_type,service,region
 3.5.48.0/22,IPv4,S3,me-central-1
 52.95.140.0/23,IPv4,S3,eu-central-2
 16.12.71.0/24,IPv4,S3,mx-central-1
+16.15.8.0/22,IPv4,S3,ap-southeast-6
 52.95.156.0/24,IPv4,S3,eu-west-3
 16.12.2.0/24,IPv4,S3,sa-east-1
 52.95.160.0/23,IPv4,S3,ap-east-1

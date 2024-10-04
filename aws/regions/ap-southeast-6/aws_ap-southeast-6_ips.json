@@ -12,6 +12,12 @@
     "region": "ap-southeast-6"
   },
   {
+    "ip_address": "16.15.8.0/22",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-southeast-6"
+  },
+  {
     "ip_address": "16.12.81.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -48,6 +54,12 @@
     "region": "ap-southeast-6"
   },
   {
+    "ip_address": "16.15.8.0/22",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "ap-southeast-6"
+  },
+  {
     "ip_address": "16.12.81.0/24",
     "ip_type": "IPv4",
     "service": "S3",
@@ -57,6 +69,12 @@
     "ip_address": "16.12.82.0/23",
     "ip_type": "IPv4",
     "service": "S3",
+    "region": "ap-southeast-6"
+  },
+  {
+    "ip_address": "16.15.8.0/22",
+    "ip_type": "IPv4",
+    "service": "EC2",
     "region": "ap-southeast-6"
   },
   {
