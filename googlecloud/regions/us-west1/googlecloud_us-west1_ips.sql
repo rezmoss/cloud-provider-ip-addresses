@@ -6,6 +6,7 @@ CREATE TABLE IF NOT EXISTS `googlecloud_us-west1_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `googlecloud_us-west1_ips` (`ip_address`, `ip_type`) VALUES ('34.11.128.0/17', 'IPv4');
 INSERT INTO `googlecloud_us-west1_ips` (`ip_address`, `ip_type`) VALUES ('34.19.0.0/17', 'IPv4');
 INSERT INTO `googlecloud_us-west1_ips` (`ip_address`, `ip_type`) VALUES ('34.53.0.0/17', 'IPv4');
 INSERT INTO `googlecloud_us-west1_ips` (`ip_address`, `ip_type`) VALUES ('34.82.0.0/15', 'IPv4');
@@ -16,6 +17,7 @@ INSERT INTO `googlecloud_us-west1_ips` (`ip_address`, `ip_type`) VALUES ('34.145
 INSERT INTO `googlecloud_us-west1_ips` (`ip_address`, `ip_type`) VALUES ('34.157.112.0/21', 'IPv4');
 INSERT INTO `googlecloud_us-west1_ips` (`ip_address`, `ip_type`) VALUES ('34.157.240.0/21', 'IPv4');
 INSERT INTO `googlecloud_us-west1_ips` (`ip_address`, `ip_type`) VALUES ('34.168.0.0/15', 'IPv4');
+INSERT INTO `googlecloud_us-west1_ips` (`ip_address`, `ip_type`) VALUES ('34.182.0.0/17', 'IPv4');
 INSERT INTO `googlecloud_us-west1_ips` (`ip_address`, `ip_type`) VALUES ('35.185.192.0/18', 'IPv4');
 INSERT INTO `googlecloud_us-west1_ips` (`ip_address`, `ip_type`) VALUES ('35.197.0.0/17', 'IPv4');
 INSERT INTO `googlecloud_us-west1_ips` (`ip_address`, `ip_type`) VALUES ('35.199.144.0/20', 'IPv4');

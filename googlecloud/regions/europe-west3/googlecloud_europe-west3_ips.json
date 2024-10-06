@@ -72,6 +72,18 @@
     "region": "europe-west3"
   },
   {
+    "ip_address": "34.179.0.0/16",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "europe-west3"
+  },
+  {
+    "ip_address": "34.181.0.0/17",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "europe-west3"
+  },
+  {
     "ip_address": "35.198.64.0/18",
     "ip_type": "IPv4",
     "service": "Google Cloud",

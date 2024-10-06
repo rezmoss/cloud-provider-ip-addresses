@@ -5,6 +5,7 @@ ip_address,ip_type,service,region
 34.73.0.0/16,IPv4,Google Cloud,us-east1
 34.74.0.0/15,IPv4,Google Cloud,us-east1
 34.98.128.0/21,IPv4,Google Cloud,us-east1
+34.112.0.0/16,IPv4,Google Cloud,us-east1
 34.118.250.0/23,IPv4,Google Cloud,us-east1
 34.138.0.0/15,IPv4,Google Cloud,us-east1
 34.148.0.0/16,IPv4,Google Cloud,us-east1

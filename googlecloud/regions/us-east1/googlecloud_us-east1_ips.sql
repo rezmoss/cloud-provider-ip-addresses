@@ -12,6 +12,7 @@ INSERT INTO `googlecloud_us-east1_ips` (`ip_address`, `ip_type`) VALUES ('34.26.
 INSERT INTO `googlecloud_us-east1_ips` (`ip_address`, `ip_type`) VALUES ('34.73.0.0/16', 'IPv4');
 INSERT INTO `googlecloud_us-east1_ips` (`ip_address`, `ip_type`) VALUES ('34.74.0.0/15', 'IPv4');
 INSERT INTO `googlecloud_us-east1_ips` (`ip_address`, `ip_type`) VALUES ('34.98.128.0/21', 'IPv4');
+INSERT INTO `googlecloud_us-east1_ips` (`ip_address`, `ip_type`) VALUES ('34.112.0.0/16', 'IPv4');
 INSERT INTO `googlecloud_us-east1_ips` (`ip_address`, `ip_type`) VALUES ('34.118.250.0/23', 'IPv4');
 INSERT INTO `googlecloud_us-east1_ips` (`ip_address`, `ip_type`) VALUES ('34.138.0.0/15', 'IPv4');
 INSERT INTO `googlecloud_us-east1_ips` (`ip_address`, `ip_type`) VALUES ('34.148.0.0/16', 'IPv4');

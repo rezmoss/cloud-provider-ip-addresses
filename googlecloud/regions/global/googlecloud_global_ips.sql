@@ -6,6 +6,7 @@ CREATE TABLE IF NOT EXISTS `googlecloud_global_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `googlecloud_global_ips` (`ip_address`, `ip_type`) VALUES ('34.8.0.0/16', 'IPv4');
 INSERT INTO `googlecloud_global_ips` (`ip_address`, `ip_type`) VALUES ('34.36.0.0/16', 'IPv4');
 INSERT INTO `googlecloud_global_ips` (`ip_address`, `ip_type`) VALUES ('34.49.0.0/16', 'IPv4');
 INSERT INTO `googlecloud_global_ips` (`ip_address`, `ip_type`) VALUES ('34.54.0.0/16', 'IPv4');

@@ -1,4 +1,5 @@
 ip_address,ip_type,service,region
+34.8.0.0/16,IPv4,Google Cloud,global
 34.36.0.0/16,IPv4,Google Cloud,global
 34.49.0.0/16,IPv4,Google Cloud,global
 34.54.0.0/16,IPv4,Google Cloud,global

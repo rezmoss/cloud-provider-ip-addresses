@@ -2368,6 +2368,7 @@ ip_address,ip_type,service,region
 52.93.127.94/32,IPv4,AMAZON,cn-northwest-1
 52.93.127.200/32,IPv4,AMAZON,us-east-1
 52.94.152.183/32,IPv4,AMAZON,ap-southeast-2
+52.94.250.144/28,IPv4,AMAZON,ap-southeast-6
 52.95.255.96/28,IPv4,AMAZON,us-west-1
 56.70.0.0/16,IPv4,AMAZON,ap-southeast-5
 56.115.0.0/16,IPv4,AMAZON,ca-west-1

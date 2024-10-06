@@ -36,6 +36,12 @@
     "region": "us-east1"
   },
   {
+    "ip_address": "34.112.0.0/16",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "us-east1"
+  },
+  {
     "ip_address": "34.118.250.0/23",
     "ip_type": "IPv4",
     "service": "Google Cloud",
