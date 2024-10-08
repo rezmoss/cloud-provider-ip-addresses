@@ -8328,6 +8328,12 @@
     "region": "eu-central-2"
   },
   {
+    "ip_address": "2406:da00:2800::/64",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-southeast-6"
+  },
+  {
     "ip_address": "2600:1f27:4000::/36",
     "ip_type": "IPv6",
     "service": "EC2",
