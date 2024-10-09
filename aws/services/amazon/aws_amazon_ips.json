@@ -34644,6 +34644,12 @@
     "region": "eu-south-2"
   },
   {
+    "ip_address": "2400:6500:0:7f00::/56",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-southeast-6"
+  },
+  {
     "ip_address": "2600:1f18:8000::/36",
     "ip_type": "IPv6",
     "service": "AMAZON",
