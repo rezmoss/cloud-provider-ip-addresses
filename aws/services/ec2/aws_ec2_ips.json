@@ -10944,6 +10944,12 @@
     "region": "eu-central-1"
   },
   {
+    "ip_address": "2600:f0f0:4000::/48",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-west-2"
+  },
+  {
     "ip_address": "2605:9cc0:1ff0:4000::/54",
     "ip_type": "IPv6",
     "service": "EC2",
