@@ -60,12 +60,6 @@
     "region": "ap-east-1"
   },
   {
-    "ip_address": "54.46.0.0/15",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "ap-east-1"
-  },
-  {
     "ip_address": "43.249.47.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -145,6 +139,12 @@
   },
   {
     "ip_address": "54.240.241.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-east-1"
+  },
+  {
+    "ip_address": "54.46.0.0/17",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "ap-east-1"
@@ -415,6 +415,12 @@
   },
   {
     "ip_address": "99.77.241.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "ap-east-1"
+  },
+  {
+    "ip_address": "54.46.0.0/17",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "ap-east-1"
