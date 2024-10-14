@@ -1320,6 +1320,12 @@
     "region": "europe-west1"
   },
   {
+    "ip_address": "34.14.0.0/17",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "europe-west1"
+  },
+  {
     "ip_address": "34.22.112.0/20",
     "ip_type": "IPv4",
     "service": "Google Cloud",
@@ -2845,6 +2851,12 @@
   },
   {
     "ip_address": "34.10.0.0/16",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "us-central1"
+  },
+  {
+    "ip_address": "34.13.68.0/22",
     "ip_type": "IPv4",
     "service": "Google Cloud",
     "region": "us-central1"
