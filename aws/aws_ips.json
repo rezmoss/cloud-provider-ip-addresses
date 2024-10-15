@@ -8034,6 +8034,12 @@
     "region": "ca-central-1"
   },
   {
+    "ip_address": "15.221.176.0/20",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "15.230.39.92/31",
     "ip_type": "IPv4",
     "service": "AMAZON",
