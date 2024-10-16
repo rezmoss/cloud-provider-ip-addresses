@@ -1,7 +1,0 @@
-ip_address,ip_type,service,region
-40.64.147.16/28,IPv4,WindowsVirtualDesktop.KoreaSouth,koreasouth
-52.231.155.130/32,IPv4,WindowsVirtualDesktop.KoreaSouth,koreasouth
-52.231.156.19/32,IPv4,WindowsVirtualDesktop.KoreaSouth,koreasouth
-52.231.195.7/32,IPv4,WindowsVirtualDesktop.KoreaSouth,koreasouth
-52.231.206.162/32,IPv4,WindowsVirtualDesktop.KoreaSouth,koreasouth
-2603:1061:2010:10::/117,IPv6,WindowsVirtualDesktop.KoreaSouth,koreasouth

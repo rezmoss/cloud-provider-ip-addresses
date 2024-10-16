@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-51.107.192.192/27,IPv4,AzureSignalR.SwitzerlandWest,switzerlandw
-51.107.250.192/27,IPv4,AzureSignalR.SwitzerlandWest,switzerlandw
-2603:1020:b04:2::100/120,IPv6,AzureSignalR.SwitzerlandWest,switzerlandw

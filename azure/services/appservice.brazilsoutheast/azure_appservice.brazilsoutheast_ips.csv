@@ -1,9 +1,0 @@
-ip_address,ip_type,service,region
-20.206.0.200/29,IPv4,AppService.BrazilSoutheast,brazilse
-20.206.1.0/24,IPv4,AppService.BrazilSoutheast,brazilse
-20.206.2.0/25,IPv4,AppService.BrazilSoutheast,brazilse
-191.232.16.16/32,IPv4,AppService.BrazilSoutheast,brazilse
-191.232.16.52/32,IPv4,AppService.BrazilSoutheast,brazilse
-191.233.50.32/27,IPv4,AppService.BrazilSoutheast,brazilse
-2603:1050:403:2::400/119,IPv6,AppService.BrazilSoutheast,brazilse
-2603:1050:403:400::a0/123,IPv6,AppService.BrazilSoutheast,brazilse

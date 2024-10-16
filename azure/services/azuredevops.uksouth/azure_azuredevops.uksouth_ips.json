@@ -1,8 +1,0 @@
-[
-  {
-    "ip_address": "51.104.26.0/24",
-    "ip_type": "IPv4",
-    "service": "AzureDevOps.UKSouth",
-    "region": "uksouth"
-  }
-]

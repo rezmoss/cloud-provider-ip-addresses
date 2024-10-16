@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-40.80.96.40/29,IPv4,PowerQueryOnline.FranceSouth,southfrance
-51.105.88.120/31,IPv4,PowerQueryOnline.FranceSouth,southfrance
-2603:1020:905::200/123,IPv6,PowerQueryOnline.FranceSouth,southfrance

@@ -1,6 +1,0 @@
-ip_address,ip_type,service,region
-20.90.131.114/31,IPv4,ApiManagement.UKSouth,uksouth
-51.140.146.60/31,IPv4,ApiManagement.UKSouth,uksouth
-51.140.149.0/28,IPv4,ApiManagement.UKSouth,uksouth
-51.145.56.125/32,IPv4,ApiManagement.UKSouth,uksouth
-2603:1020:705:402::140/124,IPv6,ApiManagement.UKSouth,uksouth

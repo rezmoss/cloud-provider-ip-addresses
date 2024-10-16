@@ -1,5 +1,0 @@
-ip_address,ip_type,service,region
-20.38.139.88/29,IPv4,HDInsight.UAENorth,uaenorth
-65.52.252.96/29,IPv4,HDInsight.UAENorth,uaenorth
-2603:1040:904:3::10/124,IPv6,HDInsight.UAENorth,uaenorth
-2603:1040:904:402::320/124,IPv6,HDInsight.UAENorth,uaenorth

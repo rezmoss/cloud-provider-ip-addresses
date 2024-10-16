@@ -1,8 +1,0 @@
-ip_address,ip_type,service,region
-168.62.96.192/29,IPv4,Storage.NorthCentralUSStage,northcentralus
-168.62.96.200/30,IPv4,Storage.NorthCentralUSStage,northcentralus
-168.62.96.204/32,IPv4,Storage.NorthCentralUSStage,northcentralus
-168.62.96.206/31,IPv4,Storage.NorthCentralUSStage,northcentralus
-168.62.96.208/32,IPv4,Storage.NorthCentralUSStage,northcentralus
-168.62.96.212/30,IPv4,Storage.NorthCentralUSStage,northcentralus
-168.62.96.216/29,IPv4,Storage.NorthCentralUSStage,northcentralus

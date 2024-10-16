@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-20.43.123.196/30,IPv4,AzureAttestation.CentralIndia,centralindia
-20.192.43.76/30,IPv4,AzureAttestation.CentralIndia,centralindia
-2603:1040:a06:2::2a0/123,IPv6,AzureAttestation.CentralIndia,centralindia

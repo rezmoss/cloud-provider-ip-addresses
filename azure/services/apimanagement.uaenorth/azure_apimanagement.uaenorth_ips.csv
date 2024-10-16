@@ -1,7 +1,0 @@
-ip_address,ip_type,service,region
-20.46.144.85/32,IPv4,ApiManagement.UAENorth,uaenorth
-40.120.87.48/31,IPv4,ApiManagement.UAENorth,uaenorth
-65.52.250.4/31,IPv4,ApiManagement.UAENorth,uaenorth
-65.52.252.32/28,IPv4,ApiManagement.UAENorth,uaenorth
-2603:1040:904:2::690/124,IPv6,ApiManagement.UAENorth,uaenorth
-2603:1040:904:402::140/124,IPv6,ApiManagement.UAENorth,uaenorth

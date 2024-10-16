@@ -1,5 +1,0 @@
-ip_address,ip_type,service,region
-20.37.66.52/30,IPv4,AzureArcInfrastructure.UAECentral,uaecentral
-20.203.93.28/31,IPv4,AzureArcInfrastructure.UAECentral,uaecentral
-20.203.93.80/29,IPv4,AzureArcInfrastructure.UAECentral,uaecentral
-40.120.8.184/30,IPv4,AzureArcInfrastructure.UAECentral,uaecentral

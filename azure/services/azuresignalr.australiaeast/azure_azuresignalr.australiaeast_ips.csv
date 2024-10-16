@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-13.70.74.224/27,IPv4,AzureSignalR.AustraliaEast,australiaeast
-20.53.47.32/27,IPv4,AzureSignalR.AustraliaEast,australiaeast
-2603:1010:6:2::500/120,IPv6,AzureSignalR.AustraliaEast,australiaeast

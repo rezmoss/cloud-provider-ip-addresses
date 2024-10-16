@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-20.42.4.248/29,IPv4,StorageSyncService.EastUS,eastus
-104.41.148.238/32,IPv4,StorageSyncService.EastUS,eastus
-2603:1030:210:1::300/123,IPv6,StorageSyncService.EastUS,eastus

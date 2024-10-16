@@ -1,8 +1,0 @@
-[
-  {
-    "ip_address": "51.140.215.128/27",
-    "ip_type": "IPv4",
-    "service": "AzureSecurityCenter.UKWest",
-    "region": "ukwest"
-  }
-]

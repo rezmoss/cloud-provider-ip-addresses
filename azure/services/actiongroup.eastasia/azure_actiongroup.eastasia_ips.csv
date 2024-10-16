@@ -1,5 +1,0 @@
-ip_address,ip_type,service,region
-23.97.93.60/30,IPv4,ActionGroup.EastAsia,eastasia
-104.214.165.80/30,IPv4,ActionGroup.EastAsia,eastasia
-2603:1040:207::114/126,IPv6,ActionGroup.EastAsia,eastasia
-2603:1040:207:402::178/125,IPv6,ActionGroup.EastAsia,eastasia

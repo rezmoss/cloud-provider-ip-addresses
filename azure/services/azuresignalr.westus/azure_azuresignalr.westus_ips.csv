@@ -1,5 +1,0 @@
-ip_address,ip_type,service,region
-20.66.3.224/27,IPv4,AzureSignalR.WestUS,westus
-20.189.170.0/24,IPv4,AzureSignalR.WestUS,westus
-52.159.213.64/26,IPv4,AzureSignalR.WestUS,westus
-2603:1030:a07:1::700/120,IPv6,AzureSignalR.WestUS,westus

@@ -1,8 +1,0 @@
-[
-  {
-    "ip_address": "20.43.123.128/27",
-    "ip_type": "IPv4",
-    "service": "AzureSecurityCenter.CentralIndia",
-    "region": "centralindia"
-  }
-]

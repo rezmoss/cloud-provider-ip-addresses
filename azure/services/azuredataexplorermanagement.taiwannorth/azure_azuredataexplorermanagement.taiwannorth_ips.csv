@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-51.53.30.128/28,IPv4,AzureDataExplorerManagement.TaiwanNorth,taiwannorth
-2603:1040:1302:1::4a0/123,IPv6,AzureDataExplorerManagement.TaiwanNorth,taiwannorth

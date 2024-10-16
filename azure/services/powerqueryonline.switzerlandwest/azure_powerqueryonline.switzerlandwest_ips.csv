@@ -1,6 +1,0 @@
-ip_address,ip_type,service,region
-20.199.201.88/29,IPv4,PowerQueryOnline.SwitzerlandWest,switzerlandw
-51.107.144.120/31,IPv4,PowerQueryOnline.SwitzerlandWest,switzerlandw
-74.242.7.128/29,IPv4,PowerQueryOnline.SwitzerlandWest,switzerlandw
-74.242.36.128/28,IPv4,PowerQueryOnline.SwitzerlandWest,switzerlandw
-2603:1020:b04::200/123,IPv6,PowerQueryOnline.SwitzerlandWest,switzerlandw

@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-20.36.108.112/30,IPv4,AzureBotService.AustraliaCentral,australiacentral
-20.37.224.64/30,IPv4,AzureBotService.AustraliaCentral,australiacentral
-2603:1010:304::20/123,IPv6,AzureBotService.AustraliaCentral,australiacentral

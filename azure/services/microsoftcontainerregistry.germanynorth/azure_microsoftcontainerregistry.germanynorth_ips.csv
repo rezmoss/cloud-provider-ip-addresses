@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-51.116.58.16/29,IPv4,MicrosoftContainerRegistry.GermanyNorth,germanyn
-2603:1020:d04:402::88/125,IPv6,MicrosoftContainerRegistry.GermanyNorth,germanyn

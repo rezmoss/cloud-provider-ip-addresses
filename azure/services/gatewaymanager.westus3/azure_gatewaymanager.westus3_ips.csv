@@ -1,5 +1,0 @@
-ip_address,ip_type,service,region
-20.150.160.64/29,IPv4,GatewayManager.WestUS3,westus3
-20.150.161.0/26,IPv4,GatewayManager.WestUS3,westus3
-20.150.171.64/29,IPv4,GatewayManager.WestUS3,westus3
-2603:1030:504:1::40/122,IPv6,GatewayManager.WestUS3,westus3

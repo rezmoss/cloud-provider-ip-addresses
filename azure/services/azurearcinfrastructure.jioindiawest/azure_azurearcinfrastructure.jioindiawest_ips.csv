@@ -1,5 +1,0 @@
-ip_address,ip_type,service,region
-20.192.164.176/30,IPv4,AzureArcInfrastructure.JioIndiaWest,jioindiawest
-20.193.160.230/32,IPv4,AzureArcInfrastructure.JioIndiaWest,jioindiawest
-20.244.194.6/31,IPv4,AzureArcInfrastructure.JioIndiaWest,jioindiawest
-20.244.194.8/29,IPv4,AzureArcInfrastructure.JioIndiaWest,jioindiawest

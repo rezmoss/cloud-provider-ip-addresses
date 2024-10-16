@@ -1,7 +1,0 @@
-ip_address,ip_type,service,region
-4.229.67.220/31,IPv4,MicrosoftCloudAppSecurity.CanadaEast,canadaeast
-4.229.68.32/27,IPv4,MicrosoftCloudAppSecurity.CanadaEast,canadaeast
-4.229.68.64/28,IPv4,MicrosoftCloudAppSecurity.CanadaEast,canadaeast
-4.248.98.186/31,IPv4,MicrosoftCloudAppSecurity.CanadaEast,canadaeast
-4.248.98.192/29,IPv4,MicrosoftCloudAppSecurity.CanadaEast,canadaeast
-40.69.108.96/27,IPv4,MicrosoftCloudAppSecurity.CanadaEast,canadaeast

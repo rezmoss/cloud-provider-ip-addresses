@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-51.12.192.192/26,IPv4,GatewayManager.SwedenSouth,swedensouth
-2603:1020:1104::40/122,IPv6,GatewayManager.SwedenSouth,swedensouth

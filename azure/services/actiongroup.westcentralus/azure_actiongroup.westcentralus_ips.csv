@@ -1,8 +1,0 @@
-ip_address,ip_type,service,region
-13.71.199.112/30,IPv4,ActionGroup.WestCentralUS,westcentralus
-20.69.8.102/31,IPv4,ActionGroup.WestCentralUS,westcentralus
-20.168.188.36/30,IPv4,ActionGroup.WestCentralUS,westcentralus
-172.215.202.24/30,IPv4,ActionGroup.WestCentralUS,westcentralus
-2603:1030:b04:1::4cc/126,IPv6,ActionGroup.WestCentralUS,westcentralus
-2603:1030:b04:402::178/125,IPv6,ActionGroup.WestCentralUS,westcentralus
-2603:1030:b04:800::40/125,IPv6,ActionGroup.WestCentralUS,westcentralus

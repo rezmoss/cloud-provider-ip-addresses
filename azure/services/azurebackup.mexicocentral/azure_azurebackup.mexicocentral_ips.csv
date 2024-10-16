@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-158.23.100.192/26,IPv4,AzureBackup.MexicoCentral,mexicocentral
-2603:1030:702::680/121,IPv6,AzureBackup.MexicoCentral,mexicocentral

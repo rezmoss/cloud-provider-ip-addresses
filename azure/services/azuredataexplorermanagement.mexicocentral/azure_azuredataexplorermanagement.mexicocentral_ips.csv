@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-158.23.103.48/28,IPv4,AzureDataExplorerManagement.MexicoCentral,mexicocentral
-2603:1030:702:1::220/123,IPv6,AzureDataExplorerManagement.MexicoCentral,mexicocentral

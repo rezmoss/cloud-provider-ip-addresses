@@ -1,6 +1,0 @@
-ip_address,ip_type,service,region
-40.79.180.96/27,IPv4,AzureIoTHub.FranceSouth,southfrance
-51.105.91.128/25,IPv4,AzureIoTHub.FranceSouth,southfrance
-51.105.92.0/27,IPv4,AzureIoTHub.FranceSouth,southfrance
-52.136.132.236/32,IPv4,AzureIoTHub.FranceSouth,southfrance
-2603:1020:905:402::300/123,IPv6,AzureIoTHub.FranceSouth,southfrance

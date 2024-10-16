@@ -1,8 +1,0 @@
-[
-  {
-    "ip_address": "40.80.180.128/27",
-    "ip_type": "IPv4",
-    "service": "AzureSecurityCenter.JapanWest",
-    "region": "japanwest"
-  }
-]

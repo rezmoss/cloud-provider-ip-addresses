@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-51.12.46.224/30,IPv4,AzureAttestation.SwedenCentral,swedencentral
-2603:1020:1004:1::720/123,IPv6,AzureAttestation.SwedenCentral,swedencentral

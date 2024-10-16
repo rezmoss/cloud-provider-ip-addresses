@@ -1,6 +1,0 @@
-ip_address,ip_type,service,region
-102.133.123.224/28,IPv4,AzureResourceManager.SouthAfricaNorth,southafricanorth
-102.133.158.0/23,IPv4,AzureResourceManager.SouthAfricaNorth,southafricanorth
-102.133.222.0/23,IPv4,AzureResourceManager.SouthAfricaNorth,southafricanorth
-2603:1000:104::480/122,IPv6,AzureResourceManager.SouthAfricaNorth,southafricanorth
-2603:1000:104:402::280/122,IPv6,AzureResourceManager.SouthAfricaNorth,southafricanorth

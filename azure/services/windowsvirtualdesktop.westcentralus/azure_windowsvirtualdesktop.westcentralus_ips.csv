@@ -1,8 +1,0 @@
-ip_address,ip_type,service,region
-13.78.209.22/32,IPv4,WindowsVirtualDesktop.WestCentralUS,westcentralus
-40.64.146.160/28,IPv4,WindowsVirtualDesktop.WestCentralUS,westcentralus
-52.161.33.59/32,IPv4,WindowsVirtualDesktop.WestCentralUS,westcentralus
-52.161.33.187/32,IPv4,WindowsVirtualDesktop.WestCentralUS,westcentralus
-52.161.38.18/32,IPv4,WindowsVirtualDesktop.WestCentralUS,westcentralus
-52.161.38.218/32,IPv4,WindowsVirtualDesktop.WestCentralUS,westcentralus
-2603:1061:2010:18::/117,IPv6,WindowsVirtualDesktop.WestCentralUS,westcentralus

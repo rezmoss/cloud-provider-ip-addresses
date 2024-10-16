@@ -1,8 +1,0 @@
-ip_address,ip_type,service,region
-13.70.120.215/32,IPv4,WindowsVirtualDesktop.AustraliaEast,australiaeast
-13.75.171.61/32,IPv4,WindowsVirtualDesktop.AustraliaEast,australiaeast
-40.64.146.16/28,IPv4,WindowsVirtualDesktop.AustraliaEast,australiaeast
-52.156.171.127/32,IPv4,WindowsVirtualDesktop.AustraliaEast,australiaeast
-52.237.201.246/32,IPv4,WindowsVirtualDesktop.AustraliaEast,australiaeast
-52.237.253.245/32,IPv4,WindowsVirtualDesktop.AustraliaEast,australiaeast
-2603:1061:2010::/117,IPv6,WindowsVirtualDesktop.AustraliaEast,australiaeast

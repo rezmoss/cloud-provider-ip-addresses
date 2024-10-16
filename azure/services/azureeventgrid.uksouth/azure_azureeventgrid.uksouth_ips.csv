@@ -1,5 +1,0 @@
-ip_address,ip_type,service,region
-51.104.27.128/25,IPv4,AzureEventGrid.UKSouth,uksouth
-51.132.161.160/28,IPv4,AzureEventGrid.UKSouth,uksouth
-51.132.170.64/28,IPv4,AzureEventGrid.UKSouth,uksouth
-2603:1020:705:1::380/121,IPv6,AzureEventGrid.UKSouth,uksouth

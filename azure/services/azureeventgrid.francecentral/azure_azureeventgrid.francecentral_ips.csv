@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-20.40.152.128/27,IPv4,AzureEventGrid.FranceCentral,centralfrance
-20.43.42.128/25,IPv4,AzureEventGrid.FranceCentral,centralfrance
-2603:1020:805:1::380/121,IPv6,AzureEventGrid.FranceCentral,centralfrance

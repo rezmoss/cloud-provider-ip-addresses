@@ -1,8 +1,0 @@
-ip_address,ip_type,service,region
-13.70.73.128/26,IPv4,AppServiceManagement.AustraliaEast,australiaeast
-20.70.222.64/28,IPv4,AppServiceManagement.AustraliaEast,australiaeast
-104.210.90.65/32,IPv4,AppServiceManagement.AustraliaEast,australiaeast
-2603:1010:6:2::700/123,IPv6,AppServiceManagement.AustraliaEast,australiaeast
-2603:1010:6:402::100/122,IPv6,AppServiceManagement.AustraliaEast,australiaeast
-2603:1010:6:802::100/122,IPv6,AppServiceManagement.AustraliaEast,australiaeast
-2603:1010:6:c02::100/122,IPv6,AppServiceManagement.AustraliaEast,australiaeast

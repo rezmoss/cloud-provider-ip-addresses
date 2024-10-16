@@ -1,9 +1,0 @@
-ip_address,ip_type,service,region
-51.120.43.128/25,IPv4,AzureIoTHub.NorwayEast,norwaye
-51.120.44.0/27,IPv4,AzureIoTHub.NorwayEast,norwaye
-51.120.100.96/27,IPv4,AzureIoTHub.NorwayEast,norwaye
-51.120.107.224/27,IPv4,AzureIoTHub.NorwayEast,norwaye
-51.120.211.224/27,IPv4,AzureIoTHub.NorwayEast,norwaye
-2603:1020:e04:402::300/123,IPv6,AzureIoTHub.NorwayEast,norwaye
-2603:1020:e04:802::240/123,IPv6,AzureIoTHub.NorwayEast,norwaye
-2603:1020:e04:c02::240/123,IPv6,AzureIoTHub.NorwayEast,norwaye

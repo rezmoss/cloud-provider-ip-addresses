@@ -1,5 +1,0 @@
-ip_address,ip_type,service,region
-20.38.133.4/30,IPv4,ActionGroup.WestIndia,westindia
-20.207.175.176/30,IPv4,ActionGroup.WestIndia,westindia
-2603:1040:806::10c/126,IPv6,ActionGroup.WestIndia,westindia
-2603:1040:806:402::178/125,IPv6,ActionGroup.WestIndia,westindia

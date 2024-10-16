@@ -1,6 +1,0 @@
-ip_address,ip_type,service,region
-51.104.25.64/26,IPv4,AzureCognitiveSearch.UKSouth,uksouth
-51.132.43.66/32,IPv4,AzureCognitiveSearch.UKSouth,uksouth
-51.145.124.157/32,IPv4,AzureCognitiveSearch.UKSouth,uksouth
-51.145.124.158/32,IPv4,AzureCognitiveSearch.UKSouth,uksouth
-2603:1020:705:1::180/121,IPv6,AzureCognitiveSearch.UKSouth,uksouth

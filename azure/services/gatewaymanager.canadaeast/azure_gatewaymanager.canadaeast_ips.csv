@@ -1,7 +1,0 @@
-ip_address,ip_type,service,region
-40.69.106.88/29,IPv4,GatewayManager.CanadaEast,canadaeast
-40.89.16.72/29,IPv4,GatewayManager.CanadaEast,canadaeast
-52.139.87.129/32,IPv4,GatewayManager.CanadaEast,canadaeast
-52.139.87.150/32,IPv4,GatewayManager.CanadaEast,canadaeast
-52.242.44.0/27,IPv4,GatewayManager.CanadaEast,canadaeast
-2603:1030:1005::40/122,IPv6,GatewayManager.CanadaEast,canadaeast

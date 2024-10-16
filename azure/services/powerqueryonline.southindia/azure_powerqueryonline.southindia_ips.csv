@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-20.41.192.120/31,IPv4,PowerQueryOnline.SouthIndia,southindia
-52.172.81.72/29,IPv4,PowerQueryOnline.SouthIndia,southindia
-2603:1040:c06::200/123,IPv6,PowerQueryOnline.SouthIndia,southindia

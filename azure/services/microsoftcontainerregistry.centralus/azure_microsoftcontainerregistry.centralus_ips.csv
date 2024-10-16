@@ -1,7 +1,0 @@
-ip_address,ip_type,service,region
-13.89.170.208/29,IPv4,MicrosoftContainerRegistry.CentralUS,centralus
-52.182.138.200/29,IPv4,MicrosoftContainerRegistry.CentralUS,centralus
-104.208.16.72/29,IPv4,MicrosoftContainerRegistry.CentralUS,centralus
-2603:1030:10:402::88/125,IPv6,MicrosoftContainerRegistry.CentralUS,centralus
-2603:1030:10:802::88/125,IPv6,MicrosoftContainerRegistry.CentralUS,centralus
-2603:1030:10:c02::88/125,IPv6,MicrosoftContainerRegistry.CentralUS,centralus

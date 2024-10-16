@@ -1,8 +1,0 @@
-ip_address,ip_type,service,region
-20.33.146.0/24,IPv4,Storage.AustraliaCentral2,australiacentral2
-20.47.36.0/24,IPv4,Storage.AustraliaCentral2,australiacentral2
-20.60.107.0/24,IPv4,Storage.AustraliaCentral2,australiacentral2
-20.150.103.0/24,IPv4,Storage.AustraliaCentral2,australiacentral2
-20.209.156.0/23,IPv4,Storage.AustraliaCentral2,australiacentral2
-52.239.218.0/23,IPv4,Storage.AustraliaCentral2,australiacentral2
-2603:1010:405::/48,IPv6,Storage.AustraliaCentral2,australiacentral2

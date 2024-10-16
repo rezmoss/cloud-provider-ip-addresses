@@ -1,9 +1,0 @@
-ip_address,ip_type,service,region
-20.105.215.40/29,IPv4,PowerQueryOnline.WestEurope,westeurope
-40.74.30.104/30,IPv4,PowerQueryOnline.WestEurope,westeurope
-104.40.170.68/31,IPv4,PowerQueryOnline.WestEurope,westeurope
-172.211.127.192/28,IPv4,PowerQueryOnline.WestEurope,westeurope
-172.211.127.208/29,IPv4,PowerQueryOnline.WestEurope,westeurope
-2603:1020:206:1::200/123,IPv6,PowerQueryOnline.WestEurope,westeurope
-2603:1020:206:402::160/126,IPv6,PowerQueryOnline.WestEurope,westeurope
-2603:1020:206:403::1a0/126,IPv6,PowerQueryOnline.WestEurope,westeurope

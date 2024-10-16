@@ -1,6 +1,0 @@
-ip_address,ip_type,service,region
-20.206.0.112/28,IPv4,AppServiceManagement.BrazilSoutheast,brazilse
-23.97.120.79/32,IPv4,AppServiceManagement.BrazilSoutheast,brazilse
-191.233.50.128/26,IPv4,AppServiceManagement.BrazilSoutheast,brazilse
-2603:1050:403:1::4c0/123,IPv6,AppServiceManagement.BrazilSoutheast,brazilse
-2603:1050:403:400::100/122,IPv6,AppServiceManagement.BrazilSoutheast,brazilse

@@ -1,9 +1,0 @@
-ip_address,ip_type,service,region
-13.75.36.96/27,IPv4,BatchNodeManagement.EastAsia,eastasia
-20.189.109.0/27,IPv4,BatchNodeManagement.EastAsia,eastasia
-23.99.98.61/32,IPv4,BatchNodeManagement.EastAsia,eastasia
-23.99.107.229/32,IPv4,BatchNodeManagement.EastAsia,eastasia
-168.63.133.23/32,IPv4,BatchNodeManagement.EastAsia,eastasia
-168.63.208.148/32,IPv4,BatchNodeManagement.EastAsia,eastasia
-207.46.149.75/32,IPv4,BatchNodeManagement.EastAsia,eastasia
-2603:1040:207::400/122,IPv6,BatchNodeManagement.EastAsia,eastasia

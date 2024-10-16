@@ -1,8 +1,0 @@
-[
-  {
-    "ip_address": "20.150.173.224/27",
-    "ip_type": "IPv4",
-    "service": "AzureSecurityCenter.WestUS3",
-    "region": "westus3"
-  }
-]

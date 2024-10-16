@@ -1,5 +1,0 @@
-ip_address,ip_type,service,region
-23.97.112.224/27,IPv4,AzureCloud.brazilne,brazilne
-2603:1050:100::/40,IPv6,AzureCloud.brazilne,brazilne
-2603:1056:1402::/48,IPv6,AzureCloud.brazilne,brazilne
-2603:1061:1315::/54,IPv6,AzureCloud.brazilne,brazilne

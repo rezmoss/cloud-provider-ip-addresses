@@ -1,6 +1,0 @@
-ip_address,ip_type,service,region
-20.43.45.224/29,IPv4,HDInsight.FranceCentral,centralfrance
-20.188.39.64/32,IPv4,HDInsight.FranceCentral,centralfrance
-40.79.130.248/29,IPv4,HDInsight.FranceCentral,centralfrance
-40.89.157.135/32,IPv4,HDInsight.FranceCentral,centralfrance
-2603:1020:805:402::320/124,IPv6,HDInsight.FranceCentral,centralfrance

@@ -1,5 +1,0 @@
-ip_address,ip_type,service,region
-20.37.64.72/29,IPv4,GatewayManager.UAECentral,uaecentral
-20.37.74.88/29,IPv4,GatewayManager.UAECentral,uaecentral
-20.45.95.128/27,IPv4,GatewayManager.UAECentral,uaecentral
-2603:1040:b04::40/122,IPv6,GatewayManager.UAECentral,uaecentral

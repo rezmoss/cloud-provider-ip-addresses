@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-20.37.64.128/26,IPv4,AzureCognitiveSearch.UAECentral,uaecentral
-2603:1040:b04::180/121,IPv6,AzureCognitiveSearch.UAECentral,uaecentral

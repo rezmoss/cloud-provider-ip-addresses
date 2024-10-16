@@ -1,7 +1,0 @@
-ip_address,ip_type,service,region
-191.233.203.128/29,IPv4,MicrosoftContainerRegistry.BrazilSouth,brazilsouth
-191.234.146.136/29,IPv4,MicrosoftContainerRegistry.BrazilSouth,brazilsouth
-191.234.154.136/29,IPv4,MicrosoftContainerRegistry.BrazilSouth,brazilsouth
-2603:1050:6:402::88/125,IPv6,MicrosoftContainerRegistry.BrazilSouth,brazilsouth
-2603:1050:6:802::88/125,IPv6,MicrosoftContainerRegistry.BrazilSouth,brazilsouth
-2603:1050:6:c02::88/125,IPv6,MicrosoftContainerRegistry.BrazilSouth,brazilsouth

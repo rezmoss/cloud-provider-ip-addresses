@@ -1,7 +1,0 @@
-ip_address,ip_type,service,region
-40.64.146.224/28,IPv4,WindowsVirtualDesktop.NorwayEast,norwaye
-51.120.69.158/32,IPv4,WindowsVirtualDesktop.NorwayEast,norwaye
-51.120.70.141/32,IPv4,WindowsVirtualDesktop.NorwayEast,norwaye
-51.120.78.142/32,IPv4,WindowsVirtualDesktop.NorwayEast,norwaye
-51.120.79.212/32,IPv4,WindowsVirtualDesktop.NorwayEast,norwaye
-2603:1061:2010:2a::/117,IPv6,WindowsVirtualDesktop.NorwayEast,norwaye

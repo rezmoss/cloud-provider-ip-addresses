@@ -5892,6 +5892,12 @@
     "region": "ca-west-1"
   },
   {
+    "ip_address": "142.4.165.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "142.4.178.0/24",
     "ip_type": "IPv4",
     "service": "EC2",

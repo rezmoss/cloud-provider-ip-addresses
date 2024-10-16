@@ -1,8 +1,0 @@
-[
-  {
-    "ip_address": "20.125.155.0/24",
-    "ip_type": "IPv4",
-    "service": "AzureDevOps.WestUS3",
-    "region": "westus3"
-  }
-]

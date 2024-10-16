@@ -1,6 +1,0 @@
-ip_address,ip_type,service,region
-4.199.130.48/28,IPv4,LogicApps.AustraliaCentral,australiacentral
-20.36.108.192/27,IPv4,LogicApps.AustraliaCentral,australiacentral
-20.36.108.224/28,IPv4,LogicApps.AustraliaCentral,australiacentral
-2603:1010:304:402::3c0/124,IPv6,LogicApps.AustraliaCentral,australiacentral
-2603:1010:304:402::3e0/123,IPv6,LogicApps.AustraliaCentral,australiacentral

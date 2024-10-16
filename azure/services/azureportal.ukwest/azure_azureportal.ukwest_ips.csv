@@ -1,5 +1,0 @@
-ip_address,ip_type,service,region
-51.137.162.160/27,IPv4,AzurePortal.UKWest,ukwest
-51.137.164.80/30,IPv4,AzurePortal.UKWest,ukwest
-51.137.167.152/29,IPv4,AzurePortal.UKWest,ukwest
-2603:1020:605::700/121,IPv6,AzurePortal.UKWest,ukwest

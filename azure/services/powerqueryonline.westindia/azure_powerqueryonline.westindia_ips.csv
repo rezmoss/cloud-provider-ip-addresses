@@ -1,8 +1,0 @@
-ip_address,ip_type,service,region
-4.187.92.232/29,IPv4,PowerQueryOnline.WestIndia,westindia
-4.187.93.0/28,IPv4,PowerQueryOnline.WestIndia,westindia
-20.38.133.208/31,IPv4,PowerQueryOnline.WestIndia,westindia
-20.207.168.180/31,IPv4,PowerQueryOnline.WestIndia,westindia
-20.207.168.184/29,IPv4,PowerQueryOnline.WestIndia,westindia
-2603:1040:806::200/123,IPv6,PowerQueryOnline.WestIndia,westindia
-2603:1040:806:402::168/125,IPv6,PowerQueryOnline.WestIndia,westindia

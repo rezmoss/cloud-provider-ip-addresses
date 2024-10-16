@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-20.21.32.64/26,IPv4,GatewayManager.QatarCentral,qatarcentral
-2603:1040:1002::80/122,IPv6,GatewayManager.QatarCentral,qatarcentral

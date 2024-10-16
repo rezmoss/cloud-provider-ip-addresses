@@ -1,7 +1,0 @@
-ip_address,ip_type,service,region
-4.184.2.16/29,IPv4,PowerQueryOnline.GermanyNorth,germanyn
-20.170.175.240/28,IPv4,PowerQueryOnline.GermanyNorth,germanyn
-51.116.48.70/31,IPv4,PowerQueryOnline.GermanyNorth,germanyn
-51.116.78.40/29,IPv4,PowerQueryOnline.GermanyNorth,germanyn
-2603:1020:d04::200/123,IPv6,PowerQueryOnline.GermanyNorth,germanyn
-2603:1020:d04:402::160/125,IPv6,PowerQueryOnline.GermanyNorth,germanyn

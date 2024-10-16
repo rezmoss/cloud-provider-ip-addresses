@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-172.204.161.0/24,IPv4,AppService.NewZealandNorth,newzealandnorth
-2603:1010:502:1::700/120,IPv6,AppService.NewZealandNorth,newzealandnorth

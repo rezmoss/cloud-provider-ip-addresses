@@ -1,5 +1,0 @@
-ip_address,ip_type,service,region
-102.37.162.0/25,IPv4,AzureEventGrid.SouthAfricaNorth,southafricanorth
-102.133.135.16/28,IPv4,AzureEventGrid.SouthAfricaNorth,southafricanorth
-102.133.135.32/28,IPv4,AzureEventGrid.SouthAfricaNorth,southafricanorth
-2603:1000:104:1::380/121,IPv6,AzureEventGrid.SouthAfricaNorth,southafricanorth

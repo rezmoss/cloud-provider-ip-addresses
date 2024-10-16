@@ -1,5 +1,0 @@
-ip_address,ip_type,service,region
-52.140.105.184/29,IPv4,StorageSyncService.CentralIndia,centralindia
-104.211.73.56/32,IPv4,StorageSyncService.CentralIndia,centralindia
-2603:1040:a06:1::300/123,IPv6,StorageSyncService.CentralIndia,centralindia
-2603:1040:a06:802::2a0/123,IPv6,StorageSyncService.CentralIndia,centralindia

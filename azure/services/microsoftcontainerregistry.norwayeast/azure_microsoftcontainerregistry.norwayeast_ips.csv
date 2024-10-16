@@ -1,7 +1,0 @@
-ip_address,ip_type,service,region
-51.120.98.24/29,IPv4,MicrosoftContainerRegistry.NorwayEast,norwaye
-51.120.106.136/29,IPv4,MicrosoftContainerRegistry.NorwayEast,norwaye
-51.120.210.136/29,IPv4,MicrosoftContainerRegistry.NorwayEast,norwaye
-2603:1020:e04:402::88/125,IPv6,MicrosoftContainerRegistry.NorwayEast,norwaye
-2603:1020:e04:802::88/125,IPv6,MicrosoftContainerRegistry.NorwayEast,norwaye
-2603:1020:e04:c02::88/125,IPv6,MicrosoftContainerRegistry.NorwayEast,norwaye

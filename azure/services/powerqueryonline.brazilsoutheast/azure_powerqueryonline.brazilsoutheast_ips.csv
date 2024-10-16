@@ -1,8 +1,0 @@
-ip_address,ip_type,service,region
-20.206.4.72/29,IPv4,PowerQueryOnline.BrazilSoutheast,brazilse
-108.140.6.112/28,IPv4,PowerQueryOnline.BrazilSoutheast,brazilse
-108.140.24.152/29,IPv4,PowerQueryOnline.BrazilSoutheast,brazilse
-191.233.8.20/31,IPv4,PowerQueryOnline.BrazilSoutheast,brazilse
-191.237.224.234/31,IPv4,PowerQueryOnline.BrazilSoutheast,brazilse
-2603:1050:403::200/123,IPv6,PowerQueryOnline.BrazilSoutheast,brazilse
-2603:1050:403:400::88/125,IPv6,PowerQueryOnline.BrazilSoutheast,brazilse

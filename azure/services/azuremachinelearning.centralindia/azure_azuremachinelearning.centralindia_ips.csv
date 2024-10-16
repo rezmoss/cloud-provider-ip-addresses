@@ -1,8 +1,0 @@
-ip_address,ip_type,service,region
-20.43.120.112/28,IPv4,AzureMachineLearning.CentralIndia,centralindia
-20.192.47.112/28,IPv4,AzureMachineLearning.CentralIndia,centralindia
-20.192.99.64/28,IPv4,AzureMachineLearning.CentralIndia,centralindia
-40.80.51.64/28,IPv4,AzureMachineLearning.CentralIndia,centralindia
-52.140.107.96/28,IPv4,AzureMachineLearning.CentralIndia,centralindia
-104.211.81.144/28,IPv4,AzureMachineLearning.CentralIndia,centralindia
-2603:1040:a06:1::2c0/122,IPv6,AzureMachineLearning.CentralIndia,centralindia

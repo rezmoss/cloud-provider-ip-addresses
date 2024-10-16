@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-40.79.180.24/30,IPv4,AzureBotService.FranceSouth,southfrance
-51.105.88.64/30,IPv4,AzureBotService.FranceSouth,southfrance
-2603:1020:905::20/123,IPv6,AzureBotService.FranceSouth,southfrance

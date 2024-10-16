@@ -1,7 +1,0 @@
-ip_address,ip_type,service,region
-20.200.160.32/27,IPv4,GatewayManager.KoreaSouth,koreasouth
-40.80.168.72/29,IPv4,GatewayManager.KoreaSouth,koreasouth
-40.89.217.100/32,IPv4,GatewayManager.KoreaSouth,koreasouth
-40.89.217.109/32,IPv4,GatewayManager.KoreaSouth,koreasouth
-52.231.146.200/29,IPv4,GatewayManager.KoreaSouth,koreasouth
-2603:1040:e05:1::500/122,IPv6,GatewayManager.KoreaSouth,koreasouth

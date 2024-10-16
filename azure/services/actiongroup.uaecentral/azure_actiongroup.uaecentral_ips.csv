@@ -1,5 +1,0 @@
-ip_address,ip_type,service,region
-20.203.88.62/31,IPv4,ActionGroup.UAECentral,uaecentral
-20.203.93.200/30,IPv4,ActionGroup.UAECentral,uaecentral
-2603:1040:b04::10c/126,IPv6,ActionGroup.UAECentral,uaecentral
-2603:1040:b04:402::178/125,IPv6,ActionGroup.UAECentral,uaecentral

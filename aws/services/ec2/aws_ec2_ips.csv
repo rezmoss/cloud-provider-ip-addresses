@@ -981,6 +981,7 @@ ip_address,ip_type,service,region
 18.153.0.0/16,IPv4,EC2,eu-central-1
 18.202.0.0/15,IPv4,EC2,eu-west-1
 52.94.250.48/28,IPv4,EC2,ca-west-1
+142.4.165.0/24,IPv4,EC2,us-east-1
 142.4.178.0/24,IPv4,EC2,us-east-1
 5.60.196.0/22,IPv4,EC2,us-west-2
 64.252.98.0/24,IPv4,EC2,ap-south-1

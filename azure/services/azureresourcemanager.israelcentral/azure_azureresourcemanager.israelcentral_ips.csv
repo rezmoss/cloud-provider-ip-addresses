@@ -1,5 +1,0 @@
-ip_address,ip_type,service,region
-20.217.50.0/23,IPv4,AzureResourceManager.IsraelCentral,israelcentral
-20.217.60.0/26,IPv4,AzureResourceManager.IsraelCentral,israelcentral
-2603:1040:1402:1::400/120,IPv6,AzureResourceManager.IsraelCentral,israelcentral
-2603:1040:1402:400::1c0/122,IPv6,AzureResourceManager.IsraelCentral,israelcentral

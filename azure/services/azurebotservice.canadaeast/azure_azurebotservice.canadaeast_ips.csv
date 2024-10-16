@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-40.69.108.56/30,IPv4,AzureBotService.CanadaEast,canadaeast
-40.89.16.64/30,IPv4,AzureBotService.CanadaEast,canadaeast
-2603:1030:1005::20/123,IPv6,AzureBotService.CanadaEast,canadaeast

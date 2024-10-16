@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-20.53.56.4/30,IPv4,AzureAttestation.AustraliaCentral2,australiacentral2
-20.193.96.12/30,IPv4,AzureAttestation.AustraliaCentral2,australiacentral2
-2603:1010:404:2::740/124,IPv6,AzureAttestation.AustraliaCentral2,australiacentral2

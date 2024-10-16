@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-172.204.152.192/26,IPv4,AzureCognitiveSearch.NewZealandNorth,newzealandnorth
-2603:1010:502::100/121,IPv6,AzureCognitiveSearch.NewZealandNorth,newzealandnorth

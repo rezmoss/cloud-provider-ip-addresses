@@ -1,7 +1,0 @@
-ip_address,ip_type,service,region
-20.125.170.64/29,IPv4,MicrosoftContainerRegistry.NorthCentralUS,northcentralus
-20.125.202.64/29,IPv4,MicrosoftContainerRegistry.NorthCentralUS,northcentralus
-52.162.106.152/29,IPv4,MicrosoftContainerRegistry.NorthCentralUS,northcentralus
-2603:1030:608:402::88/125,IPv6,MicrosoftContainerRegistry.NorthCentralUS,northcentralus
-2603:1030:608:800::40/125,IPv6,MicrosoftContainerRegistry.NorthCentralUS,northcentralus
-2603:1030:608:c00::40/125,IPv6,MicrosoftContainerRegistry.NorthCentralUS,northcentralus

@@ -1,8 +1,0 @@
-ip_address,ip_type,service,region
-20.17.59.128/27,IPv4,Sql.MalaysiaSouth,malaysiasouth
-20.17.59.192/26,IPv4,Sql.MalaysiaSouth,malaysiasouth
-20.17.64.64/27,IPv4,Sql.MalaysiaSouth,malaysiasouth
-20.17.65.64/27,IPv4,Sql.MalaysiaSouth,malaysiasouth
-20.17.67.248/29,IPv4,Sql.MalaysiaSouth,malaysiasouth
-2603:1040:1503:2::300/123,IPv6,Sql.MalaysiaSouth,malaysiasouth
-2603:1040:1503:2::380/121,IPv6,Sql.MalaysiaSouth,malaysiasouth

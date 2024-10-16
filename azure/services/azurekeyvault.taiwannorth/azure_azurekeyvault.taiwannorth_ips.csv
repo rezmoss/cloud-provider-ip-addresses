@@ -1,7 +1,0 @@
-ip_address,ip_type,service,region
-51.53.31.128/29,IPv4,AzureKeyVault.TaiwanNorth,taiwannorth
-51.53.101.128/30,IPv4,AzureKeyVault.TaiwanNorth,taiwannorth
-51.53.106.124/30,IPv4,AzureKeyVault.TaiwanNorth,taiwannorth
-2603:1040:1302:1::6e0/125,IPv6,AzureKeyVault.TaiwanNorth,taiwannorth
-2603:1040:1302:2::480/126,IPv6,AzureKeyVault.TaiwanNorth,taiwannorth
-2603:1040:1302:2::638/125,IPv6,AzureKeyVault.TaiwanNorth,taiwannorth

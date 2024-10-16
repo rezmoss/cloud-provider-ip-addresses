@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-20.17.49.32/27,IPv4,BatchNodeManagement.MalaysiaSouth,malaysiasouth
-2603:1040:1503::240/122,IPv6,BatchNodeManagement.MalaysiaSouth,malaysiasouth

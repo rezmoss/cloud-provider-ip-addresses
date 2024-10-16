@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-51.53.27.240/30,IPv4,AzureAttestation.TaiwanNorth,taiwannorth
-2603:1040:1302::600/124,IPv6,AzureAttestation.TaiwanNorth,taiwannorth

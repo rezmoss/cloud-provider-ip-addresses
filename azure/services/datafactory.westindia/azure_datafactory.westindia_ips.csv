@@ -1,6 +1,0 @@
-ip_address,ip_type,service,region
-4.187.66.0/23,IPv4,DataFactory.WestIndia,westindia
-20.38.133.192/28,IPv4,DataFactory.WestIndia,westindia
-2603:1040:806::440/122,IPv6,DataFactory.WestIndia,westindia
-2603:1040:806::500/121,IPv6,DataFactory.WestIndia,westindia
-2603:1040:806:402::330/124,IPv6,DataFactory.WestIndia,westindia

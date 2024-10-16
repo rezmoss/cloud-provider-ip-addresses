@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-4.232.30.160/28,IPv4,AzureDataExplorerManagement.ItalyNorth,italynorth
-2603:1020:1204:1::220/123,IPv6,AzureDataExplorerManagement.ItalyNorth,italynorth

@@ -1,8 +1,0 @@
-[
-  {
-    "ip_address": "168.61.140.64/27",
-    "ip_type": "IPv4",
-    "service": "AzureSecurityCenter.CentralUSEUAP",
-    "region": "centraluseuap"
-  }
-]

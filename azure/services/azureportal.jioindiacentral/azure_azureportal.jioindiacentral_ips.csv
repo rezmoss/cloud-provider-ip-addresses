@@ -1,5 +1,0 @@
-ip_address,ip_type,service,region
-20.192.228.128/27,IPv4,AzurePortal.JioIndiaCentral,jioindiacentral
-20.192.230.0/30,IPv4,AzurePortal.JioIndiaCentral,jioindiacentral
-20.192.230.112/29,IPv4,AzurePortal.JioIndiaCentral,jioindiacentral
-2603:1040:1104::780/121,IPv6,AzurePortal.JioIndiaCentral,jioindiacentral

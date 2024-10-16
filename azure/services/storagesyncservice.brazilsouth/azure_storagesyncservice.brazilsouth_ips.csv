@@ -1,5 +1,0 @@
-ip_address,ip_type,service,region
-191.235.225.216/29,IPv4,StorageSyncService.BrazilSouth,brazilsouth
-191.237.253.115/32,IPv4,StorageSyncService.BrazilSouth,brazilsouth
-2603:1050:6:1::300/123,IPv6,StorageSyncService.BrazilSouth,brazilsouth
-2603:1050:6:802::2a0/123,IPv6,StorageSyncService.BrazilSouth,brazilsouth

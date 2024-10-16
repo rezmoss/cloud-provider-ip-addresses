@@ -1,8 +1,0 @@
-ip_address,ip_type,service,region
-20.135.223.67/32,IPv4,AzureResourceManager.WestUS3,westus3
-20.135.224.159/32,IPv4,AzureResourceManager.WestUS3,westus3
-20.135.226.149/32,IPv4,AzureResourceManager.WestUS3,westus3
-20.150.225.128/26,IPv4,AzureResourceManager.WestUS3,westus3
-20.150.242.0/23,IPv4,AzureResourceManager.WestUS3,westus3
-2603:1030:504::400/120,IPv6,AzureResourceManager.WestUS3,westus3
-2603:1030:504:402::180/122,IPv6,AzureResourceManager.WestUS3,westus3

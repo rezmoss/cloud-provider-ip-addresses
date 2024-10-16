@@ -1,5 +1,0 @@
-ip_address,ip_type,service,region
-40.117.28.40/29,IPv4,AzureArcInfrastructure.SouthAfricaWest,southafricawest
-40.117.28.96/31,IPv4,AzureArcInfrastructure.SouthAfricaWest,southafricawest
-102.37.64.160/30,IPv4,AzureArcInfrastructure.SouthAfricaWest,southafricawest
-102.133.57.188/30,IPv4,AzureArcInfrastructure.SouthAfricaWest,southafricawest

@@ -1,5 +1,0 @@
-ip_address,ip_type,service,region
-191.233.11.160/27,IPv4,AzureIoTHub.BrazilSoutheast,brazilse
-191.233.14.0/25,IPv4,AzureIoTHub.BrazilSoutheast,brazilse
-191.233.54.0/27,IPv4,AzureIoTHub.BrazilSoutheast,brazilse
-2603:1050:403:400::220/123,IPv6,AzureIoTHub.BrazilSoutheast,brazilse

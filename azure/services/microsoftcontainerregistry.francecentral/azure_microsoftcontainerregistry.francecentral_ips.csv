@@ -1,7 +1,0 @@
-ip_address,ip_type,service,region
-40.79.130.48/29,IPv4,MicrosoftContainerRegistry.FranceCentral,centralfrance
-40.79.138.24/29,IPv4,MicrosoftContainerRegistry.FranceCentral,centralfrance
-40.79.146.24/29,IPv4,MicrosoftContainerRegistry.FranceCentral,centralfrance
-2603:1020:805:402::88/125,IPv6,MicrosoftContainerRegistry.FranceCentral,centralfrance
-2603:1020:805:802::88/125,IPv6,MicrosoftContainerRegistry.FranceCentral,centralfrance
-2603:1020:805:c02::88/125,IPv6,MicrosoftContainerRegistry.FranceCentral,centralfrance

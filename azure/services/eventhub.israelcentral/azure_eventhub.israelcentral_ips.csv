@@ -1,6 +1,0 @@
-ip_address,ip_type,service,region
-20.217.45.0/24,IPv4,EventHub.IsraelCentral,israelcentral
-20.217.59.128/26,IPv4,EventHub.IsraelCentral,israelcentral
-20.217.75.64/26,IPv4,EventHub.IsraelCentral,israelcentral
-20.217.91.64/26,IPv4,EventHub.IsraelCentral,israelcentral
-2603:1040:1402:1::/120,IPv6,EventHub.IsraelCentral,israelcentral

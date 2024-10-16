@@ -1,6 +1,0 @@
-ip_address,ip_type,service,region
-20.49.82.8/29,IPv4,MicrosoftContainerRegistry.EastUSSTG,usstagee
-40.67.58.16/29,IPv4,MicrosoftContainerRegistry.EastUSSTG,usstagee
-2603:1030:104:402::88/125,IPv6,MicrosoftContainerRegistry.EastUSSTG,usstagee
-2603:1030:104:402::160/125,IPv6,MicrosoftContainerRegistry.EastUSSTG,usstagee
-2603:1030:104:802::50/125,IPv6,MicrosoftContainerRegistry.EastUSSTG,usstagee

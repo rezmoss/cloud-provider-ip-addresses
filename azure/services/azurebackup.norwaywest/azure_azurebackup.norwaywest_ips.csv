@@ -1,6 +1,0 @@
-ip_address,ip_type,service,region
-51.13.137.128/26,IPv4,AzureBackup.NorwayWest,norwayw
-51.120.219.96/27,IPv4,AzureBackup.NorwayWest,norwayw
-51.120.219.128/26,IPv4,AzureBackup.NorwayWest,norwayw
-2603:1020:f04:6::/121,IPv6,AzureBackup.NorwayWest,norwayw
-2603:1020:f04:402::200/121,IPv6,AzureBackup.NorwayWest,norwayw

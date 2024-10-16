@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-51.12.193.192/27,IPv4,BatchNodeManagement.SwedenSouth,swedensouth
-51.12.204.0/27,IPv4,BatchNodeManagement.SwedenSouth,swedensouth
-2603:1020:1104::300/122,IPv6,BatchNodeManagement.SwedenSouth,swedensouth

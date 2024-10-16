@@ -1,8 +1,0 @@
-ip_address,ip_type,service,region
-20.208.5.0/28,IPv4,AppServiceManagement.SwitzerlandNorth,switzerlandn
-51.107.58.192/26,IPv4,AppServiceManagement.SwitzerlandNorth,switzerlandn
-51.107.68.94/32,IPv4,AppServiceManagement.SwitzerlandNorth,switzerlandn
-2603:1020:a04:3::200/123,IPv6,AppServiceManagement.SwitzerlandNorth,switzerlandn
-2603:1020:a04:402::100/122,IPv6,AppServiceManagement.SwitzerlandNorth,switzerlandn
-2603:1020:a04:802::100/122,IPv6,AppServiceManagement.SwitzerlandNorth,switzerlandn
-2603:1020:a04:c02::100/122,IPv6,AppServiceManagement.SwitzerlandNorth,switzerlandn

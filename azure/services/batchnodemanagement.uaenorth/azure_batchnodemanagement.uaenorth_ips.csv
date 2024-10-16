@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-20.38.137.192/27,IPv4,BatchNodeManagement.UAENorth,uaenorth
-65.52.251.224/27,IPv4,BatchNodeManagement.UAENorth,uaenorth
-2603:1040:904:1::340/122,IPv6,BatchNodeManagement.UAENorth,uaenorth

@@ -1,7 +1,0 @@
-ip_address,ip_type,service,region
-13.69.65.8/29,IPv4,HDInsight.WestEurope,westeurope
-20.61.96.160/29,IPv4,HDInsight.WestEurope,westeurope
-52.166.243.90/32,IPv4,HDInsight.WestEurope,westeurope
-52.174.36.244/32,IPv4,HDInsight.WestEurope,westeurope
-172.211.123.144/28,IPv4,HDInsight.WestEurope,westeurope
-2603:1020:206:402::320/124,IPv6,HDInsight.WestEurope,westeurope

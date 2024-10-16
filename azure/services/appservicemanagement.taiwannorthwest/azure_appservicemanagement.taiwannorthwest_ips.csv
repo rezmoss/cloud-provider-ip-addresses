@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-51.53.139.0/26,IPv4,AppServiceManagement.TaiwanNorthwest,taiwannorthwest
-2603:1040:1202:2::6a0/123,IPv6,AppServiceManagement.TaiwanNorthwest,taiwannorthwest

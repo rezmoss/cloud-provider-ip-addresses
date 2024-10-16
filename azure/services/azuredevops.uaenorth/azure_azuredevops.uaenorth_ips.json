@@ -1,8 +1,0 @@
-[
-  {
-    "ip_address": "20.233.130.0/25",
-    "ip_type": "IPv4",
-    "service": "AzureDevOps.UAENorth",
-    "region": "uaenorth"
-  }
-]

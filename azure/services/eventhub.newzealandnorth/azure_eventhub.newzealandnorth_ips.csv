@@ -1,6 +1,0 @@
-ip_address,ip_type,service,region
-172.204.157.0/24,IPv4,EventHub.NewZealandNorth,newzealandnorth
-172.204.183.0/26,IPv4,EventHub.NewZealandNorth,newzealandnorth
-172.204.192.128/26,IPv4,EventHub.NewZealandNorth,newzealandnorth
-172.204.208.128/26,IPv4,EventHub.NewZealandNorth,newzealandnorth
-2603:1010:502:1::/120,IPv6,EventHub.NewZealandNorth,newzealandnorth

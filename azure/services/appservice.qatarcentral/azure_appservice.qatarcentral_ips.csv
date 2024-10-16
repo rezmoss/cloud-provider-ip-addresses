@@ -1,6 +1,0 @@
-ip_address,ip_type,service,region
-20.21.52.0/24,IPv4,AppService.QatarCentral,qatarcentral
-20.21.54.0/25,IPv4,AppService.QatarCentral,qatarcentral
-20.21.54.128/27,IPv4,AppService.QatarCentral,qatarcentral
-2603:1040:1002:2::100/120,IPv6,AppService.QatarCentral,qatarcentral
-2603:1040:1002:2::400/120,IPv6,AppService.QatarCentral,qatarcentral

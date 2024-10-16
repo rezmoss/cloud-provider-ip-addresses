@@ -1,8 +1,0 @@
-[
-  {
-    "ip_address": "51.116.144.112/28",
-    "ip_type": "IPv4",
-    "service": "AzureOpenDatasets.GermanyWestCentral",
-    "region": "germanywc"
-  }
-]

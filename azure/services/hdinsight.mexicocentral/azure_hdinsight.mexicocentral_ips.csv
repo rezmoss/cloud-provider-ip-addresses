@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-158.23.103.104/29,IPv4,HDInsight.MexicoCentral,mexicocentral
-2603:1030:702:1::2b0/124,IPv6,HDInsight.MexicoCentral,mexicocentral

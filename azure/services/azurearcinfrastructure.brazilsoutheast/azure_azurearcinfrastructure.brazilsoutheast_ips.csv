@@ -1,5 +1,0 @@
-ip_address,ip_type,service,region
-20.206.6.188/30,IPv4,AzureArcInfrastructure.BrazilSoutheast,brazilse
-108.140.1.96/29,IPv4,AzureArcInfrastructure.BrazilSoutheast,brazilse
-108.140.1.104/31,IPv4,AzureArcInfrastructure.BrazilSoutheast,brazilse
-191.237.224.230/32,IPv4,AzureArcInfrastructure.BrazilSoutheast,brazilse

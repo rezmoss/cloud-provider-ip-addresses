@@ -1,8 +1,0 @@
-[
-  {
-    "ip_address": "20.43.41.160/28",
-    "ip_type": "IPv4",
-    "service": "AzureOpenDatasets.FranceCentral",
-    "region": "centralfrance"
-  }
-]

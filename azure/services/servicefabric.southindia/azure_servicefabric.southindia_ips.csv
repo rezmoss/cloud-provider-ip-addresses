@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-40.78.195.0/29,IPv4,ServiceFabric.SouthIndia,southindia
-104.211.228.68/32,IPv4,ServiceFabric.SouthIndia,southindia
-2603:1040:c06:402::98/125,IPv6,ServiceFabric.SouthIndia,southindia

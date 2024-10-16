@@ -1,8 +1,0 @@
-ip_address,ip_type,service,region
-20.38.87.0/25,IPv4,AzureEventGrid.NorthEurope,northeurope
-20.191.59.128/28,IPv4,AzureEventGrid.NorthEurope,northeurope
-20.191.59.176/28,IPv4,AzureEventGrid.NorthEurope,northeurope
-40.127.155.192/28,IPv4,AzureEventGrid.NorthEurope,northeurope
-40.127.251.144/28,IPv4,AzureEventGrid.NorthEurope,northeurope
-68.219.195.0/24,IPv4,AzureEventGrid.NorthEurope,northeurope
-2603:1020:5:1::380/121,IPv6,AzureEventGrid.NorthEurope,northeurope

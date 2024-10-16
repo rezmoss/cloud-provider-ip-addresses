@@ -1,6 +1,0 @@
-ip_address,ip_type,service,region
-13.71.194.128/26,IPv4,AppServiceManagement.WestCentralUS,westcentralus
-13.78.148.75/32,IPv4,AppServiceManagement.WestCentralUS,westcentralus
-20.69.5.128/28,IPv4,AppServiceManagement.WestCentralUS,westcentralus
-2603:1030:b04:1::4a0/123,IPv6,AppServiceManagement.WestCentralUS,westcentralus
-2603:1030:b04:402::100/122,IPv6,AppServiceManagement.WestCentralUS,westcentralus

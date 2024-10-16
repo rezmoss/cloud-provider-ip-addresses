@@ -1,7 +1,0 @@
-ip_address,ip_type,service,region
-68.221.98.76/30,IPv4,ServiceFabric.SpainCentral,spaincentral
-68.221.146.72/30,IPv4,ServiceFabric.SpainCentral,spaincentral
-68.221.154.72/30,IPv4,ServiceFabric.SpainCentral,spaincentral
-2603:1020:1403:400::18/125,IPv6,ServiceFabric.SpainCentral,spaincentral
-2603:1020:1403:800::10/125,IPv6,ServiceFabric.SpainCentral,spaincentral
-2603:1020:1403:c00::50/125,IPv6,ServiceFabric.SpainCentral,spaincentral

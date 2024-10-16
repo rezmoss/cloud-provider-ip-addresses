@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-51.107.192.152/30,IPv4,AzureAttestation.SwitzerlandWest,switzerlandw
-51.107.250.40/30,IPv4,AzureAttestation.SwitzerlandWest,switzerlandw
-2603:1020:b04:5::b0/124,IPv6,AzureAttestation.SwitzerlandWest,switzerlandw

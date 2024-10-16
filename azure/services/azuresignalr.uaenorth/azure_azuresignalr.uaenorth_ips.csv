@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-20.38.143.192/27,IPv4,AzureSignalR.UAENorth,uaenorth
-40.120.64.160/27,IPv4,AzureSignalR.UAENorth,uaenorth
-2603:1040:904:2::300/120,IPv6,AzureSignalR.UAENorth,uaenorth

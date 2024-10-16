@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-52.140.111.112/29,IPv4,AzureDigitalTwins.CentralIndia,centralindia
-52.140.111.192/27,IPv4,AzureDigitalTwins.CentralIndia,centralindia
-2603:1040:a06:2::200/121,IPv6,AzureDigitalTwins.CentralIndia,centralindia

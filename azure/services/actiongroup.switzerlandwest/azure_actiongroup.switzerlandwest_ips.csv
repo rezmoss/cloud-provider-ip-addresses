@@ -1,6 +1,0 @@
-ip_address,ip_type,service,region
-20.199.201.66/31,IPv4,ActionGroup.SwitzerlandWest,switzerlandw
-20.199.207.184/30,IPv4,ActionGroup.SwitzerlandWest,switzerlandw
-51.107.193.28/30,IPv4,ActionGroup.SwitzerlandWest,switzerlandw
-2603:1020:b04:2::5b4/126,IPv6,ActionGroup.SwitzerlandWest,switzerlandw
-2603:1020:b04:402::178/125,IPv6,ActionGroup.SwitzerlandWest,switzerlandw

@@ -1,9 +1,0 @@
-ip_address,ip_type,service,region
-20.49.113.12/30,IPv4,AzureArcInfrastructure.NorthCentralUS,northcentralus
-20.49.114.52/30,IPv4,AzureArcInfrastructure.NorthCentralUS,northcentralus
-20.125.173.160/31,IPv4,AzureArcInfrastructure.NorthCentralUS,northcentralus
-20.125.205.160/31,IPv4,AzureArcInfrastructure.NorthCentralUS,northcentralus
-20.241.119.28/31,IPv4,AzureArcInfrastructure.NorthCentralUS,northcentralus
-20.241.119.104/29,IPv4,AzureArcInfrastructure.NorthCentralUS,northcentralus
-52.162.111.132/32,IPv4,AzureArcInfrastructure.NorthCentralUS,northcentralus
-52.240.244.228/30,IPv4,AzureArcInfrastructure.NorthCentralUS,northcentralus

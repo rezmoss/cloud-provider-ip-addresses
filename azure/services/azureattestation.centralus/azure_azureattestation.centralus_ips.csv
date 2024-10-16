@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-20.40.225.60/30,IPv4,AzureAttestation.CentralUS,centralus
-20.44.12.140/30,IPv4,AzureAttestation.CentralUS,centralus

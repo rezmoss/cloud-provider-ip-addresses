@@ -1,5 +1,0 @@
-ip_address,ip_type,service,region
-13.73.240.8/29,IPv4,HDInsight.SouthCentralUS,southcentralus
-13.73.254.192/29,IPv4,HDInsight.SouthCentralUS,southcentralus
-172.215.132.128/29,IPv4,HDInsight.SouthCentralUS,southcentralus
-2603:1030:807:402::320/124,IPv6,HDInsight.SouthCentralUS,southcentralus

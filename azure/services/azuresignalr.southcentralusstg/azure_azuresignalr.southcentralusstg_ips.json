@@ -1,8 +1,0 @@
-[
-  {
-    "ip_address": "2603:1030:302::300/120",
-    "ip_type": "IPv6",
-    "service": "AzureSignalR.SouthCentralUSSTG",
-    "region": "usstagec"
-  }
-]

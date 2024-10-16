@@ -1,6 +1,0 @@
-ip_address,ip_type,service,region
-4.207.251.80/28,IPv4,AzureDataExplorerManagement.NorthEurope,northeurope
-13.69.229.176/28,IPv4,AzureDataExplorerManagement.NorthEurope,northeurope
-52.142.91.221/32,IPv4,AzureDataExplorerManagement.NorthEurope,northeurope
-2603:1020:5::600/121,IPv6,AzureDataExplorerManagement.NorthEurope,northeurope
-2603:1020:5:402::150/124,IPv6,AzureDataExplorerManagement.NorthEurope,northeurope

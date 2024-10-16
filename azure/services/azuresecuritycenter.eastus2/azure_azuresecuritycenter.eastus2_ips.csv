@@ -1,6 +1,0 @@
-ip_address,ip_type,service,region
-20.44.19.128/27,IPv4,AzureSecurityCenter.EastUS2,eastus2
-40.84.90.128/25,IPv4,AzureSecurityCenter.EastUS2,eastus2
-40.84.92.0/23,IPv4,AzureSecurityCenter.EastUS2,eastus2
-104.208.207.64/26,IPv4,AzureSecurityCenter.EastUS2,eastus2
-135.237.168.0/24,IPv4,AzureSecurityCenter.EastUS2,eastus2

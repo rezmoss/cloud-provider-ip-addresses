@@ -1,5 +1,0 @@
-ip_address,ip_type,service,region
-51.116.48.192/27,IPv4,AzurePortal.GermanyNorth,germanyn
-51.116.49.140/30,IPv4,AzurePortal.GermanyNorth,germanyn
-51.116.51.160/29,IPv4,AzurePortal.GermanyNorth,germanyn
-2603:1020:d04::700/121,IPv6,AzurePortal.GermanyNorth,germanyn

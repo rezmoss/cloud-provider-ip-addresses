@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-20.193.96.224/29,IPv4,MicrosoftContainerRegistry.AustraliaCentral2,australiacentral2
-2603:1010:404:402::88/125,IPv6,MicrosoftContainerRegistry.AustraliaCentral2,australiacentral2

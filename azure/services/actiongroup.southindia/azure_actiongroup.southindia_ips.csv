@@ -1,6 +1,0 @@
-ip_address,ip_type,service,region
-52.172.33.114/32,IPv4,ActionGroup.SouthIndia,southindia
-52.172.87.0/30,IPv4,ActionGroup.SouthIndia,southindia
-104.211.231.103/32,IPv4,ActionGroup.SouthIndia,southindia
-2603:1040:c06::10c/126,IPv6,ActionGroup.SouthIndia,southindia
-2603:1040:c06:402::178/125,IPv6,ActionGroup.SouthIndia,southindia

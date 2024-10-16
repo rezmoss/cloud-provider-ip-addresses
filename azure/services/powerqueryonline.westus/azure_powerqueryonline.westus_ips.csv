@@ -1,7 +1,0 @@
-ip_address,ip_type,service,region
-20.59.81.240/28,IPv4,PowerQueryOnline.WestUS,westus
-20.189.175.164/31,IPv4,PowerQueryOnline.WestUS,westus
-40.82.253.72/29,IPv4,PowerQueryOnline.WestUS,westus
-52.159.212.192/28,IPv4,PowerQueryOnline.WestUS,westus
-2603:1030:a07::200/123,IPv6,PowerQueryOnline.WestUS,westus
-2603:1030:a07:402::358/126,IPv6,PowerQueryOnline.WestUS,westus

@@ -1,7 +1,0 @@
-ip_address,ip_type,service,region
-20.215.18.64/29,IPv4,MicrosoftContainerRegistry.PolandCentral,polandcentral
-20.215.26.64/29,IPv4,MicrosoftContainerRegistry.PolandCentral,polandcentral
-20.215.154.64/29,IPv4,MicrosoftContainerRegistry.PolandCentral,polandcentral
-2603:1020:1302:400::40/125,IPv6,MicrosoftContainerRegistry.PolandCentral,polandcentral
-2603:1020:1302:800::40/125,IPv6,MicrosoftContainerRegistry.PolandCentral,polandcentral
-2603:1020:1302:c00::40/125,IPv6,MicrosoftContainerRegistry.PolandCentral,polandcentral

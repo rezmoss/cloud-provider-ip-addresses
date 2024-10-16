@@ -1,9 +1,0 @@
-ip_address,ip_type,service,region
-51.104.15.254/32,IPv4,AzureArcInfrastructure.UKSouth,uksouth
-51.104.28.216/30,IPv4,AzureArcInfrastructure.UKSouth,uksouth
-51.104.31.172/30,IPv4,AzureArcInfrastructure.UKSouth,uksouth
-51.105.71.144/31,IPv4,AzureArcInfrastructure.UKSouth,uksouth
-51.105.77.50/31,IPv4,AzureArcInfrastructure.UKSouth,uksouth
-51.140.151.168/30,IPv4,AzureArcInfrastructure.UKSouth,uksouth
-172.167.234.102/31,IPv4,AzureArcInfrastructure.UKSouth,uksouth
-172.167.236.56/29,IPv4,AzureArcInfrastructure.UKSouth,uksouth

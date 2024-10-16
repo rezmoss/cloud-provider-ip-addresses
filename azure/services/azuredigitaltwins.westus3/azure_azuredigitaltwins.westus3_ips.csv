@@ -1,6 +1,0 @@
-ip_address,ip_type,service,region
-20.150.166.176/29,IPv4,AzureDigitalTwins.WestUS3,westus3
-20.150.167.128/27,IPv4,AzureDigitalTwins.WestUS3,westus3
-2603:1030:504::560/123,IPv6,AzureDigitalTwins.WestUS3,westus3
-2603:1030:504:2::/121,IPv6,AzureDigitalTwins.WestUS3,westus3
-2603:1030:504:8::5f0/126,IPv6,AzureDigitalTwins.WestUS3,westus3

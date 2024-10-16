@@ -1,7 +1,0 @@
-ip_address,ip_type,service,region
-13.75.34.152/29,IPv4,MicrosoftContainerRegistry.EastAsia,eastasia
-20.205.74.64/29,IPv4,MicrosoftContainerRegistry.EastAsia,eastasia
-20.205.82.64/29,IPv4,MicrosoftContainerRegistry.EastAsia,eastasia
-2603:1040:207:402::88/125,IPv6,MicrosoftContainerRegistry.EastAsia,eastasia
-2603:1040:207:800::40/125,IPv6,MicrosoftContainerRegistry.EastAsia,eastasia
-2603:1040:207:c00::40/125,IPv6,MicrosoftContainerRegistry.EastAsia,eastasia

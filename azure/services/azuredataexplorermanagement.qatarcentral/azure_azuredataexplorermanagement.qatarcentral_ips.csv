@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-20.21.37.0/28,IPv4,AzureDataExplorerManagement.QatarCentral,qatarcentral
-2603:1040:1002:1::180/123,IPv6,AzureDataExplorerManagement.QatarCentral,qatarcentral

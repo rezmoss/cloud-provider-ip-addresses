@@ -1,7 +1,0 @@
-ip_address,ip_type,service,region
-20.43.131.128/25,IPv4,AzureEventGrid.SoutheastAsia,southeastasia
-20.43.165.144/28,IPv4,AzureEventGrid.SoutheastAsia,southeastasia
-20.43.172.128/27,IPv4,AzureEventGrid.SoutheastAsia,southeastasia
-20.44.205.112/28,IPv4,AzureEventGrid.SoutheastAsia,southeastasia
-57.155.33.0/25,IPv4,AzureEventGrid.SoutheastAsia,southeastasia
-2603:1040:5:1::380/121,IPv6,AzureEventGrid.SoutheastAsia,southeastasia

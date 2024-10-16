@@ -1,7 +1,0 @@
-ip_address,ip_type,service,region
-51.53.191.80/28,IPv4,LogicApps.TaiwanNorthwest,taiwannorthwest
-51.53.191.96/27,IPv4,LogicApps.TaiwanNorthwest,taiwannorthwest
-167.105.144.112/28,IPv4,LogicApps.TaiwanNorthwest,taiwannorthwest
-167.105.151.48/28,IPv4,LogicApps.TaiwanNorthwest,taiwannorthwest
-2603:1040:1202:400::3d0/124,IPv6,LogicApps.TaiwanNorthwest,taiwannorthwest
-2603:1040:1202:400::3e0/123,IPv6,LogicApps.TaiwanNorthwest,taiwannorthwest

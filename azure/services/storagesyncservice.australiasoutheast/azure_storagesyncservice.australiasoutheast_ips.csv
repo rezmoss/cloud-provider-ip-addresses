@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-13.70.176.196/32,IPv4,StorageSyncService.AustraliaSoutheast,australiasoutheast
-20.42.227.128/29,IPv4,StorageSyncService.AustraliaSoutheast,australiasoutheast
-2603:1010:101::340/123,IPv6,StorageSyncService.AustraliaSoutheast,australiasoutheast

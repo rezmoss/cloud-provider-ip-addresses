@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-20.44.10.208/28,IPv4,SCCservice.CentralUS,centralus
-40.78.149.166/32,IPv4,SCCservice.CentralUS,centralus
-104.43.210.200/32,IPv4,SCCservice.CentralUS,centralus

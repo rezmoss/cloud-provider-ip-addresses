@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-52.231.146.88/29,IPv4,MicrosoftContainerRegistry.KoreaSouth,koreasouth
-2603:1040:e05:402::140/125,IPv6,MicrosoftContainerRegistry.KoreaSouth,koreasouth

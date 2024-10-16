@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-40.89.17.64/26,IPv4,AzureCognitiveSearch.CanadaEast,canadaeast
-2603:1030:1005::180/121,IPv6,AzureCognitiveSearch.CanadaEast,canadaeast

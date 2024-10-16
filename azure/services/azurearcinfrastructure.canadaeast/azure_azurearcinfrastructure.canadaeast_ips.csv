@@ -1,8 +1,0 @@
-ip_address,ip_type,service,region
-20.175.7.6/31,IPv4,AzureArcInfrastructure.CanadaEast,canadaeast
-20.175.7.128/29,IPv4,AzureArcInfrastructure.CanadaEast,canadaeast
-40.69.111.34/31,IPv4,AzureArcInfrastructure.CanadaEast,canadaeast
-40.69.111.192/30,IPv4,AzureArcInfrastructure.CanadaEast,canadaeast
-40.69.116.96/29,IPv4,AzureArcInfrastructure.CanadaEast,canadaeast
-40.89.20.128/30,IPv4,AzureArcInfrastructure.CanadaEast,canadaeast
-40.89.23.32/30,IPv4,AzureArcInfrastructure.CanadaEast,canadaeast

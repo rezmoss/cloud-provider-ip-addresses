@@ -1,7 +1,0 @@
-ip_address,ip_type,service,region
-13.69.227.224/29,IPv4,GatewayManager.NorthEurope,northeurope
-20.38.80.72/29,IPv4,GatewayManager.NorthEurope,northeurope
-20.54.106.86/32,IPv4,GatewayManager.NorthEurope,northeurope
-20.54.121.133/32,IPv4,GatewayManager.NorthEurope,northeurope
-20.107.239.96/27,IPv4,GatewayManager.NorthEurope,northeurope
-2603:1020:5:1::40/122,IPv6,GatewayManager.NorthEurope,northeurope

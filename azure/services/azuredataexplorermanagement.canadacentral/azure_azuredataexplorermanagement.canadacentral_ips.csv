@@ -1,6 +1,0 @@
-ip_address,ip_type,service,region
-4.174.144.144/28,IPv4,AzureDataExplorerManagement.CanadaCentral,canadacentral
-13.71.173.64/28,IPv4,AzureDataExplorerManagement.CanadaCentral,canadacentral
-40.82.188.208/32,IPv4,AzureDataExplorerManagement.CanadaCentral,canadacentral
-2603:1030:f05::600/121,IPv6,AzureDataExplorerManagement.CanadaCentral,canadacentral
-2603:1030:f05:402::150/124,IPv6,AzureDataExplorerManagement.CanadaCentral,canadacentral

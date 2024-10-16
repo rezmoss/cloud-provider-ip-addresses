@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-40.78.107.240/28,IPv4,AzureUpdateDelivery.WestUS,westus
-2a01:111:f100:3001::a83e:b00/124,IPv6,AzureUpdateDelivery.WestUS,westus

@@ -1,6 +1,0 @@
-ip_address,ip_type,service,region
-40.78.195.32/27,IPv4,AzureBackup.SouthIndia,southindia
-40.78.195.64/26,IPv4,AzureBackup.SouthIndia,southindia
-52.172.116.64/26,IPv4,AzureBackup.SouthIndia,southindia
-2603:1040:c06:3::600/121,IPv6,AzureBackup.SouthIndia,southindia
-2603:1040:c06:402::200/121,IPv6,AzureBackup.SouthIndia,southindia

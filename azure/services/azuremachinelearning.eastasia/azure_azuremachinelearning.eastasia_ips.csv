@@ -1,8 +1,0 @@
-ip_address,ip_type,service,region
-13.75.36.16/28,IPv4,AzureMachineLearning.EastAsia,eastasia
-20.189.106.80/28,IPv4,AzureMachineLearning.EastAsia,eastasia
-20.195.75.48/28,IPv4,AzureMachineLearning.EastAsia,eastasia
-20.195.75.96/27,IPv4,AzureMachineLearning.EastAsia,eastasia
-40.81.27.228/32,IPv4,AzureMachineLearning.EastAsia,eastasia
-52.184.87.76/32,IPv4,AzureMachineLearning.EastAsia,eastasia
-2603:1040:207::300/122,IPv6,AzureMachineLearning.EastAsia,eastasia

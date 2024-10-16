@@ -1,8 +1,0 @@
-ip_address,ip_type,service,region
-20.111.0.208/28,IPv4,AppServiceManagement.FranceCentral,centralfrance
-40.79.130.64/26,IPv4,AppServiceManagement.FranceCentral,centralfrance
-52.143.136.64/32,IPv4,AppServiceManagement.FranceCentral,centralfrance
-2603:1020:805:2::500/123,IPv6,AppServiceManagement.FranceCentral,centralfrance
-2603:1020:805:402::100/122,IPv6,AppServiceManagement.FranceCentral,centralfrance
-2603:1020:805:802::100/122,IPv6,AppServiceManagement.FranceCentral,centralfrance
-2603:1020:805:c02::100/122,IPv6,AppServiceManagement.FranceCentral,centralfrance

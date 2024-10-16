@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-20.37.196.0/25,IPv4,AzureEventGrid.AustraliaEast,australiaeast
-68.218.137.128/26,IPv4,AzureEventGrid.AustraliaEast,australiaeast
-2603:1010:6:1::380/121,IPv6,AzureEventGrid.AustraliaEast,australiaeast

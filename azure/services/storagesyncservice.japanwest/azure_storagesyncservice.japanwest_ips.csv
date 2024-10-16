@@ -1,6 +1,0 @@
-ip_address,ip_type,service,region
-23.100.106.151/32,IPv4,StorageSyncService.JapanWest,japanwest
-40.74.99.32/29,IPv4,StorageSyncService.JapanWest,japanwest
-40.80.57.192/29,IPv4,StorageSyncService.JapanWest,japanwest
-2603:1040:606::340/123,IPv6,StorageSyncService.JapanWest,japanwest
-2603:1040:606:402::680/123,IPv6,StorageSyncService.JapanWest,japanwest

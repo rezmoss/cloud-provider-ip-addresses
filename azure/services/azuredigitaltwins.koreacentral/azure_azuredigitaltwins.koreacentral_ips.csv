@@ -1,5 +1,0 @@
-ip_address,ip_type,service,region
-20.194.72.136/29,IPv4,AzureDigitalTwins.KoreaCentral,koreacentral
-20.194.72.160/27,IPv4,AzureDigitalTwins.KoreaCentral,koreacentral
-2603:1040:f05::700/121,IPv6,AzureDigitalTwins.KoreaCentral,koreacentral
-2603:1040:f05:7::/126,IPv6,AzureDigitalTwins.KoreaCentral,koreacentral

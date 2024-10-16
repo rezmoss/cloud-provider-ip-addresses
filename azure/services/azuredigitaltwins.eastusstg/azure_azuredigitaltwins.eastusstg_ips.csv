@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-40.67.52.104/29,IPv4,AzureDigitalTwins.EastUSSTG,usstagee
-40.67.52.192/27,IPv4,AzureDigitalTwins.EastUSSTG,usstagee
-2603:1030:104::700/121,IPv6,AzureDigitalTwins.EastUSSTG,usstagee

@@ -1,7 +1,0 @@
-ip_address,ip_type,service,region
-102.37.65.0/26,IPv4,EventHub.SouthAfricaWest,southafricawest
-102.37.83.0/24,IPv4,EventHub.SouthAfricaWest,southafricawest
-102.133.26.128/26,IPv4,EventHub.SouthAfricaWest,southafricawest
-2603:1000:4::240/122,IPv6,EventHub.SouthAfricaWest,southafricawest
-2603:1000:4:2::/120,IPv6,EventHub.SouthAfricaWest,southafricawest
-2603:1000:4:402::1c0/123,IPv6,EventHub.SouthAfricaWest,southafricawest

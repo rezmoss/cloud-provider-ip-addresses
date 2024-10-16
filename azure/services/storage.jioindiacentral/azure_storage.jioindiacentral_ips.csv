@@ -1,8 +1,0 @@
-ip_address,ip_type,service,region
-20.60.170.0/23,IPv4,Storage.JioIndiaCentral,jioindiacentral
-20.150.64.0/24,IPv4,Storage.JioIndiaCentral,jioindiacentral
-20.150.109.0/24,IPv4,Storage.JioIndiaCentral,jioindiacentral
-20.157.152.0/24,IPv4,Storage.JioIndiaCentral,jioindiacentral
-20.157.233.0/24,IPv4,Storage.JioIndiaCentral,jioindiacentral
-57.150.184.0/23,IPv4,Storage.JioIndiaCentral,jioindiacentral
-2603:1040:1100::/48,IPv6,Storage.JioIndiaCentral,jioindiacentral

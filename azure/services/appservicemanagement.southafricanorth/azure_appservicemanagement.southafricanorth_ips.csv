@@ -1,7 +1,0 @@
-ip_address,ip_type,service,region
-20.87.80.32/28,IPv4,AppServiceManagement.SouthAfricaNorth,southafricanorth
-40.127.3.19/32,IPv4,AppServiceManagement.SouthAfricaNorth,southafricanorth
-2603:1000:104:3::20/123,IPv6,AppServiceManagement.SouthAfricaNorth,southafricanorth
-2603:1000:104:402::100/122,IPv6,AppServiceManagement.SouthAfricaNorth,southafricanorth
-2603:1000:104:802::100/122,IPv6,AppServiceManagement.SouthAfricaNorth,southafricanorth
-2603:1000:104:c02::100/122,IPv6,AppServiceManagement.SouthAfricaNorth,southafricanorth

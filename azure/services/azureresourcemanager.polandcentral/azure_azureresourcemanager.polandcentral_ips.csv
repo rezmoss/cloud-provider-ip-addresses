@@ -1,5 +1,0 @@
-ip_address,ip_type,service,region
-20.215.10.0/23,IPv4,AzureResourceManager.PolandCentral,polandcentral
-20.215.156.0/26,IPv4,AzureResourceManager.PolandCentral,polandcentral
-2603:1020:1302:1::400/120,IPv6,AzureResourceManager.PolandCentral,polandcentral
-2603:1020:1302:400::1c0/122,IPv6,AzureResourceManager.PolandCentral,polandcentral

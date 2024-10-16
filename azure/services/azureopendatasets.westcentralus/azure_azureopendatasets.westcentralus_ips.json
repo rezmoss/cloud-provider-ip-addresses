@@ -1,8 +1,0 @@
-[
-  {
-    "ip_address": "52.150.139.80/28",
-    "ip_type": "IPv4",
-    "service": "AzureOpenDatasets.WestCentralUS",
-    "region": "westcentralus"
-  }
-]

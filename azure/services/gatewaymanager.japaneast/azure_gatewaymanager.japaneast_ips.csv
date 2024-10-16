@@ -1,5 +1,0 @@
-ip_address,ip_type,service,region
-13.78.108.16/29,IPv4,GatewayManager.JapanEast,japaneast
-20.43.64.72/29,IPv4,GatewayManager.JapanEast,japaneast
-20.210.68.160/27,IPv4,GatewayManager.JapanEast,japaneast
-2603:1040:407:1::40/122,IPv6,GatewayManager.JapanEast,japaneast

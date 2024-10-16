@@ -1,9 +1,0 @@
-ip_address,ip_type,service,region
-20.38.132.192/26,IPv4,AzureContainerRegistry.WestIndia,westindia
-20.38.134.0/25,IPv4,AzureContainerRegistry.WestIndia,westindia
-104.211.146.80/29,IPv4,AzureContainerRegistry.WestIndia,westindia
-2603:1040:806:2::310/125,IPv6,AzureContainerRegistry.WestIndia,westindia
-2603:1040:806:402::90/125,IPv6,AzureContainerRegistry.WestIndia,westindia
-2603:1040:806:402::340/122,IPv6,AzureContainerRegistry.WestIndia,westindia
-2603:1040:806:402::580/122,IPv6,AzureContainerRegistry.WestIndia,westindia
-2603:1040:806:402::600/121,IPv6,AzureContainerRegistry.WestIndia,westindia

@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-20.189.229.224/27,IPv4,AzureSignalR.JapanWest,japanwest
-2603:1040:606:2::100/120,IPv6,AzureSignalR.JapanWest,japanwest

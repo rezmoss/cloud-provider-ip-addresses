@@ -1,5 +1,0 @@
-ip_address,ip_type,service,region
-51.53.30.0/25,IPv4,ServiceBus.TaiwanNorth,taiwannorth
-51.53.106.80/29,IPv4,ServiceBus.TaiwanNorth,taiwannorth
-51.53.106.96/28,IPv4,ServiceBus.TaiwanNorth,taiwannorth
-2603:1040:1302::780/121,IPv6,ServiceBus.TaiwanNorth,taiwannorth

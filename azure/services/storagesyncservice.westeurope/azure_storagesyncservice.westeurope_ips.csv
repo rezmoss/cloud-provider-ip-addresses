@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-20.50.1.0/29,IPv4,StorageSyncService.WestEurope,westeurope
-104.40.191.8/32,IPv4,StorageSyncService.WestEurope,westeurope
-2603:1020:206:1::300/123,IPv6,StorageSyncService.WestEurope,westeurope

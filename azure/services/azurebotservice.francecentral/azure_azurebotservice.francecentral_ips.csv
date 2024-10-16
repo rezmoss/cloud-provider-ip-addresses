@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-20.43.40.64/30,IPv4,AzureBotService.FranceCentral,centralfrance
-40.79.132.56/30,IPv4,AzureBotService.FranceCentral,centralfrance
-2603:1020:805:1::20/123,IPv6,AzureBotService.FranceCentral,centralfrance

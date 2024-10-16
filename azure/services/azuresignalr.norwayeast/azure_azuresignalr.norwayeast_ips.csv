@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-51.120.213.96/27,IPv4,AzureSignalR.NorwayEast,norwaye
-51.120.233.96/27,IPv4,AzureSignalR.NorwayEast,norwaye
-2603:1020:e04:3::700/120,IPv6,AzureSignalR.NorwayEast,norwaye

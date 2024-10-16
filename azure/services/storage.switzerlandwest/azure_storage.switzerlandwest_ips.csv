@@ -1,9 +1,0 @@
-ip_address,ip_type,service,region
-20.47.26.0/24,IPv4,Storage.SwitzerlandWest,switzerlandw
-20.60.176.0/23,IPv4,Storage.SwitzerlandWest,switzerlandw
-20.150.55.0/24,IPv4,Storage.SwitzerlandWest,switzerlandw
-20.150.116.0/24,IPv4,Storage.SwitzerlandWest,switzerlandw
-20.157.133.0/24,IPv4,Storage.SwitzerlandWest,switzerlandw
-52.239.250.0/24,IPv4,Storage.SwitzerlandWest,switzerlandw
-57.150.22.0/24,IPv4,Storage.SwitzerlandWest,switzerlandw
-2603:1020:b05::/48,IPv6,Storage.SwitzerlandWest,switzerlandw

@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-20.192.160.48/28,IPv4,AzureMachineLearning.JioIndiaWest,jioindiawest
-20.193.194.176/28,IPv4,AzureMachineLearning.JioIndiaWest,jioindiawest
-2603:1040:d04::2c0/122,IPv6,AzureMachineLearning.JioIndiaWest,jioindiawest

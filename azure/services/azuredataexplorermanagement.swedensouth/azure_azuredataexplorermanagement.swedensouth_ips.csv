@@ -1,5 +1,0 @@
-ip_address,ip_type,service,region
-51.12.20.48/28,IPv4,AzureDataExplorerManagement.SwedenSouth,swedensouth
-51.12.203.192/28,IPv4,AzureDataExplorerManagement.SwedenSouth,swedensouth
-2603:1020:1104:1::600/121,IPv6,AzureDataExplorerManagement.SwedenSouth,swedensouth
-2603:1020:1104:400::150/124,IPv6,AzureDataExplorerManagement.SwedenSouth,swedensouth

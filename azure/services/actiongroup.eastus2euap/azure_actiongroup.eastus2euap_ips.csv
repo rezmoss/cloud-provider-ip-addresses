@@ -1,6 +1,0 @@
-ip_address,ip_type,service,region
-20.47.194.50/32,IPv4,ActionGroup.EastUS2EUAP,eastus2euap
-20.47.194.102/32,IPv4,ActionGroup.EastUS2EUAP,eastus2euap
-20.252.215.0/30,IPv4,ActionGroup.EastUS2EUAP,eastus2euap
-2603:1030:40b:1::114/126,IPv6,ActionGroup.EastUS2EUAP,eastus2euap
-2603:1030:40b:400::978/125,IPv6,ActionGroup.EastUS2EUAP,eastus2euap

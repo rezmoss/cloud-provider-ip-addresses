@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-20.41.65.64/26,IPv4,AzureCognitiveSearch.KoreaCentral,koreacentral
-40.82.155.65/32,IPv4,AzureCognitiveSearch.KoreaCentral,koreacentral
-2603:1040:f05:1::180/121,IPv6,AzureCognitiveSearch.KoreaCentral,koreacentral

@@ -1,5 +1,0 @@
-ip_address,ip_type,service,region
-20.192.234.192/26,IPv4,AppServiceManagement.JioIndiaCentral,jioindiacentral
-20.207.1.32/28,IPv4,AppServiceManagement.JioIndiaCentral,jioindiacentral
-2603:1040:1104:2::260/123,IPv6,AppServiceManagement.JioIndiaCentral,jioindiacentral
-2603:1040:1104:400::100/122,IPv6,AppServiceManagement.JioIndiaCentral,jioindiacentral

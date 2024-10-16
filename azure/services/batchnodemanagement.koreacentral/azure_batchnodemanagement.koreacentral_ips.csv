@@ -1,7 +1,0 @@
-ip_address,ip_type,service,region
-20.41.66.128/27,IPv4,BatchNodeManagement.KoreaCentral,koreacentral
-20.44.27.64/27,IPv4,BatchNodeManagement.KoreaCentral,koreacentral
-52.231.19.96/27,IPv4,BatchNodeManagement.KoreaCentral,koreacentral
-52.231.32.70/31,IPv4,BatchNodeManagement.KoreaCentral,koreacentral
-52.231.32.82/32,IPv4,BatchNodeManagement.KoreaCentral,koreacentral
-2603:1040:f05:1::340/122,IPv6,BatchNodeManagement.KoreaCentral,koreacentral

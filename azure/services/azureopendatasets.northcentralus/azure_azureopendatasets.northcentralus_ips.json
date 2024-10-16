@@ -1,8 +1,0 @@
-[
-  {
-    "ip_address": "40.80.188.32/28",
-    "ip_type": "IPv4",
-    "service": "AzureOpenDatasets.NorthCentralUS",
-    "region": "northcentralus"
-  }
-]

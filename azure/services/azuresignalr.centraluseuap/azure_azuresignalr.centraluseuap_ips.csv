@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-20.46.11.96/27,IPv4,AzureSignalR.CentralUSEUAP,centraluseuap
-40.78.204.96/27,IPv4,AzureSignalR.CentralUSEUAP,centraluseuap
-2603:1030:f:3::500/120,IPv6,AzureSignalR.CentralUSEUAP,centraluseuap

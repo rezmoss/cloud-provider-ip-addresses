@@ -1,9 +1,0 @@
-ip_address,ip_type,service,region
-20.49.83.224/28,IPv4,DataFactory.EastUSSTG,usstagee
-20.99.12.0/23,IPv4,DataFactory.EastUSSTG,usstagee
-2603:1030:104:1::480/121,IPv6,DataFactory.EastUSSTG,usstagee
-2603:1030:104:1::500/122,IPv6,DataFactory.EastUSSTG,usstagee
-2603:1030:104:1::700/121,IPv6,DataFactory.EastUSSTG,usstagee
-2603:1030:104:1::780/122,IPv6,DataFactory.EastUSSTG,usstagee
-2603:1030:104:402::330/124,IPv6,DataFactory.EastUSSTG,usstagee
-2603:1030:104:802::40/124,IPv6,DataFactory.EastUSSTG,usstagee

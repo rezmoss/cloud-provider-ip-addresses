@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-68.218.131.40/30,IPv4,ActionGroup.AustraliaEast,australiaeast
-2603:1010:6:1::10c/126,IPv6,ActionGroup.AustraliaEast,australiaeast
-2603:1010:6:402::178/125,IPv6,ActionGroup.AustraliaEast,australiaeast

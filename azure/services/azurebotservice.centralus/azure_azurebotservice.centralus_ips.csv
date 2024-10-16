@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-13.89.171.116/30,IPv4,AzureBotService.CentralUS,centralus
-20.37.152.64/30,IPv4,AzureBotService.CentralUS,centralus
-2603:1030:10:1::20/123,IPv6,AzureBotService.CentralUS,centralus

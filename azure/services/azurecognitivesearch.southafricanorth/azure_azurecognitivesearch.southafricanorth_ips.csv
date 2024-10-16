@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-102.133.128.33/32,IPv4,AzureCognitiveSearch.SouthAfricaNorth,southafricanorth
-102.133.217.128/26,IPv4,AzureCognitiveSearch.SouthAfricaNorth,southafricanorth
-2603:1000:104:1::180/121,IPv6,AzureCognitiveSearch.SouthAfricaNorth,southafricanorth

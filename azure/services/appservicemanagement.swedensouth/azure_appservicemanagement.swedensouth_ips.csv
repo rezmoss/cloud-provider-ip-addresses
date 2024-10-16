@@ -1,6 +1,0 @@
-ip_address,ip_type,service,region
-51.12.20.192/27,IPv4,AppServiceManagement.SwedenSouth,swedensouth
-51.12.22.224/28,IPv4,AppServiceManagement.SwedenSouth,swedensouth
-51.12.203.0/26,IPv4,AppServiceManagement.SwedenSouth,swedensouth
-2603:1020:1104:2::200/123,IPv6,AppServiceManagement.SwedenSouth,swedensouth
-2603:1020:1104:400::100/122,IPv6,AppServiceManagement.SwedenSouth,swedensouth

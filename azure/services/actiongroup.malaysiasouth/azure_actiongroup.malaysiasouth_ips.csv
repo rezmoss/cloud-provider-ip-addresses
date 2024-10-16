@@ -1,5 +1,0 @@
-ip_address,ip_type,service,region
-20.17.63.212/30,IPv4,ActionGroup.MalaysiaSouth,malaysiasouth
-20.17.66.88/30,IPv4,ActionGroup.MalaysiaSouth,malaysiasouth
-2603:1040:1503:1::1c4/126,IPv6,ActionGroup.MalaysiaSouth,malaysiasouth
-2603:1040:1503:400::180/125,IPv6,ActionGroup.MalaysiaSouth,malaysiasouth

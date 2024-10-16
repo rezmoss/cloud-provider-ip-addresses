@@ -1,5 +1,0 @@
-ip_address,ip_type,service,region
-40.64.134.144/28,IPv4,PowerPlatformInfra.WestUS2,westus2
-40.64.134.192/26,IPv4,PowerPlatformInfra.WestUS2,westus2
-40.91.87.146/32,IPv4,PowerPlatformInfra.WestUS2,westus2
-2603:1061:2002:500::/57,IPv6,PowerPlatformInfra.WestUS2,westus2

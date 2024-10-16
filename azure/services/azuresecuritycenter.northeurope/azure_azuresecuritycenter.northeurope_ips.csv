@@ -1,6 +1,0 @@
-ip_address,ip_type,service,region
-4.207.250.0/24,IPv4,AzureSecurityCenter.NorthEurope,northeurope
-4.207.251.0/26,IPv4,AzureSecurityCenter.NorthEurope,northeurope
-13.69.233.64/27,IPv4,AzureSecurityCenter.NorthEurope,northeurope
-48.209.132.128/25,IPv4,AzureSecurityCenter.NorthEurope,northeurope
-48.209.134.0/23,IPv4,AzureSecurityCenter.NorthEurope,northeurope

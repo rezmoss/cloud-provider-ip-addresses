@@ -1,6 +1,0 @@
-ip_address,ip_type,service,region
-20.157.238.0/24,IPv4,Storage.MalaysiaSouth,malaysiasouth
-20.157.254.0/24,IPv4,Storage.MalaysiaSouth,malaysiasouth
-20.209.66.0/23,IPv4,Storage.MalaysiaSouth,malaysiasouth
-20.209.78.0/23,IPv4,Storage.MalaysiaSouth,malaysiasouth
-2603:1040:1504::/48,IPv6,Storage.MalaysiaSouth,malaysiasouth

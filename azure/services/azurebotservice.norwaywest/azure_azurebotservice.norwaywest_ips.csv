@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-51.120.218.4/30,IPv4,AzureBotService.NorwayWest,norwayw
-51.120.224.64/30,IPv4,AzureBotService.NorwayWest,norwayw
-2603:1020:f04::20/123,IPv6,AzureBotService.NorwayWest,norwayw

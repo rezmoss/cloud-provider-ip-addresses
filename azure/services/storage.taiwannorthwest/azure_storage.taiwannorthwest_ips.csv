@@ -1,7 +1,0 @@
-ip_address,ip_type,service,region
-20.60.114.0/24,IPv4,Storage.TaiwanNorthwest,taiwannorthwest
-20.157.174.0/24,IPv4,Storage.TaiwanNorthwest,taiwannorthwest
-20.157.188.0/24,IPv4,Storage.TaiwanNorthwest,taiwannorthwest
-20.209.44.0/23,IPv4,Storage.TaiwanNorthwest,taiwannorthwest
-20.209.144.0/23,IPv4,Storage.TaiwanNorthwest,taiwannorthwest
-2603:1040:1203::/48,IPv6,Storage.TaiwanNorthwest,taiwannorthwest

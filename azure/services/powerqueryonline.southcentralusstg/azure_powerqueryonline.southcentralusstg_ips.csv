@@ -1,7 +1,0 @@
-ip_address,ip_type,service,region
-20.45.112.120/31,IPv4,PowerQueryOnline.SouthCentralUSSTG,usstagec
-23.100.217.20/31,IPv4,PowerQueryOnline.SouthCentralUSSTG,usstagec
-23.100.217.24/29,IPv4,PowerQueryOnline.SouthCentralUSSTG,usstagec
-23.100.223.8/29,IPv4,PowerQueryOnline.SouthCentralUSSTG,usstagec
-23.100.223.128/28,IPv4,PowerQueryOnline.SouthCentralUSSTG,usstagec
-2603:1030:302:402::a0/126,IPv6,PowerQueryOnline.SouthCentralUSSTG,usstagec

@@ -1,9 +1,0 @@
-ip_address,ip_type,service,region
-20.192.185.64/26,IPv4,EventHub.SouthIndia,southindia
-40.78.194.32/27,IPv4,EventHub.SouthIndia,southindia
-52.172.119.0/24,IPv4,EventHub.SouthIndia,southindia
-104.211.224.190/32,IPv4,EventHub.SouthIndia,southindia
-104.211.224.238/32,IPv4,EventHub.SouthIndia,southindia
-2603:1040:c06::240/122,IPv6,EventHub.SouthIndia,southindia
-2603:1040:c06:2::/120,IPv6,EventHub.SouthIndia,southindia
-2603:1040:c06:402::1c0/123,IPv6,EventHub.SouthIndia,southindia

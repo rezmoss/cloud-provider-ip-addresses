@@ -1,8 +1,0 @@
-ip_address,ip_type,service,region
-20.58.64.0/23,IPv4,AzureResourceManager.UKWest,ukwest
-51.11.96.0/24,IPv4,AzureResourceManager.UKWest,ukwest
-51.140.212.16/28,IPv4,AzureResourceManager.UKWest,ukwest
-51.140.214.0/24,IPv4,AzureResourceManager.UKWest,ukwest
-2603:1020:605::6c0/122,IPv6,AzureResourceManager.UKWest,ukwest
-2603:1020:605:3::700/120,IPv6,AzureResourceManager.UKWest,ukwest
-2603:1020:605:402::280/122,IPv6,AzureResourceManager.UKWest,ukwest

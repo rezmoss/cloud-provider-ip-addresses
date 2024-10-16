@@ -1,7 +1,0 @@
-ip_address,ip_type,service,region
-20.37.193.192/26,IPv4,AzureCognitiveSearch.AustraliaEast,australiaeast
-20.40.123.36/32,IPv4,AzureCognitiveSearch.AustraliaEast,australiaeast
-20.40.123.39/32,IPv4,AzureCognitiveSearch.AustraliaEast,australiaeast
-20.40.123.46/32,IPv4,AzureCognitiveSearch.AustraliaEast,australiaeast
-20.40.123.72/32,IPv4,AzureCognitiveSearch.AustraliaEast,australiaeast
-2603:1010:6:1::180/121,IPv6,AzureCognitiveSearch.AustraliaEast,australiaeast

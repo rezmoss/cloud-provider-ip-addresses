@@ -1,8 +1,0 @@
-ip_address,ip_type,service,region
-20.192.165.224/27,IPv4,AzureIoTHub.JioIndiaWest,jioindiawest
-20.192.166.0/25,IPv4,AzureIoTHub.JioIndiaWest,jioindiawest
-20.193.206.0/27,IPv4,AzureIoTHub.JioIndiaWest,jioindiawest
-2603:1040:d04:400::480/123,IPv6,AzureIoTHub.JioIndiaWest,jioindiawest
-2603:1040:d04:800::100/123,IPv6,AzureIoTHub.JioIndiaWest,jioindiawest
-2603:1040:d04:800::240/123,IPv6,AzureIoTHub.JioIndiaWest,jioindiawest
-2603:1040:d04:c02::2a0/123,IPv6,AzureIoTHub.JioIndiaWest,jioindiawest

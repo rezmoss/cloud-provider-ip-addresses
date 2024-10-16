@@ -1,7 +1,0 @@
-ip_address,ip_type,service,region
-40.69.108.32/28,IPv4,AzureResourceManager.CanadaEast,canadaeast
-40.69.112.0/22,IPv4,AzureResourceManager.CanadaEast,canadaeast
-52.139.104.0/23,IPv4,AzureResourceManager.CanadaEast,canadaeast
-2603:1030:1005::6c0/122,IPv6,AzureResourceManager.CanadaEast,canadaeast
-2603:1030:1005:3::500/120,IPv6,AzureResourceManager.CanadaEast,canadaeast
-2603:1030:1005:402::280/122,IPv6,AzureResourceManager.CanadaEast,canadaeast

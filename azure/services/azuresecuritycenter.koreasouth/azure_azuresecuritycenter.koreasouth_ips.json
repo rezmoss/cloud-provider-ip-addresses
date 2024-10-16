@@ -1,8 +1,0 @@
-[
-  {
-    "ip_address": "52.231.151.0/27",
-    "ip_type": "IPv4",
-    "service": "AzureSecurityCenter.KoreaSouth",
-    "region": "koreasouth"
-  }
-]

@@ -1,7 +1,0 @@
-ip_address,ip_type,service,region
-13.71.194.240/28,IPv4,AzureMachineLearning.WestCentralUS,westcentralus
-20.69.1.240/28,IPv4,AzureMachineLearning.WestCentralUS,westcentralus
-52.150.136.80/28,IPv4,AzureMachineLearning.WestCentralUS,westcentralus
-52.253.131.79/32,IPv4,AzureMachineLearning.WestCentralUS,westcentralus
-52.253.131.198/32,IPv4,AzureMachineLearning.WestCentralUS,westcentralus
-2603:1030:b04::300/122,IPv6,AzureMachineLearning.WestCentralUS,westcentralus

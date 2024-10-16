@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-20.187.197.228/30,IPv4,AzureAttestation.EastAsia,eastasia
-104.214.164.108/30,IPv4,AzureAttestation.EastAsia,eastasia
-2603:1040:207:1::4c0/124,IPv6,AzureAttestation.EastAsia,eastasia

@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-68.221.99.176/29,IPv4,StorageSyncService.SpainCentral,spaincentral
-2603:1020:1403:400::1e0/123,IPv6,StorageSyncService.SpainCentral,spaincentral
