@@ -11,6 +11,7 @@ INSERT INTO `aws_route53_healthchecks_publishing_ips` (`ip_address`, `ip_type`) 
 INSERT INTO `aws_route53_healthchecks_publishing_ips` (`ip_address`, `ip_type`) VALUES ('15.177.82.0/24', 'IPv4');
 INSERT INTO `aws_route53_healthchecks_publishing_ips` (`ip_address`, `ip_type`) VALUES ('15.177.94.0/24', 'IPv4');
 INSERT INTO `aws_route53_healthchecks_publishing_ips` (`ip_address`, `ip_type`) VALUES ('15.177.76.0/24', 'IPv4');
+INSERT INTO `aws_route53_healthchecks_publishing_ips` (`ip_address`, `ip_type`) VALUES ('15.177.105.0/24', 'IPv4');
 INSERT INTO `aws_route53_healthchecks_publishing_ips` (`ip_address`, `ip_type`) VALUES ('15.177.102.0/24', 'IPv4');
 INSERT INTO `aws_route53_healthchecks_publishing_ips` (`ip_address`, `ip_type`) VALUES ('15.177.99.0/24', 'IPv4');
 INSERT INTO `aws_route53_healthchecks_publishing_ips` (`ip_address`, `ip_type`) VALUES ('15.177.86.0/24', 'IPv4');
