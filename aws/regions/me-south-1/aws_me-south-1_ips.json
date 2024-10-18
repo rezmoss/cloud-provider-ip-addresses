@@ -12,6 +12,12 @@
     "region": "me-south-1"
   },
   {
+    "ip_address": "52.129.210.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "me-south-1"
+  },
+  {
     "ip_address": "15.230.122.1/32",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -49,6 +55,12 @@
   },
   {
     "ip_address": "157.241.0.0/16",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "me-south-1"
+  },
+  {
+    "ip_address": "52.129.211.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "me-south-1"
@@ -468,7 +480,19 @@
     "region": "me-south-1"
   },
   {
+    "ip_address": "52.129.210.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "me-south-1"
+  },
+  {
     "ip_address": "157.241.0.0/16",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "me-south-1"
+  },
+  {
+    "ip_address": "52.129.211.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "me-south-1"
