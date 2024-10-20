@@ -1998,6 +1998,18 @@
     "region": "europe-west4"
   },
   {
+    "ip_address": "34.153.45.0/24",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "europe-west4"
+  },
+  {
+    "ip_address": "34.153.237.0/24",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "europe-west4"
+  },
+  {
     "ip_address": "34.157.80.0/23",
     "ip_type": "IPv4",
     "service": "Google Cloud",
