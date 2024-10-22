@@ -522,6 +522,12 @@
     "region": "eu-west-2"
   },
   {
+    "ip_address": "13.134.0.0/15",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-west-2"
+  },
+  {
     "ip_address": "52.95.142.0/23",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -1027,6 +1033,12 @@
   },
   {
     "ip_address": "35.178.0.0/15",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "eu-west-2"
+  },
+  {
+    "ip_address": "13.134.0.0/15",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "eu-west-2"

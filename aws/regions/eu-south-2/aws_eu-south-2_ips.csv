@@ -70,6 +70,7 @@ ip_address,ip_type,service,region
 51.92.0.0/16,IPv4,EC2,eu-south-2
 99.77.55.50/32,IPv4,EC2,eu-south-2
 99.77.55.42/32,IPv4,EC2,eu-south-2
+51.94.0.0/15,IPv4,EC2,eu-south-2
 99.151.64.0/21,IPv4,EC2,eu-south-2
 3.5.32.0/22,IPv4,EC2,eu-south-2
 99.77.55.35/32,IPv4,EC2,eu-south-2
