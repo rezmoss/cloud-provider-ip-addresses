@@ -72,6 +72,7 @@ ip_address,ip_type,service,region
 52.82.184.0/23,IPv4,S3,cn-northwest-1
 52.95.176.0/24,IPv4,S3,af-south-1
 76.223.99.0/24,IPv4,S3,GLOBAL
+16.15.12.0/23,IPv4,S3,eu-south-2
 3.5.48.0/22,IPv4,S3,me-central-1
 52.95.140.0/23,IPv4,S3,eu-central-2
 16.12.71.0/24,IPv4,S3,mx-central-1

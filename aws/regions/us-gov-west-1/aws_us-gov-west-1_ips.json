@@ -678,6 +678,12 @@
     "region": "us-gov-west-1"
   },
   {
+    "ip_address": "2602:f7db::/44",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-gov-west-1"
+  },
+  {
     "ip_address": "2600:1f00:2000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -871,6 +877,12 @@
   },
   {
     "ip_address": "2600:1f38:2000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-gov-west-1"
+  },
+  {
+    "ip_address": "2602:f7db::/44",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "us-gov-west-1"
