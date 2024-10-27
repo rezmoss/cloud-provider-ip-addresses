@@ -1260,6 +1260,30 @@
     "region": "europe-north1"
   },
   {
+    "ip_address": "34.51.128.0/17",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "europe-north2"
+  },
+  {
+    "ip_address": "34.153.46.0/23",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "europe-north2"
+  },
+  {
+    "ip_address": "34.153.238.0/23",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "europe-north2"
+  },
+  {
+    "ip_address": "2600:1900:42a0::/44",
+    "ip_type": "IPv6",
+    "service": "Google Cloud",
+    "region": "europe-north2"
+  },
+  {
     "ip_address": "34.0.192.0/19",
     "ip_type": "IPv4",
     "service": "Google Cloud",
