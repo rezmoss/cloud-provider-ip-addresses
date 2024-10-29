@@ -7,7 +7,6 @@ CREATE TABLE IF NOT EXISTS `aws_us-gov-east-1_ips` (
 );
 
 INSERT INTO `aws_us-gov-east-1_ips` (`ip_address`, `ip_type`) VALUES ('35.71.115.0/24', 'IPv4');
-INSERT INTO `aws_us-gov-east-1_ips` (`ip_address`, `ip_type`) VALUES ('16.64.0.0/16', 'IPv4');
 INSERT INTO `aws_us-gov-east-1_ips` (`ip_address`, `ip_type`) VALUES ('99.77.183.0/24', 'IPv4');
 INSERT INTO `aws_us-gov-east-1_ips` (`ip_address`, `ip_type`) VALUES ('16.67.0.0/16', 'IPv4');
 INSERT INTO `aws_us-gov-east-1_ips` (`ip_address`, `ip_type`) VALUES ('182.30.0.0/16', 'IPv4');
@@ -18,7 +17,9 @@ INSERT INTO `aws_us-gov-east-1_ips` (`ip_address`, `ip_type`) VALUES ('52.94.22.
 INSERT INTO `aws_us-gov-east-1_ips` (`ip_address`, `ip_type`) VALUES ('18.252.0.0/16', 'IPv4');
 INSERT INTO `aws_us-gov-east-1_ips` (`ip_address`, `ip_type`) VALUES ('99.151.96.0/21', 'IPv4');
 INSERT INTO `aws_us-gov-east-1_ips` (`ip_address`, `ip_type`) VALUES ('182.29.0.0/16', 'IPv4');
+INSERT INTO `aws_us-gov-east-1_ips` (`ip_address`, `ip_type`) VALUES ('192.157.37.0/24', 'IPv4');
 INSERT INTO `aws_us-gov-east-1_ips` (`ip_address`, `ip_type`) VALUES ('182.28.0.0/16', 'IPv4');
+INSERT INTO `aws_us-gov-east-1_ips` (`ip_address`, `ip_type`) VALUES ('16.64.0.0/17', 'IPv4');
 INSERT INTO `aws_us-gov-east-1_ips` (`ip_address`, `ip_type`) VALUES ('18.253.0.0/16', 'IPv4');
 INSERT INTO `aws_us-gov-east-1_ips` (`ip_address`, `ip_type`) VALUES ('52.94.249.112/28', 'IPv4');
 INSERT INTO `aws_us-gov-east-1_ips` (`ip_address`, `ip_type`) VALUES ('16.66.0.0/16', 'IPv4');
@@ -43,6 +44,8 @@ INSERT INTO `aws_us-gov-east-1_ips` (`ip_address`, `ip_type`) VALUES ('182.30.0.
 INSERT INTO `aws_us-gov-east-1_ips` (`ip_address`, `ip_type`) VALUES ('108.175.60.0/22', 'IPv4');
 INSERT INTO `aws_us-gov-east-1_ips` (`ip_address`, `ip_type`) VALUES ('18.252.0.0/16', 'IPv4');
 INSERT INTO `aws_us-gov-east-1_ips` (`ip_address`, `ip_type`) VALUES ('99.151.96.0/21', 'IPv4');
+INSERT INTO `aws_us-gov-east-1_ips` (`ip_address`, `ip_type`) VALUES ('192.157.37.0/24', 'IPv4');
+INSERT INTO `aws_us-gov-east-1_ips` (`ip_address`, `ip_type`) VALUES ('16.64.0.0/17', 'IPv4');
 INSERT INTO `aws_us-gov-east-1_ips` (`ip_address`, `ip_type`) VALUES ('18.253.0.0/16', 'IPv4');
 INSERT INTO `aws_us-gov-east-1_ips` (`ip_address`, `ip_type`) VALUES ('52.94.249.112/28', 'IPv4');
 INSERT INTO `aws_us-gov-east-1_ips` (`ip_address`, `ip_type`) VALUES ('18.99.112.0/20', 'IPv4');
