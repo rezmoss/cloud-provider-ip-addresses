@@ -158,6 +158,7 @@ ip_address,ip_type,service,region
 54.248.0.0/15,IPv4,AMAZON,ap-northeast-1
 56.128.0.0/16,IPv4,AMAZON,ap-southeast-3
 150.222.52.224/27,IPv4,AMAZON,ap-southeast-5
+3.4.12.39/32,IPv4,AMAZON,us-east-1
 3.4.15.48/29,IPv4,AMAZON,ap-southeast-1
 13.248.72.0/24,IPv4,AMAZON,il-central-1
 15.230.4.129/32,IPv4,AMAZON,ap-southeast-1
@@ -197,6 +198,7 @@ ip_address,ip_type,service,region
 99.77.132.0/24,IPv4,AMAZON,us-west-1
 104.255.59.82/32,IPv4,AMAZON,ap-northeast-1
 150.222.38.0/26,IPv4,AMAZON,ap-northeast-1
+3.4.12.41/32,IPv4,AMAZON,us-west-2
 13.204.0.0/14,IPv4,AMAZON,ap-south-1
 15.181.247.0/24,IPv4,AMAZON,us-east-1
 15.230.200.0/24,IPv4,AMAZON,ap-southeast-1
@@ -608,6 +610,7 @@ ip_address,ip_type,service,region
 64.252.125.0/24,IPv4,AMAZON,us-east-1
 120.253.240.192/26,IPv4,AMAZON,GLOBAL
 150.222.79.0/24,IPv4,AMAZON,us-east-1
+3.4.12.43/32,IPv4,AMAZON,eu-west-2
 3.224.0.0/12,IPv4,AMAZON,us-east-1
 13.248.68.0/24,IPv4,AMAZON,eu-central-2
 15.230.15.136/31,IPv4,AMAZON,eu-central-1
@@ -1128,6 +1131,7 @@ ip_address,ip_type,service,region
 150.222.13.0/24,IPv4,AMAZON,eu-west-1
 151.148.41.0/24,IPv4,AMAZON,eu-west-2
 205.251.247.0/24,IPv4,AMAZON,us-east-1
+3.4.15.112/29,IPv4,AMAZON,us-east-1
 13.249.0.0/16,IPv4,AMAZON,GLOBAL
 15.190.4.0/22,IPv4,AMAZON,ap-southeast-5
 15.193.6.0/24,IPv4,AMAZON,us-east-1
@@ -1659,6 +1663,7 @@ ip_address,ip_type,service,region
 103.53.48.0/22,IPv4,AMAZON,GLOBAL
 108.166.244.37/32,IPv4,AMAZON,us-east-2
 150.222.41.192/26,IPv4,AMAZON,eu-north-1
+3.4.15.120/29,IPv4,AMAZON,us-west-2
 15.230.15.5/32,IPv4,AMAZON,eu-central-1
 15.230.38.0/24,IPv4,AMAZON,us-east-1
 15.230.39.88/31,IPv4,AMAZON,us-east-2
@@ -1671,6 +1676,7 @@ ip_address,ip_type,service,region
 99.151.72.0/21,IPv4,AMAZON,ap-southeast-4
 161.188.80.0/20,IPv4,AMAZON,us-east-1
 174.129.0.0/16,IPv4,AMAZON,us-east-1
+3.4.15.136/29,IPv4,AMAZON,eu-west-2
 15.230.15.206/31,IPv4,AMAZON,eu-central-1
 15.230.174.0/24,IPv4,AMAZON,me-south-1
 15.251.0.20/32,IPv4,AMAZON,sa-east-1
@@ -1897,6 +1903,7 @@ ip_address,ip_type,service,region
 99.82.161.0/24,IPv4,AMAZON,eu-west-3
 139.56.18.0/23,IPv4,AMAZON,us-east-1
 204.246.172.0/24,IPv4,AMAZON,GLOBAL
+3.4.15.128/29,IPv4,AMAZON,eu-west-2
 13.244.0.0/15,IPv4,AMAZON,af-south-1
 16.184.0.0/18,IPv4,AMAZON,ap-northeast-2
 52.93.178.197/32,IPv4,AMAZON,us-west-1
@@ -2369,6 +2376,7 @@ ip_address,ip_type,service,region
 150.222.239.0/24,IPv4,AMAZON,eu-west-1
 176.34.64.0/18,IPv4,AMAZON,eu-west-1
 3.4.12.12/32,IPv4,AMAZON,ap-northeast-2
+3.4.12.46/32,IPv4,AMAZON,eu-west-2
 3.5.146.0/23,IPv4,AMAZON,ap-southeast-1
 3.5.172.0/22,IPv4,AMAZON,ca-west-1
 13.248.128.0/17,IPv4,AMAZON,GLOBAL
@@ -2408,6 +2416,7 @@ ip_address,ip_type,service,region
 54.88.0.0/14,IPv4,AMAZON,us-east-1
 75.2.0.0/17,IPv4,AMAZON,GLOBAL
 99.78.192.0/22,IPv4,AMAZON,us-east-1
+3.4.12.40/32,IPv4,AMAZON,us-east-1
 51.0.96.0/21,IPv4,AMAZON,eu-west-3
 52.93.34.128/25,IPv4,AMAZON,us-east-1
 52.94.116.0/22,IPv4,AMAZON,us-west-2
@@ -3317,6 +3326,7 @@ ip_address,ip_type,service,region
 54.76.0.0/15,IPv4,AMAZON,eu-west-1
 96.0.96.0/22,IPv4,AMAZON,us-east-1
 205.251.192.0/21,IPv4,AMAZON,GLOBAL
+3.4.12.45/32,IPv4,AMAZON,eu-west-2
 3.4.13.0/28,IPv4,AMAZON,ap-southeast-2
 3.80.0.0/12,IPv4,AMAZON,us-east-1
 3.101.0.0/16,IPv4,AMAZON,us-west-1
@@ -3703,6 +3713,7 @@ ip_address,ip_type,service,region
 99.77.28.0/22,IPv4,AMAZON,eu-south-2
 120.232.236.128/26,IPv4,AMAZON,GLOBAL
 150.222.4.0/24,IPv4,AMAZON,eu-central-1
+3.4.12.42/32,IPv4,AMAZON,us-west-2
 13.248.69.0/24,IPv4,AMAZON,ap-northeast-1
 15.230.9.14/31,IPv4,AMAZON,eu-west-2
 52.18.0.0/15,IPv4,AMAZON,eu-west-1
@@ -3988,6 +3999,7 @@ ip_address,ip_type,service,region
 150.222.45.128/25,IPv4,AMAZON,eu-west-2
 150.222.50.128/27,IPv4,AMAZON,ap-south-2
 151.148.38.0/24,IPv4,AMAZON,ap-southeast-1
+3.4.12.44/32,IPv4,AMAZON,eu-west-2
 15.177.92.0/24,IPv4,AMAZON,ap-southeast-3
 15.193.8.0/24,IPv4,AMAZON,ca-central-1
 15.197.30.0/23,IPv4,AMAZON,GLOBAL
@@ -4077,6 +4089,8 @@ ip_address,ip_type,service,region
 18.254.23.64/26,IPv4,AMAZON,us-gov-east-1
 18.254.61.128/26,IPv4,AMAZON,us-gov-east-1
 182.30.13.192/26,IPv4,AMAZON,us-gov-east-1
+182.30.157.0/26,IPv4,AMAZON,us-gov-east-1
+182.30.85.128/25,IPv4,AMAZON,us-gov-east-1
 15.200.150.0/23,IPv4,AMAZON,us-gov-west-1
 15.200.176.192/26,IPv4,AMAZON,us-gov-west-1
 3.30.98.128/26,IPv4,AMAZON,us-gov-west-1
