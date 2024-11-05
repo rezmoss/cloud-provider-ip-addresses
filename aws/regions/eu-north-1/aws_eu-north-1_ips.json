@@ -378,12 +378,6 @@
     "region": "eu-north-1"
   },
   {
-    "ip_address": "204.87.185.0/24",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "eu-north-1"
-  },
-  {
     "ip_address": "15.230.68.128/26",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -697,12 +691,6 @@
   },
   {
     "ip_address": "5.60.208.0/22",
-    "ip_type": "IPv4",
-    "service": "EC2",
-    "region": "eu-north-1"
-  },
-  {
-    "ip_address": "204.87.185.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "eu-north-1"
