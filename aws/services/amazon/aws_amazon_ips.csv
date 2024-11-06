@@ -2363,6 +2363,7 @@ ip_address,ip_type,service,region
 96.0.112.0/21,IPv4,AMAZON,ap-southeast-1
 108.166.244.59/32,IPv4,AMAZON,us-east-2
 3.3.6.0/23,IPv4,AMAZON,GLOBAL
+3.174.0.0/15,IPv4,AMAZON,GLOBAL
 15.230.15.86/31,IPv4,AMAZON,eu-central-1
 15.230.15.146/31,IPv4,AMAZON,eu-central-1
 15.230.68.0/26,IPv4,AMAZON,us-west-2

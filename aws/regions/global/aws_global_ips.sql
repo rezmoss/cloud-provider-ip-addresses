@@ -99,6 +99,7 @@ INSERT INTO `aws_global_ips` (`ip_address`, `ip_type`) VALUES ('15.197.128.0/17'
 INSERT INTO `aws_global_ips` (`ip_address`, `ip_type`) VALUES ('3.2.1.0/24', 'IPv4');
 INSERT INTO `aws_global_ips` (`ip_address`, `ip_type`) VALUES ('52.46.0.0/18', 'IPv4');
 INSERT INTO `aws_global_ips` (`ip_address`, `ip_type`) VALUES ('3.3.6.0/23', 'IPv4');
+INSERT INTO `aws_global_ips` (`ip_address`, `ip_type`) VALUES ('3.174.0.0/15', 'IPv4');
 INSERT INTO `aws_global_ips` (`ip_address`, `ip_type`) VALUES ('13.248.128.0/17', 'IPv4');
 INSERT INTO `aws_global_ips` (`ip_address`, `ip_type`) VALUES ('52.82.128.0/19', 'IPv4');
 INSERT INTO `aws_global_ips` (`ip_address`, `ip_type`) VALUES ('75.2.0.0/17', 'IPv4');
@@ -273,6 +274,7 @@ INSERT INTO `aws_global_ips` (`ip_address`, `ip_type`) VALUES ('54.240.128.0/18'
 INSERT INTO `aws_global_ips` (`ip_address`, `ip_type`) VALUES ('205.251.250.0/23', 'IPv4');
 INSERT INTO `aws_global_ips` (`ip_address`, `ip_type`) VALUES ('180.163.57.0/25', 'IPv4');
 INSERT INTO `aws_global_ips` (`ip_address`, `ip_type`) VALUES ('52.46.0.0/18', 'IPv4');
+INSERT INTO `aws_global_ips` (`ip_address`, `ip_type`) VALUES ('3.174.0.0/15', 'IPv4');
 INSERT INTO `aws_global_ips` (`ip_address`, `ip_type`) VALUES ('52.82.128.0/19', 'IPv4');
 INSERT INTO `aws_global_ips` (`ip_address`, `ip_type`) VALUES ('54.230.0.0/17', 'IPv4');
 INSERT INTO `aws_global_ips` (`ip_address`, `ip_type`) VALUES ('54.230.128.0/18', 'IPv4');

@@ -336,6 +336,12 @@
     "region": "GLOBAL"
   },
   {
+    "ip_address": "3.174.0.0/15",
+    "ip_type": "IPv4",
+    "service": "CLOUDFRONT",
+    "region": "GLOBAL"
+  },
+  {
     "ip_address": "52.82.128.0/19",
     "ip_type": "IPv4",
     "service": "CLOUDFRONT",
