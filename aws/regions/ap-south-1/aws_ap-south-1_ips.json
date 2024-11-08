@@ -876,6 +876,12 @@
     "region": "ap-south-1"
   },
   {
+    "ip_address": "13.204.0.0/14",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "ap-south-1"
+  },
+  {
     "ip_address": "99.77.238.0/24",
     "ip_type": "IPv4",
     "service": "EC2",

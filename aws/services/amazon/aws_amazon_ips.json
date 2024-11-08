@@ -30588,6 +30588,12 @@
     "region": "ap-southeast-1"
   },
   {
+    "ip_address": "2602:f7db::/44",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-west-2"
+  },
+  {
     "ip_address": "2a05:d030:2000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",

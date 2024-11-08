@@ -5097,6 +5097,7 @@ ip_address,ip_type,service,region
 2406:daf9:800::/40,IPv6,AMAZON,ap-southeast-5
 2600:1ff0:8000::/39,IPv6,AMAZON,us-east-1
 2600:1ffd:8422::/48,IPv6,AMAZON,ap-southeast-1
+2602:f7db::/44,IPv6,AMAZON,us-west-2
 2a05:d030:2000::/40,IPv6,AMAZON,eu-west-3
 2a05:d032:b000::/40,IPv6,AMAZON,eu-central-1
 2406:daf4:8000::/40,IPv6,AMAZON,ap-southeast-1
