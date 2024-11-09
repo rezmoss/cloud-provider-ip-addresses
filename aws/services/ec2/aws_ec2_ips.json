@@ -462,12 +462,6 @@
     "region": "eu-west-1"
   },
   {
-    "ip_address": "52.129.210.0/24",
-    "ip_type": "IPv4",
-    "service": "EC2",
-    "region": "me-south-1"
-  },
-  {
     "ip_address": "99.77.55.46/32",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -1308,12 +1302,6 @@
     "region": "ap-southeast-1"
   },
   {
-    "ip_address": "52.129.211.0/24",
-    "ip_type": "IPv4",
-    "service": "EC2",
-    "region": "me-south-1"
-  },
-  {
     "ip_address": "69.230.192.0/18",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -1564,12 +1552,6 @@
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "ap-northeast-3"
-  },
-  {
-    "ip_address": "52.129.209.0/24",
-    "ip_type": "IPv4",
-    "service": "EC2",
-    "region": "me-south-1"
   },
   {
     "ip_address": "99.77.55.24/32",
@@ -2134,6 +2116,12 @@
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "eu-west-2"
+  },
+  {
+    "ip_address": "192.157.36.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-west-2"
   },
   {
     "ip_address": "15.193.6.0/24",
@@ -4356,6 +4344,12 @@
     "region": "ap-south-1"
   },
   {
+    "ip_address": "192.157.37.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "3.5.216.0/22",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -4624,12 +4618,6 @@
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "ap-northeast-2"
-  },
-  {
-    "ip_address": "52.129.208.0/24",
-    "ip_type": "IPv4",
-    "service": "EC2",
-    "region": "me-south-1"
   },
   {
     "ip_address": "3.2.2.0/24",
@@ -9628,6 +9616,12 @@
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "ca-central-1"
+  },
+  {
+    "ip_address": "2602:f7db:10::/44",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-east-1"
   },
   {
     "ip_address": "2a05:d076:6000::/40",
