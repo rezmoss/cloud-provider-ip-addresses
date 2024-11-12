@@ -106,6 +106,7 @@ ip_address,ip_type,service,region
 159.248.216.0/21,IPv4,EC2,ap-northeast-2
 43.200.0.0/14,IPv4,EC2,ap-northeast-2
 3.36.0.0/14,IPv4,EC2,ap-northeast-2
+54.116.0.0/15,IPv4,EC2,ap-northeast-2
 54.180.0.0/15,IPv4,EC2,ap-northeast-2
 52.79.0.0/16,IPv4,EC2,ap-northeast-2
 159.248.200.0/21,IPv4,EC2,ap-northeast-2

@@ -642,6 +642,12 @@
     "region": "ap-northeast-2"
   },
   {
+    "ip_address": "54.116.0.0/15",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "ap-northeast-2"
+  },
+  {
     "ip_address": "54.180.0.0/15",
     "ip_type": "IPv4",
     "service": "EC2",

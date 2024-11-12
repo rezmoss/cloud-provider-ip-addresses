@@ -1302,6 +1302,12 @@
     "region": "ap-southeast-1"
   },
   {
+    "ip_address": "56.125.0.0/16",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "sa-east-1"
+  },
+  {
     "ip_address": "69.230.192.0/18",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -1912,6 +1918,12 @@
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "us-east-1"
+  },
+  {
+    "ip_address": "54.116.0.0/15",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "ap-northeast-2"
   },
   {
     "ip_address": "18.190.0.0/16",

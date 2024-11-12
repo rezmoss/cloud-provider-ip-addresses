@@ -48,6 +48,12 @@
     "region": "sa-east-1"
   },
   {
+    "ip_address": "3.4.12.49/32",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "sa-east-1"
+  },
+  {
     "ip_address": "52.95.240.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -402,6 +408,12 @@
     "region": "sa-east-1"
   },
   {
+    "ip_address": "3.4.15.152/29",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "sa-east-1"
+  },
+  {
     "ip_address": "69.107.7.112/29",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -654,6 +666,12 @@
     "region": "sa-east-1"
   },
   {
+    "ip_address": "3.4.12.50/32",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "sa-east-1"
+  },
+  {
     "ip_address": "52.95.255.0/28",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -865,6 +883,12 @@
   },
   {
     "ip_address": "54.233.0.0/18",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "sa-east-1"
+  },
+  {
+    "ip_address": "56.125.0.0/16",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "sa-east-1"
