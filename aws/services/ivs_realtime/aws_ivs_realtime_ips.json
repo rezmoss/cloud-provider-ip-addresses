@@ -12,6 +12,12 @@
     "region": "GLOBAL"
   },
   {
+    "ip_address": "35.50.129.0/24",
+    "ip_type": "IPv4",
+    "service": "IVS_REALTIME",
+    "region": "us-west-2"
+  },
+  {
     "ip_address": "185.42.204.0/22",
     "ip_type": "IPv4",
     "service": "IVS_REALTIME",
@@ -34,6 +40,18 @@
     "ip_type": "IPv4",
     "service": "IVS_REALTIME",
     "region": "eu-west-3"
+  },
+  {
+    "ip_address": "35.50.130.0/24",
+    "ip_type": "IPv4",
+    "service": "IVS_REALTIME",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "35.50.128.0/24",
+    "ip_type": "IPv4",
+    "service": "IVS_REALTIME",
+    "region": "us-west-2"
   },
   {
     "ip_address": "23.160.0.0/24",
@@ -64,5 +82,11 @@
     "ip_type": "IPv4",
     "service": "IVS_REALTIME",
     "region": "GLOBAL"
+  },
+  {
+    "ip_address": "35.50.131.0/24",
+    "ip_type": "IPv4",
+    "service": "IVS_REALTIME",
+    "region": "us-west-2"
   }
 ]
