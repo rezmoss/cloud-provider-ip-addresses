@@ -18,6 +18,12 @@
     "region": "ap-northeast-3"
   },
   {
+    "ip_address": "35.50.229.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-northeast-3"
+  },
+  {
     "ip_address": "150.222.49.0/27",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -162,6 +168,12 @@
     "region": "ap-northeast-3"
   },
   {
+    "ip_address": "35.50.228.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-northeast-3"
+  },
+  {
     "ip_address": "52.93.120.176/32",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -277,6 +289,12 @@
   },
   {
     "ip_address": "52.94.249.96/28",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-northeast-3"
+  },
+  {
+    "ip_address": "35.50.230.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "ap-northeast-3"
@@ -426,7 +444,31 @@
     "region": "ap-northeast-3"
   },
   {
+    "ip_address": "35.50.229.0/24",
+    "ip_type": "IPv4",
+    "service": "IVS_REALTIME",
+    "region": "ap-northeast-3"
+  },
+  {
+    "ip_address": "35.50.228.0/24",
+    "ip_type": "IPv4",
+    "service": "IVS_REALTIME",
+    "region": "ap-northeast-3"
+  },
+  {
+    "ip_address": "35.50.230.0/24",
+    "ip_type": "IPv4",
+    "service": "IVS_REALTIME",
+    "region": "ap-northeast-3"
+  },
+  {
     "ip_address": "13.208.0.0/16",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "ap-northeast-3"
+  },
+  {
+    "ip_address": "35.50.229.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "ap-northeast-3"
@@ -486,6 +528,12 @@
     "region": "ap-northeast-3"
   },
   {
+    "ip_address": "35.50.228.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "ap-northeast-3"
+  },
+  {
     "ip_address": "56.155.0.0/17",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -505,6 +553,12 @@
   },
   {
     "ip_address": "52.94.249.96/28",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "ap-northeast-3"
+  },
+  {
+    "ip_address": "35.50.230.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "ap-northeast-3"

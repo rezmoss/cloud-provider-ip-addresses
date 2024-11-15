@@ -168,6 +168,12 @@
     "region": "eu-west-1"
   },
   {
+    "ip_address": "35.50.197.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-west-1"
+  },
+  {
     "ip_address": "54.239.114.128/26",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -864,6 +870,12 @@
     "region": "eu-west-1"
   },
   {
+    "ip_address": "35.50.195.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-west-1"
+  },
+  {
     "ip_address": "208.86.90.0/23",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -895,6 +907,12 @@
   },
   {
     "ip_address": "15.221.2.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-west-1"
+  },
+  {
+    "ip_address": "35.50.196.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "eu-west-1"
@@ -1656,6 +1674,24 @@
     "region": "eu-west-1"
   },
   {
+    "ip_address": "35.50.197.0/24",
+    "ip_type": "IPv4",
+    "service": "IVS_REALTIME",
+    "region": "eu-west-1"
+  },
+  {
+    "ip_address": "35.50.195.0/24",
+    "ip_type": "IPv4",
+    "service": "IVS_REALTIME",
+    "region": "eu-west-1"
+  },
+  {
+    "ip_address": "35.50.196.0/24",
+    "ip_type": "IPv4",
+    "service": "IVS_REALTIME",
+    "region": "eu-west-1"
+  },
+  {
     "ip_address": "52.129.130.0/24",
     "ip_type": "IPv4",
     "service": "IVS_REALTIME",
@@ -1687,6 +1723,12 @@
   },
   {
     "ip_address": "52.95.255.64/28",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "eu-west-1"
+  },
+  {
+    "ip_address": "35.50.197.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "eu-west-1"
@@ -1872,6 +1914,12 @@
     "region": "eu-west-1"
   },
   {
+    "ip_address": "35.50.195.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "eu-west-1"
+  },
+  {
     "ip_address": "208.86.90.0/23",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -1879,6 +1927,12 @@
   },
   {
     "ip_address": "46.137.128.0/18",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "eu-west-1"
+  },
+  {
+    "ip_address": "35.50.196.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "eu-west-1"

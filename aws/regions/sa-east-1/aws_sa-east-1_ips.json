@@ -210,6 +210,12 @@
     "region": "sa-east-1"
   },
   {
+    "ip_address": "35.50.176.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "sa-east-1"
+  },
+  {
     "ip_address": "99.151.112.0/21",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -241,6 +247,12 @@
   },
   {
     "ip_address": "52.93.127.161/32",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "sa-east-1"
+  },
+  {
+    "ip_address": "35.50.177.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "sa-east-1"
@@ -642,6 +654,12 @@
     "region": "sa-east-1"
   },
   {
+    "ip_address": "35.50.178.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "sa-east-1"
+  },
+  {
     "ip_address": "52.46.172.0/22",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -846,6 +864,24 @@
     "region": "sa-east-1"
   },
   {
+    "ip_address": "35.50.176.0/24",
+    "ip_type": "IPv4",
+    "service": "IVS_REALTIME",
+    "region": "sa-east-1"
+  },
+  {
+    "ip_address": "35.50.177.0/24",
+    "ip_type": "IPv4",
+    "service": "IVS_REALTIME",
+    "region": "sa-east-1"
+  },
+  {
+    "ip_address": "35.50.178.0/24",
+    "ip_type": "IPv4",
+    "service": "IVS_REALTIME",
+    "region": "sa-east-1"
+  },
+  {
     "ip_address": "64.252.81.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -924,6 +960,12 @@
     "region": "sa-east-1"
   },
   {
+    "ip_address": "35.50.176.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "sa-east-1"
+  },
+  {
     "ip_address": "99.151.112.0/21",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -931,6 +973,12 @@
   },
   {
     "ip_address": "64.252.78.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "sa-east-1"
+  },
+  {
+    "ip_address": "35.50.177.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "sa-east-1"
@@ -997,6 +1045,12 @@
   },
   {
     "ip_address": "54.233.64.0/18",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "sa-east-1"
+  },
+  {
+    "ip_address": "35.50.178.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "sa-east-1"

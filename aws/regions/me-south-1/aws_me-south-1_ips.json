@@ -12,6 +12,12 @@
     "region": "me-south-1"
   },
   {
+    "ip_address": "35.50.211.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "me-south-1"
+  },
+  {
     "ip_address": "15.230.122.1/32",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -19,6 +25,12 @@
   },
   {
     "ip_address": "15.230.121.2/32",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "me-south-1"
+  },
+  {
+    "ip_address": "35.50.212.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "me-south-1"
@@ -54,6 +66,18 @@
     "region": "me-south-1"
   },
   {
+    "ip_address": "35.50.208.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "me-south-1"
+  },
+  {
+    "ip_address": "35.50.213.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "me-south-1"
+  },
+  {
     "ip_address": "99.82.128.0/20",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -61,6 +85,12 @@
   },
   {
     "ip_address": "150.222.45.64/27",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "me-south-1"
+  },
+  {
+    "ip_address": "35.50.210.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "me-south-1"
@@ -324,6 +354,12 @@
     "region": "me-south-1"
   },
   {
+    "ip_address": "35.50.214.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "me-south-1"
+  },
+  {
     "ip_address": "15.177.87.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -444,6 +480,42 @@
     "region": "me-south-1"
   },
   {
+    "ip_address": "35.50.211.0/24",
+    "ip_type": "IPv4",
+    "service": "IVS_REALTIME",
+    "region": "me-south-1"
+  },
+  {
+    "ip_address": "35.50.212.0/24",
+    "ip_type": "IPv4",
+    "service": "IVS_REALTIME",
+    "region": "me-south-1"
+  },
+  {
+    "ip_address": "35.50.208.0/24",
+    "ip_type": "IPv4",
+    "service": "IVS_REALTIME",
+    "region": "me-south-1"
+  },
+  {
+    "ip_address": "35.50.213.0/24",
+    "ip_type": "IPv4",
+    "service": "IVS_REALTIME",
+    "region": "me-south-1"
+  },
+  {
+    "ip_address": "35.50.210.0/24",
+    "ip_type": "IPv4",
+    "service": "IVS_REALTIME",
+    "region": "me-south-1"
+  },
+  {
+    "ip_address": "35.50.214.0/24",
+    "ip_type": "IPv4",
+    "service": "IVS_REALTIME",
+    "region": "me-south-1"
+  },
+  {
     "ip_address": "15.185.0.0/16",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -456,7 +528,37 @@
     "region": "me-south-1"
   },
   {
+    "ip_address": "35.50.211.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "me-south-1"
+  },
+  {
+    "ip_address": "35.50.212.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "me-south-1"
+  },
+  {
     "ip_address": "157.241.0.0/16",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "me-south-1"
+  },
+  {
+    "ip_address": "35.50.208.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "me-south-1"
+  },
+  {
+    "ip_address": "35.50.213.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "me-south-1"
+  },
+  {
+    "ip_address": "35.50.210.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "me-south-1"
@@ -523,6 +625,12 @@
   },
   {
     "ip_address": "52.94.249.160/28",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "me-south-1"
+  },
+  {
+    "ip_address": "35.50.214.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "me-south-1"
