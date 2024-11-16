@@ -24,12 +24,6 @@
     "region": "me-central-1"
   },
   {
-    "ip_address": "35.50.216.0/24",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "me-central-1"
-  },
-  {
     "ip_address": "40.173.0.0/16",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -115,18 +109,6 @@
   },
   {
     "ip_address": "52.95.188.0/23",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "me-central-1"
-  },
-  {
-    "ip_address": "35.50.215.0/24",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "me-central-1"
-  },
-  {
-    "ip_address": "35.50.217.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "me-central-1"
@@ -288,24 +270,6 @@
     "region": "me-central-1"
   },
   {
-    "ip_address": "35.50.216.0/24",
-    "ip_type": "IPv4",
-    "service": "IVS_REALTIME",
-    "region": "me-central-1"
-  },
-  {
-    "ip_address": "35.50.215.0/24",
-    "ip_type": "IPv4",
-    "service": "IVS_REALTIME",
-    "region": "me-central-1"
-  },
-  {
-    "ip_address": "35.50.217.0/24",
-    "ip_type": "IPv4",
-    "service": "IVS_REALTIME",
-    "region": "me-central-1"
-  },
-  {
     "ip_address": "40.172.0.0/16",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -313,12 +277,6 @@
   },
   {
     "ip_address": "35.71.104.0/24",
-    "ip_type": "IPv4",
-    "service": "EC2",
-    "region": "me-central-1"
-  },
-  {
-    "ip_address": "35.50.216.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "me-central-1"
@@ -355,18 +313,6 @@
   },
   {
     "ip_address": "52.94.249.224/28",
-    "ip_type": "IPv4",
-    "service": "EC2",
-    "region": "me-central-1"
-  },
-  {
-    "ip_address": "35.50.215.0/24",
-    "ip_type": "IPv4",
-    "service": "EC2",
-    "region": "me-central-1"
-  },
-  {
-    "ip_address": "35.50.217.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "me-central-1"
@@ -552,6 +498,12 @@
     "region": "me-central-1"
   },
   {
+    "ip_address": "2600:f0f0:5530::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "me-central-1"
+  },
+  {
     "ip_address": "2406:da60:7000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -571,6 +523,12 @@
   },
   {
     "ip_address": "2406:daff:7000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "me-central-1"
+  },
+  {
+    "ip_address": "2600:f0f0:5531::/48",
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "me-central-1"
@@ -649,6 +607,12 @@
   },
   {
     "ip_address": "2406:daf2:7000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "me-central-1"
+  },
+  {
+    "ip_address": "2600:f0f0:5532::/48",
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "me-central-1"
@@ -702,6 +666,24 @@
     "region": "me-central-1"
   },
   {
+    "ip_address": "2600:f0f0:5530::/48",
+    "ip_type": "IPv6",
+    "service": "IVS_REALTIME",
+    "region": "me-central-1"
+  },
+  {
+    "ip_address": "2600:f0f0:5531::/48",
+    "ip_type": "IPv6",
+    "service": "IVS_REALTIME",
+    "region": "me-central-1"
+  },
+  {
+    "ip_address": "2600:f0f0:5532::/48",
+    "ip_type": "IPv6",
+    "service": "IVS_REALTIME",
+    "region": "me-central-1"
+  },
+  {
     "ip_address": "2406:da36:7000::/40",
     "ip_type": "IPv6",
     "service": "EC2",
@@ -726,6 +708,12 @@
     "region": "me-central-1"
   },
   {
+    "ip_address": "2600:f0f0:5530::/48",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "me-central-1"
+  },
+  {
     "ip_address": "2406:da60:7000::/40",
     "ip_type": "IPv6",
     "service": "EC2",
@@ -745,6 +733,12 @@
   },
   {
     "ip_address": "2406:daff:7000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "me-central-1"
+  },
+  {
+    "ip_address": "2600:f0f0:5531::/48",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "me-central-1"
@@ -823,6 +817,12 @@
   },
   {
     "ip_address": "2406:daf2:7000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "me-central-1"
+  },
+  {
+    "ip_address": "2600:f0f0:5532::/48",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "me-central-1"
