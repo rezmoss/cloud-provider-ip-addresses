@@ -4265,6 +4265,8 @@ ip_address,ip_type,service,region
 43.216.64.0/24,IPv4,AMAZON,ap-southeast-5
 43.216.65.0/24,IPv4,AMAZON,ap-southeast-5
 43.216.72.0/24,IPv4,AMAZON,ap-southeast-5
+43.208.56.0/23,IPv4,AMAZON,ap-southeast-7
+43.208.76.0/23,IPv4,AMAZON,ap-southeast-7
 15.156.212.0/22,IPv4,AMAZON,ca-central-1
 15.156.216.0/23,IPv4,AMAZON,ca-central-1
 15.156.38.0/27,IPv4,AMAZON,ca-central-1
