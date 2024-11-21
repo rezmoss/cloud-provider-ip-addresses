@@ -48,6 +48,7 @@ INSERT INTO `aws_us-gov-west-1_ips` (`ip_address`, `ip_type`) VALUES ('52.94.152
 INSERT INTO `aws_us-gov-west-1_ips` (`ip_address`, `ip_type`) VALUES ('52.94.152.193/32', 'IPv4');
 INSERT INTO `aws_us-gov-west-1_ips` (`ip_address`, `ip_type`) VALUES ('75.79.0.0/16', 'IPv4');
 INSERT INTO `aws_us-gov-west-1_ips` (`ip_address`, `ip_type`) VALUES ('52.46.176.0/22', 'IPv4');
+INSERT INTO `aws_us-gov-west-1_ips` (`ip_address`, `ip_type`) VALUES ('18.96.8.0/21', 'IPv4');
 INSERT INTO `aws_us-gov-west-1_ips` (`ip_address`, `ip_type`) VALUES ('15.200.150.0/23', 'IPv4');
 INSERT INTO `aws_us-gov-west-1_ips` (`ip_address`, `ip_type`) VALUES ('15.200.176.192/26', 'IPv4');
 INSERT INTO `aws_us-gov-west-1_ips` (`ip_address`, `ip_type`) VALUES ('3.30.98.128/26', 'IPv4');
@@ -74,6 +75,7 @@ INSERT INTO `aws_us-gov-west-1_ips` (`ip_address`, `ip_type`) VALUES ('3.4.16.0/
 INSERT INTO `aws_us-gov-west-1_ips` (`ip_address`, `ip_type`) VALUES ('35.71.116.0/24', 'IPv4');
 INSERT INTO `aws_us-gov-west-1_ips` (`ip_address`, `ip_type`) VALUES ('52.222.0.0/17', 'IPv4');
 INSERT INTO `aws_us-gov-west-1_ips` (`ip_address`, `ip_type`) VALUES ('15.200.0.0/16', 'IPv4');
+INSERT INTO `aws_us-gov-west-1_ips` (`ip_address`, `ip_type`) VALUES ('18.96.8.0/21', 'IPv4');
 INSERT INTO `aws_us-gov-west-1_ips` (`ip_address`, `ip_type`) VALUES ('15.200.28.88/29', 'IPv4');
 INSERT INTO `aws_us-gov-west-1_ips` (`ip_address`, `ip_type`) VALUES ('52.61.40.104/29', 'IPv4');
 INSERT INTO `aws_us-gov-west-1_ips` (`ip_address`, `ip_type`) VALUES ('15.200.141.0/25', 'IPv4');

@@ -252,6 +252,12 @@
     "region": "us-gov-west-1"
   },
   {
+    "ip_address": "18.96.8.0/21",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-gov-west-1"
+  },
+  {
     "ip_address": "15.200.150.0/23",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -403,6 +409,12 @@
   },
   {
     "ip_address": "15.200.0.0/16",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-gov-west-1"
+  },
+  {
+    "ip_address": "18.96.8.0/21",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "us-gov-west-1"
