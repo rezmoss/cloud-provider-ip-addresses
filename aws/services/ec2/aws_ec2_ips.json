@@ -2196,6 +2196,12 @@
     "region": "eu-west-2"
   },
   {
+    "ip_address": "192.157.36.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "15.193.6.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -10357,6 +10363,12 @@
   },
   {
     "ip_address": "2600:f0f3:ce00::/48",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "2602:f7db::/44",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "us-east-1"

@@ -6870,6 +6870,12 @@
     "region": "eu-west-2"
   },
   {
+    "ip_address": "192.157.36.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "205.251.247.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -25608,7 +25614,37 @@
     "region": "ap-southeast-5"
   },
   {
+    "ip_address": "43.208.52.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-southeast-7"
+  },
+  {
+    "ip_address": "43.208.53.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-southeast-7"
+  },
+  {
+    "ip_address": "43.208.54.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-southeast-7"
+  },
+  {
+    "ip_address": "43.208.55.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-southeast-7"
+  },
+  {
     "ip_address": "43.208.56.0/23",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-southeast-7"
+  },
+  {
+    "ip_address": "43.208.58.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "ap-southeast-7"
@@ -26542,6 +26578,36 @@
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "me-south-1"
+  },
+  {
+    "ip_address": "78.12.58.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "mx-central-1"
+  },
+  {
+    "ip_address": "78.12.59.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "mx-central-1"
+  },
+  {
+    "ip_address": "78.12.61.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "mx-central-1"
+  },
+  {
+    "ip_address": "78.12.62.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "mx-central-1"
+  },
+  {
+    "ip_address": "78.12.63.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "mx-central-1"
   },
   {
     "ip_address": "15.228.1.128/26",
@@ -30973,6 +31039,12 @@
   },
   {
     "ip_address": "2600:f0f3:ce00::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "2602:f7db::/44",
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "us-east-1"
