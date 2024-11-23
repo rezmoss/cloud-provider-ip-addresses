@@ -7560,6 +7560,12 @@
     "region": "me-south-1"
   },
   {
+    "ip_address": "35.96.9.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-west-2"
+  },
+  {
     "ip_address": "216.39.152.0/21",
     "ip_type": "IPv4",
     "service": "EC2",
