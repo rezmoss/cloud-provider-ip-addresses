@@ -966,6 +966,12 @@
     "region": "me-south-1"
   },
   {
+    "ip_address": "2a01:578:0:7600::1/128",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "me-south-1"
+  },
+  {
     "ip_address": "2a05:d058:e000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -1009,6 +1015,18 @@
   },
   {
     "ip_address": "2a05:d079:e000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "me-south-1"
+  },
+  {
+    "ip_address": "2a01:578:0:7601::1/128",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "me-south-1"
+  },
+  {
+    "ip_address": "2a01:578:0:7602::1/128",
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "me-south-1"
