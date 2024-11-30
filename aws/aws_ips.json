@@ -35364,6 +35364,12 @@
     "region": "eu-central-1"
   },
   {
+    "ip_address": "16.79.0.0/16",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "ap-southeast-3"
+  },
+  {
     "ip_address": "18.130.0.0/16",
     "ip_type": "IPv4",
     "service": "EC2",

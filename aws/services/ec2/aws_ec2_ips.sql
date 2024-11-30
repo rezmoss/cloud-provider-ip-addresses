@@ -954,6 +954,7 @@ INSERT INTO `aws_ec2_ips` (`ip_address`, `ip_type`) VALUES ('35.156.0.0/14', 'IP
 INSERT INTO `aws_ec2_ips` (`ip_address`, `ip_type`) VALUES ('51.94.0.0/15', 'IPv4');
 INSERT INTO `aws_ec2_ips` (`ip_address`, `ip_type`) VALUES ('3.16.0.0/14', 'IPv4');
 INSERT INTO `aws_ec2_ips` (`ip_address`, `ip_type`) VALUES ('5.60.24.0/22', 'IPv4');
+INSERT INTO `aws_ec2_ips` (`ip_address`, `ip_type`) VALUES ('16.79.0.0/16', 'IPv4');
 INSERT INTO `aws_ec2_ips` (`ip_address`, `ip_type`) VALUES ('18.130.0.0/16', 'IPv4');
 INSERT INTO `aws_ec2_ips` (`ip_address`, `ip_type`) VALUES ('23.254.8.0/21', 'IPv4');
 INSERT INTO `aws_ec2_ips` (`ip_address`, `ip_type`) VALUES ('52.72.0.0/15', 'IPv4');

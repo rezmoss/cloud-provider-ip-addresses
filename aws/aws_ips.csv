@@ -5893,6 +5893,7 @@ ip_address,ip_type,service,region
 51.94.0.0/15,IPv4,EC2,eu-south-2
 3.16.0.0/14,IPv4,EC2,us-east-2
 5.60.24.0/22,IPv4,EC2,eu-central-1
+16.79.0.0/16,IPv4,EC2,ap-southeast-3
 18.130.0.0/16,IPv4,EC2,eu-west-2
 23.254.8.0/21,IPv4,EC2,ap-southeast-6
 52.72.0.0/15,IPv4,EC2,us-east-1
