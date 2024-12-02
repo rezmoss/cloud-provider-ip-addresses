@@ -1134,6 +1134,12 @@
     "region": "eu-west-1"
   },
   {
+    "ip_address": "150.247.33.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "13.248.124.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -11326,6 +11332,12 @@
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "us-west-2"
+  },
+  {
+    "ip_address": "150.247.32.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-central-1"
   },
   {
     "ip_address": "216.137.32.0/19",

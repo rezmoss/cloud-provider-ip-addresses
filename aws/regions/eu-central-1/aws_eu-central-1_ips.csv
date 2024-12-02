@@ -125,6 +125,7 @@ ip_address,ip_type,service,region
 99.77.158.0/24,IPv4,AMAZON,eu-central-1
 150.222.122.0/24,IPv4,AMAZON,eu-central-1
 15.230.15.50/31,IPv4,AMAZON,eu-central-1
+150.247.32.0/24,IPv4,AMAZON,eu-central-1
 150.222.139.124/30,IPv4,AMAZON,eu-central-1
 15.230.15.154/31,IPv4,AMAZON,eu-central-1
 52.93.127.237/32,IPv4,AMAZON,eu-central-1
