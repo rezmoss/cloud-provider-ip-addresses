@@ -2676,12 +2676,6 @@
     "region": "GLOBAL"
   },
   {
-    "ip_address": "2600:1f01:4900::/40",
-    "ip_type": "IPv6",
-    "service": "AMAZON",
-    "region": "GLOBAL"
-  },
-  {
     "ip_address": "2600:9000:5320::/43",
     "ip_type": "IPv6",
     "service": "AMAZON",
