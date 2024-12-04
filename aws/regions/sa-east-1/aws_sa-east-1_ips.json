@@ -1608,12 +1608,6 @@
     "region": "sa-east-1"
   },
   {
-    "ip_address": "2804:800:0:7000::/56",
-    "ip_type": "IPv6",
-    "service": "AMAZON",
-    "region": "sa-east-1"
-  },
-  {
     "ip_address": "2600:1f38:e000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -1645,6 +1639,12 @@
   },
   {
     "ip_address": "2600:1ffa:e000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "sa-east-1"
+  },
+  {
+    "ip_address": "2804:800::/48",
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "sa-east-1"

@@ -1884,6 +1884,12 @@
     "region": "eu-central-1"
   },
   {
+    "ip_address": "63.180.0.0/14",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "eu-central-1"
+  },
+  {
     "ip_address": "52.58.0.0/15",
     "ip_type": "IPv4",
     "service": "EC2",

@@ -313,6 +313,7 @@ ip_address,ip_type,service,region
 99.77.136.0/24,IPv4,EC2,eu-central-1
 5.60.32.0/22,IPv4,EC2,eu-central-1
 15.145.2.0/23,IPv4,EC2,eu-central-1
+63.180.0.0/14,IPv4,EC2,eu-central-1
 52.58.0.0/15,IPv4,EC2,eu-central-1
 15.220.48.0/21,IPv4,EC2,eu-central-1
 18.184.0.0/15,IPv4,EC2,eu-central-1
