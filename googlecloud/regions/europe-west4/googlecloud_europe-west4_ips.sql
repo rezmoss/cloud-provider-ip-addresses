@@ -17,7 +17,9 @@ INSERT INTO `googlecloud_europe-west4_ips` (`ip_address`, `ip_type`) VALUES ('34
 INSERT INTO `googlecloud_europe-west4_ips` (`ip_address`, `ip_type`) VALUES ('34.141.128.0/17', 'IPv4');
 INSERT INTO `googlecloud_europe-west4_ips` (`ip_address`, `ip_type`) VALUES ('34.147.0.0/17', 'IPv4');
 INSERT INTO `googlecloud_europe-west4_ips` (`ip_address`, `ip_type`) VALUES ('34.153.45.0/24', 'IPv4');
+INSERT INTO `googlecloud_europe-west4_ips` (`ip_address`, `ip_type`) VALUES ('34.153.63.0/24', 'IPv4');
 INSERT INTO `googlecloud_europe-west4_ips` (`ip_address`, `ip_type`) VALUES ('34.153.237.0/24', 'IPv4');
+INSERT INTO `googlecloud_europe-west4_ips` (`ip_address`, `ip_type`) VALUES ('34.153.253.0/24', 'IPv4');
 INSERT INTO `googlecloud_europe-west4_ips` (`ip_address`, `ip_type`) VALUES ('34.157.80.0/23', 'IPv4');
 INSERT INTO `googlecloud_europe-west4_ips` (`ip_address`, `ip_type`) VALUES ('34.157.92.0/22', 'IPv4');
 INSERT INTO `googlecloud_europe-west4_ips` (`ip_address`, `ip_type`) VALUES ('34.157.208.0/23', 'IPv4');

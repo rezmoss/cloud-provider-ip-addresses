@@ -19272,6 +19272,12 @@
     "region": "us-gov-east-1"
   },
   {
+    "ip_address": "35.96.10.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-west-2"
+  },
+  {
     "ip_address": "52.46.192.0/20",
     "ip_type": "IPv4",
     "service": "AMAZON",

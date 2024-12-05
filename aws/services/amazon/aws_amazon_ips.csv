@@ -3211,6 +3211,7 @@ ip_address,ip_type,service,region
 15.230.206.0/24,IPv4,AMAZON,us-east-1
 16.12.18.0/23,IPv4,AMAZON,eu-west-3
 18.253.0.0/16,IPv4,AMAZON,us-gov-east-1
+35.96.10.0/24,IPv4,AMAZON,us-west-2
 52.46.192.0/20,IPv4,AMAZON,eu-north-1
 52.82.187.0/24,IPv4,AMAZON,cn-northwest-1
 52.93.126.76/32,IPv4,AMAZON,eu-west-1

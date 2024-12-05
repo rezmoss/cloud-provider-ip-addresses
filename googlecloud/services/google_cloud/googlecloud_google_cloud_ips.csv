@@ -124,6 +124,7 @@ ip_address,ip_type,service,region
 34.1.128.0/20,IPv4,Google Cloud,asia-southeast1
 34.1.192.0/20,IPv4,Google Cloud,asia-southeast1
 34.2.16.0/20,IPv4,Google Cloud,asia-southeast1
+34.2.128.0/17,IPv4,Google Cloud,asia-southeast1
 34.21.128.0/17,IPv4,Google Cloud,asia-southeast1
 34.87.0.0/17,IPv4,Google Cloud,asia-southeast1
 34.87.128.0/18,IPv4,Google Cloud,asia-southeast1
@@ -178,6 +179,8 @@ ip_address,ip_type,service,region
 34.128.48.0/24,IPv4,Google Cloud,australia-southeast1
 34.151.64.0/18,IPv4,Google Cloud,australia-southeast1
 34.151.128.0/18,IPv4,Google Cloud,australia-southeast1
+34.153.62.0/25,IPv4,Google Cloud,australia-southeast1
+34.153.252.0/25,IPv4,Google Cloud,australia-southeast1
 35.189.0.0/18,IPv4,Google Cloud,australia-southeast1
 35.197.160.0/19,IPv4,Google Cloud,australia-southeast1
 35.201.0.0/19,IPv4,Google Cloud,australia-southeast1
@@ -337,7 +340,9 @@ ip_address,ip_type,service,region
 34.141.128.0/17,IPv4,Google Cloud,europe-west4
 34.147.0.0/17,IPv4,Google Cloud,europe-west4
 34.153.45.0/24,IPv4,Google Cloud,europe-west4
+34.153.63.0/24,IPv4,Google Cloud,europe-west4
 34.153.237.0/24,IPv4,Google Cloud,europe-west4
+34.153.253.0/24,IPv4,Google Cloud,europe-west4
 34.157.80.0/23,IPv4,Google Cloud,europe-west4
 34.157.92.0/22,IPv4,Google Cloud,europe-west4
 34.157.208.0/23,IPv4,Google Cloud,europe-west4
@@ -416,6 +421,8 @@ ip_address,ip_type,service,region
 34.177.48.0/23,IPv4,Google Cloud,me-central2
 2600:1900:5400::/44,IPv6,Google Cloud,me-central2
 34.0.64.0/19,IPv4,Google Cloud,me-west1
+34.153.62.128/25,IPv4,Google Cloud,me-west1
+34.153.252.128/25,IPv4,Google Cloud,me-west1
 34.157.90.0/23,IPv4,Google Cloud,me-west1
 34.157.216.0/23,IPv4,Google Cloud,me-west1
 34.165.0.0/16,IPv4,Google Cloud,me-west1
@@ -710,6 +717,7 @@ ip_address,ip_type,service,region
 34.125.0.0/16,IPv4,Google Cloud,us-west4
 35.219.128.0/18,IPv4,Google Cloud,us-west4
 2600:1900:4180::/44,IPv6,Google Cloud,us-west4
+34.2.32.0/20,IPv4,Google Cloud,us-west8
 34.37.0.0/16,IPv4,Google Cloud,us-west8
 34.128.46.0/23,IPv4,Google Cloud,us-west8
 34.128.62.0/23,IPv4,Google Cloud,us-west8
