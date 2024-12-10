@@ -550,6 +550,7 @@ ip_address,ip_type,service,region
 5.60.228.0/22,IPv4,EC2,ap-south-1
 52.94.250.80/28,IPv4,EC2,ap-southeast-5
 3.2.3.0/24,IPv4,EC2,us-east-1
+206.72.209.0/24,IPv4,EC2,us-east-1
 35.50.177.0/24,IPv4,EC2,sa-east-1
 35.71.103.0/24,IPv4,EC2,af-south-1
 64.252.73.0/24,IPv4,EC2,us-west-2
@@ -1763,6 +1764,7 @@ ip_address,ip_type,service,region
 2406:da61:9000::/40,IPv6,EC2,ap-southeast-3
 2406:dafb:c800::/40,IPv6,EC2,ap-east-2
 2600:1ff7:1000::/40,IPv6,EC2,ca-central-1
+2600:f0f0:11::/48,IPv6,EC2,us-east-1
 2406:da68:6000::/40,IPv6,EC2,ap-northeast-3
 2406:daf7:e000::/40,IPv6,EC2,ap-east-1
 2406:dafb:1000::/40,IPv6,EC2,af-south-1
