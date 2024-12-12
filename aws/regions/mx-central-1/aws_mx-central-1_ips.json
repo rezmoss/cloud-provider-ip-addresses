@@ -186,6 +186,18 @@
     "region": "mx-central-1"
   },
   {
+    "ip_address": "78.12.79.192/28",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "mx-central-1"
+  },
+  {
+    "ip_address": "78.12.79.208/28",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "mx-central-1"
+  },
+  {
     "ip_address": "136.18.152.0/21",
     "ip_type": "IPv4",
     "service": "EC2",
