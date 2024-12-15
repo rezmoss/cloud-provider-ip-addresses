@@ -6,6 +6,12 @@
     "region": "asia-south1"
   },
   {
+    "ip_address": "34.14.128.0/18",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "asia-south1"
+  },
+  {
     "ip_address": "34.47.128.0/17",
     "ip_type": "IPv4",
     "service": "Google Cloud",

@@ -60,6 +60,12 @@
     "region": "europe-west2"
   },
   {
+    "ip_address": "34.153.254.0/23",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "europe-west2"
+  },
+  {
     "ip_address": "34.157.36.0/22",
     "ip_type": "IPv4",
     "service": "Google Cloud",
