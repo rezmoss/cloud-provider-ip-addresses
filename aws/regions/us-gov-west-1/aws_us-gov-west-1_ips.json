@@ -354,6 +354,12 @@
     "region": "us-gov-west-1"
   },
   {
+    "ip_address": "56.137.0.0/16",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-gov-west-1"
+  },
+  {
     "ip_address": "3.30.0.0/15",
     "ip_type": "IPv4",
     "service": "EC2",

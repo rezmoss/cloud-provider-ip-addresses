@@ -65,6 +65,7 @@ INSERT INTO `aws_us-gov-west-1_ips` (`ip_address`, `ip_type`) VALUES ('15.200.28
 INSERT INTO `aws_us-gov-west-1_ips` (`ip_address`, `ip_type`) VALUES ('15.205.0.0/16', 'IPv4');
 INSERT INTO `aws_us-gov-west-1_ips` (`ip_address`, `ip_type`) VALUES ('108.175.56.0/22', 'IPv4');
 INSERT INTO `aws_us-gov-west-1_ips` (`ip_address`, `ip_type`) VALUES ('136.18.0.0/23', 'IPv4');
+INSERT INTO `aws_us-gov-west-1_ips` (`ip_address`, `ip_type`) VALUES ('56.137.0.0/16', 'IPv4');
 INSERT INTO `aws_us-gov-west-1_ips` (`ip_address`, `ip_type`) VALUES ('3.30.0.0/15', 'IPv4');
 INSERT INTO `aws_us-gov-west-1_ips` (`ip_address`, `ip_type`) VALUES ('56.136.0.0/16', 'IPv4');
 INSERT INTO `aws_us-gov-west-1_ips` (`ip_address`, `ip_type`) VALUES ('160.1.0.0/16', 'IPv4');

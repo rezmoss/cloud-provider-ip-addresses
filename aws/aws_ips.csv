@@ -5100,6 +5100,7 @@ ip_address,ip_type,service,region
 107.20.0.0/14,IPv4,EC2,us-east-1
 3.5.160.0/22,IPv4,EC2,us-west-1
 46.51.192.0/20,IPv4,EC2,eu-west-1
+56.137.0.0/16,IPv4,EC2,us-gov-west-1
 99.77.149.0/24,IPv4,EC2,sa-east-1
 155.146.176.0/20,IPv4,EC2,us-east-1
 3.132.0.0/14,IPv4,EC2,us-east-2
