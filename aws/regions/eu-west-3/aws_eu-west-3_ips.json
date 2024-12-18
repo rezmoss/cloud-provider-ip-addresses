@@ -492,6 +492,12 @@
     "region": "eu-west-3"
   },
   {
+    "ip_address": "51.44.72.0/22",
+    "ip_type": "IPv4",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "eu-west-3"
+  },
+  {
     "ip_address": "35.180.0.0/16",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -843,12 +849,6 @@
     "ip_address": "15.237.162.40/30",
     "ip_type": "IPv4",
     "service": "KINESIS_VIDEO_STREAMS",
-    "region": "eu-west-3"
-  },
-  {
-    "ip_address": "51.44.72.0/22",
-    "ip_type": "IPv4",
-    "service": "WORKSPACES_GATEWAYS",
     "region": "eu-west-3"
   },
   {

@@ -882,6 +882,30 @@
     "region": "sa-east-1"
   },
   {
+    "ip_address": "15.228.64.0/22",
+    "ip_type": "IPv4",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "sa-east-1"
+  },
+  {
+    "ip_address": "18.230.103.0/24",
+    "ip_type": "IPv4",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "sa-east-1"
+  },
+  {
+    "ip_address": "18.230.104.0/23",
+    "ip_type": "IPv4",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "sa-east-1"
+  },
+  {
+    "ip_address": "54.233.204.0/24",
+    "ip_type": "IPv4",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "sa-east-1"
+  },
+  {
     "ip_address": "64.252.81.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -1404,30 +1428,6 @@
     "region": "sa-east-1"
   },
   {
-    "ip_address": "15.228.64.0/22",
-    "ip_type": "IPv4",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "sa-east-1"
-  },
-  {
-    "ip_address": "18.230.103.0/24",
-    "ip_type": "IPv4",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "sa-east-1"
-  },
-  {
-    "ip_address": "18.230.104.0/23",
-    "ip_type": "IPv4",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "sa-east-1"
-  },
-  {
-    "ip_address": "54.233.204.0/24",
-    "ip_type": "IPv4",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "sa-east-1"
-  },
-  {
     "ip_address": "15.228.126.72/30",
     "ip_type": "IPv4",
     "service": "AMAZON_APPFLOW",
@@ -1773,6 +1773,12 @@
     "ip_address": "2600:f0f0:5522::/48",
     "ip_type": "IPv6",
     "service": "IVS_REALTIME",
+    "region": "sa-east-1"
+  },
+  {
+    "ip_address": "2600:1f32:e000::/40",
+    "ip_type": "IPv6",
+    "service": "WORKSPACES_GATEWAYS",
     "region": "sa-east-1"
   },
   {

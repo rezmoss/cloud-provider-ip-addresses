@@ -100,6 +100,10 @@ ip_address,ip_type,service,region
 52.219.144.0/22,IPv4,S3,ap-northeast-2
 3.36.167.64/28,IPv4,S3,ap-northeast-2
 3.36.167.80/28,IPv4,S3,ap-northeast-2
+13.124.247.0/24,IPv4,WORKSPACES_GATEWAYS,ap-northeast-2
+3.34.37.0/24,IPv4,WORKSPACES_GATEWAYS,ap-northeast-2
+3.34.38.0/23,IPv4,WORKSPACES_GATEWAYS,ap-northeast-2
+3.35.160.0/22,IPv4,WORKSPACES_GATEWAYS,ap-northeast-2
 3.5.140.0/22,IPv4,EC2,ap-northeast-2
 151.148.40.0/24,IPv4,EC2,ap-northeast-2
 15.177.76.0/24,IPv4,EC2,ap-northeast-2
@@ -181,10 +185,6 @@ ip_address,ip_type,service,region
 13.209.1.56/29,IPv4,EC2_INSTANCE_CONNECT,ap-northeast-2
 43.202.213.132/31,IPv4,KINESIS_VIDEO_STREAMS,ap-northeast-2
 43.202.213.136/30,IPv4,KINESIS_VIDEO_STREAMS,ap-northeast-2
-13.124.247.0/24,IPv4,WORKSPACES_GATEWAYS,ap-northeast-2
-3.34.37.0/24,IPv4,WORKSPACES_GATEWAYS,ap-northeast-2
-3.34.38.0/23,IPv4,WORKSPACES_GATEWAYS,ap-northeast-2
-3.35.160.0/22,IPv4,WORKSPACES_GATEWAYS,ap-northeast-2
 3.34.89.192/30,IPv4,AMAZON_APPFLOW,ap-northeast-2
 3.34.89.196/30,IPv4,AMAZON_APPFLOW,ap-northeast-2
 3.36.245.232/30,IPv4,AMAZON_APPFLOW,ap-northeast-2
@@ -236,6 +236,7 @@ ip_address,ip_type,service,region
 2406:daa0:2000::/40,IPv6,S3,ap-northeast-2
 2406:daf9:2000::/40,IPv6,S3,ap-northeast-2
 2406:daf8:2000::/40,IPv6,S3,ap-northeast-2
+2406:da32:2000::/40,IPv6,WORKSPACES_GATEWAYS,ap-northeast-2
 2600:9000:5206::/48,IPv6,EC2,ap-northeast-2
 2406:daf5:2000::/40,IPv6,EC2,ap-northeast-2
 2406:da25::/36,IPv6,EC2,ap-northeast-2

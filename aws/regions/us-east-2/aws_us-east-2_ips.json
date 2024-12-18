@@ -2328,6 +2328,12 @@
     "region": "us-east-2"
   },
   {
+    "ip_address": "3.146.84.0/22",
+    "ip_type": "IPv4",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "us-east-2"
+  },
+  {
     "ip_address": "18.191.0.0/16",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -2943,12 +2949,6 @@
     "ip_address": "3.146.42.80/30",
     "ip_type": "IPv4",
     "service": "KINESIS_VIDEO_STREAMS",
-    "region": "us-east-2"
-  },
-  {
-    "ip_address": "3.146.84.0/22",
-    "ip_type": "IPv4",
-    "service": "WORKSPACES_GATEWAYS",
     "region": "us-east-2"
   },
   {

@@ -534,6 +534,30 @@
     "region": "ca-central-1"
   },
   {
+    "ip_address": "15.223.100.0/24",
+    "ip_type": "IPv4",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "ca-central-1"
+  },
+  {
+    "ip_address": "15.223.102.0/23",
+    "ip_type": "IPv4",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "ca-central-1"
+  },
+  {
+    "ip_address": "3.97.20.0/22",
+    "ip_type": "IPv4",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "ca-central-1"
+  },
+  {
+    "ip_address": "35.183.255.0/24",
+    "ip_type": "IPv4",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "ca-central-1"
+  },
+  {
     "ip_address": "15.222.0.0/15",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -924,30 +948,6 @@
     "region": "ca-central-1"
   },
   {
-    "ip_address": "15.223.100.0/24",
-    "ip_type": "IPv4",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "ca-central-1"
-  },
-  {
-    "ip_address": "15.223.102.0/23",
-    "ip_type": "IPv4",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "ca-central-1"
-  },
-  {
-    "ip_address": "3.97.20.0/22",
-    "ip_type": "IPv4",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "ca-central-1"
-  },
-  {
-    "ip_address": "35.183.255.0/24",
-    "ip_type": "IPv4",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "ca-central-1"
-  },
-  {
     "ip_address": "3.96.2.68/30",
     "ip_type": "IPv4",
     "service": "AMAZON_APPFLOW",
@@ -1305,6 +1305,12 @@
     "ip_address": "2600:1fa0:1000::/40",
     "ip_type": "IPv6",
     "service": "S3",
+    "region": "ca-central-1"
+  },
+  {
+    "ip_address": "2600:1f32:1000::/40",
+    "ip_type": "IPv6",
+    "service": "WORKSPACES_GATEWAYS",
     "region": "ca-central-1"
   },
   {

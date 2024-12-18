@@ -204,6 +204,18 @@
     "region": "us-gov-east-1"
   },
   {
+    "ip_address": "18.254.140.0/22",
+    "ip_type": "IPv4",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "18.254.148.0/22",
+    "ip_type": "IPv4",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "us-gov-east-1"
+  },
+  {
     "ip_address": "35.71.115.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -456,18 +468,6 @@
     "region": "us-gov-east-1"
   },
   {
-    "ip_address": "18.254.140.0/22",
-    "ip_type": "IPv4",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "18.254.148.0/22",
-    "ip_type": "IPv4",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "us-gov-east-1"
-  },
-  {
     "ip_address": "35.71.115.0/24",
     "ip_type": "IPv4",
     "service": "DYNAMODB",
@@ -681,6 +681,12 @@
     "ip_address": "2600:1ffa:5000::/40",
     "ip_type": "IPv6",
     "service": "S3",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "2600:1f32:5000::/40",
+    "ip_type": "IPv6",
+    "service": "WORKSPACES_GATEWAYS",
     "region": "us-gov-east-1"
   },
   {

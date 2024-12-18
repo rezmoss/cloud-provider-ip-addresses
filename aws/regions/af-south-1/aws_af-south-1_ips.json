@@ -378,6 +378,18 @@
     "region": "af-south-1"
   },
   {
+    "ip_address": "13.246.108.0/22",
+    "ip_type": "IPv4",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "af-south-1"
+  },
+  {
+    "ip_address": "13.246.120.0/22",
+    "ip_type": "IPv4",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "af-south-1"
+  },
+  {
     "ip_address": "18.99.144.0/20",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -630,18 +642,6 @@
     "region": "af-south-1"
   },
   {
-    "ip_address": "13.246.108.0/22",
-    "ip_type": "IPv4",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "af-south-1"
-  },
-  {
-    "ip_address": "13.246.120.0/22",
-    "ip_type": "IPv4",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "af-south-1"
-  },
-  {
     "ip_address": "13.245.127.232/30",
     "ip_type": "IPv4",
     "service": "AMAZON_APPFLOW",
@@ -885,6 +885,12 @@
     "ip_address": "2406:da68:1000::/40",
     "ip_type": "IPv6",
     "service": "S3",
+    "region": "af-south-1"
+  },
+  {
+    "ip_address": "2406:da32:1000::/40",
+    "ip_type": "IPv6",
+    "service": "WORKSPACES_GATEWAYS",
     "region": "af-south-1"
   },
   {

@@ -394,5 +394,101 @@
     "ip_type": "IPv4",
     "service": "WORKSPACES_GATEWAYS",
     "region": "us-west-2"
+  },
+  {
+    "ip_address": "2a05:d032:8000::/40",
+    "ip_type": "IPv6",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "eu-west-1"
+  },
+  {
+    "ip_address": "2a05:d032:5000::/40",
+    "ip_type": "IPv6",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "il-central-1"
+  },
+  {
+    "ip_address": "2600:1f32:e000::/40",
+    "ip_type": "IPv6",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "sa-east-1"
+  },
+  {
+    "ip_address": "2600:1f32:4000::/39",
+    "ip_type": "IPv6",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "2406:da32:2000::/40",
+    "ip_type": "IPv6",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "ap-northeast-2"
+  },
+  {
+    "ip_address": "2406:da32:4000::/40",
+    "ip_type": "IPv6",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "ap-northeast-1"
+  },
+  {
+    "ip_address": "2600:1f32:5000::/40",
+    "ip_type": "IPv6",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "2406:da32:8000::/40",
+    "ip_type": "IPv6",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "ap-southeast-1"
+  },
+  {
+    "ip_address": "2600:1f32:8000::/39",
+    "ip_type": "IPv6",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "2406:da32:c000::/40",
+    "ip_type": "IPv6",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "ap-southeast-2"
+  },
+  {
+    "ip_address": "2406:da32:a000::/40",
+    "ip_type": "IPv6",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "ap-south-1"
+  },
+  {
+    "ip_address": "2a05:d032:4000::/40",
+    "ip_type": "IPv6",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "eu-central-1"
+  },
+  {
+    "ip_address": "2406:da32:1000::/40",
+    "ip_type": "IPv6",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "af-south-1"
+  },
+  {
+    "ip_address": "2600:1f32:2000::/40",
+    "ip_type": "IPv6",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "us-gov-west-1"
+  },
+  {
+    "ip_address": "2600:1f32:1000::/40",
+    "ip_type": "IPv6",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "ca-central-1"
+  },
+  {
+    "ip_address": "2a05:d032:c000::/40",
+    "ip_type": "IPv6",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "eu-west-2"
   }
 ]

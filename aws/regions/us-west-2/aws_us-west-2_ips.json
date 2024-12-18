@@ -1518,6 +1518,36 @@
     "region": "us-west-2"
   },
   {
+    "ip_address": "34.223.96.0/22",
+    "ip_type": "IPv4",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "35.80.88.0/22",
+    "ip_type": "IPv4",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "35.80.92.0/22",
+    "ip_type": "IPv4",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "44.234.54.0/23",
+    "ip_type": "IPv4",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "54.244.46.0/23",
+    "ip_type": "IPv4",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "us-west-2"
+  },
+  {
     "ip_address": "5.60.200.0/22",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -3030,36 +3060,6 @@
     "region": "us-west-2"
   },
   {
-    "ip_address": "34.223.96.0/22",
-    "ip_type": "IPv4",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "us-west-2"
-  },
-  {
-    "ip_address": "35.80.88.0/22",
-    "ip_type": "IPv4",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "us-west-2"
-  },
-  {
-    "ip_address": "35.80.92.0/22",
-    "ip_type": "IPv4",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "us-west-2"
-  },
-  {
-    "ip_address": "44.234.54.0/23",
-    "ip_type": "IPv4",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "us-west-2"
-  },
-  {
-    "ip_address": "54.244.46.0/23",
-    "ip_type": "IPv4",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "us-west-2"
-  },
-  {
     "ip_address": "35.84.36.0/30",
     "ip_type": "IPv4",
     "service": "AMAZON_APPFLOW",
@@ -4251,6 +4251,12 @@
     "ip_address": "2600:f0f0:5515::/48",
     "ip_type": "IPv6",
     "service": "IVS_REALTIME",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "2600:1f32:4000::/39",
+    "ip_type": "IPv6",
+    "service": "WORKSPACES_GATEWAYS",
     "region": "us-west-2"
   },
   {

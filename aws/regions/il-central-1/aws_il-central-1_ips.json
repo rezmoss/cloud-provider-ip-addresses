@@ -246,6 +246,12 @@
     "region": "il-central-1"
   },
   {
+    "ip_address": "51.17.72.0/22",
+    "ip_type": "IPv4",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "il-central-1"
+  },
+  {
     "ip_address": "51.85.0.0/16",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -363,12 +369,6 @@
     "ip_address": "51.16.183.224/29",
     "ip_type": "IPv4",
     "service": "EC2_INSTANCE_CONNECT",
-    "region": "il-central-1"
-  },
-  {
-    "ip_address": "51.17.72.0/22",
-    "ip_type": "IPv4",
-    "service": "WORKSPACES_GATEWAYS",
     "region": "il-central-1"
   },
   {
@@ -585,6 +585,12 @@
     "ip_address": "2a05:d070:5000::/40",
     "ip_type": "IPv6",
     "service": "S3",
+    "region": "il-central-1"
+  },
+  {
+    "ip_address": "2a05:d032:5000::/40",
+    "ip_type": "IPv6",
+    "service": "WORKSPACES_GATEWAYS",
     "region": "il-central-1"
   },
   {

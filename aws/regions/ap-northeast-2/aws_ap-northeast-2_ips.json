@@ -606,6 +606,30 @@
     "region": "ap-northeast-2"
   },
   {
+    "ip_address": "13.124.247.0/24",
+    "ip_type": "IPv4",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "ap-northeast-2"
+  },
+  {
+    "ip_address": "3.34.37.0/24",
+    "ip_type": "IPv4",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "ap-northeast-2"
+  },
+  {
+    "ip_address": "3.34.38.0/23",
+    "ip_type": "IPv4",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "ap-northeast-2"
+  },
+  {
+    "ip_address": "3.35.160.0/22",
+    "ip_type": "IPv4",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "ap-northeast-2"
+  },
+  {
     "ip_address": "3.5.140.0/22",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -1092,30 +1116,6 @@
     "region": "ap-northeast-2"
   },
   {
-    "ip_address": "13.124.247.0/24",
-    "ip_type": "IPv4",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "ap-northeast-2"
-  },
-  {
-    "ip_address": "3.34.37.0/24",
-    "ip_type": "IPv4",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "ap-northeast-2"
-  },
-  {
-    "ip_address": "3.34.38.0/23",
-    "ip_type": "IPv4",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "ap-northeast-2"
-  },
-  {
-    "ip_address": "3.35.160.0/22",
-    "ip_type": "IPv4",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "ap-northeast-2"
-  },
-  {
     "ip_address": "3.34.89.192/30",
     "ip_type": "IPv4",
     "service": "AMAZON_APPFLOW",
@@ -1419,6 +1419,12 @@
     "ip_address": "2406:daf8:2000::/40",
     "ip_type": "IPv6",
     "service": "S3",
+    "region": "ap-northeast-2"
+  },
+  {
+    "ip_address": "2406:da32:2000::/40",
+    "ip_type": "IPv6",
+    "service": "WORKSPACES_GATEWAYS",
     "region": "ap-northeast-2"
   },
   {
