@@ -105,6 +105,7 @@ ip_address,ip_type,service,region
 13.124.199.0/24,IPv4,CLOUDFRONT,ap-northeast-2
 3.35.130.128/25,IPv4,CLOUDFRONT,ap-northeast-2
 52.78.247.128/26,IPv4,CLOUDFRONT,ap-northeast-2
+13.203.133.0/26,IPv4,CLOUDFRONT,ap-south-1
 13.233.177.192/26,IPv4,CLOUDFRONT,ap-south-1
 15.207.13.128/25,IPv4,CLOUDFRONT,ap-south-1
 15.207.213.128/25,IPv4,CLOUDFRONT,ap-south-1

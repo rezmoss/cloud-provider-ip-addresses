@@ -636,6 +636,12 @@
     "region": "ap-northeast-2"
   },
   {
+    "ip_address": "13.203.133.0/26",
+    "ip_type": "IPv4",
+    "service": "CLOUDFRONT",
+    "region": "ap-south-1"
+  },
+  {
     "ip_address": "13.233.177.192/26",
     "ip_type": "IPv4",
     "service": "CLOUDFRONT",

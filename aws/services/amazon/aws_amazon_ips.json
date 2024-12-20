@@ -21306,6 +21306,12 @@
     "region": "sa-east-1"
   },
   {
+    "ip_address": "35.96.14.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-west-2"
+  },
+  {
     "ip_address": "40.180.0.0/15",
     "ip_type": "IPv4",
     "service": "AMAZON",

@@ -1122,6 +1122,7 @@ ip_address,ip_type,service,region
 99.77.55.15/32,IPv4,EC2,eu-south-2
 176.34.128.0/17,IPv4,EC2,eu-west-1
 208.78.130.0/23,IPv4,EC2,ap-northeast-1
+35.96.14.0/24,IPv4,EC2,us-west-2
 35.96.64.0/20,IPv4,EC2,eu-west-3
 43.208.0.0/15,IPv4,EC2,ap-southeast-7
 15.177.0.0/18,IPv4,EC2,GLOBAL
