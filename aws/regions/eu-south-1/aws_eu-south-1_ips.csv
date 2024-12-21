@@ -191,7 +191,6 @@ ip_address,ip_type,service,region
 2a05:d074:a000::/40,IPv6,AMAZON,eu-south-1
 2a05:d02a::/36,IPv6,AMAZON,eu-south-1
 2a05:d03a:a000::/40,IPv6,AMAZON,eu-south-1
-2a05:d031:a000::/40,IPv6,AMAZON,eu-south-1
 2a05:d078:a000::/40,IPv6,AMAZON,eu-south-1
 2a05:d076:a000::/40,IPv6,AMAZON,eu-south-1
 2a05:d07f:a000::/40,IPv6,AMAZON,eu-south-1
@@ -223,7 +222,6 @@ ip_address,ip_type,service,region
 2a05:d074:a000::/40,IPv6,EC2,eu-south-1
 2a05:d02a::/36,IPv6,EC2,eu-south-1
 2a05:d03a:a000::/40,IPv6,EC2,eu-south-1
-2a05:d031:a000::/40,IPv6,EC2,eu-south-1
 2a05:d076:a000::/40,IPv6,EC2,eu-south-1
 2a05:d07f:a000::/40,IPv6,EC2,eu-south-1
 2a05:d071:a000::/40,IPv6,EC2,eu-south-1

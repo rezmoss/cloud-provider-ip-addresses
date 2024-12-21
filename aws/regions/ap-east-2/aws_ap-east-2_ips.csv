@@ -30,7 +30,6 @@ ip_address,ip_type,service,region
 15.177.104.0/24,IPv4,ROUTE53_HEALTHCHECKS_PUBLISHING,ap-east-2
 13.248.78.0/24,IPv4,DYNAMODB,ap-east-2
 2406:da32:c800::/40,IPv6,AMAZON,ap-east-2
-2406:da61:c800::/40,IPv6,AMAZON,ap-east-2
 2406:da1c:8000::/36,IPv6,AMAZON,ap-east-2
 2406:da60:c800::/40,IPv6,AMAZON,ap-east-2
 2406:daf0:c800::/40,IPv6,AMAZON,ap-east-2
@@ -59,7 +58,6 @@ ip_address,ip_type,service,region
 2406:daa0:c800::/40,IPv6,S3,ap-east-2
 2406:da68:c800::/40,IPv6,S3,ap-east-2
 2406:da32:c800::/40,IPv6,EC2,ap-east-2
-2406:da61:c800::/40,IPv6,EC2,ap-east-2
 2406:da1c:8000::/36,IPv6,EC2,ap-east-2
 2406:da60:c800::/40,IPv6,EC2,ap-east-2
 2406:daf0:c800::/40,IPv6,EC2,ap-east-2

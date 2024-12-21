@@ -1578,12 +1578,6 @@
     "region": "ap-southeast-2"
   },
   {
-    "ip_address": "2406:da61:c000::/40",
-    "ip_type": "IPv6",
-    "service": "AMAZON",
-    "region": "ap-southeast-2"
-  },
-  {
     "ip_address": "2600:1f01:48d2::/47",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -1849,12 +1843,6 @@
   },
   {
     "ip_address": "2406:da68:c000::/40",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "ap-southeast-2"
-  },
-  {
-    "ip_address": "2406:da61:c000::/40",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "ap-southeast-2"

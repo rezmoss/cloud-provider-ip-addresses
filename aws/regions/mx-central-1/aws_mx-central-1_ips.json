@@ -354,12 +354,6 @@
     "region": "mx-central-1"
   },
   {
-    "ip_address": "2600:1f61:7400::/40",
-    "ip_type": "IPv6",
-    "service": "AMAZON",
-    "region": "mx-central-1"
-  },
-  {
     "ip_address": "2600:1f38:7400::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -511,12 +505,6 @@
   },
   {
     "ip_address": "2600:1f60:7400::/40",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "mx-central-1"
-  },
-  {
-    "ip_address": "2600:1f61:7400::/40",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "mx-central-1"

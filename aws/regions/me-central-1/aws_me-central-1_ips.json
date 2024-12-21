@@ -462,12 +462,6 @@
     "region": "me-central-1"
   },
   {
-    "ip_address": "2406:da61:7000::/40",
-    "ip_type": "IPv6",
-    "service": "AMAZON",
-    "region": "me-central-1"
-  },
-  {
     "ip_address": "2406:da32:7000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -685,12 +679,6 @@
   },
   {
     "ip_address": "2406:da36:7000::/40",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "me-central-1"
-  },
-  {
-    "ip_address": "2406:da61:7000::/40",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "me-central-1"
