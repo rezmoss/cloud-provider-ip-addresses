@@ -702,6 +702,12 @@
     "region": "cn-northwest-1"
   },
   {
+    "ip_address": "2404:c2c0:2300::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
     "ip_address": "2404:c2c0:2e80::/48",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -709,6 +715,12 @@
   },
   {
     "ip_address": "2404:c2c0:2f00::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "2404:c2c0:2000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "cn-northwest-1"
@@ -936,7 +948,19 @@
     "region": "cn-northwest-1"
   },
   {
+    "ip_address": "2404:c2c0:2300::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "cn-northwest-1"
+  },
+  {
     "ip_address": "2404:c2c0:2f00::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "2404:c2c0:2000::/40",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "cn-northwest-1"

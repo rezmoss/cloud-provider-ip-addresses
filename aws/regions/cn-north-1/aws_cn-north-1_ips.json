@@ -750,6 +750,18 @@
     "region": "cn-north-1"
   },
   {
+    "ip_address": "2400:7fc0:2300::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "cn-north-1"
+  },
+  {
+    "ip_address": "2400:7fc0:2000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "cn-north-1"
+  },
+  {
     "ip_address": "2400:7fc0:2600::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -987,6 +999,18 @@
     "ip_address": "2400:7fc0:2c00::/40",
     "ip_type": "IPv6",
     "service": "S3",
+    "region": "cn-north-1"
+  },
+  {
+    "ip_address": "2400:7fc0:2300::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "cn-north-1"
+  },
+  {
+    "ip_address": "2400:7fc0:2000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
     "region": "cn-north-1"
   },
   {
