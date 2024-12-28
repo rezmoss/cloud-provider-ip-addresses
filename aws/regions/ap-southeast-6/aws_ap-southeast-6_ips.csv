@@ -24,6 +24,7 @@ ip_address,ip_type,service,region
 13.248.79.0/24,IPv4,DYNAMODB,ap-southeast-6
 2406:da32:2800::/40,IPv6,AMAZON,ap-southeast-6
 2406:da00:2800::/64,IPv6,AMAZON,ap-southeast-6
+2406:da61:2800::/40,IPv6,AMAZON,ap-southeast-6
 2406:daf6:2800::/40,IPv6,AMAZON,ap-southeast-6
 2406:daf7:2800::/40,IPv6,AMAZON,ap-southeast-6
 2406:dafe:2800::/40,IPv6,AMAZON,ap-southeast-6
@@ -52,6 +53,7 @@ ip_address,ip_type,service,region
 2406:daa0:2800::/40,IPv6,S3,ap-southeast-6
 2406:da32:2800::/40,IPv6,EC2,ap-southeast-6
 2406:da00:2800::/64,IPv6,EC2,ap-southeast-6
+2406:da61:2800::/40,IPv6,EC2,ap-southeast-6
 2406:daf6:2800::/40,IPv6,EC2,ap-southeast-6
 2406:daf7:2800::/40,IPv6,EC2,ap-southeast-6
 2406:da38:2800::/40,IPv6,EC2,ap-southeast-6
