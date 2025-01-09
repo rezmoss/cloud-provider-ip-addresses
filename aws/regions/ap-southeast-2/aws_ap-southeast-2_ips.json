@@ -780,6 +780,12 @@
     "region": "ap-southeast-2"
   },
   {
+    "ip_address": "13.239.245.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-southeast-2"
+  },
+  {
     "ip_address": "3.104.82.0/23",
     "ip_type": "IPv4",
     "service": "AMAZON",
