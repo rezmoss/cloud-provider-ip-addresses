@@ -102,6 +102,12 @@
     "region": "us-west-1"
   },
   {
+    "ip_address": "52.93.52.167/32",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-west-1"
+  },
+  {
     "ip_address": "15.230.67.64/26",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -156,6 +162,12 @@
     "region": "us-west-1"
   },
   {
+    "ip_address": "52.93.53.2/32",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-west-1"
+  },
+  {
     "ip_address": "99.83.97.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -175,6 +187,12 @@
   },
   {
     "ip_address": "52.93.178.183/32",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-west-1"
+  },
+  {
+    "ip_address": "52.93.52.166/32",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "us-west-1"
@@ -330,6 +348,12 @@
     "region": "us-west-1"
   },
   {
+    "ip_address": "52.93.53.5/32",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-west-1"
+  },
+  {
     "ip_address": "52.93.178.166/32",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -337,6 +361,12 @@
   },
   {
     "ip_address": "35.71.117.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-west-1"
+  },
+  {
+    "ip_address": "52.93.52.164/32",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "us-west-1"
@@ -492,6 +522,12 @@
     "region": "us-west-1"
   },
   {
+    "ip_address": "52.93.52.161/32",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-west-1"
+  },
+  {
     "ip_address": "69.107.6.120/29",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -576,6 +612,12 @@
     "region": "us-west-1"
   },
   {
+    "ip_address": "52.93.53.7/32",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-west-1"
+  },
+  {
     "ip_address": "52.93.178.209/32",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -589,6 +631,12 @@
   },
   {
     "ip_address": "52.93.34.0/26",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-west-1"
+  },
+  {
+    "ip_address": "52.93.53.3/32",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "us-west-1"
@@ -637,6 +685,12 @@
   },
   {
     "ip_address": "150.222.252.246/31",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-west-1"
+  },
+  {
+    "ip_address": "52.93.53.4/32",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "us-west-1"
@@ -816,7 +870,19 @@
     "region": "us-west-1"
   },
   {
+    "ip_address": "52.93.53.1/32",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-west-1"
+  },
+  {
     "ip_address": "52.93.178.192/32",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-west-1"
+  },
+  {
+    "ip_address": "52.93.52.165/32",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "us-west-1"
@@ -955,6 +1021,12 @@
   },
   {
     "ip_address": "52.93.178.142/32",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-west-1"
+  },
+  {
+    "ip_address": "52.93.53.0/32",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "us-west-1"
@@ -1416,6 +1488,12 @@
     "region": "us-west-1"
   },
   {
+    "ip_address": "52.93.52.163/32",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-west-1"
+  },
+  {
     "ip_address": "52.93.55.166/31",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -1518,7 +1596,19 @@
     "region": "us-west-1"
   },
   {
+    "ip_address": "52.93.53.6/32",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-west-1"
+  },
+  {
     "ip_address": "150.222.234.3/32",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-west-1"
+  },
+  {
+    "ip_address": "52.93.52.160/32",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "us-west-1"
@@ -1837,6 +1927,12 @@
   },
   {
     "ip_address": "3.101.0.0/16",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-west-1"
+  },
+  {
+    "ip_address": "52.93.52.162/32",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "us-west-1"

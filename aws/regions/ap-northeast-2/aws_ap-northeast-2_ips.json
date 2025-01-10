@@ -186,6 +186,12 @@
     "region": "ap-northeast-2"
   },
   {
+    "ip_address": "54.239.40.129/32",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-northeast-2"
+  },
+  {
     "ip_address": "52.93.127.198/32",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -373,6 +379,12 @@
   },
   {
     "ip_address": "52.93.247.0/25",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-northeast-2"
+  },
+  {
+    "ip_address": "54.239.40.128/32",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "ap-northeast-2"
