@@ -30,6 +30,12 @@
     "region": "asia-south2"
   },
   {
+    "ip_address": "34.152.98.128/25",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "asia-south2"
+  },
+  {
     "ip_address": "34.153.32.0/24",
     "ip_type": "IPv4",
     "service": "Google Cloud",
@@ -37,6 +43,12 @@
   },
   {
     "ip_address": "34.153.224.0/24",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "asia-south2"
+  },
+  {
+    "ip_address": "34.177.66.128/25",
     "ip_type": "IPv4",
     "service": "Google Cloud",
     "region": "asia-south2"

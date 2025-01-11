@@ -36,7 +36,19 @@
     "region": "northamerica-northeast2"
   },
   {
+    "ip_address": "34.152.97.128/25",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "northamerica-northeast2"
+  },
+  {
     "ip_address": "34.157.255.0/24",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "northamerica-northeast2"
+  },
+  {
+    "ip_address": "34.177.65.128/25",
     "ip_type": "IPv4",
     "service": "Google Cloud",
     "region": "northamerica-northeast2"

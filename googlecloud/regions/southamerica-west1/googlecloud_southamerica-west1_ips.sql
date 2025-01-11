@@ -9,7 +9,9 @@ CREATE TABLE IF NOT EXISTS `googlecloud_southamerica-west1_ips` (
 INSERT INTO `googlecloud_southamerica-west1_ips` (`ip_address`, `ip_type`) VALUES ('34.0.48.0/20', 'IPv4');
 INSERT INTO `googlecloud_southamerica-west1_ips` (`ip_address`, `ip_type`) VALUES ('34.104.50.0/23', 'IPv4');
 INSERT INTO `googlecloud_southamerica-west1_ips` (`ip_address`, `ip_type`) VALUES ('34.127.178.0/23', 'IPv4');
+INSERT INTO `googlecloud_southamerica-west1_ips` (`ip_address`, `ip_type`) VALUES ('34.152.98.0/25', 'IPv4');
 INSERT INTO `googlecloud_southamerica-west1_ips` (`ip_address`, `ip_type`) VALUES ('34.153.33.0/24', 'IPv4');
 INSERT INTO `googlecloud_southamerica-west1_ips` (`ip_address`, `ip_type`) VALUES ('34.153.225.0/24', 'IPv4');
 INSERT INTO `googlecloud_southamerica-west1_ips` (`ip_address`, `ip_type`) VALUES ('34.176.0.0/16', 'IPv4');
+INSERT INTO `googlecloud_southamerica-west1_ips` (`ip_address`, `ip_type`) VALUES ('34.177.66.0/25', 'IPv4');
 INSERT INTO `googlecloud_southamerica-west1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1901:4010::/44', 'IPv6');
