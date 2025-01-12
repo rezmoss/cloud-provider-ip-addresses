@@ -6088,6 +6088,7 @@ ip_address,ip_type,service,region
 2406:daf1:2800::/40,IPv6,AMAZON,ap-southeast-6
 2406:daf9:b000::/40,IPv6,AMAZON,ap-south-2
 2606:7b40:10ff:8000::/56,IPv6,AMAZON,us-west-2
+2606:7b40:1b0f:f900::/56,IPv6,AMAZON,us-west-2
 2620:107:4000:9009::/64,IPv6,AMAZON,us-east-1
 2a05:d07c:5000::/40,IPv6,AMAZON,il-central-1
 2406:da32:f000::/40,IPv6,AMAZON,ap-southeast-4

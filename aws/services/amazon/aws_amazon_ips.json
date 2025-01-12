@@ -36534,6 +36534,12 @@
     "region": "us-west-2"
   },
   {
+    "ip_address": "2606:7b40:1b0f:f900::/56",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-west-2"
+  },
+  {
     "ip_address": "2620:107:4000:9009::/64",
     "ip_type": "IPv6",
     "service": "AMAZON",
