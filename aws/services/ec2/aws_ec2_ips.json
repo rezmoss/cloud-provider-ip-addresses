@@ -1782,6 +1782,12 @@
     "region": "ap-northeast-1"
   },
   {
+    "ip_address": "35.96.7.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-west-2"
+  },
+  {
     "ip_address": "99.77.55.32/32",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -7588,6 +7594,12 @@
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "ap-northeast-1"
+  },
+  {
+    "ip_address": "35.96.0.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-west-2"
   },
   {
     "ip_address": "46.137.0.0/17",
