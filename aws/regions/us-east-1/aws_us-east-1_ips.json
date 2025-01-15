@@ -12,6 +12,12 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "3.2.58.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "15.181.232.0/21",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -5841,6 +5847,12 @@
     "ip_address": "44.222.66.0/24",
     "ip_type": "IPv4",
     "service": "CLOUDFRONT",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "3.2.58.0/24",
+    "ip_type": "IPv4",
+    "service": "GLOBALACCELERATOR",
     "region": "us-east-1"
   },
   {

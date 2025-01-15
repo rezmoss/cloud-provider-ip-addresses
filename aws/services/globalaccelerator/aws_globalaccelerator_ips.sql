@@ -6,6 +6,7 @@ CREATE TABLE IF NOT EXISTS `aws_globalaccelerator_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `aws_globalaccelerator_ips` (`ip_address`, `ip_type`) VALUES ('3.2.58.0/24', 'IPv4');
 INSERT INTO `aws_globalaccelerator_ips` (`ip_address`, `ip_type`) VALUES ('13.248.117.0/24', 'IPv4');
 INSERT INTO `aws_globalaccelerator_ips` (`ip_address`, `ip_type`) VALUES ('15.197.34.0/23', 'IPv4');
 INSERT INTO `aws_globalaccelerator_ips` (`ip_address`, `ip_type`) VALUES ('15.197.36.0/22', 'IPv4');

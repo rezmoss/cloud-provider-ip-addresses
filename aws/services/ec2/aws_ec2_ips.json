@@ -6168,6 +6168,12 @@
     "region": "us-gov-east-1"
   },
   {
+    "ip_address": "35.96.10.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-west-2"
+  },
+  {
     "ip_address": "52.94.249.112/28",
     "ip_type": "IPv4",
     "service": "EC2",

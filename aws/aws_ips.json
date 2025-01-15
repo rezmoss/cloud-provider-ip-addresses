@@ -162,6 +162,12 @@
     "region": "ap-southeast-1"
   },
   {
+    "ip_address": "3.2.58.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "3.108.0.0/14",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -20622,6 +20628,12 @@
     "region": "us-gov-east-1"
   },
   {
+    "ip_address": "35.96.10.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-west-2"
+  },
+  {
     "ip_address": "52.46.192.0/20",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -38016,6 +38028,12 @@
     "region": "us-gov-east-1"
   },
   {
+    "ip_address": "35.96.10.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-west-2"
+  },
+  {
     "ip_address": "52.94.249.112/28",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -40732,6 +40750,12 @@
     "ip_type": "IPv4",
     "service": "CLOUDFRONT",
     "region": "us-west-2"
+  },
+  {
+    "ip_address": "3.2.58.0/24",
+    "ip_type": "IPv4",
+    "service": "GLOBALACCELERATOR",
+    "region": "us-east-1"
   },
   {
     "ip_address": "13.248.117.0/24",

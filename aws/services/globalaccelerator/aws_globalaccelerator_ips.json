@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "3.2.58.0/24",
+    "ip_type": "IPv4",
+    "service": "GLOBALACCELERATOR",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "13.248.117.0/24",
     "ip_type": "IPv4",
     "service": "GLOBALACCELERATOR",
