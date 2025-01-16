@@ -132,6 +132,7 @@ ip_address,ip_type,service,region
 2404:c2c0:3100::/40,IPv6,AMAZON,cn-northwest-1
 2404:c2c0:2800::/40,IPv6,AMAZON,cn-northwest-1
 2404:c2c0:2c00::/40,IPv6,AMAZON,cn-northwest-1
+2404:c2c0:3000::/40,IPv6,AMAZON,cn-northwest-1
 240f:8000:4000::/40,IPv6,AMAZON,cn-northwest-1
 2404:c2c0:2600::/40,IPv6,AMAZON,cn-northwest-1
 2404:c2c0:2100::/40,IPv6,AMAZON,cn-northwest-1
@@ -166,6 +167,7 @@ ip_address,ip_type,service,region
 240f:8014::/36,IPv6,EC2,cn-northwest-1
 2404:c2c0:8000::/36,IPv6,EC2,cn-northwest-1
 2404:c2c0:3100::/40,IPv6,EC2,cn-northwest-1
+2404:c2c0:3000::/40,IPv6,EC2,cn-northwest-1
 240f:8000:4000::/40,IPv6,EC2,cn-northwest-1
 2404:c2c0:2100::/40,IPv6,EC2,cn-northwest-1
 2404:c2c0:87aa:4800::/56,IPv6,EC2_INSTANCE_CONNECT,cn-northwest-1
