@@ -1014,6 +1014,12 @@
     "region": "GLOBAL"
   },
   {
+    "ip_address": "192.26.25.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "GLOBAL"
+  },
+  {
     "ip_address": "15.193.0.0/19",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -1275,6 +1281,12 @@
     "ip_address": "63.246.114.0/23",
     "ip_type": "IPv4",
     "service": "ROUTE53",
+    "region": "GLOBAL"
+  },
+  {
+    "ip_address": "192.26.25.0/24",
+    "ip_type": "IPv4",
+    "service": "DATADEPOT",
     "region": "GLOBAL"
   },
   {
