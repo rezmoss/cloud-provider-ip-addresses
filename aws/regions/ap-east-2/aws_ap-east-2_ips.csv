@@ -55,6 +55,7 @@ ip_address,ip_type,service,region
 2406:dafe:c800::/40,IPv6,AMAZON,ap-east-2
 2406:da70:c800::/40,IPv6,AMAZON,ap-east-2
 2406:da38:c800::/40,IPv6,AMAZON,ap-east-2
+2406:da60:c800::/40,IPv6,S3,ap-east-2
 2406:daf0:c800::/40,IPv6,S3,ap-east-2
 2406:daa0:c800::/40,IPv6,S3,ap-east-2
 2406:da68:c800::/40,IPv6,S3,ap-east-2

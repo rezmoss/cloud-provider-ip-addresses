@@ -1358,6 +1358,7 @@ ip_address,ip_type,service,region
 2600:1f68:8000::/39,IPv6,S3,us-east-1
 2600:1ff8:8000::/40,IPv6,S3,us-east-1
 2600:1ff9:8000::/40,IPv6,S3,us-east-1
+2600:1f60:8000::/39,IPv6,S3,us-east-1
 2600:1ffa:8000::/40,IPv6,S3,us-east-1
 2600:1fa0:8000::/39,IPv6,S3,us-east-1
 2600:f0f0:5519::/48,IPv6,IVS_REALTIME,us-east-1

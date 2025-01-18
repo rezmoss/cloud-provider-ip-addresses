@@ -2286,6 +2286,12 @@
     "region": "eu-west-2"
   },
   {
+    "ip_address": "2a05:d030:c000::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "eu-west-2"
+  },
+  {
     "ip_address": "2a05:d079:c000::/40",
     "ip_type": "IPv6",
     "service": "S3",

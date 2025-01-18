@@ -564,6 +564,12 @@
     "region": "il-central-1"
   },
   {
+    "ip_address": "2a05:d030:5000::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "il-central-1"
+  },
+  {
     "ip_address": "2a05:d079:5000::/40",
     "ip_type": "IPv6",
     "service": "S3",

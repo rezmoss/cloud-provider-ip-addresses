@@ -612,6 +612,12 @@
     "region": "ap-south-2"
   },
   {
+    "ip_address": "2406:da60:b000::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "ap-south-2"
+  },
+  {
     "ip_address": "2406:da68:b000::/40",
     "ip_type": "IPv6",
     "service": "S3",

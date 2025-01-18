@@ -1734,6 +1734,12 @@
     "region": "sa-east-1"
   },
   {
+    "ip_address": "2600:1f60:e000::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "sa-east-1"
+  },
+  {
     "ip_address": "2600:1fa0:e000::/40",
     "ip_type": "IPv6",
     "service": "S3",

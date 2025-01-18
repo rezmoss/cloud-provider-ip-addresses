@@ -1182,6 +1182,12 @@
     "region": "eu-north-1"
   },
   {
+    "ip_address": "2a05:d030:6000::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "eu-north-1"
+  },
+  {
     "ip_address": "2a05:d034:6000::/40",
     "ip_type": "IPv6",
     "service": "S3",

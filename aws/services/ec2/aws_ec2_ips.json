@@ -5454,6 +5454,12 @@
     "region": "eu-central-1"
   },
   {
+    "ip_address": "45.57.128.0/18",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "ap-southeast-1"
+  },
+  {
     "ip_address": "99.77.55.50/32",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -8808,6 +8814,12 @@
     "region": "cn-northwest-1"
   },
   {
+    "ip_address": "2406:da2a:8000::/36",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-southeast-1"
+  },
+  {
     "ip_address": "2406:dafb:a000::/40",
     "ip_type": "IPv6",
     "service": "EC2",
@@ -10846,6 +10858,12 @@
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "il-central-1"
+  },
+  {
+    "ip_address": "2406:da1a:8000::/36",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-southeast-1"
   },
   {
     "ip_address": "2406:da2f::/36",

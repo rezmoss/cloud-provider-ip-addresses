@@ -293,6 +293,7 @@ ip_address,ip_type,service,region
 2406:daf9:a000::/40,IPv6,S3,ap-south-1
 2406:dafa:a000::/40,IPv6,S3,ap-south-1
 2406:daf8:a000::/40,IPv6,S3,ap-south-1
+2406:da60:a000::/40,IPv6,S3,ap-south-1
 2406:daa0:a000::/40,IPv6,S3,ap-south-1
 2406:daf0:a000::/40,IPv6,S3,ap-south-1
 2406:da68:a000::/40,IPv6,S3,ap-south-1

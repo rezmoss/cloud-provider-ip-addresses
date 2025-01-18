@@ -4284,6 +4284,24 @@
     "region": "us-west-2"
   },
   {
+    "ip_address": "2600:1f60:4020::/48",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "2600:1f60:4040::/48",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "2600:1f60:40c0::/48",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "us-west-2"
+  },
+  {
     "ip_address": "2600:1ff8:4000::/40",
     "ip_type": "IPv6",
     "service": "S3",
@@ -4296,7 +4314,19 @@
     "region": "us-west-2"
   },
   {
+    "ip_address": "2600:1f60:4000::/56",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "us-west-2"
+  },
+  {
     "ip_address": "2600:1ff9:4000::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "2600:1f60:4080::/48",
     "ip_type": "IPv6",
     "service": "S3",
     "region": "us-west-2"

@@ -380,6 +380,7 @@ ip_address,ip_type,service,region
 2a05:d03a:c000:400::/56,IPv6,AMAZON,eu-west-2
 2a05:d03a:c000::/56,IPv6,AMAZON,eu-west-2
 2a05:d07a:c000::/40,IPv6,S3,eu-west-2
+2a05:d030:c000::/40,IPv6,S3,eu-west-2
 2a05:d079:c000::/40,IPv6,S3,eu-west-2
 2a05:d078:c000::/40,IPv6,S3,eu-west-2
 2a05:d050:c000::/40,IPv6,S3,eu-west-2

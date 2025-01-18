@@ -135,6 +135,7 @@ ip_address,ip_type,service,region
 2406:daf0:9000::/40,IPv6,S3,ap-southeast-3
 2406:da68:9000::/40,IPv6,S3,ap-southeast-3
 2406:daf8:9000::/40,IPv6,S3,ap-southeast-3
+2406:da60:9000::/40,IPv6,S3,ap-southeast-3
 2406:daa0:9000::/40,IPv6,S3,ap-southeast-3
 2406:daf9:9000::/40,IPv6,S3,ap-southeast-3
 2406:daf4:9000::/40,IPv6,EC2,ap-southeast-3

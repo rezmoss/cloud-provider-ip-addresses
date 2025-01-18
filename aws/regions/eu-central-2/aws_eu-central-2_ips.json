@@ -546,6 +546,12 @@
     "region": "eu-central-2"
   },
   {
+    "ip_address": "2a05:d030:9000::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "eu-central-2"
+  },
+  {
     "ip_address": "2a05:d070:9000::/40",
     "ip_type": "IPv6",
     "service": "S3",

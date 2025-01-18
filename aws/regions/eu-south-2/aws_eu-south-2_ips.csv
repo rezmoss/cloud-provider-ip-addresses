@@ -129,6 +129,7 @@ ip_address,ip_type,service,region
 2606:f40:fffb::/48,IPv6,AMAZON,eu-south-2
 2a05:d000:1000::/40,IPv6,AMAZON,eu-south-2
 2a05:d034:1000::/40,IPv6,S3,eu-south-2
+2a05:d030:1000::/40,IPv6,S3,eu-south-2
 2a05:d078:1000::/40,IPv6,S3,eu-south-2
 2a05:d070:1000::/40,IPv6,S3,eu-south-2
 2a05:d079:1000::/40,IPv6,S3,eu-south-2

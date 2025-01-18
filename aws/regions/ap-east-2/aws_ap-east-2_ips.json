@@ -336,6 +336,12 @@
     "region": "ap-east-2"
   },
   {
+    "ip_address": "2406:da60:c800::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "ap-east-2"
+  },
+  {
     "ip_address": "2406:daf0:c800::/40",
     "ip_type": "IPv6",
     "service": "S3",

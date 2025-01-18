@@ -79,6 +79,7 @@ ip_address,ip_type,service,region
 2600:1ff9:a400::/40,IPv6,AMAZON,ca-west-1
 2600:1f68:a400::/40,IPv6,S3,ca-west-1
 2600:1ff0:a400::/40,IPv6,S3,ca-west-1
+2600:1f60:a400::/40,IPv6,S3,ca-west-1
 2600:1fa0:a400::/40,IPv6,S3,ca-west-1
 2600:1ffb:a400::/40,IPv6,EC2,ca-west-1
 2600:1f61:a400::/40,IPv6,EC2,ca-west-1

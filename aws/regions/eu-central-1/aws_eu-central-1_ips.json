@@ -3486,6 +3486,12 @@
     "region": "eu-central-1"
   },
   {
+    "ip_address": "2a05:d030:4000::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "eu-central-1"
+  },
+  {
     "ip_address": "2a05:d034:b000::/40",
     "ip_type": "IPv6",
     "service": "S3",
@@ -3493,6 +3499,12 @@
   },
   {
     "ip_address": "2a05:d079:4000::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "eu-central-1"
+  },
+  {
+    "ip_address": "2a05:d030:b000::/40",
     "ip_type": "IPv6",
     "service": "S3",
     "region": "eu-central-1"

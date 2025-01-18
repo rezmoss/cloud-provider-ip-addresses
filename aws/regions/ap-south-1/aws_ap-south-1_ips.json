@@ -1764,6 +1764,12 @@
     "region": "ap-south-1"
   },
   {
+    "ip_address": "2406:da60:a000::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "ap-south-1"
+  },
+  {
     "ip_address": "2406:daa0:a000::/40",
     "ip_type": "IPv6",
     "service": "S3",

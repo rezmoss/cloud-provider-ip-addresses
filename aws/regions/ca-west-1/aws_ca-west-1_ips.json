@@ -480,6 +480,12 @@
     "region": "ca-west-1"
   },
   {
+    "ip_address": "2600:1f60:a400::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "ca-west-1"
+  },
+  {
     "ip_address": "2600:1fa0:a400::/40",
     "ip_type": "IPv6",
     "service": "S3",

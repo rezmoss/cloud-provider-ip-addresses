@@ -960,6 +960,12 @@
     "region": "ap-northeast-3"
   },
   {
+    "ip_address": "2406:da60:6000::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "ap-northeast-3"
+  },
+  {
     "ip_address": "2406:daa0:6000::/40",
     "ip_type": "IPv6",
     "service": "S3",

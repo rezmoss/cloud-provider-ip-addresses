@@ -1416,6 +1416,12 @@
     "region": "ap-northeast-2"
   },
   {
+    "ip_address": "2406:da60:2000::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "ap-northeast-2"
+  },
+  {
     "ip_address": "2406:daa0:2000::/40",
     "ip_type": "IPv6",
     "service": "S3",

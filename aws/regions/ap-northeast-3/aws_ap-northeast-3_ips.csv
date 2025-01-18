@@ -159,6 +159,7 @@ ip_address,ip_type,service,region
 2406:dab8:6000::/40,IPv6,AMAZON,ap-northeast-3
 2406:da00:6000::/40,IPv6,AMAZON,ap-northeast-3
 2406:da70:6000::/56,IPv6,AMAZON,ap-northeast-3
+2406:da60:6000::/40,IPv6,S3,ap-northeast-3
 2406:daa0:6000::/40,IPv6,S3,ap-northeast-3
 2406:daf9:6000::/40,IPv6,S3,ap-northeast-3
 2406:da68:6000::/40,IPv6,S3,ap-northeast-3

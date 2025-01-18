@@ -828,6 +828,12 @@
     "region": "us-gov-west-1"
   },
   {
+    "ip_address": "2600:1f60:2000::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "us-gov-west-1"
+  },
+  {
     "ip_address": "2600:1ff0:2000::/40",
     "ip_type": "IPv6",
     "service": "S3",
