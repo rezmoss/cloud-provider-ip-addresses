@@ -6,6 +6,12 @@
     "region": "eu-central-1"
   },
   {
+    "ip_address": "35.50.238.0/24",
+    "ip_type": "IPv4",
+    "service": "IVS_REALTIME",
+    "region": "ap-northeast-2"
+  },
+  {
     "ip_address": "99.181.64.0/18",
     "ip_type": "IPv4",
     "service": "IVS_REALTIME",
@@ -34,6 +40,12 @@
     "ip_type": "IPv4",
     "service": "IVS_REALTIME",
     "region": "me-south-1"
+  },
+  {
+    "ip_address": "35.50.239.0/24",
+    "ip_type": "IPv4",
+    "service": "IVS_REALTIME",
+    "region": "ap-northeast-2"
   },
   {
     "ip_address": "35.50.133.0/24",
@@ -136,6 +148,12 @@
     "ip_type": "IPv4",
     "service": "IVS_REALTIME",
     "region": "eu-central-1"
+  },
+  {
+    "ip_address": "35.50.237.0/24",
+    "ip_type": "IPv4",
+    "service": "IVS_REALTIME",
+    "region": "ap-northeast-2"
   },
   {
     "ip_address": "35.50.128.0/24",

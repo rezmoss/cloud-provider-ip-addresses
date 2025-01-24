@@ -30,6 +30,12 @@
     "region": "ap-northeast-2"
   },
   {
+    "ip_address": "35.50.238.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-northeast-2"
+  },
+  {
     "ip_address": "52.94.6.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -43,6 +49,12 @@
   },
   {
     "ip_address": "15.230.74.128/26",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-northeast-2"
+  },
+  {
+    "ip_address": "35.50.239.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "ap-northeast-2"
@@ -217,6 +229,12 @@
   },
   {
     "ip_address": "104.255.59.118/32",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-northeast-2"
+  },
+  {
+    "ip_address": "35.50.237.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "ap-northeast-2"
@@ -618,6 +636,24 @@
     "region": "ap-northeast-2"
   },
   {
+    "ip_address": "35.50.238.0/24",
+    "ip_type": "IPv4",
+    "service": "IVS_REALTIME",
+    "region": "ap-northeast-2"
+  },
+  {
+    "ip_address": "35.50.239.0/24",
+    "ip_type": "IPv4",
+    "service": "IVS_REALTIME",
+    "region": "ap-northeast-2"
+  },
+  {
+    "ip_address": "35.50.237.0/24",
+    "ip_type": "IPv4",
+    "service": "IVS_REALTIME",
+    "region": "ap-northeast-2"
+  },
+  {
     "ip_address": "13.124.247.0/24",
     "ip_type": "IPv4",
     "service": "WORKSPACES_GATEWAYS",
@@ -648,7 +684,19 @@
     "region": "ap-northeast-2"
   },
   {
+    "ip_address": "35.50.238.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "ap-northeast-2"
+  },
+  {
     "ip_address": "151.148.40.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "ap-northeast-2"
+  },
+  {
+    "ip_address": "35.50.239.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "ap-northeast-2"
@@ -709,6 +757,12 @@
   },
   {
     "ip_address": "16.184.0.0/18",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "ap-northeast-2"
+  },
+  {
+    "ip_address": "35.50.237.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "ap-northeast-2"
