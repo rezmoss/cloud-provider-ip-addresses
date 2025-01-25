@@ -162,6 +162,12 @@
     "region": "us-west-2"
   },
   {
+    "ip_address": "35.50.135.0/24",
+    "ip_type": "IPv4",
+    "service": "IVS_REALTIME",
+    "region": "us-west-2"
+  },
+  {
     "ip_address": "23.160.0.0/24",
     "ip_type": "IPv4",
     "service": "IVS_REALTIME",

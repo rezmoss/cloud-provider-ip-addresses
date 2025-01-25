@@ -54,4 +54,5 @@ ip_address,ip_type,service,region
 3.101.177.48/29,IPv4,CODEBUILD,us-west-1
 35.82.136.192/29,IPv4,CODEBUILD,us-west-2
 35.83.248.40/29,IPv4,CODEBUILD,us-west-2
+44.242.161.24/29,IPv4,CODEBUILD,us-west-2
 52.43.76.88/29,IPv4,CODEBUILD,us-west-2

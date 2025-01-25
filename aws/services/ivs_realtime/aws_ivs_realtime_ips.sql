@@ -33,6 +33,7 @@ INSERT INTO `aws_ivs_realtime_ips` (`ip_address`, `ip_type`) VALUES ('35.50.130.
 INSERT INTO `aws_ivs_realtime_ips` (`ip_address`, `ip_type`) VALUES ('35.50.194.0/24', 'IPv4');
 INSERT INTO `aws_ivs_realtime_ips` (`ip_address`, `ip_type`) VALUES ('35.50.237.0/24', 'IPv4');
 INSERT INTO `aws_ivs_realtime_ips` (`ip_address`, `ip_type`) VALUES ('35.50.128.0/24', 'IPv4');
+INSERT INTO `aws_ivs_realtime_ips` (`ip_address`, `ip_type`) VALUES ('35.50.135.0/24', 'IPv4');
 INSERT INTO `aws_ivs_realtime_ips` (`ip_address`, `ip_type`) VALUES ('23.160.0.0/24', 'IPv4');
 INSERT INTO `aws_ivs_realtime_ips` (`ip_address`, `ip_type`) VALUES ('35.50.193.0/24', 'IPv4');
 INSERT INTO `aws_ivs_realtime_ips` (`ip_address`, `ip_type`) VALUES ('35.50.195.0/24', 'IPv4');

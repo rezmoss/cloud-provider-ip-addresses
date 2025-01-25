@@ -330,6 +330,12 @@
     "region": "us-west-2"
   },
   {
+    "ip_address": "44.242.161.24/29",
+    "ip_type": "IPv4",
+    "service": "CODEBUILD",
+    "region": "us-west-2"
+  },
+  {
     "ip_address": "52.43.76.88/29",
     "ip_type": "IPv4",
     "service": "CODEBUILD",

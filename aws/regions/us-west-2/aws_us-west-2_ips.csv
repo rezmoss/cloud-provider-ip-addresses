@@ -105,6 +105,7 @@ ip_address,ip_type,service,region
 35.50.128.0/24,IPv4,AMAZON,us-west-2
 205.251.226.0/24,IPv4,AMAZON,us-west-2
 15.230.240.0/24,IPv4,AMAZON,us-west-2
+35.50.135.0/24,IPv4,AMAZON,us-west-2
 54.202.0.0/15,IPv4,AMAZON,us-west-2
 15.181.128.0/20,IPv4,AMAZON,us-west-2
 108.166.224.0/21,IPv4,AMAZON,us-west-2
@@ -256,6 +257,7 @@ ip_address,ip_type,service,region
 35.50.134.0/24,IPv4,IVS_REALTIME,us-west-2
 35.50.130.0/24,IPv4,IVS_REALTIME,us-west-2
 35.50.128.0/24,IPv4,IVS_REALTIME,us-west-2
+35.50.135.0/24,IPv4,IVS_REALTIME,us-west-2
 35.50.131.0/24,IPv4,IVS_REALTIME,us-west-2
 34.223.96.0/22,IPv4,WORKSPACES_GATEWAYS,us-west-2
 35.80.88.0/22,IPv4,WORKSPACES_GATEWAYS,us-west-2
@@ -332,6 +334,7 @@ ip_address,ip_type,service,region
 52.36.0.0/14,IPv4,EC2,us-west-2
 15.220.226.0/24,IPv4,EC2,us-west-2
 35.50.128.0/24,IPv4,EC2,us-west-2
+35.50.135.0/24,IPv4,EC2,us-west-2
 54.202.0.0/15,IPv4,EC2,us-west-2
 15.181.128.0/20,IPv4,EC2,us-west-2
 15.220.204.0/24,IPv4,EC2,us-west-2
@@ -415,6 +418,7 @@ ip_address,ip_type,service,region
 34.218.119.32/27,IPv4,CLOUD9,us-west-2
 35.82.136.192/29,IPv4,CODEBUILD,us-west-2
 35.83.248.40/29,IPv4,CODEBUILD,us-west-2
+44.242.161.24/29,IPv4,CODEBUILD,us-west-2
 52.43.76.88/29,IPv4,CODEBUILD,us-west-2
 18.246.176.0/24,IPv4,API_GATEWAY,us-west-2
 18.246.178.0/23,IPv4,API_GATEWAY,us-west-2

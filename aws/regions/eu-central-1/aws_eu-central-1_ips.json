@@ -1278,6 +1278,12 @@
     "region": "eu-central-1"
   },
   {
+    "ip_address": "136.18.3.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-central-1"
+  },
+  {
     "ip_address": "15.230.15.106/31",
     "ip_type": "IPv4",
     "service": "AMAZON",
