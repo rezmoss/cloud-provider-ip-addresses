@@ -18270,6 +18270,12 @@
     "region": "us-east-2"
   },
   {
+    "ip_address": "24.110.9.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "me-central-1"
+  },
+  {
     "ip_address": "52.93.90.163/32",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -32886,6 +32892,12 @@
     "region": "ap-southeast-1"
   },
   {
+    "ip_address": "56.69.0.0/16",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "ap-southeast-5"
+  },
+  {
     "ip_address": "63.246.113.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -37480,6 +37492,12 @@
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "ca-central-1"
+  },
+  {
+    "ip_address": "24.110.9.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "me-central-1"
   },
   {
     "ip_address": "54.66.0.0/16",
