@@ -1,7 +1,6 @@
 ip_address,ip_type,service,region
 34.1.224.0/19,IPv4,Google Cloud,europe-west4
 34.12.0.0/16,IPv4,Google Cloud,europe-west4
-34.13.104.0/22,IPv4,Google Cloud,europe-west4
 34.13.128.0/17,IPv4,Google Cloud,europe-west4
 34.32.128.0/17,IPv4,Google Cloud,europe-west4
 34.34.0.0/17,IPv4,Google Cloud,europe-west4
