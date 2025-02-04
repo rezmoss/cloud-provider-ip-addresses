@@ -198,6 +198,12 @@
     "region": "ap-southeast-1"
   },
   {
+    "ip_address": "35.50.236.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-southeast-1"
+  },
+  {
     "ip_address": "52.144.230.204/31",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -522,6 +528,12 @@
     "region": "ap-southeast-1"
   },
   {
+    "ip_address": "35.50.235.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-southeast-1"
+  },
+  {
     "ip_address": "69.107.6.160/29",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -817,6 +829,12 @@
   },
   {
     "ip_address": "52.94.198.96/28",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-southeast-1"
+  },
+  {
+    "ip_address": "35.50.234.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "ap-southeast-1"
@@ -1242,6 +1260,24 @@
     "region": "ap-southeast-1"
   },
   {
+    "ip_address": "35.50.236.0/24",
+    "ip_type": "IPv4",
+    "service": "IVS_REALTIME",
+    "region": "ap-southeast-1"
+  },
+  {
+    "ip_address": "35.50.235.0/24",
+    "ip_type": "IPv4",
+    "service": "IVS_REALTIME",
+    "region": "ap-southeast-1"
+  },
+  {
+    "ip_address": "35.50.234.0/24",
+    "ip_type": "IPv4",
+    "service": "IVS_REALTIME",
+    "region": "ap-southeast-1"
+  },
+  {
     "ip_address": "13.212.132.0/22",
     "ip_type": "IPv4",
     "service": "WORKSPACES_GATEWAYS",
@@ -1321,6 +1357,12 @@
   },
   {
     "ip_address": "175.41.128.0/18",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "ap-southeast-1"
+  },
+  {
+    "ip_address": "35.50.236.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "ap-southeast-1"
@@ -1446,6 +1488,12 @@
     "region": "ap-southeast-1"
   },
   {
+    "ip_address": "35.50.235.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "ap-southeast-1"
+  },
+  {
     "ip_address": "16.156.0.0/15",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -1561,6 +1609,12 @@
   },
   {
     "ip_address": "96.0.94.0/23",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "ap-southeast-1"
+  },
+  {
+    "ip_address": "35.50.234.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "ap-southeast-1"
