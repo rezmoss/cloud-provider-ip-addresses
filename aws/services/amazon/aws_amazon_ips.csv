@@ -3055,7 +3055,6 @@ ip_address,ip_type,service,region
 3.98.0.0/15,IPv4,AMAZON,ca-central-1
 15.230.39.132/31,IPv4,AMAZON,us-east-2
 24.110.9.0/24,IPv4,AMAZON,me-central-1
-35.96.244.0/24,IPv4,AMAZON,us-west-2
 52.93.90.163/32,IPv4,AMAZON,us-east-1
 54.66.0.0/16,IPv4,AMAZON,ap-southeast-2
 54.239.102.0/25,IPv4,AMAZON,us-west-1
