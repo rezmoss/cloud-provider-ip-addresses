@@ -690,12 +690,6 @@
     "region": "af-south-1"
   },
   {
-    "ip_address": "2406:daf5:1000::/40",
-    "ip_type": "IPv6",
-    "service": "AMAZON",
-    "region": "af-south-1"
-  },
-  {
     "ip_address": "2406:da60:1000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -715,12 +709,6 @@
   },
   {
     "ip_address": "2406:dafb:1000::/40",
-    "ip_type": "IPv6",
-    "service": "AMAZON",
-    "region": "af-south-1"
-  },
-  {
-    "ip_address": "2406:dab8:1000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "af-south-1"
@@ -769,12 +757,6 @@
   },
   {
     "ip_address": "2406:da00:1000::/40",
-    "ip_type": "IPv6",
-    "service": "AMAZON",
-    "region": "af-south-1"
-  },
-  {
-    "ip_address": "2406:daf1:1000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "af-south-1"
@@ -900,6 +882,12 @@
     "region": "af-south-1"
   },
   {
+    "ip_address": "2406:da21:c::/48",
+    "ip_type": "IPv6",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "af-south-1"
+  },
+  {
     "ip_address": "2406:da61:1000::/40",
     "ip_type": "IPv6",
     "service": "EC2",
@@ -907,12 +895,6 @@
   },
   {
     "ip_address": "2406:da38:1000::/40",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "af-south-1"
-  },
-  {
-    "ip_address": "2406:daf5:1000::/40",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "af-south-1"
@@ -937,12 +919,6 @@
   },
   {
     "ip_address": "2406:dafb:1000::/40",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "af-south-1"
-  },
-  {
-    "ip_address": "2406:dab8:1000::/40",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "af-south-1"
@@ -973,12 +949,6 @@
   },
   {
     "ip_address": "2406:da00:1000::/40",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "af-south-1"
-  },
-  {
-    "ip_address": "2406:daf1:1000::/40",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "af-south-1"

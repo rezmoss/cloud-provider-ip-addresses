@@ -438,12 +438,6 @@
     "region": "il-central-1"
   },
   {
-    "ip_address": "2a05:d075:5000::/40",
-    "ip_type": "IPv6",
-    "service": "AMAZON",
-    "region": "il-central-1"
-  },
-  {
     "ip_address": "2a05:d03a:5000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -486,12 +480,6 @@
     "region": "il-central-1"
   },
   {
-    "ip_address": "2a05:d071:5000::/40",
-    "ip_type": "IPv6",
-    "service": "AMAZON",
-    "region": "il-central-1"
-  },
-  {
     "ip_address": "2600:f0f0:20::/48",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -517,12 +505,6 @@
   },
   {
     "ip_address": "2a05:d07c:5000::/40",
-    "ip_type": "IPv6",
-    "service": "AMAZON",
-    "region": "il-central-1"
-  },
-  {
-    "ip_address": "2a05:d058:5000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "il-central-1"
@@ -600,6 +582,12 @@
     "region": "il-central-1"
   },
   {
+    "ip_address": "2a05:d025:1000::/48",
+    "ip_type": "IPv6",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "il-central-1"
+  },
+  {
     "ip_address": "2a05:d034:5000::/40",
     "ip_type": "IPv6",
     "service": "EC2",
@@ -642,12 +630,6 @@
     "region": "il-central-1"
   },
   {
-    "ip_address": "2a05:d075:5000::/40",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "il-central-1"
-  },
-  {
     "ip_address": "2a05:d03a:5000::/40",
     "ip_type": "IPv6",
     "service": "EC2",
@@ -678,12 +660,6 @@
     "region": "il-central-1"
   },
   {
-    "ip_address": "2a05:d071:5000::/40",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "il-central-1"
-  },
-  {
     "ip_address": "2a05:d074:5000::/40",
     "ip_type": "IPv6",
     "service": "EC2",
@@ -697,12 +673,6 @@
   },
   {
     "ip_address": "2a05:d072:5000::/40",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "il-central-1"
-  },
-  {
-    "ip_address": "2a05:d058:5000::/40",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "il-central-1"

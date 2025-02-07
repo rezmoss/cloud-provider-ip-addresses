@@ -972,12 +972,6 @@
     "region": "eu-west-3"
   },
   {
-    "ip_address": "2a05:d075:2000::/40",
-    "ip_type": "IPv6",
-    "service": "AMAZON",
-    "region": "eu-west-3"
-  },
-  {
     "ip_address": "2a05:d036:2000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -985,12 +979,6 @@
   },
   {
     "ip_address": "2a05:d076:2000::/40",
-    "ip_type": "IPv6",
-    "service": "AMAZON",
-    "region": "eu-west-3"
-  },
-  {
-    "ip_address": "2a05:d058:2000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "eu-west-3"
@@ -1051,12 +1039,6 @@
   },
   {
     "ip_address": "2a05:d070:2000::/40",
-    "ip_type": "IPv6",
-    "service": "AMAZON",
-    "region": "eu-west-3"
-  },
-  {
-    "ip_address": "2a05:d071:2000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "eu-west-3"
@@ -1182,6 +1164,12 @@
     "region": "eu-west-3"
   },
   {
+    "ip_address": "2a05:d022:1c::/48",
+    "ip_type": "IPv6",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "eu-west-3"
+  },
+  {
     "ip_address": "2a05:d074:2000::/40",
     "ip_type": "IPv6",
     "service": "EC2",
@@ -1206,12 +1194,6 @@
     "region": "eu-west-3"
   },
   {
-    "ip_address": "2a05:d075:2000::/40",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "eu-west-3"
-  },
-  {
     "ip_address": "2a05:d036:2000::/40",
     "ip_type": "IPv6",
     "service": "EC2",
@@ -1219,12 +1201,6 @@
   },
   {
     "ip_address": "2a05:d076:2000::/40",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "eu-west-3"
-  },
-  {
-    "ip_address": "2a05:d058:2000::/40",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "eu-west-3"
@@ -1273,12 +1249,6 @@
   },
   {
     "ip_address": "2a05:d070:2000::/40",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "eu-west-3"
-  },
-  {
-    "ip_address": "2a05:d071:2000::/40",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "eu-west-3"

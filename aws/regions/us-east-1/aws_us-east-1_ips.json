@@ -8232,6 +8232,12 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "2600:1f28:34c::/48",
+    "ip_type": "IPv6",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "2600:f0f0:2::/48",
     "ip_type": "IPv6",
     "service": "EC2",

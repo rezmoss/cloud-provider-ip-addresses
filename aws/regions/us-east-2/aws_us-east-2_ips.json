@@ -3006,12 +3006,6 @@
     "region": "us-east-2"
   },
   {
-    "ip_address": "2600:1fb8:6000::/40",
-    "ip_type": "IPv6",
-    "service": "AMAZON",
-    "region": "us-east-2"
-  },
-  {
     "ip_address": "2600:1f70:6000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -3043,12 +3037,6 @@
   },
   {
     "ip_address": "2600:1f36:6000::/40",
-    "ip_type": "IPv6",
-    "service": "AMAZON",
-    "region": "us-east-2"
-  },
-  {
-    "ip_address": "2600:1ff5:6000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "us-east-2"
@@ -3175,12 +3163,6 @@
   },
   {
     "ip_address": "2600:1f28:c000::/36",
-    "ip_type": "IPv6",
-    "service": "AMAZON",
-    "region": "us-east-2"
-  },
-  {
-    "ip_address": "2600:1ff1:6000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "us-east-2"
@@ -3426,9 +3408,9 @@
     "region": "us-east-2"
   },
   {
-    "ip_address": "2600:1fb8:6000::/40",
+    "ip_address": "2600:1f26:28::/48",
     "ip_type": "IPv6",
-    "service": "EC2",
+    "service": "WORKSPACES_GATEWAYS",
     "region": "us-east-2"
   },
   {
@@ -3445,12 +3427,6 @@
   },
   {
     "ip_address": "2600:1f36:6000::/40",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "us-east-2"
-  },
-  {
-    "ip_address": "2600:1ff5:6000::/40",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "us-east-2"
@@ -3547,12 +3523,6 @@
   },
   {
     "ip_address": "2600:1f28:c000::/36",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "us-east-2"
-  },
-  {
-    "ip_address": "2600:1ff1:6000::/40",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "us-east-2"

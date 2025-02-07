@@ -1056,12 +1056,6 @@
     "region": "ca-central-1"
   },
   {
-    "ip_address": "2600:1ff5:1000::/40",
-    "ip_type": "IPv6",
-    "service": "AMAZON",
-    "region": "ca-central-1"
-  },
-  {
     "ip_address": "2600:1ff7:1000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -1069,12 +1063,6 @@
   },
   {
     "ip_address": "2600:1ff2:1000::/40",
-    "ip_type": "IPv6",
-    "service": "AMAZON",
-    "region": "ca-central-1"
-  },
-  {
-    "ip_address": "2600:1ff1:1000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "ca-central-1"
@@ -1200,12 +1188,6 @@
     "region": "ca-central-1"
   },
   {
-    "ip_address": "2600:1fb8:1000::/40",
-    "ip_type": "IPv6",
-    "service": "AMAZON",
-    "region": "ca-central-1"
-  },
-  {
     "ip_address": "2600:1ffb:1000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -1320,6 +1302,12 @@
     "region": "ca-central-1"
   },
   {
+    "ip_address": "2600:1f21:8::/48",
+    "ip_type": "IPv6",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "ca-central-1"
+  },
+  {
     "ip_address": "2600:1f68:1000::/40",
     "ip_type": "IPv6",
     "service": "EC2",
@@ -1356,12 +1344,6 @@
     "region": "ca-central-1"
   },
   {
-    "ip_address": "2600:1ff5:1000::/40",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "ca-central-1"
-  },
-  {
     "ip_address": "2600:1ff7:1000::/40",
     "ip_type": "IPv6",
     "service": "EC2",
@@ -1369,12 +1351,6 @@
   },
   {
     "ip_address": "2600:1ff2:1000::/40",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "ca-central-1"
-  },
-  {
-    "ip_address": "2600:1ff1:1000::/40",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "ca-central-1"
@@ -1453,12 +1429,6 @@
   },
   {
     "ip_address": "2600:1f32:1000::/40",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "ca-central-1"
-  },
-  {
-    "ip_address": "2600:1fb8:1000::/40",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "ca-central-1"

@@ -762,12 +762,6 @@
     "region": "cn-north-1"
   },
   {
-    "ip_address": "2400:7fc0:2600::/40",
-    "ip_type": "IPv6",
-    "service": "AMAZON",
-    "region": "cn-north-1"
-  },
-  {
     "ip_address": "2400:7fc0:2f00::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
