@@ -576,6 +576,12 @@
     "region": "ap-northeast-3"
   },
   {
+    "ip_address": "56.155.128.0/17",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "ap-northeast-3"
+  },
+  {
     "ip_address": "99.83.100.0/24",
     "ip_type": "IPv4",
     "service": "GLOBALACCELERATOR",

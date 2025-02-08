@@ -7878,6 +7878,12 @@
     "region": "cn-north-1"
   },
   {
+    "ip_address": "56.155.128.0/17",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "ap-northeast-3"
+  },
+  {
     "ip_address": "96.0.48.0/21",
     "ip_type": "IPv4",
     "service": "EC2",
