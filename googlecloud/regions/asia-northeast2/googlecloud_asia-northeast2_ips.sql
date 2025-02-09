@@ -9,6 +9,8 @@ CREATE TABLE IF NOT EXISTS `googlecloud_asia-northeast2_ips` (
 INSERT INTO `googlecloud_asia-northeast2_ips` (`ip_address`, `ip_type`) VALUES ('34.97.0.0/16', 'IPv4');
 INSERT INTO `googlecloud_asia-northeast2_ips` (`ip_address`, `ip_type`) VALUES ('34.104.49.0/24', 'IPv4');
 INSERT INTO `googlecloud_asia-northeast2_ips` (`ip_address`, `ip_type`) VALUES ('34.127.177.0/24', 'IPv4');
+INSERT INTO `googlecloud_asia-northeast2_ips` (`ip_address`, `ip_type`) VALUES ('34.152.100.0/24', 'IPv4');
+INSERT INTO `googlecloud_asia-northeast2_ips` (`ip_address`, `ip_type`) VALUES ('34.177.68.0/24', 'IPv4');
 INSERT INTO `googlecloud_asia-northeast2_ips` (`ip_address`, `ip_type`) VALUES ('35.217.128.0/17', 'IPv4');
 INSERT INTO `googlecloud_asia-northeast2_ips` (`ip_address`, `ip_type`) VALUES ('35.220.45.0/24', 'IPv4');
 INSERT INTO `googlecloud_asia-northeast2_ips` (`ip_address`, `ip_type`) VALUES ('35.242.45.0/24', 'IPv4');

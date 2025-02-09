@@ -6,6 +6,12 @@
     "region": "europe-southwest1"
   },
   {
+    "ip_address": "34.152.103.0/24",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "europe-southwest1"
+  },
+  {
     "ip_address": "34.157.44.0/23",
     "ip_type": "IPv4",
     "service": "Google Cloud",
@@ -25,6 +31,12 @@
   },
   {
     "ip_address": "34.175.0.0/16",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "europe-southwest1"
+  },
+  {
+    "ip_address": "34.177.71.0/24",
     "ip_type": "IPv4",
     "service": "Google Cloud",
     "region": "europe-southwest1"

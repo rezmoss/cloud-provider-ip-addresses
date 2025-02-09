@@ -12,4 +12,6 @@ INSERT INTO `googlecloud_australia-southeast2_ips` (`ip_address`, `ip_type`) VAL
 INSERT INTO `googlecloud_australia-southeast2_ips` (`ip_address`, `ip_type`) VALUES ('34.124.58.0/23', 'IPv4');
 INSERT INTO `googlecloud_australia-southeast2_ips` (`ip_address`, `ip_type`) VALUES ('34.126.192.0/20', 'IPv4');
 INSERT INTO `googlecloud_australia-southeast2_ips` (`ip_address`, `ip_type`) VALUES ('34.129.0.0/16', 'IPv4');
+INSERT INTO `googlecloud_australia-southeast2_ips` (`ip_address`, `ip_type`) VALUES ('34.152.101.0/24', 'IPv4');
+INSERT INTO `googlecloud_australia-southeast2_ips` (`ip_address`, `ip_type`) VALUES ('34.177.69.0/24', 'IPv4');
 INSERT INTO `googlecloud_australia-southeast2_ips` (`ip_address`, `ip_type`) VALUES ('2600:1900:41c0::/44', 'IPv6');

@@ -12,6 +12,12 @@
     "region": "me-central2"
   },
   {
+    "ip_address": "34.152.102.0/24",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "me-central2"
+  },
+  {
     "ip_address": "34.166.0.0/16",
     "ip_type": "IPv4",
     "service": "Google Cloud",
@@ -19,6 +25,12 @@
   },
   {
     "ip_address": "34.177.48.0/23",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "me-central2"
+  },
+  {
+    "ip_address": "34.177.70.0/24",
     "ip_type": "IPv4",
     "service": "Google Cloud",
     "region": "me-central2"
