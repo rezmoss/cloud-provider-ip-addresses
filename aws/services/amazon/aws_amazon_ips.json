@@ -1224,6 +1224,12 @@
     "region": "ap-southeast-2"
   },
   {
+    "ip_address": "23.228.193.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "35.50.238.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -12736,6 +12742,12 @@
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "ap-southeast-3"
+  },
+  {
+    "ip_address": "23.228.192.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-east-1"
   },
   {
     "ip_address": "52.93.229.96/32",
