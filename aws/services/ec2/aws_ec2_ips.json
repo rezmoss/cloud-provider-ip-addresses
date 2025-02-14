@@ -5700,6 +5700,12 @@
     "region": "us-gov-east-1"
   },
   {
+    "ip_address": "23.228.194.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "51.0.88.0/21",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -6358,6 +6364,12 @@
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "ap-south-1"
+  },
+  {
+    "ip_address": "75.45.128.0/18",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "eu-central-1"
   },
   {
     "ip_address": "173.83.196.0/23",

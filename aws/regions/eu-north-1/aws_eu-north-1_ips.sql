@@ -91,6 +91,7 @@ INSERT INTO `aws_eu-north-1_ips` (`ip_address`, `ip_type`) VALUES ('13.53.180.0/
 INSERT INTO `aws_eu-north-1_ips` (`ip_address`, `ip_type`) VALUES ('16.16.108.0/23', 'IPv4');
 INSERT INTO `aws_eu-north-1_ips` (`ip_address`, `ip_type`) VALUES ('16.170.199.0/26', 'IPv4');
 INSERT INTO `aws_eu-north-1_ips` (`ip_address`, `ip_type`) VALUES ('16.171.80.0/22', 'IPv4');
+INSERT INTO `aws_eu-north-1_ips` (`ip_address`, `ip_type`) VALUES ('51.21.183.0/24', 'IPv4');
 INSERT INTO `aws_eu-north-1_ips` (`ip_address`, `ip_type`) VALUES ('99.77.246.0/24', 'IPv4');
 INSERT INTO `aws_eu-north-1_ips` (`ip_address`, `ip_type`) VALUES ('16.12.10.0/23', 'IPv4');
 INSERT INTO `aws_eu-north-1_ips` (`ip_address`, `ip_type`) VALUES ('52.95.169.0/24', 'IPv4');
