@@ -42,6 +42,42 @@
     "region": "cn-northwest-1"
   },
   {
+    "ip_address": "18.253.167.0/25",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "18.253.167.128/25",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "18.253.168.0/25",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "160.1.55.0/25",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "us-gov-west-1"
+  },
+  {
+    "ip_address": "160.1.55.128/25",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "us-gov-west-1"
+  },
+  {
+    "ip_address": "160.1.56.0/25",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "us-gov-west-1"
+  },
+  {
     "ip_address": "54.248.220.0/26",
     "ip_type": "IPv4",
     "service": "ROUTE53_HEALTHCHECKS",

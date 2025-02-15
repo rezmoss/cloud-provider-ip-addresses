@@ -29454,6 +29454,42 @@
     "region": "cn-northwest-1"
   },
   {
+    "ip_address": "18.253.167.0/25",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "18.253.167.128/25",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "18.253.168.0/25",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "160.1.55.0/25",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "us-gov-west-1"
+  },
+  {
+    "ip_address": "160.1.55.128/25",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "us-gov-west-1"
+  },
+  {
+    "ip_address": "160.1.56.0/25",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "us-gov-west-1"
+  },
+  {
     "ip_address": "54.248.220.0/26",
     "ip_type": "IPv4",
     "service": "ROUTE53_HEALTHCHECKS",
@@ -50766,6 +50802,12 @@
     "region": "mx-central-1"
   },
   {
+    "ip_address": "2a05:d02f::/36",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eu-central-1"
+  },
+  {
     "ip_address": "2600:1f2e::/36",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -59208,6 +59250,12 @@
     "region": "eu-central-1"
   },
   {
+    "ip_address": "2a05:d01f::/36",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eu-central-1"
+  },
+  {
     "ip_address": "2a05:d02c::/36",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -63130,6 +63178,12 @@
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "mx-central-1"
+  },
+  {
+    "ip_address": "2a05:d02f::/36",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eu-central-1"
   },
   {
     "ip_address": "2600:1f2e::/36",
@@ -69196,6 +69250,12 @@
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "ap-southeast-1"
+  },
+  {
+    "ip_address": "2a05:d01f::/36",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eu-central-1"
   },
   {
     "ip_address": "2a05:d02c::/36",

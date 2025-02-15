@@ -180,6 +180,24 @@
     "region": "us-gov-east-1"
   },
   {
+    "ip_address": "18.253.167.0/25",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "18.253.167.128/25",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "18.253.168.0/25",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "us-gov-east-1"
+  },
+  {
     "ip_address": "108.175.52.0/22",
     "ip_type": "IPv4",
     "service": "S3",

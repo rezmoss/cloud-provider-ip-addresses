@@ -13,6 +13,12 @@ INSERT INTO `aws_route53_healthchecks_ips` (`ip_address`, `ip_type`) VALUES ('52
 INSERT INTO `aws_route53_healthchecks_ips` (`ip_address`, `ip_type`) VALUES ('52.83.34.128/25', 'IPv4');
 INSERT INTO `aws_route53_healthchecks_ips` (`ip_address`, `ip_type`) VALUES ('52.83.35.0/25', 'IPv4');
 INSERT INTO `aws_route53_healthchecks_ips` (`ip_address`, `ip_type`) VALUES ('52.83.35.128/25', 'IPv4');
+INSERT INTO `aws_route53_healthchecks_ips` (`ip_address`, `ip_type`) VALUES ('18.253.167.0/25', 'IPv4');
+INSERT INTO `aws_route53_healthchecks_ips` (`ip_address`, `ip_type`) VALUES ('18.253.167.128/25', 'IPv4');
+INSERT INTO `aws_route53_healthchecks_ips` (`ip_address`, `ip_type`) VALUES ('18.253.168.0/25', 'IPv4');
+INSERT INTO `aws_route53_healthchecks_ips` (`ip_address`, `ip_type`) VALUES ('160.1.55.0/25', 'IPv4');
+INSERT INTO `aws_route53_healthchecks_ips` (`ip_address`, `ip_type`) VALUES ('160.1.55.128/25', 'IPv4');
+INSERT INTO `aws_route53_healthchecks_ips` (`ip_address`, `ip_type`) VALUES ('160.1.56.0/25', 'IPv4');
 INSERT INTO `aws_route53_healthchecks_ips` (`ip_address`, `ip_type`) VALUES ('54.248.220.0/26', 'IPv4');
 INSERT INTO `aws_route53_healthchecks_ips` (`ip_address`, `ip_type`) VALUES ('54.250.253.192/26', 'IPv4');
 INSERT INTO `aws_route53_healthchecks_ips` (`ip_address`, `ip_type`) VALUES ('54.251.31.128/26', 'IPv4');

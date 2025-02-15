@@ -10,6 +10,8 @@ INSERT INTO `googlecloud_us-west3_ips` (`ip_address`, `ip_type`) VALUES ('34.22.
 INSERT INTO `googlecloud_us-west3_ips` (`ip_address`, `ip_type`) VALUES ('34.104.52.0/24', 'IPv4');
 INSERT INTO `googlecloud_us-west3_ips` (`ip_address`, `ip_type`) VALUES ('34.106.0.0/16', 'IPv4');
 INSERT INTO `googlecloud_us-west3_ips` (`ip_address`, `ip_type`) VALUES ('34.127.180.0/24', 'IPv4');
+INSERT INTO `googlecloud_us-west3_ips` (`ip_address`, `ip_type`) VALUES ('34.152.111.0/24', 'IPv4');
+INSERT INTO `googlecloud_us-west3_ips` (`ip_address`, `ip_type`) VALUES ('34.177.79.0/24', 'IPv4');
 INSERT INTO `googlecloud_us-west3_ips` (`ip_address`, `ip_type`) VALUES ('35.217.64.0/18', 'IPv4');
 INSERT INTO `googlecloud_us-west3_ips` (`ip_address`, `ip_type`) VALUES ('35.220.31.0/24', 'IPv4');
 INSERT INTO `googlecloud_us-west3_ips` (`ip_address`, `ip_type`) VALUES ('35.242.31.0/24', 'IPv4');

@@ -29,6 +29,9 @@ ip_address,ip_type,service,region
 182.30.157.0/26,IPv4,AMAZON,us-gov-east-1
 182.30.85.0/26,IPv4,AMAZON,us-gov-east-1
 182.30.85.128/25,IPv4,AMAZON,us-gov-east-1
+18.253.167.0/25,IPv4,ROUTE53_HEALTHCHECKS,us-gov-east-1
+18.253.167.128/25,IPv4,ROUTE53_HEALTHCHECKS,us-gov-east-1
+18.253.168.0/25,IPv4,ROUTE53_HEALTHCHECKS,us-gov-east-1
 108.175.52.0/22,IPv4,S3,us-gov-east-1
 108.175.60.0/22,IPv4,S3,us-gov-east-1
 18.252.145.192/28,IPv4,S3,us-gov-east-1

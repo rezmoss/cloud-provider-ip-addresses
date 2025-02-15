@@ -306,6 +306,24 @@
     "region": "us-gov-west-1"
   },
   {
+    "ip_address": "160.1.55.0/25",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "us-gov-west-1"
+  },
+  {
+    "ip_address": "160.1.55.128/25",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "us-gov-west-1"
+  },
+  {
+    "ip_address": "160.1.56.0/25",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "us-gov-west-1"
+  },
+  {
     "ip_address": "108.175.56.0/22",
     "ip_type": "IPv4",
     "service": "S3",
