@@ -72,6 +72,12 @@
     "region": "ca-west-1"
   },
   {
+    "ip_address": "35.96.246.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ca-west-1"
+  },
+  {
     "ip_address": "35.96.32.0/20",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -247,6 +253,12 @@
   },
   {
     "ip_address": "56.112.0.0/16",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "ca-west-1"
+  },
+  {
+    "ip_address": "35.96.246.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "ca-west-1"
