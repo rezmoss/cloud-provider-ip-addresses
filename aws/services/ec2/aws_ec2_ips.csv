@@ -592,7 +592,7 @@ ip_address,ip_type,service,region
 15.145.0.0/23,IPv4,EC2,eu-central-1
 35.71.126.0/24,IPv4,EC2,ap-southeast-7
 35.96.8.0/24,IPv4,EC2,us-west-2
-35.96.246.0/24,IPv4,EC2,ca-west-1
+35.96.246.0/24,IPv4,EC2,us-east-2
 52.94.248.32/28,IPv4,EC2,ap-southeast-1
 54.220.0.0/16,IPv4,EC2,eu-west-1
 100.20.0.0/14,IPv4,EC2,us-west-2
@@ -816,6 +816,7 @@ ip_address,ip_type,service,region
 208.86.90.0/23,IPv4,EC2,eu-west-1
 15.181.248.0/24,IPv4,EC2,us-west-2
 18.34.252.0/22,IPv4,EC2,us-east-2
+35.96.247.0/24,IPv4,EC2,ca-central-1
 52.29.0.0/16,IPv4,EC2,eu-central-1
 13.52.0.0/16,IPv4,EC2,us-west-1
 18.180.0.0/15,IPv4,EC2,ap-northeast-1
