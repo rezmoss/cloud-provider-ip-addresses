@@ -66,6 +66,12 @@
     "region": "ap-east-2"
   },
   {
+    "ip_address": "35.71.127.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-east-2"
+  },
+  {
     "ip_address": "13.248.78.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -150,6 +156,12 @@
     "region": "ap-east-2"
   },
   {
+    "ip_address": "35.71.127.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "ap-east-2"
+  },
+  {
     "ip_address": "43.212.0.0/15",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -171,6 +183,12 @@
     "ip_address": "15.177.104.0/24",
     "ip_type": "IPv4",
     "service": "ROUTE53_HEALTHCHECKS_PUBLISHING",
+    "region": "ap-east-2"
+  },
+  {
+    "ip_address": "35.71.127.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
     "region": "ap-east-2"
   },
   {

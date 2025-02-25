@@ -10,6 +10,7 @@ ip_address,ip_type,service,region
 76.223.170.80/28,IPv4,AMAZON,ap-east-2
 15.190.112.0/20,IPv4,AMAZON,ap-east-2
 15.177.104.0/24,IPv4,AMAZON,ap-east-2
+35.71.127.0/24,IPv4,AMAZON,ap-east-2
 13.248.78.0/24,IPv4,AMAZON,ap-east-2
 104.255.59.217/32,IPv4,AMAZON,ap-east-2
 43.212.0.0/15,IPv4,AMAZON,ap-east-2
@@ -24,10 +25,12 @@ ip_address,ip_type,service,region
 16.12.78.0/23,IPv4,S3,ap-east-2
 3.5.196.0/22,IPv4,EC2,ap-east-2
 15.177.104.0/24,IPv4,EC2,ap-east-2
+35.71.127.0/24,IPv4,EC2,ap-east-2
 43.212.0.0/15,IPv4,EC2,ap-east-2
 23.254.0.0/21,IPv4,EC2,ap-east-2
 52.94.250.128/28,IPv4,EC2,ap-east-2
 15.177.104.0/24,IPv4,ROUTE53_HEALTHCHECKS_PUBLISHING,ap-east-2
+35.71.127.0/24,IPv4,DYNAMODB,ap-east-2
 13.248.78.0/24,IPv4,DYNAMODB,ap-east-2
 2406:da32:c800::/40,IPv6,AMAZON,ap-east-2
 2406:da61:c800::/40,IPv6,AMAZON,ap-east-2

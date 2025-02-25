@@ -60,6 +60,7 @@ ip_address,ip_type,service,region
 35.71.101.0/24,IPv4,DYNAMODB,eu-west-3
 35.71.102.0/24,IPv4,DYNAMODB,us-east-2
 52.94.4.0/24,IPv4,DYNAMODB,us-east-2
+35.71.127.0/24,IPv4,DYNAMODB,ap-east-2
 13.248.78.0/24,IPv4,DYNAMODB,ap-east-2
 35.71.103.0/24,IPv4,DYNAMODB,af-south-1
 52.94.30.0/24,IPv4,DYNAMODB,af-south-1

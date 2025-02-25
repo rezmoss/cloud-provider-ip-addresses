@@ -366,6 +366,12 @@
     "region": "us-east-2"
   },
   {
+    "ip_address": "35.71.127.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "ap-east-2"
+  },
+  {
     "ip_address": "13.248.78.0/24",
     "ip_type": "IPv4",
     "service": "DYNAMODB",

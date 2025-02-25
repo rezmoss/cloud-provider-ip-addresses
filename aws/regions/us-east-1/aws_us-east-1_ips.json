@@ -7602,6 +7602,12 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "2600:1ff9:8160::/46",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "2600:1f01:4850::/47",
     "ip_type": "IPv6",
     "service": "AMAZON",
