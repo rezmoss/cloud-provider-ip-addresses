@@ -111,6 +111,7 @@ ip_address,ip_type,service,region
 35.71.116.0/24,IPv4,DYNAMODB,us-gov-west-1
 2600:1ff6:2000::/40,IPv6,AMAZON,us-gov-west-1
 2600:1fff:2000::/40,IPv6,AMAZON,us-gov-west-1
+2600:1f30:2000::/40,IPv6,AMAZON,us-gov-west-1
 2600:1fa0:2000::/40,IPv6,AMAZON,us-gov-west-1
 2600:1f60:2000::/40,IPv6,AMAZON,us-gov-west-1
 2600:1ff7:2000::/40,IPv6,AMAZON,us-gov-west-1
@@ -121,6 +122,7 @@ ip_address,ip_type,service,region
 2600:1ff0:2000::/40,IPv6,AMAZON,us-gov-west-1
 2600:1f38:2000::/40,IPv6,AMAZON,us-gov-west-1
 2600:1f00:2000::/40,IPv6,AMAZON,us-gov-west-1
+2600:1fef:2000::/40,IPv6,AMAZON,us-gov-west-1
 2600:1f69:2000::/40,IPv6,AMAZON,us-gov-west-1
 2600:1ff8:2000::/40,IPv6,AMAZON,us-gov-west-1
 2600:1ff9:2000::/40,IPv6,AMAZON,us-gov-west-1
@@ -147,6 +149,7 @@ ip_address,ip_type,service,region
 2600:1f22:28::/48,IPv6,WORKSPACES_GATEWAYS,us-gov-west-1
 2600:1ff6:2000::/40,IPv6,EC2,us-gov-west-1
 2600:1fff:2000::/40,IPv6,EC2,us-gov-west-1
+2600:1f30:2000::/40,IPv6,EC2,us-gov-west-1
 2600:1f60:2000::/40,IPv6,EC2,us-gov-west-1
 2600:1ff7:2000::/40,IPv6,EC2,us-gov-west-1
 2600:1f36:2000::/40,IPv6,EC2,us-gov-west-1
@@ -154,6 +157,7 @@ ip_address,ip_type,service,region
 2600:1ff0:2000::/40,IPv6,EC2,us-gov-west-1
 2600:1f38:2000::/40,IPv6,EC2,us-gov-west-1
 2600:1f00:2000::/40,IPv6,EC2,us-gov-west-1
+2600:1fef:2000::/40,IPv6,EC2,us-gov-west-1
 2600:1f69:2000::/40,IPv6,EC2,us-gov-west-1
 2600:1ffb:2000::/40,IPv6,EC2,us-gov-west-1
 2620:108:d00f::/64,IPv6,EC2,us-gov-west-1
