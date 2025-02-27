@@ -52,6 +52,7 @@ ip_address,ip_type,service,region
 43.216.39.0/24,IPv4,API_GATEWAY,ap-southeast-5
 13.248.75.0/24,IPv4,DYNAMODB,ap-southeast-5
 35.71.124.0/24,IPv4,DYNAMODB,ap-southeast-5
+2406:daef:800::/40,IPv6,AMAZON,ap-southeast-5
 2406:dafc:800::/40,IPv6,AMAZON,ap-southeast-5
 2406:da61:800::/40,IPv6,AMAZON,ap-southeast-5
 2406:daf2:800::/40,IPv6,AMAZON,ap-southeast-5
@@ -67,6 +68,7 @@ ip_address,ip_type,service,region
 2406:da36:800::/40,IPv6,AMAZON,ap-southeast-5
 2406:da00:800::/40,IPv6,AMAZON,ap-southeast-5
 2406:daf6:800::/40,IPv6,AMAZON,ap-southeast-5
+2406:da30:800::/40,IPv6,AMAZON,ap-southeast-5
 2406:da10:8000::/36,IPv6,AMAZON,ap-southeast-5
 2406:da32:800::/40,IPv6,AMAZON,ap-southeast-5
 2406:da68:800::/40,IPv6,AMAZON,ap-southeast-5
@@ -79,6 +81,7 @@ ip_address,ip_type,service,region
 2406:da60:800::/40,IPv6,S3,ap-southeast-5
 2406:daa0:800::/40,IPv6,S3,ap-southeast-5
 2406:da68:800::/40,IPv6,S3,ap-southeast-5
+2406:daef:800::/40,IPv6,EC2,ap-southeast-5
 2406:da61:800::/40,IPv6,EC2,ap-southeast-5
 2406:daf2:800::/40,IPv6,EC2,ap-southeast-5
 2406:da38:800::/40,IPv6,EC2,ap-southeast-5
@@ -89,6 +92,7 @@ ip_address,ip_type,service,region
 2406:da36:800::/40,IPv6,EC2,ap-southeast-5
 2406:da00:800::/40,IPv6,EC2,ap-southeast-5
 2406:daf6:800::/40,IPv6,EC2,ap-southeast-5
+2406:da30:800::/40,IPv6,EC2,ap-southeast-5
 2406:da10:8000::/36,IPv6,EC2,ap-southeast-5
 2406:da32:800::/40,IPv6,EC2,ap-southeast-5
 2406:da68:800::/40,IPv6,EC2,ap-southeast-5

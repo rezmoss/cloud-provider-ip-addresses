@@ -216,6 +216,12 @@
     "region": "ap-east-2"
   },
   {
+    "ip_address": "2406:da30:c800::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-east-2"
+  },
+  {
     "ip_address": "2406:da60:c800::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -379,6 +385,12 @@
   },
   {
     "ip_address": "2406:da1c:8000::/36",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-east-2"
+  },
+  {
+    "ip_address": "2406:da30:c800::/40",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "ap-east-2"

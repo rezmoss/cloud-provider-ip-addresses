@@ -111,6 +111,7 @@ ip_address,ip_type,service,region
 13.245.166.132/30,IPv4,AMAZON_APPFLOW,af-south-1
 35.71.103.0/24,IPv4,DYNAMODB,af-south-1
 52.94.30.0/24,IPv4,DYNAMODB,af-south-1
+2406:daef:1000::/40,IPv6,AMAZON,af-south-1
 2406:da61:1000::/40,IPv6,AMAZON,af-south-1
 2406:dafe:1000::/40,IPv6,AMAZON,af-south-1
 2406:da38:1000::/40,IPv6,AMAZON,af-south-1
@@ -128,6 +129,7 @@ ip_address,ip_type,service,region
 2406:da00:1000::/40,IPv6,AMAZON,af-south-1
 2406:da21::/36,IPv6,AMAZON,af-south-1
 2406:da32:1000::/40,IPv6,AMAZON,af-south-1
+2406:da30:1000::/40,IPv6,AMAZON,af-south-1
 2406:da69:1000::/40,IPv6,AMAZON,af-south-1
 2406:da70:1000::/40,IPv6,AMAZON,af-south-1
 2406:daf2:1000::/40,IPv6,AMAZON,af-south-1
@@ -147,6 +149,7 @@ ip_address,ip_type,service,region
 2406:da68:1000::/40,IPv6,S3,af-south-1
 2406:da32:1000::/40,IPv6,WORKSPACES_GATEWAYS,af-south-1
 2406:da21:c::/48,IPv6,WORKSPACES_GATEWAYS,af-south-1
+2406:daef:1000::/40,IPv6,EC2,af-south-1
 2406:da61:1000::/40,IPv6,EC2,af-south-1
 2406:da38:1000::/40,IPv6,EC2,af-south-1
 2406:da60:1000::/40,IPv6,EC2,af-south-1
@@ -160,6 +163,7 @@ ip_address,ip_type,service,region
 2406:da00:1000::/40,IPv6,EC2,af-south-1
 2406:da21::/36,IPv6,EC2,af-south-1
 2406:da32:1000::/40,IPv6,EC2,af-south-1
+2406:da30:1000::/40,IPv6,EC2,af-south-1
 2406:da69:1000::/40,IPv6,EC2,af-south-1
 2406:da70:1000::/40,IPv6,EC2,af-south-1
 2406:daf2:1000::/40,IPv6,EC2,af-south-1
