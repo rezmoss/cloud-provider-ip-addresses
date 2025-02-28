@@ -7,6 +7,7 @@ CREATE TABLE IF NOT EXISTS `aws_amazon_connect_ips` (
 );
 
 INSERT INTO `aws_amazon_connect_ips` (`ip_address`, `ip_type`) VALUES ('15.193.3.0/24', 'IPv4');
+INSERT INTO `aws_amazon_connect_ips` (`ip_address`, `ip_type`) VALUES ('15.193.11.0/24', 'IPv4');
 INSERT INTO `aws_amazon_connect_ips` (`ip_address`, `ip_type`) VALUES ('15.193.2.0/24', 'IPv4');
 INSERT INTO `aws_amazon_connect_ips` (`ip_address`, `ip_type`) VALUES ('15.193.7.0/24', 'IPv4');
 INSERT INTO `aws_amazon_connect_ips` (`ip_address`, `ip_type`) VALUES ('15.193.5.0/24', 'IPv4');

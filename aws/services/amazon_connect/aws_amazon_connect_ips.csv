@@ -1,5 +1,6 @@
 ip_address,ip_type,service,region
 15.193.3.0/24,IPv4,AMAZON_CONNECT,ap-southeast-2
+15.193.11.0/24,IPv4,AMAZON_CONNECT,ap-northeast-3
 15.193.2.0/24,IPv4,AMAZON_CONNECT,ap-southeast-1
 15.193.7.0/24,IPv4,AMAZON_CONNECT,us-west-2
 15.193.5.0/24,IPv4,AMAZON_CONNECT,eu-west-2

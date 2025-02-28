@@ -12,6 +12,12 @@
     "region": "ap-northeast-3"
   },
   {
+    "ip_address": "15.193.11.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-northeast-3"
+  },
+  {
     "ip_address": "13.208.0.0/16",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -468,6 +474,12 @@
     "region": "ap-northeast-3"
   },
   {
+    "ip_address": "15.193.11.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "ap-northeast-3"
+  },
+  {
     "ip_address": "13.208.0.0/16",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -585,6 +597,12 @@
     "ip_address": "99.83.100.0/24",
     "ip_type": "IPv4",
     "service": "GLOBALACCELERATOR",
+    "region": "ap-northeast-3"
+  },
+  {
+    "ip_address": "15.193.11.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON_CONNECT",
     "region": "ap-northeast-3"
   },
   {
