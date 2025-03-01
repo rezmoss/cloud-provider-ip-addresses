@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "15.103.0.0/16",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "af-south-1"
+  },
+  {
     "ip_address": "99.78.152.0/22",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -387,6 +393,12 @@
     "ip_address": "13.246.120.0/22",
     "ip_type": "IPv4",
     "service": "WORKSPACES_GATEWAYS",
+    "region": "af-south-1"
+  },
+  {
+    "ip_address": "15.103.0.0/16",
+    "ip_type": "IPv4",
+    "service": "EC2",
     "region": "af-south-1"
   },
   {
