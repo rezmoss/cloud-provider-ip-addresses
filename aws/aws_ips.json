@@ -55152,6 +55152,12 @@
     "region": "eu-west-3"
   },
   {
+    "ip_address": "2400:6500:0:3::/64",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-east-1"
+  },
+  {
     "ip_address": "2400:6500:0:7d00::/56",
     "ip_type": "IPv6",
     "service": "AMAZON",

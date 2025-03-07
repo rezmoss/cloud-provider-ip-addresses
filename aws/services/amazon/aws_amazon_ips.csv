@@ -5611,6 +5611,7 @@ ip_address,ip_type,service,region
 2a05:d031:2000::/40,IPv6,AMAZON,eu-west-3
 2a05:d06f:2000::/40,IPv6,AMAZON,eu-west-3
 2a05:d07c:2000::/40,IPv6,AMAZON,eu-west-3
+2400:6500:0:3::/64,IPv6,AMAZON,ap-east-1
 2400:6500:0:7d00::/56,IPv6,AMAZON,ap-southeast-7
 2406:daf9:e000::/40,IPv6,AMAZON,ap-east-1
 2600:1f60:e000::/40,IPv6,AMAZON,sa-east-1
