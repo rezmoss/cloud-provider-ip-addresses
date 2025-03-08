@@ -1286,7 +1286,6 @@ INSERT INTO `aws_amazon_ips` (`ip_address`, `ip_type`) VALUES ('18.144.0.0/15', 
 INSERT INTO `aws_amazon_ips` (`ip_address`, `ip_type`) VALUES ('18.238.0.0/15', 'IPv4');
 INSERT INTO `aws_amazon_ips` (`ip_address`, `ip_type`) VALUES ('18.244.0.0/15', 'IPv4');
 INSERT INTO `aws_amazon_ips` (`ip_address`, `ip_type`) VALUES ('35.96.96.0/20', 'IPv4');
-INSERT INTO `aws_amazon_ips` (`ip_address`, `ip_type`) VALUES ('51.0.30.0/24', 'IPv4');
 INSERT INTO `aws_amazon_ips` (`ip_address`, `ip_type`) VALUES ('52.90.0.0/15', 'IPv4');
 INSERT INTO `aws_amazon_ips` (`ip_address`, `ip_type`) VALUES ('52.93.84.165/32', 'IPv4');
 INSERT INTO `aws_amazon_ips` (`ip_address`, `ip_type`) VALUES ('52.93.91.114/32', 'IPv4');

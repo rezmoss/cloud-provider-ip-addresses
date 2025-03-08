@@ -7680,12 +7680,6 @@
     "region": "eu-central-1"
   },
   {
-    "ip_address": "51.0.30.0/24",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "eusc-de-east-1"
-  },
-  {
     "ip_address": "52.90.0.0/15",
     "ip_type": "IPv4",
     "service": "AMAZON",
