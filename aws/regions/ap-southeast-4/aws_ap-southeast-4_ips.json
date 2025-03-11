@@ -96,6 +96,12 @@
     "region": "ap-southeast-4"
   },
   {
+    "ip_address": "16.140.0.0/16",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-southeast-4"
+  },
+  {
     "ip_address": "56.98.0.0/16",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -157,6 +163,12 @@
   },
   {
     "ip_address": "16.50.0.0/15",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-southeast-4"
+  },
+  {
+    "ip_address": "16.141.0.0/16",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "ap-southeast-4"

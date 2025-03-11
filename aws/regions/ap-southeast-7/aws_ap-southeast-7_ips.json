@@ -90,6 +90,12 @@
     "region": "ap-southeast-7"
   },
   {
+    "ip_address": "89.48.0.0/13",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-southeast-7"
+  },
+  {
     "ip_address": "52.94.250.112/28",
     "ip_type": "IPv4",
     "service": "AMAZON",

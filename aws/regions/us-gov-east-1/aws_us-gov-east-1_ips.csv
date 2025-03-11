@@ -7,10 +7,12 @@ ip_address,ip_type,service,region
 108.175.60.0/22,IPv4,AMAZON,us-gov-east-1
 16.65.0.0/16,IPv4,AMAZON,us-gov-east-1
 52.94.22.0/24,IPv4,AMAZON,us-gov-east-1
+16.153.0.0/16,IPv4,AMAZON,us-gov-east-1
 18.252.0.0/16,IPv4,AMAZON,us-gov-east-1
 99.151.96.0/21,IPv4,AMAZON,us-gov-east-1
 182.29.0.0/16,IPv4,AMAZON,us-gov-east-1
 182.28.0.0/16,IPv4,AMAZON,us-gov-east-1
+16.152.0.0/16,IPv4,AMAZON,us-gov-east-1
 16.64.0.0/17,IPv4,AMAZON,us-gov-east-1
 18.253.0.0/16,IPv4,AMAZON,us-gov-east-1
 52.94.249.112/28,IPv4,AMAZON,us-gov-east-1

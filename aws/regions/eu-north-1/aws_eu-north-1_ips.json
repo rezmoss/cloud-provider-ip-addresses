@@ -48,6 +48,12 @@
     "region": "eu-north-1"
   },
   {
+    "ip_address": "16.193.0.0/16",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-north-1"
+  },
+  {
     "ip_address": "16.12.10.0/23",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -55,6 +61,12 @@
   },
   {
     "ip_address": "51.20.0.0/16",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-north-1"
+  },
+  {
+    "ip_address": "16.195.0.0/16",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "eu-north-1"
@@ -120,6 +132,12 @@
     "region": "eu-north-1"
   },
   {
+    "ip_address": "16.196.0.0/16",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-north-1"
+  },
+  {
     "ip_address": "51.21.0.0/16",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -169,6 +187,12 @@
   },
   {
     "ip_address": "13.53.0.0/16",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-north-1"
+  },
+  {
+    "ip_address": "16.192.0.0/16",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "eu-north-1"
@@ -246,6 +270,12 @@
     "region": "eu-north-1"
   },
   {
+    "ip_address": "16.198.0.0/16",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-north-1"
+  },
+  {
     "ip_address": "3.5.216.0/22",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -265,6 +295,12 @@
   },
   {
     "ip_address": "16.12.9.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-north-1"
+  },
+  {
+    "ip_address": "16.197.0.0/16",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "eu-north-1"
@@ -378,6 +414,12 @@
     "region": "eu-north-1"
   },
   {
+    "ip_address": "16.199.0.0/16",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-north-1"
+  },
+  {
     "ip_address": "15.230.68.128/26",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -433,6 +475,12 @@
   },
   {
     "ip_address": "52.93.127.152/32",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-north-1"
+  },
+  {
+    "ip_address": "16.194.0.0/16",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "eu-north-1"

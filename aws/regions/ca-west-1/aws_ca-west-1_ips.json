@@ -78,6 +78,12 @@
     "region": "ca-west-1"
   },
   {
+    "ip_address": "16.175.0.0/16",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ca-west-1"
+  },
+  {
     "ip_address": "15.248.64.0/21",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -133,6 +139,12 @@
   },
   {
     "ip_address": "99.151.168.0/21",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ca-west-1"
+  },
+  {
+    "ip_address": "16.174.0.0/16",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "ca-west-1"

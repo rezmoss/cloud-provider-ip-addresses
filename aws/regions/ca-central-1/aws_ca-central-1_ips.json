@@ -6,6 +6,12 @@
     "region": "ca-central-1"
   },
   {
+    "ip_address": "16.49.0.0/16",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ca-central-1"
+  },
+  {
     "ip_address": "52.144.199.128/26",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -301,6 +307,12 @@
   },
   {
     "ip_address": "3.98.0.0/15",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ca-central-1"
+  },
+  {
+    "ip_address": "16.48.0.0/16",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "ca-central-1"

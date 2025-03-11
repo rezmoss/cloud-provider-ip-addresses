@@ -90,6 +90,12 @@
     "region": "us-west-2"
   },
   {
+    "ip_address": "16.150.0.0/16",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-west-2"
+  },
+  {
     "ip_address": "15.221.7.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -240,6 +246,12 @@
     "region": "us-west-2"
   },
   {
+    "ip_address": "16.146.0.0/16",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-west-2"
+  },
+  {
     "ip_address": "150.222.176.0/22",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -360,6 +372,12 @@
     "region": "us-west-2"
   },
   {
+    "ip_address": "16.148.0.0/16",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-west-2"
+  },
+  {
     "ip_address": "35.80.0.0/12",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -451,6 +469,12 @@
   },
   {
     "ip_address": "54.244.0.0/16",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "16.151.0.0/16",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "us-west-2"
@@ -756,6 +780,12 @@
     "region": "us-west-2"
   },
   {
+    "ip_address": "16.149.0.0/16",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-west-2"
+  },
+  {
     "ip_address": "52.95.40.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -817,6 +847,12 @@
   },
   {
     "ip_address": "15.181.16.0/20",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "16.144.0.0/16",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "us-west-2"
@@ -1026,6 +1062,12 @@
     "region": "us-west-2"
   },
   {
+    "ip_address": "16.145.0.0/16",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-west-2"
+  },
+  {
     "ip_address": "35.96.15.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -1063,6 +1105,12 @@
   },
   {
     "ip_address": "54.184.0.0/13",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "16.147.0.0/16",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "us-west-2"

@@ -30,7 +30,19 @@
     "region": "eu-south-2"
   },
   {
+    "ip_address": "15.216.0.0/16",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-south-2"
+  },
+  {
     "ip_address": "35.71.120.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-south-2"
+  },
+  {
+    "ip_address": "15.217.0.0/16",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "eu-south-2"

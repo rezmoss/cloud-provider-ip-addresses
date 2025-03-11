@@ -846,6 +846,12 @@
     "region": "eu-central-1"
   },
   {
+    "ip_address": "99.200.0.0/13",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-central-1"
+  },
+  {
     "ip_address": "99.77.158.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
