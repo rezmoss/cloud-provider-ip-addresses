@@ -54,6 +54,12 @@
     "region": "mx-central-1"
   },
   {
+    "ip_address": "18.97.96.0/20",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "mx-central-1"
+  },
+  {
     "ip_address": "16.12.71.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -223,6 +229,12 @@
   },
   {
     "ip_address": "15.177.102.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "mx-central-1"
+  },
+  {
+    "ip_address": "18.97.96.0/20",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "mx-central-1"

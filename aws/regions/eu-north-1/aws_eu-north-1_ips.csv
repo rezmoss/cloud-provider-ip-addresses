@@ -108,6 +108,7 @@ ip_address,ip_type,service,region
 99.77.137.0/24,IPv4,EC2,eu-north-1
 52.95.227.0/24,IPv4,EC2,eu-north-1
 13.50.0.0/16,IPv4,EC2,eu-north-1
+13.62.0.0/15,IPv4,EC2,eu-north-1
 51.21.0.0/16,IPv4,EC2,eu-north-1
 35.71.98.0/24,IPv4,EC2,eu-north-1
 16.168.0.0/15,IPv4,EC2,eu-north-1

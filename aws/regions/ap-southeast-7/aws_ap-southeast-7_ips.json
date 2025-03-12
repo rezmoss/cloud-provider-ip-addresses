@@ -36,6 +36,12 @@
     "region": "ap-southeast-7"
   },
   {
+    "ip_address": "18.97.80.0/20",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-southeast-7"
+  },
+  {
     "ip_address": "150.222.53.96/27",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -223,6 +229,12 @@
   },
   {
     "ip_address": "43.210.0.0/15",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "ap-southeast-7"
+  },
+  {
+    "ip_address": "18.97.80.0/20",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "ap-southeast-7"
