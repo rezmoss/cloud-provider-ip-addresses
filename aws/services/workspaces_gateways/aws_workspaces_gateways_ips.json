@@ -492,6 +492,12 @@
     "region": "eu-west-2"
   },
   {
+    "ip_address": "2404:c2c0:c400::/40",
+    "ip_type": "IPv6",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "cn-northwest-1"
+  },
+  {
     "ip_address": "2600:1f25:14::/48",
     "ip_type": "IPv6",
     "service": "WORKSPACES_GATEWAYS",

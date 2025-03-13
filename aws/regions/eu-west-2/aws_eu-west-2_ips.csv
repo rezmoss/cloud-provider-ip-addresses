@@ -367,6 +367,7 @@ ip_address,ip_type,service,region
 2a05:d07f:c000::/40,IPv6,AMAZON,eu-west-2
 2a05:d050:c000::/40,IPv6,AMAZON,eu-west-2
 2a05:d040:c000::/40,IPv6,AMAZON,eu-west-2
+2a01:578:0:12::/64,IPv6,AMAZON,eu-west-2
 2a05:d035:c000::/40,IPv6,AMAZON,eu-west-2
 2a05:d000:c000::/40,IPv6,AMAZON,eu-west-2
 2a05:d036:c000::/40,IPv6,AMAZON,eu-west-2

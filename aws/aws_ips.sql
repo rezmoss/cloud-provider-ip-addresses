@@ -4896,6 +4896,7 @@ INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('100.28.206.0/24', 'IPv4
 INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('100.28.208.0/23', 'IPv4');
 INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('13.217.78.0/23', 'IPv4');
 INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('13.217.8.0/23', 'IPv4');
+INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('13.217.80.0/24', 'IPv4');
 INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('3.227.250.128/25', 'IPv4');
 INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('3.234.248.192/26', 'IPv4');
 INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('3.235.202.128/26', 'IPv4');
@@ -9691,6 +9692,7 @@ INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('2600:1ffc:a400::/40', '
 INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f0:300:100::/56', 'IPv6');
 INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('2001:3fc7:f800::/40', 'IPv6');
 INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('2406:da69:2800::/40', 'IPv6');
+INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('2a01:578:0:12::/64', 'IPv6');
 INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d040:b000::/40', 'IPv6');
 INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('2406:da68:8000::/40', 'IPv6');
 INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('2406:daef:8000::/40', 'IPv6');
@@ -10700,6 +10702,7 @@ INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('2406:da32:1000::/40', '
 INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f32:2000::/40', 'IPv6');
 INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f32:1000::/40', 'IPv6');
 INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d032:c000::/40', 'IPv6');
+INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('2404:c2c0:c400::/40', 'IPv6');
 INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f25:14::/48', 'IPv6');
 INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f22:28::/48', 'IPv6');
 INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('2406:da21:c::/48', 'IPv6');

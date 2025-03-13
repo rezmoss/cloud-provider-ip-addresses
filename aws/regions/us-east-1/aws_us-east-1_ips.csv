@@ -659,6 +659,7 @@ ip_address,ip_type,service,region
 100.28.208.0/23,IPv4,AMAZON,us-east-1
 13.217.78.0/23,IPv4,AMAZON,us-east-1
 13.217.8.0/23,IPv4,AMAZON,us-east-1
+13.217.80.0/24,IPv4,AMAZON,us-east-1
 3.227.250.128/25,IPv4,AMAZON,us-east-1
 3.234.248.192/26,IPv4,AMAZON,us-east-1
 3.235.202.128/26,IPv4,AMAZON,us-east-1

@@ -942,6 +942,12 @@
     "region": "cn-northwest-1"
   },
   {
+    "ip_address": "2404:c2c0:c400::/40",
+    "ip_type": "IPv6",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "cn-northwest-1"
+  },
+  {
     "ip_address": "240f:80ff:4000::/40",
     "ip_type": "IPv6",
     "service": "EC2",

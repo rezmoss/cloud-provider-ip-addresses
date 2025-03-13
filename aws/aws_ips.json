@@ -29340,6 +29340,12 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "13.217.80.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "3.227.250.128/25",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -58110,6 +58116,12 @@
     "region": "ap-southeast-6"
   },
   {
+    "ip_address": "2a01:578:0:12::/64",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eu-west-2"
+  },
+  {
     "ip_address": "2a05:d040:b000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -64162,6 +64174,12 @@
     "ip_type": "IPv6",
     "service": "WORKSPACES_GATEWAYS",
     "region": "eu-west-2"
+  },
+  {
+    "ip_address": "2404:c2c0:c400::/40",
+    "ip_type": "IPv6",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "cn-northwest-1"
   },
   {
     "ip_address": "2600:1f25:14::/48",

@@ -156,6 +156,7 @@ ip_address,ip_type,service,region
 2404:c2c0:2800::/40,IPv6,S3,cn-northwest-1
 2404:c2c0:2c00::/40,IPv6,S3,cn-northwest-1
 2404:c2c0:2400::/40,IPv6,S3,cn-northwest-1
+2404:c2c0:c400::/40,IPv6,WORKSPACES_GATEWAYS,cn-northwest-1
 240f:80ff:4000::/40,IPv6,EC2,cn-northwest-1
 2404:c2c0::/40,IPv6,EC2,cn-northwest-1
 2404:c2c0:2300::/40,IPv6,EC2,cn-northwest-1

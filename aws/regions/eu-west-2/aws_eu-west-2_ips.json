@@ -2208,6 +2208,12 @@
     "region": "eu-west-2"
   },
   {
+    "ip_address": "2a01:578:0:12::/64",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eu-west-2"
+  },
+  {
     "ip_address": "2a05:d035:c000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
