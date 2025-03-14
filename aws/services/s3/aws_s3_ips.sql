@@ -153,6 +153,7 @@ INSERT INTO `aws_s3_ips` (`ip_address`, `ip_type`) VALUES ('52.219.202.0/23', 'I
 INSERT INTO `aws_s3_ips` (`ip_address`, `ip_type`) VALUES ('3.5.146.0/23', 'IPv4');
 INSERT INTO `aws_s3_ips` (`ip_address`, `ip_type`) VALUES ('3.5.172.0/22', 'IPv4');
 INSERT INTO `aws_s3_ips` (`ip_address`, `ip_type`) VALUES ('52.95.180.0/24', 'IPv4');
+INSERT INTO `aws_s3_ips` (`ip_address`, `ip_type`) VALUES ('16.12.86.0/24', 'IPv4');
 INSERT INTO `aws_s3_ips` (`ip_address`, `ip_type`) VALUES ('18.34.252.0/22', 'IPv4');
 INSERT INTO `aws_s3_ips` (`ip_address`, `ip_type`) VALUES ('52.95.144.0/24', 'IPv4');
 INSERT INTO `aws_s3_ips` (`ip_address`, `ip_type`) VALUES ('16.12.9.0/24', 'IPv4');
@@ -195,6 +196,7 @@ INSERT INTO `aws_s3_ips` (`ip_address`, `ip_type`) VALUES ('52.95.146.0/23', 'IP
 INSERT INTO `aws_s3_ips` (`ip_address`, `ip_type`) VALUES ('52.219.184.0/21', 'IPv4');
 INSERT INTO `aws_s3_ips` (`ip_address`, `ip_type`) VALUES ('52.218.128.0/17', 'IPv4');
 INSERT INTO `aws_s3_ips` (`ip_address`, `ip_type`) VALUES ('16.12.60.0/22', 'IPv4');
+INSERT INTO `aws_s3_ips` (`ip_address`, `ip_type`) VALUES ('16.12.84.0/23', 'IPv4');
 INSERT INTO `aws_s3_ips` (`ip_address`, `ip_type`) VALUES ('52.219.224.0/22', 'IPv4');
 INSERT INTO `aws_s3_ips` (`ip_address`, `ip_type`) VALUES ('3.5.244.0/22', 'IPv4');
 INSERT INTO `aws_s3_ips` (`ip_address`, `ip_type`) VALUES ('16.12.18.0/23', 'IPv4');
@@ -208,6 +210,7 @@ INSERT INTO `aws_s3_ips` (`ip_address`, `ip_type`) VALUES ('52.219.132.0/22', 'I
 INSERT INTO `aws_s3_ips` (`ip_address`, `ip_type`) VALUES ('16.12.56.0/23', 'IPv4');
 INSERT INTO `aws_s3_ips` (`ip_address`, `ip_type`) VALUES ('52.219.80.0/20', 'IPv4');
 INSERT INTO `aws_s3_ips` (`ip_address`, `ip_type`) VALUES ('52.219.112.0/21', 'IPv4');
+INSERT INTO `aws_s3_ips` (`ip_address`, `ip_type`) VALUES ('16.15.16.0/22', 'IPv4');
 INSERT INTO `aws_s3_ips` (`ip_address`, `ip_type`) VALUES ('52.219.144.0/22', 'IPv4');
 INSERT INTO `aws_s3_ips` (`ip_address`, `ip_type`) VALUES ('52.95.170.0/23', 'IPv4');
 INSERT INTO `aws_s3_ips` (`ip_address`, `ip_type`) VALUES ('52.219.228.0/22', 'IPv4');

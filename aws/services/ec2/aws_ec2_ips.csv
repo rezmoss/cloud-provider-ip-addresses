@@ -1106,6 +1106,7 @@ ip_address,ip_type,service,region
 96.0.160.0/20,IPv4,EC2,us-west-2
 173.83.218.0/24,IPv4,EC2,ap-northeast-3
 15.220.234.0/23,IPv4,EC2,us-east-1
+16.15.16.0/22,IPv4,EC2,me-west-1
 18.176.0.0/15,IPv4,EC2,ap-northeast-1
 64.252.86.0/24,IPv4,EC2,eu-central-1
 99.151.186.0/23,IPv4,EC2,us-west-2

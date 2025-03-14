@@ -10,5 +10,47 @@
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "me-west-1"
+  },
+  {
+    "ip_address": "16.12.86.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "me-west-1"
+  },
+  {
+    "ip_address": "16.12.84.0/23",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "me-west-1"
+  },
+  {
+    "ip_address": "16.15.16.0/22",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "me-west-1"
+  },
+  {
+    "ip_address": "16.12.86.0/24",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "me-west-1"
+  },
+  {
+    "ip_address": "16.12.84.0/23",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "me-west-1"
+  },
+  {
+    "ip_address": "16.15.16.0/22",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "me-west-1"
+  },
+  {
+    "ip_address": "16.15.16.0/22",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "me-west-1"
   }
 ]

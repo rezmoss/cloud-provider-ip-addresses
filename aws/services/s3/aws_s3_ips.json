@@ -882,6 +882,12 @@
     "region": "af-south-1"
   },
   {
+    "ip_address": "16.12.86.0/24",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "me-west-1"
+  },
+  {
     "ip_address": "18.34.252.0/22",
     "ip_type": "IPv4",
     "service": "S3",
@@ -1134,6 +1140,12 @@
     "region": "us-east-2"
   },
   {
+    "ip_address": "16.12.84.0/23",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "me-west-1"
+  },
+  {
     "ip_address": "52.219.224.0/22",
     "ip_type": "IPv4",
     "service": "S3",
@@ -1210,6 +1222,12 @@
     "ip_type": "IPv4",
     "service": "S3",
     "region": "us-west-1"
+  },
+  {
+    "ip_address": "16.15.16.0/22",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "me-west-1"
   },
   {
     "ip_address": "52.219.144.0/22",
