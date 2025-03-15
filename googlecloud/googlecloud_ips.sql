@@ -413,6 +413,7 @@ INSERT INTO `googlecloud_ips` (`ip_address`, `ip_type`) VALUES ('34.163.0.0/16',
 INSERT INTO `googlecloud_ips` (`ip_address`, `ip_type`) VALUES ('2600:1901:8120::/44', 'IPv6');
 INSERT INTO `googlecloud_ips` (`ip_address`, `ip_type`) VALUES ('34.8.0.0/16', 'IPv4');
 INSERT INTO `googlecloud_ips` (`ip_address`, `ip_type`) VALUES ('34.13.72.0/21', 'IPv4');
+INSERT INTO `googlecloud_ips` (`ip_address`, `ip_type`) VALUES ('34.13.112.0/20', 'IPv4');
 INSERT INTO `googlecloud_ips` (`ip_address`, `ip_type`) VALUES ('34.36.0.0/16', 'IPv4');
 INSERT INTO `googlecloud_ips` (`ip_address`, `ip_type`) VALUES ('34.49.0.0/16', 'IPv4');
 INSERT INTO `googlecloud_ips` (`ip_address`, `ip_type`) VALUES ('34.54.0.0/16', 'IPv4');

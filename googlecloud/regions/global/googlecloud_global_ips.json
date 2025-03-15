@@ -12,6 +12,12 @@
     "region": "global"
   },
   {
+    "ip_address": "34.13.112.0/20",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "global"
+  },
+  {
     "ip_address": "34.36.0.0/16",
     "ip_type": "IPv4",
     "service": "Google Cloud",
