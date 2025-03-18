@@ -2538,6 +2538,12 @@
     "region": "eu-central-1"
   },
   {
+    "ip_address": "16.56.64.0/18",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "51.21.0.0/16",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -5674,12 +5680,6 @@
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "ca-central-1"
-  },
-  {
-    "ip_address": "24.110.9.0/24",
-    "ip_type": "IPv4",
-    "service": "EC2",
-    "region": "me-central-1"
   },
   {
     "ip_address": "35.96.244.0/24",

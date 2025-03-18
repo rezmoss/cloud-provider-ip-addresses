@@ -144,6 +144,12 @@
     "region": "ap-east-1"
   },
   {
+    "ip_address": "159.248.133.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-east-1"
+  },
+  {
     "ip_address": "16.12.8.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -483,6 +489,12 @@
     "ip_address": "18.166.0.0/15",
     "ip_type": "IPv4",
     "service": "EC2",
+    "region": "ap-east-1"
+  },
+  {
+    "ip_address": "159.248.133.0/24",
+    "ip_type": "IPv4",
+    "service": "GLOBALACCELERATOR",
     "region": "ap-east-1"
   },
   {
