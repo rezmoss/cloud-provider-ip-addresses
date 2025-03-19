@@ -9438,6 +9438,12 @@
     "region": "ap-southeast-1"
   },
   {
+    "ip_address": "2600:1f22:c000::/36",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "2600:f0f0:10::/48",
     "ip_type": "IPv6",
     "service": "EC2",
@@ -12412,6 +12418,12 @@
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "ap-northeast-2"
+  },
+  {
+    "ip_address": "2600:1f12:c000::/36",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-east-1"
   },
   {
     "ip_address": "2600:1f14:4000::/36",
