@@ -3336,12 +3336,6 @@
     "region": "us-east-1"
   },
   {
-    "ip_address": "71.141.8.0/21",
-    "ip_type": "IPv4",
-    "service": "EC2",
-    "region": "ap-south-1"
-  },
-  {
     "ip_address": "155.146.208.0/20",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -7891,6 +7885,12 @@
   },
   {
     "ip_address": "35.96.0.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "35.96.249.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "us-west-2"
