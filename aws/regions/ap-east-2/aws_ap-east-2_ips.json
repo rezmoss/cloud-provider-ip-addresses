@@ -132,6 +132,24 @@
     "region": "ap-east-2"
   },
   {
+    "ip_address": "43.212.66.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-east-2"
+  },
+  {
+    "ip_address": "43.212.68.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-east-2"
+  },
+  {
+    "ip_address": "43.212.70.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-east-2"
+  },
+  {
     "ip_address": "16.12.80.0/24",
     "ip_type": "IPv4",
     "service": "S3",
