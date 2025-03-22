@@ -140,6 +140,7 @@ INSERT INTO `aws_cloudfront_ips` (`ip_address`, `ip_type`) VALUES ('35.158.136.0
 INSERT INTO `aws_cloudfront_ips` (`ip_address`, `ip_type`) VALUES ('52.57.254.0/24', 'IPv4');
 INSERT INTO `aws_cloudfront_ips` (`ip_address`, `ip_type`) VALUES ('18.200.212.0/23', 'IPv4');
 INSERT INTO `aws_cloudfront_ips` (`ip_address`, `ip_type`) VALUES ('52.212.248.0/26', 'IPv4');
+INSERT INTO `aws_cloudfront_ips` (`ip_address`, `ip_type`) VALUES ('13.134.24.0/23', 'IPv4');
 INSERT INTO `aws_cloudfront_ips` (`ip_address`, `ip_type`) VALUES ('18.175.65.0/24', 'IPv4');
 INSERT INTO `aws_cloudfront_ips` (`ip_address`, `ip_type`) VALUES ('18.175.66.0/24', 'IPv4');
 INSERT INTO `aws_cloudfront_ips` (`ip_address`, `ip_type`) VALUES ('18.175.67.0/24', 'IPv4');
@@ -156,6 +157,8 @@ INSERT INTO `aws_cloudfront_ips` (`ip_address`, `ip_type`) VALUES ('18.229.220.1
 INSERT INTO `aws_cloudfront_ips` (`ip_address`, `ip_type`) VALUES ('18.230.229.0/24', 'IPv4');
 INSERT INTO `aws_cloudfront_ips` (`ip_address`, `ip_type`) VALUES ('18.230.230.0/25', 'IPv4');
 INSERT INTO `aws_cloudfront_ips` (`ip_address`, `ip_type`) VALUES ('54.233.255.128/26', 'IPv4');
+INSERT INTO `aws_cloudfront_ips` (`ip_address`, `ip_type`) VALUES ('56.125.46.0/24', 'IPv4');
+INSERT INTO `aws_cloudfront_ips` (`ip_address`, `ip_type`) VALUES ('56.125.47.0/32', 'IPv4');
 INSERT INTO `aws_cloudfront_ips` (`ip_address`, `ip_type`) VALUES ('3.231.2.0/25', 'IPv4');
 INSERT INTO `aws_cloudfront_ips` (`ip_address`, `ip_type`) VALUES ('3.234.232.224/27', 'IPv4');
 INSERT INTO `aws_cloudfront_ips` (`ip_address`, `ip_type`) VALUES ('3.236.169.192/26', 'IPv4');

@@ -294,6 +294,12 @@
     "region": "eu-west-1"
   },
   {
+    "ip_address": "31.220.235.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-south-1"
+  },
+  {
     "ip_address": "52.93.84.195/32",
     "ip_type": "IPv4",
     "service": "AMAZON",

@@ -8,6 +8,7 @@ CREATE TABLE IF NOT EXISTS `aws_ap-south-1_ips` (
 
 INSERT INTO `aws_ap-south-1_ips` (`ip_address`, `ip_type`) VALUES ('3.108.0.0/14', 'IPv4');
 INSERT INTO `aws_ap-south-1_ips` (`ip_address`, `ip_type`) VALUES ('13.248.117.0/24', 'IPv4');
+INSERT INTO `aws_ap-south-1_ips` (`ip_address`, `ip_type`) VALUES ('31.220.235.0/24', 'IPv4');
 INSERT INTO `aws_ap-south-1_ips` (`ip_address`, `ip_type`) VALUES ('52.93.127.133/32', 'IPv4');
 INSERT INTO `aws_ap-south-1_ips` (`ip_address`, `ip_type`) VALUES ('150.222.84.0/24', 'IPv4');
 INSERT INTO `aws_ap-south-1_ips` (`ip_address`, `ip_type`) VALUES ('15.220.216.0/22', 'IPv4');

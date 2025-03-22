@@ -1,6 +1,7 @@
 ip_address,ip_type,service,region
 3.108.0.0/14,IPv4,AMAZON,ap-south-1
 13.248.117.0/24,IPv4,AMAZON,ap-south-1
+31.220.235.0/24,IPv4,AMAZON,ap-south-1
 52.93.127.133/32,IPv4,AMAZON,ap-south-1
 150.222.84.0/24,IPv4,AMAZON,ap-south-1
 15.220.216.0/22,IPv4,AMAZON,ap-south-1

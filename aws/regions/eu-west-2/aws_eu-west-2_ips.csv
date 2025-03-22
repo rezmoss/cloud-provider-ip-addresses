@@ -283,6 +283,7 @@ ip_address,ip_type,service,region
 3.5.244.0/22,IPv4,EC2,eu-west-2
 13.40.0.0/14,IPv4,EC2,eu-west-2
 216.39.152.0/21,IPv4,EC2,eu-west-2
+13.134.24.0/23,IPv4,CLOUDFRONT,eu-west-2
 18.175.65.0/24,IPv4,CLOUDFRONT,eu-west-2
 18.175.66.0/24,IPv4,CLOUDFRONT,eu-west-2
 18.175.67.0/24,IPv4,CLOUDFRONT,eu-west-2
