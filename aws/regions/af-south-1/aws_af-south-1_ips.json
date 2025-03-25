@@ -66,12 +66,6 @@
     "region": "af-south-1"
   },
   {
-    "ip_address": "5.60.16.0/22",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "af-south-1"
-  },
-  {
     "ip_address": "99.77.235.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -433,12 +427,6 @@
   },
   {
     "ip_address": "99.77.148.0/24",
-    "ip_type": "IPv4",
-    "service": "EC2",
-    "region": "af-south-1"
-  },
-  {
-    "ip_address": "5.60.16.0/22",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "af-south-1"

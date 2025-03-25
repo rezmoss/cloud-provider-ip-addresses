@@ -159,6 +159,7 @@ INSERT INTO `aws_cloudfront_ips` (`ip_address`, `ip_type`) VALUES ('18.230.230.0
 INSERT INTO `aws_cloudfront_ips` (`ip_address`, `ip_type`) VALUES ('54.233.255.128/26', 'IPv4');
 INSERT INTO `aws_cloudfront_ips` (`ip_address`, `ip_type`) VALUES ('56.125.46.0/24', 'IPv4');
 INSERT INTO `aws_cloudfront_ips` (`ip_address`, `ip_type`) VALUES ('56.125.47.0/32', 'IPv4');
+INSERT INTO `aws_cloudfront_ips` (`ip_address`, `ip_type`) VALUES ('56.125.48.0/24', 'IPv4');
 INSERT INTO `aws_cloudfront_ips` (`ip_address`, `ip_type`) VALUES ('3.231.2.0/25', 'IPv4');
 INSERT INTO `aws_cloudfront_ips` (`ip_address`, `ip_type`) VALUES ('3.234.232.224/27', 'IPv4');
 INSERT INTO `aws_cloudfront_ips` (`ip_address`, `ip_type`) VALUES ('3.236.169.192/26', 'IPv4');

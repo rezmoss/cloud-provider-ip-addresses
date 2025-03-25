@@ -918,6 +918,12 @@
     "region": "sa-east-1"
   },
   {
+    "ip_address": "56.125.48.0/24",
+    "ip_type": "IPv4",
+    "service": "CLOUDFRONT",
+    "region": "sa-east-1"
+  },
+  {
     "ip_address": "3.231.2.0/25",
     "ip_type": "IPv4",
     "service": "CLOUDFRONT",
