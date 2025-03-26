@@ -6,6 +6,7 @@ CREATE TABLE IF NOT EXISTS `aws_route53_healthchecks_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `aws_route53_healthchecks_ips` (`ip_address`, `ip_type`) VALUES ('51.0.252.0/24', 'IPv4');
 INSERT INTO `aws_route53_healthchecks_ips` (`ip_address`, `ip_type`) VALUES ('15.177.0.0/18', 'IPv4');
 INSERT INTO `aws_route53_healthchecks_ips` (`ip_address`, `ip_type`) VALUES ('52.80.197.0/25', 'IPv4');
 INSERT INTO `aws_route53_healthchecks_ips` (`ip_address`, `ip_type`) VALUES ('52.80.197.128/25', 'IPv4');
@@ -38,6 +39,7 @@ INSERT INTO `aws_route53_healthchecks_ips` (`ip_address`, `ip_type`) VALUES ('54
 INSERT INTO `aws_route53_healthchecks_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f0:30f::/48', 'IPv6');
 INSERT INTO `aws_route53_healthchecks_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f0:30e::/48', 'IPv6');
 INSERT INTO `aws_route53_healthchecks_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f0:300:100::/56', 'IPv6');
+INSERT INTO `aws_route53_healthchecks_ips` (`ip_address`, `ip_type`) VALUES ('2001:3fc6:100::/48', 'IPv6');
 INSERT INTO `aws_route53_healthchecks_ips` (`ip_address`, `ip_type`) VALUES ('2400:7fc0:83cc:cc00::/56', 'IPv6');
 INSERT INTO `aws_route53_healthchecks_ips` (`ip_address`, `ip_type`) VALUES ('2400:7fc0:83cc:cd00::/56', 'IPv6');
 INSERT INTO `aws_route53_healthchecks_ips` (`ip_address`, `ip_type`) VALUES ('2400:7fc0:83cc:ce00::/56', 'IPv6');

@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "51.0.252.0/24",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "eusc-de-east-1"
+  },
+  {
     "ip_address": "15.177.0.0/18",
     "ip_type": "IPv4",
     "service": "ROUTE53_HEALTHCHECKS",
@@ -190,6 +196,12 @@
     "ip_type": "IPv6",
     "service": "ROUTE53_HEALTHCHECKS",
     "region": "us-west-2"
+  },
+  {
+    "ip_address": "2001:3fc6:100::/48",
+    "ip_type": "IPv6",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "eusc-de-east-1"
   },
   {
     "ip_address": "2400:7fc0:83cc:cc00::/56",
