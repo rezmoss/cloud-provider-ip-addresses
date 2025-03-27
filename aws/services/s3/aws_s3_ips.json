@@ -2718,6 +2718,12 @@
     "region": "eu-central-1"
   },
   {
+    "ip_address": "2a05:d050:800::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "me-west-1"
+  },
+  {
     "ip_address": "2400:7fc0:200::/40",
     "ip_type": "IPv6",
     "service": "S3",
@@ -2734,6 +2740,12 @@
     "ip_type": "IPv6",
     "service": "S3",
     "region": "ap-northeast-2"
+  },
+  {
+    "ip_address": "2a05:d034:800::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "me-west-1"
   },
   {
     "ip_address": "2406:daf8:6000::/40",
@@ -3502,6 +3514,12 @@
     "ip_type": "IPv6",
     "service": "S3",
     "region": "ap-south-1"
+  },
+  {
+    "ip_address": "2a05:d070:800::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "me-west-1"
   },
   {
     "ip_address": "2a05:d078:6000::/40",

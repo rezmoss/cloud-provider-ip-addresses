@@ -452,9 +452,11 @@ ip_address,ip_type,service,region
 2a05:d079:2000::/40,IPv6,S3,eu-west-3
 2001:3fc7:800::/40,IPv6,S3,eusc-de-east-1
 2a05:d030:b000::/40,IPv6,S3,eu-central-1
+2a05:d050:800::/40,IPv6,S3,me-west-1
 2400:7fc0:200::/40,IPv6,S3,cn-north-1
 240f:80a0:8000::/40,IPv6,S3,cn-north-1
 2406:daa0:2000::/40,IPv6,S3,ap-northeast-2
+2a05:d034:800::/40,IPv6,S3,me-west-1
 2406:daf8:6000::/40,IPv6,S3,ap-northeast-3
 2a05:d034:4000::/40,IPv6,S3,eu-central-1
 2406:daf8:8000::/40,IPv6,S3,ap-southeast-1
@@ -583,5 +585,6 @@ ip_address,ip_type,service,region
 2406:daf0:a000::/40,IPv6,S3,ap-south-1
 2a05:d030:e000::/40,IPv6,S3,me-south-1
 2406:da68:a000::/40,IPv6,S3,ap-south-1
+2a05:d070:800::/40,IPv6,S3,me-west-1
 2a05:d078:6000::/40,IPv6,S3,eu-north-1
 2600:1ff8:e000::/40,IPv6,S3,sa-east-1

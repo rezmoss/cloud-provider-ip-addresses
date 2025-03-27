@@ -132,13 +132,31 @@
     "region": "ap-east-2"
   },
   {
+    "ip_address": "43.212.65.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-east-2"
+  },
+  {
     "ip_address": "43.212.66.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "ap-east-2"
   },
   {
+    "ip_address": "43.212.67.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-east-2"
+  },
+  {
     "ip_address": "43.212.68.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-east-2"
+  },
+  {
+    "ip_address": "43.212.69.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "ap-east-2"
