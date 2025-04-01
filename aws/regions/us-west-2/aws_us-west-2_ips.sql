@@ -251,6 +251,7 @@ INSERT INTO `aws_us-west-2_ips` (`ip_address`, `ip_type`) VALUES ('44.234.123.64
 INSERT INTO `aws_us-west-2_ips` (`ip_address`, `ip_type`) VALUES ('44.234.22.128/26', 'IPv4');
 INSERT INTO `aws_us-west-2_ips` (`ip_address`, `ip_type`) VALUES ('44.242.184.128/25', 'IPv4');
 INSERT INTO `aws_us-west-2_ips` (`ip_address`, `ip_type`) VALUES ('44.247.17.0/24', 'IPv4');
+INSERT INTO `aws_us-west-2_ips` (`ip_address`, `ip_type`) VALUES ('44.248.100.0/23', 'IPv4');
 INSERT INTO `aws_us-west-2_ips` (`ip_address`, `ip_type`) VALUES ('99.77.253.0/24', 'IPv4');
 INSERT INTO `aws_us-west-2_ips` (`ip_address`, `ip_type`) VALUES ('99.77.232.0/24', 'IPv4');
 INSERT INTO `aws_us-west-2_ips` (`ip_address`, `ip_type`) VALUES ('54.244.52.192/26', 'IPv4');

@@ -30,6 +30,7 @@ INSERT INTO `aws_eu-south-2_ips` (`ip_address`, `ip_type`) VALUES ('18.100.0.0/1
 INSERT INTO `aws_eu-south-2_ips` (`ip_address`, `ip_type`) VALUES ('150.222.50.96/27', 'IPv4');
 INSERT INTO `aws_eu-south-2_ips` (`ip_address`, `ip_type`) VALUES ('99.77.28.0/22', 'IPv4');
 INSERT INTO `aws_eu-south-2_ips` (`ip_address`, `ip_type`) VALUES ('99.77.48.0/21', 'IPv4');
+INSERT INTO `aws_eu-south-2_ips` (`ip_address`, `ip_type`) VALUES ('51.48.0.0/15', 'IPv4');
 INSERT INTO `aws_eu-south-2_ips` (`ip_address`, `ip_type`) VALUES ('18.100.160.0/24', 'IPv4');
 INSERT INTO `aws_eu-south-2_ips` (`ip_address`, `ip_type`) VALUES ('18.100.184.0/25', 'IPv4');
 INSERT INTO `aws_eu-south-2_ips` (`ip_address`, `ip_type`) VALUES ('18.100.184.128/25', 'IPv4');
@@ -95,6 +96,7 @@ INSERT INTO `aws_eu-south-2_ips` (`ip_address`, `ip_type`) VALUES ('99.77.55.27/
 INSERT INTO `aws_eu-south-2_ips` (`ip_address`, `ip_type`) VALUES ('18.100.0.0/15', 'IPv4');
 INSERT INTO `aws_eu-south-2_ips` (`ip_address`, `ip_type`) VALUES ('99.77.55.255/32', 'IPv4');
 INSERT INTO `aws_eu-south-2_ips` (`ip_address`, `ip_type`) VALUES ('99.77.55.13/32', 'IPv4');
+INSERT INTO `aws_eu-south-2_ips` (`ip_address`, `ip_type`) VALUES ('51.48.0.0/15', 'IPv4');
 INSERT INTO `aws_eu-south-2_ips` (`ip_address`, `ip_type`) VALUES ('15.177.97.0/24', 'IPv4');
 INSERT INTO `aws_eu-south-2_ips` (`ip_address`, `ip_type`) VALUES ('18.100.209.192/28', 'IPv4');
 INSERT INTO `aws_eu-south-2_ips` (`ip_address`, `ip_type`) VALUES ('18.100.66.0/23', 'IPv4');
