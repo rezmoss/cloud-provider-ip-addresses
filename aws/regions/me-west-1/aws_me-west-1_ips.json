@@ -30,6 +30,12 @@
     "region": "me-west-1"
   },
   {
+    "ip_address": "15.177.106.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "me-west-1"
+  },
+  {
     "ip_address": "15.190.144.0/20",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -72,9 +78,21 @@
     "region": "me-west-1"
   },
   {
+    "ip_address": "15.177.106.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "me-west-1"
+  },
+  {
     "ip_address": "16.15.16.0/22",
     "ip_type": "IPv4",
     "service": "EC2",
+    "region": "me-west-1"
+  },
+  {
+    "ip_address": "15.177.106.0/24",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_HEALTHCHECKS_PUBLISHING",
     "region": "me-west-1"
   },
   {

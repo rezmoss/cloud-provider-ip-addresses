@@ -4950,6 +4950,12 @@
     "region": "ap-south-1"
   },
   {
+    "ip_address": "15.177.106.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "me-west-1"
+  },
+  {
     "ip_address": "18.96.224.0/19",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -8668,12 +8674,6 @@
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "ca-west-1"
-  },
-  {
-    "ip_address": "2600:f0f0:90::/48",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "us-east-1"
   },
   {
     "ip_address": "2606:7b40:1b0f:c000::/56",
