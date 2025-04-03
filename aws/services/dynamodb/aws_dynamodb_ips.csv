@@ -80,6 +80,7 @@ ip_address,ip_type,service,region
 35.71.106.0/24,IPv4,DYNAMODB,sa-east-1
 35.71.125.0/24,IPv4,DYNAMODB,mx-central-1
 13.248.76.0/24,IPv4,DYNAMODB,mx-central-1
+13.248.80.0/24,IPv4,DYNAMODB,me-west-1
 52.82.187.0/24,IPv4,DYNAMODB,cn-northwest-1
 43.193.64.0/24,IPv4,DYNAMODB,cn-northwest-1
 13.248.64.0/24,IPv4,DYNAMODB,ap-south-2

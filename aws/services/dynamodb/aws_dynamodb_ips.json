@@ -486,6 +486,12 @@
     "region": "mx-central-1"
   },
   {
+    "ip_address": "13.248.80.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "me-west-1"
+  },
+  {
     "ip_address": "52.82.187.0/24",
     "ip_type": "IPv4",
     "service": "DYNAMODB",

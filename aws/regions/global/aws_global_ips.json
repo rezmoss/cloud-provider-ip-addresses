@@ -120,6 +120,12 @@
     "region": "GLOBAL"
   },
   {
+    "ip_address": "3.173.192.0/18",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "GLOBAL"
+  },
+  {
     "ip_address": "15.197.16.0/23",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -1351,6 +1357,12 @@
   },
   {
     "ip_address": "130.176.0.0/17",
+    "ip_type": "IPv4",
+    "service": "CLOUDFRONT",
+    "region": "GLOBAL"
+  },
+  {
+    "ip_address": "3.173.192.0/18",
     "ip_type": "IPv4",
     "service": "CLOUDFRONT",
     "region": "GLOBAL"
