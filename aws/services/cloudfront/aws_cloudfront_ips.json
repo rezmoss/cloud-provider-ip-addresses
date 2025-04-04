@@ -186,12 +186,6 @@
     "region": "GLOBAL"
   },
   {
-    "ip_address": "205.251.201.0/24",
-    "ip_type": "IPv4",
-    "service": "CLOUDFRONT",
-    "region": "GLOBAL"
-  },
-  {
     "ip_address": "205.251.206.0/23",
     "ip_type": "IPv4",
     "service": "CLOUDFRONT",
@@ -499,12 +493,6 @@
   },
   {
     "ip_address": "52.124.128.0/17",
-    "ip_type": "IPv4",
-    "service": "CLOUDFRONT",
-    "region": "GLOBAL"
-  },
-  {
-    "ip_address": "205.251.200.0/24",
     "ip_type": "IPv4",
     "service": "CLOUDFRONT",
     "region": "GLOBAL"

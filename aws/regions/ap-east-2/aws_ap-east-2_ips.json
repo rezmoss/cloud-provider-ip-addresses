@@ -240,6 +240,12 @@
     "region": "ap-east-2"
   },
   {
+    "ip_address": "43.212.16.0/24",
+    "ip_type": "IPv4",
+    "service": "API_GATEWAY",
+    "region": "ap-east-2"
+  },
+  {
     "ip_address": "35.71.127.0/24",
     "ip_type": "IPv4",
     "service": "DYNAMODB",

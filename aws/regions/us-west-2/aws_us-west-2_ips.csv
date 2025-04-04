@@ -569,6 +569,7 @@ ip_address,ip_type,service,region
 2600:f0f0:85::/48,IPv6,AMAZON,us-west-2
 2600:1ffb:4080::/46,IPv6,AMAZON,us-west-2
 2606:7b40:1b0f:f400::/56,IPv6,AMAZON,us-west-2
+2606:7b40:f000:1500::/56,IPv6,AMAZON,us-west-2
 2600:1ffb:4020::/46,IPv6,AMAZON,us-west-2
 2600:1ffb:4041::/48,IPv6,AMAZON,us-west-2
 2620:107:4000:9003::/64,IPv6,AMAZON,us-west-2
@@ -606,6 +607,7 @@ ip_address,ip_type,service,region
 2606:7b40:10ff:a220::/60,IPv6,AMAZON,us-west-2
 2606:7b40:1000:8000::/56,IPv6,AMAZON,us-west-2
 2606:7b40:1000:7240::/60,IPv6,AMAZON,us-west-2
+2606:7b40:f000:1700::/56,IPv6,AMAZON,us-west-2
 2606:7b40:1800::/48,IPv6,AMAZON,us-west-2
 2600:1f14:8000::/36,IPv6,AMAZON,us-west-2
 2606:7b40:1000:2000::/56,IPv6,AMAZON,us-west-2
@@ -690,6 +692,7 @@ ip_address,ip_type,service,region
 2606:7b40:10ff:d210::/60,IPv6,AMAZON,us-west-2
 2600:1ff0:4000::/39,IPv6,AMAZON,us-west-2
 2606:7b40:10ff:a210::/60,IPv6,AMAZON,us-west-2
+2606:7b40:f000:1600::/56,IPv6,AMAZON,us-west-2
 2606:7b40:1b00:700::/56,IPv6,AMAZON,us-west-2
 2600:1ffb:40c0::/46,IPv6,AMAZON,us-west-2
 2606:7b40:10ff:d2f0::/60,IPv6,AMAZON,us-west-2
@@ -767,6 +770,7 @@ ip_address,ip_type,service,region
 2600:f0f0:85::/48,IPv6,EC2,us-west-2
 2600:1ffb:4080::/46,IPv6,EC2,us-west-2
 2606:7b40:1b0f:f400::/56,IPv6,EC2,us-west-2
+2606:7b40:f000:1500::/56,IPv6,EC2,us-west-2
 2600:1ffb:4020::/46,IPv6,EC2,us-west-2
 2600:1ffb:4041::/48,IPv6,EC2,us-west-2
 2600:f0fb:ee00::/40,IPv6,EC2,us-west-2
@@ -796,6 +800,7 @@ ip_address,ip_type,service,region
 2606:7b40:10ff:a220::/60,IPv6,EC2,us-west-2
 2606:7b40:1000:8000::/56,IPv6,EC2,us-west-2
 2606:7b40:1000:7240::/60,IPv6,EC2,us-west-2
+2606:7b40:f000:1700::/56,IPv6,EC2,us-west-2
 2606:7b40:1800::/48,IPv6,EC2,us-west-2
 2600:1f14:8000::/36,IPv6,EC2,us-west-2
 2606:7b40:1000:2000::/56,IPv6,EC2,us-west-2
@@ -870,6 +875,7 @@ ip_address,ip_type,service,region
 2606:7b40:10ff:d210::/60,IPv6,EC2,us-west-2
 2600:1ff0:4000::/39,IPv6,EC2,us-west-2
 2606:7b40:10ff:a210::/60,IPv6,EC2,us-west-2
+2606:7b40:f000:1600::/56,IPv6,EC2,us-west-2
 2606:7b40:1b00:700::/56,IPv6,EC2,us-west-2
 2600:1ffb:40c0::/46,IPv6,EC2,us-west-2
 2606:7b40:10ff:d2f0::/60,IPv6,EC2,us-west-2

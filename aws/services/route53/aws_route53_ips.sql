@@ -6,6 +6,7 @@ CREATE TABLE IF NOT EXISTS `aws_route53_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `aws_route53_ips` (`ip_address`, `ip_type`) VALUES ('205.251.200.0/23', 'IPv4');
 INSERT INTO `aws_route53_ips` (`ip_address`, `ip_type`) VALUES ('52.95.110.0/24', 'IPv4');
 INSERT INTO `aws_route53_ips` (`ip_address`, `ip_type`) VALUES ('205.251.192.0/21', 'IPv4');
 INSERT INTO `aws_route53_ips` (`ip_address`, `ip_type`) VALUES ('3.4.32.0/20', 'IPv4');
