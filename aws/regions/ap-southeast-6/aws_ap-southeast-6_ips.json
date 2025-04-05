@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "150.222.54.192/27",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-southeast-6"
+  },
+  {
     "ip_address": "13.248.79.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -96,7 +102,19 @@
     "region": "ap-southeast-6"
   },
   {
+    "ip_address": "150.222.54.160/27",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-southeast-6"
+  },
+  {
     "ip_address": "104.255.59.241/32",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-southeast-6"
+  },
+  {
+    "ip_address": "150.222.54.224/27",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "ap-southeast-6"
