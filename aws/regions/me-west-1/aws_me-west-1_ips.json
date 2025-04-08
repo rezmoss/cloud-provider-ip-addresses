@@ -78,6 +78,12 @@
     "region": "me-west-1"
   },
   {
+    "ip_address": "23.254.16.0/21",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "me-west-1"
+  },
+  {
     "ip_address": "16.12.86.0/24",
     "ip_type": "IPv4",
     "service": "S3",
@@ -120,6 +126,12 @@
     "region": "me-west-1"
   },
   {
+    "ip_address": "23.254.16.0/21",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "me-west-1"
+  },
+  {
     "ip_address": "15.177.106.0/24",
     "ip_type": "IPv4",
     "service": "ROUTE53_HEALTHCHECKS_PUBLISHING",
@@ -129,6 +141,12 @@
     "ip_address": "13.248.80.0/24",
     "ip_type": "IPv4",
     "service": "DYNAMODB",
+    "region": "me-west-1"
+  },
+  {
+    "ip_address": "2a05:d030:840::/46",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
     "region": "me-west-1"
   },
   {
@@ -193,12 +211,6 @@
   },
   {
     "ip_address": "2a05:d040:800::/40",
-    "ip_type": "IPv6",
-    "service": "AMAZON",
-    "region": "me-west-1"
-  },
-  {
-    "ip_address": "2a05:d030:800::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "me-west-1"
@@ -294,6 +306,12 @@
     "region": "me-west-1"
   },
   {
+    "ip_address": "2a05:d030:840::/46",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "me-west-1"
+  },
+  {
     "ip_address": "2a05:d076:800::/40",
     "ip_type": "IPv6",
     "service": "EC2",
@@ -343,12 +361,6 @@
   },
   {
     "ip_address": "2a05:d040:800::/40",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "me-west-1"
-  },
-  {
-    "ip_address": "2a05:d030:800::/40",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "me-west-1"
