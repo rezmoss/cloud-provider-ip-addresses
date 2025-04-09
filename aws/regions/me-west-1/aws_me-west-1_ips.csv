@@ -23,7 +23,6 @@ ip_address,ip_type,service,region
 23.254.16.0/21,IPv4,EC2,me-west-1
 15.177.106.0/24,IPv4,ROUTE53_HEALTHCHECKS_PUBLISHING,me-west-1
 13.248.80.0/24,IPv4,DYNAMODB,me-west-1
-2a05:d030:840::/46,IPv6,AMAZON,me-west-1
 2a05:d076:800::/40,IPv6,AMAZON,me-west-1
 2a05:d031:800::/40,IPv6,AMAZON,me-west-1
 2a05:d032:800::/40,IPv6,AMAZON,me-west-1
@@ -50,7 +49,6 @@ ip_address,ip_type,service,region
 2a05:d050:800::/40,IPv6,S3,me-west-1
 2a05:d034:800::/40,IPv6,S3,me-west-1
 2a05:d070:800::/40,IPv6,S3,me-west-1
-2a05:d030:840::/46,IPv6,EC2,me-west-1
 2a05:d076:800::/40,IPv6,EC2,me-west-1
 2a05:d031:800::/40,IPv6,EC2,me-west-1
 2a05:d032:800::/40,IPv6,EC2,me-west-1

@@ -3294,12 +3294,6 @@
     "region": "cn-north-1"
   },
   {
-    "ip_address": "71.141.0.0/21",
-    "ip_type": "IPv4",
-    "service": "EC2",
-    "region": "us-east-2"
-  },
-  {
     "ip_address": "136.18.130.0/23",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -8302,12 +8296,6 @@
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "eu-south-1"
-  },
-  {
-    "ip_address": "2a05:d030:840::/46",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "me-west-1"
   },
   {
     "ip_address": "2a05:d036:8000::/40",
