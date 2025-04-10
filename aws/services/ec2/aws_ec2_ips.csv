@@ -2102,6 +2102,7 @@ ip_address,ip_type,service,region
 2600:f0f0:1:2000::/56,IPv6,EC2,us-east-2
 2606:f40:fff0::/48,IPv6,EC2,eu-west-1
 2606:f40:fffd::/48,IPv6,EC2,us-west-2
+2a05:d030:800::/40,IPv6,EC2,me-west-1
 2a05:d070:2000::/40,IPv6,EC2,eu-west-3
 2406:da00:1000::/40,IPv6,EC2,af-south-1
 2406:daf0:c000::/40,IPv6,EC2,ap-southeast-2

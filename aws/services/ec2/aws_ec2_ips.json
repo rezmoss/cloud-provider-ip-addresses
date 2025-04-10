@@ -12618,6 +12618,12 @@
     "region": "us-west-2"
   },
   {
+    "ip_address": "2a05:d030:800::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "me-west-1"
+  },
+  {
     "ip_address": "2a05:d070:2000::/40",
     "ip_type": "IPv6",
     "service": "EC2",

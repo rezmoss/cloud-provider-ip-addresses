@@ -90,6 +90,12 @@
     "region": "ap-southeast-4"
   },
   {
+    "ip_address": "43.216.87.48/29",
+    "ip_type": "IPv4",
+    "service": "EC2_INSTANCE_CONNECT",
+    "region": "ap-southeast-5"
+  },
+  {
     "ip_address": "35.183.92.176/29",
     "ip_type": "IPv4",
     "service": "EC2_INSTANCE_CONNECT",
@@ -286,6 +292,12 @@
     "ip_type": "IPv6",
     "service": "EC2_INSTANCE_CONNECT",
     "region": "ap-southeast-4"
+  },
+  {
+    "ip_address": "2406:da10:84f9:9e00::/56",
+    "ip_type": "IPv6",
+    "service": "EC2_INSTANCE_CONNECT",
+    "region": "ap-southeast-5"
   },
   {
     "ip_address": "2600:1f11:ae3:700::/56",

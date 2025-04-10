@@ -489,6 +489,7 @@ ip_address,ip_type,service,region
 2a05:d050:c000::/40,IPv6,S3,eu-west-2
 2406:daa0:4000::/40,IPv6,S3,ap-northeast-1
 2406:daf9:2000::/40,IPv6,S3,ap-northeast-2
+2a05:d030:800::/40,IPv6,S3,me-west-1
 2a05:d050:b000::/40,IPv6,S3,eu-central-1
 2a05:d070:2000::/40,IPv6,S3,eu-west-3
 2a05:d079:6000::/40,IPv6,S3,eu-north-1
