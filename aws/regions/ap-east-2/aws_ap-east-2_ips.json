@@ -54,6 +54,12 @@
     "region": "ap-east-2"
   },
   {
+    "ip_address": "216.216.0.0/15",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-east-2"
+  },
+  {
     "ip_address": "15.190.112.0/20",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -121,6 +127,12 @@
   },
   {
     "ip_address": "23.254.0.0/21",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-east-2"
+  },
+  {
+    "ip_address": "72.242.0.0/15",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "ap-east-2"

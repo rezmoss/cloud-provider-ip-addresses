@@ -84,6 +84,12 @@
     "region": "ap-southeast-6"
   },
   {
+    "ip_address": "46.168.0.0/15",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-southeast-6"
+  },
+  {
     "ip_address": "104.255.59.239/32",
     "ip_type": "IPv4",
     "service": "AMAZON",

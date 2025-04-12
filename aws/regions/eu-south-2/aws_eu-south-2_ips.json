@@ -114,6 +114,12 @@
     "region": "eu-south-2"
   },
   {
+    "ip_address": "35.44.0.0/15",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-south-2"
+  },
+  {
     "ip_address": "54.239.1.192/28",
     "ip_type": "IPv4",
     "service": "AMAZON",

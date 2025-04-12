@@ -1554,6 +1554,12 @@
     "region": "sa-east-1"
   },
   {
+    "ip_address": "2606:f40:3e00::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "sa-east-1"
+  },
+  {
     "ip_address": "2600:1ffe:e000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -1602,6 +1608,12 @@
     "region": "sa-east-1"
   },
   {
+    "ip_address": "2600:f007::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "sa-east-1"
+  },
+  {
     "ip_address": "2600:f0f0:5522::/48",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -1627,6 +1639,12 @@
   },
   {
     "ip_address": "2600:1ffd:83d2::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "sa-east-1"
+  },
+  {
+    "ip_address": "2606:f40:be00::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "sa-east-1"
@@ -1681,6 +1699,12 @@
   },
   {
     "ip_address": "2804:800::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "sa-east-1"
+  },
+  {
+    "ip_address": "2600:f00d:8000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "sa-east-1"
@@ -1872,6 +1896,12 @@
     "region": "sa-east-1"
   },
   {
+    "ip_address": "2606:f40:3e00::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "sa-east-1"
+  },
+  {
     "ip_address": "2600:1ff6:e000::/40",
     "ip_type": "IPv6",
     "service": "EC2",
@@ -1914,6 +1944,12 @@
     "region": "sa-east-1"
   },
   {
+    "ip_address": "2600:f007::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "sa-east-1"
+  },
+  {
     "ip_address": "2600:f0f0:5522::/48",
     "ip_type": "IPv6",
     "service": "EC2",
@@ -1944,6 +1980,12 @@
     "region": "sa-east-1"
   },
   {
+    "ip_address": "2606:f40:be00::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "sa-east-1"
+  },
+  {
     "ip_address": "2600:1ff2:e000::/40",
     "ip_type": "IPv6",
     "service": "EC2",
@@ -1969,6 +2011,12 @@
   },
   {
     "ip_address": "2600:9000:520e::/48",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "sa-east-1"
+  },
+  {
+    "ip_address": "2600:f00d:8000::/40",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "sa-east-1"

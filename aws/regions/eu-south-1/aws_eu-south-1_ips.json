@@ -630,6 +630,12 @@
     "region": "eu-south-1"
   },
   {
+    "ip_address": "45.34.0.0/15",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-south-1"
+  },
+  {
     "ip_address": "54.240.236.86/32",
     "ip_type": "IPv4",
     "service": "AMAZON",

@@ -450,6 +450,12 @@
     "region": "ap-south-2"
   },
   {
+    "ip_address": "2600:f005:8000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
     "ip_address": "2406:da1b::/36",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -546,6 +552,12 @@
     "region": "ap-south-2"
   },
   {
+    "ip_address": "2606:f40:3200::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
     "ip_address": "2406:dafc:b000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -565,6 +577,12 @@
   },
   {
     "ip_address": "2406:dafb:b000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "2600:f00f:c000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "ap-south-2"
@@ -595,6 +613,12 @@
   },
   {
     "ip_address": "2406:dafe:b000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "2606:f40:b200::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "ap-south-2"
@@ -645,6 +669,12 @@
     "ip_address": "2406:daf9:b000::/40",
     "ip_type": "IPv6",
     "service": "S3",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "2600:f005:8000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
     "region": "ap-south-2"
   },
   {
@@ -732,6 +762,12 @@
     "region": "ap-south-2"
   },
   {
+    "ip_address": "2606:f40:3200::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-south-2"
+  },
+  {
     "ip_address": "2406:da38:b000::/40",
     "ip_type": "IPv6",
     "service": "EC2",
@@ -739,6 +775,12 @@
   },
   {
     "ip_address": "2406:dafb:b000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "2600:f00f:c000::/40",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "ap-south-2"
@@ -757,6 +799,12 @@
   },
   {
     "ip_address": "2406:da70:b000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "2606:f40:b200::/40",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "ap-south-2"

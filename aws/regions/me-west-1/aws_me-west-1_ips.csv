@@ -1,5 +1,6 @@
 ip_address,ip_type,service,region
 51.168.0.0/15,IPv4,AMAZON,me-west-1
+35.56.0.0/15,IPv4,AMAZON,me-west-1
 76.223.170.112/28,IPv4,AMAZON,me-west-1
 51.206.0.0/15,IPv4,AMAZON,me-west-1
 51.204.0.0/15,IPv4,AMAZON,me-west-1
@@ -13,6 +14,7 @@ ip_address,ip_type,service,region
 16.12.84.0/23,IPv4,AMAZON,me-west-1
 16.15.16.0/22,IPv4,AMAZON,me-west-1
 23.254.16.0/21,IPv4,AMAZON,me-west-1
+35.52.0.0/15,IPv4,AMAZON,me-west-1
 16.12.86.0/24,IPv4,S3,me-west-1
 16.12.84.0/23,IPv4,S3,me-west-1
 16.15.16.0/22,IPv4,S3,me-west-1
