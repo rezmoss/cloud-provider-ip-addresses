@@ -18732,12 +18732,6 @@
     "region": "us-east-2"
   },
   {
-    "ip_address": "35.96.244.0/24",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "us-west-2"
-  },
-  {
     "ip_address": "52.93.90.163/32",
     "ip_type": "IPv4",
     "service": "AMAZON",

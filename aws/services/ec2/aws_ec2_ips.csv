@@ -923,7 +923,6 @@ ip_address,ip_type,service,region
 45.57.128.0/18,IPv4,EC2,ap-southeast-1
 99.77.55.50/32,IPv4,EC2,eu-south-2
 3.98.0.0/15,IPv4,EC2,ca-central-1
-35.96.244.0/24,IPv4,EC2,us-west-2
 54.66.0.0/16,IPv4,EC2,ap-southeast-2
 56.228.0.0/16,IPv4,EC2,eu-north-1
 99.77.242.0/24,IPv4,EC2,ap-northeast-2

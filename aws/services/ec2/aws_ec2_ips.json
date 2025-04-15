@@ -5544,12 +5544,6 @@
     "region": "ca-central-1"
   },
   {
-    "ip_address": "35.96.244.0/24",
-    "ip_type": "IPv4",
-    "service": "EC2",
-    "region": "us-west-2"
-  },
-  {
     "ip_address": "54.66.0.0/16",
     "ip_type": "IPv4",
     "service": "EC2",
