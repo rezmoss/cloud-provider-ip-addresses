@@ -11,10 +11,12 @@ ip_address,ip_type,service,region
 18.96.96.0/19,IPv4,AMAZON,me-central-1
 40.174.0.0/15,IPv4,AMAZON,me-central-1
 150.222.50.0/27,IPv4,AMAZON,me-central-1
+54.137.0.0/16,IPv4,AMAZON,me-central-1
 99.150.120.0/21,IPv4,AMAZON,me-central-1
 150.222.49.192/27,IPv4,AMAZON,me-central-1
 158.252.0.0/15,IPv4,AMAZON,me-central-1
 150.222.49.224/27,IPv4,AMAZON,me-central-1
+54.136.0.0/16,IPv4,AMAZON,me-central-1
 51.0.88.0/21,IPv4,AMAZON,me-central-1
 99.77.24.0/22,IPv4,AMAZON,me-central-1
 52.94.249.224/28,IPv4,AMAZON,me-central-1

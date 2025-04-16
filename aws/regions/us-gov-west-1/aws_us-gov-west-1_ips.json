@@ -102,6 +102,12 @@
     "region": "us-gov-west-1"
   },
   {
+    "ip_address": "40.39.0.0/16",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-gov-west-1"
+  },
+  {
     "ip_address": "52.94.248.224/28",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -247,6 +253,12 @@
   },
   {
     "ip_address": "75.79.0.0/16",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-gov-west-1"
+  },
+  {
+    "ip_address": "40.38.0.0/16",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "us-gov-west-1"

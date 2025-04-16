@@ -72,6 +72,12 @@
     "region": "me-central-1"
   },
   {
+    "ip_address": "54.137.0.0/16",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "me-central-1"
+  },
+  {
     "ip_address": "99.150.120.0/21",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -91,6 +97,12 @@
   },
   {
     "ip_address": "150.222.49.224/27",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "me-central-1"
+  },
+  {
+    "ip_address": "54.136.0.0/16",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "me-central-1"
