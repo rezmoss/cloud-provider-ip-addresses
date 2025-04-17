@@ -60,6 +60,7 @@ INSERT INTO `aws_me-central-1_ips` (`ip_address`, `ip_type`) VALUES ('3.5.48.0/2
 INSERT INTO `aws_me-central-1_ips` (`ip_address`, `ip_type`) VALUES ('51.112.0.0/16', 'IPv4');
 INSERT INTO `aws_me-central-1_ips` (`ip_address`, `ip_type`) VALUES ('18.96.96.0/19', 'IPv4');
 INSERT INTO `aws_me-central-1_ips` (`ip_address`, `ip_type`) VALUES ('99.150.120.0/21', 'IPv4');
+INSERT INTO `aws_me-central-1_ips` (`ip_address`, `ip_type`) VALUES ('158.252.0.0/15', 'IPv4');
 INSERT INTO `aws_me-central-1_ips` (`ip_address`, `ip_type`) VALUES ('51.0.88.0/21', 'IPv4');
 INSERT INTO `aws_me-central-1_ips` (`ip_address`, `ip_type`) VALUES ('52.94.249.224/28', 'IPv4');
 INSERT INTO `aws_me-central-1_ips` (`ip_address`, `ip_type`) VALUES ('64.252.97.0/24', 'IPv4');

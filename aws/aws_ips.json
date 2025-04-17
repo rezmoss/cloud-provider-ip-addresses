@@ -37818,6 +37818,12 @@
     "region": "ap-northeast-3"
   },
   {
+    "ip_address": "158.252.0.0/15",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "me-central-1"
+  },
+  {
     "ip_address": "16.16.0.0/16",
     "ip_type": "IPv4",
     "service": "EC2",

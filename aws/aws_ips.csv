@@ -6302,6 +6302,7 @@ ip_address,ip_type,service,region
 13.202.0.0/15,IPv4,EC2,ap-south-1
 15.181.64.0/20,IPv4,EC2,us-west-2
 99.77.140.0/24,IPv4,EC2,ap-northeast-3
+158.252.0.0/15,IPv4,EC2,me-central-1
 16.16.0.0/16,IPv4,EC2,eu-north-1
 54.222.89.0/24,IPv4,EC2,cn-north-1
 15.206.0.0/15,IPv4,EC2,ap-south-1

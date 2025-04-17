@@ -324,6 +324,12 @@
     "region": "me-central-1"
   },
   {
+    "ip_address": "158.252.0.0/15",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "me-central-1"
+  },
+  {
     "ip_address": "51.0.88.0/21",
     "ip_type": "IPv4",
     "service": "EC2",

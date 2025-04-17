@@ -53,6 +53,7 @@ ip_address,ip_type,service,region
 51.112.0.0/16,IPv4,EC2,me-central-1
 18.96.96.0/19,IPv4,EC2,me-central-1
 99.150.120.0/21,IPv4,EC2,me-central-1
+158.252.0.0/15,IPv4,EC2,me-central-1
 51.0.88.0/21,IPv4,EC2,me-central-1
 52.94.249.224/28,IPv4,EC2,me-central-1
 64.252.97.0/24,IPv4,EC2,me-central-1
