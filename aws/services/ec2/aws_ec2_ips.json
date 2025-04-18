@@ -3750,6 +3750,12 @@
     "region": "ap-southeast-2"
   },
   {
+    "ip_address": "13.158.0.0/15",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "ap-northeast-1"
+  },
+  {
     "ip_address": "15.220.16.0/20",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -6988,6 +6994,12 @@
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "cn-north-1"
+  },
+  {
+    "ip_address": "95.40.0.0/15",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "ap-east-1"
   },
   {
     "ip_address": "99.77.55.36/32",

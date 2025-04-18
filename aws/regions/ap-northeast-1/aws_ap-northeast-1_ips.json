@@ -1512,6 +1512,12 @@
     "region": "ap-northeast-1"
   },
   {
+    "ip_address": "13.158.0.0/15",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "ap-northeast-1"
+  },
+  {
     "ip_address": "18.182.0.0/16",
     "ip_type": "IPv4",
     "service": "EC2",

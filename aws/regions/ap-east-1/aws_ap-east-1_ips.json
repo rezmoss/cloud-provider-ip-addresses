@@ -480,6 +480,12 @@
     "region": "ap-east-1"
   },
   {
+    "ip_address": "95.40.0.0/15",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "ap-east-1"
+  },
+  {
     "ip_address": "15.177.85.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
