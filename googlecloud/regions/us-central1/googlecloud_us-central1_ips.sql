@@ -46,6 +46,8 @@ INSERT INTO `googlecloud_us-central1_ips` (`ip_address`, `ip_type`) VALUES ('34.
 INSERT INTO `googlecloud_us-central1_ips` (`ip_address`, `ip_type`) VALUES ('34.170.0.0/15', 'IPv4');
 INSERT INTO `googlecloud_us-central1_ips` (`ip_address`, `ip_type`) VALUES ('34.172.0.0/15', 'IPv4');
 INSERT INTO `googlecloud_us-central1_ips` (`ip_address`, `ip_type`) VALUES ('34.177.52.0/22', 'IPv4');
+INSERT INTO `googlecloud_us-central1_ips` (`ip_address`, `ip_type`) VALUES ('34.183.16.0/22', 'IPv4');
+INSERT INTO `googlecloud_us-central1_ips` (`ip_address`, `ip_type`) VALUES ('34.184.16.0/22', 'IPv4');
 INSERT INTO `googlecloud_us-central1_ips` (`ip_address`, `ip_type`) VALUES ('35.184.0.0/16', 'IPv4');
 INSERT INTO `googlecloud_us-central1_ips` (`ip_address`, `ip_type`) VALUES ('35.188.0.0/17', 'IPv4');
 INSERT INTO `googlecloud_us-central1_ips` (`ip_address`, `ip_type`) VALUES ('35.188.128.0/18', 'IPv4');
