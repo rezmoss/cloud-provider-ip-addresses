@@ -468,6 +468,12 @@
     "region": "GLOBAL"
   },
   {
+    "ip_address": "1.178.72.0/21",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "GLOBAL"
+  },
+  {
     "ip_address": "166.117.0.0/16",
     "ip_type": "IPv4",
     "service": "AMAZON",

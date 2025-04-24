@@ -13692,6 +13692,12 @@
     "region": "us-west-1"
   },
   {
+    "ip_address": "1.178.72.0/21",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "GLOBAL"
+  },
+  {
     "ip_address": "3.4.12.3/32",
     "ip_type": "IPv4",
     "service": "AMAZON",
