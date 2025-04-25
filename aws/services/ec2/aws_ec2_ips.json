@@ -5742,6 +5742,12 @@
     "region": "ap-southeast-7"
   },
   {
+    "ip_address": "18.97.112.0/20",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "ap-east-2"
+  },
+  {
     "ip_address": "3.13.0.0/16",
     "ip_type": "IPv4",
     "service": "EC2",

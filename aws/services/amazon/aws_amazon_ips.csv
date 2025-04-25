@@ -3186,6 +3186,7 @@ ip_address,ip_type,service,region
 13.248.65.0/24,IPv4,AMAZON,eu-south-2
 15.230.15.114/31,IPv4,AMAZON,eu-central-1
 15.251.0.23/32,IPv4,AMAZON,sa-east-1
+18.97.112.0/20,IPv4,AMAZON,ap-east-2
 52.93.69.0/24,IPv4,AMAZON,me-south-1
 52.93.178.151/32,IPv4,AMAZON,us-west-1
 52.93.228.196/32,IPv4,AMAZON,eu-west-2

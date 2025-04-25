@@ -19122,6 +19122,12 @@
     "region": "sa-east-1"
   },
   {
+    "ip_address": "18.97.112.0/20",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-east-2"
+  },
+  {
     "ip_address": "52.93.69.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
