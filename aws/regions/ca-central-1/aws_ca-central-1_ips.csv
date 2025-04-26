@@ -8,6 +8,7 @@ ip_address,ip_type,service,region
 52.93.193.200/32,IPv4,AMAZON,ca-central-1
 52.93.193.199/32,IPv4,AMAZON,ca-central-1
 15.222.0.0/15,IPv4,AMAZON,ca-central-1
+35.96.252.0/24,IPv4,AMAZON,ca-central-1
 35.71.119.0/24,IPv4,AMAZON,ca-central-1
 52.93.127.196/32,IPv4,AMAZON,ca-central-1
 52.93.193.195/32,IPv4,AMAZON,ca-central-1
@@ -99,6 +100,7 @@ ip_address,ip_type,service,region
 3.97.20.0/22,IPv4,WORKSPACES_GATEWAYS,ca-central-1
 35.183.255.0/24,IPv4,WORKSPACES_GATEWAYS,ca-central-1
 15.222.0.0/15,IPv4,EC2,ca-central-1
+35.96.252.0/24,IPv4,EC2,ca-central-1
 35.71.119.0/24,IPv4,EC2,ca-central-1
 35.182.0.0/15,IPv4,EC2,ca-central-1
 99.77.233.0/24,IPv4,EC2,ca-central-1
