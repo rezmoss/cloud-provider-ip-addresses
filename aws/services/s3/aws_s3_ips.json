@@ -1524,6 +1524,18 @@
     "region": "ap-east-1"
   },
   {
+    "ip_address": "43.212.135.0/28",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "ap-east-2"
+  },
+  {
+    "ip_address": "43.212.135.16/28",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "ap-east-2"
+  },
+  {
     "ip_address": "35.72.164.240/28",
     "ip_type": "IPv4",
     "service": "S3",

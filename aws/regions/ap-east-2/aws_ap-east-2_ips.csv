@@ -37,6 +37,8 @@ ip_address,ip_type,service,region
 16.12.80.0/24,IPv4,S3,ap-east-2
 3.5.196.0/22,IPv4,S3,ap-east-2
 16.12.78.0/23,IPv4,S3,ap-east-2
+43.212.135.0/28,IPv4,S3,ap-east-2
+43.212.135.16/28,IPv4,S3,ap-east-2
 3.5.196.0/22,IPv4,EC2,ap-east-2
 15.177.104.0/24,IPv4,EC2,ap-east-2
 35.71.127.0/24,IPv4,EC2,ap-east-2
