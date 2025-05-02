@@ -78,6 +78,7 @@ INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('260
 INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f32:4000::/39', 'IPv6');
 INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('2406:da32:2000::/40', 'IPv6');
 INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('2406:da32:4000::/40', 'IPv6');
+INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d032:2000::/40', 'IPv6');
 INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f32:5000::/40', 'IPv6');
 INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('2406:da32:8000::/40', 'IPv6');
 INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f32:8000::/39', 'IPv6');

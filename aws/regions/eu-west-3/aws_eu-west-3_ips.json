@@ -1200,6 +1200,12 @@
     "region": "eu-west-3"
   },
   {
+    "ip_address": "2a05:d032:2000::/40",
+    "ip_type": "IPv6",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "eu-west-3"
+  },
+  {
     "ip_address": "2a05:d022:1c::/48",
     "ip_type": "IPv6",
     "service": "WORKSPACES_GATEWAYS",

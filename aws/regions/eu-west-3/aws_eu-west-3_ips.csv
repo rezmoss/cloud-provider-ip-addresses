@@ -199,6 +199,7 @@ ip_address,ip_type,service,region
 2a05:d079:2000::/40,IPv6,S3,eu-west-3
 2a05:d070:2000::/40,IPv6,S3,eu-west-3
 2a05:d078:2000::/40,IPv6,S3,eu-west-3
+2a05:d032:2000::/40,IPv6,WORKSPACES_GATEWAYS,eu-west-3
 2a05:d022:1c::/48,IPv6,WORKSPACES_GATEWAYS,eu-west-3
 2a05:d074:2000::/40,IPv6,EC2,eu-west-3
 2a05:d077:2000::/40,IPv6,EC2,eu-west-3
