@@ -1,2 +1,3 @@
 ip_address,ip_type,service,region
 99.77.128.0/18,IPv4,CHIME_MEETINGS,GLOBAL
+2600:f0f0:4100::/40,IPv6,CHIME_MEETINGS,GLOBAL

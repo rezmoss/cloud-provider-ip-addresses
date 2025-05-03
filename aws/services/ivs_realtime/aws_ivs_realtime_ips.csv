@@ -66,7 +66,6 @@ ip_address,ip_type,service,region
 2600:f0f0:552c::/48,IPv6,IVS_REALTIME,me-south-1
 2600:f0f0:551c::/48,IPv6,IVS_REALTIME,us-east-1
 2600:f0f0:5530::/48,IPv6,IVS_REALTIME,me-central-1
-2600:f0f0:11ff::/48,IPv6,IVS_REALTIME,us-west-2
 2600:f0f0:553a::/48,IPv6,IVS_REALTIME,ap-south-1
 2600:f0f0:552f::/48,IPv6,IVS_REALTIME,me-south-1
 2600:f0f0:551d::/48,IPv6,IVS_REALTIME,us-east-1

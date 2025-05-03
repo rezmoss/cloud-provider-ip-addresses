@@ -7,3 +7,4 @@ CREATE TABLE IF NOT EXISTS `aws_chime_meetings_ips` (
 );
 
 INSERT INTO `aws_chime_meetings_ips` (`ip_address`, `ip_type`) VALUES ('99.77.128.0/18', 'IPv4');
+INSERT INTO `aws_chime_meetings_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f0:4100::/40', 'IPv6');

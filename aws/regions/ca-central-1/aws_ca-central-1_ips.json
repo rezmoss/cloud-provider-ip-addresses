@@ -180,6 +180,12 @@
     "region": "ca-central-1"
   },
   {
+    "ip_address": "35.96.22.0/23",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ca-central-1"
+  },
+  {
     "ip_address": "99.151.128.0/21",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -649,6 +655,12 @@
   },
   {
     "ip_address": "173.83.217.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "ca-central-1"
+  },
+  {
+    "ip_address": "35.96.22.0/23",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "ca-central-1"

@@ -2748,6 +2748,12 @@
     "region": "GLOBAL"
   },
   {
+    "ip_address": "2600:f0f0:4100::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "GLOBAL"
+  },
+  {
     "ip_address": "2600:9000:a310::/48",
     "ip_type": "IPv6",
     "service": "S3",
@@ -3075,6 +3081,12 @@
     "ip_address": "2600:9000:ab00::/40",
     "ip_type": "IPv6",
     "service": "GLOBALACCELERATOR",
+    "region": "GLOBAL"
+  },
+  {
+    "ip_address": "2600:f0f0:4100::/40",
+    "ip_type": "IPv6",
+    "service": "CHIME_MEETINGS",
     "region": "GLOBAL"
   }
 ]

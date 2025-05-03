@@ -960,6 +960,12 @@
     "region": "ap-southeast-1"
   },
   {
+    "ip_address": "35.96.26.0/23",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-east-2"
+  },
+  {
     "ip_address": "64.252.72.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -3132,6 +3138,12 @@
     "region": "ap-southeast-2"
   },
   {
+    "ip_address": "35.96.22.0/23",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "ca-central-1"
+  },
+  {
     "ip_address": "35.96.48.0/20",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -4278,10 +4290,22 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "13.162.0.0/16",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "ap-south-1"
+  },
+  {
     "ip_address": "18.182.0.0/16",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "ap-northeast-1"
+  },
+  {
+    "ip_address": "35.96.24.0/23",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "eu-west-2"
   },
   {
     "ip_address": "35.96.242.0/24",
@@ -5652,12 +5676,6 @@
     "region": "ap-south-1"
   },
   {
-    "ip_address": "35.96.5.0/24",
-    "ip_type": "IPv4",
-    "service": "EC2",
-    "region": "eu-central-1"
-  },
-  {
     "ip_address": "45.57.128.0/18",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -6594,12 +6612,6 @@
     "region": "ap-northeast-1"
   },
   {
-    "ip_address": "35.96.243.0/24",
-    "ip_type": "IPv4",
-    "service": "EC2",
-    "region": "eu-central-1"
-  },
-  {
     "ip_address": "52.94.249.160/28",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -7300,6 +7312,12 @@
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "us-east-1"
+  },
+  {
+    "ip_address": "35.96.20.0/23",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "eu-central-1"
   },
   {
     "ip_address": "52.95.251.0/24",
@@ -10180,12 +10198,6 @@
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "ap-southeast-1"
-  },
-  {
-    "ip_address": "2600:f0f0:11ff::/48",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "us-west-2"
   },
   {
     "ip_address": "2600:f0fb:ef00::/40",

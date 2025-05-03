@@ -4,5 +4,11 @@
     "ip_type": "IPv4",
     "service": "CHIME_MEETINGS",
     "region": "GLOBAL"
+  },
+  {
+    "ip_address": "2600:f0f0:4100::/40",
+    "ip_type": "IPv6",
+    "service": "CHIME_MEETINGS",
+    "region": "GLOBAL"
   }
 ]
