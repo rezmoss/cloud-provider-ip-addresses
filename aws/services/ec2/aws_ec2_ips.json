@@ -1884,12 +1884,6 @@
     "region": "us-west-2"
   },
   {
-    "ip_address": "168.185.5.0/24",
-    "ip_type": "IPv4",
-    "service": "EC2",
-    "region": "us-east-2"
-  },
-  {
     "ip_address": "3.5.252.0/22",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -3088,6 +3082,12 @@
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "us-east-2"
+  },
+  {
+    "ip_address": "16.65.0.0/16",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-gov-east-1"
   },
   {
     "ip_address": "18.97.80.0/20",

@@ -1062,7 +1062,6 @@ ip_address,ip_type,service,region
 150.222.54.0/27,IPv4,AMAZON,eusc-de-east-1
 150.222.234.6/31,IPv4,AMAZON,us-west-1
 155.146.128.0/20,IPv4,AMAZON,us-west-2
-168.185.5.0/24,IPv4,AMAZON,us-east-2
 3.5.252.0/22,IPv4,AMAZON,ca-central-1
 15.193.164.0/22,IPv4,AMAZON,ap-southeast-2
 15.220.232.0/24,IPv4,AMAZON,ap-south-1

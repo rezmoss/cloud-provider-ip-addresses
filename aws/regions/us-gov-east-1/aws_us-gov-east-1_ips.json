@@ -276,6 +276,12 @@
     "region": "us-gov-east-1"
   },
   {
+    "ip_address": "16.65.0.0/16",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-gov-east-1"
+  },
+  {
     "ip_address": "18.252.0.0/16",
     "ip_type": "IPv4",
     "service": "EC2",
