@@ -3972,6 +3972,12 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "13.220.47.0/25",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "3.227.250.128/25",
     "ip_type": "IPv4",
     "service": "AMAZON",

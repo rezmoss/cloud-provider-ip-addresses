@@ -29604,6 +29604,12 @@
     "region": "mx-central-1"
   },
   {
+    "ip_address": "78.13.88.0/23",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "mx-central-1"
+  },
+  {
     "ip_address": "15.228.1.128/26",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -29707,6 +29713,12 @@
   },
   {
     "ip_address": "13.220.36.0/23",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "13.220.47.0/25",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "us-east-1"
@@ -33268,6 +33280,12 @@
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "ap-southeast-1"
+  },
+  {
+    "ip_address": "2600:f0f0:11ff::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-west-2"
   },
   {
     "ip_address": "2600:f0fb:ef00::/40",
