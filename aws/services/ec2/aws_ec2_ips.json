@@ -10200,12 +10200,6 @@
     "region": "ap-southeast-1"
   },
   {
-    "ip_address": "2600:f0f0:11ff::/48",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "us-west-2"
-  },
-  {
     "ip_address": "2600:f0fb:ef00::/40",
     "ip_type": "IPv6",
     "service": "EC2",

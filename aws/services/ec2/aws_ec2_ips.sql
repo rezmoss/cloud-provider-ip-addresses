@@ -1706,7 +1706,6 @@ INSERT INTO `aws_ec2_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f36:5000::/40
 INSERT INTO `aws_ec2_ips` (`ip_address`, `ip_type`) VALUES ('2600:f00e:400::/40', 'IPv6');
 INSERT INTO `aws_ec2_ips` (`ip_address`, `ip_type`) VALUES ('2600:f00f::/40', 'IPv6');
 INSERT INTO `aws_ec2_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f0:1:1300::/56', 'IPv6');
-INSERT INTO `aws_ec2_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f0:11ff::/48', 'IPv6');
 INSERT INTO `aws_ec2_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0fb:ef00::/40', 'IPv6');
 INSERT INTO `aws_ec2_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f12::/36', 'IPv6');
 INSERT INTO `aws_ec2_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f0:1:fe00::/56', 'IPv6');

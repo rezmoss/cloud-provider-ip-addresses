@@ -9152,7 +9152,6 @@ ip_address,ip_type,service,region
 2600:f00e:400::/40,IPv6,AMAZON,eu-south-2
 2600:f00f::/40,IPv6,AMAZON,ap-northeast-1
 2600:f0f0:1:1300::/56,IPv6,AMAZON,ap-southeast-1
-2600:f0f0:11ff::/48,IPv6,AMAZON,us-west-2
 2600:f0fb:ef00::/40,IPv6,AMAZON,us-west-2
 2600:1f12::/36,IPv6,AMAZON,us-gov-west-1
 2600:f0f0:1:fe00::/56,IPv6,AMAZON,us-west-2
@@ -10837,7 +10836,6 @@ ip_address,ip_type,service,region
 2600:f0f0:552c::/48,IPv6,IVS_REALTIME,me-south-1
 2600:f0f0:551c::/48,IPv6,IVS_REALTIME,us-east-1
 2600:f0f0:5530::/48,IPv6,IVS_REALTIME,me-central-1
-2600:f0f0:11ff::/48,IPv6,IVS_REALTIME,us-west-2
 2600:f0f0:553a::/48,IPv6,IVS_REALTIME,ap-south-1
 2600:f0f0:552f::/48,IPv6,IVS_REALTIME,me-south-1
 2600:f0f0:551d::/48,IPv6,IVS_REALTIME,us-east-1
@@ -11263,7 +11261,6 @@ ip_address,ip_type,service,region
 2600:f00e:400::/40,IPv6,EC2,eu-south-2
 2600:f00f::/40,IPv6,EC2,ap-northeast-1
 2600:f0f0:1:1300::/56,IPv6,EC2,ap-southeast-1
-2600:f0f0:11ff::/48,IPv6,EC2,us-west-2
 2600:f0fb:ef00::/40,IPv6,EC2,us-west-2
 2600:1f12::/36,IPv6,EC2,us-gov-west-1
 2600:f0f0:1:fe00::/56,IPv6,EC2,us-west-2
