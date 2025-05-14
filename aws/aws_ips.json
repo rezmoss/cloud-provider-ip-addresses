@@ -16440,12 +16440,6 @@
     "region": "us-east-2"
   },
   {
-    "ip_address": "35.96.247.0/24",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "ca-central-1"
-  },
-  {
     "ip_address": "52.29.0.0/16",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -38230,12 +38224,6 @@
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "us-east-2"
-  },
-  {
-    "ip_address": "35.96.247.0/24",
-    "ip_type": "IPv4",
-    "service": "EC2",
-    "region": "ca-central-1"
   },
   {
     "ip_address": "52.29.0.0/16",
