@@ -318,6 +318,12 @@
     "region": "us-west-2"
   },
   {
+    "ip_address": "35.55.127.0/24",
+    "ip_type": "IPv4",
+    "service": "IVS_REALTIME",
+    "region": "us-west-2"
+  },
+  {
     "ip_address": "2600:f0f0:5536::/48",
     "ip_type": "IPv6",
     "service": "IVS_REALTIME",
