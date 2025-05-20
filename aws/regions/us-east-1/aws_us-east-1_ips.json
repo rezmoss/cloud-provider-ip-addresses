@@ -7212,6 +7212,12 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "2600:f0f0:4100::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "2606:f40:fffe::/48",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -8316,6 +8322,12 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "2600:f0f0:4100::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "2606:f40:fffe::/48",
     "ip_type": "IPv6",
     "service": "EC2",
@@ -9057,6 +9069,12 @@
     "ip_address": "2600:1f01:4804::/47",
     "ip_type": "IPv6",
     "service": "GLOBALACCELERATOR",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "2600:f0f0:4100::/40",
+    "ip_type": "IPv6",
+    "service": "CHIME_MEETINGS",
     "region": "us-east-1"
   },
   {
