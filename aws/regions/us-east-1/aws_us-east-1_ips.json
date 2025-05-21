@@ -516,6 +516,12 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "198.41.96.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "52.144.192.0/26",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -1536,6 +1542,12 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "198.41.102.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "15.230.254.0/31",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -1585,6 +1597,12 @@
   },
   {
     "ip_address": "161.188.16.0/20",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "198.41.98.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "us-east-1"
@@ -2478,6 +2496,12 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "198.41.97.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "205.251.225.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -3126,6 +3150,12 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "198.41.101.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "142.4.178.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -3313,6 +3343,12 @@
   },
   {
     "ip_address": "150.222.15.127/32",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "198.41.100.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "us-east-1"
@@ -3571,6 +3607,12 @@
   },
   {
     "ip_address": "15.181.240.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "198.41.99.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "us-east-1"
@@ -4560,6 +4602,12 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "198.41.96.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "67.202.0.0/18",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -4920,6 +4968,12 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "198.41.102.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "54.25.14.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -4945,6 +4999,12 @@
   },
   {
     "ip_address": "161.188.16.0/20",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "198.41.98.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "us-east-1"
@@ -5304,6 +5364,12 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "198.41.97.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "15.181.192.0/19",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -5526,6 +5592,12 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "198.41.101.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "142.4.178.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -5604,6 +5676,12 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "198.41.100.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "204.87.185.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -5659,6 +5737,12 @@
   },
   {
     "ip_address": "15.181.240.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "198.41.99.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "us-east-1"
@@ -9081,6 +9165,12 @@
     "ip_address": "2600:1f18:6fe3:8c00::/56",
     "ip_type": "IPv6",
     "service": "EC2_INSTANCE_CONNECT",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "2600:1f18:692c:300::/56",
+    "ip_type": "IPv6",
+    "service": "AURORA_DSQL",
     "region": "us-east-1"
   }
 ]

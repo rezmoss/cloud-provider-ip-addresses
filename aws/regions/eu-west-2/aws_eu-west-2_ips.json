@@ -2656,5 +2656,11 @@
     "ip_type": "IPv6",
     "service": "EC2_INSTANCE_CONNECT",
     "region": "eu-west-2"
+  },
+  {
+    "ip_address": "2a05:d01c:d06:1800::/56",
+    "ip_type": "IPv6",
+    "service": "AURORA_DSQL",
+    "region": "eu-west-2"
   }
 ]

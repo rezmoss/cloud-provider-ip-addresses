@@ -1354,5 +1354,11 @@
     "ip_type": "IPv6",
     "service": "EC2_INSTANCE_CONNECT",
     "region": "eu-west-3"
+  },
+  {
+    "ip_address": "2a05:d012:610:d500::/56",
+    "ip_type": "IPv6",
+    "service": "AURORA_DSQL",
+    "region": "eu-west-3"
   }
 ]

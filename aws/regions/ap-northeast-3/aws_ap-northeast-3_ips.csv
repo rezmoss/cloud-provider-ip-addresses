@@ -210,3 +210,4 @@ ip_address,ip_type,service,region
 2406:da00:6000::/40,IPv6,EC2,ap-northeast-3
 2600:1f01:48e2::/47,IPv6,GLOBALACCELERATOR,ap-northeast-3
 2406:da16:856:a500::/56,IPv6,EC2_INSTANCE_CONNECT,ap-northeast-3
+2406:da16:c46:6600::/56,IPv6,AURORA_DSQL,ap-northeast-3

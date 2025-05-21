@@ -24,6 +24,12 @@
     "region": "me-south-1"
   },
   {
+    "ip_address": "35.55.126.0/24",
+    "ip_type": "IPv4",
+    "service": "IVS_REALTIME",
+    "region": "us-west-2"
+  },
+  {
     "ip_address": "35.50.229.0/24",
     "ip_type": "IPv4",
     "service": "IVS_REALTIME",
@@ -312,6 +318,12 @@
     "region": "us-west-2"
   },
   {
+    "ip_address": "35.55.127.0/24",
+    "ip_type": "IPv4",
+    "service": "IVS_REALTIME",
+    "region": "us-west-2"
+  },
+  {
     "ip_address": "2600:f0f0:5536::/48",
     "ip_type": "IPv6",
     "service": "IVS_REALTIME",
@@ -334,6 +346,12 @@
     "ip_type": "IPv6",
     "service": "IVS_REALTIME",
     "region": "eu-west-1"
+  },
+  {
+    "ip_address": "2600:f0f0:11fe::/48",
+    "ip_type": "IPv6",
+    "service": "IVS_REALTIME",
+    "region": "us-west-2"
   },
   {
     "ip_address": "2600:f0f0:e01::/48",
@@ -406,6 +424,12 @@
     "ip_type": "IPv6",
     "service": "IVS_REALTIME",
     "region": "me-central-1"
+  },
+  {
+    "ip_address": "2600:f0f0:11ff::/48",
+    "ip_type": "IPv6",
+    "service": "IVS_REALTIME",
+    "region": "us-west-2"
   },
   {
     "ip_address": "2600:f0f0:553a::/48",

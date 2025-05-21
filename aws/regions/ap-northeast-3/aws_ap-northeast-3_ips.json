@@ -1264,5 +1264,11 @@
     "ip_type": "IPv6",
     "service": "EC2_INSTANCE_CONNECT",
     "region": "ap-northeast-3"
+  },
+  {
+    "ip_address": "2406:da16:c46:6600::/56",
+    "ip_type": "IPv6",
+    "service": "AURORA_DSQL",
+    "region": "ap-northeast-3"
   }
 ]

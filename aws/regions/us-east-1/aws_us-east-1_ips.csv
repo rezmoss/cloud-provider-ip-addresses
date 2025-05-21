@@ -85,6 +85,7 @@ ip_address,ip_type,service,region
 104.255.56.24/32,IPv4,AMAZON,us-east-1
 150.222.24.37/32,IPv4,AMAZON,us-east-1
 155.146.192.0/20,IPv4,AMAZON,us-east-1
+198.41.96.0/24,IPv4,AMAZON,us-east-1
 52.144.192.0/26,IPv4,AMAZON,us-east-1
 67.202.0.0/18,IPv4,AMAZON,us-east-1
 18.34.0.0/19,IPv4,AMAZON,us-east-1
@@ -255,6 +256,7 @@ ip_address,ip_type,service,region
 13.130.0.0/16,IPv4,AMAZON,us-east-1
 52.93.50.0/24,IPv4,AMAZON,us-east-1
 52.93.127.221/32,IPv4,AMAZON,us-east-1
+198.41.102.0/24,IPv4,AMAZON,us-east-1
 15.230.254.0/31,IPv4,AMAZON,us-east-1
 52.144.195.0/26,IPv4,AMAZON,us-east-1
 54.25.14.0/24,IPv4,AMAZON,us-east-1
@@ -264,6 +266,7 @@ ip_address,ip_type,service,region
 139.56.26.0/23,IPv4,AMAZON,us-east-1
 96.0.100.0/23,IPv4,AMAZON,us-east-1
 161.188.16.0/20,IPv4,AMAZON,us-east-1
+198.41.98.0/24,IPv4,AMAZON,us-east-1
 63.246.119.0/24,IPv4,AMAZON,us-east-1
 155.146.208.0/20,IPv4,AMAZON,us-east-1
 50.19.0.0/16,IPv4,AMAZON,us-east-1
@@ -412,6 +415,7 @@ ip_address,ip_type,service,region
 13.248.108.0/24,IPv4,AMAZON,us-east-1
 52.95.108.0/23,IPv4,AMAZON,us-east-1
 52.144.193.0/26,IPv4,AMAZON,us-east-1
+198.41.97.0/24,IPv4,AMAZON,us-east-1
 205.251.225.0/24,IPv4,AMAZON,us-east-1
 15.181.192.0/19,IPv4,AMAZON,us-east-1
 52.93.88.193/32,IPv4,AMAZON,us-east-1
@@ -520,6 +524,7 @@ ip_address,ip_type,service,region
 139.56.22.0/23,IPv4,AMAZON,us-east-1
 15.230.206.0/24,IPv4,AMAZON,us-east-1
 161.193.0.0/18,IPv4,AMAZON,us-east-1
+198.41.101.0/24,IPv4,AMAZON,us-east-1
 142.4.178.0/24,IPv4,AMAZON,us-east-1
 52.93.90.195/32,IPv4,AMAZON,us-east-1
 3.208.0.0/12,IPv4,AMAZON,us-east-1
@@ -552,6 +557,7 @@ ip_address,ip_type,service,region
 96.0.104.0/22,IPv4,AMAZON,us-east-1
 52.93.90.162/32,IPv4,AMAZON,us-east-1
 150.222.15.127/32,IPv4,AMAZON,us-east-1
+198.41.100.0/24,IPv4,AMAZON,us-east-1
 52.93.51.0/24,IPv4,AMAZON,us-east-1
 136.18.33.0/24,IPv4,AMAZON,us-east-1
 204.87.185.0/24,IPv4,AMAZON,us-east-1
@@ -595,6 +601,7 @@ ip_address,ip_type,service,region
 150.222.76.0/24,IPv4,AMAZON,us-east-1
 13.248.116.0/24,IPv4,AMAZON,us-east-1
 15.181.240.0/24,IPv4,AMAZON,us-east-1
+198.41.99.0/24,IPv4,AMAZON,us-east-1
 52.93.76.0/24,IPv4,AMAZON,us-east-1
 52.93.91.99/32,IPv4,AMAZON,us-east-1
 192.43.175.0/24,IPv4,AMAZON,us-east-1
@@ -759,6 +766,7 @@ ip_address,ip_type,service,region
 75.101.128.0/17,IPv4,EC2,us-east-1
 96.0.16.0/21,IPv4,EC2,us-east-1
 155.146.192.0/20,IPv4,EC2,us-east-1
+198.41.96.0/24,IPv4,EC2,us-east-1
 67.202.0.0/18,IPv4,EC2,us-east-1
 18.34.0.0/19,IPv4,EC2,us-east-1
 54.226.0.0/15,IPv4,EC2,us-east-1
@@ -819,11 +827,13 @@ ip_address,ip_type,service,region
 96.0.88.0/22,IPv4,EC2,us-east-1
 136.18.50.0/23,IPv4,EC2,us-east-1
 13.130.0.0/16,IPv4,EC2,us-east-1
+198.41.102.0/24,IPv4,EC2,us-east-1
 54.25.14.0/24,IPv4,EC2,us-east-1
 139.56.28.0/23,IPv4,EC2,us-east-1
 139.56.26.0/23,IPv4,EC2,us-east-1
 96.0.100.0/23,IPv4,EC2,us-east-1
 161.188.16.0/20,IPv4,EC2,us-east-1
+198.41.98.0/24,IPv4,EC2,us-east-1
 63.246.119.0/24,IPv4,EC2,us-east-1
 155.146.208.0/20,IPv4,EC2,us-east-1
 50.19.0.0/16,IPv4,EC2,us-east-1
@@ -883,6 +893,7 @@ ip_address,ip_type,service,region
 52.2.0.0/15,IPv4,EC2,us-east-1
 155.146.64.0/20,IPv4,EC2,us-east-1
 184.72.64.0/18,IPv4,EC2,us-east-1
+198.41.97.0/24,IPv4,EC2,us-east-1
 15.181.192.0/19,IPv4,EC2,us-east-1
 216.182.232.0/22,IPv4,EC2,us-east-1
 16.56.0.0/18,IPv4,EC2,us-east-1
@@ -920,6 +931,7 @@ ip_address,ip_type,service,region
 15.181.249.0/24,IPv4,EC2,us-east-1
 139.56.22.0/23,IPv4,EC2,us-east-1
 161.193.0.0/18,IPv4,EC2,us-east-1
+198.41.101.0/24,IPv4,EC2,us-east-1
 142.4.178.0/24,IPv4,EC2,us-east-1
 3.208.0.0/12,IPv4,EC2,us-east-1
 161.178.0.0/18,IPv4,EC2,us-east-1
@@ -933,6 +945,7 @@ ip_address,ip_type,service,region
 155.146.96.0/20,IPv4,EC2,us-east-1
 54.239.103.128/26,IPv4,EC2,us-east-1
 96.0.104.0/22,IPv4,EC2,us-east-1
+198.41.100.0/24,IPv4,EC2,us-east-1
 204.87.185.0/24,IPv4,EC2,us-east-1
 64.252.67.0/24,IPv4,EC2,us-east-1
 54.198.0.0/16,IPv4,EC2,us-east-1
@@ -943,6 +956,7 @@ ip_address,ip_type,service,region
 72.41.0.0/20,IPv4,EC2,us-east-1
 54.210.0.0/15,IPv4,EC2,us-east-1
 15.181.240.0/24,IPv4,EC2,us-east-1
+198.41.99.0/24,IPv4,EC2,us-east-1
 192.43.175.0/24,IPv4,EC2,us-east-1
 100.24.0.0/13,IPv4,EC2,us-east-1
 139.56.30.0/23,IPv4,EC2,us-east-1
@@ -1513,3 +1527,4 @@ ip_address,ip_type,service,region
 2600:1f01:4804::/47,IPv6,GLOBALACCELERATOR,us-east-1
 2600:f0f0:4100::/40,IPv6,CHIME_MEETINGS,us-east-1
 2600:1f18:6fe3:8c00::/56,IPv6,EC2_INSTANCE_CONNECT,us-east-1
+2600:1f18:692c:300::/56,IPv6,AURORA_DSQL,us-east-1

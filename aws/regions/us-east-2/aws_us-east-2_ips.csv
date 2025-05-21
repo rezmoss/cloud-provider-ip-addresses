@@ -279,6 +279,7 @@ ip_address,ip_type,service,region
 108.166.244.8/32,IPv4,AMAZON,us-east-2
 15.230.39.80/31,IPv4,AMAZON,us-east-2
 52.219.224.0/22,IPv4,AMAZON,us-east-2
+198.41.103.0/24,IPv4,AMAZON,us-east-2
 15.230.39.144/31,IPv4,AMAZON,us-east-2
 198.99.2.0/24,IPv4,AMAZON,us-east-2
 52.93.199.46/32,IPv4,AMAZON,us-east-2
@@ -438,6 +439,7 @@ ip_address,ip_type,service,region
 3.14.0.0/15,IPv4,EC2,us-east-2
 168.185.6.0/24,IPv4,EC2,us-east-2
 35.50.142.0/24,IPv4,EC2,us-east-2
+198.41.103.0/24,IPv4,EC2,us-east-2
 198.99.2.0/24,IPv4,EC2,us-east-2
 192.189.197.0/24,IPv4,EC2,us-east-2
 3.20.0.0/14,IPv4,EC2,us-east-2
@@ -622,3 +624,4 @@ ip_address,ip_type,service,region
 2606:f40:8800::/40,IPv6,EC2,us-east-2
 2600:1f01:4844::/47,IPv6,GLOBALACCELERATOR,us-east-2
 2600:1f16:138f:cf00::/56,IPv6,EC2_INSTANCE_CONNECT,us-east-2
+2600:1f16:1ccb:8100::/56,IPv6,AURORA_DSQL,us-east-2

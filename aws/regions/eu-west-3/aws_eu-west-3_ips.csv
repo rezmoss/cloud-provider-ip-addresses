@@ -225,3 +225,4 @@ ip_address,ip_type,service,region
 2a05:d072:2000::/40,IPv6,EC2,eu-west-3
 2600:1f01:4810::/47,IPv6,GLOBALACCELERATOR,eu-west-3
 2a05:d012:c9e:d600::/56,IPv6,EC2_INSTANCE_CONNECT,eu-west-3
+2a05:d012:610:d500::/56,IPv6,AURORA_DSQL,eu-west-3
