@@ -864,6 +864,24 @@
     "region": "eu-west-3"
   },
   {
+    "ip_address": "51.44.234.0/23",
+    "ip_type": "IPv4",
+    "service": "CLOUDFRONT",
+    "region": "eu-west-3"
+  },
+  {
+    "ip_address": "51.44.236.0/23",
+    "ip_type": "IPv4",
+    "service": "CLOUDFRONT",
+    "region": "eu-west-3"
+  },
+  {
+    "ip_address": "51.44.238.0/23",
+    "ip_type": "IPv4",
+    "service": "CLOUDFRONT",
+    "region": "eu-west-3"
+  },
+  {
     "ip_address": "52.47.139.0/24",
     "ip_type": "IPv4",
     "service": "CLOUDFRONT",

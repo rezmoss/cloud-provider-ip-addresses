@@ -278,6 +278,7 @@ ip_address,ip_type,service,region
 2406:da36:c000::/40,IPv6,AMAZON,ap-southeast-2
 2600:f0fb:f027::/48,IPv6,AMAZON,ap-southeast-2
 2600:1ffd:85e8::/48,IPv6,AMAZON,ap-southeast-2
+2406:daed:c000::/40,IPv6,AMAZON,ap-southeast-2
 2406:daf7:c000::/40,IPv6,AMAZON,ap-southeast-2
 2600:1ffd:85c0::/48,IPv6,AMAZON,ap-southeast-2
 2406:da68:c000::/40,IPv6,AMAZON,ap-southeast-2
@@ -311,6 +312,7 @@ ip_address,ip_type,service,region
 2406:da1c:fff:f800::/56,IPv6,ROUTE53_HEALTHCHECKS,ap-southeast-2
 2406:daf8:c000::/40,IPv6,S3,ap-southeast-2
 2406:da60:c000::/40,IPv6,S3,ap-southeast-2
+2406:daed:c000::/40,IPv6,S3,ap-southeast-2
 2406:da68:c000::/40,IPv6,S3,ap-southeast-2
 2406:daf0:c000::/40,IPv6,S3,ap-southeast-2
 2406:daf9:c000::/40,IPv6,S3,ap-southeast-2
@@ -332,6 +334,7 @@ ip_address,ip_type,service,region
 2406:da36:c000::/40,IPv6,EC2,ap-southeast-2
 2600:f0fb:f027::/48,IPv6,EC2,ap-southeast-2
 2600:1ffd:85e8::/48,IPv6,EC2,ap-southeast-2
+2406:daed:c000::/40,IPv6,EC2,ap-southeast-2
 2406:daf7:c000::/40,IPv6,EC2,ap-southeast-2
 2600:1ffd:85c0::/48,IPv6,EC2,ap-southeast-2
 2406:da68:c000::/40,IPv6,EC2,ap-southeast-2

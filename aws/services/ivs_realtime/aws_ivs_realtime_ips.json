@@ -270,6 +270,12 @@
     "region": "ap-southeast-1"
   },
   {
+    "ip_address": "35.55.37.0/24",
+    "ip_type": "IPv4",
+    "service": "IVS_REALTIME",
+    "region": "us-west-2"
+  },
+  {
     "ip_address": "192.16.64.0/21",
     "ip_type": "IPv4",
     "service": "IVS_REALTIME",
@@ -544,6 +550,12 @@
     "ip_type": "IPv6",
     "service": "IVS_REALTIME",
     "region": "ap-northeast-2"
+  },
+  {
+    "ip_address": "2600:f0f0:1124::/48",
+    "ip_type": "IPv6",
+    "service": "IVS_REALTIME",
+    "region": "us-west-2"
   },
   {
     "ip_address": "2600:f0f0:5520::/48",

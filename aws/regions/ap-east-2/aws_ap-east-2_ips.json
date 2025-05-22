@@ -348,6 +348,12 @@
     "region": "ap-east-2"
   },
   {
+    "ip_address": "2406:dab9:c800::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-east-2"
+  },
+  {
     "ip_address": "2406:daf0:c800::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -391,6 +397,12 @@
   },
   {
     "ip_address": "2406:daf6:c800::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-east-2"
+  },
+  {
+    "ip_address": "2406:daed:c800::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "ap-east-2"
@@ -486,6 +498,12 @@
     "region": "ap-east-2"
   },
   {
+    "ip_address": "2406:daed:c800::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "ap-east-2"
+  },
+  {
     "ip_address": "2406:daa0:c800::/40",
     "ip_type": "IPv6",
     "service": "S3",
@@ -528,6 +546,12 @@
     "region": "ap-east-2"
   },
   {
+    "ip_address": "2406:dab9:c800::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-east-2"
+  },
+  {
     "ip_address": "2406:daf0:c800::/40",
     "ip_type": "IPv6",
     "service": "EC2",
@@ -565,6 +589,12 @@
   },
   {
     "ip_address": "2406:daf6:c800::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-east-2"
+  },
+  {
+    "ip_address": "2406:daed:c800::/40",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "ap-east-2"

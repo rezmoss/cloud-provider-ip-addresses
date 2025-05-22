@@ -672,6 +672,24 @@
     "region": "eu-west-3"
   },
   {
+    "ip_address": "51.44.234.0/23",
+    "ip_type": "IPv4",
+    "service": "CLOUDFRONT",
+    "region": "eu-west-3"
+  },
+  {
+    "ip_address": "51.44.236.0/23",
+    "ip_type": "IPv4",
+    "service": "CLOUDFRONT",
+    "region": "eu-west-3"
+  },
+  {
+    "ip_address": "51.44.238.0/23",
+    "ip_type": "IPv4",
+    "service": "CLOUDFRONT",
+    "region": "eu-west-3"
+  },
+  {
     "ip_address": "52.47.139.0/24",
     "ip_type": "IPv4",
     "service": "CLOUDFRONT",
@@ -906,6 +924,12 @@
     "region": "eu-west-3"
   },
   {
+    "ip_address": "18.98.66.128/25",
+    "ip_type": "IPv4",
+    "service": "AURORA_DSQL",
+    "region": "eu-west-3"
+  },
+  {
     "ip_address": "13.39.141.160/29",
     "ip_type": "IPv4",
     "service": "MEDIA_PACKAGE_V2",
@@ -1086,6 +1110,12 @@
     "region": "eu-west-3"
   },
   {
+    "ip_address": "2a05:d06d:2000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eu-west-3"
+  },
+  {
     "ip_address": "2a05:d07e:2000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -1105,6 +1135,12 @@
   },
   {
     "ip_address": "2a01:578:0:13::/64",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eu-west-3"
+  },
+  {
+    "ip_address": "2a05:d059:2000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "eu-west-3"
@@ -1195,6 +1231,12 @@
   },
   {
     "ip_address": "2a05:d078:2000::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "eu-west-3"
+  },
+  {
+    "ip_address": "2a05:d06d:2000::/40",
     "ip_type": "IPv6",
     "service": "S3",
     "region": "eu-west-3"
@@ -1314,6 +1356,12 @@
     "region": "eu-west-3"
   },
   {
+    "ip_address": "2a05:d06d:2000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eu-west-3"
+  },
+  {
     "ip_address": "2a05:d035:2000::/40",
     "ip_type": "IPv6",
     "service": "EC2",
@@ -1321,6 +1369,12 @@
   },
   {
     "ip_address": "2a05:d03a:2000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eu-west-3"
+  },
+  {
+    "ip_address": "2a05:d059:2000::/40",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "eu-west-3"

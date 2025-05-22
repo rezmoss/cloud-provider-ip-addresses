@@ -7104,6 +7104,12 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "18.97.33.128/25",
+    "ip_type": "IPv4",
+    "service": "AURORA_DSQL",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "44.216.41.152/29",
     "ip_type": "IPv4",
     "service": "MEDIA_PACKAGE_V2",
@@ -7291,12 +7297,6 @@
   },
   {
     "ip_address": "2600:f0f0:5519::/48",
-    "ip_type": "IPv6",
-    "service": "AMAZON",
-    "region": "us-east-1"
-  },
-  {
-    "ip_address": "2600:f0f0:4100::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "us-east-1"
@@ -7956,6 +7956,12 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "2600:1fed:8000::/39",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "2600:1ffd:8066::/48",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -8178,6 +8184,12 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "2600:1fb9:8000::/39",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "2600:f0f0:0:210::/62",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -8227,6 +8239,12 @@
   },
   {
     "ip_address": "2600:1f60:8000::/39",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "2600:1fed:8000::/39",
     "ip_type": "IPv6",
     "service": "S3",
     "region": "us-east-1"
@@ -8401,12 +8419,6 @@
   },
   {
     "ip_address": "2600:f0f0:5519::/48",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "us-east-1"
-  },
-  {
-    "ip_address": "2600:f0f0:4100::/40",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "us-east-1"
@@ -8946,6 +8958,12 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "2600:1fed:8000::/39",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "2600:1ffd:8066::/48",
     "ip_type": "IPv6",
     "service": "EC2",
@@ -9126,6 +9144,12 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "2600:1fb9:8000::/39",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "2600:f0f0:0:210::/62",
     "ip_type": "IPv6",
     "service": "EC2",
@@ -9153,12 +9177,6 @@
     "ip_address": "2600:1f01:4804::/47",
     "ip_type": "IPv6",
     "service": "GLOBALACCELERATOR",
-    "region": "us-east-1"
-  },
-  {
-    "ip_address": "2600:f0f0:4100::/40",
-    "ip_type": "IPv6",
-    "service": "CHIME_MEETINGS",
     "region": "us-east-1"
   },
   {
