@@ -27,3 +27,4 @@ INSERT INTO `aws_amazon_connect_ips` (`ip_address`, `ip_type`) VALUES ('35.158.1
 INSERT INTO `aws_amazon_connect_ips` (`ip_address`, `ip_type`) VALUES ('52.55.191.224/27', 'IPv4');
 INSERT INTO `aws_amazon_connect_ips` (`ip_address`, `ip_type`) VALUES ('18.236.61.0/25', 'IPv4');
 INSERT INTO `aws_amazon_connect_ips` (`ip_address`, `ip_type`) VALUES ('54.190.198.32/28', 'IPv4');
+INSERT INTO `aws_amazon_connect_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f2:7100::/40', 'IPv6');
