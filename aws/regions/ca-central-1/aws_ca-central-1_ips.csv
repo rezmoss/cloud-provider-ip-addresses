@@ -121,6 +121,7 @@ ip_address,ip_type,service,region
 15.177.84.0/24,IPv4,EC2,ca-central-1
 15.156.0.0/15,IPv4,EC2,ca-central-1
 52.95.250.0/24,IPv4,EC2,ca-central-1
+16.54.0.0/15,IPv4,EC2,ca-central-1
 161.193.128.0/18,IPv4,EC2,ca-central-1
 15.193.8.0/24,IPv4,EC2,ca-central-1
 99.77.150.0/24,IPv4,EC2,ca-central-1

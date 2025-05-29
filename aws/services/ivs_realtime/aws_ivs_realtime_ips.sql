@@ -42,12 +42,14 @@ INSERT INTO `aws_ivs_realtime_ips` (`ip_address`, `ip_type`) VALUES ('35.50.235.
 INSERT INTO `aws_ivs_realtime_ips` (`ip_address`, `ip_type`) VALUES ('35.50.128.0/24', 'IPv4');
 INSERT INTO `aws_ivs_realtime_ips` (`ip_address`, `ip_type`) VALUES ('35.50.135.0/24', 'IPv4');
 INSERT INTO `aws_ivs_realtime_ips` (`ip_address`, `ip_type`) VALUES ('23.160.0.0/24', 'IPv4');
+INSERT INTO `aws_ivs_realtime_ips` (`ip_address`, `ip_type`) VALUES ('35.55.42.0/24', 'IPv4');
 INSERT INTO `aws_ivs_realtime_ips` (`ip_address`, `ip_type`) VALUES ('35.55.40.0/24', 'IPv4');
 INSERT INTO `aws_ivs_realtime_ips` (`ip_address`, `ip_type`) VALUES ('35.50.193.0/24', 'IPv4');
 INSERT INTO `aws_ivs_realtime_ips` (`ip_address`, `ip_type`) VALUES ('35.50.228.0/24', 'IPv4');
 INSERT INTO `aws_ivs_realtime_ips` (`ip_address`, `ip_type`) VALUES ('35.50.195.0/24', 'IPv4');
 INSERT INTO `aws_ivs_realtime_ips` (`ip_address`, `ip_type`) VALUES ('35.50.224.0/24', 'IPv4');
 INSERT INTO `aws_ivs_realtime_ips` (`ip_address`, `ip_type`) VALUES ('35.50.196.0/24', 'IPv4');
+INSERT INTO `aws_ivs_realtime_ips` (`ip_address`, `ip_type`) VALUES ('35.55.41.0/24', 'IPv4');
 INSERT INTO `aws_ivs_realtime_ips` (`ip_address`, `ip_type`) VALUES ('35.50.232.0/24', 'IPv4');
 INSERT INTO `aws_ivs_realtime_ips` (`ip_address`, `ip_type`) VALUES ('35.50.144.0/24', 'IPv4');
 INSERT INTO `aws_ivs_realtime_ips` (`ip_address`, `ip_type`) VALUES ('35.50.142.0/24', 'IPv4');
@@ -103,6 +105,7 @@ INSERT INTO `aws_ivs_realtime_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f0:
 INSERT INTO `aws_ivs_realtime_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f0:5400::/48', 'IPv6');
 INSERT INTO `aws_ivs_realtime_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f0:1124::/48', 'IPv6');
 INSERT INTO `aws_ivs_realtime_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f0:5520::/48', 'IPv6');
+INSERT INTO `aws_ivs_realtime_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f0:1128::/48', 'IPv6');
 INSERT INTO `aws_ivs_realtime_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f0:5535::/48', 'IPv6');
 INSERT INTO `aws_ivs_realtime_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f0:552a::/48', 'IPv6');
 INSERT INTO `aws_ivs_realtime_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f0:1127::/48', 'IPv6');
@@ -114,6 +117,7 @@ INSERT INTO `aws_ivs_realtime_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f0:
 INSERT INTO `aws_ivs_realtime_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f0:551f::/48', 'IPv6');
 INSERT INTO `aws_ivs_realtime_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f0:5402::/48', 'IPv6');
 INSERT INTO `aws_ivs_realtime_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f0:553c::/48', 'IPv6');
+INSERT INTO `aws_ivs_realtime_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f0:1129::/48', 'IPv6');
 INSERT INTO `aws_ivs_realtime_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f0:5511::/48', 'IPv6');
 INSERT INTO `aws_ivs_realtime_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f0:551b::/48', 'IPv6');
 INSERT INTO `aws_ivs_realtime_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f0:5532::/48', 'IPv6');

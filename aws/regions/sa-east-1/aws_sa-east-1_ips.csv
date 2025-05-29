@@ -171,6 +171,7 @@ ip_address,ip_type,service,region
 64.252.78.0/24,IPv4,EC2,sa-east-1
 35.50.177.0/24,IPv4,EC2,sa-east-1
 173.83.213.0/24,IPv4,EC2,sa-east-1
+56.127.0.0/16,IPv4,EC2,sa-east-1
 15.177.88.0/24,IPv4,EC2,sa-east-1
 56.126.0.0/16,IPv4,EC2,sa-east-1
 52.94.248.48/28,IPv4,EC2,sa-east-1

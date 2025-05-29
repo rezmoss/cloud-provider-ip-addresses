@@ -732,6 +732,12 @@
     "region": "ca-central-1"
   },
   {
+    "ip_address": "16.54.0.0/15",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "ca-central-1"
+  },
+  {
     "ip_address": "161.193.128.0/18",
     "ip_type": "IPv4",
     "service": "EC2",

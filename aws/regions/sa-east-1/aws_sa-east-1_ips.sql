@@ -178,6 +178,7 @@ INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('99.151.112.0/
 INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('64.252.78.0/24', 'IPv4');
 INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('35.50.177.0/24', 'IPv4');
 INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('173.83.213.0/24', 'IPv4');
+INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('56.127.0.0/16', 'IPv4');
 INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('15.177.88.0/24', 'IPv4');
 INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('56.126.0.0/16', 'IPv4');
 INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('52.94.248.48/28', 'IPv4');
