@@ -228,6 +228,12 @@
     "region": "ca-west-1"
   },
   {
+    "ip_address": "35.96.28.0/23",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "35.96.240.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -745,6 +751,12 @@
   },
   {
     "ip_address": "3.5.160.0/22",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-west-1"
+  },
+  {
+    "ip_address": "35.96.30.0/23",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "us-west-1"
@@ -2088,6 +2100,12 @@
     "region": "ca-west-1"
   },
   {
+    "ip_address": "35.96.254.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-east-2"
+  },
+  {
     "ip_address": "54.112.0.0/18",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -3343,6 +3361,12 @@
   },
   {
     "ip_address": "198.41.98.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "35.96.253.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "us-east-1"
@@ -6514,6 +6538,12 @@
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "eu-west-1"
+  },
+  {
+    "ip_address": "35.96.255.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-west-1"
   },
   {
     "ip_address": "52.94.250.48/28",
