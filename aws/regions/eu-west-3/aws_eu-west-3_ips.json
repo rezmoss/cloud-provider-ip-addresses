@@ -228,6 +228,12 @@
     "region": "eu-west-3"
   },
   {
+    "ip_address": "35.55.23.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-west-3"
+  },
+  {
     "ip_address": "69.107.7.80/29",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -306,7 +312,19 @@
     "region": "eu-west-3"
   },
   {
+    "ip_address": "35.55.24.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-west-3"
+  },
+  {
     "ip_address": "150.222.39.128/26",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-west-3"
+  },
+  {
+    "ip_address": "35.55.22.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "eu-west-3"
@@ -534,6 +552,24 @@
     "region": "eu-west-3"
   },
   {
+    "ip_address": "35.55.23.0/24",
+    "ip_type": "IPv4",
+    "service": "IVS_REALTIME",
+    "region": "eu-west-3"
+  },
+  {
+    "ip_address": "35.55.24.0/24",
+    "ip_type": "IPv4",
+    "service": "IVS_REALTIME",
+    "region": "eu-west-3"
+  },
+  {
+    "ip_address": "35.55.22.0/24",
+    "ip_type": "IPv4",
+    "service": "IVS_REALTIME",
+    "region": "eu-west-3"
+  },
+  {
     "ip_address": "51.44.72.0/22",
     "ip_type": "IPv4",
     "service": "WORKSPACES_GATEWAYS",
@@ -600,6 +636,12 @@
     "region": "eu-west-3"
   },
   {
+    "ip_address": "35.55.23.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "eu-west-3"
+  },
+  {
     "ip_address": "15.236.0.0/15",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -625,6 +667,18 @@
   },
   {
     "ip_address": "18.98.64.0/19",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "eu-west-3"
+  },
+  {
+    "ip_address": "35.55.24.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "eu-west-3"
+  },
+  {
+    "ip_address": "35.55.22.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "eu-west-3"
@@ -1110,7 +1164,25 @@
     "region": "eu-west-3"
   },
   {
+    "ip_address": "2600:f0f0:1115::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eu-west-3"
+  },
+  {
+    "ip_address": "2600:f0f0:1117::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eu-west-3"
+  },
+  {
     "ip_address": "2a05:d070:2000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eu-west-3"
+  },
+  {
+    "ip_address": "2600:f0f0:1116::/48",
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "eu-west-3"
@@ -1260,6 +1332,24 @@
     "region": "eu-west-3"
   },
   {
+    "ip_address": "2600:f0f0:1115::/48",
+    "ip_type": "IPv6",
+    "service": "IVS_REALTIME",
+    "region": "eu-west-3"
+  },
+  {
+    "ip_address": "2600:f0f0:1117::/48",
+    "ip_type": "IPv6",
+    "service": "IVS_REALTIME",
+    "region": "eu-west-3"
+  },
+  {
+    "ip_address": "2600:f0f0:1116::/48",
+    "ip_type": "IPv6",
+    "service": "IVS_REALTIME",
+    "region": "eu-west-3"
+  },
+  {
     "ip_address": "2a05:d032:2000::/40",
     "ip_type": "IPv6",
     "service": "WORKSPACES_GATEWAYS",
@@ -1368,7 +1458,25 @@
     "region": "eu-west-3"
   },
   {
+    "ip_address": "2600:f0f0:1115::/48",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eu-west-3"
+  },
+  {
+    "ip_address": "2600:f0f0:1117::/48",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eu-west-3"
+  },
+  {
     "ip_address": "2a05:d070:2000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eu-west-3"
+  },
+  {
+    "ip_address": "2600:f0f0:1116::/48",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "eu-west-3"

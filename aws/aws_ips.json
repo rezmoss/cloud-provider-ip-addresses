@@ -3894,6 +3894,12 @@
     "region": "us-east-2"
   },
   {
+    "ip_address": "35.55.30.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "52.30.0.0/15",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -6562,6 +6568,12 @@
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "eu-central-1"
+  },
+  {
+    "ip_address": "35.55.26.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "sa-east-1"
   },
   {
     "ip_address": "52.93.125.43/32",
@@ -11298,6 +11310,12 @@
     "region": "eu-west-3"
   },
   {
+    "ip_address": "35.55.38.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-west-2"
+  },
+  {
     "ip_address": "52.93.126.137/32",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -14154,6 +14172,12 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "35.55.23.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-west-3"
+  },
+  {
     "ip_address": "52.93.127.246/32",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -14626,6 +14650,12 @@
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "eu-west-2"
+  },
+  {
+    "ip_address": "35.55.29.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-east-1"
   },
   {
     "ip_address": "52.70.0.0/15",
@@ -15228,6 +15258,12 @@
     "region": "us-east-2"
   },
   {
+    "ip_address": "35.55.19.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-west-1"
+  },
+  {
     "ip_address": "52.144.208.2/31",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -15334,6 +15370,12 @@
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "ap-southeast-1"
+  },
+  {
+    "ip_address": "35.55.27.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "sa-east-1"
   },
   {
     "ip_address": "35.71.68.0/22",
@@ -15964,6 +16006,12 @@
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "me-south-1"
+  },
+  {
+    "ip_address": "16.177.0.0/16",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-southeast-2"
   },
   {
     "ip_address": "35.55.40.0/24",
@@ -17292,6 +17340,12 @@
     "region": "ap-south-1"
   },
   {
+    "ip_address": "35.55.31.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "35.71.116.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -17506,6 +17560,12 @@
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "us-west-1"
+  },
+  {
+    "ip_address": "35.55.33.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-east-2"
   },
   {
     "ip_address": "52.93.47.0/24",
@@ -18151,6 +18211,12 @@
   },
   {
     "ip_address": "18.98.64.0/19",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-west-3"
+  },
+  {
+    "ip_address": "35.55.24.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "eu-west-3"
@@ -18864,6 +18930,12 @@
     "region": "eu-west-1"
   },
   {
+    "ip_address": "35.55.22.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-west-3"
+  },
+  {
     "ip_address": "51.86.0.0/15",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -19236,6 +19308,12 @@
     "region": "sa-east-1"
   },
   {
+    "ip_address": "16.178.0.0/15",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-southeast-2"
+  },
+  {
     "ip_address": "18.97.112.0/20",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -19554,6 +19632,12 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "35.55.25.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "sa-east-1"
+  },
+  {
     "ip_address": "35.72.0.0/13",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -19780,6 +19864,12 @@
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "ap-southeast-4"
+  },
+  {
+    "ip_address": "35.55.32.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-east-1"
   },
   {
     "ip_address": "52.93.88.194/32",
@@ -22182,6 +22272,12 @@
     "region": "ap-east-1"
   },
   {
+    "ip_address": "35.55.28.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "52.93.84.160/32",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -22372,6 +22468,12 @@
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "ap-northeast-2"
+  },
+  {
+    "ip_address": "35.55.16.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-central-1"
   },
   {
     "ip_address": "43.249.46.0/24",
@@ -27318,6 +27420,12 @@
     "region": "us-east-2"
   },
   {
+    "ip_address": "35.55.36.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-west-2"
+  },
+  {
     "ip_address": "52.93.127.176/32",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -27418,6 +27526,12 @@
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "us-gov-west-1"
+  },
+  {
+    "ip_address": "35.55.39.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-west-2"
   },
   {
     "ip_address": "52.82.188.0/22",
@@ -32808,6 +32922,12 @@
     "region": "us-west-2"
   },
   {
+    "ip_address": "35.55.30.0/24",
+    "ip_type": "IPv4",
+    "service": "IVS_REALTIME",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "35.50.227.0/24",
     "ip_type": "IPv4",
     "service": "IVS_REALTIME",
@@ -32842,6 +32962,12 @@
     "ip_type": "IPv4",
     "service": "IVS_REALTIME",
     "region": "me-south-1"
+  },
+  {
+    "ip_address": "35.55.26.0/24",
+    "ip_type": "IPv4",
+    "service": "IVS_REALTIME",
+    "region": "sa-east-1"
   },
   {
     "ip_address": "45.113.128.0/22",
@@ -32892,6 +33018,12 @@
     "region": "GLOBAL"
   },
   {
+    "ip_address": "35.55.38.0/24",
+    "ip_type": "IPv4",
+    "service": "IVS_REALTIME",
+    "region": "us-west-2"
+  },
+  {
     "ip_address": "103.53.48.0/22",
     "ip_type": "IPv4",
     "service": "IVS_REALTIME",
@@ -32940,10 +33072,22 @@
     "region": "us-west-2"
   },
   {
+    "ip_address": "35.55.23.0/24",
+    "ip_type": "IPv4",
+    "service": "IVS_REALTIME",
+    "region": "eu-west-3"
+  },
+  {
     "ip_address": "35.50.135.0/24",
     "ip_type": "IPv4",
     "service": "IVS_REALTIME",
     "region": "us-west-2"
+  },
+  {
+    "ip_address": "35.55.29.0/24",
+    "ip_type": "IPv4",
+    "service": "IVS_REALTIME",
+    "region": "us-east-1"
   },
   {
     "ip_address": "23.160.0.0/24",
@@ -32956,6 +33100,18 @@
     "ip_type": "IPv4",
     "service": "IVS_REALTIME",
     "region": "eu-north-1"
+  },
+  {
+    "ip_address": "35.55.19.0/24",
+    "ip_type": "IPv4",
+    "service": "IVS_REALTIME",
+    "region": "eu-west-1"
+  },
+  {
+    "ip_address": "35.55.27.0/24",
+    "ip_type": "IPv4",
+    "service": "IVS_REALTIME",
+    "region": "sa-east-1"
   },
   {
     "ip_address": "35.55.40.0/24",
@@ -32994,16 +33150,52 @@
     "region": "eu-west-1"
   },
   {
+    "ip_address": "35.55.31.0/24",
+    "ip_type": "IPv4",
+    "service": "IVS_REALTIME",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "35.55.33.0/24",
+    "ip_type": "IPv4",
+    "service": "IVS_REALTIME",
+    "region": "us-east-2"
+  },
+  {
+    "ip_address": "35.55.24.0/24",
+    "ip_type": "IPv4",
+    "service": "IVS_REALTIME",
+    "region": "eu-west-3"
+  },
+  {
     "ip_address": "35.55.41.0/24",
     "ip_type": "IPv4",
     "service": "IVS_REALTIME",
     "region": "eu-north-1"
   },
   {
+    "ip_address": "35.55.22.0/24",
+    "ip_type": "IPv4",
+    "service": "IVS_REALTIME",
+    "region": "eu-west-3"
+  },
+  {
     "ip_address": "35.50.232.0/24",
     "ip_type": "IPv4",
     "service": "IVS_REALTIME",
     "region": "ap-south-1"
+  },
+  {
+    "ip_address": "35.55.25.0/24",
+    "ip_type": "IPv4",
+    "service": "IVS_REALTIME",
+    "region": "sa-east-1"
+  },
+  {
+    "ip_address": "35.55.32.0/24",
+    "ip_type": "IPv4",
+    "service": "IVS_REALTIME",
+    "region": "us-east-1"
   },
   {
     "ip_address": "35.50.144.0/24",
@@ -33016,6 +33208,18 @@
     "ip_type": "IPv4",
     "service": "IVS_REALTIME",
     "region": "us-east-2"
+  },
+  {
+    "ip_address": "35.55.28.0/24",
+    "ip_type": "IPv4",
+    "service": "IVS_REALTIME",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "35.55.16.0/24",
+    "ip_type": "IPv4",
+    "service": "IVS_REALTIME",
+    "region": "eu-central-1"
   },
   {
     "ip_address": "35.50.234.0/24",
@@ -33073,6 +33277,18 @@
   },
   {
     "ip_address": "35.50.131.0/24",
+    "ip_type": "IPv4",
+    "service": "IVS_REALTIME",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "35.55.36.0/24",
+    "ip_type": "IPv4",
+    "service": "IVS_REALTIME",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "35.55.39.0/24",
     "ip_type": "IPv4",
     "service": "IVS_REALTIME",
     "region": "us-west-2"
@@ -34596,6 +34812,12 @@
     "region": "ap-southeast-6"
   },
   {
+    "ip_address": "35.55.30.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "52.30.0.0/15",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -35482,6 +35704,12 @@
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "eu-central-1"
+  },
+  {
+    "ip_address": "35.55.26.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "sa-east-1"
   },
   {
     "ip_address": "35.160.0.0/13",
@@ -36942,6 +37170,12 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "35.55.38.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-west-2"
+  },
+  {
     "ip_address": "206.72.209.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -37788,6 +38022,12 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "35.55.23.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "eu-west-3"
+  },
+  {
     "ip_address": "68.79.0.0/18",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -37956,6 +38196,12 @@
     "region": "eu-west-2"
   },
   {
+    "ip_address": "35.55.29.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "52.70.0.0/15",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -38106,6 +38352,12 @@
     "region": "us-west-2"
   },
   {
+    "ip_address": "35.55.19.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "eu-west-1"
+  },
+  {
     "ip_address": "54.46.0.0/17",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -38128,6 +38380,12 @@
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "ap-southeast-1"
+  },
+  {
+    "ip_address": "35.55.27.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "sa-east-1"
   },
   {
     "ip_address": "35.71.68.0/22",
@@ -38754,6 +39012,12 @@
     "region": "eu-central-1"
   },
   {
+    "ip_address": "35.55.31.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "35.71.116.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -38848,6 +39112,12 @@
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "us-west-2"
+  },
+  {
+    "ip_address": "35.55.33.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-east-2"
   },
   {
     "ip_address": "99.77.55.1/32",
@@ -38989,6 +39259,12 @@
   },
   {
     "ip_address": "18.98.64.0/19",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "eu-west-3"
+  },
+  {
+    "ip_address": "35.55.24.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "eu-west-3"
@@ -39216,6 +39492,12 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "35.55.22.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "eu-west-3"
+  },
+  {
     "ip_address": "54.194.0.0/15",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -39414,6 +39696,12 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "35.55.25.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "sa-east-1"
+  },
+  {
     "ip_address": "35.72.0.0/13",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -39454,6 +39742,12 @@
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "ap-southeast-4"
+  },
+  {
+    "ip_address": "35.55.32.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-east-1"
   },
   {
     "ip_address": "52.194.0.0/15",
@@ -40122,6 +40416,12 @@
     "region": "us-west-2"
   },
   {
+    "ip_address": "35.55.28.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "184.73.0.0/16",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -40174,6 +40474,12 @@
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "ap-northeast-1"
+  },
+  {
+    "ip_address": "35.55.16.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "eu-central-1"
   },
   {
     "ip_address": "52.94.249.160/28",
@@ -41580,6 +41886,12 @@
     "region": "us-west-2"
   },
   {
+    "ip_address": "35.55.36.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-west-2"
+  },
+  {
     "ip_address": "52.94.248.96/28",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -41620,6 +41932,12 @@
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "us-gov-west-1"
+  },
+  {
+    "ip_address": "35.55.39.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-west-2"
   },
   {
     "ip_address": "54.222.58.32/28",
@@ -52656,6 +52974,12 @@
     "region": "ap-northeast-1"
   },
   {
+    "ip_address": "2600:f0f0:1123::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-west-2"
+  },
+  {
     "ip_address": "2600:f0f0:552e::/48",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -52696,6 +53020,12 @@
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "mx-central-1"
+  },
+  {
+    "ip_address": "2600:f0f0:1112::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eu-west-1"
   },
   {
     "ip_address": "2600:f0fb:e100::/40",
@@ -52759,6 +53089,12 @@
   },
   {
     "ip_address": "2600:f0f0:1:fd00::/56",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "2600:f0f0:111c::/48",
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "us-east-1"
@@ -53988,6 +54324,12 @@
     "region": "mx-central-1"
   },
   {
+    "ip_address": "2600:f0f0:111e::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "2606:f40:fffe::/48",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -54064,6 +54406,18 @@
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "us-west-2"
+  },
+  {
+    "ip_address": "2600:f0f0:110f::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eu-central-1"
+  },
+  {
+    "ip_address": "2600:f0f0:1118::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "sa-east-1"
   },
   {
     "ip_address": "2606:7b40:1b0f:fa00::/56",
@@ -54430,6 +54784,12 @@
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "eu-west-1"
+  },
+  {
+    "ip_address": "2600:f0f0:111b::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-east-1"
   },
   {
     "ip_address": "2600:f0f0:5534::/48",
@@ -54976,6 +55336,12 @@
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "GLOBAL"
+  },
+  {
+    "ip_address": "2600:f0f0:111f::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-east-1"
   },
   {
     "ip_address": "2620:107:4000:4702::/64",
@@ -56116,6 +56482,12 @@
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "af-south-1"
+  },
+  {
+    "ip_address": "2600:f0f0:1125::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-west-2"
   },
   {
     "ip_address": "2600:f0f0:551d::/48",
@@ -58140,6 +58512,12 @@
     "region": "ap-southeast-5"
   },
   {
+    "ip_address": "2600:f0f0:1115::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eu-west-3"
+  },
+  {
     "ip_address": "2605:9cc0:1fff:fc00::/54",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -58626,6 +59004,12 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "2600:f0f0:1117::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eu-west-3"
+  },
+  {
     "ip_address": "2a05:d018::/35",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -58666,6 +59050,12 @@
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "us-west-2"
+  },
+  {
+    "ip_address": "2600:f0f0:1119::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "sa-east-1"
   },
   {
     "ip_address": "2606:f40:2800::/40",
@@ -59440,6 +59830,12 @@
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "us-west-1"
+  },
+  {
+    "ip_address": "2600:f0f0:1116::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eu-west-3"
   },
   {
     "ip_address": "2600:f0f0:1124::/48",
@@ -61170,6 +61566,12 @@
     "region": "us-east-2"
   },
   {
+    "ip_address": "2600:f0f0:1126::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-west-2"
+  },
+  {
     "ip_address": "2406:da10:8000::/36",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -62076,6 +62478,12 @@
     "region": "mx-central-1"
   },
   {
+    "ip_address": "2600:f0f0:1120::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-east-2"
+  },
+  {
     "ip_address": "2001:3fc7:c800::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -62446,6 +62854,12 @@
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "eu-west-2"
+  },
+  {
+    "ip_address": "2600:f0f0:111d::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-east-1"
   },
   {
     "ip_address": "2606:f40:9000::/39",
@@ -63568,6 +63982,12 @@
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "ap-southeast-5"
+  },
+  {
+    "ip_address": "2600:f0f0:111a::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "sa-east-1"
   },
   {
     "ip_address": "2a05:d036:b000::/40",
@@ -66198,10 +66618,28 @@
     "region": "sa-east-1"
   },
   {
+    "ip_address": "2600:f0f0:1123::/48",
+    "ip_type": "IPv6",
+    "service": "IVS_REALTIME",
+    "region": "us-west-2"
+  },
+  {
     "ip_address": "2600:f0f0:552e::/48",
     "ip_type": "IPv6",
     "service": "IVS_REALTIME",
     "region": "me-south-1"
+  },
+  {
+    "ip_address": "2600:f0f0:1112::/48",
+    "ip_type": "IPv6",
+    "service": "IVS_REALTIME",
+    "region": "eu-west-1"
+  },
+  {
+    "ip_address": "2600:f0f0:111c::/48",
+    "ip_type": "IPv6",
+    "service": "IVS_REALTIME",
+    "region": "us-east-1"
   },
   {
     "ip_address": "2600:f0f0:5527::/48",
@@ -66234,6 +66672,24 @@
     "region": "us-west-2"
   },
   {
+    "ip_address": "2600:f0f0:111e::/48",
+    "ip_type": "IPv6",
+    "service": "IVS_REALTIME",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "2600:f0f0:110f::/48",
+    "ip_type": "IPv6",
+    "service": "IVS_REALTIME",
+    "region": "eu-central-1"
+  },
+  {
+    "ip_address": "2600:f0f0:1118::/48",
+    "ip_type": "IPv6",
+    "service": "IVS_REALTIME",
+    "region": "sa-east-1"
+  },
+  {
     "ip_address": "2600:f0f0:5512::/48",
     "ip_type": "IPv6",
     "service": "IVS_REALTIME",
@@ -66244,6 +66700,12 @@
     "ip_type": "IPv6",
     "service": "IVS_REALTIME",
     "region": "eu-west-1"
+  },
+  {
+    "ip_address": "2600:f0f0:111b::/48",
+    "ip_type": "IPv6",
+    "service": "IVS_REALTIME",
+    "region": "us-east-1"
   },
   {
     "ip_address": "2600:f0f0:5534::/48",
@@ -66268,6 +66730,12 @@
     "ip_type": "IPv6",
     "service": "IVS_REALTIME",
     "region": "ap-northeast-3"
+  },
+  {
+    "ip_address": "2600:f0f0:111f::/48",
+    "ip_type": "IPv6",
+    "service": "IVS_REALTIME",
+    "region": "us-east-1"
   },
   {
     "ip_address": "2600:f0f0:552c::/48",
@@ -66304,6 +66772,12 @@
     "ip_type": "IPv6",
     "service": "IVS_REALTIME",
     "region": "me-south-1"
+  },
+  {
+    "ip_address": "2600:f0f0:1125::/48",
+    "ip_type": "IPv6",
+    "service": "IVS_REALTIME",
+    "region": "us-west-2"
   },
   {
     "ip_address": "2600:f0f0:551d::/48",
@@ -66384,6 +66858,12 @@
     "region": "ap-northeast-3"
   },
   {
+    "ip_address": "2600:f0f0:1115::/48",
+    "ip_type": "IPv6",
+    "service": "IVS_REALTIME",
+    "region": "eu-west-3"
+  },
+  {
     "ip_address": "2600:f0f0:e00::/48",
     "ip_type": "IPv6",
     "service": "IVS_REALTIME",
@@ -66396,6 +66876,18 @@
     "region": "me-south-1"
   },
   {
+    "ip_address": "2600:f0f0:1117::/48",
+    "ip_type": "IPv6",
+    "service": "IVS_REALTIME",
+    "region": "eu-west-3"
+  },
+  {
+    "ip_address": "2600:f0f0:1119::/48",
+    "ip_type": "IPv6",
+    "service": "IVS_REALTIME",
+    "region": "sa-east-1"
+  },
+  {
     "ip_address": "2600:f0f0:5517::/48",
     "ip_type": "IPv6",
     "service": "IVS_REALTIME",
@@ -66406,6 +66898,12 @@
     "ip_type": "IPv6",
     "service": "IVS_REALTIME",
     "region": "ap-northeast-2"
+  },
+  {
+    "ip_address": "2600:f0f0:1116::/48",
+    "ip_type": "IPv6",
+    "service": "IVS_REALTIME",
+    "region": "eu-west-3"
   },
   {
     "ip_address": "2600:f0f0:1124::/48",
@@ -66480,6 +66978,12 @@
     "region": "us-east-2"
   },
   {
+    "ip_address": "2600:f0f0:1126::/48",
+    "ip_type": "IPv6",
+    "service": "IVS_REALTIME",
+    "region": "us-west-2"
+  },
+  {
     "ip_address": "2600:f0f0:5402::/48",
     "ip_type": "IPv6",
     "service": "IVS_REALTIME",
@@ -66516,6 +67020,12 @@
     "region": "me-central-1"
   },
   {
+    "ip_address": "2600:f0f0:1120::/48",
+    "ip_type": "IPv6",
+    "service": "IVS_REALTIME",
+    "region": "us-east-2"
+  },
+  {
     "ip_address": "2600:f0f0:553e::/48",
     "ip_type": "IPv6",
     "service": "IVS_REALTIME",
@@ -66534,10 +67044,22 @@
     "region": "eu-central-1"
   },
   {
+    "ip_address": "2600:f0f0:111d::/48",
+    "ip_type": "IPv6",
+    "service": "IVS_REALTIME",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "2600:f0f0:553d::/48",
     "ip_type": "IPv6",
     "service": "IVS_REALTIME",
     "region": "ap-southeast-1"
+  },
+  {
+    "ip_address": "2600:f0f0:111a::/48",
+    "ip_type": "IPv6",
+    "service": "IVS_REALTIME",
+    "region": "sa-east-1"
   },
   {
     "ip_address": "2a05:d032:8000::/40",
@@ -67020,6 +67542,12 @@
     "region": "ap-northeast-1"
   },
   {
+    "ip_address": "2600:f0f0:1123::/48",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-west-2"
+  },
+  {
     "ip_address": "2600:f0f0:552e::/48",
     "ip_type": "IPv6",
     "service": "EC2",
@@ -67060,6 +67588,12 @@
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "mx-central-1"
+  },
+  {
+    "ip_address": "2600:f0f0:1112::/48",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eu-west-1"
   },
   {
     "ip_address": "2600:f0fb:e100::/40",
@@ -67111,6 +67645,12 @@
   },
   {
     "ip_address": "2600:f0f0:1:fd00::/56",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "2600:f0f0:111c::/48",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "us-east-1"
@@ -68016,6 +68556,12 @@
     "region": "mx-central-1"
   },
   {
+    "ip_address": "2600:f0f0:111e::/48",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "2606:f40:fffe::/48",
     "ip_type": "IPv6",
     "service": "EC2",
@@ -68062,6 +68608,18 @@
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "us-west-2"
+  },
+  {
+    "ip_address": "2600:f0f0:110f::/48",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eu-central-1"
+  },
+  {
+    "ip_address": "2600:f0f0:1118::/48",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "sa-east-1"
   },
   {
     "ip_address": "2606:7b40:1b0f:fa00::/56",
@@ -68350,6 +68908,12 @@
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "eu-west-1"
+  },
+  {
+    "ip_address": "2600:f0f0:111b::/48",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-east-1"
   },
   {
     "ip_address": "2600:f0f0:5534::/48",
@@ -68719,6 +69283,12 @@
   },
   {
     "ip_address": "2600:1f61:8000::/39",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "2600:f0f0:111f::/48",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "us-east-1"
@@ -69592,6 +70162,12 @@
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "af-south-1"
+  },
+  {
+    "ip_address": "2600:f0f0:1125::/48",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-west-2"
   },
   {
     "ip_address": "2600:f0f0:551d::/48",
@@ -71202,6 +71778,12 @@
     "region": "ap-southeast-5"
   },
   {
+    "ip_address": "2600:f0f0:1115::/48",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eu-west-3"
+  },
+  {
     "ip_address": "2605:9cc0:1fff:fc00::/54",
     "ip_type": "IPv6",
     "service": "EC2",
@@ -71550,6 +72132,12 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "2600:f0f0:1117::/48",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eu-west-3"
+  },
+  {
     "ip_address": "2a05:d018::/35",
     "ip_type": "IPv6",
     "service": "EC2",
@@ -71584,6 +72172,12 @@
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "us-west-2"
+  },
+  {
+    "ip_address": "2600:f0f0:1119::/48",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "sa-east-1"
   },
   {
     "ip_address": "2606:f40:2800::/40",
@@ -72136,6 +72730,12 @@
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "us-west-1"
+  },
+  {
+    "ip_address": "2600:f0f0:1116::/48",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eu-west-3"
   },
   {
     "ip_address": "2600:f0f0:1124::/48",
@@ -73506,6 +74106,12 @@
     "region": "us-west-2"
   },
   {
+    "ip_address": "2600:f0f0:1126::/48",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-west-2"
+  },
+  {
     "ip_address": "2406:da10:8000::/36",
     "ip_type": "IPv6",
     "service": "EC2",
@@ -74190,6 +74796,12 @@
     "region": "mx-central-1"
   },
   {
+    "ip_address": "2600:f0f0:1120::/48",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-east-2"
+  },
+  {
     "ip_address": "2406:da38:c800::/40",
     "ip_type": "IPv6",
     "service": "EC2",
@@ -74482,6 +75094,12 @@
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "eu-west-2"
+  },
+  {
+    "ip_address": "2600:f0f0:111d::/48",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-east-1"
   },
   {
     "ip_address": "2606:f40:9000::/39",
@@ -75358,6 +75976,12 @@
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "ap-southeast-5"
+  },
+  {
+    "ip_address": "2600:f0f0:111a::/48",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "sa-east-1"
   },
   {
     "ip_address": "2a05:d036:b000::/40",

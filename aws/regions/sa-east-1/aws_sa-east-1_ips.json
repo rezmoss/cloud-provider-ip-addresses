@@ -150,6 +150,12 @@
     "region": "sa-east-1"
   },
   {
+    "ip_address": "35.55.26.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "sa-east-1"
+  },
+  {
     "ip_address": "56.124.128.0/17",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -372,6 +378,12 @@
     "region": "sa-east-1"
   },
   {
+    "ip_address": "35.55.27.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "sa-east-1"
+  },
+  {
     "ip_address": "15.251.0.25/32",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -487,6 +499,12 @@
   },
   {
     "ip_address": "15.221.132.0/22",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "sa-east-1"
+  },
+  {
+    "ip_address": "35.55.25.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "sa-east-1"
@@ -882,6 +900,12 @@
     "region": "sa-east-1"
   },
   {
+    "ip_address": "35.55.26.0/24",
+    "ip_type": "IPv4",
+    "service": "IVS_REALTIME",
+    "region": "sa-east-1"
+  },
+  {
     "ip_address": "35.50.176.0/24",
     "ip_type": "IPv4",
     "service": "IVS_REALTIME",
@@ -889,6 +913,18 @@
   },
   {
     "ip_address": "35.50.177.0/24",
+    "ip_type": "IPv4",
+    "service": "IVS_REALTIME",
+    "region": "sa-east-1"
+  },
+  {
+    "ip_address": "35.55.27.0/24",
+    "ip_type": "IPv4",
+    "service": "IVS_REALTIME",
+    "region": "sa-east-1"
+  },
+  {
+    "ip_address": "35.55.25.0/24",
     "ip_type": "IPv4",
     "service": "IVS_REALTIME",
     "region": "sa-east-1"
@@ -990,6 +1026,12 @@
     "region": "sa-east-1"
   },
   {
+    "ip_address": "35.55.26.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "sa-east-1"
+  },
+  {
     "ip_address": "99.77.234.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -1068,6 +1110,12 @@
     "region": "sa-east-1"
   },
   {
+    "ip_address": "35.55.27.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "sa-east-1"
+  },
+  {
     "ip_address": "64.252.80.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -1081,6 +1129,12 @@
   },
   {
     "ip_address": "54.232.0.0/16",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "sa-east-1"
+  },
+  {
+    "ip_address": "35.55.25.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "sa-east-1"
@@ -1578,6 +1632,12 @@
     "region": "sa-east-1"
   },
   {
+    "ip_address": "2600:f0f0:1118::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "sa-east-1"
+  },
+  {
     "ip_address": "2600:1ffe:e000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -1663,6 +1723,12 @@
   },
   {
     "ip_address": "2600:1ffd:83d2::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "sa-east-1"
+  },
+  {
+    "ip_address": "2600:f0f0:1119::/48",
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "sa-east-1"
@@ -1782,6 +1848,12 @@
     "region": "sa-east-1"
   },
   {
+    "ip_address": "2600:f0f0:111a::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "sa-east-1"
+  },
+  {
     "ip_address": "2600:1f70:e000:100::/56",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -1872,6 +1944,12 @@
     "region": "sa-east-1"
   },
   {
+    "ip_address": "2600:f0f0:1118::/48",
+    "ip_type": "IPv6",
+    "service": "IVS_REALTIME",
+    "region": "sa-east-1"
+  },
+  {
     "ip_address": "2600:f0f0:5521::/48",
     "ip_type": "IPv6",
     "service": "IVS_REALTIME",
@@ -1879,6 +1957,18 @@
   },
   {
     "ip_address": "2600:f0f0:5522::/48",
+    "ip_type": "IPv6",
+    "service": "IVS_REALTIME",
+    "region": "sa-east-1"
+  },
+  {
+    "ip_address": "2600:f0f0:1119::/48",
+    "ip_type": "IPv6",
+    "service": "IVS_REALTIME",
+    "region": "sa-east-1"
+  },
+  {
+    "ip_address": "2600:f0f0:111a::/48",
     "ip_type": "IPv6",
     "service": "IVS_REALTIME",
     "region": "sa-east-1"
@@ -1939,6 +2029,12 @@
   },
   {
     "ip_address": "2606:f40:3e00::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "sa-east-1"
+  },
+  {
+    "ip_address": "2600:f0f0:1118::/48",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "sa-east-1"
@@ -2028,6 +2124,12 @@
     "region": "sa-east-1"
   },
   {
+    "ip_address": "2600:f0f0:1119::/48",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "sa-east-1"
+  },
+  {
     "ip_address": "2606:f40:be00::/40",
     "ip_type": "IPv6",
     "service": "EC2",
@@ -2101,6 +2203,12 @@
   },
   {
     "ip_address": "2600:1fed:e000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "sa-east-1"
+  },
+  {
+    "ip_address": "2600:f0f0:111a::/48",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "sa-east-1"
