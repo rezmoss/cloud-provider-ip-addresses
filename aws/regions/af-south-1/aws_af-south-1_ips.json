@@ -882,6 +882,12 @@
     "region": "af-south-1"
   },
   {
+    "ip_address": "2406:dab9:1000::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "af-south-1"
+  },
+  {
     "ip_address": "2406:da60:1000::/40",
     "ip_type": "IPv6",
     "service": "S3",
@@ -889,6 +895,12 @@
   },
   {
     "ip_address": "2406:daf0:1000::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "af-south-1"
+  },
+  {
+    "ip_address": "2406:daf4:1000::/40",
     "ip_type": "IPv6",
     "service": "S3",
     "region": "af-south-1"

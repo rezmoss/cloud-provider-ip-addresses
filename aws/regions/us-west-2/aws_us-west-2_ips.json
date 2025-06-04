@@ -4674,6 +4674,12 @@
     "region": "us-west-2"
   },
   {
+    "ip_address": "2600:1ff4:4000::/39",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "us-west-2"
+  },
+  {
     "ip_address": "2600:1ff8:4000::/40",
     "ip_type": "IPv6",
     "service": "S3",
@@ -4681,6 +4687,12 @@
   },
   {
     "ip_address": "2600:1ff0:4000::/39",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "2600:1fb9:4000::/39",
     "ip_type": "IPv6",
     "service": "S3",
     "region": "us-west-2"

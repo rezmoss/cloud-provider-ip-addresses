@@ -312,6 +312,12 @@
     "region": "me-west-1"
   },
   {
+    "ip_address": "2a05:d059:800::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "me-west-1"
+  },
+  {
     "ip_address": "2a05:d050:800::/40",
     "ip_type": "IPv6",
     "service": "S3",
@@ -331,6 +337,12 @@
   },
   {
     "ip_address": "2a05:d06d:800::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "me-west-1"
+  },
+  {
+    "ip_address": "2a05:d074:800::/40",
     "ip_type": "IPv6",
     "service": "S3",
     "region": "me-west-1"

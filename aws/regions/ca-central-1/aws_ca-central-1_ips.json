@@ -1374,6 +1374,12 @@
     "region": "ca-central-1"
   },
   {
+    "ip_address": "2600:1fb9:1000::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "ca-central-1"
+  },
+  {
     "ip_address": "2600:1ff9:1000::/40",
     "ip_type": "IPv6",
     "service": "S3",
@@ -1399,6 +1405,12 @@
   },
   {
     "ip_address": "2600:1fa0:1000::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "ca-central-1"
+  },
+  {
+    "ip_address": "2600:1ff4:1000::/40",
     "ip_type": "IPv6",
     "service": "S3",
     "region": "ca-central-1"

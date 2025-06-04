@@ -1284,6 +1284,12 @@
     "region": "eu-west-3"
   },
   {
+    "ip_address": "2a05:d074:2000::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "eu-west-3"
+  },
+  {
     "ip_address": "2a05:d050:2000::/40",
     "ip_type": "IPv6",
     "service": "S3",
@@ -1327,6 +1333,12 @@
   },
   {
     "ip_address": "2a05:d06d:2000::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "eu-west-3"
+  },
+  {
+    "ip_address": "2a05:d059:2000::/40",
     "ip_type": "IPv6",
     "service": "S3",
     "region": "eu-west-3"

@@ -59,8 +59,10 @@ ip_address,ip_type,service,region
 2406:da36:2800::/40,IPv6,AMAZON,ap-southeast-6
 2406:daed:2800::/40,IPv6,AMAZON,ap-southeast-6
 2406:da60:2800::/40,IPv6,S3,ap-southeast-6
+2406:daf4:2800::/40,IPv6,S3,ap-southeast-6
 2406:daf0:2800::/40,IPv6,S3,ap-southeast-6
 2406:da68:2800::/40,IPv6,S3,ap-southeast-6
+2406:dab9:2800::/40,IPv6,S3,ap-southeast-6
 2406:daa0:2800::/40,IPv6,S3,ap-southeast-6
 2406:daed:2800::/40,IPv6,S3,ap-southeast-6
 2406:da32:2800::/40,IPv6,EC2,ap-southeast-6

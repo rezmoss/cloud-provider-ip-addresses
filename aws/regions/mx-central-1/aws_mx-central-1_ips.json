@@ -480,6 +480,12 @@
     "region": "mx-central-1"
   },
   {
+    "ip_address": "2600:1ff4:7400::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "mx-central-1"
+  },
+  {
     "ip_address": "2600:1f60:7400::/40",
     "ip_type": "IPv6",
     "service": "S3",
@@ -493,6 +499,12 @@
   },
   {
     "ip_address": "2600:1fa0:7400::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "mx-central-1"
+  },
+  {
+    "ip_address": "2600:1fb9:7400::/40",
     "ip_type": "IPv6",
     "service": "S3",
     "region": "mx-central-1"

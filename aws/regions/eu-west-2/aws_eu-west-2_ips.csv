@@ -405,10 +405,12 @@ ip_address,ip_type,service,region
 2a05:d030:c000::/40,IPv6,S3,eu-west-2
 2a05:d079:c000::/40,IPv6,S3,eu-west-2
 2a05:d078:c000::/40,IPv6,S3,eu-west-2
+2a05:d074:c000::/40,IPv6,S3,eu-west-2
 2a05:d06d:c000::/40,IPv6,S3,eu-west-2
 2a05:d050:c000::/40,IPv6,S3,eu-west-2
 2a05:d070:c000::/40,IPv6,S3,eu-west-2
 2a05:d034:c000::/40,IPv6,S3,eu-west-2
+2a05:d059:c000::/40,IPv6,S3,eu-west-2
 2a05:d032:c000::/40,IPv6,WORKSPACES_GATEWAYS,eu-west-2
 2a05:d02c:8::/48,IPv6,WORKSPACES_GATEWAYS,eu-west-2
 2a05:d027::/36,IPv6,EC2,eu-west-2

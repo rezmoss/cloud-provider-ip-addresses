@@ -936,6 +936,18 @@
     "region": "ap-east-1"
   },
   {
+    "ip_address": "2406:dab9:e000::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "ap-east-1"
+  },
+  {
+    "ip_address": "2406:daf4:e000::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "ap-east-1"
+  },
+  {
     "ip_address": "2406:da60:e000::/40",
     "ip_type": "IPv6",
     "service": "S3",

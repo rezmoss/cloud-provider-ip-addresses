@@ -72,12 +72,6 @@
     "region": "ca-west-1"
   },
   {
-    "ip_address": "35.96.32.0/20",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "ca-west-1"
-  },
-  {
     "ip_address": "16.175.0.0/16",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -259,12 +253,6 @@
   },
   {
     "ip_address": "56.112.0.0/16",
-    "ip_type": "IPv4",
-    "service": "EC2",
-    "region": "ca-west-1"
-  },
-  {
-    "ip_address": "35.96.32.0/20",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "ca-west-1"
@@ -492,6 +480,12 @@
     "region": "ca-west-1"
   },
   {
+    "ip_address": "2600:1ff4:a400::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "ca-west-1"
+  },
+  {
     "ip_address": "2600:1f68:a400::/40",
     "ip_type": "IPv6",
     "service": "S3",
@@ -517,6 +511,12 @@
   },
   {
     "ip_address": "2600:1fed:a400::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "ca-west-1"
+  },
+  {
+    "ip_address": "2600:1fb9:a400::/40",
     "ip_type": "IPv6",
     "service": "S3",
     "region": "ca-west-1"

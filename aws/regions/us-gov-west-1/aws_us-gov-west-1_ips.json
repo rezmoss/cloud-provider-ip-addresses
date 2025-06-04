@@ -906,6 +906,12 @@
     "region": "us-gov-west-1"
   },
   {
+    "ip_address": "2600:1ff4:2000::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "us-gov-west-1"
+  },
+  {
     "ip_address": "2600:1f68:2000::/40",
     "ip_type": "IPv6",
     "service": "S3",
@@ -913,6 +919,12 @@
   },
   {
     "ip_address": "2600:1ffa:2000::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "us-gov-west-1"
+  },
+  {
+    "ip_address": "2600:1fb9:2000::/40",
     "ip_type": "IPv6",
     "service": "S3",
     "region": "us-gov-west-1"

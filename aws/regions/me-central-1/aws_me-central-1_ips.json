@@ -678,6 +678,12 @@
     "region": "me-central-1"
   },
   {
+    "ip_address": "2406:dab9:7000::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "me-central-1"
+  },
+  {
     "ip_address": "2406:daf9:7000::/40",
     "ip_type": "IPv6",
     "service": "S3",
@@ -691,6 +697,12 @@
   },
   {
     "ip_address": "2406:da68:7000::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "me-central-1"
+  },
+  {
+    "ip_address": "2406:daf4:7000::/40",
     "ip_type": "IPv6",
     "service": "S3",
     "region": "me-central-1"

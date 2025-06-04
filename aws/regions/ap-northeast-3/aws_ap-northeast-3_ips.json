@@ -528,6 +528,12 @@
     "region": "ap-northeast-3"
   },
   {
+    "ip_address": "16.209.0.0/16",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "ap-northeast-3"
+  },
+  {
     "ip_address": "35.71.110.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -1098,6 +1104,12 @@
     "region": "ap-northeast-3"
   },
   {
+    "ip_address": "2406:dab9:6000::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "ap-northeast-3"
+  },
+  {
     "ip_address": "2406:da68:6000::/40",
     "ip_type": "IPv6",
     "service": "S3",
@@ -1117,6 +1129,12 @@
   },
   {
     "ip_address": "2406:daf8:6000::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "ap-northeast-3"
+  },
+  {
+    "ip_address": "2406:daf4:6000::/40",
     "ip_type": "IPv6",
     "service": "S3",
     "region": "ap-northeast-3"

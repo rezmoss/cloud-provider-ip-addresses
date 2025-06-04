@@ -150,8 +150,10 @@ ip_address,ip_type,service,region
 2600:1fed:2000::/40,IPv6,S3,us-gov-west-1
 2600:1ff8:2000::/40,IPv6,S3,us-gov-west-1
 2600:1ff9:2000::/40,IPv6,S3,us-gov-west-1
+2600:1ff4:2000::/40,IPv6,S3,us-gov-west-1
 2600:1f68:2000::/40,IPv6,S3,us-gov-west-1
 2600:1ffa:2000::/40,IPv6,S3,us-gov-west-1
+2600:1fb9:2000::/40,IPv6,S3,us-gov-west-1
 2600:1f32:2000::/40,IPv6,WORKSPACES_GATEWAYS,us-gov-west-1
 2600:1f22:28::/48,IPv6,WORKSPACES_GATEWAYS,us-gov-west-1
 2600:1ff6:2000::/40,IPv6,EC2,us-gov-west-1

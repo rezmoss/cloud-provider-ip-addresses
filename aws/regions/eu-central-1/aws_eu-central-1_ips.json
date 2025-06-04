@@ -90,6 +90,12 @@
     "region": "eu-central-1"
   },
   {
+    "ip_address": "35.55.17.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-central-1"
+  },
+  {
     "ip_address": "16.12.24.0/21",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -1692,6 +1698,12 @@
     "region": "eu-central-1"
   },
   {
+    "ip_address": "35.55.18.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-central-1"
+  },
+  {
     "ip_address": "18.89.0.0/18",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -2160,6 +2172,12 @@
     "region": "eu-central-1"
   },
   {
+    "ip_address": "35.55.17.0/24",
+    "ip_type": "IPv4",
+    "service": "IVS_REALTIME",
+    "region": "eu-central-1"
+  },
+  {
     "ip_address": "35.50.194.0/24",
     "ip_type": "IPv4",
     "service": "IVS_REALTIME",
@@ -2173,6 +2191,12 @@
   },
   {
     "ip_address": "35.55.16.0/24",
+    "ip_type": "IPv4",
+    "service": "IVS_REALTIME",
+    "region": "eu-central-1"
+  },
+  {
+    "ip_address": "35.55.18.0/24",
     "ip_type": "IPv4",
     "service": "IVS_REALTIME",
     "region": "eu-central-1"
@@ -2209,6 +2233,12 @@
   },
   {
     "ip_address": "18.96.32.0/19",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "eu-central-1"
+  },
+  {
+    "ip_address": "35.55.17.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "eu-central-1"
@@ -2545,6 +2575,12 @@
   },
   {
     "ip_address": "52.94.146.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "eu-central-1"
+  },
+  {
+    "ip_address": "35.55.18.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "eu-central-1"
@@ -3414,6 +3450,12 @@
     "region": "eu-central-1"
   },
   {
+    "ip_address": "2600:f0f0:1110::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eu-central-1"
+  },
+  {
     "ip_address": "2600:f0f0:5524::/48",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -3445,6 +3487,12 @@
   },
   {
     "ip_address": "2a05:d059:b000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eu-central-1"
+  },
+  {
+    "ip_address": "2600:f0f0:1111::/48",
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "eu-central-1"
@@ -3594,6 +3642,12 @@
     "region": "eu-central-1"
   },
   {
+    "ip_address": "2a05:d074:b000::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "eu-central-1"
+  },
+  {
     "ip_address": "2a05:d030:4000::/40",
     "ip_type": "IPv6",
     "service": "S3",
@@ -3630,6 +3684,12 @@
     "region": "eu-central-1"
   },
   {
+    "ip_address": "2a05:d059:4000::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "eu-central-1"
+  },
+  {
     "ip_address": "2a05:d07a:4000::/40",
     "ip_type": "IPv6",
     "service": "S3",
@@ -3660,6 +3720,18 @@
     "region": "eu-central-1"
   },
   {
+    "ip_address": "2a05:d059:b000::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "eu-central-1"
+  },
+  {
+    "ip_address": "2a05:d074:4000::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "eu-central-1"
+  },
+  {
     "ip_address": "2600:f0f0:110f::/48",
     "ip_type": "IPv6",
     "service": "IVS_REALTIME",
@@ -3672,7 +3744,19 @@
     "region": "eu-central-1"
   },
   {
+    "ip_address": "2600:f0f0:1110::/48",
+    "ip_type": "IPv6",
+    "service": "IVS_REALTIME",
+    "region": "eu-central-1"
+  },
+  {
     "ip_address": "2600:f0f0:5524::/48",
+    "ip_type": "IPv6",
+    "service": "IVS_REALTIME",
+    "region": "eu-central-1"
+  },
+  {
+    "ip_address": "2600:f0f0:1111::/48",
     "ip_type": "IPv6",
     "service": "IVS_REALTIME",
     "region": "eu-central-1"
@@ -4026,6 +4110,12 @@
     "region": "eu-central-1"
   },
   {
+    "ip_address": "2600:f0f0:1110::/48",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eu-central-1"
+  },
+  {
     "ip_address": "2600:f0f0:5524::/48",
     "ip_type": "IPv6",
     "service": "EC2",
@@ -4045,6 +4135,12 @@
   },
   {
     "ip_address": "2a05:d059:b000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eu-central-1"
+  },
+  {
+    "ip_address": "2600:f0f0:1111::/48",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "eu-central-1"
