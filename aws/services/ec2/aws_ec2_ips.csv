@@ -520,11 +520,13 @@ ip_address,ip_type,service,region
 52.200.0.0/13,IPv4,EC2,us-east-1
 54.222.32.0/22,IPv4,EC2,cn-north-1
 64.252.123.0/24,IPv4,EC2,us-west-1
+96.0.180.0/22,IPv4,EC2,ap-southeast-1
 99.77.55.25/32,IPv4,EC2,eu-south-2
 99.151.112.0/21,IPv4,EC2,sa-east-1
 34.224.0.0/12,IPv4,EC2,us-east-1
 52.75.0.0/16,IPv4,EC2,us-west-2
 96.0.88.0/22,IPv4,EC2,us-east-1
+96.0.184.0/22,IPv4,EC2,ap-southeast-2
 99.77.55.37/32,IPv4,EC2,eu-south-2
 99.77.55.40/32,IPv4,EC2,eu-south-2
 3.5.180.0/22,IPv4,EC2,ap-southeast-5
@@ -989,6 +991,7 @@ ip_address,ip_type,service,region
 35.55.22.0/24,IPv4,EC2,eu-west-3
 54.194.0.0/15,IPv4,EC2,eu-west-1
 35.50.232.0/24,IPv4,EC2,ap-south-1
+35.96.5.0/24,IPv4,EC2,us-west-2
 45.57.128.0/18,IPv4,EC2,ap-southeast-1
 99.77.55.50/32,IPv4,EC2,eu-south-2
 3.98.0.0/15,IPv4,EC2,ca-central-1
@@ -1318,6 +1321,7 @@ ip_address,ip_type,service,region
 54.246.0.0/16,IPv4,EC2,eu-west-1
 64.252.112.0/24,IPv4,EC2,ap-northeast-1
 96.0.152.0/21,IPv4,EC2,us-east-1
+96.0.176.0/22,IPv4,EC2,ap-southeast-1
 142.4.180.0/24,IPv4,EC2,ap-south-1
 16.162.0.0/15,IPv4,EC2,ap-east-1
 18.99.112.0/20,IPv4,EC2,us-gov-east-1
@@ -2076,6 +2080,7 @@ ip_address,ip_type,service,region
 2406:da38:6000::/40,IPv6,EC2,ap-northeast-3
 2406:dafb:7000::/40,IPv6,EC2,me-central-1
 2600:1f24:4000::/36,IPv6,EC2,us-east-1
+2600:f0f0:a::/47,IPv6,EC2,us-east-2
 2600:f0f0:81::/48,IPv6,EC2,us-east-2
 2600:f0f0:1106::/48,IPv6,EC2,ap-southeast-1
 2600:f0f1:8802::/48,IPv6,EC2,ap-south-1
@@ -2263,6 +2268,7 @@ ip_address,ip_type,service,region
 2406:da2e::/36,IPv6,EC2,ap-east-1
 2600:1f2a:4000::/36,IPv6,EC2,ca-west-1
 2600:f0fb:eb00::/40,IPv6,EC2,us-east-1
+2606:7b40:1a2f:c200::/60,IPv6,EC2,us-west-2
 2a05:d038:e000::/40,IPv6,EC2,me-south-1
 2a05:d074:5000::/40,IPv6,EC2,il-central-1
 2406:da61:c000::/40,IPv6,EC2,ap-southeast-2
@@ -2372,6 +2378,7 @@ ip_address,ip_type,service,region
 2600:f00f:c000::/40,IPv6,EC2,ap-south-2
 2600:f0f0:87::/48,IPv6,EC2,ap-south-1
 2600:f0fb:e900::/40,IPv6,EC2,us-east-1
+2606:7b40:1a4f:c200::/60,IPv6,EC2,us-west-2
 2406:da60:e000::/40,IPv6,EC2,ap-east-1
 2406:da68:4000::/40,IPv6,EC2,ap-northeast-1
 2406:da70:c000::/40,IPv6,EC2,ap-southeast-2

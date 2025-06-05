@@ -348,6 +348,12 @@
     "region": "ap-southeast-2"
   },
   {
+    "ip_address": "96.0.184.0/22",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-southeast-2"
+  },
+  {
     "ip_address": "150.222.43.64/27",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -1153,6 +1159,12 @@
   },
   {
     "ip_address": "3.5.164.0/22",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "ap-southeast-2"
+  },
+  {
+    "ip_address": "96.0.184.0/22",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "ap-southeast-2"

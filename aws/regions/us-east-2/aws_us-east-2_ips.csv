@@ -543,6 +543,7 @@ ip_address,ip_type,service,region
 2600:1ffe:6000::/40,IPv6,AMAZON,us-east-2
 2600:1fa0:6000::/40,IPv6,AMAZON,us-east-2
 2600:f0f0:551e::/48,IPv6,AMAZON,us-east-2
+2600:f0f0:a::/47,IPv6,AMAZON,us-east-2
 2600:f0f0:81::/48,IPv6,AMAZON,us-east-2
 2620:107:4000:4705::/64,IPv6,AMAZON,us-east-2
 2600:1ff6:6000::/40,IPv6,AMAZON,us-east-2
@@ -625,6 +626,7 @@ ip_address,ip_type,service,region
 2600:f0f0:1121::/48,IPv6,EC2,us-east-2
 2600:1ff2:6000::/40,IPv6,EC2,us-east-2
 2600:f0f0:551e::/48,IPv6,EC2,us-east-2
+2600:f0f0:a::/47,IPv6,EC2,us-east-2
 2600:f0f0:81::/48,IPv6,EC2,us-east-2
 2600:1ff6:6000::/40,IPv6,EC2,us-east-2
 2600:1ffb:6000::/40,IPv6,EC2,us-east-2
