@@ -822,6 +822,18 @@
     "region": "me-south-1"
   },
   {
+    "ip_address": "16.24.91.112/30",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "me-south-1"
+  },
+  {
+    "ip_address": "16.24.91.70/31",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "me-south-1"
+  },
+  {
     "ip_address": "35.71.99.0/24",
     "ip_type": "IPv4",
     "service": "DYNAMODB",

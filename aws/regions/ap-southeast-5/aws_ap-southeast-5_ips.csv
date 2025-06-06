@@ -55,6 +55,8 @@ ip_address,ip_type,service,region
 15.177.95.0/24,IPv4,ROUTE53_HEALTHCHECKS_PUBLISHING,ap-southeast-5
 43.216.39.0/24,IPv4,API_GATEWAY,ap-southeast-5
 43.216.87.48/29,IPv4,EC2_INSTANCE_CONNECT,ap-southeast-5
+43.216.87.56/31,IPv4,KINESIS_VIDEO_STREAMS,ap-southeast-5
+43.216.87.60/30,IPv4,KINESIS_VIDEO_STREAMS,ap-southeast-5
 13.248.75.0/24,IPv4,DYNAMODB,ap-southeast-5
 35.71.124.0/24,IPv4,DYNAMODB,ap-southeast-5
 2406:daef:800::/40,IPv6,AMAZON,ap-southeast-5
