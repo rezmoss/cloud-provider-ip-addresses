@@ -41400,6 +41400,12 @@
     "region": "ap-northeast-1"
   },
   {
+    "ip_address": "35.44.0.0/15",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "eu-south-2"
+  },
+  {
     "ip_address": "35.71.108.0/24",
     "ip_type": "IPv4",
     "service": "EC2",

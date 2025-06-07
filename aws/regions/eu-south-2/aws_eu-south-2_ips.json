@@ -534,6 +534,12 @@
     "region": "eu-south-2"
   },
   {
+    "ip_address": "35.44.0.0/15",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "eu-south-2"
+  },
+  {
     "ip_address": "99.77.55.36/32",
     "ip_type": "IPv4",
     "service": "EC2",
