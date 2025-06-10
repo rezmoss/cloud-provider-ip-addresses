@@ -36,6 +36,7 @@ INSERT INTO `aws_af-south-1_ips` (`ip_address`, `ip_type`) VALUES ('52.93.126.14
 INSERT INTO `aws_af-south-1_ips` (`ip_address`, `ip_type`) VALUES ('16.154.0.0/15', 'IPv4');
 INSERT INTO `aws_af-south-1_ips` (`ip_address`, `ip_type`) VALUES ('52.95.180.0/24', 'IPv4');
 INSERT INTO `aws_af-south-1_ips` (`ip_address`, `ip_type`) VALUES ('13.246.0.0/16', 'IPv4');
+INSERT INTO `aws_af-south-1_ips` (`ip_address`, `ip_type`) VALUES ('35.96.40.0/24', 'IPv4');
 INSERT INTO `aws_af-south-1_ips` (`ip_address`, `ip_type`) VALUES ('16.28.0.0/16', 'IPv4');
 INSERT INTO `aws_af-south-1_ips` (`ip_address`, `ip_type`) VALUES ('16.31.0.0/16', 'IPv4');
 INSERT INTO `aws_af-south-1_ips` (`ip_address`, `ip_type`) VALUES ('52.94.30.0/24', 'IPv4');
@@ -83,6 +84,7 @@ INSERT INTO `aws_af-south-1_ips` (`ip_address`, `ip_type`) VALUES ('3.5.228.0/22
 INSERT INTO `aws_af-south-1_ips` (`ip_address`, `ip_type`) VALUES ('35.71.103.0/24', 'IPv4');
 INSERT INTO `aws_af-south-1_ips` (`ip_address`, `ip_type`) VALUES ('13.244.0.0/15', 'IPv4');
 INSERT INTO `aws_af-south-1_ips` (`ip_address`, `ip_type`) VALUES ('13.246.0.0/16', 'IPv4');
+INSERT INTO `aws_af-south-1_ips` (`ip_address`, `ip_type`) VALUES ('35.96.40.0/24', 'IPv4');
 INSERT INTO `aws_af-south-1_ips` (`ip_address`, `ip_type`) VALUES ('16.28.0.0/16', 'IPv4');
 INSERT INTO `aws_af-south-1_ips` (`ip_address`, `ip_type`) VALUES ('52.94.249.176/28', 'IPv4');
 INSERT INTO `aws_af-south-1_ips` (`ip_address`, `ip_type`) VALUES ('99.150.104.0/21', 'IPv4');
