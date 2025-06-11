@@ -54,3 +54,4 @@ INSERT INTO `aws_cloudfront_origin_facing_ips` (`ip_address`, `ip_type`) VALUES 
 INSERT INTO `aws_cloudfront_origin_facing_ips` (`ip_address`, `ip_type`) VALUES ('130.176.72.0/22', 'IPv4');
 INSERT INTO `aws_cloudfront_origin_facing_ips` (`ip_address`, `ip_type`) VALUES ('13.124.199.0/24', 'IPv4');
 INSERT INTO `aws_cloudfront_origin_facing_ips` (`ip_address`, `ip_type`) VALUES ('3.29.57.0/26', 'IPv4');
+INSERT INTO `aws_cloudfront_origin_facing_ips` (`ip_address`, `ip_type`) VALUES ('2600:9000:5200::/40', 'IPv6');
