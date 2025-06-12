@@ -146,7 +146,6 @@ ip_address,ip_type,service,region
 15.181.16.0/20,IPv4,AMAZON,us-west-2
 16.144.0.0/16,IPv4,AMAZON,us-west-2
 150.222.102.0/24,IPv4,AMAZON,us-west-2
-35.96.5.0/24,IPv4,AMAZON,us-west-2
 35.96.244.0/24,IPv4,AMAZON,us-west-2
 162.222.148.0/22,IPv4,AMAZON,us-west-2
 52.24.0.0/14,IPv4,AMAZON,us-west-2
@@ -379,7 +378,6 @@ ip_address,ip_type,service,region
 35.96.16.0/23,IPv4,EC2,us-west-2
 18.34.48.0/20,IPv4,EC2,us-west-2
 15.181.16.0/20,IPv4,EC2,us-west-2
-35.96.5.0/24,IPv4,EC2,us-west-2
 35.96.244.0/24,IPv4,EC2,us-west-2
 162.222.148.0/22,IPv4,EC2,us-west-2
 52.24.0.0/14,IPv4,EC2,us-west-2
@@ -564,6 +562,7 @@ ip_address,ip_type,service,region
 52.94.10.0/24,IPv4,DYNAMODB,us-west-2
 35.71.64.0/22,IPv4,DYNAMODB,us-west-2
 52.94.28.0/23,IPv4,DYNAMODB,us-west-2
+2600:f0f2:7017::/48,IPv6,AMAZON,us-west-2
 2606:7b40:10ff:d200::/60,IPv6,AMAZON,us-west-2
 2600:1f01:4874::/47,IPv6,AMAZON,us-west-2
 2600:1f1d:8000::/36,IPv6,AMAZON,us-west-2
@@ -688,7 +687,6 @@ ip_address,ip_type,service,region
 2600:1fff:4000::/39,IPv6,AMAZON,us-west-2
 2620:107:4000:4202::/64,IPv6,AMAZON,us-west-2
 2600:f00c:8000::/39,IPv6,AMAZON,us-west-2
-2600:f0f2:7100::/48,IPv6,AMAZON,us-west-2
 2620:107:4000:3::/64,IPv6,AMAZON,us-west-2
 2606:7b40:1b0f:fd00::/56,IPv6,AMAZON,us-west-2
 2600:f0f0:5517::/48,IPv6,AMAZON,us-west-2
@@ -806,6 +804,7 @@ ip_address,ip_type,service,region
 2600:f0f0:5515::/48,IPv6,IVS_REALTIME,us-west-2
 2600:1f32:4000::/39,IPv6,WORKSPACES_GATEWAYS,us-west-2
 2600:1f24:34::/48,IPv6,WORKSPACES_GATEWAYS,us-west-2
+2600:f0f2:7017::/48,IPv6,EC2,us-west-2
 2606:7b40:10ff:d200::/60,IPv6,EC2,us-west-2
 2600:1f1d:8000::/36,IPv6,EC2,us-west-2
 2600:f0f0:1123::/48,IPv6,EC2,us-west-2
@@ -910,7 +909,6 @@ ip_address,ip_type,service,region
 2600:1f24:8000::/36,IPv6,EC2,us-west-2
 2600:1fff:4000::/39,IPv6,EC2,us-west-2
 2600:f00c:8000::/39,IPv6,EC2,us-west-2
-2600:f0f2:7100::/48,IPv6,EC2,us-west-2
 2606:7b40:1b0f:fd00::/56,IPv6,EC2,us-west-2
 2600:f0f0:5517::/48,IPv6,EC2,us-west-2
 2606:7b40:1b0f:ef00::/56,IPv6,EC2,us-west-2
@@ -986,6 +984,5 @@ ip_address,ip_type,service,region
 2600:1ff2:4000::/39,IPv6,EC2,us-west-2
 2606:7b40:1b0f:f300::/56,IPv6,EC2,us-west-2
 2600:1f01:4874::/47,IPv6,GLOBALACCELERATOR,us-west-2
-2600:f0f2:7100::/48,IPv6,AMAZON_CONNECT,us-west-2
 2600:1f13:a0d:a700::/56,IPv6,EC2_INSTANCE_CONNECT,us-west-2
 2600:1f14:802:7300::/56,IPv6,AURORA_DSQL,us-west-2

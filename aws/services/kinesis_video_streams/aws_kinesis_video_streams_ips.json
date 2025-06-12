@@ -132,7 +132,19 @@
     "region": "ap-southeast-2"
   },
   {
+    "ip_address": "43.216.226.176/30",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "ap-southeast-5"
+  },
+  {
     "ip_address": "43.216.87.56/31",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "ap-southeast-5"
+  },
+  {
+    "ip_address": "43.216.87.58/31",
     "ip_type": "IPv4",
     "service": "KINESIS_VIDEO_STREAMS",
     "region": "ap-southeast-5"
@@ -174,7 +186,19 @@
     "region": "eu-south-2"
   },
   {
+    "ip_address": "18.101.90.58/31",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "eu-south-2"
+  },
+  {
     "ip_address": "18.101.90.60/30",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "eu-south-2"
+  },
+  {
+    "ip_address": "51.48.13.32/30",
     "ip_type": "IPv4",
     "service": "KINESIS_VIDEO_STREAMS",
     "region": "eu-south-2"
@@ -217,6 +241,18 @@
   },
   {
     "ip_address": "16.24.91.112/30",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "me-south-1"
+  },
+  {
+    "ip_address": "16.24.91.116/31",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "me-south-1"
+  },
+  {
+    "ip_address": "16.24.91.120/30",
     "ip_type": "IPv4",
     "service": "KINESIS_VIDEO_STREAMS",
     "region": "me-south-1"
