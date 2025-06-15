@@ -11,6 +11,7 @@ ip_address,ip_type,service,region
 34.157.240.0/21,IPv4,Google Cloud,us-west1
 34.168.0.0/15,IPv4,Google Cloud,us-west1
 34.182.0.0/17,IPv4,Google Cloud,us-west1
+34.187.128.0/17,IPv4,Google Cloud,us-west1
 35.185.192.0/18,IPv4,Google Cloud,us-west1
 35.197.0.0/17,IPv4,Google Cloud,us-west1
 35.199.144.0/20,IPv4,Google Cloud,us-west1
