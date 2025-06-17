@@ -1948,6 +1948,7 @@ ip_address,ip_type,service,region
 2406:daef:b000::/40,IPv6,EC2,ap-south-2
 2406:daff:9000::/40,IPv6,EC2,ap-southeast-3
 2600:1f61:e000::/40,IPv6,EC2,sa-east-1
+2600:1ff3:8000::/39,IPv6,EC2,us-east-1
 2600:1ffd:8285::/48,IPv6,EC2,ap-south-1
 2600:9000:5210::/48,IPv6,EC2,us-east-1
 2606:f40:ffe2::/48,IPv6,EC2,ap-southeast-1

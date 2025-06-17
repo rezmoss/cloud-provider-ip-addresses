@@ -57486,6 +57486,12 @@
     "region": "sa-east-1"
   },
   {
+    "ip_address": "2600:1ff3:8000::/39",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "2600:1ffd:8285::/48",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -71866,6 +71872,12 @@
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "sa-east-1"
+  },
+  {
+    "ip_address": "2600:1ff3:8000::/39",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-east-1"
   },
   {
     "ip_address": "2600:1ffd:8285::/48",
