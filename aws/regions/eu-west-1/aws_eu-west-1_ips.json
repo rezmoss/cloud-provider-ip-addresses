@@ -2958,6 +2958,12 @@
     "region": "eu-west-1"
   },
   {
+    "ip_address": "2600:f0f0:4108::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eu-west-1"
+  },
+  {
     "ip_address": "2a05:d028::/36",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -3409,6 +3415,12 @@
   },
   {
     "ip_address": "2600:1ffd:838e::/48",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eu-west-1"
+  },
+  {
+    "ip_address": "2600:f0f0:4108::/48",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "eu-west-1"

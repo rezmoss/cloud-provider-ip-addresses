@@ -3462,6 +3462,12 @@
     "region": "us-west-1"
   },
   {
+    "ip_address": "2600:f0f0:4101::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-west-1"
+  },
+  {
     "ip_address": "2620:107:4000:4105::/64",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -3757,6 +3763,12 @@
   },
   {
     "ip_address": "2600:1ff0:c000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-west-1"
+  },
+  {
+    "ip_address": "2600:f0f0:4101::/48",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "us-west-1"
