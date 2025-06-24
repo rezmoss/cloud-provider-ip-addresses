@@ -1452,6 +1452,12 @@
     "region": "ap-northeast-2"
   },
   {
+    "ip_address": "2600:f0f2:7106::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-northeast-2"
+  },
+  {
     "ip_address": "2406:daef:2000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -1848,6 +1854,12 @@
     "region": "ap-northeast-2"
   },
   {
+    "ip_address": "2600:f0f2:7106::/48",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-northeast-2"
+  },
+  {
     "ip_address": "2406:daef:2000::/40",
     "ip_type": "IPv6",
     "service": "EC2",
@@ -1959,6 +1971,12 @@
     "ip_address": "2600:1f01:4860::/47",
     "ip_type": "IPv6",
     "service": "GLOBALACCELERATOR",
+    "region": "ap-northeast-2"
+  },
+  {
+    "ip_address": "2600:f0f2:7106::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON_CONNECT",
     "region": "ap-northeast-2"
   },
   {

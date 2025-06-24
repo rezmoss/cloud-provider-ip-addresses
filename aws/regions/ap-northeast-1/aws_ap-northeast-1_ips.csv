@@ -423,6 +423,7 @@ ip_address,ip_type,service,region
 2406:da60:4000::/40,IPv6,AMAZON,ap-northeast-1
 2600:1ffd:8143::/48,IPv6,AMAZON,ap-northeast-1
 2600:f0f2:7016::/48,IPv6,AMAZON,ap-northeast-1
+2600:f0f2:7108::/48,IPv6,AMAZON,ap-northeast-1
 2400:6500:0:7100::/56,IPv6,AMAZON,ap-northeast-1
 2600:f004::/40,IPv6,AMAZON,ap-northeast-1
 2406:da70:4000:100::/56,IPv6,AMAZON,ap-northeast-1
@@ -502,7 +503,9 @@ ip_address,ip_type,service,region
 2406:da60:4000::/40,IPv6,EC2,ap-northeast-1
 2600:1ffd:8143::/48,IPv6,EC2,ap-northeast-1
 2600:f0f2:7016::/48,IPv6,EC2,ap-northeast-1
+2600:f0f2:7108::/48,IPv6,EC2,ap-northeast-1
 2600:f004::/40,IPv6,EC2,ap-northeast-1
 2600:1f01:4880::/47,IPv6,GLOBALACCELERATOR,ap-northeast-1
+2600:f0f2:7108::/48,IPv6,AMAZON_CONNECT,ap-northeast-1
 2406:da14:1c18:2100::/56,IPv6,EC2_INSTANCE_CONNECT,ap-northeast-1
 2406:da14:1713:ba00::/56,IPv6,AURORA_DSQL,ap-northeast-1
