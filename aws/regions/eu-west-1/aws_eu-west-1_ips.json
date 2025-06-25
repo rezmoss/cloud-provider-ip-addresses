@@ -192,6 +192,12 @@
     "region": "eu-west-1"
   },
   {
+    "ip_address": "15.230.223.15/32",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-west-1"
+  },
+  {
     "ip_address": "46.51.192.0/20",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -426,6 +432,12 @@
     "region": "eu-west-1"
   },
   {
+    "ip_address": "15.230.223.12/32",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-west-1"
+  },
+  {
     "ip_address": "52.48.0.0/14",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -474,6 +486,12 @@
     "region": "eu-west-1"
   },
   {
+    "ip_address": "15.230.223.13/32",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-west-1"
+  },
+  {
     "ip_address": "150.222.13.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -481,6 +499,12 @@
   },
   {
     "ip_address": "52.144.208.192/26",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-west-1"
+  },
+  {
+    "ip_address": "15.230.223.8/31",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "eu-west-1"
@@ -631,6 +655,12 @@
   },
   {
     "ip_address": "150.222.168.39/32",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-west-1"
+  },
+  {
+    "ip_address": "15.230.223.10/31",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "eu-west-1"
@@ -1267,6 +1297,12 @@
   },
   {
     "ip_address": "150.222.200.60/32",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-west-1"
+  },
+  {
+    "ip_address": "15.230.223.14/32",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "eu-west-1"
@@ -3084,12 +3120,6 @@
     "region": "eu-west-1"
   },
   {
-    "ip_address": "2600:f0f2:7015::/48",
-    "ip_type": "IPv6",
-    "service": "AMAZON",
-    "region": "eu-west-1"
-  },
-  {
     "ip_address": "2a05:d050:8000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -3511,12 +3541,6 @@
   },
   {
     "ip_address": "2a05:d038:8000::/40",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "eu-west-1"
-  },
-  {
-    "ip_address": "2600:f0f2:7015::/48",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "eu-west-1"
