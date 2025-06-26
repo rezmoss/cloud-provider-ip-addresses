@@ -331,6 +331,7 @@ ip_address,ip_type,service,region
 2a05:d070:e000::/40,IPv6,S3,me-south-1
 2406:daed:7000::/40,IPv6,S3,me-central-1
 2a05:d034:5000::/40,IPv6,S3,il-central-1
+2a05:d059:2000::/56,IPv6,S3,eu-west-3
 240f:80f8:4000::/40,IPv6,S3,cn-northwest-1
 2600:9000:a310::/48,IPv6,S3,GLOBAL
 2a05:d059:e000::/40,IPv6,S3,me-south-1
@@ -341,11 +342,11 @@ ip_address,ip_type,service,region
 2a05:d034:1000::/40,IPv6,S3,eu-south-2
 2406:da60:6000::/40,IPv6,S3,ap-northeast-3
 2600:1fed:1000::/40,IPv6,S3,ca-central-1
-2a05:d074:2000::/40,IPv6,S3,eu-west-3
 2406:daed:6000::/40,IPv6,S3,ap-northeast-3
 2a05:d074:9000::/40,IPv6,S3,eu-central-2
 2600:1f68:4000::/39,IPv6,S3,us-west-2
 2600:1ff9:e000::/40,IPv6,S3,sa-east-1
+2a05:d059:20c0::/48,IPv6,S3,eu-west-3
 2406:daa0:6000::/40,IPv6,S3,ap-northeast-3
 2406:daa0:7000::/40,IPv6,S3,me-central-1
 2406:daf8:e000::/40,IPv6,S3,ap-east-1
@@ -369,6 +370,7 @@ ip_address,ip_type,service,region
 2406:daf0:9000::/40,IPv6,S3,ap-southeast-3
 2600:1fed:c000::/40,IPv6,S3,us-west-1
 2a05:d059:6000::/40,IPv6,S3,eu-north-1
+2a05:d074:2040::/48,IPv6,S3,eu-west-3
 2600:1ff8:c000::/40,IPv6,S3,us-west-1
 2a05:d034:2000::/40,IPv6,S3,eu-west-3
 2406:daf8:4000::/40,IPv6,S3,ap-northeast-1
@@ -452,6 +454,7 @@ ip_address,ip_type,service,region
 2406:dab9:c000::/40,IPv6,S3,ap-southeast-2
 2406:dab9:a000::/40,IPv6,S3,ap-south-1
 2600:9000:a311::/48,IPv6,S3,GLOBAL
+2a05:d059:2080::/48,IPv6,S3,eu-west-3
 2406:dab9:2000::/40,IPv6,S3,ap-northeast-2
 2406:daed:e000::/40,IPv6,S3,ap-east-1
 2a05:d079:9000::/40,IPv6,S3,eu-central-2
@@ -466,6 +469,7 @@ ip_address,ip_type,service,region
 2a05:d030:2000::/40,IPv6,S3,eu-west-3
 2406:daf4:8000::/40,IPv6,S3,ap-southeast-1
 2600:1ff4:7400::/40,IPv6,S3,mx-central-1
+2a05:d074:20c0::/48,IPv6,S3,eu-west-3
 2406:da60:b000::/40,IPv6,S3,ap-south-2
 2a05:d079:a000::/40,IPv6,S3,eu-south-1
 2600:1fb9:5000::/40,IPv6,S3,us-gov-east-1
@@ -478,6 +482,7 @@ ip_address,ip_type,service,region
 2600:1fed:4000::/39,IPv6,S3,us-west-2
 2600:1fed:2000::/40,IPv6,S3,us-gov-west-1
 2a05:d070:5000::/40,IPv6,S3,il-central-1
+2a05:d074:2080::/48,IPv6,S3,eu-west-3
 2406:da68:8800::/40,IPv6,S3,ap-southeast-1
 2600:1ff4:a400::/40,IPv6,S3,ca-west-1
 2a05:d050:a000::/40,IPv6,S3,eu-south-1
@@ -537,6 +542,7 @@ ip_address,ip_type,service,region
 2a05:d07a:4000::/40,IPv6,S3,eu-central-1
 2600:1f68:8000::/39,IPv6,S3,us-east-1
 2a05:d030:8000::/40,IPv6,S3,eu-west-1
+2a05:d074:2000::/56,IPv6,S3,eu-west-3
 2404:c2c0:2c00::/40,IPv6,S3,cn-northwest-1
 2406:daf4:a000::/40,IPv6,S3,ap-south-1
 240f:80f8:8000::/40,IPv6,S3,cn-north-1
@@ -684,7 +690,6 @@ ip_address,ip_type,service,region
 2406:daf0:7000::/40,IPv6,S3,me-central-1
 2600:1fed:e000::/40,IPv6,S3,sa-east-1
 2a05:d034:a000::/40,IPv6,S3,eu-south-1
-2a05:d059:2000::/40,IPv6,S3,eu-west-3
 2406:da68:f000::/40,IPv6,S3,ap-southeast-4
 2a05:d059:c000::/40,IPv6,S3,eu-west-2
 2a05:d074:4000::/40,IPv6,S3,eu-central-1
@@ -693,6 +698,7 @@ ip_address,ip_type,service,region
 2600:1fb9:a400::/40,IPv6,S3,ca-west-1
 2a05:d074:1000::/40,IPv6,S3,eu-south-2
 2600:1fb9:2000::/40,IPv6,S3,us-gov-west-1
+2a05:d059:2040::/48,IPv6,S3,eu-west-3
 2a05:d074:800::/40,IPv6,S3,me-west-1
 2406:daf8:2000::/40,IPv6,S3,ap-northeast-2
 2600:1ff8:6000::/40,IPv6,S3,us-east-2
