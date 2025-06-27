@@ -456,6 +456,12 @@
     "region": "ap-southeast-7"
   },
   {
+    "ip_address": "2406:daf3:4800::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-southeast-7"
+  },
+  {
     "ip_address": "2406:dafe:4800::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -631,6 +637,12 @@
   },
   {
     "ip_address": "2406:daed:4800::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-southeast-7"
+  },
+  {
+    "ip_address": "2406:daf3:4800::/40",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "ap-southeast-7"

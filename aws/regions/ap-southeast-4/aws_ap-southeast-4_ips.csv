@@ -83,6 +83,7 @@ ip_address,ip_type,service,region
 2406:da30:f000::/40,IPv6,AMAZON,ap-southeast-4
 2406:da2f::/36,IPv6,AMAZON,ap-southeast-4
 2406:da1f::/36,IPv6,AMAZON,ap-southeast-4
+2406:daf3:f000::/40,IPv6,AMAZON,ap-southeast-4
 2406:dab9:f000::/40,IPv6,AMAZON,ap-southeast-4
 2406:daf4:f000::/40,IPv6,AMAZON,ap-southeast-4
 2406:daf2:f000::/40,IPv6,AMAZON,ap-southeast-4
@@ -118,6 +119,7 @@ ip_address,ip_type,service,region
 2406:da30:f000::/40,IPv6,EC2,ap-southeast-4
 2406:da2f::/36,IPv6,EC2,ap-southeast-4
 2406:da1f::/36,IPv6,EC2,ap-southeast-4
+2406:daf3:f000::/40,IPv6,EC2,ap-southeast-4
 2406:dab9:f000::/40,IPv6,EC2,ap-southeast-4
 2406:daf4:f000::/40,IPv6,EC2,ap-southeast-4
 2406:daf2:f000::/40,IPv6,EC2,ap-southeast-4

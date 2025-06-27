@@ -576,6 +576,12 @@
     "region": "me-central-1"
   },
   {
+    "ip_address": "2406:daf3:7000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "me-central-1"
+  },
+  {
     "ip_address": "2406:da68:7000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -811,6 +817,12 @@
   },
   {
     "ip_address": "2600:f0f0:5531::/48",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "me-central-1"
+  },
+  {
+    "ip_address": "2406:daf3:7000::/40",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "me-central-1"

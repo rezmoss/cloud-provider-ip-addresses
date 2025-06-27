@@ -198,6 +198,12 @@
     "region": "me-west-1"
   },
   {
+    "ip_address": "2a05:d073:800::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "me-west-1"
+  },
+  {
     "ip_address": "2a05:d050:800::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -391,6 +397,12 @@
   },
   {
     "ip_address": "2a05:d059:800::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "me-west-1"
+  },
+  {
+    "ip_address": "2a05:d073:800::/40",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "me-west-1"

@@ -165,6 +165,7 @@ ip_address,ip_type,service,region
 2600:f0f0:5538::/48,IPv6,AMAZON,ap-northeast-3
 2406:daf6:6000::/40,IPv6,AMAZON,ap-northeast-3
 2406:daff:6000::/40,IPv6,AMAZON,ap-northeast-3
+2406:daf3:6000::/40,IPv6,AMAZON,ap-northeast-3
 2406:daf7:6000::/40,IPv6,AMAZON,ap-northeast-3
 2600:f0f0:5537::/48,IPv6,AMAZON,ap-northeast-3
 2406:da36:6000::/40,IPv6,AMAZON,ap-northeast-3
@@ -209,6 +210,7 @@ ip_address,ip_type,service,region
 2600:f0f0:5538::/48,IPv6,EC2,ap-northeast-3
 2406:daf6:6000::/40,IPv6,EC2,ap-northeast-3
 2406:daff:6000::/40,IPv6,EC2,ap-northeast-3
+2406:daf3:6000::/40,IPv6,EC2,ap-northeast-3
 2406:daf7:6000::/40,IPv6,EC2,ap-northeast-3
 2600:f0f0:5537::/48,IPv6,EC2,ap-northeast-3
 2406:da36:6000::/40,IPv6,EC2,ap-northeast-3

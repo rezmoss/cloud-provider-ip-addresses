@@ -1758,6 +1758,12 @@
     "region": "sa-east-1"
   },
   {
+    "ip_address": "2600:1ff3:e000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "sa-east-1"
+  },
+  {
     "ip_address": "2600:1ff2:e000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -2167,6 +2173,12 @@
   },
   {
     "ip_address": "2606:f40:be00::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "sa-east-1"
+  },
+  {
+    "ip_address": "2600:1ff3:e000::/40",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "sa-east-1"

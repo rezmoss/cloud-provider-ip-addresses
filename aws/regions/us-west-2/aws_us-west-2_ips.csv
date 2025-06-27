@@ -156,6 +156,7 @@ ip_address,ip_type,service,region
 52.93.240.0/23,IPv4,AMAZON,us-west-2
 18.246.0.0/16,IPv4,AMAZON,us-west-2
 108.166.240.0/22,IPv4,AMAZON,us-west-2
+216.244.0.0/24,IPv4,AMAZON,us-west-2
 3.5.80.0/21,IPv4,AMAZON,us-west-2
 35.96.2.0/24,IPv4,AMAZON,us-west-2
 52.218.128.0/17,IPv4,AMAZON,us-west-2
@@ -165,7 +166,6 @@ ip_address,ip_type,service,region
 35.96.10.0/24,IPv4,AMAZON,us-west-2
 99.77.232.0/24,IPv4,AMAZON,us-west-2
 99.78.196.0/22,IPv4,AMAZON,us-west-2
-1.178.8.0/22,IPv4,AMAZON,us-west-2
 52.129.224.0/22,IPv4,AMAZON,us-west-2
 52.93.246.223/32,IPv4,AMAZON,us-west-2
 15.220.206.0/24,IPv4,AMAZON,us-west-2
@@ -388,13 +388,13 @@ ip_address,ip_type,service,region
 64.252.65.0/24,IPv4,EC2,us-west-2
 16.71.0.0/18,IPv4,EC2,us-west-2
 18.246.0.0/16,IPv4,EC2,us-west-2
+216.244.0.0/24,IPv4,EC2,us-west-2
 3.5.80.0/21,IPv4,EC2,us-west-2
 35.96.2.0/24,IPv4,EC2,us-west-2
 15.220.205.0/24,IPv4,EC2,us-west-2
 52.88.0.0/15,IPv4,EC2,us-west-2
 35.96.10.0/24,IPv4,EC2,us-west-2
 99.77.232.0/24,IPv4,EC2,us-west-2
-1.178.8.0/22,IPv4,EC2,us-west-2
 52.129.224.0/22,IPv4,EC2,us-west-2
 15.220.206.0/24,IPv4,EC2,us-west-2
 15.177.80.0/24,IPv4,EC2,us-west-2
@@ -568,7 +568,6 @@ ip_address,ip_type,service,region
 52.94.10.0/24,IPv4,DYNAMODB,us-west-2
 35.71.64.0/22,IPv4,DYNAMODB,us-west-2
 52.94.28.0/23,IPv4,DYNAMODB,us-west-2
-2600:f0f2:7017::/48,IPv6,AMAZON,us-west-2
 2606:7b40:10ff:d200::/60,IPv6,AMAZON,us-west-2
 2600:1f01:4874::/47,IPv6,AMAZON,us-west-2
 2600:1f1d:8000::/36,IPv6,AMAZON,us-west-2
@@ -601,6 +600,7 @@ ip_address,ip_type,service,region
 2600:f0f0:1:2200::/56,IPv6,AMAZON,us-west-2
 2606:7b40:1b0f:fa00::/56,IPv6,AMAZON,us-west-2
 2600:1f32:4000::/39,IPv6,AMAZON,us-west-2
+2600:1ff3:4000::/39,IPv6,AMAZON,us-west-2
 2600:1f60:4000::/39,IPv6,AMAZON,us-west-2
 2606:7b40:10ff:a2e0::/60,IPv6,AMAZON,us-west-2
 2600:f0f0:5512::/48,IPv6,AMAZON,us-west-2
@@ -814,7 +814,6 @@ ip_address,ip_type,service,region
 2600:f0f0:5515::/48,IPv6,IVS_REALTIME,us-west-2
 2600:1f32:4000::/39,IPv6,WORKSPACES_GATEWAYS,us-west-2
 2600:1f24:34::/48,IPv6,WORKSPACES_GATEWAYS,us-west-2
-2600:f0f2:7017::/48,IPv6,EC2,us-west-2
 2606:7b40:10ff:d200::/60,IPv6,EC2,us-west-2
 2600:1f1d:8000::/36,IPv6,EC2,us-west-2
 2600:f0f0:1123::/48,IPv6,EC2,us-west-2
@@ -843,6 +842,7 @@ ip_address,ip_type,service,region
 2600:f0f0:1:2200::/56,IPv6,EC2,us-west-2
 2606:7b40:1b0f:fa00::/56,IPv6,EC2,us-west-2
 2600:1f32:4000::/39,IPv6,EC2,us-west-2
+2600:1ff3:4000::/39,IPv6,EC2,us-west-2
 2600:1f60:4000::/39,IPv6,EC2,us-west-2
 2606:7b40:10ff:a2e0::/60,IPv6,EC2,us-west-2
 2600:f0f0:5512::/48,IPv6,EC2,us-west-2

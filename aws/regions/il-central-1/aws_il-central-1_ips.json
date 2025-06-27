@@ -564,6 +564,12 @@
     "region": "il-central-1"
   },
   {
+    "ip_address": "2a05:d073:5000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "il-central-1"
+  },
+  {
     "ip_address": "2a05:d036:5000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -775,6 +781,12 @@
   },
   {
     "ip_address": "2a05:d072:5000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "il-central-1"
+  },
+  {
+    "ip_address": "2a05:d073:5000::/40",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "il-central-1"
