@@ -1290,6 +1290,12 @@
     "region": "ap-northeast-2"
   },
   {
+    "ip_address": "18.98.132.128/25",
+    "ip_type": "IPv4",
+    "service": "AURORA_DSQL",
+    "region": "ap-northeast-2"
+  },
+  {
     "ip_address": "43.201.155.152/29",
     "ip_type": "IPv4",
     "service": "MEDIA_PACKAGE_V2",
@@ -1995,6 +2001,12 @@
     "ip_address": "2406:da12:1e1:d900::/56",
     "ip_type": "IPv6",
     "service": "EC2_INSTANCE_CONNECT",
+    "region": "ap-northeast-2"
+  },
+  {
+    "ip_address": "2406:da12:8f1:3d00::/56",
+    "ip_type": "IPv6",
+    "service": "AURORA_DSQL",
     "region": "ap-northeast-2"
   }
 ]

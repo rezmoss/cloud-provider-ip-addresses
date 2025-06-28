@@ -954,6 +954,12 @@
     "region": "us-west-2"
   },
   {
+    "ip_address": "1.178.9.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-west-2"
+  },
+  {
     "ip_address": "35.96.2.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -2346,6 +2352,12 @@
     "region": "us-west-2"
   },
   {
+    "ip_address": "1.178.9.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-west-2"
+  },
+  {
     "ip_address": "35.96.2.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -3411,6 +3423,12 @@
     "ip_address": "52.94.28.0/23",
     "ip_type": "IPv4",
     "service": "DYNAMODB",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "2600:f0f2:7017::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
     "region": "us-west-2"
   },
   {
@@ -4887,6 +4905,12 @@
     "ip_address": "2600:1f24:34::/48",
     "ip_type": "IPv6",
     "service": "WORKSPACES_GATEWAYS",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "2600:f0f2:7017::/48",
+    "ip_type": "IPv6",
+    "service": "EC2",
     "region": "us-west-2"
   },
   {

@@ -7,6 +7,7 @@ CREATE TABLE IF NOT EXISTS `aws_aurora_dsql_ips` (
 );
 
 INSERT INTO `aws_aurora_dsql_ips` (`ip_address`, `ip_type`) VALUES ('18.99.75.128/25', 'IPv4');
+INSERT INTO `aws_aurora_dsql_ips` (`ip_address`, `ip_type`) VALUES ('18.98.132.128/25', 'IPv4');
 INSERT INTO `aws_aurora_dsql_ips` (`ip_address`, `ip_type`) VALUES ('18.96.17.0/25', 'IPv4');
 INSERT INTO `aws_aurora_dsql_ips` (`ip_address`, `ip_type`) VALUES ('18.97.198.128/25', 'IPv4');
 INSERT INTO `aws_aurora_dsql_ips` (`ip_address`, `ip_type`) VALUES ('18.98.164.0/25', 'IPv4');
@@ -15,6 +16,7 @@ INSERT INTO `aws_aurora_dsql_ips` (`ip_address`, `ip_type`) VALUES ('18.97.33.12
 INSERT INTO `aws_aurora_dsql_ips` (`ip_address`, `ip_type`) VALUES ('18.97.139.128/25', 'IPv4');
 INSERT INTO `aws_aurora_dsql_ips` (`ip_address`, `ip_type`) VALUES ('18.98.20.128/25', 'IPv4');
 INSERT INTO `aws_aurora_dsql_ips` (`ip_address`, `ip_type`) VALUES ('2406:da14:1713:ba00::/56', 'IPv6');
+INSERT INTO `aws_aurora_dsql_ips` (`ip_address`, `ip_type`) VALUES ('2406:da12:8f1:3d00::/56', 'IPv6');
 INSERT INTO `aws_aurora_dsql_ips` (`ip_address`, `ip_type`) VALUES ('2406:da16:c46:6600::/56', 'IPv6');
 INSERT INTO `aws_aurora_dsql_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d018:b3d:8200::/56', 'IPv6');
 INSERT INTO `aws_aurora_dsql_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d01c:d06:1800::/56', 'IPv6');

@@ -3720,6 +3720,12 @@
     "region": "GLOBAL"
   },
   {
+    "ip_address": "1.178.6.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "3.4.3.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -4246,6 +4252,12 @@
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "us-east-1"
+  },
+  {
+    "ip_address": "1.178.10.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-west-1"
   },
   {
     "ip_address": "3.4.12.43/32",
@@ -20424,6 +20436,12 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "1.178.8.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-east-2"
+  },
+  {
     "ip_address": "3.172.64.0/18",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -20956,6 +20974,12 @@
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "us-east-1"
+  },
+  {
+    "ip_address": "1.178.9.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-west-2"
   },
   {
     "ip_address": "3.4.12.37/32",
@@ -26010,6 +26034,12 @@
     "region": "eu-west-1"
   },
   {
+    "ip_address": "1.178.11.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-northeast-1"
+  },
+  {
     "ip_address": "3.4.4.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -26812,6 +26842,12 @@
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "us-west-1"
+  },
+  {
+    "ip_address": "1.178.5.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-east-1"
   },
   {
     "ip_address": "3.4.12.17/32",
@@ -31042,6 +31078,12 @@
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "GLOBAL"
+  },
+  {
+    "ip_address": "2600:f0f2:7017::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-west-2"
   },
   {
     "ip_address": "2600:f0f2:7104::/48",
