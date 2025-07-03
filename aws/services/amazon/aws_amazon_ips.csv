@@ -619,7 +619,7 @@ ip_address,ip_type,service,region
 150.222.24.37/32,IPv4,AMAZON,us-east-1
 150.222.49.0/27,IPv4,AMAZON,ap-northeast-3
 204.246.173.0/24,IPv4,AMAZON,GLOBAL
-1.178.6.0/24,IPv4,AMAZON,us-east-1
+1.178.65.0/24,IPv4,AMAZON,us-west-2
 3.4.3.0/24,IPv4,AMAZON,us-west-2
 15.222.0.0/15,IPv4,AMAZON,ca-central-1
 15.230.15.90/31,IPv4,AMAZON,eu-central-1
@@ -4361,6 +4361,7 @@ ip_address,ip_type,service,region
 150.222.152.100/32,IPv4,AMAZON,eu-central-1
 162.213.233.0/24,IPv4,AMAZON,eu-west-1
 199.9.248.0/21,IPv4,AMAZON,GLOBAL
+1.178.4.0/24,IPv4,AMAZON,us-east-1
 3.3.32.0/23,IPv4,AMAZON,us-east-1
 3.4.12.26/32,IPv4,AMAZON,ap-southeast-1
 13.248.101.0/24,IPv4,AMAZON,eu-west-2
@@ -5810,6 +5811,7 @@ ip_address,ip_type,service,region
 2406:daf0:b000::/40,IPv6,AMAZON,ap-south-2
 2406:daff:7000::/40,IPv6,AMAZON,me-central-1
 2600:1f38:2000::/40,IPv6,AMAZON,us-gov-west-1
+2600:f0f2:7011::/48,IPv6,AMAZON,us-east-1
 2a05:d032:6000::/40,IPv6,AMAZON,eu-north-1
 2406:da36:a000::/40,IPv6,AMAZON,ap-south-1
 2406:da36:c800::/40,IPv6,AMAZON,ap-east-2
@@ -6050,6 +6052,7 @@ ip_address,ip_type,service,region
 2600:1fff:c000::/40,IPv6,AMAZON,us-west-1
 2606:7b40:1a4f:c320::/60,IPv6,AMAZON,us-west-2
 2600:9000:4000::/36,IPv6,AMAZON,GLOBAL
+2600:f0f2:7010::/48,IPv6,AMAZON,us-east-1
 2606:7b40:1b09::/56,IPv6,AMAZON,sa-east-1
 2a05:d012::/36,IPv6,AMAZON,eu-west-3
 2a05:d072:b000::/40,IPv6,AMAZON,eu-central-1
@@ -6533,6 +6536,7 @@ ip_address,ip_type,service,region
 2a01:578:0:7502::1/128,IPv6,AMAZON,eu-north-1
 2406:daef:2800::/40,IPv6,AMAZON,ap-southeast-6
 2406:daf4:c800::/40,IPv6,AMAZON,ap-east-2
+2600:f0f1:8a00::/39,IPv6,AMAZON,us-east-1
 2600:f0fb:8000::/40,IPv6,AMAZON,us-west-2
 2406:da32:a000::/40,IPv6,AMAZON,ap-south-1
 2406:da68:c800::/40,IPv6,AMAZON,ap-east-2
@@ -6722,6 +6726,7 @@ ip_address,ip_type,service,region
 2600:1ffa:e000::/40,IPv6,AMAZON,sa-east-1
 2600:1ffc:6000::/40,IPv6,AMAZON,us-east-2
 2600:f0f0:1126::/48,IPv6,AMAZON,us-west-2
+2600:f0f2:7013::/48,IPv6,AMAZON,us-west-2
 2406:da10:8000::/36,IPv6,AMAZON,ap-southeast-5
 2406:da38:7000::/40,IPv6,AMAZON,me-central-1
 2406:daf0:e000::/40,IPv6,AMAZON,ap-east-1
@@ -6820,7 +6825,6 @@ ip_address,ip_type,service,region
 2406:dafb:8000::/40,IPv6,AMAZON,ap-southeast-1
 2600:1f70:2000::/40,IPv6,AMAZON,us-gov-west-1
 2600:1ffd:8190::/48,IPv6,AMAZON,ca-central-1
-2600:f0f2:7010::/46,IPv6,AMAZON,us-east-1
 2606:7b40:1b0e:4000::/56,IPv6,AMAZON,ca-west-1
 2606:7b40:f000:1600::/56,IPv6,AMAZON,us-west-2
 2406:daa0:1000::/40,IPv6,AMAZON,af-south-1
