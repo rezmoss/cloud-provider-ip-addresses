@@ -16,6 +16,7 @@ INSERT INTO `aws_ap-northeast-1_ips` (`ip_address`, `ip_type`) VALUES ('104.255.
 INSERT INTO `aws_ap-northeast-1_ips` (`ip_address`, `ip_type`) VALUES ('150.222.38.0/26', 'IPv4');
 INSERT INTO `aws_ap-northeast-1_ips` (`ip_address`, `ip_type`) VALUES ('99.77.244.0/24', 'IPv4');
 INSERT INTO `aws_ap-northeast-1_ips` (`ip_address`, `ip_type`) VALUES ('52.144.225.64/26', 'IPv4');
+INSERT INTO `aws_ap-northeast-1_ips` (`ip_address`, `ip_type`) VALUES ('5.60.128.0/17', 'IPv4');
 INSERT INTO `aws_ap-northeast-1_ips` (`ip_address`, `ip_type`) VALUES ('35.71.114.0/24', 'IPv4');
 INSERT INTO `aws_ap-northeast-1_ips` (`ip_address`, `ip_type`) VALUES ('52.219.68.0/22', 'IPv4');
 INSERT INTO `aws_ap-northeast-1_ips` (`ip_address`, `ip_type`) VALUES ('54.250.0.0/16', 'IPv4');
@@ -237,6 +238,7 @@ INSERT INTO `aws_ap-northeast-1_ips` (`ip_address`, `ip_type`) VALUES ('54.250.2
 INSERT INTO `aws_ap-northeast-1_ips` (`ip_address`, `ip_type`) VALUES ('43.206.0.0/15', 'IPv4');
 INSERT INTO `aws_ap-northeast-1_ips` (`ip_address`, `ip_type`) VALUES ('54.248.0.0/15', 'IPv4');
 INSERT INTO `aws_ap-northeast-1_ips` (`ip_address`, `ip_type`) VALUES ('99.77.244.0/24', 'IPv4');
+INSERT INTO `aws_ap-northeast-1_ips` (`ip_address`, `ip_type`) VALUES ('5.60.128.0/17', 'IPv4');
 INSERT INTO `aws_ap-northeast-1_ips` (`ip_address`, `ip_type`) VALUES ('35.71.114.0/24', 'IPv4');
 INSERT INTO `aws_ap-northeast-1_ips` (`ip_address`, `ip_type`) VALUES ('54.250.0.0/16', 'IPv4');
 INSERT INTO `aws_ap-northeast-1_ips` (`ip_address`, `ip_type`) VALUES ('35.50.226.0/24', 'IPv4');
