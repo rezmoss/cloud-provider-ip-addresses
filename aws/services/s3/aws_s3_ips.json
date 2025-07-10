@@ -1908,6 +1908,18 @@
     "region": "sa-east-1"
   },
   {
+    "ip_address": "1.178.4.0/24",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "1.178.5.0/24",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "44.192.134.240/28",
     "ip_type": "IPv4",
     "service": "S3",
@@ -4282,5 +4294,17 @@
     "ip_type": "IPv6",
     "service": "S3",
     "region": "ap-southeast-5"
+  },
+  {
+    "ip_address": "2600:f0f2:7010::/48",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "2600:f0f2:7011::/48",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "us-east-1"
   }
 ]

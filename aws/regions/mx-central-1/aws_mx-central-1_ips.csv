@@ -48,6 +48,7 @@ ip_address,ip_type,service,region
 78.12.0.0/15,IPv4,EC2,mx-central-1
 15.177.102.0/24,IPv4,ROUTE53_HEALTHCHECKS_PUBLISHING,mx-central-1
 78.12.16.0/24,IPv4,API_GATEWAY,mx-central-1
+78.12.207.8/29,IPv4,EC2_INSTANCE_CONNECT,mx-central-1
 35.71.125.0/24,IPv4,DYNAMODB,mx-central-1
 13.248.76.0/24,IPv4,DYNAMODB,mx-central-1
 2600:1f69:7400::/40,IPv6,AMAZON,mx-central-1
@@ -108,3 +109,4 @@ ip_address,ip_type,service,region
 2600:1f30:7400::/40,IPv6,EC2,mx-central-1
 2600:1fb9:7400::/40,IPv6,EC2,mx-central-1
 2600:1ff7:7400::/40,IPv6,EC2,mx-central-1
+2600:1f17:4ee0:b800::/56,IPv6,EC2_INSTANCE_CONNECT,mx-central-1

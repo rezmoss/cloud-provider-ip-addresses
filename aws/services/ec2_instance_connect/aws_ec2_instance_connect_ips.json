@@ -96,6 +96,12 @@
     "region": "ap-southeast-5"
   },
   {
+    "ip_address": "43.209.155.96/29",
+    "ip_type": "IPv4",
+    "service": "EC2_INSTANCE_CONNECT",
+    "region": "ap-southeast-7"
+  },
+  {
     "ip_address": "35.183.92.176/29",
     "ip_type": "IPv4",
     "service": "EC2_INSTANCE_CONNECT",
@@ -172,6 +178,12 @@
     "ip_type": "IPv4",
     "service": "EC2_INSTANCE_CONNECT",
     "region": "me-south-1"
+  },
+  {
+    "ip_address": "78.12.207.8/29",
+    "ip_type": "IPv4",
+    "service": "EC2_INSTANCE_CONNECT",
+    "region": "mx-central-1"
   },
   {
     "ip_address": "18.228.70.32/29",
@@ -300,6 +312,12 @@
     "region": "ap-southeast-5"
   },
   {
+    "ip_address": "2406:da14:85c5:5b00::/56",
+    "ip_type": "IPv6",
+    "service": "EC2_INSTANCE_CONNECT",
+    "region": "ap-southeast-7"
+  },
+  {
     "ip_address": "2600:1f11:ae3:700::/56",
     "ip_type": "IPv6",
     "service": "EC2_INSTANCE_CONNECT",
@@ -376,6 +394,12 @@
     "ip_type": "IPv6",
     "service": "EC2_INSTANCE_CONNECT",
     "region": "me-south-1"
+  },
+  {
+    "ip_address": "2600:1f17:4ee0:b800::/56",
+    "ip_type": "IPv6",
+    "service": "EC2_INSTANCE_CONNECT",
+    "region": "mx-central-1"
   },
   {
     "ip_address": "2600:1f1e:d1d:e700::/56",

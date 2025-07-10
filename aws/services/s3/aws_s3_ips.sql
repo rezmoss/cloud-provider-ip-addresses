@@ -324,6 +324,8 @@ INSERT INTO `aws_s3_ips` (`ip_address`, `ip_type`) VALUES ('78.12.79.192/28', 'I
 INSERT INTO `aws_s3_ips` (`ip_address`, `ip_type`) VALUES ('78.12.79.208/28', 'IPv4');
 INSERT INTO `aws_s3_ips` (`ip_address`, `ip_type`) VALUES ('15.228.107.0/28', 'IPv4');
 INSERT INTO `aws_s3_ips` (`ip_address`, `ip_type`) VALUES ('15.228.107.16/28', 'IPv4');
+INSERT INTO `aws_s3_ips` (`ip_address`, `ip_type`) VALUES ('1.178.4.0/24', 'IPv4');
+INSERT INTO `aws_s3_ips` (`ip_address`, `ip_type`) VALUES ('1.178.5.0/24', 'IPv4');
 INSERT INTO `aws_s3_ips` (`ip_address`, `ip_type`) VALUES ('44.192.134.240/28', 'IPv4');
 INSERT INTO `aws_s3_ips` (`ip_address`, `ip_type`) VALUES ('44.192.140.64/28', 'IPv4');
 INSERT INTO `aws_s3_ips` (`ip_address`, `ip_type`) VALUES ('3.141.102.208/28', 'IPv4');
@@ -720,3 +722,5 @@ INSERT INTO `aws_s3_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d06d:8000::/40'
 INSERT INTO `aws_s3_ips` (`ip_address`, `ip_type`) VALUES ('2406:daed:4800::/40', 'IPv6');
 INSERT INTO `aws_s3_ips` (`ip_address`, `ip_type`) VALUES ('2600:1ff8:e000::/40', 'IPv6');
 INSERT INTO `aws_s3_ips` (`ip_address`, `ip_type`) VALUES ('2406:daf4:800::/40', 'IPv6');
+INSERT INTO `aws_s3_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f2:7010::/48', 'IPv6');
+INSERT INTO `aws_s3_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f2:7011::/48', 'IPv6');
