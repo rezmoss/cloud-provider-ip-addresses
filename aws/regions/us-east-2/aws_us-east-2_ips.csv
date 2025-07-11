@@ -394,6 +394,7 @@ ip_address,ip_type,service,region
 52.219.224.0/22,IPv4,S3,us-east-2
 52.219.80.0/20,IPv4,S3,us-east-2
 52.219.228.0/22,IPv4,S3,us-east-2
+1.178.8.0/24,IPv4,S3,us-east-2
 3.141.102.208/28,IPv4,S3,us-east-2
 3.141.102.224/28,IPv4,S3,us-east-2
 35.50.143.0/24,IPv4,IVS_REALTIME,us-east-2
@@ -604,6 +605,7 @@ ip_address,ip_type,service,region
 2600:1f68:6000::/40,IPv6,S3,us-east-2
 2600:1ffa:6000::/40,IPv6,S3,us-east-2
 2600:1ff8:6000::/40,IPv6,S3,us-east-2
+2600:f0f2:7014::/48,IPv6,S3,us-east-2
 2600:f0f0:1121::/48,IPv6,IVS_REALTIME,us-east-2
 2600:f0f0:551e::/48,IPv6,IVS_REALTIME,us-east-2
 2600:f0f0:5520::/48,IPv6,IVS_REALTIME,us-east-2

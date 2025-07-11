@@ -28,6 +28,7 @@ ip_address,ip_type,service,region
 104.255.59.200/32,IPv4,AMAZON,ap-southeast-5
 56.68.0.0/17,IPv4,AMAZON,ap-southeast-5
 104.255.59.196/32,IPv4,AMAZON,ap-southeast-5
+216.244.1.0/24,IPv4,AMAZON,ap-southeast-5
 150.222.52.192/27,IPv4,AMAZON,ap-southeast-5
 35.18.0.0/15,IPv4,AMAZON,ap-southeast-5
 43.216.52.0/23,IPv4,AMAZON,ap-southeast-5
@@ -52,6 +53,7 @@ ip_address,ip_type,service,region
 52.94.250.80/28,IPv4,EC2,ap-southeast-5
 35.71.124.0/24,IPv4,EC2,ap-southeast-5
 56.68.0.0/17,IPv4,EC2,ap-southeast-5
+216.244.1.0/24,IPv4,EC2,ap-southeast-5
 15.177.95.0/24,IPv4,ROUTE53_HEALTHCHECKS_PUBLISHING,ap-southeast-5
 43.216.39.0/24,IPv4,API_GATEWAY,ap-southeast-5
 43.216.87.48/29,IPv4,EC2_INSTANCE_CONNECT,ap-southeast-5
