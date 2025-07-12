@@ -167,6 +167,7 @@ ip_address,ip_type,service,region
 16.12.74.0/24,IPv4,S3,ap-southeast-2
 3.5.164.0/22,IPv4,S3,ap-southeast-2
 3.5.168.0/23,IPv4,S3,ap-southeast-2
+1.178.11.0/24,IPv4,S3,ap-southeast-2
 3.26.88.0/28,IPv4,S3,ap-southeast-2
 3.26.88.16/28,IPv4,S3,ap-southeast-2
 35.55.11.0/24,IPv4,IVS_REALTIME,ap-southeast-2
@@ -345,6 +346,7 @@ ip_address,ip_type,service,region
 2406:daf9:c000::/40,IPv6,S3,ap-southeast-2
 2406:dafa:c000::/40,IPv6,S3,ap-southeast-2
 2406:daa0:c000::/40,IPv6,S3,ap-southeast-2
+2600:f0f2:7019::/48,IPv6,S3,ap-southeast-2
 2600:f0f0:1109::/48,IPv6,IVS_REALTIME,ap-southeast-2
 2600:f0f0:110a::/48,IPv6,IVS_REALTIME,ap-southeast-2
 2600:f0f0:110b::/48,IPv6,IVS_REALTIME,ap-southeast-2

@@ -2160,6 +2160,12 @@
     "region": "eu-central-1"
   },
   {
+    "ip_address": "1.178.10.0/24",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "eu-central-1"
+  },
+  {
     "ip_address": "3.65.246.0/28",
     "ip_type": "IPv4",
     "service": "S3",
@@ -3769,6 +3775,12 @@
   },
   {
     "ip_address": "2a05:d074:4000::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "eu-central-1"
+  },
+  {
+    "ip_address": "2600:f0f2:7018::/48",
     "ip_type": "IPv6",
     "service": "S3",
     "region": "eu-central-1"
