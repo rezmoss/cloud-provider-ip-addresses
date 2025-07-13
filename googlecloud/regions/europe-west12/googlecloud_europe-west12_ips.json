@@ -48,6 +48,12 @@
     "region": "europe-west12"
   },
   {
+    "ip_address": "34.183.3.128/25",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "europe-west12"
+  },
+  {
     "ip_address": "2600:1901:81b0::/44",
     "ip_type": "IPv6",
     "service": "Google Cloud",
