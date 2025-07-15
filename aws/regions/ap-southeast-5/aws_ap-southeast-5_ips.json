@@ -318,6 +318,12 @@
     "region": "ap-southeast-5"
   },
   {
+    "ip_address": "56.70.0.0/16",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "ap-southeast-5"
+  },
+  {
     "ip_address": "56.68.0.0/17",
     "ip_type": "IPv4",
     "service": "EC2",

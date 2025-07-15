@@ -59,6 +59,7 @@ INSERT INTO `aws_ap-southeast-5_ips` (`ip_address`, `ip_type`) VALUES ('43.216.0
 INSERT INTO `aws_ap-southeast-5_ips` (`ip_address`, `ip_type`) VALUES ('3.5.180.0/22', 'IPv4');
 INSERT INTO `aws_ap-southeast-5_ips` (`ip_address`, `ip_type`) VALUES ('52.94.250.80/28', 'IPv4');
 INSERT INTO `aws_ap-southeast-5_ips` (`ip_address`, `ip_type`) VALUES ('35.71.124.0/24', 'IPv4');
+INSERT INTO `aws_ap-southeast-5_ips` (`ip_address`, `ip_type`) VALUES ('56.70.0.0/16', 'IPv4');
 INSERT INTO `aws_ap-southeast-5_ips` (`ip_address`, `ip_type`) VALUES ('56.68.0.0/17', 'IPv4');
 INSERT INTO `aws_ap-southeast-5_ips` (`ip_address`, `ip_type`) VALUES ('216.244.1.0/24', 'IPv4');
 INSERT INTO `aws_ap-southeast-5_ips` (`ip_address`, `ip_type`) VALUES ('15.177.95.0/24', 'IPv4');

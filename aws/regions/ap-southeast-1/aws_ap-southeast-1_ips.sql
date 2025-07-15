@@ -395,6 +395,7 @@ INSERT INTO `aws_ap-southeast-1_ips` (`ip_address`, `ip_type`) VALUES ('2406:daf
 INSERT INTO `aws_ap-southeast-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f0:4105::/48', 'IPv6');
 INSERT INTO `aws_ap-southeast-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0fb:f026::/48', 'IPv6');
 INSERT INTO `aws_ap-southeast-1_ips` (`ip_address`, `ip_type`) VALUES ('2400:6500:0:b000::/56', 'IPv6');
+INSERT INTO `aws_ap-southeast-1_ips` (`ip_address`, `ip_type`) VALUES ('2406:daec:8800::/48', 'IPv6');
 INSERT INTO `aws_ap-southeast-1_ips` (`ip_address`, `ip_type`) VALUES ('2606:f40:ffe2::/48', 'IPv6');
 INSERT INTO `aws_ap-southeast-1_ips` (`ip_address`, `ip_type`) VALUES ('2406:da36:8000::/40', 'IPv6');
 INSERT INTO `aws_ap-southeast-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1ffd:8422::/48', 'IPv6');
@@ -462,6 +463,7 @@ INSERT INTO `aws_ap-southeast-1_ips` (`ip_address`, `ip_type`) VALUES ('2406:dae
 INSERT INTO `aws_ap-southeast-1_ips` (`ip_address`, `ip_type`) VALUES ('2406:daf4:8800::/40', 'IPv6');
 INSERT INTO `aws_ap-southeast-1_ips` (`ip_address`, `ip_type`) VALUES ('2406:daf9:8000::/40', 'IPv6');
 INSERT INTO `aws_ap-southeast-1_ips` (`ip_address`, `ip_type`) VALUES ('2406:daa0:8000::/40', 'IPv6');
+INSERT INTO `aws_ap-southeast-1_ips` (`ip_address`, `ip_type`) VALUES ('2406:daec:8800::/48', 'IPv6');
 INSERT INTO `aws_ap-southeast-1_ips` (`ip_address`, `ip_type`) VALUES ('2406:daf4:8000::/40', 'IPv6');
 INSERT INTO `aws_ap-southeast-1_ips` (`ip_address`, `ip_type`) VALUES ('2406:da68:8800::/40', 'IPv6');
 INSERT INTO `aws_ap-southeast-1_ips` (`ip_address`, `ip_type`) VALUES ('2406:da60:8000::/40', 'IPv6');
@@ -503,6 +505,7 @@ INSERT INTO `aws_ap-southeast-1_ips` (`ip_address`, `ip_type`) VALUES ('2406:da1
 INSERT INTO `aws_ap-southeast-1_ips` (`ip_address`, `ip_type`) VALUES ('2406:dafb:8800::/40', 'IPv6');
 INSERT INTO `aws_ap-southeast-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f0:4105::/48', 'IPv6');
 INSERT INTO `aws_ap-southeast-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0fb:f026::/48', 'IPv6');
+INSERT INTO `aws_ap-southeast-1_ips` (`ip_address`, `ip_type`) VALUES ('2406:daec:8800::/48', 'IPv6');
 INSERT INTO `aws_ap-southeast-1_ips` (`ip_address`, `ip_type`) VALUES ('2606:f40:ffe2::/48', 'IPv6');
 INSERT INTO `aws_ap-southeast-1_ips` (`ip_address`, `ip_type`) VALUES ('2406:da36:8000::/40', 'IPv6');
 INSERT INTO `aws_ap-southeast-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1ffd:8422::/48', 'IPv6');

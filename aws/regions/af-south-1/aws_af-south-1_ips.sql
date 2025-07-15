@@ -92,6 +92,7 @@ INSERT INTO `aws_af-south-1_ips` (`ip_address`, `ip_type`) VALUES ('52.95.229.0/
 INSERT INTO `aws_af-south-1_ips` (`ip_address`, `ip_type`) VALUES ('96.0.36.0/22', 'IPv4');
 INSERT INTO `aws_af-south-1_ips` (`ip_address`, `ip_type`) VALUES ('15.177.91.0/24', 'IPv4');
 INSERT INTO `aws_af-south-1_ips` (`ip_address`, `ip_type`) VALUES ('15.193.10.0/24', 'IPv4');
+INSERT INTO `aws_af-south-1_ips` (`ip_address`, `ip_type`) VALUES ('15.240.0.0/16', 'IPv4');
 INSERT INTO `aws_af-south-1_ips` (`ip_address`, `ip_type`) VALUES ('3.5.202.0/23', 'IPv4');
 INSERT INTO `aws_af-south-1_ips` (`ip_address`, `ip_type`) VALUES ('15.193.10.0/24', 'IPv4');
 INSERT INTO `aws_af-south-1_ips` (`ip_address`, `ip_type`) VALUES ('15.177.91.0/24', 'IPv4');

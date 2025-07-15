@@ -52,6 +52,7 @@ ip_address,ip_type,service,region
 3.5.180.0/22,IPv4,EC2,ap-southeast-5
 52.94.250.80/28,IPv4,EC2,ap-southeast-5
 35.71.124.0/24,IPv4,EC2,ap-southeast-5
+56.70.0.0/16,IPv4,EC2,ap-southeast-5
 56.68.0.0/17,IPv4,EC2,ap-southeast-5
 216.244.1.0/24,IPv4,EC2,ap-southeast-5
 15.177.95.0/24,IPv4,ROUTE53_HEALTHCHECKS_PUBLISHING,ap-southeast-5

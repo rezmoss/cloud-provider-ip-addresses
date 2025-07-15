@@ -516,6 +516,12 @@
     "region": "af-south-1"
   },
   {
+    "ip_address": "15.240.0.0/16",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "af-south-1"
+  },
+  {
     "ip_address": "3.5.202.0/23",
     "ip_type": "IPv4",
     "service": "EC2",
