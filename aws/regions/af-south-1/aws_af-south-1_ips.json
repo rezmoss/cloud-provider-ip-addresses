@@ -834,6 +834,12 @@
     "region": "af-south-1"
   },
   {
+    "ip_address": "2600:f0f2:710b::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "af-south-1"
+  },
+  {
     "ip_address": "2406:da30:1000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -1086,6 +1092,12 @@
     "region": "af-south-1"
   },
   {
+    "ip_address": "2600:f0f2:710b::/48",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "af-south-1"
+  },
+  {
     "ip_address": "2406:da30:1000::/40",
     "ip_type": "IPv6",
     "service": "EC2",
@@ -1125,6 +1137,12 @@
     "ip_address": "2406:da68:1000::/40",
     "ip_type": "IPv6",
     "service": "EC2",
+    "region": "af-south-1"
+  },
+  {
+    "ip_address": "2600:f0f2:710b::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON_CONNECT",
     "region": "af-south-1"
   },
   {

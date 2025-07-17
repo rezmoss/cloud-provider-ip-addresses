@@ -6012,6 +6012,12 @@
     "region": "ap-southeast-1"
   },
   {
+    "ip_address": "16.144.0.0/16",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-west-2"
+  },
+  {
     "ip_address": "35.96.33.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -7312,6 +7318,12 @@
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "us-east-1"
+  },
+  {
+    "ip_address": "16.145.0.0/16",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-west-2"
   },
   {
     "ip_address": "18.162.0.0/16",
@@ -15610,6 +15622,12 @@
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "us-gov-west-1"
+  },
+  {
+    "ip_address": "2600:f0f2:710b::/48",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "af-south-1"
   },
   {
     "ip_address": "2606:f40:2400::/40",

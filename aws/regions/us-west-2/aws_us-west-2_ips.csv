@@ -390,6 +390,7 @@ ip_address,ip_type,service,region
 35.96.16.0/23,IPv4,EC2,us-west-2
 18.34.48.0/20,IPv4,EC2,us-west-2
 15.181.16.0/20,IPv4,EC2,us-west-2
+16.144.0.0/16,IPv4,EC2,us-west-2
 35.96.244.0/24,IPv4,EC2,us-west-2
 162.222.148.0/22,IPv4,EC2,us-west-2
 52.24.0.0/14,IPv4,EC2,us-west-2
@@ -416,6 +417,7 @@ ip_address,ip_type,service,region
 35.55.37.0/24,IPv4,EC2,us-west-2
 64.252.70.0/24,IPv4,EC2,us-west-2
 18.88.128.0/18,IPv4,EC2,us-west-2
+16.145.0.0/16,IPv4,EC2,us-west-2
 35.96.15.0/24,IPv4,EC2,us-west-2
 52.32.0.0/14,IPv4,EC2,us-west-2
 35.96.14.0/24,IPv4,EC2,us-west-2
