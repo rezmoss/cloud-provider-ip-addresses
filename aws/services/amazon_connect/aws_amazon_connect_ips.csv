@@ -24,6 +24,7 @@ ip_address,ip_type,service,region
 2600:f0f2:7103::/48,IPv6,AMAZON_CONNECT,eu-central-1
 2600:f0f2:7102::/48,IPv6,AMAZON_CONNECT,eu-west-2
 2600:f0f2:7101::/48,IPv6,AMAZON_CONNECT,us-east-1
+2600:f0f2:7140::/48,IPv6,AMAZON_CONNECT,us-gov-west-1
 2600:f0f2:7109::/48,IPv6,AMAZON_CONNECT,ap-south-1
 2600:f0f2:7106::/48,IPv6,AMAZON_CONNECT,ap-northeast-2
 2600:f0f2:7100::/48,IPv6,AMAZON_CONNECT,us-west-2

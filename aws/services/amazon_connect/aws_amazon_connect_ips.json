@@ -150,6 +150,12 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "2600:f0f2:7140::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON_CONNECT",
+    "region": "us-gov-west-1"
+  },
+  {
     "ip_address": "2600:f0f2:7109::/48",
     "ip_type": "IPv6",
     "service": "AMAZON_CONNECT",

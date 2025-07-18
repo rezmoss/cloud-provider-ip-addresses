@@ -31,6 +31,7 @@ INSERT INTO `aws_amazon_connect_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f
 INSERT INTO `aws_amazon_connect_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f2:7103::/48', 'IPv6');
 INSERT INTO `aws_amazon_connect_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f2:7102::/48', 'IPv6');
 INSERT INTO `aws_amazon_connect_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f2:7101::/48', 'IPv6');
+INSERT INTO `aws_amazon_connect_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f2:7140::/48', 'IPv6');
 INSERT INTO `aws_amazon_connect_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f2:7109::/48', 'IPv6');
 INSERT INTO `aws_amazon_connect_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f2:7106::/48', 'IPv6');
 INSERT INTO `aws_amazon_connect_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f2:7100::/48', 'IPv6');
