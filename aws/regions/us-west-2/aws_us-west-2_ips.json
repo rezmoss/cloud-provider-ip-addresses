@@ -4152,6 +4152,12 @@
     "region": "us-west-2"
   },
   {
+    "ip_address": "2606:7b40:1a3f:c200::/60",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-west-2"
+  },
+  {
     "ip_address": "2606:7b40:10ff:a280::/60",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -5551,6 +5557,12 @@
   },
   {
     "ip_address": "2606:7b40:10ff:9000::/56",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "2606:7b40:1a3f:c200::/60",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "us-west-2"
