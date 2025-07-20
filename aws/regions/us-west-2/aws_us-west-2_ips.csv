@@ -24,7 +24,6 @@ ip_address,ip_type,service,region
 35.50.133.0/24,IPv4,AMAZON,us-west-2
 64.252.72.0/24,IPv4,AMAZON,us-west-2
 139.56.32.0/23,IPv4,AMAZON,us-west-2
-1.178.65.0/24,IPv4,AMAZON,us-west-2
 3.4.3.0/24,IPv4,AMAZON,us-west-2
 52.93.12.0/24,IPv4,AMAZON,us-west-2
 52.94.176.0/20,IPv4,AMAZON,us-west-2
@@ -201,6 +200,7 @@ ip_address,ip_type,service,region
 64.252.71.0/24,IPv4,AMAZON,us-west-2
 52.93.14.0/24,IPv4,AMAZON,us-west-2
 162.208.121.0/24,IPv4,AMAZON,us-west-2
+216.244.5.0/24,IPv4,AMAZON,us-west-2
 35.155.0.0/16,IPv4,AMAZON,us-west-2
 54.239.2.0/23,IPv4,AMAZON,us-west-2
 3.4.12.42/32,IPv4,AMAZON,us-west-2
@@ -311,7 +311,6 @@ ip_address,ip_type,service,region
 35.50.133.0/24,IPv4,EC2,us-west-2
 64.252.72.0/24,IPv4,EC2,us-west-2
 139.56.32.0/23,IPv4,EC2,us-west-2
-1.178.65.0/24,IPv4,EC2,us-west-2
 3.4.3.0/24,IPv4,EC2,us-west-2
 52.94.249.64/28,IPv4,EC2,us-west-2
 15.181.253.0/24,IPv4,EC2,us-west-2
@@ -426,6 +425,7 @@ ip_address,ip_type,service,region
 173.83.204.0/23,IPv4,EC2,us-west-2
 15.181.251.0/24,IPv4,EC2,us-west-2
 64.252.71.0/24,IPv4,EC2,us-west-2
+216.244.5.0/24,IPv4,EC2,us-west-2
 35.155.0.0/16,IPv4,EC2,us-west-2
 52.10.0.0/15,IPv4,EC2,us-west-2
 3.4.4.0/24,IPv4,EC2,us-west-2
@@ -760,7 +760,6 @@ ip_address,ip_type,service,region
 2606:7b40:9fd::/48,IPv6,AMAZON,us-west-2
 2600:1ff1:4000::/39,IPv6,AMAZON,us-west-2
 2600:f0f0:1126::/48,IPv6,AMAZON,us-west-2
-2600:f0f2:7013::/48,IPv6,AMAZON,us-west-2
 2600:9000:5204::/48,IPv6,AMAZON,us-west-2
 2600:1f2b:8000::/36,IPv6,AMAZON,us-west-2
 2600:f0f0:5511::/48,IPv6,AMAZON,us-west-2
@@ -988,7 +987,6 @@ ip_address,ip_type,service,region
 2606:7b40:9fd::/48,IPv6,EC2,us-west-2
 2600:1ff1:4000::/39,IPv6,EC2,us-west-2
 2600:f0f0:1126::/48,IPv6,EC2,us-west-2
-2600:f0f2:7013::/48,IPv6,EC2,us-west-2
 2600:9000:5204::/48,IPv6,EC2,us-west-2
 2600:1f2b:8000::/36,IPv6,EC2,us-west-2
 2600:f0f0:5511::/48,IPv6,EC2,us-west-2
