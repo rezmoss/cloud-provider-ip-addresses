@@ -72,12 +72,6 @@
     "region": "cn-northwest-1"
   },
   {
-    "ip_address": "43.194.0.0/16",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "cn-northwest-1"
-  },
-  {
     "ip_address": "52.82.168.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -109,6 +103,12 @@
   },
   {
     "ip_address": "52.82.160.0/22",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "43.194.0.0/20",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "cn-northwest-1"
@@ -433,6 +433,12 @@
   },
   {
     "ip_address": "52.82.170.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "43.194.0.0/20",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "cn-northwest-1"
