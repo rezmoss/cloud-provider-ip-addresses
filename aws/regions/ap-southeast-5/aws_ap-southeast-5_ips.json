@@ -270,6 +270,12 @@
     "region": "ap-southeast-5"
   },
   {
+    "ip_address": "43.217.232.0/22",
+    "ip_type": "IPv4",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "ap-southeast-5"
+  },
+  {
     "ip_address": "99.151.160.0/21",
     "ip_type": "IPv4",
     "service": "EC2",

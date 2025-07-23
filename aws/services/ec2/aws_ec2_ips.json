@@ -1026,6 +1026,12 @@
     "region": "us-west-2"
   },
   {
+    "ip_address": "35.71.94.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "eusc-de-east-1"
+  },
+  {
     "ip_address": "35.71.118.0/24",
     "ip_type": "IPv4",
     "service": "EC2",

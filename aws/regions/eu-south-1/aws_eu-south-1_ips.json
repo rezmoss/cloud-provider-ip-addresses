@@ -816,6 +816,12 @@
     "region": "eu-south-1"
   },
   {
+    "ip_address": "35.152.232.0/22",
+    "ip_type": "IPv4",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "eu-south-1"
+  },
+  {
     "ip_address": "52.95.224.0/24",
     "ip_type": "IPv4",
     "service": "EC2",

@@ -288,6 +288,12 @@
     "region": "me-central-1"
   },
   {
+    "ip_address": "51.112.196.0/22",
+    "ip_type": "IPv4",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "me-central-1"
+  },
+  {
     "ip_address": "40.172.0.0/16",
     "ip_type": "IPv4",
     "service": "EC2",

@@ -276,6 +276,12 @@
     "region": "eu-south-2"
   },
   {
+    "ip_address": "51.48.16.0/22",
+    "ip_type": "IPv4",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "eu-south-2"
+  },
+  {
     "ip_address": "18.96.192.0/19",
     "ip_type": "IPv4",
     "service": "EC2",

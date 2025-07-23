@@ -3444,6 +3444,12 @@
     "region": "us-west-2"
   },
   {
+    "ip_address": "35.71.94.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eusc-de-east-1"
+  },
+  {
     "ip_address": "35.71.118.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -29224,6 +29230,24 @@
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "ap-southeast-5"
+  },
+  {
+    "ip_address": "3.102.50.0/23",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-southeast-6"
+  },
+  {
+    "ip_address": "3.102.59.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-southeast-6"
+  },
+  {
+    "ip_address": "3.102.88.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-southeast-6"
   },
   {
     "ip_address": "43.208.52.0/24",
