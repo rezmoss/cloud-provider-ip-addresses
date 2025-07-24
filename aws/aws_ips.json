@@ -13455,7 +13455,7 @@
     "ip_address": "23.228.192.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
-    "region": "us-east-1"
+    "region": "ca-west-1"
   },
   {
     "ip_address": "35.96.32.0/24",
@@ -33318,6 +33318,12 @@
     "region": "us-west-1"
   },
   {
+    "ip_address": "1.178.65.0/24",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "us-west-2"
+  },
+  {
     "ip_address": "1.178.9.0/24",
     "ip_type": "IPv4",
     "service": "S3",
@@ -38625,7 +38631,7 @@
     "ip_address": "23.228.192.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
-    "region": "us-east-1"
+    "region": "ca-west-1"
   },
   {
     "ip_address": "35.96.32.0/24",
@@ -69004,6 +69010,12 @@
     "ip_type": "IPv6",
     "service": "S3",
     "region": "us-east-2"
+  },
+  {
+    "ip_address": "2600:f0f2:7013::/48",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "us-west-2"
   },
   {
     "ip_address": "2600:f0f2:7017::/48",

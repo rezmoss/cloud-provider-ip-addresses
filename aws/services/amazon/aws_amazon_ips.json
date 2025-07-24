@@ -13455,7 +13455,7 @@
     "ip_address": "23.228.192.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
-    "region": "us-east-1"
+    "region": "ca-west-1"
   },
   {
     "ip_address": "35.96.32.0/24",

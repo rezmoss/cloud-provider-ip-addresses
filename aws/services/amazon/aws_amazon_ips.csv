@@ -2241,7 +2241,7 @@ ip_address,ip_type,service,region
 15.230.4.160/31,IPv4,AMAZON,ap-southeast-1
 15.230.39.94/31,IPv4,AMAZON,us-east-2
 15.230.64.64/26,IPv4,AMAZON,ap-southeast-3
-23.228.192.0/24,IPv4,AMAZON,us-east-1
+23.228.192.0/24,IPv4,AMAZON,ca-west-1
 35.96.32.0/24,IPv4,AMAZON,us-east-1
 52.93.229.96/32,IPv4,AMAZON,eu-west-2
 52.94.96.0/20,IPv4,AMAZON,ca-central-1
