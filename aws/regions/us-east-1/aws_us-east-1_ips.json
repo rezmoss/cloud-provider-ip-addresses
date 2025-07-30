@@ -7434,6 +7434,12 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "2600:f0f0:90:1400::/56",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "2600:1f36:8000::/39",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -8749,6 +8755,12 @@
   },
   {
     "ip_address": "2600:f0f0:111c::/48",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "2600:f0f0:90:1400::/56",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "us-east-1"

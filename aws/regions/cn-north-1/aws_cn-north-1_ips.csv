@@ -35,7 +35,6 @@ ip_address,ip_type,service,region
 71.136.64.0/18,IPv4,AMAZON,cn-north-1
 43.196.0.0/16,IPv4,AMAZON,cn-north-1
 54.222.36.0/22,IPv4,AMAZON,cn-north-1
-52.95.255.144/28,IPv4,AMAZON,cn-north-1
 54.222.48.0/22,IPv4,AMAZON,cn-north-1
 15.230.41.0/24,IPv4,AMAZON,cn-north-1
 54.222.68.0/23,IPv4,AMAZON,cn-north-1
@@ -84,7 +83,6 @@ ip_address,ip_type,service,region
 71.136.64.0/18,IPv4,EC2,cn-north-1
 43.196.0.0/16,IPv4,EC2,cn-north-1
 54.222.36.0/22,IPv4,EC2,cn-north-1
-52.95.255.144/28,IPv4,EC2,cn-north-1
 107.176.0.0/15,IPv4,EC2,cn-north-1
 54.222.58.32/28,IPv4,EC2,cn-north-1
 140.179.1.64/27,IPv4,CLOUD9,cn-north-1

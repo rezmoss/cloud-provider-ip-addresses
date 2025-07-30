@@ -1,0 +1,3 @@
+ip_address,ip_type,service,region
+35.55.0.0/17,IPv4,IVS_LOW_LATENCY,GLOBAL
+2600:f0f0:1100::/40,IPv6,IVS_LOW_LATENCY,GLOBAL
