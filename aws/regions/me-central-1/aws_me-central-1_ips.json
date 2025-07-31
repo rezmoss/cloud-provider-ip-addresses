@@ -480,12 +480,6 @@
     "region": "me-central-1"
   },
   {
-    "ip_address": "2406:daed:7000::/40",
-    "ip_type": "IPv6",
-    "service": "AMAZON",
-    "region": "me-central-1"
-  },
-  {
     "ip_address": "2406:da36:7000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -588,25 +582,7 @@
     "region": "me-central-1"
   },
   {
-    "ip_address": "2406:da68:7000::/40",
-    "ip_type": "IPv6",
-    "service": "AMAZON",
-    "region": "me-central-1"
-  },
-  {
-    "ip_address": "2406:dafb:7000::/40",
-    "ip_type": "IPv6",
-    "service": "AMAZON",
-    "region": "me-central-1"
-  },
-  {
     "ip_address": "2406:daf6:7000::/40",
-    "ip_type": "IPv6",
-    "service": "AMAZON",
-    "region": "me-central-1"
-  },
-  {
-    "ip_address": "2406:daf7:7000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "me-central-1"
@@ -631,12 +607,6 @@
   },
   {
     "ip_address": "2406:da38:7000::/40",
-    "ip_type": "IPv6",
-    "service": "AMAZON",
-    "region": "me-central-1"
-  },
-  {
-    "ip_address": "2406:da69:7000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "me-central-1"
@@ -678,12 +648,6 @@
     "region": "me-central-1"
   },
   {
-    "ip_address": "2406:daed:7000::/40",
-    "ip_type": "IPv6",
-    "service": "S3",
-    "region": "me-central-1"
-  },
-  {
     "ip_address": "2406:daa0:7000::/40",
     "ip_type": "IPv6",
     "service": "S3",
@@ -703,12 +667,6 @@
   },
   {
     "ip_address": "2406:da60:7000::/40",
-    "ip_type": "IPv6",
-    "service": "S3",
-    "region": "me-central-1"
-  },
-  {
-    "ip_address": "2406:da68:7000::/40",
     "ip_type": "IPv6",
     "service": "S3",
     "region": "me-central-1"
@@ -747,12 +705,6 @@
     "ip_address": "2600:f0f0:5532::/48",
     "ip_type": "IPv6",
     "service": "IVS_REALTIME",
-    "region": "me-central-1"
-  },
-  {
-    "ip_address": "2406:daed:7000::/40",
-    "ip_type": "IPv6",
-    "service": "EC2",
     "region": "me-central-1"
   },
   {
@@ -834,25 +786,7 @@
     "region": "me-central-1"
   },
   {
-    "ip_address": "2406:da68:7000::/40",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "me-central-1"
-  },
-  {
-    "ip_address": "2406:dafb:7000::/40",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "me-central-1"
-  },
-  {
     "ip_address": "2406:daf6:7000::/40",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "me-central-1"
-  },
-  {
-    "ip_address": "2406:daf7:7000::/40",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "me-central-1"
@@ -877,12 +811,6 @@
   },
   {
     "ip_address": "2406:da38:7000::/40",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "me-central-1"
-  },
-  {
-    "ip_address": "2406:da69:7000::/40",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "me-central-1"

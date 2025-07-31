@@ -714,12 +714,6 @@
     "region": "us-gov-west-1"
   },
   {
-    "ip_address": "2600:1ff7:2000::/40",
-    "ip_type": "IPv6",
-    "service": "AMAZON",
-    "region": "us-gov-west-1"
-  },
-  {
     "ip_address": "2600:1f36:2000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -762,12 +756,6 @@
     "region": "us-gov-west-1"
   },
   {
-    "ip_address": "2600:1fed:2000::/40",
-    "ip_type": "IPv6",
-    "service": "AMAZON",
-    "region": "us-gov-west-1"
-  },
-  {
     "ip_address": "2600:1f00:2000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -775,12 +763,6 @@
   },
   {
     "ip_address": "2600:1fef:2000::/40",
-    "ip_type": "IPv6",
-    "service": "AMAZON",
-    "region": "us-gov-west-1"
-  },
-  {
-    "ip_address": "2600:1f69:2000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "us-gov-west-1"
@@ -798,12 +780,6 @@
     "region": "us-gov-west-1"
   },
   {
-    "ip_address": "2600:1ffb:2000::/40",
-    "ip_type": "IPv6",
-    "service": "AMAZON",
-    "region": "us-gov-west-1"
-  },
-  {
     "ip_address": "2600:f0f0:4140::/48",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -811,12 +787,6 @@
   },
   {
     "ip_address": "2600:1ff4:2000::/40",
-    "ip_type": "IPv6",
-    "service": "AMAZON",
-    "region": "us-gov-west-1"
-  },
-  {
-    "ip_address": "2600:1f68:2000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "us-gov-west-1"
@@ -906,12 +876,6 @@
     "region": "us-gov-west-1"
   },
   {
-    "ip_address": "2600:1fed:2000::/40",
-    "ip_type": "IPv6",
-    "service": "S3",
-    "region": "us-gov-west-1"
-  },
-  {
     "ip_address": "2600:1ff8:2000::/40",
     "ip_type": "IPv6",
     "service": "S3",
@@ -925,12 +889,6 @@
   },
   {
     "ip_address": "2600:1ff4:2000::/40",
-    "ip_type": "IPv6",
-    "service": "S3",
-    "region": "us-gov-west-1"
-  },
-  {
-    "ip_address": "2600:1f68:2000::/40",
     "ip_type": "IPv6",
     "service": "S3",
     "region": "us-gov-west-1"
@@ -984,12 +942,6 @@
     "region": "us-gov-west-1"
   },
   {
-    "ip_address": "2600:1ff7:2000::/40",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "us-gov-west-1"
-  },
-  {
     "ip_address": "2600:1f36:2000::/40",
     "ip_type": "IPv6",
     "service": "EC2",
@@ -1020,12 +972,6 @@
     "region": "us-gov-west-1"
   },
   {
-    "ip_address": "2600:1fed:2000::/40",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "us-gov-west-1"
-  },
-  {
     "ip_address": "2600:1f00:2000::/40",
     "ip_type": "IPv6",
     "service": "EC2",
@@ -1033,18 +979,6 @@
   },
   {
     "ip_address": "2600:1fef:2000::/40",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "us-gov-west-1"
-  },
-  {
-    "ip_address": "2600:1f69:2000::/40",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "us-gov-west-1"
-  },
-  {
-    "ip_address": "2600:1ffb:2000::/40",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "us-gov-west-1"
@@ -1063,12 +997,6 @@
   },
   {
     "ip_address": "2600:1ff4:2000::/40",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "us-gov-west-1"
-  },
-  {
-    "ip_address": "2600:1f68:2000::/40",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "us-gov-west-1"

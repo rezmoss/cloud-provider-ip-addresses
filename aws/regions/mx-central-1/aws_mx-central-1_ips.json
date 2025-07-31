@@ -312,12 +312,6 @@
     "region": "mx-central-1"
   },
   {
-    "ip_address": "2600:1f69:7400::/40",
-    "ip_type": "IPv6",
-    "service": "AMAZON",
-    "region": "mx-central-1"
-  },
-  {
     "ip_address": "2600:1ff0:7400::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -337,12 +331,6 @@
   },
   {
     "ip_address": "2600:1ff6:7400::/40",
-    "ip_type": "IPv6",
-    "service": "AMAZON",
-    "region": "mx-central-1"
-  },
-  {
-    "ip_address": "2600:1f68:7400::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "mx-central-1"
@@ -402,12 +390,6 @@
     "region": "mx-central-1"
   },
   {
-    "ip_address": "2600:1fed:7400::/40",
-    "ip_type": "IPv6",
-    "service": "AMAZON",
-    "region": "mx-central-1"
-  },
-  {
     "ip_address": "2600:1ff3:7400::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -444,12 +426,6 @@
     "region": "mx-central-1"
   },
   {
-    "ip_address": "2600:1ffb:7400::/40",
-    "ip_type": "IPv6",
-    "service": "AMAZON",
-    "region": "mx-central-1"
-  },
-  {
     "ip_address": "2600:1f30:7400::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -468,12 +444,6 @@
     "region": "mx-central-1"
   },
   {
-    "ip_address": "2600:1ff7:7400::/40",
-    "ip_type": "IPv6",
-    "service": "AMAZON",
-    "region": "mx-central-1"
-  },
-  {
     "ip_address": "2600:1ffe:7400::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -481,12 +451,6 @@
   },
   {
     "ip_address": "2600:1ff0:7400::/40",
-    "ip_type": "IPv6",
-    "service": "S3",
-    "region": "mx-central-1"
-  },
-  {
-    "ip_address": "2600:1f68:7400::/40",
     "ip_type": "IPv6",
     "service": "S3",
     "region": "mx-central-1"
@@ -504,12 +468,6 @@
     "region": "mx-central-1"
   },
   {
-    "ip_address": "2600:1fed:7400::/40",
-    "ip_type": "IPv6",
-    "service": "S3",
-    "region": "mx-central-1"
-  },
-  {
     "ip_address": "2600:1fa0:7400::/40",
     "ip_type": "IPv6",
     "service": "S3",
@@ -519,12 +477,6 @@
     "ip_address": "2600:1fb9:7400::/40",
     "ip_type": "IPv6",
     "service": "S3",
-    "region": "mx-central-1"
-  },
-  {
-    "ip_address": "2600:1f69:7400::/40",
-    "ip_type": "IPv6",
-    "service": "EC2",
     "region": "mx-central-1"
   },
   {
@@ -541,12 +493,6 @@
   },
   {
     "ip_address": "2600:1ff6:7400::/40",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "mx-central-1"
-  },
-  {
-    "ip_address": "2600:1f68:7400::/40",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "mx-central-1"
@@ -600,12 +546,6 @@
     "region": "mx-central-1"
   },
   {
-    "ip_address": "2600:1fed:7400::/40",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "mx-central-1"
-  },
-  {
     "ip_address": "2600:1ff3:7400::/40",
     "ip_type": "IPv6",
     "service": "EC2",
@@ -636,12 +576,6 @@
     "region": "mx-central-1"
   },
   {
-    "ip_address": "2600:1ffb:7400::/40",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "mx-central-1"
-  },
-  {
     "ip_address": "2600:1f30:7400::/40",
     "ip_type": "IPv6",
     "service": "EC2",
@@ -649,12 +583,6 @@
   },
   {
     "ip_address": "2600:1fb9:7400::/40",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "mx-central-1"
-  },
-  {
-    "ip_address": "2600:1ff7:7400::/40",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "mx-central-1"

@@ -128,8 +128,6 @@ INSERT INTO `aws_cn-north-1_ips` (`ip_address`, `ip_type`) VALUES ('43.196.24.4/
 INSERT INTO `aws_cn-north-1_ips` (`ip_address`, `ip_type`) VALUES ('43.196.24.8/30', 'IPv4');
 INSERT INTO `aws_cn-north-1_ips` (`ip_address`, `ip_type`) VALUES ('54.222.64.0/24', 'IPv4');
 INSERT INTO `aws_cn-north-1_ips` (`ip_address`, `ip_type`) VALUES ('54.222.57.0/24', 'IPv4');
-INSERT INTO `aws_cn-north-1_ips` (`ip_address`, `ip_type`) VALUES ('2400:7fc0:2300::/40', 'IPv6');
-INSERT INTO `aws_cn-north-1_ips` (`ip_address`, `ip_type`) VALUES ('2400:7fc0:2000::/40', 'IPv6');
 INSERT INTO `aws_cn-north-1_ips` (`ip_address`, `ip_type`) VALUES ('2400:7fc0:2f00::/40', 'IPv6');
 INSERT INTO `aws_cn-north-1_ips` (`ip_address`, `ip_type`) VALUES ('240f:80fa:8000::/40', 'IPv6');
 INSERT INTO `aws_cn-north-1_ips` (`ip_address`, `ip_type`) VALUES ('240f:80fe:8000::/40', 'IPv6');
@@ -176,8 +174,6 @@ INSERT INTO `aws_cn-north-1_ips` (`ip_address`, `ip_type`) VALUES ('2400:7fc0:24
 INSERT INTO `aws_cn-north-1_ips` (`ip_address`, `ip_type`) VALUES ('2400:7fc0:ef00::/40', 'IPv6');
 INSERT INTO `aws_cn-north-1_ips` (`ip_address`, `ip_type`) VALUES ('2400:7fc0:2c00::/40', 'IPv6');
 INSERT INTO `aws_cn-north-1_ips` (`ip_address`, `ip_type`) VALUES ('2400:7fc0:ec00::/48', 'IPv6');
-INSERT INTO `aws_cn-north-1_ips` (`ip_address`, `ip_type`) VALUES ('2400:7fc0:2300::/40', 'IPv6');
-INSERT INTO `aws_cn-north-1_ips` (`ip_address`, `ip_type`) VALUES ('2400:7fc0:2000::/40', 'IPv6');
 INSERT INTO `aws_cn-north-1_ips` (`ip_address`, `ip_type`) VALUES ('2400:7fc0:2f00::/40', 'IPv6');
 INSERT INTO `aws_cn-north-1_ips` (`ip_address`, `ip_type`) VALUES ('2400:7fc0:2100::/40', 'IPv6');
 INSERT INTO `aws_cn-north-1_ips` (`ip_address`, `ip_type`) VALUES ('2400:7fc0:4000::/40', 'IPv6');

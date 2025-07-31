@@ -204,12 +204,6 @@
     "region": "eusc-de-east-1"
   },
   {
-    "ip_address": "2001:3fc3:4800::/40",
-    "ip_type": "IPv6",
-    "service": "AMAZON",
-    "region": "eusc-de-east-1"
-  },
-  {
     "ip_address": "2001:3fc5:800::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -235,12 +229,6 @@
   },
   {
     "ip_address": "2001:3fc7:800::/40",
-    "ip_type": "IPv6",
-    "service": "AMAZON",
-    "region": "eusc-de-east-1"
-  },
-  {
-    "ip_address": "2001:3fc7:7800::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "eusc-de-east-1"
@@ -283,12 +271,6 @@
   },
   {
     "ip_address": "2001:3fc3:8800::/40",
-    "ip_type": "IPv6",
-    "service": "AMAZON",
-    "region": "eusc-de-east-1"
-  },
-  {
-    "ip_address": "2001:3fc3:5800::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "eusc-de-east-1"
@@ -342,12 +324,6 @@
     "region": "eusc-de-east-1"
   },
   {
-    "ip_address": "2001:3fc7:b800::/40",
-    "ip_type": "IPv6",
-    "service": "AMAZON",
-    "region": "eusc-de-east-1"
-  },
-  {
     "ip_address": "2001:3fc6:100::/48",
     "ip_type": "IPv6",
     "service": "ROUTE53_HEALTHCHECKS",
@@ -355,12 +331,6 @@
   },
   {
     "ip_address": "2001:3fc7:9800::/40",
-    "ip_type": "IPv6",
-    "service": "S3",
-    "region": "eusc-de-east-1"
-  },
-  {
-    "ip_address": "2001:3fc3:4800::/40",
     "ip_type": "IPv6",
     "service": "S3",
     "region": "eusc-de-east-1"
@@ -420,12 +390,6 @@
     "region": "eusc-de-east-1"
   },
   {
-    "ip_address": "2001:3fc3:4800::/40",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "eusc-de-east-1"
-  },
-  {
     "ip_address": "2001:3fc3:6800::/40",
     "ip_type": "IPv6",
     "service": "EC2",
@@ -445,12 +409,6 @@
   },
   {
     "ip_address": "2001:3fc7:800::/40",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "eusc-de-east-1"
-  },
-  {
-    "ip_address": "2001:3fc7:7800::/40",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "eusc-de-east-1"
@@ -486,12 +444,6 @@
     "region": "eusc-de-east-1"
   },
   {
-    "ip_address": "2001:3fc3:5800::/40",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "eusc-de-east-1"
-  },
-  {
     "ip_address": "2001:3fc7:2800::/40",
     "ip_type": "IPv6",
     "service": "EC2",
@@ -511,12 +463,6 @@
   },
   {
     "ip_address": "2001:3fc2:8000::/36",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "eusc-de-east-1"
-  },
-  {
-    "ip_address": "2001:3fc7:b800::/40",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "eusc-de-east-1"
