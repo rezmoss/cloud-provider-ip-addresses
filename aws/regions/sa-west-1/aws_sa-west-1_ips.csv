@@ -1,0 +1,3 @@
+ip_address,ip_type,service,region
+83.160.0.0/15,IPv4,AMAZON,sa-west-1
+83.160.0.0/15,IPv4,EC2,sa-west-1

@@ -38,6 +38,7 @@ ip_address,ip_type,service,region
 15.103.0.0/16,IPv4,EC2,af-south-1
 15.177.100.0/24,IPv4,EC2,ca-west-1
 35.96.28.0/23,IPv4,EC2,us-east-1
+35.96.240.0/24,IPv4,EC2,ap-southeast-2
 43.206.0.0/15,IPv4,EC2,ap-northeast-1
 52.95.226.0/24,IPv4,EC2,ap-east-1
 3.4.0.0/24,IPv4,EC2,us-east-1
@@ -280,6 +281,7 @@ ip_address,ip_type,service,region
 35.96.1.0/24,IPv4,EC2,us-west-2
 35.96.41.0/24,IPv4,EC2,eu-central-2
 64.252.68.0/24,IPv4,EC2,us-east-1
+159.248.0.0/20,IPv4,EC2,cn-northwest-1
 18.96.64.0/19,IPv4,EC2,sa-east-1
 18.229.0.0/16,IPv4,EC2,sa-east-1
 35.50.208.0/24,IPv4,EC2,me-south-1
@@ -428,6 +430,7 @@ ip_address,ip_type,service,region
 52.0.0.0/15,IPv4,EC2,us-east-1
 52.82.184.0/23,IPv4,EC2,cn-northwest-1
 52.95.253.0/24,IPv4,EC2,eu-west-2
+83.160.0.0/15,IPv4,EC2,sa-west-1
 99.77.55.33/32,IPv4,EC2,eu-south-2
 140.179.0.0/16,IPv4,EC2,cn-north-1
 208.110.48.0/20,IPv4,EC2,us-east-1
@@ -1334,7 +1337,6 @@ ip_address,ip_type,service,region
 15.181.240.0/24,IPv4,EC2,us-east-1
 16.56.192.0/18,IPv4,EC2,us-east-1
 16.78.0.0/16,IPv4,EC2,ap-southeast-3
-35.96.240.0/27,IPv4,EC2,ap-northeast-1
 52.76.0.0/17,IPv4,EC2,ap-southeast-1
 198.41.99.0/24,IPv4,EC2,us-east-1
 52.18.0.0/15,IPv4,EC2,eu-west-1

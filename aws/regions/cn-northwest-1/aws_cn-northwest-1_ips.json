@@ -414,6 +414,12 @@
     "region": "cn-northwest-1"
   },
   {
+    "ip_address": "159.248.0.0/20",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "cn-northwest-1"
+  },
+  {
     "ip_address": "52.82.168.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
