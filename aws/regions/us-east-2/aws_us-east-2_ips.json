@@ -2256,6 +2256,12 @@
     "region": "us-east-2"
   },
   {
+    "ip_address": "3.149.210.128/26",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-east-2"
+  },
+  {
     "ip_address": "3.15.36.64/26",
     "ip_type": "IPv4",
     "service": "AMAZON",
