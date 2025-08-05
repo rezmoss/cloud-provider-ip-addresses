@@ -9918,6 +9918,12 @@
     "region": "ap-southeast-2"
   },
   {
+    "ip_address": "5.60.96.0/19",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-central-1"
+  },
+  {
     "ip_address": "15.217.0.0/16",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -37572,6 +37578,12 @@
     "region": "GLOBAL"
   },
   {
+    "ip_address": "5.60.96.0/19",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "eu-central-1"
+  },
+  {
     "ip_address": "15.217.0.0/16",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -53086,6 +53098,12 @@
     "ip_type": "IPv4",
     "service": "AURORA_DSQL",
     "region": "ap-northeast-3"
+  },
+  {
+    "ip_address": "18.96.39.128/25",
+    "ip_type": "IPv4",
+    "service": "AURORA_DSQL",
+    "region": "eu-central-1"
   },
   {
     "ip_address": "18.97.198.128/25",
@@ -77140,6 +77158,12 @@
     "ip_type": "IPv6",
     "service": "AURORA_DSQL",
     "region": "ap-northeast-3"
+  },
+  {
+    "ip_address": "2a05:d014:15a0:7500::/56",
+    "ip_type": "IPv6",
+    "service": "AURORA_DSQL",
+    "region": "eu-central-1"
   },
   {
     "ip_address": "2a05:d018:b3d:8200::/56",

@@ -1652,6 +1652,7 @@ ip_address,ip_type,service,region
 3.4.8.0/24,IPv4,AMAZON,GLOBAL
 3.4.12.25/32,IPv4,AMAZON,ap-southeast-1
 3.4.13.16/28,IPv4,AMAZON,ap-southeast-2
+5.60.96.0/19,IPv4,AMAZON,eu-central-1
 15.217.0.0/16,IPv4,AMAZON,eu-south-2
 15.230.39.140/31,IPv4,AMAZON,us-east-2
 15.251.0.2/32,IPv4,AMAZON,us-west-1
@@ -6261,6 +6262,7 @@ ip_address,ip_type,service,region
 99.78.238.253/32,IPv4,EC2,ap-southeast-3
 162.250.236.0/24,IPv4,EC2,us-east-1
 3.4.8.0/24,IPv4,EC2,GLOBAL
+5.60.96.0/19,IPv4,EC2,eu-central-1
 15.217.0.0/16,IPv4,EC2,eu-south-2
 18.96.1.0/24,IPv4,EC2,us-east-1
 18.98.96.0/19,IPv4,EC2,ap-southeast-3
@@ -8847,6 +8849,7 @@ ip_address,ip_type,service,region
 18.99.75.128/25,IPv4,AURORA_DSQL,ap-northeast-1
 18.98.132.128/25,IPv4,AURORA_DSQL,ap-northeast-2
 18.96.17.0/25,IPv4,AURORA_DSQL,ap-northeast-3
+18.96.39.128/25,IPv4,AURORA_DSQL,eu-central-1
 18.97.198.128/25,IPv4,AURORA_DSQL,eu-west-1
 18.98.164.0/25,IPv4,AURORA_DSQL,eu-west-2
 18.98.66.128/25,IPv4,AURORA_DSQL,eu-west-3
@@ -12856,6 +12859,7 @@ ip_address,ip_type,service,region
 2406:da14:1713:ba00::/56,IPv6,AURORA_DSQL,ap-northeast-1
 2406:da12:8f1:3d00::/56,IPv6,AURORA_DSQL,ap-northeast-2
 2406:da16:c46:6600::/56,IPv6,AURORA_DSQL,ap-northeast-3
+2a05:d014:15a0:7500::/56,IPv6,AURORA_DSQL,eu-central-1
 2a05:d018:b3d:8200::/56,IPv6,AURORA_DSQL,eu-west-1
 2a05:d01c:d06:1800::/56,IPv6,AURORA_DSQL,eu-west-2
 2a05:d012:610:d500::/56,IPv6,AURORA_DSQL,eu-west-3
