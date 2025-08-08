@@ -462,6 +462,12 @@
     "region": "ap-northeast-2"
   },
   {
+    "ip_address": "3.43.0.0/18",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-northeast-2"
+  },
+  {
     "ip_address": "15.230.207.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -931,6 +937,12 @@
   },
   {
     "ip_address": "99.150.24.0/21",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "ap-northeast-2"
+  },
+  {
+    "ip_address": "3.43.0.0/18",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "ap-northeast-2"

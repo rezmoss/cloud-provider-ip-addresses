@@ -102,6 +102,12 @@
     "region": "ap-east-1"
   },
   {
+    "ip_address": "3.45.0.0/18",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-east-1"
+  },
+  {
     "ip_address": "52.95.160.0/23",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -433,6 +439,12 @@
   },
   {
     "ip_address": "15.177.86.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "ap-east-1"
+  },
+  {
+    "ip_address": "3.45.0.0/18",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "ap-east-1"

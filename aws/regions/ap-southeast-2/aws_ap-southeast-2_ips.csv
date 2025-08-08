@@ -68,6 +68,7 @@ ip_address,ip_type,service,region
 52.93.126.137/32,IPv4,AMAZON,ap-southeast-2
 52.93.126.139/32,IPv4,AMAZON,ap-southeast-2
 3.4.12.16/32,IPv4,AMAZON,ap-southeast-2
+3.44.64.0/18,IPv4,AMAZON,ap-southeast-2
 15.230.115.0/24,IPv4,AMAZON,ap-southeast-2
 52.93.126.131/32,IPv4,AMAZON,ap-southeast-2
 43.249.44.0/24,IPv4,AMAZON,ap-southeast-2
@@ -202,6 +203,7 @@ ip_address,ip_type,service,region
 96.0.184.0/22,IPv4,EC2,ap-southeast-2
 16.176.0.0/16,IPv4,EC2,ap-southeast-2
 35.55.12.0/24,IPv4,EC2,ap-southeast-2
+3.44.64.0/18,IPv4,EC2,ap-southeast-2
 64.252.107.0/24,IPv4,EC2,ap-southeast-2
 13.146.0.0/16,IPv4,EC2,ap-southeast-2
 96.0.8.0/22,IPv4,EC2,ap-southeast-2
