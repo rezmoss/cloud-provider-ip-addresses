@@ -9954,6 +9954,12 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "2600:f0f0:720::/48",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eu-central-1"
+  },
+  {
     "ip_address": "2600:f0f0:5516::/48",
     "ip_type": "IPv6",
     "service": "EC2",
@@ -12418,6 +12424,12 @@
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "ca-central-1"
+  },
+  {
+    "ip_address": "2600:f0f0:721::/48",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eu-central-1"
   },
   {
     "ip_address": "2600:f0f0:110a::/48",
