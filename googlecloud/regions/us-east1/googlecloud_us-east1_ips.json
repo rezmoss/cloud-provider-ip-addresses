@@ -1,5 +1,17 @@
 [
   {
+    "ip_address": "34.3.76.0/22",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "us-east1"
+  },
+  {
+    "ip_address": "34.4.16.0/22",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "us-east1"
+  },
+  {
     "ip_address": "34.23.0.0/16",
     "ip_type": "IPv4",
     "service": "Google Cloud",

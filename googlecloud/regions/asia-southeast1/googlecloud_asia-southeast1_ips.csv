@@ -22,6 +22,7 @@ ip_address,ip_type,service,region
 34.157.82.0/23,IPv4,Google Cloud,asia-southeast1
 34.157.88.0/23,IPv4,Google Cloud,asia-southeast1
 34.157.210.0/23,IPv4,Google Cloud,asia-southeast1
+34.158.32.0/19,IPv4,Google Cloud,asia-southeast1
 34.177.72.0/23,IPv4,Google Cloud,asia-southeast1
 35.185.176.0/20,IPv4,Google Cloud,asia-southeast1
 35.186.144.0/20,IPv4,Google Cloud,asia-southeast1

@@ -36,6 +36,18 @@
     "region": "me-west1"
   },
   {
+    "ip_address": "34.183.20.128/25",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "me-west1"
+  },
+  {
+    "ip_address": "34.184.3.128/25",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "me-west1"
+  },
+  {
     "ip_address": "2600:1901:8160::/44",
     "ip_type": "IPv6",
     "service": "Google Cloud",

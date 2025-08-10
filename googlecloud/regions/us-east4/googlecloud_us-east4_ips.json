@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "34.4.32.0/20",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "us-east4"
+  },
+  {
     "ip_address": "34.11.0.0/17",
     "ip_type": "IPv4",
     "service": "Google Cloud",
@@ -114,7 +120,31 @@
     "region": "us-east4"
   },
   {
+    "ip_address": "34.183.34.0/23",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "us-east4"
+  },
+  {
     "ip_address": "34.184.12.0/22",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "us-east4"
+  },
+  {
+    "ip_address": "34.184.32.0/23",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "us-east4"
+  },
+  {
+    "ip_address": "34.186.32.0/19",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "us-east4"
+  },
+  {
+    "ip_address": "34.186.64.0/18",
     "ip_type": "IPv4",
     "service": "Google Cloud",
     "region": "us-east4"
