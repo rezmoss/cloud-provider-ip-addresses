@@ -12,6 +12,18 @@
     "region": "sa-west-1"
   },
   {
+    "ip_address": "15.190.160.0/20",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "sa-west-1"
+  },
+  {
+    "ip_address": "15.190.232.0/22",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "sa-west-1"
+  },
+  {
     "ip_address": "23.254.120.0/21",
     "ip_type": "IPv4",
     "service": "EC2",
