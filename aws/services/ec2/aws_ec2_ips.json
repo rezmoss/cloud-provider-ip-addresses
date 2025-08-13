@@ -5748,6 +5748,12 @@
     "region": "eu-west-2"
   },
   {
+    "ip_address": "216.244.10.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "eu-central-1"
+  },
+  {
     "ip_address": "3.5.212.0/23",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -12282,6 +12288,12 @@
     "region": "ap-southeast-4"
   },
   {
+    "ip_address": "2600:1f2e:c000::/36",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "sa-west-1"
+  },
+  {
     "ip_address": "2600:f0f0:551a::/48",
     "ip_type": "IPv6",
     "service": "EC2",
@@ -17008,6 +17020,12 @@
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "ap-southeast-7"
+  },
+  {
+    "ip_address": "2600:1f1e:c000::/36",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "sa-west-1"
   },
   {
     "ip_address": "2600:1f38:c000::/40",
