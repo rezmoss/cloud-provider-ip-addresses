@@ -1332,6 +1332,12 @@
     "region": "eu-west-2"
   },
   {
+    "ip_address": "13.134.208.0/23",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-west-2"
+  },
+  {
     "ip_address": "13.40.1.192/26",
     "ip_type": "IPv4",
     "service": "AMAZON",

@@ -236,6 +236,7 @@ ip_address,ip_type,service,region
 54.169.0.0/16,IPv4,EC2,ap-southeast-1
 35.71.118.0/24,IPv4,EC2,ap-southeast-1
 99.77.240.0/24,IPv4,EC2,ap-southeast-1
+56.10.0.0/16,IPv4,EC2,ap-southeast-1
 15.193.160.0/22,IPv4,EC2,ap-southeast-1
 54.255.0.0/16,IPv4,EC2,ap-southeast-1
 52.95.255.32/28,IPv4,EC2,ap-southeast-1

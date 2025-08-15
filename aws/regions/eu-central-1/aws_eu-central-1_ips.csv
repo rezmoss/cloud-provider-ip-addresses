@@ -345,6 +345,7 @@ ip_address,ip_type,service,region
 35.159.158.0/23,IPv4,AMAZON,eu-central-1
 35.159.206.0/23,IPv4,AMAZON,eu-central-1
 35.159.209.0/24,IPv4,AMAZON,eu-central-1
+63.179.154.0/23,IPv4,AMAZON,eu-central-1
 99.77.247.0/24,IPv4,CHIME_VOICECONNECTOR,eu-central-1
 52.219.170.0/23,IPv4,S3,eu-central-1
 52.219.168.0/24,IPv4,S3,eu-central-1
