@@ -144,6 +144,12 @@
     "region": "ap-southeast-7"
   },
   {
+    "ip_address": "3.2.88.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-southeast-7"
+  },
+  {
     "ip_address": "104.255.59.210/32",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -276,6 +282,12 @@
     "region": "ap-southeast-7"
   },
   {
+    "ip_address": "3.2.88.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "ap-southeast-7"
+  },
+  {
     "ip_address": "15.177.103.0/24",
     "ip_type": "IPv4",
     "service": "ROUTE53_HEALTHCHECKS_PUBLISHING",
@@ -349,6 +361,12 @@
   },
   {
     "ip_address": "2406:daf0:4800::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-southeast-7"
+  },
+  {
+    "ip_address": "2600:f0f0:6117::/48",
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "ap-southeast-7"
@@ -511,6 +529,12 @@
   },
   {
     "ip_address": "2406:daf0:4800::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-southeast-7"
+  },
+  {
+    "ip_address": "2600:f0f0:6117::/48",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "ap-southeast-7"

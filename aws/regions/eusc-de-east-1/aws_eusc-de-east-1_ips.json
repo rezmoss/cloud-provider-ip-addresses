@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "51.0.31.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eusc-de-east-1"
+  },
+  {
     "ip_address": "35.71.94.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -120,6 +126,12 @@
     "region": "eusc-de-east-1"
   },
   {
+    "ip_address": "51.0.31.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "eusc-de-east-1"
+  },
+  {
     "ip_address": "35.71.94.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -153,6 +165,12 @@
     "ip_address": "83.118.240.0/22",
     "ip_type": "IPv4",
     "service": "EC2",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "51.0.31.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
     "region": "eusc-de-east-1"
   },
   {

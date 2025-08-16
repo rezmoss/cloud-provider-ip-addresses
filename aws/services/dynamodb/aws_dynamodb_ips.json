@@ -216,16 +216,10 @@
     "region": "us-west-1"
   },
   {
-    "ip_address": "13.248.79.0/24",
+    "ip_address": "51.0.31.0/24",
     "ip_type": "IPv4",
     "service": "DYNAMODB",
-    "region": "ap-southeast-6"
-  },
-  {
-    "ip_address": "35.71.93.0/24",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "ap-southeast-6"
+    "region": "eusc-de-east-1"
   },
   {
     "ip_address": "35.71.94.0/24",
@@ -238,6 +232,18 @@
     "ip_type": "IPv4",
     "service": "DYNAMODB",
     "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "13.248.79.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "ap-southeast-6"
+  },
+  {
+    "ip_address": "35.71.93.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "ap-southeast-6"
   },
   {
     "ip_address": "35.71.118.0/24",

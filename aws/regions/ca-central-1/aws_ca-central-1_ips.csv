@@ -19,6 +19,7 @@ ip_address,ip_type,service,region
 35.182.0.0/15,IPv4,AMAZON,ca-central-1
 99.77.233.0/24,IPv4,AMAZON,ca-central-1
 15.230.79.0/26,IPv4,AMAZON,ca-central-1
+3.2.78.0/24,IPv4,AMAZON,ca-central-1
 3.96.0.0/15,IPv4,AMAZON,ca-central-1
 3.5.252.0/22,IPv4,AMAZON,ca-central-1
 15.230.91.0/24,IPv4,AMAZON,ca-central-1
@@ -103,6 +104,7 @@ ip_address,ip_type,service,region
 35.71.119.0/24,IPv4,EC2,ca-central-1
 35.182.0.0/15,IPv4,EC2,ca-central-1
 99.77.233.0/24,IPv4,EC2,ca-central-1
+3.2.78.0/24,IPv4,EC2,ca-central-1
 3.96.0.0/15,IPv4,EC2,ca-central-1
 3.5.252.0/22,IPv4,EC2,ca-central-1
 16.52.0.0/16,IPv4,EC2,ca-central-1
@@ -204,6 +206,7 @@ ip_address,ip_type,service,region
 2600:1f30:1000::/40,IPv6,AMAZON,ca-central-1
 2600:1f11::/36,IPv6,AMAZON,ca-central-1
 2600:1f00:1000::/40,IPv6,AMAZON,ca-central-1
+2600:f0f0:6110::/48,IPv6,AMAZON,ca-central-1
 2600:1ffd:8190::/48,IPv6,AMAZON,ca-central-1
 2600:1ff3:1000::/40,IPv6,AMAZON,ca-central-1
 2600:1ffd:81a7::/48,IPv6,AMAZON,ca-central-1
@@ -250,6 +253,7 @@ ip_address,ip_type,service,region
 2600:1f30:1000::/40,IPv6,EC2,ca-central-1
 2600:1f11::/36,IPv6,EC2,ca-central-1
 2600:1f00:1000::/40,IPv6,EC2,ca-central-1
+2600:f0f0:6110::/48,IPv6,EC2,ca-central-1
 2600:1ffd:8190::/48,IPv6,EC2,ca-central-1
 2600:1ff3:1000::/40,IPv6,EC2,ca-central-1
 2600:1ffd:81a7::/48,IPv6,EC2,ca-central-1

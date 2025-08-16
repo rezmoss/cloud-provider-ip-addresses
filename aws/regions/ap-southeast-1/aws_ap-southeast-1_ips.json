@@ -660,6 +660,12 @@
     "region": "ap-southeast-1"
   },
   {
+    "ip_address": "3.2.76.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-southeast-1"
+  },
+  {
     "ip_address": "96.0.112.0/21",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -1632,6 +1638,12 @@
     "region": "ap-southeast-1"
   },
   {
+    "ip_address": "3.2.76.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "ap-southeast-1"
+  },
+  {
     "ip_address": "96.0.112.0/21",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -2181,6 +2193,12 @@
     "ip_address": "52.94.11.0/24",
     "ip_type": "IPv4",
     "service": "DYNAMODB",
+    "region": "ap-southeast-1"
+  },
+  {
+    "ip_address": "2600:f0f0:610e::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
     "region": "ap-southeast-1"
   },
   {
@@ -2793,6 +2811,12 @@
     "ip_address": "2406:da28:28::/48",
     "ip_type": "IPv6",
     "service": "WORKSPACES_GATEWAYS",
+    "region": "ap-southeast-1"
+  },
+  {
+    "ip_address": "2600:f0f0:610e::/48",
+    "ip_type": "IPv6",
+    "service": "EC2",
     "region": "ap-southeast-1"
   },
   {
