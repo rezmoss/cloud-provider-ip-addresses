@@ -240,12 +240,6 @@
     "region": "sa-east-1"
   },
   {
-    "ip_address": "216.244.8.0/24",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "sa-east-1"
-  },
-  {
     "ip_address": "64.252.78.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -1081,12 +1075,6 @@
   },
   {
     "ip_address": "99.151.112.0/21",
-    "ip_type": "IPv4",
-    "service": "EC2",
-    "region": "sa-east-1"
-  },
-  {
-    "ip_address": "216.244.8.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "sa-east-1"

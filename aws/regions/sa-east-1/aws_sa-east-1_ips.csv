@@ -39,7 +39,6 @@ ip_address,ip_type,service,region
 35.50.176.0/24,IPv4,AMAZON,sa-east-1
 99.151.112.0/21,IPv4,AMAZON,sa-east-1
 99.82.164.0/24,IPv4,AMAZON,sa-east-1
-216.244.8.0/24,IPv4,AMAZON,sa-east-1
 64.252.78.0/24,IPv4,AMAZON,sa-east-1
 52.93.127.70/32,IPv4,AMAZON,sa-east-1
 150.222.9.0/24,IPv4,AMAZON,sa-east-1
@@ -180,7 +179,6 @@ ip_address,ip_type,service,region
 35.96.43.0/24,IPv4,EC2,sa-east-1
 35.50.176.0/24,IPv4,EC2,sa-east-1
 99.151.112.0/21,IPv4,EC2,sa-east-1
-216.244.8.0/24,IPv4,EC2,sa-east-1
 64.252.78.0/24,IPv4,EC2,sa-east-1
 35.50.177.0/24,IPv4,EC2,sa-east-1
 173.83.213.0/24,IPv4,EC2,sa-east-1
