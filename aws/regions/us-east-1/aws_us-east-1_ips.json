@@ -132,6 +132,12 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "216.244.40.0/21",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "35.96.28.0/23",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -4386,6 +4392,12 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "98.87.174.0/23",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "99.77.254.0/24",
     "ip_type": "IPv4",
     "service": "CHIME_VOICECONNECTOR",
@@ -4615,6 +4627,12 @@
   },
   {
     "ip_address": "64.252.69.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "216.244.40.0/21",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "us-east-1"
