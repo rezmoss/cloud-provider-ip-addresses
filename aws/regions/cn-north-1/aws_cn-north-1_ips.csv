@@ -32,6 +32,7 @@ ip_address,ip_type,service,region
 54.222.57.0/24,IPv4,AMAZON,cn-north-1
 54.222.70.0/24,IPv4,AMAZON,cn-north-1
 54.222.92.0/22,IPv4,AMAZON,cn-north-1
+54.222.65.0/24,IPv4,AMAZON,cn-north-1
 71.136.64.0/18,IPv4,AMAZON,cn-north-1
 43.196.0.0/16,IPv4,AMAZON,cn-north-1
 54.222.36.0/22,IPv4,AMAZON,cn-north-1
@@ -80,6 +81,7 @@ ip_address,ip_type,service,region
 54.222.128.0/17,IPv4,EC2,cn-north-1
 71.137.0.0/18,IPv4,EC2,cn-north-1
 71.132.0.0/18,IPv4,EC2,cn-north-1
+54.222.65.0/24,IPv4,EC2,cn-north-1
 71.136.64.0/18,IPv4,EC2,cn-north-1
 43.196.0.0/16,IPv4,EC2,cn-north-1
 54.222.36.0/22,IPv4,EC2,cn-north-1
@@ -134,6 +136,7 @@ ip_address,ip_type,service,region
 2400:7fc0:200::/40,IPv6,AMAZON,cn-north-1
 240f:80a0:8000::/40,IPv6,AMAZON,cn-north-1
 240f:80ff:8000::/40,IPv6,AMAZON,cn-north-1
+2400:7fc0:4100::/48,IPv6,AMAZON,cn-north-1
 240f:80f8:8000::/40,IPv6,AMAZON,cn-north-1
 2400:7fc0:3000::/40,IPv6,AMAZON,cn-north-1
 240f:8000:8000::/40,IPv6,AMAZON,cn-north-1
@@ -173,6 +176,7 @@ ip_address,ip_type,service,region
 2400:7fc0:a000::/36,IPv6,EC2,cn-north-1
 2400:7fc0:6000::/40,IPv6,EC2,cn-north-1
 240f:80ff:8000::/40,IPv6,EC2,cn-north-1
+2400:7fc0:4100::/48,IPv6,EC2,cn-north-1
 2400:7fc0:3000::/40,IPv6,EC2,cn-north-1
 240f:8000:8000::/40,IPv6,EC2,cn-north-1
 2400:7fc0:c000::/36,IPv6,EC2,cn-north-1
