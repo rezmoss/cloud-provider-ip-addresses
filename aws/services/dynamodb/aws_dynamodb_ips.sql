@@ -57,6 +57,7 @@ INSERT INTO `aws_dynamodb_ips` (`ip_address`, `ip_type`) VALUES ('35.71.104.0/24
 INSERT INTO `aws_dynamodb_ips` (`ip_address`, `ip_type`) VALUES ('13.248.66.0/24', 'IPv4');
 INSERT INTO `aws_dynamodb_ips` (`ip_address`, `ip_type`) VALUES ('52.119.248.0/24', 'IPv4');
 INSERT INTO `aws_dynamodb_ips` (`ip_address`, `ip_type`) VALUES ('35.71.107.0/24', 'IPv4');
+INSERT INTO `aws_dynamodb_ips` (`ip_address`, `ip_type`) VALUES ('13.248.81.0/24', 'IPv4');
 INSERT INTO `aws_dynamodb_ips` (`ip_address`, `ip_type`) VALUES ('35.71.96.0/24', 'IPv4');
 INSERT INTO `aws_dynamodb_ips` (`ip_address`, `ip_type`) VALUES ('13.248.71.0/24', 'IPv4');
 INSERT INTO `aws_dynamodb_ips` (`ip_address`, `ip_type`) VALUES ('35.71.123.0/24', 'IPv4');

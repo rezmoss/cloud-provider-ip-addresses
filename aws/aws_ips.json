@@ -5724,6 +5724,12 @@
     "region": "eu-central-1"
   },
   {
+    "ip_address": "13.248.81.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "sa-west-1"
+  },
+  {
     "ip_address": "15.230.15.200/31",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -7510,6 +7516,12 @@
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "ca-west-1"
+  },
+  {
+    "ip_address": "69.107.9.208/29",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-southeast-2"
   },
   {
     "ip_address": "70.132.0.0/18",
@@ -15324,6 +15336,12 @@
     "region": "eu-south-1"
   },
   {
+    "ip_address": "69.107.9.216/29",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-southeast-2"
+  },
+  {
     "ip_address": "150.222.52.160/27",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -15798,6 +15816,12 @@
     "region": "eu-south-1"
   },
   {
+    "ip_address": "76.223.170.128/28",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "sa-west-1"
+  },
+  {
     "ip_address": "99.151.96.0/21",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -15970,6 +15994,12 @@
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "eu-west-2"
+  },
+  {
+    "ip_address": "69.107.9.200/29",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-northeast-1"
   },
   {
     "ip_address": "108.166.244.58/32",
@@ -17728,6 +17758,12 @@
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "ap-south-1"
+  },
+  {
+    "ip_address": "52.94.250.176/28",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "sa-west-1"
   },
   {
     "ip_address": "52.192.0.0/15",
@@ -22816,6 +22852,12 @@
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "eu-south-1"
+  },
+  {
+    "ip_address": "69.107.9.192/29",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-northeast-1"
   },
   {
     "ip_address": "99.77.157.0/24",
@@ -40722,6 +40764,12 @@
     "region": "ap-south-1"
   },
   {
+    "ip_address": "52.94.250.176/28",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "sa-west-1"
+  },
+  {
     "ip_address": "52.192.0.0/15",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -54628,6 +54676,12 @@
     "ip_type": "IPv4",
     "service": "DYNAMODB",
     "region": "ap-east-1"
+  },
+  {
+    "ip_address": "13.248.81.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "sa-west-1"
   },
   {
     "ip_address": "35.71.96.0/24",
