@@ -1614,6 +1614,12 @@
     "region": "us-west-2"
   },
   {
+    "ip_address": "44.254.14.0/23",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-west-2"
+  },
+  {
     "ip_address": "99.77.253.0/24",
     "ip_type": "IPv4",
     "service": "CHIME_VOICECONNECTOR",

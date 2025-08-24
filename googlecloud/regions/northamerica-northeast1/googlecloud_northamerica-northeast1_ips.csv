@@ -13,6 +13,7 @@ ip_address,ip_type,service,region
 34.152.0.0/18,IPv4,Google Cloud,northamerica-northeast1
 34.183.21.0/24,IPv4,Google Cloud,northamerica-northeast1
 34.184.22.0/24,IPv4,Google Cloud,northamerica-northeast1
+34.186.192.0/19,IPv4,Google Cloud,northamerica-northeast1
 35.203.0.0/17,IPv4,Google Cloud,northamerica-northeast1
 35.215.0.0/18,IPv4,Google Cloud,northamerica-northeast1
 35.220.43.0/24,IPv4,Google Cloud,northamerica-northeast1

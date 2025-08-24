@@ -117,6 +117,8 @@ ip_address,ip_type,service,region
 34.177.32.0/22,IPv4,Google Cloud,asia-south1
 34.177.74.0/23,IPv4,Google Cloud,asia-south1
 34.180.0.0/18,IPv4,Google Cloud,asia-south1
+34.183.36.0/24,IPv4,Google Cloud,asia-south1
+34.184.35.0/24,IPv4,Google Cloud,asia-south1
 35.200.128.0/17,IPv4,Google Cloud,asia-south1
 35.201.41.0/24,IPv4,Google Cloud,asia-south1
 35.207.192.0/18,IPv4,Google Cloud,asia-south1
@@ -126,6 +128,7 @@ ip_address,ip_type,service,region
 35.244.0.0/18,IPv4,Google Cloud,asia-south1
 2600:1900:40a0::/44,IPv6,Google Cloud,asia-south1
 34.0.0.0/20,IPv4,Google Cloud,asia-south2
+34.4.24.0/22,IPv4,Google Cloud,asia-south2
 34.104.120.0/23,IPv4,Google Cloud,asia-south2
 34.124.56.0/23,IPv4,Google Cloud,asia-south2
 34.126.208.0/20,IPv4,Google Cloud,asia-south2
@@ -495,6 +498,7 @@ ip_address,ip_type,service,region
 34.152.0.0/18,IPv4,Google Cloud,northamerica-northeast1
 34.183.21.0/24,IPv4,Google Cloud,northamerica-northeast1
 34.184.22.0/24,IPv4,Google Cloud,northamerica-northeast1
+34.186.192.0/19,IPv4,Google Cloud,northamerica-northeast1
 35.203.0.0/17,IPv4,Google Cloud,northamerica-northeast1
 35.215.0.0/18,IPv4,Google Cloud,northamerica-northeast1
 35.220.43.0/24,IPv4,Google Cloud,northamerica-northeast1
@@ -657,7 +661,9 @@ ip_address,ip_type,service,region
 34.152.72.0/21,IPv4,Google Cloud,us-east1
 34.177.40.0/21,IPv4,Google Cloud,us-east1
 34.183.4.0/23,IPv4,Google Cloud,us-east1
+34.183.33.0/24,IPv4,Google Cloud,us-east1
 34.184.4.0/23,IPv4,Google Cloud,us-east1
+34.184.34.0/24,IPv4,Google Cloud,us-east1
 35.185.0.0/17,IPv4,Google Cloud,us-east1
 35.190.128.0/18,IPv4,Google Cloud,us-east1
 35.196.0.0/16,IPv4,Google Cloud,us-east1
@@ -721,6 +727,7 @@ ip_address,ip_type,service,region
 35.245.0.0/16,IPv4,Google Cloud,us-east4
 2600:1900:4090::/44,IPv6,Google Cloud,us-east4
 34.1.16.0/20,IPv4,Google Cloud,us-east5
+34.127.160.0/20,IPv4,Google Cloud,us-east5
 34.157.32.0/22,IPv4,Google Cloud,us-east5
 34.157.160.0/22,IPv4,Google Cloud,us-east5
 34.162.0.0/16,IPv4,Google Cloud,us-east5
@@ -768,6 +775,8 @@ ip_address,ip_type,service,region
 104.198.0.0/20,IPv4,Google Cloud,us-west1
 104.198.96.0/20,IPv4,Google Cloud,us-west1
 104.199.112.0/20,IPv4,Google Cloud,us-west1
+136.117.0.0/16,IPv4,Google Cloud,us-west1
+136.118.0.0/16,IPv4,Google Cloud,us-west1
 2600:1900:4040::/44,IPv6,Google Cloud,us-west1
 34.2.76.0/23,IPv4,Google Cloud,us-west2
 34.20.128.0/17,IPv4,Google Cloud,us-west2
