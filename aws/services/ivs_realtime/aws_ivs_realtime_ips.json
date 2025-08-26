@@ -852,10 +852,22 @@
     "region": "us-east-2"
   },
   {
+    "ip_address": "2600:f0f0:e05::/48",
+    "ip_type": "IPv6",
+    "service": "IVS_REALTIME",
+    "region": "me-south-1"
+  },
+  {
     "ip_address": "2600:f0f0:1106::/48",
     "ip_type": "IPv6",
     "service": "IVS_REALTIME",
     "region": "ap-southeast-1"
+  },
+  {
+    "ip_address": "2600:f0f0:e04::/48",
+    "ip_type": "IPv6",
+    "service": "IVS_REALTIME",
+    "region": "me-south-1"
   },
   {
     "ip_address": "2600:f0f0:5522::/48",

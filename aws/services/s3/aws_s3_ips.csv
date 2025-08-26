@@ -366,6 +366,7 @@ ip_address,ip_type,service,region
 2a05:d030:1000::/40,IPv6,S3,eu-south-2
 2a05:d030:5000::/40,IPv6,S3,il-central-1
 2406:daf0:2000::/40,IPv6,S3,ap-northeast-2
+2a05:d050:f000::/40,IPv6,S3,eu-central-1
 2406:dab9:8000::/40,IPv6,S3,ap-southeast-1
 2406:daf0:9000::/40,IPv6,S3,ap-southeast-3
 2a05:d059:6000::/40,IPv6,S3,eu-north-1
@@ -375,7 +376,6 @@ ip_address,ip_type,service,region
 2406:daf9:6000::/40,IPv6,S3,ap-northeast-3
 2a05:d07a:e000::/40,IPv6,S3,me-south-1
 2406:daf0:f000::/40,IPv6,S3,ap-southeast-4
-2600:1fec:b400::/48,IPv6,S3,us-east-1
 2a05:d070:a000::/40,IPv6,S3,eu-south-1
 2600:1fb9:1000::/40,IPv6,S3,ca-central-1
 2a05:d07a:2000::/40,IPv6,S3,eu-west-3
@@ -389,6 +389,7 @@ ip_address,ip_type,service,region
 2600:1f60:4000::/39,IPv6,S3,us-west-2
 2406:daf8:a000::/40,IPv6,S3,ap-south-1
 2600:1fa0:4000::/39,IPv6,S3,us-west-2
+2600:1fa0:2c00::/40,IPv6,S3,us-east-1
 2406:daf4:8800::/40,IPv6,S3,ap-southeast-1
 2a05:d074:b000::/40,IPv6,S3,eu-central-1
 2406:daa0:4800::/40,IPv6,S3,ap-southeast-7
@@ -448,7 +449,6 @@ ip_address,ip_type,service,region
 2406:da60:2000::/40,IPv6,S3,ap-northeast-2
 2406:daf9:f000::/40,IPv6,S3,ap-southeast-4
 2600:1f60:6000::/40,IPv6,S3,us-east-2
-2406:daec:8800::/48,IPv6,S3,ap-southeast-1
 2600:1ff0:8000::/39,IPv6,S3,us-east-1
 2a05:d030:2000::/40,IPv6,S3,eu-west-3
 2406:daf4:8000::/40,IPv6,S3,ap-southeast-1
@@ -458,7 +458,6 @@ ip_address,ip_type,service,region
 2600:1fb9:5000::/40,IPv6,S3,us-gov-east-1
 2001:3fc5:800::/40,IPv6,S3,eusc-de-east-1
 2406:daf8:9000::/40,IPv6,S3,ap-southeast-3
-2600:1fec:4400::/48,IPv6,S3,us-east-1
 2404:c2c0:ef00::/40,IPv6,S3,cn-northwest-1
 2a05:d050:5000::/40,IPv6,S3,il-central-1
 240f:80fa:4000::/40,IPv6,S3,cn-northwest-1
@@ -477,6 +476,7 @@ ip_address,ip_type,service,region
 2400:7fc0:6000::/40,IPv6,S3,cn-north-1
 2406:da60:2800::/40,IPv6,S3,ap-southeast-6
 2600:1fa0:6000::/40,IPv6,S3,us-east-2
+2406:daa0:a800::/40,IPv6,S3,ap-southeast-1
 2404:c2c0:2800::/40,IPv6,S3,cn-northwest-1
 2406:daf0:1000::/40,IPv6,S3,af-south-1
 2406:daf4:1000::/40,IPv6,S3,af-south-1
@@ -623,7 +623,6 @@ ip_address,ip_type,service,region
 2600:1ffa:6000::/40,IPv6,S3,us-east-2
 2406:daf0:7000::/40,IPv6,S3,me-central-1
 2a05:d059:2000::/40,IPv6,S3,eu-west-3
-2400:7fc0:ec00::/48,IPv6,S3,cn-north-1
 2a05:d059:c000::/40,IPv6,S3,eu-west-2
 2a05:d074:4000::/40,IPv6,S3,eu-central-1
 2406:da60:4000::/40,IPv6,S3,ap-northeast-1

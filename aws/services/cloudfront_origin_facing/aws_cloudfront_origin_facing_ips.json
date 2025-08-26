@@ -282,6 +282,12 @@
     "region": "GLOBAL"
   },
   {
+    "ip_address": "2600:9000:1f9e::/48",
+    "ip_type": "IPv6",
+    "service": "CLOUDFRONT_ORIGIN_FACING",
+    "region": "GLOBAL"
+  },
+  {
     "ip_address": "2600:9000:1800::/39",
     "ip_type": "IPv6",
     "service": "CLOUDFRONT_ORIGIN_FACING",

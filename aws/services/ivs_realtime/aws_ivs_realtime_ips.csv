@@ -141,7 +141,9 @@ ip_address,ip_type,service,region
 2600:f0f0:110a::/48,IPv6,IVS_REALTIME,ap-southeast-2
 2600:f0f0:5514::/48,IPv6,IVS_REALTIME,us-west-2
 2600:f0f0:551e::/48,IPv6,IVS_REALTIME,us-east-2
+2600:f0f0:e05::/48,IPv6,IVS_REALTIME,me-south-1
 2600:f0f0:1106::/48,IPv6,IVS_REALTIME,ap-southeast-1
+2600:f0f0:e04::/48,IPv6,IVS_REALTIME,me-south-1
 2600:f0f0:5522::/48,IPv6,IVS_REALTIME,sa-east-1
 2600:f0f0:5538::/48,IPv6,IVS_REALTIME,ap-northeast-3
 2600:f0f0:5518::/48,IPv6,IVS_REALTIME,us-east-1
