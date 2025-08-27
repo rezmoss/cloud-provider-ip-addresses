@@ -29838,7 +29838,31 @@
     "region": "ap-southeast-5"
   },
   {
+    "ip_address": "3.102.47.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-southeast-6"
+  },
+  {
+    "ip_address": "3.102.48.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-southeast-6"
+  },
+  {
+    "ip_address": "3.102.49.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-southeast-6"
+  },
+  {
     "ip_address": "3.102.50.0/23",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-southeast-6"
+  },
+  {
+    "ip_address": "3.102.52.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "ap-southeast-6"

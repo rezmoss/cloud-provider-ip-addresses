@@ -29838,7 +29838,31 @@
     "region": "ap-southeast-5"
   },
   {
+    "ip_address": "3.102.47.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-southeast-6"
+  },
+  {
+    "ip_address": "3.102.48.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-southeast-6"
+  },
+  {
+    "ip_address": "3.102.49.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-southeast-6"
+  },
+  {
     "ip_address": "3.102.50.0/23",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-southeast-6"
+  },
+  {
+    "ip_address": "3.102.52.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "ap-southeast-6"
@@ -78474,13 +78498,19 @@
     "region": "GLOBAL"
   },
   {
-    "ip_address": "2600:9000:1400::/39",
+    "ip_address": "2600:9000:1fe0::/43",
     "ip_type": "IPv6",
     "service": "CLOUDFRONT_ORIGIN_FACING",
     "region": "GLOBAL"
   },
   {
-    "ip_address": "2600:9000:1f9e::/48",
+    "ip_address": "2600:9000:1f40::/42",
+    "ip_type": "IPv6",
+    "service": "CLOUDFRONT_ORIGIN_FACING",
+    "region": "GLOBAL"
+  },
+  {
+    "ip_address": "2600:9000:1400::/39",
     "ip_type": "IPv6",
     "service": "CLOUDFRONT_ORIGIN_FACING",
     "region": "GLOBAL"
@@ -78492,13 +78522,61 @@
     "region": "GLOBAL"
   },
   {
+    "ip_address": "2600:9000:1e00::/40",
+    "ip_type": "IPv6",
+    "service": "CLOUDFRONT_ORIGIN_FACING",
+    "region": "GLOBAL"
+  },
+  {
+    "ip_address": "2600:9000:1fba::/47",
+    "ip_type": "IPv6",
+    "service": "CLOUDFRONT_ORIGIN_FACING",
+    "region": "GLOBAL"
+  },
+  {
     "ip_address": "2600:9000:5200::/40",
     "ip_type": "IPv6",
     "service": "CLOUDFRONT_ORIGIN_FACING",
     "region": "GLOBAL"
   },
   {
+    "ip_address": "2600:9000:1fa0::/44",
+    "ip_type": "IPv6",
+    "service": "CLOUDFRONT_ORIGIN_FACING",
+    "region": "GLOBAL"
+  },
+  {
     "ip_address": "2600:9000:1a00::/39",
+    "ip_type": "IPv6",
+    "service": "CLOUDFRONT_ORIGIN_FACING",
+    "region": "GLOBAL"
+  },
+  {
+    "ip_address": "2600:9000:1fbc::/46",
+    "ip_type": "IPv6",
+    "service": "CLOUDFRONT_ORIGIN_FACING",
+    "region": "GLOBAL"
+  },
+  {
+    "ip_address": "2600:9000:1fc0::/43",
+    "ip_type": "IPv6",
+    "service": "CLOUDFRONT_ORIGIN_FACING",
+    "region": "GLOBAL"
+  },
+  {
+    "ip_address": "2600:9000:1f00::/42",
+    "ip_type": "IPv6",
+    "service": "CLOUDFRONT_ORIGIN_FACING",
+    "region": "GLOBAL"
+  },
+  {
+    "ip_address": "2600:9000:1fb0::/45",
+    "ip_type": "IPv6",
+    "service": "CLOUDFRONT_ORIGIN_FACING",
+    "region": "GLOBAL"
+  },
+  {
+    "ip_address": "2600:9000:1f80::/43",
     "ip_type": "IPv6",
     "service": "CLOUDFRONT_ORIGIN_FACING",
     "region": "GLOBAL"
