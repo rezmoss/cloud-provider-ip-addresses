@@ -30,6 +30,7 @@ ip_address,ip_type,service,region
 52.94.176.0/20,IPv4,AMAZON,us-west-2
 52.93.20.0/24,IPv4,AMAZON,us-west-2
 150.222.182.16/32,IPv4,AMAZON,us-west-2
+16.12.96.0/21,IPv4,AMAZON,us-west-2
 52.94.249.64/28,IPv4,AMAZON,us-west-2
 15.181.253.0/24,IPv4,AMAZON,us-west-2
 52.94.128.0/22,IPv4,AMAZON,us-west-2
@@ -43,12 +44,14 @@ ip_address,ip_type,service,region
 198.41.107.0/24,IPv4,AMAZON,us-west-2
 16.146.0.0/16,IPv4,AMAZON,us-west-2
 150.222.176.0/22,IPv4,AMAZON,us-west-2
+16.12.104.0/21,IPv4,AMAZON,us-west-2
 99.77.152.0/24,IPv4,AMAZON,us-west-2
 35.96.7.0/24,IPv4,AMAZON,us-west-2
 54.240.248.0/21,IPv4,AMAZON,us-west-2
 155.146.128.0/20,IPv4,AMAZON,us-west-2
 35.160.0.0/13,IPv4,AMAZON,us-west-2
 52.93.246.216/31,IPv4,AMAZON,us-west-2
+16.12.88.0/21,IPv4,AMAZON,us-west-2
 155.146.112.0/20,IPv4,AMAZON,us-west-2
 18.98.0.0/18,IPv4,AMAZON,us-west-2
 52.94.208.0/21,IPv4,AMAZON,us-west-2
@@ -82,6 +85,7 @@ ip_address,ip_type,service,region
 52.94.10.0/24,IPv4,AMAZON,us-west-2
 54.244.0.0/16,IPv4,AMAZON,us-west-2
 16.151.0.0/16,IPv4,AMAZON,us-west-2
+16.12.112.0/21,IPv4,AMAZON,us-west-2
 35.96.6.0/24,IPv4,AMAZON,us-west-2
 44.224.0.0/11,IPv4,AMAZON,us-west-2
 35.55.38.0/24,IPv4,AMAZON,us-west-2
@@ -274,7 +278,11 @@ ip_address,ip_type,service,region
 99.77.232.0/24,IPv4,CHIME_VOICECONNECTOR,us-west-2
 54.244.52.192/26,IPv4,ROUTE53_HEALTHCHECKS,us-west-2
 54.245.168.0/26,IPv4,ROUTE53_HEALTHCHECKS,us-west-2
+16.12.96.0/21,IPv4,S3,us-west-2
+16.12.104.0/21,IPv4,S3,us-west-2
+16.12.88.0/21,IPv4,S3,us-west-2
 3.5.76.0/22,IPv4,S3,us-west-2
+16.12.112.0/21,IPv4,S3,us-west-2
 18.34.244.0/22,IPv4,S3,us-west-2
 18.34.48.0/20,IPv4,S3,us-west-2
 3.5.80.0/21,IPv4,S3,us-west-2
