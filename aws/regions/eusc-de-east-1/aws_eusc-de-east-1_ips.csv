@@ -25,6 +25,7 @@ ip_address,ip_type,service,region
 51.224.192.0/23,IPv4,AMAZON,eusc-de-east-1
 51.224.194.0/23,IPv4,AMAZON,eusc-de-east-1
 51.224.196.0/23,IPv4,AMAZON,eusc-de-east-1
+51.224.254.0/23,IPv4,AMAZON,eusc-de-east-1
 51.0.252.0/24,IPv4,ROUTE53_HEALTHCHECKS,eusc-de-east-1
 83.118.240.0/21,IPv4,S3,eusc-de-east-1
 51.0.31.0/24,IPv4,EC2,eusc-de-east-1
