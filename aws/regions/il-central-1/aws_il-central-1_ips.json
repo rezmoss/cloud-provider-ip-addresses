@@ -42,6 +42,12 @@
     "region": "il-central-1"
   },
   {
+    "ip_address": "35.54.60.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "il-central-1"
+  },
+  {
     "ip_address": "15.251.0.28/32",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -306,6 +312,12 @@
     "region": "il-central-1"
   },
   {
+    "ip_address": "35.54.60.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "il-central-1"
+  },
+  {
     "ip_address": "35.71.122.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -546,6 +558,12 @@
     "region": "il-central-1"
   },
   {
+    "ip_address": "2600:f0fb:f10f::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "il-central-1"
+  },
+  {
     "ip_address": "2a05:d072:5000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -733,6 +751,12 @@
   },
   {
     "ip_address": "2a05:d015::/36",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "il-central-1"
+  },
+  {
+    "ip_address": "2600:f0fb:f10f::/48",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "il-central-1"

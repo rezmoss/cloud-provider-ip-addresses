@@ -36,6 +36,12 @@
     "region": "ap-south-1"
   },
   {
+    "ip_address": "35.54.58.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-south-1"
+  },
+  {
     "ip_address": "13.204.0.0/14",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -990,6 +996,12 @@
     "region": "ap-south-1"
   },
   {
+    "ip_address": "35.54.58.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "ap-south-1"
+  },
+  {
     "ip_address": "13.204.0.0/14",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -1596,6 +1608,12 @@
     "region": "ap-south-1"
   },
   {
+    "ip_address": "2600:f0fb:f10d::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-south-1"
+  },
+  {
     "ip_address": "2406:daf9:a000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -1971,6 +1989,12 @@
     "ip_address": "2406:da2a:14::/48",
     "ip_type": "IPv6",
     "service": "WORKSPACES_GATEWAYS",
+    "region": "ap-south-1"
+  },
+  {
+    "ip_address": "2600:f0fb:f10d::/48",
+    "ip_type": "IPv6",
+    "service": "EC2",
     "region": "ap-south-1"
   },
   {
