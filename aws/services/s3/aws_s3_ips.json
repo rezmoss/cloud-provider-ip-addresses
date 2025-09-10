@@ -1056,6 +1056,12 @@
     "region": "eu-west-3"
   },
   {
+    "ip_address": "16.12.3.0/24",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "ap-south-1"
+  },
+  {
     "ip_address": "52.219.176.0/22",
     "ip_type": "IPv4",
     "service": "S3",

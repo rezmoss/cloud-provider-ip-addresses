@@ -175,6 +175,7 @@ ip_address,ip_type,service,region
 52.219.220.0/23,IPv4,S3,us-west-1
 52.92.0.0/17,IPv4,S3,eu-west-1
 52.95.154.0/23,IPv4,S3,eu-west-3
+16.12.3.0/24,IPv4,S3,ap-south-1
 52.219.176.0/22,IPv4,S3,us-east-2
 16.12.12.0/23,IPv4,S3,il-central-1
 76.223.103.0/24,IPv4,S3,GLOBAL
