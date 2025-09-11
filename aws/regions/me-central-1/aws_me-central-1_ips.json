@@ -684,6 +684,12 @@
     "region": "me-central-1"
   },
   {
+    "ip_address": "2406:dafd:7000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "me-central-1"
+  },
+  {
     "ip_address": "2406:daa0:7000::/40",
     "ip_type": "IPv6",
     "service": "S3",
@@ -883,6 +889,12 @@
   },
   {
     "ip_address": "2406:daf0:7000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "me-central-1"
+  },
+  {
+    "ip_address": "2406:dafd:7000::/40",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "me-central-1"

@@ -66,7 +66,115 @@
     "region": "sa-west-1"
   },
   {
+    "ip_address": "2600:1f32:ec00::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "sa-west-1"
+  },
+  {
+    "ip_address": "2600:1ff4:ec00::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "sa-west-1"
+  },
+  {
+    "ip_address": "2600:1ffe:ec00::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "sa-west-1"
+  },
+  {
+    "ip_address": "2600:1ff3:ec00::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "sa-west-1"
+  },
+  {
+    "ip_address": "2600:1f38:ec00::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "sa-west-1"
+  },
+  {
     "ip_address": "2600:1f2e:c000::/36",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "sa-west-1"
+  },
+  {
+    "ip_address": "2600:1fef:ec00::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "sa-west-1"
+  },
+  {
+    "ip_address": "2600:1fb9:ec00::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "sa-west-1"
+  },
+  {
+    "ip_address": "2600:1ff9:ec00::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "sa-west-1"
+  },
+  {
+    "ip_address": "2600:1f36:ec00::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "sa-west-1"
+  },
+  {
+    "ip_address": "2600:1fa0:ec00::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "sa-west-1"
+  },
+  {
+    "ip_address": "2600:1ffd:ec00::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "sa-west-1"
+  },
+  {
+    "ip_address": "2600:1fff:ec00::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "sa-west-1"
+  },
+  {
+    "ip_address": "2600:1f70:ec00::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "sa-west-1"
+  },
+  {
+    "ip_address": "2600:1f61:ec00::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "sa-west-1"
+  },
+  {
+    "ip_address": "2600:1ff2:ec00::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "sa-west-1"
+  },
+  {
+    "ip_address": "2600:1ff0:ec00::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "sa-west-1"
+  },
+  {
+    "ip_address": "2600:1f30:ec00::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "sa-west-1"
+  },
+  {
+    "ip_address": "2600:1ff6:ec00::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "sa-west-1"
@@ -78,7 +186,127 @@
     "region": "sa-west-1"
   },
   {
+    "ip_address": "2600:1ff4:ec00::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "sa-west-1"
+  },
+  {
+    "ip_address": "2600:1fef:ec00::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "sa-west-1"
+  },
+  {
+    "ip_address": "2600:1fb9:ec00::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "sa-west-1"
+  },
+  {
+    "ip_address": "2600:1fa0:ec00::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "sa-west-1"
+  },
+  {
+    "ip_address": "2600:1ff0:ec00::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "sa-west-1"
+  },
+  {
+    "ip_address": "2600:1f32:ec00::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "sa-west-1"
+  },
+  {
+    "ip_address": "2600:1ff4:ec00::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "sa-west-1"
+  },
+  {
+    "ip_address": "2600:1ff3:ec00::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "sa-west-1"
+  },
+  {
+    "ip_address": "2600:1f38:ec00::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "sa-west-1"
+  },
+  {
     "ip_address": "2600:1f2e:c000::/36",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "sa-west-1"
+  },
+  {
+    "ip_address": "2600:1fef:ec00::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "sa-west-1"
+  },
+  {
+    "ip_address": "2600:1fb9:ec00::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "sa-west-1"
+  },
+  {
+    "ip_address": "2600:1f36:ec00::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "sa-west-1"
+  },
+  {
+    "ip_address": "2600:1ffd:ec00::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "sa-west-1"
+  },
+  {
+    "ip_address": "2600:1fff:ec00::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "sa-west-1"
+  },
+  {
+    "ip_address": "2600:1f70:ec00::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "sa-west-1"
+  },
+  {
+    "ip_address": "2600:1f61:ec00::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "sa-west-1"
+  },
+  {
+    "ip_address": "2600:1ff2:ec00::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "sa-west-1"
+  },
+  {
+    "ip_address": "2600:1ff0:ec00::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "sa-west-1"
+  },
+  {
+    "ip_address": "2600:1f30:ec00::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "sa-west-1"
+  },
+  {
+    "ip_address": "2600:1ff6:ec00::/40",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "sa-west-1"

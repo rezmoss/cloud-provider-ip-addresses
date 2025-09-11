@@ -804,6 +804,12 @@
     "region": "af-south-1"
   },
   {
+    "ip_address": "2406:dafd:1000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "af-south-1"
+  },
+  {
     "ip_address": "2600:f0f0:6119::/48",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -1027,6 +1033,12 @@
   },
   {
     "ip_address": "2406:daf3:1000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "af-south-1"
+  },
+  {
+    "ip_address": "2406:dafd:1000::/40",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "af-south-1"

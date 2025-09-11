@@ -1110,6 +1110,12 @@
     "region": "ca-central-1"
   },
   {
+    "ip_address": "2600:1ffd:10c0::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ca-central-1"
+  },
+  {
     "ip_address": "2600:1ff9:1000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -1141,6 +1147,12 @@
   },
   {
     "ip_address": "2620:107:4000:4800::/62",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ca-central-1"
+  },
+  {
+    "ip_address": "2600:1ffd:1040::/48",
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "ca-central-1"
@@ -1260,6 +1272,12 @@
     "region": "ca-central-1"
   },
   {
+    "ip_address": "2600:1ffd:1080::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ca-central-1"
+  },
+  {
     "ip_address": "2600:1f00:1000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -1315,6 +1333,12 @@
   },
   {
     "ip_address": "2600:1f21::/36",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ca-central-1"
+  },
+  {
+    "ip_address": "2600:1ffd:1020::/48",
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "ca-central-1"
@@ -1464,6 +1488,12 @@
     "region": "ca-central-1"
   },
   {
+    "ip_address": "2600:1ffd:10c0::/48",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ca-central-1"
+  },
+  {
     "ip_address": "2600:1f70:1000::/40",
     "ip_type": "IPv6",
     "service": "EC2",
@@ -1471,6 +1501,12 @@
   },
   {
     "ip_address": "2606:7b40:1b0e::/56",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ca-central-1"
+  },
+  {
+    "ip_address": "2600:1ffd:1040::/48",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "ca-central-1"
@@ -1554,6 +1590,12 @@
     "region": "ca-central-1"
   },
   {
+    "ip_address": "2600:1ffd:1080::/48",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ca-central-1"
+  },
+  {
     "ip_address": "2600:1f00:1000::/40",
     "ip_type": "IPv6",
     "service": "EC2",
@@ -1603,6 +1645,12 @@
   },
   {
     "ip_address": "2600:1f21::/36",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ca-central-1"
+  },
+  {
+    "ip_address": "2600:1ffd:1020::/48",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "ca-central-1"

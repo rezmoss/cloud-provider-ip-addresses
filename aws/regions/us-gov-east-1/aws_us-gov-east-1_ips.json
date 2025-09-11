@@ -594,6 +594,12 @@
     "region": "us-gov-east-1"
   },
   {
+    "ip_address": "2600:1ffd:5000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-gov-east-1"
+  },
+  {
     "ip_address": "2600:1ff9:5000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -793,6 +799,12 @@
   },
   {
     "ip_address": "2600:1f61:5000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "2600:1ffd:5000::/40",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "us-gov-east-1"
