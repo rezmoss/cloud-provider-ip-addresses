@@ -726,6 +726,12 @@
     "region": "af-south-1"
   },
   {
+    "ip_address": "2406:dabb:1000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "af-south-1"
+  },
+  {
     "ip_address": "2406:dab9:1000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -975,6 +981,12 @@
     "ip_address": "2406:da21:c::/48",
     "ip_type": "IPv6",
     "service": "WORKSPACES_GATEWAYS",
+    "region": "af-south-1"
+  },
+  {
+    "ip_address": "2406:dabb:1000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
     "region": "af-south-1"
   },
   {

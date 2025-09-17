@@ -84,6 +84,7 @@ ip_address,ip_type,service,region
 35.71.116.0/24,IPv4,EC2,us-gov-west-1
 52.222.0.0/17,IPv4,EC2,us-gov-west-1
 15.200.0.0/16,IPv4,EC2,us-gov-west-1
+40.38.0.0/16,IPv4,EC2,us-gov-west-1
 18.96.8.0/21,IPv4,EC2,us-gov-west-1
 15.200.28.88/29,IPv4,CODEBUILD,us-gov-west-1
 52.61.40.104/29,IPv4,CODEBUILD,us-gov-west-1
@@ -122,6 +123,7 @@ ip_address,ip_type,service,region
 2600:1f36:2000::/40,IPv6,AMAZON,us-gov-west-1
 2620:108:d000::/44,IPv6,AMAZON,us-gov-west-1
 2620:107:4000:7400::/56,IPv6,AMAZON,us-gov-west-1
+2600:1fbb:2000::/40,IPv6,AMAZON,us-gov-west-1
 2600:1f12::/36,IPv6,AMAZON,us-gov-west-1
 2600:f0f2:7140::/48,IPv6,AMAZON,us-gov-west-1
 2600:1ff0:2000::/40,IPv6,AMAZON,us-gov-west-1
@@ -159,6 +161,7 @@ ip_address,ip_type,service,region
 2600:1f30:2000::/40,IPv6,EC2,us-gov-west-1
 2600:1f60:2000::/40,IPv6,EC2,us-gov-west-1
 2600:1f36:2000::/40,IPv6,EC2,us-gov-west-1
+2600:1fbb:2000::/40,IPv6,EC2,us-gov-west-1
 2600:1f12::/36,IPv6,EC2,us-gov-west-1
 2600:f0f2:7140::/48,IPv6,EC2,us-gov-west-1
 2600:1ff0:2000::/40,IPv6,EC2,us-gov-west-1

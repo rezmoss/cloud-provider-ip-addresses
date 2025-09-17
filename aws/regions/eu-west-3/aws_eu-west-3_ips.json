@@ -1266,6 +1266,12 @@
     "region": "eu-west-3"
   },
   {
+    "ip_address": "2a05:d05b:2000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eu-west-3"
+  },
+  {
     "ip_address": "2a05:d03a:2000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -1543,6 +1549,12 @@
   },
   {
     "ip_address": "2a05:d07d:2000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eu-west-3"
+  },
+  {
+    "ip_address": "2a05:d05b:2000::/40",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "eu-west-3"

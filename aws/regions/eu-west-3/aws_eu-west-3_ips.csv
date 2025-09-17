@@ -210,6 +210,7 @@ ip_address,ip_type,service,region
 2a05:d078:2000::/40,IPv6,AMAZON,eu-west-3
 2a05:d07d:2000::/40,IPv6,AMAZON,eu-west-3
 2a05:d07e:2000::/40,IPv6,AMAZON,eu-west-3
+2a05:d05b:2000::/40,IPv6,AMAZON,eu-west-3
 2a05:d03a:2000::/40,IPv6,AMAZON,eu-west-3
 2a01:578:0:13::/64,IPv6,AMAZON,eu-west-3
 2a05:d059:2000::/40,IPv6,AMAZON,eu-west-3
@@ -257,6 +258,7 @@ ip_address,ip_type,service,region
 2600:f0f0:1116::/48,IPv6,EC2,eu-west-3
 2a05:d07f:2000::/40,IPv6,EC2,eu-west-3
 2a05:d07d:2000::/40,IPv6,EC2,eu-west-3
+2a05:d05b:2000::/40,IPv6,EC2,eu-west-3
 2a05:d03a:2000::/40,IPv6,EC2,eu-west-3
 2a05:d059:2000::/40,IPv6,EC2,eu-west-3
 2a05:d038:2000::/40,IPv6,EC2,eu-west-3

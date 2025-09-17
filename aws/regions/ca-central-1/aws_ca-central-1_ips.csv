@@ -181,6 +181,7 @@ ip_address,ip_type,service,region
 2600:1f60:1000::/40,IPv6,AMAZON,ca-central-1
 2600:f0f0:4107::/48,IPv6,AMAZON,ca-central-1
 2620:107:4000:9015::/64,IPv6,AMAZON,ca-central-1
+2600:1fbb:1000::/40,IPv6,AMAZON,ca-central-1
 2600:1fff:1000::/40,IPv6,AMAZON,ca-central-1
 2600:1f36:1000::/40,IPv6,AMAZON,ca-central-1
 2600:1fb9:1000::/40,IPv6,AMAZON,ca-central-1
@@ -244,6 +245,7 @@ ip_address,ip_type,service,region
 2600:f0f2:7104::/48,IPv6,EC2,ca-central-1
 2600:1f60:1000::/40,IPv6,EC2,ca-central-1
 2600:f0f0:4107::/48,IPv6,EC2,ca-central-1
+2600:1fbb:1000::/40,IPv6,EC2,ca-central-1
 2600:1fff:1000::/40,IPv6,EC2,ca-central-1
 2600:1f36:1000::/40,IPv6,EC2,ca-central-1
 2600:1fb9:1000::/40,IPv6,EC2,ca-central-1

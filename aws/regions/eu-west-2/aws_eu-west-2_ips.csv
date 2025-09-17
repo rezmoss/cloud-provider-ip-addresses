@@ -358,6 +358,7 @@ ip_address,ip_type,service,region
 2a05:d07a:c000::/40,IPv6,AMAZON,eu-west-2
 2600:f0f0:c045::/48,IPv6,AMAZON,eu-west-2
 2a05:d027::/36,IPv6,AMAZON,eu-west-2
+2a05:d05b:c000::/40,IPv6,AMAZON,eu-west-2
 2a05:d017::/36,IPv6,AMAZON,eu-west-2
 2600:9000:520c::/48,IPv6,AMAZON,eu-west-2
 2600:f0f0:6108::/48,IPv6,AMAZON,eu-west-2
@@ -417,6 +418,7 @@ ip_address,ip_type,service,region
 2a05:d02c:8::/48,IPv6,WORKSPACES_GATEWAYS,eu-west-2
 2600:f0f0:c045::/48,IPv6,EC2,eu-west-2
 2a05:d027::/36,IPv6,EC2,eu-west-2
+2a05:d05b:c000::/40,IPv6,EC2,eu-west-2
 2a05:d017::/36,IPv6,EC2,eu-west-2
 2600:9000:520c::/48,IPv6,EC2,eu-west-2
 2600:f0f0:6108::/48,IPv6,EC2,eu-west-2

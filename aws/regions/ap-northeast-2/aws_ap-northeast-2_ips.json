@@ -1590,6 +1590,12 @@
     "region": "ap-northeast-2"
   },
   {
+    "ip_address": "2406:dabb:2000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-northeast-2"
+  },
+  {
     "ip_address": "2600:f0f0:5402::/48",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -1957,6 +1963,12 @@
   },
   {
     "ip_address": "2606:f40:2400::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-northeast-2"
+  },
+  {
+    "ip_address": "2406:dabb:2000::/40",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "ap-northeast-2"

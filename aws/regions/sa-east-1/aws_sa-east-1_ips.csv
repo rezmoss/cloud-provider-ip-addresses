@@ -278,6 +278,7 @@ ip_address,ip_type,service,region
 2600:1f32:e000::/40,IPv6,AMAZON,sa-east-1
 2606:f40:3e00::/40,IPv6,AMAZON,sa-east-1
 2600:f0f0:1118::/48,IPv6,AMAZON,sa-east-1
+2600:1fbb:e000::/40,IPv6,AMAZON,sa-east-1
 2600:f0f0:410c::/48,IPv6,AMAZON,sa-east-1
 2600:1ffe:e000::/40,IPv6,AMAZON,sa-east-1
 2600:1ff6:e000::/40,IPv6,AMAZON,sa-east-1
@@ -344,6 +345,7 @@ ip_address,ip_type,service,region
 2600:1f32:e000::/40,IPv6,EC2,sa-east-1
 2606:f40:3e00::/40,IPv6,EC2,sa-east-1
 2600:f0f0:1118::/48,IPv6,EC2,sa-east-1
+2600:1fbb:e000::/40,IPv6,EC2,sa-east-1
 2600:f0f0:410c::/48,IPv6,EC2,sa-east-1
 2600:1ff6:e000::/40,IPv6,EC2,sa-east-1
 2804:800:ff00::/48,IPv6,EC2,sa-east-1

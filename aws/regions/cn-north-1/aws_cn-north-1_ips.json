@@ -864,6 +864,12 @@
     "region": "cn-north-1"
   },
   {
+    "ip_address": "2400:7fc0:bb00::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "cn-north-1"
+  },
+  {
     "ip_address": "2400:7fc0:8000::/36",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -1075,6 +1081,12 @@
   },
   {
     "ip_address": "2400:7fc0:c000::/36",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "cn-north-1"
+  },
+  {
+    "ip_address": "2400:7fc0:bb00::/40",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "cn-north-1"

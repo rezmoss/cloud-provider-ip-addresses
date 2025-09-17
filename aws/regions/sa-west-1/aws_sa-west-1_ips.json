@@ -66,6 +66,12 @@
     "region": "sa-west-1"
   },
   {
+    "ip_address": "2600:1fbb:ec00::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "sa-west-1"
+  },
+  {
     "ip_address": "2600:1f32:ec00::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -213,6 +219,12 @@
     "ip_address": "2600:1ff0:ec00::/40",
     "ip_type": "IPv6",
     "service": "S3",
+    "region": "sa-west-1"
+  },
+  {
+    "ip_address": "2600:1fbb:ec00::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
     "region": "sa-west-1"
   },
   {
