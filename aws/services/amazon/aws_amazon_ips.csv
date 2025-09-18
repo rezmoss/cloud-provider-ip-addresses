@@ -3050,6 +3050,7 @@ ip_address,ip_type,service,region
 15.193.136.0/22,IPv4,AMAZON,us-west-2
 15.230.9.252/31,IPv4,AMAZON,eu-west-2
 15.251.0.15/32,IPv4,AMAZON,us-west-1
+23.228.198.0/24,IPv4,AMAZON,GLOBAL
 35.55.33.0/24,IPv4,AMAZON,us-east-2
 52.93.47.0/24,IPv4,AMAZON,us-west-1
 52.93.52.163/32,IPv4,AMAZON,us-west-1

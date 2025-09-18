@@ -666,6 +666,12 @@
     "region": "GLOBAL"
   },
   {
+    "ip_address": "23.228.198.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "GLOBAL"
+  },
+  {
     "ip_address": "143.204.0.0/16",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -1285,6 +1291,12 @@
   },
   {
     "ip_address": "216.39.168.0/21",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "GLOBAL"
+  },
+  {
+    "ip_address": "23.228.198.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "GLOBAL"

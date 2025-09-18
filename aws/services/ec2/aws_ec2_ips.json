@@ -6072,6 +6072,12 @@
     "region": "us-west-2"
   },
   {
+    "ip_address": "23.228.198.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "GLOBAL"
+  },
+  {
     "ip_address": "35.55.33.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
