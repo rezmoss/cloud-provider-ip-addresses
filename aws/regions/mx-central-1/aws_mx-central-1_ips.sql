@@ -40,6 +40,7 @@ INSERT INTO `aws_mx-central-1_ips` (`ip_address`, `ip_type`) VALUES ('78.12.61.0
 INSERT INTO `aws_mx-central-1_ips` (`ip_address`, `ip_type`) VALUES ('78.12.62.0/24', 'IPv4');
 INSERT INTO `aws_mx-central-1_ips` (`ip_address`, `ip_type`) VALUES ('78.12.63.0/24', 'IPv4');
 INSERT INTO `aws_mx-central-1_ips` (`ip_address`, `ip_type`) VALUES ('78.12.64.0/23', 'IPv4');
+INSERT INTO `aws_mx-central-1_ips` (`ip_address`, `ip_type`) VALUES ('78.13.188.0/23', 'IPv4');
 INSERT INTO `aws_mx-central-1_ips` (`ip_address`, `ip_type`) VALUES ('78.13.88.0/23', 'IPv4');
 INSERT INTO `aws_mx-central-1_ips` (`ip_address`, `ip_type`) VALUES ('16.12.71.0/24', 'IPv4');
 INSERT INTO `aws_mx-central-1_ips` (`ip_address`, `ip_type`) VALUES ('16.12.72.0/23', 'IPv4');

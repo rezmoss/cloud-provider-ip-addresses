@@ -96,6 +96,12 @@
     "region": "eu-central-1"
   },
   {
+    "ip_address": "35.96.52.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-central-1"
+  },
+  {
     "ip_address": "16.12.24.0/21",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -900,6 +906,12 @@
     "region": "eu-central-1"
   },
   {
+    "ip_address": "35.96.50.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-central-1"
+  },
+  {
     "ip_address": "150.222.122.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -979,6 +991,12 @@
   },
   {
     "ip_address": "15.230.15.108/31",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-central-1"
+  },
+  {
+    "ip_address": "35.96.49.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "eu-central-1"
@@ -1249,6 +1267,12 @@
   },
   {
     "ip_address": "150.222.152.34/32",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-central-1"
+  },
+  {
+    "ip_address": "35.96.51.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "eu-central-1"
@@ -2310,6 +2334,12 @@
     "region": "eu-central-1"
   },
   {
+    "ip_address": "35.96.52.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "eu-central-1"
+  },
+  {
     "ip_address": "3.5.136.0/22",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -2508,6 +2538,12 @@
     "region": "eu-central-1"
   },
   {
+    "ip_address": "35.96.50.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "eu-central-1"
+  },
+  {
     "ip_address": "35.50.194.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -2515,6 +2551,12 @@
   },
   {
     "ip_address": "3.64.0.0/12",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "eu-central-1"
+  },
+  {
+    "ip_address": "35.96.49.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "eu-central-1"
@@ -2587,6 +2629,12 @@
   },
   {
     "ip_address": "216.244.10.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "eu-central-1"
+  },
+  {
+    "ip_address": "35.96.51.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "eu-central-1"
