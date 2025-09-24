@@ -6360,12 +6360,6 @@
     "region": "us-east-1"
   },
   {
-    "ip_address": "23.228.202.0/23",
-    "ip_type": "IPv4",
-    "service": "EC2",
-    "region": "us-east-1"
-  },
-  {
     "ip_address": "54.25.82.0/24",
     "ip_type": "IPv4",
     "service": "EC2",

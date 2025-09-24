@@ -1059,7 +1059,6 @@ ip_address,ip_type,service,region
 155.146.144.0/20,IPv4,EC2,us-west-2
 168.185.4.0/24,IPv4,EC2,us-west-1
 15.181.242.0/24,IPv4,EC2,us-east-1
-23.228.202.0/23,IPv4,EC2,us-east-1
 54.25.82.0/24,IPv4,EC2,us-east-1
 54.232.0.0/16,IPv4,EC2,sa-east-1
 99.77.55.52/32,IPv4,EC2,eu-south-2
