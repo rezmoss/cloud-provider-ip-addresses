@@ -4428,6 +4428,12 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "98.90.62.0/23",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "99.77.254.0/24",
     "ip_type": "IPv4",
     "service": "CHIME_VOICECONNECTOR",
