@@ -132,6 +132,12 @@
     "region": "ap-southeast-1"
   },
   {
+    "ip_address": "150.247.39.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-southeast-1"
+  },
+  {
     "ip_address": "54.169.0.0/16",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -2317,6 +2323,12 @@
   },
   {
     "ip_address": "2406:dafc:8000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-southeast-1"
+  },
+  {
+    "ip_address": "2600:1f01:490e::/47",
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "ap-southeast-1"
