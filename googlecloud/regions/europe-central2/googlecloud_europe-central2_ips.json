@@ -6,6 +6,12 @@
     "region": "europe-central2"
   },
   {
+    "ip_address": "34.4.64.0/20",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "europe-central2"
+  },
+  {
     "ip_address": "34.104.116.0/22",
     "ip_type": "IPv4",
     "service": "Google Cloud",

@@ -228,6 +228,12 @@
     "region": "us-east4"
   },
   {
+    "ip_address": "136.107.0.0/16",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "us-east4"
+  },
+  {
     "ip_address": "2600:1900:4090::/44",
     "ip_type": "IPv6",
     "service": "Google Cloud",

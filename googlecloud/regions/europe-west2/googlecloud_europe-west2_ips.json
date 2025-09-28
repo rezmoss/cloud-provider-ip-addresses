@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "34.4.48.0/20",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "europe-west2"
+  },
+  {
     "ip_address": "34.13.0.0/18",
     "ip_type": "IPv4",
     "service": "Google Cloud",
@@ -37,6 +43,12 @@
   },
   {
     "ip_address": "34.128.52.0/22",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "europe-west2"
+  },
+  {
+    "ip_address": "34.128.224.0/20",
     "ip_type": "IPv4",
     "service": "Google Cloud",
     "region": "europe-west2"

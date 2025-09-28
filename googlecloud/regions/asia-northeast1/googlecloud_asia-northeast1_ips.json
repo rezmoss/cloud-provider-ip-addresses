@@ -144,6 +144,12 @@
     "region": "asia-northeast1"
   },
   {
+    "ip_address": "136.110.64.0/18",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "asia-northeast1"
+  },
+  {
     "ip_address": "2600:1900:4050::/44",
     "ip_type": "IPv6",
     "service": "Google Cloud",
