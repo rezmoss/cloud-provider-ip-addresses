@@ -2275,6 +2275,7 @@ ip_address,ip_type,service,region
 2606:7b40:1a4f:c320::/60,IPv6,EC2,us-west-2
 2600:f0f2:7010::/48,IPv6,EC2,us-east-1
 2606:7b40:1b09::/56,IPv6,EC2,sa-east-1
+2631:1:4ff0::/48,IPv6,EC2,us-west-2
 2a05:d012::/36,IPv6,EC2,eu-west-3
 2a05:d05b:800::/40,IPv6,EC2,me-west-1
 2a05:d072:b000::/40,IPv6,EC2,eu-central-1

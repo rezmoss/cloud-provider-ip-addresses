@@ -462,6 +462,7 @@ INSERT INTO `aws_global_ips` (`ip_address`, `ip_type`) VALUES ('2600:9000:f534::
 INSERT INTO `aws_global_ips` (`ip_address`, `ip_type`) VALUES ('2600:9000:a900::/40', 'IPv6');
 INSERT INTO `aws_global_ips` (`ip_address`, `ip_type`) VALUES ('2600:9000:a200::/40', 'IPv6');
 INSERT INTO `aws_global_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f0:400::/44', 'IPv6');
+INSERT INTO `aws_global_ips` (`ip_address`, `ip_type`) VALUES ('2606:7b40:1b10::/48', 'IPv6');
 INSERT INTO `aws_global_ips` (`ip_address`, `ip_type`) VALUES ('2600:9000:ad00::/40', 'IPv6');
 INSERT INTO `aws_global_ips` (`ip_address`, `ip_type`) VALUES ('2600:9000:5300::/45', 'IPv6');
 INSERT INTO `aws_global_ips` (`ip_address`, `ip_type`) VALUES ('2600:9000:f520::/44', 'IPv6');

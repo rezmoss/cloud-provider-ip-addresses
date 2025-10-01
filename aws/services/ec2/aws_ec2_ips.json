@@ -13656,6 +13656,12 @@
     "region": "sa-east-1"
   },
   {
+    "ip_address": "2631:1:4ff0::/48",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-west-2"
+  },
+  {
     "ip_address": "2a05:d012::/36",
     "ip_type": "IPv6",
     "service": "EC2",
