@@ -341,6 +341,7 @@ ip_address,ip_type,service,region
 35.96.1.0/24,IPv4,EC2,us-west-2
 54.245.0.0/16,IPv4,EC2,us-west-2
 198.41.107.0/24,IPv4,EC2,us-west-2
+16.146.0.0/16,IPv4,EC2,us-west-2
 99.77.152.0/24,IPv4,EC2,us-west-2
 35.96.7.0/24,IPv4,EC2,us-west-2
 155.146.128.0/20,IPv4,EC2,us-west-2

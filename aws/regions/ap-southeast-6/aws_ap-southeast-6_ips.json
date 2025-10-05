@@ -252,6 +252,12 @@
     "region": "ap-southeast-6"
   },
   {
+    "ip_address": "46.168.0.0/15",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "ap-southeast-6"
+  },
+  {
     "ip_address": "23.254.8.0/21",
     "ip_type": "IPv4",
     "service": "EC2",

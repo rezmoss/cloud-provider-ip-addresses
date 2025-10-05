@@ -2052,6 +2052,12 @@
     "region": "us-west-2"
   },
   {
+    "ip_address": "16.146.0.0/16",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-west-2"
+  },
+  {
     "ip_address": "99.77.152.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
