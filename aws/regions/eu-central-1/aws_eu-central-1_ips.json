@@ -132,12 +132,6 @@
     "region": "eu-central-1"
   },
   {
-    "ip_address": "35.96.48.0/24",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "eu-central-1"
-  },
-  {
     "ip_address": "15.230.15.126/31",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -2341,12 +2335,6 @@
   },
   {
     "ip_address": "3.5.136.0/22",
-    "ip_type": "IPv4",
-    "service": "EC2",
-    "region": "eu-central-1"
-  },
-  {
-    "ip_address": "35.96.48.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "eu-central-1"

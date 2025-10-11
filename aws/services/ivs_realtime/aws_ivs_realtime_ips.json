@@ -654,6 +654,12 @@
     "region": "us-west-2"
   },
   {
+    "ip_address": "2600:f0f0:e2e::/48",
+    "ip_type": "IPv6",
+    "service": "IVS_REALTIME",
+    "region": "ap-southeast-1"
+  },
+  {
     "ip_address": "2600:f0f0:110d::/48",
     "ip_type": "IPv6",
     "service": "IVS_REALTIME",
@@ -667,6 +673,12 @@
   },
   {
     "ip_address": "2600:f0f0:1118::/48",
+    "ip_type": "IPv6",
+    "service": "IVS_REALTIME",
+    "region": "sa-east-1"
+  },
+  {
+    "ip_address": "2600:f0f0:e16::/48",
     "ip_type": "IPv6",
     "service": "IVS_REALTIME",
     "region": "sa-east-1"
@@ -720,6 +732,12 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "2600:f0f0:e15::/48",
+    "ip_type": "IPv6",
+    "service": "IVS_REALTIME",
+    "region": "sa-east-1"
+  },
+  {
     "ip_address": "2600:f0f0:552c::/48",
     "ip_type": "IPv6",
     "service": "IVS_REALTIME",
@@ -760,6 +778,12 @@
     "ip_type": "IPv6",
     "service": "IVS_REALTIME",
     "region": "ap-south-1"
+  },
+  {
+    "ip_address": "2600:f0f0:e30::/48",
+    "ip_type": "IPv6",
+    "service": "IVS_REALTIME",
+    "region": "ap-southeast-1"
   },
   {
     "ip_address": "2600:f0f0:552f::/48",
@@ -954,6 +978,12 @@
     "region": "ap-southeast-2"
   },
   {
+    "ip_address": "2600:f0f0:e17::/48",
+    "ip_type": "IPv6",
+    "service": "IVS_REALTIME",
+    "region": "sa-east-1"
+  },
+  {
     "ip_address": "2600:f0f0:5400::/48",
     "ip_type": "IPv6",
     "service": "IVS_REALTIME",
@@ -1006,6 +1036,12 @@
     "ip_type": "IPv6",
     "service": "IVS_REALTIME",
     "region": "eu-north-1"
+  },
+  {
+    "ip_address": "2600:f0f0:e2f::/48",
+    "ip_type": "IPv6",
+    "service": "IVS_REALTIME",
+    "region": "ap-southeast-1"
   },
   {
     "ip_address": "2600:f0f0:5525::/48",
