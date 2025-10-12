@@ -1,4 +1,5 @@
 ip_address,ip_type,service,region
+34.3.2.0/27,IPv4,Google Cloud,global
 34.8.0.0/16,IPv4,Google Cloud,global
 34.13.72.0/21,IPv4,Google Cloud,global
 34.13.112.0/20,IPv4,Google Cloud,global
@@ -34,4 +35,5 @@ ip_address,ip_type,service,region
 130.211.8.0/21,IPv4,Google Cloud,global
 130.211.16.0/20,IPv4,Google Cloud,global
 130.211.32.0/20,IPv4,Google Cloud,global
+136.110.128.0/17,IPv4,Google Cloud,global
 2600:1901::/48,IPv6,Google Cloud,global

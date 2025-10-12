@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "34.3.2.0/27",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "global"
+  },
+  {
     "ip_address": "34.8.0.0/16",
     "ip_type": "IPv4",
     "service": "Google Cloud",
@@ -205,6 +211,12 @@
   },
   {
     "ip_address": "130.211.32.0/20",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "global"
+  },
+  {
+    "ip_address": "136.110.128.0/17",
     "ip_type": "IPv4",
     "service": "Google Cloud",
     "region": "global"
