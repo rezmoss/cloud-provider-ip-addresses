@@ -36,6 +36,12 @@
     "region": "eusc-de-east-1"
   },
   {
+    "ip_address": "51.72.0.0/15",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eusc-de-east-1"
+  },
+  {
     "ip_address": "51.166.0.0/15",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -61,6 +67,12 @@
   },
   {
     "ip_address": "51.224.0.0/15",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "51.74.0.0/16",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "eusc-de-east-1"

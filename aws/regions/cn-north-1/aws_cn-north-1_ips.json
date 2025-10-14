@@ -744,6 +744,18 @@
     "region": "cn-north-1"
   },
   {
+    "ip_address": "2400:7fc0:fd80::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "cn-north-1"
+  },
+  {
+    "ip_address": "2400:7fc0:fda0::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "cn-north-1"
+  },
+  {
     "ip_address": "2400:7fc0:2f00::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -882,7 +894,19 @@
     "region": "cn-north-1"
   },
   {
+    "ip_address": "2400:7fc0:fd40::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "cn-north-1"
+  },
+  {
     "ip_address": "2400:7fc0:2c00::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "cn-north-1"
+  },
+  {
+    "ip_address": "2400:7fc0:fdc0::/48",
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "cn-north-1"
@@ -895,12 +919,6 @@
   },
   {
     "ip_address": "240f:80fc:8000::/40",
-    "ip_type": "IPv6",
-    "service": "AMAZON",
-    "region": "cn-north-1"
-  },
-  {
-    "ip_address": "2400:7fc0:fd00::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "cn-north-1"
@@ -1026,6 +1044,18 @@
     "region": "cn-north-1"
   },
   {
+    "ip_address": "2400:7fc0:fd80::/48",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "cn-north-1"
+  },
+  {
+    "ip_address": "2400:7fc0:fda0::/48",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "cn-north-1"
+  },
+  {
     "ip_address": "2400:7fc0:2f00::/40",
     "ip_type": "IPv6",
     "service": "EC2",
@@ -1104,13 +1134,19 @@
     "region": "cn-north-1"
   },
   {
-    "ip_address": "2400:7fc0::/40",
+    "ip_address": "2400:7fc0:fd40::/48",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "cn-north-1"
   },
   {
-    "ip_address": "2400:7fc0:fd00::/40",
+    "ip_address": "2400:7fc0:fdc0::/48",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "cn-north-1"
+  },
+  {
+    "ip_address": "2400:7fc0::/40",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "cn-north-1"

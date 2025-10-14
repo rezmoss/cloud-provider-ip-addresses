@@ -192,6 +192,12 @@
     "region": "us-east-2"
   },
   {
+    "ip_address": "104.255.57.41/32",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-east-2"
+  },
+  {
     "ip_address": "64.252.74.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -1033,6 +1039,12 @@
   },
   {
     "ip_address": "99.77.162.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-east-2"
+  },
+  {
+    "ip_address": "104.255.57.0/32",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "us-east-2"

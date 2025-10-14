@@ -123,6 +123,8 @@ ip_address,ip_type,service,region
 43.196.24.8/30,IPv4,KINESIS_VIDEO_STREAMS,cn-north-1
 54.222.64.0/24,IPv4,DYNAMODB,cn-north-1
 54.222.57.0/24,IPv4,DYNAMODB,cn-north-1
+2400:7fc0:fd80::/48,IPv6,AMAZON,cn-north-1
+2400:7fc0:fda0::/48,IPv6,AMAZON,cn-north-1
 2400:7fc0:2f00::/40,IPv6,AMAZON,cn-north-1
 240f:80fa:8000::/40,IPv6,AMAZON,cn-north-1
 240f:80fe:8000::/40,IPv6,AMAZON,cn-north-1
@@ -146,10 +148,11 @@ ip_address,ip_type,service,region
 2400:7fc0:bb00::/40,IPv6,AMAZON,cn-north-1
 2400:7fc0:8000::/36,IPv6,AMAZON,cn-north-1
 2400:7fc0:ef00::/40,IPv6,AMAZON,cn-north-1
+2400:7fc0:fd40::/48,IPv6,AMAZON,cn-north-1
 2400:7fc0:2c00::/40,IPv6,AMAZON,cn-north-1
+2400:7fc0:fdc0::/48,IPv6,AMAZON,cn-north-1
 2400:7fc0::/40,IPv6,AMAZON,cn-north-1
 240f:80fc:8000::/40,IPv6,AMAZON,cn-north-1
-2400:7fc0:fd00::/40,IPv6,AMAZON,cn-north-1
 2400:7fc0:2200::/40,IPv6,AMAZON,cn-north-1
 240f:8018::/36,IPv6,AMAZON,cn-north-1
 2400:7fc0:4000:100::/56,IPv6,AMAZON,cn-north-1
@@ -170,6 +173,8 @@ ip_address,ip_type,service,region
 2400:7fc0:2400::/40,IPv6,S3,cn-north-1
 2400:7fc0:ef00::/40,IPv6,S3,cn-north-1
 2400:7fc0:2c00::/40,IPv6,S3,cn-north-1
+2400:7fc0:fd80::/48,IPv6,EC2,cn-north-1
+2400:7fc0:fda0::/48,IPv6,EC2,cn-north-1
 2400:7fc0:2f00::/40,IPv6,EC2,cn-north-1
 2400:7fc0:2100::/40,IPv6,EC2,cn-north-1
 2400:7fc0:4000::/40,IPv6,EC2,cn-north-1
@@ -183,8 +188,9 @@ ip_address,ip_type,service,region
 2400:7fc0:bb00::/40,IPv6,EC2,cn-north-1
 2400:7fc0:8000::/36,IPv6,EC2,cn-north-1
 2400:7fc0:ef00::/40,IPv6,EC2,cn-north-1
+2400:7fc0:fd40::/48,IPv6,EC2,cn-north-1
+2400:7fc0:fdc0::/48,IPv6,EC2,cn-north-1
 2400:7fc0::/40,IPv6,EC2,cn-north-1
-2400:7fc0:fd00::/40,IPv6,EC2,cn-north-1
 2400:7fc0:2200::/40,IPv6,EC2,cn-north-1
 240f:8018::/36,IPv6,EC2,cn-north-1
 2400:7fc0:86fd:e00::/56,IPv6,EC2_INSTANCE_CONNECT,cn-north-1
