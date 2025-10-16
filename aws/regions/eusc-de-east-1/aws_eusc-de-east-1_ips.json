@@ -72,12 +72,6 @@
     "region": "eusc-de-east-1"
   },
   {
-    "ip_address": "51.74.0.0/16",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "eusc-de-east-1"
-  },
-  {
     "ip_address": "51.0.252.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -127,6 +121,12 @@
   },
   {
     "ip_address": "51.0.24.0/22",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "51.74.0.0/20",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "eusc-de-east-1"
@@ -270,9 +270,21 @@
     "region": "eusc-de-east-1"
   },
   {
+    "ip_address": "51.74.0.0/20",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "eusc-de-east-1"
+  },
+  {
     "ip_address": "83.118.240.0/22",
     "ip_type": "IPv4",
     "service": "EC2",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "51.224.184.0/24",
+    "ip_type": "IPv4",
+    "service": "API_GATEWAY",
     "region": "eusc-de-east-1"
   },
   {

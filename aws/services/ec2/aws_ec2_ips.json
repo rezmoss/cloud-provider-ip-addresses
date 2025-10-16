@@ -5262,6 +5262,12 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "23.228.224.0/19",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "64.252.88.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -8452,6 +8458,12 @@
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "me-south-1"
+  },
+  {
+    "ip_address": "51.74.0.0/20",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "eusc-de-east-1"
   },
   {
     "ip_address": "54.178.0.0/16",
