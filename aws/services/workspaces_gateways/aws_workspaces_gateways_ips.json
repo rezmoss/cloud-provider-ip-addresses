@@ -576,6 +576,12 @@
     "region": "ap-southeast-2"
   },
   {
+    "ip_address": "2406:da20:8018::/48",
+    "ip_type": "IPv6",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "ap-southeast-5"
+  },
+  {
     "ip_address": "2600:1f21:8::/48",
     "ip_type": "IPv6",
     "service": "WORKSPACES_GATEWAYS",
@@ -586,6 +592,18 @@
     "ip_type": "IPv6",
     "service": "WORKSPACES_GATEWAYS",
     "region": "eu-central-1"
+  },
+  {
+    "ip_address": "2a05:d02a:4::/48",
+    "ip_type": "IPv6",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "eu-south-1"
+  },
+  {
+    "ip_address": "2a05:d021:c::/48",
+    "ip_type": "IPv6",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "eu-south-2"
   },
   {
     "ip_address": "2a05:d028:40::/48",
@@ -610,6 +628,12 @@
     "ip_type": "IPv6",
     "service": "WORKSPACES_GATEWAYS",
     "region": "il-central-1"
+  },
+  {
+    "ip_address": "2406:da27:4::/48",
+    "ip_type": "IPv6",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "me-central-1"
   },
   {
     "ip_address": "2600:1f2e:14::/48",

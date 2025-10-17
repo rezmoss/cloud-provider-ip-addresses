@@ -756,6 +756,12 @@
     "region": "me-central-1"
   },
   {
+    "ip_address": "2406:da27:4::/48",
+    "ip_type": "IPv6",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "me-central-1"
+  },
+  {
     "ip_address": "2406:da36:7000::/40",
     "ip_type": "IPv6",
     "service": "EC2",

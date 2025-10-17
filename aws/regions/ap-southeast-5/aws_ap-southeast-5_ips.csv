@@ -99,6 +99,7 @@ ip_address,ip_type,service,region
 2406:da60:800::/40,IPv6,S3,ap-southeast-5
 2406:daa0:800::/40,IPv6,S3,ap-southeast-5
 2406:daf4:800::/40,IPv6,S3,ap-southeast-5
+2406:da20:8018::/48,IPv6,WORKSPACES_GATEWAYS,ap-southeast-5
 2406:dabb:800::/40,IPv6,EC2,ap-southeast-5
 2600:f0f0:611b::/48,IPv6,EC2,ap-southeast-5
 2406:daef:800::/40,IPv6,EC2,ap-southeast-5

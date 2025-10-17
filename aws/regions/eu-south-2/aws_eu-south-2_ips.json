@@ -144,6 +144,12 @@
     "region": "eu-south-2"
   },
   {
+    "ip_address": "3.5.126.0/23",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-south-2"
+  },
+  {
     "ip_address": "16.15.12.0/22",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -271,6 +277,12 @@
   },
   {
     "ip_address": "3.5.32.0/22",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "eu-south-2"
+  },
+  {
+    "ip_address": "3.5.126.0/23",
     "ip_type": "IPv4",
     "service": "S3",
     "region": "eu-south-2"
@@ -559,6 +571,12 @@
   },
   {
     "ip_address": "35.96.37.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "eu-south-2"
+  },
+  {
+    "ip_address": "3.5.126.0/23",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "eu-south-2"
@@ -969,6 +987,12 @@
     "ip_address": "2a05:d059:1000::/40",
     "ip_type": "IPv6",
     "service": "S3",
+    "region": "eu-south-2"
+  },
+  {
+    "ip_address": "2a05:d021:c::/48",
+    "ip_type": "IPv6",
+    "service": "WORKSPACES_GATEWAYS",
     "region": "eu-south-2"
   },
   {

@@ -132,6 +132,7 @@ INSERT INTO `aws_me-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2406:daf0:
 INSERT INTO `aws_me-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f0:5530::/48', 'IPv6');
 INSERT INTO `aws_me-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f0:5531::/48', 'IPv6');
 INSERT INTO `aws_me-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f0:5532::/48', 'IPv6');
+INSERT INTO `aws_me-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2406:da27:4::/48', 'IPv6');
 INSERT INTO `aws_me-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2406:da36:7000::/40', 'IPv6');
 INSERT INTO `aws_me-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2406:da61:7000::/40', 'IPv6');
 INSERT INTO `aws_me-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2406:da32:7000::/40', 'IPv6');

@@ -217,6 +217,7 @@ ip_address,ip_type,service,region
 150.222.54.192/27,IPv4,AMAZON,ap-southeast-6
 150.222.96.0/24,IPv4,AMAZON,eu-west-1
 150.247.33.0/24,IPv4,AMAZON,us-east-1
+3.5.92.0/23,IPv4,AMAZON,us-east-2
 5.60.0.0/20,IPv4,AMAZON,ap-east-2
 13.248.124.0/24,IPv4,AMAZON,us-east-1
 15.193.2.0/24,IPv4,AMAZON,ap-southeast-1
@@ -615,6 +616,7 @@ ip_address,ip_type,service,region
 15.190.128.0/20,IPv4,AMAZON,ap-southeast-6
 15.230.178.0/24,IPv4,AMAZON,ap-southeast-3
 15.230.192.0/24,IPv4,AMAZON,us-east-1
+35.96.18.0/23,IPv4,AMAZON,us-west-2
 40.239.0.0/16,IPv4,AMAZON,ap-southeast-2
 51.200.0.0/15,IPv4,AMAZON,eu-west-2
 52.93.127.121/32,IPv4,AMAZON,eu-south-1
@@ -682,6 +684,7 @@ ip_address,ip_type,service,region
 205.251.200.0/23,IPv4,AMAZON,GLOBAL
 1.178.7.0/24,IPv4,AMAZON,eu-west-1
 3.4.12.19/32,IPv4,AMAZON,ap-south-1
+3.5.88.0/22,IPv4,AMAZON,us-east-2
 3.5.208.0/22,IPv4,AMAZON,ap-south-1
 15.177.76.0/24,IPv4,AMAZON,ap-northeast-2
 15.177.105.0/24,IPv4,AMAZON,ap-southeast-6
@@ -1296,7 +1299,6 @@ ip_address,ip_type,service,region
 150.222.69.0/24,IPv4,AMAZON,sa-east-1
 150.222.234.84/31,IPv4,AMAZON,us-west-1
 150.222.252.246/31,IPv4,AMAZON,us-west-1
-184.32.0.0/12,IPv4,AMAZON,us-west-2
 3.2.49.0/24,IPv4,AMAZON,sa-east-1
 3.2.94.0/24,IPv4,AMAZON,mx-central-1
 3.5.228.0/22,IPv4,AMAZON,af-south-1
@@ -2181,6 +2183,7 @@ ip_address,ip_type,service,region
 52.95.243.0/24,IPv4,AMAZON,ap-northeast-1
 108.166.244.41/32,IPv4,AMAZON,us-east-2
 108.166.244.52/32,IPv4,AMAZON,us-east-2
+184.36.0.0/14,IPv4,AMAZON,us-west-2
 3.5.132.0/23,IPv4,AMAZON,us-east-2
 3.166.0.0/15,IPv4,AMAZON,GLOBAL
 13.53.0.0/16,IPv4,AMAZON,eu-north-1
@@ -3033,6 +3036,7 @@ ip_address,ip_type,service,region
 182.28.0.0/16,IPv4,AMAZON,us-gov-east-1
 198.41.105.0/24,IPv4,AMAZON,us-west-2
 204.246.160.0/22,IPv4,AMAZON,us-west-1
+3.5.74.0/23,IPv4,AMAZON,eu-west-1
 15.193.4.0/24,IPv4,AMAZON,eu-central-1
 15.230.16.0/24,IPv4,AMAZON,us-west-1
 15.230.71.0/26,IPv4,AMAZON,eu-west-3
@@ -3597,6 +3601,7 @@ ip_address,ip_type,service,region
 98.130.0.0/16,IPv4,AMAZON,ap-south-2
 99.82.162.0/24,IPv4,AMAZON,eu-west-1
 150.222.70.0/24,IPv4,AMAZON,sa-east-1
+184.32.0.0/14,IPv4,AMAZON,us-west-2
 15.190.160.0/20,IPv4,AMAZON,sa-west-1
 15.230.60.0/24,IPv4,AMAZON,ap-northeast-2
 16.12.14.0/24,IPv4,AMAZON,il-central-1
@@ -3812,6 +3817,7 @@ ip_address,ip_type,service,region
 54.240.236.21/32,IPv4,AMAZON,eu-south-1
 99.77.232.0/24,IPv4,AMAZON,us-west-2
 161.193.0.0/18,IPv4,AMAZON,us-east-1
+184.40.0.0/13,IPv4,AMAZON,us-west-2
 198.41.101.0/24,IPv4,AMAZON,us-east-1
 198.99.2.0/24,IPv4,AMAZON,us-east-2
 52.93.121.198/32,IPv4,AMAZON,ap-northeast-1
@@ -4077,6 +4083,7 @@ ip_address,ip_type,service,region
 198.41.100.0/24,IPv4,AMAZON,us-east-1
 216.244.4.0/24,IPv4,AMAZON,ap-northeast-2
 3.4.12.18/32,IPv4,AMAZON,ap-southeast-2
+3.5.126.0/23,IPv4,AMAZON,eu-south-2
 3.44.192.0/18,IPv4,AMAZON,sa-east-1
 15.230.15.158/31,IPv4,AMAZON,eu-central-1
 15.230.73.0/26,IPv4,AMAZON,sa-east-1
@@ -5437,6 +5444,7 @@ ip_address,ip_type,service,region
 52.219.212.0/22,IPv4,S3,us-east-2
 76.223.96.0/24,IPv4,S3,GLOBAL
 108.175.56.0/22,IPv4,S3,us-gov-west-1
+3.5.92.0/23,IPv4,S3,us-east-2
 52.219.192.0/23,IPv4,S3,us-west-1
 16.12.24.0/21,IPv4,S3,eu-central-1
 52.95.136.0/23,IPv4,S3,eu-south-2
@@ -5461,6 +5469,7 @@ ip_address,ip_type,service,region
 52.95.168.0/24,IPv4,S3,ap-southeast-4
 52.219.16.0/22,IPv4,S3,ap-northeast-1
 16.12.74.0/24,IPv4,S3,ap-southeast-2
+3.5.88.0/22,IPv4,S3,us-east-2
 3.5.208.0/22,IPv4,S3,ap-south-1
 16.12.96.0/21,IPv4,S3,us-west-2
 18.34.0.0/19,IPv4,S3,us-east-1
@@ -5581,6 +5590,7 @@ ip_address,ip_type,service,region
 76.223.100.0/24,IPv4,S3,GLOBAL
 52.95.142.0/23,IPv4,S3,eu-west-2
 52.219.194.0/24,IPv4,S3,us-west-1
+3.5.74.0/23,IPv4,S3,eu-west-1
 3.5.212.0/23,IPv4,S3,ap-south-1
 3.5.220.0/22,IPv4,S3,me-south-1
 52.95.191.0/24,IPv4,S3,eu-west-2
@@ -5636,6 +5646,7 @@ ip_address,ip_type,service,region
 52.95.170.0/23,IPv4,S3,eu-north-1
 52.219.228.0/22,IPv4,S3,us-east-2
 16.12.4.0/23,IPv4,S3,ca-central-1
+3.5.126.0/23,IPv4,S3,eu-south-2
 52.95.145.0/24,IPv4,S3,ca-central-1
 16.182.0.0/16,IPv4,S3,us-east-1
 16.15.12.0/22,IPv4,S3,eu-south-2
@@ -5999,6 +6010,7 @@ ip_address,ip_type,service,region
 66.7.0.0/21,IPv4,EC2,us-west-2
 99.150.56.0/21,IPv4,EC2,us-west-2
 108.175.56.0/22,IPv4,EC2,us-gov-west-1
+3.5.92.0/23,IPv4,EC2,us-east-2
 5.60.0.0/20,IPv4,EC2,ap-east-2
 15.193.2.0/24,IPv4,EC2,ap-southeast-1
 15.220.222.0/23,IPv4,EC2,us-east-1
@@ -6124,6 +6136,7 @@ ip_address,ip_type,service,region
 35.71.118.0/24,IPv4,EC2,ap-southeast-1
 35.96.26.0/23,IPv4,EC2,us-east-2
 64.252.72.0/24,IPv4,EC2,us-west-2
+35.96.18.0/23,IPv4,EC2,us-west-2
 99.77.148.0/24,IPv4,EC2,af-south-1
 139.56.32.0/23,IPv4,EC2,us-west-2
 13.192.0.0/16,IPv4,EC2,ap-northeast-1
@@ -6146,6 +6159,7 @@ ip_address,ip_type,service,region
 56.10.0.0/16,IPv4,EC2,ap-southeast-1
 204.236.128.0/18,IPv4,EC2,us-west-1
 1.178.7.0/24,IPv4,EC2,eu-west-1
+3.5.88.0/22,IPv4,EC2,us-east-2
 3.5.208.0/22,IPv4,EC2,ap-south-1
 15.177.76.0/24,IPv4,EC2,ap-northeast-2
 15.177.105.0/24,IPv4,EC2,ap-southeast-6
@@ -6936,6 +6950,7 @@ ip_address,ip_type,service,region
 54.78.0.0/16,IPv4,EC2,eu-west-1
 99.77.139.0/24,IPv4,EC2,ap-northeast-1
 198.41.105.0/24,IPv4,EC2,us-west-2
+3.5.74.0/23,IPv4,EC2,eu-west-1
 15.193.4.0/24,IPv4,EC2,eu-central-1
 35.71.116.0/24,IPv4,EC2,us-gov-west-1
 51.118.0.0/16,IPv4,EC2,eu-south-1
@@ -7118,6 +7133,7 @@ ip_address,ip_type,service,region
 52.62.0.0/15,IPv4,EC2,ap-southeast-2
 52.94.249.224/28,IPv4,EC2,me-central-1
 98.130.0.0/16,IPv4,EC2,ap-south-2
+184.32.0.0/14,IPv4,EC2,us-west-2
 16.50.0.0/15,IPv4,EC2,ap-southeast-4
 18.98.192.0/19,IPv4,EC2,ap-southeast-2
 35.71.125.0/24,IPv4,EC2,mx-central-1
@@ -7263,6 +7279,7 @@ ip_address,ip_type,service,region
 96.0.120.0/21,IPv4,EC2,ap-southeast-1
 198.41.100.0/24,IPv4,EC2,us-east-1
 216.244.4.0/24,IPv4,EC2,ap-northeast-2
+3.5.126.0/23,IPv4,EC2,eu-south-2
 3.44.192.0/18,IPv4,EC2,sa-east-1
 16.145.0.0/16,IPv4,EC2,us-west-2
 18.162.0.0/16,IPv4,EC2,ap-east-1
@@ -11948,12 +11965,16 @@ ip_address,ip_type,service,region
 2406:da2a:14::/48,IPv6,WORKSPACES_GATEWAYS,ap-south-1
 2406:da28:28::/48,IPv6,WORKSPACES_GATEWAYS,ap-southeast-1
 2406:da2c:24::/48,IPv6,WORKSPACES_GATEWAYS,ap-southeast-2
+2406:da20:8018::/48,IPv6,WORKSPACES_GATEWAYS,ap-southeast-5
 2600:1f21:8::/48,IPv6,WORKSPACES_GATEWAYS,ca-central-1
 2a05:d024:18::/48,IPv6,WORKSPACES_GATEWAYS,eu-central-1
+2a05:d02a:4::/48,IPv6,WORKSPACES_GATEWAYS,eu-south-1
+2a05:d021:c::/48,IPv6,WORKSPACES_GATEWAYS,eu-south-2
 2a05:d028:40::/48,IPv6,WORKSPACES_GATEWAYS,eu-west-1
 2a05:d02c:8::/48,IPv6,WORKSPACES_GATEWAYS,eu-west-2
 2a05:d022:1c::/48,IPv6,WORKSPACES_GATEWAYS,eu-west-3
 2a05:d025:1000::/48,IPv6,WORKSPACES_GATEWAYS,il-central-1
+2406:da27:4::/48,IPv6,WORKSPACES_GATEWAYS,me-central-1
 2600:1f2e:14::/48,IPv6,WORKSPACES_GATEWAYS,sa-east-1
 2600:1f28:34c::/48,IPv6,WORKSPACES_GATEWAYS,us-east-1
 2600:1f26:28::/48,IPv6,WORKSPACES_GATEWAYS,us-east-2

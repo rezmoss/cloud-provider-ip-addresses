@@ -23,6 +23,7 @@ ip_address,ip_type,service,region
 51.93.0.0/16,IPv4,AMAZON,eu-south-2
 3.5.32.0/22,IPv4,AMAZON,eu-south-2
 35.96.37.0/24,IPv4,AMAZON,eu-south-2
+3.5.126.0/23,IPv4,AMAZON,eu-south-2
 16.15.12.0/22,IPv4,AMAZON,eu-south-2
 3.2.83.0/24,IPv4,AMAZON,eu-south-2
 35.44.0.0/15,IPv4,AMAZON,eu-south-2
@@ -45,6 +46,7 @@ ip_address,ip_type,service,region
 52.95.136.0/23,IPv4,S3,eu-south-2
 52.95.138.0/24,IPv4,S3,eu-south-2
 3.5.32.0/22,IPv4,S3,eu-south-2
+3.5.126.0/23,IPv4,S3,eu-south-2
 16.15.12.0/22,IPv4,S3,eu-south-2
 18.100.209.224/28,IPv4,S3,eu-south-2
 18.100.209.240/28,IPv4,S3,eu-south-2
@@ -93,6 +95,7 @@ ip_address,ip_type,service,region
 3.5.32.0/22,IPv4,EC2,eu-south-2
 99.77.55.35/32,IPv4,EC2,eu-south-2
 35.96.37.0/24,IPv4,EC2,eu-south-2
+3.5.126.0/23,IPv4,EC2,eu-south-2
 16.15.12.0/22,IPv4,EC2,eu-south-2
 99.77.55.56/32,IPv4,EC2,eu-south-2
 99.77.55.15/32,IPv4,EC2,eu-south-2
@@ -161,6 +164,7 @@ ip_address,ip_type,service,region
 2a05:d074:1000::/40,IPv6,S3,eu-south-2
 2a05:d050:1000::/40,IPv6,S3,eu-south-2
 2a05:d059:1000::/40,IPv6,S3,eu-south-2
+2a05:d021:c::/48,IPv6,WORKSPACES_GATEWAYS,eu-south-2
 2606:f40:e100::/40,IPv6,EC2,eu-south-2
 2606:f40:6100::/40,IPv6,EC2,eu-south-2
 2a05:d030:1000::/40,IPv6,EC2,eu-south-2
