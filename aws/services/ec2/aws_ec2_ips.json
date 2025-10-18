@@ -702,12 +702,6 @@
     "region": "ap-northeast-3"
   },
   {
-    "ip_address": "35.96.48.0/24",
-    "ip_type": "IPv4",
-    "service": "EC2",
-    "region": "eu-central-1"
-  },
-  {
     "ip_address": "99.77.159.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -1159,12 +1153,6 @@
   },
   {
     "ip_address": "64.252.72.0/24",
-    "ip_type": "IPv4",
-    "service": "EC2",
-    "region": "us-west-2"
-  },
-  {
-    "ip_address": "35.96.18.0/23",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "us-west-2"
@@ -4416,12 +4404,6 @@
     "region": "ap-northeast-1"
   },
   {
-    "ip_address": "35.96.50.0/24",
-    "ip_type": "IPv4",
-    "service": "EC2",
-    "region": "eu-central-1"
-  },
-  {
     "ip_address": "75.2.128.0/18",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -4738,12 +4720,6 @@
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "ap-southeast-1"
-  },
-  {
-    "ip_address": "35.96.49.0/24",
-    "ip_type": "IPv4",
-    "service": "EC2",
-    "region": "eu-central-1"
   },
   {
     "ip_address": "110.238.2.0/23",
@@ -5826,6 +5802,12 @@
     "region": "ap-northeast-2"
   },
   {
+    "ip_address": "1.178.192.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "eu-west-1"
+  },
+  {
     "ip_address": "3.2.2.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -6196,12 +6178,6 @@
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "us-east-1"
-  },
-  {
-    "ip_address": "35.96.51.0/24",
-    "ip_type": "IPv4",
-    "service": "EC2",
-    "region": "eu-central-1"
   },
   {
     "ip_address": "51.0.136.0/23",
@@ -7552,6 +7528,12 @@
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "us-west-2"
+  },
+  {
+    "ip_address": "35.96.48.0/22",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "eu-central-1"
   },
   {
     "ip_address": "52.94.249.112/28",
@@ -15124,6 +15106,12 @@
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "us-west-2"
+  },
+  {
+    "ip_address": "2631:1:4800::/48",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "af-south-1"
   },
   {
     "ip_address": "2a05:d07d:a000::/40",
