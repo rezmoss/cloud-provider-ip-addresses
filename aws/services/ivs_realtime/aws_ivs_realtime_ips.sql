@@ -22,11 +22,13 @@ INSERT INTO `aws_ivs_realtime_ips` (`ip_address`, `ip_type`) VALUES ('35.55.2.0/
 INSERT INTO `aws_ivs_realtime_ips` (`ip_address`, `ip_type`) VALUES ('35.50.239.0/24', 'IPv4');
 INSERT INTO `aws_ivs_realtime_ips` (`ip_address`, `ip_type`) VALUES ('35.55.15.0/24', 'IPv4');
 INSERT INTO `aws_ivs_realtime_ips` (`ip_address`, `ip_type`) VALUES ('35.50.133.0/24', 'IPv4');
+INSERT INTO `aws_ivs_realtime_ips` (`ip_address`, `ip_type`) VALUES ('35.50.139.0/24', 'IPv4');
 INSERT INTO `aws_ivs_realtime_ips` (`ip_address`, `ip_type`) VALUES ('35.55.30.0/24', 'IPv4');
 INSERT INTO `aws_ivs_realtime_ips` (`ip_address`, `ip_type`) VALUES ('35.50.227.0/24', 'IPv4');
 INSERT INTO `aws_ivs_realtime_ips` (`ip_address`, `ip_type`) VALUES ('35.50.233.0/24', 'IPv4');
 INSERT INTO `aws_ivs_realtime_ips` (`ip_address`, `ip_type`) VALUES ('35.50.132.0/24', 'IPv4');
 INSERT INTO `aws_ivs_realtime_ips` (`ip_address`, `ip_type`) VALUES ('35.55.14.0/24', 'IPv4');
+INSERT INTO `aws_ivs_realtime_ips` (`ip_address`, `ip_type`) VALUES ('35.50.137.0/24', 'IPv4');
 INSERT INTO `aws_ivs_realtime_ips` (`ip_address`, `ip_type`) VALUES ('35.50.236.0/24', 'IPv4');
 INSERT INTO `aws_ivs_realtime_ips` (`ip_address`, `ip_type`) VALUES ('35.50.208.0/24', 'IPv4');
 INSERT INTO `aws_ivs_realtime_ips` (`ip_address`, `ip_type`) VALUES ('35.55.6.0/24', 'IPv4');
@@ -40,6 +42,7 @@ INSERT INTO `aws_ivs_realtime_ips` (`ip_address`, `ip_type`) VALUES ('35.55.13.0
 INSERT INTO `aws_ivs_realtime_ips` (`ip_address`, `ip_type`) VALUES ('35.50.231.0/24', 'IPv4');
 INSERT INTO `aws_ivs_realtime_ips` (`ip_address`, `ip_type`) VALUES ('35.50.134.0/24', 'IPv4');
 INSERT INTO `aws_ivs_realtime_ips` (`ip_address`, `ip_type`) VALUES ('35.50.176.0/24', 'IPv4');
+INSERT INTO `aws_ivs_realtime_ips` (`ip_address`, `ip_type`) VALUES ('35.50.141.0/24', 'IPv4');
 INSERT INTO `aws_ivs_realtime_ips` (`ip_address`, `ip_type`) VALUES ('185.42.204.0/22', 'IPv4');
 INSERT INTO `aws_ivs_realtime_ips` (`ip_address`, `ip_type`) VALUES ('35.55.12.0/24', 'IPv4');
 INSERT INTO `aws_ivs_realtime_ips` (`ip_address`, `ip_type`) VALUES ('35.55.34.0/24', 'IPv4');
