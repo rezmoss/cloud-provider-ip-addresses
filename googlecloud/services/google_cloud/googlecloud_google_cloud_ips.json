@@ -2328,6 +2328,12 @@
     "region": "europe-west4"
   },
   {
+    "ip_address": "34.4.80.0/20",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "europe-west4"
+  },
+  {
     "ip_address": "34.6.0.0/15",
     "ip_type": "IPv4",
     "service": "Google Cloud",

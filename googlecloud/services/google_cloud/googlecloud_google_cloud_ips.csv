@@ -387,6 +387,7 @@ ip_address,ip_type,service,region
 2600:1900:40d0::/44,IPv6,Google Cloud,europe-west3
 34.1.224.0/19,IPv4,Google Cloud,europe-west4
 34.3.80.0/20,IPv4,Google Cloud,europe-west4
+34.4.80.0/20,IPv4,Google Cloud,europe-west4
 34.6.0.0/15,IPv4,Google Cloud,europe-west4
 34.12.0.0/16,IPv4,Google Cloud,europe-west4
 34.13.128.0/17,IPv4,Google Cloud,europe-west4
