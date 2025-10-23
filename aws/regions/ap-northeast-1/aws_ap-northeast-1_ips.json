@@ -2436,12 +2436,6 @@
     "region": "ap-northeast-1"
   },
   {
-    "ip_address": "2406:dafd:4000::/40",
-    "ip_type": "IPv6",
-    "service": "AMAZON",
-    "region": "ap-northeast-1"
-  },
-  {
     "ip_address": "2600:f00f::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -2941,12 +2935,6 @@
   },
   {
     "ip_address": "2406:da38:4000::/40",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "ap-northeast-1"
-  },
-  {
-    "ip_address": "2406:dafd:4000::/40",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "ap-northeast-1"
