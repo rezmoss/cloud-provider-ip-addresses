@@ -389,6 +389,7 @@ ip_address,ip_type,service,region
 3.2.68.0/24,IPv4,EC2,us-west-2
 15.220.0.0/20,IPv4,EC2,us-west-2
 23.254.24.0/23,IPv4,EC2,us-west-2
+184.36.0.0/14,IPv4,EC2,us-west-2
 15.220.16.0/20,IPv4,EC2,us-west-2
 43.226.24.0/23,IPv4,EC2,us-west-2
 54.214.0.0/16,IPv4,EC2,us-west-2
@@ -761,6 +762,7 @@ ip_address,ip_type,service,region
 2606:7b40:1a2f:c200::/60,IPv6,AMAZON,us-west-2
 2606:7b40:1b0f:f200::/56,IPv6,AMAZON,us-west-2
 2620:107:4000:9900:50:83::/96,IPv6,AMAZON,us-west-2
+2631:1:4fc0::/48,IPv6,AMAZON,us-west-2
 2600:1f12:8000::/36,IPv6,AMAZON,us-west-2
 2606:7b40:10ff:f270::/60,IPv6,AMAZON,us-west-2
 2606:f40:fffd::/48,IPv6,AMAZON,us-west-2
@@ -1001,6 +1003,7 @@ ip_address,ip_type,service,region
 2606:7b40:1000:7280::/60,IPv6,EC2,us-west-2
 2606:7b40:1a2f:c200::/60,IPv6,EC2,us-west-2
 2606:7b40:1b0f:f200::/56,IPv6,EC2,us-west-2
+2631:1:4fc0::/48,IPv6,EC2,us-west-2
 2600:1f12:8000::/36,IPv6,EC2,us-west-2
 2606:7b40:10ff:f270::/60,IPv6,EC2,us-west-2
 2606:f40:fffd::/48,IPv6,EC2,us-west-2

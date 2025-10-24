@@ -2358,6 +2358,12 @@
     "region": "us-east-2"
   },
   {
+    "ip_address": "3.151.45.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-east-2"
+  },
+  {
     "ip_address": "3.17.136.0/23",
     "ip_type": "IPv4",
     "service": "AMAZON",
