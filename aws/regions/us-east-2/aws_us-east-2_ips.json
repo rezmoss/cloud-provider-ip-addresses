@@ -3654,6 +3654,12 @@
     "region": "us-east-2"
   },
   {
+    "ip_address": "2631:1:4f40::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-east-2"
+  },
+  {
     "ip_address": "2600:1f16:8000::/36",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -4081,6 +4087,12 @@
   },
   {
     "ip_address": "2600:f001::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-east-2"
+  },
+  {
+    "ip_address": "2631:1:4f40::/48",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "us-east-2"

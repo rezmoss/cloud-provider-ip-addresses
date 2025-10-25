@@ -420,6 +420,12 @@
     "region": "ca-west-1"
   },
   {
+    "ip_address": "2631:1:4e40::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ca-west-1"
+  },
+  {
     "ip_address": "2600:1f36:a400::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -601,6 +607,12 @@
   },
   {
     "ip_address": "2600:1ff2:a400::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ca-west-1"
+  },
+  {
+    "ip_address": "2631:1:4e40::/48",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "ca-west-1"
