@@ -116,6 +116,7 @@ ip_address,ip_type,service,region
 3.5.144.0/23,IPv4,S3,ap-northeast-2
 52.219.56.0/22,IPv4,S3,ap-northeast-2
 52.219.144.0/22,IPv4,S3,ap-northeast-2
+1.178.91.0/24,IPv4,S3,ap-northeast-2
 3.36.167.64/28,IPv4,S3,ap-northeast-2
 3.36.167.80/28,IPv4,S3,ap-northeast-2
 35.50.238.0/24,IPv4,IVS_REALTIME,ap-northeast-2
@@ -290,6 +291,7 @@ ip_address,ip_type,service,region
 2406:daf9:2000::/40,IPv6,S3,ap-northeast-2
 2406:daf4:2000::/40,IPv6,S3,ap-northeast-2
 2406:daf8:2000::/40,IPv6,S3,ap-northeast-2
+2600:f0f2:701d::/48,IPv6,S3,ap-northeast-2
 2600:f0f0:1105::/48,IPv6,IVS_REALTIME,ap-northeast-2
 2600:f0f0:5401::/48,IPv6,IVS_REALTIME,ap-northeast-2
 2600:f0f0:1104::/48,IPv6,IVS_REALTIME,ap-northeast-2

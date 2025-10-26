@@ -246,6 +246,7 @@ INSERT INTO `googlecloud_ips` (`ip_address`, `ip_type`) VALUES ('34.116.128.0/17
 INSERT INTO `googlecloud_ips` (`ip_address`, `ip_type`) VALUES ('34.118.0.0/17', 'IPv4');
 INSERT INTO `googlecloud_ips` (`ip_address`, `ip_type`) VALUES ('34.124.52.0/22', 'IPv4');
 INSERT INTO `googlecloud_ips` (`ip_address`, `ip_type`) VALUES ('34.128.208.0/20', 'IPv4');
+INSERT INTO `googlecloud_ips` (`ip_address`, `ip_type`) VALUES ('34.158.224.0/20', 'IPv4');
 INSERT INTO `googlecloud_ips` (`ip_address`, `ip_type`) VALUES ('2600:1900:4140::/44', 'IPv6');
 INSERT INTO `googlecloud_ips` (`ip_address`, `ip_type`) VALUES ('34.88.0.0/16', 'IPv4');
 INSERT INTO `googlecloud_ips` (`ip_address`, `ip_type`) VALUES ('34.104.96.0/21', 'IPv4');
@@ -428,6 +429,7 @@ INSERT INTO `googlecloud_ips` (`ip_address`, `ip_type`) VALUES ('2600:1900:4060:
 INSERT INTO `googlecloud_ips` (`ip_address`, `ip_type`) VALUES ('34.65.0.0/16', 'IPv4');
 INSERT INTO `googlecloud_ips` (`ip_address`, `ip_type`) VALUES ('34.104.110.0/23', 'IPv4');
 INSERT INTO `googlecloud_ips` (`ip_address`, `ip_type`) VALUES ('34.124.46.0/23', 'IPv4');
+INSERT INTO `googlecloud_ips` (`ip_address`, `ip_type`) VALUES ('34.158.16.0/20', 'IPv4');
 INSERT INTO `googlecloud_ips` (`ip_address`, `ip_type`) VALUES ('35.216.128.0/17', 'IPv4');
 INSERT INTO `googlecloud_ips` (`ip_address`, `ip_type`) VALUES ('35.220.44.0/24', 'IPv4');
 INSERT INTO `googlecloud_ips` (`ip_address`, `ip_type`) VALUES ('35.235.216.0/21', 'IPv4');
@@ -667,6 +669,7 @@ INSERT INTO `googlecloud_ips` (`ip_address`, `ip_type`) VALUES ('199.192.115.0/2
 INSERT INTO `googlecloud_ips` (`ip_address`, `ip_type`) VALUES ('199.223.232.0/22', 'IPv4');
 INSERT INTO `googlecloud_ips` (`ip_address`, `ip_type`) VALUES ('199.223.236.0/24', 'IPv4');
 INSERT INTO `googlecloud_ips` (`ip_address`, `ip_type`) VALUES ('2600:1900:4000::/44', 'IPv6');
+INSERT INTO `googlecloud_ips` (`ip_address`, `ip_type`) VALUES ('2600:1902::/44', 'IPv6');
 INSERT INTO `googlecloud_ips` (`ip_address`, `ip_type`) VALUES ('34.22.0.0/19', 'IPv4');
 INSERT INTO `googlecloud_ips` (`ip_address`, `ip_type`) VALUES ('35.186.0.0/17', 'IPv4');
 INSERT INTO `googlecloud_ips` (`ip_address`, `ip_type`) VALUES ('35.186.128.0/20', 'IPv4');

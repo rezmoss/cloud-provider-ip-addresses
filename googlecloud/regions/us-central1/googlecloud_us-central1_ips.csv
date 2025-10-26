@@ -93,3 +93,4 @@ ip_address,ip_type,service,region
 199.223.232.0/22,IPv4,Google Cloud,us-central1
 199.223.236.0/24,IPv4,Google Cloud,us-central1
 2600:1900:4000::/44,IPv6,Google Cloud,us-central1
+2600:1902::/44,IPv6,Google Cloud,us-central1
