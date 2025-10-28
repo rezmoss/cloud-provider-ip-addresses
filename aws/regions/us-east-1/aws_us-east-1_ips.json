@@ -1902,6 +1902,12 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "150.247.43.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "52.94.132.0/22",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -7837,6 +7843,12 @@
   },
   {
     "ip_address": "2620:107:4000:9013::/64",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "2600:1f01:4900:300::/56",
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "us-east-1"

@@ -11406,12 +11406,6 @@
     "region": "eu-north-1"
   },
   {
-    "ip_address": "2631:1:4fc1::/48",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "us-west-2"
-  },
-  {
     "ip_address": "2606:7b40:1b0f:f400::/56",
     "ip_type": "IPv6",
     "service": "EC2",
@@ -16315,12 +16309,6 @@
   },
   {
     "ip_address": "2600:f0fb:e400::/40",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "us-west-2"
-  },
-  {
-    "ip_address": "2631:1:4fc2::/48",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "us-west-2"

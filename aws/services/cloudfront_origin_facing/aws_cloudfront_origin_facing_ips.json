@@ -168,7 +168,7 @@
     "region": "GLOBAL"
   },
   {
-    "ip_address": "52.46.32.0/19",
+    "ip_address": "52.46.0.0/18",
     "ip_type": "IPv4",
     "service": "CLOUDFRONT_ORIGIN_FACING",
     "region": "GLOBAL"
@@ -217,12 +217,6 @@
   },
   {
     "ip_address": "130.176.76.0/24",
-    "ip_type": "IPv4",
-    "service": "CLOUDFRONT_ORIGIN_FACING",
-    "region": "GLOBAL"
-  },
-  {
-    "ip_address": "52.46.16.0/20",
     "ip_type": "IPv4",
     "service": "CLOUDFRONT_ORIGIN_FACING",
     "region": "GLOBAL"
