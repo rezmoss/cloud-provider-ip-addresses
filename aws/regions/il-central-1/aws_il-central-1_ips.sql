@@ -87,6 +87,7 @@ INSERT INTO `aws_il-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d076:
 INSERT INTO `aws_il-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d07f:5000::/40', 'IPv6');
 INSERT INTO `aws_il-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d079:5000::/40', 'IPv6');
 INSERT INTO `aws_il-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d078:5000::/40', 'IPv6');
+INSERT INTO `aws_il-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d06a:5000::/40', 'IPv6');
 INSERT INTO `aws_il-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f0:611f::/48', 'IPv6');
 INSERT INTO `aws_il-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d03a:5000::/40', 'IPv6');
 INSERT INTO `aws_il-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d025:1000::/36', 'IPv6');
@@ -124,6 +125,7 @@ INSERT INTO `aws_il-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d030:
 INSERT INTO `aws_il-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d032:5000::/40', 'IPv6');
 INSERT INTO `aws_il-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d076:5000::/40', 'IPv6');
 INSERT INTO `aws_il-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d07f:5000::/40', 'IPv6');
+INSERT INTO `aws_il-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d06a:5000::/40', 'IPv6');
 INSERT INTO `aws_il-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f0:611f::/48', 'IPv6');
 INSERT INTO `aws_il-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d03a:5000::/40', 'IPv6');
 INSERT INTO `aws_il-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d025:1000::/36', 'IPv6');

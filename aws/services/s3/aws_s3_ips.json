@@ -408,6 +408,12 @@
     "region": "GLOBAL"
   },
   {
+    "ip_address": "3.5.120.0/22",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "eu-central-1"
+  },
+  {
     "ip_address": "76.223.104.0/24",
     "ip_type": "IPv4",
     "service": "S3",

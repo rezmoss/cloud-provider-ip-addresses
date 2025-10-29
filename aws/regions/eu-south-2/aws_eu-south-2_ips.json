@@ -912,6 +912,12 @@
     "region": "eu-south-2"
   },
   {
+    "ip_address": "2a05:d06a:1000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eu-south-2"
+  },
+  {
     "ip_address": "2a05:d079:1000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -1147,6 +1153,12 @@
   },
   {
     "ip_address": "2a05:d038:1000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eu-south-2"
+  },
+  {
+    "ip_address": "2a05:d06a:1000::/40",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "eu-south-2"

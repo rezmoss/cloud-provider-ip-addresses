@@ -74,6 +74,7 @@ INSERT INTO `aws_s3_ips` (`ip_address`, `ip_type`) VALUES ('52.219.142.0/24', 'I
 INSERT INTO `aws_s3_ips` (`ip_address`, `ip_type`) VALUES ('52.219.0.0/20', 'IPv4');
 INSERT INTO `aws_s3_ips` (`ip_address`, `ip_type`) VALUES ('3.5.252.0/22', 'IPv4');
 INSERT INTO `aws_s3_ips` (`ip_address`, `ip_type`) VALUES ('13.248.231.0/24', 'IPv4');
+INSERT INTO `aws_s3_ips` (`ip_address`, `ip_type`) VALUES ('3.5.120.0/22', 'IPv4');
 INSERT INTO `aws_s3_ips` (`ip_address`, `ip_type`) VALUES ('76.223.104.0/24', 'IPv4');
 INSERT INTO `aws_s3_ips` (`ip_address`, `ip_type`) VALUES ('16.12.88.0/21', 'IPv4');
 INSERT INTO `aws_s3_ips` (`ip_address`, `ip_type`) VALUES ('16.15.20.0/22', 'IPv4');

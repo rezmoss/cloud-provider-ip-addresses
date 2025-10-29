@@ -2016,6 +2016,12 @@
     "region": "ap-southeast-2"
   },
   {
+    "ip_address": "2406:daea:c000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-southeast-2"
+  },
+  {
     "ip_address": "2406:daf6:c000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -2395,6 +2401,12 @@
   },
   {
     "ip_address": "2406:daef:c000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-southeast-2"
+  },
+  {
+    "ip_address": "2406:daea:c000::/40",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "ap-southeast-2"

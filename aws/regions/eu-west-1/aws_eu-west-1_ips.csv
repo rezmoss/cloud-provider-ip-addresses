@@ -488,6 +488,7 @@ ip_address,ip_type,service,region
 52.94.5.0/24,IPv4,DYNAMODB,eu-west-1
 2600:1f01:4822::/56,IPv6,AMAZON,eu-west-1
 2600:f0f0:1:1a00::/56,IPv6,AMAZON,eu-west-1
+2a05:d06a:8000::/40,IPv6,AMAZON,eu-west-1
 2a05:d032:8000::/40,IPv6,AMAZON,eu-west-1
 2600:f0f0:1112::/48,IPv6,AMAZON,eu-west-1
 2600:f0fb:f102::/48,IPv6,AMAZON,eu-west-1
@@ -571,6 +572,7 @@ ip_address,ip_type,service,region
 2a05:d032:8000::/40,IPv6,WORKSPACES_GATEWAYS,eu-west-1
 2a05:d028:40::/48,IPv6,WORKSPACES_GATEWAYS,eu-west-1
 2600:f0f0:1:1a00::/56,IPv6,EC2,eu-west-1
+2a05:d06a:8000::/40,IPv6,EC2,eu-west-1
 2a05:d032:8000::/40,IPv6,EC2,eu-west-1
 2600:f0f0:1112::/48,IPv6,EC2,eu-west-1
 2600:f0fb:f102::/48,IPv6,EC2,eu-west-1

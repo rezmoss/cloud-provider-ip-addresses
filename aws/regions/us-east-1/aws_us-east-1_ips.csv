@@ -1288,6 +1288,7 @@ ip_address,ip_type,service,region
 2600:1ff1:8000::/39,IPv6,AMAZON,us-east-1
 2600:f0f0:6000::/44,IPv6,AMAZON,us-east-1
 2600:1f18::/33,IPv6,AMAZON,us-east-1
+2600:1fea:8000::/39,IPv6,AMAZON,us-east-1
 2600:1f2f:8000::/36,IPv6,AMAZON,us-east-1
 2620:107:4000:8004::/64,IPv6,AMAZON,us-east-1
 2620:107:4000:4::/64,IPv6,AMAZON,us-east-1
@@ -1517,6 +1518,7 @@ ip_address,ip_type,service,region
 2600:1ff1:8000::/39,IPv6,EC2,us-east-1
 2600:f0f0:6000::/44,IPv6,EC2,us-east-1
 2600:1f18::/33,IPv6,EC2,us-east-1
+2600:1fea:8000::/39,IPv6,EC2,us-east-1
 2600:1f2f:8000::/36,IPv6,EC2,us-east-1
 2600:1f2a:8000::/36,IPv6,EC2,us-east-1
 2600:f0f0:5519::/48,IPv6,EC2,us-east-1
