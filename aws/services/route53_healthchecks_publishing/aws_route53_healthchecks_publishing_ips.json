@@ -96,6 +96,12 @@
     "region": "ap-east-2"
   },
   {
+    "ip_address": "15.177.107.0/24",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_HEALTHCHECKS_PUBLISHING",
+    "region": "sa-west-1"
+  },
+  {
     "ip_address": "15.177.73.0/24",
     "ip_type": "IPv4",
     "service": "ROUTE53_HEALTHCHECKS_PUBLISHING",

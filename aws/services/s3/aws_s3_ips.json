@@ -1164,6 +1164,12 @@
     "region": "mx-central-1"
   },
   {
+    "ip_address": "16.15.32.0/20",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "us-west-2"
+  },
+  {
     "ip_address": "52.219.169.0/24",
     "ip_type": "IPv4",
     "service": "S3",

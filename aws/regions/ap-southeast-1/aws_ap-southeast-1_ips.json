@@ -222,6 +222,12 @@
     "region": "ap-southeast-1"
   },
   {
+    "ip_address": "69.107.10.120/29",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-southeast-1"
+  },
+  {
     "ip_address": "175.41.128.0/18",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -535,6 +541,12 @@
   },
   {
     "ip_address": "52.93.127.115/32",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-southeast-1"
+  },
+  {
+    "ip_address": "69.107.10.112/29",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "ap-southeast-1"
