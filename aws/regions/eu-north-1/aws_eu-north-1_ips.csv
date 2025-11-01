@@ -107,6 +107,7 @@ ip_address,ip_type,service,region
 3.5.216.0/22,IPv4,S3,eu-north-1
 16.12.9.0/24,IPv4,S3,eu-north-1
 52.95.170.0/23,IPv4,S3,eu-north-1
+1.178.93.0/24,IPv4,S3,eu-north-1
 13.51.71.176/28,IPv4,S3,eu-north-1
 13.51.71.192/28,IPv4,S3,eu-north-1
 35.55.42.0/24,IPv4,IVS_REALTIME,eu-north-1
@@ -232,6 +233,7 @@ ip_address,ip_type,service,region
 2a05:d074:6000::/40,IPv6,S3,eu-north-1
 2a05:d030:6000::/40,IPv6,S3,eu-north-1
 2a05:d078:6000::/40,IPv6,S3,eu-north-1
+2600:f0f2:701f::/48,IPv6,S3,eu-north-1
 2600:f0f0:1128::/48,IPv6,IVS_REALTIME,eu-north-1
 2600:f0f0:1127::/48,IPv6,IVS_REALTIME,eu-north-1
 2600:f0f0:1129::/48,IPv6,IVS_REALTIME,eu-north-1

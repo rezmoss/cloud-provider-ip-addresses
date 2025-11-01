@@ -44,6 +44,7 @@ INSERT INTO `aws_ca-west-1_ips` (`ip_address`, `ip_type`) VALUES ('40.176.85.192
 INSERT INTO `aws_ca-west-1_ips` (`ip_address`, `ip_type`) VALUES ('40.176.86.0/26', 'IPv4');
 INSERT INTO `aws_ca-west-1_ips` (`ip_address`, `ip_type`) VALUES ('40.176.86.64/26', 'IPv4');
 INSERT INTO `aws_ca-west-1_ips` (`ip_address`, `ip_type`) VALUES ('40.177.52.0/23', 'IPv4');
+INSERT INTO `aws_ca-west-1_ips` (`ip_address`, `ip_type`) VALUES ('56.112.70.0/23', 'IPv4');
 INSERT INTO `aws_ca-west-1_ips` (`ip_address`, `ip_type`) VALUES ('16.12.58.0/24', 'IPv4');
 INSERT INTO `aws_ca-west-1_ips` (`ip_address`, `ip_type`) VALUES ('3.5.172.0/22', 'IPv4');
 INSERT INTO `aws_ca-west-1_ips` (`ip_address`, `ip_type`) VALUES ('16.12.56.0/23', 'IPv4');

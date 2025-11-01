@@ -648,6 +648,12 @@
     "region": "eu-north-1"
   },
   {
+    "ip_address": "1.178.93.0/24",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "eu-north-1"
+  },
+  {
     "ip_address": "13.51.71.176/28",
     "ip_type": "IPv4",
     "service": "S3",
@@ -1393,6 +1399,12 @@
   },
   {
     "ip_address": "2a05:d078:6000::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "eu-north-1"
+  },
+  {
+    "ip_address": "2600:f0f2:701f::/48",
     "ip_type": "IPv6",
     "service": "S3",
     "region": "eu-north-1"

@@ -576,6 +576,12 @@
     "region": "eu-west-3"
   },
   {
+    "ip_address": "1.178.90.0/24",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "eu-west-3"
+  },
+  {
     "ip_address": "13.36.84.48/28",
     "ip_type": "IPv4",
     "service": "S3",
@@ -1429,6 +1435,12 @@
   },
   {
     "ip_address": "2a05:d059:2000::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "eu-west-3"
+  },
+  {
+    "ip_address": "2600:f0f2:701c::/48",
     "ip_type": "IPv6",
     "service": "S3",
     "region": "eu-west-3"
