@@ -36,7 +36,19 @@
     "region": "me-central2"
   },
   {
+    "ip_address": "35.252.32.0/19",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "me-central2"
+  },
+  {
     "ip_address": "2600:1900:5400::/44",
+    "ip_type": "IPv6",
+    "service": "Google Cloud",
+    "region": "me-central2"
+  },
+  {
+    "ip_address": "2600:1902:1b0::/44",
     "ip_type": "IPv6",
     "service": "Google Cloud",
     "region": "me-central2"

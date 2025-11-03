@@ -44,3 +44,4 @@ ip_address,ip_type,service,region
 146.148.112.0/20,IPv4,Google Cloud,europe-west1
 192.158.28.0/22,IPv4,Google Cloud,europe-west1
 2600:1900:4010::/44,IPv6,Google Cloud,europe-west1
+2600:1902:110::/44,IPv6,Google Cloud,europe-west1

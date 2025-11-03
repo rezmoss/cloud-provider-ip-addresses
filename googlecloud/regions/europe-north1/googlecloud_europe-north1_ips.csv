@@ -8,3 +8,4 @@ ip_address,ip_type,service,region
 35.228.0.0/16,IPv4,Google Cloud,europe-north1
 35.242.26.0/24,IPv4,Google Cloud,europe-north1
 2600:1900:4150::/44,IPv6,Google Cloud,europe-north1
+2600:1902:e0::/44,IPv6,Google Cloud,europe-north1

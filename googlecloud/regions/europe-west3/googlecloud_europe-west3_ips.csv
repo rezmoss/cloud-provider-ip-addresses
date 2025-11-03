@@ -25,3 +25,4 @@ ip_address,ip_type,service,region
 35.242.192.0/18,IPv4,Google Cloud,europe-west3
 35.246.128.0/17,IPv4,Google Cloud,europe-west3
 2600:1900:40d0::/44,IPv6,Google Cloud,europe-west3
+2600:1902:150::/44,IPv6,Google Cloud,europe-west3

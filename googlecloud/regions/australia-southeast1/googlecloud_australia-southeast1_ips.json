@@ -130,5 +130,11 @@
     "ip_type": "IPv6",
     "service": "Google Cloud",
     "region": "australia-southeast1"
+  },
+  {
+    "ip_address": "2600:1902:b0::/44",
+    "ip_type": "IPv6",
+    "service": "Google Cloud",
+    "region": "australia-southeast1"
   }
 ]

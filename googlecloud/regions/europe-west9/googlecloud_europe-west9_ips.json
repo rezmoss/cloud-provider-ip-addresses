@@ -34,5 +34,11 @@
     "ip_type": "IPv6",
     "service": "Google Cloud",
     "region": "europe-west9"
+  },
+  {
+    "ip_address": "2600:1902:190::/44",
+    "ip_type": "IPv6",
+    "service": "Google Cloud",
+    "region": "europe-west9"
   }
 ]

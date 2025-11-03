@@ -17,3 +17,4 @@ INSERT INTO `googlecloud_southamerica-west1_ips` (`ip_address`, `ip_type`) VALUE
 INSERT INTO `googlecloud_southamerica-west1_ips` (`ip_address`, `ip_type`) VALUES ('34.183.1.0/24', 'IPv4');
 INSERT INTO `googlecloud_southamerica-west1_ips` (`ip_address`, `ip_type`) VALUES ('34.184.1.0/24', 'IPv4');
 INSERT INTO `googlecloud_southamerica-west1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1901:4010::/44', 'IPv6');
+INSERT INTO `googlecloud_southamerica-west1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1902:210::/44', 'IPv6');

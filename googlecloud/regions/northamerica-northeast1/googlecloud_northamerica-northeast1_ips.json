@@ -124,5 +124,11 @@
     "ip_type": "IPv6",
     "service": "Google Cloud",
     "region": "northamerica-northeast1"
+  },
+  {
+    "ip_address": "2600:1902:1d0::/44",
+    "ip_type": "IPv6",
+    "service": "Google Cloud",
+    "region": "northamerica-northeast1"
   }
 ]
