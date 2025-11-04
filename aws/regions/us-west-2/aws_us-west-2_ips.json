@@ -4206,6 +4206,12 @@
     "region": "us-west-2"
   },
   {
+    "ip_address": "2631:0:2::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-west-2"
+  },
+  {
     "ip_address": "2606:7b40:10ff:d250::/60",
     "ip_type": "IPv6",
     "service": "AMAZON",
