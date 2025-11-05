@@ -503,6 +503,7 @@ ip_address,ip_type,service,region
 2600:1fa0:6000::/40,IPv6,S3,us-east-2
 2600:1fef:ec00::/40,IPv6,S3,sa-west-1
 2406:daa0:a800::/40,IPv6,S3,ap-southeast-1
+2600:1ff9:41a0::/46,IPv6,S3,us-west-2
 2404:c2c0:2800::/40,IPv6,S3,cn-northwest-1
 2406:daf0:1000::/40,IPv6,S3,af-south-1
 2406:daf4:1000::/40,IPv6,S3,af-south-1
@@ -539,6 +540,7 @@ ip_address,ip_type,service,region
 2406:dab9:9000::/40,IPv6,S3,ap-southeast-3
 2406:daf4:2800::/40,IPv6,S3,ap-southeast-6
 2600:1ff9:5000::/40,IPv6,S3,us-gov-east-1
+2600:1ff9:41c0::/46,IPv6,S3,us-west-2
 2406:da60:8800::/40,IPv6,S3,ap-southeast-1
 2406:daf8:1000::/40,IPv6,S3,af-south-1
 240f:80f9:8000::/40,IPv6,S3,cn-north-1
