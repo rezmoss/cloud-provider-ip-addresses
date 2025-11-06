@@ -36,6 +36,7 @@ ip_address,ip_type,service,region
 51.0.31.0/24,IPv4,EC2,eusc-de-east-1
 35.71.94.0/24,IPv4,EC2,eusc-de-east-1
 51.0.128.0/21,IPv4,EC2,eusc-de-east-1
+51.72.0.0/15,IPv4,EC2,eusc-de-east-1
 51.0.140.0/23,IPv4,EC2,eusc-de-east-1
 51.224.0.0/15,IPv4,EC2,eusc-de-east-1
 51.0.252.0/24,IPv4,EC2,eusc-de-east-1

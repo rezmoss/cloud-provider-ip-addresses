@@ -900,6 +900,12 @@
     "region": "GLOBAL"
   },
   {
+    "ip_address": "31.220.247.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "GLOBAL"
+  },
+  {
     "ip_address": "15.177.0.0/18",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -1309,6 +1315,12 @@
   },
   {
     "ip_address": "23.228.196.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "GLOBAL"
+  },
+  {
+    "ip_address": "31.220.247.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "GLOBAL"

@@ -2928,6 +2928,12 @@
     "region": "eu-north-1"
   },
   {
+    "ip_address": "51.72.0.0/15",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "eusc-de-east-1"
+  },
+  {
     "ip_address": "51.112.0.0/16",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -3994,6 +4000,12 @@
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "ap-southeast-5"
+  },
+  {
+    "ip_address": "54.55.0.0/16",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "ap-east-2"
   },
   {
     "ip_address": "3.2.3.0/24",
@@ -8272,6 +8284,12 @@
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "us-west-2"
+  },
+  {
+    "ip_address": "31.220.247.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "GLOBAL"
   },
   {
     "ip_address": "35.96.64.0/20",
