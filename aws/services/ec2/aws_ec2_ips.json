@@ -9438,6 +9438,12 @@
     "region": "us-west-2"
   },
   {
+    "ip_address": "99.10.0.0/18",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "eu-north-1"
+  },
+  {
     "ip_address": "216.39.152.0/21",
     "ip_type": "IPv4",
     "service": "EC2",

@@ -28998,6 +28998,12 @@
     "region": "eu-south-1"
   },
   {
+    "ip_address": "99.10.0.0/18",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-north-1"
+  },
+  {
     "ip_address": "99.78.216.0/22",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -35818,6 +35824,12 @@
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "cn-north-1"
+  },
+  {
+    "ip_address": "2403:b300::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-southeast-2"
   },
   {
     "ip_address": "2406:da29::/36",
