@@ -534,12 +534,6 @@
     "region": "ap-southeast-1"
   },
   {
-    "ip_address": "40.168.224.0/24",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "ap-southeast-1"
-  },
-  {
     "ip_address": "52.93.83.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
