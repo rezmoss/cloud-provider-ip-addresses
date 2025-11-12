@@ -546,6 +546,12 @@
     "region": "eu-central-1"
   },
   {
+    "ip_address": "216.198.208.0/22",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-central-1"
+  },
+  {
     "ip_address": "3.124.0.0/14",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -1092,6 +1098,12 @@
     "region": "eu-central-1"
   },
   {
+    "ip_address": "216.198.200.0/21",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-central-1"
+  },
+  {
     "ip_address": "52.94.136.0/21",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -1153,12 +1165,6 @@
   },
   {
     "ip_address": "52.94.204.0/23",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "eu-central-1"
-  },
-  {
-    "ip_address": "216.198.194.0/23",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "eu-central-1"
@@ -1830,6 +1836,12 @@
     "region": "eu-central-1"
   },
   {
+    "ip_address": "216.198.196.0/22",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-central-1"
+  },
+  {
     "ip_address": "15.230.15.194/31",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -2442,6 +2454,12 @@
     "region": "eu-central-1"
   },
   {
+    "ip_address": "216.198.208.0/22",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "eu-central-1"
+  },
+  {
     "ip_address": "3.124.0.0/14",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -2574,13 +2592,13 @@
     "region": "eu-central-1"
   },
   {
-    "ip_address": "35.50.193.0/24",
+    "ip_address": "216.198.200.0/21",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "eu-central-1"
   },
   {
-    "ip_address": "216.198.194.0/23",
+    "ip_address": "35.50.193.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "eu-central-1"
@@ -2737,6 +2755,12 @@
   },
   {
     "ip_address": "52.46.184.0/22",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "eu-central-1"
+  },
+  {
+    "ip_address": "216.198.196.0/22",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "eu-central-1"
