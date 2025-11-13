@@ -9,6 +9,7 @@ CREATE TABLE IF NOT EXISTS `aws_cloudfront_ips` (
 INSERT INTO `aws_cloudfront_ips` (`ip_address`, `ip_type`) VALUES ('120.52.22.96/27', 'IPv4');
 INSERT INTO `aws_cloudfront_ips` (`ip_address`, `ip_type`) VALUES ('205.251.249.0/24', 'IPv4');
 INSERT INTO `aws_cloudfront_ips` (`ip_address`, `ip_type`) VALUES ('180.163.57.128/26', 'IPv4');
+INSERT INTO `aws_cloudfront_ips` (`ip_address`, `ip_type`) VALUES ('23.228.220.0/24', 'IPv4');
 INSERT INTO `aws_cloudfront_ips` (`ip_address`, `ip_type`) VALUES ('204.246.168.0/22', 'IPv4');
 INSERT INTO `aws_cloudfront_ips` (`ip_address`, `ip_type`) VALUES ('111.13.171.128/26', 'IPv4');
 INSERT INTO `aws_cloudfront_ips` (`ip_address`, `ip_type`) VALUES ('18.160.0.0/15', 'IPv4');

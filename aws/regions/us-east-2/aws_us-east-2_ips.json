@@ -624,6 +624,12 @@
     "region": "us-east-2"
   },
   {
+    "ip_address": "216.198.194.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-east-2"
+  },
+  {
     "ip_address": "15.230.39.18/31",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -637,6 +643,12 @@
   },
   {
     "ip_address": "192.43.184.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-east-2"
+  },
+  {
+    "ip_address": "35.111.128.0/22",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "us-east-2"
@@ -1027,6 +1039,12 @@
   },
   {
     "ip_address": "108.166.244.52/32",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-east-2"
+  },
+  {
+    "ip_address": "216.198.216.0/21",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "us-east-2"
@@ -2694,7 +2712,19 @@
     "region": "us-east-2"
   },
   {
+    "ip_address": "216.198.194.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-east-2"
+  },
+  {
     "ip_address": "192.43.184.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-east-2"
+  },
+  {
+    "ip_address": "35.111.128.0/22",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "us-east-2"
@@ -2755,6 +2785,12 @@
   },
   {
     "ip_address": "18.188.0.0/16",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-east-2"
+  },
+  {
+    "ip_address": "216.198.216.0/21",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "us-east-2"
@@ -3666,6 +3702,12 @@
     "region": "us-east-2"
   },
   {
+    "ip_address": "2606:7b40:10ff:20::/59",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-east-2"
+  },
+  {
     "ip_address": "2600:f0fb:f020::/48",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -4117,6 +4159,12 @@
   },
   {
     "ip_address": "2600:f0f0:1120::/48",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-east-2"
+  },
+  {
+    "ip_address": "2606:7b40:10ff:20::/59",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "us-east-2"
