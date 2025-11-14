@@ -220,6 +220,7 @@ ip_address,ip_type,service,region
 3.5.168.0/23,IPv4,EC2,ap-southeast-2
 52.64.0.0/17,IPv4,EC2,ap-southeast-2
 35.55.10.0/24,IPv4,EC2,ap-southeast-2
+15.135.0.0/16,IPv4,EC2,ap-southeast-2
 96.0.72.0/21,IPv4,EC2,ap-southeast-2
 13.54.0.0/15,IPv4,EC2,ap-southeast-2
 52.95.241.0/24,IPv4,EC2,ap-southeast-2
