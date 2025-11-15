@@ -180,12 +180,6 @@
     "region": "GLOBAL"
   },
   {
-    "ip_address": "23.228.221.0/24",
-    "ip_type": "IPv4",
-    "service": "CLOUDFRONT",
-    "region": "GLOBAL"
-  },
-  {
     "ip_address": "58.254.138.0/25",
     "ip_type": "IPv4",
     "service": "CLOUDFRONT",
