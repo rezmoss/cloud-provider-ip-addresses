@@ -6,6 +6,12 @@
     "region": "GLOBAL"
   },
   {
+    "ip_address": "23.228.222.0/24",
+    "ip_type": "IPv4",
+    "service": "CLOUDFRONT",
+    "region": "GLOBAL"
+  },
+  {
     "ip_address": "205.251.249.0/24",
     "ip_type": "IPv4",
     "service": "CLOUDFRONT",
@@ -13,6 +19,12 @@
   },
   {
     "ip_address": "180.163.57.128/26",
+    "ip_type": "IPv4",
+    "service": "CLOUDFRONT",
+    "region": "GLOBAL"
+  },
+  {
+    "ip_address": "23.228.220.0/24",
     "ip_type": "IPv4",
     "service": "CLOUDFRONT",
     "region": "GLOBAL"
@@ -180,6 +192,12 @@
     "region": "GLOBAL"
   },
   {
+    "ip_address": "23.228.221.0/24",
+    "ip_type": "IPv4",
+    "service": "CLOUDFRONT",
+    "region": "GLOBAL"
+  },
+  {
     "ip_address": "58.254.138.0/25",
     "ip_type": "IPv4",
     "service": "CLOUDFRONT",
@@ -258,6 +276,12 @@
     "region": "GLOBAL"
   },
   {
+    "ip_address": "23.228.227.0/24",
+    "ip_type": "IPv4",
+    "service": "CLOUDFRONT",
+    "region": "GLOBAL"
+  },
+  {
     "ip_address": "71.152.0.0/17",
     "ip_type": "IPv4",
     "service": "CLOUDFRONT",
@@ -331,6 +355,12 @@
   },
   {
     "ip_address": "180.163.57.0/25",
+    "ip_type": "IPv4",
+    "service": "CLOUDFRONT",
+    "region": "GLOBAL"
+  },
+  {
+    "ip_address": "23.228.237.0/24",
     "ip_type": "IPv4",
     "service": "CLOUDFRONT",
     "region": "GLOBAL"
@@ -529,6 +559,12 @@
   },
   {
     "ip_address": "3.164.128.0/17",
+    "ip_type": "IPv4",
+    "service": "CLOUDFRONT",
+    "region": "GLOBAL"
+  },
+  {
+    "ip_address": "23.228.226.0/24",
     "ip_type": "IPv4",
     "service": "CLOUDFRONT",
     "region": "GLOBAL"
