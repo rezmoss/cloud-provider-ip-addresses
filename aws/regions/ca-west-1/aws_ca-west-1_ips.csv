@@ -54,6 +54,7 @@ ip_address,ip_type,service,region
 3.2.96.0/24,IPv4,EC2,ca-west-1
 35.54.57.0/24,IPv4,EC2,ca-west-1
 99.151.168.0/21,IPv4,EC2,ca-west-1
+16.174.0.0/16,IPv4,EC2,ca-west-1
 15.177.100.0/24,IPv4,ROUTE53_HEALTHCHECKS_PUBLISHING,ca-west-1
 40.176.65.0/24,IPv4,API_GATEWAY,ca-west-1
 40.176.213.168/29,IPv4,EC2_INSTANCE_CONNECT,ca-west-1

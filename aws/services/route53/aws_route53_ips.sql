@@ -11,3 +11,9 @@ INSERT INTO `aws_route53_ips` (`ip_address`, `ip_type`) VALUES ('52.95.110.0/24'
 INSERT INTO `aws_route53_ips` (`ip_address`, `ip_type`) VALUES ('205.251.192.0/21', 'IPv4');
 INSERT INTO `aws_route53_ips` (`ip_address`, `ip_type`) VALUES ('3.4.32.0/20', 'IPv4');
 INSERT INTO `aws_route53_ips` (`ip_address`, `ip_type`) VALUES ('63.246.114.0/23', 'IPv4');
+INSERT INTO `aws_route53_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f2:7000::/44', 'IPv6');
+INSERT INTO `aws_route53_ips` (`ip_address`, `ip_type`) VALUES ('2600:9000:f530::/46', 'IPv6');
+INSERT INTO `aws_route53_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0fb:f000::/44', 'IPv6');
+INSERT INTO `aws_route53_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f3:f000::/44', 'IPv6');
+INSERT INTO `aws_route53_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f0:400::/44', 'IPv6');
+INSERT INTO `aws_route53_ips` (`ip_address`, `ip_type`) VALUES ('2600:9000:5300::/45', 'IPv6');

@@ -330,6 +330,12 @@
     "region": "ca-west-1"
   },
   {
+    "ip_address": "16.174.0.0/16",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "ca-west-1"
+  },
+  {
     "ip_address": "15.177.100.0/24",
     "ip_type": "IPv4",
     "service": "ROUTE53_HEALTHCHECKS_PUBLISHING",
