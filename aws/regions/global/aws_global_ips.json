@@ -168,12 +168,6 @@
     "region": "GLOBAL"
   },
   {
-    "ip_address": "23.228.225.0/24",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "GLOBAL"
-  },
-  {
     "ip_address": "54.230.192.0/21",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -217,12 +211,6 @@
   },
   {
     "ip_address": "70.132.0.0/18",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "GLOBAL"
-  },
-  {
-    "ip_address": "23.228.216.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "GLOBAL"
@@ -426,12 +414,6 @@
     "region": "GLOBAL"
   },
   {
-    "ip_address": "23.228.218.0/24",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "GLOBAL"
-  },
-  {
     "ip_address": "111.13.185.32/27",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -457,6 +439,12 @@
   },
   {
     "ip_address": "54.230.224.0/19",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "GLOBAL"
+  },
+  {
+    "ip_address": "23.228.227.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "GLOBAL"
@@ -606,6 +594,12 @@
     "region": "GLOBAL"
   },
   {
+    "ip_address": "23.228.237.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "GLOBAL"
+  },
+  {
     "ip_address": "15.197.128.0/17",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -697,12 +691,6 @@
   },
   {
     "ip_address": "151.148.8.0/21",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "GLOBAL"
-  },
-  {
-    "ip_address": "23.228.224.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "GLOBAL"
@@ -990,6 +978,12 @@
     "region": "GLOBAL"
   },
   {
+    "ip_address": "23.228.226.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "GLOBAL"
+  },
+  {
     "ip_address": "3.172.0.0/18",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -1051,12 +1045,6 @@
   },
   {
     "ip_address": "15.197.24.0/22",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "GLOBAL"
-  },
-  {
-    "ip_address": "23.228.217.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "GLOBAL"
@@ -1524,12 +1512,6 @@
     "region": "GLOBAL"
   },
   {
-    "ip_address": "23.228.225.0/24",
-    "ip_type": "IPv4",
-    "service": "CLOUDFRONT",
-    "region": "GLOBAL"
-  },
-  {
     "ip_address": "99.86.0.0/16",
     "ip_type": "IPv4",
     "service": "CLOUDFRONT",
@@ -1555,12 +1537,6 @@
   },
   {
     "ip_address": "70.132.0.0/18",
-    "ip_type": "IPv4",
-    "service": "CLOUDFRONT",
-    "region": "GLOBAL"
-  },
-  {
-    "ip_address": "23.228.216.0/24",
     "ip_type": "IPv4",
     "service": "CLOUDFRONT",
     "region": "GLOBAL"
@@ -1680,12 +1656,6 @@
     "region": "GLOBAL"
   },
   {
-    "ip_address": "23.228.218.0/24",
-    "ip_type": "IPv4",
-    "service": "CLOUDFRONT",
-    "region": "GLOBAL"
-  },
-  {
     "ip_address": "111.13.185.32/27",
     "ip_type": "IPv4",
     "service": "CLOUDFRONT",
@@ -1711,6 +1681,12 @@
   },
   {
     "ip_address": "54.230.224.0/19",
+    "ip_type": "IPv4",
+    "service": "CLOUDFRONT",
+    "region": "GLOBAL"
+  },
+  {
+    "ip_address": "23.228.227.0/24",
     "ip_type": "IPv4",
     "service": "CLOUDFRONT",
     "region": "GLOBAL"
@@ -1794,6 +1770,12 @@
     "region": "GLOBAL"
   },
   {
+    "ip_address": "23.228.237.0/24",
+    "ip_type": "IPv4",
+    "service": "CLOUDFRONT",
+    "region": "GLOBAL"
+  },
+  {
     "ip_address": "52.46.0.0/18",
     "ip_type": "IPv4",
     "service": "CLOUDFRONT",
@@ -1843,12 +1825,6 @@
   },
   {
     "ip_address": "52.84.0.0/15",
-    "ip_type": "IPv4",
-    "service": "CLOUDFRONT",
-    "region": "GLOBAL"
-  },
-  {
-    "ip_address": "23.228.224.0/24",
     "ip_type": "IPv4",
     "service": "CLOUDFRONT",
     "region": "GLOBAL"
@@ -2004,6 +1980,12 @@
     "region": "GLOBAL"
   },
   {
+    "ip_address": "23.228.226.0/24",
+    "ip_type": "IPv4",
+    "service": "CLOUDFRONT",
+    "region": "GLOBAL"
+  },
+  {
     "ip_address": "3.172.0.0/18",
     "ip_type": "IPv4",
     "service": "CLOUDFRONT",
@@ -2035,12 +2017,6 @@
   },
   {
     "ip_address": "204.246.176.0/20",
-    "ip_type": "IPv4",
-    "service": "CLOUDFRONT",
-    "region": "GLOBAL"
-  },
-  {
-    "ip_address": "23.228.217.0/24",
     "ip_type": "IPv4",
     "service": "CLOUDFRONT",
     "region": "GLOBAL"

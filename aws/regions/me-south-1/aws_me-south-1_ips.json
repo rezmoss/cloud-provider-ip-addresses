@@ -666,6 +666,12 @@
     "region": "me-south-1"
   },
   {
+    "ip_address": "16.25.0.0/16",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "me-south-1"
+  },
+  {
     "ip_address": "3.5.220.0/22",
     "ip_type": "IPv4",
     "service": "EC2",
