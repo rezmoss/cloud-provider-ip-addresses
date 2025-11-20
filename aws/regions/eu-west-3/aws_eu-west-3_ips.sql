@@ -130,6 +130,7 @@ INSERT INTO `aws_eu-west-3_ips` (`ip_address`, `ip_type`) VALUES ('15.236.0.0/15
 INSERT INTO `aws_eu-west-3_ips` (`ip_address`, `ip_type`) VALUES ('51.0.96.0/21', 'IPv4');
 INSERT INTO `aws_eu-west-3_ips` (`ip_address`, `ip_type`) VALUES ('52.95.254.0/24', 'IPv4');
 INSERT INTO `aws_eu-west-3_ips` (`ip_address`, `ip_type`) VALUES ('99.150.72.0/21', 'IPv4');
+INSERT INTO `aws_eu-west-3_ips` (`ip_address`, `ip_type`) VALUES ('15.224.0.0/16', 'IPv4');
 INSERT INTO `aws_eu-west-3_ips` (`ip_address`, `ip_type`) VALUES ('18.98.64.0/19', 'IPv4');
 INSERT INTO `aws_eu-west-3_ips` (`ip_address`, `ip_type`) VALUES ('35.55.24.0/24', 'IPv4');
 INSERT INTO `aws_eu-west-3_ips` (`ip_address`, `ip_type`) VALUES ('35.55.22.0/24', 'IPv4');

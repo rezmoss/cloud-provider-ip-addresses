@@ -82,6 +82,7 @@ ip_address,ip_type,service,region
 52.95.235.0/24,IPv4,EC2,ap-southeast-3
 15.232.0.0/16,IPv4,EC2,ap-southeast-3
 16.79.0.0/16,IPv4,EC2,ap-southeast-3
+15.233.0.0/16,IPv4,EC2,ap-southeast-3
 3.2.98.0/24,IPv4,EC2,ap-southeast-3
 16.78.0.0/16,IPv4,EC2,ap-southeast-3
 99.77.237.0/24,IPv4,EC2,ap-southeast-3

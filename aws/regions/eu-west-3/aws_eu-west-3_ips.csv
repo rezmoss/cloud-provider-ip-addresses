@@ -123,6 +123,7 @@ ip_address,ip_type,service,region
 51.0.96.0/21,IPv4,EC2,eu-west-3
 52.95.254.0/24,IPv4,EC2,eu-west-3
 99.150.72.0/21,IPv4,EC2,eu-west-3
+15.224.0.0/16,IPv4,EC2,eu-west-3
 18.98.64.0/19,IPv4,EC2,eu-west-3
 35.55.24.0/24,IPv4,EC2,eu-west-3
 35.55.22.0/24,IPv4,EC2,eu-west-3

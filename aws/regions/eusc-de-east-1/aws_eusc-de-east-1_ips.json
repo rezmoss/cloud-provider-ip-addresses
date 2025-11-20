@@ -18,6 +18,12 @@
     "region": "eusc-de-east-1"
   },
   {
+    "ip_address": "51.74.16.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eusc-de-east-1"
+  },
+  {
     "ip_address": "150.222.54.0/27",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -48,12 +54,6 @@
     "region": "eusc-de-east-1"
   },
   {
-    "ip_address": "51.0.140.0/23",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "eusc-de-east-1"
-  },
-  {
     "ip_address": "51.0.0.0/20",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -78,25 +78,7 @@
     "region": "eusc-de-east-1"
   },
   {
-    "ip_address": "51.0.142.0/23",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "eusc-de-east-1"
-  },
-  {
     "ip_address": "51.0.29.128/28",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "eusc-de-east-1"
-  },
-  {
-    "ip_address": "51.0.136.0/23",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "eusc-de-east-1"
-  },
-  {
-    "ip_address": "51.0.138.0/23",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "eusc-de-east-1"
@@ -210,6 +192,12 @@
     "region": "eusc-de-east-1"
   },
   {
+    "ip_address": "51.74.16.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "eusc-de-east-1"
+  },
+  {
     "ip_address": "51.0.128.0/21",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -217,12 +205,6 @@
   },
   {
     "ip_address": "51.72.0.0/15",
-    "ip_type": "IPv4",
-    "service": "EC2",
-    "region": "eusc-de-east-1"
-  },
-  {
-    "ip_address": "51.0.140.0/23",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "eusc-de-east-1"
@@ -240,25 +222,7 @@
     "region": "eusc-de-east-1"
   },
   {
-    "ip_address": "51.0.142.0/23",
-    "ip_type": "IPv4",
-    "service": "EC2",
-    "region": "eusc-de-east-1"
-  },
-  {
     "ip_address": "51.0.29.128/28",
-    "ip_type": "IPv4",
-    "service": "EC2",
-    "region": "eusc-de-east-1"
-  },
-  {
-    "ip_address": "51.0.136.0/23",
-    "ip_type": "IPv4",
-    "service": "EC2",
-    "region": "eusc-de-east-1"
-  },
-  {
-    "ip_address": "51.0.138.0/23",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "eusc-de-east-1"

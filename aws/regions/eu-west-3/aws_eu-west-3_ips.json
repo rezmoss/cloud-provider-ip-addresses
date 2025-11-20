@@ -744,6 +744,12 @@
     "region": "eu-west-3"
   },
   {
+    "ip_address": "15.224.0.0/16",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "eu-west-3"
+  },
+  {
     "ip_address": "18.98.64.0/19",
     "ip_type": "IPv4",
     "service": "EC2",
