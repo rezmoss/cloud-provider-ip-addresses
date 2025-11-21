@@ -262,6 +262,7 @@ ip_address,ip_type,service,region
 15.193.128.0/22,IPv4,EC2,us-east-1
 35.50.132.0/24,IPv4,EC2,us-west-2
 35.54.44.0/23,IPv4,EC2,eu-west-1
+122.200.61.0/24,IPv4,EC2,ap-southeast-2
 15.228.0.0/15,IPv4,EC2,sa-east-1
 51.44.0.0/16,IPv4,EC2,eu-west-3
 157.241.0.0/16,IPv4,EC2,me-south-1
@@ -776,7 +777,6 @@ ip_address,ip_type,service,region
 18.99.0.0/19,IPv4,EC2,ca-central-1
 35.55.8.0/24,IPv4,EC2,ap-southeast-1
 35.181.0.0/16,IPv4,EC2,eu-west-3
-43.226.24.0/23,IPv4,EC2,ap-southeast-2
 54.80.0.0/13,IPv4,EC2,us-east-1
 54.214.0.0/16,IPv4,EC2,us-west-2
 54.254.0.0/16,IPv4,EC2,ap-southeast-1
