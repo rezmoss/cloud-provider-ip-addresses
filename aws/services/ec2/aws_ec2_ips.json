@@ -2724,12 +2724,6 @@
     "region": "eusc-de-east-1"
   },
   {
-    "ip_address": "52.82.176.0/22",
-    "ip_type": "IPv4",
-    "service": "EC2",
-    "region": "cn-northwest-1"
-  },
-  {
     "ip_address": "54.183.0.0/16",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -3568,12 +3562,6 @@
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "us-east-1"
-  },
-  {
-    "ip_address": "54.222.32.0/22",
-    "ip_type": "IPv4",
-    "service": "EC2",
-    "region": "cn-north-1"
   },
   {
     "ip_address": "64.252.123.0/24",
@@ -6006,6 +5994,12 @@
     "region": "ap-northeast-1"
   },
   {
+    "ip_address": "35.42.0.0/16",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "eu-south-2"
+  },
+  {
     "ip_address": "46.137.128.0/18",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -6466,12 +6460,6 @@
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "eu-west-2"
-  },
-  {
-    "ip_address": "52.46.180.0/22",
-    "ip_type": "IPv4",
-    "service": "EC2",
-    "region": "us-west-2"
   },
   {
     "ip_address": "216.198.231.0/24",
@@ -7314,12 +7302,6 @@
     "region": "us-east-1"
   },
   {
-    "ip_address": "52.82.180.0/22",
-    "ip_type": "IPv4",
-    "service": "EC2",
-    "region": "cn-northwest-1"
-  },
-  {
     "ip_address": "99.151.64.0/21",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -7816,6 +7798,12 @@
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "us-east-2"
+  },
+  {
+    "ip_address": "63.184.0.0/13",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "eu-central-1"
   },
   {
     "ip_address": "18.153.0.0/16",
@@ -8322,12 +8310,6 @@
     "region": "ap-northeast-2"
   },
   {
-    "ip_address": "54.222.36.0/22",
-    "ip_type": "IPv4",
-    "service": "EC2",
-    "region": "cn-north-1"
-  },
-  {
     "ip_address": "216.198.214.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -8566,12 +8548,6 @@
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "ap-south-2"
-  },
-  {
-    "ip_address": "52.46.184.0/22",
-    "ip_type": "IPv4",
-    "service": "EC2",
-    "region": "eu-central-1"
   },
   {
     "ip_address": "52.67.0.0/16",

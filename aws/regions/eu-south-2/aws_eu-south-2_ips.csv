@@ -82,6 +82,7 @@ ip_address,ip_type,service,region
 99.77.55.2/32,IPv4,EC2,eu-south-2
 15.177.97.0/24,IPv4,EC2,eu-south-2
 99.77.55.253/32,IPv4,EC2,eu-south-2
+35.42.0.0/16,IPv4,EC2,eu-south-2
 52.94.249.240/28,IPv4,EC2,eu-south-2
 99.77.55.53/32,IPv4,EC2,eu-south-2
 99.77.55.39/32,IPv4,EC2,eu-south-2
