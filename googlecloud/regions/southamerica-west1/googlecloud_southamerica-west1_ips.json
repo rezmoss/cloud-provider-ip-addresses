@@ -36,6 +36,18 @@
     "region": "southamerica-west1"
   },
   {
+    "ip_address": "34.157.122.0/25",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "southamerica-west1"
+  },
+  {
+    "ip_address": "34.157.218.0/25",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "southamerica-west1"
+  },
+  {
     "ip_address": "34.176.0.0/16",
     "ip_type": "IPv4",
     "service": "Google Cloud",
