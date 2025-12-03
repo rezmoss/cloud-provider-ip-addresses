@@ -31,6 +31,9 @@ INSERT INTO `aws_codebuild_ips` (`ip_address`, `ip_type`) VALUES ('13.55.255.216
 INSERT INTO `aws_codebuild_ips` (`ip_address`, `ip_type`) VALUES ('3.26.127.24/29', 'IPv4');
 INSERT INTO `aws_codebuild_ips` (`ip_address`, `ip_type`) VALUES ('108.137.114.0/28', 'IPv4');
 INSERT INTO `aws_codebuild_ips` (`ip_address`, `ip_type`) VALUES ('16.50.248.32/28', 'IPv4');
+INSERT INTO `aws_codebuild_ips` (`ip_address`, `ip_type`) VALUES ('56.68.33.32/28', 'IPv4');
+INSERT INTO `aws_codebuild_ips` (`ip_address`, `ip_type`) VALUES ('3.103.24.192/28', 'IPv4');
+INSERT INTO `aws_codebuild_ips` (`ip_address`, `ip_type`) VALUES ('43.209.155.112/28', 'IPv4');
 INSERT INTO `aws_codebuild_ips` (`ip_address`, `ip_type`) VALUES ('3.98.171.224/29', 'IPv4');
 INSERT INTO `aws_codebuild_ips` (`ip_address`, `ip_type`) VALUES ('35.182.14.48/29', 'IPv4');
 INSERT INTO `aws_codebuild_ips` (`ip_address`, `ip_type`) VALUES ('3.68.251.232/29', 'IPv4');

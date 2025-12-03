@@ -366,6 +366,12 @@
     "region": "ap-southeast-5"
   },
   {
+    "ip_address": "56.68.33.32/28",
+    "ip_type": "IPv4",
+    "service": "CODEBUILD",
+    "region": "ap-southeast-5"
+  },
+  {
     "ip_address": "43.216.39.0/24",
     "ip_type": "IPv4",
     "service": "API_GATEWAY",

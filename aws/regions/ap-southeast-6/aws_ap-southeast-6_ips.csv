@@ -48,6 +48,7 @@ ip_address,ip_type,service,region
 182.24.0.0/14,IPv4,EC2,ap-southeast-6
 3.102.0.0/15,IPv4,EC2,ap-southeast-6
 15.177.105.0/24,IPv4,ROUTE53_HEALTHCHECKS_PUBLISHING,ap-southeast-6
+3.103.24.192/28,IPv4,CODEBUILD,ap-southeast-6
 3.102.38.0/24,IPv4,API_GATEWAY,ap-southeast-6
 13.248.79.0/24,IPv4,DYNAMODB,ap-southeast-6
 35.71.93.0/24,IPv4,DYNAMODB,ap-southeast-6

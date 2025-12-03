@@ -438,6 +438,12 @@
     "region": "us-west-1"
   },
   {
+    "ip_address": "216.198.238.0/23",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "eu-west-2"
+  },
+  {
     "ip_address": "13.204.0.0/14",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -2974,6 +2980,12 @@
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "me-central-1"
+  },
+  {
+    "ip_address": "15.193.32.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-west-2"
   },
   {
     "ip_address": "15.220.152.0/21",

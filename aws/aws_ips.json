@@ -1452,6 +1452,12 @@
     "region": "us-west-1"
   },
   {
+    "ip_address": "216.198.238.0/23",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-west-2"
+  },
+  {
     "ip_address": "3.4.12.41/32",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -9022,6 +9028,12 @@
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "ca-west-1"
+  },
+  {
+    "ip_address": "15.193.32.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-west-2"
   },
   {
     "ip_address": "15.220.152.0/21",
@@ -36678,6 +36690,12 @@
     "region": "us-west-1"
   },
   {
+    "ip_address": "216.198.238.0/23",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "eu-west-2"
+  },
+  {
     "ip_address": "13.204.0.0/14",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -39214,6 +39232,12 @@
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "me-central-1"
+  },
+  {
+    "ip_address": "15.193.32.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-west-2"
   },
   {
     "ip_address": "15.220.152.0/21",
@@ -48982,6 +49006,24 @@
     "ip_type": "IPv4",
     "service": "CODEBUILD",
     "region": "ap-southeast-4"
+  },
+  {
+    "ip_address": "56.68.33.32/28",
+    "ip_type": "IPv4",
+    "service": "CODEBUILD",
+    "region": "ap-southeast-5"
+  },
+  {
+    "ip_address": "3.103.24.192/28",
+    "ip_type": "IPv4",
+    "service": "CODEBUILD",
+    "region": "ap-southeast-6"
+  },
+  {
+    "ip_address": "43.209.155.112/28",
+    "ip_type": "IPv4",
+    "service": "CODEBUILD",
+    "region": "ap-southeast-7"
   },
   {
     "ip_address": "3.98.171.224/29",
