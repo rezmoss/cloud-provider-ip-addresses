@@ -221,6 +221,7 @@ ip_address,ip_type,service,region
 2600:1f01:4914::/47,IPv6,AMAZON,eu-north-1
 2600:1f01:48d0::/47,IPv6,AMAZON,eu-north-1
 2600:f0f0:1129::/48,IPv6,AMAZON,eu-north-1
+2600:f0f0:8110::/48,IPv6,AMAZON,eu-north-1
 2600:f0f2:701f::/48,IPv6,AMAZON,eu-north-1
 2a05:d07c:6000::/40,IPv6,AMAZON,eu-north-1
 2a05:d06f:6000::/40,IPv6,AMAZON,eu-north-1
@@ -270,6 +271,7 @@ ip_address,ip_type,service,region
 2600:f0f0:1127::/48,IPv6,EC2,eu-north-1
 2a05:d036:6000::/40,IPv6,EC2,eu-north-1
 2600:f0f0:1129::/48,IPv6,EC2,eu-north-1
+2600:f0f0:8110::/48,IPv6,EC2,eu-north-1
 2600:f0f2:701f::/48,IPv6,EC2,eu-north-1
 2a05:d06f:6000::/40,IPv6,EC2,eu-north-1
 2a05:d073:6000::/40,IPv6,EC2,eu-north-1

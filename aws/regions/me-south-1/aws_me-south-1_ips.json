@@ -1110,6 +1110,12 @@
     "region": "me-south-1"
   },
   {
+    "ip_address": "2600:f0f0:8107::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "me-south-1"
+  },
+  {
     "ip_address": "2600:f0f0:552a::/48",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -1453,6 +1459,12 @@
   },
   {
     "ip_address": "2600:f0f0:6111::/48",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "me-south-1"
+  },
+  {
+    "ip_address": "2600:f0f0:8107::/48",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "me-south-1"
