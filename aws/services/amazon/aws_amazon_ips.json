@@ -3294,6 +3294,12 @@
     "region": "us-east-2"
   },
   {
+    "ip_address": "35.96.60.0/23",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-west-2"
+  },
+  {
     "ip_address": "52.93.24.0/21",
     "ip_type": "IPv4",
     "service": "AMAZON",

@@ -1044,6 +1044,12 @@
     "region": "us-east-2"
   },
   {
+    "ip_address": "35.96.60.0/23",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-west-2"
+  },
+  {
     "ip_address": "54.200.0.0/15",
     "ip_type": "IPv4",
     "service": "EC2",
