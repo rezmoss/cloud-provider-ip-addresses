@@ -56,6 +56,7 @@ ip_address,ip_type,service,region
 56.136.0.192/26,IPv4,AMAZON,us-gov-west-1
 56.136.121.0/25,IPv4,AMAZON,us-gov-west-1
 56.136.224.0/23,IPv4,AMAZON,us-gov-west-1
+56.137.224.0/23,IPv4,AMAZON,us-gov-west-1
 56.137.38.0/23,IPv4,AMAZON,us-gov-west-1
 160.1.55.0/25,IPv4,ROUTE53_HEALTHCHECKS,us-gov-west-1
 160.1.55.128/25,IPv4,ROUTE53_HEALTHCHECKS,us-gov-west-1

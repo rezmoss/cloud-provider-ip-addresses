@@ -19170,12 +19170,6 @@
     "region": "eu-north-1"
   },
   {
-    "ip_address": "2600:f0f1:4480::/48",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "us-west-2"
-  },
-  {
     "ip_address": "2606:f40:a400::/40",
     "ip_type": "IPv6",
     "service": "EC2",
