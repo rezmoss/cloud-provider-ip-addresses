@@ -2376,6 +2376,12 @@
     "region": "sa-east-1"
   },
   {
+    "ip_address": "40.168.226.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "GLOBAL"
+  },
+  {
     "ip_address": "35.160.0.0/13",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -3220,6 +3226,12 @@
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "ca-central-1"
+  },
+  {
+    "ip_address": "216.198.244.0/22",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "eu-central-1"
   },
   {
     "ip_address": "3.4.10.0/24",
@@ -8014,6 +8026,12 @@
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "us-west-2"
+  },
+  {
+    "ip_address": "216.198.240.0/22",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-east-1"
   },
   {
     "ip_address": "13.230.0.0/15",
