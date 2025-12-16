@@ -282,6 +282,12 @@
     "region": "ap-northeast-1"
   },
   {
+    "ip_address": "43.226.27.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-west-2"
+  },
+  {
     "ip_address": "52.95.226.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -8824,6 +8830,12 @@
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "ap-east-2"
+  },
+  {
+    "ip_address": "37.203.157.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "eu-central-1"
   },
   {
     "ip_address": "51.0.104.0/21",
