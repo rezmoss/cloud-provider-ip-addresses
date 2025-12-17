@@ -45,6 +45,7 @@ ip_address,ip_type,service,region
 16.12.96.0/21,IPv4,S3,us-west-2
 18.34.0.0/19,IPv4,S3,us-east-1
 16.12.15.0/24,IPv4,S3,eu-west-2
+52.219.23.0/24,IPv4,S3,us-west-1
 54.222.100.0/22,IPv4,S3,cn-north-1
 18.34.72.0/21,IPv4,S3,us-east-2
 16.12.10.0/23,IPv4,S3,eu-north-1

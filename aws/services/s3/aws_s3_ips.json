@@ -276,6 +276,12 @@
     "region": "eu-west-2"
   },
   {
+    "ip_address": "52.219.23.0/24",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "us-west-1"
+  },
+  {
     "ip_address": "54.222.100.0/22",
     "ip_type": "IPv4",
     "service": "S3",
