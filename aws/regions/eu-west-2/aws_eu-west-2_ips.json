@@ -168,6 +168,12 @@
     "region": "eu-west-2"
   },
   {
+    "ip_address": "15.129.8.0/21",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-west-2"
+  },
+  {
     "ip_address": "51.200.0.0/15",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -1603,6 +1609,12 @@
   },
   {
     "ip_address": "1.178.94.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "eu-west-2"
+  },
+  {
+    "ip_address": "15.129.8.0/21",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "eu-west-2"
