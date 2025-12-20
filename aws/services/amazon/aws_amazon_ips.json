@@ -32316,6 +32316,12 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "100.49.198.0/23",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "13.217.78.0/23",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -33088,6 +33094,12 @@
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "ap-east-2"
+  },
+  {
+    "ip_address": "2600:f0f1:4280::/42",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-east-1"
   },
   {
     "ip_address": "2620:107:4000:9000::/63",
@@ -35566,6 +35578,12 @@
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "us-east-2"
+  },
+  {
+    "ip_address": "2600:f0f1:42c0::/42",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-east-1"
   },
   {
     "ip_address": "2a05:d06a:2000::/40",
@@ -40050,6 +40068,12 @@
     "region": "sa-east-1"
   },
   {
+    "ip_address": "2600:f0f1:40c0::/42",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-south-1"
+  },
+  {
     "ip_address": "2600:f0fb:ec00::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -40306,6 +40330,12 @@
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "eu-west-3"
+  },
+  {
+    "ip_address": "2600:f0f1:4180::/42",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "af-south-1"
   },
   {
     "ip_address": "2a05:d018::/35",
@@ -40870,6 +40900,12 @@
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "us-east-1"
+  },
+  {
+    "ip_address": "2600:f0f1:4300::/42",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-northeast-2"
   },
   {
     "ip_address": "2620:107:300f::/48",
@@ -42444,6 +42480,12 @@
     "region": "eu-central-1"
   },
   {
+    "ip_address": "2600:f0f1:4040::/42",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "me-south-1"
+  },
+  {
     "ip_address": "2600:f0fb:f104::/48",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -42682,6 +42724,12 @@
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "sa-west-1"
+  },
+  {
+    "ip_address": "2600:f0f0:5::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-west-2"
   },
   {
     "ip_address": "2600:f0f0:5513::/48",
@@ -43042,6 +43090,12 @@
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "ap-southeast-1"
+  },
+  {
+    "ip_address": "2600:f0f1:4440::/42",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-northeast-1"
   },
   {
     "ip_address": "2a05:d038:8000::/40",
@@ -45262,6 +45316,12 @@
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "ap-southeast-1"
+  },
+  {
+    "ip_address": "2600:f0f1:4340::/42",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-northeast-3"
   },
   {
     "ip_address": "2600:f0f2:7016::/48",

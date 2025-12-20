@@ -129,6 +129,7 @@ ip_address,ip_type,service,region
 43.199.26.128/30,IPv4,KINESIS_VIDEO_STREAMS,ap-east-1
 52.119.248.0/24,IPv4,DYNAMODB,ap-east-1
 35.71.107.0/24,IPv4,DYNAMODB,ap-east-1
+2600:f0f1:4280::/42,IPv6,AMAZON,ap-east-1
 2406:daef:e000::/40,IPv6,AMAZON,ap-east-1
 2406:daf8:e000::/40,IPv6,AMAZON,ap-east-1
 2406:da30:e000::/40,IPv6,AMAZON,ap-east-1
@@ -173,6 +174,7 @@ ip_address,ip_type,service,region
 2406:daa0:e000::/40,IPv6,S3,ap-east-1
 2406:daf0:e000::/40,IPv6,S3,ap-east-1
 2406:dafa:e000::/40,IPv6,S3,ap-east-1
+2600:f0f1:4280::/42,IPv6,EC2,ap-east-1
 2406:daef:e000::/40,IPv6,EC2,ap-east-1
 2406:da30:e000::/40,IPv6,EC2,ap-east-1
 2406:da61:e000::/40,IPv6,EC2,ap-east-1

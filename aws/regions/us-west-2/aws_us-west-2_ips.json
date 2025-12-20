@@ -4950,6 +4950,12 @@
     "region": "us-west-2"
   },
   {
+    "ip_address": "2600:f0f0:5::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-west-2"
+  },
+  {
     "ip_address": "2600:f0f0:5513::/48",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -6463,6 +6469,12 @@
   },
   {
     "ip_address": "2600:f0f0:5510::/48",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "2600:f0f0:5::/48",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "us-west-2"
