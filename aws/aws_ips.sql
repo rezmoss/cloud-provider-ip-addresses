@@ -948,6 +948,7 @@ INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('3.5.196.0/22', 'IPv4');
 INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('15.230.39.194/31', 'IPv4');
 INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('15.230.152.0/24', 'IPv4');
 INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('16.67.0.0/16', 'IPv4');
+INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('32.200.0.0/13', 'IPv4');
 INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('35.50.236.0/24', 'IPv4');
 INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('35.96.1.0/24', 'IPv4');
 INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('35.96.41.0/24', 'IPv4');
@@ -1199,6 +1200,7 @@ INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('15.230.39.4/31', 'IPv4'
 INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('15.230.39.30/31', 'IPv4');
 INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('15.251.0.28/32', 'IPv4');
 INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('18.184.0.0/15', 'IPv4');
+INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('32.192.0.0/13', 'IPv4');
 INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('35.55.26.0/24', 'IPv4');
 INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('40.168.226.0/24', 'IPv4');
 INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('52.93.125.43/32', 'IPv4');
@@ -1246,7 +1248,6 @@ INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('15.181.254.0/24', 'IPv4
 INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('15.230.72.192/26', 'IPv4');
 INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('15.230.111.0/24', 'IPv4');
 INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('18.60.0.0/15', 'IPv4');
-INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('32.192.0.0/12', 'IPv4');
 INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('52.57.0.0/16', 'IPv4');
 INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('52.93.126.123/32', 'IPv4');
 INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('52.94.124.0/22', 'IPv4');
