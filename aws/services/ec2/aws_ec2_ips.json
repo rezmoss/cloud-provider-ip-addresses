@@ -4560,6 +4560,12 @@
     "region": "us-west-2"
   },
   {
+    "ip_address": "40.168.224.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "GLOBAL"
+  },
+  {
     "ip_address": "51.0.252.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
