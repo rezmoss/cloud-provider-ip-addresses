@@ -26070,6 +26070,12 @@
     "region": "ap-south-2"
   },
   {
+    "ip_address": "35.97.130.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-west-1"
+  },
+  {
     "ip_address": "52.46.80.0/21",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -40672,6 +40678,12 @@
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "us-west-2"
+  },
+  {
+    "ip_address": "2631:0:4::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eu-west-1"
   },
   {
     "ip_address": "2a05:d038:e000::/40",
