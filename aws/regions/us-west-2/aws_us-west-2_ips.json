@@ -576,6 +576,12 @@
     "region": "us-west-2"
   },
   {
+    "ip_address": "35.97.192.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-west-2"
+  },
+  {
     "ip_address": "44.224.0.0/11",
     "ip_type": "IPv4",
     "service": "AMAZON",
