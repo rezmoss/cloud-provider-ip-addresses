@@ -68160,6 +68160,12 @@
     "region": "us-west-2"
   },
   {
+    "ip_address": "2631:0:1800::/39",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-west-2"
+  },
+  {
     "ip_address": "2406:daa0:1000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
