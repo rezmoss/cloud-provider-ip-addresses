@@ -1182,6 +1182,12 @@
     "region": "ca-central-1"
   },
   {
+    "ip_address": "2600:f0f1:4580::/42",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ca-central-1"
+  },
+  {
     "ip_address": "2600:1fea:1000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -1543,6 +1549,12 @@
   },
   {
     "ip_address": "2606:7b40:1b0e::/56",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ca-central-1"
+  },
+  {
+    "ip_address": "2600:f0f1:4580::/42",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "ca-central-1"
