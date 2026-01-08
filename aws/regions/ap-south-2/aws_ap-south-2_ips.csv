@@ -31,6 +31,7 @@ ip_address,ip_type,service,region
 13.248.64.0/24,IPv4,AMAZON,ap-south-2
 3.2.90.0/24,IPv4,AMAZON,ap-south-2
 35.71.108.0/24,IPv4,AMAZON,ap-south-2
+1.178.23.0/24,IPv4,AMAZON,ap-south-2
 16.113.0.0/16,IPv4,AMAZON,ap-south-2
 104.255.59.125/32,IPv4,AMAZON,ap-south-2
 99.87.8.0/21,IPv4,AMAZON,ap-south-2
@@ -67,6 +68,7 @@ ip_address,ip_type,service,region
 98.130.0.0/16,IPv4,EC2,ap-south-2
 3.2.90.0/24,IPv4,EC2,ap-south-2
 35.71.108.0/24,IPv4,EC2,ap-south-2
+1.178.23.0/24,IPv4,EC2,ap-south-2
 15.177.94.0/24,IPv4,ROUTE53_HEALTHCHECKS_PUBLISHING,ap-south-2
 18.60.78.240/28,IPv4,CODEBUILD,ap-south-2
 18.60.65.0/24,IPv4,API_GATEWAY,ap-south-2
@@ -91,6 +93,7 @@ ip_address,ip_type,service,region
 2406:daf4:b000::/40,IPv6,AMAZON,ap-south-2
 2606:7b40:1b06:c000::/56,IPv6,AMAZON,ap-south-2
 2406:daf8:b000::/40,IPv6,AMAZON,ap-south-2
+2600:f0f1:8d::/48,IPv6,AMAZON,ap-south-2
 2406:daf0:b000::/40,IPv6,AMAZON,ap-south-2
 2406:daef:b000::/40,IPv6,AMAZON,ap-south-2
 2406:da60:b000::/40,IPv6,AMAZON,ap-south-2
@@ -132,6 +135,7 @@ ip_address,ip_type,service,region
 2406:dabb:b000::/40,IPv6,EC2,ap-south-2
 2406:daf4:b000::/40,IPv6,EC2,ap-south-2
 2606:7b40:1b06:c000::/56,IPv6,EC2,ap-south-2
+2600:f0f1:8d::/48,IPv6,EC2,ap-south-2
 2406:daf0:b000::/40,IPv6,EC2,ap-south-2
 2406:daef:b000::/40,IPv6,EC2,ap-south-2
 2406:da60:b000::/40,IPv6,EC2,ap-south-2

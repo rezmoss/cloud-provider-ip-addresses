@@ -59,6 +59,8 @@ ip_address,ip_type,service,region
 18.99.112.0/20,IPv4,EC2,us-gov-east-1
 18.254.0.0/16,IPv4,EC2,us-gov-east-1
 3.4.24.0/21,IPv4,EC2,us-gov-east-1
+3.4.24.0/23,IPv4,ROUTE53,us-gov-east-1
+3.4.26.0/23,IPv4,ROUTE53,us-gov-east-1
 18.252.145.168/29,IPv4,CODEBUILD,us-gov-east-1
 18.252.4.16/29,IPv4,CODEBUILD,us-gov-east-1
 18.252.56.0/23,IPv4,API_GATEWAY,us-gov-east-1

@@ -360,6 +360,18 @@
     "region": "us-gov-east-1"
   },
   {
+    "ip_address": "3.4.24.0/23",
+    "ip_type": "IPv4",
+    "service": "ROUTE53",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "3.4.26.0/23",
+    "ip_type": "IPv4",
+    "service": "ROUTE53",
+    "region": "us-gov-east-1"
+  },
+  {
     "ip_address": "18.252.145.168/29",
     "ip_type": "IPv4",
     "service": "CODEBUILD",

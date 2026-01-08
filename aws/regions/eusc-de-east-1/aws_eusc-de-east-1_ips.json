@@ -54,6 +54,12 @@
     "region": "eusc-de-east-1"
   },
   {
+    "ip_address": "51.0.140.0/23",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eusc-de-east-1"
+  },
+  {
     "ip_address": "51.0.0.0/20",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -78,7 +84,25 @@
     "region": "eusc-de-east-1"
   },
   {
+    "ip_address": "51.0.142.0/23",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eusc-de-east-1"
+  },
+  {
     "ip_address": "51.0.29.128/28",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "51.0.136.0/23",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "51.0.138.0/23",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "eusc-de-east-1"
@@ -210,6 +234,12 @@
     "region": "eusc-de-east-1"
   },
   {
+    "ip_address": "51.0.140.0/23",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "eusc-de-east-1"
+  },
+  {
     "ip_address": "51.224.0.0/15",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -222,7 +252,25 @@
     "region": "eusc-de-east-1"
   },
   {
+    "ip_address": "51.0.142.0/23",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "eusc-de-east-1"
+  },
+  {
     "ip_address": "51.0.29.128/28",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "51.0.136.0/23",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "51.0.138.0/23",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "eusc-de-east-1"
@@ -237,6 +285,30 @@
     "ip_address": "83.118.240.0/22",
     "ip_type": "IPv4",
     "service": "EC2",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "51.0.140.0/23",
+    "ip_type": "IPv4",
+    "service": "ROUTE53",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "51.0.142.0/23",
+    "ip_type": "IPv4",
+    "service": "ROUTE53",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "51.0.136.0/23",
+    "ip_type": "IPv4",
+    "service": "ROUTE53",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "51.0.138.0/23",
+    "ip_type": "IPv4",
+    "service": "ROUTE53",
     "region": "eusc-de-east-1"
   },
   {
@@ -573,6 +645,30 @@
     "ip_address": "2001:3fc2:8000::/36",
     "ip_type": "IPv6",
     "service": "EC2",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2001:3fc6:8::/47",
+    "ip_type": "IPv6",
+    "service": "ROUTE53",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2001:3fc6:a::/47",
+    "ip_type": "IPv6",
+    "service": "ROUTE53",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2001:3fc6:c::/47",
+    "ip_type": "IPv6",
+    "service": "ROUTE53",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2001:3fc6:e::/47",
+    "ip_type": "IPv6",
+    "service": "ROUTE53",
     "region": "eusc-de-east-1"
   }
 ]

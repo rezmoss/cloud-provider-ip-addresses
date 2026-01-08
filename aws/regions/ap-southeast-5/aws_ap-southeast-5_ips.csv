@@ -27,6 +27,7 @@ ip_address,ip_type,service,region
 56.70.0.0/16,IPv4,AMAZON,ap-southeast-5
 94.38.0.0/15,IPv4,AMAZON,ap-southeast-5
 76.223.170.32/28,IPv4,AMAZON,ap-southeast-5
+1.178.102.0/24,IPv4,AMAZON,ap-southeast-5
 104.255.59.200/32,IPv4,AMAZON,ap-southeast-5
 56.68.0.0/17,IPv4,AMAZON,ap-southeast-5
 104.255.61.0/32,IPv4,AMAZON,ap-southeast-5
@@ -59,6 +60,7 @@ ip_address,ip_type,service,region
 3.2.91.0/24,IPv4,EC2,ap-southeast-5
 35.71.124.0/24,IPv4,EC2,ap-southeast-5
 56.70.0.0/16,IPv4,EC2,ap-southeast-5
+1.178.102.0/24,IPv4,EC2,ap-southeast-5
 56.68.0.0/17,IPv4,EC2,ap-southeast-5
 216.244.1.0/24,IPv4,EC2,ap-southeast-5
 15.177.95.0/24,IPv4,ROUTE53_HEALTHCHECKS_PUBLISHING,ap-southeast-5
@@ -76,6 +78,7 @@ ip_address,ip_type,service,region
 2406:daef:800::/40,IPv6,AMAZON,ap-southeast-5
 2406:dafc:800::/40,IPv6,AMAZON,ap-southeast-5
 2406:da61:800::/40,IPv6,AMAZON,ap-southeast-5
+2600:f0f1:84::/48,IPv6,AMAZON,ap-southeast-5
 2406:daf2:800::/40,IPv6,AMAZON,ap-southeast-5
 2406:da38:800::/40,IPv6,AMAZON,ap-southeast-5
 2406:dab9:800::/40,IPv6,AMAZON,ap-southeast-5
@@ -109,6 +112,7 @@ ip_address,ip_type,service,region
 2600:f0f0:611b::/48,IPv6,EC2,ap-southeast-5
 2406:daef:800::/40,IPv6,EC2,ap-southeast-5
 2406:da61:800::/40,IPv6,EC2,ap-southeast-5
+2600:f0f1:84::/48,IPv6,EC2,ap-southeast-5
 2406:daf2:800::/40,IPv6,EC2,ap-southeast-5
 2406:da38:800::/40,IPv6,EC2,ap-southeast-5
 2406:dab9:800::/40,IPv6,EC2,ap-southeast-5

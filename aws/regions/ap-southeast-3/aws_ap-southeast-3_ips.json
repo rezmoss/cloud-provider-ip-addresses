@@ -126,6 +126,12 @@
     "region": "ap-southeast-3"
   },
   {
+    "ip_address": "1.178.19.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-southeast-3"
+  },
+  {
     "ip_address": "104.255.59.101/32",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -456,6 +462,12 @@
     "region": "ap-southeast-3"
   },
   {
+    "ip_address": "1.178.19.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "ap-southeast-3"
+  },
+  {
     "ip_address": "43.218.0.0/16",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -690,6 +702,12 @@
     "region": "ap-southeast-3"
   },
   {
+    "ip_address": "2600:f0f1:89::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-southeast-3"
+  },
+  {
     "ip_address": "2400:6500:0:7800::/56",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -913,6 +931,12 @@
   },
   {
     "ip_address": "2406:da29::/36",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-southeast-3"
+  },
+  {
+    "ip_address": "2600:f0f1:89::/48",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "ap-southeast-3"
