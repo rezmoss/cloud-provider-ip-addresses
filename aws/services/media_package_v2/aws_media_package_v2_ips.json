@@ -96,6 +96,18 @@
     "region": "ap-southeast-4"
   },
   {
+    "ip_address": "56.68.33.56/29",
+    "ip_type": "IPv4",
+    "service": "MEDIA_PACKAGE_V2",
+    "region": "ap-southeast-5"
+  },
+  {
+    "ip_address": "56.68.33.64/29",
+    "ip_type": "IPv4",
+    "service": "MEDIA_PACKAGE_V2",
+    "region": "ap-southeast-5"
+  },
+  {
     "ip_address": "15.156.152.184/29",
     "ip_type": "IPv4",
     "service": "MEDIA_PACKAGE_V2",

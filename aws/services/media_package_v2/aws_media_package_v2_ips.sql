@@ -22,6 +22,8 @@ INSERT INTO `aws_media_package_v2_ips` (`ip_address`, `ip_type`) VALUES ('3.27.1
 INSERT INTO `aws_media_package_v2_ips` (`ip_address`, `ip_type`) VALUES ('3.27.127.184/29', 'IPv4');
 INSERT INTO `aws_media_package_v2_ips` (`ip_address`, `ip_type`) VALUES ('16.51.86.16/29', 'IPv4');
 INSERT INTO `aws_media_package_v2_ips` (`ip_address`, `ip_type`) VALUES ('16.51.86.8/29', 'IPv4');
+INSERT INTO `aws_media_package_v2_ips` (`ip_address`, `ip_type`) VALUES ('56.68.33.56/29', 'IPv4');
+INSERT INTO `aws_media_package_v2_ips` (`ip_address`, `ip_type`) VALUES ('56.68.33.64/29', 'IPv4');
 INSERT INTO `aws_media_package_v2_ips` (`ip_address`, `ip_type`) VALUES ('15.156.152.184/29', 'IPv4');
 INSERT INTO `aws_media_package_v2_ips` (`ip_address`, `ip_type`) VALUES ('15.156.152.192/29', 'IPv4');
 INSERT INTO `aws_media_package_v2_ips` (`ip_address`, `ip_type`) VALUES ('3.77.79.224/29', 'IPv4');
