@@ -155,6 +155,7 @@ INSERT INTO `aws_eu-south-1_ips` (`ip_address`, `ip_type`) VALUES ('35.152.74.14
 INSERT INTO `aws_eu-south-1_ips` (`ip_address`, `ip_type`) VALUES ('35.152.74.160/28', 'IPv4');
 INSERT INTO `aws_eu-south-1_ips` (`ip_address`, `ip_type`) VALUES ('35.152.232.0/22', 'IPv4');
 INSERT INTO `aws_eu-south-1_ips` (`ip_address`, `ip_type`) VALUES ('52.95.224.0/24', 'IPv4');
+INSERT INTO `aws_eu-south-1_ips` (`ip_address`, `ip_type`) VALUES ('16.22.0.0/16', 'IPv4');
 INSERT INTO `aws_eu-south-1_ips` (`ip_address`, `ip_type`) VALUES ('18.102.0.0/16', 'IPv4');
 INSERT INTO `aws_eu-south-1_ips` (`ip_address`, `ip_type`) VALUES ('99.77.159.0/24', 'IPv4');
 INSERT INTO `aws_eu-south-1_ips` (`ip_address`, `ip_type`) VALUES ('35.54.52.0/24', 'IPv4');

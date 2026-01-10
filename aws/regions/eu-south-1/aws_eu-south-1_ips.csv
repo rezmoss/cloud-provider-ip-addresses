@@ -148,6 +148,7 @@ ip_address,ip_type,service,region
 35.152.74.160/28,IPv4,S3,eu-south-1
 35.152.232.0/22,IPv4,WORKSPACES_GATEWAYS,eu-south-1
 52.95.224.0/24,IPv4,EC2,eu-south-1
+16.22.0.0/16,IPv4,EC2,eu-south-1
 18.102.0.0/16,IPv4,EC2,eu-south-1
 99.77.159.0/24,IPv4,EC2,eu-south-1
 35.54.52.0/24,IPv4,EC2,eu-south-1

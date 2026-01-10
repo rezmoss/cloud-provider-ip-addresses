@@ -69,6 +69,7 @@ ip_address,ip_type,service,region
 3.2.90.0/24,IPv4,EC2,ap-south-2
 35.71.108.0/24,IPv4,EC2,ap-south-2
 1.178.23.0/24,IPv4,EC2,ap-south-2
+16.113.0.0/16,IPv4,EC2,ap-south-2
 15.177.94.0/24,IPv4,ROUTE53_HEALTHCHECKS_PUBLISHING,ap-south-2
 18.60.78.240/28,IPv4,CODEBUILD,ap-south-2
 18.60.65.0/24,IPv4,API_GATEWAY,ap-south-2

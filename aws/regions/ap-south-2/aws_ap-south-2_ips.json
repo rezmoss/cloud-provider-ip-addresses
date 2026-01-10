@@ -420,6 +420,12 @@
     "region": "ap-south-2"
   },
   {
+    "ip_address": "16.113.0.0/16",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "ap-south-2"
+  },
+  {
     "ip_address": "15.177.94.0/24",
     "ip_type": "IPv4",
     "service": "ROUTE53_HEALTHCHECKS_PUBLISHING",
