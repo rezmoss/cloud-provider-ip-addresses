@@ -1,0 +1,122 @@
+[
+  {
+    "ip_address": "129.91.0.0/23",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "sa-santiago-1"
+  },
+  {
+    "ip_address": "129.91.2.0/24",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "sa-santiago-1"
+  },
+  {
+    "ip_address": "129.151.96.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "sa-santiago-1"
+  },
+  {
+    "ip_address": "136.248.240.0/21",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "sa-santiago-1"
+  },
+  {
+    "ip_address": "144.22.32.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "sa-santiago-1"
+  },
+  {
+    "ip_address": "146.235.240.0/21",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "sa-santiago-1"
+  },
+  {
+    "ip_address": "148.116.112.0/22",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "sa-santiago-1"
+  },
+  {
+    "ip_address": "159.112.128.0/20",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "sa-santiago-1"
+  },
+  {
+    "ip_address": "159.112.144.0/21",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "sa-santiago-1"
+  },
+  {
+    "ip_address": "161.153.192.0/20",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "sa-santiago-1"
+  },
+  {
+    "ip_address": "161.153.216.0/21",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "sa-santiago-1"
+  },
+  {
+    "ip_address": "194.164.248.0/21",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "sa-santiago-1"
+  },
+  {
+    "ip_address": "64.181.132.0/24",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "sa-santiago-1"
+  },
+  {
+    "ip_address": "129.148.152.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "sa-santiago-1"
+  },
+  {
+    "ip_address": "129.149.32.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "sa-santiago-1"
+  },
+  {
+    "ip_address": "129.149.36.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "sa-santiago-1"
+  },
+  {
+    "ip_address": "134.70.152.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN,OBJECT_STORAGE",
+    "region": "sa-santiago-1"
+  },
+  {
+    "ip_address": "140.91.66.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "sa-santiago-1"
+  },
+  {
+    "ip_address": "140.204.86.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "sa-santiago-1"
+  },
+  {
+    "ip_address": "168.129.244.0/24",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "sa-santiago-1"
+  }
+]

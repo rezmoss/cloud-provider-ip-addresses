@@ -1,0 +1,10 @@
+ip_address,ip_type,service,region
+80.225.184.0/21,IPv4,OCI,eu-madrid-3
+80.225.160.0/26,IPv4,OSN,eu-madrid-3
+80.225.160.128/25,IPv4,OSN,eu-madrid-3
+80.225.161.192/26,IPv4,OSN,eu-madrid-3
+80.225.162.0/23,IPv4,OSN,eu-madrid-3
+80.225.164.0/22,IPv4,OSN,eu-madrid-3
+80.225.168.0/22,IPv4,OSN,eu-madrid-3
+80.225.176.0/23,IPv4,OSN,eu-madrid-3
+80.225.178.128/25,IPv4,OSN,eu-madrid-3

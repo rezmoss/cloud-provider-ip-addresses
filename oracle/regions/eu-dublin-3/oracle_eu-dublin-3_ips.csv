@@ -1,0 +1,11 @@
+ip_address,ip_type,service,region
+134.98.192.0/19,IPv4,OCI,eu-dublin-3
+134.70.218.0/23,IPv4,"OSN,OBJECT_STORAGE",eu-dublin-3
+134.70.220.0/23,IPv4,"OSN,OBJECT_STORAGE",eu-dublin-3
+134.98.248.0/26,IPv4,OSN,eu-dublin-3
+134.98.248.128/25,IPv4,OSN,eu-dublin-3
+134.98.249.192/26,IPv4,OSN,eu-dublin-3
+134.98.250.0/23,IPv4,OSN,eu-dublin-3
+134.98.252.0/22,IPv4,OSN,eu-dublin-3
+140.91.102.0/23,IPv4,OSN,eu-dublin-3
+140.204.154.128/25,IPv4,OSN,eu-dublin-3

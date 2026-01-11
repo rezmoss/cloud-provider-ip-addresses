@@ -1,0 +1,56 @@
+[
+  {
+    "ip_address": "168.129.128.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "us-desmoines-1"
+  },
+  {
+    "ip_address": "168.129.184.0/26",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-desmoines-1"
+  },
+  {
+    "ip_address": "168.129.184.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-desmoines-1"
+  },
+  {
+    "ip_address": "168.129.185.192/26",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-desmoines-1"
+  },
+  {
+    "ip_address": "168.129.186.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-desmoines-1"
+  },
+  {
+    "ip_address": "168.129.188.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-desmoines-1"
+  },
+  {
+    "ip_address": "168.129.224.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-desmoines-1"
+  },
+  {
+    "ip_address": "168.129.232.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-desmoines-1"
+  },
+  {
+    "ip_address": "168.129.234.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-desmoines-1"
+  }
+]

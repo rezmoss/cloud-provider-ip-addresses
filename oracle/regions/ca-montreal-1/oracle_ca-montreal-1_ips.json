@@ -1,0 +1,86 @@
+[
+  {
+    "ip_address": "68.233.120.0/21",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ca-montreal-1"
+  },
+  {
+    "ip_address": "148.116.64.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ca-montreal-1"
+  },
+  {
+    "ip_address": "151.145.32.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ca-montreal-1"
+  },
+  {
+    "ip_address": "155.248.224.0/20",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ca-montreal-1"
+  },
+  {
+    "ip_address": "168.138.64.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ca-montreal-1"
+  },
+  {
+    "ip_address": "170.9.32.0/20",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ca-montreal-1"
+  },
+  {
+    "ip_address": "204.216.104.0/21",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ca-montreal-1"
+  },
+  {
+    "ip_address": "38.104.155.92/31",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ca-montreal-1"
+  },
+  {
+    "ip_address": "134.70.116.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN,OBJECT_STORAGE",
+    "region": "ca-montreal-1"
+  },
+  {
+    "ip_address": "140.91.50.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ca-montreal-1"
+  },
+  {
+    "ip_address": "140.204.46.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ca-montreal-1"
+  },
+  {
+    "ip_address": "168.129.240.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ca-montreal-1"
+  },
+  {
+    "ip_address": "192.29.80.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ca-montreal-1"
+  },
+  {
+    "ip_address": "192.29.88.0/21",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ca-montreal-1"
+  }
+]

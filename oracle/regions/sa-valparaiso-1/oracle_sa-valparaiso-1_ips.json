@@ -1,0 +1,68 @@
+[
+  {
+    "ip_address": "147.224.224.0/20",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "sa-valparaiso-1"
+  },
+  {
+    "ip_address": "148.116.104.0/21",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "sa-valparaiso-1"
+  },
+  {
+    "ip_address": "149.130.224.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "sa-valparaiso-1"
+  },
+  {
+    "ip_address": "165.1.120.0/21",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "sa-valparaiso-1"
+  },
+  {
+    "ip_address": "168.129.176.0/22",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "sa-valparaiso-1"
+  },
+  {
+    "ip_address": "165.1.96.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "sa-valparaiso-1"
+  },
+  {
+    "ip_address": "165.1.100.0/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "sa-valparaiso-1"
+  },
+  {
+    "ip_address": "165.1.104.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "sa-valparaiso-1"
+  },
+  {
+    "ip_address": "165.1.112.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "sa-valparaiso-1"
+  },
+  {
+    "ip_address": "165.1.114.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "sa-valparaiso-1"
+  },
+  {
+    "ip_address": "168.129.180.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "sa-valparaiso-1"
+  }
+]

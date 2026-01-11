@@ -1,0 +1,15 @@
+ip_address,ip_type,service,region
+129.151.64.0/19,IPv4,OCI,uk-cardiff-1
+134.65.56.0/21,IPv4,OCI,uk-cardiff-1
+144.24.224.0/21,IPv4,OCI,uk-cardiff-1
+129.148.200.0/21,IPv4,OSN,uk-cardiff-1
+129.149.16.0/23,IPv4,OSN,uk-cardiff-1
+129.149.20.0/23,IPv4,OSN,uk-cardiff-1
+129.149.22.0/25,IPv4,OSN,uk-cardiff-1
+129.149.22.192/26,IPv4,OSN,uk-cardiff-1
+129.149.23.0/24,IPv4,OSN,uk-cardiff-1
+130.110.24.0/22,IPv4,OSN,uk-cardiff-1
+134.70.136.0/22,IPv4,"OSN,OBJECT_STORAGE",uk-cardiff-1
+140.91.60.0/23,IPv4,OSN,uk-cardiff-1
+140.204.70.128/25,IPv4,OSN,uk-cardiff-1
+209.17.60.0/22,IPv4,OSN,uk-cardiff-1

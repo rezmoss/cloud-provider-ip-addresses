@@ -1,0 +1,56 @@
+[
+  {
+    "ip_address": "129.151.128.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "me-abudhabi-1"
+  },
+  {
+    "ip_address": "129.149.48.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "me-abudhabi-1"
+  },
+  {
+    "ip_address": "129.149.52.0/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "me-abudhabi-1"
+  },
+  {
+    "ip_address": "134.70.144.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN,OBJECT_STORAGE",
+    "region": "me-abudhabi-1"
+  },
+  {
+    "ip_address": "140.91.64.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "me-abudhabi-1"
+  },
+  {
+    "ip_address": "140.204.80.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "me-abudhabi-1"
+  },
+  {
+    "ip_address": "141.253.216.0/21",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "me-abudhabi-1"
+  },
+  {
+    "ip_address": "145.241.178.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "me-abudhabi-1"
+  },
+  {
+    "ip_address": "207.127.72.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "me-abudhabi-1"
+  }
+]

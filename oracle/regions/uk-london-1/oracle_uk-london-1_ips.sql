@@ -1,0 +1,49 @@
+-- SQL script to create table `oracle_uk-london-1_ips` and insert IP addresses
+
+CREATE TABLE IF NOT EXISTS `oracle_uk-london-1_ips` (
+  `ip_address` VARCHAR(45) NOT NULL,
+  `ip_type` VARCHAR(10) NOT NULL,
+  PRIMARY KEY (`ip_address`)
+);
+
+INSERT INTO `oracle_uk-london-1_ips` (`ip_address`, `ip_type`) VALUES ('79.72.64.0/19', 'IPv4');
+INSERT INTO `oracle_uk-london-1_ips` (`ip_address`, `ip_type`) VALUES ('84.8.144.0/20', 'IPv4');
+INSERT INTO `oracle_uk-london-1_ips` (`ip_address`, `ip_type`) VALUES ('129.156.0.0/20', 'IPv4');
+INSERT INTO `oracle_uk-london-1_ips` (`ip_address`, `ip_type`) VALUES ('130.110.32.0/19', 'IPv4');
+INSERT INTO `oracle_uk-london-1_ips` (`ip_address`, `ip_type`) VALUES ('130.162.160.0/19', 'IPv4');
+INSERT INTO `oracle_uk-london-1_ips` (`ip_address`, `ip_type`) VALUES ('132.145.8.0/21', 'IPv4');
+INSERT INTO `oracle_uk-london-1_ips` (`ip_address`, `ip_type`) VALUES ('132.145.16.0/20', 'IPv4');
+INSERT INTO `oracle_uk-london-1_ips` (`ip_address`, `ip_type`) VALUES ('132.145.32.0/19', 'IPv4');
+INSERT INTO `oracle_uk-london-1_ips` (`ip_address`, `ip_type`) VALUES ('132.145.64.0/20', 'IPv4');
+INSERT INTO `oracle_uk-london-1_ips` (`ip_address`, `ip_type`) VALUES ('132.226.128.0/21', 'IPv4');
+INSERT INTO `oracle_uk-london-1_ips` (`ip_address`, `ip_type`) VALUES ('132.226.208.0/21', 'IPv4');
+INSERT INTO `oracle_uk-london-1_ips` (`ip_address`, `ip_type`) VALUES ('140.238.64.0/18', 'IPv4');
+INSERT INTO `oracle_uk-london-1_ips` (`ip_address`, `ip_type`) VALUES ('141.144.32.0/19', 'IPv4');
+INSERT INTO `oracle_uk-london-1_ips` (`ip_address`, `ip_type`) VALUES ('141.144.84.0/22', 'IPv4');
+INSERT INTO `oracle_uk-london-1_ips` (`ip_address`, `ip_type`) VALUES ('141.144.96.0/19', 'IPv4');
+INSERT INTO `oracle_uk-london-1_ips` (`ip_address`, `ip_type`) VALUES ('141.145.40.0/22', 'IPv4');
+INSERT INTO `oracle_uk-london-1_ips` (`ip_address`, `ip_type`) VALUES ('141.145.112.0/20', 'IPv4');
+INSERT INTO `oracle_uk-london-1_ips` (`ip_address`, `ip_type`) VALUES ('141.147.64.0/18', 'IPv4');
+INSERT INTO `oracle_uk-london-1_ips` (`ip_address`, `ip_type`) VALUES ('143.47.224.0/19', 'IPv4');
+INSERT INTO `oracle_uk-london-1_ips` (`ip_address`, `ip_type`) VALUES ('144.21.48.0/20', 'IPv4');
+INSERT INTO `oracle_uk-london-1_ips` (`ip_address`, `ip_type`) VALUES ('144.21.64.0/18', 'IPv4');
+INSERT INTO `oracle_uk-london-1_ips` (`ip_address`, `ip_type`) VALUES ('145.241.192.0/18', 'IPv4');
+INSERT INTO `oracle_uk-london-1_ips` (`ip_address`, `ip_type`) VALUES ('150.230.112.0/20', 'IPv4');
+INSERT INTO `oracle_uk-london-1_ips` (`ip_address`, `ip_type`) VALUES ('152.67.128.0/19', 'IPv4');
+INSERT INTO `oracle_uk-london-1_ips` (`ip_address`, `ip_type`) VALUES ('193.123.176.0/20', 'IPv4');
+INSERT INTO `oracle_uk-london-1_ips` (`ip_address`, `ip_type`) VALUES ('207.135.20.0/23', 'IPv4');
+INSERT INTO `oracle_uk-london-1_ips` (`ip_address`, `ip_type`) VALUES ('130.35.112.0/22', 'IPv4');
+INSERT INTO `oracle_uk-london-1_ips` (`ip_address`, `ip_type`) VALUES ('130.35.116.0/25', 'IPv4');
+INSERT INTO `oracle_uk-london-1_ips` (`ip_address`, `ip_type`) VALUES ('132.145.0.128/25', 'IPv4');
+INSERT INTO `oracle_uk-london-1_ips` (`ip_address`, `ip_type`) VALUES ('132.145.2.128/25', 'IPv4');
+INSERT INTO `oracle_uk-london-1_ips` (`ip_address`, `ip_type`) VALUES ('132.145.4.128/25', 'IPv4');
+INSERT INTO `oracle_uk-london-1_ips` (`ip_address`, `ip_type`) VALUES ('134.70.56.0/21', 'IPv4');
+INSERT INTO `oracle_uk-london-1_ips` (`ip_address`, `ip_type`) VALUES ('134.70.64.0/22', 'IPv4');
+INSERT INTO `oracle_uk-london-1_ips` (`ip_address`, `ip_type`) VALUES ('138.1.16.0/22', 'IPv4');
+INSERT INTO `oracle_uk-london-1_ips` (`ip_address`, `ip_type`) VALUES ('138.1.80.0/22', 'IPv4');
+INSERT INTO `oracle_uk-london-1_ips` (`ip_address`, `ip_type`) VALUES ('140.91.22.0/23', 'IPv4');
+INSERT INTO `oracle_uk-london-1_ips` (`ip_address`, `ip_type`) VALUES ('140.91.24.0/22', 'IPv4');
+INSERT INTO `oracle_uk-london-1_ips` (`ip_address`, `ip_type`) VALUES ('145.241.144.0/21', 'IPv4');
+INSERT INTO `oracle_uk-london-1_ips` (`ip_address`, `ip_type`) VALUES ('147.154.224.0/20', 'IPv4');
+INSERT INTO `oracle_uk-london-1_ips` (`ip_address`, `ip_type`) VALUES ('147.154.240.0/21', 'IPv4');
+INSERT INTO `oracle_uk-london-1_ips` (`ip_address`, `ip_type`) VALUES ('147.154.255.128/25', 'IPv4');

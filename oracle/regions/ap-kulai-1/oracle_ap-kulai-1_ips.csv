@@ -1,0 +1,11 @@
+ip_address,ip_type,service,region
+170.9.64.0/19,IPv4,OCI,ap-kulai-1
+134.70.214.0/23,IPv4,"OSN,OBJECT_STORAGE",ap-kulai-1
+134.70.216.0/23,IPv4,"OSN,OBJECT_STORAGE",ap-kulai-1
+136.248.232.0/26,IPv4,OSN,ap-kulai-1
+136.248.232.128/25,IPv4,OSN,ap-kulai-1
+136.248.233.192/26,IPv4,OSN,ap-kulai-1
+136.248.234.0/23,IPv4,OSN,ap-kulai-1
+136.248.236.0/22,IPv4,OSN,ap-kulai-1
+140.91.100.0/23,IPv4,OSN,ap-kulai-1
+140.204.150.128/25,IPv4,OSN,ap-kulai-1

@@ -1,0 +1,200 @@
+[
+  {
+    "ip_address": "84.235.160.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "eu-amsterdam-1"
+  },
+  {
+    "ip_address": "92.5.192.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "eu-amsterdam-1"
+  },
+  {
+    "ip_address": "92.5.224.0/20",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "eu-amsterdam-1"
+  },
+  {
+    "ip_address": "134.98.128.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "eu-amsterdam-1"
+  },
+  {
+    "ip_address": "140.204.84.0/23",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "eu-amsterdam-1"
+  },
+  {
+    "ip_address": "141.144.192.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "eu-amsterdam-1"
+  },
+  {
+    "ip_address": "141.148.224.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "eu-amsterdam-1"
+  },
+  {
+    "ip_address": "143.47.176.0/20",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "eu-amsterdam-1"
+  },
+  {
+    "ip_address": "144.21.32.0/20",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "eu-amsterdam-1"
+  },
+  {
+    "ip_address": "150.230.20.0/22",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "eu-amsterdam-1"
+  },
+  {
+    "ip_address": "152.70.48.0/20",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "eu-amsterdam-1"
+  },
+  {
+    "ip_address": "158.101.192.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "eu-amsterdam-1"
+  },
+  {
+    "ip_address": "158.178.144.0/20",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "eu-amsterdam-1"
+  },
+  {
+    "ip_address": "158.180.8.0/21",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "eu-amsterdam-1"
+  },
+  {
+    "ip_address": "168.138.120.0/22",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "eu-amsterdam-1"
+  },
+  {
+    "ip_address": "193.122.16.0/20",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "eu-amsterdam-1"
+  },
+  {
+    "ip_address": "193.123.32.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "eu-amsterdam-1"
+  },
+  {
+    "ip_address": "62.115.179.220/31",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-amsterdam-1"
+  },
+  {
+    "ip_address": "62.115.179.228/31",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-amsterdam-1"
+  },
+  {
+    "ip_address": "79.72.32.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-amsterdam-1"
+  },
+  {
+    "ip_address": "79.76.24.0/21",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-amsterdam-1"
+  },
+  {
+    "ip_address": "92.5.255.0/24",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-amsterdam-1"
+  },
+  {
+    "ip_address": "134.70.104.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN,OBJECT_STORAGE",
+    "region": "eu-amsterdam-1"
+  },
+  {
+    "ip_address": "140.83.44.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-amsterdam-1"
+  },
+  {
+    "ip_address": "140.91.44.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-amsterdam-1"
+  },
+  {
+    "ip_address": "140.204.36.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-amsterdam-1"
+  },
+  {
+    "ip_address": "140.204.38.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-amsterdam-1"
+  },
+  {
+    "ip_address": "140.204.40.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-amsterdam-1"
+  },
+  {
+    "ip_address": "158.178.220.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-amsterdam-1"
+  },
+  {
+    "ip_address": "192.29.192.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-amsterdam-1"
+  },
+  {
+    "ip_address": "192.29.200.0/21",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-amsterdam-1"
+  },
+  {
+    "ip_address": "213.19.198.156/31",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-amsterdam-1"
+  },
+  {
+    "ip_address": "213.19.198.164/31",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-amsterdam-1"
+  }
+]

@@ -1,0 +1,2726 @@
+[
+  {
+    "ip_address": "64.181.146.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "mx-monterrey-1"
+  },
+  {
+    "ip_address": "139.177.104.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "mx-monterrey-1"
+  },
+  {
+    "ip_address": "139.177.108.0/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "mx-monterrey-1"
+  },
+  {
+    "ip_address": "140.91.90.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "mx-monterrey-1"
+  },
+  {
+    "ip_address": "140.204.132.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "mx-monterrey-1"
+  },
+  {
+    "ip_address": "157.137.253.0/24",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "mx-monterrey-1"
+  },
+  {
+    "ip_address": "140.91.28.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ca-toronto-1"
+  },
+  {
+    "ip_address": "140.204.0.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ca-toronto-1"
+  },
+  {
+    "ip_address": "159.112.162.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ca-toronto-1"
+  },
+  {
+    "ip_address": "159.112.168.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ca-toronto-1"
+  },
+  {
+    "ip_address": "161.153.240.0/21",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ca-toronto-1"
+  },
+  {
+    "ip_address": "192.29.8.0/21",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ca-toronto-1"
+  },
+  {
+    "ip_address": "192.29.64.0/21",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ca-toronto-1"
+  },
+  {
+    "ip_address": "192.29.72.0/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ca-toronto-1"
+  },
+  {
+    "ip_address": "204.216.127.192/26",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ca-toronto-1"
+  },
+  {
+    "ip_address": "140.91.40.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-seoul-1"
+  },
+  {
+    "ip_address": "140.204.24.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-seoul-1"
+  },
+  {
+    "ip_address": "146.56.61.192/26",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-seoul-1"
+  },
+  {
+    "ip_address": "161.33.253.0/24",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-seoul-1"
+  },
+  {
+    "ip_address": "192.29.20.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-seoul-1"
+  },
+  {
+    "ip_address": "192.29.24.0/21",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-seoul-1"
+  },
+  {
+    "ip_address": "129.149.63.192/26",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-osaka-1"
+  },
+  {
+    "ip_address": "140.91.48.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-osaka-1"
+  },
+  {
+    "ip_address": "140.204.30.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-osaka-1"
+  },
+  {
+    "ip_address": "192.29.240.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-osaka-1"
+  },
+  {
+    "ip_address": "192.29.248.0/21",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-osaka-1"
+  },
+  {
+    "ip_address": "129.148.12.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "sa-saopaulo-1"
+  },
+  {
+    "ip_address": "140.91.34.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "sa-saopaulo-1"
+  },
+  {
+    "ip_address": "140.204.12.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "sa-saopaulo-1"
+  },
+  {
+    "ip_address": "157.137.128.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "sa-saopaulo-1"
+  },
+  {
+    "ip_address": "168.129.246.0/24",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "sa-saopaulo-1"
+  },
+  {
+    "ip_address": "192.29.128.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "sa-saopaulo-1"
+  },
+  {
+    "ip_address": "192.29.130.0/24",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "sa-saopaulo-1"
+  },
+  {
+    "ip_address": "192.29.134.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "sa-saopaulo-1"
+  },
+  {
+    "ip_address": "192.29.137.192/26",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "sa-saopaulo-1"
+  },
+  {
+    "ip_address": "192.29.138.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "sa-saopaulo-1"
+  },
+  {
+    "ip_address": "192.29.140.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "sa-saopaulo-1"
+  },
+  {
+    "ip_address": "64.181.136.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-chicago-1"
+  },
+  {
+    "ip_address": "64.181.140.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-chicago-1"
+  },
+  {
+    "ip_address": "64.181.150.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-chicago-1"
+  },
+  {
+    "ip_address": "131.186.8.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-chicago-1"
+  },
+  {
+    "ip_address": "131.186.12.0/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-chicago-1"
+  },
+  {
+    "ip_address": "140.91.84.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-chicago-1"
+  },
+  {
+    "ip_address": "140.91.88.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-chicago-1"
+  },
+  {
+    "ip_address": "140.204.122.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-chicago-1"
+  },
+  {
+    "ip_address": "140.204.124.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-chicago-1"
+  },
+  {
+    "ip_address": "140.204.126.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-chicago-1"
+  },
+  {
+    "ip_address": "146.235.252.64/26",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-chicago-1"
+  },
+  {
+    "ip_address": "146.235.252.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-chicago-1"
+  },
+  {
+    "ip_address": "146.235.253.0/24",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-chicago-1"
+  },
+  {
+    "ip_address": "146.235.254.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-chicago-1"
+  },
+  {
+    "ip_address": "194.164.156.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-chicago-1"
+  },
+  {
+    "ip_address": "129.148.160.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-sanjose-1"
+  },
+  {
+    "ip_address": "129.148.164.0/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-sanjose-1"
+  },
+  {
+    "ip_address": "129.148.166.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-sanjose-1"
+  },
+  {
+    "ip_address": "129.149.56.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-sanjose-1"
+  },
+  {
+    "ip_address": "140.91.54.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-sanjose-1"
+  },
+  {
+    "ip_address": "140.204.58.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-sanjose-1"
+  },
+  {
+    "ip_address": "146.235.251.192/26",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-sanjose-1"
+  },
+  {
+    "ip_address": "204.216.120.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-sanjose-1"
+  },
+  {
+    "ip_address": "129.148.128.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-hyderabad-1"
+  },
+  {
+    "ip_address": "129.148.132.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-hyderabad-1"
+  },
+  {
+    "ip_address": "129.148.168.0/21",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-hyderabad-1"
+  },
+  {
+    "ip_address": "134.185.76.0/24",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-hyderabad-1"
+  },
+  {
+    "ip_address": "140.91.52.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-hyderabad-1"
+  },
+  {
+    "ip_address": "140.204.50.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-hyderabad-1"
+  },
+  {
+    "ip_address": "204.216.119.192/26",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-hyderabad-1"
+  },
+  {
+    "ip_address": "38.104.155.92/31",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ca-montreal-1"
+  },
+  {
+    "ip_address": "140.91.50.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ca-montreal-1"
+  },
+  {
+    "ip_address": "140.204.46.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ca-montreal-1"
+  },
+  {
+    "ip_address": "168.129.240.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ca-montreal-1"
+  },
+  {
+    "ip_address": "192.29.80.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ca-montreal-1"
+  },
+  {
+    "ip_address": "192.29.88.0/21",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ca-montreal-1"
+  },
+  {
+    "ip_address": "140.91.42.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "me-jeddah-1"
+  },
+  {
+    "ip_address": "140.204.34.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "me-jeddah-1"
+  },
+  {
+    "ip_address": "192.29.112.0/20",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "me-jeddah-1"
+  },
+  {
+    "ip_address": "192.29.224.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "me-jeddah-1"
+  },
+  {
+    "ip_address": "192.29.232.0/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "me-jeddah-1"
+  },
+  {
+    "ip_address": "192.29.232.192/26",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "me-jeddah-1"
+  },
+  {
+    "ip_address": "129.149.80.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-stockholm-1"
+  },
+  {
+    "ip_address": "129.149.84.0/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-stockholm-1"
+  },
+  {
+    "ip_address": "140.91.68.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-stockholm-1"
+  },
+  {
+    "ip_address": "140.204.92.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-stockholm-1"
+  },
+  {
+    "ip_address": "145.241.180.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-stockholm-1"
+  },
+  {
+    "ip_address": "158.178.216.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-stockholm-1"
+  },
+  {
+    "ip_address": "129.149.96.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-marseille-1"
+  },
+  {
+    "ip_address": "129.149.100.0/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-marseille-1"
+  },
+  {
+    "ip_address": "140.91.72.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-marseille-1"
+  },
+  {
+    "ip_address": "140.204.100.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-marseille-1"
+  },
+  {
+    "ip_address": "141.253.214.0/24",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-marseille-1"
+  },
+  {
+    "ip_address": "158.179.198.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-marseille-1"
+  },
+  {
+    "ip_address": "129.149.112.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-milan-1"
+  },
+  {
+    "ip_address": "129.149.118.0/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-milan-1"
+  },
+  {
+    "ip_address": "140.91.74.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-milan-1"
+  },
+  {
+    "ip_address": "140.204.104.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-milan-1"
+  },
+  {
+    "ip_address": "141.253.215.0/24",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-milan-1"
+  },
+  {
+    "ip_address": "158.179.8.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-milan-1"
+  },
+  {
+    "ip_address": "79.72.20.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-madrid-1"
+  },
+  {
+    "ip_address": "130.110.239.0/24",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-madrid-1"
+  },
+  {
+    "ip_address": "140.91.78.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-madrid-1"
+  },
+  {
+    "ip_address": "140.204.112.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-madrid-1"
+  },
+  {
+    "ip_address": "155.248.136.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-madrid-1"
+  },
+  {
+    "ip_address": "155.248.140.0/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-madrid-1"
+  },
+  {
+    "ip_address": "130.35.112.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "uk-london-1"
+  },
+  {
+    "ip_address": "130.35.116.0/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "uk-london-1"
+  },
+  {
+    "ip_address": "132.145.0.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "uk-london-1"
+  },
+  {
+    "ip_address": "132.145.2.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "uk-london-1"
+  },
+  {
+    "ip_address": "132.145.4.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "uk-london-1"
+  },
+  {
+    "ip_address": "138.1.16.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "uk-london-1"
+  },
+  {
+    "ip_address": "138.1.80.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "uk-london-1"
+  },
+  {
+    "ip_address": "140.91.22.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "uk-london-1"
+  },
+  {
+    "ip_address": "140.91.24.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "uk-london-1"
+  },
+  {
+    "ip_address": "145.241.144.0/21",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "uk-london-1"
+  },
+  {
+    "ip_address": "147.154.224.0/20",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "uk-london-1"
+  },
+  {
+    "ip_address": "147.154.240.0/21",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "uk-london-1"
+  },
+  {
+    "ip_address": "147.154.255.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "uk-london-1"
+  },
+  {
+    "ip_address": "92.5.240.0/21",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-frankfurt-1"
+  },
+  {
+    "ip_address": "92.5.248.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-frankfurt-1"
+  },
+  {
+    "ip_address": "130.61.0.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-frankfurt-1"
+  },
+  {
+    "ip_address": "130.61.2.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-frankfurt-1"
+  },
+  {
+    "ip_address": "130.61.4.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-frankfurt-1"
+  },
+  {
+    "ip_address": "138.1.0.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-frankfurt-1"
+  },
+  {
+    "ip_address": "138.1.40.0/21",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-frankfurt-1"
+  },
+  {
+    "ip_address": "138.1.64.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-frankfurt-1"
+  },
+  {
+    "ip_address": "138.1.108.0/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-frankfurt-1"
+  },
+  {
+    "ip_address": "140.91.16.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-frankfurt-1"
+  },
+  {
+    "ip_address": "140.91.20.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-frankfurt-1"
+  },
+  {
+    "ip_address": "147.154.128.0/19",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-frankfurt-1"
+  },
+  {
+    "ip_address": "147.154.160.0/20",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-frankfurt-1"
+  },
+  {
+    "ip_address": "147.154.176.0/21",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-frankfurt-1"
+  },
+  {
+    "ip_address": "147.154.184.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-frankfurt-1"
+  },
+  {
+    "ip_address": "147.154.189.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-frankfurt-1"
+  },
+  {
+    "ip_address": "80.225.160.0/26",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-madrid-3"
+  },
+  {
+    "ip_address": "80.225.160.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-madrid-3"
+  },
+  {
+    "ip_address": "80.225.161.192/26",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-madrid-3"
+  },
+  {
+    "ip_address": "80.225.162.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-madrid-3"
+  },
+  {
+    "ip_address": "80.225.164.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-madrid-3"
+  },
+  {
+    "ip_address": "80.225.168.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-madrid-3"
+  },
+  {
+    "ip_address": "80.225.176.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-madrid-3"
+  },
+  {
+    "ip_address": "80.225.178.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-madrid-3"
+  },
+  {
+    "ip_address": "140.91.30.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-mumbai-1"
+  },
+  {
+    "ip_address": "140.204.4.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-mumbai-1"
+  },
+  {
+    "ip_address": "168.110.240.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-mumbai-1"
+  },
+  {
+    "ip_address": "192.29.48.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-mumbai-1"
+  },
+  {
+    "ip_address": "192.29.160.0/21",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-mumbai-1"
+  },
+  {
+    "ip_address": "192.29.168.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-mumbai-1"
+  },
+  {
+    "ip_address": "192.29.172.0/24",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-mumbai-1"
+  },
+  {
+    "ip_address": "79.76.16.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "me-riyadh-1"
+  },
+  {
+    "ip_address": "79.76.20.0/24",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "me-riyadh-1"
+  },
+  {
+    "ip_address": "84.8.64.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "me-riyadh-1"
+  },
+  {
+    "ip_address": "84.8.68.0/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "me-riyadh-1"
+  },
+  {
+    "ip_address": "84.8.72.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "me-riyadh-1"
+  },
+  {
+    "ip_address": "84.8.88.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "me-riyadh-1"
+  },
+  {
+    "ip_address": "130.110.224.0/21",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "me-riyadh-1"
+  },
+  {
+    "ip_address": "141.253.212.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "me-riyadh-1"
+  },
+  {
+    "ip_address": "129.149.64.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "af-johannesburg-1"
+  },
+  {
+    "ip_address": "129.149.68.0/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "af-johannesburg-1"
+  },
+  {
+    "ip_address": "130.110.28.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "af-johannesburg-1"
+  },
+  {
+    "ip_address": "140.91.70.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "af-johannesburg-1"
+  },
+  {
+    "ip_address": "140.204.96.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "af-johannesburg-1"
+  },
+  {
+    "ip_address": "158.179.196.0/24",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "af-johannesburg-1"
+  },
+  {
+    "ip_address": "62.115.179.220/31",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-amsterdam-1"
+  },
+  {
+    "ip_address": "62.115.179.228/31",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-amsterdam-1"
+  },
+  {
+    "ip_address": "79.72.32.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-amsterdam-1"
+  },
+  {
+    "ip_address": "79.76.24.0/21",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-amsterdam-1"
+  },
+  {
+    "ip_address": "92.5.255.0/24",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-amsterdam-1"
+  },
+  {
+    "ip_address": "140.83.44.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-amsterdam-1"
+  },
+  {
+    "ip_address": "140.91.44.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-amsterdam-1"
+  },
+  {
+    "ip_address": "140.204.36.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-amsterdam-1"
+  },
+  {
+    "ip_address": "140.204.38.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-amsterdam-1"
+  },
+  {
+    "ip_address": "140.204.40.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-amsterdam-1"
+  },
+  {
+    "ip_address": "158.178.220.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-amsterdam-1"
+  },
+  {
+    "ip_address": "192.29.192.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-amsterdam-1"
+  },
+  {
+    "ip_address": "192.29.200.0/21",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-amsterdam-1"
+  },
+  {
+    "ip_address": "213.19.198.156/31",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-amsterdam-1"
+  },
+  {
+    "ip_address": "213.19.198.164/31",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-amsterdam-1"
+  },
+  {
+    "ip_address": "64.110.120.0/21",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "me-dubai-1"
+  },
+  {
+    "ip_address": "129.148.208.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "me-dubai-1"
+  },
+  {
+    "ip_address": "129.148.212.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "me-dubai-1"
+  },
+  {
+    "ip_address": "129.148.214.0/24",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "me-dubai-1"
+  },
+  {
+    "ip_address": "129.148.215.0/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "me-dubai-1"
+  },
+  {
+    "ip_address": "129.148.218.0/24",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "me-dubai-1"
+  },
+  {
+    "ip_address": "129.148.219.192/26",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "me-dubai-1"
+  },
+  {
+    "ip_address": "129.148.220.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "me-dubai-1"
+  },
+  {
+    "ip_address": "140.91.92.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "me-dubai-1"
+  },
+  {
+    "ip_address": "140.204.66.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "me-dubai-1"
+  },
+  {
+    "ip_address": "79.76.18.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-paris-1"
+  },
+  {
+    "ip_address": "140.91.80.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-paris-1"
+  },
+  {
+    "ip_address": "140.204.116.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-paris-1"
+  },
+  {
+    "ip_address": "145.241.183.0/24",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-paris-1"
+  },
+  {
+    "ip_address": "155.248.128.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-paris-1"
+  },
+  {
+    "ip_address": "155.248.132.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-paris-1"
+  },
+  {
+    "ip_address": "155.248.135.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-paris-1"
+  },
+  {
+    "ip_address": "64.181.152.0/21",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-ashburn-1"
+  },
+  {
+    "ip_address": "129.213.0.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-ashburn-1"
+  },
+  {
+    "ip_address": "129.213.2.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-ashburn-1"
+  },
+  {
+    "ip_address": "129.213.4.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-ashburn-1"
+  },
+  {
+    "ip_address": "130.35.16.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-ashburn-1"
+  },
+  {
+    "ip_address": "130.35.96.0/21",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-ashburn-1"
+  },
+  {
+    "ip_address": "130.35.144.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-ashburn-1"
+  },
+  {
+    "ip_address": "130.35.200.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-ashburn-1"
+  },
+  {
+    "ip_address": "130.35.228.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-ashburn-1"
+  },
+  {
+    "ip_address": "138.1.48.0/21",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-ashburn-1"
+  },
+  {
+    "ip_address": "140.86.216.0/21",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-ashburn-1"
+  },
+  {
+    "ip_address": "140.91.10.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-ashburn-1"
+  },
+  {
+    "ip_address": "140.91.12.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-ashburn-1"
+  },
+  {
+    "ip_address": "147.154.0.0/19",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-ashburn-1"
+  },
+  {
+    "ip_address": "147.154.32.0/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-ashburn-1"
+  },
+  {
+    "ip_address": "147.154.36.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-ashburn-1"
+  },
+  {
+    "ip_address": "147.154.40.0/21",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-ashburn-1"
+  },
+  {
+    "ip_address": "147.154.48.0/21",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-ashburn-1"
+  },
+  {
+    "ip_address": "147.154.56.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-ashburn-1"
+  },
+  {
+    "ip_address": "157.151.64.0/18",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-ashburn-1"
+  },
+  {
+    "ip_address": "169.155.128.0/19",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-ashburn-1"
+  },
+  {
+    "ip_address": "170.9.192.0/19",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-ashburn-1"
+  },
+  {
+    "ip_address": "64.181.132.0/24",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "sa-santiago-1"
+  },
+  {
+    "ip_address": "129.148.152.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "sa-santiago-1"
+  },
+  {
+    "ip_address": "129.149.32.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "sa-santiago-1"
+  },
+  {
+    "ip_address": "129.149.36.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "sa-santiago-1"
+  },
+  {
+    "ip_address": "140.91.66.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "sa-santiago-1"
+  },
+  {
+    "ip_address": "140.204.86.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "sa-santiago-1"
+  },
+  {
+    "ip_address": "168.129.244.0/24",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "sa-santiago-1"
+  },
+  {
+    "ip_address": "129.148.0.0/21",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-sydney-1"
+  },
+  {
+    "ip_address": "129.148.156.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-sydney-1"
+  },
+  {
+    "ip_address": "134.185.72.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-sydney-1"
+  },
+  {
+    "ip_address": "140.91.38.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-sydney-1"
+  },
+  {
+    "ip_address": "140.204.20.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-sydney-1"
+  },
+  {
+    "ip_address": "168.110.64.0/19",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-sydney-1"
+  },
+  {
+    "ip_address": "168.110.224.0/20",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-sydney-1"
+  },
+  {
+    "ip_address": "192.29.144.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-sydney-1"
+  },
+  {
+    "ip_address": "192.29.148.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-sydney-1"
+  },
+  {
+    "ip_address": "192.29.151.0/24",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-sydney-1"
+  },
+  {
+    "ip_address": "192.29.152.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-sydney-1"
+  },
+  {
+    "ip_address": "192.29.158.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-sydney-1"
+  },
+  {
+    "ip_address": "207.127.107.192/26",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-sydney-1"
+  },
+  {
+    "ip_address": "129.146.12.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-phoenix-1"
+  },
+  {
+    "ip_address": "129.146.13.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-phoenix-1"
+  },
+  {
+    "ip_address": "129.146.14.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-phoenix-1"
+  },
+  {
+    "ip_address": "129.148.8.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-phoenix-1"
+  },
+  {
+    "ip_address": "129.149.28.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-phoenix-1"
+  },
+  {
+    "ip_address": "130.35.0.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-phoenix-1"
+  },
+  {
+    "ip_address": "130.35.128.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-phoenix-1"
+  },
+  {
+    "ip_address": "134.65.52.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-phoenix-1"
+  },
+  {
+    "ip_address": "134.65.208.0/20",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-phoenix-1"
+  },
+  {
+    "ip_address": "136.248.128.0/19",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-phoenix-1"
+  },
+  {
+    "ip_address": "138.1.32.0/21",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-phoenix-1"
+  },
+  {
+    "ip_address": "138.1.112.0/20",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-phoenix-1"
+  },
+  {
+    "ip_address": "140.91.4.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-phoenix-1"
+  },
+  {
+    "ip_address": "140.91.8.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-phoenix-1"
+  },
+  {
+    "ip_address": "146.235.0.0/20",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-phoenix-1"
+  },
+  {
+    "ip_address": "147.154.96.0/20",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-phoenix-1"
+  },
+  {
+    "ip_address": "147.154.112.0/21",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-phoenix-1"
+  },
+  {
+    "ip_address": "147.154.120.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-phoenix-1"
+  },
+  {
+    "ip_address": "161.153.128.0/18",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-phoenix-1"
+  },
+  {
+    "ip_address": "192.18.200.0/21",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-phoenix-1"
+  },
+  {
+    "ip_address": "192.29.96.0/20",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-phoenix-1"
+  },
+  {
+    "ip_address": "204.216.192.0/20",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-phoenix-1"
+  },
+  {
+    "ip_address": "207.127.124.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-phoenix-1"
+  },
+  {
+    "ip_address": "129.148.176.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-singapore-1"
+  },
+  {
+    "ip_address": "129.148.180.0/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-singapore-1"
+  },
+  {
+    "ip_address": "129.148.184.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-singapore-1"
+  },
+  {
+    "ip_address": "140.91.56.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-singapore-1"
+  },
+  {
+    "ip_address": "140.204.54.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-singapore-1"
+  },
+  {
+    "ip_address": "159.112.172.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-singapore-1"
+  },
+  {
+    "ip_address": "168.110.244.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-singapore-1"
+  },
+  {
+    "ip_address": "207.127.109.192/26",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-singapore-1"
+  },
+  {
+    "ip_address": "129.148.200.0/21",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "uk-cardiff-1"
+  },
+  {
+    "ip_address": "129.149.16.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "uk-cardiff-1"
+  },
+  {
+    "ip_address": "129.149.20.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "uk-cardiff-1"
+  },
+  {
+    "ip_address": "129.149.22.0/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "uk-cardiff-1"
+  },
+  {
+    "ip_address": "129.149.22.192/26",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "uk-cardiff-1"
+  },
+  {
+    "ip_address": "129.149.23.0/24",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "uk-cardiff-1"
+  },
+  {
+    "ip_address": "130.110.24.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "uk-cardiff-1"
+  },
+  {
+    "ip_address": "140.91.60.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "uk-cardiff-1"
+  },
+  {
+    "ip_address": "140.204.70.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "uk-cardiff-1"
+  },
+  {
+    "ip_address": "209.17.60.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "uk-cardiff-1"
+  },
+  {
+    "ip_address": "129.149.48.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "me-abudhabi-1"
+  },
+  {
+    "ip_address": "129.149.52.0/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "me-abudhabi-1"
+  },
+  {
+    "ip_address": "140.91.64.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "me-abudhabi-1"
+  },
+  {
+    "ip_address": "140.204.80.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "me-abudhabi-1"
+  },
+  {
+    "ip_address": "141.253.216.0/21",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "me-abudhabi-1"
+  },
+  {
+    "ip_address": "145.241.178.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "me-abudhabi-1"
+  },
+  {
+    "ip_address": "207.127.72.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "me-abudhabi-1"
+  },
+  {
+    "ip_address": "129.148.144.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-chuncheon-1"
+  },
+  {
+    "ip_address": "129.148.148.0/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-chuncheon-1"
+  },
+  {
+    "ip_address": "129.148.148.192/26",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-chuncheon-1"
+  },
+  {
+    "ip_address": "129.148.150.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-chuncheon-1"
+  },
+  {
+    "ip_address": "140.91.58.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-chuncheon-1"
+  },
+  {
+    "ip_address": "140.204.52.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-chuncheon-1"
+  },
+  {
+    "ip_address": "146.56.120.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-chuncheon-1"
+  },
+  {
+    "ip_address": "84.235.192.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "il-jerusalem-1"
+  },
+  {
+    "ip_address": "92.5.254.0/24",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "il-jerusalem-1"
+  },
+  {
+    "ip_address": "129.149.120.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "il-jerusalem-1"
+  },
+  {
+    "ip_address": "129.149.126.0/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "il-jerusalem-1"
+  },
+  {
+    "ip_address": "140.91.76.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "il-jerusalem-1"
+  },
+  {
+    "ip_address": "140.204.108.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "il-jerusalem-1"
+  },
+  {
+    "ip_address": "134.185.64.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-melbourne-1"
+  },
+  {
+    "ip_address": "140.91.46.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-melbourne-1"
+  },
+  {
+    "ip_address": "140.204.42.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-melbourne-1"
+  },
+  {
+    "ip_address": "158.179.4.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-melbourne-1"
+  },
+  {
+    "ip_address": "159.13.14.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-melbourne-1"
+  },
+  {
+    "ip_address": "161.33.254.0/24",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-melbourne-1"
+  },
+  {
+    "ip_address": "192.29.208.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-melbourne-1"
+  },
+  {
+    "ip_address": "192.29.216.0/21",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-melbourne-1"
+  },
+  {
+    "ip_address": "140.91.32.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-tokyo-1"
+  },
+  {
+    "ip_address": "140.204.8.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-tokyo-1"
+  },
+  {
+    "ip_address": "146.56.124.64/26",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-tokyo-1"
+  },
+  {
+    "ip_address": "146.56.124.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-tokyo-1"
+  },
+  {
+    "ip_address": "146.56.125.0/24",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-tokyo-1"
+  },
+  {
+    "ip_address": "146.56.126.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-tokyo-1"
+  },
+  {
+    "ip_address": "158.179.12.64/26",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-tokyo-1"
+  },
+  {
+    "ip_address": "158.179.12.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-tokyo-1"
+  },
+  {
+    "ip_address": "158.179.13.0/24",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-tokyo-1"
+  },
+  {
+    "ip_address": "158.179.15.0/24",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-tokyo-1"
+  },
+  {
+    "ip_address": "161.33.252.0/24",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-tokyo-1"
+  },
+  {
+    "ip_address": "192.29.36.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-tokyo-1"
+  },
+  {
+    "ip_address": "192.29.40.0/21",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-tokyo-1"
+  },
+  {
+    "ip_address": "140.91.36.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-zurich-1"
+  },
+  {
+    "ip_address": "140.204.16.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-zurich-1"
+  },
+  {
+    "ip_address": "141.253.208.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-zurich-1"
+  },
+  {
+    "ip_address": "192.29.56.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-zurich-1"
+  },
+  {
+    "ip_address": "192.29.60.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-zurich-1"
+  },
+  {
+    "ip_address": "192.29.178.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-zurich-1"
+  },
+  {
+    "ip_address": "192.29.180.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-zurich-1"
+  },
+  {
+    "ip_address": "64.181.144.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "sa-vinhedo-1"
+  },
+  {
+    "ip_address": "129.149.0.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "sa-vinhedo-1"
+  },
+  {
+    "ip_address": "129.149.6.0/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "sa-vinhedo-1"
+  },
+  {
+    "ip_address": "129.153.240.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "sa-vinhedo-1"
+  },
+  {
+    "ip_address": "129.153.243.192/26",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "sa-vinhedo-1"
+  },
+  {
+    "ip_address": "140.91.62.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "sa-vinhedo-1"
+  },
+  {
+    "ip_address": "140.204.76.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "sa-vinhedo-1"
+  },
+  {
+    "ip_address": "149.130.136.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "sa-vinhedo-1"
+  },
+  {
+    "ip_address": "134.98.248.0/26",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-dublin-3"
+  },
+  {
+    "ip_address": "134.98.248.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-dublin-3"
+  },
+  {
+    "ip_address": "134.98.249.192/26",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-dublin-3"
+  },
+  {
+    "ip_address": "134.98.250.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-dublin-3"
+  },
+  {
+    "ip_address": "134.98.252.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-dublin-3"
+  },
+  {
+    "ip_address": "140.91.102.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-dublin-3"
+  },
+  {
+    "ip_address": "140.204.154.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-dublin-3"
+  },
+  {
+    "ip_address": "136.248.224.0/26",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-dallas-1"
+  },
+  {
+    "ip_address": "136.248.224.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-dallas-1"
+  },
+  {
+    "ip_address": "136.248.225.192/26",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-dallas-1"
+  },
+  {
+    "ip_address": "136.248.226.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-dallas-1"
+  },
+  {
+    "ip_address": "136.248.228.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-dallas-1"
+  },
+  {
+    "ip_address": "140.91.96.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-dallas-1"
+  },
+  {
+    "ip_address": "140.204.142.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-dallas-1"
+  },
+  {
+    "ip_address": "157.151.32.0/21",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-dallas-1"
+  },
+  {
+    "ip_address": "157.151.40.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-dallas-1"
+  },
+  {
+    "ip_address": "157.151.44.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-dallas-1"
+  },
+  {
+    "ip_address": "140.91.82.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "mx-queretaro-1"
+  },
+  {
+    "ip_address": "140.204.120.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "mx-queretaro-1"
+  },
+  {
+    "ip_address": "155.248.144.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "mx-queretaro-1"
+  },
+  {
+    "ip_address": "155.248.148.0/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "mx-queretaro-1"
+  },
+  {
+    "ip_address": "159.112.166.0/24",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "mx-queretaro-1"
+  },
+  {
+    "ip_address": "168.129.247.0/24",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "mx-queretaro-1"
+  },
+  {
+    "ip_address": "159.13.0.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-singapore-2"
+  },
+  {
+    "ip_address": "159.13.4.0/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-singapore-2"
+  },
+  {
+    "ip_address": "161.33.255.0/24",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-singapore-2"
+  },
+  {
+    "ip_address": "217.142.160.0/21",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-singapore-2"
+  },
+  {
+    "ip_address": "217.142.168.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-singapore-2"
+  },
+  {
+    "ip_address": "217.142.176.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-singapore-2"
+  },
+  {
+    "ip_address": "217.142.178.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-singapore-2"
+  },
+  {
+    "ip_address": "165.1.96.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "sa-valparaiso-1"
+  },
+  {
+    "ip_address": "165.1.100.0/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "sa-valparaiso-1"
+  },
+  {
+    "ip_address": "165.1.104.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "sa-valparaiso-1"
+  },
+  {
+    "ip_address": "165.1.112.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "sa-valparaiso-1"
+  },
+  {
+    "ip_address": "165.1.114.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "sa-valparaiso-1"
+  },
+  {
+    "ip_address": "168.129.180.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "sa-valparaiso-1"
+  },
+  {
+    "ip_address": "157.137.254.0/24",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "sa-bogota-1"
+  },
+  {
+    "ip_address": "158.247.96.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "sa-bogota-1"
+  },
+  {
+    "ip_address": "158.247.100.0/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "sa-bogota-1"
+  },
+  {
+    "ip_address": "158.247.104.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "sa-bogota-1"
+  },
+  {
+    "ip_address": "158.247.112.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "sa-bogota-1"
+  },
+  {
+    "ip_address": "158.247.114.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "sa-bogota-1"
+  },
+  {
+    "ip_address": "140.91.94.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-saltlake-2"
+  },
+  {
+    "ip_address": "140.204.136.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-saltlake-2"
+  },
+  {
+    "ip_address": "168.129.182.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-saltlake-2"
+  },
+  {
+    "ip_address": "207.211.128.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-saltlake-2"
+  },
+  {
+    "ip_address": "207.211.132.0/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-saltlake-2"
+  },
+  {
+    "ip_address": "140.91.108.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-delhi-1"
+  },
+  {
+    "ip_address": "140.204.166.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-delhi-1"
+  },
+  {
+    "ip_address": "168.107.248.0/26",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-delhi-1"
+  },
+  {
+    "ip_address": "168.107.248.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-delhi-1"
+  },
+  {
+    "ip_address": "168.107.249.192/26",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-delhi-1"
+  },
+  {
+    "ip_address": "168.107.250.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-delhi-1"
+  },
+  {
+    "ip_address": "168.107.252.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-delhi-1"
+  },
+  {
+    "ip_address": "140.91.98.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-batam-1"
+  },
+  {
+    "ip_address": "140.204.146.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-batam-1"
+  },
+  {
+    "ip_address": "168.110.248.0/26",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-batam-1"
+  },
+  {
+    "ip_address": "168.110.248.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-batam-1"
+  },
+  {
+    "ip_address": "168.110.249.192/26",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-batam-1"
+  },
+  {
+    "ip_address": "168.110.250.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-batam-1"
+  },
+  {
+    "ip_address": "168.110.252.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-batam-1"
+  },
+  {
+    "ip_address": "168.129.184.0/26",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-desmoines-1"
+  },
+  {
+    "ip_address": "168.129.184.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-desmoines-1"
+  },
+  {
+    "ip_address": "168.129.185.192/26",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-desmoines-1"
+  },
+  {
+    "ip_address": "168.129.186.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-desmoines-1"
+  },
+  {
+    "ip_address": "168.129.188.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-desmoines-1"
+  },
+  {
+    "ip_address": "168.129.224.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-desmoines-1"
+  },
+  {
+    "ip_address": "168.129.232.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-desmoines-1"
+  },
+  {
+    "ip_address": "168.129.234.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-desmoines-1"
+  },
+  {
+    "ip_address": "140.91.104.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-abilene-1"
+  },
+  {
+    "ip_address": "140.204.158.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-abilene-1"
+  },
+  {
+    "ip_address": "168.129.248.0/26",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-abilene-1"
+  },
+  {
+    "ip_address": "168.129.248.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-abilene-1"
+  },
+  {
+    "ip_address": "168.129.249.192/26",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-abilene-1"
+  },
+  {
+    "ip_address": "168.129.250.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-abilene-1"
+  },
+  {
+    "ip_address": "168.129.252.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-abilene-1"
+  },
+  {
+    "ip_address": "136.248.232.0/26",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-kulai-1"
+  },
+  {
+    "ip_address": "136.248.232.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-kulai-1"
+  },
+  {
+    "ip_address": "136.248.233.192/26",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-kulai-1"
+  },
+  {
+    "ip_address": "136.248.234.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-kulai-1"
+  },
+  {
+    "ip_address": "136.248.236.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-kulai-1"
+  },
+  {
+    "ip_address": "140.91.100.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-kulai-1"
+  },
+  {
+    "ip_address": "140.204.150.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-kulai-1"
+  },
+  {
+    "ip_address": "192.22.32.0/26",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-shawnee-1"
+  },
+  {
+    "ip_address": "192.22.32.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-shawnee-1"
+  },
+  {
+    "ip_address": "192.22.33.192/26",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-shawnee-1"
+  },
+  {
+    "ip_address": "192.22.34.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-shawnee-1"
+  },
+  {
+    "ip_address": "192.22.36.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-shawnee-1"
+  },
+  {
+    "ip_address": "192.22.40.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-shawnee-1"
+  },
+  {
+    "ip_address": "192.22.44.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-shawnee-1"
+  },
+  {
+    "ip_address": "192.22.48.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-shawnee-1"
+  },
+  {
+    "ip_address": "192.22.96.0/26",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-boardman-1"
+  },
+  {
+    "ip_address": "192.22.96.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-boardman-1"
+  },
+  {
+    "ip_address": "192.22.97.192/26",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-boardman-1"
+  },
+  {
+    "ip_address": "192.22.98.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-boardman-1"
+  },
+  {
+    "ip_address": "192.22.100.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-boardman-1"
+  },
+  {
+    "ip_address": "192.22.104.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-boardman-1"
+  },
+  {
+    "ip_address": "192.22.108.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-boardman-1"
+  },
+  {
+    "ip_address": "192.22.112.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-boardman-1"
+  },
+  {
+    "ip_address": "192.22.160.0/26",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-quincy-1"
+  },
+  {
+    "ip_address": "192.22.160.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-quincy-1"
+  },
+  {
+    "ip_address": "192.22.161.192/26",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-quincy-1"
+  },
+  {
+    "ip_address": "192.22.162.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-quincy-1"
+  },
+  {
+    "ip_address": "192.22.164.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-quincy-1"
+  },
+  {
+    "ip_address": "192.22.168.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-quincy-1"
+  },
+  {
+    "ip_address": "192.22.172.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-quincy-1"
+  },
+  {
+    "ip_address": "192.22.176.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-quincy-1"
+  },
+  {
+    "ip_address": "192.22.224.0/26",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "sa-riodejaneiro-2"
+  },
+  {
+    "ip_address": "192.22.224.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "sa-riodejaneiro-2"
+  },
+  {
+    "ip_address": "192.22.225.192/26",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "sa-riodejaneiro-2"
+  },
+  {
+    "ip_address": "192.22.226.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "sa-riodejaneiro-2"
+  },
+  {
+    "ip_address": "192.22.228.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "sa-riodejaneiro-2"
+  },
+  {
+    "ip_address": "192.22.232.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "sa-riodejaneiro-2"
+  },
+  {
+    "ip_address": "192.22.236.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "sa-riodejaneiro-2"
+  },
+  {
+    "ip_address": "192.22.240.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "sa-riodejaneiro-2"
+  },
+  {
+    "ip_address": "130.110.31.0/24",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-jovanovac-1"
+  },
+  {
+    "ip_address": "164.152.96.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-jovanovac-1"
+  },
+  {
+    "ip_address": "207.127.66.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-jovanovac-1"
+  },
+  {
+    "ip_address": "207.127.68.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-jovanovac-1"
+  },
+  {
+    "ip_address": "207.127.80.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-jovanovac-1"
+  },
+  {
+    "ip_address": "207.127.84.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-jovanovac-1"
+  },
+  {
+    "ip_address": "207.127.86.0/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-jovanovac-1"
+  }
+]

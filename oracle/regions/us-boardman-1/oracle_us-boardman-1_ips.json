@@ -1,0 +1,56 @@
+[
+  {
+    "ip_address": "192.22.64.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "us-boardman-1"
+  },
+  {
+    "ip_address": "192.22.96.0/26",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-boardman-1"
+  },
+  {
+    "ip_address": "192.22.96.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-boardman-1"
+  },
+  {
+    "ip_address": "192.22.97.192/26",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-boardman-1"
+  },
+  {
+    "ip_address": "192.22.98.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-boardman-1"
+  },
+  {
+    "ip_address": "192.22.100.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-boardman-1"
+  },
+  {
+    "ip_address": "192.22.104.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-boardman-1"
+  },
+  {
+    "ip_address": "192.22.108.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-boardman-1"
+  },
+  {
+    "ip_address": "192.22.112.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-boardman-1"
+  }
+]

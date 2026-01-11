@@ -1,0 +1,62 @@
+[
+  {
+    "ip_address": "149.130.160.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "sa-bogota-1"
+  },
+  {
+    "ip_address": "157.137.192.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "sa-bogota-1"
+  },
+  {
+    "ip_address": "157.137.224.0/20",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "sa-bogota-1"
+  },
+  {
+    "ip_address": "158.247.120.0/21",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "sa-bogota-1"
+  },
+  {
+    "ip_address": "157.137.254.0/24",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "sa-bogota-1"
+  },
+  {
+    "ip_address": "158.247.96.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "sa-bogota-1"
+  },
+  {
+    "ip_address": "158.247.100.0/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "sa-bogota-1"
+  },
+  {
+    "ip_address": "158.247.104.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "sa-bogota-1"
+  },
+  {
+    "ip_address": "158.247.112.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "sa-bogota-1"
+  },
+  {
+    "ip_address": "158.247.114.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "sa-bogota-1"
+  }
+]

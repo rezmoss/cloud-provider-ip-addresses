@@ -1,0 +1,62 @@
+[
+  {
+    "ip_address": "40.233.0.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "mx-monterrey-1"
+  },
+  {
+    "ip_address": "139.177.96.0/21",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "mx-monterrey-1"
+  },
+  {
+    "ip_address": "157.137.160.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "mx-monterrey-1"
+  },
+  {
+    "ip_address": "64.181.146.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "mx-monterrey-1"
+  },
+  {
+    "ip_address": "134.70.200.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN,OBJECT_STORAGE",
+    "region": "mx-monterrey-1"
+  },
+  {
+    "ip_address": "139.177.104.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "mx-monterrey-1"
+  },
+  {
+    "ip_address": "139.177.108.0/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "mx-monterrey-1"
+  },
+  {
+    "ip_address": "140.91.90.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "mx-monterrey-1"
+  },
+  {
+    "ip_address": "140.204.132.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "mx-monterrey-1"
+  },
+  {
+    "ip_address": "157.137.253.0/24",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "mx-monterrey-1"
+  }
+]

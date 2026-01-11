@@ -1,0 +1,13 @@
+ip_address,ip_type,service,region
+129.159.128.0/19,IPv4,OCI,il-jerusalem-1
+130.110.238.0/24,IPv4,OCI,il-jerusalem-1
+151.145.80.0/20,IPv4,OCI,il-jerusalem-1
+158.178.128.0/22,IPv4,OCI,il-jerusalem-1
+158.178.248.0/22,IPv4,OCI,il-jerusalem-1
+84.235.192.0/23,IPv4,OSN,il-jerusalem-1
+92.5.254.0/24,IPv4,OSN,il-jerusalem-1
+129.149.120.0/22,IPv4,OSN,il-jerusalem-1
+129.149.126.0/25,IPv4,OSN,il-jerusalem-1
+134.70.172.0/22,IPv4,"OSN,OBJECT_STORAGE",il-jerusalem-1
+140.91.76.0/23,IPv4,OSN,il-jerusalem-1
+140.204.108.128/25,IPv4,OSN,il-jerusalem-1

@@ -1,0 +1,164 @@
+[
+  {
+    "ip_address": "80.225.192.0/18",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-mumbai-1"
+  },
+  {
+    "ip_address": "92.4.64.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-mumbai-1"
+  },
+  {
+    "ip_address": "129.151.40.0/21",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-mumbai-1"
+  },
+  {
+    "ip_address": "129.154.224.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-mumbai-1"
+  },
+  {
+    "ip_address": "132.226.184.0/21",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-mumbai-1"
+  },
+  {
+    "ip_address": "140.238.160.0/21",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-mumbai-1"
+  },
+  {
+    "ip_address": "140.238.224.0/21",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-mumbai-1"
+  },
+  {
+    "ip_address": "140.238.232.0/22",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-mumbai-1"
+  },
+  {
+    "ip_address": "140.238.240.0/20",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-mumbai-1"
+  },
+  {
+    "ip_address": "140.245.0.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-mumbai-1"
+  },
+  {
+    "ip_address": "141.148.192.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-mumbai-1"
+  },
+  {
+    "ip_address": "144.24.96.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-mumbai-1"
+  },
+  {
+    "ip_address": "146.56.48.0/21",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-mumbai-1"
+  },
+  {
+    "ip_address": "150.230.232.0/21",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-mumbai-1"
+  },
+  {
+    "ip_address": "152.67.0.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-mumbai-1"
+  },
+  {
+    "ip_address": "155.248.240.0/20",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-mumbai-1"
+  },
+  {
+    "ip_address": "161.118.160.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-mumbai-1"
+  },
+  {
+    "ip_address": "168.138.112.0/21",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-mumbai-1"
+  },
+  {
+    "ip_address": "207.135.16.0/23",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-mumbai-1"
+  },
+  {
+    "ip_address": "134.70.76.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN,OBJECT_STORAGE",
+    "region": "ap-mumbai-1"
+  },
+  {
+    "ip_address": "140.91.30.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-mumbai-1"
+  },
+  {
+    "ip_address": "140.204.4.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-mumbai-1"
+  },
+  {
+    "ip_address": "168.110.240.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-mumbai-1"
+  },
+  {
+    "ip_address": "192.29.48.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-mumbai-1"
+  },
+  {
+    "ip_address": "192.29.160.0/21",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-mumbai-1"
+  },
+  {
+    "ip_address": "192.29.168.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-mumbai-1"
+  },
+  {
+    "ip_address": "192.29.172.0/24",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-mumbai-1"
+  }
+]

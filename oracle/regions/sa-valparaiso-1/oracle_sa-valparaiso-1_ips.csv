@@ -1,0 +1,12 @@
+ip_address,ip_type,service,region
+147.224.224.0/20,IPv4,OCI,sa-valparaiso-1
+148.116.104.0/21,IPv4,OCI,sa-valparaiso-1
+149.130.224.0/19,IPv4,OCI,sa-valparaiso-1
+165.1.120.0/21,IPv4,OCI,sa-valparaiso-1
+168.129.176.0/22,IPv4,OCI,sa-valparaiso-1
+165.1.96.0/22,IPv4,OSN,sa-valparaiso-1
+165.1.100.0/25,IPv4,OSN,sa-valparaiso-1
+165.1.104.0/22,IPv4,OSN,sa-valparaiso-1
+165.1.112.0/23,IPv4,OSN,sa-valparaiso-1
+165.1.114.128/25,IPv4,OSN,sa-valparaiso-1
+168.129.180.0/23,IPv4,OSN,sa-valparaiso-1

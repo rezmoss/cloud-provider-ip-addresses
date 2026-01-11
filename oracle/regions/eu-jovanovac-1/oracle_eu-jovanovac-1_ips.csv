@@ -1,0 +1,10 @@
+ip_address,ip_type,service,region
+81.208.192.0/19,IPv4,OCI,eu-jovanovac-1
+207.127.82.0/23,IPv4,OCI,eu-jovanovac-1
+130.110.31.0/24,IPv4,OSN,eu-jovanovac-1
+164.152.96.0/22,IPv4,OSN,eu-jovanovac-1
+207.127.66.128/25,IPv4,OSN,eu-jovanovac-1
+207.127.68.0/22,IPv4,OSN,eu-jovanovac-1
+207.127.80.0/23,IPv4,OSN,eu-jovanovac-1
+207.127.84.0/23,IPv4,OSN,eu-jovanovac-1
+207.127.86.0/25,IPv4,OSN,eu-jovanovac-1

@@ -1,0 +1,56 @@
+[
+  {
+    "ip_address": "192.22.128.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "us-quincy-1"
+  },
+  {
+    "ip_address": "192.22.160.0/26",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-quincy-1"
+  },
+  {
+    "ip_address": "192.22.160.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-quincy-1"
+  },
+  {
+    "ip_address": "192.22.161.192/26",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-quincy-1"
+  },
+  {
+    "ip_address": "192.22.162.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-quincy-1"
+  },
+  {
+    "ip_address": "192.22.164.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-quincy-1"
+  },
+  {
+    "ip_address": "192.22.168.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-quincy-1"
+  },
+  {
+    "ip_address": "192.22.172.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-quincy-1"
+  },
+  {
+    "ip_address": "192.22.176.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-quincy-1"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "ip_address": "140.84.160.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "mx-queretaro-1"
+  },
+  {
+    "ip_address": "159.54.128.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "mx-queretaro-1"
+  },
+  {
+    "ip_address": "160.34.208.0/20",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "mx-queretaro-1"
+  },
+  {
+    "ip_address": "163.192.128.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "mx-queretaro-1"
+  },
+  {
+    "ip_address": "220.158.64.0/20",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "mx-queretaro-1"
+  },
+  {
+    "ip_address": "134.70.184.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN,OBJECT_STORAGE",
+    "region": "mx-queretaro-1"
+  },
+  {
+    "ip_address": "140.91.82.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "mx-queretaro-1"
+  },
+  {
+    "ip_address": "140.204.120.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "mx-queretaro-1"
+  },
+  {
+    "ip_address": "155.248.144.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "mx-queretaro-1"
+  },
+  {
+    "ip_address": "155.248.148.0/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "mx-queretaro-1"
+  },
+  {
+    "ip_address": "159.112.166.0/24",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "mx-queretaro-1"
+  },
+  {
+    "ip_address": "168.129.247.0/24",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "mx-queretaro-1"
+  }
+]

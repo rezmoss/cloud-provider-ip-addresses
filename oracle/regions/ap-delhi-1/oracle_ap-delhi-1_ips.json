@@ -1,0 +1,62 @@
+[
+  {
+    "ip_address": "168.107.192.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-delhi-1"
+  },
+  {
+    "ip_address": "134.70.230.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN,OBJECT_STORAGE",
+    "region": "ap-delhi-1"
+  },
+  {
+    "ip_address": "134.70.232.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN,OBJECT_STORAGE",
+    "region": "ap-delhi-1"
+  },
+  {
+    "ip_address": "140.91.108.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-delhi-1"
+  },
+  {
+    "ip_address": "140.204.166.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-delhi-1"
+  },
+  {
+    "ip_address": "168.107.248.0/26",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-delhi-1"
+  },
+  {
+    "ip_address": "168.107.248.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-delhi-1"
+  },
+  {
+    "ip_address": "168.107.249.192/26",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-delhi-1"
+  },
+  {
+    "ip_address": "168.107.250.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-delhi-1"
+  },
+  {
+    "ip_address": "168.107.252.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-delhi-1"
+  }
+]

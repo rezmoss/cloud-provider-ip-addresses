@@ -1,0 +1,86 @@
+[
+  {
+    "ip_address": "89.168.32.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "eu-paris-1"
+  },
+  {
+    "ip_address": "141.145.192.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "eu-paris-1"
+  },
+  {
+    "ip_address": "141.253.96.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "eu-paris-1"
+  },
+  {
+    "ip_address": "145.241.160.0/20",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "eu-paris-1"
+  },
+  {
+    "ip_address": "158.178.192.0/20",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "eu-paris-1"
+  },
+  {
+    "ip_address": "158.178.208.0/21",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "eu-paris-1"
+  },
+  {
+    "ip_address": "79.76.18.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-paris-1"
+  },
+  {
+    "ip_address": "134.70.180.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN,OBJECT_STORAGE",
+    "region": "eu-paris-1"
+  },
+  {
+    "ip_address": "140.91.80.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-paris-1"
+  },
+  {
+    "ip_address": "140.204.116.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-paris-1"
+  },
+  {
+    "ip_address": "145.241.183.0/24",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-paris-1"
+  },
+  {
+    "ip_address": "155.248.128.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-paris-1"
+  },
+  {
+    "ip_address": "155.248.132.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-paris-1"
+  },
+  {
+    "ip_address": "155.248.135.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-paris-1"
+  }
+]

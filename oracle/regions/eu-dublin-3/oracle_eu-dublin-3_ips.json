@@ -1,0 +1,62 @@
+[
+  {
+    "ip_address": "134.98.192.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "eu-dublin-3"
+  },
+  {
+    "ip_address": "134.70.218.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN,OBJECT_STORAGE",
+    "region": "eu-dublin-3"
+  },
+  {
+    "ip_address": "134.70.220.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN,OBJECT_STORAGE",
+    "region": "eu-dublin-3"
+  },
+  {
+    "ip_address": "134.98.248.0/26",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-dublin-3"
+  },
+  {
+    "ip_address": "134.98.248.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-dublin-3"
+  },
+  {
+    "ip_address": "134.98.249.192/26",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-dublin-3"
+  },
+  {
+    "ip_address": "134.98.250.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-dublin-3"
+  },
+  {
+    "ip_address": "134.98.252.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-dublin-3"
+  },
+  {
+    "ip_address": "140.91.102.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-dublin-3"
+  },
+  {
+    "ip_address": "140.204.154.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-dublin-3"
+  }
+]

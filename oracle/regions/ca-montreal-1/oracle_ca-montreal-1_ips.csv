@@ -1,0 +1,15 @@
+ip_address,ip_type,service,region
+68.233.120.0/21,IPv4,OCI,ca-montreal-1
+148.116.64.0/19,IPv4,OCI,ca-montreal-1
+151.145.32.0/19,IPv4,OCI,ca-montreal-1
+155.248.224.0/20,IPv4,OCI,ca-montreal-1
+168.138.64.0/19,IPv4,OCI,ca-montreal-1
+170.9.32.0/20,IPv4,OCI,ca-montreal-1
+204.216.104.0/21,IPv4,OCI,ca-montreal-1
+38.104.155.92/31,IPv4,OSN,ca-montreal-1
+134.70.116.0/22,IPv4,"OSN,OBJECT_STORAGE",ca-montreal-1
+140.91.50.0/23,IPv4,OSN,ca-montreal-1
+140.204.46.128/25,IPv4,OSN,ca-montreal-1
+168.129.240.0/22,IPv4,OSN,ca-montreal-1
+192.29.80.0/22,IPv4,OSN,ca-montreal-1
+192.29.88.0/21,IPv4,OSN,ca-montreal-1

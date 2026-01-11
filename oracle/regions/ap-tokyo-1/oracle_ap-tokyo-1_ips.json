@@ -1,0 +1,224 @@
+[
+  {
+    "ip_address": "131.186.32.0/20",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-tokyo-1"
+  },
+  {
+    "ip_address": "131.186.56.0/21",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-tokyo-1"
+  },
+  {
+    "ip_address": "132.145.112.0/20",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-tokyo-1"
+  },
+  {
+    "ip_address": "132.226.0.0/20",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-tokyo-1"
+  },
+  {
+    "ip_address": "138.2.0.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-tokyo-1"
+  },
+  {
+    "ip_address": "138.3.208.0/20",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-tokyo-1"
+  },
+  {
+    "ip_address": "140.83.32.0/21",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-tokyo-1"
+  },
+  {
+    "ip_address": "140.238.32.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-tokyo-1"
+  },
+  {
+    "ip_address": "140.245.80.0/20",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-tokyo-1"
+  },
+  {
+    "ip_address": "141.147.160.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-tokyo-1"
+  },
+  {
+    "ip_address": "150.230.96.0/20",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-tokyo-1"
+  },
+  {
+    "ip_address": "150.230.192.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-tokyo-1"
+  },
+  {
+    "ip_address": "151.145.64.0/20",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-tokyo-1"
+  },
+  {
+    "ip_address": "152.70.96.0/20",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-tokyo-1"
+  },
+  {
+    "ip_address": "155.248.160.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-tokyo-1"
+  },
+  {
+    "ip_address": "158.101.64.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-tokyo-1"
+  },
+  {
+    "ip_address": "158.101.128.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-tokyo-1"
+  },
+  {
+    "ip_address": "158.179.176.0/20",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-tokyo-1"
+  },
+  {
+    "ip_address": "161.33.128.0/18",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-tokyo-1"
+  },
+  {
+    "ip_address": "161.33.192.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-tokyo-1"
+  },
+  {
+    "ip_address": "168.110.0.0/18",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-tokyo-1"
+  },
+  {
+    "ip_address": "168.138.192.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-tokyo-1"
+  },
+  {
+    "ip_address": "193.123.160.0/20",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-tokyo-1"
+  },
+  {
+    "ip_address": "134.70.80.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN,OBJECT_STORAGE",
+    "region": "ap-tokyo-1"
+  },
+  {
+    "ip_address": "140.91.32.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-tokyo-1"
+  },
+  {
+    "ip_address": "140.204.8.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-tokyo-1"
+  },
+  {
+    "ip_address": "146.56.124.64/26",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-tokyo-1"
+  },
+  {
+    "ip_address": "146.56.124.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-tokyo-1"
+  },
+  {
+    "ip_address": "146.56.125.0/24",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-tokyo-1"
+  },
+  {
+    "ip_address": "146.56.126.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-tokyo-1"
+  },
+  {
+    "ip_address": "158.179.12.64/26",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-tokyo-1"
+  },
+  {
+    "ip_address": "158.179.12.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-tokyo-1"
+  },
+  {
+    "ip_address": "158.179.13.0/24",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-tokyo-1"
+  },
+  {
+    "ip_address": "158.179.15.0/24",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-tokyo-1"
+  },
+  {
+    "ip_address": "161.33.252.0/24",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-tokyo-1"
+  },
+  {
+    "ip_address": "192.29.36.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-tokyo-1"
+  },
+  {
+    "ip_address": "192.29.40.0/21",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-tokyo-1"
+  }
+]

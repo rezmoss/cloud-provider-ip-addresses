@@ -1,0 +1,182 @@
+[
+  {
+    "ip_address": "64.181.192.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "us-chicago-1"
+  },
+  {
+    "ip_address": "131.186.0.0/21",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "us-chicago-1"
+  },
+  {
+    "ip_address": "147.224.128.0/18",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "us-chicago-1"
+  },
+  {
+    "ip_address": "147.224.192.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "us-chicago-1"
+  },
+  {
+    "ip_address": "149.130.208.0/20",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "us-chicago-1"
+  },
+  {
+    "ip_address": "163.192.96.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "us-chicago-1"
+  },
+  {
+    "ip_address": "163.192.192.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "us-chicago-1"
+  },
+  {
+    "ip_address": "163.192.240.0/20",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "us-chicago-1"
+  },
+  {
+    "ip_address": "164.152.16.0/20",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "us-chicago-1"
+  },
+  {
+    "ip_address": "164.152.104.0/21",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "us-chicago-1"
+  },
+  {
+    "ip_address": "168.129.160.0/20",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "us-chicago-1"
+  },
+  {
+    "ip_address": "170.9.224.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "us-chicago-1"
+  },
+  {
+    "ip_address": "207.211.160.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "us-chicago-1"
+  },
+  {
+    "ip_address": "64.181.136.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-chicago-1"
+  },
+  {
+    "ip_address": "64.181.140.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-chicago-1"
+  },
+  {
+    "ip_address": "64.181.150.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-chicago-1"
+  },
+  {
+    "ip_address": "131.186.8.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-chicago-1"
+  },
+  {
+    "ip_address": "131.186.12.0/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-chicago-1"
+  },
+  {
+    "ip_address": "134.70.188.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN,OBJECT_STORAGE",
+    "region": "us-chicago-1"
+  },
+  {
+    "ip_address": "134.70.192.0/21",
+    "ip_type": "IPv4",
+    "service": "OSN,OBJECT_STORAGE",
+    "region": "us-chicago-1"
+  },
+  {
+    "ip_address": "140.91.84.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-chicago-1"
+  },
+  {
+    "ip_address": "140.91.88.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-chicago-1"
+  },
+  {
+    "ip_address": "140.204.122.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-chicago-1"
+  },
+  {
+    "ip_address": "140.204.124.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-chicago-1"
+  },
+  {
+    "ip_address": "140.204.126.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-chicago-1"
+  },
+  {
+    "ip_address": "146.235.252.64/26",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-chicago-1"
+  },
+  {
+    "ip_address": "146.235.252.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-chicago-1"
+  },
+  {
+    "ip_address": "146.235.253.0/24",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-chicago-1"
+  },
+  {
+    "ip_address": "146.235.254.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-chicago-1"
+  },
+  {
+    "ip_address": "194.164.156.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-chicago-1"
+  }
+]

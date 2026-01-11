@@ -1,0 +1,22 @@
+-- SQL script to create table `oracle_eu-stockholm-1_ips` and insert IP addresses
+
+CREATE TABLE IF NOT EXISTS `oracle_eu-stockholm-1_ips` (
+  `ip_address` VARCHAR(45) NOT NULL,
+  `ip_type` VARCHAR(10) NOT NULL,
+  PRIMARY KEY (`ip_address`)
+);
+
+INSERT INTO `oracle_eu-stockholm-1_ips` (`ip_address`, `ip_type`) VALUES ('79.72.16.0/22', 'IPv4');
+INSERT INTO `oracle_eu-stockholm-1_ips` (`ip_address`, `ip_type`) VALUES ('79.76.32.0/19', 'IPv4');
+INSERT INTO `oracle_eu-stockholm-1_ips` (`ip_address`, `ip_type`) VALUES ('84.235.208.0/20', 'IPv4');
+INSERT INTO `oracle_eu-stockholm-1_ips` (`ip_address`, `ip_type`) VALUES ('129.151.192.0/19', 'IPv4');
+INSERT INTO `oracle_eu-stockholm-1_ips` (`ip_address`, `ip_type`) VALUES ('145.241.182.0/24', 'IPv4');
+INSERT INTO `oracle_eu-stockholm-1_ips` (`ip_address`, `ip_type`) VALUES ('158.179.200.0/21', 'IPv4');
+INSERT INTO `oracle_eu-stockholm-1_ips` (`ip_address`, `ip_type`) VALUES ('207.127.88.0/21', 'IPv4');
+INSERT INTO `oracle_eu-stockholm-1_ips` (`ip_address`, `ip_type`) VALUES ('129.149.80.0/22', 'IPv4');
+INSERT INTO `oracle_eu-stockholm-1_ips` (`ip_address`, `ip_type`) VALUES ('129.149.84.0/25', 'IPv4');
+INSERT INTO `oracle_eu-stockholm-1_ips` (`ip_address`, `ip_type`) VALUES ('134.70.156.0/22', 'IPv4');
+INSERT INTO `oracle_eu-stockholm-1_ips` (`ip_address`, `ip_type`) VALUES ('140.91.68.0/23', 'IPv4');
+INSERT INTO `oracle_eu-stockholm-1_ips` (`ip_address`, `ip_type`) VALUES ('140.204.92.128/25', 'IPv4');
+INSERT INTO `oracle_eu-stockholm-1_ips` (`ip_address`, `ip_type`) VALUES ('145.241.180.0/23', 'IPv4');
+INSERT INTO `oracle_eu-stockholm-1_ips` (`ip_address`, `ip_type`) VALUES ('158.178.216.0/22', 'IPv4');

@@ -1,0 +1,11 @@
+ip_address,ip_type,service,region
+168.110.192.0/19,IPv4,OCI,ap-batam-1
+134.70.210.0/23,IPv4,"OSN,OBJECT_STORAGE",ap-batam-1
+134.70.212.0/23,IPv4,"OSN,OBJECT_STORAGE",ap-batam-1
+140.91.98.0/23,IPv4,OSN,ap-batam-1
+140.204.146.128/25,IPv4,OSN,ap-batam-1
+168.110.248.0/26,IPv4,OSN,ap-batam-1
+168.110.248.128/25,IPv4,OSN,ap-batam-1
+168.110.249.192/26,IPv4,OSN,ap-batam-1
+168.110.250.0/23,IPv4,OSN,ap-batam-1
+168.110.252.0/22,IPv4,OSN,ap-batam-1

@@ -1,0 +1,182 @@
+[
+  {
+    "ip_address": "129.91.16.0/21",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-sydney-1"
+  },
+  {
+    "ip_address": "129.154.64.0/18",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-sydney-1"
+  },
+  {
+    "ip_address": "129.154.168.0/22",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-sydney-1"
+  },
+  {
+    "ip_address": "140.238.192.0/20",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-sydney-1"
+  },
+  {
+    "ip_address": "149.118.64.0/20",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-sydney-1"
+  },
+  {
+    "ip_address": "150.230.8.0/21",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-sydney-1"
+  },
+  {
+    "ip_address": "152.67.96.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-sydney-1"
+  },
+  {
+    "ip_address": "152.69.160.0/20",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-sydney-1"
+  },
+  {
+    "ip_address": "152.70.228.0/22",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-sydney-1"
+  },
+  {
+    "ip_address": "158.178.136.0/21",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-sydney-1"
+  },
+  {
+    "ip_address": "158.180.4.0/22",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-sydney-1"
+  },
+  {
+    "ip_address": "159.13.32.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-sydney-1"
+  },
+  {
+    "ip_address": "161.33.224.0/20",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-sydney-1"
+  },
+  {
+    "ip_address": "161.33.240.0/21",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-sydney-1"
+  },
+  {
+    "ip_address": "168.138.96.0/20",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-sydney-1"
+  },
+  {
+    "ip_address": "192.9.160.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-sydney-1"
+  },
+  {
+    "ip_address": "129.148.0.0/21",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-sydney-1"
+  },
+  {
+    "ip_address": "129.148.156.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-sydney-1"
+  },
+  {
+    "ip_address": "134.70.92.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN,OBJECT_STORAGE",
+    "region": "ap-sydney-1"
+  },
+  {
+    "ip_address": "134.185.72.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-sydney-1"
+  },
+  {
+    "ip_address": "140.91.38.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-sydney-1"
+  },
+  {
+    "ip_address": "140.204.20.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-sydney-1"
+  },
+  {
+    "ip_address": "168.110.64.0/19",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-sydney-1"
+  },
+  {
+    "ip_address": "168.110.224.0/20",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-sydney-1"
+  },
+  {
+    "ip_address": "192.29.144.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-sydney-1"
+  },
+  {
+    "ip_address": "192.29.148.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-sydney-1"
+  },
+  {
+    "ip_address": "192.29.151.0/24",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-sydney-1"
+  },
+  {
+    "ip_address": "192.29.152.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-sydney-1"
+  },
+  {
+    "ip_address": "192.29.158.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-sydney-1"
+  },
+  {
+    "ip_address": "207.127.107.192/26",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-sydney-1"
+  }
+]

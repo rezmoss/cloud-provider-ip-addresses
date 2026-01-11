@@ -1,0 +1,56 @@
+[
+  {
+    "ip_address": "140.245.32.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-singapore-2"
+  },
+  {
+    "ip_address": "217.142.184.0/21",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-singapore-2"
+  },
+  {
+    "ip_address": "159.13.0.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-singapore-2"
+  },
+  {
+    "ip_address": "159.13.4.0/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-singapore-2"
+  },
+  {
+    "ip_address": "161.33.255.0/24",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-singapore-2"
+  },
+  {
+    "ip_address": "217.142.160.0/21",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-singapore-2"
+  },
+  {
+    "ip_address": "217.142.168.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-singapore-2"
+  },
+  {
+    "ip_address": "217.142.176.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-singapore-2"
+  },
+  {
+    "ip_address": "217.142.178.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-singapore-2"
+  }
+]

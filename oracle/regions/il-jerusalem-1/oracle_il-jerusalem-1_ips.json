@@ -1,0 +1,74 @@
+[
+  {
+    "ip_address": "129.159.128.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "il-jerusalem-1"
+  },
+  {
+    "ip_address": "130.110.238.0/24",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "il-jerusalem-1"
+  },
+  {
+    "ip_address": "151.145.80.0/20",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "il-jerusalem-1"
+  },
+  {
+    "ip_address": "158.178.128.0/22",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "il-jerusalem-1"
+  },
+  {
+    "ip_address": "158.178.248.0/22",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "il-jerusalem-1"
+  },
+  {
+    "ip_address": "84.235.192.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "il-jerusalem-1"
+  },
+  {
+    "ip_address": "92.5.254.0/24",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "il-jerusalem-1"
+  },
+  {
+    "ip_address": "129.149.120.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "il-jerusalem-1"
+  },
+  {
+    "ip_address": "129.149.126.0/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "il-jerusalem-1"
+  },
+  {
+    "ip_address": "134.70.172.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN,OBJECT_STORAGE",
+    "region": "il-jerusalem-1"
+  },
+  {
+    "ip_address": "140.91.76.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "il-jerusalem-1"
+  },
+  {
+    "ip_address": "140.204.108.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "il-jerusalem-1"
+  }
+]

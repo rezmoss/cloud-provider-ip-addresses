@@ -1,0 +1,56 @@
+[
+  {
+    "ip_address": "81.208.192.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "eu-jovanovac-1"
+  },
+  {
+    "ip_address": "207.127.82.0/23",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "eu-jovanovac-1"
+  },
+  {
+    "ip_address": "130.110.31.0/24",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-jovanovac-1"
+  },
+  {
+    "ip_address": "164.152.96.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-jovanovac-1"
+  },
+  {
+    "ip_address": "207.127.66.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-jovanovac-1"
+  },
+  {
+    "ip_address": "207.127.68.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-jovanovac-1"
+  },
+  {
+    "ip_address": "207.127.80.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-jovanovac-1"
+  },
+  {
+    "ip_address": "207.127.84.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-jovanovac-1"
+  },
+  {
+    "ip_address": "207.127.86.0/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-jovanovac-1"
+  }
+]

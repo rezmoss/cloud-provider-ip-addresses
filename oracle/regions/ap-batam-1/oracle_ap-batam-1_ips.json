@@ -1,0 +1,62 @@
+[
+  {
+    "ip_address": "168.110.192.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-batam-1"
+  },
+  {
+    "ip_address": "134.70.210.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN,OBJECT_STORAGE",
+    "region": "ap-batam-1"
+  },
+  {
+    "ip_address": "134.70.212.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN,OBJECT_STORAGE",
+    "region": "ap-batam-1"
+  },
+  {
+    "ip_address": "140.91.98.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-batam-1"
+  },
+  {
+    "ip_address": "140.204.146.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-batam-1"
+  },
+  {
+    "ip_address": "168.110.248.0/26",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-batam-1"
+  },
+  {
+    "ip_address": "168.110.248.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-batam-1"
+  },
+  {
+    "ip_address": "168.110.249.192/26",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-batam-1"
+  },
+  {
+    "ip_address": "168.110.250.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-batam-1"
+  },
+  {
+    "ip_address": "168.110.252.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-batam-1"
+  }
+]

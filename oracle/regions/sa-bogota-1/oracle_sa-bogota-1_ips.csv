@@ -1,0 +1,11 @@
+ip_address,ip_type,service,region
+149.130.160.0/19,IPv4,OCI,sa-bogota-1
+157.137.192.0/19,IPv4,OCI,sa-bogota-1
+157.137.224.0/20,IPv4,OCI,sa-bogota-1
+158.247.120.0/21,IPv4,OCI,sa-bogota-1
+157.137.254.0/24,IPv4,OSN,sa-bogota-1
+158.247.96.0/22,IPv4,OSN,sa-bogota-1
+158.247.100.0/25,IPv4,OSN,sa-bogota-1
+158.247.104.0/22,IPv4,OSN,sa-bogota-1
+158.247.112.0/23,IPv4,OSN,sa-bogota-1
+158.247.114.128/25,IPv4,OSN,sa-bogota-1

@@ -1,0 +1,10 @@
+ip_address,ip_type,service,region
+192.22.0.0/19,IPv4,OCI,us-shawnee-1
+192.22.32.0/26,IPv4,OSN,us-shawnee-1
+192.22.32.128/25,IPv4,OSN,us-shawnee-1
+192.22.33.192/26,IPv4,OSN,us-shawnee-1
+192.22.34.0/23,IPv4,OSN,us-shawnee-1
+192.22.36.0/22,IPv4,OSN,us-shawnee-1
+192.22.40.0/22,IPv4,OSN,us-shawnee-1
+192.22.44.128/25,IPv4,OSN,us-shawnee-1
+192.22.48.0/23,IPv4,OSN,us-shawnee-1
