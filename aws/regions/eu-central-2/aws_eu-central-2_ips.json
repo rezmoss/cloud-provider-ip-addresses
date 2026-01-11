@@ -324,6 +324,12 @@
     "region": "eu-central-2"
   },
   {
+    "ip_address": "16.18.0.0/16",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "eu-central-2"
+  },
+  {
     "ip_address": "35.71.121.0/24",
     "ip_type": "IPv4",
     "service": "EC2",

@@ -360,6 +360,12 @@
     "region": "il-central-1"
   },
   {
+    "ip_address": "16.164.0.0/16",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "il-central-1"
+  },
+  {
     "ip_address": "3.5.56.0/22",
     "ip_type": "IPv4",
     "service": "EC2",

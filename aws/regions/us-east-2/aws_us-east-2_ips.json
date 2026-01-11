@@ -1254,6 +1254,12 @@
     "region": "us-east-2"
   },
   {
+    "ip_address": "1.179.2.0/23",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-east-2"
+  },
+  {
     "ip_address": "52.94.152.62/32",
     "ip_type": "IPv4",
     "service": "AMAZON",

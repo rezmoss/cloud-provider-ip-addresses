@@ -1188,6 +1188,12 @@
     "region": "sa-east-1"
   },
   {
+    "ip_address": "54.20.0.0/15",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "sa-east-1"
+  },
+  {
     "ip_address": "15.193.172.0/22",
     "ip_type": "IPv4",
     "service": "EC2",
