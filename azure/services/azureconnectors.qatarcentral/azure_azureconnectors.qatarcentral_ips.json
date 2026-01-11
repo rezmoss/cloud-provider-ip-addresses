@@ -1,0 +1,50 @@
+[
+  {
+    "ip_address": "4.171.26.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
+    "ip_address": "20.21.43.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
+    "ip_address": "20.21.205.90/32",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
+    "ip_address": "20.21.210.110/32",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
+    "ip_address": "20.21.210.196/32",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
+    "ip_address": "20.173.2.102/32",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
+    "ip_address": "2603:1040:1002:5::380/122",
+    "ip_type": "IPv6",
+    "service": "AzureConnectors.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
+    "ip_address": "2603:1040:1002:400::c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureConnectors.QatarCentral",
+    "region": "qatarcentral"
+  }
+]

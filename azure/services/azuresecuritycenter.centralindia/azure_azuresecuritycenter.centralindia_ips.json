@@ -1,0 +1,56 @@
+[
+  {
+    "ip_address": "20.43.123.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "57.159.87.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "57.159.88.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "57.159.90.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "57.159.91.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "98.70.194.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "98.70.194.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "98.70.195.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "98.70.196.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.CentralIndia",
+    "region": "centralindia"
+  }
+]

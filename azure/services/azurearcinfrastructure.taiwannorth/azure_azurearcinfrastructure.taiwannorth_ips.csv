@@ -1,0 +1,6 @@
+ip_address,ip_type,service,region
+51.53.41.76/30,IPv4,AzureArcInfrastructure.TaiwanNorth,taiwannorth
+51.53.43.104/29,IPv4,AzureArcInfrastructure.TaiwanNorth,taiwannorth
+51.53.43.112/31,IPv4,AzureArcInfrastructure.TaiwanNorth,taiwannorth
+51.53.110.138/32,IPv4,AzureArcInfrastructure.TaiwanNorth,taiwannorth
+2603:1040:1302:2::620/124,IPv6,AzureArcInfrastructure.TaiwanNorth,taiwannorth

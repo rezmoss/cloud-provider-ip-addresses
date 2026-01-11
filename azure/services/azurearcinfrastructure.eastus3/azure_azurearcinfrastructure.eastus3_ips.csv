@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+134.138.76.120/30,IPv4,AzureArcInfrastructure.EastUS3,eastus3
+134.138.88.84/32,IPv4,AzureArcInfrastructure.EastUS3,eastus3
+134.138.99.12/32,IPv4,AzureArcInfrastructure.EastUS3,eastus3
+2603:1030:1402:2::240/124,IPv6,AzureArcInfrastructure.EastUS3,eastus3

@@ -1,0 +1,7 @@
+ip_address,ip_type,service,region
+20.44.2.0/30,IPv4,AzureKeyVault.SouthCentralUSSTG,usstagec
+20.45.117.32/29,IPv4,AzureKeyVault.SouthCentralUSSTG,usstagec
+20.45.117.40/30,IPv4,AzureKeyVault.SouthCentralUSSTG,usstagec
+2603:1030:302::90/125,IPv6,AzureKeyVault.SouthCentralUSSTG,usstagec
+2603:1030:302::98/126,IPv6,AzureKeyVault.SouthCentralUSSTG,usstagec
+2603:1030:302:402::180/125,IPv6,AzureKeyVault.SouthCentralUSSTG,usstagec

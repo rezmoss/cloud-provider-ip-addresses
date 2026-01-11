@@ -1,0 +1,56 @@
+[
+  {
+    "ip_address": "20.38.115.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "20.47.45.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "20.150.60.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "20.150.112.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "20.153.123.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "20.157.229.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "20.209.206.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "57.150.216.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d05::/48",
+    "ip_type": "IPv6",
+    "service": "Storage.GermanyNorth",
+    "region": "germanyn"
+  }
+]

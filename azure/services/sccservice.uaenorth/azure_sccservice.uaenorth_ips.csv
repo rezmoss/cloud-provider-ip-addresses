@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+40.120.64.104/29,IPv4,SCCservice.UAENorth,uaenorth
+74.243.224.0/27,IPv4,SCCservice.UAENorth,uaenorth
+2603:1040:904:6::200/123,IPv6,SCCservice.UAENorth,uaenorth

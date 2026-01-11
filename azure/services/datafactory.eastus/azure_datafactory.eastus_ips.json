@@ -1,0 +1,110 @@
+[
+  {
+    "ip_address": "20.42.2.0/23",
+    "ip_type": "IPv4",
+    "service": "DataFactory.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "20.42.4.0/26",
+    "ip_type": "IPv4",
+    "service": "DataFactory.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "20.42.64.0/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "20.49.111.0/29",
+    "ip_type": "IPv4",
+    "service": "DataFactory.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "20.119.28.57/32",
+    "ip_type": "IPv4",
+    "service": "DataFactory.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "20.232.89.104/29",
+    "ip_type": "IPv4",
+    "service": "DataFactory.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "40.71.14.32/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "40.78.229.96/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "48.211.4.136/29",
+    "ip_type": "IPv4",
+    "service": "DataFactory.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "48.211.4.144/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "48.211.4.160/29",
+    "ip_type": "IPv4",
+    "service": "DataFactory.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "2603:1030:210:1::480/121",
+    "ip_type": "IPv6",
+    "service": "DataFactory.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "2603:1030:210:1::500/122",
+    "ip_type": "IPv6",
+    "service": "DataFactory.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "2603:1030:210:1::700/121",
+    "ip_type": "IPv6",
+    "service": "DataFactory.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "2603:1030:210:1::780/122",
+    "ip_type": "IPv6",
+    "service": "DataFactory.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "2603:1030:210:402::330/124",
+    "ip_type": "IPv6",
+    "service": "DataFactory.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "2603:1030:210:802::210/124",
+    "ip_type": "IPv6",
+    "service": "DataFactory.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "2603:1030:210:c02::210/124",
+    "ip_type": "IPv6",
+    "service": "DataFactory.EastUS",
+    "region": "eastus"
+  }
+]

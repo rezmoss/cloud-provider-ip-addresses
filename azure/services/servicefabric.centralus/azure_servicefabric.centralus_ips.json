@@ -1,0 +1,62 @@
+[
+  {
+    "ip_address": "13.89.171.104/29",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "20.44.10.124/30",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "40.69.166.6/32",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "52.165.37.188/32",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "52.182.141.56/30",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "52.182.172.232/32",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "104.43.213.84/32",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "2603:1030:10:402::98/125",
+    "ip_type": "IPv6",
+    "service": "ServiceFabric.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "2603:1030:10:802::98/125",
+    "ip_type": "IPv6",
+    "service": "ServiceFabric.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "2603:1030:10:c02::98/125",
+    "ip_type": "IPv6",
+    "service": "ServiceFabric.CentralUS",
+    "region": "centralus"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "51.116.48.224/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "51.116.59.224/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04::400/122",
+    "ip_type": "IPv6",
+    "service": "BatchNodeManagement.GermanyNorth",
+    "region": "germanyn"
+  }
+]

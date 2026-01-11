@@ -1,0 +1,68 @@
+[
+  {
+    "ip_address": "4.213.28.120/29",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "4.213.29.128/28",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "20.43.126.196/31",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "20.192.102.110/31",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "20.204.193.0/29",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "40.80.54.56/31",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "52.140.104.70/31",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "2603:1040:a06:1::200/123",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "2603:1040:a06:402::160/125",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "2603:1040:a06:802::140/125",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "2603:1040:a06:c00::20/125",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.CentralIndia",
+    "region": "centralindia"
+  }
+]

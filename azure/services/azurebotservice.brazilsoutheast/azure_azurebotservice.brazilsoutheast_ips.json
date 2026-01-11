@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "191.233.8.16/30",
+    "ip_type": "IPv4",
+    "service": "AzureBotService.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "2603:1050:403::20/123",
+    "ip_type": "IPv6",
+    "service": "AzureBotService.BrazilSoutheast",
+    "region": "brazilse"
+  }
+]

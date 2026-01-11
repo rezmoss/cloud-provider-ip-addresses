@@ -1,0 +1,68 @@
+[
+  {
+    "ip_address": "51.105.67.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "51.105.67.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "51.105.75.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "51.105.75.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "51.140.148.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "51.140.148.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "51.143.212.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "51.143.213.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "2603:1020:705:402::200/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "2603:1020:705:802::180/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "2603:1020:705:c02::180/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.UKSouth",
+    "region": "uksouth"
+  }
+]

@@ -1,0 +1,12 @@
+ip_address,ip_type,service,region
+4.149.105.4/31,IPv4,PowerQueryOnline.SouthCentralUS,southcentralus
+20.45.127.74/31,IPv4,PowerQueryOnline.SouthCentralUS,southcentralus
+20.118.78.96/29,IPv4,PowerQueryOnline.SouthCentralUS,southcentralus
+40.119.8.74/31,IPv4,PowerQueryOnline.SouthCentralUS,southcentralus
+40.124.65.172/31,IPv4,PowerQueryOnline.SouthCentralUS,southcentralus
+157.55.90.200/29,IPv4,PowerQueryOnline.SouthCentralUS,southcentralus
+157.55.90.208/28,IPv4,PowerQueryOnline.SouthCentralUS,southcentralus
+2603:1030:807:1::200/123,IPv6,PowerQueryOnline.SouthCentralUS,southcentralus
+2603:1030:807:402::160/125,IPv6,PowerQueryOnline.SouthCentralUS,southcentralus
+2603:1030:807:802::140/125,IPv6,PowerQueryOnline.SouthCentralUS,southcentralus
+2603:1030:807:c00::20/125,IPv6,PowerQueryOnline.SouthCentralUS,southcentralus

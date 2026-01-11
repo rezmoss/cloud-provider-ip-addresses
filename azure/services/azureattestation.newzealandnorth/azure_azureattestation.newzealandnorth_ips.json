@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "172.204.152.20/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.255.208/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1010:502::5c0/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.NewZealandNorth",
+    "region": "newzealandnorth"
+  }
+]

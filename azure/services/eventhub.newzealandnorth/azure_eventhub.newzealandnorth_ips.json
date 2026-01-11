@@ -1,0 +1,32 @@
+[
+  {
+    "ip_address": "172.204.157.0/24",
+    "ip_type": "IPv4",
+    "service": "EventHub.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.183.0/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.192.128/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.204.208.128/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1010:502:1::/120",
+    "ip_type": "IPv6",
+    "service": "EventHub.NewZealandNorth",
+    "region": "newzealandnorth"
+  }
+]

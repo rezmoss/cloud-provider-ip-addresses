@@ -1,0 +1,3 @@
+ip_address,ip_type,service,region
+20.45.195.0/25,IPv4,AzureEventGrid.CentralUSEUAP,centraluseuap
+2603:1030:f:1::380/121,IPv6,AzureEventGrid.CentralUSEUAP,centraluseuap

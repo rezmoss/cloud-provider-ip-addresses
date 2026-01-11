@@ -1,0 +1,7 @@
+ip_address,ip_type,service,region
+13.69.109.132/30,IPv4,ActionGroup.WestEurope,westeurope
+20.105.215.20/31,IPv4,ActionGroup.WestEurope,westeurope
+172.201.232.60/30,IPv4,ActionGroup.WestEurope,westeurope
+2603:1020:206:b::fc/126,IPv6,ActionGroup.WestEurope,westeurope
+2603:1020:206:402::178/125,IPv6,ActionGroup.WestEurope,westeurope
+2603:1020:206:403::78/125,IPv6,ActionGroup.WestEurope,westeurope

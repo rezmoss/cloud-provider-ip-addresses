@@ -1,0 +1,10 @@
+ip_address,ip_type,service,region
+20.207.175.32/29,IPv4,AzureArcInfrastructure.WestIndia,westindia
+20.207.175.102/31,IPv4,AzureArcInfrastructure.WestIndia,westindia
+52.136.51.68/30,IPv4,AzureArcInfrastructure.WestIndia,westindia
+57.159.152.62/32,IPv4,AzureArcInfrastructure.WestIndia,westindia
+57.159.152.100/30,IPv4,AzureArcInfrastructure.WestIndia,westindia
+104.211.146.248/30,IPv4,AzureArcInfrastructure.WestIndia,westindia
+2603:1040:806:3::7c0/124,IPv6,AzureArcInfrastructure.WestIndia,westindia
+2603:1040:806:7::499/128,IPv6,AzureArcInfrastructure.WestIndia,westindia
+2603:1040:806:7::49a/127,IPv6,AzureArcInfrastructure.WestIndia,westindia

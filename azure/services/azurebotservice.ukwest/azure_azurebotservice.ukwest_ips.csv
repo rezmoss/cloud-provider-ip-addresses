@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+51.137.160.64/30,IPv4,AzureBotService.UKWest,ukwest
+51.140.212.72/30,IPv4,AzureBotService.UKWest,ukwest
+2603:1020:605::20/123,IPv6,AzureBotService.UKWest,ukwest

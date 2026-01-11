@@ -1,0 +1,9 @@
+ip_address,ip_type,service,region
+20.208.21.162/31,IPv4,AzureArcInfrastructure.SwitzerlandNorth,switzerlandn
+20.208.151.204/31,IPv4,AzureArcInfrastructure.SwitzerlandNorth,switzerlandn
+20.208.152.48/29,IPv4,AzureArcInfrastructure.SwitzerlandNorth,switzerlandn
+51.103.205.160/31,IPv4,AzureArcInfrastructure.SwitzerlandNorth,switzerlandn
+51.107.50.56/30,IPv4,AzureArcInfrastructure.SwitzerlandNorth,switzerlandn
+51.107.53.32/30,IPv4,AzureArcInfrastructure.SwitzerlandNorth,switzerlandn
+51.107.60.152/32,IPv4,AzureArcInfrastructure.SwitzerlandNorth,switzerlandn
+51.107.129.104/30,IPv4,AzureArcInfrastructure.SwitzerlandNorth,switzerlandn

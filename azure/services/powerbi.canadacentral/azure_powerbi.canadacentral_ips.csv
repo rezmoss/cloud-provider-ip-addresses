@@ -1,0 +1,17 @@
+ip_address,ip_type,service,region
+4.206.229.128/27,IPv4,PowerBI.CanadaCentral,canadacentral
+20.48.196.232/29,IPv4,PowerBI.CanadaCentral,canadacentral
+20.48.197.124/30,IPv4,PowerBI.CanadaCentral,canadacentral
+20.48.202.16/29,IPv4,PowerBI.CanadaCentral,canadacentral
+20.48.202.24/30,IPv4,PowerBI.CanadaCentral,canadacentral
+52.228.81.160/31,IPv4,PowerBI.CanadaCentral,canadacentral
+52.228.81.168/29,IPv4,PowerBI.CanadaCentral,canadacentral
+52.228.81.176/28,IPv4,PowerBI.CanadaCentral,canadacentral
+52.228.81.192/27,IPv4,PowerBI.CanadaCentral,canadacentral
+130.107.71.136/29,IPv4,PowerBI.CanadaCentral,canadacentral
+130.107.71.160/27,IPv4,PowerBI.CanadaCentral,canadacentral
+130.107.71.192/26,IPv4,PowerBI.CanadaCentral,canadacentral
+2603:1030:f05::/122,IPv6,PowerBI.CanadaCentral,canadacentral
+2603:1030:f05::40/123,IPv6,PowerBI.CanadaCentral,canadacentral
+2603:1030:f05:1::5e0/123,IPv6,PowerBI.CanadaCentral,canadacentral
+2603:1030:f05:1::600/122,IPv6,PowerBI.CanadaCentral,canadacentral

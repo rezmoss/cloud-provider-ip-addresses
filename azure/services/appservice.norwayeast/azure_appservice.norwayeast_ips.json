@@ -1,0 +1,68 @@
+[
+  {
+    "ip_address": "20.100.2.32/29",
+    "ip_type": "IPv4",
+    "service": "AppService.NorwayEast",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "20.100.2.128/25",
+    "ip_type": "IPv4",
+    "service": "AppService.NorwayEast",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "20.100.3.0/24",
+    "ip_type": "IPv4",
+    "service": "AppService.NorwayEast",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "51.120.42.0/27",
+    "ip_type": "IPv4",
+    "service": "AppService.NorwayEast",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "51.120.98.192/27",
+    "ip_type": "IPv4",
+    "service": "AppService.NorwayEast",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "51.120.106.160/27",
+    "ip_type": "IPv4",
+    "service": "AppService.NorwayEast",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "51.120.210.160/27",
+    "ip_type": "IPv4",
+    "service": "AppService.NorwayEast",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "2603:1020:e04:4::200/119",
+    "ip_type": "IPv6",
+    "service": "AppService.NorwayEast",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "2603:1020:e04:402::a0/123",
+    "ip_type": "IPv6",
+    "service": "AppService.NorwayEast",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "2603:1020:e04:802::a0/123",
+    "ip_type": "IPv6",
+    "service": "AppService.NorwayEast",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "2603:1020:e04:c02::a0/123",
+    "ip_type": "IPv6",
+    "service": "AppService.NorwayEast",
+    "region": "norwaye"
+  }
+]

@@ -1,0 +1,7 @@
+ip_address,ip_type,service,region
+20.37.76.48/28,IPv4,AzureResourceManager.UAECentral,uaecentral
+20.37.78.0/23,IPv4,AzureResourceManager.UAECentral,uaecentral
+20.45.88.0/23,IPv4,AzureResourceManager.UAECentral,uaecentral
+2603:1040:b04::6c0/122,IPv6,AzureResourceManager.UAECentral,uaecentral
+2603:1040:b04:5::100/120,IPv6,AzureResourceManager.UAECentral,uaecentral
+2603:1040:b04:402::280/122,IPv6,AzureResourceManager.UAECentral,uaecentral

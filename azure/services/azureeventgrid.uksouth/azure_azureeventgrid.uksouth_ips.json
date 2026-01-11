@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "51.104.27.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "51.132.161.160/28",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "51.132.170.64/28",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "2603:1020:705:1::380/121",
+    "ip_type": "IPv6",
+    "service": "AzureEventGrid.UKSouth",
+    "region": "uksouth"
+  }
+]

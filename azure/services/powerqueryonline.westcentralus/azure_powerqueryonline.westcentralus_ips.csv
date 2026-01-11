@@ -1,0 +1,8 @@
+ip_address,ip_type,service,region
+20.69.8.120/29,IPv4,PowerQueryOnline.WestCentralUS,westcentralus
+40.67.122.228/31,IPv4,PowerQueryOnline.WestCentralUS,westcentralus
+52.150.139.72/30,IPv4,PowerQueryOnline.WestCentralUS,westcentralus
+172.208.172.80/28,IPv4,PowerQueryOnline.WestCentralUS,westcentralus
+172.208.172.96/29,IPv4,PowerQueryOnline.WestCentralUS,westcentralus
+2603:1030:b04::200/123,IPv6,PowerQueryOnline.WestCentralUS,westcentralus
+2603:1030:b04:402::160/125,IPv6,PowerQueryOnline.WestCentralUS,westcentralus

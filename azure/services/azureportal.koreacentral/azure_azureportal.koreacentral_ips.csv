@@ -1,0 +1,6 @@
+ip_address,ip_type,service,region
+20.41.65.224/27,IPv4,AzurePortal.KoreaCentral,koreacentral
+20.41.67.88/30,IPv4,AzurePortal.KoreaCentral,koreacentral
+20.194.72.56/29,IPv4,AzurePortal.KoreaCentral,koreacentral
+2603:1040:f05::100/121,IPv6,AzurePortal.KoreaCentral,koreacentral
+2603:1040:f05:1::680/121,IPv6,AzurePortal.KoreaCentral,koreacentral

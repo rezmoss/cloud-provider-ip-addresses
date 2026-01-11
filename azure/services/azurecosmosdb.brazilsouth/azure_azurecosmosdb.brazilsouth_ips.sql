@@ -1,0 +1,22 @@
+-- SQL script to create table `azure_azurecosmosdb.brazilsouth_ips` and insert IP addresses
+
+CREATE TABLE IF NOT EXISTS `azure_azurecosmosdb.brazilsouth_ips` (
+  `ip_address` VARCHAR(45) NOT NULL,
+  `ip_type` VARCHAR(10) NOT NULL,
+  PRIMARY KEY (`ip_address`)
+);
+
+INSERT INTO `azure_azurecosmosdb.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('20.195.200.1/32', 'IPv4');
+INSERT INTO `azure_azurecosmosdb.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('20.195.200.28/32', 'IPv4');
+INSERT INTO `azure_azurecosmosdb.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('20.226.208.0/26', 'IPv4');
+INSERT INTO `azure_azurecosmosdb.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('20.226.210.0/25', 'IPv4');
+INSERT INTO `azure_azurecosmosdb.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('20.226.210.128/26', 'IPv4');
+INSERT INTO `azure_azurecosmosdb.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('191.233.204.128/27', 'IPv4');
+INSERT INTO `azure_azurecosmosdb.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('191.234.138.160/27', 'IPv4');
+INSERT INTO `azure_azurecosmosdb.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('191.234.146.0/26', 'IPv4');
+INSERT INTO `azure_azurecosmosdb.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('191.234.154.0/26', 'IPv4');
+INSERT INTO `azure_azurecosmosdb.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('191.234.179.157/32', 'IPv4');
+INSERT INTO `azure_azurecosmosdb.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('191.234.206.81/32', 'IPv4');
+INSERT INTO `azure_azurecosmosdb.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:6:402::c0/122', 'IPv6');
+INSERT INTO `azure_azurecosmosdb.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:6:802::c0/122', 'IPv6');
+INSERT INTO `azure_azurecosmosdb.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:6:c02::c0/122', 'IPv6');

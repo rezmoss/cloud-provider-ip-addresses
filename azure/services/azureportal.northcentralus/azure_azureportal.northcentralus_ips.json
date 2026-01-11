@@ -1,0 +1,32 @@
+[
+  {
+    "ip_address": "20.49.115.184/29",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.NorthCentralUS",
+    "region": "northcentralus"
+  },
+  {
+    "ip_address": "40.80.190.160/27",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.NorthCentralUS",
+    "region": "northcentralus"
+  },
+  {
+    "ip_address": "40.80.191.200/30",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.NorthCentralUS",
+    "region": "northcentralus"
+  },
+  {
+    "ip_address": "135.224.40.0/27",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.NorthCentralUS",
+    "region": "northcentralus"
+  },
+  {
+    "ip_address": "2603:1030:608::700/121",
+    "ip_type": "IPv6",
+    "service": "AzurePortal.NorthCentralUS",
+    "region": "northcentralus"
+  }
+]

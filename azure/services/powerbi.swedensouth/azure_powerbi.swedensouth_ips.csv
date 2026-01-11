@@ -1,0 +1,10 @@
+ip_address,ip_type,service,region
+20.91.96.80/28,IPv4,PowerBI.SwedenSouth,swedensouth
+51.12.17.16/30,IPv4,PowerBI.SwedenSouth,swedensouth
+51.12.17.24/29,IPv4,PowerBI.SwedenSouth,swedensouth
+51.12.17.246/31,IPv4,PowerBI.SwedenSouth,swedensouth
+51.12.22.168/30,IPv4,PowerBI.SwedenSouth,swedensouth
+51.12.22.200/30,IPv4,PowerBI.SwedenSouth,swedensouth
+51.12.198.210/31,IPv4,PowerBI.SwedenSouth,swedensouth
+2603:1020:1104::6a0/123,IPv6,PowerBI.SwedenSouth,swedensouth
+2603:1020:1104::6c0/122,IPv6,PowerBI.SwedenSouth,swedensouth

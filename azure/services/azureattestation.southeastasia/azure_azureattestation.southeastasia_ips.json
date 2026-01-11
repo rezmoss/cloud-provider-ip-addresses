@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "4.145.10.168/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "23.98.109.52/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "40.78.239.116/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.SoutheastAsia",
+    "region": "southeastasia"
+  }
+]

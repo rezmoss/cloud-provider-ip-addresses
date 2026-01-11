@@ -1,0 +1,7 @@
+ip_address,ip_type,service,region
+52.240.241.96/27,IPv4,AzureSecurityCenter.NorthCentralUS,northcentralus
+130.213.0.96/27,IPv4,AzureSecurityCenter.NorthCentralUS,northcentralus
+130.213.0.128/26,IPv4,AzureSecurityCenter.NorthCentralUS,northcentralus
+130.213.1.0/24,IPv4,AzureSecurityCenter.NorthCentralUS,northcentralus
+130.213.2.0/23,IPv4,AzureSecurityCenter.NorthCentralUS,northcentralus
+130.213.4.0/22,IPv4,AzureSecurityCenter.NorthCentralUS,northcentralus

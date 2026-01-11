@@ -1,0 +1,50 @@
+[
+  {
+    "ip_address": "68.211.5.128/25",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.ChileCentral",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "68.211.152.16/29",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.ChileCentral",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "68.211.152.32/28",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.ChileCentral",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "68.211.168.16/29",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.ChileCentral",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "68.211.168.32/28",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.ChileCentral",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "68.211.184.16/29",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.ChileCentral",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "68.211.184.32/28",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.ChileCentral",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "2603:1050:301:1::/121",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.ChileCentral",
+    "region": "chilec"
+  }
+]

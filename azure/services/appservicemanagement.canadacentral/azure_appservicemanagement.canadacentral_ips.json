@@ -1,0 +1,50 @@
+[
+  {
+    "ip_address": "4.206.254.64/29",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "13.71.170.64/26",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "20.48.202.48/28",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "40.85.230.101/32",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "2603:1030:f05:2::700/123",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "2603:1030:f05:402::100/122",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "2603:1030:f05:802::100/122",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "2603:1030:f05:c02::100/122",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.CanadaCentral",
+    "region": "canadacentral"
+  }
+]

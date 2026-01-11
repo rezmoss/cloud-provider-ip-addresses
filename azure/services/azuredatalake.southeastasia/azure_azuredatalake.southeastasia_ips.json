@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "104.44.89.39/32",
+    "ip_type": "IPv4",
+    "service": "AzureDataLake.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "104.44.89.42/32",
+    "ip_type": "IPv4",
+    "service": "AzureDataLake.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "104.44.90.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureDataLake.SoutheastAsia",
+    "region": "southeastasia"
+  }
+]

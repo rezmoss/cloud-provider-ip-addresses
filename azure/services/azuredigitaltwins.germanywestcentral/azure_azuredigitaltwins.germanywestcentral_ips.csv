@@ -1,0 +1,3 @@
+ip_address,ip_type,service,region
+51.116.148.120/29,IPv4,AzureDigitalTwins.GermanyWestCentral,germanywc
+51.116.148.192/27,IPv4,AzureDigitalTwins.GermanyWestCentral,germanywc

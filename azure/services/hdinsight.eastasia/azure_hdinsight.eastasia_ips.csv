@@ -1,0 +1,7 @@
+ip_address,ip_type,service,region
+13.75.38.112/29,IPv4,HDInsight.EastAsia,eastasia
+20.189.111.192/29,IPv4,HDInsight.EastAsia,eastasia
+23.102.235.122/32,IPv4,HDInsight.EastAsia,eastasia
+52.175.38.134/32,IPv4,HDInsight.EastAsia,eastasia
+2603:1040:207:1::4d0/124,IPv6,HDInsight.EastAsia,eastasia
+2603:1040:207:402::320/124,IPv6,HDInsight.EastAsia,eastasia

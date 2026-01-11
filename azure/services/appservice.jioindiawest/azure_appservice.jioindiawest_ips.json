@@ -1,0 +1,62 @@
+[
+  {
+    "ip_address": "20.193.198.0/24",
+    "ip_type": "IPv4",
+    "service": "AppService.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "20.193.202.128/27",
+    "ip_type": "IPv4",
+    "service": "AppService.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "40.64.8.224/27",
+    "ip_type": "IPv4",
+    "service": "AppService.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "40.64.9.0/25",
+    "ip_type": "IPv4",
+    "service": "AppService.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "40.64.10.0/25",
+    "ip_type": "IPv4",
+    "service": "AppService.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "40.64.10.128/27",
+    "ip_type": "IPv4",
+    "service": "AppService.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "2603:1040:d04:3::100/120",
+    "ip_type": "IPv6",
+    "service": "AppService.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "2603:1040:d04:400::a0/123",
+    "ip_type": "IPv6",
+    "service": "AppService.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "2603:1040:d04:800::160/123",
+    "ip_type": "IPv6",
+    "service": "AppService.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "2603:1040:d04:800::360/123",
+    "ip_type": "IPv6",
+    "service": "AppService.JioIndiaWest",
+    "region": "jioindiawest"
+  }
+]

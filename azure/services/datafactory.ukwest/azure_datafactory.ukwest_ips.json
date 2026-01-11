@@ -1,0 +1,62 @@
+[
+  {
+    "ip_address": "20.58.71.0/26",
+    "ip_type": "IPv4",
+    "service": "DataFactory.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.90.38.248/29",
+    "ip_type": "IPv4",
+    "service": "DataFactory.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.160.128/25",
+    "ip_type": "IPv4",
+    "service": "DataFactory.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.161.0/26",
+    "ip_type": "IPv4",
+    "service": "DataFactory.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.164.192/29",
+    "ip_type": "IPv4",
+    "service": "DataFactory.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.140.212.112/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "172.186.7.128/27",
+    "ip_type": "IPv4",
+    "service": "DataFactory.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605::440/122",
+    "ip_type": "IPv6",
+    "service": "DataFactory.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605::500/121",
+    "ip_type": "IPv6",
+    "service": "DataFactory.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:402::330/124",
+    "ip_type": "IPv6",
+    "service": "DataFactory.UKWest",
+    "region": "ukwest"
+  }
+]

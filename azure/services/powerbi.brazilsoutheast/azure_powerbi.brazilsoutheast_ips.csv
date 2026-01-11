@@ -1,0 +1,8 @@
+ip_address,ip_type,service,region
+20.195.146.200/30,IPv4,PowerBI.BrazilSoutheast,brazilse
+20.206.0.96/29,IPv4,PowerBI.BrazilSoutheast,brazilse
+191.233.8.22/31,IPv4,PowerBI.BrazilSoutheast,brazilse
+191.233.10.32/30,IPv4,PowerBI.BrazilSoutheast,brazilse
+191.233.10.40/29,IPv4,PowerBI.BrazilSoutheast,brazilse
+2603:1050:403::5e0/123,IPv6,PowerBI.BrazilSoutheast,brazilse
+2603:1050:403::600/122,IPv6,PowerBI.BrazilSoutheast,brazilse

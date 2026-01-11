@@ -1,0 +1,7 @@
+ip_address,ip_type,service,region
+20.44.26.136/29,IPv4,MicrosoftContainerRegistry.KoreaCentral,koreacentral
+20.194.66.8/29,IPv4,MicrosoftContainerRegistry.KoreaCentral,koreacentral
+52.231.18.48/29,IPv4,MicrosoftContainerRegistry.KoreaCentral,koreacentral
+2603:1040:f05:402::88/125,IPv6,MicrosoftContainerRegistry.KoreaCentral,koreacentral
+2603:1040:f05:802::88/125,IPv6,MicrosoftContainerRegistry.KoreaCentral,koreacentral
+2603:1040:f05:c02::88/125,IPv6,MicrosoftContainerRegistry.KoreaCentral,koreacentral

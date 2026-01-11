@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "4.247.186.56/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "20.43.123.196/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "20.192.43.76/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "2603:1040:a06:2::2a0/123",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.CentralIndia",
+    "region": "centralindia"
+  }
+]

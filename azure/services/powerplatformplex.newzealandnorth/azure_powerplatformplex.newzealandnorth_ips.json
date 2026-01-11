@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "172.204.242.128/26",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1061:2004:b800::/57",
+    "ip_type": "IPv6",
+    "service": "PowerPlatformPlex.NewZealandNorth",
+    "region": "newzealandnorth"
+  }
+]

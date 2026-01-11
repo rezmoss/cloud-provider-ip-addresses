@@ -1,0 +1,68 @@
+[
+  {
+    "ip_address": "4.229.67.224/27",
+    "ip_type": "IPv4",
+    "service": "DataFactory.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.69.108.160/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.69.111.48/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.89.16.128/25",
+    "ip_type": "IPv4",
+    "service": "DataFactory.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.89.17.0/26",
+    "ip_type": "IPv4",
+    "service": "DataFactory.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.89.20.224/29",
+    "ip_type": "IPv4",
+    "service": "DataFactory.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.139.111.64/26",
+    "ip_type": "IPv4",
+    "service": "DataFactory.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.242.45.56/29",
+    "ip_type": "IPv4",
+    "service": "DataFactory.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005::440/122",
+    "ip_type": "IPv6",
+    "service": "DataFactory.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005::500/121",
+    "ip_type": "IPv6",
+    "service": "DataFactory.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:402::330/124",
+    "ip_type": "IPv6",
+    "service": "DataFactory.CanadaEast",
+    "region": "canadaeast"
+  }
+]

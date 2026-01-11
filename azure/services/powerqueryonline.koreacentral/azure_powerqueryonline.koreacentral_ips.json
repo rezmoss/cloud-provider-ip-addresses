@@ -1,0 +1,74 @@
+[
+  {
+    "ip_address": "4.181.25.176/28",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "4.181.26.64/29",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "20.41.64.70/31",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "20.41.65.144/31",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "20.44.31.54/31",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "20.194.68.166/31",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "20.194.81.210/31",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "20.200.198.248/29",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "2603:1040:f05:1::200/123",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "2603:1040:f05:402::160/125",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "2603:1040:f05:802::140/125",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "2603:1040:f05:c00::20/125",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.KoreaCentral",
+    "region": "koreacentral"
+  }
+]

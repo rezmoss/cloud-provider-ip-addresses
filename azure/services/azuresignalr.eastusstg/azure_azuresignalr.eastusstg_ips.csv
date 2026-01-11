@@ -1,0 +1,2 @@
+ip_address,ip_type,service,region
+2603:1030:104:2::400/120,IPv6,AzureSignalR.EastUSSTG,usstagee

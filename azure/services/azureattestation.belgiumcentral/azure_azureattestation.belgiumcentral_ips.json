@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "9.160.40.20/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1020:1502::540/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.BelgiumCentral",
+    "region": "belgiumcentral"
+  }
+]

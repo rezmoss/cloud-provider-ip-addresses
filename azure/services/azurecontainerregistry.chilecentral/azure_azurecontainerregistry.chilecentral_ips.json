@@ -1,0 +1,104 @@
+[
+  {
+    "ip_address": "68.211.2.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.ChileCentral",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "68.211.152.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.ChileCentral",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "68.211.154.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.ChileCentral",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "68.211.168.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.ChileCentral",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "68.211.170.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.ChileCentral",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "68.211.184.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.ChileCentral",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "68.211.186.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.ChileCentral",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "2603:1050:301::3e0/125",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.ChileCentral",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "2603:1050:301:4::4b0/124",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.ChileCentral",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "2603:1050:301:4::4c0/123",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.ChileCentral",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "2603:1050:301:4::4e0/125",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.ChileCentral",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "2603:1050:301:400::8/125",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.ChileCentral",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "2603:1050:301:400::80/121",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.ChileCentral",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "2603:1050:301:800::8/125",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.ChileCentral",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "2603:1050:301:800::80/121",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.ChileCentral",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "2603:1050:301:c00::8/125",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.ChileCentral",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "2603:1050:301:c00::80/121",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.ChileCentral",
+    "region": "chilec"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "ip_address": "158.23.10.64/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "158.23.122.64/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "158.23.194.64/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "2603:1030:702:400::/125",
+    "ip_type": "IPv6",
+    "service": "MicrosoftContainerRegistry.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "2603:1030:702:800::/125",
+    "ip_type": "IPv6",
+    "service": "MicrosoftContainerRegistry.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "2603:1030:702:c00::/125",
+    "ip_type": "IPv6",
+    "service": "MicrosoftContainerRegistry.MexicoCentral",
+    "region": "mexicocentral"
+  }
+]

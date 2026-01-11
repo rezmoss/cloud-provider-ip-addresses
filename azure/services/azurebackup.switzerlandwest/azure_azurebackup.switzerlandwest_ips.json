@@ -1,0 +1,32 @@
+[
+  {
+    "ip_address": "51.107.155.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "51.107.155.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "51.107.251.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "2603:1020:b04:5::180/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "2603:1020:b04:402::200/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.SwitzerlandWest",
+    "region": "switzerlandw"
+  }
+]

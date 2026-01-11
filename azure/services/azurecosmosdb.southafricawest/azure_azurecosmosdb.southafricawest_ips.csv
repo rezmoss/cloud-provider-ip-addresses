@@ -1,0 +1,7 @@
+ip_address,ip_type,service,region
+40.117.25.64/26,IPv4,AzureCosmosDB.SouthAfricaWest,southafricawest
+40.117.27.0/25,IPv4,AzureCosmosDB.SouthAfricaWest,southafricawest
+40.117.27.128/26,IPv4,AzureCosmosDB.SouthAfricaWest,southafricawest
+102.133.26.64/26,IPv4,AzureCosmosDB.SouthAfricaWest,southafricawest
+102.133.60.64/27,IPv4,AzureCosmosDB.SouthAfricaWest,southafricawest
+2603:1000:4:402::c0/122,IPv6,AzureCosmosDB.SouthAfricaWest,southafricawest

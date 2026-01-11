@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+40.80.184.64/30,IPv4,AzureBotService.NorthCentralUS,northcentralus
+52.162.111.16/30,IPv4,AzureBotService.NorthCentralUS,northcentralus
+2603:1030:608::20/123,IPv6,AzureBotService.NorthCentralUS,northcentralus

@@ -1,0 +1,11 @@
+ip_address,ip_type,service,region
+13.67.9.160/27,IPv4,BatchNodeManagement.SoutheastAsia,southeastasia
+13.67.58.116/32,IPv4,BatchNodeManagement.SoutheastAsia,southeastasia
+20.43.132.64/27,IPv4,BatchNodeManagement.SoutheastAsia,southeastasia
+23.97.48.186/32,IPv4,BatchNodeManagement.SoutheastAsia,southeastasia
+23.97.51.12/32,IPv4,BatchNodeManagement.SoutheastAsia,southeastasia
+23.98.82.160/27,IPv4,BatchNodeManagement.SoutheastAsia,southeastasia
+40.78.234.96/27,IPv4,BatchNodeManagement.SoutheastAsia,southeastasia
+111.221.104.48/32,IPv4,BatchNodeManagement.SoutheastAsia,southeastasia
+207.46.225.72/32,IPv4,BatchNodeManagement.SoutheastAsia,southeastasia
+2603:1040:5:1::340/122,IPv6,BatchNodeManagement.SoutheastAsia,southeastasia

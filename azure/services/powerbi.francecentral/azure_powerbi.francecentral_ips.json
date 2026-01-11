@@ -1,0 +1,74 @@
+[
+  {
+    "ip_address": "20.43.41.176/31",
+    "ip_type": "IPv4",
+    "service": "PowerBI.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "20.43.41.184/29",
+    "ip_type": "IPv4",
+    "service": "PowerBI.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "20.43.41.192/26",
+    "ip_type": "IPv4",
+    "service": "PowerBI.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "20.111.0.192/29",
+    "ip_type": "IPv4",
+    "service": "PowerBI.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "48.220.47.64/27",
+    "ip_type": "IPv4",
+    "service": "PowerBI.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "51.138.215.114/31",
+    "ip_type": "IPv4",
+    "service": "PowerBI.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "51.138.215.116/30",
+    "ip_type": "IPv4",
+    "service": "PowerBI.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "51.138.215.120/31",
+    "ip_type": "IPv4",
+    "service": "PowerBI.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "2603:1020:805::/122",
+    "ip_type": "IPv6",
+    "service": "PowerBI.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "2603:1020:805::40/123",
+    "ip_type": "IPv6",
+    "service": "PowerBI.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "2603:1020:805:1::5e0/123",
+    "ip_type": "IPv6",
+    "service": "PowerBI.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "2603:1020:805:1::600/122",
+    "ip_type": "IPv6",
+    "service": "PowerBI.FranceCentral",
+    "region": "centralfrance"
+  }
+]

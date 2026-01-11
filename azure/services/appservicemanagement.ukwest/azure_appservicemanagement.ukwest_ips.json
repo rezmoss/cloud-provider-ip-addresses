@@ -1,0 +1,44 @@
+[
+  {
+    "ip_address": "20.90.32.160/28",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.140.210.128/26",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.141.8.34/32",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "172.187.17.64/29",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:1::4a0/123",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:6::1c0/122",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:402::100/122",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.UKWest",
+    "region": "ukwest"
+  }
+]

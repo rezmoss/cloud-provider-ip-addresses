@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+20.192.225.144/28,IPv4,AzureMachineLearning.JioIndiaCentral,jioindiacentral
+20.192.235.16/28,IPv4,AzureMachineLearning.JioIndiaCentral,jioindiacentral
+2603:1040:1104::240/122,IPv6,AzureMachineLearning.JioIndiaCentral,jioindiacentral

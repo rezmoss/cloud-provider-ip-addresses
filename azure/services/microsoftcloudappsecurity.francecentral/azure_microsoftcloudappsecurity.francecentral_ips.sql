@@ -1,0 +1,79 @@
+-- SQL script to create table `azure_microsoftcloudappsecurity.francecentral_ips` and insert IP addresses
+
+CREATE TABLE IF NOT EXISTS `azure_microsoftcloudappsecurity.francecentral_ips` (
+  `ip_address` VARCHAR(45) NOT NULL,
+  `ip_type` VARCHAR(10) NOT NULL,
+  PRIMARY KEY (`ip_address`)
+);
+
+INSERT INTO `azure_microsoftcloudappsecurity.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('4.178.134.40/29', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('4.178.134.64/26', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('4.178.134.128/25', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('4.211.203.169/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('4.211.203.229/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('4.211.205.90/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('20.19.97.64/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('20.19.98.239/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('20.19.99.17/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('20.40.132.195/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('20.40.134.79/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('20.40.134.94/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('20.74.26.252/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('20.74.73.84/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('20.74.73.102/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('20.74.73.111/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('20.74.73.116/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('20.74.73.118/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('20.111.23.234/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('40.66.56.158/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('40.66.57.164/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('40.66.57.203/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('40.66.59.41/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('40.66.59.193/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('40.66.59.195/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('40.66.59.196/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('40.66.59.246/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('40.66.60.101/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('40.66.60.118/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('40.66.60.180/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('40.66.60.185/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('40.66.60.200/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('40.66.60.206/31', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('40.66.60.208/31', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('40.66.60.210/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('40.66.60.215/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('40.66.60.216/31', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('40.66.60.219/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('40.66.60.220/31', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('40.66.60.222/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('40.66.60.224/31', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('40.66.60.226/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('40.66.60.232/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('40.66.61.61/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('40.66.61.158/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('40.66.61.193/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('40.66.61.226/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('40.66.62.7/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('40.66.62.9/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('40.66.62.78/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('40.66.62.130/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('40.66.62.154/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('40.66.62.225/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('40.66.63.148/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('40.66.63.255/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('40.79.132.96/28', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('40.79.139.16/28', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('40.79.146.224/28', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('40.89.136.227/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('40.89.137.101/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('40.89.142.184/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('40.89.143.43/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('51.103.95.227/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('51.103.116.87/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('51.103.116.97/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('51.103.116.121/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('51.103.117.35/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('52.143.149.102/32', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('98.66.147.184/31', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('98.66.147.192/27', 'IPv4');
+INSERT INTO `azure_microsoftcloudappsecurity.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('98.66.147.224/28', 'IPv4');

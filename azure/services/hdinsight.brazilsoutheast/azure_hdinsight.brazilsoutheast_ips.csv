@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+191.233.10.184/29,IPv4,HDInsight.BrazilSoutheast,brazilse
+191.233.51.152/29,IPv4,HDInsight.BrazilSoutheast,brazilse
+2603:1050:403:400::420/124,IPv6,HDInsight.BrazilSoutheast,brazilse

@@ -1,0 +1,38 @@
+[
+  {
+    "ip_address": "20.193.206.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "20.244.242.190/32",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "20.244.246.22/32",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "40.64.8.48/28",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "40.64.8.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "2603:1040:d04:c02::80/122",
+    "ip_type": "IPv6",
+    "service": "AzureConnectors.JioIndiaWest",
+    "region": "jioindiawest"
+  }
+]

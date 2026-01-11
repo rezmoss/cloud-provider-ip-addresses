@@ -1,0 +1,11 @@
+-- SQL script to create table `azure_sccservice.uksouth_ips` and insert IP addresses
+
+CREATE TABLE IF NOT EXISTS `azure_sccservice.uksouth_ips` (
+  `ip_address` VARCHAR(45) NOT NULL,
+  `ip_type` VARCHAR(10) NOT NULL,
+  PRIMARY KEY (`ip_address`)
+);
+
+INSERT INTO `azure_sccservice.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('51.140.149.24/29', 'IPv4');
+INSERT INTO `azure_sccservice.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('74.177.105.32/27', 'IPv4');
+INSERT INTO `azure_sccservice.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:705:a::3c0/123', 'IPv6');

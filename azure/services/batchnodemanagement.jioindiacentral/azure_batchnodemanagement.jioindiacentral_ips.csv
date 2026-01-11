@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+20.192.228.160/27,IPv4,BatchNodeManagement.JioIndiaCentral,jioindiacentral
+20.192.235.192/27,IPv4,BatchNodeManagement.JioIndiaCentral,jioindiacentral
+2603:1040:1104::300/122,IPv6,BatchNodeManagement.JioIndiaCentral,jioindiacentral

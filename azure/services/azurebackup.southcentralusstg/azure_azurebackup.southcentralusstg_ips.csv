@@ -1,0 +1,3 @@
+ip_address,ip_type,service,region
+20.44.3.64/26,IPv4,AzureBackup.SouthCentralUSSTG,usstagec
+20.44.3.128/27,IPv4,AzureBackup.SouthCentralUSSTG,usstagec

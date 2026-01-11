@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "51.4.160.24/30",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.IsraelNorthwest",
+    "region": "israelnorthwest"
+  },
+  {
+    "ip_address": "2603:1040:1702:400::40/125",
+    "ip_type": "IPv6",
+    "service": "ActionGroup.IsraelNorthwest",
+    "region": "israelnorthwest"
+  }
+]

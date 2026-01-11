@@ -1,0 +1,6 @@
+ip_address,ip_type,service,region
+20.58.67.128/25,IPv4,AzureBackup.UKWest,ukwest
+51.140.211.32/27,IPv4,AzureBackup.UKWest,ukwest
+51.140.211.64/26,IPv4,AzureBackup.UKWest,ukwest
+2603:1020:605:3::480/121,IPv6,AzureBackup.UKWest,ukwest
+2603:1020:605:402::200/121,IPv6,AzureBackup.UKWest,ukwest

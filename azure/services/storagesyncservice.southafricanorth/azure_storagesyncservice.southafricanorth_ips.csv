@@ -1,0 +1,3 @@
+ip_address,ip_type,service,region
+20.87.83.120/29,IPv4,StorageSyncService.SouthAfricaNorth,southafricanorth
+2603:1000:104:1::300/123,IPv6,StorageSyncService.SouthAfricaNorth,southafricanorth

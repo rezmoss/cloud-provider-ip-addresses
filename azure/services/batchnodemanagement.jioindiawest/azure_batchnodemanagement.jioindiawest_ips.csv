@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+20.192.161.224/27,IPv4,BatchNodeManagement.JioIndiaWest,jioindiawest
+20.193.203.128/27,IPv4,BatchNodeManagement.JioIndiaWest,jioindiawest
+2603:1040:d04::340/122,IPv6,BatchNodeManagement.JioIndiaWest,jioindiawest

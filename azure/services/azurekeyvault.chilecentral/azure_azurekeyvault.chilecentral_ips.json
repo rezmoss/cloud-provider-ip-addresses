@@ -1,0 +1,56 @@
+[
+  {
+    "ip_address": "68.211.7.88/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.ChileCentral",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "68.211.20.32/29",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.ChileCentral",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "68.211.154.176/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.ChileCentral",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "68.211.168.56/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.ChileCentral",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "68.211.186.232/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.ChileCentral",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "2603:1050:301:1::1a8/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.ChileCentral",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "2603:1050:301:400::48/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.ChileCentral",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "2603:1050:301:800::18/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.ChileCentral",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "2603:1050:301:c00::18/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.ChileCentral",
+    "region": "chilec"
+  }
+]

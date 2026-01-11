@@ -1,0 +1,8 @@
+[
+  {
+    "ip_address": "40.80.169.128/28",
+    "ip_type": "IPv4",
+    "service": "AzureOpenDatasets.KoreaSouth",
+    "region": "koreasouth"
+  }
+]

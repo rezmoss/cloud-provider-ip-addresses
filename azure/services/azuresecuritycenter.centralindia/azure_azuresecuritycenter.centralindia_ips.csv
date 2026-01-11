@@ -1,0 +1,10 @@
+ip_address,ip_type,service,region
+20.43.123.128/27,IPv4,AzureSecurityCenter.CentralIndia,centralindia
+57.159.87.192/26,IPv4,AzureSecurityCenter.CentralIndia,centralindia
+57.159.88.0/23,IPv4,AzureSecurityCenter.CentralIndia,centralindia
+57.159.90.0/24,IPv4,AzureSecurityCenter.CentralIndia,centralindia
+57.159.91.0/25,IPv4,AzureSecurityCenter.CentralIndia,centralindia
+98.70.194.32/27,IPv4,AzureSecurityCenter.CentralIndia,centralindia
+98.70.194.128/25,IPv4,AzureSecurityCenter.CentralIndia,centralindia
+98.70.195.0/24,IPv4,AzureSecurityCenter.CentralIndia,centralindia
+98.70.196.0/23,IPv4,AzureSecurityCenter.CentralIndia,centralindia

@@ -1,0 +1,110 @@
+[
+  {
+    "ip_address": "20.45.122.128/29",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "20.45.126.128/26",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "20.49.91.224/29",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "20.49.91.240/28",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "20.49.95.64/26",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "20.65.135.128/25",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "40.124.65.0/26",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "70.37.104.240/32",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "70.37.104.242/32",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "104.214.18.160/29",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "172.215.177.192/26",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "172.215.179.0/24",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "172.215.180.0/25",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "2603:1030:807::700/120",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "2603:1030:807:1::220/123",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "2603:1030:807:402::170/125",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "2603:1030:807:802::150/125",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "2603:1030:807:c02::150/125",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.SouthCentralUS",
+    "region": "southcentralus"
+  }
+]

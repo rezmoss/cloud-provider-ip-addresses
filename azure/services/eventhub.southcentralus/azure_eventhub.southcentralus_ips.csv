@@ -1,0 +1,15 @@
+ip_address,ip_type,service,region
+4.150.33.0/24,IPv4,EventHub.SouthCentralUS,southcentralus
+20.45.122.64/26,IPv4,EventHub.SouthCentralUS,southcentralus
+20.45.126.192/26,IPv4,EventHub.SouthCentralUS,southcentralus
+20.49.93.64/27,IPv4,EventHub.SouthCentralUS,southcentralus
+20.49.93.128/27,IPv4,EventHub.SouthCentralUS,southcentralus
+20.49.95.128/26,IPv4,EventHub.SouthCentralUS,southcentralus
+20.97.32.192/26,IPv4,EventHub.SouthCentralUS,southcentralus
+40.124.65.64/26,IPv4,EventHub.SouthCentralUS,southcentralus
+104.214.18.128/27,IPv4,EventHub.SouthCentralUS,southcentralus
+2603:1030:807:1::240/122,IPv6,EventHub.SouthCentralUS,southcentralus
+2603:1030:807:7::200/119,IPv6,EventHub.SouthCentralUS,southcentralus
+2603:1030:807:402::1c0/123,IPv6,EventHub.SouthCentralUS,southcentralus
+2603:1030:807:802::160/123,IPv6,EventHub.SouthCentralUS,southcentralus
+2603:1030:807:c02::160/123,IPv6,EventHub.SouthCentralUS,southcentralus

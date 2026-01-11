@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "48.216.17.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.SouthCentralUS2",
+    "region": "southcentralus2"
+  },
+  {
+    "ip_address": "2603:1030:1102::200/122",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.SouthCentralUS2",
+    "region": "southcentralus2"
+  }
+]

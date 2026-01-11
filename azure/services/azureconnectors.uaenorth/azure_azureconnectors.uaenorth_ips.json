@@ -1,0 +1,62 @@
+[
+  {
+    "ip_address": "20.203.71.211/32",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.UAENorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "20.203.80.2/32",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.UAENorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "20.203.80.116/32",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.UAENorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "20.233.80.50/32",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.UAENorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "40.119.162.44/32",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.UAENorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "40.120.64.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.UAENorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "40.120.86.16/28",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.UAENorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "40.120.86.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.UAENorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "65.52.250.208/28",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.UAENorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "2603:1040:904:402::180/122",
+    "ip_type": "IPv6",
+    "service": "AzureConnectors.UAENorth",
+    "region": "uaenorth"
+  }
+]

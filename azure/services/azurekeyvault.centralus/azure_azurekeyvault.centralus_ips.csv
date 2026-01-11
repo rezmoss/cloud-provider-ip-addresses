@@ -1,0 +1,12 @@
+ip_address,ip_type,service,region
+13.89.170.200/30,IPv4,AzureKeyVault.CentralUS,centralus
+20.40.230.32/28,IPv4,AzureKeyVault.CentralUS,centralus
+20.40.230.48/29,IPv4,AzureKeyVault.CentralUS,centralus
+20.44.13.224/30,IPv4,AzureKeyVault.CentralUS,centralus
+20.98.145.80/28,IPv4,AzureKeyVault.CentralUS,centralus
+52.182.143.192/30,IPv4,AzureKeyVault.CentralUS,centralus
+2603:1030:10::340/125,IPv6,AzureKeyVault.CentralUS,centralus
+2603:1030:10:b::380/123,IPv6,AzureKeyVault.CentralUS,centralus
+2603:1030:10:402::80/125,IPv6,AzureKeyVault.CentralUS,centralus
+2603:1030:10:802::80/125,IPv6,AzureKeyVault.CentralUS,centralus
+2603:1030:10:c02::80/125,IPv6,AzureKeyVault.CentralUS,centralus

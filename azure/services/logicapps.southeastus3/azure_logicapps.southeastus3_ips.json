@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "74.7.58.128/28",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SoutheastUS3",
+    "region": "southeastus3"
+  },
+  {
+    "ip_address": "74.7.58.160/27",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SoutheastUS3",
+    "region": "southeastus3"
+  },
+  {
+    "ip_address": "2603:1030:1302:3::480/124",
+    "ip_type": "IPv6",
+    "service": "LogicApps.SoutheastUS3",
+    "region": "southeastus3"
+  },
+  {
+    "ip_address": "2603:1030:1302:3::4a0/123",
+    "ip_type": "IPv6",
+    "service": "LogicApps.SoutheastUS3",
+    "region": "southeastus3"
+  }
+]

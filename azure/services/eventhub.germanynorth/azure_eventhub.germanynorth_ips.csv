@@ -1,0 +1,6 @@
+ip_address,ip_type,service,region
+51.116.58.128/27,IPv4,EventHub.GermanyNorth,germanyn
+51.116.73.0/24,IPv4,EventHub.GermanyNorth,germanyn
+2603:1020:d04::240/122,IPv6,EventHub.GermanyNorth,germanyn
+2603:1020:d04:1::600/120,IPv6,EventHub.GermanyNorth,germanyn
+2603:1020:d04:402::1c0/123,IPv6,EventHub.GermanyNorth,germanyn

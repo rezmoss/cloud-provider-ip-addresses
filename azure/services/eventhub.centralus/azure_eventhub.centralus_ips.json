@@ -1,0 +1,98 @@
+[
+  {
+    "ip_address": "13.89.170.128/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "13.89.178.112/28",
+    "ip_type": "IPv4",
+    "service": "EventHub.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "20.44.13.64/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "20.98.147.0/24",
+    "ip_type": "IPv4",
+    "service": "EventHub.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "52.165.179.109/32",
+    "ip_type": "IPv4",
+    "service": "EventHub.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "52.182.138.128/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "52.182.143.64/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "52.255.16.0/23",
+    "ip_type": "IPv4",
+    "service": "EventHub.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "104.208.16.0/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "172.170.168.0/25",
+    "ip_type": "IPv4",
+    "service": "EventHub.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "172.202.80.0/25",
+    "ip_type": "IPv4",
+    "service": "EventHub.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "2603:1030:10:1::240/122",
+    "ip_type": "IPv6",
+    "service": "EventHub.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "2603:1030:10:c::/119",
+    "ip_type": "IPv6",
+    "service": "EventHub.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "2603:1030:10:402::1c0/123",
+    "ip_type": "IPv6",
+    "service": "EventHub.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "2603:1030:10:802::160/123",
+    "ip_type": "IPv6",
+    "service": "EventHub.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "2603:1030:10:c02::160/123",
+    "ip_type": "IPv6",
+    "service": "EventHub.CentralUS",
+    "region": "centralus"
+  }
+]

@@ -1,0 +1,10 @@
+ip_address,ip_type,service,region
+20.38.115.0/24,IPv4,Storage.GermanyNorth,germanyn
+20.47.45.0/24,IPv4,Storage.GermanyNorth,germanyn
+20.150.60.0/24,IPv4,Storage.GermanyNorth,germanyn
+20.150.112.0/24,IPv4,Storage.GermanyNorth,germanyn
+20.153.123.0/24,IPv4,Storage.GermanyNorth,germanyn
+20.157.229.0/24,IPv4,Storage.GermanyNorth,germanyn
+20.209.206.0/23,IPv4,Storage.GermanyNorth,germanyn
+57.150.216.0/23,IPv4,Storage.GermanyNorth,germanyn
+2603:1020:d05::/48,IPv6,Storage.GermanyNorth,germanyn

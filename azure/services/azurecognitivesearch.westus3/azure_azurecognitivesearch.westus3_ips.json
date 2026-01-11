@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "20.150.160.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureCognitiveSearch.WestUS3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "2603:1030:504:1::180/121",
+    "ip_type": "IPv6",
+    "service": "AzureCognitiveSearch.WestUS3",
+    "region": "westus3"
+  }
+]

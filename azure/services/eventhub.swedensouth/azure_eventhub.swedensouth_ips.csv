@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+51.12.21.0/24,IPv4,EventHub.SwedenSouth,swedensouth
+51.12.202.160/27,IPv4,EventHub.SwedenSouth,swedensouth
+51.12.206.64/26,IPv4,EventHub.SwedenSouth,swedensouth
+2603:1020:1104:400::1c0/123,IPv6,EventHub.SwedenSouth,swedensouth

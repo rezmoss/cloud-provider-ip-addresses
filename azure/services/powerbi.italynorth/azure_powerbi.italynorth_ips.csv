@@ -1,0 +1,10 @@
+ip_address,ip_type,service,region
+4.232.42.240/28,IPv4,PowerBI.ItalyNorth,italynorth
+4.232.43.192/28,IPv4,PowerBI.ItalyNorth,italynorth
+4.232.98.108/31,IPv4,PowerBI.ItalyNorth,italynorth
+4.232.98.160/30,IPv4,PowerBI.ItalyNorth,italynorth
+4.232.98.168/29,IPv4,PowerBI.ItalyNorth,italynorth
+172.213.124.48/29,IPv4,PowerBI.ItalyNorth,italynorth
+172.213.125.0/27,IPv4,PowerBI.ItalyNorth,italynorth
+2603:1020:1204:2::180/122,IPv6,PowerBI.ItalyNorth,italynorth
+2603:1020:1204:2::1c0/123,IPv6,PowerBI.ItalyNorth,italynorth

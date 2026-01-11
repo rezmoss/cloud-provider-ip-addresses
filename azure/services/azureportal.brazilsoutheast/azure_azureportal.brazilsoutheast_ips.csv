@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+191.233.10.96/27,IPv4,AzurePortal.BrazilSoutheast,brazilse
+191.233.15.0/29,IPv4,AzurePortal.BrazilSoutheast,brazilse
+2603:1050:403::680/121,IPv6,AzurePortal.BrazilSoutheast,brazilse

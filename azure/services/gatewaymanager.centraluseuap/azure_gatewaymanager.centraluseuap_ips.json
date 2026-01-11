@@ -1,0 +1,56 @@
+[
+  {
+    "ip_address": "20.45.192.72/29",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.46.13.128/26",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "40.78.202.112/29",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "52.180.182.210/32",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "52.253.157.2/32",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "52.253.159.209/32",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "52.253.232.235/32",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "52.253.239.162/32",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:1::40/122",
+    "ip_type": "IPv6",
+    "service": "GatewayManager.CentralUSEUAP",
+    "region": "centraluseuap"
+  }
+]

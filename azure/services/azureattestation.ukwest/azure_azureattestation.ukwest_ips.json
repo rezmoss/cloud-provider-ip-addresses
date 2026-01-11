@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "20.58.72.32/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.167.184/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.140.215.168/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:3::3d0/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.UKWest",
+    "region": "ukwest"
+  }
+]

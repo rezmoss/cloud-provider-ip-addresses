@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "4.232.24.64/26",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.ItalyNorth",
+    "region": "italynorth"
+  },
+  {
+    "ip_address": "2603:1020:1204::40/122",
+    "ip_type": "IPv6",
+    "service": "GatewayManager.ItalyNorth",
+    "region": "italynorth"
+  }
+]

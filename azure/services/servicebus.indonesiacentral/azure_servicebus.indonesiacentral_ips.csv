@@ -1,0 +1,9 @@
+ip_address,ip_type,service,region
+70.153.158.0/25,IPv4,ServiceBus.IndonesiaCentral,indonesiacentral
+70.153.176.16/29,IPv4,ServiceBus.IndonesiaCentral,indonesiacentral
+70.153.176.32/28,IPv4,ServiceBus.IndonesiaCentral,indonesiacentral
+70.153.200.16/29,IPv4,ServiceBus.IndonesiaCentral,indonesiacentral
+70.153.200.32/28,IPv4,ServiceBus.IndonesiaCentral,indonesiacentral
+70.153.216.16/29,IPv4,ServiceBus.IndonesiaCentral,indonesiacentral
+70.153.216.32/28,IPv4,ServiceBus.IndonesiaCentral,indonesiacentral
+2603:1040:1802::600/121,IPv6,ServiceBus.IndonesiaCentral,indonesiacentral

@@ -1,0 +1,32 @@
+[
+  {
+    "ip_address": "13.71.172.240/29",
+    "ip_type": "IPv4",
+    "service": "HDInsight.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "20.48.192.24/29",
+    "ip_type": "IPv4",
+    "service": "HDInsight.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "52.228.37.66/32",
+    "ip_type": "IPv4",
+    "service": "HDInsight.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "52.228.45.222/32",
+    "ip_type": "IPv4",
+    "service": "HDInsight.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "2603:1030:f05:402::320/124",
+    "ip_type": "IPv6",
+    "service": "HDInsight.CanadaCentral",
+    "region": "canadacentral"
+  }
+]

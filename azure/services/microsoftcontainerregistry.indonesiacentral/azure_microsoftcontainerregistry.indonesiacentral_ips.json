@@ -1,0 +1,50 @@
+[
+  {
+    "ip_address": "48.193.50.40/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry.IndonesiaCentral",
+    "region": "indonesiacentral"
+  },
+  {
+    "ip_address": "70.153.176.0/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry.IndonesiaCentral",
+    "region": "indonesiacentral"
+  },
+  {
+    "ip_address": "70.153.200.0/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry.IndonesiaCentral",
+    "region": "indonesiacentral"
+  },
+  {
+    "ip_address": "70.153.216.0/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry.IndonesiaCentral",
+    "region": "indonesiacentral"
+  },
+  {
+    "ip_address": "2603:1040:1802:5::1b8/125",
+    "ip_type": "IPv6",
+    "service": "MicrosoftContainerRegistry.IndonesiaCentral",
+    "region": "indonesiacentral"
+  },
+  {
+    "ip_address": "2603:1040:1802:400::/125",
+    "ip_type": "IPv6",
+    "service": "MicrosoftContainerRegistry.IndonesiaCentral",
+    "region": "indonesiacentral"
+  },
+  {
+    "ip_address": "2603:1040:1802:800::/125",
+    "ip_type": "IPv6",
+    "service": "MicrosoftContainerRegistry.IndonesiaCentral",
+    "region": "indonesiacentral"
+  },
+  {
+    "ip_address": "2603:1040:1802:c00::/125",
+    "ip_type": "IPv6",
+    "service": "MicrosoftContainerRegistry.IndonesiaCentral",
+    "region": "indonesiacentral"
+  }
+]

@@ -1,0 +1,10 @@
+ip_address,ip_type,service,region
+4.232.28.64/26,IPv4,AzureBackup.ItalyNorth,italynorth
+4.232.107.0/26,IPv4,AzureBackup.ItalyNorth,italynorth
+4.232.123.0/26,IPv4,AzureBackup.ItalyNorth,italynorth
+4.232.125.192/27,IPv4,AzureBackup.ItalyNorth,italynorth
+4.232.195.0/26,IPv4,AzureBackup.ItalyNorth,italynorth
+2603:1020:1204::680/121,IPv6,AzureBackup.ItalyNorth,italynorth
+2603:1020:1204:400::100/121,IPv6,AzureBackup.ItalyNorth,italynorth
+2603:1020:1204:800::80/121,IPv6,AzureBackup.ItalyNorth,italynorth
+2603:1020:1204:c00::80/121,IPv6,AzureBackup.ItalyNorth,italynorth

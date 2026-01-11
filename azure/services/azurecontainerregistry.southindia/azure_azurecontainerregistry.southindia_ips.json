@@ -1,0 +1,68 @@
+[
+  {
+    "ip_address": "20.41.199.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "20.41.208.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "20.41.208.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "20.207.217.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "40.78.194.80/29",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "40.78.196.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "2603:1040:c06:3::240/122",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "2603:1040:c06:402::90/125",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "2603:1040:c06:402::340/122",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "2603:1040:c06:402::580/122",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "2603:1040:c06:402::600/121",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.SouthIndia",
+    "region": "southindia"
+  }
+]

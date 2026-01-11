@@ -1,0 +1,68 @@
+[
+  {
+    "ip_address": "51.104.30.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "51.104.30.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "51.105.69.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "51.105.75.192/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "51.140.84.251/32",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "51.140.126.10/32",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "51.140.149.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "52.151.78.51/32",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "2603:1020:705:402::300/123",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "2603:1020:705:802::240/123",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "2603:1020:705:c02::240/123",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.UKSouth",
+    "region": "uksouth"
+  }
+]

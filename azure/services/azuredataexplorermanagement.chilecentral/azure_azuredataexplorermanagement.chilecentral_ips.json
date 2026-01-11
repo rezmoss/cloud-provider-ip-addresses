@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "68.211.7.0/28",
+    "ip_type": "IPv4",
+    "service": "AzureDataExplorerManagement.ChileCentral",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "2603:1050:301:1::1c0/123",
+    "ip_type": "IPv6",
+    "service": "AzureDataExplorerManagement.ChileCentral",
+    "region": "chilec"
+  }
+]

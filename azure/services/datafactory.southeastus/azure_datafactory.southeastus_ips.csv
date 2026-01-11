@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+57.151.224.0/23,IPv4,DataFactory.SoutheastUS,southeastus
+68.154.137.112/28,IPv4,DataFactory.SoutheastUS,southeastus
+2603:1030:902:2::380/121,IPv6,DataFactory.SoutheastUS,southeastus
+2603:1030:902:400::f0/124,IPv6,DataFactory.SoutheastUS,southeastus

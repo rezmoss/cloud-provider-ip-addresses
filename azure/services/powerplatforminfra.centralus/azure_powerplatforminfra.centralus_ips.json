@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "172.212.241.0/24",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "172.212.242.0/25",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "172.212.243.0/24",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "2603:1061:2002:200::/57",
+    "ip_type": "IPv6",
+    "service": "PowerPlatformInfra.CentralUS",
+    "region": "centralus"
+  }
+]

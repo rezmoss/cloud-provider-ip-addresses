@@ -1,0 +1,1808 @@
+[
+  {
+    "ip_address": "51.53.40.144/30",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.106.88/30",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:1::22c/126",
+    "ip_type": "IPv6",
+    "service": "ActionGroup.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:400::180/125",
+    "ip_type": "IPv6",
+    "service": "ActionGroup.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.27.224/28",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302::560/124",
+    "ip_type": "IPv6",
+    "service": "ApiManagement.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.100.0/24",
+    "ip_type": "IPv4",
+    "service": "AppService.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:1::/120",
+    "ip_type": "IPv6",
+    "service": "AppService.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.43.0/26",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "70.157.83.32/29",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:2::660/123",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:4::7c0/122",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.41.76/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.43.104/29",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.43.112/31",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.110.138/32",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:2::620/124",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.27.240/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "70.157.78.240/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302::600/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.28.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302::680/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.24.16/30",
+    "ip_type": "IPv4",
+    "service": "AzureBotService.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302::20/123",
+    "ip_type": "IPv6",
+    "service": "AzureBotService.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.24.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureCognitiveSearch.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302::100/121",
+    "ip_type": "IPv6",
+    "service": "AzureCognitiveSearch.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.40.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.107.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:2::580/122",
+    "ip_type": "IPv6",
+    "service": "AzureConnectors.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:400::c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureConnectors.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.27.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.49.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.106.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.108.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "70.157.88.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "167.105.104.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302::520/125",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:3::4c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:5::400/121",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:400::48/125",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:400::280/121",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:800::18/125",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:c00::18/125",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.27.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.103.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302::1e0/123",
+    "ip_type": "IPv6",
+    "service": "AzureCosmosDB.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.30.128/28",
+    "ip_type": "IPv4",
+    "service": "AzureDataExplorerManagement.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:1::4a0/123",
+    "ip_type": "IPv6",
+    "service": "AzureDataExplorerManagement.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.27.192/27",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302::580/121",
+    "ip_type": "IPv6",
+    "service": "AzureDigitalTwins.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.25.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302::280/121",
+    "ip_type": "IPv6",
+    "service": "AzureEventGrid.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.29.0/24",
+    "ip_type": "IPv4",
+    "service": "EventHub.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.107.128/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:1::300/120",
+    "ip_type": "IPv6",
+    "service": "EventHub.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.108.96/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:400::220/123",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.31.128/29",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.101.128/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.106.124/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "70.157.88.12/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "167.105.104.12/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:1::6e0/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:2::480/126",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:2::638/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:400::88/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:800::28/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:c00::28/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.25.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302::200/122",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.28.214/31",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.30.156/30",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.31.144/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.31.152/31",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.31.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.42.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.49.160/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.49.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.110.128/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.110.144/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "70.157.78.144/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "70.157.90.8/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "70.157.90.112/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "70.157.162.144/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "167.105.106.8/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "167.105.106.112/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1301:4::b/128",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:1::100/120",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:1::200/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:2::540/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:2::680/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:3::540/122",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:6::2e0/124",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:7::20/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.30.224/27",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:2::/121",
+    "ip_type": "IPv6",
+    "service": "AzurePortal.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.98.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:2::100/120",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.101.32/27",
+    "ip_type": "IPv4",
+    "service": "Sql.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.101.64/26",
+    "ip_type": "IPv4",
+    "service": "Sql.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.104.64/27",
+    "ip_type": "IPv4",
+    "service": "Sql.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.105.64/27",
+    "ip_type": "IPv4",
+    "service": "Sql.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.107.248/29",
+    "ip_type": "IPv4",
+    "service": "Sql.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "70.157.88.48/29",
+    "ip_type": "IPv4",
+    "service": "Sql.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "70.157.88.224/27",
+    "ip_type": "IPv4",
+    "service": "Sql.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "167.105.104.48/29",
+    "ip_type": "IPv4",
+    "service": "Sql.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "167.105.104.224/27",
+    "ip_type": "IPv4",
+    "service": "Sql.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:1::260/123",
+    "ip_type": "IPv6",
+    "service": "Sql.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:1::280/121",
+    "ip_type": "IPv6",
+    "service": "Sql.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.30.0/25",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.106.80/29",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.106.96/28",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302::780/121",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.52.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureSignalR.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:3::5c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureSignalR.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "20.60.113.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "20.153.96.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "20.157.173.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "20.157.187.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "20.209.42.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "20.209.152.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "135.130.35.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "135.130.41.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1303::/48",
+    "ip_type": "IPv6",
+    "service": "Storage.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.25.32/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302::240/122",
+    "ip_type": "IPv6",
+    "service": "BatchNodeManagement.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.40.176/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.40.192/26",
+    "ip_type": "IPv4",
+    "service": "DataFactory.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.48.0/25",
+    "ip_type": "IPv4",
+    "service": "DataFactory.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.96.0/23",
+    "ip_type": "IPv4",
+    "service": "DataFactory.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.110.64/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "70.157.2.224/27",
+    "ip_type": "IPv4",
+    "service": "DataFactory.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "70.157.3.0/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "70.157.3.64/26",
+    "ip_type": "IPv4",
+    "service": "DataFactory.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "70.157.3.128/25",
+    "ip_type": "IPv4",
+    "service": "DataFactory.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "70.157.90.96/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "167.105.106.96/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:1::600/121",
+    "ip_type": "IPv6",
+    "service": "DataFactory.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:4::b0/124",
+    "ip_type": "IPv6",
+    "service": "DataFactory.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:4::2f8/125",
+    "ip_type": "IPv6",
+    "service": "DataFactory.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:400::3c0/124",
+    "ip_type": "IPv6",
+    "service": "DataFactory.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:800::240/124",
+    "ip_type": "IPv6",
+    "service": "DataFactory.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:c00::240/124",
+    "ip_type": "IPv6",
+    "service": "DataFactory.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.24.64/26",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302::40/122",
+    "ip_type": "IPv6",
+    "service": "GatewayManager.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.30.168/29",
+    "ip_type": "IPv4",
+    "service": "HDInsight.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:1::470/124",
+    "ip_type": "IPv6",
+    "service": "HDInsight.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.50.16/28",
+    "ip_type": "IPv4",
+    "service": "LogicApps.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.110.80/28",
+    "ip_type": "IPv4",
+    "service": "LogicApps.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.110.96/27",
+    "ip_type": "IPv4",
+    "service": "LogicApps.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "70.157.2.96/28",
+    "ip_type": "IPv4",
+    "service": "LogicApps.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "70.157.12.32/27",
+    "ip_type": "IPv4",
+    "service": "LogicApps.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "70.157.24.57/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "70.157.25.92/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "70.157.25.196/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "70.157.25.198/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "70.157.25.223/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "70.157.25.234/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "70.157.25.236/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "70.157.26.61/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "70.157.26.114/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "70.157.26.129/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "70.157.26.159/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "70.157.26.199/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "70.157.26.207/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "70.157.26.214/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "70.157.26.220/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "70.157.26.234/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:5::640/124",
+    "ip_type": "IPv6",
+    "service": "LogicApps.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:5::660/123",
+    "ip_type": "IPv6",
+    "service": "LogicApps.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:400::3d0/124",
+    "ip_type": "IPv6",
+    "service": "LogicApps.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:400::3e0/123",
+    "ip_type": "IPv6",
+    "service": "LogicApps.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.106.64/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "70.157.88.0/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "167.105.104.0/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:400::40/125",
+    "ip_type": "IPv6",
+    "service": "MicrosoftContainerRegistry.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:800::10/125",
+    "ip_type": "IPv6",
+    "service": "MicrosoftContainerRegistry.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:c00::10/125",
+    "ip_type": "IPv6",
+    "service": "MicrosoftContainerRegistry.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.28.212/31",
+    "ip_type": "IPv4",
+    "service": "PowerBI.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.30.152/30",
+    "ip_type": "IPv4",
+    "service": "PowerBI.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.30.160/29",
+    "ip_type": "IPv4",
+    "service": "PowerBI.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "70.157.3.16/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "70.157.3.32/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "70.157.11.16/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "70.157.12.16/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:1::680/122",
+    "ip_type": "IPv6",
+    "service": "PowerBI.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:1::6c0/123",
+    "ip_type": "IPv6",
+    "service": "PowerBI.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.24.20/31",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.31.156/31",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.50.8/29",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.50.32/28",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.101.8/29",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.110.140/31",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302::1c0/123",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:400::188/126",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:800::/125",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:c00::/125",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.106.76/30",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "70.157.88.8/30",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "167.105.104.8/30",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:400::58/125",
+    "ip_type": "IPv6",
+    "service": "ServiceFabric.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:800::20/125",
+    "ip_type": "IPv6",
+    "service": "ServiceFabric.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:c00::20/125",
+    "ip_type": "IPv6",
+    "service": "ServiceFabric.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.107.240/29",
+    "ip_type": "IPv4",
+    "service": "StorageSyncService.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "70.157.11.144/29",
+    "ip_type": "IPv4",
+    "service": "StorageSyncService.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:5::320/123",
+    "ip_type": "IPv6",
+    "service": "StorageSyncService.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:400::260/123",
+    "ip_type": "IPv6",
+    "service": "StorageSyncService.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "40.64.144.168/29",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1061:2010:34::/117",
+    "ip_type": "IPv6",
+    "service": "WindowsVirtualDesktop.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "13.105.110.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "13.105.110.192/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "13.105.111.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "20.20.38.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "20.20.54.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "20.38.19.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "20.60.113.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "20.143.40.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "20.143.116.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "20.143.120.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "20.153.96.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "20.157.173.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "20.157.187.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "20.157.192.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "20.209.42.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "20.209.152.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "20.231.134.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "20.231.151.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "40.64.144.160/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "40.64.152.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "40.64.186.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "40.93.70.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "40.100.67.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "40.100.67.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "40.123.174.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "48.212.56.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "48.212.184.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "48.213.57.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.5.58.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.0.0/18",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.64.0/19",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.96.0/20",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.112.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.192.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "52.101.108.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "52.101.112.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "52.101.231.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "52.102.168.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "52.103.40.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "52.103.168.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "52.106.218.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "52.108.136.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "52.108.149.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "52.109.174.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "52.123.59.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "52.123.205.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "52.253.219.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "52.253.220.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "70.152.230.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "70.157.0.0/16",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "135.130.35.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "135.130.41.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "167.105.0.0/17",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "209.199.36.16/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "209.199.36.32/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "209.199.37.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "209.199.38.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "209.199.39.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1301::/48",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302::/47",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1304::/48",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1306::/48",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1046:a00:53::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1046:a00:54::/63",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1046:2000:c0::/59",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1047:1:200::/59",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1061:1005::/58",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1061:1005:40::/59",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1061:1005:60::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1061:1310:3400::/54",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1061:1734::/48",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1061:2010:34::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1061:2011:34::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1063:4b::/55",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1063:134::/55",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1063:134:200::/56",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1063:235::/56",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1063:432::/56",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1063:631::/56",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1063:2202:4c::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1063:243a::/48",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1063:263a::/48",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1063:2838::/48",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1063:2a38::/48",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2a01:111:f403:c402::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2a01:111:f403:ca47::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2a01:111:f403:cc0a::/63",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2a01:111:f403:cc0c::/63",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2a01:111:f403:cc0e::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2a01:111:f403:d400::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2a01:111:f403:dc02::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2a01:111:f403:e402::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  }
+]

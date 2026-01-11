@@ -1,0 +1,3 @@
+ip_address,ip_type,service,region
+70.153.166.0/26,IPv4,AppServiceManagement.IndonesiaCentral,indonesiacentral
+2603:1040:1802:1::740/122,IPv6,AppServiceManagement.IndonesiaCentral,indonesiacentral

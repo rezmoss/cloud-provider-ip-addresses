@@ -1,0 +1,98 @@
+[
+  {
+    "ip_address": "13.69.64.128/26",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "13.69.116.0/26",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "13.94.141.115/32",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "13.94.143.126/32",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "13.94.149.179/32",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "20.50.201.128/26",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "20.105.208.208/28",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "52.174.22.21/32",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "172.199.232.10/31",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "172.199.232.96/29",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "191.233.94.45/32",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "2603:1020:206::7a0/123",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "2603:1020:206:402::100/122",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "2603:1020:206:403::140/122",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "2603:1020:206:802::100/122",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "2603:1020:206:c02::100/122",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.WestEurope",
+    "region": "westeurope"
+  }
+]

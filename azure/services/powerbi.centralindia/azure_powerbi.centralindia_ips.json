@@ -1,0 +1,98 @@
+[
+  {
+    "ip_address": "4.247.186.224/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "4.247.187.0/26",
+    "ip_type": "IPv4",
+    "service": "PowerBI.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "20.192.47.128/30",
+    "ip_type": "IPv4",
+    "service": "PowerBI.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "20.192.47.132/31",
+    "ip_type": "IPv4",
+    "service": "PowerBI.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "20.192.168.144/30",
+    "ip_type": "IPv4",
+    "service": "PowerBI.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "20.192.169.120/30",
+    "ip_type": "IPv4",
+    "service": "PowerBI.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "20.192.174.212/30",
+    "ip_type": "IPv4",
+    "service": "PowerBI.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "20.192.174.224/27",
+    "ip_type": "IPv4",
+    "service": "PowerBI.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "20.192.175.0/27",
+    "ip_type": "IPv4",
+    "service": "PowerBI.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "52.140.105.144/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "52.140.105.160/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "135.13.159.0/27",
+    "ip_type": "IPv4",
+    "service": "PowerBI.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "2603:1040:a06::100/122",
+    "ip_type": "IPv6",
+    "service": "PowerBI.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "2603:1040:a06::140/123",
+    "ip_type": "IPv6",
+    "service": "PowerBI.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "2603:1040:a06:1::5e0/123",
+    "ip_type": "IPv6",
+    "service": "PowerBI.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "2603:1040:a06:1::600/122",
+    "ip_type": "IPv6",
+    "service": "PowerBI.CentralIndia",
+    "region": "centralindia"
+  }
+]

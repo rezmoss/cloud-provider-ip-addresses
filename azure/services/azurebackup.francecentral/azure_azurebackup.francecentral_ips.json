@@ -1,0 +1,50 @@
+[
+  {
+    "ip_address": "40.79.131.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "40.79.131.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "40.79.142.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "40.79.150.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "51.138.210.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "2603:1020:805:402::200/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "2603:1020:805:802::180/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "2603:1020:805:c02::180/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.FranceCentral",
+    "region": "centralfrance"
+  }
+]

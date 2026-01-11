@@ -1,0 +1,8 @@
+[
+  {
+    "ip_address": "23.100.208.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.SouthCentralUSSTG",
+    "region": "usstagec"
+  }
+]

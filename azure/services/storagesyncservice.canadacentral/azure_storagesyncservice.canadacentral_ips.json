@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "52.228.81.248/29",
+    "ip_type": "IPv4",
+    "service": "StorageSyncService.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "2603:1030:f05:1::300/123",
+    "ip_type": "IPv6",
+    "service": "StorageSyncService.CanadaCentral",
+    "region": "canadacentral"
+  }
+]

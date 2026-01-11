@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "20.38.133.8/29",
+    "ip_type": "IPv4",
+    "service": "StorageSyncService.WestIndia",
+    "region": "westindia"
+  },
+  {
+    "ip_address": "52.136.48.216/29",
+    "ip_type": "IPv4",
+    "service": "StorageSyncService.WestIndia",
+    "region": "westindia"
+  },
+  {
+    "ip_address": "2603:1040:806::340/123",
+    "ip_type": "IPv6",
+    "service": "StorageSyncService.WestIndia",
+    "region": "westindia"
+  },
+  {
+    "ip_address": "2603:1040:806:402::5e0/123",
+    "ip_type": "IPv6",
+    "service": "StorageSyncService.WestIndia",
+    "region": "westindia"
+  }
+]

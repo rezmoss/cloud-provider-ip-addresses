@@ -1,0 +1,326 @@
+[
+  {
+    "ip_address": "4.149.112.128/25",
+    "ip_type": "IPv4",
+    "service": "Sql.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "4.149.113.0/25",
+    "ip_type": "IPv4",
+    "service": "Sql.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "13.66.60.72/32",
+    "ip_type": "IPv4",
+    "service": "Sql.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "13.66.62.124/32",
+    "ip_type": "IPv4",
+    "service": "Sql.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "13.85.65.48/32",
+    "ip_type": "IPv4",
+    "service": "Sql.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "20.45.120.0/27",
+    "ip_type": "IPv4",
+    "service": "Sql.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "20.45.121.0/27",
+    "ip_type": "IPv4",
+    "service": "Sql.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "20.45.121.32/29",
+    "ip_type": "IPv4",
+    "service": "Sql.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "20.45.127.128/26",
+    "ip_type": "IPv4",
+    "service": "Sql.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "20.49.88.0/27",
+    "ip_type": "IPv4",
+    "service": "Sql.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "20.49.88.32/29",
+    "ip_type": "IPv4",
+    "service": "Sql.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "20.49.89.0/27",
+    "ip_type": "IPv4",
+    "service": "Sql.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "20.49.89.32/29",
+    "ip_type": "IPv4",
+    "service": "Sql.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "20.49.95.192/26",
+    "ip_type": "IPv4",
+    "service": "Sql.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "20.65.132.160/27",
+    "ip_type": "IPv4",
+    "service": "Sql.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "20.65.132.192/27",
+    "ip_type": "IPv4",
+    "service": "Sql.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "20.65.133.0/26",
+    "ip_type": "IPv4",
+    "service": "Sql.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "20.165.75.176/30",
+    "ip_type": "IPv4",
+    "service": "Sql.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "20.165.75.192/26",
+    "ip_type": "IPv4",
+    "service": "Sql.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "20.165.76.0/27",
+    "ip_type": "IPv4",
+    "service": "Sql.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "23.98.162.75/32",
+    "ip_type": "IPv4",
+    "service": "Sql.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "23.98.162.76/31",
+    "ip_type": "IPv4",
+    "service": "Sql.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "23.98.170.75/32",
+    "ip_type": "IPv4",
+    "service": "Sql.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "23.98.170.76/31",
+    "ip_type": "IPv4",
+    "service": "Sql.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "23.102.179.187/32",
+    "ip_type": "IPv4",
+    "service": "Sql.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "40.84.153.95/32",
+    "ip_type": "IPv4",
+    "service": "Sql.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "40.84.155.210/32",
+    "ip_type": "IPv4",
+    "service": "Sql.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "40.84.191.1/32",
+    "ip_type": "IPv4",
+    "service": "Sql.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "40.84.193.16/32",
+    "ip_type": "IPv4",
+    "service": "Sql.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "40.84.195.189/32",
+    "ip_type": "IPv4",
+    "service": "Sql.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "40.84.231.203/32",
+    "ip_type": "IPv4",
+    "service": "Sql.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "40.124.8.76/32",
+    "ip_type": "IPv4",
+    "service": "Sql.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "40.124.64.136/29",
+    "ip_type": "IPv4",
+    "service": "Sql.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "40.124.64.160/27",
+    "ip_type": "IPv4",
+    "service": "Sql.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "40.124.65.128/27",
+    "ip_type": "IPv4",
+    "service": "Sql.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "40.124.65.192/26",
+    "ip_type": "IPv4",
+    "service": "Sql.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "48.221.168.48/29",
+    "ip_type": "IPv4",
+    "service": "Sql.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "48.221.168.224/27",
+    "ip_type": "IPv4",
+    "service": "Sql.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "52.183.250.62/32",
+    "ip_type": "IPv4",
+    "service": "Sql.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "104.214.16.0/26",
+    "ip_type": "IPv4",
+    "service": "Sql.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "104.214.16.192/26",
+    "ip_type": "IPv4",
+    "service": "Sql.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "104.214.17.0/26",
+    "ip_type": "IPv4",
+    "service": "Sql.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "104.214.17.192/26",
+    "ip_type": "IPv4",
+    "service": "Sql.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "104.214.73.137/32",
+    "ip_type": "IPv4",
+    "service": "Sql.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "2603:1030:807::320/123",
+    "ip_type": "IPv6",
+    "service": "Sql.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "2603:1030:807::380/121",
+    "ip_type": "IPv6",
+    "service": "Sql.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "2603:1030:807:4::180/121",
+    "ip_type": "IPv6",
+    "service": "Sql.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "2603:1030:807:4::200/121",
+    "ip_type": "IPv6",
+    "service": "Sql.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "2603:1030:807:400::/123",
+    "ip_type": "IPv6",
+    "service": "Sql.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "2603:1030:807:401::/123",
+    "ip_type": "IPv6",
+    "service": "Sql.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "2603:1030:807:800::/123",
+    "ip_type": "IPv6",
+    "service": "Sql.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "2603:1030:807:801::/123",
+    "ip_type": "IPv6",
+    "service": "Sql.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "2603:1030:807:c00::/123",
+    "ip_type": "IPv6",
+    "service": "Sql.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "2603:1030:807:c01::/123",
+    "ip_type": "IPv6",
+    "service": "Sql.SouthCentralUS",
+    "region": "southcentralus"
+  }
+]

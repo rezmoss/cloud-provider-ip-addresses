@@ -1,0 +1,68 @@
+[
+  {
+    "ip_address": "20.44.27.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "20.44.31.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "20.194.66.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "20.194.67.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "20.194.74.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "52.231.19.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "52.231.19.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "2603:1040:f05:2::/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "2603:1040:f05:402::200/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "2603:1040:f05:802::180/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "2603:1040:f05:c02::180/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.KoreaCentral",
+    "region": "koreacentral"
+  }
+]

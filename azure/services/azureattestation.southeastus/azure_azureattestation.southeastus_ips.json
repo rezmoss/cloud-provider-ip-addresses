@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "57.151.208.20/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1030:902::5c0/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.SoutheastUS",
+    "region": "southeastus"
+  }
+]

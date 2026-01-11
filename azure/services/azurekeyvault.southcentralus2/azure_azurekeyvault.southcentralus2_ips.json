@@ -1,0 +1,32 @@
+[
+  {
+    "ip_address": "48.216.12.136/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.SouthCentralUS2",
+    "region": "southcentralus2"
+  },
+  {
+    "ip_address": "48.216.22.216/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.SouthCentralUS2",
+    "region": "southcentralus2"
+  },
+  {
+    "ip_address": "48.216.35.184/29",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.SouthCentralUS2",
+    "region": "southcentralus2"
+  },
+  {
+    "ip_address": "2603:1030:1102:1::1a8/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.SouthCentralUS2",
+    "region": "southcentralus2"
+  },
+  {
+    "ip_address": "2603:1030:1102:400::50/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.SouthCentralUS2",
+    "region": "southcentralus2"
+  }
+]

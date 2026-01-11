@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+51.107.99.32/27,IPv4,AzureEventGrid.SwitzerlandWest,switzerlandw
+51.107.145.0/25,IPv4,AzureEventGrid.SwitzerlandWest,switzerlandw
+2603:1020:b04::380/121,IPv6,AzureEventGrid.SwitzerlandWest,switzerlandw

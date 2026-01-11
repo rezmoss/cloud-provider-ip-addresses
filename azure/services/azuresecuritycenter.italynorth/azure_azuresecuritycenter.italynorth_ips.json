@@ -1,0 +1,38 @@
+[
+  {
+    "ip_address": "9.235.70.152/30",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.ItalyNorth",
+    "region": "italynorth"
+  },
+  {
+    "ip_address": "9.235.70.160/27",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.ItalyNorth",
+    "region": "italynorth"
+  },
+  {
+    "ip_address": "9.235.70.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.ItalyNorth",
+    "region": "italynorth"
+  },
+  {
+    "ip_address": "9.235.71.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.ItalyNorth",
+    "region": "italynorth"
+  },
+  {
+    "ip_address": "9.235.168.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.ItalyNorth",
+    "region": "italynorth"
+  },
+  {
+    "ip_address": "9.235.168.128/28",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.ItalyNorth",
+    "region": "italynorth"
+  }
+]

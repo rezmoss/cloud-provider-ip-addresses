@@ -1,0 +1,6 @@
+ip_address,ip_type,service,region
+51.12.20.224/27,IPv4,AzureConnectors.SwedenSouth,swedensouth
+51.12.22.128/28,IPv4,AzureConnectors.SwedenSouth,swedensouth
+51.12.202.240/28,IPv4,AzureConnectors.SwedenSouth,swedensouth
+51.12.205.192/26,IPv4,AzureConnectors.SwedenSouth,swedensouth
+2603:1020:1104:400::180/122,IPv6,AzureConnectors.SwedenSouth,swedensouth

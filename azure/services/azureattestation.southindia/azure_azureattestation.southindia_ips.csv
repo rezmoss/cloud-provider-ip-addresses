@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+20.192.184.116/30,IPv4,AzureAttestation.SouthIndia,southindia
+52.172.116.0/30,IPv4,AzureAttestation.SouthIndia,southindia
+74.225.41.64/29,IPv4,AzureAttestation.SouthIndia,southindia
+2603:1040:c06:3::390/124,IPv6,AzureAttestation.SouthIndia,southindia

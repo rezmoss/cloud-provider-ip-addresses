@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "20.17.54.128/28",
+    "ip_type": "IPv4",
+    "service": "AzureDataExplorerManagement.MalaysiaSouth",
+    "region": "malaysiasouth"
+  },
+  {
+    "ip_address": "2603:1040:1503:1::1e0/123",
+    "ip_type": "IPv6",
+    "service": "AzureDataExplorerManagement.MalaysiaSouth",
+    "region": "malaysiasouth"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "40.119.10.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureDevOps.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "2603:1030:807:14::500/120",
+    "ip_type": "IPv6",
+    "service": "AzureDevOps.SouthCentralUS",
+    "region": "southcentralus"
+  }
+]

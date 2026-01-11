@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+51.120.176.32/27,IPv4,GatewayManager.NorwayWest,norwayw
+51.120.219.64/29,IPv4,GatewayManager.NorwayWest,norwayw
+51.120.224.72/29,IPv4,GatewayManager.NorwayWest,norwayw
+2603:1020:f04::40/122,IPv6,GatewayManager.NorwayWest,norwayw

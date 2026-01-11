@@ -1,0 +1,6 @@
+ip_address,ip_type,service,region
+51.116.144.224/27,IPv4,BatchNodeManagement.GermanyWestCentral,germanywc
+51.116.154.32/27,IPv4,BatchNodeManagement.GermanyWestCentral,germanywc
+51.116.243.0/27,IPv4,BatchNodeManagement.GermanyWestCentral,germanywc
+51.116.251.0/27,IPv4,BatchNodeManagement.GermanyWestCentral,germanywc
+2603:1020:c04:1::340/122,IPv6,BatchNodeManagement.GermanyWestCentral,germanywc

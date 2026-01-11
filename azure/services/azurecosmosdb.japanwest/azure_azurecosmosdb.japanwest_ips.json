@@ -1,0 +1,80 @@
+[
+  {
+    "ip_address": "4.190.131.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.JapanWest",
+    "region": "japanwest"
+  },
+  {
+    "ip_address": "4.190.131.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.JapanWest",
+    "region": "japanwest"
+  },
+  {
+    "ip_address": "20.18.178.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.JapanWest",
+    "region": "japanwest"
+  },
+  {
+    "ip_address": "20.210.149.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.JapanWest",
+    "region": "japanwest"
+  },
+  {
+    "ip_address": "40.74.98.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.JapanWest",
+    "region": "japanwest"
+  },
+  {
+    "ip_address": "40.74.143.235/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.JapanWest",
+    "region": "japanwest"
+  },
+  {
+    "ip_address": "40.80.63.160/27",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.JapanWest",
+    "region": "japanwest"
+  },
+  {
+    "ip_address": "40.81.177.214/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.JapanWest",
+    "region": "japanwest"
+  },
+  {
+    "ip_address": "40.81.177.219/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.JapanWest",
+    "region": "japanwest"
+  },
+  {
+    "ip_address": "40.81.183.24/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.JapanWest",
+    "region": "japanwest"
+  },
+  {
+    "ip_address": "104.215.1.53/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.JapanWest",
+    "region": "japanwest"
+  },
+  {
+    "ip_address": "2603:1040:606:1::4e0/123",
+    "ip_type": "IPv6",
+    "service": "AzureCosmosDB.JapanWest",
+    "region": "japanwest"
+  },
+  {
+    "ip_address": "2603:1040:606:402::c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureCosmosDB.JapanWest",
+    "region": "japanwest"
+  }
+]

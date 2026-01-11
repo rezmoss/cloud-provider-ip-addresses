@@ -1,0 +1,32 @@
+[
+  {
+    "ip_address": "40.78.195.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "40.78.195.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "52.172.116.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "2603:1040:c06:3::600/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "2603:1040:c06:402::200/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.SouthIndia",
+    "region": "southindia"
+  }
+]

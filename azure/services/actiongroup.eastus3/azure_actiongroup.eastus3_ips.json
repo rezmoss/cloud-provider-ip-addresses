@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "134.138.99.4/30",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.EastUS3",
+    "region": "eastus3"
+  },
+  {
+    "ip_address": "2603:1030:1402:400::40/125",
+    "ip_type": "IPv6",
+    "service": "ActionGroup.EastUS3",
+    "region": "eastus3"
+  }
+]

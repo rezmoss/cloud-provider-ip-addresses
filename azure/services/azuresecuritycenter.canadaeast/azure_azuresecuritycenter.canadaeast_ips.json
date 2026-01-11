@@ -1,0 +1,38 @@
+[
+  {
+    "ip_address": "4.229.91.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "4.229.92.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "4.229.93.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "4.229.94.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "4.229.96.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.69.111.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.CanadaEast",
+    "region": "canadaeast"
+  }
+]

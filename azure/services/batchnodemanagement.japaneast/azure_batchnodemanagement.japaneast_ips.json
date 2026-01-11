@@ -1,0 +1,56 @@
+[
+  {
+    "ip_address": "13.71.144.135/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.JapanEast",
+    "region": "japaneast"
+  },
+  {
+    "ip_address": "13.78.108.128/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.JapanEast",
+    "region": "japaneast"
+  },
+  {
+    "ip_address": "20.43.66.96/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.JapanEast",
+    "region": "japaneast"
+  },
+  {
+    "ip_address": "23.100.100.145/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.JapanEast",
+    "region": "japaneast"
+  },
+  {
+    "ip_address": "23.100.103.112/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.JapanEast",
+    "region": "japaneast"
+  },
+  {
+    "ip_address": "40.79.186.128/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.JapanEast",
+    "region": "japaneast"
+  },
+  {
+    "ip_address": "40.79.194.32/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.JapanEast",
+    "region": "japaneast"
+  },
+  {
+    "ip_address": "138.91.1.114/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.JapanEast",
+    "region": "japaneast"
+  },
+  {
+    "ip_address": "2603:1040:407:1::340/122",
+    "ip_type": "IPv6",
+    "service": "BatchNodeManagement.JapanEast",
+    "region": "japaneast"
+  }
+]

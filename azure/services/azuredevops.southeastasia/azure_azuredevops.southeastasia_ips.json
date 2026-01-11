@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "20.195.68.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureDevOps.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "2603:1040:5:15::100/120",
+    "ip_type": "IPv6",
+    "service": "AzureDevOps.SoutheastAsia",
+    "region": "southeastasia"
+  }
+]

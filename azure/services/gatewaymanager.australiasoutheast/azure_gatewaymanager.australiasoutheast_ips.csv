@@ -1,0 +1,8 @@
+ip_address,ip_type,service,region
+4.199.82.192/26,IPv4,GatewayManager.AustraliaSoutheast,australiasoutheast
+13.77.50.88/29,IPv4,GatewayManager.AustraliaSoutheast,australiasoutheast
+20.40.173.147/32,IPv4,GatewayManager.AustraliaSoutheast,australiasoutheast
+20.42.224.72/29,IPv4,GatewayManager.AustraliaSoutheast,australiasoutheast
+20.92.4.224/27,IPv4,GatewayManager.AustraliaSoutheast,australiasoutheast
+52.147.44.33/32,IPv4,GatewayManager.AustraliaSoutheast,australiasoutheast
+2603:1010:101::40/122,IPv6,GatewayManager.AustraliaSoutheast,australiasoutheast

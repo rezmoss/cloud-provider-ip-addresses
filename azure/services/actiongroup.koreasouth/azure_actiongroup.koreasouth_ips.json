@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "4.243.28.116/30",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.147.98.52/30",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:5::4ac/126",
+    "ip_type": "IPv6",
+    "service": "ActionGroup.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:402::180/125",
+    "ip_type": "IPv6",
+    "service": "ActionGroup.KoreaSouth",
+    "region": "koreasouth"
+  }
+]

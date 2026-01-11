@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "51.53.186.76/30",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.TaiwanNorthwest",
+    "region": "taiwannorthwest"
+  },
+  {
+    "ip_address": "2603:1040:1202:400::58/125",
+    "ip_type": "IPv6",
+    "service": "ServiceFabric.TaiwanNorthwest",
+    "region": "taiwannorthwest"
+  }
+]

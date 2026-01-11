@@ -1,0 +1,68 @@
+[
+  {
+    "ip_address": "13.75.34.144/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.195.74.168/29",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.195.74.176/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.205.74.76/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.205.82.76/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "2603:1040:207::108/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "2603:1040:207::110/126",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "2603:1040:207::2a0/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "2603:1040:207:402::80/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "2603:1040:207:800::2e0/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "2603:1040:207:c00::2e0/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.EastAsia",
+    "region": "eastasia"
+  }
+]

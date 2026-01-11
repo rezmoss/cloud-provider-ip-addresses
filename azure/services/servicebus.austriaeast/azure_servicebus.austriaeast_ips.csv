@@ -1,0 +1,9 @@
+ip_address,ip_type,service,region
+68.210.152.16/29,IPv4,ServiceBus.AustriaEast,austriaeast
+68.210.152.32/28,IPv4,ServiceBus.AustriaEast,austriaeast
+68.210.166.0/25,IPv4,ServiceBus.AustriaEast,austriaeast
+68.210.192.16/29,IPv4,ServiceBus.AustriaEast,austriaeast
+68.210.192.32/28,IPv4,ServiceBus.AustriaEast,austriaeast
+68.210.208.16/29,IPv4,ServiceBus.AustriaEast,austriaeast
+68.210.208.32/28,IPv4,ServiceBus.AustriaEast,austriaeast
+2603:1020:104:4::580/121,IPv6,ServiceBus.AustriaEast,austriaeast

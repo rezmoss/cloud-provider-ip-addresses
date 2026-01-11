@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "52.140.111.112/29",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "52.140.111.192/27",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "2603:1040:a06:2::200/121",
+    "ip_type": "IPv6",
+    "service": "AzureDigitalTwins.CentralIndia",
+    "region": "centralindia"
+  }
+]

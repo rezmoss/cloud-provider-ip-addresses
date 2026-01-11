@@ -1,0 +1,3 @@
+ip_address,ip_type,service,region
+191.233.50.24/29,IPv4,ServiceFabric.BrazilSoutheast,brazilse
+2603:1050:403:400::140/125,IPv6,ServiceFabric.BrazilSoutheast,brazilse

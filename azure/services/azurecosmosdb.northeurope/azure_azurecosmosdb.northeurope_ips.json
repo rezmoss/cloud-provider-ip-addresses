@@ -1,0 +1,98 @@
+[
+  {
+    "ip_address": "13.69.226.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "13.74.106.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "13.79.34.236/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "20.54.38.35/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "20.166.42.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "20.166.46.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "20.166.47.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "40.113.90.91/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "52.138.205.97/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "52.138.227.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "52.146.131.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "52.155.235.94/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "52.155.236.115/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "2603:1020:5:402::c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureCosmosDB.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "2603:1020:5:802::c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureCosmosDB.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "2603:1020:5:c02::c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureCosmosDB.NorthEurope",
+    "region": "northeurope"
+  }
+]

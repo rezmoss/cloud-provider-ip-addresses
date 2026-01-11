@@ -1,0 +1,8 @@
+[
+  {
+    "ip_address": "48.211.37.0/26",
+    "ip_type": "IPv4",
+    "service": "Dynamics365ForMarketingEmail.EastUS",
+    "region": "eastus"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "ip_address": "13.75.34.148/31",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "13.75.38.16/28",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "13.75.67.143/32",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.195.78.64/28",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "52.139.152.27/32",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "65.52.164.91/32",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "65.52.173.247/32",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "2603:1040:207:1::4a0/124",
+    "ip_type": "IPv6",
+    "service": "ApiManagement.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "2603:1040:207:402::140/124",
+    "ip_type": "IPv6",
+    "service": "ApiManagement.EastAsia",
+    "region": "eastasia"
+  }
+]

@@ -1,0 +1,12 @@
+ip_address,ip_type,service,region
+20.40.5.0/26,IPv4,PowerPlatformPlex.SouthIndia,southindia
+20.192.157.248/29,IPv4,PowerPlatformPlex.SouthIndia,southindia
+20.207.219.24/29,IPv4,PowerPlatformPlex.SouthIndia,southindia
+52.172.81.16/30,IPv4,PowerPlatformPlex.SouthIndia,southindia
+52.172.81.224/29,IPv4,PowerPlatformPlex.SouthIndia,southindia
+52.172.81.232/30,IPv4,PowerPlatformPlex.SouthIndia,southindia
+52.172.86.56/29,IPv4,PowerPlatformPlex.SouthIndia,southindia
+52.172.86.224/28,IPv4,PowerPlatformPlex.SouthIndia,southindia
+135.13.48.64/26,IPv4,PowerPlatformPlex.SouthIndia,southindia
+135.13.50.128/25,IPv4,PowerPlatformPlex.SouthIndia,southindia
+2603:1061:2004:3800::/57,IPv6,PowerPlatformPlex.SouthIndia,southindia

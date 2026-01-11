@@ -1,0 +1,7 @@
+ip_address,ip_type,service,region
+70.153.177.0/27,IPv4,AzureIoTHub.IndonesiaCentral,indonesiacentral
+70.153.200.224/27,IPv4,AzureIoTHub.IndonesiaCentral,indonesiacentral
+70.153.216.224/27,IPv4,AzureIoTHub.IndonesiaCentral,indonesiacentral
+2603:1040:1802:400::80/123,IPv6,AzureIoTHub.IndonesiaCentral,indonesiacentral
+2603:1040:1802:800::40/123,IPv6,AzureIoTHub.IndonesiaCentral,indonesiacentral
+2603:1040:1802:c00::40/123,IPv6,AzureIoTHub.IndonesiaCentral,indonesiacentral

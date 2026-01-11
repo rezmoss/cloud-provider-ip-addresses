@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "9.160.80.24/30",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1020:1502:400::40/125",
+    "ip_type": "IPv6",
+    "service": "ActionGroup.BelgiumCentral",
+    "region": "belgiumcentral"
+  }
+]

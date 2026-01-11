@@ -1,0 +1,50 @@
+[
+  {
+    "ip_address": "13.66.140.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.WestUS2",
+    "region": "westus2"
+  },
+  {
+    "ip_address": "20.42.129.16/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.WestUS2",
+    "region": "westus2"
+  },
+  {
+    "ip_address": "20.51.14.48/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.WestUS2",
+    "region": "westus2"
+  },
+  {
+    "ip_address": "40.78.242.176/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.WestUS2",
+    "region": "westus2"
+  },
+  {
+    "ip_address": "40.78.250.112/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.WestUS2",
+    "region": "westus2"
+  },
+  {
+    "ip_address": "40.91.77.76/32",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.WestUS2",
+    "region": "westus2"
+  },
+  {
+    "ip_address": "52.148.163.43/32",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.WestUS2",
+    "region": "westus2"
+  },
+  {
+    "ip_address": "2603:1030:c06:1::2c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.WestUS2",
+    "region": "westus2"
+  }
+]

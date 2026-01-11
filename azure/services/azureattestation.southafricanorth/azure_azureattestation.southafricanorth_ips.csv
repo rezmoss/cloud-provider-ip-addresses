@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+4.221.45.232/29,IPv4,AzureAttestation.SouthAfricaNorth,southafricanorth
+102.133.126.132/30,IPv4,AzureAttestation.SouthAfricaNorth,southafricanorth
+102.133.221.196/30,IPv4,AzureAttestation.SouthAfricaNorth,southafricanorth

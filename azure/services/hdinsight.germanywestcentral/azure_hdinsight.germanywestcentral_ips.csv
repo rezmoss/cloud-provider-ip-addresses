@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+51.116.145.168/29,IPv4,HDInsight.GermanyWestCentral,germanywc
+51.116.156.48/29,IPv4,HDInsight.GermanyWestCentral,germanywc
+2603:1020:c04:402::320/124,IPv6,HDInsight.GermanyWestCentral,germanywc

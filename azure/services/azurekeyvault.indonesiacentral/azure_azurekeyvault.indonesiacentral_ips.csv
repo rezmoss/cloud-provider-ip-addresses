@@ -1,0 +1,10 @@
+ip_address,ip_type,service,region
+70.153.158.204/30,IPv4,AzureKeyVault.IndonesiaCentral,indonesiacentral
+70.153.170.240/29,IPv4,AzureKeyVault.IndonesiaCentral,indonesiacentral
+70.153.180.212/30,IPv4,AzureKeyVault.IndonesiaCentral,indonesiacentral
+70.153.203.8/30,IPv4,AzureKeyVault.IndonesiaCentral,indonesiacentral
+70.153.219.8/30,IPv4,AzureKeyVault.IndonesiaCentral,indonesiacentral
+2603:1040:1802::748/125,IPv6,AzureKeyVault.IndonesiaCentral,indonesiacentral
+2603:1040:1802:400::50/125,IPv6,AzureKeyVault.IndonesiaCentral,indonesiacentral
+2603:1040:1802:800::18/125,IPv6,AzureKeyVault.IndonesiaCentral,indonesiacentral
+2603:1040:1802:c00::18/125,IPv6,AzureKeyVault.IndonesiaCentral,indonesiacentral

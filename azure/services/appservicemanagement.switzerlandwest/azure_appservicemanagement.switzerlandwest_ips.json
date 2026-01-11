@@ -1,0 +1,44 @@
+[
+  {
+    "ip_address": "51.107.154.192/26",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "51.107.232.208/32",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "51.107.255.144/28",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "74.242.25.64/29",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "2603:1020:b04:1::4a0/123",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "2603:1020:b04:5::680/122",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "2603:1020:b04:402::100/122",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.SwitzerlandWest",
+    "region": "switzerlandw"
+  }
+]

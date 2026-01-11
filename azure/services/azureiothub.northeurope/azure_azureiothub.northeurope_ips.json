@@ -1,0 +1,92 @@
+[
+  {
+    "ip_address": "13.69.192.43/32",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "13.69.230.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "13.74.108.192/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "13.79.172.43/32",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "20.50.65.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "20.50.68.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "40.87.138.172/32",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "40.87.143.97/32",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "40.127.132.17/32",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "52.138.229.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "52.169.138.222/32",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "52.178.147.144/32",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "2603:1020:5:402::300/123",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "2603:1020:5:802::240/123",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "2603:1020:5:c02::240/123",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.NorthEurope",
+    "region": "northeurope"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "ip_address": "13.71.170.0/28",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "13.88.253.180/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "20.38.146.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "20.48.192.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "20.151.81.25/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "20.220.2.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "20.220.4.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "20.220.4.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "52.139.0.145/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "52.139.3.10/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "52.246.154.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "2603:1030:f05:402::c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureCosmosDB.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "2603:1030:f05:802::c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureCosmosDB.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "2603:1030:f05:c02::c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureCosmosDB.CanadaCentral",
+    "region": "canadacentral"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "ip_address": "40.67.48.124/30",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.EastUSSTG",
+    "region": "usstagee"
+  },
+  {
+    "ip_address": "40.67.49.128/27",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.EastUSSTG",
+    "region": "usstagee"
+  },
+  {
+    "ip_address": "40.67.50.192/27",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.EastUSSTG",
+    "region": "usstagee"
+  },
+  {
+    "ip_address": "40.67.52.88/29",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.EastUSSTG",
+    "region": "usstagee"
+  },
+  {
+    "ip_address": "2603:1030:104::100/121",
+    "ip_type": "IPv6",
+    "service": "AzurePortal.EastUSSTG",
+    "region": "usstagee"
+  },
+  {
+    "ip_address": "2603:1030:104:1::680/121",
+    "ip_type": "IPv6",
+    "service": "AzurePortal.EastUSSTG",
+    "region": "usstagee"
+  }
+]

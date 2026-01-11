@@ -1,0 +1,92 @@
+[
+  {
+    "ip_address": "13.75.34.192/26",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "13.75.127.117/32",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.2.105.64/28",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.205.69.32/28",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.205.74.192/26",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.205.82.192/26",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "23.99.115.5/32",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "40.83.120.64/32",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "40.83.121.56/32",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "40.83.125.161/32",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "65.52.172.237/32",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "168.63.132.240/32",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "2603:1040:207:402::100/122",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "2603:1040:207:800::80/122",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "2603:1040:207:c00::80/122",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.EastAsia",
+    "region": "eastasia"
+  }
+]

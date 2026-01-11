@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+98.66.132.188/30,IPv4,ActionGroup.FranceCentral,centralfrance
+2603:1020:805:1::130/126,IPv6,ActionGroup.FranceCentral,centralfrance
+2603:1020:805:402::178/125,IPv6,ActionGroup.FranceCentral,centralfrance

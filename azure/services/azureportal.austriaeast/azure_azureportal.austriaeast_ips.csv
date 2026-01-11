@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+68.210.173.224/27,IPv4,AzurePortal.AustriaEast,austriaeast
+68.210.179.88/30,IPv4,AzurePortal.AustriaEast,austriaeast
+2603:1020:104:3::280/121,IPv6,AzurePortal.AustriaEast,austriaeast

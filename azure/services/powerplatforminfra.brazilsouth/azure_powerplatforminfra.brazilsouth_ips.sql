@@ -1,0 +1,43 @@
+-- SQL script to create table `azure_powerplatforminfra.brazilsouth_ips` and insert IP addresses
+
+CREATE TABLE IF NOT EXISTS `azure_powerplatforminfra.brazilsouth_ips` (
+  `ip_address` VARCHAR(45) NOT NULL,
+  `ip_type` VARCHAR(10) NOT NULL,
+  PRIMARY KEY (`ip_address`)
+);
+
+INSERT INTO `azure_powerplatforminfra.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('4.203.145.200/29', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('4.203.146.0/23', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('4.203.148.0/26', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('20.201.1.228/32', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('20.201.2.105/32', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('20.201.58.117/32', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('20.201.73.133/32', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('20.206.209.75/32', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('20.226.212.64/26', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('20.226.212.128/27', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('191.233.0.149/32', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('191.233.0.254/32', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('191.233.1.175/32', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('191.233.18.254/32', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('191.233.20.43/32', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('191.233.25.156/32', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('191.233.27.226/32', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('191.233.28.145/32', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('191.233.29.72/32', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('191.233.30.20/32', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('191.233.31.0/32', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('191.233.31.63/32', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('191.233.31.224/32', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('191.233.242.177/32', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('191.233.242.180/32', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('191.234.137.64/26', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('191.234.137.128/25', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('191.234.138.0/25', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('191.234.139.176/29', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('191.235.127.181/32', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('191.237.200.26/32', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('191.238.76.192/26', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('191.238.77.0/27', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('191.238.77.56/29', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2002:1100::/57', 'IPv6');

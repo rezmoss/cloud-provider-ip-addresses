@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+4.243.28.116/30,IPv4,ActionGroup.KoreaSouth,koreasouth
+52.147.98.52/30,IPv4,ActionGroup.KoreaSouth,koreasouth
+2603:1040:e05:5::4ac/126,IPv6,ActionGroup.KoreaSouth,koreasouth
+2603:1040:e05:402::180/125,IPv6,ActionGroup.KoreaSouth,koreasouth

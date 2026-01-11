@@ -1,0 +1,6 @@
+ip_address,ip_type,service,region
+20.90.38.38/31,IPv4,ActionGroup.UKWest,ukwest
+51.140.215.184/30,IPv4,ActionGroup.UKWest,ukwest
+172.187.32.16/30,IPv4,ActionGroup.UKWest,ukwest
+2603:1020:605::128/126,IPv6,ActionGroup.UKWest,ukwest
+2603:1020:605:402::178/125,IPv6,ActionGroup.UKWest,ukwest

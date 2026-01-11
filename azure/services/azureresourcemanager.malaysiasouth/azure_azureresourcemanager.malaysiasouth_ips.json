@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "20.17.60.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.MalaysiaSouth",
+    "region": "malaysiasouth"
+  },
+  {
+    "ip_address": "20.17.68.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.MalaysiaSouth",
+    "region": "malaysiasouth"
+  },
+  {
+    "ip_address": "2603:1040:1503:1::600/120",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.MalaysiaSouth",
+    "region": "malaysiasouth"
+  },
+  {
+    "ip_address": "2603:1040:1503:400::1c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.MalaysiaSouth",
+    "region": "malaysiasouth"
+  }
+]

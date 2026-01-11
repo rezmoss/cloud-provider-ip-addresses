@@ -1,0 +1,10 @@
+ip_address,ip_type,service,region
+13.71.144.135/32,IPv4,BatchNodeManagement.JapanEast,japaneast
+13.78.108.128/27,IPv4,BatchNodeManagement.JapanEast,japaneast
+20.43.66.96/27,IPv4,BatchNodeManagement.JapanEast,japaneast
+23.100.100.145/32,IPv4,BatchNodeManagement.JapanEast,japaneast
+23.100.103.112/32,IPv4,BatchNodeManagement.JapanEast,japaneast
+40.79.186.128/27,IPv4,BatchNodeManagement.JapanEast,japaneast
+40.79.194.32/27,IPv4,BatchNodeManagement.JapanEast,japaneast
+138.91.1.114/32,IPv4,BatchNodeManagement.JapanEast,japaneast
+2603:1040:407:1::340/122,IPv6,BatchNodeManagement.JapanEast,japaneast

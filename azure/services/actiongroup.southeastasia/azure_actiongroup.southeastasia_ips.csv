@@ -1,0 +1,6 @@
+ip_address,ip_type,service,region
+4.145.74.52/30,IPv4,ActionGroup.SoutheastAsia,southeastasia
+13.67.10.124/30,IPv4,ActionGroup.SoutheastAsia,southeastasia
+20.195.87.54/31,IPv4,ActionGroup.SoutheastAsia,southeastasia
+2603:1040:5:3::5fc/126,IPv6,ActionGroup.SoutheastAsia,southeastasia
+2603:1040:5:402::178/125,IPv6,ActionGroup.SoutheastAsia,southeastasia

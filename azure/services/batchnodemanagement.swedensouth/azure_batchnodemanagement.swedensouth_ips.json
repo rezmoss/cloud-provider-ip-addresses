@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "51.12.193.192/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.SwedenSouth",
+    "region": "swedensouth"
+  },
+  {
+    "ip_address": "51.12.204.0/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.SwedenSouth",
+    "region": "swedensouth"
+  },
+  {
+    "ip_address": "2603:1020:1104::300/122",
+    "ip_type": "IPv6",
+    "service": "BatchNodeManagement.SwedenSouth",
+    "region": "swedensouth"
+  }
+]

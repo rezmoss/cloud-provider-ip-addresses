@@ -1,0 +1,68 @@
+[
+  {
+    "ip_address": "13.71.124.81/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "20.41.199.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "20.219.112.136/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "20.219.112.234/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "40.78.194.0/28",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "52.172.82.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "52.172.84.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "52.172.84.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "104.211.227.84/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "2603:1040:c06:3::60/123",
+    "ip_type": "IPv6",
+    "service": "AzureCosmosDB.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "2603:1040:c06:402::c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureCosmosDB.SouthIndia",
+    "region": "southindia"
+  }
+]

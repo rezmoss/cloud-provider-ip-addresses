@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "20.36.121.160/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.AustraliaCentral2",
+    "region": "australiacentral2"
+  },
+  {
+    "ip_address": "2603:1010:404::400/122",
+    "ip_type": "IPv6",
+    "service": "BatchNodeManagement.AustraliaCentral2",
+    "region": "australiacentral2"
+  }
+]

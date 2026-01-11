@@ -1,0 +1,7 @@
+ip_address,ip_type,service,region
+20.207.222.0/25,IPv4,ServiceBus.SouthIndia,southindia
+40.78.194.16/28,IPv4,ServiceBus.SouthIndia,southindia
+52.172.118.128/25,IPv4,ServiceBus.SouthIndia,southindia
+2603:1040:c06::220/123,IPv6,ServiceBus.SouthIndia,southindia
+2603:1040:c06:1::500/120,IPv6,ServiceBus.SouthIndia,southindia
+2603:1040:c06:402::170/125,IPv6,ServiceBus.SouthIndia,southindia

@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "20.217.248.16/30",
+    "ip_type": "IPv4",
+    "service": "AzureBotService.IsraelNorthwest",
+    "region": "israelnorthwest"
+  },
+  {
+    "ip_address": "2603:1040:1702::20/123",
+    "ip_type": "IPv6",
+    "service": "AzureBotService.IsraelNorthwest",
+    "region": "israelnorthwest"
+  }
+]

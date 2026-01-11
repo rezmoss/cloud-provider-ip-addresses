@@ -1,0 +1,8 @@
+[
+  {
+    "ip_address": "20.36.120.192/28",
+    "ip_type": "IPv4",
+    "service": "AzureOpenDatasets.AustraliaCentral2",
+    "region": "australiacentral2"
+  }
+]

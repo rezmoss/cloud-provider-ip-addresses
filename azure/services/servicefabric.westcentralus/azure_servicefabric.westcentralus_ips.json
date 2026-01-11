@@ -1,0 +1,44 @@
+[
+  {
+    "ip_address": "13.71.195.48/29",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "13.78.147.125/32",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "57.151.152.8/30",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "172.215.202.12/30",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:402::98/125",
+    "ip_type": "IPv6",
+    "service": "ServiceFabric.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:800::18/125",
+    "ip_type": "IPv6",
+    "service": "ServiceFabric.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:c00::10/125",
+    "ip_type": "IPv6",
+    "service": "ServiceFabric.WestCentralUS",
+    "region": "westcentralus"
+  }
+]

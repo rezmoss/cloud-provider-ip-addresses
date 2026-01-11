@@ -1,0 +1,122 @@
+[
+  {
+    "ip_address": "4.238.11.96/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "4.238.15.0/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "20.206.0.196/31",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "20.206.5.40/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "108.140.6.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "108.140.25.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "191.233.15.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "191.233.51.128/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "191.237.224.176/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "191.237.224.192/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "2603:1050:400:2::1a/128",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "2603:1050:403::280/122",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "2603:1050:403:1::80/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "2603:1050:403:1::240/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "2603:1050:403:1::300/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "2603:1050:403:2::7e0/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "2603:1050:403:5::/122",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "2603:1050:403:7::2e0/124",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "2603:1050:403:7::660/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "2603:1050:403:400::580/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.BrazilSoutheast",
+    "region": "brazilse"
+  }
+]

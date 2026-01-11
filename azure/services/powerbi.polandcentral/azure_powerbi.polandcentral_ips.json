@@ -1,0 +1,62 @@
+[
+  {
+    "ip_address": "20.215.4.248/31",
+    "ip_type": "IPv4",
+    "service": "PowerBI.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "20.215.4.252/30",
+    "ip_type": "IPv4",
+    "service": "PowerBI.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "20.215.6.128/29",
+    "ip_type": "IPv4",
+    "service": "PowerBI.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "20.215.170.120/29",
+    "ip_type": "IPv4",
+    "service": "PowerBI.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "20.215.173.80/29",
+    "ip_type": "IPv4",
+    "service": "PowerBI.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "20.215.173.88/31",
+    "ip_type": "IPv4",
+    "service": "PowerBI.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "20.215.173.96/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "20.215.174.0/30",
+    "ip_type": "IPv4",
+    "service": "PowerBI.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "2603:1020:1302:1::1e0/123",
+    "ip_type": "IPv6",
+    "service": "PowerBI.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "2603:1020:1302:1::280/122",
+    "ip_type": "IPv6",
+    "service": "PowerBI.PolandCentral",
+    "region": "polandcentral"
+  }
+]

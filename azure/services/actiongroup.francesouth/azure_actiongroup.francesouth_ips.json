@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "20.111.76.188/30",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "51.138.160.220/30",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "2603:1020:905::10c/126",
+    "ip_type": "IPv6",
+    "service": "ActionGroup.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "2603:1020:905:402::178/125",
+    "ip_type": "IPv6",
+    "service": "ActionGroup.FranceSouth",
+    "region": "southfrance"
+  }
+]

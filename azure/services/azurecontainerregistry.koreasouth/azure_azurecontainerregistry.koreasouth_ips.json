@@ -1,0 +1,62 @@
+[
+  {
+    "ip_address": "4.243.41.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "20.200.166.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.147.97.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.146.192/29",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.151.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:1::450/125",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:6::600/122",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:402::100/122",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:402::148/125",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:402::200/121",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.KoreaSouth",
+    "region": "koreasouth"
+  }
+]

@@ -1,0 +1,47 @@
+-- SQL script to create table `azure_azureupdatedelivery.eastus2_ips` and insert IP addresses
+
+CREATE TABLE IF NOT EXISTS `azure_azureupdatedelivery.eastus2_ips` (
+  `ip_address` VARCHAR(45) NOT NULL,
+  `ip_type` VARCHAR(10) NOT NULL,
+  PRIMARY KEY (`ip_address`)
+);
+
+INSERT INTO `azure_azureupdatedelivery.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('20.7.47.135/32', 'IPv4');
+INSERT INTO `azure_azureupdatedelivery.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('20.10.149.151/32', 'IPv4');
+INSERT INTO `azure_azureupdatedelivery.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('20.12.23.50/32', 'IPv4');
+INSERT INTO `azure_azureupdatedelivery.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('20.14.199.74/32', 'IPv4');
+INSERT INTO `azure_azureupdatedelivery.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('20.14.199.81/32', 'IPv4');
+INSERT INTO `azure_azureupdatedelivery.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('20.41.24.231/32', 'IPv4');
+INSERT INTO `azure_azureupdatedelivery.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('20.44.79.107/32', 'IPv4');
+INSERT INTO `azure_azureupdatedelivery.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('20.96.120.2/32', 'IPv4');
+INSERT INTO `azure_azureupdatedelivery.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('20.242.39.171/32', 'IPv4');
+INSERT INTO `azure_azureupdatedelivery.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('40.65.209.51/32', 'IPv4');
+INSERT INTO `azure_azureupdatedelivery.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('40.70.229.150/32', 'IPv4');
+INSERT INTO `azure_azureupdatedelivery.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('52.167.22.69/32', 'IPv4');
+INSERT INTO `azure_azureupdatedelivery.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('52.179.216.235/32', 'IPv4');
+INSERT INTO `azure_azureupdatedelivery.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('52.179.219.14/32', 'IPv4');
+INSERT INTO `azure_azureupdatedelivery.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('52.184.212.181/32', 'IPv4');
+INSERT INTO `azure_azureupdatedelivery.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('52.184.213.21/32', 'IPv4');
+INSERT INTO `azure_azureupdatedelivery.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('52.184.213.187/32', 'IPv4');
+INSERT INTO `azure_azureupdatedelivery.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('52.184.214.53/32', 'IPv4');
+INSERT INTO `azure_azureupdatedelivery.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('52.184.214.123/32', 'IPv4');
+INSERT INTO `azure_azureupdatedelivery.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('52.184.214.139/32', 'IPv4');
+INSERT INTO `azure_azureupdatedelivery.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('52.184.216.174/32', 'IPv4');
+INSERT INTO `azure_azureupdatedelivery.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('52.184.216.226/32', 'IPv4');
+INSERT INTO `azure_azureupdatedelivery.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('52.184.216.246/32', 'IPv4');
+INSERT INTO `azure_azureupdatedelivery.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('52.184.217.20/32', 'IPv4');
+INSERT INTO `azure_azureupdatedelivery.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('52.184.217.37/32', 'IPv4');
+INSERT INTO `azure_azureupdatedelivery.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('52.184.217.56/32', 'IPv4');
+INSERT INTO `azure_azureupdatedelivery.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('52.184.217.78/32', 'IPv4');
+INSERT INTO `azure_azureupdatedelivery.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('52.184.217.138/32', 'IPv4');
+INSERT INTO `azure_azureupdatedelivery.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('52.242.99.254/32', 'IPv4');
+INSERT INTO `azure_azureupdatedelivery.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('52.242.101.140/32', 'IPv4');
+INSERT INTO `azure_azureupdatedelivery.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('52.242.101.224/32', 'IPv4');
+INSERT INTO `azure_azureupdatedelivery.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('52.242.103.51/32', 'IPv4');
+INSERT INTO `azure_azureupdatedelivery.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('52.242.103.71/32', 'IPv4');
+INSERT INTO `azure_azureupdatedelivery.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:408::259/128', 'IPv6');
+INSERT INTO `azure_azureupdatedelivery.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:408:3::86/128', 'IPv6');
+INSERT INTO `azure_azureupdatedelivery.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:408:7::28/127', 'IPv6');
+INSERT INTO `azure_azureupdatedelivery.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:408:7::3d/128', 'IPv6');
+INSERT INTO `azure_azureupdatedelivery.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:408:7::3f/128', 'IPv6');
+INSERT INTO `azure_azureupdatedelivery.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:408:7::4c/128', 'IPv6');

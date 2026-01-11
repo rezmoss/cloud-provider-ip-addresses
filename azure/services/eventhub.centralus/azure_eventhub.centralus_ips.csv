@@ -1,0 +1,17 @@
+ip_address,ip_type,service,region
+13.89.170.128/26,IPv4,EventHub.CentralUS,centralus
+13.89.178.112/28,IPv4,EventHub.CentralUS,centralus
+20.44.13.64/26,IPv4,EventHub.CentralUS,centralus
+20.98.147.0/24,IPv4,EventHub.CentralUS,centralus
+52.165.179.109/32,IPv4,EventHub.CentralUS,centralus
+52.182.138.128/26,IPv4,EventHub.CentralUS,centralus
+52.182.143.64/26,IPv4,EventHub.CentralUS,centralus
+52.255.16.0/23,IPv4,EventHub.CentralUS,centralus
+104.208.16.0/26,IPv4,EventHub.CentralUS,centralus
+172.170.168.0/25,IPv4,EventHub.CentralUS,centralus
+172.202.80.0/25,IPv4,EventHub.CentralUS,centralus
+2603:1030:10:1::240/122,IPv6,EventHub.CentralUS,centralus
+2603:1030:10:c::/119,IPv6,EventHub.CentralUS,centralus
+2603:1030:10:402::1c0/123,IPv6,EventHub.CentralUS,centralus
+2603:1030:10:802::160/123,IPv6,EventHub.CentralUS,centralus
+2603:1030:10:c02::160/123,IPv6,EventHub.CentralUS,centralus

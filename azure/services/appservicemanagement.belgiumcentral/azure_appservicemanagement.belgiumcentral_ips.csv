@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+9.160.17.0/29,IPv4,AppServiceManagement.BelgiumCentral,belgiumcentral
+9.160.52.128/26,IPv4,AppServiceManagement.BelgiumCentral,belgiumcentral
+2603:1020:1502:2::40/122,IPv6,AppServiceManagement.BelgiumCentral,belgiumcentral

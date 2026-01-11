@@ -1,0 +1,8 @@
+ip_address,ip_type,service,region
+20.33.239.0/24,IPv4,Storage.AustriaEast,austriaeast
+20.33.245.0/24,IPv4,Storage.AustriaEast,austriaeast
+57.150.117.0/24,IPv4,Storage.AustriaEast,austriaeast
+57.150.120.0/22,IPv4,Storage.AustriaEast,austriaeast
+135.130.188.0/23,IPv4,Storage.AustriaEast,austriaeast
+145.190.128.0/24,IPv4,Storage.AustriaEast,austriaeast
+2603:1020:101::/48,IPv6,Storage.AustriaEast,austriaeast

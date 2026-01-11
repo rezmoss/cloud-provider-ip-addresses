@@ -1,0 +1,6 @@
+ip_address,ip_type,service,region
+9.234.68.0/25,IPv4,PowerPlatformPlex.CentralUS,centralus
+13.86.98.128/26,IPv4,PowerPlatformPlex.CentralUS,centralus
+172.212.240.192/27,IPv4,PowerPlatformPlex.CentralUS,centralus
+172.212.240.224/28,IPv4,PowerPlatformPlex.CentralUS,centralus
+2603:1061:2004:7200::/57,IPv6,PowerPlatformPlex.CentralUS,centralus

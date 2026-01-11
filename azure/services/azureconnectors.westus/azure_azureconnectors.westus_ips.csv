@@ -1,0 +1,13 @@
+ip_address,ip_type,service,region
+13.86.223.32/27,IPv4,AzureConnectors.WestUS,westus
+13.91.93.63/32,IPv4,AzureConnectors.WestUS,westus
+13.91.97.196/32,IPv4,AzureConnectors.WestUS,westus
+13.93.148.62/32,IPv4,AzureConnectors.WestUS,westus
+20.59.77.0/27,IPv4,AzureConnectors.WestUS,westus
+20.66.6.112/28,IPv4,AzureConnectors.WestUS,westus
+20.245.49.8/32,IPv4,AzureConnectors.WestUS,westus
+20.245.53.38/32,IPv4,AzureConnectors.WestUS,westus
+40.112.195.87/32,IPv4,AzureConnectors.WestUS,westus
+40.112.243.160/28,IPv4,AzureConnectors.WestUS,westus
+104.42.122.49/32,IPv4,AzureConnectors.WestUS,westus
+2603:1030:a07:402::100/122,IPv6,AzureConnectors.WestUS,westus

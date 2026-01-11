@@ -1,0 +1,9 @@
+ip_address,ip_type,service,region
+20.52.42.71/32,IPv4,MicrosoftCloudAppSecurity.GermanyWestCentral,germanywc
+20.52.42.88/32,IPv4,MicrosoftCloudAppSecurity.GermanyWestCentral,germanywc
+20.52.42.103/32,IPv4,MicrosoftCloudAppSecurity.GermanyWestCentral,germanywc
+20.52.48.3/32,IPv4,MicrosoftCloudAppSecurity.GermanyWestCentral,germanywc
+20.170.36.122/32,IPv4,MicrosoftCloudAppSecurity.GermanyWestCentral,germanywc
+20.170.36.209/32,IPv4,MicrosoftCloudAppSecurity.GermanyWestCentral,germanywc
+20.218.181.177/32,IPv4,MicrosoftCloudAppSecurity.GermanyWestCentral,germanywc
+20.218.182.135/32,IPv4,MicrosoftCloudAppSecurity.GermanyWestCentral,germanywc

@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "102.133.27.32/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.SouthAfricaWest",
+    "region": "southafricawest"
+  },
+  {
+    "ip_address": "102.133.58.224/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.SouthAfricaWest",
+    "region": "southafricawest"
+  },
+  {
+    "ip_address": "2603:1000:4::300/122",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.SouthAfricaWest",
+    "region": "southafricawest"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "ip_address": "4.176.24.16/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "4.176.30.32/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "4.176.48.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "4.178.131.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "20.19.27.128/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "20.40.137.91/32",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "20.40.140.212/32",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "20.43.40.68/31",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "20.43.41.178/31",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "20.43.44.128/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "20.43.44.216/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "20.43.44.224/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "20.111.2.192/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "20.188.36.28/32",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "40.79.130.240/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "40.79.132.32/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "40.79.138.40/30",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "40.79.138.144/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "40.79.141.144/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "40.79.143.16/30",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "40.79.143.24/31",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "40.79.143.30/31",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "40.79.143.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "40.79.146.40/30",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "40.79.146.144/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "40.79.150.96/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "40.79.151.2/31",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "40.79.151.12/31",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "40.79.151.64/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "40.79.151.104/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "40.89.153.171/32",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "40.89.189.61/32",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "51.11.192.40/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "51.11.193.112/30",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "51.11.194.0/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "98.66.146.96/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "2603:1020:805::60/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "2603:1020:805::1c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "2603:1020:805::300/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "2603:1020:805::360/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "2603:1020:805::500/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "2603:1020:805:1::280/122",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "2603:1020:805:3::3c0/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "2603:1020:805:7::/122",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "2603:1020:805:d::130/124",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "2603:1020:805:d::500/120",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "2603:1020:805:d::7a0/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "2603:1020:805:402::500/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "2603:1020:805:802::480/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "2603:1020:805:c02::480/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.FranceCentral",
+    "region": "centralfrance"
+  }
+]

@@ -1,0 +1,3 @@
+ip_address,ip_type,service,region
+48.216.17.0/27,IPv4,AzureMachineLearning.SouthCentralUS2,southcentralus2
+2603:1030:1102::200/122,IPv6,AzureMachineLearning.SouthCentralUS2,southcentralus2

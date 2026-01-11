@@ -1,0 +1,38 @@
+[
+  {
+    "ip_address": "4.199.157.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.AustraliaCentral",
+    "region": "australiacentral"
+  },
+  {
+    "ip_address": "4.199.158.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.AustraliaCentral",
+    "region": "australiacentral"
+  },
+  {
+    "ip_address": "4.199.160.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.AustraliaCentral",
+    "region": "australiacentral"
+  },
+  {
+    "ip_address": "4.199.164.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.AustraliaCentral",
+    "region": "australiacentral"
+  },
+  {
+    "ip_address": "4.199.164.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.AustraliaCentral",
+    "region": "australiacentral"
+  },
+  {
+    "ip_address": "20.53.0.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.AustraliaCentral",
+    "region": "australiacentral"
+  }
+]

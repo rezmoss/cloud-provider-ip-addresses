@@ -1,0 +1,122 @@
+[
+  {
+    "ip_address": "48.220.60.10/32",
+    "ip_type": "IPv4",
+    "service": "ZeroTrustSegmentation",
+    "region": ""
+  },
+  {
+    "ip_address": "48.220.60.12/30",
+    "ip_type": "IPv4",
+    "service": "ZeroTrustSegmentation",
+    "region": ""
+  },
+  {
+    "ip_address": "57.158.47.121/32",
+    "ip_type": "IPv4",
+    "service": "ZeroTrustSegmentation",
+    "region": ""
+  },
+  {
+    "ip_address": "57.158.47.124/30",
+    "ip_type": "IPv4",
+    "service": "ZeroTrustSegmentation",
+    "region": ""
+  },
+  {
+    "ip_address": "72.147.59.211/32",
+    "ip_type": "IPv4",
+    "service": "ZeroTrustSegmentation",
+    "region": ""
+  },
+  {
+    "ip_address": "72.147.61.144/30",
+    "ip_type": "IPv4",
+    "service": "ZeroTrustSegmentation",
+    "region": ""
+  },
+  {
+    "ip_address": "131.145.67.223/32",
+    "ip_type": "IPv4",
+    "service": "ZeroTrustSegmentation",
+    "region": ""
+  },
+  {
+    "ip_address": "131.145.67.244/30",
+    "ip_type": "IPv4",
+    "service": "ZeroTrustSegmentation",
+    "region": ""
+  },
+  {
+    "ip_address": "132.164.237.99/32",
+    "ip_type": "IPv4",
+    "service": "ZeroTrustSegmentation",
+    "region": ""
+  },
+  {
+    "ip_address": "132.164.237.100/30",
+    "ip_type": "IPv4",
+    "service": "ZeroTrustSegmentation",
+    "region": ""
+  },
+  {
+    "ip_address": "132.220.81.153/32",
+    "ip_type": "IPv4",
+    "service": "ZeroTrustSegmentation",
+    "region": ""
+  },
+  {
+    "ip_address": "132.220.81.156/30",
+    "ip_type": "IPv4",
+    "service": "ZeroTrustSegmentation",
+    "region": ""
+  },
+  {
+    "ip_address": "134.33.186.225/32",
+    "ip_type": "IPv4",
+    "service": "ZeroTrustSegmentation",
+    "region": ""
+  },
+  {
+    "ip_address": "134.33.186.228/30",
+    "ip_type": "IPv4",
+    "service": "ZeroTrustSegmentation",
+    "region": ""
+  },
+  {
+    "ip_address": "135.119.0.33/32",
+    "ip_type": "IPv4",
+    "service": "ZeroTrustSegmentation",
+    "region": ""
+  },
+  {
+    "ip_address": "135.119.0.48/30",
+    "ip_type": "IPv4",
+    "service": "ZeroTrustSegmentation",
+    "region": ""
+  },
+  {
+    "ip_address": "172.208.252.131/32",
+    "ip_type": "IPv4",
+    "service": "ZeroTrustSegmentation",
+    "region": ""
+  },
+  {
+    "ip_address": "172.208.254.100/30",
+    "ip_type": "IPv4",
+    "service": "ZeroTrustSegmentation",
+    "region": ""
+  },
+  {
+    "ip_address": "172.215.90.238/32",
+    "ip_type": "IPv4",
+    "service": "ZeroTrustSegmentation",
+    "region": ""
+  },
+  {
+    "ip_address": "172.215.94.80/30",
+    "ip_type": "IPv4",
+    "service": "ZeroTrustSegmentation",
+    "region": ""
+  }
+]

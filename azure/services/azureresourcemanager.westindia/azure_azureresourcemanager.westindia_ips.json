@@ -1,0 +1,38 @@
+[
+  {
+    "ip_address": "20.38.128.32/28",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.WestIndia",
+    "region": "westindia"
+  },
+  {
+    "ip_address": "20.38.130.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.WestIndia",
+    "region": "westindia"
+  },
+  {
+    "ip_address": "52.136.54.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.WestIndia",
+    "region": "westindia"
+  },
+  {
+    "ip_address": "2603:1040:806::6c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.WestIndia",
+    "region": "westindia"
+  },
+  {
+    "ip_address": "2603:1040:806:3::500/120",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.WestIndia",
+    "region": "westindia"
+  },
+  {
+    "ip_address": "2603:1040:806:402::280/122",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.WestIndia",
+    "region": "westindia"
+  }
+]

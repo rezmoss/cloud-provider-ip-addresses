@@ -1,0 +1,50 @@
+[
+  {
+    "ip_address": "102.37.65.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.SouthAfricaWest",
+    "region": "southafricawest"
+  },
+  {
+    "ip_address": "102.37.65.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.SouthAfricaWest",
+    "region": "southafricawest"
+  },
+  {
+    "ip_address": "102.133.26.24/29",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.SouthAfricaWest",
+    "region": "southafricawest"
+  },
+  {
+    "ip_address": "172.209.9.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.SouthAfricaWest",
+    "region": "southafricawest"
+  },
+  {
+    "ip_address": "2603:1000:4:5::740/122",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.SouthAfricaWest",
+    "region": "southafricawest"
+  },
+  {
+    "ip_address": "2603:1000:4:402::90/125",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.SouthAfricaWest",
+    "region": "southafricawest"
+  },
+  {
+    "ip_address": "2603:1000:4:402::340/122",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.SouthAfricaWest",
+    "region": "southafricawest"
+  },
+  {
+    "ip_address": "2603:1000:4:402::580/122",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.SouthAfricaWest",
+    "region": "southafricawest"
+  }
+]

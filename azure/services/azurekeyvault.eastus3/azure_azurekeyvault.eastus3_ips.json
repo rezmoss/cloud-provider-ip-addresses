@@ -1,0 +1,32 @@
+[
+  {
+    "ip_address": "134.138.71.124/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.EastUS3",
+    "region": "eastus3"
+  },
+  {
+    "ip_address": "134.138.73.160/29",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.EastUS3",
+    "region": "eastus3"
+  },
+  {
+    "ip_address": "134.138.96.12/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.EastUS3",
+    "region": "eastus3"
+  },
+  {
+    "ip_address": "2603:1030:1402:1::3e8/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.EastUS3",
+    "region": "eastus3"
+  },
+  {
+    "ip_address": "2603:1030:1402:400::48/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.EastUS3",
+    "region": "eastus3"
+  }
+]

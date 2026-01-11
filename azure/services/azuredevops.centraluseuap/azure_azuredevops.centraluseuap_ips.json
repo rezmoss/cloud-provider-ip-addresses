@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "20.45.196.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureDevOps.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:e::380/122",
+    "ip_type": "IPv6",
+    "service": "AzureDevOps.CentralUSEUAP",
+    "region": "centraluseuap"
+  }
+]

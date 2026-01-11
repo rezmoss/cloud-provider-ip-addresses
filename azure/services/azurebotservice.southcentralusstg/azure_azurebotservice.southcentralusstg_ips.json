@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "20.44.4.72/30",
+    "ip_type": "IPv4",
+    "service": "AzureBotService.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "20.45.112.64/30",
+    "ip_type": "IPv4",
+    "service": "AzureBotService.SouthCentralUSSTG",
+    "region": "usstagec"
+  }
+]

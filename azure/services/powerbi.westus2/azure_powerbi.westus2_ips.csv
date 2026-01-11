@@ -1,0 +1,14 @@
+ip_address,ip_type,service,region
+20.42.131.32/31,IPv4,PowerBI.WestUS2,westus2
+20.42.131.40/29,IPv4,PowerBI.WestUS2,westus2
+20.42.131.48/29,IPv4,PowerBI.WestUS2,westus2
+20.42.131.128/26,IPv4,PowerBI.WestUS2,westus2
+20.51.14.76/31,IPv4,PowerBI.WestUS2,westus2
+20.83.221.80/30,IPv4,PowerBI.WestUS2,westus2
+20.83.221.84/31,IPv4,PowerBI.WestUS2,westus2
+20.83.221.208/29,IPv4,PowerBI.WestUS2,westus2
+48.221.8.80/28,IPv4,PowerBI.WestUS2,westus2
+48.221.8.96/29,IPv4,PowerBI.WestUS2,westus2
+48.221.8.128/26,IPv4,PowerBI.WestUS2,westus2
+2603:1030:c06:1::5e0/123,IPv6,PowerBI.WestUS2,westus2
+2603:1030:c06:1::600/122,IPv6,PowerBI.WestUS2,westus2

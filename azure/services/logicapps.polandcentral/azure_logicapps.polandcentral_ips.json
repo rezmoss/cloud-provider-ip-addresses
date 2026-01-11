@@ -1,0 +1,128 @@
+[
+  {
+    "ip_address": "20.215.75.240/28",
+    "ip_type": "IPv4",
+    "service": "LogicApps.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "20.215.158.80/28",
+    "ip_type": "IPv4",
+    "service": "LogicApps.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "20.215.158.96/27",
+    "ip_type": "IPv4",
+    "service": "LogicApps.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "74.248.81.46/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "74.248.81.64/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "74.248.81.148/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "74.248.81.204/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "74.248.81.211/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "74.248.81.229/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "74.248.81.234/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "74.248.81.255/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "74.248.82.58/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "74.248.82.188/31",
+    "ip_type": "IPv4",
+    "service": "LogicApps.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "74.248.82.216/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "74.248.82.221/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "74.248.82.253/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "74.248.83.27/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "74.248.83.63/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "74.248.173.160/28",
+    "ip_type": "IPv4",
+    "service": "LogicApps.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "2603:1020:1302:400::3b0/124",
+    "ip_type": "IPv6",
+    "service": "LogicApps.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "2603:1020:1302:400::3c0/123",
+    "ip_type": "IPv6",
+    "service": "LogicApps.PolandCentral",
+    "region": "polandcentral"
+  }
+]

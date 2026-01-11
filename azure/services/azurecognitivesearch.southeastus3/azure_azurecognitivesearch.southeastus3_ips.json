@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "74.7.40.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureCognitiveSearch.SoutheastUS3",
+    "region": "southeastus3"
+  },
+  {
+    "ip_address": "2603:1030:1302::100/121",
+    "ip_type": "IPv6",
+    "service": "AzureCognitiveSearch.SoutheastUS3",
+    "region": "southeastus3"
+  }
+]

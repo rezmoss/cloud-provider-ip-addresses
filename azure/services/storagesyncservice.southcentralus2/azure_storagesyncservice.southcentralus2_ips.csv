@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+48.216.8.56/29,IPv4,StorageSyncService.SouthCentralUS2,southcentralus2
+48.216.36.248/29,IPv4,StorageSyncService.SouthCentralUS2,southcentralus2
+2603:1030:1102:3::6a0/123,IPv6,StorageSyncService.SouthCentralUS2,southcentralus2
+2603:1030:1102:400::120/123,IPv6,StorageSyncService.SouthCentralUS2,southcentralus2

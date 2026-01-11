@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+9.160.43.192/27,IPv4,AzureDigitalTwins.BelgiumCentral,belgiumcentral
+9.160.58.32/29,IPv4,AzureDigitalTwins.BelgiumCentral,belgiumcentral
+2603:1020:1502::580/121,IPv6,AzureDigitalTwins.BelgiumCentral,belgiumcentral

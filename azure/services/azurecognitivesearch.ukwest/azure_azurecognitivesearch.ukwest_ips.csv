@@ -1,0 +1,3 @@
+ip_address,ip_type,service,region
+51.137.161.64/26,IPv4,AzureCognitiveSearch.UKWest,ukwest
+2603:1020:605::180/121,IPv6,AzureCognitiveSearch.UKWest,ukwest

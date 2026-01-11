@@ -1,0 +1,98 @@
+[
+  {
+    "ip_address": "158.23.10.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "158.23.12.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "158.23.100.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "158.23.122.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "158.23.125.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "158.23.194.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "158.23.197.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "158.23.201.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "2603:1030:702::580/125",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "2603:1030:702:3::4c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "2603:1030:702:400::8/125",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "2603:1030:702:400::200/121",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "2603:1030:702:800::8/125",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "2603:1030:702:800::180/121",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "2603:1030:702:c00::8/125",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "2603:1030:702:c00::180/121",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.MexicoCentral",
+    "region": "mexicocentral"
+  }
+]

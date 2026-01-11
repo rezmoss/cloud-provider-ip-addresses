@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "20.215.74.80/28",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "20.215.78.96/29",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "134.112.73.0/26",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "2603:1061:2004:9800::/57",
+    "ip_type": "IPv6",
+    "service": "PowerPlatformPlex.PolandCentral",
+    "region": "polandcentral"
+  }
+]

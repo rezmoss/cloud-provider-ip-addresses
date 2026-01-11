@@ -1,0 +1,10 @@
+ip_address,ip_type,service,region
+20.192.166.192/27,IPv4,AzureCosmosDB.JioIndiaWest,jioindiawest
+20.193.202.64/26,IPv4,AzureCosmosDB.JioIndiaWest,jioindiawest
+20.244.192.0/26,IPv4,AzureCosmosDB.JioIndiaWest,jioindiawest
+20.244.193.128/25,IPv4,AzureCosmosDB.JioIndiaWest,jioindiawest
+40.64.15.0/26,IPv4,AzureCosmosDB.JioIndiaWest,jioindiawest
+2603:1040:d04:1::60/123,IPv6,AzureCosmosDB.JioIndiaWest,jioindiawest
+2603:1040:d04:400::c0/122,IPv6,AzureCosmosDB.JioIndiaWest,jioindiawest
+2603:1040:d04:400::280/122,IPv6,AzureCosmosDB.JioIndiaWest,jioindiawest
+2603:1040:d04:400::3c0/122,IPv6,AzureCosmosDB.JioIndiaWest,jioindiawest

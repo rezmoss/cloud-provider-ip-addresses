@@ -1,0 +1,80 @@
+[
+  {
+    "ip_address": "20.79.104.0/23",
+    "ip_type": "IPv4",
+    "service": "AppService.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "20.79.106.0/24",
+    "ip_type": "IPv4",
+    "service": "AppService.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "20.79.107.0/28",
+    "ip_type": "IPv4",
+    "service": "AppService.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "51.116.145.32/27",
+    "ip_type": "IPv4",
+    "service": "AppService.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "51.116.154.224/27",
+    "ip_type": "IPv4",
+    "service": "AppService.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "51.116.242.160/27",
+    "ip_type": "IPv4",
+    "service": "AppService.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "51.116.250.160/27",
+    "ip_type": "IPv4",
+    "service": "AppService.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "2603:1020:c04:5::5a0/123",
+    "ip_type": "IPv6",
+    "service": "AppService.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "2603:1020:c04:7::/120",
+    "ip_type": "IPv6",
+    "service": "AppService.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "2603:1020:c04:7::300/120",
+    "ip_type": "IPv6",
+    "service": "AppService.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "2603:1020:c04:402::a0/123",
+    "ip_type": "IPv6",
+    "service": "AppService.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "2603:1020:c04:802::a0/123",
+    "ip_type": "IPv6",
+    "service": "AppService.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "2603:1020:c04:c02::a0/123",
+    "ip_type": "IPv6",
+    "service": "AppService.GermanyWestCentral",
+    "region": "germanywc"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "ip_address": "4.199.88.0/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  },
+  {
+    "ip_address": "13.77.50.72/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  },
+  {
+    "ip_address": "48.215.144.0/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  },
+  {
+    "ip_address": "2603:1010:101:402::88/125",
+    "ip_type": "IPv6",
+    "service": "MicrosoftContainerRegistry.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  },
+  {
+    "ip_address": "2603:1010:101:800::/125",
+    "ip_type": "IPv6",
+    "service": "MicrosoftContainerRegistry.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  },
+  {
+    "ip_address": "2603:1010:207:400::/125",
+    "ip_type": "IPv6",
+    "service": "MicrosoftContainerRegistry.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  }
+]

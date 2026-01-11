@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+20.74.195.32/27,IPv4,AzureMachineLearning.UAENorth,uaenorth
+65.52.250.192/28,IPv4,AzureMachineLearning.UAENorth,uaenorth
+2603:1040:904:1::2c0/122,IPv6,AzureMachineLearning.UAENorth,uaenorth

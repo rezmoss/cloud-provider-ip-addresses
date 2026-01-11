@@ -1,0 +1,38 @@
+[
+  {
+    "ip_address": "52.231.23.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "72.155.32.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "72.155.32.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "72.155.33.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "72.155.34.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "72.155.36.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.KoreaCentral",
+    "region": "koreacentral"
+  }
+]

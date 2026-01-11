@@ -1,0 +1,6 @@
+ip_address,ip_type,service,region
+51.12.41.20/30,IPv4,AzurePortal.SwedenCentral,swedencentral
+51.12.41.160/27,IPv4,AzurePortal.SwedenCentral,swedencentral
+51.12.43.128/29,IPv4,AzurePortal.SwedenCentral,swedencentral
+2603:1020:1004::680/121,IPv6,AzurePortal.SwedenCentral,swedencentral
+2603:1020:1004:1::100/121,IPv6,AzurePortal.SwedenCentral,swedencentral

@@ -1,0 +1,6 @@
+ip_address,ip_type,service,region
+20.192.161.192/27,IPv4,AzurePortal.JioIndiaWest,jioindiawest
+20.192.164.180/30,IPv4,AzurePortal.JioIndiaWest,jioindiawest
+20.192.166.160/29,IPv4,AzurePortal.JioIndiaWest,jioindiawest
+2603:1040:d04::680/121,IPv6,AzurePortal.JioIndiaWest,jioindiawest
+2603:1040:d04:1::100/121,IPv6,AzurePortal.JioIndiaWest,jioindiawest

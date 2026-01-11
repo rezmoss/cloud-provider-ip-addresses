@@ -1,0 +1,68 @@
+[
+  {
+    "ip_address": "20.21.37.112/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
+    "ip_address": "20.21.43.244/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
+    "ip_address": "20.21.66.76/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
+    "ip_address": "20.21.74.76/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
+    "ip_address": "20.21.80.0/29",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
+    "ip_address": "2603:1040:1002:1::470/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
+    "ip_address": "2603:1040:1002:5::300/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
+    "ip_address": "2603:1040:1002:5::308/126",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
+    "ip_address": "2603:1040:1002:400::3d8/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
+    "ip_address": "2603:1040:1002:800::2e0/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
+    "ip_address": "2603:1040:1002:c00::2c8/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.QatarCentral",
+    "region": "qatarcentral"
+  }
+]

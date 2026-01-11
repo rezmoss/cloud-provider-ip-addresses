@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "102.37.81.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.SouthAfricaWest",
+    "region": "southafricawest"
+  },
+  {
+    "ip_address": "102.133.27.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.SouthAfricaWest",
+    "region": "southafricawest"
+  },
+  {
+    "ip_address": "102.133.27.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.SouthAfricaWest",
+    "region": "southafricawest"
+  },
+  {
+    "ip_address": "2603:1000:4:402::200/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.SouthAfricaWest",
+    "region": "southafricawest"
+  }
+]

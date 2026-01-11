@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+51.120.182.192/28,IPv4,AzureDataExplorerManagement.NorwayWest,norwayw
+51.120.219.192/28,IPv4,AzureDataExplorerManagement.NorwayWest,norwayw
+2603:1020:f04:1::380/121,IPv6,AzureDataExplorerManagement.NorwayWest,norwayw
+2603:1020:f04:402::150/124,IPv6,AzureDataExplorerManagement.NorwayWest,norwayw

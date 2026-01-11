@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "20.38.139.88/29",
+    "ip_type": "IPv4",
+    "service": "HDInsight.UAENorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "65.52.252.96/29",
+    "ip_type": "IPv4",
+    "service": "HDInsight.UAENorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "2603:1040:904:3::10/124",
+    "ip_type": "IPv6",
+    "service": "HDInsight.UAENorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "2603:1040:904:402::320/124",
+    "ip_type": "IPv6",
+    "service": "HDInsight.UAENorth",
+    "region": "uaenorth"
+  }
+]

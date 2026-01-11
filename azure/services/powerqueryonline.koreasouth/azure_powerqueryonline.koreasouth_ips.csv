@@ -1,0 +1,8 @@
+ip_address,ip_type,service,region
+4.243.42.112/28,IPv4,PowerQueryOnline.KoreaSouth,koreasouth
+4.243.44.192/29,IPv4,PowerQueryOnline.KoreaSouth,koreasouth
+20.200.160.240/29,IPv4,PowerQueryOnline.KoreaSouth,koreasouth
+40.80.168.120/31,IPv4,PowerQueryOnline.KoreaSouth,koreasouth
+52.231.151.216/31,IPv4,PowerQueryOnline.KoreaSouth,koreasouth
+2603:1040:e05:1::620/123,IPv6,PowerQueryOnline.KoreaSouth,koreasouth
+2603:1040:e05:402::2f0/125,IPv6,PowerQueryOnline.KoreaSouth,koreasouth

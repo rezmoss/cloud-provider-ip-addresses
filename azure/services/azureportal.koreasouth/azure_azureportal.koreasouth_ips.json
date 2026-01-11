@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "40.80.169.224/27",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "40.80.172.16/30",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "40.80.173.192/29",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:6::300/121",
+    "ip_type": "IPv6",
+    "service": "AzurePortal.KoreaSouth",
+    "region": "koreasouth"
+  }
+]

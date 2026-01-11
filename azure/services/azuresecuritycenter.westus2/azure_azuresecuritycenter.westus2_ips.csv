@@ -1,0 +1,10 @@
+ip_address,ip_type,service,region
+13.66.145.192/27,IPv4,AzureSecurityCenter.WestUS2,westus2
+20.9.204.128/25,IPv4,AzureSecurityCenter.WestUS2,westus2
+20.9.206.0/23,IPv4,AzureSecurityCenter.WestUS2,westus2
+128.85.92.64/27,IPv4,AzureSecurityCenter.WestUS2,westus2
+128.85.92.128/25,IPv4,AzureSecurityCenter.WestUS2,westus2
+128.85.93.0/24,IPv4,AzureSecurityCenter.WestUS2,westus2
+128.85.94.0/23,IPv4,AzureSecurityCenter.WestUS2,westus2
+172.179.36.0/24,IPv4,AzureSecurityCenter.WestUS2,westus2
+172.179.37.0/26,IPv4,AzureSecurityCenter.WestUS2,westus2

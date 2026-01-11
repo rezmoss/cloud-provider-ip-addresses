@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "51.12.22.0/25",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.SwedenSouth",
+    "region": "swedensouth"
+  },
+  {
+    "ip_address": "51.12.202.8/29",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.SwedenSouth",
+    "region": "swedensouth"
+  },
+  {
+    "ip_address": "51.12.206.0/28",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.SwedenSouth",
+    "region": "swedensouth"
+  },
+  {
+    "ip_address": "2603:1020:1104:400::170/125",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.SwedenSouth",
+    "region": "swedensouth"
+  }
+]

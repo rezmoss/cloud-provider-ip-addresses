@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "51.120.220.0/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.225.160/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04::400/122",
+    "ip_type": "IPv6",
+    "service": "BatchNodeManagement.NorwayWest",
+    "region": "norwayw"
+  }
+]

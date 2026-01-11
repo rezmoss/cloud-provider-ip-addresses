@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+20.192.32.128/26,IPv4,AzureResourceManager.JioIndiaCentral,jioindiacentral
+20.192.52.0/23,IPv4,AzureResourceManager.JioIndiaCentral,jioindiacentral
+2603:1040:1104:1::/120,IPv6,AzureResourceManager.JioIndiaCentral,jioindiacentral
+2603:1040:1104:400::280/122,IPv6,AzureResourceManager.JioIndiaCentral,jioindiacentral

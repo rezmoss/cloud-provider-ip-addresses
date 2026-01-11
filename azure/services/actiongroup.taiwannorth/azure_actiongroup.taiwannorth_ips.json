@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "51.53.40.144/30",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "51.53.106.88/30",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:1::22c/126",
+    "ip_type": "IPv6",
+    "service": "ActionGroup.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:400::180/125",
+    "ip_type": "IPv6",
+    "service": "ActionGroup.TaiwanNorth",
+    "region": "taiwannorth"
+  }
+]

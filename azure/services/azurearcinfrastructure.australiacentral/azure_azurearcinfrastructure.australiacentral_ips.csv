@@ -1,0 +1,9 @@
+ip_address,ip_type,service,region
+20.37.226.52/30,IPv4,AzureArcInfrastructure.AustraliaCentral,australiacentral
+20.37.228.8/30,IPv4,AzureArcInfrastructure.AustraliaCentral,australiacentral
+20.53.0.34/31,IPv4,AzureArcInfrastructure.AustraliaCentral,australiacentral
+20.53.0.112/30,IPv4,AzureArcInfrastructure.AustraliaCentral,australiacentral
+20.53.0.120/29,IPv4,AzureArcInfrastructure.AustraliaCentral,australiacentral
+20.213.229.2/31,IPv4,AzureArcInfrastructure.AustraliaCentral,australiacentral
+20.213.229.8/29,IPv4,AzureArcInfrastructure.AustraliaCentral,australiacentral
+2603:1010:304:5::420/124,IPv6,AzureArcInfrastructure.AustraliaCentral,australiacentral

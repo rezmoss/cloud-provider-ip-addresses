@@ -1,0 +1,32 @@
+[
+  {
+    "ip_address": "13.77.50.32/27",
+    "ip_type": "IPv4",
+    "service": "EventHub.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  },
+  {
+    "ip_address": "20.92.2.0/24",
+    "ip_type": "IPv4",
+    "service": "EventHub.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  },
+  {
+    "ip_address": "2603:1010:101::240/122",
+    "ip_type": "IPv6",
+    "service": "EventHub.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  },
+  {
+    "ip_address": "2603:1010:101:2::600/119",
+    "ip_type": "IPv6",
+    "service": "EventHub.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  },
+  {
+    "ip_address": "2603:1010:101:402::1c0/123",
+    "ip_type": "IPv6",
+    "service": "EventHub.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  }
+]

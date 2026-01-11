@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+4.251.247.32/27,IPv4,SCCservice.FranceSouth,southfrance
+51.138.160.8/29,IPv4,SCCservice.FranceSouth,southfrance
+2603:1020:905:7::320/123,IPv6,SCCservice.FranceSouth,southfrance

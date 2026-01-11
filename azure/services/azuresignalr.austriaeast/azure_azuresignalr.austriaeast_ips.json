@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "68.210.182.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureSignalR.AustriaEast",
+    "region": "austriaeast"
+  },
+  {
+    "ip_address": "2603:1020:104:7::40/122",
+    "ip_type": "IPv6",
+    "service": "AzureSignalR.AustriaEast",
+    "region": "austriaeast"
+  }
+]

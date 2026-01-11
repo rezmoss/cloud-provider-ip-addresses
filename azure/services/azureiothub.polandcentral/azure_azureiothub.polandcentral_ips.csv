@@ -1,0 +1,7 @@
+ip_address,ip_type,service,region
+20.215.19.160/27,IPv4,AzureIoTHub.PolandCentral,polandcentral
+20.215.27.160/27,IPv4,AzureIoTHub.PolandCentral,polandcentral
+20.215.156.96/27,IPv4,AzureIoTHub.PolandCentral,polandcentral
+2603:1020:1302:400::220/123,IPv6,AzureIoTHub.PolandCentral,polandcentral
+2603:1020:1302:800::e0/123,IPv6,AzureIoTHub.PolandCentral,polandcentral
+2603:1020:1302:c00::e0/123,IPv6,AzureIoTHub.PolandCentral,polandcentral

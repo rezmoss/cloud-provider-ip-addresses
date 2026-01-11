@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "9.160.43.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.58.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1020:1502::1e0/123",
+    "ip_type": "IPv6",
+    "service": "AzureCosmosDB.BelgiumCentral",
+    "region": "belgiumcentral"
+  }
+]

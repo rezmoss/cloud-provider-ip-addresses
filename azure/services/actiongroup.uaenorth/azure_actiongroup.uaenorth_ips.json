@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "172.164.208.220/30",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.UAENorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "2603:1040:904:1::114/126",
+    "ip_type": "IPv6",
+    "service": "ActionGroup.UAENorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "2603:1040:904:402::178/125",
+    "ip_type": "IPv6",
+    "service": "ActionGroup.UAENorth",
+    "region": "uaenorth"
+  }
+]

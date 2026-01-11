@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "4.232.100.224/27",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.ItalyNorth",
+    "region": "italynorth"
+  },
+  {
+    "ip_address": "2603:1020:1204:2::300/121",
+    "ip_type": "IPv6",
+    "service": "AzurePortal.ItalyNorth",
+    "region": "italynorth"
+  }
+]

@@ -1,0 +1,7 @@
+ip_address,ip_type,service,region
+51.116.52.0/23,IPv4,AzureResourceManager.GermanyNorth,germanyn
+51.116.60.32/28,IPv4,AzureResourceManager.GermanyNorth,germanyn
+51.116.62.0/23,IPv4,AzureResourceManager.GermanyNorth,germanyn
+2603:1020:d04::6c0/122,IPv6,AzureResourceManager.GermanyNorth,germanyn
+2603:1020:d04:5::200/120,IPv6,AzureResourceManager.GermanyNorth,germanyn
+2603:1020:d04:402::280/122,IPv6,AzureResourceManager.GermanyNorth,germanyn

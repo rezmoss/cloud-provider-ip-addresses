@@ -1,0 +1,6 @@
+ip_address,ip_type,service,region
+57.151.220.224/31,IPv4,PowerBI.SoutheastUS,southeastus
+57.151.220.228/30,IPv4,PowerBI.SoutheastUS,southeastus
+57.151.220.232/29,IPv4,PowerBI.SoutheastUS,southeastus
+2603:1030:902:2::400/122,IPv6,PowerBI.SoutheastUS,southeastus
+2603:1030:902:2::440/123,IPv6,PowerBI.SoutheastUS,southeastus

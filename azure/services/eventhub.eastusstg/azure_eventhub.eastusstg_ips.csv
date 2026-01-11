@@ -1,0 +1,10 @@
+ip_address,ip_type,service,region
+20.49.84.192/26,IPv4,EventHub.EastUSSTG,usstagee
+20.99.15.0/24,IPv4,EventHub.EastUSSTG,usstagee
+40.67.58.128/26,IPv4,EventHub.EastUSSTG,usstagee
+40.67.72.64/26,IPv4,EventHub.EastUSSTG,usstagee
+2603:1030:104:1::240/122,IPv6,EventHub.EastUSSTG,usstagee
+2603:1030:104:2::300/120,IPv6,EventHub.EastUSSTG,usstagee
+2603:1030:104:402::1c0/123,IPv6,EventHub.EastUSSTG,usstagee
+2603:1030:104:402::660/123,IPv6,EventHub.EastUSSTG,usstagee
+2603:1030:104:802::180/123,IPv6,EventHub.EastUSSTG,usstagee

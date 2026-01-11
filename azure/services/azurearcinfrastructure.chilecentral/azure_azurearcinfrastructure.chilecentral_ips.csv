@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+68.211.13.16/30,IPv4,AzureArcInfrastructure.ChileCentral,chilec
+68.211.30.6/32,IPv4,AzureArcInfrastructure.ChileCentral,chilec
+68.211.152.56/32,IPv4,AzureArcInfrastructure.ChileCentral,chilec
+2603:1050:301:2::200/124,IPv6,AzureArcInfrastructure.ChileCentral,chilec

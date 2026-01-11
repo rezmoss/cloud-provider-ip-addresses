@@ -1,0 +1,11 @@
+ip_address,ip_type,service,region
+20.44.3.48/28,IPv4,AzureMonitor.SouthCentralUSSTG,usstagec
+23.100.208.80/28,IPv4,AzureMonitor.SouthCentralUSSTG,usstagec
+23.100.218.160/27,IPv4,AzureMonitor.SouthCentralUSSTG,usstagec
+23.100.223.32/27,IPv4,AzureMonitor.SouthCentralUSSTG,usstagec
+23.100.223.64/26,IPv4,AzureMonitor.SouthCentralUSSTG,usstagec
+2603:1030:302:1::/122,IPv6,AzureMonitor.SouthCentralUSSTG,usstagec
+2603:1030:302:1::c0/123,IPv6,AzureMonitor.SouthCentralUSSTG,usstagec
+2603:1030:302:1::100/122,IPv6,AzureMonitor.SouthCentralUSSTG,usstagec
+2603:1030:302:402::80/123,IPv6,AzureMonitor.SouthCentralUSSTG,usstagec
+2603:1030:302:402::100/121,IPv6,AzureMonitor.SouthCentralUSSTG,usstagec

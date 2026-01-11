@@ -1,0 +1,3 @@
+ip_address,ip_type,service,region
+20.42.225.192/26,IPv4,AzureCognitiveSearch.AustraliaSoutheast,australiasoutheast
+2603:1010:101::180/121,IPv6,AzureCognitiveSearch.AustraliaSoutheast,australiasoutheast

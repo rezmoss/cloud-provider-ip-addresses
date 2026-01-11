@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "20.51.53.8/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "40.67.121.196/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.150.157.172/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.WestCentralUS",
+    "region": "westcentralus"
+  }
+]

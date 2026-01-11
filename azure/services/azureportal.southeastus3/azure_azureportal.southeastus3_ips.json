@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "74.7.53.72/30",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.SoutheastUS3",
+    "region": "southeastus3"
+  },
+  {
+    "ip_address": "74.7.56.96/27",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.SoutheastUS3",
+    "region": "southeastus3"
+  },
+  {
+    "ip_address": "2603:1030:1302:2::400/121",
+    "ip_type": "IPv6",
+    "service": "AzurePortal.SoutheastUS3",
+    "region": "southeastus3"
+  }
+]

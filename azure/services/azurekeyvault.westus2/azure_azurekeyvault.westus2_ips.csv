@@ -1,0 +1,12 @@
+ip_address,ip_type,service,region
+13.66.138.88/30,IPv4,AzureKeyVault.WestUS2,westus2
+20.51.12.248/29,IPv4,AzureKeyVault.WestUS2,westus2
+20.51.13.64/30,IPv4,AzureKeyVault.WestUS2,westus2
+20.83.221.96/28,IPv4,AzureKeyVault.WestUS2,westus2
+40.78.245.200/30,IPv4,AzureKeyVault.WestUS2,westus2
+40.78.253.68/30,IPv4,AzureKeyVault.WestUS2,westus2
+2603:1030:c06:1::100/123,IPv6,AzureKeyVault.WestUS2,westus2
+2603:1030:c06:2::220/125,IPv6,AzureKeyVault.WestUS2,westus2
+2603:1030:c06:400::880/125,IPv6,AzureKeyVault.WestUS2,westus2
+2603:1030:c06:802::80/125,IPv6,AzureKeyVault.WestUS2,westus2
+2603:1030:c06:c02::80/125,IPv6,AzureKeyVault.WestUS2,westus2

@@ -1,0 +1,6 @@
+ip_address,ip_type,service,region
+20.36.36.33/32,IPv4,HDInsight.AustraliaCentral,australiacentral
+20.36.36.196/32,IPv4,HDInsight.AustraliaCentral,australiacentral
+20.37.228.0/29,IPv4,HDInsight.AustraliaCentral,australiacentral
+2603:1010:304:5::120/124,IPv6,HDInsight.AustraliaCentral,australiacentral
+2603:1010:304:402::320/124,IPv6,HDInsight.AustraliaCentral,australiacentral

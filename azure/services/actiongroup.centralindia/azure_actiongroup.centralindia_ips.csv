@@ -1,0 +1,8 @@
+ip_address,ip_type,service,region
+20.43.121.124/30,IPv4,ActionGroup.CentralIndia,centralindia
+20.204.192.216/31,IPv4,ActionGroup.CentralIndia,centralindia
+20.204.199.124/30,IPv4,ActionGroup.CentralIndia,centralindia
+20.244.66.175/32,IPv4,ActionGroup.CentralIndia,centralindia
+20.244.67.158/32,IPv4,ActionGroup.CentralIndia,centralindia
+2603:1040:a06:1::128/126,IPv6,ActionGroup.CentralIndia,centralindia
+2603:1040:a06:402::178/125,IPv6,ActionGroup.CentralIndia,centralindia

@@ -1,0 +1,11 @@
+ip_address,ip_type,service,region
+20.208.19.64/26,IPv4,EventHub.SwitzerlandNorth,switzerlandn
+51.103.203.64/26,IPv4,EventHub.SwitzerlandNorth,switzerlandn
+51.107.58.128/27,IPv4,EventHub.SwitzerlandNorth,switzerlandn
+51.107.129.0/26,IPv4,EventHub.SwitzerlandNorth,switzerlandn
+51.107.245.0/24,IPv4,EventHub.SwitzerlandNorth,switzerlandn
+2603:1020:a04:1::240/122,IPv6,EventHub.SwitzerlandNorth,switzerlandn
+2603:1020:a04:2::200/120,IPv6,EventHub.SwitzerlandNorth,switzerlandn
+2603:1020:a04:402::1c0/123,IPv6,EventHub.SwitzerlandNorth,switzerlandn
+2603:1020:a04:802::160/123,IPv6,EventHub.SwitzerlandNorth,switzerlandn
+2603:1020:a04:c02::160/123,IPv6,EventHub.SwitzerlandNorth,switzerlandn

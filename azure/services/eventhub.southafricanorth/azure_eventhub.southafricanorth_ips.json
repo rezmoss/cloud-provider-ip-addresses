@@ -1,0 +1,74 @@
+[
+  {
+    "ip_address": "102.37.72.64/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "102.37.165.0/24",
+    "ip_type": "IPv4",
+    "service": "EventHub.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "102.133.122.64/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "102.133.127.0/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "102.133.154.128/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "102.133.250.64/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "102.133.254.0/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "2603:1000:104:1::240/122",
+    "ip_type": "IPv6",
+    "service": "EventHub.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "2603:1000:104:2::500/120",
+    "ip_type": "IPv6",
+    "service": "EventHub.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "2603:1000:104:402::1c0/123",
+    "ip_type": "IPv6",
+    "service": "EventHub.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "2603:1000:104:802::160/123",
+    "ip_type": "IPv6",
+    "service": "EventHub.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "2603:1000:104:c02::160/123",
+    "ip_type": "IPv6",
+    "service": "EventHub.SouthAfricaNorth",
+    "region": "southafricanorth"
+  }
+]

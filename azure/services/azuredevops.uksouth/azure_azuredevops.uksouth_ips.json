@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "51.104.26.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureDevOps.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "2603:1020:705:13::600/120",
+    "ip_type": "IPv6",
+    "service": "AzureDevOps.UKSouth",
+    "region": "uksouth"
+  }
+]

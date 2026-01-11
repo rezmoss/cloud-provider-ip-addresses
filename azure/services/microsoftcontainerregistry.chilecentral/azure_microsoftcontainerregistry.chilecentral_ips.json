@@ -1,0 +1,38 @@
+[
+  {
+    "ip_address": "68.211.152.0/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry.ChileCentral",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "68.211.168.0/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry.ChileCentral",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "68.211.184.0/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry.ChileCentral",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "2603:1050:301:400::/125",
+    "ip_type": "IPv6",
+    "service": "MicrosoftContainerRegistry.ChileCentral",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "2603:1050:301:800::/125",
+    "ip_type": "IPv6",
+    "service": "MicrosoftContainerRegistry.ChileCentral",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "2603:1050:301:c00::/125",
+    "ip_type": "IPv6",
+    "service": "MicrosoftContainerRegistry.ChileCentral",
+    "region": "chilec"
+  }
+]

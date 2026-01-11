@@ -1,0 +1,38 @@
+[
+  {
+    "ip_address": "40.66.57.57/32",
+    "ip_type": "IPv4",
+    "service": "AzureDataExplorerManagement.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "40.66.57.91/32",
+    "ip_type": "IPv4",
+    "service": "AzureDataExplorerManagement.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "40.79.131.224/28",
+    "ip_type": "IPv4",
+    "service": "AzureDataExplorerManagement.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "98.66.147.240/28",
+    "ip_type": "IPv4",
+    "service": "AzureDataExplorerManagement.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "2603:1020:805::600/121",
+    "ip_type": "IPv6",
+    "service": "AzureDataExplorerManagement.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "2603:1020:805:402::150/124",
+    "ip_type": "IPv6",
+    "service": "AzureDataExplorerManagement.FranceCentral",
+    "region": "centralfrance"
+  }
+]

@@ -1,0 +1,10 @@
+ip_address,ip_type,service,region
+20.43.44.160/27,IPv4,AzureIoTHub.FranceCentral,centralfrance
+20.43.45.0/25,IPv4,AzureIoTHub.FranceCentral,centralfrance
+20.188.39.126/32,IPv4,AzureIoTHub.FranceCentral,centralfrance
+40.79.132.128/27,IPv4,AzureIoTHub.FranceCentral,centralfrance
+40.79.139.32/27,IPv4,AzureIoTHub.FranceCentral,centralfrance
+40.79.148.0/27,IPv4,AzureIoTHub.FranceCentral,centralfrance
+2603:1020:805:402::300/123,IPv6,AzureIoTHub.FranceCentral,centralfrance
+2603:1020:805:802::240/123,IPv6,AzureIoTHub.FranceCentral,centralfrance
+2603:1020:805:c02::240/123,IPv6,AzureIoTHub.FranceCentral,centralfrance

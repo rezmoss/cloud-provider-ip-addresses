@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "70.153.66.0/26",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.IndonesiaCentral",
+    "region": "indonesiacentral"
+  },
+  {
+    "ip_address": "2603:1061:2004:c000::/57",
+    "ip_type": "IPv6",
+    "service": "PowerPlatformPlex.IndonesiaCentral",
+    "region": "indonesiacentral"
+  }
+]

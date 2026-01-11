@@ -1,0 +1,59 @@
+-- SQL script to create table `azure_azuremonitor.canadacentral_ips` and insert IP addresses
+
+CREATE TABLE IF NOT EXISTS `azure_azuremonitor.canadacentral_ips` (
+  `ip_address` VARCHAR(45) NOT NULL,
+  `ip_type` VARCHAR(10) NOT NULL,
+  PRIMARY KEY (`ip_address`)
+);
+
+INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.172.75.0/24', 'IPv4');
+INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.172.83.112/28', 'IPv4');
+INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.172.95.192/28', 'IPv4');
+INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.174.145.0/27', 'IPv4');
+INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.174.145.64/26', 'IPv4');
+INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('13.71.172.128/28', 'IPv4');
+INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('13.71.172.248/29', 'IPv4');
+INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('13.71.175.128/32', 'IPv4');
+INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('13.71.175.216/29', 'IPv4');
+INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('13.71.177.32/27', 'IPv4');
+INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('13.71.187.91/32', 'IPv4');
+INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('13.71.191.47/32', 'IPv4');
+INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('13.88.230.43/32', 'IPv4');
+INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('13.88.247.208/32', 'IPv4');
+INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('13.88.255.115/32', 'IPv4');
+INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('20.38.146.152/29', 'IPv4');
+INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('20.38.147.144/29', 'IPv4');
+INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('20.38.149.200/29', 'IPv4');
+INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('20.48.193.224/27', 'IPv4');
+INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('20.220.1.64/28', 'IPv4');
+INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('40.85.201.168/32', 'IPv4');
+INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('40.85.218.175/32', 'IPv4');
+INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('40.85.248.43/32', 'IPv4');
+INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('52.138.31.112/32', 'IPv4');
+INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('52.138.31.127/32', 'IPv4');
+INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('52.139.8.32/32', 'IPv4');
+INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('52.228.80.68/31', 'IPv4');
+INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('52.228.81.162/31', 'IPv4');
+INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('52.228.85.192/28', 'IPv4');
+INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('52.228.86.152/29', 'IPv4');
+INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('52.228.86.160/28', 'IPv4');
+INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('52.228.86.176/32', 'IPv4');
+INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('52.237.34.41/32', 'IPv4');
+INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('52.246.154.152/29', 'IPv4');
+INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('52.246.155.144/29', 'IPv4');
+INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('52.246.157.16/28', 'IPv4');
+INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('52.246.158.160/29', 'IPv4');
+INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f05::60/123', 'IPv6');
+INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f05::1c0/122', 'IPv6');
+INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f05::300/123', 'IPv6');
+INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f05::360/123', 'IPv6');
+INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f05::500/121', 'IPv6');
+INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f05:1::280/122', 'IPv6');
+INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f05:4::5a0/123', 'IPv6');
+INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f05:4::5c0/122', 'IPv6');
+INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f05:c::40/124', 'IPv6');
+INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f05:d::100/120', 'IPv6');
+INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f05:d::3e0/123', 'IPv6');
+INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f05:402::500/121', 'IPv6');
+INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f05:802::480/121', 'IPv6');
+INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f05:c02::480/121', 'IPv6');

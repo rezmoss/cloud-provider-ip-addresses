@@ -1,0 +1,74 @@
+[
+  {
+    "ip_address": "20.42.7.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "52.149.248.0/28",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "52.149.248.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "52.149.248.96/28",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "52.154.68.16/28",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "52.154.68.32/28",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "52.170.171.192/28",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "52.170.171.240/28",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "52.186.36.16/28",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "57.152.109.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "57.152.110.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "2603:1030:210:1::380/121",
+    "ip_type": "IPv6",
+    "service": "AzureEventGrid.EastUS",
+    "region": "eastus"
+  }
+]

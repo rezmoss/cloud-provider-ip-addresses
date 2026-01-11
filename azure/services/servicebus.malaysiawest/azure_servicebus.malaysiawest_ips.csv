@@ -1,0 +1,9 @@
+ip_address,ip_type,service,region
+20.17.118.0/25,IPv4,ServiceBus.MalaysiaWest,malaysiawest
+20.17.130.16/29,IPv4,ServiceBus.MalaysiaWest,malaysiawest
+20.17.130.32/28,IPv4,ServiceBus.MalaysiaWest,malaysiawest
+20.17.168.16/29,IPv4,ServiceBus.MalaysiaWest,malaysiawest
+20.17.168.32/28,IPv4,ServiceBus.MalaysiaWest,malaysiawest
+20.17.184.16/29,IPv4,ServiceBus.MalaysiaWest,malaysiawest
+20.17.184.32/28,IPv4,ServiceBus.MalaysiaWest,malaysiawest
+2603:1040:1602::780/121,IPv6,ServiceBus.MalaysiaWest,malaysiawest

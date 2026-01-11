@@ -1,0 +1,50 @@
+[
+  {
+    "ip_address": "68.210.156.32/28",
+    "ip_type": "IPv4",
+    "service": "LogicApps.AustriaEast",
+    "region": "austriaeast"
+  },
+  {
+    "ip_address": "68.210.156.64/27",
+    "ip_type": "IPv4",
+    "service": "LogicApps.AustriaEast",
+    "region": "austriaeast"
+  },
+  {
+    "ip_address": "68.210.183.160/28",
+    "ip_type": "IPv4",
+    "service": "LogicApps.AustriaEast",
+    "region": "austriaeast"
+  },
+  {
+    "ip_address": "68.210.183.192/27",
+    "ip_type": "IPv4",
+    "service": "LogicApps.AustriaEast",
+    "region": "austriaeast"
+  },
+  {
+    "ip_address": "2603:1020:104:6::300/122",
+    "ip_type": "IPv6",
+    "service": "LogicApps.AustriaEast",
+    "region": "austriaeast"
+  },
+  {
+    "ip_address": "2603:1020:104:7::1c0/122",
+    "ip_type": "IPv6",
+    "service": "LogicApps.AustriaEast",
+    "region": "austriaeast"
+  },
+  {
+    "ip_address": "2603:1020:104:800::330/124",
+    "ip_type": "IPv6",
+    "service": "LogicApps.AustriaEast",
+    "region": "austriaeast"
+  },
+  {
+    "ip_address": "2603:1020:104:800::340/123",
+    "ip_type": "IPv6",
+    "service": "LogicApps.AustriaEast",
+    "region": "austriaeast"
+  }
+]

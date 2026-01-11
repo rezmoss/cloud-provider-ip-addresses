@@ -1,0 +1,8 @@
+ip_address,ip_type,service,region
+20.49.83.128/27,IPv4,AzureIoTHub.EastUSSTG,usstagee
+40.67.51.0/25,IPv4,AzureIoTHub.EastUSSTG,usstagee
+40.67.51.128/27,IPv4,AzureIoTHub.EastUSSTG,usstagee
+40.67.60.128/27,IPv4,AzureIoTHub.EastUSSTG,usstagee
+2603:1030:104:402::300/123,IPv6,AzureIoTHub.EastUSSTG,usstagee
+2603:1030:104:402::740/123,IPv6,AzureIoTHub.EastUSSTG,usstagee
+2603:1030:104:802::1e0/123,IPv6,AzureIoTHub.EastUSSTG,usstagee

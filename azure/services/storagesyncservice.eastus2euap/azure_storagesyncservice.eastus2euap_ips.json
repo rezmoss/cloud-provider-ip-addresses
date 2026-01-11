@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "20.39.11.96/29",
+    "ip_type": "IPv4",
+    "service": "StorageSyncService.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "2603:1030:40b:1::300/123",
+    "ip_type": "IPv6",
+    "service": "StorageSyncService.EastUS2EUAP",
+    "region": "eastus2euap"
+  }
+]

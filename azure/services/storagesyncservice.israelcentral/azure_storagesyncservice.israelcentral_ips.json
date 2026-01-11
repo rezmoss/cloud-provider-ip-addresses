@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "20.217.58.120/29",
+    "ip_type": "IPv4",
+    "service": "StorageSyncService.IsraelCentral",
+    "region": "israelcentral"
+  },
+  {
+    "ip_address": "51.4.37.240/29",
+    "ip_type": "IPv4",
+    "service": "StorageSyncService.IsraelCentral",
+    "region": "israelcentral"
+  },
+  {
+    "ip_address": "2603:1040:1402:400::240/123",
+    "ip_type": "IPv6",
+    "service": "StorageSyncService.IsraelCentral",
+    "region": "israelcentral"
+  }
+]

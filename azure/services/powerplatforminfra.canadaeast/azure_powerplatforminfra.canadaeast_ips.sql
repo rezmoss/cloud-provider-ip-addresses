@@ -1,0 +1,56 @@
+-- SQL script to create table `azure_powerplatforminfra.canadaeast_ips` and insert IP addresses
+
+CREATE TABLE IF NOT EXISTS `azure_powerplatforminfra.canadaeast_ips` (
+  `ip_address` VARCHAR(45) NOT NULL,
+  `ip_type` VARCHAR(10) NOT NULL,
+  PRIMARY KEY (`ip_address`)
+);
+
+INSERT INTO `azure_powerplatforminfra.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('4.248.98.200/29', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('4.248.99.192/26', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('4.248.100.0/23', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('4.248.102.0/25', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('20.175.7.40/29', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('20.175.7.96/27', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('40.80.240.185/32', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('40.80.240.191/32', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('40.80.240.214/32', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('40.80.241.43/32', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('40.80.241.67/32', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('40.80.248.79/32', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('40.80.249.52/32', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('40.80.249.210/32', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('40.80.249.219/32', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('40.86.203.16/32', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('40.86.247.171/32', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('40.86.254.125/32', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('40.89.20.232/29', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('40.89.20.240/28', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('40.89.21.128/25', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('40.89.22.0/26', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('40.89.22.64/28', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('40.89.22.80/30', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('40.89.22.96/27', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('40.89.22.128/26', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('40.89.22.192/27', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('40.89.23.240/29', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('52.139.80.229/32', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('52.139.83.184/32', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('52.139.86.52/32', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('52.139.111.136/29', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('52.139.111.160/27', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('52.139.111.192/26', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('52.155.25.132/32', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('52.155.25.145/32', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('52.155.25.157/32', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('52.229.79.225/32', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('52.229.88.158/32', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('52.229.119.249/32', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('52.235.17.70/32', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('52.235.57.68/30', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('52.235.57.140/32', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('52.235.57.203/32', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('52.235.57.252/30', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('52.235.63.0/32', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('52.242.47.120/29', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2002:6100::/57', 'IPv6');

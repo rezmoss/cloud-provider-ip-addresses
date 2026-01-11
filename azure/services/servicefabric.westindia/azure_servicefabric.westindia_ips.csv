@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+104.211.146.240/29,IPv4,ServiceFabric.WestIndia,westindia
+104.211.164.163/32,IPv4,ServiceFabric.WestIndia,westindia
+2603:1040:806:402::98/125,IPv6,ServiceFabric.WestIndia,westindia

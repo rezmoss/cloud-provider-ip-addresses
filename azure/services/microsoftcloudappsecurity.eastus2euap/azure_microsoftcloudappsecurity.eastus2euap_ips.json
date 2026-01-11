@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "172.173.47.82/31",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "172.173.47.88/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.EastUS2EUAP",
+    "region": "eastus2euap"
+  }
+]

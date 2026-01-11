@@ -1,0 +1,38 @@
+[
+  {
+    "ip_address": "51.107.154.128/27",
+    "ip_type": "IPv4",
+    "service": "EventHub.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "51.107.193.192/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "51.107.253.0/24",
+    "ip_type": "IPv4",
+    "service": "EventHub.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "2603:1020:b04::240/122",
+    "ip_type": "IPv6",
+    "service": "EventHub.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "2603:1020:b04:2::/120",
+    "ip_type": "IPv6",
+    "service": "EventHub.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "2603:1020:b04:402::1c0/123",
+    "ip_type": "IPv6",
+    "service": "EventHub.SwitzerlandWest",
+    "region": "switzerlandw"
+  }
+]

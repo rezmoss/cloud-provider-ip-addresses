@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "20.192.166.176/29",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "20.192.167.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "2603:1040:d04:1::540/122",
+    "ip_type": "IPv6",
+    "service": "AzureDigitalTwins.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "2603:1040:d04:2::80/121",
+    "ip_type": "IPv6",
+    "service": "AzureDigitalTwins.JioIndiaWest",
+    "region": "jioindiawest"
+  }
+]

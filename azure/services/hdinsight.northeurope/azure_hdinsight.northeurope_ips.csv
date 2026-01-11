@@ -1,0 +1,6 @@
+ip_address,ip_type,service,region
+13.69.229.72/29,IPv4,HDInsight.NorthEurope,northeurope
+13.74.153.132/32,IPv4,HDInsight.NorthEurope,northeurope
+52.146.130.184/29,IPv4,HDInsight.NorthEurope,northeurope
+52.164.210.96/32,IPv4,HDInsight.NorthEurope,northeurope
+2603:1020:5:402::320/124,IPv6,HDInsight.NorthEurope,northeurope

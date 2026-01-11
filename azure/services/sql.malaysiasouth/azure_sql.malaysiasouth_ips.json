@@ -1,0 +1,44 @@
+[
+  {
+    "ip_address": "20.17.59.128/27",
+    "ip_type": "IPv4",
+    "service": "Sql.MalaysiaSouth",
+    "region": "malaysiasouth"
+  },
+  {
+    "ip_address": "20.17.59.192/26",
+    "ip_type": "IPv4",
+    "service": "Sql.MalaysiaSouth",
+    "region": "malaysiasouth"
+  },
+  {
+    "ip_address": "20.17.64.64/27",
+    "ip_type": "IPv4",
+    "service": "Sql.MalaysiaSouth",
+    "region": "malaysiasouth"
+  },
+  {
+    "ip_address": "20.17.65.64/27",
+    "ip_type": "IPv4",
+    "service": "Sql.MalaysiaSouth",
+    "region": "malaysiasouth"
+  },
+  {
+    "ip_address": "20.17.67.248/29",
+    "ip_type": "IPv4",
+    "service": "Sql.MalaysiaSouth",
+    "region": "malaysiasouth"
+  },
+  {
+    "ip_address": "2603:1040:1503:2::300/123",
+    "ip_type": "IPv6",
+    "service": "Sql.MalaysiaSouth",
+    "region": "malaysiasouth"
+  },
+  {
+    "ip_address": "2603:1040:1503:2::380/121",
+    "ip_type": "IPv6",
+    "service": "Sql.MalaysiaSouth",
+    "region": "malaysiasouth"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "20.99.8.80/28",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.EastUSSTG",
+    "region": "usstagee"
+  },
+  {
+    "ip_address": "40.67.58.224/28",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.EastUSSTG",
+    "region": "usstagee"
+  },
+  {
+    "ip_address": "2603:1030:104::780/124",
+    "ip_type": "IPv6",
+    "service": "ApiManagement.EastUSSTG",
+    "region": "usstagee"
+  },
+  {
+    "ip_address": "2603:1030:104:402::140/124",
+    "ip_type": "IPv6",
+    "service": "ApiManagement.EastUSSTG",
+    "region": "usstagee"
+  }
+]

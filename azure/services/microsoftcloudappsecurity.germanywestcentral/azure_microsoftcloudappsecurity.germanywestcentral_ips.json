@@ -1,0 +1,50 @@
+[
+  {
+    "ip_address": "20.52.42.71/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "20.52.42.88/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "20.52.42.103/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "20.52.48.3/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "20.170.36.122/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "20.170.36.209/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "20.218.181.177/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "20.218.182.135/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.GermanyWestCentral",
+    "region": "germanywc"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "ip_address": "13.75.36.96/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.189.109.0/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "23.99.98.61/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "23.99.107.229/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "168.63.133.23/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "168.63.208.148/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "207.46.149.75/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "2603:1040:207::400/122",
+    "ip_type": "IPv6",
+    "service": "BatchNodeManagement.EastAsia",
+    "region": "eastasia"
+  }
+]

@@ -1,0 +1,7 @@
+ip_address,ip_type,service,region
+51.107.154.128/27,IPv4,EventHub.SwitzerlandWest,switzerlandw
+51.107.193.192/26,IPv4,EventHub.SwitzerlandWest,switzerlandw
+51.107.253.0/24,IPv4,EventHub.SwitzerlandWest,switzerlandw
+2603:1020:b04::240/122,IPv6,EventHub.SwitzerlandWest,switzerlandw
+2603:1020:b04:2::/120,IPv6,EventHub.SwitzerlandWest,switzerlandw
+2603:1020:b04:402::1c0/123,IPv6,EventHub.SwitzerlandWest,switzerlandw

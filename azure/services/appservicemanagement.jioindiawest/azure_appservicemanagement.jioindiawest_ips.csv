@@ -1,0 +1,8 @@
+ip_address,ip_type,service,region
+20.193.202.192/26,IPv4,AppServiceManagement.JioIndiaWest,jioindiawest
+40.64.9.160/28,IPv4,AppServiceManagement.JioIndiaWest,jioindiawest
+2603:1040:d04:3::40/123,IPv6,AppServiceManagement.JioIndiaWest,jioindiawest
+2603:1040:d04:400::440/122,IPv6,AppServiceManagement.JioIndiaWest,jioindiawest
+2603:1040:d04:800::80/122,IPv6,AppServiceManagement.JioIndiaWest,jioindiawest
+2603:1040:d04:800::200/122,IPv6,AppServiceManagement.JioIndiaWest,jioindiawest
+2603:1040:d04:800::380/122,IPv6,AppServiceManagement.JioIndiaWest,jioindiawest

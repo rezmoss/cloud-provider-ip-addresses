@@ -1,0 +1,3 @@
+ip_address,ip_type,service,region
+40.64.146.96/28,IPv4,WindowsVirtualDesktop.NorthCentralUS,northcentralus
+2603:1061:2010:11::/117,IPv6,WindowsVirtualDesktop.NorthCentralUS,northcentralus

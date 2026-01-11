@@ -1,0 +1,9 @@
+ip_address,ip_type,service,region
+172.196.59.232/29,IPv4,PowerBI.NewZealandNorth,newzealandnorth
+172.204.165.78/31,IPv4,PowerBI.NewZealandNorth,newzealandnorth
+172.204.165.120/30,IPv4,PowerBI.NewZealandNorth,newzealandnorth
+172.204.166.64/29,IPv4,PowerBI.NewZealandNorth,newzealandnorth
+172.204.175.176/28,IPv4,PowerBI.NewZealandNorth,newzealandnorth
+172.204.224.64/28,IPv4,PowerBI.NewZealandNorth,newzealandnorth
+2603:1010:502:2::440/122,IPv6,PowerBI.NewZealandNorth,newzealandnorth
+2603:1010:502:2::480/123,IPv6,PowerBI.NewZealandNorth,newzealandnorth

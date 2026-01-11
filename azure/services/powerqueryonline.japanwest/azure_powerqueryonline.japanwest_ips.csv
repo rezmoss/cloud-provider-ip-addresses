@@ -1,0 +1,11 @@
+ip_address,ip_type,service,region
+4.190.142.232/29,IPv4,PowerQueryOnline.JapanWest,japanwest
+4.190.143.192/28,IPv4,PowerQueryOnline.JapanWest,japanwest
+20.18.181.180/31,IPv4,PowerQueryOnline.JapanWest,japanwest
+20.189.198.128/29,IPv4,PowerQueryOnline.JapanWest,japanwest
+40.74.102.30/31,IPv4,PowerQueryOnline.JapanWest,japanwest
+40.80.56.120/31,IPv4,PowerQueryOnline.JapanWest,japanwest
+2603:1040:606::200/123,IPv6,PowerQueryOnline.JapanWest,japanwest
+2603:1040:606:402::168/125,IPv6,PowerQueryOnline.JapanWest,japanwest
+2603:1040:606:800::2c0/125,IPv6,PowerQueryOnline.JapanWest,japanwest
+2603:1040:606:c00::80/125,IPv6,PowerQueryOnline.JapanWest,japanwest

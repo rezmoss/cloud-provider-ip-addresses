@@ -1,0 +1,8 @@
+ip_address,ip_type,service,region
+51.13.142.128/25,IPv4,AppService.NorwayWest,norwayw
+51.13.143.64/27,IPv4,AppService.NorwayWest,norwayw
+51.13.143.128/25,IPv4,AppService.NorwayWest,norwayw
+51.120.218.192/27,IPv4,AppService.NorwayWest,norwayw
+51.120.226.0/27,IPv4,AppService.NorwayWest,norwayw
+2603:1020:f04:3::400/120,IPv6,AppService.NorwayWest,norwayw
+2603:1020:f04:402::a0/123,IPv6,AppService.NorwayWest,norwayw

@@ -1,0 +1,50 @@
+[
+  {
+    "ip_address": "13.89.175.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureSignalR.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "20.40.229.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureSignalR.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "20.44.10.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureSignalR.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "52.182.141.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureSignalR.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "135.233.94.160/27",
+    "ip_type": "IPv4",
+    "service": "AzureSignalR.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "135.233.94.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureSignalR.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "172.212.135.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureSignalR.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "2603:1030:10:4::/120",
+    "ip_type": "IPv6",
+    "service": "AzureSignalR.CentralUS",
+    "region": "centralus"
+  }
+]

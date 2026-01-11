@@ -1,0 +1,182 @@
+[
+  {
+    "ip_address": "4.194.224.128/25",
+    "ip_type": "IPv4",
+    "service": "Sql.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "13.67.16.0/26",
+    "ip_type": "IPv4",
+    "service": "Sql.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "13.67.16.192/29",
+    "ip_type": "IPv4",
+    "service": "Sql.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "13.67.17.0/26",
+    "ip_type": "IPv4",
+    "service": "Sql.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "13.67.20.128/26",
+    "ip_type": "IPv4",
+    "service": "Sql.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "20.6.59.80/30",
+    "ip_type": "IPv4",
+    "service": "Sql.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "20.6.59.96/27",
+    "ip_type": "IPv4",
+    "service": "Sql.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "20.6.59.128/26",
+    "ip_type": "IPv4",
+    "service": "Sql.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "20.195.65.32/27",
+    "ip_type": "IPv4",
+    "service": "Sql.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "20.195.65.64/27",
+    "ip_type": "IPv4",
+    "service": "Sql.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "20.195.65.128/26",
+    "ip_type": "IPv4",
+    "service": "Sql.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "20.205.192.128/26",
+    "ip_type": "IPv4",
+    "service": "Sql.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "23.98.80.0/26",
+    "ip_type": "IPv4",
+    "service": "Sql.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "23.98.80.192/29",
+    "ip_type": "IPv4",
+    "service": "Sql.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "23.98.81.0/26",
+    "ip_type": "IPv4",
+    "service": "Sql.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "23.98.113.128/26",
+    "ip_type": "IPv4",
+    "service": "Sql.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "23.100.117.95/32",
+    "ip_type": "IPv4",
+    "service": "Sql.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "40.78.232.0/26",
+    "ip_type": "IPv4",
+    "service": "Sql.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "40.78.232.192/29",
+    "ip_type": "IPv4",
+    "service": "Sql.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "40.78.233.0/26",
+    "ip_type": "IPv4",
+    "service": "Sql.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "104.43.15.0/32",
+    "ip_type": "IPv4",
+    "service": "Sql.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "2603:1040:5::420/123",
+    "ip_type": "IPv6",
+    "service": "Sql.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "2603:1040:5::480/121",
+    "ip_type": "IPv6",
+    "service": "Sql.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "2603:1040:5:3::480/121",
+    "ip_type": "IPv6",
+    "service": "Sql.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "2603:1040:5:400::/123",
+    "ip_type": "IPv6",
+    "service": "Sql.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "2603:1040:5:401::/123",
+    "ip_type": "IPv6",
+    "service": "Sql.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "2603:1040:5:800::/123",
+    "ip_type": "IPv6",
+    "service": "Sql.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "2603:1040:5:801::/123",
+    "ip_type": "IPv6",
+    "service": "Sql.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "2603:1040:5:c00::/123",
+    "ip_type": "IPv6",
+    "service": "Sql.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "2603:1040:5:c01::/123",
+    "ip_type": "IPv6",
+    "service": "Sql.SoutheastAsia",
+    "region": "southeastasia"
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "ip_address": "20.41.4.104/31",
+    "ip_type": "IPv4",
+    "service": "PowerBI.EastUS2",
+    "region": "eastus2"
+  },
+  {
+    "ip_address": "20.41.4.108/30",
+    "ip_type": "IPv4",
+    "service": "PowerBI.EastUS2",
+    "region": "eastus2"
+  },
+  {
+    "ip_address": "20.41.4.208/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.EastUS2",
+    "region": "eastus2"
+  },
+  {
+    "ip_address": "20.41.4.224/27",
+    "ip_type": "IPv4",
+    "service": "PowerBI.EastUS2",
+    "region": "eastus2"
+  },
+  {
+    "ip_address": "20.41.5.0/25",
+    "ip_type": "IPv4",
+    "service": "PowerBI.EastUS2",
+    "region": "eastus2"
+  },
+  {
+    "ip_address": "20.98.192.168/30",
+    "ip_type": "IPv4",
+    "service": "PowerBI.EastUS2",
+    "region": "eastus2"
+  },
+  {
+    "ip_address": "20.98.192.192/27",
+    "ip_type": "IPv4",
+    "service": "PowerBI.EastUS2",
+    "region": "eastus2"
+  },
+  {
+    "ip_address": "20.98.193.128/26",
+    "ip_type": "IPv4",
+    "service": "PowerBI.EastUS2",
+    "region": "eastus2"
+  },
+  {
+    "ip_address": "20.98.193.192/29",
+    "ip_type": "IPv4",
+    "service": "PowerBI.EastUS2",
+    "region": "eastus2"
+  },
+  {
+    "ip_address": "20.98.199.116/31",
+    "ip_type": "IPv4",
+    "service": "PowerBI.EastUS2",
+    "region": "eastus2"
+  },
+  {
+    "ip_address": "20.119.156.32/27",
+    "ip_type": "IPv4",
+    "service": "PowerBI.EastUS2",
+    "region": "eastus2"
+  },
+  {
+    "ip_address": "20.119.157.64/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.EastUS2",
+    "region": "eastus2"
+  },
+  {
+    "ip_address": "74.249.120.64/26",
+    "ip_type": "IPv4",
+    "service": "PowerBI.EastUS2",
+    "region": "eastus2"
+  },
+  {
+    "ip_address": "104.208.203.176/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.EastUS2",
+    "region": "eastus2"
+  },
+  {
+    "ip_address": "135.232.93.144/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.EastUS2",
+    "region": "eastus2"
+  },
+  {
+    "ip_address": "145.132.126.160/27",
+    "ip_type": "IPv4",
+    "service": "PowerBI.EastUS2",
+    "region": "eastus2"
+  },
+  {
+    "ip_address": "172.175.125.0/26",
+    "ip_type": "IPv4",
+    "service": "PowerBI.EastUS2",
+    "region": "eastus2"
+  },
+  {
+    "ip_address": "172.176.2.192/26",
+    "ip_type": "IPv4",
+    "service": "PowerBI.EastUS2",
+    "region": "eastus2"
+  },
+  {
+    "ip_address": "2603:1030:40c::/122",
+    "ip_type": "IPv6",
+    "service": "PowerBI.EastUS2",
+    "region": "eastus2"
+  },
+  {
+    "ip_address": "2603:1030:40c::40/123",
+    "ip_type": "IPv6",
+    "service": "PowerBI.EastUS2",
+    "region": "eastus2"
+  },
+  {
+    "ip_address": "2603:1030:40c:1::5e0/123",
+    "ip_type": "IPv6",
+    "service": "PowerBI.EastUS2",
+    "region": "eastus2"
+  },
+  {
+    "ip_address": "2603:1030:40c:1::600/122",
+    "ip_type": "IPv6",
+    "service": "PowerBI.EastUS2",
+    "region": "eastus2"
+  }
+]

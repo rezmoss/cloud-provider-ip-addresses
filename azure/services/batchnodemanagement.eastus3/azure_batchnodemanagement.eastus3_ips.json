@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "134.138.68.0/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.EastUS3",
+    "region": "eastus3"
+  },
+  {
+    "ip_address": "2603:1030:1402::500/122",
+    "ip_type": "IPv6",
+    "service": "BatchNodeManagement.EastUS3",
+    "region": "eastus3"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "ip_address": "13.67.9.128/29",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "20.43.128.72/29",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "20.195.37.65/32",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "20.195.38.22/32",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "20.195.86.96/27",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "40.90.186.21/32",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "40.90.186.91/32",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "2603:1040:5:1::40/122",
+    "ip_type": "IPv6",
+    "service": "GatewayManager.SoutheastAsia",
+    "region": "southeastasia"
+  }
+]

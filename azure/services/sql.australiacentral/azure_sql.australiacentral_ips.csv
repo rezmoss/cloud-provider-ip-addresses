@@ -1,0 +1,15 @@
+ip_address,ip_type,service,region
+4.199.196.32/27,IPv4,Sql.AustraliaCentral,australiacentral
+4.199.196.64/26,IPv4,Sql.AustraliaCentral,australiacentral
+4.199.196.128/30,IPv4,Sql.AustraliaCentral,australiacentral
+20.36.104.0/27,IPv4,Sql.AustraliaCentral,australiacentral
+20.36.105.0/27,IPv4,Sql.AustraliaCentral,australiacentral
+20.36.105.32/29,IPv4,Sql.AustraliaCentral,australiacentral
+20.53.48.96/27,IPv4,Sql.AustraliaCentral,australiacentral
+20.53.48.128/27,IPv4,Sql.AustraliaCentral,australiacentral
+20.53.48.192/26,IPv4,Sql.AustraliaCentral,australiacentral
+20.213.225.0/25,IPv4,Sql.AustraliaCentral,australiacentral
+2603:1010:304::280/123,IPv6,Sql.AustraliaCentral,australiacentral
+2603:1010:304:1::200/121,IPv6,Sql.AustraliaCentral,australiacentral
+2603:1010:304:2::580/121,IPv6,Sql.AustraliaCentral,australiacentral
+2603:1010:304:400::/123,IPv6,Sql.AustraliaCentral,australiacentral

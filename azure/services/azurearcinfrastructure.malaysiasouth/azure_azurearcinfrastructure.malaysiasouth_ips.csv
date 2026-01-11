@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+20.17.28.8/29,IPv4,AzureArcInfrastructure.MalaysiaSouth,malaysiasouth
+20.17.28.80/31,IPv4,AzureArcInfrastructure.MalaysiaSouth,malaysiasouth
+2603:1040:1503:5::350/124,IPv6,AzureArcInfrastructure.MalaysiaSouth,malaysiasouth

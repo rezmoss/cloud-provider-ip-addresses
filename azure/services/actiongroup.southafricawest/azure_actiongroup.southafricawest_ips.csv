@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+172.209.8.40/30,IPv4,ActionGroup.SouthAfricaWest,southafricawest
+2603:1000:4::10c/126,IPv6,ActionGroup.SouthAfricaWest,southafricawest
+2603:1000:4:402::178/125,IPv6,ActionGroup.SouthAfricaWest,southafricawest

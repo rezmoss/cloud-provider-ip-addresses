@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "20.45.116.80/29",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "20.45.116.96/27",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.SouthCentralUSSTG",
+    "region": "usstagec"
+  }
+]

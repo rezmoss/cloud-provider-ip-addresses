@@ -1,0 +1,56 @@
+[
+  {
+    "ip_address": "20.199.201.80/29",
+    "ip_type": "IPv4",
+    "service": "PowerBI.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "51.107.144.122/31",
+    "ip_type": "IPv4",
+    "service": "PowerBI.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "51.107.144.124/30",
+    "ip_type": "IPv4",
+    "service": "PowerBI.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "51.107.144.208/29",
+    "ip_type": "IPv4",
+    "service": "PowerBI.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "51.107.251.184/30",
+    "ip_type": "IPv4",
+    "service": "PowerBI.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "51.107.255.128/29",
+    "ip_type": "IPv4",
+    "service": "PowerBI.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "74.242.4.32/27",
+    "ip_type": "IPv4",
+    "service": "PowerBI.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "2603:1020:b04::620/123",
+    "ip_type": "IPv6",
+    "service": "PowerBI.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "2603:1020:b04::640/122",
+    "ip_type": "IPv6",
+    "service": "PowerBI.SwitzerlandWest",
+    "region": "switzerlandw"
+  }
+]

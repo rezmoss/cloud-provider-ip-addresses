@@ -1,0 +1,10 @@
+ip_address,ip_type,service,region
+4.220.137.8/29,IPv4,PowerPlatformPlex.NorwayWest,norwayw
+4.220.138.96/29,IPv4,PowerPlatformPlex.NorwayWest,norwayw
+4.220.152.8/29,IPv4,PowerPlatformPlex.NorwayWest,norwayw
+4.220.213.0/25,IPv4,PowerPlatformPlex.NorwayWest,norwayw
+51.120.176.192/29,IPv4,PowerPlatformPlex.NorwayWest,norwayw
+51.120.176.220/30,IPv4,PowerPlatformPlex.NorwayWest,norwayw
+51.120.176.232/30,IPv4,PowerPlatformPlex.NorwayWest,norwayw
+51.120.184.144/28,IPv4,PowerPlatformPlex.NorwayWest,norwayw
+2603:1061:2004:1100::/57,IPv6,PowerPlatformPlex.NorwayWest,norwayw

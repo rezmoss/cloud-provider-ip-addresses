@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+68.211.2.128/26,IPv4,AzureCosmosDB.ChileCentral,chilec
+68.211.20.160/27,IPv4,AzureCosmosDB.ChileCentral,chilec
+2603:1050:301::1e0/123,IPv6,AzureCosmosDB.ChileCentral,chilec

@@ -1,0 +1,11 @@
+ip_address,ip_type,service,region
+13.71.172.96/27,IPv4,BatchNodeManagement.CanadaCentral,canadacentral
+20.38.146.224/27,IPv4,BatchNodeManagement.CanadaCentral,canadacentral
+40.85.226.213/32,IPv4,BatchNodeManagement.CanadaCentral,canadacentral
+40.85.227.37/32,IPv4,BatchNodeManagement.CanadaCentral,canadacentral
+52.228.44.187/32,IPv4,BatchNodeManagement.CanadaCentral,canadacentral
+52.228.83.192/27,IPv4,BatchNodeManagement.CanadaCentral,canadacentral
+52.233.40.34/32,IPv4,BatchNodeManagement.CanadaCentral,canadacentral
+52.237.30.175/32,IPv4,BatchNodeManagement.CanadaCentral,canadacentral
+52.246.154.224/27,IPv4,BatchNodeManagement.CanadaCentral,canadacentral
+2603:1030:f05:1::340/122,IPv6,BatchNodeManagement.CanadaCentral,canadacentral

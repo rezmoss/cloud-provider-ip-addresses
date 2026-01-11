@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "4.251.247.32/27",
+    "ip_type": "IPv4",
+    "service": "SCCservice.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "51.138.160.8/29",
+    "ip_type": "IPv4",
+    "service": "SCCservice.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "2603:1020:905:7::320/123",
+    "ip_type": "IPv6",
+    "service": "SCCservice.FranceSouth",
+    "region": "southfrance"
+  }
+]

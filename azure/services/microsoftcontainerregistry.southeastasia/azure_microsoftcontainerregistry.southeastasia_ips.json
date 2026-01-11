@@ -1,0 +1,38 @@
+[
+  {
+    "ip_address": "13.67.8.112/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "23.98.82.104/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "40.78.234.40/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "2603:1040:5:402::88/125",
+    "ip_type": "IPv6",
+    "service": "MicrosoftContainerRegistry.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "2603:1040:5:802::88/125",
+    "ip_type": "IPv6",
+    "service": "MicrosoftContainerRegistry.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "2603:1040:5:c02::88/125",
+    "ip_type": "IPv6",
+    "service": "MicrosoftContainerRegistry.SoutheastAsia",
+    "region": "southeastasia"
+  }
+]

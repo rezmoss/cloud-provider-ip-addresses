@@ -1,0 +1,7 @@
+ip_address,ip_type,service,region
+52.231.23.64/27,IPv4,AzureSecurityCenter.KoreaCentral,koreacentral
+72.155.32.32/27,IPv4,AzureSecurityCenter.KoreaCentral,koreacentral
+72.155.32.64/26,IPv4,AzureSecurityCenter.KoreaCentral,koreacentral
+72.155.33.0/24,IPv4,AzureSecurityCenter.KoreaCentral,koreacentral
+72.155.34.0/23,IPv4,AzureSecurityCenter.KoreaCentral,koreacentral
+72.155.36.0/22,IPv4,AzureSecurityCenter.KoreaCentral,koreacentral

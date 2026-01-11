@@ -1,0 +1,7 @@
+ip_address,ip_type,service,region
+172.195.50.60/30,IPv4,AzureSecurityCenter.MexicoCentral,mexicocentral
+172.195.50.64/26,IPv4,AzureSecurityCenter.MexicoCentral,mexicocentral
+172.195.50.128/25,IPv4,AzureSecurityCenter.MexicoCentral,mexicocentral
+172.195.51.0/24,IPv4,AzureSecurityCenter.MexicoCentral,mexicocentral
+172.195.52.0/27,IPv4,AzureSecurityCenter.MexicoCentral,mexicocentral
+172.195.52.32/28,IPv4,AzureSecurityCenter.MexicoCentral,mexicocentral

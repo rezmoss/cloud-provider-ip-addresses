@@ -1,0 +1,7 @@
+ip_address,ip_type,service,region
+20.217.58.64/29,IPv4,MicrosoftContainerRegistry.IsraelCentral,israelcentral
+20.217.74.64/29,IPv4,MicrosoftContainerRegistry.IsraelCentral,israelcentral
+20.217.90.64/29,IPv4,MicrosoftContainerRegistry.IsraelCentral,israelcentral
+2603:1040:1402:400::40/125,IPv6,MicrosoftContainerRegistry.IsraelCentral,israelcentral
+2603:1040:1402:800::40/125,IPv6,MicrosoftContainerRegistry.IsraelCentral,israelcentral
+2603:1040:1402:c00::40/125,IPv6,MicrosoftContainerRegistry.IsraelCentral,israelcentral

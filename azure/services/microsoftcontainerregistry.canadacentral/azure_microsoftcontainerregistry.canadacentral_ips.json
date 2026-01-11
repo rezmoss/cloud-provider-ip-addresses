@@ -1,0 +1,38 @@
+[
+  {
+    "ip_address": "13.71.170.48/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "20.38.146.136/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "52.246.154.136/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "2603:1030:f05:402::88/125",
+    "ip_type": "IPv6",
+    "service": "MicrosoftContainerRegistry.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "2603:1030:f05:802::88/125",
+    "ip_type": "IPv6",
+    "service": "MicrosoftContainerRegistry.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "2603:1030:f05:c02::88/125",
+    "ip_type": "IPv6",
+    "service": "MicrosoftContainerRegistry.CanadaCentral",
+    "region": "canadacentral"
+  }
+]

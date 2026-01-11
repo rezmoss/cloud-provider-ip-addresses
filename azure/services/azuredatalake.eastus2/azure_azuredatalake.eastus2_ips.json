@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "65.52.108.31/32",
+    "ip_type": "IPv4",
+    "service": "AzureDataLake.EastUS2",
+    "region": "eastus2"
+  },
+  {
+    "ip_address": "65.52.108.38/32",
+    "ip_type": "IPv4",
+    "service": "AzureDataLake.EastUS2",
+    "region": "eastus2"
+  },
+  {
+    "ip_address": "104.44.88.106/31",
+    "ip_type": "IPv4",
+    "service": "AzureDataLake.EastUS2",
+    "region": "eastus2"
+  },
+  {
+    "ip_address": "104.44.88.112/31",
+    "ip_type": "IPv4",
+    "service": "AzureDataLake.EastUS2",
+    "region": "eastus2"
+  }
+]

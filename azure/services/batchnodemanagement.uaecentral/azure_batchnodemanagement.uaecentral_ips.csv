@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+20.37.65.160/27,IPv4,BatchNodeManagement.UAECentral,uaecentral
+20.37.75.224/27,IPv4,BatchNodeManagement.UAECentral,uaecentral
+2603:1040:b04::400/122,IPv6,BatchNodeManagement.UAECentral,uaecentral

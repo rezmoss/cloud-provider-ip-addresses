@@ -1,0 +1,16 @@
+ip_address,ip_type,service,region
+13.70.72.0/28,IPv4,EventHub.AustraliaEast,australiaeast
+13.70.79.16/28,IPv4,EventHub.AustraliaEast,australiaeast
+13.70.114.64/26,IPv4,EventHub.AustraliaEast,australiaeast
+20.53.85.82/32,IPv4,EventHub.AustraliaEast,australiaeast
+20.70.219.0/24,IPv4,EventHub.AustraliaEast,australiaeast
+40.79.162.0/28,IPv4,EventHub.AustraliaEast,australiaeast
+40.79.166.192/26,IPv4,EventHub.AustraliaEast,australiaeast
+40.79.170.32/28,IPv4,EventHub.AustraliaEast,australiaeast
+40.79.174.128/26,IPv4,EventHub.AustraliaEast,australiaeast
+2603:1010:6:1::240/122,IPv6,EventHub.AustraliaEast,australiaeast
+2603:1010:6:2::400/120,IPv6,EventHub.AustraliaEast,australiaeast
+2603:1010:6:402::1c0/123,IPv6,EventHub.AustraliaEast,australiaeast
+2603:1010:6:802::160/123,IPv6,EventHub.AustraliaEast,australiaeast
+2603:1010:6:c02::160/123,IPv6,EventHub.AustraliaEast,australiaeast
+2603:10e1:100:2::1435:5552/128,IPv6,EventHub.AustraliaEast,australiaeast

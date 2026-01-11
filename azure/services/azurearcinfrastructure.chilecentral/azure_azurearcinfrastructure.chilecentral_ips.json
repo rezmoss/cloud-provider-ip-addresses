@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "68.211.13.16/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.ChileCentral",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "68.211.30.6/32",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.ChileCentral",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "68.211.152.56/32",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.ChileCentral",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "2603:1050:301:2::200/124",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.ChileCentral",
+    "region": "chilec"
+  }
+]

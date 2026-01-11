@@ -1,0 +1,2366 @@
+[
+  {
+    "ip_address": "4.243.28.116/30",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.147.98.52/30",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:5::4ac/126",
+    "ip_type": "IPv6",
+    "service": "ActionGroup.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:402::180/125",
+    "ip_type": "IPv6",
+    "service": "ActionGroup.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "20.200.166.32/28",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "40.80.232.185/32",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.146.84/31",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.147.176/28",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:5::210/124",
+    "ip_type": "IPv6",
+    "service": "ApiManagement.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "40.80.170.224/27",
+    "ip_type": "IPv4",
+    "service": "AppService.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.147.117.224/27",
+    "ip_type": "IPv4",
+    "service": "AppService.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.147.118.128/25",
+    "ip_type": "IPv4",
+    "service": "AppService.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.147.119.64/27",
+    "ip_type": "IPv4",
+    "service": "AppService.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.147.119.128/25",
+    "ip_type": "IPv4",
+    "service": "AppService.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.146.96/27",
+    "ip_type": "IPv4",
+    "service": "AppService.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.200.101/32",
+    "ip_type": "IPv4",
+    "service": "AppService.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.200.179/32",
+    "ip_type": "IPv4",
+    "service": "AppService.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:1::200/120",
+    "ip_type": "IPv6",
+    "service": "AppService.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "4.243.130.64/29",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.147.119.32/28",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.146.128/26",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.200.177/32",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:1::e0/123",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:6::c0/122",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "4.243.24.48/29",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "4.243.24.56/31",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "4.243.123.169/32",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "4.243.123.172/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "40.80.172.12/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.151.80/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:6::90/124",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:7::6ea/127",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:7::6ec/128",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "4.243.143.8/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "40.80.173.216/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.151.68/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:5::230/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.147.113.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.147.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.147.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:5::300/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "40.80.168.64/30",
+    "ip_type": "IPv4",
+    "service": "AzureBotService.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.148.88/30",
+    "ip_type": "IPv4",
+    "service": "AzureBotService.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:1::540/123",
+    "ip_type": "IPv6",
+    "service": "AzureBotService.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "40.80.169.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureCognitiveSearch.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:1::/121",
+    "ip_type": "IPv6",
+    "service": "AzureCognitiveSearch.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.147.117.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.147.117.64/28",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.147.0/28",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.148.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.155.183/32",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.160.99/32",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.163.10/32",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.195.195/32",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.201.173/32",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:5::7c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureConnectors.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "4.243.41.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "20.200.166.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.147.97.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.146.192/29",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.151.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:1::450/125",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:6::600/122",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:402::100/122",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:402::148/125",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:402::200/121",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "20.39.168.21/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "20.200.163.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "20.200.164.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "20.200.165.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "40.80.173.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "40.80.235.125/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "40.80.236.159/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.146.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.206.234/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:5::80/123",
+    "ip_type": "IPv6",
+    "service": "AzureCosmosDB.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "20.200.166.48/28",
+    "ip_type": "IPv4",
+    "service": "AzureDataExplorerManagement.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "40.80.234.9/32",
+    "ip_type": "IPv4",
+    "service": "AzureDataExplorerManagement.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.148.16/28",
+    "ip_type": "IPv4",
+    "service": "AzureDataExplorerManagement.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05::180/121",
+    "ip_type": "IPv6",
+    "service": "AzureDataExplorerManagement.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "40.80.173.208/29",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "40.80.173.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:5::280/121",
+    "ip_type": "IPv6",
+    "service": "AzureDigitalTwins.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "40.80.170.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "40.80.236.192/27",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:1::700/121",
+    "ip_type": "IPv6",
+    "service": "AzureEventGrid.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.147.98.64/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.147.115.0/24",
+    "ip_type": "IPv4",
+    "service": "EventHub.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.146.32/27",
+    "ip_type": "IPv4",
+    "service": "EventHub.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05::500/120",
+    "ip_type": "IPv6",
+    "service": "EventHub.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "40.80.172.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "40.80.172.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.148.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.205.15/32",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:402::1c0/123",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.147.113.72/29",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.147.113.80/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.146.80/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05::20/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:5::4a0/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:5::4a8/126",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:402::430/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "40.80.169.160/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.146.208/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:1::640/122",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "4.243.42.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "4.243.44.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "4.243.139.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "4.243.140.0/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "4.243.153.128/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "4.243.158.192/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "20.200.162.168/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "20.200.166.138/31",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "20.200.166.140/30",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "20.200.166.192/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.147.97.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.147.112.96/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.147.119.96/31",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.147.160/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.148.80/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.151.208/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05::28/126",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05::40/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05::80/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:1::380/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:6::40/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:6::220/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:6::380/122",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:6::3c0/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:6::680/122",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:9::d0/124",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:9::500/120",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:9::6e0/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:402::80/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "40.80.169.128/28",
+    "ip_type": "IPv4",
+    "service": "AzureOpenDatasets.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "40.80.169.224/27",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "40.80.172.16/30",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "40.80.173.192/29",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:6::300/121",
+    "ip_type": "IPv6",
+    "service": "AzurePortal.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "40.80.174.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.147.96.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.148.64/28",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.150.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:5::500/120",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "20.200.165.192/26",
+    "ip_type": "IPv4",
+    "service": "Sql.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.147.112.160/27",
+    "ip_type": "IPv4",
+    "service": "Sql.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.144.0/27",
+    "ip_type": "IPv4",
+    "service": "Sql.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.145.0/27",
+    "ip_type": "IPv4",
+    "service": "Sql.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.151.88/29",
+    "ip_type": "IPv4",
+    "service": "Sql.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.151.96/27",
+    "ip_type": "IPv4",
+    "service": "Sql.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05::/123",
+    "ip_type": "IPv6",
+    "service": "Sql.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:6::440/122",
+    "ip_type": "IPv6",
+    "service": "Sql.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:6::480/121",
+    "ip_type": "IPv6",
+    "service": "Sql.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "4.243.83.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "4.243.92.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "4.243.94.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "4.243.96.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "4.243.100.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.151.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "4.243.45.192/26",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.147.116.0/25",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.146.64/28",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05::400/120",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05::600/120",
+    "ip_type": "IPv6",
+    "service": "AzureSignalR.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "20.47.47.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "20.60.45.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "20.60.202.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "20.150.14.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "20.153.91.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "20.157.137.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.168.64/27",
+    "ip_type": "IPv4",
+    "service": "Storage.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.168.112/28",
+    "ip_type": "IPv4",
+    "service": "Storage.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.168.128/28",
+    "ip_type": "IPv4",
+    "service": "Storage.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.208.16/28",
+    "ip_type": "IPv4",
+    "service": "Storage.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.208.32/28",
+    "ip_type": "IPv4",
+    "service": "Storage.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.239.165.0/26",
+    "ip_type": "IPv4",
+    "service": "Storage.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.239.165.160/27",
+    "ip_type": "IPv4",
+    "service": "Storage.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.239.190.192/26",
+    "ip_type": "IPv4",
+    "service": "Storage.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.239.204.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e06::/48",
+    "ip_type": "IPv6",
+    "service": "Storage.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "40.80.170.128/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.147.128/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.200.112/31",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.200.126/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:1::6c0/122",
+    "ip_type": "IPv6",
+    "service": "BatchNodeManagement.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "4.243.51.32/27",
+    "ip_type": "IPv4",
+    "service": "DataFactory.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "20.200.161.48/29",
+    "ip_type": "IPv4",
+    "service": "DataFactory.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "40.80.168.128/25",
+    "ip_type": "IPv4",
+    "service": "DataFactory.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "40.80.169.0/26",
+    "ip_type": "IPv4",
+    "service": "DataFactory.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "40.80.172.112/29",
+    "ip_type": "IPv4",
+    "service": "DataFactory.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.148.160/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.151.32/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:6::100/121",
+    "ip_type": "IPv6",
+    "service": "DataFactory.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:402::190/124",
+    "ip_type": "IPv6",
+    "service": "DataFactory.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "20.200.160.32/27",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "40.80.168.72/29",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "40.89.217.100/32",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "40.89.217.109/32",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.146.200/29",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:1::500/122",
+    "ip_type": "IPv6",
+    "service": "GatewayManager.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "40.80.172.120/29",
+    "ip_type": "IPv4",
+    "service": "HDInsight.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.147.24/29",
+    "ip_type": "IPv4",
+    "service": "HDInsight.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.203.16/32",
+    "ip_type": "IPv4",
+    "service": "HDInsight.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.205.214/32",
+    "ip_type": "IPv4",
+    "service": "HDInsight.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:5::4b0/124",
+    "ip_type": "IPv6",
+    "service": "HDInsight.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "4.243.42.96/28",
+    "ip_type": "IPv4",
+    "service": "LogicApps.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "20.200.160.160/27",
+    "ip_type": "IPv4",
+    "service": "LogicApps.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "20.200.177.135/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "20.200.177.146/31",
+    "ip_type": "IPv4",
+    "service": "LogicApps.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "20.200.177.148/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "20.200.177.151/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "20.200.180.213/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.147.97.16/28",
+    "ip_type": "IPv4",
+    "service": "LogicApps.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.147.97.32/27",
+    "ip_type": "IPv4",
+    "service": "LogicApps.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.137.133/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.137.253/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.138.189/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.139.2/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.140.232/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.143.60/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.176.192/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.181.100/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.182.160/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.218.243/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.220.66/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.223.213/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.228.60/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.228.71/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.228.78/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.230.253/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:402::2e0/124",
+    "ip_type": "IPv6",
+    "service": "LogicApps.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:402::400/123",
+    "ip_type": "IPv6",
+    "service": "LogicApps.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.146.88/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:402::140/125",
+    "ip_type": "IPv6",
+    "service": "MicrosoftContainerRegistry.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "4.243.117.16/29",
+    "ip_type": "IPv4",
+    "service": "PowerBI.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "4.243.139.160/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "20.200.166.224/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "40.80.168.122/31",
+    "ip_type": "IPv4",
+    "service": "PowerBI.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "40.80.168.124/30",
+    "ip_type": "IPv4",
+    "service": "PowerBI.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "40.80.169.144/29",
+    "ip_type": "IPv4",
+    "service": "PowerBI.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.147.113.176/30",
+    "ip_type": "IPv4",
+    "service": "PowerBI.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.147.119.8/29",
+    "ip_type": "IPv4",
+    "service": "PowerBI.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:6::1c0/122",
+    "ip_type": "IPv6",
+    "service": "PowerBI.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:6::200/123",
+    "ip_type": "IPv6",
+    "service": "PowerBI.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "4.243.45.128/26",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "4.243.46.0/25",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.147.113.88/29",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.147.116.192/26",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.147.117.0/27",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.147.117.128/26",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.147.117.192/27",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.147.119.0/29",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.147.121.95/32",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.136.212/32",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.137.237/32",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.140.224/29",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.143.171/32",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.164.79/32",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.185.0/32",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1061:2002:2100::/57",
+    "ip_type": "IPv6",
+    "service": "PowerPlatformInfra.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "4.243.28.48/28",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "4.243.44.208/29",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "4.243.127.64/26",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "4.243.127.128/26",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "20.200.160.28/30",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "20.200.160.208/30",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "20.200.160.236/30",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "20.200.160.248/30",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1061:2004:1900::/57",
+    "ip_type": "IPv6",
+    "service": "PowerPlatformPlex.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "4.243.42.112/28",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "4.243.44.192/29",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "20.200.160.240/29",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "40.80.168.120/31",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.151.216/31",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:1::620/123",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:402::2f0/125",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.151.48/29",
+    "ip_type": "IPv4",
+    "service": "SCCservice.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.147.16/29",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.200.124/32",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:402::158/125",
+    "ip_type": "IPv6",
+    "service": "ServiceFabric.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "40.80.169.176/29",
+    "ip_type": "IPv4",
+    "service": "StorageSyncService.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.147.98.56/29",
+    "ip_type": "IPv4",
+    "service": "StorageSyncService.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:402::280/123",
+    "ip_type": "IPv6",
+    "service": "StorageSyncService.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "40.64.147.16/28",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1061:2010:10::/117",
+    "ip_type": "IPv6",
+    "service": "WindowsVirtualDesktop.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "4.243.0.0/16",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "13.104.157.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "20.39.168.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "20.47.47.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "20.47.91.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "20.60.45.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "20.60.202.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "20.135.26.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "20.135.30.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "20.150.14.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "20.153.91.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "20.157.137.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "20.190.148.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "20.190.179.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "20.194.88.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "20.200.128.0/18",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "20.201.214.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "20.202.40.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "20.214.0.0/18",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "40.64.147.16/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "40.64.152.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "40.64.168.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "40.79.220.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "40.80.32.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "40.80.168.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "40.80.224.0/20",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "40.89.192.0/19",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "40.90.131.160/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "40.90.139.160/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "40.90.157.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "40.93.139.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "40.100.25.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "40.100.60.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "40.107.63.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "40.107.66.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "40.126.20.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "40.126.51.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "48.208.35.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "48.212.11.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "48.212.139.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "48.213.11.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "51.5.52.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.101.155.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.101.156.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.102.203.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.103.75.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.103.203.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.106.218.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.108.190.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.108.226.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.109.48.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.111.234.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.113.110.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.113.156.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.114.48.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.123.39.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.123.174.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.147.96.0/19",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.128.0/17",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.232.144.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.239.165.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.239.165.160/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.239.190.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.239.204.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.245.100.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "70.152.16.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "74.227.0.0/17",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "74.227.128.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "104.44.94.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "151.206.67.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e00::/47",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e02::/48",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e04::/48",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05::/48",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e06::/47",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1046:a00:12::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1046:a00:37::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1046:1405::/48",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1046:1500:1c::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1046:2000:e0::/59",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1047:1:e0::/59",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1061:1310:2000::/54",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1061:1714::/48",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1061:2000:4c8::/62",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1061:2002:2100::/57",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1061:2004:1900::/57",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1061:2010:10::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1061:2011:10::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1062:c:6::/63",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1063:1::/56",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1063:100::/55",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1063:100:200::/56",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1063:200::/55",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1063:40d::/56",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1063:613::/56",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1063:716::/56",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1063:2202:1c::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1063:240b::/48",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1063:260b::/48",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1063:2809::/48",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1063:2a09::/48",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2a01:111:f403:c410::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2a01:111:f403:cc37::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2a01:111:f403:cc38::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2a01:111:f403:cc60::/63",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2a01:111:f403:cc62::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2a01:111:f403:d410::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2a01:111:f403:dc10::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2a01:111:f403:e410::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "51.107.48.224/29",
+    "ip_type": "IPv4",
+    "service": "StorageSyncService.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "2603:1020:a04:1::300/123",
+    "ip_type": "IPv6",
+    "service": "StorageSyncService.SwitzerlandNorth",
+    "region": "switzerlandn"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "ip_address": "191.233.203.24/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "191.234.149.140/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "191.234.157.44/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "191.238.72.76/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "191.238.72.152/29",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "2603:1050:6::340/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "2603:1050:6:2::6e4/126",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "2603:1050:6:2::6e8/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "2603:1050:6:402::80/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "2603:1050:6:802::80/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "2603:1050:6:c02::80/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.BrazilSouth",
+    "region": "brazilsouth"
+  }
+]

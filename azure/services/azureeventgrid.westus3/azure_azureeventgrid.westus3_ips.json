@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "20.150.164.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.WestUS3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "2603:1030:504:1::380/121",
+    "ip_type": "IPv6",
+    "service": "AzureEventGrid.WestUS3",
+    "region": "westus3"
+  }
+]

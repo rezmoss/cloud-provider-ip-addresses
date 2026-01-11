@@ -1,0 +1,7 @@
+ip_address,ip_type,service,region
+70.153.90.96/27,IPv4,PowerQueryOnline.IndonesiaCentral,indonesiacentral
+70.153.152.40/29,IPv4,PowerQueryOnline.IndonesiaCentral,indonesiacentral
+2603:1040:1802:3::a0/123,IPv6,PowerQueryOnline.IndonesiaCentral,indonesiacentral
+2603:1040:1802:4::550/124,IPv6,PowerQueryOnline.IndonesiaCentral,indonesiacentral
+2603:1040:1802:4::560/123,IPv6,PowerQueryOnline.IndonesiaCentral,indonesiacentral
+2603:1040:1802:5::80/122,IPv6,PowerQueryOnline.IndonesiaCentral,indonesiacentral

@@ -1,0 +1,10 @@
+ip_address,ip_type,service,region
+40.64.128.0/25,IPv4,AzureEventGrid.WestUS2,westus2
+52.149.23.160/27,IPv4,AzureEventGrid.WestUS2,westus2
+52.149.48.80/28,IPv4,AzureEventGrid.WestUS2,westus2
+52.149.48.96/27,IPv4,AzureEventGrid.WestUS2,westus2
+52.156.103.192/28,IPv4,AzureEventGrid.WestUS2,westus2
+52.233.104.0/24,IPv4,AzureEventGrid.WestUS2,westus2
+52.250.28.176/28,IPv4,AzureEventGrid.WestUS2,westus2
+52.250.32.160/28,IPv4,AzureEventGrid.WestUS2,westus2
+2603:1030:c06:1::380/121,IPv6,AzureEventGrid.WestUS2,westus2

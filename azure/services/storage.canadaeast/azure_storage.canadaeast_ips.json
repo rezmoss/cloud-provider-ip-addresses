@@ -1,0 +1,116 @@
+[
+  {
+    "ip_address": "20.33.192.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "20.38.121.128/25",
+    "ip_type": "IPv4",
+    "service": "Storage.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "20.47.41.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "20.60.142.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "20.150.1.0/25",
+    "ip_type": "IPv4",
+    "service": "Storage.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "20.150.40.128/25",
+    "ip_type": "IPv4",
+    "service": "Storage.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "20.150.113.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "20.157.161.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "20.209.64.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.86.232.64/28",
+    "ip_type": "IPv4",
+    "service": "Storage.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.86.232.96/28",
+    "ip_type": "IPv4",
+    "service": "Storage.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.86.232.128/28",
+    "ip_type": "IPv4",
+    "service": "Storage.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.86.232.176/28",
+    "ip_type": "IPv4",
+    "service": "Storage.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.86.232.192/28",
+    "ip_type": "IPv4",
+    "service": "Storage.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.229.80.64/27",
+    "ip_type": "IPv4",
+    "service": "Storage.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.239.164.128/26",
+    "ip_type": "IPv4",
+    "service": "Storage.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.239.190.0/25",
+    "ip_type": "IPv4",
+    "service": "Storage.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "135.130.50.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1006::/48",
+    "ip_type": "IPv6",
+    "service": "Storage.CanadaEast",
+    "region": "canadaeast"
+  }
+]

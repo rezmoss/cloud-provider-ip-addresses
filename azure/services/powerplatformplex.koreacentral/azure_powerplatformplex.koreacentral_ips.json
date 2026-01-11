@@ -1,0 +1,44 @@
+[
+  {
+    "ip_address": "4.181.26.80/29",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "4.218.236.128/28",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "20.200.198.200/29",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "20.200.199.88/29",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "72.155.105.192/26",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "72.155.106.0/26",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "2603:1061:2004:1800::/57",
+    "ip_type": "IPv6",
+    "service": "PowerPlatformPlex.KoreaCentral",
+    "region": "koreacentral"
+  }
+]

@@ -1,0 +1,16 @@
+ip_address,ip_type,service,region
+13.67.234.22/32,IPv4,AzureIoTHub.CentralUS,centralus
+13.89.174.160/27,IPv4,AzureIoTHub.CentralUS,centralus
+13.89.231.149/32,IPv4,AzureIoTHub.CentralUS,centralus
+20.40.206.192/27,IPv4,AzureIoTHub.CentralUS,centralus
+20.40.207.0/25,IPv4,AzureIoTHub.CentralUS,centralus
+20.44.8.224/27,IPv4,AzureIoTHub.CentralUS,centralus
+40.77.23.107/32,IPv4,AzureIoTHub.CentralUS,centralus
+52.176.4.4/32,IPv4,AzureIoTHub.CentralUS,centralus
+52.176.92.27/32,IPv4,AzureIoTHub.CentralUS,centralus
+52.182.139.224/27,IPv4,AzureIoTHub.CentralUS,centralus
+104.43.252.98/32,IPv4,AzureIoTHub.CentralUS,centralus
+168.61.208.218/32,IPv4,AzureIoTHub.CentralUS,centralus
+2603:1030:10:402::300/123,IPv6,AzureIoTHub.CentralUS,centralus
+2603:1030:10:802::240/123,IPv6,AzureIoTHub.CentralUS,centralus
+2603:1030:10:c02::240/123,IPv6,AzureIoTHub.CentralUS,centralus

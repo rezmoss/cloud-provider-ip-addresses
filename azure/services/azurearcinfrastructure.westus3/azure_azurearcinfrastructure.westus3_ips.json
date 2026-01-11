@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "20.150.165.140/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.WestUS3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "20.150.190.84/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.WestUS3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "172.182.155.194/31",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.WestUS3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "172.182.155.200/29",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.WestUS3",
+    "region": "westus3"
+  }
+]

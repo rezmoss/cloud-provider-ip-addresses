@@ -1,0 +1,3 @@
+ip_address,ip_type,service,region
+9.160.40.40/29,IPv4,PowerQueryOnline.BelgiumCentral,belgiumcentral
+2603:1020:1502::1c0/123,IPv6,PowerQueryOnline.BelgiumCentral,belgiumcentral

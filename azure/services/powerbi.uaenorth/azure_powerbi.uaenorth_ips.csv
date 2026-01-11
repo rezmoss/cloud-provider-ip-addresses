@@ -1,0 +1,15 @@
+ip_address,ip_type,service,region
+20.38.136.70/31,IPv4,PowerBI.UAENorth,uaenorth
+20.38.136.208/30,IPv4,PowerBI.UAENorth,uaenorth
+20.38.136.216/29,IPv4,PowerBI.UAENorth,uaenorth
+20.74.196.94/31,IPv4,PowerBI.UAENorth,uaenorth
+20.74.197.64/30,IPv4,PowerBI.UAENorth,uaenorth
+20.174.230.192/26,IPv4,PowerBI.UAENorth,uaenorth
+40.120.82.124/30,IPv4,PowerBI.UAENorth,uaenorth
+40.120.86.144/31,IPv4,PowerBI.UAENorth,uaenorth
+40.120.86.148/30,IPv4,PowerBI.UAENorth,uaenorth
+40.120.87.52/30,IPv4,PowerBI.UAENorth,uaenorth
+2603:1040:904::/122,IPv6,PowerBI.UAENorth,uaenorth
+2603:1040:904::40/123,IPv6,PowerBI.UAENorth,uaenorth
+2603:1040:904:1::5e0/123,IPv6,PowerBI.UAENorth,uaenorth
+2603:1040:904:1::600/122,IPv6,PowerBI.UAENorth,uaenorth

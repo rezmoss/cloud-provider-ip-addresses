@@ -1,0 +1,6 @@
+ip_address,ip_type,service,region
+20.97.35.52/30,IPv4,PowerPlatformPlex.SouthCentralUS,southcentralus
+20.97.39.56/29,IPv4,PowerPlatformPlex.SouthCentralUS,southcentralus
+20.97.39.112/30,IPv4,PowerPlatformPlex.SouthCentralUS,southcentralus
+145.132.192.0/24,IPv4,PowerPlatformPlex.SouthCentralUS,southcentralus
+2603:1061:2004:200::/57,IPv6,PowerPlatformPlex.SouthCentralUS,southcentralus

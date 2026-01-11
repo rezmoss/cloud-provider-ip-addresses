@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "51.120.164.23/32",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.219.72/29",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04:402::98/125",
+    "ip_type": "IPv6",
+    "service": "ServiceFabric.NorwayWest",
+    "region": "norwayw"
+  }
+]

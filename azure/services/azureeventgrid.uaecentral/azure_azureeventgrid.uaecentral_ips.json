@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "20.37.65.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.UAECentral",
+    "region": "uaecentral"
+  },
+  {
+    "ip_address": "20.37.82.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.UAECentral",
+    "region": "uaecentral"
+  },
+  {
+    "ip_address": "2603:1040:b04::380/121",
+    "ip_type": "IPv6",
+    "service": "AzureEventGrid.UAECentral",
+    "region": "uaecentral"
+  }
+]

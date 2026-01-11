@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+40.64.144.216/29,IPv4,WindowsVirtualDesktop.SoutheastAsia,southeastasia
+40.64.145.144/28,IPv4,WindowsVirtualDesktop.SoutheastAsia,southeastasia
+2603:1061:2010:14::/117,IPv6,WindowsVirtualDesktop.SoutheastAsia,southeastasia

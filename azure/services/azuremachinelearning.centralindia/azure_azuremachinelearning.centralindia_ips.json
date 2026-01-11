@@ -1,0 +1,44 @@
+[
+  {
+    "ip_address": "20.43.120.112/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "20.192.47.112/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "20.192.99.64/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "40.80.51.64/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "52.140.107.96/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "104.211.81.144/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "2603:1040:a06:1::2c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.CentralIndia",
+    "region": "centralindia"
+  }
+]

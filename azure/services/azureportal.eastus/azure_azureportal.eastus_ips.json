@@ -1,0 +1,56 @@
+[
+  {
+    "ip_address": "20.42.6.192/27",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "20.49.109.36/30",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "20.49.109.44/31",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "20.49.109.48/28",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "20.62.128.240/29",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "40.71.15.144/28",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "48.211.4.192/27",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "2603:1030:210::100/121",
+    "ip_type": "IPv6",
+    "service": "AzurePortal.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "2603:1030:210:1::680/121",
+    "ip_type": "IPv6",
+    "service": "AzurePortal.EastUS",
+    "region": "eastus"
+  }
+]

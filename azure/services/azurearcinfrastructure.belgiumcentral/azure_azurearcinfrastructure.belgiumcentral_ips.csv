@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+9.160.51.208/30,IPv4,AzureArcInfrastructure.BelgiumCentral,belgiumcentral
+9.160.60.95/32,IPv4,AzureArcInfrastructure.BelgiumCentral,belgiumcentral
+9.160.80.56/32,IPv4,AzureArcInfrastructure.BelgiumCentral,belgiumcentral
+2603:1020:1502:2::20/124,IPv6,AzureArcInfrastructure.BelgiumCentral,belgiumcentral

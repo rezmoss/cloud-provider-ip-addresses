@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "40.64.144.0/27",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "2603:1061:2010:13::/117",
+    "ip_type": "IPv6",
+    "service": "WindowsVirtualDesktop.SouthCentralUS",
+    "region": "southcentralus"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "51.107.59.160/28",
+    "ip_type": "IPv4",
+    "service": "AzureDataExplorerManagement.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "51.107.247.128/28",
+    "ip_type": "IPv4",
+    "service": "AzureDataExplorerManagement.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "2603:1020:a04::600/121",
+    "ip_type": "IPv6",
+    "service": "AzureDataExplorerManagement.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "2603:1020:a04:402::150/124",
+    "ip_type": "IPv6",
+    "service": "AzureDataExplorerManagement.SwitzerlandNorth",
+    "region": "switzerlandn"
+  }
+]

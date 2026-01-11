@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+104.44.88.176/31,IPv4,AzureDataLake.CentralUS,centralus
+104.44.88.184/29,IPv4,AzureDataLake.CentralUS,centralus
+104.44.91.160/27,IPv4,AzureDataLake.CentralUS,centralus

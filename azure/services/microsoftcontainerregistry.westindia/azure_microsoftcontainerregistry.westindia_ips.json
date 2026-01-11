@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "104.211.146.72/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry.WestIndia",
+    "region": "westindia"
+  },
+  {
+    "ip_address": "2603:1040:806:402::88/125",
+    "ip_type": "IPv6",
+    "service": "MicrosoftContainerRegistry.WestIndia",
+    "region": "westindia"
+  }
+]

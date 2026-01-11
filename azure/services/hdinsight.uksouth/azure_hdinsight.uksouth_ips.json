@@ -1,0 +1,32 @@
+[
+  {
+    "ip_address": "51.104.8.96/29",
+    "ip_type": "IPv4",
+    "service": "HDInsight.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "51.104.31.56/29",
+    "ip_type": "IPv4",
+    "service": "HDInsight.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "51.140.47.39/32",
+    "ip_type": "IPv4",
+    "service": "HDInsight.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "51.140.52.16/32",
+    "ip_type": "IPv4",
+    "service": "HDInsight.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "2603:1020:705:402::320/124",
+    "ip_type": "IPv6",
+    "service": "HDInsight.UKSouth",
+    "region": "uksouth"
+  }
+]

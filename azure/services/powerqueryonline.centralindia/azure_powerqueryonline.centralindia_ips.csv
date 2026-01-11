@@ -1,0 +1,12 @@
+ip_address,ip_type,service,region
+4.213.28.120/29,IPv4,PowerQueryOnline.CentralIndia,centralindia
+4.213.29.128/28,IPv4,PowerQueryOnline.CentralIndia,centralindia
+20.43.126.196/31,IPv4,PowerQueryOnline.CentralIndia,centralindia
+20.192.102.110/31,IPv4,PowerQueryOnline.CentralIndia,centralindia
+20.204.193.0/29,IPv4,PowerQueryOnline.CentralIndia,centralindia
+40.80.54.56/31,IPv4,PowerQueryOnline.CentralIndia,centralindia
+52.140.104.70/31,IPv4,PowerQueryOnline.CentralIndia,centralindia
+2603:1040:a06:1::200/123,IPv6,PowerQueryOnline.CentralIndia,centralindia
+2603:1040:a06:402::160/125,IPv6,PowerQueryOnline.CentralIndia,centralindia
+2603:1040:a06:802::140/125,IPv6,PowerQueryOnline.CentralIndia,centralindia
+2603:1040:a06:c00::20/125,IPv6,PowerQueryOnline.CentralIndia,centralindia

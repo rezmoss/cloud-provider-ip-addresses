@@ -1,0 +1,7 @@
+ip_address,ip_type,service,region
+20.217.60.96/27,IPv4,AzureIoTHub.IsraelCentral,israelcentral
+20.217.75.160/27,IPv4,AzureIoTHub.IsraelCentral,israelcentral
+20.217.91.160/27,IPv4,AzureIoTHub.IsraelCentral,israelcentral
+2603:1040:1402:400::220/123,IPv6,AzureIoTHub.IsraelCentral,israelcentral
+2603:1040:1402:800::e0/123,IPv6,AzureIoTHub.IsraelCentral,israelcentral
+2603:1040:1402:c00::e0/123,IPv6,AzureIoTHub.IsraelCentral,israelcentral

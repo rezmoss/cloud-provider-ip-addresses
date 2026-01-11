@@ -1,0 +1,74 @@
+[
+  {
+    "ip_address": "4.192.252.174/31",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "4.192.252.176/28",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "4.192.252.192/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "4.192.252.200/30",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "4.252.149.40/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "4.252.149.64/28",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "4.252.149.128/25",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "13.75.39.128/27",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.24.111.211/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.187.120.211/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.255.128.79/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.255.128.143/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.EastAsia",
+    "region": "eastasia"
+  }
+]

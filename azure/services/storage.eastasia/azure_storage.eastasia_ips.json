@@ -1,0 +1,194 @@
+[
+  {
+    "ip_address": "20.33.184.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.47.43.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.60.86.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.60.131.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.60.254.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.150.1.128/25",
+    "ip_type": "IPv4",
+    "service": "Storage.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.150.22.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.150.96.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.153.7.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.157.53.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.157.177.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.209.166.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "40.83.104.176/28",
+    "ip_type": "IPv4",
+    "service": "Storage.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "40.83.104.208/28",
+    "ip_type": "IPv4",
+    "service": "Storage.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "52.175.40.128/28",
+    "ip_type": "IPv4",
+    "service": "Storage.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "52.175.112.16/28",
+    "ip_type": "IPv4",
+    "service": "Storage.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "52.184.40.16/28",
+    "ip_type": "IPv4",
+    "service": "Storage.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "52.184.40.32/28",
+    "ip_type": "IPv4",
+    "service": "Storage.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "52.239.128.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "52.239.224.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "57.150.136.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "57.150.172.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "168.63.128.0/26",
+    "ip_type": "IPv4",
+    "service": "Storage.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "168.63.128.128/25",
+    "ip_type": "IPv4",
+    "service": "Storage.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "168.63.129.128/25",
+    "ip_type": "IPv4",
+    "service": "Storage.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "168.63.130.0/26",
+    "ip_type": "IPv4",
+    "service": "Storage.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "168.63.130.128/26",
+    "ip_type": "IPv4",
+    "service": "Storage.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "168.63.131.0/26",
+    "ip_type": "IPv4",
+    "service": "Storage.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "168.63.156.64/26",
+    "ip_type": "IPv4",
+    "service": "Storage.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "168.63.156.192/26",
+    "ip_type": "IPv4",
+    "service": "Storage.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "191.237.238.32/28",
+    "ip_type": "IPv4",
+    "service": "Storage.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "2603:1040:208::/48",
+    "ip_type": "IPv6",
+    "service": "Storage.EastAsia",
+    "region": "eastasia"
+  }
+]

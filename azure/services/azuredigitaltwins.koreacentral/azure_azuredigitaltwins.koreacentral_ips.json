@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "20.194.72.136/29",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "20.194.72.160/27",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "2603:1040:f05::700/121",
+    "ip_type": "IPv6",
+    "service": "AzureDigitalTwins.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "2603:1040:f05:7::/126",
+    "ip_type": "IPv6",
+    "service": "AzureDigitalTwins.KoreaCentral",
+    "region": "koreacentral"
+  }
+]

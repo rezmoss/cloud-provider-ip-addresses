@@ -1,0 +1,38 @@
+[
+  {
+    "ip_address": "20.36.114.176/28",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.AustraliaCentral2",
+    "region": "australiacentral2"
+  },
+  {
+    "ip_address": "20.36.117.160/27",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.AustraliaCentral2",
+    "region": "australiacentral2"
+  },
+  {
+    "ip_address": "20.53.60.16/28",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.AustraliaCentral2",
+    "region": "australiacentral2"
+  },
+  {
+    "ip_address": "20.53.60.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.AustraliaCentral2",
+    "region": "australiacentral2"
+  },
+  {
+    "ip_address": "2603:1010:404:5::480/122",
+    "ip_type": "IPv6",
+    "service": "AzureConnectors.AustraliaCentral2",
+    "region": "australiacentral2"
+  },
+  {
+    "ip_address": "2603:1010:404:402::180/122",
+    "ip_type": "IPv6",
+    "service": "AzureConnectors.AustraliaCentral2",
+    "region": "australiacentral2"
+  }
+]

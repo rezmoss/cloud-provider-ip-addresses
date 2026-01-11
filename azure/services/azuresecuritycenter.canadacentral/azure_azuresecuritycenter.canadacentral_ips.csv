@@ -1,0 +1,10 @@
+ip_address,ip_type,service,region
+4.172.221.192/26,IPv4,AzureSecurityCenter.CanadaCentral,canadacentral
+4.172.223.0/24,IPv4,AzureSecurityCenter.CanadaCentral,canadacentral
+4.174.239.0/25,IPv4,AzureSecurityCenter.CanadaCentral,canadacentral
+4.204.16.0/23,IPv4,AzureSecurityCenter.CanadaCentral,canadacentral
+13.71.177.0/27,IPv4,AzureSecurityCenter.CanadaCentral,canadacentral
+130.107.57.128/25,IPv4,AzureSecurityCenter.CanadaCentral,canadacentral
+130.107.58.0/23,IPv4,AzureSecurityCenter.CanadaCentral,canadacentral
+130.107.60.0/24,IPv4,AzureSecurityCenter.CanadaCentral,canadacentral
+130.107.61.0/27,IPv4,AzureSecurityCenter.CanadaCentral,canadacentral

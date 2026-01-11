@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+4.195.110.184/29,IPv4,AzureAttestation.AustraliaEast,australiaeast
+13.70.79.80/30,IPv4,AzureAttestation.AustraliaEast,australiaeast
+20.53.47.64/30,IPv4,AzureAttestation.AustraliaEast,australiaeast

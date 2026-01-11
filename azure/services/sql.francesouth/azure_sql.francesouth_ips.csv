@@ -1,0 +1,11 @@
+ip_address,ip_type,service,region
+40.79.176.0/27,IPv4,Sql.FranceSouth,southfrance
+40.79.176.40/29,IPv4,Sql.FranceSouth,southfrance
+40.79.177.0/27,IPv4,Sql.FranceSouth,southfrance
+40.79.177.32/29,IPv4,Sql.FranceSouth,southfrance
+40.80.102.128/25,IPv4,Sql.FranceSouth,southfrance
+52.136.185.0/25,IPv4,Sql.FranceSouth,southfrance
+2603:1020:905::280/123,IPv6,Sql.FranceSouth,southfrance
+2603:1020:905:1::200/121,IPv6,Sql.FranceSouth,southfrance
+2603:1020:905:2::580/121,IPv6,Sql.FranceSouth,southfrance
+2603:1020:905:400::/123,IPv6,Sql.FranceSouth,southfrance

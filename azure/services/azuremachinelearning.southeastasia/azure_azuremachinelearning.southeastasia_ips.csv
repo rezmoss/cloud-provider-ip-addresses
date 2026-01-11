@@ -1,0 +1,9 @@
+ip_address,ip_type,service,region
+13.67.8.224/28,IPv4,AzureMachineLearning.SoutheastAsia,southeastasia
+20.43.128.112/28,IPv4,AzureMachineLearning.SoutheastAsia,southeastasia
+20.195.69.64/28,IPv4,AzureMachineLearning.SoutheastAsia,southeastasia
+23.98.82.192/28,IPv4,AzureMachineLearning.SoutheastAsia,southeastasia
+40.78.234.128/28,IPv4,AzureMachineLearning.SoutheastAsia,southeastasia
+40.90.184.249/32,IPv4,AzureMachineLearning.SoutheastAsia,southeastasia
+52.230.56.136/32,IPv4,AzureMachineLearning.SoutheastAsia,southeastasia
+2603:1040:5:1::2c0/122,IPv6,AzureMachineLearning.SoutheastAsia,southeastasia

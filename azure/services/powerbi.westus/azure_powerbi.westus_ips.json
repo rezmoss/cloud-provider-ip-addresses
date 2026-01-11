@@ -1,0 +1,74 @@
+[
+  {
+    "ip_address": "20.59.79.96/27",
+    "ip_type": "IPv4",
+    "service": "PowerBI.WestUS",
+    "region": "westus"
+  },
+  {
+    "ip_address": "20.59.79.192/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.WestUS",
+    "region": "westus"
+  },
+  {
+    "ip_address": "40.82.248.68/31",
+    "ip_type": "IPv4",
+    "service": "PowerBI.WestUS",
+    "region": "westus"
+  },
+  {
+    "ip_address": "40.82.253.96/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.WestUS",
+    "region": "westus"
+  },
+  {
+    "ip_address": "40.82.253.128/26",
+    "ip_type": "IPv4",
+    "service": "PowerBI.WestUS",
+    "region": "westus"
+  },
+  {
+    "ip_address": "40.82.254.0/25",
+    "ip_type": "IPv4",
+    "service": "PowerBI.WestUS",
+    "region": "westus"
+  },
+  {
+    "ip_address": "52.159.201.0/25",
+    "ip_type": "IPv4",
+    "service": "PowerBI.WestUS",
+    "region": "westus"
+  },
+  {
+    "ip_address": "52.190.166.64/26",
+    "ip_type": "IPv4",
+    "service": "PowerBI.WestUS",
+    "region": "westus"
+  },
+  {
+    "ip_address": "52.238.37.192/26",
+    "ip_type": "IPv4",
+    "service": "PowerBI.WestUS",
+    "region": "westus"
+  },
+  {
+    "ip_address": "172.185.241.128/27",
+    "ip_type": "IPv4",
+    "service": "PowerBI.WestUS",
+    "region": "westus"
+  },
+  {
+    "ip_address": "2603:1030:a07::620/123",
+    "ip_type": "IPv6",
+    "service": "PowerBI.WestUS",
+    "region": "westus"
+  },
+  {
+    "ip_address": "2603:1030:a07::640/122",
+    "ip_type": "IPv6",
+    "service": "PowerBI.WestUS",
+    "region": "westus"
+  }
+]

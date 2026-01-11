@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "68.211.2.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.ChileCentral",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "2603:1050:301::280/121",
+    "ip_type": "IPv6",
+    "service": "AzureEventGrid.ChileCentral",
+    "region": "chilec"
+  }
+]

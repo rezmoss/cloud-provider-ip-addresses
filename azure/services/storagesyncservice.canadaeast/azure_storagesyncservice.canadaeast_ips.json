@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "40.69.111.200/29",
+    "ip_type": "IPv4",
+    "service": "StorageSyncService.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.89.17.232/29",
+    "ip_type": "IPv4",
+    "service": "StorageSyncService.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005::340/123",
+    "ip_type": "IPv6",
+    "service": "StorageSyncService.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:402::5e0/123",
+    "ip_type": "IPv6",
+    "service": "StorageSyncService.CanadaEast",
+    "region": "canadaeast"
+  }
+]

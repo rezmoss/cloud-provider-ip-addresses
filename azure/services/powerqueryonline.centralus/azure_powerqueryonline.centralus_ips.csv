@@ -1,0 +1,12 @@
+ip_address,ip_type,service,region
+20.37.152.70/31,IPv4,PowerQueryOnline.CentralUS,centralus
+20.98.149.8/29,IPv4,PowerQueryOnline.CentralUS,centralus
+52.182.144.152/31,IPv4,PowerQueryOnline.CentralUS,centralus
+104.208.16.202/31,IPv4,PowerQueryOnline.CentralUS,centralus
+172.173.8.96/31,IPv4,PowerQueryOnline.CentralUS,centralus
+172.212.133.224/28,IPv4,PowerQueryOnline.CentralUS,centralus
+172.212.133.240/29,IPv4,PowerQueryOnline.CentralUS,centralus
+2603:1030:10:1::200/123,IPv6,PowerQueryOnline.CentralUS,centralus
+2603:1030:10:402::160/125,IPv6,PowerQueryOnline.CentralUS,centralus
+2603:1030:10:802::140/125,IPv6,PowerQueryOnline.CentralUS,centralus
+2603:1030:10:c00::20/125,IPv6,PowerQueryOnline.CentralUS,centralus

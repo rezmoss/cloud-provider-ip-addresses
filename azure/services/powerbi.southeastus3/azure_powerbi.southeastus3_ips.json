@@ -1,0 +1,32 @@
+[
+  {
+    "ip_address": "74.7.52.54/31",
+    "ip_type": "IPv4",
+    "service": "PowerBI.SoutheastUS3",
+    "region": "southeastus3"
+  },
+  {
+    "ip_address": "74.7.53.28/30",
+    "ip_type": "IPv4",
+    "service": "PowerBI.SoutheastUS3",
+    "region": "southeastus3"
+  },
+  {
+    "ip_address": "74.7.53.64/29",
+    "ip_type": "IPv4",
+    "service": "PowerBI.SoutheastUS3",
+    "region": "southeastus3"
+  },
+  {
+    "ip_address": "2603:1030:1302:2::1a0/123",
+    "ip_type": "IPv6",
+    "service": "PowerBI.SoutheastUS3",
+    "region": "southeastus3"
+  },
+  {
+    "ip_address": "2603:1030:1302:2::300/122",
+    "ip_type": "IPv6",
+    "service": "PowerBI.SoutheastUS3",
+    "region": "southeastus3"
+  }
+]

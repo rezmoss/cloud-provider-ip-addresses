@@ -1,0 +1,6 @@
+ip_address,ip_type,service,region
+20.193.202.24/29,IPv4,ServiceFabric.JioIndiaWest,jioindiawest
+20.193.204.100/30,IPv4,ServiceFabric.JioIndiaWest,jioindiawest
+2603:1040:d04:400::98/125,IPv6,ServiceFabric.JioIndiaWest,jioindiawest
+2603:1040:d04:800::158/125,IPv6,ServiceFabric.JioIndiaWest,jioindiawest
+2603:1040:d04:800::350/125,IPv6,ServiceFabric.JioIndiaWest,jioindiawest

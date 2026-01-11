@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "23.100.218.124/31",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "23.100.218.152/29",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.SouthCentralUSSTG",
+    "region": "usstagec"
+  }
+]

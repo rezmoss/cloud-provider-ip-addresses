@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "4.232.99.0/24",
+    "ip_type": "IPv4",
+    "service": "AppService.ItalyNorth",
+    "region": "italynorth"
+  },
+  {
+    "ip_address": "2603:1020:1204:1::700/120",
+    "ip_type": "IPv6",
+    "service": "AppService.ItalyNorth",
+    "region": "italynorth"
+  }
+]

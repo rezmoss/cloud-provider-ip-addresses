@@ -1,0 +1,12 @@
+ip_address,ip_type,service,region
+20.208.7.176/29,IPv4,PowerQueryOnline.SwitzerlandNorth,switzerlandn
+20.208.21.174/31,IPv4,PowerQueryOnline.SwitzerlandNorth,switzerlandn
+51.103.205.170/31,IPv4,PowerQueryOnline.SwitzerlandNorth,switzerlandn
+51.107.48.70/31,IPv4,PowerQueryOnline.SwitzerlandNorth,switzerlandn
+51.107.129.164/31,IPv4,PowerQueryOnline.SwitzerlandNorth,switzerlandn
+74.242.187.232/29,IPv4,PowerQueryOnline.SwitzerlandNorth,switzerlandn
+74.242.187.240/28,IPv4,PowerQueryOnline.SwitzerlandNorth,switzerlandn
+2603:1020:a04:1::200/123,IPv6,PowerQueryOnline.SwitzerlandNorth,switzerlandn
+2603:1020:a04:402::160/125,IPv6,PowerQueryOnline.SwitzerlandNorth,switzerlandn
+2603:1020:a04:802::140/125,IPv6,PowerQueryOnline.SwitzerlandNorth,switzerlandn
+2603:1020:a04:c00::20/125,IPv6,PowerQueryOnline.SwitzerlandNorth,switzerlandn

@@ -1,0 +1,116 @@
+[
+  {
+    "ip_address": "9.234.62.208/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "9.234.69.192/27",
+    "ip_type": "IPv4",
+    "service": "PowerBI.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "20.37.156.200/30",
+    "ip_type": "IPv4",
+    "service": "PowerBI.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "20.37.156.240/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "20.37.157.0/29",
+    "ip_type": "IPv4",
+    "service": "PowerBI.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "20.37.157.16/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "20.37.157.32/27",
+    "ip_type": "IPv4",
+    "service": "PowerBI.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "20.40.230.60/30",
+    "ip_type": "IPv4",
+    "service": "PowerBI.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "20.98.145.48/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "20.98.145.64/30",
+    "ip_type": "IPv4",
+    "service": "PowerBI.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "20.98.145.112/29",
+    "ip_type": "IPv4",
+    "service": "PowerBI.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "20.98.146.0/27",
+    "ip_type": "IPv4",
+    "service": "PowerBI.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "135.233.95.96/27",
+    "ip_type": "IPv4",
+    "service": "PowerBI.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "135.233.95.208/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "172.212.131.160/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "2603:1030:10::/122",
+    "ip_type": "IPv6",
+    "service": "PowerBI.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "2603:1030:10::40/123",
+    "ip_type": "IPv6",
+    "service": "PowerBI.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "2603:1030:10:1::5e0/123",
+    "ip_type": "IPv6",
+    "service": "PowerBI.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "2603:1030:10:1::600/122",
+    "ip_type": "IPv6",
+    "service": "PowerBI.CentralUS",
+    "region": "centralus"
+  }
+]

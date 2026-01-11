@@ -1,0 +1,9 @@
+ip_address,ip_type,service,region
+13.69.64.192/28,IPv4,AzureMachineLearning.WestEurope,westeurope
+13.69.106.192/28,IPv4,AzureMachineLearning.WestEurope,westeurope
+20.86.88.160/28,IPv4,AzureMachineLearning.WestEurope,westeurope
+40.74.24.96/28,IPv4,AzureMachineLearning.WestEurope,westeurope
+51.105.129.135/32,IPv4,AzureMachineLearning.WestEurope,westeurope
+51.144.184.47/32,IPv4,AzureMachineLearning.WestEurope,westeurope
+52.236.186.192/28,IPv4,AzureMachineLearning.WestEurope,westeurope
+2603:1020:206:1::2c0/122,IPv6,AzureMachineLearning.WestEurope,westeurope

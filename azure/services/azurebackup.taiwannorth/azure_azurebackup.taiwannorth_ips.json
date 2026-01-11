@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "51.53.28.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302::680/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.TaiwanNorth",
+    "region": "taiwannorth"
+  }
+]

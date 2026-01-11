@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "20.43.41.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureCognitiveSearch.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "40.66.56.233/32",
+    "ip_type": "IPv4",
+    "service": "AzureCognitiveSearch.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "2603:1020:805:1::180/121",
+    "ip_type": "IPv6",
+    "service": "AzureCognitiveSearch.FranceCentral",
+    "region": "centralfrance"
+  }
+]

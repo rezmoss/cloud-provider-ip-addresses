@@ -1,0 +1,1256 @@
+[
+  {
+    "ip_address": "9.160.80.24/30",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1020:1502:400::40/125",
+    "ip_type": "IPv6",
+    "service": "ActionGroup.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.43.176/28",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1020:1502::520/124",
+    "ip_type": "IPv6",
+    "service": "ApiManagement.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.50.0/24",
+    "ip_type": "IPv4",
+    "service": "AppService.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1020:1502:1::600/120",
+    "ip_type": "IPv6",
+    "service": "AppService.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.17.0/29",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.52.128/26",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1020:1502:2::40/122",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.51.208/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.60.95/32",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.80.56/32",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1020:1502:2::20/124",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.40.20/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1020:1502::540/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.44.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.58.48/28",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1020:1502::600/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.40.16/30",
+    "ip_type": "IPv4",
+    "service": "AzureBotService.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1020:1502::20/123",
+    "ip_type": "IPv6",
+    "service": "AzureBotService.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.40.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureCognitiveSearch.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1020:1502::100/121",
+    "ip_type": "IPv6",
+    "service": "AzureCognitiveSearch.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.51.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1020:1502:1::5c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureConnectors.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.43.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.80.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.82.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.88.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.90.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.112.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.114.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1020:1502::3e0/125",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1020:1502:3::6e0/123",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1020:1502:3::780/124",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1020:1502:3::790/125",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1020:1502:400::8/125",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1020:1502:400::80/121",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1020:1502:800::8/125",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1020:1502:800::80/121",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1020:1502:c00::8/125",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1020:1502:c00::80/121",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.43.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.58.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1020:1502::1e0/123",
+    "ip_type": "IPv6",
+    "service": "AzureCosmosDB.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.46.192/28",
+    "ip_type": "IPv4",
+    "service": "AzureDataExplorerManagement.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1020:1502:1::1e0/123",
+    "ip_type": "IPv6",
+    "service": "AzureDataExplorerManagement.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.43.192/27",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.58.32/29",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1020:1502::580/121",
+    "ip_type": "IPv6",
+    "service": "AzureDigitalTwins.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.41.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1020:1502::280/121",
+    "ip_type": "IPv6",
+    "service": "AzureEventGrid.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.45.0/24",
+    "ip_type": "IPv4",
+    "service": "EventHub.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.80.128/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1020:1502:1::/120",
+    "ip_type": "IPv6",
+    "service": "EventHub.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.47.24/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.58.8/29",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.80.60/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.91.4/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.115.4/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1020:1502:1::1c8/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1020:1502:400::48/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1020:1502:800::18/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1020:1502:c00::18/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.41.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1020:1502::200/122",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.51.242/31",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.53.208/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.53.216/30",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.56.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.58.132/30",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.66.176/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.70.96/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.70.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.70.160/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.84.32/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.84.48/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.90.136/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.90.240/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.114.136/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.114.240/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1020:1501:f::10/127",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1020:1502:2::480/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1020:1502:2::500/120",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1020:1502:3::670/124",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1020:1502:5::260/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.53.224/27",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.58.128/30",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1020:1502:2::400/121",
+    "ip_type": "IPv6",
+    "service": "AzurePortal.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.48.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1020:1502:1::300/120",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.56.96/27",
+    "ip_type": "IPv4",
+    "service": "Sql.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.56.128/26",
+    "ip_type": "IPv4",
+    "service": "Sql.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.58.160/27",
+    "ip_type": "IPv4",
+    "service": "Sql.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.82.136/29",
+    "ip_type": "IPv4",
+    "service": "Sql.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.82.160/27",
+    "ip_type": "IPv4",
+    "service": "Sql.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.88.48/29",
+    "ip_type": "IPv4",
+    "service": "Sql.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.88.224/27",
+    "ip_type": "IPv4",
+    "service": "Sql.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.112.48/29",
+    "ip_type": "IPv4",
+    "service": "Sql.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.112.224/27",
+    "ip_type": "IPv4",
+    "service": "Sql.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1020:1502:2::620/123",
+    "ip_type": "IPv6",
+    "service": "Sql.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1020:1502:2::680/121",
+    "ip_type": "IPv6",
+    "service": "Sql.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.66.136/30",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.66.208/28",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.67.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.68.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.69.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.69.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.46.0/25",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.80.16/29",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1020:1502::780/121",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "20.153.19.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "20.153.20.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "57.150.194.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "57.150.196.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "57.150.198.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1020:1503::/48",
+    "ip_type": "IPv6",
+    "service": "Storage.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.41.64/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1020:1502::300/122",
+    "ip_type": "IPv6",
+    "service": "BatchNodeManagement.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.54.0/23",
+    "ip_type": "IPv4",
+    "service": "DataFactory.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.64.144/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.64.160/27",
+    "ip_type": "IPv4",
+    "service": "DataFactory.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.82.208/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.90.224/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.114.224/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1020:1502:2::280/121",
+    "ip_type": "IPv6",
+    "service": "DataFactory.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1020:1502:3::4f0/124",
+    "ip_type": "IPv6",
+    "service": "DataFactory.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1020:1502:3::600/125",
+    "ip_type": "IPv6",
+    "service": "DataFactory.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1020:1502:400::320/124",
+    "ip_type": "IPv6",
+    "service": "DataFactory.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1020:1502:800::50/124",
+    "ip_type": "IPv6",
+    "service": "DataFactory.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1020:1502:c00::50/124",
+    "ip_type": "IPv6",
+    "service": "DataFactory.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.40.64/26",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1020:1502::40/122",
+    "ip_type": "IPv6",
+    "service": "GatewayManager.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.47.16/29",
+    "ip_type": "IPv4",
+    "service": "HDInsight.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1020:1502:1::2c0/124",
+    "ip_type": "IPv6",
+    "service": "HDInsight.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.56.240/28",
+    "ip_type": "IPv4",
+    "service": "LogicApps.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.57.192/27",
+    "ip_type": "IPv4",
+    "service": "LogicApps.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1020:1502:3::440/124",
+    "ip_type": "IPv6",
+    "service": "LogicApps.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1020:1502:3::460/123",
+    "ip_type": "IPv6",
+    "service": "LogicApps.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.80.0/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.88.0/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.112.0/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1020:1502:400::/125",
+    "ip_type": "IPv6",
+    "service": "MicrosoftContainerRegistry.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1020:1502:800::/125",
+    "ip_type": "IPv6",
+    "service": "MicrosoftContainerRegistry.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1020:1502:c00::/125",
+    "ip_type": "IPv6",
+    "service": "MicrosoftContainerRegistry.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.51.240/31",
+    "ip_type": "IPv4",
+    "service": "PowerBI.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.51.244/30",
+    "ip_type": "IPv4",
+    "service": "PowerBI.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.51.248/29",
+    "ip_type": "IPv4",
+    "service": "PowerBI.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.65.80/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.65.96/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1020:1502:2::1a0/123",
+    "ip_type": "IPv6",
+    "service": "PowerBI.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1020:1502:2::300/122",
+    "ip_type": "IPv6",
+    "service": "PowerBI.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.40.40/29",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1020:1502::1c0/123",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.80.12/30",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.88.8/30",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.112.8/30",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1020:1502:400::18/125",
+    "ip_type": "IPv6",
+    "service": "ServiceFabric.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1020:1502:800::10/125",
+    "ip_type": "IPv6",
+    "service": "ServiceFabric.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1020:1502:c00::10/125",
+    "ip_type": "IPv6",
+    "service": "ServiceFabric.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.69.152/29",
+    "ip_type": "IPv4",
+    "service": "StorageSyncService.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.80.48/29",
+    "ip_type": "IPv4",
+    "service": "StorageSyncService.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1020:1502:400::120/123",
+    "ip_type": "IPv6",
+    "service": "StorageSyncService.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1061:2010:3f::/117",
+    "ip_type": "IPv6",
+    "service": "WindowsVirtualDesktop.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.0.0/17",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.belgiumcentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.128.0/18",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.belgiumcentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "20.20.52.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.belgiumcentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "20.20.52.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.belgiumcentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "20.20.120.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.belgiumcentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "20.20.120.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.belgiumcentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "20.20.120.192/29",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.belgiumcentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "20.33.113.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.belgiumcentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "20.38.49.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.belgiumcentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "20.143.96.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.belgiumcentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "20.152.60.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.belgiumcentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "20.153.19.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.belgiumcentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "20.153.20.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.belgiumcentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "20.201.137.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.belgiumcentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "20.201.138.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.belgiumcentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "20.231.148.160/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.belgiumcentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "20.231.148.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.belgiumcentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "40.64.191.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.belgiumcentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "40.101.113.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.belgiumcentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "40.101.114.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.belgiumcentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "52.106.184.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.belgiumcentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "57.150.194.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.belgiumcentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "57.150.196.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.belgiumcentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "57.150.198.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.belgiumcentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "209.199.27.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.belgiumcentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "209.199.28.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.belgiumcentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "209.199.28.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.belgiumcentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "209.199.29.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.belgiumcentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "209.199.29.64/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.belgiumcentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "209.199.29.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.belgiumcentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1020:1501::/48",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.belgiumcentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1020:1502::/47",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.belgiumcentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1020:1504::/48",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.belgiumcentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1020:1505::/48",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.belgiumcentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1026:900:40::/63",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.belgiumcentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1026:900:42::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.belgiumcentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1026:3000:2c0::/59",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.belgiumcentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1027:1:260::/59",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.belgiumcentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1061:1016::/58",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.belgiumcentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1061:1016:40::/60",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.belgiumcentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1061:1016:50::/61",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.belgiumcentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1061:1016:58::/62",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.belgiumcentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1061:1311:400::/54",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.belgiumcentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1061:173f::/48",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.belgiumcentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1061:2010:3f::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.belgiumcentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1061:2011:3f::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.belgiumcentral",
+    "region": "belgiumcentral"
+  }
+]

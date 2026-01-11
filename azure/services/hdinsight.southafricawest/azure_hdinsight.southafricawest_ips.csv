@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+102.133.28.80/29,IPv4,HDInsight.SouthAfricaWest,southafricawest
+102.133.60.32/29,IPv4,HDInsight.SouthAfricaWest,southafricawest
+2603:1000:4:402::320/124,IPv6,HDInsight.SouthAfricaWest,southafricawest

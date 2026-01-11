@@ -1,0 +1,74 @@
+[
+  {
+    "ip_address": "20.90.38.16/29",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.90.38.24/30",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.90.38.52/30",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.90.38.240/29",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.139.0/26",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.142.135.216/29",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "172.186.6.136/29",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "172.186.63.64/26",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "172.186.63.128/26",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "172.186.74.0/26",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "172.187.7.224/28",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1061:2004:2900::/57",
+    "ip_type": "IPv6",
+    "service": "PowerPlatformPlex.UKWest",
+    "region": "ukwest"
+  }
+]

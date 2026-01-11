@@ -1,0 +1,92 @@
+[
+  {
+    "ip_address": "20.39.8.96/27",
+    "ip_type": "IPv4",
+    "service": "DataFactory.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "20.39.8.128/26",
+    "ip_type": "IPv4",
+    "service": "DataFactory.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "20.39.15.0/29",
+    "ip_type": "IPv4",
+    "service": "DataFactory.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "20.221.136.72/29",
+    "ip_type": "IPv4",
+    "service": "DataFactory.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "40.74.149.64/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "40.75.35.144/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "52.138.92.128/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "68.220.82.112/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "172.173.46.160/27",
+    "ip_type": "IPv4",
+    "service": "DataFactory.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "2603:1030:40b:1::480/121",
+    "ip_type": "IPv6",
+    "service": "DataFactory.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "2603:1030:40b:1::500/122",
+    "ip_type": "IPv6",
+    "service": "DataFactory.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "2603:1030:40b:400::b30/124",
+    "ip_type": "IPv6",
+    "service": "DataFactory.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "2603:1030:40b:800::210/124",
+    "ip_type": "IPv6",
+    "service": "DataFactory.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "2603:1030:40b:c00::210/124",
+    "ip_type": "IPv6",
+    "service": "DataFactory.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "2603:1030:40b:1000::e0/124",
+    "ip_type": "IPv6",
+    "service": "DataFactory.EastUS2EUAP",
+    "region": "eastus2euap"
+  }
+]

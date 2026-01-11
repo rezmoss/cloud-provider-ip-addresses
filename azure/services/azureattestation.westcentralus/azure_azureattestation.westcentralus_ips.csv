@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+20.51.53.8/29,IPv4,AzureAttestation.WestCentralUS,westcentralus
+40.67.121.196/30,IPv4,AzureAttestation.WestCentralUS,westcentralus
+52.150.157.172/30,IPv4,AzureAttestation.WestCentralUS,westcentralus

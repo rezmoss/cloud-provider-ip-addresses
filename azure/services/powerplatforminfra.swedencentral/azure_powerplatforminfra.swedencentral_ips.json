@@ -1,0 +1,80 @@
+[
+  {
+    "ip_address": "4.225.8.119/32",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "4.225.59.193/32",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "20.91.152.86/31",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "20.91.155.140/30",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "20.91.155.152/29",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "20.91.155.160/28",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "20.91.155.176/29",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "20.91.159.128/26",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "20.240.28.95/32",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "20.240.174.0/30",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "74.241.227.192/26",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "74.241.228.0/25",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "2603:1061:2002:7800::/57",
+    "ip_type": "IPv6",
+    "service": "PowerPlatformInfra.SwedenCentral",
+    "region": "swedencentral"
+  }
+]

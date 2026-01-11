@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "20.17.28.8/29",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.MalaysiaSouth",
+    "region": "malaysiasouth"
+  },
+  {
+    "ip_address": "20.17.28.80/31",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.MalaysiaSouth",
+    "region": "malaysiasouth"
+  },
+  {
+    "ip_address": "2603:1040:1503:5::350/124",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.MalaysiaSouth",
+    "region": "malaysiasouth"
+  }
+]

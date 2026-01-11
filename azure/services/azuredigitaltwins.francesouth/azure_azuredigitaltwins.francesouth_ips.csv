@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+52.136.184.80/29,IPv4,AzureDigitalTwins.FranceSouth,southfrance
+52.136.184.96/27,IPv4,AzureDigitalTwins.FranceSouth,southfrance
+2603:1020:905:2::780/121,IPv6,AzureDigitalTwins.FranceSouth,southfrance

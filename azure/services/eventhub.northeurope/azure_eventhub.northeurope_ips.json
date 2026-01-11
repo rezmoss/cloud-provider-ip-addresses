@@ -1,0 +1,92 @@
+[
+  {
+    "ip_address": "13.69.227.0/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "13.69.239.0/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "13.74.107.0/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "20.50.72.64/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "20.50.80.64/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "20.82.245.0/24",
+    "ip_type": "IPv4",
+    "service": "EventHub.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "51.104.165.162/32",
+    "ip_type": "IPv4",
+    "service": "EventHub.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "52.138.226.0/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "134.149.88.0/23",
+    "ip_type": "IPv4",
+    "service": "EventHub.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "2603:1020:5:1::240/122",
+    "ip_type": "IPv6",
+    "service": "EventHub.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "2603:1020:5:9::/119",
+    "ip_type": "IPv6",
+    "service": "EventHub.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "2603:1020:5:402::1c0/123",
+    "ip_type": "IPv6",
+    "service": "EventHub.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "2603:1020:5:802::160/123",
+    "ip_type": "IPv6",
+    "service": "EventHub.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "2603:1020:5:c02::160/123",
+    "ip_type": "IPv6",
+    "service": "EventHub.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "2603:10e1:100:2::3368:a5a2/128",
+    "ip_type": "IPv6",
+    "service": "EventHub.NorthEurope",
+    "region": "northeurope"
+  }
+]

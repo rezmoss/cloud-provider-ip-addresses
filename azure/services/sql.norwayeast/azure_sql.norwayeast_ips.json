@@ -1,0 +1,146 @@
+[
+  {
+    "ip_address": "20.100.19.0/25",
+    "ip_type": "IPv4",
+    "service": "Sql.NorwayEast",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "51.120.96.0/27",
+    "ip_type": "IPv4",
+    "service": "Sql.NorwayEast",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "51.120.96.32/29",
+    "ip_type": "IPv4",
+    "service": "Sql.NorwayEast",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "51.120.97.0/27",
+    "ip_type": "IPv4",
+    "service": "Sql.NorwayEast",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "51.120.104.0/27",
+    "ip_type": "IPv4",
+    "service": "Sql.NorwayEast",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "51.120.104.32/29",
+    "ip_type": "IPv4",
+    "service": "Sql.NorwayEast",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "51.120.105.0/27",
+    "ip_type": "IPv4",
+    "service": "Sql.NorwayEast",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "51.120.208.0/27",
+    "ip_type": "IPv4",
+    "service": "Sql.NorwayEast",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "51.120.208.32/29",
+    "ip_type": "IPv4",
+    "service": "Sql.NorwayEast",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "51.120.209.0/27",
+    "ip_type": "IPv4",
+    "service": "Sql.NorwayEast",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "51.120.232.192/26",
+    "ip_type": "IPv4",
+    "service": "Sql.NorwayEast",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "51.120.233.0/26",
+    "ip_type": "IPv4",
+    "service": "Sql.NorwayEast",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "131.163.107.216/30",
+    "ip_type": "IPv4",
+    "service": "Sql.NorwayEast",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "131.163.108.160/27",
+    "ip_type": "IPv4",
+    "service": "Sql.NorwayEast",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "131.163.108.192/26",
+    "ip_type": "IPv4",
+    "service": "Sql.NorwayEast",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "2603:1020:e04::320/123",
+    "ip_type": "IPv6",
+    "service": "Sql.NorwayEast",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "2603:1020:e04::380/121",
+    "ip_type": "IPv6",
+    "service": "Sql.NorwayEast",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "2603:1020:e04:4::500/121",
+    "ip_type": "IPv6",
+    "service": "Sql.NorwayEast",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "2603:1020:e04:400::/123",
+    "ip_type": "IPv6",
+    "service": "Sql.NorwayEast",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "2603:1020:e04:401::/123",
+    "ip_type": "IPv6",
+    "service": "Sql.NorwayEast",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "2603:1020:e04:800::/123",
+    "ip_type": "IPv6",
+    "service": "Sql.NorwayEast",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "2603:1020:e04:801::/123",
+    "ip_type": "IPv6",
+    "service": "Sql.NorwayEast",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "2603:1020:e04:c00::/123",
+    "ip_type": "IPv6",
+    "service": "Sql.NorwayEast",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "2603:1020:e04:c01::/123",
+    "ip_type": "IPv6",
+    "service": "Sql.NorwayEast",
+    "region": "norwaye"
+  }
+]

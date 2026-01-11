@@ -1,0 +1,44 @@
+[
+  {
+    "ip_address": "20.99.11.4/30",
+    "ip_type": "IPv4",
+    "service": "PowerBI.EastUSSTG",
+    "region": "usstagee"
+  },
+  {
+    "ip_address": "20.99.11.8/29",
+    "ip_type": "IPv4",
+    "service": "PowerBI.EastUSSTG",
+    "region": "usstagee"
+  },
+  {
+    "ip_address": "40.67.50.246/31",
+    "ip_type": "IPv4",
+    "service": "PowerBI.EastUSSTG",
+    "region": "usstagee"
+  },
+  {
+    "ip_address": "2603:1030:104::/122",
+    "ip_type": "IPv6",
+    "service": "PowerBI.EastUSSTG",
+    "region": "usstagee"
+  },
+  {
+    "ip_address": "2603:1030:104::40/123",
+    "ip_type": "IPv6",
+    "service": "PowerBI.EastUSSTG",
+    "region": "usstagee"
+  },
+  {
+    "ip_address": "2603:1030:104:1::5e0/123",
+    "ip_type": "IPv6",
+    "service": "PowerBI.EastUSSTG",
+    "region": "usstagee"
+  },
+  {
+    "ip_address": "2603:1030:104:1::600/122",
+    "ip_type": "IPv6",
+    "service": "PowerBI.EastUSSTG",
+    "region": "usstagee"
+  }
+]

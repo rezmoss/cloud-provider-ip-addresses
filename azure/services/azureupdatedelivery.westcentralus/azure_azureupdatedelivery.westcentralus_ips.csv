@@ -1,0 +1,3 @@
+ip_address,ip_type,service,region
+20.165.191.133/32,IPv4,AzureUpdateDelivery.WestCentralUS,westcentralus
+20.165.241.177/32,IPv4,AzureUpdateDelivery.WestCentralUS,westcentralus

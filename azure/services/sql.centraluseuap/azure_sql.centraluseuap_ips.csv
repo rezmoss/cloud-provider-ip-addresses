@@ -1,0 +1,16 @@
+ip_address,ip_type,service,region
+20.46.11.32/27,IPv4,Sql.CentralUSEUAP,centraluseuap
+20.46.11.64/27,IPv4,Sql.CentralUSEUAP,centraluseuap
+20.46.11.128/26,IPv4,Sql.CentralUSEUAP,centraluseuap
+20.228.5.128/25,IPv4,Sql.CentralUSEUAP,centraluseuap
+40.78.200.128/29,IPv4,Sql.CentralUSEUAP,centraluseuap
+40.78.201.128/29,IPv4,Sql.CentralUSEUAP,centraluseuap
+52.180.176.154/32,IPv4,Sql.CentralUSEUAP,centraluseuap
+52.180.183.226/32,IPv4,Sql.CentralUSEUAP,centraluseuap
+168.61.136.0/27,IPv4,Sql.CentralUSEUAP,centraluseuap
+168.61.137.0/27,IPv4,Sql.CentralUSEUAP,centraluseuap
+2603:1030:f:1::280/123,IPv6,Sql.CentralUSEUAP,centraluseuap
+2603:1030:f:2::200/121,IPv6,Sql.CentralUSEUAP,centraluseuap
+2603:1030:f:8::80/121,IPv6,Sql.CentralUSEUAP,centraluseuap
+2603:1030:f:402::/122,IPv6,Sql.CentralUSEUAP,centraluseuap
+2603:1030:f:403::/122,IPv6,Sql.CentralUSEUAP,centraluseuap

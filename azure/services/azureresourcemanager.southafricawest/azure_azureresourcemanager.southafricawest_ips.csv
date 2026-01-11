@@ -1,0 +1,6 @@
+ip_address,ip_type,service,region
+102.133.28.16/28,IPv4,AzureResourceManager.SouthAfricaWest,southafricawest
+102.133.30.0/23,IPv4,AzureResourceManager.SouthAfricaWest,southafricawest
+102.133.62.0/23,IPv4,AzureResourceManager.SouthAfricaWest,southafricawest
+2603:1000:4::6c0/122,IPv6,AzureResourceManager.SouthAfricaWest,southafricawest
+2603:1000:4:402::280/122,IPv6,AzureResourceManager.SouthAfricaWest,southafricawest

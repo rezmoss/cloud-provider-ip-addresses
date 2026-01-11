@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "40.74.28.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureDevOps.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "2603:1020:206:20::600/119",
+    "ip_type": "IPv6",
+    "service": "AzureDevOps.WestEurope",
+    "region": "westeurope"
+  }
+]

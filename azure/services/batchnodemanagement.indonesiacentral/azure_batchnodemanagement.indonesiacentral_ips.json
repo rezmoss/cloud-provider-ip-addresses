@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "70.153.153.64/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.IndonesiaCentral",
+    "region": "indonesiacentral"
+  },
+  {
+    "ip_address": "2603:1040:1802::/122",
+    "ip_type": "IPv6",
+    "service": "BatchNodeManagement.IndonesiaCentral",
+    "region": "indonesiacentral"
+  }
+]

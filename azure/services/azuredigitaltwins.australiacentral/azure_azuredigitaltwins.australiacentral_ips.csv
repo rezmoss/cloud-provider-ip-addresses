@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+20.53.48.0/27,IPv4,AzureDigitalTwins.AustraliaCentral,australiacentral
+20.53.48.32/29,IPv4,AzureDigitalTwins.AustraliaCentral,australiacentral
+2603:1010:304:2::700/121,IPv6,AzureDigitalTwins.AustraliaCentral,australiacentral

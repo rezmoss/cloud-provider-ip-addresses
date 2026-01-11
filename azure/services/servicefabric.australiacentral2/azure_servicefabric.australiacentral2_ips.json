@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "20.36.72.79/32",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.AustraliaCentral2",
+    "region": "australiacentral2"
+  },
+  {
+    "ip_address": "20.36.114.192/29",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.AustraliaCentral2",
+    "region": "australiacentral2"
+  },
+  {
+    "ip_address": "2603:1010:404:402::98/125",
+    "ip_type": "IPv6",
+    "service": "ServiceFabric.AustraliaCentral2",
+    "region": "australiacentral2"
+  }
+]

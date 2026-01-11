@@ -1,0 +1,15 @@
+ip_address,ip_type,service,region
+4.202.249.56/29,IPv4,PowerPlatformPlex.BrazilSouth,brazilsouth
+4.202.253.32/28,IPv4,PowerPlatformPlex.BrazilSouth,brazilsouth
+4.202.253.48/29,IPv4,PowerPlatformPlex.BrazilSouth,brazilsouth
+4.203.121.64/29,IPv4,PowerPlatformPlex.BrazilSouth,brazilsouth
+4.228.18.112/28,IPv4,PowerPlatformPlex.BrazilSouth,brazilsouth
+20.206.178.56/29,IPv4,PowerPlatformPlex.BrazilSouth,brazilsouth
+20.206.178.96/30,IPv4,PowerPlatformPlex.BrazilSouth,brazilsouth
+20.206.178.164/30,IPv4,PowerPlatformPlex.BrazilSouth,brazilsouth
+20.206.179.128/29,IPv4,PowerPlatformPlex.BrazilSouth,brazilsouth
+20.206.179.136/30,IPv4,PowerPlatformPlex.BrazilSouth,brazilsouth
+74.163.253.0/24,IPv4,PowerPlatformPlex.BrazilSouth,brazilsouth
+191.234.130.0/26,IPv4,PowerPlatformPlex.BrazilSouth,brazilsouth
+191.238.78.84/30,IPv4,PowerPlatformPlex.BrazilSouth,brazilsouth
+2603:1061:2004:100::/57,IPv6,PowerPlatformPlex.BrazilSouth,brazilsouth

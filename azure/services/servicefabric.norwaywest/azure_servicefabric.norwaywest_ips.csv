@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+51.120.164.23/32,IPv4,ServiceFabric.NorwayWest,norwayw
+51.120.219.72/29,IPv4,ServiceFabric.NorwayWest,norwayw
+2603:1020:f04:402::98/125,IPv6,ServiceFabric.NorwayWest,norwayw

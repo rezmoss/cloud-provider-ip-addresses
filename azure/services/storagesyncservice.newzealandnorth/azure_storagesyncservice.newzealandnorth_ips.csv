@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+172.204.177.56/29,IPv4,StorageSyncService.NewZealandNorth,newzealandnorth
+172.204.242.200/29,IPv4,StorageSyncService.NewZealandNorth,newzealandnorth
+2603:1010:502:400::180/123,IPv6,StorageSyncService.NewZealandNorth,newzealandnorth

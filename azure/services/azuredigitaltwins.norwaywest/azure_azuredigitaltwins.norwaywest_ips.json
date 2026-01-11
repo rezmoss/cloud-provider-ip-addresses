@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "51.13.136.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.13.136.160/29",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04:3::780/121",
+    "ip_type": "IPv6",
+    "service": "AzureDigitalTwins.NorwayWest",
+    "region": "norwayw"
+  }
+]

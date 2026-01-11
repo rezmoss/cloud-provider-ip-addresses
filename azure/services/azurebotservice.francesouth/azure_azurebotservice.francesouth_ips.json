@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "40.79.180.24/30",
+    "ip_type": "IPv4",
+    "service": "AzureBotService.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "51.105.88.64/30",
+    "ip_type": "IPv4",
+    "service": "AzureBotService.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "2603:1020:905::20/123",
+    "ip_type": "IPv6",
+    "service": "AzureBotService.FranceSouth",
+    "region": "southfrance"
+  }
+]

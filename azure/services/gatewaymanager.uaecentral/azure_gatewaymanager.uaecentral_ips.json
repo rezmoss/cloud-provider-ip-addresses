@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "20.37.64.72/29",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.UAECentral",
+    "region": "uaecentral"
+  },
+  {
+    "ip_address": "20.37.74.88/29",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.UAECentral",
+    "region": "uaecentral"
+  },
+  {
+    "ip_address": "20.45.95.128/27",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.UAECentral",
+    "region": "uaecentral"
+  },
+  {
+    "ip_address": "2603:1040:b04::40/122",
+    "ip_type": "IPv6",
+    "service": "GatewayManager.UAECentral",
+    "region": "uaecentral"
+  }
+]

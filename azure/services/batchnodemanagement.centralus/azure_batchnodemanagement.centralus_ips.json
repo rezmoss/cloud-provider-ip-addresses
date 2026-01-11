@@ -1,0 +1,104 @@
+[
+  {
+    "ip_address": "13.67.190.3/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "13.67.237.249/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "13.89.55.147/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "13.89.171.224/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "20.40.200.32/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "23.99.195.236/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "40.77.18.99/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "40.122.166.234/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "52.165.44.224/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "52.182.139.0/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "104.43.128.78/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "104.43.131.156/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "104.43.132.75/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "104.208.16.128/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "168.61.161.154/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "168.61.209.228/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "2603:1030:10:1::340/122",
+    "ip_type": "IPv6",
+    "service": "BatchNodeManagement.CentralUS",
+    "region": "centralus"
+  }
+]

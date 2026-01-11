@@ -1,0 +1,8 @@
+ip_address,ip_type,service,region
+13.73.249.32/27,IPv4,AzurePortal.SouthCentralUS,southcentralus
+13.73.249.160/28,IPv4,AzurePortal.SouthCentralUS,southcentralus
+13.73.255.248/29,IPv4,AzurePortal.SouthCentralUS,southcentralus
+20.45.125.240/28,IPv4,AzurePortal.SouthCentralUS,southcentralus
+40.119.9.236/30,IPv4,AzurePortal.SouthCentralUS,southcentralus
+2603:1030:807::100/121,IPv6,AzurePortal.SouthCentralUS,southcentralus
+2603:1030:807:1::680/121,IPv6,AzurePortal.SouthCentralUS,southcentralus

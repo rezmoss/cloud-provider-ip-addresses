@@ -1,0 +1,56 @@
+[
+  {
+    "ip_address": "20.192.166.192/27",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "20.193.202.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "20.244.192.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "20.244.193.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "40.64.15.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "2603:1040:d04:1::60/123",
+    "ip_type": "IPv6",
+    "service": "AzureCosmosDB.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "2603:1040:d04:400::c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureCosmosDB.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "2603:1040:d04:400::280/122",
+    "ip_type": "IPv6",
+    "service": "AzureCosmosDB.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "2603:1040:d04:400::3c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureCosmosDB.JioIndiaWest",
+    "region": "jioindiawest"
+  }
+]

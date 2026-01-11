@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "134.138.76.120/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.EastUS3",
+    "region": "eastus3"
+  },
+  {
+    "ip_address": "134.138.88.84/32",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.EastUS3",
+    "region": "eastus3"
+  },
+  {
+    "ip_address": "134.138.99.12/32",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.EastUS3",
+    "region": "eastus3"
+  },
+  {
+    "ip_address": "2603:1030:1402:2::240/124",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.EastUS3",
+    "region": "eastus3"
+  }
+]

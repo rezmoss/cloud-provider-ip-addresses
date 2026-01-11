@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+134.138.68.152/29,IPv4,AzureDigitalTwins.EastUS3,eastus3
+134.138.70.32/27,IPv4,AzureDigitalTwins.EastUS3,eastus3
+2603:1030:1402::780/121,IPv6,AzureDigitalTwins.EastUS3,eastus3

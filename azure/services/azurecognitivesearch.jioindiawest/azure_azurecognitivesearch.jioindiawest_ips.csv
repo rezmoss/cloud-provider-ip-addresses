@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+20.192.161.0/26,IPv4,AzureCognitiveSearch.JioIndiaWest,jioindiawest
+40.64.8.64/26,IPv4,AzureCognitiveSearch.JioIndiaWest,jioindiawest
+2603:1040:d04::180/121,IPv6,AzureCognitiveSearch.JioIndiaWest,jioindiawest

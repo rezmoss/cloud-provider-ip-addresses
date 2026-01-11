@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+51.116.48.224/27,IPv4,BatchNodeManagement.GermanyNorth,germanyn
+51.116.59.224/27,IPv4,BatchNodeManagement.GermanyNorth,germanyn
+2603:1020:d04::400/122,IPv6,BatchNodeManagement.GermanyNorth,germanyn

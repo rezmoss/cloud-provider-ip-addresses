@@ -1,0 +1,38 @@
+[
+  {
+    "ip_address": "40.79.178.32/27",
+    "ip_type": "IPv4",
+    "service": "EventHub.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "51.138.161.128/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "52.136.188.0/24",
+    "ip_type": "IPv4",
+    "service": "EventHub.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "2603:1020:905::240/122",
+    "ip_type": "IPv6",
+    "service": "EventHub.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "2603:1020:905:2::/120",
+    "ip_type": "IPv6",
+    "service": "EventHub.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "2603:1020:905:402::1c0/123",
+    "ip_type": "IPv6",
+    "service": "EventHub.FranceSouth",
+    "region": "southfrance"
+  }
+]

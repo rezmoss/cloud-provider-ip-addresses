@@ -1,0 +1,3 @@
+ip_address,ip_type,service,region
+9.160.80.24/30,IPv4,ActionGroup.BelgiumCentral,belgiumcentral
+2603:1020:1502:400::40/125,IPv6,ActionGroup.BelgiumCentral,belgiumcentral

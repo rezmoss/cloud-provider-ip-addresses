@@ -1,0 +1,38 @@
+[
+  {
+    "ip_address": "4.216.205.160/29",
+    "ip_type": "IPv4",
+    "service": "HDInsight.JapanEast",
+    "region": "japaneast"
+  },
+  {
+    "ip_address": "13.78.89.60/32",
+    "ip_type": "IPv4",
+    "service": "HDInsight.JapanEast",
+    "region": "japaneast"
+  },
+  {
+    "ip_address": "13.78.125.90/32",
+    "ip_type": "IPv4",
+    "service": "HDInsight.JapanEast",
+    "region": "japaneast"
+  },
+  {
+    "ip_address": "20.191.160.0/29",
+    "ip_type": "IPv4",
+    "service": "HDInsight.JapanEast",
+    "region": "japaneast"
+  },
+  {
+    "ip_address": "40.79.187.0/29",
+    "ip_type": "IPv4",
+    "service": "HDInsight.JapanEast",
+    "region": "japaneast"
+  },
+  {
+    "ip_address": "2603:1040:407:402::320/124",
+    "ip_type": "IPv6",
+    "service": "HDInsight.JapanEast",
+    "region": "japaneast"
+  }
+]

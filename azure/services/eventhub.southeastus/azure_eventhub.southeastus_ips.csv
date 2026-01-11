@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+57.151.213.0/24,IPv4,EventHub.SoutheastUS,southeastus
+68.154.136.128/26,IPv4,EventHub.SoutheastUS,southeastus
+2603:1030:902:1::/120,IPv6,EventHub.SoutheastUS,southeastus

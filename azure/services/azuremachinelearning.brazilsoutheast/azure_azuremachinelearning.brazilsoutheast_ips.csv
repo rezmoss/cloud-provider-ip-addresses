@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+108.140.0.224/28,IPv4,AzureMachineLearning.BrazilSoutheast,brazilse
+191.233.8.48/28,IPv4,AzureMachineLearning.BrazilSoutheast,brazilse
+2603:1050:403::2c0/122,IPv6,AzureMachineLearning.BrazilSoutheast,brazilse

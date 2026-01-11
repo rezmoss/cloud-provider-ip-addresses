@@ -1,0 +1,50 @@
+[
+  {
+    "ip_address": "68.210.152.16/29",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.AustriaEast",
+    "region": "austriaeast"
+  },
+  {
+    "ip_address": "68.210.152.32/28",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.AustriaEast",
+    "region": "austriaeast"
+  },
+  {
+    "ip_address": "68.210.166.0/25",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.AustriaEast",
+    "region": "austriaeast"
+  },
+  {
+    "ip_address": "68.210.192.16/29",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.AustriaEast",
+    "region": "austriaeast"
+  },
+  {
+    "ip_address": "68.210.192.32/28",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.AustriaEast",
+    "region": "austriaeast"
+  },
+  {
+    "ip_address": "68.210.208.16/29",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.AustriaEast",
+    "region": "austriaeast"
+  },
+  {
+    "ip_address": "68.210.208.32/28",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.AustriaEast",
+    "region": "austriaeast"
+  },
+  {
+    "ip_address": "2603:1020:104:4::580/121",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.AustriaEast",
+    "region": "austriaeast"
+  }
+]

@@ -1,0 +1,6 @@
+ip_address,ip_type,service,region
+20.192.225.34/31,IPv4,PowerBI.JioIndiaCentral,jioindiacentral
+20.192.225.36/30,IPv4,PowerBI.JioIndiaCentral,jioindiacentral
+20.192.225.192/29,IPv4,PowerBI.JioIndiaCentral,jioindiacentral
+2603:1040:1104::6a0/123,IPv6,PowerBI.JioIndiaCentral,jioindiacentral
+2603:1040:1104::6c0/122,IPv6,PowerBI.JioIndiaCentral,jioindiacentral

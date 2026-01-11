@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "20.82.247.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureSignalR.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "52.146.136.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureSignalR.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "2603:1020:5:4::/120",
+    "ip_type": "IPv6",
+    "service": "AzureSignalR.NorthEurope",
+    "region": "northeurope"
+  }
+]

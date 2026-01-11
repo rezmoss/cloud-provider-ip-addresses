@@ -1,0 +1,12 @@
+ip_address,ip_type,service,region
+20.117.192.204/30,IPv4,PowerPlatformPlex.UKSouth,uksouth
+20.117.192.224/29,IPv4,PowerPlatformPlex.UKSouth,uksouth
+20.117.193.60/30,IPv4,PowerPlatformPlex.UKSouth,uksouth
+20.117.193.176/29,IPv4,PowerPlatformPlex.UKSouth,uksouth
+51.11.26.192/26,IPv4,PowerPlatformPlex.UKSouth,uksouth
+131.145.145.0/25,IPv4,PowerPlatformPlex.UKSouth,uksouth
+131.145.145.128/26,IPv4,PowerPlatformPlex.UKSouth,uksouth
+172.187.67.56/29,IPv4,PowerPlatformPlex.UKSouth,uksouth
+172.187.71.32/28,IPv4,PowerPlatformPlex.UKSouth,uksouth
+172.187.101.176/29,IPv4,PowerPlatformPlex.UKSouth,uksouth
+2603:1061:2004:2800::/57,IPv6,PowerPlatformPlex.UKSouth,uksouth

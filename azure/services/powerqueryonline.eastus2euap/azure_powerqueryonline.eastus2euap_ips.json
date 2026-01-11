@@ -1,0 +1,74 @@
+[
+  {
+    "ip_address": "20.39.11.24/31",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "20.47.216.206/31",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "20.47.237.98/31",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "20.47.237.104/29",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "40.89.122.192/31",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "68.220.127.152/29",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "68.220.127.192/28",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "172.173.0.50/31",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "2603:1030:40b:1::200/123",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "2603:1030:40b:400::960/125",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "2603:1030:40b:800::140/125",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "2603:1030:40b:c00::140/125",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.EastUS2EUAP",
+    "region": "eastus2euap"
+  }
+]

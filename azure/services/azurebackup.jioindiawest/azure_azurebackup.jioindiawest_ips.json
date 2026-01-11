@@ -1,0 +1,44 @@
+[
+  {
+    "ip_address": "20.193.192.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "20.193.203.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "20.193.203.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "2603:1040:d04:1::780/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "2603:1040:d04:400::100/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "2603:1040:d04:400::300/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "2603:1040:d04:c02::200/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.JioIndiaWest",
+    "region": "jioindiawest"
+  }
+]

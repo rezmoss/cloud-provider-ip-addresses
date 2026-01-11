@@ -1,0 +1,986 @@
+[
+  {
+    "ip_address": "68.154.136.24/30",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1030:902:400::40/125",
+    "ip_type": "IPv6",
+    "service": "ActionGroup.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "57.151.210.240/28",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1030:902::5a0/124",
+    "ip_type": "IPv6",
+    "service": "ApiManagement.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "57.151.217.0/24",
+    "ip_type": "IPv4",
+    "service": "AppService.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1030:902:1::700/120",
+    "ip_type": "IPv6",
+    "service": "AppService.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "57.151.221.128/26",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1030:902:2::2c0/122",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "57.151.220.212/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "68.154.136.52/32",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "68.154.147.29/32",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1030:902:2::280/124",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "57.151.208.20/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1030:902::5c0/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "57.151.212.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "57.151.228.64/28",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1030:902::680/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "57.151.208.16/30",
+    "ip_type": "IPv4",
+    "service": "AzureBotService.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1030:902::20/123",
+    "ip_type": "IPv6",
+    "service": "AzureBotService.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "57.151.208.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureCognitiveSearch.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1030:902::100/121",
+    "ip_type": "IPv6",
+    "service": "AzureCognitiveSearch.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "57.151.220.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1030:902:2::40/122",
+    "ip_type": "IPv6",
+    "service": "AzureConnectors.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "57.151.210.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "68.154.136.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "68.154.137.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "68.154.145.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1030:902::560/125",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1030:902:4::180/121",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1030:902:4::660/123",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1030:902:4::700/124",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1030:902:4::710/125",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1030:902:400::8/125",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1030:902:400::100/121",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "57.151.210.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "57.151.228.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1030:902::1e0/123",
+    "ip_type": "IPv6",
+    "service": "AzureCosmosDB.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "57.151.214.208/28",
+    "ip_type": "IPv4",
+    "service": "AzureDataExplorerManagement.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1030:902:1::240/123",
+    "ip_type": "IPv6",
+    "service": "AzureDataExplorerManagement.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "57.151.212.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "57.151.226.176/29",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1030:902::380/121",
+    "ip_type": "IPv6",
+    "service": "AzureDigitalTwins.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "57.151.209.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1030:902::280/121",
+    "ip_type": "IPv6",
+    "service": "AzureEventGrid.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "57.151.213.0/24",
+    "ip_type": "IPv4",
+    "service": "EventHub.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "68.154.136.128/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1030:902:1::/120",
+    "ip_type": "IPv6",
+    "service": "EventHub.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "68.154.137.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1030:902:400::80/123",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "57.151.214.204/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "57.151.228.168/29",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "68.154.140.184/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1030:902:1::228/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1030:902:400::50/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "57.151.209.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1030:902::200/122",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "57.151.220.226/31",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "57.151.222.192/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "57.151.222.200/30",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "57.151.222.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "57.151.223.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "57.151.228.160/30",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "68.154.137.88/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "68.154.140.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "68.154.151.96/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "68.154.151.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1030:902:2::460/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1030:902:2::540/122",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1030:902:2::600/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1030:902:2::680/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1030:902:2::700/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "57.151.221.224/27",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "57.151.228.84/30",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1030:902:2::580/121",
+    "ip_type": "IPv6",
+    "service": "AzurePortal.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "57.151.218.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1030:902:1::400/120",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "57.151.223.64/27",
+    "ip_type": "IPv4",
+    "service": "Sql.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "57.151.223.128/26",
+    "ip_type": "IPv4",
+    "service": "Sql.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "57.151.228.192/27",
+    "ip_type": "IPv4",
+    "service": "Sql.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "68.154.137.32/27",
+    "ip_type": "IPv4",
+    "service": "Sql.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "68.154.137.64/29",
+    "ip_type": "IPv4",
+    "service": "Sql.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1030:902:2::640/123",
+    "ip_type": "IPv6",
+    "service": "Sql.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1030:902:2::780/121",
+    "ip_type": "IPv6",
+    "service": "Sql.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "57.151.214.0/25",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "68.154.136.16/29",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "68.154.136.32/28",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1030:902::780/121",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "20.33.215.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "20.153.26.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "57.150.23.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "57.150.24.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "57.150.93.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1030:903::/48",
+    "ip_type": "IPv6",
+    "service": "Storage.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "57.151.209.64/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1030:902::300/122",
+    "ip_type": "IPv6",
+    "service": "BatchNodeManagement.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "57.151.224.0/23",
+    "ip_type": "IPv4",
+    "service": "DataFactory.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "68.154.137.112/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1030:902:2::380/121",
+    "ip_type": "IPv6",
+    "service": "DataFactory.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1030:902:400::f0/124",
+    "ip_type": "IPv6",
+    "service": "DataFactory.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "57.151.208.64/26",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1030:902::40/122",
+    "ip_type": "IPv6",
+    "service": "GatewayManager.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "57.151.216.24/29",
+    "ip_type": "IPv4",
+    "service": "HDInsight.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1030:902:1::2e0/124",
+    "ip_type": "IPv6",
+    "service": "HDInsight.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "57.151.229.0/28",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "57.151.229.32/27",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "68.154.140.64/28",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "68.154.140.96/27",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1030:902:3::110/124",
+    "ip_type": "IPv6",
+    "service": "LogicApps.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1030:902:3::1c0/123",
+    "ip_type": "IPv6",
+    "service": "LogicApps.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1030:902:400::360/124",
+    "ip_type": "IPv6",
+    "service": "LogicApps.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1030:902:400::380/123",
+    "ip_type": "IPv6",
+    "service": "LogicApps.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "68.154.136.0/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1030:902:400::/125",
+    "ip_type": "IPv6",
+    "service": "MicrosoftContainerRegistry.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "57.151.220.224/31",
+    "ip_type": "IPv4",
+    "service": "PowerBI.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "57.151.220.228/30",
+    "ip_type": "IPv4",
+    "service": "PowerBI.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "57.151.220.232/29",
+    "ip_type": "IPv4",
+    "service": "PowerBI.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1030:902:2::400/122",
+    "ip_type": "IPv6",
+    "service": "PowerBI.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1030:902:2::440/123",
+    "ip_type": "IPv6",
+    "service": "PowerBI.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "57.151.208.40/29",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1030:902::1c0/123",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "68.154.136.12/30",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1030:902:400::18/125",
+    "ip_type": "IPv6",
+    "service": "ServiceFabric.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "68.154.136.56/29",
+    "ip_type": "IPv4",
+    "service": "StorageSyncService.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "68.154.144.128/29",
+    "ip_type": "IPv4",
+    "service": "StorageSyncService.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1030:902:4::60/123",
+    "ip_type": "IPv6",
+    "service": "StorageSyncService.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1030:902:400::c0/123",
+    "ip_type": "IPv6",
+    "service": "StorageSyncService.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "13.105.31.112/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastus",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "20.20.48.96/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastus",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "20.20.48.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastus",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "20.20.51.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastus",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "20.20.68.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastus",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "20.20.68.64/29",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastus",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "20.20.68.72/31",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastus",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "20.33.65.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastus",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "20.33.215.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastus",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "20.38.28.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastus",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "20.152.26.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastus",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "20.153.26.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastus",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "20.201.164.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastus",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "20.231.136.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastus",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "20.231.144.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastus",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "20.231.147.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastus",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "52.106.121.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastus",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "57.150.23.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastus",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "57.150.24.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastus",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "57.150.93.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastus",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "57.151.160.0/19",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastus",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "57.151.192.0/18",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastus",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "68.154.128.0/17",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastus",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "209.199.22.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastus",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1030:901::/48",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.southeastus",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1030:902::/47",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.southeastus",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1030:904::/48",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.southeastus",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1030:905::/48",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.southeastus",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1036:3000:200::/59",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.southeastus",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1037:1:240::/59",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.southeastus",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1061:1011::/60",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.southeastus",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1061:1011:10::/61",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.southeastus",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1061:1011:18::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.southeastus",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1061:1011:1c::/62",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.southeastus",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1061:1312:5400::/54",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.southeastus",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1061:1746::/62",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.southeastus",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1061:2011:46::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.southeastus",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1063:2200:34::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.southeastus",
+    "region": "southeastus"
+  }
+]

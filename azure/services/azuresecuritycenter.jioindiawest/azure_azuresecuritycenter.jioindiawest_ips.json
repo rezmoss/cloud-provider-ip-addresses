@@ -1,0 +1,38 @@
+[
+  {
+    "ip_address": "20.193.206.160/27",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "135.235.4.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "135.235.5.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "135.235.6.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "135.235.24.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "135.235.28.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.JioIndiaWest",
+    "region": "jioindiawest"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "ip_address": "20.208.18.72/30",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "51.103.202.72/30",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "51.107.59.40/29",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "51.107.76.20/32",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "2603:1020:a04:402::98/125",
+    "ip_type": "IPv6",
+    "service": "ServiceFabric.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "2603:1020:a04:802::98/125",
+    "ip_type": "IPv6",
+    "service": "ServiceFabric.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "2603:1020:a04:c02::98/125",
+    "ip_type": "IPv6",
+    "service": "ServiceFabric.SwitzerlandNorth",
+    "region": "switzerlandn"
+  }
+]

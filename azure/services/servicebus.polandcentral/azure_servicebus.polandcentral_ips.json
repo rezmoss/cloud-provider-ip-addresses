@@ -1,0 +1,56 @@
+[
+  {
+    "ip_address": "20.215.6.0/25",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "20.215.18.80/29",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "20.215.18.96/28",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "20.215.26.80/29",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "20.215.26.96/28",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "20.215.78.128/26",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "20.215.154.80/29",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "20.215.154.96/28",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "2603:1020:1302::780/121",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.PolandCentral",
+    "region": "polandcentral"
+  }
+]

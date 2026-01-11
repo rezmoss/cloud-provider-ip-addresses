@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "191.233.50.24/29",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "2603:1050:403:400::140/125",
+    "ip_type": "IPv6",
+    "service": "ServiceFabric.BrazilSoutheast",
+    "region": "brazilse"
+  }
+]

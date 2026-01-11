@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "51.53.52.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureSignalR.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:3::5c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureSignalR.TaiwanNorth",
+    "region": "taiwannorth"
+  }
+]

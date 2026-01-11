@@ -1,0 +1,32 @@
+[
+  {
+    "ip_address": "20.36.122.52/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.AustraliaCentral2",
+    "region": "australiacentral2"
+  },
+  {
+    "ip_address": "20.167.131.114/31",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.AustraliaCentral2",
+    "region": "australiacentral2"
+  },
+  {
+    "ip_address": "20.167.131.120/29",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.AustraliaCentral2",
+    "region": "australiacentral2"
+  },
+  {
+    "ip_address": "20.193.96.16/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.AustraliaCentral2",
+    "region": "australiacentral2"
+  },
+  {
+    "ip_address": "2603:1010:404:5::4d0/124",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.AustraliaCentral2",
+    "region": "australiacentral2"
+  }
+]

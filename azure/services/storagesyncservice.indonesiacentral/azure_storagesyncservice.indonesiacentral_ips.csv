@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+70.153.88.232/29,IPv4,StorageSyncService.IndonesiaCentral,indonesiacentral
+70.153.176.56/29,IPv4,StorageSyncService.IndonesiaCentral,indonesiacentral
+2603:1040:1802:5::160/123,IPv6,StorageSyncService.IndonesiaCentral,indonesiacentral
+2603:1040:1802:400::c0/123,IPv6,StorageSyncService.IndonesiaCentral,indonesiacentral

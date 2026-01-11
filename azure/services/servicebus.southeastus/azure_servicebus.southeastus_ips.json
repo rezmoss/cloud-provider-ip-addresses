@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "57.151.214.0/25",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "68.154.136.16/29",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "68.154.136.32/28",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1030:902::780/121",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.SoutheastUS",
+    "region": "southeastus"
+  }
+]
