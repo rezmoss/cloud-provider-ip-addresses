@@ -1728,6 +1728,12 @@
     "region": "ap-south-1"
   },
   {
+    "ip_address": "35.97.16.0/20",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "GLOBAL"
+  },
+  {
     "ip_address": "35.176.0.0/15",
     "ip_type": "IPv4",
     "service": "EC2",

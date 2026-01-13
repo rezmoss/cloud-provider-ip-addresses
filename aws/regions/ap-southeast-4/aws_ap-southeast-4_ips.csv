@@ -73,6 +73,7 @@ ip_address,ip_type,service,region
 16.50.67.128/26,IPv4,ROUTE53_RESOLVER,ap-southeast-4
 16.50.67.64/26,IPv4,ROUTE53_RESOLVER,ap-southeast-4
 16.50.248.80/29,IPv4,EC2_INSTANCE_CONNECT,ap-southeast-4
+18.99.193.0/25,IPv4,AURORA_DSQL,ap-southeast-4
 16.51.86.16/29,IPv4,MEDIA_PACKAGE_V2,ap-southeast-4
 16.51.86.8/29,IPv4,MEDIA_PACKAGE_V2,ap-southeast-4
 13.248.67.0/24,IPv4,DYNAMODB,ap-southeast-4
@@ -139,3 +140,4 @@ ip_address,ip_type,service,region
 2406:da32:f000::/40,IPv6,EC2,ap-southeast-4
 2406:da38:f000::/40,IPv6,EC2,ap-southeast-4
 2406:da1f:b4f:4600::/56,IPv6,EC2_INSTANCE_CONNECT,ap-southeast-4
+2406:da1f:51b:1a00::/56,IPv6,AURORA_DSQL,ap-southeast-4

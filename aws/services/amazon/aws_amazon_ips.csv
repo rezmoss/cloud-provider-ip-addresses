@@ -855,6 +855,7 @@ ip_address,ip_type,service,region
 15.241.0.0/16,IPv4,AMAZON,af-south-1
 18.34.72.0/21,IPv4,AMAZON,us-east-2
 35.55.14.0/24,IPv4,AMAZON,ap-south-1
+35.97.16.0/20,IPv4,AMAZON,GLOBAL
 35.176.0.0/15,IPv4,AMAZON,eu-west-2
 52.93.193.195/32,IPv4,AMAZON,ca-central-1
 54.239.112.0/24,IPv4,AMAZON,us-east-1

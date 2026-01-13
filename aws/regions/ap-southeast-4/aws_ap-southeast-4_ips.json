@@ -444,6 +444,12 @@
     "region": "ap-southeast-4"
   },
   {
+    "ip_address": "18.99.193.0/25",
+    "ip_type": "IPv4",
+    "service": "AURORA_DSQL",
+    "region": "ap-southeast-4"
+  },
+  {
     "ip_address": "16.51.86.16/29",
     "ip_type": "IPv4",
     "service": "MEDIA_PACKAGE_V2",
@@ -837,6 +843,12 @@
     "ip_address": "2406:da1f:b4f:4600::/56",
     "ip_type": "IPv6",
     "service": "EC2_INSTANCE_CONNECT",
+    "region": "ap-southeast-4"
+  },
+  {
+    "ip_address": "2406:da1f:51b:1a00::/56",
+    "ip_type": "IPv6",
+    "service": "AURORA_DSQL",
     "region": "ap-southeast-4"
   }
 ]

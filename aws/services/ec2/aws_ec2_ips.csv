@@ -287,6 +287,7 @@ ip_address,ip_type,service,region
 15.145.2.0/23,IPv4,EC2,eu-central-1
 18.34.72.0/21,IPv4,EC2,us-east-2
 35.55.14.0/24,IPv4,EC2,ap-south-1
+35.97.16.0/20,IPv4,EC2,GLOBAL
 35.176.0.0/15,IPv4,EC2,eu-west-2
 70.224.192.0/18,IPv4,EC2,us-west-2
 99.77.153.0/24,IPv4,EC2,us-east-2
