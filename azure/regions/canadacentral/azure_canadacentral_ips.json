@@ -3870,31 +3870,25 @@
     "region": "canadacentral"
   },
   {
-    "ip_address": "40.120.184.0/24",
+    "ip_address": "40.120.184.0/23",
     "ip_type": "IPv4",
     "service": "AzureCloud.canadacentral",
     "region": "canadacentral"
   },
   {
-    "ip_address": "40.120.185.0/25",
+    "ip_address": "40.120.186.0/29",
     "ip_type": "IPv4",
     "service": "AzureCloud.canadacentral",
     "region": "canadacentral"
   },
   {
-    "ip_address": "40.120.185.128/26",
+    "ip_address": "40.120.186.8/30",
     "ip_type": "IPv4",
     "service": "AzureCloud.canadacentral",
     "region": "canadacentral"
   },
   {
-    "ip_address": "40.120.185.192/27",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.canadacentral",
-    "region": "canadacentral"
-  },
-  {
-    "ip_address": "40.120.185.224/30",
+    "ip_address": "40.120.186.12/31",
     "ip_type": "IPv4",
     "service": "AzureCloud.canadacentral",
     "region": "canadacentral"

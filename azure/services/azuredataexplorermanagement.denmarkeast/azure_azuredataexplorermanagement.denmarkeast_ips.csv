@@ -1,0 +1,3 @@
+ip_address,ip_type,service,region
+9.205.38.192/28,IPv4,AzureDataExplorerManagement.DenmarkEast,denmarkeast
+2603:1020:1602:1::1e0/123,IPv6,AzureDataExplorerManagement.DenmarkEast,denmarkeast

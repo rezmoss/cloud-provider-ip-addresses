@@ -113,6 +113,7 @@ ip_address,ip_type,service,region
 138.91.96.64/26,IPv4,Storage.EastUS,eastus
 138.91.96.128/26,IPv4,Storage.EastUS,eastus
 145.190.134.0/24,IPv4,Storage.EastUS,eastus
+145.190.144.0/24,IPv4,Storage.EastUS,eastus
 168.62.32.0/26,IPv4,Storage.EastUS,eastus
 168.62.32.192/26,IPv4,Storage.EastUS,eastus
 168.62.33.128/26,IPv4,Storage.EastUS,eastus

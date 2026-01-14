@@ -722,6 +722,7 @@ ip_address,ip_type,service,region
 138.91.96.64/26,IPv4,Storage.EastUS,eastus
 138.91.96.128/26,IPv4,Storage.EastUS,eastus
 145.190.134.0/24,IPv4,Storage.EastUS,eastus
+145.190.144.0/24,IPv4,Storage.EastUS,eastus
 168.62.32.0/26,IPv4,Storage.EastUS,eastus
 168.62.32.192/26,IPv4,Storage.EastUS,eastus
 168.62.33.128/26,IPv4,Storage.EastUS,eastus
@@ -1723,8 +1724,7 @@ ip_address,ip_type,service,region
 57.157.32.0/24,IPv4,AzureCloud.eastus,eastus
 57.157.33.0/25,IPv4,AzureCloud.eastus,eastus
 57.157.33.128/28,IPv4,AzureCloud.eastus,eastus
-57.157.33.144/30,IPv4,AzureCloud.eastus,eastus
-57.157.33.148/31,IPv4,AzureCloud.eastus,eastus
+57.157.33.144/29,IPv4,AzureCloud.eastus,eastus
 65.54.19.128/27,IPv4,AzureCloud.eastus,eastus
 68.220.88.0/21,IPv4,AzureCloud.eastus,eastus
 70.152.8.0/24,IPv4,AzureCloud.eastus,eastus
@@ -1769,6 +1769,7 @@ ip_address,ip_type,service,region
 145.190.32.0/22,IPv4,AzureCloud.eastus,eastus
 145.190.36.0/24,IPv4,AzureCloud.eastus,eastus
 145.190.134.0/24,IPv4,AzureCloud.eastus,eastus
+145.190.144.0/24,IPv4,AzureCloud.eastus,eastus
 151.206.83.0/24,IPv4,AzureCloud.eastus,eastus
 151.206.84.0/24,IPv4,AzureCloud.eastus,eastus
 151.206.100.0/23,IPv4,AzureCloud.eastus,eastus

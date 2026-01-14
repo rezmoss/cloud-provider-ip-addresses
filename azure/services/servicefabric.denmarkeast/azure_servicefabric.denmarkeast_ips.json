@@ -1,0 +1,38 @@
+[
+  {
+    "ip_address": "9.205.72.8/30",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.DenmarkEast",
+    "region": "denmarkeast"
+  },
+  {
+    "ip_address": "9.205.96.8/30",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.DenmarkEast",
+    "region": "denmarkeast"
+  },
+  {
+    "ip_address": "9.205.112.8/30",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.DenmarkEast",
+    "region": "denmarkeast"
+  },
+  {
+    "ip_address": "2603:1020:1602:400::10/125",
+    "ip_type": "IPv6",
+    "service": "ServiceFabric.DenmarkEast",
+    "region": "denmarkeast"
+  },
+  {
+    "ip_address": "2603:1020:1602:800::10/125",
+    "ip_type": "IPv6",
+    "service": "ServiceFabric.DenmarkEast",
+    "region": "denmarkeast"
+  },
+  {
+    "ip_address": "2603:1020:1602:c00::10/125",
+    "ip_type": "IPv6",
+    "service": "ServiceFabric.DenmarkEast",
+    "region": "denmarkeast"
+  }
+]

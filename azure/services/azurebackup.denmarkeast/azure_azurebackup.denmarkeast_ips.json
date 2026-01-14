@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "9.205.36.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.DenmarkEast",
+    "region": "denmarkeast"
+  },
+  {
+    "ip_address": "9.205.50.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.DenmarkEast",
+    "region": "denmarkeast"
+  },
+  {
+    "ip_address": "2603:1020:1602::600/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.DenmarkEast",
+    "region": "denmarkeast"
+  }
+]

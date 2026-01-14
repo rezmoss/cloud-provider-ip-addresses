@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "9.205.32.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureCognitiveSearch.DenmarkEast",
+    "region": "denmarkeast"
+  },
+  {
+    "ip_address": "2603:1020:1602::100/121",
+    "ip_type": "IPv6",
+    "service": "AzureCognitiveSearch.DenmarkEast",
+    "region": "denmarkeast"
+  }
+]

@@ -564,6 +564,12 @@
     "region": "ap-southeast-5"
   },
   {
+    "ip_address": "2406:daeb:800::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-southeast-5"
+  },
+  {
     "ip_address": "2600:f0f2:7021::/48",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -751,6 +757,12 @@
   },
   {
     "ip_address": "2600:f0f1:4380::/42",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-southeast-5"
+  },
+  {
+    "ip_address": "2406:daeb:800::/40",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "ap-southeast-5"

@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "9.205.45.224/27",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.DenmarkEast",
+    "region": "denmarkeast"
+  },
+  {
+    "ip_address": "9.205.50.20/30",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.DenmarkEast",
+    "region": "denmarkeast"
+  },
+  {
+    "ip_address": "2603:1020:1602:2::400/121",
+    "ip_type": "IPv6",
+    "service": "AzurePortal.DenmarkEast",
+    "region": "denmarkeast"
+  }
+]

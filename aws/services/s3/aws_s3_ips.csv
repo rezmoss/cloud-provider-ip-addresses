@@ -343,6 +343,7 @@ ip_address,ip_type,service,region
 15.184.153.0/28,IPv4,S3,me-south-1
 78.12.79.192/28,IPv4,S3,mx-central-1
 78.12.79.208/28,IPv4,S3,mx-central-1
+1.178.95.0/24,IPv4,S3,sa-east-1
 15.228.107.0/28,IPv4,S3,sa-east-1
 15.228.107.16/28,IPv4,S3,sa-east-1
 1.178.4.0/24,IPv4,S3,us-east-1
@@ -689,6 +690,7 @@ ip_address,ip_type,service,region
 2600:f0f2:7015::/48,IPv6,S3,eu-west-1
 2600:f0f1:80::/48,IPv6,S3,eu-west-2
 2600:f0f2:701c::/48,IPv6,S3,eu-west-3
+2600:f0f1:81::/48,IPv6,S3,sa-east-1
 2600:f0f2:7010::/48,IPv6,S3,us-east-1
 2600:f0f2:7011::/48,IPv6,S3,us-east-1
 2600:f0f2:7012::/48,IPv6,S3,us-east-1

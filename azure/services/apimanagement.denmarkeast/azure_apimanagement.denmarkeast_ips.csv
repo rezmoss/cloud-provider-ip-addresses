@@ -1,0 +1,3 @@
+ip_address,ip_type,service,region
+9.205.35.176/28,IPv4,ApiManagement.DenmarkEast,denmarkeast
+2603:1020:1602::520/124,IPv6,ApiManagement.DenmarkEast,denmarkeast

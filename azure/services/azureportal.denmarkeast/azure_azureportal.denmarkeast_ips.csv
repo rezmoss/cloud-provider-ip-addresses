@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+9.205.45.224/27,IPv4,AzurePortal.DenmarkEast,denmarkeast
+9.205.50.20/30,IPv4,AzurePortal.DenmarkEast,denmarkeast
+2603:1020:1602:2::400/121,IPv6,AzurePortal.DenmarkEast,denmarkeast

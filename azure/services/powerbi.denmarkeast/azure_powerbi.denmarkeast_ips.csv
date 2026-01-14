@@ -1,0 +1,8 @@
+ip_address,ip_type,service,region
+9.205.43.240/31,IPv4,PowerBI.DenmarkEast,denmarkeast
+9.205.43.244/30,IPv4,PowerBI.DenmarkEast,denmarkeast
+9.205.43.248/29,IPv4,PowerBI.DenmarkEast,denmarkeast
+9.205.58.176/28,IPv4,PowerBI.DenmarkEast,denmarkeast
+9.205.58.192/28,IPv4,PowerBI.DenmarkEast,denmarkeast
+2603:1020:1602:2::1a0/123,IPv6,PowerBI.DenmarkEast,denmarkeast
+2603:1020:1602:2::300/122,IPv6,PowerBI.DenmarkEast,denmarkeast

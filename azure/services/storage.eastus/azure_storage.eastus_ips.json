@@ -684,6 +684,12 @@
     "region": "eastus"
   },
   {
+    "ip_address": "145.190.144.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.EastUS",
+    "region": "eastus"
+  },
+  {
     "ip_address": "168.62.32.0/26",
     "ip_type": "IPv4",
     "service": "Storage.EastUS",

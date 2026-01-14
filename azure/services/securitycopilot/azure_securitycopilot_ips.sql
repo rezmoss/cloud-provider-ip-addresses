@@ -10,8 +10,14 @@ INSERT INTO `azure_securitycopilot_ips` (`ip_address`, `ip_type`) VALUES ('4.149
 INSERT INTO `azure_securitycopilot_ips` (`ip_address`, `ip_type`) VALUES ('4.149.98.26/32', 'IPv4');
 INSERT INTO `azure_securitycopilot_ips` (`ip_address`, `ip_type`) VALUES ('4.149.105.6/31', 'IPv4');
 INSERT INTO `azure_securitycopilot_ips` (`ip_address`, `ip_type`) VALUES ('4.149.105.128/32', 'IPv4');
+INSERT INTO `azure_securitycopilot_ips` (`ip_address`, `ip_type`) VALUES ('4.176.31.248/29', 'IPv4');
+INSERT INTO `azure_securitycopilot_ips` (`ip_address`, `ip_type`) VALUES ('4.188.10.96/29', 'IPv4');
+INSERT INTO `azure_securitycopilot_ips` (`ip_address`, `ip_type`) VALUES ('4.196.133.64/29', 'IPv4');
 INSERT INTO `azure_securitycopilot_ips` (`ip_address`, `ip_type`) VALUES ('4.198.160.50/32', 'IPv4');
 INSERT INTO `azure_securitycopilot_ips` (`ip_address`, `ip_type`) VALUES ('4.200.251.7/32', 'IPv4');
+INSERT INTO `azure_securitycopilot_ips` (`ip_address`, `ip_type`) VALUES ('4.201.243.72/29', 'IPv4');
+INSERT INTO `azure_securitycopilot_ips` (`ip_address`, `ip_type`) VALUES ('4.216.4.56/29', 'IPv4');
+INSERT INTO `azure_securitycopilot_ips` (`ip_address`, `ip_type`) VALUES ('4.230.124.184/29', 'IPv4');
 INSERT INTO `azure_securitycopilot_ips` (`ip_address`, `ip_type`) VALUES ('4.250.1.28/32', 'IPv4');
 INSERT INTO `azure_securitycopilot_ips` (`ip_address`, `ip_type`) VALUES ('13.71.177.225/32', 'IPv4');
 INSERT INTO `azure_securitycopilot_ips` (`ip_address`, `ip_type`) VALUES ('13.74.201.120/32', 'IPv4');
@@ -34,6 +40,7 @@ INSERT INTO `azure_securitycopilot_ips` (`ip_address`, `ip_type`) VALUES ('40.79
 INSERT INTO `azure_securitycopilot_ips` (`ip_address`, `ip_type`) VALUES ('40.79.173.37/32', 'IPv4');
 INSERT INTO `azure_securitycopilot_ips` (`ip_address`, `ip_type`) VALUES ('40.124.65.174/31', 'IPv4');
 INSERT INTO `azure_securitycopilot_ips` (`ip_address`, `ip_type`) VALUES ('40.124.67.120/32', 'IPv4');
+INSERT INTO `azure_securitycopilot_ips` (`ip_address`, `ip_type`) VALUES ('48.204.168.240/29', 'IPv4');
 INSERT INTO `azure_securitycopilot_ips` (`ip_address`, `ip_type`) VALUES ('51.11.193.118/32', 'IPv4');
 INSERT INTO `azure_securitycopilot_ips` (`ip_address`, `ip_type`) VALUES ('51.132.193.124/32', 'IPv4');
 INSERT INTO `azure_securitycopilot_ips` (`ip_address`, `ip_type`) VALUES ('51.132.200.0/32', 'IPv4');
@@ -41,5 +48,6 @@ INSERT INTO `azure_securitycopilot_ips` (`ip_address`, `ip_type`) VALUES ('51.14
 INSERT INTO `azure_securitycopilot_ips` (`ip_address`, `ip_type`) VALUES ('52.167.146.232/30', 'IPv4');
 INSERT INTO `azure_securitycopilot_ips` (`ip_address`, `ip_type`) VALUES ('52.246.158.186/32', 'IPv4');
 INSERT INTO `azure_securitycopilot_ips` (`ip_address`, `ip_type`) VALUES ('108.143.177.252/32', 'IPv4');
+INSERT INTO `azure_securitycopilot_ips` (`ip_address`, `ip_type`) VALUES ('145.191.107.112/29', 'IPv4');
 INSERT INTO `azure_securitycopilot_ips` (`ip_address`, `ip_type`) VALUES ('172.173.16.66/31', 'IPv4');
 INSERT INTO `azure_securitycopilot_ips` (`ip_address`, `ip_type`) VALUES ('172.205.152.4/32', 'IPv4');

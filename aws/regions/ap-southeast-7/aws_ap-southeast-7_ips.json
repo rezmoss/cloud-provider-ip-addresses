@@ -348,6 +348,12 @@
     "region": "ap-southeast-7"
   },
   {
+    "ip_address": "2406:daeb:4800::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-southeast-7"
+  },
+  {
     "ip_address": "2406:daef:4800::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -549,6 +555,12 @@
     "ip_address": "2406:daf4:4800::/40",
     "ip_type": "IPv6",
     "service": "S3",
+    "region": "ap-southeast-7"
+  },
+  {
+    "ip_address": "2406:daeb:4800::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
     "region": "ap-southeast-7"
   },
   {

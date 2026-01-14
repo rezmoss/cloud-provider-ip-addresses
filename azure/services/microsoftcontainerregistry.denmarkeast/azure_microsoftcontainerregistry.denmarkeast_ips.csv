@@ -1,0 +1,7 @@
+ip_address,ip_type,service,region
+9.205.72.0/29,IPv4,MicrosoftContainerRegistry.DenmarkEast,denmarkeast
+9.205.96.0/29,IPv4,MicrosoftContainerRegistry.DenmarkEast,denmarkeast
+9.205.112.0/29,IPv4,MicrosoftContainerRegistry.DenmarkEast,denmarkeast
+2603:1020:1602:400::/125,IPv6,MicrosoftContainerRegistry.DenmarkEast,denmarkeast
+2603:1020:1602:800::/125,IPv6,MicrosoftContainerRegistry.DenmarkEast,denmarkeast
+2603:1020:1602:c00::/125,IPv6,MicrosoftContainerRegistry.DenmarkEast,denmarkeast

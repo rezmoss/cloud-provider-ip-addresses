@@ -856,9 +856,10 @@ INSERT INTO `azure_southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('20.20.
 INSERT INTO `azure_southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('20.20.102.92/31', 'IPv4');
 INSERT INTO `azure_southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('20.20.102.96/27', 'IPv4');
 INSERT INTO `azure_southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('20.20.102.128/25', 'IPv4');
-INSERT INTO `azure_southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('20.20.103.0/27', 'IPv4');
-INSERT INTO `azure_southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('20.20.103.32/28', 'IPv4');
-INSERT INTO `azure_southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('20.20.103.48/29', 'IPv4');
+INSERT INTO `azure_southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('20.20.103.0/26', 'IPv4');
+INSERT INTO `azure_southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('20.20.103.64/28', 'IPv4');
+INSERT INTO `azure_southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('20.20.103.80/30', 'IPv4');
+INSERT INTO `azure_southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('20.20.103.84/31', 'IPv4');
 INSERT INTO `azure_southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('20.20.138.0/24', 'IPv4');
 INSERT INTO `azure_southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('20.33.4.0/24', 'IPv4');
 INSERT INTO `azure_southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('20.33.42.0/24', 'IPv4');
@@ -1321,9 +1322,9 @@ INSERT INTO `azure_southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1
 INSERT INTO `azure_southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:804:528::/61', 'IPv6');
 INSERT INTO `azure_southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:804:530::/60', 'IPv6');
 INSERT INTO `azure_southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:804:540::/58', 'IPv6');
-INSERT INTO `azure_southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:804:580::/61', 'IPv6');
-INSERT INTO `azure_southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:804:588::/62', 'IPv6');
-INSERT INTO `azure_southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:804:58c::/64', 'IPv6');
+INSERT INTO `azure_southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:804:580::/60', 'IPv6');
+INSERT INTO `azure_southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:804:590::/61', 'IPv6');
+INSERT INTO `azure_southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:804:598::/62', 'IPv6');
 INSERT INTO `azure_southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:805::/48', 'IPv6');
 INSERT INTO `azure_southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:806::/48', 'IPv6');
 INSERT INTO `azure_southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:807::/48', 'IPv6');

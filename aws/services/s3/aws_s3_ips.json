@@ -2064,6 +2064,12 @@
     "region": "mx-central-1"
   },
   {
+    "ip_address": "1.178.95.0/24",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "sa-east-1"
+  },
+  {
     "ip_address": "15.228.107.0/28",
     "ip_type": "IPv4",
     "service": "S3",
@@ -4138,6 +4144,12 @@
     "ip_type": "IPv6",
     "service": "S3",
     "region": "eu-west-3"
+  },
+  {
+    "ip_address": "2600:f0f1:81::/48",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "sa-east-1"
   },
   {
     "ip_address": "2600:f0f2:7010::/48",

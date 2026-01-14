@@ -30,6 +30,7 @@ ip_address,ip_type,service,region
 13.248.80.0/24,IPv4,DYNAMODB,me-west-1
 2a05:d076:800::/40,IPv6,AMAZON,me-west-1
 2a05:d031:800::/40,IPv6,AMAZON,me-west-1
+2a05:d06b:800::/40,IPv6,AMAZON,me-west-1
 2a05:d06a:800::/40,IPv6,AMAZON,me-west-1
 2a05:d032:800::/40,IPv6,AMAZON,me-west-1
 2a05:d03a:800::/40,IPv6,AMAZON,me-west-1
@@ -59,6 +60,7 @@ ip_address,ip_type,service,region
 2a05:d070:800::/40,IPv6,S3,me-west-1
 2a05:d076:800::/40,IPv6,EC2,me-west-1
 2a05:d031:800::/40,IPv6,EC2,me-west-1
+2a05:d06b:800::/40,IPv6,EC2,me-west-1
 2a05:d06a:800::/40,IPv6,EC2,me-west-1
 2a05:d032:800::/40,IPv6,EC2,me-west-1
 2a05:d03a:800::/40,IPv6,EC2,me-west-1
