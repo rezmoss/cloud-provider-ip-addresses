@@ -102,6 +102,12 @@
     "region": "ap-east-2"
   },
   {
+    "ip_address": "1.178.31.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-east-2"
+  },
+  {
     "ip_address": "43.212.0.0/15",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -289,6 +295,12 @@
   },
   {
     "ip_address": "54.55.0.0/16",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "ap-east-2"
+  },
+  {
+    "ip_address": "1.178.31.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "ap-east-2"
@@ -510,6 +522,12 @@
     "region": "ap-east-2"
   },
   {
+    "ip_address": "2600:f0f2:7025::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-east-2"
+  },
+  {
     "ip_address": "2406:da60:c800::/40",
     "ip_type": "IPv6",
     "service": "S3",
@@ -667,6 +685,12 @@
   },
   {
     "ip_address": "2406:da38:c800::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-east-2"
+  },
+  {
+    "ip_address": "2600:f0f2:7025::/48",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "ap-east-2"

@@ -1656,6 +1656,12 @@
     "region": "ap-south-1"
   },
   {
+    "ip_address": "2600:f0f0:e2b::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-south-1"
+  },
+  {
     "ip_address": "2406:daf9:a000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -1753,6 +1759,12 @@
   },
   {
     "ip_address": "2406:dab9:a000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-south-1"
+  },
+  {
+    "ip_address": "2600:f0f0:e2d::/48",
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "ap-south-1"
@@ -1956,6 +1968,12 @@
     "region": "ap-south-1"
   },
   {
+    "ip_address": "2600:f0f0:e2c::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-south-1"
+  },
+  {
     "ip_address": "2406:da70:a000:100::/56",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -2040,6 +2058,12 @@
     "region": "ap-south-1"
   },
   {
+    "ip_address": "2600:f0f0:e2b::/48",
+    "ip_type": "IPv6",
+    "service": "IVS_REALTIME",
+    "region": "ap-south-1"
+  },
+  {
     "ip_address": "2600:f0f0:110d::/48",
     "ip_type": "IPv6",
     "service": "IVS_REALTIME",
@@ -2053,6 +2077,12 @@
   },
   {
     "ip_address": "2600:f0f0:110e::/48",
+    "ip_type": "IPv6",
+    "service": "IVS_REALTIME",
+    "region": "ap-south-1"
+  },
+  {
+    "ip_address": "2600:f0f0:e2d::/48",
     "ip_type": "IPv6",
     "service": "IVS_REALTIME",
     "region": "ap-south-1"
@@ -2076,6 +2106,12 @@
     "region": "ap-south-1"
   },
   {
+    "ip_address": "2600:f0f0:e2c::/48",
+    "ip_type": "IPv6",
+    "service": "IVS_REALTIME",
+    "region": "ap-south-1"
+  },
+  {
     "ip_address": "2406:da32:a000::/40",
     "ip_type": "IPv6",
     "service": "WORKSPACES_GATEWAYS",
@@ -2089,6 +2125,12 @@
   },
   {
     "ip_address": "2600:f0fb:f10d::/48",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-south-1"
+  },
+  {
+    "ip_address": "2600:f0f0:e2b::/48",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "ap-south-1"
@@ -2173,6 +2215,12 @@
   },
   {
     "ip_address": "2406:dab9:a000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-south-1"
+  },
+  {
+    "ip_address": "2600:f0f0:e2d::/48",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "ap-south-1"
@@ -2335,6 +2383,12 @@
   },
   {
     "ip_address": "2406:da70:a000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-south-1"
+  },
+  {
+    "ip_address": "2600:f0f0:e2c::/48",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "ap-south-1"

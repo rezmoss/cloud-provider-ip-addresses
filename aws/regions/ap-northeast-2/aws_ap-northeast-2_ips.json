@@ -1410,6 +1410,12 @@
     "region": "ap-northeast-2"
   },
   {
+    "ip_address": "2600:f0f0:e33::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-northeast-2"
+  },
+  {
     "ip_address": "2406:da25::/36",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -1453,6 +1459,12 @@
   },
   {
     "ip_address": "2600:f0f0:1:1000::/56",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-northeast-2"
+  },
+  {
+    "ip_address": "2600:f0f0:e32::/48",
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "ap-northeast-2"
@@ -1537,6 +1549,12 @@
   },
   {
     "ip_address": "2600:f0fb:f028::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-northeast-2"
+  },
+  {
+    "ip_address": "2600:f0f0:e31::/48",
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "ap-northeast-2"
@@ -1800,6 +1818,18 @@
     "region": "ap-northeast-2"
   },
   {
+    "ip_address": "2600:f0f0:e33::/48",
+    "ip_type": "IPv6",
+    "service": "IVS_REALTIME",
+    "region": "ap-northeast-2"
+  },
+  {
+    "ip_address": "2600:f0f0:e32::/48",
+    "ip_type": "IPv6",
+    "service": "IVS_REALTIME",
+    "region": "ap-northeast-2"
+  },
+  {
     "ip_address": "2600:f0f0:5401::/48",
     "ip_type": "IPv6",
     "service": "IVS_REALTIME",
@@ -1807,6 +1837,12 @@
   },
   {
     "ip_address": "2600:f0f0:1104::/48",
+    "ip_type": "IPv6",
+    "service": "IVS_REALTIME",
+    "region": "ap-northeast-2"
+  },
+  {
+    "ip_address": "2600:f0f0:e31::/48",
     "ip_type": "IPv6",
     "service": "IVS_REALTIME",
     "region": "ap-northeast-2"
@@ -1854,6 +1890,12 @@
     "region": "ap-northeast-2"
   },
   {
+    "ip_address": "2600:f0f0:e33::/48",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-northeast-2"
+  },
+  {
     "ip_address": "2406:da25::/36",
     "ip_type": "IPv6",
     "service": "EC2",
@@ -1891,6 +1933,12 @@
   },
   {
     "ip_address": "2600:f0f0:1:1000::/56",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-northeast-2"
+  },
+  {
+    "ip_address": "2600:f0f0:e32::/48",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "ap-northeast-2"
@@ -1963,6 +2011,12 @@
   },
   {
     "ip_address": "2600:f0fb:f028::/48",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-northeast-2"
+  },
+  {
+    "ip_address": "2600:f0f0:e31::/48",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "ap-northeast-2"
