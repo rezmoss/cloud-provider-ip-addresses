@@ -65,6 +65,7 @@ ip_address,ip_type,service,region
 134.185.76.0/24,IPv4,OSN,ap-hyderabad-1
 140.91.52.0/23,IPv4,OSN,ap-hyderabad-1
 140.204.50.128/25,IPv4,OSN,ap-hyderabad-1
+149.118.240.0/23,IPv4,OSN,ap-hyderabad-1
 204.216.119.192/26,IPv4,OSN,ap-hyderabad-1
 38.104.155.92/31,IPv4,OSN,ca-montreal-1
 140.91.50.0/23,IPv4,OSN,ca-montreal-1
@@ -102,6 +103,8 @@ ip_address,ip_type,service,region
 140.204.112.128/25,IPv4,OSN,eu-madrid-1
 155.248.136.0/22,IPv4,OSN,eu-madrid-1
 155.248.140.0/25,IPv4,OSN,eu-madrid-1
+92.4.176.0/20,IPv4,OSN,uk-london-1
+92.4.192.0/21,IPv4,OSN,uk-london-1
 130.35.112.0/22,IPv4,OSN,uk-london-1
 130.35.116.0/25,IPv4,OSN,uk-london-1
 132.145.0.128/25,IPv4,OSN,uk-london-1
@@ -115,6 +118,7 @@ ip_address,ip_type,service,region
 147.154.224.0/20,IPv4,OSN,uk-london-1
 147.154.240.0/21,IPv4,OSN,uk-london-1
 147.154.255.128/25,IPv4,OSN,uk-london-1
+92.4.240.0/20,IPv4,OSN,eu-frankfurt-1
 92.5.240.0/21,IPv4,OSN,eu-frankfurt-1
 92.5.248.0/22,IPv4,OSN,eu-frankfurt-1
 130.61.0.128/25,IPv4,OSN,eu-frankfurt-1

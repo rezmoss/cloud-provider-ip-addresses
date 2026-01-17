@@ -156,6 +156,18 @@
     "region": "uk-london-1"
   },
   {
+    "ip_address": "92.4.176.0/20",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "uk-london-1"
+  },
+  {
+    "ip_address": "92.4.192.0/21",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "uk-london-1"
+  },
+  {
     "ip_address": "130.35.112.0/22",
     "ip_type": "IPv4",
     "service": "OSN",

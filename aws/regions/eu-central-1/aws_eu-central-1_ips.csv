@@ -173,6 +173,7 @@ ip_address,ip_type,service,region
 150.222.144.103/32,IPv4,AMAZON,eu-central-1
 15.230.85.0/24,IPv4,AMAZON,eu-central-1
 35.96.242.0/24,IPv4,AMAZON,eu-central-1
+69.107.11.152/29,IPv4,AMAZON,eu-central-1
 15.145.12.0/22,IPv4,AMAZON,eu-central-1
 150.222.144.101/32,IPv4,AMAZON,eu-central-1
 15.230.15.88/31,IPv4,AMAZON,eu-central-1
@@ -219,6 +220,7 @@ ip_address,ip_type,service,region
 3.120.0.0/14,IPv4,AMAZON,eu-central-1
 18.198.0.0/15,IPv4,AMAZON,eu-central-1
 15.230.15.140/31,IPv4,AMAZON,eu-central-1
+69.107.11.160/29,IPv4,AMAZON,eu-central-1
 15.230.15.11/32,IPv4,AMAZON,eu-central-1
 15.230.15.84/31,IPv4,AMAZON,eu-central-1
 15.230.15.110/31,IPv4,AMAZON,eu-central-1

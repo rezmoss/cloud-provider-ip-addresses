@@ -558,6 +558,18 @@
     "region": "us-sanjose-1"
   },
   {
+    "ip_address": "147.224.8.0/21",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "us-sanjose-1"
+  },
+  {
+    "ip_address": "147.224.32.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "us-sanjose-1"
+  },
+  {
     "ip_address": "150.230.32.0/20",
     "ip_type": "IPv4",
     "service": "OCI",

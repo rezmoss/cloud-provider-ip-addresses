@@ -252,6 +252,12 @@
     "region": "eu-frankfurt-1"
   },
   {
+    "ip_address": "92.4.240.0/20",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-frankfurt-1"
+  },
+  {
     "ip_address": "92.5.240.0/21",
     "ip_type": "IPv4",
     "service": "OSN",

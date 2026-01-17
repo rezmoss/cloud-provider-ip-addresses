@@ -18,4 +18,5 @@ ip_address,ip_type,service,region
 134.185.76.0/24,IPv4,OSN,ap-hyderabad-1
 140.91.52.0/23,IPv4,OSN,ap-hyderabad-1
 140.204.50.128/25,IPv4,OSN,ap-hyderabad-1
+149.118.240.0/23,IPv4,OSN,ap-hyderabad-1
 204.216.119.192/26,IPv4,OSN,ap-hyderabad-1

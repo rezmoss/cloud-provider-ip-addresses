@@ -576,6 +576,18 @@
     "region": "us-gov-west-1"
   },
   {
+    "ip_address": "52.61.226.0/23",
+    "ip_type": "IPv4",
+    "service": "ROUTE53",
+    "region": "us-gov-west-1"
+  },
+  {
+    "ip_address": "96.127.116.0/23",
+    "ip_type": "IPv4",
+    "service": "ROUTE53",
+    "region": "us-gov-west-1"
+  },
+  {
     "ip_address": "15.200.28.88/29",
     "ip_type": "IPv4",
     "service": "CODEBUILD",

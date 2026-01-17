@@ -32,6 +32,8 @@ INSERT INTO `oracle_uk-london-1_ips` (`ip_address`, `ip_type`) VALUES ('150.230.
 INSERT INTO `oracle_uk-london-1_ips` (`ip_address`, `ip_type`) VALUES ('152.67.128.0/19', 'IPv4');
 INSERT INTO `oracle_uk-london-1_ips` (`ip_address`, `ip_type`) VALUES ('193.123.176.0/20', 'IPv4');
 INSERT INTO `oracle_uk-london-1_ips` (`ip_address`, `ip_type`) VALUES ('207.135.20.0/23', 'IPv4');
+INSERT INTO `oracle_uk-london-1_ips` (`ip_address`, `ip_type`) VALUES ('92.4.176.0/20', 'IPv4');
+INSERT INTO `oracle_uk-london-1_ips` (`ip_address`, `ip_type`) VALUES ('92.4.192.0/21', 'IPv4');
 INSERT INTO `oracle_uk-london-1_ips` (`ip_address`, `ip_type`) VALUES ('130.35.112.0/22', 'IPv4');
 INSERT INTO `oracle_uk-london-1_ips` (`ip_address`, `ip_type`) VALUES ('130.35.116.0/25', 'IPv4');
 INSERT INTO `oracle_uk-london-1_ips` (`ip_address`, `ip_type`) VALUES ('132.145.0.128/25', 'IPv4');

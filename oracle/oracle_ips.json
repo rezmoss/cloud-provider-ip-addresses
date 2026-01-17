@@ -912,6 +912,18 @@
     "region": "us-sanjose-1"
   },
   {
+    "ip_address": "147.224.8.0/21",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "us-sanjose-1"
+  },
+  {
+    "ip_address": "147.224.32.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "us-sanjose-1"
+  },
+  {
     "ip_address": "150.230.32.0/20",
     "ip_type": "IPv4",
     "service": "OCI",
@@ -1165,6 +1177,12 @@
   },
   {
     "ip_address": "140.204.50.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-hyderabad-1"
+  },
+  {
+    "ip_address": "149.118.240.0/23",
     "ip_type": "IPv4",
     "service": "OSN",
     "region": "ap-hyderabad-1"
@@ -1896,6 +1914,18 @@
     "region": "uk-london-1"
   },
   {
+    "ip_address": "92.4.176.0/20",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "uk-london-1"
+  },
+  {
+    "ip_address": "92.4.192.0/21",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "uk-london-1"
+  },
+  {
     "ip_address": "130.35.112.0/22",
     "ip_type": "IPv4",
     "service": "OSN",
@@ -2235,6 +2265,12 @@
     "ip_address": "207.135.8.0/23",
     "ip_type": "IPv4",
     "service": "OCI",
+    "region": "eu-frankfurt-1"
+  },
+  {
+    "ip_address": "92.4.240.0/20",
+    "ip_type": "IPv4",
+    "service": "OSN",
     "region": "eu-frankfurt-1"
   },
   {
