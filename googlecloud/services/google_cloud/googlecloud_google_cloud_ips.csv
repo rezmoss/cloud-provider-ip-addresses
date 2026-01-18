@@ -476,6 +476,7 @@ ip_address,ip_type,service,region
 34.163.0.0/16,IPv4,Google Cloud,europe-west9
 2600:1901:8120::/44,IPv6,Google Cloud,europe-west9
 2600:1902:190::/44,IPv6,Google Cloud,europe-west9
+8.228.224.0/20,IPv4,Google Cloud,global
 34.3.2.0/27,IPv4,Google Cloud,global
 34.8.0.0/16,IPv4,Google Cloud,global
 34.13.72.0/21,IPv4,Google Cloud,global
@@ -520,6 +521,7 @@ ip_address,ip_type,service,region
 34.157.252.0/23,IPv4,Google Cloud,me-central1
 2600:1901:81c0::/44,IPv6,Google Cloud,me-central1
 2600:1902:1a0::/44,IPv6,Google Cloud,me-central1
+8.228.192.0/19,IPv4,Google Cloud,me-central2
 34.1.48.0/20,IPv4,Google Cloud,me-central2
 34.152.84.0/23,IPv4,Google Cloud,me-central2
 34.152.102.0/24,IPv4,Google Cloud,me-central2
