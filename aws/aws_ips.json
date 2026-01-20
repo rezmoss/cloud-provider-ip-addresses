@@ -10992,6 +10992,12 @@
     "region": "eu-north-1"
   },
   {
+    "ip_address": "69.107.11.208/29",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "96.0.88.0/22",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -11818,6 +11824,12 @@
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "eu-central-1"
+  },
+  {
+    "ip_address": "69.107.11.232/29",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-south-1"
   },
   {
     "ip_address": "96.0.100.0/23",
@@ -21090,6 +21102,12 @@
     "region": "us-west-2"
   },
   {
+    "ip_address": "69.107.11.224/29",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-south-1"
+  },
+  {
     "ip_address": "119.147.182.0/25",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -21540,6 +21558,12 @@
     "region": "eu-west-1"
   },
   {
+    "ip_address": "69.107.11.216/29",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "99.150.24.0/21",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -21622,6 +21646,12 @@
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "us-west-2"
+  },
+  {
+    "ip_address": "35.34.101.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-west-1"
   },
   {
     "ip_address": "52.93.127.160/32",
@@ -22780,6 +22810,12 @@
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "ap-southeast-5"
+  },
+  {
+    "ip_address": "69.107.11.248/29",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-west-1"
   },
   {
     "ip_address": "99.77.32.0/20",
@@ -24424,6 +24460,12 @@
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "ap-northeast-2"
+  },
+  {
+    "ip_address": "69.107.11.240/29",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-west-1"
   },
   {
     "ip_address": "150.222.55.64/27",
@@ -30403,6 +30445,12 @@
   },
   {
     "ip_address": "43.192.160.0/22",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "43.192.202.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "cn-northwest-1"
