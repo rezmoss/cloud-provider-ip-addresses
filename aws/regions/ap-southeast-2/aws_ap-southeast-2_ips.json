@@ -354,6 +354,12 @@
     "region": "ap-southeast-2"
   },
   {
+    "ip_address": "69.107.12.8/29",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-southeast-2"
+  },
+  {
     "ip_address": "3.5.164.0/22",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -397,6 +403,12 @@
   },
   {
     "ip_address": "150.222.43.64/27",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-southeast-2"
+  },
+  {
+    "ip_address": "45.33.164.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "ap-southeast-2"
@@ -781,6 +793,12 @@
   },
   {
     "ip_address": "52.144.228.64/26",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-southeast-2"
+  },
+  {
+    "ip_address": "69.107.12.0/29",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "ap-southeast-2"
@@ -1902,6 +1920,12 @@
     "region": "ap-southeast-2"
   },
   {
+    "ip_address": "2606:7b40:1b07:4200::/56",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-southeast-2"
+  },
+  {
     "ip_address": "2406:daf4:c000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -1915,6 +1939,12 @@
   },
   {
     "ip_address": "2406:dab9:c000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-southeast-2"
+  },
+  {
+    "ip_address": "2606:7b40:1b07:4100::/56",
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "ap-southeast-2"
@@ -2328,6 +2358,12 @@
     "region": "ap-southeast-2"
   },
   {
+    "ip_address": "2606:7b40:1b07:4200::/56",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-southeast-2"
+  },
+  {
     "ip_address": "2406:daf4:c000::/40",
     "ip_type": "IPv6",
     "service": "EC2",
@@ -2341,6 +2377,12 @@
   },
   {
     "ip_address": "2406:dab9:c000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-southeast-2"
+  },
+  {
+    "ip_address": "2606:7b40:1b07:4100::/56",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "ap-southeast-2"

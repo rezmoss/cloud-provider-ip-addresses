@@ -2394,6 +2394,12 @@
     "region": "eu-west-2"
   },
   {
+    "ip_address": "2606:7b40:1b0d:8100::/56",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eu-west-2"
+  },
+  {
     "ip_address": "2600:f0f0:4109::/48",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -2461,6 +2467,12 @@
   },
   {
     "ip_address": "2a05:d000:c000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eu-west-2"
+  },
+  {
+    "ip_address": "2606:7b40:1b0d:8200::/56",
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "eu-west-2"
@@ -2772,6 +2784,12 @@
     "region": "eu-west-2"
   },
   {
+    "ip_address": "2606:7b40:1b0d:8100::/56",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eu-west-2"
+  },
+  {
     "ip_address": "2600:f0f0:4109::/48",
     "ip_type": "IPv6",
     "service": "EC2",
@@ -2821,6 +2839,12 @@
   },
   {
     "ip_address": "2a05:d000:c000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eu-west-2"
+  },
+  {
+    "ip_address": "2606:7b40:1b0d:8200::/56",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "eu-west-2"

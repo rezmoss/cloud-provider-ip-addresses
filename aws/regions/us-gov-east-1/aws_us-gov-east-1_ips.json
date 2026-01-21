@@ -72,6 +72,12 @@
     "region": "us-gov-east-1"
   },
   {
+    "ip_address": "31.220.252.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-gov-east-1"
+  },
+  {
     "ip_address": "182.28.0.0/16",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -313,6 +319,12 @@
   },
   {
     "ip_address": "99.151.96.0/21",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "31.220.252.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "us-gov-east-1"

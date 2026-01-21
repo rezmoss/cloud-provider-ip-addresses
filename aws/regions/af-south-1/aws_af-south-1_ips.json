@@ -408,6 +408,12 @@
     "region": "af-south-1"
   },
   {
+    "ip_address": "1.178.18.0/24",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "af-south-1"
+  },
+  {
     "ip_address": "13.245.93.176/28",
     "ip_type": "IPv4",
     "service": "S3",
@@ -1033,6 +1039,12 @@
   },
   {
     "ip_address": "2406:daa0:1000::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "af-south-1"
+  },
+  {
+    "ip_address": "2600:f0f1:88::/48",
     "ip_type": "IPv6",
     "service": "S3",
     "region": "af-south-1"
