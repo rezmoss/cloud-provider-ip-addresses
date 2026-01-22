@@ -16,10 +16,12 @@ INSERT INTO `azure_indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('70.1
 INSERT INTO `azure_indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1802:1::400/120', 'IPv6');
 INSERT INTO `azure_indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('70.153.166.0/26', 'IPv4');
 INSERT INTO `azure_indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1802:1::740/122', 'IPv6');
+INSERT INTO `azure_indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('48.193.54.104/32', 'IPv4');
 INSERT INTO `azure_indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('70.153.67.251/32', 'IPv4');
 INSERT INTO `azure_indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('70.153.165.84/30', 'IPv4');
 INSERT INTO `azure_indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('70.153.176.52/32', 'IPv4');
 INSERT INTO `azure_indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1802:1::710/124', 'IPv6');
+INSERT INTO `azure_indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1802:7::114/128', 'IPv6');
 INSERT INTO `azure_indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('70.153.152.20/30', 'IPv4');
 INSERT INTO `azure_indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1802::2e0/124', 'IPv6');
 INSERT INTO `azure_indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('70.153.156.64/26', 'IPv4');

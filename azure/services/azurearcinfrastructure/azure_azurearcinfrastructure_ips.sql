@@ -247,6 +247,7 @@ INSERT INTO `azure_azurearcinfrastructure_ips` (`ip_address`, `ip_type`) VALUES 
 INSERT INTO `azure_azurearcinfrastructure_ips` (`ip_address`, `ip_type`) VALUES ('40.120.75.58/32', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure_ips` (`ip_address`, `ip_type`) VALUES ('40.120.77.176/30', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure_ips` (`ip_address`, `ip_type`) VALUES ('40.124.65.160/31', 'IPv4');
+INSERT INTO `azure_azurearcinfrastructure_ips` (`ip_address`, `ip_type`) VALUES ('48.193.54.104/32', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure_ips` (`ip_address`, `ip_type`) VALUES ('48.196.92.188/30', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure_ips` (`ip_address`, `ip_type`) VALUES ('48.197.86.164/30', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure_ips` (`ip_address`, `ip_type`) VALUES ('48.198.92.188/30', 'IPv4');
@@ -368,6 +369,8 @@ INSERT INTO `azure_azurearcinfrastructure_ips` (`ip_address`, `ip_type`) VALUES 
 INSERT INTO `azure_azurearcinfrastructure_ips` (`ip_address`, `ip_type`) VALUES ('74.249.127.128/29', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure_ips` (`ip_address`, `ip_type`) VALUES ('74.249.138.70/31', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure_ips` (`ip_address`, `ip_type`) VALUES ('74.249.138.88/29', 'IPv4');
+INSERT INTO `azure_azurearcinfrastructure_ips` (`ip_address`, `ip_type`) VALUES ('85.211.236.234/31', 'IPv4');
+INSERT INTO `azure_azurearcinfrastructure_ips` (`ip_address`, `ip_type`) VALUES ('85.211.236.248/30', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure_ips` (`ip_address`, `ip_type`) VALUES ('98.66.128.36/31', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure_ips` (`ip_address`, `ip_type`) VALUES ('98.66.128.72/29', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure_ips` (`ip_address`, `ip_type`) VALUES ('102.37.64.160/30', 'IPv4');
@@ -471,8 +474,10 @@ INSERT INTO `azure_azurearcinfrastructure_ips` (`ip_address`, `ip_type`) VALUES 
 INSERT INTO `azure_azurearcinfrastructure_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1402:3::2b0/124', 'IPv6');
 INSERT INTO `azure_azurearcinfrastructure_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1503:5::350/124', 'IPv6');
 INSERT INTO `azure_azurearcinfrastructure_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1602:2::130/124', 'IPv6');
+INSERT INTO `azure_azurearcinfrastructure_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1602:4::7f2/128', 'IPv6');
 INSERT INTO `azure_azurearcinfrastructure_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1702:2::20/124', 'IPv6');
 INSERT INTO `azure_azurearcinfrastructure_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1802:1::710/124', 'IPv6');
+INSERT INTO `azure_azurearcinfrastructure_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1802:7::114/128', 'IPv6');
 INSERT INTO `azure_azurearcinfrastructure_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1904:2::380/124', 'IPv6');
 INSERT INTO `azure_azurearcinfrastructure_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1a02:2::380/124', 'IPv6');
 INSERT INTO `azure_azurearcinfrastructure_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1b02:2::1b0/124', 'IPv6');

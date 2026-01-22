@@ -7,6 +7,7 @@ CREATE TABLE IF NOT EXISTS `azure_azuredataexplorermanagement.northeurope_ips` (
 );
 
 INSERT INTO `azure_azuredataexplorermanagement.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('4.207.251.80/28', 'IPv4');
+INSERT INTO `azure_azuredataexplorermanagement.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('4.208.113.192/27', 'IPv4');
 INSERT INTO `azure_azuredataexplorermanagement.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('13.69.229.176/28', 'IPv4');
 INSERT INTO `azure_azuredataexplorermanagement.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('52.142.91.221/32', 'IPv4');
 INSERT INTO `azure_azuredataexplorermanagement.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:5::600/121', 'IPv6');

@@ -95,6 +95,7 @@ INSERT INTO `azure_azurefrontdoor.frontend_ips` (`ip_address`, `ip_type`) VALUES
 INSERT INTO `azure_azurefrontdoor.frontend_ips` (`ip_address`, `ip_type`) VALUES ('150.171.88.0/23', 'IPv4');
 INSERT INTO `azure_azurefrontdoor.frontend_ips` (`ip_address`, `ip_type`) VALUES ('150.171.109.0/24', 'IPv4');
 INSERT INTO `azure_azurefrontdoor.frontend_ips` (`ip_address`, `ip_type`) VALUES ('150.171.110.0/23', 'IPv4');
+INSERT INTO `azure_azurefrontdoor.frontend_ips` (`ip_address`, `ip_type`) VALUES ('150.171.112.0/24', 'IPv4');
 INSERT INTO `azure_azurefrontdoor.frontend_ips` (`ip_address`, `ip_type`) VALUES ('158.23.108.48/29', 'IPv4');
 INSERT INTO `azure_azurefrontdoor.frontend_ips` (`ip_address`, `ip_type`) VALUES ('172.204.165.104/29', 'IPv4');
 INSERT INTO `azure_azurefrontdoor.frontend_ips` (`ip_address`, `ip_type`) VALUES ('191.233.9.112/29', 'IPv4');
@@ -190,7 +191,7 @@ INSERT INTO `azure_azurefrontdoor.frontend_ips` (`ip_address`, `ip_type`) VALUES
 INSERT INTO `azure_azurefrontdoor.frontend_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:6:1::7c0/123', 'IPv6');
 INSERT INTO `azure_azurefrontdoor.frontend_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:403::5a0/123', 'IPv6');
 INSERT INTO `azure_azurefrontdoor.frontend_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:11::/48', 'IPv6');
-INSERT INTO `azure_azurefrontdoor.frontend_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:14::/48', 'IPv6');
+INSERT INTO `azure_azurefrontdoor.frontend_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:14::/47', 'IPv6');
 INSERT INTO `azure_azurefrontdoor.frontend_ips` (`ip_address`, `ip_type`) VALUES ('2603:1062:10::/48', 'IPv6');
 INSERT INTO `azure_azurefrontdoor.frontend_ips` (`ip_address`, `ip_type`) VALUES ('2620:1ec:27::/48', 'IPv6');
 INSERT INTO `azure_azurefrontdoor.frontend_ips` (`ip_address`, `ip_type`) VALUES ('2620:1ec:29::/48', 'IPv6');

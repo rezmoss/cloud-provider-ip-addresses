@@ -534,6 +534,12 @@
     "region": ""
   },
   {
+    "ip_address": "150.171.112.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureFrontDoor.Frontend",
+    "region": ""
+  },
+  {
     "ip_address": "158.23.108.48/29",
     "ip_type": "IPv4",
     "service": "AzureFrontDoor.Frontend",
@@ -1104,7 +1110,7 @@
     "region": ""
   },
   {
-    "ip_address": "2603:1061:14::/48",
+    "ip_address": "2603:1061:14::/47",
     "ip_type": "IPv6",
     "service": "AzureFrontDoor.Frontend",
     "region": ""

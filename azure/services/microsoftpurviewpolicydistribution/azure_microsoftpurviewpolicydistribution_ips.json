@@ -126,108 +126,6 @@
     "region": ""
   },
   {
-    "ip_address": "20.47.146.123/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftPurviewPolicyDistribution",
-    "region": ""
-  },
-  {
-    "ip_address": "20.47.148.43/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftPurviewPolicyDistribution",
-    "region": ""
-  },
-  {
-    "ip_address": "20.54.128.141/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftPurviewPolicyDistribution",
-    "region": ""
-  },
-  {
-    "ip_address": "20.67.209.97/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftPurviewPolicyDistribution",
-    "region": ""
-  },
-  {
-    "ip_address": "20.67.209.234/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftPurviewPolicyDistribution",
-    "region": ""
-  },
-  {
-    "ip_address": "20.69.112.199/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftPurviewPolicyDistribution",
-    "region": ""
-  },
-  {
-    "ip_address": "20.69.115.229/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftPurviewPolicyDistribution",
-    "region": ""
-  },
-  {
-    "ip_address": "20.75.105.99/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftPurviewPolicyDistribution",
-    "region": ""
-  },
-  {
-    "ip_address": "20.75.106.102/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftPurviewPolicyDistribution",
-    "region": ""
-  },
-  {
-    "ip_address": "20.78.253.41/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftPurviewPolicyDistribution",
-    "region": ""
-  },
-  {
-    "ip_address": "20.78.253.175/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftPurviewPolicyDistribution",
-    "region": ""
-  },
-  {
-    "ip_address": "20.83.128.61/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftPurviewPolicyDistribution",
-    "region": ""
-  },
-  {
-    "ip_address": "20.83.128.68/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftPurviewPolicyDistribution",
-    "region": ""
-  },
-  {
-    "ip_address": "20.84.172.48/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftPurviewPolicyDistribution",
-    "region": ""
-  },
-  {
-    "ip_address": "20.84.173.33/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftPurviewPolicyDistribution",
-    "region": ""
-  },
-  {
-    "ip_address": "20.87.225.75/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftPurviewPolicyDistribution",
-    "region": ""
-  },
-  {
-    "ip_address": "20.87.228.95/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftPurviewPolicyDistribution",
-    "region": ""
-  },
-  {
     "ip_address": "20.164.152.68/31",
     "ip_type": "IPv4",
     "service": "MicrosoftPurviewPolicyDistribution",
@@ -235,72 +133,6 @@
   },
   {
     "ip_address": "20.166.47.176/31",
-    "ip_type": "IPv4",
-    "service": "MicrosoftPurviewPolicyDistribution",
-    "region": ""
-  },
-  {
-    "ip_address": "20.193.2.197/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftPurviewPolicyDistribution",
-    "region": ""
-  },
-  {
-    "ip_address": "20.193.3.6/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftPurviewPolicyDistribution",
-    "region": ""
-  },
-  {
-    "ip_address": "20.196.250.49/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftPurviewPolicyDistribution",
-    "region": ""
-  },
-  {
-    "ip_address": "20.196.250.152/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftPurviewPolicyDistribution",
-    "region": ""
-  },
-  {
-    "ip_address": "20.197.106.244/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftPurviewPolicyDistribution",
-    "region": ""
-  },
-  {
-    "ip_address": "20.197.108.61/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftPurviewPolicyDistribution",
-    "region": ""
-  },
-  {
-    "ip_address": "20.200.92.145/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftPurviewPolicyDistribution",
-    "region": ""
-  },
-  {
-    "ip_address": "20.200.94.241/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftPurviewPolicyDistribution",
-    "region": ""
-  },
-  {
-    "ip_address": "20.201.2.13/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftPurviewPolicyDistribution",
-    "region": ""
-  },
-  {
-    "ip_address": "20.203.64.116/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftPurviewPolicyDistribution",
-    "region": ""
-  },
-  {
-    "ip_address": "20.203.64.160/32",
     "ip_type": "IPv4",
     "service": "MicrosoftPurviewPolicyDistribution",
     "region": ""
@@ -348,30 +180,6 @@
     "region": ""
   },
   {
-    "ip_address": "20.237.160.226/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftPurviewPolicyDistribution",
-    "region": ""
-  },
-  {
-    "ip_address": "20.237.188.98/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftPurviewPolicyDistribution",
-    "region": ""
-  },
-  {
-    "ip_address": "20.250.180.234/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftPurviewPolicyDistribution",
-    "region": ""
-  },
-  {
-    "ip_address": "20.250.181.21/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftPurviewPolicyDistribution",
-    "region": ""
-  },
-  {
     "ip_address": "20.252.209.8/31",
     "ip_type": "IPv4",
     "service": "MicrosoftPurviewPolicyDistribution",
@@ -384,25 +192,7 @@
     "region": ""
   },
   {
-    "ip_address": "40.80.76.151/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftPurviewPolicyDistribution",
-    "region": ""
-  },
-  {
-    "ip_address": "40.80.76.159/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftPurviewPolicyDistribution",
-    "region": ""
-  },
-  {
     "ip_address": "40.84.124.132/30",
-    "ip_type": "IPv4",
-    "service": "MicrosoftPurviewPolicyDistribution",
-    "region": ""
-  },
-  {
-    "ip_address": "40.114.191.49/32",
     "ip_type": "IPv4",
     "service": "MicrosoftPurviewPolicyDistribution",
     "region": ""
@@ -432,30 +222,6 @@
     "region": ""
   },
   {
-    "ip_address": "51.138.200.175/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftPurviewPolicyDistribution",
-    "region": ""
-  },
-  {
-    "ip_address": "51.138.200.215/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftPurviewPolicyDistribution",
-    "region": ""
-  },
-  {
-    "ip_address": "51.143.248.226/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftPurviewPolicyDistribution",
-    "region": ""
-  },
-  {
-    "ip_address": "51.143.252.118/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftPurviewPolicyDistribution",
-    "region": ""
-  },
-  {
     "ip_address": "52.148.43.88/31",
     "ip_type": "IPv4",
     "service": "MicrosoftPurviewPolicyDistribution",
@@ -468,18 +234,6 @@
     "region": ""
   },
   {
-    "ip_address": "52.161.1.9/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftPurviewPolicyDistribution",
-    "region": ""
-  },
-  {
-    "ip_address": "52.161.1.11/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftPurviewPolicyDistribution",
-    "region": ""
-  },
-  {
     "ip_address": "52.191.43.74/31",
     "ip_type": "IPv4",
     "service": "MicrosoftPurviewPolicyDistribution",
@@ -487,18 +241,6 @@
   },
   {
     "ip_address": "52.233.120.204/30",
-    "ip_type": "IPv4",
-    "service": "MicrosoftPurviewPolicyDistribution",
-    "region": ""
-  },
-  {
-    "ip_address": "52.249.58.231/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftPurviewPolicyDistribution",
-    "region": ""
-  },
-  {
-    "ip_address": "52.249.59.158/32",
     "ip_type": "IPv4",
     "service": "MicrosoftPurviewPolicyDistribution",
     "region": ""
@@ -583,12 +325,6 @@
   },
   {
     "ip_address": "172.182.191.80/31",
-    "ip_type": "IPv4",
-    "service": "MicrosoftPurviewPolicyDistribution",
-    "region": ""
-  },
-  {
-    "ip_address": "191.237.200.129/32",
     "ip_type": "IPv4",
     "service": "MicrosoftPurviewPolicyDistribution",
     "region": ""

@@ -31,7 +31,6 @@ INSERT INTO `azure_azurespringcloud_ips` (`ip_address`, `ip_type`) VALUES ('20.3
 INSERT INTO `azure_azurespringcloud_ips` (`ip_address`, `ip_type`) VALUES ('20.38.138.48/29', 'IPv4');
 INSERT INTO `azure_azurespringcloud_ips` (`ip_address`, `ip_type`) VALUES ('20.38.138.128/25', 'IPv4');
 INSERT INTO `azure_azurespringcloud_ips` (`ip_address`, `ip_type`) VALUES ('20.38.139.0/26', 'IPv4');
-INSERT INTO `azure_azurespringcloud_ips` (`ip_address`, `ip_type`) VALUES ('20.39.1.226/32', 'IPv4');
 INSERT INTO `azure_azurespringcloud_ips` (`ip_address`, `ip_type`) VALUES ('20.39.3.161/32', 'IPv4');
 INSERT INTO `azure_azurespringcloud_ips` (`ip_address`, `ip_type`) VALUES ('20.39.3.213/32', 'IPv4');
 INSERT INTO `azure_azurespringcloud_ips` (`ip_address`, `ip_type`) VALUES ('20.39.5.82/32', 'IPv4');

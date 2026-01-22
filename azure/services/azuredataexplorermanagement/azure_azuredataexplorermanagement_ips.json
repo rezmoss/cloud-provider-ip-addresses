@@ -18,7 +18,19 @@
     "region": ""
   },
   {
+    "ip_address": "4.208.113.192/27",
+    "ip_type": "IPv4",
+    "service": "AzureDataExplorerManagement",
+    "region": ""
+  },
+  {
     "ip_address": "4.222.193.128/28",
+    "ip_type": "IPv4",
+    "service": "AzureDataExplorerManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "4.223.185.192/27",
     "ip_type": "IPv4",
     "service": "AzureDataExplorerManagement",
     "region": ""
@@ -649,6 +661,12 @@
   },
   {
     "ip_address": "48.202.151.64/28",
+    "ip_type": "IPv4",
+    "service": "AzureDataExplorerManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "48.204.5.96/27",
     "ip_type": "IPv4",
     "service": "AzureDataExplorerManagement",
     "region": ""

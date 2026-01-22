@@ -150,12 +150,6 @@
     "region": ""
   },
   {
-    "ip_address": "20.39.1.226/32",
-    "ip_type": "IPv4",
-    "service": "AzureSpringCloud",
-    "region": ""
-  },
-  {
     "ip_address": "20.39.3.161/32",
     "ip_type": "IPv4",
     "service": "AzureSpringCloud",

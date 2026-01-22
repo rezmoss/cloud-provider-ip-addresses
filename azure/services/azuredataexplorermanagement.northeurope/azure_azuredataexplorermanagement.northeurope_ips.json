@@ -6,6 +6,12 @@
     "region": "northeurope"
   },
   {
+    "ip_address": "4.208.113.192/27",
+    "ip_type": "IPv4",
+    "service": "AzureDataExplorerManagement.NorthEurope",
+    "region": "northeurope"
+  },
+  {
     "ip_address": "13.69.229.176/28",
     "ip_type": "IPv4",
     "service": "AzureDataExplorerManagement.NorthEurope",

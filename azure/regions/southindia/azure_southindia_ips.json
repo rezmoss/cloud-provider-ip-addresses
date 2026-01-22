@@ -2280,6 +2280,12 @@
     "region": "southindia"
   },
   {
+    "ip_address": "48.205.238.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southindia",
+    "region": "southindia"
+  },
+  {
     "ip_address": "48.208.39.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.southindia",

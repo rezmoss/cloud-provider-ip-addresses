@@ -14,4 +14,5 @@ INSERT INTO `azure_storage.polandcentral_ips` (`ip_address`, `ip_type`) VALUES (
 INSERT INTO `azure_storage.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.209.60.0/23', 'IPv4');
 INSERT INTO `azure_storage.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.209.94.0/23', 'IPv4');
 INSERT INTO `azure_storage.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('57.150.76.0/23', 'IPv4');
+INSERT INTO `azure_storage.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('135.130.208.0/23', 'IPv4');
 INSERT INTO `azure_storage.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1301::/48', 'IPv6');

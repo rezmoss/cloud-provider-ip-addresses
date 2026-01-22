@@ -2676,6 +2676,12 @@
     "region": "germanywc"
   },
   {
+    "ip_address": "20.95.125.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.germanywc",
+    "region": "germanywc"
+  },
+  {
     "ip_address": "20.113.0.0/17",
     "ip_type": "IPv4",
     "service": "AzureCloud.germanywc",
@@ -3132,7 +3138,13 @@
     "region": "germanywc"
   },
   {
-    "ip_address": "57.157.60.144/30",
+    "ip_address": "57.157.60.144/29",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.germanywc",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "57.157.60.152/30",
     "ip_type": "IPv4",
     "service": "AzureCloud.germanywc",
     "region": "germanywc"

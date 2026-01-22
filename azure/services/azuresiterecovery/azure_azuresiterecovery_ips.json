@@ -1,6 +1,18 @@
 [
   {
+    "ip_address": "4.145.0.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
     "ip_address": "4.149.21.200/29",
+    "ip_type": "IPv4",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
+    "ip_address": "4.153.250.96/28",
     "ip_type": "IPv4",
     "service": "AzureSiteRecovery",
     "region": ""
@@ -24,7 +36,19 @@
     "region": ""
   },
   {
+    "ip_address": "4.187.73.0/28",
+    "ip_type": "IPv4",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
     "ip_address": "4.187.106.200/29",
+    "ip_type": "IPv4",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
+    "ip_address": "4.189.210.96/28",
     "ip_type": "IPv4",
     "service": "AzureSiteRecovery",
     "region": ""
@@ -42,7 +66,19 @@
     "region": ""
   },
   {
+    "ip_address": "4.198.222.112/28",
+    "ip_type": "IPv4",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
     "ip_address": "4.203.144.32/29",
+    "ip_type": "IPv4",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
+    "ip_address": "4.206.254.80/28",
     "ip_type": "IPv4",
     "service": "AzureSiteRecovery",
     "region": ""
@@ -54,7 +90,19 @@
     "region": ""
   },
   {
+    "ip_address": "4.217.136.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
     "ip_address": "4.218.244.40/29",
+    "ip_type": "IPv4",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
+    "ip_address": "4.220.129.80/28",
     "ip_type": "IPv4",
     "service": "AzureSiteRecovery",
     "region": ""
@@ -67,6 +115,12 @@
   },
   {
     "ip_address": "4.222.209.64/29",
+    "ip_type": "IPv4",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
+    "ip_address": "4.229.122.64/28",
     "ip_type": "IPv4",
     "service": "AzureSiteRecovery",
     "region": ""
@@ -108,6 +162,12 @@
     "region": ""
   },
   {
+    "ip_address": "4.238.16.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
     "ip_address": "4.240.150.232/29",
     "ip_type": "IPv4",
     "service": "AzureSiteRecovery",
@@ -120,7 +180,31 @@
     "region": ""
   },
   {
+    "ip_address": "4.243.130.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
+    "ip_address": "4.244.154.64/28",
+    "ip_type": "IPv4",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
     "ip_address": "4.248.103.184/29",
+    "ip_type": "IPv4",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
+    "ip_address": "4.251.0.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
+    "ip_address": "4.251.217.16/28",
     "ip_type": "IPv4",
     "service": "AzureSiteRecovery",
     "region": ""
@@ -138,13 +222,31 @@
     "region": ""
   },
   {
+    "ip_address": "9.160.17.16/28",
+    "ip_type": "IPv4",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
     "ip_address": "9.160.40.0/28",
     "ip_type": "IPv4",
     "service": "AzureSiteRecovery",
     "region": ""
   },
   {
+    "ip_address": "9.205.13.0/28",
+    "ip_type": "IPv4",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
     "ip_address": "9.205.32.0/28",
+    "ip_type": "IPv4",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
+    "ip_address": "9.223.122.80/28",
     "ip_type": "IPv4",
     "service": "AzureSiteRecovery",
     "region": ""
@@ -258,6 +360,12 @@
     "region": ""
   },
   {
+    "ip_address": "20.2.105.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
     "ip_address": "20.17.48.0/28",
     "ip_type": "IPv4",
     "service": "AzureSiteRecovery",
@@ -319,6 +427,12 @@
   },
   {
     "ip_address": "20.21.93.80/29",
+    "ip_type": "IPv4",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
+    "ip_address": "20.28.89.80/28",
     "ip_type": "IPv4",
     "service": "AzureSiteRecovery",
     "region": ""
@@ -564,6 +678,12 @@
     "region": ""
   },
   {
+    "ip_address": "20.91.56.0/28",
+    "ip_type": "IPv4",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
     "ip_address": "20.91.103.152/29",
     "ip_type": "IPv4",
     "service": "AzureSiteRecovery",
@@ -606,7 +726,19 @@
     "region": ""
   },
   {
+    "ip_address": "20.167.202.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
     "ip_address": "20.168.162.112/28",
+    "ip_type": "IPv4",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
+    "ip_address": "20.170.161.80/28",
     "ip_type": "IPv4",
     "service": "AzureSiteRecovery",
     "region": ""
@@ -666,6 +798,18 @@
     "region": ""
   },
   {
+    "ip_address": "20.207.9.16/28",
+    "ip_type": "IPv4",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
+    "ip_address": "20.208.13.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
     "ip_address": "20.208.18.112/28",
     "ip_type": "IPv4",
     "service": "AzureSiteRecovery",
@@ -691,6 +835,12 @@
   },
   {
     "ip_address": "20.215.155.224/28",
+    "ip_type": "IPv4",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
+    "ip_address": "20.216.121.64/28",
     "ip_type": "IPv4",
     "service": "AzureSiteRecovery",
     "region": ""
@@ -727,6 +877,18 @@
   },
   {
     "ip_address": "20.217.248.0/28",
+    "ip_type": "IPv4",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
+    "ip_address": "20.237.130.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
+    "ip_address": "20.244.251.0/28",
     "ip_type": "IPv4",
     "service": "AzureSiteRecovery",
     "region": ""
@@ -960,6 +1122,12 @@
     "region": ""
   },
   {
+    "ip_address": "40.117.3.16/28",
+    "ip_type": "IPv4",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
     "ip_address": "40.119.9.192/28",
     "ip_type": "IPv4",
     "service": "AzureSiteRecovery",
@@ -973,6 +1141,12 @@
   },
   {
     "ip_address": "40.123.219.238/32",
+    "ip_type": "IPv4",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
+    "ip_address": "48.193.0.0/28",
     "ip_type": "IPv4",
     "service": "AzureSiteRecovery",
     "region": ""
@@ -996,7 +1170,19 @@
     "region": ""
   },
   {
+    "ip_address": "48.215.155.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
     "ip_address": "48.216.16.0/28",
+    "ip_type": "IPv4",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
+    "ip_address": "48.216.60.16/28",
     "ip_type": "IPv4",
     "service": "AzureSiteRecovery",
     "region": ""
@@ -1008,7 +1194,19 @@
     "region": ""
   },
   {
+    "ip_address": "48.219.66.0/28",
+    "ip_type": "IPv4",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
     "ip_address": "48.219.192.0/28",
+    "ip_type": "IPv4",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
+    "ip_address": "51.4.172.0/28",
     "ip_type": "IPv4",
     "service": "AzureSiteRecovery",
     "region": ""
@@ -1069,6 +1267,12 @@
   },
   {
     "ip_address": "51.53.187.224/28",
+    "ip_type": "IPv4",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
+    "ip_address": "51.58.2.80/28",
     "ip_type": "IPv4",
     "service": "AzureSiteRecovery",
     "region": ""
@@ -1482,6 +1686,24 @@
     "region": ""
   },
   {
+    "ip_address": "68.154.156.0/28",
+    "ip_type": "IPv4",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
+    "ip_address": "68.155.250.16/28",
+    "ip_type": "IPv4",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
+    "ip_address": "68.210.1.16/28",
+    "ip_type": "IPv4",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
     "ip_address": "68.210.160.0/28",
     "ip_type": "IPv4",
     "service": "AzureSiteRecovery",
@@ -1495,6 +1717,12 @@
   },
   {
     "ip_address": "68.211.19.112/28",
+    "ip_type": "IPv4",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
+    "ip_address": "68.211.33.0/28",
     "ip_type": "IPv4",
     "service": "AzureSiteRecovery",
     "region": ""
@@ -1524,7 +1752,37 @@
     "region": ""
   },
   {
+    "ip_address": "70.156.216.16/28",
+    "ip_type": "IPv4",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
+    "ip_address": "70.157.83.48/28",
+    "ip_type": "IPv4",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
+    "ip_address": "72.147.54.16/28",
+    "ip_type": "IPv4",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
     "ip_address": "74.7.40.0/28",
+    "ip_type": "IPv4",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
+    "ip_address": "74.7.100.0/28",
+    "ip_type": "IPv4",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
+    "ip_address": "74.7.157.16/28",
     "ip_type": "IPv4",
     "service": "AzureSiteRecovery",
     "region": ""
@@ -1536,13 +1794,37 @@
     "region": ""
   },
   {
+    "ip_address": "74.162.170.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
+    "ip_address": "74.163.231.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
     "ip_address": "74.224.33.72/29",
     "ip_type": "IPv4",
     "service": "AzureSiteRecovery",
     "region": ""
   },
   {
+    "ip_address": "74.224.241.16/28",
+    "ip_type": "IPv4",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
     "ip_address": "74.240.192.248/29",
+    "ip_type": "IPv4",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
+    "ip_address": "74.242.25.80/28",
     "ip_type": "IPv4",
     "service": "AzureSiteRecovery",
     "region": ""
@@ -1567,6 +1849,24 @@
   },
   {
     "ip_address": "74.248.90.72/29",
+    "ip_type": "IPv4",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
+    "ip_address": "74.248.243.16/28",
+    "ip_type": "IPv4",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
+    "ip_address": "85.211.69.0/28",
+    "ip_type": "IPv4",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
+    "ip_address": "85.211.145.0/28",
     "ip_type": "IPv4",
     "service": "AzureSiteRecovery",
     "region": ""
@@ -1650,7 +1950,49 @@
     "region": ""
   },
   {
+    "ip_address": "128.24.232.16/28",
+    "ip_type": "IPv4",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
+    "ip_address": "130.213.112.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
+    "ip_address": "131.163.6.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
+    "ip_address": "134.138.1.0/28",
+    "ip_type": "IPv4",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
     "ip_address": "134.138.64.0/28",
+    "ip_type": "IPv4",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
+    "ip_address": "134.149.110.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
+    "ip_address": "135.220.116.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
+    "ip_address": "135.222.195.96/28",
     "ip_type": "IPv4",
     "service": "AzureSiteRecovery",
     "region": ""
@@ -1663,6 +2005,18 @@
   },
   {
     "ip_address": "135.225.43.32/29",
+    "ip_type": "IPv4",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
+    "ip_address": "135.235.135.64/28",
+    "ip_type": "IPv4",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
+    "ip_address": "145.133.35.80/28",
     "ip_type": "IPv4",
     "service": "AzureSiteRecovery",
     "region": ""
@@ -1686,7 +2040,25 @@
     "region": ""
   },
   {
+    "ip_address": "167.105.228.16/28",
+    "ip_type": "IPv4",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
+    "ip_address": "168.61.229.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
     "ip_address": "172.164.238.0/29",
+    "ip_type": "IPv4",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
+    "ip_address": "172.169.145.80/28",
     "ip_type": "IPv4",
     "service": "AzureSiteRecovery",
     "region": ""
@@ -1704,13 +2076,37 @@
     "region": ""
   },
   {
+    "ip_address": "172.179.226.96/28",
+    "ip_type": "IPv4",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
+    "ip_address": "172.182.1.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
     "ip_address": "172.186.6.232/29",
     "ip_type": "IPv4",
     "service": "AzureSiteRecovery",
     "region": ""
   },
   {
+    "ip_address": "172.187.17.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
     "ip_address": "172.187.102.144/29",
+    "ip_type": "IPv4",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
+    "ip_address": "172.192.144.80/28",
     "ip_type": "IPv4",
     "service": "AzureSiteRecovery",
     "region": ""
@@ -1723,6 +2119,18 @@
   },
   {
     "ip_address": "172.198.80.0/28",
+    "ip_type": "IPv4",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
+    "ip_address": "172.199.232.112/28",
+    "ip_type": "IPv4",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
+    "ip_address": "172.204.108.48/28",
     "ip_type": "IPv4",
     "service": "AzureSiteRecovery",
     "region": ""
@@ -1758,13 +2166,31 @@
     "region": ""
   },
   {
+    "ip_address": "172.209.182.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
     "ip_address": "172.212.235.24/29",
     "ip_type": "IPv4",
     "service": "AzureSiteRecovery",
     "region": ""
   },
   {
+    "ip_address": "172.213.134.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
     "ip_address": "172.215.34.200/29",
+    "ip_type": "IPv4",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
+    "ip_address": "172.215.171.80/28",
     "ip_type": "IPv4",
     "service": "AzureSiteRecovery",
     "region": ""

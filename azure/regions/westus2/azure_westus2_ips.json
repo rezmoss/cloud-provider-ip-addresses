@@ -858,6 +858,12 @@
     "region": "westus2"
   },
   {
+    "ip_address": "48.204.5.96/27",
+    "ip_type": "IPv4",
+    "service": "AzureDataExplorerManagement.WestUS2",
+    "region": "westus2"
+  },
+  {
     "ip_address": "172.179.35.240/28",
     "ip_type": "IPv4",
     "service": "AzureDataExplorerManagement.WestUS2",
@@ -6145,6 +6151,12 @@
   },
   {
     "ip_address": "57.157.72.96/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.westus2",
+    "region": "westus2"
+  },
+  {
+    "ip_address": "57.157.72.112/31",
     "ip_type": "IPv4",
     "service": "AzureCloud.westus2",
     "region": "westus2"

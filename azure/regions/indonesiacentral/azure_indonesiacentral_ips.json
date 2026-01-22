@@ -60,6 +60,12 @@
     "region": "indonesiacentral"
   },
   {
+    "ip_address": "48.193.54.104/32",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.IndonesiaCentral",
+    "region": "indonesiacentral"
+  },
+  {
     "ip_address": "70.153.67.251/32",
     "ip_type": "IPv4",
     "service": "AzureArcInfrastructure.IndonesiaCentral",
@@ -79,6 +85,12 @@
   },
   {
     "ip_address": "2603:1040:1802:1::710/124",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.IndonesiaCentral",
+    "region": "indonesiacentral"
+  },
+  {
+    "ip_address": "2603:1040:1802:7::114/128",
     "ip_type": "IPv6",
     "service": "AzureArcInfrastructure.IndonesiaCentral",
     "region": "indonesiacentral"

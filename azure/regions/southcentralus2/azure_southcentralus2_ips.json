@@ -738,13 +738,19 @@
     "region": "southcentralus2"
   },
   {
-    "ip_address": "20.20.72.160/30",
+    "ip_address": "20.20.72.160/28",
     "ip_type": "IPv4",
     "service": "AzureCloud.southcentralus2",
     "region": "southcentralus2"
   },
   {
-    "ip_address": "20.20.72.164/31",
+    "ip_address": "20.20.72.176/29",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southcentralus2",
+    "region": "southcentralus2"
+  },
+  {
+    "ip_address": "20.20.72.184/31",
     "ip_type": "IPv4",
     "service": "AzureCloud.southcentralus2",
     "region": "southcentralus2"
@@ -912,19 +918,19 @@
     "region": "southcentralus2"
   },
   {
-    "ip_address": "2603:1061:1012:40::/61",
+    "ip_address": "2603:1061:1012:40::/60",
     "ip_type": "IPv6",
     "service": "AzureCloud.southcentralus2",
     "region": "southcentralus2"
   },
   {
-    "ip_address": "2603:1061:1012:48::/63",
+    "ip_address": "2603:1061:1012:50::/62",
     "ip_type": "IPv6",
     "service": "AzureCloud.southcentralus2",
     "region": "southcentralus2"
   },
   {
-    "ip_address": "2603:1061:1012:4a::/64",
+    "ip_address": "2603:1061:1012:54::/64",
     "ip_type": "IPv6",
     "service": "AzureCloud.southcentralus2",
     "region": "southcentralus2"

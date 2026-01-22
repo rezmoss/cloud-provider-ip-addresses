@@ -550,6 +550,10 @@ INSERT INTO `azure_ukwest_ips` (`ip_address`, `ip_type`) VALUES ('40.101.20.0/26
 INSERT INTO `azure_ukwest_ips` (`ip_address`, `ip_type`) VALUES ('40.101.115.64/26', 'IPv4');
 INSERT INTO `azure_ukwest_ips` (`ip_address`, `ip_type`) VALUES ('40.126.16.0/25', 'IPv4');
 INSERT INTO `azure_ukwest_ips` (`ip_address`, `ip_type`) VALUES ('40.126.43.0/24', 'IPv4');
+INSERT INTO `azure_ukwest_ips` (`ip_address`, `ip_type`) VALUES ('48.205.222.0/24', 'IPv4');
+INSERT INTO `azure_ukwest_ips` (`ip_address`, `ip_type`) VALUES ('48.205.231.0/24', 'IPv4');
+INSERT INTO `azure_ukwest_ips` (`ip_address`, `ip_type`) VALUES ('48.205.234.0/24', 'IPv4');
+INSERT INTO `azure_ukwest_ips` (`ip_address`, `ip_type`) VALUES ('48.205.236.0/24', 'IPv4');
 INSERT INTO `azure_ukwest_ips` (`ip_address`, `ip_type`) VALUES ('48.208.44.0/24', 'IPv4');
 INSERT INTO `azure_ukwest_ips` (`ip_address`, `ip_type`) VALUES ('48.212.9.0/24', 'IPv4');
 INSERT INTO `azure_ukwest_ips` (`ip_address`, `ip_type`) VALUES ('48.212.137.0/24', 'IPv4');

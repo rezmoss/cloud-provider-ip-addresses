@@ -9,7 +9,9 @@ CREATE TABLE IF NOT EXISTS `azure_azuredataexplorermanagement_ips` (
 INSERT INTO `azure_azuredataexplorermanagement_ips` (`ip_address`, `ip_type`) VALUES ('4.174.144.144/28', 'IPv4');
 INSERT INTO `azure_azuredataexplorermanagement_ips` (`ip_address`, `ip_type`) VALUES ('4.182.43.64/28', 'IPv4');
 INSERT INTO `azure_azuredataexplorermanagement_ips` (`ip_address`, `ip_type`) VALUES ('4.207.251.80/28', 'IPv4');
+INSERT INTO `azure_azuredataexplorermanagement_ips` (`ip_address`, `ip_type`) VALUES ('4.208.113.192/27', 'IPv4');
 INSERT INTO `azure_azuredataexplorermanagement_ips` (`ip_address`, `ip_type`) VALUES ('4.222.193.128/28', 'IPv4');
+INSERT INTO `azure_azuredataexplorermanagement_ips` (`ip_address`, `ip_type`) VALUES ('4.223.185.192/27', 'IPv4');
 INSERT INTO `azure_azuredataexplorermanagement_ips` (`ip_address`, `ip_type`) VALUES ('4.232.30.160/28', 'IPv4');
 INSERT INTO `azure_azuredataexplorermanagement_ips` (`ip_address`, `ip_type`) VALUES ('4.251.224.192/28', 'IPv4');
 INSERT INTO `azure_azuredataexplorermanagement_ips` (`ip_address`, `ip_type`) VALUES ('9.160.46.192/28', 'IPv4');
@@ -115,6 +117,7 @@ INSERT INTO `azure_azuredataexplorermanagement_ips` (`ip_address`, `ip_type`) VA
 INSERT INTO `azure_azuredataexplorermanagement_ips` (`ip_address`, `ip_type`) VALUES ('48.197.81.144/28', 'IPv4');
 INSERT INTO `azure_azuredataexplorermanagement_ips` (`ip_address`, `ip_type`) VALUES ('48.198.89.144/28', 'IPv4');
 INSERT INTO `azure_azuredataexplorermanagement_ips` (`ip_address`, `ip_type`) VALUES ('48.202.151.64/28', 'IPv4');
+INSERT INTO `azure_azuredataexplorermanagement_ips` (`ip_address`, `ip_type`) VALUES ('48.204.5.96/27', 'IPv4');
 INSERT INTO `azure_azuredataexplorermanagement_ips` (`ip_address`, `ip_type`) VALUES ('48.216.22.128/28', 'IPv4');
 INSERT INTO `azure_azuredataexplorermanagement_ips` (`ip_address`, `ip_type`) VALUES ('48.219.198.192/28', 'IPv4');
 INSERT INTO `azure_azuredataexplorermanagement_ips` (`ip_address`, `ip_type`) VALUES ('51.12.20.48/28', 'IPv4');

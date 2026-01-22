@@ -3876,19 +3876,13 @@
     "region": "canadacentral"
   },
   {
-    "ip_address": "40.120.186.0/29",
+    "ip_address": "40.120.186.0/28",
     "ip_type": "IPv4",
     "service": "AzureCloud.canadacentral",
     "region": "canadacentral"
   },
   {
-    "ip_address": "40.120.186.8/30",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.canadacentral",
-    "region": "canadacentral"
-  },
-  {
-    "ip_address": "40.120.186.12/31",
+    "ip_address": "40.120.186.16/30",
     "ip_type": "IPv4",
     "service": "AzureCloud.canadacentral",
     "region": "canadacentral"

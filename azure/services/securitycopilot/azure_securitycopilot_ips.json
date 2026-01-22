@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "4.145.18.96/29",
+    "ip_type": "IPv4",
+    "service": "SecurityCopilot",
+    "region": ""
+  },
+  {
     "ip_address": "4.149.98.24/31",
     "ip_type": "IPv4",
     "service": "SecurityCopilot",
@@ -19,6 +25,12 @@
   },
   {
     "ip_address": "4.149.105.128/32",
+    "ip_type": "IPv4",
+    "service": "SecurityCopilot",
+    "region": ""
+  },
+  {
+    "ip_address": "4.161.11.168/29",
     "ip_type": "IPv4",
     "service": "SecurityCopilot",
     "region": ""
@@ -61,6 +73,18 @@
   },
   {
     "ip_address": "4.216.4.56/29",
+    "ip_type": "IPv4",
+    "service": "SecurityCopilot",
+    "region": ""
+  },
+  {
+    "ip_address": "4.221.223.232/29",
+    "ip_type": "IPv4",
+    "service": "SecurityCopilot",
+    "region": ""
+  },
+  {
+    "ip_address": "4.223.185.8/29",
     "ip_type": "IPv4",
     "service": "SecurityCopilot",
     "region": ""
@@ -109,6 +133,12 @@
   },
   {
     "ip_address": "20.50.203.194/32",
+    "ip_type": "IPv4",
+    "service": "SecurityCopilot",
+    "region": ""
+  },
+  {
+    "ip_address": "20.51.43.152/29",
     "ip_type": "IPv4",
     "service": "SecurityCopilot",
     "region": ""
@@ -204,6 +234,24 @@
     "region": ""
   },
   {
+    "ip_address": "48.192.208.80/28",
+    "ip_type": "IPv4",
+    "service": "SecurityCopilot",
+    "region": ""
+  },
+  {
+    "ip_address": "48.199.206.152/29",
+    "ip_type": "IPv4",
+    "service": "SecurityCopilot",
+    "region": ""
+  },
+  {
+    "ip_address": "48.204.0.152/29",
+    "ip_type": "IPv4",
+    "service": "SecurityCopilot",
+    "region": ""
+  },
+  {
     "ip_address": "48.204.168.240/29",
     "ip_type": "IPv4",
     "service": "SecurityCopilot",
@@ -246,6 +294,12 @@
     "region": ""
   },
   {
+    "ip_address": "74.242.152.32/29",
+    "ip_type": "IPv4",
+    "service": "SecurityCopilot",
+    "region": ""
+  },
+  {
     "ip_address": "108.143.177.252/32",
     "ip_type": "IPv4",
     "service": "SecurityCopilot",
@@ -253,6 +307,12 @@
   },
   {
     "ip_address": "145.191.107.112/29",
+    "ip_type": "IPv4",
+    "service": "SecurityCopilot",
+    "region": ""
+  },
+  {
+    "ip_address": "172.166.3.96/29",
     "ip_type": "IPv4",
     "service": "SecurityCopilot",
     "region": ""
