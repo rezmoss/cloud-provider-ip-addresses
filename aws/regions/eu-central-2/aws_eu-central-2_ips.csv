@@ -43,6 +43,7 @@ ip_address,ip_type,service,region
 52.95.139.0/24,IPv4,S3,eu-central-2
 52.95.140.0/23,IPv4,S3,eu-central-2
 3.5.52.0/22,IPv4,S3,eu-central-2
+1.178.21.0/24,IPv4,S3,eu-central-2
 16.62.56.224/28,IPv4,S3,eu-central-2
 16.62.56.240/28,IPv4,S3,eu-central-2
 51.34.0.0/16,IPv4,EC2,eu-central-2
@@ -109,6 +110,7 @@ ip_address,ip_type,service,region
 2a05:d030:9000::/40,IPv6,S3,eu-central-2
 2a05:d059:9000::/40,IPv6,S3,eu-central-2
 2a05:d070:9000::/40,IPv6,S3,eu-central-2
+2600:f0f1:8b::/48,IPv6,S3,eu-central-2
 2a05:d074:9000::/40,IPv6,EC2,eu-central-2
 2a05:d05b:9000::/40,IPv6,EC2,eu-central-2
 2a05:d076:9000::/40,IPv6,EC2,eu-central-2

@@ -156,6 +156,12 @@
     "region": "eu-north-1"
   },
   {
+    "ip_address": "86.112.0.0/15",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-north-1"
+  },
+  {
     "ip_address": "16.196.0.0/16",
     "ip_type": "IPv4",
     "service": "AMAZON",

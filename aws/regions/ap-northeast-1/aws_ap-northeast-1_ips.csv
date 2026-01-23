@@ -160,6 +160,7 @@ ip_address,ip_type,service,region
 15.230.129.0/24,IPv4,AMAZON,ap-northeast-1
 150.247.36.0/24,IPv4,AMAZON,ap-northeast-1
 13.230.0.0/15,IPv4,AMAZON,ap-northeast-1
+32.232.0.0/16,IPv4,AMAZON,ap-northeast-1
 18.176.0.0/15,IPv4,AMAZON,ap-northeast-1
 52.93.66.0/24,IPv4,AMAZON,ap-northeast-1
 52.93.72.0/23,IPv4,AMAZON,ap-northeast-1
