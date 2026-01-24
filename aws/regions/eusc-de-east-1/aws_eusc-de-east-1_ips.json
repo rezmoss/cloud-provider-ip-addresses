@@ -84,6 +84,12 @@
     "region": "eusc-de-east-1"
   },
   {
+    "ip_address": "51.172.0.0/15",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eusc-de-east-1"
+  },
+  {
     "ip_address": "51.0.142.0/23",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -97,6 +103,12 @@
   },
   {
     "ip_address": "51.0.136.0/23",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "51.0.251.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "eusc-de-east-1"
@@ -270,6 +282,12 @@
     "region": "eusc-de-east-1"
   },
   {
+    "ip_address": "51.0.251.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "eusc-de-east-1"
+  },
+  {
     "ip_address": "51.0.138.0/23",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -349,6 +367,12 @@
   },
   {
     "ip_address": "2001:3fc3:2800::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2001:3fc6:1::/48",
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "eusc-de-east-1"
@@ -553,6 +577,12 @@
   },
   {
     "ip_address": "2001:3fc3:2800::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2001:3fc6:1::/48",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "eusc-de-east-1"

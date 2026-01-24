@@ -876,6 +876,12 @@
     "region": "eu-west-2"
   },
   {
+    "ip_address": "65.176.0.0/15",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-west-2"
+  },
+  {
     "ip_address": "52.93.153.175/32",
     "ip_type": "IPv4",
     "service": "AMAZON",

@@ -1,4 +1,5 @@
 ip_address,ip_type,service,region
+65.178.0.0/15,IPv4,AMAZON,ap-southeast-7
 3.5.60.0/22,IPv4,AMAZON,ap-southeast-7
 104.255.59.208/32,IPv4,AMAZON,ap-southeast-7
 13.248.77.0/24,IPv4,AMAZON,ap-southeast-7

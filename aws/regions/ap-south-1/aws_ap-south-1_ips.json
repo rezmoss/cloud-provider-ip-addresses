@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "16.4.0.0/16",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-south-1"
+  },
+  {
     "ip_address": "3.108.0.0/14",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -769,6 +775,12 @@
   },
   {
     "ip_address": "104.255.59.86/32",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-south-1"
+  },
+  {
+    "ip_address": "15.252.0.0/16",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "ap-south-1"

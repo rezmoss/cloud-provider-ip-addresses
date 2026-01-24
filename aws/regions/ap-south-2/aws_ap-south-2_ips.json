@@ -210,6 +210,18 @@
     "region": "ap-south-2"
   },
   {
+    "ip_address": "15.249.0.0/16",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "15.227.0.0/16",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
     "ip_address": "99.87.8.0/21",
     "ip_type": "IPv4",
     "service": "AMAZON",

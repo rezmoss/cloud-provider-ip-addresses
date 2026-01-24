@@ -6672,6 +6672,12 @@
     "region": "us-west-2"
   },
   {
+    "ip_address": "51.0.251.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "eusc-de-east-1"
+  },
+  {
     "ip_address": "54.238.0.0/16",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -11164,6 +11170,12 @@
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "eu-west-1"
+  },
+  {
+    "ip_address": "2001:3fc6:1::/48",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eusc-de-east-1"
   },
   {
     "ip_address": "2406:da32:7000::/40",
