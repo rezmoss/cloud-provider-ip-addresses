@@ -15,4 +15,3 @@ INSERT INTO `googlecloud_europe-north1_ips` (`ip_address`, `ip_type`) VALUES ('3
 INSERT INTO `googlecloud_europe-north1_ips` (`ip_address`, `ip_type`) VALUES ('35.228.0.0/16', 'IPv4');
 INSERT INTO `googlecloud_europe-north1_ips` (`ip_address`, `ip_type`) VALUES ('35.242.26.0/24', 'IPv4');
 INSERT INTO `googlecloud_europe-north1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1900:4150::/44', 'IPv6');
-INSERT INTO `googlecloud_europe-north1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1902:e0::/44', 'IPv6');

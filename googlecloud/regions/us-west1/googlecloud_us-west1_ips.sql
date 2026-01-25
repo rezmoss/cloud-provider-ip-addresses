@@ -43,4 +43,3 @@ INSERT INTO `googlecloud_us-west1_ips` (`ip_address`, `ip_type`) VALUES ('136.10
 INSERT INTO `googlecloud_us-west1_ips` (`ip_address`, `ip_type`) VALUES ('136.117.0.0/16', 'IPv4');
 INSERT INTO `googlecloud_us-west1_ips` (`ip_address`, `ip_type`) VALUES ('136.118.0.0/16', 'IPv4');
 INSERT INTO `googlecloud_us-west1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1900:4040::/44', 'IPv6');
-INSERT INTO `googlecloud_us-west1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1902:290::/44', 'IPv6');

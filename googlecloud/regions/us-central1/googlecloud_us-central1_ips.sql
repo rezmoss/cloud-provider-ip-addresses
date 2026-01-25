@@ -103,4 +103,3 @@ INSERT INTO `googlecloud_us-central1_ips` (`ip_address`, `ip_type`) VALUES ('199
 INSERT INTO `googlecloud_us-central1_ips` (`ip_address`, `ip_type`) VALUES ('199.223.232.0/22', 'IPv4');
 INSERT INTO `googlecloud_us-central1_ips` (`ip_address`, `ip_type`) VALUES ('199.223.236.0/24', 'IPv4');
 INSERT INTO `googlecloud_us-central1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1900:4000::/44', 'IPv6');
-INSERT INTO `googlecloud_us-central1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1902::/44', 'IPv6');

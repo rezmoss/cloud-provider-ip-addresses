@@ -244,11 +244,5 @@
     "ip_type": "IPv6",
     "service": "Google Cloud",
     "region": "us-east4"
-  },
-  {
-    "ip_address": "2600:1902:250::/44",
-    "ip_type": "IPv6",
-    "service": "Google Cloud",
-    "region": "us-east4"
   }
 ]

@@ -58,11 +58,5 @@
     "ip_type": "IPv6",
     "service": "Google Cloud",
     "region": "me-west1"
-  },
-  {
-    "ip_address": "2600:1902:1c0::/44",
-    "ip_type": "IPv6",
-    "service": "Google Cloud",
-    "region": "me-west1"
   }
 ]

@@ -16,4 +16,3 @@ INSERT INTO `googlecloud_us-east5_ips` (`ip_address`, `ip_type`) VALUES ('34.157
 INSERT INTO `googlecloud_us-east5_ips` (`ip_address`, `ip_type`) VALUES ('34.162.0.0/16', 'IPv4');
 INSERT INTO `googlecloud_us-east5_ips` (`ip_address`, `ip_type`) VALUES ('34.186.224.0/19', 'IPv4');
 INSERT INTO `googlecloud_us-east5_ips` (`ip_address`, `ip_type`) VALUES ('2600:1901:8130::/44', 'IPv6');
-INSERT INTO `googlecloud_us-east5_ips` (`ip_address`, `ip_type`) VALUES ('2600:1902:260::/44', 'IPv6');

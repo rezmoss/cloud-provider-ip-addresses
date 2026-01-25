@@ -10,4 +10,3 @@ ip_address,ip_type,service,region
 34.177.70.0/24,IPv4,Google Cloud,me-central2
 35.252.32.0/19,IPv4,Google Cloud,me-central2
 2600:1900:5400::/44,IPv6,Google Cloud,me-central2
-2600:1902:1b0::/44,IPv6,Google Cloud,me-central2
