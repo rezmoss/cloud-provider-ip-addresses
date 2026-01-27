@@ -1716,6 +1716,12 @@
     "region": "ap-south-1"
   },
   {
+    "ip_address": "1.178.23.0/24",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "ap-south-2"
+  },
+  {
     "ip_address": "18.60.78.192/28",
     "ip_type": "IPv4",
     "service": "S3",
@@ -1810,6 +1816,12 @@
     "ip_type": "IPv4",
     "service": "S3",
     "region": "ap-southeast-3"
+  },
+  {
+    "ip_address": "1.178.24.0/24",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "ap-southeast-4"
   },
   {
     "ip_address": "16.50.69.192/28",
@@ -2172,6 +2184,12 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "3.2.74.0/24",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "44.192.134.240/28",
     "ip_type": "IPv4",
     "service": "S3",
@@ -2197,6 +2215,12 @@
   },
   {
     "ip_address": "3.141.102.224/28",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "us-east-2"
+  },
+  {
+    "ip_address": "3.2.67.0/24",
     "ip_type": "IPv4",
     "service": "S3",
     "region": "us-east-2"
@@ -2233,6 +2257,12 @@
   },
   {
     "ip_address": "1.178.9.0/24",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "3.2.68.0/24",
     "ip_type": "IPv4",
     "service": "S3",
     "region": "us-west-2"
@@ -4200,6 +4230,12 @@
     "region": "ap-south-1"
   },
   {
+    "ip_address": "2600:f0f1:8d::/48",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "ap-south-2"
+  },
+  {
     "ip_address": "2600:f0f2:701b::/48",
     "ip_type": "IPv6",
     "service": "S3",
@@ -4216,6 +4252,12 @@
     "ip_type": "IPv6",
     "service": "S3",
     "region": "ap-southeast-3"
+  },
+  {
+    "ip_address": "2600:f0f1:8e::/48",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "ap-southeast-4"
   },
   {
     "ip_address": "2600:f0f1:84::/48",
@@ -4302,6 +4344,12 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "2600:f0f0:610a::/48",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "2600:f0f2:7010::/48",
     "ip_type": "IPv6",
     "service": "S3",
@@ -4320,6 +4368,12 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "2600:f0f0:6103::/48",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "us-east-2"
+  },
+  {
     "ip_address": "2600:f0f2:7014::/48",
     "ip_type": "IPv6",
     "service": "S3",
@@ -4330,6 +4384,12 @@
     "ip_type": "IPv6",
     "service": "S3",
     "region": "us-west-1"
+  },
+  {
+    "ip_address": "2600:f0f0:6104::/48",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "us-west-2"
   },
   {
     "ip_address": "2600:f0f2:7013::/48",

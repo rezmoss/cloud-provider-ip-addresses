@@ -336,6 +336,12 @@
     "region": "ap-south-2"
   },
   {
+    "ip_address": "1.178.23.0/24",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "ap-south-2"
+  },
+  {
     "ip_address": "18.60.78.192/28",
     "ip_type": "IPv4",
     "service": "S3",
@@ -787,6 +793,12 @@
   },
   {
     "ip_address": "2406:dab9:b000::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "2600:f0f1:8d::/48",
     "ip_type": "IPv6",
     "service": "S3",
     "region": "ap-south-2"

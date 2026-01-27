@@ -301,6 +301,7 @@ ip_address,ip_type,service,region
 3.25.47.28/30,IPv4,AMAZON_APPFLOW,ap-southeast-2
 3.25.47.32/30,IPv4,AMAZON_APPFLOW,ap-southeast-2
 3.26.109.216/30,IPv4,AMAZON_APPFLOW,ap-southeast-2
+3.44.64.128/25,IPv4,AURORA_DSQL,ap-southeast-2
 3.27.127.176/29,IPv4,MEDIA_PACKAGE_V2,ap-southeast-2
 3.27.127.184/29,IPv4,MEDIA_PACKAGE_V2,ap-southeast-2
 52.94.13.0/24,IPv4,DYNAMODB,ap-southeast-2
@@ -435,3 +436,4 @@ ip_address,ip_type,service,region
 2600:1f01:48d2::/47,IPv6,GLOBALACCELERATOR,ap-southeast-2
 2600:f0f2:7105::/48,IPv6,AMAZON_CONNECT,ap-southeast-2
 2406:da1c:90e:4a00::/56,IPv6,EC2_INSTANCE_CONNECT,ap-southeast-2
+2406:da1c:b86:9800::/56,IPv6,AURORA_DSQL,ap-southeast-2

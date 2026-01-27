@@ -18,10 +18,22 @@
     "region": "ap-northeast-3"
   },
   {
+    "ip_address": "3.44.64.128/25",
+    "ip_type": "IPv4",
+    "service": "AURORA_DSQL",
+    "region": "ap-southeast-2"
+  },
+  {
     "ip_address": "18.99.193.0/25",
     "ip_type": "IPv4",
     "service": "AURORA_DSQL",
     "region": "ap-southeast-4"
+  },
+  {
+    "ip_address": "18.99.4.128/25",
+    "ip_type": "IPv4",
+    "service": "AURORA_DSQL",
+    "region": "ca-central-1"
   },
   {
     "ip_address": "18.96.39.128/25",
@@ -84,10 +96,22 @@
     "region": "ap-northeast-3"
   },
   {
+    "ip_address": "2406:da1c:b86:9800::/56",
+    "ip_type": "IPv6",
+    "service": "AURORA_DSQL",
+    "region": "ap-southeast-2"
+  },
+  {
     "ip_address": "2406:da1f:51b:1a00::/56",
     "ip_type": "IPv6",
     "service": "AURORA_DSQL",
     "region": "ap-southeast-4"
+  },
+  {
+    "ip_address": "2600:1f11:e4a:df00::/56",
+    "ip_type": "IPv6",
+    "service": "AURORA_DSQL",
+    "region": "ca-central-1"
   },
   {
     "ip_address": "2a05:d014:15a0:7500::/56",

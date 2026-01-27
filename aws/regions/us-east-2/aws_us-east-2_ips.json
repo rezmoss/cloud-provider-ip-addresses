@@ -2616,6 +2616,12 @@
     "region": "us-east-2"
   },
   {
+    "ip_address": "3.2.67.0/24",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "us-east-2"
+  },
+  {
     "ip_address": "35.50.143.0/24",
     "ip_type": "IPv4",
     "service": "IVS_REALTIME",
@@ -3991,6 +3997,12 @@
   },
   {
     "ip_address": "2600:1ff8:6000::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "us-east-2"
+  },
+  {
+    "ip_address": "2600:f0f0:6103::/48",
     "ip_type": "IPv6",
     "service": "S3",
     "region": "us-east-2"

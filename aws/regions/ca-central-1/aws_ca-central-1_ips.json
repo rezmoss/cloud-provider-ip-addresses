@@ -1086,6 +1086,12 @@
     "region": "ca-central-1"
   },
   {
+    "ip_address": "18.99.4.128/25",
+    "ip_type": "IPv4",
+    "service": "AURORA_DSQL",
+    "region": "ca-central-1"
+  },
+  {
     "ip_address": "15.156.152.184/29",
     "ip_type": "IPv4",
     "service": "MEDIA_PACKAGE_V2",
@@ -1797,6 +1803,12 @@
     "ip_address": "2600:1f11:ae3:700::/56",
     "ip_type": "IPv6",
     "service": "EC2_INSTANCE_CONNECT",
+    "region": "ca-central-1"
+  },
+  {
+    "ip_address": "2600:1f11:e4a:df00::/56",
+    "ip_type": "IPv6",
+    "service": "AURORA_DSQL",
     "region": "ca-central-1"
   }
 ]

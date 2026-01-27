@@ -408,6 +408,12 @@
     "region": "eu-south-1"
   },
   {
+    "ip_address": "56.6.0.0/16",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-south-1"
+  },
+  {
     "ip_address": "35.96.112.0/20",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -529,6 +535,12 @@
   },
   {
     "ip_address": "54.240.236.93/32",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-south-1"
+  },
+  {
+    "ip_address": "56.8.0.0/16",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "eu-south-1"

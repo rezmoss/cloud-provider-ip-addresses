@@ -6,6 +6,8 @@ CREATE TABLE IF NOT EXISTS `aws_sa-east-1_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('56.1.0.0/16', 'IPv4');
+INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('56.5.0.0/16', 'IPv4');
 INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('64.252.81.0/24', 'IPv4');
 INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('150.222.228.0/24', 'IPv4');
 INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('52.94.198.16/28', 'IPv4');

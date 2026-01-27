@@ -1,5 +1,17 @@
 [
   {
+    "ip_address": "56.1.0.0/16",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "sa-east-1"
+  },
+  {
+    "ip_address": "56.5.0.0/16",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "sa-east-1"
+  },
+  {
     "ip_address": "64.252.81.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
