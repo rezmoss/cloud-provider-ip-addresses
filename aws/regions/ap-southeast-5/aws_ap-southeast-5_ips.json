@@ -516,6 +516,12 @@
     "region": "ap-southeast-5"
   },
   {
+    "ip_address": "2406:daf8:800::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-southeast-5"
+  },
+  {
     "ip_address": "2406:da38:800::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -654,6 +660,12 @@
     "region": "ap-southeast-5"
   },
   {
+    "ip_address": "2406:daf8:800::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "ap-southeast-5"
+  },
+  {
     "ip_address": "2406:dab9:800::/40",
     "ip_type": "IPv6",
     "service": "S3",
@@ -673,6 +685,12 @@
   },
   {
     "ip_address": "2406:daa0:800::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "ap-southeast-5"
+  },
+  {
+    "ip_address": "2406:daf9:800::/40",
     "ip_type": "IPv6",
     "service": "S3",
     "region": "ap-southeast-5"

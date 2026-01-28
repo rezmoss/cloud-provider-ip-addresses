@@ -306,6 +306,12 @@
     "region": "eu-south-2"
   },
   {
+    "ip_address": "1.178.22.0/24",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "eu-south-2"
+  },
+  {
     "ip_address": "18.100.209.224/28",
     "ip_type": "IPv4",
     "service": "S3",
@@ -1033,6 +1039,12 @@
   },
   {
     "ip_address": "2a05:d059:1000::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "eu-south-2"
+  },
+  {
+    "ip_address": "2600:f0f1:8c::/48",
     "ip_type": "IPv6",
     "service": "S3",
     "region": "eu-south-2"

@@ -486,6 +486,12 @@
     "region": "ca-west-1"
   },
   {
+    "ip_address": "2600:1ff8:a400::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ca-west-1"
+  },
+  {
     "ip_address": "2600:1ffc:a400::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -588,6 +594,12 @@
     "region": "ca-west-1"
   },
   {
+    "ip_address": "2600:1ff8:a400::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "ca-west-1"
+  },
+  {
     "ip_address": "2600:1ff0:a400::/40",
     "ip_type": "IPv6",
     "service": "S3",
@@ -607,6 +619,12 @@
   },
   {
     "ip_address": "2600:1fb9:a400::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "ca-west-1"
+  },
+  {
+    "ip_address": "2600:1ff9:a400::/40",
     "ip_type": "IPv6",
     "service": "S3",
     "region": "ca-west-1"
