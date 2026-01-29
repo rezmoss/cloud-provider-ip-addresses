@@ -2432,6 +2432,7 @@ ip_address,ip_type,service,region
 2600:f0f1:4380::/42,IPv6,EC2,ap-southeast-5
 2600:f0f2:7012::/48,IPv6,EC2,us-east-1
 2600:f0fb:f027::/48,IPv6,EC2,ap-southeast-2
+2606:f40:fff5::/48,IPv6,EC2,eu-central-1
 2606:7b40:1000:2000::/56,IPv6,EC2,us-west-2
 2a05:d022::/36,IPv6,EC2,eu-west-3
 2a05:d06b:e000::/40,IPv6,EC2,me-south-1

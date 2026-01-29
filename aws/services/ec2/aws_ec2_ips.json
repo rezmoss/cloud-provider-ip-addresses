@@ -14598,6 +14598,12 @@
     "region": "ap-southeast-2"
   },
   {
+    "ip_address": "2606:f40:fff5::/48",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eu-central-1"
+  },
+  {
     "ip_address": "2606:7b40:1000:2000::/56",
     "ip_type": "IPv6",
     "service": "EC2",
