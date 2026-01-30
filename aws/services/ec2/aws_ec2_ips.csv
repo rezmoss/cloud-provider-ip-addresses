@@ -1135,7 +1135,6 @@ ip_address,ip_type,service,region
 18.98.64.0/19,IPv4,EC2,eu-west-3
 35.55.5.0/24,IPv4,EC2,ap-northeast-2
 35.55.24.0/24,IPv4,EC2,eu-west-3
-46.168.0.0/15,IPv4,EC2,ap-southeast-6
 51.0.112.0/21,IPv4,EC2,GLOBAL
 54.20.0.0/15,IPv4,EC2,sa-east-1
 64.252.120.0/24,IPv4,EC2,us-west-1

@@ -276,6 +276,12 @@
     "region": "eu-west-1"
   },
   {
+    "ip_address": "24.110.0.0/21",
+    "ip_type": "IPv4",
+    "service": "GLOBALACCELERATOR",
+    "region": "GLOBAL"
+  },
+  {
     "ip_address": "99.82.167.0/24",
     "ip_type": "IPv4",
     "service": "GLOBALACCELERATOR",

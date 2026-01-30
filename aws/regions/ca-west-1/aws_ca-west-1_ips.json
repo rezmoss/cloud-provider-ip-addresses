@@ -264,6 +264,12 @@
     "region": "ca-west-1"
   },
   {
+    "ip_address": "1.178.26.0/24",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "ca-west-1"
+  },
+  {
     "ip_address": "40.176.101.64/28",
     "ip_type": "IPv4",
     "service": "S3",
@@ -375,6 +381,12 @@
     "ip_address": "40.176.213.168/29",
     "ip_type": "IPv4",
     "service": "EC2_INSTANCE_CONNECT",
+    "region": "ca-west-1"
+  },
+  {
+    "ip_address": "18.99.129.0/25",
+    "ip_type": "IPv4",
+    "service": "AURORA_DSQL",
     "region": "ca-west-1"
   },
   {
@@ -630,6 +642,12 @@
     "region": "ca-west-1"
   },
   {
+    "ip_address": "2600:f0f2:7020::/48",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "ca-west-1"
+  },
+  {
     "ip_address": "2600:1feb:a400::/40",
     "ip_type": "IPv6",
     "service": "EC2",
@@ -789,6 +807,12 @@
     "ip_address": "2600:1f1a:4ff6:d500::/56",
     "ip_type": "IPv6",
     "service": "EC2_INSTANCE_CONNECT",
+    "region": "ca-west-1"
+  },
+  {
+    "ip_address": "2600:1f1a:4040:b100::/56",
+    "ip_type": "IPv6",
+    "service": "AURORA_DSQL",
     "region": "ca-west-1"
   }
 ]

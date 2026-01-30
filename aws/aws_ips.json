@@ -13284,6 +13284,12 @@
     "region": "ap-northeast-2"
   },
   {
+    "ip_address": "24.110.0.0/21",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "GLOBAL"
+  },
+  {
     "ip_address": "35.71.126.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -16944,6 +16950,12 @@
     "region": "eu-north-1"
   },
   {
+    "ip_address": "69.107.12.40/29",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-west-2"
+  },
+  {
     "ip_address": "76.223.170.128/28",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -20214,12 +20226,6 @@
     "region": "ap-northeast-1"
   },
   {
-    "ip_address": "46.168.0.0/15",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "ap-southeast-6"
-  },
-  {
     "ip_address": "51.0.112.0/21",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -20248,6 +20254,12 @@
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "us-west-1"
+  },
+  {
+    "ip_address": "69.107.12.32/29",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-west-2"
   },
   {
     "ip_address": "99.151.184.0/23",
@@ -35904,6 +35916,12 @@
     "region": "ap-east-1"
   },
   {
+    "ip_address": "1.178.31.0/24",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "ap-east-2"
+  },
+  {
     "ip_address": "43.212.135.0/28",
     "ip_type": "IPv4",
     "service": "S3",
@@ -36138,6 +36156,12 @@
     "region": "ap-southeast-5"
   },
   {
+    "ip_address": "1.178.27.0/24",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "ap-southeast-6"
+  },
+  {
     "ip_address": "3.102.119.112/28",
     "ip_type": "IPv4",
     "service": "S3",
@@ -36148,6 +36172,12 @@
     "ip_type": "IPv4",
     "service": "S3",
     "region": "ap-southeast-6"
+  },
+  {
+    "ip_address": "1.178.28.0/24",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "ap-southeast-7"
   },
   {
     "ip_address": "43.208.66.128/28",
@@ -36178,6 +36208,12 @@
     "ip_type": "IPv4",
     "service": "S3",
     "region": "ca-central-1"
+  },
+  {
+    "ip_address": "1.178.26.0/24",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "ca-west-1"
   },
   {
     "ip_address": "40.176.101.64/28",
@@ -36336,6 +36372,12 @@
     "region": "eu-west-3"
   },
   {
+    "ip_address": "1.178.25.0/24",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "il-central-1"
+  },
+  {
     "ip_address": "51.17.129.160/28",
     "ip_type": "IPv4",
     "service": "S3",
@@ -36412,6 +36454,12 @@
     "ip_type": "IPv4",
     "service": "S3",
     "region": "me-south-1"
+  },
+  {
+    "ip_address": "1.178.29.0/24",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "mx-central-1"
   },
   {
     "ip_address": "78.12.79.192/28",
@@ -44388,12 +44436,6 @@
     "region": "eu-west-3"
   },
   {
-    "ip_address": "46.168.0.0/15",
-    "ip_type": "IPv4",
-    "service": "EC2",
-    "region": "ap-southeast-6"
-  },
-  {
     "ip_address": "51.0.112.0/21",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -49420,6 +49462,12 @@
     "ip_type": "IPv4",
     "service": "GLOBALACCELERATOR",
     "region": "eu-west-1"
+  },
+  {
+    "ip_address": "24.110.0.0/21",
+    "ip_type": "IPv4",
+    "service": "GLOBALACCELERATOR",
+    "region": "GLOBAL"
   },
   {
     "ip_address": "99.82.167.0/24",
@@ -57936,6 +57984,12 @@
     "region": "ca-central-1"
   },
   {
+    "ip_address": "18.99.129.0/25",
+    "ip_type": "IPv4",
+    "service": "AURORA_DSQL",
+    "region": "ca-west-1"
+  },
+  {
     "ip_address": "18.96.39.128/25",
     "ip_type": "IPv4",
     "service": "AURORA_DSQL",
@@ -63588,6 +63642,12 @@
     "region": "ap-southeast-5"
   },
   {
+    "ip_address": "2600:f0f0:5504::/46",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "GLOBAL"
+  },
+  {
     "ip_address": "2606:7b40:10ff:d250::/60",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -68686,6 +68746,12 @@
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "af-south-1"
+  },
+  {
+    "ip_address": "2600:1f01:480e::/47",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eu-west-2"
   },
   {
     "ip_address": "2600:f0f0:0:218::/62",
@@ -75492,6 +75558,12 @@
     "region": "ap-east-1"
   },
   {
+    "ip_address": "2600:f0f2:7025::/48",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "ap-east-2"
+  },
+  {
     "ip_address": "2600:f0f0:6102::/48",
     "ip_type": "IPv6",
     "service": "S3",
@@ -75564,10 +75636,28 @@
     "region": "ap-southeast-5"
   },
   {
+    "ip_address": "2600:f0f2:7021::/48",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "ap-southeast-6"
+  },
+  {
+    "ip_address": "2600:f0f2:7022::/48",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "ap-southeast-7"
+  },
+  {
     "ip_address": "2600:f0f2:701e::/48",
     "ip_type": "IPv6",
     "service": "S3",
     "region": "ca-central-1"
+  },
+  {
+    "ip_address": "2600:f0f2:7020::/48",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "ca-west-1"
   },
   {
     "ip_address": "2600:f0f2:7018::/48",
@@ -75618,6 +75708,12 @@
     "region": "eu-west-3"
   },
   {
+    "ip_address": "2600:f0f1:8f::/48",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "il-central-1"
+  },
+  {
     "ip_address": "2600:f0f1:8a::/48",
     "ip_type": "IPv6",
     "service": "S3",
@@ -75628,6 +75724,12 @@
     "ip_type": "IPv6",
     "service": "S3",
     "region": "me-south-1"
+  },
+  {
+    "ip_address": "2600:f0f2:7023::/48",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "mx-central-1"
   },
   {
     "ip_address": "2600:f0f1:81::/48",
@@ -87696,6 +87798,12 @@
     "region": "GLOBAL"
   },
   {
+    "ip_address": "2600:f0f0:5504::/46",
+    "ip_type": "IPv6",
+    "service": "CLOUDFRONT",
+    "region": "GLOBAL"
+  },
+  {
     "ip_address": "2600:9000:1000::/36",
     "ip_type": "IPv6",
     "service": "CLOUDFRONT",
@@ -88396,6 +88504,12 @@
     "ip_type": "IPv6",
     "service": "AURORA_DSQL",
     "region": "ca-central-1"
+  },
+  {
+    "ip_address": "2600:1f1a:4040:b100::/56",
+    "ip_type": "IPv6",
+    "service": "AURORA_DSQL",
+    "region": "ca-west-1"
   },
   {
     "ip_address": "2a05:d014:15a0:7500::/56",
