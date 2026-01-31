@@ -76,6 +76,7 @@ INSERT INTO `azure_azurecloud.italynorth_ips` (`ip_address`, `ip_type`) VALUES (
 INSERT INTO `azure_azurecloud.italynorth_ips` (`ip_address`, `ip_type`) VALUES ('72.146.0.0/16', 'IPv4');
 INSERT INTO `azure_azurecloud.italynorth_ips` (`ip_address`, `ip_type`) VALUES ('135.130.84.0/23', 'IPv4');
 INSERT INTO `azure_azurecloud.italynorth_ips` (`ip_address`, `ip_type`) VALUES ('145.190.69.0/24', 'IPv4');
+INSERT INTO `azure_azurecloud.italynorth_ips` (`ip_address`, `ip_type`) VALUES ('145.190.148.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.italynorth_ips` (`ip_address`, `ip_type`) VALUES ('172.213.0.0/19', 'IPv4');
 INSERT INTO `azure_azurecloud.italynorth_ips` (`ip_address`, `ip_type`) VALUES ('172.213.64.0/18', 'IPv4');
 INSERT INTO `azure_azurecloud.italynorth_ips` (`ip_address`, `ip_type`) VALUES ('172.213.128.0/17', 'IPv4');

@@ -36,6 +36,12 @@ INSERT INTO `azure_storage.southeastasia_ips` (`ip_address`, `ip_type`) VALUES (
 INSERT INTO `azure_storage.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('104.215.240.64/28', 'IPv4');
 INSERT INTO `azure_storage.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('104.215.240.96/28', 'IPv4');
 INSERT INTO `azure_storage.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('135.130.202.0/23', 'IPv4');
+INSERT INTO `azure_storage.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('135.130.226.0/24', 'IPv4');
+INSERT INTO `azure_storage.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('135.130.227.0/24', 'IPv4');
+INSERT INTO `azure_storage.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('135.130.228.0/23', 'IPv4');
+INSERT INTO `azure_storage.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('135.130.230.0/25', 'IPv4');
+INSERT INTO `azure_storage.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('135.130.240.0/23', 'IPv4');
+INSERT INTO `azure_storage.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('135.130.248.0/23', 'IPv4');
 INSERT INTO `azure_storage.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('168.63.160.0/26', 'IPv4');
 INSERT INTO `azure_storage.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('168.63.160.192/26', 'IPv4');
 INSERT INTO `azure_storage.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('168.63.161.64/26', 'IPv4');

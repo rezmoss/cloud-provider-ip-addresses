@@ -1,3 +1,5 @@
 ip_address,ip_type,service,region
 134.138.64.32/29,IPv4,PowerQueryOnline.EastUS3,eastus3
+134.138.95.224/27,IPv4,PowerQueryOnline.EastUS3,eastus3
 2603:1030:1402::1a0/123,IPv6,PowerQueryOnline.EastUS3,eastus3
+2603:1030:1402:4::680/122,IPv6,PowerQueryOnline.EastUS3,eastus3

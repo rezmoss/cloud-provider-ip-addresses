@@ -336,6 +336,11 @@ INSERT INTO `azure_eastasia_ips` (`ip_address`, `ip_type`) VALUES ('52.239.128.0
 INSERT INTO `azure_eastasia_ips` (`ip_address`, `ip_type`) VALUES ('52.239.224.0/24', 'IPv4');
 INSERT INTO `azure_eastasia_ips` (`ip_address`, `ip_type`) VALUES ('57.150.136.0/23', 'IPv4');
 INSERT INTO `azure_eastasia_ips` (`ip_address`, `ip_type`) VALUES ('57.150.172.0/23', 'IPv4');
+INSERT INTO `azure_eastasia_ips` (`ip_address`, `ip_type`) VALUES ('135.130.221.0/24', 'IPv4');
+INSERT INTO `azure_eastasia_ips` (`ip_address`, `ip_type`) VALUES ('135.130.224.0/24', 'IPv4');
+INSERT INTO `azure_eastasia_ips` (`ip_address`, `ip_type`) VALUES ('135.130.225.0/24', 'IPv4');
+INSERT INTO `azure_eastasia_ips` (`ip_address`, `ip_type`) VALUES ('135.130.236.0/23', 'IPv4');
+INSERT INTO `azure_eastasia_ips` (`ip_address`, `ip_type`) VALUES ('135.130.242.0/23', 'IPv4');
 INSERT INTO `azure_eastasia_ips` (`ip_address`, `ip_type`) VALUES ('168.63.128.0/26', 'IPv4');
 INSERT INTO `azure_eastasia_ips` (`ip_address`, `ip_type`) VALUES ('168.63.128.128/25', 'IPv4');
 INSERT INTO `azure_eastasia_ips` (`ip_address`, `ip_type`) VALUES ('168.63.129.128/25', 'IPv4');
@@ -672,8 +677,7 @@ INSERT INTO `azure_eastasia_ips` (`ip_address`, `ip_type`) VALUES ('52.111.228.0
 INSERT INTO `azure_eastasia_ips` (`ip_address`, `ip_type`) VALUES ('52.113.96.0/22', 'IPv4');
 INSERT INTO `azure_eastasia_ips` (`ip_address`, `ip_type`) VALUES ('52.113.100.0/24', 'IPv4');
 INSERT INTO `azure_eastasia_ips` (`ip_address`, `ip_type`) VALUES ('52.113.104.0/24', 'IPv4');
-INSERT INTO `azure_eastasia_ips` (`ip_address`, `ip_type`) VALUES ('52.113.108.0/24', 'IPv4');
-INSERT INTO `azure_eastasia_ips` (`ip_address`, `ip_type`) VALUES ('52.114.0.0/21', 'IPv4');
+INSERT INTO `azure_eastasia_ips` (`ip_address`, `ip_type`) VALUES ('52.114.4.0/22', 'IPv4');
 INSERT INTO `azure_eastasia_ips` (`ip_address`, `ip_type`) VALUES ('52.115.46.0/24', 'IPv4');
 INSERT INTO `azure_eastasia_ips` (`ip_address`, `ip_type`) VALUES ('52.115.96.0/24', 'IPv4');
 INSERT INTO `azure_eastasia_ips` (`ip_address`, `ip_type`) VALUES ('52.120.157.0/24', 'IPv4');
@@ -708,6 +712,10 @@ INSERT INTO `azure_eastasia_ips` (`ip_address`, `ip_type`) VALUES ('131.253.13.1
 INSERT INTO `azure_eastasia_ips` (`ip_address`, `ip_type`) VALUES ('131.253.13.104/30', 'IPv4');
 INSERT INTO `azure_eastasia_ips` (`ip_address`, `ip_type`) VALUES ('131.253.35.192/26', 'IPv4');
 INSERT INTO `azure_eastasia_ips` (`ip_address`, `ip_type`) VALUES ('134.170.192.0/21', 'IPv4');
+INSERT INTO `azure_eastasia_ips` (`ip_address`, `ip_type`) VALUES ('135.130.221.0/24', 'IPv4');
+INSERT INTO `azure_eastasia_ips` (`ip_address`, `ip_type`) VALUES ('135.130.224.0/23', 'IPv4');
+INSERT INTO `azure_eastasia_ips` (`ip_address`, `ip_type`) VALUES ('135.130.236.0/23', 'IPv4');
+INSERT INTO `azure_eastasia_ips` (`ip_address`, `ip_type`) VALUES ('135.130.242.0/23', 'IPv4');
 INSERT INTO `azure_eastasia_ips` (`ip_address`, `ip_type`) VALUES ('137.116.160.0/20', 'IPv4');
 INSERT INTO `azure_eastasia_ips` (`ip_address`, `ip_type`) VALUES ('168.63.128.0/24', 'IPv4');
 INSERT INTO `azure_eastasia_ips` (`ip_address`, `ip_type`) VALUES ('168.63.129.0/28', 'IPv4');

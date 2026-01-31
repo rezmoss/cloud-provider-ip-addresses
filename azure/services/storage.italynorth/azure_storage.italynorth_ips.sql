@@ -15,4 +15,5 @@ INSERT INTO `azure_storage.italynorth_ips` (`ip_address`, `ip_type`) VALUES ('20
 INSERT INTO `azure_storage.italynorth_ips` (`ip_address`, `ip_type`) VALUES ('20.209.120.0/23', 'IPv4');
 INSERT INTO `azure_storage.italynorth_ips` (`ip_address`, `ip_type`) VALUES ('57.150.36.0/23', 'IPv4');
 INSERT INTO `azure_storage.italynorth_ips` (`ip_address`, `ip_type`) VALUES ('135.130.84.0/23', 'IPv4');
+INSERT INTO `azure_storage.italynorth_ips` (`ip_address`, `ip_type`) VALUES ('145.190.148.0/24', 'IPv4');
 INSERT INTO `azure_storage.italynorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1201::/48', 'IPv6');

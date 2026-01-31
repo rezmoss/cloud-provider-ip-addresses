@@ -156,6 +156,7 @@ INSERT INTO `azure_servicefabric_ips` (`ip_address`, `ip_type`) VALUES ('51.12.2
 INSERT INTO `azure_servicefabric_ips` (`ip_address`, `ip_type`) VALUES ('51.12.237.28/30', 'IPv4');
 INSERT INTO `azure_servicefabric_ips` (`ip_address`, `ip_type`) VALUES ('51.53.106.76/30', 'IPv4');
 INSERT INTO `azure_servicefabric_ips` (`ip_address`, `ip_type`) VALUES ('51.53.186.76/30', 'IPv4');
+INSERT INTO `azure_servicefabric_ips` (`ip_address`, `ip_type`) VALUES ('51.57.136.216/29', 'IPv4');
 INSERT INTO `azure_servicefabric_ips` (`ip_address`, `ip_type`) VALUES ('51.103.202.72/30', 'IPv4');
 INSERT INTO `azure_servicefabric_ips` (`ip_address`, `ip_type`) VALUES ('51.105.69.84/30', 'IPv4');
 INSERT INTO `azure_servicefabric_ips` (`ip_address`, `ip_type`) VALUES ('51.105.77.52/30', 'IPv4');
@@ -397,6 +398,7 @@ INSERT INTO `azure_servicefabric_ips` (`ip_address`, `ip_type`) VALUES ('2603:10
 INSERT INTO `azure_servicefabric_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1102:400::18/125', 'IPv6');
 INSERT INTO `azure_servicefabric_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1202:400::18/125', 'IPv6');
 INSERT INTO `azure_servicefabric_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1302:400::18/125', 'IPv6');
+INSERT INTO `azure_servicefabric_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1402:4::780/125', 'IPv6');
 INSERT INTO `azure_servicefabric_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1402:400::18/125', 'IPv6');
 INSERT INTO `azure_servicefabric_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1502:400::18/125', 'IPv6');
 INSERT INTO `azure_servicefabric_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1602:3::618/125', 'IPv6');

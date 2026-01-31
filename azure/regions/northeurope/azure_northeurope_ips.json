@@ -8484,31 +8484,13 @@
     "region": "northeurope"
   },
   {
-    "ip_address": "57.157.29.128/27",
+    "ip_address": "57.157.29.128/26",
     "ip_type": "IPv4",
     "service": "AzureCloud.northeurope",
     "region": "northeurope"
   },
   {
-    "ip_address": "57.157.29.160/28",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.northeurope",
-    "region": "northeurope"
-  },
-  {
-    "ip_address": "57.157.29.176/29",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.northeurope",
-    "region": "northeurope"
-  },
-  {
-    "ip_address": "57.157.29.184/30",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.northeurope",
-    "region": "northeurope"
-  },
-  {
-    "ip_address": "57.157.29.188/31",
+    "ip_address": "57.157.29.192/29",
     "ip_type": "IPv4",
     "service": "AzureCloud.northeurope",
     "region": "northeurope"

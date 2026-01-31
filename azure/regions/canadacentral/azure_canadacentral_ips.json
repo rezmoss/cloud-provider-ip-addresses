@@ -3882,7 +3882,13 @@
     "region": "canadacentral"
   },
   {
-    "ip_address": "40.120.186.16/30",
+    "ip_address": "40.120.186.16/29",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadacentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "40.120.186.24/31",
     "ip_type": "IPv4",
     "service": "AzureCloud.canadacentral",
     "region": "canadacentral"

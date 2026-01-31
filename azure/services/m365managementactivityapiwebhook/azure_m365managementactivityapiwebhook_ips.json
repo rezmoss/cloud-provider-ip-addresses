@@ -1,5 +1,17 @@
 [
   {
+    "ip_address": "4.145.19.43/32",
+    "ip_type": "IPv4",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "4.145.19.52/30",
+    "ip_type": "IPv4",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
     "ip_address": "4.150.35.52/30",
     "ip_type": "IPv4",
     "service": "M365ManagementActivityApiWebhook",
@@ -24,7 +36,61 @@
     "region": ""
   },
   {
+    "ip_address": "4.160.68.48/32",
+    "ip_type": "IPv4",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "4.160.68.52/30",
+    "ip_type": "IPv4",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "4.161.11.155/32",
+    "ip_type": "IPv4",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "4.161.11.220/30",
+    "ip_type": "IPv4",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
     "ip_address": "4.171.27.10/31",
+    "ip_type": "IPv4",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "4.173.75.36/30",
+    "ip_type": "IPv4",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "4.176.32.80/30",
+    "ip_type": "IPv4",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "4.176.32.84/32",
+    "ip_type": "IPv4",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "4.188.10.212/31",
+    "ip_type": "IPv4",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "4.188.10.216/29",
     "ip_type": "IPv4",
     "service": "M365ManagementActivityApiWebhook",
     "region": ""
@@ -48,7 +114,127 @@
     "region": ""
   },
   {
+    "ip_address": "4.199.210.43/32",
+    "ip_type": "IPv4",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "4.199.210.92/30",
+    "ip_type": "IPv4",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "4.208.113.121/32",
+    "ip_type": "IPv4",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "4.208.113.250/31",
+    "ip_type": "IPv4",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "4.208.113.252/30",
+    "ip_type": "IPv4",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "4.208.114.128/29",
+    "ip_type": "IPv4",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "4.216.4.87/32",
+    "ip_type": "IPv4",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "4.216.4.112/30",
+    "ip_type": "IPv4",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "4.219.23.164/30",
+    "ip_type": "IPv4",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "4.219.23.168/32",
+    "ip_type": "IPv4",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "4.220.241.20/30",
+    "ip_type": "IPv4",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "4.220.241.32/32",
+    "ip_type": "IPv4",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "4.221.232.19/32",
+    "ip_type": "IPv4",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "4.221.232.56/30",
+    "ip_type": "IPv4",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "4.229.81.95/32",
+    "ip_type": "IPv4",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "4.229.82.128/30",
+    "ip_type": "IPv4",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "4.230.124.216/30",
+    "ip_type": "IPv4",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "4.230.124.220/32",
+    "ip_type": "IPv4",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
     "ip_address": "4.232.106.10/31",
+    "ip_type": "IPv4",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "4.243.159.205/32",
+    "ip_type": "IPv4",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "4.243.159.228/30",
     "ip_type": "IPv4",
     "service": "M365ManagementActivityApiWebhook",
     "region": ""
@@ -180,6 +366,18 @@
     "region": ""
   },
   {
+    "ip_address": "20.51.44.86/32",
+    "ip_type": "IPv4",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "20.51.44.92/30",
+    "ip_type": "IPv4",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
     "ip_address": "20.52.72.32/29",
     "ip_type": "IPv4",
     "service": "M365ManagementActivityApiWebhook",
@@ -259,6 +457,30 @@
   },
   {
     "ip_address": "20.167.130.2/31",
+    "ip_type": "IPv4",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "20.167.163.0/32",
+    "ip_type": "IPv4",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "20.167.213.180/30",
+    "ip_type": "IPv4",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "20.173.61.187/32",
+    "ip_type": "IPv4",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "20.173.61.244/30",
     "ip_type": "IPv4",
     "service": "M365ManagementActivityApiWebhook",
     "region": ""
@@ -426,6 +648,18 @@
     "region": ""
   },
   {
+    "ip_address": "40.80.104.220/30",
+    "ip_type": "IPv4",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "40.80.104.224/32",
+    "ip_type": "IPv4",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
     "ip_address": "40.80.180.120/29",
     "ip_type": "IPv4",
     "service": "M365ManagementActivityApiWebhook",
@@ -462,7 +696,73 @@
     "region": ""
   },
   {
+    "ip_address": "48.195.61.117/32",
+    "ip_type": "IPv4",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "48.195.61.160/29",
+    "ip_type": "IPv4",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "48.195.61.168/30",
+    "ip_type": "IPv4",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "48.195.61.172/31",
+    "ip_type": "IPv4",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "48.199.208.204/30",
+    "ip_type": "IPv4",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "48.199.208.208/28",
+    "ip_type": "IPv4",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "48.201.165.49/32",
+    "ip_type": "IPv4",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "48.201.165.104/30",
+    "ip_type": "IPv4",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
     "ip_address": "48.202.69.244/31",
+    "ip_type": "IPv4",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "48.202.187.194/32",
+    "ip_type": "IPv4",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "48.202.187.200/29",
+    "ip_type": "IPv4",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "48.202.187.208/28",
     "ip_type": "IPv4",
     "service": "M365ManagementActivityApiWebhook",
     "region": ""
@@ -684,7 +984,25 @@
     "region": ""
   },
   {
+    "ip_address": "74.177.85.108/32",
+    "ip_type": "IPv4",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
     "ip_address": "74.242.3.204/31",
+    "ip_type": "IPv4",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "74.242.152.96/30",
+    "ip_type": "IPv4",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "74.242.152.100/32",
     "ip_type": "IPv4",
     "service": "M365ManagementActivityApiWebhook",
     "region": ""
@@ -726,6 +1044,24 @@
     "region": ""
   },
   {
+    "ip_address": "108.140.32.214/32",
+    "ip_type": "IPv4",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "108.140.45.240/30",
+    "ip_type": "IPv4",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "145.191.107.163/32",
+    "ip_type": "IPv4",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
     "ip_address": "158.23.10.118/31",
     "ip_type": "IPv4",
     "service": "M365ManagementActivityApiWebhook",
@@ -744,7 +1080,37 @@
     "region": ""
   },
   {
+    "ip_address": "172.166.4.136/30",
+    "ip_type": "IPv4",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "172.186.105.150/32",
+    "ip_type": "IPv4",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "172.186.105.168/30",
+    "ip_type": "IPv4",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
     "ip_address": "172.191.218.2/31",
+    "ip_type": "IPv4",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "172.192.186.185/32",
+    "ip_type": "IPv4",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "172.192.186.212/30",
     "ip_type": "IPv4",
     "service": "M365ManagementActivityApiWebhook",
     "region": ""
@@ -786,6 +1152,18 @@
     "region": ""
   },
   {
+    "ip_address": "2603:1000:104:b::4f/128",
+    "ip_type": "IPv6",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1000:104:b::d4/126",
+    "ip_type": "IPv6",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
     "ip_address": "2603:1010:6:e::f0/126",
     "ip_type": "IPv6",
     "service": "M365ManagementActivityApiWebhook",
@@ -804,7 +1182,31 @@
     "region": ""
   },
   {
+    "ip_address": "2603:1010:304:a::586/128",
+    "ip_type": "IPv6",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1010:304:a::5d0/126",
+    "ip_type": "IPv6",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
     "ip_address": "2603:1010:404::2ae/127",
+    "ip_type": "IPv6",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1010:404:8::170/126",
+    "ip_type": "IPv6",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1010:404:8::174/128",
     "ip_type": "IPv6",
     "service": "M365ManagementActivityApiWebhook",
     "region": ""
@@ -828,7 +1230,43 @@
     "region": ""
   },
   {
+    "ip_address": "2603:1020:5:1b::4a0/125",
+    "ip_type": "IPv6",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:5:1b::4a8/126",
+    "ip_type": "IPv6",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:5:1b::4ac/127",
+    "ip_type": "IPv6",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:5:1b::4ae/128",
+    "ip_type": "IPv6",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
     "ip_address": "2603:1020:206:b::70/125",
+    "ip_type": "IPv6",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:206:22::530/124",
+    "ip_type": "IPv6",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:206:22::540/126",
     "ip_type": "IPv6",
     "service": "M365ManagementActivityApiWebhook",
     "region": ""
@@ -840,7 +1278,31 @@
     "region": ""
   },
   {
+    "ip_address": "2603:1020:605:b::789/128",
+    "ip_type": "IPv6",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:605:b::7b4/126",
+    "ip_type": "IPv6",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
     "ip_address": "2603:1020:705:3::220/127",
+    "ip_type": "IPv6",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:705:15::546/128",
+    "ip_type": "IPv6",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:705:15::5a0/126",
     "ip_type": "IPv6",
     "service": "M365ManagementActivityApiWebhook",
     "region": ""
@@ -852,13 +1314,49 @@
     "region": ""
   },
   {
+    "ip_address": "2603:1020:805:e::a6/128",
+    "ip_type": "IPv6",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:805:e::d0/126",
+    "ip_type": "IPv6",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
     "ip_address": "2603:1020:905::2ae/127",
     "ip_type": "IPv6",
     "service": "M365ManagementActivityApiWebhook",
     "region": ""
   },
   {
+    "ip_address": "2603:1020:905:9::752/128",
+    "ip_type": "IPv6",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:905:9::794/126",
+    "ip_type": "IPv6",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
     "ip_address": "2603:1020:a04:3::226/127",
+    "ip_type": "IPv6",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:a04:9::7dc/126",
+    "ip_type": "IPv6",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:a04:b::80/128",
     "ip_type": "IPv6",
     "service": "M365ManagementActivityApiWebhook",
     "region": ""
@@ -876,6 +1374,18 @@
     "region": ""
   },
   {
+    "ip_address": "2603:1020:c04:b::152/128",
+    "ip_type": "IPv6",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:c04:b::194/126",
+    "ip_type": "IPv6",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
     "ip_address": "2603:1020:d04::2ae/127",
     "ip_type": "IPv6",
     "service": "M365ManagementActivityApiWebhook",
@@ -888,7 +1398,31 @@
     "region": ""
   },
   {
+    "ip_address": "2603:1020:e04:c::27d/128",
+    "ip_type": "IPv6",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:e04:c::2a8/126",
+    "ip_type": "IPv6",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
     "ip_address": "2603:1020:f04:6::680/127",
+    "ip_type": "IPv6",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:f04:9::5e3/128",
+    "ip_type": "IPv6",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:f04:9::624/126",
     "ip_type": "IPv6",
     "service": "M365ManagementActivityApiWebhook",
     "region": ""
@@ -942,6 +1476,24 @@
     "region": ""
   },
   {
+    "ip_address": "2603:1030:210:2e::2a6/128",
+    "ip_type": "IPv6",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:210:2e::370/124",
+    "ip_type": "IPv6",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:210:2e::380/125",
+    "ip_type": "IPv6",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
     "ip_address": "2603:1030:40c:b::2a4/126",
     "ip_type": "IPv6",
     "service": "M365ManagementActivityApiWebhook",
@@ -978,7 +1530,43 @@
     "region": ""
   },
   {
+    "ip_address": "2603:1030:a07:22::281/128",
+    "ip_type": "IPv6",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:a07:22::450/125",
+    "ip_type": "IPv6",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:a07:22::458/126",
+    "ip_type": "IPv6",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:a07:22::45c/127",
+    "ip_type": "IPv6",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
     "ip_address": "2603:1030:b04:3::470/127",
+    "ip_type": "IPv6",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:b04:f::3d9/128",
+    "ip_type": "IPv6",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:b04:f::424/126",
     "ip_type": "IPv6",
     "service": "M365ManagementActivityApiWebhook",
     "region": ""
@@ -990,13 +1578,49 @@
     "region": ""
   },
   {
+    "ip_address": "2603:1030:f05:d::653/128",
+    "ip_type": "IPv6",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:f05:d::6b0/126",
+    "ip_type": "IPv6",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
     "ip_address": "2603:1030:1005:6::1a/127",
     "ip_type": "IPv6",
     "service": "M365ManagementActivityApiWebhook",
     "region": ""
   },
   {
+    "ip_address": "2603:1030:1005:c::28d/128",
+    "ip_type": "IPv6",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:1005:c::2b8/126",
+    "ip_type": "IPv6",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
     "ip_address": "2603:1040:5:3::5e4/126",
+    "ip_type": "IPv6",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1040:5:16::428/126",
+    "ip_type": "IPv6",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1040:5:16::42c/128",
     "ip_type": "IPv6",
     "service": "M365ManagementActivityApiWebhook",
     "region": ""
@@ -1014,7 +1638,31 @@
     "region": ""
   },
   {
+    "ip_address": "2603:1040:407:e::59f/128",
+    "ip_type": "IPv6",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1040:407:e::630/126",
+    "ip_type": "IPv6",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
     "ip_address": "2603:1040:606::2ae/127",
+    "ip_type": "IPv6",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1040:606:b::636/128",
+    "ip_type": "IPv6",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1040:606:b::690/126",
     "ip_type": "IPv6",
     "service": "M365ManagementActivityApiWebhook",
     "region": ""
@@ -1026,7 +1674,31 @@
     "region": ""
   },
   {
+    "ip_address": "2603:1040:904:8::742/128",
+    "ip_type": "IPv6",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1040:904:8::7a0/126",
+    "ip_type": "IPv6",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
     "ip_address": "2603:1040:a06:3::248/126",
+    "ip_type": "IPv6",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1040:a06:d::fa/127",
+    "ip_type": "IPv6",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1040:a06:d::168/125",
     "ip_type": "IPv6",
     "service": "M365ManagementActivityApiWebhook",
     "region": ""
@@ -1050,13 +1722,49 @@
     "region": ""
   },
   {
+    "ip_address": "2603:1040:e05:9::732/128",
+    "ip_type": "IPv6",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1040:e05:9::774/126",
+    "ip_type": "IPv6",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
     "ip_address": "2603:1040:f05:3::136/127",
     "ip_type": "IPv6",
     "service": "M365ManagementActivityApiWebhook",
     "region": ""
   },
   {
+    "ip_address": "2603:1040:f05:c::362/128",
+    "ip_type": "IPv6",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1040:f05:c::3a8/126",
+    "ip_type": "IPv6",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
     "ip_address": "2603:1040:1002:5::430/127",
+    "ip_type": "IPv6",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1040:1002:8::4c2/128",
+    "ip_type": "IPv6",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1040:1002:8::504/126",
     "ip_type": "IPv6",
     "service": "M365ManagementActivityApiWebhook",
     "region": ""
@@ -1098,6 +1806,18 @@
     "region": ""
   },
   {
+    "ip_address": "2603:1050:6:c::3c/126",
+    "ip_type": "IPv6",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1050:6:c::60/128",
+    "ip_type": "IPv6",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
     "ip_address": "2603:1050:301:4::248/127",
     "ip_type": "IPv6",
     "service": "M365ManagementActivityApiWebhook",
@@ -1105,6 +1825,18 @@
   },
   {
     "ip_address": "2603:1050:403:1::22e/127",
+    "ip_type": "IPv6",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1050:403:8::3b/128",
+    "ip_type": "IPv6",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1050:403:8::5c/126",
     "ip_type": "IPv6",
     "service": "M365ManagementActivityApiWebhook",
     "region": ""

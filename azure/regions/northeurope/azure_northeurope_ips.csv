@@ -1413,11 +1413,8 @@ ip_address,ip_type,service,region
 57.150.220.0/23,IPv4,AzureCloud.northeurope,northeurope
 57.157.28.0/24,IPv4,AzureCloud.northeurope,northeurope
 57.157.29.0/25,IPv4,AzureCloud.northeurope,northeurope
-57.157.29.128/27,IPv4,AzureCloud.northeurope,northeurope
-57.157.29.160/28,IPv4,AzureCloud.northeurope,northeurope
-57.157.29.176/29,IPv4,AzureCloud.northeurope,northeurope
-57.157.29.184/30,IPv4,AzureCloud.northeurope,northeurope
-57.157.29.188/31,IPv4,AzureCloud.northeurope,northeurope
+57.157.29.128/26,IPv4,AzureCloud.northeurope,northeurope
+57.157.29.192/29,IPv4,AzureCloud.northeurope,northeurope
 65.52.64.0/20,IPv4,AzureCloud.northeurope,northeurope
 65.52.224.0/21,IPv4,AzureCloud.northeurope,northeurope
 68.219.0.0/17,IPv4,AzureCloud.northeurope,northeurope

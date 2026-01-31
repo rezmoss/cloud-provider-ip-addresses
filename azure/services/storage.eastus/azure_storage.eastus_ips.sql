@@ -117,6 +117,11 @@ INSERT INTO `azure_storage.eastus_ips` (`ip_address`, `ip_type`) VALUES ('135.13
 INSERT INTO `azure_storage.eastus_ips` (`ip_address`, `ip_type`) VALUES ('135.130.160.0/23', 'IPv4');
 INSERT INTO `azure_storage.eastus_ips` (`ip_address`, `ip_type`) VALUES ('135.130.170.0/23', 'IPv4');
 INSERT INTO `azure_storage.eastus_ips` (`ip_address`, `ip_type`) VALUES ('135.130.196.0/23', 'IPv4');
+INSERT INTO `azure_storage.eastus_ips` (`ip_address`, `ip_type`) VALUES ('135.130.222.0/23', 'IPv4');
+INSERT INTO `azure_storage.eastus_ips` (`ip_address`, `ip_type`) VALUES ('135.130.238.128/25', 'IPv4');
+INSERT INTO `azure_storage.eastus_ips` (`ip_address`, `ip_type`) VALUES ('135.130.239.0/24', 'IPv4');
+INSERT INTO `azure_storage.eastus_ips` (`ip_address`, `ip_type`) VALUES ('135.130.245.128/25', 'IPv4');
+INSERT INTO `azure_storage.eastus_ips` (`ip_address`, `ip_type`) VALUES ('135.130.246.0/24', 'IPv4');
 INSERT INTO `azure_storage.eastus_ips` (`ip_address`, `ip_type`) VALUES ('138.91.96.64/26', 'IPv4');
 INSERT INTO `azure_storage.eastus_ips` (`ip_address`, `ip_type`) VALUES ('138.91.96.128/26', 'IPv4');
 INSERT INTO `azure_storage.eastus_ips` (`ip_address`, `ip_type`) VALUES ('145.190.134.0/24', 'IPv4');
@@ -130,7 +135,4 @@ INSERT INTO `azure_storage.eastus_ips` (`ip_address`, `ip_type`) VALUES ('191.23
 INSERT INTO `azure_storage.eastus_ips` (`ip_address`, `ip_type`) VALUES ('191.238.0.0/26', 'IPv4');
 INSERT INTO `azure_storage.eastus_ips` (`ip_address`, `ip_type`) VALUES ('191.238.0.224/28', 'IPv4');
 INSERT INTO `azure_storage.eastus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:213::/49', 'IPv6');
-INSERT INTO `azure_storage.eastus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:213:8000::/60', 'IPv6');
-INSERT INTO `azure_storage.eastus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:213:8010::/61', 'IPv6');
-INSERT INTO `azure_storage.eastus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:213:8018::/62', 'IPv6');
-INSERT INTO `azure_storage.eastus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:213:801c::/63', 'IPv6');
+INSERT INTO `azure_storage.eastus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:213:8000::/59', 'IPv6');

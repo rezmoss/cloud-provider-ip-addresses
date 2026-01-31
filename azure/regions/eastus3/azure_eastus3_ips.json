@@ -1,7 +1,19 @@
 [
   {
+    "ip_address": "134.138.95.196/30",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.EastUS3",
+    "region": "eastus3"
+  },
+  {
     "ip_address": "134.138.99.4/30",
     "ip_type": "IPv4",
+    "service": "ActionGroup.EastUS3",
+    "region": "eastus3"
+  },
+  {
+    "ip_address": "2603:1030:1402:4::678/125",
+    "ip_type": "IPv6",
     "service": "ActionGroup.EastUS3",
     "region": "eastus3"
   },
@@ -504,6 +516,18 @@
     "region": "eastus3"
   },
   {
+    "ip_address": "135.130.219.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.EastUS3",
+    "region": "eastus3"
+  },
+  {
+    "ip_address": "135.130.220.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.EastUS3",
+    "region": "eastus3"
+  },
+  {
     "ip_address": "2603:1030:1403::/48",
     "ip_type": "IPv6",
     "service": "Storage.EastUS3",
@@ -522,6 +546,18 @@
     "region": "eastus3"
   },
   {
+    "ip_address": "51.57.137.192/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.EastUS3",
+    "region": "eastus3"
+  },
+  {
+    "ip_address": "51.57.137.224/27",
+    "ip_type": "IPv4",
+    "service": "DataFactory.EastUS3",
+    "region": "eastus3"
+  },
+  {
     "ip_address": "134.138.80.0/23",
     "ip_type": "IPv4",
     "service": "DataFactory.EastUS3",
@@ -535,6 +571,12 @@
   },
   {
     "ip_address": "2603:1030:1402:2::500/121",
+    "ip_type": "IPv6",
+    "service": "DataFactory.EastUS3",
+    "region": "eastus3"
+  },
+  {
+    "ip_address": "2603:1030:1402:5::80/121",
     "ip_type": "IPv6",
     "service": "DataFactory.EastUS3",
     "region": "eastus3"
@@ -594,8 +636,20 @@
     "region": "eastus3"
   },
   {
+    "ip_address": "51.57.136.136/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry.EastUS3",
+    "region": "eastus3"
+  },
+  {
     "ip_address": "134.138.96.0/29",
     "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry.EastUS3",
+    "region": "eastus3"
+  },
+  {
+    "ip_address": "2603:1030:1402:4::670/125",
+    "ip_type": "IPv6",
     "service": "MicrosoftContainerRegistry.EastUS3",
     "region": "eastus3"
   },
@@ -642,14 +696,38 @@
     "region": "eastus3"
   },
   {
+    "ip_address": "134.138.95.224/27",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.EastUS3",
+    "region": "eastus3"
+  },
+  {
     "ip_address": "2603:1030:1402::1a0/123",
     "ip_type": "IPv6",
     "service": "PowerQueryOnline.EastUS3",
     "region": "eastus3"
   },
   {
+    "ip_address": "2603:1030:1402:4::680/122",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.EastUS3",
+    "region": "eastus3"
+  },
+  {
+    "ip_address": "51.57.136.216/29",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.EastUS3",
+    "region": "eastus3"
+  },
+  {
     "ip_address": "134.138.96.8/30",
     "ip_type": "IPv4",
+    "service": "ServiceFabric.EastUS3",
+    "region": "eastus3"
+  },
+  {
+    "ip_address": "2603:1030:1402:4::780/125",
+    "ip_type": "IPv6",
     "service": "ServiceFabric.EastUS3",
     "region": "eastus3"
   },
@@ -685,6 +763,18 @@
   },
   {
     "ip_address": "20.143.108.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.eastus3",
+    "region": "eastus3"
+  },
+  {
+    "ip_address": "20.143.166.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.eastus3",
+    "region": "eastus3"
+  },
+  {
+    "ip_address": "20.143.168.0/23",
     "ip_type": "IPv4",
     "service": "AzureCloud.eastus3",
     "region": "eastus3"
@@ -786,6 +876,18 @@
     "region": "eastus3"
   },
   {
+    "ip_address": "135.130.219.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.eastus3",
+    "region": "eastus3"
+  },
+  {
+    "ip_address": "135.130.220.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.eastus3",
+    "region": "eastus3"
+  },
+  {
     "ip_address": "209.199.33.224/28",
     "ip_type": "IPv4",
     "service": "AzureCloud.eastus3",
@@ -817,6 +919,12 @@
   },
   {
     "ip_address": "2603:1030:1405::/48",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.eastus3",
+    "region": "eastus3"
+  },
+  {
+    "ip_address": "2603:1030:1406::/63",
     "ip_type": "IPv6",
     "service": "AzureCloud.eastus3",
     "region": "eastus3"

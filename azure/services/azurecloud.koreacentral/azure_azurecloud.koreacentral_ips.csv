@@ -110,6 +110,7 @@ ip_address,ip_type,service,region
 52.245.112.0/22,IPv4,AzureCloud.koreacentral,koreacentral
 52.253.173.0/24,IPv4,AzureCloud.koreacentral,koreacentral
 52.253.174.0/24,IPv4,AzureCloud.koreacentral,koreacentral
+57.157.88.0/30,IPv4,AzureCloud.koreacentral,koreacentral
 70.152.15.0/24,IPv4,AzureCloud.koreacentral,koreacentral
 72.155.0.0/17,IPv4,AzureCloud.koreacentral,koreacentral
 74.227.136.0/21,IPv4,AzureCloud.koreacentral,koreacentral

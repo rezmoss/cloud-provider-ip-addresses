@@ -65,6 +65,8 @@ INSERT INTO `azure_storage.northcentralus_ips` (`ip_address`, `ip_type`) VALUES 
 INSERT INTO `azure_storage.northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('135.130.136.0/23', 'IPv4');
 INSERT INTO `azure_storage.northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('135.130.142.0/23', 'IPv4');
 INSERT INTO `azure_storage.northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('135.130.146.0/23', 'IPv4');
+INSERT INTO `azure_storage.northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('135.130.230.128/25', 'IPv4');
+INSERT INTO `azure_storage.northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('135.130.231.0/24', 'IPv4');
 INSERT INTO `azure_storage.northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('157.56.216.0/26', 'IPv4');
 INSERT INTO `azure_storage.northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('168.62.96.128/26', 'IPv4');
 INSERT INTO `azure_storage.northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('168.62.96.210/32', 'IPv4');
@@ -72,3 +74,4 @@ INSERT INTO `azure_storage.northcentralus_ips` (`ip_address`, `ip_type`) VALUES 
 INSERT INTO `azure_storage.northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:609::/49', 'IPv6');
 INSERT INTO `azure_storage.northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:609:8000::/58', 'IPv6');
 INSERT INTO `azure_storage.northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:609:8040::/62', 'IPv6');
+INSERT INTO `azure_storage.northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:609:8044::/64', 'IPv6');

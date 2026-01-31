@@ -786,6 +786,18 @@
     "region": "eastus2"
   },
   {
+    "ip_address": "135.130.217.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.EastUS2",
+    "region": "eastus2"
+  },
+  {
+    "ip_address": "135.130.218.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.EastUS2",
+    "region": "eastus2"
+  },
+  {
     "ip_address": "137.116.1.0/25",
     "ip_type": "IPv4",
     "service": "Storage.EastUS2",
@@ -906,7 +918,7 @@
     "region": "eastus2"
   },
   {
-    "ip_address": "2603:1030:40f:8000::/63",
+    "ip_address": "2603:1030:40f:8000::/62",
     "ip_type": "IPv6",
     "service": "Storage.EastUS2",
     "region": "eastus2"

@@ -93,8 +93,11 @@ INSERT INTO `azure_storage.southcentralus_ips` (`ip_address`, `ip_type`) VALUES 
 INSERT INTO `azure_storage.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('135.130.74.0/23', 'IPv4');
 INSERT INTO `azure_storage.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('135.130.114.0/23', 'IPv4');
 INSERT INTO `azure_storage.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('135.130.172.0/23', 'IPv4');
+INSERT INTO `azure_storage.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('135.130.233.128/25', 'IPv4');
+INSERT INTO `azure_storage.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('135.130.234.0/24', 'IPv4');
 INSERT INTO `azure_storage.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('145.190.142.0/24', 'IPv4');
 INSERT INTO `azure_storage.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('168.62.128.128/26', 'IPv4');
 INSERT INTO `azure_storage.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:80b::/49', 'IPv6');
 INSERT INTO `azure_storage.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:80b:8000::/58', 'IPv6');
 INSERT INTO `azure_storage.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:80b:8040::/61', 'IPv6');
+INSERT INTO `azure_storage.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:80b:8048::/64', 'IPv6');

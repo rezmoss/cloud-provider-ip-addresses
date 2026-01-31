@@ -7,4 +7,6 @@ CREATE TABLE IF NOT EXISTS `azure_powerqueryonline.eastus3_ips` (
 );
 
 INSERT INTO `azure_powerqueryonline.eastus3_ips` (`ip_address`, `ip_type`) VALUES ('134.138.64.32/29', 'IPv4');
+INSERT INTO `azure_powerqueryonline.eastus3_ips` (`ip_address`, `ip_type`) VALUES ('134.138.95.224/27', 'IPv4');
 INSERT INTO `azure_powerqueryonline.eastus3_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1402::1a0/123', 'IPv6');
+INSERT INTO `azure_powerqueryonline.eastus3_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1402:4::680/122', 'IPv6');

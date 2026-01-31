@@ -48,12 +48,6 @@
     "region": ""
   },
   {
-    "ip_address": "4.232.13.147/32",
-    "ip_type": "IPv4",
-    "service": "SerialConsole",
-    "region": ""
-  },
-  {
     "ip_address": "4.232.53.147/32",
     "ip_type": "IPv4",
     "service": "SerialConsole",
@@ -127,12 +121,6 @@
   },
   {
     "ip_address": "20.21.91.24/32",
-    "ip_type": "IPv4",
-    "service": "SerialConsole",
-    "region": ""
-  },
-  {
-    "ip_address": "20.21.217.214/32",
     "ip_type": "IPv4",
     "service": "SerialConsole",
     "region": ""
@@ -258,12 +246,6 @@
     "region": ""
   },
   {
-    "ip_address": "20.69.137.213/32",
-    "ip_type": "IPv4",
-    "service": "SerialConsole",
-    "region": ""
-  },
-  {
     "ip_address": "20.70.222.112/31",
     "ip_type": "IPv4",
     "service": "SerialConsole",
@@ -313,12 +295,6 @@
   },
   {
     "ip_address": "20.91.100.236/32",
-    "ip_type": "IPv4",
-    "service": "SerialConsole",
-    "region": ""
-  },
-  {
-    "ip_address": "20.96.84.75/32",
     "ip_type": "IPv4",
     "service": "SerialConsole",
     "region": ""
@@ -547,12 +523,6 @@
   },
   {
     "ip_address": "20.215.107.2/31",
-    "ip_type": "IPv4",
-    "service": "SerialConsole",
-    "region": ""
-  },
-  {
-    "ip_address": "20.215.148.181/32",
     "ip_type": "IPv4",
     "service": "SerialConsole",
     "region": ""

@@ -990,6 +990,12 @@
     "region": "italynorth"
   },
   {
+    "ip_address": "145.190.148.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.ItalyNorth",
+    "region": "italynorth"
+  },
+  {
     "ip_address": "2603:1020:1201::/48",
     "ip_type": "IPv6",
     "service": "Storage.ItalyNorth",
@@ -1939,6 +1945,12 @@
   },
   {
     "ip_address": "145.190.69.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.italynorth",
+    "region": "italynorth"
+  },
+  {
+    "ip_address": "145.190.148.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.italynorth",
     "region": "italynorth"

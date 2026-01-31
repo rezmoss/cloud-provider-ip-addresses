@@ -330,6 +330,30 @@
     "region": "eastus2euap"
   },
   {
+    "ip_address": "135.130.25.0/27",
+    "ip_type": "IPv4",
+    "service": "Storage.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "135.130.25.32/27",
+    "ip_type": "IPv4",
+    "service": "Storage.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "135.130.25.64/27",
+    "ip_type": "IPv4",
+    "service": "Storage.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "135.130.25.96/27",
+    "ip_type": "IPv4",
+    "service": "Storage.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
     "ip_address": "135.130.72.0/23",
     "ip_type": "IPv4",
     "service": "Storage.EastUS2EUAP",
@@ -342,25 +366,13 @@
     "region": "eastus2euap"
   },
   {
-    "ip_address": "2603:1030:410:8000::/61",
+    "ip_address": "2603:1030:410:8000::/60",
     "ip_type": "IPv6",
     "service": "Storage.EastUS2EUAP",
     "region": "eastus2euap"
   },
   {
-    "ip_address": "2603:1030:410:8008::/62",
-    "ip_type": "IPv6",
-    "service": "Storage.EastUS2EUAP",
-    "region": "eastus2euap"
-  },
-  {
-    "ip_address": "2603:1030:410:800c::/63",
-    "ip_type": "IPv6",
-    "service": "Storage.EastUS2EUAP",
-    "region": "eastus2euap"
-  },
-  {
-    "ip_address": "2603:1030:410:800e::/64",
+    "ip_address": "2603:1030:410:8010::/64",
     "ip_type": "IPv6",
     "service": "Storage.EastUS2EUAP",
     "region": "eastus2euap"

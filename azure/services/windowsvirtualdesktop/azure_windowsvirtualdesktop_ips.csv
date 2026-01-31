@@ -1,7 +1,5 @@
 ip_address,ip_type,service,region
 40.64.144.0/20,IPv4,WindowsVirtualDesktop,
 51.5.0.0/16,IPv4,WindowsVirtualDesktop,
-57.156.5.248/29,IPv4,WindowsVirtualDesktop,
-57.156.73.192/28,IPv4,WindowsVirtualDesktop,
 2603:1061:2010::/48,IPv6,WindowsVirtualDesktop,
 2603:1061:2011::/48,IPv6,WindowsVirtualDesktop,

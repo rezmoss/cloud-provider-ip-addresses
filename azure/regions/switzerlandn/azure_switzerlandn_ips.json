@@ -2892,6 +2892,12 @@
     "region": "switzerlandn"
   },
   {
+    "ip_address": "145.190.70.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.switzerlandn",
+    "region": "switzerlandn"
+  },
+  {
     "ip_address": "172.161.0.0/16",
     "ip_type": "IPv4",
     "service": "AzureCloud.switzerlandn",

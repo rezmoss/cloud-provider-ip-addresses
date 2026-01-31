@@ -870,6 +870,18 @@
     "region": ""
   },
   {
+    "ip_address": "51.57.136.224/29",
+    "ip_type": "IPv4",
+    "service": "AzureManagedGrafana",
+    "region": ""
+  },
+  {
+    "ip_address": "51.57.136.240/28",
+    "ip_type": "IPv4",
+    "service": "AzureManagedGrafana",
+    "region": ""
+  },
+  {
     "ip_address": "51.59.63.80/28",
     "ip_type": "IPv4",
     "service": "AzureManagedGrafana",
@@ -2149,6 +2161,12 @@
   },
   {
     "ip_address": "2603:1030:1102:4::660/126",
+    "ip_type": "IPv6",
+    "service": "AzureManagedGrafana",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:1402:4::7a0/123",
     "ip_type": "IPv6",
     "service": "AzureManagedGrafana",
     "region": ""

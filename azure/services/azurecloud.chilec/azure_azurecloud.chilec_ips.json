@@ -96,6 +96,18 @@
     "region": "chilec"
   },
   {
+    "ip_address": "40.64.147.232/29",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.chilec",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "40.64.154.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.chilec",
+    "region": "chilec"
+  },
+  {
     "ip_address": "40.64.163.128/25",
     "ip_type": "IPv4",
     "service": "AzureCloud.chilec",

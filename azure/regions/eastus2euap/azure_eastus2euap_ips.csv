@@ -353,12 +353,14 @@ ip_address,ip_type,service,region
 57.150.50.0/23,IPv4,Storage.EastUS2EUAP,eastus2euap
 57.150.64.0/23,IPv4,Storage.EastUS2EUAP,eastus2euap
 57.150.206.0/23,IPv4,Storage.EastUS2EUAP,eastus2euap
+135.130.25.0/27,IPv4,Storage.EastUS2EUAP,eastus2euap
+135.130.25.32/27,IPv4,Storage.EastUS2EUAP,eastus2euap
+135.130.25.64/27,IPv4,Storage.EastUS2EUAP,eastus2euap
+135.130.25.96/27,IPv4,Storage.EastUS2EUAP,eastus2euap
 135.130.72.0/23,IPv4,Storage.EastUS2EUAP,eastus2euap
 2603:1030:410::/49,IPv6,Storage.EastUS2EUAP,eastus2euap
-2603:1030:410:8000::/61,IPv6,Storage.EastUS2EUAP,eastus2euap
-2603:1030:410:8008::/62,IPv6,Storage.EastUS2EUAP,eastus2euap
-2603:1030:410:800c::/63,IPv6,Storage.EastUS2EUAP,eastus2euap
-2603:1030:410:800e::/64,IPv6,Storage.EastUS2EUAP,eastus2euap
+2603:1030:410:8000::/60,IPv6,Storage.EastUS2EUAP,eastus2euap
+2603:1030:410:8010::/64,IPv6,Storage.EastUS2EUAP,eastus2euap
 20.39.1.125/32,IPv4,BatchNodeManagement.EastUS2EUAP,eastus2euap
 20.39.1.239/32,IPv4,BatchNodeManagement.EastUS2EUAP,eastus2euap
 20.39.2.44/32,IPv4,BatchNodeManagement.EastUS2EUAP,eastus2euap
@@ -773,6 +775,7 @@ ip_address,ip_type,service,region
 72.147.0.0/17,IPv4,AzureCloud.eastus2euap,eastus2euap
 104.44.95.208/28,IPv4,AzureCloud.eastus2euap,eastus2euap
 135.18.0.0/17,IPv4,AzureCloud.eastus2euap,eastus2euap
+135.130.25.0/25,IPv4,AzureCloud.eastus2euap,eastus2euap
 135.130.72.0/23,IPv4,AzureCloud.eastus2euap,eastus2euap
 172.173.0.0/21,IPv4,AzureCloud.eastus2euap,eastus2euap
 172.173.32.0/19,IPv4,AzureCloud.eastus2euap,eastus2euap

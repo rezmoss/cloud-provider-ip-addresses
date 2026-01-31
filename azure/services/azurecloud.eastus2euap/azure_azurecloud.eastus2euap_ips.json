@@ -1812,6 +1812,12 @@
     "region": "eastus2euap"
   },
   {
+    "ip_address": "135.130.25.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.eastus2euap",
+    "region": "eastus2euap"
+  },
+  {
     "ip_address": "135.130.72.0/23",
     "ip_type": "IPv4",
     "service": "AzureCloud.eastus2euap",

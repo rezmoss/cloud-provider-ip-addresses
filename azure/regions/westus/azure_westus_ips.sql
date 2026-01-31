@@ -544,6 +544,8 @@ INSERT INTO `azure_westus_ips` (`ip_address`, `ip_type`) VALUES ('104.42.200.16/
 INSERT INTO `azure_westus_ips` (`ip_address`, `ip_type`) VALUES ('135.130.26.0/23', 'IPv4');
 INSERT INTO `azure_westus_ips` (`ip_address`, `ip_type`) VALUES ('135.130.66.0/23', 'IPv4');
 INSERT INTO `azure_westus_ips` (`ip_address`, `ip_type`) VALUES ('135.130.176.0/23', 'IPv4');
+INSERT INTO `azure_westus_ips` (`ip_address`, `ip_type`) VALUES ('135.130.235.0/24', 'IPv4');
+INSERT INTO `azure_westus_ips` (`ip_address`, `ip_type`) VALUES ('135.130.238.0/25', 'IPv4');
 INSERT INTO `azure_westus_ips` (`ip_address`, `ip_type`) VALUES ('138.91.128.128/26', 'IPv4');
 INSERT INTO `azure_westus_ips` (`ip_address`, `ip_type`) VALUES ('138.91.129.0/26', 'IPv4');
 INSERT INTO `azure_westus_ips` (`ip_address`, `ip_type`) VALUES ('145.190.141.0/24', 'IPv4');
@@ -554,7 +556,7 @@ INSERT INTO `azure_westus_ips` (`ip_address`, `ip_type`) VALUES ('168.63.89.128/
 INSERT INTO `azure_westus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:a0a::/49', 'IPv6');
 INSERT INTO `azure_westus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:a0a:8000::/58', 'IPv6');
 INSERT INTO `azure_westus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:a0a:8040::/62', 'IPv6');
-INSERT INTO `azure_westus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:a0a:8044::/64', 'IPv6');
+INSERT INTO `azure_westus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:a0a:8044::/63', 'IPv6');
 INSERT INTO `azure_westus_ips` (`ip_address`, `ip_type`) VALUES ('13.86.218.192/27', 'IPv4');
 INSERT INTO `azure_westus_ips` (`ip_address`, `ip_type`) VALUES ('13.91.55.167/32', 'IPv4');
 INSERT INTO `azure_westus_ips` (`ip_address`, `ip_type`) VALUES ('13.91.88.93/32', 'IPv4');
@@ -1183,6 +1185,7 @@ INSERT INTO `azure_westus_ips` (`ip_address`, `ip_type`) VALUES ('20.20.94.128/2
 INSERT INTO `azure_westus_ips` (`ip_address`, `ip_type`) VALUES ('20.20.94.192/27', 'IPv4');
 INSERT INTO `azure_westus_ips` (`ip_address`, `ip_type`) VALUES ('20.20.94.224/28', 'IPv4');
 INSERT INTO `azure_westus_ips` (`ip_address`, `ip_type`) VALUES ('20.20.94.240/30', 'IPv4');
+INSERT INTO `azure_westus_ips` (`ip_address`, `ip_type`) VALUES ('20.20.94.244/31', 'IPv4');
 INSERT INTO `azure_westus_ips` (`ip_address`, `ip_type`) VALUES ('20.20.137.0/24', 'IPv4');
 INSERT INTO `azure_westus_ips` (`ip_address`, `ip_type`) VALUES ('20.33.105.0/24', 'IPv4');
 INSERT INTO `azure_westus_ips` (`ip_address`, `ip_type`) VALUES ('20.33.135.0/24', 'IPv4');
@@ -1197,6 +1200,7 @@ INSERT INTO `azure_westus_ips` (`ip_address`, `ip_type`) VALUES ('20.47.116.0/24
 INSERT INTO `azure_westus_ips` (`ip_address`, `ip_type`) VALUES ('20.49.120.0/21', 'IPv4');
 INSERT INTO `azure_westus_ips` (`ip_address`, `ip_type`) VALUES ('20.57.192.0/19', 'IPv4');
 INSERT INTO `azure_westus_ips` (`ip_address`, `ip_type`) VALUES ('20.59.64.0/18', 'IPv4');
+INSERT INTO `azure_westus_ips` (`ip_address`, `ip_type`) VALUES ('20.59.128.0/18', 'IPv4');
 INSERT INTO `azure_westus_ips` (`ip_address`, `ip_type`) VALUES ('20.60.1.0/24', 'IPv4');
 INSERT INTO `azure_westus_ips` (`ip_address`, `ip_type`) VALUES ('20.60.34.0/23', 'IPv4');
 INSERT INTO `azure_westus_ips` (`ip_address`, `ip_type`) VALUES ('20.60.44.128/25', 'IPv4');
@@ -1483,6 +1487,8 @@ INSERT INTO `azure_westus_ips` (`ip_address`, `ip_type`) VALUES ('104.210.32.0/1
 INSERT INTO `azure_westus_ips` (`ip_address`, `ip_type`) VALUES ('135.130.26.0/23', 'IPv4');
 INSERT INTO `azure_westus_ips` (`ip_address`, `ip_type`) VALUES ('135.130.66.0/23', 'IPv4');
 INSERT INTO `azure_westus_ips` (`ip_address`, `ip_type`) VALUES ('135.130.176.0/23', 'IPv4');
+INSERT INTO `azure_westus_ips` (`ip_address`, `ip_type`) VALUES ('135.130.235.0/24', 'IPv4');
+INSERT INTO `azure_westus_ips` (`ip_address`, `ip_type`) VALUES ('135.130.238.0/25', 'IPv4');
 INSERT INTO `azure_westus_ips` (`ip_address`, `ip_type`) VALUES ('137.116.184.0/21', 'IPv4');
 INSERT INTO `azure_westus_ips` (`ip_address`, `ip_type`) VALUES ('137.117.0.0/19', 'IPv4');
 INSERT INTO `azure_westus_ips` (`ip_address`, `ip_type`) VALUES ('137.135.0.0/18', 'IPv4');

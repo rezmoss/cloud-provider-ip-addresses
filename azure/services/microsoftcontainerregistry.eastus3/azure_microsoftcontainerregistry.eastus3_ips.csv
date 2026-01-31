@@ -1,3 +1,5 @@
 ip_address,ip_type,service,region
+51.57.136.136/29,IPv4,MicrosoftContainerRegistry.EastUS3,eastus3
 134.138.96.0/29,IPv4,MicrosoftContainerRegistry.EastUS3,eastus3
+2603:1030:1402:4::670/125,IPv6,MicrosoftContainerRegistry.EastUS3,eastus3
 2603:1030:1402:400::/125,IPv6,MicrosoftContainerRegistry.EastUS3,eastus3

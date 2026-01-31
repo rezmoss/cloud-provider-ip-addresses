@@ -3018,13 +3018,13 @@
     "region": "swedencentral"
   },
   {
-    "ip_address": "57.157.68.192/30",
+    "ip_address": "57.157.68.192/29",
     "ip_type": "IPv4",
     "service": "AzureCloud.swedencentral",
     "region": "swedencentral"
   },
   {
-    "ip_address": "57.157.68.196/31",
+    "ip_address": "57.157.68.200/31",
     "ip_type": "IPv4",
     "service": "AzureCloud.swedencentral",
     "region": "swedencentral"

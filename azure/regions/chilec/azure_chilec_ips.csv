@@ -180,8 +180,6 @@ ip_address,ip_type,service,region
 2603:1050:301:c00::10/125,IPv6,ServiceFabric.ChileCentral,chilec
 68.211.152.48/29,IPv4,StorageSyncService.ChileCentral,chilec
 2603:1050:301:400::120/123,IPv6,StorageSyncService.ChileCentral,chilec
-57.156.5.248/29,IPv4,WindowsVirtualDesktop.ChileCentral,chilec
-57.156.73.192/28,IPv4,WindowsVirtualDesktop.ChileCentral,chilec
 2603:1061:2010:7::/117,IPv6,WindowsVirtualDesktop.ChileCentral,chilec
 20.20.32.128/25,IPv4,AzureCloud.chilec,chilec
 20.20.88.0/24,IPv4,AzureCloud.chilec,chilec
@@ -199,6 +197,8 @@ ip_address,ip_type,service,region
 20.231.128.128/25,IPv4,AzureCloud.chilec,chilec
 20.231.144.224/27,IPv4,AzureCloud.chilec,chilec
 20.231.148.0/26,IPv4,AzureCloud.chilec,chilec
+40.64.147.232/29,IPv4,AzureCloud.chilec,chilec
+40.64.154.32/27,IPv4,AzureCloud.chilec,chilec
 40.64.163.128/25,IPv4,AzureCloud.chilec,chilec
 40.93.24.0/24,IPv4,AzureCloud.chilec,chilec
 40.97.14.64/26,IPv4,AzureCloud.chilec,chilec

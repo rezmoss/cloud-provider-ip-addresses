@@ -966,6 +966,12 @@
     "region": ""
   },
   {
+    "ip_address": "134.138.95.196/30",
+    "ip_type": "IPv4",
+    "service": "ActionGroup",
+    "region": ""
+  },
+  {
     "ip_address": "134.138.99.4/30",
     "ip_type": "IPv4",
     "service": "ActionGroup",
@@ -1639,6 +1645,12 @@
   },
   {
     "ip_address": "2603:1030:1302:400::40/125",
+    "ip_type": "IPv6",
+    "service": "ActionGroup",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:1402:4::678/125",
     "ip_type": "IPv6",
     "service": "ActionGroup",
     "region": ""

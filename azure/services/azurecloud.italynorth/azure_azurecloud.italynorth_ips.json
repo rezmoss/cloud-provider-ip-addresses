@@ -420,6 +420,12 @@
     "region": "italynorth"
   },
   {
+    "ip_address": "145.190.148.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.italynorth",
+    "region": "italynorth"
+  },
+  {
     "ip_address": "172.213.0.0/19",
     "ip_type": "IPv4",
     "service": "AzureCloud.italynorth",

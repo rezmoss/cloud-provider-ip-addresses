@@ -3132,19 +3132,19 @@
     "region": "germanywc"
   },
   {
-    "ip_address": "57.157.60.128/28",
+    "ip_address": "57.157.60.128/27",
     "ip_type": "IPv4",
     "service": "AzureCloud.germanywc",
     "region": "germanywc"
   },
   {
-    "ip_address": "57.157.60.144/29",
+    "ip_address": "57.157.60.160/28",
     "ip_type": "IPv4",
     "service": "AzureCloud.germanywc",
     "region": "germanywc"
   },
   {
-    "ip_address": "57.157.60.152/30",
+    "ip_address": "57.157.60.176/30",
     "ip_type": "IPv4",
     "service": "AzureCloud.germanywc",
     "region": "germanywc"

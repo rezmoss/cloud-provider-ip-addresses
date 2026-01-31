@@ -1980,6 +1980,36 @@
     "region": "eastasia"
   },
   {
+    "ip_address": "135.130.221.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "135.130.224.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "135.130.225.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "135.130.236.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "135.130.242.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.EastAsia",
+    "region": "eastasia"
+  },
+  {
     "ip_address": "168.63.128.0/26",
     "ip_type": "IPv4",
     "service": "Storage.EastAsia",
@@ -3996,13 +4026,7 @@
     "region": "eastasia"
   },
   {
-    "ip_address": "52.113.108.0/24",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.eastasia",
-    "region": "eastasia"
-  },
-  {
-    "ip_address": "52.114.0.0/21",
+    "ip_address": "52.114.4.0/22",
     "ip_type": "IPv4",
     "service": "AzureCloud.eastasia",
     "region": "eastasia"
@@ -4207,6 +4231,30 @@
   },
   {
     "ip_address": "134.170.192.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.eastasia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "135.130.221.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.eastasia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "135.130.224.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.eastasia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "135.130.236.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.eastasia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "135.130.242.0/23",
     "ip_type": "IPv4",
     "service": "AzureCloud.eastasia",
     "region": "eastasia"

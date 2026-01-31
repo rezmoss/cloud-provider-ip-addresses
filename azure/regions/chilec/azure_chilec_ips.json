@@ -1086,18 +1086,6 @@
     "region": "chilec"
   },
   {
-    "ip_address": "57.156.5.248/29",
-    "ip_type": "IPv4",
-    "service": "WindowsVirtualDesktop.ChileCentral",
-    "region": "chilec"
-  },
-  {
-    "ip_address": "57.156.73.192/28",
-    "ip_type": "IPv4",
-    "service": "WindowsVirtualDesktop.ChileCentral",
-    "region": "chilec"
-  },
-  {
     "ip_address": "2603:1061:2010:7::/117",
     "ip_type": "IPv6",
     "service": "WindowsVirtualDesktop.ChileCentral",
@@ -1195,6 +1183,18 @@
   },
   {
     "ip_address": "20.231.148.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.chilec",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "40.64.147.232/29",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.chilec",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "40.64.154.32/27",
     "ip_type": "IPv4",
     "service": "AzureCloud.chilec",
     "region": "chilec"

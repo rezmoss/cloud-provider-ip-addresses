@@ -361,6 +361,7 @@ INSERT INTO `azure_powerqueryonline_ips` (`ip_address`, `ip_type`) VALUES ('131.
 INSERT INTO `azure_powerqueryonline_ips` (`ip_address`, `ip_type`) VALUES ('131.163.111.120/29', 'IPv4');
 INSERT INTO `azure_powerqueryonline_ips` (`ip_address`, `ip_type`) VALUES ('131.163.111.192/28', 'IPv4');
 INSERT INTO `azure_powerqueryonline_ips` (`ip_address`, `ip_type`) VALUES ('134.138.64.32/29', 'IPv4');
+INSERT INTO `azure_powerqueryonline_ips` (`ip_address`, `ip_type`) VALUES ('134.138.95.224/27', 'IPv4');
 INSERT INTO `azure_powerqueryonline_ips` (`ip_address`, `ip_type`) VALUES ('135.224.32.160/28', 'IPv4');
 INSERT INTO `azure_powerqueryonline_ips` (`ip_address`, `ip_type`) VALUES ('135.225.43.0/28', 'IPv4');
 INSERT INTO `azure_powerqueryonline_ips` (`ip_address`, `ip_type`) VALUES ('135.225.43.16/29', 'IPv4');
@@ -557,6 +558,7 @@ INSERT INTO `azure_powerqueryonline_ips` (`ip_address`, `ip_type`) VALUES ('2603
 INSERT INTO `azure_powerqueryonline_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1202::1c0/123', 'IPv6');
 INSERT INTO `azure_powerqueryonline_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1302::1c0/123', 'IPv6');
 INSERT INTO `azure_powerqueryonline_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1402::1a0/123', 'IPv6');
+INSERT INTO `azure_powerqueryonline_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1402:4::680/122', 'IPv6');
 INSERT INTO `azure_powerqueryonline_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1502::1a0/123', 'IPv6');
 INSERT INTO `azure_powerqueryonline_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1602::1a0/123', 'IPv6');
 INSERT INTO `azure_powerqueryonline_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1602:3::6c0/122', 'IPv6');

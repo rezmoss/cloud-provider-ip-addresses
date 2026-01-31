@@ -198,6 +198,18 @@
     "region": "westcentralus"
   },
   {
+    "ip_address": "135.130.34.192/27",
+    "ip_type": "IPv4",
+    "service": "Storage.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "135.130.34.224/27",
+    "ip_type": "IPv4",
+    "service": "Storage.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
     "ip_address": "135.130.60.0/23",
     "ip_type": "IPv4",
     "service": "Storage.WestCentralUS",
@@ -210,6 +222,30 @@
     "region": "westcentralus"
   },
   {
+    "ip_address": "135.130.157.0/25",
+    "ip_type": "IPv4",
+    "service": "Storage.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "135.130.157.128/26",
+    "ip_type": "IPv4",
+    "service": "Storage.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "135.130.212.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "135.130.214.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
     "ip_address": "145.190.137.0/24",
     "ip_type": "IPv4",
     "service": "Storage.WestCentralUS",
@@ -217,6 +253,12 @@
   },
   {
     "ip_address": "2603:1030:b06::/49",
+    "ip_type": "IPv6",
+    "service": "Storage.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b06:8000::/63",
     "ip_type": "IPv6",
     "service": "Storage.WestCentralUS",
     "region": "westcentralus"

@@ -516,6 +516,18 @@
     "region": "westus"
   },
   {
+    "ip_address": "135.130.235.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.WestUS",
+    "region": "westus"
+  },
+  {
+    "ip_address": "135.130.238.0/25",
+    "ip_type": "IPv4",
+    "service": "Storage.WestUS",
+    "region": "westus"
+  },
+  {
     "ip_address": "138.91.128.128/26",
     "ip_type": "IPv4",
     "service": "Storage.WestUS",
@@ -576,7 +588,7 @@
     "region": "westus"
   },
   {
-    "ip_address": "2603:1030:a0a:8044::/64",
+    "ip_address": "2603:1030:a0a:8044::/63",
     "ip_type": "IPv6",
     "service": "Storage.WestUS",
     "region": "westus"

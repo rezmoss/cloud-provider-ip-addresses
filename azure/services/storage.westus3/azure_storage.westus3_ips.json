@@ -282,6 +282,30 @@
     "region": "westus3"
   },
   {
+    "ip_address": "135.130.232.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.WestUS3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "135.130.233.0/25",
+    "ip_type": "IPv4",
+    "service": "Storage.WestUS3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "135.130.244.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.WestUS3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "135.130.245.0/25",
+    "ip_type": "IPv4",
+    "service": "Storage.WestUS3",
+    "region": "westus3"
+  },
+  {
     "ip_address": "2603:1030:505::/49",
     "ip_type": "IPv6",
     "service": "Storage.WestUS3",
@@ -306,7 +330,13 @@
     "region": "westus3"
   },
   {
-    "ip_address": "2603:1030:505:802c::/64",
+    "ip_address": "2603:1030:505:802c::/63",
+    "ip_type": "IPv6",
+    "service": "Storage.WestUS3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "2603:1030:505:802e::/64",
     "ip_type": "IPv6",
     "service": "Storage.WestUS3",
     "region": "westus3"

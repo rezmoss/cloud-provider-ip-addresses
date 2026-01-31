@@ -112,6 +112,7 @@ INSERT INTO `azure_microsoftcontainerregistry_ips` (`ip_address`, `ip_type`) VAL
 INSERT INTO `azure_microsoftcontainerregistry_ips` (`ip_address`, `ip_type`) VALUES ('51.12.234.136/29', 'IPv4');
 INSERT INTO `azure_microsoftcontainerregistry_ips` (`ip_address`, `ip_type`) VALUES ('51.53.106.64/29', 'IPv4');
 INSERT INTO `azure_microsoftcontainerregistry_ips` (`ip_address`, `ip_type`) VALUES ('51.53.186.64/29', 'IPv4');
+INSERT INTO `azure_microsoftcontainerregistry_ips` (`ip_address`, `ip_type`) VALUES ('51.57.136.136/29', 'IPv4');
 INSERT INTO `azure_microsoftcontainerregistry_ips` (`ip_address`, `ip_type`) VALUES ('51.103.202.64/29', 'IPv4');
 INSERT INTO `azure_microsoftcontainerregistry_ips` (`ip_address`, `ip_type`) VALUES ('51.105.66.136/29', 'IPv4');
 INSERT INTO `azure_microsoftcontainerregistry_ips` (`ip_address`, `ip_type`) VALUES ('51.105.74.136/29', 'IPv4');
@@ -302,6 +303,7 @@ INSERT INTO `azure_microsoftcontainerregistry_ips` (`ip_address`, `ip_type`) VAL
 INSERT INTO `azure_microsoftcontainerregistry_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1102:400::/125', 'IPv6');
 INSERT INTO `azure_microsoftcontainerregistry_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1202:400::/125', 'IPv6');
 INSERT INTO `azure_microsoftcontainerregistry_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1302:400::/125', 'IPv6');
+INSERT INTO `azure_microsoftcontainerregistry_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1402:4::670/125', 'IPv6');
 INSERT INTO `azure_microsoftcontainerregistry_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1402:400::/125', 'IPv6');
 INSERT INTO `azure_microsoftcontainerregistry_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1502:400::/125', 'IPv6');
 INSERT INTO `azure_microsoftcontainerregistry_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1602:3::3b8/125', 'IPv6');

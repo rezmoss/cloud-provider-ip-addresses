@@ -117,6 +117,7 @@ INSERT INTO `azure_azurecloud.koreacentral_ips` (`ip_address`, `ip_type`) VALUES
 INSERT INTO `azure_azurecloud.koreacentral_ips` (`ip_address`, `ip_type`) VALUES ('52.245.112.0/22', 'IPv4');
 INSERT INTO `azure_azurecloud.koreacentral_ips` (`ip_address`, `ip_type`) VALUES ('52.253.173.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.koreacentral_ips` (`ip_address`, `ip_type`) VALUES ('52.253.174.0/24', 'IPv4');
+INSERT INTO `azure_azurecloud.koreacentral_ips` (`ip_address`, `ip_type`) VALUES ('57.157.88.0/30', 'IPv4');
 INSERT INTO `azure_azurecloud.koreacentral_ips` (`ip_address`, `ip_type`) VALUES ('70.152.15.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.koreacentral_ips` (`ip_address`, `ip_type`) VALUES ('72.155.0.0/17', 'IPv4');
 INSERT INTO `azure_azurecloud.koreacentral_ips` (`ip_address`, `ip_type`) VALUES ('74.227.136.0/21', 'IPv4');

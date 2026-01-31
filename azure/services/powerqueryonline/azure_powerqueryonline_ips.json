@@ -2130,6 +2130,12 @@
     "region": ""
   },
   {
+    "ip_address": "134.138.95.224/27",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline",
+    "region": ""
+  },
+  {
     "ip_address": "135.224.32.160/28",
     "ip_type": "IPv4",
     "service": "PowerQueryOnline",
@@ -3301,6 +3307,12 @@
   },
   {
     "ip_address": "2603:1030:1402::1a0/123",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:1402:4::680/122",
     "ip_type": "IPv6",
     "service": "PowerQueryOnline",
     "region": ""

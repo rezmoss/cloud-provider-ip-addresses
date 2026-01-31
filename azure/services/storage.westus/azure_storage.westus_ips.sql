@@ -92,6 +92,8 @@ INSERT INTO `azure_storage.westus_ips` (`ip_address`, `ip_type`) VALUES ('104.42
 INSERT INTO `azure_storage.westus_ips` (`ip_address`, `ip_type`) VALUES ('135.130.26.0/23', 'IPv4');
 INSERT INTO `azure_storage.westus_ips` (`ip_address`, `ip_type`) VALUES ('135.130.66.0/23', 'IPv4');
 INSERT INTO `azure_storage.westus_ips` (`ip_address`, `ip_type`) VALUES ('135.130.176.0/23', 'IPv4');
+INSERT INTO `azure_storage.westus_ips` (`ip_address`, `ip_type`) VALUES ('135.130.235.0/24', 'IPv4');
+INSERT INTO `azure_storage.westus_ips` (`ip_address`, `ip_type`) VALUES ('135.130.238.0/25', 'IPv4');
 INSERT INTO `azure_storage.westus_ips` (`ip_address`, `ip_type`) VALUES ('138.91.128.128/26', 'IPv4');
 INSERT INTO `azure_storage.westus_ips` (`ip_address`, `ip_type`) VALUES ('138.91.129.0/26', 'IPv4');
 INSERT INTO `azure_storage.westus_ips` (`ip_address`, `ip_type`) VALUES ('145.190.141.0/24', 'IPv4');
@@ -102,4 +104,4 @@ INSERT INTO `azure_storage.westus_ips` (`ip_address`, `ip_type`) VALUES ('168.63
 INSERT INTO `azure_storage.westus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:a0a::/49', 'IPv6');
 INSERT INTO `azure_storage.westus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:a0a:8000::/58', 'IPv6');
 INSERT INTO `azure_storage.westus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:a0a:8040::/62', 'IPv6');
-INSERT INTO `azure_storage.westus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:a0a:8044::/64', 'IPv6');
+INSERT INTO `azure_storage.westus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:a0a:8044::/63', 'IPv6');

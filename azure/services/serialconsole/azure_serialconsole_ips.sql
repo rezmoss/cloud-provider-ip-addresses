@@ -14,7 +14,6 @@ INSERT INTO `azure_serialconsole_ips` (`ip_address`, `ip_type`) VALUES ('4.198.4
 INSERT INTO `azure_serialconsole_ips` (`ip_address`, `ip_type`) VALUES ('4.199.114.62/31', 'IPv4');
 INSERT INTO `azure_serialconsole_ips` (`ip_address`, `ip_type`) VALUES ('4.200.251.224/32', 'IPv4');
 INSERT INTO `azure_serialconsole_ips` (`ip_address`, `ip_type`) VALUES ('4.210.131.60/32', 'IPv4');
-INSERT INTO `azure_serialconsole_ips` (`ip_address`, `ip_type`) VALUES ('4.232.13.147/32', 'IPv4');
 INSERT INTO `azure_serialconsole_ips` (`ip_address`, `ip_type`) VALUES ('4.232.53.147/32', 'IPv4');
 INSERT INTO `azure_serialconsole_ips` (`ip_address`, `ip_type`) VALUES ('4.232.100.24/32', 'IPv4');
 INSERT INTO `azure_serialconsole_ips` (`ip_address`, `ip_type`) VALUES ('4.244.4.32/31', 'IPv4');
@@ -28,7 +27,6 @@ INSERT INTO `azure_serialconsole_ips` (`ip_address`, `ip_type`) VALUES ('20.17.1
 INSERT INTO `azure_serialconsole_ips` (`ip_address`, `ip_type`) VALUES ('20.18.7.188/32', 'IPv4');
 INSERT INTO `azure_serialconsole_ips` (`ip_address`, `ip_type`) VALUES ('20.21.84.158/32', 'IPv4');
 INSERT INTO `azure_serialconsole_ips` (`ip_address`, `ip_type`) VALUES ('20.21.91.24/32', 'IPv4');
-INSERT INTO `azure_serialconsole_ips` (`ip_address`, `ip_type`) VALUES ('20.21.217.214/32', 'IPv4');
 INSERT INTO `azure_serialconsole_ips` (`ip_address`, `ip_type`) VALUES ('20.37.198.141/32', 'IPv4');
 INSERT INTO `azure_serialconsole_ips` (`ip_address`, `ip_type`) VALUES ('20.38.141.5/32', 'IPv4');
 INSERT INTO `azure_serialconsole_ips` (`ip_address`, `ip_type`) VALUES ('20.40.200.175/32', 'IPv4');
@@ -49,7 +47,6 @@ INSERT INTO `azure_serialconsole_ips` (`ip_address`, `ip_type`) VALUES ('20.58.6
 INSERT INTO `azure_serialconsole_ips` (`ip_address`, `ip_type`) VALUES ('20.59.209.120/31', 'IPv4');
 INSERT INTO `azure_serialconsole_ips` (`ip_address`, `ip_type`) VALUES ('20.69.5.160/31', 'IPv4');
 INSERT INTO `azure_serialconsole_ips` (`ip_address`, `ip_type`) VALUES ('20.69.5.162/32', 'IPv4');
-INSERT INTO `azure_serialconsole_ips` (`ip_address`, `ip_type`) VALUES ('20.69.137.213/32', 'IPv4');
 INSERT INTO `azure_serialconsole_ips` (`ip_address`, `ip_type`) VALUES ('20.70.222.112/31', 'IPv4');
 INSERT INTO `azure_serialconsole_ips` (`ip_address`, `ip_type`) VALUES ('20.83.222.100/31', 'IPv4');
 INSERT INTO `azure_serialconsole_ips` (`ip_address`, `ip_type`) VALUES ('20.83.222.102/32', 'IPv4');
@@ -59,7 +56,6 @@ INSERT INTO `azure_serialconsole_ips` (`ip_address`, `ip_type`) VALUES ('20.89.1
 INSERT INTO `azure_serialconsole_ips` (`ip_address`, `ip_type`) VALUES ('20.90.32.180/32', 'IPv4');
 INSERT INTO `azure_serialconsole_ips` (`ip_address`, `ip_type`) VALUES ('20.90.132.144/31', 'IPv4');
 INSERT INTO `azure_serialconsole_ips` (`ip_address`, `ip_type`) VALUES ('20.91.100.236/32', 'IPv4');
-INSERT INTO `azure_serialconsole_ips` (`ip_address`, `ip_type`) VALUES ('20.96.84.75/32', 'IPv4');
 INSERT INTO `azure_serialconsole_ips` (`ip_address`, `ip_type`) VALUES ('20.98.146.84/31', 'IPv4');
 INSERT INTO `azure_serialconsole_ips` (`ip_address`, `ip_type`) VALUES ('20.98.194.64/31', 'IPv4');
 INSERT INTO `azure_serialconsole_ips` (`ip_address`, `ip_type`) VALUES ('20.98.194.66/32', 'IPv4');
@@ -98,7 +94,6 @@ INSERT INTO `azure_serialconsole_ips` (`ip_address`, `ip_type`) VALUES ('20.214.
 INSERT INTO `azure_serialconsole_ips` (`ip_address`, `ip_type`) VALUES ('20.215.7.62/32', 'IPv4');
 INSERT INTO `azure_serialconsole_ips` (`ip_address`, `ip_type`) VALUES ('20.215.78.104/32', 'IPv4');
 INSERT INTO `azure_serialconsole_ips` (`ip_address`, `ip_type`) VALUES ('20.215.107.2/31', 'IPv4');
-INSERT INTO `azure_serialconsole_ips` (`ip_address`, `ip_type`) VALUES ('20.215.148.181/32', 'IPv4');
 INSERT INTO `azure_serialconsole_ips` (`ip_address`, `ip_type`) VALUES ('20.217.47.62/32', 'IPv4');
 INSERT INTO `azure_serialconsole_ips` (`ip_address`, `ip_type`) VALUES ('20.217.165.65/32', 'IPv4');
 INSERT INTO `azure_serialconsole_ips` (`ip_address`, `ip_type`) VALUES ('20.220.7.246/32', 'IPv4');
