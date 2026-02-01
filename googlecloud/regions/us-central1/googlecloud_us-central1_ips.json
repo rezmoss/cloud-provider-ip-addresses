@@ -258,6 +258,12 @@
     "region": "us-central1"
   },
   {
+    "ip_address": "34.183.52.0/22",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "us-central1"
+  },
+  {
     "ip_address": "34.184.16.0/22",
     "ip_type": "IPv4",
     "service": "Google Cloud",
@@ -265,6 +271,12 @@
   },
   {
     "ip_address": "34.184.40.0/21",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "us-central1"
+  },
+  {
+    "ip_address": "34.184.48.0/22",
     "ip_type": "IPv4",
     "service": "Google Cloud",
     "region": "us-central1"

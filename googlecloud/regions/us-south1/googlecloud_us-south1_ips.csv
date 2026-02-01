@@ -1,7 +1,9 @@
 ip_address,ip_type,service,region
 34.0.128.0/19,IPv4,Google Cloud,us-south1
 34.127.156.0/22,IPv4,Google Cloud,us-south1
+34.152.110.128/26,IPv4,Google Cloud,us-south1
 34.157.46.0/23,IPv4,Google Cloud,us-south1
 34.157.174.0/23,IPv4,Google Cloud,us-south1
+34.157.219.128/26,IPv4,Google Cloud,us-south1
 34.174.0.0/16,IPv4,Google Cloud,us-south1
 2600:1901:8140::/44,IPv6,Google Cloud,us-south1
