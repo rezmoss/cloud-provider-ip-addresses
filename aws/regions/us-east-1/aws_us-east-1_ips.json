@@ -8910,12 +8910,6 @@
     "region": "us-east-1"
   },
   {
-    "ip_address": "2631:1:4f00::/48",
-    "ip_type": "IPv6",
-    "service": "AMAZON",
-    "region": "us-east-1"
-  },
-  {
     "ip_address": "2600:f0fb:e800::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -10231,12 +10225,6 @@
   },
   {
     "ip_address": "2600:1f60:8000::/39",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "us-east-1"
-  },
-  {
-    "ip_address": "2631:1:4f00::/48",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "us-east-1"
