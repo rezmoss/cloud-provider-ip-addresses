@@ -1,5 +1,0 @@
-ip_address,ip_type,service,region
-20.41.64.72/29,IPv4,GatewayManager.KoreaCentral,koreacentral
-20.194.75.128/26,IPv4,GatewayManager.KoreaCentral,koreacentral
-52.231.18.224/29,IPv4,GatewayManager.KoreaCentral,koreacentral
-2603:1040:f05:1::40/122,IPv6,GatewayManager.KoreaCentral,koreacentral

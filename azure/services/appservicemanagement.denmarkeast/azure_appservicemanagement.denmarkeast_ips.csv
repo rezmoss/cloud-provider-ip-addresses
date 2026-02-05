@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-9.205.44.128/26,IPv4,AppServiceManagement.DenmarkEast,denmarkeast
-2603:1020:1602:2::40/122,IPv6,AppServiceManagement.DenmarkEast,denmarkeast

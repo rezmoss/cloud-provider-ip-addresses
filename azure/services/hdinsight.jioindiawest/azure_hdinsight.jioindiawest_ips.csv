@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-20.193.194.16/29,IPv4,HDInsight.JioIndiaWest,jioindiawest
-20.193.203.200/29,IPv4,HDInsight.JioIndiaWest,jioindiawest
-2603:1040:d04:1::1e0/124,IPv6,HDInsight.JioIndiaWest,jioindiawest

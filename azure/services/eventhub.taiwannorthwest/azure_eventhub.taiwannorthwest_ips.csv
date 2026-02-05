@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-51.53.173.0/24,IPv4,EventHub.TaiwanNorthwest,taiwannorthwest
-51.53.187.128/26,IPv4,EventHub.TaiwanNorthwest,taiwannorthwest
-2603:1040:1202:1::/120,IPv6,EventHub.TaiwanNorthwest,taiwannorthwest

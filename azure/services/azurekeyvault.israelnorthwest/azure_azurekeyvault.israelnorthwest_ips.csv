@@ -1,6 +1,0 @@
-ip_address,ip_type,service,region
-20.217.255.24/30,IPv4,AzureKeyVault.IsraelNorthwest,israelnorthwest
-51.4.136.248/29,IPv4,AzureKeyVault.IsraelNorthwest,israelnorthwest
-51.4.160.60/30,IPv4,AzureKeyVault.IsraelNorthwest,israelnorthwest
-2603:1040:1702:1::1c8/125,IPv6,AzureKeyVault.IsraelNorthwest,israelnorthwest
-2603:1040:1702:400::48/125,IPv6,AzureKeyVault.IsraelNorthwest,israelnorthwest

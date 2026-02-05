@@ -1,7 +1,0 @@
-ip_address,ip_type,service,region
-4.243.83.224/27,IPv4,AzureSecurityCenter.KoreaSouth,koreasouth
-4.243.92.192/26,IPv4,AzureSecurityCenter.KoreaSouth,koreasouth
-4.243.94.0/23,IPv4,AzureSecurityCenter.KoreaSouth,koreasouth
-4.243.96.0/22,IPv4,AzureSecurityCenter.KoreaSouth,koreasouth
-4.243.100.0/24,IPv4,AzureSecurityCenter.KoreaSouth,koreasouth
-52.231.151.0/27,IPv4,AzureSecurityCenter.KoreaSouth,koreasouth

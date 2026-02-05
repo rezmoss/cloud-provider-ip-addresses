@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-68.154.136.24/30,IPv4,ActionGroup.SoutheastUS,southeastus
-2603:1030:902:400::40/125,IPv6,ActionGroup.SoutheastUS,southeastus

@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-51.53.27.0/27,IPv4,AzureCosmosDB.TaiwanNorth,taiwannorth
-51.53.103.64/26,IPv4,AzureCosmosDB.TaiwanNorth,taiwannorth
-2603:1040:1302::1e0/123,IPv6,AzureCosmosDB.TaiwanNorth,taiwannorth

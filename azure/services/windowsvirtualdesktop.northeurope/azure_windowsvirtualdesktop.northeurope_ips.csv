@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-40.64.144.64/27,IPv4,WindowsVirtualDesktop.NorthEurope,northeurope
-2603:1061:2010:12::/117,IPv6,WindowsVirtualDesktop.NorthEurope,northeurope

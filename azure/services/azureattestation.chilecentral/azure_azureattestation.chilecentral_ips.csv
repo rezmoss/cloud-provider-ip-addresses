@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-68.211.19.184/30,IPv4,AzureAttestation.ChileCentral,chilec
-68.211.31.176/29,IPv4,AzureAttestation.ChileCentral,chilec
-2603:1050:301::540/124,IPv6,AzureAttestation.ChileCentral,chilec

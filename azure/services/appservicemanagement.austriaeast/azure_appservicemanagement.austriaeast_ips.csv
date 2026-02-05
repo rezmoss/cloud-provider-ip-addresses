@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-68.210.1.0/29,IPv4,AppServiceManagement.AustriaEast,austriaeast
-68.210.172.192/26,IPv4,AppServiceManagement.AustriaEast,austriaeast
-2603:1020:104:6::c0/122,IPv6,AppServiceManagement.AustriaEast,austriaeast

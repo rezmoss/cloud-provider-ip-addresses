@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-51.4.160.0/29,IPv4,MicrosoftContainerRegistry.IsraelNorthwest,israelnorthwest
-2603:1040:1702:400::/125,IPv6,MicrosoftContainerRegistry.IsraelNorthwest,israelnorthwest

@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-20.217.255.16/29,IPv4,HDInsight.IsraelNorthwest,israelnorthwest
-2603:1040:1702:1::2c0/124,IPv6,HDInsight.IsraelNorthwest,israelnorthwest

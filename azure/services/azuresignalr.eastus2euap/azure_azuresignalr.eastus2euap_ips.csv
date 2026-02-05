@@ -1,5 +1,0 @@
-ip_address,ip_type,service,region
-20.51.17.224/27,IPv4,AzureSignalR.EastUS2EUAP,eastus2euap
-52.138.92.224/27,IPv4,AzureSignalR.EastUS2EUAP,eastus2euap
-72.147.44.96/27,IPv4,AzureSignalR.EastUS2EUAP,eastus2euap
-2603:1030:40b:3::100/120,IPv6,AzureSignalR.EastUS2EUAP,eastus2euap

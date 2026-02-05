@@ -1,7 +1,0 @@
-ip_address,ip_type,service,region
-158.23.10.64/29,IPv4,MicrosoftContainerRegistry.MexicoCentral,mexicocentral
-158.23.122.64/29,IPv4,MicrosoftContainerRegistry.MexicoCentral,mexicocentral
-158.23.194.64/29,IPv4,MicrosoftContainerRegistry.MexicoCentral,mexicocentral
-2603:1030:702:400::/125,IPv6,MicrosoftContainerRegistry.MexicoCentral,mexicocentral
-2603:1030:702:800::/125,IPv6,MicrosoftContainerRegistry.MexicoCentral,mexicocentral
-2603:1030:702:c00::/125,IPv6,MicrosoftContainerRegistry.MexicoCentral,mexicocentral

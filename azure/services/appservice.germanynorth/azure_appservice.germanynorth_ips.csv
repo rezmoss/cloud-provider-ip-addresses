@@ -1,8 +1,0 @@
-ip_address,ip_type,service,region
-51.116.49.32/27,IPv4,AppService.GermanyNorth,germanyn
-51.116.58.160/27,IPv4,AppService.GermanyNorth,germanyn
-51.116.75.128/25,IPv4,AppService.GermanyNorth,germanyn
-51.116.76.0/24,IPv4,AppService.GermanyNorth,germanyn
-51.116.77.0/29,IPv4,AppService.GermanyNorth,germanyn
-2603:1020:d04:2::200/119,IPv6,AppService.GermanyNorth,germanyn
-2603:1020:d04:402::a0/123,IPv6,AppService.GermanyNorth,germanyn

@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-20.44.3.0/28,IPv4,AzureConnectors.SouthCentralUSSTG,usstagec
-23.100.208.0/27,IPv4,AzureConnectors.SouthCentralUSSTG,usstagec

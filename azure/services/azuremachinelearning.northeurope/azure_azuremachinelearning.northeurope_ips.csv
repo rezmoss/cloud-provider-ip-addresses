@@ -1,9 +1,0 @@
-ip_address,ip_type,service,region
-13.69.227.192/28,IPv4,AzureMachineLearning.NorthEurope,northeurope
-13.74.107.160/28,IPv4,AzureMachineLearning.NorthEurope,northeurope
-20.38.80.96/28,IPv4,AzureMachineLearning.NorthEurope,northeurope
-20.82.244.0/28,IPv4,AzureMachineLearning.NorthEurope,northeurope
-52.138.226.160/28,IPv4,AzureMachineLearning.NorthEurope,northeurope
-52.155.90.254/32,IPv4,AzureMachineLearning.NorthEurope,northeurope
-52.156.193.50/32,IPv4,AzureMachineLearning.NorthEurope,northeurope
-2603:1020:5:1::2c0/122,IPv6,AzureMachineLearning.NorthEurope,northeurope

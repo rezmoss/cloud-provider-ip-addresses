@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-68.211.1.192/27,IPv4,BatchNodeManagement.ChileCentral,chilec
-2603:1050:301::300/122,IPv6,BatchNodeManagement.ChileCentral,chilec

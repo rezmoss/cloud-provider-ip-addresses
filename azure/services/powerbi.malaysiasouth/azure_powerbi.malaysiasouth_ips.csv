@@ -1,8 +1,0 @@
-ip_address,ip_type,service,region
-20.17.25.240/28,IPv4,PowerBI.MalaysiaSouth,malaysiasouth
-20.17.27.192/28,IPv4,PowerBI.MalaysiaSouth,malaysiasouth
-20.17.54.170/31,IPv4,PowerBI.MalaysiaSouth,malaysiasouth
-20.17.54.172/30,IPv4,PowerBI.MalaysiaSouth,malaysiasouth
-20.17.54.176/29,IPv4,PowerBI.MalaysiaSouth,malaysiasouth
-2603:1040:1503:1::360/123,IPv6,PowerBI.MalaysiaSouth,malaysiasouth
-2603:1040:1503:1::3c0/122,IPv6,PowerBI.MalaysiaSouth,malaysiasouth

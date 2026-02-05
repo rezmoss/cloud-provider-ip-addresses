@@ -1,7 +1,0 @@
-ip_address,ip_type,service,region
-40.79.178.32/27,IPv4,EventHub.FranceSouth,southfrance
-51.138.161.128/26,IPv4,EventHub.FranceSouth,southfrance
-52.136.188.0/24,IPv4,EventHub.FranceSouth,southfrance
-2603:1020:905::240/122,IPv6,EventHub.FranceSouth,southfrance
-2603:1020:905:2::/120,IPv6,EventHub.FranceSouth,southfrance
-2603:1020:905:402::1c0/123,IPv6,EventHub.FranceSouth,southfrance

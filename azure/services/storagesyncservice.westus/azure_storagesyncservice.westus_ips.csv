@@ -1,5 +1,0 @@
-ip_address,ip_type,service,region
-20.189.172.152/29,IPv4,StorageSyncService.WestUS,westus
-40.82.253.192/29,IPv4,StorageSyncService.WestUS,westus
-2603:1030:a07::340/123,IPv6,StorageSyncService.WestUS,westus
-2603:1030:a07:402::b00/123,IPv6,StorageSyncService.WestUS,westus

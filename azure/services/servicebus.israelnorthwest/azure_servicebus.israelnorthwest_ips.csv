@@ -1,5 +1,0 @@
-ip_address,ip_type,service,region
-20.217.254.0/25,IPv4,ServiceBus.IsraelNorthwest,israelnorthwest
-51.4.160.16/29,IPv4,ServiceBus.IsraelNorthwest,israelnorthwest
-51.4.160.32/28,IPv4,ServiceBus.IsraelNorthwest,israelnorthwest
-2603:1040:1702::780/121,IPv6,ServiceBus.IsraelNorthwest,israelnorthwest

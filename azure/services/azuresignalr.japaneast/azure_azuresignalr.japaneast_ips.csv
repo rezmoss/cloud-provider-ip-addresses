@@ -1,5 +1,0 @@
-ip_address,ip_type,service,region
-13.78.109.224/27,IPv4,AzureSignalR.JapanEast,japaneast
-20.191.166.64/27,IPv4,AzureSignalR.JapanEast,japaneast
-74.176.1.64/27,IPv4,AzureSignalR.JapanEast,japaneast
-2603:1040:407:2::300/120,IPv6,AzureSignalR.JapanEast,japaneast

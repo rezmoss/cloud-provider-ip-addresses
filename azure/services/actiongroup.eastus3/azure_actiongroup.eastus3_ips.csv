@@ -1,5 +1,0 @@
-ip_address,ip_type,service,region
-134.138.95.196/30,IPv4,ActionGroup.EastUS3,eastus3
-134.138.99.4/30,IPv4,ActionGroup.EastUS3,eastus3
-2603:1030:1402:4::678/125,IPv6,ActionGroup.EastUS3,eastus3
-2603:1030:1402:400::40/125,IPv6,ActionGroup.EastUS3,eastus3

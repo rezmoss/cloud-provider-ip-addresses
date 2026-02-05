@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-52.136.48.128/26,IPv4,AzureCognitiveSearch.WestIndia,westindia
-2603:1040:806::180/121,IPv6,AzureCognitiveSearch.WestIndia,westindia

@@ -1,5 +1,0 @@
-ip_address,ip_type,service,region
-4.240.144.50/31,IPv4,AzureArcInfrastructure.JioIndiaCentral,jioindiacentral
-4.240.144.80/29,IPv4,AzureArcInfrastructure.JioIndiaCentral,jioindiacentral
-20.192.34.68/32,IPv4,AzureArcInfrastructure.JioIndiaCentral,jioindiacentral
-20.192.228.252/30,IPv4,AzureArcInfrastructure.JioIndiaCentral,jioindiacentral

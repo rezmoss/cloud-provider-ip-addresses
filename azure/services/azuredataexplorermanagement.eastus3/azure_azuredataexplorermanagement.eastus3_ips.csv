@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-134.138.73.80/28,IPv4,AzureDataExplorerManagement.EastUS3,eastus3
-2603:1030:1402:1::400/123,IPv6,AzureDataExplorerManagement.EastUS3,eastus3

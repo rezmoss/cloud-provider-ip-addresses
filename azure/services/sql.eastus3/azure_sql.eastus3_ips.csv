@@ -1,8 +1,0 @@
-ip_address,ip_type,service,region
-134.138.83.32/27,IPv4,Sql.EastUS3,eastus3
-134.138.83.64/27,IPv4,Sql.EastUS3,eastus3
-134.138.83.128/26,IPv4,Sql.EastUS3,eastus3
-134.138.96.48/29,IPv4,Sql.EastUS3,eastus3
-134.138.96.224/27,IPv4,Sql.EastUS3,eastus3
-2603:1030:1402:2::760/123,IPv6,Sql.EastUS3,eastus3
-2603:1030:1402:3::80/121,IPv6,Sql.EastUS3,eastus3

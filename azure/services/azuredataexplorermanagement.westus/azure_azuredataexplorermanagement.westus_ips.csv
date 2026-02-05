@@ -1,6 +1,0 @@
-ip_address,ip_type,service,region
-13.64.38.225/32,IPv4,AzureDataExplorerManagement.WestUS,westus
-13.86.219.64/28,IPv4,AzureDataExplorerManagement.WestUS,westus
-20.59.81.128/28,IPv4,AzureDataExplorerManagement.WestUS,westus
-2603:1030:a07:1::380/121,IPv6,AzureDataExplorerManagement.WestUS,westus
-2603:1030:a07:402::8d0/124,IPv6,AzureDataExplorerManagement.WestUS,westus

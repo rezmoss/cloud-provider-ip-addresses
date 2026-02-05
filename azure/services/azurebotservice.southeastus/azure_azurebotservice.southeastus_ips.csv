@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-57.151.208.16/30,IPv4,AzureBotService.SoutheastUS,southeastus
-2603:1030:902::20/123,IPv6,AzureBotService.SoutheastUS,southeastus

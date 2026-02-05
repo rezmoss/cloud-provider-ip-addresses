@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-20.195.68.0/24,IPv4,AzureDevOps.SoutheastAsia,southeastasia
-2603:1040:5:15::100/120,IPv6,AzureDevOps.SoutheastAsia,southeastasia

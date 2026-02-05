@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-52.172.112.168/29,IPv4,AzureDigitalTwins.SouthIndia,southindia
-52.172.113.0/27,IPv4,AzureDigitalTwins.SouthIndia,southindia
-2603:1040:c06:3::300/121,IPv6,AzureDigitalTwins.SouthIndia,southindia

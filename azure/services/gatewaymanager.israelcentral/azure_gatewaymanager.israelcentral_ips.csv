@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-20.217.40.64/26,IPv4,GatewayManager.IsraelCentral,israelcentral
-2603:1040:1402::40/122,IPv6,GatewayManager.IsraelCentral,israelcentral

@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-20.79.108.120/29,IPv4,StorageSyncService.GermanyWestCentral,germanywc
-51.116.245.168/30,IPv4,StorageSyncService.GermanyWestCentral,germanywc
-2603:1020:c04:1::300/123,IPv6,StorageSyncService.GermanyWestCentral,germanywc

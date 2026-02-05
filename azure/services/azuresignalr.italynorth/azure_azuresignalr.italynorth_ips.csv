@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-4.232.50.64/26,IPv4,AzureSignalR.ItalyNorth,italynorth
-2603:1020:1204:2::40/122,IPv6,AzureSignalR.ItalyNorth,italynorth

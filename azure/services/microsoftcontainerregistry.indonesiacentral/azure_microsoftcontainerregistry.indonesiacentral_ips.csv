@@ -1,9 +1,0 @@
-ip_address,ip_type,service,region
-48.193.50.40/29,IPv4,MicrosoftContainerRegistry.IndonesiaCentral,indonesiacentral
-70.153.176.0/29,IPv4,MicrosoftContainerRegistry.IndonesiaCentral,indonesiacentral
-70.153.200.0/29,IPv4,MicrosoftContainerRegistry.IndonesiaCentral,indonesiacentral
-70.153.216.0/29,IPv4,MicrosoftContainerRegistry.IndonesiaCentral,indonesiacentral
-2603:1040:1802:5::1b8/125,IPv6,MicrosoftContainerRegistry.IndonesiaCentral,indonesiacentral
-2603:1040:1802:400::/125,IPv6,MicrosoftContainerRegistry.IndonesiaCentral,indonesiacentral
-2603:1040:1802:800::/125,IPv6,MicrosoftContainerRegistry.IndonesiaCentral,indonesiacentral
-2603:1040:1802:c00::/125,IPv6,MicrosoftContainerRegistry.IndonesiaCentral,indonesiacentral

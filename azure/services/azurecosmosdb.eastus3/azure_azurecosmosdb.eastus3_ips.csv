@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-134.138.68.32/27,IPv4,AzureCosmosDB.EastUS3,eastus3
-134.138.68.64/26,IPv4,AzureCosmosDB.EastUS3,eastus3
-2603:1030:1402::5c0/123,IPv6,AzureCosmosDB.EastUS3,eastus3

@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-68.221.43.0/26,IPv4,AppServiceManagement.SpainCentral,spaincentral
-70.156.216.0/29,IPv4,AppServiceManagement.SpainCentral,spaincentral
-2603:1020:1403:2::7c0/123,IPv6,AppServiceManagement.SpainCentral,spaincentral

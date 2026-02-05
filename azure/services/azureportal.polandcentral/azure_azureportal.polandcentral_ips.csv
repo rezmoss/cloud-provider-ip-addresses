@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-20.215.7.0/27,IPv4,AzurePortal.PolandCentral,polandcentral
-2603:1020:1302:1::380/121,IPv6,AzurePortal.PolandCentral,polandcentral

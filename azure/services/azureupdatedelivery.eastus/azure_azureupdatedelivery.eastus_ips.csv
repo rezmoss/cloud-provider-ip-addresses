@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-40.117.248.145/32,IPv4,AzureUpdateDelivery.EastUS,eastus
-74.235.227.153/32,IPv4,AzureUpdateDelivery.EastUS,eastus

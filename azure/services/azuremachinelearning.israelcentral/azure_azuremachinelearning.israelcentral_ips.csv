@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-20.217.41.0/27,IPv4,AzureMachineLearning.IsraelCentral,israelcentral
-2603:1040:1402::200/122,IPv6,AzureMachineLearning.IsraelCentral,israelcentral

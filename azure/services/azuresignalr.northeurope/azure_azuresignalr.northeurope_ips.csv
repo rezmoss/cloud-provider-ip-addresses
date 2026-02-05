@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-20.82.247.128/25,IPv4,AzureSignalR.NorthEurope,northeurope
-52.146.136.32/27,IPv4,AzureSignalR.NorthEurope,northeurope
-2603:1020:5:4::/120,IPv6,AzureSignalR.NorthEurope,northeurope

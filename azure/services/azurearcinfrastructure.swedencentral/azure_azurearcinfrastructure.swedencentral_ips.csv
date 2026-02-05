@@ -1,5 +1,0 @@
-ip_address,ip_type,service,region
-20.91.151.152/29,IPv4,AzureArcInfrastructure.SwedenCentral,swedencentral
-20.91.152.84/31,IPv4,AzureArcInfrastructure.SwedenCentral,swedencentral
-51.12.75.188/30,IPv4,AzureArcInfrastructure.SwedenCentral,swedencentral
-51.12.229.232/30,IPv4,AzureArcInfrastructure.SwedenCentral,swedencentral

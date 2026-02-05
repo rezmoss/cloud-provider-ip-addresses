@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-40.80.56.64/30,IPv4,AzureBotService.JapanWest,japanwest
-40.80.176.32/30,IPv4,AzureBotService.JapanWest,japanwest
-2603:1040:606::20/123,IPv6,AzureBotService.JapanWest,japanwest

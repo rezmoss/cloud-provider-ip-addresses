@@ -1,5 +1,0 @@
-ip_address,ip_type,service,region
-20.150.167.176/29,IPv4,HDInsight.WestUS3,westus3
-20.150.172.232/29,IPv4,HDInsight.WestUS3,westus3
-172.182.175.168/29,IPv4,HDInsight.WestUS3,westus3
-2603:1030:504::1e0/124,IPv6,HDInsight.WestUS3,westus3

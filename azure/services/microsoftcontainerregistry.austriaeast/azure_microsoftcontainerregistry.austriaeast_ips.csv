@@ -1,7 +1,0 @@
-ip_address,ip_type,service,region
-68.210.152.0/29,IPv4,MicrosoftContainerRegistry.AustriaEast,austriaeast
-68.210.192.0/29,IPv4,MicrosoftContainerRegistry.AustriaEast,austriaeast
-68.210.208.0/29,IPv4,MicrosoftContainerRegistry.AustriaEast,austriaeast
-2603:1020:104:403::/125,IPv6,MicrosoftContainerRegistry.AustriaEast,austriaeast
-2603:1020:104:800::/125,IPv6,MicrosoftContainerRegistry.AustriaEast,austriaeast
-2603:1020:104:c00::/125,IPv6,MicrosoftContainerRegistry.AustriaEast,austriaeast

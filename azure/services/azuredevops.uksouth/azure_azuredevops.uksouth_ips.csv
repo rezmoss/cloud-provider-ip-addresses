@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-51.104.26.0/24,IPv4,AzureDevOps.UKSouth,uksouth
-2603:1020:705:13::600/120,IPv6,AzureDevOps.UKSouth,uksouth

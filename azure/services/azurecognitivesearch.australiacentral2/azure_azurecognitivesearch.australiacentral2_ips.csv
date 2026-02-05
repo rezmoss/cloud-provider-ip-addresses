@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-20.36.120.128/26,IPv4,AzureCognitiveSearch.AustraliaCentral2,australiacentral2
-2603:1010:404::180/121,IPv6,AzureCognitiveSearch.AustraliaCentral2,australiacentral2

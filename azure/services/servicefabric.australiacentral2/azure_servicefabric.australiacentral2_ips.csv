@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-20.36.72.79/32,IPv4,ServiceFabric.AustraliaCentral2,australiacentral2
-20.36.114.192/29,IPv4,ServiceFabric.AustraliaCentral2,australiacentral2
-2603:1010:404:402::98/125,IPv6,ServiceFabric.AustraliaCentral2,australiacentral2

@@ -1,7 +1,0 @@
-ip_address,ip_type,service,region
-20.51.6.64/26,IPv4,GatewayManager.NorthCentralUS,northcentralus
-23.100.231.72/32,IPv4,GatewayManager.NorthCentralUS,northcentralus
-23.100.231.96/32,IPv4,GatewayManager.NorthCentralUS,northcentralus
-40.80.184.72/29,IPv4,GatewayManager.NorthCentralUS,northcentralus
-52.162.106.168/29,IPv4,GatewayManager.NorthCentralUS,northcentralus
-2603:1030:608::40/122,IPv6,GatewayManager.NorthCentralUS,northcentralus

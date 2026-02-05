@@ -1,7 +1,0 @@
-ip_address,ip_type,service,region
-68.210.152.12/30,IPv4,ServiceFabric.AustriaEast,austriaeast
-68.210.192.8/30,IPv4,ServiceFabric.AustriaEast,austriaeast
-68.210.208.8/30,IPv4,ServiceFabric.AustriaEast,austriaeast
-2603:1020:104:403::10/125,IPv6,ServiceFabric.AustriaEast,austriaeast
-2603:1020:104:800::18/125,IPv6,ServiceFabric.AustriaEast,austriaeast
-2603:1020:104:c00::10/125,IPv6,ServiceFabric.AustriaEast,austriaeast

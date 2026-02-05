@@ -1,6 +1,0 @@
-ip_address,ip_type,service,region
-20.117.193.34/31,IPv4,ActionGroup.UKSouth,uksouth
-51.104.9.100/30,IPv4,ActionGroup.UKSouth,uksouth
-172.187.67.44/30,IPv4,ActionGroup.UKSouth,uksouth
-2603:1020:705:3::234/126,IPv6,ActionGroup.UKSouth,uksouth
-2603:1020:705:402::178/125,IPv6,ActionGroup.UKSouth,uksouth

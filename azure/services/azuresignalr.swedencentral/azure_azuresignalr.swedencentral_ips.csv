@@ -1,5 +1,0 @@
-ip_address,ip_type,service,region
-51.12.46.192/27,IPv4,AzureSignalR.SwedenCentral,swedencentral
-51.12.101.192/27,IPv4,AzureSignalR.SwedenCentral,swedencentral
-135.225.177.32/27,IPv4,AzureSignalR.SwedenCentral,swedencentral
-2603:1020:1004:2::600/120,IPv6,AzureSignalR.SwedenCentral,swedencentral

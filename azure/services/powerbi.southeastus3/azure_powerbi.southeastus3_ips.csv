@@ -1,6 +1,0 @@
-ip_address,ip_type,service,region
-74.7.52.54/31,IPv4,PowerBI.SoutheastUS3,southeastus3
-74.7.53.28/30,IPv4,PowerBI.SoutheastUS3,southeastus3
-74.7.53.64/29,IPv4,PowerBI.SoutheastUS3,southeastus3
-2603:1030:1302:2::1a0/123,IPv6,PowerBI.SoutheastUS3,southeastus3
-2603:1030:1302:2::300/122,IPv6,PowerBI.SoutheastUS3,southeastus3

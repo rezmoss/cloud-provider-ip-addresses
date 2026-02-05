@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-20.48.196.192/27,IPv4,AzureSignalR.CanadaCentral,canadacentral
-2603:1030:f05:2::500/120,IPv6,AzureSignalR.CanadaCentral,canadacentral

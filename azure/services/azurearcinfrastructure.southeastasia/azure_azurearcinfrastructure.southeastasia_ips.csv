@@ -1,9 +1,0 @@
-ip_address,ip_type,service,region
-4.145.72.0/29,IPv4,AzureArcInfrastructure.SoutheastAsia,southeastasia
-4.145.72.8/31,IPv4,AzureArcInfrastructure.SoutheastAsia,southeastasia
-13.67.15.1/32,IPv4,AzureArcInfrastructure.SoutheastAsia,southeastasia
-13.67.15.124/30,IPv4,AzureArcInfrastructure.SoutheastAsia,southeastasia
-23.98.86.58/31,IPv4,AzureArcInfrastructure.SoutheastAsia,southeastasia
-23.98.104.12/30,IPv4,AzureArcInfrastructure.SoutheastAsia,southeastasia
-23.98.108.32/30,IPv4,AzureArcInfrastructure.SoutheastAsia,southeastasia
-40.78.239.96/31,IPv4,AzureArcInfrastructure.SoutheastAsia,southeastasia

@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-68.210.160.192/26,IPv4,AzureCognitiveSearch.AustriaEast,austriaeast
-2603:1020:104:3::780/121,IPv6,AzureCognitiveSearch.AustriaEast,austriaeast

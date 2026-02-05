@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-134.138.82.8/30,IPv4,AzurePortal.EastUS3,eastus3
-134.138.82.160/27,IPv4,AzurePortal.EastUS3,eastus3
-2603:1030:1402:2::680/121,IPv6,AzurePortal.EastUS3,eastus3

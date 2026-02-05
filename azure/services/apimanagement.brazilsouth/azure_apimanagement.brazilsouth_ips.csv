@@ -1,7 +1,0 @@
-ip_address,ip_type,service,region
-74.163.143.250/31,IPv4,ApiManagement.BrazilSouth,brazilsouth
-191.233.24.179/32,IPv4,ApiManagement.BrazilSouth,brazilsouth
-191.233.203.28/31,IPv4,ApiManagement.BrazilSouth,brazilsouth
-191.233.203.240/28,IPv4,ApiManagement.BrazilSouth,brazilsouth
-191.238.73.14/31,IPv4,ApiManagement.BrazilSouth,brazilsouth
-2603:1050:6:402::140/124,IPv6,ApiManagement.BrazilSouth,brazilsouth

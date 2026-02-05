@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-4.232.24.16/30,IPv4,AzureBotService.ItalyNorth,italynorth
-2603:1020:1204::20/123,IPv6,AzureBotService.ItalyNorth,italynorth

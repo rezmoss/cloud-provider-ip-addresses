@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-68.221.84.192/26,IPv4,AzureBackup.SpainCentral,spaincentral
-2603:1020:1403::680/121,IPv6,AzureBackup.SpainCentral,spaincentral
-2603:1020:1403:400::80/121,IPv6,AzureBackup.SpainCentral,spaincentral

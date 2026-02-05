@@ -1,7 +1,0 @@
-ip_address,ip_type,service,region
-20.43.89.90/32,IPv4,AzureDataExplorerManagement.JapanEast,japaneast
-40.79.187.16/28,IPv4,AzureDataExplorerManagement.JapanEast,japaneast
-40.81.220.38/32,IPv4,AzureDataExplorerManagement.JapanEast,japaneast
-172.207.68.80/28,IPv4,AzureDataExplorerManagement.JapanEast,japaneast
-2603:1040:407::600/121,IPv6,AzureDataExplorerManagement.JapanEast,japaneast
-2603:1040:407:402::150/124,IPv6,AzureDataExplorerManagement.JapanEast,japaneast

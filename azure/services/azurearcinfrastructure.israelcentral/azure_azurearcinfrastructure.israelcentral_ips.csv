@@ -1,6 +1,0 @@
-ip_address,ip_type,service,region
-20.217.9.46/31,IPv4,AzureArcInfrastructure.IsraelCentral,israelcentral
-20.217.10.36/30,IPv4,AzureArcInfrastructure.IsraelCentral,israelcentral
-20.217.13.112/29,IPv4,AzureArcInfrastructure.IsraelCentral,israelcentral
-20.217.62.136/32,IPv4,AzureArcInfrastructure.IsraelCentral,israelcentral
-2603:1040:1402:3::2b0/124,IPv6,AzureArcInfrastructure.IsraelCentral,israelcentral

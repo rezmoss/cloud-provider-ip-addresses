@@ -1,6 +1,0 @@
-ip_address,ip_type,service,region
-20.45.195.160/27,IPv4,AzurePortal.CentralUSEUAP,centraluseuap
-20.45.197.192/27,IPv4,AzurePortal.CentralUSEUAP,centraluseuap
-20.45.197.228/30,IPv4,AzurePortal.CentralUSEUAP,centraluseuap
-20.46.10.40/29,IPv4,AzurePortal.CentralUSEUAP,centraluseuap
-2603:1030:f:1::700/121,IPv6,AzurePortal.CentralUSEUAP,centraluseuap

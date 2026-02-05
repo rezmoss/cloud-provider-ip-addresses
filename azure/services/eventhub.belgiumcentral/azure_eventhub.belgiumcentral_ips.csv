@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-9.160.45.0/24,IPv4,EventHub.BelgiumCentral,belgiumcentral
-9.160.80.128/26,IPv4,EventHub.BelgiumCentral,belgiumcentral
-2603:1020:1502:1::/120,IPv6,EventHub.BelgiumCentral,belgiumcentral

@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-70.153.154.64/26,IPv4,AzureCosmosDB.IndonesiaCentral,indonesiacentral
-2603:1040:1802::240/123,IPv6,AzureCosmosDB.IndonesiaCentral,indonesiacentral

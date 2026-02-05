@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-20.21.33.128/25,IPv4,AzureEventGrid.QatarCentral,qatarcentral
-2603:1040:1002::480/121,IPv6,AzureEventGrid.QatarCentral,qatarcentral

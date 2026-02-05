@@ -1,9 +1,0 @@
-ip_address,ip_type,service,region
-20.41.67.84/30,IPv4,AzureArcInfrastructure.KoreaCentral,koreacentral
-20.41.69.52/30,IPv4,AzureArcInfrastructure.KoreaCentral,koreacentral
-20.44.29.50/31,IPv4,AzureArcInfrastructure.KoreaCentral,koreacentral
-20.44.31.36/30,IPv4,AzureArcInfrastructure.KoreaCentral,koreacentral
-20.194.68.148/31,IPv4,AzureArcInfrastructure.KoreaCentral,koreacentral
-20.214.135.216/29,IPv4,AzureArcInfrastructure.KoreaCentral,koreacentral
-20.214.135.224/31,IPv4,AzureArcInfrastructure.KoreaCentral,koreacentral
-52.231.23.10/32,IPv4,AzureArcInfrastructure.KoreaCentral,koreacentral

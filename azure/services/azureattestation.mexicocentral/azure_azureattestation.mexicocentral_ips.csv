@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-158.23.100.152/30,IPv4,AzureAttestation.MexicoCentral,mexicocentral
-172.195.50.24/29,IPv4,AzureAttestation.MexicoCentral,mexicocentral
-2603:1030:702::5e0/124,IPv6,AzureAttestation.MexicoCentral,mexicocentral

@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-68.211.19.192/26,IPv4,GatewayManager.ChileCentral,chilec
-2603:1050:301::40/122,IPv6,GatewayManager.ChileCentral,chilec

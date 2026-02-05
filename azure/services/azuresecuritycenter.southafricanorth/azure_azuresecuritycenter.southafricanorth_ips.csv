@@ -1,7 +1,0 @@
-ip_address,ip_type,service,region
-4.253.63.64/26,IPv4,AzureSecurityCenter.SouthAfricaNorth,southafricanorth
-102.133.124.160/27,IPv4,AzureSecurityCenter.SouthAfricaNorth,southafricanorth
-172.209.168.0/22,IPv4,AzureSecurityCenter.SouthAfricaNorth,southafricanorth
-172.209.172.0/23,IPv4,AzureSecurityCenter.SouthAfricaNorth,southafricanorth
-172.209.174.0/24,IPv4,AzureSecurityCenter.SouthAfricaNorth,southafricanorth
-172.209.175.0/27,IPv4,AzureSecurityCenter.SouthAfricaNorth,southafricanorth

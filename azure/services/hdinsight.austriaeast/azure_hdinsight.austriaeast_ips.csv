@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-68.210.166.208/29,IPv4,HDInsight.AustriaEast,austriaeast
-2603:1020:104:5::d0/124,IPv6,HDInsight.AustriaEast,austriaeast

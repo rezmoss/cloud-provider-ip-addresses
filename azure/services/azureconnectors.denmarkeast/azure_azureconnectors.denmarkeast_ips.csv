@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-9.205.43.0/26,IPv4,AzureConnectors.DenmarkEast,denmarkeast
-2603:1020:1602:1::5c0/122,IPv6,AzureConnectors.DenmarkEast,denmarkeast

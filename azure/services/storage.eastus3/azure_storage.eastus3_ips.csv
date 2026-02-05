@@ -1,9 +1,0 @@
-ip_address,ip_type,service,region
-20.153.48.0/24,IPv4,Storage.EastUS3,eastus3
-20.153.58.0/24,IPv4,Storage.EastUS3,eastus3
-57.150.249.0/24,IPv4,Storage.EastUS3,eastus3
-135.130.0.0/23,IPv4,Storage.EastUS3,eastus3
-135.130.2.0/24,IPv4,Storage.EastUS3,eastus3
-135.130.219.0/24,IPv4,Storage.EastUS3,eastus3
-135.130.220.0/24,IPv4,Storage.EastUS3,eastus3
-2603:1030:1403::/48,IPv6,Storage.EastUS3,eastus3

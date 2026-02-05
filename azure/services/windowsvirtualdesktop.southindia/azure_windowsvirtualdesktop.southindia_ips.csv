@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-40.64.144.208/29,IPv4,WindowsVirtualDesktop.SouthIndia,southindia
-40.64.145.32/28,IPv4,WindowsVirtualDesktop.SouthIndia,southindia
-2603:1061:2010:15::/117,IPv6,WindowsVirtualDesktop.SouthIndia,southindia

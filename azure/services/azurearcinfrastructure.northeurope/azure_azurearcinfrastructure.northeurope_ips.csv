@@ -1,9 +1,0 @@
-ip_address,ip_type,service,region
-13.69.239.84/30,IPv4,AzureArcInfrastructure.NorthEurope,northeurope
-13.69.239.88/32,IPv4,AzureArcInfrastructure.NorthEurope,northeurope
-13.74.107.94/31,IPv4,AzureArcInfrastructure.NorthEurope,northeurope
-20.38.87.188/30,IPv4,AzureArcInfrastructure.NorthEurope,northeurope
-52.138.229.96/31,IPv4,AzureArcInfrastructure.NorthEurope,northeurope
-52.146.130.180/30,IPv4,AzureArcInfrastructure.NorthEurope,northeurope
-68.219.196.6/31,IPv4,AzureArcInfrastructure.NorthEurope,northeurope
-68.219.197.8/29,IPv4,AzureArcInfrastructure.NorthEurope,northeurope

@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-20.192.166.188/30,IPv4,AzureAttestation.JioIndiaWest,jioindiawest
-135.235.62.96/29,IPv4,AzureAttestation.JioIndiaWest,jioindiawest
-2603:1040:d04:1::720/123,IPv6,AzureAttestation.JioIndiaWest,jioindiawest

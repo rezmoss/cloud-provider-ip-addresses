@@ -1,5 +1,0 @@
-ip_address,ip_type,service,region
-4.232.13.98/32,IPv4,AzureConnectors.ItalyNorth,italynorth
-4.232.13.123/32,IPv4,AzureConnectors.ItalyNorth,italynorth
-4.232.98.192/26,IPv4,AzureConnectors.ItalyNorth,italynorth
-2603:1020:1204:1::6c0/122,IPv6,AzureConnectors.ItalyNorth,italynorth

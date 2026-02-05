@@ -1,5 +1,0 @@
-ip_address,ip_type,service,region
-68.155.80.0/32,IPv4,AzureConnectors.MexicoCentral,mexicocentral
-68.155.80.2/32,IPv4,AzureConnectors.MexicoCentral,mexicocentral
-158.23.108.64/26,IPv4,AzureConnectors.MexicoCentral,mexicocentral
-2603:1030:702:2::80/122,IPv6,AzureConnectors.MexicoCentral,mexicocentral

@@ -1,5 +1,0 @@
-ip_address,ip_type,service,region
-20.99.8.0/26,IPv4,GatewayManager.EastUSSTG,usstagee
-40.67.48.72/29,IPv4,GatewayManager.EastUSSTG,usstagee
-40.67.59.64/29,IPv4,GatewayManager.EastUSSTG,usstagee
-2603:1030:104:1::40/122,IPv6,GatewayManager.EastUSSTG,usstagee

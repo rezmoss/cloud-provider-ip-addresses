@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-51.120.219.80/28,IPv4,AzureMachineLearning.NorwayWest,norwayw
-51.120.227.80/28,IPv4,AzureMachineLearning.NorwayWest,norwayw
-2603:1020:f04::300/122,IPv6,AzureMachineLearning.NorwayWest,norwayw

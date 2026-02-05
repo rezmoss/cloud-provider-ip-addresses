@@ -1,8 +1,0 @@
-ip_address,ip_type,service,region
-57.151.223.64/27,IPv4,Sql.SoutheastUS,southeastus
-57.151.223.128/26,IPv4,Sql.SoutheastUS,southeastus
-57.151.228.192/27,IPv4,Sql.SoutheastUS,southeastus
-68.154.137.32/27,IPv4,Sql.SoutheastUS,southeastus
-68.154.137.64/29,IPv4,Sql.SoutheastUS,southeastus
-2603:1030:902:2::640/123,IPv6,Sql.SoutheastUS,southeastus
-2603:1030:902:2::780/121,IPv6,Sql.SoutheastUS,southeastus

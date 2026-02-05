@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-51.12.199.0/25,IPv4,AzureEventGrid.SwedenSouth,swedensouth
-2603:1020:1104::280/121,IPv6,AzureEventGrid.SwedenSouth,swedensouth

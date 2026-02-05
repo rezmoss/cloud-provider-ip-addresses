@@ -1,5 +1,0 @@
-ip_address,ip_type,service,region
-20.63.252.136/29,IPv4,AzureAttestation.JapanWest,japanwest
-20.189.225.84/30,IPv4,AzureAttestation.JapanWest,japanwest
-40.80.180.196/30,IPv4,AzureAttestation.JapanWest,japanwest
-2603:1040:606:3::e0/124,IPv6,AzureAttestation.JapanWest,japanwest

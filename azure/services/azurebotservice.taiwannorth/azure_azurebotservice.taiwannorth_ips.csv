@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-51.53.24.16/30,IPv4,AzureBotService.TaiwanNorth,taiwannorth
-2603:1040:1302::20/123,IPv6,AzureBotService.TaiwanNorth,taiwannorth

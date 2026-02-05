@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-4.232.100.224/27,IPv4,AzurePortal.ItalyNorth,italynorth
-2603:1020:1204:2::300/121,IPv6,AzurePortal.ItalyNorth,italynorth

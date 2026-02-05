@@ -1,8 +1,0 @@
-[
-  {
-    "ip_address": "168.62.115.112/28",
-    "ip_type": "IPv4",
-    "service": "Sql.NorthCentralUSStage",
-    "region": "northcentralus"
-  }
-]

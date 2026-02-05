@@ -1,7 +1,0 @@
-ip_address,ip_type,service,region
-102.133.0.79/32,IPv4,ApiManagement.SouthAfricaWest,southafricawest
-102.133.26.4/31,IPv4,ApiManagement.SouthAfricaWest,southafricawest
-102.133.28.0/28,IPv4,ApiManagement.SouthAfricaWest,southafricawest
-172.209.80.74/31,IPv4,ApiManagement.SouthAfricaWest,southafricawest
-172.209.83.192/28,IPv4,ApiManagement.SouthAfricaWest,southafricawest
-2603:1000:4:402::140/124,IPv6,ApiManagement.SouthAfricaWest,southafricawest

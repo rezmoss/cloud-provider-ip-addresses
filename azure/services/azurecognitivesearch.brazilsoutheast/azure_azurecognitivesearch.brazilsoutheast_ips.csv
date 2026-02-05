@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-191.233.9.0/26,IPv4,AzureCognitiveSearch.BrazilSoutheast,brazilse
-2603:1050:403::180/121,IPv6,AzureCognitiveSearch.BrazilSoutheast,brazilse

@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-20.49.83.244/30,IPv4,AzureAttestation.EastUSSTG,usstagee
-40.67.52.116/30,IPv4,AzureAttestation.EastUSSTG,usstagee
-2603:1030:104::7a0/124,IPv6,AzureAttestation.EastUSSTG,usstagee

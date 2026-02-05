@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-20.45.192.128/26,IPv4,AzureCognitiveSearch.CentralUSEUAP,centraluseuap
-2603:1030:f:1::180/121,IPv6,AzureCognitiveSearch.CentralUSEUAP,centraluseuap

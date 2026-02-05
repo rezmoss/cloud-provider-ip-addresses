@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-40.64.144.192/29,IPv4,WindowsVirtualDesktop.EastUS2,eastus2
-40.64.145.0/28,IPv4,WindowsVirtualDesktop.EastUS2,eastus2
-2603:1061:2010:a::/117,IPv6,WindowsVirtualDesktop.EastUS2,eastus2

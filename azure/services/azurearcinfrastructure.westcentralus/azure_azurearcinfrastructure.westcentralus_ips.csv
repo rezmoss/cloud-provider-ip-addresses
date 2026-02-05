@@ -1,8 +1,0 @@
-ip_address,ip_type,service,region
-13.71.199.117/32,IPv4,AzureArcInfrastructure.WestCentralUS,westcentralus
-40.67.122.108/30,IPv4,AzureArcInfrastructure.WestCentralUS,westcentralus
-40.67.122.112/32,IPv4,AzureArcInfrastructure.WestCentralUS,westcentralus
-40.67.122.120/29,IPv4,AzureArcInfrastructure.WestCentralUS,westcentralus
-52.150.152.204/30,IPv4,AzureArcInfrastructure.WestCentralUS,westcentralus
-52.150.156.36/30,IPv4,AzureArcInfrastructure.WestCentralUS,westcentralus
-172.215.202.52/32,IPv4,AzureArcInfrastructure.WestCentralUS,westcentralus

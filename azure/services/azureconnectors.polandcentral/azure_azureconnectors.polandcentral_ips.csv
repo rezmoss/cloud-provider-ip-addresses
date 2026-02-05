@@ -1,7 +1,0 @@
-ip_address,ip_type,service,region
-20.215.144.243/32,IPv4,AzureConnectors.PolandCentral,polandcentral
-20.215.144.251/32,IPv4,AzureConnectors.PolandCentral,polandcentral
-20.215.155.0/26,IPv4,AzureConnectors.PolandCentral,polandcentral
-20.215.169.128/26,IPv4,AzureConnectors.PolandCentral,polandcentral
-2603:1020:1302:2::600/122,IPv6,AzureConnectors.PolandCentral,polandcentral
-2603:1020:1302:400::c0/122,IPv6,AzureConnectors.PolandCentral,polandcentral

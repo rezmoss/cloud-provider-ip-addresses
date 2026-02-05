@@ -1,7 +1,0 @@
-ip_address,ip_type,service,region
-4.240.173.64/26,IPv4,AzureSecurityCenter.JioIndiaCentral,jioindiacentral
-4.240.174.0/23,IPv4,AzureSecurityCenter.JioIndiaCentral,jioindiacentral
-4.240.184.0/22,IPv4,AzureSecurityCenter.JioIndiaCentral,jioindiacentral
-4.240.188.0/24,IPv4,AzureSecurityCenter.JioIndiaCentral,jioindiacentral
-4.240.189.0/27,IPv4,AzureSecurityCenter.JioIndiaCentral,jioindiacentral
-20.192.238.224/27,IPv4,AzureSecurityCenter.JioIndiaCentral,jioindiacentral

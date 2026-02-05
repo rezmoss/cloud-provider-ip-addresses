@@ -1,5 +1,0 @@
-ip_address,ip_type,service,region
-52.147.98.64/26,IPv4,EventHub.KoreaSouth,koreasouth
-52.147.115.0/24,IPv4,EventHub.KoreaSouth,koreasouth
-52.231.146.32/27,IPv4,EventHub.KoreaSouth,koreasouth
-2603:1040:e05::500/120,IPv6,EventHub.KoreaSouth,koreasouth

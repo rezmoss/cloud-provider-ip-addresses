@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-40.64.147.160/30,IPv4,WindowsVirtualDesktop.EastUS2EUAP,eastus2euap
-2603:1061:2010:1d::/117,IPv6,WindowsVirtualDesktop.EastUS2EUAP,eastus2euap

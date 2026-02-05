@@ -1,7 +1,0 @@
-ip_address,ip_type,service,region
-20.17.130.0/29,IPv4,MicrosoftContainerRegistry.MalaysiaWest,malaysiawest
-20.17.168.0/29,IPv4,MicrosoftContainerRegistry.MalaysiaWest,malaysiawest
-20.17.184.0/29,IPv4,MicrosoftContainerRegistry.MalaysiaWest,malaysiawest
-2603:1040:1602:400::/125,IPv6,MicrosoftContainerRegistry.MalaysiaWest,malaysiawest
-2603:1040:1602:800::10/125,IPv6,MicrosoftContainerRegistry.MalaysiaWest,malaysiawest
-2603:1040:1602:c00::10/125,IPv6,MicrosoftContainerRegistry.MalaysiaWest,malaysiawest

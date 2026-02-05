@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-40.64.145.160/28,IPv4,WindowsVirtualDesktop.WestUS2,westus2
-2603:1061:2010:1c::/117,IPv6,WindowsVirtualDesktop.WestUS2,westus2

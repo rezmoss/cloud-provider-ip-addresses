@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-13.73.248.112/29,IPv4,StorageSyncService.SouthCentralUS,southcentralus
-2603:1030:807:1::300/123,IPv6,StorageSyncService.SouthCentralUS,southcentralus

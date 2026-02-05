@@ -1,7 +1,0 @@
-ip_address,ip_type,service,region
-57.158.34.96/27,IPv4,AzureSecurityCenter.EastAsia,eastasia
-57.158.34.128/26,IPv4,AzureSecurityCenter.EastAsia,eastasia
-57.158.35.0/24,IPv4,AzureSecurityCenter.EastAsia,eastasia
-57.158.36.0/22,IPv4,AzureSecurityCenter.EastAsia,eastasia
-57.158.40.0/23,IPv4,AzureSecurityCenter.EastAsia,eastasia
-104.214.164.64/27,IPv4,AzureSecurityCenter.EastAsia,eastasia

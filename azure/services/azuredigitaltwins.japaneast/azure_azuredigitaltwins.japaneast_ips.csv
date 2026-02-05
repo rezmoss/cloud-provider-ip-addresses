@@ -1,6 +1,0 @@
-ip_address,ip_type,service,region
-20.191.161.96/27,IPv4,AzureDigitalTwins.JapanEast,japaneast
-20.191.161.192/29,IPv4,AzureDigitalTwins.JapanEast,japaneast
-172.207.65.54/31,IPv4,AzureDigitalTwins.JapanEast,japaneast
-172.207.65.56/29,IPv4,AzureDigitalTwins.JapanEast,japaneast
-2603:1040:407:7::51c/126,IPv6,AzureDigitalTwins.JapanEast,japaneast

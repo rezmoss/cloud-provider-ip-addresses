@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-20.45.196.64/26,IPv4,AzureDevOps.CentralUSEUAP,centraluseuap
-2603:1030:f:e::380/122,IPv6,AzureDevOps.CentralUSEUAP,centraluseuap

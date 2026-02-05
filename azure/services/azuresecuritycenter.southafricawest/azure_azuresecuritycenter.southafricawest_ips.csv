@@ -1,7 +1,0 @@
-ip_address,ip_type,service,region
-102.37.64.64/27,IPv4,AzureSecurityCenter.SouthAfricaWest,southafricawest
-172.209.42.96/27,IPv4,AzureSecurityCenter.SouthAfricaWest,southafricawest
-172.209.43.0/24,IPv4,AzureSecurityCenter.SouthAfricaWest,southafricawest
-172.209.44.0/22,IPv4,AzureSecurityCenter.SouthAfricaWest,southafricawest
-172.209.48.0/23,IPv4,AzureSecurityCenter.SouthAfricaWest,southafricawest
-172.209.50.0/26,IPv4,AzureSecurityCenter.SouthAfricaWest,southafricawest

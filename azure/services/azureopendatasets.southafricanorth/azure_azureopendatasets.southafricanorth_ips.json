@@ -1,8 +1,0 @@
-[
-  {
-    "ip_address": "102.133.216.112/28",
-    "ip_type": "IPv4",
-    "service": "AzureOpenDatasets.SouthAfricaNorth",
-    "region": "southafricanorth"
-  }
-]

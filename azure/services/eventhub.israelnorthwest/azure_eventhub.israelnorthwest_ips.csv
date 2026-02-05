@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-20.217.253.0/24,IPv4,EventHub.IsraelNorthwest,israelnorthwest
-51.4.160.128/26,IPv4,EventHub.IsraelNorthwest,israelnorthwest
-2603:1040:1702:1::/120,IPv6,EventHub.IsraelNorthwest,israelnorthwest

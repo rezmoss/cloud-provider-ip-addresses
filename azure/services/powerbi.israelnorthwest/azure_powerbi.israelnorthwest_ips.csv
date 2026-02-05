@@ -1,9 +1,0 @@
-ip_address,ip_type,service,region
-51.4.131.240/31,IPv4,PowerBI.IsraelNorthwest,israelnorthwest
-51.4.131.244/30,IPv4,PowerBI.IsraelNorthwest,israelnorthwest
-51.4.131.248/29,IPv4,PowerBI.IsraelNorthwest,israelnorthwest
-51.4.139.80/28,IPv4,PowerBI.IsraelNorthwest,israelnorthwest
-51.4.139.96/28,IPv4,PowerBI.IsraelNorthwest,israelnorthwest
-51.4.148.64/27,IPv4,PowerBI.IsraelNorthwest,israelnorthwest
-2603:1040:1702:2::1a0/123,IPv6,PowerBI.IsraelNorthwest,israelnorthwest
-2603:1040:1702:2::300/122,IPv6,PowerBI.IsraelNorthwest,israelnorthwest

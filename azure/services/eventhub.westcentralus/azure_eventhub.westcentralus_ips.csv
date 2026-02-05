@@ -1,9 +1,0 @@
-ip_address,ip_type,service,region
-13.71.194.64/27,IPv4,EventHub.WestCentralUS,westcentralus
-20.69.3.0/24,IPv4,EventHub.WestCentralUS,westcentralus
-40.67.123.0/24,IPv4,EventHub.WestCentralUS,westcentralus
-57.151.152.128/26,IPv4,EventHub.WestCentralUS,westcentralus
-172.215.202.128/26,IPv4,EventHub.WestCentralUS,westcentralus
-2603:1030:b04::240/122,IPv6,EventHub.WestCentralUS,westcentralus
-2603:1030:b04:1::600/120,IPv6,EventHub.WestCentralUS,westcentralus
-2603:1030:b04:402::1c0/123,IPv6,EventHub.WestCentralUS,westcentralus

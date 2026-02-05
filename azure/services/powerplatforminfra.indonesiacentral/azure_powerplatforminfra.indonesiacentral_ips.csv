@@ -1,8 +1,0 @@
-ip_address,ip_type,service,region
-70.153.65.180/30,IPv4,PowerPlatformInfra.IndonesiaCentral,indonesiacentral
-70.153.65.184/29,IPv4,PowerPlatformInfra.IndonesiaCentral,indonesiacentral
-70.153.65.224/28,IPv4,PowerPlatformInfra.IndonesiaCentral,indonesiacentral
-70.153.65.240/31,IPv4,PowerPlatformInfra.IndonesiaCentral,indonesiacentral
-70.153.66.64/26,IPv4,PowerPlatformInfra.IndonesiaCentral,indonesiacentral
-70.153.66.128/26,IPv4,PowerPlatformInfra.IndonesiaCentral,indonesiacentral
-2603:1061:2002:b800::/57,IPv6,PowerPlatformInfra.IndonesiaCentral,indonesiacentral

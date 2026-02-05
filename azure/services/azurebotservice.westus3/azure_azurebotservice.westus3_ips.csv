@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-20.150.160.120/30,IPv4,AzureBotService.WestUS3,westus3
-2603:1030:504:1::20/123,IPv6,AzureBotService.WestUS3,westus3

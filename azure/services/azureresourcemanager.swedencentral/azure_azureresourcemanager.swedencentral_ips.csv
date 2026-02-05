@@ -1,5 +1,0 @@
-ip_address,ip_type,service,region
-51.12.44.0/23,IPv4,AzureResourceManager.SwedenCentral,swedencentral
-51.12.101.64/26,IPv4,AzureResourceManager.SwedenCentral,swedencentral
-2603:1020:1004:1::400/120,IPv6,AzureResourceManager.SwedenCentral,swedencentral
-2603:1020:1004:400::180/122,IPv6,AzureResourceManager.SwedenCentral,swedencentral

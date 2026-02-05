@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-68.221.42.0/26,IPv4,AzureCosmosDB.SpainCentral,spaincentral
-68.221.82.64/27,IPv4,AzureCosmosDB.SpainCentral,spaincentral
-2603:1020:1403::1e0/123,IPv6,AzureCosmosDB.SpainCentral,spaincentral

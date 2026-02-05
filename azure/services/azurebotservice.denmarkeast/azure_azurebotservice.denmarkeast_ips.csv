@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-9.205.32.16/30,IPv4,AzureBotService.DenmarkEast,denmarkeast
-2603:1020:1602::20/123,IPv6,AzureBotService.DenmarkEast,denmarkeast

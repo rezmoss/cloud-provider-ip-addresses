@@ -1,5 +1,0 @@
-ip_address,ip_type,service,region
-20.215.74.56/30,IPv4,ActionGroup.PolandCentral,polandcentral
-20.215.154.88/30,IPv4,ActionGroup.PolandCentral,polandcentral
-2603:1020:1302:2::5a0/126,IPv6,ActionGroup.PolandCentral,polandcentral
-2603:1020:1302:400::180/125,IPv6,ActionGroup.PolandCentral,polandcentral

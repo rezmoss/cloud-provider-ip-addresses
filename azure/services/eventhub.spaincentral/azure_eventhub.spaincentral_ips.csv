@@ -1,6 +1,0 @@
-ip_address,ip_type,service,region
-68.221.86.0/24,IPv4,EventHub.SpainCentral,spaincentral
-68.221.99.64/26,IPv4,EventHub.SpainCentral,spaincentral
-68.221.147.64/26,IPv4,EventHub.SpainCentral,spaincentral
-68.221.154.192/26,IPv4,EventHub.SpainCentral,spaincentral
-2603:1020:1403:1::/120,IPv6,EventHub.SpainCentral,spaincentral

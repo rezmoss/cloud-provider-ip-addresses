@@ -1,8 +1,0 @@
-ip_address,ip_type,service,region
-51.53.182.32/27,IPv4,Sql.TaiwanNorthwest,taiwannorthwest
-51.53.182.64/26,IPv4,Sql.TaiwanNorthwest,taiwannorthwest
-51.53.184.64/27,IPv4,Sql.TaiwanNorthwest,taiwannorthwest
-51.53.185.64/27,IPv4,Sql.TaiwanNorthwest,taiwannorthwest
-51.53.187.248/29,IPv4,Sql.TaiwanNorthwest,taiwannorthwest
-2603:1040:1202:2::220/123,IPv6,Sql.TaiwanNorthwest,taiwannorthwest
-2603:1040:1202:2::280/121,IPv6,Sql.TaiwanNorthwest,taiwannorthwest

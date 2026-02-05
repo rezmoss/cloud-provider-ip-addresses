@@ -1,6 +1,0 @@
-ip_address,ip_type,service,region
-51.53.136.60/31,IPv4,AzureArcInfrastructure.TaiwanNorthwest,taiwannorthwest
-51.53.139.72/29,IPv4,AzureArcInfrastructure.TaiwanNorthwest,taiwannorthwest
-51.53.182.200/30,IPv4,AzureArcInfrastructure.TaiwanNorthwest,taiwannorthwest
-51.53.191.138/32,IPv4,AzureArcInfrastructure.TaiwanNorthwest,taiwannorthwest
-2603:1040:1202:2::680/124,IPv6,AzureArcInfrastructure.TaiwanNorthwest,taiwannorthwest

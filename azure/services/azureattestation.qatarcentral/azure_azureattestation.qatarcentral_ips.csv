@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-20.21.32.44/30,IPv4,AzureAttestation.QatarCentral,qatarcentral
-2603:1040:1002:1::80/124,IPv6,AzureAttestation.QatarCentral,qatarcentral

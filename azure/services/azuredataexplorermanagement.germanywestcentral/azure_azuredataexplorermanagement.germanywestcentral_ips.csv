@@ -1,6 +1,0 @@
-ip_address,ip_type,service,region
-4.182.43.64/28,IPv4,AzureDataExplorerManagement.GermanyWestCentral,germanywc
-51.116.98.150/32,IPv4,AzureDataExplorerManagement.GermanyWestCentral,germanywc
-51.116.155.224/28,IPv4,AzureDataExplorerManagement.GermanyWestCentral,germanywc
-2603:1020:c04::600/121,IPv6,AzureDataExplorerManagement.GermanyWestCentral,germanywc
-2603:1020:c04:402::150/124,IPv6,AzureDataExplorerManagement.GermanyWestCentral,germanywc

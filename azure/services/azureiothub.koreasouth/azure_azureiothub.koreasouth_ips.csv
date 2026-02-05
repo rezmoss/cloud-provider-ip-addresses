@@ -1,6 +1,0 @@
-ip_address,ip_type,service,region
-40.80.172.64/27,IPv4,AzureIoTHub.KoreaSouth,koreasouth
-40.80.172.128/25,IPv4,AzureIoTHub.KoreaSouth,koreasouth
-52.231.148.128/27,IPv4,AzureIoTHub.KoreaSouth,koreasouth
-52.231.205.15/32,IPv4,AzureIoTHub.KoreaSouth,koreasouth
-2603:1040:e05:402::1c0/123,IPv6,AzureIoTHub.KoreaSouth,koreasouth

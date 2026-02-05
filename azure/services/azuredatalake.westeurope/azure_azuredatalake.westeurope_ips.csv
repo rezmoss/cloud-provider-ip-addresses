@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-40.90.141.167/32,IPv4,AzureDataLake.WestEurope,westeurope
-40.90.145.192/27,IPv4,AzureDataLake.WestEurope,westeurope
-104.44.90.194/31,IPv4,AzureDataLake.WestEurope,westeurope

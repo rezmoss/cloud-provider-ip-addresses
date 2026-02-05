@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-70.153.152.64/26,IPv4,GatewayManager.IndonesiaCentral,indonesiacentral
-2603:1040:1802:2::700/122,IPv6,GatewayManager.IndonesiaCentral,indonesiacentral

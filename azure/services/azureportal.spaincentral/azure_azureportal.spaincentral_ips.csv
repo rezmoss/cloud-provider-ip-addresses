@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-68.221.40.32/27,IPv4,AzurePortal.SpainCentral,spaincentral
-68.221.93.140/30,IPv4,AzurePortal.SpainCentral,spaincentral
-2603:1020:1403:2::300/121,IPv6,AzurePortal.SpainCentral,spaincentral

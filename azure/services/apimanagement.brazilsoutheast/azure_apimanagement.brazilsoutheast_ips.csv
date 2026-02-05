@@ -1,5 +1,0 @@
-ip_address,ip_type,service,region
-108.140.88.128/28,IPv4,ApiManagement.BrazilSoutheast,brazilse
-191.232.18.181/32,IPv4,ApiManagement.BrazilSoutheast,brazilse
-191.233.50.192/28,IPv4,ApiManagement.BrazilSoutheast,brazilse
-2603:1050:403:400::2a0/124,IPv6,ApiManagement.BrazilSoutheast,brazilse

@@ -1,6 +1,0 @@
-ip_address,ip_type,service,region
-51.120.41.160/27,IPv4,AzurePortal.NorwayEast,norwaye
-51.120.42.60/30,IPv4,AzurePortal.NorwayEast,norwaye
-51.120.232.16/29,IPv4,AzurePortal.NorwayEast,norwaye
-2603:1020:e04::100/121,IPv6,AzurePortal.NorwayEast,norwaye
-2603:1020:e04:1::680/121,IPv6,AzurePortal.NorwayEast,norwaye

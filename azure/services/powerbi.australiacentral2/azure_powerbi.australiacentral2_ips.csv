@@ -1,6 +1,0 @@
-ip_address,ip_type,service,region
-20.36.120.122/31,IPv4,PowerBI.AustraliaCentral2,australiacentral2
-20.36.120.124/30,IPv4,PowerBI.AustraliaCentral2,australiacentral2
-20.36.120.208/29,IPv4,PowerBI.AustraliaCentral2,australiacentral2
-2603:1010:404::620/123,IPv6,PowerBI.AustraliaCentral2,australiacentral2
-2603:1010:404::640/122,IPv6,PowerBI.AustraliaCentral2,australiacentral2

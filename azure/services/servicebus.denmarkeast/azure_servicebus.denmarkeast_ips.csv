@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-9.205.38.0/25,IPv4,ServiceBus.DenmarkEast,denmarkeast
-2603:1020:1602::780/121,IPv6,ServiceBus.DenmarkEast,denmarkeast

@@ -1,7 +1,0 @@
-ip_address,ip_type,service,region
-51.120.46.0/23,IPv4,AzureResourceManager.NorwayEast,norwaye
-51.120.100.32/28,IPv4,AzureResourceManager.NorwayEast,norwaye
-51.120.102.0/23,IPv4,AzureResourceManager.NorwayEast,norwaye
-2603:1020:e04::180/122,IPv6,AzureResourceManager.NorwayEast,norwaye
-2603:1020:e04:3::300/120,IPv6,AzureResourceManager.NorwayEast,norwaye
-2603:1020:e04:402::280/122,IPv6,AzureResourceManager.NorwayEast,norwaye

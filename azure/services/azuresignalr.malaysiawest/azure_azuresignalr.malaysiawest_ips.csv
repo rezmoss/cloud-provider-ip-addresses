@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-20.17.88.0/26,IPv4,AzureSignalR.MalaysiaWest,malaysiawest
-2603:1040:1602:3::5c0/122,IPv6,AzureSignalR.MalaysiaWest,malaysiawest

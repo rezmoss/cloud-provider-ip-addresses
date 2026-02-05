@@ -1,7 +1,0 @@
-ip_address,ip_type,service,region
-13.71.170.44/31,IPv4,ApiManagement.CanadaCentral,canadacentral
-13.71.172.144/28,IPv4,ApiManagement.CanadaCentral,canadacentral
-20.48.201.76/31,IPv4,ApiManagement.CanadaCentral,canadacentral
-52.139.20.34/32,IPv4,ApiManagement.CanadaCentral,canadacentral
-130.107.71.152/31,IPv4,ApiManagement.CanadaCentral,canadacentral
-2603:1030:f05:402::140/124,IPv6,ApiManagement.CanadaCentral,canadacentral

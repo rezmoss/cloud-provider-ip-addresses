@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-68.210.164.0/26,IPv4,AzureBackup.AustriaEast,austriaeast
-68.210.179.48/28,IPv4,AzureBackup.AustriaEast,austriaeast
-2603:1020:104:4::480/121,IPv6,AzureBackup.AustriaEast,austriaeast

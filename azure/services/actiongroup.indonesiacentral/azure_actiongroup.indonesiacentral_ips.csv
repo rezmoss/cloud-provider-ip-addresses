@@ -1,5 +1,0 @@
-ip_address,ip_type,service,region
-48.193.50.96/30,IPv4,ActionGroup.IndonesiaCentral,indonesiacentral
-70.153.176.24/30,IPv4,ActionGroup.IndonesiaCentral,indonesiacentral
-2603:1040:1802:5::5a0/125,IPv6,ActionGroup.IndonesiaCentral,indonesiacentral
-2603:1040:1802:400::40/125,IPv6,ActionGroup.IndonesiaCentral,indonesiacentral

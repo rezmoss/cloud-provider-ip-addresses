@@ -1,5 +1,0 @@
-ip_address,ip_type,service,region
-20.36.121.128/27,IPv4,AzurePortal.AustraliaCentral2,australiacentral2
-20.36.122.56/30,IPv4,AzurePortal.AustraliaCentral2,australiacentral2
-20.36.125.104/29,IPv4,AzurePortal.AustraliaCentral2,australiacentral2
-2603:1010:404::700/121,IPv6,AzurePortal.AustraliaCentral2,australiacentral2

@@ -1,9 +1,0 @@
-ip_address,ip_type,service,region
-13.89.171.64/28,IPv4,AzureMachineLearning.CentralUS,centralus
-20.37.152.240/28,IPv4,AzureMachineLearning.CentralUS,centralus
-20.40.231.32/28,IPv4,AzureMachineLearning.CentralUS,centralus
-52.182.139.32/28,IPv4,AzureMachineLearning.CentralUS,centralus
-52.185.70.56/32,IPv4,AzureMachineLearning.CentralUS,centralus
-52.242.224.215/32,IPv4,AzureMachineLearning.CentralUS,centralus
-104.208.16.160/28,IPv4,AzureMachineLearning.CentralUS,centralus
-2603:1030:10:1::2c0/122,IPv6,AzureMachineLearning.CentralUS,centralus

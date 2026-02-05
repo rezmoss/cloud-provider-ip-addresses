@@ -1,5 +1,0 @@
-ip_address,ip_type,service,region
-51.12.194.32/27,IPv4,AzureIoTHub.SwedenSouth,swedensouth
-51.12.194.128/25,IPv4,AzureIoTHub.SwedenSouth,swedensouth
-51.12.204.64/27,IPv4,AzureIoTHub.SwedenSouth,swedensouth
-2603:1020:1104:400::300/123,IPv6,AzureIoTHub.SwedenSouth,swedensouth

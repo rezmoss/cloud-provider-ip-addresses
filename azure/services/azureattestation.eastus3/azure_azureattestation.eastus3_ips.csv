@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-134.138.64.20/30,IPv4,AzureAttestation.EastUS3,eastus3
-2603:1030:1402::760/124,IPv6,AzureAttestation.EastUS3,eastus3

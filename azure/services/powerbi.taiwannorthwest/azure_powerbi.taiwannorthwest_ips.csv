@@ -1,7 +1,0 @@
-ip_address,ip_type,service,region
-51.53.172.212/31,IPv4,PowerBI.TaiwanNorthwest,taiwannorthwest
-51.53.172.216/30,IPv4,PowerBI.TaiwanNorthwest,taiwannorthwest
-51.53.174.144/29,IPv4,PowerBI.TaiwanNorthwest,taiwannorthwest
-167.105.182.160/27,IPv4,PowerBI.TaiwanNorthwest,taiwannorthwest
-2603:1040:1202:1::1e0/123,IPv6,PowerBI.TaiwanNorthwest,taiwannorthwest
-2603:1040:1202:1::380/122,IPv6,PowerBI.TaiwanNorthwest,taiwannorthwest

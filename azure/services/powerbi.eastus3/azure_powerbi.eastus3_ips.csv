@@ -1,6 +1,0 @@
-ip_address,ip_type,service,region
-134.138.76.126/31,IPv4,PowerBI.EastUS3,eastus3
-134.138.79.84/30,IPv4,PowerBI.EastUS3,eastus3
-134.138.82.0/29,IPv4,PowerBI.EastUS3,eastus3
-2603:1030:1402:2::3e0/123,IPv6,PowerBI.EastUS3,eastus3
-2603:1030:1402:2::440/122,IPv6,PowerBI.EastUS3,eastus3

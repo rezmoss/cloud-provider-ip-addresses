@@ -1,7 +1,0 @@
-ip_address,ip_type,service,region
-20.41.69.32/29,IPv4,HDInsight.KoreaCentral,koreacentral
-20.44.26.240/29,IPv4,HDInsight.KoreaCentral,koreacentral
-52.231.36.209/32,IPv4,HDInsight.KoreaCentral,koreacentral
-52.231.39.142/32,IPv4,HDInsight.KoreaCentral,koreacentral
-2603:1040:f05::790/124,IPv6,HDInsight.KoreaCentral,koreacentral
-2603:1040:f05:402::320/124,IPv6,HDInsight.KoreaCentral,koreacentral

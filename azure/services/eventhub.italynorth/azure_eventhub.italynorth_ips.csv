@@ -1,6 +1,0 @@
-ip_address,ip_type,service,region
-4.232.29.0/24,IPv4,EventHub.ItalyNorth,italynorth
-4.232.107.64/26,IPv4,EventHub.ItalyNorth,italynorth
-4.232.123.64/26,IPv4,EventHub.ItalyNorth,italynorth
-4.232.195.64/26,IPv4,EventHub.ItalyNorth,italynorth
-2603:1020:1204:1::/120,IPv6,EventHub.ItalyNorth,italynorth

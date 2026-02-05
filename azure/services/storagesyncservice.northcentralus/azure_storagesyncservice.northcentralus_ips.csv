@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-40.80.188.24/29,IPv4,StorageSyncService.NorthCentralUS,northcentralus
-2603:1030:608::340/123,IPv6,StorageSyncService.NorthCentralUS,northcentralus
-2603:1030:608:402::5e0/123,IPv6,StorageSyncService.NorthCentralUS,northcentralus

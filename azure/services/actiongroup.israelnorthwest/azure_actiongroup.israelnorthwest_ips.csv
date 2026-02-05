@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-51.4.160.24/30,IPv4,ActionGroup.IsraelNorthwest,israelnorthwest
-2603:1040:1702:400::40/125,IPv6,ActionGroup.IsraelNorthwest,israelnorthwest

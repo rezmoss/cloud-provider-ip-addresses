@@ -1,7 +1,0 @@
-ip_address,ip_type,service,region
-4.235.60.160/27,IPv4,AzureSecurityCenter.NorwayEast,norwaye
-4.235.60.192/26,IPv4,AzureSecurityCenter.NorwayEast,norwaye
-4.235.61.0/24,IPv4,AzureSecurityCenter.NorwayEast,norwaye
-4.235.62.0/23,IPv4,AzureSecurityCenter.NorwayEast,norwaye
-51.120.109.64/27,IPv4,AzureSecurityCenter.NorwayEast,norwaye
-131.163.8.0/22,IPv4,AzureSecurityCenter.NorwayEast,norwaye

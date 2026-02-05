@@ -1,6 +1,0 @@
-ip_address,ip_type,service,region
-68.210.152.128/26,IPv4,EventHub.AustriaEast,austriaeast
-68.210.165.0/24,IPv4,EventHub.AustriaEast,austriaeast
-68.210.192.128/26,IPv4,EventHub.AustriaEast,austriaeast
-68.210.208.128/26,IPv4,EventHub.AustriaEast,austriaeast
-2603:1020:104:4::600/120,IPv6,EventHub.AustriaEast,austriaeast

@@ -1,5 +1,0 @@
-ip_address,ip_type,service,region
-20.41.192.72/29,IPv4,GatewayManager.SouthIndia,southindia
-20.192.153.224/27,IPv4,GatewayManager.SouthIndia,southindia
-40.78.194.88/29,IPv4,GatewayManager.SouthIndia,southindia
-2603:1040:c06::40/122,IPv6,GatewayManager.SouthIndia,southindia

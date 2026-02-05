@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-52.139.106.96/27,IPv4,AzureDigitalTwins.CanadaEast,canadaeast
-2603:1030:1005:3::200/121,IPv6,AzureDigitalTwins.CanadaEast,canadaeast

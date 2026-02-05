@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-9.205.32.20/30,IPv4,AzureAttestation.DenmarkEast,denmarkeast
-2603:1020:1602::540/124,IPv6,AzureAttestation.DenmarkEast,denmarkeast

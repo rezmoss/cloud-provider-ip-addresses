@@ -1,7 +1,0 @@
-ip_address,ip_type,service,region
-20.192.84.224/27,IPv4,GatewayManager.WestIndia,westindia
-40.81.94.172/32,IPv4,GatewayManager.WestIndia,westindia
-40.81.94.182/32,IPv4,GatewayManager.WestIndia,westindia
-52.136.48.72/29,IPv4,GatewayManager.WestIndia,westindia
-104.211.146.88/29,IPv4,GatewayManager.WestIndia,westindia
-2603:1040:806::40/122,IPv6,GatewayManager.WestIndia,westindia

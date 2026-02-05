@@ -1,6 +1,0 @@
-ip_address,ip_type,service,region
-40.80.174.0/23,IPv4,AzureResourceManager.KoreaSouth,koreasouth
-52.147.96.0/24,IPv4,AzureResourceManager.KoreaSouth,koreasouth
-52.231.148.64/28,IPv4,AzureResourceManager.KoreaSouth,koreasouth
-52.231.150.0/24,IPv4,AzureResourceManager.KoreaSouth,koreasouth
-2603:1040:e05:5::500/120,IPv6,AzureResourceManager.KoreaSouth,koreasouth

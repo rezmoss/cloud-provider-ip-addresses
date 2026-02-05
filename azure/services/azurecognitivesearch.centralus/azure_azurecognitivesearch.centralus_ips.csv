@@ -1,6 +1,0 @@
-ip_address,ip_type,service,region
-13.86.5.51/32,IPv4,AzureCognitiveSearch.CentralUS,centralus
-20.37.156.128/26,IPv4,AzureCognitiveSearch.CentralUS,centralus
-52.158.208.11/32,IPv4,AzureCognitiveSearch.CentralUS,centralus
-52.242.214.45/32,IPv4,AzureCognitiveSearch.CentralUS,centralus
-2603:1030:10:1::180/121,IPv6,AzureCognitiveSearch.CentralUS,centralus

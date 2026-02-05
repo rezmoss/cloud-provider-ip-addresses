@@ -1,2 +1,0 @@
-ip_address,ip_type,service,region
-2603:1010:404:2::100/120,IPv6,AzureSignalR.AustraliaCentral2,australiacentral2

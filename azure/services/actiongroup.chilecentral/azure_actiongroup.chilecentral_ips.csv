@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-68.211.152.24/30,IPv4,ActionGroup.ChileCentral,chilec
-2603:1050:301:400::40/125,IPv6,ActionGroup.ChileCentral,chilec

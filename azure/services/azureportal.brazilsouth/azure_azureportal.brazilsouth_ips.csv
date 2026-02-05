@@ -1,7 +1,0 @@
-ip_address,ip_type,service,region
-191.234.136.0/27,IPv4,AzurePortal.BrazilSouth,brazilsouth
-191.234.136.48/30,IPv4,AzurePortal.BrazilSouth,brazilsouth
-191.234.139.144/29,IPv4,AzurePortal.BrazilSouth,brazilsouth
-191.235.227.160/27,IPv4,AzurePortal.BrazilSouth,brazilsouth
-2603:1050:6::100/121,IPv6,AzurePortal.BrazilSouth,brazilsouth
-2603:1050:6:1::680/121,IPv6,AzurePortal.BrazilSouth,brazilsouth

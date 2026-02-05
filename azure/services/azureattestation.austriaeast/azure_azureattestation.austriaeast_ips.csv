@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-68.210.160.20/30,IPv4,AzureAttestation.AustriaEast,austriaeast
-2603:1020:104:4::420/124,IPv6,AzureAttestation.AustriaEast,austriaeast

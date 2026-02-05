@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-20.44.3.240/28,IPv4,AzureResourceManager.SouthCentralUSSTG,usstagec
-20.44.6.0/23,IPv4,AzureResourceManager.SouthCentralUSSTG,usstagec
-20.45.118.0/23,IPv4,AzureResourceManager.SouthCentralUSSTG,usstagec

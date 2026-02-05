@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-51.140.215.160/29,IPv4,SCCservice.UKWest,ukwest
-172.186.27.0/27,IPv4,SCCservice.UKWest,ukwest
-2603:1020:605:9::640/123,IPv6,SCCservice.UKWest,ukwest

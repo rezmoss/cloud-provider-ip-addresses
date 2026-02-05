@@ -1,8 +1,0 @@
-ip_address,ip_type,service,region
-20.17.8.192/32,IPv4,AzureCosmosDB.MalaysiaSouth,malaysiasouth
-20.17.8.210/32,IPv4,AzureCosmosDB.MalaysiaSouth,malaysiasouth
-20.17.24.64/26,IPv4,AzureCosmosDB.MalaysiaSouth,malaysiasouth
-20.17.51.0/27,IPv4,AzureCosmosDB.MalaysiaSouth,malaysiasouth
-20.17.66.0/26,IPv4,AzureCosmosDB.MalaysiaSouth,malaysiasouth
-2603:1040:1503::1e0/123,IPv6,AzureCosmosDB.MalaysiaSouth,malaysiasouth
-2603:1040:1503:400::/122,IPv6,AzureCosmosDB.MalaysiaSouth,malaysiasouth

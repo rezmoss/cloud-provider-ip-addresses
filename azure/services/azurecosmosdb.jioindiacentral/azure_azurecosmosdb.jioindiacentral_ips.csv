@@ -1,8 +1,0 @@
-ip_address,ip_type,service,region
-20.192.231.0/27,IPv4,AzureCosmosDB.JioIndiaCentral,jioindiacentral
-20.192.234.64/26,IPv4,AzureCosmosDB.JioIndiaCentral,jioindiacentral
-20.207.6.0/26,IPv4,AzureCosmosDB.JioIndiaCentral,jioindiacentral
-20.207.6.192/26,IPv4,AzureCosmosDB.JioIndiaCentral,jioindiacentral
-20.207.7.128/25,IPv4,AzureCosmosDB.JioIndiaCentral,jioindiacentral
-2603:1040:1104::520/123,IPv6,AzureCosmosDB.JioIndiaCentral,jioindiacentral
-2603:1040:1104:400::c0/122,IPv6,AzureCosmosDB.JioIndiaCentral,jioindiacentral

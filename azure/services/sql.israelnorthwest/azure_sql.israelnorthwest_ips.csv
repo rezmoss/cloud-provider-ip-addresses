@@ -1,7 +1,0 @@
-ip_address,ip_type,service,region
-51.4.136.96/27,IPv4,Sql.IsraelNorthwest,israelnorthwest
-51.4.136.128/26,IPv4,Sql.IsraelNorthwest,israelnorthwest
-51.4.162.136/29,IPv4,Sql.IsraelNorthwest,israelnorthwest
-51.4.162.160/27,IPv4,Sql.IsraelNorthwest,israelnorthwest
-2603:1040:1702:2::620/123,IPv6,Sql.IsraelNorthwest,israelnorthwest
-2603:1040:1702:2::680/121,IPv6,Sql.IsraelNorthwest,israelnorthwest

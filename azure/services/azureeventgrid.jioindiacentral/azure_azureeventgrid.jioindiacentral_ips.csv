@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-20.192.228.0/25,IPv4,AzureEventGrid.JioIndiaCentral,jioindiacentral
-2603:1040:1104::280/121,IPv6,AzureEventGrid.JioIndiaCentral,jioindiacentral

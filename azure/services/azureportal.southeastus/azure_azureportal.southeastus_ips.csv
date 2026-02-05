@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-57.151.221.224/27,IPv4,AzurePortal.SoutheastUS,southeastus
-57.151.228.84/30,IPv4,AzurePortal.SoutheastUS,southeastus
-2603:1030:902:2::580/121,IPv6,AzurePortal.SoutheastUS,southeastus

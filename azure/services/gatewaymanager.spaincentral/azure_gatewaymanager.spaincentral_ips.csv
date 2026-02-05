@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-68.221.80.64/26,IPv4,GatewayManager.SpainCentral,spaincentral
-2603:1020:1403::40/122,IPv6,GatewayManager.SpainCentral,spaincentral

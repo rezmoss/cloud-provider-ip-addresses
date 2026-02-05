@@ -1,8 +1,0 @@
-ip_address,ip_type,service,region
-20.49.82.32/27,IPv4,AppService.EastUSSTG,usstagee
-20.99.14.0/24,IPv4,AppService.EastUSSTG,usstagee
-20.99.24.128/25,IPv4,AppService.EastUSSTG,usstagee
-40.67.58.192/27,IPv4,AppService.EastUSSTG,usstagee
-2603:1030:104:2::100/120,IPv6,AppService.EastUSSTG,usstagee
-2603:1030:104:2::600/120,IPv6,AppService.EastUSSTG,usstagee
-2603:1030:104:402::a0/123,IPv6,AppService.EastUSSTG,usstagee

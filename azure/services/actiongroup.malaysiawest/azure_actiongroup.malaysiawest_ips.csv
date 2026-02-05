@@ -1,5 +1,0 @@
-ip_address,ip_type,service,region
-20.17.124.64/30,IPv4,ActionGroup.MalaysiaWest,malaysiawest
-20.17.130.24/30,IPv4,ActionGroup.MalaysiaWest,malaysiawest
-2603:1040:1602:1::2e8/126,IPv6,ActionGroup.MalaysiaWest,malaysiawest
-2603:1040:1602:400::40/125,IPv6,ActionGroup.MalaysiaWest,malaysiawest

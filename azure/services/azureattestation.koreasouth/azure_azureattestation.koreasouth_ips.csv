@@ -1,5 +1,0 @@
-ip_address,ip_type,service,region
-4.243.143.8/29,IPv4,AzureAttestation.KoreaSouth,koreasouth
-40.80.173.216/30,IPv4,AzureAttestation.KoreaSouth,koreasouth
-52.231.151.68/30,IPv4,AzureAttestation.KoreaSouth,koreasouth
-2603:1040:e05:5::230/124,IPv6,AzureAttestation.KoreaSouth,koreasouth

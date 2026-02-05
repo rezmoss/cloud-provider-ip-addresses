@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-20.44.19.164/30,IPv4,AzureAttestation.EastUS2,eastus2
-20.49.103.124/30,IPv4,AzureAttestation.EastUS2,eastus2
-172.175.111.120/29,IPv4,AzureAttestation.EastUS2,eastus2

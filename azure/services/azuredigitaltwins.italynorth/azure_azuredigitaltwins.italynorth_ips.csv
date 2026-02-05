@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-4.232.26.224/27,IPv4,AzureDigitalTwins.ItalyNorth,italynorth
-2603:1020:1204::600/121,IPv6,AzureDigitalTwins.ItalyNorth,italynorth

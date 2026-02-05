@@ -1,9 +1,0 @@
-ip_address,ip_type,service,region
-68.211.20.48/28,IPv4,LogicApps.ChileCentral,chilec
-68.211.20.128/27,IPv4,LogicApps.ChileCentral,chilec
-68.211.156.32/28,IPv4,LogicApps.ChileCentral,chilec
-68.211.156.64/27,IPv4,LogicApps.ChileCentral,chilec
-2603:1050:301:3::5a0/124,IPv6,LogicApps.ChileCentral,chilec
-2603:1050:301:3::5c0/123,IPv6,LogicApps.ChileCentral,chilec
-2603:1050:301:400::330/124,IPv6,LogicApps.ChileCentral,chilec
-2603:1050:301:400::340/123,IPv6,LogicApps.ChileCentral,chilec

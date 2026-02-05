@@ -1,6 +1,0 @@
-ip_address,ip_type,service,region
-20.91.155.144/29,IPv4,PowerPlatformPlex.SwedenCentral,swedencentral
-74.241.226.96/29,IPv4,PowerPlatformPlex.SwedenCentral,swedencentral
-135.116.77.192/26,IPv4,PowerPlatformPlex.SwedenCentral,swedencentral
-172.160.216.16/29,IPv4,PowerPlatformPlex.SwedenCentral,swedencentral
-2603:1061:2004:8000::/57,IPv6,PowerPlatformPlex.SwedenCentral,swedencentral

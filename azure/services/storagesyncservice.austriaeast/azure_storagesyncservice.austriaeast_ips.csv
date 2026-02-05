@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-68.210.152.48/29,IPv4,StorageSyncService.AustriaEast,austriaeast
-2603:1020:104:800::120/123,IPv6,StorageSyncService.AustriaEast,austriaeast

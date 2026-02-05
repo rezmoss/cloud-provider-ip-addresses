@@ -1,5 +1,0 @@
-ip_address,ip_type,service,region
-51.105.89.160/27,IPv4,AzurePortal.FranceSouth,southfrance
-51.105.90.152/30,IPv4,AzurePortal.FranceSouth,southfrance
-52.136.184.64/29,IPv4,AzurePortal.FranceSouth,southfrance
-2603:1020:905::700/121,IPv6,AzurePortal.FranceSouth,southfrance

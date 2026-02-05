@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-20.45.126.116/30,IPv4,AzureAttestation.SouthCentralUS,southcentralus
-20.65.130.92/30,IPv4,AzureAttestation.SouthCentralUS,southcentralus
-48.192.143.112/29,IPv4,AzureAttestation.SouthCentralUS,southcentralus

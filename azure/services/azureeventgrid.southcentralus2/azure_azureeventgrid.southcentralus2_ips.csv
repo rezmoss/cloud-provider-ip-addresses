@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-48.216.17.128/25,IPv4,AzureEventGrid.SouthCentralUS2,southcentralus2
-2603:1030:1102::280/121,IPv6,AzureEventGrid.SouthCentralUS2,southcentralus2

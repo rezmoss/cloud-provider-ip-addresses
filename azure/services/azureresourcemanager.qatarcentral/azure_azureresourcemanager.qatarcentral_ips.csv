@@ -1,5 +1,0 @@
-ip_address,ip_type,service,region
-20.21.44.0/26,IPv4,AzureResourceManager.QatarCentral,qatarcentral
-20.21.50.0/23,IPv4,AzureResourceManager.QatarCentral,qatarcentral
-2603:1040:1002:1::600/120,IPv6,AzureResourceManager.QatarCentral,qatarcentral
-2603:1040:1002:400::1c0/122,IPv6,AzureResourceManager.QatarCentral,qatarcentral

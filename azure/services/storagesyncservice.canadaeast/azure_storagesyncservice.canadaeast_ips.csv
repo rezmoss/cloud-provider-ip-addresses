@@ -1,5 +1,0 @@
-ip_address,ip_type,service,region
-40.69.111.200/29,IPv4,StorageSyncService.CanadaEast,canadaeast
-40.89.17.232/29,IPv4,StorageSyncService.CanadaEast,canadaeast
-2603:1030:1005::340/123,IPv6,StorageSyncService.CanadaEast,canadaeast
-2603:1030:1005:402::5e0/123,IPv6,StorageSyncService.CanadaEast,canadaeast

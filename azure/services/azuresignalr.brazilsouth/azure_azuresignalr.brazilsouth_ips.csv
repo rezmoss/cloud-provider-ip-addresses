@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-191.238.72.96/27,IPv4,AzureSignalR.BrazilSouth,brazilsouth
-2603:1050:6:2::300/120,IPv6,AzureSignalR.BrazilSouth,brazilsouth

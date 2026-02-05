@@ -1,5 +1,0 @@
-ip_address,ip_type,service,region
-158.23.10.88/30,IPv4,ActionGroup.MexicoCentral,mexicocentral
-158.23.119.232/30,IPv4,ActionGroup.MexicoCentral,mexicocentral
-2603:1030:702:1::2a8/126,IPv6,ActionGroup.MexicoCentral,mexicocentral
-2603:1030:702:400::100/125,IPv6,ActionGroup.MexicoCentral,mexicocentral

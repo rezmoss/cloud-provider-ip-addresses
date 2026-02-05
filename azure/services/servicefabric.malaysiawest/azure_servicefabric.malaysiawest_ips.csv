@@ -1,7 +1,0 @@
-ip_address,ip_type,service,region
-20.17.130.12/30,IPv4,ServiceFabric.MalaysiaWest,malaysiawest
-20.17.168.8/30,IPv4,ServiceFabric.MalaysiaWest,malaysiawest
-20.17.184.8/30,IPv4,ServiceFabric.MalaysiaWest,malaysiawest
-2603:1040:1602:400::18/125,IPv6,ServiceFabric.MalaysiaWest,malaysiawest
-2603:1040:1602:800::20/125,IPv6,ServiceFabric.MalaysiaWest,malaysiawest
-2603:1040:1602:c00::20/125,IPv6,ServiceFabric.MalaysiaWest,malaysiawest

@@ -1,7 +1,0 @@
-ip_address,ip_type,service,region
-20.47.232.184/31,IPv4,ApiManagement.EastUS2EUAP,eastus2euap
-40.74.146.80/31,IPv4,ApiManagement.EastUS2EUAP,eastus2euap
-40.74.147.32/28,IPv4,ApiManagement.EastUS2EUAP,eastus2euap
-52.253.229.253/32,IPv4,ApiManagement.EastUS2EUAP,eastus2euap
-72.147.64.234/31,IPv4,ApiManagement.EastUS2EUAP,eastus2euap
-2603:1030:40b:400::940/124,IPv6,ApiManagement.EastUS2EUAP,eastus2euap

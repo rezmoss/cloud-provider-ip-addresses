@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-57.151.212.64/26,IPv4,AzureBackup.SoutheastUS,southeastus
-57.151.228.64/28,IPv4,AzureBackup.SoutheastUS,southeastus
-2603:1030:902::680/121,IPv6,AzureBackup.SoutheastUS,southeastus

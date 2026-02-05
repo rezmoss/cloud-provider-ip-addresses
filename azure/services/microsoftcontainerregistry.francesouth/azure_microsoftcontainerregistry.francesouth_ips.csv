@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-40.79.178.72/29,IPv4,MicrosoftContainerRegistry.FranceSouth,southfrance
-2603:1020:905:402::88/125,IPv6,MicrosoftContainerRegistry.FranceSouth,southfrance

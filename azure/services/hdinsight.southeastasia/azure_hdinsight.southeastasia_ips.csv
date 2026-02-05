@@ -1,6 +1,0 @@
-ip_address,ip_type,service,region
-13.67.9.152/29,IPv4,HDInsight.SoutheastAsia,southeastasia
-13.76.136.249/32,IPv4,HDInsight.SoutheastAsia,southeastasia
-13.76.245.160/32,IPv4,HDInsight.SoutheastAsia,southeastasia
-23.98.107.192/29,IPv4,HDInsight.SoutheastAsia,southeastasia
-2603:1040:5:402::320/124,IPv6,HDInsight.SoutheastAsia,southeastasia

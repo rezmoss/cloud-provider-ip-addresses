@@ -1,6 +1,0 @@
-ip_address,ip_type,service,region
-20.44.16.112/28,IPv4,AzureResourceManager.EastUS2,eastus2
-20.44.20.0/23,IPv4,AzureResourceManager.EastUS2,eastus2
-20.62.56.0/23,IPv4,AzureResourceManager.EastUS2,eastus2
-2603:1030:40c::180/122,IPv6,AzureResourceManager.EastUS2,eastus2
-2603:1030:40c:402::280/122,IPv6,AzureResourceManager.EastUS2,eastus2

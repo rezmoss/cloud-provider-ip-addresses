@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-20.150.164.0/25,IPv4,AzureEventGrid.WestUS3,westus3
-2603:1030:504:1::380/121,IPv6,AzureEventGrid.WestUS3,westus3

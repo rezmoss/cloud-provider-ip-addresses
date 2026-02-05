@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-20.43.41.64/26,IPv4,AzureCognitiveSearch.FranceCentral,centralfrance
-40.66.56.233/32,IPv4,AzureCognitiveSearch.FranceCentral,centralfrance
-2603:1020:805:1::180/121,IPv6,AzureCognitiveSearch.FranceCentral,centralfrance

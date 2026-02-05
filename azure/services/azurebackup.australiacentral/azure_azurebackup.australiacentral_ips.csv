@@ -1,6 +1,0 @@
-ip_address,ip_type,service,region
-20.36.107.32/27,IPv4,AzureBackup.AustraliaCentral,australiacentral
-20.36.107.64/26,IPv4,AzureBackup.AustraliaCentral,australiacentral
-20.53.49.0/26,IPv4,AzureBackup.AustraliaCentral,australiacentral
-2603:1010:304:2::780/121,IPv6,AzureBackup.AustraliaCentral,australiacentral
-2603:1010:304:402::200/121,IPv6,AzureBackup.AustraliaCentral,australiacentral

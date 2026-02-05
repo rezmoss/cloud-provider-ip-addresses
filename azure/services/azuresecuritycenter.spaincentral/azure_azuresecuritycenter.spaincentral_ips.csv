@@ -1,7 +1,0 @@
-ip_address,ip_type,service,region
-70.156.174.4/30,IPv4,AzureSecurityCenter.SpainCentral,spaincentral
-70.156.174.16/28,IPv4,AzureSecurityCenter.SpainCentral,spaincentral
-70.156.174.32/27,IPv4,AzureSecurityCenter.SpainCentral,spaincentral
-70.156.174.64/26,IPv4,AzureSecurityCenter.SpainCentral,spaincentral
-70.156.175.0/24,IPv4,AzureSecurityCenter.SpainCentral,spaincentral
-158.158.128.0/25,IPv4,AzureSecurityCenter.SpainCentral,spaincentral

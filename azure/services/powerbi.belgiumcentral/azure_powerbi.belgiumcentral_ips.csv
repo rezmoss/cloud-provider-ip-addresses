@@ -1,8 +1,0 @@
-ip_address,ip_type,service,region
-9.160.51.240/31,IPv4,PowerBI.BelgiumCentral,belgiumcentral
-9.160.51.244/30,IPv4,PowerBI.BelgiumCentral,belgiumcentral
-9.160.51.248/29,IPv4,PowerBI.BelgiumCentral,belgiumcentral
-9.160.65.80/28,IPv4,PowerBI.BelgiumCentral,belgiumcentral
-9.160.65.96/28,IPv4,PowerBI.BelgiumCentral,belgiumcentral
-2603:1020:1502:2::1a0/123,IPv6,PowerBI.BelgiumCentral,belgiumcentral
-2603:1020:1502:2::300/122,IPv6,PowerBI.BelgiumCentral,belgiumcentral

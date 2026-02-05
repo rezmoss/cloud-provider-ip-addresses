@@ -1,5 +1,0 @@
-ip_address,ip_type,service,region
-4.171.31.160/28,IPv4,PowerPlatformPlex.QatarCentral,qatarcentral
-4.244.11.64/26,IPv4,PowerPlatformPlex.QatarCentral,qatarcentral
-20.21.91.16/29,IPv4,PowerPlatformPlex.QatarCentral,qatarcentral
-2603:1061:2004:9000::/57,IPv6,PowerPlatformPlex.QatarCentral,qatarcentral

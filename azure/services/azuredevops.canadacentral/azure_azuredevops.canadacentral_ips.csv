@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-52.228.82.0/24,IPv4,AzureDevOps.CanadaCentral,canadacentral
-2603:1030:f05:b::700/120,IPv6,AzureDevOps.CanadaCentral,canadacentral

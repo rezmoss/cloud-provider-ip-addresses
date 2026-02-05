@@ -1,8 +1,0 @@
-ip_address,ip_type,service,region
-13.70.182.204/32,IPv4,AzureIoTHub.AustraliaSoutheast,australiasoutheast
-13.70.182.210/32,IPv4,AzureIoTHub.AustraliaSoutheast,australiasoutheast
-13.73.115.51/32,IPv4,AzureIoTHub.AustraliaSoutheast,australiasoutheast
-13.77.53.128/27,IPv4,AzureIoTHub.AustraliaSoutheast,australiasoutheast
-20.42.230.160/27,IPv4,AzureIoTHub.AustraliaSoutheast,australiasoutheast
-20.42.231.0/25,IPv4,AzureIoTHub.AustraliaSoutheast,australiasoutheast
-2603:1010:101:402::300/123,IPv6,AzureIoTHub.AustraliaSoutheast,australiasoutheast

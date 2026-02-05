@@ -1,5 +1,0 @@
-ip_address,ip_type,service,region
-48.216.8.16/29,IPv4,ServiceBus.SouthCentralUS2,southcentralus2
-48.216.8.32/28,IPv4,ServiceBus.SouthCentralUS2,southcentralus2
-48.216.22.0/25,IPv4,ServiceBus.SouthCentralUS2,southcentralus2
-2603:1030:1102:1::/121,IPv6,ServiceBus.SouthCentralUS2,southcentralus2

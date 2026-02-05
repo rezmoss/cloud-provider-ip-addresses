@@ -1,9 +1,0 @@
-ip_address,ip_type,service,region
-20.60.54.0/23,IPv4,Storage.JioIndiaWest,jioindiawest
-20.150.65.0/24,IPv4,Storage.JioIndiaWest,jioindiawest
-20.150.97.0/24,IPv4,Storage.JioIndiaWest,jioindiawest
-20.153.59.0/24,IPv4,Storage.JioIndiaWest,jioindiawest
-20.157.153.0/24,IPv4,Storage.JioIndiaWest,jioindiawest
-20.157.234.0/24,IPv4,Storage.JioIndiaWest,jioindiawest
-57.150.242.0/23,IPv4,Storage.JioIndiaWest,jioindiawest
-2603:1040:d00::/48,IPv6,Storage.JioIndiaWest,jioindiawest

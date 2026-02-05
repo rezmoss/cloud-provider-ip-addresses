@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-20.17.54.128/28,IPv4,AzureDataExplorerManagement.MalaysiaSouth,malaysiasouth
-2603:1040:1503:1::1e0/123,IPv6,AzureDataExplorerManagement.MalaysiaSouth,malaysiasouth

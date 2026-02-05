@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-70.153.152.192/26,IPv4,AzureCognitiveSearch.IndonesiaCentral,indonesiacentral
-70.153.173.192/26,IPv4,AzureCognitiveSearch.IndonesiaCentral,indonesiacentral
-2603:1040:1802:3::/121,IPv6,AzureCognitiveSearch.IndonesiaCentral,indonesiacentral

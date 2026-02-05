@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-20.217.251.0/26,IPv4,AzureCosmosDB.IsraelNorthwest,israelnorthwest
-2603:1040:1702::1e0/123,IPv6,AzureCosmosDB.IsraelNorthwest,israelnorthwest

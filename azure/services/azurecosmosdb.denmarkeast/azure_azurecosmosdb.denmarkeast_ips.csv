@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-9.205.35.0/26,IPv4,AzureCosmosDB.DenmarkEast,denmarkeast
-9.205.49.224/27,IPv4,AzureCosmosDB.DenmarkEast,denmarkeast
-2603:1020:1602::1e0/123,IPv6,AzureCosmosDB.DenmarkEast,denmarkeast

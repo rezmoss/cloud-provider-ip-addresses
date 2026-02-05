@@ -1,5 +1,0 @@
-ip_address,ip_type,service,region
-40.78.202.120/29,IPv4,ServiceFabric.CentralUSEUAP,centraluseuap
-52.180.176.84/32,IPv4,ServiceFabric.CentralUSEUAP,centraluseuap
-168.61.142.48/30,IPv4,ServiceFabric.CentralUSEUAP,centraluseuap
-2603:1030:f:400::898/125,IPv6,ServiceFabric.CentralUSEUAP,centraluseuap

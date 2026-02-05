@@ -1,8 +1,0 @@
-ip_address,ip_type,service,region
-4.150.77.36/30,IPv4,CopilotActions,
-4.150.77.40/29,IPv4,CopilotActions,
-4.207.44.208/29,IPv4,CopilotActions,
-4.243.137.96/29,IPv4,CopilotActions,
-130.213.78.208/29,IPv4,CopilotActions,
-135.171.143.8/29,IPv4,CopilotActions,
-172.194.130.40/29,IPv4,CopilotActions,

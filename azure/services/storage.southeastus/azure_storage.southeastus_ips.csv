@@ -1,7 +1,0 @@
-ip_address,ip_type,service,region
-20.33.215.0/24,IPv4,Storage.SoutheastUS,southeastus
-20.153.26.0/24,IPv4,Storage.SoutheastUS,southeastus
-57.150.23.0/24,IPv4,Storage.SoutheastUS,southeastus
-57.150.24.0/23,IPv4,Storage.SoutheastUS,southeastus
-57.150.93.0/24,IPv4,Storage.SoutheastUS,southeastus
-2603:1030:903::/48,IPv6,Storage.SoutheastUS,southeastus

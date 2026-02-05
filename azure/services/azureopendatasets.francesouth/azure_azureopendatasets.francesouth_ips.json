@@ -1,8 +1,0 @@
-[
-  {
-    "ip_address": "51.105.88.192/28",
-    "ip_type": "IPv4",
-    "service": "AzureOpenDatasets.FranceSouth",
-    "region": "southfrance"
-  }
-]

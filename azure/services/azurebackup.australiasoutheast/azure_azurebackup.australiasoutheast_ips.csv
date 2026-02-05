@@ -1,6 +1,0 @@
-ip_address,ip_type,service,region
-13.77.52.32/27,IPv4,AzureBackup.AustraliaSoutheast,australiasoutheast
-13.77.52.64/26,IPv4,AzureBackup.AustraliaSoutheast,australiasoutheast
-104.46.183.64/26,IPv4,AzureBackup.AustraliaSoutheast,australiasoutheast
-2603:1010:101:7::680/121,IPv6,AzureBackup.AustraliaSoutheast,australiasoutheast
-2603:1010:101:402::200/121,IPv6,AzureBackup.AustraliaSoutheast,australiasoutheast

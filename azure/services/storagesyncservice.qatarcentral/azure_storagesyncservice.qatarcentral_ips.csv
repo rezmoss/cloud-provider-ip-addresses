@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-4.171.52.120/29,IPv4,StorageSyncService.QatarCentral,qatarcentral
-2603:1040:1002:400::240/123,IPv6,StorageSyncService.QatarCentral,qatarcentral

@@ -1,7 +1,0 @@
-ip_address,ip_type,service,region
-20.41.195.128/27,IPv4,BatchNodeManagement.SouthIndia,southindia
-40.78.195.128/27,IPv4,BatchNodeManagement.SouthIndia,southindia
-104.211.224.117/32,IPv4,BatchNodeManagement.SouthIndia,southindia
-104.211.224.119/32,IPv4,BatchNodeManagement.SouthIndia,southindia
-104.211.224.121/32,IPv4,BatchNodeManagement.SouthIndia,southindia
-2603:1040:c06::400/122,IPv6,BatchNodeManagement.SouthIndia,southindia

@@ -1,7 +1,0 @@
-ip_address,ip_type,service,region
-9.160.80.12/30,IPv4,ServiceFabric.BelgiumCentral,belgiumcentral
-9.160.88.8/30,IPv4,ServiceFabric.BelgiumCentral,belgiumcentral
-9.160.112.8/30,IPv4,ServiceFabric.BelgiumCentral,belgiumcentral
-2603:1020:1502:400::18/125,IPv6,ServiceFabric.BelgiumCentral,belgiumcentral
-2603:1020:1502:800::10/125,IPv6,ServiceFabric.BelgiumCentral,belgiumcentral
-2603:1020:1502:c00::10/125,IPv6,ServiceFabric.BelgiumCentral,belgiumcentral

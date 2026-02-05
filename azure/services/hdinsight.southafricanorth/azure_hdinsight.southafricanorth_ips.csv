@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-102.133.124.0/29,IPv4,HDInsight.SouthAfricaNorth,southafricanorth
-102.133.219.176/29,IPv4,HDInsight.SouthAfricaNorth,southafricanorth
-2603:1000:104:402::320/124,IPv6,HDInsight.SouthAfricaNorth,southafricanorth

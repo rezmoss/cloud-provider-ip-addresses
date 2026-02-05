@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-20.215.0.64/26,IPv4,GatewayManager.PolandCentral,polandcentral
-2603:1020:1302::40/122,IPv6,GatewayManager.PolandCentral,polandcentral

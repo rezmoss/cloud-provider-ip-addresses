@@ -1,5 +1,0 @@
-ip_address,ip_type,service,region
-20.38.132.96/27,IPv4,AzureSignalR.WestIndia,westindia
-52.136.53.224/27,IPv4,AzureSignalR.WestIndia,westindia
-57.159.128.128/27,IPv4,AzureSignalR.WestIndia,westindia
-2603:1040:806:2::100/120,IPv6,AzureSignalR.WestIndia,westindia

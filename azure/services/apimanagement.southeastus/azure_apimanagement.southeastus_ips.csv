@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-57.151.210.240/28,IPv4,ApiManagement.SoutheastUS,southeastus
-2603:1030:902::5a0/124,IPv6,ApiManagement.SoutheastUS,southeastus

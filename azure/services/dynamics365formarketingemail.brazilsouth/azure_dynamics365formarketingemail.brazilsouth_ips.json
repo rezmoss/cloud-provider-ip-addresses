@@ -1,8 +1,0 @@
-[
-  {
-    "ip_address": "191.233.202.0/24",
-    "ip_type": "IPv4",
-    "service": "Dynamics365ForMarketingEmail.BrazilSouth",
-    "region": "brazilsouth"
-  }
-]

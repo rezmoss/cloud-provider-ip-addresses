@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-57.151.208.20/30,IPv4,AzureAttestation.SoutheastUS,southeastus
-2603:1030:902::5c0/124,IPv6,AzureAttestation.SoutheastUS,southeastus

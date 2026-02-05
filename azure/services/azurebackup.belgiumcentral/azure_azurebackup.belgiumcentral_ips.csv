@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-9.160.44.0/26,IPv4,AzureBackup.BelgiumCentral,belgiumcentral
-9.160.58.48/28,IPv4,AzureBackup.BelgiumCentral,belgiumcentral
-2603:1020:1502::600/121,IPv6,AzureBackup.BelgiumCentral,belgiumcentral

@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-4.207.242.64/30,IPv4,ActionGroup.NorthEurope,northeurope
-2603:1020:5:1::114/126,IPv6,ActionGroup.NorthEurope,northeurope
-2603:1020:5:402::178/125,IPv6,ActionGroup.NorthEurope,northeurope

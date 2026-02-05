@@ -1,6 +1,0 @@
-ip_address,ip_type,service,region
-158.23.11.64/26,IPv4,EventHub.MexicoCentral,mexicocentral
-158.23.102.0/24,IPv4,EventHub.MexicoCentral,mexicocentral
-158.23.123.64/26,IPv4,EventHub.MexicoCentral,mexicocentral
-158.23.195.64/26,IPv4,EventHub.MexicoCentral,mexicocentral
-2603:1030:702:1::/120,IPv6,EventHub.MexicoCentral,mexicocentral

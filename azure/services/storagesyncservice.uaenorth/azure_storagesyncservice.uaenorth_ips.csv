@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-20.38.136.224/29,IPv4,StorageSyncService.UAENorth,uaenorth
-2603:1040:904:1::300/123,IPv6,StorageSyncService.UAENorth,uaenorth

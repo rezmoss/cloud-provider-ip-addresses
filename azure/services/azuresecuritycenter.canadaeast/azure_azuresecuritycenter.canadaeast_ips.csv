@@ -1,7 +1,0 @@
-ip_address,ip_type,service,region
-4.229.91.192/26,IPv4,AzureSecurityCenter.CanadaEast,canadaeast
-4.229.92.128/27,IPv4,AzureSecurityCenter.CanadaEast,canadaeast
-4.229.93.0/24,IPv4,AzureSecurityCenter.CanadaEast,canadaeast
-4.229.94.0/23,IPv4,AzureSecurityCenter.CanadaEast,canadaeast
-4.229.96.0/22,IPv4,AzureSecurityCenter.CanadaEast,canadaeast
-40.69.111.64/27,IPv4,AzureSecurityCenter.CanadaEast,canadaeast

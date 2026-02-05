@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-191.233.9.128/25,IPv4,AzureEventGrid.BrazilSoutheast,brazilse
-2603:1050:403::380/121,IPv6,AzureEventGrid.BrazilSoutheast,brazilse

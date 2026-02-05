@@ -1,7 +1,0 @@
-ip_address,ip_type,service,region
-20.90.38.56/29,IPv4,PowerQueryOnline.UKWest,ukwest
-51.137.160.68/31,IPv4,PowerQueryOnline.UKWest,ukwest
-172.186.6.128/29,IPv4,PowerQueryOnline.UKWest,ukwest
-172.186.7.0/28,IPv4,PowerQueryOnline.UKWest,ukwest
-2603:1020:605::200/123,IPv6,PowerQueryOnline.UKWest,ukwest
-2603:1020:605:402::168/126,IPv6,PowerQueryOnline.UKWest,ukwest

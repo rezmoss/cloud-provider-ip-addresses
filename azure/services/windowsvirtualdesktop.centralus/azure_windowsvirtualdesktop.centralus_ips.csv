@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-40.64.145.176/28,IPv4,WindowsVirtualDesktop.CentralUS,centralus
-2603:1061:2010:6::/117,IPv6,WindowsVirtualDesktop.CentralUS,centralus

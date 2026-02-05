@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-51.53.188.96/27,IPv4,AzureIoTHub.TaiwanNorthwest,taiwannorthwest
-2603:1040:1202:400::220/123,IPv6,AzureIoTHub.TaiwanNorthwest,taiwannorthwest

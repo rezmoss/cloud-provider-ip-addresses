@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-68.211.4.64/27,IPv4,AzureDigitalTwins.ChileCentral,chilec
-68.211.20.192/29,IPv4,AzureDigitalTwins.ChileCentral,chilec
-2603:1050:301::580/121,IPv6,AzureDigitalTwins.ChileCentral,chilec

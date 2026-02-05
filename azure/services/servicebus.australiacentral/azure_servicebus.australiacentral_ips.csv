@@ -1,6 +1,0 @@
-ip_address,ip_type,service,region
-20.36.106.224/27,IPv4,ServiceBus.AustraliaCentral,australiacentral
-20.53.50.128/25,IPv4,ServiceBus.AustraliaCentral,australiacentral
-2603:1010:304::220/123,IPv6,ServiceBus.AustraliaCentral,australiacentral
-2603:1010:304:1::500/120,IPv6,ServiceBus.AustraliaCentral,australiacentral
-2603:1010:304:402::170/125,IPv6,ServiceBus.AustraliaCentral,australiacentral

@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-20.189.107.0/24,IPv4,AzureDevOps.EastAsia,eastasia
-2603:1040:207:f::700/120,IPv6,AzureDevOps.EastAsia,eastasia

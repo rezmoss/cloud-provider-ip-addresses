@@ -1,6 +1,0 @@
-ip_address,ip_type,service,region
-70.153.157.0/24,IPv4,EventHub.IndonesiaCentral,indonesiacentral
-70.153.176.128/26,IPv4,EventHub.IndonesiaCentral,indonesiacentral
-70.153.200.128/26,IPv4,EventHub.IndonesiaCentral,indonesiacentral
-70.153.216.128/26,IPv4,EventHub.IndonesiaCentral,indonesiacentral
-2603:1040:1802::500/120,IPv6,EventHub.IndonesiaCentral,indonesiacentral

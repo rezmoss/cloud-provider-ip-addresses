@@ -1,8 +1,0 @@
-[
-  {
-    "ip_address": "52.228.81.144/28",
-    "ip_type": "IPv4",
-    "service": "AzureOpenDatasets.CanadaCentral",
-    "region": "canadacentral"
-  }
-]

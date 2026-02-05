@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-70.153.152.16/30,IPv4,AzureBotService.IndonesiaCentral,indonesiacentral
-2603:1040:1802:2::740/123,IPv6,AzureBotService.IndonesiaCentral,indonesiacentral

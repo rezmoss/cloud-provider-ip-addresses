@@ -1,8 +1,0 @@
-ip_address,ip_type,service,region
-74.7.56.224/27,IPv4,Sql.SoutheastUS3,southeastus3
-74.7.57.0/27,IPv4,Sql.SoutheastUS3,southeastus3
-74.7.57.64/26,IPv4,Sql.SoutheastUS3,southeastus3
-74.7.82.136/29,IPv4,Sql.SoutheastUS3,southeastus3
-74.7.82.160/27,IPv4,Sql.SoutheastUS3,southeastus3
-2603:1030:1302:2::620/123,IPv6,Sql.SoutheastUS3,southeastus3
-2603:1030:1302:2::680/121,IPv6,Sql.SoutheastUS3,southeastus3

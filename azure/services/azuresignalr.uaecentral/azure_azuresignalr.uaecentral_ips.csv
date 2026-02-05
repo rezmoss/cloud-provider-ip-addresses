@@ -1,2 +1,0 @@
-ip_address,ip_type,service,region
-2603:1040:b04:2::100/120,IPv6,AzureSignalR.UAECentral,uaecentral

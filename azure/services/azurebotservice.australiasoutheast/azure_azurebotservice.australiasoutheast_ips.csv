@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-13.77.53.80/30,IPv4,AzureBotService.AustraliaSoutheast,australiasoutheast
-20.42.224.64/30,IPv4,AzureBotService.AustraliaSoutheast,australiasoutheast
-2603:1010:101::20/123,IPv6,AzureBotService.AustraliaSoutheast,australiasoutheast

@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-51.53.24.64/26,IPv4,GatewayManager.TaiwanNorth,taiwannorth
-2603:1040:1302::40/122,IPv6,GatewayManager.TaiwanNorth,taiwannorth

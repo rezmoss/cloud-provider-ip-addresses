@@ -1,5 +1,0 @@
-ip_address,ip_type,service,region
-20.189.106.128/26,IPv4,AzureCognitiveSearch.EastAsia,eastasia
-40.81.29.152/32,IPv4,AzureCognitiveSearch.EastAsia,eastasia
-52.184.80.221/32,IPv4,AzureCognitiveSearch.EastAsia,eastasia
-2603:1040:207::180/121,IPv6,AzureCognitiveSearch.EastAsia,eastasia

@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-74.7.43.208/29,IPv4,AzureDigitalTwins.SoutheastUS3,southeastus3
-74.7.43.224/27,IPv4,AzureDigitalTwins.SoutheastUS3,southeastus3
-2603:1030:1302::580/121,IPv6,AzureDigitalTwins.SoutheastUS3,southeastus3

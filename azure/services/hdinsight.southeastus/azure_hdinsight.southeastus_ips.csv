@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-57.151.216.24/29,IPv4,HDInsight.SoutheastUS,southeastus
-2603:1030:902:1::2e0/124,IPv6,HDInsight.SoutheastUS,southeastus

@@ -1,9 +1,0 @@
-ip_address,ip_type,service,region
-20.33.142.0/24,IPv4,Storage.EastUSSTG,usstagee
-20.38.119.0/24,IPv4,Storage.EastUSSTG,usstagee
-20.47.13.0/24,IPv4,Storage.EastUSSTG,usstagee
-20.60.5.0/24,IPv4,Storage.EastUSSTG,usstagee
-20.60.198.0/23,IPv4,Storage.EastUSSTG,usstagee
-20.150.57.0/24,IPv4,Storage.EastUSSTG,usstagee
-20.209.254.0/23,IPv4,Storage.EastUSSTG,usstagee
-2603:1030:108::/48,IPv6,Storage.EastUSSTG,usstagee

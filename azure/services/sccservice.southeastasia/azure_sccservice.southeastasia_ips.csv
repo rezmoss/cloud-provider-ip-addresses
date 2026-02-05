@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-40.78.239.104/29,IPv4,SCCservice.SoutheastAsia,southeastasia
-172.188.180.160/27,IPv4,SCCservice.SoutheastAsia,southeastasia
-2603:1040:5:d::80/123,IPv6,SCCservice.SoutheastAsia,southeastasia

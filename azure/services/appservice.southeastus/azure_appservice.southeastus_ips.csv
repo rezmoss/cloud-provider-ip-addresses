@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-57.151.217.0/24,IPv4,AppService.SoutheastUS,southeastus
-2603:1030:902:1::700/120,IPv6,AppService.SoutheastUS,southeastus

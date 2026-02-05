@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-102.133.27.32/28,IPv4,AzureMachineLearning.SouthAfricaWest,southafricawest
-102.133.58.224/28,IPv4,AzureMachineLearning.SouthAfricaWest,southafricawest
-2603:1000:4::300/122,IPv6,AzureMachineLearning.SouthAfricaWest,southafricawest

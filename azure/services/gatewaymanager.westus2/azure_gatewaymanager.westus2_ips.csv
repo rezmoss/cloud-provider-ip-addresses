@@ -1,9 +1,0 @@
-ip_address,ip_type,service,region
-13.66.140.144/29,IPv4,GatewayManager.WestUS2,westus2
-20.42.128.72/29,IPv4,GatewayManager.WestUS2,westus2
-20.83.222.224/27,IPv4,GatewayManager.WestUS2,westus2
-40.91.89.36/32,IPv4,GatewayManager.WestUS2,westus2
-40.91.91.51/32,IPv4,GatewayManager.WestUS2,westus2
-52.149.24.100/32,IPv4,GatewayManager.WestUS2,westus2
-52.149.26.14/32,IPv4,GatewayManager.WestUS2,westus2
-2603:1030:c06:1::40/122,IPv6,GatewayManager.WestUS2,westus2

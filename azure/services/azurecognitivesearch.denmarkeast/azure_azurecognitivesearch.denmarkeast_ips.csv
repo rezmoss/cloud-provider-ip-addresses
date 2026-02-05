@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-9.205.32.192/26,IPv4,AzureCognitiveSearch.DenmarkEast,denmarkeast
-2603:1020:1602::100/121,IPv6,AzureCognitiveSearch.DenmarkEast,denmarkeast

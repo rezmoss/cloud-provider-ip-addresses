@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-40.67.58.240/28,IPv4,AzureConnectors.EastUSSTG,usstagee
-40.67.60.224/27,IPv4,AzureConnectors.EastUSSTG,usstagee
-2603:1030:104:402::180/122,IPv6,AzureConnectors.EastUSSTG,usstagee

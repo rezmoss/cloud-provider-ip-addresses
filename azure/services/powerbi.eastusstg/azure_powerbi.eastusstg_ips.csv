@@ -1,8 +1,0 @@
-ip_address,ip_type,service,region
-20.99.11.4/30,IPv4,PowerBI.EastUSSTG,usstagee
-20.99.11.8/29,IPv4,PowerBI.EastUSSTG,usstagee
-40.67.50.246/31,IPv4,PowerBI.EastUSSTG,usstagee
-2603:1030:104::/122,IPv6,PowerBI.EastUSSTG,usstagee
-2603:1030:104::40/123,IPv6,PowerBI.EastUSSTG,usstagee
-2603:1030:104:1::5e0/123,IPv6,PowerBI.EastUSSTG,usstagee
-2603:1030:104:1::600/122,IPv6,PowerBI.EastUSSTG,usstagee

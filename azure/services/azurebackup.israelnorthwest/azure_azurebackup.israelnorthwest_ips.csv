@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-20.217.252.0/26,IPv4,AzureBackup.IsraelNorthwest,israelnorthwest
-2603:1040:1702::600/121,IPv6,AzureBackup.IsraelNorthwest,israelnorthwest

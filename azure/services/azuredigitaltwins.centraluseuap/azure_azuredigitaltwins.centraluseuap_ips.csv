@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-20.46.10.56/29,IPv4,AzureDigitalTwins.CentralUSEUAP,centraluseuap
-20.46.10.96/27,IPv4,AzureDigitalTwins.CentralUSEUAP,centraluseuap
-2603:1030:f:2::500/121,IPv6,AzureDigitalTwins.CentralUSEUAP,centraluseuap

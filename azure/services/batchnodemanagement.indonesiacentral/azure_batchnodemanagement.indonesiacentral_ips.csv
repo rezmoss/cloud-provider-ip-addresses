@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-70.153.153.64/27,IPv4,BatchNodeManagement.IndonesiaCentral,indonesiacentral
-2603:1040:1802::/122,IPv6,BatchNodeManagement.IndonesiaCentral,indonesiacentral

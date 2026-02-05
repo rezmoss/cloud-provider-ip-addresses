@@ -1,5 +1,0 @@
-ip_address,ip_type,service,region
-51.104.9.64/27,IPv4,AzureSignalR.UKSouth,uksouth
-51.143.212.128/27,IPv4,AzureSignalR.UKSouth,uksouth
-74.177.80.160/27,IPv4,AzureSignalR.UKSouth,uksouth
-2603:1020:705:2::500/120,IPv6,AzureSignalR.UKSouth,uksouth

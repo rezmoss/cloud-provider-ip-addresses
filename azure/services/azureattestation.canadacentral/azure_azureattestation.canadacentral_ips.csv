@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-4.172.85.24/29,IPv4,AzureAttestation.CanadaCentral,canadacentral
-13.71.175.208/30,IPv4,AzureAttestation.CanadaCentral,canadacentral
-20.48.193.180/30,IPv4,AzureAttestation.CanadaCentral,canadacentral

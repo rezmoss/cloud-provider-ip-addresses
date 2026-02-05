@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-191.235.226.0/24,IPv4,AzureDevOps.BrazilSouth,brazilsouth
-2603:1050:6:a::300/120,IPv6,AzureDevOps.BrazilSouth,brazilsouth

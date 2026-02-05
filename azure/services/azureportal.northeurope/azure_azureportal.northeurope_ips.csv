@@ -1,7 +1,0 @@
-ip_address,ip_type,service,region
-20.38.85.192/27,IPv4,AzurePortal.NorthEurope,northeurope
-20.38.87.224/27,IPv4,AzurePortal.NorthEurope,northeurope
-20.50.65.72/30,IPv4,AzurePortal.NorthEurope,northeurope
-52.146.132.80/29,IPv4,AzurePortal.NorthEurope,northeurope
-2603:1020:5::100/121,IPv6,AzurePortal.NorthEurope,northeurope
-2603:1020:5:1::680/121,IPv6,AzurePortal.NorthEurope,northeurope

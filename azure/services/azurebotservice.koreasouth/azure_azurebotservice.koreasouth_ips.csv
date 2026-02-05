@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-40.80.168.64/30,IPv4,AzureBotService.KoreaSouth,koreasouth
-52.231.148.88/30,IPv4,AzureBotService.KoreaSouth,koreasouth
-2603:1040:e05:1::540/123,IPv6,AzureBotService.KoreaSouth,koreasouth

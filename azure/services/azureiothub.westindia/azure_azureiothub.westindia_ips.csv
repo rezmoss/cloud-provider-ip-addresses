@@ -1,5 +1,0 @@
-ip_address,ip_type,service,region
-20.38.128.128/27,IPv4,AzureIoTHub.WestIndia,westindia
-52.136.51.128/25,IPv4,AzureIoTHub.WestIndia,westindia
-52.136.52.0/27,IPv4,AzureIoTHub.WestIndia,westindia
-2603:1040:806:402::300/123,IPv6,AzureIoTHub.WestIndia,westindia

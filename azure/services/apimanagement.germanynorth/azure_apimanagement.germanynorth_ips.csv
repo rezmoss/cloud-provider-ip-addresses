@@ -1,6 +1,0 @@
-ip_address,ip_type,service,region
-20.113.251.240/28,IPv4,ApiManagement.GermanyNorth,germanyn
-51.116.0.0/32,IPv4,ApiManagement.GermanyNorth,germanyn
-51.116.59.0/28,IPv4,ApiManagement.GermanyNorth,germanyn
-2603:1020:d04:2::630/124,IPv6,ApiManagement.GermanyNorth,germanyn
-2603:1020:d04:402::140/124,IPv6,ApiManagement.GermanyNorth,germanyn

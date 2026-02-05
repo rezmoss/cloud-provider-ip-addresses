@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-134.138.79.0/26,IPv4,AppServiceManagement.EastUS3,eastus3
-2603:1030:1402:2::380/122,IPv6,AppServiceManagement.EastUS3,eastus3

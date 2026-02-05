@@ -1,9 +1,0 @@
-ip_address,ip_type,service,region
-13.78.111.193/32,IPv4,AzureArcInfrastructure.JapanEast,japaneast
-20.18.7.60/31,IPv4,AzureArcInfrastructure.JapanEast,japaneast
-20.18.7.128/29,IPv4,AzureArcInfrastructure.JapanEast,japaneast
-20.43.67.88/30,IPv4,AzureArcInfrastructure.JapanEast,japaneast
-20.191.160.28/30,IPv4,AzureArcInfrastructure.JapanEast,japaneast
-20.194.129.106/31,IPv4,AzureArcInfrastructure.JapanEast,japaneast
-40.79.191.216/32,IPv4,AzureArcInfrastructure.JapanEast,japaneast
-40.115.144.0/30,IPv4,AzureArcInfrastructure.JapanEast,japaneast

@@ -1,5 +1,0 @@
-ip_address,ip_type,service,region
-9.205.43.208/30,IPv4,AzureArcInfrastructure.DenmarkEast,denmarkeast
-9.205.58.158/32,IPv4,AzureArcInfrastructure.DenmarkEast,denmarkeast
-9.205.75.48/32,IPv4,AzureArcInfrastructure.DenmarkEast,denmarkeast
-2603:1020:1602:2::20/124,IPv6,AzureArcInfrastructure.DenmarkEast,denmarkeast

@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-68.211.1.128/27,IPv4,AzureMachineLearning.ChileCentral,chilec
-2603:1050:301::200/122,IPv6,AzureMachineLearning.ChileCentral,chilec

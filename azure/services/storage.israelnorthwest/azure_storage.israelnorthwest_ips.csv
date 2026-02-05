@@ -1,7 +1,0 @@
-ip_address,ip_type,service,region
-20.153.14.0/24,IPv4,Storage.IsraelNorthwest,israelnorthwest
-20.153.44.0/24,IPv4,Storage.IsraelNorthwest,israelnorthwest
-57.150.177.0/24,IPv4,Storage.IsraelNorthwest,israelnorthwest
-57.150.180.0/23,IPv4,Storage.IsraelNorthwest,israelnorthwest
-135.130.56.0/23,IPv4,Storage.IsraelNorthwest,israelnorthwest
-2603:1040:1703::/48,IPv6,Storage.IsraelNorthwest,israelnorthwest

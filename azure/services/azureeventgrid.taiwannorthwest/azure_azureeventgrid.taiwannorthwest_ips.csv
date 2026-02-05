@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-51.53.169.128/25,IPv4,AzureEventGrid.TaiwanNorthwest,taiwannorthwest
-2603:1040:1202::280/121,IPv6,AzureEventGrid.TaiwanNorthwest,taiwannorthwest

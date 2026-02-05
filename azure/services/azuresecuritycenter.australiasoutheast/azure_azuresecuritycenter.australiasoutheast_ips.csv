@@ -1,7 +1,0 @@
-ip_address,ip_type,service,region
-4.199.68.0/22,IPv4,AzureSecurityCenter.AustraliaSoutheast,australiasoutheast
-4.199.74.0/23,IPv4,AzureSecurityCenter.AustraliaSoutheast,australiasoutheast
-4.199.76.0/24,IPv4,AzureSecurityCenter.AustraliaSoutheast,australiasoutheast
-4.199.77.0/26,IPv4,AzureSecurityCenter.AustraliaSoutheast,australiasoutheast
-4.199.77.64/27,IPv4,AzureSecurityCenter.AustraliaSoutheast,australiasoutheast
-104.46.162.32/27,IPv4,AzureSecurityCenter.AustraliaSoutheast,australiasoutheast

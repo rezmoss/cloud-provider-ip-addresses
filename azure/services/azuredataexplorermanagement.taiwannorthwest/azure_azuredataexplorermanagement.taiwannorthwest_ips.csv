@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-51.53.174.128/28,IPv4,AzureDataExplorerManagement.TaiwanNorthwest,taiwannorthwest
-2603:1040:1202:1::1c0/123,IPv6,AzureDataExplorerManagement.TaiwanNorthwest,taiwannorthwest

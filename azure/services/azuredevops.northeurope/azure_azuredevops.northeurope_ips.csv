@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-20.166.41.0/24,IPv4,AzureDevOps.NorthEurope,northeurope
-2603:1020:5:19::600/120,IPv6,AzureDevOps.NorthEurope,northeurope

@@ -1,8 +1,0 @@
-ip_address,ip_type,service,region
-20.45.198.32/27,IPv4,AzureIoTHub.CentralUSEUAP,centraluseuap
-20.45.198.128/25,IPv4,AzureIoTHub.CentralUSEUAP,centraluseuap
-40.78.204.64/27,IPv4,AzureIoTHub.CentralUSEUAP,centraluseuap
-52.180.165.88/32,IPv4,AzureIoTHub.CentralUSEUAP,centraluseuap
-52.180.165.248/32,IPv4,AzureIoTHub.CentralUSEUAP,centraluseuap
-52.180.177.125/32,IPv4,AzureIoTHub.CentralUSEUAP,centraluseuap
-2603:1030:f:400::b00/123,IPv6,AzureIoTHub.CentralUSEUAP,centraluseuap

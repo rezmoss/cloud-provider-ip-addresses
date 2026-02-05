@@ -1,6 +1,0 @@
-ip_address,ip_type,service,region
-20.44.16.8/29,IPv4,HDInsight.EastUS2,eastus2
-20.49.102.48/29,IPv4,HDInsight.EastUS2,eastus2
-104.208.202.0/28,IPv4,HDInsight.EastUS2,eastus2
-104.208.202.16/29,IPv4,HDInsight.EastUS2,eastus2
-2603:1030:40c:402::320/124,IPv6,HDInsight.EastUS2,eastus2

@@ -1,4 +1,0 @@
-ip_address,ip_type,service,region
-20.49.118.8/29,IPv4,AzureDigitalTwins.NorthCentralUS,northcentralus
-20.49.118.32/27,IPv4,AzureDigitalTwins.NorthCentralUS,northcentralus
-2603:1030:608:3::680/121,IPv6,AzureDigitalTwins.NorthCentralUS,northcentralus

@@ -1,5 +1,0 @@
-ip_address,ip_type,service,region
-4.190.132.42/31,IPv4,AzureArcInfrastructure.JapanWest,japanwest
-4.190.132.184/29,IPv4,AzureArcInfrastructure.JapanWest,japanwest
-40.74.102.16/30,IPv4,AzureArcInfrastructure.JapanWest,japanwest
-40.80.59.24/30,IPv4,AzureArcInfrastructure.JapanWest,japanwest

@@ -1,6 +1,0 @@
-ip_address,ip_type,service,region
-51.120.41.192/27,IPv4,BatchNodeManagement.NorwayEast,norwaye
-51.120.99.224/27,IPv4,BatchNodeManagement.NorwayEast,norwaye
-51.120.107.96/27,IPv4,BatchNodeManagement.NorwayEast,norwaye
-51.120.211.96/27,IPv4,BatchNodeManagement.NorwayEast,norwaye
-2603:1020:e04:1::340/122,IPv6,BatchNodeManagement.NorwayEast,norwaye

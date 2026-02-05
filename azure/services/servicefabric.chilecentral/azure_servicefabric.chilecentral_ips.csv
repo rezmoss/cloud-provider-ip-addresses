@@ -1,7 +1,0 @@
-ip_address,ip_type,service,region
-68.211.152.12/30,IPv4,ServiceFabric.ChileCentral,chilec
-68.211.168.8/30,IPv4,ServiceFabric.ChileCentral,chilec
-68.211.184.8/30,IPv4,ServiceFabric.ChileCentral,chilec
-2603:1050:301:400::18/125,IPv6,ServiceFabric.ChileCentral,chilec
-2603:1050:301:800::10/125,IPv6,ServiceFabric.ChileCentral,chilec
-2603:1050:301:c00::10/125,IPv6,ServiceFabric.ChileCentral,chilec

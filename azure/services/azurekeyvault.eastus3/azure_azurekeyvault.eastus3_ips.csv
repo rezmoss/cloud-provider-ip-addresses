@@ -1,6 +1,0 @@
-ip_address,ip_type,service,region
-134.138.71.124/30,IPv4,AzureKeyVault.EastUS3,eastus3
-134.138.73.160/29,IPv4,AzureKeyVault.EastUS3,eastus3
-134.138.96.12/30,IPv4,AzureKeyVault.EastUS3,eastus3
-2603:1030:1402:1::3e8/125,IPv6,AzureKeyVault.EastUS3,eastus3
-2603:1030:1402:400::48/125,IPv6,AzureKeyVault.EastUS3,eastus3

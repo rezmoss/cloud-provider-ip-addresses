@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-40.64.145.112/28,IPv4,WindowsVirtualDesktop.UAENorth,uaenorth
-2603:1061:2010:22::/117,IPv6,WindowsVirtualDesktop.UAENorth,uaenorth

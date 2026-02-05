@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-51.53.171.192/27,IPv4,AzureDigitalTwins.TaiwanNorthwest,taiwannorthwest
-2603:1040:1202::580/121,IPv6,AzureDigitalTwins.TaiwanNorthwest,taiwannorthwest

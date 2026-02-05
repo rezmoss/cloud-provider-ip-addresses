@@ -1,3 +1,0 @@
-ip_address,ip_type,service,region
-9.205.33.0/27,IPv4,AzureMachineLearning.DenmarkEast,denmarkeast
-2603:1020:1602::200/122,IPv6,AzureMachineLearning.DenmarkEast,denmarkeast

@@ -1,7 +1,0 @@
-ip_address,ip_type,service,region
-51.107.150.0/23,IPv4,AzureResourceManager.SwitzerlandWest,switzerlandw
-51.107.156.32/28,IPv4,AzureResourceManager.SwitzerlandWest,switzerlandw
-51.107.158.0/23,IPv4,AzureResourceManager.SwitzerlandWest,switzerlandw
-2603:1020:b04::6c0/122,IPv6,AzureResourceManager.SwitzerlandWest,switzerlandw
-2603:1020:b04:5::400/120,IPv6,AzureResourceManager.SwitzerlandWest,switzerlandw
-2603:1020:b04:402::280/122,IPv6,AzureResourceManager.SwitzerlandWest,switzerlandw

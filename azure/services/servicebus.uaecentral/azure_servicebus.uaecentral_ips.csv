@@ -1,8 +1,0 @@
-ip_address,ip_type,service,region
-20.37.74.32/27,IPv4,ServiceBus.UAECentral,uaecentral
-20.45.93.0/25,IPv4,ServiceBus.UAECentral,uaecentral
-74.243.18.16/29,IPv4,ServiceBus.UAECentral,uaecentral
-74.243.18.32/28,IPv4,ServiceBus.UAECentral,uaecentral
-2603:1040:b04::220/123,IPv6,ServiceBus.UAECentral,uaecentral
-2603:1040:b04:1::500/120,IPv6,ServiceBus.UAECentral,uaecentral
-2603:1040:b04:402::170/125,IPv6,ServiceBus.UAECentral,uaecentral

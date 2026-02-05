@@ -1,5 +1,0 @@
-ip_address,ip_type,service,region
-40.84.87.192/26,IPv4,PowerPlatformInfra.EastUS2,eastus2
-40.84.88.0/23,IPv4,PowerPlatformInfra.EastUS2,eastus2
-40.84.90.0/26,IPv4,PowerPlatformInfra.EastUS2,eastus2
-2603:1061:2002:300::/57,IPv6,PowerPlatformInfra.EastUS2,eastus2
