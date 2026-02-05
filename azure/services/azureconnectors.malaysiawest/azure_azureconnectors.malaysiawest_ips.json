@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "20.17.124.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.MalaysiaWest",
+    "region": "malaysiawest"
+  },
+  {
+    "ip_address": "2603:1040:1602:2::40/122",
+    "ip_type": "IPv6",
+    "service": "AzureConnectors.MalaysiaWest",
+    "region": "malaysiawest"
+  }
+]

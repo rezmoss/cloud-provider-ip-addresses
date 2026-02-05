@@ -1,0 +1,11 @@
+ip_address,ip_type,service,region
+13.89.171.104/29,IPv4,ServiceFabric.CentralUS,centralus
+20.44.10.124/30,IPv4,ServiceFabric.CentralUS,centralus
+40.69.166.6/32,IPv4,ServiceFabric.CentralUS,centralus
+52.165.37.188/32,IPv4,ServiceFabric.CentralUS,centralus
+52.182.141.56/30,IPv4,ServiceFabric.CentralUS,centralus
+52.182.172.232/32,IPv4,ServiceFabric.CentralUS,centralus
+104.43.213.84/32,IPv4,ServiceFabric.CentralUS,centralus
+2603:1030:10:402::98/125,IPv6,ServiceFabric.CentralUS,centralus
+2603:1030:10:802::98/125,IPv6,ServiceFabric.CentralUS,centralus
+2603:1030:10:c02::98/125,IPv6,ServiceFabric.CentralUS,centralus

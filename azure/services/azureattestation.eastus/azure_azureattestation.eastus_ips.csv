@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+20.62.129.148/30,IPv4,AzureAttestation.EastUS,eastus
+40.71.15.204/30,IPv4,AzureAttestation.EastUS,eastus
+48.195.234.216/29,IPv4,AzureAttestation.EastUS,eastus

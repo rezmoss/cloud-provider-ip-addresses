@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "51.116.49.168/29",
+    "ip_type": "IPv4",
+    "service": "HDInsight.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "51.116.60.48/29",
+    "ip_type": "IPv4",
+    "service": "HDInsight.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:5::300/124",
+    "ip_type": "IPv6",
+    "service": "HDInsight.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:402::320/124",
+    "ip_type": "IPv6",
+    "service": "HDInsight.GermanyNorth",
+    "region": "germanyn"
+  }
+]

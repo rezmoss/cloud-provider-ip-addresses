@@ -1,0 +1,62 @@
+[
+  {
+    "ip_address": "68.221.80.40/29",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.98.114/31",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.107.0/28",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.107.216/29",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.146.88/31",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.157.72/31",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403::1c0/123",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:400::108/125",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:800::18/125",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:c00::58/125",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.SpainCentral",
+    "region": "spaincentral"
+  }
+]

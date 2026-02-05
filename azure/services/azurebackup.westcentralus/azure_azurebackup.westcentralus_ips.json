@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "13.71.195.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "13.71.195.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "20.69.1.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:402::200/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.WestCentralUS",
+    "region": "westcentralus"
+  }
+]

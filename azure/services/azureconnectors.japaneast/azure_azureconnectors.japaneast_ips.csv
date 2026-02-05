@@ -1,0 +1,13 @@
+ip_address,ip_type,service,region
+13.71.128.159/32,IPv4,AzureConnectors.JapanEast,japaneast
+13.71.153.19/32,IPv4,AzureConnectors.JapanEast,japaneast
+13.73.21.230/32,IPv4,AzureConnectors.JapanEast,japaneast
+13.78.108.0/28,IPv4,AzureConnectors.JapanEast,japaneast
+20.89.11.48/28,IPv4,AzureConnectors.JapanEast,japaneast
+20.89.11.64/27,IPv4,AzureConnectors.JapanEast,japaneast
+20.89.163.9/32,IPv4,AzureConnectors.JapanEast,japaneast
+20.89.163.17/32,IPv4,AzureConnectors.JapanEast,japaneast
+20.89.163.219/32,IPv4,AzureConnectors.JapanEast,japaneast
+20.89.165.31/32,IPv4,AzureConnectors.JapanEast,japaneast
+40.79.189.64/27,IPv4,AzureConnectors.JapanEast,japaneast
+2603:1040:407:402::180/122,IPv6,AzureConnectors.JapanEast,japaneast

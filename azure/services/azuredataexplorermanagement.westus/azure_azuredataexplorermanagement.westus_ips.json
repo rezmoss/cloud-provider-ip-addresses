@@ -1,0 +1,32 @@
+[
+  {
+    "ip_address": "13.64.38.225/32",
+    "ip_type": "IPv4",
+    "service": "AzureDataExplorerManagement.WestUS",
+    "region": "westus"
+  },
+  {
+    "ip_address": "13.86.219.64/28",
+    "ip_type": "IPv4",
+    "service": "AzureDataExplorerManagement.WestUS",
+    "region": "westus"
+  },
+  {
+    "ip_address": "20.59.81.128/28",
+    "ip_type": "IPv4",
+    "service": "AzureDataExplorerManagement.WestUS",
+    "region": "westus"
+  },
+  {
+    "ip_address": "2603:1030:a07:1::380/121",
+    "ip_type": "IPv6",
+    "service": "AzureDataExplorerManagement.WestUS",
+    "region": "westus"
+  },
+  {
+    "ip_address": "2603:1030:a07:402::8d0/124",
+    "ip_type": "IPv6",
+    "service": "AzureDataExplorerManagement.WestUS",
+    "region": "westus"
+  }
+]

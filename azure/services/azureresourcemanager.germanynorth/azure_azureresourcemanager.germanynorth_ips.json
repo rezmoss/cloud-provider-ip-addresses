@@ -1,0 +1,38 @@
+[
+  {
+    "ip_address": "51.116.52.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "51.116.60.32/28",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "51.116.62.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04::6c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:5::200/120",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:402::280/122",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.GermanyNorth",
+    "region": "germanyn"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "ip_address": "20.187.197.0/29",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.189.108.96/27",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.189.109.88/30",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.189.109.160/27",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "2603:1040:207::700/121",
+    "ip_type": "IPv6",
+    "service": "AzurePortal.EastAsia",
+    "region": "eastasia"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "ip_address": "20.51.1.48/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.NorthCentralUS",
+    "region": "northcentralus"
+  },
+  {
+    "ip_address": "23.100.232.216/32",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.NorthCentralUS",
+    "region": "northcentralus"
+  },
+  {
+    "ip_address": "40.80.184.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.NorthCentralUS",
+    "region": "northcentralus"
+  },
+  {
+    "ip_address": "40.80.188.96/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.NorthCentralUS",
+    "region": "northcentralus"
+  },
+  {
+    "ip_address": "52.162.106.176/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.NorthCentralUS",
+    "region": "northcentralus"
+  },
+  {
+    "ip_address": "52.252.160.26/32",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.NorthCentralUS",
+    "region": "northcentralus"
+  },
+  {
+    "ip_address": "2603:1030:608::300/122",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.NorthCentralUS",
+    "region": "northcentralus"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "ip_address": "68.210.30.96/27",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.AustriaEast",
+    "region": "austriaeast"
+  },
+  {
+    "ip_address": "68.210.160.40/29",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.AustriaEast",
+    "region": "austriaeast"
+  },
+  {
+    "ip_address": "2603:1020:104:4::20/123",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.AustriaEast",
+    "region": "austriaeast"
+  },
+  {
+    "ip_address": "2603:1020:104:6::430/124",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.AustriaEast",
+    "region": "austriaeast"
+  },
+  {
+    "ip_address": "2603:1020:104:6::4a0/123",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.AustriaEast",
+    "region": "austriaeast"
+  }
+]

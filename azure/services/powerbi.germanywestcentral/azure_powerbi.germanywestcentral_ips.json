@@ -1,0 +1,74 @@
+[
+  {
+    "ip_address": "20.52.89.48/30",
+    "ip_type": "IPv4",
+    "service": "PowerBI.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "20.52.95.0/29",
+    "ip_type": "IPv4",
+    "service": "PowerBI.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "20.218.189.224/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "51.116.144.68/31",
+    "ip_type": "IPv4",
+    "service": "PowerBI.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "51.116.144.128/30",
+    "ip_type": "IPv4",
+    "service": "PowerBI.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "51.116.144.136/29",
+    "ip_type": "IPv4",
+    "service": "PowerBI.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "51.116.149.232/29",
+    "ip_type": "IPv4",
+    "service": "PowerBI.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "135.220.93.64/26",
+    "ip_type": "IPv4",
+    "service": "PowerBI.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "2603:1020:c04::/122",
+    "ip_type": "IPv6",
+    "service": "PowerBI.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "2603:1020:c04::40/123",
+    "ip_type": "IPv6",
+    "service": "PowerBI.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "2603:1020:c04:1::5e0/123",
+    "ip_type": "IPv6",
+    "service": "PowerBI.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "2603:1020:c04:1::600/122",
+    "ip_type": "IPv6",
+    "service": "PowerBI.GermanyWestCentral",
+    "region": "germanywc"
+  }
+]

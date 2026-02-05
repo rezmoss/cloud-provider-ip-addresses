@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "20.41.66.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "52.231.112.192/28",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "52.231.112.224/28",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "2603:1040:f05:1::380/121",
+    "ip_type": "IPv6",
+    "service": "AzureEventGrid.KoreaCentral",
+    "region": "koreacentral"
+  }
+]

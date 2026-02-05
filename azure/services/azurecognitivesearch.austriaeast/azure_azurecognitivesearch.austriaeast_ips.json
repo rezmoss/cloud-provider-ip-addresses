@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "68.210.160.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureCognitiveSearch.AustriaEast",
+    "region": "austriaeast"
+  },
+  {
+    "ip_address": "2603:1020:104:3::780/121",
+    "ip_type": "IPv6",
+    "service": "AzureCognitiveSearch.AustriaEast",
+    "region": "austriaeast"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "51.4.130.0/24",
+    "ip_type": "IPv4",
+    "service": "AppService.IsraelNorthwest",
+    "region": "israelnorthwest"
+  },
+  {
+    "ip_address": "2603:1040:1702:1::600/120",
+    "ip_type": "IPv6",
+    "service": "AppService.IsraelNorthwest",
+    "region": "israelnorthwest"
+  }
+]

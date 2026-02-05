@@ -1,0 +1,98 @@
+[
+  {
+    "ip_address": "20.14.27.141/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.WestUS3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "20.14.122.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.WestUS3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "20.14.126.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.WestUS3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "20.14.127.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.WestUS3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "20.125.74.200/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.WestUS3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "20.150.166.192/27",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.WestUS3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "20.150.170.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.WestUS3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "20.150.178.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.WestUS3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "20.150.186.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.WestUS3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "2603:1030:504::60/123",
+    "ip_type": "IPv6",
+    "service": "AzureCosmosDB.WestUS3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "2603:1030:504:8::4c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureCosmosDB.WestUS3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "2603:1030:504:402::c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureCosmosDB.WestUS3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "2603:1030:504:402::280/122",
+    "ip_type": "IPv6",
+    "service": "AzureCosmosDB.WestUS3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "2603:1030:504:402::3c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureCosmosDB.WestUS3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "2603:1030:504:802::200/122",
+    "ip_type": "IPv6",
+    "service": "AzureCosmosDB.WestUS3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "2603:1030:504:c02::3c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureCosmosDB.WestUS3",
+    "region": "westus3"
+  }
+]

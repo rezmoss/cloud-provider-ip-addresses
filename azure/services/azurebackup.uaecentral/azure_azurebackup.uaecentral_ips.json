@@ -1,0 +1,32 @@
+[
+  {
+    "ip_address": "20.37.75.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.UAECentral",
+    "region": "uaecentral"
+  },
+  {
+    "ip_address": "20.37.75.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.UAECentral",
+    "region": "uaecentral"
+  },
+  {
+    "ip_address": "20.45.90.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.UAECentral",
+    "region": "uaecentral"
+  },
+  {
+    "ip_address": "2603:1040:b04:2::780/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.UAECentral",
+    "region": "uaecentral"
+  },
+  {
+    "ip_address": "2603:1040:b04:402::200/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.UAECentral",
+    "region": "uaecentral"
+  }
+]

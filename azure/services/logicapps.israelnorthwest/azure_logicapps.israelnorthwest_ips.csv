@@ -1,0 +1,9 @@
+ip_address,ip_type,service,region
+51.4.138.16/28,IPv4,LogicApps.IsraelNorthwest,israelnorthwest
+51.4.138.32/27,IPv4,LogicApps.IsraelNorthwest,israelnorthwest
+51.4.164.32/28,IPv4,LogicApps.IsraelNorthwest,israelnorthwest
+51.4.164.64/27,IPv4,LogicApps.IsraelNorthwest,israelnorthwest
+2603:1040:1702:3::480/124,IPv6,LogicApps.IsraelNorthwest,israelnorthwest
+2603:1040:1702:3::4a0/123,IPv6,LogicApps.IsraelNorthwest,israelnorthwest
+2603:1040:1702:400::330/124,IPv6,LogicApps.IsraelNorthwest,israelnorthwest
+2603:1040:1702:400::340/123,IPv6,LogicApps.IsraelNorthwest,israelnorthwest

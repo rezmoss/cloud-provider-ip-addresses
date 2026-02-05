@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+4.219.249.220/30,IPv4,ActionGroup.NorwayEast,norwaye
+2603:1020:e04:1::128/126,IPv6,ActionGroup.NorwayEast,norwaye
+2603:1020:e04:402::178/125,IPv6,ActionGroup.NorwayEast,norwaye

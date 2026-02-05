@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "70.156.83.160/29",
+    "ip_type": "IPv4",
+    "service": "StorageSyncService.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:400::1e0/123",
+    "ip_type": "IPv6",
+    "service": "StorageSyncService.SpainCentral",
+    "region": "spaincentral"
+  }
+]

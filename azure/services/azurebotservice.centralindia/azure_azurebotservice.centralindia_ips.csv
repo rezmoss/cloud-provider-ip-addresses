@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+20.43.121.8/30,IPv4,AzureBotService.CentralIndia,centralindia
+52.140.104.64/30,IPv4,AzureBotService.CentralIndia,centralindia
+2603:1040:a06:1::20/123,IPv6,AzureBotService.CentralIndia,centralindia

@@ -1,0 +1,6 @@
+ip_address,ip_type,service,region
+20.17.117.0/24,IPv4,EventHub.MalaysiaWest,malaysiawest
+20.17.130.128/26,IPv4,EventHub.MalaysiaWest,malaysiawest
+20.17.168.128/26,IPv4,EventHub.MalaysiaWest,malaysiawest
+20.17.184.128/26,IPv4,EventHub.MalaysiaWest,malaysiawest
+2603:1040:1602:1::/120,IPv6,EventHub.MalaysiaWest,malaysiawest

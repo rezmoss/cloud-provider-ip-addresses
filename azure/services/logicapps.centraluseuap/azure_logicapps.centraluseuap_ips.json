@@ -1,0 +1,50 @@
+[
+  {
+    "ip_address": "20.45.245.152/29",
+    "ip_type": "IPv4",
+    "service": "LogicApps.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.45.245.160/28",
+    "ip_type": "IPv4",
+    "service": "LogicApps.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.45.245.176/29",
+    "ip_type": "IPv4",
+    "service": "LogicApps.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "40.78.204.208/28",
+    "ip_type": "IPv4",
+    "service": "LogicApps.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "40.78.204.224/27",
+    "ip_type": "IPv4",
+    "service": "LogicApps.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "172.215.35.112/28",
+    "ip_type": "IPv4",
+    "service": "LogicApps.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:400::bc0/124",
+    "ip_type": "IPv6",
+    "service": "LogicApps.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:400::be0/123",
+    "ip_type": "IPv6",
+    "service": "LogicApps.CentralUSEUAP",
+    "region": "centraluseuap"
+  }
+]

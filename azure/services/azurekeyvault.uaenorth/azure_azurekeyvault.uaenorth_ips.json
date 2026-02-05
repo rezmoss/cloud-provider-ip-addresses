@@ -1,0 +1,68 @@
+[
+  {
+    "ip_address": "20.38.157.128/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.UAENorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "40.120.74.0/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.UAENorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "40.120.82.104/29",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.UAENorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "40.120.82.112/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.UAENorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "65.52.250.0/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.UAENorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "2603:1040:904::340/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.UAENorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "2603:1040:904:1::108/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.UAENorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "2603:1040:904:1::110/126",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.UAENorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "2603:1040:904:402::80/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.UAENorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "2603:1040:904:802::80/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.UAENorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "2603:1040:904:c02::80/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.UAENorth",
+    "region": "uaenorth"
+  }
+]

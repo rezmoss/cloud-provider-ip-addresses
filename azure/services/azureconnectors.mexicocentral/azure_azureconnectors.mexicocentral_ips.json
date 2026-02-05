@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "68.155.80.0/32",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "68.155.80.2/32",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "158.23.108.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "2603:1030:702:2::80/122",
+    "ip_type": "IPv6",
+    "service": "AzureConnectors.MexicoCentral",
+    "region": "mexicocentral"
+  }
+]

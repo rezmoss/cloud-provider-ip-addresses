@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "70.153.156.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.IndonesiaCentral",
+    "region": "indonesiacentral"
+  },
+  {
+    "ip_address": "2603:1040:1802::300/121",
+    "ip_type": "IPv6",
+    "service": "AzureDigitalTwins.IndonesiaCentral",
+    "region": "indonesiacentral"
+  }
+]

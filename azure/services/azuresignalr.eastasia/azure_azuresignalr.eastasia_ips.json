@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "20.195.72.192/27",
+    "ip_type": "IPv4",
+    "service": "AzureSignalR.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "2603:1040:207:2::600/120",
+    "ip_type": "IPv6",
+    "service": "AzureSignalR.EastAsia",
+    "region": "eastasia"
+  }
+]

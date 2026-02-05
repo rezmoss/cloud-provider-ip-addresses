@@ -1,0 +1,62 @@
+[
+  {
+    "ip_address": "40.79.178.240/28",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "40.79.180.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "52.136.133.184/32",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "52.136.133.215/32",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "52.136.138.178/32",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "52.136.142.154/32",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "52.136.189.16/28",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "52.136.189.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "2603:1020:905:5::3c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureConnectors.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "2603:1020:905:402::180/122",
+    "ip_type": "IPv6",
+    "service": "AzureConnectors.FranceSouth",
+    "region": "southfrance"
+  }
+]

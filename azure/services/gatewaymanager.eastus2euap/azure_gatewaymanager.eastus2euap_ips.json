@@ -1,0 +1,50 @@
+[
+  {
+    "ip_address": "20.39.1.56/32",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "20.39.1.58/32",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "20.39.8.72/29",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "20.39.26.140/32",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "20.39.26.246/32",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "20.47.233.224/27",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "52.138.90.40/29",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "2603:1030:40b:1::40/122",
+    "ip_type": "IPv6",
+    "service": "GatewayManager.EastUS2EUAP",
+    "region": "eastus2euap"
+  }
+]

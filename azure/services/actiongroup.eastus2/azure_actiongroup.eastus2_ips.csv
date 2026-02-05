@@ -1,0 +1,8 @@
+ip_address,ip_type,service,region
+20.7.239.202/32,IPv4,ActionGroup.EastUS2,eastus2
+20.10.122.64/32,IPv4,ActionGroup.EastUS2,eastus2
+20.44.17.220/30,IPv4,ActionGroup.EastUS2,eastus2
+52.184.145.166/32,IPv4,ActionGroup.EastUS2,eastus2
+74.249.127.180/30,IPv4,ActionGroup.EastUS2,eastus2
+2603:1030:40c:1::118/126,IPv6,ActionGroup.EastUS2,eastus2
+2603:1030:40c:402::178/125,IPv6,ActionGroup.EastUS2,eastus2

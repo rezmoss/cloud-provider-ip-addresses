@@ -1,0 +1,7 @@
+ip_address,ip_type,service,region
+51.53.106.76/30,IPv4,ServiceFabric.TaiwanNorth,taiwannorth
+70.157.88.8/30,IPv4,ServiceFabric.TaiwanNorth,taiwannorth
+167.105.104.8/30,IPv4,ServiceFabric.TaiwanNorth,taiwannorth
+2603:1040:1302:400::58/125,IPv6,ServiceFabric.TaiwanNorth,taiwannorth
+2603:1040:1302:800::20/125,IPv6,ServiceFabric.TaiwanNorth,taiwannorth
+2603:1040:1302:c00::20/125,IPv6,ServiceFabric.TaiwanNorth,taiwannorth

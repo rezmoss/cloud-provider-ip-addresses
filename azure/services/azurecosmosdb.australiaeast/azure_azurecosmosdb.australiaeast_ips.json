@@ -1,0 +1,98 @@
+[
+  {
+    "ip_address": "13.70.74.136/29",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "20.40.187.131/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "20.40.187.216/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "20.53.41.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "20.53.91.208/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "20.213.197.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "20.213.199.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "40.79.163.72/29",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "40.79.163.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "40.79.170.48/28",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "40.79.174.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "68.218.120.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "104.210.89.99/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "2603:1010:6:402::c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureCosmosDB.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "2603:1010:6:802::c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureCosmosDB.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "2603:1010:6:c02::c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureCosmosDB.AustraliaEast",
+    "region": "australiaeast"
+  }
+]

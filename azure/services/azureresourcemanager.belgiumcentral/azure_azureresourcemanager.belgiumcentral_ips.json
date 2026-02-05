@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "9.160.48.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1020:1502:1::300/120",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.BelgiumCentral",
+    "region": "belgiumcentral"
+  }
+]

@@ -1,0 +1,6 @@
+ip_address,ip_type,service,region
+51.53.171.0/27,IPv4,AzureCosmosDB.TaiwanNorthwest,taiwannorthwest
+51.53.183.64/26,IPv4,AzureCosmosDB.TaiwanNorthwest,taiwannorthwest
+51.53.186.0/26,IPv4,AzureCosmosDB.TaiwanNorthwest,taiwannorthwest
+2603:1040:1202::1e0/123,IPv6,AzureCosmosDB.TaiwanNorthwest,taiwannorthwest
+2603:1040:1202:400::/122,IPv6,AzureCosmosDB.TaiwanNorthwest,taiwannorthwest

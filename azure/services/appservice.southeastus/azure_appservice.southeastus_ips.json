@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "57.151.217.0/24",
+    "ip_type": "IPv4",
+    "service": "AppService.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1030:902:1::700/120",
+    "ip_type": "IPv6",
+    "service": "AppService.SoutheastUS",
+    "region": "southeastus"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "ip_address": "51.53.172.212/31",
+    "ip_type": "IPv4",
+    "service": "PowerBI.TaiwanNorthwest",
+    "region": "taiwannorthwest"
+  },
+  {
+    "ip_address": "51.53.172.216/30",
+    "ip_type": "IPv4",
+    "service": "PowerBI.TaiwanNorthwest",
+    "region": "taiwannorthwest"
+  },
+  {
+    "ip_address": "51.53.174.144/29",
+    "ip_type": "IPv4",
+    "service": "PowerBI.TaiwanNorthwest",
+    "region": "taiwannorthwest"
+  },
+  {
+    "ip_address": "167.105.182.160/27",
+    "ip_type": "IPv4",
+    "service": "PowerBI.TaiwanNorthwest",
+    "region": "taiwannorthwest"
+  },
+  {
+    "ip_address": "2603:1040:1202:1::1e0/123",
+    "ip_type": "IPv6",
+    "service": "PowerBI.TaiwanNorthwest",
+    "region": "taiwannorthwest"
+  },
+  {
+    "ip_address": "2603:1040:1202:1::380/122",
+    "ip_type": "IPv6",
+    "service": "PowerBI.TaiwanNorthwest",
+    "region": "taiwannorthwest"
+  }
+]

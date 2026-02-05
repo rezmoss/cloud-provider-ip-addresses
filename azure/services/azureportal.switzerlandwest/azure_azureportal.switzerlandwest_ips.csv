@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+51.107.145.128/27,IPv4,AzurePortal.SwitzerlandWest,switzerlandw
+51.107.146.56/30,IPv4,AzurePortal.SwitzerlandWest,switzerlandw
+51.107.149.248/29,IPv4,AzurePortal.SwitzerlandWest,switzerlandw
+2603:1020:b04::700/121,IPv6,AzurePortal.SwitzerlandWest,switzerlandw

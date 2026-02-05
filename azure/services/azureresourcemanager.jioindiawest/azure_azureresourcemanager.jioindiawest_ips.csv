@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+20.193.196.0/23,IPv4,AzureResourceManager.JioIndiaWest,jioindiawest
+20.193.204.0/26,IPv4,AzureResourceManager.JioIndiaWest,jioindiawest
+2603:1040:d04:1::400/120,IPv6,AzureResourceManager.JioIndiaWest,jioindiawest
+2603:1040:d04:400::180/122,IPv6,AzureResourceManager.JioIndiaWest,jioindiawest

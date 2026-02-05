@@ -1,0 +1,74 @@
+[
+  {
+    "ip_address": "51.12.25.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "51.12.99.96/27",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "51.12.99.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "51.12.227.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "51.12.227.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "51.12.235.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "51.12.235.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "2603:1020:1004:1::780/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "2603:1020:1004:400::100/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "2603:1020:1004:400::300/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "2603:1020:1004:800::480/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "2603:1020:1004:c02::200/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.SwedenCentral",
+    "region": "swedencentral"
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "ip_address": "4.202.254.192/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "20.206.178.24/29",
+    "ip_type": "IPv4",
+    "service": "PowerBI.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "20.206.178.48/29",
+    "ip_type": "IPv4",
+    "service": "PowerBI.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "20.206.178.64/27",
+    "ip_type": "IPv4",
+    "service": "PowerBI.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "20.226.212.0/26",
+    "ip_type": "IPv4",
+    "service": "PowerBI.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "74.163.54.96/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "74.163.234.64/26",
+    "ip_type": "IPv4",
+    "service": "PowerBI.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "74.163.254.64/26",
+    "ip_type": "IPv4",
+    "service": "PowerBI.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "191.235.225.152/31",
+    "ip_type": "IPv4",
+    "service": "PowerBI.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "191.235.225.156/30",
+    "ip_type": "IPv4",
+    "service": "PowerBI.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "191.235.225.176/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "191.235.225.192/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "191.235.225.224/27",
+    "ip_type": "IPv4",
+    "service": "PowerBI.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "191.238.72.128/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "191.238.76.176/29",
+    "ip_type": "IPv4",
+    "service": "PowerBI.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "191.238.77.192/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "191.238.77.208/29",
+    "ip_type": "IPv4",
+    "service": "PowerBI.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "191.238.77.216/30",
+    "ip_type": "IPv4",
+    "service": "PowerBI.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "2603:1050:6::/122",
+    "ip_type": "IPv6",
+    "service": "PowerBI.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "2603:1050:6::40/123",
+    "ip_type": "IPv6",
+    "service": "PowerBI.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "2603:1050:6:1::5e0/123",
+    "ip_type": "IPv6",
+    "service": "PowerBI.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "2603:1050:6:1::600/122",
+    "ip_type": "IPv6",
+    "service": "PowerBI.BrazilSouth",
+    "region": "brazilsouth"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "134.138.70.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.EastUS3",
+    "region": "eastus3"
+  },
+  {
+    "ip_address": "134.138.70.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.EastUS3",
+    "region": "eastus3"
+  },
+  {
+    "ip_address": "2603:1030:1402:1::/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.EastUS3",
+    "region": "eastus3"
+  }
+]

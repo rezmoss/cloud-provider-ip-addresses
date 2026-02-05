@@ -1,0 +1,62 @@
+[
+  {
+    "ip_address": "20.17.127.96/27",
+    "ip_type": "IPv4",
+    "service": "Sql.MalaysiaWest",
+    "region": "malaysiawest"
+  },
+  {
+    "ip_address": "20.17.127.128/26",
+    "ip_type": "IPv4",
+    "service": "Sql.MalaysiaWest",
+    "region": "malaysiawest"
+  },
+  {
+    "ip_address": "20.17.131.40/29",
+    "ip_type": "IPv4",
+    "service": "Sql.MalaysiaWest",
+    "region": "malaysiawest"
+  },
+  {
+    "ip_address": "20.17.131.64/27",
+    "ip_type": "IPv4",
+    "service": "Sql.MalaysiaWest",
+    "region": "malaysiawest"
+  },
+  {
+    "ip_address": "20.17.168.24/29",
+    "ip_type": "IPv4",
+    "service": "Sql.MalaysiaWest",
+    "region": "malaysiawest"
+  },
+  {
+    "ip_address": "20.17.168.224/27",
+    "ip_type": "IPv4",
+    "service": "Sql.MalaysiaWest",
+    "region": "malaysiawest"
+  },
+  {
+    "ip_address": "20.17.184.24/29",
+    "ip_type": "IPv4",
+    "service": "Sql.MalaysiaWest",
+    "region": "malaysiawest"
+  },
+  {
+    "ip_address": "20.17.184.224/27",
+    "ip_type": "IPv4",
+    "service": "Sql.MalaysiaWest",
+    "region": "malaysiawest"
+  },
+  {
+    "ip_address": "2603:1040:1602:2::680/123",
+    "ip_type": "IPv6",
+    "service": "Sql.MalaysiaWest",
+    "region": "malaysiawest"
+  },
+  {
+    "ip_address": "2603:1040:1602:2::700/121",
+    "ip_type": "IPv6",
+    "service": "Sql.MalaysiaWest",
+    "region": "malaysiawest"
+  }
+]

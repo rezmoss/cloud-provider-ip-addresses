@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "74.7.40.40/29",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.SoutheastUS3",
+    "region": "southeastus3"
+  },
+  {
+    "ip_address": "2603:1030:1302::1c0/123",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.SoutheastUS3",
+    "region": "southeastus3"
+  }
+]

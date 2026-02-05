@@ -1,0 +1,32 @@
+[
+  {
+    "ip_address": "70.153.157.0/24",
+    "ip_type": "IPv4",
+    "service": "EventHub.IndonesiaCentral",
+    "region": "indonesiacentral"
+  },
+  {
+    "ip_address": "70.153.176.128/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.IndonesiaCentral",
+    "region": "indonesiacentral"
+  },
+  {
+    "ip_address": "70.153.200.128/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.IndonesiaCentral",
+    "region": "indonesiacentral"
+  },
+  {
+    "ip_address": "70.153.216.128/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.IndonesiaCentral",
+    "region": "indonesiacentral"
+  },
+  {
+    "ip_address": "2603:1040:1802::500/120",
+    "ip_type": "IPv6",
+    "service": "EventHub.IndonesiaCentral",
+    "region": "indonesiacentral"
+  }
+]

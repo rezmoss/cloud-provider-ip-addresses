@@ -1,0 +1,62 @@
+[
+  {
+    "ip_address": "20.36.106.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.AustraliaCentral",
+    "region": "australiacentral"
+  },
+  {
+    "ip_address": "20.37.228.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.AustraliaCentral",
+    "region": "australiacentral"
+  },
+  {
+    "ip_address": "20.38.185.29/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.AustraliaCentral",
+    "region": "australiacentral"
+  },
+  {
+    "ip_address": "20.39.65.58/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.AustraliaCentral",
+    "region": "australiacentral"
+  },
+  {
+    "ip_address": "20.39.65.140/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.AustraliaCentral",
+    "region": "australiacentral"
+  },
+  {
+    "ip_address": "20.213.224.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.AustraliaCentral",
+    "region": "australiacentral"
+  },
+  {
+    "ip_address": "20.213.225.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.AustraliaCentral",
+    "region": "australiacentral"
+  },
+  {
+    "ip_address": "20.213.226.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.AustraliaCentral",
+    "region": "australiacentral"
+  },
+  {
+    "ip_address": "2603:1010:304:2::4a0/123",
+    "ip_type": "IPv6",
+    "service": "AzureCosmosDB.AustraliaCentral",
+    "region": "australiacentral"
+  },
+  {
+    "ip_address": "2603:1010:304:402::c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureCosmosDB.AustraliaCentral",
+    "region": "australiacentral"
+  }
+]

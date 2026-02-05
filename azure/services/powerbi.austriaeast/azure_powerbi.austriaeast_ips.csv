@@ -1,0 +1,8 @@
+ip_address,ip_type,service,region
+68.210.172.148/31,IPv4,PowerBI.AustriaEast,austriaeast
+68.210.172.184/30,IPv4,PowerBI.AustriaEast,austriaeast
+68.210.173.160/29,IPv4,PowerBI.AustriaEast,austriaeast
+68.210.182.48/28,IPv4,PowerBI.AustriaEast,austriaeast
+68.210.182.192/28,IPv4,PowerBI.AustriaEast,austriaeast
+2603:1020:104:3::140/122,IPv6,PowerBI.AustriaEast,austriaeast
+2603:1020:104:3::180/123,IPv6,PowerBI.AustriaEast,austriaeast

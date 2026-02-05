@@ -1,0 +1,7 @@
+ip_address,ip_type,service,region
+20.90.36.64/27,IPv4,GatewayManager.UKWest,ukwest
+51.137.160.72/29,IPv4,GatewayManager.UKWest,ukwest
+51.140.210.200/29,IPv4,GatewayManager.UKWest,ukwest
+52.142.152.114/32,IPv4,GatewayManager.UKWest,ukwest
+52.142.154.100/32,IPv4,GatewayManager.UKWest,ukwest
+2603:1020:605::40/122,IPv6,GatewayManager.UKWest,ukwest

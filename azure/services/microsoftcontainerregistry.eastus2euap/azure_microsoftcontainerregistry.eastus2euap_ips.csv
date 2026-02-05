@@ -1,0 +1,9 @@
+ip_address,ip_type,service,region
+40.74.146.40/29,IPv4,MicrosoftContainerRegistry.EastUS2EUAP,eastus2euap
+40.75.34.24/29,IPv4,MicrosoftContainerRegistry.EastUS2EUAP,eastus2euap
+52.138.90.24/29,IPv4,MicrosoftContainerRegistry.EastUS2EUAP,eastus2euap
+68.220.82.64/29,IPv4,MicrosoftContainerRegistry.EastUS2EUAP,eastus2euap
+2603:1030:40b:400::888/125,IPv6,MicrosoftContainerRegistry.EastUS2EUAP,eastus2euap
+2603:1030:40b:800::88/125,IPv6,MicrosoftContainerRegistry.EastUS2EUAP,eastus2euap
+2603:1030:40b:c00::88/125,IPv6,MicrosoftContainerRegistry.EastUS2EUAP,eastus2euap
+2603:1030:40b:1000::/125,IPv6,MicrosoftContainerRegistry.EastUS2EUAP,eastus2euap

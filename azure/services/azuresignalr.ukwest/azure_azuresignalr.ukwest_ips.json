@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "20.90.37.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureSignalR.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:2::100/120",
+    "ip_type": "IPv6",
+    "service": "AzureSignalR.UKWest",
+    "region": "ukwest"
+  }
+]

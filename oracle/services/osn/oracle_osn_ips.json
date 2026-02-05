@@ -444,6 +444,12 @@
     "region": "ca-montreal-1"
   },
   {
+    "ip_address": "92.4.228.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "me-jeddah-1"
+  },
+  {
     "ip_address": "140.91.42.0/23",
     "ip_type": "IPv4",
     "service": "OSN",
@@ -1813,6 +1819,12 @@
   },
   {
     "ip_address": "140.204.42.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-melbourne-1"
+  },
+  {
+    "ip_address": "149.118.92.0/22",
     "ip_type": "IPv4",
     "service": "OSN",
     "region": "ap-melbourne-1"

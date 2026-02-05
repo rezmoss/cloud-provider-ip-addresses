@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "20.17.113.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.MalaysiaWest",
+    "region": "malaysiawest"
+  },
+  {
+    "ip_address": "2603:1040:1602::200/122",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.MalaysiaWest",
+    "region": "malaysiawest"
+  }
+]

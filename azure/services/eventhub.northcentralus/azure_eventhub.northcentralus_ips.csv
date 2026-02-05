@@ -1,0 +1,8 @@
+ip_address,ip_type,service,region
+20.51.3.0/24,IPv4,EventHub.NorthCentralUS,northcentralus
+20.125.171.64/26,IPv4,EventHub.NorthCentralUS,northcentralus
+20.125.203.64/26,IPv4,EventHub.NorthCentralUS,northcentralus
+52.162.106.64/26,IPv4,EventHub.NorthCentralUS,northcentralus
+2603:1030:608::240/122,IPv6,EventHub.NorthCentralUS,northcentralus
+2603:1030:608:1::600/120,IPv6,EventHub.NorthCentralUS,northcentralus
+2603:1030:608:402::1c0/123,IPv6,EventHub.NorthCentralUS,northcentralus

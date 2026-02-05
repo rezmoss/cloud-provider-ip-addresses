@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "51.107.99.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "51.107.145.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "2603:1020:b04::380/121",
+    "ip_type": "IPv6",
+    "service": "AzureEventGrid.SwitzerlandWest",
+    "region": "switzerlandw"
+  }
+]

@@ -6,6 +6,12 @@
     "region": "ca-montreal-1"
   },
   {
+    "ip_address": "147.15.128.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ca-montreal-1"
+  },
+  {
     "ip_address": "148.116.64.0/19",
     "ip_type": "IPv4",
     "service": "OCI",

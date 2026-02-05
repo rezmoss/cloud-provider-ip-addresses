@@ -1,0 +1,8 @@
+ip_address,ip_type,service,region
+51.116.54.76/30,IPv4,AzureKeyVault.GermanyNorth,germanyn
+51.116.55.88/29,IPv4,AzureKeyVault.GermanyNorth,germanyn
+51.116.58.0/30,IPv4,AzureKeyVault.GermanyNorth,germanyn
+2603:1020:d04::100/125,IPv6,AzureKeyVault.GermanyNorth,germanyn
+2603:1020:d04::108/126,IPv6,AzureKeyVault.GermanyNorth,germanyn
+2603:1020:d04::2a0/125,IPv6,AzureKeyVault.GermanyNorth,germanyn
+2603:1020:d04:402::80/125,IPv6,AzureKeyVault.GermanyNorth,germanyn

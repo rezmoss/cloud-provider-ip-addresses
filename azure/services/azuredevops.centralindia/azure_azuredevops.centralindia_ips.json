@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "4.188.8.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureDevOps.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "4.247.191.228/30",
+    "ip_type": "IPv4",
+    "service": "AzureDevOps.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "20.204.197.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureDevOps.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "2603:1040:a06:c::80/122",
+    "ip_type": "IPv6",
+    "service": "AzureDevOps.CentralIndia",
+    "region": "centralindia"
+  }
+]

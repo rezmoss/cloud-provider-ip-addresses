@@ -21,6 +21,7 @@ INSERT INTO `oracle_sa-saopaulo-1_ips` (`ip_address`, `ip_type`) VALUES ('144.22
 INSERT INTO `oracle_sa-saopaulo-1_ips` (`ip_address`, `ip_type`) VALUES ('144.22.128.0/17', 'IPv4');
 INSERT INTO `oracle_sa-saopaulo-1_ips` (`ip_address`, `ip_type`) VALUES ('146.235.24.0/21', 'IPv4');
 INSERT INTO `oracle_sa-saopaulo-1_ips` (`ip_address`, `ip_type`) VALUES ('146.235.32.0/19', 'IPv4');
+INSERT INTO `oracle_sa-saopaulo-1_ips` (`ip_address`, `ip_type`) VALUES ('147.15.0.0/17', 'IPv4');
 INSERT INTO `oracle_sa-saopaulo-1_ips` (`ip_address`, `ip_type`) VALUES ('150.230.64.0/19', 'IPv4');
 INSERT INTO `oracle_sa-saopaulo-1_ips` (`ip_address`, `ip_type`) VALUES ('150.230.224.0/21', 'IPv4');
 INSERT INTO `oracle_sa-saopaulo-1_ips` (`ip_address`, `ip_type`) VALUES ('152.67.32.0/19', 'IPv4');

@@ -1,0 +1,7 @@
+ip_address,ip_type,service,region
+20.36.114.176/28,IPv4,AzureConnectors.AustraliaCentral2,australiacentral2
+20.36.117.160/27,IPv4,AzureConnectors.AustraliaCentral2,australiacentral2
+20.53.60.16/28,IPv4,AzureConnectors.AustraliaCentral2,australiacentral2
+20.53.60.32/27,IPv4,AzureConnectors.AustraliaCentral2,australiacentral2
+2603:1010:404:5::480/122,IPv6,AzureConnectors.AustraliaCentral2,australiacentral2
+2603:1010:404:402::180/122,IPv6,AzureConnectors.AustraliaCentral2,australiacentral2

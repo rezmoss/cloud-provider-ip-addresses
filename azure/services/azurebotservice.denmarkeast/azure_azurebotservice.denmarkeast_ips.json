@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "9.205.32.16/30",
+    "ip_type": "IPv4",
+    "service": "AzureBotService.DenmarkEast",
+    "region": "denmarkeast"
+  },
+  {
+    "ip_address": "2603:1020:1602::20/123",
+    "ip_type": "IPv6",
+    "service": "AzureBotService.DenmarkEast",
+    "region": "denmarkeast"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "ip_address": "52.240.241.96/27",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.NorthCentralUS",
+    "region": "northcentralus"
+  },
+  {
+    "ip_address": "130.213.0.96/27",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.NorthCentralUS",
+    "region": "northcentralus"
+  },
+  {
+    "ip_address": "130.213.0.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.NorthCentralUS",
+    "region": "northcentralus"
+  },
+  {
+    "ip_address": "130.213.1.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.NorthCentralUS",
+    "region": "northcentralus"
+  },
+  {
+    "ip_address": "130.213.2.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.NorthCentralUS",
+    "region": "northcentralus"
+  },
+  {
+    "ip_address": "130.213.4.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.NorthCentralUS",
+    "region": "northcentralus"
+  }
+]

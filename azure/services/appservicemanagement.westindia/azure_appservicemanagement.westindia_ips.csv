@@ -1,0 +1,7 @@
+ip_address,ip_type,service,region
+20.192.84.144/28,IPv4,AppServiceManagement.WestIndia,westindia
+104.211.146.128/26,IPv4,AppServiceManagement.WestIndia,westindia
+104.211.160.229/32,IPv4,AppServiceManagement.WestIndia,westindia
+2603:1040:806:1::2a0/123,IPv6,AppServiceManagement.WestIndia,westindia
+2603:1040:806:6::/122,IPv6,AppServiceManagement.WestIndia,westindia
+2603:1040:806:402::100/122,IPv6,AppServiceManagement.WestIndia,westindia

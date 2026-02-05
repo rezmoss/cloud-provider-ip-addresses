@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "20.44.2.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "20.45.115.160/27",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.SouthCentralUSSTG",
+    "region": "usstagec"
+  }
+]

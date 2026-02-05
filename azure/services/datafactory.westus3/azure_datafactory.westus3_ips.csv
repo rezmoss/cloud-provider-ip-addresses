@@ -1,0 +1,16 @@
+ip_address,ip_type,service,region
+13.104.253.48/28,IPv4,DataFactory.WestUS3,westus3
+20.118.139.200/29,IPv4,DataFactory.WestUS3,westus3
+20.125.156.16/29,IPv4,DataFactory.WestUS3,westus3
+20.150.162.0/23,IPv4,DataFactory.WestUS3,westus3
+20.150.173.16/28,IPv4,DataFactory.WestUS3,westus3
+20.150.181.112/28,IPv4,DataFactory.WestUS3,westus3
+20.150.190.64/28,IPv4,DataFactory.WestUS3,westus3
+57.154.62.0/27,IPv4,DataFactory.WestUS3,westus3
+2603:1030:504:1::480/121,IPv6,DataFactory.WestUS3,westus3
+2603:1030:504:1::500/122,IPv6,DataFactory.WestUS3,westus3
+2603:1030:504:1::700/121,IPv6,DataFactory.WestUS3,westus3
+2603:1030:504:1::780/122,IPv6,DataFactory.WestUS3,westus3
+2603:1030:504:402::240/124,IPv6,DataFactory.WestUS3,westus3
+2603:1030:504:802::340/124,IPv6,DataFactory.WestUS3,westus3
+2603:1030:504:c02::380/124,IPv6,DataFactory.WestUS3,westus3

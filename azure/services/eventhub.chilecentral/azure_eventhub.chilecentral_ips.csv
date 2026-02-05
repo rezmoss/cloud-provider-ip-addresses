@@ -1,0 +1,6 @@
+ip_address,ip_type,service,region
+68.211.6.0/24,IPv4,EventHub.ChileCentral,chilec
+68.211.152.128/26,IPv4,EventHub.ChileCentral,chilec
+68.211.168.128/26,IPv4,EventHub.ChileCentral,chilec
+68.211.184.128/26,IPv4,EventHub.ChileCentral,chilec
+2603:1050:301::700/120,IPv6,EventHub.ChileCentral,chilec

@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "13.70.78.176/28",
+    "ip_type": "IPv4",
+    "service": "AzureDevSpaces.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "20.37.195.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureDevSpaces.AustraliaEast",
+    "region": "australiaeast"
+  }
+]

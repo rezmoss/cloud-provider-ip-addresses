@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "20.192.166.188/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "135.235.62.96/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "2603:1040:d04:1::720/123",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.JioIndiaWest",
+    "region": "jioindiawest"
+  }
+]

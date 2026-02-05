@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "20.215.7.0/27",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "2603:1020:1302:1::380/121",
+    "ip_type": "IPv6",
+    "service": "AzurePortal.PolandCentral",
+    "region": "polandcentral"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "9.205.52.88/29",
+    "ip_type": "IPv4",
+    "service": "StorageSyncService.DenmarkEast",
+    "region": "denmarkeast"
+  },
+  {
+    "ip_address": "9.205.75.40/29",
+    "ip_type": "IPv4",
+    "service": "StorageSyncService.DenmarkEast",
+    "region": "denmarkeast"
+  },
+  {
+    "ip_address": "2603:1020:1602:4::/123",
+    "ip_type": "IPv6",
+    "service": "StorageSyncService.DenmarkEast",
+    "region": "denmarkeast"
+  },
+  {
+    "ip_address": "2603:1020:1602:400::220/123",
+    "ip_type": "IPv6",
+    "service": "StorageSyncService.DenmarkEast",
+    "region": "denmarkeast"
+  }
+]

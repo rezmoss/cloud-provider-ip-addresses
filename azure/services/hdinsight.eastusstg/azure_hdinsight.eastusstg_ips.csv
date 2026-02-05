@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+40.67.50.248/29,IPv4,HDInsight.EastUSSTG,usstagee
+40.67.60.64/29,IPv4,HDInsight.EastUSSTG,usstagee
+2603:1030:104::7b0/124,IPv6,HDInsight.EastUSSTG,usstagee
+2603:1030:104:402::320/124,IPv6,HDInsight.EastUSSTG,usstagee

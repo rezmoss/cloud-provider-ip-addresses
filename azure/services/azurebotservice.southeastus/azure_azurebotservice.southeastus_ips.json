@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "57.151.208.16/30",
+    "ip_type": "IPv4",
+    "service": "AzureBotService.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1030:902::20/123",
+    "ip_type": "IPv6",
+    "service": "AzureBotService.SoutheastUS",
+    "region": "southeastus"
+  }
+]

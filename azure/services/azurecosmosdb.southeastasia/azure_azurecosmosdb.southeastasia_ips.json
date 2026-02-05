@@ -1,0 +1,98 @@
+[
+  {
+    "ip_address": "4.194.225.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "4.194.225.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "13.67.8.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "20.24.6.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "20.195.58.26/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "23.98.82.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "23.98.107.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "40.65.169.181/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "40.78.236.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "40.119.215.63/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "52.148.84.234/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "52.163.63.20/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "52.230.3.213/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "2603:1040:5:402::c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureCosmosDB.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "2603:1040:5:802::c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureCosmosDB.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "2603:1040:5:c02::c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureCosmosDB.SoutheastAsia",
+    "region": "southeastasia"
+  }
+]

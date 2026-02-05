@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+4.232.28.24/30,IPv4,AzureAttestation.ItalyNorth,italynorth
+9.235.70.112/29,IPv4,AzureAttestation.ItalyNorth,italynorth
+2603:1020:1204::5e0/124,IPv6,AzureAttestation.ItalyNorth,italynorth

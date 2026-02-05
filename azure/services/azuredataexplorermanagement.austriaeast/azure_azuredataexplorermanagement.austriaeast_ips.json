@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "68.210.166.128/28",
+    "ip_type": "IPv4",
+    "service": "AzureDataExplorerManagement.AustriaEast",
+    "region": "austriaeast"
+  },
+  {
+    "ip_address": "2603:1020:104:5::20/123",
+    "ip_type": "IPv6",
+    "service": "AzureDataExplorerManagement.AustriaEast",
+    "region": "austriaeast"
+  }
+]

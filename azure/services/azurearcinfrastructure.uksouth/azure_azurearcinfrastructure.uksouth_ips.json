@@ -1,0 +1,50 @@
+[
+  {
+    "ip_address": "51.104.15.254/32",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "51.104.28.216/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "51.104.31.172/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "51.105.71.144/31",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "51.105.77.50/31",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "51.140.151.168/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "172.167.234.102/31",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "172.167.236.56/29",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.UKSouth",
+    "region": "uksouth"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "ip_address": "9.205.43.242/31",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.DenmarkEast",
+    "region": "denmarkeast"
+  },
+  {
+    "ip_address": "9.205.45.208/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.DenmarkEast",
+    "region": "denmarkeast"
+  },
+  {
+    "ip_address": "9.205.45.216/30",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.DenmarkEast",
+    "region": "denmarkeast"
+  },
+  {
+    "ip_address": "9.205.48.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.DenmarkEast",
+    "region": "denmarkeast"
+  },
+  {
+    "ip_address": "9.205.50.56/30",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.DenmarkEast",
+    "region": "denmarkeast"
+  },
+  {
+    "ip_address": "9.205.59.96/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.DenmarkEast",
+    "region": "denmarkeast"
+  },
+  {
+    "ip_address": "9.205.62.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.DenmarkEast",
+    "region": "denmarkeast"
+  },
+  {
+    "ip_address": "9.205.62.64/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.DenmarkEast",
+    "region": "denmarkeast"
+  },
+  {
+    "ip_address": "9.205.74.136/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.DenmarkEast",
+    "region": "denmarkeast"
+  },
+  {
+    "ip_address": "9.205.74.240/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.DenmarkEast",
+    "region": "denmarkeast"
+  },
+  {
+    "ip_address": "9.205.98.136/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.DenmarkEast",
+    "region": "denmarkeast"
+  },
+  {
+    "ip_address": "9.205.98.240/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.DenmarkEast",
+    "region": "denmarkeast"
+  },
+  {
+    "ip_address": "9.205.114.136/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.DenmarkEast",
+    "region": "denmarkeast"
+  },
+  {
+    "ip_address": "9.205.114.240/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.DenmarkEast",
+    "region": "denmarkeast"
+  },
+  {
+    "ip_address": "2603:1020:1601:8::f/128",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.DenmarkEast",
+    "region": "denmarkeast"
+  },
+  {
+    "ip_address": "2603:1020:1601:8::18/128",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.DenmarkEast",
+    "region": "denmarkeast"
+  },
+  {
+    "ip_address": "2603:1020:1602:2::480/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.DenmarkEast",
+    "region": "denmarkeast"
+  },
+  {
+    "ip_address": "2603:1020:1602:2::500/120",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.DenmarkEast",
+    "region": "denmarkeast"
+  },
+  {
+    "ip_address": "2603:1020:1602:4::3d0/124",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.DenmarkEast",
+    "region": "denmarkeast"
+  },
+  {
+    "ip_address": "2603:1020:1602:4::580/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.DenmarkEast",
+    "region": "denmarkeast"
+  }
+]

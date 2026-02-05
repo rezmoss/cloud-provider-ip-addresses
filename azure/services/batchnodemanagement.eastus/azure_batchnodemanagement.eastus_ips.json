@@ -1,0 +1,110 @@
+[
+  {
+    "ip_address": "13.92.114.103/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "20.42.6.224/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "23.96.12.112/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "23.96.101.73/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "23.96.109.140/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "40.71.12.192/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "40.78.227.0/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "40.79.154.32/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "40.88.48.36/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "52.188.222.115/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "104.41.129.99/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "137.117.45.176/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "137.117.109.143/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "168.62.36.128/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "168.62.168.27/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "191.236.37.239/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "191.236.38.142/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "2603:1030:210:1::340/122",
+    "ip_type": "IPv6",
+    "service": "BatchNodeManagement.EastUS",
+    "region": "eastus"
+  }
+]

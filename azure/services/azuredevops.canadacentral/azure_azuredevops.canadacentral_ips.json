@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "52.228.82.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureDevOps.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "2603:1030:f05:b::700/120",
+    "ip_type": "IPv6",
+    "service": "AzureDevOps.CanadaCentral",
+    "region": "canadacentral"
+  }
+]

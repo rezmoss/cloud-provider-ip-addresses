@@ -1,0 +1,11 @@
+ip_address,ip_type,service,region
+70.153.167.64/27,IPv4,Sql.IndonesiaCentral,indonesiacentral
+70.153.167.128/26,IPv4,Sql.IndonesiaCentral,indonesiacentral
+70.153.177.32/27,IPv4,Sql.IndonesiaCentral,indonesiacentral
+70.153.177.64/29,IPv4,Sql.IndonesiaCentral,indonesiacentral
+70.153.200.24/29,IPv4,Sql.IndonesiaCentral,indonesiacentral
+70.153.202.128/27,IPv4,Sql.IndonesiaCentral,indonesiacentral
+70.153.216.24/29,IPv4,Sql.IndonesiaCentral,indonesiacentral
+70.153.218.128/27,IPv4,Sql.IndonesiaCentral,indonesiacentral
+2603:1040:1802:2::480/123,IPv6,Sql.IndonesiaCentral,indonesiacentral
+2603:1040:1802:2::500/121,IPv6,Sql.IndonesiaCentral,indonesiacentral

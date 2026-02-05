@@ -1,0 +1,182 @@
+[
+  {
+    "ip_address": "20.111.79.112/28",
+    "ip_type": "IPv4",
+    "service": "LogicApps.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "40.79.180.160/27",
+    "ip_type": "IPv4",
+    "service": "LogicApps.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "40.79.180.192/28",
+    "ip_type": "IPv4",
+    "service": "LogicApps.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "51.138.152.26/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "51.138.152.46/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "51.138.152.107/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "51.138.152.141/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "51.138.152.170/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "51.138.153.24/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "51.138.153.121/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "51.138.154.125/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "51.138.154.137/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "51.138.154.147/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "51.138.154.153/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "51.138.154.167/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "51.138.154.171/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "51.138.154.191/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "51.138.154.241/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "51.138.155.43/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "52.136.133.225/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "52.136.134.128/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "52.136.135.74/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "52.136.139.71/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "52.136.139.96/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "52.136.143.218/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "52.136.191.88/29",
+    "ip_type": "IPv4",
+    "service": "LogicApps.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "52.136.191.224/28",
+    "ip_type": "IPv4",
+    "service": "LogicApps.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "52.136.191.240/29",
+    "ip_type": "IPv4",
+    "service": "LogicApps.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "2603:1020:905:402::3c0/124",
+    "ip_type": "IPv6",
+    "service": "LogicApps.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "2603:1020:905:402::3e0/123",
+    "ip_type": "IPv6",
+    "service": "LogicApps.FranceSouth",
+    "region": "southfrance"
+  }
+]

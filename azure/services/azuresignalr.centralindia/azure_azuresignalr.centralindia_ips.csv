@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+20.192.44.64/27,IPv4,AzureSignalR.CentralIndia,centralindia
+40.80.53.32/27,IPv4,AzureSignalR.CentralIndia,centralindia
+57.159.87.64/27,IPv4,AzureSignalR.CentralIndia,centralindia
+2603:1040:a06:3::/120,IPv6,AzureSignalR.CentralIndia,centralindia

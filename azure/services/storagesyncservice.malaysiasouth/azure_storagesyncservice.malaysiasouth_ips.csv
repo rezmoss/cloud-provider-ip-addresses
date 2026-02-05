@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+20.17.67.240/29,IPv4,StorageSyncService.MalaysiaSouth,malaysiasouth
+85.211.78.80/29,IPv4,StorageSyncService.MalaysiaSouth,malaysiasouth
+2603:1040:1503:5::700/123,IPv6,StorageSyncService.MalaysiaSouth,malaysiasouth
+2603:1040:1503:400::260/123,IPv6,StorageSyncService.MalaysiaSouth,malaysiasouth

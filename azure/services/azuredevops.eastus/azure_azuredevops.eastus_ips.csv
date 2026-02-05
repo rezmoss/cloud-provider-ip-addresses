@@ -1,0 +1,3 @@
+ip_address,ip_type,service,region
+20.42.5.0/24,IPv4,AzureDevOps.EastUS,eastus
+2603:1030:210:2b::200/120,IPv6,AzureDevOps.EastUS,eastus

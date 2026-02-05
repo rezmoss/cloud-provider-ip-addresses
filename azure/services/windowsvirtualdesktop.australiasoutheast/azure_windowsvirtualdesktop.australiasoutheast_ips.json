@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "40.64.146.64/28",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  },
+  {
+    "ip_address": "2603:1061:2010:1::/117",
+    "ip_type": "IPv6",
+    "service": "WindowsVirtualDesktop.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  }
+]

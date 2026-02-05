@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+51.12.193.20/30,IPv4,AzurePortal.SwedenSouth,swedensouth
+51.12.193.160/27,IPv4,AzurePortal.SwedenSouth,swedensouth
+51.12.194.104/29,IPv4,AzurePortal.SwedenSouth,swedensouth
+2603:1020:1104::780/121,IPv6,AzurePortal.SwedenSouth,swedensouth

@@ -1,0 +1,7 @@
+ip_address,ip_type,service,region
+40.69.106.32/27,IPv4,EventHub.CanadaEast,canadaeast
+40.69.117.64/26,IPv4,EventHub.CanadaEast,canadaeast
+52.139.109.0/24,IPv4,EventHub.CanadaEast,canadaeast
+2603:1030:1005::240/122,IPv6,EventHub.CanadaEast,canadaeast
+2603:1030:1005:2::/120,IPv6,EventHub.CanadaEast,canadaeast
+2603:1030:1005:402::1c0/123,IPv6,EventHub.CanadaEast,canadaeast

@@ -1,0 +1,578 @@
+[
+  {
+    "ip_address": "4.238.0.0/17",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "13.105.27.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "13.105.36.48/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "13.105.36.96/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "13.105.52.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "20.20.32.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "20.40.32.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "20.135.76.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "20.150.73.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "20.150.80.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "20.150.123.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "20.157.42.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "20.157.189.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "20.157.198.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "20.195.128.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "20.195.144.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "20.206.0.0/18",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "20.209.210.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "20.231.128.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "23.97.112.192/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "23.97.116.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "23.97.120.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "40.64.183.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "40.79.204.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "40.93.22.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "40.100.63.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "40.107.205.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "40.107.206.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "40.123.128.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "40.126.207.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "48.212.1.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "48.212.175.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "48.213.47.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "52.101.199.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "52.101.200.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "52.102.148.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "52.103.22.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "52.103.147.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "52.106.16.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "52.106.120.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "52.108.111.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "52.108.112.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "52.109.164.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "52.111.207.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "52.112.206.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "52.123.29.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "52.123.182.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "52.253.197.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "70.152.3.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "70.152.234.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "108.140.0.0/16",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "135.130.178.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "151.206.87.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "191.232.16.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "191.233.8.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "191.233.48.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "191.233.160.0/19",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "191.234.224.0/19",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "191.237.224.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "2603:1046:a00:45::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "2603:1050:400::/48",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "2603:1050:402::/48",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "2603:1050:403::/48",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "2603:1050:404::/47",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "2603:1056:1403::/48",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "2603:1056:1500:4::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "2603:1056:2000:60::/59",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "2603:1057:2:60::/59",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "2603:1061:1002::/48",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "2603:1061:1315:800::/54",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "2603:1061:172f::/48",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "2603:1061:2000:400::/62",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "2603:1061:2002:1000::/57",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "2603:1061:2004::/57",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "2603:1061:2010:2f::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "2603:1061:2011:2f::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "2603:1063:e::/56",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "2603:1063:10b::/55",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "2603:1063:10b:200::/56",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "2603:1063:20b::/55",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "2603:1063:402::/56",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "2603:1063:603::/56",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "2603:1063:705::/56",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "2603:1063:2204:4::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "2603:1063:2431::/48",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "2603:1063:2631::/48",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "2603:1063:282f::/48",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "2603:1063:2a2f::/48",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "2a01:111:f403:c106::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "2a01:111:f403:c94b::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "2a01:111:f403:c94c::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "2a01:111:f403:c959::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "2a01:111:f403:c95a::/63",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "2a01:111:f403:d113::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "2a01:111:f403:d91a::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "2a01:111:f403:e01d::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  }
+]

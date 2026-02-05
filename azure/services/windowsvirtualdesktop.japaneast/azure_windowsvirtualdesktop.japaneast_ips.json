@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "40.64.146.32/28",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.JapanEast",
+    "region": "japaneast"
+  },
+  {
+    "ip_address": "2603:1061:2010:d::/117",
+    "ip_type": "IPv6",
+    "service": "WindowsVirtualDesktop.JapanEast",
+    "region": "japaneast"
+  }
+]

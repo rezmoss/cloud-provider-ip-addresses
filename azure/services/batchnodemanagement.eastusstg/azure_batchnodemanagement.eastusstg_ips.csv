@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+20.49.83.64/27,IPv4,BatchNodeManagement.EastUSSTG,usstagee
+40.67.49.160/27,IPv4,BatchNodeManagement.EastUSSTG,usstagee
+40.67.60.0/27,IPv4,BatchNodeManagement.EastUSSTG,usstagee
+2603:1030:104:1::340/122,IPv6,BatchNodeManagement.EastUSSTG,usstagee

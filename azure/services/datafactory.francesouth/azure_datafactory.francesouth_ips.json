@@ -1,0 +1,62 @@
+[
+  {
+    "ip_address": "4.251.231.24/29",
+    "ip_type": "IPv4",
+    "service": "DataFactory.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "4.251.231.32/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "40.80.96.200/29",
+    "ip_type": "IPv4",
+    "service": "DataFactory.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "51.105.92.176/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "51.105.93.64/26",
+    "ip_type": "IPv4",
+    "service": "DataFactory.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "51.105.93.128/25",
+    "ip_type": "IPv4",
+    "service": "DataFactory.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "51.138.160.16/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "2603:1020:905::440/122",
+    "ip_type": "IPv6",
+    "service": "DataFactory.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "2603:1020:905::500/121",
+    "ip_type": "IPv6",
+    "service": "DataFactory.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "2603:1020:905:402::330/124",
+    "ip_type": "IPv6",
+    "service": "DataFactory.FranceSouth",
+    "region": "southfrance"
+  }
+]

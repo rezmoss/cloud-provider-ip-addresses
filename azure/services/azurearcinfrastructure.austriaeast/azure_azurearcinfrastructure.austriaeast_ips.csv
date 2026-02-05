@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+68.210.29.64/32,IPv4,AzureArcInfrastructure.AustriaEast,austriaeast
+68.210.152.56/32,IPv4,AzureArcInfrastructure.AustriaEast,austriaeast
+68.210.172.144/30,IPv4,AzureArcInfrastructure.AustriaEast,austriaeast
+2603:1020:104:6::80/124,IPv6,AzureArcInfrastructure.AustriaEast,austriaeast

@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+51.107.144.64/30,IPv4,AzureBotService.SwitzerlandWest,switzerlandw
+51.107.154.4/30,IPv4,AzureBotService.SwitzerlandWest,switzerlandw
+2603:1020:b04::20/123,IPv6,AzureBotService.SwitzerlandWest,switzerlandw

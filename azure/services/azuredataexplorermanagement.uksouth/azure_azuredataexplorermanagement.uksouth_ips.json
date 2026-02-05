@@ -1,0 +1,32 @@
+[
+  {
+    "ip_address": "40.81.154.254/32",
+    "ip_type": "IPv4",
+    "service": "AzureDataExplorerManagement.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "51.104.8.112/28",
+    "ip_type": "IPv4",
+    "service": "AzureDataExplorerManagement.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "85.210.105.96/28",
+    "ip_type": "IPv4",
+    "service": "AzureDataExplorerManagement.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "2603:1020:705::600/121",
+    "ip_type": "IPv6",
+    "service": "AzureDataExplorerManagement.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "2603:1020:705:402::150/124",
+    "ip_type": "IPv6",
+    "service": "AzureDataExplorerManagement.UKSouth",
+    "region": "uksouth"
+  }
+]

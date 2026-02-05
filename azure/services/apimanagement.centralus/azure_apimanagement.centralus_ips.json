@@ -1,0 +1,44 @@
+[
+  {
+    "ip_address": "9.234.25.78/31",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "13.86.102.66/32",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "13.89.33.185/32",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "13.89.170.204/31",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "13.89.174.64/28",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "20.40.231.62/31",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "2603:1030:10:402::140/124",
+    "ip_type": "IPv6",
+    "service": "ApiManagement.CentralUS",
+    "region": "centralus"
+  }
+]

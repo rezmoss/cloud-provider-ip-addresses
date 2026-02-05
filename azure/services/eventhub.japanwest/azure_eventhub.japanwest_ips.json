@@ -1,0 +1,50 @@
+[
+  {
+    "ip_address": "4.190.144.128/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.JapanWest",
+    "region": "japanwest"
+  },
+  {
+    "ip_address": "20.18.179.64/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.JapanWest",
+    "region": "japanwest"
+  },
+  {
+    "ip_address": "20.189.231.0/24",
+    "ip_type": "IPv4",
+    "service": "EventHub.JapanWest",
+    "region": "japanwest"
+  },
+  {
+    "ip_address": "40.74.100.0/27",
+    "ip_type": "IPv4",
+    "service": "EventHub.JapanWest",
+    "region": "japanwest"
+  },
+  {
+    "ip_address": "40.80.181.192/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.JapanWest",
+    "region": "japanwest"
+  },
+  {
+    "ip_address": "2603:1040:606::240/122",
+    "ip_type": "IPv6",
+    "service": "EventHub.JapanWest",
+    "region": "japanwest"
+  },
+  {
+    "ip_address": "2603:1040:606:2::/120",
+    "ip_type": "IPv6",
+    "service": "EventHub.JapanWest",
+    "region": "japanwest"
+  },
+  {
+    "ip_address": "2603:1040:606:402::1c0/123",
+    "ip_type": "IPv6",
+    "service": "EventHub.JapanWest",
+    "region": "japanwest"
+  }
+]

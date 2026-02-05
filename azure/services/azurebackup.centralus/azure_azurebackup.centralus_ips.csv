@@ -1,0 +1,11 @@
+ip_address,ip_type,service,region
+13.89.171.128/26,IPv4,AzureBackup.CentralUS,centralus
+13.89.171.192/27,IPv4,AzureBackup.CentralUS,centralus
+20.40.229.128/25,IPv4,AzureBackup.CentralUS,centralus
+20.44.8.32/27,IPv4,AzureBackup.CentralUS,centralus
+20.44.8.64/26,IPv4,AzureBackup.CentralUS,centralus
+52.182.139.64/27,IPv4,AzureBackup.CentralUS,centralus
+52.182.139.128/26,IPv4,AzureBackup.CentralUS,centralus
+2603:1030:10:402::200/121,IPv6,AzureBackup.CentralUS,centralus
+2603:1030:10:802::180/121,IPv6,AzureBackup.CentralUS,centralus
+2603:1030:10:c02::180/121,IPv6,AzureBackup.CentralUS,centralus

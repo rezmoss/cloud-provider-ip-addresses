@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+20.193.199.160/27,IPv4,AzureSignalR.JioIndiaWest,jioindiawest
+20.193.205.224/27,IPv4,AzureSignalR.JioIndiaWest,jioindiawest
+135.235.2.192/27,IPv4,AzureSignalR.JioIndiaWest,jioindiawest
+2603:1040:d04:2::600/120,IPv6,AzureSignalR.JioIndiaWest,jioindiawest

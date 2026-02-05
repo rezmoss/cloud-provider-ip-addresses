@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "20.38.128.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.WestIndia",
+    "region": "westindia"
+  },
+  {
+    "ip_address": "52.136.51.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.WestIndia",
+    "region": "westindia"
+  },
+  {
+    "ip_address": "52.136.52.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.WestIndia",
+    "region": "westindia"
+  },
+  {
+    "ip_address": "2603:1040:806:402::300/123",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.WestIndia",
+    "region": "westindia"
+  }
+]

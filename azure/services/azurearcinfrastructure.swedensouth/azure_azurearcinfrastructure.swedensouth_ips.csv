@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+20.91.96.162/31,IPv4,AzureArcInfrastructure.SwedenSouth,swedensouth
+20.91.100.128/29,IPv4,AzureArcInfrastructure.SwedenSouth,swedensouth
+51.12.22.220/30,IPv4,AzureArcInfrastructure.SwedenSouth,swedensouth
+51.12.168.72/30,IPv4,AzureArcInfrastructure.SwedenSouth,swedensouth

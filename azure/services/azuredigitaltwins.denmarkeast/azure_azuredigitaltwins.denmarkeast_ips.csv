@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+9.205.35.192/27,IPv4,AzureDigitalTwins.DenmarkEast,denmarkeast
+9.205.50.0/29,IPv4,AzureDigitalTwins.DenmarkEast,denmarkeast
+2603:1020:1602::580/121,IPv6,AzureDigitalTwins.DenmarkEast,denmarkeast

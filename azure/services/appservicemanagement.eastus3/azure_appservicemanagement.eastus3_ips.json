@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "134.138.79.0/26",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.EastUS3",
+    "region": "eastus3"
+  },
+  {
+    "ip_address": "2603:1030:1402:2::380/122",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.EastUS3",
+    "region": "eastus3"
+  }
+]

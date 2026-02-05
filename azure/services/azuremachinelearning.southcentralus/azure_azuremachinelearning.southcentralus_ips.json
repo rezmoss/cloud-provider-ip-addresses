@@ -1,0 +1,62 @@
+[
+  {
+    "ip_address": "13.66.87.135/32",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "13.73.240.16/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "13.73.240.112/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "13.73.240.240/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "13.73.248.96/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "20.65.135.0/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "40.119.8.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "52.249.59.91/32",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "104.214.19.32/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "2603:1030:807:1::2c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.SouthCentralUS",
+    "region": "southcentralus"
+  }
+]

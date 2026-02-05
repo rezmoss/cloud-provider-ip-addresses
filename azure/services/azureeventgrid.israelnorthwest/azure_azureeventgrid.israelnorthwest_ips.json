@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "20.217.249.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.IsraelNorthwest",
+    "region": "israelnorthwest"
+  },
+  {
+    "ip_address": "2603:1040:1702::280/121",
+    "ip_type": "IPv6",
+    "service": "AzureEventGrid.IsraelNorthwest",
+    "region": "israelnorthwest"
+  }
+]

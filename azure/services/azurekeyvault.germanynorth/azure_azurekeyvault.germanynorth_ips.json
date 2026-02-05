@@ -1,0 +1,44 @@
+[
+  {
+    "ip_address": "51.116.54.76/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "51.116.55.88/29",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "51.116.58.0/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04::100/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04::108/126",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04::2a0/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:402::80/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.GermanyNorth",
+    "region": "germanyn"
+  }
+]

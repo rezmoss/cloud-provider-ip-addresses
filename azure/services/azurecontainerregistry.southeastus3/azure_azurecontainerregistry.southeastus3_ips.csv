@@ -1,0 +1,12 @@
+ip_address,ip_type,service,region
+74.7.43.128/26,IPv4,AzureContainerRegistry.SoutheastUS3,southeastus3
+74.7.60.64/26,IPv4,AzureContainerRegistry.SoutheastUS3,southeastus3
+74.7.80.64/26,IPv4,AzureContainerRegistry.SoutheastUS3,southeastus3
+74.7.82.0/25,IPv4,AzureContainerRegistry.SoutheastUS3,southeastus3
+2603:1030:1302::3e0/125,IPv6,AzureContainerRegistry.SoutheastUS3,southeastus3
+2603:1030:1302:4::200/121,IPv6,AzureContainerRegistry.SoutheastUS3,southeastus3
+2603:1030:1302:4::4a8/125,IPv6,AzureContainerRegistry.SoutheastUS3,southeastus3
+2603:1030:1302:4::4b0/124,IPv6,AzureContainerRegistry.SoutheastUS3,southeastus3
+2603:1030:1302:4::540/123,IPv6,AzureContainerRegistry.SoutheastUS3,southeastus3
+2603:1030:1302:400::8/125,IPv6,AzureContainerRegistry.SoutheastUS3,southeastus3
+2603:1030:1302:400::80/121,IPv6,AzureContainerRegistry.SoutheastUS3,southeastus3

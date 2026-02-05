@@ -1,0 +1,98 @@
+[
+  {
+    "ip_address": "4.252.148.192/27",
+    "ip_type": "IPv4",
+    "service": "DataFactory.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "13.75.39.112/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.189.104.128/25",
+    "ip_type": "IPv4",
+    "service": "DataFactory.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.189.106.0/26",
+    "ip_type": "IPv4",
+    "service": "DataFactory.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.189.109.232/29",
+    "ip_type": "IPv4",
+    "service": "DataFactory.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.205.50.120/29",
+    "ip_type": "IPv4",
+    "service": "DataFactory.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.205.64.0/23",
+    "ip_type": "IPv4",
+    "service": "DataFactory.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.205.67.128/26",
+    "ip_type": "IPv4",
+    "service": "DataFactory.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.205.77.160/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.205.77.224/27",
+    "ip_type": "IPv4",
+    "service": "DataFactory.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.205.83.240/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "2603:1040:207::440/122",
+    "ip_type": "IPv6",
+    "service": "DataFactory.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "2603:1040:207::500/121",
+    "ip_type": "IPv6",
+    "service": "DataFactory.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "2603:1040:207:402::330/124",
+    "ip_type": "IPv6",
+    "service": "DataFactory.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "2603:1040:207:800::70/124",
+    "ip_type": "IPv6",
+    "service": "DataFactory.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "2603:1040:207:c00::70/124",
+    "ip_type": "IPv6",
+    "service": "DataFactory.EastAsia",
+    "region": "eastasia"
+  }
+]

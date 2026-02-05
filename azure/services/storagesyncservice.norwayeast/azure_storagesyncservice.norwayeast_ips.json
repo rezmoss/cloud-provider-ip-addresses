@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "51.120.40.224/29",
+    "ip_type": "IPv4",
+    "service": "StorageSyncService.NorwayEast",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "2603:1020:e04:1::300/123",
+    "ip_type": "IPv6",
+    "service": "StorageSyncService.NorwayEast",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "2603:1020:e04:802::2a0/123",
+    "ip_type": "IPv6",
+    "service": "StorageSyncService.NorwayEast",
+    "region": "norwaye"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "ip_address": "13.66.130.243/32",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.WestUS2",
+    "region": "westus2"
+  },
+  {
+    "ip_address": "13.66.140.128/28",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.WestUS2",
+    "region": "westus2"
+  },
+  {
+    "ip_address": "13.66.145.96/27",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.WestUS2",
+    "region": "westus2"
+  },
+  {
+    "ip_address": "20.83.220.208/28",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.WestUS2",
+    "region": "westus2"
+  },
+  {
+    "ip_address": "20.83.220.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.WestUS2",
+    "region": "westus2"
+  },
+  {
+    "ip_address": "20.109.128.105/32",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.WestUS2",
+    "region": "westus2"
+  },
+  {
+    "ip_address": "20.109.128.127/32",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.WestUS2",
+    "region": "westus2"
+  },
+  {
+    "ip_address": "20.115.168.34/32",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.WestUS2",
+    "region": "westus2"
+  },
+  {
+    "ip_address": "20.115.169.20/32",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.WestUS2",
+    "region": "westus2"
+  },
+  {
+    "ip_address": "52.151.42.172/32",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.WestUS2",
+    "region": "westus2"
+  },
+  {
+    "ip_address": "52.183.78.157/32",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.WestUS2",
+    "region": "westus2"
+  },
+  {
+    "ip_address": "2603:1030:c06:400::980/122",
+    "ip_type": "IPv6",
+    "service": "AzureConnectors.WestUS2",
+    "region": "westus2"
+  }
+]

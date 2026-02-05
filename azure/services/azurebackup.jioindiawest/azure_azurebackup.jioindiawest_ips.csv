@@ -1,0 +1,8 @@
+ip_address,ip_type,service,region
+20.193.192.192/26,IPv4,AzureBackup.JioIndiaWest,jioindiawest
+20.193.203.0/26,IPv4,AzureBackup.JioIndiaWest,jioindiawest
+20.193.203.64/27,IPv4,AzureBackup.JioIndiaWest,jioindiawest
+2603:1040:d04:1::780/121,IPv6,AzureBackup.JioIndiaWest,jioindiawest
+2603:1040:d04:400::100/121,IPv6,AzureBackup.JioIndiaWest,jioindiawest
+2603:1040:d04:400::300/121,IPv6,AzureBackup.JioIndiaWest,jioindiawest
+2603:1040:d04:c02::200/121,IPv6,AzureBackup.JioIndiaWest,jioindiawest

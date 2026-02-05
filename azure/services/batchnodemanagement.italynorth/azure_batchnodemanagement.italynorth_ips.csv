@@ -1,0 +1,3 @@
+ip_address,ip_type,service,region
+4.232.25.64/27,IPv4,BatchNodeManagement.ItalyNorth,italynorth
+2603:1020:1204::300/122,IPv6,BatchNodeManagement.ItalyNorth,italynorth

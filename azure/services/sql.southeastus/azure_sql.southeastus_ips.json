@@ -1,0 +1,44 @@
+[
+  {
+    "ip_address": "57.151.223.64/27",
+    "ip_type": "IPv4",
+    "service": "Sql.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "57.151.223.128/26",
+    "ip_type": "IPv4",
+    "service": "Sql.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "57.151.228.192/27",
+    "ip_type": "IPv4",
+    "service": "Sql.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "68.154.137.32/27",
+    "ip_type": "IPv4",
+    "service": "Sql.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "68.154.137.64/29",
+    "ip_type": "IPv4",
+    "service": "Sql.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1030:902:2::640/123",
+    "ip_type": "IPv6",
+    "service": "Sql.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1030:902:2::780/121",
+    "ip_type": "IPv6",
+    "service": "Sql.SoutheastUS",
+    "region": "southeastus"
+  }
+]

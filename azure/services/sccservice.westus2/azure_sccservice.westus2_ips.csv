@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+13.66.145.72/29,IPv4,SCCservice.WestUS2,westus2
+128.85.21.64/27,IPv4,SCCservice.WestUS2,westus2
+2603:1030:c06:f::360/123,IPv6,SCCservice.WestUS2,westus2

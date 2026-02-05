@@ -1,0 +1,38 @@
+[
+  {
+    "ip_address": "191.234.136.0/27",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "191.234.136.48/30",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "191.234.139.144/29",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "191.235.227.160/27",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "2603:1050:6::100/121",
+    "ip_type": "IPv6",
+    "service": "AzurePortal.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "2603:1050:6:1::680/121",
+    "ip_type": "IPv6",
+    "service": "AzurePortal.BrazilSouth",
+    "region": "brazilsouth"
+  }
+]

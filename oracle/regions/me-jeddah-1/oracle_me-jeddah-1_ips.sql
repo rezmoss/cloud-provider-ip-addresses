@@ -19,6 +19,7 @@ INSERT INTO `oracle_me-jeddah-1_ips` (`ip_address`, `ip_type`) VALUES ('158.101.
 INSERT INTO `oracle_me-jeddah-1_ips` (`ip_address`, `ip_type`) VALUES ('193.122.64.0/19', 'IPv4');
 INSERT INTO `oracle_me-jeddah-1_ips` (`ip_address`, `ip_type`) VALUES ('207.127.96.0/21', 'IPv4');
 INSERT INTO `oracle_me-jeddah-1_ips` (`ip_address`, `ip_type`) VALUES ('207.135.30.0/23', 'IPv4');
+INSERT INTO `oracle_me-jeddah-1_ips` (`ip_address`, `ip_type`) VALUES ('92.4.228.0/22', 'IPv4');
 INSERT INTO `oracle_me-jeddah-1_ips` (`ip_address`, `ip_type`) VALUES ('134.70.100.0/22', 'IPv4');
 INSERT INTO `oracle_me-jeddah-1_ips` (`ip_address`, `ip_type`) VALUES ('140.91.42.0/23', 'IPv4');
 INSERT INTO `oracle_me-jeddah-1_ips` (`ip_address`, `ip_type`) VALUES ('140.204.34.128/25', 'IPv4');

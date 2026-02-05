@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+13.78.111.200/29,IPv4,SCCservice.JapanEast,japaneast
+48.210.98.160/27,IPv4,SCCservice.JapanEast,japaneast
+2603:1040:407:8::220/123,IPv6,SCCservice.JapanEast,japaneast

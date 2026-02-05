@@ -1,0 +1,32 @@
+[
+  {
+    "ip_address": "51.116.150.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "51.116.156.32/28",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "51.116.159.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "2603:1020:c04::180/122",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "2603:1020:c04:402::280/122",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.GermanyWestCentral",
+    "region": "germanywc"
+  }
+]

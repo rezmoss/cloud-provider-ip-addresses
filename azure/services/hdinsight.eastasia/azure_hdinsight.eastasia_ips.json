@@ -1,0 +1,38 @@
+[
+  {
+    "ip_address": "13.75.38.112/29",
+    "ip_type": "IPv4",
+    "service": "HDInsight.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.189.111.192/29",
+    "ip_type": "IPv4",
+    "service": "HDInsight.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "23.102.235.122/32",
+    "ip_type": "IPv4",
+    "service": "HDInsight.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "52.175.38.134/32",
+    "ip_type": "IPv4",
+    "service": "HDInsight.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "2603:1040:207:1::4d0/124",
+    "ip_type": "IPv6",
+    "service": "HDInsight.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "2603:1040:207:402::320/124",
+    "ip_type": "IPv6",
+    "service": "HDInsight.EastAsia",
+    "region": "eastasia"
+  }
+]

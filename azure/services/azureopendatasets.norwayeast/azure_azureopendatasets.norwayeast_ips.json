@@ -1,0 +1,8 @@
+[
+  {
+    "ip_address": "51.120.40.192/28",
+    "ip_type": "IPv4",
+    "service": "AzureOpenDatasets.NorwayEast",
+    "region": "norwaye"
+  }
+]

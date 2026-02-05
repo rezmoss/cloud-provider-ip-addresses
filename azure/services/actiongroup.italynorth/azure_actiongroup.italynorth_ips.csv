@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+4.232.48.104/30,IPv4,ActionGroup.ItalyNorth,italynorth
+4.232.106.88/30,IPv4,ActionGroup.ItalyNorth,italynorth
+2603:1020:1204:3::56c/126,IPv6,ActionGroup.ItalyNorth,italynorth
+2603:1020:1204:400::c0/125,IPv6,ActionGroup.ItalyNorth,italynorth

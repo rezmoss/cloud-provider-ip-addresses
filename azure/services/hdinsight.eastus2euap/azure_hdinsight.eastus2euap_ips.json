@@ -1,0 +1,38 @@
+[
+  {
+    "ip_address": "20.39.15.48/29",
+    "ip_type": "IPv4",
+    "service": "HDInsight.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "40.74.146.88/29",
+    "ip_type": "IPv4",
+    "service": "HDInsight.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "40.89.65.220/32",
+    "ip_type": "IPv4",
+    "service": "HDInsight.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "40.89.68.134/32",
+    "ip_type": "IPv4",
+    "service": "HDInsight.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "68.220.123.200/29",
+    "ip_type": "IPv4",
+    "service": "HDInsight.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "2603:1030:40b:400::b20/124",
+    "ip_type": "IPv6",
+    "service": "HDInsight.EastUS2EUAP",
+    "region": "eastus2euap"
+  }
+]

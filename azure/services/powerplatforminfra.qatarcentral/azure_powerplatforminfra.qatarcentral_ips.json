@@ -1,0 +1,44 @@
+[
+  {
+    "ip_address": "4.171.31.176/29",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
+    "ip_address": "4.171.31.192/26",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
+    "ip_address": "4.171.53.128/25",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
+    "ip_address": "4.244.9.200/29",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
+    "ip_address": "4.244.10.0/26",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
+    "ip_address": "20.21.88.0/27",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
+    "ip_address": "2603:1061:2002:a000::/57",
+    "ip_type": "IPv6",
+    "service": "PowerPlatformInfra.QatarCentral",
+    "region": "qatarcentral"
+  }
+]

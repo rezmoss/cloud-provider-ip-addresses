@@ -20,6 +20,7 @@ INSERT INTO `oracle_ap-melbourne-1_ips` (`ip_address`, `ip_type`) VALUES ('134.7
 INSERT INTO `oracle_ap-melbourne-1_ips` (`ip_address`, `ip_type`) VALUES ('134.185.64.0/22', 'IPv4');
 INSERT INTO `oracle_ap-melbourne-1_ips` (`ip_address`, `ip_type`) VALUES ('140.91.46.0/23', 'IPv4');
 INSERT INTO `oracle_ap-melbourne-1_ips` (`ip_address`, `ip_type`) VALUES ('140.204.42.128/25', 'IPv4');
+INSERT INTO `oracle_ap-melbourne-1_ips` (`ip_address`, `ip_type`) VALUES ('149.118.92.0/22', 'IPv4');
 INSERT INTO `oracle_ap-melbourne-1_ips` (`ip_address`, `ip_type`) VALUES ('158.179.4.0/22', 'IPv4');
 INSERT INTO `oracle_ap-melbourne-1_ips` (`ip_address`, `ip_type`) VALUES ('159.13.14.0/23', 'IPv4');
 INSERT INTO `oracle_ap-melbourne-1_ips` (`ip_address`, `ip_type`) VALUES ('161.33.254.0/24', 'IPv4');

@@ -1,0 +1,68 @@
+[
+  {
+    "ip_address": "23.96.232.67/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.NorthCentralUS",
+    "region": "northcentralus"
+  },
+  {
+    "ip_address": "40.80.190.192/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.NorthCentralUS",
+    "region": "northcentralus"
+  },
+  {
+    "ip_address": "52.162.110.32/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.NorthCentralUS",
+    "region": "northcentralus"
+  },
+  {
+    "ip_address": "65.52.199.156/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.NorthCentralUS",
+    "region": "northcentralus"
+  },
+  {
+    "ip_address": "65.52.199.188/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.NorthCentralUS",
+    "region": "northcentralus"
+  },
+  {
+    "ip_address": "157.55.167.71/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.NorthCentralUS",
+    "region": "northcentralus"
+  },
+  {
+    "ip_address": "157.55.210.88/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.NorthCentralUS",
+    "region": "northcentralus"
+  },
+  {
+    "ip_address": "191.236.161.35/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.NorthCentralUS",
+    "region": "northcentralus"
+  },
+  {
+    "ip_address": "191.236.163.245/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.NorthCentralUS",
+    "region": "northcentralus"
+  },
+  {
+    "ip_address": "191.236.164.44/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.NorthCentralUS",
+    "region": "northcentralus"
+  },
+  {
+    "ip_address": "2603:1030:608::400/122",
+    "ip_type": "IPv6",
+    "service": "BatchNodeManagement.NorthCentralUS",
+    "region": "northcentralus"
+  }
+]

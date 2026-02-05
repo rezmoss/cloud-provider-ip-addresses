@@ -1,0 +1,7 @@
+ip_address,ip_type,service,region
+48.193.54.104/32,IPv4,AzureArcInfrastructure.IndonesiaCentral,indonesiacentral
+70.153.67.251/32,IPv4,AzureArcInfrastructure.IndonesiaCentral,indonesiacentral
+70.153.165.84/30,IPv4,AzureArcInfrastructure.IndonesiaCentral,indonesiacentral
+70.153.176.52/32,IPv4,AzureArcInfrastructure.IndonesiaCentral,indonesiacentral
+2603:1040:1802:1::710/124,IPv6,AzureArcInfrastructure.IndonesiaCentral,indonesiacentral
+2603:1040:1802:7::114/128,IPv6,AzureArcInfrastructure.IndonesiaCentral,indonesiacentral

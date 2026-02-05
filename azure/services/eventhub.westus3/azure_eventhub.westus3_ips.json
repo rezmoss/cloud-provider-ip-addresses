@@ -1,0 +1,98 @@
+[
+  {
+    "ip_address": "20.150.160.224/27",
+    "ip_type": "IPv4",
+    "service": "EventHub.WestUS3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "20.150.170.160/27",
+    "ip_type": "IPv4",
+    "service": "EventHub.WestUS3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "20.150.175.64/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.WestUS3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "20.150.178.64/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.WestUS3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "20.150.182.0/27",
+    "ip_type": "IPv4",
+    "service": "EventHub.WestUS3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "20.150.186.64/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.WestUS3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "20.150.189.128/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.WestUS3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "20.150.246.32/27",
+    "ip_type": "IPv4",
+    "service": "EventHub.WestUS3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "20.150.246.64/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.WestUS3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "20.150.246.128/25",
+    "ip_type": "IPv4",
+    "service": "EventHub.WestUS3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "2603:1030:504:1::240/122",
+    "ip_type": "IPv6",
+    "service": "EventHub.WestUS3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "2603:1030:504:2::400/120",
+    "ip_type": "IPv6",
+    "service": "EventHub.WestUS3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "2603:1030:504:7::/119",
+    "ip_type": "IPv6",
+    "service": "EventHub.WestUS3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "2603:1030:504:402::2c0/123",
+    "ip_type": "IPv6",
+    "service": "EventHub.WestUS3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "2603:1030:504:802::240/123",
+    "ip_type": "IPv6",
+    "service": "EventHub.WestUS3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "2603:1030:504:c02::c0/123",
+    "ip_type": "IPv6",
+    "service": "EventHub.WestUS3",
+    "region": "westus3"
+  }
+]

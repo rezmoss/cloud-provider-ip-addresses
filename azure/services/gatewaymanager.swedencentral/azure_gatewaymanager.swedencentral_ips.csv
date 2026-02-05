@@ -1,0 +1,3 @@
+ip_address,ip_type,service,region
+51.12.40.192/26,IPv4,GatewayManager.SwedenCentral,swedencentral
+2603:1020:1004::40/122,IPv6,GatewayManager.SwedenCentral,swedencentral

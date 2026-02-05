@@ -1,0 +1,110 @@
+[
+  {
+    "ip_address": "4.145.74.56/29",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "4.145.74.128/27",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "4.145.74.160/29",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "4.194.225.212/30",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "20.24.0.192/28",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "20.24.0.208/30",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "20.44.247.0/26",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "20.195.86.92/30",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "20.195.87.16/28",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "20.195.87.32/30",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "20.195.87.124/30",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "57.155.34.136/29",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "135.171.133.192/26",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "135.171.134.128/25",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "135.171.135.0/25",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "135.171.135.128/26",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "2603:1061:2004:800::/57",
+    "ip_type": "IPv6",
+    "service": "PowerPlatformPlex.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "2603:1061:2004:6100::/57",
+    "ip_type": "IPv6",
+    "service": "PowerPlatformPlex.SoutheastAsia",
+    "region": "southeastasia"
+  }
+]

@@ -1,0 +1,10 @@
+ip_address,ip_type,service,region
+20.17.92.176/28,IPv4,LogicApps.MalaysiaWest,malaysiawest
+20.17.92.192/28,IPv4,LogicApps.MalaysiaWest,malaysiawest
+20.17.134.64/28,IPv4,LogicApps.MalaysiaWest,malaysiawest
+20.17.134.96/27,IPv4,LogicApps.MalaysiaWest,malaysiawest
+20.17.142.176/28,IPv4,LogicApps.MalaysiaWest,malaysiawest
+2603:1040:1602:402::d0/124,IPv6,LogicApps.MalaysiaWest,malaysiawest
+2603:1040:1602:402::e0/123,IPv6,LogicApps.MalaysiaWest,malaysiawest
+2603:1040:1602:403::50/124,IPv6,LogicApps.MalaysiaWest,malaysiawest
+2603:1040:1602:403::60/123,IPv6,LogicApps.MalaysiaWest,malaysiawest

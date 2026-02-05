@@ -1,0 +1,56 @@
+[
+  {
+    "ip_address": "13.82.71.152/32",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "20.88.154.20/31",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "40.71.10.204/31",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "40.71.13.128/28",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "40.117.134.189/32",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "40.121.13.26/32",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "52.224.186.99/32",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "135.222.50.218/31",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "2603:1030:210:402::140/124",
+    "ip_type": "IPv6",
+    "service": "ApiManagement.EastUS",
+    "region": "eastus"
+  }
+]

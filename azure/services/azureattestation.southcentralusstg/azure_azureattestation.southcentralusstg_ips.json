@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "20.44.4.248/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "20.45.116.92/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.SouthCentralUSSTG",
+    "region": "usstagec"
+  }
+]

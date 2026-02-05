@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "51.107.145.128/27",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "51.107.146.56/30",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "51.107.149.248/29",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "2603:1020:b04::700/121",
+    "ip_type": "IPv6",
+    "service": "AzurePortal.SwitzerlandWest",
+    "region": "switzerlandw"
+  }
+]

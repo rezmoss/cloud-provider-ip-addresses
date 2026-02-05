@@ -1,0 +1,3 @@
+ip_address,ip_type,service,region
+13.73.244.128/28,IPv4,AzureDevSpaces.SouthCentralUS,southcentralus
+40.119.9.240/28,IPv4,AzureDevSpaces.SouthCentralUS,southcentralus

@@ -1,0 +1,68 @@
+[
+  {
+    "ip_address": "4.199.114.144/29",
+    "ip_type": "IPv4",
+    "service": "PowerBI.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  },
+  {
+    "ip_address": "4.199.114.160/27",
+    "ip_type": "IPv4",
+    "service": "PowerBI.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  },
+  {
+    "ip_address": "4.199.115.0/25",
+    "ip_type": "IPv4",
+    "service": "PowerBI.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  },
+  {
+    "ip_address": "20.42.224.122/31",
+    "ip_type": "IPv4",
+    "service": "PowerBI.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  },
+  {
+    "ip_address": "20.42.227.16/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  },
+  {
+    "ip_address": "20.42.227.32/29",
+    "ip_type": "IPv4",
+    "service": "PowerBI.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  },
+  {
+    "ip_address": "20.42.227.64/26",
+    "ip_type": "IPv4",
+    "service": "PowerBI.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  },
+  {
+    "ip_address": "20.92.4.144/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  },
+  {
+    "ip_address": "20.211.229.128/26",
+    "ip_type": "IPv4",
+    "service": "PowerBI.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  },
+  {
+    "ip_address": "2603:1010:101::620/123",
+    "ip_type": "IPv6",
+    "service": "PowerBI.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  },
+  {
+    "ip_address": "2603:1010:101::640/122",
+    "ip_type": "IPv6",
+    "service": "PowerBI.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  }
+]

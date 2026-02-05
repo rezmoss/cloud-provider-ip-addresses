@@ -1,0 +1,3 @@
+ip_address,ip_type,service,region
+57.151.209.64/27,IPv4,BatchNodeManagement.SoutheastUS,southeastus
+2603:1030:902::300/122,IPv6,BatchNodeManagement.SoutheastUS,southeastus

@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+48.216.8.52/32,IPv4,AzureArcInfrastructure.SouthCentralUS2,southcentralus2
+48.216.28.144/30,IPv4,AzureArcInfrastructure.SouthCentralUS2,southcentralus2
+48.216.48.142/32,IPv4,AzureArcInfrastructure.SouthCentralUS2,southcentralus2
+2603:1030:1102:2::200/124,IPv6,AzureArcInfrastructure.SouthCentralUS2,southcentralus2

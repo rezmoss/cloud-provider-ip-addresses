@@ -1,0 +1,50 @@
+[
+  {
+    "ip_address": "51.120.43.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.NorwayEast",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "51.120.44.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.NorwayEast",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "51.120.100.96/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.NorwayEast",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "51.120.107.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.NorwayEast",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "51.120.211.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.NorwayEast",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "2603:1020:e04:402::300/123",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.NorwayEast",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "2603:1020:e04:802::240/123",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.NorwayEast",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "2603:1020:e04:c02::240/123",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.NorwayEast",
+    "region": "norwaye"
+  }
+]

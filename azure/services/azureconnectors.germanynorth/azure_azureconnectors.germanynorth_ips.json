@@ -1,0 +1,56 @@
+[
+  {
+    "ip_address": "20.113.206.120/32",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "20.113.207.64/32",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "51.116.55.240/28",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "51.116.59.16/28",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "51.116.60.192/27",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "51.116.74.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "51.116.211.212/32",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:5::3c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureConnectors.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:402::180/122",
+    "ip_type": "IPv6",
+    "service": "AzureConnectors.GermanyNorth",
+    "region": "germanyn"
+  }
+]

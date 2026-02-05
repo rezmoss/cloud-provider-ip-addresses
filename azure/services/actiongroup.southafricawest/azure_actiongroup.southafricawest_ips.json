@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "172.209.8.40/30",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.SouthAfricaWest",
+    "region": "southafricawest"
+  },
+  {
+    "ip_address": "2603:1000:4::10c/126",
+    "ip_type": "IPv6",
+    "service": "ActionGroup.SouthAfricaWest",
+    "region": "southafricawest"
+  },
+  {
+    "ip_address": "2603:1000:4:402::178/125",
+    "ip_type": "IPv6",
+    "service": "ActionGroup.SouthAfricaWest",
+    "region": "southafricawest"
+  }
+]

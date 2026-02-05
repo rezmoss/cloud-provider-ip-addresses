@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+68.211.15.0/27,IPv4,AzurePortal.ChileCentral,chilec
+68.211.20.228/30,IPv4,AzurePortal.ChileCentral,chilec
+2603:1050:301:2::500/121,IPv6,AzurePortal.ChileCentral,chilec

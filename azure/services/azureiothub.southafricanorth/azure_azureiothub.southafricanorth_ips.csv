@@ -1,0 +1,9 @@
+ip_address,ip_type,service,region
+102.133.124.32/27,IPv4,AzureIoTHub.SouthAfricaNorth,southafricanorth
+102.133.156.64/27,IPv4,AzureIoTHub.SouthAfricaNorth,southafricanorth
+102.133.218.192/27,IPv4,AzureIoTHub.SouthAfricaNorth,southafricanorth
+102.133.219.0/25,IPv4,AzureIoTHub.SouthAfricaNorth,southafricanorth
+102.133.251.128/27,IPv4,AzureIoTHub.SouthAfricaNorth,southafricanorth
+2603:1000:104:402::300/123,IPv6,AzureIoTHub.SouthAfricaNorth,southafricanorth
+2603:1000:104:802::240/123,IPv6,AzureIoTHub.SouthAfricaNorth,southafricanorth
+2603:1000:104:c02::240/123,IPv6,AzureIoTHub.SouthAfricaNorth,southafricanorth

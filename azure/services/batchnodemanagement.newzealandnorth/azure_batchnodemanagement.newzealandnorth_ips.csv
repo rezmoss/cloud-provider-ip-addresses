@@ -1,0 +1,3 @@
+ip_address,ip_type,service,region
+172.204.153.64/27,IPv4,BatchNodeManagement.NewZealandNorth,newzealandnorth
+2603:1010:502::300/122,IPv6,BatchNodeManagement.NewZealandNorth,newzealandnorth

@@ -1,0 +1,38 @@
+[
+  {
+    "ip_address": "40.79.180.0/28",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "40.79.182.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "51.105.94.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "2603:1020:905::6c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "2603:1020:905:5::200/120",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "2603:1020:905:402::280/122",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.FranceSouth",
+    "region": "southfrance"
+  }
+]

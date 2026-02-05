@@ -1,0 +1,7 @@
+ip_address,ip_type,service,region
+40.78.239.64/27,IPv4,AzureSecurityCenter.SoutheastAsia,southeastasia
+57.158.178.128/26,IPv4,AzureSecurityCenter.SoutheastAsia,southeastasia
+57.158.178.192/27,IPv4,AzureSecurityCenter.SoutheastAsia,southeastasia
+57.158.179.0/24,IPv4,AzureSecurityCenter.SoutheastAsia,southeastasia
+57.158.180.0/23,IPv4,AzureSecurityCenter.SoutheastAsia,southeastasia
+172.188.236.0/22,IPv4,AzureSecurityCenter.SoutheastAsia,southeastasia

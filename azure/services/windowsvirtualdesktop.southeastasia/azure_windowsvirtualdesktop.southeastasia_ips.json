@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "40.64.144.216/29",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "40.64.145.144/28",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "2603:1061:2010:14::/117",
+    "ip_type": "IPv6",
+    "service": "WindowsVirtualDesktop.SoutheastAsia",
+    "region": "southeastasia"
+  }
+]

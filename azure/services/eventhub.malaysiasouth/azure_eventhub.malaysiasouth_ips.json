@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "20.17.53.0/24",
+    "ip_type": "IPv4",
+    "service": "EventHub.MalaysiaSouth",
+    "region": "malaysiasouth"
+  },
+  {
+    "ip_address": "20.17.67.128/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.MalaysiaSouth",
+    "region": "malaysiasouth"
+  },
+  {
+    "ip_address": "2603:1040:1503:1::/120",
+    "ip_type": "IPv6",
+    "service": "EventHub.MalaysiaSouth",
+    "region": "malaysiasouth"
+  }
+]

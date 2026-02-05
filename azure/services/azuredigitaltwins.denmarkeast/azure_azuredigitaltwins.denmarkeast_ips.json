@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "9.205.35.192/27",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.DenmarkEast",
+    "region": "denmarkeast"
+  },
+  {
+    "ip_address": "9.205.50.0/29",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.DenmarkEast",
+    "region": "denmarkeast"
+  },
+  {
+    "ip_address": "2603:1020:1602::580/121",
+    "ip_type": "IPv6",
+    "service": "AzureDigitalTwins.DenmarkEast",
+    "region": "denmarkeast"
+  }
+]

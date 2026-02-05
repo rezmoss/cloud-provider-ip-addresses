@@ -13,6 +13,7 @@ ip_address,ip_type,service,region
 134.185.64.0/22,IPv4,OSN,ap-melbourne-1
 140.91.46.0/23,IPv4,OSN,ap-melbourne-1
 140.204.42.128/25,IPv4,OSN,ap-melbourne-1
+149.118.92.0/22,IPv4,OSN,ap-melbourne-1
 158.179.4.0/22,IPv4,OSN,ap-melbourne-1
 159.13.14.0/23,IPv4,OSN,ap-melbourne-1
 161.33.254.0/24,IPv4,OSN,ap-melbourne-1

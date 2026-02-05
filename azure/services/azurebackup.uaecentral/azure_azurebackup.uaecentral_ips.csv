@@ -1,0 +1,6 @@
+ip_address,ip_type,service,region
+20.37.75.0/26,IPv4,AzureBackup.UAECentral,uaecentral
+20.37.75.64/27,IPv4,AzureBackup.UAECentral,uaecentral
+20.45.90.0/26,IPv4,AzureBackup.UAECentral,uaecentral
+2603:1040:b04:2::780/121,IPv6,AzureBackup.UAECentral,uaecentral
+2603:1040:b04:402::200/121,IPv6,AzureBackup.UAECentral,uaecentral

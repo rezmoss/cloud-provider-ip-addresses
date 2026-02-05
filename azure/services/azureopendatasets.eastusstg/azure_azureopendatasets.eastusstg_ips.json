@@ -1,0 +1,8 @@
+[
+  {
+    "ip_address": "40.67.48.192/28",
+    "ip_type": "IPv4",
+    "service": "AzureOpenDatasets.EastUSSTG",
+    "region": "usstagee"
+  }
+]

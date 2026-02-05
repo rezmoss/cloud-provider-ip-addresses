@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "68.211.15.0/27",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.ChileCentral",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "68.211.20.228/30",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.ChileCentral",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "2603:1050:301:2::500/121",
+    "ip_type": "IPv6",
+    "service": "AzurePortal.ChileCentral",
+    "region": "chilec"
+  }
+]

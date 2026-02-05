@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "20.48.193.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "20.48.193.160/29",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.CanadaCentral",
+    "region": "canadacentral"
+  }
+]

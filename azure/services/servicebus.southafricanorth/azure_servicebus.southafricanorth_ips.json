@@ -1,0 +1,80 @@
+[
+  {
+    "ip_address": "4.222.197.128/25",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "102.37.72.0/26",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "102.37.163.128/25",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "102.133.122.128/29",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "102.133.126.192/26",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "102.133.154.8/29",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "102.133.250.128/29",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "102.133.253.192/26",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "2603:1000:104:1::220/123",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "2603:1000:104:2::400/120",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "2603:1000:104:402::170/125",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "2603:1000:104:802::150/125",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "2603:1000:104:c02::150/125",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.SouthAfricaNorth",
+    "region": "southafricanorth"
+  }
+]

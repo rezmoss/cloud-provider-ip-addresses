@@ -1,0 +1,3 @@
+ip_address,ip_type,service,region
+70.153.64.128/26,IPv4,AzureSignalR.IndonesiaCentral,indonesiacentral
+2603:1040:1802:4::/122,IPv6,AzureSignalR.IndonesiaCentral,indonesiacentral

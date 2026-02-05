@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "20.99.27.84/31",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.EastUSSTG",
+    "region": "usstagee"
+  },
+  {
+    "ip_address": "20.99.27.96/29",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.EastUSSTG",
+    "region": "usstagee"
+  }
+]

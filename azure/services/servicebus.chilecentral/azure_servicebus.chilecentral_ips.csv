@@ -1,0 +1,9 @@
+ip_address,ip_type,service,region
+68.211.5.128/25,IPv4,ServiceBus.ChileCentral,chilec
+68.211.152.16/29,IPv4,ServiceBus.ChileCentral,chilec
+68.211.152.32/28,IPv4,ServiceBus.ChileCentral,chilec
+68.211.168.16/29,IPv4,ServiceBus.ChileCentral,chilec
+68.211.168.32/28,IPv4,ServiceBus.ChileCentral,chilec
+68.211.184.16/29,IPv4,ServiceBus.ChileCentral,chilec
+68.211.184.32/28,IPv4,ServiceBus.ChileCentral,chilec
+2603:1050:301:1::/121,IPv6,ServiceBus.ChileCentral,chilec

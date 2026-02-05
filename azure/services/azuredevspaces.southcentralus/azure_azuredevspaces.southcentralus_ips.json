@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "13.73.244.128/28",
+    "ip_type": "IPv4",
+    "service": "AzureDevSpaces.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "40.119.9.240/28",
+    "ip_type": "IPv4",
+    "service": "AzureDevSpaces.SouthCentralUS",
+    "region": "southcentralus"
+  }
+]

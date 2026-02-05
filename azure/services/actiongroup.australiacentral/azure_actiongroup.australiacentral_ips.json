@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "20.53.1.68/30",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.AustraliaCentral",
+    "region": "australiacentral"
+  },
+  {
+    "ip_address": "20.213.228.120/30",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.AustraliaCentral",
+    "region": "australiacentral"
+  },
+  {
+    "ip_address": "2603:1010:304::10c/126",
+    "ip_type": "IPv6",
+    "service": "ActionGroup.AustraliaCentral",
+    "region": "australiacentral"
+  },
+  {
+    "ip_address": "2603:1010:304:402::178/125",
+    "ip_type": "IPv6",
+    "service": "ActionGroup.AustraliaCentral",
+    "region": "australiacentral"
+  }
+]

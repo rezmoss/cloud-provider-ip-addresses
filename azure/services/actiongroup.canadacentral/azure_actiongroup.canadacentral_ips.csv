@@ -1,0 +1,6 @@
+ip_address,ip_type,service,region
+4.206.229.96/30,IPv4,ActionGroup.CanadaCentral,canadacentral
+20.38.149.132/30,IPv4,ActionGroup.CanadaCentral,canadacentral
+20.116.43.108/31,IPv4,ActionGroup.CanadaCentral,canadacentral
+2603:1030:f05:1::120/126,IPv6,ActionGroup.CanadaCentral,canadacentral
+2603:1030:f05:402::178/125,IPv6,ActionGroup.CanadaCentral,canadacentral

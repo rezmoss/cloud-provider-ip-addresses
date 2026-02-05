@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "20.215.3.192/27",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "2603:1020:1302::580/121",
+    "ip_type": "IPv6",
+    "service": "AzureDigitalTwins.PolandCentral",
+    "region": "polandcentral"
+  }
+]

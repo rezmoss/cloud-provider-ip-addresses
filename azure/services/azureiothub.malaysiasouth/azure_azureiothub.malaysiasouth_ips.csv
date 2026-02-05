@@ -1,0 +1,3 @@
+ip_address,ip_type,service,region
+20.17.68.96/27,IPv4,AzureIoTHub.MalaysiaSouth,malaysiasouth
+2603:1040:1503:400::220/123,IPv6,AzureIoTHub.MalaysiaSouth,malaysiasouth

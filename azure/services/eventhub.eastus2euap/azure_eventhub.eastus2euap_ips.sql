@@ -1,0 +1,24 @@
+-- SQL script to create table `azure_eventhub.eastus2euap_ips` and insert IP addresses
+
+CREATE TABLE IF NOT EXISTS `azure_eventhub.eastus2euap_ips` (
+  `ip_address` VARCHAR(45) NOT NULL,
+  `ip_type` VARCHAR(10) NOT NULL,
+  PRIMARY KEY (`ip_address`)
+);
+
+INSERT INTO `azure_eventhub.eastus2euap_ips` (`ip_address`, `ip_type`) VALUES ('20.47.216.64/26', 'IPv4');
+INSERT INTO `azure_eventhub.eastus2euap_ips` (`ip_address`, `ip_type`) VALUES ('20.51.22.128/26', 'IPv4');
+INSERT INTO `azure_eventhub.eastus2euap_ips` (`ip_address`, `ip_type`) VALUES ('20.51.23.0/25', 'IPv4');
+INSERT INTO `azure_eventhub.eastus2euap_ips` (`ip_address`, `ip_type`) VALUES ('20.51.23.128/26', 'IPv4');
+INSERT INTO `azure_eventhub.eastus2euap_ips` (`ip_address`, `ip_type`) VALUES ('40.74.146.16/28', 'IPv4');
+INSERT INTO `azure_eventhub.eastus2euap_ips` (`ip_address`, `ip_type`) VALUES ('40.74.151.0/26', 'IPv4');
+INSERT INTO `azure_eventhub.eastus2euap_ips` (`ip_address`, `ip_type`) VALUES ('40.75.34.0/28', 'IPv4');
+INSERT INTO `azure_eventhub.eastus2euap_ips` (`ip_address`, `ip_type`) VALUES ('40.89.122.0/26', 'IPv4');
+INSERT INTO `azure_eventhub.eastus2euap_ips` (`ip_address`, `ip_type`) VALUES ('52.138.90.0/28', 'IPv4');
+INSERT INTO `azure_eventhub.eastus2euap_ips` (`ip_address`, `ip_type`) VALUES ('68.220.83.0/26', 'IPv4');
+INSERT INTO `azure_eventhub.eastus2euap_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40b:1::240/122', 'IPv6');
+INSERT INTO `azure_eventhub.eastus2euap_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40b:2::4c0/122', 'IPv6');
+INSERT INTO `azure_eventhub.eastus2euap_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40b:3::/120', 'IPv6');
+INSERT INTO `azure_eventhub.eastus2euap_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40b:400::9c0/123', 'IPv6');
+INSERT INTO `azure_eventhub.eastus2euap_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40b:800::160/123', 'IPv6');
+INSERT INTO `azure_eventhub.eastus2euap_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40b:c00::160/123', 'IPv6');

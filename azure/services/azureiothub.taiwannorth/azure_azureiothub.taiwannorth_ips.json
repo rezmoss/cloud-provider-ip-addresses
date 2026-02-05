@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "51.53.108.96/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:400::220/123",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.TaiwanNorth",
+    "region": "taiwannorth"
+  }
+]

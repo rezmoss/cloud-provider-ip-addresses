@@ -1,0 +1,38 @@
+[
+  {
+    "ip_address": "40.78.239.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "57.158.178.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "57.158.178.192/27",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "57.158.179.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "57.158.180.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "172.188.236.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.SoutheastAsia",
+    "region": "southeastasia"
+  }
+]

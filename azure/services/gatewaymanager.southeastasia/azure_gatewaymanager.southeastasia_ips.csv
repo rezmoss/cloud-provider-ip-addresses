@@ -1,0 +1,9 @@
+ip_address,ip_type,service,region
+13.67.9.128/29,IPv4,GatewayManager.SoutheastAsia,southeastasia
+20.43.128.72/29,IPv4,GatewayManager.SoutheastAsia,southeastasia
+20.195.37.65/32,IPv4,GatewayManager.SoutheastAsia,southeastasia
+20.195.38.22/32,IPv4,GatewayManager.SoutheastAsia,southeastasia
+20.195.86.96/27,IPv4,GatewayManager.SoutheastAsia,southeastasia
+40.90.186.21/32,IPv4,GatewayManager.SoutheastAsia,southeastasia
+40.90.186.91/32,IPv4,GatewayManager.SoutheastAsia,southeastasia
+2603:1040:5:1::40/122,IPv6,GatewayManager.SoutheastAsia,southeastasia

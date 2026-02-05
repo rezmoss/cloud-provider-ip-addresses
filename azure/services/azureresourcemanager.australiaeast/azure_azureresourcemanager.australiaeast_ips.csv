@@ -1,0 +1,6 @@
+ip_address,ip_type,service,region
+13.70.74.64/28,IPv4,AzureResourceManager.AustraliaEast,australiaeast
+13.70.76.0/23,IPv4,AzureResourceManager.AustraliaEast,australiaeast
+20.53.42.0/23,IPv4,AzureResourceManager.AustraliaEast,australiaeast
+2603:1010:6::180/122,IPv6,AzureResourceManager.AustraliaEast,australiaeast
+2603:1010:6:402::280/122,IPv6,AzureResourceManager.AustraliaEast,australiaeast

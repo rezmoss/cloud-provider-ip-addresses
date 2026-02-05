@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "20.39.8.64/30",
+    "ip_type": "IPv4",
+    "service": "AzureBotService.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "40.74.147.168/30",
+    "ip_type": "IPv4",
+    "service": "AzureBotService.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "2603:1030:40b:1::20/123",
+    "ip_type": "IPv6",
+    "service": "AzureBotService.EastUS2EUAP",
+    "region": "eastus2euap"
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "ip_address": "48.193.48.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.IndonesiaCentral",
+    "region": "indonesiacentral"
+  },
+  {
+    "ip_address": "48.193.48.96/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.IndonesiaCentral",
+    "region": "indonesiacentral"
+  },
+  {
+    "ip_address": "48.193.48.144/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.IndonesiaCentral",
+    "region": "indonesiacentral"
+  },
+  {
+    "ip_address": "48.193.48.160/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.IndonesiaCentral",
+    "region": "indonesiacentral"
+  },
+  {
+    "ip_address": "70.153.90.160/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.IndonesiaCentral",
+    "region": "indonesiacentral"
+  },
+  {
+    "ip_address": "70.153.166.192/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.IndonesiaCentral",
+    "region": "indonesiacentral"
+  },
+  {
+    "ip_address": "70.153.166.200/30",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.IndonesiaCentral",
+    "region": "indonesiacentral"
+  },
+  {
+    "ip_address": "70.153.166.204/31",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.IndonesiaCentral",
+    "region": "indonesiacentral"
+  },
+  {
+    "ip_address": "70.153.166.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.IndonesiaCentral",
+    "region": "indonesiacentral"
+  },
+  {
+    "ip_address": "70.153.167.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.IndonesiaCentral",
+    "region": "indonesiacentral"
+  },
+  {
+    "ip_address": "70.153.177.88/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.IndonesiaCentral",
+    "region": "indonesiacentral"
+  },
+  {
+    "ip_address": "70.153.180.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.IndonesiaCentral",
+    "region": "indonesiacentral"
+  },
+  {
+    "ip_address": "70.153.203.0/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.IndonesiaCentral",
+    "region": "indonesiacentral"
+  },
+  {
+    "ip_address": "70.153.203.16/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.IndonesiaCentral",
+    "region": "indonesiacentral"
+  },
+  {
+    "ip_address": "70.153.219.0/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.IndonesiaCentral",
+    "region": "indonesiacentral"
+  },
+  {
+    "ip_address": "70.153.219.16/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.IndonesiaCentral",
+    "region": "indonesiacentral"
+  },
+  {
+    "ip_address": "2603:1040:1801:8::e/128",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.IndonesiaCentral",
+    "region": "indonesiacentral"
+  },
+  {
+    "ip_address": "2603:1040:1801:8::11/128",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.IndonesiaCentral",
+    "region": "indonesiacentral"
+  },
+  {
+    "ip_address": "2603:1040:1802:2::240/122",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.IndonesiaCentral",
+    "region": "indonesiacentral"
+  },
+  {
+    "ip_address": "2603:1040:1802:2::300/122",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.IndonesiaCentral",
+    "region": "indonesiacentral"
+  },
+  {
+    "ip_address": "2603:1040:1802:2::380/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.IndonesiaCentral",
+    "region": "indonesiacentral"
+  },
+  {
+    "ip_address": "2603:1040:1802:2::400/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.IndonesiaCentral",
+    "region": "indonesiacentral"
+  },
+  {
+    "ip_address": "2603:1040:1802:4::590/124",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.IndonesiaCentral",
+    "region": "indonesiacentral"
+  },
+  {
+    "ip_address": "2603:1040:1802:5::/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.IndonesiaCentral",
+    "region": "indonesiacentral"
+  }
+]

@@ -78,6 +78,12 @@
     "region": "me-jeddah-1"
   },
   {
+    "ip_address": "92.4.228.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "me-jeddah-1"
+  },
+  {
     "ip_address": "134.70.100.0/22",
     "ip_type": "IPv4",
     "service": "OSN,OBJECT_STORAGE",

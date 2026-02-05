@@ -1,0 +1,68 @@
+[
+  {
+    "ip_address": "13.92.124.124/32",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "20.42.64.40/30",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "20.42.72.132/30",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "40.71.11.104/29",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "40.76.203.148/32",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "40.76.205.181/32",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "134.33.186.244/32",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "2603:1030:210:1f::3e7/128",
+    "ip_type": "IPv6",
+    "service": "ServiceFabric.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "2603:1030:210:402::98/125",
+    "ip_type": "IPv6",
+    "service": "ServiceFabric.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "2603:1030:210:802::98/125",
+    "ip_type": "IPv6",
+    "service": "ServiceFabric.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "2603:1030:210:c02::98/125",
+    "ip_type": "IPv6",
+    "service": "ServiceFabric.EastUS",
+    "region": "eastus"
+  }
+]

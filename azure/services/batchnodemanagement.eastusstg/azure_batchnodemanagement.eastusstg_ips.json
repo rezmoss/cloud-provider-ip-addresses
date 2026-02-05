@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "20.49.83.64/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.EastUSSTG",
+    "region": "usstagee"
+  },
+  {
+    "ip_address": "40.67.49.160/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.EastUSSTG",
+    "region": "usstagee"
+  },
+  {
+    "ip_address": "40.67.60.0/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.EastUSSTG",
+    "region": "usstagee"
+  },
+  {
+    "ip_address": "2603:1030:104:1::340/122",
+    "ip_type": "IPv6",
+    "service": "BatchNodeManagement.EastUSSTG",
+    "region": "usstagee"
+  }
+]

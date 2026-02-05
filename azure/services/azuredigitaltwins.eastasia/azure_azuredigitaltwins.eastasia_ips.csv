@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+20.187.197.16/29,IPv4,AzureDigitalTwins.EastAsia,eastasia
+20.187.197.128/27,IPv4,AzureDigitalTwins.EastAsia,eastasia
+2603:1040:207:1::500/121,IPv6,AzureDigitalTwins.EastAsia,eastasia

@@ -60900,6 +60900,12 @@
     "region": "GLOBAL"
   },
   {
+    "ip_address": "2600:f0f0:700::/44",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "2600:f0f0:110d::/48",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -71592,6 +71598,12 @@
     "region": "us-west-1"
   },
   {
+    "ip_address": "2631:1:105::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-west-2"
+  },
+  {
     "ip_address": "2a01:578:0:7601::1/128",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -78340,6 +78352,12 @@
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "ap-southeast-3"
+  },
+  {
+    "ip_address": "2600:f0f0:700::/44",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-east-1"
   },
   {
     "ip_address": "2600:f0f0:110d::/48",
@@ -86632,6 +86650,12 @@
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "ap-northeast-3"
+  },
+  {
+    "ip_address": "2631:1:105::/48",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-west-2"
   },
   {
     "ip_address": "2600:1f29:8000::/36",

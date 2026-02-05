@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "20.44.4.176/28",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "20.44.4.192/27",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "23.100.223.16/28",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "57.152.135.32/28",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SouthCentralUSSTG",
+    "region": "usstagec"
+  }
+]

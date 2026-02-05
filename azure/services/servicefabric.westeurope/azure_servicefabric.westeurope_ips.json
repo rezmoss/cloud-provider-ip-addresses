@@ -1,0 +1,80 @@
+[
+  {
+    "ip_address": "13.69.64.232/29",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "13.69.109.136/30",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "13.80.117.236/32",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "52.174.163.204/32",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "52.174.164.254/32",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "52.178.30.193/32",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "52.236.161.75/32",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "52.236.189.76/30",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "104.45.19.250/32",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "2603:1020:206:402::98/125",
+    "ip_type": "IPv6",
+    "service": "ServiceFabric.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "2603:1020:206:403::38/125",
+    "ip_type": "IPv6",
+    "service": "ServiceFabric.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "2603:1020:206:802::98/125",
+    "ip_type": "IPv6",
+    "service": "ServiceFabric.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "2603:1020:206:c02::98/125",
+    "ip_type": "IPv6",
+    "service": "ServiceFabric.WestEurope",
+    "region": "westeurope"
+  }
+]

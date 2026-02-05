@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+4.229.81.128/27,IPv4,SCCservice.CanadaEast,canadaeast
+40.69.111.96/29,IPv4,SCCservice.CanadaEast,canadaeast
+2603:1030:1005:8::420/123,IPv6,SCCservice.CanadaEast,canadaeast

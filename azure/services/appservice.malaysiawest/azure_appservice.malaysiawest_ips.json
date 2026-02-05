@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "20.17.121.0/24",
+    "ip_type": "IPv4",
+    "service": "AppService.MalaysiaWest",
+    "region": "malaysiawest"
+  },
+  {
+    "ip_address": "2603:1040:1602:1::700/120",
+    "ip_type": "IPv6",
+    "service": "AppService.MalaysiaWest",
+    "region": "malaysiawest"
+  }
+]

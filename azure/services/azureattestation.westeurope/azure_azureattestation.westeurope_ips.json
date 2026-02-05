@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "13.69.109.140/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "20.61.99.100/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "48.199.12.8/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.WestEurope",
+    "region": "westeurope"
+  }
+]

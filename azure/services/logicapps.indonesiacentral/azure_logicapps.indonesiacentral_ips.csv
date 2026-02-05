@@ -1,0 +1,9 @@
+ip_address,ip_type,service,region
+48.193.52.192/27,IPv4,LogicApps.IndonesiaCentral,indonesiacentral
+70.153.175.192/26,IPv4,LogicApps.IndonesiaCentral,indonesiacentral
+70.153.180.64/28,IPv4,LogicApps.IndonesiaCentral,indonesiacentral
+70.153.180.96/27,IPv4,LogicApps.IndonesiaCentral,indonesiacentral
+2603:1040:1802:3::340/123,IPv6,LogicApps.IndonesiaCentral,indonesiacentral
+2603:1040:1802:5::7c0/123,IPv6,LogicApps.IndonesiaCentral,indonesiacentral
+2603:1040:1802:400::360/123,IPv6,LogicApps.IndonesiaCentral,indonesiacentral
+2603:1040:1802:400::380/123,IPv6,LogicApps.IndonesiaCentral,indonesiacentral

@@ -1,0 +1,8 @@
+ip_address,ip_type,service,region
+104.41.9.53/32,IPv4,ServiceFabric.BrazilSouth,brazilsouth
+191.233.203.216/29,IPv4,ServiceFabric.BrazilSouth,brazilsouth
+191.234.149.32/30,IPv4,ServiceFabric.BrazilSouth,brazilsouth
+191.234.157.128/30,IPv4,ServiceFabric.BrazilSouth,brazilsouth
+2603:1050:6:402::98/125,IPv6,ServiceFabric.BrazilSouth,brazilsouth
+2603:1050:6:802::98/125,IPv6,ServiceFabric.BrazilSouth,brazilsouth
+2603:1050:6:c02::98/125,IPv6,ServiceFabric.BrazilSouth,brazilsouth

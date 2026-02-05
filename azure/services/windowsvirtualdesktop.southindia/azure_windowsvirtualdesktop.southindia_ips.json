@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "40.64.144.208/29",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "40.64.145.32/28",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "2603:1061:2010:15::/117",
+    "ip_type": "IPv6",
+    "service": "WindowsVirtualDesktop.SouthIndia",
+    "region": "southindia"
+  }
+]

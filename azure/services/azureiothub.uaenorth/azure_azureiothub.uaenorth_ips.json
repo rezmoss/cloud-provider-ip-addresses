@@ -1,0 +1,50 @@
+[
+  {
+    "ip_address": "20.38.139.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.UAENorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "20.38.140.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.UAENorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "20.38.155.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.UAENorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "40.120.75.160/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.UAENorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "65.52.252.160/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.UAENorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "2603:1040:904:402::300/123",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.UAENorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "2603:1040:904:802::240/123",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.UAENorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "2603:1040:904:c02::240/123",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.UAENorth",
+    "region": "uaenorth"
+  }
+]

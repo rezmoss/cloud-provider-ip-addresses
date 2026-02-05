@@ -1,0 +1,32 @@
+[
+  {
+    "ip_address": "51.120.2.185/32",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.NorwayEast",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "51.120.98.176/28",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.NorwayEast",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "51.120.234.240/28",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.NorwayEast",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "2603:1020:e04::6f0/124",
+    "ip_type": "IPv6",
+    "service": "ApiManagement.NorwayEast",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "2603:1020:e04:402::140/124",
+    "ip_type": "IPv6",
+    "service": "ApiManagement.NorwayEast",
+    "region": "norwaye"
+  }
+]

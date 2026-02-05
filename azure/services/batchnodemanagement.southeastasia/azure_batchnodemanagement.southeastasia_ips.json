@@ -1,0 +1,62 @@
+[
+  {
+    "ip_address": "13.67.9.160/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "13.67.58.116/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "20.43.132.64/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "23.97.48.186/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "23.97.51.12/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "23.98.82.160/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "40.78.234.96/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "111.221.104.48/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "207.46.225.72/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "2603:1040:5:1::340/122",
+    "ip_type": "IPv6",
+    "service": "BatchNodeManagement.SoutheastAsia",
+    "region": "southeastasia"
+  }
+]

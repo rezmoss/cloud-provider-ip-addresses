@@ -1,0 +1,32 @@
+[
+  {
+    "ip_address": "13.70.73.96/29",
+    "ip_type": "IPv4",
+    "service": "HDInsight.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "13.75.152.195/32",
+    "ip_type": "IPv4",
+    "service": "HDInsight.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "20.53.40.120/29",
+    "ip_type": "IPv4",
+    "service": "HDInsight.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "104.210.84.115/32",
+    "ip_type": "IPv4",
+    "service": "HDInsight.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "2603:1010:6:402::320/124",
+    "ip_type": "IPv6",
+    "service": "HDInsight.AustraliaEast",
+    "region": "australiaeast"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "20.203.88.62/31",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.UAECentral",
+    "region": "uaecentral"
+  },
+  {
+    "ip_address": "20.203.93.200/30",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.UAECentral",
+    "region": "uaecentral"
+  },
+  {
+    "ip_address": "2603:1040:b04::10c/126",
+    "ip_type": "IPv6",
+    "service": "ActionGroup.UAECentral",
+    "region": "uaecentral"
+  },
+  {
+    "ip_address": "2603:1040:b04:402::178/125",
+    "ip_type": "IPv6",
+    "service": "ActionGroup.UAECentral",
+    "region": "uaecentral"
+  }
+]

@@ -1,0 +1,10 @@
+ip_address,ip_type,service,region
+20.193.194.44/30,IPv4,AzureKeyVault.JioIndiaWest,jioindiawest
+20.193.194.80/29,IPv4,AzureKeyVault.JioIndiaWest,jioindiawest
+20.193.202.0/30,IPv4,AzureKeyVault.JioIndiaWest,jioindiawest
+2603:1040:d04::100/125,IPv6,AzureKeyVault.JioIndiaWest,jioindiawest
+2603:1040:d04::108/126,IPv6,AzureKeyVault.JioIndiaWest,jioindiawest
+2603:1040:d04:1::1f8/125,IPv6,AzureKeyVault.JioIndiaWest,jioindiawest
+2603:1040:d04:400::80/125,IPv6,AzureKeyVault.JioIndiaWest,jioindiawest
+2603:1040:d04:400::2f8/125,IPv6,AzureKeyVault.JioIndiaWest,jioindiawest
+2603:1040:d04:800::140/125,IPv6,AzureKeyVault.JioIndiaWest,jioindiawest

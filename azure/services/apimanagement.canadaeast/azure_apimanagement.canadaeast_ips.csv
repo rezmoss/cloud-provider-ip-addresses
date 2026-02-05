@@ -1,0 +1,7 @@
+ip_address,ip_type,service,region
+40.69.106.68/31,IPv4,ApiManagement.CanadaEast,canadaeast
+40.69.107.224/28,IPv4,ApiManagement.CanadaEast,canadaeast
+52.139.80.117/32,IPv4,ApiManagement.CanadaEast,canadaeast
+52.242.47.80/28,IPv4,ApiManagement.CanadaEast,canadaeast
+2603:1030:1005:3::1c0/124,IPv6,ApiManagement.CanadaEast,canadaeast
+2603:1030:1005:402::140/124,IPv6,ApiManagement.CanadaEast,canadaeast

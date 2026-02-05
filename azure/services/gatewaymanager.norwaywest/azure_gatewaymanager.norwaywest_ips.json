@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "51.120.176.32/27",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.219.64/29",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "51.120.224.72/29",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04::40/122",
+    "ip_type": "IPv6",
+    "service": "GatewayManager.NorwayWest",
+    "region": "norwayw"
+  }
+]

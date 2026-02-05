@@ -1,0 +1,38 @@
+[
+  {
+    "ip_address": "20.37.74.0/27",
+    "ip_type": "IPv4",
+    "service": "EventHub.UAECentral",
+    "region": "uaecentral"
+  },
+  {
+    "ip_address": "20.45.92.0/24",
+    "ip_type": "IPv4",
+    "service": "EventHub.UAECentral",
+    "region": "uaecentral"
+  },
+  {
+    "ip_address": "74.243.18.128/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.UAECentral",
+    "region": "uaecentral"
+  },
+  {
+    "ip_address": "2603:1040:b04::240/122",
+    "ip_type": "IPv6",
+    "service": "EventHub.UAECentral",
+    "region": "uaecentral"
+  },
+  {
+    "ip_address": "2603:1040:b04:2::/120",
+    "ip_type": "IPv6",
+    "service": "EventHub.UAECentral",
+    "region": "uaecentral"
+  },
+  {
+    "ip_address": "2603:1040:b04:402::1c0/123",
+    "ip_type": "IPv6",
+    "service": "EventHub.UAECentral",
+    "region": "uaecentral"
+  }
+]

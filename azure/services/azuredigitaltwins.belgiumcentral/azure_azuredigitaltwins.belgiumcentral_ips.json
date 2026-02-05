@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "9.160.43.192/27",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.160.58.32/29",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1020:1502::580/121",
+    "ip_type": "IPv6",
+    "service": "AzureDigitalTwins.BelgiumCentral",
+    "region": "belgiumcentral"
+  }
+]

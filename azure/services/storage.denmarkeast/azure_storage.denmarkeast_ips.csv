@@ -1,0 +1,6 @@
+ip_address,ip_type,service,region
+20.153.21.0/24,IPv4,Storage.DenmarkEast,denmarkeast
+20.153.33.0/24,IPv4,Storage.DenmarkEast,denmarkeast
+57.150.199.0/24,IPv4,Storage.DenmarkEast,denmarkeast
+57.150.200.0/22,IPv4,Storage.DenmarkEast,denmarkeast
+2603:1020:1603::/48,IPv6,Storage.DenmarkEast,denmarkeast

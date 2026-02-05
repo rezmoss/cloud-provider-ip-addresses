@@ -1,0 +1,3 @@
+ip_address,ip_type,service,region
+51.120.179.64/26,IPv4,AzureSignalR.NorwayWest,norwayw
+2603:1020:f04:3::100/120,IPv6,AzureSignalR.NorwayWest,norwayw

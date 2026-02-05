@@ -1,0 +1,12 @@
+ip_address,ip_type,service,region
+68.210.154.128/27,IPv4,Sql.AustriaEast,austriaeast
+68.210.154.160/29,IPv4,Sql.AustriaEast,austriaeast
+68.210.175.32/27,IPv4,Sql.AustriaEast,austriaeast
+68.210.175.64/26,IPv4,Sql.AustriaEast,austriaeast
+68.210.179.128/27,IPv4,Sql.AustriaEast,austriaeast
+68.210.192.48/29,IPv4,Sql.AustriaEast,austriaeast
+68.210.192.224/27,IPv4,Sql.AustriaEast,austriaeast
+68.210.208.48/29,IPv4,Sql.AustriaEast,austriaeast
+68.210.208.224/27,IPv4,Sql.AustriaEast,austriaeast
+2603:1020:104:3::4a0/123,IPv6,Sql.AustriaEast,austriaeast
+2603:1020:104:3::500/121,IPv6,Sql.AustriaEast,austriaeast

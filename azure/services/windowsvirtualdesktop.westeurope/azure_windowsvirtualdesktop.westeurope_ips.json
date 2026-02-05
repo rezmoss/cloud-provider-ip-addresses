@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "40.64.144.32/27",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "2603:1061:2010:19::/117",
+    "ip_type": "IPv6",
+    "service": "WindowsVirtualDesktop.WestEurope",
+    "region": "westeurope"
+  }
+]

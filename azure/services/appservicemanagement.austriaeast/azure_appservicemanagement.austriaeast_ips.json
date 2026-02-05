@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "68.210.1.0/29",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.AustriaEast",
+    "region": "austriaeast"
+  },
+  {
+    "ip_address": "68.210.172.192/26",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.AustriaEast",
+    "region": "austriaeast"
+  },
+  {
+    "ip_address": "2603:1020:104:6::c0/122",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.AustriaEast",
+    "region": "austriaeast"
+  }
+]

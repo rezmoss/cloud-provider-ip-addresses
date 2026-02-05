@@ -1,0 +1,50 @@
+[
+  {
+    "ip_address": "20.49.113.12/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.NorthCentralUS",
+    "region": "northcentralus"
+  },
+  {
+    "ip_address": "20.49.114.52/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.NorthCentralUS",
+    "region": "northcentralus"
+  },
+  {
+    "ip_address": "20.125.173.160/31",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.NorthCentralUS",
+    "region": "northcentralus"
+  },
+  {
+    "ip_address": "20.125.205.160/31",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.NorthCentralUS",
+    "region": "northcentralus"
+  },
+  {
+    "ip_address": "20.241.119.28/31",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.NorthCentralUS",
+    "region": "northcentralus"
+  },
+  {
+    "ip_address": "20.241.119.104/29",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.NorthCentralUS",
+    "region": "northcentralus"
+  },
+  {
+    "ip_address": "52.162.111.132/32",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.NorthCentralUS",
+    "region": "northcentralus"
+  },
+  {
+    "ip_address": "52.240.244.228/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.NorthCentralUS",
+    "region": "northcentralus"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "102.133.27.192/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.SouthAfricaWest",
+    "region": "southafricawest"
+  },
+  {
+    "ip_address": "102.133.56.192/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.SouthAfricaWest",
+    "region": "southafricawest"
+  },
+  {
+    "ip_address": "2603:1000:4::400/122",
+    "ip_type": "IPv6",
+    "service": "BatchNodeManagement.SouthAfricaWest",
+    "region": "southafricawest"
+  }
+]

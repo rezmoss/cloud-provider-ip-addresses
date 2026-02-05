@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+20.17.53.0/24,IPv4,EventHub.MalaysiaSouth,malaysiasouth
+20.17.67.128/26,IPv4,EventHub.MalaysiaSouth,malaysiasouth
+2603:1040:1503:1::/120,IPv6,EventHub.MalaysiaSouth,malaysiasouth

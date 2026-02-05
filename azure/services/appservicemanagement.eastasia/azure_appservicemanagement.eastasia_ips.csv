@@ -1,0 +1,16 @@
+ip_address,ip_type,service,region
+13.75.34.192/26,IPv4,AppServiceManagement.EastAsia,eastasia
+13.75.127.117/32,IPv4,AppServiceManagement.EastAsia,eastasia
+20.2.105.64/28,IPv4,AppServiceManagement.EastAsia,eastasia
+20.205.69.32/28,IPv4,AppServiceManagement.EastAsia,eastasia
+20.205.74.192/26,IPv4,AppServiceManagement.EastAsia,eastasia
+20.205.82.192/26,IPv4,AppServiceManagement.EastAsia,eastasia
+23.99.115.5/32,IPv4,AppServiceManagement.EastAsia,eastasia
+40.83.120.64/32,IPv4,AppServiceManagement.EastAsia,eastasia
+40.83.121.56/32,IPv4,AppServiceManagement.EastAsia,eastasia
+40.83.125.161/32,IPv4,AppServiceManagement.EastAsia,eastasia
+65.52.172.237/32,IPv4,AppServiceManagement.EastAsia,eastasia
+168.63.132.240/32,IPv4,AppServiceManagement.EastAsia,eastasia
+2603:1040:207:402::100/122,IPv6,AppServiceManagement.EastAsia,eastasia
+2603:1040:207:800::80/122,IPv6,AppServiceManagement.EastAsia,eastasia
+2603:1040:207:c00::80/122,IPv6,AppServiceManagement.EastAsia,eastasia

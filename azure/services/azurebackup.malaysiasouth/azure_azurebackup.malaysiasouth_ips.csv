@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+20.17.52.0/26,IPv4,AzureBackup.MalaysiaSouth,malaysiasouth
+20.17.67.64/26,IPv4,AzureBackup.MalaysiaSouth,malaysiasouth
+2603:1040:1503::680/121,IPv6,AzureBackup.MalaysiaSouth,malaysiasouth
+2603:1040:1503:400::100/121,IPv6,AzureBackup.MalaysiaSouth,malaysiasouth

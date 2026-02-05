@@ -1,0 +1,6 @@
+ip_address,ip_type,service,region
+13.77.50.32/27,IPv4,EventHub.AustraliaSoutheast,australiasoutheast
+20.92.2.0/24,IPv4,EventHub.AustraliaSoutheast,australiasoutheast
+2603:1010:101::240/122,IPv6,EventHub.AustraliaSoutheast,australiasoutheast
+2603:1010:101:2::600/119,IPv6,EventHub.AustraliaSoutheast,australiasoutheast
+2603:1010:101:402::1c0/123,IPv6,EventHub.AustraliaSoutheast,australiasoutheast

@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "13.78.109.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureSignalR.JapanEast",
+    "region": "japaneast"
+  },
+  {
+    "ip_address": "20.191.166.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureSignalR.JapanEast",
+    "region": "japaneast"
+  },
+  {
+    "ip_address": "74.176.1.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureSignalR.JapanEast",
+    "region": "japaneast"
+  },
+  {
+    "ip_address": "2603:1040:407:2::300/120",
+    "ip_type": "IPv6",
+    "service": "AzureSignalR.JapanEast",
+    "region": "japaneast"
+  }
+]

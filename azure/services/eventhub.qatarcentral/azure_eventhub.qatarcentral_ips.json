@@ -1,0 +1,32 @@
+[
+  {
+    "ip_address": "20.21.38.0/24",
+    "ip_type": "IPv4",
+    "service": "EventHub.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
+    "ip_address": "20.21.43.128/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
+    "ip_address": "20.21.67.64/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
+    "ip_address": "20.21.75.64/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
+    "ip_address": "2603:1040:1002:1::200/120",
+    "ip_type": "IPv6",
+    "service": "EventHub.QatarCentral",
+    "region": "qatarcentral"
+  }
+]

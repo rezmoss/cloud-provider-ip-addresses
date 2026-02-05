@@ -1,0 +1,32 @@
+[
+  {
+    "ip_address": "20.38.110.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "20.47.14.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "20.60.9.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "20.209.150.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "2603:1030:80c::/48",
+    "ip_type": "IPv6",
+    "service": "Storage.SouthCentralUSSTG",
+    "region": "usstagec"
+  }
+]

@@ -1,0 +1,10 @@
+ip_address,ip_type,service,region
+4.243.24.48/29,IPv4,AzureArcInfrastructure.KoreaSouth,koreasouth
+4.243.24.56/31,IPv4,AzureArcInfrastructure.KoreaSouth,koreasouth
+4.243.123.169/32,IPv4,AzureArcInfrastructure.KoreaSouth,koreasouth
+4.243.123.172/30,IPv4,AzureArcInfrastructure.KoreaSouth,koreasouth
+40.80.172.12/30,IPv4,AzureArcInfrastructure.KoreaSouth,koreasouth
+52.231.151.80/30,IPv4,AzureArcInfrastructure.KoreaSouth,koreasouth
+2603:1040:e05:6::90/124,IPv6,AzureArcInfrastructure.KoreaSouth,koreasouth
+2603:1040:e05:7::6ea/127,IPv6,AzureArcInfrastructure.KoreaSouth,koreasouth
+2603:1040:e05:7::6ec/128,IPv6,AzureArcInfrastructure.KoreaSouth,koreasouth

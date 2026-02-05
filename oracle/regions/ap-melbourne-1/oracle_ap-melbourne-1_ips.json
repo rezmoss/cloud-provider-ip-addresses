@@ -84,6 +84,12 @@
     "region": "ap-melbourne-1"
   },
   {
+    "ip_address": "149.118.92.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-melbourne-1"
+  },
+  {
     "ip_address": "158.179.4.0/22",
     "ip_type": "IPv4",
     "service": "OSN",

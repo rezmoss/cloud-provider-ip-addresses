@@ -1,0 +1,6 @@
+ip_address,ip_type,service,region
+20.240.1.100/31,IPv4,ActionGroup.SwedenCentral,swedencentral
+51.12.101.172/30,IPv4,ActionGroup.SwedenCentral,swedencentral
+172.160.216.24/30,IPv4,ActionGroup.SwedenCentral,swedencentral
+2603:1020:1004::130/126,IPv6,ActionGroup.SwedenCentral,swedencentral
+2603:1020:1004:800::f8/125,IPv6,ActionGroup.SwedenCentral,swedencentral

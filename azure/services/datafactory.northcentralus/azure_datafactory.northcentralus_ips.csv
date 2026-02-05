@@ -1,0 +1,15 @@
+ip_address,ip_type,service,region
+20.49.114.24/29,IPv4,DataFactory.NorthCentralUS,northcentralus
+20.49.118.128/25,IPv4,DataFactory.NorthCentralUS,northcentralus
+20.125.163.208/29,IPv4,DataFactory.NorthCentralUS,northcentralus
+20.125.171.208/28,IPv4,DataFactory.NorthCentralUS,northcentralus
+20.125.203.208/28,IPv4,DataFactory.NorthCentralUS,northcentralus
+40.80.185.0/24,IPv4,DataFactory.NorthCentralUS,northcentralus
+40.80.186.0/25,IPv4,DataFactory.NorthCentralUS,northcentralus
+52.162.111.48/28,IPv4,DataFactory.NorthCentralUS,northcentralus
+135.224.39.224/27,IPv4,DataFactory.NorthCentralUS,northcentralus
+2603:1030:608::440/122,IPv6,DataFactory.NorthCentralUS,northcentralus
+2603:1030:608::500/121,IPv6,DataFactory.NorthCentralUS,northcentralus
+2603:1030:608:402::330/124,IPv6,DataFactory.NorthCentralUS,northcentralus
+2603:1030:608:800::2c0/124,IPv6,DataFactory.NorthCentralUS,northcentralus
+2603:1030:608:c00::2c0/124,IPv6,DataFactory.NorthCentralUS,northcentralus

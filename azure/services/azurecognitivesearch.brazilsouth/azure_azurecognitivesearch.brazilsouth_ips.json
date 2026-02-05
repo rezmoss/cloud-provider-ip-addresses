@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "191.233.26.156/32",
+    "ip_type": "IPv4",
+    "service": "AzureCognitiveSearch.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "191.235.225.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureCognitiveSearch.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "2603:1050:6:1::180/121",
+    "ip_type": "IPv6",
+    "service": "AzureCognitiveSearch.BrazilSouth",
+    "region": "brazilsouth"
+  }
+]

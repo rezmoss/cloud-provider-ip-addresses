@@ -1,0 +1,7 @@
+ip_address,ip_type,service,region
+68.211.152.0/29,IPv4,MicrosoftContainerRegistry.ChileCentral,chilec
+68.211.168.0/29,IPv4,MicrosoftContainerRegistry.ChileCentral,chilec
+68.211.184.0/29,IPv4,MicrosoftContainerRegistry.ChileCentral,chilec
+2603:1050:301:400::/125,IPv6,MicrosoftContainerRegistry.ChileCentral,chilec
+2603:1050:301:800::/125,IPv6,MicrosoftContainerRegistry.ChileCentral,chilec
+2603:1050:301:c00::/125,IPv6,MicrosoftContainerRegistry.ChileCentral,chilec

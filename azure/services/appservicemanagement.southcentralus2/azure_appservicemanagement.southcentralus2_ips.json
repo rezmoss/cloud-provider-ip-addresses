@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "48.216.28.192/26",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.SouthCentralUS2",
+    "region": "southcentralus2"
+  },
+  {
+    "ip_address": "48.216.60.0/29",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.SouthCentralUS2",
+    "region": "southcentralus2"
+  },
+  {
+    "ip_address": "2603:1030:1102:2::240/122",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.SouthCentralUS2",
+    "region": "southcentralus2"
+  }
+]

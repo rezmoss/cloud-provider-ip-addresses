@@ -1,0 +1,3 @@
+ip_address,ip_type,service,region
+20.99.27.84/31,IPv4,AzureArcInfrastructure.EastUSSTG,usstagee
+20.99.27.96/29,IPv4,AzureArcInfrastructure.EastUSSTG,usstagee

@@ -1,0 +1,50 @@
+[
+  {
+    "ip_address": "20.195.150.160/27",
+    "ip_type": "IPv4",
+    "service": "EventHub.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "20.195.150.192/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "20.195.151.0/25",
+    "ip_type": "IPv4",
+    "service": "EventHub.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "191.233.9.64/27",
+    "ip_type": "IPv4",
+    "service": "EventHub.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "191.237.224.0/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "2603:1050:403::240/122",
+    "ip_type": "IPv6",
+    "service": "EventHub.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "2603:1050:403:2::/120",
+    "ip_type": "IPv6",
+    "service": "EventHub.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "2603:1050:403:400::1c0/123",
+    "ip_type": "IPv6",
+    "service": "EventHub.BrazilSoutheast",
+    "region": "brazilse"
+  }
+]

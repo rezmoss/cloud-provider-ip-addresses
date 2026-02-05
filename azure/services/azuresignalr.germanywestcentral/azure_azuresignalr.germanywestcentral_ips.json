@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "51.116.149.96/27",
+    "ip_type": "IPv4",
+    "service": "AzureSignalR.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "51.116.246.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureSignalR.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "72.144.226.160/27",
+    "ip_type": "IPv4",
+    "service": "AzureSignalR.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "2603:1020:c04:2::300/120",
+    "ip_type": "IPv6",
+    "service": "AzureSignalR.GermanyWestCentral",
+    "region": "germanywc"
+  }
+]

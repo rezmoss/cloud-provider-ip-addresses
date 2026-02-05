@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+20.17.51.36/30,IPv4,AzureAttestation.MalaysiaSouth,malaysiasouth
+85.211.94.232/29,IPv4,AzureAttestation.MalaysiaSouth,malaysiasouth
+2603:1040:1503::620/124,IPv6,AzureAttestation.MalaysiaSouth,malaysiasouth

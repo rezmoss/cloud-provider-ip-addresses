@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "20.40.152.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "20.43.42.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "2603:1020:805:1::380/121",
+    "ip_type": "IPv6",
+    "service": "AzureEventGrid.FranceCentral",
+    "region": "centralfrance"
+  }
+]

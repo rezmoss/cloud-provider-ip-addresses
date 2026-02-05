@@ -1,0 +1,50 @@
+[
+  {
+    "ip_address": "48.216.12.32/28",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SouthCentralUS2",
+    "region": "southcentralus2"
+  },
+  {
+    "ip_address": "48.216.12.64/27",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SouthCentralUS2",
+    "region": "southcentralus2"
+  },
+  {
+    "ip_address": "48.216.48.80/28",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SouthCentralUS2",
+    "region": "southcentralus2"
+  },
+  {
+    "ip_address": "48.216.48.96/27",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SouthCentralUS2",
+    "region": "southcentralus2"
+  },
+  {
+    "ip_address": "2603:1030:1102:3::6f0/124",
+    "ip_type": "IPv6",
+    "service": "LogicApps.SouthCentralUS2",
+    "region": "southcentralus2"
+  },
+  {
+    "ip_address": "2603:1030:1102:4::2c0/123",
+    "ip_type": "IPv6",
+    "service": "LogicApps.SouthCentralUS2",
+    "region": "southcentralus2"
+  },
+  {
+    "ip_address": "2603:1030:1102:400::340/124",
+    "ip_type": "IPv6",
+    "service": "LogicApps.SouthCentralUS2",
+    "region": "southcentralus2"
+  },
+  {
+    "ip_address": "2603:1030:1102:400::360/123",
+    "ip_type": "IPv6",
+    "service": "LogicApps.SouthCentralUS2",
+    "region": "southcentralus2"
+  }
+]

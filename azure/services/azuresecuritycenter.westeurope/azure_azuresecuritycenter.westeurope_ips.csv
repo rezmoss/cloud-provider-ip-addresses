@@ -1,0 +1,10 @@
+ip_address,ip_type,service,region
+48.209.0.0/23,IPv4,AzureSecurityCenter.WestEurope,westeurope
+48.209.2.0/25,IPv4,AzureSecurityCenter.WestEurope,westeurope
+50.85.247.64/27,IPv4,AzureSecurityCenter.WestEurope,westeurope
+50.85.247.128/25,IPv4,AzureSecurityCenter.WestEurope,westeurope
+52.178.17.32/27,IPv4,AzureSecurityCenter.WestEurope,westeurope
+57.153.216.0/24,IPv4,AzureSecurityCenter.WestEurope,westeurope
+128.251.169.0/24,IPv4,AzureSecurityCenter.WestEurope,westeurope
+128.251.170.0/23,IPv4,AzureSecurityCenter.WestEurope,westeurope
+172.211.127.64/26,IPv4,AzureSecurityCenter.WestEurope,westeurope

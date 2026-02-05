@@ -1,0 +1,44 @@
+[
+  {
+    "ip_address": "20.33.236.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.ChileCentral",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "20.33.240.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.ChileCentral",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "20.153.38.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.ChileCentral",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "57.150.101.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.ChileCentral",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "57.150.112.0/22",
+    "ip_type": "IPv4",
+    "service": "Storage.ChileCentral",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "57.150.116.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.ChileCentral",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "2603:1050:302::/48",
+    "ip_type": "IPv6",
+    "service": "Storage.ChileCentral",
+    "region": "chilec"
+  }
+]

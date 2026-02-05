@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "40.64.144.0/20",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop",
+    "region": ""
+  },
+  {
+    "ip_address": "51.5.0.0/16",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1061:2010::/48",
+    "ip_type": "IPv6",
+    "service": "WindowsVirtualDesktop",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1061:2011::/48",
+    "ip_type": "IPv6",
+    "service": "WindowsVirtualDesktop",
+    "region": ""
+  }
+]

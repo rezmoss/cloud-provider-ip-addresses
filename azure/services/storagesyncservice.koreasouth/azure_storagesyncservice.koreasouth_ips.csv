@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+40.80.169.176/29,IPv4,StorageSyncService.KoreaSouth,koreasouth
+52.147.98.56/29,IPv4,StorageSyncService.KoreaSouth,koreasouth
+2603:1040:e05:402::280/123,IPv6,StorageSyncService.KoreaSouth,koreasouth

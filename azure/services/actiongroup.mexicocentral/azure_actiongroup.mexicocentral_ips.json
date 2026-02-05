@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "158.23.10.88/30",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "158.23.119.232/30",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "2603:1030:702:1::2a8/126",
+    "ip_type": "IPv6",
+    "service": "ActionGroup.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "2603:1030:702:400::100/125",
+    "ip_type": "IPv6",
+    "service": "ActionGroup.MexicoCentral",
+    "region": "mexicocentral"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "20.193.202.4/30",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "40.64.15.124/30",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "2603:1040:d04::10c/126",
+    "ip_type": "IPv6",
+    "service": "ActionGroup.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "2603:1040:d04:800::f8/125",
+    "ip_type": "IPv6",
+    "service": "ActionGroup.JioIndiaWest",
+    "region": "jioindiawest"
+  }
+]

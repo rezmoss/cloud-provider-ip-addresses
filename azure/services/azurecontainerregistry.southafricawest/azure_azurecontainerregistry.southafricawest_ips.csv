@@ -1,0 +1,9 @@
+ip_address,ip_type,service,region
+102.37.65.64/26,IPv4,AzureContainerRegistry.SouthAfricaWest,southafricawest
+102.37.65.192/26,IPv4,AzureContainerRegistry.SouthAfricaWest,southafricawest
+102.133.26.24/29,IPv4,AzureContainerRegistry.SouthAfricaWest,southafricawest
+172.209.9.128/26,IPv4,AzureContainerRegistry.SouthAfricaWest,southafricawest
+2603:1000:4:5::740/122,IPv6,AzureContainerRegistry.SouthAfricaWest,southafricawest
+2603:1000:4:402::90/125,IPv6,AzureContainerRegistry.SouthAfricaWest,southafricawest
+2603:1000:4:402::340/122,IPv6,AzureContainerRegistry.SouthAfricaWest,southafricawest
+2603:1000:4:402::580/122,IPv6,AzureContainerRegistry.SouthAfricaWest,southafricawest

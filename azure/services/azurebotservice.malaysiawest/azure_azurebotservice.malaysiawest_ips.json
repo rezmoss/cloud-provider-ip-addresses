@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "20.17.112.16/30",
+    "ip_type": "IPv4",
+    "service": "AzureBotService.MalaysiaWest",
+    "region": "malaysiawest"
+  },
+  {
+    "ip_address": "2603:1040:1602::20/123",
+    "ip_type": "IPv6",
+    "service": "AzureBotService.MalaysiaWest",
+    "region": "malaysiawest"
+  }
+]

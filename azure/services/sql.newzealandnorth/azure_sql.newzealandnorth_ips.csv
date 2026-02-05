@@ -1,0 +1,11 @@
+ip_address,ip_type,service,region
+172.204.167.64/27,IPv4,Sql.NewZealandNorth,newzealandnorth
+172.204.167.128/26,IPv4,Sql.NewZealandNorth,newzealandnorth
+172.204.177.0/29,IPv4,Sql.NewZealandNorth,newzealandnorth
+172.204.183.96/27,IPv4,Sql.NewZealandNorth,newzealandnorth
+172.204.192.24/29,IPv4,Sql.NewZealandNorth,newzealandnorth
+172.204.194.128/27,IPv4,Sql.NewZealandNorth,newzealandnorth
+172.204.208.24/29,IPv4,Sql.NewZealandNorth,newzealandnorth
+172.204.210.128/27,IPv4,Sql.NewZealandNorth,newzealandnorth
+2603:1010:502:2::7a0/123,IPv6,Sql.NewZealandNorth,newzealandnorth
+2603:1010:502:3::/121,IPv6,Sql.NewZealandNorth,newzealandnorth

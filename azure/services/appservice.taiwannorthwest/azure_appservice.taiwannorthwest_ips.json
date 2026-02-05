@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "51.53.179.0/24",
+    "ip_type": "IPv4",
+    "service": "AppService.TaiwanNorthwest",
+    "region": "taiwannorthwest"
+  },
+  {
+    "ip_address": "2603:1040:1202:2::/120",
+    "ip_type": "IPv6",
+    "service": "AppService.TaiwanNorthwest",
+    "region": "taiwannorthwest"
+  }
+]

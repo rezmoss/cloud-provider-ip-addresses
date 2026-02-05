@@ -1,0 +1,7 @@
+ip_address,ip_type,service,region
+20.192.47.0/26,IPv4,GatewayManager.CentralIndia,centralindia
+20.193.142.141/32,IPv4,GatewayManager.CentralIndia,centralindia
+20.193.142.178/32,IPv4,GatewayManager.CentralIndia,centralindia
+52.140.104.72/29,IPv4,GatewayManager.CentralIndia,centralindia
+104.211.81.208/29,IPv4,GatewayManager.CentralIndia,centralindia
+2603:1040:a06:1::40/122,IPv6,GatewayManager.CentralIndia,centralindia

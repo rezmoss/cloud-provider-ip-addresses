@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "20.192.161.224/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "20.193.203.128/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "2603:1040:d04::340/122",
+    "ip_type": "IPv6",
+    "service": "BatchNodeManagement.JioIndiaWest",
+    "region": "jioindiawest"
+  }
+]

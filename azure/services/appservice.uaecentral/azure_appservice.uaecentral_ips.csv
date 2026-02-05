@@ -1,0 +1,7 @@
+ip_address,ip_type,service,region
+20.37.66.0/27,IPv4,AppService.UAECentral,uaecentral
+20.37.74.96/27,IPv4,AppService.UAECentral,uaecentral
+20.45.94.192/26,IPv4,AppService.UAECentral,uaecentral
+20.45.95.0/26,IPv4,AppService.UAECentral,uaecentral
+2603:1040:b04:2::400/120,IPv6,AppService.UAECentral,uaecentral
+2603:1040:b04:402::a0/123,IPv6,AppService.UAECentral,uaecentral

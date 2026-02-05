@@ -1,0 +1,122 @@
+[
+  {
+    "ip_address": "13.73.242.224/27",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "20.45.3.127/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "20.188.72.248/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "40.80.219.49/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "40.80.220.215/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "40.80.220.246/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "40.80.221.77/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "40.80.222.91/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "40.80.222.197/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "40.124.53.69/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "52.153.240.107/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "52.249.25.160/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "52.249.25.165/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "157.55.91.49/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "157.55.91.50/31",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "157.55.91.52/30",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "157.55.91.56/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "172.215.188.112/28",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "172.215.188.128/27",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "172.215.188.160/28",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.SouthCentralUS",
+    "region": "southcentralus"
+  }
+]

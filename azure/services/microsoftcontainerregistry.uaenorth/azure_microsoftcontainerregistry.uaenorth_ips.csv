@@ -1,0 +1,7 @@
+ip_address,ip_type,service,region
+20.38.152.72/29,IPv4,MicrosoftContainerRegistry.UAENorth,uaenorth
+40.120.74.8/29,IPv4,MicrosoftContainerRegistry.UAENorth,uaenorth
+65.52.250.8/29,IPv4,MicrosoftContainerRegistry.UAENorth,uaenorth
+2603:1040:904:402::88/125,IPv6,MicrosoftContainerRegistry.UAENorth,uaenorth
+2603:1040:904:802::88/125,IPv6,MicrosoftContainerRegistry.UAENorth,uaenorth
+2603:1040:904:c02::88/125,IPv6,MicrosoftContainerRegistry.UAENorth,uaenorth

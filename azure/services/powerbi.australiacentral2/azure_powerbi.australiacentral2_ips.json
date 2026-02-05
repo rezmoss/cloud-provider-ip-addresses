@@ -1,0 +1,32 @@
+[
+  {
+    "ip_address": "20.36.120.122/31",
+    "ip_type": "IPv4",
+    "service": "PowerBI.AustraliaCentral2",
+    "region": "australiacentral2"
+  },
+  {
+    "ip_address": "20.36.120.124/30",
+    "ip_type": "IPv4",
+    "service": "PowerBI.AustraliaCentral2",
+    "region": "australiacentral2"
+  },
+  {
+    "ip_address": "20.36.120.208/29",
+    "ip_type": "IPv4",
+    "service": "PowerBI.AustraliaCentral2",
+    "region": "australiacentral2"
+  },
+  {
+    "ip_address": "2603:1010:404::620/123",
+    "ip_type": "IPv6",
+    "service": "PowerBI.AustraliaCentral2",
+    "region": "australiacentral2"
+  },
+  {
+    "ip_address": "2603:1010:404::640/122",
+    "ip_type": "IPv6",
+    "service": "PowerBI.AustraliaCentral2",
+    "region": "australiacentral2"
+  }
+]

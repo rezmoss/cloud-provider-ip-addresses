@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "20.193.203.96/28",
+    "ip_type": "IPv4",
+    "service": "AzureDataExplorerManagement.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "98.70.128.144/28",
+    "ip_type": "IPv4",
+    "service": "AzureDataExplorerManagement.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "2603:1040:d04:2::280/121",
+    "ip_type": "IPv6",
+    "service": "AzureDataExplorerManagement.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "2603:1040:d04:800::d0/124",
+    "ip_type": "IPv6",
+    "service": "AzureDataExplorerManagement.JioIndiaWest",
+    "region": "jioindiawest"
+  }
+]

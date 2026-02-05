@@ -7,6 +7,7 @@ CREATE TABLE IF NOT EXISTS `oracle_ca-montreal-1_ips` (
 );
 
 INSERT INTO `oracle_ca-montreal-1_ips` (`ip_address`, `ip_type`) VALUES ('68.233.120.0/21', 'IPv4');
+INSERT INTO `oracle_ca-montreal-1_ips` (`ip_address`, `ip_type`) VALUES ('147.15.128.0/19', 'IPv4');
 INSERT INTO `oracle_ca-montreal-1_ips` (`ip_address`, `ip_type`) VALUES ('148.116.64.0/19', 'IPv4');
 INSERT INTO `oracle_ca-montreal-1_ips` (`ip_address`, `ip_type`) VALUES ('151.145.32.0/19', 'IPv4');
 INSERT INTO `oracle_ca-montreal-1_ips` (`ip_address`, `ip_type`) VALUES ('155.248.224.0/20', 'IPv4');

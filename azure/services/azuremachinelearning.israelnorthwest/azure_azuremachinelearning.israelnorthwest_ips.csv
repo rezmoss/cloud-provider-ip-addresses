@@ -1,0 +1,3 @@
+ip_address,ip_type,service,region
+20.217.249.0/27,IPv4,AzureMachineLearning.IsraelNorthwest,israelnorthwest
+2603:1040:1702::200/122,IPv6,AzureMachineLearning.IsraelNorthwest,israelnorthwest

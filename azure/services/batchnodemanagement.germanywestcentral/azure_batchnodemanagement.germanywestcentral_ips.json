@@ -1,0 +1,32 @@
+[
+  {
+    "ip_address": "51.116.144.224/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "51.116.154.32/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "51.116.243.0/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "51.116.251.0/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "2603:1020:c04:1::340/122",
+    "ip_type": "IPv6",
+    "service": "BatchNodeManagement.GermanyWestCentral",
+    "region": "germanywc"
+  }
+]

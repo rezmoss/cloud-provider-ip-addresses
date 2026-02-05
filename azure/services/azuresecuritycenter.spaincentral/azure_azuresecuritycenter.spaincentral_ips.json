@@ -1,0 +1,38 @@
+[
+  {
+    "ip_address": "70.156.174.4/30",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "70.156.174.16/28",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "70.156.174.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "70.156.174.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "70.156.175.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "158.158.128.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.SpainCentral",
+    "region": "spaincentral"
+  }
+]

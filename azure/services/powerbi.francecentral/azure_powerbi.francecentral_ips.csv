@@ -1,0 +1,13 @@
+ip_address,ip_type,service,region
+20.43.41.176/31,IPv4,PowerBI.FranceCentral,centralfrance
+20.43.41.184/29,IPv4,PowerBI.FranceCentral,centralfrance
+20.43.41.192/26,IPv4,PowerBI.FranceCentral,centralfrance
+20.111.0.192/29,IPv4,PowerBI.FranceCentral,centralfrance
+48.220.47.64/27,IPv4,PowerBI.FranceCentral,centralfrance
+51.138.215.114/31,IPv4,PowerBI.FranceCentral,centralfrance
+51.138.215.116/30,IPv4,PowerBI.FranceCentral,centralfrance
+51.138.215.120/31,IPv4,PowerBI.FranceCentral,centralfrance
+2603:1020:805::/122,IPv6,PowerBI.FranceCentral,centralfrance
+2603:1020:805::40/123,IPv6,PowerBI.FranceCentral,centralfrance
+2603:1020:805:1::5e0/123,IPv6,PowerBI.FranceCentral,centralfrance
+2603:1020:805:1::600/122,IPv6,PowerBI.FranceCentral,centralfrance

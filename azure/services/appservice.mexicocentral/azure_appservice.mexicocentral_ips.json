@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "158.23.105.0/24",
+    "ip_type": "IPv4",
+    "service": "AppService.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "2603:1030:702:1::700/120",
+    "ip_type": "IPv6",
+    "service": "AppService.MexicoCentral",
+    "region": "mexicocentral"
+  }
+]

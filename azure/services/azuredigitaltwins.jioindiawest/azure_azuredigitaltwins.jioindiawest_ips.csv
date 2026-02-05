@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+20.192.166.176/29,IPv4,AzureDigitalTwins.JioIndiaWest,jioindiawest
+20.192.167.128/27,IPv4,AzureDigitalTwins.JioIndiaWest,jioindiawest
+2603:1040:d04:1::540/122,IPv6,AzureDigitalTwins.JioIndiaWest,jioindiawest
+2603:1040:d04:2::80/121,IPv6,AzureDigitalTwins.JioIndiaWest,jioindiawest

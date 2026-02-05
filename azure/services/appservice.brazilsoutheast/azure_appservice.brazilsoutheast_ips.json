@@ -1,0 +1,50 @@
+[
+  {
+    "ip_address": "20.206.0.200/29",
+    "ip_type": "IPv4",
+    "service": "AppService.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "20.206.1.0/24",
+    "ip_type": "IPv4",
+    "service": "AppService.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "20.206.2.0/25",
+    "ip_type": "IPv4",
+    "service": "AppService.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "191.232.16.16/32",
+    "ip_type": "IPv4",
+    "service": "AppService.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "191.232.16.52/32",
+    "ip_type": "IPv4",
+    "service": "AppService.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "191.233.50.32/27",
+    "ip_type": "IPv4",
+    "service": "AppService.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "2603:1050:403:2::400/119",
+    "ip_type": "IPv6",
+    "service": "AppService.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "2603:1050:403:400::a0/123",
+    "ip_type": "IPv6",
+    "service": "AppService.BrazilSoutheast",
+    "region": "brazilse"
+  }
+]

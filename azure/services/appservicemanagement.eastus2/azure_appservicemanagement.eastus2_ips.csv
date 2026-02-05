@@ -1,0 +1,11 @@
+ip_address,ip_type,service,region
+4.153.250.16/29,IPv4,AppServiceManagement.EastUS2,eastus2
+20.36.144.192/26,IPv4,AppServiceManagement.EastUS2,eastus2
+20.98.193.224/28,IPv4,AppServiceManagement.EastUS2,eastus2
+40.70.146.128/26,IPv4,AppServiceManagement.EastUS2,eastus2
+52.167.111.64/26,IPv4,AppServiceManagement.EastUS2,eastus2
+104.46.108.135/32,IPv4,AppServiceManagement.EastUS2,eastus2
+2603:1030:40c::7c0/123,IPv6,AppServiceManagement.EastUS2,eastus2
+2603:1030:40c:402::100/122,IPv6,AppServiceManagement.EastUS2,eastus2
+2603:1030:40c:802::100/122,IPv6,AppServiceManagement.EastUS2,eastus2
+2603:1030:40c:c02::100/122,IPv6,AppServiceManagement.EastUS2,eastus2

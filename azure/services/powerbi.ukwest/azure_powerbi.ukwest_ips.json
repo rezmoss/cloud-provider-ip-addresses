@@ -1,0 +1,86 @@
+[
+  {
+    "ip_address": "20.58.120.224/27",
+    "ip_type": "IPv4",
+    "service": "PowerBI.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.90.32.144/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.90.36.40/29",
+    "ip_type": "IPv4",
+    "service": "PowerBI.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.90.36.96/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.90.36.112/30",
+    "ip_type": "IPv4",
+    "service": "PowerBI.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.160.70/31",
+    "ip_type": "IPv4",
+    "service": "PowerBI.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.161.160/27",
+    "ip_type": "IPv4",
+    "service": "PowerBI.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.161.192/27",
+    "ip_type": "IPv4",
+    "service": "PowerBI.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "172.186.26.16/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "172.186.55.128/26",
+    "ip_type": "IPv4",
+    "service": "PowerBI.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "172.186.74.64/27",
+    "ip_type": "IPv4",
+    "service": "PowerBI.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "172.187.32.32/27",
+    "ip_type": "IPv4",
+    "service": "PowerBI.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605::620/123",
+    "ip_type": "IPv6",
+    "service": "PowerBI.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605::640/122",
+    "ip_type": "IPv6",
+    "service": "PowerBI.UKWest",
+    "region": "ukwest"
+  }
+]

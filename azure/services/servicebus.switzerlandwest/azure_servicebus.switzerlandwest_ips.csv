@@ -1,0 +1,7 @@
+ip_address,ip_type,service,region
+51.107.154.8/29,IPv4,ServiceBus.SwitzerlandWest,switzerlandw
+51.107.193.144/28,IPv4,ServiceBus.SwitzerlandWest,switzerlandw
+51.107.252.128/25,IPv4,ServiceBus.SwitzerlandWest,switzerlandw
+2603:1020:b04::220/123,IPv6,ServiceBus.SwitzerlandWest,switzerlandw
+2603:1020:b04:1::500/120,IPv6,ServiceBus.SwitzerlandWest,switzerlandw
+2603:1020:b04:402::170/125,IPv6,ServiceBus.SwitzerlandWest,switzerlandw

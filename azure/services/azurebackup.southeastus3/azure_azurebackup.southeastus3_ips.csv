@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+74.7.44.16/28,IPv4,AzureBackup.SoutheastUS3,southeastus3
+74.7.44.64/26,IPv4,AzureBackup.SoutheastUS3,southeastus3
+2603:1030:1302::600/121,IPv6,AzureBackup.SoutheastUS3,southeastus3

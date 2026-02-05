@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+191.233.26.156/32,IPv4,AzureCognitiveSearch.BrazilSouth,brazilsouth
+191.235.225.64/26,IPv4,AzureCognitiveSearch.BrazilSouth,brazilsouth
+2603:1050:6:1::180/121,IPv6,AzureCognitiveSearch.BrazilSouth,brazilsouth

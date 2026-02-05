@@ -1,0 +1,12 @@
+ip_address,ip_type,service,region
+20.217.251.64/26,IPv4,AzureContainerRegistry.IsraelNorthwest,israelnorthwest
+51.4.143.0/26,IPv4,AzureContainerRegistry.IsraelNorthwest,israelnorthwest
+51.4.160.64/26,IPv4,AzureContainerRegistry.IsraelNorthwest,israelnorthwest
+51.4.162.0/25,IPv4,AzureContainerRegistry.IsraelNorthwest,israelnorthwest
+2603:1040:1702::3e0/125,IPv6,AzureContainerRegistry.IsraelNorthwest,israelnorthwest
+2603:1040:1702:4::200/121,IPv6,AzureContainerRegistry.IsraelNorthwest,israelnorthwest
+2603:1040:1702:4::570/124,IPv6,AzureContainerRegistry.IsraelNorthwest,israelnorthwest
+2603:1040:1702:4::600/123,IPv6,AzureContainerRegistry.IsraelNorthwest,israelnorthwest
+2603:1040:1702:4::620/125,IPv6,AzureContainerRegistry.IsraelNorthwest,israelnorthwest
+2603:1040:1702:400::8/125,IPv6,AzureContainerRegistry.IsraelNorthwest,israelnorthwest
+2603:1040:1702:400::80/121,IPv6,AzureContainerRegistry.IsraelNorthwest,israelnorthwest

@@ -1,0 +1,3 @@
+ip_address,ip_type,service,region
+172.204.160.24/29,IPv4,HDInsight.NewZealandNorth,newzealandnorth
+2603:1010:502:1::2f0/124,IPv6,HDInsight.NewZealandNorth,newzealandnorth

@@ -1,0 +1,7 @@
+ip_address,ip_type,service,region
+51.53.106.64/29,IPv4,MicrosoftContainerRegistry.TaiwanNorth,taiwannorth
+70.157.88.0/29,IPv4,MicrosoftContainerRegistry.TaiwanNorth,taiwannorth
+167.105.104.0/29,IPv4,MicrosoftContainerRegistry.TaiwanNorth,taiwannorth
+2603:1040:1302:400::40/125,IPv6,MicrosoftContainerRegistry.TaiwanNorth,taiwannorth
+2603:1040:1302:800::10/125,IPv6,MicrosoftContainerRegistry.TaiwanNorth,taiwannorth
+2603:1040:1302:c00::10/125,IPv6,MicrosoftContainerRegistry.TaiwanNorth,taiwannorth

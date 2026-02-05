@@ -1,0 +1,56 @@
+[
+  {
+    "ip_address": "20.208.19.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "51.103.203.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "51.107.59.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "51.107.59.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "51.107.243.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "2603:1020:a04:2::600/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "2603:1020:a04:402::200/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "2603:1020:a04:802::180/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "2603:1020:a04:c02::180/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.SwitzerlandNorth",
+    "region": "switzerlandn"
+  }
+]

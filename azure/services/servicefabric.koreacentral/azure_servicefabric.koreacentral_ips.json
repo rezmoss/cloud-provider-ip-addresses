@@ -1,0 +1,44 @@
+[
+  {
+    "ip_address": "20.44.29.52/30",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "20.194.66.4/30",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "52.231.18.232/29",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "52.231.32.81/32",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "2603:1040:f05:402::98/125",
+    "ip_type": "IPv6",
+    "service": "ServiceFabric.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "2603:1040:f05:802::98/125",
+    "ip_type": "IPv6",
+    "service": "ServiceFabric.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "2603:1040:f05:c02::98/125",
+    "ip_type": "IPv6",
+    "service": "ServiceFabric.KoreaCentral",
+    "region": "koreacentral"
+  }
+]

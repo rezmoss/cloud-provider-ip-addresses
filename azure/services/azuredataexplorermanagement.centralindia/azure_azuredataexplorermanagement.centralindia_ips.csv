@@ -1,0 +1,7 @@
+ip_address,ip_type,service,region
+20.43.120.96/28,IPv4,AzureDataExplorerManagement.CentralIndia,centralindia
+20.192.47.96/28,IPv4,AzureDataExplorerManagement.CentralIndia,centralindia
+40.81.248.53/32,IPv4,AzureDataExplorerManagement.CentralIndia,centralindia
+40.81.249.251/32,IPv4,AzureDataExplorerManagement.CentralIndia,centralindia
+2603:1040:a06::700/121,IPv6,AzureDataExplorerManagement.CentralIndia,centralindia
+2603:1040:a06:402::150/124,IPv6,AzureDataExplorerManagement.CentralIndia,centralindia

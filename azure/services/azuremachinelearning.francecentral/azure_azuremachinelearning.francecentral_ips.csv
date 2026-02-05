@@ -1,0 +1,9 @@
+ip_address,ip_type,service,region
+20.40.141.171/32,IPv4,AzureMachineLearning.FranceCentral,centralfrance
+20.43.40.96/28,IPv4,AzureMachineLearning.FranceCentral,centralfrance
+40.66.61.146/32,IPv4,AzureMachineLearning.FranceCentral,centralfrance
+40.79.130.192/28,IPv4,AzureMachineLearning.FranceCentral,centralfrance
+40.79.138.128/28,IPv4,AzureMachineLearning.FranceCentral,centralfrance
+40.79.146.128/28,IPv4,AzureMachineLearning.FranceCentral,centralfrance
+51.138.213.16/28,IPv4,AzureMachineLearning.FranceCentral,centralfrance
+2603:1020:805:1::2c0/122,IPv6,AzureMachineLearning.FranceCentral,centralfrance

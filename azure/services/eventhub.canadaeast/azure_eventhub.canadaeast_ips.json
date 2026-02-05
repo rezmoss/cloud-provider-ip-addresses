@@ -1,0 +1,38 @@
+[
+  {
+    "ip_address": "40.69.106.32/27",
+    "ip_type": "IPv4",
+    "service": "EventHub.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.69.117.64/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.139.109.0/24",
+    "ip_type": "IPv4",
+    "service": "EventHub.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005::240/122",
+    "ip_type": "IPv6",
+    "service": "EventHub.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:2::/120",
+    "ip_type": "IPv6",
+    "service": "EventHub.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:402::1c0/123",
+    "ip_type": "IPv6",
+    "service": "EventHub.CanadaEast",
+    "region": "canadaeast"
+  }
+]

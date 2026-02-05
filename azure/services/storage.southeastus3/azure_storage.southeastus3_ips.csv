@@ -1,0 +1,9 @@
+ip_address,ip_type,service,region
+20.153.28.0/24,IPv4,Storage.SoutheastUS3,southeastus3
+20.153.46.0/24,IPv4,Storage.SoutheastUS3,southeastus3
+20.153.112.0/24,IPv4,Storage.SoutheastUS3,southeastus3
+57.150.186.0/23,IPv4,Storage.SoutheastUS3,southeastus3
+57.150.214.0/23,IPv4,Storage.SoutheastUS3,southeastus3
+135.130.124.0/23,IPv4,Storage.SoutheastUS3,southeastus3
+135.130.144.0/23,IPv4,Storage.SoutheastUS3,southeastus3
+2603:1030:1303::/48,IPv6,Storage.SoutheastUS3,southeastus3

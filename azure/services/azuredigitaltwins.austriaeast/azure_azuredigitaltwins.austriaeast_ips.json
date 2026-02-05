@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "68.210.163.192/27",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.AustriaEast",
+    "region": "austriaeast"
+  },
+  {
+    "ip_address": "68.210.179.32/29",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.AustriaEast",
+    "region": "austriaeast"
+  },
+  {
+    "ip_address": "2603:1020:104:4::380/121",
+    "ip_type": "IPv6",
+    "service": "AzureDigitalTwins.AustriaEast",
+    "region": "austriaeast"
+  }
+]

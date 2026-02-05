@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+9.160.43.0/26,IPv4,AzureCosmosDB.BelgiumCentral,belgiumcentral
+9.160.58.64/27,IPv4,AzureCosmosDB.BelgiumCentral,belgiumcentral
+2603:1020:1502::1e0/123,IPv6,AzureCosmosDB.BelgiumCentral,belgiumcentral

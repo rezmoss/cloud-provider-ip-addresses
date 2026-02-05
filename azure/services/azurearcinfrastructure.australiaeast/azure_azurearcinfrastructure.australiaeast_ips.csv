@@ -1,0 +1,8 @@
+ip_address,ip_type,service,region
+13.70.79.64/32,IPv4,AzureArcInfrastructure.AustraliaEast,australiaeast
+13.70.79.198/31,IPv4,AzureArcInfrastructure.AustraliaEast,australiaeast
+20.37.196.248/30,IPv4,AzureArcInfrastructure.AustraliaEast,australiaeast
+20.53.41.44/30,IPv4,AzureArcInfrastructure.AustraliaEast,australiaeast
+40.79.167.16/30,IPv4,AzureArcInfrastructure.AustraliaEast,australiaeast
+40.79.167.20/32,IPv4,AzureArcInfrastructure.AustraliaEast,australiaeast
+40.79.173.36/32,IPv4,AzureArcInfrastructure.AustraliaEast,australiaeast

@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "51.59.58.192/27",
+    "ip_type": "IPv4",
+    "service": "SCCservice.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "191.233.207.192/29",
+    "ip_type": "IPv4",
+    "service": "SCCservice.BrazilSouth",
+    "region": "brazilsouth"
+  }
+]

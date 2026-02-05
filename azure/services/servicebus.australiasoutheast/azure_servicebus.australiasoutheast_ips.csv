@@ -1,0 +1,9 @@
+ip_address,ip_type,service,region
+13.77.50.16/28,IPv4,ServiceBus.AustraliaSoutheast,australiasoutheast
+20.92.0.128/25,IPv4,ServiceBus.AustraliaSoutheast,australiasoutheast
+68.218.174.0/24,IPv4,ServiceBus.AustraliaSoutheast,australiasoutheast
+68.218.175.0/25,IPv4,ServiceBus.AustraliaSoutheast,australiasoutheast
+68.218.175.128/26,IPv4,ServiceBus.AustraliaSoutheast,australiasoutheast
+2603:1010:101::220/123,IPv6,ServiceBus.AustraliaSoutheast,australiasoutheast
+2603:1010:101:1::500/120,IPv6,ServiceBus.AustraliaSoutheast,australiasoutheast
+2603:1010:101:402::170/125,IPv6,ServiceBus.AustraliaSoutheast,australiasoutheast

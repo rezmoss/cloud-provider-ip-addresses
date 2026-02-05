@@ -1,0 +1,8 @@
+[
+  {
+    "ip_address": "2603:1020:d04:1::700/120",
+    "ip_type": "IPv6",
+    "service": "AzureSignalR.GermanyNorth",
+    "region": "germanyn"
+  }
+]

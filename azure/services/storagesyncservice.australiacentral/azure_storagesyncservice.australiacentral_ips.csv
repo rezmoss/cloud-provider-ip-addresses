@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+20.37.224.216/29,IPv4,StorageSyncService.AustraliaCentral,australiacentral
+20.53.1.80/29,IPv4,StorageSyncService.AustraliaCentral,australiacentral
+2603:1010:304::340/123,IPv6,StorageSyncService.AustraliaCentral,australiacentral
+2603:1010:304:402::5e0/123,IPv6,StorageSyncService.AustraliaCentral,australiacentral

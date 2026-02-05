@@ -1,0 +1,68 @@
+[
+  {
+    "ip_address": "13.71.170.40/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "20.38.149.196/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "20.48.197.104/29",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "20.48.197.112/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "52.246.157.4/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "2603:1030:f05::340/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "2603:1030:f05:1::114/126",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "2603:1030:f05:1::118/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "2603:1030:f05:402::80/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "2603:1030:f05:802::80/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "2603:1030:f05:c02::80/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.CanadaCentral",
+    "region": "canadacentral"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "9.205.32.20/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.DenmarkEast",
+    "region": "denmarkeast"
+  },
+  {
+    "ip_address": "2603:1020:1602::540/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.DenmarkEast",
+    "region": "denmarkeast"
+  }
+]

@@ -1,0 +1,9 @@
+ip_address,ip_type,service,region
+13.86.218.0/25,IPv4,AzureBackup.WestUS,westus
+13.86.218.128/26,IPv4,AzureBackup.WestUS,westus
+20.66.4.0/25,IPv4,AzureBackup.WestUS,westus
+20.66.4.128/26,IPv4,AzureBackup.WestUS,westus
+20.168.163.0/26,IPv4,AzureBackup.WestUS,westus
+2603:1030:a07:4::300/121,IPv6,AzureBackup.WestUS,westus
+2603:1030:a07:402::180/121,IPv6,AzureBackup.WestUS,westus
+2603:1030:a07:c00::100/121,IPv6,AzureBackup.WestUS,westus

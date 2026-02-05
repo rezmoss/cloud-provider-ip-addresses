@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+51.107.59.48/28,IPv4,AzureMachineLearning.SwitzerlandNorth,switzerlandn
+51.107.247.64/27,IPv4,AzureMachineLearning.SwitzerlandNorth,switzerlandn
+2603:1020:a04:1::2c0/122,IPv6,AzureMachineLearning.SwitzerlandNorth,switzerlandn

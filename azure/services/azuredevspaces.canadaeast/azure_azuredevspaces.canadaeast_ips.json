@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "40.69.110.176/28",
+    "ip_type": "IPv4",
+    "service": "AzureDevSpaces.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.89.17.192/28",
+    "ip_type": "IPv4",
+    "service": "AzureDevSpaces.CanadaEast",
+    "region": "canadaeast"
+  }
+]

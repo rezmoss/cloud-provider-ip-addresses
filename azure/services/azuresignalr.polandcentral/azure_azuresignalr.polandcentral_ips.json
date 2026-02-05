@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "20.215.74.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureSignalR.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "2603:1020:1302:3::140/122",
+    "ip_type": "IPv6",
+    "service": "AzureSignalR.PolandCentral",
+    "region": "polandcentral"
+  }
+]

@@ -1,0 +1,3 @@
+ip_address,ip_type,service,region
+23.100.218.124/31,IPv4,AzureArcInfrastructure.SouthCentralUSSTG,usstagec
+23.100.218.152/29,IPv4,AzureArcInfrastructure.SouthCentralUSSTG,usstagec

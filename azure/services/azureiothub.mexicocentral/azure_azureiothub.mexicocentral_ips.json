@@ -1,0 +1,38 @@
+[
+  {
+    "ip_address": "158.23.12.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "158.23.123.160/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "158.23.195.160/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "2603:1030:702:400::1a0/123",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "2603:1030:702:800::120/123",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "2603:1030:702:c00::120/123",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.MexicoCentral",
+    "region": "mexicocentral"
+  }
+]

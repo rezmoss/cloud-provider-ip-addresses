@@ -1,0 +1,3 @@
+ip_address,ip_type,service,region
+68.211.10.0/23,IPv4,AzureResourceManager.ChileCentral,chilec
+2603:1050:301:1::400/120,IPv6,AzureResourceManager.ChileCentral,chilec

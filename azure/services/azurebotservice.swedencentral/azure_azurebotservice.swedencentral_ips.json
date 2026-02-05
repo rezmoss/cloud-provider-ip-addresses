@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "51.12.40.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureBotService.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "2603:1020:1004::20/123",
+    "ip_type": "IPv6",
+    "service": "AzureBotService.SwedenCentral",
+    "region": "swedencentral"
+  }
+]

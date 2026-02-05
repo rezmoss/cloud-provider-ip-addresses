@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "51.4.133.224/27",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.IsraelNorthwest",
+    "region": "israelnorthwest"
+  },
+  {
+    "ip_address": "2603:1040:1702:2::400/121",
+    "ip_type": "IPv6",
+    "service": "AzurePortal.IsraelNorthwest",
+    "region": "israelnorthwest"
+  }
+]

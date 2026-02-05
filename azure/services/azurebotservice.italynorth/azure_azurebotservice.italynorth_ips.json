@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "4.232.24.16/30",
+    "ip_type": "IPv4",
+    "service": "AzureBotService.ItalyNorth",
+    "region": "italynorth"
+  },
+  {
+    "ip_address": "2603:1020:1204::20/123",
+    "ip_type": "IPv6",
+    "service": "AzureBotService.ItalyNorth",
+    "region": "italynorth"
+  }
+]

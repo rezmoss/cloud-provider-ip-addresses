@@ -1,0 +1,11 @@
+ip_address,ip_type,service,region
+20.199.204.0/26,IPv4,AzureCosmosDB.SwitzerlandWest,switzerlandw
+20.199.204.192/26,IPv4,AzureCosmosDB.SwitzerlandWest,switzerlandw
+20.199.205.128/25,IPv4,AzureCosmosDB.SwitzerlandWest,switzerlandw
+51.107.148.32/27,IPv4,AzureCosmosDB.SwitzerlandWest,switzerlandw
+51.107.154.64/26,IPv4,AzureCosmosDB.SwitzerlandWest,switzerlandw
+51.107.227.47/32,IPv4,AzureCosmosDB.SwitzerlandWest,switzerlandw
+51.107.227.81/32,IPv4,AzureCosmosDB.SwitzerlandWest,switzerlandw
+51.107.227.85/32,IPv4,AzureCosmosDB.SwitzerlandWest,switzerlandw
+2603:1020:b04::120/123,IPv6,AzureCosmosDB.SwitzerlandWest,switzerlandw
+2603:1020:b04:402::c0/122,IPv6,AzureCosmosDB.SwitzerlandWest,switzerlandw

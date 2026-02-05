@@ -1,0 +1,38 @@
+[
+  {
+    "ip_address": "4.226.58.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "4.226.58.192/27",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "4.226.59.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "4.226.60.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "4.226.64.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "51.107.128.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.SwitzerlandNorth",
+    "region": "switzerlandn"
+  }
+]

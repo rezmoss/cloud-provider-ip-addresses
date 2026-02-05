@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "20.217.248.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureCognitiveSearch.IsraelNorthwest",
+    "region": "israelnorthwest"
+  },
+  {
+    "ip_address": "2603:1040:1702::100/121",
+    "ip_type": "IPv6",
+    "service": "AzureCognitiveSearch.IsraelNorthwest",
+    "region": "israelnorthwest"
+  }
+]

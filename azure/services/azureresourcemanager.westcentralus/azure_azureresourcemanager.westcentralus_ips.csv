@@ -1,0 +1,7 @@
+ip_address,ip_type,service,region
+13.71.196.80/28,IPv4,AzureResourceManager.WestCentralUS,westcentralus
+13.71.198.0/24,IPv4,AzureResourceManager.WestCentralUS,westcentralus
+40.67.120.0/24,IPv4,AzureResourceManager.WestCentralUS,westcentralus
+52.150.158.0/23,IPv4,AzureResourceManager.WestCentralUS,westcentralus
+2603:1030:b04::6c0/122,IPv6,AzureResourceManager.WestCentralUS,westcentralus
+2603:1030:b04:402::280/122,IPv6,AzureResourceManager.WestCentralUS,westcentralus

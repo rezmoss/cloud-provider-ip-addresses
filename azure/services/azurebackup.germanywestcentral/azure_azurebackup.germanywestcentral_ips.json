@@ -1,0 +1,80 @@
+[
+  {
+    "ip_address": "20.52.88.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "51.116.155.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "51.116.155.192/27",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "51.116.156.144/28",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "51.116.156.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "51.116.245.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "51.116.245.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "51.116.250.240/28",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "51.116.251.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "51.116.253.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "2603:1020:c04:402::200/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "2603:1020:c04:802::180/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "2603:1020:c04:c02::180/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.GermanyWestCentral",
+    "region": "germanywc"
+  }
+]

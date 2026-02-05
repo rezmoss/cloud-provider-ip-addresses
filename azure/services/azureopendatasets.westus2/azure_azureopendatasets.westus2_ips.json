@@ -1,0 +1,8 @@
+[
+  {
+    "ip_address": "20.42.131.0/28",
+    "ip_type": "IPv4",
+    "service": "AzureOpenDatasets.WestUS2",
+    "region": "westus2"
+  }
+]

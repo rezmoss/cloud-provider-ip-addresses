@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "40.80.170.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "40.80.236.192/27",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:1::700/121",
+    "ip_type": "IPv6",
+    "service": "AzureEventGrid.KoreaSouth",
+    "region": "koreasouth"
+  }
+]

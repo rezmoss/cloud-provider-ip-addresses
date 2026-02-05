@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "68.211.2.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.ChileCentral",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "68.211.20.160/27",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.ChileCentral",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "2603:1050:301::1e0/123",
+    "ip_type": "IPv6",
+    "service": "AzureCosmosDB.ChileCentral",
+    "region": "chilec"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "20.40.225.48/29",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "20.40.225.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.CentralUS",
+    "region": "centralus"
+  }
+]

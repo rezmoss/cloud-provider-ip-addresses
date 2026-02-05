@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "40.78.239.104/29",
+    "ip_type": "IPv4",
+    "service": "SCCservice.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "172.188.180.160/27",
+    "ip_type": "IPv4",
+    "service": "SCCservice.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "2603:1040:5:d::80/123",
+    "ip_type": "IPv6",
+    "service": "SCCservice.SoutheastAsia",
+    "region": "southeastasia"
+  }
+]

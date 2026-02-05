@@ -1,0 +1,56 @@
+[
+  {
+    "ip_address": "13.91.7.211/32",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.WestUS",
+    "region": "westus"
+  },
+  {
+    "ip_address": "13.91.252.58/32",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.WestUS",
+    "region": "westus"
+  },
+  {
+    "ip_address": "20.168.162.72/30",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.WestUS",
+    "region": "westus"
+  },
+  {
+    "ip_address": "23.99.11.219/32",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.WestUS",
+    "region": "westus"
+  },
+  {
+    "ip_address": "40.112.243.176/29",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.WestUS",
+    "region": "westus"
+  },
+  {
+    "ip_address": "104.42.181.121/32",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.WestUS",
+    "region": "westus"
+  },
+  {
+    "ip_address": "137.135.33.49/32",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.WestUS",
+    "region": "westus"
+  },
+  {
+    "ip_address": "2603:1030:a07:402::98/125",
+    "ip_type": "IPv6",
+    "service": "ServiceFabric.WestUS",
+    "region": "westus"
+  },
+  {
+    "ip_address": "2603:1030:a07:c00::50/125",
+    "ip_type": "IPv6",
+    "service": "ServiceFabric.WestUS",
+    "region": "westus"
+  }
+]

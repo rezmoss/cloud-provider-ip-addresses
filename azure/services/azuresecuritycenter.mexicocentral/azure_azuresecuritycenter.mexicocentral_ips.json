@@ -1,0 +1,38 @@
+[
+  {
+    "ip_address": "172.195.50.60/30",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "172.195.50.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "172.195.50.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "172.195.51.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "172.195.52.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "172.195.52.32/28",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.MexicoCentral",
+    "region": "mexicocentral"
+  }
+]

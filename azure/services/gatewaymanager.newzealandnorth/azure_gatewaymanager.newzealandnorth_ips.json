@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "172.204.152.64/26",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1010:502::40/122",
+    "ip_type": "IPv6",
+    "service": "GatewayManager.NewZealandNorth",
+    "region": "newzealandnorth"
+  }
+]

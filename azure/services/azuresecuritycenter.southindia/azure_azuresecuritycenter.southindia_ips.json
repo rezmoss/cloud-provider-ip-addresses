@@ -1,0 +1,38 @@
+[
+  {
+    "ip_address": "20.192.184.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "74.224.83.96/27",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "74.224.84.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "74.224.104.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "74.224.106.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "74.224.107.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.SouthIndia",
+    "region": "southindia"
+  }
+]

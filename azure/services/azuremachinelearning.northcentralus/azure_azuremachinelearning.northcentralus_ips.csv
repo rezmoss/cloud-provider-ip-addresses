@@ -1,0 +1,8 @@
+ip_address,ip_type,service,region
+20.51.1.48/28,IPv4,AzureMachineLearning.NorthCentralUS,northcentralus
+23.100.232.216/32,IPv4,AzureMachineLearning.NorthCentralUS,northcentralus
+40.80.184.80/28,IPv4,AzureMachineLearning.NorthCentralUS,northcentralus
+40.80.188.96/28,IPv4,AzureMachineLearning.NorthCentralUS,northcentralus
+52.162.106.176/28,IPv4,AzureMachineLearning.NorthCentralUS,northcentralus
+52.252.160.26/32,IPv4,AzureMachineLearning.NorthCentralUS,northcentralus
+2603:1030:608::300/122,IPv6,AzureMachineLearning.NorthCentralUS,northcentralus

@@ -1,0 +1,74 @@
+[
+  {
+    "ip_address": "20.195.146.0/26",
+    "ip_type": "IPv4",
+    "service": "Sql.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "20.206.7.128/25",
+    "ip_type": "IPv4",
+    "service": "Sql.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "191.233.15.160/27",
+    "ip_type": "IPv4",
+    "service": "Sql.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "191.233.15.192/27",
+    "ip_type": "IPv4",
+    "service": "Sql.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "191.233.48.0/27",
+    "ip_type": "IPv4",
+    "service": "Sql.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "191.233.48.32/29",
+    "ip_type": "IPv4",
+    "service": "Sql.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "191.233.49.0/27",
+    "ip_type": "IPv4",
+    "service": "Sql.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "2603:1050:403:1::200/123",
+    "ip_type": "IPv6",
+    "service": "Sql.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "2603:1050:403:1::280/121",
+    "ip_type": "IPv6",
+    "service": "Sql.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "2603:1050:403:2::680/121",
+    "ip_type": "IPv6",
+    "service": "Sql.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "2603:1050:403:402::/123",
+    "ip_type": "IPv6",
+    "service": "Sql.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "2603:1050:403:403::/123",
+    "ip_type": "IPv6",
+    "service": "Sql.BrazilSoutheast",
+    "region": "brazilse"
+  }
+]

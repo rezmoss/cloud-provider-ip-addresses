@@ -1,0 +1,32 @@
+[
+  {
+    "ip_address": "20.153.21.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.DenmarkEast",
+    "region": "denmarkeast"
+  },
+  {
+    "ip_address": "20.153.33.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.DenmarkEast",
+    "region": "denmarkeast"
+  },
+  {
+    "ip_address": "57.150.199.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.DenmarkEast",
+    "region": "denmarkeast"
+  },
+  {
+    "ip_address": "57.150.200.0/22",
+    "ip_type": "IPv4",
+    "service": "Storage.DenmarkEast",
+    "region": "denmarkeast"
+  },
+  {
+    "ip_address": "2603:1020:1603::/48",
+    "ip_type": "IPv6",
+    "service": "Storage.DenmarkEast",
+    "region": "denmarkeast"
+  }
+]

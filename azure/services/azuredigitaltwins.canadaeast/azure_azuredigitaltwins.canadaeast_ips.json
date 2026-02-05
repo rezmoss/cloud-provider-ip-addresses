@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "52.139.106.96/27",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:3::200/121",
+    "ip_type": "IPv6",
+    "service": "AzureDigitalTwins.CanadaEast",
+    "region": "canadaeast"
+  }
+]

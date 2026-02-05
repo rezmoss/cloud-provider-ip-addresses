@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "52.147.98.64/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.147.115.0/24",
+    "ip_type": "IPv4",
+    "service": "EventHub.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.146.32/27",
+    "ip_type": "IPv4",
+    "service": "EventHub.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05::500/120",
+    "ip_type": "IPv6",
+    "service": "EventHub.KoreaSouth",
+    "region": "koreasouth"
+  }
+]

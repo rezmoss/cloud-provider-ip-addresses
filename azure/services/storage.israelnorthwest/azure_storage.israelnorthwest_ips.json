@@ -1,0 +1,38 @@
+[
+  {
+    "ip_address": "20.153.14.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.IsraelNorthwest",
+    "region": "israelnorthwest"
+  },
+  {
+    "ip_address": "20.153.44.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.IsraelNorthwest",
+    "region": "israelnorthwest"
+  },
+  {
+    "ip_address": "57.150.177.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.IsraelNorthwest",
+    "region": "israelnorthwest"
+  },
+  {
+    "ip_address": "57.150.180.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.IsraelNorthwest",
+    "region": "israelnorthwest"
+  },
+  {
+    "ip_address": "135.130.56.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.IsraelNorthwest",
+    "region": "israelnorthwest"
+  },
+  {
+    "ip_address": "2603:1040:1703::/48",
+    "ip_type": "IPv6",
+    "service": "Storage.IsraelNorthwest",
+    "region": "israelnorthwest"
+  }
+]

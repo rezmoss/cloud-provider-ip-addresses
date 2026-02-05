@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "51.12.25.16/28",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "51.12.98.224/28",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "2603:1020:1004:1::700/124",
+    "ip_type": "IPv6",
+    "service": "ApiManagement.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "2603:1020:1004:800::c0/124",
+    "ip_type": "IPv6",
+    "service": "ApiManagement.SwedenCentral",
+    "region": "swedencentral"
+  }
+]

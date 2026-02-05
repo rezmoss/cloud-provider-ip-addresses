@@ -1,0 +1,56 @@
+[
+  {
+    "ip_address": "4.243.51.32/27",
+    "ip_type": "IPv4",
+    "service": "DataFactory.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "20.200.161.48/29",
+    "ip_type": "IPv4",
+    "service": "DataFactory.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "40.80.168.128/25",
+    "ip_type": "IPv4",
+    "service": "DataFactory.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "40.80.169.0/26",
+    "ip_type": "IPv4",
+    "service": "DataFactory.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "40.80.172.112/29",
+    "ip_type": "IPv4",
+    "service": "DataFactory.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.148.160/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.151.32/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:6::100/121",
+    "ip_type": "IPv6",
+    "service": "DataFactory.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:402::190/124",
+    "ip_type": "IPv6",
+    "service": "DataFactory.KoreaSouth",
+    "region": "koreasouth"
+  }
+]

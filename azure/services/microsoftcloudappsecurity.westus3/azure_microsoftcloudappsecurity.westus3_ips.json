@@ -1,0 +1,74 @@
+[
+  {
+    "ip_address": "20.118.160.96/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.WestUS3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "20.118.178.95/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.WestUS3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "20.118.179.32/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.WestUS3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "20.118.180.58/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.WestUS3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "20.150.157.211/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.WestUS3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "57.154.63.144/28",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.WestUS3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "57.154.63.160/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.WestUS3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "57.154.81.0/25",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.WestUS3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "172.182.191.184/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.WestUS3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "172.182.191.208/28",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.WestUS3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "172.182.191.224/30",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.WestUS3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "172.182.191.228/31",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.WestUS3",
+    "region": "westus3"
+  }
+]

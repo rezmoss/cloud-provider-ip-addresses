@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "134.138.72.0/24",
+    "ip_type": "IPv4",
+    "service": "EventHub.EastUS3",
+    "region": "eastus3"
+  },
+  {
+    "ip_address": "2603:1030:1402:1::200/120",
+    "ip_type": "IPv6",
+    "service": "EventHub.EastUS3",
+    "region": "eastus3"
+  }
+]

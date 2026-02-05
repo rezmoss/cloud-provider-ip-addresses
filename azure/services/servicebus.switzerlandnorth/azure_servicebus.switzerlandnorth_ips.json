@@ -1,0 +1,80 @@
+[
+  {
+    "ip_address": "20.208.18.80/29",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "20.208.18.96/28",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "51.103.202.80/29",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "51.103.202.96/28",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "51.107.58.8/29",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "51.107.128.192/26",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "51.107.244.128/25",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "74.242.150.192/26",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "2603:1020:a04::700/120",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "2603:1020:a04:1::220/123",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "2603:1020:a04:402::170/125",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "2603:1020:a04:802::150/125",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "2603:1020:a04:c02::150/125",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.SwitzerlandNorth",
+    "region": "switzerlandn"
+  }
+]

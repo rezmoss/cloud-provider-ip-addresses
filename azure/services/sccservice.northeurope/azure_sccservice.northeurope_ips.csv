@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+13.69.233.48/29,IPv4,SCCservice.NorthEurope,northeurope
+74.178.86.160/27,IPv4,SCCservice.NorthEurope,northeurope
+2603:1020:5:12::640/123,IPv6,SCCservice.NorthEurope,northeurope

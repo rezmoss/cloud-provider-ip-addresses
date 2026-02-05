@@ -1,0 +1,8 @@
+ip_address,ip_type,service,region
+51.120.68.23/32,IPv4,ServiceFabric.NorwayEast,norwaye
+51.120.98.240/29,IPv4,ServiceFabric.NorwayEast,norwaye
+51.120.109.28/30,IPv4,ServiceFabric.NorwayEast,norwaye
+51.120.213.28/30,IPv4,ServiceFabric.NorwayEast,norwaye
+2603:1020:e04:402::98/125,IPv6,ServiceFabric.NorwayEast,norwaye
+2603:1020:e04:802::98/125,IPv6,ServiceFabric.NorwayEast,norwaye
+2603:1020:e04:c02::98/125,IPv6,ServiceFabric.NorwayEast,norwaye

@@ -1,0 +1,62 @@
+[
+  {
+    "ip_address": "40.79.176.0/27",
+    "ip_type": "IPv4",
+    "service": "Sql.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "40.79.176.40/29",
+    "ip_type": "IPv4",
+    "service": "Sql.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "40.79.177.0/27",
+    "ip_type": "IPv4",
+    "service": "Sql.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "40.79.177.32/29",
+    "ip_type": "IPv4",
+    "service": "Sql.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "40.80.102.128/25",
+    "ip_type": "IPv4",
+    "service": "Sql.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "52.136.185.0/25",
+    "ip_type": "IPv4",
+    "service": "Sql.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "2603:1020:905::280/123",
+    "ip_type": "IPv6",
+    "service": "Sql.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "2603:1020:905:1::200/121",
+    "ip_type": "IPv6",
+    "service": "Sql.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "2603:1020:905:2::580/121",
+    "ip_type": "IPv6",
+    "service": "Sql.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "2603:1020:905:400::/123",
+    "ip_type": "IPv6",
+    "service": "Sql.FranceSouth",
+    "region": "southfrance"
+  }
+]

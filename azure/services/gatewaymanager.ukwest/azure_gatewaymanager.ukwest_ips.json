@@ -1,0 +1,38 @@
+[
+  {
+    "ip_address": "20.90.36.64/27",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.137.160.72/29",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "51.140.210.200/29",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "52.142.152.114/32",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "52.142.154.100/32",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605::40/122",
+    "ip_type": "IPv6",
+    "service": "GatewayManager.UKWest",
+    "region": "ukwest"
+  }
+]

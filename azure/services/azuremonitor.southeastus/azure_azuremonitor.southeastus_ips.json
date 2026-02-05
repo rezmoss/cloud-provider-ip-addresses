@@ -1,0 +1,92 @@
+[
+  {
+    "ip_address": "57.151.220.226/31",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "57.151.222.192/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "57.151.222.200/30",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "57.151.222.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "57.151.223.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "57.151.228.160/30",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "68.154.137.88/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "68.154.140.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "68.154.151.96/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "68.154.151.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1030:902:2::460/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1030:902:2::540/122",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1030:902:2::600/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1030:902:2::680/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1030:902:2::700/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SoutheastUS",
+    "region": "southeastus"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "20.36.121.128/27",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.AustraliaCentral2",
+    "region": "australiacentral2"
+  },
+  {
+    "ip_address": "20.36.122.56/30",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.AustraliaCentral2",
+    "region": "australiacentral2"
+  },
+  {
+    "ip_address": "20.36.125.104/29",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.AustraliaCentral2",
+    "region": "australiacentral2"
+  },
+  {
+    "ip_address": "2603:1010:404::700/121",
+    "ip_type": "IPv6",
+    "service": "AzurePortal.AustraliaCentral2",
+    "region": "australiacentral2"
+  }
+]

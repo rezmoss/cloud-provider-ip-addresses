@@ -1,0 +1,38 @@
+[
+  {
+    "ip_address": "9.205.72.0/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry.DenmarkEast",
+    "region": "denmarkeast"
+  },
+  {
+    "ip_address": "9.205.96.0/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry.DenmarkEast",
+    "region": "denmarkeast"
+  },
+  {
+    "ip_address": "9.205.112.0/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry.DenmarkEast",
+    "region": "denmarkeast"
+  },
+  {
+    "ip_address": "2603:1020:1602:400::/125",
+    "ip_type": "IPv6",
+    "service": "MicrosoftContainerRegistry.DenmarkEast",
+    "region": "denmarkeast"
+  },
+  {
+    "ip_address": "2603:1020:1602:800::/125",
+    "ip_type": "IPv6",
+    "service": "MicrosoftContainerRegistry.DenmarkEast",
+    "region": "denmarkeast"
+  },
+  {
+    "ip_address": "2603:1020:1602:c00::/125",
+    "ip_type": "IPv6",
+    "service": "MicrosoftContainerRegistry.DenmarkEast",
+    "region": "denmarkeast"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "ip_address": "20.36.36.33/32",
+    "ip_type": "IPv4",
+    "service": "HDInsight.AustraliaCentral",
+    "region": "australiacentral"
+  },
+  {
+    "ip_address": "20.36.36.196/32",
+    "ip_type": "IPv4",
+    "service": "HDInsight.AustraliaCentral",
+    "region": "australiacentral"
+  },
+  {
+    "ip_address": "20.37.228.0/29",
+    "ip_type": "IPv4",
+    "service": "HDInsight.AustraliaCentral",
+    "region": "australiacentral"
+  },
+  {
+    "ip_address": "2603:1010:304:5::120/124",
+    "ip_type": "IPv6",
+    "service": "HDInsight.AustraliaCentral",
+    "region": "australiacentral"
+  },
+  {
+    "ip_address": "2603:1010:304:402::320/124",
+    "ip_type": "IPv6",
+    "service": "HDInsight.AustraliaCentral",
+    "region": "australiacentral"
+  }
+]

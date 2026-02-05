@@ -1,0 +1,44 @@
+[
+  {
+    "ip_address": "108.140.5.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "191.233.50.16/29",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "191.233.54.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "191.233.54.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "2603:1050:403:6::440/122",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "2603:1050:403:400::98/125",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "2603:1050:403:400::480/121",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.BrazilSoutheast",
+    "region": "brazilse"
+  }
+]

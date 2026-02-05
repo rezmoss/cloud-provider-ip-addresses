@@ -1,0 +1,38 @@
+[
+  {
+    "ip_address": "68.210.30.216/30",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.AustriaEast",
+    "region": "austriaeast"
+  },
+  {
+    "ip_address": "68.210.30.240/28",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.AustriaEast",
+    "region": "austriaeast"
+  },
+  {
+    "ip_address": "68.210.56.160/27",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.AustriaEast",
+    "region": "austriaeast"
+  },
+  {
+    "ip_address": "68.210.56.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.AustriaEast",
+    "region": "austriaeast"
+  },
+  {
+    "ip_address": "68.210.57.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.AustriaEast",
+    "region": "austriaeast"
+  },
+  {
+    "ip_address": "68.210.58.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.AustriaEast",
+    "region": "austriaeast"
+  }
+]

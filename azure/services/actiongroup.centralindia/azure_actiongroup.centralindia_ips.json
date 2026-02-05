@@ -1,0 +1,44 @@
+[
+  {
+    "ip_address": "20.43.121.124/30",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "20.204.192.216/31",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "20.204.199.124/30",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "20.244.66.175/32",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "20.244.67.158/32",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "2603:1040:a06:1::128/126",
+    "ip_type": "IPv6",
+    "service": "ActionGroup.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "2603:1040:a06:402::178/125",
+    "ip_type": "IPv6",
+    "service": "ActionGroup.CentralIndia",
+    "region": "centralindia"
+  }
+]

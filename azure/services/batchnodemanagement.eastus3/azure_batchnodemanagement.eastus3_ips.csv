@@ -1,0 +1,3 @@
+ip_address,ip_type,service,region
+134.138.68.0/27,IPv4,BatchNodeManagement.EastUS3,eastus3
+2603:1030:1402::500/122,IPv6,BatchNodeManagement.EastUS3,eastus3

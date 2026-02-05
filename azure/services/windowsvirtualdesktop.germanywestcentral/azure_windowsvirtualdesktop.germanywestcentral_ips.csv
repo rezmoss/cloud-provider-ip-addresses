@@ -1,0 +1,3 @@
+ip_address,ip_type,service,region
+40.64.145.240/28,IPv4,WindowsVirtualDesktop.GermanyWestCentral,germanywc
+2603:1061:2010:29::/117,IPv6,WindowsVirtualDesktop.GermanyWestCentral,germanywc

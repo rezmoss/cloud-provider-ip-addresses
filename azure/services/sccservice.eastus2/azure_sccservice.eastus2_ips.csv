@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+20.44.19.48/29,IPv4,SCCservice.EastUS2,eastus2
+128.24.2.0/24,IPv4,SCCservice.EastUS2,eastus2
+2603:1030:40c:f::400/120,IPv6,SCCservice.EastUS2,eastus2

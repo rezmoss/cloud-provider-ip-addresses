@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+9.160.69.152/29,IPv4,StorageSyncService.BelgiumCentral,belgiumcentral
+9.160.80.48/29,IPv4,StorageSyncService.BelgiumCentral,belgiumcentral
+2603:1020:1502:400::120/123,IPv6,StorageSyncService.BelgiumCentral,belgiumcentral

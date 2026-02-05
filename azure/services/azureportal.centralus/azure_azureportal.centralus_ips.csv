@@ -1,0 +1,9 @@
+ip_address,ip_type,service,region
+20.40.200.0/27,IPv4,AzurePortal.CentralUS,centralus
+20.40.200.160/30,IPv4,AzurePortal.CentralUS,centralus
+20.40.224.226/31,IPv4,AzurePortal.CentralUS,centralus
+20.40.225.32/29,IPv4,AzurePortal.CentralUS,centralus
+20.118.196.96/27,IPv4,AzurePortal.CentralUS,centralus
+20.118.196.128/30,IPv4,AzurePortal.CentralUS,centralus
+2603:1030:10::100/121,IPv6,AzurePortal.CentralUS,centralus
+2603:1030:10:1::680/121,IPv6,AzurePortal.CentralUS,centralus

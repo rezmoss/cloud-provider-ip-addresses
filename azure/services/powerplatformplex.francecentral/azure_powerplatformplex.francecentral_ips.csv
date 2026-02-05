@@ -1,0 +1,10 @@
+ip_address,ip_type,service,region
+20.111.3.152/29,IPv4,PowerPlatformPlex.FranceCentral,centralfrance
+20.111.3.204/30,IPv4,PowerPlatformPlex.FranceCentral,centralfrance
+20.111.3.216/30,IPv4,PowerPlatformPlex.FranceCentral,centralfrance
+48.220.46.192/26,IPv4,PowerPlatformPlex.FranceCentral,centralfrance
+48.220.47.0/26,IPv4,PowerPlatformPlex.FranceCentral,centralfrance
+51.138.205.48/28,IPv4,PowerPlatformPlex.FranceCentral,centralfrance
+98.66.132.224/28,IPv4,PowerPlatformPlex.FranceCentral,centralfrance
+98.66.147.160/29,IPv4,PowerPlatformPlex.FranceCentral,centralfrance
+2603:1061:2004:4000::/57,IPv6,PowerPlatformPlex.FranceCentral,centralfrance

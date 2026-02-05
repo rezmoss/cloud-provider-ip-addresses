@@ -1,0 +1,17 @@
+ip_address,ip_type,service,region
+20.40.42.199/32,IPv4,AzureCosmosDB.CentralIndia,centralindia
+20.40.43.25/32,IPv4,AzureCosmosDB.CentralIndia,centralindia
+20.43.126.128/26,IPv4,AzureCosmosDB.CentralIndia,centralindia
+20.192.98.0/26,IPv4,AzureCosmosDB.CentralIndia,centralindia
+20.193.249.3/32,IPv4,AzureCosmosDB.CentralIndia,centralindia
+20.204.195.64/26,IPv4,AzureCosmosDB.CentralIndia,centralindia
+20.204.197.0/25,IPv4,AzureCosmosDB.CentralIndia,centralindia
+20.204.197.128/26,IPv4,AzureCosmosDB.CentralIndia,centralindia
+40.80.50.0/26,IPv4,AzureCosmosDB.CentralIndia,centralindia
+52.140.110.64/27,IPv4,AzureCosmosDB.CentralIndia,centralindia
+104.211.84.0/28,IPv4,AzureCosmosDB.CentralIndia,centralindia
+104.211.102.50/32,IPv4,AzureCosmosDB.CentralIndia,centralindia
+2603:1040:a06::780/123,IPv6,AzureCosmosDB.CentralIndia,centralindia
+2603:1040:a06:402::c0/122,IPv6,AzureCosmosDB.CentralIndia,centralindia
+2603:1040:a06:802::c0/122,IPv6,AzureCosmosDB.CentralIndia,centralindia
+2603:1040:a06:c02::c0/122,IPv6,AzureCosmosDB.CentralIndia,centralindia

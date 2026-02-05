@@ -1,0 +1,8 @@
+ip_address,ip_type,service,region
+13.75.39.16/28,IPv4,AzureResourceManager.EastAsia,eastasia
+20.187.198.0/23,IPv4,AzureResourceManager.EastAsia,eastasia
+104.214.162.0/23,IPv4,AzureResourceManager.EastAsia,eastasia
+104.214.166.0/26,IPv4,AzureResourceManager.EastAsia,eastasia
+2603:1040:207::6c0/122,IPv6,AzureResourceManager.EastAsia,eastasia
+2603:1040:207:2::300/120,IPv6,AzureResourceManager.EastAsia,eastasia
+2603:1040:207:402::280/122,IPv6,AzureResourceManager.EastAsia,eastasia

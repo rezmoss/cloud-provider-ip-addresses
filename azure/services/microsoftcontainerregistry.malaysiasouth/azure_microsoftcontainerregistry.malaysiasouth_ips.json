@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "20.17.66.64/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry.MalaysiaSouth",
+    "region": "malaysiasouth"
+  },
+  {
+    "ip_address": "2603:1040:1503:400::40/125",
+    "ip_type": "IPv6",
+    "service": "MicrosoftContainerRegistry.MalaysiaSouth",
+    "region": "malaysiasouth"
+  }
+]

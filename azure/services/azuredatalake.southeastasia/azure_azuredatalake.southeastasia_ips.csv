@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+104.44.89.39/32,IPv4,AzureDataLake.SoutheastAsia,southeastasia
+104.44.89.42/32,IPv4,AzureDataLake.SoutheastAsia,southeastasia
+104.44.90.128/27,IPv4,AzureDataLake.SoutheastAsia,southeastasia

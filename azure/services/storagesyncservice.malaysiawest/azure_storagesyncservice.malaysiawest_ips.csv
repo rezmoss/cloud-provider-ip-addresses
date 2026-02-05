@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+20.17.130.56/29,IPv4,StorageSyncService.MalaysiaWest,malaysiawest
+85.211.139.56/29,IPv4,StorageSyncService.MalaysiaWest,malaysiawest
+2603:1040:1602:400::c0/123,IPv6,StorageSyncService.MalaysiaWest,malaysiawest

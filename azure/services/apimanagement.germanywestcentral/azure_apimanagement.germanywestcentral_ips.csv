@@ -1,0 +1,6 @@
+ip_address,ip_type,service,region
+20.52.94.112/31,IPv4,ApiManagement.GermanyWestCentral,germanywc
+51.116.96.0/32,IPv4,ApiManagement.GermanyWestCentral,germanywc
+51.116.155.64/28,IPv4,ApiManagement.GermanyWestCentral,germanywc
+135.220.92.104/31,IPv4,ApiManagement.GermanyWestCentral,germanywc
+2603:1020:c04:402::140/124,IPv6,ApiManagement.GermanyWestCentral,germanywc

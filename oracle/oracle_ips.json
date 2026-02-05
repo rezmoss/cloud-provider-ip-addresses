@@ -552,6 +552,12 @@
     "region": "sa-saopaulo-1"
   },
   {
+    "ip_address": "147.15.0.0/17",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "sa-saopaulo-1"
+  },
+  {
     "ip_address": "150.230.64.0/19",
     "ip_type": "IPv4",
     "service": "OCI",
@@ -1200,6 +1206,12 @@
     "region": "ca-montreal-1"
   },
   {
+    "ip_address": "147.15.128.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ca-montreal-1"
+  },
+  {
     "ip_address": "148.116.64.0/19",
     "ip_type": "IPv4",
     "service": "OCI",
@@ -1353,6 +1365,12 @@
     "ip_address": "207.135.30.0/23",
     "ip_type": "IPv4",
     "service": "OCI",
+    "region": "me-jeddah-1"
+  },
+  {
+    "ip_address": "92.4.228.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
     "region": "me-jeddah-1"
   },
   {
@@ -4741,6 +4759,12 @@
   },
   {
     "ip_address": "140.204.42.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-melbourne-1"
+  },
+  {
+    "ip_address": "149.118.92.0/22",
     "ip_type": "IPv4",
     "service": "OSN",
     "region": "ap-melbourne-1"

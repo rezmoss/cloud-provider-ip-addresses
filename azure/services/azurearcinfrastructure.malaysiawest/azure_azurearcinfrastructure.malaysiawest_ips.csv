@@ -1,0 +1,9 @@
+ip_address,ip_type,service,region
+20.17.125.68/30,IPv4,AzureArcInfrastructure.MalaysiaWest,malaysiawest
+20.17.131.32/32,IPv4,AzureArcInfrastructure.MalaysiaWest,malaysiawest
+20.17.138.132/31,IPv4,AzureArcInfrastructure.MalaysiaWest,malaysiawest
+20.17.138.168/29,IPv4,AzureArcInfrastructure.MalaysiaWest,malaysiawest
+85.211.236.234/31,IPv4,AzureArcInfrastructure.MalaysiaWest,malaysiawest
+85.211.236.248/30,IPv4,AzureArcInfrastructure.MalaysiaWest,malaysiawest
+2603:1040:1602:2::130/124,IPv6,AzureArcInfrastructure.MalaysiaWest,malaysiawest
+2603:1040:1602:4::7f2/128,IPv6,AzureArcInfrastructure.MalaysiaWest,malaysiawest

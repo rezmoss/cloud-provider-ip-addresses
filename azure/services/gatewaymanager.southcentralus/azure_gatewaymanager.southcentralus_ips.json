@@ -1,0 +1,44 @@
+[
+  {
+    "ip_address": "20.97.35.128/27",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "40.119.8.64/29",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "40.119.49.12/32",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "40.124.139.107/32",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "40.124.139.174/32",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "104.214.19.64/29",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "2603:1030:807:1::40/122",
+    "ip_type": "IPv6",
+    "service": "GatewayManager.SouthCentralUS",
+    "region": "southcentralus"
+  }
+]

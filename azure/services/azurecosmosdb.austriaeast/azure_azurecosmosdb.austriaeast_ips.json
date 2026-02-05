@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "68.210.163.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.AustriaEast",
+    "region": "austriaeast"
+  },
+  {
+    "ip_address": "68.210.179.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.AustriaEast",
+    "region": "austriaeast"
+  },
+  {
+    "ip_address": "2603:1020:104:4::300/123",
+    "ip_type": "IPv6",
+    "service": "AzureCosmosDB.AustriaEast",
+    "region": "austriaeast"
+  }
+]

@@ -1,0 +1,8 @@
+ip_address,ip_type,service,region
+51.137.164.160/27,IPv4,AzureIoTHub.UKWest,ukwest
+51.137.165.0/25,IPv4,AzureIoTHub.UKWest,ukwest
+51.140.212.160/27,IPv4,AzureIoTHub.UKWest,ukwest
+51.140.226.207/32,IPv4,AzureIoTHub.UKWest,ukwest
+51.140.240.234/32,IPv4,AzureIoTHub.UKWest,ukwest
+51.141.49.253/32,IPv4,AzureIoTHub.UKWest,ukwest
+2603:1020:605:402::300/123,IPv6,AzureIoTHub.UKWest,ukwest

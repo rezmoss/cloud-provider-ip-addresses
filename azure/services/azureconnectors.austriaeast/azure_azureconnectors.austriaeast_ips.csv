@@ -1,0 +1,3 @@
+ip_address,ip_type,service,region
+68.210.170.192/26,IPv4,AzureConnectors.AustriaEast,austriaeast
+2603:1020:104:5::640/122,IPv6,AzureConnectors.AustriaEast,austriaeast

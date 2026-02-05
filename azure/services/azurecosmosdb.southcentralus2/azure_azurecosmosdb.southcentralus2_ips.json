@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "48.216.19.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.SouthCentralUS2",
+    "region": "southcentralus2"
+  },
+  {
+    "ip_address": "2603:1030:1102::1e0/123",
+    "ip_type": "IPv6",
+    "service": "AzureCosmosDB.SouthCentralUS2",
+    "region": "southcentralus2"
+  }
+]

@@ -1,0 +1,9 @@
+ip_address,ip_type,service,region
+4.206.254.64/29,IPv4,AppServiceManagement.CanadaCentral,canadacentral
+13.71.170.64/26,IPv4,AppServiceManagement.CanadaCentral,canadacentral
+20.48.202.48/28,IPv4,AppServiceManagement.CanadaCentral,canadacentral
+40.85.230.101/32,IPv4,AppServiceManagement.CanadaCentral,canadacentral
+2603:1030:f05:2::700/123,IPv6,AppServiceManagement.CanadaCentral,canadacentral
+2603:1030:f05:402::100/122,IPv6,AppServiceManagement.CanadaCentral,canadacentral
+2603:1030:f05:802::100/122,IPv6,AppServiceManagement.CanadaCentral,canadacentral
+2603:1030:f05:c02::100/122,IPv6,AppServiceManagement.CanadaCentral,canadacentral

@@ -1,0 +1,7 @@
+ip_address,ip_type,service,region
+4.251.226.192/26,IPv4,ServiceBus.FranceSouth,southfrance
+40.79.178.16/28,IPv4,ServiceBus.FranceSouth,southfrance
+52.136.187.128/25,IPv4,ServiceBus.FranceSouth,southfrance
+2603:1020:905::220/123,IPv6,ServiceBus.FranceSouth,southfrance
+2603:1020:905:1::500/120,IPv6,ServiceBus.FranceSouth,southfrance
+2603:1020:905:402::170/125,IPv6,ServiceBus.FranceSouth,southfrance

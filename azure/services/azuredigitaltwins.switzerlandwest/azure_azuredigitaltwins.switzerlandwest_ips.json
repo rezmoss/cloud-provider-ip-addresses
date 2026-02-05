@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "51.107.249.80/29",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "51.107.249.96/27",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "2603:1020:b04:5::100/121",
+    "ip_type": "IPv6",
+    "service": "AzureDigitalTwins.SwitzerlandWest",
+    "region": "switzerlandw"
+  }
+]

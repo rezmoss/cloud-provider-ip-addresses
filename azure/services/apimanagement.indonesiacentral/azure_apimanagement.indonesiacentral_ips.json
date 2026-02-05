@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "70.153.154.240/28",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.IndonesiaCentral",
+    "region": "indonesiacentral"
+  },
+  {
+    "ip_address": "2603:1040:1802::2c0/124",
+    "ip_type": "IPv6",
+    "service": "ApiManagement.IndonesiaCentral",
+    "region": "indonesiacentral"
+  }
+]

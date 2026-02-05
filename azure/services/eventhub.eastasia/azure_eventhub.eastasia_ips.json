@@ -1,0 +1,44 @@
+[
+  {
+    "ip_address": "13.75.34.64/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.195.77.0/24",
+    "ip_type": "IPv4",
+    "service": "EventHub.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.205.75.128/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.205.83.128/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "2603:1040:207::240/122",
+    "ip_type": "IPv6",
+    "service": "EventHub.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "2603:1040:207:2::100/120",
+    "ip_type": "IPv6",
+    "service": "EventHub.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "2603:1040:207:402::1c0/123",
+    "ip_type": "IPv6",
+    "service": "EventHub.EastAsia",
+    "region": "eastasia"
+  }
+]

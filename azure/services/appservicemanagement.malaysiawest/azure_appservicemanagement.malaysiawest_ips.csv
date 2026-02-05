@@ -1,0 +1,3 @@
+ip_address,ip_type,service,region
+20.17.126.0/26,IPv4,AppServiceManagement.MalaysiaWest,malaysiawest
+2603:1040:1602:2::240/122,IPv6,AppServiceManagement.MalaysiaWest,malaysiawest

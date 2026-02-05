@@ -1,0 +1,6 @@
+ip_address,ip_type,service,region
+158.23.10.112/32,IPv4,AzureArcInfrastructure.MexicoCentral,mexicocentral
+158.23.96.20/30,IPv4,AzureArcInfrastructure.MexicoCentral,mexicocentral
+158.23.115.20/31,IPv4,AzureArcInfrastructure.MexicoCentral,mexicocentral
+158.23.115.48/29,IPv4,AzureArcInfrastructure.MexicoCentral,mexicocentral
+2603:1030:702:2::570/124,IPv6,AzureArcInfrastructure.MexicoCentral,mexicocentral

@@ -1,0 +1,7 @@
+ip_address,ip_type,service,region
+20.52.95.254/31,IPv4,ActionGroup.GermanyWestCentral,germanywc
+20.52.214.122/32,IPv4,ActionGroup.GermanyWestCentral,germanywc
+20.52.214.191/32,IPv4,ActionGroup.GermanyWestCentral,germanywc
+98.67.183.188/30,IPv4,ActionGroup.GermanyWestCentral,germanywc
+2603:1020:c04:1::130/126,IPv6,ActionGroup.GermanyWestCentral,germanywc
+2603:1020:c04:402::178/125,IPv6,ActionGroup.GermanyWestCentral,germanywc

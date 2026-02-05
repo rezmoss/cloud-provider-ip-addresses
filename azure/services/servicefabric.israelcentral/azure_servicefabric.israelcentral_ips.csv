@@ -1,0 +1,7 @@
+ip_address,ip_type,service,region
+20.217.58.76/30,IPv4,ServiceFabric.IsraelCentral,israelcentral
+20.217.74.72/30,IPv4,ServiceFabric.IsraelCentral,israelcentral
+20.217.90.72/30,IPv4,ServiceFabric.IsraelCentral,israelcentral
+2603:1040:1402:400::58/125,IPv6,ServiceFabric.IsraelCentral,israelcentral
+2603:1040:1402:800::50/125,IPv6,ServiceFabric.IsraelCentral,israelcentral
+2603:1040:1402:c00::50/125,IPv6,ServiceFabric.IsraelCentral,israelcentral

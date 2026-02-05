@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "4.243.45.192/26",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.147.116.0/25",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "52.231.146.64/28",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05::400/120",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.KoreaSouth",
+    "region": "koreasouth"
+  }
+]

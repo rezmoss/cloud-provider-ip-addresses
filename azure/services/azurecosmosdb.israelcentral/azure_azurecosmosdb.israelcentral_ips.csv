@@ -1,0 +1,6 @@
+ip_address,ip_type,service,region
+20.217.10.64/26,IPv4,AzureCosmosDB.IsraelCentral,israelcentral
+20.217.32.7/32,IPv4,AzureCosmosDB.IsraelCentral,israelcentral
+20.217.32.43/32,IPv4,AzureCosmosDB.IsraelCentral,israelcentral
+20.217.43.32/27,IPv4,AzureCosmosDB.IsraelCentral,israelcentral
+2603:1040:1402::500/123,IPv6,AzureCosmosDB.IsraelCentral,israelcentral

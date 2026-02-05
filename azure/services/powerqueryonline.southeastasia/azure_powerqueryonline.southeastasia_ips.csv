@@ -1,0 +1,10 @@
+ip_address,ip_type,service,region
+13.67.15.208/30,IPv4,PowerQueryOnline.SoutheastAsia,southeastasia
+20.43.128.70/31,IPv4,PowerQueryOnline.SoutheastAsia,southeastasia
+20.195.87.112/29,IPv4,PowerQueryOnline.SoutheastAsia,southeastasia
+20.205.192.106/31,IPv4,PowerQueryOnline.SoutheastAsia,southeastasia
+57.155.34.128/29,IPv4,PowerQueryOnline.SoutheastAsia,southeastasia
+2603:1040:5:1::200/123,IPv6,PowerQueryOnline.SoutheastAsia,southeastasia
+2603:1040:5:402::160/125,IPv6,PowerQueryOnline.SoutheastAsia,southeastasia
+2603:1040:5:802::140/125,IPv6,PowerQueryOnline.SoutheastAsia,southeastasia
+2603:1040:5:c00::20/125,IPv6,PowerQueryOnline.SoutheastAsia,southeastasia

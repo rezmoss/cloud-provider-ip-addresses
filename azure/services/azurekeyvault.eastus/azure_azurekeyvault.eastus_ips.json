@@ -1,0 +1,74 @@
+[
+  {
+    "ip_address": "20.42.64.44/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "20.42.73.8/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "20.62.134.76/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "20.62.134.224/29",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "20.88.156.160/29",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "40.71.10.200/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "2603:1030:210::340/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "2603:1030:210:d::750/124",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "2603:1030:210:d::760/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "2603:1030:210:402::80/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "2603:1030:210:802::80/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "2603:1030:210:c02::80/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.EastUS",
+    "region": "eastus"
+  }
+]

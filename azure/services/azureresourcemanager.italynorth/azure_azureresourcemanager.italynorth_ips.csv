@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+4.232.96.0/23,IPv4,AzureResourceManager.ItalyNorth,italynorth
+4.232.107.192/26,IPv4,AzureResourceManager.ItalyNorth,italynorth
+2603:1020:1204:1::400/120,IPv6,AzureResourceManager.ItalyNorth,italynorth
+2603:1020:1204:400::180/122,IPv6,AzureResourceManager.ItalyNorth,italynorth

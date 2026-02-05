@@ -1,0 +1,62 @@
+[
+  {
+    "ip_address": "20.217.47.32/29",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.IsraelCentral",
+    "region": "israelcentral"
+  },
+  {
+    "ip_address": "20.217.59.240/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.IsraelCentral",
+    "region": "israelcentral"
+  },
+  {
+    "ip_address": "20.217.74.76/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.IsraelCentral",
+    "region": "israelcentral"
+  },
+  {
+    "ip_address": "20.217.90.76/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.IsraelCentral",
+    "region": "israelcentral"
+  },
+  {
+    "ip_address": "2603:1040:1402:1::550/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.IsraelCentral",
+    "region": "israelcentral"
+  },
+  {
+    "ip_address": "2603:1040:1402:2::2a4/126",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.IsraelCentral",
+    "region": "israelcentral"
+  },
+  {
+    "ip_address": "2603:1040:1402:2::500/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.IsraelCentral",
+    "region": "israelcentral"
+  },
+  {
+    "ip_address": "2603:1040:1402:400::508/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.IsraelCentral",
+    "region": "israelcentral"
+  },
+  {
+    "ip_address": "2603:1040:1402:800::20/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.IsraelCentral",
+    "region": "israelcentral"
+  },
+  {
+    "ip_address": "2603:1040:1402:c00::20/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.IsraelCentral",
+    "region": "israelcentral"
+  }
+]

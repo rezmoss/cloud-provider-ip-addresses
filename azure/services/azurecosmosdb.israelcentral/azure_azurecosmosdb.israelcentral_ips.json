@@ -1,0 +1,32 @@
+[
+  {
+    "ip_address": "20.217.10.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.IsraelCentral",
+    "region": "israelcentral"
+  },
+  {
+    "ip_address": "20.217.32.7/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.IsraelCentral",
+    "region": "israelcentral"
+  },
+  {
+    "ip_address": "20.217.32.43/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.IsraelCentral",
+    "region": "israelcentral"
+  },
+  {
+    "ip_address": "20.217.43.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.IsraelCentral",
+    "region": "israelcentral"
+  },
+  {
+    "ip_address": "2603:1040:1402::500/123",
+    "ip_type": "IPv6",
+    "service": "AzureCosmosDB.IsraelCentral",
+    "region": "israelcentral"
+  }
+]

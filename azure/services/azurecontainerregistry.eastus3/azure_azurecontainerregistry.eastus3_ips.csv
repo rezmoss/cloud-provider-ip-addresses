@@ -1,0 +1,12 @@
+ip_address,ip_type,service,region
+134.138.68.192/26,IPv4,AzureContainerRegistry.EastUS3,eastus3
+134.138.86.64/26,IPv4,AzureContainerRegistry.EastUS3,eastus3
+134.138.96.64/26,IPv4,AzureContainerRegistry.EastUS3,eastus3
+134.138.98.0/25,IPv4,AzureContainerRegistry.EastUS3,eastus3
+2603:1030:1402::700/125,IPv6,AzureContainerRegistry.EastUS3,eastus3
+2603:1030:1402:4::280/121,IPv6,AzureContainerRegistry.EastUS3,eastus3
+2603:1030:1402:4::508/125,IPv6,AzureContainerRegistry.EastUS3,eastus3
+2603:1030:1402:4::510/124,IPv6,AzureContainerRegistry.EastUS3,eastus3
+2603:1030:1402:4::540/123,IPv6,AzureContainerRegistry.EastUS3,eastus3
+2603:1030:1402:400::8/125,IPv6,AzureContainerRegistry.EastUS3,eastus3
+2603:1030:1402:400::80/121,IPv6,AzureContainerRegistry.EastUS3,eastus3

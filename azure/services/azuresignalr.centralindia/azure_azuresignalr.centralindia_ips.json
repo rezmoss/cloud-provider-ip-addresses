@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "20.192.44.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureSignalR.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "40.80.53.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureSignalR.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "57.159.87.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureSignalR.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "2603:1040:a06:3::/120",
+    "ip_type": "IPv6",
+    "service": "AzureSignalR.CentralIndia",
+    "region": "centralindia"
+  }
+]

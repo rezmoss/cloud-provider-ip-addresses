@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "68.210.152.48/29",
+    "ip_type": "IPv4",
+    "service": "StorageSyncService.AustriaEast",
+    "region": "austriaeast"
+  },
+  {
+    "ip_address": "2603:1020:104:800::120/123",
+    "ip_type": "IPv6",
+    "service": "StorageSyncService.AustriaEast",
+    "region": "austriaeast"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "51.120.224.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureCognitiveSearch.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04::180/121",
+    "ip_type": "IPv6",
+    "service": "AzureCognitiveSearch.NorwayWest",
+    "region": "norwayw"
+  }
+]

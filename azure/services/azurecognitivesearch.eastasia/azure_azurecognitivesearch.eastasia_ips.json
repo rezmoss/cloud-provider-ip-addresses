@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "20.189.106.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureCognitiveSearch.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "40.81.29.152/32",
+    "ip_type": "IPv4",
+    "service": "AzureCognitiveSearch.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "52.184.80.221/32",
+    "ip_type": "IPv4",
+    "service": "AzureCognitiveSearch.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "2603:1040:207::180/121",
+    "ip_type": "IPv6",
+    "service": "AzureCognitiveSearch.EastAsia",
+    "region": "eastasia"
+  }
+]

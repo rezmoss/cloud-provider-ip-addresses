@@ -1,0 +1,38 @@
+[
+  {
+    "ip_address": "70.153.177.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.IndonesiaCentral",
+    "region": "indonesiacentral"
+  },
+  {
+    "ip_address": "70.153.200.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.IndonesiaCentral",
+    "region": "indonesiacentral"
+  },
+  {
+    "ip_address": "70.153.216.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.IndonesiaCentral",
+    "region": "indonesiacentral"
+  },
+  {
+    "ip_address": "2603:1040:1802:400::80/123",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.IndonesiaCentral",
+    "region": "indonesiacentral"
+  },
+  {
+    "ip_address": "2603:1040:1802:800::40/123",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.IndonesiaCentral",
+    "region": "indonesiacentral"
+  },
+  {
+    "ip_address": "2603:1040:1802:c00::40/123",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.IndonesiaCentral",
+    "region": "indonesiacentral"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "ip_address": "20.192.161.64/27",
+    "ip_type": "IPv4",
+    "service": "EventHub.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "20.193.195.32/27",
+    "ip_type": "IPv4",
+    "service": "EventHub.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "20.193.195.64/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "20.193.195.128/25",
+    "ip_type": "IPv4",
+    "service": "EventHub.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "20.193.202.32/27",
+    "ip_type": "IPv4",
+    "service": "EventHub.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "20.193.204.192/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "2603:1040:d04::240/122",
+    "ip_type": "IPv6",
+    "service": "EventHub.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "2603:1040:d04:2::500/120",
+    "ip_type": "IPv6",
+    "service": "EventHub.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "2603:1040:d04:400::2c0/123",
+    "ip_type": "IPv6",
+    "service": "EventHub.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "2603:1040:d04:c02::c0/123",
+    "ip_type": "IPv6",
+    "service": "EventHub.JioIndiaWest",
+    "region": "jioindiawest"
+  }
+]

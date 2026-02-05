@@ -1,0 +1,3 @@
+ip_address,ip_type,service,region
+51.120.224.128/26,IPv4,AzureCognitiveSearch.NorwayWest,norwayw
+2603:1020:f04::180/121,IPv6,AzureCognitiveSearch.NorwayWest,norwayw

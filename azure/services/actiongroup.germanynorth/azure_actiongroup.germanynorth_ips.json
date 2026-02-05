@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "20.170.175.8/30",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04::10c/126",
+    "ip_type": "IPv6",
+    "service": "ActionGroup.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:402::178/125",
+    "ip_type": "IPv6",
+    "service": "ActionGroup.GermanyNorth",
+    "region": "germanyn"
+  }
+]

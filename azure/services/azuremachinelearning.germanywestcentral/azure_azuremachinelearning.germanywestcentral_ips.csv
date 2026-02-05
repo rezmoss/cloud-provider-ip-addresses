@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+51.116.155.112/28,IPv4,AzureMachineLearning.GermanyWestCentral,germanywc
+51.116.156.128/28,IPv4,AzureMachineLearning.GermanyWestCentral,germanywc
+51.116.250.224/28,IPv4,AzureMachineLearning.GermanyWestCentral,germanywc
+2603:1020:c04:1::2c0/122,IPv6,AzureMachineLearning.GermanyWestCentral,germanywc

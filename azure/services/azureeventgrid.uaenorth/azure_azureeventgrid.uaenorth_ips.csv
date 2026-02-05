@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+20.38.137.0/25,IPv4,AzureEventGrid.UAENorth,uaenorth
+20.46.152.112/28,IPv4,AzureEventGrid.UAENorth,uaenorth
+20.46.152.128/28,IPv4,AzureEventGrid.UAENorth,uaenorth
+2603:1040:904:1::380/121,IPv6,AzureEventGrid.UAENorth,uaenorth

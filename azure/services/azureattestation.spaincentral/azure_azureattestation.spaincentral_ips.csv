@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+68.221.84.152/30,IPv4,AzureAttestation.SpainCentral,spaincentral
+70.156.172.240/29,IPv4,AzureAttestation.SpainCentral,spaincentral
+2603:1020:1403::5e0/124,IPv6,AzureAttestation.SpainCentral,spaincentral

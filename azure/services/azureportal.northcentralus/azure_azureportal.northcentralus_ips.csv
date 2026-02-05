@@ -1,0 +1,6 @@
+ip_address,ip_type,service,region
+20.49.115.184/29,IPv4,AzurePortal.NorthCentralUS,northcentralus
+40.80.190.160/27,IPv4,AzurePortal.NorthCentralUS,northcentralus
+40.80.191.200/30,IPv4,AzurePortal.NorthCentralUS,northcentralus
+135.224.40.0/27,IPv4,AzurePortal.NorthCentralUS,northcentralus
+2603:1030:608::700/121,IPv6,AzurePortal.NorthCentralUS,northcentralus

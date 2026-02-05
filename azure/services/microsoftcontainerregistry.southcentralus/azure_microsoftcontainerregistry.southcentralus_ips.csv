@@ -1,0 +1,9 @@
+ip_address,ip_type,service,region
+20.45.122.136/29,IPv4,MicrosoftContainerRegistry.SouthCentralUS,southcentralus
+20.49.90.8/29,IPv4,MicrosoftContainerRegistry.SouthCentralUS,southcentralus
+48.221.168.0/29,IPv4,MicrosoftContainerRegistry.SouthCentralUS,southcentralus
+104.214.18.176/29,IPv4,MicrosoftContainerRegistry.SouthCentralUS,southcentralus
+2603:1030:807:402::88/125,IPv6,MicrosoftContainerRegistry.SouthCentralUS,southcentralus
+2603:1030:807:802::88/125,IPv6,MicrosoftContainerRegistry.SouthCentralUS,southcentralus
+2603:1030:807:c02::88/125,IPv6,MicrosoftContainerRegistry.SouthCentralUS,southcentralus
+2603:1030:807:1000::/125,IPv6,MicrosoftContainerRegistry.SouthCentralUS,southcentralus

@@ -1,0 +1,9 @@
+ip_address,ip_type,service,region
+13.70.73.0/27,IPv4,BatchNodeManagement.AustraliaEast,australiaeast
+20.37.196.128/27,IPv4,BatchNodeManagement.AustraliaEast,australiaeast
+40.79.162.96/27,IPv4,BatchNodeManagement.AustraliaEast,australiaeast
+40.79.170.192/27,IPv4,BatchNodeManagement.AustraliaEast,australiaeast
+104.210.115.52/32,IPv4,BatchNodeManagement.AustraliaEast,australiaeast
+191.239.64.139/32,IPv4,BatchNodeManagement.AustraliaEast,australiaeast
+191.239.64.152/32,IPv4,BatchNodeManagement.AustraliaEast,australiaeast
+2603:1010:6:1::340/122,IPv6,BatchNodeManagement.AustraliaEast,australiaeast

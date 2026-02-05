@@ -1,0 +1,38 @@
+[
+  {
+    "ip_address": "57.156.1.176/28",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.ChileCentral",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "57.156.1.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.ChileCentral",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "57.156.2.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.ChileCentral",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "57.156.3.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.ChileCentral",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "57.156.3.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.ChileCentral",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "68.211.31.220/30",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.ChileCentral",
+    "region": "chilec"
+  }
+]

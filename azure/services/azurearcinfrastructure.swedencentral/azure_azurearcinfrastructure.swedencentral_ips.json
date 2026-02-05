@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "20.91.151.152/29",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "20.91.152.84/31",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "51.12.75.188/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "51.12.229.232/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.SwedenCentral",
+    "region": "swedencentral"
+  }
+]

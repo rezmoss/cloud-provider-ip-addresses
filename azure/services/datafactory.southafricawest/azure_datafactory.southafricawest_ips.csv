@@ -1,0 +1,11 @@
+ip_address,ip_type,service,region
+40.117.24.160/29,IPv4,DataFactory.SouthAfricaWest,southafricawest
+102.37.64.96/28,IPv4,DataFactory.SouthAfricaWest,southafricawest
+102.133.60.48/28,IPv4,DataFactory.SouthAfricaWest,southafricawest
+102.133.60.192/26,IPv4,DataFactory.SouthAfricaWest,southafricawest
+102.133.61.0/25,IPv4,DataFactory.SouthAfricaWest,southafricawest
+172.209.14.48/28,IPv4,DataFactory.SouthAfricaWest,southafricawest
+172.209.15.0/29,IPv4,DataFactory.SouthAfricaWest,southafricawest
+2603:1000:4::440/122,IPv6,DataFactory.SouthAfricaWest,southafricawest
+2603:1000:4::500/121,IPv6,DataFactory.SouthAfricaWest,southafricawest
+2603:1000:4:402::330/124,IPv6,DataFactory.SouthAfricaWest,southafricawest

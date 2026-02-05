@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "20.74.195.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.UAENorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "65.52.250.192/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.UAENorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "2603:1040:904:1::2c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.UAENorth",
+    "region": "uaenorth"
+  }
+]

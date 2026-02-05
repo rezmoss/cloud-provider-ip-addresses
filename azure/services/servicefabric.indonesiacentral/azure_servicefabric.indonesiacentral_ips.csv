@@ -1,0 +1,9 @@
+ip_address,ip_type,service,region
+48.193.50.104/29,IPv4,ServiceFabric.IndonesiaCentral,indonesiacentral
+70.153.176.12/30,IPv4,ServiceFabric.IndonesiaCentral,indonesiacentral
+70.153.200.8/30,IPv4,ServiceFabric.IndonesiaCentral,indonesiacentral
+70.153.216.8/30,IPv4,ServiceFabric.IndonesiaCentral,indonesiacentral
+2603:1040:1802:5::5a8/125,IPv6,ServiceFabric.IndonesiaCentral,indonesiacentral
+2603:1040:1802:400::18/125,IPv6,ServiceFabric.IndonesiaCentral,indonesiacentral
+2603:1040:1802:800::10/125,IPv6,ServiceFabric.IndonesiaCentral,indonesiacentral
+2603:1040:1802:c00::10/125,IPv6,ServiceFabric.IndonesiaCentral,indonesiacentral

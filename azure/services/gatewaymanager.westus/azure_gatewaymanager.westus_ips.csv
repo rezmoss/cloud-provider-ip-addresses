@@ -1,0 +1,7 @@
+ip_address,ip_type,service,region
+20.59.80.32/27,IPv4,GatewayManager.WestUS,westus
+20.189.180.225/32,IPv4,GatewayManager.WestUS,westus
+20.189.181.8/32,IPv4,GatewayManager.WestUS,westus
+40.82.248.240/29,IPv4,GatewayManager.WestUS,westus
+40.112.242.168/29,IPv4,GatewayManager.WestUS,westus
+2603:1030:a07::40/122,IPv6,GatewayManager.WestUS,westus

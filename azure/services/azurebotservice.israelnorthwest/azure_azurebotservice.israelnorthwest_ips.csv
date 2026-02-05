@@ -1,0 +1,3 @@
+ip_address,ip_type,service,region
+20.217.248.16/30,IPv4,AzureBotService.IsraelNorthwest,israelnorthwest
+2603:1040:1702::20/123,IPv6,AzureBotService.IsraelNorthwest,israelnorthwest

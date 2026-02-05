@@ -1,0 +1,6 @@
+ip_address,ip_type,service,region
+23.98.82.240/28,IPv4,AzureDataExplorerManagement.SoutheastAsia,southeastasia
+40.119.203.252/32,IPv4,AzureDataExplorerManagement.SoutheastAsia,southeastasia
+57.155.34.176/28,IPv4,AzureDataExplorerManagement.SoutheastAsia,southeastasia
+2603:1040:5::700/121,IPv6,AzureDataExplorerManagement.SoutheastAsia,southeastasia
+2603:1040:5:402::150/124,IPv6,AzureDataExplorerManagement.SoutheastAsia,southeastasia

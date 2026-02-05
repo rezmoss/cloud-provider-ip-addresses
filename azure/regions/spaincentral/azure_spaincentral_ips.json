@@ -1,0 +1,2024 @@
+[
+  {
+    "ip_address": "68.221.44.44/30",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.98.88/30",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:1::2a8/126",
+    "ip_type": "IPv6",
+    "service": "ActionGroup.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:400::100/125",
+    "ip_type": "IPv6",
+    "service": "ActionGroup.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.84.128/28",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403::5c0/124",
+    "ip_type": "IPv6",
+    "service": "ApiManagement.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.89.0/24",
+    "ip_type": "IPv4",
+    "service": "AppService.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:1::700/120",
+    "ip_type": "IPv6",
+    "service": "AppService.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.43.0/26",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "70.156.216.0/29",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:2::7c0/123",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.41.72/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.44.32/29",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.44.40/31",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.98.112/32",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "70.156.91.182/32",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "70.156.91.188/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:2::570/124",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:5::37d/128",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:5::37e/127",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.84.152/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "70.156.172.240/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403::5e0/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.84.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403::680/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:400::80/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.80.16/30",
+    "ip_type": "IPv4",
+    "service": "AzureBotService.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403::20/123",
+    "ip_type": "IPv6",
+    "service": "AzureBotService.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.80.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureCognitiveSearch.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403::100/121",
+    "ip_type": "IPv6",
+    "service": "AzureCognitiveSearch.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.92.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.248.51/32",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.248.79/32",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:2::80/122",
+    "ip_type": "IPv6",
+    "service": "AzureConnectors.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.84.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.98.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.100.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.105.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.146.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.149.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.154.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.155.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403::580/125",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:7::160/123",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:7::200/124",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:7::210/125",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:400::8/125",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:400::200/121",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:800::8/125",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:800::180/121",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:c00::48/125",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:c00::100/121",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.42.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.82.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403::1e0/123",
+    "ip_type": "IPv6",
+    "service": "AzureCosmosDB.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.87.48/28",
+    "ip_type": "IPv4",
+    "service": "AzureDataExplorerManagement.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:1::220/123",
+    "ip_type": "IPv6",
+    "service": "AzureDataExplorerManagement.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.84.96/27",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403::600/121",
+    "ip_type": "IPv6",
+    "service": "AzureDigitalTwins.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.81.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403::280/121",
+    "ip_type": "IPv6",
+    "service": "AzureEventGrid.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.86.0/24",
+    "ip_type": "IPv4",
+    "service": "EventHub.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.99.64/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.147.64/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.154.192/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:1::/120",
+    "ip_type": "IPv6",
+    "service": "EventHub.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.100.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.147.160/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.155.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:400::1a0/123",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:800::120/123",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:c00::80/123",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.87.112/29",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.98.124/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.146.76/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.154.76/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:1::204/126",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:1::208/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:1::2a0/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:400::130/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:800::28/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:c00::228/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.43.96/27",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.81.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403::200/122",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.40.16/30",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.40.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.92.6/31",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.93.152/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.103.64/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.103.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.107.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.109.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.147.200/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.149.160/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.157.64/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.157.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "70.156.172.224/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "158.158.61.192/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "158.158.61.224/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "158.158.131.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1402:7::13/128",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1402:7::14/128",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:2::/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:2::40/122",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:2::380/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:2::400/120",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:7::110/124",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:7::300/120",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:7::440/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.40.32/27",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.93.140/30",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:2::300/121",
+    "ip_type": "IPv6",
+    "service": "AzurePortal.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.90.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:1::400/120",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.40.160/27",
+    "ip_type": "IPv4",
+    "service": "Sql.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.40.192/26",
+    "ip_type": "IPv4",
+    "service": "Sql.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.96.64/27",
+    "ip_type": "IPv4",
+    "service": "Sql.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.97.64/27",
+    "ip_type": "IPv4",
+    "service": "Sql.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.99.184/29",
+    "ip_type": "IPv4",
+    "service": "Sql.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.144.64/27",
+    "ip_type": "IPv4",
+    "service": "Sql.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.145.64/27",
+    "ip_type": "IPv4",
+    "service": "Sql.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.147.192/29",
+    "ip_type": "IPv4",
+    "service": "Sql.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.154.88/29",
+    "ip_type": "IPv4",
+    "service": "Sql.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.155.64/27",
+    "ip_type": "IPv4",
+    "service": "Sql.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:2::540/123",
+    "ip_type": "IPv6",
+    "service": "Sql.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:2::580/121",
+    "ip_type": "IPv6",
+    "service": "Sql.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "70.156.174.4/30",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "70.156.174.16/28",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "70.156.174.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "70.156.174.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "70.156.175.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "158.158.128.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.85.128/25",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.98.80/29",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.98.96/28",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.146.80/29",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.146.96/28",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.154.80/29",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.154.96/28",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:1::100/121",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.110.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureSignalR.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:3::6c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureSignalR.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "20.33.131.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "20.33.183.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "20.60.98.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "20.60.100.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "20.60.109.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "20.153.9.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "20.157.243.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "20.209.228.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "135.130.58.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1404::/48",
+    "ip_type": "IPv6",
+    "service": "Storage.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.81.64/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403::300/122",
+    "ip_type": "IPv6",
+    "service": "BatchNodeManagement.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.92.208/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.94.0/23",
+    "ip_type": "IPv4",
+    "service": "DataFactory.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.103.0/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.104.0/25",
+    "ip_type": "IPv4",
+    "service": "DataFactory.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.104.128/26",
+    "ip_type": "IPv4",
+    "service": "DataFactory.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.109.192/27",
+    "ip_type": "IPv4",
+    "service": "DataFactory.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.147.208/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.155.112/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:2::180/121",
+    "ip_type": "IPv6",
+    "service": "DataFactory.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:4::1e0/124",
+    "ip_type": "IPv6",
+    "service": "DataFactory.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:400::440/124",
+    "ip_type": "IPv6",
+    "service": "DataFactory.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:800::280/124",
+    "ip_type": "IPv6",
+    "service": "DataFactory.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:c00::b0/124",
+    "ip_type": "IPv6",
+    "service": "DataFactory.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.80.64/26",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403::40/122",
+    "ip_type": "IPv6",
+    "service": "GatewayManager.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.87.104/29",
+    "ip_type": "IPv4",
+    "service": "HDInsight.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:1::2b0/124",
+    "ip_type": "IPv6",
+    "service": "HDInsight.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.1.175/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.2.37/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.2.156/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.3.7/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.3.29/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.3.54/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.103.16/28",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.103.32/27",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.109.64/28",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.249.9/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.249.175/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.249.177/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.249.184/30",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.249.191/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.249.202/31",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.249.205/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.249.208/31",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.249.210/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.249.213/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.249.214/31",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.249.227/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.249.229/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.249.249/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.249.251/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.249.252/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.250.1/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.250.2/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "70.156.77.128/28",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:400::450/124",
+    "ip_type": "IPv6",
+    "service": "LogicApps.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:400::460/123",
+    "ip_type": "IPv6",
+    "service": "LogicApps.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.98.64/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.146.64/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.154.64/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:400::/125",
+    "ip_type": "IPv6",
+    "service": "MicrosoftContainerRegistry.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:800::/125",
+    "ip_type": "IPv6",
+    "service": "MicrosoftContainerRegistry.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:c00::40/125",
+    "ip_type": "IPv6",
+    "service": "MicrosoftContainerRegistry.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.92.4/31",
+    "ip_type": "IPv4",
+    "service": "PowerBI.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.93.136/30",
+    "ip_type": "IPv4",
+    "service": "PowerBI.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.93.144/29",
+    "ip_type": "IPv4",
+    "service": "PowerBI.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.105.16/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.105.32/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "70.156.91.224/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "158.158.56.64/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:2::160/123",
+    "ip_type": "IPv6",
+    "service": "PowerBI.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:2::200/122",
+    "ip_type": "IPv6",
+    "service": "PowerBI.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1061:2002:c000::/57",
+    "ip_type": "IPv6",
+    "service": "PowerPlatformInfra.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1061:2004:b000::/57",
+    "ip_type": "IPv6",
+    "service": "PowerPlatformPlex.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.80.40/29",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.98.114/31",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.107.0/28",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.107.216/29",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.146.88/31",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.157.72/31",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403::1c0/123",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:400::108/125",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:800::18/125",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:c00::58/125",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.98.76/30",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.146.72/30",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.154.72/30",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:400::18/125",
+    "ip_type": "IPv6",
+    "service": "ServiceFabric.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:800::10/125",
+    "ip_type": "IPv6",
+    "service": "ServiceFabric.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:c00::50/125",
+    "ip_type": "IPv6",
+    "service": "ServiceFabric.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "70.156.83.160/29",
+    "ip_type": "IPv4",
+    "service": "StorageSyncService.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:400::1e0/123",
+    "ip_type": "IPv6",
+    "service": "StorageSyncService.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "40.64.144.176/29",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1061:2010:38::/117",
+    "ip_type": "IPv6",
+    "service": "WindowsVirtualDesktop.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "13.105.111.96/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "20.20.39.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "20.33.131.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "20.33.183.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "20.38.24.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "20.60.98.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "20.60.100.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "20.60.109.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "20.95.114.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "20.143.16.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "20.143.28.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "20.153.9.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "20.157.208.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "20.157.243.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "20.209.228.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "20.231.135.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "40.64.144.176/29",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "40.64.152.192/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "40.64.188.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "40.93.66.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "40.102.17.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "40.102.18.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "40.120.144.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "40.120.145.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "40.120.145.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "40.120.145.192/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "40.120.145.208/30",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "48.208.40.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "48.212.43.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "48.212.170.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "48.213.42.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "51.5.57.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "52.101.90.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "52.101.92.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "52.101.94.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "52.102.165.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "52.103.36.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "52.103.164.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "52.106.186.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "52.108.133.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "52.108.148.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "52.109.154.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "52.111.201.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "52.123.49.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "52.123.198.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "52.253.213.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "52.253.214.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "68.221.0.0/16",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "70.152.45.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "70.156.0.0/16",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "135.130.58.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "158.158.0.0/16",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "209.199.16.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "209.199.17.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "209.199.17.64/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "209.199.17.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1402::/47",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1404::/48",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1405::/48",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1406::/48",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1026:2415::/48",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1026:3000:2a0::/59",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1027:1:240::/59",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1056:100:6::/63",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1056:100:8::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1061:1008::/57",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1061:1008:80::/59",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1061:1008:a0::/60",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1061:1008:b0::/61",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1061:1008:b8::/62",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1061:1008:c0::/59",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1061:1008:e0::/63",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1061:1311:3400::/54",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1061:1738::/48",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1061:2000:5e0::/62",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1061:2002:c000::/57",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1061:2004:b000::/57",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1061:2010:38::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1061:2011:38::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1063:46::/56",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1063:131::/55",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1063:131:200::/56",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1063:232::/56",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1063:430::/56",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1063:621::/56",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1063:724::/56",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1063:2206:44::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1063:242c::/48",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1063:262c::/48",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1063:282a::/48",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1063:2a2a::/48",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2a01:111:f403:c204::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2a01:111:f403:ca20::/62",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2a01:111:f403:ca24::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2a01:111:f403:ca49::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2a01:111:f403:d205::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2a01:111:f403:da05::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2a01:111:f403:e205::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  }
+]

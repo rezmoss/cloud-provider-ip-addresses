@@ -1,0 +1,13 @@
+ip_address,ip_type,service,region
+102.37.72.64/26,IPv4,EventHub.SouthAfricaNorth,southafricanorth
+102.37.165.0/24,IPv4,EventHub.SouthAfricaNorth,southafricanorth
+102.133.122.64/26,IPv4,EventHub.SouthAfricaNorth,southafricanorth
+102.133.127.0/26,IPv4,EventHub.SouthAfricaNorth,southafricanorth
+102.133.154.128/26,IPv4,EventHub.SouthAfricaNorth,southafricanorth
+102.133.250.64/26,IPv4,EventHub.SouthAfricaNorth,southafricanorth
+102.133.254.0/26,IPv4,EventHub.SouthAfricaNorth,southafricanorth
+2603:1000:104:1::240/122,IPv6,EventHub.SouthAfricaNorth,southafricanorth
+2603:1000:104:2::500/120,IPv6,EventHub.SouthAfricaNorth,southafricanorth
+2603:1000:104:402::1c0/123,IPv6,EventHub.SouthAfricaNorth,southafricanorth
+2603:1000:104:802::160/123,IPv6,EventHub.SouthAfricaNorth,southafricanorth
+2603:1000:104:c02::160/123,IPv6,EventHub.SouthAfricaNorth,southafricanorth

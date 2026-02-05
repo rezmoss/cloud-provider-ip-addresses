@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "134.138.84.192/28",
+    "ip_type": "IPv4",
+    "service": "LogicApps.EastUS3",
+    "region": "eastus3"
+  },
+  {
+    "ip_address": "134.138.84.224/27",
+    "ip_type": "IPv4",
+    "service": "LogicApps.EastUS3",
+    "region": "eastus3"
+  },
+  {
+    "ip_address": "2603:1030:1402:3::2e0/124",
+    "ip_type": "IPv6",
+    "service": "LogicApps.EastUS3",
+    "region": "eastus3"
+  },
+  {
+    "ip_address": "2603:1030:1402:3::300/123",
+    "ip_type": "IPv6",
+    "service": "LogicApps.EastUS3",
+    "region": "eastus3"
+  }
+]

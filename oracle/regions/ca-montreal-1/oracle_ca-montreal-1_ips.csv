@@ -1,5 +1,6 @@
 ip_address,ip_type,service,region
 68.233.120.0/21,IPv4,OCI,ca-montreal-1
+147.15.128.0/19,IPv4,OCI,ca-montreal-1
 148.116.64.0/19,IPv4,OCI,ca-montreal-1
 151.145.32.0/19,IPv4,OCI,ca-montreal-1
 155.248.224.0/20,IPv4,OCI,ca-montreal-1

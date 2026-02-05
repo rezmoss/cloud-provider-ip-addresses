@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "20.150.167.176/29",
+    "ip_type": "IPv4",
+    "service": "HDInsight.WestUS3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "20.150.172.232/29",
+    "ip_type": "IPv4",
+    "service": "HDInsight.WestUS3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "172.182.175.168/29",
+    "ip_type": "IPv4",
+    "service": "HDInsight.WestUS3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "2603:1030:504::1e0/124",
+    "ip_type": "IPv6",
+    "service": "HDInsight.WestUS3",
+    "region": "westus3"
+  }
+]

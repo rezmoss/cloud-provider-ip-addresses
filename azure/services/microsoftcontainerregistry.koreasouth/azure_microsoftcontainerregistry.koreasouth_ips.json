@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "52.231.146.88/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:402::140/125",
+    "ip_type": "IPv6",
+    "service": "MicrosoftContainerRegistry.KoreaSouth",
+    "region": "koreasouth"
+  }
+]

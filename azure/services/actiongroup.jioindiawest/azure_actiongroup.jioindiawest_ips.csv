@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+20.193.202.4/30,IPv4,ActionGroup.JioIndiaWest,jioindiawest
+40.64.15.124/30,IPv4,ActionGroup.JioIndiaWest,jioindiawest
+2603:1040:d04::10c/126,IPv6,ActionGroup.JioIndiaWest,jioindiawest
+2603:1040:d04:800::f8/125,IPv6,ActionGroup.JioIndiaWest,jioindiawest
