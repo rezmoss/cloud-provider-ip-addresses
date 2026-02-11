@@ -1,0 +1,32 @@
+[
+  {
+    "ip_address": "2a04:4e41:1404:8000::/52",
+    "ip_type": "IPv6",
+    "region": "RU-TA"
+  },
+  {
+    "ip_address": "2a04:4e41:1805:1000::/52",
+    "ip_type": "IPv6",
+    "region": "RU-TA"
+  },
+  {
+    "ip_address": "2a04:4e41:5604:8000::/52",
+    "ip_type": "IPv6",
+    "region": "RU-TA"
+  },
+  {
+    "ip_address": "140.248.34.216/31",
+    "ip_type": "IPv4",
+    "region": "RU-TA"
+  },
+  {
+    "ip_address": "140.248.37.14/31",
+    "ip_type": "IPv4",
+    "region": "RU-TA"
+  },
+  {
+    "ip_address": "146.75.169.216/31",
+    "ip_type": "IPv4",
+    "region": "RU-TA"
+  }
+]

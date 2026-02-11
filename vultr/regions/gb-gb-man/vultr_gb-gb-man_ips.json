@@ -1,0 +1,17 @@
+[
+  {
+    "ip_address": "64.176.176.0/20",
+    "ip_type": "IPv4",
+    "region": "GB-GB-MAN"
+  },
+  {
+    "ip_address": "66.245.192.0/21",
+    "ip_type": "IPv4",
+    "region": "GB-GB-MAN"
+  },
+  {
+    "ip_address": "2a05:f480:3400::/38",
+    "ip_type": "IPv6",
+    "region": "GB-GB-MAN"
+  }
+]

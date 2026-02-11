@@ -1,0 +1,22 @@
+-- SQL script to create table `apple_private_relay_ua-12_ips` and insert IP addresses
+
+CREATE TABLE IF NOT EXISTS `apple_private_relay_ua-12_ips` (
+  `ip_address` VARCHAR(45) NOT NULL,
+  `ip_type` VARCHAR(10) NOT NULL,
+  PRIMARY KEY (`ip_address`)
+);
+
+INSERT INTO `apple_private_relay_ua-12_ips` (`ip_address`, `ip_type`) VALUES ('104.28.51.233/32', 'IPv4');
+INSERT INTO `apple_private_relay_ua-12_ips` (`ip_address`, `ip_type`) VALUES ('104.28.51.234/32', 'IPv4');
+INSERT INTO `apple_private_relay_ua-12_ips` (`ip_address`, `ip_type`) VALUES ('104.28.81.28/32', 'IPv4');
+INSERT INTO `apple_private_relay_ua-12_ips` (`ip_address`, `ip_type`) VALUES ('104.28.81.29/32', 'IPv4');
+INSERT INTO `apple_private_relay_ua-12_ips` (`ip_address`, `ip_type`) VALUES ('104.28.106.242/32', 'IPv4');
+INSERT INTO `apple_private_relay_ua-12_ips` (`ip_address`, `ip_type`) VALUES ('104.28.106.243/32', 'IPv4');
+INSERT INTO `apple_private_relay_ua-12_ips` (`ip_address`, `ip_type`) VALUES ('104.28.130.160/32', 'IPv4');
+INSERT INTO `apple_private_relay_ua-12_ips` (`ip_address`, `ip_type`) VALUES ('104.28.130.161/32', 'IPv4');
+INSERT INTO `apple_private_relay_ua-12_ips` (`ip_address`, `ip_type`) VALUES ('104.28.131.162/32', 'IPv4');
+INSERT INTO `apple_private_relay_ua-12_ips` (`ip_address`, `ip_type`) VALUES ('104.28.131.163/32', 'IPv4');
+INSERT INTO `apple_private_relay_ua-12_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:5840::/45', 'IPv6');
+INSERT INTO `apple_private_relay_ua-12_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:e1::/64', 'IPv6');
+INSERT INTO `apple_private_relay_ua-12_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:5840::/45', 'IPv6');
+INSERT INTO `apple_private_relay_ua-12_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:5840::/45', 'IPv6');

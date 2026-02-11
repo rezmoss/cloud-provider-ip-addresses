@@ -1,0 +1,62 @@
+[
+  {
+    "ip_address": "2a02:26f7:b6c0:500::/60",
+    "ip_type": "IPv6",
+    "region": "UA-LV"
+  },
+  {
+    "ip_address": "2a02:26f7:b6c0:4e18::/64",
+    "ip_type": "IPv6",
+    "region": "UA-LV"
+  },
+  {
+    "ip_address": "2a02:26f7:b6c0:4e3b::/64",
+    "ip_type": "IPv6",
+    "region": "UA-LV"
+  },
+  {
+    "ip_address": "2a02:26f7:b6c4:500::/60",
+    "ip_type": "IPv6",
+    "region": "UA-LV"
+  },
+  {
+    "ip_address": "2a02:26f7:b6c4:4e18::/64",
+    "ip_type": "IPv6",
+    "region": "UA-LV"
+  },
+  {
+    "ip_address": "2a02:26f7:b6c4:4e3b::/64",
+    "ip_type": "IPv6",
+    "region": "UA-LV"
+  },
+  {
+    "ip_address": "2a02:26f7:b6c8:500::/60",
+    "ip_type": "IPv6",
+    "region": "UA-LV"
+  },
+  {
+    "ip_address": "2a02:26f7:b6c8:4e18::/64",
+    "ip_type": "IPv6",
+    "region": "UA-LV"
+  },
+  {
+    "ip_address": "2a02:26f7:b6c8:4e3b::/64",
+    "ip_type": "IPv6",
+    "region": "UA-LV"
+  },
+  {
+    "ip_address": "2a02:26f7:b6cc:500::/60",
+    "ip_type": "IPv6",
+    "region": "UA-LV"
+  },
+  {
+    "ip_address": "2a02:26f7:b6cc:4e18::/64",
+    "ip_type": "IPv6",
+    "region": "UA-LV"
+  },
+  {
+    "ip_address": "2a02:26f7:b6cc:4e3b::/64",
+    "ip_type": "IPv6",
+    "region": "UA-LV"
+  }
+]

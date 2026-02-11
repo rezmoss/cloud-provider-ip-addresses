@@ -1,0 +1,32 @@
+[
+  {
+    "ip_address": "2a04:4e41:1805:6000::/52",
+    "ip_type": "IPv6",
+    "region": "SI-061"
+  },
+  {
+    "ip_address": "2a04:4e41:4ca0:d000::/52",
+    "ip_type": "IPv6",
+    "region": "SI-061"
+  },
+  {
+    "ip_address": "2a04:4e41:5800:7000::/52",
+    "ip_type": "IPv6",
+    "region": "SI-061"
+  },
+  {
+    "ip_address": "140.248.37.32/31",
+    "ip_type": "IPv4",
+    "region": "SI-061"
+  },
+  {
+    "ip_address": "146.75.180.60/31",
+    "ip_type": "IPv4",
+    "region": "SI-061"
+  },
+  {
+    "ip_address": "146.75.186.30/31",
+    "ip_type": "IPv4",
+    "region": "SI-061"
+  }
+]

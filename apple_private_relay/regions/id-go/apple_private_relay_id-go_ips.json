@@ -1,0 +1,22 @@
+[
+  {
+    "ip_address": "2a02:26f7:d700:d3e8::/64",
+    "ip_type": "IPv6",
+    "region": "ID-GO"
+  },
+  {
+    "ip_address": "2a02:26f7:d704:d3e8::/64",
+    "ip_type": "IPv6",
+    "region": "ID-GO"
+  },
+  {
+    "ip_address": "2a02:26f7:d708:d3e8::/64",
+    "ip_type": "IPv6",
+    "region": "ID-GO"
+  },
+  {
+    "ip_address": "2a02:26f7:d709:d3e8::/64",
+    "ip_type": "IPv6",
+    "region": "ID-GO"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "ip_address": "104.28.34.52/32",
+    "ip_type": "IPv4",
+    "region": "GH-AH"
+  },
+  {
+    "ip_address": "104.28.34.53/32",
+    "ip_type": "IPv4",
+    "region": "GH-AH"
+  },
+  {
+    "ip_address": "104.28.60.60/32",
+    "ip_type": "IPv4",
+    "region": "GH-AH"
+  },
+  {
+    "ip_address": "104.28.60.61/32",
+    "ip_type": "IPv4",
+    "region": "GH-AH"
+  },
+  {
+    "ip_address": "104.28.87.10/32",
+    "ip_type": "IPv4",
+    "region": "GH-AH"
+  },
+  {
+    "ip_address": "104.28.87.11/32",
+    "ip_type": "IPv4",
+    "region": "GH-AH"
+  },
+  {
+    "ip_address": "104.28.88.26/32",
+    "ip_type": "IPv4",
+    "region": "GH-AH"
+  },
+  {
+    "ip_address": "104.28.88.27/32",
+    "ip_type": "IPv4",
+    "region": "GH-AH"
+  },
+  {
+    "ip_address": "104.28.96.30/32",
+    "ip_type": "IPv4",
+    "region": "GH-AH"
+  },
+  {
+    "ip_address": "104.28.96.31/32",
+    "ip_type": "IPv4",
+    "region": "GH-AH"
+  },
+  {
+    "ip_address": "2606:54c0:3860::/45",
+    "ip_type": "IPv6",
+    "region": "GH-AH"
+  },
+  {
+    "ip_address": "2606:54c3:0:14ce::/64",
+    "ip_type": "IPv6",
+    "region": "GH-AH"
+  },
+  {
+    "ip_address": "2a09:bac2:3860::/45",
+    "ip_type": "IPv6",
+    "region": "GH-AH"
+  },
+  {
+    "ip_address": "2a09:bac3:3860::/45",
+    "ip_type": "IPv6",
+    "region": "GH-AH"
+  }
+]

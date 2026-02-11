@@ -1,0 +1,146 @@
+[
+  {
+    "ip_address": "185.166.140.112/28",
+    "ip_type": "IPv4",
+    "service": "confluence,forge,halp,jira,opsgenie,statuspage,trello",
+    "region": "ap-northeast-1"
+  },
+  {
+    "ip_address": "2401:1d80:3200::/64",
+    "ip_type": "IPv6",
+    "service": "confluence,forge,halp,jira,opsgenie,statuspage,trello",
+    "region": "ap-northeast-1"
+  },
+  {
+    "ip_address": "2401:1d80:3200:2::/64",
+    "ip_type": "IPv6",
+    "service": "confluence,forge,halp,jira,opsgenie,statuspage,trello",
+    "region": "ap-northeast-1"
+  },
+  {
+    "ip_address": "2401:1d80:3200:5::/64",
+    "ip_type": "IPv6",
+    "service": "confluence,forge,halp,jira,opsgenie,statuspage,trello",
+    "region": "ap-northeast-1"
+  },
+  {
+    "ip_address": "43.202.69.96/28",
+    "ip_type": "IPv4",
+    "service": "confluence,forge,halp,jira,opsgenie,statuspage,trello",
+    "region": "ap-northeast-2"
+  },
+  {
+    "ip_address": "2401:1d80:3228::/64",
+    "ip_type": "IPv6",
+    "service": "confluence,forge,halp,jira,opsgenie,statuspage,trello",
+    "region": "ap-northeast-2"
+  },
+  {
+    "ip_address": "2401:1d80:3228:1::/64",
+    "ip_type": "IPv6",
+    "service": "confluence,forge,halp,jira,opsgenie,statuspage,trello",
+    "region": "ap-northeast-2"
+  },
+  {
+    "ip_address": "2401:1d80:3228:4::/64",
+    "ip_type": "IPv6",
+    "service": "confluence,forge,halp,jira,opsgenie,statuspage,trello",
+    "region": "ap-northeast-2"
+  },
+  {
+    "ip_address": "13.200.41.224/28",
+    "ip_type": "IPv4",
+    "service": "confluence,forge,halp,jira,opsgenie,statuspage,trello",
+    "region": "ap-south-1"
+  },
+  {
+    "ip_address": "2401:1d80:322c::/64",
+    "ip_type": "IPv6",
+    "service": "confluence,forge,halp,jira,opsgenie,statuspage,trello",
+    "region": "ap-south-1"
+  },
+  {
+    "ip_address": "2401:1d80:322c:1::/64",
+    "ip_type": "IPv6",
+    "service": "confluence,forge,halp,jira,opsgenie,statuspage,trello",
+    "region": "ap-south-1"
+  },
+  {
+    "ip_address": "2401:1d80:322c:4::/64",
+    "ip_type": "IPv6",
+    "service": "confluence,forge,halp,jira,opsgenie,statuspage,trello",
+    "region": "ap-south-1"
+  },
+  {
+    "ip_address": "104.192.136.240/28",
+    "ip_type": "IPv4",
+    "service": "confluence,forge,halp,jira,opsgenie,statuspage,trello",
+    "region": "ca-central-1"
+  },
+  {
+    "ip_address": "2401:1d80:320c::/64",
+    "ip_type": "IPv6",
+    "service": "confluence,forge,halp,jira,opsgenie,statuspage,trello",
+    "region": "ca-central-1"
+  },
+  {
+    "ip_address": "2401:1d80:320c:1::/64",
+    "ip_type": "IPv6",
+    "service": "confluence,forge,halp,jira,opsgenie,statuspage,trello",
+    "region": "ca-central-1"
+  },
+  {
+    "ip_address": "2401:1d80:320c:2::/64",
+    "ip_type": "IPv6",
+    "service": "confluence,forge,halp,jira,opsgenie,statuspage,trello",
+    "region": "ca-central-1"
+  },
+  {
+    "ip_address": "16.63.53.224/28",
+    "ip_type": "IPv4",
+    "service": "confluence,forge,halp,jira,opsgenie,statuspage,trello",
+    "region": "eu-central-2"
+  },
+  {
+    "ip_address": "2401:1d80:3230::/64",
+    "ip_type": "IPv6",
+    "service": "confluence,forge,halp,jira,opsgenie,statuspage,trello",
+    "region": "eu-central-2"
+  },
+  {
+    "ip_address": "2401:1d80:3230:2::/64",
+    "ip_type": "IPv6",
+    "service": "confluence,forge,halp,jira,opsgenie,statuspage,trello",
+    "region": "eu-central-2"
+  },
+  {
+    "ip_address": "2401:1d80:3230:4::/64",
+    "ip_type": "IPv6",
+    "service": "confluence,forge,halp,jira,opsgenie,statuspage,trello",
+    "region": "eu-central-2"
+  },
+  {
+    "ip_address": "185.166.141.112/28",
+    "ip_type": "IPv4",
+    "service": "confluence,forge,halp,jira,opsgenie,statuspage,trello",
+    "region": "eu-west-2"
+  },
+  {
+    "ip_address": "2401:1d80:3218::/64",
+    "ip_type": "IPv6",
+    "service": "confluence,forge,halp,jira,opsgenie,statuspage,trello",
+    "region": "eu-west-2"
+  },
+  {
+    "ip_address": "2401:1d80:3218:2::/64",
+    "ip_type": "IPv6",
+    "service": "confluence,forge,halp,jira,opsgenie,statuspage,trello",
+    "region": "eu-west-2"
+  },
+  {
+    "ip_address": "2401:1d80:3218:5::/64",
+    "ip_type": "IPv6",
+    "service": "confluence,forge,halp,jira,opsgenie,statuspage,trello",
+    "region": "eu-west-2"
+  }
+]

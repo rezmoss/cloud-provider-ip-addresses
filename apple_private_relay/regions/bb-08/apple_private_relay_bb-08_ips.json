@@ -1,0 +1,87 @@
+[
+  {
+    "ip_address": "104.28.36.2/32",
+    "ip_type": "IPv4",
+    "region": "BB-08"
+  },
+  {
+    "ip_address": "104.28.36.3/32",
+    "ip_type": "IPv4",
+    "region": "BB-08"
+  },
+  {
+    "ip_address": "104.28.61.5/32",
+    "ip_type": "IPv4",
+    "region": "BB-08"
+  },
+  {
+    "ip_address": "104.28.61.6/32",
+    "ip_type": "IPv4",
+    "region": "BB-08"
+  },
+  {
+    "ip_address": "104.28.92.4/32",
+    "ip_type": "IPv4",
+    "region": "BB-08"
+  },
+  {
+    "ip_address": "104.28.92.5/32",
+    "ip_type": "IPv4",
+    "region": "BB-08"
+  },
+  {
+    "ip_address": "104.28.94.4/32",
+    "ip_type": "IPv4",
+    "region": "BB-08"
+  },
+  {
+    "ip_address": "104.28.94.5/32",
+    "ip_type": "IPv4",
+    "region": "BB-08"
+  },
+  {
+    "ip_address": "104.28.109.4/32",
+    "ip_type": "IPv4",
+    "region": "BB-08"
+  },
+  {
+    "ip_address": "104.28.109.5/32",
+    "ip_type": "IPv4",
+    "region": "BB-08"
+  },
+  {
+    "ip_address": "104.28.126.4/32",
+    "ip_type": "IPv4",
+    "region": "BB-08"
+  },
+  {
+    "ip_address": "104.28.126.5/32",
+    "ip_type": "IPv4",
+    "region": "BB-08"
+  },
+  {
+    "ip_address": "104.28.139.152/32",
+    "ip_type": "IPv4",
+    "region": "BB-08"
+  },
+  {
+    "ip_address": "2606:54c0:460::/45",
+    "ip_type": "IPv6",
+    "region": "BB-08"
+  },
+  {
+    "ip_address": "2606:54c3:0:f81::/64",
+    "ip_type": "IPv6",
+    "region": "BB-08"
+  },
+  {
+    "ip_address": "2a09:bac2:460::/45",
+    "ip_type": "IPv6",
+    "region": "BB-08"
+  },
+  {
+    "ip_address": "2a09:bac3:460::/45",
+    "ip_type": "IPv6",
+    "region": "BB-08"
+  }
+]

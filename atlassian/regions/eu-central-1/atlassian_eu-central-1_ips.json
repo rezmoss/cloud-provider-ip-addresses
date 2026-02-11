@@ -1,0 +1,98 @@
+[
+  {
+    "ip_address": "185.166.143.224/28",
+    "ip_type": "IPv4",
+    "service": "rovo-crawler",
+    "region": "eu-central-1"
+  },
+  {
+    "ip_address": "2401:1d80:3210:5::/64",
+    "ip_type": "IPv6",
+    "service": "bitbucket,confluence,forge,halp,jira,opsgenie,statuspage,trello",
+    "region": "eu-central-1"
+  },
+  {
+    "ip_address": "2401:1d80:3210:4::/64",
+    "ip_type": "IPv6",
+    "service": "bitbucket,confluence,forge,halp,jira,opsgenie,statuspage,trello",
+    "region": "eu-central-1"
+  },
+  {
+    "ip_address": "2401:1d80:3210:3::/64",
+    "ip_type": "IPv6",
+    "service": "bitbucket,confluence,forge,halp,jira,opsgenie,statuspage,trello",
+    "region": "eu-central-1"
+  },
+  {
+    "ip_address": "18.184.99.224/28",
+    "ip_type": "IPv4",
+    "service": "bitbucket,confluence,forge,halp,jira,opsgenie,statuspage,trello",
+    "region": "eu-central-1"
+  },
+  {
+    "ip_address": "185.166.143.240/28",
+    "ip_type": "IPv4",
+    "service": "bitbucket,confluence,forge,halp,jira,opsgenie,statuspage,trello",
+    "region": "eu-central-1"
+  },
+  {
+    "ip_address": "2a05:d014:f99:dd04::/64",
+    "ip_type": "IPv6",
+    "service": "bitbucket,confluence,forge,halp,jira,opsgenie,statuspage,trello",
+    "region": "eu-central-1"
+  },
+  {
+    "ip_address": "2a05:d014:f99:dd05::/64",
+    "ip_type": "IPv6",
+    "service": "bitbucket,confluence,forge,halp,jira,opsgenie,statuspage,trello",
+    "region": "eu-central-1"
+  },
+  {
+    "ip_address": "2a05:d014:f99:dd06::/64",
+    "ip_type": "IPv6",
+    "service": "bitbucket,confluence,forge,halp,jira,opsgenie,statuspage,trello",
+    "region": "eu-central-1"
+  },
+  {
+    "ip_address": "185.166.143.0/24",
+    "ip_type": "IPv4",
+    "service": "bitbucket,confluence,forge,halp,jira,opsgenie,statuspage,trello",
+    "region": "eu-central-1"
+  },
+  {
+    "ip_address": "18.196.69.189/32",
+    "ip_type": "IPv4",
+    "service": "forge",
+    "region": "eu-central-1"
+  },
+  {
+    "ip_address": "52.58.86.18/32",
+    "ip_type": "IPv4",
+    "service": "forge",
+    "region": "eu-central-1"
+  },
+  {
+    "ip_address": "3.77.185.155/32",
+    "ip_type": "IPv4",
+    "service": "forge",
+    "region": "eu-central-1"
+  },
+  {
+    "ip_address": "18.153.162.220/32",
+    "ip_type": "IPv4",
+    "service": "forge",
+    "region": "eu-central-1"
+  },
+  {
+    "ip_address": "3.126.237.94/32",
+    "ip_type": "IPv4",
+    "service": "forge",
+    "region": "eu-central-1"
+  },
+  {
+    "ip_address": "18.157.151.173/32",
+    "ip_type": "IPv4",
+    "service": "forge",
+    "region": "eu-central-1"
+  }
+]

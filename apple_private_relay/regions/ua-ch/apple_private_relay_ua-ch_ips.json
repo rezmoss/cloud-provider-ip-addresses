@@ -1,0 +1,22 @@
+[
+  {
+    "ip_address": "2a02:26f7:b6c0:4e16::/64",
+    "ip_type": "IPv6",
+    "region": "UA-CH"
+  },
+  {
+    "ip_address": "2a02:26f7:b6c4:4e16::/64",
+    "ip_type": "IPv6",
+    "region": "UA-CH"
+  },
+  {
+    "ip_address": "2a02:26f7:b6c8:4e16::/64",
+    "ip_type": "IPv6",
+    "region": "UA-CH"
+  },
+  {
+    "ip_address": "2a02:26f7:b6cc:4e16::/64",
+    "ip_type": "IPv6",
+    "region": "UA-CH"
+  }
+]

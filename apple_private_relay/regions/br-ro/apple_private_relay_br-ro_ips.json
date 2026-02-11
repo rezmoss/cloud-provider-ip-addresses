@@ -1,0 +1,107 @@
+[
+  {
+    "ip_address": "2a02:26f7:e540:d30c::/64",
+    "ip_type": "IPv6",
+    "region": "BR-RO"
+  },
+  {
+    "ip_address": "2a02:26f7:e540:d30d::/64",
+    "ip_type": "IPv6",
+    "region": "BR-RO"
+  },
+  {
+    "ip_address": "2a02:26f7:e540:d30e::/64",
+    "ip_type": "IPv6",
+    "region": "BR-RO"
+  },
+  {
+    "ip_address": "2a02:26f7:e544:d30c::/64",
+    "ip_type": "IPv6",
+    "region": "BR-RO"
+  },
+  {
+    "ip_address": "2a02:26f7:e544:d30d::/64",
+    "ip_type": "IPv6",
+    "region": "BR-RO"
+  },
+  {
+    "ip_address": "2a02:26f7:e544:d30e::/64",
+    "ip_type": "IPv6",
+    "region": "BR-RO"
+  },
+  {
+    "ip_address": "2a02:26f7:e548:d30c::/64",
+    "ip_type": "IPv6",
+    "region": "BR-RO"
+  },
+  {
+    "ip_address": "2a02:26f7:e548:d30d::/64",
+    "ip_type": "IPv6",
+    "region": "BR-RO"
+  },
+  {
+    "ip_address": "2a02:26f7:e548:d30e::/64",
+    "ip_type": "IPv6",
+    "region": "BR-RO"
+  },
+  {
+    "ip_address": "2606:54c0:ae8::/45",
+    "ip_type": "IPv6",
+    "region": "BR-RO"
+  },
+  {
+    "ip_address": "2606:54c0:af0::/45",
+    "ip_type": "IPv6",
+    "region": "BR-RO"
+  },
+  {
+    "ip_address": "2606:54c0:af8::/45",
+    "ip_type": "IPv6",
+    "region": "BR-RO"
+  },
+  {
+    "ip_address": "2606:54c3:0:2d0::/64",
+    "ip_type": "IPv6",
+    "region": "BR-RO"
+  },
+  {
+    "ip_address": "2606:54c3:0:711::/64",
+    "ip_type": "IPv6",
+    "region": "BR-RO"
+  },
+  {
+    "ip_address": "2606:54c3:0:a4b::/64",
+    "ip_type": "IPv6",
+    "region": "BR-RO"
+  },
+  {
+    "ip_address": "2a09:bac2:ae8::/45",
+    "ip_type": "IPv6",
+    "region": "BR-RO"
+  },
+  {
+    "ip_address": "2a09:bac2:af0::/45",
+    "ip_type": "IPv6",
+    "region": "BR-RO"
+  },
+  {
+    "ip_address": "2a09:bac2:af8::/45",
+    "ip_type": "IPv6",
+    "region": "BR-RO"
+  },
+  {
+    "ip_address": "2a09:bac3:ae8::/45",
+    "ip_type": "IPv6",
+    "region": "BR-RO"
+  },
+  {
+    "ip_address": "2a09:bac3:af0::/45",
+    "ip_type": "IPv6",
+    "region": "BR-RO"
+  },
+  {
+    "ip_address": "2a09:bac3:af8::/45",
+    "ip_type": "IPv6",
+    "region": "BR-RO"
+  }
+]

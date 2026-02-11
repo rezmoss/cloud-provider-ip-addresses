@@ -1,0 +1,22 @@
+[
+  {
+    "ip_address": "2a02:26f7:b600:db07::/64",
+    "ip_type": "IPv6",
+    "region": "PH-ANT"
+  },
+  {
+    "ip_address": "2a02:26f7:b601:db07::/64",
+    "ip_type": "IPv6",
+    "region": "PH-ANT"
+  },
+  {
+    "ip_address": "2a02:26f7:b604:db07::/64",
+    "ip_type": "IPv6",
+    "region": "PH-ANT"
+  },
+  {
+    "ip_address": "2a02:26f7:b608:db07::/64",
+    "ip_type": "IPv6",
+    "region": "PH-ANT"
+  }
+]

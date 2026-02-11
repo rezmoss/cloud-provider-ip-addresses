@@ -1,0 +1,42 @@
+[
+  {
+    "ip_address": "2a04:4e41:801:5000::/52",
+    "ip_type": "IPv6",
+    "region": "IT-RM"
+  },
+  {
+    "ip_address": "2a04:4e41:4801:5000::/52",
+    "ip_type": "IPv6",
+    "region": "IT-RM"
+  },
+  {
+    "ip_address": "2a04:4e41:5201:b000::/52",
+    "ip_type": "IPv6",
+    "region": "IT-RM"
+  },
+  {
+    "ip_address": "2a04:4e41:5800:5000::/52",
+    "ip_type": "IPv6",
+    "region": "IT-RM"
+  },
+  {
+    "ip_address": "140.248.24.72/31",
+    "ip_type": "IPv4",
+    "region": "IT-RM"
+  },
+  {
+    "ip_address": "140.248.41.72/31",
+    "ip_type": "IPv4",
+    "region": "IT-RM"
+  },
+  {
+    "ip_address": "146.75.166.80/31",
+    "ip_type": "IPv4",
+    "region": "IT-RM"
+  },
+  {
+    "ip_address": "146.75.186.18/31",
+    "ip_type": "IPv4",
+    "region": "IT-RM"
+  }
+]

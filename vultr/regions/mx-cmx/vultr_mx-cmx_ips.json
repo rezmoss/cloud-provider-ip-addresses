@@ -1,0 +1,17 @@
+[
+  {
+    "ip_address": "64.177.80.0/21",
+    "ip_type": "IPv4",
+    "region": "MX-CMX"
+  },
+  {
+    "ip_address": "216.238.64.0/19",
+    "ip_type": "IPv4",
+    "region": "MX-CMX"
+  },
+  {
+    "ip_address": "2001:19f0:b400::/38",
+    "ip_type": "IPv6",
+    "region": "MX-CMX"
+  }
+]

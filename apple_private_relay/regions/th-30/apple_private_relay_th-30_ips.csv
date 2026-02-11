@@ -1,0 +1,13 @@
+ip_address,ip_type,region
+2a02:26f7:c640:4cda::/64,IPv6,TH-30
+2a02:26f7:c640:4cdb::/64,IPv6,TH-30
+2a02:26f7:c644:4cda::/64,IPv6,TH-30
+2a02:26f7:c644:4cdb::/64,IPv6,TH-30
+2a02:26f7:c645:4cda::/64,IPv6,TH-30
+2a02:26f7:c645:4cdb::/64,IPv6,TH-30
+2a02:26f7:c648:4cda::/64,IPv6,TH-30
+2a02:26f7:c648:4cdb::/64,IPv6,TH-30
+2606:54c0:5620::/45,IPv6,TH-30
+2606:54c3:0:e99::/64,IPv6,TH-30
+2a09:bac2:5620::/45,IPv6,TH-30
+2a09:bac3:5620::/45,IPv6,TH-30

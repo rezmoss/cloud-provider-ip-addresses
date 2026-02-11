@@ -1,0 +1,67 @@
+-- SQL script to create table `apple_private_relay_au_ips` and insert IP addresses
+
+CREATE TABLE IF NOT EXISTS `apple_private_relay_au_ips` (
+  `ip_address` VARCHAR(45) NOT NULL,
+  `ip_type` VARCHAR(10) NOT NULL,
+  PRIMARY KEY (`ip_address`)
+);
+
+INSERT INTO `apple_private_relay_au_ips` (`ip_address`, `ip_type`) VALUES ('104.28.90.54/32', 'IPv4');
+INSERT INTO `apple_private_relay_au_ips` (`ip_address`, `ip_type`) VALUES ('104.28.125.56/32', 'IPv4');
+INSERT INTO `apple_private_relay_au_ips` (`ip_address`, `ip_type`) VALUES ('104.28.125.57/32', 'IPv4');
+INSERT INTO `apple_private_relay_au_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:f8::/45', 'IPv6');
+INSERT INTO `apple_private_relay_au_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:100::/45', 'IPv6');
+INSERT INTO `apple_private_relay_au_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:108::/45', 'IPv6');
+INSERT INTO `apple_private_relay_au_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:110::/45', 'IPv6');
+INSERT INTO `apple_private_relay_au_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:118::/45', 'IPv6');
+INSERT INTO `apple_private_relay_au_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:120::/45', 'IPv6');
+INSERT INTO `apple_private_relay_au_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:128::/45', 'IPv6');
+INSERT INTO `apple_private_relay_au_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:130::/45', 'IPv6');
+INSERT INTO `apple_private_relay_au_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:138::/45', 'IPv6');
+INSERT INTO `apple_private_relay_au_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:140::/45', 'IPv6');
+INSERT INTO `apple_private_relay_au_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:148::/45', 'IPv6');
+INSERT INTO `apple_private_relay_au_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:150::/45', 'IPv6');
+INSERT INTO `apple_private_relay_au_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:158::/45', 'IPv6');
+INSERT INTO `apple_private_relay_au_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:160::/45', 'IPv6');
+INSERT INTO `apple_private_relay_au_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:5a4::/64', 'IPv6');
+INSERT INTO `apple_private_relay_au_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:669::/64', 'IPv6');
+INSERT INTO `apple_private_relay_au_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:7f1::/64', 'IPv6');
+INSERT INTO `apple_private_relay_au_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:b49::/64', 'IPv6');
+INSERT INTO `apple_private_relay_au_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:d25::/64', 'IPv6');
+INSERT INTO `apple_private_relay_au_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:d7a::/64', 'IPv6');
+INSERT INTO `apple_private_relay_au_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:fb2::/64', 'IPv6');
+INSERT INTO `apple_private_relay_au_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:1092::/64', 'IPv6');
+INSERT INTO `apple_private_relay_au_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:1111::/64', 'IPv6');
+INSERT INTO `apple_private_relay_au_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:1148::/64', 'IPv6');
+INSERT INTO `apple_private_relay_au_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:14f8::/64', 'IPv6');
+INSERT INTO `apple_private_relay_au_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:170b::/64', 'IPv6');
+INSERT INTO `apple_private_relay_au_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:195e::/64', 'IPv6');
+INSERT INTO `apple_private_relay_au_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:197a::/64', 'IPv6');
+INSERT INTO `apple_private_relay_au_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:f8::/45', 'IPv6');
+INSERT INTO `apple_private_relay_au_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:100::/45', 'IPv6');
+INSERT INTO `apple_private_relay_au_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:108::/45', 'IPv6');
+INSERT INTO `apple_private_relay_au_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:110::/45', 'IPv6');
+INSERT INTO `apple_private_relay_au_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:118::/45', 'IPv6');
+INSERT INTO `apple_private_relay_au_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:120::/45', 'IPv6');
+INSERT INTO `apple_private_relay_au_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:128::/45', 'IPv6');
+INSERT INTO `apple_private_relay_au_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:130::/45', 'IPv6');
+INSERT INTO `apple_private_relay_au_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:138::/45', 'IPv6');
+INSERT INTO `apple_private_relay_au_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:140::/45', 'IPv6');
+INSERT INTO `apple_private_relay_au_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:148::/45', 'IPv6');
+INSERT INTO `apple_private_relay_au_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:150::/45', 'IPv6');
+INSERT INTO `apple_private_relay_au_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:158::/45', 'IPv6');
+INSERT INTO `apple_private_relay_au_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:160::/45', 'IPv6');
+INSERT INTO `apple_private_relay_au_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:f8::/45', 'IPv6');
+INSERT INTO `apple_private_relay_au_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:100::/45', 'IPv6');
+INSERT INTO `apple_private_relay_au_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:108::/45', 'IPv6');
+INSERT INTO `apple_private_relay_au_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:110::/45', 'IPv6');
+INSERT INTO `apple_private_relay_au_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:118::/45', 'IPv6');
+INSERT INTO `apple_private_relay_au_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:120::/45', 'IPv6');
+INSERT INTO `apple_private_relay_au_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:128::/45', 'IPv6');
+INSERT INTO `apple_private_relay_au_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:130::/45', 'IPv6');
+INSERT INTO `apple_private_relay_au_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:138::/45', 'IPv6');
+INSERT INTO `apple_private_relay_au_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:140::/45', 'IPv6');
+INSERT INTO `apple_private_relay_au_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:148::/45', 'IPv6');
+INSERT INTO `apple_private_relay_au_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:150::/45', 'IPv6');
+INSERT INTO `apple_private_relay_au_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:158::/45', 'IPv6');
+INSERT INTO `apple_private_relay_au_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:160::/45', 'IPv6');

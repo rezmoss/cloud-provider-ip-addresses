@@ -1,0 +1,82 @@
+[
+  {
+    "ip_address": "104.28.32.64/32",
+    "ip_type": "IPv4",
+    "region": "SV-US"
+  },
+  {
+    "ip_address": "104.28.32.65/32",
+    "ip_type": "IPv4",
+    "region": "SV-US"
+  },
+  {
+    "ip_address": "104.28.36.85/32",
+    "ip_type": "IPv4",
+    "region": "SV-US"
+  },
+  {
+    "ip_address": "104.28.36.86/32",
+    "ip_type": "IPv4",
+    "region": "SV-US"
+  },
+  {
+    "ip_address": "104.28.91.61/32",
+    "ip_type": "IPv4",
+    "region": "SV-US"
+  },
+  {
+    "ip_address": "104.28.91.62/32",
+    "ip_type": "IPv4",
+    "region": "SV-US"
+  },
+  {
+    "ip_address": "104.28.92.80/32",
+    "ip_type": "IPv4",
+    "region": "SV-US"
+  },
+  {
+    "ip_address": "104.28.92.81/32",
+    "ip_type": "IPv4",
+    "region": "SV-US"
+  },
+  {
+    "ip_address": "104.28.94.80/32",
+    "ip_type": "IPv4",
+    "region": "SV-US"
+  },
+  {
+    "ip_address": "104.28.94.81/32",
+    "ip_type": "IPv4",
+    "region": "SV-US"
+  },
+  {
+    "ip_address": "104.28.126.80/32",
+    "ip_type": "IPv4",
+    "region": "SV-US"
+  },
+  {
+    "ip_address": "104.28.126.81/32",
+    "ip_type": "IPv4",
+    "region": "SV-US"
+  },
+  {
+    "ip_address": "2606:54c0:5570::/45",
+    "ip_type": "IPv6",
+    "region": "SV-US"
+  },
+  {
+    "ip_address": "2606:54c3:0:a65::/64",
+    "ip_type": "IPv6",
+    "region": "SV-US"
+  },
+  {
+    "ip_address": "2a09:bac2:5570::/45",
+    "ip_type": "IPv6",
+    "region": "SV-US"
+  },
+  {
+    "ip_address": "2a09:bac3:5570::/45",
+    "ip_type": "IPv6",
+    "region": "SV-US"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "ip_address": "2a02:26f7:dfc0:46dd::/64",
+    "ip_type": "IPv6",
+    "region": "ID-JA"
+  },
+  {
+    "ip_address": "2a02:26f7:dfc0:46f0::/64",
+    "ip_type": "IPv6",
+    "region": "ID-JA"
+  },
+  {
+    "ip_address": "2a02:26f7:dfc4:46dd::/64",
+    "ip_type": "IPv6",
+    "region": "ID-JA"
+  },
+  {
+    "ip_address": "2a02:26f7:dfc4:46f0::/64",
+    "ip_type": "IPv6",
+    "region": "ID-JA"
+  },
+  {
+    "ip_address": "2a02:26f7:dfc8:46dd::/64",
+    "ip_type": "IPv6",
+    "region": "ID-JA"
+  },
+  {
+    "ip_address": "2a02:26f7:dfc8:46f0::/64",
+    "ip_type": "IPv6",
+    "region": "ID-JA"
+  },
+  {
+    "ip_address": "2a02:26f7:dfcc:46dd::/64",
+    "ip_type": "IPv6",
+    "region": "ID-JA"
+  },
+  {
+    "ip_address": "2a02:26f7:dfcc:46f0::/64",
+    "ip_type": "IPv6",
+    "region": "ID-JA"
+  },
+  {
+    "ip_address": "2a02:26f7:dfcd:46dd::/64",
+    "ip_type": "IPv6",
+    "region": "ID-JA"
+  },
+  {
+    "ip_address": "2a02:26f7:dfcd:46f0::/64",
+    "ip_type": "IPv6",
+    "region": "ID-JA"
+  }
+]

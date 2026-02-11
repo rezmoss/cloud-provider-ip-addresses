@@ -1,0 +1,102 @@
+[
+  {
+    "ip_address": "104.28.44.100/32",
+    "ip_type": "IPv4",
+    "region": "KR-45"
+  },
+  {
+    "ip_address": "104.28.44.101/32",
+    "ip_type": "IPv4",
+    "region": "KR-45"
+  },
+  {
+    "ip_address": "104.28.68.6/32",
+    "ip_type": "IPv4",
+    "region": "KR-45"
+  },
+  {
+    "ip_address": "104.28.68.7/32",
+    "ip_type": "IPv4",
+    "region": "KR-45"
+  },
+  {
+    "ip_address": "104.28.71.6/32",
+    "ip_type": "IPv4",
+    "region": "KR-45"
+  },
+  {
+    "ip_address": "104.28.71.7/32",
+    "ip_type": "IPv4",
+    "region": "KR-45"
+  },
+  {
+    "ip_address": "104.28.84.31/32",
+    "ip_type": "IPv4",
+    "region": "KR-45"
+  },
+  {
+    "ip_address": "104.28.84.32/32",
+    "ip_type": "IPv4",
+    "region": "KR-45"
+  },
+  {
+    "ip_address": "104.28.100.27/32",
+    "ip_type": "IPv4",
+    "region": "KR-45"
+  },
+  {
+    "ip_address": "104.28.100.28/32",
+    "ip_type": "IPv4",
+    "region": "KR-45"
+  },
+  {
+    "ip_address": "104.28.102.27/32",
+    "ip_type": "IPv4",
+    "region": "KR-45"
+  },
+  {
+    "ip_address": "104.28.102.28/32",
+    "ip_type": "IPv4",
+    "region": "KR-45"
+  },
+  {
+    "ip_address": "104.28.119.0/32",
+    "ip_type": "IPv4",
+    "region": "KR-45"
+  },
+  {
+    "ip_address": "104.28.119.1/32",
+    "ip_type": "IPv4",
+    "region": "KR-45"
+  },
+  {
+    "ip_address": "104.28.122.0/32",
+    "ip_type": "IPv4",
+    "region": "KR-45"
+  },
+  {
+    "ip_address": "104.28.122.1/32",
+    "ip_type": "IPv4",
+    "region": "KR-45"
+  },
+  {
+    "ip_address": "2606:54c0:46f8::/45",
+    "ip_type": "IPv6",
+    "region": "KR-45"
+  },
+  {
+    "ip_address": "2606:54c3:0:1520::/64",
+    "ip_type": "IPv6",
+    "region": "KR-45"
+  },
+  {
+    "ip_address": "2a09:bac2:46f8::/45",
+    "ip_type": "IPv6",
+    "region": "KR-45"
+  },
+  {
+    "ip_address": "2a09:bac3:46f8::/45",
+    "ip_type": "IPv6",
+    "region": "KR-45"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "ip_address": "64.176.160.0/20",
+    "ip_type": "IPv4",
+    "region": "IL-Tel Aviv"
+  },
+  {
+    "ip_address": "64.177.64.0/20",
+    "ip_type": "IPv4",
+    "region": "IL-Tel Aviv"
+  },
+  {
+    "ip_address": "2a05:f480:2c00::/38",
+    "ip_type": "IPv6",
+    "region": "IL-Tel Aviv"
+  }
+]

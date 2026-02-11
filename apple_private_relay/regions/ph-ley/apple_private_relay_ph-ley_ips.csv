@@ -1,0 +1,9 @@
+ip_address,ip_type,region
+2a02:26f7:b600:db28::/64,IPv6,PH-LEY
+2a02:26f7:b600:db57::/64,IPv6,PH-LEY
+2a02:26f7:b601:db28::/64,IPv6,PH-LEY
+2a02:26f7:b601:db57::/64,IPv6,PH-LEY
+2a02:26f7:b604:db28::/64,IPv6,PH-LEY
+2a02:26f7:b604:db57::/64,IPv6,PH-LEY
+2a02:26f7:b608:db28::/64,IPv6,PH-LEY
+2a02:26f7:b608:db57::/64,IPv6,PH-LEY

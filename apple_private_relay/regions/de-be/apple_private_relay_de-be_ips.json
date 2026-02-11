@@ -1,0 +1,387 @@
+[
+  {
+    "ip_address": "172.225.6.92/31",
+    "ip_type": "IPv4",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "172.225.135.56/31",
+    "ip_type": "IPv4",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "172.225.184.184/31",
+    "ip_type": "IPv4",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "172.225.189.186/31",
+    "ip_type": "IPv4",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "172.225.195.24/31",
+    "ip_type": "IPv4",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "172.225.240.184/31",
+    "ip_type": "IPv4",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "172.226.104.88/31",
+    "ip_type": "IPv4",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "172.226.108.54/31",
+    "ip_type": "IPv4",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "172.226.110.54/31",
+    "ip_type": "IPv4",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "172.226.112.88/31",
+    "ip_type": "IPv4",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "2a02:26f7:ec40:c00::/56",
+    "ip_type": "IPv6",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "2a02:26f7:ec40:6600::/64",
+    "ip_type": "IPv6",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "2a02:26f7:ec40:6635::/64",
+    "ip_type": "IPv6",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "2a02:26f7:ec44:c00::/56",
+    "ip_type": "IPv6",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "2a02:26f7:ec44:6600::/64",
+    "ip_type": "IPv6",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "2a02:26f7:ec44:6635::/64",
+    "ip_type": "IPv6",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "2a02:26f7:ec48:c00::/56",
+    "ip_type": "IPv6",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "2a02:26f7:ec48:6600::/64",
+    "ip_type": "IPv6",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "2a02:26f7:ec48:6635::/64",
+    "ip_type": "IPv6",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "2a02:26f7:ec4c:c00::/56",
+    "ip_type": "IPv6",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "2a02:26f7:ec4c:6600::/64",
+    "ip_type": "IPv6",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "2a02:26f7:ec4c:6635::/64",
+    "ip_type": "IPv6",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "2a02:26f7:ec50:c00::/56",
+    "ip_type": "IPv6",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "2a02:26f7:ec50:6600::/64",
+    "ip_type": "IPv6",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "2a02:26f7:ec50:6635::/64",
+    "ip_type": "IPv6",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "2a02:26f7:ec54:c00::/56",
+    "ip_type": "IPv6",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "2a02:26f7:ec54:6600::/64",
+    "ip_type": "IPv6",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "2a02:26f7:ec54:6635::/64",
+    "ip_type": "IPv6",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "2a02:26f7:ec58:c00::/56",
+    "ip_type": "IPv6",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "2a02:26f7:ec58:6600::/64",
+    "ip_type": "IPv6",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "2a02:26f7:ec58:6635::/64",
+    "ip_type": "IPv6",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "2a02:26f7:ec5c:c00::/56",
+    "ip_type": "IPv6",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "2a02:26f7:ec5c:6600::/64",
+    "ip_type": "IPv6",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "2a02:26f7:ec5c:6635::/64",
+    "ip_type": "IPv6",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "2a02:26f7:ec60:c00::/56",
+    "ip_type": "IPv6",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "2a02:26f7:ec60:6600::/64",
+    "ip_type": "IPv6",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "2a02:26f7:ec60:6635::/64",
+    "ip_type": "IPv6",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "2a02:26f7:ec64:c00::/56",
+    "ip_type": "IPv6",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "2a02:26f7:ec64:6600::/64",
+    "ip_type": "IPv6",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "2a02:26f7:ec64:6635::/64",
+    "ip_type": "IPv6",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "104.28.45.21/32",
+    "ip_type": "IPv4",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "104.28.45.22/32",
+    "ip_type": "IPv4",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "104.28.45.23/32",
+    "ip_type": "IPv4",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "104.28.45.24/32",
+    "ip_type": "IPv4",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "104.28.45.25/32",
+    "ip_type": "IPv4",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "104.28.62.40/32",
+    "ip_type": "IPv4",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "104.28.62.41/32",
+    "ip_type": "IPv4",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "104.28.62.42/32",
+    "ip_type": "IPv4",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "104.28.62.43/32",
+    "ip_type": "IPv4",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "104.28.62.44/32",
+    "ip_type": "IPv4",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "104.28.64.19/32",
+    "ip_type": "IPv4",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "104.28.64.20/32",
+    "ip_type": "IPv4",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "104.28.64.21/32",
+    "ip_type": "IPv4",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "104.28.64.22/32",
+    "ip_type": "IPv4",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "104.28.64.23/32",
+    "ip_type": "IPv4",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "104.28.114.18/32",
+    "ip_type": "IPv4",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "104.28.114.19/32",
+    "ip_type": "IPv4",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "104.28.114.20/32",
+    "ip_type": "IPv4",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "104.28.114.21/32",
+    "ip_type": "IPv4",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "104.28.114.22/32",
+    "ip_type": "IPv4",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "104.28.129.22/32",
+    "ip_type": "IPv4",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "104.28.129.23/32",
+    "ip_type": "IPv4",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "104.28.129.24/32",
+    "ip_type": "IPv4",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "104.28.129.25/32",
+    "ip_type": "IPv4",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "104.28.129.26/32",
+    "ip_type": "IPv4",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "2606:54c0:2858::/45",
+    "ip_type": "IPv6",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "2606:54c3:0:198f::/64",
+    "ip_type": "IPv6",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "2a09:bac2:2858::/45",
+    "ip_type": "IPv6",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "2a09:bac3:2858::/45",
+    "ip_type": "IPv6",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "2a04:4e41:1400:c000::/52",
+    "ip_type": "IPv6",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "2a04:4e41:1800:e000::/52",
+    "ip_type": "IPv6",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "2a04:4e41:5200:3000::/52",
+    "ip_type": "IPv6",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "2a04:4e41:5600:c000::/52",
+    "ip_type": "IPv6",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "140.248.34.44/31",
+    "ip_type": "IPv4",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "140.248.36.56/31",
+    "ip_type": "IPv4",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "146.75.166.14/31",
+    "ip_type": "IPv4",
+    "region": "DE-BE"
+  },
+  {
+    "ip_address": "146.75.169.44/31",
+    "ip_type": "IPv4",
+    "region": "DE-BE"
+  }
+]

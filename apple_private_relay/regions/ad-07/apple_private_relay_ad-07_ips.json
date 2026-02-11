@@ -1,0 +1,72 @@
+[
+  {
+    "ip_address": "104.28.34.4/32",
+    "ip_type": "IPv4",
+    "region": "AD-07"
+  },
+  {
+    "ip_address": "104.28.34.5/32",
+    "ip_type": "IPv4",
+    "region": "AD-07"
+  },
+  {
+    "ip_address": "104.28.42.0/32",
+    "ip_type": "IPv4",
+    "region": "AD-07"
+  },
+  {
+    "ip_address": "104.28.42.1/32",
+    "ip_type": "IPv4",
+    "region": "AD-07"
+  },
+  {
+    "ip_address": "104.28.88.4/32",
+    "ip_type": "IPv4",
+    "region": "AD-07"
+  },
+  {
+    "ip_address": "104.28.88.5/32",
+    "ip_type": "IPv4",
+    "region": "AD-07"
+  },
+  {
+    "ip_address": "104.28.96.4/32",
+    "ip_type": "IPv4",
+    "region": "AD-07"
+  },
+  {
+    "ip_address": "104.28.96.5/32",
+    "ip_type": "IPv4",
+    "region": "AD-07"
+  },
+  {
+    "ip_address": "104.28.98.4/32",
+    "ip_type": "IPv4",
+    "region": "AD-07"
+  },
+  {
+    "ip_address": "104.28.98.5/32",
+    "ip_type": "IPv4",
+    "region": "AD-07"
+  },
+  {
+    "ip_address": "2606:54c0::/45",
+    "ip_type": "IPv6",
+    "region": "AD-07"
+  },
+  {
+    "ip_address": "2606:54c3:0:18ed::/64",
+    "ip_type": "IPv6",
+    "region": "AD-07"
+  },
+  {
+    "ip_address": "2a09:bac2::/45",
+    "ip_type": "IPv6",
+    "region": "AD-07"
+  },
+  {
+    "ip_address": "2a09:bac3::/45",
+    "ip_type": "IPv6",
+    "region": "AD-07"
+  }
+]

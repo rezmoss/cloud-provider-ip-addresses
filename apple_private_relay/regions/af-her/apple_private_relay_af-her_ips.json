@@ -1,0 +1,62 @@
+[
+  {
+    "ip_address": "104.28.37.2/32",
+    "ip_type": "IPv4",
+    "region": "AF-HER"
+  },
+  {
+    "ip_address": "104.28.37.3/32",
+    "ip_type": "IPv4",
+    "region": "AF-HER"
+  },
+  {
+    "ip_address": "104.28.51.2/32",
+    "ip_type": "IPv4",
+    "region": "AF-HER"
+  },
+  {
+    "ip_address": "104.28.51.3/32",
+    "ip_type": "IPv4",
+    "region": "AF-HER"
+  },
+  {
+    "ip_address": "104.28.80.2/32",
+    "ip_type": "IPv4",
+    "region": "AF-HER"
+  },
+  {
+    "ip_address": "104.28.80.3/32",
+    "ip_type": "IPv4",
+    "region": "AF-HER"
+  },
+  {
+    "ip_address": "104.28.106.2/32",
+    "ip_type": "IPv4",
+    "region": "AF-HER"
+  },
+  {
+    "ip_address": "104.28.106.3/32",
+    "ip_type": "IPv4",
+    "region": "AF-HER"
+  },
+  {
+    "ip_address": "2606:54c0:28::/45",
+    "ip_type": "IPv6",
+    "region": "AF-HER"
+  },
+  {
+    "ip_address": "2606:54c3:0:171a::/64",
+    "ip_type": "IPv6",
+    "region": "AF-HER"
+  },
+  {
+    "ip_address": "2a09:bac2:28::/45",
+    "ip_type": "IPv6",
+    "region": "AF-HER"
+  },
+  {
+    "ip_address": "2a09:bac3:28::/45",
+    "ip_type": "IPv6",
+    "region": "AF-HER"
+  }
+]

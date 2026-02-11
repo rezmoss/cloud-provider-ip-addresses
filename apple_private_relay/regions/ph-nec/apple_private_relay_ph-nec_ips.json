@@ -1,0 +1,42 @@
+[
+  {
+    "ip_address": "2a02:26f7:b600:db03::/64",
+    "ip_type": "IPv6",
+    "region": "PH-NEC"
+  },
+  {
+    "ip_address": "2a02:26f7:b600:db52::/64",
+    "ip_type": "IPv6",
+    "region": "PH-NEC"
+  },
+  {
+    "ip_address": "2a02:26f7:b601:db03::/64",
+    "ip_type": "IPv6",
+    "region": "PH-NEC"
+  },
+  {
+    "ip_address": "2a02:26f7:b601:db52::/64",
+    "ip_type": "IPv6",
+    "region": "PH-NEC"
+  },
+  {
+    "ip_address": "2a02:26f7:b604:db03::/64",
+    "ip_type": "IPv6",
+    "region": "PH-NEC"
+  },
+  {
+    "ip_address": "2a02:26f7:b604:db52::/64",
+    "ip_type": "IPv6",
+    "region": "PH-NEC"
+  },
+  {
+    "ip_address": "2a02:26f7:b608:db03::/64",
+    "ip_type": "IPv6",
+    "region": "PH-NEC"
+  },
+  {
+    "ip_address": "2a02:26f7:b608:db52::/64",
+    "ip_type": "IPv6",
+    "region": "PH-NEC"
+  }
+]

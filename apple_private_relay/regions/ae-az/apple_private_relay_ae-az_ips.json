@@ -1,0 +1,62 @@
+[
+  {
+    "ip_address": "104.28.38.179/32",
+    "ip_type": "IPv4",
+    "region": "AE-AZ"
+  },
+  {
+    "ip_address": "104.28.38.180/32",
+    "ip_type": "IPv4",
+    "region": "AE-AZ"
+  },
+  {
+    "ip_address": "104.28.51.222/32",
+    "ip_type": "IPv4",
+    "region": "AE-AZ"
+  },
+  {
+    "ip_address": "104.28.51.223/32",
+    "ip_type": "IPv4",
+    "region": "AE-AZ"
+  },
+  {
+    "ip_address": "104.28.81.9/32",
+    "ip_type": "IPv4",
+    "region": "AE-AZ"
+  },
+  {
+    "ip_address": "104.28.81.10/32",
+    "ip_type": "IPv4",
+    "region": "AE-AZ"
+  },
+  {
+    "ip_address": "104.28.106.223/32",
+    "ip_type": "IPv4",
+    "region": "AE-AZ"
+  },
+  {
+    "ip_address": "104.28.106.224/32",
+    "ip_type": "IPv4",
+    "region": "AE-AZ"
+  },
+  {
+    "ip_address": "2606:54c0:10::/45",
+    "ip_type": "IPv6",
+    "region": "AE-AZ"
+  },
+  {
+    "ip_address": "2606:54c3:0:18cd::/64",
+    "ip_type": "IPv6",
+    "region": "AE-AZ"
+  },
+  {
+    "ip_address": "2a09:bac2:10::/45",
+    "ip_type": "IPv6",
+    "region": "AE-AZ"
+  },
+  {
+    "ip_address": "2a09:bac3:10::/45",
+    "ip_type": "IPv6",
+    "region": "AE-AZ"
+  }
+]

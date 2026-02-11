@@ -1,0 +1,72 @@
+[
+  {
+    "ip_address": "104.28.51.88/32",
+    "ip_type": "IPv4",
+    "region": "IQ-NA"
+  },
+  {
+    "ip_address": "104.28.51.89/32",
+    "ip_type": "IPv4",
+    "region": "IQ-NA"
+  },
+  {
+    "ip_address": "104.28.80.90/32",
+    "ip_type": "IPv4",
+    "region": "IQ-NA"
+  },
+  {
+    "ip_address": "104.28.80.91/32",
+    "ip_type": "IPv4",
+    "region": "IQ-NA"
+  },
+  {
+    "ip_address": "104.28.106.62/32",
+    "ip_type": "IPv4",
+    "region": "IQ-NA"
+  },
+  {
+    "ip_address": "104.28.106.63/32",
+    "ip_type": "IPv4",
+    "region": "IQ-NA"
+  },
+  {
+    "ip_address": "104.28.130.43/32",
+    "ip_type": "IPv4",
+    "region": "IQ-NA"
+  },
+  {
+    "ip_address": "104.28.130.44/32",
+    "ip_type": "IPv4",
+    "region": "IQ-NA"
+  },
+  {
+    "ip_address": "104.28.131.41/32",
+    "ip_type": "IPv4",
+    "region": "IQ-NA"
+  },
+  {
+    "ip_address": "104.28.131.42/32",
+    "ip_type": "IPv4",
+    "region": "IQ-NA"
+  },
+  {
+    "ip_address": "2606:54c0:4118::/45",
+    "ip_type": "IPv6",
+    "region": "IQ-NA"
+  },
+  {
+    "ip_address": "2606:54c3:0:931::/64",
+    "ip_type": "IPv6",
+    "region": "IQ-NA"
+  },
+  {
+    "ip_address": "2a09:bac2:4118::/45",
+    "ip_type": "IPv6",
+    "region": "IQ-NA"
+  },
+  {
+    "ip_address": "2a09:bac3:4118::/45",
+    "ip_type": "IPv6",
+    "region": "IQ-NA"
+  }
+]

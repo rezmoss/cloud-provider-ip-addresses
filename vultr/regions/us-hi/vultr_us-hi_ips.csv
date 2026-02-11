@@ -1,0 +1,4 @@
+ip_address,ip_type,region
+208.72.152.0/22,IPv4,US-HI
+208.83.232.0/21,IPv4,US-HI
+2001:19f0:c000::/38,IPv6,US-HI

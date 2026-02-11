@@ -1,0 +1,6 @@
+ip_address,ip_type,region
+65.20.96.0/20,IPv4,ES-M
+108.61.97.0/24,IPv4,ES-M
+208.76.220.0/22,IPv4,ES-M
+208.85.16.0/21,IPv4,ES-M
+2a05:f480:2800::/38,IPv6,ES-M

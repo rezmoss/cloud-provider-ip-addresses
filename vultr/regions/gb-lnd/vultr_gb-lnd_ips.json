@@ -1,0 +1,127 @@
+[
+  {
+    "ip_address": "45.32.176.0/21",
+    "ip_type": "IPv4",
+    "region": "GB-LND"
+  },
+  {
+    "ip_address": "45.63.96.0/21",
+    "ip_type": "IPv4",
+    "region": "GB-LND"
+  },
+  {
+    "ip_address": "45.76.128.0/20",
+    "ip_type": "IPv4",
+    "region": "GB-LND"
+  },
+  {
+    "ip_address": "45.77.56.0/22",
+    "ip_type": "IPv4",
+    "region": "GB-LND"
+  },
+  {
+    "ip_address": "45.77.88.0/22",
+    "ip_type": "IPv4",
+    "region": "GB-LND"
+  },
+  {
+    "ip_address": "45.77.224.0/21",
+    "ip_type": "IPv4",
+    "region": "GB-LND"
+  },
+  {
+    "ip_address": "78.141.192.0/20",
+    "ip_type": "IPv4",
+    "region": "GB-LND"
+  },
+  {
+    "ip_address": "78.141.224.0/19",
+    "ip_type": "IPv4",
+    "region": "GB-LND"
+  },
+  {
+    "ip_address": "95.179.192.0/20",
+    "ip_type": "IPv4",
+    "region": "GB-LND"
+  },
+  {
+    "ip_address": "95.179.224.0/20",
+    "ip_type": "IPv4",
+    "region": "GB-LND"
+  },
+  {
+    "ip_address": "104.238.168.0/21",
+    "ip_type": "IPv4",
+    "region": "GB-LND"
+  },
+  {
+    "ip_address": "104.238.184.0/22",
+    "ip_type": "IPv4",
+    "region": "GB-LND"
+  },
+  {
+    "ip_address": "108.61.116.0/24",
+    "ip_type": "IPv4",
+    "region": "GB-LND"
+  },
+  {
+    "ip_address": "108.61.172.0/22",
+    "ip_type": "IPv4",
+    "region": "GB-LND"
+  },
+  {
+    "ip_address": "108.61.196.0/23",
+    "ip_type": "IPv4",
+    "region": "GB-LND"
+  },
+  {
+    "ip_address": "108.61.221.0/24",
+    "ip_type": "IPv4",
+    "region": "GB-LND"
+  },
+  {
+    "ip_address": "108.61.230.0/24",
+    "ip_type": "IPv4",
+    "region": "GB-LND"
+  },
+  {
+    "ip_address": "136.244.64.0/20",
+    "ip_type": "IPv4",
+    "region": "GB-LND"
+  },
+  {
+    "ip_address": "173.199.72.0/21",
+    "ip_type": "IPv4",
+    "region": "GB-LND"
+  },
+  {
+    "ip_address": "192.248.144.0/20",
+    "ip_type": "IPv4",
+    "region": "GB-LND"
+  },
+  {
+    "ip_address": "192.248.160.0/20",
+    "ip_type": "IPv4",
+    "region": "GB-LND"
+  },
+  {
+    "ip_address": "209.222.30.0/24",
+    "ip_type": "IPv4",
+    "region": "GB-LND"
+  },
+  {
+    "ip_address": "209.250.224.0/21",
+    "ip_type": "IPv4",
+    "region": "GB-LND"
+  },
+  {
+    "ip_address": "2001:19f0:7400::/38",
+    "ip_type": "IPv6",
+    "region": "GB-LND"
+  },
+  {
+    "ip_address": "2a05:f480:1000::/38",
+    "ip_type": "IPv6",
+    "region": "GB-LND"
+  }
+]

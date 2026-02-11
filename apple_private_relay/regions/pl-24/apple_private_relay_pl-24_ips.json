@@ -1,0 +1,42 @@
+[
+  {
+    "ip_address": "2a04:4e41:201:6000::/52",
+    "ip_type": "IPv6",
+    "region": "PL-24"
+  },
+  {
+    "ip_address": "2a04:4e41:1403:8000::/52",
+    "ip_type": "IPv6",
+    "region": "PL-24"
+  },
+  {
+    "ip_address": "2a04:4e41:1804::/52",
+    "ip_type": "IPv6",
+    "region": "PL-24"
+  },
+  {
+    "ip_address": "2a04:4e41:5603:8000::/52",
+    "ip_type": "IPv6",
+    "region": "PL-24"
+  },
+  {
+    "ip_address": "140.248.34.176/31",
+    "ip_type": "IPv4",
+    "region": "PL-24"
+  },
+  {
+    "ip_address": "140.248.36.226/31",
+    "ip_type": "IPv4",
+    "region": "PL-24"
+  },
+  {
+    "ip_address": "146.75.162.86/31",
+    "ip_type": "IPv4",
+    "region": "PL-24"
+  },
+  {
+    "ip_address": "146.75.169.176/31",
+    "ip_type": "IPv4",
+    "region": "PL-24"
+  }
+]

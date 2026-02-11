@@ -1,0 +1,42 @@
+[
+  {
+    "ip_address": "2a04:4e41:120:2000::/52",
+    "ip_type": "IPv6",
+    "region": "NZ-OTA"
+  },
+  {
+    "ip_address": "2a04:4e41:1a0:2000::/52",
+    "ip_type": "IPv6",
+    "region": "NZ-OTA"
+  },
+  {
+    "ip_address": "2a04:4e41:4cc0:2000::/52",
+    "ip_type": "IPv6",
+    "region": "NZ-OTA"
+  },
+  {
+    "ip_address": "2a04:4e41:6800:2000::/52",
+    "ip_type": "IPv6",
+    "region": "NZ-OTA"
+  },
+  {
+    "ip_address": "140.248.11.6/31",
+    "ip_type": "IPv4",
+    "region": "NZ-OTA"
+  },
+  {
+    "ip_address": "146.75.190.16/31",
+    "ip_type": "IPv4",
+    "region": "NZ-OTA"
+  },
+  {
+    "ip_address": "146.75.216.6/31",
+    "ip_type": "IPv4",
+    "region": "NZ-OTA"
+  },
+  {
+    "ip_address": "146.75.219.6/31",
+    "ip_type": "IPv4",
+    "region": "NZ-OTA"
+  }
+]

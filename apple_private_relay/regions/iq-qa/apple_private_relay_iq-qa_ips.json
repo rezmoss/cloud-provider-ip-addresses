@@ -1,0 +1,72 @@
+[
+  {
+    "ip_address": "104.28.51.116/32",
+    "ip_type": "IPv4",
+    "region": "IQ-QA"
+  },
+  {
+    "ip_address": "104.28.51.117/32",
+    "ip_type": "IPv4",
+    "region": "IQ-QA"
+  },
+  {
+    "ip_address": "104.28.80.118/32",
+    "ip_type": "IPv4",
+    "region": "IQ-QA"
+  },
+  {
+    "ip_address": "104.28.80.119/32",
+    "ip_type": "IPv4",
+    "region": "IQ-QA"
+  },
+  {
+    "ip_address": "104.28.106.90/32",
+    "ip_type": "IPv4",
+    "region": "IQ-QA"
+  },
+  {
+    "ip_address": "104.28.106.91/32",
+    "ip_type": "IPv4",
+    "region": "IQ-QA"
+  },
+  {
+    "ip_address": "104.28.130.65/32",
+    "ip_type": "IPv4",
+    "region": "IQ-QA"
+  },
+  {
+    "ip_address": "104.28.130.66/32",
+    "ip_type": "IPv4",
+    "region": "IQ-QA"
+  },
+  {
+    "ip_address": "104.28.131.69/32",
+    "ip_type": "IPv4",
+    "region": "IQ-QA"
+  },
+  {
+    "ip_address": "104.28.131.70/32",
+    "ip_type": "IPv4",
+    "region": "IQ-QA"
+  },
+  {
+    "ip_address": "2606:54c0:4128::/45",
+    "ip_type": "IPv6",
+    "region": "IQ-QA"
+  },
+  {
+    "ip_address": "2606:54c3:0:196e::/64",
+    "ip_type": "IPv6",
+    "region": "IQ-QA"
+  },
+  {
+    "ip_address": "2a09:bac2:4128::/45",
+    "ip_type": "IPv6",
+    "region": "IQ-QA"
+  },
+  {
+    "ip_address": "2a09:bac3:4128::/45",
+    "ip_type": "IPv6",
+    "region": "IQ-QA"
+  }
+]

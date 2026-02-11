@@ -1,0 +1,32 @@
+[
+  {
+    "ip_address": "2a02:26f7:ef00:59a2::/64",
+    "ip_type": "IPv6",
+    "region": "ES-ML"
+  },
+  {
+    "ip_address": "2a02:26f7:ef02:59a2::/64",
+    "ip_type": "IPv6",
+    "region": "ES-ML"
+  },
+  {
+    "ip_address": "2a02:26f7:ef04:59a2::/64",
+    "ip_type": "IPv6",
+    "region": "ES-ML"
+  },
+  {
+    "ip_address": "2a02:26f7:ef0c:59a2::/64",
+    "ip_type": "IPv6",
+    "region": "ES-ML"
+  },
+  {
+    "ip_address": "2a02:26f7:ef10:59a2::/64",
+    "ip_type": "IPv6",
+    "region": "ES-ML"
+  },
+  {
+    "ip_address": "2a02:26f7:ef14:59a2::/64",
+    "ip_type": "IPv6",
+    "region": "ES-ML"
+  }
+]

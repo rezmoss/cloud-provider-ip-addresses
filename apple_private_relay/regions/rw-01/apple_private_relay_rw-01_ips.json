@@ -1,0 +1,77 @@
+[
+  {
+    "ip_address": "104.28.46.62/32",
+    "ip_type": "IPv4",
+    "region": "RW-01"
+  },
+  {
+    "ip_address": "104.28.46.63/32",
+    "ip_type": "IPv4",
+    "region": "RW-01"
+  },
+  {
+    "ip_address": "104.28.60.166/32",
+    "ip_type": "IPv4",
+    "region": "RW-01"
+  },
+  {
+    "ip_address": "104.28.60.167/32",
+    "ip_type": "IPv4",
+    "region": "RW-01"
+  },
+  {
+    "ip_address": "104.28.80.201/32",
+    "ip_type": "IPv4",
+    "region": "RW-01"
+  },
+  {
+    "ip_address": "104.28.80.202/32",
+    "ip_type": "IPv4",
+    "region": "RW-01"
+  },
+  {
+    "ip_address": "104.28.82.74/32",
+    "ip_type": "IPv4",
+    "region": "RW-01"
+  },
+  {
+    "ip_address": "104.28.82.75/32",
+    "ip_type": "IPv4",
+    "region": "RW-01"
+  },
+  {
+    "ip_address": "104.28.106.166/32",
+    "ip_type": "IPv4",
+    "region": "RW-01"
+  },
+  {
+    "ip_address": "104.28.106.167/32",
+    "ip_type": "IPv4",
+    "region": "RW-01"
+  },
+  {
+    "ip_address": "104.28.146.141/32",
+    "ip_type": "IPv4",
+    "region": "RW-01"
+  },
+  {
+    "ip_address": "2606:54c0:5110::/45",
+    "ip_type": "IPv6",
+    "region": "RW-01"
+  },
+  {
+    "ip_address": "2606:54c3:0:de4::/64",
+    "ip_type": "IPv6",
+    "region": "RW-01"
+  },
+  {
+    "ip_address": "2a09:bac2:5110::/45",
+    "ip_type": "IPv6",
+    "region": "RW-01"
+  },
+  {
+    "ip_address": "2a09:bac3:5110::/45",
+    "ip_type": "IPv6",
+    "region": "RW-01"
+  }
+]

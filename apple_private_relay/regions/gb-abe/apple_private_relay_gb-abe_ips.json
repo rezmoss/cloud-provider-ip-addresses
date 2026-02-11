@@ -1,0 +1,72 @@
+[
+  {
+    "ip_address": "104.28.30.107/32",
+    "ip_type": "IPv4",
+    "region": "GB-ABE"
+  },
+  {
+    "ip_address": "104.28.30.108/32",
+    "ip_type": "IPv4",
+    "region": "GB-ABE"
+  },
+  {
+    "ip_address": "104.28.40.102/32",
+    "ip_type": "IPv4",
+    "region": "GB-ABE"
+  },
+  {
+    "ip_address": "104.28.40.103/32",
+    "ip_type": "IPv4",
+    "region": "GB-ABE"
+  },
+  {
+    "ip_address": "104.28.53.39/32",
+    "ip_type": "IPv4",
+    "region": "GB-ABE"
+  },
+  {
+    "ip_address": "104.28.53.40/32",
+    "ip_type": "IPv4",
+    "region": "GB-ABE"
+  },
+  {
+    "ip_address": "104.28.86.68/32",
+    "ip_type": "IPv4",
+    "region": "GB-ABE"
+  },
+  {
+    "ip_address": "104.28.86.69/32",
+    "ip_type": "IPv4",
+    "region": "GB-ABE"
+  },
+  {
+    "ip_address": "104.28.89.39/32",
+    "ip_type": "IPv4",
+    "region": "GB-ABE"
+  },
+  {
+    "ip_address": "104.28.89.40/32",
+    "ip_type": "IPv4",
+    "region": "GB-ABE"
+  },
+  {
+    "ip_address": "2606:54c0:3748::/45",
+    "ip_type": "IPv6",
+    "region": "GB-ABE"
+  },
+  {
+    "ip_address": "2606:54c3:0:107b::/64",
+    "ip_type": "IPv6",
+    "region": "GB-ABE"
+  },
+  {
+    "ip_address": "2a09:bac2:3748::/45",
+    "ip_type": "IPv6",
+    "region": "GB-ABE"
+  },
+  {
+    "ip_address": "2a09:bac3:3748::/45",
+    "ip_type": "IPv6",
+    "region": "GB-ABE"
+  }
+]

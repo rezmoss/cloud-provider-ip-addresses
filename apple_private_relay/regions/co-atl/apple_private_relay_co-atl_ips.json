@@ -1,0 +1,82 @@
+[
+  {
+    "ip_address": "104.28.32.6/32",
+    "ip_type": "IPv4",
+    "region": "CO-ATL"
+  },
+  {
+    "ip_address": "104.28.32.7/32",
+    "ip_type": "IPv4",
+    "region": "CO-ATL"
+  },
+  {
+    "ip_address": "104.28.36.20/32",
+    "ip_type": "IPv4",
+    "region": "CO-ATL"
+  },
+  {
+    "ip_address": "104.28.36.21/32",
+    "ip_type": "IPv4",
+    "region": "CO-ATL"
+  },
+  {
+    "ip_address": "104.28.91.4/32",
+    "ip_type": "IPv4",
+    "region": "CO-ATL"
+  },
+  {
+    "ip_address": "104.28.91.5/32",
+    "ip_type": "IPv4",
+    "region": "CO-ATL"
+  },
+  {
+    "ip_address": "104.28.92.12/32",
+    "ip_type": "IPv4",
+    "region": "CO-ATL"
+  },
+  {
+    "ip_address": "104.28.92.13/32",
+    "ip_type": "IPv4",
+    "region": "CO-ATL"
+  },
+  {
+    "ip_address": "104.28.94.12/32",
+    "ip_type": "IPv4",
+    "region": "CO-ATL"
+  },
+  {
+    "ip_address": "104.28.94.13/32",
+    "ip_type": "IPv4",
+    "region": "CO-ATL"
+  },
+  {
+    "ip_address": "104.28.126.12/32",
+    "ip_type": "IPv4",
+    "region": "CO-ATL"
+  },
+  {
+    "ip_address": "104.28.126.13/32",
+    "ip_type": "IPv4",
+    "region": "CO-ATL"
+  },
+  {
+    "ip_address": "2606:54c0:2698::/45",
+    "ip_type": "IPv6",
+    "region": "CO-ATL"
+  },
+  {
+    "ip_address": "2606:54c3:0:108e::/64",
+    "ip_type": "IPv6",
+    "region": "CO-ATL"
+  },
+  {
+    "ip_address": "2a09:bac2:2698::/45",
+    "ip_type": "IPv6",
+    "region": "CO-ATL"
+  },
+  {
+    "ip_address": "2a09:bac3:2698::/45",
+    "ip_type": "IPv6",
+    "region": "CO-ATL"
+  }
+]

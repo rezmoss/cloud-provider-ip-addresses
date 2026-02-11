@@ -1,0 +1,42 @@
+[
+  {
+    "ip_address": "2a02:26f7:c640:4cdc::/64",
+    "ip_type": "IPv6",
+    "region": "TH-32"
+  },
+  {
+    "ip_address": "2a02:26f7:c644:4cdc::/64",
+    "ip_type": "IPv6",
+    "region": "TH-32"
+  },
+  {
+    "ip_address": "2a02:26f7:c645:4cdc::/64",
+    "ip_type": "IPv6",
+    "region": "TH-32"
+  },
+  {
+    "ip_address": "2a02:26f7:c648:4cdc::/64",
+    "ip_type": "IPv6",
+    "region": "TH-32"
+  },
+  {
+    "ip_address": "2606:54c0:5628::/45",
+    "ip_type": "IPv6",
+    "region": "TH-32"
+  },
+  {
+    "ip_address": "2606:54c3:0:d79::/64",
+    "ip_type": "IPv6",
+    "region": "TH-32"
+  },
+  {
+    "ip_address": "2a09:bac2:5628::/45",
+    "ip_type": "IPv6",
+    "region": "TH-32"
+  },
+  {
+    "ip_address": "2a09:bac3:5628::/45",
+    "ip_type": "IPv6",
+    "region": "TH-32"
+  }
+]

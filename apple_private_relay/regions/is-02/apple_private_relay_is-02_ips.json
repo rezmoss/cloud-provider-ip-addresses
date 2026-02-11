@@ -1,0 +1,27 @@
+[
+  {
+    "ip_address": "104.28.146.67/32",
+    "ip_type": "IPv4",
+    "region": "IS-02"
+  },
+  {
+    "ip_address": "2606:54c0:4158::/45",
+    "ip_type": "IPv6",
+    "region": "IS-02"
+  },
+  {
+    "ip_address": "2606:54c3:0:775::/64",
+    "ip_type": "IPv6",
+    "region": "IS-02"
+  },
+  {
+    "ip_address": "2a09:bac2:4158::/45",
+    "ip_type": "IPv6",
+    "region": "IS-02"
+  },
+  {
+    "ip_address": "2a09:bac3:4158::/45",
+    "ip_type": "IPv6",
+    "region": "IS-02"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "ip_address": "104.28.34.32/32",
+    "ip_type": "IPv4",
+    "region": "GQ-LI"
+  },
+  {
+    "ip_address": "104.28.34.33/32",
+    "ip_type": "IPv4",
+    "region": "GQ-LI"
+  },
+  {
+    "ip_address": "104.28.46.34/32",
+    "ip_type": "IPv4",
+    "region": "GQ-LI"
+  },
+  {
+    "ip_address": "104.28.46.35/32",
+    "ip_type": "IPv4",
+    "region": "GQ-LI"
+  },
+  {
+    "ip_address": "104.28.60.50/32",
+    "ip_type": "IPv4",
+    "region": "GQ-LI"
+  },
+  {
+    "ip_address": "104.28.60.51/32",
+    "ip_type": "IPv4",
+    "region": "GQ-LI"
+  },
+  {
+    "ip_address": "104.28.82.38/32",
+    "ip_type": "IPv4",
+    "region": "GQ-LI"
+  },
+  {
+    "ip_address": "104.28.82.39/32",
+    "ip_type": "IPv4",
+    "region": "GQ-LI"
+  },
+  {
+    "ip_address": "104.28.88.18/32",
+    "ip_type": "IPv4",
+    "region": "GQ-LI"
+  },
+  {
+    "ip_address": "104.28.88.19/32",
+    "ip_type": "IPv4",
+    "region": "GQ-LI"
+  },
+  {
+    "ip_address": "2606:54c0:38a8::/45",
+    "ip_type": "IPv6",
+    "region": "GQ-LI"
+  },
+  {
+    "ip_address": "2606:54c3:0:2dd::/64",
+    "ip_type": "IPv6",
+    "region": "GQ-LI"
+  },
+  {
+    "ip_address": "2a09:bac2:38a8::/45",
+    "ip_type": "IPv6",
+    "region": "GQ-LI"
+  },
+  {
+    "ip_address": "2a09:bac3:38a8::/45",
+    "ip_type": "IPv6",
+    "region": "GQ-LI"
+  }
+]

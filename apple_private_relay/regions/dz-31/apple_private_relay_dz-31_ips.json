@@ -1,0 +1,87 @@
+[
+  {
+    "ip_address": "104.28.34.0/32",
+    "ip_type": "IPv4",
+    "region": "DZ-31"
+  },
+  {
+    "ip_address": "104.28.34.1/32",
+    "ip_type": "IPv4",
+    "region": "DZ-31"
+  },
+  {
+    "ip_address": "104.28.60.2/32",
+    "ip_type": "IPv4",
+    "region": "DZ-31"
+  },
+  {
+    "ip_address": "104.28.60.3/32",
+    "ip_type": "IPv4",
+    "region": "DZ-31"
+  },
+  {
+    "ip_address": "104.28.87.0/32",
+    "ip_type": "IPv4",
+    "region": "DZ-31"
+  },
+  {
+    "ip_address": "104.28.87.1/32",
+    "ip_type": "IPv4",
+    "region": "DZ-31"
+  },
+  {
+    "ip_address": "104.28.88.0/32",
+    "ip_type": "IPv4",
+    "region": "DZ-31"
+  },
+  {
+    "ip_address": "104.28.88.1/32",
+    "ip_type": "IPv4",
+    "region": "DZ-31"
+  },
+  {
+    "ip_address": "104.28.96.0/32",
+    "ip_type": "IPv4",
+    "region": "DZ-31"
+  },
+  {
+    "ip_address": "104.28.96.1/32",
+    "ip_type": "IPv4",
+    "region": "DZ-31"
+  },
+  {
+    "ip_address": "104.28.139.83/32",
+    "ip_type": "IPv4",
+    "region": "DZ-31"
+  },
+  {
+    "ip_address": "104.28.141.92/32",
+    "ip_type": "IPv4",
+    "region": "DZ-31"
+  },
+  {
+    "ip_address": "104.28.151.102/32",
+    "ip_type": "IPv4",
+    "region": "DZ-31"
+  },
+  {
+    "ip_address": "2606:54c0:3020::/45",
+    "ip_type": "IPv6",
+    "region": "DZ-31"
+  },
+  {
+    "ip_address": "2606:54c3:0:1b8::/64",
+    "ip_type": "IPv6",
+    "region": "DZ-31"
+  },
+  {
+    "ip_address": "2a09:bac2:3020::/45",
+    "ip_type": "IPv6",
+    "region": "DZ-31"
+  },
+  {
+    "ip_address": "2a09:bac3:3020::/45",
+    "ip_type": "IPv6",
+    "region": "DZ-31"
+  }
+]

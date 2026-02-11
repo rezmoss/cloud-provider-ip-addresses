@@ -1,0 +1,62 @@
+[
+  {
+    "ip_address": "2a02:26f7:d6c0:6842::/64",
+    "ip_type": "IPv6",
+    "region": "IN-DD"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c0:6843::/64",
+    "ip_type": "IPv6",
+    "region": "IN-DD"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c1:6842::/64",
+    "ip_type": "IPv6",
+    "region": "IN-DD"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c1:6843::/64",
+    "ip_type": "IPv6",
+    "region": "IN-DD"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c4:6842::/64",
+    "ip_type": "IPv6",
+    "region": "IN-DD"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c4:6843::/64",
+    "ip_type": "IPv6",
+    "region": "IN-DD"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c6:6842::/64",
+    "ip_type": "IPv6",
+    "region": "IN-DD"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c6:6843::/64",
+    "ip_type": "IPv6",
+    "region": "IN-DD"
+  },
+  {
+    "ip_address": "2a02:26f7:d6cc:6842::/64",
+    "ip_type": "IPv6",
+    "region": "IN-DD"
+  },
+  {
+    "ip_address": "2a02:26f7:d6cc:6843::/64",
+    "ip_type": "IPv6",
+    "region": "IN-DD"
+  },
+  {
+    "ip_address": "2a02:26f7:d6d0:6842::/64",
+    "ip_type": "IPv6",
+    "region": "IN-DD"
+  },
+  {
+    "ip_address": "2a02:26f7:d6d0:6843::/64",
+    "ip_type": "IPv6",
+    "region": "IN-DD"
+  }
+]

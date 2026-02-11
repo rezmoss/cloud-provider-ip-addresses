@@ -1,0 +1,13 @@
+ip_address,ip_type,service,region
+185.166.141.128/28,IPv4,rovo-crawler,eu-west-2
+185.166.141.112/28,IPv4,"confluence,forge,halp,jira,opsgenie,statuspage,trello",eu-west-2
+2401:1d80:3218::/64,IPv6,"confluence,forge,halp,jira,opsgenie,statuspage,trello",eu-west-2
+2401:1d80:3218:2::/64,IPv6,"confluence,forge,halp,jira,opsgenie,statuspage,trello",eu-west-2
+2401:1d80:3218:5::/64,IPv6,"confluence,forge,halp,jira,opsgenie,statuspage,trello",eu-west-2
+185.166.141.0/24,IPv4,"confluence,halp,jira,opsgenie,statuspage,trello",eu-west-2
+13.43.230.20/32,IPv4,forge,eu-west-2
+13.42.94.26/32,IPv4,forge,eu-west-2
+13.41.178.119/32,IPv4,forge,eu-west-2
+13.43.10.138/32,IPv4,forge,eu-west-2
+18.132.72.151/32,IPv4,forge,eu-west-2
+13.43.238.10/32,IPv4,forge,eu-west-2

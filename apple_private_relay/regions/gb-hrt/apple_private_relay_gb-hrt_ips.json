@@ -1,0 +1,42 @@
+[
+  {
+    "ip_address": "2a04:4e41:1301::/52",
+    "ip_type": "IPv6",
+    "region": "GB-HRT"
+  },
+  {
+    "ip_address": "2a04:4e41:1601:6000::/52",
+    "ip_type": "IPv6",
+    "region": "GB-HRT"
+  },
+  {
+    "ip_address": "2a04:4e41:4e00:f000::/52",
+    "ip_type": "IPv6",
+    "region": "GB-HRT"
+  },
+  {
+    "ip_address": "2a04:4e41:7401:6000::/52",
+    "ip_type": "IPv6",
+    "region": "GB-HRT"
+  },
+  {
+    "ip_address": "140.248.40.54/31",
+    "ip_type": "IPv4",
+    "region": "GB-HRT"
+  },
+  {
+    "ip_address": "146.75.168.68/31",
+    "ip_type": "IPv4",
+    "region": "GB-HRT"
+  },
+  {
+    "ip_address": "146.75.174.42/31",
+    "ip_type": "IPv4",
+    "region": "GB-HRT"
+  },
+  {
+    "ip_address": "146.75.185.68/31",
+    "ip_type": "IPv4",
+    "region": "GB-HRT"
+  }
+]

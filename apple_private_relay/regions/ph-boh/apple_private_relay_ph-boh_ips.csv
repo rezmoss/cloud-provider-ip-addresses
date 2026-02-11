@@ -1,0 +1,5 @@
+ip_address,ip_type,region
+2a02:26f7:b600:db59::/64,IPv6,PH-BOH
+2a02:26f7:b601:db59::/64,IPv6,PH-BOH
+2a02:26f7:b604:db59::/64,IPv6,PH-BOH
+2a02:26f7:b608:db59::/64,IPv6,PH-BOH

@@ -1,0 +1,17 @@
+[
+  {
+    "ip_address": "104.28.149.67/32",
+    "ip_type": "IPv4",
+    "region": "CL-BI"
+  },
+  {
+    "ip_address": "2a09:bac2:d538::/45",
+    "ip_type": "IPv6",
+    "region": "CL-BI"
+  },
+  {
+    "ip_address": "2a09:bac3:d538::/45",
+    "ip_type": "IPv6",
+    "region": "CL-BI"
+  }
+]

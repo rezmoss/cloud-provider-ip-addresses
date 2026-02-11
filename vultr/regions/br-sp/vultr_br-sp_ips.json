@@ -1,0 +1,12 @@
+[
+  {
+    "ip_address": "216.238.96.0/19",
+    "ip_type": "IPv4",
+    "region": "BR-SP"
+  },
+  {
+    "ip_address": "2001:19f0:b800::/38",
+    "ip_type": "IPv6",
+    "region": "BR-SP"
+  }
+]

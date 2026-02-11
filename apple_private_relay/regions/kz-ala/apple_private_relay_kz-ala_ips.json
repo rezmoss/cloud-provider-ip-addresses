@@ -1,0 +1,62 @@
+[
+  {
+    "ip_address": "104.28.37.250/32",
+    "ip_type": "IPv4",
+    "region": "KZ-ALA"
+  },
+  {
+    "ip_address": "104.28.37.251/32",
+    "ip_type": "IPv4",
+    "region": "KZ-ALA"
+  },
+  {
+    "ip_address": "104.28.51.122/32",
+    "ip_type": "IPv4",
+    "region": "KZ-ALA"
+  },
+  {
+    "ip_address": "104.28.51.123/32",
+    "ip_type": "IPv4",
+    "region": "KZ-ALA"
+  },
+  {
+    "ip_address": "104.28.65.25/32",
+    "ip_type": "IPv4",
+    "region": "KZ-ALA"
+  },
+  {
+    "ip_address": "104.28.65.26/32",
+    "ip_type": "IPv4",
+    "region": "KZ-ALA"
+  },
+  {
+    "ip_address": "104.28.80.128/32",
+    "ip_type": "IPv4",
+    "region": "KZ-ALA"
+  },
+  {
+    "ip_address": "104.28.80.129/32",
+    "ip_type": "IPv4",
+    "region": "KZ-ALA"
+  },
+  {
+    "ip_address": "2606:54c0:4740::/45",
+    "ip_type": "IPv6",
+    "region": "KZ-ALA"
+  },
+  {
+    "ip_address": "2606:54c3:0:190c::/64",
+    "ip_type": "IPv6",
+    "region": "KZ-ALA"
+  },
+  {
+    "ip_address": "2a09:bac2:4740::/45",
+    "ip_type": "IPv6",
+    "region": "KZ-ALA"
+  },
+  {
+    "ip_address": "2a09:bac3:4740::/45",
+    "ip_type": "IPv6",
+    "region": "KZ-ALA"
+  }
+]

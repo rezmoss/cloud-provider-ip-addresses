@@ -1,0 +1,74 @@
+[
+  {
+    "ip_address": "185.166.141.128/28",
+    "ip_type": "IPv4",
+    "service": "rovo-crawler",
+    "region": "eu-west-2"
+  },
+  {
+    "ip_address": "185.166.141.112/28",
+    "ip_type": "IPv4",
+    "service": "confluence,forge,halp,jira,opsgenie,statuspage,trello",
+    "region": "eu-west-2"
+  },
+  {
+    "ip_address": "2401:1d80:3218::/64",
+    "ip_type": "IPv6",
+    "service": "confluence,forge,halp,jira,opsgenie,statuspage,trello",
+    "region": "eu-west-2"
+  },
+  {
+    "ip_address": "2401:1d80:3218:2::/64",
+    "ip_type": "IPv6",
+    "service": "confluence,forge,halp,jira,opsgenie,statuspage,trello",
+    "region": "eu-west-2"
+  },
+  {
+    "ip_address": "2401:1d80:3218:5::/64",
+    "ip_type": "IPv6",
+    "service": "confluence,forge,halp,jira,opsgenie,statuspage,trello",
+    "region": "eu-west-2"
+  },
+  {
+    "ip_address": "185.166.141.0/24",
+    "ip_type": "IPv4",
+    "service": "confluence,halp,jira,opsgenie,statuspage,trello",
+    "region": "eu-west-2"
+  },
+  {
+    "ip_address": "13.43.230.20/32",
+    "ip_type": "IPv4",
+    "service": "forge",
+    "region": "eu-west-2"
+  },
+  {
+    "ip_address": "13.42.94.26/32",
+    "ip_type": "IPv4",
+    "service": "forge",
+    "region": "eu-west-2"
+  },
+  {
+    "ip_address": "13.41.178.119/32",
+    "ip_type": "IPv4",
+    "service": "forge",
+    "region": "eu-west-2"
+  },
+  {
+    "ip_address": "13.43.10.138/32",
+    "ip_type": "IPv4",
+    "service": "forge",
+    "region": "eu-west-2"
+  },
+  {
+    "ip_address": "18.132.72.151/32",
+    "ip_type": "IPv4",
+    "service": "forge",
+    "region": "eu-west-2"
+  },
+  {
+    "ip_address": "13.43.238.10/32",
+    "ip_type": "IPv4",
+    "service": "forge",
+    "region": "eu-west-2"
+  }
+]

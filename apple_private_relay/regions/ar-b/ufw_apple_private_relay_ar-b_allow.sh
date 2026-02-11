@@ -1,0 +1,60 @@
+#!/bin/bash
+# Apple_private_relay IP Ranges
+# Updated: 2026-02-11 17:28:48
+# Source: https://github.com/rezmoss/cloud-provider-ip-addresses
+# License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
+# This file is generated automatically. Do not edit it directly.
+# Updates daily at 00:00 UTC
+# UFW allow rules for apple_private_relay
+
+ufw allow from 104.28.47.0/32
+ufw allow from 104.28.47.1/32
+ufw allow from 104.28.47.6/32
+ufw allow from 104.28.47.7/32
+ufw allow from 104.28.59.0/32
+ufw allow from 104.28.59.1/32
+ufw allow from 104.28.59.6/32
+ufw allow from 104.28.59.7/32
+ufw allow from 104.28.63.0/32
+ufw allow from 104.28.63.1/32
+ufw allow from 104.28.63.6/32
+ufw allow from 104.28.63.7/32
+ufw allow from 104.28.113.0/32
+ufw allow from 104.28.113.1/32
+ufw allow from 104.28.113.6/32
+ufw allow from 104.28.113.7/32
+ufw allow from 104.28.115.0/32
+ufw allow from 104.28.115.1/32
+ufw allow from 104.28.115.6/32
+ufw allow from 104.28.115.7/32
+ufw allow from 104.28.138.1/32
+ufw allow from 104.28.140.5/32
+ufw allow from 104.28.140.240/32
+ufw allow from 104.28.140.241/32
+ufw allow from 104.28.140.242/32
+ufw allow from 104.28.140.243/32
+ufw allow from 104.28.140.244/32
+ufw allow from 104.28.141.52/32
+ufw allow from 104.28.141.53/32
+ufw allow from 104.28.141.54/32
+ufw allow from 104.28.141.55/32
+ufw allow from 104.28.141.127/32
+ufw allow from 104.28.142.221/32
+ufw allow from 104.28.144.17/32
+ufw allow from 104.28.144.18/32
+ufw allow from 104.28.144.19/32
+ufw allow from 104.28.150.147/32
+ufw allow from 104.28.151.238/32
+ufw allow from 104.28.151.239/32
+ufw allow from 2606:54c0:80::/45
+ufw allow from 2606:54c0:88::/45
+ufw allow from 2606:54c0:90::/45
+ufw allow from 2606:54c3:0:9a1::/64
+ufw allow from 2606:54c3:0:147c::/64
+ufw allow from 2606:54c3:0:15ae::/64
+ufw allow from 2a09:bac2:80::/45
+ufw allow from 2a09:bac2:88::/45
+ufw allow from 2a09:bac2:90::/45
+ufw allow from 2a09:bac3:80::/45
+ufw allow from 2a09:bac3:88::/45
+ufw allow from 2a09:bac3:90::/45

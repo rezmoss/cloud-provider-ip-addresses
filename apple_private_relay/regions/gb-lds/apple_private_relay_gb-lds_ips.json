@@ -1,0 +1,162 @@
+[
+  {
+    "ip_address": "104.28.30.113/32",
+    "ip_type": "IPv4",
+    "region": "GB-LDS"
+  },
+  {
+    "ip_address": "104.28.30.114/32",
+    "ip_type": "IPv4",
+    "region": "GB-LDS"
+  },
+  {
+    "ip_address": "104.28.30.115/32",
+    "ip_type": "IPv4",
+    "region": "GB-LDS"
+  },
+  {
+    "ip_address": "104.28.30.116/32",
+    "ip_type": "IPv4",
+    "region": "GB-LDS"
+  },
+  {
+    "ip_address": "104.28.40.108/32",
+    "ip_type": "IPv4",
+    "region": "GB-LDS"
+  },
+  {
+    "ip_address": "104.28.40.109/32",
+    "ip_type": "IPv4",
+    "region": "GB-LDS"
+  },
+  {
+    "ip_address": "104.28.40.110/32",
+    "ip_type": "IPv4",
+    "region": "GB-LDS"
+  },
+  {
+    "ip_address": "104.28.40.111/32",
+    "ip_type": "IPv4",
+    "region": "GB-LDS"
+  },
+  {
+    "ip_address": "104.28.53.45/32",
+    "ip_type": "IPv4",
+    "region": "GB-LDS"
+  },
+  {
+    "ip_address": "104.28.53.46/32",
+    "ip_type": "IPv4",
+    "region": "GB-LDS"
+  },
+  {
+    "ip_address": "104.28.53.47/32",
+    "ip_type": "IPv4",
+    "region": "GB-LDS"
+  },
+  {
+    "ip_address": "104.28.53.48/32",
+    "ip_type": "IPv4",
+    "region": "GB-LDS"
+  },
+  {
+    "ip_address": "104.28.86.74/32",
+    "ip_type": "IPv4",
+    "region": "GB-LDS"
+  },
+  {
+    "ip_address": "104.28.86.75/32",
+    "ip_type": "IPv4",
+    "region": "GB-LDS"
+  },
+  {
+    "ip_address": "104.28.86.76/32",
+    "ip_type": "IPv4",
+    "region": "GB-LDS"
+  },
+  {
+    "ip_address": "104.28.86.77/32",
+    "ip_type": "IPv4",
+    "region": "GB-LDS"
+  },
+  {
+    "ip_address": "104.28.89.45/32",
+    "ip_type": "IPv4",
+    "region": "GB-LDS"
+  },
+  {
+    "ip_address": "104.28.89.46/32",
+    "ip_type": "IPv4",
+    "region": "GB-LDS"
+  },
+  {
+    "ip_address": "104.28.89.47/32",
+    "ip_type": "IPv4",
+    "region": "GB-LDS"
+  },
+  {
+    "ip_address": "104.28.89.48/32",
+    "ip_type": "IPv4",
+    "region": "GB-LDS"
+  },
+  {
+    "ip_address": "2606:54c0:37a8::/45",
+    "ip_type": "IPv6",
+    "region": "GB-LDS"
+  },
+  {
+    "ip_address": "2606:54c3:0:13dd::/64",
+    "ip_type": "IPv6",
+    "region": "GB-LDS"
+  },
+  {
+    "ip_address": "2a09:bac2:37a8::/45",
+    "ip_type": "IPv6",
+    "region": "GB-LDS"
+  },
+  {
+    "ip_address": "2a09:bac3:37a8::/45",
+    "ip_type": "IPv6",
+    "region": "GB-LDS"
+  },
+  {
+    "ip_address": "2a04:4e41:1301:6000::/52",
+    "ip_type": "IPv6",
+    "region": "GB-LDS"
+  },
+  {
+    "ip_address": "2a04:4e41:1601:c000::/52",
+    "ip_type": "IPv6",
+    "region": "GB-LDS"
+  },
+  {
+    "ip_address": "2a04:4e41:4e01:5000::/52",
+    "ip_type": "IPv6",
+    "region": "GB-LDS"
+  },
+  {
+    "ip_address": "2a04:4e41:7401:c000::/52",
+    "ip_type": "IPv6",
+    "region": "GB-LDS"
+  },
+  {
+    "ip_address": "140.248.40.66/31",
+    "ip_type": "IPv4",
+    "region": "GB-LDS"
+  },
+  {
+    "ip_address": "146.75.168.80/31",
+    "ip_type": "IPv4",
+    "region": "GB-LDS"
+  },
+  {
+    "ip_address": "146.75.174.54/31",
+    "ip_type": "IPv4",
+    "region": "GB-LDS"
+  },
+  {
+    "ip_address": "146.75.185.80/31",
+    "ip_type": "IPv4",
+    "region": "GB-LDS"
+  }
+]

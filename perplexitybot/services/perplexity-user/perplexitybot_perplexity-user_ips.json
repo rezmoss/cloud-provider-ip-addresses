@@ -1,0 +1,22 @@
+[
+  {
+    "ip_address": "44.208.221.197/32",
+    "ip_type": "IPv4",
+    "service": "perplexity-user"
+  },
+  {
+    "ip_address": "34.193.163.52/32",
+    "ip_type": "IPv4",
+    "service": "perplexity-user"
+  },
+  {
+    "ip_address": "18.97.21.0/30",
+    "ip_type": "IPv4",
+    "service": "perplexity-user"
+  },
+  {
+    "ip_address": "18.97.43.80/29",
+    "ip_type": "IPv4",
+    "service": "perplexity-user"
+  }
+]

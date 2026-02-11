@@ -1,0 +1,62 @@
+[
+  {
+    "ip_address": "104.28.38.207/32",
+    "ip_type": "IPv4",
+    "region": "YE-TA"
+  },
+  {
+    "ip_address": "104.28.38.208/32",
+    "ip_type": "IPv4",
+    "region": "YE-TA"
+  },
+  {
+    "ip_address": "104.28.60.244/32",
+    "ip_type": "IPv4",
+    "region": "YE-TA"
+  },
+  {
+    "ip_address": "104.28.60.245/32",
+    "ip_type": "IPv4",
+    "region": "YE-TA"
+  },
+  {
+    "ip_address": "104.28.81.85/32",
+    "ip_type": "IPv4",
+    "region": "YE-TA"
+  },
+  {
+    "ip_address": "104.28.81.86/32",
+    "ip_type": "IPv4",
+    "region": "YE-TA"
+  },
+  {
+    "ip_address": "104.28.107.42/32",
+    "ip_type": "IPv4",
+    "region": "YE-TA"
+  },
+  {
+    "ip_address": "104.28.107.43/32",
+    "ip_type": "IPv4",
+    "region": "YE-TA"
+  },
+  {
+    "ip_address": "2606:54c0:d3a0::/45",
+    "ip_type": "IPv6",
+    "region": "YE-TA"
+  },
+  {
+    "ip_address": "2606:54c3:0:6fd::/64",
+    "ip_type": "IPv6",
+    "region": "YE-TA"
+  },
+  {
+    "ip_address": "2a09:bac2:d3a0::/45",
+    "ip_type": "IPv6",
+    "region": "YE-TA"
+  },
+  {
+    "ip_address": "2a09:bac3:d3a0::/45",
+    "ip_type": "IPv6",
+    "region": "YE-TA"
+  }
+]

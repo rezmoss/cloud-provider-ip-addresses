@@ -1,0 +1,12 @@
+[
+  {
+    "ip_address": "64.176.32.0/19",
+    "ip_type": "IPv4",
+    "region": "JP-27"
+  },
+  {
+    "ip_address": "2401:c080:3800::/38",
+    "ip_type": "IPv6",
+    "region": "JP-27"
+  }
+]

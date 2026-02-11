@@ -1,0 +1,42 @@
+[
+  {
+    "ip_address": "2a04:4e41:1300:c000::/52",
+    "ip_type": "IPv6",
+    "region": "GB-ENF"
+  },
+  {
+    "ip_address": "2a04:4e41:1601:2000::/52",
+    "ip_type": "IPv6",
+    "region": "GB-ENF"
+  },
+  {
+    "ip_address": "2a04:4e41:4e00:b000::/52",
+    "ip_type": "IPv6",
+    "region": "GB-ENF"
+  },
+  {
+    "ip_address": "2a04:4e41:7401:2000::/52",
+    "ip_type": "IPv6",
+    "region": "GB-ENF"
+  },
+  {
+    "ip_address": "140.248.40.46/31",
+    "ip_type": "IPv4",
+    "region": "GB-ENF"
+  },
+  {
+    "ip_address": "146.75.168.60/31",
+    "ip_type": "IPv4",
+    "region": "GB-ENF"
+  },
+  {
+    "ip_address": "146.75.174.34/31",
+    "ip_type": "IPv4",
+    "region": "GB-ENF"
+  },
+  {
+    "ip_address": "146.75.185.60/31",
+    "ip_type": "IPv4",
+    "region": "GB-ENF"
+  }
+]

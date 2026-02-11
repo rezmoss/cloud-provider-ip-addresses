@@ -1,0 +1,92 @@
+[
+  {
+    "ip_address": "104.28.33.140/32",
+    "ip_type": "IPv4",
+    "region": "VE-D"
+  },
+  {
+    "ip_address": "104.28.33.141/32",
+    "ip_type": "IPv4",
+    "region": "VE-D"
+  },
+  {
+    "ip_address": "104.28.36.162/32",
+    "ip_type": "IPv4",
+    "region": "VE-D"
+  },
+  {
+    "ip_address": "104.28.36.163/32",
+    "ip_type": "IPv4",
+    "region": "VE-D"
+  },
+  {
+    "ip_address": "104.28.77.201/32",
+    "ip_type": "IPv4",
+    "region": "VE-D"
+  },
+  {
+    "ip_address": "104.28.77.202/32",
+    "ip_type": "IPv4",
+    "region": "VE-D"
+  },
+  {
+    "ip_address": "104.28.79.201/32",
+    "ip_type": "IPv4",
+    "region": "VE-D"
+  },
+  {
+    "ip_address": "104.28.79.202/32",
+    "ip_type": "IPv4",
+    "region": "VE-D"
+  },
+  {
+    "ip_address": "104.28.92.242/32",
+    "ip_type": "IPv4",
+    "region": "VE-D"
+  },
+  {
+    "ip_address": "104.28.92.243/32",
+    "ip_type": "IPv4",
+    "region": "VE-D"
+  },
+  {
+    "ip_address": "104.28.94.242/32",
+    "ip_type": "IPv4",
+    "region": "VE-D"
+  },
+  {
+    "ip_address": "104.28.94.243/32",
+    "ip_type": "IPv4",
+    "region": "VE-D"
+  },
+  {
+    "ip_address": "104.28.127.42/32",
+    "ip_type": "IPv4",
+    "region": "VE-D"
+  },
+  {
+    "ip_address": "104.28.127.43/32",
+    "ip_type": "IPv4",
+    "region": "VE-D"
+  },
+  {
+    "ip_address": "2606:54c0:d280::/45",
+    "ip_type": "IPv6",
+    "region": "VE-D"
+  },
+  {
+    "ip_address": "2606:54c3:0:93::/64",
+    "ip_type": "IPv6",
+    "region": "VE-D"
+  },
+  {
+    "ip_address": "2a09:bac2:d280::/45",
+    "ip_type": "IPv6",
+    "region": "VE-D"
+  },
+  {
+    "ip_address": "2a09:bac3:d280::/45",
+    "ip_type": "IPv6",
+    "region": "VE-D"
+  }
+]

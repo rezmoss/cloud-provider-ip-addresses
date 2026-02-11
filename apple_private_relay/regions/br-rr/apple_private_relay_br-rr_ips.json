@@ -1,0 +1,37 @@
+[
+  {
+    "ip_address": "2a02:26f7:e540:d30f::/64",
+    "ip_type": "IPv6",
+    "region": "BR-RR"
+  },
+  {
+    "ip_address": "2a02:26f7:e544:d30f::/64",
+    "ip_type": "IPv6",
+    "region": "BR-RR"
+  },
+  {
+    "ip_address": "2a02:26f7:e548:d30f::/64",
+    "ip_type": "IPv6",
+    "region": "BR-RR"
+  },
+  {
+    "ip_address": "2606:54c0:b00::/45",
+    "ip_type": "IPv6",
+    "region": "BR-RR"
+  },
+  {
+    "ip_address": "2606:54c3:0:cd6::/64",
+    "ip_type": "IPv6",
+    "region": "BR-RR"
+  },
+  {
+    "ip_address": "2a09:bac2:b00::/45",
+    "ip_type": "IPv6",
+    "region": "BR-RR"
+  },
+  {
+    "ip_address": "2a09:bac3:b00::/45",
+    "ip_type": "IPv6",
+    "region": "BR-RR"
+  }
+]

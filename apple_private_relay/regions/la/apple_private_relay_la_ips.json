@@ -1,0 +1,122 @@
+[
+  {
+    "ip_address": "172.225.58.224/27",
+    "ip_type": "IPv4",
+    "region": "LA"
+  },
+  {
+    "ip_address": "172.225.79.128/27",
+    "ip_type": "IPv4",
+    "region": "LA"
+  },
+  {
+    "ip_address": "172.225.180.96/28",
+    "ip_type": "IPv4",
+    "region": "LA"
+  },
+  {
+    "ip_address": "172.226.43.64/26",
+    "ip_type": "IPv4",
+    "region": "LA"
+  },
+  {
+    "ip_address": "2a02:26f7:c740:4000::/64",
+    "ip_type": "IPv6",
+    "region": "LA"
+  },
+  {
+    "ip_address": "2a02:26f7:c740:c460::/64",
+    "ip_type": "IPv6",
+    "region": "LA"
+  },
+  {
+    "ip_address": "2a02:26f7:c741:4000::/64",
+    "ip_type": "IPv6",
+    "region": "LA"
+  },
+  {
+    "ip_address": "2a02:26f7:c744:4000::/64",
+    "ip_type": "IPv6",
+    "region": "LA"
+  },
+  {
+    "ip_address": "2a02:26f7:c744:c460::/64",
+    "ip_type": "IPv6",
+    "region": "LA"
+  },
+  {
+    "ip_address": "2a02:26f7:c745:4000::/64",
+    "ip_type": "IPv6",
+    "region": "LA"
+  },
+  {
+    "ip_address": "2a02:26f7:c745:c460::/64",
+    "ip_type": "IPv6",
+    "region": "LA"
+  },
+  {
+    "ip_address": "2a02:26f7:c746:4000::/64",
+    "ip_type": "IPv6",
+    "region": "LA"
+  },
+  {
+    "ip_address": "2a02:26f7:c747:4000::/64",
+    "ip_type": "IPv6",
+    "region": "LA"
+  },
+  {
+    "ip_address": "2a02:26f7:c748:4000::/64",
+    "ip_type": "IPv6",
+    "region": "LA"
+  },
+  {
+    "ip_address": "2a02:26f7:c748:c460::/64",
+    "ip_type": "IPv6",
+    "region": "LA"
+  },
+  {
+    "ip_address": "2a02:26f7:c749:4000::/64",
+    "ip_type": "IPv6",
+    "region": "LA"
+  },
+  {
+    "ip_address": "2a04:4e41:12a9::/48",
+    "ip_type": "IPv6",
+    "region": "LA"
+  },
+  {
+    "ip_address": "2a04:4e41:520f::/48",
+    "ip_type": "IPv6",
+    "region": "LA"
+  },
+  {
+    "ip_address": "2a04:4e41:5e0f::/48",
+    "ip_type": "IPv6",
+    "region": "LA"
+  },
+  {
+    "ip_address": "2a04:4e41:760f::/48",
+    "ip_type": "IPv6",
+    "region": "LA"
+  },
+  {
+    "ip_address": "146.75.132.68/31",
+    "ip_type": "IPv4",
+    "region": "LA"
+  },
+  {
+    "ip_address": "146.75.160.68/31",
+    "ip_type": "IPv4",
+    "region": "LA"
+  },
+  {
+    "ip_address": "146.75.166.92/31",
+    "ip_type": "IPv4",
+    "region": "LA"
+  },
+  {
+    "ip_address": "146.75.187.26/31",
+    "ip_type": "IPv4",
+    "region": "LA"
+  }
+]

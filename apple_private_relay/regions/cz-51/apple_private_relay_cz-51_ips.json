@@ -1,0 +1,42 @@
+[
+  {
+    "ip_address": "2a04:4e41:1400:a000::/52",
+    "ip_type": "IPv6",
+    "region": "CZ-51"
+  },
+  {
+    "ip_address": "2a04:4e41:1800:c000::/52",
+    "ip_type": "IPv6",
+    "region": "CZ-51"
+  },
+  {
+    "ip_address": "2a04:4e41:4ca0:5000::/52",
+    "ip_type": "IPv6",
+    "region": "CZ-51"
+  },
+  {
+    "ip_address": "2a04:4e41:5600:a000::/52",
+    "ip_type": "IPv6",
+    "region": "CZ-51"
+  },
+  {
+    "ip_address": "140.248.34.38/31",
+    "ip_type": "IPv4",
+    "region": "CZ-51"
+  },
+  {
+    "ip_address": "140.248.36.50/31",
+    "ip_type": "IPv4",
+    "region": "CZ-51"
+  },
+  {
+    "ip_address": "146.75.169.38/31",
+    "ip_type": "IPv4",
+    "region": "CZ-51"
+  },
+  {
+    "ip_address": "146.75.180.20/31",
+    "ip_type": "IPv4",
+    "region": "CZ-51"
+  }
+]

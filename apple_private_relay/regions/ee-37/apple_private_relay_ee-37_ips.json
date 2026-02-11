@@ -1,0 +1,102 @@
+[
+  {
+    "ip_address": "104.28.31.11/32",
+    "ip_type": "IPv4",
+    "region": "EE-37"
+  },
+  {
+    "ip_address": "104.28.31.12/32",
+    "ip_type": "IPv4",
+    "region": "EE-37"
+  },
+  {
+    "ip_address": "104.28.45.8/32",
+    "ip_type": "IPv4",
+    "region": "EE-37"
+  },
+  {
+    "ip_address": "104.28.45.9/32",
+    "ip_type": "IPv4",
+    "region": "EE-37"
+  },
+  {
+    "ip_address": "104.28.65.11/32",
+    "ip_type": "IPv4",
+    "region": "EE-37"
+  },
+  {
+    "ip_address": "104.28.65.12/32",
+    "ip_type": "IPv4",
+    "region": "EE-37"
+  },
+  {
+    "ip_address": "104.28.105.4/32",
+    "ip_type": "IPv4",
+    "region": "EE-37"
+  },
+  {
+    "ip_address": "104.28.105.5/32",
+    "ip_type": "IPv4",
+    "region": "EE-37"
+  },
+  {
+    "ip_address": "104.28.131.28/32",
+    "ip_type": "IPv4",
+    "region": "EE-37"
+  },
+  {
+    "ip_address": "104.28.131.29/32",
+    "ip_type": "IPv4",
+    "region": "EE-37"
+  },
+  {
+    "ip_address": "2606:54c0:3058::/45",
+    "ip_type": "IPv6",
+    "region": "EE-37"
+  },
+  {
+    "ip_address": "2606:54c3:0:12b9::/64",
+    "ip_type": "IPv6",
+    "region": "EE-37"
+  },
+  {
+    "ip_address": "2a09:bac2:3058::/45",
+    "ip_type": "IPv6",
+    "region": "EE-37"
+  },
+  {
+    "ip_address": "2a09:bac3:3058::/45",
+    "ip_type": "IPv6",
+    "region": "EE-37"
+  },
+  {
+    "ip_address": "2a04:4e41:1401:9000::/52",
+    "ip_type": "IPv6",
+    "region": "EE-37"
+  },
+  {
+    "ip_address": "2a04:4e41:1802:1000::/52",
+    "ip_type": "IPv6",
+    "region": "EE-37"
+  },
+  {
+    "ip_address": "2a04:4e41:5601:9000::/52",
+    "ip_type": "IPv6",
+    "region": "EE-37"
+  },
+  {
+    "ip_address": "140.248.34.74/31",
+    "ip_type": "IPv4",
+    "region": "EE-37"
+  },
+  {
+    "ip_address": "140.248.36.100/31",
+    "ip_type": "IPv4",
+    "region": "EE-37"
+  },
+  {
+    "ip_address": "146.75.169.74/31",
+    "ip_type": "IPv4",
+    "region": "EE-37"
+  }
+]

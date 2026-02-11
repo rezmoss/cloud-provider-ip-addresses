@@ -1,0 +1,72 @@
+[
+  {
+    "ip_address": "104.28.36.174/32",
+    "ip_type": "IPv4",
+    "region": "VE-N"
+  },
+  {
+    "ip_address": "104.28.36.175/32",
+    "ip_type": "IPv4",
+    "region": "VE-N"
+  },
+  {
+    "ip_address": "104.28.61.112/32",
+    "ip_type": "IPv4",
+    "region": "VE-N"
+  },
+  {
+    "ip_address": "104.28.61.113/32",
+    "ip_type": "IPv4",
+    "region": "VE-N"
+  },
+  {
+    "ip_address": "104.28.92.254/32",
+    "ip_type": "IPv4",
+    "region": "VE-N"
+  },
+  {
+    "ip_address": "104.28.93.0/32",
+    "ip_type": "IPv4",
+    "region": "VE-N"
+  },
+  {
+    "ip_address": "104.28.94.254/32",
+    "ip_type": "IPv4",
+    "region": "VE-N"
+  },
+  {
+    "ip_address": "104.28.95.0/32",
+    "ip_type": "IPv4",
+    "region": "VE-N"
+  },
+  {
+    "ip_address": "104.28.127.54/32",
+    "ip_type": "IPv4",
+    "region": "VE-N"
+  },
+  {
+    "ip_address": "104.28.127.55/32",
+    "ip_type": "IPv4",
+    "region": "VE-N"
+  },
+  {
+    "ip_address": "2606:54c0:d2b8::/45",
+    "ip_type": "IPv6",
+    "region": "VE-N"
+  },
+  {
+    "ip_address": "2606:54c3:0:e7a::/64",
+    "ip_type": "IPv6",
+    "region": "VE-N"
+  },
+  {
+    "ip_address": "2a09:bac2:d2b8::/45",
+    "ip_type": "IPv6",
+    "region": "VE-N"
+  },
+  {
+    "ip_address": "2a09:bac3:d2b8::/45",
+    "ip_type": "IPv6",
+    "region": "VE-N"
+  }
+]

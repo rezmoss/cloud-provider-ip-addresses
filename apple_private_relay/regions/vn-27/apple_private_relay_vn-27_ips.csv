@@ -1,0 +1,5 @@
+ip_address,ip_type,region
+2a02:26f7:c5c0:4f9d::/64,IPv6,VN-27
+2a02:26f7:c5c4:4f9d::/64,IPv6,VN-27
+2a02:26f7:c5c5:4f9d::/64,IPv6,VN-27
+2a02:26f7:c5c8:4f9d::/64,IPv6,VN-27

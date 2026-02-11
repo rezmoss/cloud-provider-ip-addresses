@@ -1,0 +1,13 @@
+ip_address,ip_type,service,region
+13.200.41.240/28,IPv4,rovo-crawler,ap-south-1
+13.200.41.224/28,IPv4,"confluence,forge,halp,jira,opsgenie,statuspage,trello",ap-south-1
+2401:1d80:322c::/64,IPv6,"confluence,forge,halp,jira,opsgenie,statuspage,trello",ap-south-1
+2401:1d80:322c:1::/64,IPv6,"confluence,forge,halp,jira,opsgenie,statuspage,trello",ap-south-1
+2401:1d80:322c:4::/64,IPv6,"confluence,forge,halp,jira,opsgenie,statuspage,trello",ap-south-1
+13.200.41.128/25,IPv4,"bitbucket,confluence,halp,jira,opsgenie,statuspage,trello",ap-south-1
+15.206.230.70/32,IPv4,forge,ap-south-1
+3.7.242.212/32,IPv4,forge,ap-south-1
+43.205.183.186/32,IPv4,forge,ap-south-1
+13.200.51.21/32,IPv4,forge,ap-south-1
+13.200.127.18/32,IPv4,forge,ap-south-1
+65.2.173.31/32,IPv4,forge,ap-south-1

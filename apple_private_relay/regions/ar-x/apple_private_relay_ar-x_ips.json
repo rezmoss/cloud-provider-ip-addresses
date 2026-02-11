@@ -1,0 +1,77 @@
+[
+  {
+    "ip_address": "104.28.47.27/32",
+    "ip_type": "IPv4",
+    "region": "AR-X"
+  },
+  {
+    "ip_address": "104.28.47.28/32",
+    "ip_type": "IPv4",
+    "region": "AR-X"
+  },
+  {
+    "ip_address": "104.28.59.27/32",
+    "ip_type": "IPv4",
+    "region": "AR-X"
+  },
+  {
+    "ip_address": "104.28.59.28/32",
+    "ip_type": "IPv4",
+    "region": "AR-X"
+  },
+  {
+    "ip_address": "104.28.63.27/32",
+    "ip_type": "IPv4",
+    "region": "AR-X"
+  },
+  {
+    "ip_address": "104.28.63.28/32",
+    "ip_type": "IPv4",
+    "region": "AR-X"
+  },
+  {
+    "ip_address": "104.28.113.27/32",
+    "ip_type": "IPv4",
+    "region": "AR-X"
+  },
+  {
+    "ip_address": "104.28.113.28/32",
+    "ip_type": "IPv4",
+    "region": "AR-X"
+  },
+  {
+    "ip_address": "104.28.115.27/32",
+    "ip_type": "IPv4",
+    "region": "AR-X"
+  },
+  {
+    "ip_address": "104.28.115.28/32",
+    "ip_type": "IPv4",
+    "region": "AR-X"
+  },
+  {
+    "ip_address": "104.28.144.20/32",
+    "ip_type": "IPv4",
+    "region": "AR-X"
+  },
+  {
+    "ip_address": "2606:54c0:d0::/45",
+    "ip_type": "IPv6",
+    "region": "AR-X"
+  },
+  {
+    "ip_address": "2606:54c3:0:635::/64",
+    "ip_type": "IPv6",
+    "region": "AR-X"
+  },
+  {
+    "ip_address": "2a09:bac2:d0::/45",
+    "ip_type": "IPv6",
+    "region": "AR-X"
+  },
+  {
+    "ip_address": "2a09:bac3:d0::/45",
+    "ip_type": "IPv6",
+    "region": "AR-X"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "ip_address": "104.28.83.44/32",
+    "ip_type": "IPv4",
+    "region": "RU-KAM"
+  },
+  {
+    "ip_address": "104.28.99.73/32",
+    "ip_type": "IPv4",
+    "region": "RU-KAM"
+  },
+  {
+    "ip_address": "2606:54c0:5098::/45",
+    "ip_type": "IPv6",
+    "region": "RU-KAM"
+  },
+  {
+    "ip_address": "2606:54c3:0:14bd::/64",
+    "ip_type": "IPv6",
+    "region": "RU-KAM"
+  },
+  {
+    "ip_address": "2a09:bac2:5098::/45",
+    "ip_type": "IPv6",
+    "region": "RU-KAM"
+  },
+  {
+    "ip_address": "2a09:bac3:5098::/45",
+    "ip_type": "IPv6",
+    "region": "RU-KAM"
+  }
+]

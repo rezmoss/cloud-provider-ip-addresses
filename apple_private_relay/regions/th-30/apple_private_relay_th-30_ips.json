@@ -1,0 +1,62 @@
+[
+  {
+    "ip_address": "2a02:26f7:c640:4cda::/64",
+    "ip_type": "IPv6",
+    "region": "TH-30"
+  },
+  {
+    "ip_address": "2a02:26f7:c640:4cdb::/64",
+    "ip_type": "IPv6",
+    "region": "TH-30"
+  },
+  {
+    "ip_address": "2a02:26f7:c644:4cda::/64",
+    "ip_type": "IPv6",
+    "region": "TH-30"
+  },
+  {
+    "ip_address": "2a02:26f7:c644:4cdb::/64",
+    "ip_type": "IPv6",
+    "region": "TH-30"
+  },
+  {
+    "ip_address": "2a02:26f7:c645:4cda::/64",
+    "ip_type": "IPv6",
+    "region": "TH-30"
+  },
+  {
+    "ip_address": "2a02:26f7:c645:4cdb::/64",
+    "ip_type": "IPv6",
+    "region": "TH-30"
+  },
+  {
+    "ip_address": "2a02:26f7:c648:4cda::/64",
+    "ip_type": "IPv6",
+    "region": "TH-30"
+  },
+  {
+    "ip_address": "2a02:26f7:c648:4cdb::/64",
+    "ip_type": "IPv6",
+    "region": "TH-30"
+  },
+  {
+    "ip_address": "2606:54c0:5620::/45",
+    "ip_type": "IPv6",
+    "region": "TH-30"
+  },
+  {
+    "ip_address": "2606:54c3:0:e99::/64",
+    "ip_type": "IPv6",
+    "region": "TH-30"
+  },
+  {
+    "ip_address": "2a09:bac2:5620::/45",
+    "ip_type": "IPv6",
+    "region": "TH-30"
+  },
+  {
+    "ip_address": "2a09:bac3:5620::/45",
+    "ip_type": "IPv6",
+    "region": "TH-30"
+  }
+]

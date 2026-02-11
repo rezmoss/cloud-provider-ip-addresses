@@ -1,0 +1,122 @@
+[
+  {
+    "ip_address": "104.28.34.143/32",
+    "ip_type": "IPv4",
+    "region": "PT-11"
+  },
+  {
+    "ip_address": "104.28.34.144/32",
+    "ip_type": "IPv4",
+    "region": "PT-11"
+  },
+  {
+    "ip_address": "104.28.42.78/32",
+    "ip_type": "IPv4",
+    "region": "PT-11"
+  },
+  {
+    "ip_address": "104.28.42.79/32",
+    "ip_type": "IPv4",
+    "region": "PT-11"
+  },
+  {
+    "ip_address": "104.28.87.87/32",
+    "ip_type": "IPv4",
+    "region": "PT-11"
+  },
+  {
+    "ip_address": "104.28.87.88/32",
+    "ip_type": "IPv4",
+    "region": "PT-11"
+  },
+  {
+    "ip_address": "104.28.88.105/32",
+    "ip_type": "IPv4",
+    "region": "PT-11"
+  },
+  {
+    "ip_address": "104.28.88.106/32",
+    "ip_type": "IPv4",
+    "region": "PT-11"
+  },
+  {
+    "ip_address": "104.28.96.131/32",
+    "ip_type": "IPv4",
+    "region": "PT-11"
+  },
+  {
+    "ip_address": "104.28.96.132/32",
+    "ip_type": "IPv4",
+    "region": "PT-11"
+  },
+  {
+    "ip_address": "2606:54c0:5000::/45",
+    "ip_type": "IPv6",
+    "region": "PT-11"
+  },
+  {
+    "ip_address": "2606:54c3:0:857::/64",
+    "ip_type": "IPv6",
+    "region": "PT-11"
+  },
+  {
+    "ip_address": "2a09:bac2:5000::/45",
+    "ip_type": "IPv6",
+    "region": "PT-11"
+  },
+  {
+    "ip_address": "2a09:bac3:5000::/45",
+    "ip_type": "IPv6",
+    "region": "PT-11"
+  },
+  {
+    "ip_address": "2a04:4e41:1303:6000::/52",
+    "ip_type": "IPv6",
+    "region": "PT-11"
+  },
+  {
+    "ip_address": "2a04:4e41:1603:7000::/52",
+    "ip_type": "IPv6",
+    "region": "PT-11"
+  },
+  {
+    "ip_address": "2a04:4e41:4100:9000::/52",
+    "ip_type": "IPv6",
+    "region": "PT-11"
+  },
+  {
+    "ip_address": "2a04:4e41:7403:7000::/52",
+    "ip_type": "IPv6",
+    "region": "PT-11"
+  },
+  {
+    "ip_address": "2a04:4e41:7800:9000::/52",
+    "ip_type": "IPv6",
+    "region": "PT-11"
+  },
+  {
+    "ip_address": "140.248.40.176/31",
+    "ip_type": "IPv4",
+    "region": "PT-11"
+  },
+  {
+    "ip_address": "146.75.168.160/31",
+    "ip_type": "IPv4",
+    "region": "PT-11"
+  },
+  {
+    "ip_address": "146.75.182.56/31",
+    "ip_type": "IPv4",
+    "region": "PT-11"
+  },
+  {
+    "ip_address": "146.75.185.160/31",
+    "ip_type": "IPv4",
+    "region": "PT-11"
+  },
+  {
+    "ip_address": "146.75.210.56/31",
+    "ip_type": "IPv4",
+    "region": "PT-11"
+  }
+]

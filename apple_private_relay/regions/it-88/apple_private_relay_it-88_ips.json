@@ -1,0 +1,72 @@
+[
+  {
+    "ip_address": "104.28.34.64/32",
+    "ip_type": "IPv4",
+    "region": "IT-88"
+  },
+  {
+    "ip_address": "104.28.34.65/32",
+    "ip_type": "IPv4",
+    "region": "IT-88"
+  },
+  {
+    "ip_address": "104.28.60.86/32",
+    "ip_type": "IPv4",
+    "region": "IT-88"
+  },
+  {
+    "ip_address": "104.28.60.87/32",
+    "ip_type": "IPv4",
+    "region": "IT-88"
+  },
+  {
+    "ip_address": "104.28.96.52/32",
+    "ip_type": "IPv4",
+    "region": "IT-88"
+  },
+  {
+    "ip_address": "104.28.96.53/32",
+    "ip_type": "IPv4",
+    "region": "IT-88"
+  },
+  {
+    "ip_address": "104.28.98.54/32",
+    "ip_type": "IPv4",
+    "region": "IT-88"
+  },
+  {
+    "ip_address": "104.28.98.55/32",
+    "ip_type": "IPv4",
+    "region": "IT-88"
+  },
+  {
+    "ip_address": "104.28.135.54/32",
+    "ip_type": "IPv4",
+    "region": "IT-88"
+  },
+  {
+    "ip_address": "104.28.135.55/32",
+    "ip_type": "IPv4",
+    "region": "IT-88"
+  },
+  {
+    "ip_address": "2606:54c0:4220::/45",
+    "ip_type": "IPv6",
+    "region": "IT-88"
+  },
+  {
+    "ip_address": "2606:54c3:0:bec::/64",
+    "ip_type": "IPv6",
+    "region": "IT-88"
+  },
+  {
+    "ip_address": "2a09:bac2:4220::/45",
+    "ip_type": "IPv6",
+    "region": "IT-88"
+  },
+  {
+    "ip_address": "2a09:bac3:4220::/45",
+    "ip_type": "IPv6",
+    "region": "IT-88"
+  }
+]

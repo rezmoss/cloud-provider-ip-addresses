@@ -1,0 +1,102 @@
+[
+  {
+    "ip_address": "104.28.44.171/32",
+    "ip_type": "IPv4",
+    "region": "PH-11"
+  },
+  {
+    "ip_address": "104.28.44.172/32",
+    "ip_type": "IPv4",
+    "region": "PH-11"
+  },
+  {
+    "ip_address": "104.28.68.120/32",
+    "ip_type": "IPv4",
+    "region": "PH-11"
+  },
+  {
+    "ip_address": "104.28.68.121/32",
+    "ip_type": "IPv4",
+    "region": "PH-11"
+  },
+  {
+    "ip_address": "104.28.71.120/32",
+    "ip_type": "IPv4",
+    "region": "PH-11"
+  },
+  {
+    "ip_address": "104.28.71.121/32",
+    "ip_type": "IPv4",
+    "region": "PH-11"
+  },
+  {
+    "ip_address": "104.28.84.104/32",
+    "ip_type": "IPv4",
+    "region": "PH-11"
+  },
+  {
+    "ip_address": "104.28.84.105/32",
+    "ip_type": "IPv4",
+    "region": "PH-11"
+  },
+  {
+    "ip_address": "104.28.100.100/32",
+    "ip_type": "IPv4",
+    "region": "PH-11"
+  },
+  {
+    "ip_address": "104.28.100.101/32",
+    "ip_type": "IPv4",
+    "region": "PH-11"
+  },
+  {
+    "ip_address": "104.28.102.100/32",
+    "ip_type": "IPv4",
+    "region": "PH-11"
+  },
+  {
+    "ip_address": "104.28.102.101/32",
+    "ip_type": "IPv4",
+    "region": "PH-11"
+  },
+  {
+    "ip_address": "104.28.119.98/32",
+    "ip_type": "IPv4",
+    "region": "PH-11"
+  },
+  {
+    "ip_address": "104.28.119.99/32",
+    "ip_type": "IPv4",
+    "region": "PH-11"
+  },
+  {
+    "ip_address": "104.28.122.98/32",
+    "ip_type": "IPv4",
+    "region": "PH-11"
+  },
+  {
+    "ip_address": "104.28.122.99/32",
+    "ip_type": "IPv4",
+    "region": "PH-11"
+  },
+  {
+    "ip_address": "2606:54c0:4f40::/45",
+    "ip_type": "IPv6",
+    "region": "PH-11"
+  },
+  {
+    "ip_address": "2606:54c3:0:334::/64",
+    "ip_type": "IPv6",
+    "region": "PH-11"
+  },
+  {
+    "ip_address": "2a09:bac2:4f40::/45",
+    "ip_type": "IPv6",
+    "region": "PH-11"
+  },
+  {
+    "ip_address": "2a09:bac3:4f40::/45",
+    "ip_type": "IPv6",
+    "region": "PH-11"
+  }
+]

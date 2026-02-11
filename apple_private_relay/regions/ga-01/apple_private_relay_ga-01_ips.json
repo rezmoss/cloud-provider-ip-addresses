@@ -1,0 +1,72 @@
+[
+  {
+    "ip_address": "104.28.34.48/32",
+    "ip_type": "IPv4",
+    "region": "GA-01"
+  },
+  {
+    "ip_address": "104.28.34.49/32",
+    "ip_type": "IPv4",
+    "region": "GA-01"
+  },
+  {
+    "ip_address": "104.28.46.36/32",
+    "ip_type": "IPv4",
+    "region": "GA-01"
+  },
+  {
+    "ip_address": "104.28.46.37/32",
+    "ip_type": "IPv4",
+    "region": "GA-01"
+  },
+  {
+    "ip_address": "104.28.60.58/32",
+    "ip_type": "IPv4",
+    "region": "GA-01"
+  },
+  {
+    "ip_address": "104.28.60.59/32",
+    "ip_type": "IPv4",
+    "region": "GA-01"
+  },
+  {
+    "ip_address": "104.28.82.44/32",
+    "ip_type": "IPv4",
+    "region": "GA-01"
+  },
+  {
+    "ip_address": "104.28.82.45/32",
+    "ip_type": "IPv4",
+    "region": "GA-01"
+  },
+  {
+    "ip_address": "104.28.88.22/32",
+    "ip_type": "IPv4",
+    "region": "GA-01"
+  },
+  {
+    "ip_address": "104.28.88.23/32",
+    "ip_type": "IPv4",
+    "region": "GA-01"
+  },
+  {
+    "ip_address": "2606:54c0:3648::/45",
+    "ip_type": "IPv6",
+    "region": "GA-01"
+  },
+  {
+    "ip_address": "2606:54c3:0:115b::/64",
+    "ip_type": "IPv6",
+    "region": "GA-01"
+  },
+  {
+    "ip_address": "2a09:bac2:3648::/45",
+    "ip_type": "IPv6",
+    "region": "GA-01"
+  },
+  {
+    "ip_address": "2a09:bac3:3648::/45",
+    "ip_type": "IPv6",
+    "region": "GA-01"
+  }
+]

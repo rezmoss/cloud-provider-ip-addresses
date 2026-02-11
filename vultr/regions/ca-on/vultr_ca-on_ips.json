@@ -1,0 +1,27 @@
+[
+  {
+    "ip_address": "137.220.52.0/22",
+    "ip_type": "IPv4",
+    "region": "CA-ON"
+  },
+  {
+    "ip_address": "149.248.48.0/20",
+    "ip_type": "IPv4",
+    "region": "CA-ON"
+  },
+  {
+    "ip_address": "155.138.128.0/19",
+    "ip_type": "IPv4",
+    "region": "CA-ON"
+  },
+  {
+    "ip_address": "216.128.176.0/20",
+    "ip_type": "IPv4",
+    "region": "CA-ON"
+  },
+  {
+    "ip_address": "2001:19f0:b000::/38",
+    "ip_type": "IPv6",
+    "region": "CA-ON"
+  }
+]

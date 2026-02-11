@@ -1,0 +1,122 @@
+[
+  {
+    "ip_address": "2a02:26f7:b6c0:4e1c::/64",
+    "ip_type": "IPv6",
+    "region": "UA-DP"
+  },
+  {
+    "ip_address": "2a02:26f7:b6c0:4e1d::/64",
+    "ip_type": "IPv6",
+    "region": "UA-DP"
+  },
+  {
+    "ip_address": "2a02:26f7:b6c0:4e34::/64",
+    "ip_type": "IPv6",
+    "region": "UA-DP"
+  },
+  {
+    "ip_address": "2a02:26f7:b6c0:4e3d::/64",
+    "ip_type": "IPv6",
+    "region": "UA-DP"
+  },
+  {
+    "ip_address": "2a02:26f7:b6c0:dd04::/64",
+    "ip_type": "IPv6",
+    "region": "UA-DP"
+  },
+  {
+    "ip_address": "2a02:26f7:b6c0:dd13::/64",
+    "ip_type": "IPv6",
+    "region": "UA-DP"
+  },
+  {
+    "ip_address": "2a02:26f7:b6c4:4e1c::/64",
+    "ip_type": "IPv6",
+    "region": "UA-DP"
+  },
+  {
+    "ip_address": "2a02:26f7:b6c4:4e1d::/64",
+    "ip_type": "IPv6",
+    "region": "UA-DP"
+  },
+  {
+    "ip_address": "2a02:26f7:b6c4:4e34::/64",
+    "ip_type": "IPv6",
+    "region": "UA-DP"
+  },
+  {
+    "ip_address": "2a02:26f7:b6c4:4e3d::/64",
+    "ip_type": "IPv6",
+    "region": "UA-DP"
+  },
+  {
+    "ip_address": "2a02:26f7:b6c4:dd04::/64",
+    "ip_type": "IPv6",
+    "region": "UA-DP"
+  },
+  {
+    "ip_address": "2a02:26f7:b6c4:dd13::/64",
+    "ip_type": "IPv6",
+    "region": "UA-DP"
+  },
+  {
+    "ip_address": "2a02:26f7:b6c8:4e1c::/64",
+    "ip_type": "IPv6",
+    "region": "UA-DP"
+  },
+  {
+    "ip_address": "2a02:26f7:b6c8:4e1d::/64",
+    "ip_type": "IPv6",
+    "region": "UA-DP"
+  },
+  {
+    "ip_address": "2a02:26f7:b6c8:4e34::/64",
+    "ip_type": "IPv6",
+    "region": "UA-DP"
+  },
+  {
+    "ip_address": "2a02:26f7:b6c8:4e3d::/64",
+    "ip_type": "IPv6",
+    "region": "UA-DP"
+  },
+  {
+    "ip_address": "2a02:26f7:b6c8:dd04::/64",
+    "ip_type": "IPv6",
+    "region": "UA-DP"
+  },
+  {
+    "ip_address": "2a02:26f7:b6c8:dd13::/64",
+    "ip_type": "IPv6",
+    "region": "UA-DP"
+  },
+  {
+    "ip_address": "2a02:26f7:b6cc:4e1c::/64",
+    "ip_type": "IPv6",
+    "region": "UA-DP"
+  },
+  {
+    "ip_address": "2a02:26f7:b6cc:4e1d::/64",
+    "ip_type": "IPv6",
+    "region": "UA-DP"
+  },
+  {
+    "ip_address": "2a02:26f7:b6cc:4e34::/64",
+    "ip_type": "IPv6",
+    "region": "UA-DP"
+  },
+  {
+    "ip_address": "2a02:26f7:b6cc:4e3d::/64",
+    "ip_type": "IPv6",
+    "region": "UA-DP"
+  },
+  {
+    "ip_address": "2a02:26f7:b6cc:dd04::/64",
+    "ip_type": "IPv6",
+    "region": "UA-DP"
+  },
+  {
+    "ip_address": "2a02:26f7:b6cc:dd13::/64",
+    "ip_type": "IPv6",
+    "region": "UA-DP"
+  }
+]

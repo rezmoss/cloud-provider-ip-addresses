@@ -1,0 +1,82 @@
+[
+  {
+    "ip_address": "45.32.224.0/21",
+    "ip_type": "IPv4",
+    "region": "US-WA"
+  },
+  {
+    "ip_address": "45.63.32.0/21",
+    "ip_type": "IPv4",
+    "region": "US-WA"
+  },
+  {
+    "ip_address": "45.76.240.0/21",
+    "ip_type": "IPv4",
+    "region": "US-WA"
+  },
+  {
+    "ip_address": "45.77.208.0/21",
+    "ip_type": "IPv4",
+    "region": "US-WA"
+  },
+  {
+    "ip_address": "66.42.64.0/20",
+    "ip_type": "IPv4",
+    "region": "US-WA"
+  },
+  {
+    "ip_address": "104.156.252.0/23",
+    "ip_type": "IPv4",
+    "region": "US-WA"
+  },
+  {
+    "ip_address": "104.207.156.0/22",
+    "ip_type": "IPv4",
+    "region": "US-WA"
+  },
+  {
+    "ip_address": "104.238.152.0/22",
+    "ip_type": "IPv4",
+    "region": "US-WA"
+  },
+  {
+    "ip_address": "104.238.156.0/23",
+    "ip_type": "IPv4",
+    "region": "US-WA"
+  },
+  {
+    "ip_address": "108.61.194.0/23",
+    "ip_type": "IPv4",
+    "region": "US-WA"
+  },
+  {
+    "ip_address": "137.220.32.0/20",
+    "ip_type": "IPv4",
+    "region": "US-WA"
+  },
+  {
+    "ip_address": "144.202.80.0/20",
+    "ip_type": "IPv4",
+    "region": "US-WA"
+  },
+  {
+    "ip_address": "149.28.8.0/21",
+    "ip_type": "IPv4",
+    "region": "US-WA"
+  },
+  {
+    "ip_address": "149.248.32.0/20",
+    "ip_type": "IPv4",
+    "region": "US-WA"
+  },
+  {
+    "ip_address": "2001:19f0:ffff::/48",
+    "ip_type": "IPv6",
+    "region": "US-WA"
+  },
+  {
+    "ip_address": "2001:19f0:8000::/38",
+    "ip_type": "IPv6",
+    "region": "US-WA"
+  }
+]

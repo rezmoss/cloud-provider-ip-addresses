@@ -1,0 +1,92 @@
+[
+  {
+    "ip_address": "43.202.69.112/28",
+    "ip_type": "IPv4",
+    "service": "rovo-crawler",
+    "region": "ap-northeast-2"
+  },
+  {
+    "ip_address": "43.202.69.96/28",
+    "ip_type": "IPv4",
+    "service": "confluence,forge,halp,jira,opsgenie,statuspage,trello",
+    "region": "ap-northeast-2"
+  },
+  {
+    "ip_address": "2401:1d80:3228::/64",
+    "ip_type": "IPv6",
+    "service": "confluence,forge,halp,jira,opsgenie,statuspage,trello",
+    "region": "ap-northeast-2"
+  },
+  {
+    "ip_address": "2401:1d80:3228:1::/64",
+    "ip_type": "IPv6",
+    "service": "confluence,forge,halp,jira,opsgenie,statuspage,trello",
+    "region": "ap-northeast-2"
+  },
+  {
+    "ip_address": "2401:1d80:3228:4::/64",
+    "ip_type": "IPv6",
+    "service": "confluence,forge,halp,jira,opsgenie,statuspage,trello",
+    "region": "ap-northeast-2"
+  },
+  {
+    "ip_address": "43.202.69.0/25",
+    "ip_type": "IPv4",
+    "service": "confluence,halp,jira,opsgenie,statuspage,trello",
+    "region": "ap-northeast-2"
+  },
+  {
+    "ip_address": "104.192.143.0/24",
+    "ip_type": "IPv4",
+    "service": "bitbucket,confluence,forge,halp,jira,opsgenie,statuspage,trello",
+    "region": "ap-northeast-2"
+  },
+  {
+    "ip_address": "3.37.121.177/32",
+    "ip_type": "IPv4",
+    "service": "forge",
+    "region": "ap-northeast-2"
+  },
+  {
+    "ip_address": "3.34.165.169/32",
+    "ip_type": "IPv4",
+    "service": "forge",
+    "region": "ap-northeast-2"
+  },
+  {
+    "ip_address": "15.164.153.22/32",
+    "ip_type": "IPv4",
+    "service": "forge",
+    "region": "ap-northeast-2"
+  },
+  {
+    "ip_address": "43.201.237.75/32",
+    "ip_type": "IPv4",
+    "service": "forge",
+    "region": "ap-northeast-2"
+  },
+  {
+    "ip_address": "13.209.252.121/32",
+    "ip_type": "IPv4",
+    "service": "forge",
+    "region": "ap-northeast-2"
+  },
+  {
+    "ip_address": "15.165.21.19/32",
+    "ip_type": "IPv4",
+    "service": "forge",
+    "region": "ap-northeast-2"
+  },
+  {
+    "ip_address": "43.202.223.238/32",
+    "ip_type": "IPv4",
+    "service": "forge",
+    "region": "ap-northeast-2"
+  },
+  {
+    "ip_address": "3.34.8.241/32",
+    "ip_type": "IPv4",
+    "service": "forge",
+    "region": "ap-northeast-2"
+  }
+]

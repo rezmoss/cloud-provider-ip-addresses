@@ -1,0 +1,102 @@
+[
+  {
+    "ip_address": "104.28.31.43/32",
+    "ip_type": "IPv4",
+    "region": "RU-SAM"
+  },
+  {
+    "ip_address": "104.28.31.44/32",
+    "ip_type": "IPv4",
+    "region": "RU-SAM"
+  },
+  {
+    "ip_address": "104.28.51.175/32",
+    "ip_type": "IPv4",
+    "region": "RU-SAM"
+  },
+  {
+    "ip_address": "104.28.51.176/32",
+    "ip_type": "IPv4",
+    "region": "RU-SAM"
+  },
+  {
+    "ip_address": "104.28.65.45/32",
+    "ip_type": "IPv4",
+    "region": "RU-SAM"
+  },
+  {
+    "ip_address": "104.28.65.46/32",
+    "ip_type": "IPv4",
+    "region": "RU-SAM"
+  },
+  {
+    "ip_address": "104.28.106.152/32",
+    "ip_type": "IPv4",
+    "region": "RU-SAM"
+  },
+  {
+    "ip_address": "104.28.106.153/32",
+    "ip_type": "IPv4",
+    "region": "RU-SAM"
+  },
+  {
+    "ip_address": "104.28.131.126/32",
+    "ip_type": "IPv4",
+    "region": "RU-SAM"
+  },
+  {
+    "ip_address": "104.28.131.127/32",
+    "ip_type": "IPv4",
+    "region": "RU-SAM"
+  },
+  {
+    "ip_address": "2606:54c0:50e8::/45",
+    "ip_type": "IPv6",
+    "region": "RU-SAM"
+  },
+  {
+    "ip_address": "2606:54c3:0:133f::/64",
+    "ip_type": "IPv6",
+    "region": "RU-SAM"
+  },
+  {
+    "ip_address": "2a09:bac2:50e8::/45",
+    "ip_type": "IPv6",
+    "region": "RU-SAM"
+  },
+  {
+    "ip_address": "2a09:bac3:50e8::/45",
+    "ip_type": "IPv6",
+    "region": "RU-SAM"
+  },
+  {
+    "ip_address": "2a04:4e41:1404:4000::/52",
+    "ip_type": "IPv6",
+    "region": "RU-SAM"
+  },
+  {
+    "ip_address": "2a04:4e41:1804:d000::/52",
+    "ip_type": "IPv6",
+    "region": "RU-SAM"
+  },
+  {
+    "ip_address": "2a04:4e41:5604:4000::/52",
+    "ip_type": "IPv6",
+    "region": "RU-SAM"
+  },
+  {
+    "ip_address": "140.248.34.208/31",
+    "ip_type": "IPv4",
+    "region": "RU-SAM"
+  },
+  {
+    "ip_address": "140.248.37.6/31",
+    "ip_type": "IPv4",
+    "region": "RU-SAM"
+  },
+  {
+    "ip_address": "146.75.169.208/31",
+    "ip_type": "IPv4",
+    "region": "RU-SAM"
+  }
+]

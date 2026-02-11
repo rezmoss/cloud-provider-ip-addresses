@@ -1,0 +1,22 @@
+[
+  {
+    "ip_address": "2a02:26f7:c5c0:4f87::/64",
+    "ip_type": "IPv6",
+    "region": "VN-DN"
+  },
+  {
+    "ip_address": "2a02:26f7:c5c4:4f87::/64",
+    "ip_type": "IPv6",
+    "region": "VN-DN"
+  },
+  {
+    "ip_address": "2a02:26f7:c5c5:4f87::/64",
+    "ip_type": "IPv6",
+    "region": "VN-DN"
+  },
+  {
+    "ip_address": "2a02:26f7:c5c8:4f87::/64",
+    "ip_type": "IPv6",
+    "region": "VN-DN"
+  }
+]

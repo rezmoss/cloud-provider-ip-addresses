@@ -1,0 +1,22 @@
+[
+  {
+    "ip_address": "2606:54c0:3b98::/45",
+    "ip_type": "IPv6",
+    "region": "IN-DH"
+  },
+  {
+    "ip_address": "2606:54c3:0:1226::/64",
+    "ip_type": "IPv6",
+    "region": "IN-DH"
+  },
+  {
+    "ip_address": "2a09:bac2:3b98::/45",
+    "ip_type": "IPv6",
+    "region": "IN-DH"
+  },
+  {
+    "ip_address": "2a09:bac3:3b98::/45",
+    "ip_type": "IPv6",
+    "region": "IN-DH"
+  }
+]

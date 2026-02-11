@@ -1,0 +1,12 @@
+[
+  {
+    "ip_address": "139.84.224.0/19",
+    "ip_type": "IPv4",
+    "region": "ZA-GP"
+  },
+  {
+    "ip_address": "2a05:f480:3000::/38",
+    "ip_type": "IPv6",
+    "region": "ZA-GP"
+  }
+]

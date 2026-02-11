@@ -1,0 +1,107 @@
+[
+  {
+    "ip_address": "172.225.137.112/28",
+    "ip_type": "IPv4",
+    "region": "TM"
+  },
+  {
+    "ip_address": "172.225.200.224/28",
+    "ip_type": "IPv4",
+    "region": "TM"
+  },
+  {
+    "ip_address": "172.225.224.48/28",
+    "ip_type": "IPv4",
+    "region": "TM"
+  },
+  {
+    "ip_address": "2a02:26f7:da40:4000::/64",
+    "ip_type": "IPv6",
+    "region": "TM"
+  },
+  {
+    "ip_address": "2a02:26f7:da40:ccc0::/64",
+    "ip_type": "IPv6",
+    "region": "TM"
+  },
+  {
+    "ip_address": "2a02:26f7:da40:ccc1::/64",
+    "ip_type": "IPv6",
+    "region": "TM"
+  },
+  {
+    "ip_address": "2a02:26f7:da41:4000::/64",
+    "ip_type": "IPv6",
+    "region": "TM"
+  },
+  {
+    "ip_address": "2a02:26f7:da44:4000::/64",
+    "ip_type": "IPv6",
+    "region": "TM"
+  },
+  {
+    "ip_address": "2a02:26f7:da44:ccc0::/64",
+    "ip_type": "IPv6",
+    "region": "TM"
+  },
+  {
+    "ip_address": "2a02:26f7:da44:ccc1::/64",
+    "ip_type": "IPv6",
+    "region": "TM"
+  },
+  {
+    "ip_address": "2a02:26f7:da45:4000::/64",
+    "ip_type": "IPv6",
+    "region": "TM"
+  },
+  {
+    "ip_address": "2a02:26f7:da48:4000::/64",
+    "ip_type": "IPv6",
+    "region": "TM"
+  },
+  {
+    "ip_address": "2a02:26f7:da48:ccc0::/64",
+    "ip_type": "IPv6",
+    "region": "TM"
+  },
+  {
+    "ip_address": "2a02:26f7:da48:ccc1::/64",
+    "ip_type": "IPv6",
+    "region": "TM"
+  },
+  {
+    "ip_address": "2a02:26f7:da49:4000::/64",
+    "ip_type": "IPv6",
+    "region": "TM"
+  },
+  {
+    "ip_address": "2a04:4e41:218::/48",
+    "ip_type": "IPv6",
+    "region": "TM"
+  },
+  {
+    "ip_address": "2a04:4e41:1283::/48",
+    "ip_type": "IPv6",
+    "region": "TM"
+  },
+  {
+    "ip_address": "2a04:4e41:1842::/48",
+    "ip_type": "IPv6",
+    "region": "TM"
+  },
+  {
+    "ip_address": "140.248.37.48/31",
+    "ip_type": "IPv4",
+    "region": "TM"
+  },
+  {
+    "ip_address": "146.75.162.96/31",
+    "ip_type": "IPv4",
+    "region": "TM"
+  },
+  {
+    "ip_address": "146.75.202.12/31",
+    "ip_type": "IPv4",
+    "region": "TM"
+  }
+]

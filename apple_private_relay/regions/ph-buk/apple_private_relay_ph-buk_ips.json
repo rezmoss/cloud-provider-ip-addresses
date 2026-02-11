@@ -1,0 +1,22 @@
+[
+  {
+    "ip_address": "2a02:26f7:b600:db0d::/64",
+    "ip_type": "IPv6",
+    "region": "PH-BUK"
+  },
+  {
+    "ip_address": "2a02:26f7:b601:db0d::/64",
+    "ip_type": "IPv6",
+    "region": "PH-BUK"
+  },
+  {
+    "ip_address": "2a02:26f7:b604:db0d::/64",
+    "ip_type": "IPv6",
+    "region": "PH-BUK"
+  },
+  {
+    "ip_address": "2a02:26f7:b608:db0d::/64",
+    "ip_type": "IPv6",
+    "region": "PH-BUK"
+  }
+]

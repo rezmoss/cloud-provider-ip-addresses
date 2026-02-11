@@ -1,0 +1,72 @@
+[
+  {
+    "ip_address": "104.28.34.118/32",
+    "ip_type": "IPv4",
+    "region": "NG-BO"
+  },
+  {
+    "ip_address": "104.28.34.119/32",
+    "ip_type": "IPv4",
+    "region": "NG-BO"
+  },
+  {
+    "ip_address": "104.28.60.143/32",
+    "ip_type": "IPv4",
+    "region": "NG-BO"
+  },
+  {
+    "ip_address": "104.28.60.144/32",
+    "ip_type": "IPv4",
+    "region": "NG-BO"
+  },
+  {
+    "ip_address": "104.28.80.172/32",
+    "ip_type": "IPv4",
+    "region": "NG-BO"
+  },
+  {
+    "ip_address": "104.28.80.173/32",
+    "ip_type": "IPv4",
+    "region": "NG-BO"
+  },
+  {
+    "ip_address": "104.28.88.80/32",
+    "ip_type": "IPv4",
+    "region": "NG-BO"
+  },
+  {
+    "ip_address": "104.28.88.81/32",
+    "ip_type": "IPv4",
+    "region": "NG-BO"
+  },
+  {
+    "ip_address": "104.28.96.110/32",
+    "ip_type": "IPv4",
+    "region": "NG-BO"
+  },
+  {
+    "ip_address": "104.28.96.111/32",
+    "ip_type": "IPv4",
+    "region": "NG-BO"
+  },
+  {
+    "ip_address": "2606:54c0:4cd0::/45",
+    "ip_type": "IPv6",
+    "region": "NG-BO"
+  },
+  {
+    "ip_address": "2606:54c3:0:f91::/64",
+    "ip_type": "IPv6",
+    "region": "NG-BO"
+  },
+  {
+    "ip_address": "2a09:bac2:4cd0::/45",
+    "ip_type": "IPv6",
+    "region": "NG-BO"
+  },
+  {
+    "ip_address": "2a09:bac3:4cd0::/45",
+    "ip_type": "IPv6",
+    "region": "NG-BO"
+  }
+]

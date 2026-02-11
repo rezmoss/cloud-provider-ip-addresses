@@ -1,0 +1,42 @@
+[
+  {
+    "ip_address": "2a04:4e41:200:1000::/52",
+    "ip_type": "IPv6",
+    "region": "AE-FU"
+  },
+  {
+    "ip_address": "2a04:4e41:1220:1000::/52",
+    "ip_type": "IPv6",
+    "region": "AE-FU"
+  },
+  {
+    "ip_address": "2a04:4e41:1260:1000::/52",
+    "ip_type": "IPv6",
+    "region": "AE-FU"
+  },
+  {
+    "ip_address": "2a04:4e41:5200:1000::/52",
+    "ip_type": "IPv6",
+    "region": "AE-FU"
+  },
+  {
+    "ip_address": "140.248.28.4/31",
+    "ip_type": "IPv4",
+    "region": "AE-FU"
+  },
+  {
+    "ip_address": "146.75.162.4/31",
+    "ip_type": "IPv4",
+    "region": "AE-FU"
+  },
+  {
+    "ip_address": "146.75.166.4/31",
+    "ip_type": "IPv4",
+    "region": "AE-FU"
+  },
+  {
+    "ip_address": "146.75.211.4/31",
+    "ip_type": "IPv4",
+    "region": "AE-FU"
+  }
+]

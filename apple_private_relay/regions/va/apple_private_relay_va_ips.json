@@ -1,0 +1,112 @@
+[
+  {
+    "ip_address": "172.225.96.160/27",
+    "ip_type": "IPv4",
+    "region": "VA"
+  },
+  {
+    "ip_address": "172.225.145.64/27",
+    "ip_type": "IPv4",
+    "region": "VA"
+  },
+  {
+    "ip_address": "172.225.158.48/28",
+    "ip_type": "IPv4",
+    "region": "VA"
+  },
+  {
+    "ip_address": "2a02:26f7:c100:4000::/64",
+    "ip_type": "IPv6",
+    "region": "VA"
+  },
+  {
+    "ip_address": "2a02:26f7:c101:4000::/64",
+    "ip_type": "IPv6",
+    "region": "VA"
+  },
+  {
+    "ip_address": "2a02:26f7:c104:4000::/64",
+    "ip_type": "IPv6",
+    "region": "VA"
+  },
+  {
+    "ip_address": "2a02:26f7:c105:4000::/64",
+    "ip_type": "IPv6",
+    "region": "VA"
+  },
+  {
+    "ip_address": "2a02:26f7:c108:4000::/64",
+    "ip_type": "IPv6",
+    "region": "VA"
+  },
+  {
+    "ip_address": "2a02:26f7:c109:4000::/64",
+    "ip_type": "IPv6",
+    "region": "VA"
+  },
+  {
+    "ip_address": "104.28.62.97/32",
+    "ip_type": "IPv4",
+    "region": "VA"
+  },
+  {
+    "ip_address": "104.28.62.98/32",
+    "ip_type": "IPv4",
+    "region": "VA"
+  },
+  {
+    "ip_address": "104.28.98.74/32",
+    "ip_type": "IPv4",
+    "region": "VA"
+  },
+  {
+    "ip_address": "2606:54c0:d250::/45",
+    "ip_type": "IPv6",
+    "region": "VA"
+  },
+  {
+    "ip_address": "2606:54c3:0:460::/64",
+    "ip_type": "IPv6",
+    "region": "VA"
+  },
+  {
+    "ip_address": "2a09:bac2:d250::/45",
+    "ip_type": "IPv6",
+    "region": "VA"
+  },
+  {
+    "ip_address": "2a09:bac3:d250::/45",
+    "ip_type": "IPv6",
+    "region": "VA"
+  },
+  {
+    "ip_address": "2a04:4e41:1847::/48",
+    "ip_type": "IPv6",
+    "region": "VA"
+  },
+  {
+    "ip_address": "2a04:4e41:5220::/48",
+    "ip_type": "IPv6",
+    "region": "VA"
+  },
+  {
+    "ip_address": "2a04:4e41:580b::/48",
+    "ip_type": "IPv6",
+    "region": "VA"
+  },
+  {
+    "ip_address": "140.248.37.78/31",
+    "ip_type": "IPv4",
+    "region": "VA"
+  },
+  {
+    "ip_address": "146.75.166.140/31",
+    "ip_type": "IPv4",
+    "region": "VA"
+  },
+  {
+    "ip_address": "146.75.186.46/31",
+    "ip_type": "IPv4",
+    "region": "VA"
+  }
+]

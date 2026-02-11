@@ -1,0 +1,92 @@
+[
+  {
+    "ip_address": "2a02:26f7:c000:5c68::/64",
+    "ip_type": "IPv6",
+    "region": "MX-ZAC"
+  },
+  {
+    "ip_address": "2a02:26f7:c000:5c69::/64",
+    "ip_type": "IPv6",
+    "region": "MX-ZAC"
+  },
+  {
+    "ip_address": "2a02:26f7:c002:5c68::/64",
+    "ip_type": "IPv6",
+    "region": "MX-ZAC"
+  },
+  {
+    "ip_address": "2a02:26f7:c002:5c69::/64",
+    "ip_type": "IPv6",
+    "region": "MX-ZAC"
+  },
+  {
+    "ip_address": "2a02:26f7:c009:5c68::/64",
+    "ip_type": "IPv6",
+    "region": "MX-ZAC"
+  },
+  {
+    "ip_address": "2a02:26f7:c009:5c69::/64",
+    "ip_type": "IPv6",
+    "region": "MX-ZAC"
+  },
+  {
+    "ip_address": "2a02:26f7:c00c:5c68::/64",
+    "ip_type": "IPv6",
+    "region": "MX-ZAC"
+  },
+  {
+    "ip_address": "2a02:26f7:c00c:5c69::/64",
+    "ip_type": "IPv6",
+    "region": "MX-ZAC"
+  },
+  {
+    "ip_address": "2a02:26f7:c010:5c68::/64",
+    "ip_type": "IPv6",
+    "region": "MX-ZAC"
+  },
+  {
+    "ip_address": "2a02:26f7:c010:5c69::/64",
+    "ip_type": "IPv6",
+    "region": "MX-ZAC"
+  },
+  {
+    "ip_address": "2a02:26f7:c014:5c68::/64",
+    "ip_type": "IPv6",
+    "region": "MX-ZAC"
+  },
+  {
+    "ip_address": "2a02:26f7:c014:5c69::/64",
+    "ip_type": "IPv6",
+    "region": "MX-ZAC"
+  },
+  {
+    "ip_address": "2a02:26f7:c018:5c68::/64",
+    "ip_type": "IPv6",
+    "region": "MX-ZAC"
+  },
+  {
+    "ip_address": "2a02:26f7:c018:5c69::/64",
+    "ip_type": "IPv6",
+    "region": "MX-ZAC"
+  },
+  {
+    "ip_address": "2606:54c0:4c28::/45",
+    "ip_type": "IPv6",
+    "region": "MX-ZAC"
+  },
+  {
+    "ip_address": "2606:54c3:0:1283::/64",
+    "ip_type": "IPv6",
+    "region": "MX-ZAC"
+  },
+  {
+    "ip_address": "2a09:bac2:4c28::/45",
+    "ip_type": "IPv6",
+    "region": "MX-ZAC"
+  },
+  {
+    "ip_address": "2a09:bac3:4c28::/45",
+    "ip_type": "IPv6",
+    "region": "MX-ZAC"
+  }
+]

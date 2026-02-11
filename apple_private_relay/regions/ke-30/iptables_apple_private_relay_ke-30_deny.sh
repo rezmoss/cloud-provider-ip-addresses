@@ -1,0 +1,31 @@
+#!/bin/bash
+# Apple_private_relay IP Ranges
+# Updated: 2026-02-11 17:28:48
+# Source: https://github.com/rezmoss/cloud-provider-ip-addresses
+# License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
+# This file is generated automatically. Do not edit it directly.
+# Updates daily at 00:00 UTC
+# iptables deny rules for apple_private_relay
+
+iptables -A INPUT -s 104.28.38.3/32 -j DROP
+iptables -A INPUT -s 104.28.38.4/32 -j DROP
+iptables -A INPUT -s 104.28.38.5/32 -j DROP
+iptables -A INPUT -s 104.28.46.38/32 -j DROP
+iptables -A INPUT -s 104.28.46.39/32 -j DROP
+iptables -A INPUT -s 104.28.46.40/32 -j DROP
+iptables -A INPUT -s 104.28.80.145/32 -j DROP
+iptables -A INPUT -s 104.28.80.146/32 -j DROP
+iptables -A INPUT -s 104.28.80.147/32 -j DROP
+iptables -A INPUT -s 104.28.82.46/32 -j DROP
+iptables -A INPUT -s 104.28.82.47/32 -j DROP
+iptables -A INPUT -s 104.28.82.48/32 -j DROP
+ip6tables -A INPUT -s 2606:54c0:4638::/45 -j DROP
+ip6tables -A INPUT -s 2606:54c3:0:a59::/64 -j DROP
+ip6tables -A INPUT -s 2a09:bac2:4638::/45 -j DROP
+ip6tables -A INPUT -s 2a09:bac3:4638::/45 -j DROP
+ip6tables -A INPUT -s 2a04:4e41:1303:2000::/52 -j DROP
+ip6tables -A INPUT -s 2a04:4e41:1802:d000::/52 -j DROP
+ip6tables -A INPUT -s 2a04:4e41:4e02:e000::/52 -j DROP
+iptables -A INPUT -s 140.248.36.156/31 -j DROP
+iptables -A INPUT -s 140.248.40.146/31 -j DROP
+iptables -A INPUT -s 146.75.174.124/31 -j DROP

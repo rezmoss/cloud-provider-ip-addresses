@@ -1,0 +1,9 @@
+ip_address,ip_type,region
+2a02:26f7:b600:db05::/64,IPv6,PH-BUL
+2a02:26f7:b600:db0e::/64,IPv6,PH-BUL
+2a02:26f7:b601:db05::/64,IPv6,PH-BUL
+2a02:26f7:b601:db0e::/64,IPv6,PH-BUL
+2a02:26f7:b604:db05::/64,IPv6,PH-BUL
+2a02:26f7:b604:db0e::/64,IPv6,PH-BUL
+2a02:26f7:b608:db05::/64,IPv6,PH-BUL
+2a02:26f7:b608:db0e::/64,IPv6,PH-BUL

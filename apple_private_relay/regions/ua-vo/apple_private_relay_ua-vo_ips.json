@@ -1,0 +1,62 @@
+[
+  {
+    "ip_address": "2a02:26f7:b6c0:4e2e::/64",
+    "ip_type": "IPv6",
+    "region": "UA-VO"
+  },
+  {
+    "ip_address": "2a02:26f7:b6c0:4e3a::/64",
+    "ip_type": "IPv6",
+    "region": "UA-VO"
+  },
+  {
+    "ip_address": "2a02:26f7:b6c0:dd0c::/64",
+    "ip_type": "IPv6",
+    "region": "UA-VO"
+  },
+  {
+    "ip_address": "2a02:26f7:b6c4:4e2e::/64",
+    "ip_type": "IPv6",
+    "region": "UA-VO"
+  },
+  {
+    "ip_address": "2a02:26f7:b6c4:4e3a::/64",
+    "ip_type": "IPv6",
+    "region": "UA-VO"
+  },
+  {
+    "ip_address": "2a02:26f7:b6c4:dd0c::/64",
+    "ip_type": "IPv6",
+    "region": "UA-VO"
+  },
+  {
+    "ip_address": "2a02:26f7:b6c8:4e2e::/64",
+    "ip_type": "IPv6",
+    "region": "UA-VO"
+  },
+  {
+    "ip_address": "2a02:26f7:b6c8:4e3a::/64",
+    "ip_type": "IPv6",
+    "region": "UA-VO"
+  },
+  {
+    "ip_address": "2a02:26f7:b6c8:dd0c::/64",
+    "ip_type": "IPv6",
+    "region": "UA-VO"
+  },
+  {
+    "ip_address": "2a02:26f7:b6cc:4e2e::/64",
+    "ip_type": "IPv6",
+    "region": "UA-VO"
+  },
+  {
+    "ip_address": "2a02:26f7:b6cc:4e3a::/64",
+    "ip_type": "IPv6",
+    "region": "UA-VO"
+  },
+  {
+    "ip_address": "2a02:26f7:b6cc:dd0c::/64",
+    "ip_type": "IPv6",
+    "region": "UA-VO"
+  }
+]

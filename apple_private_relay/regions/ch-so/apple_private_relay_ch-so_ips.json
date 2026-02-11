@@ -1,0 +1,27 @@
+[
+  {
+    "ip_address": "2a02:26f7:e340:5436::/64",
+    "ip_type": "IPv6",
+    "region": "CH-SO"
+  },
+  {
+    "ip_address": "2a02:26f7:e342:5436::/64",
+    "ip_type": "IPv6",
+    "region": "CH-SO"
+  },
+  {
+    "ip_address": "2a02:26f7:e344:5436::/64",
+    "ip_type": "IPv6",
+    "region": "CH-SO"
+  },
+  {
+    "ip_address": "2a02:26f7:e348:5436::/64",
+    "ip_type": "IPv6",
+    "region": "CH-SO"
+  },
+  {
+    "ip_address": "2a02:26f7:e34c:5436::/64",
+    "ip_type": "IPv6",
+    "region": "CH-SO"
+  }
+]

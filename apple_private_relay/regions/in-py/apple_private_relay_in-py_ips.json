@@ -1,0 +1,32 @@
+[
+  {
+    "ip_address": "2a02:26f7:d6c0:6900::/64",
+    "ip_type": "IPv6",
+    "region": "IN-PY"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c1:6900::/64",
+    "ip_type": "IPv6",
+    "region": "IN-PY"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c4:6900::/64",
+    "ip_type": "IPv6",
+    "region": "IN-PY"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c6:6900::/64",
+    "ip_type": "IPv6",
+    "region": "IN-PY"
+  },
+  {
+    "ip_address": "2a02:26f7:d6cc:6900::/64",
+    "ip_type": "IPv6",
+    "region": "IN-PY"
+  },
+  {
+    "ip_address": "2a02:26f7:d6d0:6900::/64",
+    "ip_type": "IPv6",
+    "region": "IN-PY"
+  }
+]

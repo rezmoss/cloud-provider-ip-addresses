@@ -1,0 +1,22 @@
+[
+  {
+    "ip_address": "64.176.224.0/19",
+    "ip_type": "IPv4",
+    "region": "KR-11"
+  },
+  {
+    "ip_address": "141.164.32.0/19",
+    "ip_type": "IPv4",
+    "region": "KR-11"
+  },
+  {
+    "ip_address": "158.247.192.0/18",
+    "ip_type": "IPv4",
+    "region": "KR-11"
+  },
+  {
+    "ip_address": "2401:c080:1c00::/38",
+    "ip_type": "IPv6",
+    "region": "KR-11"
+  }
+]

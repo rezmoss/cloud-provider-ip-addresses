@@ -1,0 +1,23 @@
+#!/bin/bash
+# Telegram IP Ranges
+# Updated: 2026-02-11 17:28:49
+# Source: https://github.com/rezmoss/cloud-provider-ip-addresses
+# License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
+# This file is generated automatically. Do not edit it directly.
+# Updates daily at 00:00 UTC
+# UFW deny rules for telegram
+
+ufw deny from 91.108.56.0/22
+ufw deny from 91.108.4.0/22
+ufw deny from 91.108.8.0/22
+ufw deny from 91.108.16.0/22
+ufw deny from 91.108.12.0/22
+ufw deny from 149.154.160.0/20
+ufw deny from 91.105.192.0/23
+ufw deny from 91.108.20.0/22
+ufw deny from 185.76.151.0/24
+ufw deny from 2001:b28:f23d::/48
+ufw deny from 2001:b28:f23f::/48
+ufw deny from 2001:67c:4e8::/48
+ufw deny from 2001:b28:f23c::/48
+ufw deny from 2a0a:f280::/32

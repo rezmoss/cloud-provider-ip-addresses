@@ -1,0 +1,72 @@
+[
+  {
+    "ip_address": "104.28.34.96/32",
+    "ip_type": "IPv4",
+    "region": "NG-ED"
+  },
+  {
+    "ip_address": "104.28.34.97/32",
+    "ip_type": "IPv4",
+    "region": "NG-ED"
+  },
+  {
+    "ip_address": "104.28.60.121/32",
+    "ip_type": "IPv4",
+    "region": "NG-ED"
+  },
+  {
+    "ip_address": "104.28.60.122/32",
+    "ip_type": "IPv4",
+    "region": "NG-ED"
+  },
+  {
+    "ip_address": "104.28.87.42/32",
+    "ip_type": "IPv4",
+    "region": "NG-ED"
+  },
+  {
+    "ip_address": "104.28.87.43/32",
+    "ip_type": "IPv4",
+    "region": "NG-ED"
+  },
+  {
+    "ip_address": "104.28.88.58/32",
+    "ip_type": "IPv4",
+    "region": "NG-ED"
+  },
+  {
+    "ip_address": "104.28.88.59/32",
+    "ip_type": "IPv4",
+    "region": "NG-ED"
+  },
+  {
+    "ip_address": "104.28.96.88/32",
+    "ip_type": "IPv4",
+    "region": "NG-ED"
+  },
+  {
+    "ip_address": "104.28.96.89/32",
+    "ip_type": "IPv4",
+    "region": "NG-ED"
+  },
+  {
+    "ip_address": "2606:54c0:4ce0::/45",
+    "ip_type": "IPv6",
+    "region": "NG-ED"
+  },
+  {
+    "ip_address": "2606:54c3:0:eb::/64",
+    "ip_type": "IPv6",
+    "region": "NG-ED"
+  },
+  {
+    "ip_address": "2a09:bac2:4ce0::/45",
+    "ip_type": "IPv6",
+    "region": "NG-ED"
+  },
+  {
+    "ip_address": "2a09:bac3:4ce0::/45",
+    "ip_type": "IPv6",
+    "region": "NG-ED"
+  }
+]

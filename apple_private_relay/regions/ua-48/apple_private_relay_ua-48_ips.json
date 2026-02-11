@@ -1,0 +1,72 @@
+[
+  {
+    "ip_address": "104.28.51.240/32",
+    "ip_type": "IPv4",
+    "region": "UA-48"
+  },
+  {
+    "ip_address": "104.28.51.241/32",
+    "ip_type": "IPv4",
+    "region": "UA-48"
+  },
+  {
+    "ip_address": "104.28.81.35/32",
+    "ip_type": "IPv4",
+    "region": "UA-48"
+  },
+  {
+    "ip_address": "104.28.81.36/32",
+    "ip_type": "IPv4",
+    "region": "UA-48"
+  },
+  {
+    "ip_address": "104.28.106.249/32",
+    "ip_type": "IPv4",
+    "region": "UA-48"
+  },
+  {
+    "ip_address": "104.28.106.250/32",
+    "ip_type": "IPv4",
+    "region": "UA-48"
+  },
+  {
+    "ip_address": "104.28.130.167/32",
+    "ip_type": "IPv4",
+    "region": "UA-48"
+  },
+  {
+    "ip_address": "104.28.130.168/32",
+    "ip_type": "IPv4",
+    "region": "UA-48"
+  },
+  {
+    "ip_address": "104.28.131.169/32",
+    "ip_type": "IPv4",
+    "region": "UA-48"
+  },
+  {
+    "ip_address": "104.28.131.170/32",
+    "ip_type": "IPv4",
+    "region": "UA-48"
+  },
+  {
+    "ip_address": "2606:54c0:5878::/45",
+    "ip_type": "IPv6",
+    "region": "UA-48"
+  },
+  {
+    "ip_address": "2606:54c3:0:d9f::/64",
+    "ip_type": "IPv6",
+    "region": "UA-48"
+  },
+  {
+    "ip_address": "2a09:bac2:5878::/45",
+    "ip_type": "IPv6",
+    "region": "UA-48"
+  },
+  {
+    "ip_address": "2a09:bac3:5878::/45",
+    "ip_type": "IPv6",
+    "region": "UA-48"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "ip_address": "64.176.96.0/19",
+    "ip_type": "IPv4",
+    "region": "IN-KA"
+  },
+  {
+    "ip_address": "139.84.128.0/19",
+    "ip_type": "IPv4",
+    "region": "IN-KA"
+  },
+  {
+    "ip_address": "139.84.208.0/20",
+    "ip_type": "IPv4",
+    "region": "IN-KA"
+  },
+  {
+    "ip_address": "2401:c080:3000::/38",
+    "ip_type": "IPv6",
+    "region": "IN-KA"
+  }
+]

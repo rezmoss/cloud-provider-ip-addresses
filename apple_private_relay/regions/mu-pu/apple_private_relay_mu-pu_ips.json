@@ -1,0 +1,42 @@
+[
+  {
+    "ip_address": "2a04:4e41:12c0::/52",
+    "ip_type": "IPv6",
+    "region": "MU-PU"
+  },
+  {
+    "ip_address": "2a04:4e41:1303:3000::/52",
+    "ip_type": "IPv6",
+    "region": "MU-PU"
+  },
+  {
+    "ip_address": "2a04:4e41:1603:4000::/52",
+    "ip_type": "IPv6",
+    "region": "MU-PU"
+  },
+  {
+    "ip_address": "2a04:4e41:7403:4000::/52",
+    "ip_type": "IPv6",
+    "region": "MU-PU"
+  },
+  {
+    "ip_address": "140.248.40.160/31",
+    "ip_type": "IPv4",
+    "region": "MU-PU"
+  },
+  {
+    "ip_address": "146.75.168.144/31",
+    "ip_type": "IPv4",
+    "region": "MU-PU"
+  },
+  {
+    "ip_address": "146.75.185.144/31",
+    "ip_type": "IPv4",
+    "region": "MU-PU"
+  },
+  {
+    "ip_address": "146.75.198.16/31",
+    "ip_type": "IPv4",
+    "region": "MU-PU"
+  }
+]

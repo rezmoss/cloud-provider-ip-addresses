@@ -1,0 +1,42 @@
+[
+  {
+    "ip_address": "2a04:4e41:12a0:5000::/52",
+    "ip_type": "IPv6",
+    "region": "MN-1"
+  },
+  {
+    "ip_address": "2a04:4e41:5e01:7000::/52",
+    "ip_type": "IPv6",
+    "region": "MN-1"
+  },
+  {
+    "ip_address": "2a04:4e41:6400::/52",
+    "ip_type": "IPv6",
+    "region": "MN-1"
+  },
+  {
+    "ip_address": "2a04:4e41:7601:7000::/52",
+    "ip_type": "IPv6",
+    "region": "MN-1"
+  },
+  {
+    "ip_address": "146.75.132.84/31",
+    "ip_type": "IPv4",
+    "region": "MN-1"
+  },
+  {
+    "ip_address": "146.75.154.6/31",
+    "ip_type": "IPv4",
+    "region": "MN-1"
+  },
+  {
+    "ip_address": "146.75.160.84/31",
+    "ip_type": "IPv4",
+    "region": "MN-1"
+  },
+  {
+    "ip_address": "146.75.187.30/31",
+    "ip_type": "IPv4",
+    "region": "MN-1"
+  }
+]

@@ -1,0 +1,13 @@
+ip_address,ip_type,region
+2a02:26f7:c640:4ced::/64,IPv6,TH-51
+2a02:26f7:c640:4cee::/64,IPv6,TH-51
+2a02:26f7:c644:4ced::/64,IPv6,TH-51
+2a02:26f7:c644:4cee::/64,IPv6,TH-51
+2a02:26f7:c645:4ced::/64,IPv6,TH-51
+2a02:26f7:c645:4cee::/64,IPv6,TH-51
+2a02:26f7:c648:4ced::/64,IPv6,TH-51
+2a02:26f7:c648:4cee::/64,IPv6,TH-51
+2606:54c0:5680::/45,IPv6,TH-51
+2606:54c3:0:54a::/64,IPv6,TH-51
+2a09:bac2:5680::/45,IPv6,TH-51
+2a09:bac3:5680::/45,IPv6,TH-51

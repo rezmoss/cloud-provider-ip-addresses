@@ -1,0 +1,47 @@
+[
+  {
+    "ip_address": "2a02:26f7:e340:542b::/64",
+    "ip_type": "IPv6",
+    "region": "CH-OW"
+  },
+  {
+    "ip_address": "2a02:26f7:e342:542b::/64",
+    "ip_type": "IPv6",
+    "region": "CH-OW"
+  },
+  {
+    "ip_address": "2a02:26f7:e344:542b::/64",
+    "ip_type": "IPv6",
+    "region": "CH-OW"
+  },
+  {
+    "ip_address": "2a02:26f7:e348:542b::/64",
+    "ip_type": "IPv6",
+    "region": "CH-OW"
+  },
+  {
+    "ip_address": "2a02:26f7:e34c:542b::/64",
+    "ip_type": "IPv6",
+    "region": "CH-OW"
+  },
+  {
+    "ip_address": "2606:54c0:1df0::/45",
+    "ip_type": "IPv6",
+    "region": "CH-OW"
+  },
+  {
+    "ip_address": "2606:54c3:0:1629::/64",
+    "ip_type": "IPv6",
+    "region": "CH-OW"
+  },
+  {
+    "ip_address": "2a09:bac2:1df0::/45",
+    "ip_type": "IPv6",
+    "region": "CH-OW"
+  },
+  {
+    "ip_address": "2a09:bac3:1df0::/45",
+    "ip_type": "IPv6",
+    "region": "CH-OW"
+  }
+]

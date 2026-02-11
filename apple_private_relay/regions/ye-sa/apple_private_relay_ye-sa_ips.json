@@ -1,0 +1,82 @@
+[
+  {
+    "ip_address": "104.28.38.209/32",
+    "ip_type": "IPv4",
+    "region": "YE-SA"
+  },
+  {
+    "ip_address": "104.28.38.210/32",
+    "ip_type": "IPv4",
+    "region": "YE-SA"
+  },
+  {
+    "ip_address": "104.28.38.211/32",
+    "ip_type": "IPv4",
+    "region": "YE-SA"
+  },
+  {
+    "ip_address": "104.28.60.246/32",
+    "ip_type": "IPv4",
+    "region": "YE-SA"
+  },
+  {
+    "ip_address": "104.28.60.247/32",
+    "ip_type": "IPv4",
+    "region": "YE-SA"
+  },
+  {
+    "ip_address": "104.28.60.248/32",
+    "ip_type": "IPv4",
+    "region": "YE-SA"
+  },
+  {
+    "ip_address": "104.28.81.87/32",
+    "ip_type": "IPv4",
+    "region": "YE-SA"
+  },
+  {
+    "ip_address": "104.28.81.88/32",
+    "ip_type": "IPv4",
+    "region": "YE-SA"
+  },
+  {
+    "ip_address": "104.28.81.89/32",
+    "ip_type": "IPv4",
+    "region": "YE-SA"
+  },
+  {
+    "ip_address": "104.28.107.44/32",
+    "ip_type": "IPv4",
+    "region": "YE-SA"
+  },
+  {
+    "ip_address": "104.28.107.45/32",
+    "ip_type": "IPv4",
+    "region": "YE-SA"
+  },
+  {
+    "ip_address": "104.28.107.46/32",
+    "ip_type": "IPv4",
+    "region": "YE-SA"
+  },
+  {
+    "ip_address": "2606:54c0:d398::/45",
+    "ip_type": "IPv6",
+    "region": "YE-SA"
+  },
+  {
+    "ip_address": "2606:54c3:0:bfd::/64",
+    "ip_type": "IPv6",
+    "region": "YE-SA"
+  },
+  {
+    "ip_address": "2a09:bac2:d398::/45",
+    "ip_type": "IPv6",
+    "region": "YE-SA"
+  },
+  {
+    "ip_address": "2a09:bac3:d398::/45",
+    "ip_type": "IPv6",
+    "region": "YE-SA"
+  }
+]

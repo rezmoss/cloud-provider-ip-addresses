@@ -1,0 +1,48 @@
+-- SQL script to create table `apple_private_relay_cd-kn_ips` and insert IP addresses
+
+CREATE TABLE IF NOT EXISTS `apple_private_relay_cd-kn_ips` (
+  `ip_address` VARCHAR(45) NOT NULL,
+  `ip_type` VARCHAR(10) NOT NULL,
+  PRIMARY KEY (`ip_address`)
+);
+
+INSERT INTO `apple_private_relay_cd-kn_ips` (`ip_address`, `ip_type`) VALUES ('104.28.34.23/32', 'IPv4');
+INSERT INTO `apple_private_relay_cd-kn_ips` (`ip_address`, `ip_type`) VALUES ('104.28.34.24/32', 'IPv4');
+INSERT INTO `apple_private_relay_cd-kn_ips` (`ip_address`, `ip_type`) VALUES ('104.28.34.25/32', 'IPv4');
+INSERT INTO `apple_private_relay_cd-kn_ips` (`ip_address`, `ip_type`) VALUES ('104.28.34.26/32', 'IPv4');
+INSERT INTO `apple_private_relay_cd-kn_ips` (`ip_address`, `ip_type`) VALUES ('104.28.34.27/32', 'IPv4');
+INSERT INTO `apple_private_relay_cd-kn_ips` (`ip_address`, `ip_type`) VALUES ('104.28.34.28/32', 'IPv4');
+INSERT INTO `apple_private_relay_cd-kn_ips` (`ip_address`, `ip_type`) VALUES ('104.28.34.29/32', 'IPv4');
+INSERT INTO `apple_private_relay_cd-kn_ips` (`ip_address`, `ip_type`) VALUES ('104.28.46.19/32', 'IPv4');
+INSERT INTO `apple_private_relay_cd-kn_ips` (`ip_address`, `ip_type`) VALUES ('104.28.46.20/32', 'IPv4');
+INSERT INTO `apple_private_relay_cd-kn_ips` (`ip_address`, `ip_type`) VALUES ('104.28.46.21/32', 'IPv4');
+INSERT INTO `apple_private_relay_cd-kn_ips` (`ip_address`, `ip_type`) VALUES ('104.28.46.22/32', 'IPv4');
+INSERT INTO `apple_private_relay_cd-kn_ips` (`ip_address`, `ip_type`) VALUES ('104.28.46.23/32', 'IPv4');
+INSERT INTO `apple_private_relay_cd-kn_ips` (`ip_address`, `ip_type`) VALUES ('104.28.46.24/32', 'IPv4');
+INSERT INTO `apple_private_relay_cd-kn_ips` (`ip_address`, `ip_type`) VALUES ('104.28.46.25/32', 'IPv4');
+INSERT INTO `apple_private_relay_cd-kn_ips` (`ip_address`, `ip_type`) VALUES ('104.28.60.29/32', 'IPv4');
+INSERT INTO `apple_private_relay_cd-kn_ips` (`ip_address`, `ip_type`) VALUES ('104.28.60.30/32', 'IPv4');
+INSERT INTO `apple_private_relay_cd-kn_ips` (`ip_address`, `ip_type`) VALUES ('104.28.60.31/32', 'IPv4');
+INSERT INTO `apple_private_relay_cd-kn_ips` (`ip_address`, `ip_type`) VALUES ('104.28.60.32/32', 'IPv4');
+INSERT INTO `apple_private_relay_cd-kn_ips` (`ip_address`, `ip_type`) VALUES ('104.28.60.33/32', 'IPv4');
+INSERT INTO `apple_private_relay_cd-kn_ips` (`ip_address`, `ip_type`) VALUES ('104.28.60.34/32', 'IPv4');
+INSERT INTO `apple_private_relay_cd-kn_ips` (`ip_address`, `ip_type`) VALUES ('104.28.60.35/32', 'IPv4');
+INSERT INTO `apple_private_relay_cd-kn_ips` (`ip_address`, `ip_type`) VALUES ('104.28.80.35/32', 'IPv4');
+INSERT INTO `apple_private_relay_cd-kn_ips` (`ip_address`, `ip_type`) VALUES ('104.28.80.36/32', 'IPv4');
+INSERT INTO `apple_private_relay_cd-kn_ips` (`ip_address`, `ip_type`) VALUES ('104.28.80.37/32', 'IPv4');
+INSERT INTO `apple_private_relay_cd-kn_ips` (`ip_address`, `ip_type`) VALUES ('104.28.80.38/32', 'IPv4');
+INSERT INTO `apple_private_relay_cd-kn_ips` (`ip_address`, `ip_type`) VALUES ('104.28.80.39/32', 'IPv4');
+INSERT INTO `apple_private_relay_cd-kn_ips` (`ip_address`, `ip_type`) VALUES ('104.28.80.40/32', 'IPv4');
+INSERT INTO `apple_private_relay_cd-kn_ips` (`ip_address`, `ip_type`) VALUES ('104.28.80.41/32', 'IPv4');
+INSERT INTO `apple_private_relay_cd-kn_ips` (`ip_address`, `ip_type`) VALUES ('104.28.82.23/32', 'IPv4');
+INSERT INTO `apple_private_relay_cd-kn_ips` (`ip_address`, `ip_type`) VALUES ('104.28.82.24/32', 'IPv4');
+INSERT INTO `apple_private_relay_cd-kn_ips` (`ip_address`, `ip_type`) VALUES ('104.28.82.25/32', 'IPv4');
+INSERT INTO `apple_private_relay_cd-kn_ips` (`ip_address`, `ip_type`) VALUES ('104.28.82.26/32', 'IPv4');
+INSERT INTO `apple_private_relay_cd-kn_ips` (`ip_address`, `ip_type`) VALUES ('104.28.82.27/32', 'IPv4');
+INSERT INTO `apple_private_relay_cd-kn_ips` (`ip_address`, `ip_type`) VALUES ('104.28.82.28/32', 'IPv4');
+INSERT INTO `apple_private_relay_cd-kn_ips` (`ip_address`, `ip_type`) VALUES ('104.28.82.29/32', 'IPv4');
+INSERT INTO `apple_private_relay_cd-kn_ips` (`ip_address`, `ip_type`) VALUES ('104.28.140.129/32', 'IPv4');
+INSERT INTO `apple_private_relay_cd-kn_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:1d48::/45', 'IPv6');
+INSERT INTO `apple_private_relay_cd-kn_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:b59::/64', 'IPv6');
+INSERT INTO `apple_private_relay_cd-kn_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:1d48::/45', 'IPv6');
+INSERT INTO `apple_private_relay_cd-kn_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:1d48::/45', 'IPv6');

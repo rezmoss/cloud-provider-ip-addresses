@@ -1,0 +1,4 @@
+ip_address,ip_type,region
+64.176.176.0/20,IPv4,GB-GB-MAN
+66.245.192.0/21,IPv4,GB-GB-MAN
+2a05:f480:3400::/38,IPv6,GB-GB-MAN

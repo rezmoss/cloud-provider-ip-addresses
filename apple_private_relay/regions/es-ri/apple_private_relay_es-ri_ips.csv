@@ -1,0 +1,13 @@
+ip_address,ip_type,region
+2a02:26f7:ef00:592f::/64,IPv6,ES-RI
+2a02:26f7:ef00:598e::/64,IPv6,ES-RI
+2a02:26f7:ef02:592f::/64,IPv6,ES-RI
+2a02:26f7:ef02:598e::/64,IPv6,ES-RI
+2a02:26f7:ef04:592f::/64,IPv6,ES-RI
+2a02:26f7:ef04:598e::/64,IPv6,ES-RI
+2a02:26f7:ef0c:592f::/64,IPv6,ES-RI
+2a02:26f7:ef0c:598e::/64,IPv6,ES-RI
+2a02:26f7:ef10:592f::/64,IPv6,ES-RI
+2a02:26f7:ef10:598e::/64,IPv6,ES-RI
+2a02:26f7:ef14:592f::/64,IPv6,ES-RI
+2a02:26f7:ef14:598e::/64,IPv6,ES-RI

@@ -1,0 +1,46 @@
+-- SQL script to create table `apple_private_relay_sd-kh_ips` and insert IP addresses
+
+CREATE TABLE IF NOT EXISTS `apple_private_relay_sd-kh_ips` (
+  `ip_address` VARCHAR(45) NOT NULL,
+  `ip_type` VARCHAR(10) NOT NULL,
+  PRIMARY KEY (`ip_address`)
+);
+
+INSERT INTO `apple_private_relay_sd-kh_ips` (`ip_address`, `ip_type`) VALUES ('104.28.60.203/32', 'IPv4');
+INSERT INTO `apple_private_relay_sd-kh_ips` (`ip_address`, `ip_type`) VALUES ('104.28.60.204/32', 'IPv4');
+INSERT INTO `apple_private_relay_sd-kh_ips` (`ip_address`, `ip_type`) VALUES ('104.28.60.205/32', 'IPv4');
+INSERT INTO `apple_private_relay_sd-kh_ips` (`ip_address`, `ip_type`) VALUES ('104.28.60.206/32', 'IPv4');
+INSERT INTO `apple_private_relay_sd-kh_ips` (`ip_address`, `ip_type`) VALUES ('104.28.60.207/32', 'IPv4');
+INSERT INTO `apple_private_relay_sd-kh_ips` (`ip_address`, `ip_type`) VALUES ('104.28.60.208/32', 'IPv4');
+INSERT INTO `apple_private_relay_sd-kh_ips` (`ip_address`, `ip_type`) VALUES ('104.28.80.244/32', 'IPv4');
+INSERT INTO `apple_private_relay_sd-kh_ips` (`ip_address`, `ip_type`) VALUES ('104.28.80.245/32', 'IPv4');
+INSERT INTO `apple_private_relay_sd-kh_ips` (`ip_address`, `ip_type`) VALUES ('104.28.80.246/32', 'IPv4');
+INSERT INTO `apple_private_relay_sd-kh_ips` (`ip_address`, `ip_type`) VALUES ('104.28.80.247/32', 'IPv4');
+INSERT INTO `apple_private_relay_sd-kh_ips` (`ip_address`, `ip_type`) VALUES ('104.28.80.248/32', 'IPv4');
+INSERT INTO `apple_private_relay_sd-kh_ips` (`ip_address`, `ip_type`) VALUES ('104.28.80.249/32', 'IPv4');
+INSERT INTO `apple_private_relay_sd-kh_ips` (`ip_address`, `ip_type`) VALUES ('104.28.98.95/32', 'IPv4');
+INSERT INTO `apple_private_relay_sd-kh_ips` (`ip_address`, `ip_type`) VALUES ('104.28.98.96/32', 'IPv4');
+INSERT INTO `apple_private_relay_sd-kh_ips` (`ip_address`, `ip_type`) VALUES ('104.28.98.97/32', 'IPv4');
+INSERT INTO `apple_private_relay_sd-kh_ips` (`ip_address`, `ip_type`) VALUES ('104.28.98.98/32', 'IPv4');
+INSERT INTO `apple_private_relay_sd-kh_ips` (`ip_address`, `ip_type`) VALUES ('104.28.98.99/32', 'IPv4');
+INSERT INTO `apple_private_relay_sd-kh_ips` (`ip_address`, `ip_type`) VALUES ('104.28.98.100/32', 'IPv4');
+INSERT INTO `apple_private_relay_sd-kh_ips` (`ip_address`, `ip_type`) VALUES ('104.28.106.205/32', 'IPv4');
+INSERT INTO `apple_private_relay_sd-kh_ips` (`ip_address`, `ip_type`) VALUES ('104.28.106.206/32', 'IPv4');
+INSERT INTO `apple_private_relay_sd-kh_ips` (`ip_address`, `ip_type`) VALUES ('104.28.106.207/32', 'IPv4');
+INSERT INTO `apple_private_relay_sd-kh_ips` (`ip_address`, `ip_type`) VALUES ('104.28.106.208/32', 'IPv4');
+INSERT INTO `apple_private_relay_sd-kh_ips` (`ip_address`, `ip_type`) VALUES ('104.28.106.209/32', 'IPv4');
+INSERT INTO `apple_private_relay_sd-kh_ips` (`ip_address`, `ip_type`) VALUES ('104.28.106.210/32', 'IPv4');
+INSERT INTO `apple_private_relay_sd-kh_ips` (`ip_address`, `ip_type`) VALUES ('104.28.130.140/32', 'IPv4');
+INSERT INTO `apple_private_relay_sd-kh_ips` (`ip_address`, `ip_type`) VALUES ('104.28.130.141/32', 'IPv4');
+INSERT INTO `apple_private_relay_sd-kh_ips` (`ip_address`, `ip_type`) VALUES ('104.28.130.142/32', 'IPv4');
+INSERT INTO `apple_private_relay_sd-kh_ips` (`ip_address`, `ip_type`) VALUES ('104.28.130.143/32', 'IPv4');
+INSERT INTO `apple_private_relay_sd-kh_ips` (`ip_address`, `ip_type`) VALUES ('104.28.130.144/32', 'IPv4');
+INSERT INTO `apple_private_relay_sd-kh_ips` (`ip_address`, `ip_type`) VALUES ('104.28.130.145/32', 'IPv4');
+INSERT INTO `apple_private_relay_sd-kh_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:5160::/45', 'IPv6');
+INSERT INTO `apple_private_relay_sd-kh_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:5168::/45', 'IPv6');
+INSERT INTO `apple_private_relay_sd-kh_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:99b::/64', 'IPv6');
+INSERT INTO `apple_private_relay_sd-kh_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:1084::/64', 'IPv6');
+INSERT INTO `apple_private_relay_sd-kh_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:5160::/45', 'IPv6');
+INSERT INTO `apple_private_relay_sd-kh_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:5168::/45', 'IPv6');
+INSERT INTO `apple_private_relay_sd-kh_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:5160::/45', 'IPv6');
+INSERT INTO `apple_private_relay_sd-kh_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:5168::/45', 'IPv6');

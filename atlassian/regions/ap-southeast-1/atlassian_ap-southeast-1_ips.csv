@@ -1,0 +1,17 @@
+ip_address,ip_type,service,region
+104.192.137.224/28,IPv4,rovo-crawler,ap-southeast-1
+2401:1d80:3204:4::/64,IPv6,"bitbucket,confluence,forge,halp,jira,opsgenie,statuspage,trello",ap-southeast-1
+2401:1d80:3204:3::/64,IPv6,"bitbucket,confluence,forge,halp,jira,opsgenie,statuspage,trello",ap-southeast-1
+2401:1d80:3204:5::/64,IPv6,"bitbucket,confluence,forge,halp,jira,opsgenie,statuspage,trello",ap-southeast-1
+104.192.137.240/28,IPv4,"bitbucket,confluence,forge,halp,jira,opsgenie,statuspage,trello",ap-southeast-1
+18.136.214.96/28,IPv4,"bitbucket,confluence,forge,halp,jira,opsgenie,statuspage,trello",ap-southeast-1
+2406:da18:809:e04::/64,IPv6,"bitbucket,confluence,forge,halp,jira,opsgenie,statuspage,trello",ap-southeast-1
+2406:da18:809:e05::/64,IPv6,"bitbucket,confluence,forge,halp,jira,opsgenie,statuspage,trello",ap-southeast-1
+2406:da18:809:e06::/64,IPv6,"bitbucket,confluence,forge,halp,jira,opsgenie,statuspage,trello",ap-southeast-1
+104.192.137.0/24,IPv4,"bitbucket,confluence,forge,halp,jira,opsgenie,statuspage,trello",ap-southeast-1
+18.142.175.136/32,IPv4,forge,ap-southeast-1
+54.254.13.217/32,IPv4,forge,ap-southeast-1
+52.220.108.50/32,IPv4,forge,ap-southeast-1
+54.255.41.156/32,IPv4,forge,ap-southeast-1
+52.77.196.9/32,IPv4,forge,ap-southeast-1
+18.143.11.169/32,IPv4,forge,ap-southeast-1

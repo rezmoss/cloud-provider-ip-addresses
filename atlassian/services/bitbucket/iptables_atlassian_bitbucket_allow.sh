@@ -1,0 +1,36 @@
+#!/bin/bash
+# Atlassian IP Ranges
+# Updated: 2026-02-11 17:28:52
+# Source: https://github.com/rezmoss/cloud-provider-ip-addresses
+# License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
+# This file is generated automatically. Do not edit it directly.
+# Updates daily at 00:00 UTC
+# iptables allow rules for atlassian
+
+iptables -A INPUT -s 34.218.156.209/32 -j ACCEPT
+iptables -A INPUT -s 34.218.168.212/32 -j ACCEPT
+iptables -A INPUT -s 52.41.219.63/32 -j ACCEPT
+iptables -A INPUT -s 3.216.235.48/32 -j ACCEPT
+iptables -A INPUT -s 34.231.96.243/32 -j ACCEPT
+iptables -A INPUT -s 44.199.3.254/32 -j ACCEPT
+iptables -A INPUT -s 174.129.205.191/32 -j ACCEPT
+iptables -A INPUT -s 44.199.127.226/32 -j ACCEPT
+iptables -A INPUT -s 44.199.45.64/32 -j ACCEPT
+iptables -A INPUT -s 3.221.151.112/32 -j ACCEPT
+iptables -A INPUT -s 52.205.184.192/32 -j ACCEPT
+iptables -A INPUT -s 52.72.137.240/32 -j ACCEPT
+iptables -A INPUT -s 34.232.119.183/32 -j ACCEPT
+iptables -A INPUT -s 35.155.178.254/32 -j ACCEPT
+iptables -A INPUT -s 34.216.18.129/32 -j ACCEPT
+iptables -A INPUT -s 35.171.175.212/32 -j ACCEPT
+iptables -A INPUT -s 35.160.177.10/32 -j ACCEPT
+iptables -A INPUT -s 34.199.54.113/32 -j ACCEPT
+iptables -A INPUT -s 52.204.96.37/32 -j ACCEPT
+iptables -A INPUT -s 34.232.25.90/32 -j ACCEPT
+iptables -A INPUT -s 52.202.195.162/32 -j ACCEPT
+iptables -A INPUT -s 52.54.90.98/32 -j ACCEPT
+iptables -A INPUT -s 52.203.14.55/32 -j ACCEPT
+iptables -A INPUT -s 34.236.25.177/32 -j ACCEPT
+iptables -A INPUT -s 34.233.65.54/32 -j ACCEPT
+iptables -A INPUT -s 34.196.8.197/32 -j ACCEPT
+iptables -A INPUT -s 44.194.7.14/32 -j ACCEPT

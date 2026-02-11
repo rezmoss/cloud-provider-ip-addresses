@@ -1,0 +1,62 @@
+[
+  {
+    "ip_address": "104.28.37.46/32",
+    "ip_type": "IPv4",
+    "region": "KM-G"
+  },
+  {
+    "ip_address": "104.28.37.47/32",
+    "ip_type": "IPv4",
+    "region": "KM-G"
+  },
+  {
+    "ip_address": "104.28.46.13/32",
+    "ip_type": "IPv4",
+    "region": "KM-G"
+  },
+  {
+    "ip_address": "104.28.46.14/32",
+    "ip_type": "IPv4",
+    "region": "KM-G"
+  },
+  {
+    "ip_address": "104.28.80.31/32",
+    "ip_type": "IPv4",
+    "region": "KM-G"
+  },
+  {
+    "ip_address": "104.28.80.32/32",
+    "ip_type": "IPv4",
+    "region": "KM-G"
+  },
+  {
+    "ip_address": "104.28.82.17/32",
+    "ip_type": "IPv4",
+    "region": "KM-G"
+  },
+  {
+    "ip_address": "104.28.82.18/32",
+    "ip_type": "IPv4",
+    "region": "KM-G"
+  },
+  {
+    "ip_address": "2606:54c0:4668::/45",
+    "ip_type": "IPv6",
+    "region": "KM-G"
+  },
+  {
+    "ip_address": "2606:54c3:0:255::/64",
+    "ip_type": "IPv6",
+    "region": "KM-G"
+  },
+  {
+    "ip_address": "2a09:bac2:4668::/45",
+    "ip_type": "IPv6",
+    "region": "KM-G"
+  },
+  {
+    "ip_address": "2a09:bac3:4668::/45",
+    "ip_type": "IPv6",
+    "region": "KM-G"
+  }
+]

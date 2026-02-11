@@ -1,0 +1,72 @@
+[
+  {
+    "ip_address": "104.28.47.206/32",
+    "ip_type": "IPv4",
+    "region": "CL-AN"
+  },
+  {
+    "ip_address": "104.28.47.207/32",
+    "ip_type": "IPv4",
+    "region": "CL-AN"
+  },
+  {
+    "ip_address": "104.28.59.136/32",
+    "ip_type": "IPv4",
+    "region": "CL-AN"
+  },
+  {
+    "ip_address": "104.28.59.137/32",
+    "ip_type": "IPv4",
+    "region": "CL-AN"
+  },
+  {
+    "ip_address": "104.28.63.203/32",
+    "ip_type": "IPv4",
+    "region": "CL-AN"
+  },
+  {
+    "ip_address": "104.28.63.204/32",
+    "ip_type": "IPv4",
+    "region": "CL-AN"
+  },
+  {
+    "ip_address": "104.28.113.194/32",
+    "ip_type": "IPv4",
+    "region": "CL-AN"
+  },
+  {
+    "ip_address": "104.28.113.195/32",
+    "ip_type": "IPv4",
+    "region": "CL-AN"
+  },
+  {
+    "ip_address": "104.28.115.58/32",
+    "ip_type": "IPv4",
+    "region": "CL-AN"
+  },
+  {
+    "ip_address": "104.28.115.59/32",
+    "ip_type": "IPv4",
+    "region": "CL-AN"
+  },
+  {
+    "ip_address": "2606:54c0:1e78::/45",
+    "ip_type": "IPv6",
+    "region": "CL-AN"
+  },
+  {
+    "ip_address": "2606:54c3:0:777::/64",
+    "ip_type": "IPv6",
+    "region": "CL-AN"
+  },
+  {
+    "ip_address": "2a09:bac2:1e78::/45",
+    "ip_type": "IPv6",
+    "region": "CL-AN"
+  },
+  {
+    "ip_address": "2a09:bac3:1e78::/45",
+    "ip_type": "IPv6",
+    "region": "CL-AN"
+  }
+]

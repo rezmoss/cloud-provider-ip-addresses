@@ -1,0 +1,127 @@
+[
+  {
+    "ip_address": "104.28.67.248/32",
+    "ip_type": "IPv4",
+    "region": "KR-28"
+  },
+  {
+    "ip_address": "104.28.67.249/32",
+    "ip_type": "IPv4",
+    "region": "KR-28"
+  },
+  {
+    "ip_address": "104.28.67.250/32",
+    "ip_type": "IPv4",
+    "region": "KR-28"
+  },
+  {
+    "ip_address": "104.28.70.248/32",
+    "ip_type": "IPv4",
+    "region": "KR-28"
+  },
+  {
+    "ip_address": "104.28.70.249/32",
+    "ip_type": "IPv4",
+    "region": "KR-28"
+  },
+  {
+    "ip_address": "104.28.70.250/32",
+    "ip_type": "IPv4",
+    "region": "KR-28"
+  },
+  {
+    "ip_address": "104.28.84.18/32",
+    "ip_type": "IPv4",
+    "region": "KR-28"
+  },
+  {
+    "ip_address": "104.28.84.19/32",
+    "ip_type": "IPv4",
+    "region": "KR-28"
+  },
+  {
+    "ip_address": "104.28.84.20/32",
+    "ip_type": "IPv4",
+    "region": "KR-28"
+  },
+  {
+    "ip_address": "104.28.100.14/32",
+    "ip_type": "IPv4",
+    "region": "KR-28"
+  },
+  {
+    "ip_address": "104.28.100.15/32",
+    "ip_type": "IPv4",
+    "region": "KR-28"
+  },
+  {
+    "ip_address": "104.28.100.16/32",
+    "ip_type": "IPv4",
+    "region": "KR-28"
+  },
+  {
+    "ip_address": "104.28.102.14/32",
+    "ip_type": "IPv4",
+    "region": "KR-28"
+  },
+  {
+    "ip_address": "104.28.102.15/32",
+    "ip_type": "IPv4",
+    "region": "KR-28"
+  },
+  {
+    "ip_address": "104.28.102.16/32",
+    "ip_type": "IPv4",
+    "region": "KR-28"
+  },
+  {
+    "ip_address": "104.28.118.242/32",
+    "ip_type": "IPv4",
+    "region": "KR-28"
+  },
+  {
+    "ip_address": "104.28.118.243/32",
+    "ip_type": "IPv4",
+    "region": "KR-28"
+  },
+  {
+    "ip_address": "104.28.118.244/32",
+    "ip_type": "IPv4",
+    "region": "KR-28"
+  },
+  {
+    "ip_address": "104.28.121.242/32",
+    "ip_type": "IPv4",
+    "region": "KR-28"
+  },
+  {
+    "ip_address": "104.28.121.243/32",
+    "ip_type": "IPv4",
+    "region": "KR-28"
+  },
+  {
+    "ip_address": "104.28.121.244/32",
+    "ip_type": "IPv4",
+    "region": "KR-28"
+  },
+  {
+    "ip_address": "2606:54c0:46a8::/45",
+    "ip_type": "IPv6",
+    "region": "KR-28"
+  },
+  {
+    "ip_address": "2606:54c3:0:579::/64",
+    "ip_type": "IPv6",
+    "region": "KR-28"
+  },
+  {
+    "ip_address": "2a09:bac2:46a8::/45",
+    "ip_type": "IPv6",
+    "region": "KR-28"
+  },
+  {
+    "ip_address": "2a09:bac3:46a8::/45",
+    "ip_type": "IPv6",
+    "region": "KR-28"
+  }
+]

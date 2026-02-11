@@ -1,0 +1,102 @@
+[
+  {
+    "ip_address": "172.225.62.224/27",
+    "ip_type": "IPv4",
+    "region": "VU"
+  },
+  {
+    "ip_address": "172.225.231.112/28",
+    "ip_type": "IPv4",
+    "region": "VU"
+  },
+  {
+    "ip_address": "172.225.245.48/28",
+    "ip_type": "IPv4",
+    "region": "VU"
+  },
+  {
+    "ip_address": "2a02:26f7:f200:4000::/64",
+    "ip_type": "IPv6",
+    "region": "VU"
+  },
+  {
+    "ip_address": "2a02:26f7:f200:c940::/64",
+    "ip_type": "IPv6",
+    "region": "VU"
+  },
+  {
+    "ip_address": "2a02:26f7:f201:4000::/64",
+    "ip_type": "IPv6",
+    "region": "VU"
+  },
+  {
+    "ip_address": "2a02:26f7:f204:4000::/64",
+    "ip_type": "IPv6",
+    "region": "VU"
+  },
+  {
+    "ip_address": "2a02:26f7:f204:c940::/64",
+    "ip_type": "IPv6",
+    "region": "VU"
+  },
+  {
+    "ip_address": "2a02:26f7:f205:4000::/64",
+    "ip_type": "IPv6",
+    "region": "VU"
+  },
+  {
+    "ip_address": "2a02:26f7:f208:4000::/64",
+    "ip_type": "IPv6",
+    "region": "VU"
+  },
+  {
+    "ip_address": "2a02:26f7:f208:c940::/64",
+    "ip_type": "IPv6",
+    "region": "VU"
+  },
+  {
+    "ip_address": "2a02:26f7:f209:4000::/64",
+    "ip_type": "IPv6",
+    "region": "VU"
+  },
+  {
+    "ip_address": "2a04:4e41:303::/48",
+    "ip_type": "IPv6",
+    "region": "VU"
+  },
+  {
+    "ip_address": "2a04:4e41:5e2d::/48",
+    "ip_type": "IPv6",
+    "region": "VU"
+  },
+  {
+    "ip_address": "2a04:4e41:680c::/48",
+    "ip_type": "IPv6",
+    "region": "VU"
+  },
+  {
+    "ip_address": "2a04:4e41:762d::/48",
+    "ip_type": "IPv6",
+    "region": "VU"
+  },
+  {
+    "ip_address": "146.75.132.172/31",
+    "ip_type": "IPv4",
+    "region": "VU"
+  },
+  {
+    "ip_address": "146.75.160.172/31",
+    "ip_type": "IPv4",
+    "region": "VU"
+  },
+  {
+    "ip_address": "146.75.190.30/31",
+    "ip_type": "IPv4",
+    "region": "VU"
+  },
+  {
+    "ip_address": "146.75.213.4/31",
+    "ip_type": "IPv4",
+    "region": "VU"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "ip_address": "2a02:26f7:ef00:59c3::/64",
+    "ip_type": "IPv6",
+    "region": "ES-NC"
+  },
+  {
+    "ip_address": "2a02:26f7:ef00:5a13::/64",
+    "ip_type": "IPv6",
+    "region": "ES-NC"
+  },
+  {
+    "ip_address": "2a02:26f7:ef02:59c3::/64",
+    "ip_type": "IPv6",
+    "region": "ES-NC"
+  },
+  {
+    "ip_address": "2a02:26f7:ef02:5a13::/64",
+    "ip_type": "IPv6",
+    "region": "ES-NC"
+  },
+  {
+    "ip_address": "2a02:26f7:ef04:59c3::/64",
+    "ip_type": "IPv6",
+    "region": "ES-NC"
+  },
+  {
+    "ip_address": "2a02:26f7:ef04:5a13::/64",
+    "ip_type": "IPv6",
+    "region": "ES-NC"
+  },
+  {
+    "ip_address": "2a02:26f7:ef0c:59c3::/64",
+    "ip_type": "IPv6",
+    "region": "ES-NC"
+  },
+  {
+    "ip_address": "2a02:26f7:ef0c:5a13::/64",
+    "ip_type": "IPv6",
+    "region": "ES-NC"
+  },
+  {
+    "ip_address": "2a02:26f7:ef10:59c3::/64",
+    "ip_type": "IPv6",
+    "region": "ES-NC"
+  },
+  {
+    "ip_address": "2a02:26f7:ef10:5a13::/64",
+    "ip_type": "IPv6",
+    "region": "ES-NC"
+  },
+  {
+    "ip_address": "2a02:26f7:ef14:59c3::/64",
+    "ip_type": "IPv6",
+    "region": "ES-NC"
+  },
+  {
+    "ip_address": "2a02:26f7:ef14:5a13::/64",
+    "ip_type": "IPv6",
+    "region": "ES-NC"
+  }
+]

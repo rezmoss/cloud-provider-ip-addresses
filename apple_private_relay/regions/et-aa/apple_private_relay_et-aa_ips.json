@@ -1,0 +1,67 @@
+[
+  {
+    "ip_address": "104.28.37.52/32",
+    "ip_type": "IPv4",
+    "region": "ET-AA"
+  },
+  {
+    "ip_address": "104.28.37.53/32",
+    "ip_type": "IPv4",
+    "region": "ET-AA"
+  },
+  {
+    "ip_address": "104.28.80.52/32",
+    "ip_type": "IPv4",
+    "region": "ET-AA"
+  },
+  {
+    "ip_address": "104.28.80.53/32",
+    "ip_type": "IPv4",
+    "region": "ET-AA"
+  },
+  {
+    "ip_address": "104.28.82.40/32",
+    "ip_type": "IPv4",
+    "region": "ET-AA"
+  },
+  {
+    "ip_address": "104.28.82.41/32",
+    "ip_type": "IPv4",
+    "region": "ET-AA"
+  },
+  {
+    "ip_address": "104.28.106.41/32",
+    "ip_type": "IPv4",
+    "region": "ET-AA"
+  },
+  {
+    "ip_address": "104.28.106.42/32",
+    "ip_type": "IPv4",
+    "region": "ET-AA"
+  },
+  {
+    "ip_address": "104.28.151.96/32",
+    "ip_type": "IPv4",
+    "region": "ET-AA"
+  },
+  {
+    "ip_address": "2606:54c0:3150::/45",
+    "ip_type": "IPv6",
+    "region": "ET-AA"
+  },
+  {
+    "ip_address": "2606:54c3:0:33c::/64",
+    "ip_type": "IPv6",
+    "region": "ET-AA"
+  },
+  {
+    "ip_address": "2a09:bac2:3150::/45",
+    "ip_type": "IPv6",
+    "region": "ET-AA"
+  },
+  {
+    "ip_address": "2a09:bac3:3150::/45",
+    "ip_type": "IPv6",
+    "region": "ET-AA"
+  }
+]

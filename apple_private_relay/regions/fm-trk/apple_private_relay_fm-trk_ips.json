@@ -1,0 +1,47 @@
+[
+  {
+    "ip_address": "104.28.66.18/32",
+    "ip_type": "IPv4",
+    "region": "FM-TRK"
+  },
+  {
+    "ip_address": "104.28.66.19/32",
+    "ip_type": "IPv4",
+    "region": "FM-TRK"
+  },
+  {
+    "ip_address": "104.28.66.20/32",
+    "ip_type": "IPv4",
+    "region": "FM-TRK"
+  },
+  {
+    "ip_address": "104.28.117.11/32",
+    "ip_type": "IPv4",
+    "region": "FM-TRK"
+  },
+  {
+    "ip_address": "104.28.117.12/32",
+    "ip_type": "IPv4",
+    "region": "FM-TRK"
+  },
+  {
+    "ip_address": "2606:54c0:3190::/45",
+    "ip_type": "IPv6",
+    "region": "FM-TRK"
+  },
+  {
+    "ip_address": "2606:54c3:0:a70::/64",
+    "ip_type": "IPv6",
+    "region": "FM-TRK"
+  },
+  {
+    "ip_address": "2a09:bac2:3190::/45",
+    "ip_type": "IPv6",
+    "region": "FM-TRK"
+  },
+  {
+    "ip_address": "2a09:bac3:3190::/45",
+    "ip_type": "IPv6",
+    "region": "FM-TRK"
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "ip_address": "172.224.230.208/28",
+    "ip_type": "IPv4",
+    "region": "MW"
+  },
+  {
+    "ip_address": "172.225.136.224/28",
+    "ip_type": "IPv4",
+    "region": "MW"
+  },
+  {
+    "ip_address": "172.225.221.64/28",
+    "ip_type": "IPv4",
+    "region": "MW"
+  },
+  {
+    "ip_address": "2a02:26f7:d480:4000::/64",
+    "ip_type": "IPv6",
+    "region": "MW"
+  },
+  {
+    "ip_address": "2a02:26f7:d480:cba0::/64",
+    "ip_type": "IPv6",
+    "region": "MW"
+  },
+  {
+    "ip_address": "2a02:26f7:d480:cba1::/64",
+    "ip_type": "IPv6",
+    "region": "MW"
+  },
+  {
+    "ip_address": "2a02:26f7:d481:4000::/64",
+    "ip_type": "IPv6",
+    "region": "MW"
+  },
+  {
+    "ip_address": "2a02:26f7:d488:4000::/64",
+    "ip_type": "IPv6",
+    "region": "MW"
+  },
+  {
+    "ip_address": "2a02:26f7:d488:cba0::/64",
+    "ip_type": "IPv6",
+    "region": "MW"
+  },
+  {
+    "ip_address": "2a02:26f7:d488:cba1::/64",
+    "ip_type": "IPv6",
+    "region": "MW"
+  },
+  {
+    "ip_address": "2a02:26f7:d489:4000::/64",
+    "ip_type": "IPv6",
+    "region": "MW"
+  },
+  {
+    "ip_address": "2a02:26f7:d48c:4000::/64",
+    "ip_type": "IPv6",
+    "region": "MW"
+  },
+  {
+    "ip_address": "2a02:26f7:d48c:cba0::/64",
+    "ip_type": "IPv6",
+    "region": "MW"
+  },
+  {
+    "ip_address": "2a02:26f7:d48c:cba1::/64",
+    "ip_type": "IPv6",
+    "region": "MW"
+  },
+  {
+    "ip_address": "2a02:26f7:d48d:4000::/64",
+    "ip_type": "IPv6",
+    "region": "MW"
+  },
+  {
+    "ip_address": "2a04:4e41:12c9::/48",
+    "ip_type": "IPv6",
+    "region": "MW"
+  },
+  {
+    "ip_address": "2a04:4e41:1320::/48",
+    "ip_type": "IPv6",
+    "region": "MW"
+  },
+  {
+    "ip_address": "2a04:4e41:1616::/48",
+    "ip_type": "IPv6",
+    "region": "MW"
+  },
+  {
+    "ip_address": "2a04:4e41:7416::/48",
+    "ip_type": "IPv6",
+    "region": "MW"
+  },
+  {
+    "ip_address": "140.248.40.162/31",
+    "ip_type": "IPv4",
+    "region": "MW"
+  },
+  {
+    "ip_address": "146.75.168.146/31",
+    "ip_type": "IPv4",
+    "region": "MW"
+  },
+  {
+    "ip_address": "146.75.185.146/31",
+    "ip_type": "IPv4",
+    "region": "MW"
+  },
+  {
+    "ip_address": "146.75.198.18/31",
+    "ip_type": "IPv4",
+    "region": "MW"
+  }
+]

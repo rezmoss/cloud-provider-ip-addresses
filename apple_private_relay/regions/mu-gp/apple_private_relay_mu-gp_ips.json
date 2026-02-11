@@ -1,0 +1,32 @@
+[
+  {
+    "ip_address": "104.28.146.148/32",
+    "ip_type": "IPv4",
+    "region": "MU-GP"
+  },
+  {
+    "ip_address": "104.28.150.114/32",
+    "ip_type": "IPv4",
+    "region": "MU-GP"
+  },
+  {
+    "ip_address": "2606:54c0:48d8::/45",
+    "ip_type": "IPv6",
+    "region": "MU-GP"
+  },
+  {
+    "ip_address": "2606:54c3:0:ab::/64",
+    "ip_type": "IPv6",
+    "region": "MU-GP"
+  },
+  {
+    "ip_address": "2a09:bac2:48d8::/45",
+    "ip_type": "IPv6",
+    "region": "MU-GP"
+  },
+  {
+    "ip_address": "2a09:bac3:48d8::/45",
+    "ip_type": "IPv6",
+    "region": "MU-GP"
+  }
+]

@@ -1,0 +1,6 @@
+ip_address,ip_type,service
+8.5.128.0/24,IPv4,zoom-phone
+115.117.119.96/27,IPv4,zoom-phone
+121.244.203.192/27,IPv4,zoom-phone
+173.231.92.0/24,IPv4,zoom-phone
+173.231.94.0/24,IPv4,zoom-phone

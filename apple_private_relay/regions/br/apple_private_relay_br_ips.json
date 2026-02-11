@@ -1,0 +1,257 @@
+[
+  {
+    "ip_address": "104.28.144.30/32",
+    "ip_type": "IPv4",
+    "region": "BR"
+  },
+  {
+    "ip_address": "2606:54c0:558::/45",
+    "ip_type": "IPv6",
+    "region": "BR"
+  },
+  {
+    "ip_address": "2606:54c0:560::/45",
+    "ip_type": "IPv6",
+    "region": "BR"
+  },
+  {
+    "ip_address": "2606:54c0:568::/45",
+    "ip_type": "IPv6",
+    "region": "BR"
+  },
+  {
+    "ip_address": "2606:54c0:570::/45",
+    "ip_type": "IPv6",
+    "region": "BR"
+  },
+  {
+    "ip_address": "2606:54c0:578::/45",
+    "ip_type": "IPv6",
+    "region": "BR"
+  },
+  {
+    "ip_address": "2606:54c0:580::/45",
+    "ip_type": "IPv6",
+    "region": "BR"
+  },
+  {
+    "ip_address": "2606:54c0:588::/45",
+    "ip_type": "IPv6",
+    "region": "BR"
+  },
+  {
+    "ip_address": "2606:54c0:590::/45",
+    "ip_type": "IPv6",
+    "region": "BR"
+  },
+  {
+    "ip_address": "2606:54c0:598::/45",
+    "ip_type": "IPv6",
+    "region": "BR"
+  },
+  {
+    "ip_address": "2606:54c0:5a0::/45",
+    "ip_type": "IPv6",
+    "region": "BR"
+  },
+  {
+    "ip_address": "2606:54c3:0:78::/64",
+    "ip_type": "IPv6",
+    "region": "BR"
+  },
+  {
+    "ip_address": "2606:54c3:0:46d::/64",
+    "ip_type": "IPv6",
+    "region": "BR"
+  },
+  {
+    "ip_address": "2606:54c3:0:56b::/64",
+    "ip_type": "IPv6",
+    "region": "BR"
+  },
+  {
+    "ip_address": "2606:54c3:0:68b::/64",
+    "ip_type": "IPv6",
+    "region": "BR"
+  },
+  {
+    "ip_address": "2606:54c3:0:f5a::/64",
+    "ip_type": "IPv6",
+    "region": "BR"
+  },
+  {
+    "ip_address": "2606:54c3:0:13f7::/64",
+    "ip_type": "IPv6",
+    "region": "BR"
+  },
+  {
+    "ip_address": "2606:54c3:0:1450::/64",
+    "ip_type": "IPv6",
+    "region": "BR"
+  },
+  {
+    "ip_address": "2606:54c3:0:15e4::/64",
+    "ip_type": "IPv6",
+    "region": "BR"
+  },
+  {
+    "ip_address": "2606:54c3:0:190a::/64",
+    "ip_type": "IPv6",
+    "region": "BR"
+  },
+  {
+    "ip_address": "2606:54c3:0:19eb::/64",
+    "ip_type": "IPv6",
+    "region": "BR"
+  },
+  {
+    "ip_address": "2a09:bac2:558::/45",
+    "ip_type": "IPv6",
+    "region": "BR"
+  },
+  {
+    "ip_address": "2a09:bac2:560::/45",
+    "ip_type": "IPv6",
+    "region": "BR"
+  },
+  {
+    "ip_address": "2a09:bac2:568::/45",
+    "ip_type": "IPv6",
+    "region": "BR"
+  },
+  {
+    "ip_address": "2a09:bac2:570::/45",
+    "ip_type": "IPv6",
+    "region": "BR"
+  },
+  {
+    "ip_address": "2a09:bac2:578::/45",
+    "ip_type": "IPv6",
+    "region": "BR"
+  },
+  {
+    "ip_address": "2a09:bac2:580::/45",
+    "ip_type": "IPv6",
+    "region": "BR"
+  },
+  {
+    "ip_address": "2a09:bac2:588::/45",
+    "ip_type": "IPv6",
+    "region": "BR"
+  },
+  {
+    "ip_address": "2a09:bac2:590::/45",
+    "ip_type": "IPv6",
+    "region": "BR"
+  },
+  {
+    "ip_address": "2a09:bac2:598::/45",
+    "ip_type": "IPv6",
+    "region": "BR"
+  },
+  {
+    "ip_address": "2a09:bac2:5a0::/45",
+    "ip_type": "IPv6",
+    "region": "BR"
+  },
+  {
+    "ip_address": "2a09:bac3:558::/45",
+    "ip_type": "IPv6",
+    "region": "BR"
+  },
+  {
+    "ip_address": "2a09:bac3:560::/45",
+    "ip_type": "IPv6",
+    "region": "BR"
+  },
+  {
+    "ip_address": "2a09:bac3:568::/45",
+    "ip_type": "IPv6",
+    "region": "BR"
+  },
+  {
+    "ip_address": "2a09:bac3:570::/45",
+    "ip_type": "IPv6",
+    "region": "BR"
+  },
+  {
+    "ip_address": "2a09:bac3:578::/45",
+    "ip_type": "IPv6",
+    "region": "BR"
+  },
+  {
+    "ip_address": "2a09:bac3:580::/45",
+    "ip_type": "IPv6",
+    "region": "BR"
+  },
+  {
+    "ip_address": "2a09:bac3:588::/45",
+    "ip_type": "IPv6",
+    "region": "BR"
+  },
+  {
+    "ip_address": "2a09:bac3:590::/45",
+    "ip_type": "IPv6",
+    "region": "BR"
+  },
+  {
+    "ip_address": "2a09:bac3:598::/45",
+    "ip_type": "IPv6",
+    "region": "BR"
+  },
+  {
+    "ip_address": "2a09:bac3:5a0::/45",
+    "ip_type": "IPv6",
+    "region": "BR"
+  },
+  {
+    "ip_address": "2a04:4e41:c80::/41",
+    "ip_type": "IPv6",
+    "region": "BR"
+  },
+  {
+    "ip_address": "2a04:4e41:1a80::/41",
+    "ip_type": "IPv6",
+    "region": "BR"
+  },
+  {
+    "ip_address": "2a04:4e41:1b80::/41",
+    "ip_type": "IPv6",
+    "region": "BR"
+  },
+  {
+    "ip_address": "2a04:4e41:6280::/41",
+    "ip_type": "IPv6",
+    "region": "BR"
+  },
+  {
+    "ip_address": "2a04:4e41:6380::/41",
+    "ip_type": "IPv6",
+    "region": "BR"
+  },
+  {
+    "ip_address": "140.248.25.26/31",
+    "ip_type": "IPv4",
+    "region": "BR"
+  },
+  {
+    "ip_address": "146.75.179.26/31",
+    "ip_type": "IPv4",
+    "region": "BR"
+  },
+  {
+    "ip_address": "146.75.191.26/31",
+    "ip_type": "IPv4",
+    "region": "BR"
+  },
+  {
+    "ip_address": "146.75.206.0/31",
+    "ip_type": "IPv4",
+    "region": "BR"
+  },
+  {
+    "ip_address": "146.75.225.0/31",
+    "ip_type": "IPv4",
+    "region": "BR"
+  }
+]

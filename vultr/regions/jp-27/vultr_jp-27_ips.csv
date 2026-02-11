@@ -1,0 +1,3 @@
+ip_address,ip_type,region
+64.176.32.0/19,IPv4,JP-27
+2401:c080:3800::/38,IPv6,JP-27

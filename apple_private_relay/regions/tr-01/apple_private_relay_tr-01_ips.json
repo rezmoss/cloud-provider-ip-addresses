@@ -1,0 +1,52 @@
+[
+  {
+    "ip_address": "2a04:4e41:201:9000::/52",
+    "ip_type": "IPv6",
+    "region": "TR-01"
+  },
+  {
+    "ip_address": "2a04:4e41:1404:b000::/52",
+    "ip_type": "IPv6",
+    "region": "TR-01"
+  },
+  {
+    "ip_address": "2a04:4e41:1805:9000::/52",
+    "ip_type": "IPv6",
+    "region": "TR-01"
+  },
+  {
+    "ip_address": "2a04:4e41:4c80:1000::/52",
+    "ip_type": "IPv6",
+    "region": "TR-01"
+  },
+  {
+    "ip_address": "2a04:4e41:5604:b000::/52",
+    "ip_type": "IPv6",
+    "region": "TR-01"
+  },
+  {
+    "ip_address": "140.248.18.6/31",
+    "ip_type": "IPv4",
+    "region": "TR-01"
+  },
+  {
+    "ip_address": "140.248.34.228/31",
+    "ip_type": "IPv4",
+    "region": "TR-01"
+  },
+  {
+    "ip_address": "140.248.37.56/31",
+    "ip_type": "IPv4",
+    "region": "TR-01"
+  },
+  {
+    "ip_address": "146.75.162.100/31",
+    "ip_type": "IPv4",
+    "region": "TR-01"
+  },
+  {
+    "ip_address": "146.75.169.228/31",
+    "ip_type": "IPv4",
+    "region": "TR-01"
+  }
+]

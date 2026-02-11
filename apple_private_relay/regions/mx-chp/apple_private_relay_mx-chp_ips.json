@@ -1,0 +1,107 @@
+[
+  {
+    "ip_address": "2a02:26f7:c000:5c10::/64",
+    "ip_type": "IPv6",
+    "region": "MX-CHP"
+  },
+  {
+    "ip_address": "2a02:26f7:c000:5c11::/64",
+    "ip_type": "IPv6",
+    "region": "MX-CHP"
+  },
+  {
+    "ip_address": "2a02:26f7:c000:5c12::/64",
+    "ip_type": "IPv6",
+    "region": "MX-CHP"
+  },
+  {
+    "ip_address": "2a02:26f7:c002:5c10::/64",
+    "ip_type": "IPv6",
+    "region": "MX-CHP"
+  },
+  {
+    "ip_address": "2a02:26f7:c002:5c11::/64",
+    "ip_type": "IPv6",
+    "region": "MX-CHP"
+  },
+  {
+    "ip_address": "2a02:26f7:c002:5c12::/64",
+    "ip_type": "IPv6",
+    "region": "MX-CHP"
+  },
+  {
+    "ip_address": "2a02:26f7:c009:5c10::/64",
+    "ip_type": "IPv6",
+    "region": "MX-CHP"
+  },
+  {
+    "ip_address": "2a02:26f7:c009:5c11::/64",
+    "ip_type": "IPv6",
+    "region": "MX-CHP"
+  },
+  {
+    "ip_address": "2a02:26f7:c009:5c12::/64",
+    "ip_type": "IPv6",
+    "region": "MX-CHP"
+  },
+  {
+    "ip_address": "2a02:26f7:c00c:5c10::/64",
+    "ip_type": "IPv6",
+    "region": "MX-CHP"
+  },
+  {
+    "ip_address": "2a02:26f7:c00c:5c11::/64",
+    "ip_type": "IPv6",
+    "region": "MX-CHP"
+  },
+  {
+    "ip_address": "2a02:26f7:c00c:5c12::/64",
+    "ip_type": "IPv6",
+    "region": "MX-CHP"
+  },
+  {
+    "ip_address": "2a02:26f7:c010:5c10::/64",
+    "ip_type": "IPv6",
+    "region": "MX-CHP"
+  },
+  {
+    "ip_address": "2a02:26f7:c010:5c11::/64",
+    "ip_type": "IPv6",
+    "region": "MX-CHP"
+  },
+  {
+    "ip_address": "2a02:26f7:c010:5c12::/64",
+    "ip_type": "IPv6",
+    "region": "MX-CHP"
+  },
+  {
+    "ip_address": "2a02:26f7:c014:5c10::/64",
+    "ip_type": "IPv6",
+    "region": "MX-CHP"
+  },
+  {
+    "ip_address": "2a02:26f7:c014:5c11::/64",
+    "ip_type": "IPv6",
+    "region": "MX-CHP"
+  },
+  {
+    "ip_address": "2a02:26f7:c014:5c12::/64",
+    "ip_type": "IPv6",
+    "region": "MX-CHP"
+  },
+  {
+    "ip_address": "2a02:26f7:c018:5c10::/64",
+    "ip_type": "IPv6",
+    "region": "MX-CHP"
+  },
+  {
+    "ip_address": "2a02:26f7:c018:5c11::/64",
+    "ip_type": "IPv6",
+    "region": "MX-CHP"
+  },
+  {
+    "ip_address": "2a02:26f7:c018:5c12::/64",
+    "ip_type": "IPv6",
+    "region": "MX-CHP"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "ip_address": "104.28.29.47/32",
+    "ip_type": "IPv4",
+    "region": "PF-V"
+  },
+  {
+    "ip_address": "104.28.29.48/32",
+    "ip_type": "IPv4",
+    "region": "PF-V"
+  },
+  {
+    "ip_address": "104.28.35.50/32",
+    "ip_type": "IPv4",
+    "region": "PF-V"
+  },
+  {
+    "ip_address": "104.28.35.51/32",
+    "ip_type": "IPv4",
+    "region": "PF-V"
+  },
+  {
+    "ip_address": "104.28.72.8/32",
+    "ip_type": "IPv4",
+    "region": "PF-V"
+  },
+  {
+    "ip_address": "104.28.72.9/32",
+    "ip_type": "IPv4",
+    "region": "PF-V"
+  },
+  {
+    "ip_address": "104.28.85.22/32",
+    "ip_type": "IPv4",
+    "region": "PF-V"
+  },
+  {
+    "ip_address": "104.28.85.23/32",
+    "ip_type": "IPv4",
+    "region": "PF-V"
+  },
+  {
+    "ip_address": "104.28.125.54/32",
+    "ip_type": "IPv4",
+    "region": "PF-V"
+  },
+  {
+    "ip_address": "104.28.125.55/32",
+    "ip_type": "IPv4",
+    "region": "PF-V"
+  },
+  {
+    "ip_address": "104.28.150.195/32",
+    "ip_type": "IPv4",
+    "region": "PF-V"
+  },
+  {
+    "ip_address": "2606:54c0:4ec0::/45",
+    "ip_type": "IPv6",
+    "region": "PF-V"
+  },
+  {
+    "ip_address": "2606:54c3:0:1353::/64",
+    "ip_type": "IPv6",
+    "region": "PF-V"
+  },
+  {
+    "ip_address": "2a09:bac2:4ec0::/45",
+    "ip_type": "IPv6",
+    "region": "PF-V"
+  },
+  {
+    "ip_address": "2a09:bac3:4ec0::/45",
+    "ip_type": "IPv6",
+    "region": "PF-V"
+  }
+]

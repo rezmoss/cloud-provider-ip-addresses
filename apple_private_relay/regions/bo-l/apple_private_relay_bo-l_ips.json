@@ -1,0 +1,87 @@
+[
+  {
+    "ip_address": "104.28.47.35/32",
+    "ip_type": "IPv4",
+    "region": "BO-L"
+  },
+  {
+    "ip_address": "104.28.47.36/32",
+    "ip_type": "IPv4",
+    "region": "BO-L"
+  },
+  {
+    "ip_address": "104.28.47.37/32",
+    "ip_type": "IPv4",
+    "region": "BO-L"
+  },
+  {
+    "ip_address": "104.28.59.35/32",
+    "ip_type": "IPv4",
+    "region": "BO-L"
+  },
+  {
+    "ip_address": "104.28.59.36/32",
+    "ip_type": "IPv4",
+    "region": "BO-L"
+  },
+  {
+    "ip_address": "104.28.59.37/32",
+    "ip_type": "IPv4",
+    "region": "BO-L"
+  },
+  {
+    "ip_address": "104.28.113.35/32",
+    "ip_type": "IPv4",
+    "region": "BO-L"
+  },
+  {
+    "ip_address": "104.28.113.36/32",
+    "ip_type": "IPv4",
+    "region": "BO-L"
+  },
+  {
+    "ip_address": "104.28.113.37/32",
+    "ip_type": "IPv4",
+    "region": "BO-L"
+  },
+  {
+    "ip_address": "104.28.115.35/32",
+    "ip_type": "IPv4",
+    "region": "BO-L"
+  },
+  {
+    "ip_address": "104.28.115.36/32",
+    "ip_type": "IPv4",
+    "region": "BO-L"
+  },
+  {
+    "ip_address": "104.28.115.37/32",
+    "ip_type": "IPv4",
+    "region": "BO-L"
+  },
+  {
+    "ip_address": "104.28.141.49/32",
+    "ip_type": "IPv4",
+    "region": "BO-L"
+  },
+  {
+    "ip_address": "2606:54c0:540::/45",
+    "ip_type": "IPv6",
+    "region": "BO-L"
+  },
+  {
+    "ip_address": "2606:54c3:0:444::/64",
+    "ip_type": "IPv6",
+    "region": "BO-L"
+  },
+  {
+    "ip_address": "2a09:bac2:540::/45",
+    "ip_type": "IPv6",
+    "region": "BO-L"
+  },
+  {
+    "ip_address": "2a09:bac3:540::/45",
+    "ip_type": "IPv6",
+    "region": "BO-L"
+  }
+]

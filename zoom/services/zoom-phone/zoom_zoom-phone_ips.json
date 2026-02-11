@@ -1,0 +1,27 @@
+[
+  {
+    "ip_address": "8.5.128.0/24",
+    "ip_type": "IPv4",
+    "service": "zoom-phone"
+  },
+  {
+    "ip_address": "115.117.119.96/27",
+    "ip_type": "IPv4",
+    "service": "zoom-phone"
+  },
+  {
+    "ip_address": "121.244.203.192/27",
+    "ip_type": "IPv4",
+    "service": "zoom-phone"
+  },
+  {
+    "ip_address": "173.231.92.0/24",
+    "ip_type": "IPv4",
+    "service": "zoom-phone"
+  },
+  {
+    "ip_address": "173.231.94.0/24",
+    "ip_type": "IPv4",
+    "service": "zoom-phone"
+  }
+]

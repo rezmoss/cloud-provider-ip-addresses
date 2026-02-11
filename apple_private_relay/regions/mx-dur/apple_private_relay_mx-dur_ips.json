@@ -1,0 +1,112 @@
+[
+  {
+    "ip_address": "2a02:26f7:c000:5c1a::/64",
+    "ip_type": "IPv6",
+    "region": "MX-DUR"
+  },
+  {
+    "ip_address": "2a02:26f7:c000:5c1b::/64",
+    "ip_type": "IPv6",
+    "region": "MX-DUR"
+  },
+  {
+    "ip_address": "2a02:26f7:c002:5c1a::/64",
+    "ip_type": "IPv6",
+    "region": "MX-DUR"
+  },
+  {
+    "ip_address": "2a02:26f7:c002:5c1b::/64",
+    "ip_type": "IPv6",
+    "region": "MX-DUR"
+  },
+  {
+    "ip_address": "2a02:26f7:c009:5c1a::/64",
+    "ip_type": "IPv6",
+    "region": "MX-DUR"
+  },
+  {
+    "ip_address": "2a02:26f7:c009:5c1b::/64",
+    "ip_type": "IPv6",
+    "region": "MX-DUR"
+  },
+  {
+    "ip_address": "2a02:26f7:c00c:5c1a::/64",
+    "ip_type": "IPv6",
+    "region": "MX-DUR"
+  },
+  {
+    "ip_address": "2a02:26f7:c00c:5c1b::/64",
+    "ip_type": "IPv6",
+    "region": "MX-DUR"
+  },
+  {
+    "ip_address": "2a02:26f7:c010:5c1a::/64",
+    "ip_type": "IPv6",
+    "region": "MX-DUR"
+  },
+  {
+    "ip_address": "2a02:26f7:c010:5c1b::/64",
+    "ip_type": "IPv6",
+    "region": "MX-DUR"
+  },
+  {
+    "ip_address": "2a02:26f7:c014:5c1a::/64",
+    "ip_type": "IPv6",
+    "region": "MX-DUR"
+  },
+  {
+    "ip_address": "2a02:26f7:c014:5c1b::/64",
+    "ip_type": "IPv6",
+    "region": "MX-DUR"
+  },
+  {
+    "ip_address": "2a02:26f7:c018:5c1a::/64",
+    "ip_type": "IPv6",
+    "region": "MX-DUR"
+  },
+  {
+    "ip_address": "2a02:26f7:c018:5c1b::/64",
+    "ip_type": "IPv6",
+    "region": "MX-DUR"
+  },
+  {
+    "ip_address": "2606:54c0:4a40::/45",
+    "ip_type": "IPv6",
+    "region": "MX-DUR"
+  },
+  {
+    "ip_address": "2606:54c0:4a48::/45",
+    "ip_type": "IPv6",
+    "region": "MX-DUR"
+  },
+  {
+    "ip_address": "2606:54c3:0:ef9::/64",
+    "ip_type": "IPv6",
+    "region": "MX-DUR"
+  },
+  {
+    "ip_address": "2606:54c3:0:122c::/64",
+    "ip_type": "IPv6",
+    "region": "MX-DUR"
+  },
+  {
+    "ip_address": "2a09:bac2:4a40::/45",
+    "ip_type": "IPv6",
+    "region": "MX-DUR"
+  },
+  {
+    "ip_address": "2a09:bac2:4a48::/45",
+    "ip_type": "IPv6",
+    "region": "MX-DUR"
+  },
+  {
+    "ip_address": "2a09:bac3:4a40::/45",
+    "ip_type": "IPv6",
+    "region": "MX-DUR"
+  },
+  {
+    "ip_address": "2a09:bac3:4a48::/45",
+    "ip_type": "IPv6",
+    "region": "MX-DUR"
+  }
+]

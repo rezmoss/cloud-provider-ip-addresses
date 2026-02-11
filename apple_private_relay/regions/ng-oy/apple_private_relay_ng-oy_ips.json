@@ -1,0 +1,142 @@
+[
+  {
+    "ip_address": "104.28.34.106/32",
+    "ip_type": "IPv4",
+    "region": "NG-OY"
+  },
+  {
+    "ip_address": "104.28.34.107/32",
+    "ip_type": "IPv4",
+    "region": "NG-OY"
+  },
+  {
+    "ip_address": "104.28.34.110/32",
+    "ip_type": "IPv4",
+    "region": "NG-OY"
+  },
+  {
+    "ip_address": "104.28.34.111/32",
+    "ip_type": "IPv4",
+    "region": "NG-OY"
+  },
+  {
+    "ip_address": "104.28.60.131/32",
+    "ip_type": "IPv4",
+    "region": "NG-OY"
+  },
+  {
+    "ip_address": "104.28.60.132/32",
+    "ip_type": "IPv4",
+    "region": "NG-OY"
+  },
+  {
+    "ip_address": "104.28.60.135/32",
+    "ip_type": "IPv4",
+    "region": "NG-OY"
+  },
+  {
+    "ip_address": "104.28.60.136/32",
+    "ip_type": "IPv4",
+    "region": "NG-OY"
+  },
+  {
+    "ip_address": "104.28.87.52/32",
+    "ip_type": "IPv4",
+    "region": "NG-OY"
+  },
+  {
+    "ip_address": "104.28.87.53/32",
+    "ip_type": "IPv4",
+    "region": "NG-OY"
+  },
+  {
+    "ip_address": "104.28.87.56/32",
+    "ip_type": "IPv4",
+    "region": "NG-OY"
+  },
+  {
+    "ip_address": "104.28.87.57/32",
+    "ip_type": "IPv4",
+    "region": "NG-OY"
+  },
+  {
+    "ip_address": "104.28.88.68/32",
+    "ip_type": "IPv4",
+    "region": "NG-OY"
+  },
+  {
+    "ip_address": "104.28.88.69/32",
+    "ip_type": "IPv4",
+    "region": "NG-OY"
+  },
+  {
+    "ip_address": "104.28.88.72/32",
+    "ip_type": "IPv4",
+    "region": "NG-OY"
+  },
+  {
+    "ip_address": "104.28.88.73/32",
+    "ip_type": "IPv4",
+    "region": "NG-OY"
+  },
+  {
+    "ip_address": "104.28.96.98/32",
+    "ip_type": "IPv4",
+    "region": "NG-OY"
+  },
+  {
+    "ip_address": "104.28.96.99/32",
+    "ip_type": "IPv4",
+    "region": "NG-OY"
+  },
+  {
+    "ip_address": "104.28.96.102/32",
+    "ip_type": "IPv4",
+    "region": "NG-OY"
+  },
+  {
+    "ip_address": "104.28.96.103/32",
+    "ip_type": "IPv4",
+    "region": "NG-OY"
+  },
+  {
+    "ip_address": "2606:54c0:4d38::/45",
+    "ip_type": "IPv6",
+    "region": "NG-OY"
+  },
+  {
+    "ip_address": "2606:54c0:4d40::/45",
+    "ip_type": "IPv6",
+    "region": "NG-OY"
+  },
+  {
+    "ip_address": "2606:54c3:0:908::/64",
+    "ip_type": "IPv6",
+    "region": "NG-OY"
+  },
+  {
+    "ip_address": "2606:54c3:0:f05::/64",
+    "ip_type": "IPv6",
+    "region": "NG-OY"
+  },
+  {
+    "ip_address": "2a09:bac2:4d38::/45",
+    "ip_type": "IPv6",
+    "region": "NG-OY"
+  },
+  {
+    "ip_address": "2a09:bac2:4d40::/45",
+    "ip_type": "IPv6",
+    "region": "NG-OY"
+  },
+  {
+    "ip_address": "2a09:bac3:4d38::/45",
+    "ip_type": "IPv6",
+    "region": "NG-OY"
+  },
+  {
+    "ip_address": "2a09:bac3:4d40::/45",
+    "ip_type": "IPv6",
+    "region": "NG-OY"
+  }
+]

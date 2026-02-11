@@ -1,0 +1,77 @@
+[
+  {
+    "ip_address": "104.28.38.190/32",
+    "ip_type": "IPv4",
+    "region": "UG-102"
+  },
+  {
+    "ip_address": "104.28.38.191/32",
+    "ip_type": "IPv4",
+    "region": "UG-102"
+  },
+  {
+    "ip_address": "104.28.46.93/32",
+    "ip_type": "IPv4",
+    "region": "UG-102"
+  },
+  {
+    "ip_address": "104.28.46.94/32",
+    "ip_type": "IPv4",
+    "region": "UG-102"
+  },
+  {
+    "ip_address": "104.28.81.26/32",
+    "ip_type": "IPv4",
+    "region": "UG-102"
+  },
+  {
+    "ip_address": "104.28.81.27/32",
+    "ip_type": "IPv4",
+    "region": "UG-102"
+  },
+  {
+    "ip_address": "104.28.82.105/32",
+    "ip_type": "IPv4",
+    "region": "UG-102"
+  },
+  {
+    "ip_address": "104.28.82.106/32",
+    "ip_type": "IPv4",
+    "region": "UG-102"
+  },
+  {
+    "ip_address": "104.28.106.240/32",
+    "ip_type": "IPv4",
+    "region": "UG-102"
+  },
+  {
+    "ip_address": "104.28.106.241/32",
+    "ip_type": "IPv4",
+    "region": "UG-102"
+  },
+  {
+    "ip_address": "104.28.142.99/32",
+    "ip_type": "IPv4",
+    "region": "UG-102"
+  },
+  {
+    "ip_address": "2606:54c0:5890::/45",
+    "ip_type": "IPv6",
+    "region": "UG-102"
+  },
+  {
+    "ip_address": "2606:54c3:0:1795::/64",
+    "ip_type": "IPv6",
+    "region": "UG-102"
+  },
+  {
+    "ip_address": "2a09:bac2:5890::/45",
+    "ip_type": "IPv6",
+    "region": "UG-102"
+  },
+  {
+    "ip_address": "2a09:bac3:5890::/45",
+    "ip_type": "IPv6",
+    "region": "UG-102"
+  }
+]

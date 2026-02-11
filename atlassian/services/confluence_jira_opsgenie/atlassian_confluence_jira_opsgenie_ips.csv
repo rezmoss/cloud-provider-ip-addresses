@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+44.220.40.160/28,IPv4,"confluence,jira,opsgenie",us-east-1
+18.246.188.32/28,IPv4,"confluence,jira,opsgenie",us-west-2
+44.220.40.128/25,IPv4,"confluence,jira,opsgenie",us-east-1
+18.246.188.0/25,IPv4,"confluence,jira,opsgenie",us-west-2

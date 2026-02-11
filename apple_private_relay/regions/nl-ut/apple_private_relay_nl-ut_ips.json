@@ -1,0 +1,72 @@
+[
+  {
+    "ip_address": "104.28.30.80/32",
+    "ip_type": "IPv4",
+    "region": "NL-UT"
+  },
+  {
+    "ip_address": "104.28.30.81/32",
+    "ip_type": "IPv4",
+    "region": "NL-UT"
+  },
+  {
+    "ip_address": "104.28.40.77/32",
+    "ip_type": "IPv4",
+    "region": "NL-UT"
+  },
+  {
+    "ip_address": "104.28.40.78/32",
+    "ip_type": "IPv4",
+    "region": "NL-UT"
+  },
+  {
+    "ip_address": "104.28.54.88/32",
+    "ip_type": "IPv4",
+    "region": "NL-UT"
+  },
+  {
+    "ip_address": "104.28.54.89/32",
+    "ip_type": "IPv4",
+    "region": "NL-UT"
+  },
+  {
+    "ip_address": "104.28.62.81/32",
+    "ip_type": "IPv4",
+    "region": "NL-UT"
+  },
+  {
+    "ip_address": "104.28.62.82/32",
+    "ip_type": "IPv4",
+    "region": "NL-UT"
+  },
+  {
+    "ip_address": "104.28.64.42/32",
+    "ip_type": "IPv4",
+    "region": "NL-UT"
+  },
+  {
+    "ip_address": "104.28.64.43/32",
+    "ip_type": "IPv4",
+    "region": "NL-UT"
+  },
+  {
+    "ip_address": "2606:54c0:4d88::/45",
+    "ip_type": "IPv6",
+    "region": "NL-UT"
+  },
+  {
+    "ip_address": "2606:54c3:0:5ba::/64",
+    "ip_type": "IPv6",
+    "region": "NL-UT"
+  },
+  {
+    "ip_address": "2a09:bac2:4d88::/45",
+    "ip_type": "IPv6",
+    "region": "NL-UT"
+  },
+  {
+    "ip_address": "2a09:bac3:4d88::/45",
+    "ip_type": "IPv6",
+    "region": "NL-UT"
+  }
+]

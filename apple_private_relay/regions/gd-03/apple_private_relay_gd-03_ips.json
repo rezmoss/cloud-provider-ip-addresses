@@ -1,0 +1,87 @@
+[
+  {
+    "ip_address": "104.28.32.66/32",
+    "ip_type": "IPv4",
+    "region": "GD-03"
+  },
+  {
+    "ip_address": "104.28.32.67/32",
+    "ip_type": "IPv4",
+    "region": "GD-03"
+  },
+  {
+    "ip_address": "104.28.36.89/32",
+    "ip_type": "IPv4",
+    "region": "GD-03"
+  },
+  {
+    "ip_address": "104.28.36.90/32",
+    "ip_type": "IPv4",
+    "region": "GD-03"
+  },
+  {
+    "ip_address": "104.28.61.79/32",
+    "ip_type": "IPv4",
+    "region": "GD-03"
+  },
+  {
+    "ip_address": "104.28.61.80/32",
+    "ip_type": "IPv4",
+    "region": "GD-03"
+  },
+  {
+    "ip_address": "104.28.92.82/32",
+    "ip_type": "IPv4",
+    "region": "GD-03"
+  },
+  {
+    "ip_address": "104.28.92.83/32",
+    "ip_type": "IPv4",
+    "region": "GD-03"
+  },
+  {
+    "ip_address": "104.28.94.82/32",
+    "ip_type": "IPv4",
+    "region": "GD-03"
+  },
+  {
+    "ip_address": "104.28.94.83/32",
+    "ip_type": "IPv4",
+    "region": "GD-03"
+  },
+  {
+    "ip_address": "104.28.126.82/32",
+    "ip_type": "IPv4",
+    "region": "GD-03"
+  },
+  {
+    "ip_address": "104.28.126.83/32",
+    "ip_type": "IPv4",
+    "region": "GD-03"
+  },
+  {
+    "ip_address": "104.28.145.50/32",
+    "ip_type": "IPv4",
+    "region": "GD-03"
+  },
+  {
+    "ip_address": "2606:54c0:3830::/45",
+    "ip_type": "IPv6",
+    "region": "GD-03"
+  },
+  {
+    "ip_address": "2606:54c3:0:337::/64",
+    "ip_type": "IPv6",
+    "region": "GD-03"
+  },
+  {
+    "ip_address": "2a09:bac2:3830::/45",
+    "ip_type": "IPv6",
+    "region": "GD-03"
+  },
+  {
+    "ip_address": "2a09:bac3:3830::/45",
+    "ip_type": "IPv6",
+    "region": "GD-03"
+  }
+]

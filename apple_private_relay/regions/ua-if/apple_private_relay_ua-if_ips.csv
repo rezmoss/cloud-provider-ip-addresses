@@ -1,0 +1,13 @@
+ip_address,ip_type,region
+2a02:26f7:b6c0:4e26::/64,IPv6,UA-IF
+2a02:26f7:b6c0:4e27::/64,IPv6,UA-IF
+2a02:26f7:b6c0:dd21::/64,IPv6,UA-IF
+2a02:26f7:b6c4:4e26::/64,IPv6,UA-IF
+2a02:26f7:b6c4:4e27::/64,IPv6,UA-IF
+2a02:26f7:b6c4:dd21::/64,IPv6,UA-IF
+2a02:26f7:b6c8:4e26::/64,IPv6,UA-IF
+2a02:26f7:b6c8:4e27::/64,IPv6,UA-IF
+2a02:26f7:b6c8:dd21::/64,IPv6,UA-IF
+2a02:26f7:b6cc:4e26::/64,IPv6,UA-IF
+2a02:26f7:b6cc:4e27::/64,IPv6,UA-IF
+2a02:26f7:b6cc:dd21::/64,IPv6,UA-IF

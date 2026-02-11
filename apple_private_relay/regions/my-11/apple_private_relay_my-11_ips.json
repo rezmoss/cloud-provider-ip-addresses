@@ -1,0 +1,42 @@
+[
+  {
+    "ip_address": "2a02:26f7:c6c0:49cb::/64",
+    "ip_type": "IPv6",
+    "region": "MY-11"
+  },
+  {
+    "ip_address": "2a02:26f7:c6c0:49d7::/64",
+    "ip_type": "IPv6",
+    "region": "MY-11"
+  },
+  {
+    "ip_address": "2a02:26f7:c6c4:49cb::/64",
+    "ip_type": "IPv6",
+    "region": "MY-11"
+  },
+  {
+    "ip_address": "2a02:26f7:c6c4:49d7::/64",
+    "ip_type": "IPv6",
+    "region": "MY-11"
+  },
+  {
+    "ip_address": "2a02:26f7:c6c5:49cb::/64",
+    "ip_type": "IPv6",
+    "region": "MY-11"
+  },
+  {
+    "ip_address": "2a02:26f7:c6c5:49d7::/64",
+    "ip_type": "IPv6",
+    "region": "MY-11"
+  },
+  {
+    "ip_address": "2a02:26f7:c6c8:49cb::/64",
+    "ip_type": "IPv6",
+    "region": "MY-11"
+  },
+  {
+    "ip_address": "2a02:26f7:c6c8:49d7::/64",
+    "ip_type": "IPv6",
+    "region": "MY-11"
+  }
+]

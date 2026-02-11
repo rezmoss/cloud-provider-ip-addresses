@@ -1,0 +1,122 @@
+[
+  {
+    "ip_address": "104.28.34.122/32",
+    "ip_type": "IPv4",
+    "region": "NG-AN"
+  },
+  {
+    "ip_address": "104.28.34.123/32",
+    "ip_type": "IPv4",
+    "region": "NG-AN"
+  },
+  {
+    "ip_address": "104.28.34.124/32",
+    "ip_type": "IPv4",
+    "region": "NG-AN"
+  },
+  {
+    "ip_address": "104.28.34.125/32",
+    "ip_type": "IPv4",
+    "region": "NG-AN"
+  },
+  {
+    "ip_address": "104.28.60.147/32",
+    "ip_type": "IPv4",
+    "region": "NG-AN"
+  },
+  {
+    "ip_address": "104.28.60.148/32",
+    "ip_type": "IPv4",
+    "region": "NG-AN"
+  },
+  {
+    "ip_address": "104.28.60.149/32",
+    "ip_type": "IPv4",
+    "region": "NG-AN"
+  },
+  {
+    "ip_address": "104.28.60.150/32",
+    "ip_type": "IPv4",
+    "region": "NG-AN"
+  },
+  {
+    "ip_address": "104.28.87.66/32",
+    "ip_type": "IPv4",
+    "region": "NG-AN"
+  },
+  {
+    "ip_address": "104.28.87.67/32",
+    "ip_type": "IPv4",
+    "region": "NG-AN"
+  },
+  {
+    "ip_address": "104.28.87.68/32",
+    "ip_type": "IPv4",
+    "region": "NG-AN"
+  },
+  {
+    "ip_address": "104.28.87.69/32",
+    "ip_type": "IPv4",
+    "region": "NG-AN"
+  },
+  {
+    "ip_address": "104.28.88.84/32",
+    "ip_type": "IPv4",
+    "region": "NG-AN"
+  },
+  {
+    "ip_address": "104.28.88.85/32",
+    "ip_type": "IPv4",
+    "region": "NG-AN"
+  },
+  {
+    "ip_address": "104.28.88.86/32",
+    "ip_type": "IPv4",
+    "region": "NG-AN"
+  },
+  {
+    "ip_address": "104.28.88.87/32",
+    "ip_type": "IPv4",
+    "region": "NG-AN"
+  },
+  {
+    "ip_address": "104.28.96.114/32",
+    "ip_type": "IPv4",
+    "region": "NG-AN"
+  },
+  {
+    "ip_address": "104.28.96.115/32",
+    "ip_type": "IPv4",
+    "region": "NG-AN"
+  },
+  {
+    "ip_address": "104.28.96.116/32",
+    "ip_type": "IPv4",
+    "region": "NG-AN"
+  },
+  {
+    "ip_address": "104.28.96.117/32",
+    "ip_type": "IPv4",
+    "region": "NG-AN"
+  },
+  {
+    "ip_address": "2606:54c0:4cc8::/45",
+    "ip_type": "IPv6",
+    "region": "NG-AN"
+  },
+  {
+    "ip_address": "2606:54c3:0:fa9::/64",
+    "ip_type": "IPv6",
+    "region": "NG-AN"
+  },
+  {
+    "ip_address": "2a09:bac2:4cc8::/45",
+    "ip_type": "IPv6",
+    "region": "NG-AN"
+  },
+  {
+    "ip_address": "2a09:bac3:4cc8::/45",
+    "ip_type": "IPv6",
+    "region": "NG-AN"
+  }
+]

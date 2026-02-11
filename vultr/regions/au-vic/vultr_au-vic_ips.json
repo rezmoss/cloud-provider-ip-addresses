@@ -1,0 +1,17 @@
+[
+  {
+    "ip_address": "67.219.96.0/20",
+    "ip_type": "IPv4",
+    "region": "AU-VIC"
+  },
+  {
+    "ip_address": "139.84.192.0/20",
+    "ip_type": "IPv4",
+    "region": "AU-VIC"
+  },
+  {
+    "ip_address": "2401:c080:2000::/38",
+    "ip_type": "IPv6",
+    "region": "AU-VIC"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "ip_address": "104.28.34.11/32",
+    "ip_type": "IPv4",
+    "region": "CM-CE"
+  },
+  {
+    "ip_address": "104.28.34.12/32",
+    "ip_type": "IPv4",
+    "region": "CM-CE"
+  },
+  {
+    "ip_address": "104.28.46.9/32",
+    "ip_type": "IPv4",
+    "region": "CM-CE"
+  },
+  {
+    "ip_address": "104.28.46.10/32",
+    "ip_type": "IPv4",
+    "region": "CM-CE"
+  },
+  {
+    "ip_address": "104.28.60.19/32",
+    "ip_type": "IPv4",
+    "region": "CM-CE"
+  },
+  {
+    "ip_address": "104.28.60.20/32",
+    "ip_type": "IPv4",
+    "region": "CM-CE"
+  },
+  {
+    "ip_address": "104.28.82.11/32",
+    "ip_type": "IPv4",
+    "region": "CM-CE"
+  },
+  {
+    "ip_address": "104.28.82.12/32",
+    "ip_type": "IPv4",
+    "region": "CM-CE"
+  },
+  {
+    "ip_address": "104.28.88.6/32",
+    "ip_type": "IPv4",
+    "region": "CM-CE"
+  },
+  {
+    "ip_address": "104.28.88.7/32",
+    "ip_type": "IPv4",
+    "region": "CM-CE"
+  },
+  {
+    "ip_address": "2606:54c0:1ea8::/45",
+    "ip_type": "IPv6",
+    "region": "CM-CE"
+  },
+  {
+    "ip_address": "2606:54c3:0:64c::/64",
+    "ip_type": "IPv6",
+    "region": "CM-CE"
+  },
+  {
+    "ip_address": "2a09:bac2:1ea8::/45",
+    "ip_type": "IPv6",
+    "region": "CM-CE"
+  },
+  {
+    "ip_address": "2a09:bac3:1ea8::/45",
+    "ip_type": "IPv6",
+    "region": "CM-CE"
+  }
+]

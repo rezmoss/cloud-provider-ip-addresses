@@ -1,0 +1,112 @@
+[
+  {
+    "ip_address": "104.28.30.155/32",
+    "ip_type": "IPv4",
+    "region": "GB-GLG"
+  },
+  {
+    "ip_address": "104.28.30.156/32",
+    "ip_type": "IPv4",
+    "region": "GB-GLG"
+  },
+  {
+    "ip_address": "104.28.40.156/32",
+    "ip_type": "IPv4",
+    "region": "GB-GLG"
+  },
+  {
+    "ip_address": "104.28.40.157/32",
+    "ip_type": "IPv4",
+    "region": "GB-GLG"
+  },
+  {
+    "ip_address": "104.28.53.69/32",
+    "ip_type": "IPv4",
+    "region": "GB-GLG"
+  },
+  {
+    "ip_address": "104.28.53.70/32",
+    "ip_type": "IPv4",
+    "region": "GB-GLG"
+  },
+  {
+    "ip_address": "104.28.86.122/32",
+    "ip_type": "IPv4",
+    "region": "GB-GLG"
+  },
+  {
+    "ip_address": "104.28.86.123/32",
+    "ip_type": "IPv4",
+    "region": "GB-GLG"
+  },
+  {
+    "ip_address": "104.28.89.93/32",
+    "ip_type": "IPv4",
+    "region": "GB-GLG"
+  },
+  {
+    "ip_address": "104.28.89.94/32",
+    "ip_type": "IPv4",
+    "region": "GB-GLG"
+  },
+  {
+    "ip_address": "2606:54c0:3790::/45",
+    "ip_type": "IPv6",
+    "region": "GB-GLG"
+  },
+  {
+    "ip_address": "2606:54c3:0:25f::/64",
+    "ip_type": "IPv6",
+    "region": "GB-GLG"
+  },
+  {
+    "ip_address": "2a09:bac2:3790::/45",
+    "ip_type": "IPv6",
+    "region": "GB-GLG"
+  },
+  {
+    "ip_address": "2a09:bac3:3790::/45",
+    "ip_type": "IPv6",
+    "region": "GB-GLG"
+  },
+  {
+    "ip_address": "2a04:4e41:1300:e000::/52",
+    "ip_type": "IPv6",
+    "region": "GB-GLG"
+  },
+  {
+    "ip_address": "2a04:4e41:1601:4000::/52",
+    "ip_type": "IPv6",
+    "region": "GB-GLG"
+  },
+  {
+    "ip_address": "2a04:4e41:4e00:d000::/52",
+    "ip_type": "IPv6",
+    "region": "GB-GLG"
+  },
+  {
+    "ip_address": "2a04:4e41:7401:4000::/52",
+    "ip_type": "IPv6",
+    "region": "GB-GLG"
+  },
+  {
+    "ip_address": "140.248.40.50/31",
+    "ip_type": "IPv4",
+    "region": "GB-GLG"
+  },
+  {
+    "ip_address": "146.75.168.64/31",
+    "ip_type": "IPv4",
+    "region": "GB-GLG"
+  },
+  {
+    "ip_address": "146.75.174.38/31",
+    "ip_type": "IPv4",
+    "region": "GB-GLG"
+  },
+  {
+    "ip_address": "146.75.185.64/31",
+    "ip_type": "IPv4",
+    "region": "GB-GLG"
+  }
+]

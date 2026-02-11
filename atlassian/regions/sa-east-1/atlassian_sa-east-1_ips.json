@@ -1,0 +1,38 @@
+[
+  {
+    "ip_address": "54.94.144.45/32",
+    "ip_type": "IPv4",
+    "service": "forge",
+    "region": "sa-east-1"
+  },
+  {
+    "ip_address": "15.229.167.123/32",
+    "ip_type": "IPv4",
+    "service": "forge",
+    "region": "sa-east-1"
+  },
+  {
+    "ip_address": "177.71.171.149/32",
+    "ip_type": "IPv4",
+    "service": "forge",
+    "region": "sa-east-1"
+  },
+  {
+    "ip_address": "18.229.170.213/32",
+    "ip_type": "IPv4",
+    "service": "forge",
+    "region": "sa-east-1"
+  },
+  {
+    "ip_address": "54.232.43.18/32",
+    "ip_type": "IPv4",
+    "service": "forge",
+    "region": "sa-east-1"
+  },
+  {
+    "ip_address": "52.67.212.82/32",
+    "ip_type": "IPv4",
+    "service": "forge",
+    "region": "sa-east-1"
+  }
+]

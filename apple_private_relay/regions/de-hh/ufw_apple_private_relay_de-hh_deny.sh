@@ -1,0 +1,66 @@
+#!/bin/bash
+# Apple_private_relay IP Ranges
+# Updated: 2026-02-11 17:28:46
+# Source: https://github.com/rezmoss/cloud-provider-ip-addresses
+# License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
+# This file is generated automatically. Do not edit it directly.
+# Updates daily at 00:00 UTC
+# UFW deny rules for apple_private_relay
+
+ufw deny from 172.225.6.100/31
+ufw deny from 172.225.135.52/31
+ufw deny from 172.225.184.180/31
+ufw deny from 172.225.189.182/31
+ufw deny from 172.225.195.20/31
+ufw deny from 172.225.240.180/31
+ufw deny from 172.226.104.68/31
+ufw deny from 172.226.108.36/31
+ufw deny from 172.226.110.36/31
+ufw deny from 172.226.112.68/31
+ufw deny from 2a02:26f7:ec40:e00::/56
+ufw deny from 2a02:26f7:ec40:6607::/64
+ufw deny from 2a02:26f7:ec44:e00::/56
+ufw deny from 2a02:26f7:ec44:6607::/64
+ufw deny from 2a02:26f7:ec48:e00::/56
+ufw deny from 2a02:26f7:ec48:6607::/64
+ufw deny from 2a02:26f7:ec4c:e00::/56
+ufw deny from 2a02:26f7:ec4c:6607::/64
+ufw deny from 2a02:26f7:ec50:e00::/56
+ufw deny from 2a02:26f7:ec50:6607::/64
+ufw deny from 2a02:26f7:ec54:e00::/56
+ufw deny from 2a02:26f7:ec54:6607::/64
+ufw deny from 2a02:26f7:ec58:e00::/56
+ufw deny from 2a02:26f7:ec58:6607::/64
+ufw deny from 2a02:26f7:ec5c:e00::/56
+ufw deny from 2a02:26f7:ec5c:6607::/64
+ufw deny from 2a02:26f7:ec60:e00::/56
+ufw deny from 2a02:26f7:ec60:6607::/64
+ufw deny from 2a02:26f7:ec64:e00::/56
+ufw deny from 2a02:26f7:ec64:6607::/64
+ufw deny from 104.28.30.39/32
+ufw deny from 104.28.30.40/32
+ufw deny from 104.28.30.41/32
+ufw deny from 104.28.45.18/32
+ufw deny from 104.28.45.19/32
+ufw deny from 104.28.45.20/32
+ufw deny from 104.28.54.43/32
+ufw deny from 104.28.54.44/32
+ufw deny from 104.28.54.45/32
+ufw deny from 104.28.64.10/32
+ufw deny from 104.28.64.11/32
+ufw deny from 104.28.64.12/32
+ufw deny from 104.28.129.15/32
+ufw deny from 104.28.129.16/32
+ufw deny from 104.28.129.17/32
+ufw deny from 2606:54c0:2ac8::/45
+ufw deny from 2606:54c3:0:21::/64
+ufw deny from 2a09:bac2:2ac8::/45
+ufw deny from 2a09:bac3:2ac8::/45
+ufw deny from 2a04:4e41:1401:2000::/52
+ufw deny from 2a04:4e41:1801:4000::/52
+ufw deny from 2a04:4e41:5200:9000::/52
+ufw deny from 2a04:4e41:5601:2000::/52
+ufw deny from 140.248.34.56/31
+ufw deny from 140.248.36.68/31
+ufw deny from 146.75.166.26/31
+ufw deny from 146.75.169.56/31

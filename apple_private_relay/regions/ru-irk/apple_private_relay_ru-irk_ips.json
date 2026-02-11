@@ -1,0 +1,82 @@
+[
+  {
+    "ip_address": "104.28.51.189/32",
+    "ip_type": "IPv4",
+    "region": "RU-IRK"
+  },
+  {
+    "ip_address": "104.28.51.190/32",
+    "ip_type": "IPv4",
+    "region": "RU-IRK"
+  },
+  {
+    "ip_address": "104.28.68.130/32",
+    "ip_type": "IPv4",
+    "region": "RU-IRK"
+  },
+  {
+    "ip_address": "104.28.68.131/32",
+    "ip_type": "IPv4",
+    "region": "RU-IRK"
+  },
+  {
+    "ip_address": "104.28.71.130/32",
+    "ip_type": "IPv4",
+    "region": "RU-IRK"
+  },
+  {
+    "ip_address": "104.28.71.131/32",
+    "ip_type": "IPv4",
+    "region": "RU-IRK"
+  },
+  {
+    "ip_address": "104.28.84.112/32",
+    "ip_type": "IPv4",
+    "region": "RU-IRK"
+  },
+  {
+    "ip_address": "104.28.84.113/32",
+    "ip_type": "IPv4",
+    "region": "RU-IRK"
+  },
+  {
+    "ip_address": "104.28.100.108/32",
+    "ip_type": "IPv4",
+    "region": "RU-IRK"
+  },
+  {
+    "ip_address": "104.28.100.109/32",
+    "ip_type": "IPv4",
+    "region": "RU-IRK"
+  },
+  {
+    "ip_address": "104.28.102.108/32",
+    "ip_type": "IPv4",
+    "region": "RU-IRK"
+  },
+  {
+    "ip_address": "104.28.102.109/32",
+    "ip_type": "IPv4",
+    "region": "RU-IRK"
+  },
+  {
+    "ip_address": "2606:54c0:5090::/45",
+    "ip_type": "IPv6",
+    "region": "RU-IRK"
+  },
+  {
+    "ip_address": "2606:54c3:0:168c::/64",
+    "ip_type": "IPv6",
+    "region": "RU-IRK"
+  },
+  {
+    "ip_address": "2a09:bac2:5090::/45",
+    "ip_type": "IPv6",
+    "region": "RU-IRK"
+  },
+  {
+    "ip_address": "2a09:bac3:5090::/45",
+    "ip_type": "IPv6",
+    "region": "RU-IRK"
+  }
+]

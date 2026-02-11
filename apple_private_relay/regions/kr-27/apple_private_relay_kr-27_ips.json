@@ -1,0 +1,142 @@
+[
+  {
+    "ip_address": "104.28.44.91/32",
+    "ip_type": "IPv4",
+    "region": "KR-27"
+  },
+  {
+    "ip_address": "104.28.44.92/32",
+    "ip_type": "IPv4",
+    "region": "KR-27"
+  },
+  {
+    "ip_address": "104.28.44.93/32",
+    "ip_type": "IPv4",
+    "region": "KR-27"
+  },
+  {
+    "ip_address": "104.28.67.243/32",
+    "ip_type": "IPv4",
+    "region": "KR-27"
+  },
+  {
+    "ip_address": "104.28.67.244/32",
+    "ip_type": "IPv4",
+    "region": "KR-27"
+  },
+  {
+    "ip_address": "104.28.67.245/32",
+    "ip_type": "IPv4",
+    "region": "KR-27"
+  },
+  {
+    "ip_address": "104.28.70.243/32",
+    "ip_type": "IPv4",
+    "region": "KR-27"
+  },
+  {
+    "ip_address": "104.28.70.244/32",
+    "ip_type": "IPv4",
+    "region": "KR-27"
+  },
+  {
+    "ip_address": "104.28.70.245/32",
+    "ip_type": "IPv4",
+    "region": "KR-27"
+  },
+  {
+    "ip_address": "104.28.84.13/32",
+    "ip_type": "IPv4",
+    "region": "KR-27"
+  },
+  {
+    "ip_address": "104.28.84.14/32",
+    "ip_type": "IPv4",
+    "region": "KR-27"
+  },
+  {
+    "ip_address": "104.28.84.15/32",
+    "ip_type": "IPv4",
+    "region": "KR-27"
+  },
+  {
+    "ip_address": "104.28.100.9/32",
+    "ip_type": "IPv4",
+    "region": "KR-27"
+  },
+  {
+    "ip_address": "104.28.100.10/32",
+    "ip_type": "IPv4",
+    "region": "KR-27"
+  },
+  {
+    "ip_address": "104.28.100.11/32",
+    "ip_type": "IPv4",
+    "region": "KR-27"
+  },
+  {
+    "ip_address": "104.28.102.9/32",
+    "ip_type": "IPv4",
+    "region": "KR-27"
+  },
+  {
+    "ip_address": "104.28.102.10/32",
+    "ip_type": "IPv4",
+    "region": "KR-27"
+  },
+  {
+    "ip_address": "104.28.102.11/32",
+    "ip_type": "IPv4",
+    "region": "KR-27"
+  },
+  {
+    "ip_address": "104.28.118.237/32",
+    "ip_type": "IPv4",
+    "region": "KR-27"
+  },
+  {
+    "ip_address": "104.28.118.238/32",
+    "ip_type": "IPv4",
+    "region": "KR-27"
+  },
+  {
+    "ip_address": "104.28.118.239/32",
+    "ip_type": "IPv4",
+    "region": "KR-27"
+  },
+  {
+    "ip_address": "104.28.121.237/32",
+    "ip_type": "IPv4",
+    "region": "KR-27"
+  },
+  {
+    "ip_address": "104.28.121.238/32",
+    "ip_type": "IPv4",
+    "region": "KR-27"
+  },
+  {
+    "ip_address": "104.28.121.239/32",
+    "ip_type": "IPv4",
+    "region": "KR-27"
+  },
+  {
+    "ip_address": "2606:54c0:46a0::/45",
+    "ip_type": "IPv6",
+    "region": "KR-27"
+  },
+  {
+    "ip_address": "2606:54c3:0:6f5::/64",
+    "ip_type": "IPv6",
+    "region": "KR-27"
+  },
+  {
+    "ip_address": "2a09:bac2:46a0::/45",
+    "ip_type": "IPv6",
+    "region": "KR-27"
+  },
+  {
+    "ip_address": "2a09:bac3:46a0::/45",
+    "ip_type": "IPv6",
+    "region": "KR-27"
+  }
+]

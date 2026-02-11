@@ -1,0 +1,72 @@
+[
+  {
+    "ip_address": "104.28.31.31/32",
+    "ip_type": "IPv4",
+    "region": "LT-57"
+  },
+  {
+    "ip_address": "104.28.31.32/32",
+    "ip_type": "IPv4",
+    "region": "LT-57"
+  },
+  {
+    "ip_address": "104.28.45.30/32",
+    "ip_type": "IPv4",
+    "region": "LT-57"
+  },
+  {
+    "ip_address": "104.28.45.31/32",
+    "ip_type": "IPv4",
+    "region": "LT-57"
+  },
+  {
+    "ip_address": "104.28.51.138/32",
+    "ip_type": "IPv4",
+    "region": "LT-57"
+  },
+  {
+    "ip_address": "104.28.51.139/32",
+    "ip_type": "IPv4",
+    "region": "LT-57"
+  },
+  {
+    "ip_address": "104.28.65.37/32",
+    "ip_type": "IPv4",
+    "region": "LT-57"
+  },
+  {
+    "ip_address": "104.28.65.38/32",
+    "ip_type": "IPv4",
+    "region": "LT-57"
+  },
+  {
+    "ip_address": "104.28.131.98/32",
+    "ip_type": "IPv4",
+    "region": "LT-57"
+  },
+  {
+    "ip_address": "104.28.131.99/32",
+    "ip_type": "IPv4",
+    "region": "LT-57"
+  },
+  {
+    "ip_address": "2606:54c0:47d8::/45",
+    "ip_type": "IPv6",
+    "region": "LT-57"
+  },
+  {
+    "ip_address": "2606:54c3:0:b3::/64",
+    "ip_type": "IPv6",
+    "region": "LT-57"
+  },
+  {
+    "ip_address": "2a09:bac2:47d8::/45",
+    "ip_type": "IPv6",
+    "region": "LT-57"
+  },
+  {
+    "ip_address": "2a09:bac3:47d8::/45",
+    "ip_type": "IPv6",
+    "region": "LT-57"
+  }
+]

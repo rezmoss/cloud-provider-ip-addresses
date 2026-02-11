@@ -1,0 +1,137 @@
+[
+  {
+    "ip_address": "104.28.138.2/32",
+    "ip_type": "IPv4",
+    "region": "IL-M"
+  },
+  {
+    "ip_address": "104.28.138.3/32",
+    "ip_type": "IPv4",
+    "region": "IL-M"
+  },
+  {
+    "ip_address": "104.28.138.90/32",
+    "ip_type": "IPv4",
+    "region": "IL-M"
+  },
+  {
+    "ip_address": "104.28.142.79/32",
+    "ip_type": "IPv4",
+    "region": "IL-M"
+  },
+  {
+    "ip_address": "104.28.146.209/32",
+    "ip_type": "IPv4",
+    "region": "IL-M"
+  },
+  {
+    "ip_address": "104.28.146.210/32",
+    "ip_type": "IPv4",
+    "region": "IL-M"
+  },
+  {
+    "ip_address": "104.28.146.211/32",
+    "ip_type": "IPv4",
+    "region": "IL-M"
+  },
+  {
+    "ip_address": "104.28.146.212/32",
+    "ip_type": "IPv4",
+    "region": "IL-M"
+  },
+  {
+    "ip_address": "104.28.149.36/32",
+    "ip_type": "IPv4",
+    "region": "IL-M"
+  },
+  {
+    "ip_address": "2606:54c0:3a28::/45",
+    "ip_type": "IPv6",
+    "region": "IL-M"
+  },
+  {
+    "ip_address": "2606:54c0:3a30::/45",
+    "ip_type": "IPv6",
+    "region": "IL-M"
+  },
+  {
+    "ip_address": "2606:54c3:0:1388::/64",
+    "ip_type": "IPv6",
+    "region": "IL-M"
+  },
+  {
+    "ip_address": "2606:54c3:0:1603::/64",
+    "ip_type": "IPv6",
+    "region": "IL-M"
+  },
+  {
+    "ip_address": "2a09:bac2:3a28::/45",
+    "ip_type": "IPv6",
+    "region": "IL-M"
+  },
+  {
+    "ip_address": "2a09:bac2:3a30::/45",
+    "ip_type": "IPv6",
+    "region": "IL-M"
+  },
+  {
+    "ip_address": "2a09:bac3:3a28::/45",
+    "ip_type": "IPv6",
+    "region": "IL-M"
+  },
+  {
+    "ip_address": "2a09:bac3:3a30::/45",
+    "ip_type": "IPv6",
+    "region": "IL-M"
+  },
+  {
+    "ip_address": "2a04:4e41:801:2000::/52",
+    "ip_type": "IPv6",
+    "region": "IL-M"
+  },
+  {
+    "ip_address": "2a04:4e41:1402:9000::/52",
+    "ip_type": "IPv6",
+    "region": "IL-M"
+  },
+  {
+    "ip_address": "2a04:4e41:1802:a000::/52",
+    "ip_type": "IPv6",
+    "region": "IL-M"
+  },
+  {
+    "ip_address": "2a04:4e41:4801:2000::/52",
+    "ip_type": "IPv6",
+    "region": "IL-M"
+  },
+  {
+    "ip_address": "2a04:4e41:5602:9000::/52",
+    "ip_type": "IPv6",
+    "region": "IL-M"
+  },
+  {
+    "ip_address": "140.248.24.62/31",
+    "ip_type": "IPv4",
+    "region": "IL-M"
+  },
+  {
+    "ip_address": "140.248.34.122/31",
+    "ip_type": "IPv4",
+    "region": "IL-M"
+  },
+  {
+    "ip_address": "140.248.36.140/31",
+    "ip_type": "IPv4",
+    "region": "IL-M"
+  },
+  {
+    "ip_address": "140.248.41.62/31",
+    "ip_type": "IPv4",
+    "region": "IL-M"
+  },
+  {
+    "ip_address": "146.75.169.122/31",
+    "ip_type": "IPv4",
+    "region": "IL-M"
+  }
+]

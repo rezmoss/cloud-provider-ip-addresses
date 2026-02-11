@@ -1,0 +1,22 @@
+[
+  {
+    "ip_address": "2a02:26f7:b6c0:dd03::/64",
+    "ip_type": "IPv6",
+    "region": "UA-KH"
+  },
+  {
+    "ip_address": "2a02:26f7:b6c4:dd03::/64",
+    "ip_type": "IPv6",
+    "region": "UA-KH"
+  },
+  {
+    "ip_address": "2a02:26f7:b6c8:dd03::/64",
+    "ip_type": "IPv6",
+    "region": "UA-KH"
+  },
+  {
+    "ip_address": "2a02:26f7:b6cc:dd03::/64",
+    "ip_type": "IPv6",
+    "region": "UA-KH"
+  }
+]

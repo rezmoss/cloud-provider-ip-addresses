@@ -1,0 +1,4 @@
+ip_address,ip_type,region
+67.219.96.0/20,IPv4,AU-VIC
+139.84.192.0/20,IPv4,AU-VIC
+2401:c080:2000::/38,IPv6,AU-VIC

@@ -1,0 +1,27 @@
+[
+  {
+    "ip_address": "2a02:26f7:dfc0:46f7::/64",
+    "ip_type": "IPv6",
+    "region": "ID-BB"
+  },
+  {
+    "ip_address": "2a02:26f7:dfc4:46f7::/64",
+    "ip_type": "IPv6",
+    "region": "ID-BB"
+  },
+  {
+    "ip_address": "2a02:26f7:dfc8:46f7::/64",
+    "ip_type": "IPv6",
+    "region": "ID-BB"
+  },
+  {
+    "ip_address": "2a02:26f7:dfcc:46f7::/64",
+    "ip_type": "IPv6",
+    "region": "ID-BB"
+  },
+  {
+    "ip_address": "2a02:26f7:dfcd:46f7::/64",
+    "ip_type": "IPv6",
+    "region": "ID-BB"
+  }
+]

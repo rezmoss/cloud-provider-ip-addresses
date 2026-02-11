@@ -1,0 +1,84 @@
+-- SQL script to create table `apple_private_relay_de-hb_ips` and insert IP addresses
+
+CREATE TABLE IF NOT EXISTS `apple_private_relay_de-hb_ips` (
+  `ip_address` VARCHAR(45) NOT NULL,
+  `ip_type` VARCHAR(10) NOT NULL,
+  PRIMARY KEY (`ip_address`)
+);
+
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('172.225.6.80/31', 'IPv4');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('172.225.135.58/31', 'IPv4');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('172.225.184.186/31', 'IPv4');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('172.225.189.188/31', 'IPv4');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('172.225.195.26/31', 'IPv4');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('172.225.240.186/31', 'IPv4');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('172.226.104.64/31', 'IPv4');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('172.226.108.32/31', 'IPv4');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('172.226.110.32/31', 'IPv4');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('172.226.112.64/31', 'IPv4');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:ec40:f60::/60', 'IPv6');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:ec40:6605::/64', 'IPv6');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:ec40:66fe::/64', 'IPv6');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:ec40:66ff::/64', 'IPv6');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:ec44:f60::/60', 'IPv6');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:ec44:6605::/64', 'IPv6');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:ec44:66fe::/64', 'IPv6');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:ec44:66ff::/64', 'IPv6');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:ec48:f60::/60', 'IPv6');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:ec48:6605::/64', 'IPv6');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:ec48:66fe::/64', 'IPv6');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:ec48:66ff::/64', 'IPv6');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:ec4c:f60::/60', 'IPv6');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:ec4c:6605::/64', 'IPv6');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:ec4c:66fe::/64', 'IPv6');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:ec4c:66ff::/64', 'IPv6');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:ec50:f60::/60', 'IPv6');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:ec50:6605::/64', 'IPv6');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:ec50:66fe::/64', 'IPv6');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:ec50:66ff::/64', 'IPv6');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:ec54:f60::/60', 'IPv6');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:ec54:6605::/64', 'IPv6');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:ec54:66fe::/64', 'IPv6');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:ec54:66ff::/64', 'IPv6');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:ec58:f60::/60', 'IPv6');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:ec58:6605::/64', 'IPv6');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:ec58:66fe::/64', 'IPv6');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:ec58:66ff::/64', 'IPv6');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:ec5c:f60::/60', 'IPv6');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:ec5c:6605::/64', 'IPv6');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:ec5c:66fe::/64', 'IPv6');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:ec5c:66ff::/64', 'IPv6');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:ec60:f60::/60', 'IPv6');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:ec60:6605::/64', 'IPv6');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:ec60:66fe::/64', 'IPv6');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:ec60:66ff::/64', 'IPv6');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:ec64:f60::/60', 'IPv6');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:ec64:6605::/64', 'IPv6');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:ec64:66fe::/64', 'IPv6');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:ec64:66ff::/64', 'IPv6');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('104.28.30.50/32', 'IPv4');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('104.28.30.51/32', 'IPv4');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('104.28.54.58/32', 'IPv4');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('104.28.54.59/32', 'IPv4');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('104.28.62.38/32', 'IPv4');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('104.28.62.39/32', 'IPv4');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('104.28.64.17/32', 'IPv4');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('104.28.64.18/32', 'IPv4');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('104.28.129.20/32', 'IPv4');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('104.28.129.21/32', 'IPv4');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:2a38::/45', 'IPv6');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:2a40::/45', 'IPv6');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:1725::/64', 'IPv6');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:187d::/64', 'IPv6');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:2a38::/45', 'IPv6');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:2a40::/45', 'IPv6');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:2a38::/45', 'IPv6');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:2a40::/45', 'IPv6');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:1401::/52', 'IPv6');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:1801:2000::/52', 'IPv6');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:5200:7000::/52', 'IPv6');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:5601::/52', 'IPv6');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('140.248.34.52/31', 'IPv4');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('140.248.36.64/31', 'IPv4');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('146.75.166.22/31', 'IPv4');
+INSERT INTO `apple_private_relay_de-hb_ips` (`ip_address`, `ip_type`) VALUES ('146.75.169.52/31', 'IPv4');

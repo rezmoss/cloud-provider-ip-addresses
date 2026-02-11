@@ -1,0 +1,11 @@
+ip_address,ip_type,region
+2a02:26f7:dfc0:46c8::/64,IPv6,ID-BT
+2a02:26f7:dfc0:da86::/64,IPv6,ID-BT
+2a02:26f7:dfc4:46c8::/64,IPv6,ID-BT
+2a02:26f7:dfc4:da86::/64,IPv6,ID-BT
+2a02:26f7:dfc8:46c8::/64,IPv6,ID-BT
+2a02:26f7:dfc8:da86::/64,IPv6,ID-BT
+2a02:26f7:dfcc:46c8::/64,IPv6,ID-BT
+2a02:26f7:dfcc:da86::/64,IPv6,ID-BT
+2a02:26f7:dfcd:46c8::/64,IPv6,ID-BT
+2a02:26f7:dfcd:da86::/64,IPv6,ID-BT

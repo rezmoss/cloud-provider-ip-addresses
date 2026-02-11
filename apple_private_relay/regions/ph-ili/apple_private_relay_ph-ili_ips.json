@@ -1,0 +1,62 @@
+[
+  {
+    "ip_address": "2a02:26f7:b600:db20::/64",
+    "ip_type": "IPv6",
+    "region": "PH-ILI"
+  },
+  {
+    "ip_address": "2a02:26f7:b600:db23::/64",
+    "ip_type": "IPv6",
+    "region": "PH-ILI"
+  },
+  {
+    "ip_address": "2a02:26f7:b600:db2f::/64",
+    "ip_type": "IPv6",
+    "region": "PH-ILI"
+  },
+  {
+    "ip_address": "2a02:26f7:b601:db20::/64",
+    "ip_type": "IPv6",
+    "region": "PH-ILI"
+  },
+  {
+    "ip_address": "2a02:26f7:b601:db23::/64",
+    "ip_type": "IPv6",
+    "region": "PH-ILI"
+  },
+  {
+    "ip_address": "2a02:26f7:b601:db2f::/64",
+    "ip_type": "IPv6",
+    "region": "PH-ILI"
+  },
+  {
+    "ip_address": "2a02:26f7:b604:db20::/64",
+    "ip_type": "IPv6",
+    "region": "PH-ILI"
+  },
+  {
+    "ip_address": "2a02:26f7:b604:db23::/64",
+    "ip_type": "IPv6",
+    "region": "PH-ILI"
+  },
+  {
+    "ip_address": "2a02:26f7:b604:db2f::/64",
+    "ip_type": "IPv6",
+    "region": "PH-ILI"
+  },
+  {
+    "ip_address": "2a02:26f7:b608:db20::/64",
+    "ip_type": "IPv6",
+    "region": "PH-ILI"
+  },
+  {
+    "ip_address": "2a02:26f7:b608:db23::/64",
+    "ip_type": "IPv6",
+    "region": "PH-ILI"
+  },
+  {
+    "ip_address": "2a02:26f7:b608:db2f::/64",
+    "ip_type": "IPv6",
+    "region": "PH-ILI"
+  }
+]

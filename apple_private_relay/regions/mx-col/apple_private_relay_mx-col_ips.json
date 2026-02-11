@@ -1,0 +1,57 @@
+[
+  {
+    "ip_address": "2a02:26f7:c000:5c19::/64",
+    "ip_type": "IPv6",
+    "region": "MX-COL"
+  },
+  {
+    "ip_address": "2a02:26f7:c002:5c19::/64",
+    "ip_type": "IPv6",
+    "region": "MX-COL"
+  },
+  {
+    "ip_address": "2a02:26f7:c009:5c19::/64",
+    "ip_type": "IPv6",
+    "region": "MX-COL"
+  },
+  {
+    "ip_address": "2a02:26f7:c00c:5c19::/64",
+    "ip_type": "IPv6",
+    "region": "MX-COL"
+  },
+  {
+    "ip_address": "2a02:26f7:c010:5c19::/64",
+    "ip_type": "IPv6",
+    "region": "MX-COL"
+  },
+  {
+    "ip_address": "2a02:26f7:c014:5c19::/64",
+    "ip_type": "IPv6",
+    "region": "MX-COL"
+  },
+  {
+    "ip_address": "2a02:26f7:c018:5c19::/64",
+    "ip_type": "IPv6",
+    "region": "MX-COL"
+  },
+  {
+    "ip_address": "2606:54c0:4a30::/45",
+    "ip_type": "IPv6",
+    "region": "MX-COL"
+  },
+  {
+    "ip_address": "2606:54c3:0:5b7::/64",
+    "ip_type": "IPv6",
+    "region": "MX-COL"
+  },
+  {
+    "ip_address": "2a09:bac2:4a30::/45",
+    "ip_type": "IPv6",
+    "region": "MX-COL"
+  },
+  {
+    "ip_address": "2a09:bac3:4a30::/45",
+    "ip_type": "IPv6",
+    "region": "MX-COL"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "ip_address": "172.224.230.16/28",
+    "ip_type": "IPv4",
+    "region": "BI"
+  },
+  {
+    "ip_address": "172.225.98.32/27",
+    "ip_type": "IPv4",
+    "region": "BI"
+  },
+  {
+    "ip_address": "172.225.136.32/28",
+    "ip_type": "IPv4",
+    "region": "BI"
+  },
+  {
+    "ip_address": "172.225.226.64/28",
+    "ip_type": "IPv4",
+    "region": "BI"
+  },
+  {
+    "ip_address": "2a02:26f7:e140:4000::/64",
+    "ip_type": "IPv6",
+    "region": "BI"
+  },
+  {
+    "ip_address": "2a02:26f7:e140:c0e0::/64",
+    "ip_type": "IPv6",
+    "region": "BI"
+  },
+  {
+    "ip_address": "2a02:26f7:e141:4000::/64",
+    "ip_type": "IPv6",
+    "region": "BI"
+  },
+  {
+    "ip_address": "2a02:26f7:e144:4000::/64",
+    "ip_type": "IPv6",
+    "region": "BI"
+  },
+  {
+    "ip_address": "2a02:26f7:e144:c0e0::/64",
+    "ip_type": "IPv6",
+    "region": "BI"
+  },
+  {
+    "ip_address": "2a02:26f7:e145:4000::/64",
+    "ip_type": "IPv6",
+    "region": "BI"
+  },
+  {
+    "ip_address": "2a02:26f7:e148:4000::/64",
+    "ip_type": "IPv6",
+    "region": "BI"
+  },
+  {
+    "ip_address": "2a02:26f7:e148:c0e0::/64",
+    "ip_type": "IPv6",
+    "region": "BI"
+  },
+  {
+    "ip_address": "2a02:26f7:e149:4000::/64",
+    "ip_type": "IPv6",
+    "region": "BI"
+  },
+  {
+    "ip_address": "2a02:26f7:e14c:4000::/64",
+    "ip_type": "IPv6",
+    "region": "BI"
+  },
+  {
+    "ip_address": "2a02:26f7:e14c:c0e0::/64",
+    "ip_type": "IPv6",
+    "region": "BI"
+  },
+  {
+    "ip_address": "2a02:26f7:e14d:4000::/64",
+    "ip_type": "IPv6",
+    "region": "BI"
+  },
+  {
+    "ip_address": "2a04:4e41:12c2::/48",
+    "ip_type": "IPv6",
+    "region": "BI"
+  },
+  {
+    "ip_address": "2a04:4e41:1607::/48",
+    "ip_type": "IPv6",
+    "region": "BI"
+  },
+  {
+    "ip_address": "2a04:4e41:180f::/48",
+    "ip_type": "IPv6",
+    "region": "BI"
+  },
+  {
+    "ip_address": "2a04:4e41:7407::/48",
+    "ip_type": "IPv6",
+    "region": "BI"
+  },
+  {
+    "ip_address": "140.248.36.26/31",
+    "ip_type": "IPv4",
+    "region": "BI"
+  },
+  {
+    "ip_address": "146.75.168.10/31",
+    "ip_type": "IPv4",
+    "region": "BI"
+  },
+  {
+    "ip_address": "146.75.185.10/31",
+    "ip_type": "IPv4",
+    "region": "BI"
+  },
+  {
+    "ip_address": "146.75.198.2/31",
+    "ip_type": "IPv4",
+    "region": "BI"
+  }
+]

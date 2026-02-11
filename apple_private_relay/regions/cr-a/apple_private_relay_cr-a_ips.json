@@ -1,0 +1,37 @@
+[
+  {
+    "ip_address": "2a04:4e41:003c:0003::/64",
+    "ip_type": "IPv6",
+    "region": "CR-A"
+  },
+  {
+    "ip_address": "2a04:4e41:180::/52",
+    "ip_type": "IPv6",
+    "region": "CR-A"
+  },
+  {
+    "ip_address": "2a04:4e41:3600::/52",
+    "ip_type": "IPv6",
+    "region": "CR-A"
+  },
+  {
+    "ip_address": "2a04:4e41:3a00:1000::/52",
+    "ip_type": "IPv6",
+    "region": "CR-A"
+  },
+  {
+    "ip_address": "140.248.4.14/31",
+    "ip_type": "IPv4",
+    "region": "CR-A"
+  },
+  {
+    "ip_address": "140.248.44.24/31",
+    "ip_type": "IPv4",
+    "region": "CR-A"
+  },
+  {
+    "ip_address": "146.75.208.6/31",
+    "ip_type": "IPv4",
+    "region": "CR-A"
+  }
+]

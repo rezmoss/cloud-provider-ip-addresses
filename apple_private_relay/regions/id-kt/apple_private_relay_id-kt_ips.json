@@ -1,0 +1,52 @@
+[
+  {
+    "ip_address": "2a02:26f7:dfc0:46e0::/64",
+    "ip_type": "IPv6",
+    "region": "ID-KT"
+  },
+  {
+    "ip_address": "2a02:26f7:dfc0:da99::/64",
+    "ip_type": "IPv6",
+    "region": "ID-KT"
+  },
+  {
+    "ip_address": "2a02:26f7:dfc4:46e0::/64",
+    "ip_type": "IPv6",
+    "region": "ID-KT"
+  },
+  {
+    "ip_address": "2a02:26f7:dfc4:da99::/64",
+    "ip_type": "IPv6",
+    "region": "ID-KT"
+  },
+  {
+    "ip_address": "2a02:26f7:dfc8:46e0::/64",
+    "ip_type": "IPv6",
+    "region": "ID-KT"
+  },
+  {
+    "ip_address": "2a02:26f7:dfc8:da99::/64",
+    "ip_type": "IPv6",
+    "region": "ID-KT"
+  },
+  {
+    "ip_address": "2a02:26f7:dfcc:46e0::/64",
+    "ip_type": "IPv6",
+    "region": "ID-KT"
+  },
+  {
+    "ip_address": "2a02:26f7:dfcc:da99::/64",
+    "ip_type": "IPv6",
+    "region": "ID-KT"
+  },
+  {
+    "ip_address": "2a02:26f7:dfcd:46e0::/64",
+    "ip_type": "IPv6",
+    "region": "ID-KT"
+  },
+  {
+    "ip_address": "2a02:26f7:dfcd:da99::/64",
+    "ip_type": "IPv6",
+    "region": "ID-KT"
+  }
+]

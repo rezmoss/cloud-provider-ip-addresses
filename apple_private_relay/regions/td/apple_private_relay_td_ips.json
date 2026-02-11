@@ -1,0 +1,132 @@
+[
+  {
+    "ip_address": "172.224.231.64/28",
+    "ip_type": "IPv4",
+    "region": "TD"
+  },
+  {
+    "ip_address": "172.225.96.128/27",
+    "ip_type": "IPv4",
+    "region": "TD"
+  },
+  {
+    "ip_address": "172.225.224.16/28",
+    "ip_type": "IPv4",
+    "region": "TD"
+  },
+  {
+    "ip_address": "172.225.243.96/28",
+    "ip_type": "IPv4",
+    "region": "TD"
+  },
+  {
+    "ip_address": "2a02:26f7:ec80:4000::/64",
+    "ip_type": "IPv6",
+    "region": "TD"
+  },
+  {
+    "ip_address": "2a02:26f7:ec80:c840::/64",
+    "ip_type": "IPv6",
+    "region": "TD"
+  },
+  {
+    "ip_address": "2a02:26f7:ec81:4000::/64",
+    "ip_type": "IPv6",
+    "region": "TD"
+  },
+  {
+    "ip_address": "2a02:26f7:ec84:4000::/64",
+    "ip_type": "IPv6",
+    "region": "TD"
+  },
+  {
+    "ip_address": "2a02:26f7:ec84:c840::/64",
+    "ip_type": "IPv6",
+    "region": "TD"
+  },
+  {
+    "ip_address": "2a02:26f7:ec85:4000::/64",
+    "ip_type": "IPv6",
+    "region": "TD"
+  },
+  {
+    "ip_address": "2a02:26f7:ec88:4000::/64",
+    "ip_type": "IPv6",
+    "region": "TD"
+  },
+  {
+    "ip_address": "2a02:26f7:ec88:c840::/64",
+    "ip_type": "IPv6",
+    "region": "TD"
+  },
+  {
+    "ip_address": "2a02:26f7:ec89:4000::/64",
+    "ip_type": "IPv6",
+    "region": "TD"
+  },
+  {
+    "ip_address": "2a02:26f7:ec8c:4000::/64",
+    "ip_type": "IPv6",
+    "region": "TD"
+  },
+  {
+    "ip_address": "2a02:26f7:ec8c:c840::/64",
+    "ip_type": "IPv6",
+    "region": "TD"
+  },
+  {
+    "ip_address": "2a02:26f7:ec8d:4000::/64",
+    "ip_type": "IPv6",
+    "region": "TD"
+  },
+  {
+    "ip_address": "2a04:4e41:1426::/48",
+    "ip_type": "IPv6",
+    "region": "TD"
+  },
+  {
+    "ip_address": "2a04:4e41:1840::/48",
+    "ip_type": "IPv6",
+    "region": "TD"
+  },
+  {
+    "ip_address": "2a04:4e41:5626::/48",
+    "ip_type": "IPv6",
+    "region": "TD"
+  },
+  {
+    "ip_address": "2a04:4e41:5e22::/48",
+    "ip_type": "IPv6",
+    "region": "TD"
+  },
+  {
+    "ip_address": "2a04:4e41:7622::/48",
+    "ip_type": "IPv6",
+    "region": "TD"
+  },
+  {
+    "ip_address": "140.248.34.224/31",
+    "ip_type": "IPv4",
+    "region": "TD"
+  },
+  {
+    "ip_address": "140.248.37.44/31",
+    "ip_type": "IPv4",
+    "region": "TD"
+  },
+  {
+    "ip_address": "146.75.132.134/31",
+    "ip_type": "IPv4",
+    "region": "TD"
+  },
+  {
+    "ip_address": "146.75.160.134/31",
+    "ip_type": "IPv4",
+    "region": "TD"
+  },
+  {
+    "ip_address": "146.75.169.224/31",
+    "ip_type": "IPv4",
+    "region": "TD"
+  }
+]

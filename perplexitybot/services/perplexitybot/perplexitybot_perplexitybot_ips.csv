@@ -1,0 +1,9 @@
+ip_address,ip_type,service
+107.20.236.150/32,IPv4,perplexitybot
+3.224.62.45/32,IPv4,perplexitybot
+18.210.92.235/32,IPv4,perplexitybot
+3.222.232.239/32,IPv4,perplexitybot
+3.211.124.183/32,IPv4,perplexitybot
+3.231.139.107/32,IPv4,perplexitybot
+18.97.1.228/30,IPv4,perplexitybot
+18.97.9.96/29,IPv4,perplexitybot

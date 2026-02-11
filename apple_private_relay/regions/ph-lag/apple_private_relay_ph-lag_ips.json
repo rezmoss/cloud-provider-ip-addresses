@@ -1,0 +1,42 @@
+[
+  {
+    "ip_address": "2a02:26f7:b600:db06::/64",
+    "ip_type": "IPv6",
+    "region": "PH-LAG"
+  },
+  {
+    "ip_address": "2a02:26f7:b600:db26::/64",
+    "ip_type": "IPv6",
+    "region": "PH-LAG"
+  },
+  {
+    "ip_address": "2a02:26f7:b601:db06::/64",
+    "ip_type": "IPv6",
+    "region": "PH-LAG"
+  },
+  {
+    "ip_address": "2a02:26f7:b601:db26::/64",
+    "ip_type": "IPv6",
+    "region": "PH-LAG"
+  },
+  {
+    "ip_address": "2a02:26f7:b604:db06::/64",
+    "ip_type": "IPv6",
+    "region": "PH-LAG"
+  },
+  {
+    "ip_address": "2a02:26f7:b604:db26::/64",
+    "ip_type": "IPv6",
+    "region": "PH-LAG"
+  },
+  {
+    "ip_address": "2a02:26f7:b608:db06::/64",
+    "ip_type": "IPv6",
+    "region": "PH-LAG"
+  },
+  {
+    "ip_address": "2a02:26f7:b608:db26::/64",
+    "ip_type": "IPv6",
+    "region": "PH-LAG"
+  }
+]

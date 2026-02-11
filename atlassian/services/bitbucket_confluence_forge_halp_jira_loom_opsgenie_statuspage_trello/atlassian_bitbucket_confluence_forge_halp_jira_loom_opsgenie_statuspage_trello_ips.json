@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "13.35.248.0/24",
+    "ip_type": "IPv4",
+    "service": "bitbucket,confluence,forge,halp,jira,loom,opsgenie,statuspage,trello",
+    "region": "global"
+  },
+  {
+    "ip_address": "13.227.180.0/24",
+    "ip_type": "IPv4",
+    "service": "bitbucket,confluence,forge,halp,jira,loom,opsgenie,statuspage,trello",
+    "region": "global"
+  },
+  {
+    "ip_address": "13.227.213.0/24",
+    "ip_type": "IPv4",
+    "service": "bitbucket,confluence,forge,halp,jira,loom,opsgenie,statuspage,trello",
+    "region": "global"
+  }
+]

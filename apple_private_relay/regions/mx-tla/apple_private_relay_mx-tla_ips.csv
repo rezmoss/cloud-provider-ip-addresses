@@ -1,0 +1,8 @@
+ip_address,ip_type,region
+2a02:26f7:c000:5c5e::/64,IPv6,MX-TLA
+2a02:26f7:c002:5c5e::/64,IPv6,MX-TLA
+2a02:26f7:c009:5c5e::/64,IPv6,MX-TLA
+2a02:26f7:c00c:5c5e::/64,IPv6,MX-TLA
+2a02:26f7:c010:5c5e::/64,IPv6,MX-TLA
+2a02:26f7:c014:5c5e::/64,IPv6,MX-TLA
+2a02:26f7:c018:5c5e::/64,IPv6,MX-TLA

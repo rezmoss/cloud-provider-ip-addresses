@@ -1,0 +1,6 @@
+ip_address,ip_type,region
+104.28.148.96/32,IPv4,RU-TVE
+2606:54c0:5100::/45,IPv6,RU-TVE
+2606:54c3:0:2f8::/64,IPv6,RU-TVE
+2a09:bac2:5100::/45,IPv6,RU-TVE
+2a09:bac3:5100::/45,IPv6,RU-TVE

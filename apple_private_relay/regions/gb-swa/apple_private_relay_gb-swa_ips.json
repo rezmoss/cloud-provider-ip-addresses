@@ -1,0 +1,112 @@
+[
+  {
+    "ip_address": "104.28.40.126/32",
+    "ip_type": "IPv4",
+    "region": "GB-SWA"
+  },
+  {
+    "ip_address": "104.28.40.127/32",
+    "ip_type": "IPv4",
+    "region": "GB-SWA"
+  },
+  {
+    "ip_address": "104.28.42.112/32",
+    "ip_type": "IPv4",
+    "region": "GB-SWA"
+  },
+  {
+    "ip_address": "104.28.42.113/32",
+    "ip_type": "IPv4",
+    "region": "GB-SWA"
+  },
+  {
+    "ip_address": "104.28.53.63/32",
+    "ip_type": "IPv4",
+    "region": "GB-SWA"
+  },
+  {
+    "ip_address": "104.28.53.64/32",
+    "ip_type": "IPv4",
+    "region": "GB-SWA"
+  },
+  {
+    "ip_address": "104.28.86.92/32",
+    "ip_type": "IPv4",
+    "region": "GB-SWA"
+  },
+  {
+    "ip_address": "104.28.86.93/32",
+    "ip_type": "IPv4",
+    "region": "GB-SWA"
+  },
+  {
+    "ip_address": "104.28.89.63/32",
+    "ip_type": "IPv4",
+    "region": "GB-SWA"
+  },
+  {
+    "ip_address": "104.28.89.64/32",
+    "ip_type": "IPv4",
+    "region": "GB-SWA"
+  },
+  {
+    "ip_address": "2606:54c0:3810::/45",
+    "ip_type": "IPv6",
+    "region": "GB-SWA"
+  },
+  {
+    "ip_address": "2606:54c3:0:b7c::/64",
+    "ip_type": "IPv6",
+    "region": "GB-SWA"
+  },
+  {
+    "ip_address": "2a09:bac2:3810::/45",
+    "ip_type": "IPv6",
+    "region": "GB-SWA"
+  },
+  {
+    "ip_address": "2a09:bac3:3810::/45",
+    "ip_type": "IPv6",
+    "region": "GB-SWA"
+  },
+  {
+    "ip_address": "2a04:4e41:1302:9000::/52",
+    "ip_type": "IPv6",
+    "region": "GB-SWA"
+  },
+  {
+    "ip_address": "2a04:4e41:1602:f000::/52",
+    "ip_type": "IPv6",
+    "region": "GB-SWA"
+  },
+  {
+    "ip_address": "2a04:4e41:4e02:8000::/52",
+    "ip_type": "IPv6",
+    "region": "GB-SWA"
+  },
+  {
+    "ip_address": "2a04:4e41:7402:f000::/52",
+    "ip_type": "IPv6",
+    "region": "GB-SWA"
+  },
+  {
+    "ip_address": "140.248.40.104/31",
+    "ip_type": "IPv4",
+    "region": "GB-SWA"
+  },
+  {
+    "ip_address": "146.75.168.118/31",
+    "ip_type": "IPv4",
+    "region": "GB-SWA"
+  },
+  {
+    "ip_address": "146.75.174.92/31",
+    "ip_type": "IPv4",
+    "region": "GB-SWA"
+  },
+  {
+    "ip_address": "146.75.185.118/31",
+    "ip_type": "IPv4",
+    "region": "GB-SWA"
+  }
+]

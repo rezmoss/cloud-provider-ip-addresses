@@ -1,0 +1,222 @@
+[
+  {
+    "ip_address": "172.225.40.0/27",
+    "ip_type": "IPv4",
+    "region": "AL"
+  },
+  {
+    "ip_address": "172.225.144.0/27",
+    "ip_type": "IPv4",
+    "region": "AL"
+  },
+  {
+    "ip_address": "172.225.226.0/28",
+    "ip_type": "IPv4",
+    "region": "AL"
+  },
+  {
+    "ip_address": "2a02:26f7:e240:4000::/64",
+    "ip_type": "IPv6",
+    "region": "AL"
+  },
+  {
+    "ip_address": "2a02:26f7:e240:d0e0::/64",
+    "ip_type": "IPv6",
+    "region": "AL"
+  },
+  {
+    "ip_address": "2a02:26f7:e240:d0e1::/64",
+    "ip_type": "IPv6",
+    "region": "AL"
+  },
+  {
+    "ip_address": "2a02:26f7:e240:d0e2::/64",
+    "ip_type": "IPv6",
+    "region": "AL"
+  },
+  {
+    "ip_address": "2a02:26f7:e240:d0e3::/64",
+    "ip_type": "IPv6",
+    "region": "AL"
+  },
+  {
+    "ip_address": "2a02:26f7:e240:d0e4::/64",
+    "ip_type": "IPv6",
+    "region": "AL"
+  },
+  {
+    "ip_address": "2a02:26f7:e240:d0e5::/64",
+    "ip_type": "IPv6",
+    "region": "AL"
+  },
+  {
+    "ip_address": "2a02:26f7:e240:d0e6::/64",
+    "ip_type": "IPv6",
+    "region": "AL"
+  },
+  {
+    "ip_address": "2a02:26f7:e240:d0e7::/64",
+    "ip_type": "IPv6",
+    "region": "AL"
+  },
+  {
+    "ip_address": "2a02:26f7:e240:d0e8::/64",
+    "ip_type": "IPv6",
+    "region": "AL"
+  },
+  {
+    "ip_address": "2a02:26f7:e241:4000::/64",
+    "ip_type": "IPv6",
+    "region": "AL"
+  },
+  {
+    "ip_address": "2a02:26f7:e244:4000::/64",
+    "ip_type": "IPv6",
+    "region": "AL"
+  },
+  {
+    "ip_address": "2a02:26f7:e244:d0e0::/64",
+    "ip_type": "IPv6",
+    "region": "AL"
+  },
+  {
+    "ip_address": "2a02:26f7:e244:d0e1::/64",
+    "ip_type": "IPv6",
+    "region": "AL"
+  },
+  {
+    "ip_address": "2a02:26f7:e244:d0e2::/64",
+    "ip_type": "IPv6",
+    "region": "AL"
+  },
+  {
+    "ip_address": "2a02:26f7:e244:d0e3::/64",
+    "ip_type": "IPv6",
+    "region": "AL"
+  },
+  {
+    "ip_address": "2a02:26f7:e244:d0e4::/64",
+    "ip_type": "IPv6",
+    "region": "AL"
+  },
+  {
+    "ip_address": "2a02:26f7:e244:d0e5::/64",
+    "ip_type": "IPv6",
+    "region": "AL"
+  },
+  {
+    "ip_address": "2a02:26f7:e244:d0e6::/64",
+    "ip_type": "IPv6",
+    "region": "AL"
+  },
+  {
+    "ip_address": "2a02:26f7:e244:d0e7::/64",
+    "ip_type": "IPv6",
+    "region": "AL"
+  },
+  {
+    "ip_address": "2a02:26f7:e244:d0e8::/64",
+    "ip_type": "IPv6",
+    "region": "AL"
+  },
+  {
+    "ip_address": "2a02:26f7:e245:4000::/64",
+    "ip_type": "IPv6",
+    "region": "AL"
+  },
+  {
+    "ip_address": "2a02:26f7:e248:4000::/64",
+    "ip_type": "IPv6",
+    "region": "AL"
+  },
+  {
+    "ip_address": "2a02:26f7:e248:d0e0::/64",
+    "ip_type": "IPv6",
+    "region": "AL"
+  },
+  {
+    "ip_address": "2a02:26f7:e248:d0e1::/64",
+    "ip_type": "IPv6",
+    "region": "AL"
+  },
+  {
+    "ip_address": "2a02:26f7:e248:d0e2::/64",
+    "ip_type": "IPv6",
+    "region": "AL"
+  },
+  {
+    "ip_address": "2a02:26f7:e248:d0e3::/64",
+    "ip_type": "IPv6",
+    "region": "AL"
+  },
+  {
+    "ip_address": "2a02:26f7:e248:d0e4::/64",
+    "ip_type": "IPv6",
+    "region": "AL"
+  },
+  {
+    "ip_address": "2a02:26f7:e248:d0e5::/64",
+    "ip_type": "IPv6",
+    "region": "AL"
+  },
+  {
+    "ip_address": "2a02:26f7:e248:d0e6::/64",
+    "ip_type": "IPv6",
+    "region": "AL"
+  },
+  {
+    "ip_address": "2a02:26f7:e248:d0e7::/64",
+    "ip_type": "IPv6",
+    "region": "AL"
+  },
+  {
+    "ip_address": "2a02:26f7:e248:d0e8::/64",
+    "ip_type": "IPv6",
+    "region": "AL"
+  },
+  {
+    "ip_address": "2a02:26f7:e249:4000::/64",
+    "ip_type": "IPv6",
+    "region": "AL"
+  },
+  {
+    "ip_address": "2a04:4e41:1305::/48",
+    "ip_type": "IPv6",
+    "region": "AL"
+  },
+  {
+    "ip_address": "2a04:4e41:1407::/48",
+    "ip_type": "IPv6",
+    "region": "AL"
+  },
+  {
+    "ip_address": "2a04:4e41:1808::/48",
+    "ip_type": "IPv6",
+    "region": "AL"
+  },
+  {
+    "ip_address": "2a04:4e41:5607::/48",
+    "ip_type": "IPv6",
+    "region": "AL"
+  },
+  {
+    "ip_address": "140.248.34.2/31",
+    "ip_type": "IPv4",
+    "region": "AL"
+  },
+  {
+    "ip_address": "140.248.36.2/31",
+    "ip_type": "IPv4",
+    "region": "AL"
+  },
+  {
+    "ip_address": "140.248.40.2/31",
+    "ip_type": "IPv4",
+    "region": "AL"
+  },
+  {
+    "ip_address": "146.75.169.2/31",
+    "ip_type": "IPv4",
+    "region": "AL"
+  }
+]

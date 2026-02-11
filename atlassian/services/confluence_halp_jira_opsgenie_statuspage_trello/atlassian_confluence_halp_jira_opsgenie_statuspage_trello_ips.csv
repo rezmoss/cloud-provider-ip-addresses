@@ -1,0 +1,6 @@
+ip_address,ip_type,service,region
+43.202.69.0/25,IPv4,"confluence,halp,jira,opsgenie,statuspage,trello",ap-northeast-2
+16.63.53.128/25,IPv4,"confluence,halp,jira,opsgenie,statuspage,trello",eu-central-2
+185.166.140.0/24,IPv4,"confluence,halp,jira,opsgenie,statuspage,trello",ap-northeast-1
+104.192.136.0/24,IPv4,"confluence,halp,jira,opsgenie,statuspage,trello",ca-central-1
+185.166.141.0/24,IPv4,"confluence,halp,jira,opsgenie,statuspage,trello",eu-west-2

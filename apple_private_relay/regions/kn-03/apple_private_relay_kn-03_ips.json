@@ -1,0 +1,92 @@
+[
+  {
+    "ip_address": "104.28.36.144/32",
+    "ip_type": "IPv4",
+    "region": "KN-03"
+  },
+  {
+    "ip_address": "104.28.36.145/32",
+    "ip_type": "IPv4",
+    "region": "KN-03"
+  },
+  {
+    "ip_address": "104.28.76.63/32",
+    "ip_type": "IPv4",
+    "region": "KN-03"
+  },
+  {
+    "ip_address": "104.28.76.64/32",
+    "ip_type": "IPv4",
+    "region": "KN-03"
+  },
+  {
+    "ip_address": "104.28.78.63/32",
+    "ip_type": "IPv4",
+    "region": "KN-03"
+  },
+  {
+    "ip_address": "104.28.78.64/32",
+    "ip_type": "IPv4",
+    "region": "KN-03"
+  },
+  {
+    "ip_address": "104.28.92.130/32",
+    "ip_type": "IPv4",
+    "region": "KN-03"
+  },
+  {
+    "ip_address": "104.28.92.131/32",
+    "ip_type": "IPv4",
+    "region": "KN-03"
+  },
+  {
+    "ip_address": "104.28.94.130/32",
+    "ip_type": "IPv4",
+    "region": "KN-03"
+  },
+  {
+    "ip_address": "104.28.94.131/32",
+    "ip_type": "IPv4",
+    "region": "KN-03"
+  },
+  {
+    "ip_address": "104.28.109.65/32",
+    "ip_type": "IPv4",
+    "region": "KN-03"
+  },
+  {
+    "ip_address": "104.28.109.66/32",
+    "ip_type": "IPv4",
+    "region": "KN-03"
+  },
+  {
+    "ip_address": "104.28.126.128/32",
+    "ip_type": "IPv4",
+    "region": "KN-03"
+  },
+  {
+    "ip_address": "104.28.126.129/32",
+    "ip_type": "IPv4",
+    "region": "KN-03"
+  },
+  {
+    "ip_address": "2606:54c0:4670::/45",
+    "ip_type": "IPv6",
+    "region": "KN-03"
+  },
+  {
+    "ip_address": "2606:54c3:0:101::/64",
+    "ip_type": "IPv6",
+    "region": "KN-03"
+  },
+  {
+    "ip_address": "2a09:bac2:4670::/45",
+    "ip_type": "IPv6",
+    "region": "KN-03"
+  },
+  {
+    "ip_address": "2a09:bac3:4670::/45",
+    "ip_type": "IPv6",
+    "region": "KN-03"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "ip_address": "104.28.32.72/32",
+    "ip_type": "IPv4",
+    "region": "HN-FM"
+  },
+  {
+    "ip_address": "104.28.32.73/32",
+    "ip_type": "IPv4",
+    "region": "HN-FM"
+  },
+  {
+    "ip_address": "104.28.36.102/32",
+    "ip_type": "IPv4",
+    "region": "HN-FM"
+  },
+  {
+    "ip_address": "104.28.36.103/32",
+    "ip_type": "IPv4",
+    "region": "HN-FM"
+  },
+  {
+    "ip_address": "104.28.91.68/32",
+    "ip_type": "IPv4",
+    "region": "HN-FM"
+  },
+  {
+    "ip_address": "104.28.91.69/32",
+    "ip_type": "IPv4",
+    "region": "HN-FM"
+  },
+  {
+    "ip_address": "104.28.92.95/32",
+    "ip_type": "IPv4",
+    "region": "HN-FM"
+  },
+  {
+    "ip_address": "104.28.92.96/32",
+    "ip_type": "IPv4",
+    "region": "HN-FM"
+  },
+  {
+    "ip_address": "104.28.94.95/32",
+    "ip_type": "IPv4",
+    "region": "HN-FM"
+  },
+  {
+    "ip_address": "104.28.94.96/32",
+    "ip_type": "IPv4",
+    "region": "HN-FM"
+  },
+  {
+    "ip_address": "104.28.126.95/32",
+    "ip_type": "IPv4",
+    "region": "HN-FM"
+  },
+  {
+    "ip_address": "104.28.126.96/32",
+    "ip_type": "IPv4",
+    "region": "HN-FM"
+  },
+  {
+    "ip_address": "2606:54c0:3930::/45",
+    "ip_type": "IPv6",
+    "region": "HN-FM"
+  },
+  {
+    "ip_address": "2606:54c3:0:434::/64",
+    "ip_type": "IPv6",
+    "region": "HN-FM"
+  },
+  {
+    "ip_address": "2a09:bac2:3930::/45",
+    "ip_type": "IPv6",
+    "region": "HN-FM"
+  },
+  {
+    "ip_address": "2a09:bac3:3930::/45",
+    "ip_type": "IPv6",
+    "region": "HN-FM"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "ip_address": "104.28.66.122/32",
+    "ip_type": "IPv4",
+    "region": "TW-KEE"
+  },
+  {
+    "ip_address": "104.28.66.123/32",
+    "ip_type": "IPv4",
+    "region": "TW-KEE"
+  },
+  {
+    "ip_address": "104.28.69.122/32",
+    "ip_type": "IPv4",
+    "region": "TW-KEE"
+  },
+  {
+    "ip_address": "104.28.69.123/32",
+    "ip_type": "IPv4",
+    "region": "TW-KEE"
+  },
+  {
+    "ip_address": "104.28.83.94/32",
+    "ip_type": "IPv4",
+    "region": "TW-KEE"
+  },
+  {
+    "ip_address": "104.28.83.95/32",
+    "ip_type": "IPv4",
+    "region": "TW-KEE"
+  },
+  {
+    "ip_address": "104.28.99.88/32",
+    "ip_type": "IPv4",
+    "region": "TW-KEE"
+  },
+  {
+    "ip_address": "104.28.99.89/32",
+    "ip_type": "IPv4",
+    "region": "TW-KEE"
+  },
+  {
+    "ip_address": "104.28.101.88/32",
+    "ip_type": "IPv4",
+    "region": "TW-KEE"
+  },
+  {
+    "ip_address": "104.28.101.89/32",
+    "ip_type": "IPv4",
+    "region": "TW-KEE"
+  },
+  {
+    "ip_address": "104.28.117.124/32",
+    "ip_type": "IPv4",
+    "region": "TW-KEE"
+  },
+  {
+    "ip_address": "104.28.117.125/32",
+    "ip_type": "IPv4",
+    "region": "TW-KEE"
+  },
+  {
+    "ip_address": "104.28.120.124/32",
+    "ip_type": "IPv4",
+    "region": "TW-KEE"
+  },
+  {
+    "ip_address": "104.28.120.125/32",
+    "ip_type": "IPv4",
+    "region": "TW-KEE"
+  },
+  {
+    "ip_address": "104.28.128.16/32",
+    "ip_type": "IPv4",
+    "region": "TW-KEE"
+  },
+  {
+    "ip_address": "104.28.128.17/32",
+    "ip_type": "IPv4",
+    "region": "TW-KEE"
+  },
+  {
+    "ip_address": "2606:54c0:5800::/45",
+    "ip_type": "IPv6",
+    "region": "TW-KEE"
+  },
+  {
+    "ip_address": "2606:54c3:0:1a18::/64",
+    "ip_type": "IPv6",
+    "region": "TW-KEE"
+  },
+  {
+    "ip_address": "2a09:bac2:5800::/45",
+    "ip_type": "IPv6",
+    "region": "TW-KEE"
+  },
+  {
+    "ip_address": "2a09:bac3:5800::/45",
+    "ip_type": "IPv6",
+    "region": "TW-KEE"
+  }
+]

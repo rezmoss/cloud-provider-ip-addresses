@@ -1,0 +1,72 @@
+[
+  {
+    "ip_address": "104.28.30.86/32",
+    "ip_type": "IPv4",
+    "region": "GB-KHL"
+  },
+  {
+    "ip_address": "104.28.30.87/32",
+    "ip_type": "IPv4",
+    "region": "GB-KHL"
+  },
+  {
+    "ip_address": "104.28.40.81/32",
+    "ip_type": "IPv4",
+    "region": "GB-KHL"
+  },
+  {
+    "ip_address": "104.28.40.82/32",
+    "ip_type": "IPv4",
+    "region": "GB-KHL"
+  },
+  {
+    "ip_address": "104.28.53.20/32",
+    "ip_type": "IPv4",
+    "region": "GB-KHL"
+  },
+  {
+    "ip_address": "104.28.53.21/32",
+    "ip_type": "IPv4",
+    "region": "GB-KHL"
+  },
+  {
+    "ip_address": "104.28.86.47/32",
+    "ip_type": "IPv4",
+    "region": "GB-KHL"
+  },
+  {
+    "ip_address": "104.28.86.48/32",
+    "ip_type": "IPv4",
+    "region": "GB-KHL"
+  },
+  {
+    "ip_address": "104.28.89.18/32",
+    "ip_type": "IPv4",
+    "region": "GB-KHL"
+  },
+  {
+    "ip_address": "104.28.89.19/32",
+    "ip_type": "IPv4",
+    "region": "GB-KHL"
+  },
+  {
+    "ip_address": "2606:54c0:37a0::/45",
+    "ip_type": "IPv6",
+    "region": "GB-KHL"
+  },
+  {
+    "ip_address": "2606:54c3:0:d48::/64",
+    "ip_type": "IPv6",
+    "region": "GB-KHL"
+  },
+  {
+    "ip_address": "2a09:bac2:37a0::/45",
+    "ip_type": "IPv6",
+    "region": "GB-KHL"
+  },
+  {
+    "ip_address": "2a09:bac3:37a0::/45",
+    "ip_type": "IPv6",
+    "region": "GB-KHL"
+  }
+]

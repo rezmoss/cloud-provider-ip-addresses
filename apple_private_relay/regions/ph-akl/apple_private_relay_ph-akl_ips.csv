@@ -1,0 +1,9 @@
+ip_address,ip_type,region
+2a02:26f7:b600:db04::/64,IPv6,PH-AKL
+2a02:26f7:b600:db25::/64,IPv6,PH-AKL
+2a02:26f7:b601:db04::/64,IPv6,PH-AKL
+2a02:26f7:b601:db25::/64,IPv6,PH-AKL
+2a02:26f7:b604:db04::/64,IPv6,PH-AKL
+2a02:26f7:b604:db25::/64,IPv6,PH-AKL
+2a02:26f7:b608:db04::/64,IPv6,PH-AKL
+2a02:26f7:b608:db25::/64,IPv6,PH-AKL

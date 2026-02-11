@@ -1,0 +1,72 @@
+[
+  {
+    "ip_address": "104.28.60.98/32",
+    "ip_type": "IPv4",
+    "region": "JO-IR"
+  },
+  {
+    "ip_address": "104.28.60.99/32",
+    "ip_type": "IPv4",
+    "region": "JO-IR"
+  },
+  {
+    "ip_address": "104.28.80.138/32",
+    "ip_type": "IPv4",
+    "region": "JO-IR"
+  },
+  {
+    "ip_address": "104.28.80.139/32",
+    "ip_type": "IPv4",
+    "region": "JO-IR"
+  },
+  {
+    "ip_address": "104.28.106.112/32",
+    "ip_type": "IPv4",
+    "region": "JO-IR"
+  },
+  {
+    "ip_address": "104.28.106.113/32",
+    "ip_type": "IPv4",
+    "region": "JO-IR"
+  },
+  {
+    "ip_address": "104.28.130.89/32",
+    "ip_type": "IPv4",
+    "region": "JO-IR"
+  },
+  {
+    "ip_address": "104.28.130.90/32",
+    "ip_type": "IPv4",
+    "region": "JO-IR"
+  },
+  {
+    "ip_address": "104.28.131.85/32",
+    "ip_type": "IPv4",
+    "region": "JO-IR"
+  },
+  {
+    "ip_address": "104.28.131.86/32",
+    "ip_type": "IPv4",
+    "region": "JO-IR"
+  },
+  {
+    "ip_address": "2606:54c0:4248::/45",
+    "ip_type": "IPv6",
+    "region": "JO-IR"
+  },
+  {
+    "ip_address": "2606:54c3:0:19bd::/64",
+    "ip_type": "IPv6",
+    "region": "JO-IR"
+  },
+  {
+    "ip_address": "2a09:bac2:4248::/45",
+    "ip_type": "IPv6",
+    "region": "JO-IR"
+  },
+  {
+    "ip_address": "2a09:bac3:4248::/45",
+    "ip_type": "IPv6",
+    "region": "JO-IR"
+  }
+]

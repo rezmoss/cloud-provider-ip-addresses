@@ -1,0 +1,72 @@
+[
+  {
+    "ip_address": "104.28.80.23/32",
+    "ip_type": "IPv4",
+    "region": "BG-03"
+  },
+  {
+    "ip_address": "104.28.80.24/32",
+    "ip_type": "IPv4",
+    "region": "BG-03"
+  },
+  {
+    "ip_address": "104.28.106.25/32",
+    "ip_type": "IPv4",
+    "region": "BG-03"
+  },
+  {
+    "ip_address": "104.28.106.26/32",
+    "ip_type": "IPv4",
+    "region": "BG-03"
+  },
+  {
+    "ip_address": "104.28.114.4/32",
+    "ip_type": "IPv4",
+    "region": "BG-03"
+  },
+  {
+    "ip_address": "104.28.114.5/32",
+    "ip_type": "IPv4",
+    "region": "BG-03"
+  },
+  {
+    "ip_address": "104.28.130.15/32",
+    "ip_type": "IPv4",
+    "region": "BG-03"
+  },
+  {
+    "ip_address": "104.28.130.16/32",
+    "ip_type": "IPv4",
+    "region": "BG-03"
+  },
+  {
+    "ip_address": "104.28.131.11/32",
+    "ip_type": "IPv4",
+    "region": "BG-03"
+  },
+  {
+    "ip_address": "104.28.131.12/32",
+    "ip_type": "IPv4",
+    "region": "BG-03"
+  },
+  {
+    "ip_address": "2606:54c0:4e0::/45",
+    "ip_type": "IPv6",
+    "region": "BG-03"
+  },
+  {
+    "ip_address": "2606:54c3:0:11c8::/64",
+    "ip_type": "IPv6",
+    "region": "BG-03"
+  },
+  {
+    "ip_address": "2a09:bac2:4e0::/45",
+    "ip_type": "IPv6",
+    "region": "BG-03"
+  },
+  {
+    "ip_address": "2a09:bac3:4e0::/45",
+    "ip_type": "IPv6",
+    "region": "BG-03"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "ip_address": "104.28.34.73/32",
+    "ip_type": "IPv4",
+    "region": "ML-BKO"
+  },
+  {
+    "ip_address": "104.28.34.74/32",
+    "ip_type": "IPv4",
+    "region": "ML-BKO"
+  },
+  {
+    "ip_address": "104.28.60.109/32",
+    "ip_type": "IPv4",
+    "region": "ML-BKO"
+  },
+  {
+    "ip_address": "104.28.60.110/32",
+    "ip_type": "IPv4",
+    "region": "ML-BKO"
+  },
+  {
+    "ip_address": "104.28.87.23/32",
+    "ip_type": "IPv4",
+    "region": "ML-BKO"
+  },
+  {
+    "ip_address": "104.28.87.24/32",
+    "ip_type": "IPv4",
+    "region": "ML-BKO"
+  },
+  {
+    "ip_address": "104.28.88.39/32",
+    "ip_type": "IPv4",
+    "region": "ML-BKO"
+  },
+  {
+    "ip_address": "104.28.88.40/32",
+    "ip_type": "IPv4",
+    "region": "ML-BKO"
+  },
+  {
+    "ip_address": "104.28.96.67/32",
+    "ip_type": "IPv4",
+    "region": "ML-BKO"
+  },
+  {
+    "ip_address": "104.28.96.68/32",
+    "ip_type": "IPv4",
+    "region": "ML-BKO"
+  },
+  {
+    "ip_address": "2606:54c0:4870::/45",
+    "ip_type": "IPv6",
+    "region": "ML-BKO"
+  },
+  {
+    "ip_address": "2606:54c3:0:194::/64",
+    "ip_type": "IPv6",
+    "region": "ML-BKO"
+  },
+  {
+    "ip_address": "2a09:bac2:4870::/45",
+    "ip_type": "IPv6",
+    "region": "ML-BKO"
+  },
+  {
+    "ip_address": "2a09:bac3:4870::/45",
+    "ip_type": "IPv6",
+    "region": "ML-BKO"
+  }
+]

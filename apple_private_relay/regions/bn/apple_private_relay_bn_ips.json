@@ -1,0 +1,152 @@
+[
+  {
+    "ip_address": "172.224.241.64/26",
+    "ip_type": "IPv4",
+    "region": "BN"
+  },
+  {
+    "ip_address": "172.225.58.0/27",
+    "ip_type": "IPv4",
+    "region": "BN"
+  },
+  {
+    "ip_address": "172.225.78.96/27",
+    "ip_type": "IPv4",
+    "region": "BN"
+  },
+  {
+    "ip_address": "172.225.180.0/28",
+    "ip_type": "IPv4",
+    "region": "BN"
+  },
+  {
+    "ip_address": "2a02:26f7:c800:4000::/64",
+    "ip_type": "IPv6",
+    "region": "BN"
+  },
+  {
+    "ip_address": "2a02:26f7:c800:ca40::/64",
+    "ip_type": "IPv6",
+    "region": "BN"
+  },
+  {
+    "ip_address": "2a02:26f7:c800:ca41::/64",
+    "ip_type": "IPv6",
+    "region": "BN"
+  },
+  {
+    "ip_address": "2a02:26f7:c801:4000::/64",
+    "ip_type": "IPv6",
+    "region": "BN"
+  },
+  {
+    "ip_address": "2a02:26f7:c804:4000::/64",
+    "ip_type": "IPv6",
+    "region": "BN"
+  },
+  {
+    "ip_address": "2a02:26f7:c804:ca40::/64",
+    "ip_type": "IPv6",
+    "region": "BN"
+  },
+  {
+    "ip_address": "2a02:26f7:c804:ca41::/64",
+    "ip_type": "IPv6",
+    "region": "BN"
+  },
+  {
+    "ip_address": "2a02:26f7:c805:4000::/64",
+    "ip_type": "IPv6",
+    "region": "BN"
+  },
+  {
+    "ip_address": "2a02:26f7:c805:ca40::/64",
+    "ip_type": "IPv6",
+    "region": "BN"
+  },
+  {
+    "ip_address": "2a02:26f7:c805:ca41::/64",
+    "ip_type": "IPv6",
+    "region": "BN"
+  },
+  {
+    "ip_address": "2a02:26f7:c806:4000::/64",
+    "ip_type": "IPv6",
+    "region": "BN"
+  },
+  {
+    "ip_address": "2a02:26f7:c807:4000::/64",
+    "ip_type": "IPv6",
+    "region": "BN"
+  },
+  {
+    "ip_address": "2a02:26f7:c808:4000::/64",
+    "ip_type": "IPv6",
+    "region": "BN"
+  },
+  {
+    "ip_address": "2a02:26f7:c808:ca40::/64",
+    "ip_type": "IPv6",
+    "region": "BN"
+  },
+  {
+    "ip_address": "2a02:26f7:c808:ca41::/64",
+    "ip_type": "IPv6",
+    "region": "BN"
+  },
+  {
+    "ip_address": "2a02:26f7:c809:4000::/64",
+    "ip_type": "IPv6",
+    "region": "BN"
+  },
+  {
+    "ip_address": "2a04:4e41:12a1::/48",
+    "ip_type": "IPv6",
+    "region": "BN"
+  },
+  {
+    "ip_address": "2a04:4e41:5e06::/48",
+    "ip_type": "IPv6",
+    "region": "BN"
+  },
+  {
+    "ip_address": "2a04:4e41:6002::/48",
+    "ip_type": "IPv6",
+    "region": "BN"
+  },
+  {
+    "ip_address": "2a04:4e41:6a02::/48",
+    "ip_type": "IPv6",
+    "region": "BN"
+  },
+  {
+    "ip_address": "2a04:4e41:7606::/48",
+    "ip_type": "IPv6",
+    "region": "BN"
+  },
+  {
+    "ip_address": "140.248.33.0/31",
+    "ip_type": "IPv4",
+    "region": "BN"
+  },
+  {
+    "ip_address": "146.75.132.8/31",
+    "ip_type": "IPv4",
+    "region": "BN"
+  },
+  {
+    "ip_address": "146.75.160.8/31",
+    "ip_type": "IPv4",
+    "region": "BN"
+  },
+  {
+    "ip_address": "146.75.187.0/31",
+    "ip_type": "IPv4",
+    "region": "BN"
+  },
+  {
+    "ip_address": "146.75.189.0/31",
+    "ip_type": "IPv4",
+    "region": "BN"
+  }
+]

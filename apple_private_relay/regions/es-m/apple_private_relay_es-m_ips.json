@@ -1,0 +1,62 @@
+[
+  {
+    "ip_address": "2a04:4e41:800:3000::/52",
+    "ip_type": "IPv6",
+    "region": "ES-M"
+  },
+  {
+    "ip_address": "2a04:4e41:1600:4000::/52",
+    "ip_type": "IPv6",
+    "region": "ES-M"
+  },
+  {
+    "ip_address": "2a04:4e41:4100:1000::/52",
+    "ip_type": "IPv6",
+    "region": "ES-M"
+  },
+  {
+    "ip_address": "2a04:4e41:4800:3000::/52",
+    "ip_type": "IPv6",
+    "region": "ES-M"
+  },
+  {
+    "ip_address": "2a04:4e41:7400:4000::/52",
+    "ip_type": "IPv6",
+    "region": "ES-M"
+  },
+  {
+    "ip_address": "2a04:4e41:7800:1000::/52",
+    "ip_type": "IPv6",
+    "region": "ES-M"
+  },
+  {
+    "ip_address": "140.248.24.16/31",
+    "ip_type": "IPv4",
+    "region": "ES-M"
+  },
+  {
+    "ip_address": "140.248.41.16/31",
+    "ip_type": "IPv4",
+    "region": "ES-M"
+  },
+  {
+    "ip_address": "146.75.168.30/31",
+    "ip_type": "IPv4",
+    "region": "ES-M"
+  },
+  {
+    "ip_address": "146.75.182.18/31",
+    "ip_type": "IPv4",
+    "region": "ES-M"
+  },
+  {
+    "ip_address": "146.75.185.30/31",
+    "ip_type": "IPv4",
+    "region": "ES-M"
+  },
+  {
+    "ip_address": "146.75.210.18/31",
+    "ip_type": "IPv4",
+    "region": "ES-M"
+  }
+]

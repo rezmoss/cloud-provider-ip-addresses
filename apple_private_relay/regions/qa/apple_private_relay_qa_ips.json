@@ -1,0 +1,142 @@
+[
+  {
+    "ip_address": "172.225.162.208/28",
+    "ip_type": "IPv4",
+    "region": "QA"
+  },
+  {
+    "ip_address": "172.225.207.128/27",
+    "ip_type": "IPv4",
+    "region": "QA"
+  },
+  {
+    "ip_address": "172.225.221.144/28",
+    "ip_type": "IPv4",
+    "region": "QA"
+  },
+  {
+    "ip_address": "172.225.229.0/27",
+    "ip_type": "IPv4",
+    "region": "QA"
+  },
+  {
+    "ip_address": "2a02:26f7:e280:4000::/64",
+    "ip_type": "IPv6",
+    "region": "QA"
+  },
+  {
+    "ip_address": "2a02:26f7:e280:c6e0::/64",
+    "ip_type": "IPv6",
+    "region": "QA"
+  },
+  {
+    "ip_address": "2a02:26f7:e281:4000::/64",
+    "ip_type": "IPv6",
+    "region": "QA"
+  },
+  {
+    "ip_address": "2a02:26f7:e282:4000::/64",
+    "ip_type": "IPv6",
+    "region": "QA"
+  },
+  {
+    "ip_address": "2a02:26f7:e282:c6e0::/64",
+    "ip_type": "IPv6",
+    "region": "QA"
+  },
+  {
+    "ip_address": "2a02:26f7:e283:4000::/64",
+    "ip_type": "IPv6",
+    "region": "QA"
+  },
+  {
+    "ip_address": "2a02:26f7:e284:4000::/64",
+    "ip_type": "IPv6",
+    "region": "QA"
+  },
+  {
+    "ip_address": "2a02:26f7:e284:c6e0::/64",
+    "ip_type": "IPv6",
+    "region": "QA"
+  },
+  {
+    "ip_address": "2a02:26f7:e285:4000::/64",
+    "ip_type": "IPv6",
+    "region": "QA"
+  },
+  {
+    "ip_address": "2a02:26f7:e288:4000::/64",
+    "ip_type": "IPv6",
+    "region": "QA"
+  },
+  {
+    "ip_address": "2a02:26f7:e288:c6e0::/64",
+    "ip_type": "IPv6",
+    "region": "QA"
+  },
+  {
+    "ip_address": "2a02:26f7:e289:4000::/64",
+    "ip_type": "IPv6",
+    "region": "QA"
+  },
+  {
+    "ip_address": "2a04:4e41:1224::/48",
+    "ip_type": "IPv6",
+    "region": "QA"
+  },
+  {
+    "ip_address": "2a04:4e41:1264::/48",
+    "ip_type": "IPv6",
+    "region": "QA"
+  },
+  {
+    "ip_address": "2a04:4e41:1835::/48",
+    "ip_type": "IPv6",
+    "region": "QA"
+  },
+  {
+    "ip_address": "2a04:4e41:5219::/48",
+    "ip_type": "IPv6",
+    "region": "QA"
+  },
+  {
+    "ip_address": "2a04:4e41:5e20::/48",
+    "ip_type": "IPv6",
+    "region": "QA"
+  },
+  {
+    "ip_address": "2a04:4e41:7620::/48",
+    "ip_type": "IPv6",
+    "region": "QA"
+  },
+  {
+    "ip_address": "140.248.28.16/31",
+    "ip_type": "IPv4",
+    "region": "QA"
+  },
+  {
+    "ip_address": "140.248.36.234/31",
+    "ip_type": "IPv4",
+    "region": "QA"
+  },
+  {
+    "ip_address": "146.75.132.126/31",
+    "ip_type": "IPv4",
+    "region": "QA"
+  },
+  {
+    "ip_address": "146.75.160.126/31",
+    "ip_type": "IPv4",
+    "region": "QA"
+  },
+  {
+    "ip_address": "146.75.166.122/31",
+    "ip_type": "IPv4",
+    "region": "QA"
+  },
+  {
+    "ip_address": "146.75.211.16/31",
+    "ip_type": "IPv4",
+    "region": "QA"
+  }
+]

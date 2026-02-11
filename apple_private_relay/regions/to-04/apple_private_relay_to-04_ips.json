@@ -1,0 +1,72 @@
+[
+  {
+    "ip_address": "104.28.28.99/32",
+    "ip_type": "IPv4",
+    "region": "TO-04"
+  },
+  {
+    "ip_address": "104.28.28.100/32",
+    "ip_type": "IPv4",
+    "region": "TO-04"
+  },
+  {
+    "ip_address": "104.28.29.81/32",
+    "ip_type": "IPv4",
+    "region": "TO-04"
+  },
+  {
+    "ip_address": "104.28.29.82/32",
+    "ip_type": "IPv4",
+    "region": "TO-04"
+  },
+  {
+    "ip_address": "104.28.35.96/32",
+    "ip_type": "IPv4",
+    "region": "TO-04"
+  },
+  {
+    "ip_address": "104.28.35.97/32",
+    "ip_type": "IPv4",
+    "region": "TO-04"
+  },
+  {
+    "ip_address": "104.28.90.82/32",
+    "ip_type": "IPv4",
+    "region": "TO-04"
+  },
+  {
+    "ip_address": "104.28.90.83/32",
+    "ip_type": "IPv4",
+    "region": "TO-04"
+  },
+  {
+    "ip_address": "104.28.125.90/32",
+    "ip_type": "IPv4",
+    "region": "TO-04"
+  },
+  {
+    "ip_address": "104.28.125.91/32",
+    "ip_type": "IPv4",
+    "region": "TO-04"
+  },
+  {
+    "ip_address": "2606:54c0:57a8::/45",
+    "ip_type": "IPv6",
+    "region": "TO-04"
+  },
+  {
+    "ip_address": "2606:54c3:0:493::/64",
+    "ip_type": "IPv6",
+    "region": "TO-04"
+  },
+  {
+    "ip_address": "2a09:bac2:57a8::/45",
+    "ip_type": "IPv6",
+    "region": "TO-04"
+  },
+  {
+    "ip_address": "2a09:bac3:57a8::/45",
+    "ip_type": "IPv6",
+    "region": "TO-04"
+  }
+]

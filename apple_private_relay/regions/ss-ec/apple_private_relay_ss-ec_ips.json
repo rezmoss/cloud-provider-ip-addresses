@@ -1,0 +1,72 @@
+[
+  {
+    "ip_address": "104.28.46.89/32",
+    "ip_type": "IPv4",
+    "region": "SS-EC"
+  },
+  {
+    "ip_address": "104.28.46.90/32",
+    "ip_type": "IPv4",
+    "region": "SS-EC"
+  },
+  {
+    "ip_address": "104.28.60.201/32",
+    "ip_type": "IPv4",
+    "region": "SS-EC"
+  },
+  {
+    "ip_address": "104.28.60.202/32",
+    "ip_type": "IPv4",
+    "region": "SS-EC"
+  },
+  {
+    "ip_address": "104.28.80.242/32",
+    "ip_type": "IPv4",
+    "region": "SS-EC"
+  },
+  {
+    "ip_address": "104.28.80.243/32",
+    "ip_type": "IPv4",
+    "region": "SS-EC"
+  },
+  {
+    "ip_address": "104.28.82.101/32",
+    "ip_type": "IPv4",
+    "region": "SS-EC"
+  },
+  {
+    "ip_address": "104.28.82.102/32",
+    "ip_type": "IPv4",
+    "region": "SS-EC"
+  },
+  {
+    "ip_address": "104.28.106.203/32",
+    "ip_type": "IPv4",
+    "region": "SS-EC"
+  },
+  {
+    "ip_address": "104.28.106.204/32",
+    "ip_type": "IPv4",
+    "region": "SS-EC"
+  },
+  {
+    "ip_address": "2606:54c0:5550::/45",
+    "ip_type": "IPv6",
+    "region": "SS-EC"
+  },
+  {
+    "ip_address": "2606:54c3:0:dc0::/64",
+    "ip_type": "IPv6",
+    "region": "SS-EC"
+  },
+  {
+    "ip_address": "2a09:bac2:5550::/45",
+    "ip_type": "IPv6",
+    "region": "SS-EC"
+  },
+  {
+    "ip_address": "2a09:bac3:5550::/45",
+    "ip_type": "IPv6",
+    "region": "SS-EC"
+  }
+]

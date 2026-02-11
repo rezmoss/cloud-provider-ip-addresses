@@ -1,0 +1,82 @@
+[
+  {
+    "ip_address": "2a02:26f7:b600:db11::/64",
+    "ip_type": "IPv6",
+    "region": "PH-CEB"
+  },
+  {
+    "ip_address": "2a02:26f7:b600:db14::/64",
+    "ip_type": "IPv6",
+    "region": "PH-CEB"
+  },
+  {
+    "ip_address": "2a02:26f7:b600:db2a::/64",
+    "ip_type": "IPv6",
+    "region": "PH-CEB"
+  },
+  {
+    "ip_address": "2a02:26f7:b600:db31::/64",
+    "ip_type": "IPv6",
+    "region": "PH-CEB"
+  },
+  {
+    "ip_address": "2a02:26f7:b601:db11::/64",
+    "ip_type": "IPv6",
+    "region": "PH-CEB"
+  },
+  {
+    "ip_address": "2a02:26f7:b601:db14::/64",
+    "ip_type": "IPv6",
+    "region": "PH-CEB"
+  },
+  {
+    "ip_address": "2a02:26f7:b601:db2a::/64",
+    "ip_type": "IPv6",
+    "region": "PH-CEB"
+  },
+  {
+    "ip_address": "2a02:26f7:b601:db31::/64",
+    "ip_type": "IPv6",
+    "region": "PH-CEB"
+  },
+  {
+    "ip_address": "2a02:26f7:b604:db11::/64",
+    "ip_type": "IPv6",
+    "region": "PH-CEB"
+  },
+  {
+    "ip_address": "2a02:26f7:b604:db14::/64",
+    "ip_type": "IPv6",
+    "region": "PH-CEB"
+  },
+  {
+    "ip_address": "2a02:26f7:b604:db2a::/64",
+    "ip_type": "IPv6",
+    "region": "PH-CEB"
+  },
+  {
+    "ip_address": "2a02:26f7:b604:db31::/64",
+    "ip_type": "IPv6",
+    "region": "PH-CEB"
+  },
+  {
+    "ip_address": "2a02:26f7:b608:db11::/64",
+    "ip_type": "IPv6",
+    "region": "PH-CEB"
+  },
+  {
+    "ip_address": "2a02:26f7:b608:db14::/64",
+    "ip_type": "IPv6",
+    "region": "PH-CEB"
+  },
+  {
+    "ip_address": "2a02:26f7:b608:db2a::/64",
+    "ip_type": "IPv6",
+    "region": "PH-CEB"
+  },
+  {
+    "ip_address": "2a02:26f7:b608:db31::/64",
+    "ip_type": "IPv6",
+    "region": "PH-CEB"
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "ip_address": "172.225.161.176/28",
+    "ip_type": "IPv4",
+    "region": "SD"
+  },
+  {
+    "ip_address": "172.225.162.240/28",
+    "ip_type": "IPv4",
+    "region": "SD"
+  },
+  {
+    "ip_address": "172.225.227.224/28",
+    "ip_type": "IPv4",
+    "region": "SD"
+  },
+  {
+    "ip_address": "2a02:26f7:db40:4000::/64",
+    "ip_type": "IPv6",
+    "region": "SD"
+  },
+  {
+    "ip_address": "2a02:26f7:db40:cc40::/64",
+    "ip_type": "IPv6",
+    "region": "SD"
+  },
+  {
+    "ip_address": "2a02:26f7:db40:cc41::/64",
+    "ip_type": "IPv6",
+    "region": "SD"
+  },
+  {
+    "ip_address": "2a02:26f7:db41:4000::/64",
+    "ip_type": "IPv6",
+    "region": "SD"
+  },
+  {
+    "ip_address": "2a02:26f7:db44:4000::/64",
+    "ip_type": "IPv6",
+    "region": "SD"
+  },
+  {
+    "ip_address": "2a02:26f7:db44:cc40::/64",
+    "ip_type": "IPv6",
+    "region": "SD"
+  },
+  {
+    "ip_address": "2a02:26f7:db44:cc41::/64",
+    "ip_type": "IPv6",
+    "region": "SD"
+  },
+  {
+    "ip_address": "2a02:26f7:db45:4000::/64",
+    "ip_type": "IPv6",
+    "region": "SD"
+  },
+  {
+    "ip_address": "2a02:26f7:db48:4000::/64",
+    "ip_type": "IPv6",
+    "region": "SD"
+  },
+  {
+    "ip_address": "2a02:26f7:db48:cc40::/64",
+    "ip_type": "IPv6",
+    "region": "SD"
+  },
+  {
+    "ip_address": "2a02:26f7:db48:cc41::/64",
+    "ip_type": "IPv6",
+    "region": "SD"
+  },
+  {
+    "ip_address": "2a02:26f7:db49:4000::/64",
+    "ip_type": "IPv6",
+    "region": "SD"
+  },
+  {
+    "ip_address": "2a04:4e41:161d::/48",
+    "ip_type": "IPv6",
+    "region": "SD"
+  },
+  {
+    "ip_address": "2a04:4e41:183a::/48",
+    "ip_type": "IPv6",
+    "region": "SD"
+  },
+  {
+    "ip_address": "2a04:4e41:521b::/48",
+    "ip_type": "IPv6",
+    "region": "SD"
+  },
+  {
+    "ip_address": "2a04:4e41:741d::/48",
+    "ip_type": "IPv6",
+    "region": "SD"
+  },
+  {
+    "ip_address": "140.248.37.20/31",
+    "ip_type": "IPv4",
+    "region": "SD"
+  },
+  {
+    "ip_address": "146.75.166.128/31",
+    "ip_type": "IPv4",
+    "region": "SD"
+  },
+  {
+    "ip_address": "146.75.168.168/31",
+    "ip_type": "IPv4",
+    "region": "SD"
+  },
+  {
+    "ip_address": "146.75.185.168/31",
+    "ip_type": "IPv4",
+    "region": "SD"
+  }
+]

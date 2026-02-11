@@ -1,0 +1,4 @@
+ip_address,ip_type,region
+65.20.112.0/20,IPv4,SE-AB
+70.34.192.0/19,IPv4,SE-AB
+2a05:f480:2000::/38,IPv6,SE-AB

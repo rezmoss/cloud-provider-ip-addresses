@@ -1,0 +1,72 @@
+[
+  {
+    "ip_address": "104.28.28.46/32",
+    "ip_type": "IPv4",
+    "region": "SB-CT"
+  },
+  {
+    "ip_address": "104.28.28.47/32",
+    "ip_type": "IPv4",
+    "region": "SB-CT"
+  },
+  {
+    "ip_address": "104.28.29.37/32",
+    "ip_type": "IPv4",
+    "region": "SB-CT"
+  },
+  {
+    "ip_address": "104.28.29.38/32",
+    "ip_type": "IPv4",
+    "region": "SB-CT"
+  },
+  {
+    "ip_address": "104.28.35.44/32",
+    "ip_type": "IPv4",
+    "region": "SB-CT"
+  },
+  {
+    "ip_address": "104.28.35.45/32",
+    "ip_type": "IPv4",
+    "region": "SB-CT"
+  },
+  {
+    "ip_address": "104.28.90.48/32",
+    "ip_type": "IPv4",
+    "region": "SB-CT"
+  },
+  {
+    "ip_address": "104.28.90.49/32",
+    "ip_type": "IPv4",
+    "region": "SB-CT"
+  },
+  {
+    "ip_address": "104.28.125.48/32",
+    "ip_type": "IPv4",
+    "region": "SB-CT"
+  },
+  {
+    "ip_address": "104.28.125.49/32",
+    "ip_type": "IPv4",
+    "region": "SB-CT"
+  },
+  {
+    "ip_address": "2606:54c0:5150::/45",
+    "ip_type": "IPv6",
+    "region": "SB-CT"
+  },
+  {
+    "ip_address": "2606:54c3:0:10e1::/64",
+    "ip_type": "IPv6",
+    "region": "SB-CT"
+  },
+  {
+    "ip_address": "2a09:bac2:5150::/45",
+    "ip_type": "IPv6",
+    "region": "SB-CT"
+  },
+  {
+    "ip_address": "2a09:bac3:5150::/45",
+    "ip_type": "IPv6",
+    "region": "SB-CT"
+  }
+]

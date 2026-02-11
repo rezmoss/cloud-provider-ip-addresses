@@ -1,0 +1,75 @@
+-- SQL script to create table `zoom_zoom_ips` and insert IP addresses
+
+CREATE TABLE IF NOT EXISTS `zoom_zoom_ips` (
+  `ip_address` VARCHAR(45) NOT NULL,
+  `ip_type` VARCHAR(10) NOT NULL,
+  PRIMARY KEY (`ip_address`)
+);
+
+INSERT INTO `zoom_zoom_ips` (`ip_address`, `ip_type`) VALUES ('3.7.35.0/25', 'IPv4');
+INSERT INTO `zoom_zoom_ips` (`ip_address`, `ip_type`) VALUES ('3.235.82.0/23', 'IPv4');
+INSERT INTO `zoom_zoom_ips` (`ip_address`, `ip_type`) VALUES ('3.235.96.0/23', 'IPv4');
+INSERT INTO `zoom_zoom_ips` (`ip_address`, `ip_type`) VALUES ('4.34.125.128/25', 'IPv4');
+INSERT INTO `zoom_zoom_ips` (`ip_address`, `ip_type`) VALUES ('4.35.64.128/25', 'IPv4');
+INSERT INTO `zoom_zoom_ips` (`ip_address`, `ip_type`) VALUES ('8.5.128.0/23', 'IPv4');
+INSERT INTO `zoom_zoom_ips` (`ip_address`, `ip_type`) VALUES ('15.220.80.0/24', 'IPv4');
+INSERT INTO `zoom_zoom_ips` (`ip_address`, `ip_type`) VALUES ('15.220.81.0/25', 'IPv4');
+INSERT INTO `zoom_zoom_ips` (`ip_address`, `ip_type`) VALUES ('18.254.23.128/25', 'IPv4');
+INSERT INTO `zoom_zoom_ips` (`ip_address`, `ip_type`) VALUES ('18.254.61.0/25', 'IPv4');
+INSERT INTO `zoom_zoom_ips` (`ip_address`, `ip_type`) VALUES ('20.203.158.80/28', 'IPv4');
+INSERT INTO `zoom_zoom_ips` (`ip_address`, `ip_type`) VALUES ('20.203.190.192/26', 'IPv4');
+INSERT INTO `zoom_zoom_ips` (`ip_address`, `ip_type`) VALUES ('50.239.202.0/23', 'IPv4');
+INSERT INTO `zoom_zoom_ips` (`ip_address`, `ip_type`) VALUES ('50.239.204.0/24', 'IPv4');
+INSERT INTO `zoom_zoom_ips` (`ip_address`, `ip_type`) VALUES ('52.61.100.128/25', 'IPv4');
+INSERT INTO `zoom_zoom_ips` (`ip_address`, `ip_type`) VALUES ('64.125.62.0/24', 'IPv4');
+INSERT INTO `zoom_zoom_ips` (`ip_address`, `ip_type`) VALUES ('64.211.144.0/24', 'IPv4');
+INSERT INTO `zoom_zoom_ips` (`ip_address`, `ip_type`) VALUES ('64.224.32.0/19', 'IPv4');
+INSERT INTO `zoom_zoom_ips` (`ip_address`, `ip_type`) VALUES ('65.39.152.0/24', 'IPv4');
+INSERT INTO `zoom_zoom_ips` (`ip_address`, `ip_type`) VALUES ('69.174.57.0/24', 'IPv4');
+INSERT INTO `zoom_zoom_ips` (`ip_address`, `ip_type`) VALUES ('69.174.108.0/22', 'IPv4');
+INSERT INTO `zoom_zoom_ips` (`ip_address`, `ip_type`) VALUES ('101.36.167.0/24', 'IPv4');
+INSERT INTO `zoom_zoom_ips` (`ip_address`, `ip_type`) VALUES ('101.36.170.0/23', 'IPv4');
+INSERT INTO `zoom_zoom_ips` (`ip_address`, `ip_type`) VALUES ('103.122.166.0/23', 'IPv4');
+INSERT INTO `zoom_zoom_ips` (`ip_address`, `ip_type`) VALUES ('111.33.115.0/25', 'IPv4');
+INSERT INTO `zoom_zoom_ips` (`ip_address`, `ip_type`) VALUES ('111.33.181.0/25', 'IPv4');
+INSERT INTO `zoom_zoom_ips` (`ip_address`, `ip_type`) VALUES ('115.110.154.192/26', 'IPv4');
+INSERT INTO `zoom_zoom_ips` (`ip_address`, `ip_type`) VALUES ('115.114.56.192/26', 'IPv4');
+INSERT INTO `zoom_zoom_ips` (`ip_address`, `ip_type`) VALUES ('115.114.115.0/26', 'IPv4');
+INSERT INTO `zoom_zoom_ips` (`ip_address`, `ip_type`) VALUES ('115.114.131.0/26', 'IPv4');
+INSERT INTO `zoom_zoom_ips` (`ip_address`, `ip_type`) VALUES ('120.29.148.0/24', 'IPv4');
+INSERT INTO `zoom_zoom_ips` (`ip_address`, `ip_type`) VALUES ('121.244.146.0/27', 'IPv4');
+INSERT INTO `zoom_zoom_ips` (`ip_address`, `ip_type`) VALUES ('134.224.0.0/16', 'IPv4');
+INSERT INTO `zoom_zoom_ips` (`ip_address`, `ip_type`) VALUES ('137.66.128.0/17', 'IPv4');
+INSERT INTO `zoom_zoom_ips` (`ip_address`, `ip_type`) VALUES ('144.195.0.0/16', 'IPv4');
+INSERT INTO `zoom_zoom_ips` (`ip_address`, `ip_type`) VALUES ('147.124.96.0/19', 'IPv4');
+INSERT INTO `zoom_zoom_ips` (`ip_address`, `ip_type`) VALUES ('149.137.0.0/17', 'IPv4');
+INSERT INTO `zoom_zoom_ips` (`ip_address`, `ip_type`) VALUES ('156.45.0.0/17', 'IPv4');
+INSERT INTO `zoom_zoom_ips` (`ip_address`, `ip_type`) VALUES ('159.124.0.0/16', 'IPv4');
+INSERT INTO `zoom_zoom_ips` (`ip_address`, `ip_type`) VALUES ('160.1.56.128/25', 'IPv4');
+INSERT INTO `zoom_zoom_ips` (`ip_address`, `ip_type`) VALUES ('161.199.136.0/22', 'IPv4');
+INSERT INTO `zoom_zoom_ips` (`ip_address`, `ip_type`) VALUES ('162.12.232.0/22', 'IPv4');
+INSERT INTO `zoom_zoom_ips` (`ip_address`, `ip_type`) VALUES ('162.255.36.0/22', 'IPv4');
+INSERT INTO `zoom_zoom_ips` (`ip_address`, `ip_type`) VALUES ('165.254.88.0/23', 'IPv4');
+INSERT INTO `zoom_zoom_ips` (`ip_address`, `ip_type`) VALUES ('166.108.64.0/18', 'IPv4');
+INSERT INTO `zoom_zoom_ips` (`ip_address`, `ip_type`) VALUES ('168.140.0.0/17', 'IPv4');
+INSERT INTO `zoom_zoom_ips` (`ip_address`, `ip_type`) VALUES ('170.114.0.0/16', 'IPv4');
+INSERT INTO `zoom_zoom_ips` (`ip_address`, `ip_type`) VALUES ('173.231.80.0/20', 'IPv4');
+INSERT INTO `zoom_zoom_ips` (`ip_address`, `ip_type`) VALUES ('192.204.12.0/22', 'IPv4');
+INSERT INTO `zoom_zoom_ips` (`ip_address`, `ip_type`) VALUES ('198.251.128.0/17', 'IPv4');
+INSERT INTO `zoom_zoom_ips` (`ip_address`, `ip_type`) VALUES ('202.177.207.128/27', 'IPv4');
+INSERT INTO `zoom_zoom_ips` (`ip_address`, `ip_type`) VALUES ('203.200.219.128/27', 'IPv4');
+INSERT INTO `zoom_zoom_ips` (`ip_address`, `ip_type`) VALUES ('204.80.104.0/21', 'IPv4');
+INSERT INTO `zoom_zoom_ips` (`ip_address`, `ip_type`) VALUES ('204.141.28.0/22', 'IPv4');
+INSERT INTO `zoom_zoom_ips` (`ip_address`, `ip_type`) VALUES ('206.247.0.0/16', 'IPv4');
+INSERT INTO `zoom_zoom_ips` (`ip_address`, `ip_type`) VALUES ('207.226.132.0/24', 'IPv4');
+INSERT INTO `zoom_zoom_ips` (`ip_address`, `ip_type`) VALUES ('209.9.211.0/24', 'IPv4');
+INSERT INTO `zoom_zoom_ips` (`ip_address`, `ip_type`) VALUES ('209.9.215.0/24', 'IPv4');
+INSERT INTO `zoom_zoom_ips` (`ip_address`, `ip_type`) VALUES ('213.19.144.0/24', 'IPv4');
+INSERT INTO `zoom_zoom_ips` (`ip_address`, `ip_type`) VALUES ('213.19.153.0/24', 'IPv4');
+INSERT INTO `zoom_zoom_ips` (`ip_address`, `ip_type`) VALUES ('213.244.140.0/24', 'IPv4');
+INSERT INTO `zoom_zoom_ips` (`ip_address`, `ip_type`) VALUES ('221.122.63.0/24', 'IPv4');
+INSERT INTO `zoom_zoom_ips` (`ip_address`, `ip_type`) VALUES ('221.122.64.0/24', 'IPv4');
+INSERT INTO `zoom_zoom_ips` (`ip_address`, `ip_type`) VALUES ('221.122.88.64/27', 'IPv4');
+INSERT INTO `zoom_zoom_ips` (`ip_address`, `ip_type`) VALUES ('221.122.88.128/25', 'IPv4');
+INSERT INTO `zoom_zoom_ips` (`ip_address`, `ip_type`) VALUES ('221.122.89.128/25', 'IPv4');
+INSERT INTO `zoom_zoom_ips` (`ip_address`, `ip_type`) VALUES ('221.123.139.192/27', 'IPv4');

@@ -1,0 +1,132 @@
+[
+  {
+    "ip_address": "172.225.69.32/27",
+    "ip_type": "IPv4",
+    "region": "UZ"
+  },
+  {
+    "ip_address": "172.225.158.32/28",
+    "ip_type": "IPv4",
+    "region": "UZ"
+  },
+  {
+    "ip_address": "172.225.172.240/28",
+    "ip_type": "IPv4",
+    "region": "UZ"
+  },
+  {
+    "ip_address": "172.225.200.240/28",
+    "ip_type": "IPv4",
+    "region": "UZ"
+  },
+  {
+    "ip_address": "2a02:26f7:cdc0:4000::/64",
+    "ip_type": "IPv6",
+    "region": "UZ"
+  },
+  {
+    "ip_address": "2a02:26f7:cdc0:c900::/64",
+    "ip_type": "IPv6",
+    "region": "UZ"
+  },
+  {
+    "ip_address": "2a02:26f7:cdc1:4000::/64",
+    "ip_type": "IPv6",
+    "region": "UZ"
+  },
+  {
+    "ip_address": "2a02:26f7:cdc4:4000::/64",
+    "ip_type": "IPv6",
+    "region": "UZ"
+  },
+  {
+    "ip_address": "2a02:26f7:cdc4:c900::/64",
+    "ip_type": "IPv6",
+    "region": "UZ"
+  },
+  {
+    "ip_address": "2a02:26f7:cdc5:4000::/64",
+    "ip_type": "IPv6",
+    "region": "UZ"
+  },
+  {
+    "ip_address": "2a02:26f7:cdc8:4000::/64",
+    "ip_type": "IPv6",
+    "region": "UZ"
+  },
+  {
+    "ip_address": "2a02:26f7:cdc8:c900::/64",
+    "ip_type": "IPv6",
+    "region": "UZ"
+  },
+  {
+    "ip_address": "2a02:26f7:cdc9:4000::/64",
+    "ip_type": "IPv6",
+    "region": "UZ"
+  },
+  {
+    "ip_address": "2a02:26f7:cdcc:4000::/64",
+    "ip_type": "IPv6",
+    "region": "UZ"
+  },
+  {
+    "ip_address": "2a02:26f7:cdcc:c900::/64",
+    "ip_type": "IPv6",
+    "region": "UZ"
+  },
+  {
+    "ip_address": "2a02:26f7:cdcd:4000::/64",
+    "ip_type": "IPv6",
+    "region": "UZ"
+  },
+  {
+    "ip_address": "2a04:4e41:1428::/48",
+    "ip_type": "IPv6",
+    "region": "UZ"
+  },
+  {
+    "ip_address": "2a04:4e41:1846::/48",
+    "ip_type": "IPv6",
+    "region": "UZ"
+  },
+  {
+    "ip_address": "2a04:4e41:5628::/48",
+    "ip_type": "IPv6",
+    "region": "UZ"
+  },
+  {
+    "ip_address": "2a04:4e41:5e2b::/48",
+    "ip_type": "IPv6",
+    "region": "UZ"
+  },
+  {
+    "ip_address": "2a04:4e41:762b::/48",
+    "ip_type": "IPv6",
+    "region": "UZ"
+  },
+  {
+    "ip_address": "140.248.34.238/31",
+    "ip_type": "IPv4",
+    "region": "UZ"
+  },
+  {
+    "ip_address": "140.248.37.74/31",
+    "ip_type": "IPv4",
+    "region": "UZ"
+  },
+  {
+    "ip_address": "146.75.132.162/31",
+    "ip_type": "IPv4",
+    "region": "UZ"
+  },
+  {
+    "ip_address": "146.75.160.162/31",
+    "ip_type": "IPv4",
+    "region": "UZ"
+  },
+  {
+    "ip_address": "146.75.169.238/31",
+    "ip_type": "IPv4",
+    "region": "UZ"
+  }
+]

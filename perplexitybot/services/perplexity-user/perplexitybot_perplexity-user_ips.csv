@@ -1,0 +1,5 @@
+ip_address,ip_type,service
+44.208.221.197/32,IPv4,perplexity-user
+34.193.163.52/32,IPv4,perplexity-user
+18.97.21.0/30,IPv4,perplexity-user
+18.97.43.80/29,IPv4,perplexity-user

@@ -1,0 +1,77 @@
+#!/bin/bash
+# Apple_private_relay IP Ranges
+# Updated: 2026-02-11 17:28:48
+# Source: https://github.com/rezmoss/cloud-provider-ip-addresses
+# License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
+# This file is generated automatically. Do not edit it directly.
+# Updates daily at 00:00 UTC
+# iptables deny rules for apple_private_relay
+
+ip6tables -A INPUT -s 2a02:26f7:e340:5418::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:e340:5419::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:e340:541a::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:e340:541b::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:e340:541c::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:e340:541d::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:e340:541e::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:e340:541f::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:e340:5420::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:e340:5421::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:e340:5422::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:e340:5423::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:e342:5418::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:e342:5419::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:e342:541a::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:e342:541b::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:e342:541c::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:e342:541d::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:e342:541e::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:e342:541f::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:e342:5420::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:e342:5421::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:e342:5422::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:e342:5423::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:e344:5418::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:e344:5419::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:e344:541a::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:e344:541b::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:e344:541c::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:e344:541d::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:e344:541e::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:e344:541f::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:e344:5420::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:e344:5421::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:e344:5422::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:e344:5423::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:e348:5418::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:e348:5419::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:e348:541a::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:e348:541b::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:e348:541c::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:e348:541d::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:e348:541e::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:e348:541f::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:e348:5420::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:e348:5421::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:e348:5422::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:e348:5423::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:e34c:5418::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:e34c:5419::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:e34c:541a::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:e34c:541b::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:e34c:541c::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:e34c:541d::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:e34c:541e::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:e34c:541f::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:e34c:5420::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:e34c:5421::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:e34c:5422::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:e34c:5423::/64 -j DROP
+ip6tables -A INPUT -s 2606:54c0:1dd8::/45 -j DROP
+ip6tables -A INPUT -s 2606:54c0:1de0::/45 -j DROP
+ip6tables -A INPUT -s 2606:54c3:0:706::/64 -j DROP
+ip6tables -A INPUT -s 2606:54c3:0:786::/64 -j DROP
+ip6tables -A INPUT -s 2a09:bac2:1dd8::/45 -j DROP
+ip6tables -A INPUT -s 2a09:bac2:1de0::/45 -j DROP
+ip6tables -A INPUT -s 2a09:bac3:1dd8::/45 -j DROP
+ip6tables -A INPUT -s 2a09:bac3:1de0::/45 -j DROP

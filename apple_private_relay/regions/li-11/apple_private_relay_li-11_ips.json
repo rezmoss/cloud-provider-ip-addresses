@@ -1,0 +1,72 @@
+[
+  {
+    "ip_address": "104.28.54.78/32",
+    "ip_type": "IPv4",
+    "region": "LI-11"
+  },
+  {
+    "ip_address": "104.28.54.79/32",
+    "ip_type": "IPv4",
+    "region": "LI-11"
+  },
+  {
+    "ip_address": "104.28.62.73/32",
+    "ip_type": "IPv4",
+    "region": "LI-11"
+  },
+  {
+    "ip_address": "104.28.62.74/32",
+    "ip_type": "IPv4",
+    "region": "LI-11"
+  },
+  {
+    "ip_address": "104.28.98.66/32",
+    "ip_type": "IPv4",
+    "region": "LI-11"
+  },
+  {
+    "ip_address": "104.28.98.67/32",
+    "ip_type": "IPv4",
+    "region": "LI-11"
+  },
+  {
+    "ip_address": "104.28.114.31/32",
+    "ip_type": "IPv4",
+    "region": "LI-11"
+  },
+  {
+    "ip_address": "104.28.114.32/32",
+    "ip_type": "IPv4",
+    "region": "LI-11"
+  },
+  {
+    "ip_address": "104.28.135.64/32",
+    "ip_type": "IPv4",
+    "region": "LI-11"
+  },
+  {
+    "ip_address": "104.28.135.65/32",
+    "ip_type": "IPv4",
+    "region": "LI-11"
+  },
+  {
+    "ip_address": "2606:54c0:47a0::/45",
+    "ip_type": "IPv6",
+    "region": "LI-11"
+  },
+  {
+    "ip_address": "2606:54c3:0:af2::/64",
+    "ip_type": "IPv6",
+    "region": "LI-11"
+  },
+  {
+    "ip_address": "2a09:bac2:47a0::/45",
+    "ip_type": "IPv6",
+    "region": "LI-11"
+  },
+  {
+    "ip_address": "2a09:bac3:47a0::/45",
+    "ip_type": "IPv6",
+    "region": "LI-11"
+  }
+]

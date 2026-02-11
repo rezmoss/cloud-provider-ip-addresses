@@ -1,0 +1,117 @@
+[
+  {
+    "ip_address": "172.225.161.192/28",
+    "ip_type": "IPv4",
+    "region": "SO"
+  },
+  {
+    "ip_address": "172.225.163.0/28",
+    "ip_type": "IPv4",
+    "region": "SO"
+  },
+  {
+    "ip_address": "172.225.221.192/28",
+    "ip_type": "IPv4",
+    "region": "SO"
+  },
+  {
+    "ip_address": "2a02:26f7:d2c0:4000::/64",
+    "ip_type": "IPv6",
+    "region": "SO"
+  },
+  {
+    "ip_address": "2a02:26f7:d2c0:cc60::/64",
+    "ip_type": "IPv6",
+    "region": "SO"
+  },
+  {
+    "ip_address": "2a02:26f7:d2c0:cc61::/64",
+    "ip_type": "IPv6",
+    "region": "SO"
+  },
+  {
+    "ip_address": "2a02:26f7:d2c1:4000::/64",
+    "ip_type": "IPv6",
+    "region": "SO"
+  },
+  {
+    "ip_address": "2a02:26f7:d2c4:4000::/64",
+    "ip_type": "IPv6",
+    "region": "SO"
+  },
+  {
+    "ip_address": "2a02:26f7:d2c4:cc60::/64",
+    "ip_type": "IPv6",
+    "region": "SO"
+  },
+  {
+    "ip_address": "2a02:26f7:d2c4:cc61::/64",
+    "ip_type": "IPv6",
+    "region": "SO"
+  },
+  {
+    "ip_address": "2a02:26f7:d2c5:4000::/64",
+    "ip_type": "IPv6",
+    "region": "SO"
+  },
+  {
+    "ip_address": "2a02:26f7:d2c8:4000::/64",
+    "ip_type": "IPv6",
+    "region": "SO"
+  },
+  {
+    "ip_address": "2a02:26f7:d2c8:cc60::/64",
+    "ip_type": "IPv6",
+    "region": "SO"
+  },
+  {
+    "ip_address": "2a02:26f7:d2c8:cc61::/64",
+    "ip_type": "IPv6",
+    "region": "SO"
+  },
+  {
+    "ip_address": "2a02:26f7:d2c9:4000::/64",
+    "ip_type": "IPv6",
+    "region": "SO"
+  },
+  {
+    "ip_address": "2a04:4e41:161f::/48",
+    "ip_type": "IPv6",
+    "region": "SO"
+  },
+  {
+    "ip_address": "2a04:4e41:183f::/48",
+    "ip_type": "IPv6",
+    "region": "SO"
+  },
+  {
+    "ip_address": "2a04:4e41:521d::/48",
+    "ip_type": "IPv6",
+    "region": "SO"
+  },
+  {
+    "ip_address": "2a04:4e41:741f::/48",
+    "ip_type": "IPv6",
+    "region": "SO"
+  },
+  {
+    "ip_address": "140.248.37.40/31",
+    "ip_type": "IPv4",
+    "region": "SO"
+  },
+  {
+    "ip_address": "146.75.166.132/31",
+    "ip_type": "IPv4",
+    "region": "SO"
+  },
+  {
+    "ip_address": "146.75.168.172/31",
+    "ip_type": "IPv4",
+    "region": "SO"
+  },
+  {
+    "ip_address": "146.75.185.172/31",
+    "ip_type": "IPv4",
+    "region": "SO"
+  }
+]

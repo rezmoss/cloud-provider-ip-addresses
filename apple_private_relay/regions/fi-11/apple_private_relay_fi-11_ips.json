@@ -1,0 +1,72 @@
+[
+  {
+    "ip_address": "104.28.31.19/32",
+    "ip_type": "IPv4",
+    "region": "FI-11"
+  },
+  {
+    "ip_address": "104.28.31.20/32",
+    "ip_type": "IPv4",
+    "region": "FI-11"
+  },
+  {
+    "ip_address": "104.28.45.16/32",
+    "ip_type": "IPv4",
+    "region": "FI-11"
+  },
+  {
+    "ip_address": "104.28.45.17/32",
+    "ip_type": "IPv4",
+    "region": "FI-11"
+  },
+  {
+    "ip_address": "104.28.65.19/32",
+    "ip_type": "IPv4",
+    "region": "FI-11"
+  },
+  {
+    "ip_address": "104.28.65.20/32",
+    "ip_type": "IPv4",
+    "region": "FI-11"
+  },
+  {
+    "ip_address": "104.28.105.14/32",
+    "ip_type": "IPv4",
+    "region": "FI-11"
+  },
+  {
+    "ip_address": "104.28.105.15/32",
+    "ip_type": "IPv4",
+    "region": "FI-11"
+  },
+  {
+    "ip_address": "104.28.131.32/32",
+    "ip_type": "IPv4",
+    "region": "FI-11"
+  },
+  {
+    "ip_address": "104.28.131.33/32",
+    "ip_type": "IPv4",
+    "region": "FI-11"
+  },
+  {
+    "ip_address": "2606:54c0:3158::/45",
+    "ip_type": "IPv6",
+    "region": "FI-11"
+  },
+  {
+    "ip_address": "2606:54c3:0:21d::/64",
+    "ip_type": "IPv6",
+    "region": "FI-11"
+  },
+  {
+    "ip_address": "2a09:bac2:3158::/45",
+    "ip_type": "IPv6",
+    "region": "FI-11"
+  },
+  {
+    "ip_address": "2a09:bac3:3158::/45",
+    "ip_type": "IPv6",
+    "region": "FI-11"
+  }
+]

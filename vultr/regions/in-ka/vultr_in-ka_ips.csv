@@ -1,0 +1,5 @@
+ip_address,ip_type,region
+64.176.96.0/19,IPv4,IN-KA
+139.84.128.0/19,IPv4,IN-KA
+139.84.208.0/20,IPv4,IN-KA
+2401:c080:3000::/38,IPv6,IN-KA

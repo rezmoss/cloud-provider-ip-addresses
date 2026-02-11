@@ -1,0 +1,62 @@
+[
+  {
+    "ip_address": "2a02:26f7:b6c0:4e29::/64",
+    "ip_type": "IPv6",
+    "region": "UA-KK"
+  },
+  {
+    "ip_address": "2a02:26f7:b6c0:4e35::/64",
+    "ip_type": "IPv6",
+    "region": "UA-KK"
+  },
+  {
+    "ip_address": "2a02:26f7:b6c0:dd08::/64",
+    "ip_type": "IPv6",
+    "region": "UA-KK"
+  },
+  {
+    "ip_address": "2a02:26f7:b6c4:4e29::/64",
+    "ip_type": "IPv6",
+    "region": "UA-KK"
+  },
+  {
+    "ip_address": "2a02:26f7:b6c4:4e35::/64",
+    "ip_type": "IPv6",
+    "region": "UA-KK"
+  },
+  {
+    "ip_address": "2a02:26f7:b6c4:dd08::/64",
+    "ip_type": "IPv6",
+    "region": "UA-KK"
+  },
+  {
+    "ip_address": "2a02:26f7:b6c8:4e29::/64",
+    "ip_type": "IPv6",
+    "region": "UA-KK"
+  },
+  {
+    "ip_address": "2a02:26f7:b6c8:4e35::/64",
+    "ip_type": "IPv6",
+    "region": "UA-KK"
+  },
+  {
+    "ip_address": "2a02:26f7:b6c8:dd08::/64",
+    "ip_type": "IPv6",
+    "region": "UA-KK"
+  },
+  {
+    "ip_address": "2a02:26f7:b6cc:4e29::/64",
+    "ip_type": "IPv6",
+    "region": "UA-KK"
+  },
+  {
+    "ip_address": "2a02:26f7:b6cc:4e35::/64",
+    "ip_type": "IPv6",
+    "region": "UA-KK"
+  },
+  {
+    "ip_address": "2a02:26f7:b6cc:dd08::/64",
+    "ip_type": "IPv6",
+    "region": "UA-KK"
+  }
+]

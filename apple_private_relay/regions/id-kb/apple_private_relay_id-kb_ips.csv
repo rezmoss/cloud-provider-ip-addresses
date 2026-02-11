@@ -1,0 +1,11 @@
+ip_address,ip_type,region
+2a02:26f7:dfc0:46ff::/64,IPv6,ID-KB
+2a02:26f7:dfc0:da8e::/64,IPv6,ID-KB
+2a02:26f7:dfc4:46ff::/64,IPv6,ID-KB
+2a02:26f7:dfc4:da8e::/64,IPv6,ID-KB
+2a02:26f7:dfc8:46ff::/64,IPv6,ID-KB
+2a02:26f7:dfc8:da8e::/64,IPv6,ID-KB
+2a02:26f7:dfcc:46ff::/64,IPv6,ID-KB
+2a02:26f7:dfcc:da8e::/64,IPv6,ID-KB
+2a02:26f7:dfcd:46ff::/64,IPv6,ID-KB
+2a02:26f7:dfcd:da8e::/64,IPv6,ID-KB

@@ -1,0 +1,737 @@
+[
+  {
+    "ip_address": "172.225.30.128/28",
+    "ip_type": "IPv4",
+    "region": "GT"
+  },
+  {
+    "ip_address": "172.225.32.160/27",
+    "ip_type": "IPv4",
+    "region": "GT"
+  },
+  {
+    "ip_address": "172.225.92.112/28",
+    "ip_type": "IPv4",
+    "region": "GT"
+  },
+  {
+    "ip_address": "172.225.93.112/29",
+    "ip_type": "IPv4",
+    "region": "GT"
+  },
+  {
+    "ip_address": "172.225.165.80/28",
+    "ip_type": "IPv4",
+    "region": "GT"
+  },
+  {
+    "ip_address": "172.225.165.192/27",
+    "ip_type": "IPv4",
+    "region": "GT"
+  },
+  {
+    "ip_address": "172.226.8.0/28",
+    "ip_type": "IPv4",
+    "region": "GT"
+  },
+  {
+    "ip_address": "172.226.8.16/29",
+    "ip_type": "IPv4",
+    "region": "GT"
+  },
+  {
+    "ip_address": "172.226.82.32/27",
+    "ip_type": "IPv4",
+    "region": "GT"
+  },
+  {
+    "ip_address": "172.226.82.64/28",
+    "ip_type": "IPv4",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be40:4000::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be40:4540::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be40:4541::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be40:4542::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be40:4543::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be40:4544::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be40:4545::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be40:4546::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be40:4547::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be40:4548::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be40:4549::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be40:454a::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be40:454b::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be40:454c::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be40:454d::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be40:454e::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be40:454f::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be40:4550::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be40:4551::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be40:4552::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be40:4553::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be40:4554::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be41:4000::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be44:4000::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be44:4540::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be44:4541::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be44:4542::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be44:4543::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be44:4544::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be44:4545::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be44:4546::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be44:4547::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be44:4548::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be44:4549::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be44:454a::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be44:454b::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be44:454c::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be44:454d::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be44:454e::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be44:454f::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be44:4550::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be44:4551::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be44:4552::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be44:4553::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be44:4554::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be45:4000::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be48:4000::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be48:4540::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be48:4541::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be48:4542::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be48:4543::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be48:4544::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be48:4545::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be48:4546::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be48:4547::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be48:4548::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be48:4549::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be48:454a::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be48:454b::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be48:454c::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be48:454d::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be48:454e::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be48:454f::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be48:4550::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be48:4551::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be48:4552::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be48:4553::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be48:4554::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be49:4000::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be4c:4000::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be4c:4540::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be4c:4541::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be4c:4542::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be4c:4543::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be4c:4544::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be4c:4545::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be4c:4546::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be4c:4547::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be4c:4548::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be4c:4549::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be4c:454a::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be4c:454b::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be4c:454c::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be4c:454d::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be4c:454e::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be4c:454f::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be4c:4550::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be4c:4551::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be4c:4552::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be4c:4553::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be4c:4554::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be4d:4000::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be50:4000::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be50:4540::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be50:4541::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be50:4542::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be50:4543::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be50:4544::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be50:4545::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be50:4546::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be50:4547::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be50:4548::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be50:4549::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be50:454a::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be50:454b::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be50:454c::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be50:454d::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be50:454e::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be50:454f::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be50:4550::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be50:4551::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be50:4552::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be50:4553::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be50:4554::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a02:26f7:be51:4000::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "104.28.144.105/32",
+    "ip_type": "IPv4",
+    "region": "GT"
+  },
+  {
+    "ip_address": "104.28.149.42/32",
+    "ip_type": "IPv4",
+    "region": "GT"
+  },
+  {
+    "ip_address": "104.28.150.237/32",
+    "ip_type": "IPv4",
+    "region": "GT"
+  },
+  {
+    "ip_address": "104.28.151.177/32",
+    "ip_type": "IPv4",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2606:54c0:38d8::/45",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2606:54c0:38e0::/45",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2606:54c3:0:2c1::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2606:54c3:0:801::/64",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a09:bac2:38d8::/45",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a09:bac2:38e0::/45",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a09:bac3:38d8::/45",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a09:bac3:38e0::/45",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a04:4e41:361b::/48",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a04:4e41:3a22::/48",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a04:4e41:3e16::/48",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a04:4e41:7016::/48",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "2a04:4e41:7216::/48",
+    "ip_type": "IPv6",
+    "region": "GT"
+  },
+  {
+    "ip_address": "140.248.4.34/31",
+    "ip_type": "IPv4",
+    "region": "GT"
+  },
+  {
+    "ip_address": "140.248.12.16/31",
+    "ip_type": "IPv4",
+    "region": "GT"
+  },
+  {
+    "ip_address": "140.248.44.52/31",
+    "ip_type": "IPv4",
+    "region": "GT"
+  },
+  {
+    "ip_address": "146.75.232.16/31",
+    "ip_type": "IPv4",
+    "region": "GT"
+  },
+  {
+    "ip_address": "146.75.248.16/31",
+    "ip_type": "IPv4",
+    "region": "GT"
+  }
+]

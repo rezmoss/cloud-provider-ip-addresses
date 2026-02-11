@@ -1,0 +1,467 @@
+[
+  {
+    "ip_address": "172.225.34.0/28",
+    "ip_type": "IPv4",
+    "region": "BA"
+  },
+  {
+    "ip_address": "172.225.40.96/27",
+    "ip_type": "IPv4",
+    "region": "BA"
+  },
+  {
+    "ip_address": "172.225.190.64/27",
+    "ip_type": "IPv4",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca40:4000::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca40:d400::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca40:d401::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca40:d402::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca40:d403::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca40:d404::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca40:d405::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca40:d406::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca40:d407::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca40:d408::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca40:d409::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca40:d40a::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca40:d40b::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca40:d40c::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca40:d40d::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca40:d40e::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca40:d40f::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca40:d410::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca40:d411::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca40:d412::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca40:d413::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca40:d414::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca40:d415::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca40:d416::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca40:d417::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca40:d418::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca40:d419::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca41:4000::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca44:4000::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca44:d400::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca44:d401::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca44:d402::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca44:d403::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca44:d404::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca44:d405::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca44:d406::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca44:d407::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca44:d408::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca44:d409::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca44:d40a::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca44:d40b::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca44:d40c::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca44:d40d::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca44:d40e::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca44:d40f::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca44:d410::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca44:d411::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca44:d412::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca44:d413::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca44:d414::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca44:d415::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca44:d416::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca44:d417::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca44:d418::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca44:d419::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca45:4000::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca48:4000::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca48:d400::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca48:d401::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca48:d402::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca48:d403::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca48:d404::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca48:d405::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca48:d406::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca48:d407::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca48:d408::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca48:d409::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca48:d40a::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca48:d40b::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca48:d40c::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca48:d40d::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca48:d40e::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca48:d40f::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca48:d410::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca48:d411::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca48:d412::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca48:d413::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca48:d414::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca48:d415::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca48:d416::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca48:d417::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca48:d418::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca48:d419::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a02:26f7:ca49:4000::/64",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a04:4e41:180d::/48",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a04:4e41:4ca4::/48",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "2a04:4e41:5801::/48",
+    "ip_type": "IPv6",
+    "region": "BA"
+  },
+  {
+    "ip_address": "140.248.36.20/31",
+    "ip_type": "IPv4",
+    "region": "BA"
+  },
+  {
+    "ip_address": "146.75.180.8/31",
+    "ip_type": "IPv4",
+    "region": "BA"
+  },
+  {
+    "ip_address": "146.75.186.0/31",
+    "ip_type": "IPv4",
+    "region": "BA"
+  }
+]

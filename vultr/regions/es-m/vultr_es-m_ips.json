@@ -1,0 +1,27 @@
+[
+  {
+    "ip_address": "65.20.96.0/20",
+    "ip_type": "IPv4",
+    "region": "ES-M"
+  },
+  {
+    "ip_address": "108.61.97.0/24",
+    "ip_type": "IPv4",
+    "region": "ES-M"
+  },
+  {
+    "ip_address": "208.76.220.0/22",
+    "ip_type": "IPv4",
+    "region": "ES-M"
+  },
+  {
+    "ip_address": "208.85.16.0/21",
+    "ip_type": "IPv4",
+    "region": "ES-M"
+  },
+  {
+    "ip_address": "2a05:f480:2800::/38",
+    "ip_type": "IPv6",
+    "region": "ES-M"
+  }
+]

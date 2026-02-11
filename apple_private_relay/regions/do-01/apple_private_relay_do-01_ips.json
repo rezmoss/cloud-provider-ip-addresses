@@ -1,0 +1,42 @@
+[
+  {
+    "ip_address": "2a04:4e41:3a00:4000::/52",
+    "ip_type": "IPv6",
+    "region": "DO-01"
+  },
+  {
+    "ip_address": "2a04:4e41:3e00:1000::/52",
+    "ip_type": "IPv6",
+    "region": "DO-01"
+  },
+  {
+    "ip_address": "2a04:4e41:7000:1000::/52",
+    "ip_type": "IPv6",
+    "region": "DO-01"
+  },
+  {
+    "ip_address": "2a04:4e41:7200:1000::/52",
+    "ip_type": "IPv6",
+    "region": "DO-01"
+  },
+  {
+    "ip_address": "140.248.12.14/31",
+    "ip_type": "IPv4",
+    "region": "DO-01"
+  },
+  {
+    "ip_address": "140.248.44.36/31",
+    "ip_type": "IPv4",
+    "region": "DO-01"
+  },
+  {
+    "ip_address": "146.75.232.14/31",
+    "ip_type": "IPv4",
+    "region": "DO-01"
+  },
+  {
+    "ip_address": "146.75.248.14/31",
+    "ip_type": "IPv4",
+    "region": "DO-01"
+  }
+]

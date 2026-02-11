@@ -1,0 +1,72 @@
+[
+  {
+    "ip_address": "104.28.31.25/32",
+    "ip_type": "IPv4",
+    "region": "KZ-AST"
+  },
+  {
+    "ip_address": "104.28.31.26/32",
+    "ip_type": "IPv4",
+    "region": "KZ-AST"
+  },
+  {
+    "ip_address": "104.28.51.124/32",
+    "ip_type": "IPv4",
+    "region": "KZ-AST"
+  },
+  {
+    "ip_address": "104.28.51.125/32",
+    "ip_type": "IPv4",
+    "region": "KZ-AST"
+  },
+  {
+    "ip_address": "104.28.65.27/32",
+    "ip_type": "IPv4",
+    "region": "KZ-AST"
+  },
+  {
+    "ip_address": "104.28.65.28/32",
+    "ip_type": "IPv4",
+    "region": "KZ-AST"
+  },
+  {
+    "ip_address": "104.28.106.102/32",
+    "ip_type": "IPv4",
+    "region": "KZ-AST"
+  },
+  {
+    "ip_address": "104.28.106.103/32",
+    "ip_type": "IPv4",
+    "region": "KZ-AST"
+  },
+  {
+    "ip_address": "104.28.131.77/32",
+    "ip_type": "IPv4",
+    "region": "KZ-AST"
+  },
+  {
+    "ip_address": "104.28.131.78/32",
+    "ip_type": "IPv4",
+    "region": "KZ-AST"
+  },
+  {
+    "ip_address": "2606:54c0:4750::/45",
+    "ip_type": "IPv6",
+    "region": "KZ-AST"
+  },
+  {
+    "ip_address": "2606:54c3:0:bc4::/64",
+    "ip_type": "IPv6",
+    "region": "KZ-AST"
+  },
+  {
+    "ip_address": "2a09:bac2:4750::/45",
+    "ip_type": "IPv6",
+    "region": "KZ-AST"
+  },
+  {
+    "ip_address": "2a09:bac3:4750::/45",
+    "ip_type": "IPv6",
+    "region": "KZ-AST"
+  }
+]

@@ -1,0 +1,632 @@
+[
+  {
+    "ip_address": "172.225.32.32/27",
+    "ip_type": "IPv4",
+    "region": "CR"
+  },
+  {
+    "ip_address": "172.225.33.224/28",
+    "ip_type": "IPv4",
+    "region": "CR"
+  },
+  {
+    "ip_address": "172.225.84.232/29",
+    "ip_type": "IPv4",
+    "region": "CR"
+  },
+  {
+    "ip_address": "172.225.84.240/28",
+    "ip_type": "IPv4",
+    "region": "CR"
+  },
+  {
+    "ip_address": "172.225.92.64/28",
+    "ip_type": "IPv4",
+    "region": "CR"
+  },
+  {
+    "ip_address": "172.225.93.88/29",
+    "ip_type": "IPv4",
+    "region": "CR"
+  },
+  {
+    "ip_address": "172.225.173.112/28",
+    "ip_type": "IPv4",
+    "region": "CR"
+  },
+  {
+    "ip_address": "172.225.173.160/27",
+    "ip_type": "IPv4",
+    "region": "CR"
+  },
+  {
+    "ip_address": "172.225.215.232/29",
+    "ip_type": "IPv4",
+    "region": "CR"
+  },
+  {
+    "ip_address": "172.226.13.216/29",
+    "ip_type": "IPv4",
+    "region": "CR"
+  },
+  {
+    "ip_address": "172.226.13.240/28",
+    "ip_type": "IPv4",
+    "region": "CR"
+  },
+  {
+    "ip_address": "172.226.78.16/28",
+    "ip_type": "IPv4",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bec0:4000::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bec0:42c0::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bec0:42c1::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bec0:42c2::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bec0:42c3::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bec0:42c4::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bec0:42c5::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bec0:42c6::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bec0:42c7::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bec0:42c8::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bec0:42c9::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bec0:42ca::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bec0:42cb::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bec0:42cc::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bec0:42cd::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bec0:42ce::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bec1:4000::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bec2:4000::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bec2:42c0::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bec2:42c1::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bec2:42c2::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bec2:42c3::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bec2:42c4::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bec2:42c5::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bec2:42c6::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bec2:42c7::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bec2:42c8::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bec2:42c9::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bec2:42ca::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bec2:42cb::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bec2:42cc::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bec2:42cd::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bec2:42ce::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bec3:4000::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bec4:4000::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bec4:42c0::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bec4:42c1::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bec4:42c2::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bec4:42c3::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bec4:42c4::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bec4:42c5::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bec4:42c6::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bec4:42c7::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bec4:42c8::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bec4:42c9::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bec4:42ca::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bec4:42cb::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bec4:42cc::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bec4:42cd::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bec4:42ce::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bec5:4000::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bec8:4000::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bec8:42c0::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bec8:42c1::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bec8:42c2::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bec8:42c3::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bec8:42c4::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bec8:42c5::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bec8:42c6::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bec8:42c7::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bec8:42c8::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bec8:42c9::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bec8:42ca::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bec8:42cb::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bec8:42cc::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bec8:42cd::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bec8:42ce::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bec9:4000::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:becc:4000::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:becc:42c0::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:becc:42c1::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:becc:42c2::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:becc:42c3::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:becc:42c4::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:becc:42c5::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:becc:42c6::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:becc:42c7::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:becc:42c8::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:becc:42c9::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:becc:42ca::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:becc:42cb::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:becc:42cc::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:becc:42cd::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:becc:42ce::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:becd:4000::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bed0:4000::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bed0:42c0::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bed0:42c1::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bed0:42c2::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bed0:42c3::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bed0:42c4::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bed0:42c5::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bed0:42c6::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bed0:42c7::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bed0:42c8::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bed0:42c9::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bed0:42ca::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bed0:42cb::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bed0:42cc::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bed0:42cd::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bed0:42ce::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a02:26f7:bed1:4000::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2606:54c0:2708::/45",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2606:54c3:0:14bf::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a09:bac2:2708::/45",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a09:bac3:2708::/45",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a04:4e41:003c:0002::/64",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a04:4e41:003c:1200::/56",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a04:4e41:183::/48",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a04:4e41:3616::/48",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2a04:4e41:3a1b::/48",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "140.248.4.12/31",
+    "ip_type": "IPv4",
+    "region": "CR"
+  },
+  {
+    "ip_address": "140.248.44.22/31",
+    "ip_type": "IPv4",
+    "region": "CR"
+  },
+  {
+    "ip_address": "146.75.208.4/31",
+    "ip_type": "IPv4",
+    "region": "CR"
+  }
+]

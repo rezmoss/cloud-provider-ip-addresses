@@ -1,0 +1,102 @@
+[
+  {
+    "ip_address": "2a02:26f7:b6c0:4e25::/64",
+    "ip_type": "IPv6",
+    "region": "UA-ZK"
+  },
+  {
+    "ip_address": "2a02:26f7:b6c0:dd00::/64",
+    "ip_type": "IPv6",
+    "region": "UA-ZK"
+  },
+  {
+    "ip_address": "2a02:26f7:b6c0:dd19::/64",
+    "ip_type": "IPv6",
+    "region": "UA-ZK"
+  },
+  {
+    "ip_address": "2a02:26f7:b6c0:dd1e::/64",
+    "ip_type": "IPv6",
+    "region": "UA-ZK"
+  },
+  {
+    "ip_address": "2a02:26f7:b6c0:dd25::/64",
+    "ip_type": "IPv6",
+    "region": "UA-ZK"
+  },
+  {
+    "ip_address": "2a02:26f7:b6c4:4e25::/64",
+    "ip_type": "IPv6",
+    "region": "UA-ZK"
+  },
+  {
+    "ip_address": "2a02:26f7:b6c4:dd00::/64",
+    "ip_type": "IPv6",
+    "region": "UA-ZK"
+  },
+  {
+    "ip_address": "2a02:26f7:b6c4:dd19::/64",
+    "ip_type": "IPv6",
+    "region": "UA-ZK"
+  },
+  {
+    "ip_address": "2a02:26f7:b6c4:dd1e::/64",
+    "ip_type": "IPv6",
+    "region": "UA-ZK"
+  },
+  {
+    "ip_address": "2a02:26f7:b6c4:dd25::/64",
+    "ip_type": "IPv6",
+    "region": "UA-ZK"
+  },
+  {
+    "ip_address": "2a02:26f7:b6c8:4e25::/64",
+    "ip_type": "IPv6",
+    "region": "UA-ZK"
+  },
+  {
+    "ip_address": "2a02:26f7:b6c8:dd00::/64",
+    "ip_type": "IPv6",
+    "region": "UA-ZK"
+  },
+  {
+    "ip_address": "2a02:26f7:b6c8:dd19::/64",
+    "ip_type": "IPv6",
+    "region": "UA-ZK"
+  },
+  {
+    "ip_address": "2a02:26f7:b6c8:dd1e::/64",
+    "ip_type": "IPv6",
+    "region": "UA-ZK"
+  },
+  {
+    "ip_address": "2a02:26f7:b6c8:dd25::/64",
+    "ip_type": "IPv6",
+    "region": "UA-ZK"
+  },
+  {
+    "ip_address": "2a02:26f7:b6cc:4e25::/64",
+    "ip_type": "IPv6",
+    "region": "UA-ZK"
+  },
+  {
+    "ip_address": "2a02:26f7:b6cc:dd00::/64",
+    "ip_type": "IPv6",
+    "region": "UA-ZK"
+  },
+  {
+    "ip_address": "2a02:26f7:b6cc:dd19::/64",
+    "ip_type": "IPv6",
+    "region": "UA-ZK"
+  },
+  {
+    "ip_address": "2a02:26f7:b6cc:dd1e::/64",
+    "ip_type": "IPv6",
+    "region": "UA-ZK"
+  },
+  {
+    "ip_address": "2a02:26f7:b6cc:dd25::/64",
+    "ip_type": "IPv6",
+    "region": "UA-ZK"
+  }
+]

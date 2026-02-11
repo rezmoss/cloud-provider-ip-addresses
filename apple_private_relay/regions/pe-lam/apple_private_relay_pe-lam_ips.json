@@ -1,0 +1,72 @@
+[
+  {
+    "ip_address": "104.28.36.138/32",
+    "ip_type": "IPv4",
+    "region": "PE-LAM"
+  },
+  {
+    "ip_address": "104.28.36.139/32",
+    "ip_type": "IPv4",
+    "region": "PE-LAM"
+  },
+  {
+    "ip_address": "104.28.59.164/32",
+    "ip_type": "IPv4",
+    "region": "PE-LAM"
+  },
+  {
+    "ip_address": "104.28.59.165/32",
+    "ip_type": "IPv4",
+    "region": "PE-LAM"
+  },
+  {
+    "ip_address": "104.28.92.124/32",
+    "ip_type": "IPv4",
+    "region": "PE-LAM"
+  },
+  {
+    "ip_address": "104.28.92.125/32",
+    "ip_type": "IPv4",
+    "region": "PE-LAM"
+  },
+  {
+    "ip_address": "104.28.94.124/32",
+    "ip_type": "IPv4",
+    "region": "PE-LAM"
+  },
+  {
+    "ip_address": "104.28.94.125/32",
+    "ip_type": "IPv4",
+    "region": "PE-LAM"
+  },
+  {
+    "ip_address": "104.28.115.94/32",
+    "ip_type": "IPv4",
+    "region": "PE-LAM"
+  },
+  {
+    "ip_address": "104.28.115.95/32",
+    "ip_type": "IPv4",
+    "region": "PE-LAM"
+  },
+  {
+    "ip_address": "2606:54c0:4e90::/45",
+    "ip_type": "IPv6",
+    "region": "PE-LAM"
+  },
+  {
+    "ip_address": "2606:54c3:0:c45::/64",
+    "ip_type": "IPv6",
+    "region": "PE-LAM"
+  },
+  {
+    "ip_address": "2a09:bac2:4e90::/45",
+    "ip_type": "IPv6",
+    "region": "PE-LAM"
+  },
+  {
+    "ip_address": "2a09:bac3:4e90::/45",
+    "ip_type": "IPv6",
+    "region": "PE-LAM"
+  }
+]

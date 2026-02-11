@@ -1,0 +1,22 @@
+[
+  {
+    "ip_address": "2606:54c0:5898::/45",
+    "ip_type": "IPv6",
+    "region": "US"
+  },
+  {
+    "ip_address": "2606:54c3:0:10b1::/64",
+    "ip_type": "IPv6",
+    "region": "US"
+  },
+  {
+    "ip_address": "2a09:bac2:5898::/45",
+    "ip_type": "IPv6",
+    "region": "US"
+  },
+  {
+    "ip_address": "2a09:bac3:5898::/45",
+    "ip_type": "IPv6",
+    "region": "US"
+  }
+]

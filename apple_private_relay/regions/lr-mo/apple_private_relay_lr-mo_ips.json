@@ -1,0 +1,72 @@
+[
+  {
+    "ip_address": "104.28.34.69/32",
+    "ip_type": "IPv4",
+    "region": "LR-MO"
+  },
+  {
+    "ip_address": "104.28.34.70/32",
+    "ip_type": "IPv4",
+    "region": "LR-MO"
+  },
+  {
+    "ip_address": "104.28.61.88/32",
+    "ip_type": "IPv4",
+    "region": "LR-MO"
+  },
+  {
+    "ip_address": "104.28.61.89/32",
+    "ip_type": "IPv4",
+    "region": "LR-MO"
+  },
+  {
+    "ip_address": "104.28.87.21/32",
+    "ip_type": "IPv4",
+    "region": "LR-MO"
+  },
+  {
+    "ip_address": "104.28.87.22/32",
+    "ip_type": "IPv4",
+    "region": "LR-MO"
+  },
+  {
+    "ip_address": "104.28.88.37/32",
+    "ip_type": "IPv4",
+    "region": "LR-MO"
+  },
+  {
+    "ip_address": "104.28.88.38/32",
+    "ip_type": "IPv4",
+    "region": "LR-MO"
+  },
+  {
+    "ip_address": "104.28.96.63/32",
+    "ip_type": "IPv4",
+    "region": "LR-MO"
+  },
+  {
+    "ip_address": "104.28.96.64/32",
+    "ip_type": "IPv4",
+    "region": "LR-MO"
+  },
+  {
+    "ip_address": "2606:54c0:47c0::/45",
+    "ip_type": "IPv6",
+    "region": "LR-MO"
+  },
+  {
+    "ip_address": "2606:54c3:0:131e::/64",
+    "ip_type": "IPv6",
+    "region": "LR-MO"
+  },
+  {
+    "ip_address": "2a09:bac2:47c0::/45",
+    "ip_type": "IPv6",
+    "region": "LR-MO"
+  },
+  {
+    "ip_address": "2a09:bac3:47c0::/45",
+    "ip_type": "IPv6",
+    "region": "LR-MO"
+  }
+]

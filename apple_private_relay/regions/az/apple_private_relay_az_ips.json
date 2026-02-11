@@ -1,0 +1,187 @@
+[
+  {
+    "ip_address": "172.225.36.64/27",
+    "ip_type": "IPv4",
+    "region": "AZ"
+  },
+  {
+    "ip_address": "172.225.190.32/27",
+    "ip_type": "IPv4",
+    "region": "AZ"
+  },
+  {
+    "ip_address": "172.225.226.32/28",
+    "ip_type": "IPv4",
+    "region": "AZ"
+  },
+  {
+    "ip_address": "2a02:26f7:e1c0:4000::/64",
+    "ip_type": "IPv6",
+    "region": "AZ"
+  },
+  {
+    "ip_address": "2a02:26f7:e1c0:ca00::/64",
+    "ip_type": "IPv6",
+    "region": "AZ"
+  },
+  {
+    "ip_address": "2a02:26f7:e1c0:ca01::/64",
+    "ip_type": "IPv6",
+    "region": "AZ"
+  },
+  {
+    "ip_address": "2a02:26f7:e1c1:4000::/64",
+    "ip_type": "IPv6",
+    "region": "AZ"
+  },
+  {
+    "ip_address": "2a02:26f7:e1c4:4000::/64",
+    "ip_type": "IPv6",
+    "region": "AZ"
+  },
+  {
+    "ip_address": "2a02:26f7:e1c4:ca00::/64",
+    "ip_type": "IPv6",
+    "region": "AZ"
+  },
+  {
+    "ip_address": "2a02:26f7:e1c4:ca01::/64",
+    "ip_type": "IPv6",
+    "region": "AZ"
+  },
+  {
+    "ip_address": "2a02:26f7:e1c5:4000::/64",
+    "ip_type": "IPv6",
+    "region": "AZ"
+  },
+  {
+    "ip_address": "2a02:26f7:e1c8:4000::/64",
+    "ip_type": "IPv6",
+    "region": "AZ"
+  },
+  {
+    "ip_address": "2a02:26f7:e1c8:ca00::/64",
+    "ip_type": "IPv6",
+    "region": "AZ"
+  },
+  {
+    "ip_address": "2a02:26f7:e1c8:ca01::/64",
+    "ip_type": "IPv6",
+    "region": "AZ"
+  },
+  {
+    "ip_address": "2a02:26f7:e1c9:4000::/64",
+    "ip_type": "IPv6",
+    "region": "AZ"
+  },
+  {
+    "ip_address": "104.28.136.216/32",
+    "ip_type": "IPv4",
+    "region": "AZ"
+  },
+  {
+    "ip_address": "104.28.147.78/32",
+    "ip_type": "IPv4",
+    "region": "AZ"
+  },
+  {
+    "ip_address": "104.28.147.79/32",
+    "ip_type": "IPv4",
+    "region": "AZ"
+  },
+  {
+    "ip_address": "104.28.147.80/32",
+    "ip_type": "IPv4",
+    "region": "AZ"
+  },
+  {
+    "ip_address": "104.28.147.81/32",
+    "ip_type": "IPv4",
+    "region": "AZ"
+  },
+  {
+    "ip_address": "104.28.147.236/32",
+    "ip_type": "IPv4",
+    "region": "AZ"
+  },
+  {
+    "ip_address": "2606:54c0:440::/45",
+    "ip_type": "IPv6",
+    "region": "AZ"
+  },
+  {
+    "ip_address": "2606:54c0:448::/45",
+    "ip_type": "IPv6",
+    "region": "AZ"
+  },
+  {
+    "ip_address": "2606:54c3:0:11a7::/64",
+    "ip_type": "IPv6",
+    "region": "AZ"
+  },
+  {
+    "ip_address": "2606:54c3:0:1276::/64",
+    "ip_type": "IPv6",
+    "region": "AZ"
+  },
+  {
+    "ip_address": "2a09:bac2:440::/45",
+    "ip_type": "IPv6",
+    "region": "AZ"
+  },
+  {
+    "ip_address": "2a09:bac2:448::/45",
+    "ip_type": "IPv6",
+    "region": "AZ"
+  },
+  {
+    "ip_address": "2a09:bac3:440::/45",
+    "ip_type": "IPv6",
+    "region": "AZ"
+  },
+  {
+    "ip_address": "2a09:bac3:448::/45",
+    "ip_type": "IPv6",
+    "region": "AZ"
+  },
+  {
+    "ip_address": "2a04:4e41:205::/48",
+    "ip_type": "IPv6",
+    "region": "AZ"
+  },
+  {
+    "ip_address": "2a04:4e41:1409::/48",
+    "ip_type": "IPv6",
+    "region": "AZ"
+  },
+  {
+    "ip_address": "2a04:4e41:180c::/48",
+    "ip_type": "IPv6",
+    "region": "AZ"
+  },
+  {
+    "ip_address": "2a04:4e41:5609::/48",
+    "ip_type": "IPv6",
+    "region": "AZ"
+  },
+  {
+    "ip_address": "140.248.34.8/31",
+    "ip_type": "IPv4",
+    "region": "AZ"
+  },
+  {
+    "ip_address": "140.248.36.16/31",
+    "ip_type": "IPv4",
+    "region": "AZ"
+  },
+  {
+    "ip_address": "146.75.162.14/31",
+    "ip_type": "IPv4",
+    "region": "AZ"
+  },
+  {
+    "ip_address": "146.75.169.8/31",
+    "ip_type": "IPv4",
+    "region": "AZ"
+  }
+]

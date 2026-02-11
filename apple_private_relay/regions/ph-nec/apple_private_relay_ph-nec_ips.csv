@@ -1,0 +1,9 @@
+ip_address,ip_type,region
+2a02:26f7:b600:db03::/64,IPv6,PH-NEC
+2a02:26f7:b600:db52::/64,IPv6,PH-NEC
+2a02:26f7:b601:db03::/64,IPv6,PH-NEC
+2a02:26f7:b601:db52::/64,IPv6,PH-NEC
+2a02:26f7:b604:db03::/64,IPv6,PH-NEC
+2a02:26f7:b604:db52::/64,IPv6,PH-NEC
+2a02:26f7:b608:db03::/64,IPv6,PH-NEC
+2a02:26f7:b608:db52::/64,IPv6,PH-NEC

@@ -1,0 +1,97 @@
+[
+  {
+    "ip_address": "104.28.32.68/32",
+    "ip_type": "IPv4",
+    "region": "HT-OU"
+  },
+  {
+    "ip_address": "104.28.32.69/32",
+    "ip_type": "IPv4",
+    "region": "HT-OU"
+  },
+  {
+    "ip_address": "104.28.36.98/32",
+    "ip_type": "IPv4",
+    "region": "HT-OU"
+  },
+  {
+    "ip_address": "104.28.36.99/32",
+    "ip_type": "IPv4",
+    "region": "HT-OU"
+  },
+  {
+    "ip_address": "104.28.76.51/32",
+    "ip_type": "IPv4",
+    "region": "HT-OU"
+  },
+  {
+    "ip_address": "104.28.76.52/32",
+    "ip_type": "IPv4",
+    "region": "HT-OU"
+  },
+  {
+    "ip_address": "104.28.78.51/32",
+    "ip_type": "IPv4",
+    "region": "HT-OU"
+  },
+  {
+    "ip_address": "104.28.78.52/32",
+    "ip_type": "IPv4",
+    "region": "HT-OU"
+  },
+  {
+    "ip_address": "104.28.92.91/32",
+    "ip_type": "IPv4",
+    "region": "HT-OU"
+  },
+  {
+    "ip_address": "104.28.92.92/32",
+    "ip_type": "IPv4",
+    "region": "HT-OU"
+  },
+  {
+    "ip_address": "104.28.94.91/32",
+    "ip_type": "IPv4",
+    "region": "HT-OU"
+  },
+  {
+    "ip_address": "104.28.94.92/32",
+    "ip_type": "IPv4",
+    "region": "HT-OU"
+  },
+  {
+    "ip_address": "104.28.126.91/32",
+    "ip_type": "IPv4",
+    "region": "HT-OU"
+  },
+  {
+    "ip_address": "104.28.126.92/32",
+    "ip_type": "IPv4",
+    "region": "HT-OU"
+  },
+  {
+    "ip_address": "104.28.145.47/32",
+    "ip_type": "IPv4",
+    "region": "HT-OU"
+  },
+  {
+    "ip_address": "2606:54c0:3948::/45",
+    "ip_type": "IPv6",
+    "region": "HT-OU"
+  },
+  {
+    "ip_address": "2606:54c3:0:1a2::/64",
+    "ip_type": "IPv6",
+    "region": "HT-OU"
+  },
+  {
+    "ip_address": "2a09:bac2:3948::/45",
+    "ip_type": "IPv6",
+    "region": "HT-OU"
+  },
+  {
+    "ip_address": "2a09:bac3:3948::/45",
+    "ip_type": "IPv6",
+    "region": "HT-OU"
+  }
+]

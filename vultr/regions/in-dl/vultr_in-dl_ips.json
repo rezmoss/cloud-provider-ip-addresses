@@ -1,0 +1,12 @@
+[
+  {
+    "ip_address": "139.84.160.0/19",
+    "ip_type": "IPv4",
+    "region": "IN-DL"
+  },
+  {
+    "ip_address": "2401:c080:3400::/38",
+    "ip_type": "IPv6",
+    "region": "IN-DL"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "ip_address": "45.32.188.0/22",
+    "ip_type": "IPv4",
+    "region": "AU-NSW"
+  },
+  {
+    "ip_address": "45.32.240.0/21",
+    "ip_type": "IPv4",
+    "region": "AU-NSW"
+  },
+  {
+    "ip_address": "45.63.24.0/21",
+    "ip_type": "IPv4",
+    "region": "AU-NSW"
+  },
+  {
+    "ip_address": "45.76.112.0/20",
+    "ip_type": "IPv4",
+    "region": "AU-NSW"
+  },
+  {
+    "ip_address": "45.77.48.0/22",
+    "ip_type": "IPv4",
+    "region": "AU-NSW"
+  },
+  {
+    "ip_address": "45.77.232.0/21",
+    "ip_type": "IPv4",
+    "region": "AU-NSW"
+  },
+  {
+    "ip_address": "103.43.72.0/22",
+    "ip_type": "IPv4",
+    "region": "AU-NSW"
+  },
+  {
+    "ip_address": "104.156.232.0/23",
+    "ip_type": "IPv4",
+    "region": "AU-NSW"
+  },
+  {
+    "ip_address": "107.191.56.0/23",
+    "ip_type": "IPv4",
+    "region": "AU-NSW"
+  },
+  {
+    "ip_address": "108.61.96.0/24",
+    "ip_type": "IPv4",
+    "region": "AU-NSW"
+  },
+  {
+    "ip_address": "108.61.168.0/23",
+    "ip_type": "IPv4",
+    "region": "AU-NSW"
+  },
+  {
+    "ip_address": "108.61.184.0/23",
+    "ip_type": "IPv4",
+    "region": "AU-NSW"
+  },
+  {
+    "ip_address": "108.61.212.0/23",
+    "ip_type": "IPv4",
+    "region": "AU-NSW"
+  },
+  {
+    "ip_address": "108.61.251.0/24",
+    "ip_type": "IPv4",
+    "region": "AU-NSW"
+  },
+  {
+    "ip_address": "139.180.160.0/20",
+    "ip_type": "IPv4",
+    "region": "AU-NSW"
+  },
+  {
+    "ip_address": "139.180.176.0/21",
+    "ip_type": "IPv4",
+    "region": "AU-NSW"
+  },
+  {
+    "ip_address": "149.28.160.0/19",
+    "ip_type": "IPv4",
+    "region": "AU-NSW"
+  },
+  {
+    "ip_address": "207.148.80.0/21",
+    "ip_type": "IPv4",
+    "region": "AU-NSW"
+  },
+  {
+    "ip_address": "2001:19f0:5800::/38",
+    "ip_type": "IPv6",
+    "region": "AU-NSW"
+  },
+  {
+    "ip_address": "2401:c080:1800::/38",
+    "ip_type": "IPv6",
+    "region": "AU-NSW"
+  }
+]

@@ -1,0 +1,14 @@
+ip_address,ip_type,service,region
+185.166.140.128/28,IPv4,rovo-crawler,ap-northeast-1
+43.202.69.112/28,IPv4,rovo-crawler,ap-northeast-2
+13.200.41.240/28,IPv4,rovo-crawler,ap-south-1
+104.192.137.224/28,IPv4,rovo-crawler,ap-southeast-1
+104.192.143.224/28,IPv4,rovo-crawler,ap-southeast-2
+104.192.136.224/28,IPv4,rovo-crawler,ca-central-1
+185.166.143.224/28,IPv4,rovo-crawler,eu-central-1
+16.63.53.240/28,IPv4,rovo-crawler,eu-central-2
+185.166.142.224/28,IPv4,rovo-crawler,eu-west-1
+185.166.141.128/28,IPv4,rovo-crawler,eu-west-2
+104.192.142.224/28,IPv4,rovo-crawler,us-east-1
+104.192.138.224/28,IPv4,rovo-crawler,us-west-1
+18.246.31.208/28,IPv4,rovo-crawler,us-west-2

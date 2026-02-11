@@ -1,0 +1,22 @@
+[
+  {
+    "ip_address": "2a02:26f7:c640:4cc6::/64",
+    "ip_type": "IPv6",
+    "region": "TH-13"
+  },
+  {
+    "ip_address": "2a02:26f7:c644:4cc6::/64",
+    "ip_type": "IPv6",
+    "region": "TH-13"
+  },
+  {
+    "ip_address": "2a02:26f7:c645:4cc6::/64",
+    "ip_type": "IPv6",
+    "region": "TH-13"
+  },
+  {
+    "ip_address": "2a02:26f7:c648:4cc6::/64",
+    "ip_type": "IPv6",
+    "region": "TH-13"
+  }
+]

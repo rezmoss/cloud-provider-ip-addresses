@@ -1,0 +1,117 @@
+[
+  {
+    "ip_address": "104.28.60.0/32",
+    "ip_type": "IPv4",
+    "region": "AL-11"
+  },
+  {
+    "ip_address": "104.28.60.1/32",
+    "ip_type": "IPv4",
+    "region": "AL-11"
+  },
+  {
+    "ip_address": "104.28.80.10/32",
+    "ip_type": "IPv4",
+    "region": "AL-11"
+  },
+  {
+    "ip_address": "104.28.80.11/32",
+    "ip_type": "IPv4",
+    "region": "AL-11"
+  },
+  {
+    "ip_address": "104.28.98.0/32",
+    "ip_type": "IPv4",
+    "region": "AL-11"
+  },
+  {
+    "ip_address": "104.28.98.1/32",
+    "ip_type": "IPv4",
+    "region": "AL-11"
+  },
+  {
+    "ip_address": "104.28.106.10/32",
+    "ip_type": "IPv4",
+    "region": "AL-11"
+  },
+  {
+    "ip_address": "104.28.106.11/32",
+    "ip_type": "IPv4",
+    "region": "AL-11"
+  },
+  {
+    "ip_address": "104.28.130.0/32",
+    "ip_type": "IPv4",
+    "region": "AL-11"
+  },
+  {
+    "ip_address": "104.28.130.1/32",
+    "ip_type": "IPv4",
+    "region": "AL-11"
+  },
+  {
+    "ip_address": "104.28.149.134/32",
+    "ip_type": "IPv4",
+    "region": "AL-11"
+  },
+  {
+    "ip_address": "2606:54c0:50::/45",
+    "ip_type": "IPv6",
+    "region": "AL-11"
+  },
+  {
+    "ip_address": "2606:54c3:0:41b::/64",
+    "ip_type": "IPv6",
+    "region": "AL-11"
+  },
+  {
+    "ip_address": "2a09:bac2:50::/45",
+    "ip_type": "IPv6",
+    "region": "AL-11"
+  },
+  {
+    "ip_address": "2a09:bac3:50::/45",
+    "ip_type": "IPv6",
+    "region": "AL-11"
+  },
+  {
+    "ip_address": "2a04:4e41:1300::/52",
+    "ip_type": "IPv6",
+    "region": "AL-11"
+  },
+  {
+    "ip_address": "2a04:4e41:1400::/52",
+    "ip_type": "IPv6",
+    "region": "AL-11"
+  },
+  {
+    "ip_address": "2a04:4e41:1800::/52",
+    "ip_type": "IPv6",
+    "region": "AL-11"
+  },
+  {
+    "ip_address": "2a04:4e41:5600::/52",
+    "ip_type": "IPv6",
+    "region": "AL-11"
+  },
+  {
+    "ip_address": "140.248.34.4/31",
+    "ip_type": "IPv4",
+    "region": "AL-11"
+  },
+  {
+    "ip_address": "140.248.36.4/31",
+    "ip_type": "IPv4",
+    "region": "AL-11"
+  },
+  {
+    "ip_address": "140.248.40.4/31",
+    "ip_type": "IPv4",
+    "region": "AL-11"
+  },
+  {
+    "ip_address": "146.75.169.4/31",
+    "ip_type": "IPv4",
+    "region": "AL-11"
+  }
+]

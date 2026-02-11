@@ -1,0 +1,157 @@
+[
+  {
+    "ip_address": "104.28.38.150/32",
+    "ip_type": "IPv4",
+    "region": "ZA-KZN"
+  },
+  {
+    "ip_address": "104.28.38.151/32",
+    "ip_type": "IPv4",
+    "region": "ZA-KZN"
+  },
+  {
+    "ip_address": "104.28.38.163/32",
+    "ip_type": "IPv4",
+    "region": "ZA-KZN"
+  },
+  {
+    "ip_address": "104.28.38.164/32",
+    "ip_type": "IPv4",
+    "region": "ZA-KZN"
+  },
+  {
+    "ip_address": "104.28.46.70/32",
+    "ip_type": "IPv4",
+    "region": "ZA-KZN"
+  },
+  {
+    "ip_address": "104.28.46.71/32",
+    "ip_type": "IPv4",
+    "region": "ZA-KZN"
+  },
+  {
+    "ip_address": "104.28.46.85/32",
+    "ip_type": "IPv4",
+    "region": "ZA-KZN"
+  },
+  {
+    "ip_address": "104.28.46.86/32",
+    "ip_type": "IPv4",
+    "region": "ZA-KZN"
+  },
+  {
+    "ip_address": "104.28.63.217/32",
+    "ip_type": "IPv4",
+    "region": "ZA-KZN"
+  },
+  {
+    "ip_address": "104.28.63.218/32",
+    "ip_type": "IPv4",
+    "region": "ZA-KZN"
+  },
+  {
+    "ip_address": "104.28.63.230/32",
+    "ip_type": "IPv4",
+    "region": "ZA-KZN"
+  },
+  {
+    "ip_address": "104.28.63.231/32",
+    "ip_type": "IPv4",
+    "region": "ZA-KZN"
+  },
+  {
+    "ip_address": "104.28.82.82/32",
+    "ip_type": "IPv4",
+    "region": "ZA-KZN"
+  },
+  {
+    "ip_address": "104.28.82.83/32",
+    "ip_type": "IPv4",
+    "region": "ZA-KZN"
+  },
+  {
+    "ip_address": "104.28.82.97/32",
+    "ip_type": "IPv4",
+    "region": "ZA-KZN"
+  },
+  {
+    "ip_address": "104.28.82.98/32",
+    "ip_type": "IPv4",
+    "region": "ZA-KZN"
+  },
+  {
+    "ip_address": "104.28.142.69/32",
+    "ip_type": "IPv4",
+    "region": "ZA-KZN"
+  },
+  {
+    "ip_address": "104.28.146.128/32",
+    "ip_type": "IPv4",
+    "region": "ZA-KZN"
+  },
+  {
+    "ip_address": "104.28.146.129/32",
+    "ip_type": "IPv4",
+    "region": "ZA-KZN"
+  },
+  {
+    "ip_address": "2606:54c0:d3f8::/45",
+    "ip_type": "IPv6",
+    "region": "ZA-KZN"
+  },
+  {
+    "ip_address": "2606:54c0:d400::/45",
+    "ip_type": "IPv6",
+    "region": "ZA-KZN"
+  },
+  {
+    "ip_address": "2606:54c0:d408::/45",
+    "ip_type": "IPv6",
+    "region": "ZA-KZN"
+  },
+  {
+    "ip_address": "2606:54c3:0:1189::/64",
+    "ip_type": "IPv6",
+    "region": "ZA-KZN"
+  },
+  {
+    "ip_address": "2606:54c3:0:11f4::/64",
+    "ip_type": "IPv6",
+    "region": "ZA-KZN"
+  },
+  {
+    "ip_address": "2606:54c3:0:138b::/64",
+    "ip_type": "IPv6",
+    "region": "ZA-KZN"
+  },
+  {
+    "ip_address": "2a09:bac2:d3f8::/45",
+    "ip_type": "IPv6",
+    "region": "ZA-KZN"
+  },
+  {
+    "ip_address": "2a09:bac2:d400::/45",
+    "ip_type": "IPv6",
+    "region": "ZA-KZN"
+  },
+  {
+    "ip_address": "2a09:bac2:d408::/45",
+    "ip_type": "IPv6",
+    "region": "ZA-KZN"
+  },
+  {
+    "ip_address": "2a09:bac3:d3f8::/45",
+    "ip_type": "IPv6",
+    "region": "ZA-KZN"
+  },
+  {
+    "ip_address": "2a09:bac3:d400::/45",
+    "ip_type": "IPv6",
+    "region": "ZA-KZN"
+  },
+  {
+    "ip_address": "2a09:bac3:d408::/45",
+    "ip_type": "IPv6",
+    "region": "ZA-KZN"
+  }
+]

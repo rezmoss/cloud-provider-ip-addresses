@@ -1,0 +1,82 @@
+[
+  {
+    "ip_address": "104.28.32.38/32",
+    "ip_type": "IPv4",
+    "region": "CO-NSA"
+  },
+  {
+    "ip_address": "104.28.32.39/32",
+    "ip_type": "IPv4",
+    "region": "CO-NSA"
+  },
+  {
+    "ip_address": "104.28.36.52/32",
+    "ip_type": "IPv4",
+    "region": "CO-NSA"
+  },
+  {
+    "ip_address": "104.28.36.53/32",
+    "ip_type": "IPv4",
+    "region": "CO-NSA"
+  },
+  {
+    "ip_address": "104.28.91.36/32",
+    "ip_type": "IPv4",
+    "region": "CO-NSA"
+  },
+  {
+    "ip_address": "104.28.91.37/32",
+    "ip_type": "IPv4",
+    "region": "CO-NSA"
+  },
+  {
+    "ip_address": "104.28.92.44/32",
+    "ip_type": "IPv4",
+    "region": "CO-NSA"
+  },
+  {
+    "ip_address": "104.28.92.45/32",
+    "ip_type": "IPv4",
+    "region": "CO-NSA"
+  },
+  {
+    "ip_address": "104.28.94.44/32",
+    "ip_type": "IPv4",
+    "region": "CO-NSA"
+  },
+  {
+    "ip_address": "104.28.94.45/32",
+    "ip_type": "IPv4",
+    "region": "CO-NSA"
+  },
+  {
+    "ip_address": "104.28.126.44/32",
+    "ip_type": "IPv4",
+    "region": "CO-NSA"
+  },
+  {
+    "ip_address": "104.28.126.45/32",
+    "ip_type": "IPv4",
+    "region": "CO-NSA"
+  },
+  {
+    "ip_address": "2606:54c0:26e0::/45",
+    "ip_type": "IPv6",
+    "region": "CO-NSA"
+  },
+  {
+    "ip_address": "2606:54c3:0:1a95::/64",
+    "ip_type": "IPv6",
+    "region": "CO-NSA"
+  },
+  {
+    "ip_address": "2a09:bac2:26e0::/45",
+    "ip_type": "IPv6",
+    "region": "CO-NSA"
+  },
+  {
+    "ip_address": "2a09:bac3:26e0::/45",
+    "ip_type": "IPv6",
+    "region": "CO-NSA"
+  }
+]

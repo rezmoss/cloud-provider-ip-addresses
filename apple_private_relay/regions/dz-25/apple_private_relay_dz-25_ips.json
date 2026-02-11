@@ -1,0 +1,17 @@
+[
+  {
+    "ip_address": "104.28.138.116/32",
+    "ip_type": "IPv4",
+    "region": "DZ-25"
+  },
+  {
+    "ip_address": "2a09:bac2:d548::/45",
+    "ip_type": "IPv6",
+    "region": "DZ-25"
+  },
+  {
+    "ip_address": "2a09:bac3:d548::/45",
+    "ip_type": "IPv6",
+    "region": "DZ-25"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "ip_address": "65.20.112.0/20",
+    "ip_type": "IPv4",
+    "region": "SE-AB"
+  },
+  {
+    "ip_address": "70.34.192.0/19",
+    "ip_type": "IPv4",
+    "region": "SE-AB"
+  },
+  {
+    "ip_address": "2a05:f480:2000::/38",
+    "ip_type": "IPv6",
+    "region": "SE-AB"
+  }
+]

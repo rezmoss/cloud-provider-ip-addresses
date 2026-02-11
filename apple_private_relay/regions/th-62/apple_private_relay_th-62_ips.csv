@@ -1,0 +1,9 @@
+ip_address,ip_type,region
+2a02:26f7:c640:4cf9::/64,IPv6,TH-62
+2a02:26f7:c644:4cf9::/64,IPv6,TH-62
+2a02:26f7:c645:4cf9::/64,IPv6,TH-62
+2a02:26f7:c648:4cf9::/64,IPv6,TH-62
+2606:54c0:56c0::/45,IPv6,TH-62
+2606:54c3:0:2ca::/64,IPv6,TH-62
+2a09:bac2:56c0::/45,IPv6,TH-62
+2a09:bac3:56c0::/45,IPv6,TH-62

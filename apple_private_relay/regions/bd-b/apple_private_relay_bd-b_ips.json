@@ -1,0 +1,82 @@
+[
+  {
+    "ip_address": "104.28.37.19/32",
+    "ip_type": "IPv4",
+    "region": "BD-B"
+  },
+  {
+    "ip_address": "104.28.37.20/32",
+    "ip_type": "IPv4",
+    "region": "BD-B"
+  },
+  {
+    "ip_address": "104.28.43.11/32",
+    "ip_type": "IPv4",
+    "region": "BD-B"
+  },
+  {
+    "ip_address": "104.28.43.12/32",
+    "ip_type": "IPv4",
+    "region": "BD-B"
+  },
+  {
+    "ip_address": "104.28.66.7/32",
+    "ip_type": "IPv4",
+    "region": "BD-B"
+  },
+  {
+    "ip_address": "104.28.66.8/32",
+    "ip_type": "IPv4",
+    "region": "BD-B"
+  },
+  {
+    "ip_address": "104.28.69.7/32",
+    "ip_type": "IPv4",
+    "region": "BD-B"
+  },
+  {
+    "ip_address": "104.28.69.8/32",
+    "ip_type": "IPv4",
+    "region": "BD-B"
+  },
+  {
+    "ip_address": "104.28.117.7/32",
+    "ip_type": "IPv4",
+    "region": "BD-B"
+  },
+  {
+    "ip_address": "104.28.117.8/32",
+    "ip_type": "IPv4",
+    "region": "BD-B"
+  },
+  {
+    "ip_address": "104.28.120.7/32",
+    "ip_type": "IPv4",
+    "region": "BD-B"
+  },
+  {
+    "ip_address": "104.28.120.8/32",
+    "ip_type": "IPv4",
+    "region": "BD-B"
+  },
+  {
+    "ip_address": "2606:54c0:478::/45",
+    "ip_type": "IPv6",
+    "region": "BD-B"
+  },
+  {
+    "ip_address": "2606:54c3:0:152d::/64",
+    "ip_type": "IPv6",
+    "region": "BD-B"
+  },
+  {
+    "ip_address": "2a09:bac2:478::/45",
+    "ip_type": "IPv6",
+    "region": "BD-B"
+  },
+  {
+    "ip_address": "2a09:bac3:478::/45",
+    "ip_type": "IPv6",
+    "region": "BD-B"
+  }
+]

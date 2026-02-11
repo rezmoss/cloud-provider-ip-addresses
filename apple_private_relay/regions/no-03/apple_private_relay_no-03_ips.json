@@ -1,0 +1,22 @@
+[
+  {
+    "ip_address": "2a04:4e41:1c0:6000::/52",
+    "ip_type": "IPv6",
+    "region": "NO-03"
+  },
+  {
+    "ip_address": "2a04:4e41:4c40::/52",
+    "ip_type": "IPv6",
+    "region": "NO-03"
+  },
+  {
+    "ip_address": "146.75.200.20/31",
+    "ip_type": "IPv4",
+    "region": "NO-03"
+  },
+  {
+    "ip_address": "146.75.218.2/31",
+    "ip_type": "IPv4",
+    "region": "NO-03"
+  }
+]

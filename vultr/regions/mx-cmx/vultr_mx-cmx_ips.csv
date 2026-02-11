@@ -1,0 +1,4 @@
+ip_address,ip_type,region
+64.177.80.0/21,IPv4,MX-CMX
+216.238.64.0/19,IPv4,MX-CMX
+2001:19f0:b400::/38,IPv6,MX-CMX

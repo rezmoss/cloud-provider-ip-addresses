@@ -1,0 +1,5 @@
+ip_address,ip_type,region
+2a02:26f7:b6c0:4e16::/64,IPv6,UA-CH
+2a02:26f7:b6c4:4e16::/64,IPv6,UA-CH
+2a02:26f7:b6c8:4e16::/64,IPv6,UA-CH
+2a02:26f7:b6cc:4e16::/64,IPv6,UA-CH

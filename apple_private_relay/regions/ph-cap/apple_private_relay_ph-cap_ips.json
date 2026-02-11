@@ -1,0 +1,22 @@
+[
+  {
+    "ip_address": "2a02:26f7:b600:db4d::/64",
+    "ip_type": "IPv6",
+    "region": "PH-CAP"
+  },
+  {
+    "ip_address": "2a02:26f7:b601:db4d::/64",
+    "ip_type": "IPv6",
+    "region": "PH-CAP"
+  },
+  {
+    "ip_address": "2a02:26f7:b604:db4d::/64",
+    "ip_type": "IPv6",
+    "region": "PH-CAP"
+  },
+  {
+    "ip_address": "2a02:26f7:b608:db4d::/64",
+    "ip_type": "IPv6",
+    "region": "PH-CAP"
+  }
+]

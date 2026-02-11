@@ -1,0 +1,82 @@
+[
+  {
+    "ip_address": "104.28.29.75/32",
+    "ip_type": "IPv4",
+    "region": "MH-MAJ"
+  },
+  {
+    "ip_address": "104.28.29.76/32",
+    "ip_type": "IPv4",
+    "region": "MH-MAJ"
+  },
+  {
+    "ip_address": "104.28.35.88/32",
+    "ip_type": "IPv4",
+    "region": "MH-MAJ"
+  },
+  {
+    "ip_address": "104.28.35.89/32",
+    "ip_type": "IPv4",
+    "region": "MH-MAJ"
+  },
+  {
+    "ip_address": "104.28.72.24/32",
+    "ip_type": "IPv4",
+    "region": "MH-MAJ"
+  },
+  {
+    "ip_address": "104.28.72.25/32",
+    "ip_type": "IPv4",
+    "region": "MH-MAJ"
+  },
+  {
+    "ip_address": "104.28.84.93/32",
+    "ip_type": "IPv4",
+    "region": "MH-MAJ"
+  },
+  {
+    "ip_address": "104.28.84.94/32",
+    "ip_type": "IPv4",
+    "region": "MH-MAJ"
+  },
+  {
+    "ip_address": "104.28.100.89/32",
+    "ip_type": "IPv4",
+    "region": "MH-MAJ"
+  },
+  {
+    "ip_address": "104.28.100.90/32",
+    "ip_type": "IPv4",
+    "region": "MH-MAJ"
+  },
+  {
+    "ip_address": "104.28.102.89/32",
+    "ip_type": "IPv4",
+    "region": "MH-MAJ"
+  },
+  {
+    "ip_address": "104.28.102.90/32",
+    "ip_type": "IPv4",
+    "region": "MH-MAJ"
+  },
+  {
+    "ip_address": "2606:54c0:4860::/45",
+    "ip_type": "IPv6",
+    "region": "MH-MAJ"
+  },
+  {
+    "ip_address": "2606:54c3:0:72d::/64",
+    "ip_type": "IPv6",
+    "region": "MH-MAJ"
+  },
+  {
+    "ip_address": "2a09:bac2:4860::/45",
+    "ip_type": "IPv6",
+    "region": "MH-MAJ"
+  },
+  {
+    "ip_address": "2a09:bac3:4860::/45",
+    "ip_type": "IPv6",
+    "region": "MH-MAJ"
+  }
+]

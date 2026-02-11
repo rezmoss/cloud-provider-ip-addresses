@@ -1,0 +1,42 @@
+[
+  {
+    "ip_address": "2a04:4e41:1302:8000::/52",
+    "ip_type": "IPv6",
+    "region": "GB-STH"
+  },
+  {
+    "ip_address": "2a04:4e41:1602:e000::/52",
+    "ip_type": "IPv6",
+    "region": "GB-STH"
+  },
+  {
+    "ip_address": "2a04:4e41:4e02:7000::/52",
+    "ip_type": "IPv6",
+    "region": "GB-STH"
+  },
+  {
+    "ip_address": "2a04:4e41:7402:e000::/52",
+    "ip_type": "IPv6",
+    "region": "GB-STH"
+  },
+  {
+    "ip_address": "140.248.40.102/31",
+    "ip_type": "IPv4",
+    "region": "GB-STH"
+  },
+  {
+    "ip_address": "146.75.168.116/31",
+    "ip_type": "IPv4",
+    "region": "GB-STH"
+  },
+  {
+    "ip_address": "146.75.174.90/31",
+    "ip_type": "IPv4",
+    "region": "GB-STH"
+  },
+  {
+    "ip_address": "146.75.185.116/31",
+    "ip_type": "IPv4",
+    "region": "GB-STH"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "ip_address": "2a02:26f7:c640:d98a::/64",
+    "ip_type": "IPv6",
+    "region": "TH-86"
+  },
+  {
+    "ip_address": "2a02:26f7:c640:d98b::/64",
+    "ip_type": "IPv6",
+    "region": "TH-86"
+  },
+  {
+    "ip_address": "2a02:26f7:c640:d98c::/64",
+    "ip_type": "IPv6",
+    "region": "TH-86"
+  },
+  {
+    "ip_address": "2a02:26f7:c644:d98a::/64",
+    "ip_type": "IPv6",
+    "region": "TH-86"
+  },
+  {
+    "ip_address": "2a02:26f7:c644:d98b::/64",
+    "ip_type": "IPv6",
+    "region": "TH-86"
+  },
+  {
+    "ip_address": "2a02:26f7:c644:d98c::/64",
+    "ip_type": "IPv6",
+    "region": "TH-86"
+  },
+  {
+    "ip_address": "2a02:26f7:c645:d98a::/64",
+    "ip_type": "IPv6",
+    "region": "TH-86"
+  },
+  {
+    "ip_address": "2a02:26f7:c645:d98b::/64",
+    "ip_type": "IPv6",
+    "region": "TH-86"
+  },
+  {
+    "ip_address": "2a02:26f7:c645:d98c::/64",
+    "ip_type": "IPv6",
+    "region": "TH-86"
+  },
+  {
+    "ip_address": "2a02:26f7:c648:d98a::/64",
+    "ip_type": "IPv6",
+    "region": "TH-86"
+  },
+  {
+    "ip_address": "2a02:26f7:c648:d98b::/64",
+    "ip_type": "IPv6",
+    "region": "TH-86"
+  },
+  {
+    "ip_address": "2a02:26f7:c648:d98c::/64",
+    "ip_type": "IPv6",
+    "region": "TH-86"
+  },
+  {
+    "ip_address": "2606:54c0:5738::/45",
+    "ip_type": "IPv6",
+    "region": "TH-86"
+  },
+  {
+    "ip_address": "2606:54c3:0:138::/64",
+    "ip_type": "IPv6",
+    "region": "TH-86"
+  },
+  {
+    "ip_address": "2a09:bac2:5738::/45",
+    "ip_type": "IPv6",
+    "region": "TH-86"
+  },
+  {
+    "ip_address": "2a09:bac3:5738::/45",
+    "ip_type": "IPv6",
+    "region": "TH-86"
+  }
+]

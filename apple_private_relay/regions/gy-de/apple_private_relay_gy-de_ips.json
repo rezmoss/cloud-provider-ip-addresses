@@ -1,0 +1,77 @@
+[
+  {
+    "ip_address": "104.28.36.96/32",
+    "ip_type": "IPv4",
+    "region": "GY-DE"
+  },
+  {
+    "ip_address": "104.28.36.97/32",
+    "ip_type": "IPv4",
+    "region": "GY-DE"
+  },
+  {
+    "ip_address": "104.28.61.83/32",
+    "ip_type": "IPv4",
+    "region": "GY-DE"
+  },
+  {
+    "ip_address": "104.28.61.84/32",
+    "ip_type": "IPv4",
+    "region": "GY-DE"
+  },
+  {
+    "ip_address": "104.28.92.89/32",
+    "ip_type": "IPv4",
+    "region": "GY-DE"
+  },
+  {
+    "ip_address": "104.28.92.90/32",
+    "ip_type": "IPv4",
+    "region": "GY-DE"
+  },
+  {
+    "ip_address": "104.28.94.89/32",
+    "ip_type": "IPv4",
+    "region": "GY-DE"
+  },
+  {
+    "ip_address": "104.28.94.90/32",
+    "ip_type": "IPv4",
+    "region": "GY-DE"
+  },
+  {
+    "ip_address": "104.28.126.89/32",
+    "ip_type": "IPv4",
+    "region": "GY-DE"
+  },
+  {
+    "ip_address": "104.28.126.90/32",
+    "ip_type": "IPv4",
+    "region": "GY-DE"
+  },
+  {
+    "ip_address": "104.28.145.48/32",
+    "ip_type": "IPv4",
+    "region": "GY-DE"
+  },
+  {
+    "ip_address": "2606:54c0:3908::/45",
+    "ip_type": "IPv6",
+    "region": "GY-DE"
+  },
+  {
+    "ip_address": "2606:54c3:0:4ab::/64",
+    "ip_type": "IPv6",
+    "region": "GY-DE"
+  },
+  {
+    "ip_address": "2a09:bac2:3908::/45",
+    "ip_type": "IPv6",
+    "region": "GY-DE"
+  },
+  {
+    "ip_address": "2a09:bac3:3908::/45",
+    "ip_type": "IPv6",
+    "region": "GY-DE"
+  }
+]

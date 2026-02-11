@@ -1,0 +1,32 @@
+[
+  {
+    "ip_address": "2a04:4e41:1404:9000::/52",
+    "ip_type": "IPv6",
+    "region": "RU-YAR"
+  },
+  {
+    "ip_address": "2a04:4e41:1805:2000::/52",
+    "ip_type": "IPv6",
+    "region": "RU-YAR"
+  },
+  {
+    "ip_address": "2a04:4e41:5604:9000::/52",
+    "ip_type": "IPv6",
+    "region": "RU-YAR"
+  },
+  {
+    "ip_address": "140.248.34.218/31",
+    "ip_type": "IPv4",
+    "region": "RU-YAR"
+  },
+  {
+    "ip_address": "140.248.37.16/31",
+    "ip_type": "IPv4",
+    "region": "RU-YAR"
+  },
+  {
+    "ip_address": "146.75.169.218/31",
+    "ip_type": "IPv4",
+    "region": "RU-YAR"
+  }
+]

@@ -1,0 +1,157 @@
+[
+  {
+    "ip_address": "104.28.36.75/32",
+    "ip_type": "IPv4",
+    "region": "EC-P"
+  },
+  {
+    "ip_address": "104.28.36.76/32",
+    "ip_type": "IPv4",
+    "region": "EC-P"
+  },
+  {
+    "ip_address": "104.28.36.77/32",
+    "ip_type": "IPv4",
+    "region": "EC-P"
+  },
+  {
+    "ip_address": "104.28.91.51/32",
+    "ip_type": "IPv4",
+    "region": "EC-P"
+  },
+  {
+    "ip_address": "104.28.91.52/32",
+    "ip_type": "IPv4",
+    "region": "EC-P"
+  },
+  {
+    "ip_address": "104.28.91.53/32",
+    "ip_type": "IPv4",
+    "region": "EC-P"
+  },
+  {
+    "ip_address": "104.28.92.70/32",
+    "ip_type": "IPv4",
+    "region": "EC-P"
+  },
+  {
+    "ip_address": "104.28.92.71/32",
+    "ip_type": "IPv4",
+    "region": "EC-P"
+  },
+  {
+    "ip_address": "104.28.92.72/32",
+    "ip_type": "IPv4",
+    "region": "EC-P"
+  },
+  {
+    "ip_address": "104.28.94.70/32",
+    "ip_type": "IPv4",
+    "region": "EC-P"
+  },
+  {
+    "ip_address": "104.28.94.71/32",
+    "ip_type": "IPv4",
+    "region": "EC-P"
+  },
+  {
+    "ip_address": "104.28.94.72/32",
+    "ip_type": "IPv4",
+    "region": "EC-P"
+  },
+  {
+    "ip_address": "104.28.115.62/32",
+    "ip_type": "IPv4",
+    "region": "EC-P"
+  },
+  {
+    "ip_address": "104.28.115.63/32",
+    "ip_type": "IPv4",
+    "region": "EC-P"
+  },
+  {
+    "ip_address": "104.28.115.64/32",
+    "ip_type": "IPv4",
+    "region": "EC-P"
+  },
+  {
+    "ip_address": "104.28.126.70/32",
+    "ip_type": "IPv4",
+    "region": "EC-P"
+  },
+  {
+    "ip_address": "104.28.126.71/32",
+    "ip_type": "IPv4",
+    "region": "EC-P"
+  },
+  {
+    "ip_address": "104.28.126.72/32",
+    "ip_type": "IPv4",
+    "region": "EC-P"
+  },
+  {
+    "ip_address": "2606:54c0:3040::/45",
+    "ip_type": "IPv6",
+    "region": "EC-P"
+  },
+  {
+    "ip_address": "2606:54c3:0:355::/64",
+    "ip_type": "IPv6",
+    "region": "EC-P"
+  },
+  {
+    "ip_address": "2a09:bac2:3040::/45",
+    "ip_type": "IPv6",
+    "region": "EC-P"
+  },
+  {
+    "ip_address": "2a09:bac3:3040::/45",
+    "ip_type": "IPv6",
+    "region": "EC-P"
+  },
+  {
+    "ip_address": "2a04:4e41:003c:0012::/64",
+    "ip_type": "IPv6",
+    "region": "EC-P"
+  },
+  {
+    "ip_address": "2a04:4e41:180:5000::/52",
+    "ip_type": "IPv6",
+    "region": "EC-P"
+  },
+  {
+    "ip_address": "2a04:4e41:3600:5000::/52",
+    "ip_type": "IPv6",
+    "region": "EC-P"
+  },
+  {
+    "ip_address": "2a04:4e41:3a00:6000::/52",
+    "ip_type": "IPv6",
+    "region": "EC-P"
+  },
+  {
+    "ip_address": "2a04:4e41:4c00:2000::/52",
+    "ip_type": "IPv6",
+    "region": "EC-P"
+  },
+  {
+    "ip_address": "140.248.4.30/31",
+    "ip_type": "IPv4",
+    "region": "EC-P"
+  },
+  {
+    "ip_address": "140.248.44.42/31",
+    "ip_type": "IPv4",
+    "region": "EC-P"
+  },
+  {
+    "ip_address": "146.75.208.24/31",
+    "ip_type": "IPv4",
+    "region": "EC-P"
+  },
+  {
+    "ip_address": "146.75.221.10/31",
+    "ip_type": "IPv4",
+    "region": "EC-P"
+  }
+]

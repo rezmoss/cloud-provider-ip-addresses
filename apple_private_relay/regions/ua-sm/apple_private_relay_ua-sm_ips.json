@@ -1,0 +1,42 @@
+[
+  {
+    "ip_address": "2a02:26f7:b6c0:dd10::/64",
+    "ip_type": "IPv6",
+    "region": "UA-SM"
+  },
+  {
+    "ip_address": "2a02:26f7:b6c0:dd18::/64",
+    "ip_type": "IPv6",
+    "region": "UA-SM"
+  },
+  {
+    "ip_address": "2a02:26f7:b6c4:dd10::/64",
+    "ip_type": "IPv6",
+    "region": "UA-SM"
+  },
+  {
+    "ip_address": "2a02:26f7:b6c4:dd18::/64",
+    "ip_type": "IPv6",
+    "region": "UA-SM"
+  },
+  {
+    "ip_address": "2a02:26f7:b6c8:dd10::/64",
+    "ip_type": "IPv6",
+    "region": "UA-SM"
+  },
+  {
+    "ip_address": "2a02:26f7:b6c8:dd18::/64",
+    "ip_type": "IPv6",
+    "region": "UA-SM"
+  },
+  {
+    "ip_address": "2a02:26f7:b6cc:dd10::/64",
+    "ip_type": "IPv6",
+    "region": "UA-SM"
+  },
+  {
+    "ip_address": "2a02:26f7:b6cc:dd18::/64",
+    "ip_type": "IPv6",
+    "region": "UA-SM"
+  }
+]

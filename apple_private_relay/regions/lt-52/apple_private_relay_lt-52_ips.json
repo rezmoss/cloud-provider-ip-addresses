@@ -1,0 +1,42 @@
+[
+  {
+    "ip_address": "104.28.148.63/32",
+    "ip_type": "IPv4",
+    "region": "LT-52"
+  },
+  {
+    "ip_address": "104.28.148.64/32",
+    "ip_type": "IPv4",
+    "region": "LT-52"
+  },
+  {
+    "ip_address": "104.28.149.153/32",
+    "ip_type": "IPv4",
+    "region": "LT-52"
+  },
+  {
+    "ip_address": "104.28.151.176/32",
+    "ip_type": "IPv4",
+    "region": "LT-52"
+  },
+  {
+    "ip_address": "2606:54c0:47d0::/45",
+    "ip_type": "IPv6",
+    "region": "LT-52"
+  },
+  {
+    "ip_address": "2606:54c3:0:a57::/64",
+    "ip_type": "IPv6",
+    "region": "LT-52"
+  },
+  {
+    "ip_address": "2a09:bac2:47d0::/45",
+    "ip_type": "IPv6",
+    "region": "LT-52"
+  },
+  {
+    "ip_address": "2a09:bac3:47d0::/45",
+    "ip_type": "IPv6",
+    "region": "LT-52"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "ip_address": "2a02:26f7:dc80:d887::/64",
+    "ip_type": "IPv6",
+    "region": "XK"
+  },
+  {
+    "ip_address": "2a02:26f7:dc80:d8a2::/64",
+    "ip_type": "IPv6",
+    "region": "XK"
+  },
+  {
+    "ip_address": "2a02:26f7:dc80:d8b2::/64",
+    "ip_type": "IPv6",
+    "region": "XK"
+  },
+  {
+    "ip_address": "2a02:26f7:dc84:d887::/64",
+    "ip_type": "IPv6",
+    "region": "XK"
+  },
+  {
+    "ip_address": "2a02:26f7:dc84:d8a2::/64",
+    "ip_type": "IPv6",
+    "region": "XK"
+  },
+  {
+    "ip_address": "2a02:26f7:dc84:d8b2::/64",
+    "ip_type": "IPv6",
+    "region": "XK"
+  },
+  {
+    "ip_address": "2a02:26f7:dc88:d887::/64",
+    "ip_type": "IPv6",
+    "region": "XK"
+  },
+  {
+    "ip_address": "2a02:26f7:dc88:d8a2::/64",
+    "ip_type": "IPv6",
+    "region": "XK"
+  },
+  {
+    "ip_address": "2a02:26f7:dc88:d8b2::/64",
+    "ip_type": "IPv6",
+    "region": "XK"
+  },
+  {
+    "ip_address": "2a02:26f7:dc8c:d887::/64",
+    "ip_type": "IPv6",
+    "region": "XK"
+  },
+  {
+    "ip_address": "2a02:26f7:dc8c:d8a2::/64",
+    "ip_type": "IPv6",
+    "region": "XK"
+  },
+  {
+    "ip_address": "2a02:26f7:dc8c:d8b2::/64",
+    "ip_type": "IPv6",
+    "region": "XK"
+  }
+]

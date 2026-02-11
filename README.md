@@ -4,26 +4,33 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/rezmoss/cloud-provider-ip-addresses)](https://github.com/rezmoss/cloud-provider-ip-addresses/stargazers)
 [![GitHub license](https://img.shields.io/github/license/rezmoss/cloud-provider-ip-addresses)](https://github.com/rezmoss/cloud-provider-ip-addresses/blob/main/LICENSE)
-![Providers](https://img.shields.io/badge/providers-12-blue)
+![Last Updated](https://img.shields.io/github/last-commit/rezmoss/cloud-provider-ip-addresses)
+![Providers](https://img.shields.io/badge/providers-22-blue)
 ![Formats](https://img.shields.io/badge/formats-12+-green)
 ![Update](https://img.shields.io/badge/updated-daily%2000%3A00%20UTC-brightgreen)
 
-> **12 providers** | **12+ output formats** | **Merged/optimized CIDRs** | **Firewall-ready configs** | **Unified cross-provider dataset** | **Daily changelog** | **IP lookup tool**
+> **22 providers** | **12+ output formats** | **Merged/optimized CIDRs** | **Firewall-ready configs** | **Unified cross-provider dataset** | **Daily changelog** | **IP lookup tool**
 
 <!-- STATS_START -->
 <!-- This section is auto-updated by app.py on each run. Do not edit manually. -->
 
 ### Live Stats
 
-> Last updated: **2026-02-11** | Providers: **12** | Total CIDRs: **129,302** | IPv4 addresses: **331,678,371** | IPv4 space: **7.72%**
+> Last updated: **2026-02-11** | Providers: **22** | Total CIDRs: **419,379** | IPv4 addresses: **333,443,705** | IPv4 space: **7.76%**
 
 | Provider | IPv4 CIDRs | IPv6 CIDRs | Total CIDRs | IPv4 Addresses | Services | Regions |
 |----------|-----------|-----------|------------|---------------|----------|--------|
+| amazonbot | 2,053 | 0 | 2,053 | 2,053 | 3 | 0 |
+| apple_private_relay | 41,670 | 245,212 | 286,882 | 105,661 | 0 | 1222 |
+| applebot | 12 | 0 | 12 | 2,400 | 1 | 0 |
+| atlassian | 194 | 59 | 253 | 78,646 | 11 | 18 |
 | aws | 9,814 | 4,942 | 14,756 | 180,174,905 | 26 | 42 |
 | azure | 74,090 | 25,568 | 99,658 | 99,729,874 | 3128 | 73 |
 | bingbot | 28 | 0 | 28 | 4,736 | 1 | 0 |
 | cloudflare | 15 | 7 | 22 | 1,524,736 | 0 | 0 |
+| commoncrawl | 4 | 1 | 5 | 21 | 1 | 0 |
 | digitalocean | 1,051 | 146 | 1,197 | 3,039,616 | 0 | 11 |
+| duckduckbot | 281 | 0 | 281 | 281 | 1 | 0 |
 | fastly | 19 | 2 | 21 | 304,128 | 0 | 0 |
 | github | 4,725 | 1,160 | 5,885 | 25,193,438 | 11 | 0 |
 | googlebot | 165 | 142 | 307 | 4,928 | 1 | 0 |
@@ -31,6 +38,10 @@
 | gptbot | 280 | 0 | 280 | 9,552 | 3 | 0 |
 | linode | 5,132 | 92 | 5,224 | 1,321,728 | 0 | 37 |
 | oracle | 1,042 | 0 | 1,042 | 3,993,226 | 3 | 53 |
+| perplexitybot | 12 | 0 | 12 | 32 | 2 | 0 |
+| telegram | 9 | 5 | 14 | 11,008 | 0 | 0 |
+| vultr | 434 | 53 | 487 | 1,017,344 | 0 | 34 |
+| zoom | 75 | 3 | 78 | 547,888 | 3 | 0 |
 
 <!-- STATS_END -->
 
@@ -43,6 +54,7 @@
 - [Supported Providers](#supported-providers)
   - [Cloud Providers](#cloud-providers)
   - [CDN / Hosting](#cdn--hosting)
+  - [SaaS / Collaboration](#saas--collaboration)
   - [Bots / Crawlers](#bots--crawlers)
 - [Output Formats](#output-formats)
 - [Merged / Optimized CIDRs](#merged--optimized-cidrs)
@@ -73,12 +85,13 @@ There are other cloud IP range repos out there. Here's what makes this one diffe
 
 | Feature | This Repo | Others |
 |---------|-----------|--------|
-| Cloud providers | 9 (AWS, Azure, GCP, Cloudflare, DigitalOcean, Oracle, Fastly, GitHub, Linode) | Varies |
-| Bot/crawler IPs | GoogleBot, BingBot, GPTBot/ChatGPT | Rare |
+| Cloud providers | 10 (AWS, Azure, GCP, Cloudflare, DigitalOcean, Oracle, Fastly, GitHub, Linode, Vultr) + Apple Private Relay, Telegram | Varies |
+| Bot/crawler IPs | GoogleBot, BingBot, GPTBot/ChatGPT, AppleBot, PerplexityBot, DuckDuckBot, Amazonbot, Common Crawl | Rare |
+| SaaS / Collaboration | Zoom, Atlassian (Jira, Confluence, Bitbucket, Trello, ...) | Very rare |
 | Output formats | 12+ (TXT, JSON, CSV, SQL, Nginx, Apache, iptables, nftables, UFW, HAProxy, Caddy, merged CIDRs) | Usually 1-3 |
 | Merged/optimized CIDRs | Per-provider and combined | Rare |
 | Unified cross-provider file | `all_providers.json` / `.csv` with normalized schema | Rare |
-| Service/region breakdown | Per-service and per-region files for AWS, Azure, GCP, Oracle, GitHub, GPTBot | Some |
+| Service/region breakdown | Per-service and per-region files for AWS, Azure, GCP, Oracle, GitHub, GPTBot, Apple Private Relay, Vultr, PerplexityBot, Amazonbot, Zoom, Atlassian | Some |
 | IP lookup tool | `lookup.py` — "which cloud owns this IP?" | Separate projects |
 | Changelog | Daily diff tracking (CIDRs added/removed) | Rare |
 | Statistics | `STATS.md` + `summary.json` with IPv4 space coverage | Rare |
@@ -123,28 +136,43 @@ python3 lookup.py --data-dir . 13.32.0.1
 
 | Provider | IPs | Services | Regions | Source |
 |----------|-----|----------|---------|--------|
-| **AWS** | IPv4 + IPv6 | Per-service (EC2, S3, CloudFront, ...) | Per-region | [ip-ranges.json](https://ip-ranges.amazonaws.com/ip-ranges.json) |
-| **Microsoft Azure** | IPv4 + IPv6 | Per-service (AzureCloud, AppService, ...) | Per-region | [ServiceTags](https://www.microsoft.com/en-us/download/details.aspx?id=56519) |
-| **Google Cloud** | IPv4 + IPv6 | Per-service | Per-scope | [cloud.json](https://www.gstatic.com/ipranges/cloud.json) |
-| **Cloudflare** | IPv4 + IPv6 | — | — | [cloudflare.com/ips](https://www.cloudflare.com/ips/) |
-| **DigitalOcean** | IPv4 + IPv6 | — | Per-region | [geo/google.csv](https://digitalocean.com/geo/google.csv) |
-| **Oracle Cloud** | IPv4 + IPv6 | Per-service (tags) | Per-region | [public_ip_ranges.json](https://docs.oracle.com/iaas/tools/public_ip_ranges.json) |
+| **AWS** | IPv4 + IPv6 | Per-service (EC2, S3, CloudFront, ...) | Per-region | AWS public IP ranges |
+| **Microsoft Azure** | IPv4 + IPv6 | Per-service (AzureCloud, AppService, ...) | Per-region | Azure Service Tags |
+| **Google Cloud** | IPv4 + IPv6 | Per-service | Per-scope | GCP public IP ranges |
+| **Cloudflare** | IPv4 + IPv6 | — | — | Cloudflare published IP list |
+| **DigitalOcean** | IPv4 + IPv6 | — | Per-region | DigitalOcean public geofeed |
+| **Oracle Cloud** | IPv4 + IPv6 | Per-service (tags) | Per-region | Oracle Cloud public IP ranges |
 
 ### CDN / Hosting
 
 | Provider | IPs | Services | Source |
 |----------|-----|----------|--------|
-| **Fastly** | IPv4 + IPv6 | — | [api.fastly.com/public-ip-list](https://api.fastly.com/public-ip-list) |
-| **GitHub** | IPv4 + IPv6 | Per-service (actions, pages, copilot, hooks, web, api, ...) | [api.github.com/meta](https://api.github.com/meta) |
-| **Linode (Akamai)** | IPv4 + IPv6 | — | [geoip.linode.com](https://geoip.linode.com/) |
+| **Fastly** | IPv4 + IPv6 | — | Fastly public IP list |
+| **GitHub** | IPv4 + IPv6 | Per-service (actions, pages, copilot, hooks, web, api, ...) | GitHub Meta API |
+| **Linode (Akamai)** | IPv4 + IPv6 | — | Linode public geofeed |
+| **Apple (iCloud Private Relay)** | IPv4 + IPv6 | — | Apple published egress ranges |
+| **Vultr** | IPv4 + IPv6 | Per-region | Vultr public geofeed |
+| **Telegram** | IPv4 + IPv6 | — | Telegram official CIDR list |
+
+### SaaS / Collaboration
+
+| Provider | IPs | Services | Source |
+|----------|-----|----------|--------|
+| **Zoom** | IPv4 + IPv6 | Per-service (zoom, zoom-phone, zoom-contact-center, zoom-cdn) | Zoom published IP ranges |
+| **Atlassian** | IPv4 + IPv6 | Per-product (Jira, Confluence, Bitbucket, Trello, ...) | Atlassian published IP ranges |
 
 ### Bots / Crawlers
 
 | Bot | IPs | Services | Source |
 |-----|-----|----------|--------|
-| **GoogleBot** | IPv4 + IPv6 | googlebot | [googlebot.json](https://developers.google.com/search/apis/ipranges/googlebot.json) |
-| **BingBot** | IPv4 + IPv6 | bingbot | [bingbot.json](https://www.bing.com/toolbox/bingbot.json) |
-| **GPTBot / ChatGPT / SearchBot** | IPv4 | Per-service (gptbot, chatgpt-user, searchbot) | [openai.com](https://openai.com/gptbot.json) |
+| **GoogleBot** | IPv4 + IPv6 | googlebot | Google published crawler ranges |
+| **BingBot** | IPv4 + IPv6 | bingbot | Microsoft published crawler ranges |
+| **GPTBot / ChatGPT / SearchBot** | IPv4 | Per-service (gptbot, chatgpt-user, searchbot) | OpenAI published bot ranges |
+| **AppleBot** | IPv4 | applebot | Apple published crawler ranges |
+| **PerplexityBot** | IPv4 + IPv6 | Per-service (perplexitybot, perplexity-user) | Perplexity published bot ranges |
+| **DuckDuckBot** | IPv4 + IPv6 | duckduckbot | DuckDuckGo published crawler ranges |
+| **Amazonbot** | IPv4 + IPv6 | Per-service (amazonbot, amzn-searchbot, amzn-user) | Amazon published bot ranges |
+| **Common Crawl (CCBot)** | IPv4 + IPv6 | ccbot | Common Crawl published bot ranges |
 
 ---
 
@@ -167,7 +195,7 @@ Every provider gets all of these formats:
 | **Caddy** | `caddy_{provider}_allow.conf` | `remote_ip` matcher block |
 | **Merged CIDRs** | `{provider}_ips_merged_v4.txt`, `_merged_v6.txt` | Optimized/collapsed CIDR lists |
 
-For providers with service/region data (AWS, Azure, GCP, Oracle, GitHub, GPTBot), all formats are also generated per-service and per-region.
+For providers with service/region data (AWS, Azure, GCP, Oracle, GitHub, GPTBot, Apple Private Relay, Vultr, PerplexityBot, Amazonbot, Zoom, Atlassian), all formats are also generated per-service and per-region.
 
 ---
 
@@ -289,6 +317,16 @@ cloud-provider-ip-addresses/
 ├── googlebot/            (all formats)
 ├── bingbot/              (all formats)
 ├── gptbot/               (all formats + services)
+├── applebot/             (all formats)
+├── apple_private_relay/  (all formats + regions)
+├── telegram/             (all formats)
+├── vultr/                (all formats + regions)
+├── perplexitybot/        (all formats + services)
+├── duckduckbot/          (all formats)
+├── amazonbot/            (all formats + services)
+├── commoncrawl/          (all formats)
+├── zoom/                 (all formats + services)
+├── atlassian/            (all formats + services + regions)
 ├── all_providers/
 │   ├── all_providers.json / .csv
 │   ├── all_providers_ips.txt
@@ -424,18 +462,30 @@ curl -sL https://raw.githubusercontent.com/rezmoss/cloud-provider-ip-addresses/m
 | GoogleBot | Y | Y | — | — | Y | Y |
 | BingBot | Y | Y | — | — | Y | Y |
 | GPTBot | Y | — | Y | — | Y | Y |
+| AppleBot | Y | — | — | — | Y | Y |
+| Apple Private Relay | Y | Y | — | Y | Y | Y |
+| Telegram | Y | Y | — | — | Y | Y |
+| Vultr | Y | Y | — | Y | Y | Y |
+| PerplexityBot | Y | Y | Y | — | Y | Y |
+| DuckDuckBot | Y | Y | — | — | Y | Y |
+| Amazonbot | Y | Y | Y | — | Y | Y |
+| Common Crawl | Y | Y | — | — | Y | Y |
+| Zoom | Y | Y | Y | — | Y | Y |
+| Atlassian | Y | Y | Y | Y | Y | Y |
 
 ---
 
 ## Use Cases
 
 - **Firewall rules** — Allow only known cloud provider IPs to access your infrastructure
-- **Bot management** — Block or allow GoogleBot, BingBot, GPTBot/ChatGPT crawlers
+- **Bot management** — Block or allow GoogleBot, BingBot, GPTBot/ChatGPT, AppleBot, PerplexityBot, DuckDuckBot, Amazonbot, CCBot crawlers
+- **Privacy proxy detection** — Identify iCloud Private Relay traffic using Apple's official egress IP list
 - **AI crawler blocking** — Use GPTBot IP lists to prevent AI training on your content
 - **Security auditing** — Identify whether suspicious IPs belong to cloud infrastructure
 - **Compliance** — Restrict traffic to specific cloud regions or services
 - **WAF / CDN configuration** — Whitelist upstream CDN IPs (Cloudflare, Fastly)
 - **CI/CD security** — Allow only GitHub Actions IPs to trigger deploys
+- **SaaS whitelisting** — Allow Atlassian (Jira, Confluence, Bitbucket) or Zoom webhook IPs through your firewall
 - **Network analysis** — Track how cloud IP space evolves over time via the changelog
 - **IP attribution** — Use the lookup tool to identify which cloud owns any IP
 
@@ -469,18 +519,30 @@ This project is dedicated to the public domain under the [CC0 1.0 Universal Publ
 
 ## Acknowledgments
 
-- **Amazon Web Services** — [AWS IP Address Ranges](https://docs.aws.amazon.com/general/latest/gr/aws-ip-ranges.html)
-- **Microsoft Azure** — [Azure IP Ranges and Service Tags](https://www.microsoft.com/en-us/download/details.aspx?id=56519)
-- **Google Cloud Platform** — [GCP IP Ranges](https://cloud.google.com/compute/docs/faq#find_ip_range)
-- **Cloudflare** — [IP Ranges](https://www.cloudflare.com/ips/)
-- **DigitalOcean** — [Geo Feed](https://digitalocean.com/geo/google.csv)
-- **Oracle Cloud** — [Public IP Ranges](https://docs.oracle.com/iaas/tools/public_ip_ranges.json)
-- **Fastly** — [Public IP List](https://api.fastly.com/public-ip-list)
-- **GitHub** — [Meta API](https://api.github.com/meta)
-- **Linode (Akamai)** — [GeoIP Feed](https://geoip.linode.com/)
-- **Google (GoogleBot)** — [GoogleBot IP Ranges](https://developers.google.com/search/apis/ipranges/googlebot.json)
-- **Microsoft (BingBot)** — [BingBot IP Ranges](https://www.bing.com/toolbox/bingbot.json)
-- **OpenAI (GPTBot)** — [GPTBot Ranges](https://openai.com/gptbot.json)
+All IP range data is sourced from the official, publicly available endpoints provided by each respective organization. We are grateful to the following providers for making their network information openly accessible:
+
+- **Amazon Web Services** — for publishing their IP address ranges through their public JSON endpoint
+- **Microsoft Azure** — for maintaining downloadable Service Tags with comprehensive IP range data
+- **Google Cloud Platform** — for providing structured cloud IP range information
+- **Cloudflare** — for openly sharing their IPv4 and IPv6 edge network ranges
+- **DigitalOcean** — for publishing their IP allocations via their public geofeed
+- **Oracle Cloud Infrastructure** — for making their public IP ranges available in machine-readable format
+- **Fastly** — for providing their edge network IP list through their public API
+- **GitHub** — for exposing service-level IP ranges through their meta API
+- **Linode (Akamai)** — for maintaining a publicly accessible IP geofeed
+- **Google Search (GoogleBot)** — for documenting their crawler IP ranges for webmasters
+- **Microsoft Bing (BingBot)** — for publishing their crawler IP ranges to help site operators
+- **OpenAI (GPTBot / ChatGPT)** — for making their bot and crawler IP ranges publicly available
+- **Apple (AppleBot)** — for publishing their web crawler IP ranges for site operators
+- **Apple (iCloud Private Relay)** — for making Private Relay egress IP ranges available to help websites with geolocation and traffic analysis
+- **Telegram** — for publishing their official network CIDR ranges
+- **Vultr (Constant)** — for maintaining a publicly accessible IP geofeed
+- **Perplexity AI (PerplexityBot)** — for making their bot and user-agent IP ranges publicly available
+- **DuckDuckGo (DuckDuckBot)** — for publishing their crawler IP ranges for webmasters
+- **Amazon (Amazonbot)** — for making their crawler and search bot IP ranges publicly available
+- **Common Crawl (CCBot)** — for publishing their crawler IP ranges to support the open web
+- **Zoom** — for making their service, phone, and CDN IP ranges available in machine-readable format
+- **Atlassian** — for publishing their product IP ranges covering Jira, Confluence, Bitbucket, Trello, and more
 
 ---
 

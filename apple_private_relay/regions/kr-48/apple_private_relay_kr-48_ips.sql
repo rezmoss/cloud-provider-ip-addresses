@@ -1,0 +1,48 @@
+-- SQL script to create table `apple_private_relay_kr-48_ips` and insert IP addresses
+
+CREATE TABLE IF NOT EXISTS `apple_private_relay_kr-48_ips` (
+  `ip_address` VARCHAR(45) NOT NULL,
+  `ip_type` VARCHAR(10) NOT NULL,
+  PRIMARY KEY (`ip_address`)
+);
+
+INSERT INTO `apple_private_relay_kr-48_ips` (`ip_address`, `ip_type`) VALUES ('104.28.44.98/32', 'IPv4');
+INSERT INTO `apple_private_relay_kr-48_ips` (`ip_address`, `ip_type`) VALUES ('104.28.44.99/32', 'IPv4');
+INSERT INTO `apple_private_relay_kr-48_ips` (`ip_address`, `ip_type`) VALUES ('104.28.44.102/32', 'IPv4');
+INSERT INTO `apple_private_relay_kr-48_ips` (`ip_address`, `ip_type`) VALUES ('104.28.44.103/32', 'IPv4');
+INSERT INTO `apple_private_relay_kr-48_ips` (`ip_address`, `ip_type`) VALUES ('104.28.68.4/32', 'IPv4');
+INSERT INTO `apple_private_relay_kr-48_ips` (`ip_address`, `ip_type`) VALUES ('104.28.68.5/32', 'IPv4');
+INSERT INTO `apple_private_relay_kr-48_ips` (`ip_address`, `ip_type`) VALUES ('104.28.68.12/32', 'IPv4');
+INSERT INTO `apple_private_relay_kr-48_ips` (`ip_address`, `ip_type`) VALUES ('104.28.68.13/32', 'IPv4');
+INSERT INTO `apple_private_relay_kr-48_ips` (`ip_address`, `ip_type`) VALUES ('104.28.71.4/32', 'IPv4');
+INSERT INTO `apple_private_relay_kr-48_ips` (`ip_address`, `ip_type`) VALUES ('104.28.71.5/32', 'IPv4');
+INSERT INTO `apple_private_relay_kr-48_ips` (`ip_address`, `ip_type`) VALUES ('104.28.71.12/32', 'IPv4');
+INSERT INTO `apple_private_relay_kr-48_ips` (`ip_address`, `ip_type`) VALUES ('104.28.71.13/32', 'IPv4');
+INSERT INTO `apple_private_relay_kr-48_ips` (`ip_address`, `ip_type`) VALUES ('104.28.84.29/32', 'IPv4');
+INSERT INTO `apple_private_relay_kr-48_ips` (`ip_address`, `ip_type`) VALUES ('104.28.84.30/32', 'IPv4');
+INSERT INTO `apple_private_relay_kr-48_ips` (`ip_address`, `ip_type`) VALUES ('104.28.84.37/32', 'IPv4');
+INSERT INTO `apple_private_relay_kr-48_ips` (`ip_address`, `ip_type`) VALUES ('104.28.84.38/32', 'IPv4');
+INSERT INTO `apple_private_relay_kr-48_ips` (`ip_address`, `ip_type`) VALUES ('104.28.100.25/32', 'IPv4');
+INSERT INTO `apple_private_relay_kr-48_ips` (`ip_address`, `ip_type`) VALUES ('104.28.100.26/32', 'IPv4');
+INSERT INTO `apple_private_relay_kr-48_ips` (`ip_address`, `ip_type`) VALUES ('104.28.100.33/32', 'IPv4');
+INSERT INTO `apple_private_relay_kr-48_ips` (`ip_address`, `ip_type`) VALUES ('104.28.100.34/32', 'IPv4');
+INSERT INTO `apple_private_relay_kr-48_ips` (`ip_address`, `ip_type`) VALUES ('104.28.102.25/32', 'IPv4');
+INSERT INTO `apple_private_relay_kr-48_ips` (`ip_address`, `ip_type`) VALUES ('104.28.102.26/32', 'IPv4');
+INSERT INTO `apple_private_relay_kr-48_ips` (`ip_address`, `ip_type`) VALUES ('104.28.102.33/32', 'IPv4');
+INSERT INTO `apple_private_relay_kr-48_ips` (`ip_address`, `ip_type`) VALUES ('104.28.102.34/32', 'IPv4');
+INSERT INTO `apple_private_relay_kr-48_ips` (`ip_address`, `ip_type`) VALUES ('104.28.118.253/32', 'IPv4');
+INSERT INTO `apple_private_relay_kr-48_ips` (`ip_address`, `ip_type`) VALUES ('104.28.118.254/32', 'IPv4');
+INSERT INTO `apple_private_relay_kr-48_ips` (`ip_address`, `ip_type`) VALUES ('104.28.119.6/32', 'IPv4');
+INSERT INTO `apple_private_relay_kr-48_ips` (`ip_address`, `ip_type`) VALUES ('104.28.119.7/32', 'IPv4');
+INSERT INTO `apple_private_relay_kr-48_ips` (`ip_address`, `ip_type`) VALUES ('104.28.121.253/32', 'IPv4');
+INSERT INTO `apple_private_relay_kr-48_ips` (`ip_address`, `ip_type`) VALUES ('104.28.121.254/32', 'IPv4');
+INSERT INTO `apple_private_relay_kr-48_ips` (`ip_address`, `ip_type`) VALUES ('104.28.122.6/32', 'IPv4');
+INSERT INTO `apple_private_relay_kr-48_ips` (`ip_address`, `ip_type`) VALUES ('104.28.122.7/32', 'IPv4');
+INSERT INTO `apple_private_relay_kr-48_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:4708::/45', 'IPv6');
+INSERT INTO `apple_private_relay_kr-48_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:4710::/45', 'IPv6');
+INSERT INTO `apple_private_relay_kr-48_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:1577::/64', 'IPv6');
+INSERT INTO `apple_private_relay_kr-48_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:1923::/64', 'IPv6');
+INSERT INTO `apple_private_relay_kr-48_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:4708::/45', 'IPv6');
+INSERT INTO `apple_private_relay_kr-48_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:4710::/45', 'IPv6');
+INSERT INTO `apple_private_relay_kr-48_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:4708::/45', 'IPv6');
+INSERT INTO `apple_private_relay_kr-48_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:4710::/45', 'IPv6');

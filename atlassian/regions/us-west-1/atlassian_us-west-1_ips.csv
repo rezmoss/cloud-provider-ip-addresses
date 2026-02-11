@@ -1,0 +1,12 @@
+ip_address,ip_type,service,region
+104.192.138.224/28,IPv4,rovo-crawler,us-west-1
+2401:1d80:3220:2::/64,IPv6,"bitbucket,confluence,forge,halp,jira,opsgenie,statuspage,trello",us-west-1
+2401:1d80:3220:3::/64,IPv6,"bitbucket,confluence,forge,halp,jira,opsgenie,statuspage,trello",us-west-1
+13.52.5.96/28,IPv4,"bitbucket,confluence,forge,halp,jira,opsgenie,statuspage,trello",us-west-1
+104.192.138.240/28,IPv4,"bitbucket,confluence,forge,halp,jira,opsgenie,statuspage,trello",us-west-1
+2600:1f1c:cc5:2304::/64,IPv6,"bitbucket,confluence,forge,halp,jira,opsgenie,statuspage,trello",us-west-1
+2600:1f1c:cc5:2305::/64,IPv6,"bitbucket,confluence,forge,halp,jira,opsgenie,statuspage,trello",us-west-1
+104.192.138.0/24,IPv4,"bitbucket,confluence,forge,halp,jira,opsgenie,statuspage,trello",us-west-1
+52.53.140.163/32,IPv4,forge,us-west-1
+54.241.128.19/32,IPv4,forge,us-west-1
+13.56.84.222/32,IPv4,forge,us-west-1
