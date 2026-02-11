@@ -1,0 +1,59 @@
+#!/bin/bash
+# Azure IP Ranges
+# Updated: 2026-02-11 15:35:22
+# Source: https://github.com/rezmoss/cloud-provider-ip-addresses
+# License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
+# This file is generated automatically. Do not edit it directly.
+# Updates daily at 00:00 UTC
+# iptables allow rules for azure
+
+iptables -A INPUT -s 13.73.248.32/28 -j ACCEPT
+iptables -A INPUT -s 13.87.32.29/32 -j ACCEPT
+iptables -A INPUT -s 20.36.120.192/28 -j ACCEPT
+iptables -A INPUT -s 20.37.64.192/28 -j ACCEPT
+iptables -A INPUT -s 20.37.156.224/28 -j ACCEPT
+iptables -A INPUT -s 20.37.195.32/28 -j ACCEPT
+iptables -A INPUT -s 20.37.224.192/28 -j ACCEPT
+iptables -A INPUT -s 20.38.84.112/28 -j ACCEPT
+iptables -A INPUT -s 20.38.136.192/28 -j ACCEPT
+iptables -A INPUT -s 20.39.11.32/28 -j ACCEPT
+iptables -A INPUT -s 20.41.4.192/28 -j ACCEPT
+iptables -A INPUT -s 20.41.65.160/28 -j ACCEPT
+iptables -A INPUT -s 20.41.193.128/28 -j ACCEPT
+iptables -A INPUT -s 20.42.4.224/28 -j ACCEPT
+iptables -A INPUT -s 20.42.131.0/28 -j ACCEPT
+iptables -A INPUT -s 20.42.227.0/28 -j ACCEPT
+iptables -A INPUT -s 20.43.41.160/28 -j ACCEPT
+iptables -A INPUT -s 20.43.65.160/28 -j ACCEPT
+iptables -A INPUT -s 20.43.130.112/28 -j ACCEPT
+iptables -A INPUT -s 20.45.112.192/28 -j ACCEPT
+iptables -A INPUT -s 20.45.192.192/28 -j ACCEPT
+iptables -A INPUT -s 20.150.160.192/28 -j ACCEPT
+iptables -A INPUT -s 20.189.106.208/28 -j ACCEPT
+iptables -A INPUT -s 20.192.225.128/28 -j ACCEPT
+iptables -A INPUT -s 40.67.48.192/28 -j ACCEPT
+iptables -A INPUT -s 40.74.30.112/28 -j ACCEPT
+iptables -A INPUT -s 40.80.57.128/28 -j ACCEPT
+iptables -A INPUT -s 40.80.169.128/28 -j ACCEPT
+iptables -A INPUT -s 40.80.188.32/28 -j ACCEPT
+iptables -A INPUT -s 40.82.253.80/28 -j ACCEPT
+iptables -A INPUT -s 40.89.17.128/28 -j ACCEPT
+iptables -A INPUT -s 51.12.41.32/28 -j ACCEPT
+iptables -A INPUT -s 51.12.193.32/28 -j ACCEPT
+iptables -A INPUT -s 51.104.25.160/28 -j ACCEPT
+iptables -A INPUT -s 51.105.80.192/28 -j ACCEPT
+iptables -A INPUT -s 51.105.88.192/28 -j ACCEPT
+iptables -A INPUT -s 51.107.48.192/28 -j ACCEPT
+iptables -A INPUT -s 51.107.144.192/28 -j ACCEPT
+iptables -A INPUT -s 51.116.48.112/28 -j ACCEPT
+iptables -A INPUT -s 51.116.144.112/28 -j ACCEPT
+iptables -A INPUT -s 51.120.40.192/28 -j ACCEPT
+iptables -A INPUT -s 51.120.224.192/28 -j ACCEPT
+iptables -A INPUT -s 51.137.161.144/28 -j ACCEPT
+iptables -A INPUT -s 52.136.48.192/28 -j ACCEPT
+iptables -A INPUT -s 52.140.105.128/28 -j ACCEPT
+iptables -A INPUT -s 52.150.139.80/28 -j ACCEPT
+iptables -A INPUT -s 52.228.81.144/28 -j ACCEPT
+iptables -A INPUT -s 102.133.56.112/28 -j ACCEPT
+iptables -A INPUT -s 102.133.216.112/28 -j ACCEPT
+iptables -A INPUT -s 191.235.225.160/28 -j ACCEPT

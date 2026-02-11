@@ -1,0 +1,55 @@
+#!/bin/bash
+# Azure IP Ranges
+# Updated: 2026-02-11 15:35:26
+# Source: https://github.com/rezmoss/cloud-provider-ip-addresses
+# License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
+# This file is generated automatically. Do not edit it directly.
+# Updates daily at 00:00 UTC
+# iptables allow rules for azure
+
+iptables -A INPUT -s 4.174.144.88/29 -j ACCEPT
+iptables -A INPUT -s 4.174.145.128/25 -j ACCEPT
+iptables -A INPUT -s 4.174.148.0/23 -j ACCEPT
+iptables -A INPUT -s 4.174.150.0/26 -j ACCEPT
+iptables -A INPUT -s 20.39.134.9/32 -j ACCEPT
+iptables -A INPUT -s 20.39.134.67/32 -j ACCEPT
+iptables -A INPUT -s 20.39.134.93/32 -j ACCEPT
+iptables -A INPUT -s 20.39.139.245/32 -j ACCEPT
+iptables -A INPUT -s 20.39.140.23/32 -j ACCEPT
+iptables -A INPUT -s 20.39.141.50/32 -j ACCEPT
+iptables -A INPUT -s 20.48.192.0/28 -j ACCEPT
+iptables -A INPUT -s 20.48.192.16/29 -j ACCEPT
+iptables -A INPUT -s 20.48.193.168/29 -j ACCEPT
+iptables -A INPUT -s 20.48.201.96/27 -j ACCEPT
+iptables -A INPUT -s 20.48.201.128/26 -j ACCEPT
+iptables -A INPUT -s 20.48.202.8/29 -j ACCEPT
+iptables -A INPUT -s 20.63.52.175/32 -j ACCEPT
+iptables -A INPUT -s 20.104.37.80/32 -j ACCEPT
+iptables -A INPUT -s 20.116.85.253/32 -j ACCEPT
+iptables -A INPUT -s 20.151.42.15/32 -j ACCEPT
+iptables -A INPUT -s 20.151.73.141/32 -j ACCEPT
+iptables -A INPUT -s 20.151.188.174/32 -j ACCEPT
+iptables -A INPUT -s 20.151.188.187/32 -j ACCEPT
+iptables -A INPUT -s 20.151.188.190/32 -j ACCEPT
+iptables -A INPUT -s 20.151.188.199/32 -j ACCEPT
+iptables -A INPUT -s 20.151.188.212/30 -j ACCEPT
+iptables -A INPUT -s 20.151.188.252/30 -j ACCEPT
+iptables -A INPUT -s 20.175.157.119/32 -j ACCEPT
+iptables -A INPUT -s 20.200.73.253/32 -j ACCEPT
+iptables -A INPUT -s 20.220.7.152/29 -j ACCEPT
+iptables -A INPUT -s 20.220.7.160/27 -j ACCEPT
+iptables -A INPUT -s 20.220.7.192/29 -j ACCEPT
+iptables -A INPUT -s 40.82.173.103/32 -j ACCEPT
+iptables -A INPUT -s 40.82.187.141/32 -j ACCEPT
+iptables -A INPUT -s 52.139.17.108/32 -j ACCEPT
+iptables -A INPUT -s 52.139.17.252/32 -j ACCEPT
+iptables -A INPUT -s 52.139.18.243/32 -j ACCEPT
+iptables -A INPUT -s 52.139.22.227/32 -j ACCEPT
+iptables -A INPUT -s 52.156.24.232/32 -j ACCEPT
+iptables -A INPUT -s 52.228.86.178/31 -j ACCEPT
+iptables -A INPUT -s 52.228.86.180/30 -j ACCEPT
+iptables -A INPUT -s 52.228.86.184/29 -j ACCEPT
+iptables -A INPUT -s 52.228.86.192/26 -j ACCEPT
+iptables -A INPUT -s 52.228.87.0/24 -j ACCEPT
+iptables -A INPUT -s 52.228.125.229/32 -j ACCEPT
+ip6tables -A INPUT -s 2603:1061:2002:6000::/57 -j ACCEPT

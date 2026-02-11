@@ -1,0 +1,30 @@
+#!/bin/bash
+# Oracle IP Ranges
+# Updated: 2026-02-11 15:35:30
+# Source: https://github.com/rezmoss/cloud-provider-ip-addresses
+# License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
+# This file is generated automatically. Do not edit it directly.
+# Updates daily at 00:00 UTC
+# iptables allow rules for oracle
+
+iptables -A INPUT -s 68.233.96.0/20 -j ACCEPT
+iptables -A INPUT -s 68.233.112.0/21 -j ACCEPT
+iptables -A INPUT -s 129.154.32.0/20 -j ACCEPT
+iptables -A INPUT -s 129.159.16.0/21 -j ACCEPT
+iptables -A INPUT -s 129.159.224.0/20 -j ACCEPT
+iptables -A INPUT -s 132.226.176.0/21 -j ACCEPT
+iptables -A INPUT -s 140.245.192.0/18 -j ACCEPT
+iptables -A INPUT -s 144.24.128.0/19 -j ACCEPT
+iptables -A INPUT -s 150.230.128.0/20 -j ACCEPT
+iptables -A INPUT -s 152.67.160.0/19 -j ACCEPT
+iptables -A INPUT -s 152.70.64.0/20 -j ACCEPT
+iptables -A INPUT -s 207.135.18.0/23 -j ACCEPT
+iptables -A INPUT -s 129.148.128.0/23 -j ACCEPT
+iptables -A INPUT -s 129.148.132.0/22 -j ACCEPT
+iptables -A INPUT -s 129.148.168.0/21 -j ACCEPT
+iptables -A INPUT -s 134.70.120.0/22 -j ACCEPT
+iptables -A INPUT -s 134.185.76.0/24 -j ACCEPT
+iptables -A INPUT -s 140.91.52.0/23 -j ACCEPT
+iptables -A INPUT -s 140.204.50.128/25 -j ACCEPT
+iptables -A INPUT -s 149.118.240.0/23 -j ACCEPT
+iptables -A INPUT -s 204.216.119.192/26 -j ACCEPT

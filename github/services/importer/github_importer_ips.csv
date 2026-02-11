@@ -1,0 +1,6 @@
+ip_address,ip_type,service
+52.23.85.212/32,IPv4,importer
+52.0.228.224/32,IPv4,importer
+52.22.155.48/32,IPv4,importer
+20.51.87.64/28,IPv4,importer
+172.184.222.112/28,IPv4,importer

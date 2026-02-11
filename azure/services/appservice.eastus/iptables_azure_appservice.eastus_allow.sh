@@ -1,0 +1,95 @@
+#!/bin/bash
+# Azure IP Ranges
+# Updated: 2026-02-11 15:35:23
+# Source: https://github.com/rezmoss/cloud-provider-ip-addresses
+# License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
+# This file is generated automatically. Do not edit it directly.
+# Updates daily at 00:00 UTC
+# iptables allow rules for azure
+
+iptables -A INPUT -s 13.82.93.245/32 -j ACCEPT
+iptables -A INPUT -s 13.82.101.179/32 -j ACCEPT
+iptables -A INPUT -s 13.82.175.96/32 -j ACCEPT
+iptables -A INPUT -s 13.90.143.69/32 -j ACCEPT
+iptables -A INPUT -s 13.90.213.204/32 -j ACCEPT
+iptables -A INPUT -s 13.92.139.214/32 -j ACCEPT
+iptables -A INPUT -s 13.92.193.110/32 -j ACCEPT
+iptables -A INPUT -s 13.92.237.218/32 -j ACCEPT
+iptables -A INPUT -s 20.42.26.252/32 -j ACCEPT
+iptables -A INPUT -s 20.49.104.0/25 -j ACCEPT
+iptables -A INPUT -s 20.119.0.0/20 -j ACCEPT
+iptables -A INPUT -s 20.119.16.0/21 -j ACCEPT
+iptables -A INPUT -s 20.119.27.0/25 -j ACCEPT
+iptables -A INPUT -s 23.96.0.52/32 -j ACCEPT
+iptables -A INPUT -s 23.96.1.109/32 -j ACCEPT
+iptables -A INPUT -s 23.96.13.243/32 -j ACCEPT
+iptables -A INPUT -s 23.96.32.128/32 -j ACCEPT
+iptables -A INPUT -s 23.96.96.142/32 -j ACCEPT
+iptables -A INPUT -s 23.96.103.159/32 -j ACCEPT
+iptables -A INPUT -s 23.96.112.53/32 -j ACCEPT
+iptables -A INPUT -s 23.96.113.128/32 -j ACCEPT
+iptables -A INPUT -s 23.96.124.25/32 -j ACCEPT
+iptables -A INPUT -s 40.71.0.179/32 -j ACCEPT
+iptables -A INPUT -s 40.71.11.128/25 -j ACCEPT
+iptables -A INPUT -s 40.71.177.34/32 -j ACCEPT
+iptables -A INPUT -s 40.71.199.117/32 -j ACCEPT
+iptables -A INPUT -s 40.71.234.254/32 -j ACCEPT
+iptables -A INPUT -s 40.71.250.191/32 -j ACCEPT
+iptables -A INPUT -s 40.76.5.137/32 -j ACCEPT
+iptables -A INPUT -s 40.76.192.15/32 -j ACCEPT
+iptables -A INPUT -s 40.76.210.54/32 -j ACCEPT
+iptables -A INPUT -s 40.76.218.33/32 -j ACCEPT
+iptables -A INPUT -s 40.76.223.101/32 -j ACCEPT
+iptables -A INPUT -s 40.79.154.192/27 -j ACCEPT
+iptables -A INPUT -s 40.85.190.10/32 -j ACCEPT
+iptables -A INPUT -s 40.87.65.131/32 -j ACCEPT
+iptables -A INPUT -s 40.87.70.95/32 -j ACCEPT
+iptables -A INPUT -s 40.114.13.25/32 -j ACCEPT
+iptables -A INPUT -s 40.114.41.245/32 -j ACCEPT
+iptables -A INPUT -s 40.114.51.68/32 -j ACCEPT
+iptables -A INPUT -s 40.114.68.21/32 -j ACCEPT
+iptables -A INPUT -s 40.114.106.25/32 -j ACCEPT
+iptables -A INPUT -s 40.117.154.240/32 -j ACCEPT
+iptables -A INPUT -s 40.117.188.126/32 -j ACCEPT
+iptables -A INPUT -s 40.117.190.72/32 -j ACCEPT
+iptables -A INPUT -s 40.121.8.241/32 -j ACCEPT
+iptables -A INPUT -s 40.121.16.193/32 -j ACCEPT
+iptables -A INPUT -s 40.121.32.232/32 -j ACCEPT
+iptables -A INPUT -s 40.121.35.221/32 -j ACCEPT
+iptables -A INPUT -s 40.121.91.199/32 -j ACCEPT
+iptables -A INPUT -s 40.121.212.165/32 -j ACCEPT
+iptables -A INPUT -s 40.121.221.52/32 -j ACCEPT
+iptables -A INPUT -s 52.168.125.188/32 -j ACCEPT
+iptables -A INPUT -s 52.170.7.25/32 -j ACCEPT
+iptables -A INPUT -s 52.170.46.174/32 -j ACCEPT
+iptables -A INPUT -s 52.179.97.15/32 -j ACCEPT
+iptables -A INPUT -s 52.226.134.64/32 -j ACCEPT
+iptables -A INPUT -s 52.234.209.94/32 -j ACCEPT
+iptables -A INPUT -s 104.45.129.178/32 -j ACCEPT
+iptables -A INPUT -s 104.45.141.247/32 -j ACCEPT
+iptables -A INPUT -s 104.45.152.13/32 -j ACCEPT
+iptables -A INPUT -s 104.45.152.60/32 -j ACCEPT
+iptables -A INPUT -s 104.45.154.200/32 -j ACCEPT
+iptables -A INPUT -s 104.211.26.212/32 -j ACCEPT
+iptables -A INPUT -s 137.117.58.204/32 -j ACCEPT
+iptables -A INPUT -s 137.117.66.167/32 -j ACCEPT
+iptables -A INPUT -s 137.117.84.54/32 -j ACCEPT
+iptables -A INPUT -s 137.117.90.63/32 -j ACCEPT
+iptables -A INPUT -s 137.117.93.87/32 -j ACCEPT
+iptables -A INPUT -s 137.135.91.176/32 -j ACCEPT
+iptables -A INPUT -s 137.135.107.235/32 -j ACCEPT
+iptables -A INPUT -s 168.62.48.183/32 -j ACCEPT
+iptables -A INPUT -s 168.62.180.173/32 -j ACCEPT
+iptables -A INPUT -s 191.236.16.12/32 -j ACCEPT
+iptables -A INPUT -s 191.236.59.67/32 -j ACCEPT
+iptables -A INPUT -s 191.237.24.89/32 -j ACCEPT
+iptables -A INPUT -s 191.237.27.74/32 -j ACCEPT
+iptables -A INPUT -s 191.238.8.26/32 -j ACCEPT
+iptables -A INPUT -s 191.238.33.50/32 -j ACCEPT
+ip6tables -A INPUT -s 2603:1030:210:6::/117 -j ACCEPT
+ip6tables -A INPUT -s 2603:1030:210:7::/117 -j ACCEPT
+ip6tables -A INPUT -s 2603:1030:210:8::/117 -j ACCEPT
+ip6tables -A INPUT -s 2603:1030:210:9::/117 -j ACCEPT
+ip6tables -A INPUT -s 2603:1030:210:402::a0/123 -j ACCEPT
+ip6tables -A INPUT -s 2603:1030:210:802::a0/123 -j ACCEPT
+ip6tables -A INPUT -s 2603:1030:210:c02::a0/123 -j ACCEPT

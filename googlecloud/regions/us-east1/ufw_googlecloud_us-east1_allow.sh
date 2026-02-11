@@ -1,0 +1,51 @@
+#!/bin/bash
+# Googlecloud IP Ranges
+# Updated: 2026-02-11 15:35:03
+# Source: https://github.com/rezmoss/cloud-provider-ip-addresses
+# License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
+# This file is generated automatically. Do not edit it directly.
+# Updates daily at 00:00 UTC
+# UFW allow rules for googlecloud
+
+ufw allow from 34.3.76.0/22
+ufw allow from 34.4.16.0/22
+ufw allow from 34.23.0.0/16
+ufw allow from 34.24.0.0/15
+ufw allow from 34.26.0.0/16
+ufw allow from 34.73.0.0/16
+ufw allow from 34.74.0.0/15
+ufw allow from 34.98.128.0/21
+ufw allow from 34.112.0.0/16
+ufw allow from 34.118.250.0/23
+ufw allow from 34.138.0.0/15
+ufw allow from 34.148.0.0/16
+ufw allow from 34.152.72.0/21
+ufw allow from 34.177.40.0/21
+ufw allow from 34.183.4.0/23
+ufw allow from 34.183.33.0/24
+ufw allow from 34.184.4.0/23
+ufw allow from 34.184.34.0/24
+ufw allow from 35.185.0.0/17
+ufw allow from 35.190.128.0/18
+ufw allow from 35.196.0.0/16
+ufw allow from 35.207.0.0/18
+ufw allow from 35.211.0.0/16
+ufw allow from 35.220.0.0/20
+ufw allow from 35.227.0.0/17
+ufw allow from 35.229.16.0/20
+ufw allow from 35.229.32.0/19
+ufw allow from 35.229.64.0/18
+ufw allow from 35.231.0.0/16
+ufw allow from 35.237.0.0/16
+ufw allow from 35.242.0.0/20
+ufw allow from 35.243.128.0/17
+ufw allow from 104.196.0.0/18
+ufw allow from 104.196.65.0/24
+ufw allow from 104.196.66.0/23
+ufw allow from 104.196.68.0/22
+ufw allow from 104.196.96.0/19
+ufw allow from 104.196.128.0/18
+ufw allow from 104.196.192.0/19
+ufw allow from 136.108.0.0/16
+ufw allow from 162.216.148.0/22
+ufw allow from 2600:1900:4020::/44

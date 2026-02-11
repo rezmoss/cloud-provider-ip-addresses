@@ -1,0 +1,7 @@
+ip_address,ip_type,service
+192.30.252.0/22,IPv4,hooks
+185.199.108.0/22,IPv4,hooks
+140.82.112.0/20,IPv4,hooks
+143.55.64.0/20,IPv4,hooks
+2a0a:a440::/29,IPv6,hooks
+2606:50c0::/32,IPv6,hooks

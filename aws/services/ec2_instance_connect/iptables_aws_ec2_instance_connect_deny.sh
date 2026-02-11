@@ -1,0 +1,81 @@
+#!/bin/bash
+# Aws IP Ranges
+# Updated: 2026-02-11 15:35:02
+# Source: https://github.com/rezmoss/cloud-provider-ip-addresses
+# License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
+# This file is generated automatically. Do not edit it directly.
+# Updates daily at 00:00 UTC
+# iptables deny rules for aws
+
+iptables -A INPUT -s 43.196.20.40/29 -j DROP
+iptables -A INPUT -s 43.192.155.8/29 -j DROP
+iptables -A INPUT -s 18.252.4.0/30 -j DROP
+iptables -A INPUT -s 15.200.28.80/30 -j DROP
+iptables -A INPUT -s 13.244.121.196/30 -j DROP
+iptables -A INPUT -s 43.198.192.104/29 -j DROP
+iptables -A INPUT -s 3.112.23.0/29 -j DROP
+iptables -A INPUT -s 13.209.1.56/29 -j DROP
+iptables -A INPUT -s 15.168.105.160/29 -j DROP
+iptables -A INPUT -s 13.233.177.0/29 -j DROP
+iptables -A INPUT -s 18.60.252.248/29 -j DROP
+iptables -A INPUT -s 3.0.5.32/29 -j DROP
+iptables -A INPUT -s 13.239.158.0/29 -j DROP
+iptables -A INPUT -s 43.218.193.64/29 -j DROP
+iptables -A INPUT -s 16.50.248.80/29 -j DROP
+iptables -A INPUT -s 43.216.87.48/29 -j DROP
+iptables -A INPUT -s 43.209.155.96/29 -j DROP
+iptables -A INPUT -s 35.183.92.176/29 -j DROP
+iptables -A INPUT -s 40.176.213.168/29 -j DROP
+iptables -A INPUT -s 3.120.181.40/29 -j DROP
+iptables -A INPUT -s 16.63.77.8/29 -j DROP
+iptables -A INPUT -s 13.48.4.200/30 -j DROP
+iptables -A INPUT -s 15.161.135.164/30 -j DROP
+iptables -A INPUT -s 18.101.90.48/29 -j DROP
+iptables -A INPUT -s 18.202.216.48/29 -j DROP
+iptables -A INPUT -s 3.8.37.24/29 -j DROP
+iptables -A INPUT -s 35.180.112.80/29 -j DROP
+iptables -A INPUT -s 51.16.183.224/29 -j DROP
+iptables -A INPUT -s 3.29.147.40/29 -j DROP
+iptables -A INPUT -s 16.24.46.56/29 -j DROP
+iptables -A INPUT -s 78.12.207.8/29 -j DROP
+iptables -A INPUT -s 18.228.70.32/29 -j DROP
+iptables -A INPUT -s 18.206.107.24/29 -j DROP
+iptables -A INPUT -s 3.16.146.0/29 -j DROP
+iptables -A INPUT -s 13.52.6.112/29 -j DROP
+iptables -A INPUT -s 18.237.140.160/29 -j DROP
+ip6tables -A INPUT -s 2400:7fc0:86fd:e00::/56 -j DROP
+ip6tables -A INPUT -s 2404:c2c0:87aa:4800::/56 -j DROP
+ip6tables -A INPUT -s 2600:1f15:d63:bd00::/56 -j DROP
+ip6tables -A INPUT -s 2600:1f12:fa9:5100::/56 -j DROP
+ip6tables -A INPUT -s 2406:da11:700:3b00::/56 -j DROP
+ip6tables -A INPUT -s 2406:da1e:da1:3c00::/56 -j DROP
+ip6tables -A INPUT -s 2406:da14:1c18:2100::/56 -j DROP
+ip6tables -A INPUT -s 2406:da12:1e1:d900::/56 -j DROP
+ip6tables -A INPUT -s 2406:da16:856:a500::/56 -j DROP
+ip6tables -A INPUT -s 2406:da1a:74a:4b00::/56 -j DROP
+ip6tables -A INPUT -s 2406:da1b:d1d:8800::/56 -j DROP
+ip6tables -A INPUT -s 2406:da18:752:6600::/56 -j DROP
+ip6tables -A INPUT -s 2406:da1c:90e:4a00::/56 -j DROP
+ip6tables -A INPUT -s 2406:da19:14b:8c00::/56 -j DROP
+ip6tables -A INPUT -s 2406:da1f:b4f:4600::/56 -j DROP
+ip6tables -A INPUT -s 2406:da10:84f9:9e00::/56 -j DROP
+ip6tables -A INPUT -s 2406:da14:85c5:5b00::/56 -j DROP
+ip6tables -A INPUT -s 2600:1f11:ae3:700::/56 -j DROP
+ip6tables -A INPUT -s 2600:1f1a:4ff6:d500::/56 -j DROP
+ip6tables -A INPUT -s 2a05:d014:17a8:8b00::/56 -j DROP
+ip6tables -A INPUT -s 2a05:d019:1d6:2100::/56 -j DROP
+ip6tables -A INPUT -s 2a05:d016:494:f00::/56 -j DROP
+ip6tables -A INPUT -s 2a05:d01a:c03:4a00::/56 -j DROP
+ip6tables -A INPUT -s 2a05:d011:cbe:f700::/56 -j DROP
+ip6tables -A INPUT -s 2a05:d018:403:4e00::/56 -j DROP
+ip6tables -A INPUT -s 2a05:d01c:4ac:3100::/56 -j DROP
+ip6tables -A INPUT -s 2a05:d012:c9e:d600::/56 -j DROP
+ip6tables -A INPUT -s 2a05:d025:451:7d00::/56 -j DROP
+ip6tables -A INPUT -s 2406:da17:1db:b00::/56 -j DROP
+ip6tables -A INPUT -s 2a05:d01e:27f:ac00::/56 -j DROP
+ip6tables -A INPUT -s 2600:1f17:4ee0:b800::/56 -j DROP
+ip6tables -A INPUT -s 2600:1f1e:d1d:e700::/56 -j DROP
+ip6tables -A INPUT -s 2600:1f18:6fe3:8c00::/56 -j DROP
+ip6tables -A INPUT -s 2600:1f16:138f:cf00::/56 -j DROP
+ip6tables -A INPUT -s 2600:1f1c:12d:e900::/56 -j DROP
+ip6tables -A INPUT -s 2600:1f13:a0d:a700::/56 -j DROP

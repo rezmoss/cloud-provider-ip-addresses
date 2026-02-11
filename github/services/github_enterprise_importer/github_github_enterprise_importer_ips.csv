@@ -1,0 +1,9 @@
+ip_address,ip_type,service
+192.30.252.0/22,IPv4,github_enterprise_importer
+185.199.108.0/22,IPv4,github_enterprise_importer
+140.82.112.0/20,IPv4,github_enterprise_importer
+143.55.64.0/20,IPv4,github_enterprise_importer
+2a0a:a440::/29,IPv6,github_enterprise_importer
+2606:50c0::/32,IPv6,github_enterprise_importer
+20.99.172.64/28,IPv4,github_enterprise_importer
+135.234.59.224/28,IPv4,github_enterprise_importer

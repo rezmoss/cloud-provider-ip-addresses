@@ -1,0 +1,37 @@
+#!/bin/bash
+# Aws IP Ranges
+# Updated: 2026-02-11 15:35:02
+# Source: https://github.com/rezmoss/cloud-provider-ip-addresses
+# License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
+# This file is generated automatically. Do not edit it directly.
+# Updates daily at 00:00 UTC
+# UFW allow rules for aws
+
+ufw allow from 18.99.75.128/25
+ufw allow from 18.98.132.128/25
+ufw allow from 18.96.17.0/25
+ufw allow from 3.44.64.128/25
+ufw allow from 18.99.193.0/25
+ufw allow from 18.99.4.128/25
+ufw allow from 18.99.129.0/25
+ufw allow from 18.96.39.128/25
+ufw allow from 18.97.198.128/25
+ufw allow from 18.98.164.0/25
+ufw allow from 18.98.66.128/25
+ufw allow from 18.97.33.128/25
+ufw allow from 18.97.139.128/25
+ufw allow from 18.98.20.128/25
+ufw allow from 2406:da14:1713:ba00::/56
+ufw allow from 2406:da12:8f1:3d00::/56
+ufw allow from 2406:da16:c46:6600::/56
+ufw allow from 2406:da1c:b86:9800::/56
+ufw allow from 2406:da1f:51b:1a00::/56
+ufw allow from 2600:1f11:e4a:df00::/56
+ufw allow from 2600:1f1a:4040:b100::/56
+ufw allow from 2a05:d014:15a0:7500::/56
+ufw allow from 2a05:d018:b3d:8200::/56
+ufw allow from 2a05:d01c:d06:1800::/56
+ufw allow from 2a05:d012:610:d500::/56
+ufw allow from 2600:1f18:692c:300::/56
+ufw allow from 2600:1f16:1ccb:8100::/56
+ufw allow from 2600:1f14:802:7300::/56

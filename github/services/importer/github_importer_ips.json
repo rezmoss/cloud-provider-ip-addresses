@@ -1,0 +1,27 @@
+[
+  {
+    "ip_address": "52.23.85.212/32",
+    "ip_type": "IPv4",
+    "service": "importer"
+  },
+  {
+    "ip_address": "52.0.228.224/32",
+    "ip_type": "IPv4",
+    "service": "importer"
+  },
+  {
+    "ip_address": "52.22.155.48/32",
+    "ip_type": "IPv4",
+    "service": "importer"
+  },
+  {
+    "ip_address": "20.51.87.64/28",
+    "ip_type": "IPv4",
+    "service": "importer"
+  },
+  {
+    "ip_address": "172.184.222.112/28",
+    "ip_type": "IPv4",
+    "service": "importer"
+  }
+]

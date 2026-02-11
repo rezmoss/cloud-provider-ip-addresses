@@ -1,0 +1,32 @@
+[
+  {
+    "ip_address": "192.30.252.0/22",
+    "ip_type": "IPv4",
+    "service": "hooks"
+  },
+  {
+    "ip_address": "185.199.108.0/22",
+    "ip_type": "IPv4",
+    "service": "hooks"
+  },
+  {
+    "ip_address": "140.82.112.0/20",
+    "ip_type": "IPv4",
+    "service": "hooks"
+  },
+  {
+    "ip_address": "143.55.64.0/20",
+    "ip_type": "IPv4",
+    "service": "hooks"
+  },
+  {
+    "ip_address": "2a0a:a440::/29",
+    "ip_type": "IPv6",
+    "service": "hooks"
+  },
+  {
+    "ip_address": "2606:50c0::/32",
+    "ip_type": "IPv6",
+    "service": "hooks"
+  }
+]

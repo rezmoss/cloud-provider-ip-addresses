@@ -1,0 +1,38 @@
+#!/bin/bash
+# Azure IP Ranges
+# Updated: 2026-02-11 15:35:26
+# Source: https://github.com/rezmoss/cloud-provider-ip-addresses
+# License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
+# This file is generated automatically. Do not edit it directly.
+# Updates daily at 00:00 UTC
+# iptables deny rules for azure
+
+iptables -A INPUT -s 13.72.73.110/32 -j DROP
+iptables -A INPUT -s 13.90.86.1/32 -j DROP
+iptables -A INPUT -s 13.92.97.243/32 -j DROP
+iptables -A INPUT -s 13.92.188.209/32 -j DROP
+iptables -A INPUT -s 13.92.190.185/32 -j DROP
+iptables -A INPUT -s 40.71.86.107/32 -j DROP
+iptables -A INPUT -s 40.117.35.99/32 -j DROP
+iptables -A INPUT -s 40.121.214.58/32 -j DROP
+iptables -A INPUT -s 52.168.88.247/32 -j DROP
+iptables -A INPUT -s 52.168.89.30/32 -j DROP
+iptables -A INPUT -s 52.168.92.234/32 -j DROP
+iptables -A INPUT -s 52.168.116.0/26 -j DROP
+iptables -A INPUT -s 52.168.136.186/32 -j DROP
+iptables -A INPUT -s 52.168.139.96/32 -j DROP
+iptables -A INPUT -s 52.168.141.90/32 -j DROP
+iptables -A INPUT -s 52.168.143.85/32 -j DROP
+iptables -A INPUT -s 52.168.168.165/32 -j DROP
+iptables -A INPUT -s 52.168.178.77/32 -j DROP
+iptables -A INPUT -s 52.168.179.117/32 -j DROP
+iptables -A INPUT -s 52.168.180.168/32 -j DROP
+iptables -A INPUT -s 52.170.28.184/32 -j DROP
+iptables -A INPUT -s 52.170.34.217/32 -j DROP
+iptables -A INPUT -s 52.170.37.236/32 -j DROP
+iptables -A INPUT -s 52.170.209.22/32 -j DROP
+iptables -A INPUT -s 52.179.23.200/32 -j DROP
+iptables -A INPUT -s 72.152.254.0/24 -j DROP
+iptables -A INPUT -s 137.117.96.184/32 -j DROP
+iptables -A INPUT -s 137.117.97.51/32 -j DROP
+ip6tables -A INPUT -s 2603:1030:210:18::400/120 -j DROP

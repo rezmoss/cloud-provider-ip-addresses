@@ -1,0 +1,42 @@
+[
+  {
+    "ip_address": "13.105.117.0/24",
+    "ip_type": "IPv4",
+    "service": "actions_macos"
+  },
+  {
+    "ip_address": "13.105.220.0/25",
+    "ip_type": "IPv4",
+    "service": "actions_macos"
+  },
+  {
+    "ip_address": "13.105.220.128/27",
+    "ip_type": "IPv4",
+    "service": "actions_macos"
+  },
+  {
+    "ip_address": "13.105.220.160/28",
+    "ip_type": "IPv4",
+    "service": "actions_macos"
+  },
+  {
+    "ip_address": "13.105.220.176/29",
+    "ip_type": "IPv4",
+    "service": "actions_macos"
+  },
+  {
+    "ip_address": "13.105.220.184/30",
+    "ip_type": "IPv4",
+    "service": "actions_macos"
+  },
+  {
+    "ip_address": "13.105.220.188/31",
+    "ip_type": "IPv4",
+    "service": "actions_macos"
+  },
+  {
+    "ip_address": "13.105.49.0/24",
+    "ip_type": "IPv4",
+    "service": "actions_macos"
+  }
+]

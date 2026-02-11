@@ -1,0 +1,42 @@
+[
+  {
+    "ip_address": "192.30.252.0/22",
+    "ip_type": "IPv4",
+    "service": "github_enterprise_importer"
+  },
+  {
+    "ip_address": "185.199.108.0/22",
+    "ip_type": "IPv4",
+    "service": "github_enterprise_importer"
+  },
+  {
+    "ip_address": "140.82.112.0/20",
+    "ip_type": "IPv4",
+    "service": "github_enterprise_importer"
+  },
+  {
+    "ip_address": "143.55.64.0/20",
+    "ip_type": "IPv4",
+    "service": "github_enterprise_importer"
+  },
+  {
+    "ip_address": "2a0a:a440::/29",
+    "ip_type": "IPv6",
+    "service": "github_enterprise_importer"
+  },
+  {
+    "ip_address": "2606:50c0::/32",
+    "ip_type": "IPv6",
+    "service": "github_enterprise_importer"
+  },
+  {
+    "ip_address": "20.99.172.64/28",
+    "ip_type": "IPv4",
+    "service": "github_enterprise_importer"
+  },
+  {
+    "ip_address": "135.234.59.224/28",
+    "ip_type": "IPv4",
+    "service": "github_enterprise_importer"
+  }
+]

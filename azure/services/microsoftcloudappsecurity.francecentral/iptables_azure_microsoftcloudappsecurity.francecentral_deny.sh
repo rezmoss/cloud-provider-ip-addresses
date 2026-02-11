@@ -1,0 +1,80 @@
+#!/bin/bash
+# Azure IP Ranges
+# Updated: 2026-02-11 15:35:26
+# Source: https://github.com/rezmoss/cloud-provider-ip-addresses
+# License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
+# This file is generated automatically. Do not edit it directly.
+# Updates daily at 00:00 UTC
+# iptables deny rules for azure
+
+iptables -A INPUT -s 4.178.134.40/29 -j DROP
+iptables -A INPUT -s 4.178.134.64/26 -j DROP
+iptables -A INPUT -s 4.178.134.128/25 -j DROP
+iptables -A INPUT -s 4.211.203.169/32 -j DROP
+iptables -A INPUT -s 4.211.203.229/32 -j DROP
+iptables -A INPUT -s 4.211.205.90/32 -j DROP
+iptables -A INPUT -s 20.19.97.64/32 -j DROP
+iptables -A INPUT -s 20.19.98.239/32 -j DROP
+iptables -A INPUT -s 20.19.99.17/32 -j DROP
+iptables -A INPUT -s 20.40.132.195/32 -j DROP
+iptables -A INPUT -s 20.40.134.79/32 -j DROP
+iptables -A INPUT -s 20.40.134.94/32 -j DROP
+iptables -A INPUT -s 20.74.26.252/32 -j DROP
+iptables -A INPUT -s 20.74.73.84/32 -j DROP
+iptables -A INPUT -s 20.74.73.102/32 -j DROP
+iptables -A INPUT -s 20.74.73.111/32 -j DROP
+iptables -A INPUT -s 20.74.73.116/32 -j DROP
+iptables -A INPUT -s 20.74.73.118/32 -j DROP
+iptables -A INPUT -s 20.111.23.234/32 -j DROP
+iptables -A INPUT -s 40.66.56.158/32 -j DROP
+iptables -A INPUT -s 40.66.57.164/32 -j DROP
+iptables -A INPUT -s 40.66.57.203/32 -j DROP
+iptables -A INPUT -s 40.66.59.41/32 -j DROP
+iptables -A INPUT -s 40.66.59.193/32 -j DROP
+iptables -A INPUT -s 40.66.59.195/32 -j DROP
+iptables -A INPUT -s 40.66.59.196/32 -j DROP
+iptables -A INPUT -s 40.66.59.246/32 -j DROP
+iptables -A INPUT -s 40.66.60.101/32 -j DROP
+iptables -A INPUT -s 40.66.60.118/32 -j DROP
+iptables -A INPUT -s 40.66.60.180/32 -j DROP
+iptables -A INPUT -s 40.66.60.185/32 -j DROP
+iptables -A INPUT -s 40.66.60.200/32 -j DROP
+iptables -A INPUT -s 40.66.60.206/31 -j DROP
+iptables -A INPUT -s 40.66.60.208/31 -j DROP
+iptables -A INPUT -s 40.66.60.210/32 -j DROP
+iptables -A INPUT -s 40.66.60.215/32 -j DROP
+iptables -A INPUT -s 40.66.60.216/31 -j DROP
+iptables -A INPUT -s 40.66.60.219/32 -j DROP
+iptables -A INPUT -s 40.66.60.220/31 -j DROP
+iptables -A INPUT -s 40.66.60.222/32 -j DROP
+iptables -A INPUT -s 40.66.60.224/31 -j DROP
+iptables -A INPUT -s 40.66.60.226/32 -j DROP
+iptables -A INPUT -s 40.66.60.232/32 -j DROP
+iptables -A INPUT -s 40.66.61.61/32 -j DROP
+iptables -A INPUT -s 40.66.61.158/32 -j DROP
+iptables -A INPUT -s 40.66.61.193/32 -j DROP
+iptables -A INPUT -s 40.66.61.226/32 -j DROP
+iptables -A INPUT -s 40.66.62.7/32 -j DROP
+iptables -A INPUT -s 40.66.62.9/32 -j DROP
+iptables -A INPUT -s 40.66.62.78/32 -j DROP
+iptables -A INPUT -s 40.66.62.130/32 -j DROP
+iptables -A INPUT -s 40.66.62.154/32 -j DROP
+iptables -A INPUT -s 40.66.62.225/32 -j DROP
+iptables -A INPUT -s 40.66.63.148/32 -j DROP
+iptables -A INPUT -s 40.66.63.255/32 -j DROP
+iptables -A INPUT -s 40.79.132.96/28 -j DROP
+iptables -A INPUT -s 40.79.139.16/28 -j DROP
+iptables -A INPUT -s 40.79.146.224/28 -j DROP
+iptables -A INPUT -s 40.89.136.227/32 -j DROP
+iptables -A INPUT -s 40.89.137.101/32 -j DROP
+iptables -A INPUT -s 40.89.142.184/32 -j DROP
+iptables -A INPUT -s 40.89.143.43/32 -j DROP
+iptables -A INPUT -s 51.103.95.227/32 -j DROP
+iptables -A INPUT -s 51.103.116.87/32 -j DROP
+iptables -A INPUT -s 51.103.116.97/32 -j DROP
+iptables -A INPUT -s 51.103.116.121/32 -j DROP
+iptables -A INPUT -s 51.103.117.35/32 -j DROP
+iptables -A INPUT -s 52.143.149.102/32 -j DROP
+iptables -A INPUT -s 98.66.147.184/31 -j DROP
+iptables -A INPUT -s 98.66.147.192/27 -j DROP
+iptables -A INPUT -s 98.66.147.224/28 -j DROP

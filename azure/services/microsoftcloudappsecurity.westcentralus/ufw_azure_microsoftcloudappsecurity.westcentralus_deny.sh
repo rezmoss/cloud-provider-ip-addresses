@@ -1,0 +1,74 @@
+#!/bin/bash
+# Azure IP Ranges
+# Updated: 2026-02-11 15:35:26
+# Source: https://github.com/rezmoss/cloud-provider-ip-addresses
+# License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
+# This file is generated automatically. Do not edit it directly.
+# Updates daily at 00:00 UTC
+# UFW deny rules for azure
+
+ufw deny from 4.255.138.74/32
+ufw deny from 4.255.144.104/32
+ufw deny from 4.255.146.128/32
+ufw deny from 4.255.147.5/32
+ufw deny from 4.255.160.17/32
+ufw deny from 4.255.161.37/32
+ufw deny from 4.255.162.19/32
+ufw deny from 4.255.169.151/32
+ufw deny from 4.255.169.215/32
+ufw deny from 4.255.192.31/32
+ufw deny from 4.255.192.94/32
+ufw deny from 4.255.193.22/32
+ufw deny from 4.255.216.225/32
+ufw deny from 4.255.218.227/32
+ufw deny from 4.255.219.16/32
+ufw deny from 4.255.225.20/32
+ufw deny from 4.255.225.35/32
+ufw deny from 13.71.196.192/27
+ufw deny from 13.78.164.187/32
+ufw deny from 13.78.176.17/32
+ufw deny from 13.78.177.204/32
+ufw deny from 13.78.177.243/32
+ufw deny from 13.78.177.245/32
+ufw deny from 13.78.177.248/32
+ufw deny from 13.78.177.250/32
+ufw deny from 13.78.178.196/32
+ufw deny from 13.78.183.147/32
+ufw deny from 13.78.183.154/32
+ufw deny from 13.78.183.161/32
+ufw deny from 13.78.183.162/32
+ufw deny from 13.78.183.194/32
+ufw deny from 13.78.183.203/32
+ufw deny from 13.78.183.215/32
+ufw deny from 13.78.183.219/32
+ufw deny from 13.78.183.221/32
+ufw deny from 13.78.183.223/32
+ufw deny from 13.78.190.216/32
+ufw deny from 20.165.199.244/32
+ufw deny from 20.165.199.247/32
+ufw deny from 20.165.216.32/32
+ufw deny from 20.165.217.37/32
+ufw deny from 20.165.224.30/32
+ufw deny from 20.165.224.128/32
+ufw deny from 20.165.224.181/32
+ufw deny from 20.165.225.66/32
+ufw deny from 20.165.232.199/32
+ufw deny from 20.165.234.25/32
+ufw deny from 52.161.13.132/32
+ufw deny from 52.161.13.138/32
+ufw deny from 52.161.13.153/32
+ufw deny from 52.161.15.92/32
+ufw deny from 52.161.15.223/32
+ufw deny from 52.161.128.12/32
+ufw deny from 52.161.145.118/32
+ufw deny from 52.161.151.13/32
+ufw deny from 52.161.176.67/32
+ufw deny from 57.151.144.75/32
+ufw deny from 57.151.144.95/32
+ufw deny from 172.208.163.48/28
+ufw deny from 172.208.163.128/25
+ufw deny from 172.208.164.0/30
+ufw deny from 172.208.164.4/31
+ufw deny from 172.215.248.128/25
+ufw deny from 172.215.249.0/24
+ufw deny from 172.215.250.0/25
