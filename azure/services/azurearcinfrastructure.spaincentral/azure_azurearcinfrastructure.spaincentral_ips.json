@@ -36,6 +36,12 @@
     "region": "spaincentral"
   },
   {
+    "ip_address": "158.158.133.70/32",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
     "ip_address": "2603:1020:1403:2::570/124",
     "ip_type": "IPv6",
     "service": "AzureArcInfrastructure.SpainCentral",
@@ -49,6 +55,12 @@
   },
   {
     "ip_address": "2603:1020:1403:5::37e/127",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:7::4dc/128",
     "ip_type": "IPv6",
     "service": "AzureArcInfrastructure.SpainCentral",
     "region": "spaincentral"

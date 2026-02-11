@@ -52,7 +52,6 @@ INSERT INTO `azure_azuremonitor.eastasia_ips` (`ip_address`, `ip_type`) VALUES (
 INSERT INTO `azure_azuremonitor.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:207:1::300/121', 'IPv6');
 INSERT INTO `azure_azuremonitor.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:207:6::380/123', 'IPv6');
 INSERT INTO `azure_azuremonitor.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:207:6::3c0/122', 'IPv6');
-INSERT INTO `azure_azuremonitor.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:207:f::6e0/124', 'IPv6');
 INSERT INTO `azure_azuremonitor.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:207:11::/120', 'IPv6');
 INSERT INTO `azure_azuremonitor.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:207:11::300/123', 'IPv6');
 INSERT INTO `azure_azuremonitor.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:207:402::500/121', 'IPv6');

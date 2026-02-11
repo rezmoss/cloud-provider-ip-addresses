@@ -192,12 +192,6 @@
     "region": "swedencentral"
   },
   {
-    "ip_address": "2603:1020:1004:c::110/124",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.SwedenCentral",
-    "region": "swedencentral"
-  },
-  {
     "ip_address": "2603:1020:1004:c::700/120",
     "ip_type": "IPv6",
     "service": "AzureMonitor.SwedenCentral",

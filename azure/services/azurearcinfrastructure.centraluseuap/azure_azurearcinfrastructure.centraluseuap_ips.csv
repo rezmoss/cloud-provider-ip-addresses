@@ -4,5 +4,7 @@ ip_address,ip_type,service,region
 20.45.208.12/30,IPv4,AzureArcInfrastructure.CentralUSEUAP,centraluseuap
 20.45.208.40/30,IPv4,AzureArcInfrastructure.CentralUSEUAP,centraluseuap
 40.78.204.46/32,IPv4,AzureArcInfrastructure.CentralUSEUAP,centraluseuap
+134.138.220.80/32,IPv4,AzureArcInfrastructure.CentralUSEUAP,centraluseuap
 168.61.233.50/31,IPv4,AzureArcInfrastructure.CentralUSEUAP,centraluseuap
 168.61.233.56/29,IPv4,AzureArcInfrastructure.CentralUSEUAP,centraluseuap
+2603:1030:f:f::604/127,IPv6,AzureArcInfrastructure.CentralUSEUAP,centraluseuap

@@ -12,5 +12,7 @@ INSERT INTO `azure_azurearcinfrastructure.malaysiawest_ips` (`ip_address`, `ip_t
 INSERT INTO `azure_azurearcinfrastructure.malaysiawest_ips` (`ip_address`, `ip_type`) VALUES ('20.17.138.168/29', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.malaysiawest_ips` (`ip_address`, `ip_type`) VALUES ('85.211.236.234/31', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.malaysiawest_ips` (`ip_address`, `ip_type`) VALUES ('85.211.236.248/30', 'IPv4');
+INSERT INTO `azure_azurearcinfrastructure.malaysiawest_ips` (`ip_address`, `ip_type`) VALUES ('85.211.237.44/32', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.malaysiawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1602:2::130/124', 'IPv6');
 INSERT INTO `azure_azurearcinfrastructure.malaysiawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1602:4::7f2/128', 'IPv6');
+INSERT INTO `azure_azurearcinfrastructure.malaysiawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1602:5::54/128', 'IPv6');

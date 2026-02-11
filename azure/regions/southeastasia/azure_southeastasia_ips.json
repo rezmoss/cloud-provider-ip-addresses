@@ -324,6 +324,12 @@
     "region": "southeastasia"
   },
   {
+    "ip_address": "4.145.20.102/32",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
     "ip_address": "4.145.72.0/29",
     "ip_type": "IPv4",
     "service": "AzureArcInfrastructure.SoutheastAsia",
@@ -368,6 +374,12 @@
   {
     "ip_address": "40.78.239.96/31",
     "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "2603:1040:5:16::42e/128",
+    "ip_type": "IPv6",
     "service": "AzureArcInfrastructure.SoutheastAsia",
     "region": "southeastasia"
   },
@@ -1627,12 +1639,6 @@
   },
   {
     "ip_address": "2603:1040:5:9::200/122",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.SoutheastAsia",
-    "region": "southeastasia"
-  },
-  {
-    "ip_address": "2603:1040:5:15::3f0/124",
     "ip_type": "IPv6",
     "service": "AzureMonitor.SoutheastAsia",
     "region": "southeastasia"
@@ -4998,31 +5004,7 @@
     "region": "southeastasia"
   },
   {
-    "ip_address": "52.112.40.0/21",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southeastasia",
-    "region": "southeastasia"
-  },
-  {
     "ip_address": "52.113.101.0/24",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southeastasia",
-    "region": "southeastasia"
-  },
-  {
-    "ip_address": "52.113.105.0/24",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southeastasia",
-    "region": "southeastasia"
-  },
-  {
-    "ip_address": "52.113.109.0/24",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southeastasia",
-    "region": "southeastasia"
-  },
-  {
-    "ip_address": "52.113.131.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.southeastasia",
     "region": "southeastasia"
@@ -5059,12 +5041,6 @@
   },
   {
     "ip_address": "52.114.216.0/22",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southeastasia",
-    "region": "southeastasia"
-  },
-  {
-    "ip_address": "52.115.32.0/22",
     "ip_type": "IPv4",
     "service": "AzureCloud.southeastasia",
     "region": "southeastasia"

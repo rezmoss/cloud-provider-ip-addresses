@@ -120,12 +120,6 @@
     "region": "newzealandnorth"
   },
   {
-    "ip_address": "2603:1010:502:5::310/124",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.NewZealandNorth",
-    "region": "newzealandnorth"
-  },
-  {
     "ip_address": "2603:1010:502:5::5a0/123",
     "ip_type": "IPv6",
     "service": "AzureMonitor.NewZealandNorth",

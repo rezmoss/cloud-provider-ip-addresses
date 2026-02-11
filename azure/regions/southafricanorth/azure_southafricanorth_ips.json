@@ -162,6 +162,12 @@
     "region": "southafricanorth"
   },
   {
+    "ip_address": "4.221.233.2/32",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
     "ip_address": "20.164.154.166/31",
     "ip_type": "IPv4",
     "service": "AzureArcInfrastructure.SouthAfricaNorth",
@@ -206,6 +212,12 @@
   {
     "ip_address": "102.133.254.204/32",
     "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "2603:1000:104:b::dc/128",
+    "ip_type": "IPv6",
     "service": "AzureArcInfrastructure.SouthAfricaNorth",
     "region": "southafricanorth"
   },
@@ -1063,12 +1075,6 @@
   },
   {
     "ip_address": "2603:1000:104:6::40/123",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.SouthAfricaNorth",
-    "region": "southafricanorth"
-  },
-  {
-    "ip_address": "2603:1000:104:9::540/124",
     "ip_type": "IPv6",
     "service": "AzureMonitor.SouthAfricaNorth",
     "region": "southafricanorth"
@@ -3019,6 +3025,12 @@
   },
   {
     "ip_address": "102.133.248.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southafricanorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "151.206.145.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.southafricanorth",
     "region": "southafricanorth"

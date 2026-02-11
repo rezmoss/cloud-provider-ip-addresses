@@ -150,12 +150,6 @@
     "region": "koreasouth"
   },
   {
-    "ip_address": "2603:1040:e05:9::d0/124",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.KoreaSouth",
-    "region": "koreasouth"
-  },
-  {
     "ip_address": "2603:1040:e05:9::500/120",
     "ip_type": "IPv6",
     "service": "AzureMonitor.KoreaSouth",

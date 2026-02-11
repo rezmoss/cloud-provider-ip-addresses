@@ -12,5 +12,7 @@ INSERT INTO `azure_azurearcinfrastructure.polandcentral_ips` (`ip_address`, `ip_
 INSERT INTO `azure_azurearcinfrastructure.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.215.174.24/29', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('134.112.73.70/32', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('134.112.73.72/30', 'IPv4');
+INSERT INTO `azure_azurearcinfrastructure.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('134.112.168.132/32', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1302:4::2ac/127', 'IPv6');
 INSERT INTO `azure_azurearcinfrastructure.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1302:4::2ae/128', 'IPv6');
+INSERT INTO `azure_azurearcinfrastructure.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1302:8::398/128', 'IPv6');

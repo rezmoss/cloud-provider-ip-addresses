@@ -53,7 +53,6 @@ INSERT INTO `azure_azuremonitor.westcentralus_ips` (`ip_address`, `ip_type`) VAL
 INSERT INTO `azure_azuremonitor.westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:b04:1::300/121', 'IPv6');
 INSERT INTO `azure_azuremonitor.westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:b04:6::780/123', 'IPv6');
 INSERT INTO `azure_azuremonitor.westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:b04:6::7c0/122', 'IPv6');
-INSERT INTO `azure_azuremonitor.westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:b04:e::/122', 'IPv6');
 INSERT INTO `azure_azuremonitor.westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:b04:f::100/120', 'IPv6');
 INSERT INTO `azure_azuremonitor.westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:b04:f::2c0/122', 'IPv6');
 INSERT INTO `azure_azuremonitor.westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:b04:402::500/121', 'IPv6');

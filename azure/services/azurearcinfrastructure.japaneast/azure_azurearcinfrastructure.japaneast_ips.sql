@@ -6,6 +6,7 @@ CREATE TABLE IF NOT EXISTS `azure_azurearcinfrastructure.japaneast_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_azurearcinfrastructure.japaneast_ips` (`ip_address`, `ip_type`) VALUES ('4.216.4.121/32', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.japaneast_ips` (`ip_address`, `ip_type`) VALUES ('13.78.111.193/32', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.japaneast_ips` (`ip_address`, `ip_type`) VALUES ('20.18.7.60/31', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.japaneast_ips` (`ip_address`, `ip_type`) VALUES ('20.18.7.128/29', 'IPv4');
@@ -14,3 +15,4 @@ INSERT INTO `azure_azurearcinfrastructure.japaneast_ips` (`ip_address`, `ip_type
 INSERT INTO `azure_azurearcinfrastructure.japaneast_ips` (`ip_address`, `ip_type`) VALUES ('20.194.129.106/31', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.japaneast_ips` (`ip_address`, `ip_type`) VALUES ('40.79.191.216/32', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.japaneast_ips` (`ip_address`, `ip_type`) VALUES ('40.115.144.0/30', 'IPv4');
+INSERT INTO `azure_azurearcinfrastructure.japaneast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:407:e::63c/128', 'IPv6');

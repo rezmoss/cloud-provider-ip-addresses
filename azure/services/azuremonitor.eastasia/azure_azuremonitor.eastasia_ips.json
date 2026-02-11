@@ -276,12 +276,6 @@
     "region": "eastasia"
   },
   {
-    "ip_address": "2603:1040:207:f::6e0/124",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.EastAsia",
-    "region": "eastasia"
-  },
-  {
     "ip_address": "2603:1040:207:11::/120",
     "ip_type": "IPv6",
     "service": "AzureMonitor.EastAsia",

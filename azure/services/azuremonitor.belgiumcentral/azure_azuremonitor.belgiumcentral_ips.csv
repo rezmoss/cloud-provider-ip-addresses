@@ -17,5 +17,4 @@ ip_address,ip_type,service,region
 2603:1020:1501:f::10/127,IPv6,AzureMonitor.BelgiumCentral,belgiumcentral
 2603:1020:1502:2::480/121,IPv6,AzureMonitor.BelgiumCentral,belgiumcentral
 2603:1020:1502:2::500/120,IPv6,AzureMonitor.BelgiumCentral,belgiumcentral
-2603:1020:1502:3::670/124,IPv6,AzureMonitor.BelgiumCentral,belgiumcentral
 2603:1020:1502:5::260/123,IPv6,AzureMonitor.BelgiumCentral,belgiumcentral

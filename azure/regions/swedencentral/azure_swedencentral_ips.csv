@@ -28,10 +28,12 @@ ip_address,ip_type,service,region
 2603:1020:1004:800::200/122,IPv6,AppServiceManagement.SwedenCentral,swedencentral
 2603:1020:1004:800::380/122,IPv6,AppServiceManagement.SwedenCentral,swedencentral
 2603:1020:1004:c02::3c0/122,IPv6,AppServiceManagement.SwedenCentral,swedencentral
+4.223.187.21/32,IPv4,AzureArcInfrastructure.SwedenCentral,swedencentral
 20.91.151.152/29,IPv4,AzureArcInfrastructure.SwedenCentral,swedencentral
 20.91.152.84/31,IPv4,AzureArcInfrastructure.SwedenCentral,swedencentral
 51.12.75.188/30,IPv4,AzureArcInfrastructure.SwedenCentral,swedencentral
 51.12.229.232/30,IPv4,AzureArcInfrastructure.SwedenCentral,swedencentral
+2603:1020:1004:d::285/128,IPv6,AzureArcInfrastructure.SwedenCentral,swedencentral
 4.223.182.184/29,IPv4,AzureAttestation.SwedenCentral,swedencentral
 51.12.46.224/30,IPv4,AzureAttestation.SwedenCentral,swedencentral
 2603:1020:1004:1::720/123,IPv6,AzureAttestation.SwedenCentral,swedencentral
@@ -178,7 +180,6 @@ ip_address,ip_type,service,region
 2603:1020:1004:3::300/121,IPv6,AzureMonitor.SwedenCentral,swedencentral
 2603:1020:1004:6::c0/123,IPv6,AzureMonitor.SwedenCentral,swedencentral
 2603:1020:1004:6::100/122,IPv6,AzureMonitor.SwedenCentral,swedencentral
-2603:1020:1004:c::110/124,IPv6,AzureMonitor.SwedenCentral,swedencentral
 2603:1020:1004:c::700/120,IPv6,AzureMonitor.SwedenCentral,swedencentral
 2603:1020:1004:d::80/123,IPv6,AzureMonitor.SwedenCentral,swedencentral
 2603:1020:1004:400::420/123,IPv6,AzureMonitor.SwedenCentral,swedencentral
@@ -502,8 +503,10 @@ ip_address,ip_type,service,region
 57.150.58.0/23,IPv4,AzureCloud.swedencentral,swedencentral
 57.157.68.0/25,IPv4,AzureCloud.swedencentral,swedencentral
 57.157.68.128/26,IPv4,AzureCloud.swedencentral,swedencentral
-57.157.68.192/29,IPv4,AzureCloud.swedencentral,swedencentral
-57.157.68.200/31,IPv4,AzureCloud.swedencentral,swedencentral
+57.157.68.192/28,IPv4,AzureCloud.swedencentral,swedencentral
+57.157.68.208/29,IPv4,AzureCloud.swedencentral,swedencentral
+57.157.68.216/30,IPv4,AzureCloud.swedencentral,swedencentral
+57.157.68.220/31,IPv4,AzureCloud.swedencentral,swedencentral
 70.152.27.0/24,IPv4,AzureCloud.swedencentral,swedencentral
 70.152.61.0/24,IPv4,AzureCloud.swedencentral,swedencentral
 70.152.62.0/23,IPv4,AzureCloud.swedencentral,swedencentral

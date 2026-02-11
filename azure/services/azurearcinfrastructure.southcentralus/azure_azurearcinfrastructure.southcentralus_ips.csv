@@ -8,3 +8,5 @@ ip_address,ip_type,service,region
 20.49.95.58/31,IPv4,AzureArcInfrastructure.SouthCentralUS,southcentralus
 40.119.9.232/30,IPv4,AzureArcInfrastructure.SouthCentralUS,southcentralus
 40.124.65.160/31,IPv4,AzureArcInfrastructure.SouthCentralUS,southcentralus
+48.192.212.50/32,IPv4,AzureArcInfrastructure.SouthCentralUS,southcentralus
+2603:1030:807:16::347/128,IPv6,AzureArcInfrastructure.SouthCentralUS,southcentralus

@@ -81,8 +81,6 @@ ip_address,ip_type,service,region
 2603:1030:40c:1::280/122,IPv6,AzureMonitor.EastUS2,eastus2
 2603:1030:40c:11::2c0/123,IPv6,AzureMonitor.EastUS2,eastus2
 2603:1030:40c:11::300/122,IPv6,AzureMonitor.EastUS2,eastus2
-2603:1030:40c:23::1a0/123,IPv6,AzureMonitor.EastUS2,eastus2
-2603:1030:40c:23::300/124,IPv6,AzureMonitor.EastUS2,eastus2
 2603:1030:40c:24::200/120,IPv6,AzureMonitor.EastUS2,eastus2
 2603:1030:40c:24::3f0/124,IPv6,AzureMonitor.EastUS2,eastus2
 2603:1030:40c:24::440/122,IPv6,AzureMonitor.EastUS2,eastus2

@@ -27,7 +27,9 @@ INSERT INTO `azure_israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.217.
 INSERT INTO `azure_israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.217.10.36/30', 'IPv4');
 INSERT INTO `azure_israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.217.13.112/29', 'IPv4');
 INSERT INTO `azure_israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.217.62.136/32', 'IPv4');
+INSERT INTO `azure_israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('51.58.59.246/32', 'IPv4');
 INSERT INTO `azure_israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1402:3::2b0/124', 'IPv6');
+INSERT INTO `azure_israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1402:8::5e5/128', 'IPv6');
 INSERT INTO `azure_israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.217.40.44/30', 'IPv4');
 INSERT INTO `azure_israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('51.58.49.24/29', 'IPv4');
 INSERT INTO `azure_israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1402::620/124', 'IPv6');
@@ -125,7 +127,6 @@ INSERT INTO `azure_israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:10
 INSERT INTO `azure_israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1402:2::5e0/123', 'IPv6');
 INSERT INTO `azure_israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1402:2::600/122', 'IPv6');
 INSERT INTO `azure_israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1402:3::180/121', 'IPv6');
-INSERT INTO `azure_israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1402:5::420/124', 'IPv6');
 INSERT INTO `azure_israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1402:8::200/120', 'IPv6');
 INSERT INTO `azure_israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.217.47.0/27', 'IPv4');
 INSERT INTO `azure_israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1402:1::380/121', 'IPv6');
@@ -267,10 +268,9 @@ INSERT INTO `azure_israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('13.105.
 INSERT INTO `azure_israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('13.105.107.0/26', 'IPv4');
 INSERT INTO `azure_israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.20.36.0/24', 'IPv4');
 INSERT INTO `azure_israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.20.104.0/25', 'IPv4');
-INSERT INTO `azure_israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.20.104.128/27', 'IPv4');
-INSERT INTO `azure_israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.20.104.160/28', 'IPv4');
-INSERT INTO `azure_israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.20.104.176/30', 'IPv4');
-INSERT INTO `azure_israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.20.104.180/31', 'IPv4');
+INSERT INTO `azure_israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.20.104.128/26', 'IPv4');
+INSERT INTO `azure_israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.20.104.192/29', 'IPv4');
+INSERT INTO `azure_israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.20.104.200/31', 'IPv4');
 INSERT INTO `azure_israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.33.129.0/24', 'IPv4');
 INSERT INTO `azure_israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.33.169.0/24', 'IPv4');
 INSERT INTO `azure_israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.38.18.0/24', 'IPv4');
@@ -327,6 +327,7 @@ INSERT INTO `azure_israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('52.112.
 INSERT INTO `azure_israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('52.123.36.0/24', 'IPv4');
 INSERT INTO `azure_israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('70.152.42.0/24', 'IPv4');
 INSERT INTO `azure_israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('151.206.69.128/25', 'IPv4');
+INSERT INTO `azure_israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('151.206.152.0/24', 'IPv4');
 INSERT INTO `azure_israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1401::/48', 'IPv6');
 INSERT INTO `azure_israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1402::/47', 'IPv6');
 INSERT INTO `azure_israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1404::/48', 'IPv6');
@@ -339,8 +340,9 @@ INSERT INTO `azure_israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:10
 INSERT INTO `azure_israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1007::/57', 'IPv6');
 INSERT INTO `azure_israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1007:80::/58', 'IPv6');
 INSERT INTO `azure_israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1007:c0::/60', 'IPv6');
-INSERT INTO `azure_israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1007:d0::/63', 'IPv6');
-INSERT INTO `azure_israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1007:d2::/64', 'IPv6');
+INSERT INTO `azure_israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1007:d0::/61', 'IPv6');
+INSERT INTO `azure_israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1007:d8::/62', 'IPv6');
+INSERT INTO `azure_israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1007:dc::/64', 'IPv6');
 INSERT INTO `azure_israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1310:800::/54', 'IPv6');
 INSERT INTO `azure_israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1737::/48', 'IPv6');
 INSERT INTO `azure_israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2000:720::/62', 'IPv6');

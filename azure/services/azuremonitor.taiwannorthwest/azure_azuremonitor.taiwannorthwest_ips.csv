@@ -20,4 +20,3 @@ ip_address,ip_type,service,region
 2603:1040:1202:2::540/123,IPv6,AzureMonitor.TaiwanNorthwest,taiwannorthwest
 2603:1040:1202:2::700/121,IPv6,AzureMonitor.TaiwanNorthwest,taiwannorthwest
 2603:1040:1202:3::4c0/122,IPv6,AzureMonitor.TaiwanNorthwest,taiwannorthwest
-2603:1040:1202:5::1d0/124,IPv6,AzureMonitor.TaiwanNorthwest,taiwannorthwest

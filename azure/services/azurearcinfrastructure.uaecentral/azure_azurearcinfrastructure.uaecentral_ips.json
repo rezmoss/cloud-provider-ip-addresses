@@ -18,8 +18,20 @@
     "region": "uaecentral"
   },
   {
+    "ip_address": "20.216.93.140/32",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.UAECentral",
+    "region": "uaecentral"
+  },
+  {
     "ip_address": "40.120.8.184/30",
     "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.UAECentral",
+    "region": "uaecentral"
+  },
+  {
+    "ip_address": "2603:1040:b04:8::4f6/128",
+    "ip_type": "IPv6",
     "service": "AzureArcInfrastructure.UAECentral",
     "region": "uaecentral"
   }

@@ -18,5 +18,4 @@ INSERT INTO `azure_azuremonitor.israelnorthwest_ips` (`ip_address`, `ip_type`) V
 INSERT INTO `azure_azuremonitor.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1701:d::d/128', 'IPv6');
 INSERT INTO `azure_azuremonitor.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1702:2::480/121', 'IPv6');
 INSERT INTO `azure_azuremonitor.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1702:2::500/120', 'IPv6');
-INSERT INTO `azure_azuremonitor.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1702:4::530/124', 'IPv6');
 INSERT INTO `azure_azuremonitor.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1702:4::6e0/123', 'IPv6');

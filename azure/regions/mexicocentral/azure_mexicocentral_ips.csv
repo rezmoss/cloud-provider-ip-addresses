@@ -96,7 +96,6 @@ ip_address,ip_type,service,region
 2603:1030:702:2::40/122,IPv6,AzureMonitor.MexicoCentral,mexicocentral
 2603:1030:702:2::380/121,IPv6,AzureMonitor.MexicoCentral,mexicocentral
 2603:1030:702:2::400/120,IPv6,AzureMonitor.MexicoCentral,mexicocentral
-2603:1030:702:6::6e0/124,IPv6,AzureMonitor.MexicoCentral,mexicocentral
 2603:1030:702:7::100/120,IPv6,AzureMonitor.MexicoCentral,mexicocentral
 2603:1030:702:7::220/123,IPv6,AzureMonitor.MexicoCentral,mexicocentral
 158.23.112.0/27,IPv4,AzurePortal.MexicoCentral,mexicocentral
@@ -246,7 +245,8 @@ ip_address,ip_type,service,region
 40.120.141.0/26,IPv4,AzureCloud.mexicocentral,mexicocentral
 40.120.141.64/28,IPv4,AzureCloud.mexicocentral,mexicocentral
 40.120.141.80/29,IPv4,AzureCloud.mexicocentral,mexicocentral
-40.120.141.88/31,IPv4,AzureCloud.mexicocentral,mexicocentral
+40.120.141.88/30,IPv4,AzureCloud.mexicocentral,mexicocentral
+40.120.141.92/31,IPv4,AzureCloud.mexicocentral,mexicocentral
 48.208.36.0/24,IPv4,AzureCloud.mexicocentral,mexicocentral
 48.212.20.0/24,IPv4,AzureCloud.mexicocentral,mexicocentral
 48.212.148.0/24,IPv4,AzureCloud.mexicocentral,mexicocentral
@@ -272,6 +272,7 @@ ip_address,ip_type,service,region
 52.253.208.0/23,IPv4,AzureCloud.mexicocentral,mexicocentral
 68.155.0.0/16,IPv4,AzureCloud.mexicocentral,mexicocentral
 70.152.44.0/24,IPv4,AzureCloud.mexicocentral,mexicocentral
+151.206.158.0/24,IPv4,AzureCloud.mexicocentral,mexicocentral
 158.23.0.0/16,IPv4,AzureCloud.mexicocentral,mexicocentral
 172.195.0.0/17,IPv4,AzureCloud.mexicocentral,mexicocentral
 216.220.208.0/24,IPv4,AzureCloud.mexicocentral,mexicocentral
@@ -288,7 +289,8 @@ ip_address,ip_type,service,region
 2603:1061:100c::/57,IPv6,AzureCloud.mexicocentral,mexicocentral
 2603:1061:100c:80::/59,IPv6,AzureCloud.mexicocentral,mexicocentral
 2603:1061:100c:a0::/62,IPv6,AzureCloud.mexicocentral,mexicocentral
-2603:1061:100c:a4::/64,IPv6,AzureCloud.mexicocentral,mexicocentral
+2603:1061:100c:a4::/63,IPv6,AzureCloud.mexicocentral,mexicocentral
+2603:1061:100c:a6::/64,IPv6,AzureCloud.mexicocentral,mexicocentral
 2603:1061:1312:1400::/54,IPv6,AzureCloud.mexicocentral,mexicocentral
 2603:1061:1736::/48,IPv6,AzureCloud.mexicocentral,mexicocentral
 2603:1061:2010:36::/64,IPv6,AzureCloud.mexicocentral,mexicocentral

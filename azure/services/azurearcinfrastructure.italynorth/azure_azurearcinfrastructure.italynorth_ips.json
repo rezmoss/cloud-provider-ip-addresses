@@ -24,7 +24,19 @@
     "region": "italynorth"
   },
   {
+    "ip_address": "9.235.172.75/32",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.ItalyNorth",
+    "region": "italynorth"
+  },
+  {
     "ip_address": "2603:1020:1204:2::670/124",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.ItalyNorth",
+    "region": "italynorth"
+  },
+  {
+    "ip_address": "2603:1020:1204:7::751/128",
     "ip_type": "IPv6",
     "service": "AzureArcInfrastructure.ItalyNorth",
     "region": "italynorth"

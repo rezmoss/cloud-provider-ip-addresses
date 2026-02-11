@@ -120,6 +120,12 @@
     "region": "switzerlandn"
   },
   {
+    "ip_address": "20.95.127.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.switzerlandn",
+    "region": "switzerlandn"
+  },
+  {
     "ip_address": "20.135.170.0/23",
     "ip_type": "IPv4",
     "service": "AzureCloud.switzerlandn",
@@ -163,6 +169,12 @@
   },
   {
     "ip_address": "20.199.128.0/18",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.switzerlandn",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "20.201.240.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.switzerlandn",
     "region": "switzerlandn"
@@ -535,6 +547,12 @@
   },
   {
     "ip_address": "145.190.70.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.switzerlandn",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "151.206.149.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.switzerlandn",
     "region": "switzerlandn"

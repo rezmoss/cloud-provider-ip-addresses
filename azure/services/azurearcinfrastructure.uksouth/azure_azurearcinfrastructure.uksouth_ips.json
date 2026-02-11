@@ -36,6 +36,12 @@
     "region": "uksouth"
   },
   {
+    "ip_address": "74.177.105.18/32",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.UKSouth",
+    "region": "uksouth"
+  },
+  {
     "ip_address": "172.167.234.102/31",
     "ip_type": "IPv4",
     "service": "AzureArcInfrastructure.UKSouth",
@@ -44,6 +50,12 @@
   {
     "ip_address": "172.167.236.56/29",
     "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "2603:1020:705:15::547/128",
+    "ip_type": "IPv6",
     "service": "AzureArcInfrastructure.UKSouth",
     "region": "uksouth"
   }

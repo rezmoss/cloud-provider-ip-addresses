@@ -34,6 +34,7 @@ INSERT INTO `azure_azurecloud.polandcentral_ips` (`ip_address`, `ip_type`) VALUE
 INSERT INTO `azure_azurecloud.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('40.107.154.0/23', 'IPv4');
 INSERT INTO `azure_azurecloud.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('40.107.156.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('40.123.138.0/28', 'IPv4');
+INSERT INTO `azure_azurecloud.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('40.123.138.16/30', 'IPv4');
 INSERT INTO `azure_azurecloud.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('40.123.172.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('48.208.38.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('48.212.39.0/24', 'IPv4');
@@ -61,6 +62,7 @@ INSERT INTO `azure_azurecloud.polandcentral_ips` (`ip_address`, `ip_type`) VALUE
 INSERT INTO `azure_azurecloud.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('74.248.0.0/16', 'IPv4');
 INSERT INTO `azure_azurecloud.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('134.112.0.0/16', 'IPv4');
 INSERT INTO `azure_azurecloud.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('135.130.208.0/23', 'IPv4');
+INSERT INTO `azure_azurecloud.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('151.206.155.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1300::/47', 'IPv6');
 INSERT INTO `azure_azurecloud.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1302::/48', 'IPv6');
 INSERT INTO `azure_azurecloud.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1303::/48', 'IPv6');
@@ -71,6 +73,7 @@ INSERT INTO `azure_azurecloud.polandcentral_ips` (`ip_address`, `ip_type`) VALUE
 INSERT INTO `azure_azurecloud.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1026:2413::/48', 'IPv6');
 INSERT INTO `azure_azurecloud.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1026:3000:260::/59', 'IPv6');
 INSERT INTO `azure_azurecloud.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1006::/56', 'IPv6');
+INSERT INTO `azure_azurecloud.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1006:100::/63', 'IPv6');
 INSERT INTO `azure_azurecloud.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1311:3000::/54', 'IPv6');
 INSERT INTO `azure_azurecloud.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1735::/48', 'IPv6');
 INSERT INTO `azure_azurecloud.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2000:6a0::/62', 'IPv6');

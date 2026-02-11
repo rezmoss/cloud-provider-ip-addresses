@@ -702,6 +702,12 @@
     "region": "koreacentral"
   },
   {
+    "ip_address": "151.206.159.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreacentral",
+    "region": "koreacentral"
+  },
+  {
     "ip_address": "2603:1040:f00::/47",
     "ip_type": "IPv6",
     "service": "AzureCloud.koreacentral",

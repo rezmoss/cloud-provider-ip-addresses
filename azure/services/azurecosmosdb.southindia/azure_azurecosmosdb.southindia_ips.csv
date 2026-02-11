@@ -7,6 +7,7 @@ ip_address,ip_type,service,region
 52.172.82.64/26,IPv4,AzureCosmosDB.SouthIndia,southindia
 52.172.84.64/26,IPv4,AzureCosmosDB.SouthIndia,southindia
 52.172.84.128/25,IPv4,AzureCosmosDB.SouthIndia,southindia
+74.225.47.8/29,IPv4,AzureCosmosDB.SouthIndia,southindia
 104.211.227.84/32,IPv4,AzureCosmosDB.SouthIndia,southindia
 2603:1040:c06:3::60/123,IPv6,AzureCosmosDB.SouthIndia,southindia
 2603:1040:c06:402::c0/122,IPv6,AzureCosmosDB.SouthIndia,southindia

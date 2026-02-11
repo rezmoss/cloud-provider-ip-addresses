@@ -52,5 +52,17 @@
     "ip_type": "IPv4",
     "service": "AzureArcInfrastructure.SouthCentralUS",
     "region": "southcentralus"
+  },
+  {
+    "ip_address": "48.192.212.50/32",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "2603:1030:807:16::347/128",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.SouthCentralUS",
+    "region": "southcentralus"
   }
 ]

@@ -204,7 +204,19 @@
     "region": "southindia"
   },
   {
+    "ip_address": "74.225.45.147/32",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.SouthIndia",
+    "region": "southindia"
+  },
+  {
     "ip_address": "2603:1040:c06:6::210/124",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "2603:1040:c06:b::2fa/128",
     "ip_type": "IPv6",
     "service": "AzureArcInfrastructure.SouthIndia",
     "region": "southindia"
@@ -481,6 +493,12 @@
   },
   {
     "ip_address": "52.172.84.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "74.225.47.8/29",
     "ip_type": "IPv4",
     "service": "AzureCosmosDB.SouthIndia",
     "region": "southindia"
@@ -859,12 +877,6 @@
   },
   {
     "ip_address": "2603:1040:c06:6::640/122",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.SouthIndia",
-    "region": "southindia"
-  },
-  {
-    "ip_address": "2603:1040:c06:a::5a0/124",
     "ip_type": "IPv6",
     "service": "AzureMonitor.SouthIndia",
     "region": "southindia"
@@ -2557,6 +2569,12 @@
   },
   {
     "ip_address": "151.206.70.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southindia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "151.206.147.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.southindia",
     "region": "southindia"

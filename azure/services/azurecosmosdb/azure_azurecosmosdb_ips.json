@@ -2250,6 +2250,12 @@
     "region": ""
   },
   {
+    "ip_address": "48.215.169.48/29",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB",
+    "region": ""
+  },
+  {
     "ip_address": "48.216.19.0/26",
     "ip_type": "IPv4",
     "service": "AzureCosmosDB",
@@ -3271,6 +3277,12 @@
   },
   {
     "ip_address": "74.7.178.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB",
+    "region": ""
+  },
+  {
+    "ip_address": "74.225.47.8/29",
     "ip_type": "IPv4",
     "service": "AzureCosmosDB",
     "region": ""

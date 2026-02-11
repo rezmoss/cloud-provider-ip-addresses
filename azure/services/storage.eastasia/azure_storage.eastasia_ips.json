@@ -216,7 +216,13 @@
     "region": "eastasia"
   },
   {
-    "ip_address": "2603:1040:208::/48",
+    "ip_address": "2603:1040:208::/49",
+    "ip_type": "IPv6",
+    "service": "Storage.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "2603:1040:208:8000::/63",
     "ip_type": "IPv6",
     "service": "Storage.EastAsia",
     "region": "eastasia"

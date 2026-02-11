@@ -6,6 +6,7 @@ CREATE TABLE IF NOT EXISTS `azure_azurearcinfrastructure.francecentral_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_azurearcinfrastructure.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('4.176.33.182/32', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('20.43.43.160/30', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('20.43.45.240/30', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('40.79.138.46/31', 'IPv4');
@@ -14,3 +15,4 @@ INSERT INTO `azure_azurearcinfrastructure.francecentral_ips` (`ip_address`, `ip_
 INSERT INTO `azure_azurearcinfrastructure.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('51.11.192.34/31', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('98.66.128.36/31', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('98.66.128.72/29', 'IPv4');
+INSERT INTO `azure_azurearcinfrastructure.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:805:e::a7/128', 'IPv6');

@@ -41,7 +41,6 @@ INSERT INTO `azure_azuremonitor.switzerlandnorth_ips` (`ip_address`, `ip_type`) 
 INSERT INTO `azure_azuremonitor.switzerlandnorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:a04:1::280/122', 'IPv6');
 INSERT INTO `azure_azuremonitor.switzerlandnorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:a04:3::7e0/123', 'IPv6');
 INSERT INTO `azure_azuremonitor.switzerlandnorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:a04:7::/122', 'IPv6');
-INSERT INTO `azure_azuremonitor.switzerlandnorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:a04:8::590/124', 'IPv6');
 INSERT INTO `azure_azuremonitor.switzerlandnorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:a04:9::5c0/123', 'IPv6');
 INSERT INTO `azure_azuremonitor.switzerlandnorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:a04:9::600/120', 'IPv6');
 INSERT INTO `azure_azuremonitor.switzerlandnorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:a04:402::500/121', 'IPv6');

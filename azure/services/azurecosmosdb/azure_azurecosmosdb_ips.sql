@@ -381,6 +381,7 @@ INSERT INTO `azure_azurecosmosdb_ips` (`ip_address`, `ip_type`) VALUES ('48.197.
 INSERT INTO `azure_azurecosmosdb_ips` (`ip_address`, `ip_type`) VALUES ('48.197.76.64/26', 'IPv4');
 INSERT INTO `azure_azurecosmosdb_ips` (`ip_address`, `ip_type`) VALUES ('48.198.84.32/27', 'IPv4');
 INSERT INTO `azure_azurecosmosdb_ips` (`ip_address`, `ip_type`) VALUES ('48.198.84.64/26', 'IPv4');
+INSERT INTO `azure_azurecosmosdb_ips` (`ip_address`, `ip_type`) VALUES ('48.215.169.48/29', 'IPv4');
 INSERT INTO `azure_azurecosmosdb_ips` (`ip_address`, `ip_type`) VALUES ('48.216.19.0/26', 'IPv4');
 INSERT INTO `azure_azurecosmosdb_ips` (`ip_address`, `ip_type`) VALUES ('48.219.195.0/26', 'IPv4');
 INSERT INTO `azure_azurecosmosdb_ips` (`ip_address`, `ip_type`) VALUES ('48.219.209.160/27', 'IPv4');
@@ -552,6 +553,7 @@ INSERT INTO `azure_azurecosmosdb_ips` (`ip_address`, `ip_type`) VALUES ('74.7.43
 INSERT INTO `azure_azurecosmosdb_ips` (`ip_address`, `ip_type`) VALUES ('74.7.43.64/26', 'IPv4');
 INSERT INTO `azure_azurecosmosdb_ips` (`ip_address`, `ip_type`) VALUES ('74.7.178.32/27', 'IPv4');
 INSERT INTO `azure_azurecosmosdb_ips` (`ip_address`, `ip_type`) VALUES ('74.7.178.64/26', 'IPv4');
+INSERT INTO `azure_azurecosmosdb_ips` (`ip_address`, `ip_type`) VALUES ('74.225.47.8/29', 'IPv4');
 INSERT INTO `azure_azurecosmosdb_ips` (`ip_address`, `ip_type`) VALUES ('102.133.26.64/26', 'IPv4');
 INSERT INTO `azure_azurecosmosdb_ips` (`ip_address`, `ip_type`) VALUES ('102.133.60.64/27', 'IPv4');
 INSERT INTO `azure_azurecosmosdb_ips` (`ip_address`, `ip_type`) VALUES ('102.133.122.0/26', 'IPv4');

@@ -42,4 +42,5 @@ INSERT INTO `azure_storage.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('168.
 INSERT INTO `azure_storage.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('168.63.156.64/26', 'IPv4');
 INSERT INTO `azure_storage.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('168.63.156.192/26', 'IPv4');
 INSERT INTO `azure_storage.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('191.237.238.32/28', 'IPv4');
-INSERT INTO `azure_storage.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:208::/48', 'IPv6');
+INSERT INTO `azure_storage.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:208::/49', 'IPv6');
+INSERT INTO `azure_storage.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:208:8000::/63', 'IPv6');

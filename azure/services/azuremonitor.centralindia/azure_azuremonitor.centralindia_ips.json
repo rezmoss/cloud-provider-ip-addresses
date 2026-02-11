@@ -258,12 +258,6 @@
     "region": "centralindia"
   },
   {
-    "ip_address": "2603:1040:a06:c::280/124",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.CentralIndia",
-    "region": "centralindia"
-  },
-  {
     "ip_address": "2603:1040:a06:c::500/120",
     "ip_type": "IPv6",
     "service": "AzureMonitor.CentralIndia",

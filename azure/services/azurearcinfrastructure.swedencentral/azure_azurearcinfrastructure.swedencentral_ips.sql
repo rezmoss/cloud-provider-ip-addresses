@@ -6,7 +6,9 @@ CREATE TABLE IF NOT EXISTS `azure_azurearcinfrastructure.swedencentral_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_azurearcinfrastructure.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('4.223.187.21/32', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('20.91.151.152/29', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('20.91.152.84/31', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('51.12.75.188/30', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('51.12.229.232/30', 'IPv4');
+INSERT INTO `azure_azurearcinfrastructure.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1004:d::285/128', 'IPv6');

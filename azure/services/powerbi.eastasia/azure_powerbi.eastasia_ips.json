@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "4.191.89.64/26",
+    "ip_type": "IPv4",
+    "service": "PowerBI.EastAsia",
+    "region": "eastasia"
+  },
+  {
     "ip_address": "4.192.250.208/28",
     "ip_type": "IPv4",
     "service": "PowerBI.EastAsia",

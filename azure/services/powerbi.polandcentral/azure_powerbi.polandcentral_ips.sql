@@ -14,5 +14,6 @@ INSERT INTO `azure_powerbi.polandcentral_ips` (`ip_address`, `ip_type`) VALUES (
 INSERT INTO `azure_powerbi.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.215.173.88/31', 'IPv4');
 INSERT INTO `azure_powerbi.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.215.173.96/28', 'IPv4');
 INSERT INTO `azure_powerbi.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.215.174.0/30', 'IPv4');
+INSERT INTO `azure_powerbi.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('134.112.169.96/29', 'IPv4');
 INSERT INTO `azure_powerbi.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1302:1::1e0/123', 'IPv6');
 INSERT INTO `azure_powerbi.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1302:1::280/122', 'IPv6');

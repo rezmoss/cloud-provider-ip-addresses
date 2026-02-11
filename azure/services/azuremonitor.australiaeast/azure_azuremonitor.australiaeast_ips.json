@@ -270,12 +270,6 @@
     "region": "australiaeast"
   },
   {
-    "ip_address": "2603:1010:6:c::7f0/124",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.AustraliaEast",
-    "region": "australiaeast"
-  },
-  {
     "ip_address": "2603:1010:6:e::100/120",
     "ip_type": "IPv6",
     "service": "AzureMonitor.AustraliaEast",

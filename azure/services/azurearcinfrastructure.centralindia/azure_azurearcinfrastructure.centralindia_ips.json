@@ -46,5 +46,17 @@
     "ip_type": "IPv4",
     "service": "AzureArcInfrastructure.CentralIndia",
     "region": "centralindia"
+  },
+  {
+    "ip_address": "57.159.92.207/32",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "2603:1040:a06:c::2bf/128",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.CentralIndia",
+    "region": "centralindia"
   }
 ]

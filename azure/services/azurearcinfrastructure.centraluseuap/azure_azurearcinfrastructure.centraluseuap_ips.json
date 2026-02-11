@@ -30,6 +30,12 @@
     "region": "centraluseuap"
   },
   {
+    "ip_address": "134.138.220.80/32",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
     "ip_address": "168.61.233.50/31",
     "ip_type": "IPv4",
     "service": "AzureArcInfrastructure.CentralUSEUAP",
@@ -38,6 +44,12 @@
   {
     "ip_address": "168.61.233.56/29",
     "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:f::604/127",
+    "ip_type": "IPv6",
     "service": "AzureArcInfrastructure.CentralUSEUAP",
     "region": "centraluseuap"
   }

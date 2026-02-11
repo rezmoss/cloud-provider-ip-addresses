@@ -492,18 +492,6 @@
     "region": "eastus2"
   },
   {
-    "ip_address": "2603:1030:40c:23::1a0/123",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.EastUS2",
-    "region": "eastus2"
-  },
-  {
-    "ip_address": "2603:1030:40c:23::300/124",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.EastUS2",
-    "region": "eastus2"
-  },
-  {
     "ip_address": "2603:1030:40c:24::200/120",
     "ip_type": "IPv6",
     "service": "AzureMonitor.EastUS2",

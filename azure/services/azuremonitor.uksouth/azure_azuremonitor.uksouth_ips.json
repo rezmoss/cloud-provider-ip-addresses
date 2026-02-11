@@ -300,12 +300,6 @@
     "region": "uksouth"
   },
   {
-    "ip_address": "2603:1020:705:14::280/124",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.UKSouth",
-    "region": "uksouth"
-  },
-  {
     "ip_address": "2603:1020:705:15::/120",
     "ip_type": "IPv6",
     "service": "AzureMonitor.UKSouth",

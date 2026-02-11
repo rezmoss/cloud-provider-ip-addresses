@@ -210,12 +210,6 @@
     "region": "switzerlandn"
   },
   {
-    "ip_address": "2603:1020:a04:8::590/124",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.SwitzerlandNorth",
-    "region": "switzerlandn"
-  },
-  {
     "ip_address": "2603:1020:a04:9::5c0/123",
     "ip_type": "IPv6",
     "service": "AzureMonitor.SwitzerlandNorth",

@@ -10,4 +10,6 @@ INSERT INTO `azure_azurearcinfrastructure.italynorth_ips` (`ip_address`, `ip_typ
 INSERT INTO `azure_azurearcinfrastructure.italynorth_ips` (`ip_address`, `ip_type`) VALUES ('4.232.42.12/30', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.italynorth_ips` (`ip_address`, `ip_type`) VALUES ('4.232.48.0/29', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.italynorth_ips` (`ip_address`, `ip_type`) VALUES ('4.232.125.178/32', 'IPv4');
+INSERT INTO `azure_azurearcinfrastructure.italynorth_ips` (`ip_address`, `ip_type`) VALUES ('9.235.172.75/32', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.italynorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1204:2::670/124', 'IPv6');
+INSERT INTO `azure_azurearcinfrastructure.italynorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1204:7::751/128', 'IPv6');

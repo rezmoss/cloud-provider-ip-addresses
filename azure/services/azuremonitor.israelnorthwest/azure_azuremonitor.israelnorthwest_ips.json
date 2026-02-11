@@ -72,12 +72,6 @@
     "region": "israelnorthwest"
   },
   {
-    "ip_address": "2603:1040:1702:4::530/124",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.IsraelNorthwest",
-    "region": "israelnorthwest"
-  },
-  {
     "ip_address": "2603:1040:1702:4::6e0/123",
     "ip_type": "IPv6",
     "service": "AzureMonitor.IsraelNorthwest",

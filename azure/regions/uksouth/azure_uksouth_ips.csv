@@ -50,8 +50,10 @@ ip_address,ip_type,service,region
 51.105.71.144/31,IPv4,AzureArcInfrastructure.UKSouth,uksouth
 51.105.77.50/31,IPv4,AzureArcInfrastructure.UKSouth,uksouth
 51.140.151.168/30,IPv4,AzureArcInfrastructure.UKSouth,uksouth
+74.177.105.18/32,IPv4,AzureArcInfrastructure.UKSouth,uksouth
 172.167.234.102/31,IPv4,AzureArcInfrastructure.UKSouth,uksouth
 172.167.236.56/29,IPv4,AzureArcInfrastructure.UKSouth,uksouth
+2603:1020:705:15::547/128,IPv6,AzureArcInfrastructure.UKSouth,uksouth
 4.159.236.184/29,IPv4,AzureAttestation.UKSouth,uksouth
 51.140.149.84/30,IPv4,AzureAttestation.UKSouth,uksouth
 51.143.209.132/30,IPv4,AzureAttestation.UKSouth,uksouth
@@ -259,7 +261,6 @@ ip_address,ip_type,service,region
 2603:1020:705:1::280/122,IPv6,AzureMonitor.UKSouth,uksouth
 2603:1020:705:8::260/123,IPv6,AzureMonitor.UKSouth,uksouth
 2603:1020:705:a::200/122,IPv6,AzureMonitor.UKSouth,uksouth
-2603:1020:705:14::280/124,IPv6,AzureMonitor.UKSouth,uksouth
 2603:1020:705:15::/120,IPv6,AzureMonitor.UKSouth,uksouth
 2603:1020:705:15::420/123,IPv6,AzureMonitor.UKSouth,uksouth
 2603:1020:705:402::500/121,IPv6,AzureMonitor.UKSouth,uksouth
@@ -894,8 +895,9 @@ ip_address,ip_type,service,region
 52.253.162.0/23,IPv4,AzureCloud.uksouth,uksouth
 57.150.236.0/23,IPv4,AzureCloud.uksouth,uksouth
 57.157.40.0/26,IPv4,AzureCloud.uksouth,uksouth
-57.157.40.64/30,IPv4,AzureCloud.uksouth,uksouth
-57.157.40.68/31,IPv4,AzureCloud.uksouth,uksouth
+57.157.40.64/29,IPv4,AzureCloud.uksouth,uksouth
+57.157.40.72/30,IPv4,AzureCloud.uksouth,uksouth
+57.157.40.76/31,IPv4,AzureCloud.uksouth,uksouth
 70.152.33.0/24,IPv4,AzureCloud.uksouth,uksouth
 70.152.237.0/24,IPv4,AzureCloud.uksouth,uksouth
 70.152.238.0/23,IPv4,AzureCloud.uksouth,uksouth

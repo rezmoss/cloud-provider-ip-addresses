@@ -1,4 +1,5 @@
 ip_address,ip_type,service,region
+4.191.86.255/32,IPv4,AzureArcInfrastructure.EastAsia,eastasia
 20.6.141.126/31,IPv4,AzureArcInfrastructure.EastAsia,eastasia
 20.187.194.204/30,IPv4,AzureArcInfrastructure.EastAsia,eastasia
 20.189.111.204/30,IPv4,AzureArcInfrastructure.EastAsia,eastasia
@@ -7,3 +8,4 @@ ip_address,ip_type,service,region
 20.205.85.198/31,IPv4,AzureArcInfrastructure.EastAsia,eastasia
 23.97.88.88/29,IPv4,AzureArcInfrastructure.EastAsia,eastasia
 104.214.164.48/31,IPv4,AzureArcInfrastructure.EastAsia,eastasia
+2603:1040:207:11::356/128,IPv6,AzureArcInfrastructure.EastAsia,eastasia

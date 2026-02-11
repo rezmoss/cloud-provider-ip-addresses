@@ -642,6 +642,12 @@
     "region": "northeurope"
   },
   {
+    "ip_address": "4.208.114.163/32",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.NorthEurope",
+    "region": "northeurope"
+  },
+  {
     "ip_address": "13.69.239.84/30",
     "ip_type": "IPv4",
     "service": "AzureArcInfrastructure.NorthEurope",
@@ -686,6 +692,12 @@
   {
     "ip_address": "68.219.197.8/29",
     "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "2603:1020:5:1b::5f4/128",
+    "ip_type": "IPv6",
     "service": "AzureArcInfrastructure.NorthEurope",
     "region": "northeurope"
   },
@@ -2071,12 +2083,6 @@
   },
   {
     "ip_address": "2603:1020:5:b::140/123",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.NorthEurope",
-    "region": "northeurope"
-  },
-  {
-    "ip_address": "2603:1020:5:1a::240/122",
     "ip_type": "IPv6",
     "service": "AzureMonitor.NorthEurope",
     "region": "northeurope"
@@ -5269,6 +5275,12 @@
   },
   {
     "ip_address": "4.207.247.176/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "4.208.118.128/26",
     "ip_type": "IPv4",
     "service": "PowerBI.NorthEurope",
     "region": "northeurope"
@@ -8496,6 +8508,12 @@
     "region": "northeurope"
   },
   {
+    "ip_address": "57.157.29.200/31",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.northeurope",
+    "region": "northeurope"
+  },
+  {
     "ip_address": "65.52.64.0/20",
     "ip_type": "IPv4",
     "service": "AzureCloud.northeurope",
@@ -8779,6 +8797,12 @@
   },
   {
     "ip_address": "151.206.90.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.northeurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "151.206.156.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.northeurope",
     "region": "northeurope"

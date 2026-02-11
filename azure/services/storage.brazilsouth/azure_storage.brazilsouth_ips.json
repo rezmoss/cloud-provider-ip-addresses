@@ -72,6 +72,12 @@
     "region": "brazilsouth"
   },
   {
+    "ip_address": "145.190.149.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
     "ip_address": "191.232.216.32/27",
     "ip_type": "IPv4",
     "service": "Storage.BrazilSouth",

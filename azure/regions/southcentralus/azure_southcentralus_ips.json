@@ -822,6 +822,18 @@
     "region": "southcentralus"
   },
   {
+    "ip_address": "48.192.212.50/32",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "2603:1030:807:16::347/128",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
     "ip_address": "20.45.126.116/30",
     "ip_type": "IPv4",
     "service": "AzureAttestation.SouthCentralUS",
@@ -2371,12 +2383,6 @@
   },
   {
     "ip_address": "2603:1030:807:9::240/122",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.SouthCentralUS",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "2603:1030:807:15::280/122",
     "ip_type": "IPv6",
     "service": "AzureMonitor.SouthCentralUS",
     "region": "southcentralus"
@@ -5124,19 +5130,13 @@
     "region": "southcentralus"
   },
   {
-    "ip_address": "20.20.103.128/27",
+    "ip_address": "20.20.103.128/26",
     "ip_type": "IPv4",
     "service": "AzureCloud.southcentralus",
     "region": "southcentralus"
   },
   {
-    "ip_address": "20.20.103.160/29",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southcentralus",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "20.20.103.168/30",
+    "ip_address": "20.20.103.192/29",
     "ip_type": "IPv4",
     "service": "AzureCloud.southcentralus",
     "region": "southcentralus"
@@ -7956,19 +7956,19 @@
     "region": "southcentralus"
   },
   {
-    "ip_address": "2603:1030:804:5c0::/62",
+    "ip_address": "2603:1030:804:5c0::/60",
     "ip_type": "IPv6",
     "service": "AzureCloud.southcentralus",
     "region": "southcentralus"
   },
   {
-    "ip_address": "2603:1030:804:5c4::/63",
+    "ip_address": "2603:1030:804:5d0::/62",
     "ip_type": "IPv6",
     "service": "AzureCloud.southcentralus",
     "region": "southcentralus"
   },
   {
-    "ip_address": "2603:1030:804:5c6::/64",
+    "ip_address": "2603:1030:804:5d4::/64",
     "ip_type": "IPv6",
     "service": "AzureCloud.southcentralus",
     "region": "southcentralus"

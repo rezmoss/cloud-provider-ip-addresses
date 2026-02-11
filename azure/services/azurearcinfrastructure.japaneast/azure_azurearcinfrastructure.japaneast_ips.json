@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "4.216.4.121/32",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.JapanEast",
+    "region": "japaneast"
+  },
+  {
     "ip_address": "13.78.111.193/32",
     "ip_type": "IPv4",
     "service": "AzureArcInfrastructure.JapanEast",
@@ -44,6 +50,12 @@
   {
     "ip_address": "40.115.144.0/30",
     "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.JapanEast",
+    "region": "japaneast"
+  },
+  {
+    "ip_address": "2603:1040:407:e::63c/128",
+    "ip_type": "IPv6",
     "service": "AzureArcInfrastructure.JapanEast",
     "region": "japaneast"
   }

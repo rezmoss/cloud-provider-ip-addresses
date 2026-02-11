@@ -32,6 +32,5 @@ INSERT INTO `azure_azuremonitor.polandcentral_ips` (`ip_address`, `ip_type`) VAL
 INSERT INTO `azure_azuremonitor.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1302:2::680/121', 'IPv6');
 INSERT INTO `azure_azuremonitor.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1302:3::180/123', 'IPv6');
 INSERT INTO `azure_azuremonitor.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1302:3::1c0/122', 'IPv6');
-INSERT INTO `azure_azuremonitor.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1302:5::3e0/124', 'IPv6');
 INSERT INTO `azure_azuremonitor.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1302:5::600/120', 'IPv6');
 INSERT INTO `azure_azuremonitor.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1302:5::7e0/123', 'IPv6');

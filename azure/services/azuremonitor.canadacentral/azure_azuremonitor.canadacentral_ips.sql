@@ -51,7 +51,6 @@ INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VAL
 INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f05:1::280/122', 'IPv6');
 INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f05:4::5a0/123', 'IPv6');
 INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f05:4::5c0/122', 'IPv6');
-INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f05:c::40/124', 'IPv6');
 INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f05:d::100/120', 'IPv6');
 INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f05:d::3e0/123', 'IPv6');
 INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f05:402::500/121', 'IPv6');

@@ -720,12 +720,6 @@
     "region": "germanyn"
   },
   {
-    "ip_address": "2603:1020:d04:9::2a0/124",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.GermanyNorth",
-    "region": "germanyn"
-  },
-  {
     "ip_address": "2603:1020:d04:9::400/120",
     "ip_type": "IPv6",
     "service": "AzureMonitor.GermanyNorth",
@@ -1357,6 +1351,18 @@
   },
   {
     "ip_address": "20.170.220.184/29",
+    "ip_type": "IPv4",
+    "service": "PowerBI.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "20.170.251.112/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "20.170.251.128/28",
     "ip_type": "IPv4",
     "service": "PowerBI.GermanyNorth",
     "region": "germanyn"

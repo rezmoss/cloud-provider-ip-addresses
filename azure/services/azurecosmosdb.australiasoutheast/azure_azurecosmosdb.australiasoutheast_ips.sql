@@ -14,6 +14,7 @@ INSERT INTO `azure_azurecosmosdb.australiasoutheast_ips` (`ip_address`, `ip_type
 INSERT INTO `azure_azurecosmosdb.australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('20.211.229.192/26', 'IPv4');
 INSERT INTO `azure_azurecosmosdb.australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('20.211.230.0/25', 'IPv4');
 INSERT INTO `azure_azurecosmosdb.australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('23.101.240.99/32', 'IPv4');
+INSERT INTO `azure_azurecosmosdb.australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('48.215.169.48/29', 'IPv4');
 INSERT INTO `azure_azurecosmosdb.australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('52.255.58.221/32', 'IPv4');
 INSERT INTO `azure_azurecosmosdb.australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('104.46.177.64/27', 'IPv4');
 INSERT INTO `azure_azurecosmosdb.australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('191.239.179.124/32', 'IPv4');

@@ -36,7 +36,6 @@ INSERT INTO `azure_azuremonitor.japanwest_ips` (`ip_address`, `ip_type`) VALUES 
 INSERT INTO `azure_azuremonitor.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:606:3::600/123', 'IPv6');
 INSERT INTO `azure_azuremonitor.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:606:3::780/121', 'IPv6');
 INSERT INTO `azure_azuremonitor.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:606:6::400/122', 'IPv6');
-INSERT INTO `azure_azuremonitor.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:606:9::7d0/124', 'IPv6');
 INSERT INTO `azure_azuremonitor.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:606:b::400/120', 'IPv6');
 INSERT INTO `azure_azuremonitor.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:606:b::5e0/123', 'IPv6');
 INSERT INTO `azure_azuremonitor.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:606:402::500/121', 'IPv6');

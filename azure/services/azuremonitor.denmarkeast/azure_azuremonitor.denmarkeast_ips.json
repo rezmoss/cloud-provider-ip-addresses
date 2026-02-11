@@ -108,12 +108,6 @@
     "region": "denmarkeast"
   },
   {
-    "ip_address": "2603:1020:1602:4::3d0/124",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.DenmarkEast",
-    "region": "denmarkeast"
-  },
-  {
     "ip_address": "2603:1020:1602:4::580/123",
     "ip_type": "IPv6",
     "service": "AzureMonitor.DenmarkEast",

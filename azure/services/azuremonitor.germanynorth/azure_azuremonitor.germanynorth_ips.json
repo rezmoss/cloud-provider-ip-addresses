@@ -132,12 +132,6 @@
     "region": "germanyn"
   },
   {
-    "ip_address": "2603:1020:d04:9::2a0/124",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.GermanyNorth",
-    "region": "germanyn"
-  },
-  {
     "ip_address": "2603:1020:d04:9::400/120",
     "ip_type": "IPv6",
     "service": "AzureMonitor.GermanyNorth",

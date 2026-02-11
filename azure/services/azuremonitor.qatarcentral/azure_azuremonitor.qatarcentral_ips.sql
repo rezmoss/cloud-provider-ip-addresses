@@ -38,6 +38,5 @@ INSERT INTO `azure_azuremonitor.qatarcentral_ips` (`ip_address`, `ip_type`) VALU
 INSERT INTO `azure_azuremonitor.qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1002:2::700/121', 'IPv6');
 INSERT INTO `azure_azuremonitor.qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1002:5::360/123', 'IPv6');
 INSERT INTO `azure_azuremonitor.qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1002:5::5c0/122', 'IPv6');
-INSERT INTO `azure_azuremonitor.qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1002:7::6c0/124', 'IPv6');
 INSERT INTO `azure_azuremonitor.qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1002:8::300/120', 'IPv6');
 INSERT INTO `azure_azuremonitor.qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1002:8::460/123', 'IPv6');

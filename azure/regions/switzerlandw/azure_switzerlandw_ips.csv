@@ -24,6 +24,7 @@ ip_address,ip_type,service,region
 2603:1020:b04:402::100/122,IPv6,AppServiceManagement.SwitzerlandWest,switzerlandw
 4.226.166.16/30,IPv4,AzureArcInfrastructure.SwitzerlandWest,switzerlandw
 4.226.166.20/32,IPv4,AzureArcInfrastructure.SwitzerlandWest,switzerlandw
+4.226.254.162/32,IPv4,AzureArcInfrastructure.SwitzerlandWest,switzerlandw
 51.107.146.52/30,IPv4,AzureArcInfrastructure.SwitzerlandWest,switzerlandw
 51.107.193.4/30,IPv4,AzureArcInfrastructure.SwitzerlandWest,switzerlandw
 74.242.3.192/29,IPv4,AzureArcInfrastructure.SwitzerlandWest,switzerlandw
@@ -31,6 +32,7 @@ ip_address,ip_type,service,region
 2603:1020:b04:5::5b0/124,IPv6,AzureArcInfrastructure.SwitzerlandWest,switzerlandw
 2603:1020:b04:8::749/128,IPv6,AzureArcInfrastructure.SwitzerlandWest,switzerlandw
 2603:1020:b04:8::74a/127,IPv6,AzureArcInfrastructure.SwitzerlandWest,switzerlandw
+2603:1020:b04:8::74d/128,IPv6,AzureArcInfrastructure.SwitzerlandWest,switzerlandw
 4.226.197.72/29,IPv4,AzureAttestation.SwitzerlandWest,switzerlandw
 51.107.192.152/30,IPv4,AzureAttestation.SwitzerlandWest,switzerlandw
 51.107.250.40/30,IPv4,AzureAttestation.SwitzerlandWest,switzerlandw
@@ -126,7 +128,6 @@ ip_address,ip_type,service,region
 2603:1020:b04:1::300/121,IPv6,AzureMonitor.SwitzerlandWest,switzerlandw
 2603:1020:b04:2::500/121,IPv6,AzureMonitor.SwitzerlandWest,switzerlandw
 2603:1020:b04:6::60/123,IPv6,AzureMonitor.SwitzerlandWest,switzerlandw
-2603:1020:b04:7::360/124,IPv6,AzureMonitor.SwitzerlandWest,switzerlandw
 2603:1020:b04:9::80/123,IPv6,AzureMonitor.SwitzerlandWest,switzerlandw
 2603:1020:b04:402::500/121,IPv6,AzureMonitor.SwitzerlandWest,switzerlandw
 51.107.144.192/28,IPv4,AzureOpenDatasets.SwitzerlandWest,switzerlandw
@@ -344,6 +345,7 @@ ip_address,ip_type,service,region
 52.239.250.0/24,IPv4,AzureCloud.switzerlandw,switzerlandw
 52.253.166.0/24,IPv4,AzureCloud.switzerlandw,switzerlandw
 57.150.22.0/24,IPv4,AzureCloud.switzerlandw,switzerlandw
+57.160.0.0/17,IPv4,AzureCloud.switzerlandw,switzerlandw
 70.152.30.0/24,IPv4,AzureCloud.switzerlandw,switzerlandw
 74.242.0.0/18,IPv4,AzureCloud.switzerlandw,switzerlandw
 74.242.64.0/21,IPv4,AzureCloud.switzerlandw,switzerlandw

@@ -192,12 +192,6 @@
     "region": "uaenorth"
   },
   {
-    "ip_address": "2603:1040:904:7::7b0/124",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.UAENorth",
-    "region": "uaenorth"
-  },
-  {
     "ip_address": "2603:1040:904:8::500/120",
     "ip_type": "IPv6",
     "service": "AzureMonitor.UAENorth",

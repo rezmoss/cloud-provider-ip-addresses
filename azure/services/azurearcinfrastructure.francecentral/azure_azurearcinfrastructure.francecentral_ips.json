@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "4.176.33.182/32",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
     "ip_address": "20.43.43.160/30",
     "ip_type": "IPv4",
     "service": "AzureArcInfrastructure.FranceCentral",
@@ -44,6 +50,12 @@
   {
     "ip_address": "98.66.128.72/29",
     "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "2603:1020:805:e::a7/128",
+    "ip_type": "IPv6",
     "service": "AzureArcInfrastructure.FranceCentral",
     "region": "centralfrance"
   }

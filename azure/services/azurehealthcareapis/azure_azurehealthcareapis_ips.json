@@ -1,12 +1,192 @@
 [
   {
+    "ip_address": "4.145.19.64/28",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "4.145.19.80/31",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "4.145.19.82/32",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "4.160.68.49/32",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "4.161.11.250/31",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "4.161.11.252/30",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "4.161.12.0/29",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "4.176.32.85/32",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "4.176.32.88/31",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "4.176.32.96/28",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
     "ip_address": "4.199.83.160/27",
     "ip_type": "IPv4",
     "service": "AzureHealthcareAPIs",
     "region": ""
   },
   {
+    "ip_address": "4.199.138.146/31",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "4.199.152.32/29",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "4.199.152.40/30",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "4.208.114.144/28",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "4.208.114.160/31",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "4.208.114.162/32",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "4.216.4.118/31",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "4.216.4.120/32",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "4.216.4.160/28",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "4.220.241.36/30",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "4.220.241.40/32",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "4.221.232.62/31",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "4.221.232.64/28",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "4.226.253.83/32",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "4.226.253.192/30",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
     "ip_address": "4.232.28.160/27",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "4.237.97.156/31",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "4.243.159.242/32",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "4.243.159.244/30",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "4.248.139.152/32",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "4.248.140.224/28",
     "ip_type": "IPv4",
     "service": "AzureHealthcareAPIs",
     "region": ""
@@ -318,6 +498,24 @@
     "region": ""
   },
   {
+    "ip_address": "20.51.44.226/31",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "20.51.44.228/30",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "20.51.44.240/28",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
     "ip_address": "20.52.88.224/28",
     "ip_type": "IPv4",
     "service": "AzureHealthcareAPIs",
@@ -408,6 +606,24 @@
     "region": ""
   },
   {
+    "ip_address": "20.66.129.28/30",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "20.66.129.32/28",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "20.66.129.48/31",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
     "ip_address": "20.69.1.160/28",
     "ip_type": "IPv4",
     "service": "AzureHealthcareAPIs",
@@ -451,6 +667,24 @@
   },
   {
     "ip_address": "20.150.245.160/27",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "20.167.163.1/32",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "20.167.163.16/30",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "20.173.62.4/30",
     "ip_type": "IPv4",
     "service": "AzureHealthcareAPIs",
     "region": ""
@@ -594,6 +828,18 @@
     "region": ""
   },
   {
+    "ip_address": "20.200.15.213/32",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "20.200.15.240/28",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
     "ip_address": "20.203.91.224/27",
     "ip_type": "IPv4",
     "service": "AzureHealthcareAPIs",
@@ -714,6 +960,18 @@
     "region": ""
   },
   {
+    "ip_address": "40.80.104.225/32",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "40.80.104.240/28",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
     "ip_address": "40.80.173.128/30",
     "ip_type": "IPv4",
     "service": "AzureHealthcareAPIs",
@@ -744,6 +1002,42 @@
     "region": ""
   },
   {
+    "ip_address": "48.192.210.14/31",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "48.192.210.16/28",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "48.192.210.32/30",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "48.192.210.36/32",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "48.195.61.192/28",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "48.195.61.208/32",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
     "ip_address": "48.196.87.32/27",
     "ip_type": "IPv4",
     "service": "AzureHealthcareAPIs",
@@ -757,6 +1051,96 @@
   },
   {
     "ip_address": "48.198.87.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "48.199.208.159/32",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "48.199.209.130/31",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "48.199.209.144/28",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "48.201.165.112/28",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "48.201.165.128/30",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "48.202.188.132/30",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "48.202.188.144/28",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "48.202.188.160/31",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "48.204.5.164/30",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "48.204.5.192/28",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "48.204.170.122/31",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "48.204.170.124/30",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "48.204.171.0/28",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "48.215.89.120/32",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "48.215.92.176/28",
     "ip_type": "IPv4",
     "service": "AzureHealthcareAPIs",
     "region": ""
@@ -1140,6 +1524,18 @@
     "region": ""
   },
   {
+    "ip_address": "57.159.169.79/32",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "57.159.169.184/30",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
     "ip_address": "65.52.252.248/31",
     "ip_type": "IPv4",
     "service": "AzureHealthcareAPIs",
@@ -1170,6 +1566,18 @@
     "region": ""
   },
   {
+    "ip_address": "72.152.23.184/30",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "72.152.23.188/31",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
     "ip_address": "74.7.44.224/27",
     "ip_type": "IPv4",
     "service": "AzureHealthcareAPIs",
@@ -1177,6 +1585,42 @@
   },
   {
     "ip_address": "74.7.181.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "74.163.50.4/31",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "74.163.72.32/28",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "74.177.85.109/32",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "74.177.107.0/28",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "74.225.45.99/32",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "74.225.45.148/30",
     "ip_type": "IPv4",
     "service": "AzureHealthcareAPIs",
     "region": ""
@@ -1242,13 +1686,61 @@
     "region": ""
   },
   {
+    "ip_address": "108.140.32.215/32",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "108.140.45.244/30",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
     "ip_address": "134.138.71.32/27",
     "ip_type": "IPv4",
     "service": "AzureHealthcareAPIs",
     "region": ""
   },
   {
+    "ip_address": "145.191.108.6/31",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
     "ip_address": "158.23.101.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "172.166.4.134/31",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "172.170.23.64/28",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "172.186.105.151/32",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "172.186.105.174/31",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "172.186.105.176/28",
     "ip_type": "IPv4",
     "service": "AzureHealthcareAPIs",
     "region": ""
@@ -1267,6 +1759,18 @@
   },
   {
     "ip_address": "172.204.156.192/27",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "172.209.113.245/32",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "172.209.114.76/30",
     "ip_type": "IPv4",
     "service": "AzureHealthcareAPIs",
     "region": ""

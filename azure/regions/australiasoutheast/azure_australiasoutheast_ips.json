@@ -258,6 +258,12 @@
     "region": "australiasoutheast"
   },
   {
+    "ip_address": "20.45.151.53/32",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  },
+  {
     "ip_address": "20.211.230.248/29",
     "ip_type": "IPv4",
     "service": "AzureArcInfrastructure.AustraliaSoutheast",
@@ -289,6 +295,12 @@
   },
   {
     "ip_address": "2603:1010:207::710/124",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  },
+  {
+    "ip_address": "2603:1010:207:4::4d4/128",
     "ip_type": "IPv6",
     "service": "AzureArcInfrastructure.AustraliaSoutheast",
     "region": "australiasoutheast"
@@ -583,6 +595,12 @@
   },
   {
     "ip_address": "23.101.240.99/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  },
+  {
+    "ip_address": "48.215.169.48/29",
     "ip_type": "IPv4",
     "service": "AzureCosmosDB.AustraliaSoutheast",
     "region": "australiasoutheast"
@@ -1093,12 +1111,6 @@
   },
   {
     "ip_address": "2603:1010:207:1::180/121",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.AustraliaSoutheast",
-    "region": "australiasoutheast"
-  },
-  {
-    "ip_address": "2603:1010:207:3::210/124",
     "ip_type": "IPv6",
     "service": "AzureMonitor.AustraliaSoutheast",
     "region": "australiasoutheast"
@@ -3679,6 +3691,12 @@
   },
   {
     "ip_address": "151.206.89.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.australiasoutheast",
+    "region": "australiasoutheast"
+  },
+  {
+    "ip_address": "151.206.165.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.australiasoutheast",
     "region": "australiasoutheast"

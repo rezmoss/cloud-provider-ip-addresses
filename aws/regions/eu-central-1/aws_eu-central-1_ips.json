@@ -3540,6 +3540,12 @@
     "region": "eu-central-1"
   },
   {
+    "ip_address": "2606:7b40:1a2c:330::/60",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eu-central-1"
+  },
+  {
     "ip_address": "2a05:d030:4000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -3577,6 +3583,12 @@
   },
   {
     "ip_address": "2a05:d07f:f000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eu-central-1"
+  },
+  {
+    "ip_address": "2600:f0f0:8183::/48",
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "eu-central-1"
@@ -4434,6 +4446,12 @@
     "region": "eu-central-1"
   },
   {
+    "ip_address": "2606:7b40:1a2c:330::/60",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eu-central-1"
+  },
+  {
     "ip_address": "2a05:d030:4000::/40",
     "ip_type": "IPv6",
     "service": "EC2",
@@ -4453,6 +4471,12 @@
   },
   {
     "ip_address": "2a05:d07f:f000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eu-central-1"
+  },
+  {
+    "ip_address": "2600:f0f0:8183::/48",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "eu-central-1"

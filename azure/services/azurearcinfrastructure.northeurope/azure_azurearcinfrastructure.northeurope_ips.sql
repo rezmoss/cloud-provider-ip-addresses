@@ -6,6 +6,7 @@ CREATE TABLE IF NOT EXISTS `azure_azurearcinfrastructure.northeurope_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_azurearcinfrastructure.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('4.208.114.163/32', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('13.69.239.84/30', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('13.69.239.88/32', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('13.74.107.94/31', 'IPv4');
@@ -14,3 +15,4 @@ INSERT INTO `azure_azurearcinfrastructure.northeurope_ips` (`ip_address`, `ip_ty
 INSERT INTO `azure_azurearcinfrastructure.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('52.146.130.180/30', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('68.219.196.6/31', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('68.219.197.8/29', 'IPv4');
+INSERT INTO `azure_azurearcinfrastructure.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:5:1b::5f4/128', 'IPv6');

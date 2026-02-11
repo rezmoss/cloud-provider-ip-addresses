@@ -48,6 +48,12 @@
     "region": "australiasoutheast"
   },
   {
+    "ip_address": "48.215.169.48/29",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  },
+  {
     "ip_address": "52.255.58.221/32",
     "ip_type": "IPv4",
     "service": "AzureCosmosDB.AustraliaSoutheast",

@@ -14,3 +14,5 @@ INSERT INTO `azure_azurearcinfrastructure.centralindia_ips` (`ip_address`, `ip_t
 INSERT INTO `azure_azurearcinfrastructure.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('40.80.53.2/31', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('52.140.107.92/30', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('52.140.110.108/30', 'IPv4');
+INSERT INTO `azure_azurearcinfrastructure.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('57.159.92.207/32', 'IPv4');
+INSERT INTO `azure_azurearcinfrastructure.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:a06:c::2bf/128', 'IPv6');

@@ -34,7 +34,6 @@ INSERT INTO `azure_azuremonitor.ukwest_ips` (`ip_address`, `ip_type`) VALUES ('2
 INSERT INTO `azure_azuremonitor.ukwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:605:3::/121', 'IPv6');
 INSERT INTO `azure_azuremonitor.ukwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:605:7::400/123', 'IPv6');
 INSERT INTO `azure_azuremonitor.ukwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:605:7::440/122', 'IPv6');
-INSERT INTO `azure_azuremonitor.ukwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:605:a::5d0/124', 'IPv6');
 INSERT INTO `azure_azuremonitor.ukwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:605:b::600/120', 'IPv6');
 INSERT INTO `azure_azuremonitor.ukwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:605:b::700/123', 'IPv6');
 INSERT INTO `azure_azuremonitor.ukwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:605:402::500/121', 'IPv6');

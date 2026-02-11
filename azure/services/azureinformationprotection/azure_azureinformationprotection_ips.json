@@ -1,5 +1,17 @@
 [
   {
+    "ip_address": "4.145.20.116/30",
+    "ip_type": "IPv4",
+    "service": "AzureInformationProtection",
+    "region": ""
+  },
+  {
+    "ip_address": "4.145.20.120/31",
+    "ip_type": "IPv4",
+    "service": "AzureInformationProtection",
+    "region": ""
+  },
+  {
     "ip_address": "4.150.76.80/29",
     "ip_type": "IPv4",
     "service": "AzureInformationProtection",
@@ -18,7 +30,31 @@
     "region": ""
   },
   {
+    "ip_address": "4.191.90.6/31",
+    "ip_type": "IPv4",
+    "service": "AzureInformationProtection",
+    "region": ""
+  },
+  {
+    "ip_address": "4.191.90.12/30",
+    "ip_type": "IPv4",
+    "service": "AzureInformationProtection",
+    "region": ""
+  },
+  {
     "ip_address": "4.194.225.192/31",
+    "ip_type": "IPv4",
+    "service": "AzureInformationProtection",
+    "region": ""
+  },
+  {
+    "ip_address": "4.208.117.100/30",
+    "ip_type": "IPv4",
+    "service": "AzureInformationProtection",
+    "region": ""
+  },
+  {
+    "ip_address": "4.208.117.104/31",
     "ip_type": "IPv4",
     "service": "AzureInformationProtection",
     "region": ""
@@ -240,6 +276,18 @@
     "region": ""
   },
   {
+    "ip_address": "20.51.45.37/32",
+    "ip_type": "IPv4",
+    "service": "AzureInformationProtection",
+    "region": ""
+  },
+  {
+    "ip_address": "20.51.47.40/31",
+    "ip_type": "IPv4",
+    "service": "AzureInformationProtection",
+    "region": ""
+  },
+  {
     "ip_address": "20.59.81.14/31",
     "ip_type": "IPv4",
     "service": "AzureInformationProtection",
@@ -247,6 +295,18 @@
   },
   {
     "ip_address": "20.59.81.200/30",
+    "ip_type": "IPv4",
+    "service": "AzureInformationProtection",
+    "region": ""
+  },
+  {
+    "ip_address": "20.66.130.246/31",
+    "ip_type": "IPv4",
+    "service": "AzureInformationProtection",
+    "region": ""
+  },
+  {
+    "ip_address": "20.66.132.64/30",
     "ip_type": "IPv4",
     "service": "AzureInformationProtection",
     "region": ""
@@ -511,6 +571,42 @@
   },
   {
     "ip_address": "40.127.175.173/32",
+    "ip_type": "IPv4",
+    "service": "AzureInformationProtection",
+    "region": ""
+  },
+  {
+    "ip_address": "48.195.64.56/30",
+    "ip_type": "IPv4",
+    "service": "AzureInformationProtection",
+    "region": ""
+  },
+  {
+    "ip_address": "48.195.64.60/31",
+    "ip_type": "IPv4",
+    "service": "AzureInformationProtection",
+    "region": ""
+  },
+  {
+    "ip_address": "48.199.213.230/31",
+    "ip_type": "IPv4",
+    "service": "AzureInformationProtection",
+    "region": ""
+  },
+  {
+    "ip_address": "48.199.214.60/30",
+    "ip_type": "IPv4",
+    "service": "AzureInformationProtection",
+    "region": ""
+  },
+  {
+    "ip_address": "48.204.185.106/31",
+    "ip_type": "IPv4",
+    "service": "AzureInformationProtection",
+    "region": ""
+  },
+  {
+    "ip_address": "48.204.185.160/30",
     "ip_type": "IPv4",
     "service": "AzureInformationProtection",
     "region": ""
@@ -852,6 +948,18 @@
     "region": ""
   },
   {
+    "ip_address": "72.152.228.172/30",
+    "ip_type": "IPv4",
+    "service": "AzureInformationProtection",
+    "region": ""
+  },
+  {
+    "ip_address": "72.152.228.176/29",
+    "ip_type": "IPv4",
+    "service": "AzureInformationProtection",
+    "region": ""
+  },
+  {
     "ip_address": "94.245.88.160/32",
     "ip_type": "IPv4",
     "service": "AzureInformationProtection",
@@ -1050,6 +1158,18 @@
     "region": ""
   },
   {
+    "ip_address": "172.170.25.76/30",
+    "ip_type": "IPv4",
+    "service": "AzureInformationProtection",
+    "region": ""
+  },
+  {
+    "ip_address": "172.170.25.104/31",
+    "ip_type": "IPv4",
+    "service": "AzureInformationProtection",
+    "region": ""
+  },
+  {
     "ip_address": "172.193.238.144/29",
     "ip_type": "IPv4",
     "service": "AzureInformationProtection",
@@ -1075,6 +1195,18 @@
   },
   {
     "ip_address": "2603:1020:5:4::700/125",
+    "ip_type": "IPv6",
+    "service": "AzureInformationProtection",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:5:1b::5f6/127",
+    "ip_type": "IPv6",
+    "service": "AzureInformationProtection",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:5:1b::5f8/126",
     "ip_type": "IPv6",
     "service": "AzureInformationProtection",
     "region": ""
@@ -1116,6 +1248,18 @@
     "region": ""
   },
   {
+    "ip_address": "2603:1020:206:10::44/126",
+    "ip_type": "IPv6",
+    "service": "AzureInformationProtection",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:206:10::48/127",
+    "ip_type": "IPv6",
+    "service": "AzureInformationProtection",
+    "region": ""
+  },
+  {
     "ip_address": "2603:1030:10:4::362/127",
     "ip_type": "IPv6",
     "service": "AzureInformationProtection",
@@ -1135,6 +1279,18 @@
   },
   {
     "ip_address": "2603:1030:10:4::458/125",
+    "ip_type": "IPv6",
+    "service": "AzureInformationProtection",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:10:1e::284/126",
+    "ip_type": "IPv6",
+    "service": "AzureInformationProtection",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:10:1e::288/127",
     "ip_type": "IPv6",
     "service": "AzureInformationProtection",
     "region": ""
@@ -1164,6 +1320,18 @@
     "region": ""
   },
   {
+    "ip_address": "2603:1030:210:2c::50c/126",
+    "ip_type": "IPv6",
+    "service": "AzureInformationProtection",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:210:2c::510/125",
+    "ip_type": "IPv6",
+    "service": "AzureInformationProtection",
+    "region": ""
+  },
+  {
     "ip_address": "2603:1030:40c:b::c6/127",
     "ip_type": "IPv6",
     "service": "AzureInformationProtection",
@@ -1177,6 +1345,18 @@
   },
   {
     "ip_address": "2603:1030:40c:20::530/125",
+    "ip_type": "IPv6",
+    "service": "AzureInformationProtection",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:40c:23::1a2/127",
+    "ip_type": "IPv6",
+    "service": "AzureInformationProtection",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:40c:23::1a4/126",
     "ip_type": "IPv6",
     "service": "AzureInformationProtection",
     "region": ""
@@ -1201,6 +1381,18 @@
   },
   {
     "ip_address": "2603:1030:608:4::3b0/125",
+    "ip_type": "IPv6",
+    "service": "AzureInformationProtection",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:608:14::61a/127",
+    "ip_type": "IPv6",
+    "service": "AzureInformationProtection",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:608:14::68c/126",
     "ip_type": "IPv6",
     "service": "AzureInformationProtection",
     "region": ""
@@ -1236,6 +1428,30 @@
     "region": ""
   },
   {
+    "ip_address": "2603:1030:a07:22::46c/126",
+    "ip_type": "IPv6",
+    "service": "AzureInformationProtection",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:a07:22::4b0/127",
+    "ip_type": "IPv6",
+    "service": "AzureInformationProtection",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:b04:f::530/127",
+    "ip_type": "IPv6",
+    "service": "AzureInformationProtection",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:b04:f::532/128",
+    "ip_type": "IPv6",
+    "service": "AzureInformationProtection",
+    "region": ""
+  },
+  {
     "ip_address": "2603:1030:c06:1e::320/125",
     "ip_type": "IPv6",
     "service": "AzureInformationProtection",
@@ -1266,6 +1482,18 @@
     "region": ""
   },
   {
+    "ip_address": "2603:1040:5:16::4c4/126",
+    "ip_type": "IPv6",
+    "service": "AzureInformationProtection",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1040:5:16::4c8/127",
+    "ip_type": "IPv6",
+    "service": "AzureInformationProtection",
+    "region": ""
+  },
+  {
     "ip_address": "2603:1040:207:3::106/127",
     "ip_type": "IPv6",
     "service": "AzureInformationProtection",
@@ -1279,6 +1507,18 @@
   },
   {
     "ip_address": "2603:1040:207:3::3e0/125",
+    "ip_type": "IPv6",
+    "service": "AzureInformationProtection",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1040:207:11::4c4/126",
+    "ip_type": "IPv6",
+    "service": "AzureInformationProtection",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1040:207:11::4c8/127",
     "ip_type": "IPv6",
     "service": "AzureInformationProtection",
     "region": ""

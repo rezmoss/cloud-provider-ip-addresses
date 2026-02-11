@@ -148,8 +148,9 @@ ip_address,ip_type,service,region
 52.245.116.0/22,IPv4,AzureCloud.centralfrance,centralfrance
 57.150.40.0/23,IPv4,AzureCloud.centralfrance,centralfrance
 57.157.36.0/24,IPv4,AzureCloud.centralfrance,centralfrance
-57.157.37.0/28,IPv4,AzureCloud.centralfrance,centralfrance
-57.157.37.16/29,IPv4,AzureCloud.centralfrance,centralfrance
+57.157.37.0/27,IPv4,AzureCloud.centralfrance,centralfrance
+57.157.37.32/29,IPv4,AzureCloud.centralfrance,centralfrance
+57.157.37.40/30,IPv4,AzureCloud.centralfrance,centralfrance
 70.37.152.0/24,IPv4,AzureCloud.centralfrance,centralfrance
 70.152.10.0/24,IPv4,AzureCloud.centralfrance,centralfrance
 70.152.46.0/23,IPv4,AzureCloud.centralfrance,centralfrance

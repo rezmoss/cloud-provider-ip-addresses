@@ -72,13 +72,7 @@
     "region": "brazilsouth"
   },
   {
-    "ip_address": "20.20.97.64/28",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.brazilsouth",
-    "region": "brazilsouth"
-  },
-  {
-    "ip_address": "20.20.97.80/29",
+    "ip_address": "20.20.97.64/27",
     "ip_type": "IPv4",
     "service": "AzureCloud.brazilsouth",
     "region": "brazilsouth"
@@ -732,7 +726,19 @@
     "region": "brazilsouth"
   },
   {
+    "ip_address": "145.190.149.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.brazilsouth",
+    "region": "brazilsouth"
+  },
+  {
     "ip_address": "151.206.87.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.brazilsouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "151.206.151.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.brazilsouth",
     "region": "brazilsouth"

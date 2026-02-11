@@ -7,6 +7,7 @@ CREATE TABLE IF NOT EXISTS `azure_azurefrontdoor.frontend_ips` (
 );
 
 INSERT INTO `azure_azurefrontdoor.frontend_ips` (`ip_address`, `ip_type`) VALUES ('4.188.10.28/30', 'IPv4');
+INSERT INTO `azure_azurefrontdoor.frontend_ips` (`ip_address`, `ip_type`) VALUES ('4.188.12.24/29', 'IPv4');
 INSERT INTO `azure_azurefrontdoor.frontend_ips` (`ip_address`, `ip_type`) VALUES ('4.223.184.160/30', 'IPv4');
 INSERT INTO `azure_azurefrontdoor.frontend_ips` (`ip_address`, `ip_type`) VALUES ('4.232.98.112/29', 'IPv4');
 INSERT INTO `azure_azurefrontdoor.frontend_ips` (`ip_address`, `ip_type`) VALUES ('13.73.248.8/29', 'IPv4');
@@ -68,9 +69,11 @@ INSERT INTO `azure_azurefrontdoor.frontend_ips` (`ip_address`, `ip_type`) VALUES
 INSERT INTO `azure_azurefrontdoor.frontend_ips` (`ip_address`, `ip_type`) VALUES ('40.90.70.0/23', 'IPv4');
 INSERT INTO `azure_azurefrontdoor.frontend_ips` (`ip_address`, `ip_type`) VALUES ('48.192.88.240/30', 'IPv4');
 INSERT INTO `azure_azurefrontdoor.frontend_ips` (`ip_address`, `ip_type`) VALUES ('48.199.205.88/30', 'IPv4');
+INSERT INTO `azure_azurefrontdoor.frontend_ips` (`ip_address`, `ip_type`) VALUES ('48.204.185.120/29', 'IPv4');
 INSERT INTO `azure_azurefrontdoor.frontend_ips` (`ip_address`, `ip_type`) VALUES ('51.12.41.0/29', 'IPv4');
 INSERT INTO `azure_azurefrontdoor.frontend_ips` (`ip_address`, `ip_type`) VALUES ('51.12.193.0/29', 'IPv4');
 INSERT INTO `azure_azurefrontdoor.frontend_ips` (`ip_address`, `ip_type`) VALUES ('51.53.28.216/29', 'IPv4');
+INSERT INTO `azure_azurefrontdoor.frontend_ips` (`ip_address`, `ip_type`) VALUES ('51.57.122.168/29', 'IPv4');
 INSERT INTO `azure_azurefrontdoor.frontend_ips` (`ip_address`, `ip_type`) VALUES ('51.104.24.88/29', 'IPv4');
 INSERT INTO `azure_azurefrontdoor.frontend_ips` (`ip_address`, `ip_type`) VALUES ('51.105.80.96/29', 'IPv4');
 INSERT INTO `azure_azurefrontdoor.frontend_ips` (`ip_address`, `ip_type`) VALUES ('51.105.88.96/29', 'IPv4');

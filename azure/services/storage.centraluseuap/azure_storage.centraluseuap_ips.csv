@@ -16,4 +16,8 @@ ip_address,ip_type,service,region
 52.239.177.0/27,IPv4,Storage.CentralUSEUAP,centraluseuap
 52.239.238.0/24,IPv4,Storage.CentralUSEUAP,centraluseuap
 57.150.126.0/23,IPv4,Storage.CentralUSEUAP,centraluseuap
+135.130.247.0/24,IPv4,Storage.CentralUSEUAP,centraluseuap
+135.130.252.0/25,IPv4,Storage.CentralUSEUAP,centraluseuap
+135.130.254.0/23,IPv4,Storage.CentralUSEUAP,centraluseuap
 2603:1030:12::/49,IPv6,Storage.CentralUSEUAP,centraluseuap
+2603:1030:12:8000::/64,IPv6,Storage.CentralUSEUAP,centraluseuap

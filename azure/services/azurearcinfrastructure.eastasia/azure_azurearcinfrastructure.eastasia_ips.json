@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "4.191.86.255/32",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.EastAsia",
+    "region": "eastasia"
+  },
+  {
     "ip_address": "20.6.141.126/31",
     "ip_type": "IPv4",
     "service": "AzureArcInfrastructure.EastAsia",
@@ -44,6 +50,12 @@
   {
     "ip_address": "104.214.164.48/31",
     "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "2603:1040:207:11::356/128",
+    "ip_type": "IPv6",
     "service": "AzureArcInfrastructure.EastAsia",
     "region": "eastasia"
   }

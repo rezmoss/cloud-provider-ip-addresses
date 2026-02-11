@@ -6,6 +6,7 @@ CREATE TABLE IF NOT EXISTS `azure_azurearcinfrastructure.eastasia_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_azurearcinfrastructure.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('4.191.86.255/32', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('20.6.141.126/31', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('20.187.194.204/30', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('20.189.111.204/30', 'IPv4');
@@ -14,3 +15,4 @@ INSERT INTO `azure_azurearcinfrastructure.eastasia_ips` (`ip_address`, `ip_type`
 INSERT INTO `azure_azurearcinfrastructure.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('20.205.85.198/31', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('23.97.88.88/29', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('104.214.164.48/31', 'IPv4');
+INSERT INTO `azure_azurearcinfrastructure.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:207:11::356/128', 'IPv6');

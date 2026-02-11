@@ -522,12 +522,6 @@
     "region": "southcentralus"
   },
   {
-    "ip_address": "2603:1030:807:15::280/122",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.SouthCentralUS",
-    "region": "southcentralus"
-  },
-  {
     "ip_address": "2603:1030:807:16::/120",
     "ip_type": "IPv6",
     "service": "AzureMonitor.SouthCentralUS",

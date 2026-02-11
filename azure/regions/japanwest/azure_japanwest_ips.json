@@ -204,6 +204,18 @@
     "region": "japanwest"
   },
   {
+    "ip_address": "172.192.187.112/32",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.JapanWest",
+    "region": "japanwest"
+  },
+  {
+    "ip_address": "2603:1040:606:b::637/128",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.JapanWest",
+    "region": "japanwest"
+  },
+  {
     "ip_address": "20.63.252.136/29",
     "ip_type": "IPv4",
     "service": "AzureAttestation.JapanWest",
@@ -1033,12 +1045,6 @@
   },
   {
     "ip_address": "2603:1040:606:6::400/122",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.JapanWest",
-    "region": "japanwest"
-  },
-  {
-    "ip_address": "2603:1040:606:9::7d0/124",
     "ip_type": "IPv6",
     "service": "AzureMonitor.JapanWest",
     "region": "japanwest"
@@ -3138,12 +3144,6 @@
     "region": "japanwest"
   },
   {
-    "ip_address": "52.112.88.0/22",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.japanwest",
-    "region": "japanwest"
-  },
-  {
     "ip_address": "52.113.14.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.japanwest",
@@ -3397,6 +3397,12 @@
   },
   {
     "ip_address": "151.206.64.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.japanwest",
+    "region": "japanwest"
+  },
+  {
+    "ip_address": "151.206.163.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.japanwest",
     "region": "japanwest"

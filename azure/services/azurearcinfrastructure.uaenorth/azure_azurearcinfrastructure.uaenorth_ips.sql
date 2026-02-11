@@ -6,9 +6,11 @@ CREATE TABLE IF NOT EXISTS `azure_azurearcinfrastructure.uaenorth_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_azurearcinfrastructure.uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('4.161.12.132/32', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('20.38.138.56/30', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('20.38.141.8/30', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('20.38.157.132/31', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('40.120.75.58/32', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('40.120.77.176/30', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('65.52.252.250/31', 'IPv4');
+INSERT INTO `azure_azurearcinfrastructure.uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:904:8::743/128', 'IPv6');

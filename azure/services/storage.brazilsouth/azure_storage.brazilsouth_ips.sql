@@ -18,6 +18,7 @@ INSERT INTO `azure_storage.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('2
 INSERT INTO `azure_storage.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('20.209.232.0/23', 'IPv4');
 INSERT INTO `azure_storage.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('23.97.112.64/26', 'IPv4');
 INSERT INTO `azure_storage.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('57.150.130.0/23', 'IPv4');
+INSERT INTO `azure_storage.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('145.190.149.0/24', 'IPv4');
 INSERT INTO `azure_storage.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('191.232.216.32/27', 'IPv4');
 INSERT INTO `azure_storage.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('191.232.221.16/28', 'IPv4');
 INSERT INTO `azure_storage.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('191.232.221.32/28', 'IPv4');

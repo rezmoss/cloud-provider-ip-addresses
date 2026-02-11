@@ -132,12 +132,6 @@
     "region": "spaincentral"
   },
   {
-    "ip_address": "2603:1020:1403:7::110/124",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.SpainCentral",
-    "region": "spaincentral"
-  },
-  {
     "ip_address": "2603:1020:1403:7::300/120",
     "ip_type": "IPv6",
     "service": "AzureMonitor.SpainCentral",

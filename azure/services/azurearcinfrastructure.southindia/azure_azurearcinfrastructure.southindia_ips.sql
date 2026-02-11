@@ -10,4 +10,6 @@ INSERT INTO `azure_azurearcinfrastructure.southindia_ips` (`ip_address`, `ip_typ
 INSERT INTO `azure_azurearcinfrastructure.southindia_ips` (`ip_address`, `ip_type`) VALUES ('20.41.208.16/30', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.southindia_ips` (`ip_address`, `ip_type`) VALUES ('52.172.85.50/31', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.southindia_ips` (`ip_address`, `ip_type`) VALUES ('52.172.86.48/29', 'IPv4');
+INSERT INTO `azure_azurearcinfrastructure.southindia_ips` (`ip_address`, `ip_type`) VALUES ('74.225.45.147/32', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.southindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:c06:6::210/124', 'IPv6');
+INSERT INTO `azure_azurearcinfrastructure.southindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:c06:b::2fa/128', 'IPv6');

@@ -21,7 +21,6 @@ ip_address,ip_type,service,region
 2603:1020:d04:5::400/122,IPv6,AzureMonitor.GermanyNorth,germanyn
 2603:1020:d04:5::580/121,IPv6,AzureMonitor.GermanyNorth,germanyn
 2603:1020:d04:5::7c0/123,IPv6,AzureMonitor.GermanyNorth,germanyn
-2603:1020:d04:9::2a0/124,IPv6,AzureMonitor.GermanyNorth,germanyn
 2603:1020:d04:9::400/120,IPv6,AzureMonitor.GermanyNorth,germanyn
 2603:1020:d04:9::740/123,IPv6,AzureMonitor.GermanyNorth,germanyn
 2603:1020:d04:402::500/121,IPv6,AzureMonitor.GermanyNorth,germanyn

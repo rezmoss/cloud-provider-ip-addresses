@@ -31,5 +31,6 @@ INSERT INTO `azure_storage.canadacentral_ips` (`ip_address`, `ip_type`) VALUES (
 INSERT INTO `azure_storage.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('52.239.189.0/24', 'IPv4');
 INSERT INTO `azure_storage.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('57.150.54.0/23', 'IPv4');
 INSERT INTO `azure_storage.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('135.130.52.0/23', 'IPv4');
+INSERT INTO `azure_storage.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('135.130.250.0/23', 'IPv4');
 INSERT INTO `azure_storage.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('145.190.132.0/24', 'IPv4');
 INSERT INTO `azure_storage.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f08::/48', 'IPv6');

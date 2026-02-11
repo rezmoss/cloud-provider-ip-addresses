@@ -38,7 +38,6 @@ INSERT INTO `azure_azuremonitor.uaenorth_ips` (`ip_address`, `ip_type`) VALUES (
 INSERT INTO `azure_azuremonitor.uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:904:1::280/122', 'IPv6');
 INSERT INTO `azure_azuremonitor.uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:904:3::680/123', 'IPv6');
 INSERT INTO `azure_azuremonitor.uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:904:3::6c0/122', 'IPv6');
-INSERT INTO `azure_azuremonitor.uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:904:7::7b0/124', 'IPv6');
 INSERT INTO `azure_azuremonitor.uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:904:8::500/120', 'IPv6');
 INSERT INTO `azure_azuremonitor.uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:904:8::660/123', 'IPv6');
 INSERT INTO `azure_azuremonitor.uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:904:402::500/121', 'IPv6');

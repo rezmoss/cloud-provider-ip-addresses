@@ -37,6 +37,9 @@ INSERT INTO `azure_marketplace_ips` (`ip_address`, `ip_type`) VALUES ('20.49.121
 INSERT INTO `azure_marketplace_ips` (`ip_address`, `ip_type`) VALUES ('20.49.121.160/28', 'IPv4');
 INSERT INTO `azure_marketplace_ips` (`ip_address`, `ip_type`) VALUES ('20.50.65.112/28', 'IPv4');
 INSERT INTO `azure_marketplace_ips` (`ip_address`, `ip_type`) VALUES ('20.50.68.32/28', 'IPv4');
+INSERT INTO `azure_marketplace_ips` (`ip_address`, `ip_type`) VALUES ('20.51.45.4/31', 'IPv4');
+INSERT INTO `azure_marketplace_ips` (`ip_address`, `ip_type`) VALUES ('20.51.45.8/29', 'IPv4');
+INSERT INTO `azure_marketplace_ips` (`ip_address`, `ip_type`) VALUES ('20.51.45.16/28', 'IPv4');
 INSERT INTO `azure_marketplace_ips` (`ip_address`, `ip_type`) VALUES ('20.59.84.184/29', 'IPv4');
 INSERT INTO `azure_marketplace_ips` (`ip_address`, `ip_type`) VALUES ('20.59.85.0/25', 'IPv4');
 INSERT INTO `azure_marketplace_ips` (`ip_address`, `ip_type`) VALUES ('20.59.85.128/26', 'IPv4');

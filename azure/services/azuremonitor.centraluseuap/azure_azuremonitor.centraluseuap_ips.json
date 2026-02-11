@@ -132,12 +132,6 @@
     "region": "centraluseuap"
   },
   {
-    "ip_address": "2603:1030:f:e::3d0/124",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
     "ip_address": "2603:1030:f:f::500/120",
     "ip_type": "IPv6",
     "service": "AzureMonitor.CentralUSEUAP",

@@ -300,6 +300,12 @@
     "region": "austriaeast"
   },
   {
+    "ip_address": "151.206.153.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.austriaeast",
+    "region": "austriaeast"
+  },
+  {
     "ip_address": "209.199.22.176/28",
     "ip_type": "IPv4",
     "service": "AzureCloud.austriaeast",

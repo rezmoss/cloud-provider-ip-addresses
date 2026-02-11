@@ -108,12 +108,6 @@
     "region": "belgiumcentral"
   },
   {
-    "ip_address": "2603:1020:1502:3::670/124",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.BelgiumCentral",
-    "region": "belgiumcentral"
-  },
-  {
     "ip_address": "2603:1020:1502:5::260/123",
     "ip_type": "IPv6",
     "service": "AzureMonitor.BelgiumCentral",

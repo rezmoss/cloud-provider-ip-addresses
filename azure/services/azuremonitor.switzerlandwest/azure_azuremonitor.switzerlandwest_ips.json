@@ -126,12 +126,6 @@
     "region": "switzerlandw"
   },
   {
-    "ip_address": "2603:1020:b04:7::360/124",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.SwitzerlandWest",
-    "region": "switzerlandw"
-  },
-  {
     "ip_address": "2603:1020:b04:9::80/123",
     "ip_type": "IPv6",
     "service": "AzureMonitor.SwitzerlandWest",

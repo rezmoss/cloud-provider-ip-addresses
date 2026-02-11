@@ -18,6 +18,12 @@
     "region": "australiasoutheast"
   },
   {
+    "ip_address": "20.45.151.53/32",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  },
+  {
     "ip_address": "20.211.230.248/29",
     "ip_type": "IPv4",
     "service": "AzureArcInfrastructure.AustraliaSoutheast",
@@ -49,6 +55,12 @@
   },
   {
     "ip_address": "2603:1010:207::710/124",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  },
+  {
+    "ip_address": "2603:1010:207:4::4d4/128",
     "ip_type": "IPv6",
     "service": "AzureArcInfrastructure.AustraliaSoutheast",
     "region": "australiasoutheast"

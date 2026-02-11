@@ -15,3 +15,5 @@ INSERT INTO `azure_azurearcinfrastructure.canadacentral_ips` (`ip_address`, `ip_
 INSERT INTO `azure_azurearcinfrastructure.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('20.220.7.208/31', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('52.228.84.80/30', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('52.246.157.2/31', 'IPv4');
+INSERT INTO `azure_azurearcinfrastructure.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('145.191.108.225/32', 'IPv4');
+INSERT INTO `azure_azurearcinfrastructure.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f05:d::6f5/128', 'IPv6');

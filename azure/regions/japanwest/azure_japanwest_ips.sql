@@ -40,6 +40,8 @@ INSERT INTO `azure_japanwest_ips` (`ip_address`, `ip_type`) VALUES ('4.190.132.4
 INSERT INTO `azure_japanwest_ips` (`ip_address`, `ip_type`) VALUES ('4.190.132.184/29', 'IPv4');
 INSERT INTO `azure_japanwest_ips` (`ip_address`, `ip_type`) VALUES ('40.74.102.16/30', 'IPv4');
 INSERT INTO `azure_japanwest_ips` (`ip_address`, `ip_type`) VALUES ('40.80.59.24/30', 'IPv4');
+INSERT INTO `azure_japanwest_ips` (`ip_address`, `ip_type`) VALUES ('172.192.187.112/32', 'IPv4');
+INSERT INTO `azure_japanwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:606:b::637/128', 'IPv6');
 INSERT INTO `azure_japanwest_ips` (`ip_address`, `ip_type`) VALUES ('20.63.252.136/29', 'IPv4');
 INSERT INTO `azure_japanwest_ips` (`ip_address`, `ip_type`) VALUES ('20.189.225.84/30', 'IPv4');
 INSERT INTO `azure_japanwest_ips` (`ip_address`, `ip_type`) VALUES ('40.80.180.196/30', 'IPv4');
@@ -179,7 +181,6 @@ INSERT INTO `azure_japanwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:6
 INSERT INTO `azure_japanwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:606:3::600/123', 'IPv6');
 INSERT INTO `azure_japanwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:606:3::780/121', 'IPv6');
 INSERT INTO `azure_japanwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:606:6::400/122', 'IPv6');
-INSERT INTO `azure_japanwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:606:9::7d0/124', 'IPv6');
 INSERT INTO `azure_japanwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:606:b::400/120', 'IPv6');
 INSERT INTO `azure_japanwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:606:b::5e0/123', 'IPv6');
 INSERT INTO `azure_japanwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:606:402::500/121', 'IPv6');
@@ -529,7 +530,6 @@ INSERT INTO `azure_japanwest_ips` (`ip_address`, `ip_type`) VALUES ('52.108.86.0
 INSERT INTO `azure_japanwest_ips` (`ip_address`, `ip_type`) VALUES ('52.109.132.0/22', 'IPv4');
 INSERT INTO `azure_japanwest_ips` (`ip_address`, `ip_type`) VALUES ('52.111.233.0/24', 'IPv4');
 INSERT INTO `azure_japanwest_ips` (`ip_address`, `ip_type`) VALUES ('52.112.73.0/24', 'IPv4');
-INSERT INTO `azure_japanwest_ips` (`ip_address`, `ip_type`) VALUES ('52.112.88.0/22', 'IPv4');
 INSERT INTO `azure_japanwest_ips` (`ip_address`, `ip_type`) VALUES ('52.113.14.0/24', 'IPv4');
 INSERT INTO `azure_japanwest_ips` (`ip_address`, `ip_type`) VALUES ('52.113.72.0/22', 'IPv4');
 INSERT INTO `azure_japanwest_ips` (`ip_address`, `ip_type`) VALUES ('52.113.87.0/24', 'IPv4');
@@ -573,6 +573,7 @@ INSERT INTO `azure_japanwest_ips` (`ip_address`, `ip_type`) VALUES ('104.215.0.0
 INSERT INTO `azure_japanwest_ips` (`ip_address`, `ip_type`) VALUES ('135.149.128.0/17', 'IPv4');
 INSERT INTO `azure_japanwest_ips` (`ip_address`, `ip_type`) VALUES ('138.91.16.0/20', 'IPv4');
 INSERT INTO `azure_japanwest_ips` (`ip_address`, `ip_type`) VALUES ('151.206.64.0/24', 'IPv4');
+INSERT INTO `azure_japanwest_ips` (`ip_address`, `ip_type`) VALUES ('151.206.163.0/24', 'IPv4');
 INSERT INTO `azure_japanwest_ips` (`ip_address`, `ip_type`) VALUES ('172.192.128.0/17', 'IPv4');
 INSERT INTO `azure_japanwest_ips` (`ip_address`, `ip_type`) VALUES ('191.233.32.0/20', 'IPv4');
 INSERT INTO `azure_japanwest_ips` (`ip_address`, `ip_type`) VALUES ('191.237.236.0/24', 'IPv4');

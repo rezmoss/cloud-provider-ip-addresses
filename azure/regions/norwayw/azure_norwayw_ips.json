@@ -702,12 +702,6 @@
     "region": "norwayw"
   },
   {
-    "ip_address": "2603:1020:f04:9::220/124",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.NorwayWest",
-    "region": "norwayw"
-  },
-  {
     "ip_address": "2603:1020:f04:9::580/123",
     "ip_type": "IPv6",
     "service": "AzureMonitor.NorwayWest",

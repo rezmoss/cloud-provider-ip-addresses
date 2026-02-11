@@ -180,12 +180,6 @@
     "region": "japanwest"
   },
   {
-    "ip_address": "2603:1040:606:9::7d0/124",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.JapanWest",
-    "region": "japanwest"
-  },
-  {
     "ip_address": "2603:1040:606:b::400/120",
     "ip_type": "IPv6",
     "service": "AzureMonitor.JapanWest",

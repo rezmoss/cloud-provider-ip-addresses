@@ -24,7 +24,6 @@ INSERT INTO `azure_azuremonitor.southafricawest_ips` (`ip_address`, `ip_type`) V
 INSERT INTO `azure_azuremonitor.southafricawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1000:4:2::500/121', 'IPv6');
 INSERT INTO `azure_azuremonitor.southafricawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1000:4:2::7c0/123', 'IPv6');
 INSERT INTO `azure_azuremonitor.southafricawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1000:4:5::/122', 'IPv6');
-INSERT INTO `azure_azuremonitor.southafricawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1000:4:7::e0/124', 'IPv6');
 INSERT INTO `azure_azuremonitor.southafricawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1000:4:7::200/120', 'IPv6');
 INSERT INTO `azure_azuremonitor.southafricawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1000:4:7::3c0/123', 'IPv6');
 INSERT INTO `azure_azuremonitor.southafricawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1000:4:402::500/121', 'IPv6');

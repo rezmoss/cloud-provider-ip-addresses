@@ -558,6 +558,12 @@
     "region": "southindia"
   },
   {
+    "ip_address": "151.206.147.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southindia",
+    "region": "southindia"
+  },
+  {
     "ip_address": "2603:1040:c00::/46",
     "ip_type": "IPv6",
     "service": "AzureCloud.southindia",

@@ -168,6 +168,12 @@
     "region": "koreasouth"
   },
   {
+    "ip_address": "4.243.159.243/32",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
     "ip_address": "40.80.172.12/30",
     "ip_type": "IPv4",
     "service": "AzureArcInfrastructure.KoreaSouth",
@@ -193,6 +199,12 @@
   },
   {
     "ip_address": "2603:1040:e05:7::6ec/128",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:9::733/128",
     "ip_type": "IPv6",
     "service": "AzureArcInfrastructure.KoreaSouth",
     "region": "koreasouth"
@@ -775,12 +787,6 @@
   },
   {
     "ip_address": "2603:1040:e05:6::680/122",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.KoreaSouth",
-    "region": "koreasouth"
-  },
-  {
-    "ip_address": "2603:1040:e05:9::d0/124",
     "ip_type": "IPv6",
     "service": "AzureMonitor.KoreaSouth",
     "region": "koreasouth"
@@ -2022,7 +2028,7 @@
     "region": "koreasouth"
   },
   {
-    "ip_address": "52.113.110.0/23",
+    "ip_address": "52.113.111.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.koreasouth",
     "region": "koreasouth"
@@ -2125,6 +2131,12 @@
   },
   {
     "ip_address": "151.206.67.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "151.206.164.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.koreasouth",
     "region": "koreasouth"

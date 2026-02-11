@@ -23,9 +23,11 @@ INSERT INTO `azure_spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('68.221.4
 INSERT INTO `azure_spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('68.221.98.112/32', 'IPv4');
 INSERT INTO `azure_spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('70.156.91.182/32', 'IPv4');
 INSERT INTO `azure_spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('70.156.91.188/30', 'IPv4');
+INSERT INTO `azure_spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('158.158.133.70/32', 'IPv4');
 INSERT INTO `azure_spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1403:2::570/124', 'IPv6');
 INSERT INTO `azure_spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1403:5::37d/128', 'IPv6');
 INSERT INTO `azure_spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1403:5::37e/127', 'IPv6');
+INSERT INTO `azure_spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1403:7::4dc/128', 'IPv6');
 INSERT INTO `azure_spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('68.221.84.152/30', 'IPv4');
 INSERT INTO `azure_spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('70.156.172.240/29', 'IPv4');
 INSERT INTO `azure_spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1403::5e0/124', 'IPv6');
@@ -113,7 +115,6 @@ INSERT INTO `azure_spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:102
 INSERT INTO `azure_spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1403:2::40/122', 'IPv6');
 INSERT INTO `azure_spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1403:2::380/121', 'IPv6');
 INSERT INTO `azure_spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1403:2::400/120', 'IPv6');
-INSERT INTO `azure_spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1403:7::110/124', 'IPv6');
 INSERT INTO `azure_spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1403:7::300/120', 'IPv6');
 INSERT INTO `azure_spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1403:7::440/123', 'IPv6');
 INSERT INTO `azure_spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('68.221.40.32/27', 'IPv4');
@@ -270,8 +271,8 @@ INSERT INTO `azure_spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('40.102.1
 INSERT INTO `azure_spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('40.120.144.0/24', 'IPv4');
 INSERT INTO `azure_spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('40.120.145.0/25', 'IPv4');
 INSERT INTO `azure_spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('40.120.145.128/26', 'IPv4');
-INSERT INTO `azure_spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('40.120.145.192/28', 'IPv4');
-INSERT INTO `azure_spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('40.120.145.208/30', 'IPv4');
+INSERT INTO `azure_spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('40.120.145.192/27', 'IPv4');
+INSERT INTO `azure_spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('40.120.145.224/29', 'IPv4');
 INSERT INTO `azure_spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('48.208.40.0/24', 'IPv4');
 INSERT INTO `azure_spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('48.212.43.0/24', 'IPv4');
 INSERT INTO `azure_spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('48.212.170.0/24', 'IPv4');
@@ -296,6 +297,7 @@ INSERT INTO `azure_spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('68.221.0
 INSERT INTO `azure_spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('70.152.45.0/24', 'IPv4');
 INSERT INTO `azure_spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('70.156.0.0/16', 'IPv4');
 INSERT INTO `azure_spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('135.130.58.0/23', 'IPv4');
+INSERT INTO `azure_spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('151.206.167.0/24', 'IPv4');
 INSERT INTO `azure_spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('158.158.0.0/16', 'IPv4');
 INSERT INTO `azure_spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('209.199.16.0/24', 'IPv4');
 INSERT INTO `azure_spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('209.199.17.0/26', 'IPv4');
@@ -316,7 +318,8 @@ INSERT INTO `azure_spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:106
 INSERT INTO `azure_spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1008:b0::/61', 'IPv6');
 INSERT INTO `azure_spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1008:b8::/62', 'IPv6');
 INSERT INTO `azure_spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1008:c0::/59', 'IPv6');
-INSERT INTO `azure_spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1008:e0::/63', 'IPv6');
+INSERT INTO `azure_spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1008:e0::/61', 'IPv6');
+INSERT INTO `azure_spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1008:e8::/62', 'IPv6');
 INSERT INTO `azure_spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1311:3400::/54', 'IPv6');
 INSERT INTO `azure_spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1738::/48', 'IPv6');
 INSERT INTO `azure_spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2000:5e0::/62', 'IPv6');

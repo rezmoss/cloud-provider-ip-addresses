@@ -246,12 +246,6 @@
     "region": "koreacentral"
   },
   {
-    "ip_address": "2603:1040:f05:b::700/124",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.KoreaCentral",
-    "region": "koreacentral"
-  },
-  {
     "ip_address": "2603:1040:f05:c::100/120",
     "ip_type": "IPv6",
     "service": "AzureMonitor.KoreaCentral",

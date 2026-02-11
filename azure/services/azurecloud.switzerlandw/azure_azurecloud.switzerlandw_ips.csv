@@ -55,6 +55,7 @@ ip_address,ip_type,service,region
 52.239.250.0/24,IPv4,AzureCloud.switzerlandw,switzerlandw
 52.253.166.0/24,IPv4,AzureCloud.switzerlandw,switzerlandw
 57.150.22.0/24,IPv4,AzureCloud.switzerlandw,switzerlandw
+57.160.0.0/17,IPv4,AzureCloud.switzerlandw,switzerlandw
 70.152.30.0/24,IPv4,AzureCloud.switzerlandw,switzerlandw
 74.242.0.0/18,IPv4,AzureCloud.switzerlandw,switzerlandw
 74.242.64.0/21,IPv4,AzureCloud.switzerlandw,switzerlandw

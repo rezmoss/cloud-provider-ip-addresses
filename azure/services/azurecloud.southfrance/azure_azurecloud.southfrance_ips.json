@@ -390,6 +390,12 @@
     "region": "southfrance"
   },
   {
+    "ip_address": "151.206.168.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southfrance",
+    "region": "southfrance"
+  },
+  {
     "ip_address": "2603:1020:900::/47",
     "ip_type": "IPv6",
     "service": "AzureCloud.southfrance",

@@ -618,12 +618,6 @@
     "region": "brazilse"
   },
   {
-    "ip_address": "2603:1050:403:7::2e0/124",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.BrazilSoutheast",
-    "region": "brazilse"
-  },
-  {
     "ip_address": "2603:1050:403:7::660/123",
     "ip_type": "IPv6",
     "service": "AzureMonitor.BrazilSoutheast",

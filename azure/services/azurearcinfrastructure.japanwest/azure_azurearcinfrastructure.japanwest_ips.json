@@ -22,5 +22,17 @@
     "ip_type": "IPv4",
     "service": "AzureArcInfrastructure.JapanWest",
     "region": "japanwest"
+  },
+  {
+    "ip_address": "172.192.187.112/32",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.JapanWest",
+    "region": "japanwest"
+  },
+  {
+    "ip_address": "2603:1040:606:b::637/128",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.JapanWest",
+    "region": "japanwest"
   }
 ]

@@ -1,9 +1,11 @@
 ip_address,ip_type,service,region
 20.44.19.6/31,IPv4,AzureArcInfrastructure.EastUS2,eastus2
 20.49.99.12/30,IPv4,AzureArcInfrastructure.EastUS2,eastus2
+20.49.101.9/32,IPv4,AzureArcInfrastructure.EastUS2,eastus2
 20.49.102.212/30,IPv4,AzureArcInfrastructure.EastUS2,eastus2
 40.70.151.194/32,IPv4,AzureArcInfrastructure.EastUS2,eastus2
 40.70.151.196/30,IPv4,AzureArcInfrastructure.EastUS2,eastus2
 52.167.111.168/31,IPv4,AzureArcInfrastructure.EastUS2,eastus2
 74.249.120.4/31,IPv4,AzureArcInfrastructure.EastUS2,eastus2
 74.249.127.128/29,IPv4,AzureArcInfrastructure.EastUS2,eastus2
+2603:1030:40c:23::1a0/128,IPv6,AzureArcInfrastructure.EastUS2,eastus2

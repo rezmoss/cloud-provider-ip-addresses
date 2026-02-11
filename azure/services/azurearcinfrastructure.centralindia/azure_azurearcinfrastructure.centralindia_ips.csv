@@ -7,3 +7,5 @@ ip_address,ip_type,service,region
 40.80.53.2/31,IPv4,AzureArcInfrastructure.CentralIndia,centralindia
 52.140.107.92/30,IPv4,AzureArcInfrastructure.CentralIndia,centralindia
 52.140.110.108/30,IPv4,AzureArcInfrastructure.CentralIndia,centralindia
+57.159.92.207/32,IPv4,AzureArcInfrastructure.CentralIndia,centralindia
+2603:1040:a06:c::2bf/128,IPv6,AzureArcInfrastructure.CentralIndia,centralindia

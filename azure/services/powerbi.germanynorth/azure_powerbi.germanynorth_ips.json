@@ -18,6 +18,18 @@
     "region": "germanyn"
   },
   {
+    "ip_address": "20.170.251.112/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "20.170.251.128/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
     "ip_address": "51.116.48.68/31",
     "ip_type": "IPv4",
     "service": "PowerBI.GermanyNorth",

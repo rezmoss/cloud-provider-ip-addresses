@@ -28,6 +28,5 @@ INSERT INTO `azure_azuremonitor.centraluseuap_ips` (`ip_address`, `ip_type`) VAL
 INSERT INTO `azure_azuremonitor.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f:2::300/121', 'IPv6');
 INSERT INTO `azure_azuremonitor.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f:a::c0/123', 'IPv6');
 INSERT INTO `azure_azuremonitor.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f:a::100/122', 'IPv6');
-INSERT INTO `azure_azuremonitor.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f:e::3d0/124', 'IPv6');
 INSERT INTO `azure_azuremonitor.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f:f::500/120', 'IPv6');
 INSERT INTO `azure_azuremonitor.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f:400::d00/121', 'IPv6');

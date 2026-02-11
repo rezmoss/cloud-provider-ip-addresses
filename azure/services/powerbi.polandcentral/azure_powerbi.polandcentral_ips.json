@@ -48,6 +48,12 @@
     "region": "polandcentral"
   },
   {
+    "ip_address": "134.112.169.96/29",
+    "ip_type": "IPv4",
+    "service": "PowerBI.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
     "ip_address": "2603:1020:1302:1::1e0/123",
     "ip_type": "IPv6",
     "service": "PowerBI.PolandCentral",

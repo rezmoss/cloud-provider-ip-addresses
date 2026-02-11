@@ -168,12 +168,6 @@
     "region": "ukwest"
   },
   {
-    "ip_address": "2603:1020:605:a::5d0/124",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.UKWest",
-    "region": "ukwest"
-  },
-  {
     "ip_address": "2603:1020:605:b::600/120",
     "ip_type": "IPv6",
     "service": "AzureMonitor.UKWest",

@@ -145,6 +145,7 @@ ip_address,ip_type,service,region
 52.121.124.0/22,IPv4,AzureCloud.centralindia,centralindia
 52.123.23.0/24,IPv4,AzureCloud.centralindia,centralindia
 52.123.31.0/24,IPv4,AzureCloud.centralindia,centralindia
+52.123.127.0/24,IPv4,AzureCloud.centralindia,centralindia
 52.123.164.0/24,IPv4,AzureCloud.centralindia,centralindia
 52.136.24.0/24,IPv4,AzureCloud.centralindia,centralindia
 52.140.64.0/18,IPv4,AzureCloud.centralindia,centralindia
@@ -170,6 +171,7 @@ ip_address,ip_type,service,region
 135.130.174.0/23,IPv4,AzureCloud.centralindia,centralindia
 135.235.128.0/17,IPv4,AzureCloud.centralindia,centralindia
 151.206.68.128/25,IPv4,AzureCloud.centralindia,centralindia
+151.206.148.0/24,IPv4,AzureCloud.centralindia,centralindia
 2603:1040:a00::/46,IPv6,AzureCloud.centralindia,centralindia
 2603:1040:a05::/48,IPv6,AzureCloud.centralindia,centralindia
 2603:1040:a06::/47,IPv6,AzureCloud.centralindia,centralindia

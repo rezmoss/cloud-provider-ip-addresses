@@ -132,12 +132,6 @@
     "region": "taiwannorth"
   },
   {
-    "ip_address": "2603:1040:1302:6::2e0/124",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.TaiwanNorth",
-    "region": "taiwannorth"
-  },
-  {
     "ip_address": "2603:1040:1302:7::20/123",
     "ip_type": "IPv6",
     "service": "AzureMonitor.TaiwanNorth",

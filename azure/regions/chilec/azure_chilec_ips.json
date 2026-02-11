@@ -462,12 +462,6 @@
     "region": "chilec"
   },
   {
-    "ip_address": "68.211.31.144/28",
-    "ip_type": "IPv4",
-    "service": "AzureMonitor.ChileCentral",
-    "region": "chilec"
-  },
-  {
     "ip_address": "68.211.154.184/29",
     "ip_type": "IPv4",
     "service": "AzureMonitor.ChileCentral",
@@ -535,12 +529,6 @@
   },
   {
     "ip_address": "2603:1050:301:2::600/120",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.ChileCentral",
-    "region": "chilec"
-  },
-  {
-    "ip_address": "2603:1050:301:4::390/124",
     "ip_type": "IPv6",
     "service": "AzureMonitor.ChileCentral",
     "region": "chilec"
@@ -1074,6 +1062,12 @@
     "region": "chilec"
   },
   {
+    "ip_address": "57.156.75.168/29",
+    "ip_type": "IPv4",
+    "service": "StorageSyncService.ChileCentral",
+    "region": "chilec"
+  },
+  {
     "ip_address": "68.211.152.48/29",
     "ip_type": "IPv4",
     "service": "StorageSyncService.ChileCentral",
@@ -1083,6 +1077,18 @@
     "ip_address": "2603:1050:301:400::120/123",
     "ip_type": "IPv6",
     "service": "StorageSyncService.ChileCentral",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "57.156.5.248/29",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.ChileCentral",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "57.156.73.192/28",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.ChileCentral",
     "region": "chilec"
   },
   {

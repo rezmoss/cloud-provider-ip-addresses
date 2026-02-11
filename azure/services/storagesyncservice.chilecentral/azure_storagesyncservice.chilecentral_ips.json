@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "57.156.75.168/29",
+    "ip_type": "IPv4",
+    "service": "StorageSyncService.ChileCentral",
+    "region": "chilec"
+  },
+  {
     "ip_address": "68.211.152.48/29",
     "ip_type": "IPv4",
     "service": "StorageSyncService.ChileCentral",

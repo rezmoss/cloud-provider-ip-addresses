@@ -666,12 +666,6 @@
     "region": "australiacentral"
   },
   {
-    "ip_address": "20.37.59.32/28",
-    "ip_type": "IPv4",
-    "service": "AzureMonitor.AustraliaCentral",
-    "region": "australiacentral"
-  },
-  {
     "ip_address": "20.37.227.16/28",
     "ip_type": "IPv4",
     "service": "AzureMonitor.AustraliaCentral",
@@ -769,12 +763,6 @@
   },
   {
     "ip_address": "2603:1010:304:5::7e0/123",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.AustraliaCentral",
-    "region": "australiacentral"
-  },
-  {
-    "ip_address": "2603:1010:304:9::500/124",
     "ip_type": "IPv6",
     "service": "AzureMonitor.AustraliaCentral",
     "region": "australiacentral"

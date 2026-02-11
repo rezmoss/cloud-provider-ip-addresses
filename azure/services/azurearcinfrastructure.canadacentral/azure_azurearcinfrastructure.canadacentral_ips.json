@@ -52,5 +52,17 @@
     "ip_type": "IPv4",
     "service": "AzureArcInfrastructure.CanadaCentral",
     "region": "canadacentral"
+  },
+  {
+    "ip_address": "145.191.108.225/32",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "2603:1030:f05:d::6f5/128",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.CanadaCentral",
+    "region": "canadacentral"
   }
 ]

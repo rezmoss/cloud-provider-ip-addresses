@@ -102,7 +102,31 @@
     "region": "centraluseuap"
   },
   {
+    "ip_address": "135.130.247.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "135.130.252.0/25",
+    "ip_type": "IPv4",
+    "service": "Storage.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "135.130.254.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
     "ip_address": "2603:1030:12::/49",
+    "ip_type": "IPv6",
+    "service": "Storage.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:12:8000::/64",
     "ip_type": "IPv6",
     "service": "Storage.CentralUSEUAP",
     "region": "centraluseuap"

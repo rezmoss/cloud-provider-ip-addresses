@@ -60,6 +60,12 @@
     "region": ""
   },
   {
+    "ip_address": "4.191.89.64/26",
+    "ip_type": "IPv4",
+    "service": "PowerBI",
+    "region": ""
+  },
+  {
     "ip_address": "4.192.250.208/28",
     "ip_type": "IPv4",
     "service": "PowerBI",
@@ -139,6 +145,12 @@
   },
   {
     "ip_address": "4.207.247.176/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI",
+    "region": ""
+  },
+  {
+    "ip_address": "4.208.118.128/26",
     "ip_type": "IPv4",
     "service": "PowerBI",
     "region": ""
@@ -1080,6 +1092,12 @@
     "region": ""
   },
   {
+    "ip_address": "20.66.132.0/26",
+    "ip_type": "IPv4",
+    "service": "PowerBI",
+    "region": ""
+  },
+  {
     "ip_address": "20.69.4.224/28",
     "ip_type": "IPv4",
     "service": "PowerBI",
@@ -1459,6 +1477,18 @@
   },
   {
     "ip_address": "20.170.220.184/29",
+    "ip_type": "IPv4",
+    "service": "PowerBI",
+    "region": ""
+  },
+  {
+    "ip_address": "20.170.251.112/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI",
+    "region": ""
+  },
+  {
+    "ip_address": "20.170.251.128/28",
     "ip_type": "IPv4",
     "service": "PowerBI",
     "region": ""
@@ -2130,6 +2160,12 @@
     "region": ""
   },
   {
+    "ip_address": "48.195.64.64/26",
+    "ip_type": "IPv4",
+    "service": "PowerBI",
+    "region": ""
+  },
+  {
     "ip_address": "48.196.95.150/31",
     "ip_type": "IPv4",
     "service": "PowerBI",
@@ -2185,6 +2221,12 @@
   },
   {
     "ip_address": "48.199.6.192/26",
+    "ip_type": "IPv4",
+    "service": "PowerBI",
+    "region": ""
+  },
+  {
+    "ip_address": "48.204.184.0/26",
     "ip_type": "IPv4",
     "service": "PowerBI",
     "region": ""
@@ -3427,6 +3469,12 @@
   },
   {
     "ip_address": "131.145.145.192/27",
+    "ip_type": "IPv4",
+    "service": "PowerBI",
+    "region": ""
+  },
+  {
+    "ip_address": "134.112.169.96/29",
     "ip_type": "IPv4",
     "service": "PowerBI",
     "region": ""

@@ -150,12 +150,6 @@
     "region": "swedensouth"
   },
   {
-    "ip_address": "2603:1020:1104:6::6e0/124",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.SwedenSouth",
-    "region": "swedensouth"
-  },
-  {
     "ip_address": "2603:1020:1104:7::7a0/123",
     "ip_type": "IPv6",
     "service": "AzureMonitor.SwedenSouth",

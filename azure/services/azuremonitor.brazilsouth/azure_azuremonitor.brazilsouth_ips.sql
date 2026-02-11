@@ -15,7 +15,6 @@ INSERT INTO `azure_azuremonitor.brazilsouth_ips` (`ip_address`, `ip_type`) VALUE
 INSERT INTO `azure_azuremonitor.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('20.195.154.32/29', 'IPv4');
 INSERT INTO `azure_azuremonitor.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('20.206.183.64/28', 'IPv4');
 INSERT INTO `azure_azuremonitor.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('20.226.211.224/27', 'IPv4');
-INSERT INTO `azure_azuremonitor.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('51.59.56.160/28', 'IPv4');
 INSERT INTO `azure_azuremonitor.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('104.41.61.169/32', 'IPv4');
 INSERT INTO `azure_azuremonitor.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('191.232.33.83/32', 'IPv4');
 INSERT INTO `azure_azuremonitor.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('191.232.161.75/32', 'IPv4');
@@ -46,7 +45,6 @@ INSERT INTO `azure_azuremonitor.brazilsouth_ips` (`ip_address`, `ip_type`) VALUE
 INSERT INTO `azure_azuremonitor.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:6:1::280/122', 'IPv6');
 INSERT INTO `azure_azuremonitor.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:6:7::/122', 'IPv6');
 INSERT INTO `azure_azuremonitor.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:6:7::40/123', 'IPv6');
-INSERT INTO `azure_azuremonitor.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:6:a::460/124', 'IPv6');
 INSERT INTO `azure_azuremonitor.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:6:b::400/120', 'IPv6');
 INSERT INTO `azure_azuremonitor.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:6:b::720/123', 'IPv6');
 INSERT INTO `azure_azuremonitor.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:6:402::580/121', 'IPv6');

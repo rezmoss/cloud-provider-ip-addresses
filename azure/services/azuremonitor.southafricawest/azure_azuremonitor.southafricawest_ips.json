@@ -108,12 +108,6 @@
     "region": "southafricawest"
   },
   {
-    "ip_address": "2603:1000:4:7::e0/124",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.SouthAfricaWest",
-    "region": "southafricawest"
-  },
-  {
     "ip_address": "2603:1000:4:7::200/120",
     "ip_type": "IPv6",
     "service": "AzureMonitor.SouthAfricaWest",

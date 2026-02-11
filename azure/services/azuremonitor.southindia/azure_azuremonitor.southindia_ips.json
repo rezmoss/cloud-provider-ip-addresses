@@ -138,12 +138,6 @@
     "region": "southindia"
   },
   {
-    "ip_address": "2603:1040:c06:a::5a0/124",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.SouthIndia",
-    "region": "southindia"
-  },
-  {
     "ip_address": "2603:1040:c06:b::100/120",
     "ip_type": "IPv6",
     "service": "AzureMonitor.SouthIndia",

@@ -117,7 +117,6 @@ ip_address,ip_type,service,region
 52.109.132.0/22,IPv4,AzureCloud.japanwest,japanwest
 52.111.233.0/24,IPv4,AzureCloud.japanwest,japanwest
 52.112.73.0/24,IPv4,AzureCloud.japanwest,japanwest
-52.112.88.0/22,IPv4,AzureCloud.japanwest,japanwest
 52.113.14.0/24,IPv4,AzureCloud.japanwest,japanwest
 52.113.72.0/22,IPv4,AzureCloud.japanwest,japanwest
 52.113.87.0/24,IPv4,AzureCloud.japanwest,japanwest
@@ -161,6 +160,7 @@ ip_address,ip_type,service,region
 135.149.128.0/17,IPv4,AzureCloud.japanwest,japanwest
 138.91.16.0/20,IPv4,AzureCloud.japanwest,japanwest
 151.206.64.0/24,IPv4,AzureCloud.japanwest,japanwest
+151.206.163.0/24,IPv4,AzureCloud.japanwest,japanwest
 172.192.128.0/17,IPv4,AzureCloud.japanwest,japanwest
 191.233.32.0/20,IPv4,AzureCloud.japanwest,japanwest
 191.237.236.0/24,IPv4,AzureCloud.japanwest,japanwest

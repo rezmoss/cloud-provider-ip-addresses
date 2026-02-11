@@ -894,13 +894,19 @@
     "region": "centralfrance"
   },
   {
-    "ip_address": "57.157.37.0/28",
+    "ip_address": "57.157.37.0/27",
     "ip_type": "IPv4",
     "service": "AzureCloud.centralfrance",
     "region": "centralfrance"
   },
   {
-    "ip_address": "57.157.37.16/29",
+    "ip_address": "57.157.37.32/29",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.centralfrance",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "57.157.37.40/30",
     "ip_type": "IPv4",
     "service": "AzureCloud.centralfrance",
     "region": "centralfrance"

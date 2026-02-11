@@ -1,6 +1,7 @@
 ip_address,ip_type,service,region
 4.226.166.16/30,IPv4,AzureArcInfrastructure.SwitzerlandWest,switzerlandw
 4.226.166.20/32,IPv4,AzureArcInfrastructure.SwitzerlandWest,switzerlandw
+4.226.254.162/32,IPv4,AzureArcInfrastructure.SwitzerlandWest,switzerlandw
 51.107.146.52/30,IPv4,AzureArcInfrastructure.SwitzerlandWest,switzerlandw
 51.107.193.4/30,IPv4,AzureArcInfrastructure.SwitzerlandWest,switzerlandw
 74.242.3.192/29,IPv4,AzureArcInfrastructure.SwitzerlandWest,switzerlandw
@@ -8,3 +9,4 @@ ip_address,ip_type,service,region
 2603:1020:b04:5::5b0/124,IPv6,AzureArcInfrastructure.SwitzerlandWest,switzerlandw
 2603:1020:b04:8::749/128,IPv6,AzureArcInfrastructure.SwitzerlandWest,switzerlandw
 2603:1020:b04:8::74a/127,IPv6,AzureArcInfrastructure.SwitzerlandWest,switzerlandw
+2603:1020:b04:8::74d/128,IPv6,AzureArcInfrastructure.SwitzerlandWest,switzerlandw

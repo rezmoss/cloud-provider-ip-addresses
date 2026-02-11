@@ -1350,12 +1350,6 @@
     "region": "northcentralus"
   },
   {
-    "ip_address": "2603:1030:608:13::400/122",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.NorthCentralUS",
-    "region": "northcentralus"
-  },
-  {
     "ip_address": "2603:1030:608:14::200/120",
     "ip_type": "IPv6",
     "service": "AzureMonitor.NorthCentralUS",
@@ -2844,6 +2838,12 @@
     "region": "northcentralus"
   },
   {
+    "ip_address": "20.66.132.0/26",
+    "ip_type": "IPv4",
+    "service": "PowerBI.NorthCentralUS",
+    "region": "northcentralus"
+  },
+  {
     "ip_address": "40.80.184.70/31",
     "ip_type": "IPv4",
     "service": "PowerBI.NorthCentralUS",
@@ -3870,7 +3870,13 @@
     "region": "northcentralus"
   },
   {
-    "ip_address": "40.120.191.128/30",
+    "ip_address": "40.120.191.128/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.northcentralus",
+    "region": "northcentralus"
+  },
+  {
+    "ip_address": "40.120.191.144/29",
     "ip_type": "IPv4",
     "service": "AzureCloud.northcentralus",
     "region": "northcentralus"

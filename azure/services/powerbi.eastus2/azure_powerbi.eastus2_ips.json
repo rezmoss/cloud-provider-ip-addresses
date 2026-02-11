@@ -72,6 +72,12 @@
     "region": "eastus2"
   },
   {
+    "ip_address": "48.204.184.0/26",
+    "ip_type": "IPv4",
+    "service": "PowerBI.EastUS2",
+    "region": "eastus2"
+  },
+  {
     "ip_address": "74.249.120.64/26",
     "ip_type": "IPv4",
     "service": "PowerBI.EastUS2",

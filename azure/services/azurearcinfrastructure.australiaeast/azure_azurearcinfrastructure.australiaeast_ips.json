@@ -40,5 +40,17 @@
     "ip_type": "IPv4",
     "service": "AzureArcInfrastructure.AustraliaEast",
     "region": "australiaeast"
+  },
+  {
+    "ip_address": "48.215.89.121/32",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "2603:1010:6:e::686/128",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.AustraliaEast",
+    "region": "australiaeast"
   }
 ]

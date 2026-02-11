@@ -210,12 +210,6 @@
     "region": "eastus2euap"
   },
   {
-    "ip_address": "2603:1030:40b:f::4c0/124",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.EastUS2EUAP",
-    "region": "eastus2euap"
-  },
-  {
     "ip_address": "2603:1030:40b:10::500/120",
     "ip_type": "IPv6",
     "service": "AzureMonitor.EastUS2EUAP",

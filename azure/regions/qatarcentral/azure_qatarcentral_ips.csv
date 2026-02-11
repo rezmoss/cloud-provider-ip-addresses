@@ -20,7 +20,9 @@ ip_address,ip_type,service,region
 20.21.46.136/31,IPv4,AzureArcInfrastructure.QatarCentral,qatarcentral
 20.21.69.176/31,IPv4,AzureArcInfrastructure.QatarCentral,qatarcentral
 20.21.77.184/31,IPv4,AzureArcInfrastructure.QatarCentral,qatarcentral
+20.173.62.144/32,IPv4,AzureArcInfrastructure.QatarCentral,qatarcentral
 2603:1040:1002:5::420/124,IPv6,AzureArcInfrastructure.QatarCentral,qatarcentral
+2603:1040:1002:8::4c3/128,IPv6,AzureArcInfrastructure.QatarCentral,qatarcentral
 20.21.32.44/30,IPv4,AzureAttestation.QatarCentral,qatarcentral
 2603:1040:1002:1::80/124,IPv6,AzureAttestation.QatarCentral,qatarcentral
 20.21.36.128/26,IPv4,AzureBackup.QatarCentral,qatarcentral
@@ -145,7 +147,6 @@ ip_address,ip_type,service,region
 2603:1040:1002:2::700/121,IPv6,AzureMonitor.QatarCentral,qatarcentral
 2603:1040:1002:5::360/123,IPv6,AzureMonitor.QatarCentral,qatarcentral
 2603:1040:1002:5::5c0/122,IPv6,AzureMonitor.QatarCentral,qatarcentral
-2603:1040:1002:7::6c0/124,IPv6,AzureMonitor.QatarCentral,qatarcentral
 2603:1040:1002:8::300/120,IPv6,AzureMonitor.QatarCentral,qatarcentral
 2603:1040:1002:8::460/123,IPv6,AzureMonitor.QatarCentral,qatarcentral
 20.21.39.64/27,IPv4,AzurePortal.QatarCentral,qatarcentral

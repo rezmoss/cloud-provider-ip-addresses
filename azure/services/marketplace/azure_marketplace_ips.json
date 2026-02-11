@@ -186,6 +186,24 @@
     "region": ""
   },
   {
+    "ip_address": "20.51.45.4/31",
+    "ip_type": "IPv4",
+    "service": "Marketplace",
+    "region": ""
+  },
+  {
+    "ip_address": "20.51.45.8/29",
+    "ip_type": "IPv4",
+    "service": "Marketplace",
+    "region": ""
+  },
+  {
+    "ip_address": "20.51.45.16/28",
+    "ip_type": "IPv4",
+    "service": "Marketplace",
+    "region": ""
+  },
+  {
     "ip_address": "20.59.84.184/29",
     "ip_type": "IPv4",
     "service": "Marketplace",

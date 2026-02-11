@@ -10,3 +10,5 @@ INSERT INTO `azure_azurearcinfrastructure.japanwest_ips` (`ip_address`, `ip_type
 INSERT INTO `azure_azurearcinfrastructure.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('4.190.132.184/29', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('40.74.102.16/30', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('40.80.59.24/30', 'IPv4');
+INSERT INTO `azure_azurearcinfrastructure.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('172.192.187.112/32', 'IPv4');
+INSERT INTO `azure_azurearcinfrastructure.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:606:b::637/128', 'IPv6');

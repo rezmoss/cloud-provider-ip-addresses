@@ -12,6 +12,12 @@
     "region": "switzerlandw"
   },
   {
+    "ip_address": "4.226.254.162/32",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
     "ip_address": "51.107.146.52/30",
     "ip_type": "IPv4",
     "service": "AzureArcInfrastructure.SwitzerlandWest",
@@ -49,6 +55,12 @@
   },
   {
     "ip_address": "2603:1020:b04:8::74a/127",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "2603:1020:b04:8::74d/128",
     "ip_type": "IPv6",
     "service": "AzureArcInfrastructure.SwitzerlandWest",
     "region": "switzerlandw"

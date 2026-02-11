@@ -98,6 +98,7 @@ ip_address,ip_type,service,region
 74.162.0.0/16,IPv4,AzureCloud.uaenorth,uaenorth
 74.243.192.0/18,IPv4,AzureCloud.uaenorth,uaenorth
 151.206.69.0/25,IPv4,AzureCloud.uaenorth,uaenorth
+151.206.146.0/24,IPv4,AzureCloud.uaenorth,uaenorth
 172.163.0.0/16,IPv4,AzureCloud.uaenorth,uaenorth
 172.164.0.0/16,IPv4,AzureCloud.uaenorth,uaenorth
 2603:1040:900::/47,IPv6,AzureCloud.uaenorth,uaenorth

@@ -5,6 +5,8 @@ ip_address,ip_type,service,region
 68.221.98.112/32,IPv4,AzureArcInfrastructure.SpainCentral,spaincentral
 70.156.91.182/32,IPv4,AzureArcInfrastructure.SpainCentral,spaincentral
 70.156.91.188/30,IPv4,AzureArcInfrastructure.SpainCentral,spaincentral
+158.158.133.70/32,IPv4,AzureArcInfrastructure.SpainCentral,spaincentral
 2603:1020:1403:2::570/124,IPv6,AzureArcInfrastructure.SpainCentral,spaincentral
 2603:1020:1403:5::37d/128,IPv6,AzureArcInfrastructure.SpainCentral,spaincentral
 2603:1020:1403:5::37e/127,IPv6,AzureArcInfrastructure.SpainCentral,spaincentral
+2603:1020:1403:7::4dc/128,IPv6,AzureArcInfrastructure.SpainCentral,spaincentral

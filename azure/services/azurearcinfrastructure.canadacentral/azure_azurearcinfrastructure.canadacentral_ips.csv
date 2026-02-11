@@ -8,3 +8,5 @@ ip_address,ip_type,service,region
 20.220.7.208/31,IPv4,AzureArcInfrastructure.CanadaCentral,canadacentral
 52.228.84.80/30,IPv4,AzureArcInfrastructure.CanadaCentral,canadacentral
 52.246.157.2/31,IPv4,AzureArcInfrastructure.CanadaCentral,canadacentral
+145.191.108.225/32,IPv4,AzureArcInfrastructure.CanadaCentral,canadacentral
+2603:1030:f05:d::6f5/128,IPv6,AzureArcInfrastructure.CanadaCentral,canadacentral

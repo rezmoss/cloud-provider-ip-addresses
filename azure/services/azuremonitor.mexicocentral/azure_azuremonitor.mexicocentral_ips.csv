@@ -20,6 +20,5 @@ ip_address,ip_type,service,region
 2603:1030:702:2::40/122,IPv6,AzureMonitor.MexicoCentral,mexicocentral
 2603:1030:702:2::380/121,IPv6,AzureMonitor.MexicoCentral,mexicocentral
 2603:1030:702:2::400/120,IPv6,AzureMonitor.MexicoCentral,mexicocentral
-2603:1030:702:6::6e0/124,IPv6,AzureMonitor.MexicoCentral,mexicocentral
 2603:1030:702:7::100/120,IPv6,AzureMonitor.MexicoCentral,mexicocentral
 2603:1030:702:7::220/123,IPv6,AzureMonitor.MexicoCentral,mexicocentral

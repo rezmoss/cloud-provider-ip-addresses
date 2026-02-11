@@ -174,6 +174,12 @@
     "region": "centralfrance"
   },
   {
+    "ip_address": "4.176.33.182/32",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
     "ip_address": "20.43.43.160/30",
     "ip_type": "IPv4",
     "service": "AzureArcInfrastructure.FranceCentral",
@@ -218,6 +224,12 @@
   {
     "ip_address": "98.66.128.72/29",
     "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "2603:1020:805:e::a7/128",
+    "ip_type": "IPv6",
     "service": "AzureArcInfrastructure.FranceCentral",
     "region": "centralfrance"
   },
@@ -1195,12 +1207,6 @@
   },
   {
     "ip_address": "2603:1020:805:7::/122",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.FranceCentral",
-    "region": "centralfrance"
-  },
-  {
-    "ip_address": "2603:1020:805:d::130/124",
     "ip_type": "IPv6",
     "service": "AzureMonitor.FranceCentral",
     "region": "centralfrance"
@@ -3918,13 +3924,19 @@
     "region": "centralfrance"
   },
   {
-    "ip_address": "57.157.37.0/28",
+    "ip_address": "57.157.37.0/27",
     "ip_type": "IPv4",
     "service": "AzureCloud.centralfrance",
     "region": "centralfrance"
   },
   {
-    "ip_address": "57.157.37.16/29",
+    "ip_address": "57.157.37.32/29",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.centralfrance",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "57.157.37.40/30",
     "ip_type": "IPv4",
     "service": "AzureCloud.centralfrance",
     "region": "centralfrance"

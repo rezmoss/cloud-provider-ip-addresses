@@ -396,12 +396,6 @@
     "region": "westus2"
   },
   {
-    "ip_address": "2603:1030:c06:20::240/122",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.WestUS2",
-    "region": "westus2"
-  },
-  {
     "ip_address": "2603:1030:c06:21::/120",
     "ip_type": "IPv6",
     "service": "AzureMonitor.WestUS2",

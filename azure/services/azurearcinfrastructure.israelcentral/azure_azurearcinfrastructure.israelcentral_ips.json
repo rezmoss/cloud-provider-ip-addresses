@@ -24,7 +24,19 @@
     "region": "israelcentral"
   },
   {
+    "ip_address": "51.58.59.246/32",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.IsraelCentral",
+    "region": "israelcentral"
+  },
+  {
     "ip_address": "2603:1040:1402:3::2b0/124",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.IsraelCentral",
+    "region": "israelcentral"
+  },
+  {
+    "ip_address": "2603:1040:1402:8::5e5/128",
     "ip_type": "IPv6",
     "service": "AzureArcInfrastructure.IsraelCentral",
     "region": "israelcentral"

@@ -88,7 +88,6 @@ ip_address,ip_type,service,region
 2603:1020:104:3::340/123,IPv6,AzureMonitor.AustriaEast,austriaeast
 2603:1020:104:3::380/121,IPv6,AzureMonitor.AustriaEast,austriaeast
 2603:1020:104:3::400/121,IPv6,AzureMonitor.AustriaEast,austriaeast
-2603:1020:104:6::4e0/124,IPv6,AzureMonitor.AustriaEast,austriaeast
 2603:1020:104:7::3c0/123,IPv6,AzureMonitor.AustriaEast,austriaeast
 68.210.173.224/27,IPv4,AzurePortal.AustriaEast,austriaeast
 68.210.179.88/30,IPv4,AzurePortal.AustriaEast,austriaeast
@@ -232,6 +231,7 @@ ip_address,ip_type,service,region
 70.152.248.0/24,IPv4,AzureCloud.austriaeast,austriaeast
 135.130.188.0/23,IPv4,AzureCloud.austriaeast,austriaeast
 145.190.128.0/24,IPv4,AzureCloud.austriaeast,austriaeast
+151.206.153.0/24,IPv4,AzureCloud.austriaeast,austriaeast
 209.199.22.176/28,IPv4,AzureCloud.austriaeast,austriaeast
 209.199.24.64/26,IPv4,AzureCloud.austriaeast,austriaeast
 209.199.24.128/26,IPv4,AzureCloud.austriaeast,austriaeast

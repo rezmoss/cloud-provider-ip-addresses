@@ -336,6 +336,12 @@
     "region": "eastasia"
   },
   {
+    "ip_address": "4.191.86.255/32",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.EastAsia",
+    "region": "eastasia"
+  },
+  {
     "ip_address": "20.6.141.126/31",
     "ip_type": "IPv4",
     "service": "AzureArcInfrastructure.EastAsia",
@@ -380,6 +386,12 @@
   {
     "ip_address": "104.214.164.48/31",
     "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "2603:1040:207:11::356/128",
+    "ip_type": "IPv6",
     "service": "AzureArcInfrastructure.EastAsia",
     "region": "eastasia"
   },
@@ -1440,12 +1452,6 @@
     "region": "eastasia"
   },
   {
-    "ip_address": "2603:1040:207:f::6e0/124",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.EastAsia",
-    "region": "eastasia"
-  },
-  {
     "ip_address": "2603:1040:207:11::/120",
     "ip_type": "IPv6",
     "service": "AzureMonitor.EastAsia",
@@ -2064,7 +2070,13 @@
     "region": "eastasia"
   },
   {
-    "ip_address": "2603:1040:208::/48",
+    "ip_address": "2603:1040:208::/49",
+    "ip_type": "IPv6",
+    "service": "Storage.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "2603:1040:208:8000::/63",
     "ip_type": "IPv6",
     "service": "Storage.EastAsia",
     "region": "eastasia"
@@ -2649,6 +2661,12 @@
     "ip_address": "2603:1040:207:c00::40/125",
     "ip_type": "IPv6",
     "service": "MicrosoftContainerRegistry.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "4.191.89.64/26",
+    "ip_type": "IPv4",
+    "service": "PowerBI.EastAsia",
     "region": "eastasia"
   },
   {
@@ -3414,7 +3432,19 @@
     "region": "eastasia"
   },
   {
-    "ip_address": "20.20.81.32/29",
+    "ip_address": "20.20.81.32/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.eastasia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.20.81.48/29",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.eastasia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.20.81.56/30",
     "ip_type": "IPv4",
     "service": "AzureCloud.eastasia",
     "region": "eastasia"
@@ -4261,6 +4291,12 @@
   },
   {
     "ip_address": "137.116.160.0/20",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.eastasia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "151.206.143.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.eastasia",
     "region": "eastasia"

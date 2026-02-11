@@ -204,6 +204,12 @@
     "region": "germanywc"
   },
   {
+    "ip_address": "48.201.165.111/32",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
     "ip_address": "51.116.145.136/30",
     "ip_type": "IPv4",
     "service": "AzureArcInfrastructure.GermanyWestCentral",
@@ -236,6 +242,12 @@
   {
     "ip_address": "51.116.253.164/30",
     "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "2603:1020:c04:b::1e8/128",
+    "ip_type": "IPv6",
     "service": "AzureArcInfrastructure.GermanyWestCentral",
     "region": "germanywc"
   },
@@ -1075,12 +1087,6 @@
   },
   {
     "ip_address": "2603:1020:c04:5::600/122",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.GermanyWestCentral",
-    "region": "germanywc"
-  },
-  {
-    "ip_address": "2603:1020:c04:a::160/124",
     "ip_type": "IPv6",
     "service": "AzureMonitor.GermanyWestCentral",
     "region": "germanywc"
@@ -3144,7 +3150,7 @@
     "region": "germanywc"
   },
   {
-    "ip_address": "57.157.60.176/30",
+    "ip_address": "57.157.60.176/29",
     "ip_type": "IPv4",
     "service": "AzureCloud.germanywc",
     "region": "germanywc"

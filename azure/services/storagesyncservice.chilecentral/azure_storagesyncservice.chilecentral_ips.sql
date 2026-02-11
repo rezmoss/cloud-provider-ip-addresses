@@ -6,5 +6,6 @@ CREATE TABLE IF NOT EXISTS `azure_storagesyncservice.chilecentral_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_storagesyncservice.chilecentral_ips` (`ip_address`, `ip_type`) VALUES ('57.156.75.168/29', 'IPv4');
 INSERT INTO `azure_storagesyncservice.chilecentral_ips` (`ip_address`, `ip_type`) VALUES ('68.211.152.48/29', 'IPv4');
 INSERT INTO `azure_storagesyncservice.chilecentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:301:400::120/123', 'IPv6');

@@ -150,6 +150,12 @@
     "region": "canadacentral"
   },
   {
+    "ip_address": "135.130.250.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
     "ip_address": "145.190.132.0/24",
     "ip_type": "IPv4",
     "service": "Storage.CanadaCentral",

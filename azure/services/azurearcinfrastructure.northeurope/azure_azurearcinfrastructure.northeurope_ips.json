@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "4.208.114.163/32",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.NorthEurope",
+    "region": "northeurope"
+  },
+  {
     "ip_address": "13.69.239.84/30",
     "ip_type": "IPv4",
     "service": "AzureArcInfrastructure.NorthEurope",
@@ -44,6 +50,12 @@
   {
     "ip_address": "68.219.197.8/29",
     "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "2603:1020:5:1b::5f4/128",
+    "ip_type": "IPv6",
     "service": "AzureArcInfrastructure.NorthEurope",
     "region": "northeurope"
   }

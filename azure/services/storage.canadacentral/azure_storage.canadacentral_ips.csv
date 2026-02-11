@@ -24,5 +24,6 @@ ip_address,ip_type,service,region
 52.239.189.0/24,IPv4,Storage.CanadaCentral,canadacentral
 57.150.54.0/23,IPv4,Storage.CanadaCentral,canadacentral
 135.130.52.0/23,IPv4,Storage.CanadaCentral,canadacentral
+135.130.250.0/23,IPv4,Storage.CanadaCentral,canadacentral
 145.190.132.0/24,IPv4,Storage.CanadaCentral,canadacentral
 2603:1030:f08::/48,IPv6,Storage.CanadaCentral,canadacentral

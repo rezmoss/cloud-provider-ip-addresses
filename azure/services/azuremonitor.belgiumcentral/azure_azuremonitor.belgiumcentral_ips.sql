@@ -24,5 +24,4 @@ INSERT INTO `azure_azuremonitor.belgiumcentral_ips` (`ip_address`, `ip_type`) VA
 INSERT INTO `azure_azuremonitor.belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1501:f::10/127', 'IPv6');
 INSERT INTO `azure_azuremonitor.belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1502:2::480/121', 'IPv6');
 INSERT INTO `azure_azuremonitor.belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1502:2::500/120', 'IPv6');
-INSERT INTO `azure_azuremonitor.belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1502:3::670/124', 'IPv6');
 INSERT INTO `azure_azuremonitor.belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1502:5::260/123', 'IPv6');

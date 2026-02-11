@@ -390,12 +390,6 @@
     "region": "northeurope"
   },
   {
-    "ip_address": "2603:1020:5:1a::240/122",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.NorthEurope",
-    "region": "northeurope"
-  },
-  {
     "ip_address": "2603:1020:5:1b::100/120",
     "ip_type": "IPv6",
     "service": "AzureMonitor.NorthEurope",

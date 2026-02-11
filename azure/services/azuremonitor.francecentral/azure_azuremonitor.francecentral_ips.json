@@ -264,12 +264,6 @@
     "region": "centralfrance"
   },
   {
-    "ip_address": "2603:1020:805:d::130/124",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.FranceCentral",
-    "region": "centralfrance"
-  },
-  {
     "ip_address": "2603:1020:805:d::500/120",
     "ip_type": "IPv6",
     "service": "AzureMonitor.FranceCentral",

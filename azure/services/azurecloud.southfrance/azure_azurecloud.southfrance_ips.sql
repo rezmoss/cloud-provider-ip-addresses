@@ -71,6 +71,7 @@ INSERT INTO `azure_azurecloud.southfrance_ips` (`ip_address`, `ip_type`) VALUES 
 INSERT INTO `azure_azurecloud.southfrance_ips` (`ip_address`, `ip_type`) VALUES ('70.152.11.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.southfrance_ips` (`ip_address`, `ip_type`) VALUES ('98.65.0.0/16', 'IPv4');
 INSERT INTO `azure_azurecloud.southfrance_ips` (`ip_address`, `ip_type`) VALUES ('98.66.0.0/17', 'IPv4');
+INSERT INTO `azure_azurecloud.southfrance_ips` (`ip_address`, `ip_type`) VALUES ('151.206.168.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.southfrance_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:900::/47', 'IPv6');
 INSERT INTO `azure_azurecloud.southfrance_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:902::/48', 'IPv6');
 INSERT INTO `azure_azurecloud.southfrance_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:904::/48', 'IPv6');

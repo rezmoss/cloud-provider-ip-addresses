@@ -648,12 +648,6 @@
     "region": "jioindiacentral"
   },
   {
-    "ip_address": "2603:1040:1104:6::4b0/124",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.JioIndiaCentral",
-    "region": "jioindiacentral"
-  },
-  {
     "ip_address": "2603:1040:1104:6::640/123",
     "ip_type": "IPv6",
     "service": "AzureMonitor.JioIndiaCentral",

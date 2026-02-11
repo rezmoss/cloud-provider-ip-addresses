@@ -117,7 +117,6 @@ INSERT INTO `azure_australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.19
 INSERT INTO `azure_australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('20.28.117.0/26', 'IPv4');
 INSERT INTO `azure_australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('20.36.107.24/29', 'IPv4');
 INSERT INTO `azure_australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('20.36.107.160/28', 'IPv4');
-INSERT INTO `azure_australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('20.37.59.32/28', 'IPv4');
 INSERT INTO `azure_australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('20.37.227.16/28', 'IPv4');
 INSERT INTO `azure_australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('20.37.227.100/31', 'IPv4');
 INSERT INTO `azure_australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('20.37.227.104/29', 'IPv4');
@@ -135,7 +134,6 @@ INSERT INTO `azure_australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603
 INSERT INTO `azure_australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:304:5::380/122', 'IPv6');
 INSERT INTO `azure_australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:304:5::500/121', 'IPv6');
 INSERT INTO `azure_australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:304:5::7e0/123', 'IPv6');
-INSERT INTO `azure_australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:304:9::500/124', 'IPv6');
 INSERT INTO `azure_australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:304:a::300/120', 'IPv6');
 INSERT INTO `azure_australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:304:a::520/124', 'IPv6');
 INSERT INTO `azure_australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:304:a::540/123', 'IPv6');

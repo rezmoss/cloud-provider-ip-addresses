@@ -8,6 +8,7 @@ CREATE TABLE IF NOT EXISTS `azure_azurearcinfrastructure.switzerlandwest_ips` (
 
 INSERT INTO `azure_azurearcinfrastructure.switzerlandwest_ips` (`ip_address`, `ip_type`) VALUES ('4.226.166.16/30', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.switzerlandwest_ips` (`ip_address`, `ip_type`) VALUES ('4.226.166.20/32', 'IPv4');
+INSERT INTO `azure_azurearcinfrastructure.switzerlandwest_ips` (`ip_address`, `ip_type`) VALUES ('4.226.254.162/32', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.switzerlandwest_ips` (`ip_address`, `ip_type`) VALUES ('51.107.146.52/30', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.switzerlandwest_ips` (`ip_address`, `ip_type`) VALUES ('51.107.193.4/30', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.switzerlandwest_ips` (`ip_address`, `ip_type`) VALUES ('74.242.3.192/29', 'IPv4');
@@ -15,3 +16,4 @@ INSERT INTO `azure_azurearcinfrastructure.switzerlandwest_ips` (`ip_address`, `i
 INSERT INTO `azure_azurearcinfrastructure.switzerlandwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:b04:5::5b0/124', 'IPv6');
 INSERT INTO `azure_azurearcinfrastructure.switzerlandwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:b04:8::749/128', 'IPv6');
 INSERT INTO `azure_azurearcinfrastructure.switzerlandwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:b04:8::74a/127', 'IPv6');
+INSERT INTO `azure_azurearcinfrastructure.switzerlandwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:b04:8::74d/128', 'IPv6');

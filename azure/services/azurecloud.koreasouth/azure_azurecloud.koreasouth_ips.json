@@ -312,7 +312,7 @@
     "region": "koreasouth"
   },
   {
-    "ip_address": "52.113.110.0/23",
+    "ip_address": "52.113.111.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.koreasouth",
     "region": "koreasouth"
@@ -415,6 +415,12 @@
   },
   {
     "ip_address": "151.206.67.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "151.206.164.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.koreasouth",
     "region": "koreasouth"

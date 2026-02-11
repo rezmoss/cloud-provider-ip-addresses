@@ -79,7 +79,6 @@ INSERT INTO `azure_azuremonitor.eastus_ips` (`ip_address`, `ip_type`) VALUES ('5
 INSERT INTO `azure_azuremonitor.eastus_ips` (`ip_address`, `ip_type`) VALUES ('57.152.116.224/27', 'IPv4');
 INSERT INTO `azure_azuremonitor.eastus_ips` (`ip_address`, `ip_type`) VALUES ('68.220.88.120/29', 'IPv4');
 INSERT INTO `azure_azuremonitor.eastus_ips` (`ip_address`, `ip_type`) VALUES ('72.152.228.64/26', 'IPv4');
-INSERT INTO `azure_azuremonitor.eastus_ips` (`ip_address`, `ip_type`) VALUES ('72.152.228.128/26', 'IPv4');
 INSERT INTO `azure_azuremonitor.eastus_ips` (`ip_address`, `ip_type`) VALUES ('104.41.152.101/32', 'IPv4');
 INSERT INTO `azure_azuremonitor.eastus_ips` (`ip_address`, `ip_type`) VALUES ('104.41.157.59/32', 'IPv4');
 INSERT INTO `azure_azuremonitor.eastus_ips` (`ip_address`, `ip_type`) VALUES ('104.45.136.42/32', 'IPv4');
@@ -95,7 +94,6 @@ INSERT INTO `azure_azuremonitor.eastus_ips` (`ip_address`, `ip_type`) VALUES ('2
 INSERT INTO `azure_azuremonitor.eastus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:210:c::180/121', 'IPv6');
 INSERT INTO `azure_azuremonitor.eastus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:210:f::5e0/123', 'IPv6');
 INSERT INTO `azure_azuremonitor.eastus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:210:11::240/122', 'IPv6');
-INSERT INTO `azure_azuremonitor.eastus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:210:2c::500/122', 'IPv6');
 INSERT INTO `azure_azuremonitor.eastus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:210:2d::400/120', 'IPv6');
 INSERT INTO `azure_azuremonitor.eastus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:210:2e::80/122', 'IPv6');
 INSERT INTO `azure_azuremonitor.eastus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:210:402::500/121', 'IPv6');

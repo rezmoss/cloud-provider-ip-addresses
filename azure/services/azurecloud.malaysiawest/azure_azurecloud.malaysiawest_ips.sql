@@ -34,9 +34,8 @@ INSERT INTO `azure_azurecloud.malaysiawest_ips` (`ip_address`, `ip_type`) VALUES
 INSERT INTO `azure_azurecloud.malaysiawest_ips` (`ip_address`, `ip_type`) VALUES ('40.100.67.192/26', 'IPv4');
 INSERT INTO `azure_azurecloud.malaysiawest_ips` (`ip_address`, `ip_type`) VALUES ('40.100.68.0/25', 'IPv4');
 INSERT INTO `azure_azurecloud.malaysiawest_ips` (`ip_address`, `ip_type`) VALUES ('40.120.168.0/24', 'IPv4');
-INSERT INTO `azure_azurecloud.malaysiawest_ips` (`ip_address`, `ip_type`) VALUES ('40.120.169.0/27', 'IPv4');
-INSERT INTO `azure_azurecloud.malaysiawest_ips` (`ip_address`, `ip_type`) VALUES ('40.120.169.32/28', 'IPv4');
-INSERT INTO `azure_azurecloud.malaysiawest_ips` (`ip_address`, `ip_type`) VALUES ('40.120.169.48/29', 'IPv4');
+INSERT INTO `azure_azurecloud.malaysiawest_ips` (`ip_address`, `ip_type`) VALUES ('40.120.169.0/26', 'IPv4');
+INSERT INTO `azure_azurecloud.malaysiawest_ips` (`ip_address`, `ip_type`) VALUES ('40.120.169.64/27', 'IPv4');
 INSERT INTO `azure_azurecloud.malaysiawest_ips` (`ip_address`, `ip_type`) VALUES ('48.212.54.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.malaysiawest_ips` (`ip_address`, `ip_type`) VALUES ('48.212.182.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.malaysiawest_ips` (`ip_address`, `ip_type`) VALUES ('48.213.54.0/24', 'IPv4');
@@ -53,6 +52,8 @@ INSERT INTO `azure_azurecloud.malaysiawest_ips` (`ip_address`, `ip_type`) VALUES
 INSERT INTO `azure_azurecloud.malaysiawest_ips` (`ip_address`, `ip_type`) VALUES ('57.150.100.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.malaysiawest_ips` (`ip_address`, `ip_type`) VALUES ('70.152.224.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.malaysiawest_ips` (`ip_address`, `ip_type`) VALUES ('85.211.128.0/17', 'IPv4');
+INSERT INTO `azure_azurecloud.malaysiawest_ips` (`ip_address`, `ip_type`) VALUES ('151.206.144.0/24', 'IPv4');
+INSERT INTO `azure_azurecloud.malaysiawest_ips` (`ip_address`, `ip_type`) VALUES ('172.197.128.0/17', 'IPv4');
 INSERT INTO `azure_azurecloud.malaysiawest_ips` (`ip_address`, `ip_type`) VALUES ('209.199.22.128/27', 'IPv4');
 INSERT INTO `azure_azurecloud.malaysiawest_ips` (`ip_address`, `ip_type`) VALUES ('209.199.22.160/28', 'IPv4');
 INSERT INTO `azure_azurecloud.malaysiawest_ips` (`ip_address`, `ip_type`) VALUES ('209.199.22.192/26', 'IPv4');
@@ -69,8 +70,8 @@ INSERT INTO `azure_azurecloud.malaysiawest_ips` (`ip_address`, `ip_type`) VALUES
 INSERT INTO `azure_azurecloud.malaysiawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1046:2000:260::/59', 'IPv6');
 INSERT INTO `azure_azurecloud.malaysiawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1047:1::/59', 'IPv6');
 INSERT INTO `azure_azurecloud.malaysiawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:100d::/57', 'IPv6');
-INSERT INTO `azure_azurecloud.malaysiawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:100d:80::/60', 'IPv6');
-INSERT INTO `azure_azurecloud.malaysiawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:100d:90::/62', 'IPv6');
+INSERT INTO `azure_azurecloud.malaysiawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:100d:80::/59', 'IPv6');
+INSERT INTO `azure_azurecloud.malaysiawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:100d:a0::/61', 'IPv6');
 INSERT INTO `azure_azurecloud.malaysiawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1310:2400::/54', 'IPv6');
 INSERT INTO `azure_azurecloud.malaysiawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:173a::/48', 'IPv6');
 INSERT INTO `azure_azurecloud.malaysiawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2010:3a::/64', 'IPv6');

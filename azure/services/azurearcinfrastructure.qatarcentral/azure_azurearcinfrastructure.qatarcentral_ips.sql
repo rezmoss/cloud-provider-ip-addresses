@@ -11,4 +11,6 @@ INSERT INTO `azure_azurearcinfrastructure.qatarcentral_ips` (`ip_address`, `ip_t
 INSERT INTO `azure_azurearcinfrastructure.qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.21.46.136/31', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.21.69.176/31', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.21.77.184/31', 'IPv4');
+INSERT INTO `azure_azurearcinfrastructure.qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.173.62.144/32', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1002:5::420/124', 'IPv6');
+INSERT INTO `azure_azurearcinfrastructure.qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1002:8::4c3/128', 'IPv6');

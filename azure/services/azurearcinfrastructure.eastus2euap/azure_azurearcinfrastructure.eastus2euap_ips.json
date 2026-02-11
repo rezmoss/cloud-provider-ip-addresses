@@ -42,8 +42,20 @@
     "region": "eastus2euap"
   },
   {
+    "ip_address": "48.223.58.80/32",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
     "ip_address": "52.138.90.54/31",
     "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "2603:1030:40b:10::755/128",
+    "ip_type": "IPv6",
     "service": "AzureArcInfrastructure.EastUS2EUAP",
     "region": "eastus2euap"
   }

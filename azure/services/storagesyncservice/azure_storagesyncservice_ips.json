@@ -540,6 +540,12 @@
     "region": ""
   },
   {
+    "ip_address": "57.156.75.168/29",
+    "ip_type": "IPv4",
+    "service": "StorageSyncService",
+    "region": ""
+  },
+  {
     "ip_address": "68.154.136.56/29",
     "ip_type": "IPv4",
     "service": "StorageSyncService",

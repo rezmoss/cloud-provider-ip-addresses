@@ -98,7 +98,6 @@ INSERT INTO `azure_newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:
 INSERT INTO `azure_newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:502:2::640/123', 'IPv6');
 INSERT INTO `azure_newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:502:2::680/121', 'IPv6');
 INSERT INTO `azure_newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:502:2::700/121', 'IPv6');
-INSERT INTO `azure_newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:502:5::310/124', 'IPv6');
 INSERT INTO `azure_newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:502:5::5a0/123', 'IPv6');
 INSERT INTO `azure_newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('172.204.166.192/27', 'IPv4');
 INSERT INTO `azure_newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:502:2::580/121', 'IPv6');
@@ -243,10 +242,9 @@ INSERT INTO `azure_newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('40.10
 INSERT INTO `azure_newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('40.100.69.0/26', 'IPv4');
 INSERT INTO `azure_newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('40.107.4.0/23', 'IPv4');
 INSERT INTO `azure_newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('40.107.10.0/24', 'IPv4');
-INSERT INTO `azure_newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('40.120.172.0/24', 'IPv4');
-INSERT INTO `azure_newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('40.120.173.0/25', 'IPv4');
-INSERT INTO `azure_newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('40.120.173.128/26', 'IPv4');
-INSERT INTO `azure_newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('40.120.173.192/27', 'IPv4');
+INSERT INTO `azure_newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('40.120.172.0/23', 'IPv4');
+INSERT INTO `azure_newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('40.120.174.0/29', 'IPv4');
+INSERT INTO `azure_newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('40.120.174.8/30', 'IPv4');
 INSERT INTO `azure_newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('48.212.21.0/24', 'IPv4');
 INSERT INTO `azure_newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('48.212.149.0/24', 'IPv4');
 INSERT INTO `azure_newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('48.213.21.0/24', 'IPv4');
@@ -268,6 +266,7 @@ INSERT INTO `azure_newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('52.25
 INSERT INTO `azure_newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('52.253.212.0/24', 'IPv4');
 INSERT INTO `azure_newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('70.152.211.0/24', 'IPv4');
 INSERT INTO `azure_newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('135.130.128.0/23', 'IPv4');
+INSERT INTO `azure_newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('151.206.154.0/24', 'IPv4');
 INSERT INTO `azure_newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('172.196.0.0/17', 'IPv4');
 INSERT INTO `azure_newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('172.204.0.0/16', 'IPv4');
 INSERT INTO `azure_newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('209.199.17.112/28', 'IPv4');
@@ -289,7 +288,10 @@ INSERT INTO `azure_newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:
 INSERT INTO `azure_newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:100e::/57', 'IPv6');
 INSERT INTO `azure_newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:100e:80::/58', 'IPv6');
 INSERT INTO `azure_newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:100e:c0::/59', 'IPv6');
-INSERT INTO `azure_newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:100e:e0::/61', 'IPv6');
+INSERT INTO `azure_newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:100e:e0::/60', 'IPv6');
+INSERT INTO `azure_newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:100e:f0::/61', 'IPv6');
+INSERT INTO `azure_newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:100e:f8::/62', 'IPv6');
+INSERT INTO `azure_newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:100e:fc::/63', 'IPv6');
 INSERT INTO `azure_newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1314:1000::/54', 'IPv6');
 INSERT INTO `azure_newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1739::/48', 'IPv6');
 INSERT INTO `azure_newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2002:b000::/57', 'IPv6');

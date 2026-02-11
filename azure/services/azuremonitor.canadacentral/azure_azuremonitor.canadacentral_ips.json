@@ -270,12 +270,6 @@
     "region": "canadacentral"
   },
   {
-    "ip_address": "2603:1030:f05:c::40/124",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.CanadaCentral",
-    "region": "canadacentral"
-  },
-  {
     "ip_address": "2603:1030:f05:d::100/120",
     "ip_type": "IPv6",
     "service": "AzureMonitor.CanadaCentral",

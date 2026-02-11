@@ -360,6 +360,12 @@
     "region": "uaecentral"
   },
   {
+    "ip_address": "74.243.144.0/20",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uaecentral",
+    "region": "uaecentral"
+  },
+  {
     "ip_address": "74.243.160.0/19",
     "ip_type": "IPv4",
     "service": "AzureCloud.uaecentral",

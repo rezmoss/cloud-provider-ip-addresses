@@ -6,3 +6,5 @@ ip_address,ip_type,service,region
 40.79.167.16/30,IPv4,AzureArcInfrastructure.AustraliaEast,australiaeast
 40.79.167.20/32,IPv4,AzureArcInfrastructure.AustraliaEast,australiaeast
 40.79.173.36/32,IPv4,AzureArcInfrastructure.AustraliaEast,australiaeast
+48.215.89.121/32,IPv4,AzureArcInfrastructure.AustraliaEast,australiaeast
+2603:1010:6:e::686/128,IPv6,AzureArcInfrastructure.AustraliaEast,australiaeast

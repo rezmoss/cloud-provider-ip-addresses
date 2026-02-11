@@ -120,12 +120,6 @@
     "region": "malaysiawest"
   },
   {
-    "ip_address": "2603:1040:1602:4::560/124",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.MalaysiaWest",
-    "region": "malaysiawest"
-  },
-  {
     "ip_address": "2603:1040:1602:4::780/123",
     "ip_type": "IPv6",
     "service": "AzureMonitor.MalaysiaWest",

@@ -14,3 +14,5 @@ INSERT INTO `azure_azurearcinfrastructure.switzerlandnorth_ips` (`ip_address`, `
 INSERT INTO `azure_azurearcinfrastructure.switzerlandnorth_ips` (`ip_address`, `ip_type`) VALUES ('51.107.53.32/30', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.switzerlandnorth_ips` (`ip_address`, `ip_type`) VALUES ('51.107.60.152/32', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.switzerlandnorth_ips` (`ip_address`, `ip_type`) VALUES ('51.107.129.104/30', 'IPv4');
+INSERT INTO `azure_azurearcinfrastructure.switzerlandnorth_ips` (`ip_address`, `ip_type`) VALUES ('74.242.152.101/32', 'IPv4');
+INSERT INTO `azure_azurearcinfrastructure.switzerlandnorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:a04:b::81/128', 'IPv6');

@@ -1,4 +1,5 @@
 ip_address,ip_type,service,region
+4.176.33.182/32,IPv4,AzureArcInfrastructure.FranceCentral,centralfrance
 20.43.43.160/30,IPv4,AzureArcInfrastructure.FranceCentral,centralfrance
 20.43.45.240/30,IPv4,AzureArcInfrastructure.FranceCentral,centralfrance
 40.79.138.46/31,IPv4,AzureArcInfrastructure.FranceCentral,centralfrance
@@ -7,3 +8,4 @@ ip_address,ip_type,service,region
 51.11.192.34/31,IPv4,AzureArcInfrastructure.FranceCentral,centralfrance
 98.66.128.36/31,IPv4,AzureArcInfrastructure.FranceCentral,centralfrance
 98.66.128.72/29,IPv4,AzureArcInfrastructure.FranceCentral,centralfrance
+2603:1020:805:e::a7/128,IPv6,AzureArcInfrastructure.FranceCentral,centralfrance

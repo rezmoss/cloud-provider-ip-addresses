@@ -92,6 +92,7 @@ ip_address,ip_type,service,region
 104.211.192.0/18,IPv4,AzureCloud.southindia,southindia
 135.13.0.0/17,IPv4,AzureCloud.southindia,southindia
 151.206.70.0/25,IPv4,AzureCloud.southindia,southindia
+151.206.147.0/24,IPv4,AzureCloud.southindia,southindia
 2603:1040:c00::/46,IPv6,AzureCloud.southindia,southindia
 2603:1040:c05::/48,IPv6,AzureCloud.southindia,southindia
 2603:1040:c06::/47,IPv6,AzureCloud.southindia,southindia
