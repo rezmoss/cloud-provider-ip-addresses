@@ -1,10 +1,5 @@
 [
   {
-    "ip_address": "2a04:4e41:003c:0003::/64",
-    "ip_type": "IPv6",
-    "region": "CR-A"
-  },
-  {
     "ip_address": "2a04:4e41:180::/52",
     "ip_type": "IPv6",
     "region": "CR-A"

@@ -206,6 +206,7 @@ INSERT INTO `apple_private_relay_nz_ips` (`ip_address`, `ip_type`) VALUES ('2a02
 INSERT INTO `apple_private_relay_nz_ips` (`ip_address`, `ip_type`) VALUES ('104.28.29.45/32', 'IPv4');
 INSERT INTO `apple_private_relay_nz_ips` (`ip_address`, `ip_type`) VALUES ('104.28.125.84/32', 'IPv4');
 INSERT INTO `apple_private_relay_nz_ips` (`ip_address`, `ip_type`) VALUES ('104.28.125.85/32', 'IPv4');
+INSERT INTO `apple_private_relay_nz_ips` (`ip_address`, `ip_type`) VALUES ('104.28.136.220/32', 'IPv4');
 INSERT INTO `apple_private_relay_nz_ips` (`ip_address`, `ip_type`) VALUES ('104.28.142.205/32', 'IPv4');
 INSERT INTO `apple_private_relay_nz_ips` (`ip_address`, `ip_type`) VALUES ('104.28.146.182/32', 'IPv4');
 INSERT INTO `apple_private_relay_nz_ips` (`ip_address`, `ip_type`) VALUES ('104.28.146.183/32', 'IPv4');
@@ -229,12 +230,14 @@ INSERT INTO `apple_private_relay_nz_ips` (`ip_address`, `ip_type`) VALUES ('2a09
 INSERT INTO `apple_private_relay_nz_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:4df8::/45', 'IPv6');
 INSERT INTO `apple_private_relay_nz_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:4e00::/45', 'IPv6');
 INSERT INTO `apple_private_relay_nz_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:4e08::/45', 'IPv6');
+INSERT INTO `apple_private_relay_nz_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:d560::/45', 'IPv6');
 INSERT INTO `apple_private_relay_nz_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:4de0::/45', 'IPv6');
 INSERT INTO `apple_private_relay_nz_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:4de8::/45', 'IPv6');
 INSERT INTO `apple_private_relay_nz_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:4df0::/45', 'IPv6');
 INSERT INTO `apple_private_relay_nz_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:4df8::/45', 'IPv6');
 INSERT INTO `apple_private_relay_nz_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:4e00::/45', 'IPv6');
 INSERT INTO `apple_private_relay_nz_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:4e08::/45', 'IPv6');
+INSERT INTO `apple_private_relay_nz_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:d560::/45', 'IPv6');
 INSERT INTO `apple_private_relay_nz_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:121::/48', 'IPv6');
 INSERT INTO `apple_private_relay_nz_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:1a1::/48', 'IPv6');
 INSERT INTO `apple_private_relay_nz_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:4cc1::/48', 'IPv6');

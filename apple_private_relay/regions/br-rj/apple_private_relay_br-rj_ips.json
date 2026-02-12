@@ -2350,11 +2350,6 @@
     "region": "BR-RJ"
   },
   {
-    "ip_address": "2a04:4e41:c00:6000::/52",
-    "ip_type": "IPv6",
-    "region": "BR-RJ"
-  },
-  {
     "ip_address": "2a04:4e41:1a00:c000::/52",
     "ip_type": "IPv6",
     "region": "BR-RJ"
@@ -2391,11 +2386,6 @@
   },
   {
     "ip_address": "146.75.206.14/31",
-    "ip_type": "IPv4",
-    "region": "BR-RJ"
-  },
-  {
-    "ip_address": "146.75.225.14/31",
     "ip_type": "IPv4",
     "region": "BR-RJ"
   }

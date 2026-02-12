@@ -78,6 +78,7 @@ INSERT INTO `apple_private_relay_pa_ips` (`ip_address`, `ip_type`) VALUES ('2a02
 INSERT INTO `apple_private_relay_pa_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:e810:4ac6::/64', 'IPv6');
 INSERT INTO `apple_private_relay_pa_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:e810:4ac7::/64', 'IPv6');
 INSERT INTO `apple_private_relay_pa_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:e811:4000::/64', 'IPv6');
+INSERT INTO `apple_private_relay_pa_ips` (`ip_address`, `ip_type`) VALUES ('104.28.136.219/32', 'IPv4');
 INSERT INTO `apple_private_relay_pa_ips` (`ip_address`, `ip_type`) VALUES ('104.28.145.39/32', 'IPv4');
 INSERT INTO `apple_private_relay_pa_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:4e40::/45', 'IPv6');
 INSERT INTO `apple_private_relay_pa_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:4e48::/45', 'IPv6');

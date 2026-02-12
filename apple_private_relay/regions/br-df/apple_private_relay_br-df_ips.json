@@ -475,11 +475,6 @@
     "region": "BR-DF"
   },
   {
-    "ip_address": "2a04:4e41:c00:2000::/52",
-    "ip_type": "IPv6",
-    "region": "BR-DF"
-  },
-  {
     "ip_address": "2a04:4e41:1a00:8000::/52",
     "ip_type": "IPv6",
     "region": "BR-DF"
@@ -516,11 +511,6 @@
   },
   {
     "ip_address": "146.75.206.6/31",
-    "ip_type": "IPv4",
-    "region": "BR-DF"
-  },
-  {
-    "ip_address": "146.75.225.6/31",
     "ip_type": "IPv4",
     "region": "BR-DF"
   }

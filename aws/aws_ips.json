@@ -60024,6 +60024,12 @@
     "region": "us-west-2"
   },
   {
+    "ip_address": "2606:7b40:1800::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-west-2"
+  },
+  {
     "ip_address": "2620:108:7000::/44",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -60418,12 +60424,6 @@
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "ap-northeast-3"
-  },
-  {
-    "ip_address": "2406:da1a::/36",
-    "ip_type": "IPv6",
-    "service": "AMAZON",
-    "region": "ap-south-1"
   },
   {
     "ip_address": "2406:daf8:c000::/40",
@@ -64356,12 +64356,6 @@
     "region": "us-west-2"
   },
   {
-    "ip_address": "2606:7b40:1800::/48",
-    "ip_type": "IPv6",
-    "service": "AMAZON",
-    "region": "us-west-2"
-  },
-  {
     "ip_address": "2606:7b40:1b0f:c200::/56",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -65494,6 +65488,12 @@
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "eu-central-1"
+  },
+  {
+    "ip_address": "2406:da1a::/35",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-south-1"
   },
   {
     "ip_address": "2600:1f30:5000::/40",
@@ -77802,6 +77802,12 @@
     "region": "us-west-2"
   },
   {
+    "ip_address": "2606:7b40:1800::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-west-2"
+  },
+  {
     "ip_address": "2a05:d017::/36",
     "ip_type": "IPv6",
     "service": "EC2",
@@ -78088,12 +78094,6 @@
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "me-central-1"
-  },
-  {
-    "ip_address": "2406:da1a::/36",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "ap-south-1"
   },
   {
     "ip_address": "2600:1f30:a400::/40",
@@ -81108,12 +81108,6 @@
     "region": "us-west-2"
   },
   {
-    "ip_address": "2606:7b40:1800::/48",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "us-west-2"
-  },
-  {
     "ip_address": "2606:7b40:1b0f:c200::/56",
     "ip_type": "IPv6",
     "service": "EC2",
@@ -82012,6 +82006,12 @@
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "eu-central-1"
+  },
+  {
+    "ip_address": "2406:da1a::/35",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-south-1"
   },
   {
     "ip_address": "2600:1f30:5000::/40",

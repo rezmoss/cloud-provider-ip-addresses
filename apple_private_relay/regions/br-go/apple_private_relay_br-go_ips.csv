@@ -172,7 +172,6 @@ ip_address,ip_type,region
 2a09:bac3:6e0::/45,IPv6,BR-GO
 2a09:bac3:6e8::/45,IPv6,BR-GO
 2a09:bac3:6f0::/45,IPv6,BR-GO
-2a04:4e41:c00:3000::/52,IPv6,BR-GO
 2a04:4e41:1a00:9000::/52,IPv6,BR-GO
 2a04:4e41:1b00:3000::/52,IPv6,BR-GO
 2a04:4e41:6200:9000::/52,IPv6,BR-GO
@@ -181,4 +180,3 @@ ip_address,ip_type,region
 146.75.179.34/31,IPv4,BR-GO
 146.75.191.34/31,IPv4,BR-GO
 146.75.206.8/31,IPv4,BR-GO
-146.75.225.8/31,IPv4,BR-GO

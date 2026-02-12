@@ -95,16 +95,6 @@
     "region": "CR-SJ"
   },
   {
-    "ip_address": "2a04:4e41:003c:0004::/64",
-    "ip_type": "IPv6",
-    "region": "CR-SJ"
-  },
-  {
-    "ip_address": "2a04:4e41:003c:0005::/64",
-    "ip_type": "IPv6",
-    "region": "CR-SJ"
-  },
-  {
     "ip_address": "2a04:4e41:180:1000::/52",
     "ip_type": "IPv6",
     "region": "CR-SJ"

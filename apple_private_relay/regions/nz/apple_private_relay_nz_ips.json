@@ -1000,6 +1000,11 @@
     "region": "NZ"
   },
   {
+    "ip_address": "104.28.136.220/32",
+    "ip_type": "IPv4",
+    "region": "NZ"
+  },
+  {
     "ip_address": "104.28.142.205/32",
     "ip_type": "IPv4",
     "region": "NZ"
@@ -1115,6 +1120,11 @@
     "region": "NZ"
   },
   {
+    "ip_address": "2a09:bac2:d560::/45",
+    "ip_type": "IPv6",
+    "region": "NZ"
+  },
+  {
     "ip_address": "2a09:bac3:4de0::/45",
     "ip_type": "IPv6",
     "region": "NZ"
@@ -1141,6 +1151,11 @@
   },
   {
     "ip_address": "2a09:bac3:4e08::/45",
+    "ip_type": "IPv6",
+    "region": "NZ"
+  },
+  {
+    "ip_address": "2a09:bac3:d560::/45",
     "ip_type": "IPv6",
     "region": "NZ"
   },

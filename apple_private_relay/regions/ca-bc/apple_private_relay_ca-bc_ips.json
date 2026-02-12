@@ -5465,11 +5465,6 @@
     "region": "CA-BC"
   },
   {
-    "ip_address": "2a04:4e41:003b:1100::/56",
-    "ip_type": "IPv6",
-    "region": "CA-BC"
-  },
-  {
     "ip_address": "2a04:4e41:4ce0:2000::/52",
     "ip_type": "IPv6",
     "region": "CA-BC"

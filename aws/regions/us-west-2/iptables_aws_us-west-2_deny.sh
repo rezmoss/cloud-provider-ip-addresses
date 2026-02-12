@@ -1,6 +1,6 @@
 #!/bin/bash
 # Aws IP Ranges
-# Updated: 2026-02-11 15:35:03
+# Updated: 2026-02-12 02:00:40
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -676,6 +676,7 @@ ip6tables -A INPUT -s 2600:f0f0:8181::/48 -j DROP
 ip6tables -A INPUT -s 2606:7b40:1a3f:c310::/60 -j DROP
 ip6tables -A INPUT -s 2600:f0f0:c041::/48 -j DROP
 ip6tables -A INPUT -s 2606:7b40:a3e:1000::/54 -j DROP
+ip6tables -A INPUT -s 2606:7b40:1800::/40 -j DROP
 ip6tables -A INPUT -s 2620:108:7000::/44 -j DROP
 ip6tables -A INPUT -s 2606:7b40:a3e:6000::/54 -j DROP
 ip6tables -A INPUT -s 2606:7b40:1000:7220::/60 -j DROP
@@ -765,7 +766,6 @@ ip6tables -A INPUT -s 2606:7b40:1000:7240::/60 -j DROP
 ip6tables -A INPUT -s 2606:8140:400::/40 -j DROP
 ip6tables -A INPUT -s 2606:7b40:f000:1700::/56 -j DROP
 ip6tables -A INPUT -s 2606:f40:4400::/39 -j DROP
-ip6tables -A INPUT -s 2606:7b40:1800::/48 -j DROP
 ip6tables -A INPUT -s 2606:7b40:1b0f:c200::/56 -j DROP
 ip6tables -A INPUT -s 2600:f0f0:e03::/48 -j DROP
 ip6tables -A INPUT -s 2600:1f14:8000::/36 -j DROP
@@ -973,6 +973,7 @@ ip6tables -A INPUT -s 2600:f0f0:8181::/48 -j DROP
 ip6tables -A INPUT -s 2606:7b40:1a3f:c310::/60 -j DROP
 ip6tables -A INPUT -s 2600:f0f0:c041::/48 -j DROP
 ip6tables -A INPUT -s 2606:7b40:a3e:1000::/54 -j DROP
+ip6tables -A INPUT -s 2606:7b40:1800::/40 -j DROP
 ip6tables -A INPUT -s 2606:7b40:a3e:6000::/54 -j DROP
 ip6tables -A INPUT -s 2606:7b40:1000:7220::/60 -j DROP
 ip6tables -A INPUT -s 2600:f0f0:1:a00::/56 -j DROP
@@ -1050,7 +1051,6 @@ ip6tables -A INPUT -s 2606:7b40:1000:7240::/60 -j DROP
 ip6tables -A INPUT -s 2606:8140:400::/40 -j DROP
 ip6tables -A INPUT -s 2606:7b40:f000:1700::/56 -j DROP
 ip6tables -A INPUT -s 2606:f40:4400::/39 -j DROP
-ip6tables -A INPUT -s 2606:7b40:1800::/48 -j DROP
 ip6tables -A INPUT -s 2606:7b40:1b0f:c200::/56 -j DROP
 ip6tables -A INPUT -s 2600:f0f0:e03::/48 -j DROP
 ip6tables -A INPUT -s 2600:1f14:8000::/36 -j DROP

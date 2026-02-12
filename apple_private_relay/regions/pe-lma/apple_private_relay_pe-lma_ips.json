@@ -260,11 +260,6 @@
     "region": "PE-LMA"
   },
   {
-    "ip_address": "2a04:4e41:003c:0014::/64",
-    "ip_type": "IPv6",
-    "region": "PE-LMA"
-  },
-  {
     "ip_address": "2a04:4e41:180:6000::/52",
     "ip_type": "IPv6",
     "region": "PE-LMA"

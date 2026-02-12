@@ -480,16 +480,6 @@
     "region": "PE"
   },
   {
-    "ip_address": "2a04:4e41:003c:0013::/64",
-    "ip_type": "IPv6",
-    "region": "PE"
-  },
-  {
-    "ip_address": "2a04:4e41:003c:1600::/56",
-    "ip_type": "IPv6",
-    "region": "PE"
-  },
-  {
     "ip_address": "2a04:4e41:187::/48",
     "ip_type": "IPv6",
     "region": "PE"

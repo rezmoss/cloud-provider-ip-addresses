@@ -202,7 +202,6 @@ INSERT INTO `apple_private_relay_br-ce_ips` (`ip_address`, `ip_type`) VALUES ('2
 INSERT INTO `apple_private_relay_br-ce_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:658::/45', 'IPv6');
 INSERT INTO `apple_private_relay_br-ce_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:660::/45', 'IPv6');
 INSERT INTO `apple_private_relay_br-ce_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:668::/45', 'IPv6');
-INSERT INTO `apple_private_relay_br-ce_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:c00:1000::/52', 'IPv6');
 INSERT INTO `apple_private_relay_br-ce_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:1a00:7000::/52', 'IPv6');
 INSERT INTO `apple_private_relay_br-ce_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:1b00:1000::/52', 'IPv6');
 INSERT INTO `apple_private_relay_br-ce_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:6200:7000::/52', 'IPv6');
@@ -211,4 +210,3 @@ INSERT INTO `apple_private_relay_br-ce_ips` (`ip_address`, `ip_type`) VALUES ('1
 INSERT INTO `apple_private_relay_br-ce_ips` (`ip_address`, `ip_type`) VALUES ('146.75.179.30/31', 'IPv4');
 INSERT INTO `apple_private_relay_br-ce_ips` (`ip_address`, `ip_type`) VALUES ('146.75.191.30/31', 'IPv4');
 INSERT INTO `apple_private_relay_br-ce_ips` (`ip_address`, `ip_type`) VALUES ('146.75.206.4/31', 'IPv4');
-INSERT INTO `apple_private_relay_br-ce_ips` (`ip_address`, `ip_type`) VALUES ('146.75.225.4/31', 'IPv4');

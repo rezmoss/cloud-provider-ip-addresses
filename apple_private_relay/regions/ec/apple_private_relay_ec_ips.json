@@ -1635,16 +1635,6 @@
     "region": "EC"
   },
   {
-    "ip_address": "2a04:4e41:003c:0010::/64",
-    "ip_type": "IPv6",
-    "region": "EC"
-  },
-  {
-    "ip_address": "2a04:4e41:003c:1500::/56",
-    "ip_type": "IPv6",
-    "region": "EC"
-  },
-  {
     "ip_address": "2a04:4e41:186::/48",
     "ip_type": "IPv6",
     "region": "EC"

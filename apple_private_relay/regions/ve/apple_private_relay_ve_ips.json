@@ -1420,16 +1420,6 @@
     "region": "VE"
   },
   {
-    "ip_address": "2a04:4e41:003c:0008::/64",
-    "ip_type": "IPv6",
-    "region": "VE"
-  },
-  {
-    "ip_address": "2a04:4e41:003c:1400::/56",
-    "ip_type": "IPv6",
-    "region": "VE"
-  },
-  {
     "ip_address": "2a04:4e41:185::/48",
     "ip_type": "IPv6",
     "region": "VE"

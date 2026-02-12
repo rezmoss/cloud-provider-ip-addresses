@@ -4245,11 +4245,6 @@
     "region": "BR-PR"
   },
   {
-    "ip_address": "2a04:4e41:c00:5000::/52",
-    "ip_type": "IPv6",
-    "region": "BR-PR"
-  },
-  {
     "ip_address": "2a04:4e41:1a00:b000::/52",
     "ip_type": "IPv6",
     "region": "BR-PR"
@@ -4286,11 +4281,6 @@
   },
   {
     "ip_address": "146.75.206.12/31",
-    "ip_type": "IPv4",
-    "region": "BR-PR"
-  },
-  {
-    "ip_address": "146.75.225.12/31",
     "ip_type": "IPv4",
     "region": "BR-PR"
   }

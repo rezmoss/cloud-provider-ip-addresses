@@ -4850,11 +4850,6 @@
     "region": "BR-MG"
   },
   {
-    "ip_address": "2a04:4e41:c00:4000::/52",
-    "ip_type": "IPv6",
-    "region": "BR-MG"
-  },
-  {
     "ip_address": "2a04:4e41:1a00:a000::/52",
     "ip_type": "IPv6",
     "region": "BR-MG"
@@ -4891,11 +4886,6 @@
   },
   {
     "ip_address": "146.75.206.10/31",
-    "ip_type": "IPv4",
-    "region": "BR-MG"
-  },
-  {
-    "ip_address": "146.75.225.10/31",
     "ip_type": "IPv4",
     "region": "BR-MG"
   }

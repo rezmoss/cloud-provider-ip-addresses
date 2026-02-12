@@ -4510,11 +4510,6 @@
     "region": "BR-RS"
   },
   {
-    "ip_address": "2a04:4e41:c00:7000::/52",
-    "ip_type": "IPv6",
-    "region": "BR-RS"
-  },
-  {
     "ip_address": "2a04:4e41:1a00:d000::/52",
     "ip_type": "IPv6",
     "region": "BR-RS"
@@ -4551,11 +4546,6 @@
   },
   {
     "ip_address": "146.75.206.16/31",
-    "ip_type": "IPv4",
-    "region": "BR-RS"
-  },
-  {
-    "ip_address": "146.75.225.16/31",
     "ip_type": "IPv4",
     "region": "BR-RS"
   }

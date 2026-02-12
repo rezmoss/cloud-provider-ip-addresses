@@ -50,6 +50,11 @@
     "region": "TR-34"
   },
   {
+    "ip_address": "104.28.136.221/32",
+    "ip_type": "IPv4",
+    "region": "TR-34"
+  },
+  {
     "ip_address": "104.28.138.93/32",
     "ip_type": "IPv4",
     "region": "TR-34"

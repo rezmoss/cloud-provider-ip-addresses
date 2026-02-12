@@ -590,16 +590,6 @@
     "region": "CR"
   },
   {
-    "ip_address": "2a04:4e41:003c:0002::/64",
-    "ip_type": "IPv6",
-    "region": "CR"
-  },
-  {
-    "ip_address": "2a04:4e41:003c:1200::/56",
-    "ip_type": "IPv6",
-    "region": "CR"
-  },
-  {
     "ip_address": "2a04:4e41:183::/48",
     "ip_type": "IPv6",
     "region": "CR"

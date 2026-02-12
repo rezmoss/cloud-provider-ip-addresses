@@ -33,7 +33,6 @@ INSERT INTO `apple_private_relay_ec-g_ips` (`ip_address`, `ip_type`) VALUES ('26
 INSERT INTO `apple_private_relay_ec-g_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:e2a::/64', 'IPv6');
 INSERT INTO `apple_private_relay_ec-g_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:3038::/45', 'IPv6');
 INSERT INTO `apple_private_relay_ec-g_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:3038::/45', 'IPv6');
-INSERT INTO `apple_private_relay_ec-g_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:003c:0011::/64', 'IPv6');
 INSERT INTO `apple_private_relay_ec-g_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:180:4000::/52', 'IPv6');
 INSERT INTO `apple_private_relay_ec-g_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:3600:4000::/52', 'IPv6');
 INSERT INTO `apple_private_relay_ec-g_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:3a00:5000::/52', 'IPv6');

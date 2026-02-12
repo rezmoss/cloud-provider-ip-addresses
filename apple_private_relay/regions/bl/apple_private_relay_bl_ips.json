@@ -145,16 +145,6 @@
     "region": "BL"
   },
   {
-    "ip_address": "2a04:4e41:003c:0000::/64",
-    "ip_type": "IPv6",
-    "region": "BL"
-  },
-  {
-    "ip_address": "2a04:4e41:003c:1000::/56",
-    "ip_type": "IPv6",
-    "region": "BL"
-  },
-  {
     "ip_address": "2a04:4e41:181::/48",
     "ip_type": "IPv6",
     "region": "BL"

@@ -2151,10 +2151,6 @@ INSERT INTO `apple_private_relay_br-sp_ips` (`ip_address`, `ip_type`) VALUES ('2
 INSERT INTO `apple_private_relay_br-sp_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:fb0::/45', 'IPv6');
 INSERT INTO `apple_private_relay_br-sp_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:fb8::/45', 'IPv6');
 INSERT INTO `apple_private_relay_br-sp_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:fc0::/45', 'IPv6');
-INSERT INTO `apple_private_relay_br-sp_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:c00:8000::/52', 'IPv6');
-INSERT INTO `apple_private_relay_br-sp_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:c00:9000::/52', 'IPv6');
-INSERT INTO `apple_private_relay_br-sp_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:c00:a000::/52', 'IPv6');
-INSERT INTO `apple_private_relay_br-sp_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:c00:b000::/52', 'IPv6');
 INSERT INTO `apple_private_relay_br-sp_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:1a00:e000::/52', 'IPv6');
 INSERT INTO `apple_private_relay_br-sp_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:1a00:f000::/52', 'IPv6');
 INSERT INTO `apple_private_relay_br-sp_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:1a01::/52', 'IPv6');
@@ -2187,7 +2183,3 @@ INSERT INTO `apple_private_relay_br-sp_ips` (`ip_address`, `ip_type`) VALUES ('1
 INSERT INTO `apple_private_relay_br-sp_ips` (`ip_address`, `ip_type`) VALUES ('146.75.206.20/31', 'IPv4');
 INSERT INTO `apple_private_relay_br-sp_ips` (`ip_address`, `ip_type`) VALUES ('146.75.206.22/31', 'IPv4');
 INSERT INTO `apple_private_relay_br-sp_ips` (`ip_address`, `ip_type`) VALUES ('146.75.206.24/31', 'IPv4');
-INSERT INTO `apple_private_relay_br-sp_ips` (`ip_address`, `ip_type`) VALUES ('146.75.225.18/31', 'IPv4');
-INSERT INTO `apple_private_relay_br-sp_ips` (`ip_address`, `ip_type`) VALUES ('146.75.225.20/31', 'IPv4');
-INSERT INTO `apple_private_relay_br-sp_ips` (`ip_address`, `ip_type`) VALUES ('146.75.225.22/31', 'IPv4');
-INSERT INTO `apple_private_relay_br-sp_ips` (`ip_address`, `ip_type`) VALUES ('146.75.225.24/31', 'IPv4');

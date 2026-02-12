@@ -1245,11 +1245,6 @@
     "region": "BR-BA"
   },
   {
-    "ip_address": "2a04:4e41:c00::/52",
-    "ip_type": "IPv6",
-    "region": "BR-BA"
-  },
-  {
     "ip_address": "2a04:4e41:1a00:6000::/52",
     "ip_type": "IPv6",
     "region": "BR-BA"
@@ -1286,11 +1281,6 @@
   },
   {
     "ip_address": "146.75.206.2/31",
-    "ip_type": "IPv4",
-    "region": "BR-BA"
-  },
-  {
-    "ip_address": "146.75.225.2/31",
     "ip_type": "IPv4",
     "region": "BR-BA"
   }

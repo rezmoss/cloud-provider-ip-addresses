@@ -135,11 +135,6 @@
     "region": "EC-G"
   },
   {
-    "ip_address": "2a04:4e41:003c:0011::/64",
-    "ip_type": "IPv6",
-    "region": "EC-G"
-  },
-  {
     "ip_address": "2a04:4e41:180:4000::/52",
     "ip_type": "IPv6",
     "region": "EC-G"

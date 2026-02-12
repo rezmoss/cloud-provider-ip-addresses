@@ -326,8 +326,6 @@ ip_address,ip_type,region
 2a09:bac2:3030::/45,IPv6,EC
 2a09:bac3:3028::/45,IPv6,EC
 2a09:bac3:3030::/45,IPv6,EC
-2a04:4e41:003c:0010::/64,IPv6,EC
-2a04:4e41:003c:1500::/56,IPv6,EC
 2a04:4e41:186::/48,IPv6,EC
 2a04:4e41:3619::/48,IPv6,EC
 2a04:4e41:3a1e::/48,IPv6,EC

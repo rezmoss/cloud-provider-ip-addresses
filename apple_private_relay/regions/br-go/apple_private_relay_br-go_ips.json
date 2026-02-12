@@ -865,11 +865,6 @@
     "region": "BR-GO"
   },
   {
-    "ip_address": "2a04:4e41:c00:3000::/52",
-    "ip_type": "IPv6",
-    "region": "BR-GO"
-  },
-  {
     "ip_address": "2a04:4e41:1a00:9000::/52",
     "ip_type": "IPv6",
     "region": "BR-GO"
@@ -906,11 +901,6 @@
   },
   {
     "ip_address": "146.75.206.8/31",
-    "ip_type": "IPv4",
-    "region": "BR-GO"
-  },
-  {
-    "ip_address": "146.75.225.8/31",
     "ip_type": "IPv4",
     "region": "BR-GO"
   }

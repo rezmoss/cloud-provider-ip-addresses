@@ -976,7 +976,6 @@ INSERT INTO `apple_private_relay_br-mg_ips` (`ip_address`, `ip_type`) VALUES ('2
 INSERT INTO `apple_private_relay_br-mg_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:880::/45', 'IPv6');
 INSERT INTO `apple_private_relay_br-mg_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:888::/45', 'IPv6');
 INSERT INTO `apple_private_relay_br-mg_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:d438::/45', 'IPv6');
-INSERT INTO `apple_private_relay_br-mg_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:c00:4000::/52', 'IPv6');
 INSERT INTO `apple_private_relay_br-mg_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:1a00:a000::/52', 'IPv6');
 INSERT INTO `apple_private_relay_br-mg_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:1b00:4000::/52', 'IPv6');
 INSERT INTO `apple_private_relay_br-mg_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:6200:a000::/52', 'IPv6');
@@ -985,4 +984,3 @@ INSERT INTO `apple_private_relay_br-mg_ips` (`ip_address`, `ip_type`) VALUES ('1
 INSERT INTO `apple_private_relay_br-mg_ips` (`ip_address`, `ip_type`) VALUES ('146.75.179.36/31', 'IPv4');
 INSERT INTO `apple_private_relay_br-mg_ips` (`ip_address`, `ip_type`) VALUES ('146.75.191.36/31', 'IPv4');
 INSERT INTO `apple_private_relay_br-mg_ips` (`ip_address`, `ip_type`) VALUES ('146.75.206.10/31', 'IPv4');
-INSERT INTO `apple_private_relay_br-mg_ips` (`ip_address`, `ip_type`) VALUES ('146.75.225.10/31', 'IPv4');

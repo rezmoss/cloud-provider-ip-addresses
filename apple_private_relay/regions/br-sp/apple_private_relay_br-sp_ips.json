@@ -10725,26 +10725,6 @@
     "region": "BR-SP"
   },
   {
-    "ip_address": "2a04:4e41:c00:8000::/52",
-    "ip_type": "IPv6",
-    "region": "BR-SP"
-  },
-  {
-    "ip_address": "2a04:4e41:c00:9000::/52",
-    "ip_type": "IPv6",
-    "region": "BR-SP"
-  },
-  {
-    "ip_address": "2a04:4e41:c00:a000::/52",
-    "ip_type": "IPv6",
-    "region": "BR-SP"
-  },
-  {
-    "ip_address": "2a04:4e41:c00:b000::/52",
-    "ip_type": "IPv6",
-    "region": "BR-SP"
-  },
-  {
     "ip_address": "2a04:4e41:1a00:e000::/52",
     "ip_type": "IPv6",
     "region": "BR-SP"
@@ -10901,26 +10881,6 @@
   },
   {
     "ip_address": "146.75.206.24/31",
-    "ip_type": "IPv4",
-    "region": "BR-SP"
-  },
-  {
-    "ip_address": "146.75.225.18/31",
-    "ip_type": "IPv4",
-    "region": "BR-SP"
-  },
-  {
-    "ip_address": "146.75.225.20/31",
-    "ip_type": "IPv4",
-    "region": "BR-SP"
-  },
-  {
-    "ip_address": "146.75.225.22/31",
-    "ip_type": "IPv4",
-    "region": "BR-SP"
-  },
-  {
-    "ip_address": "146.75.225.24/31",
     "ip_type": "IPv4",
     "region": "BR-SP"
   }

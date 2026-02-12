@@ -1018,8 +1018,6 @@ ip_address,ip_type,region
 2a09:bac3:2680::/45,IPv6,CO
 2a09:bac3:d4b8::/45,IPv6,CO
 2a09:bac3:d518::/45,IPv6,CO
-2a04:4e41:003c:0001::/64,IPv6,CO
-2a04:4e41:003c:1100::/56,IPv6,CO
 2a04:4e41:182::/48,IPv6,CO
 2a04:4e41:3615::/48,IPv6,CO
 2a04:4e41:3a1a::/48,IPv6,CO
