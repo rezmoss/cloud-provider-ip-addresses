@@ -1,6 +1,6 @@
 #!/bin/bash
 # Digitalocean IP Ranges
-# Updated: 2026-02-11 15:35:30
+# Updated: 2026-02-13 02:04:30
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -750,6 +750,7 @@ ufw allow from 165.232.176.0/20
 ufw allow from 165.245.128.0/20
 ufw allow from 165.245.144.0/22
 ufw allow from 165.245.148.0/22
+ufw allow from 165.245.152.0/22
 ufw allow from 165.245.160.0/20
 ufw allow from 165.245.176.0/20
 ufw allow from 167.71.0.0/20
@@ -806,6 +807,7 @@ ufw allow from 167.172.192.0/20
 ufw allow from 167.172.208.0/20
 ufw allow from 167.172.224.0/20
 ufw allow from 167.172.240.0/20
+ufw allow from 168.144.0.0/22
 ufw allow from 170.64.128.0/18
 ufw allow from 170.64.192.0/19
 ufw allow from 170.64.224.0/20

@@ -930,6 +930,12 @@
     "region": "cn-northwest-1"
   },
   {
+    "ip_address": "2404:c2c0:3000::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
     "ip_address": "2404:c2c0:4000:100::/56",
     "ip_type": "IPv6",
     "service": "AMAZON",

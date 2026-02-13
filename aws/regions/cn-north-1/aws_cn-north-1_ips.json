@@ -960,6 +960,12 @@
     "region": "cn-north-1"
   },
   {
+    "ip_address": "2400:7fc0:3000::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "cn-north-1"
+  },
+  {
     "ip_address": "2400:7fc0:4000:100::/56",
     "ip_type": "IPv6",
     "service": "AMAZON",

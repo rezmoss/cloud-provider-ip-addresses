@@ -77,6 +77,7 @@ ip_address,ip_type,service,region
 35.55.21.0/24,IPv4,IVS_REALTIME,eu-west-1
 35.55.32.0/24,IPv4,IVS_REALTIME,us-east-1
 35.55.7.0/24,IPv4,IVS_REALTIME,ap-southeast-1
+35.50.209.0/24,IPv4,IVS_REALTIME,me-south-1
 35.50.144.0/24,IPv4,IVS_REALTIME,us-east-2
 35.50.142.0/24,IPv4,IVS_REALTIME,us-east-2
 35.55.16.0/24,IPv4,IVS_REALTIME,eu-central-1
@@ -190,6 +191,7 @@ ip_address,ip_type,service,region
 2600:f0f0:1124::/48,IPv6,IVS_REALTIME,us-west-2
 2600:f0f0:5520::/48,IPv6,IVS_REALTIME,us-east-2
 2600:f0f0:1128::/48,IPv6,IVS_REALTIME,eu-north-1
+2600:f0f0:5403::/48,IPv6,IVS_REALTIME,me-south-1
 2600:f0f0:e20::/48,IPv6,IVS_REALTIME,me-south-1
 2600:f0f0:5535::/48,IPv6,IVS_REALTIME,ap-northeast-1
 2600:f0f0:e0f::/48,IPv6,IVS_REALTIME,us-east-1

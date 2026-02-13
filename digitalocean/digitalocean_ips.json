@@ -3715,6 +3715,11 @@
     "region": "global"
   },
   {
+    "ip_address": "165.245.152.0/22",
+    "ip_type": "IPv4",
+    "region": "US-NJ"
+  },
+  {
     "ip_address": "165.245.160.0/20",
     "ip_type": "IPv4",
     "region": "global"
@@ -3993,6 +3998,11 @@
     "ip_address": "167.172.240.0/20",
     "ip_type": "IPv4",
     "region": "US-NJ"
+  },
+  {
+    "ip_address": "168.144.0.0/22",
+    "ip_type": "IPv4",
+    "region": "IN-KA"
   },
   {
     "ip_address": "170.64.128.0/18",
