@@ -1,6 +1,6 @@
 #!/bin/bash
 # Aws IP Ranges
-# Updated: 2026-02-13 02:03:54
+# Updated: 2026-02-14 01:52:50
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -437,6 +437,7 @@ ufw allow from 208.78.132.0/23
 ufw allow from 216.198.237.0/24
 ufw allow from 3.2.92.0/24
 ufw allow from 13.248.100.0/24
+ufw allow from 15.129.29.0/24
 ufw allow from 15.230.130.0/24
 ufw allow from 15.230.183.0/24
 ufw allow from 15.230.223.15/32
@@ -2361,7 +2362,6 @@ ufw allow from 15.230.39.38/31
 ufw allow from 15.230.39.168/31
 ufw allow from 15.230.39.204/31
 ufw allow from 18.97.128.0/18
-ufw allow from 35.111.164.0/24
 ufw allow from 52.93.86.196/32
 ufw allow from 52.93.127.197/32
 ufw allow from 52.93.127.207/32
@@ -3923,7 +3923,6 @@ ufw allow from 15.200.0.0/16
 ufw allow from 15.220.236.0/22
 ufw allow from 15.230.39.128/31
 ufw allow from 35.96.2.0/24
-ufw allow from 35.111.160.0/24
 ufw allow from 35.154.0.0/16
 ufw allow from 52.82.0.0/17
 ufw allow from 52.93.90.161/32
@@ -6096,6 +6095,7 @@ ufw allow from 2600:f0f0:5512::/48
 ufw allow from 2605:9cc0:1ff0:8200::/56
 ufw allow from 2606:f40:fff8::/48
 ufw allow from 2606:7b40:10ff:a0::/59
+ufw allow from 2606:7b40:1a3c:330::/60
 ufw allow from 2620:107:3000::/48
 ufw allow from 2620:107:4000:40::/64
 ufw allow from 2a05:d073:2000::/40
@@ -6802,7 +6802,6 @@ ufw allow from 2406:dab9:4000::/40
 ufw allow from 2406:dabb:9000::/40
 ufw allow from 2406:daeb:c800::/40
 ufw allow from 2600:1ff8:4000::/39
-ufw allow from 2600:f0f0:400::/47
 ufw allow from 2600:f0f0:8170::/48
 ufw allow from 2620:107:4000:4705::/64
 ufw allow from 2a05:d03a:6000::/40
@@ -7000,6 +6999,7 @@ ufw allow from 2a01:578:0:7501::1/128
 ufw allow from 2a05:d074:a000::/40
 ufw allow from 2400:7fc0:3000::/40
 ufw allow from 2406:daf8:8800::/40
+ufw allow from 2600:f0f0:400::/44
 ufw allow from 2600:f0f0:552d::/48
 ufw allow from 2600:f0f2:7020::/48
 ufw allow from 2a05:d06f:e000::/40

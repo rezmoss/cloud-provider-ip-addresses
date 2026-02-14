@@ -1,10 +1,10 @@
 # IP Range Statistics
 
-Generated: 2026-02-13T02:05:41.000853
+Generated: 2026-02-14T01:54:39.294136
 
-Total IPv4 addresses: 333,446,498
-Total IPv6 addresses: 5,205,250,071,141,905,082,203,634,647,995,834
-IPv4 space coverage: 7.7637%
+Total IPv4 addresses: 333,445,986
+Total IPv6 addresses: 5,205,250,104,992,418,327,223,610,245,420,474
+IPv4 space coverage: 7.7636%
 
 | Provider | IPv4 CIDRs | IPv6 CIDRs | Total CIDRs | IPv4 Addresses | Services | Regions |
 |----------|-----------|-----------|------------|---------------|----------|--------|
@@ -12,7 +12,7 @@ IPv4 space coverage: 7.7637%
 | apple_private_relay | 41,660 | 245,176 | 286,836 | 105,638 | 0 | 1222 |
 | applebot | 12 | 0 | 12 | 2,400 | 1 | 0 |
 | atlassian | 194 | 59 | 253 | 78,646 | 11 | 18 |
-| aws | 9,817 | 4,951 | 14,768 | 180,175,673 | 26 | 42 |
+| aws | 9,815 | 4,953 | 14,768 | 180,175,161 | 26 | 42 |
 | azure | 74,090 | 25,568 | 99,658 | 99,729,874 | 3128 | 73 |
 | bingbot | 28 | 0 | 28 | 4,736 | 1 | 0 |
 | cloudflare | 15 | 7 | 22 | 1,524,736 | 0 | 0 |
