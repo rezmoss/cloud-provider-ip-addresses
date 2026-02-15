@@ -6,6 +6,12 @@
     "region": "asia-northeast3"
   },
   {
+    "ip_address": "8.230.0.0/19",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "asia-northeast3"
+  },
+  {
     "ip_address": "34.0.96.0/19",
     "ip_type": "IPv4",
     "service": "Google Cloud",

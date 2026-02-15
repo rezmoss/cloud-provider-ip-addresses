@@ -1,5 +1,6 @@
 ip_address,ip_type,service,region
 8.228.128.0/18,IPv4,Google Cloud,asia-northeast3
+8.230.0.0/19,IPv4,Google Cloud,asia-northeast3
 34.0.96.0/19,IPv4,Google Cloud,asia-northeast3
 34.4.128.0/18,IPv4,Google Cloud,asia-northeast3
 34.22.64.0/19,IPv4,Google Cloud,asia-northeast3

@@ -1,4 +1,5 @@
 ip_address,ip_type,service,region
+8.230.32.0/19,IPv4,Google Cloud,me-west1
 34.0.64.0/19,IPv4,Google Cloud,me-west1
 34.153.62.128/25,IPv4,Google Cloud,me-west1
 34.153.252.128/25,IPv4,Google Cloud,me-west1
