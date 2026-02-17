@@ -36,6 +36,18 @@
     "region": "ap-southeast-7"
   },
   {
+    "ip_address": "64.73.202.64/27",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-southeast-7"
+  },
+  {
+    "ip_address": "64.73.202.128/27",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-southeast-7"
+  },
+  {
     "ip_address": "104.255.59.209/32",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -85,6 +97,12 @@
   },
   {
     "ip_address": "150.222.53.32/27",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-southeast-7"
+  },
+  {
+    "ip_address": "64.73.202.160/27",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "ap-southeast-7"
@@ -157,6 +175,24 @@
   },
   {
     "ip_address": "3.2.88.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-southeast-7"
+  },
+  {
+    "ip_address": "64.73.202.96/27",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-southeast-7"
+  },
+  {
+    "ip_address": "64.73.202.192/27",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-southeast-7"
+  },
+  {
+    "ip_address": "64.73.202.32/27",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "ap-southeast-7"
@@ -282,6 +318,18 @@
     "region": "ap-southeast-7"
   },
   {
+    "ip_address": "64.73.202.64/27",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "ap-southeast-7"
+  },
+  {
+    "ip_address": "64.73.202.128/27",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "ap-southeast-7"
+  },
+  {
     "ip_address": "18.97.80.0/20",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -295,6 +343,12 @@
   },
   {
     "ip_address": "15.177.103.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "ap-southeast-7"
+  },
+  {
+    "ip_address": "64.73.202.160/27",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "ap-southeast-7"
@@ -319,6 +373,24 @@
   },
   {
     "ip_address": "3.2.88.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "ap-southeast-7"
+  },
+  {
+    "ip_address": "64.73.202.96/27",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "ap-southeast-7"
+  },
+  {
+    "ip_address": "64.73.202.192/27",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "ap-southeast-7"
+  },
+  {
+    "ip_address": "64.73.202.32/27",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "ap-southeast-7"
