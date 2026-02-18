@@ -1320,6 +1320,12 @@
     "region": "GLOBAL"
   },
   {
+    "ip_address": "2600:f0f0:601::/48",
+    "ip_type": "IPv6",
+    "service": "CLOUDFRONT",
+    "region": "GLOBAL"
+  },
+  {
     "ip_address": "2600:9000:f520::/44",
     "ip_type": "IPv6",
     "service": "CLOUDFRONT",
@@ -1339,6 +1345,12 @@
   },
   {
     "ip_address": "2600:9000:f580::/41",
+    "ip_type": "IPv6",
+    "service": "CLOUDFRONT",
+    "region": "GLOBAL"
+  },
+  {
+    "ip_address": "2600:f0f0:602::/47",
     "ip_type": "IPv6",
     "service": "CLOUDFRONT",
     "region": "GLOBAL"

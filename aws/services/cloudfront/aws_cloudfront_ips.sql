@@ -226,10 +226,12 @@ INSERT INTO `aws_cloudfront_ips` (`ip_address`, `ip_type`) VALUES ('2409:8c00:24
 INSERT INTO `aws_cloudfront_ips` (`ip_address`, `ip_type`) VALUES ('2404:c2c0:500::/40', 'IPv6');
 INSERT INTO `aws_cloudfront_ips` (`ip_address`, `ip_type`) VALUES ('2600:9000:5308::/45', 'IPv6');
 INSERT INTO `aws_cloudfront_ips` (`ip_address`, `ip_type`) VALUES ('2600:9000:f534::/46', 'IPv6');
+INSERT INTO `aws_cloudfront_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f0:601::/48', 'IPv6');
 INSERT INTO `aws_cloudfront_ips` (`ip_address`, `ip_type`) VALUES ('2600:9000:f520::/44', 'IPv6');
 INSERT INTO `aws_cloudfront_ips` (`ip_address`, `ip_type`) VALUES ('2600:9000:5320::/43', 'IPv6');
 INSERT INTO `aws_cloudfront_ips` (`ip_address`, `ip_type`) VALUES ('2600:9000:5310::/44', 'IPv6');
 INSERT INTO `aws_cloudfront_ips` (`ip_address`, `ip_type`) VALUES ('2600:9000:f580::/41', 'IPv6');
+INSERT INTO `aws_cloudfront_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f0:602::/47', 'IPv6');
 INSERT INTO `aws_cloudfront_ips` (`ip_address`, `ip_type`) VALUES ('2600:9000:5340::/42', 'IPv6');
 INSERT INTO `aws_cloudfront_ips` (`ip_address`, `ip_type`) VALUES ('2600:9000:eee::/48', 'IPv6');
 INSERT INTO `aws_cloudfront_ips` (`ip_address`, `ip_type`) VALUES ('2600:9000:5200::/40', 'IPv6');

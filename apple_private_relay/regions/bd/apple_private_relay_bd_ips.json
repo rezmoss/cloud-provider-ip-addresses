@@ -520,6 +520,11 @@
     "region": "BD"
   },
   {
+    "ip_address": "104.28.136.222/32",
+    "ip_type": "IPv4",
+    "region": "BD"
+  },
+  {
     "ip_address": "104.28.138.47/32",
     "ip_type": "IPv4",
     "region": "BD"

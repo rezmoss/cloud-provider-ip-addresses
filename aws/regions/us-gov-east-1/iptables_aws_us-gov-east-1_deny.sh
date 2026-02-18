@@ -1,6 +1,6 @@
 #!/bin/bash
 # Aws IP Ranges
-# Updated: 2026-02-11 15:35:03
+# Updated: 2026-02-18 02:00:19
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -117,10 +117,12 @@ ip6tables -A INPUT -s 2600:1ff8:5000::/36 -j DROP
 ip6tables -A INPUT -s 2600:1f36:5000::/40 -j DROP
 ip6tables -A INPUT -s 2606:8140:200::/40 -j DROP
 ip6tables -A INPUT -s 2600:f0f0:4141::/48 -j DROP
+ip6tables -A INPUT -s 2600:f0f2:7000::/44 -j DROP
 ip6tables -A INPUT -s 2600:1fb9:5000::/40 -j DROP
 ip6tables -A INPUT -s 2600:f0f0:6124::/48 -j DROP
 ip6tables -A INPUT -s 2600:1f30:5000::/40 -j DROP
 ip6tables -A INPUT -s 2600:1f61:5000::/40 -j DROP
+ip6tables -A INPUT -s 2600:f0f0:400::/44 -j DROP
 ip6tables -A INPUT -s 2600:1ff9:5000::/40 -j DROP
 ip6tables -A INPUT -s 2600:1f32:5000::/40 -j DROP
 ip6tables -A INPUT -s 2600:1fea:5000::/40 -j DROP
@@ -158,10 +160,12 @@ ip6tables -A INPUT -s 2600:1f60:5000::/40 -j DROP
 ip6tables -A INPUT -s 2600:1f36:5000::/40 -j DROP
 ip6tables -A INPUT -s 2606:8140:200::/40 -j DROP
 ip6tables -A INPUT -s 2600:f0f0:4141::/48 -j DROP
+ip6tables -A INPUT -s 2600:f0f2:7000::/44 -j DROP
 ip6tables -A INPUT -s 2600:1fb9:5000::/40 -j DROP
 ip6tables -A INPUT -s 2600:f0f0:6124::/48 -j DROP
 ip6tables -A INPUT -s 2600:1f30:5000::/40 -j DROP
 ip6tables -A INPUT -s 2600:1f61:5000::/40 -j DROP
+ip6tables -A INPUT -s 2600:f0f0:400::/44 -j DROP
 ip6tables -A INPUT -s 2600:1f32:5000::/40 -j DROP
 ip6tables -A INPUT -s 2600:1fea:5000::/40 -j DROP
 ip6tables -A INPUT -s 2600:1ff4:5000::/40 -j DROP
@@ -174,4 +178,6 @@ ip6tables -A INPUT -s 2600:1f70:5000::/40 -j DROP
 ip6tables -A INPUT -s 2600:1ff3:5000::/40 -j DROP
 ip6tables -A INPUT -s 2600:1fff:5000::/40 -j DROP
 ip6tables -A INPUT -s 2600:1fef:5000::/40 -j DROP
+ip6tables -A INPUT -s 2600:f0f2:7000::/44 -j DROP
+ip6tables -A INPUT -s 2600:f0f0:400::/44 -j DROP
 ip6tables -A INPUT -s 2600:1f15:d63:bd00::/56 -j DROP

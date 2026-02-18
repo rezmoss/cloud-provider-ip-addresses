@@ -648,6 +648,12 @@
     "region": "ap-northeast-2"
   },
   {
+    "ip_address": "54.116.70.0/23",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-northeast-2"
+  },
+  {
     "ip_address": "54.180.184.0/23",
     "ip_type": "IPv4",
     "service": "AMAZON",

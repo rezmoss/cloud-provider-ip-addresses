@@ -660,6 +660,12 @@
     "region": "us-gov-east-1"
   },
   {
+    "ip_address": "2600:f0f2:7000::/44",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-gov-east-1"
+  },
+  {
     "ip_address": "2600:1fb9:5000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -679,6 +685,12 @@
   },
   {
     "ip_address": "2600:1f61:5000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "2600:f0f0:400::/44",
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "us-gov-east-1"
@@ -906,6 +918,12 @@
     "region": "us-gov-east-1"
   },
   {
+    "ip_address": "2600:f0f2:7000::/44",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-gov-east-1"
+  },
+  {
     "ip_address": "2600:1fb9:5000::/40",
     "ip_type": "IPv6",
     "service": "EC2",
@@ -925,6 +943,12 @@
   },
   {
     "ip_address": "2600:1f61:5000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "2600:f0f0:400::/44",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "us-gov-east-1"
@@ -999,6 +1023,18 @@
     "ip_address": "2600:1fef:5000::/40",
     "ip_type": "IPv6",
     "service": "EC2",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "2600:f0f2:7000::/44",
+    "ip_type": "IPv6",
+    "service": "ROUTE53",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "2600:f0f0:400::/44",
+    "ip_type": "IPv6",
+    "service": "ROUTE53",
     "region": "us-gov-east-1"
   },
   {

@@ -2832,12 +2832,6 @@
     "region": "GLOBAL"
   },
   {
-    "ip_address": "2600:f0f2:7000::/44",
-    "ip_type": "IPv6",
-    "service": "AMAZON",
-    "region": "GLOBAL"
-  },
-  {
     "ip_address": "2600:9000:5380::/41",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -2958,13 +2952,13 @@
     "region": "GLOBAL"
   },
   {
-    "ip_address": "2600:f0f0:400::/44",
+    "ip_address": "2600:9000:ad00::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "GLOBAL"
   },
   {
-    "ip_address": "2600:9000:ad00::/40",
+    "ip_address": "2600:f0f0:601::/48",
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "GLOBAL"
@@ -3025,6 +3019,12 @@
   },
   {
     "ip_address": "2605:9cc0:1ff0:2800::/56",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "GLOBAL"
+  },
+  {
+    "ip_address": "2600:f0f0:602::/47",
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "GLOBAL"
@@ -3180,12 +3180,6 @@
     "region": "GLOBAL"
   },
   {
-    "ip_address": "2600:f0f2:7000::/44",
-    "ip_type": "IPv6",
-    "service": "ROUTE53",
-    "region": "GLOBAL"
-  },
-  {
     "ip_address": "2600:9000:f530::/46",
     "ip_type": "IPv6",
     "service": "ROUTE53",
@@ -3199,12 +3193,6 @@
   },
   {
     "ip_address": "2600:f0f3:f000::/44",
-    "ip_type": "IPv6",
-    "service": "ROUTE53",
-    "region": "GLOBAL"
-  },
-  {
-    "ip_address": "2600:f0f0:400::/44",
     "ip_type": "IPv6",
     "service": "ROUTE53",
     "region": "GLOBAL"
@@ -3342,6 +3330,12 @@
     "region": "GLOBAL"
   },
   {
+    "ip_address": "2600:f0f0:601::/48",
+    "ip_type": "IPv6",
+    "service": "CLOUDFRONT",
+    "region": "GLOBAL"
+  },
+  {
     "ip_address": "2600:9000:f520::/44",
     "ip_type": "IPv6",
     "service": "CLOUDFRONT",
@@ -3361,6 +3355,12 @@
   },
   {
     "ip_address": "2600:9000:f580::/41",
+    "ip_type": "IPv6",
+    "service": "CLOUDFRONT",
+    "region": "GLOBAL"
+  },
+  {
+    "ip_address": "2600:f0f0:602::/47",
     "ip_type": "IPv6",
     "service": "CLOUDFRONT",
     "region": "GLOBAL"

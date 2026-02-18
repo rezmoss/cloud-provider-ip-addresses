@@ -1,8 +1,8 @@
 {
-  "generated": "2026-02-17T01:58:40.724482",
+  "generated": "2026-02-18T02:02:01.831969",
   "provider_count": 22,
-  "total_ipv4_addresses": 333628244,
-  "total_ipv6_addresses": 5205250107410269966452868594832826,
+  "total_ipv4_addresses": 333629781,
+  "total_ipv6_addresses": 5205250772319433861010767264126394,
   "ipv4_space_coverage_pct": 7.7679,
   "providers": {
     "cloudflare": {
@@ -15,11 +15,11 @@
       "regions": 0
     },
     "aws": {
-      "ipv4_cidrs": 10026,
-      "ipv6_cidrs": 4954,
-      "total_cidrs": 14980,
-      "ipv4_addresses": 180275531,
-      "ipv6_addresses": 2995860366423889167838055759885,
+      "ipv4_cidrs": 10030,
+      "ipv6_cidrs": 4960,
+      "total_cidrs": 14990,
+      "ipv4_addresses": 180277067,
+      "ipv6_addresses": 2996525275587783725736725053453,
       "services": 26,
       "regions": 42
     },
@@ -123,10 +123,10 @@
       "regions": 0
     },
     "apple_private_relay": {
-      "ipv4_cidrs": 41660,
+      "ipv4_cidrs": 41661,
       "ipv6_cidrs": 245176,
-      "total_cidrs": 286836,
-      "ipv4_addresses": 105638,
+      "total_cidrs": 286837,
+      "ipv4_addresses": 105639,
       "ipv6_addresses": 218581849431931909934642364416,
       "services": 0,
       "regions": 1222

@@ -107,6 +107,7 @@ ip_address,ip_type,service,region
 3.38.131.192/26,IPv4,AMAZON,ap-northeast-2
 43.202.70.0/23,IPv4,AMAZON,ap-northeast-2
 43.202.72.0/22,IPv4,AMAZON,ap-northeast-2
+54.116.70.0/23,IPv4,AMAZON,ap-northeast-2
 54.180.184.0/23,IPv4,AMAZON,ap-northeast-2
 99.77.242.0/24,IPv4,CHIME_VOICECONNECTOR,ap-northeast-2
 3.5.140.0/22,IPv4,S3,ap-northeast-2
