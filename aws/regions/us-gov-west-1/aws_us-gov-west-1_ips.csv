@@ -145,6 +145,7 @@ ip_address,ip_type,service,region
 2600:f0f2:7140::/48,IPv6,AMAZON,us-gov-west-1
 2600:1ff0:2000::/40,IPv6,AMAZON,us-gov-west-1
 2600:1f38:2000::/40,IPv6,AMAZON,us-gov-west-1
+2600:f0f3:f000::/44,IPv6,AMAZON,us-gov-west-1
 2600:1f00:2000::/40,IPv6,AMAZON,us-gov-west-1
 2600:1fef:2000::/40,IPv6,AMAZON,us-gov-west-1
 2600:1ff8:2000::/40,IPv6,AMAZON,us-gov-west-1
@@ -188,6 +189,7 @@ ip_address,ip_type,service,region
 2600:f0f2:7140::/48,IPv6,EC2,us-gov-west-1
 2600:1ff0:2000::/40,IPv6,EC2,us-gov-west-1
 2600:1f38:2000::/40,IPv6,EC2,us-gov-west-1
+2600:f0f3:f000::/44,IPv6,EC2,us-gov-west-1
 2600:1f00:2000::/40,IPv6,EC2,us-gov-west-1
 2600:1fef:2000::/40,IPv6,EC2,us-gov-west-1
 2600:f0f0:4140::/48,IPv6,EC2,us-gov-west-1
@@ -202,5 +204,6 @@ ip_address,ip_type,service,region
 2600:1fb9:2000::/40,IPv6,EC2,us-gov-west-1
 2600:1f61:2000::/40,IPv6,EC2,us-gov-west-1
 2600:f0f2:7029::/48,IPv6,EC2,us-gov-west-1
+2600:f0f3:f000::/44,IPv6,ROUTE53,us-gov-west-1
 2600:f0f2:7140::/48,IPv6,AMAZON_CONNECT,us-gov-west-1
 2600:1f12:fa9:5100::/56,IPv6,EC2_INSTANCE_CONNECT,us-gov-west-1

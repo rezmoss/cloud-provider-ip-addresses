@@ -462,6 +462,7 @@ ip_address,ip_type,service,region
 13.160.0.0/16,IPv4,EC2,eu-central-1
 35.156.0.0/14,IPv4,EC2,eu-central-1
 15.145.16.0/22,IPv4,EC2,eu-central-1
+51.102.0.0/16,IPv4,EC2,eu-central-1
 15.145.4.0/23,IPv4,EC2,eu-central-1
 63.184.0.0/13,IPv4,EC2,eu-central-1
 18.153.0.0/16,IPv4,EC2,eu-central-1

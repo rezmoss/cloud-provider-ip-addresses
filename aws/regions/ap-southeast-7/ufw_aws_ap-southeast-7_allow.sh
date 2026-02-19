@@ -1,6 +1,6 @@
 #!/bin/bash
 # Aws IP Ranges
-# Updated: 2026-02-17 01:56:56
+# Updated: 2026-02-19 01:59:15
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -10,21 +10,21 @@
 ufw allow from 65.178.0.0/15
 ufw allow from 3.5.60.0/22
 ufw allow from 104.255.59.208/32
+ufw allow from 64.73.207.0/24
 ufw allow from 13.248.77.0/24
 ufw allow from 43.210.0.0/15
+ufw allow from 64.73.209.0/24
 ufw allow from 1.178.28.0/24
-ufw allow from 64.73.202.64/27
-ufw allow from 64.73.202.128/27
 ufw allow from 104.255.59.209/32
 ufw allow from 104.255.59.207/32
 ufw allow from 18.97.80.0/20
 ufw allow from 150.222.53.96/27
+ufw allow from 64.73.208.0/24
 ufw allow from 16.12.76.0/23
 ufw allow from 35.71.126.0/24
 ufw allow from 15.177.103.0/24
 ufw allow from 15.190.252.0/22
 ufw allow from 150.222.53.32/27
-ufw allow from 64.73.202.160/27
 ufw allow from 76.223.170.64/28
 ufw allow from 136.18.144.0/21
 ufw allow from 150.222.53.64/27
@@ -37,9 +37,6 @@ ufw allow from 15.190.80.0/20
 ufw allow from 43.208.0.0/15
 ufw allow from 16.12.75.0/24
 ufw allow from 3.2.88.0/24
-ufw allow from 64.73.202.96/27
-ufw allow from 64.73.202.192/27
-ufw allow from 64.73.202.32/27
 ufw allow from 104.255.59.210/32
 ufw allow from 43.208.52.0/24
 ufw allow from 43.208.53.0/24
@@ -58,21 +55,18 @@ ufw allow from 1.178.28.0/24
 ufw allow from 43.208.66.128/28
 ufw allow from 43.208.66.144/28
 ufw allow from 3.5.60.0/22
+ufw allow from 64.73.207.0/24
 ufw allow from 43.210.0.0/15
+ufw allow from 64.73.209.0/24
 ufw allow from 1.178.28.0/24
-ufw allow from 64.73.202.64/27
-ufw allow from 64.73.202.128/27
 ufw allow from 18.97.80.0/20
+ufw allow from 64.73.208.0/24
 ufw allow from 35.71.126.0/24
 ufw allow from 15.177.103.0/24
-ufw allow from 64.73.202.160/27
 ufw allow from 136.18.144.0/21
 ufw allow from 52.94.250.112/28
 ufw allow from 43.208.0.0/15
 ufw allow from 3.2.88.0/24
-ufw allow from 64.73.202.96/27
-ufw allow from 64.73.202.192/27
-ufw allow from 64.73.202.32/27
 ufw allow from 15.177.103.0/24
 ufw allow from 43.209.155.112/28
 ufw allow from 43.208.28.0/24
