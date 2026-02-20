@@ -3798,6 +3798,12 @@
     "region": "westcentralus"
   },
   {
+    "ip_address": "57.157.80.68/31",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.westcentralus",
+    "region": "westcentralus"
+  },
+  {
     "ip_address": "64.4.8.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.westcentralus",

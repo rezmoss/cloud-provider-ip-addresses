@@ -2658,6 +2658,12 @@
     "region": "canadaeast"
   },
   {
+    "ip_address": "52.112.243.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadaeast",
+    "region": "canadaeast"
+  },
+  {
     "ip_address": "52.114.164.0/22",
     "ip_type": "IPv4",
     "service": "AzureCloud.canadaeast",

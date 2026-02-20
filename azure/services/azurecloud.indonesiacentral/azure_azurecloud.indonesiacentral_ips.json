@@ -60,7 +60,13 @@
     "region": "indonesiacentral"
   },
   {
-    "ip_address": "20.20.65.96/31",
+    "ip_address": "20.20.65.96/30",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.indonesiacentral",
+    "region": "indonesiacentral"
+  },
+  {
+    "ip_address": "20.20.65.100/31",
     "ip_type": "IPv4",
     "service": "AzureCloud.indonesiacentral",
     "region": "indonesiacentral"
@@ -384,7 +390,13 @@
     "region": "indonesiacentral"
   },
   {
-    "ip_address": "2603:1061:1010:a8::/64",
+    "ip_address": "2603:1061:1010:a8::/63",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.indonesiacentral",
+    "region": "indonesiacentral"
+  },
+  {
+    "ip_address": "2603:1061:1010:aa::/64",
     "ip_type": "IPv6",
     "service": "AzureCloud.indonesiacentral",
     "region": "indonesiacentral"

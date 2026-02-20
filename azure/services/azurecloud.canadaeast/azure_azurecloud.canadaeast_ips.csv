@@ -63,6 +63,7 @@ ip_address,ip_type,service,region
 52.108.232.0/23,IPv4,AzureCloud.canadaeast,canadaeast
 52.109.96.0/22,IPv4,AzureCloud.canadaeast,canadaeast
 52.111.226.0/24,IPv4,AzureCloud.canadaeast,canadaeast
+52.112.243.0/24,IPv4,AzureCloud.canadaeast,canadaeast
 52.114.164.0/22,IPv4,AzureCloud.canadaeast,canadaeast
 52.123.184.0/24,IPv4,AzureCloud.canadaeast,canadaeast
 52.136.22.0/24,IPv4,AzureCloud.canadaeast,canadaeast

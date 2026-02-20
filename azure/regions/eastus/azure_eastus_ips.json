@@ -9948,6 +9948,18 @@
     "region": "eastus"
   },
   {
+    "ip_address": "52.112.44.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.eastus",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "52.112.70.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.eastus",
+    "region": "eastus"
+  },
+  {
     "ip_address": "52.112.112.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.eastus",
@@ -10014,7 +10026,73 @@
     "region": "eastus"
   },
   {
+    "ip_address": "52.115.20.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.eastus",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "52.115.22.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.eastus",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "52.115.24.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.eastus",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "52.115.26.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.eastus",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "52.115.28.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.eastus",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "52.115.30.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.eastus",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "52.115.50.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.eastus",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "52.115.52.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.eastus",
+    "region": "eastus"
+  },
+  {
     "ip_address": "52.115.54.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.eastus",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "52.115.56.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.eastus",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "52.115.59.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.eastus",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "52.115.61.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.eastus",
     "region": "eastus"

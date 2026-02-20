@@ -118,6 +118,7 @@ INSERT INTO `azure_azurecloud.westus3_ips` (`ip_address`, `ip_type`) VALUES ('52
 INSERT INTO `azure_azurecloud.westus3_ips` (`ip_address`, `ip_type`) VALUES ('52.112.53.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.westus3_ips` (`ip_address`, `ip_type`) VALUES ('52.112.133.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.westus3_ips` (`ip_address`, `ip_type`) VALUES ('52.123.57.0/24', 'IPv4');
+INSERT INTO `azure_azurecloud.westus3_ips` (`ip_address`, `ip_type`) VALUES ('52.123.217.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.westus3_ips` (`ip_address`, `ip_type`) VALUES ('52.253.182.0/23', 'IPv4');
 INSERT INTO `azure_azurecloud.westus3_ips` (`ip_address`, `ip_type`) VALUES ('52.253.184.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.westus3_ips` (`ip_address`, `ip_type`) VALUES ('57.150.13.176/28', 'IPv4');
@@ -140,8 +141,7 @@ INSERT INTO `azure_azurecloud.westus3_ips` (`ip_address`, `ip_type`) VALUES ('57
 INSERT INTO `azure_azurecloud.westus3_ips` (`ip_address`, `ip_type`) VALUES ('57.157.8.0/22', 'IPv4');
 INSERT INTO `azure_azurecloud.westus3_ips` (`ip_address`, `ip_type`) VALUES ('57.157.128.0/25', 'IPv4');
 INSERT INTO `azure_azurecloud.westus3_ips` (`ip_address`, `ip_type`) VALUES ('57.157.128.128/26', 'IPv4');
-INSERT INTO `azure_azurecloud.westus3_ips` (`ip_address`, `ip_type`) VALUES ('57.157.128.192/28', 'IPv4');
-INSERT INTO `azure_azurecloud.westus3_ips` (`ip_address`, `ip_type`) VALUES ('57.157.128.208/29', 'IPv4');
+INSERT INTO `azure_azurecloud.westus3_ips` (`ip_address`, `ip_type`) VALUES ('57.157.128.192/27', 'IPv4');
 INSERT INTO `azure_azurecloud.westus3_ips` (`ip_address`, `ip_type`) VALUES ('70.152.40.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.westus3_ips` (`ip_address`, `ip_type`) VALUES ('70.152.67.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.westus3_ips` (`ip_address`, `ip_type`) VALUES ('70.152.68.0/23', 'IPv4');

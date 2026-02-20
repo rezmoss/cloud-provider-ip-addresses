@@ -7338,6 +7338,30 @@
     "region": "centralus"
   },
   {
+    "ip_address": "52.112.0.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.centralus",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "52.112.3.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.centralus",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "52.112.5.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.centralus",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "52.112.11.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.centralus",
+    "region": "centralus"
+  },
+  {
     "ip_address": "52.112.72.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.centralus",
@@ -7351,6 +7375,12 @@
   },
   {
     "ip_address": "52.113.129.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.centralus",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "52.114.2.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.centralus",
     "region": "centralus"

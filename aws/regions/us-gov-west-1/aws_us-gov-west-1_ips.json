@@ -876,6 +876,12 @@
     "region": "us-gov-west-1"
   },
   {
+    "ip_address": "2600:f0fb:f000::/44",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-gov-west-1"
+  },
+  {
     "ip_address": "2600:f0f3:f000::/44",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -1140,6 +1146,12 @@
     "region": "us-gov-west-1"
   },
   {
+    "ip_address": "2600:f0fb:f000::/44",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-gov-west-1"
+  },
+  {
     "ip_address": "2600:f0f3:f000::/44",
     "ip_type": "IPv6",
     "service": "EC2",
@@ -1227,6 +1239,12 @@
     "ip_address": "2600:f0f2:7029::/48",
     "ip_type": "IPv6",
     "service": "EC2",
+    "region": "us-gov-west-1"
+  },
+  {
+    "ip_address": "2600:f0fb:f000::/44",
+    "ip_type": "IPv6",
+    "service": "ROUTE53",
     "region": "us-gov-west-1"
   },
   {

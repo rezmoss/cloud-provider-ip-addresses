@@ -58,7 +58,6 @@ INSERT INTO `azure_azurecloud.koreasouth_ips` (`ip_address`, `ip_type`) VALUES (
 INSERT INTO `azure_azurecloud.koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('52.108.226.0/23', 'IPv4');
 INSERT INTO `azure_azurecloud.koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('52.109.48.0/22', 'IPv4');
 INSERT INTO `azure_azurecloud.koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('52.111.234.0/24', 'IPv4');
-INSERT INTO `azure_azurecloud.koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('52.113.111.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('52.113.156.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('52.114.48.0/22', 'IPv4');
 INSERT INTO `azure_azurecloud.koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('52.123.39.0/24', 'IPv4');

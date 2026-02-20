@@ -64437,7 +64437,7 @@
     "ip_address": "2600:f0fb:f000::/44",
     "ip_type": "IPv6",
     "service": "AMAZON",
-    "region": "GLOBAL"
+    "region": "us-gov-west-1"
   },
   {
     "ip_address": "2620:107:4000:9900:50:80::/96",
@@ -81300,6 +81300,12 @@
     "region": "eu-central-1"
   },
   {
+    "ip_address": "2600:f0fb:f000::/44",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-gov-west-1"
+  },
+  {
     "ip_address": "2a05:d07f:8000::/40",
     "ip_type": "IPv6",
     "service": "EC2",
@@ -88242,12 +88248,6 @@
     "region": "GLOBAL"
   },
   {
-    "ip_address": "2600:f0fb:f000::/44",
-    "ip_type": "IPv6",
-    "service": "ROUTE53",
-    "region": "GLOBAL"
-  },
-  {
     "ip_address": "2600:9000:5300::/45",
     "ip_type": "IPv6",
     "service": "ROUTE53",
@@ -88270,6 +88270,12 @@
     "ip_type": "IPv6",
     "service": "ROUTE53",
     "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "2600:f0fb:f000::/44",
+    "ip_type": "IPv6",
+    "service": "ROUTE53",
+    "region": "us-gov-west-1"
   },
   {
     "ip_address": "2600:f0f3:f000::/44",

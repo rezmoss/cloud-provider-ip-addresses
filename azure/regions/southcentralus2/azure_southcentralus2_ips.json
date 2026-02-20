@@ -750,7 +750,7 @@
     "region": "southcentralus2"
   },
   {
-    "ip_address": "20.20.72.184/31",
+    "ip_address": "20.20.72.184/30",
     "ip_type": "IPv4",
     "service": "AzureCloud.southcentralus2",
     "region": "southcentralus2"
@@ -930,7 +930,7 @@
     "region": "southcentralus2"
   },
   {
-    "ip_address": "2603:1061:1012:54::/64",
+    "ip_address": "2603:1061:1012:54::/63",
     "ip_type": "IPv6",
     "service": "AzureCloud.southcentralus2",
     "region": "southcentralus2"
