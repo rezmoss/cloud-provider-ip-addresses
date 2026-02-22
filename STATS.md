@@ -1,9 +1,9 @@
 # IP Range Statistics
 
-Generated: 2026-02-21T01:51:59.975750
+Generated: 2026-02-22T02:00:20.842255
 
-Total IPv4 addresses: 334,269,349
-Total IPv6 addresses: 5,205,250,813,433,020,543,660,552,038,422,458
+Total IPv4 addresses: 334,269,397
+Total IPv6 addresses: 5,205,250,813,437,742,910,143,421,683,636,154
 IPv4 space coverage: 7.7828%
 
 | Provider | IPv4 CIDRs | IPv6 CIDRs | Total CIDRs | IPv4 Addresses | Services | Regions |
@@ -12,7 +12,7 @@ IPv4 space coverage: 7.7828%
 | apple_private_relay | 41,661 | 245,176 | 286,837 | 105,639 | 0 | 1222 |
 | applebot | 12 | 0 | 12 | 2,400 | 1 | 0 |
 | atlassian | 194 | 59 | 253 | 78,646 | 11 | 18 |
-| aws | 9,894 | 4,962 | 14,856 | 180,870,987 | 26 | 42 |
+| aws | 9,896 | 4,963 | 14,859 | 180,871,003 | 26 | 42 |
 | azure | 74,270 | 25,570 | 99,840 | 99,775,522 | 3128 | 73 |
 | bingbot | 28 | 0 | 28 | 4,736 | 1 | 0 |
 | cloudflare | 15 | 7 | 22 | 1,524,736 | 0 | 0 |
@@ -23,7 +23,7 @@ IPv4 space coverage: 7.7828%
 | github | 4,725 | 1,160 | 5,885 | 25,193,438 | 11 | 0 |
 | googlebot | 165 | 142 | 307 | 4,928 | 1 | 0 |
 | googlecloud | 836 | 48 | 884 | 16,459,392 | 1 | 48 |
-| gptbot | 280 | 0 | 280 | 9,552 | 3 | 0 |
+| gptbot | 282 | 0 | 282 | 9,584 | 3 | 0 |
 | linode | 5,132 | 92 | 5,224 | 1,321,728 | 0 | 37 |
 | oracle | 1,042 | 0 | 1,042 | 3,993,226 | 3 | 53 |
 | perplexitybot | 12 | 0 | 12 | 32 | 2 | 0 |
