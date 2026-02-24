@@ -240,6 +240,18 @@
     "region": "eu-west-3"
   },
   {
+    "ip_address": "16.164.22.0/31",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "il-central-1"
+  },
+  {
+    "ip_address": "16.164.22.4/30",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "il-central-1"
+  },
+  {
     "ip_address": "16.24.91.112/30",
     "ip_type": "IPv4",
     "service": "KINESIS_VIDEO_STREAMS",

@@ -8556,6 +8556,12 @@
     "region": "us-west-1"
   },
   {
+    "ip_address": "69.107.12.104/29",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-south-1"
+  },
+  {
     "ip_address": "99.83.120.0/22",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -20406,6 +20412,12 @@
     "region": "ap-northeast-1"
   },
   {
+    "ip_address": "45.33.166.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "51.0.112.0/21",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -23560,6 +23572,12 @@
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "GLOBAL"
+  },
+  {
+    "ip_address": "45.33.168.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-south-1"
   },
   {
     "ip_address": "51.93.0.0/16",
@@ -30138,6 +30156,12 @@
     "region": "ap-southeast-1"
   },
   {
+    "ip_address": "45.33.167.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "52.77.0.0/16",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -30544,6 +30568,12 @@
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "eu-west-3"
+  },
+  {
+    "ip_address": "69.107.12.96/29",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-south-1"
   },
   {
     "ip_address": "70.232.112.0/21",
@@ -57820,6 +57850,18 @@
     "ip_type": "IPv4",
     "service": "KINESIS_VIDEO_STREAMS",
     "region": "eu-west-3"
+  },
+  {
+    "ip_address": "16.164.22.0/31",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "il-central-1"
+  },
+  {
+    "ip_address": "16.164.22.4/30",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "il-central-1"
   },
   {
     "ip_address": "16.24.91.112/30",

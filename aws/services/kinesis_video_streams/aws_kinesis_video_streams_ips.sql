@@ -46,6 +46,8 @@ INSERT INTO `aws_kinesis_video_streams_ips` (`ip_address`, `ip_type`) VALUES ('1
 INSERT INTO `aws_kinesis_video_streams_ips` (`ip_address`, `ip_type`) VALUES ('18.171.63.36/30', 'IPv4');
 INSERT INTO `aws_kinesis_video_streams_ips` (`ip_address`, `ip_type`) VALUES ('15.188.210.206/31', 'IPv4');
 INSERT INTO `aws_kinesis_video_streams_ips` (`ip_address`, `ip_type`) VALUES ('15.237.162.40/30', 'IPv4');
+INSERT INTO `aws_kinesis_video_streams_ips` (`ip_address`, `ip_type`) VALUES ('16.164.22.0/31', 'IPv4');
+INSERT INTO `aws_kinesis_video_streams_ips` (`ip_address`, `ip_type`) VALUES ('16.164.22.4/30', 'IPv4');
 INSERT INTO `aws_kinesis_video_streams_ips` (`ip_address`, `ip_type`) VALUES ('16.24.91.112/30', 'IPv4');
 INSERT INTO `aws_kinesis_video_streams_ips` (`ip_address`, `ip_type`) VALUES ('16.24.91.116/31', 'IPv4');
 INSERT INTO `aws_kinesis_video_streams_ips` (`ip_address`, `ip_type`) VALUES ('16.24.91.120/30', 'IPv4');
