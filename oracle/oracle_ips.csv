@@ -146,6 +146,8 @@ ip_address,ip_type,service,region
 146.235.252.128/25,IPv4,OSN,us-chicago-1
 146.235.253.0/24,IPv4,OSN,us-chicago-1
 146.235.254.0/23,IPv4,OSN,us-chicago-1
+147.224.64.0/24,IPv4,OSN,us-chicago-1
+147.224.66.0/23,IPv4,OSN,us-chicago-1
 194.164.156.0/22,IPv4,OSN,us-chicago-1
 64.181.224.0/19,IPv4,OCI,us-sanjose-1
 129.159.32.0/20,IPv4,OCI,us-sanjose-1
@@ -197,6 +199,7 @@ ip_address,ip_type,service,region
 134.185.76.0/24,IPv4,OSN,ap-hyderabad-1
 140.91.52.0/23,IPv4,OSN,ap-hyderabad-1
 140.204.50.128/25,IPv4,OSN,ap-hyderabad-1
+147.224.68.0/22,IPv4,OSN,ap-hyderabad-1
 149.118.240.0/23,IPv4,OSN,ap-hyderabad-1
 204.216.119.192/26,IPv4,OSN,ap-hyderabad-1
 68.233.120.0/21,IPv4,OCI,ca-montreal-1
@@ -237,6 +240,7 @@ ip_address,ip_type,service,region
 192.29.232.192/26,IPv4,OSN,me-jeddah-1
 79.72.16.0/22,IPv4,OCI,eu-stockholm-1
 79.76.32.0/19,IPv4,OCI,eu-stockholm-1
+82.70.32.0/19,IPv4,OCI,eu-stockholm-1
 84.235.208.0/20,IPv4,OCI,eu-stockholm-1
 129.151.192.0/19,IPv4,OCI,eu-stockholm-1
 145.241.182.0/24,IPv4,OCI,eu-stockholm-1
@@ -405,7 +409,7 @@ ip_address,ip_type,service,region
 80.225.161.192/26,IPv4,OSN,eu-madrid-3
 80.225.162.0/23,IPv4,OSN,eu-madrid-3
 80.225.164.0/22,IPv4,OSN,eu-madrid-3
-80.225.168.0/22,IPv4,OSN,eu-madrid-3
+80.225.168.0/22,IPv4,"OSN,OBJECT_STORAGE",eu-madrid-3
 80.225.176.0/23,IPv4,OSN,eu-madrid-3
 80.225.178.128/25,IPv4,OSN,eu-madrid-3
 80.225.192.0/18,IPv4,OCI,ap-mumbai-1
@@ -442,7 +446,7 @@ ip_address,ip_type,service,region
 79.76.20.0/24,IPv4,OSN,me-riyadh-1
 84.8.64.0/22,IPv4,OSN,me-riyadh-1
 84.8.68.0/25,IPv4,OSN,me-riyadh-1
-84.8.72.0/22,IPv4,OSN,me-riyadh-1
+84.8.72.0/22,IPv4,"OSN,OBJECT_STORAGE",me-riyadh-1
 84.8.88.128/25,IPv4,OSN,me-riyadh-1
 130.110.224.0/21,IPv4,OSN,me-riyadh-1
 141.253.212.0/23,IPv4,OSN,me-riyadh-1
@@ -555,6 +559,7 @@ ip_address,ip_type,service,region
 141.148.64.0/19,IPv4,OCI,us-ashburn-1
 142.0.160.0/21,IPv4,OCI,us-ashburn-1
 143.47.96.0/19,IPv4,OCI,us-ashburn-1
+147.15.192.0/18,IPv4,OCI,us-ashburn-1
 150.136.0.0/16,IPv4,OCI,us-ashburn-1
 150.230.160.0/19,IPv4,OCI,us-ashburn-1
 152.70.32.0/22,IPv4,OCI,us-ashburn-1
@@ -915,7 +920,7 @@ ip_address,ip_type,service,region
 159.13.4.0/25,IPv4,OSN,ap-singapore-2
 161.33.255.0/24,IPv4,OSN,ap-singapore-2
 217.142.160.0/21,IPv4,OSN,ap-singapore-2
-217.142.168.0/22,IPv4,OSN,ap-singapore-2
+217.142.168.0/22,IPv4,"OSN,OBJECT_STORAGE",ap-singapore-2
 217.142.176.0/23,IPv4,OSN,ap-singapore-2
 217.142.178.128/25,IPv4,OSN,ap-singapore-2
 147.224.224.0/20,IPv4,OCI,sa-valparaiso-1
@@ -925,7 +930,7 @@ ip_address,ip_type,service,region
 168.129.176.0/22,IPv4,OCI,sa-valparaiso-1
 165.1.96.0/22,IPv4,OSN,sa-valparaiso-1
 165.1.100.0/25,IPv4,OSN,sa-valparaiso-1
-165.1.104.0/22,IPv4,OSN,sa-valparaiso-1
+165.1.104.0/22,IPv4,"OSN,OBJECT_STORAGE",sa-valparaiso-1
 165.1.112.0/23,IPv4,OSN,sa-valparaiso-1
 165.1.114.128/25,IPv4,OSN,sa-valparaiso-1
 168.129.180.0/23,IPv4,OSN,sa-valparaiso-1
@@ -936,7 +941,7 @@ ip_address,ip_type,service,region
 157.137.254.0/24,IPv4,OSN,sa-bogota-1
 158.247.96.0/22,IPv4,OSN,sa-bogota-1
 158.247.100.0/25,IPv4,OSN,sa-bogota-1
-158.247.104.0/22,IPv4,OSN,sa-bogota-1
+158.247.104.0/22,IPv4,"OSN,OBJECT_STORAGE",sa-bogota-1
 158.247.112.0/23,IPv4,OSN,sa-bogota-1
 158.247.114.128/25,IPv4,OSN,sa-bogota-1
 151.106.160.0/19,IPv4,OCI,us-saltlake-2
@@ -973,7 +978,7 @@ ip_address,ip_type,service,region
 168.129.185.192/26,IPv4,OSN,us-desmoines-1
 168.129.186.0/23,IPv4,OSN,us-desmoines-1
 168.129.188.0/22,IPv4,OSN,us-desmoines-1
-168.129.224.0/22,IPv4,OSN,us-desmoines-1
+168.129.224.0/22,IPv4,"OSN,OBJECT_STORAGE",us-desmoines-1
 168.129.232.0/23,IPv4,OSN,us-desmoines-1
 168.129.234.128/25,IPv4,OSN,us-desmoines-1
 168.129.192.0/19,IPv4,OCI,us-abilene-1
@@ -1002,7 +1007,7 @@ ip_address,ip_type,service,region
 192.22.33.192/26,IPv4,OSN,us-shawnee-1
 192.22.34.0/23,IPv4,OSN,us-shawnee-1
 192.22.36.0/22,IPv4,OSN,us-shawnee-1
-192.22.40.0/22,IPv4,OSN,us-shawnee-1
+192.22.40.0/22,IPv4,"OSN,OBJECT_STORAGE",us-shawnee-1
 192.22.44.128/25,IPv4,OSN,us-shawnee-1
 192.22.48.0/23,IPv4,OSN,us-shawnee-1
 192.22.64.0/19,IPv4,OCI,us-boardman-1
@@ -1011,7 +1016,7 @@ ip_address,ip_type,service,region
 192.22.97.192/26,IPv4,OSN,us-boardman-1
 192.22.98.0/23,IPv4,OSN,us-boardman-1
 192.22.100.0/22,IPv4,OSN,us-boardman-1
-192.22.104.0/22,IPv4,OSN,us-boardman-1
+192.22.104.0/22,IPv4,"OSN,OBJECT_STORAGE",us-boardman-1
 192.22.108.128/25,IPv4,OSN,us-boardman-1
 192.22.112.0/23,IPv4,OSN,us-boardman-1
 192.22.128.0/19,IPv4,OCI,us-quincy-1
@@ -1020,7 +1025,7 @@ ip_address,ip_type,service,region
 192.22.161.192/26,IPv4,OSN,us-quincy-1
 192.22.162.0/23,IPv4,OSN,us-quincy-1
 192.22.164.0/22,IPv4,OSN,us-quincy-1
-192.22.168.0/22,IPv4,OSN,us-quincy-1
+192.22.168.0/22,IPv4,"OSN,OBJECT_STORAGE",us-quincy-1
 192.22.172.128/25,IPv4,OSN,us-quincy-1
 192.22.176.0/23,IPv4,OSN,us-quincy-1
 192.22.192.0/19,IPv4,OCI,sa-riodejaneiro-2
@@ -1029,7 +1034,7 @@ ip_address,ip_type,service,region
 192.22.225.192/26,IPv4,OSN,sa-riodejaneiro-2
 192.22.226.0/23,IPv4,OSN,sa-riodejaneiro-2
 192.22.228.0/22,IPv4,OSN,sa-riodejaneiro-2
-192.22.232.0/22,IPv4,OSN,sa-riodejaneiro-2
+192.22.232.0/22,IPv4,"OSN,OBJECT_STORAGE",sa-riodejaneiro-2
 192.22.236.128/25,IPv4,OSN,sa-riodejaneiro-2
 192.22.240.0/23,IPv4,OSN,sa-riodejaneiro-2
 81.208.192.0/19,IPv4,OCI,eu-jovanovac-1
@@ -1037,7 +1042,7 @@ ip_address,ip_type,service,region
 130.110.31.0/24,IPv4,OSN,eu-jovanovac-1
 164.152.96.0/22,IPv4,OSN,eu-jovanovac-1
 207.127.66.128/25,IPv4,OSN,eu-jovanovac-1
-207.127.68.0/22,IPv4,OSN,eu-jovanovac-1
+207.127.68.0/22,IPv4,"OSN,OBJECT_STORAGE",eu-jovanovac-1
 207.127.80.0/23,IPv4,OSN,eu-jovanovac-1
 207.127.84.0/23,IPv4,OSN,eu-jovanovac-1
 207.127.86.0/25,IPv4,OSN,eu-jovanovac-1

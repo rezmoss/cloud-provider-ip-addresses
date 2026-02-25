@@ -135,6 +135,7 @@ ip_address,ip_type,service,region
 16.168.0.0/15,IPv4,EC2,eu-north-1
 63.246.112.0/24,IPv4,EC2,eu-north-1
 13.53.0.0/16,IPv4,EC2,eu-north-1
+16.192.0.0/16,IPv4,EC2,eu-north-1
 13.51.0.0/16,IPv4,EC2,eu-north-1
 173.83.220.0/24,IPv4,EC2,eu-north-1
 13.48.0.0/15,IPv4,EC2,eu-north-1

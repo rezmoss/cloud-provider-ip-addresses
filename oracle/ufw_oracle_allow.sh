@@ -1,6 +1,6 @@
 #!/bin/bash
 # Oracle IP Ranges
-# Updated: 2026-02-11 15:35:30
+# Updated: 2026-02-25 01:59:33
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -154,6 +154,8 @@ ufw allow from 146.235.252.64/26
 ufw allow from 146.235.252.128/25
 ufw allow from 146.235.253.0/24
 ufw allow from 146.235.254.0/23
+ufw allow from 147.224.64.0/24
+ufw allow from 147.224.66.0/23
 ufw allow from 194.164.156.0/22
 ufw allow from 64.181.224.0/19
 ufw allow from 129.159.32.0/20
@@ -205,6 +207,7 @@ ufw allow from 134.70.120.0/22
 ufw allow from 134.185.76.0/24
 ufw allow from 140.91.52.0/23
 ufw allow from 140.204.50.128/25
+ufw allow from 147.224.68.0/22
 ufw allow from 149.118.240.0/23
 ufw allow from 204.216.119.192/26
 ufw allow from 68.233.120.0/21
@@ -245,6 +248,7 @@ ufw allow from 192.29.232.0/25
 ufw allow from 192.29.232.192/26
 ufw allow from 79.72.16.0/22
 ufw allow from 79.76.32.0/19
+ufw allow from 82.70.32.0/19
 ufw allow from 84.235.208.0/20
 ufw allow from 129.151.192.0/19
 ufw allow from 145.241.182.0/24
@@ -563,6 +567,7 @@ ufw allow from 141.148.0.0/18
 ufw allow from 141.148.64.0/19
 ufw allow from 142.0.160.0/21
 ufw allow from 143.47.96.0/19
+ufw allow from 147.15.192.0/18
 ufw allow from 150.136.0.0/16
 ufw allow from 150.230.160.0/19
 ufw allow from 152.70.32.0/22

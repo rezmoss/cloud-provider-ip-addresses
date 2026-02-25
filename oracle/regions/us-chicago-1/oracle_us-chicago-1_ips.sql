@@ -35,4 +35,6 @@ INSERT INTO `oracle_us-chicago-1_ips` (`ip_address`, `ip_type`) VALUES ('146.235
 INSERT INTO `oracle_us-chicago-1_ips` (`ip_address`, `ip_type`) VALUES ('146.235.252.128/25', 'IPv4');
 INSERT INTO `oracle_us-chicago-1_ips` (`ip_address`, `ip_type`) VALUES ('146.235.253.0/24', 'IPv4');
 INSERT INTO `oracle_us-chicago-1_ips` (`ip_address`, `ip_type`) VALUES ('146.235.254.0/23', 'IPv4');
+INSERT INTO `oracle_us-chicago-1_ips` (`ip_address`, `ip_type`) VALUES ('147.224.64.0/24', 'IPv4');
+INSERT INTO `oracle_us-chicago-1_ips` (`ip_address`, `ip_type`) VALUES ('147.224.66.0/23', 'IPv4');
 INSERT INTO `oracle_us-chicago-1_ips` (`ip_address`, `ip_type`) VALUES ('194.164.156.0/22', 'IPv4');

@@ -882,6 +882,18 @@
     "region": "us-chicago-1"
   },
   {
+    "ip_address": "147.224.64.0/24",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-chicago-1"
+  },
+  {
+    "ip_address": "147.224.66.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-chicago-1"
+  },
+  {
     "ip_address": "194.164.156.0/22",
     "ip_type": "IPv4",
     "service": "OSN",
@@ -1188,6 +1200,12 @@
     "region": "ap-hyderabad-1"
   },
   {
+    "ip_address": "147.224.68.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-hyderabad-1"
+  },
+  {
     "ip_address": "149.118.240.0/23",
     "ip_type": "IPv4",
     "service": "OSN",
@@ -1423,6 +1441,12 @@
   },
   {
     "ip_address": "79.76.32.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "eu-stockholm-1"
+  },
+  {
+    "ip_address": "82.70.32.0/19",
     "ip_type": "IPv4",
     "service": "OCI",
     "region": "eu-stockholm-1"
@@ -2438,7 +2462,7 @@
   {
     "ip_address": "80.225.168.0/22",
     "ip_type": "IPv4",
-    "service": "OSN",
+    "service": "OSN,OBJECT_STORAGE",
     "region": "eu-madrid-3"
   },
   {
@@ -2660,7 +2684,7 @@
   {
     "ip_address": "84.8.72.0/22",
     "ip_type": "IPv4",
-    "service": "OSN",
+    "service": "OSN,OBJECT_STORAGE",
     "region": "me-riyadh-1"
   },
   {
@@ -3331,6 +3355,12 @@
   },
   {
     "ip_address": "143.47.96.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "us-ashburn-1"
+  },
+  {
+    "ip_address": "147.15.192.0/18",
     "ip_type": "IPv4",
     "service": "OCI",
     "region": "us-ashburn-1"
@@ -5498,7 +5528,7 @@
   {
     "ip_address": "217.142.168.0/22",
     "ip_type": "IPv4",
-    "service": "OSN",
+    "service": "OSN,OBJECT_STORAGE",
     "region": "ap-singapore-2"
   },
   {
@@ -5558,7 +5588,7 @@
   {
     "ip_address": "165.1.104.0/22",
     "ip_type": "IPv4",
-    "service": "OSN",
+    "service": "OSN,OBJECT_STORAGE",
     "region": "sa-valparaiso-1"
   },
   {
@@ -5624,7 +5654,7 @@
   {
     "ip_address": "158.247.104.0/22",
     "ip_type": "IPv4",
-    "service": "OSN",
+    "service": "OSN,OBJECT_STORAGE",
     "region": "sa-bogota-1"
   },
   {
@@ -5846,7 +5876,7 @@
   {
     "ip_address": "168.129.224.0/22",
     "ip_type": "IPv4",
-    "service": "OSN",
+    "service": "OSN,OBJECT_STORAGE",
     "region": "us-desmoines-1"
   },
   {
@@ -6020,7 +6050,7 @@
   {
     "ip_address": "192.22.40.0/22",
     "ip_type": "IPv4",
-    "service": "OSN",
+    "service": "OSN,OBJECT_STORAGE",
     "region": "us-shawnee-1"
   },
   {
@@ -6074,7 +6104,7 @@
   {
     "ip_address": "192.22.104.0/22",
     "ip_type": "IPv4",
-    "service": "OSN",
+    "service": "OSN,OBJECT_STORAGE",
     "region": "us-boardman-1"
   },
   {
@@ -6128,7 +6158,7 @@
   {
     "ip_address": "192.22.168.0/22",
     "ip_type": "IPv4",
-    "service": "OSN",
+    "service": "OSN,OBJECT_STORAGE",
     "region": "us-quincy-1"
   },
   {
@@ -6182,7 +6212,7 @@
   {
     "ip_address": "192.22.232.0/22",
     "ip_type": "IPv4",
-    "service": "OSN",
+    "service": "OSN,OBJECT_STORAGE",
     "region": "sa-riodejaneiro-2"
   },
   {
@@ -6230,7 +6260,7 @@
   {
     "ip_address": "207.127.68.0/22",
     "ip_type": "IPv4",
-    "service": "OSN",
+    "service": "OSN,OBJECT_STORAGE",
     "region": "eu-jovanovac-1"
   },
   {

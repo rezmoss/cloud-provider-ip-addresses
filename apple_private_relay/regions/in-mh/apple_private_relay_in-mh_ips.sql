@@ -474,6 +474,7 @@ INSERT INTO `apple_private_relay_in-mh_ips` (`ip_address`, `ip_type`) VALUES ('1
 INSERT INTO `apple_private_relay_in-mh_ips` (`ip_address`, `ip_type`) VALUES ('104.28.120.242/32', 'IPv4');
 INSERT INTO `apple_private_relay_in-mh_ips` (`ip_address`, `ip_type`) VALUES ('104.28.121.15/32', 'IPv4');
 INSERT INTO `apple_private_relay_in-mh_ips` (`ip_address`, `ip_type`) VALUES ('104.28.121.16/32', 'IPv4');
+INSERT INTO `apple_private_relay_in-mh_ips` (`ip_address`, `ip_type`) VALUES ('104.28.136.223/32', 'IPv4');
 INSERT INTO `apple_private_relay_in-mh_ips` (`ip_address`, `ip_type`) VALUES ('104.28.139.28/32', 'IPv4');
 INSERT INTO `apple_private_relay_in-mh_ips` (`ip_address`, `ip_type`) VALUES ('104.28.139.29/32', 'IPv4');
 INSERT INTO `apple_private_relay_in-mh_ips` (`ip_address`, `ip_type`) VALUES ('104.28.139.30/32', 'IPv4');

@@ -44,7 +44,7 @@
   {
     "ip_address": "84.8.72.0/22",
     "ip_type": "IPv4",
-    "service": "OSN",
+    "service": "OSN,OBJECT_STORAGE",
     "region": "me-riyadh-1"
   },
   {

@@ -192,6 +192,12 @@
     "region": "us-ashburn-1"
   },
   {
+    "ip_address": "147.15.192.0/18",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "us-ashburn-1"
+  },
+  {
     "ip_address": "150.136.0.0/16",
     "ip_type": "IPv4",
     "service": "OCI",

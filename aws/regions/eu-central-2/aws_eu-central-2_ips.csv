@@ -49,6 +49,7 @@ ip_address,ip_type,service,region
 16.62.56.224/28,IPv4,S3,eu-central-2
 16.62.56.240/28,IPv4,S3,eu-central-2
 51.34.0.0/16,IPv4,EC2,eu-central-2
+16.19.0.0/16,IPv4,EC2,eu-central-2
 35.96.41.0/24,IPv4,EC2,eu-central-2
 99.151.80.0/21,IPv4,EC2,eu-central-2
 16.62.0.0/15,IPv4,EC2,eu-central-2

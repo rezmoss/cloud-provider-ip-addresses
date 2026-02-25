@@ -8,6 +8,7 @@ CREATE TABLE IF NOT EXISTS `oracle_eu-stockholm-1_ips` (
 
 INSERT INTO `oracle_eu-stockholm-1_ips` (`ip_address`, `ip_type`) VALUES ('79.72.16.0/22', 'IPv4');
 INSERT INTO `oracle_eu-stockholm-1_ips` (`ip_address`, `ip_type`) VALUES ('79.76.32.0/19', 'IPv4');
+INSERT INTO `oracle_eu-stockholm-1_ips` (`ip_address`, `ip_type`) VALUES ('82.70.32.0/19', 'IPv4');
 INSERT INTO `oracle_eu-stockholm-1_ips` (`ip_address`, `ip_type`) VALUES ('84.235.208.0/20', 'IPv4');
 INSERT INTO `oracle_eu-stockholm-1_ips` (`ip_address`, `ip_type`) VALUES ('129.151.192.0/19', 'IPv4');
 INSERT INTO `oracle_eu-stockholm-1_ips` (`ip_address`, `ip_type`) VALUES ('145.241.182.0/24', 'IPv4');

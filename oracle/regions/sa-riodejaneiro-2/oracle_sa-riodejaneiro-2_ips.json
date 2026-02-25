@@ -38,7 +38,7 @@
   {
     "ip_address": "192.22.232.0/22",
     "ip_type": "IPv4",
-    "service": "OSN",
+    "service": "OSN,OBJECT_STORAGE",
     "region": "sa-riodejaneiro-2"
   },
   {

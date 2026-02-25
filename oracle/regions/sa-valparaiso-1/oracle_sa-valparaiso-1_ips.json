@@ -44,7 +44,7 @@
   {
     "ip_address": "165.1.104.0/22",
     "ip_type": "IPv4",
-    "service": "OSN",
+    "service": "OSN,OBJECT_STORAGE",
     "region": "sa-valparaiso-1"
   },
   {

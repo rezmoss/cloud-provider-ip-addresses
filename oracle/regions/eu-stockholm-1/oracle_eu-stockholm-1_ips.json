@@ -12,6 +12,12 @@
     "region": "eu-stockholm-1"
   },
   {
+    "ip_address": "82.70.32.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "eu-stockholm-1"
+  },
+  {
     "ip_address": "84.235.208.0/20",
     "ip_type": "IPv4",
     "service": "OCI",

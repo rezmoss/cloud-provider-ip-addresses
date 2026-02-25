@@ -1,6 +1,6 @@
 #!/bin/bash
 # Oracle IP Ranges
-# Updated: 2026-02-11 15:35:30
+# Updated: 2026-02-25 01:59:33
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -26,7 +26,9 @@ ufw deny from 134.70.56.0/21
 ufw deny from 134.70.64.0/22
 ufw deny from 134.70.40.0/21
 ufw deny from 134.70.48.0/22
+ufw deny from 80.225.168.0/22
 ufw deny from 134.70.76.0/22
+ufw deny from 84.8.72.0/22
 ufw deny from 134.70.160.0/22
 ufw deny from 134.70.104.0/22
 ufw deny from 134.70.148.0/22
@@ -51,13 +53,22 @@ ufw deny from 134.70.220.0/23
 ufw deny from 134.70.206.0/23
 ufw deny from 134.70.208.0/23
 ufw deny from 134.70.184.0/22
+ufw deny from 217.142.168.0/22
+ufw deny from 165.1.104.0/22
+ufw deny from 158.247.104.0/22
 ufw deny from 134.70.202.0/23
 ufw deny from 134.70.204.0/23
 ufw deny from 134.70.230.0/23
 ufw deny from 134.70.232.0/23
 ufw deny from 134.70.210.0/23
 ufw deny from 134.70.212.0/23
+ufw deny from 168.129.224.0/22
 ufw deny from 134.70.222.0/23
 ufw deny from 134.70.224.0/23
 ufw deny from 134.70.214.0/23
 ufw deny from 134.70.216.0/23
+ufw deny from 192.22.40.0/22
+ufw deny from 192.22.104.0/22
+ufw deny from 192.22.168.0/22
+ufw deny from 192.22.232.0/22
+ufw deny from 207.127.68.0/22

@@ -38,7 +38,7 @@
   {
     "ip_address": "80.225.168.0/22",
     "ip_type": "IPv4",
-    "service": "OSN",
+    "service": "OSN,OBJECT_STORAGE",
     "region": "eu-madrid-3"
   },
   {

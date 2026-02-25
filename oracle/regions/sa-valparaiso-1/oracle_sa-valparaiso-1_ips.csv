@@ -6,7 +6,7 @@ ip_address,ip_type,service,region
 168.129.176.0/22,IPv4,OCI,sa-valparaiso-1
 165.1.96.0/22,IPv4,OSN,sa-valparaiso-1
 165.1.100.0/25,IPv4,OSN,sa-valparaiso-1
-165.1.104.0/22,IPv4,OSN,sa-valparaiso-1
+165.1.104.0/22,IPv4,"OSN,OBJECT_STORAGE",sa-valparaiso-1
 165.1.112.0/23,IPv4,OSN,sa-valparaiso-1
 165.1.114.128/25,IPv4,OSN,sa-valparaiso-1
 168.129.180.0/23,IPv4,OSN,sa-valparaiso-1

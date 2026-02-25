@@ -1,6 +1,6 @@
 #!/bin/bash
 # Aws IP Ranges
-# Updated: 2026-02-24 01:56:12
+# Updated: 2026-02-25 01:58:57
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -656,6 +656,7 @@ ufw deny from 150.222.85.0/24
 ufw deny from 150.222.245.122/31
 ufw deny from 3.4.12.49/32
 ufw deny from 15.129.8.0/21
+ufw deny from 15.129.31.0/24
 ufw deny from 15.190.128.0/20
 ufw deny from 15.230.178.0/24
 ufw deny from 15.230.192.0/24
@@ -1034,6 +1035,7 @@ ufw deny from 13.250.0.0/15
 ufw deny from 15.230.15.168/31
 ufw deny from 15.230.39.104/31
 ufw deny from 18.96.128.0/19
+ufw deny from 40.235.64.0/18
 ufw deny from 44.192.0.0/11
 ufw deny from 52.93.127.17/32
 ufw deny from 52.93.127.99/32
@@ -6289,6 +6291,7 @@ ufw deny from 2600:9000:ac00::/40
 ufw deny from 2600:f0f0:111f::/48
 ufw deny from 2600:f0f1:4100::/42
 ufw deny from 2600:f0f2:7101::/48
+ufw deny from 2606:7b40:1b0f:4300::/56
 ufw deny from 2620:107:4000:4702::/64
 ufw deny from 2a05:d06a:5000::/40
 ufw deny from 2406:dab9:7000::/40
@@ -6623,6 +6626,7 @@ ufw deny from 2606:8140:400::/40
 ufw deny from 2a05:d030:2000::/40
 ufw deny from 2a05:d032:b000::/40
 ufw deny from 2406:daf4:8000::/40
+ufw deny from 2600:1f17:c000::/36
 ufw deny from 2600:1feb:ec00::/40
 ufw deny from 2600:1ff4:7400::/40
 ufw deny from 2600:f0f0:1121::/48
@@ -7220,6 +7224,7 @@ ufw deny from 2a05:d032:1000::/40
 ufw deny from 2a05:d06a:9000::/40
 ufw deny from 2400:7fc0:2400::/40
 ufw deny from 2406:da30:c000::/40
+ufw deny from 2600:1f27:c000::/36
 ufw deny from 2600:1f2c:8000::/36
 ufw deny from 2600:1f30:c000::/40
 ufw deny from 2600:1ff8:a400::/40
@@ -7379,6 +7384,7 @@ ufw deny from 2606:7b40:1b0f:8000::/56
 ufw deny from 2a05:d000:8000::/40
 ufw deny from 2406:dafe:c800::/40
 ufw deny from 2600:1f01:4804::/47
+ufw deny from 2606:7b40:1b0f:4200::/56
 ufw deny from 2a05:d032:4000::/40
 ufw deny from 2a05:d050:4000::/40
 ufw deny from 2404:c2c0:2100::/40

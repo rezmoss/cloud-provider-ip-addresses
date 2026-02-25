@@ -38,7 +38,7 @@
   {
     "ip_address": "168.129.224.0/22",
     "ip_type": "IPv4",
-    "service": "OSN",
+    "service": "OSN,OBJECT_STORAGE",
     "region": "us-desmoines-1"
   },
   {

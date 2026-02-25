@@ -32,7 +32,7 @@
   {
     "ip_address": "207.127.68.0/22",
     "ip_type": "IPv4",
-    "service": "OSN",
+    "service": "OSN,OBJECT_STORAGE",
     "region": "eu-jovanovac-1"
   },
   {
