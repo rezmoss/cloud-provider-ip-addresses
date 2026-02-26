@@ -9864,6 +9864,12 @@
     "region": "westeurope"
   },
   {
+    "ip_address": "52.112.254.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.westeurope",
+    "region": "westeurope"
+  },
+  {
     "ip_address": "52.113.9.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.westeurope",

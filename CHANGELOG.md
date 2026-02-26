@@ -2,17 +2,13 @@
 
 Daily IP range changes across all providers.
 
-## 2026-02-25
+## 2026-02-26
 
-### aws
-- Added: 6 CIDRs
-- Removed: 0 CIDRs
+### azure
+- Added: 169 CIDRs
+- Removed: 57 CIDRs
 
-### apple_private_relay
-- Added: 1 CIDRs
-- Removed: 0 CIDRs
-
-### oracle
-- Added: 5 CIDRs
+### digitalocean
+- Added: 2 CIDRs
 - Removed: 0 CIDRs
 

@@ -888,6 +888,12 @@
     "region": ""
   },
   {
+    "ip_address": "48.204.191.160/27",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning",
+    "region": ""
+  },
+  {
     "ip_address": "48.211.42.128/27",
     "ip_type": "IPv4",
     "service": "AzureMachineLearning",

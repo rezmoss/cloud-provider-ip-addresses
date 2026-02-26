@@ -60,6 +60,12 @@
     "region": ""
   },
   {
+    "ip_address": "4.190.252.24/30",
+    "ip_type": "IPv4",
+    "service": "PowerBI",
+    "region": ""
+  },
+  {
     "ip_address": "4.191.89.64/26",
     "ip_type": "IPv4",
     "service": "PowerBI",
@@ -3325,6 +3331,12 @@
   },
   {
     "ip_address": "74.226.38.112/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI",
+    "region": ""
+  },
+  {
+    "ip_address": "74.226.38.160/27",
     "ip_type": "IPv4",
     "service": "PowerBI",
     "region": ""

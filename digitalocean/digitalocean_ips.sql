@@ -807,6 +807,8 @@ INSERT INTO `digitalocean_ips` (`ip_address`, `ip_type`) VALUES ('167.172.208.0/
 INSERT INTO `digitalocean_ips` (`ip_address`, `ip_type`) VALUES ('167.172.224.0/20', 'IPv4');
 INSERT INTO `digitalocean_ips` (`ip_address`, `ip_type`) VALUES ('167.172.240.0/20', 'IPv4');
 INSERT INTO `digitalocean_ips` (`ip_address`, `ip_type`) VALUES ('168.144.0.0/22', 'IPv4');
+INSERT INTO `digitalocean_ips` (`ip_address`, `ip_type`) VALUES ('168.144.4.0/22', 'IPv4');
+INSERT INTO `digitalocean_ips` (`ip_address`, `ip_type`) VALUES ('168.144.16.0/20', 'IPv4');
 INSERT INTO `digitalocean_ips` (`ip_address`, `ip_type`) VALUES ('170.64.128.0/18', 'IPv4');
 INSERT INTO `digitalocean_ips` (`ip_address`, `ip_type`) VALUES ('170.64.192.0/19', 'IPv4');
 INSERT INTO `digitalocean_ips` (`ip_address`, `ip_type`) VALUES ('170.64.224.0/20', 'IPv4');

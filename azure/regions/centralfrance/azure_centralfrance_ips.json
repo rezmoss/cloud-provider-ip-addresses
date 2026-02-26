@@ -3786,6 +3786,18 @@
     "region": "centralfrance"
   },
   {
+    "ip_address": "52.112.245.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.centralfrance",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "52.112.247.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.centralfrance",
+    "region": "centralfrance"
+  },
+  {
     "ip_address": "52.113.110.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.centralfrance",

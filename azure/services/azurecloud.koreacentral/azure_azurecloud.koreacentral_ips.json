@@ -540,6 +540,12 @@
     "region": "koreacentral"
   },
   {
+    "ip_address": "52.112.246.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreacentral",
+    "region": "koreacentral"
+  },
+  {
     "ip_address": "52.112.253.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.koreacentral",

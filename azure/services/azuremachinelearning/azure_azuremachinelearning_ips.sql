@@ -154,6 +154,7 @@ INSERT INTO `azure_azuremachinelearning_ips` (`ip_address`, `ip_type`) VALUES ('
 INSERT INTO `azure_azuremachinelearning_ips` (`ip_address`, `ip_type`) VALUES ('48.196.81.64/27', 'IPv4');
 INSERT INTO `azure_azuremachinelearning_ips` (`ip_address`, `ip_type`) VALUES ('48.197.73.64/27', 'IPv4');
 INSERT INTO `azure_azuremachinelearning_ips` (`ip_address`, `ip_type`) VALUES ('48.198.81.64/27', 'IPv4');
+INSERT INTO `azure_azuremachinelearning_ips` (`ip_address`, `ip_type`) VALUES ('48.204.191.160/27', 'IPv4');
 INSERT INTO `azure_azuremachinelearning_ips` (`ip_address`, `ip_type`) VALUES ('48.211.42.128/27', 'IPv4');
 INSERT INTO `azure_azuremachinelearning_ips` (`ip_address`, `ip_type`) VALUES ('48.211.42.160/28', 'IPv4');
 INSERT INTO `azure_azuremachinelearning_ips` (`ip_address`, `ip_type`) VALUES ('48.216.17.0/27', 'IPv4');

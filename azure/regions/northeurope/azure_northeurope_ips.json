@@ -8520,6 +8520,12 @@
     "region": "northeurope"
   },
   {
+    "ip_address": "57.157.29.220/31",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.northeurope",
+    "region": "northeurope"
+  },
+  {
     "ip_address": "65.52.64.0/20",
     "ip_type": "IPv4",
     "service": "AzureCloud.northeurope",

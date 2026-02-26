@@ -70,6 +70,7 @@ INSERT INTO `azure_azurefrontdoor.firstparty_ips` (`ip_address`, `ip_type`) VALU
 INSERT INTO `azure_azurefrontdoor.firstparty_ips` (`ip_address`, `ip_type`) VALUES ('2620:1ec:44::/47', 'IPv6');
 INSERT INTO `azure_azurefrontdoor.firstparty_ips` (`ip_address`, `ip_type`) VALUES ('2620:1ec:8f0::/44', 'IPv6');
 INSERT INTO `azure_azurefrontdoor.firstparty_ips` (`ip_address`, `ip_type`) VALUES ('2620:1ec:900::/44', 'IPv6');
+INSERT INTO `azure_azurefrontdoor.firstparty_ips` (`ip_address`, `ip_type`) VALUES ('2620:1ec:911::/48', 'IPv6');
 INSERT INTO `azure_azurefrontdoor.firstparty_ips` (`ip_address`, `ip_type`) VALUES ('2620:1ec:a92::/48', 'IPv6');
 INSERT INTO `azure_azurefrontdoor.firstparty_ips` (`ip_address`, `ip_type`) VALUES ('2620:1ec:c11::/48', 'IPv6');
 INSERT INTO `azure_azurefrontdoor.firstparty_ips` (`ip_address`, `ip_type`) VALUES ('2a01:111:2003::/48', 'IPv6');

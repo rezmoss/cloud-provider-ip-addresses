@@ -601,6 +601,7 @@ INSERT INTO `azure_ukwest_ips` (`ip_address`, `ip_type`) VALUES ('70.37.153.0/24
 INSERT INTO `azure_ukwest_ips` (`ip_address`, `ip_type`) VALUES ('70.152.34.0/24', 'IPv4');
 INSERT INTO `azure_ukwest_ips` (`ip_address`, `ip_type`) VALUES ('70.152.227.0/24', 'IPv4');
 INSERT INTO `azure_ukwest_ips` (`ip_address`, `ip_type`) VALUES ('104.44.90.0/27', 'IPv4');
+INSERT INTO `azure_ukwest_ips` (`ip_address`, `ip_type`) VALUES ('145.190.72.0/24', 'IPv4');
 INSERT INTO `azure_ukwest_ips` (`ip_address`, `ip_type`) VALUES ('172.186.0.0/16', 'IPv4');
 INSERT INTO `azure_ukwest_ips` (`ip_address`, `ip_type`) VALUES ('172.187.0.0/18', 'IPv4');
 INSERT INTO `azure_ukwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:600::/47', 'IPv6');

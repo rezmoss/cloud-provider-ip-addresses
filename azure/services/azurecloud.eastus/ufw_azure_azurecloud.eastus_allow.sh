@@ -1,6 +1,6 @@
 #!/bin/bash
 # Azure IP Ranges
-# Updated: 2026-02-20 01:55:42
+# Updated: 2026-02-26 01:55:06
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -293,7 +293,7 @@ ufw allow from 48.205.151.0/24
 ufw allow from 48.205.153.0/24
 ufw allow from 48.205.155.0/24
 ufw allow from 48.205.157.0/24
-ufw allow from 48.206.0.0/17
+ufw allow from 48.206.0.0/16
 ufw allow from 48.208.3.0/24
 ufw allow from 48.208.4.0/22
 ufw allow from 48.208.8.0/23
@@ -335,7 +335,16 @@ ufw allow from 52.109.12.0/22
 ufw allow from 52.111.229.0/24
 ufw allow from 52.112.23.0/24
 ufw allow from 52.112.44.0/24
+ufw allow from 52.112.46.0/24
+ufw allow from 52.112.56.0/24
+ufw allow from 52.112.58.0/24
+ufw allow from 52.112.60.0/24
+ufw allow from 52.112.62.0/24
+ufw allow from 52.112.65.0/24
+ufw allow from 52.112.68.0/24
 ufw allow from 52.112.70.0/24
+ufw allow from 52.112.89.0/24
+ufw allow from 52.112.90.0/24
 ufw allow from 52.112.112.0/24
 ufw allow from 52.112.123.0/24
 ufw allow from 52.112.127.0/24
@@ -346,6 +355,8 @@ ufw allow from 52.113.66.0/24
 ufw allow from 52.113.68.0/24
 ufw allow from 52.113.81.0/24
 ufw allow from 52.113.84.0/24
+ufw allow from 52.114.96.0/24
+ufw allow from 52.114.98.0/24
 ufw allow from 52.114.132.0/22
 ufw allow from 52.115.20.0/24
 ufw allow from 52.115.22.0/24
@@ -360,6 +371,13 @@ ufw allow from 52.115.56.0/24
 ufw allow from 52.115.59.0/24
 ufw allow from 52.115.61.0/24
 ufw allow from 52.115.62.0/23
+ufw allow from 52.115.65.0/24
+ufw allow from 52.115.67.0/24
+ufw allow from 52.115.73.0/24
+ufw allow from 52.115.75.0/24
+ufw allow from 52.115.80.0/23
+ufw allow from 52.115.83.0/24
+ufw allow from 52.115.116.0/24
 ufw allow from 52.115.192.0/19
 ufw allow from 52.120.32.0/19
 ufw allow from 52.120.224.0/20
@@ -438,9 +456,8 @@ ufw allow from 57.152.0.0/17
 ufw allow from 57.154.192.0/18
 ufw allow from 57.157.32.0/24
 ufw allow from 57.157.33.0/25
-ufw allow from 57.157.33.128/27
-ufw allow from 57.157.33.160/28
-ufw allow from 57.157.33.176/29
+ufw allow from 57.157.33.128/26
+ufw allow from 57.157.33.192/27
 ufw allow from 65.54.19.128/27
 ufw allow from 68.220.88.0/21
 ufw allow from 70.152.8.0/24

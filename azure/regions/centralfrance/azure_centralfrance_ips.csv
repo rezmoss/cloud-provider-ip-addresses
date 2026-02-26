@@ -630,6 +630,8 @@ ip_address,ip_type,service,region
 52.112.190.0/24,IPv4,AzureCloud.centralfrance,centralfrance
 52.112.213.0/24,IPv4,AzureCloud.centralfrance,centralfrance
 52.112.214.0/23,IPv4,AzureCloud.centralfrance,centralfrance
+52.112.245.0/24,IPv4,AzureCloud.centralfrance,centralfrance
+52.112.247.0/24,IPv4,AzureCloud.centralfrance,centralfrance
 52.113.110.0/24,IPv4,AzureCloud.centralfrance,centralfrance
 52.113.200.0/24,IPv4,AzureCloud.centralfrance,centralfrance
 52.113.202.0/24,IPv4,AzureCloud.centralfrance,centralfrance

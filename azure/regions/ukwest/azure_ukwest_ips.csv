@@ -594,6 +594,7 @@ ip_address,ip_type,service,region
 70.152.34.0/24,IPv4,AzureCloud.ukwest,ukwest
 70.152.227.0/24,IPv4,AzureCloud.ukwest,ukwest
 104.44.90.0/27,IPv4,AzureCloud.ukwest,ukwest
+145.190.72.0/24,IPv4,AzureCloud.ukwest,ukwest
 172.186.0.0/16,IPv4,AzureCloud.ukwest,ukwest
 172.187.0.0/18,IPv4,AzureCloud.ukwest,ukwest
 2603:1020:600::/47,IPv6,AzureCloud.ukwest,ukwest

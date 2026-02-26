@@ -384,6 +384,12 @@
     "region": ""
   },
   {
+    "ip_address": "2620:1ec:911::/48",
+    "ip_type": "IPv6",
+    "service": "AzureFrontDoor.FirstParty",
+    "region": ""
+  },
+  {
     "ip_address": "2620:1ec:a92::/48",
     "ip_type": "IPv6",
     "service": "AzureFrontDoor.FirstParty",

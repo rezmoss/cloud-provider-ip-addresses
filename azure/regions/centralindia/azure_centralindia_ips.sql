@@ -517,10 +517,10 @@ INSERT INTO `azure_centralindia_ips` (`ip_address`, `ip_type`) VALUES ('13.105.9
 INSERT INTO `azure_centralindia_ips` (`ip_address`, `ip_type`) VALUES ('13.105.98.32/28', 'IPv4');
 INSERT INTO `azure_centralindia_ips` (`ip_address`, `ip_type`) VALUES ('13.105.98.64/27', 'IPv4');
 INSERT INTO `azure_centralindia_ips` (`ip_address`, `ip_type`) VALUES ('20.20.84.0/24', 'IPv4');
-INSERT INTO `azure_centralindia_ips` (`ip_address`, `ip_type`) VALUES ('20.20.85.0/27', 'IPv4');
-INSERT INTO `azure_centralindia_ips` (`ip_address`, `ip_type`) VALUES ('20.20.85.32/28', 'IPv4');
-INSERT INTO `azure_centralindia_ips` (`ip_address`, `ip_type`) VALUES ('20.20.85.48/29', 'IPv4');
-INSERT INTO `azure_centralindia_ips` (`ip_address`, `ip_type`) VALUES ('20.20.85.56/31', 'IPv4');
+INSERT INTO `azure_centralindia_ips` (`ip_address`, `ip_type`) VALUES ('20.20.85.0/26', 'IPv4');
+INSERT INTO `azure_centralindia_ips` (`ip_address`, `ip_type`) VALUES ('20.20.85.64/29', 'IPv4');
+INSERT INTO `azure_centralindia_ips` (`ip_address`, `ip_type`) VALUES ('20.20.85.72/30', 'IPv4');
+INSERT INTO `azure_centralindia_ips` (`ip_address`, `ip_type`) VALUES ('20.20.85.76/31', 'IPv4');
 INSERT INTO `azure_centralindia_ips` (`ip_address`, `ip_type`) VALUES ('20.33.9.0/24', 'IPv4');
 INSERT INTO `azure_centralindia_ips` (`ip_address`, `ip_type`) VALUES ('20.33.19.0/24', 'IPv4');
 INSERT INTO `azure_centralindia_ips` (`ip_address`, `ip_type`) VALUES ('20.33.28.0/24', 'IPv4');

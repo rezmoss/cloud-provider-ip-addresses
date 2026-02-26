@@ -4005,6 +4005,16 @@
     "region": "IN-KA"
   },
   {
+    "ip_address": "168.144.4.0/22",
+    "ip_type": "IPv4",
+    "region": "DE-HE"
+  },
+  {
+    "ip_address": "168.144.16.0/20",
+    "ip_type": "IPv4",
+    "region": "IN-KA"
+  },
+  {
     "ip_address": "170.64.128.0/18",
     "ip_type": "IPv4",
     "region": "AU-NSW"
