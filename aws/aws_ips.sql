@@ -9565,6 +9565,7 @@ INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('15.228.103.240/29', 'IP
 INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('15.228.126.48/30', 'IPv4');
 INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('15.229.206.194/31', 'IPv4');
 INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('15.229.206.196/30', 'IPv4');
+INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('32.192.104.4/30', 'IPv4');
 INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('44.192.140.112/28', 'IPv4');
 INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('44.192.140.128/29', 'IPv4');
 INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('44.222.159.166/31', 'IPv4');

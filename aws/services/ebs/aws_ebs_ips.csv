@@ -82,6 +82,7 @@ ip_address,ip_type,service,region
 15.228.126.48/30,IPv4,EBS,sa-east-1
 15.229.206.194/31,IPv4,EBS,sa-east-1
 15.229.206.196/30,IPv4,EBS,sa-east-1
+32.192.104.4/30,IPv4,EBS,us-east-1
 44.192.140.112/28,IPv4,EBS,us-east-1
 44.192.140.128/29,IPv4,EBS,us-east-1
 44.222.159.166/31,IPv4,EBS,us-east-1

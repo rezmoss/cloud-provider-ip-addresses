@@ -3720,6 +3720,11 @@
     "region": "US-NJ"
   },
   {
+    "ip_address": "165.245.156.0/22",
+    "ip_type": "IPv4",
+    "region": "global"
+  },
+  {
     "ip_address": "165.245.160.0/20",
     "ip_type": "IPv4",
     "region": "global"
@@ -3728,6 +3733,11 @@
     "ip_address": "165.245.176.0/20",
     "ip_type": "IPv4",
     "region": "SG-05"
+  },
+  {
+    "ip_address": "165.245.192.0/20",
+    "ip_type": "IPv4",
+    "region": "global"
   },
   {
     "ip_address": "167.71.0.0/20",
@@ -4013,6 +4023,11 @@
     "ip_address": "168.144.16.0/20",
     "ip_type": "IPv4",
     "region": "IN-KA"
+  },
+  {
+    "ip_address": "168.144.32.0/20",
+    "ip_type": "IPv4",
+    "region": "SG-05"
   },
   {
     "ip_address": "170.64.128.0/18",
@@ -5541,6 +5556,11 @@
   },
   {
     "ip_address": "2604:a880:6:7::/64",
+    "ip_type": "IPv6",
+    "region": "global"
+  },
+  {
+    "ip_address": "2604:a880:7:7::/64",
     "ip_type": "IPv6",
     "region": "global"
   },

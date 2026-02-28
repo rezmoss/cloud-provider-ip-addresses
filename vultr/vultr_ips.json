@@ -2433,5 +2433,10 @@
     "ip_address": "2001:19f0:9c00::/38",
     "ip_type": "IPv6",
     "region": "US-OH"
+  },
+  {
+    "ip_address": "2001:19f0:5c00:300::/64",
+    "ip_type": "IPv6",
+    "region": "US-IL"
   }
 ]

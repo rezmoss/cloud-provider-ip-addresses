@@ -1,0 +1,43 @@
+{
+  "date": "2026-02-28",
+  "changes": {
+    "aws": {
+      "added": [
+        "32.192.104.4/30"
+      ],
+      "removed": [],
+      "added_count": 1,
+      "removed_count": 0
+    },
+    "digitalocean": {
+      "added": [
+        "165.245.156.0/22",
+        "165.245.192.0/20",
+        "168.144.32.0/20",
+        "2604:a880:7:7::/64"
+      ],
+      "removed": [],
+      "added_count": 4,
+      "removed_count": 0
+    },
+    "vultr": {
+      "added": [
+        "2001:19f0:5c00:300::/64"
+      ],
+      "removed": [],
+      "added_count": 1,
+      "removed_count": 0
+    },
+    "gptbot": {
+      "added": [
+        "172.202.102.112/28",
+        "20.169.78.208/28",
+        "20.169.87.112/28",
+        "40.122.235.112/28"
+      ],
+      "removed": [],
+      "added_count": 4,
+      "removed_count": 0
+    }
+  }
+}

@@ -1,6 +1,6 @@
 #!/bin/bash
 # Vultr IP Ranges
-# Updated: 2026-02-11 17:28:50
+# Updated: 2026-02-28 01:45:38
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -494,3 +494,4 @@ ip6tables -A INPUT -s 2a05:f480:1000::/38 -j DROP
 ip6tables -A INPUT -s 2001:19f0:5400::/38 -j DROP
 ip6tables -A INPUT -s 2a05:f480:3800::/38 -j DROP
 ip6tables -A INPUT -s 2001:19f0:9c00::/38 -j DROP
+ip6tables -A INPUT -s 2001:19f0:5c00:300::/64 -j DROP

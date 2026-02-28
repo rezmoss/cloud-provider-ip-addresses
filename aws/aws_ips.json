@@ -57354,6 +57354,12 @@
     "region": "sa-east-1"
   },
   {
+    "ip_address": "32.192.104.4/30",
+    "ip_type": "IPv4",
+    "service": "EBS",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "44.192.140.112/28",
     "ip_type": "IPv4",
     "service": "EBS",
