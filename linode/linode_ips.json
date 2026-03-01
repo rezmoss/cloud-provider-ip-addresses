@@ -12915,6 +12915,11 @@
     "region": "AU-NSW"
   },
   {
+    "ip_address": "104.66.128.0/24",
+    "ip_type": "IPv4",
+    "region": "AU-NSW"
+  },
+  {
     "ip_address": "139.162.65.0/24",
     "ip_type": "IPv4",
     "region": "JP-13"
@@ -26096,6 +26101,11 @@
   },
   {
     "ip_address": "172.239.159.0/24",
+    "ip_type": "IPv4",
+    "region": "US-VA"
+  },
+  {
+    "ip_address": "104.105.224.0/24",
     "ip_type": "IPv4",
     "region": "US-VA"
   },

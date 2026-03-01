@@ -16,7 +16,7 @@
 
 ### Live Stats
 
-> Last updated: **2026-02-28** | Providers: **22** | Total CIDRs: **419,958** | IPv4 addresses: **334,828,641** | IPv4 space: **7.80%**
+> Last updated: **2026-03-01** | Providers: **22** | Total CIDRs: **419,960** | IPv4 addresses: **334,829,153** | IPv4 space: **7.80%**
 
 | Provider | IPv4 CIDRs | IPv6 CIDRs | Total CIDRs | IPv4 Addresses | Services | Regions |
 |----------|-----------|-----------|------------|---------------|----------|--------|
@@ -36,7 +36,7 @@
 | googlebot | 165 | 142 | 307 | 4,928 | 1 | 0 |
 | googlecloud | 836 | 48 | 884 | 16,459,392 | 1 | 48 |
 | gptbot | 286 | 0 | 286 | 9,648 | 3 | 0 |
-| linode | 5,132 | 92 | 5,224 | 1,321,728 | 0 | 37 |
+| linode | 5,134 | 92 | 5,226 | 1,322,240 | 0 | 37 |
 | oracle | 1,047 | 0 | 1,047 | 4,019,594 | 3 | 53 |
 | perplexitybot | 12 | 0 | 12 | 32 | 2 | 0 |
 | telegram | 9 | 5 | 14 | 11,008 | 0 | 0 |

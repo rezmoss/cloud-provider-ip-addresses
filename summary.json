@@ -1,7 +1,7 @@
 {
-  "generated": "2026-02-28T01:46:15.769771",
+  "generated": "2026-03-01T02:07:19.536938",
   "provider_count": 22,
-  "total_ipv4_addresses": 334828641,
+  "total_ipv4_addresses": 334829153,
   "total_ipv6_addresses": 5205270621720298520990315632170938,
   "ipv4_space_coverage_pct": 7.7958,
   "providers": {
@@ -78,10 +78,10 @@
       "regions": 0
     },
     "linode": {
-      "ipv4_cidrs": 5132,
+      "ipv4_cidrs": 5134,
       "ipv6_cidrs": 92,
-      "total_cidrs": 5224,
-      "ipv4_addresses": 1321728,
+      "total_cidrs": 5226,
+      "ipv4_addresses": 1322240,
       "ipv6_addresses": 2697526956190545891947228168192,
       "services": 0,
       "regions": 37
