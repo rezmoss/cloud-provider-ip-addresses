@@ -2,9 +2,9 @@
 
 Daily IP range changes across all providers.
 
-## 2026-03-01
+## 2026-03-02
 
-### linode
-- Added: 2 CIDRs
+### googlecloud
+- Added: 12 CIDRs
 - Removed: 0 CIDRs
 

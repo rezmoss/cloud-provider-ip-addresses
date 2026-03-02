@@ -72,7 +72,19 @@
     "region": "australia-southeast1"
   },
   {
+    "ip_address": "34.183.59.0/24",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "australia-southeast1"
+  },
+  {
     "ip_address": "34.184.2.0/24",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "australia-southeast1"
+  },
+  {
+    "ip_address": "34.184.58.0/24",
     "ip_type": "IPv4",
     "service": "Google Cloud",
     "region": "australia-southeast1"

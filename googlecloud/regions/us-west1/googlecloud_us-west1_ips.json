@@ -90,7 +90,19 @@
     "region": "us-west1"
   },
   {
+    "ip_address": "34.183.58.0/24",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "us-west1"
+  },
+  {
     "ip_address": "34.184.24.0/22",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "us-west1"
+  },
+  {
+    "ip_address": "34.184.55.0/24",
     "ip_type": "IPv4",
     "service": "Google Cloud",
     "region": "us-west1"

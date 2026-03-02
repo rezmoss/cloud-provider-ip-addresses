@@ -7,6 +7,7 @@ CREATE TABLE IF NOT EXISTS `googlecloud_me-central2_ips` (
 );
 
 INSERT INTO `googlecloud_me-central2_ips` (`ip_address`, `ip_type`) VALUES ('8.228.192.0/19', 'IPv4');
+INSERT INTO `googlecloud_me-central2_ips` (`ip_address`, `ip_type`) VALUES ('8.230.64.0/19', 'IPv4');
 INSERT INTO `googlecloud_me-central2_ips` (`ip_address`, `ip_type`) VALUES ('34.1.48.0/20', 'IPv4');
 INSERT INTO `googlecloud_me-central2_ips` (`ip_address`, `ip_type`) VALUES ('34.152.84.0/23', 'IPv4');
 INSERT INTO `googlecloud_me-central2_ips` (`ip_address`, `ip_type`) VALUES ('34.152.102.0/24', 'IPv4');
