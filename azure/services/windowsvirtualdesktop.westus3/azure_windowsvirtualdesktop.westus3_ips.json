@@ -6,6 +6,12 @@
     "region": "westus3"
   },
   {
+    "ip_address": "40.64.151.128/27",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.WestUS3",
+    "region": "westus3"
+  },
+  {
     "ip_address": "2603:1061:2010:30::/117",
     "ip_type": "IPv6",
     "service": "WindowsVirtualDesktop.WestUS3",

@@ -8,6 +8,7 @@ CREATE TABLE IF NOT EXISTS `azure_gatewaymanager.westcentralus_ips` (
 
 INSERT INTO `azure_gatewaymanager.westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('13.71.194.232/29', 'IPv4');
 INSERT INTO `azure_gatewaymanager.westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('20.69.5.224/27', 'IPv4');
+INSERT INTO `azure_gatewaymanager.westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('48.194.149.96/27', 'IPv4');
 INSERT INTO `azure_gatewaymanager.westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('52.148.30.6/32', 'IPv4');
 INSERT INTO `azure_gatewaymanager.westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('52.150.136.72/29', 'IPv4');
 INSERT INTO `azure_gatewaymanager.westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('52.159.19.113/32', 'IPv4');

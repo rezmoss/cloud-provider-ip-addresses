@@ -6,6 +6,7 @@ CREATE TABLE IF NOT EXISTS `azure_gatewaymanager.australiacentral_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_gatewaymanager.australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.199.211.0/27', 'IPv4');
 INSERT INTO `azure_gatewaymanager.australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('20.36.106.72/29', 'IPv4');
 INSERT INTO `azure_gatewaymanager.australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('20.37.53.66/32', 'IPv4');
 INSERT INTO `azure_gatewaymanager.australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('20.37.53.76/32', 'IPv4');

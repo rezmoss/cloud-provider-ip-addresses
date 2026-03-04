@@ -1,6 +1,12 @@
 [
   {
-    "ip_address": "40.64.144.168/29",
+    "ip_address": "40.64.144.160/28",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "40.64.152.224/27",
     "ip_type": "IPv4",
     "service": "WindowsVirtualDesktop.TaiwanNorth",
     "region": "taiwannorth"

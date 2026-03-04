@@ -1,3 +1,4 @@
 ip_address,ip_type,service,region
 40.64.144.0/27,IPv4,WindowsVirtualDesktop.SouthCentralUS,southcentralus
+40.64.145.48/28,IPv4,WindowsVirtualDesktop.SouthCentralUS,southcentralus
 2603:1061:2010:13::/117,IPv6,WindowsVirtualDesktop.SouthCentralUS,southcentralus

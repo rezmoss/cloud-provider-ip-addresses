@@ -122,6 +122,7 @@ ip_address,ip_type,service,region
 2603:1020:1602:800::50/124,IPv6,DataFactory.DenmarkEast,denmarkeast
 2603:1020:1602:c00::50/124,IPv6,DataFactory.DenmarkEast,denmarkeast
 9.205.32.64/26,IPv4,GatewayManager.DenmarkEast,denmarkeast
+9.205.67.96/28,IPv4,GatewayManager.DenmarkEast,denmarkeast
 2603:1020:1602::40/122,IPv6,GatewayManager.DenmarkEast,denmarkeast
 9.205.39.16/29,IPv4,HDInsight.DenmarkEast,denmarkeast
 2603:1020:1602:1::2c0/124,IPv6,HDInsight.DenmarkEast,denmarkeast

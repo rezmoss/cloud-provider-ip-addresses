@@ -1362,6 +1362,12 @@
     "region": "canadaeast"
   },
   {
+    "ip_address": "20.200.32.224/27",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
     "ip_address": "40.69.106.88/29",
     "ip_type": "IPv4",
     "service": "GatewayManager.CanadaEast",
@@ -2263,6 +2269,12 @@
   },
   {
     "ip_address": "40.64.146.208/28",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.64.151.160/27",
     "ip_type": "IPv4",
     "service": "WindowsVirtualDesktop.CanadaEast",
     "region": "canadaeast"

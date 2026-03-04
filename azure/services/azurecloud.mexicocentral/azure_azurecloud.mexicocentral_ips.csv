@@ -59,6 +59,7 @@ ip_address,ip_type,service,region
 68.155.0.0/16,IPv4,AzureCloud.mexicocentral,mexicocentral
 70.152.44.0/24,IPv4,AzureCloud.mexicocentral,mexicocentral
 151.206.158.0/24,IPv4,AzureCloud.mexicocentral,mexicocentral
+151.206.184.0/24,IPv4,AzureCloud.mexicocentral,mexicocentral
 158.23.0.0/16,IPv4,AzureCloud.mexicocentral,mexicocentral
 172.195.0.0/17,IPv4,AzureCloud.mexicocentral,mexicocentral
 216.220.208.0/24,IPv4,AzureCloud.mexicocentral,mexicocentral

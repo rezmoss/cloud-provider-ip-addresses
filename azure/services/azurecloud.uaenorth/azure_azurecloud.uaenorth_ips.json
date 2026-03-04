@@ -600,6 +600,12 @@
     "region": "uaenorth"
   },
   {
+    "ip_address": "151.206.172.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uaenorth",
+    "region": "uaenorth"
+  },
+  {
     "ip_address": "172.163.0.0/16",
     "ip_type": "IPv4",
     "service": "AzureCloud.uaenorth",

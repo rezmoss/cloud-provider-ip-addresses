@@ -18,6 +18,12 @@
     "region": "germanywc"
   },
   {
+    "ip_address": "48.201.167.128/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
     "ip_address": "51.116.144.68/31",
     "ip_type": "IPv4",
     "service": "PowerBI.GermanyWestCentral",

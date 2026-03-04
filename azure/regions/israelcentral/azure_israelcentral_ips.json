@@ -1098,6 +1098,12 @@
     "region": "israelcentral"
   },
   {
+    "ip_address": "51.58.60.144/28",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.IsraelCentral",
+    "region": "israelcentral"
+  },
+  {
     "ip_address": "2603:1040:1402::40/122",
     "ip_type": "IPv6",
     "service": "GatewayManager.IsraelCentral",
@@ -1524,6 +1530,12 @@
     "region": "israelcentral"
   },
   {
+    "ip_address": "40.64.152.128/27",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.IsraelCentral",
+    "region": "israelcentral"
+  },
+  {
     "ip_address": "2603:1061:2010:37::/117",
     "ip_type": "IPv6",
     "service": "WindowsVirtualDesktop.IsraelCentral",
@@ -1927,6 +1939,12 @@
   },
   {
     "ip_address": "151.206.152.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.israelcentral",
+    "region": "israelcentral"
+  },
+  {
+    "ip_address": "151.206.178.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.israelcentral",
     "region": "israelcentral"

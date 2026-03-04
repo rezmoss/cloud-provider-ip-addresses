@@ -1728,6 +1728,12 @@
     "region": "swedencentral"
   },
   {
+    "ip_address": "4.166.32.64/28",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
     "ip_address": "51.12.40.192/26",
     "ip_type": "IPv4",
     "service": "GatewayManager.SwedenCentral",
@@ -2269,6 +2275,12 @@
   },
   {
     "ip_address": "40.64.144.136/29",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "40.64.153.64/27",
     "ip_type": "IPv4",
     "service": "WindowsVirtualDesktop.SwedenCentral",
     "region": "swedencentral"

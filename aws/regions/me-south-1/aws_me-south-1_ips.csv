@@ -101,6 +101,7 @@ ip_address,ip_type,service,region
 35.71.99.0/24,IPv4,EC2,me-south-1
 35.50.211.0/24,IPv4,EC2,me-south-1
 35.50.212.0/24,IPv4,EC2,me-south-1
+16.180.0.0/16,IPv4,EC2,me-south-1
 157.241.0.0/16,IPv4,EC2,me-south-1
 35.50.208.0/24,IPv4,EC2,me-south-1
 13.152.0.0/16,IPv4,EC2,me-south-1

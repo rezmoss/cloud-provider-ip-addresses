@@ -3738,6 +3738,12 @@
     "region": "northeurope"
   },
   {
+    "ip_address": "4.208.122.32/27",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.NorthEurope",
+    "region": "northeurope"
+  },
+  {
     "ip_address": "13.69.227.224/29",
     "ip_type": "IPv4",
     "service": "GatewayManager.NorthEurope",
@@ -6600,6 +6606,12 @@
     "region": "northeurope"
   },
   {
+    "ip_address": "40.64.147.64/28",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.NorthEurope",
+    "region": "northeurope"
+  },
+  {
     "ip_address": "2603:1061:2010:12::/117",
     "ip_type": "IPv6",
     "service": "WindowsVirtualDesktop.NorthEurope",
@@ -8815,6 +8827,12 @@
   },
   {
     "ip_address": "151.206.156.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.northeurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "151.206.182.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.northeurope",
     "region": "northeurope"

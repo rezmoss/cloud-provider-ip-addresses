@@ -232,6 +232,7 @@ ip_address,ip_type,service,region
 20.41.192.72/29,IPv4,GatewayManager.SouthIndia,southindia
 20.192.153.224/27,IPv4,GatewayManager.SouthIndia,southindia
 40.78.194.88/29,IPv4,GatewayManager.SouthIndia,southindia
+74.225.47.96/27,IPv4,GatewayManager.SouthIndia,southindia
 2603:1040:c06::40/122,IPv6,GatewayManager.SouthIndia,southindia
 20.41.197.120/29,IPv4,HDInsight.SouthIndia,southindia
 40.78.195.8/29,IPv4,HDInsight.SouthIndia,southindia
@@ -334,6 +335,7 @@ ip_address,ip_type,service,region
 2603:1040:c06::340/123,IPv6,StorageSyncService.SouthIndia,southindia
 40.64.144.208/29,IPv4,WindowsVirtualDesktop.SouthIndia,southindia
 40.64.145.32/28,IPv4,WindowsVirtualDesktop.SouthIndia,southindia
+40.64.148.96/27,IPv4,WindowsVirtualDesktop.SouthIndia,southindia
 2603:1061:2010:15::/117,IPv6,WindowsVirtualDesktop.SouthIndia,southindia
 4.247.0.0/17,IPv4,AzureCloud.southindia,southindia
 13.71.64.0/18,IPv4,AzureCloud.southindia,southindia
@@ -429,6 +431,7 @@ ip_address,ip_type,service,region
 135.13.0.0/17,IPv4,AzureCloud.southindia,southindia
 151.206.70.0/25,IPv4,AzureCloud.southindia,southindia
 151.206.147.0/24,IPv4,AzureCloud.southindia,southindia
+151.206.173.0/24,IPv4,AzureCloud.southindia,southindia
 2603:1040:c00::/46,IPv6,AzureCloud.southindia,southindia
 2603:1040:c05::/48,IPv6,AzureCloud.southindia,southindia
 2603:1040:c06::/47,IPv6,AzureCloud.southindia,southindia

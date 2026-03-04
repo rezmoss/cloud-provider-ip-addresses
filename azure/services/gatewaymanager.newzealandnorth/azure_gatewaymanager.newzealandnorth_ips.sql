@@ -6,5 +6,6 @@ CREATE TABLE IF NOT EXISTS `azure_gatewaymanager.newzealandnorth_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_gatewaymanager.newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('172.196.72.160/28', 'IPv4');
 INSERT INTO `azure_gatewaymanager.newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('172.204.152.64/26', 'IPv4');
 INSERT INTO `azure_gatewaymanager.newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:502::40/122', 'IPv6');

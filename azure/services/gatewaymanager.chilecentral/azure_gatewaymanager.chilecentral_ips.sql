@@ -6,5 +6,6 @@ CREATE TABLE IF NOT EXISTS `azure_gatewaymanager.chilecentral_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_gatewaymanager.chilecentral_ips` (`ip_address`, `ip_type`) VALUES ('57.156.76.16/28', 'IPv4');
 INSERT INTO `azure_gatewaymanager.chilecentral_ips` (`ip_address`, `ip_type`) VALUES ('68.211.19.192/26', 'IPv4');
 INSERT INTO `azure_gatewaymanager.chilecentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:301::40/122', 'IPv6');

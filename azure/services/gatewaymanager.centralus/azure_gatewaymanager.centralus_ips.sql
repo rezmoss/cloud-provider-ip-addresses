@@ -12,4 +12,5 @@ INSERT INTO `azure_gatewaymanager.centralus_ips` (`ip_address`, `ip_type`) VALUE
 INSERT INTO `azure_gatewaymanager.centralus_ips` (`ip_address`, `ip_type`) VALUES ('20.118.195.160/27', 'IPv4');
 INSERT INTO `azure_gatewaymanager.centralus_ips` (`ip_address`, `ip_type`) VALUES ('52.143.250.137/32', 'IPv4');
 INSERT INTO `azure_gatewaymanager.centralus_ips` (`ip_address`, `ip_type`) VALUES ('52.143.251.22/32', 'IPv4');
+INSERT INTO `azure_gatewaymanager.centralus_ips` (`ip_address`, `ip_type`) VALUES ('172.170.121.128/27', 'IPv4');
 INSERT INTO `azure_gatewaymanager.centralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:10:1::40/122', 'IPv6');

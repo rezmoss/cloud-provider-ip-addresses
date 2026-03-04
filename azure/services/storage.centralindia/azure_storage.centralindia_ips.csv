@@ -20,4 +20,5 @@ ip_address,ip_type,service,region
 104.211.109.80/28,IPv4,Storage.CentralIndia,centralindia
 104.211.109.96/28,IPv4,Storage.CentralIndia,centralindia
 135.130.174.0/23,IPv4,Storage.CentralIndia,centralindia
+145.190.158.0/24,IPv4,Storage.CentralIndia,centralindia
 2603:1040:a07::/48,IPv6,Storage.CentralIndia,centralindia

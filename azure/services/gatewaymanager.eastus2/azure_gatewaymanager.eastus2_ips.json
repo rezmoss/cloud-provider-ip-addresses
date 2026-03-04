@@ -18,6 +18,12 @@
     "region": "eastus2"
   },
   {
+    "ip_address": "48.204.192.0/27",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.EastUS2",
+    "region": "eastus2"
+  },
+  {
     "ip_address": "52.184.255.23/32",
     "ip_type": "IPv4",
     "service": "GatewayManager.EastUS2",

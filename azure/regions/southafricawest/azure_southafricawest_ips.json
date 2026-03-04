@@ -1020,6 +1020,12 @@
     "region": "southafricawest"
   },
   {
+    "ip_address": "172.209.114.192/27",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.SouthAfricaWest",
+    "region": "southafricawest"
+  },
+  {
     "ip_address": "2603:1000:4::40/122",
     "ip_type": "IPv6",
     "service": "GatewayManager.SouthAfricaWest",
@@ -1512,6 +1518,12 @@
     "region": "southafricawest"
   },
   {
+    "ip_address": "40.64.151.0/27",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.SouthAfricaWest",
+    "region": "southafricawest"
+  },
+  {
     "ip_address": "2603:1061:2010:1f::/117",
     "ip_type": "IPv6",
     "service": "WindowsVirtualDesktop.SouthAfricaWest",
@@ -1849,6 +1861,12 @@
   },
   {
     "ip_address": "151.206.166.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southafricawest",
+    "region": "southafricawest"
+  },
+  {
+    "ip_address": "151.206.192.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.southafricawest",
     "region": "southafricawest"

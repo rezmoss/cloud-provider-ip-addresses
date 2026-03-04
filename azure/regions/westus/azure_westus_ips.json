@@ -3438,6 +3438,12 @@
     "region": "westus"
   },
   {
+    "ip_address": "48.195.69.64/26",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.WestUS",
+    "region": "westus"
+  },
+  {
     "ip_address": "2603:1030:a07::40/122",
     "ip_type": "IPv6",
     "service": "GatewayManager.WestUS",
@@ -6853,6 +6859,12 @@
   },
   {
     "ip_address": "40.64.146.176/28",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.WestUS",
+    "region": "westus"
+  },
+  {
+    "ip_address": "40.64.151.96/27",
     "ip_type": "IPv4",
     "service": "WindowsVirtualDesktop.WestUS",
     "region": "westus"

@@ -3000,6 +3000,12 @@
     "region": "australiasoutheast"
   },
   {
+    "ip_address": "40.64.150.128/27",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  },
+  {
     "ip_address": "2603:1061:2010:1::/117",
     "ip_type": "IPv6",
     "service": "WindowsVirtualDesktop.AustraliaSoutheast",
@@ -3703,6 +3709,12 @@
   },
   {
     "ip_address": "151.206.165.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.australiasoutheast",
+    "region": "australiasoutheast"
+  },
+  {
+    "ip_address": "151.206.191.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.australiasoutheast",
     "region": "australiasoutheast"

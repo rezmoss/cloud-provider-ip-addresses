@@ -360,6 +360,12 @@
     "region": "mexicocentral"
   },
   {
+    "ip_address": "151.206.184.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.mexicocentral",
+    "region": "mexicocentral"
+  },
+  {
     "ip_address": "158.23.0.0/16",
     "ip_type": "IPv4",
     "service": "AzureCloud.mexicocentral",

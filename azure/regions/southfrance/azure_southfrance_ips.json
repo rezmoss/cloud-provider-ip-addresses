@@ -1104,6 +1104,12 @@
     "region": "southfrance"
   },
   {
+    "ip_address": "40.80.105.224/27",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.FranceSouth",
+    "region": "southfrance"
+  },
+  {
     "ip_address": "40.82.236.2/32",
     "ip_type": "IPv4",
     "service": "GatewayManager.FranceSouth",
@@ -1716,6 +1722,12 @@
     "region": "southfrance"
   },
   {
+    "ip_address": "40.64.153.128/27",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.FranceSouth",
+    "region": "southfrance"
+  },
+  {
     "ip_address": "2603:1061:2010:c::/117",
     "ip_type": "IPv6",
     "service": "WindowsVirtualDesktop.FranceSouth",
@@ -2113,6 +2125,12 @@
   },
   {
     "ip_address": "151.206.168.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southfrance",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "151.206.194.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.southfrance",
     "region": "southfrance"

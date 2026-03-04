@@ -1344,6 +1344,12 @@
     "region": "jioindiawest"
   },
   {
+    "ip_address": "20.244.210.144/28",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
     "ip_address": "2603:1040:d04::40/122",
     "ip_type": "IPv6",
     "service": "GatewayManager.JioIndiaWest",
@@ -1735,6 +1741,12 @@
   },
   {
     "ip_address": "40.64.147.48/28",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "40.64.152.96/27",
     "ip_type": "IPv4",
     "service": "WindowsVirtualDesktop.JioIndiaWest",
     "region": "jioindiawest"

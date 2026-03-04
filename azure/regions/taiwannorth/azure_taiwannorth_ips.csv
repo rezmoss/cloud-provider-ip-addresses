@@ -142,6 +142,7 @@ ip_address,ip_type,service,region
 2603:1040:1302:800::240/124,IPv6,DataFactory.TaiwanNorth,taiwannorth
 2603:1040:1302:c00::240/124,IPv6,DataFactory.TaiwanNorth,taiwannorth
 51.53.24.64/26,IPv4,GatewayManager.TaiwanNorth,taiwannorth
+70.157.164.80/28,IPv4,GatewayManager.TaiwanNorth,taiwannorth
 2603:1040:1302::40/122,IPv6,GatewayManager.TaiwanNorth,taiwannorth
 51.53.30.168/29,IPv4,HDInsight.TaiwanNorth,taiwannorth
 2603:1040:1302:1::470/124,IPv6,HDInsight.TaiwanNorth,taiwannorth
@@ -205,7 +206,8 @@ ip_address,ip_type,service,region
 70.157.11.144/29,IPv4,StorageSyncService.TaiwanNorth,taiwannorth
 2603:1040:1302:5::320/123,IPv6,StorageSyncService.TaiwanNorth,taiwannorth
 2603:1040:1302:400::260/123,IPv6,StorageSyncService.TaiwanNorth,taiwannorth
-40.64.144.168/29,IPv4,WindowsVirtualDesktop.TaiwanNorth,taiwannorth
+40.64.144.160/28,IPv4,WindowsVirtualDesktop.TaiwanNorth,taiwannorth
+40.64.152.224/27,IPv4,WindowsVirtualDesktop.TaiwanNorth,taiwannorth
 2603:1061:2010:34::/117,IPv6,WindowsVirtualDesktop.TaiwanNorth,taiwannorth
 13.105.110.128/26,IPv4,AzureCloud.taiwannorth,taiwannorth
 13.105.110.192/28,IPv4,AzureCloud.taiwannorth,taiwannorth

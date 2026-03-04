@@ -11,4 +11,5 @@ INSERT INTO `azure_gatewaymanager.westus_ips` (`ip_address`, `ip_type`) VALUES (
 INSERT INTO `azure_gatewaymanager.westus_ips` (`ip_address`, `ip_type`) VALUES ('20.189.181.8/32', 'IPv4');
 INSERT INTO `azure_gatewaymanager.westus_ips` (`ip_address`, `ip_type`) VALUES ('40.82.248.240/29', 'IPv4');
 INSERT INTO `azure_gatewaymanager.westus_ips` (`ip_address`, `ip_type`) VALUES ('40.112.242.168/29', 'IPv4');
+INSERT INTO `azure_gatewaymanager.westus_ips` (`ip_address`, `ip_type`) VALUES ('48.195.69.64/26', 'IPv4');
 INSERT INTO `azure_gatewaymanager.westus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:a07::40/122', 'IPv6');

@@ -1398,6 +1398,12 @@
     "region": "southindia"
   },
   {
+    "ip_address": "74.225.47.96/27",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.SouthIndia",
+    "region": "southindia"
+  },
+  {
     "ip_address": "2603:1040:c06::40/122",
     "ip_type": "IPv6",
     "service": "GatewayManager.SouthIndia",
@@ -2010,6 +2016,12 @@
     "region": "southindia"
   },
   {
+    "ip_address": "40.64.148.96/27",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.SouthIndia",
+    "region": "southindia"
+  },
+  {
     "ip_address": "2603:1061:2010:15::/117",
     "ip_type": "IPv6",
     "service": "WindowsVirtualDesktop.SouthIndia",
@@ -2575,6 +2587,12 @@
   },
   {
     "ip_address": "151.206.147.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southindia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "151.206.173.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.southindia",
     "region": "southindia"

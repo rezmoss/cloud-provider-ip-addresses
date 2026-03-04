@@ -12,6 +12,12 @@
     "region": "koreasouth"
   },
   {
+    "ip_address": "40.80.171.0/27",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
     "ip_address": "40.89.217.100/32",
     "ip_type": "IPv4",
     "service": "GatewayManager.KoreaSouth",

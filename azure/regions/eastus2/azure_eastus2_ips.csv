@@ -664,6 +664,7 @@ ip_address,ip_type,service,region
 20.41.0.72/29,IPv4,GatewayManager.EastUS2,eastus2
 20.98.194.96/27,IPv4,GatewayManager.EastUS2,eastus2
 40.70.146.224/29,IPv4,GatewayManager.EastUS2,eastus2
+48.204.192.0/27,IPv4,GatewayManager.EastUS2,eastus2
 52.184.255.23/32,IPv4,GatewayManager.EastUS2,eastus2
 52.251.12.161/32,IPv4,GatewayManager.EastUS2,eastus2
 2603:1030:40c:1::40/122,IPv6,GatewayManager.EastUS2,eastus2
@@ -907,6 +908,7 @@ ip_address,ip_type,service,region
 2603:1030:40c:1::300/123,IPv6,StorageSyncService.EastUS2,eastus2
 40.64.144.192/29,IPv4,WindowsVirtualDesktop.EastUS2,eastus2
 40.64.145.0/28,IPv4,WindowsVirtualDesktop.EastUS2,eastus2
+40.64.148.32/27,IPv4,WindowsVirtualDesktop.EastUS2,eastus2
 2603:1061:2010:a::/117,IPv6,WindowsVirtualDesktop.EastUS2,eastus2
 4.150.64.0/18,IPv4,AzureCloud.eastus2,eastus2
 4.152.0.0/15,IPv4,AzureCloud.eastus2,eastus2
@@ -1673,8 +1675,7 @@ ip_address,ip_type,service,region
 57.157.49.86/31,IPv4,AzureCloud.eastus2,eastus2
 57.157.49.88/29,IPv4,AzureCloud.eastus2,eastus2
 57.157.49.96/27,IPv4,AzureCloud.eastus2,eastus2
-57.157.49.128/28,IPv4,AzureCloud.eastus2,eastus2
-57.157.49.144/29,IPv4,AzureCloud.eastus2,eastus2
+57.157.49.128/27,IPv4,AzureCloud.eastus2,eastus2
 65.52.108.0/23,IPv4,AzureCloud.eastus2,eastus2
 65.52.110.0/24,IPv4,AzureCloud.eastus2,eastus2
 65.55.44.16/28,IPv4,AzureCloud.eastus2,eastus2
@@ -2136,7 +2137,7 @@ ip_address,ip_type,service,region
 2603:1030:401:a94::/62,IPv6,AzureCloud.eastus2,eastus2
 2603:1030:401:a98::/61,IPv6,AzureCloud.eastus2,eastus2
 2603:1030:401:aa0::/60,IPv6,AzureCloud.eastus2,eastus2
-2603:1030:401:ab0::/62,IPv6,AzureCloud.eastus2,eastus2
+2603:1030:401:ab0::/61,IPv6,AzureCloud.eastus2,eastus2
 2603:1030:402::/47,IPv6,AzureCloud.eastus2,eastus2
 2603:1030:406::/47,IPv6,AzureCloud.eastus2,eastus2
 2603:1030:408::/48,IPv6,AzureCloud.eastus2,eastus2

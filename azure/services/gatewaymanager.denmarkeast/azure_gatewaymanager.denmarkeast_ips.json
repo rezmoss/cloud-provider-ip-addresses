@@ -6,6 +6,12 @@
     "region": "denmarkeast"
   },
   {
+    "ip_address": "9.205.67.96/28",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.DenmarkEast",
+    "region": "denmarkeast"
+  },
+  {
     "ip_address": "2603:1020:1602::40/122",
     "ip_type": "IPv6",
     "service": "GatewayManager.DenmarkEast",

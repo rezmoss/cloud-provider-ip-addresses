@@ -11,4 +11,5 @@ INSERT INTO `azure_gatewaymanager.ukwest_ips` (`ip_address`, `ip_type`) VALUES (
 INSERT INTO `azure_gatewaymanager.ukwest_ips` (`ip_address`, `ip_type`) VALUES ('51.140.210.200/29', 'IPv4');
 INSERT INTO `azure_gatewaymanager.ukwest_ips` (`ip_address`, `ip_type`) VALUES ('52.142.152.114/32', 'IPv4');
 INSERT INTO `azure_gatewaymanager.ukwest_ips` (`ip_address`, `ip_type`) VALUES ('52.142.154.100/32', 'IPv4');
+INSERT INTO `azure_gatewaymanager.ukwest_ips` (`ip_address`, `ip_type`) VALUES ('172.186.108.128/27', 'IPv4');
 INSERT INTO `azure_gatewaymanager.ukwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:605::40/122', 'IPv6');

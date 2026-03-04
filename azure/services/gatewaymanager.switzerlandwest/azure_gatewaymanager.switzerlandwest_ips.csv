@@ -1,4 +1,5 @@
 ip_address,ip_type,service,region
+4.226.255.128/27,IPv4,GatewayManager.SwitzerlandWest,switzerlandw
 20.199.200.128/27,IPv4,GatewayManager.SwitzerlandWest,switzerlandw
 51.107.144.72/29,IPv4,GatewayManager.SwitzerlandWest,switzerlandw
 51.107.155.32/29,IPv4,GatewayManager.SwitzerlandWest,switzerlandw

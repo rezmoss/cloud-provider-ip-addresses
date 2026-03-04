@@ -1134,6 +1134,12 @@
     "region": "australiacentral"
   },
   {
+    "ip_address": "4.199.211.0/27",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.AustraliaCentral",
+    "region": "australiacentral"
+  },
+  {
     "ip_address": "20.36.106.72/29",
     "ip_type": "IPv4",
     "service": "GatewayManager.AustraliaCentral",
@@ -1393,6 +1399,12 @@
   },
   {
     "ip_address": "40.64.146.240/28",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.AustraliaCentral",
+    "region": "australiacentral"
+  },
+  {
+    "ip_address": "40.64.151.224/27",
     "ip_type": "IPv4",
     "service": "WindowsVirtualDesktop.AustraliaCentral",
     "region": "australiacentral"

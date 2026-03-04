@@ -6,6 +6,7 @@ CREATE TABLE IF NOT EXISTS `azure_gatewaymanager.japaneast_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_gatewaymanager.japaneast_ips` (`ip_address`, `ip_type`) VALUES ('4.216.6.128/27', 'IPv4');
 INSERT INTO `azure_gatewaymanager.japaneast_ips` (`ip_address`, `ip_type`) VALUES ('13.78.108.16/29', 'IPv4');
 INSERT INTO `azure_gatewaymanager.japaneast_ips` (`ip_address`, `ip_type`) VALUES ('20.43.64.72/29', 'IPv4');
 INSERT INTO `azure_gatewaymanager.japaneast_ips` (`ip_address`, `ip_type`) VALUES ('20.210.68.160/27', 'IPv4');

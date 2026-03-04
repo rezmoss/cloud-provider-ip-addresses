@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "57.156.76.16/28",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.ChileCentral",
+    "region": "chilec"
+  },
+  {
     "ip_address": "68.211.19.192/26",
     "ip_type": "IPv4",
     "service": "GatewayManager.ChileCentral",

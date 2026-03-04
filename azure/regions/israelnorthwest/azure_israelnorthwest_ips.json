@@ -570,6 +570,12 @@
     "region": "israelnorthwest"
   },
   {
+    "ip_address": "51.4.155.144/28",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.IsraelNorthwest",
+    "region": "israelnorthwest"
+  },
+  {
     "ip_address": "2603:1040:1702::40/122",
     "ip_type": "IPv6",
     "service": "GatewayManager.IsraelNorthwest",

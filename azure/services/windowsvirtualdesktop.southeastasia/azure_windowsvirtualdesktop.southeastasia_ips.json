@@ -12,6 +12,12 @@
     "region": "southeastasia"
   },
   {
+    "ip_address": "40.64.149.32/27",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
     "ip_address": "2603:1061:2010:14::/117",
     "ip_type": "IPv6",
     "service": "WindowsVirtualDesktop.SoutheastAsia",

@@ -858,6 +858,12 @@
     "region": "austriaeast"
   },
   {
+    "ip_address": "68.210.62.16/28",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.AustriaEast",
+    "region": "austriaeast"
+  },
+  {
     "ip_address": "68.210.160.64/26",
     "ip_type": "IPv4",
     "service": "GatewayManager.AustriaEast",
@@ -1393,6 +1399,12 @@
   },
   {
     "ip_address": "151.206.153.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.austriaeast",
+    "region": "austriaeast"
+  },
+  {
+    "ip_address": "151.206.179.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.austriaeast",
     "region": "austriaeast"

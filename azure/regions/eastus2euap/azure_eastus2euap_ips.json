@@ -2412,6 +2412,12 @@
     "region": "eastus2euap"
   },
   {
+    "ip_address": "48.223.70.192/26",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
     "ip_address": "52.138.90.40/29",
     "ip_type": "IPv4",
     "service": "GatewayManager.EastUS2EUAP",

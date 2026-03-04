@@ -9,6 +9,7 @@ CREATE TABLE IF NOT EXISTS `azure_powerbi.germanywestcentral_ips` (
 INSERT INTO `azure_powerbi.germanywestcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.52.89.48/30', 'IPv4');
 INSERT INTO `azure_powerbi.germanywestcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.52.95.0/29', 'IPv4');
 INSERT INTO `azure_powerbi.germanywestcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.218.189.224/28', 'IPv4');
+INSERT INTO `azure_powerbi.germanywestcentral_ips` (`ip_address`, `ip_type`) VALUES ('48.201.167.128/28', 'IPv4');
 INSERT INTO `azure_powerbi.germanywestcentral_ips` (`ip_address`, `ip_type`) VALUES ('51.116.144.68/31', 'IPv4');
 INSERT INTO `azure_powerbi.germanywestcentral_ips` (`ip_address`, `ip_type`) VALUES ('51.116.144.128/30', 'IPv4');
 INSERT INTO `azure_powerbi.germanywestcentral_ips` (`ip_address`, `ip_type`) VALUES ('51.116.144.136/29', 'IPv4');

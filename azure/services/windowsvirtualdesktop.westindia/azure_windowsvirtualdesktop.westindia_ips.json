@@ -6,6 +6,12 @@
     "region": "westindia"
   },
   {
+    "ip_address": "40.64.150.0/27",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.WestIndia",
+    "region": "westindia"
+  },
+  {
     "ip_address": "2603:1061:2010:1a::/117",
     "ip_type": "IPv6",
     "service": "WindowsVirtualDesktop.WestIndia",

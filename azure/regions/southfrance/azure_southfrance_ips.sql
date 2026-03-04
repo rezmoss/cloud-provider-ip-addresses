@@ -190,6 +190,7 @@ INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020
 INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:905::500/121', 'IPv6');
 INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:905:402::330/124', 'IPv6');
 INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('40.79.178.88/29', 'IPv4');
+INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('40.80.105.224/27', 'IPv4');
 INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('40.82.236.2/32', 'IPv4');
 INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('40.82.236.13/32', 'IPv4');
 INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('51.105.88.72/29', 'IPv4');
@@ -292,6 +293,7 @@ INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('51.138.16
 INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:905::340/123', 'IPv6');
 INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:905:402::5e0/123', 'IPv6');
 INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('40.64.147.192/29', 'IPv4');
+INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('40.64.153.128/27', 'IPv4');
 INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2010:c::/117', 'IPv6');
 INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('4.251.208.0/20', 'IPv4');
 INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('4.251.224.0/19', 'IPv4');
@@ -359,6 +361,7 @@ INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('70.152.11
 INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('98.65.0.0/16', 'IPv4');
 INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('98.66.0.0/17', 'IPv4');
 INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('151.206.168.0/24', 'IPv4');
+INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('151.206.194.0/24', 'IPv4');
 INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:900::/47', 'IPv6');
 INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:902::/48', 'IPv6');
 INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:904::/48', 'IPv6');

@@ -930,6 +930,12 @@
     "region": "indonesiacentral"
   },
   {
+    "ip_address": "48.193.55.64/28",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.IndonesiaCentral",
+    "region": "indonesiacentral"
+  },
+  {
     "ip_address": "70.153.152.64/26",
     "ip_type": "IPv4",
     "service": "GatewayManager.IndonesiaCentral",

@@ -1152,6 +1152,12 @@
     "region": "westindia"
   },
   {
+    "ip_address": "20.192.80.224/27",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.WestIndia",
+    "region": "westindia"
+  },
+  {
     "ip_address": "20.192.84.224/27",
     "ip_type": "IPv4",
     "service": "GatewayManager.WestIndia",
@@ -1471,6 +1477,12 @@
   },
   {
     "ip_address": "40.64.146.0/28",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.WestIndia",
+    "region": "westindia"
+  },
+  {
+    "ip_address": "40.64.150.0/27",
     "ip_type": "IPv4",
     "service": "WindowsVirtualDesktop.WestIndia",
     "region": "westindia"
@@ -1891,6 +1903,12 @@
   },
   {
     "ip_address": "151.206.162.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.westindia",
+    "region": "westindia"
+  },
+  {
+    "ip_address": "151.206.188.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.westindia",
     "region": "westindia"

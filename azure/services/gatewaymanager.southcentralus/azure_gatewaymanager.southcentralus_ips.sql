@@ -11,5 +11,6 @@ INSERT INTO `azure_gatewaymanager.southcentralus_ips` (`ip_address`, `ip_type`) 
 INSERT INTO `azure_gatewaymanager.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('40.119.49.12/32', 'IPv4');
 INSERT INTO `azure_gatewaymanager.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('40.124.139.107/32', 'IPv4');
 INSERT INTO `azure_gatewaymanager.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('40.124.139.174/32', 'IPv4');
+INSERT INTO `azure_gatewaymanager.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('48.192.241.128/26', 'IPv4');
 INSERT INTO `azure_gatewaymanager.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('104.214.19.64/29', 'IPv4');
 INSERT INTO `azure_gatewaymanager.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:807:1::40/122', 'IPv6');

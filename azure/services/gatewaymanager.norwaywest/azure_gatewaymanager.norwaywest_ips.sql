@@ -6,6 +6,7 @@ CREATE TABLE IF NOT EXISTS `azure_gatewaymanager.norwaywest_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_gatewaymanager.norwaywest_ips` (`ip_address`, `ip_type`) VALUES ('4.220.241.160/27', 'IPv4');
 INSERT INTO `azure_gatewaymanager.norwaywest_ips` (`ip_address`, `ip_type`) VALUES ('51.120.176.32/27', 'IPv4');
 INSERT INTO `azure_gatewaymanager.norwaywest_ips` (`ip_address`, `ip_type`) VALUES ('51.120.219.64/29', 'IPv4');
 INSERT INTO `azure_gatewaymanager.norwaywest_ips` (`ip_address`, `ip_type`) VALUES ('51.120.224.72/29', 'IPv4');

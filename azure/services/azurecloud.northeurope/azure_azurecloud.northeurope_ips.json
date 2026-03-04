@@ -2214,6 +2214,12 @@
     "region": "northeurope"
   },
   {
+    "ip_address": "151.206.182.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.northeurope",
+    "region": "northeurope"
+  },
+  {
     "ip_address": "157.55.10.160/29",
     "ip_type": "IPv4",
     "service": "AzureCloud.northeurope",

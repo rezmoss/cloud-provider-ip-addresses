@@ -30,6 +30,12 @@
     "region": "belgiumcentral"
   },
   {
+    "ip_address": "145.190.157.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
     "ip_address": "2603:1020:1503::/48",
     "ip_type": "IPv6",
     "service": "Storage.BelgiumCentral",

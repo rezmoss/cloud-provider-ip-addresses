@@ -1176,6 +1176,12 @@
     "region": "southeastasia"
   },
   {
+    "ip_address": "145.190.153.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia",
+    "region": "southeastasia"
+  },
+  {
     "ip_address": "151.206.66.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.southeastasia",

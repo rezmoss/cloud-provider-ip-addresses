@@ -456,6 +456,12 @@
     "region": "usstagec"
   },
   {
+    "ip_address": "57.152.146.144/28",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
     "ip_address": "20.44.4.64/29",
     "ip_type": "IPv4",
     "service": "HDInsight.SouthCentralUSSTG",

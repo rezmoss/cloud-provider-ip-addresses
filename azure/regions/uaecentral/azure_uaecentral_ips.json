@@ -1194,6 +1194,12 @@
     "region": "uaecentral"
   },
   {
+    "ip_address": "20.216.93.224/27",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.UAECentral",
+    "region": "uaecentral"
+  },
+  {
     "ip_address": "2603:1040:b04::40/122",
     "ip_type": "IPv6",
     "service": "GatewayManager.UAECentral",
@@ -1723,6 +1729,12 @@
   },
   {
     "ip_address": "40.64.146.144/28",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.UAECentral",
+    "region": "uaecentral"
+  },
+  {
+    "ip_address": "40.64.151.32/27",
     "ip_type": "IPv4",
     "service": "WindowsVirtualDesktop.UAECentral",
     "region": "uaecentral"

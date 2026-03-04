@@ -588,6 +588,12 @@
     "region": "eastus3"
   },
   {
+    "ip_address": "51.57.139.192/28",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.EastUS3",
+    "region": "eastus3"
+  },
+  {
     "ip_address": "134.138.64.64/26",
     "ip_type": "IPv4",
     "service": "GatewayManager.EastUS3",
@@ -852,31 +858,25 @@
     "region": "eastus3"
   },
   {
-    "ip_address": "57.157.24.0/26",
+    "ip_address": "57.157.24.0/25",
     "ip_type": "IPv4",
     "service": "AzureCloud.eastus3",
     "region": "eastus3"
   },
   {
-    "ip_address": "57.157.24.64/27",
+    "ip_address": "57.157.24.128/28",
     "ip_type": "IPv4",
     "service": "AzureCloud.eastus3",
     "region": "eastus3"
   },
   {
-    "ip_address": "57.157.24.96/28",
+    "ip_address": "57.157.24.144/30",
     "ip_type": "IPv4",
     "service": "AzureCloud.eastus3",
     "region": "eastus3"
   },
   {
-    "ip_address": "57.157.24.112/29",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.eastus3",
-    "region": "eastus3"
-  },
-  {
-    "ip_address": "57.157.24.120/31",
+    "ip_address": "57.157.24.148/31",
     "ip_type": "IPv4",
     "service": "AzureCloud.eastus3",
     "region": "eastus3"
@@ -966,31 +966,19 @@
     "region": "eastus3"
   },
   {
-    "ip_address": "2603:1061:101a::/59",
+    "ip_address": "2603:1061:101a::/58",
     "ip_type": "IPv6",
     "service": "AzureCloud.eastus3",
     "region": "eastus3"
   },
   {
-    "ip_address": "2603:1061:101a:20::/60",
+    "ip_address": "2603:1061:101a:40::/62",
     "ip_type": "IPv6",
     "service": "AzureCloud.eastus3",
     "region": "eastus3"
   },
   {
-    "ip_address": "2603:1061:101a:30::/62",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.eastus3",
-    "region": "eastus3"
-  },
-  {
-    "ip_address": "2603:1061:101a:34::/63",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.eastus3",
-    "region": "eastus3"
-  },
-  {
-    "ip_address": "2603:1061:101a:36::/64",
+    "ip_address": "2603:1061:101a:44::/63",
     "ip_type": "IPv6",
     "service": "AzureCloud.eastus3",
     "region": "eastus3"

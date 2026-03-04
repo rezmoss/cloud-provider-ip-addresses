@@ -7,4 +7,5 @@ CREATE TABLE IF NOT EXISTS `azure_windowsvirtualdesktop.jioindiawest_ips` (
 );
 
 INSERT INTO `azure_windowsvirtualdesktop.jioindiawest_ips` (`ip_address`, `ip_type`) VALUES ('40.64.147.48/28', 'IPv4');
+INSERT INTO `azure_windowsvirtualdesktop.jioindiawest_ips` (`ip_address`, `ip_type`) VALUES ('40.64.152.96/27', 'IPv4');
 INSERT INTO `azure_windowsvirtualdesktop.jioindiawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2010:32::/117', 'IPv6');

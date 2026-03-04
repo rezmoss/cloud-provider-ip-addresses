@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "4.166.32.64/28",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
     "ip_address": "51.12.40.192/26",
     "ip_type": "IPv4",
     "service": "GatewayManager.SwedenCentral",

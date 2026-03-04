@@ -2442,6 +2442,12 @@
     "region": "japanwest"
   },
   {
+    "ip_address": "40.64.150.96/27",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.JapanWest",
+    "region": "japanwest"
+  },
+  {
     "ip_address": "2603:1061:2010:e::/117",
     "ip_type": "IPv6",
     "service": "WindowsVirtualDesktop.JapanWest",
@@ -3451,6 +3457,12 @@
   },
   {
     "ip_address": "151.206.163.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.japanwest",
+    "region": "japanwest"
+  },
+  {
+    "ip_address": "151.206.189.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.japanwest",
     "region": "japanwest"

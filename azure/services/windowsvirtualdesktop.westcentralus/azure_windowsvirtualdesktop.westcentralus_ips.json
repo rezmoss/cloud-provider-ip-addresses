@@ -6,6 +6,12 @@
     "region": "westcentralus"
   },
   {
+    "ip_address": "40.64.151.64/27",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
     "ip_address": "2603:1061:2010:18::/117",
     "ip_type": "IPv6",
     "service": "WindowsVirtualDesktop.WestCentralUS",

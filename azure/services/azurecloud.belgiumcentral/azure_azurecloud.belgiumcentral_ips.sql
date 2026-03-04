@@ -30,6 +30,7 @@ INSERT INTO `azure_azurecloud.belgiumcentral_ips` (`ip_address`, `ip_type`) VALU
 INSERT INTO `azure_azurecloud.belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('57.150.194.0/23', 'IPv4');
 INSERT INTO `azure_azurecloud.belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('57.150.196.0/23', 'IPv4');
 INSERT INTO `azure_azurecloud.belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('57.150.198.0/24', 'IPv4');
+INSERT INTO `azure_azurecloud.belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('145.190.157.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('209.199.27.32/27', 'IPv4');
 INSERT INTO `azure_azurecloud.belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('209.199.28.64/26', 'IPv4');
 INSERT INTO `azure_azurecloud.belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('209.199.28.128/25', 'IPv4');

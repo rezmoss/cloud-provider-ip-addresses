@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "20.170.251.160/27",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
     "ip_address": "51.116.48.72/29",
     "ip_type": "IPv4",
     "service": "GatewayManager.GermanyNorth",

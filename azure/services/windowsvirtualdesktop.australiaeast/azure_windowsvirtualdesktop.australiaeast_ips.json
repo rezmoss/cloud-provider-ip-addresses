@@ -6,6 +6,12 @@
     "region": "australiaeast"
   },
   {
+    "ip_address": "40.64.150.32/27",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
     "ip_address": "2603:1061:2010::/117",
     "ip_type": "IPv6",
     "service": "WindowsVirtualDesktop.AustraliaEast",

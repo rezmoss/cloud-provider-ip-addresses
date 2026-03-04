@@ -71,6 +71,7 @@ ip_address,ip_type,service,region
 145.190.69.0/24,IPv4,AzureCloud.italynorth,italynorth
 145.190.148.0/24,IPv4,AzureCloud.italynorth,italynorth
 151.206.157.0/24,IPv4,AzureCloud.italynorth,italynorth
+151.206.183.0/24,IPv4,AzureCloud.italynorth,italynorth
 172.213.0.0/19,IPv4,AzureCloud.italynorth,italynorth
 172.213.64.0/18,IPv4,AzureCloud.italynorth,italynorth
 172.213.128.0/17,IPv4,AzureCloud.italynorth,italynorth

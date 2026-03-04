@@ -18,6 +18,12 @@
     "region": "uaecentral"
   },
   {
+    "ip_address": "20.216.93.224/27",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.UAECentral",
+    "region": "uaecentral"
+  },
+  {
     "ip_address": "2603:1040:b04::40/122",
     "ip_type": "IPv6",
     "service": "GatewayManager.UAECentral",

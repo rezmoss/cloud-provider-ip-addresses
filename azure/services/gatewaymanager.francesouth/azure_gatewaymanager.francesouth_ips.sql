@@ -7,6 +7,7 @@ CREATE TABLE IF NOT EXISTS `azure_gatewaymanager.francesouth_ips` (
 );
 
 INSERT INTO `azure_gatewaymanager.francesouth_ips` (`ip_address`, `ip_type`) VALUES ('40.79.178.88/29', 'IPv4');
+INSERT INTO `azure_gatewaymanager.francesouth_ips` (`ip_address`, `ip_type`) VALUES ('40.80.105.224/27', 'IPv4');
 INSERT INTO `azure_gatewaymanager.francesouth_ips` (`ip_address`, `ip_type`) VALUES ('40.82.236.2/32', 'IPv4');
 INSERT INTO `azure_gatewaymanager.francesouth_ips` (`ip_address`, `ip_type`) VALUES ('40.82.236.13/32', 'IPv4');
 INSERT INTO `azure_gatewaymanager.francesouth_ips` (`ip_address`, `ip_type`) VALUES ('51.105.88.72/29', 'IPv4');

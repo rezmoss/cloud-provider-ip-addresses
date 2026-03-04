@@ -690,6 +690,12 @@
     "region": "malaysiasouth"
   },
   {
+    "ip_address": "172.197.26.176/28",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.MalaysiaSouth",
+    "region": "malaysiasouth"
+  },
+  {
     "ip_address": "2603:1040:1503::40/122",
     "ip_type": "IPv6",
     "service": "GatewayManager.MalaysiaSouth",

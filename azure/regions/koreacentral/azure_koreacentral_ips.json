@@ -2568,6 +2568,12 @@
     "region": "koreacentral"
   },
   {
+    "ip_address": "40.64.152.0/27",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
     "ip_address": "2603:1061:2010:f::/117",
     "ip_type": "IPv6",
     "service": "WindowsVirtualDesktop.KoreaCentral",
@@ -3301,6 +3307,12 @@
   },
   {
     "ip_address": "151.206.159.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreacentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "151.206.185.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.koreacentral",
     "region": "koreacentral"

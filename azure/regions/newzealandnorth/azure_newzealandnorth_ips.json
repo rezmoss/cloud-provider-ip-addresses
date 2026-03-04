@@ -906,6 +906,12 @@
     "region": "newzealandnorth"
   },
   {
+    "ip_address": "172.196.72.160/28",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
     "ip_address": "172.204.152.64/26",
     "ip_type": "IPv4",
     "service": "GatewayManager.NewZealandNorth",
@@ -1278,6 +1284,12 @@
     "region": "newzealandnorth"
   },
   {
+    "ip_address": "40.64.153.0/27",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
     "ip_address": "2603:1061:2010:39::/117",
     "ip_type": "IPv6",
     "service": "WindowsVirtualDesktop.NewZealandNorth",
@@ -1561,6 +1573,12 @@
   },
   {
     "ip_address": "151.206.154.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "151.206.180.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.newzealandnorth",
     "region": "newzealandnorth"

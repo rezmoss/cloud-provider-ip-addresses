@@ -1104,6 +1104,12 @@
     "region": "italynorth"
   },
   {
+    "ip_address": "9.235.174.32/28",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.ItalyNorth",
+    "region": "italynorth"
+  },
+  {
     "ip_address": "2603:1020:1204::40/122",
     "ip_type": "IPv6",
     "service": "GatewayManager.ItalyNorth",
@@ -1525,6 +1531,12 @@
   },
   {
     "ip_address": "40.64.147.248/29",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.ItalyNorth",
+    "region": "italynorth"
+  },
+  {
+    "ip_address": "40.64.153.224/27",
     "ip_type": "IPv4",
     "service": "WindowsVirtualDesktop.ItalyNorth",
     "region": "italynorth"
@@ -1963,6 +1975,12 @@
   },
   {
     "ip_address": "151.206.157.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.italynorth",
+    "region": "italynorth"
+  },
+  {
+    "ip_address": "151.206.183.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.italynorth",
     "region": "italynorth"

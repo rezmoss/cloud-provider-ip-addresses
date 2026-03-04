@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "68.210.62.16/28",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.AustriaEast",
+    "region": "austriaeast"
+  },
+  {
     "ip_address": "68.210.160.64/26",
     "ip_type": "IPv4",
     "service": "GatewayManager.AustriaEast",

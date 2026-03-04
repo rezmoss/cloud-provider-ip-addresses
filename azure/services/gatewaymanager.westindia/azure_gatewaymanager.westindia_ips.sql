@@ -6,6 +6,7 @@ CREATE TABLE IF NOT EXISTS `azure_gatewaymanager.westindia_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_gatewaymanager.westindia_ips` (`ip_address`, `ip_type`) VALUES ('20.192.80.224/27', 'IPv4');
 INSERT INTO `azure_gatewaymanager.westindia_ips` (`ip_address`, `ip_type`) VALUES ('20.192.84.224/27', 'IPv4');
 INSERT INTO `azure_gatewaymanager.westindia_ips` (`ip_address`, `ip_type`) VALUES ('40.81.94.172/32', 'IPv4');
 INSERT INTO `azure_gatewaymanager.westindia_ips` (`ip_address`, `ip_type`) VALUES ('40.81.94.182/32', 'IPv4');

@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "4.161.14.32/27",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.UAENorth",
+    "region": "uaenorth"
+  },
+  {
     "ip_address": "20.38.136.72/29",
     "ip_type": "IPv4",
     "service": "GatewayManager.UAENorth",

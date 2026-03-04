@@ -288,6 +288,7 @@ ip_address,ip_type,service,region
 2603:1000:104:802::210/124,IPv6,DataFactory.SouthAfricaNorth,southafricanorth
 2603:1000:104:c02::210/124,IPv6,DataFactory.SouthAfricaNorth,southafricanorth
 102.133.251.96/27,IPv4,Dynamics365ForMarketingEmail.SouthAfricaNorth,southafricanorth
+4.221.233.96/27,IPv4,GatewayManager.SouthAfricaNorth,southafricanorth
 20.87.82.0/27,IPv4,GatewayManager.SouthAfricaNorth,southafricanorth
 102.133.155.16/29,IPv4,GatewayManager.SouthAfricaNorth,southafricanorth
 102.133.216.72/29,IPv4,GatewayManager.SouthAfricaNorth,southafricanorth
@@ -395,6 +396,7 @@ ip_address,ip_type,service,region
 20.87.83.120/29,IPv4,StorageSyncService.SouthAfricaNorth,southafricanorth
 2603:1000:104:1::300/123,IPv6,StorageSyncService.SouthAfricaNorth,southafricanorth
 40.64.146.112/28,IPv4,WindowsVirtualDesktop.SouthAfricaNorth,southafricanorth
+40.64.150.224/27,IPv4,WindowsVirtualDesktop.SouthAfricaNorth,southafricanorth
 2603:1061:2010:20::/117,IPv6,WindowsVirtualDesktop.SouthAfricaNorth,southafricanorth
 4.167.0.0/16,IPv4,AzureCloud.southafricanorth,southafricanorth
 4.168.0.0/16,IPv4,AzureCloud.southafricanorth,southafricanorth
@@ -505,6 +507,7 @@ ip_address,ip_type,service,region
 102.133.240.128/26,IPv4,AzureCloud.southafricanorth,southafricanorth
 102.133.248.0/21,IPv4,AzureCloud.southafricanorth,southafricanorth
 151.206.145.0/24,IPv4,AzureCloud.southafricanorth,southafricanorth
+151.206.171.0/24,IPv4,AzureCloud.southafricanorth,southafricanorth
 172.209.128.0/17,IPv4,AzureCloud.southafricanorth,southafricanorth
 2603:1000:100::/47,IPv6,AzureCloud.southafricanorth,southafricanorth
 2603:1000:103::/48,IPv6,AzureCloud.southafricanorth,southafricanorth

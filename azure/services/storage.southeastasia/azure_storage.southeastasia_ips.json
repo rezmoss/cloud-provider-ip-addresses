@@ -216,6 +216,12 @@
     "region": "southeastasia"
   },
   {
+    "ip_address": "145.190.153.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
     "ip_address": "168.63.160.0/26",
     "ip_type": "IPv4",
     "service": "Storage.SoutheastAsia",

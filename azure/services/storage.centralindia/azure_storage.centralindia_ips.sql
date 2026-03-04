@@ -27,4 +27,5 @@ INSERT INTO `azure_storage.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('
 INSERT INTO `azure_storage.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('104.211.109.80/28', 'IPv4');
 INSERT INTO `azure_storage.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('104.211.109.96/28', 'IPv4');
 INSERT INTO `azure_storage.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('135.130.174.0/23', 'IPv4');
+INSERT INTO `azure_storage.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('145.190.158.0/24', 'IPv4');
 INSERT INTO `azure_storage.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:a07::/48', 'IPv6');

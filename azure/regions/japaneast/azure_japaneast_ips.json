@@ -2130,6 +2130,12 @@
     "region": "japaneast"
   },
   {
+    "ip_address": "4.216.6.128/27",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.JapanEast",
+    "region": "japaneast"
+  },
+  {
     "ip_address": "13.78.108.16/29",
     "ip_type": "IPv4",
     "service": "GatewayManager.JapanEast",
@@ -2923,6 +2929,12 @@
   },
   {
     "ip_address": "40.64.146.32/28",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.JapanEast",
+    "region": "japaneast"
+  },
+  {
+    "ip_address": "40.64.150.64/27",
     "ip_type": "IPv4",
     "service": "WindowsVirtualDesktop.JapanEast",
     "region": "japaneast"

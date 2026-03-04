@@ -1350,6 +1350,12 @@
     "region": "ca-central-1"
   },
   {
+    "ip_address": "16.180.0.0/16",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "me-south-1"
+  },
+  {
     "ip_address": "35.54.52.0/24",
     "ip_type": "IPv4",
     "service": "EC2",

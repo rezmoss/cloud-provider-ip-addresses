@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "4.176.37.32/27",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
     "ip_address": "20.43.40.72/29",
     "ip_type": "IPv4",
     "service": "GatewayManager.FranceCentral",

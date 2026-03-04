@@ -6,6 +6,12 @@
     "region": "israelcentral"
   },
   {
+    "ip_address": "51.58.60.144/28",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.IsraelCentral",
+    "region": "israelcentral"
+  },
+  {
     "ip_address": "2603:1040:1402::40/122",
     "ip_type": "IPv6",
     "service": "GatewayManager.IsraelCentral",

@@ -8,6 +8,7 @@ CREATE TABLE IF NOT EXISTS `azure_gatewaymanager.koreasouth_ips` (
 
 INSERT INTO `azure_gatewaymanager.koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('20.200.160.32/27', 'IPv4');
 INSERT INTO `azure_gatewaymanager.koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('40.80.168.72/29', 'IPv4');
+INSERT INTO `azure_gatewaymanager.koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('40.80.171.0/27', 'IPv4');
 INSERT INTO `azure_gatewaymanager.koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('40.89.217.100/32', 'IPv4');
 INSERT INTO `azure_gatewaymanager.koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('40.89.217.109/32', 'IPv4');
 INSERT INTO `azure_gatewaymanager.koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('52.231.146.200/29', 'IPv4');

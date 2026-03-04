@@ -7,4 +7,5 @@ CREATE TABLE IF NOT EXISTS `azure_gatewaymanager.belgiumcentral_ips` (
 );
 
 INSERT INTO `azure_gatewaymanager.belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('9.160.40.64/26', 'IPv4');
+INSERT INTO `azure_gatewaymanager.belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('9.160.171.112/28', 'IPv4');
 INSERT INTO `azure_gatewaymanager.belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1502::40/122', 'IPv6');

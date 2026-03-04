@@ -756,6 +756,12 @@
     "region": "taiwannorthwest"
   },
   {
+    "ip_address": "167.105.251.240/28",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.TaiwanNorthwest",
+    "region": "taiwannorthwest"
+  },
+  {
     "ip_address": "2603:1040:1202::40/122",
     "ip_type": "IPv6",
     "service": "GatewayManager.TaiwanNorthwest",
@@ -1021,6 +1027,12 @@
   },
   {
     "ip_address": "40.64.144.144/29",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.TaiwanNorthwest",
+    "region": "taiwannorthwest"
+  },
+  {
+    "ip_address": "40.64.153.32/27",
     "ip_type": "IPv4",
     "service": "WindowsVirtualDesktop.TaiwanNorthwest",
     "region": "taiwannorthwest"

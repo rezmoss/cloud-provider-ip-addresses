@@ -168,6 +168,7 @@ ip_address,ip_type,service,region
 135.130.242.0/23,IPv4,AzureCloud.eastasia,eastasia
 137.116.160.0/20,IPv4,AzureCloud.eastasia,eastasia
 151.206.143.0/24,IPv4,AzureCloud.eastasia,eastasia
+151.206.169.0/24,IPv4,AzureCloud.eastasia,eastasia
 168.63.128.0/24,IPv4,AzureCloud.eastasia,eastasia
 168.63.129.0/28,IPv4,AzureCloud.eastasia,eastasia
 168.63.129.32/27,IPv4,AzureCloud.eastasia,eastasia

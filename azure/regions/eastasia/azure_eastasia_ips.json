@@ -3282,6 +3282,12 @@
     "region": "eastasia"
   },
   {
+    "ip_address": "40.64.149.128/27",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.EastAsia",
+    "region": "eastasia"
+  },
+  {
     "ip_address": "2603:1061:2010:8::/117",
     "ip_type": "IPv6",
     "service": "WindowsVirtualDesktop.EastAsia",
@@ -4297,6 +4303,12 @@
   },
   {
     "ip_address": "151.206.143.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.eastasia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "151.206.169.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.eastasia",
     "region": "eastasia"

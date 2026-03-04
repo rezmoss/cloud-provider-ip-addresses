@@ -3804,6 +3804,12 @@
     "region": "centralus"
   },
   {
+    "ip_address": "172.170.121.128/27",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.CentralUS",
+    "region": "centralus"
+  },
+  {
     "ip_address": "2603:1030:10:1::40/122",
     "ip_type": "IPv6",
     "service": "GatewayManager.CentralUS",
@@ -4783,6 +4789,12 @@
   },
   {
     "ip_address": "40.64.145.176/28",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "40.64.149.96/27",
     "ip_type": "IPv4",
     "service": "WindowsVirtualDesktop.CentralUS",
     "region": "centralus"
@@ -8082,6 +8094,12 @@
     "region": "centralus"
   },
   {
+    "ip_address": "57.157.44.204/31",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.centralus",
+    "region": "centralus"
+  },
+  {
     "ip_address": "64.236.0.0/17",
     "ip_type": "IPv4",
     "service": "AzureCloud.centralus",
@@ -8317,6 +8335,12 @@
   },
   {
     "ip_address": "151.206.161.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.centralus",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "151.206.187.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.centralus",
     "region": "centralus"
@@ -9631,6 +9655,12 @@
   },
   {
     "ip_address": "2603:1030:9:878::/62",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.centralus",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "2603:1030:9:87c::/64",
     "ip_type": "IPv6",
     "service": "AzureCloud.centralus",
     "region": "centralus"

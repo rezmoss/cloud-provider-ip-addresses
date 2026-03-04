@@ -450,6 +450,7 @@ ip_address,ip_type,service,region
 57.157.33.0/25,IPv4,AzureCloud.eastus,eastus
 57.157.33.128/26,IPv4,AzureCloud.eastus,eastus
 57.157.33.192/27,IPv4,AzureCloud.eastus,eastus
+57.157.33.224/31,IPv4,AzureCloud.eastus,eastus
 65.54.19.128/27,IPv4,AzureCloud.eastus,eastus
 68.220.88.0/21,IPv4,AzureCloud.eastus,eastus
 70.152.8.0/24,IPv4,AzureCloud.eastus,eastus
@@ -500,6 +501,7 @@ ip_address,ip_type,service,region
 145.190.36.0/24,IPv4,AzureCloud.eastus,eastus
 145.190.134.0/24,IPv4,AzureCloud.eastus,eastus
 145.190.144.0/24,IPv4,AzureCloud.eastus,eastus
+145.190.155.0/24,IPv4,AzureCloud.eastus,eastus
 151.206.83.0/24,IPv4,AzureCloud.eastus,eastus
 151.206.84.0/24,IPv4,AzureCloud.eastus,eastus
 151.206.100.0/23,IPv4,AzureCloud.eastus,eastus

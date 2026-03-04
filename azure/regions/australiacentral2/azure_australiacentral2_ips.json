@@ -1080,6 +1080,12 @@
     "region": "australiacentral2"
   },
   {
+    "ip_address": "20.167.130.160/27",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.AustraliaCentral2",
+    "region": "australiacentral2"
+  },
+  {
     "ip_address": "2603:1010:404::40/122",
     "ip_type": "IPv6",
     "service": "GatewayManager.AustraliaCentral2",

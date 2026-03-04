@@ -7,4 +7,5 @@ CREATE TABLE IF NOT EXISTS `azure_gatewaymanager.qatarcentral_ips` (
 );
 
 INSERT INTO `azure_gatewaymanager.qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.21.32.64/26', 'IPv4');
+INSERT INTO `azure_gatewaymanager.qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.173.62.208/28', 'IPv4');
 INSERT INTO `azure_gatewaymanager.qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1002::80/122', 'IPv6');

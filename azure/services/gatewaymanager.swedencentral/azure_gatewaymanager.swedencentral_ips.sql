@@ -6,5 +6,6 @@ CREATE TABLE IF NOT EXISTS `azure_gatewaymanager.swedencentral_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_gatewaymanager.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('4.166.32.64/28', 'IPv4');
 INSERT INTO `azure_gatewaymanager.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('51.12.40.192/26', 'IPv4');
 INSERT INTO `azure_gatewaymanager.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1004::40/122', 'IPv6');

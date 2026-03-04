@@ -733,6 +733,7 @@ ip_address,ip_type,service,region
 20.71.77.160/32,IPv4,GatewayManager.WestEurope,westeurope
 20.105.210.128/27,IPv4,GatewayManager.WestEurope,westeurope
 40.74.24.72/29,IPv4,GatewayManager.WestEurope,westeurope
+48.199.250.192/27,IPv4,GatewayManager.WestEurope,westeurope
 2603:1020:206:1::40/122,IPv6,GatewayManager.WestEurope,westeurope
 13.69.65.8/29,IPv4,HDInsight.WestEurope,westeurope
 20.61.96.160/29,IPv4,HDInsight.WestEurope,westeurope
@@ -1314,6 +1315,7 @@ ip_address,ip_type,service,region
 20.50.1.0/29,IPv4,StorageSyncService.WestEurope,westeurope
 2603:1020:206:1::300/123,IPv6,StorageSyncService.WestEurope,westeurope
 40.64.144.32/27,IPv4,WindowsVirtualDesktop.WestEurope,westeurope
+40.64.145.128/28,IPv4,WindowsVirtualDesktop.WestEurope,westeurope
 2603:1061:2010:19::/117,IPv6,WindowsVirtualDesktop.WestEurope,westeurope
 4.175.0.0/16,IPv4,AzureCloud.westeurope,westeurope
 4.180.0.0/16,IPv4,AzureCloud.westeurope,westeurope

@@ -522,6 +522,7 @@ ip_address,ip_type,service,region
 20.83.222.224/27,IPv4,GatewayManager.WestUS2,westus2
 40.91.89.36/32,IPv4,GatewayManager.WestUS2,westus2
 40.91.91.51/32,IPv4,GatewayManager.WestUS2,westus2
+48.204.72.192/27,IPv4,GatewayManager.WestUS2,westus2
 52.149.24.100/32,IPv4,GatewayManager.WestUS2,westus2
 52.149.26.14/32,IPv4,GatewayManager.WestUS2,westus2
 2603:1030:c06:1::40/122,IPv6,GatewayManager.WestUS2,westus2
@@ -739,6 +740,7 @@ ip_address,ip_type,service,region
 20.42.131.224/29,IPv4,StorageSyncService.WestUS2,westus2
 2603:1030:c06:1::300/123,IPv6,StorageSyncService.WestUS2,westus2
 40.64.145.160/28,IPv4,WindowsVirtualDesktop.WestUS2,westus2
+40.64.149.64/27,IPv4,WindowsVirtualDesktop.WestUS2,westus2
 2603:1061:2010:1c::/117,IPv6,WindowsVirtualDesktop.WestUS2,westus2
 4.149.64.0/19,IPv4,AzureCloud.westus2,westus2
 4.149.128.0/17,IPv4,AzureCloud.westus2,westus2
@@ -1028,6 +1030,7 @@ ip_address,ip_type,service,region
 57.157.72.128/28,IPv4,AzureCloud.westus2,westus2
 57.157.72.144/29,IPv4,AzureCloud.westus2,westus2
 57.157.72.152/30,IPv4,AzureCloud.westus2,westus2
+57.157.72.156/31,IPv4,AzureCloud.westus2,westus2
 65.52.111.0/24,IPv4,AzureCloud.westus2,westus2
 65.55.32.128/28,IPv4,AzureCloud.westus2,westus2
 65.55.32.193/32,IPv4,AzureCloud.westus2,westus2

@@ -1,3 +1,4 @@
 ip_address,ip_type,service,region
 40.64.146.128/28,IPv4,WindowsVirtualDesktop.SouthAfricaWest,southafricawest
+40.64.151.0/27,IPv4,WindowsVirtualDesktop.SouthAfricaWest,southafricawest
 2603:1061:2010:1f::/117,IPv6,WindowsVirtualDesktop.SouthAfricaWest,southafricawest

@@ -7,4 +7,5 @@ CREATE TABLE IF NOT EXISTS `azure_windowsvirtualdesktop.francesouth_ips` (
 );
 
 INSERT INTO `azure_windowsvirtualdesktop.francesouth_ips` (`ip_address`, `ip_type`) VALUES ('40.64.147.192/29', 'IPv4');
+INSERT INTO `azure_windowsvirtualdesktop.francesouth_ips` (`ip_address`, `ip_type`) VALUES ('40.64.153.128/27', 'IPv4');
 INSERT INTO `azure_windowsvirtualdesktop.francesouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2010:c::/117', 'IPv6');

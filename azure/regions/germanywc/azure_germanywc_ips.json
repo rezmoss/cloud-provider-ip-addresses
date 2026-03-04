@@ -1740,6 +1740,12 @@
     "region": "germanywc"
   },
   {
+    "ip_address": "48.201.167.160/27",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
     "ip_address": "51.116.144.72/29",
     "ip_type": "IPv4",
     "service": "GatewayManager.GermanyWestCentral",
@@ -2094,6 +2100,12 @@
     "region": "germanywc"
   },
   {
+    "ip_address": "48.201.167.128/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
     "ip_address": "51.116.144.68/31",
     "ip_type": "IPv4",
     "service": "PowerBI.GermanyWestCentral",
@@ -2443,6 +2455,12 @@
   },
   {
     "ip_address": "40.64.145.240/28",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "40.64.149.224/27",
     "ip_type": "IPv4",
     "service": "WindowsVirtualDesktop.GermanyWestCentral",
     "region": "germanywc"

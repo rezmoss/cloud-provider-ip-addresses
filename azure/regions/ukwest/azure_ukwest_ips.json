@@ -1422,6 +1422,12 @@
     "region": "ukwest"
   },
   {
+    "ip_address": "172.186.108.128/27",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.UKWest",
+    "region": "ukwest"
+  },
+  {
     "ip_address": "2603:1020:605::40/122",
     "ip_type": "IPv6",
     "service": "GatewayManager.UKWest",
@@ -2977,6 +2983,12 @@
   },
   {
     "ip_address": "40.64.145.96/28",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "40.64.148.224/27",
     "ip_type": "IPv4",
     "service": "WindowsVirtualDesktop.UKWest",
     "region": "ukwest"

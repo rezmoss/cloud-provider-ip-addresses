@@ -1,4 +1,5 @@
 ip_address,ip_type,service,region
+4.199.211.0/27,IPv4,GatewayManager.AustraliaCentral,australiacentral
 20.36.106.72/29,IPv4,GatewayManager.AustraliaCentral,australiacentral
 20.37.53.66/32,IPv4,GatewayManager.AustraliaCentral,australiacentral
 20.37.53.76/32,IPv4,GatewayManager.AustraliaCentral,australiacentral

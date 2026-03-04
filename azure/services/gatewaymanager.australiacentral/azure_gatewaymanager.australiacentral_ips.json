@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "4.199.211.0/27",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.AustraliaCentral",
+    "region": "australiacentral"
+  },
+  {
     "ip_address": "20.36.106.72/29",
     "ip_type": "IPv4",
     "service": "GatewayManager.AustraliaCentral",

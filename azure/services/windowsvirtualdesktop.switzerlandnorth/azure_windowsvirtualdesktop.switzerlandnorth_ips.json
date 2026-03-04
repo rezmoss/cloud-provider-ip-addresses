@@ -6,6 +6,12 @@
     "region": "switzerlandn"
   },
   {
+    "ip_address": "40.64.152.64/27",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
     "ip_address": "2603:1061:2010:28::/117",
     "ip_type": "IPv6",
     "service": "WindowsVirtualDesktop.SwitzerlandNorth",

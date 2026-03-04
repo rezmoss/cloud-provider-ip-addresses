@@ -382,6 +382,7 @@ ip_address,ip_type,service,region
 2603:1010:6:402::330/124,IPv6,DataFactory.AustraliaEast,australiaeast
 2603:1010:6:802::210/124,IPv6,DataFactory.AustraliaEast,australiaeast
 2603:1010:6:c02::210/124,IPv6,DataFactory.AustraliaEast,australiaeast
+4.147.33.32/27,IPv4,GatewayManager.AustraliaEast,australiaeast
 13.70.72.208/29,IPv4,GatewayManager.AustraliaEast,australiaeast
 20.37.192.72/29,IPv4,GatewayManager.AustraliaEast,australiaeast
 20.70.222.128/27,IPv4,GatewayManager.AustraliaEast,australiaeast
@@ -544,6 +545,7 @@ ip_address,ip_type,service,region
 20.37.195.96/29,IPv4,StorageSyncService.AustraliaEast,australiaeast
 2603:1010:6:1::300/123,IPv6,StorageSyncService.AustraliaEast,australiaeast
 40.64.146.16/28,IPv4,WindowsVirtualDesktop.AustraliaEast,australiaeast
+40.64.150.32/27,IPv4,WindowsVirtualDesktop.AustraliaEast,australiaeast
 2603:1061:2010::/117,IPv6,WindowsVirtualDesktop.AustraliaEast,australiaeast
 4.147.0.0/16,IPv4,AzureCloud.australiaeast,australiaeast
 4.195.0.0/16,IPv4,AzureCloud.australiaeast,australiaeast

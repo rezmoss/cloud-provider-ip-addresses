@@ -990,6 +990,12 @@
     "region": "jioindiacentral"
   },
   {
+    "ip_address": "74.225.118.0/28",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.JioIndiaCentral",
+    "region": "jioindiacentral"
+  },
+  {
     "ip_address": "2603:1040:1104::40/122",
     "ip_type": "IPv6",
     "service": "GatewayManager.JioIndiaCentral",

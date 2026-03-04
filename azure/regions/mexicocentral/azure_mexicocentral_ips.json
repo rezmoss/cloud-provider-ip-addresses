@@ -948,6 +948,12 @@
     "region": "mexicocentral"
   },
   {
+    "ip_address": "172.195.113.144/28",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
     "ip_address": "2603:1030:702::40/122",
     "ip_type": "IPv6",
     "service": "GatewayManager.MexicoCentral",
@@ -1273,6 +1279,12 @@
   },
   {
     "ip_address": "40.64.144.184/29",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "40.64.152.160/27",
     "ip_type": "IPv4",
     "service": "WindowsVirtualDesktop.MexicoCentral",
     "region": "mexicocentral"
@@ -1639,6 +1651,12 @@
   },
   {
     "ip_address": "151.206.158.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.mexicocentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "151.206.184.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.mexicocentral",
     "region": "mexicocentral"

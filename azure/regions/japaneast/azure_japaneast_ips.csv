@@ -354,6 +354,7 @@ ip_address,ip_type,service,region
 2603:1040:407:802::210/124,IPv6,DataFactory.JapanEast,japaneast
 2603:1040:407:c02::210/124,IPv6,DataFactory.JapanEast,japaneast
 13.78.107.0/24,IPv4,Dynamics365ForMarketingEmail.JapanEast,japaneast
+4.216.6.128/27,IPv4,GatewayManager.JapanEast,japaneast
 13.78.108.16/29,IPv4,GatewayManager.JapanEast,japaneast
 20.43.64.72/29,IPv4,GatewayManager.JapanEast,japaneast
 20.210.68.160/27,IPv4,GatewayManager.JapanEast,japaneast
@@ -487,6 +488,7 @@ ip_address,ip_type,service,region
 20.43.66.0/29,IPv4,StorageSyncService.JapanEast,japaneast
 2603:1040:407:1::300/123,IPv6,StorageSyncService.JapanEast,japaneast
 40.64.146.32/28,IPv4,WindowsVirtualDesktop.JapanEast,japaneast
+40.64.150.64/27,IPv4,WindowsVirtualDesktop.JapanEast,japaneast
 2603:1061:2010:d::/117,IPv6,WindowsVirtualDesktop.JapanEast,japaneast
 4.189.0.0/16,IPv4,AzureCloud.japaneast,japaneast
 4.190.0.0/17,IPv4,AzureCloud.japaneast,japaneast

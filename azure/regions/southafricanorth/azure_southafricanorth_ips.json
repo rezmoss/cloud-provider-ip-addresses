@@ -1734,6 +1734,12 @@
     "region": "southafricanorth"
   },
   {
+    "ip_address": "4.221.233.96/27",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
     "ip_address": "20.87.82.0/27",
     "ip_type": "IPv4",
     "service": "GatewayManager.SouthAfricaNorth",
@@ -2371,6 +2377,12 @@
   },
   {
     "ip_address": "40.64.146.112/28",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "40.64.150.224/27",
     "ip_type": "IPv4",
     "service": "WindowsVirtualDesktop.SouthAfricaNorth",
     "region": "southafricanorth"
@@ -3031,6 +3043,12 @@
   },
   {
     "ip_address": "151.206.145.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southafricanorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "151.206.171.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.southafricanorth",
     "region": "southafricanorth"

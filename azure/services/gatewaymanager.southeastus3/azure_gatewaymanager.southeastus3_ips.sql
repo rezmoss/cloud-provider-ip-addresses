@@ -7,4 +7,5 @@ CREATE TABLE IF NOT EXISTS `azure_gatewaymanager.southeastus3_ips` (
 );
 
 INSERT INTO `azure_gatewaymanager.southeastus3_ips` (`ip_address`, `ip_type`) VALUES ('74.7.40.64/26', 'IPv4');
+INSERT INTO `azure_gatewaymanager.southeastus3_ips` (`ip_address`, `ip_type`) VALUES ('74.7.67.192/28', 'IPv4');
 INSERT INTO `azure_gatewaymanager.southeastus3_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1302::40/122', 'IPv6');

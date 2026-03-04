@@ -308,6 +308,7 @@ ip_address,ip_type,service,region
 2603:1020:805:802::210/124,IPv6,DataFactory.FranceCentral,centralfrance
 2603:1020:805:c02::210/124,IPv6,DataFactory.FranceCentral,centralfrance
 40.79.138.192/26,IPv4,Dynamics365ForMarketingEmail.FranceCentral,centralfrance
+4.176.37.32/27,IPv4,GatewayManager.FranceCentral,centralfrance
 20.43.40.72/29,IPv4,GatewayManager.FranceCentral,centralfrance
 20.74.0.115/32,IPv4,GatewayManager.FranceCentral,centralfrance
 20.74.0.127/32,IPv4,GatewayManager.FranceCentral,centralfrance
@@ -503,6 +504,7 @@ ip_address,ip_type,service,region
 20.43.42.8/29,IPv4,StorageSyncService.FranceCentral,centralfrance
 2603:1020:805:1::300/123,IPv6,StorageSyncService.FranceCentral,centralfrance
 40.64.145.224/28,IPv4,WindowsVirtualDesktop.FranceCentral,centralfrance
+40.64.149.192/27,IPv4,WindowsVirtualDesktop.FranceCentral,centralfrance
 2603:1061:2010:b::/117,IPv6,WindowsVirtualDesktop.FranceCentral,centralfrance
 4.176.0.0/16,IPv4,AzureCloud.centralfrance,centralfrance
 4.178.0.0/16,IPv4,AzureCloud.centralfrance,centralfrance

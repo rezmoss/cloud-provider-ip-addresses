@@ -2358,6 +2358,12 @@
     "region": "switzerlandn"
   },
   {
+    "ip_address": "40.64.152.64/27",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
     "ip_address": "2603:1061:2010:28::/117",
     "ip_type": "IPv6",
     "service": "WindowsVirtualDesktop.SwitzerlandNorth",
@@ -2916,7 +2922,19 @@
     "region": "switzerlandn"
   },
   {
+    "ip_address": "145.190.73.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.switzerlandn",
+    "region": "switzerlandn"
+  },
+  {
     "ip_address": "151.206.149.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.switzerlandn",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "151.206.175.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.switzerlandn",
     "region": "switzerlandn"

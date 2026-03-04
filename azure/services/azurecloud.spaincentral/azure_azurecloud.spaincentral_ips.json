@@ -318,6 +318,12 @@
     "region": "spaincentral"
   },
   {
+    "ip_address": "151.206.193.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
     "ip_address": "158.158.0.0/16",
     "ip_type": "IPv4",
     "service": "AzureCloud.spaincentral",

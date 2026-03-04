@@ -18,6 +18,12 @@
     "region": "canadacentral"
   },
   {
+    "ip_address": "145.191.111.64/27",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
     "ip_address": "2603:1030:f05:1::40/122",
     "ip_type": "IPv6",
     "service": "GatewayManager.CanadaCentral",

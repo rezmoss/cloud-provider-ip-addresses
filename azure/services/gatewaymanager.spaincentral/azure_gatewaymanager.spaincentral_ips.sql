@@ -7,4 +7,5 @@ CREATE TABLE IF NOT EXISTS `azure_gatewaymanager.spaincentral_ips` (
 );
 
 INSERT INTO `azure_gatewaymanager.spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('68.221.80.64/26', 'IPv4');
+INSERT INTO `azure_gatewaymanager.spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('158.158.133.112/28', 'IPv4');
 INSERT INTO `azure_gatewaymanager.spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1403::40/122', 'IPv6');

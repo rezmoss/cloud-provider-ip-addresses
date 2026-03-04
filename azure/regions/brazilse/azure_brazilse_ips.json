@@ -936,6 +936,12 @@
     "region": "brazilse"
   },
   {
+    "ip_address": "108.140.46.160/28",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
     "ip_address": "191.233.8.64/26",
     "ip_type": "IPv4",
     "service": "GatewayManager.BrazilSoutheast",

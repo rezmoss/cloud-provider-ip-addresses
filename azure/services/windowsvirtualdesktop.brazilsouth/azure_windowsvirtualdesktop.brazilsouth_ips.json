@@ -12,6 +12,12 @@
     "region": "brazilsouth"
   },
   {
+    "ip_address": "40.64.148.128/27",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
     "ip_address": "2603:1061:2010:2::/117",
     "ip_type": "IPv6",
     "service": "WindowsVirtualDesktop.BrazilSouth",

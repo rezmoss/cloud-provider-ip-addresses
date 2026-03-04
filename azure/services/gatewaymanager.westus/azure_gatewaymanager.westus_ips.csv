@@ -4,4 +4,5 @@ ip_address,ip_type,service,region
 20.189.181.8/32,IPv4,GatewayManager.WestUS,westus
 40.82.248.240/29,IPv4,GatewayManager.WestUS,westus
 40.112.242.168/29,IPv4,GatewayManager.WestUS,westus
+48.195.69.64/26,IPv4,GatewayManager.WestUS,westus
 2603:1030:a07::40/122,IPv6,GatewayManager.WestUS,westus

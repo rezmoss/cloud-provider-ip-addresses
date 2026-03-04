@@ -6,5 +6,6 @@ CREATE TABLE IF NOT EXISTS `azure_windowsvirtualdesktop.taiwannorth_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
-INSERT INTO `azure_windowsvirtualdesktop.taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('40.64.144.168/29', 'IPv4');
+INSERT INTO `azure_windowsvirtualdesktop.taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('40.64.144.160/28', 'IPv4');
+INSERT INTO `azure_windowsvirtualdesktop.taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('40.64.152.224/27', 'IPv4');
 INSERT INTO `azure_windowsvirtualdesktop.taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2010:34::/117', 'IPv6');

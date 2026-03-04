@@ -53,6 +53,7 @@ INSERT INTO `azure_azurecloud.newzealandnorth_ips` (`ip_address`, `ip_type`) VAL
 INSERT INTO `azure_azurecloud.newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('70.152.211.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('135.130.128.0/23', 'IPv4');
 INSERT INTO `azure_azurecloud.newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('151.206.154.0/24', 'IPv4');
+INSERT INTO `azure_azurecloud.newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('151.206.180.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('172.196.0.0/17', 'IPv4');
 INSERT INTO `azure_azurecloud.newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('172.204.0.0/16', 'IPv4');
 INSERT INTO `azure_azurecloud.newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('209.199.17.112/28', 'IPv4');

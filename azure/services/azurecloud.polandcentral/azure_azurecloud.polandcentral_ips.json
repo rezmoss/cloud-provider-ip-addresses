@@ -342,6 +342,12 @@
     "region": "polandcentral"
   },
   {
+    "ip_address": "151.206.181.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.polandcentral",
+    "region": "polandcentral"
+  },
+  {
     "ip_address": "2603:1020:1300::/47",
     "ip_type": "IPv6",
     "service": "AzureCloud.polandcentral",

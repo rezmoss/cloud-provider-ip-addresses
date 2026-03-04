@@ -1,6 +1,6 @@
 #!/bin/bash
 # Azure IP Ranges
-# Updated: 2026-02-26 01:55:09
+# Updated: 2026-03-04 01:53:18
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -334,6 +334,7 @@ ip6tables -A INPUT -s 2603:1050:6:402::330/124 -j DROP
 ip6tables -A INPUT -s 2603:1050:6:802::210/124 -j DROP
 ip6tables -A INPUT -s 2603:1050:6:c02::210/124 -j DROP
 iptables -A INPUT -s 191.233.202.0/24 -j DROP
+iptables -A INPUT -s 4.201.244.192/27 -j DROP
 iptables -A INPUT -s 191.233.203.208/29 -j DROP
 iptables -A INPUT -s 191.233.245.75/32 -j DROP
 iptables -A INPUT -s 191.233.245.118/32 -j DROP
@@ -488,6 +489,7 @@ ip6tables -A INPUT -s 2603:1050:6:1::300/123 -j DROP
 ip6tables -A INPUT -s 2603:1050:6:802::2a0/123 -j DROP
 iptables -A INPUT -s 40.64.144.224/29 -j DROP
 iptables -A INPUT -s 40.64.145.64/28 -j DROP
+iptables -A INPUT -s 40.64.148.128/27 -j DROP
 ip6tables -A INPUT -s 2603:1061:2010:2::/117 -j DROP
 iptables -A INPUT -s 4.160.0.0/16 -j DROP
 iptables -A INPUT -s 4.169.0.0/16 -j DROP
@@ -502,8 +504,10 @@ iptables -A INPUT -s 13.105.52.128/26 -j DROP
 iptables -A INPUT -s 20.20.96.0/24 -j DROP
 iptables -A INPUT -s 20.20.97.0/26 -j DROP
 iptables -A INPUT -s 20.20.97.64/27 -j DROP
-iptables -A INPUT -s 20.20.97.96/29 -j DROP
-iptables -A INPUT -s 20.20.97.104/31 -j DROP
+iptables -A INPUT -s 20.20.97.96/28 -j DROP
+iptables -A INPUT -s 20.20.97.112/29 -j DROP
+iptables -A INPUT -s 20.20.97.120/30 -j DROP
+iptables -A INPUT -s 20.20.97.124/31 -j DROP
 iptables -A INPUT -s 20.33.5.0/24 -j DROP
 iptables -A INPUT -s 20.33.63.0/24 -j DROP
 iptables -A INPUT -s 20.33.161.0/24 -j DROP
@@ -615,6 +619,7 @@ iptables -A INPUT -s 104.41.0.0/18 -j DROP
 iptables -A INPUT -s 145.190.149.0/24 -j DROP
 iptables -A INPUT -s 151.206.87.0/25 -j DROP
 iptables -A INPUT -s 151.206.151.0/24 -j DROP
+iptables -A INPUT -s 151.206.177.0/24 -j DROP
 iptables -A INPUT -s 191.232.32.0/19 -j DROP
 iptables -A INPUT -s 191.232.64.0/20 -j DROP
 iptables -A INPUT -s 191.232.160.0/19 -j DROP

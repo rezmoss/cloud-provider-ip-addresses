@@ -30,6 +30,12 @@
     "region": "westeurope"
   },
   {
+    "ip_address": "48.199.250.192/27",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.WestEurope",
+    "region": "westeurope"
+  },
+  {
     "ip_address": "2603:1020:206:1::40/122",
     "ip_type": "IPv6",
     "service": "GatewayManager.WestEurope",

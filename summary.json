@@ -1,9 +1,9 @@
 {
-  "generated": "2026-03-03T02:00:10.420422",
+  "generated": "2026-03-04T01:54:29.200126",
   "provider_count": 22,
-  "total_ipv4_addresses": 334840959,
-  "total_ipv6_addresses": 5205270621720298520990315632170938,
-  "ipv4_space_coverage_pct": 7.7961,
+  "total_ipv4_addresses": 334976963,
+  "total_ipv6_addresses": 5205270621722512130279160778364858,
+  "ipv4_space_coverage_pct": 7.7993,
   "providers": {
     "cloudflare": {
       "ipv4_cidrs": 15,
@@ -15,10 +15,10 @@
       "regions": 0
     },
     "aws": {
-      "ipv4_cidrs": 9922,
+      "ipv4_cidrs": 9923,
       "ipv6_cidrs": 4973,
-      "total_cidrs": 14895,
-      "ipv4_addresses": 181232787,
+      "total_cidrs": 14896,
+      "ipv4_addresses": 181298323,
       "ipv6_addresses": 3016371034899142858356218134541,
       "services": 26,
       "regions": 42
@@ -33,11 +33,11 @@
       "regions": 48
     },
     "azure": {
-      "ipv4_cidrs": 74458,
-      "ipv6_cidrs": 25578,
-      "total_cidrs": 100036,
-      "ipv4_addresses": 99879642,
-      "ipv6_addresses": 3703599994450007226978703273,
+      "ipv4_cidrs": 74709,
+      "ipv6_cidrs": 25581,
+      "total_cidrs": 100290,
+      "ipv4_addresses": 99903624,
+      "ipv6_addresses": 3703601580869997566000142249,
       "services": 3128,
       "regions": 73
     },
@@ -69,11 +69,11 @@
       "regions": 0
     },
     "github": {
-      "ipv4_cidrs": 4809,
-      "ipv6_cidrs": 1169,
-      "total_cidrs": 5978,
-      "ipv4_addresses": 25246039,
-      "ipv6_addresses": 4278526920330460479062118760452,
+      "ipv4_cidrs": 4871,
+      "ipv6_cidrs": 1166,
+      "total_cidrs": 6037,
+      "ipv4_addresses": 25292589,
+      "ipv6_addresses": 4278526920957649777568243515396,
       "services": 11,
       "regions": 0
     },
@@ -105,10 +105,10 @@
       "regions": 0
     },
     "gptbot": {
-      "ipv4_cidrs": 286,
+      "ipv4_cidrs": 282,
       "ipv6_cidrs": 0,
-      "total_cidrs": 286,
-      "ipv4_addresses": 9648,
+      "total_cidrs": 282,
+      "ipv4_addresses": 9584,
       "ipv6_addresses": 0,
       "services": 3,
       "regions": 0

@@ -1008,6 +1008,12 @@
     "region": "japanwest"
   },
   {
+    "ip_address": "151.206.189.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.japanwest",
+    "region": "japanwest"
+  },
+  {
     "ip_address": "172.192.128.0/17",
     "ip_type": "IPv4",
     "service": "AzureCloud.japanwest",

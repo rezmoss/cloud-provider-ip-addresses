@@ -1020,6 +1020,12 @@
     "region": "spaincentral"
   },
   {
+    "ip_address": "158.158.133.112/28",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
     "ip_address": "2603:1020:1403::40/122",
     "ip_type": "IPv6",
     "service": "GatewayManager.SpainCentral",
@@ -1434,6 +1440,12 @@
     "region": "spaincentral"
   },
   {
+    "ip_address": "40.64.152.192/27",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
     "ip_address": "2603:1061:2010:38::/117",
     "ip_type": "IPv6",
     "service": "WindowsVirtualDesktop.SpainCentral",
@@ -1753,6 +1765,12 @@
   },
   {
     "ip_address": "151.206.167.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "151.206.193.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.spaincentral",
     "region": "spaincentral"

@@ -9,4 +9,5 @@ CREATE TABLE IF NOT EXISTS `azure_gatewaymanager.southafricawest_ips` (
 INSERT INTO `azure_gatewaymanager.southafricawest_ips` (`ip_address`, `ip_type`) VALUES ('102.37.86.224/27', 'IPv4');
 INSERT INTO `azure_gatewaymanager.southafricawest_ips` (`ip_address`, `ip_type`) VALUES ('102.133.27.16/29', 'IPv4');
 INSERT INTO `azure_gatewaymanager.southafricawest_ips` (`ip_address`, `ip_type`) VALUES ('102.133.56.72/29', 'IPv4');
+INSERT INTO `azure_gatewaymanager.southafricawest_ips` (`ip_address`, `ip_type`) VALUES ('172.209.114.192/27', 'IPv4');
 INSERT INTO `azure_gatewaymanager.southafricawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1000:4::40/122', 'IPv6');

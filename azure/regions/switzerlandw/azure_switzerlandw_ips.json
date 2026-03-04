@@ -1140,6 +1140,12 @@
     "region": "switzerlandw"
   },
   {
+    "ip_address": "4.226.255.128/27",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
     "ip_address": "20.199.200.128/27",
     "ip_type": "IPv4",
     "service": "GatewayManager.SwitzerlandWest",
@@ -1729,6 +1735,12 @@
   },
   {
     "ip_address": "40.64.147.208/29",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "40.64.153.160/27",
     "ip_type": "IPv4",
     "service": "WindowsVirtualDesktop.SwitzerlandWest",
     "region": "switzerlandw"

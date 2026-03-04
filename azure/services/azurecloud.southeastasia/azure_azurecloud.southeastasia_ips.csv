@@ -195,6 +195,7 @@ ip_address,ip_type,service,region
 135.171.0.0/16,IPv4,AzureCloud.southeastasia,southeastasia
 137.116.128.0/19,IPv4,AzureCloud.southeastasia,southeastasia
 138.91.32.0/20,IPv4,AzureCloud.southeastasia,southeastasia
+145.190.153.0/24,IPv4,AzureCloud.southeastasia,southeastasia
 151.206.66.0/24,IPv4,AzureCloud.southeastasia,southeastasia
 151.206.68.0/25,IPv4,AzureCloud.southeastasia,southeastasia
 151.206.140.0/24,IPv4,AzureCloud.southeastasia,southeastasia

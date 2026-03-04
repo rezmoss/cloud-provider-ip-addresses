@@ -846,6 +846,12 @@
     "region": "chilec"
   },
   {
+    "ip_address": "57.156.76.16/28",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.ChileCentral",
+    "region": "chilec"
+  },
+  {
     "ip_address": "68.211.19.192/26",
     "ip_type": "IPv4",
     "service": "GatewayManager.ChileCentral",
@@ -1077,6 +1083,18 @@
     "ip_address": "2603:1050:301:400::120/123",
     "ip_type": "IPv6",
     "service": "StorageSyncService.ChileCentral",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "40.64.147.232/29",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.ChileCentral",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "40.64.154.32/27",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.ChileCentral",
     "region": "chilec"
   },
   {

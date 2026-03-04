@@ -1,3 +1,4 @@
 ip_address,ip_type,service,region
+108.140.46.160/28,IPv4,GatewayManager.BrazilSoutheast,brazilse
 191.233.8.64/26,IPv4,GatewayManager.BrazilSoutheast,brazilse
 2603:1050:403::40/122,IPv6,GatewayManager.BrazilSoutheast,brazilse

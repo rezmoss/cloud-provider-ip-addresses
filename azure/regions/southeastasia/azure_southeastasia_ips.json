@@ -2382,6 +2382,12 @@
     "region": "southeastasia"
   },
   {
+    "ip_address": "145.190.153.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
     "ip_address": "168.63.160.0/26",
     "ip_type": "IPv4",
     "service": "Storage.SoutheastAsia",
@@ -2643,6 +2649,12 @@
     "ip_address": "2603:1040:5:c02::210/124",
     "ip_type": "IPv6",
     "service": "DataFactory.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "4.145.21.64/27",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.SoutheastAsia",
     "region": "southeastasia"
   },
   {
@@ -4158,6 +4170,12 @@
     "region": "southeastasia"
   },
   {
+    "ip_address": "40.64.149.32/27",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
     "ip_address": "2603:1061:2010:14::/117",
     "ip_type": "IPv6",
     "service": "WindowsVirtualDesktop.SoutheastAsia",
@@ -5335,6 +5353,12 @@
   },
   {
     "ip_address": "138.91.32.0/20",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "145.190.153.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.southeastasia",
     "region": "southeastasia"

@@ -1,6 +1,6 @@
 #!/bin/bash
 # Azure IP Ranges
-# Updated: 2026-02-11 15:35:30
+# Updated: 2026-03-04 01:53:19
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -199,6 +199,7 @@ iptables -A INPUT -s 20.38.133.192/28 -j ACCEPT
 ip6tables -A INPUT -s 2603:1040:806::440/122 -j ACCEPT
 ip6tables -A INPUT -s 2603:1040:806::500/121 -j ACCEPT
 ip6tables -A INPUT -s 2603:1040:806:402::330/124 -j ACCEPT
+iptables -A INPUT -s 20.192.80.224/27 -j ACCEPT
 iptables -A INPUT -s 20.192.84.224/27 -j ACCEPT
 iptables -A INPUT -s 40.81.94.172/32 -j ACCEPT
 iptables -A INPUT -s 40.81.94.182/32 -j ACCEPT
@@ -253,6 +254,7 @@ iptables -A INPUT -s 52.136.48.216/29 -j ACCEPT
 ip6tables -A INPUT -s 2603:1040:806::340/123 -j ACCEPT
 ip6tables -A INPUT -s 2603:1040:806:402::5e0/123 -j ACCEPT
 iptables -A INPUT -s 40.64.146.0/28 -j ACCEPT
+iptables -A INPUT -s 40.64.150.0/27 -j ACCEPT
 ip6tables -A INPUT -s 2603:1061:2010:1a::/117 -j ACCEPT
 iptables -A INPUT -s 4.187.64.0/18 -j ACCEPT
 iptables -A INPUT -s 13.104.157.128/25 -j ACCEPT
@@ -323,6 +325,7 @@ iptables -A INPUT -s 104.47.212.0/23 -j ACCEPT
 iptables -A INPUT -s 104.211.128.0/18 -j ACCEPT
 iptables -A INPUT -s 151.206.70.128/25 -j ACCEPT
 iptables -A INPUT -s 151.206.162.0/24 -j ACCEPT
+iptables -A INPUT -s 151.206.188.0/24 -j ACCEPT
 ip6tables -A INPUT -s 2603:1040:800::/46 -j ACCEPT
 ip6tables -A INPUT -s 2603:1040:805::/48 -j ACCEPT
 ip6tables -A INPUT -s 2603:1040:806::/47 -j ACCEPT

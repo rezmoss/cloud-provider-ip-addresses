@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "20.192.80.224/27",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.WestIndia",
+    "region": "westindia"
+  },
+  {
     "ip_address": "20.192.84.224/27",
     "ip_type": "IPv4",
     "service": "GatewayManager.WestIndia",

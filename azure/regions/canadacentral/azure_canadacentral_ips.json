@@ -2124,6 +2124,12 @@
     "region": "canadacentral"
   },
   {
+    "ip_address": "145.191.111.64/27",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
     "ip_address": "2603:1030:f05:1::40/122",
     "ip_type": "IPv6",
     "service": "GatewayManager.CanadaCentral",
@@ -3396,6 +3402,12 @@
     "region": "canadacentral"
   },
   {
+    "ip_address": "40.64.149.160/27",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
     "ip_address": "2603:1061:2010:3::/117",
     "ip_type": "IPv6",
     "service": "WindowsVirtualDesktop.CanadaCentral",
@@ -4189,6 +4201,12 @@
   },
   {
     "ip_address": "151.206.150.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadacentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "151.206.176.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.canadacentral",
     "region": "canadacentral"

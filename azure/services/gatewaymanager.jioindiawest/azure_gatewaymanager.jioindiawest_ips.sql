@@ -7,4 +7,5 @@ CREATE TABLE IF NOT EXISTS `azure_gatewaymanager.jioindiawest_ips` (
 );
 
 INSERT INTO `azure_gatewaymanager.jioindiawest_ips` (`ip_address`, `ip_type`) VALUES ('20.192.160.64/26', 'IPv4');
+INSERT INTO `azure_gatewaymanager.jioindiawest_ips` (`ip_address`, `ip_type`) VALUES ('20.244.210.144/28', 'IPv4');
 INSERT INTO `azure_gatewaymanager.jioindiawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:d04::40/122', 'IPv6');

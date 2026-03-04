@@ -1,4 +1,5 @@
 ip_address,ip_type,service,region
+4.221.233.96/27,IPv4,GatewayManager.SouthAfricaNorth,southafricanorth
 20.87.82.0/27,IPv4,GatewayManager.SouthAfricaNorth,southafricanorth
 102.133.155.16/29,IPv4,GatewayManager.SouthAfricaNorth,southafricanorth
 102.133.216.72/29,IPv4,GatewayManager.SouthAfricaNorth,southafricanorth

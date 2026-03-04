@@ -98,7 +98,9 @@ INSERT INTO `azure_azurecloud.switzerlandn_ips` (`ip_address`, `ip_type`) VALUES
 INSERT INTO `azure_azurecloud.switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('74.242.128.0/17', 'IPv4');
 INSERT INTO `azure_azurecloud.switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('135.130.42.0/23', 'IPv4');
 INSERT INTO `azure_azurecloud.switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('145.190.70.0/24', 'IPv4');
+INSERT INTO `azure_azurecloud.switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('145.190.73.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('151.206.149.0/24', 'IPv4');
+INSERT INTO `azure_azurecloud.switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('151.206.175.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('172.161.0.0/16', 'IPv4');
 INSERT INTO `azure_azurecloud.switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('172.162.0.0/16', 'IPv4');
 INSERT INTO `azure_azurecloud.switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:a00::/47', 'IPv6');

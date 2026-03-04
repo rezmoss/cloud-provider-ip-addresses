@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "51.57.139.192/28",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.EastUS3",
+    "region": "eastus3"
+  },
+  {
     "ip_address": "134.138.64.64/26",
     "ip_type": "IPv4",
     "service": "GatewayManager.EastUS3",

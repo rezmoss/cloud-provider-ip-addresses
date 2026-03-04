@@ -8,4 +8,5 @@ CREATE TABLE IF NOT EXISTS `azure_windowsvirtualdesktop.uksouth_ips` (
 
 INSERT INTO `azure_windowsvirtualdesktop.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('40.64.144.200/29', 'IPv4');
 INSERT INTO `azure_windowsvirtualdesktop.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('40.64.145.16/28', 'IPv4');
+INSERT INTO `azure_windowsvirtualdesktop.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('40.64.148.64/27', 'IPv4');
 INSERT INTO `azure_windowsvirtualdesktop.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2010:16::/117', 'IPv6');

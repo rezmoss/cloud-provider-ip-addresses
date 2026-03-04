@@ -6,5 +6,6 @@ CREATE TABLE IF NOT EXISTS `azure_gatewaymanager.eastus3_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_gatewaymanager.eastus3_ips` (`ip_address`, `ip_type`) VALUES ('51.57.139.192/28', 'IPv4');
 INSERT INTO `azure_gatewaymanager.eastus3_ips` (`ip_address`, `ip_type`) VALUES ('134.138.64.64/26', 'IPv4');
 INSERT INTO `azure_gatewaymanager.eastus3_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1402::40/122', 'IPv6');

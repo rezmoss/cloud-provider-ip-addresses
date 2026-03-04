@@ -52,6 +52,7 @@ ip_address,ip_type,service,region
 135.130.58.0/23,IPv4,AzureCloud.spaincentral,spaincentral
 145.190.71.0/24,IPv4,AzureCloud.spaincentral,spaincentral
 151.206.167.0/24,IPv4,AzureCloud.spaincentral,spaincentral
+151.206.193.0/24,IPv4,AzureCloud.spaincentral,spaincentral
 158.158.0.0/16,IPv4,AzureCloud.spaincentral,spaincentral
 209.199.16.0/24,IPv4,AzureCloud.spaincentral,spaincentral
 209.199.17.0/26,IPv4,AzureCloud.spaincentral,spaincentral

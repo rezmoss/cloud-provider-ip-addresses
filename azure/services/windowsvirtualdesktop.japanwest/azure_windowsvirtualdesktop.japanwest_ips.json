@@ -6,6 +6,12 @@
     "region": "japanwest"
   },
   {
+    "ip_address": "40.64.150.96/27",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.JapanWest",
+    "region": "japanwest"
+  },
+  {
     "ip_address": "2603:1061:2010:e::/117",
     "ip_type": "IPv6",
     "service": "WindowsVirtualDesktop.JapanWest",

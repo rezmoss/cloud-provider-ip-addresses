@@ -59,6 +59,7 @@ INSERT INTO `azure_azurecloud.spaincentral_ips` (`ip_address`, `ip_type`) VALUES
 INSERT INTO `azure_azurecloud.spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('135.130.58.0/23', 'IPv4');
 INSERT INTO `azure_azurecloud.spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('145.190.71.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('151.206.167.0/24', 'IPv4');
+INSERT INTO `azure_azurecloud.spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('151.206.193.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('158.158.0.0/16', 'IPv4');
 INSERT INTO `azure_azurecloud.spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('209.199.16.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('209.199.17.0/26', 'IPv4');

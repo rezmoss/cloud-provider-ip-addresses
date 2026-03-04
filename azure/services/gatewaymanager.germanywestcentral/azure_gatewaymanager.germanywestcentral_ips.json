@@ -6,6 +6,12 @@
     "region": "germanywc"
   },
   {
+    "ip_address": "48.201.167.160/27",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
     "ip_address": "51.116.144.72/29",
     "ip_type": "IPv4",
     "service": "GatewayManager.GermanyWestCentral",

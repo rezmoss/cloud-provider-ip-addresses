@@ -1,4 +1,5 @@
 ip_address,ip_type,service,region
+4.147.33.32/27,IPv4,GatewayManager.AustraliaEast,australiaeast
 13.70.72.208/29,IPv4,GatewayManager.AustraliaEast,australiaeast
 20.37.192.72/29,IPv4,GatewayManager.AustraliaEast,australiaeast
 20.70.222.128/27,IPv4,GatewayManager.AustraliaEast,australiaeast

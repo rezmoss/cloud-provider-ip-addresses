@@ -46,6 +46,7 @@ ip_address,ip_type,service,region
 70.152.211.0/24,IPv4,AzureCloud.newzealandnorth,newzealandnorth
 135.130.128.0/23,IPv4,AzureCloud.newzealandnorth,newzealandnorth
 151.206.154.0/24,IPv4,AzureCloud.newzealandnorth,newzealandnorth
+151.206.180.0/24,IPv4,AzureCloud.newzealandnorth,newzealandnorth
 172.196.0.0/17,IPv4,AzureCloud.newzealandnorth,newzealandnorth
 172.204.0.0/16,IPv4,AzureCloud.newzealandnorth,newzealandnorth
 209.199.17.112/28,IPv4,AzureCloud.newzealandnorth,newzealandnorth

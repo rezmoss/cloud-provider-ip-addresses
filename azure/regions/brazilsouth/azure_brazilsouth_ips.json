@@ -1962,6 +1962,12 @@
     "region": "brazilsouth"
   },
   {
+    "ip_address": "4.201.244.192/27",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
     "ip_address": "191.233.203.208/29",
     "ip_type": "IPv4",
     "service": "GatewayManager.BrazilSouth",
@@ -2886,6 +2892,12 @@
     "region": "brazilsouth"
   },
   {
+    "ip_address": "40.64.148.128/27",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
     "ip_address": "2603:1061:2010:2::/117",
     "ip_type": "IPv6",
     "service": "WindowsVirtualDesktop.BrazilSouth",
@@ -2970,13 +2982,25 @@
     "region": "brazilsouth"
   },
   {
-    "ip_address": "20.20.97.96/29",
+    "ip_address": "20.20.97.96/28",
     "ip_type": "IPv4",
     "service": "AzureCloud.brazilsouth",
     "region": "brazilsouth"
   },
   {
-    "ip_address": "20.20.97.104/31",
+    "ip_address": "20.20.97.112/29",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.brazilsouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "20.20.97.120/30",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.brazilsouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "20.20.97.124/31",
     "ip_type": "IPv4",
     "service": "AzureCloud.brazilsouth",
     "region": "brazilsouth"
@@ -3643,6 +3667,12 @@
   },
   {
     "ip_address": "151.206.151.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.brazilsouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "151.206.177.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.brazilsouth",
     "region": "brazilsouth"

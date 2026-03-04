@@ -572,6 +572,7 @@ ip_address,ip_type,service,region
 20.189.181.8/32,IPv4,GatewayManager.WestUS,westus
 40.82.248.240/29,IPv4,GatewayManager.WestUS,westus
 40.112.242.168/29,IPv4,GatewayManager.WestUS,westus
+48.195.69.64/26,IPv4,GatewayManager.WestUS,westus
 2603:1030:a07::40/122,IPv6,GatewayManager.WestUS,westus
 13.64.254.98/32,IPv4,HDInsight.WestUS,westus
 13.86.218.240/29,IPv4,HDInsight.WestUS,westus
@@ -1142,6 +1143,7 @@ ip_address,ip_type,service,region
 2603:1030:a07::340/123,IPv6,StorageSyncService.WestUS,westus
 2603:1030:a07:402::b00/123,IPv6,StorageSyncService.WestUS,westus
 40.64.146.176/28,IPv4,WindowsVirtualDesktop.WestUS,westus
+40.64.151.96/27,IPv4,WindowsVirtualDesktop.WestUS,westus
 2603:1061:2010:1b::/117,IPv6,WindowsVirtualDesktop.WestUS,westus
 4.150.224.0/19,IPv4,AzureCloud.westus,westus
 13.64.0.0/16,IPv4,AzureCloud.westus,westus

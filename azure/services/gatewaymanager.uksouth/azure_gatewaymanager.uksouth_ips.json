@@ -18,6 +18,12 @@
     "region": "uksouth"
   },
   {
+    "ip_address": "172.166.7.192/26",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.UKSouth",
+    "region": "uksouth"
+  },
+  {
     "ip_address": "2603:1020:705:1::40/122",
     "ip_type": "IPv6",
     "service": "GatewayManager.UKSouth",

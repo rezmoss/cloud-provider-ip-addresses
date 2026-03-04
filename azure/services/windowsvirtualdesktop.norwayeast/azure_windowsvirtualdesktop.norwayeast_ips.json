@@ -6,6 +6,12 @@
     "region": "norwaye"
   },
   {
+    "ip_address": "40.64.151.192/27",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.NorwayEast",
+    "region": "norwaye"
+  },
+  {
     "ip_address": "2603:1061:2010:2a::/117",
     "ip_type": "IPv6",
     "service": "WindowsVirtualDesktop.NorwayEast",

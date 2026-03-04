@@ -6,6 +6,12 @@
     "region": "taiwannorth"
   },
   {
+    "ip_address": "70.157.164.80/28",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
     "ip_address": "2603:1040:1302::40/122",
     "ip_type": "IPv6",
     "service": "GatewayManager.TaiwanNorth",

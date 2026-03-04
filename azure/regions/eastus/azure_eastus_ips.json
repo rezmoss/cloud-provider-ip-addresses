@@ -4374,6 +4374,12 @@
     "region": "eastus"
   },
   {
+    "ip_address": "145.190.155.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.EastUS",
+    "region": "eastus"
+  },
+  {
     "ip_address": "168.62.32.0/26",
     "ip_type": "IPv4",
     "service": "Storage.EastUS",
@@ -4693,6 +4699,12 @@
   },
   {
     "ip_address": "40.88.223.53/32",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "48.206.11.64/27",
     "ip_type": "IPv4",
     "service": "GatewayManager.EastUS",
     "region": "eastus"
@@ -7980,6 +7992,12 @@
     "region": "eastus"
   },
   {
+    "ip_address": "40.64.150.160/27",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.EastUS",
+    "region": "eastus"
+  },
+  {
     "ip_address": "2603:1061:2010:9::/117",
     "ip_type": "IPv6",
     "service": "WindowsVirtualDesktop.EastUS",
@@ -10692,6 +10710,12 @@
     "region": "eastus"
   },
   {
+    "ip_address": "57.157.33.224/31",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.eastus",
+    "region": "eastus"
+  },
+  {
     "ip_address": "65.54.19.128/27",
     "ip_type": "IPv4",
     "service": "AzureCloud.eastus",
@@ -10987,6 +11011,12 @@
   },
   {
     "ip_address": "145.190.144.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.eastus",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "145.190.155.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.eastus",
     "region": "eastus"

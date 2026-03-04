@@ -1650,6 +1650,12 @@
     "region": "uaenorth"
   },
   {
+    "ip_address": "4.161.14.32/27",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.UAENorth",
+    "region": "uaenorth"
+  },
+  {
     "ip_address": "20.38.136.72/29",
     "ip_type": "IPv4",
     "service": "GatewayManager.UAENorth",
@@ -2412,6 +2418,12 @@
     "region": "uaenorth"
   },
   {
+    "ip_address": "40.64.149.0/27",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.UAENorth",
+    "region": "uaenorth"
+  },
+  {
     "ip_address": "2603:1061:2010:22::/117",
     "ip_type": "IPv6",
     "service": "WindowsVirtualDesktop.UAENorth",
@@ -3013,6 +3025,12 @@
   },
   {
     "ip_address": "151.206.146.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uaenorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "151.206.172.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.uaenorth",
     "region": "uaenorth"

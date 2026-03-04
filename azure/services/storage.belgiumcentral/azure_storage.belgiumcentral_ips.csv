@@ -4,4 +4,5 @@ ip_address,ip_type,service,region
 57.150.194.0/23,IPv4,Storage.BelgiumCentral,belgiumcentral
 57.150.196.0/23,IPv4,Storage.BelgiumCentral,belgiumcentral
 57.150.198.0/24,IPv4,Storage.BelgiumCentral,belgiumcentral
+145.190.157.0/24,IPv4,Storage.BelgiumCentral,belgiumcentral
 2603:1020:1503::/48,IPv6,Storage.BelgiumCentral,belgiumcentral

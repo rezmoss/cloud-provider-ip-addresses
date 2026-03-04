@@ -174,6 +174,7 @@ ip_address,ip_type,service,region
 2603:1020:d04::440/122,IPv6,DataFactory.GermanyNorth,germanyn
 2603:1020:d04::500/121,IPv6,DataFactory.GermanyNorth,germanyn
 2603:1020:d04:402::330/124,IPv6,DataFactory.GermanyNorth,germanyn
+20.170.251.160/27,IPv4,GatewayManager.GermanyNorth,germanyn
 51.116.48.72/29,IPv4,GatewayManager.GermanyNorth,germanyn
 51.116.59.32/29,IPv4,GatewayManager.GermanyNorth,germanyn
 51.116.77.96/27,IPv4,GatewayManager.GermanyNorth,germanyn
@@ -273,6 +274,7 @@ ip_address,ip_type,service,region
 51.116.78.200/29,IPv4,StorageSyncService.GermanyNorth,germanyn
 2603:1020:d04::340/123,IPv6,StorageSyncService.GermanyNorth,germanyn
 40.64.147.200/29,IPv4,WindowsVirtualDesktop.GermanyNorth,germanyn
+40.64.148.0/27,IPv4,WindowsVirtualDesktop.GermanyNorth,germanyn
 2603:1061:2010:2c::/117,IPv6,WindowsVirtualDesktop.GermanyNorth,germanyn
 4.184.0.0/20,IPv4,AzureCloud.germanyn,germanyn
 13.104.144.96/27,IPv4,AzureCloud.germanyn,germanyn

@@ -30,6 +30,12 @@
     "region": "southcentralus"
   },
   {
+    "ip_address": "48.192.241.128/26",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
     "ip_address": "104.214.19.64/29",
     "ip_type": "IPv4",
     "service": "GatewayManager.SouthCentralUS",
