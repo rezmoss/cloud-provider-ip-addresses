@@ -2022,6 +2022,24 @@
     "region": "eu-west-2"
   },
   {
+    "ip_address": "16.60.222.0/23",
+    "ip_type": "IPv4",
+    "service": "API_GATEWAY",
+    "region": "eu-west-2"
+  },
+  {
+    "ip_address": "16.60.224.0/22",
+    "ip_type": "IPv4",
+    "service": "API_GATEWAY",
+    "region": "eu-west-2"
+  },
+  {
+    "ip_address": "16.60.228.0/25",
+    "ip_type": "IPv4",
+    "service": "API_GATEWAY",
+    "region": "eu-west-2"
+  },
+  {
     "ip_address": "18.168.133.0/24",
     "ip_type": "IPv4",
     "service": "API_GATEWAY",

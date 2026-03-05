@@ -1578,6 +1578,18 @@
     "region": "us-gov-east-1"
   },
   {
+    "ip_address": "31.220.252.0/24",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "1.178.30.0/24",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "us-gov-west-1"
+  },
+  {
     "ip_address": "15.200.176.128/28",
     "ip_type": "IPv4",
     "service": "S3",
