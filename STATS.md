@@ -1,10 +1,10 @@
 # IP Range Statistics
 
-Generated: 2026-03-05T01:57:16.250942
+Generated: 2026-03-06T01:58:03.469943
 
-Total IPv4 addresses: 334,983,747
-Total IPv6 addresses: 5,205,270,621,722,512,130,279,160,778,364,858
-IPv4 space coverage: 7.7994%
+Total IPv4 addresses: 334,989,430
+Total IPv6 addresses: 5,205,270,628,976,067,047,966,935,826,601,914
+IPv4 space coverage: 7.7996%
 
 | Provider | IPv4 CIDRs | IPv6 CIDRs | Total CIDRs | IPv4 Addresses | Services | Regions |
 |----------|-----------|-----------|------------|---------------|----------|--------|
@@ -12,13 +12,13 @@ IPv4 space coverage: 7.7994%
 | apple_private_relay | 41,662 | 245,176 | 286,838 | 105,640 | 0 | 1222 |
 | applebot | 12 | 0 | 12 | 2,400 | 1 | 0 |
 | atlassian | 194 | 59 | 253 | 78,646 | 11 | 18 |
-| aws | 9,941 | 4,973 | 14,914 | 181,305,107 | 26 | 42 |
+| aws | 9,959 | 4,978 | 14,937 | 181,310,771 | 26 | 42 |
 | azure | 74,709 | 25,581 | 100,290 | 99,903,624 | 3128 | 73 |
 | bingbot | 28 | 0 | 28 | 4,736 | 1 | 0 |
 | cloudflare | 15 | 7 | 22 | 1,524,736 | 0 | 0 |
 | commoncrawl | 4 | 1 | 5 | 21 | 1 | 0 |
 | digitalocean | 1,058 | 147 | 1,205 | 3,056,000 | 0 | 11 |
-| duckduckbot | 281 | 0 | 281 | 281 | 1 | 0 |
+| duckduckbot | 300 | 0 | 300 | 300 | 1 | 0 |
 | fastly | 19 | 2 | 21 | 304,128 | 0 | 0 |
 | github | 4,871 | 1,166 | 6,037 | 25,292,589 | 11 | 0 |
 | googlebot | 165 | 142 | 307 | 4,928 | 1 | 0 |

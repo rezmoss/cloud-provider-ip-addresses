@@ -234,6 +234,12 @@
     "region": "GLOBAL"
   },
   {
+    "ip_address": "1.179.14.0/23",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "GLOBAL"
+  },
+  {
     "ip_address": "15.197.8.0/22",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -804,6 +810,12 @@
     "region": "GLOBAL"
   },
   {
+    "ip_address": "1.178.172.0/23",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "GLOBAL"
+  },
+  {
     "ip_address": "119.147.182.0/25",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -841,6 +853,12 @@
   },
   {
     "ip_address": "40.168.230.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "GLOBAL"
+  },
+  {
+    "ip_address": "1.179.60.0/23",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "GLOBAL"
@@ -2238,6 +2256,12 @@
     "region": "GLOBAL"
   },
   {
+    "ip_address": "1.179.14.0/23",
+    "ip_type": "IPv4",
+    "service": "GLOBALACCELERATOR",
+    "region": "GLOBAL"
+  },
+  {
     "ip_address": "15.197.8.0/22",
     "ip_type": "IPv4",
     "service": "GLOBALACCELERATOR",
@@ -2364,7 +2388,19 @@
     "region": "GLOBAL"
   },
   {
+    "ip_address": "1.178.172.0/23",
+    "ip_type": "IPv4",
+    "service": "GLOBALACCELERATOR",
+    "region": "GLOBAL"
+  },
+  {
     "ip_address": "99.83.128.0/17",
+    "ip_type": "IPv4",
+    "service": "GLOBALACCELERATOR",
+    "region": "GLOBAL"
+  },
+  {
+    "ip_address": "1.179.60.0/23",
     "ip_type": "IPv4",
     "service": "GLOBALACCELERATOR",
     "region": "GLOBAL"

@@ -16,7 +16,7 @@
 
 ### Live Stats
 
-> Last updated: **2026-03-05** | Providers: **22** | Total CIDRs: **420,309** | IPv4 addresses: **334,983,747** | IPv4 space: **7.80%**
+> Last updated: **2026-03-06** | Providers: **22** | Total CIDRs: **420,351** | IPv4 addresses: **334,989,430** | IPv4 space: **7.80%**
 
 | Provider | IPv4 CIDRs | IPv6 CIDRs | Total CIDRs | IPv4 Addresses | Services | Regions |
 |----------|-----------|-----------|------------|---------------|----------|--------|
@@ -24,13 +24,13 @@
 | apple_private_relay | 41,662 | 245,176 | 286,838 | 105,640 | 0 | 1222 |
 | applebot | 12 | 0 | 12 | 2,400 | 1 | 0 |
 | atlassian | 194 | 59 | 253 | 78,646 | 11 | 18 |
-| aws | 9,941 | 4,973 | 14,914 | 181,305,107 | 26 | 42 |
+| aws | 9,959 | 4,978 | 14,937 | 181,310,771 | 26 | 42 |
 | azure | 74,709 | 25,581 | 100,290 | 99,903,624 | 3128 | 73 |
 | bingbot | 28 | 0 | 28 | 4,736 | 1 | 0 |
 | cloudflare | 15 | 7 | 22 | 1,524,736 | 0 | 0 |
 | commoncrawl | 4 | 1 | 5 | 21 | 1 | 0 |
 | digitalocean | 1,058 | 147 | 1,205 | 3,056,000 | 0 | 11 |
-| duckduckbot | 281 | 0 | 281 | 281 | 1 | 0 |
+| duckduckbot | 300 | 0 | 300 | 300 | 1 | 0 |
 | fastly | 19 | 2 | 21 | 304,128 | 0 | 0 |
 | github | 4,871 | 1,166 | 6,037 | 25,292,589 | 11 | 0 |
 | googlebot | 165 | 142 | 307 | 4,928 | 1 | 0 |
