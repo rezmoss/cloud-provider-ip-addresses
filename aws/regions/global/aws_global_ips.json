@@ -210,6 +210,18 @@
     "region": "GLOBAL"
   },
   {
+    "ip_address": "23.228.214.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "GLOBAL"
+  },
+  {
+    "ip_address": "23.228.213.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "GLOBAL"
+  },
+  {
     "ip_address": "40.168.226.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -1681,6 +1693,18 @@
   },
   {
     "ip_address": "99.86.0.0/16",
+    "ip_type": "IPv4",
+    "service": "CLOUDFRONT",
+    "region": "GLOBAL"
+  },
+  {
+    "ip_address": "23.228.214.0/24",
+    "ip_type": "IPv4",
+    "service": "CLOUDFRONT",
+    "region": "GLOBAL"
+  },
+  {
+    "ip_address": "23.228.213.0/24",
     "ip_type": "IPv4",
     "service": "CLOUDFRONT",
     "region": "GLOBAL"
