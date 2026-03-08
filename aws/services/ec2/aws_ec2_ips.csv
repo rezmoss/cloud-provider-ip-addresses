@@ -1686,6 +1686,7 @@ ip_address,ip_type,service,region
 99.77.145.0/24,IPv4,EC2,ap-south-1
 99.150.96.0/21,IPv4,EC2,ap-northeast-3
 3.102.0.0/15,IPv4,EC2,ap-southeast-6
+15.129.38.0/23,IPv4,EC2,ap-southeast-1
 35.71.105.0/24,IPv4,EC2,eu-central-1
 52.28.0.0/16,IPv4,EC2,eu-central-1
 64.73.201.0/24,IPv4,EC2,us-east-1
