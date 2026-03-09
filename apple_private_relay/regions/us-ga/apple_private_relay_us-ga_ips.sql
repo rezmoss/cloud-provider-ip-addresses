@@ -7130,6 +7130,15 @@ INSERT INTO `apple_private_relay_us-ga_ips` (`ip_address`, `ip_type`) VALUES ('1
 INSERT INTO `apple_private_relay_us-ga_ips` (`ip_address`, `ip_type`) VALUES ('104.28.136.179/32', 'IPv4');
 INSERT INTO `apple_private_relay_us-ga_ips` (`ip_address`, `ip_type`) VALUES ('104.28.136.180/32', 'IPv4');
 INSERT INTO `apple_private_relay_us-ga_ips` (`ip_address`, `ip_type`) VALUES ('104.28.136.181/32', 'IPv4');
+INSERT INTO `apple_private_relay_us-ga_ips` (`ip_address`, `ip_type`) VALUES ('104.28.136.238/32', 'IPv4');
+INSERT INTO `apple_private_relay_us-ga_ips` (`ip_address`, `ip_type`) VALUES ('104.28.136.246/32', 'IPv4');
+INSERT INTO `apple_private_relay_us-ga_ips` (`ip_address`, `ip_type`) VALUES ('104.28.136.247/32', 'IPv4');
+INSERT INTO `apple_private_relay_us-ga_ips` (`ip_address`, `ip_type`) VALUES ('104.28.136.248/32', 'IPv4');
+INSERT INTO `apple_private_relay_us-ga_ips` (`ip_address`, `ip_type`) VALUES ('104.28.136.249/32', 'IPv4');
+INSERT INTO `apple_private_relay_us-ga_ips` (`ip_address`, `ip_type`) VALUES ('104.28.136.250/32', 'IPv4');
+INSERT INTO `apple_private_relay_us-ga_ips` (`ip_address`, `ip_type`) VALUES ('104.28.136.251/32', 'IPv4');
+INSERT INTO `apple_private_relay_us-ga_ips` (`ip_address`, `ip_type`) VALUES ('104.28.136.252/32', 'IPv4');
+INSERT INTO `apple_private_relay_us-ga_ips` (`ip_address`, `ip_type`) VALUES ('104.28.136.253/32', 'IPv4');
 INSERT INTO `apple_private_relay_us-ga_ips` (`ip_address`, `ip_type`) VALUES ('104.28.138.16/32', 'IPv4');
 INSERT INTO `apple_private_relay_us-ga_ips` (`ip_address`, `ip_type`) VALUES ('104.28.138.17/32', 'IPv4');
 INSERT INTO `apple_private_relay_us-ga_ips` (`ip_address`, `ip_type`) VALUES ('104.28.138.18/32', 'IPv4');

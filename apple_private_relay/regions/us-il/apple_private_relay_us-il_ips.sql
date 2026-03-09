@@ -3545,6 +3545,16 @@ INSERT INTO `apple_private_relay_us-il_ips` (`ip_address`, `ip_type`) VALUES ('1
 INSERT INTO `apple_private_relay_us-il_ips` (`ip_address`, `ip_type`) VALUES ('104.28.133.224/32', 'IPv4');
 INSERT INTO `apple_private_relay_us-il_ips` (`ip_address`, `ip_type`) VALUES ('104.28.133.227/32', 'IPv4');
 INSERT INTO `apple_private_relay_us-il_ips` (`ip_address`, `ip_type`) VALUES ('104.28.133.228/32', 'IPv4');
+INSERT INTO `apple_private_relay_us-il_ips` (`ip_address`, `ip_type`) VALUES ('104.28.136.232/32', 'IPv4');
+INSERT INTO `apple_private_relay_us-il_ips` (`ip_address`, `ip_type`) VALUES ('104.28.136.233/32', 'IPv4');
+INSERT INTO `apple_private_relay_us-il_ips` (`ip_address`, `ip_type`) VALUES ('104.28.136.234/32', 'IPv4');
+INSERT INTO `apple_private_relay_us-il_ips` (`ip_address`, `ip_type`) VALUES ('104.28.136.235/32', 'IPv4');
+INSERT INTO `apple_private_relay_us-il_ips` (`ip_address`, `ip_type`) VALUES ('104.28.136.236/32', 'IPv4');
+INSERT INTO `apple_private_relay_us-il_ips` (`ip_address`, `ip_type`) VALUES ('104.28.136.239/32', 'IPv4');
+INSERT INTO `apple_private_relay_us-il_ips` (`ip_address`, `ip_type`) VALUES ('104.28.136.240/32', 'IPv4');
+INSERT INTO `apple_private_relay_us-il_ips` (`ip_address`, `ip_type`) VALUES ('104.28.136.241/32', 'IPv4');
+INSERT INTO `apple_private_relay_us-il_ips` (`ip_address`, `ip_type`) VALUES ('104.28.136.242/32', 'IPv4');
+INSERT INTO `apple_private_relay_us-il_ips` (`ip_address`, `ip_type`) VALUES ('104.28.136.243/32', 'IPv4');
 INSERT INTO `apple_private_relay_us-il_ips` (`ip_address`, `ip_type`) VALUES ('104.28.139.172/32', 'IPv4');
 INSERT INTO `apple_private_relay_us-il_ips` (`ip_address`, `ip_type`) VALUES ('104.28.139.173/32', 'IPv4');
 INSERT INTO `apple_private_relay_us-il_ips` (`ip_address`, `ip_type`) VALUES ('104.28.139.174/32', 'IPv4');

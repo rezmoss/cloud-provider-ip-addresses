@@ -97,6 +97,7 @@ INSERT INTO `apple_private_relay_tz_ips` (`ip_address`, `ip_type`) VALUES ('104.
 INSERT INTO `apple_private_relay_tz_ips` (`ip_address`, `ip_type`) VALUES ('104.28.82.108/32', 'IPv4');
 INSERT INTO `apple_private_relay_tz_ips` (`ip_address`, `ip_type`) VALUES ('104.28.82.109/32', 'IPv4');
 INSERT INTO `apple_private_relay_tz_ips` (`ip_address`, `ip_type`) VALUES ('104.28.82.110/32', 'IPv4');
+INSERT INTO `apple_private_relay_tz_ips` (`ip_address`, `ip_type`) VALUES ('104.28.136.224/32', 'IPv4');
 INSERT INTO `apple_private_relay_tz_ips` (`ip_address`, `ip_type`) VALUES ('104.28.142.6/32', 'IPv4');
 INSERT INTO `apple_private_relay_tz_ips` (`ip_address`, `ip_type`) VALUES ('104.28.142.220/32', 'IPv4');
 INSERT INTO `apple_private_relay_tz_ips` (`ip_address`, `ip_type`) VALUES ('104.28.146.142/32', 'IPv4');

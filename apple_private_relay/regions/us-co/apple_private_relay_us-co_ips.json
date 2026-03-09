@@ -5670,6 +5670,11 @@
     "region": "US-CO"
   },
   {
+    "ip_address": "104.28.136.225/32",
+    "ip_type": "IPv4",
+    "region": "US-CO"
+  },
+  {
     "ip_address": "104.28.139.99/32",
     "ip_type": "IPv4",
     "region": "US-CO"

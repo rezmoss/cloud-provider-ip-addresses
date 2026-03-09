@@ -36325,6 +36325,11 @@
     "region": "US-NC"
   },
   {
+    "ip_address": "104.28.136.245/32",
+    "ip_type": "IPv4",
+    "region": "US-NC"
+  },
+  {
     "ip_address": "104.28.139.157/32",
     "ip_type": "IPv4",
     "region": "US-NC"

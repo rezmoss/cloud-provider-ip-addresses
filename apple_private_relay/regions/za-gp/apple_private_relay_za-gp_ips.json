@@ -180,6 +180,16 @@
     "region": "ZA-GP"
   },
   {
+    "ip_address": "104.28.136.237/32",
+    "ip_type": "IPv4",
+    "region": "ZA-GP"
+  },
+  {
+    "ip_address": "104.28.136.255/32",
+    "ip_type": "IPv4",
+    "region": "ZA-GP"
+  },
+  {
     "ip_address": "104.28.138.50/32",
     "ip_type": "IPv4",
     "region": "ZA-GP"

@@ -455,6 +455,11 @@
     "region": "TZ"
   },
   {
+    "ip_address": "104.28.136.224/32",
+    "ip_type": "IPv4",
+    "region": "TZ"
+  },
+  {
     "ip_address": "104.28.142.6/32",
     "ip_type": "IPv4",
     "region": "TZ"

@@ -1,7 +1,7 @@
 {
-  "generated": "2026-03-08T01:58:31.229941",
+  "generated": "2026-03-09T01:59:32.999910",
   "provider_count": 22,
-  "total_ipv4_addresses": 334991062,
+  "total_ipv4_addresses": 334991094,
   "total_ipv6_addresses": 5205270631393918687196194176014266,
   "ipv4_space_coverage_pct": 7.7996,
   "providers": {
@@ -123,10 +123,10 @@
       "regions": 0
     },
     "apple_private_relay": {
-      "ipv4_cidrs": 41662,
+      "ipv4_cidrs": 41694,
       "ipv6_cidrs": 245176,
-      "total_cidrs": 286838,
-      "ipv4_addresses": 105640,
+      "total_cidrs": 286870,
+      "ipv4_addresses": 105672,
       "ipv6_addresses": 218581849431931909934642364416,
       "services": 0,
       "regions": 1222
