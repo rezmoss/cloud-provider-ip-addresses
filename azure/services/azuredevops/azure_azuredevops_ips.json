@@ -96,6 +96,12 @@
     "region": ""
   },
   {
+    "ip_address": "20.200.34.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureDevOps",
+    "region": ""
+  },
+  {
     "ip_address": "20.204.197.192/26",
     "ip_type": "IPv4",
     "service": "AzureDevOps",
@@ -162,6 +168,12 @@
     "region": ""
   },
   {
+    "ip_address": "172.186.108.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureDevOps",
+    "region": ""
+  },
+  {
     "ip_address": "191.235.226.0/24",
     "ip_type": "IPv4",
     "service": "AzureDevOps",
@@ -187,6 +199,12 @@
   },
   {
     "ip_address": "2603:1020:206:20::600/119",
+    "ip_type": "IPv6",
+    "service": "AzureDevOps",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:605:c::100/125",
     "ip_type": "IPv6",
     "service": "AzureDevOps",
     "region": ""
@@ -313,6 +331,12 @@
   },
   {
     "ip_address": "2603:1030:f05:b::700/120",
+    "ip_type": "IPv6",
+    "service": "AzureDevOps",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:1005:c::2d8/125",
     "ip_type": "IPv6",
     "service": "AzureDevOps",
     "region": ""

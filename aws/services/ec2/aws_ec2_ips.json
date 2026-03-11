@@ -20190,6 +20190,12 @@
     "region": "us-west-2"
   },
   {
+    "ip_address": "2606:8140:900::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-gov-west-1"
+  },
+  {
     "ip_address": "2600:1ff0:c000::/40",
     "ip_type": "IPv6",
     "service": "EC2",

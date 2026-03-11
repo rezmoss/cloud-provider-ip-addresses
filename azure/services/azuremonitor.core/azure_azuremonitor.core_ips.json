@@ -270,6 +270,12 @@
     "region": ""
   },
   {
+    "ip_address": "4.238.24.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.Core",
+    "region": ""
+  },
+  {
     "ip_address": "4.239.77.0/26",
     "ip_type": "IPv4",
     "service": "AzureMonitor.Core",

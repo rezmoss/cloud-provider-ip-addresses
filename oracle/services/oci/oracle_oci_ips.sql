@@ -281,6 +281,7 @@ INSERT INTO `oracle_oci_ips` (`ip_address`, `ip_type`) VALUES ('145.241.96.0/21'
 INSERT INTO `oracle_oci_ips` (`ip_address`, `ip_type`) VALUES ('145.241.184.0/21', 'IPv4');
 INSERT INTO `oracle_oci_ips` (`ip_address`, `ip_type`) VALUES ('158.180.226.0/23', 'IPv4');
 INSERT INTO `oracle_oci_ips` (`ip_address`, `ip_type`) VALUES ('204.216.112.0/23', 'IPv4');
+INSERT INTO `oracle_oci_ips` (`ip_address`, `ip_type`) VALUES ('84.8.216.0/21', 'IPv4');
 INSERT INTO `oracle_oci_ips` (`ip_address`, `ip_type`) VALUES ('84.235.160.0/19', 'IPv4');
 INSERT INTO `oracle_oci_ips` (`ip_address`, `ip_type`) VALUES ('92.5.192.0/19', 'IPv4');
 INSERT INTO `oracle_oci_ips` (`ip_address`, `ip_type`) VALUES ('92.5.224.0/20', 'IPv4');
@@ -341,6 +342,7 @@ INSERT INTO `oracle_oci_ips` (`ip_address`, `ip_type`) VALUES ('141.148.0.0/18',
 INSERT INTO `oracle_oci_ips` (`ip_address`, `ip_type`) VALUES ('141.148.64.0/19', 'IPv4');
 INSERT INTO `oracle_oci_ips` (`ip_address`, `ip_type`) VALUES ('142.0.160.0/21', 'IPv4');
 INSERT INTO `oracle_oci_ips` (`ip_address`, `ip_type`) VALUES ('143.47.96.0/19', 'IPv4');
+INSERT INTO `oracle_oci_ips` (`ip_address`, `ip_type`) VALUES ('147.5.128.0/17', 'IPv4');
 INSERT INTO `oracle_oci_ips` (`ip_address`, `ip_type`) VALUES ('147.15.192.0/18', 'IPv4');
 INSERT INTO `oracle_oci_ips` (`ip_address`, `ip_type`) VALUES ('150.136.0.0/16', 'IPv4');
 INSERT INTO `oracle_oci_ips` (`ip_address`, `ip_type`) VALUES ('150.230.160.0/19', 'IPv4');
@@ -525,6 +527,7 @@ INSERT INTO `oracle_oci_ips` (`ip_address`, `ip_type`) VALUES ('157.137.192.0/19
 INSERT INTO `oracle_oci_ips` (`ip_address`, `ip_type`) VALUES ('157.137.224.0/20', 'IPv4');
 INSERT INTO `oracle_oci_ips` (`ip_address`, `ip_type`) VALUES ('158.247.120.0/21', 'IPv4');
 INSERT INTO `oracle_oci_ips` (`ip_address`, `ip_type`) VALUES ('151.106.160.0/19', 'IPv4');
+INSERT INTO `oracle_oci_ips` (`ip_address`, `ip_type`) VALUES ('157.137.0.0/19', 'IPv4');
 INSERT INTO `oracle_oci_ips` (`ip_address`, `ip_type`) VALUES ('168.107.192.0/19', 'IPv4');
 INSERT INTO `oracle_oci_ips` (`ip_address`, `ip_type`) VALUES ('168.110.192.0/19', 'IPv4');
 INSERT INTO `oracle_oci_ips` (`ip_address`, `ip_type`) VALUES ('168.129.128.0/19', 'IPv4');

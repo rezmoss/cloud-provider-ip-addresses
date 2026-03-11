@@ -1650,6 +1650,12 @@
     "region": "af-johannesburg-1"
   },
   {
+    "ip_address": "84.8.216.0/21",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "af-casablanca-1"
+  },
+  {
     "ip_address": "84.235.160.0/19",
     "ip_type": "IPv4",
     "service": "OCI",
@@ -2005,6 +2011,12 @@
   },
   {
     "ip_address": "143.47.96.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "us-ashburn-1"
+  },
+  {
+    "ip_address": "147.5.128.0/17",
     "ip_type": "IPv4",
     "service": "OCI",
     "region": "us-ashburn-1"
@@ -3112,6 +3124,12 @@
     "ip_type": "IPv4",
     "service": "OCI",
     "region": "us-saltlake-2"
+  },
+  {
+    "ip_address": "157.137.0.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "us-lenexa-1"
   },
   {
     "ip_address": "168.107.192.0/19",

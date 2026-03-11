@@ -87,6 +87,7 @@ INSERT INTO `azure_azurecloud.canadaeast_ips` (`ip_address`, `ip_type`) VALUES (
 INSERT INTO `azure_azurecloud.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('104.44.93.64/27', 'IPv4');
 INSERT INTO `azure_azurecloud.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('104.44.95.32/28', 'IPv4');
 INSERT INTO `azure_azurecloud.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('135.130.50.0/23', 'IPv4');
+INSERT INTO `azure_azurecloud.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('145.190.159.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('151.206.107.0/25', 'IPv4');
 INSERT INTO `azure_azurecloud.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1000::/47', 'IPv6');
 INSERT INTO `azure_azurecloud.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1002::/48', 'IPv6');

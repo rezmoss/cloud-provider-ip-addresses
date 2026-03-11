@@ -6,5 +6,6 @@ CREATE TABLE IF NOT EXISTS `azure_storagesyncservice.austriaeast_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_storagesyncservice.austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('68.210.62.32/29', 'IPv4');
 INSERT INTO `azure_storagesyncservice.austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('68.210.152.48/29', 'IPv4');
 INSERT INTO `azure_storagesyncservice.austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:104:800::120/123', 'IPv6');

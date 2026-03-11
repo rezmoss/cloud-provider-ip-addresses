@@ -1,9 +1,9 @@
 {
-  "generated": "2026-03-10T01:52:31.009292",
+  "generated": "2026-03-11T01:52:38.896043",
   "provider_count": 22,
-  "total_ipv4_addresses": 334991094,
-  "total_ipv6_addresses": 5205270631393918687196194176014266,
-  "ipv4_space_coverage_pct": 7.7996,
+  "total_ipv4_addresses": 335113287,
+  "total_ipv6_addresses": 5205271250367295637307746763970522,
+  "ipv4_space_coverage_pct": 7.8025,
   "providers": {
     "cloudflare": {
       "ipv4_cidrs": 15,
@@ -16,10 +16,10 @@
     },
     "aws": {
       "ipv4_cidrs": 9963,
-      "ipv6_cidrs": 4980,
-      "total_cidrs": 14943,
+      "ipv6_cidrs": 4982,
+      "total_cidrs": 14945,
       "ipv4_addresses": 181312307,
-      "ipv6_addresses": 3016380706305699775389615783949,
+      "ipv6_addresses": 3016999676325342465527065346061,
       "services": 26,
       "regions": 42
     },
@@ -33,12 +33,12 @@
       "regions": 48
     },
     "azure": {
-      "ipv4_cidrs": 74709,
-      "ipv6_cidrs": 25581,
-      "total_cidrs": 100290,
-      "ipv4_addresses": 99903624,
-      "ipv6_addresses": 3703601580869997566000142249,
-      "services": 3128,
+      "ipv4_cidrs": 74734,
+      "ipv6_cidrs": 25612,
+      "total_cidrs": 100346,
+      "ipv4_addresses": 99974251,
+      "ipv6_addresses": 3703604661476257875495262153,
+      "services": 3130,
       "regions": 73
     },
     "digitalocean": {
@@ -51,13 +51,13 @@
       "regions": 11
     },
     "oracle": {
-      "ipv4_cidrs": 1047,
+      "ipv4_cidrs": 1067,
       "ipv6_cidrs": 0,
-      "total_cidrs": 1047,
-      "ipv4_addresses": 4019594,
+      "total_cidrs": 1067,
+      "ipv4_addresses": 4070026,
       "ipv6_addresses": 0,
       "services": 3,
-      "regions": 53
+      "regions": 55
     },
     "fastly": {
       "ipv4_cidrs": 19,
@@ -70,10 +70,10 @@
     },
     "github": {
       "ipv4_cidrs": 4871,
-      "ipv6_cidrs": 1166,
-      "total_cidrs": 6037,
-      "ipv4_addresses": 25292589,
-      "ipv6_addresses": 4278526920957649777568243515396,
+      "ipv6_cidrs": 1169,
+      "total_cidrs": 6040,
+      "ipv4_addresses": 25293691,
+      "ipv6_addresses": 4278526921234350938673886789636,
       "services": 11,
       "regions": 0
     },
@@ -105,10 +105,10 @@
       "regions": 0
     },
     "gptbot": {
-      "ipv4_cidrs": 288,
+      "ipv4_cidrs": 290,
       "ipv6_cidrs": 0,
-      "total_cidrs": 288,
-      "ipv4_addresses": 9680,
+      "total_cidrs": 290,
+      "ipv4_addresses": 9712,
       "ipv6_addresses": 0,
       "services": 3,
       "regions": 0

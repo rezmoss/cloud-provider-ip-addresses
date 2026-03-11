@@ -140,7 +140,8 @@ INSERT INTO `azure_southeastus3_ips` (`ip_address`, `ip_type`) VALUES ('57.157.1
 INSERT INTO `azure_southeastus3_ips` (`ip_address`, `ip_type`) VALUES ('57.157.16.128/26', 'IPv4');
 INSERT INTO `azure_southeastus3_ips` (`ip_address`, `ip_type`) VALUES ('57.157.16.192/27', 'IPv4');
 INSERT INTO `azure_southeastus3_ips` (`ip_address`, `ip_type`) VALUES ('57.157.16.224/28', 'IPv4');
-INSERT INTO `azure_southeastus3_ips` (`ip_address`, `ip_type`) VALUES ('57.157.16.240/31', 'IPv4');
+INSERT INTO `azure_southeastus3_ips` (`ip_address`, `ip_type`) VALUES ('57.157.16.240/30', 'IPv4');
+INSERT INTO `azure_southeastus3_ips` (`ip_address`, `ip_type`) VALUES ('57.157.16.244/31', 'IPv4');
 INSERT INTO `azure_southeastus3_ips` (`ip_address`, `ip_type`) VALUES ('74.7.0.0/17', 'IPv4');
 INSERT INTO `azure_southeastus3_ips` (`ip_address`, `ip_type`) VALUES ('135.130.124.0/23', 'IPv4');
 INSERT INTO `azure_southeastus3_ips` (`ip_address`, `ip_type`) VALUES ('135.130.144.0/23', 'IPv4');
@@ -156,7 +157,8 @@ INSERT INTO `azure_southeastus3_ips` (`ip_address`, `ip_type`) VALUES ('2603:103
 INSERT INTO `azure_southeastus3_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1018::/58', 'IPv6');
 INSERT INTO `azure_southeastus3_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1018:40::/59', 'IPv6');
 INSERT INTO `azure_southeastus3_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1018:60::/60', 'IPv6');
-INSERT INTO `azure_southeastus3_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1018:70::/64', 'IPv6');
+INSERT INTO `azure_southeastus3_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1018:70::/63', 'IPv6');
+INSERT INTO `azure_southeastus3_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1018:72::/64', 'IPv6');
 INSERT INTO `azure_southeastus3_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1312:5800::/54', 'IPv6');
 INSERT INTO `azure_southeastus3_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:174a::/63', 'IPv6');
 INSERT INTO `azure_southeastus3_ips` (`ip_address`, `ip_type`) VALUES ('2603:1063:2206:4c::/64', 'IPv6');

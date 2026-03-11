@@ -1002,6 +1002,54 @@
     "region": "af-johannesburg-1"
   },
   {
+    "ip_address": "84.8.192.0/26",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "af-casablanca-1"
+  },
+  {
+    "ip_address": "84.8.192.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "af-casablanca-1"
+  },
+  {
+    "ip_address": "84.8.193.192/26",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "af-casablanca-1"
+  },
+  {
+    "ip_address": "84.8.194.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "af-casablanca-1"
+  },
+  {
+    "ip_address": "84.8.196.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "af-casablanca-1"
+  },
+  {
+    "ip_address": "84.8.208.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "af-casablanca-1"
+  },
+  {
+    "ip_address": "84.8.210.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "af-casablanca-1"
+  },
+  {
+    "ip_address": "92.4.202.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "af-casablanca-1"
+  },
+  {
     "ip_address": "62.115.179.220/31",
     "ip_type": "IPv4",
     "service": "OSN",
@@ -2296,6 +2344,48 @@
     "ip_type": "IPv4",
     "service": "OSN",
     "region": "us-saltlake-2"
+  },
+  {
+    "ip_address": "157.137.32.0/26",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-lenexa-1"
+  },
+  {
+    "ip_address": "157.137.32.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-lenexa-1"
+  },
+  {
+    "ip_address": "157.137.33.192/26",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-lenexa-1"
+  },
+  {
+    "ip_address": "157.137.34.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-lenexa-1"
+  },
+  {
+    "ip_address": "157.137.36.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-lenexa-1"
+  },
+  {
+    "ip_address": "157.137.44.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-lenexa-1"
+  },
+  {
+    "ip_address": "157.137.50.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-lenexa-1"
   },
   {
     "ip_address": "140.91.108.0/23",

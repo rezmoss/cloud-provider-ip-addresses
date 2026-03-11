@@ -284,10 +284,8 @@ ip_address,ip_type,service,region
 57.150.148.0/23,IPv4,AzureCloud.westus2,westus2
 57.150.234.0/23,IPv4,AzureCloud.westus2,westus2
 57.157.72.0/25,IPv4,AzureCloud.westus2,westus2
-57.157.72.128/28,IPv4,AzureCloud.westus2,westus2
-57.157.72.144/29,IPv4,AzureCloud.westus2,westus2
-57.157.72.152/30,IPv4,AzureCloud.westus2,westus2
-57.157.72.156/31,IPv4,AzureCloud.westus2,westus2
+57.157.72.128/27,IPv4,AzureCloud.westus2,westus2
+57.157.72.160/31,IPv4,AzureCloud.westus2,westus2
 65.52.111.0/24,IPv4,AzureCloud.westus2,westus2
 65.55.32.128/28,IPv4,AzureCloud.westus2,westus2
 65.55.32.193/32,IPv4,AzureCloud.westus2,westus2
@@ -349,6 +347,7 @@ ip_address,ip_type,service,region
 145.190.38.0/23,IPv4,AzureCloud.westus2,westus2
 145.190.40.0/23,IPv4,AzureCloud.westus2,westus2
 145.190.42.0/24,IPv4,AzureCloud.westus2,westus2
+145.190.162.0/24,IPv4,AzureCloud.westus2,westus2
 151.206.79.0/25,IPv4,AzureCloud.westus2,westus2
 151.206.106.0/24,IPv4,AzureCloud.westus2,westus2
 151.206.135.0/24,IPv4,AzureCloud.westus2,westus2

@@ -17,4 +17,5 @@ ip_address,ip_type,service,region
 52.239.164.128/26,IPv4,Storage.CanadaEast,canadaeast
 52.239.190.0/25,IPv4,Storage.CanadaEast,canadaeast
 135.130.50.0/23,IPv4,Storage.CanadaEast,canadaeast
+145.190.159.0/24,IPv4,Storage.CanadaEast,canadaeast
 2603:1030:1006::/48,IPv6,Storage.CanadaEast,canadaeast

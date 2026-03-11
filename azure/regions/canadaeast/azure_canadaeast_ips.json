@@ -540,6 +540,18 @@
     "region": "canadaeast"
   },
   {
+    "ip_address": "20.200.34.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureDevOps.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:c::2d8/125",
+    "ip_type": "IPv6",
+    "service": "AzureDevOps.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
     "ip_address": "40.69.110.176/28",
     "ip_type": "IPv4",
     "service": "AzureDevSpaces.CanadaEast",
@@ -1237,6 +1249,12 @@
   },
   {
     "ip_address": "135.130.50.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "145.190.159.0/24",
     "ip_type": "IPv4",
     "service": "Storage.CanadaEast",
     "region": "canadaeast"
@@ -2767,6 +2785,12 @@
   },
   {
     "ip_address": "135.130.50.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadaeast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "145.190.159.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.canadaeast",
     "region": "canadaeast"

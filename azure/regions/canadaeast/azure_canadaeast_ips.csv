@@ -89,6 +89,8 @@ ip_address,ip_type,service,region
 52.242.47.128/28,IPv4,AzureDataExplorerManagement.CanadaEast,canadaeast
 2603:1030:1005:1::380/121,IPv6,AzureDataExplorerManagement.CanadaEast,canadaeast
 2603:1030:1005:402::150/124,IPv6,AzureDataExplorerManagement.CanadaEast,canadaeast
+20.200.34.0/26,IPv4,AzureDevOps.CanadaEast,canadaeast
+2603:1030:1005:c::2d8/125,IPv6,AzureDevOps.CanadaEast,canadaeast
 40.69.110.176/28,IPv4,AzureDevSpaces.CanadaEast,canadaeast
 40.89.17.192/28,IPv4,AzureDevSpaces.CanadaEast,canadaeast
 52.139.106.96/27,IPv4,AzureDigitalTwins.CanadaEast,canadaeast
@@ -206,6 +208,7 @@ ip_address,ip_type,service,region
 52.239.164.128/26,IPv4,Storage.CanadaEast,canadaeast
 52.239.190.0/25,IPv4,Storage.CanadaEast,canadaeast
 135.130.50.0/23,IPv4,Storage.CanadaEast,canadaeast
+145.190.159.0/24,IPv4,Storage.CanadaEast,canadaeast
 2603:1030:1006::/48,IPv6,Storage.CanadaEast,canadaeast
 40.69.107.128/27,IPv4,BatchNodeManagement.CanadaEast,canadaeast
 40.86.224.98/32,IPv4,BatchNodeManagement.CanadaEast,canadaeast
@@ -461,6 +464,7 @@ ip_address,ip_type,service,region
 104.44.93.64/27,IPv4,AzureCloud.canadaeast,canadaeast
 104.44.95.32/28,IPv4,AzureCloud.canadaeast,canadaeast
 135.130.50.0/23,IPv4,AzureCloud.canadaeast,canadaeast
+145.190.159.0/24,IPv4,AzureCloud.canadaeast,canadaeast
 151.206.107.0/25,IPv4,AzureCloud.canadaeast,canadaeast
 2603:1030:1000::/47,IPv6,AzureCloud.canadaeast,canadaeast
 2603:1030:1002::/48,IPv6,AzureCloud.canadaeast,canadaeast

@@ -138,6 +138,12 @@
     "region": "af-johannesburg-1"
   },
   {
+    "ip_address": "84.8.200.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN,OBJECT_STORAGE",
+    "region": "af-casablanca-1"
+  },
+  {
     "ip_address": "134.70.104.0/22",
     "ip_type": "IPv4",
     "service": "OSN,OBJECT_STORAGE",
@@ -304,6 +310,12 @@
     "ip_type": "IPv4",
     "service": "OSN,OBJECT_STORAGE",
     "region": "us-saltlake-2"
+  },
+  {
+    "ip_address": "157.137.40.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN,OBJECT_STORAGE",
+    "region": "us-lenexa-1"
   },
   {
     "ip_address": "134.70.230.0/23",

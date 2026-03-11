@@ -696,13 +696,13 @@
     "region": "germanywc"
   },
   {
-    "ip_address": "57.157.60.192/29",
+    "ip_address": "57.157.60.192/28",
     "ip_type": "IPv4",
     "service": "AzureCloud.germanywc",
     "region": "germanywc"
   },
   {
-    "ip_address": "57.157.60.200/30",
+    "ip_address": "57.157.60.208/30",
     "ip_type": "IPv4",
     "service": "AzureCloud.germanywc",
     "region": "germanywc"

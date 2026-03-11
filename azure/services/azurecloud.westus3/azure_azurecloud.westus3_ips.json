@@ -810,7 +810,7 @@
     "region": "westus3"
   },
   {
-    "ip_address": "57.157.129.16/31",
+    "ip_address": "57.157.129.16/30",
     "ip_type": "IPv4",
     "service": "AzureCloud.westus3",
     "region": "westus3"

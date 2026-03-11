@@ -486,6 +486,12 @@
     "region": "canadaeast"
   },
   {
+    "ip_address": "145.190.159.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadaeast",
+    "region": "canadaeast"
+  },
+  {
     "ip_address": "151.206.107.0/25",
     "ip_type": "IPv4",
     "service": "AzureCloud.canadaeast",

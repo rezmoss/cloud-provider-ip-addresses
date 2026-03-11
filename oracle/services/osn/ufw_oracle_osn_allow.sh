@@ -1,6 +1,6 @@
 #!/bin/bash
 # Oracle IP Ranges
-# Updated: 2026-02-25 01:59:33
+# Updated: 2026-03-11 01:51:32
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -174,6 +174,14 @@ ufw allow from 130.110.28.0/23
 ufw allow from 140.91.70.0/23
 ufw allow from 140.204.96.128/25
 ufw allow from 158.179.196.0/24
+ufw allow from 84.8.192.0/26
+ufw allow from 84.8.192.128/25
+ufw allow from 84.8.193.192/26
+ufw allow from 84.8.194.0/23
+ufw allow from 84.8.196.0/22
+ufw allow from 84.8.208.0/23
+ufw allow from 84.8.210.128/25
+ufw allow from 92.4.202.0/23
 ufw allow from 62.115.179.220/31
 ufw allow from 62.115.179.228/31
 ufw allow from 79.72.32.0/22
@@ -390,6 +398,13 @@ ufw allow from 140.204.136.128/25
 ufw allow from 168.129.182.0/23
 ufw allow from 207.211.128.0/22
 ufw allow from 207.211.132.0/25
+ufw allow from 157.137.32.0/26
+ufw allow from 157.137.32.128/25
+ufw allow from 157.137.33.192/26
+ufw allow from 157.137.34.0/23
+ufw allow from 157.137.36.0/22
+ufw allow from 157.137.44.128/25
+ufw allow from 157.137.50.0/23
 ufw allow from 140.91.108.0/23
 ufw allow from 140.204.166.128/25
 ufw allow from 168.107.248.0/26

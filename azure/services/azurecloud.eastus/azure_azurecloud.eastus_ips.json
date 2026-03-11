@@ -2682,31 +2682,25 @@
     "region": "eastus"
   },
   {
-    "ip_address": "57.157.32.0/24",
+    "ip_address": "57.157.32.0/23",
     "ip_type": "IPv4",
     "service": "AzureCloud.eastus",
     "region": "eastus"
   },
   {
-    "ip_address": "57.157.33.0/25",
+    "ip_address": "57.157.34.0/28",
     "ip_type": "IPv4",
     "service": "AzureCloud.eastus",
     "region": "eastus"
   },
   {
-    "ip_address": "57.157.33.128/26",
+    "ip_address": "57.157.34.16/29",
     "ip_type": "IPv4",
     "service": "AzureCloud.eastus",
     "region": "eastus"
   },
   {
-    "ip_address": "57.157.33.192/27",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.eastus",
-    "region": "eastus"
-  },
-  {
-    "ip_address": "57.157.33.224/31",
+    "ip_address": "57.157.34.24/31",
     "ip_type": "IPv4",
     "service": "AzureCloud.eastus",
     "region": "eastus"

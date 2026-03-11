@@ -1896,25 +1896,19 @@
     "region": "northeurope"
   },
   {
-    "ip_address": "57.157.29.192/28",
+    "ip_address": "57.157.29.192/27",
     "ip_type": "IPv4",
     "service": "AzureCloud.northeurope",
     "region": "northeurope"
   },
   {
-    "ip_address": "57.157.29.208/29",
+    "ip_address": "57.157.29.224/29",
     "ip_type": "IPv4",
     "service": "AzureCloud.northeurope",
     "region": "northeurope"
   },
   {
-    "ip_address": "57.157.29.216/30",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.northeurope",
-    "region": "northeurope"
-  },
-  {
-    "ip_address": "57.157.29.220/31",
+    "ip_address": "57.157.29.232/31",
     "ip_type": "IPv4",
     "service": "AzureCloud.northeurope",
     "region": "northeurope"

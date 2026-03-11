@@ -930,13 +930,13 @@
     "region": "centralfrance"
   },
   {
-    "ip_address": "57.157.37.32/29",
+    "ip_address": "57.157.37.32/28",
     "ip_type": "IPv4",
     "service": "AzureCloud.centralfrance",
     "region": "centralfrance"
   },
   {
-    "ip_address": "57.157.37.40/30",
+    "ip_address": "57.157.37.48/31",
     "ip_type": "IPv4",
     "service": "AzureCloud.centralfrance",
     "region": "centralfrance"

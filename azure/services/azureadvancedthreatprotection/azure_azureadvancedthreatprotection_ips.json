@@ -1,5 +1,17 @@
 [
   {
+    "ip_address": "4.208.124.106/31",
+    "ip_type": "IPv4",
+    "service": "AzureAdvancedThreatProtection",
+    "region": ""
+  },
+  {
+    "ip_address": "4.208.124.112/29",
+    "ip_type": "IPv4",
+    "service": "AzureAdvancedThreatProtection",
+    "region": ""
+  },
+  {
     "ip_address": "4.232.24.24/29",
     "ip_type": "IPv4",
     "service": "AzureAdvancedThreatProtection",
@@ -19,6 +31,18 @@
   },
   {
     "ip_address": "13.87.32.4/32",
+    "ip_type": "IPv4",
+    "service": "AzureAdvancedThreatProtection",
+    "region": ""
+  },
+  {
+    "ip_address": "20.15.211.234/31",
+    "ip_type": "IPv4",
+    "service": "AzureAdvancedThreatProtection",
+    "region": ""
+  },
+  {
+    "ip_address": "20.15.211.248/29",
     "ip_type": "IPv4",
     "service": "AzureAdvancedThreatProtection",
     "region": ""
@@ -312,6 +336,42 @@
     "region": ""
   },
   {
+    "ip_address": "48.199.253.244/30",
+    "ip_type": "IPv4",
+    "service": "AzureAdvancedThreatProtection",
+    "region": ""
+  },
+  {
+    "ip_address": "48.199.254.0/32",
+    "ip_type": "IPv4",
+    "service": "AzureAdvancedThreatProtection",
+    "region": ""
+  },
+  {
+    "ip_address": "48.204.74.118/32",
+    "ip_type": "IPv4",
+    "service": "AzureAdvancedThreatProtection",
+    "region": ""
+  },
+  {
+    "ip_address": "48.204.74.120/30",
+    "ip_type": "IPv4",
+    "service": "AzureAdvancedThreatProtection",
+    "region": ""
+  },
+  {
+    "ip_address": "48.206.200.172/31",
+    "ip_type": "IPv4",
+    "service": "AzureAdvancedThreatProtection",
+    "region": ""
+  },
+  {
+    "ip_address": "48.206.200.176/29",
+    "ip_type": "IPv4",
+    "service": "AzureAdvancedThreatProtection",
+    "region": ""
+  },
+  {
     "ip_address": "48.216.16.24/29",
     "ip_type": "IPv4",
     "service": "AzureAdvancedThreatProtection",
@@ -493,6 +553,18 @@
   },
   {
     "ip_address": "158.23.96.24/29",
+    "ip_type": "IPv4",
+    "service": "AzureAdvancedThreatProtection",
+    "region": ""
+  },
+  {
+    "ip_address": "172.186.108.172/30",
+    "ip_type": "IPv4",
+    "service": "AzureAdvancedThreatProtection",
+    "region": ""
+  },
+  {
+    "ip_address": "172.186.108.176/32",
     "ip_type": "IPv4",
     "service": "AzureAdvancedThreatProtection",
     "region": ""

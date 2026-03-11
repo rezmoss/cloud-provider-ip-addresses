@@ -1,0 +1,11 @@
+ip_address,ip_type,service,region
+84.8.216.0/21,IPv4,OCI,af-casablanca-1
+84.8.192.0/26,IPv4,OSN,af-casablanca-1
+84.8.192.128/25,IPv4,OSN,af-casablanca-1
+84.8.193.192/26,IPv4,OSN,af-casablanca-1
+84.8.194.0/23,IPv4,OSN,af-casablanca-1
+84.8.196.0/22,IPv4,OSN,af-casablanca-1
+84.8.200.0/22,IPv4,"OSN,OBJECT_STORAGE",af-casablanca-1
+84.8.208.0/23,IPv4,OSN,af-casablanca-1
+84.8.210.128/25,IPv4,OSN,af-casablanca-1
+92.4.202.0/23,IPv4,OSN,af-casablanca-1

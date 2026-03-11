@@ -2418,13 +2418,19 @@
     "region": "westeurope"
   },
   {
-    "ip_address": "57.157.56.64/29",
+    "ip_address": "57.157.56.64/27",
     "ip_type": "IPv4",
     "service": "AzureCloud.westeurope",
     "region": "westeurope"
   },
   {
-    "ip_address": "57.157.56.72/31",
+    "ip_address": "57.157.56.96/30",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.westeurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "57.157.56.100/31",
     "ip_type": "IPv4",
     "service": "AzureCloud.westeurope",
     "region": "westeurope"
