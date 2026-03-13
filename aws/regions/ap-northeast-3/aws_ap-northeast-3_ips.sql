@@ -191,10 +191,13 @@ INSERT INTO `aws_ap-northeast-3_ips` (`ip_address`, `ip_type`) VALUES ('2406:daf
 INSERT INTO `aws_ap-northeast-3_ips` (`ip_address`, `ip_type`) VALUES ('2406:dabb:6000::/40', 'IPv6');
 INSERT INTO `aws_ap-northeast-3_ips` (`ip_address`, `ip_type`) VALUES ('2406:daf4:6000::/40', 'IPv6');
 INSERT INTO `aws_ap-northeast-3_ips` (`ip_address`, `ip_type`) VALUES ('2406:dafc:6000::/40', 'IPv6');
+INSERT INTO `aws_ap-northeast-3_ips` (`ip_address`, `ip_type`) VALUES ('2406:daba:6000::/40', 'IPv6');
 INSERT INTO `aws_ap-northeast-3_ips` (`ip_address`, `ip_type`) VALUES ('2406:dafe:6000::/40', 'IPv6');
 INSERT INTO `aws_ap-northeast-3_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f0:6114::/48', 'IPv6');
 INSERT INTO `aws_ap-northeast-3_ips` (`ip_address`, `ip_type`) VALUES ('2406:da26::/36', 'IPv6');
 INSERT INTO `aws_ap-northeast-3_ips` (`ip_address`, `ip_type`) VALUES ('2406:daeb:6000::/40', 'IPv6');
+INSERT INTO `aws_ap-northeast-3_ips` (`ip_address`, `ip_type`) VALUES ('2406:da33:6000::/40', 'IPv6');
+INSERT INTO `aws_ap-northeast-3_ips` (`ip_address`, `ip_type`) VALUES ('2406:dae9:6000::/40', 'IPv6');
 INSERT INTO `aws_ap-northeast-3_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f0:1:1100::/56', 'IPv6');
 INSERT INTO `aws_ap-northeast-3_ips` (`ip_address`, `ip_type`) VALUES ('2406:da16::/36', 'IPv6');
 INSERT INTO `aws_ap-northeast-3_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f2:710a::/48', 'IPv6');
@@ -206,6 +209,7 @@ INSERT INTO `aws_ap-northeast-3_ips` (`ip_address`, `ip_type`) VALUES ('2406:da6
 INSERT INTO `aws_ap-northeast-3_ips` (`ip_address`, `ip_type`) VALUES ('2406:daa0:6000::/40', 'IPv6');
 INSERT INTO `aws_ap-northeast-3_ips` (`ip_address`, `ip_type`) VALUES ('2406:daf9:6000::/40', 'IPv6');
 INSERT INTO `aws_ap-northeast-3_ips` (`ip_address`, `ip_type`) VALUES ('2406:dab9:6000::/40', 'IPv6');
+INSERT INTO `aws_ap-northeast-3_ips` (`ip_address`, `ip_type`) VALUES ('2406:daef:6000::/40', 'IPv6');
 INSERT INTO `aws_ap-northeast-3_ips` (`ip_address`, `ip_type`) VALUES ('2406:daf0:6000::/40', 'IPv6');
 INSERT INTO `aws_ap-northeast-3_ips` (`ip_address`, `ip_type`) VALUES ('2406:dafa:6000::/40', 'IPv6');
 INSERT INTO `aws_ap-northeast-3_ips` (`ip_address`, `ip_type`) VALUES ('2406:daf8:6000::/40', 'IPv6');
@@ -241,9 +245,12 @@ INSERT INTO `aws_ap-northeast-3_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f
 INSERT INTO `aws_ap-northeast-3_ips` (`ip_address`, `ip_type`) VALUES ('2406:da36:6000::/40', 'IPv6');
 INSERT INTO `aws_ap-northeast-3_ips` (`ip_address`, `ip_type`) VALUES ('2406:dabb:6000::/40', 'IPv6');
 INSERT INTO `aws_ap-northeast-3_ips` (`ip_address`, `ip_type`) VALUES ('2406:daf4:6000::/40', 'IPv6');
+INSERT INTO `aws_ap-northeast-3_ips` (`ip_address`, `ip_type`) VALUES ('2406:daba:6000::/40', 'IPv6');
 INSERT INTO `aws_ap-northeast-3_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f0:6114::/48', 'IPv6');
 INSERT INTO `aws_ap-northeast-3_ips` (`ip_address`, `ip_type`) VALUES ('2406:da26::/36', 'IPv6');
 INSERT INTO `aws_ap-northeast-3_ips` (`ip_address`, `ip_type`) VALUES ('2406:daeb:6000::/40', 'IPv6');
+INSERT INTO `aws_ap-northeast-3_ips` (`ip_address`, `ip_type`) VALUES ('2406:da33:6000::/40', 'IPv6');
+INSERT INTO `aws_ap-northeast-3_ips` (`ip_address`, `ip_type`) VALUES ('2406:dae9:6000::/40', 'IPv6');
 INSERT INTO `aws_ap-northeast-3_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f0:1:1100::/56', 'IPv6');
 INSERT INTO `aws_ap-northeast-3_ips` (`ip_address`, `ip_type`) VALUES ('2406:da16::/36', 'IPv6');
 INSERT INTO `aws_ap-northeast-3_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f2:710a::/48', 'IPv6');

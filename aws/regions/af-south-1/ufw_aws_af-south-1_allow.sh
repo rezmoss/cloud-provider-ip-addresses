@@ -1,6 +1,6 @@
 #!/bin/bash
 # Aws IP Ranges
-# Updated: 2026-02-11 15:35:03
+# Updated: 2026-03-13 01:54:20
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -135,6 +135,7 @@ ufw allow from 13.245.166.128/30
 ufw allow from 13.245.166.132/30
 ufw allow from 35.71.103.0/24
 ufw allow from 52.94.30.0/24
+ufw allow from 2406:daba:1000::/40
 ufw allow from 2406:dabb:1000::/40
 ufw allow from 2406:daea:1000::/40
 ufw allow from 2406:dab9:1000::/40
@@ -154,6 +155,7 @@ ufw allow from 2406:daf4:1000::/40
 ufw allow from 2606:7b40:1b08:100::/56
 ufw allow from 2406:daf3:1000::/40
 ufw allow from 2600:f0f0:6119::/48
+ufw allow from 2406:da33:1000::/40
 ufw allow from 2406:daeb:1000::/40
 ufw allow from 2600:f0f1:4180::/42
 ufw allow from 2406:da11::/36
@@ -161,6 +163,7 @@ ufw allow from 2406:daf8:1000::/40
 ufw allow from 2600:f0f0:4144::/48
 ufw allow from 2406:da00:1000::/40
 ufw allow from 2600:f0f1:88::/48
+ufw allow from 2406:dae9:1000::/40
 ufw allow from 2406:da21::/36
 ufw allow from 2406:da32:1000::/40
 ufw allow from 2600:f0f2:710b::/48
@@ -176,6 +179,7 @@ ufw allow from 2406:da70:1000:200::/56
 ufw allow from 2406:da70:1000:400::/56
 ufw allow from 2406:da70:1000::/56
 ufw allow from 2406:dab9:1000::/40
+ufw allow from 2406:daef:1000::/40
 ufw allow from 2406:da60:1000::/40
 ufw allow from 2406:daf0:1000::/40
 ufw allow from 2406:daf4:1000::/40
@@ -185,6 +189,7 @@ ufw allow from 2406:daa0:1000::/40
 ufw allow from 2600:f0f1:88::/48
 ufw allow from 2406:da32:1000::/40
 ufw allow from 2406:da21:c::/48
+ufw allow from 2406:daba:1000::/40
 ufw allow from 2406:dabb:1000::/40
 ufw allow from 2406:daea:1000::/40
 ufw allow from 2406:dab9:1000::/40
@@ -201,12 +206,14 @@ ufw allow from 2406:daf4:1000::/40
 ufw allow from 2606:7b40:1b08:100::/56
 ufw allow from 2406:daf3:1000::/40
 ufw allow from 2600:f0f0:6119::/48
+ufw allow from 2406:da33:1000::/40
 ufw allow from 2406:daeb:1000::/40
 ufw allow from 2600:f0f1:4180::/42
 ufw allow from 2406:da11::/36
 ufw allow from 2600:f0f0:4144::/48
 ufw allow from 2406:da00:1000::/40
 ufw allow from 2600:f0f1:88::/48
+ufw allow from 2406:dae9:1000::/40
 ufw allow from 2406:da21::/36
 ufw allow from 2406:da32:1000::/40
 ufw allow from 2600:f0f2:710b::/48

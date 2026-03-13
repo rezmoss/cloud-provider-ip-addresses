@@ -1,6 +1,6 @@
 #!/bin/bash
 # Aws IP Ranges
-# Updated: 2026-03-05 01:55:27
+# Updated: 2026-03-13 01:54:19
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -391,6 +391,7 @@ ufw allow from 13.42.133.200/29
 ufw allow from 52.94.15.0/24
 ufw allow from 35.71.111.0/24
 ufw allow from 2a05:d06a:c000::/40
+ufw allow from 2a05:d033:c000::/40
 ufw allow from 2a05:d07a:c000::/40
 ufw allow from 2600:f0f0:c045::/48
 ufw allow from 2a05:d027::/36
@@ -408,6 +409,7 @@ ufw allow from 2a05:d074:c000::/40
 ufw allow from 2600:f0f2:7102::/48
 ufw allow from 2606:f40:9400::/40
 ufw allow from 2600:1f01:491c::/47
+ufw allow from 2a05:d07d:c000::/40
 ufw allow from 2a05:d031:c000::/40
 ufw allow from 2a05:d072:c000::/40
 ufw allow from 2a05:d038:c000::/40
@@ -444,6 +446,7 @@ ufw allow from 2a05:d07c:c000::/40
 ufw allow from 2a05:d03a:c000::/40
 ufw allow from 2600:f0f1:80::/48
 ufw allow from 2606:7b40:1b0d:8000::/56
+ufw allow from 2a05:d05a:c000::/40
 ufw allow from 2a05:d03a:c000:100::/56
 ufw allow from 2a05:d03a:c000:200::/56
 ufw allow from 2a05:d03a:c000:300::/56
@@ -454,6 +457,7 @@ ufw allow from 2a05:d030:c000::/40
 ufw allow from 2a05:d079:c000::/40
 ufw allow from 2a05:d078:c000::/40
 ufw allow from 2a05:d074:c000::/40
+ufw allow from 2a05:d06f:c000::/40
 ufw allow from 2a05:d050:c000::/40
 ufw allow from 2a05:d070:c000::/40
 ufw allow from 2a05:d059:c000::/40
@@ -461,6 +465,7 @@ ufw allow from 2600:f0f1:80::/48
 ufw allow from 2a05:d032:c000::/40
 ufw allow from 2a05:d02c:8::/48
 ufw allow from 2a05:d06a:c000::/40
+ufw allow from 2a05:d033:c000::/40
 ufw allow from 2600:f0f0:c045::/48
 ufw allow from 2a05:d027::/36
 ufw allow from 2a05:d05b:c000::/40
@@ -474,6 +479,7 @@ ufw allow from 2600:1ffd:8492::/48
 ufw allow from 2a05:d074:c000::/40
 ufw allow from 2600:f0f2:7102::/48
 ufw allow from 2606:f40:9400::/40
+ufw allow from 2a05:d07d:c000::/40
 ufw allow from 2a05:d031:c000::/40
 ufw allow from 2a05:d072:c000::/40
 ufw allow from 2a05:d038:c000::/40
@@ -503,6 +509,7 @@ ufw allow from 2a05:d059:c000::/40
 ufw allow from 2a05:d03a:c000::/40
 ufw allow from 2600:f0f1:80::/48
 ufw allow from 2606:7b40:1b0d:8000::/56
+ufw allow from 2a05:d05a:c000::/40
 ufw allow from 2600:1f01:4870::/47
 ufw allow from 2600:f0f2:7102::/48
 ufw allow from 2a05:d01c:4ac:3100::/56

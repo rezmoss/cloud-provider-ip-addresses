@@ -1194,6 +1194,12 @@
     "region": "eu-north-1"
   },
   {
+    "ip_address": "2a05:d033:6000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eu-north-1"
+  },
+  {
     "ip_address": "2a05:d07a:6000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -1267,6 +1273,12 @@
   },
   {
     "ip_address": "2a05:d031:6000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eu-north-1"
+  },
+  {
+    "ip_address": "2a05:d07d:6000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "eu-north-1"
@@ -1416,6 +1428,12 @@
     "region": "eu-north-1"
   },
   {
+    "ip_address": "2a05:d05a:6000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eu-north-1"
+  },
+  {
     "ip_address": "2600:f0f0:6107::/48",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -1506,6 +1524,12 @@
     "region": "eu-north-1"
   },
   {
+    "ip_address": "2a05:d06f:6000::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "eu-north-1"
+  },
+  {
     "ip_address": "2a05:d078:6000::/40",
     "ip_type": "IPv6",
     "service": "S3",
@@ -1555,6 +1579,12 @@
   },
   {
     "ip_address": "2600:f0f1:4000::/42",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eu-north-1"
+  },
+  {
+    "ip_address": "2a05:d033:6000::/40",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "eu-north-1"
@@ -1615,6 +1645,12 @@
   },
   {
     "ip_address": "2a05:d031:6000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eu-north-1"
+  },
+  {
+    "ip_address": "2a05:d07d:6000::/40",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "eu-north-1"
@@ -1717,6 +1753,12 @@
   },
   {
     "ip_address": "2a05:d000:6000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eu-north-1"
+  },
+  {
+    "ip_address": "2a05:d05a:6000::/40",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "eu-north-1"

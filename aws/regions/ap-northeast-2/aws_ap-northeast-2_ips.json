@@ -1524,6 +1524,12 @@
     "region": "ap-northeast-2"
   },
   {
+    "ip_address": "2406:daba:2000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-northeast-2"
+  },
+  {
     "ip_address": "2600:f0f0:5401::/48",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -1549,6 +1555,12 @@
   },
   {
     "ip_address": "2406:da00:2000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-northeast-2"
+  },
+  {
+    "ip_address": "2406:da33:2000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "ap-northeast-2"
@@ -1740,6 +1752,12 @@
     "region": "ap-northeast-2"
   },
   {
+    "ip_address": "2406:dae9:2000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-northeast-2"
+  },
+  {
     "ip_address": "2600:f0f0:c046::/48",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -1849,6 +1867,12 @@
   },
   {
     "ip_address": "2406:da60:2000::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "ap-northeast-2"
+  },
+  {
+    "ip_address": "2406:daef:2000::/40",
     "ip_type": "IPv6",
     "service": "S3",
     "region": "ap-northeast-2"
@@ -2016,6 +2040,12 @@
     "region": "ap-northeast-2"
   },
   {
+    "ip_address": "2406:daba:2000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-northeast-2"
+  },
+  {
     "ip_address": "2600:f0f0:5401::/48",
     "ip_type": "IPv6",
     "service": "EC2",
@@ -2041,6 +2071,12 @@
   },
   {
     "ip_address": "2406:da00:2000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-northeast-2"
+  },
+  {
+    "ip_address": "2406:da33:2000::/40",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "ap-northeast-2"
@@ -2191,6 +2227,12 @@
   },
   {
     "ip_address": "2600:f0f0:5402::/48",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-northeast-2"
+  },
+  {
+    "ip_address": "2406:dae9:2000::/40",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "ap-northeast-2"

@@ -1,6 +1,6 @@
 #!/bin/bash
 # Aws IP Ranges
-# Updated: 2026-03-06 01:56:19
+# Updated: 2026-03-13 01:54:20
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -218,6 +218,7 @@ ufw deny from 2600:f0f0:4145::/48
 ufw deny from 2a05:d07e:a000::/40
 ufw deny from 2a05:d070:a000::/40
 ufw deny from 2600:f0f0:8120::/48
+ufw deny from 2a05:d033:a000::/40
 ufw deny from 2600:f0f1:4400::/42
 ufw deny from 2a05:d030:a000::/40
 ufw deny from 2a05:d038:a000::/40
@@ -226,6 +227,7 @@ ufw deny from 2a05:d059:a000::/40
 ufw deny from 2a05:d036:a000::/40
 ufw deny from 2a05:d06b:a000::/40
 ufw deny from 2a05:d079:a000::/40
+ufw deny from 2a05:d05a:a000::/40
 ufw deny from 2a01:578:0:7400::/56
 ufw deny from 2a05:d050:a000::/40
 ufw deny from 2a05:d06a:a000::/40
@@ -236,6 +238,7 @@ ufw deny from 2a05:d072:a000::/40
 ufw deny from 2a05:d06f:a000::/40
 ufw deny from 2a05:d01a::/36
 ufw deny from 2a05:d074:a000::/40
+ufw deny from 2a05:d07d:a000::/40
 ufw deny from 2a05:d02a::/36
 ufw deny from 2a05:d03a:a000::/40
 ufw deny from 2a05:d031:a000::/40
@@ -258,6 +261,7 @@ ufw deny from 2a05:d030:a000::/40
 ufw deny from 2a05:d059:a000::/40
 ufw deny from 2a05:d079:a000::/40
 ufw deny from 2a05:d050:a000::/40
+ufw deny from 2a05:d06f:a000::/40
 ufw deny from 2a05:d074:a000::/40
 ufw deny from 2a05:d078:a000::/40
 ufw deny from 2600:f0f1:87::/48
@@ -266,6 +270,7 @@ ufw deny from 2a05:d000:a000::/40
 ufw deny from 2600:f0f0:4145::/48
 ufw deny from 2a05:d070:a000::/40
 ufw deny from 2600:f0f0:8120::/48
+ufw deny from 2a05:d033:a000::/40
 ufw deny from 2600:f0f1:4400::/42
 ufw deny from 2a05:d030:a000::/40
 ufw deny from 2a05:d038:a000::/40
@@ -273,6 +278,7 @@ ufw deny from 2600:f0f1:87::/48
 ufw deny from 2a05:d059:a000::/40
 ufw deny from 2a05:d036:a000::/40
 ufw deny from 2a05:d06b:a000::/40
+ufw deny from 2a05:d05a:a000::/40
 ufw deny from 2a05:d06a:a000::/40
 ufw deny from 2a05:d05b:a000::/40
 ufw deny from 2a05:d032:a000::/40
@@ -281,6 +287,7 @@ ufw deny from 2a05:d072:a000::/40
 ufw deny from 2a05:d06f:a000::/40
 ufw deny from 2a05:d01a::/36
 ufw deny from 2a05:d074:a000::/40
+ufw deny from 2a05:d07d:a000::/40
 ufw deny from 2a05:d02a::/36
 ufw deny from 2a05:d03a:a000::/40
 ufw deny from 2a05:d031:a000::/40

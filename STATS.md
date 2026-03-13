@@ -1,9 +1,9 @@
 # IP Range Statistics
 
-Generated: 2026-03-12T01:58:05.140519
+Generated: 2026-03-13T01:55:49.472159
 
 Total IPv4 addresses: 335,117,639
-Total IPv6 addresses: 5,205,271,250,367,295,637,307,746,763,970,522
+Total IPv6 addresses: 5,205,422,592,168,579,653,629,036,641,687,514
 IPv4 space coverage: 7.8026%
 
 | Provider | IPv4 CIDRs | IPv6 CIDRs | Total CIDRs | IPv4 Addresses | Services | Regions |
@@ -12,7 +12,7 @@ IPv4 space coverage: 7.8026%
 | apple_private_relay | 41,694 | 245,176 | 286,870 | 105,672 | 0 | 1222 |
 | applebot | 12 | 0 | 12 | 2,400 | 1 | 0 |
 | atlassian | 194 | 59 | 253 | 78,646 | 11 | 18 |
-| aws | 9,963 | 4,982 | 14,945 | 181,312,307 | 26 | 42 |
+| aws | 9,963 | 5,277 | 15,240 | 181,312,307 | 26 | 42 |
 | azure | 74,734 | 25,612 | 100,346 | 99,974,251 | 3130 | 73 |
 | bingbot | 28 | 0 | 28 | 4,736 | 1 | 0 |
 | cloudflare | 15 | 7 | 22 | 1,524,736 | 0 | 0 |
@@ -28,7 +28,7 @@ IPv4 space coverage: 7.8026%
 | oracle | 1,067 | 0 | 1,067 | 4,070,026 | 3 | 55 |
 | perplexitybot | 12 | 0 | 12 | 32 | 2 | 0 |
 | telegram | 9 | 5 | 14 | 11,008 | 0 | 0 |
-| vultr | 434 | 54 | 488 | 1,017,344 | 0 | 34 |
+| vultr | 434 | 53 | 487 | 1,017,344 | 0 | 34 |
 | zoom | 75 | 3 | 78 | 547,888 | 3 | 0 |
 
 *22 providers tracked*

@@ -1,6 +1,6 @@
 #!/bin/bash
 # Aws IP Ranges
-# Updated: 2026-02-18 02:00:19
+# Updated: 2026-03-13 01:54:20
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -307,6 +307,7 @@ ip6tables -A INPUT -s 2606:f40:3e00::/40 -j ACCEPT
 ip6tables -A INPUT -s 2600:f0f0:1118::/48 -j ACCEPT
 ip6tables -A INPUT -s 2600:f0f0:e16::/48 -j ACCEPT
 ip6tables -A INPUT -s 2600:1fbb:e000::/40 -j ACCEPT
+ip6tables -A INPUT -s 2600:1fba:e000::/40 -j ACCEPT
 ip6tables -A INPUT -s 2600:f0f0:410c::/48 -j ACCEPT
 ip6tables -A INPUT -s 2600:f0f0:e15::/48 -j ACCEPT
 ip6tables -A INPUT -s 2600:1ffe:e000::/40 -j ACCEPT
@@ -348,6 +349,8 @@ ip6tables -A INPUT -s 2600:1f00:e000::/40 -j ACCEPT
 ip6tables -A INPUT -s 2606:7b40:1b09:200::/56 -j ACCEPT
 ip6tables -A INPUT -s 2600:1ffc:e000::/40 -j ACCEPT
 ip6tables -A INPUT -s 2606:f40:ffed::/48 -j ACCEPT
+ip6tables -A INPUT -s 2600:1f33:e000::/40 -j ACCEPT
+ip6tables -A INPUT -s 2600:1fe9:e000::/40 -j ACCEPT
 ip6tables -A INPUT -s 2600:1ff8:e000::/40 -j ACCEPT
 ip6tables -A INPUT -s 2600:f0f0:111a::/48 -j ACCEPT
 ip6tables -A INPUT -s 2600:1f70:e000:100::/56 -j ACCEPT
@@ -361,6 +364,7 @@ ip6tables -A INPUT -s 2600:1ff9:e000::/40 -j ACCEPT
 ip6tables -A INPUT -s 2600:1ff0:e000::/40 -j ACCEPT
 ip6tables -A INPUT -s 2600:1f60:e000::/40 -j ACCEPT
 ip6tables -A INPUT -s 2600:1fb9:e000::/40 -j ACCEPT
+ip6tables -A INPUT -s 2600:1fef:e000::/40 -j ACCEPT
 ip6tables -A INPUT -s 2600:1fa0:e000::/40 -j ACCEPT
 ip6tables -A INPUT -s 2600:1ffa:e000::/40 -j ACCEPT
 ip6tables -A INPUT -s 2600:1ff8:e000::/40 -j ACCEPT
@@ -389,6 +393,7 @@ ip6tables -A INPUT -s 2606:f40:3e00::/40 -j ACCEPT
 ip6tables -A INPUT -s 2600:f0f0:1118::/48 -j ACCEPT
 ip6tables -A INPUT -s 2600:f0f0:e16::/48 -j ACCEPT
 ip6tables -A INPUT -s 2600:1fbb:e000::/40 -j ACCEPT
+ip6tables -A INPUT -s 2600:1fba:e000::/40 -j ACCEPT
 ip6tables -A INPUT -s 2600:f0f0:410c::/48 -j ACCEPT
 ip6tables -A INPUT -s 2600:f0f0:e15::/48 -j ACCEPT
 ip6tables -A INPUT -s 2600:1ff6:e000::/40 -j ACCEPT
@@ -424,6 +429,8 @@ ip6tables -A INPUT -s 2600:1feb:e000::/40 -j ACCEPT
 ip6tables -A INPUT -s 2600:1f00:e000::/40 -j ACCEPT
 ip6tables -A INPUT -s 2606:7b40:1b09:200::/56 -j ACCEPT
 ip6tables -A INPUT -s 2606:f40:ffed::/48 -j ACCEPT
+ip6tables -A INPUT -s 2600:1f33:e000::/40 -j ACCEPT
+ip6tables -A INPUT -s 2600:1fe9:e000::/40 -j ACCEPT
 ip6tables -A INPUT -s 2600:f0f0:111a::/48 -j ACCEPT
 ip6tables -A INPUT -s 2600:1f01:4840::/47 -j ACCEPT
 ip6tables -A INPUT -s 2600:1f1e:d1d:e700::/56 -j ACCEPT

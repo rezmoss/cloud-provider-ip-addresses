@@ -1,6 +1,6 @@
 #!/bin/bash
 # Aws IP Ranges
-# Updated: 2026-03-05 01:55:28
+# Updated: 2026-03-13 01:54:20
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -110,6 +110,7 @@ ufw deny from 2600:1feb:5000::/40
 ufw deny from 2600:1f15::/36
 ufw deny from 2600:1fbb:5000::/40
 ufw deny from 2600:f0f2:7028::/48
+ufw deny from 2600:1f33:5000::/40
 ufw deny from 2600:1f00:5000::/40
 ufw deny from 2600:1f38:5000::/40
 ufw deny from 2600:1ffc:5000::/40
@@ -124,12 +125,14 @@ ufw deny from 2600:f0f0:6124::/48
 ufw deny from 2600:1f30:5000::/40
 ufw deny from 2600:1f61:5000::/40
 ufw deny from 2600:f0f0:400::/44
+ufw deny from 2600:1fba:5000::/40
 ufw deny from 2600:1ff9:5000::/40
 ufw deny from 2600:1f32:5000::/40
 ufw deny from 2600:1fea:5000::/40
 ufw deny from 2600:1ff4:5000::/40
 ufw deny from 2620:107:4000:7a00::/56
 ufw deny from 2600:f0f0:78::/45
+ufw deny from 2600:1fe9:5000::/40
 ufw deny from 2600:1fa0:5000::/40
 ufw deny from 2600:1f25::/36
 ufw deny from 2600:1ffe:5000::/40
@@ -149,12 +152,14 @@ ufw deny from 2600:1ff4:5000::/40
 ufw deny from 2600:1fa0:5000::/40
 ufw deny from 2600:1ff0:5000::/40
 ufw deny from 2600:1ffa:5000::/40
+ufw deny from 2600:1fef:5000::/40
 ufw deny from 2600:1f32:5000::/40
 ufw deny from 2600:1f25:14::/48
 ufw deny from 2600:1feb:5000::/40
 ufw deny from 2600:1f15::/36
 ufw deny from 2600:1fbb:5000::/40
 ufw deny from 2600:f0f2:7028::/48
+ufw deny from 2600:1f33:5000::/40
 ufw deny from 2600:1f00:5000::/40
 ufw deny from 2600:1f38:5000::/40
 ufw deny from 2600:1f60:5000::/40
@@ -167,10 +172,12 @@ ufw deny from 2600:f0f0:6124::/48
 ufw deny from 2600:1f30:5000::/40
 ufw deny from 2600:1f61:5000::/40
 ufw deny from 2600:f0f0:400::/44
+ufw deny from 2600:1fba:5000::/40
 ufw deny from 2600:1f32:5000::/40
 ufw deny from 2600:1fea:5000::/40
 ufw deny from 2600:1ff4:5000::/40
 ufw deny from 2600:f0f0:78::/45
+ufw deny from 2600:1fe9:5000::/40
 ufw deny from 2600:1f25::/36
 ufw deny from 2600:1ff6:5000::/40
 ufw deny from 2600:1ff2:5000::/40

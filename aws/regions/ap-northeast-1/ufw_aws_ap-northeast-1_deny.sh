@@ -1,6 +1,6 @@
 #!/bin/bash
 # Aws IP Ranges
-# Updated: 2026-02-17 01:56:56
+# Updated: 2026-03-13 01:54:20
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -439,15 +439,18 @@ ufw deny from 2406:dabb:4000::/40
 ufw deny from 2600:1ffd:812f::/48
 ufw deny from 2600:f0f0:6102::/48
 ufw deny from 2406:da2d::/36
+ufw deny from 2406:daba:4000::/40
 ufw deny from 2600:f0f0:5533::/48
 ufw deny from 2606:7b40:1b05:c000::/56
 ufw deny from 2400:6700::/48
 ufw deny from 2606:7b40:1b05:c100::/56
 ufw deny from 2406:dab9:4000::/40
+ufw deny from 2406:dae9:4000::/40
 ufw deny from 2406:da36:4000::/40
 ufw deny from 2406:daef:4000::/40
 ufw deny from 2406:da1d::/36
 ufw deny from 2600:1ffd:816c::/48
+ufw deny from 2406:da33:4000::/40
 ufw deny from 2606:f40:fff7::/48
 ufw deny from 2600:f0f0:1102::/48
 ufw deny from 2406:daa0:4000::/40
@@ -492,6 +495,7 @@ ufw deny from 2406:da14:7ff:f800::/56
 ufw deny from 2406:da14:fff:f800::/56
 ufw deny from 2406:daf8:4000::/40
 ufw deny from 2406:dab9:4000::/40
+ufw deny from 2406:daef:4000::/40
 ufw deny from 2406:daa0:4000::/40
 ufw deny from 2406:daf0:4000::/40
 ufw deny from 2406:dafa:4000::/40
@@ -537,14 +541,17 @@ ufw deny from 2406:dabb:4000::/40
 ufw deny from 2600:1ffd:812f::/48
 ufw deny from 2600:f0f0:6102::/48
 ufw deny from 2406:da2d::/36
+ufw deny from 2406:daba:4000::/40
 ufw deny from 2600:f0f0:5533::/48
 ufw deny from 2606:7b40:1b05:c000::/56
 ufw deny from 2606:7b40:1b05:c100::/56
 ufw deny from 2406:dab9:4000::/40
+ufw deny from 2406:dae9:4000::/40
 ufw deny from 2406:da36:4000::/40
 ufw deny from 2406:daef:4000::/40
 ufw deny from 2406:da1d::/36
 ufw deny from 2600:1ffd:816c::/48
+ufw deny from 2406:da33:4000::/40
 ufw deny from 2606:f40:fff7::/48
 ufw deny from 2600:f0f0:1102::/48
 ufw deny from 2406:da23::/36

@@ -1,6 +1,6 @@
 #!/bin/bash
 # Aws IP Ranges
-# Updated: 2026-03-06 01:56:19
+# Updated: 2026-03-13 01:54:19
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -261,11 +261,13 @@ ufw deny from 2406:da38:2000::/40
 ufw deny from 2406:daf2:2000::/40
 ufw deny from 2600:f0f0:1:1000::/56
 ufw deny from 2600:f0f0:e32::/48
+ufw deny from 2406:daba:2000::/40
 ufw deny from 2600:f0f0:5401::/48
 ufw deny from 2600:f0f0:610d::/48
 ufw deny from 2600:f0f0:4104::/48
 ufw deny from 2406:da32:2000::/40
 ufw deny from 2406:da00:2000::/40
+ufw deny from 2406:da33:2000::/40
 ufw deny from 2600:f004:4000::/40
 ufw deny from 2406:daff:2000::/40
 ufw deny from 2406:dafa:2000::/40
@@ -297,6 +299,7 @@ ufw deny from 2406:daf4:2000::/40
 ufw deny from 2606:f40:2400::/40
 ufw deny from 2406:dabb:2000::/40
 ufw deny from 2600:f0f0:5402::/48
+ufw deny from 2406:dae9:2000::/40
 ufw deny from 2600:f0f0:c046::/48
 ufw deny from 2406:da70:2000::/40
 ufw deny from 2406:da36:2000::/40
@@ -316,6 +319,7 @@ ufw deny from 2406:daf0:2000::/40
 ufw deny from 2406:dafa:2000::/40
 ufw deny from 2406:dab9:2000::/40
 ufw deny from 2406:da60:2000::/40
+ufw deny from 2406:daef:2000::/40
 ufw deny from 2406:daa0:2000::/40
 ufw deny from 2406:daf9:2000::/40
 ufw deny from 2406:daf4:2000::/40
@@ -343,11 +347,13 @@ ufw deny from 2406:da38:2000::/40
 ufw deny from 2406:daf2:2000::/40
 ufw deny from 2600:f0f0:1:1000::/56
 ufw deny from 2600:f0f0:e32::/48
+ufw deny from 2406:daba:2000::/40
 ufw deny from 2600:f0f0:5401::/48
 ufw deny from 2600:f0f0:610d::/48
 ufw deny from 2600:f0f0:4104::/48
 ufw deny from 2406:da32:2000::/40
 ufw deny from 2406:da00:2000::/40
+ufw deny from 2406:da33:2000::/40
 ufw deny from 2600:f004:4000::/40
 ufw deny from 2406:daff:2000::/40
 ufw deny from 2406:dab9:2000::/40
@@ -373,6 +379,7 @@ ufw deny from 2406:daf4:2000::/40
 ufw deny from 2606:f40:2400::/40
 ufw deny from 2406:dabb:2000::/40
 ufw deny from 2600:f0f0:5402::/48
+ufw deny from 2406:dae9:2000::/40
 ufw deny from 2600:f0f0:c046::/48
 ufw deny from 2406:da70:2000::/40
 ufw deny from 2406:da36:2000::/40

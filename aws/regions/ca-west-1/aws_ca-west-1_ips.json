@@ -408,6 +408,12 @@
     "region": "ca-west-1"
   },
   {
+    "ip_address": "2600:1fe9:a400::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ca-west-1"
+  },
+  {
     "ip_address": "2600:1f30:a400::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -504,6 +510,12 @@
     "region": "ca-west-1"
   },
   {
+    "ip_address": "2600:1fba:a400::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ca-west-1"
+  },
+  {
     "ip_address": "2600:1f32:a400::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -535,6 +547,12 @@
   },
   {
     "ip_address": "2600:1fa0:a400::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ca-west-1"
+  },
+  {
+    "ip_address": "2600:1f33:a400::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "ca-west-1"
@@ -624,6 +642,12 @@
     "region": "ca-west-1"
   },
   {
+    "ip_address": "2600:1fef:a400::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "ca-west-1"
+  },
+  {
     "ip_address": "2600:1fb9:a400::/40",
     "ip_type": "IPv6",
     "service": "S3",
@@ -643,6 +667,12 @@
   },
   {
     "ip_address": "2600:1feb:a400::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ca-west-1"
+  },
+  {
+    "ip_address": "2600:1fe9:a400::/40",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "ca-west-1"
@@ -720,6 +750,12 @@
     "region": "ca-west-1"
   },
   {
+    "ip_address": "2600:1fba:a400::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ca-west-1"
+  },
+  {
     "ip_address": "2600:1f32:a400::/40",
     "ip_type": "IPv6",
     "service": "EC2",
@@ -739,6 +775,12 @@
   },
   {
     "ip_address": "2600:1f60:a400::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ca-west-1"
+  },
+  {
+    "ip_address": "2600:1f33:a400::/40",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "ca-west-1"

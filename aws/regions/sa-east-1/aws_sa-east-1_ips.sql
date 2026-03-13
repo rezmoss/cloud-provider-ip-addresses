@@ -306,6 +306,7 @@ INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2606:f40:3e00
 INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f0:1118::/48', 'IPv6');
 INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f0:e16::/48', 'IPv6');
 INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1fbb:e000::/40', 'IPv6');
+INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1fba:e000::/40', 'IPv6');
 INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f0:410c::/48', 'IPv6');
 INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f0:e15::/48', 'IPv6');
 INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1ffe:e000::/40', 'IPv6');
@@ -347,6 +348,8 @@ INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f00:e00
 INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2606:7b40:1b09:200::/56', 'IPv6');
 INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1ffc:e000::/40', 'IPv6');
 INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2606:f40:ffed::/48', 'IPv6');
+INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f33:e000::/40', 'IPv6');
+INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1fe9:e000::/40', 'IPv6');
 INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1ff8:e000::/40', 'IPv6');
 INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f0:111a::/48', 'IPv6');
 INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f70:e000:100::/56', 'IPv6');
@@ -360,6 +363,7 @@ INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1ff9:e00
 INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1ff0:e000::/40', 'IPv6');
 INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f60:e000::/40', 'IPv6');
 INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1fb9:e000::/40', 'IPv6');
+INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1fef:e000::/40', 'IPv6');
 INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1fa0:e000::/40', 'IPv6');
 INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1ffa:e000::/40', 'IPv6');
 INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1ff8:e000::/40', 'IPv6');
@@ -388,6 +392,7 @@ INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2606:f40:3e00
 INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f0:1118::/48', 'IPv6');
 INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f0:e16::/48', 'IPv6');
 INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1fbb:e000::/40', 'IPv6');
+INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1fba:e000::/40', 'IPv6');
 INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f0:410c::/48', 'IPv6');
 INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f0:e15::/48', 'IPv6');
 INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1ff6:e000::/40', 'IPv6');
@@ -423,6 +428,8 @@ INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1feb:e00
 INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f00:e000::/40', 'IPv6');
 INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2606:7b40:1b09:200::/56', 'IPv6');
 INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2606:f40:ffed::/48', 'IPv6');
+INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f33:e000::/40', 'IPv6');
+INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1fe9:e000::/40', 'IPv6');
 INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f0:111a::/48', 'IPv6');
 INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f01:4840::/47', 'IPv6');
 INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f1e:d1d:e700::/56', 'IPv6');

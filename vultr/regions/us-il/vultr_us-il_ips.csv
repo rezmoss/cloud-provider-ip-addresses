@@ -36,4 +36,3 @@ ip_address,ip_type,region
 209.222.28.0/24,IPv4,US-IL
 216.128.144.0/20,IPv4,US-IL
 2001:19f0:5c00::/38,IPv6,US-IL
-2001:19f0:5c00:300::/64,IPv6,US-IL

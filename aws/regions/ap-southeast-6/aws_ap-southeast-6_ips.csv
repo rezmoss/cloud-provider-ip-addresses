@@ -58,10 +58,12 @@ ip_address,ip_type,service,region
 35.71.93.0/24,IPv4,DYNAMODB,ap-southeast-6
 2406:da32:2800::/40,IPv6,AMAZON,ap-southeast-6
 2406:daeb:2800::/40,IPv6,AMAZON,ap-southeast-6
+2406:dae9:2800::/40,IPv6,AMAZON,ap-southeast-6
 2406:da61:2800::/40,IPv6,AMAZON,ap-southeast-6
 2406:daf6:2800::/40,IPv6,AMAZON,ap-southeast-6
 2600:f0f0:6126::/48,IPv6,AMAZON,ap-southeast-6
 2406:dafe:2800::/40,IPv6,AMAZON,ap-southeast-6
+2406:daba:2800::/40,IPv6,AMAZON,ap-southeast-6
 2406:da38:2800::/40,IPv6,AMAZON,ap-southeast-6
 2406:daff:2800::/40,IPv6,AMAZON,ap-southeast-6
 2406:da70:2800::/40,IPv6,AMAZON,ap-southeast-6
@@ -78,6 +80,7 @@ ip_address,ip_type,service,region
 2406:daf2:2800::/40,IPv6,AMAZON,ap-southeast-6
 2406:daef:2800::/40,IPv6,AMAZON,ap-southeast-6
 2406:daf0:2800::/40,IPv6,AMAZON,ap-southeast-6
+2406:da33:2800::/40,IPv6,AMAZON,ap-southeast-6
 2406:dab9:2800::/40,IPv6,AMAZON,ap-southeast-6
 2406:da12:8000::/36,IPv6,AMAZON,ap-southeast-6
 2400:6500:0:7f00::/56,IPv6,AMAZON,ap-southeast-6
@@ -88,6 +91,7 @@ ip_address,ip_type,service,region
 2406:da60:2800::/40,IPv6,S3,ap-southeast-6
 2406:daf8:2800::/40,IPv6,S3,ap-southeast-6
 2406:daf4:2800::/40,IPv6,S3,ap-southeast-6
+2406:daef:2800::/40,IPv6,S3,ap-southeast-6
 2406:daf0:2800::/40,IPv6,S3,ap-southeast-6
 2406:dab9:2800::/40,IPv6,S3,ap-southeast-6
 2406:daa0:2800::/40,IPv6,S3,ap-southeast-6
@@ -95,9 +99,11 @@ ip_address,ip_type,service,region
 2600:f0f2:7021::/48,IPv6,S3,ap-southeast-6
 2406:da32:2800::/40,IPv6,EC2,ap-southeast-6
 2406:daeb:2800::/40,IPv6,EC2,ap-southeast-6
+2406:dae9:2800::/40,IPv6,EC2,ap-southeast-6
 2406:da61:2800::/40,IPv6,EC2,ap-southeast-6
 2406:daf6:2800::/40,IPv6,EC2,ap-southeast-6
 2600:f0f0:6126::/48,IPv6,EC2,ap-southeast-6
+2406:daba:2800::/40,IPv6,EC2,ap-southeast-6
 2406:da38:2800::/40,IPv6,EC2,ap-southeast-6
 2406:daff:2800::/40,IPv6,EC2,ap-southeast-6
 2406:da70:2800::/40,IPv6,EC2,ap-southeast-6
@@ -113,6 +119,7 @@ ip_address,ip_type,service,region
 2406:daf2:2800::/40,IPv6,EC2,ap-southeast-6
 2406:daef:2800::/40,IPv6,EC2,ap-southeast-6
 2406:daf0:2800::/40,IPv6,EC2,ap-southeast-6
+2406:da33:2800::/40,IPv6,EC2,ap-southeast-6
 2406:dab9:2800::/40,IPv6,EC2,ap-southeast-6
 2406:da12:8000::/36,IPv6,EC2,ap-southeast-6
 2406:da00:2800::/40,IPv6,EC2,ap-southeast-6

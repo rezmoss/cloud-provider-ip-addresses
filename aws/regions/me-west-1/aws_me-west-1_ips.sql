@@ -39,10 +39,13 @@ INSERT INTO `aws_me-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d076:800
 INSERT INTO `aws_me-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d031:800::/40', 'IPv6');
 INSERT INTO `aws_me-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d06b:800::/40', 'IPv6');
 INSERT INTO `aws_me-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d06a:800::/40', 'IPv6');
+INSERT INTO `aws_me-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d07d:800::/40', 'IPv6');
 INSERT INTO `aws_me-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d032:800::/40', 'IPv6');
 INSERT INTO `aws_me-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d03a:800::/40', 'IPv6');
+INSERT INTO `aws_me-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d05a:800::/40', 'IPv6');
 INSERT INTO `aws_me-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d038:800::/40', 'IPv6');
 INSERT INTO `aws_me-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d000:800::/40', 'IPv6');
+INSERT INTO `aws_me-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d033:800::/40', 'IPv6');
 INSERT INTO `aws_me-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d020:8000::/36', 'IPv6');
 INSERT INTO `aws_me-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d05b:800::/40', 'IPv6');
 INSERT INTO `aws_me-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d059:800::/40', 'IPv6');
@@ -63,6 +66,7 @@ INSERT INTO `aws_me-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d070:800
 INSERT INTO `aws_me-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d079:800::/40', 'IPv6');
 INSERT INTO `aws_me-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d059:800::/40', 'IPv6');
 INSERT INTO `aws_me-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d050:800::/40', 'IPv6');
+INSERT INTO `aws_me-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d06f:800::/40', 'IPv6');
 INSERT INTO `aws_me-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d030:800::/40', 'IPv6');
 INSERT INTO `aws_me-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d078:800::/40', 'IPv6');
 INSERT INTO `aws_me-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d074:800::/40', 'IPv6');
@@ -72,10 +76,13 @@ INSERT INTO `aws_me-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d076:800
 INSERT INTO `aws_me-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d031:800::/40', 'IPv6');
 INSERT INTO `aws_me-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d06b:800::/40', 'IPv6');
 INSERT INTO `aws_me-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d06a:800::/40', 'IPv6');
+INSERT INTO `aws_me-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d07d:800::/40', 'IPv6');
 INSERT INTO `aws_me-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d032:800::/40', 'IPv6');
 INSERT INTO `aws_me-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d03a:800::/40', 'IPv6');
+INSERT INTO `aws_me-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d05a:800::/40', 'IPv6');
 INSERT INTO `aws_me-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d038:800::/40', 'IPv6');
 INSERT INTO `aws_me-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d000:800::/40', 'IPv6');
+INSERT INTO `aws_me-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d033:800::/40', 'IPv6');
 INSERT INTO `aws_me-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d020:8000::/36', 'IPv6');
 INSERT INTO `aws_me-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d05b:800::/40', 'IPv6');
 INSERT INTO `aws_me-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d059:800::/40', 'IPv6');
