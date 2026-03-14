@@ -1,6 +1,6 @@
 #!/bin/bash
 # Aws IP Ranges
-# Updated: 2026-03-13 01:54:19
+# Updated: 2026-03-14 01:52:04
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -2185,6 +2185,7 @@ ufw deny from 15.251.0.20/32
 ufw deny from 16.214.28.0/22
 ufw deny from 18.89.128.0/18
 ufw deny from 35.71.110.0/24
+ufw deny from 35.97.208.0/20
 ufw deny from 52.93.127.198/32
 ufw deny from 52.93.134.181/32
 ufw deny from 52.93.178.211/32
@@ -6241,6 +6242,7 @@ ufw deny from 2600:1fe9:7400::/40
 ufw deny from 2600:9000:f800::/37
 ufw deny from 2600:f0f0:0:d00::/56
 ufw deny from 2600:f0f0:10::/48
+ufw deny from 2600:f0f0:cfd::/48
 ufw deny from 2600:f0f0:e18::/48
 ufw deny from 2600:f0f0:5534::/48
 ufw deny from 2620:107:4000:4701::/64
@@ -6359,6 +6361,7 @@ ufw deny from 2600:1f19:4000::/36
 ufw deny from 2600:1f60:5000::/40
 ufw deny from 2600:1f61:8000::/39
 ufw deny from 2600:9000:ac00::/40
+ufw deny from 2600:f0f0:cfe::/48
 ufw deny from 2600:f0f0:111f::/48
 ufw deny from 2600:f0f1:4100::/42
 ufw deny from 2600:f0f2:7101::/48
