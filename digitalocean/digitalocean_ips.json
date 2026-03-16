@@ -3712,7 +3712,7 @@
   {
     "ip_address": "165.245.148.0/22",
     "ip_type": "IPv4",
-    "region": "global"
+    "region": "US-VA"
   },
   {
     "ip_address": "165.245.152.0/22",
@@ -3727,7 +3727,7 @@
   {
     "ip_address": "165.245.160.0/20",
     "ip_type": "IPv4",
-    "region": "global"
+    "region": "US-VA"
   },
   {
     "ip_address": "165.245.176.0/20",
@@ -3735,7 +3735,7 @@
     "region": "SG-05"
   },
   {
-    "ip_address": "165.245.192.0/20",
+    "ip_address": "165.245.192.0/21",
     "ip_type": "IPv4",
     "region": "global"
   },
@@ -4020,12 +4020,22 @@
     "region": "DE-HE"
   },
   {
+    "ip_address": "168.144.12.0/22",
+    "ip_type": "IPv4",
+    "region": "US-NJ"
+  },
+  {
     "ip_address": "168.144.16.0/20",
     "ip_type": "IPv4",
     "region": "IN-KA"
   },
   {
     "ip_address": "168.144.32.0/20",
+    "ip_type": "IPv4",
+    "region": "SG-05"
+  },
+  {
+    "ip_address": "168.144.48.0/22",
     "ip_type": "IPv4",
     "region": "SG-05"
   },
@@ -5557,7 +5567,7 @@
   {
     "ip_address": "2604:a880:6:7::/64",
     "ip_type": "IPv6",
-    "region": "global"
+    "region": "US-VA"
   },
   {
     "ip_address": "2604:a880:7:7::/64",

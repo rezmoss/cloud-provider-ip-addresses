@@ -112,6 +112,7 @@ INSERT INTO `apple_private_relay_ke_ips` (`ip_address`, `ip_type`) VALUES ('2a02
 INSERT INTO `apple_private_relay_ke_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d650:4850::/64', 'IPv6');
 INSERT INTO `apple_private_relay_ke_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d651:4000::/64', 'IPv6');
 INSERT INTO `apple_private_relay_ke_ips` (`ip_address`, `ip_type`) VALUES ('104.28.136.184/32', 'IPv4');
+INSERT INTO `apple_private_relay_ke_ips` (`ip_address`, `ip_type`) VALUES ('104.28.137.4/32', 'IPv4');
 INSERT INTO `apple_private_relay_ke_ips` (`ip_address`, `ip_type`) VALUES ('104.28.139.141/32', 'IPv4');
 INSERT INTO `apple_private_relay_ke_ips` (`ip_address`, `ip_type`) VALUES ('104.28.141.43/32', 'IPv4');
 INSERT INTO `apple_private_relay_ke_ips` (`ip_address`, `ip_type`) VALUES ('104.28.141.44/32', 'IPv4');

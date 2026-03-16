@@ -50,6 +50,11 @@
     "region": "AL-11"
   },
   {
+    "ip_address": "104.28.137.3/32",
+    "ip_type": "IPv4",
+    "region": "AL-11"
+  },
+  {
     "ip_address": "104.28.149.134/32",
     "ip_type": "IPv4",
     "region": "AL-11"

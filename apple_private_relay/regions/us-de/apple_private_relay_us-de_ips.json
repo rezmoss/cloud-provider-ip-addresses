@@ -3090,6 +3090,11 @@
     "region": "US-DE"
   },
   {
+    "ip_address": "104.28.137.2/32",
+    "ip_type": "IPv4",
+    "region": "US-DE"
+  },
+  {
     "ip_address": "104.28.145.254/32",
     "ip_type": "IPv4",
     "region": "US-DE"
