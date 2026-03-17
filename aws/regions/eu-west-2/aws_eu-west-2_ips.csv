@@ -263,6 +263,7 @@ ip_address,ip_type,service,region
 1.178.94.0/24,IPv4,S3,eu-west-2
 18.168.37.160/28,IPv4,S3,eu-west-2
 18.168.37.176/28,IPv4,S3,eu-west-2
+3.2.72.0/24,IPv4,S3,eu-west-2
 18.132.21.0/24,IPv4,WORKSPACES_GATEWAYS,eu-west-2
 18.132.22.0/23,IPv4,WORKSPACES_GATEWAYS,eu-west-2
 18.134.68.0/22,IPv4,WORKSPACES_GATEWAYS,eu-west-2
@@ -453,6 +454,7 @@ ip_address,ip_type,service,region
 2a05:d050:c000::/40,IPv6,S3,eu-west-2
 2a05:d070:c000::/40,IPv6,S3,eu-west-2
 2a05:d059:c000::/40,IPv6,S3,eu-west-2
+2600:f0f0:6108::/48,IPv6,S3,eu-west-2
 2600:f0f1:80::/48,IPv6,S3,eu-west-2
 2a05:d032:c000::/40,IPv6,WORKSPACES_GATEWAYS,eu-west-2
 2a05:d02c:8::/48,IPv6,WORKSPACES_GATEWAYS,eu-west-2

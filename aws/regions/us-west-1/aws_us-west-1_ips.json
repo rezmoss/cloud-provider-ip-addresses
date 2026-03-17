@@ -2634,6 +2634,12 @@
     "region": "us-west-1"
   },
   {
+    "ip_address": "3.2.86.0/24",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "us-west-1"
+  },
+  {
     "ip_address": "192.31.212.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -3811,6 +3817,12 @@
   },
   {
     "ip_address": "2600:1f60:c000::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "us-west-1"
+  },
+  {
+    "ip_address": "2600:f0f0:6115::/48",
     "ip_type": "IPv6",
     "service": "S3",
     "region": "us-west-1"

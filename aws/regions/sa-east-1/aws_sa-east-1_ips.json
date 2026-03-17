@@ -984,6 +984,12 @@
     "region": "sa-east-1"
   },
   {
+    "ip_address": "3.2.80.0/24",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "sa-east-1"
+  },
+  {
     "ip_address": "35.55.26.0/24",
     "ip_type": "IPv4",
     "service": "IVS_REALTIME",
@@ -2161,6 +2167,12 @@
   },
   {
     "ip_address": "2600:1ff8:e000::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "sa-east-1"
+  },
+  {
+    "ip_address": "2600:f0f0:610c::/48",
     "ip_type": "IPv6",
     "service": "S3",
     "region": "sa-east-1"

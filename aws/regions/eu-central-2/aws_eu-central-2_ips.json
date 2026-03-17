@@ -294,6 +294,12 @@
     "region": "eu-central-2"
   },
   {
+    "ip_address": "3.2.97.0/24",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "eu-central-2"
+  },
+  {
     "ip_address": "51.34.0.0/16",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -697,6 +703,12 @@
   },
   {
     "ip_address": "2a05:d070:9000::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "eu-central-2"
+  },
+  {
+    "ip_address": "2600:f0f0:6121::/48",
     "ip_type": "IPv6",
     "service": "S3",
     "region": "eu-central-2"

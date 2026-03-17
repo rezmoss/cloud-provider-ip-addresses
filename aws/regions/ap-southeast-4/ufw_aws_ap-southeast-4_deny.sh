@@ -1,6 +1,6 @@
 #!/bin/bash
 # Aws IP Ranges
-# Updated: 2026-03-13 01:54:20
+# Updated: 2026-03-17 01:57:21
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -58,6 +58,7 @@ ufw deny from 52.95.166.0/23
 ufw deny from 1.178.24.0/24
 ufw deny from 16.50.69.192/28
 ufw deny from 16.50.69.208/28
+ufw deny from 3.2.92.0/24
 ufw deny from 3.5.40.0/22
 ufw deny from 3.2.92.0/24
 ufw deny from 35.54.59.0/24
@@ -130,6 +131,7 @@ ufw deny from 2406:daf9:f000::/40
 ufw deny from 2406:dab9:f000::/40
 ufw deny from 2406:daf4:f000::/40
 ufw deny from 2406:daa0:f000::/40
+ufw deny from 2600:f0f0:611c::/48
 ufw deny from 2600:f0f1:8e::/48
 ufw deny from 2406:daba:f000::/40
 ufw deny from 2406:daef:f000::/40

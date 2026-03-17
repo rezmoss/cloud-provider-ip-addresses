@@ -306,6 +306,12 @@
     "region": "ap-southeast-4"
   },
   {
+    "ip_address": "3.2.92.0/24",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "ap-southeast-4"
+  },
+  {
     "ip_address": "3.5.40.0/22",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -733,6 +739,12 @@
   },
   {
     "ip_address": "2406:daa0:f000::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "ap-southeast-4"
+  },
+  {
+    "ip_address": "2600:f0f0:611c::/48",
     "ip_type": "IPv6",
     "service": "S3",
     "region": "ap-southeast-4"

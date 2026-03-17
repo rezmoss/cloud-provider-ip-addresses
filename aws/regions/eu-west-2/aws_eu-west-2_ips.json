@@ -1584,6 +1584,12 @@
     "region": "eu-west-2"
   },
   {
+    "ip_address": "3.2.72.0/24",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "eu-west-2"
+  },
+  {
     "ip_address": "18.132.21.0/24",
     "ip_type": "IPv4",
     "service": "WORKSPACES_GATEWAYS",
@@ -2719,6 +2725,12 @@
   },
   {
     "ip_address": "2a05:d059:c000::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "eu-west-2"
+  },
+  {
+    "ip_address": "2600:f0f0:6108::/48",
     "ip_type": "IPv6",
     "service": "S3",
     "region": "eu-west-2"

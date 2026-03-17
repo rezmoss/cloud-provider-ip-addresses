@@ -54,6 +54,7 @@ ip_address,ip_type,service,region
 1.178.22.0/24,IPv4,S3,eu-south-2
 18.100.209.224/28,IPv4,S3,eu-south-2
 18.100.209.240/28,IPv4,S3,eu-south-2
+3.2.83.0/24,IPv4,S3,eu-south-2
 51.48.16.0/22,IPv4,WORKSPACES_GATEWAYS,eu-south-2
 18.96.192.0/19,IPv4,EC2,eu-south-2
 99.77.55.49/32,IPv4,EC2,eu-south-2
@@ -178,6 +179,7 @@ ip_address,ip_type,service,region
 2a05:d074:1000::/40,IPv6,S3,eu-south-2
 2a05:d050:1000::/40,IPv6,S3,eu-south-2
 2a05:d059:1000::/40,IPv6,S3,eu-south-2
+2600:f0f0:6116::/48,IPv6,S3,eu-south-2
 2600:f0f1:8c::/48,IPv6,S3,eu-south-2
 2a05:d021:c::/48,IPv6,WORKSPACES_GATEWAYS,eu-south-2
 2a05:d033:1000::/40,IPv6,EC2,eu-south-2
