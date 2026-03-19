@@ -6,6 +6,9 @@ CREATE TABLE IF NOT EXISTS `azure_azurecloud.eastus3_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_azurecloud.eastus3_ips` (`ip_address`, `ip_type`) VALUES ('13.104.128.128/25', 'IPv4');
+INSERT INTO `azure_azurecloud.eastus3_ips` (`ip_address`, `ip_type`) VALUES ('13.104.163.0/24', 'IPv4');
+INSERT INTO `azure_azurecloud.eastus3_ips` (`ip_address`, `ip_type`) VALUES ('13.104.173.0/25', 'IPv4');
 INSERT INTO `azure_azurecloud.eastus3_ips` (`ip_address`, `ip_type`) VALUES ('20.20.54.96/27', 'IPv4');
 INSERT INTO `azure_azurecloud.eastus3_ips` (`ip_address`, `ip_type`) VALUES ('20.20.56.224/27', 'IPv4');
 INSERT INTO `azure_azurecloud.eastus3_ips` (`ip_address`, `ip_type`) VALUES ('20.20.57.0/27', 'IPv4');
@@ -34,6 +37,7 @@ INSERT INTO `azure_azurecloud.eastus3_ips` (`ip_address`, `ip_type`) VALUES ('13
 INSERT INTO `azure_azurecloud.eastus3_ips` (`ip_address`, `ip_type`) VALUES ('135.130.220.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.eastus3_ips` (`ip_address`, `ip_type`) VALUES ('209.199.33.224/28', 'IPv4');
 INSERT INTO `azure_azurecloud.eastus3_ips` (`ip_address`, `ip_type`) VALUES ('209.199.35.0/25', 'IPv4');
+INSERT INTO `azure_azurecloud.eastus3_ips` (`ip_address`, `ip_type`) VALUES ('209.199.45.96/27', 'IPv4');
 INSERT INTO `azure_azurecloud.eastus3_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1401::/48', 'IPv6');
 INSERT INTO `azure_azurecloud.eastus3_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1402::/47', 'IPv6');
 INSERT INTO `azure_azurecloud.eastus3_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1404::/48', 'IPv6');

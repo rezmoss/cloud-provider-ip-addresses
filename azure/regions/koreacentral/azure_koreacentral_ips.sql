@@ -326,6 +326,7 @@ INSERT INTO `azure_koreacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:104
 INSERT INTO `azure_koreacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:f05:402::330/124', 'IPv6');
 INSERT INTO `azure_koreacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:f05:802::210/124', 'IPv6');
 INSERT INTO `azure_koreacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:f05:c02::210/124', 'IPv6');
+INSERT INTO `azure_koreacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.230.126.192/27', 'IPv4');
 INSERT INTO `azure_koreacentral_ips` (`ip_address`, `ip_type`) VALUES ('20.41.64.72/29', 'IPv4');
 INSERT INTO `azure_koreacentral_ips` (`ip_address`, `ip_type`) VALUES ('20.194.75.128/26', 'IPv4');
 INSERT INTO `azure_koreacentral_ips` (`ip_address`, `ip_type`) VALUES ('52.231.18.224/29', 'IPv4');

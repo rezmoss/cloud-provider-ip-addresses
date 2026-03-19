@@ -1,0 +1,8 @@
+[
+  {
+    "ip_address": "57.155.153.0/27",
+    "ip_type": "IPv4",
+    "service": "Dynamics365ForMarketingEmail.SoutheastAsia",
+    "region": "southeastasia"
+  }
+]

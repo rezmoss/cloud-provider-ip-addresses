@@ -1962,6 +1962,12 @@
     "region": "japaneast"
   },
   {
+    "ip_address": "145.190.165.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.JapanEast",
+    "region": "japaneast"
+  },
+  {
     "ip_address": "2603:1040:408::/48",
     "ip_type": "IPv6",
     "service": "Storage.JapanEast",
@@ -4213,6 +4219,12 @@
   },
   {
     "ip_address": "145.190.58.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.japaneast",
+    "region": "japaneast"
+  },
+  {
+    "ip_address": "145.190.165.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.japaneast",
     "region": "japaneast"

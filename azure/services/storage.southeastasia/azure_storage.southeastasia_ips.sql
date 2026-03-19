@@ -56,4 +56,6 @@ INSERT INTO `azure_storage.southeastasia_ips` (`ip_address`, `ip_type`) VALUES (
 INSERT INTO `azure_storage.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('168.63.180.64/26', 'IPv4');
 INSERT INTO `azure_storage.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('191.238.64.64/26', 'IPv4');
 INSERT INTO `azure_storage.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('191.238.64.192/28', 'IPv4');
-INSERT INTO `azure_storage.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:6::/48', 'IPv6');
+INSERT INTO `azure_storage.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:6::/49', 'IPv6');
+INSERT INTO `azure_storage.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:6:8000::/63', 'IPv6');
+INSERT INTO `azure_storage.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:6:8002::/64', 'IPv6');

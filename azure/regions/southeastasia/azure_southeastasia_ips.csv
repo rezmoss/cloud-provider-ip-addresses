@@ -410,7 +410,9 @@ ip_address,ip_type,service,region
 168.63.180.64/26,IPv4,Storage.SoutheastAsia,southeastasia
 191.238.64.64/26,IPv4,Storage.SoutheastAsia,southeastasia
 191.238.64.192/28,IPv4,Storage.SoutheastAsia,southeastasia
-2603:1040:6::/48,IPv6,Storage.SoutheastAsia,southeastasia
+2603:1040:6::/49,IPv6,Storage.SoutheastAsia,southeastasia
+2603:1040:6:8000::/63,IPv6,Storage.SoutheastAsia,southeastasia
+2603:1040:6:8002::/64,IPv6,Storage.SoutheastAsia,southeastasia
 13.67.9.160/27,IPv4,BatchNodeManagement.SoutheastAsia,southeastasia
 13.67.58.116/32,IPv4,BatchNodeManagement.SoutheastAsia,southeastasia
 20.43.132.64/27,IPv4,BatchNodeManagement.SoutheastAsia,southeastasia
@@ -441,6 +443,7 @@ ip_address,ip_type,service,region
 2603:1040:5:402::330/124,IPv6,DataFactory.SoutheastAsia,southeastasia
 2603:1040:5:802::210/124,IPv6,DataFactory.SoutheastAsia,southeastasia
 2603:1040:5:c02::210/124,IPv6,DataFactory.SoutheastAsia,southeastasia
+57.155.153.0/27,IPv4,Dynamics365ForMarketingEmail.SoutheastAsia,southeastasia
 4.145.21.64/27,IPv4,GatewayManager.SoutheastAsia,southeastasia
 13.67.9.128/29,IPv4,GatewayManager.SoutheastAsia,southeastasia
 20.43.128.72/29,IPv4,GatewayManager.SoutheastAsia,southeastasia

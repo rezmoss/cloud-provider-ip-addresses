@@ -218,6 +218,7 @@ INSERT INTO `azure_azurecloud.japaneast_ips` (`ip_address`, `ip_type`) VALUES ('
 INSERT INTO `azure_azurecloud.japaneast_ips` (`ip_address`, `ip_type`) VALUES ('145.190.55.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.japaneast_ips` (`ip_address`, `ip_type`) VALUES ('145.190.56.0/23', 'IPv4');
 INSERT INTO `azure_azurecloud.japaneast_ips` (`ip_address`, `ip_type`) VALUES ('145.190.58.0/24', 'IPv4');
+INSERT INTO `azure_azurecloud.japaneast_ips` (`ip_address`, `ip_type`) VALUES ('145.190.165.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.japaneast_ips` (`ip_address`, `ip_type`) VALUES ('151.206.65.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.japaneast_ips` (`ip_address`, `ip_type`) VALUES ('151.206.141.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.japaneast_ips` (`ip_address`, `ip_type`) VALUES ('172.192.0.0/17', 'IPv4');

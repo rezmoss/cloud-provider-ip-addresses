@@ -454,9 +454,9 @@ INSERT INTO `azure_azurecloud.eastus_ips` (`ip_address`, `ip_type`) VALUES ('57.
 INSERT INTO `azure_azurecloud.eastus_ips` (`ip_address`, `ip_type`) VALUES ('57.152.0.0/17', 'IPv4');
 INSERT INTO `azure_azurecloud.eastus_ips` (`ip_address`, `ip_type`) VALUES ('57.154.192.0/18', 'IPv4');
 INSERT INTO `azure_azurecloud.eastus_ips` (`ip_address`, `ip_type`) VALUES ('57.157.32.0/23', 'IPv4');
-INSERT INTO `azure_azurecloud.eastus_ips` (`ip_address`, `ip_type`) VALUES ('57.157.34.0/28', 'IPv4');
-INSERT INTO `azure_azurecloud.eastus_ips` (`ip_address`, `ip_type`) VALUES ('57.157.34.16/29', 'IPv4');
-INSERT INTO `azure_azurecloud.eastus_ips` (`ip_address`, `ip_type`) VALUES ('57.157.34.24/31', 'IPv4');
+INSERT INTO `azure_azurecloud.eastus_ips` (`ip_address`, `ip_type`) VALUES ('57.157.34.0/26', 'IPv4');
+INSERT INTO `azure_azurecloud.eastus_ips` (`ip_address`, `ip_type`) VALUES ('57.157.34.64/29', 'IPv4');
+INSERT INTO `azure_azurecloud.eastus_ips` (`ip_address`, `ip_type`) VALUES ('57.162.128.0/17', 'IPv4');
 INSERT INTO `azure_azurecloud.eastus_ips` (`ip_address`, `ip_type`) VALUES ('65.54.19.128/27', 'IPv4');
 INSERT INTO `azure_azurecloud.eastus_ips` (`ip_address`, `ip_type`) VALUES ('68.220.88.0/21', 'IPv4');
 INSERT INTO `azure_azurecloud.eastus_ips` (`ip_address`, `ip_type`) VALUES ('70.152.8.0/24', 'IPv4');

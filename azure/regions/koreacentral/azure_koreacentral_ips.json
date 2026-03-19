@@ -1920,6 +1920,12 @@
     "region": "koreacentral"
   },
   {
+    "ip_address": "4.230.126.192/27",
+    "ip_type": "IPv4",
+    "service": "Dynamics365ForMarketingEmail.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
     "ip_address": "20.41.64.72/29",
     "ip_type": "IPv4",
     "service": "GatewayManager.KoreaCentral",

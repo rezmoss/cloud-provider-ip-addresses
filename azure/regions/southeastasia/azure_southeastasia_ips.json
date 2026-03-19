@@ -2466,7 +2466,19 @@
     "region": "southeastasia"
   },
   {
-    "ip_address": "2603:1040:6::/48",
+    "ip_address": "2603:1040:6::/49",
+    "ip_type": "IPv6",
+    "service": "Storage.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "2603:1040:6:8000::/63",
+    "ip_type": "IPv6",
+    "service": "Storage.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "2603:1040:6:8002::/64",
     "ip_type": "IPv6",
     "service": "Storage.SoutheastAsia",
     "region": "southeastasia"
@@ -2649,6 +2661,12 @@
     "ip_address": "2603:1040:5:c02::210/124",
     "ip_type": "IPv6",
     "service": "DataFactory.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "57.155.153.0/27",
+    "ip_type": "IPv4",
+    "service": "Dynamics365ForMarketingEmail.SoutheastAsia",
     "region": "southeastasia"
   },
   {

@@ -373,6 +373,7 @@ INSERT INTO `azure_storage_ips` (`ip_address`, `ip_type`) VALUES ('52.241.88.32/
 INSERT INTO `azure_storage_ips` (`ip_address`, `ip_type`) VALUES ('52.241.88.64/27', 'IPv4');
 INSERT INTO `azure_storage_ips` (`ip_address`, `ip_type`) VALUES ('52.245.40.0/24', 'IPv4');
 INSERT INTO `azure_storage_ips` (`ip_address`, `ip_type`) VALUES ('57.150.0.0/16', 'IPv4');
+INSERT INTO `azure_storage_ips` (`ip_address`, `ip_type`) VALUES ('57.163.0.0/16', 'IPv4');
 INSERT INTO `azure_storage_ips` (`ip_address`, `ip_type`) VALUES ('104.41.232.16/28', 'IPv4');
 INSERT INTO `azure_storage_ips` (`ip_address`, `ip_type`) VALUES ('104.42.200.16/28', 'IPv4');
 INSERT INTO `azure_storage_ips` (`ip_address`, `ip_type`) VALUES ('104.46.31.16/28', 'IPv4');

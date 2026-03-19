@@ -125,3 +125,5 @@ INSERT INTO `azure_marketplace_ips` (`ip_address`, `ip_type`) VALUES ('135.225.4
 INSERT INTO `azure_marketplace_ips` (`ip_address`, `ip_type`) VALUES ('168.61.140.32/28', 'IPv4');
 INSERT INTO `azure_marketplace_ips` (`ip_address`, `ip_type`) VALUES ('172.175.149.16/28', 'IPv4');
 INSERT INTO `azure_marketplace_ips` (`ip_address`, `ip_type`) VALUES ('172.175.149.32/30', 'IPv4');
+INSERT INTO `azure_marketplace_ips` (`ip_address`, `ip_type`) VALUES ('172.182.30.224/28', 'IPv4');
+INSERT INTO `azure_marketplace_ips` (`ip_address`, `ip_type`) VALUES ('172.182.31.0/26', 'IPv4');

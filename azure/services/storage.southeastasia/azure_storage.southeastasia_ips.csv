@@ -49,4 +49,6 @@ ip_address,ip_type,service,region
 168.63.180.64/26,IPv4,Storage.SoutheastAsia,southeastasia
 191.238.64.64/26,IPv4,Storage.SoutheastAsia,southeastasia
 191.238.64.192/28,IPv4,Storage.SoutheastAsia,southeastasia
-2603:1040:6::/48,IPv6,Storage.SoutheastAsia,southeastasia
+2603:1040:6::/49,IPv6,Storage.SoutheastAsia,southeastasia
+2603:1040:6:8000::/63,IPv6,Storage.SoutheastAsia,southeastasia
+2603:1040:6:8002::/64,IPv6,Storage.SoutheastAsia,southeastasia

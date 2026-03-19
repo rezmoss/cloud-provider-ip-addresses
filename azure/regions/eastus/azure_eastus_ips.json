@@ -10692,19 +10692,19 @@
     "region": "eastus"
   },
   {
-    "ip_address": "57.157.34.0/28",
+    "ip_address": "57.157.34.0/26",
     "ip_type": "IPv4",
     "service": "AzureCloud.eastus",
     "region": "eastus"
   },
   {
-    "ip_address": "57.157.34.16/29",
+    "ip_address": "57.157.34.64/29",
     "ip_type": "IPv4",
     "service": "AzureCloud.eastus",
     "region": "eastus"
   },
   {
-    "ip_address": "57.157.34.24/31",
+    "ip_address": "57.162.128.0/17",
     "ip_type": "IPv4",
     "service": "AzureCloud.eastus",
     "region": "eastus"

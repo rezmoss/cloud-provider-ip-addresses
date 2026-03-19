@@ -8082,19 +8082,7 @@
     "region": "centralus"
   },
   {
-    "ip_address": "57.157.44.192/29",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.centralus",
-    "region": "centralus"
-  },
-  {
-    "ip_address": "57.157.44.200/30",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.centralus",
-    "region": "centralus"
-  },
-  {
-    "ip_address": "57.157.44.204/31",
+    "ip_address": "57.157.44.192/28",
     "ip_type": "IPv4",
     "service": "AzureCloud.centralus",
     "region": "centralus"
@@ -9660,7 +9648,7 @@
     "region": "centralus"
   },
   {
-    "ip_address": "2603:1030:9:87c::/64",
+    "ip_address": "2603:1030:9:87c::/63",
     "ip_type": "IPv6",
     "service": "AzureCloud.centralus",
     "region": "centralus"

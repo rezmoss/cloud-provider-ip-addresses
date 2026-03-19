@@ -78,6 +78,12 @@
     "region": "swedencentral"
   },
   {
+    "ip_address": "145.190.164.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
     "ip_address": "2603:1020:1005::/48",
     "ip_type": "IPv6",
     "service": "Storage.SwedenCentral",

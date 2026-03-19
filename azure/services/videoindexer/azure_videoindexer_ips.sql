@@ -121,6 +121,8 @@ INSERT INTO `azure_videoindexer_ips` (`ip_address`, `ip_type`) VALUES ('20.217.5
 INSERT INTO `azure_videoindexer_ips` (`ip_address`, `ip_type`) VALUES ('20.217.254.208/30', 'IPv4');
 INSERT INTO `azure_videoindexer_ips` (`ip_address`, `ip_type`) VALUES ('20.218.190.246/31', 'IPv4');
 INSERT INTO `azure_videoindexer_ips` (`ip_address`, `ip_type`) VALUES ('20.218.191.56/29', 'IPv4');
+INSERT INTO `azure_videoindexer_ips` (`ip_address`, `ip_type`) VALUES ('20.244.209.214/31', 'IPv4');
+INSERT INTO `azure_videoindexer_ips` (`ip_address`, `ip_type`) VALUES ('20.244.210.160/29', 'IPv4');
 INSERT INTO `azure_videoindexer_ips` (`ip_address`, `ip_type`) VALUES ('40.64.11.96/31', 'IPv4');
 INSERT INTO `azure_videoindexer_ips` (`ip_address`, `ip_type`) VALUES ('40.64.11.98/32', 'IPv4');
 INSERT INTO `azure_videoindexer_ips` (`ip_address`, `ip_type`) VALUES ('40.80.96.16/31', 'IPv4');
@@ -155,6 +157,8 @@ INSERT INTO `azure_videoindexer_ips` (`ip_address`, `ip_type`) VALUES ('68.221.8
 INSERT INTO `azure_videoindexer_ips` (`ip_address`, `ip_type`) VALUES ('70.153.158.196/30', 'IPv4');
 INSERT INTO `azure_videoindexer_ips` (`ip_address`, `ip_type`) VALUES ('74.7.47.32/30', 'IPv4');
 INSERT INTO `azure_videoindexer_ips` (`ip_address`, `ip_type`) VALUES ('74.7.181.120/30', 'IPv4');
+INSERT INTO `azure_videoindexer_ips` (`ip_address`, `ip_type`) VALUES ('74.225.115.102/31', 'IPv4');
+INSERT INTO `azure_videoindexer_ips` (`ip_address`, `ip_type`) VALUES ('74.225.118.16/29', 'IPv4');
 INSERT INTO `azure_videoindexer_ips` (`ip_address`, `ip_type`) VALUES ('74.242.4.94/31', 'IPv4');
 INSERT INTO `azure_videoindexer_ips` (`ip_address`, `ip_type`) VALUES ('74.242.5.176/29', 'IPv4');
 INSERT INTO `azure_videoindexer_ips` (`ip_address`, `ip_type`) VALUES ('98.66.133.146/31', 'IPv4');

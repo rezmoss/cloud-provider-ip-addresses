@@ -300,7 +300,19 @@
     "region": "southeastasia"
   },
   {
-    "ip_address": "2603:1040:6::/48",
+    "ip_address": "2603:1040:6::/49",
+    "ip_type": "IPv6",
+    "service": "Storage.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "2603:1040:6:8000::/63",
+    "ip_type": "IPv6",
+    "service": "Storage.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "2603:1040:6:8002::/64",
     "ip_type": "IPv6",
     "service": "Storage.SoutheastAsia",
     "region": "southeastasia"

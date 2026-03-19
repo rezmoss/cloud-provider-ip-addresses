@@ -1578,6 +1578,12 @@
     "region": ""
   },
   {
+    "ip_address": "48.193.55.108/31",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure",
+    "region": ""
+  },
+  {
     "ip_address": "48.196.92.188/30",
     "ip_type": "IPv4",
     "service": "AzureArcInfrastructure",
@@ -2389,6 +2395,12 @@
   },
   {
     "ip_address": "85.211.237.44/32",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure",
+    "region": ""
+  },
+  {
+    "ip_address": "85.211.237.118/31",
     "ip_type": "IPv4",
     "service": "AzureArcInfrastructure",
     "region": ""
@@ -3276,6 +3288,12 @@
     "region": ""
   },
   {
+    "ip_address": "2603:1040:1602:5::56/127",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure",
+    "region": ""
+  },
+  {
     "ip_address": "2603:1040:1702:2::20/124",
     "ip_type": "IPv6",
     "service": "AzureArcInfrastructure",
@@ -3295,6 +3313,12 @@
   },
   {
     "ip_address": "2603:1040:1802:7::164/128",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1040:1802:7::166/127",
     "ip_type": "IPv6",
     "service": "AzureArcInfrastructure",
     "region": ""

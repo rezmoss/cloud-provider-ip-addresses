@@ -36,4 +36,5 @@ INSERT INTO `azure_storage.japaneast_ips` (`ip_address`, `ip_type`) VALUES ('40.
 INSERT INTO `azure_storage.japaneast_ips` (`ip_address`, `ip_type`) VALUES ('52.239.144.0/23', 'IPv4');
 INSERT INTO `azure_storage.japaneast_ips` (`ip_address`, `ip_type`) VALUES ('57.150.138.0/23', 'IPv4');
 INSERT INTO `azure_storage.japaneast_ips` (`ip_address`, `ip_type`) VALUES ('57.150.170.0/23', 'IPv4');
+INSERT INTO `azure_storage.japaneast_ips` (`ip_address`, `ip_type`) VALUES ('145.190.165.0/24', 'IPv4');
 INSERT INTO `azure_storage.japaneast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:408::/48', 'IPv6');

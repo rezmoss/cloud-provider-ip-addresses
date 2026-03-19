@@ -7,9 +7,11 @@ CREATE TABLE IF NOT EXISTS `azure_azurearcinfrastructure.indonesiacentral_ips` (
 );
 
 INSERT INTO `azure_azurearcinfrastructure.indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('48.193.54.104/31', 'IPv4');
+INSERT INTO `azure_azurearcinfrastructure.indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('48.193.55.108/31', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('70.153.67.251/32', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('70.153.165.84/30', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('70.153.176.52/32', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1802:1::710/124', 'IPv6');
 INSERT INTO `azure_azurearcinfrastructure.indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1802:7::114/128', 'IPv6');
 INSERT INTO `azure_azurearcinfrastructure.indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1802:7::164/128', 'IPv6');
+INSERT INTO `azure_azurearcinfrastructure.indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1802:7::166/127', 'IPv6');

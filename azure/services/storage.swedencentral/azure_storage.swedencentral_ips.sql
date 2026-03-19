@@ -19,4 +19,5 @@ INSERT INTO `azure_storage.swedencentral_ips` (`ip_address`, `ip_type`) VALUES (
 INSERT INTO `azure_storage.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('57.150.58.0/23', 'IPv4');
 INSERT INTO `azure_storage.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('135.130.110.0/23', 'IPv4');
 INSERT INTO `azure_storage.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('145.190.140.0/24', 'IPv4');
+INSERT INTO `azure_storage.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('145.190.164.0/24', 'IPv4');
 INSERT INTO `azure_storage.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1005::/48', 'IPv6');

@@ -17,6 +17,7 @@ INSERT INTO `azure_azuredevops_ips` (`ip_address`, `ip_type`) VALUES ('20.42.5.0
 INSERT INTO `azure_azuredevops_ips` (`ip_address`, `ip_type`) VALUES ('20.42.134.0/23', 'IPv4');
 INSERT INTO `azure_azuredevops_ips` (`ip_address`, `ip_type`) VALUES ('20.42.226.0/24', 'IPv4');
 INSERT INTO `azure_azuredevops_ips` (`ip_address`, `ip_type`) VALUES ('20.45.196.64/26', 'IPv4');
+INSERT INTO `azure_azuredevops_ips` (`ip_address`, `ip_type`) VALUES ('20.91.91.32/28', 'IPv4');
 INSERT INTO `azure_azuredevops_ips` (`ip_address`, `ip_type`) VALUES ('20.91.148.128/25', 'IPv4');
 INSERT INTO `azure_azuredevops_ips` (`ip_address`, `ip_type`) VALUES ('20.125.155.0/24', 'IPv4');
 INSERT INTO `azure_azuredevops_ips` (`ip_address`, `ip_type`) VALUES ('20.166.41.0/24', 'IPv4');
@@ -43,6 +44,7 @@ INSERT INTO `azure_azuredevops_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020
 INSERT INTO `azure_azuredevops_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:605:c::100/125', 'IPv6');
 INSERT INTO `azure_azuredevops_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:705:13::600/120', 'IPv6');
 INSERT INTO `azure_azuredevops_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1004:b::580/121', 'IPv6');
+INSERT INTO `azure_azuredevops_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1104:8::118/125', 'IPv6');
 INSERT INTO `azure_azuredevops_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f:e::380/122', 'IPv6');
 INSERT INTO `azure_azuredevops_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:10:1c::600/119', 'IPv6');
 INSERT INTO `azure_azuredevops_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:210:2b::200/120', 'IPv6');

@@ -42,6 +42,12 @@
     "region": "malaysiawest"
   },
   {
+    "ip_address": "85.211.237.118/31",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.MalaysiaWest",
+    "region": "malaysiawest"
+  },
+  {
     "ip_address": "2603:1040:1602:2::130/124",
     "ip_type": "IPv6",
     "service": "AzureArcInfrastructure.MalaysiaWest",
@@ -55,6 +61,12 @@
   },
   {
     "ip_address": "2603:1040:1602:5::54/128",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.MalaysiaWest",
+    "region": "malaysiawest"
+  },
+  {
+    "ip_address": "2603:1040:1602:5::56/127",
     "ip_type": "IPv6",
     "service": "AzureArcInfrastructure.MalaysiaWest",
     "region": "malaysiawest"

@@ -1596,6 +1596,12 @@
     "region": "swedencentral"
   },
   {
+    "ip_address": "145.190.164.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
     "ip_address": "2603:1020:1005::/48",
     "ip_type": "IPv6",
     "service": "Storage.SwedenCentral",
@@ -1725,6 +1731,12 @@
     "ip_address": "2603:1020:1004:c02::380/124",
     "ip_type": "IPv6",
     "service": "DataFactory.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "4.166.33.32/27",
+    "ip_type": "IPv4",
+    "service": "Dynamics365ForMarketingEmail.SwedenCentral",
     "region": "swedencentral"
   },
   {
@@ -3048,6 +3060,18 @@
     "region": "swedencentral"
   },
   {
+    "ip_address": "57.157.68.232/30",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.swedencentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "57.157.68.236/31",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.swedencentral",
+    "region": "swedencentral"
+  },
+  {
     "ip_address": "70.152.27.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.swedencentral",
@@ -3109,6 +3133,12 @@
   },
   {
     "ip_address": "145.190.140.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.swedencentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "145.190.164.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.swedencentral",
     "region": "swedencentral"

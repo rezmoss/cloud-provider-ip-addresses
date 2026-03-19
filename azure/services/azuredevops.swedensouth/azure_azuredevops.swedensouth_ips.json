@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "20.91.91.32/28",
+    "ip_type": "IPv4",
+    "service": "AzureDevOps.SwedenSouth",
+    "region": "swedensouth"
+  },
+  {
+    "ip_address": "2603:1020:1104:8::118/125",
+    "ip_type": "IPv6",
+    "service": "AzureDevOps.SwedenSouth",
+    "region": "swedensouth"
+  }
+]

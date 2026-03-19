@@ -708,6 +708,12 @@
     "region": "germanywc"
   },
   {
+    "ip_address": "57.157.60.212/31",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.germanywc",
+    "region": "germanywc"
+  },
+  {
     "ip_address": "70.152.12.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.germanywc",

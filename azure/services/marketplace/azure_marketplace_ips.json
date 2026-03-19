@@ -712,5 +712,17 @@
     "ip_type": "IPv4",
     "service": "Marketplace",
     "region": ""
+  },
+  {
+    "ip_address": "172.182.30.224/28",
+    "ip_type": "IPv4",
+    "service": "Marketplace",
+    "region": ""
+  },
+  {
+    "ip_address": "172.182.31.0/26",
+    "ip_type": "IPv4",
+    "service": "Marketplace",
+    "region": ""
   }
 ]

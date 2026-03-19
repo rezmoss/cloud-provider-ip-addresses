@@ -1704,6 +1704,12 @@
     "region": "norwaye"
   },
   {
+    "ip_address": "4.219.25.224/27",
+    "ip_type": "IPv4",
+    "service": "Dynamics365ForMarketingEmail.NorwayEast",
+    "region": "norwaye"
+  },
+  {
     "ip_address": "51.120.40.72/29",
     "ip_type": "IPv4",
     "service": "GatewayManager.NorwayEast",

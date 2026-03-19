@@ -290,6 +290,7 @@ INSERT INTO `azure_norwaye_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:e04
 INSERT INTO `azure_norwaye_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:e04:402::330/124', 'IPv6');
 INSERT INTO `azure_norwaye_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:e04:802::210/124', 'IPv6');
 INSERT INTO `azure_norwaye_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:e04:c02::210/124', 'IPv6');
+INSERT INTO `azure_norwaye_ips` (`ip_address`, `ip_type`) VALUES ('4.219.25.224/27', 'IPv4');
 INSERT INTO `azure_norwaye_ips` (`ip_address`, `ip_type`) VALUES ('51.120.40.72/29', 'IPv4');
 INSERT INTO `azure_norwaye_ips` (`ip_address`, `ip_type`) VALUES ('51.120.98.168/29', 'IPv4');
 INSERT INTO `azure_norwaye_ips` (`ip_address`, `ip_type`) VALUES ('51.120.235.128/26', 'IPv4');
