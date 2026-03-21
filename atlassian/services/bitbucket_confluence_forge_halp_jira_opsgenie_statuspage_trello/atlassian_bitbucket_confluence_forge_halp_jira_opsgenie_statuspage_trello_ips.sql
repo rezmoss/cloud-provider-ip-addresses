@@ -37,7 +37,6 @@ INSERT INTO `atlassian_bitbucket_confluence_forge_halp_jira_opsgenie_statuspage_
 INSERT INTO `atlassian_bitbucket_confluence_forge_halp_jira_opsgenie_statuspage_trello_ips` (`ip_address`, `ip_type`) VALUES ('2401:1d80:3224:4::/64', 'IPv6');
 INSERT INTO `atlassian_bitbucket_confluence_forge_halp_jira_opsgenie_statuspage_trello_ips` (`ip_address`, `ip_type`) VALUES ('2401:1d80:3224:5::/64', 'IPv6');
 INSERT INTO `atlassian_bitbucket_confluence_forge_halp_jira_opsgenie_statuspage_trello_ips` (`ip_address`, `ip_type`) VALUES ('13.52.5.96/28', 'IPv4');
-INSERT INTO `atlassian_bitbucket_confluence_forge_halp_jira_opsgenie_statuspage_trello_ips` (`ip_address`, `ip_type`) VALUES ('104.192.138.240/28', 'IPv4');
 INSERT INTO `atlassian_bitbucket_confluence_forge_halp_jira_opsgenie_statuspage_trello_ips` (`ip_address`, `ip_type`) VALUES ('18.246.31.224/28', 'IPv4');
 INSERT INTO `atlassian_bitbucket_confluence_forge_halp_jira_opsgenie_statuspage_trello_ips` (`ip_address`, `ip_type`) VALUES ('104.192.140.240/28', 'IPv4');
 INSERT INTO `atlassian_bitbucket_confluence_forge_halp_jira_opsgenie_statuspage_trello_ips` (`ip_address`, `ip_type`) VALUES ('2406:da18:809:e04::/64', 'IPv6');
@@ -64,5 +63,4 @@ INSERT INTO `atlassian_bitbucket_confluence_forge_halp_jira_opsgenie_statuspage_
 INSERT INTO `atlassian_bitbucket_confluence_forge_halp_jira_opsgenie_statuspage_trello_ips` (`ip_address`, `ip_type`) VALUES ('104.192.143.0/24', 'IPv4');
 INSERT INTO `atlassian_bitbucket_confluence_forge_halp_jira_opsgenie_statuspage_trello_ips` (`ip_address`, `ip_type`) VALUES ('185.166.143.0/24', 'IPv4');
 INSERT INTO `atlassian_bitbucket_confluence_forge_halp_jira_opsgenie_statuspage_trello_ips` (`ip_address`, `ip_type`) VALUES ('185.166.142.0/24', 'IPv4');
-INSERT INTO `atlassian_bitbucket_confluence_forge_halp_jira_opsgenie_statuspage_trello_ips` (`ip_address`, `ip_type`) VALUES ('104.192.138.0/24', 'IPv4');
 INSERT INTO `atlassian_bitbucket_confluence_forge_halp_jira_opsgenie_statuspage_trello_ips` (`ip_address`, `ip_type`) VALUES ('104.192.140.0/24', 'IPv4');

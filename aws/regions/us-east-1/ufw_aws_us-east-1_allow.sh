@@ -1,6 +1,6 @@
 #!/bin/bash
 # Aws IP Ranges
-# Updated: 2026-03-19 02:02:23
+# Updated: 2026-03-21 01:50:27
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -37,7 +37,6 @@ ufw allow from 52.95.41.0/24
 ufw allow from 3.4.0.0/24
 ufw allow from 52.94.152.44/32
 ufw allow from 3.4.12.39/32
-ufw allow from 15.248.139.1/32
 ufw allow from 52.93.91.102/32
 ufw allow from 69.107.10.80/29
 ufw allow from 150.247.33.0/24
@@ -187,7 +186,6 @@ ufw allow from 52.93.127.18/32
 ufw allow from 69.107.11.168/29
 ufw allow from 150.222.103.0/24
 ufw allow from 205.251.246.0/24
-ufw allow from 15.248.139.2/32
 ufw allow from 52.93.84.197/32
 ufw allow from 69.107.3.184/29
 ufw allow from 69.107.10.176/29
@@ -1517,6 +1515,7 @@ ufw allow from 2600:1f2c:8000::/36
 ufw allow from 2600:1f15:8000::/36
 ufw allow from 2600:1f01:480c::/47
 ufw allow from 2600:f0f0:6101::/48
+ufw allow from 2600:f0f1:12::/47
 ufw allow from 2620:107:4000:8002::/64
 ufw allow from 2600:f0fb:e900::/40
 ufw allow from 2600:1f17:8000::/36
@@ -1752,6 +1751,7 @@ ufw allow from 2600:1f27:c000::/36
 ufw allow from 2600:1f2c:8000::/36
 ufw allow from 2600:1f15:8000::/36
 ufw allow from 2600:f0f0:6101::/48
+ufw allow from 2600:f0f1:12::/47
 ufw allow from 2600:f0fb:e900::/40
 ufw allow from 2600:1f17:8000::/36
 ufw allow from 2600:f0f0:610a::/48

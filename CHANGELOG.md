@@ -2,17 +2,17 @@
 
 Daily IP range changes across all providers.
 
-## 2026-03-19
+## 2026-03-21
 
-### azure
-- Added: 65 CIDRs
-- Removed: 39 CIDRs
+### digitalocean
+- Added: 1 CIDRs
+- Removed: 0 CIDRs
 
 ### aws
-- Added: 9 CIDRs
+- Added: 3 CIDRs
 - Removed: 6 CIDRs
 
-### github
-- Added: 28 CIDRs
-- Removed: 23 CIDRs
+### atlassian
+- Added: 0 CIDRs
+- Removed: 3 CIDRs
 

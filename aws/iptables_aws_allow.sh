@@ -1,6 +1,6 @@
 #!/bin/bash
 # Aws IP Ranges
-# Updated: 2026-03-19 02:02:22
+# Updated: 2026-03-21 01:50:26
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -212,7 +212,6 @@ iptables -A INPUT -s 3.4.15.48/29 -j ACCEPT
 iptables -A INPUT -s 13.248.72.0/24 -j ACCEPT
 iptables -A INPUT -s 15.230.4.129/32 -j ACCEPT
 iptables -A INPUT -s 15.230.39.196/31 -j ACCEPT
-iptables -A INPUT -s 15.248.139.1/32 -j ACCEPT
 iptables -A INPUT -s 15.251.0.9/32 -j ACCEPT
 iptables -A INPUT -s 35.71.99.0/24 -j ACCEPT
 iptables -A INPUT -s 51.46.0.0/15 -j ACCEPT
@@ -1208,7 +1207,6 @@ iptables -A INPUT -s 3.96.0.0/15 -j ACCEPT
 iptables -A INPUT -s 15.220.48.0/21 -j ACCEPT
 iptables -A INPUT -s 15.230.15.8/32 -j ACCEPT
 iptables -A INPUT -s 15.230.197.0/24 -j ACCEPT
-iptables -A INPUT -s 15.248.139.2/32 -j ACCEPT
 iptables -A INPUT -s 40.173.0.0/16 -j ACCEPT
 iptables -A INPUT -s 52.93.84.197/32 -j ACCEPT
 iptables -A INPUT -s 52.93.127.108/32 -j ACCEPT
@@ -4445,6 +4443,7 @@ iptables -A INPUT -s 15.230.9.44/32 -j ACCEPT
 iptables -A INPUT -s 15.230.186.0/24 -j ACCEPT
 iptables -A INPUT -s 15.230.216.0/31 -j ACCEPT
 iptables -A INPUT -s 35.50.230.0/24 -j ACCEPT
+iptables -A INPUT -s 40.235.192.0/18 -j ACCEPT
 iptables -A INPUT -s 52.93.126.214/32 -j ACCEPT
 iptables -A INPUT -s 52.93.127.173/32 -j ACCEPT
 iptables -A INPUT -s 52.93.152.196/32 -j ACCEPT
@@ -7901,6 +7900,7 @@ iptables -A INPUT -s 173.83.212.0/24 -j ACCEPT
 iptables -A INPUT -s 216.244.1.0/24 -j ACCEPT
 iptables -A INPUT -s 3.5.56.0/22 -j ACCEPT
 iptables -A INPUT -s 35.50.230.0/24 -j ACCEPT
+iptables -A INPUT -s 40.235.192.0/18 -j ACCEPT
 iptables -A INPUT -s 52.95.250.0/24 -j ACCEPT
 iptables -A INPUT -s 64.252.67.0/24 -j ACCEPT
 iptables -A INPUT -s 64.252.97.0/24 -j ACCEPT
@@ -11647,6 +11647,7 @@ ip6tables -A INPUT -s 2600:1f28:c000::/36 -j ACCEPT
 ip6tables -A INPUT -s 2600:1fba:6000::/40 -j ACCEPT
 ip6tables -A INPUT -s 2600:f0f0:6101::/48 -j ACCEPT
 ip6tables -A INPUT -s 2600:f0f0:610c::/48 -j ACCEPT
+ip6tables -A INPUT -s 2600:f0f1:12::/47 -j ACCEPT
 ip6tables -A INPUT -s 2600:f0f1:4240::/42 -j ACCEPT
 ip6tables -A INPUT -s 2606:7b40:1b0c:c000::/56 -j ACCEPT
 ip6tables -A INPUT -s 2620:107:4000:8002::/64 -j ACCEPT
@@ -12202,6 +12203,7 @@ ip6tables -A INPUT -s 2600:f0f0:1:1600::/56 -j ACCEPT
 ip6tables -A INPUT -s 2600:f0f0:4101::/48 -j ACCEPT
 ip6tables -A INPUT -s 2600:f0f0:5526::/48 -j ACCEPT
 ip6tables -A INPUT -s 2606:f40:2200::/40 -j ACCEPT
+ip6tables -A INPUT -s 2606:7b40:1000:72a0::/60 -j ACCEPT
 ip6tables -A INPUT -s 2620:107:4000:900b::/64 -j ACCEPT
 ip6tables -A INPUT -s 2620:107:4007::/64 -j ACCEPT
 ip6tables -A INPUT -s 2a05:d03a:b000::/40 -j ACCEPT
@@ -12700,6 +12702,7 @@ ip6tables -A INPUT -s 2406:daa0:8000::/40 -j ACCEPT
 ip6tables -A INPUT -s 2001:3fc7:9800::/40 -j ACCEPT
 ip6tables -A INPUT -s 2406:daf0:4800::/40 -j ACCEPT
 ip6tables -A INPUT -s 240f:80fa:8000::/40 -j ACCEPT
+ip6tables -A INPUT -s 2600:1f60:ec00::/40 -j ACCEPT
 ip6tables -A INPUT -s 2a05:d059:a000::/40 -j ACCEPT
 ip6tables -A INPUT -s 2406:daef:6000::/40 -j ACCEPT
 ip6tables -A INPUT -s 2406:daf8:4800::/40 -j ACCEPT
@@ -12720,7 +12723,6 @@ ip6tables -A INPUT -s 2a05:d078:b000::/40 -j ACCEPT
 ip6tables -A INPUT -s 2600:1fef:c000::/40 -j ACCEPT
 ip6tables -A INPUT -s 2600:1ff0:6000::/40 -j ACCEPT
 ip6tables -A INPUT -s 2406:dab9:c000::/40 -j ACCEPT
-ip6tables -A INPUT -s 2600:1f60:ec80::/48 -j ACCEPT
 ip6tables -A INPUT -s 2600:1fef:6000::/40 -j ACCEPT
 ip6tables -A INPUT -s 2406:dab9:a000::/40 -j ACCEPT
 ip6tables -A INPUT -s 2406:daf9:c800::/40 -j ACCEPT
@@ -12777,7 +12779,6 @@ ip6tables -A INPUT -s 2406:daf0:1000::/40 -j ACCEPT
 ip6tables -A INPUT -s 2406:daf4:1000::/40 -j ACCEPT
 ip6tables -A INPUT -s 2406:dafa:6000::/40 -j ACCEPT
 ip6tables -A INPUT -s 2406:daa0:8800::/40 -j ACCEPT
-ip6tables -A INPUT -s 2600:1f60:ecc0::/48 -j ACCEPT
 ip6tables -A INPUT -s 2600:1ff8:2000::/40 -j ACCEPT
 ip6tables -A INPUT -s 2a05:d059:800::/40 -j ACCEPT
 ip6tables -A INPUT -s 2406:dab9:4000::/40 -j ACCEPT
@@ -12831,7 +12832,6 @@ ip6tables -A INPUT -s 2a05:d050:e000::/40 -j ACCEPT
 ip6tables -A INPUT -s 2a05:d078:1000::/40 -j ACCEPT
 ip6tables -A INPUT -s 2a05:d078:4000::/40 -j ACCEPT
 ip6tables -A INPUT -s 2a05:d07a:8000::/40 -j ACCEPT
-ip6tables -A INPUT -s 2600:1f60:ec00::/56 -j ACCEPT
 ip6tables -A INPUT -s 2a05:d050:9000::/40 -j ACCEPT
 ip6tables -A INPUT -s 2406:daf4:6000::/40 -j ACCEPT
 ip6tables -A INPUT -s 2406:daf0:8000::/40 -j ACCEPT
@@ -12906,7 +12906,6 @@ ip6tables -A INPUT -s 2600:1ffa:e000::/40 -j ACCEPT
 ip6tables -A INPUT -s 2406:daf0:e000::/40 -j ACCEPT
 ip6tables -A INPUT -s 2600:1fa0:7400::/40 -j ACCEPT
 ip6tables -A INPUT -s 2600:1ffa:8000::/40 -j ACCEPT
-ip6tables -A INPUT -s 2600:1f60:ec40::/48 -j ACCEPT
 ip6tables -A INPUT -s 2600:1fa0:a400::/40 -j ACCEPT
 ip6tables -A INPUT -s 2600:1ff8:7400::/40 -j ACCEPT
 ip6tables -A INPUT -s 2600:1ff9:8000::/39 -j ACCEPT
@@ -14514,6 +14513,7 @@ ip6tables -A INPUT -s 2600:1f28:c000::/36 -j ACCEPT
 ip6tables -A INPUT -s 2600:1fba:6000::/40 -j ACCEPT
 ip6tables -A INPUT -s 2600:f0f0:6101::/48 -j ACCEPT
 ip6tables -A INPUT -s 2600:f0f0:610c::/48 -j ACCEPT
+ip6tables -A INPUT -s 2600:f0f1:12::/47 -j ACCEPT
 ip6tables -A INPUT -s 2600:f0f1:4240::/42 -j ACCEPT
 ip6tables -A INPUT -s 2606:7b40:1b0c:c000::/56 -j ACCEPT
 ip6tables -A INPUT -s 2001:3fc6:8::/45 -j ACCEPT
@@ -14954,6 +14954,7 @@ ip6tables -A INPUT -s 2600:f0f0:1:1600::/56 -j ACCEPT
 ip6tables -A INPUT -s 2600:f0f0:4101::/48 -j ACCEPT
 ip6tables -A INPUT -s 2600:f0f0:5526::/48 -j ACCEPT
 ip6tables -A INPUT -s 2606:f40:2200::/40 -j ACCEPT
+ip6tables -A INPUT -s 2606:7b40:1000:72a0::/60 -j ACCEPT
 ip6tables -A INPUT -s 2620:107:4007::/64 -j ACCEPT
 ip6tables -A INPUT -s 2a05:d03a:b000::/40 -j ACCEPT
 ip6tables -A INPUT -s 2404:c2c0:ea00::/40 -j ACCEPT

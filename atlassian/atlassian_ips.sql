@@ -29,7 +29,6 @@ INSERT INTO `atlassian_ips` (`ip_address`, `ip_type`) VALUES ('16.63.53.240/28',
 INSERT INTO `atlassian_ips` (`ip_address`, `ip_type`) VALUES ('185.166.142.224/28', 'IPv4');
 INSERT INTO `atlassian_ips` (`ip_address`, `ip_type`) VALUES ('185.166.141.128/28', 'IPv4');
 INSERT INTO `atlassian_ips` (`ip_address`, `ip_type`) VALUES ('104.192.142.224/28', 'IPv4');
-INSERT INTO `atlassian_ips` (`ip_address`, `ip_type`) VALUES ('104.192.138.224/28', 'IPv4');
 INSERT INTO `atlassian_ips` (`ip_address`, `ip_type`) VALUES ('18.246.31.208/28', 'IPv4');
 INSERT INTO `atlassian_ips` (`ip_address`, `ip_type`) VALUES ('185.166.140.112/28', 'IPv4');
 INSERT INTO `atlassian_ips` (`ip_address`, `ip_type`) VALUES ('2401:1d80:3200::/64', 'IPv6');
@@ -87,7 +86,6 @@ INSERT INTO `atlassian_ips` (`ip_address`, `ip_type`) VALUES ('2401:1d80:3224:3:
 INSERT INTO `atlassian_ips` (`ip_address`, `ip_type`) VALUES ('2401:1d80:3224:4::/64', 'IPv6');
 INSERT INTO `atlassian_ips` (`ip_address`, `ip_type`) VALUES ('2401:1d80:3224:5::/64', 'IPv6');
 INSERT INTO `atlassian_ips` (`ip_address`, `ip_type`) VALUES ('13.52.5.96/28', 'IPv4');
-INSERT INTO `atlassian_ips` (`ip_address`, `ip_type`) VALUES ('104.192.138.240/28', 'IPv4');
 INSERT INTO `atlassian_ips` (`ip_address`, `ip_type`) VALUES ('18.246.31.224/28', 'IPv4');
 INSERT INTO `atlassian_ips` (`ip_address`, `ip_type`) VALUES ('18.246.188.32/28', 'IPv4');
 INSERT INTO `atlassian_ips` (`ip_address`, `ip_type`) VALUES ('104.192.140.240/28', 'IPv4');
@@ -127,7 +125,6 @@ INSERT INTO `atlassian_ips` (`ip_address`, `ip_type`) VALUES ('185.166.142.0/24'
 INSERT INTO `atlassian_ips` (`ip_address`, `ip_type`) VALUES ('185.166.140.0/24', 'IPv4');
 INSERT INTO `atlassian_ips` (`ip_address`, `ip_type`) VALUES ('104.192.136.0/24', 'IPv4');
 INSERT INTO `atlassian_ips` (`ip_address`, `ip_type`) VALUES ('185.166.141.0/24', 'IPv4');
-INSERT INTO `atlassian_ips` (`ip_address`, `ip_type`) VALUES ('104.192.138.0/24', 'IPv4');
 INSERT INTO `atlassian_ips` (`ip_address`, `ip_type`) VALUES ('104.192.142.0/24', 'IPv4');
 INSERT INTO `atlassian_ips` (`ip_address`, `ip_type`) VALUES ('104.192.140.0/24', 'IPv4');
 INSERT INTO `atlassian_ips` (`ip_address`, `ip_type`) VALUES ('34.213.22.229/32', 'IPv4');

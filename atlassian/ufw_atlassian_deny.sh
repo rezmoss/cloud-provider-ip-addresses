@@ -1,6 +1,6 @@
 #!/bin/bash
 # Atlassian IP Ranges
-# Updated: 2026-02-11 17:28:52
+# Updated: 2026-03-21 01:51:37
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -30,7 +30,6 @@ ufw deny from 16.63.53.240/28
 ufw deny from 185.166.142.224/28
 ufw deny from 185.166.141.128/28
 ufw deny from 104.192.142.224/28
-ufw deny from 104.192.138.224/28
 ufw deny from 18.246.31.208/28
 ufw deny from 185.166.140.112/28
 ufw deny from 2401:1d80:3200::/64
@@ -88,7 +87,6 @@ ufw deny from 2401:1d80:3224:3::/64
 ufw deny from 2401:1d80:3224:4::/64
 ufw deny from 2401:1d80:3224:5::/64
 ufw deny from 13.52.5.96/28
-ufw deny from 104.192.138.240/28
 ufw deny from 18.246.31.224/28
 ufw deny from 18.246.188.32/28
 ufw deny from 104.192.140.240/28
@@ -128,7 +126,6 @@ ufw deny from 185.166.142.0/24
 ufw deny from 185.166.140.0/24
 ufw deny from 104.192.136.0/24
 ufw deny from 185.166.141.0/24
-ufw deny from 104.192.138.0/24
 ufw deny from 104.192.142.0/24
 ufw deny from 104.192.140.0/24
 ufw deny from 34.213.22.229/32
