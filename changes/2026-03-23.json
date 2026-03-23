@@ -1,0 +1,13 @@
+{
+  "date": "2026-03-23",
+  "changes": {
+    "googlecloud": {
+      "added": [
+        "8.230.96.0/19"
+      ],
+      "removed": [],
+      "added_count": 1,
+      "removed_count": 0
+    }
+  }
+}
