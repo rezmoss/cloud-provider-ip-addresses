@@ -700,6 +700,11 @@
     "service": "googlebot"
   },
   {
+    "ip_address": "2001:4860:4801:b6::/64",
+    "ip_type": "IPv6",
+    "service": "googlebot"
+  },
+  {
     "ip_address": "2001:4860:4801:c::/64",
     "ip_type": "IPv6",
     "service": "googlebot"
@@ -726,6 +731,11 @@
   },
   {
     "ip_address": "192.178.4.192/27",
+    "ip_type": "IPv4",
+    "service": "googlebot"
+  },
+  {
+    "ip_address": "192.178.4.224/27",
     "ip_type": "IPv4",
     "service": "googlebot"
   },

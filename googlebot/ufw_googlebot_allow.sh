@@ -1,6 +1,6 @@
 #!/bin/bash
 # Googlebot IP Ranges
-# Updated: 2026-02-11 15:35:32
+# Updated: 2026-03-24 01:55:35
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -147,12 +147,14 @@ ufw allow from 2001:4860:4801:b2::/64
 ufw allow from 2001:4860:4801:b3::/64
 ufw allow from 2001:4860:4801:b4::/64
 ufw allow from 2001:4860:4801:b5::/64
+ufw allow from 2001:4860:4801:b6::/64
 ufw allow from 2001:4860:4801:c::/64
 ufw allow from 2001:4860:4801:f::/64
 ufw allow from 192.178.4.0/27
 ufw allow from 192.178.4.128/27
 ufw allow from 192.178.4.160/27
 ufw allow from 192.178.4.192/27
+ufw allow from 192.178.4.224/27
 ufw allow from 192.178.4.32/27
 ufw allow from 192.178.4.64/27
 ufw allow from 192.178.4.96/27

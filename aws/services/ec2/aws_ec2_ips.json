@@ -11652,12 +11652,6 @@
     "region": "us-east-1"
   },
   {
-    "ip_address": "2600:1ff1:8000::/39",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "us-east-1"
-  },
-  {
     "ip_address": "2600:f0f0:6108::/48",
     "ip_type": "IPv6",
     "service": "EC2",
@@ -16290,12 +16284,6 @@
     "region": "sa-west-1"
   },
   {
-    "ip_address": "2600:1ff5:8000::/39",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "us-east-1"
-  },
-  {
     "ip_address": "2600:f0f0:e04::/48",
     "ip_type": "IPv6",
     "service": "EC2",
@@ -17470,12 +17458,6 @@
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "2600:1fb8:8000::/39",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "us-east-1"
   },
   {
     "ip_address": "2600:1ff3:c000::/40",
@@ -19774,12 +19756,6 @@
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "us-gov-west-1"
-  },
-  {
-    "ip_address": "2600:1ff1:4000::/39",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "us-west-2"
   },
   {
     "ip_address": "2600:f0f0:1126::/48",

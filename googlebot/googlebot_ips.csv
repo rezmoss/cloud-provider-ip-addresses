@@ -139,12 +139,14 @@ ip_address,ip_type,service
 2001:4860:4801:b3::/64,IPv6,googlebot
 2001:4860:4801:b4::/64,IPv6,googlebot
 2001:4860:4801:b5::/64,IPv6,googlebot
+2001:4860:4801:b6::/64,IPv6,googlebot
 2001:4860:4801:c::/64,IPv6,googlebot
 2001:4860:4801:f::/64,IPv6,googlebot
 192.178.4.0/27,IPv4,googlebot
 192.178.4.128/27,IPv4,googlebot
 192.178.4.160/27,IPv4,googlebot
 192.178.4.192/27,IPv4,googlebot
+192.178.4.224/27,IPv4,googlebot
 192.178.4.32/27,IPv4,googlebot
 192.178.4.64/27,IPv4,googlebot
 192.178.4.96/27,IPv4,googlebot
