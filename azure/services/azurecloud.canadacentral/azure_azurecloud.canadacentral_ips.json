@@ -738,6 +738,12 @@
     "region": "canadacentral"
   },
   {
+    "ip_address": "70.152.220.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadacentral",
+    "region": "canadacentral"
+  },
+  {
     "ip_address": "104.44.93.32/27",
     "ip_type": "IPv4",
     "service": "AzureCloud.canadacentral",

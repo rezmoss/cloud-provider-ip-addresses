@@ -10,5 +10,6 @@ INSERT INTO `azure_storage.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES
 INSERT INTO `azure_storage.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('20.153.44.0/24', 'IPv4');
 INSERT INTO `azure_storage.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('57.150.177.0/24', 'IPv4');
 INSERT INTO `azure_storage.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('57.150.180.0/23', 'IPv4');
+INSERT INTO `azure_storage.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('57.163.12.0/23', 'IPv4');
 INSERT INTO `azure_storage.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('135.130.56.0/23', 'IPv4');
 INSERT INTO `azure_storage.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1703::/48', 'IPv6');

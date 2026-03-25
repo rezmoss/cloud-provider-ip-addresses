@@ -6,6 +6,8 @@ CREATE TABLE IF NOT EXISTS `azure_azuremonitor.australiaeast_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_azuremonitor.australiaeast_ips` (`ip_address`, `ip_type`) VALUES ('4.147.38.128/25', 'IPv4');
+INSERT INTO `azure_azuremonitor.australiaeast_ips` (`ip_address`, `ip_type`) VALUES ('4.147.39.0/27', 'IPv4');
 INSERT INTO `azure_azuremonitor.australiaeast_ips` (`ip_address`, `ip_type`) VALUES ('4.195.7.0/26', 'IPv4');
 INSERT INTO `azure_azuremonitor.australiaeast_ips` (`ip_address`, `ip_type`) VALUES ('4.195.7.64/27', 'IPv4');
 INSERT INTO `azure_azuremonitor.australiaeast_ips` (`ip_address`, `ip_type`) VALUES ('4.195.110.160/28', 'IPv4');

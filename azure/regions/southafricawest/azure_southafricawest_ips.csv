@@ -88,7 +88,17 @@ ip_address,ip_type,service,region
 2603:1000:4:402::80/125,IPv6,AzureKeyVault.SouthAfricaWest,southafricawest
 102.133.27.32/28,IPv4,AzureMachineLearning.SouthAfricaWest,southafricawest
 102.133.58.224/28,IPv4,AzureMachineLearning.SouthAfricaWest,southafricawest
+172.209.114.182/31,IPv4,AzureMachineLearning.SouthAfricaWest,southafricawest
+172.209.114.184/30,IPv4,AzureMachineLearning.SouthAfricaWest,southafricawest
+172.209.114.188/32,IPv4,AzureMachineLearning.SouthAfricaWest,southafricawest
+172.209.114.224/27,IPv4,AzureMachineLearning.SouthAfricaWest,southafricawest
+172.209.115.128/28,IPv4,AzureMachineLearning.SouthAfricaWest,southafricawest
 2603:1000:4::300/122,IPv6,AzureMachineLearning.SouthAfricaWest,southafricawest
+2603:1000:4:6::2bf/128,IPv6,AzureMachineLearning.SouthAfricaWest,southafricawest
+2603:1000:4:7::458/126,IPv6,AzureMachineLearning.SouthAfricaWest,southafricawest
+2603:1000:4:7::45c/127,IPv6,AzureMachineLearning.SouthAfricaWest,southafricawest
+2603:1000:4:7::490/124,IPv6,AzureMachineLearning.SouthAfricaWest,southafricawest
+2603:1000:4:7::4a0/123,IPv6,AzureMachineLearning.SouthAfricaWest,southafricawest
 40.117.24.128/27,IPv4,AzureMonitor.SouthAfricaWest,southafricawest
 102.37.64.128/27,IPv4,AzureMonitor.SouthAfricaWest,southafricawest
 102.37.80.64/27,IPv4,AzureMonitor.SouthAfricaWest,southafricawest

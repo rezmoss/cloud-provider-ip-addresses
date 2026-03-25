@@ -1,3 +1,5 @@
 ip_address,ip_type,service,region
+4.166.33.80/28,IPv4,AzureDevOps.SwedenCentral,swedencentral
 20.91.148.128/25,IPv4,AzureDevOps.SwedenCentral,swedencentral
 2603:1020:1004:b::580/121,IPv6,AzureDevOps.SwedenCentral,swedencentral
+2603:1020:1004:d::3c0/124,IPv6,AzureDevOps.SwedenCentral,swedencentral

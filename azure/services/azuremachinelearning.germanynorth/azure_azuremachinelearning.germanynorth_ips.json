@@ -1,5 +1,35 @@
 [
   {
+    "ip_address": "20.170.250.251/32",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "20.170.252.16/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "20.170.252.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "20.170.253.0/30",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "20.170.253.4/31",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
     "ip_address": "51.116.49.176/28",
     "ip_type": "IPv4",
     "service": "AzureMachineLearning.GermanyNorth",
@@ -13,6 +43,36 @@
   },
   {
     "ip_address": "2603:1020:d04::300/122",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:9::7d1/128",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:9::7d2/127",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:9::7dc/126",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:a::10/124",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:a::20/123",
     "ip_type": "IPv6",
     "service": "AzureMachineLearning.GermanyNorth",
     "region": "germanyn"

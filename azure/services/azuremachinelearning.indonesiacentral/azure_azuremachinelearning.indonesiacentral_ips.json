@@ -1,5 +1,35 @@
 [
   {
+    "ip_address": "48.193.55.110/31",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.IndonesiaCentral",
+    "region": "indonesiacentral"
+  },
+  {
+    "ip_address": "48.193.72.88/30",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.IndonesiaCentral",
+    "region": "indonesiacentral"
+  },
+  {
+    "ip_address": "48.193.72.92/32",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.IndonesiaCentral",
+    "region": "indonesiacentral"
+  },
+  {
+    "ip_address": "48.193.72.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.IndonesiaCentral",
+    "region": "indonesiacentral"
+  },
+  {
+    "ip_address": "48.193.72.160/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.IndonesiaCentral",
+    "region": "indonesiacentral"
+  },
+  {
     "ip_address": "70.153.153.0/27",
     "ip_type": "IPv4",
     "service": "AzureMachineLearning.IndonesiaCentral",
@@ -7,6 +37,36 @@
   },
   {
     "ip_address": "2603:1040:1802:3::c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.IndonesiaCentral",
+    "region": "indonesiacentral"
+  },
+  {
+    "ip_address": "2603:1040:1802:7::168/126",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.IndonesiaCentral",
+    "region": "indonesiacentral"
+  },
+  {
+    "ip_address": "2603:1040:1802:7::16c/127",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.IndonesiaCentral",
+    "region": "indonesiacentral"
+  },
+  {
+    "ip_address": "2603:1040:1802:7::16e/128",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.IndonesiaCentral",
+    "region": "indonesiacentral"
+  },
+  {
+    "ip_address": "2603:1040:1802:7::2a0/123",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.IndonesiaCentral",
+    "region": "indonesiacentral"
+  },
+  {
+    "ip_address": "2603:1040:1802:7::2c0/124",
     "ip_type": "IPv6",
     "service": "AzureMachineLearning.IndonesiaCentral",
     "region": "indonesiacentral"

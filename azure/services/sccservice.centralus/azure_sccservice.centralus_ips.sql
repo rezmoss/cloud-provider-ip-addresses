@@ -7,7 +7,5 @@ CREATE TABLE IF NOT EXISTS `azure_sccservice.centralus_ips` (
 );
 
 INSERT INTO `azure_sccservice.centralus_ips` (`ip_address`, `ip_type`) VALUES ('20.44.10.208/28', 'IPv4');
-INSERT INTO `azure_sccservice.centralus_ips` (`ip_address`, `ip_type`) VALUES ('40.78.149.166/32', 'IPv4');
 INSERT INTO `azure_sccservice.centralus_ips` (`ip_address`, `ip_type`) VALUES ('64.236.31.0/27', 'IPv4');
-INSERT INTO `azure_sccservice.centralus_ips` (`ip_address`, `ip_type`) VALUES ('104.43.210.200/32', 'IPv4');
 INSERT INTO `azure_sccservice.centralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:10:12::3e0/123', 'IPv6');

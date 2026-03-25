@@ -1,4 +1,9 @@
 ip_address,ip_type,service,region
+4.147.38.32/27,IPv4,AzureMachineLearning.AustraliaEast,australiaeast
+4.147.38.64/28,IPv4,AzureMachineLearning.AustraliaEast,australiaeast
+4.147.38.80/30,IPv4,AzureMachineLearning.AustraliaEast,australiaeast
+4.147.38.84/31,IPv4,AzureMachineLearning.AustraliaEast,australiaeast
+4.147.38.86/32,IPv4,AzureMachineLearning.AustraliaEast,australiaeast
 13.70.72.144/28,IPv4,AzureMachineLearning.AustraliaEast,australiaeast
 20.37.192.96/28,IPv4,AzureMachineLearning.AustraliaEast,australiaeast
 20.70.216.96/28,IPv4,AzureMachineLearning.AustraliaEast,australiaeast
@@ -7,3 +12,8 @@ ip_address,ip_type,service,region
 40.79.162.48/28,IPv4,AzureMachineLearning.AustraliaEast,australiaeast
 40.79.170.224/28,IPv4,AzureMachineLearning.AustraliaEast,australiaeast
 2603:1010:6:1::2c0/122,IPv6,AzureMachineLearning.AustraliaEast,australiaeast
+2603:1010:6:e::687/128,IPv6,AzureMachineLearning.AustraliaEast,australiaeast
+2603:1010:6:e::6ea/127,IPv6,AzureMachineLearning.AustraliaEast,australiaeast
+2603:1010:6:e::6ec/126,IPv6,AzureMachineLearning.AustraliaEast,australiaeast
+2603:1010:6:e::7f0/124,IPv6,AzureMachineLearning.AustraliaEast,australiaeast
+2603:1010:6:f::/123,IPv6,AzureMachineLearning.AustraliaEast,australiaeast

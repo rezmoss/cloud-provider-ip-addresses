@@ -28,6 +28,7 @@ ip_address,ip_type,service,region
 135.130.2.0/24,IPv4,AzureCloud.eastus3,eastus3
 135.130.219.0/24,IPv4,AzureCloud.eastus3,eastus3
 135.130.220.0/24,IPv4,AzureCloud.eastus3,eastus3
+145.190.167.0/24,IPv4,AzureCloud.eastus3,eastus3
 209.199.33.224/28,IPv4,AzureCloud.eastus3,eastus3
 209.199.35.0/25,IPv4,AzureCloud.eastus3,eastus3
 209.199.45.96/27,IPv4,AzureCloud.eastus3,eastus3

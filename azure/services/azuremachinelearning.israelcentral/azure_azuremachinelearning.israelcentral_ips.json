@@ -6,7 +6,67 @@
     "region": "israelcentral"
   },
   {
+    "ip_address": "51.58.59.247/32",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.IsraelCentral",
+    "region": "israelcentral"
+  },
+  {
+    "ip_address": "51.58.60.142/31",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.IsraelCentral",
+    "region": "israelcentral"
+  },
+  {
+    "ip_address": "51.58.60.176/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.IsraelCentral",
+    "region": "israelcentral"
+  },
+  {
+    "ip_address": "51.58.62.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.IsraelCentral",
+    "region": "israelcentral"
+  },
+  {
+    "ip_address": "51.58.62.32/30",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.IsraelCentral",
+    "region": "israelcentral"
+  },
+  {
     "ip_address": "2603:1040:1402::200/122",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.IsraelCentral",
+    "region": "israelcentral"
+  },
+  {
+    "ip_address": "2603:1040:1402:8::5e6/127",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.IsraelCentral",
+    "region": "israelcentral"
+  },
+  {
+    "ip_address": "2603:1040:1402:8::688/126",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.IsraelCentral",
+    "region": "israelcentral"
+  },
+  {
+    "ip_address": "2603:1040:1402:8::68c/128",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.IsraelCentral",
+    "region": "israelcentral"
+  },
+  {
+    "ip_address": "2603:1040:1402:8::690/124",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.IsraelCentral",
+    "region": "israelcentral"
+  },
+  {
+    "ip_address": "2603:1040:1402:8::6a0/123",
     "ip_type": "IPv6",
     "service": "AzureMachineLearning.IsraelCentral",
     "region": "israelcentral"

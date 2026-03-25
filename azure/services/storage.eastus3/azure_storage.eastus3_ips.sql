@@ -13,4 +13,5 @@ INSERT INTO `azure_storage.eastus3_ips` (`ip_address`, `ip_type`) VALUES ('135.1
 INSERT INTO `azure_storage.eastus3_ips` (`ip_address`, `ip_type`) VALUES ('135.130.2.0/24', 'IPv4');
 INSERT INTO `azure_storage.eastus3_ips` (`ip_address`, `ip_type`) VALUES ('135.130.219.0/24', 'IPv4');
 INSERT INTO `azure_storage.eastus3_ips` (`ip_address`, `ip_type`) VALUES ('135.130.220.0/24', 'IPv4');
+INSERT INTO `azure_storage.eastus3_ips` (`ip_address`, `ip_type`) VALUES ('145.190.167.0/24', 'IPv4');
 INSERT INTO `azure_storage.eastus3_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1403::/48', 'IPv6');

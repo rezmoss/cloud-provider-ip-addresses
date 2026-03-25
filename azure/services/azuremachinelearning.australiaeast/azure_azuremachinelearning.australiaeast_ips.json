@@ -1,5 +1,35 @@
 [
   {
+    "ip_address": "4.147.38.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "4.147.38.64/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "4.147.38.80/30",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "4.147.38.84/31",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "4.147.38.86/32",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
     "ip_address": "13.70.72.144/28",
     "ip_type": "IPv4",
     "service": "AzureMachineLearning.AustraliaEast",
@@ -43,6 +73,36 @@
   },
   {
     "ip_address": "2603:1010:6:1::2c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "2603:1010:6:e::687/128",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "2603:1010:6:e::6ea/127",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "2603:1010:6:e::6ec/126",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "2603:1010:6:e::7f0/124",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "2603:1010:6:f::/123",
     "ip_type": "IPv6",
     "service": "AzureMachineLearning.AustraliaEast",
     "region": "australiaeast"

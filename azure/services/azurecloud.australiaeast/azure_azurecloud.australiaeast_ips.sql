@@ -58,6 +58,7 @@ INSERT INTO `azure_azurecloud.australiaeast_ips` (`ip_address`, `ip_type`) VALUE
 INSERT INTO `azure_azurecloud.australiaeast_ips` (`ip_address`, `ip_type`) VALUES ('20.95.208.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.australiaeast_ips` (`ip_address`, `ip_type`) VALUES ('20.135.120.0/21', 'IPv4');
 INSERT INTO `azure_azurecloud.australiaeast_ips` (`ip_address`, `ip_type`) VALUES ('20.143.162.0/23', 'IPv4');
+INSERT INTO `azure_azurecloud.australiaeast_ips` (`ip_address`, `ip_type`) VALUES ('20.143.180.0/23', 'IPv4');
 INSERT INTO `azure_azurecloud.australiaeast_ips` (`ip_address`, `ip_type`) VALUES ('20.150.66.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.australiaeast_ips` (`ip_address`, `ip_type`) VALUES ('20.150.92.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.australiaeast_ips` (`ip_address`, `ip_type`) VALUES ('20.150.117.0/24', 'IPv4');
@@ -122,8 +123,8 @@ INSERT INTO `azure_azurecloud.australiaeast_ips` (`ip_address`, `ip_type`) VALUE
 INSERT INTO `azure_azurecloud.australiaeast_ips` (`ip_address`, `ip_type`) VALUES ('40.112.37.128/26', 'IPv4');
 INSERT INTO `azure_azurecloud.australiaeast_ips` (`ip_address`, `ip_type`) VALUES ('40.120.176.0/23', 'IPv4');
 INSERT INTO `azure_azurecloud.australiaeast_ips` (`ip_address`, `ip_type`) VALUES ('40.120.178.0/25', 'IPv4');
-INSERT INTO `azure_azurecloud.australiaeast_ips` (`ip_address`, `ip_type`) VALUES ('40.120.178.128/27', 'IPv4');
-INSERT INTO `azure_azurecloud.australiaeast_ips` (`ip_address`, `ip_type`) VALUES ('40.120.178.160/31', 'IPv4');
+INSERT INTO `azure_azurecloud.australiaeast_ips` (`ip_address`, `ip_type`) VALUES ('40.120.178.128/26', 'IPv4');
+INSERT INTO `azure_azurecloud.australiaeast_ips` (`ip_address`, `ip_type`) VALUES ('40.120.178.192/28', 'IPv4');
 INSERT INTO `azure_azurecloud.australiaeast_ips` (`ip_address`, `ip_type`) VALUES ('40.126.14.0/25', 'IPv4');
 INSERT INTO `azure_azurecloud.australiaeast_ips` (`ip_address`, `ip_type`) VALUES ('40.126.39.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.australiaeast_ips` (`ip_address`, `ip_type`) VALUES ('40.126.224.0/19', 'IPv4');

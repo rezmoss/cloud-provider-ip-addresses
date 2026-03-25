@@ -1,6 +1,6 @@
 #!/bin/bash
 # Azure IP Ranges
-# Updated: 2026-03-19 02:02:56
+# Updated: 2026-03-25 02:01:10
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -112,8 +112,10 @@ ufw deny from 51.12.28.48/28
 ufw deny from 51.12.99.192/28
 ufw deny from 2603:1020:1004:2::100/121
 ufw deny from 2603:1020:1004:800::d0/124
+ufw deny from 4.166.33.80/28
 ufw deny from 20.91.148.128/25
 ufw deny from 2603:1020:1004:b::580/121
+ufw deny from 2603:1020:1004:d::3c0/124
 ufw deny from 51.12.43.144/29
 ufw deny from 51.12.43.160/27
 ufw deny from 2603:1020:1004:1::540/122
@@ -149,6 +151,11 @@ ufw deny from 2603:1020:1004:1::1f8/125
 ufw deny from 2603:1020:1004:400::80/125
 ufw deny from 2603:1020:1004:400::2f8/125
 ufw deny from 2603:1020:1004:800::140/125
+ufw deny from 4.166.32.99/32
+ufw deny from 4.166.33.222/31
+ufw deny from 4.166.35.64/27
+ufw deny from 4.166.35.96/28
+ufw deny from 4.166.35.112/30
 ufw deny from 51.12.29.0/28
 ufw deny from 51.12.29.64/27
 ufw deny from 51.12.47.32/28
@@ -156,6 +163,11 @@ ufw deny from 51.12.99.80/28
 ufw deny from 51.12.227.64/28
 ufw deny from 51.12.235.64/28
 ufw deny from 2603:1020:1004::2c0/122
+ufw deny from 2603:1020:1004:d::3d8/126
+ufw deny from 2603:1020:1004:d::3dc/127
+ufw deny from 2603:1020:1004:d::3de/128
+ufw deny from 2603:1020:1004:d::3e0/123
+ufw deny from 2603:1020:1004:d::500/124
 ufw deny from 4.165.111.96/28
 ufw deny from 4.223.182.144/28
 ufw deny from 20.91.146.64/27
@@ -271,6 +283,7 @@ ufw deny from 20.157.151.0/24
 ufw deny from 20.157.232.0/24
 ufw deny from 20.209.216.0/23
 ufw deny from 57.150.58.0/23
+ufw deny from 57.163.6.0/23
 ufw deny from 135.130.110.0/23
 ufw deny from 145.190.140.0/24
 ufw deny from 145.190.164.0/24
@@ -516,9 +529,8 @@ ufw deny from 57.150.58.0/23
 ufw deny from 57.157.68.0/25
 ufw deny from 57.157.68.128/26
 ufw deny from 57.157.68.192/27
-ufw deny from 57.157.68.224/29
-ufw deny from 57.157.68.232/30
-ufw deny from 57.157.68.236/31
+ufw deny from 57.157.68.224/28
+ufw deny from 57.163.6.0/23
 ufw deny from 70.152.27.0/24
 ufw deny from 70.152.61.0/24
 ufw deny from 70.152.62.0/23

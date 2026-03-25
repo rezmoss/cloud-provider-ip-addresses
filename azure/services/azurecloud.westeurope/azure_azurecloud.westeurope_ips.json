@@ -2412,25 +2412,25 @@
     "region": "westeurope"
   },
   {
-    "ip_address": "57.157.56.0/26",
+    "ip_address": "57.157.56.0/25",
     "ip_type": "IPv4",
     "service": "AzureCloud.westeurope",
     "region": "westeurope"
   },
   {
-    "ip_address": "57.157.56.64/27",
+    "ip_address": "57.157.56.128/27",
     "ip_type": "IPv4",
     "service": "AzureCloud.westeurope",
     "region": "westeurope"
   },
   {
-    "ip_address": "57.157.56.96/30",
+    "ip_address": "57.157.56.160/29",
     "ip_type": "IPv4",
     "service": "AzureCloud.westeurope",
     "region": "westeurope"
   },
   {
-    "ip_address": "57.157.56.100/31",
+    "ip_address": "57.157.56.168/30",
     "ip_type": "IPv4",
     "service": "AzureCloud.westeurope",
     "region": "westeurope"

@@ -1278,6 +1278,12 @@
     "region": "centraluseuap"
   },
   {
+    "ip_address": "57.163.8.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
     "ip_address": "135.130.247.0/24",
     "ip_type": "IPv4",
     "service": "Storage.CentralUSEUAP",
@@ -2671,6 +2677,12 @@
   },
   {
     "ip_address": "57.157.44.190/31",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.centraluseuap",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "57.163.8.0/23",
     "ip_type": "IPv4",
     "service": "AzureCloud.centraluseuap",
     "region": "centraluseuap"

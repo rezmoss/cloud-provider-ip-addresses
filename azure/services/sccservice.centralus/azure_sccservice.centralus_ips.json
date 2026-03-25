@@ -6,19 +6,7 @@
     "region": "centralus"
   },
   {
-    "ip_address": "40.78.149.166/32",
-    "ip_type": "IPv4",
-    "service": "SCCservice.CentralUS",
-    "region": "centralus"
-  },
-  {
     "ip_address": "64.236.31.0/27",
-    "ip_type": "IPv4",
-    "service": "SCCservice.CentralUS",
-    "region": "centralus"
-  },
-  {
-    "ip_address": "104.43.210.200/32",
     "ip_type": "IPv4",
     "service": "SCCservice.CentralUS",
     "region": "centralus"

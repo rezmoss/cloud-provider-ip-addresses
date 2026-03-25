@@ -576,6 +576,36 @@
     "region": "norwayw"
   },
   {
+    "ip_address": "4.220.241.41/32",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "4.220.241.138/31",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "4.220.241.140/30",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "4.220.241.144/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "4.220.241.192/27",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.NorwayWest",
+    "region": "norwayw"
+  },
+  {
     "ip_address": "51.120.219.80/28",
     "ip_type": "IPv4",
     "service": "AzureMachineLearning.NorwayWest",
@@ -589,6 +619,36 @@
   },
   {
     "ip_address": "2603:1020:f04::300/122",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04:9::660/123",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04:9::680/124",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04:9::690/126",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04:9::694/127",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04:9::696/128",
     "ip_type": "IPv6",
     "service": "AzureMachineLearning.NorwayWest",
     "region": "norwayw"

@@ -12,6 +12,36 @@
     "region": "westcentralus"
   },
   {
+    "ip_address": "48.194.152.22/31",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "48.194.152.24/30",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "48.194.152.28/32",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "48.194.152.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "48.194.152.160/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
     "ip_address": "52.150.136.80/28",
     "ip_type": "IPv4",
     "service": "AzureMachineLearning.WestCentralUS",
@@ -31,6 +61,36 @@
   },
   {
     "ip_address": "2603:1030:b04::300/122",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:f::540/123",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:f::560/124",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:f::570/126",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:f::574/127",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:f::576/128",
     "ip_type": "IPv6",
     "service": "AzureMachineLearning.WestCentralUS",
     "region": "westcentralus"

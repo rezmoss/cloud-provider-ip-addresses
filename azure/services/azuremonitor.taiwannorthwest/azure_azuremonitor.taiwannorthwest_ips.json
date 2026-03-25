@@ -78,6 +78,12 @@
     "region": "taiwannorthwest"
   },
   {
+    "ip_address": "167.105.252.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.TaiwanNorthwest",
+    "region": "taiwannorthwest"
+  },
+  {
     "ip_address": "2603:1040:1201:2::14/128",
     "ip_type": "IPv6",
     "service": "AzureMonitor.TaiwanNorthwest",

@@ -12,7 +12,67 @@
     "region": "ukwest"
   },
   {
+    "ip_address": "172.186.108.177/32",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "172.186.108.180/30",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "172.186.110.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "172.186.110.32/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "172.186.110.48/31",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.UKWest",
+    "region": "ukwest"
+  },
+  {
     "ip_address": "2603:1020:605::300/122",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:c::108/126",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:c::10c/127",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:c::10e/128",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:c::140/123",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:c::160/124",
     "ip_type": "IPv6",
     "service": "AzureMachineLearning.UKWest",
     "region": "ukwest"

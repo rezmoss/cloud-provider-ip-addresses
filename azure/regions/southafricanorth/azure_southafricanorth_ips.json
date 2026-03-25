@@ -858,6 +858,36 @@
     "region": "southafricanorth"
   },
   {
+    "ip_address": "4.221.233.3/32",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "4.221.233.178/31",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "4.221.233.180/30",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "4.221.234.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "4.221.234.64/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
     "ip_address": "20.164.158.240/28",
     "ip_type": "IPv4",
     "service": "AzureMachineLearning.SouthAfricaNorth",
@@ -889,6 +919,36 @@
   },
   {
     "ip_address": "2603:1000:104:1::2c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "2603:1000:104:b::dd/128",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "2603:1000:104:b::de/127",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "2603:1000:104:b::170/124",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "2603:1000:104:b::180/123",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "2603:1000:104:b::1a0/126",
     "ip_type": "IPv6",
     "service": "AzureMachineLearning.SouthAfricaNorth",
     "region": "southafricanorth"
@@ -2917,6 +2977,12 @@
   },
   {
     "ip_address": "70.152.22.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southafricanorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "70.152.217.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.southafricanorth",
     "region": "southafricanorth"

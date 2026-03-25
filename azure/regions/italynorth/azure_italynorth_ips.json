@@ -546,7 +546,67 @@
     "region": "italynorth"
   },
   {
+    "ip_address": "9.235.174.53/32",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.ItalyNorth",
+    "region": "italynorth"
+  },
+  {
+    "ip_address": "9.235.175.194/31",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.ItalyNorth",
+    "region": "italynorth"
+  },
+  {
+    "ip_address": "9.235.175.196/30",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.ItalyNorth",
+    "region": "italynorth"
+  },
+  {
+    "ip_address": "9.235.175.208/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.ItalyNorth",
+    "region": "italynorth"
+  },
+  {
+    "ip_address": "9.235.175.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.ItalyNorth",
+    "region": "italynorth"
+  },
+  {
     "ip_address": "2603:1020:1204::200/122",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.ItalyNorth",
+    "region": "italynorth"
+  },
+  {
+    "ip_address": "2603:1020:1204:7::752/127",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.ItalyNorth",
+    "region": "italynorth"
+  },
+  {
+    "ip_address": "2603:1020:1204:8::4/126",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.ItalyNorth",
+    "region": "italynorth"
+  },
+  {
+    "ip_address": "2603:1020:1204:8::8/128",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.ItalyNorth",
+    "region": "italynorth"
+  },
+  {
+    "ip_address": "2603:1020:1204:8::20/123",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.ItalyNorth",
+    "region": "italynorth"
+  },
+  {
+    "ip_address": "2603:1020:1204:8::40/124",
     "ip_type": "IPv6",
     "service": "AzureMachineLearning.ItalyNorth",
     "region": "italynorth"
@@ -661,6 +721,12 @@
   },
   {
     "ip_address": "9.235.171.32/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.ItalyNorth",
+    "region": "italynorth"
+  },
+  {
+    "ip_address": "9.235.185.0/25",
     "ip_type": "IPv4",
     "service": "AzureMonitor.ItalyNorth",
     "region": "italynorth"

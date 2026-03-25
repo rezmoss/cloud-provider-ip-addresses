@@ -840,7 +840,67 @@
     "region": "switzerlandn"
   },
   {
+    "ip_address": "74.242.152.199/32",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "74.242.155.174/31",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "74.242.155.176/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "74.242.155.192/27",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "74.242.155.224/30",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
     "ip_address": "2603:1020:a04:1::2c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "2603:1020:a04:b::82/127",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "2603:1020:a04:b::8c/126",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "2603:1020:a04:b::120/123",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "2603:1020:a04:b::140/124",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "2603:1020:a04:b::150/128",
     "ip_type": "IPv6",
     "service": "AzureMachineLearning.SwitzerlandNorth",
     "region": "switzerlandn"

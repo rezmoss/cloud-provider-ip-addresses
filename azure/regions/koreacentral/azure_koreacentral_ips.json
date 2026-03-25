@@ -972,6 +972,36 @@
     "region": "koreacentral"
   },
   {
+    "ip_address": "4.230.126.142/31",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "4.230.126.240/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "4.230.160.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "4.230.160.160/30",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "4.230.160.164/32",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
     "ip_address": "20.41.64.80/28",
     "ip_type": "IPv4",
     "service": "AzureMachineLearning.KoreaCentral",
@@ -1009,6 +1039,36 @@
   },
   {
     "ip_address": "2603:1040:f05:1::2c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "2603:1040:f05:c::415/128",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "2603:1040:f05:c::416/127",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "2603:1040:f05:c::418/126",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "2603:1040:f05:c::450/124",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "2603:1040:f05:c::460/123",
     "ip_type": "IPv6",
     "service": "AzureMachineLearning.KoreaCentral",
     "region": "koreacentral"

@@ -11,5 +11,6 @@ INSERT INTO `azure_storage.belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES 
 INSERT INTO `azure_storage.belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('57.150.194.0/23', 'IPv4');
 INSERT INTO `azure_storage.belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('57.150.196.0/23', 'IPv4');
 INSERT INTO `azure_storage.belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('57.150.198.0/24', 'IPv4');
+INSERT INTO `azure_storage.belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('57.163.14.0/23', 'IPv4');
 INSERT INTO `azure_storage.belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('145.190.157.0/24', 'IPv4');
 INSERT INTO `azure_storage.belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1503::/48', 'IPv6');

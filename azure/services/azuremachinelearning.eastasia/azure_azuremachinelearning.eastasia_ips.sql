@@ -6,6 +6,11 @@ CREATE TABLE IF NOT EXISTS `azure_azuremachinelearning.eastasia_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_azuremachinelearning.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('4.191.90.189/32', 'IPv4');
+INSERT INTO `azure_azuremachinelearning.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('4.191.91.132/30', 'IPv4');
+INSERT INTO `azure_azuremachinelearning.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('4.191.91.136/31', 'IPv4');
+INSERT INTO `azure_azuremachinelearning.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('4.191.91.144/28', 'IPv4');
+INSERT INTO `azure_azuremachinelearning.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('4.191.91.160/27', 'IPv4');
 INSERT INTO `azure_azuremachinelearning.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('13.75.36.16/28', 'IPv4');
 INSERT INTO `azure_azuremachinelearning.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('20.189.106.80/28', 'IPv4');
 INSERT INTO `azure_azuremachinelearning.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('20.195.75.48/28', 'IPv4');
@@ -13,3 +18,8 @@ INSERT INTO `azure_azuremachinelearning.eastasia_ips` (`ip_address`, `ip_type`) 
 INSERT INTO `azure_azuremachinelearning.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('40.81.27.228/32', 'IPv4');
 INSERT INTO `azure_azuremachinelearning.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('52.184.87.76/32', 'IPv4');
 INSERT INTO `azure_azuremachinelearning.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:207::300/122', 'IPv6');
+INSERT INTO `azure_azuremachinelearning.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:207:11::357/128', 'IPv6');
+INSERT INTO `azure_azuremachinelearning.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:207:11::4ca/127', 'IPv6');
+INSERT INTO `azure_azuremachinelearning.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:207:11::4cc/126', 'IPv6');
+INSERT INTO `azure_azuremachinelearning.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:207:11::500/123', 'IPv6');
+INSERT INTO `azure_azuremachinelearning.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:207:11::520/124', 'IPv6');

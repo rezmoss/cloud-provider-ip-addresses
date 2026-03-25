@@ -12,7 +12,67 @@
     "region": "southafricawest"
   },
   {
+    "ip_address": "172.209.114.182/31",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.SouthAfricaWest",
+    "region": "southafricawest"
+  },
+  {
+    "ip_address": "172.209.114.184/30",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.SouthAfricaWest",
+    "region": "southafricawest"
+  },
+  {
+    "ip_address": "172.209.114.188/32",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.SouthAfricaWest",
+    "region": "southafricawest"
+  },
+  {
+    "ip_address": "172.209.114.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.SouthAfricaWest",
+    "region": "southafricawest"
+  },
+  {
+    "ip_address": "172.209.115.128/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.SouthAfricaWest",
+    "region": "southafricawest"
+  },
+  {
     "ip_address": "2603:1000:4::300/122",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.SouthAfricaWest",
+    "region": "southafricawest"
+  },
+  {
+    "ip_address": "2603:1000:4:6::2bf/128",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.SouthAfricaWest",
+    "region": "southafricawest"
+  },
+  {
+    "ip_address": "2603:1000:4:7::458/126",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.SouthAfricaWest",
+    "region": "southafricawest"
+  },
+  {
+    "ip_address": "2603:1000:4:7::45c/127",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.SouthAfricaWest",
+    "region": "southafricawest"
+  },
+  {
+    "ip_address": "2603:1000:4:7::490/124",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.SouthAfricaWest",
+    "region": "southafricawest"
+  },
+  {
+    "ip_address": "2603:1000:4:7::4a0/123",
     "ip_type": "IPv6",
     "service": "AzureMachineLearning.SouthAfricaWest",
     "region": "southafricawest"

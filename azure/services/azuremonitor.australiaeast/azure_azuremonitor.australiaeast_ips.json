@@ -1,5 +1,17 @@
 [
   {
+    "ip_address": "4.147.38.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "4.147.39.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
     "ip_address": "4.195.7.0/26",
     "ip_type": "IPv4",
     "service": "AzureMonitor.AustraliaEast",

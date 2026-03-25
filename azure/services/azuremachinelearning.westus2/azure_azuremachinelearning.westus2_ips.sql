@@ -12,5 +12,15 @@ INSERT INTO `azure_azuremachinelearning.westus2_ips` (`ip_address`, `ip_type`) V
 INSERT INTO `azure_azuremachinelearning.westus2_ips` (`ip_address`, `ip_type`) VALUES ('40.78.242.176/28', 'IPv4');
 INSERT INTO `azure_azuremachinelearning.westus2_ips` (`ip_address`, `ip_type`) VALUES ('40.78.250.112/28', 'IPv4');
 INSERT INTO `azure_azuremachinelearning.westus2_ips` (`ip_address`, `ip_type`) VALUES ('40.91.77.76/32', 'IPv4');
+INSERT INTO `azure_azuremachinelearning.westus2_ips` (`ip_address`, `ip_type`) VALUES ('48.204.123.226/31', 'IPv4');
+INSERT INTO `azure_azuremachinelearning.westus2_ips` (`ip_address`, `ip_type`) VALUES ('48.204.123.228/30', 'IPv4');
+INSERT INTO `azure_azuremachinelearning.westus2_ips` (`ip_address`, `ip_type`) VALUES ('48.204.125.24/32', 'IPv4');
+INSERT INTO `azure_azuremachinelearning.westus2_ips` (`ip_address`, `ip_type`) VALUES ('48.204.125.32/27', 'IPv4');
+INSERT INTO `azure_azuremachinelearning.westus2_ips` (`ip_address`, `ip_type`) VALUES ('48.204.125.64/28', 'IPv4');
 INSERT INTO `azure_azuremachinelearning.westus2_ips` (`ip_address`, `ip_type`) VALUES ('52.148.163.43/32', 'IPv4');
 INSERT INTO `azure_azuremachinelearning.westus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:c06:1::2c0/122', 'IPv6');
+INSERT INTO `azure_azuremachinelearning.westus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:c06:21::6fd/128', 'IPv6');
+INSERT INTO `azure_azuremachinelearning.westus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:c06:21::7a0/123', 'IPv6');
+INSERT INTO `azure_azuremachinelearning.westus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:c06:21::7c0/124', 'IPv6');
+INSERT INTO `azure_azuremachinelearning.westus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:c06:21::7d0/126', 'IPv6');
+INSERT INTO `azure_azuremachinelearning.westus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:c06:21::7d4/127', 'IPv6');

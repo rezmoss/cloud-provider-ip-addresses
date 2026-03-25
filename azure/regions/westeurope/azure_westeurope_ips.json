@@ -2202,6 +2202,30 @@
     "region": "westeurope"
   },
   {
+    "ip_address": "13.80.192.216/30",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "13.80.192.220/31",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "13.80.192.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "13.80.193.0/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.WestEurope",
+    "region": "westeurope"
+  },
+  {
     "ip_address": "20.86.88.160/28",
     "ip_type": "IPv4",
     "service": "AzureMachineLearning.WestEurope",
@@ -2209,6 +2233,12 @@
   },
   {
     "ip_address": "40.74.24.96/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "48.199.254.1/32",
     "ip_type": "IPv4",
     "service": "AzureMachineLearning.WestEurope",
     "region": "westeurope"
@@ -2233,6 +2263,36 @@
   },
   {
     "ip_address": "2603:1020:206:1::2c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "2603:1020:206:10::4b/128",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "2603:1020:206:10::7e/127",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "2603:1020:206:23::60/123",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "2603:1020:206:23::80/124",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "2603:1020:206:23::90/126",
     "ip_type": "IPv6",
     "service": "AzureMachineLearning.WestEurope",
     "region": "westeurope"
@@ -7770,12 +7830,6 @@
     "region": "westeurope"
   },
   {
-    "ip_address": "40.74.56.205/32",
-    "ip_type": "IPv4",
-    "service": "SCCservice.WestEurope",
-    "region": "westeurope"
-  },
-  {
     "ip_address": "48.209.79.32/27",
     "ip_type": "IPv4",
     "service": "SCCservice.WestEurope",
@@ -7783,12 +7837,6 @@
   },
   {
     "ip_address": "52.178.17.16/28",
-    "ip_type": "IPv4",
-    "service": "SCCservice.WestEurope",
-    "region": "westeurope"
-  },
-  {
-    "ip_address": "104.46.32.191/32",
     "ip_type": "IPv4",
     "service": "SCCservice.WestEurope",
     "region": "westeurope"
@@ -10320,25 +10368,25 @@
     "region": "westeurope"
   },
   {
-    "ip_address": "57.157.56.0/26",
+    "ip_address": "57.157.56.0/25",
     "ip_type": "IPv4",
     "service": "AzureCloud.westeurope",
     "region": "westeurope"
   },
   {
-    "ip_address": "57.157.56.64/27",
+    "ip_address": "57.157.56.128/27",
     "ip_type": "IPv4",
     "service": "AzureCloud.westeurope",
     "region": "westeurope"
   },
   {
-    "ip_address": "57.157.56.96/30",
+    "ip_address": "57.157.56.160/29",
     "ip_type": "IPv4",
     "service": "AzureCloud.westeurope",
     "region": "westeurope"
   },
   {
-    "ip_address": "57.157.56.100/31",
+    "ip_address": "57.157.56.168/30",
     "ip_type": "IPv4",
     "service": "AzureCloud.westeurope",
     "region": "westeurope"

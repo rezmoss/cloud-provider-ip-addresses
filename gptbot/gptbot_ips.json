@@ -215,11 +215,6 @@
     "service": "chatgpt-user"
   },
   {
-    "ip_address": "135.237.133.112/28",
-    "ip_type": "IPv4",
-    "service": "chatgpt-user"
-  },
-  {
     "ip_address": "135.237.133.48/28",
     "ip_type": "IPv4",
     "service": "chatgpt-user"
@@ -921,11 +916,6 @@
   },
   {
     "ip_address": "51.107.70.192/28",
-    "ip_type": "IPv4",
-    "service": "chatgpt-user"
-  },
-  {
-    "ip_address": "51.8.155.112/28",
     "ip_type": "IPv4",
     "service": "chatgpt-user"
   },

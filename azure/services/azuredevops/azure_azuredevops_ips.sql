@@ -6,6 +6,7 @@ CREATE TABLE IF NOT EXISTS `azure_azuredevops_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_azuredevops_ips` (`ip_address`, `ip_type`) VALUES ('4.166.33.80/28', 'IPv4');
 INSERT INTO `azure_azuredevops_ips` (`ip_address`, `ip_type`) VALUES ('4.188.8.0/27', 'IPv4');
 INSERT INTO `azure_azuredevops_ips` (`ip_address`, `ip_type`) VALUES ('4.247.191.228/30', 'IPv4');
 INSERT INTO `azure_azuredevops_ips` (`ip_address`, `ip_type`) VALUES ('20.37.158.0/23', 'IPv4');
@@ -44,6 +45,7 @@ INSERT INTO `azure_azuredevops_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020
 INSERT INTO `azure_azuredevops_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:605:c::100/125', 'IPv6');
 INSERT INTO `azure_azuredevops_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:705:13::600/120', 'IPv6');
 INSERT INTO `azure_azuredevops_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1004:b::580/121', 'IPv6');
+INSERT INTO `azure_azuredevops_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1004:d::3c0/124', 'IPv6');
 INSERT INTO `azure_azuredevops_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1104:8::118/125', 'IPv6');
 INSERT INTO `azure_azuredevops_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f:e::380/122', 'IPv6');
 INSERT INTO `azure_azuredevops_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:10:1c::600/119', 'IPv6');

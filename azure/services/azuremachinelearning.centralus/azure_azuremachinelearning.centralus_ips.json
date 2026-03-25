@@ -6,6 +6,36 @@
     "region": "centralus"
   },
   {
+    "ip_address": "20.15.213.174/31",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "20.15.216.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "20.15.216.64/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "20.15.216.80/30",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "20.15.216.84/32",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.CentralUS",
+    "region": "centralus"
+  },
+  {
     "ip_address": "20.37.152.240/28",
     "ip_type": "IPv4",
     "service": "AzureMachineLearning.CentralUS",
@@ -43,6 +73,36 @@
   },
   {
     "ip_address": "2603:1030:10:1::2c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "2603:1030:10:1f::7ad/128",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "2603:1030:10:1f::7ae/127",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "2603:1030:10:1f::7c8/126",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "2603:1030:10:1f::7d0/124",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "2603:1030:10:1f::7e0/123",
     "ip_type": "IPv6",
     "service": "AzureMachineLearning.CentralUS",
     "region": "centralus"

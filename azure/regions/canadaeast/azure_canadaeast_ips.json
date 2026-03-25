@@ -708,6 +708,36 @@
     "region": "canadaeast"
   },
   {
+    "ip_address": "20.200.34.124/30",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "20.200.34.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "20.200.35.0/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "20.200.35.16/31",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "20.200.35.18/32",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
     "ip_address": "40.69.106.224/28",
     "ip_type": "IPv4",
     "service": "AzureMachineLearning.CanadaEast",
@@ -721,6 +751,36 @@
   },
   {
     "ip_address": "2603:1030:1005::300/122",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:c::3e0/123",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:c::480/124",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:c::490/126",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:c::494/127",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:c::496/128",
     "ip_type": "IPv6",
     "service": "AzureMachineLearning.CanadaEast",
     "region": "canadaeast"

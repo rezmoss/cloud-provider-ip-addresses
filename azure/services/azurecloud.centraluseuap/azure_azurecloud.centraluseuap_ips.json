@@ -900,6 +900,12 @@
     "region": "centraluseuap"
   },
   {
+    "ip_address": "57.163.8.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.centraluseuap",
+    "region": "centraluseuap"
+  },
+  {
     "ip_address": "104.208.48.0/20",
     "ip_type": "IPv4",
     "service": "AzureCloud.centraluseuap",

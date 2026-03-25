@@ -6,7 +6,67 @@
     "region": "malaysiawest"
   },
   {
+    "ip_address": "85.211.239.87/32",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.MalaysiaWest",
+    "region": "malaysiawest"
+  },
+  {
+    "ip_address": "85.211.239.88/30",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.MalaysiaWest",
+    "region": "malaysiawest"
+  },
+  {
+    "ip_address": "85.211.239.92/31",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.MalaysiaWest",
+    "region": "malaysiawest"
+  },
+  {
+    "ip_address": "85.211.239.96/27",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.MalaysiaWest",
+    "region": "malaysiawest"
+  },
+  {
+    "ip_address": "85.211.239.128/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.MalaysiaWest",
+    "region": "malaysiawest"
+  },
+  {
     "ip_address": "2603:1040:1602::200/122",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.MalaysiaWest",
+    "region": "malaysiawest"
+  },
+  {
+    "ip_address": "2603:1040:1602:5::55/128",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.MalaysiaWest",
+    "region": "malaysiawest"
+  },
+  {
+    "ip_address": "2603:1040:1602:5::58/126",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.MalaysiaWest",
+    "region": "malaysiawest"
+  },
+  {
+    "ip_address": "2603:1040:1602:5::5c/127",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.MalaysiaWest",
+    "region": "malaysiawest"
+  },
+  {
+    "ip_address": "2603:1040:1602:5::1c0/123",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.MalaysiaWest",
+    "region": "malaysiawest"
+  },
+  {
+    "ip_address": "2603:1040:1602:5::1e0/124",
     "ip_type": "IPv6",
     "service": "AzureMachineLearning.MalaysiaWest",
     "region": "malaysiawest"

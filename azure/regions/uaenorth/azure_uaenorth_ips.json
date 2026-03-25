@@ -852,6 +852,36 @@
     "region": "uaenorth"
   },
   {
+    "ip_address": "4.161.12.133/32",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.UAENorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "4.161.15.192/27",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.UAENorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "4.161.15.224/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.UAENorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "4.161.15.240/30",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.UAENorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "4.161.15.244/31",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.UAENorth",
+    "region": "uaenorth"
+  },
+  {
     "ip_address": "20.74.195.32/27",
     "ip_type": "IPv4",
     "service": "AzureMachineLearning.UAENorth",
@@ -865,6 +895,36 @@
   },
   {
     "ip_address": "2603:1040:904:1::2c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.UAENorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "2603:1040:904:8::7ac/126",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.UAENorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "2603:1040:904:a::c8/127",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.UAENorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "2603:1040:904:a::ca/128",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.UAENorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "2603:1040:904:a::d0/124",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.UAENorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "2603:1040:904:a::e0/123",
     "ip_type": "IPv6",
     "service": "AzureMachineLearning.UAENorth",
     "region": "uaenorth"

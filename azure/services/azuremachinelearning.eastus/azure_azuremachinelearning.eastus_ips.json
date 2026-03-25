@@ -30,6 +30,36 @@
     "region": "eastus"
   },
   {
+    "ip_address": "48.206.203.243/32",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "48.206.204.146/31",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "48.206.204.148/30",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "48.206.204.160/27",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "48.206.204.192/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.EastUS",
+    "region": "eastus"
+  },
+  {
     "ip_address": "48.211.42.128/27",
     "ip_type": "IPv4",
     "service": "AzureMachineLearning.EastUS",
@@ -55,6 +85,36 @@
   },
   {
     "ip_address": "2603:1030:210:1::2c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "2603:1030:210:2e::45e/127",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "2603:1030:210:2e::7b0/124",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "2603:1030:210:2e::7c0/123",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "2603:1030:210:2e::7e0/126",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "2603:1030:210:2e::7e4/128",
     "ip_type": "IPv6",
     "service": "AzureMachineLearning.EastUS",
     "region": "eastus"

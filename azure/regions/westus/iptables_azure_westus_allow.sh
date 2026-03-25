@@ -1,6 +1,6 @@
 #!/bin/bash
 # Azure IP Ranges
-# Updated: 2026-03-04 01:53:19
+# Updated: 2026-03-25 02:01:11
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -267,10 +267,20 @@ ip6tables -A INPUT -s 2603:1030:a07:b::5b0/125 -j ACCEPT
 ip6tables -A INPUT -s 2603:1030:a07:402::80/125 -j ACCEPT
 iptables -A INPUT -s 13.86.195.35/32 -j ACCEPT
 iptables -A INPUT -s 13.87.160.129/32 -j ACCEPT
+iptables -A INPUT -s 20.59.136.138/31 -j ACCEPT
+iptables -A INPUT -s 20.59.136.140/30 -j ACCEPT
+iptables -A INPUT -s 20.59.136.144/28 -j ACCEPT
+iptables -A INPUT -s 20.59.136.160/27 -j ACCEPT
+iptables -A INPUT -s 20.59.136.192/32 -j ACCEPT
 iptables -A INPUT -s 20.66.6.48/28 -j ACCEPT
 iptables -A INPUT -s 40.82.248.80/28 -j ACCEPT
 iptables -A INPUT -s 40.112.242.176/28 -j ACCEPT
 ip6tables -A INPUT -s 2603:1030:a07::300/122 -j ACCEPT
+ip6tables -A INPUT -s 2603:1030:a07:22::4d5/128 -j ACCEPT
+ip6tables -A INPUT -s 2603:1030:a07:22::740/123 -j ACCEPT
+ip6tables -A INPUT -s 2603:1030:a07:22::760/124 -j ACCEPT
+ip6tables -A INPUT -s 2603:1030:a07:22::770/126 -j ACCEPT
+ip6tables -A INPUT -s 2603:1030:a07:22::774/127 -j ACCEPT
 iptables -A INPUT -s 13.86.218.224/28 -j ACCEPT
 iptables -A INPUT -s 13.86.218.248/29 -j ACCEPT
 iptables -A INPUT -s 13.86.223.128/26 -j ACCEPT
@@ -1128,13 +1138,6 @@ ip6tables -A INPUT -s 2603:1030:a07::200/123 -j ACCEPT
 ip6tables -A INPUT -s 2603:1030:a07:1f::5c0/122 -j ACCEPT
 ip6tables -A INPUT -s 2603:1030:a07:402::358/126 -j ACCEPT
 iptables -A INPUT -s 13.86.223.96/27 -j ACCEPT
-iptables -A INPUT -s 40.78.103.172/32 -j ACCEPT
-iptables -A INPUT -s 40.78.106.95/32 -j ACCEPT
-iptables -A INPUT -s 40.83.187.245/32 -j ACCEPT
-iptables -A INPUT -s 40.118.227.49/32 -j ACCEPT
-iptables -A INPUT -s 52.160.33.57/32 -j ACCEPT
-iptables -A INPUT -s 52.160.100.5/32 -j ACCEPT
-iptables -A INPUT -s 104.42.149.114/32 -j ACCEPT
 iptables -A INPUT -s 172.185.56.160/27 -j ACCEPT
 ip6tables -A INPUT -s 2603:1030:a07:c::480/123 -j ACCEPT
 iptables -A INPUT -s 13.91.7.211/32 -j ACCEPT

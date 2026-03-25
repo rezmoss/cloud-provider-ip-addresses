@@ -1650,6 +1650,36 @@
     "region": "northeurope"
   },
   {
+    "ip_address": "4.208.127.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "4.208.127.32/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "4.208.127.48/30",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "4.208.127.52/31",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "4.208.127.54/32",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.NorthEurope",
+    "region": "northeurope"
+  },
+  {
     "ip_address": "13.69.227.192/28",
     "ip_type": "IPv4",
     "service": "AzureMachineLearning.NorthEurope",
@@ -1693,6 +1723,36 @@
   },
   {
     "ip_address": "2603:1020:5:1::2c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "2603:1020:5:1b::5f5/128",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "2603:1020:5:1b::722/127",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "2603:1020:5:1b::724/126",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "2603:1020:5:1b::780/123",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "2603:1020:5:1b::7a0/124",
     "ip_type": "IPv6",
     "service": "AzureMachineLearning.NorthEurope",
     "region": "northeurope"

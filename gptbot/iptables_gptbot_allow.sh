@@ -1,6 +1,6 @@
 #!/bin/bash
 # Gptbot IP Ranges
-# Updated: 2026-03-24 01:55:35
+# Updated: 2026-03-25 02:01:13
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -50,7 +50,6 @@ iptables -A INPUT -s 135.119.134.192/28 -j ACCEPT
 iptables -A INPUT -s 135.220.73.208/28 -j ACCEPT
 iptables -A INPUT -s 135.220.73.240/28 -j ACCEPT
 iptables -A INPUT -s 135.237.131.208/28 -j ACCEPT
-iptables -A INPUT -s 135.237.133.112/28 -j ACCEPT
 iptables -A INPUT -s 135.237.133.48/28 -j ACCEPT
 iptables -A INPUT -s 137.135.183.96/28 -j ACCEPT
 iptables -A INPUT -s 137.135.190.240/28 -j ACCEPT
@@ -192,7 +191,6 @@ iptables -A INPUT -s 40.84.181.32/28 -j ACCEPT
 iptables -A INPUT -s 40.84.221.208/28 -j ACCEPT
 iptables -A INPUT -s 40.84.221.224/28 -j ACCEPT
 iptables -A INPUT -s 51.107.70.192/28 -j ACCEPT
-iptables -A INPUT -s 51.8.155.112/28 -j ACCEPT
 iptables -A INPUT -s 51.8.155.48/28 -j ACCEPT
 iptables -A INPUT -s 51.8.155.64/28 -j ACCEPT
 iptables -A INPUT -s 51.8.155.80/28 -j ACCEPT

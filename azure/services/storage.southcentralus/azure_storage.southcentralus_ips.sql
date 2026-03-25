@@ -83,6 +83,7 @@ INSERT INTO `azure_storage.southcentralus_ips` (`ip_address`, `ip_type`) VALUES 
 INSERT INTO `azure_storage.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('57.150.62.0/23', 'IPv4');
 INSERT INTO `azure_storage.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('57.150.156.0/23', 'IPv4');
 INSERT INTO `azure_storage.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('57.150.204.0/23', 'IPv4');
+INSERT INTO `azure_storage.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('57.163.10.0/23', 'IPv4');
 INSERT INTO `azure_storage.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('104.214.40.16/28', 'IPv4');
 INSERT INTO `azure_storage.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('104.214.80.16/28', 'IPv4');
 INSERT INTO `azure_storage.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('104.214.80.48/28', 'IPv4');

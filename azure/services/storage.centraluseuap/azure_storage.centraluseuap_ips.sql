@@ -23,6 +23,7 @@ INSERT INTO `azure_storage.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES (
 INSERT INTO `azure_storage.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('52.239.177.0/27', 'IPv4');
 INSERT INTO `azure_storage.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('52.239.238.0/24', 'IPv4');
 INSERT INTO `azure_storage.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('57.150.126.0/23', 'IPv4');
+INSERT INTO `azure_storage.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('57.163.8.0/23', 'IPv4');
 INSERT INTO `azure_storage.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('135.130.247.0/24', 'IPv4');
 INSERT INTO `azure_storage.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('135.130.252.0/25', 'IPv4');
 INSERT INTO `azure_storage.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('135.130.254.0/23', 'IPv4');

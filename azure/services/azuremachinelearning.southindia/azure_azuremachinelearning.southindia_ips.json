@@ -12,7 +12,67 @@
     "region": "southindia"
   },
   {
+    "ip_address": "74.225.47.90/31",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "74.225.47.92/30",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "135.13.72.16/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "135.13.72.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "135.13.72.64/32",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.SouthIndia",
+    "region": "southindia"
+  },
+  {
     "ip_address": "2603:1040:c06::300/122",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "2603:1040:c06:b::2fb/128",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "2603:1040:c06:b::35a/127",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "2603:1040:c06:b::35c/126",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "2603:1040:c06:b::460/123",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "2603:1040:c06:b::480/124",
     "ip_type": "IPv6",
     "service": "AzureMachineLearning.SouthIndia",
     "region": "southindia"

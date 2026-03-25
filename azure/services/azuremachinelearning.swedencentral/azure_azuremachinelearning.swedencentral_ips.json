@@ -1,5 +1,35 @@
 [
   {
+    "ip_address": "4.166.32.99/32",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "4.166.33.222/31",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "4.166.35.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "4.166.35.96/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "4.166.35.112/30",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
     "ip_address": "51.12.29.0/28",
     "ip_type": "IPv4",
     "service": "AzureMachineLearning.SwedenCentral",
@@ -37,6 +67,36 @@
   },
   {
     "ip_address": "2603:1020:1004::2c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "2603:1020:1004:d::3d8/126",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "2603:1020:1004:d::3dc/127",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "2603:1020:1004:d::3de/128",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "2603:1020:1004:d::3e0/123",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "2603:1020:1004:d::500/124",
     "ip_type": "IPv6",
     "service": "AzureMachineLearning.SwedenCentral",
     "region": "swedencentral"

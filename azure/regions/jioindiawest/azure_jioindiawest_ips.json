@@ -720,7 +720,67 @@
     "region": "jioindiawest"
   },
   {
+    "ip_address": "20.244.209.211/32",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "20.244.210.182/31",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "20.244.210.184/30",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "20.244.211.160/27",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "20.244.211.192/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
     "ip_address": "2603:1040:d04::2c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "2603:1040:d04:7::150/124",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "2603:1040:d04:7::2a9/128",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "2603:1040:d04:7::2aa/127",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "2603:1040:d04:7::2ac/126",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "2603:1040:d04:7::480/123",
     "ip_type": "IPv6",
     "service": "AzureMachineLearning.JioIndiaWest",
     "region": "jioindiawest"

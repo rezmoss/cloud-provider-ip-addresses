@@ -1608,6 +1608,36 @@
     "region": "centralus"
   },
   {
+    "ip_address": "20.15.213.174/31",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "20.15.216.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "20.15.216.64/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "20.15.216.80/30",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "20.15.216.84/32",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.CentralUS",
+    "region": "centralus"
+  },
+  {
     "ip_address": "20.37.152.240/28",
     "ip_type": "IPv4",
     "service": "AzureMachineLearning.CentralUS",
@@ -1645,6 +1675,36 @@
   },
   {
     "ip_address": "2603:1030:10:1::2c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "2603:1030:10:1f::7ad/128",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "2603:1030:10:1f::7ae/127",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "2603:1030:10:1f::7c8/126",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "2603:1030:10:1f::7d0/124",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "2603:1030:10:1f::7e0/123",
     "ip_type": "IPv6",
     "service": "AzureMachineLearning.CentralUS",
     "region": "centralus"
@@ -4692,19 +4752,7 @@
     "region": "centralus"
   },
   {
-    "ip_address": "40.78.149.166/32",
-    "ip_type": "IPv4",
-    "service": "SCCservice.CentralUS",
-    "region": "centralus"
-  },
-  {
     "ip_address": "64.236.31.0/27",
-    "ip_type": "IPv4",
-    "service": "SCCservice.CentralUS",
-    "region": "centralus"
-  },
-  {
-    "ip_address": "104.43.210.200/32",
     "ip_type": "IPv4",
     "service": "SCCservice.CentralUS",
     "region": "centralus"
@@ -8088,6 +8136,18 @@
     "region": "centralus"
   },
   {
+    "ip_address": "57.157.44.208/30",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.centralus",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "57.165.128.0/17",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.centralus",
+    "region": "centralus"
+  },
+  {
     "ip_address": "64.236.0.0/17",
     "ip_type": "IPv4",
     "service": "AzureCloud.centralus",
@@ -9642,13 +9702,7 @@
     "region": "centralus"
   },
   {
-    "ip_address": "2603:1030:9:878::/62",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.centralus",
-    "region": "centralus"
-  },
-  {
-    "ip_address": "2603:1030:9:87c::/63",
+    "ip_address": "2603:1030:9:878::/61",
     "ip_type": "IPv6",
     "service": "AzureCloud.centralus",
     "region": "centralus"

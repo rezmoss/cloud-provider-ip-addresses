@@ -690,7 +690,67 @@
     "region": "qatarcentral"
   },
   {
+    "ip_address": "20.173.62.145/32",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
+    "ip_address": "20.173.62.250/31",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
+    "ip_address": "20.173.62.252/30",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
+    "ip_address": "20.173.63.96/27",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
+    "ip_address": "20.173.63.128/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
     "ip_address": "2603:1040:1002::440/122",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
+    "ip_address": "2603:1040:1002:8::50c/126",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
+    "ip_address": "2603:1040:1002:8::580/123",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
+    "ip_address": "2603:1040:1002:8::5a0/124",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
+    "ip_address": "2603:1040:1002:8::5b0/127",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
+    "ip_address": "2603:1040:1002:8::5b2/128",
     "ip_type": "IPv6",
     "service": "AzureMachineLearning.QatarCentral",
     "region": "qatarcentral"

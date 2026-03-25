@@ -18,6 +18,7 @@ ip_address,ip_type,service,region
 9.235.170.208/28,IPv4,AzureMonitor.ItalyNorth,italynorth
 9.235.171.24/29,IPv4,AzureMonitor.ItalyNorth,italynorth
 9.235.171.32/28,IPv4,AzureMonitor.ItalyNorth,italynorth
+9.235.185.0/25,IPv4,AzureMonitor.ItalyNorth,italynorth
 2603:1020:1200:4::10/128,IPv6,AzureMonitor.ItalyNorth,italynorth
 2603:1020:1200:4::12/128,IPv6,AzureMonitor.ItalyNorth,italynorth
 2603:1020:1204:2::1e0/123,IPv6,AzureMonitor.ItalyNorth,italynorth

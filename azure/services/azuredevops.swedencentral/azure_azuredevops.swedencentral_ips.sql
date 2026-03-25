@@ -6,5 +6,7 @@ CREATE TABLE IF NOT EXISTS `azure_azuredevops.swedencentral_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_azuredevops.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('4.166.33.80/28', 'IPv4');
 INSERT INTO `azure_azuredevops.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('20.91.148.128/25', 'IPv4');
 INSERT INTO `azure_azuredevops.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1004:b::580/121', 'IPv6');
+INSERT INTO `azure_azuredevops.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1004:d::3c0/124', 'IPv6');

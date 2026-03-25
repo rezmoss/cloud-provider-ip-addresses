@@ -42,6 +42,12 @@
     "region": "eastus3"
   },
   {
+    "ip_address": "145.190.167.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.EastUS3",
+    "region": "eastus3"
+  },
+  {
     "ip_address": "2603:1030:1403::/48",
     "ip_type": "IPv6",
     "service": "Storage.EastUS3",

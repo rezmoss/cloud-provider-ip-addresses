@@ -1,5 +1,35 @@
 [
   {
+    "ip_address": "4.201.244.236/30",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "4.201.244.240/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "4.201.245.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "4.201.245.160/32",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "74.163.254.18/31",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
     "ip_address": "191.233.203.144/28",
     "ip_type": "IPv4",
     "service": "AzureMachineLearning.BrazilSouth",
@@ -43,6 +73,36 @@
   },
   {
     "ip_address": "2603:1050:6:1::2c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "2603:1050:6:c::10a/127",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "2603:1050:6:c::10c/126",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "2603:1050:6:c::158/128",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "2603:1050:6:c::160/123",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "2603:1050:6:c::180/124",
     "ip_type": "IPv6",
     "service": "AzureMachineLearning.BrazilSouth",
     "region": "brazilsouth"

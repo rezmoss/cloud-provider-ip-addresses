@@ -516,7 +516,67 @@
     "region": "spaincentral"
   },
   {
+    "ip_address": "158.158.134.196/30",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "158.158.134.200/31",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "158.158.134.202/32",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "158.158.134.208/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "158.158.134.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
     "ip_address": "2603:1020:1403::200/122",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:7::4dd/128",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:7::4de/127",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:7::534/126",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:7::570/124",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:7::580/123",
     "ip_type": "IPv6",
     "service": "AzureMachineLearning.SpainCentral",
     "region": "spaincentral"

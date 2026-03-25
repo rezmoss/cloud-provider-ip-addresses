@@ -618,7 +618,67 @@
     "region": "polandcentral"
   },
   {
+    "ip_address": "134.112.168.133/32",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "134.112.171.48/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "134.112.171.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "134.112.171.96/30",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "134.112.171.100/31",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
     "ip_address": "2603:1020:1302::200/122",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "2603:1020:1302:8::399/128",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "2603:1020:1302:8::39a/127",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "2603:1020:1302:8::430/124",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "2603:1020:1302:8::440/123",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "2603:1020:1302:8::460/126",
     "ip_type": "IPv6",
     "service": "AzureMachineLearning.PolandCentral",
     "region": "polandcentral"

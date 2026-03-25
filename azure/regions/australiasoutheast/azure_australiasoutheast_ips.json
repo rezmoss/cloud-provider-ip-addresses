@@ -900,7 +900,67 @@
     "region": "australiasoutheast"
   },
   {
+    "ip_address": "48.215.169.154/31",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  },
+  {
+    "ip_address": "48.215.173.24/30",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  },
+  {
+    "ip_address": "48.215.173.28/32",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  },
+  {
+    "ip_address": "48.215.173.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  },
+  {
+    "ip_address": "48.215.173.96/27",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  },
+  {
     "ip_address": "2603:1010:101::300/122",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  },
+  {
+    "ip_address": "2603:1010:207:4::4d5/128",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  },
+  {
+    "ip_address": "2603:1010:207:4::540/123",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  },
+  {
+    "ip_address": "2603:1010:207:4::560/124",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  },
+  {
+    "ip_address": "2603:1010:207:4::570/126",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  },
+  {
+    "ip_address": "2603:1010:207:4::574/127",
     "ip_type": "IPv6",
     "service": "AzureMachineLearning.AustraliaSoutheast",
     "region": "australiasoutheast"
@@ -3643,6 +3703,12 @@
   },
   {
     "ip_address": "70.152.1.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.australiasoutheast",
+    "region": "australiasoutheast"
+  },
+  {
+    "ip_address": "70.152.219.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.australiasoutheast",
     "region": "australiasoutheast"
