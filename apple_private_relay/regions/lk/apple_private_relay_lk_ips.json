@@ -140,6 +140,11 @@
     "region": "LK"
   },
   {
+    "ip_address": "104.28.137.7/32",
+    "ip_type": "IPv4",
+    "region": "LK"
+  },
+  {
     "ip_address": "104.28.147.7/32",
     "ip_type": "IPv4",
     "region": "LK"

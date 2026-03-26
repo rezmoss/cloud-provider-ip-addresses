@@ -34,6 +34,7 @@ INSERT INTO `apple_private_relay_lk_ips` (`ip_address`, `ip_type`) VALUES ('2a02
 INSERT INTO `apple_private_relay_lk_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d5c9:ce63::/64', 'IPv6');
 INSERT INTO `apple_private_relay_lk_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d5ca:4000::/64', 'IPv6');
 INSERT INTO `apple_private_relay_lk_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d5cb:4000::/64', 'IPv6');
+INSERT INTO `apple_private_relay_lk_ips` (`ip_address`, `ip_type`) VALUES ('104.28.137.7/32', 'IPv4');
 INSERT INTO `apple_private_relay_lk_ips` (`ip_address`, `ip_type`) VALUES ('104.28.147.7/32', 'IPv4');
 INSERT INTO `apple_private_relay_lk_ips` (`ip_address`, `ip_type`) VALUES ('104.28.147.8/32', 'IPv4');
 INSERT INTO `apple_private_relay_lk_ips` (`ip_address`, `ip_type`) VALUES ('104.28.147.9/32', 'IPv4');

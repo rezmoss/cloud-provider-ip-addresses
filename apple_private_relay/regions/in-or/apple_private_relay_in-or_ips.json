@@ -630,6 +630,11 @@
     "region": "IN-OR"
   },
   {
+    "ip_address": "104.28.137.6/32",
+    "ip_type": "IPv4",
+    "region": "IN-OR"
+  },
+  {
     "ip_address": "104.28.147.56/32",
     "ip_type": "IPv4",
     "region": "IN-OR"

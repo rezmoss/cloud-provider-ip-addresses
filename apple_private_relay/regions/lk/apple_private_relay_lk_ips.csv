@@ -27,6 +27,7 @@ ip_address,ip_type,region
 2a02:26f7:d5c9:ce63::/64,IPv6,LK
 2a02:26f7:d5ca:4000::/64,IPv6,LK
 2a02:26f7:d5cb:4000::/64,IPv6,LK
+104.28.137.7/32,IPv4,LK
 104.28.147.7/32,IPv4,LK
 104.28.147.8/32,IPv4,LK
 104.28.147.9/32,IPv4,LK
