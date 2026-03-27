@@ -1,6 +1,6 @@
 #!/bin/bash
 # Oracle IP Ranges
-# Updated: 2026-03-11 01:51:32
+# Updated: 2026-03-27 02:08:35
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -22,6 +22,12 @@ ufw deny from 192.29.8.0/21
 ufw deny from 192.29.64.0/21
 ufw deny from 192.29.72.0/25
 ufw deny from 204.216.127.192/26
+ufw deny from 79.72.20.0/23
+ufw deny from 130.110.239.0/24
+ufw deny from 140.91.78.0/23
+ufw deny from 140.204.112.128/25
+ufw deny from 155.248.136.0/22
+ufw deny from 155.248.140.0/25
 ufw deny from 140.91.40.0/23
 ufw deny from 140.204.24.128/25
 ufw deny from 146.56.61.192/26
@@ -109,12 +115,6 @@ ufw deny from 140.91.74.0/23
 ufw deny from 140.204.104.128/25
 ufw deny from 141.253.215.0/24
 ufw deny from 158.179.8.0/22
-ufw deny from 79.72.20.0/23
-ufw deny from 130.110.239.0/24
-ufw deny from 140.91.78.0/23
-ufw deny from 140.204.112.128/25
-ufw deny from 155.248.136.0/22
-ufw deny from 155.248.140.0/25
 ufw deny from 92.4.176.0/20
 ufw deny from 92.4.192.0/21
 ufw deny from 130.35.112.0/22

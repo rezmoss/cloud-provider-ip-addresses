@@ -5,6 +5,46 @@
     "region": "JP-27"
   },
   {
+    "ip_address": "192.0.2.0/24",
+    "ip_type": "IPv4",
+    "region": "JP-27"
+  },
+  {
+    "ip_address": "198.51.100.0/24",
+    "ip_type": "IPv4",
+    "region": "JP-27"
+  },
+  {
+    "ip_address": "203.0.113.0/24",
+    "ip_type": "IPv4",
+    "region": "JP-27"
+  },
+  {
+    "ip_address": "2001:2::/48",
+    "ip_type": "IPv6",
+    "region": "JP-27"
+  },
+  {
+    "ip_address": "2001:10::/28",
+    "ip_type": "IPv6",
+    "region": "JP-27"
+  },
+  {
+    "ip_address": "2001:db8::/32",
+    "ip_type": "IPv6",
+    "region": "JP-27"
+  },
+  {
+    "ip_address": "2002::/16",
+    "ip_type": "IPv6",
+    "region": "JP-27"
+  },
+  {
+    "ip_address": "2001:19f0:ffff::/48",
+    "ip_type": "IPv6",
+    "region": "JP-27"
+  },
+  {
     "ip_address": "2401:c080:3800::/38",
     "ip_type": "IPv6",
     "region": "JP-27"

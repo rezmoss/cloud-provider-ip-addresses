@@ -1248,6 +1248,12 @@
     "region": "ap-northeast-1"
   },
   {
+    "ip_address": "13.193.210.0/23",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-northeast-1"
+  },
+  {
     "ip_address": "18.177.156.192/26",
     "ip_type": "IPv4",
     "service": "AMAZON",

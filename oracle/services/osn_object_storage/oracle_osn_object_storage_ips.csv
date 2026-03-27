@@ -1,6 +1,7 @@
 ip_address,ip_type,service,region
 134.70.200.0/23,IPv4,"OSN,OBJECT_STORAGE",mx-monterrey-1
 134.70.72.0/22,IPv4,"OSN,OBJECT_STORAGE",ca-toronto-1
+134.70.176.0/22,IPv4,"OSN,OBJECT_STORAGE",eu-madrid-1
 134.70.96.0/22,IPv4,"OSN,OBJECT_STORAGE",ap-seoul-1
 134.70.112.0/22,IPv4,"OSN,OBJECT_STORAGE",ap-osaka-1
 134.70.84.0/22,IPv4,"OSN,OBJECT_STORAGE",sa-saopaulo-1
@@ -13,7 +14,6 @@ ip_address,ip_type,service,region
 134.70.156.0/22,IPv4,"OSN,OBJECT_STORAGE",eu-stockholm-1
 134.70.164.0/22,IPv4,"OSN,OBJECT_STORAGE",eu-marseille-1
 134.70.168.0/22,IPv4,"OSN,OBJECT_STORAGE",eu-milan-1
-134.70.176.0/22,IPv4,"OSN,OBJECT_STORAGE",eu-madrid-1
 134.70.56.0/21,IPv4,"OSN,OBJECT_STORAGE",uk-london-1
 134.70.64.0/22,IPv4,"OSN,OBJECT_STORAGE",uk-london-1
 134.70.40.0/21,IPv4,"OSN,OBJECT_STORAGE",eu-frankfurt-1

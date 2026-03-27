@@ -78,6 +78,48 @@
     "region": "ca-toronto-1"
   },
   {
+    "ip_address": "51.170.32.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "eu-madrid-1"
+  },
+  {
+    "ip_address": "79.72.48.0/20",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "eu-madrid-1"
+  },
+  {
+    "ip_address": "89.168.0.0/21",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "eu-madrid-1"
+  },
+  {
+    "ip_address": "130.110.232.0/22",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "eu-madrid-1"
+  },
+  {
+    "ip_address": "141.253.192.0/20",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "eu-madrid-1"
+  },
+  {
+    "ip_address": "143.47.32.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "eu-madrid-1"
+  },
+  {
+    "ip_address": "158.179.208.0/20",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "eu-madrid-1"
+  },
+  {
     "ip_address": "64.110.64.0/19",
     "ip_type": "IPv4",
     "service": "OCI",
@@ -1026,42 +1068,6 @@
     "region": "eu-milan-1"
   },
   {
-    "ip_address": "79.72.48.0/20",
-    "ip_type": "IPv4",
-    "service": "OCI",
-    "region": "eu-madrid-1"
-  },
-  {
-    "ip_address": "89.168.0.0/21",
-    "ip_type": "IPv4",
-    "service": "OCI",
-    "region": "eu-madrid-1"
-  },
-  {
-    "ip_address": "130.110.232.0/22",
-    "ip_type": "IPv4",
-    "service": "OCI",
-    "region": "eu-madrid-1"
-  },
-  {
-    "ip_address": "141.253.192.0/20",
-    "ip_type": "IPv4",
-    "service": "OCI",
-    "region": "eu-madrid-1"
-  },
-  {
-    "ip_address": "143.47.32.0/19",
-    "ip_type": "IPv4",
-    "service": "OCI",
-    "region": "eu-madrid-1"
-  },
-  {
-    "ip_address": "158.179.208.0/20",
-    "ip_type": "IPv4",
-    "service": "OCI",
-    "region": "eu-madrid-1"
-  },
-  {
     "ip_address": "79.72.64.0/19",
     "ip_type": "IPv4",
     "service": "OCI",
@@ -1471,6 +1477,12 @@
   },
   {
     "ip_address": "80.225.184.0/21",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "eu-madrid-3"
+  },
+  {
+    "ip_address": "82.70.64.0/19",
     "ip_type": "IPv4",
     "service": "OCI",
     "region": "eu-madrid-3"

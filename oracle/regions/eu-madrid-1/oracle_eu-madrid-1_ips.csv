@@ -1,4 +1,5 @@
 ip_address,ip_type,service,region
+51.170.32.0/19,IPv4,OCI,eu-madrid-1
 79.72.48.0/20,IPv4,OCI,eu-madrid-1
 89.168.0.0/21,IPv4,OCI,eu-madrid-1
 130.110.232.0/22,IPv4,OCI,eu-madrid-1

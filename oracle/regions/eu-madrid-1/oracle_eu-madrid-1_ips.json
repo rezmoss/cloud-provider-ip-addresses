@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "51.170.32.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "eu-madrid-1"
+  },
+  {
     "ip_address": "79.72.48.0/20",
     "ip_type": "IPv4",
     "service": "OCI",

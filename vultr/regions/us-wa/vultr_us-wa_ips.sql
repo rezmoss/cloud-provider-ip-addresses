@@ -20,5 +20,4 @@ INSERT INTO `vultr_us-wa_ips` (`ip_address`, `ip_type`) VALUES ('137.220.32.0/20
 INSERT INTO `vultr_us-wa_ips` (`ip_address`, `ip_type`) VALUES ('144.202.80.0/20', 'IPv4');
 INSERT INTO `vultr_us-wa_ips` (`ip_address`, `ip_type`) VALUES ('149.28.8.0/21', 'IPv4');
 INSERT INTO `vultr_us-wa_ips` (`ip_address`, `ip_type`) VALUES ('149.248.32.0/20', 'IPv4');
-INSERT INTO `vultr_us-wa_ips` (`ip_address`, `ip_type`) VALUES ('2001:19f0:ffff::/48', 'IPv6');
 INSERT INTO `vultr_us-wa_ips` (`ip_address`, `ip_type`) VALUES ('2001:19f0:8000::/38', 'IPv6');

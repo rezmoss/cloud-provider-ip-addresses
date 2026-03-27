@@ -90,6 +90,42 @@
     "region": "ca-toronto-1"
   },
   {
+    "ip_address": "79.72.20.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-madrid-1"
+  },
+  {
+    "ip_address": "130.110.239.0/24",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-madrid-1"
+  },
+  {
+    "ip_address": "140.91.78.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-madrid-1"
+  },
+  {
+    "ip_address": "140.204.112.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-madrid-1"
+  },
+  {
+    "ip_address": "155.248.136.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-madrid-1"
+  },
+  {
+    "ip_address": "155.248.140.0/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-madrid-1"
+  },
+  {
     "ip_address": "140.91.40.0/23",
     "ip_type": "IPv4",
     "service": "OSN",
@@ -610,42 +646,6 @@
     "ip_type": "IPv4",
     "service": "OSN",
     "region": "eu-milan-1"
-  },
-  {
-    "ip_address": "79.72.20.0/23",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "eu-madrid-1"
-  },
-  {
-    "ip_address": "130.110.239.0/24",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "eu-madrid-1"
-  },
-  {
-    "ip_address": "140.91.78.0/23",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "eu-madrid-1"
-  },
-  {
-    "ip_address": "140.204.112.128/25",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "eu-madrid-1"
-  },
-  {
-    "ip_address": "155.248.136.0/22",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "eu-madrid-1"
-  },
-  {
-    "ip_address": "155.248.140.0/25",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "eu-madrid-1"
   },
   {
     "ip_address": "92.4.176.0/20",

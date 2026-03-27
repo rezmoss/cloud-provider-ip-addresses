@@ -12,6 +12,12 @@
     "region": "ca-toronto-1"
   },
   {
+    "ip_address": "134.70.176.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN,OBJECT_STORAGE",
+    "region": "eu-madrid-1"
+  },
+  {
     "ip_address": "134.70.96.0/22",
     "ip_type": "IPv4",
     "service": "OSN,OBJECT_STORAGE",
@@ -82,12 +88,6 @@
     "ip_type": "IPv4",
     "service": "OSN,OBJECT_STORAGE",
     "region": "eu-milan-1"
-  },
-  {
-    "ip_address": "134.70.176.0/22",
-    "ip_type": "IPv4",
-    "service": "OSN,OBJECT_STORAGE",
-    "region": "eu-madrid-1"
   },
   {
     "ip_address": "134.70.56.0/21",

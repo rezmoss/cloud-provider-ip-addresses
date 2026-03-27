@@ -8,6 +8,7 @@ CREATE TABLE IF NOT EXISTS `oracle_osn_object_storage_ips` (
 
 INSERT INTO `oracle_osn_object_storage_ips` (`ip_address`, `ip_type`) VALUES ('134.70.200.0/23', 'IPv4');
 INSERT INTO `oracle_osn_object_storage_ips` (`ip_address`, `ip_type`) VALUES ('134.70.72.0/22', 'IPv4');
+INSERT INTO `oracle_osn_object_storage_ips` (`ip_address`, `ip_type`) VALUES ('134.70.176.0/22', 'IPv4');
 INSERT INTO `oracle_osn_object_storage_ips` (`ip_address`, `ip_type`) VALUES ('134.70.96.0/22', 'IPv4');
 INSERT INTO `oracle_osn_object_storage_ips` (`ip_address`, `ip_type`) VALUES ('134.70.112.0/22', 'IPv4');
 INSERT INTO `oracle_osn_object_storage_ips` (`ip_address`, `ip_type`) VALUES ('134.70.84.0/22', 'IPv4');
@@ -20,7 +21,6 @@ INSERT INTO `oracle_osn_object_storage_ips` (`ip_address`, `ip_type`) VALUES ('1
 INSERT INTO `oracle_osn_object_storage_ips` (`ip_address`, `ip_type`) VALUES ('134.70.156.0/22', 'IPv4');
 INSERT INTO `oracle_osn_object_storage_ips` (`ip_address`, `ip_type`) VALUES ('134.70.164.0/22', 'IPv4');
 INSERT INTO `oracle_osn_object_storage_ips` (`ip_address`, `ip_type`) VALUES ('134.70.168.0/22', 'IPv4');
-INSERT INTO `oracle_osn_object_storage_ips` (`ip_address`, `ip_type`) VALUES ('134.70.176.0/22', 'IPv4');
 INSERT INTO `oracle_osn_object_storage_ips` (`ip_address`, `ip_type`) VALUES ('134.70.56.0/21', 'IPv4');
 INSERT INTO `oracle_osn_object_storage_ips` (`ip_address`, `ip_type`) VALUES ('134.70.64.0/22', 'IPv4');
 INSERT INTO `oracle_osn_object_storage_ips` (`ip_address`, `ip_type`) VALUES ('134.70.40.0/21', 'IPv4');

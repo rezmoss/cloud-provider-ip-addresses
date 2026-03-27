@@ -13,5 +13,4 @@ ip_address,ip_type,region
 144.202.80.0/20,IPv4,US-WA
 149.28.8.0/21,IPv4,US-WA
 149.248.32.0/20,IPv4,US-WA
-2001:19f0:ffff::/48,IPv6,US-WA
 2001:19f0:8000::/38,IPv6,US-WA
