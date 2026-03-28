@@ -1,9 +1,9 @@
 {
-  "generated": "2026-03-27T02:09:44.597489",
+  "generated": "2026-03-28T02:00:55.900778",
   "provider_count": 22,
-  "total_ipv4_addresses": 335641755,
-  "total_ipv6_addresses": 5205418619788658917414227693317153,
-  "ipv4_space_coverage_pct": 7.8148,
+  "total_ipv4_addresses": 335664293,
+  "total_ipv6_addresses": 5205440288575049690027555126815777,
+  "ipv4_space_coverage_pct": 7.8153,
   "providers": {
     "cloudflare": {
       "ipv4_cidrs": 15,
@@ -15,11 +15,11 @@
       "regions": 0
     },
     "aws": {
-      "ipv4_cidrs": 10008,
-      "ipv6_cidrs": 5287,
-      "total_cidrs": 15295,
-      "ipv4_addresses": 181364533,
-      "ipv6_addresses": 3164369698831118446054862749709,
+      "ipv4_cidrs": 10016,
+      "ipv6_cidrs": 5298,
+      "total_cidrs": 15314,
+      "ipv4_addresses": 181387061,
+      "ipv6_addresses": 3186038485221891059382296248333,
       "services": 26,
       "regions": 42
     },
@@ -159,10 +159,10 @@
       "regions": 0
     },
     "duckduckbot": {
-      "ipv4_cidrs": 300,
+      "ipv4_cidrs": 310,
       "ipv6_cidrs": 0,
-      "total_cidrs": 300,
-      "ipv4_addresses": 300,
+      "total_cidrs": 310,
+      "ipv4_addresses": 310,
       "ipv6_addresses": 0,
       "services": 1,
       "regions": 0

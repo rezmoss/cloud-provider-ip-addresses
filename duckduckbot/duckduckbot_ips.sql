@@ -60,7 +60,6 @@ INSERT INTO `duckduckbot_ips` (`ip_address`, `ip_type`) VALUES ('20.219.43.246/3
 INSERT INTO `duckduckbot_ips` (`ip_address`, `ip_type`) VALUES ('20.219.45.190/32', 'IPv4');
 INSERT INTO `duckduckbot_ips` (`ip_address`, `ip_type`) VALUES ('20.219.45.67/32', 'IPv4');
 INSERT INTO `duckduckbot_ips` (`ip_address`, `ip_type`) VALUES ('20.226.133.105/32', 'IPv4');
-INSERT INTO `duckduckbot_ips` (`ip_address`, `ip_type`) VALUES ('20.232.184.230/32', 'IPv4');
 INSERT INTO `duckduckbot_ips` (`ip_address`, `ip_type`) VALUES ('20.3.1.178/32', 'IPv4');
 INSERT INTO `duckduckbot_ips` (`ip_address`, `ip_type`) VALUES ('20.40.133.240/32', 'IPv4');
 INSERT INTO `duckduckbot_ips` (`ip_address`, `ip_type`) VALUES ('20.43.150.85/32', 'IPv4');
@@ -133,7 +132,6 @@ INSERT INTO `duckduckbot_ips` (`ip_address`, `ip_type`) VALUES ('40.76.162.247/3
 INSERT INTO `duckduckbot_ips` (`ip_address`, `ip_type`) VALUES ('40.76.163.23/32', 'IPv4');
 INSERT INTO `duckduckbot_ips` (`ip_address`, `ip_type`) VALUES ('40.76.163.7/32', 'IPv4');
 INSERT INTO `duckduckbot_ips` (`ip_address`, `ip_type`) VALUES ('40.76.173.151/32', 'IPv4');
-INSERT INTO `duckduckbot_ips` (`ip_address`, `ip_type`) VALUES ('40.80.242.63/32', 'IPv4');
 INSERT INTO `duckduckbot_ips` (`ip_address`, `ip_type`) VALUES ('40.81.250.205/32', 'IPv4');
 INSERT INTO `duckduckbot_ips` (`ip_address`, `ip_type`) VALUES ('40.88.21.235/32', 'IPv4');
 INSERT INTO `duckduckbot_ips` (`ip_address`, `ip_type`) VALUES ('40.89.243.175/32', 'IPv4');
@@ -306,3 +304,15 @@ INSERT INTO `duckduckbot_ips` (`ip_address`, `ip_type`) VALUES ('20.77.146.108/3
 INSERT INTO `duckduckbot_ips` (`ip_address`, `ip_type`) VALUES ('20.49.129.236/32', 'IPv4');
 INSERT INTO `duckduckbot_ips` (`ip_address`, `ip_type`) VALUES ('13.86.35.212/32', 'IPv4');
 INSERT INTO `duckduckbot_ips` (`ip_address`, `ip_type`) VALUES ('20.118.11.251/32', 'IPv4');
+INSERT INTO `duckduckbot_ips` (`ip_address`, `ip_type`) VALUES ('172.194.141.49/32', 'IPv4');
+INSERT INTO `duckduckbot_ips` (`ip_address`, `ip_type`) VALUES ('20.195.58.189/32', 'IPv4');
+INSERT INTO `duckduckbot_ips` (`ip_address`, `ip_type`) VALUES ('20.212.90.107/32', 'IPv4');
+INSERT INTO `duckduckbot_ips` (`ip_address`, `ip_type`) VALUES ('20.252.16.193/32', 'IPv4');
+INSERT INTO `duckduckbot_ips` (`ip_address`, `ip_type`) VALUES ('20.43.152.28/32', 'IPv4');
+INSERT INTO `duckduckbot_ips` (`ip_address`, `ip_type`) VALUES ('20.64.185.45/32', 'IPv4');
+INSERT INTO `duckduckbot_ips` (`ip_address`, `ip_type`) VALUES ('20.69.129.205/32', 'IPv4');
+INSERT INTO `duckduckbot_ips` (`ip_address`, `ip_type`) VALUES ('20.69.131.45/32', 'IPv4');
+INSERT INTO `duckduckbot_ips` (`ip_address`, `ip_type`) VALUES ('20.80.156.88/32', 'IPv4');
+INSERT INTO `duckduckbot_ips` (`ip_address`, `ip_type`) VALUES ('4.144.182.50/32', 'IPv4');
+INSERT INTO `duckduckbot_ips` (`ip_address`, `ip_type`) VALUES ('48.204.32.87/32', 'IPv4');
+INSERT INTO `duckduckbot_ips` (`ip_address`, `ip_type`) VALUES ('57.155.18.44/32', 'IPv4');

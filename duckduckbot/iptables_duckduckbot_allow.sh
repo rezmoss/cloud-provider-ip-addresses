@@ -1,6 +1,6 @@
 #!/bin/bash
 # Duckduckbot IP Ranges
-# Updated: 2026-03-06 01:57:26
+# Updated: 2026-03-28 02:00:26
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -61,7 +61,6 @@ iptables -A INPUT -s 20.219.43.246/32 -j ACCEPT
 iptables -A INPUT -s 20.219.45.190/32 -j ACCEPT
 iptables -A INPUT -s 20.219.45.67/32 -j ACCEPT
 iptables -A INPUT -s 20.226.133.105/32 -j ACCEPT
-iptables -A INPUT -s 20.232.184.230/32 -j ACCEPT
 iptables -A INPUT -s 20.3.1.178/32 -j ACCEPT
 iptables -A INPUT -s 20.40.133.240/32 -j ACCEPT
 iptables -A INPUT -s 20.43.150.85/32 -j ACCEPT
@@ -134,7 +133,6 @@ iptables -A INPUT -s 40.76.162.247/32 -j ACCEPT
 iptables -A INPUT -s 40.76.163.23/32 -j ACCEPT
 iptables -A INPUT -s 40.76.163.7/32 -j ACCEPT
 iptables -A INPUT -s 40.76.173.151/32 -j ACCEPT
-iptables -A INPUT -s 40.80.242.63/32 -j ACCEPT
 iptables -A INPUT -s 40.81.250.205/32 -j ACCEPT
 iptables -A INPUT -s 40.88.21.235/32 -j ACCEPT
 iptables -A INPUT -s 40.89.243.175/32 -j ACCEPT
@@ -307,3 +305,15 @@ iptables -A INPUT -s 20.77.146.108/32 -j ACCEPT
 iptables -A INPUT -s 20.49.129.236/32 -j ACCEPT
 iptables -A INPUT -s 13.86.35.212/32 -j ACCEPT
 iptables -A INPUT -s 20.118.11.251/32 -j ACCEPT
+iptables -A INPUT -s 172.194.141.49/32 -j ACCEPT
+iptables -A INPUT -s 20.195.58.189/32 -j ACCEPT
+iptables -A INPUT -s 20.212.90.107/32 -j ACCEPT
+iptables -A INPUT -s 20.252.16.193/32 -j ACCEPT
+iptables -A INPUT -s 20.43.152.28/32 -j ACCEPT
+iptables -A INPUT -s 20.64.185.45/32 -j ACCEPT
+iptables -A INPUT -s 20.69.129.205/32 -j ACCEPT
+iptables -A INPUT -s 20.69.131.45/32 -j ACCEPT
+iptables -A INPUT -s 20.80.156.88/32 -j ACCEPT
+iptables -A INPUT -s 4.144.182.50/32 -j ACCEPT
+iptables -A INPUT -s 48.204.32.87/32 -j ACCEPT
+iptables -A INPUT -s 57.155.18.44/32 -j ACCEPT

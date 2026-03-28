@@ -129,6 +129,7 @@ INSERT INTO `aws_eu-west-1_ips` (`ip_address`, `ip_type`) VALUES ('150.222.168.3
 INSERT INTO `aws_eu-west-1_ips` (`ip_address`, `ip_type`) VALUES ('52.144.218.0/26', 'IPv4');
 INSERT INTO `aws_eu-west-1_ips` (`ip_address`, `ip_type`) VALUES ('99.80.0.0/15', 'IPv4');
 INSERT INTO `aws_eu-west-1_ips` (`ip_address`, `ip_type`) VALUES ('13.248.121.0/24', 'IPv4');
+INSERT INTO `aws_eu-west-1_ips` (`ip_address`, `ip_type`) VALUES ('35.97.144.0/20', 'IPv4');
 INSERT INTO `aws_eu-west-1_ips` (`ip_address`, `ip_type`) VALUES ('150.222.164.211/32', 'IPv4');
 INSERT INTO `aws_eu-west-1_ips` (`ip_address`, `ip_type`) VALUES ('173.83.214.0/24', 'IPv4');
 INSERT INTO `aws_eu-west-1_ips` (`ip_address`, `ip_type`) VALUES ('52.93.242.0/24', 'IPv4');
@@ -183,6 +184,7 @@ INSERT INTO `aws_eu-west-1_ips` (`ip_address`, `ip_type`) VALUES ('176.34.64.0/1
 INSERT INTO `aws_eu-west-1_ips` (`ip_address`, `ip_type`) VALUES ('15.230.19.0/24', 'IPv4');
 INSERT INTO `aws_eu-west-1_ips` (`ip_address`, `ip_type`) VALUES ('35.50.195.0/24', 'IPv4');
 INSERT INTO `aws_eu-west-1_ips` (`ip_address`, `ip_type`) VALUES ('150.102.0.0/16', 'IPv4');
+INSERT INTO `aws_eu-west-1_ips` (`ip_address`, `ip_type`) VALUES ('35.97.240.0/20', 'IPv4');
 INSERT INTO `aws_eu-west-1_ips` (`ip_address`, `ip_type`) VALUES ('150.247.44.0/24', 'IPv4');
 INSERT INTO `aws_eu-west-1_ips` (`ip_address`, `ip_type`) VALUES ('208.86.90.0/23', 'IPv4');
 INSERT INTO `aws_eu-west-1_ips` (`ip_address`, `ip_type`) VALUES ('15.230.188.0/25', 'IPv4');
@@ -569,6 +571,7 @@ INSERT INTO `aws_eu-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f0:e1c
 INSERT INTO `aws_eu-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d038:8000::/40', 'IPv6');
 INSERT INTO `aws_eu-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d05a:8000::/40', 'IPv6');
 INSERT INTO `aws_eu-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f2:7015::/48', 'IPv6');
+INSERT INTO `aws_eu-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2631:0:1000::/39', 'IPv6');
 INSERT INTO `aws_eu-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d050:8000::/40', 'IPv6');
 INSERT INTO `aws_eu-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2631:1:101::/48', 'IPv6');
 INSERT INTO `aws_eu-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2606:f40:9000::/39', 'IPv6');

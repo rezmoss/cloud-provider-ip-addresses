@@ -2,13 +2,13 @@
 
 Daily IP range changes across all providers.
 
-## 2026-03-27
-
-### oracle
-- Added: 2 CIDRs
-- Removed: 0 CIDRs
+## 2026-03-28
 
 ### aws
-- Added: 5 CIDRs
-- Removed: 8 CIDRs
+- Added: 13 CIDRs
+- Removed: 0 CIDRs
+
+### duckduckbot
+- Added: 12 CIDRs
+- Removed: 2 CIDRs
 
