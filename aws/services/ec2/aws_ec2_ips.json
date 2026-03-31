@@ -6741,7 +6741,7 @@
     "ip_address": "1.178.86.0/23",
     "ip_type": "IPv4",
     "service": "EC2",
-    "region": "us-east-1"
+    "region": "us-east-2"
   },
   {
     "ip_address": "3.5.212.0/23",
@@ -13078,6 +13078,12 @@
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "ca-central-1"
+  },
+  {
+    "ip_address": "2600:f0f0:cfb::/48",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-east-2"
   },
   {
     "ip_address": "2600:f0f0:553f::/48",
