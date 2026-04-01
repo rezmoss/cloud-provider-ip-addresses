@@ -1,6 +1,6 @@
 #!/bin/bash
 # Aws IP Ranges
-# Updated: 2026-03-31 02:08:43
+# Updated: 2026-04-01 02:25:39
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -10347,6 +10347,7 @@ ip6tables -A INPUT -s 2600:f0f0:e01::/48 -j ACCEPT
 ip6tables -A INPUT -s 2600:f0f0:e1b::/48 -j ACCEPT
 ip6tables -A INPUT -s 2600:f0f0:6116::/48 -j ACCEPT
 ip6tables -A INPUT -s 2606:f40:a200::/40 -j ACCEPT
+ip6tables -A INPUT -s 2606:7b40:1b0d:8300::/56 -j ACCEPT
 ip6tables -A INPUT -s 2a05:d033:6000::/40 -j ACCEPT
 ip6tables -A INPUT -s 2406:da18::/35 -j ACCEPT
 ip6tables -A INPUT -s 2406:da2c::/36 -j ACCEPT
@@ -12477,6 +12478,7 @@ ip6tables -A INPUT -s 2406:daf4:800::/40 -j ACCEPT
 ip6tables -A INPUT -s 2600:1ff3:a400::/40 -j ACCEPT
 ip6tables -A INPUT -s 2600:f0f0:e2c::/48 -j ACCEPT
 ip6tables -A INPUT -s 2600:f0f0:111a::/48 -j ACCEPT
+ip6tables -A INPUT -s 2606:7b40:1b0f:600::/56 -j ACCEPT
 ip6tables -A INPUT -s 2a05:d036:b000::/40 -j ACCEPT
 ip6tables -A INPUT -s 2a05:d05b:6000::/40 -j ACCEPT
 ip6tables -A INPUT -s 2600:f0f2:7100::/40 -j ACCEPT
@@ -13495,6 +13497,7 @@ ip6tables -A INPUT -s 2600:f0f0:e01::/48 -j ACCEPT
 ip6tables -A INPUT -s 2600:f0f0:e1b::/48 -j ACCEPT
 ip6tables -A INPUT -s 2600:f0f0:6116::/48 -j ACCEPT
 ip6tables -A INPUT -s 2606:f40:a200::/40 -j ACCEPT
+ip6tables -A INPUT -s 2606:7b40:1b0d:8300::/56 -j ACCEPT
 ip6tables -A INPUT -s 2a05:d033:6000::/40 -j ACCEPT
 ip6tables -A INPUT -s 2406:da18::/35 -j ACCEPT
 ip6tables -A INPUT -s 2406:da2c::/36 -j ACCEPT
@@ -15173,6 +15176,7 @@ ip6tables -A INPUT -s 2406:daf4:800::/40 -j ACCEPT
 ip6tables -A INPUT -s 2600:1ff3:a400::/40 -j ACCEPT
 ip6tables -A INPUT -s 2600:f0f0:e2c::/48 -j ACCEPT
 ip6tables -A INPUT -s 2600:f0f0:111a::/48 -j ACCEPT
+ip6tables -A INPUT -s 2606:7b40:1b0f:600::/56 -j ACCEPT
 ip6tables -A INPUT -s 2a05:d036:b000::/40 -j ACCEPT
 ip6tables -A INPUT -s 2a05:d05b:6000::/40 -j ACCEPT
 ip6tables -A INPUT -s 2600:9000:f530::/46 -j ACCEPT

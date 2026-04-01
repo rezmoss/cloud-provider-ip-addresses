@@ -3745,9 +3745,19 @@
     "region": "NL-NH"
   },
   {
+    "ip_address": "165.245.204.0/22",
+    "ip_type": "IPv4",
+    "region": "AU-NSW"
+  },
+  {
     "ip_address": "165.245.208.0/20",
     "ip_type": "IPv4",
     "region": "DE-HE"
+  },
+  {
+    "ip_address": "165.245.224.0/20",
+    "ip_type": "IPv4",
+    "region": "CA-ON"
   },
   {
     "ip_address": "167.71.0.0/20",

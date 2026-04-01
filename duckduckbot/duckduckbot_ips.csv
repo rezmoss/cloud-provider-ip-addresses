@@ -1,4 +1,13 @@
 ip_address,ip_type,service
+4.254.123.56/32,IPv4,duckduckbot
+4.248.234.26/32,IPv4,duckduckbot
+74.242.194.48/32,IPv4,duckduckbot
+131.189.183.241/32,IPv4,duckduckbot
+132.220.1.71/32,IPv4,duckduckbot
+172.189.40.18/32,IPv4,duckduckbot
+4.177.16.196/32,IPv4,duckduckbot
+131.145.39.118/32,IPv4,duckduckbot
+172.168.43.43/32,IPv4,duckduckbot
 130.107.228.224/32,IPv4,duckduckbot
 104.43.54.127/32,IPv4,duckduckbot
 104.43.55.116/32,IPv4,duckduckbot

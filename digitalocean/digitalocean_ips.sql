@@ -755,7 +755,9 @@ INSERT INTO `digitalocean_ips` (`ip_address`, `ip_type`) VALUES ('165.245.160.0/
 INSERT INTO `digitalocean_ips` (`ip_address`, `ip_type`) VALUES ('165.245.176.0/20', 'IPv4');
 INSERT INTO `digitalocean_ips` (`ip_address`, `ip_type`) VALUES ('165.245.192.0/21', 'IPv4');
 INSERT INTO `digitalocean_ips` (`ip_address`, `ip_type`) VALUES ('165.245.200.0/22', 'IPv4');
+INSERT INTO `digitalocean_ips` (`ip_address`, `ip_type`) VALUES ('165.245.204.0/22', 'IPv4');
 INSERT INTO `digitalocean_ips` (`ip_address`, `ip_type`) VALUES ('165.245.208.0/20', 'IPv4');
+INSERT INTO `digitalocean_ips` (`ip_address`, `ip_type`) VALUES ('165.245.224.0/20', 'IPv4');
 INSERT INTO `digitalocean_ips` (`ip_address`, `ip_type`) VALUES ('167.71.0.0/20', 'IPv4');
 INSERT INTO `digitalocean_ips` (`ip_address`, `ip_type`) VALUES ('167.71.16.0/20', 'IPv4');
 INSERT INTO `digitalocean_ips` (`ip_address`, `ip_type`) VALUES ('167.71.32.0/20', 'IPv4');
