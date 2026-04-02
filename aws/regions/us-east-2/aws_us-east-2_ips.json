@@ -3486,6 +3486,18 @@
     "region": "us-east-2"
   },
   {
+    "ip_address": "3.146.72.40/29",
+    "ip_type": "IPv4",
+    "service": "MEDIA_PACKAGE_V2",
+    "region": "us-east-2"
+  },
+  {
+    "ip_address": "3.149.13.208/29",
+    "ip_type": "IPv4",
+    "service": "MEDIA_PACKAGE_V2",
+    "region": "us-east-2"
+  },
+  {
     "ip_address": "35.71.102.0/24",
     "ip_type": "IPv4",
     "service": "DYNAMODB",

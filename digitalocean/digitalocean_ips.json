@@ -4060,6 +4060,11 @@
     "region": "SG-05"
   },
   {
+    "ip_address": "168.144.64.0/20",
+    "ip_type": "IPv4",
+    "region": "IN-KA"
+  },
+  {
     "ip_address": "170.64.128.0/18",
     "ip_type": "IPv4",
     "region": "AU-NSW"

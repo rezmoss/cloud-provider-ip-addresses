@@ -2292,6 +2292,18 @@
     "region": "eu-west-2"
   },
   {
+    "ip_address": "16.60.228.160/29",
+    "ip_type": "IPv4",
+    "service": "MEDIA_PACKAGE_V2",
+    "region": "eu-west-2"
+  },
+  {
+    "ip_address": "16.60.228.168/29",
+    "ip_type": "IPv4",
+    "service": "MEDIA_PACKAGE_V2",
+    "region": "eu-west-2"
+  },
+  {
     "ip_address": "52.94.15.0/24",
     "ip_type": "IPv4",
     "service": "DYNAMODB",

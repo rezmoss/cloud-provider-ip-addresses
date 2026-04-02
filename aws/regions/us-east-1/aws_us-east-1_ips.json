@@ -8070,6 +8070,18 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "32.192.104.128/29",
+    "ip_type": "IPv4",
+    "service": "MEDIA_PACKAGE_V2",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "32.192.104.24/29",
+    "ip_type": "IPv4",
+    "service": "MEDIA_PACKAGE_V2",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "44.216.41.152/29",
     "ip_type": "IPv4",
     "service": "MEDIA_PACKAGE_V2",

@@ -3366,6 +3366,18 @@
     "region": "eu-central-1"
   },
   {
+    "ip_address": "35.159.219.240/29",
+    "ip_type": "IPv4",
+    "service": "MEDIA_PACKAGE_V2",
+    "region": "eu-central-1"
+  },
+  {
+    "ip_address": "35.159.219.248/29",
+    "ip_type": "IPv4",
+    "service": "MEDIA_PACKAGE_V2",
+    "region": "eu-central-1"
+  },
+  {
     "ip_address": "52.94.17.0/24",
     "ip_type": "IPv4",
     "service": "DYNAMODB",

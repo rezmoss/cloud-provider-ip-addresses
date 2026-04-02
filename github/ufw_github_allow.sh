@@ -1,6 +1,6 @@
 #!/bin/bash
 # Github IP Ranges
-# Updated: 2026-03-25 02:01:12
+# Updated: 2026-04-02 02:05:25
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -973,6 +973,8 @@ ufw allow from 20.143.136.0/23
 ufw allow from 20.143.146.0/23
 ufw allow from 20.143.164.0/23
 ufw allow from 20.143.170.0/23
+ufw allow from 20.143.172.0/23
+ufw allow from 20.143.178.0/23
 ufw allow from 20.150.8.0/23
 ufw allow from 20.150.17.0/25
 ufw allow from 20.150.20.128/25
@@ -4050,8 +4052,9 @@ ufw allow from 57.157.29.192/27
 ufw allow from 57.157.29.224/29
 ufw allow from 57.157.29.232/31
 ufw allow from 57.157.32.0/23
-ufw allow from 57.157.34.0/26
-ufw allow from 57.157.34.64/29
+ufw allow from 57.157.34.0/25
+ufw allow from 57.157.34.128/27
+ufw allow from 57.157.34.160/31
 ufw allow from 57.157.44.0/25
 ufw allow from 57.157.44.128/27
 ufw allow from 57.157.44.160/28
@@ -4059,6 +4062,7 @@ ufw allow from 57.157.44.180/30
 ufw allow from 57.157.44.184/30
 ufw allow from 57.157.44.188/31
 ufw allow from 57.157.44.192/28
+ufw allow from 57.157.44.208/30
 ufw allow from 57.157.48.0/27
 ufw allow from 57.157.48.32/29
 ufw allow from 57.157.48.40/30
@@ -4086,25 +4090,32 @@ ufw allow from 57.157.49.96/27
 ufw allow from 57.157.49.128/27
 ufw allow from 57.157.49.160/28
 ufw allow from 57.157.49.176/30
-ufw allow from 57.157.56.0/26
-ufw allow from 57.157.56.64/27
-ufw allow from 57.157.56.96/30
-ufw allow from 57.157.56.100/31
-ufw allow from 57.157.64.0/28
+ufw allow from 57.157.49.186/31
+ufw allow from 57.157.56.0/25
+ufw allow from 57.157.56.128/27
+ufw allow from 57.157.56.160/29
+ufw allow from 57.157.56.168/30
+ufw allow from 57.157.64.0/27
+ufw allow from 57.157.64.32/29
+ufw allow from 57.157.64.40/30
+ufw allow from 57.157.64.44/31
 ufw allow from 57.157.72.0/25
 ufw allow from 57.157.72.128/27
-ufw allow from 57.157.72.160/30
-ufw allow from 57.157.76.0/28
-ufw allow from 57.157.76.16/30
+ufw allow from 57.157.72.160/29
+ufw allow from 57.157.76.0/26
 ufw allow from 57.157.80.0/25
 ufw allow from 57.157.80.128/28
 ufw allow from 57.157.80.144/29
-ufw allow from 57.157.80.152/31
+ufw allow from 57.157.80.152/30
 ufw allow from 57.157.128.0/24
 ufw allow from 57.157.129.0/28
-ufw allow from 57.157.129.16/30
+ufw allow from 57.157.129.16/29
 ufw allow from 57.162.0.0/17
 ufw allow from 57.162.128.0/17
+ufw allow from 57.163.10.0/23
+ufw allow from 57.163.16.0/23
+ufw allow from 57.165.0.0/17
+ufw allow from 57.165.128.0/17
 ufw allow from 64.4.8.0/24
 ufw allow from 64.4.54.0/24
 ufw allow from 64.236.0.0/17
@@ -5089,8 +5100,7 @@ ufw allow from 2603:1030:9:86c::/63
 ufw allow from 2603:1030:9:870::/62
 ufw allow from 2603:1030:9:874::/64
 ufw allow from 2603:1030:9:876::/63
-ufw allow from 2603:1030:9:878::/62
-ufw allow from 2603:1030:9:87c::/63
+ufw allow from 2603:1030:9:878::/61
 ufw allow from 2603:1030:a::/47
 ufw allow from 2603:1030:d::/48
 ufw allow from 2603:1030:10::/47
@@ -5437,6 +5447,7 @@ ufw allow from 2603:1030:401:a94::/62
 ufw allow from 2603:1030:401:a98::/61
 ufw allow from 2603:1030:401:aa0::/59
 ufw allow from 2603:1030:401:ac0::/63
+ufw allow from 2603:1030:401:ac5::/64
 ufw allow from 2603:1030:402::/47
 ufw allow from 2603:1030:406::/47
 ufw allow from 2603:1030:408::/48
@@ -5548,12 +5559,9 @@ ufw allow from 2603:1030:804:524::/62
 ufw allow from 2603:1030:804:528::/61
 ufw allow from 2603:1030:804:530::/60
 ufw allow from 2603:1030:804:540::/58
-ufw allow from 2603:1030:804:580::/58
-ufw allow from 2603:1030:804:5c0::/59
-ufw allow from 2603:1030:804:5e0::/60
-ufw allow from 2603:1030:804:5f0::/61
-ufw allow from 2603:1030:804:5f8::/63
-ufw allow from 2603:1030:804:5fa::/64
+ufw allow from 2603:1030:804:580::/57
+ufw allow from 2603:1030:804:600::/60
+ufw allow from 2603:1030:804:610::/64
 ufw allow from 2603:1030:805::/48
 ufw allow from 2603:1030:806::/48
 ufw allow from 2603:1030:807::/48

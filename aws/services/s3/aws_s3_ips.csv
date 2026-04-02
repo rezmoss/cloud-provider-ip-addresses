@@ -629,6 +629,7 @@ ip_address,ip_type,service,region
 2406:daf8:8000::/40,IPv6,S3,ap-southeast-1
 2600:1ff8:8000::/39,IPv6,S3,us-east-1
 2a05:d059:4000::/40,IPv6,S3,eu-central-1
+2400:7fc0:4100::/48,IPv6,S3,cn-north-1
 2600:1fa0:ec00::/40,IPv6,S3,sa-west-1
 2600:1fef:e000::/40,IPv6,S3,sa-east-1
 2600:1ff9:2000::/40,IPv6,S3,us-gov-west-1

@@ -2,17 +2,17 @@
 
 Daily IP range changes across all providers.
 
-## 2026-04-01
+## 2026-04-02
 
 ### digitalocean
-- Added: 2 CIDRs
+- Added: 1 CIDRs
 - Removed: 0 CIDRs
 
 ### aws
-- Added: 2 CIDRs
+- Added: 13 CIDRs
 - Removed: 0 CIDRs
 
-### duckduckbot
-- Added: 9 CIDRs
-- Removed: 0 CIDRs
+### github
+- Added: 28 CIDRs
+- Removed: 20 CIDRs
 
