@@ -1770,6 +1770,12 @@
     "region": "us-west-2"
   },
   {
+    "ip_address": "184.34.158.0/23",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-west-2"
+  },
+  {
     "ip_address": "34.223.24.0/22",
     "ip_type": "IPv4",
     "service": "AMAZON",
