@@ -2,9 +2,9 @@
 
 Daily IP range changes across all providers.
 
-## 2026-04-03
+## 2026-04-04
 
 ### aws
-- Added: 1 CIDRs
+- Added: 7 CIDRs
 - Removed: 0 CIDRs
 

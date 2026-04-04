@@ -1950,6 +1950,12 @@
     "region": "sa-east-1"
   },
   {
+    "ip_address": "2631:0:1200::/39",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "sa-east-1"
+  },
+  {
     "ip_address": "2600:1ff3:e000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",

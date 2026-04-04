@@ -348,6 +348,12 @@
     "region": "ca-central-1"
   },
   {
+    "ip_address": "35.98.32.0/20",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ca-central-1"
+  },
+  {
     "ip_address": "16.48.0.0/16",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -1171,6 +1177,12 @@
   },
   {
     "ip_address": "2600:1fff:1000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ca-central-1"
+  },
+  {
+    "ip_address": "2631:0:800::/39",
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "ca-central-1"

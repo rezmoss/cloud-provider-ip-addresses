@@ -1,6 +1,6 @@
 #!/bin/bash
 # Aws IP Ranges
-# Updated: 2026-02-13 02:03:55
+# Updated: 2026-04-04 01:59:11
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -63,6 +63,7 @@ iptables -A INPUT -s 52.83.34.128/25 -j ACCEPT
 iptables -A INPUT -s 52.83.35.0/25 -j ACCEPT
 iptables -A INPUT -s 52.83.35.128/25 -j ACCEPT
 iptables -A INPUT -s 52.82.184.0/23 -j ACCEPT
+iptables -A INPUT -s 43.194.16.0/24 -j ACCEPT
 iptables -A INPUT -s 52.82.164.0/22 -j ACCEPT
 iptables -A INPUT -s 52.82.188.0/22 -j ACCEPT
 iptables -A INPUT -s 68.79.2.192/28 -j ACCEPT
@@ -179,6 +180,7 @@ ip6tables -A INPUT -s 2404:c2c0:ef00::/40 -j ACCEPT
 ip6tables -A INPUT -s 240f:80fa:4000::/40 -j ACCEPT
 ip6tables -A INPUT -s 2404:c2c0:2800::/40 -j ACCEPT
 ip6tables -A INPUT -s 2404:c2c0:2c00::/40 -j ACCEPT
+ip6tables -A INPUT -s 2404:c2c0:4100::/48 -j ACCEPT
 ip6tables -A INPUT -s 2404:c2c0:6000::/40 -j ACCEPT
 ip6tables -A INPUT -s 2404:c2c0:2400::/40 -j ACCEPT
 ip6tables -A INPUT -s 2404:c2c0:c400::/40 -j ACCEPT

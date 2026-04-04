@@ -762,6 +762,12 @@
     "region": "us-west-1"
   },
   {
+    "ip_address": "43.194.16.0/24",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "cn-northwest-1"
+  },
+  {
     "ip_address": "3.5.168.0/23",
     "ip_type": "IPv4",
     "service": "S3",
@@ -1192,6 +1198,12 @@
     "ip_type": "IPv4",
     "service": "S3",
     "region": "eu-central-1"
+  },
+  {
+    "ip_address": "54.222.65.0/24",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "cn-north-1"
   },
   {
     "ip_address": "16.12.0.0/23",
@@ -3823,6 +3835,12 @@
   },
   {
     "ip_address": "2404:c2c0:2c00::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "2404:c2c0:4100::/48",
     "ip_type": "IPv6",
     "service": "S3",
     "region": "cn-northwest-1"
