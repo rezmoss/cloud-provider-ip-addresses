@@ -870,6 +870,12 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "35.98.64.0/20",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "52.119.232.0/21",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -8965,6 +8971,12 @@
   },
   {
     "ip_address": "2600:f0fb:eb00::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "2631:0:c00::/39",
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "us-east-1"

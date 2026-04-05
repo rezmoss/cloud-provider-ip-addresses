@@ -1542,6 +1542,12 @@
     "region": "us-east-2"
   },
   {
+    "ip_address": "35.98.48.0/20",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-east-2"
+  },
+  {
     "ip_address": "3.136.0.0/13",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -3775,6 +3781,12 @@
   },
   {
     "ip_address": "2620:107:4000:4703::/64",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-east-2"
+  },
+  {
+    "ip_address": "2631:0:a00::/39",
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "us-east-2"
