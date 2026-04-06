@@ -1010,11 +1010,6 @@
     "region": "IT"
   },
   {
-    "ip_address": "2a02:26f7:bcc0:5e76::/64",
-    "ip_type": "IPv6",
-    "region": "IT"
-  },
-  {
     "ip_address": "2a02:26f7:bcc0:5e77::/64",
     "ip_type": "IPv6",
     "region": "IT"
@@ -1510,11 +1505,6 @@
     "region": "IT"
   },
   {
-    "ip_address": "2a02:26f7:bcc0:5eda::/64",
-    "ip_type": "IPv6",
-    "region": "IT"
-  },
-  {
     "ip_address": "2a02:26f7:bcc0:5edb::/64",
     "ip_type": "IPv6",
     "region": "IT"
@@ -1865,11 +1855,6 @@
     "region": "IT"
   },
   {
-    "ip_address": "2a02:26f7:bcc0:5f21::/64",
-    "ip_type": "IPv6",
-    "region": "IT"
-  },
-  {
     "ip_address": "2a02:26f7:bcc0:5f22::/64",
     "ip_type": "IPv6",
     "region": "IT"
@@ -2031,11 +2016,6 @@
   },
   {
     "ip_address": "2a02:26f7:bcc0:5f42::/64",
-    "ip_type": "IPv6",
-    "region": "IT"
-  },
-  {
-    "ip_address": "2a02:26f7:bcc0:5f43::/64",
     "ip_type": "IPv6",
     "region": "IT"
   },
@@ -2355,11 +2335,6 @@
     "region": "IT"
   },
   {
-    "ip_address": "2a02:26f7:bcc0:5f83::/64",
-    "ip_type": "IPv6",
-    "region": "IT"
-  },
-  {
     "ip_address": "2a02:26f7:bcc0:5f84::/64",
     "ip_type": "IPv6",
     "region": "IT"
@@ -2456,11 +2431,6 @@
   },
   {
     "ip_address": "2a02:26f7:bcc0:5f97::/64",
-    "ip_type": "IPv6",
-    "region": "IT"
-  },
-  {
-    "ip_address": "2a02:26f7:bcc0:5f98::/64",
     "ip_type": "IPv6",
     "region": "IT"
   },
@@ -3185,11 +3155,6 @@
     "region": "IT"
   },
   {
-    "ip_address": "2a02:26f7:bcc4:5e76::/64",
-    "ip_type": "IPv6",
-    "region": "IT"
-  },
-  {
     "ip_address": "2a02:26f7:bcc4:5e77::/64",
     "ip_type": "IPv6",
     "region": "IT"
@@ -3685,11 +3650,6 @@
     "region": "IT"
   },
   {
-    "ip_address": "2a02:26f7:bcc4:5eda::/64",
-    "ip_type": "IPv6",
-    "region": "IT"
-  },
-  {
     "ip_address": "2a02:26f7:bcc4:5edb::/64",
     "ip_type": "IPv6",
     "region": "IT"
@@ -4040,11 +4000,6 @@
     "region": "IT"
   },
   {
-    "ip_address": "2a02:26f7:bcc4:5f21::/64",
-    "ip_type": "IPv6",
-    "region": "IT"
-  },
-  {
     "ip_address": "2a02:26f7:bcc4:5f22::/64",
     "ip_type": "IPv6",
     "region": "IT"
@@ -4206,11 +4161,6 @@
   },
   {
     "ip_address": "2a02:26f7:bcc4:5f42::/64",
-    "ip_type": "IPv6",
-    "region": "IT"
-  },
-  {
-    "ip_address": "2a02:26f7:bcc4:5f43::/64",
     "ip_type": "IPv6",
     "region": "IT"
   },
@@ -4530,11 +4480,6 @@
     "region": "IT"
   },
   {
-    "ip_address": "2a02:26f7:bcc4:5f83::/64",
-    "ip_type": "IPv6",
-    "region": "IT"
-  },
-  {
     "ip_address": "2a02:26f7:bcc4:5f84::/64",
     "ip_type": "IPv6",
     "region": "IT"
@@ -4631,11 +4576,6 @@
   },
   {
     "ip_address": "2a02:26f7:bcc4:5f97::/64",
-    "ip_type": "IPv6",
-    "region": "IT"
-  },
-  {
-    "ip_address": "2a02:26f7:bcc4:5f98::/64",
     "ip_type": "IPv6",
     "region": "IT"
   },
@@ -5360,11 +5300,6 @@
     "region": "IT"
   },
   {
-    "ip_address": "2a02:26f7:bcc8:5e76::/64",
-    "ip_type": "IPv6",
-    "region": "IT"
-  },
-  {
     "ip_address": "2a02:26f7:bcc8:5e77::/64",
     "ip_type": "IPv6",
     "region": "IT"
@@ -5860,11 +5795,6 @@
     "region": "IT"
   },
   {
-    "ip_address": "2a02:26f7:bcc8:5eda::/64",
-    "ip_type": "IPv6",
-    "region": "IT"
-  },
-  {
     "ip_address": "2a02:26f7:bcc8:5edb::/64",
     "ip_type": "IPv6",
     "region": "IT"
@@ -6215,11 +6145,6 @@
     "region": "IT"
   },
   {
-    "ip_address": "2a02:26f7:bcc8:5f21::/64",
-    "ip_type": "IPv6",
-    "region": "IT"
-  },
-  {
     "ip_address": "2a02:26f7:bcc8:5f22::/64",
     "ip_type": "IPv6",
     "region": "IT"
@@ -6381,11 +6306,6 @@
   },
   {
     "ip_address": "2a02:26f7:bcc8:5f42::/64",
-    "ip_type": "IPv6",
-    "region": "IT"
-  },
-  {
-    "ip_address": "2a02:26f7:bcc8:5f43::/64",
     "ip_type": "IPv6",
     "region": "IT"
   },
@@ -6705,11 +6625,6 @@
     "region": "IT"
   },
   {
-    "ip_address": "2a02:26f7:bcc8:5f83::/64",
-    "ip_type": "IPv6",
-    "region": "IT"
-  },
-  {
     "ip_address": "2a02:26f7:bcc8:5f84::/64",
     "ip_type": "IPv6",
     "region": "IT"
@@ -6806,11 +6721,6 @@
   },
   {
     "ip_address": "2a02:26f7:bcc8:5f97::/64",
-    "ip_type": "IPv6",
-    "region": "IT"
-  },
-  {
-    "ip_address": "2a02:26f7:bcc8:5f98::/64",
     "ip_type": "IPv6",
     "region": "IT"
   },
@@ -7535,11 +7445,6 @@
     "region": "IT"
   },
   {
-    "ip_address": "2a02:26f7:bccc:5e76::/64",
-    "ip_type": "IPv6",
-    "region": "IT"
-  },
-  {
     "ip_address": "2a02:26f7:bccc:5e77::/64",
     "ip_type": "IPv6",
     "region": "IT"
@@ -8035,11 +7940,6 @@
     "region": "IT"
   },
   {
-    "ip_address": "2a02:26f7:bccc:5eda::/64",
-    "ip_type": "IPv6",
-    "region": "IT"
-  },
-  {
     "ip_address": "2a02:26f7:bccc:5edb::/64",
     "ip_type": "IPv6",
     "region": "IT"
@@ -8390,11 +8290,6 @@
     "region": "IT"
   },
   {
-    "ip_address": "2a02:26f7:bccc:5f21::/64",
-    "ip_type": "IPv6",
-    "region": "IT"
-  },
-  {
     "ip_address": "2a02:26f7:bccc:5f22::/64",
     "ip_type": "IPv6",
     "region": "IT"
@@ -8556,11 +8451,6 @@
   },
   {
     "ip_address": "2a02:26f7:bccc:5f42::/64",
-    "ip_type": "IPv6",
-    "region": "IT"
-  },
-  {
-    "ip_address": "2a02:26f7:bccc:5f43::/64",
     "ip_type": "IPv6",
     "region": "IT"
   },
@@ -8880,11 +8770,6 @@
     "region": "IT"
   },
   {
-    "ip_address": "2a02:26f7:bccc:5f83::/64",
-    "ip_type": "IPv6",
-    "region": "IT"
-  },
-  {
     "ip_address": "2a02:26f7:bccc:5f84::/64",
     "ip_type": "IPv6",
     "region": "IT"
@@ -8981,11 +8866,6 @@
   },
   {
     "ip_address": "2a02:26f7:bccc:5f97::/64",
-    "ip_type": "IPv6",
-    "region": "IT"
-  },
-  {
-    "ip_address": "2a02:26f7:bccc:5f98::/64",
     "ip_type": "IPv6",
     "region": "IT"
   },
@@ -9710,11 +9590,6 @@
     "region": "IT"
   },
   {
-    "ip_address": "2a02:26f7:bcd0:5e76::/64",
-    "ip_type": "IPv6",
-    "region": "IT"
-  },
-  {
     "ip_address": "2a02:26f7:bcd0:5e77::/64",
     "ip_type": "IPv6",
     "region": "IT"
@@ -10210,11 +10085,6 @@
     "region": "IT"
   },
   {
-    "ip_address": "2a02:26f7:bcd0:5eda::/64",
-    "ip_type": "IPv6",
-    "region": "IT"
-  },
-  {
     "ip_address": "2a02:26f7:bcd0:5edb::/64",
     "ip_type": "IPv6",
     "region": "IT"
@@ -10565,11 +10435,6 @@
     "region": "IT"
   },
   {
-    "ip_address": "2a02:26f7:bcd0:5f21::/64",
-    "ip_type": "IPv6",
-    "region": "IT"
-  },
-  {
     "ip_address": "2a02:26f7:bcd0:5f22::/64",
     "ip_type": "IPv6",
     "region": "IT"
@@ -10731,11 +10596,6 @@
   },
   {
     "ip_address": "2a02:26f7:bcd0:5f42::/64",
-    "ip_type": "IPv6",
-    "region": "IT"
-  },
-  {
-    "ip_address": "2a02:26f7:bcd0:5f43::/64",
     "ip_type": "IPv6",
     "region": "IT"
   },
@@ -11055,11 +10915,6 @@
     "region": "IT"
   },
   {
-    "ip_address": "2a02:26f7:bcd0:5f83::/64",
-    "ip_type": "IPv6",
-    "region": "IT"
-  },
-  {
     "ip_address": "2a02:26f7:bcd0:5f84::/64",
     "ip_type": "IPv6",
     "region": "IT"
@@ -11156,11 +11011,6 @@
   },
   {
     "ip_address": "2a02:26f7:bcd0:5f97::/64",
-    "ip_type": "IPv6",
-    "region": "IT"
-  },
-  {
-    "ip_address": "2a02:26f7:bcd0:5f98::/64",
     "ip_type": "IPv6",
     "region": "IT"
   },
@@ -11880,11 +11730,6 @@
     "region": "IT"
   },
   {
-    "ip_address": "2a02:26f7:bcd1:5e76::/64",
-    "ip_type": "IPv6",
-    "region": "IT"
-  },
-  {
     "ip_address": "2a02:26f7:bcd1:5e77::/64",
     "ip_type": "IPv6",
     "region": "IT"
@@ -12380,11 +12225,6 @@
     "region": "IT"
   },
   {
-    "ip_address": "2a02:26f7:bcd1:5eda::/64",
-    "ip_type": "IPv6",
-    "region": "IT"
-  },
-  {
     "ip_address": "2a02:26f7:bcd1:5edb::/64",
     "ip_type": "IPv6",
     "region": "IT"
@@ -12735,11 +12575,6 @@
     "region": "IT"
   },
   {
-    "ip_address": "2a02:26f7:bcd1:5f21::/64",
-    "ip_type": "IPv6",
-    "region": "IT"
-  },
-  {
     "ip_address": "2a02:26f7:bcd1:5f22::/64",
     "ip_type": "IPv6",
     "region": "IT"
@@ -12901,11 +12736,6 @@
   },
   {
     "ip_address": "2a02:26f7:bcd1:5f42::/64",
-    "ip_type": "IPv6",
-    "region": "IT"
-  },
-  {
-    "ip_address": "2a02:26f7:bcd1:5f43::/64",
     "ip_type": "IPv6",
     "region": "IT"
   },
@@ -13225,11 +13055,6 @@
     "region": "IT"
   },
   {
-    "ip_address": "2a02:26f7:bcd1:5f83::/64",
-    "ip_type": "IPv6",
-    "region": "IT"
-  },
-  {
     "ip_address": "2a02:26f7:bcd1:5f84::/64",
     "ip_type": "IPv6",
     "region": "IT"
@@ -13326,11 +13151,6 @@
   },
   {
     "ip_address": "2a02:26f7:bcd1:5f97::/64",
-    "ip_type": "IPv6",
-    "region": "IT"
-  },
-  {
-    "ip_address": "2a02:26f7:bcd1:5f98::/64",
     "ip_type": "IPv6",
     "region": "IT"
   },

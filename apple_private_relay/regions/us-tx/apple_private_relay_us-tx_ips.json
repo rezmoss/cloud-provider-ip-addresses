@@ -44245,6 +44245,16 @@
     "region": "US-TX"
   },
   {
+    "ip_address": "104.28.137.18/32",
+    "ip_type": "IPv4",
+    "region": "US-TX"
+  },
+  {
+    "ip_address": "104.28.137.19/32",
+    "ip_type": "IPv4",
+    "region": "US-TX"
+  },
+  {
     "ip_address": "104.28.139.84/32",
     "ip_type": "IPv4",
     "region": "US-TX"

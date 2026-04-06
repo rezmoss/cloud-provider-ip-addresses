@@ -50,6 +50,56 @@
     "region": "DK-84"
   },
   {
+    "ip_address": "104.28.137.8/32",
+    "ip_type": "IPv4",
+    "region": "DK-84"
+  },
+  {
+    "ip_address": "104.28.137.9/32",
+    "ip_type": "IPv4",
+    "region": "DK-84"
+  },
+  {
+    "ip_address": "104.28.137.10/32",
+    "ip_type": "IPv4",
+    "region": "DK-84"
+  },
+  {
+    "ip_address": "104.28.137.11/32",
+    "ip_type": "IPv4",
+    "region": "DK-84"
+  },
+  {
+    "ip_address": "104.28.137.12/32",
+    "ip_type": "IPv4",
+    "region": "DK-84"
+  },
+  {
+    "ip_address": "104.28.137.13/32",
+    "ip_type": "IPv4",
+    "region": "DK-84"
+  },
+  {
+    "ip_address": "104.28.137.14/32",
+    "ip_type": "IPv4",
+    "region": "DK-84"
+  },
+  {
+    "ip_address": "104.28.137.15/32",
+    "ip_type": "IPv4",
+    "region": "DK-84"
+  },
+  {
+    "ip_address": "104.28.137.16/32",
+    "ip_type": "IPv4",
+    "region": "DK-84"
+  },
+  {
+    "ip_address": "104.28.137.17/32",
+    "ip_type": "IPv4",
+    "region": "DK-84"
+  },
+  {
     "ip_address": "104.28.138.39/32",
     "ip_type": "IPv4",
     "region": "DK-84"
