@@ -1,0 +1,23 @@
+{
+  "date": "2026-04-07",
+  "changes": {
+    "digitalocean": {
+      "added": [
+        "168.144.80.0/20"
+      ],
+      "removed": [],
+      "added_count": 1,
+      "removed_count": 0
+    },
+    "aws": {
+      "added": [
+        "2a05:d01c::/35"
+      ],
+      "removed": [
+        "2a05:d01c::/36"
+      ],
+      "added_count": 1,
+      "removed_count": 1
+    }
+  }
+}

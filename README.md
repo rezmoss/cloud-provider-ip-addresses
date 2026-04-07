@@ -16,7 +16,7 @@
 
 ### Live Stats
 
-> Last updated: **2026-04-06** | Providers: **22** | Total CIDRs: **422,066** | IPv4 addresses: **335,767,299** | IPv4 space: **7.82%**
+> Last updated: **2026-04-07** | Providers: **22** | Total CIDRs: **422,067** | IPv4 addresses: **335,771,395** | IPv4 space: **7.82%**
 
 | Provider | IPv4 CIDRs | IPv6 CIDRs | Total CIDRs | IPv4 Addresses | Services | Regions |
 |----------|-----------|-----------|------------|---------------|----------|--------|
@@ -29,7 +29,7 @@
 | bingbot | 28 | 0 | 28 | 4,736 | 1 | 0 |
 | cloudflare | 15 | 7 | 22 | 1,524,736 | 0 | 0 |
 | commoncrawl | 4 | 1 | 5 | 21 | 1 | 0 |
-| digitalocean | 1,065 | 147 | 1,212 | 3,070,336 | 0 | 12 |
+| digitalocean | 1,066 | 147 | 1,213 | 3,074,432 | 0 | 12 |
 | duckduckbot | 319 | 0 | 319 | 319 | 1 | 0 |
 | fastly | 19 | 2 | 21 | 304,128 | 0 | 0 |
 | github | 4,882 | 1,168 | 6,050 | 25,429,191 | 11 | 0 |

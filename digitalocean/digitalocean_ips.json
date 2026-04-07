@@ -4065,6 +4065,11 @@
     "region": "IN-KA"
   },
   {
+    "ip_address": "168.144.80.0/20",
+    "ip_type": "IPv4",
+    "region": "IN-KA"
+  },
+  {
     "ip_address": "170.64.128.0/18",
     "ip_type": "IPv4",
     "region": "AU-NSW"

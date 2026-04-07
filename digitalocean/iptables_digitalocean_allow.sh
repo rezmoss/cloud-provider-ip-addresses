@@ -1,6 +1,6 @@
 #!/bin/bash
 # Digitalocean IP Ranges
-# Updated: 2026-04-02 02:05:24
+# Updated: 2026-04-07 02:10:14
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -820,6 +820,7 @@ iptables -A INPUT -s 168.144.16.0/20 -j ACCEPT
 iptables -A INPUT -s 168.144.32.0/20 -j ACCEPT
 iptables -A INPUT -s 168.144.48.0/22 -j ACCEPT
 iptables -A INPUT -s 168.144.64.0/20 -j ACCEPT
+iptables -A INPUT -s 168.144.80.0/20 -j ACCEPT
 iptables -A INPUT -s 170.64.128.0/18 -j ACCEPT
 iptables -A INPUT -s 170.64.192.0/19 -j ACCEPT
 iptables -A INPUT -s 170.64.224.0/20 -j ACCEPT
