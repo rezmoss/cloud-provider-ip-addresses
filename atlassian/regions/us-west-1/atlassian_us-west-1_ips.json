@@ -1,17 +1,5 @@
 [
   {
-    "ip_address": "2401:1d80:3220:2::/64",
-    "ip_type": "IPv6",
-    "service": "bitbucket,confluence,forge,halp,jira,opsgenie,statuspage,trello",
-    "region": "us-west-1"
-  },
-  {
-    "ip_address": "2401:1d80:3220:3::/64",
-    "ip_type": "IPv6",
-    "service": "bitbucket,confluence,forge,halp,jira,opsgenie,statuspage,trello",
-    "region": "us-west-1"
-  },
-  {
     "ip_address": "13.52.5.96/28",
     "ip_type": "IPv4",
     "service": "bitbucket,confluence,forge,halp,jira,opsgenie,statuspage,trello",

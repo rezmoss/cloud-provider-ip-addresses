@@ -31,8 +31,6 @@ INSERT INTO `atlassian_bitbucket_confluence_forge_halp_jira_opsgenie_statuspage_
 INSERT INTO `atlassian_bitbucket_confluence_forge_halp_jira_opsgenie_statuspage_trello_ips` (`ip_address`, `ip_type`) VALUES ('2401:1d80:321c:3::/64', 'IPv6');
 INSERT INTO `atlassian_bitbucket_confluence_forge_halp_jira_opsgenie_statuspage_trello_ips` (`ip_address`, `ip_type`) VALUES ('2401:1d80:321c:5::/64', 'IPv6');
 INSERT INTO `atlassian_bitbucket_confluence_forge_halp_jira_opsgenie_statuspage_trello_ips` (`ip_address`, `ip_type`) VALUES ('18.234.32.224/28', 'IPv4');
-INSERT INTO `atlassian_bitbucket_confluence_forge_halp_jira_opsgenie_statuspage_trello_ips` (`ip_address`, `ip_type`) VALUES ('2401:1d80:3220:2::/64', 'IPv6');
-INSERT INTO `atlassian_bitbucket_confluence_forge_halp_jira_opsgenie_statuspage_trello_ips` (`ip_address`, `ip_type`) VALUES ('2401:1d80:3220:3::/64', 'IPv6');
 INSERT INTO `atlassian_bitbucket_confluence_forge_halp_jira_opsgenie_statuspage_trello_ips` (`ip_address`, `ip_type`) VALUES ('2401:1d80:3224:3::/64', 'IPv6');
 INSERT INTO `atlassian_bitbucket_confluence_forge_halp_jira_opsgenie_statuspage_trello_ips` (`ip_address`, `ip_type`) VALUES ('2401:1d80:3224:4::/64', 'IPv6');
 INSERT INTO `atlassian_bitbucket_confluence_forge_halp_jira_opsgenie_statuspage_trello_ips` (`ip_address`, `ip_type`) VALUES ('2401:1d80:3224:5::/64', 'IPv6');

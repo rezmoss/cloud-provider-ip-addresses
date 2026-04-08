@@ -42,6 +42,12 @@
     "region": "GLOBAL"
   },
   {
+    "ip_address": "66.182.96.0/20",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "GLOBAL"
+  },
+  {
     "ip_address": "99.181.64.0/18",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -2245,6 +2251,12 @@
   },
   {
     "ip_address": "15.197.36.0/22",
+    "ip_type": "IPv4",
+    "service": "GLOBALACCELERATOR",
+    "region": "GLOBAL"
+  },
+  {
+    "ip_address": "66.182.96.0/20",
     "ip_type": "IPv4",
     "service": "GLOBALACCELERATOR",
     "region": "GLOBAL"

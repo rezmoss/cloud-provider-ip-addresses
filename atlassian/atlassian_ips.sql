@@ -80,8 +80,6 @@ INSERT INTO `atlassian_ips` (`ip_address`, `ip_type`) VALUES ('2401:1d80:321c:5:
 INSERT INTO `atlassian_ips` (`ip_address`, `ip_type`) VALUES ('18.234.32.224/28', 'IPv4');
 INSERT INTO `atlassian_ips` (`ip_address`, `ip_type`) VALUES ('44.220.40.160/28', 'IPv4');
 INSERT INTO `atlassian_ips` (`ip_address`, `ip_type`) VALUES ('104.192.142.240/28', 'IPv4');
-INSERT INTO `atlassian_ips` (`ip_address`, `ip_type`) VALUES ('2401:1d80:3220:2::/64', 'IPv6');
-INSERT INTO `atlassian_ips` (`ip_address`, `ip_type`) VALUES ('2401:1d80:3220:3::/64', 'IPv6');
 INSERT INTO `atlassian_ips` (`ip_address`, `ip_type`) VALUES ('2401:1d80:3224:3::/64', 'IPv6');
 INSERT INTO `atlassian_ips` (`ip_address`, `ip_type`) VALUES ('2401:1d80:3224:4::/64', 'IPv6');
 INSERT INTO `atlassian_ips` (`ip_address`, `ip_type`) VALUES ('2401:1d80:3224:5::/64', 'IPv6');

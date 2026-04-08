@@ -6,8 +6,6 @@ CREATE TABLE IF NOT EXISTS `atlassian_us-west-1_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
-INSERT INTO `atlassian_us-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2401:1d80:3220:2::/64', 'IPv6');
-INSERT INTO `atlassian_us-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2401:1d80:3220:3::/64', 'IPv6');
 INSERT INTO `atlassian_us-west-1_ips` (`ip_address`, `ip_type`) VALUES ('13.52.5.96/28', 'IPv4');
 INSERT INTO `atlassian_us-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f1c:cc5:2304::/64', 'IPv6');
 INSERT INTO `atlassian_us-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f1c:cc5:2305::/64', 'IPv6');
