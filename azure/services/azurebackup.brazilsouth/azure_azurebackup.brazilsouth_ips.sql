@@ -15,6 +15,7 @@ INSERT INTO `azure_azurebackup.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES
 INSERT INTO `azure_azurebackup.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('191.234.155.128/26', 'IPv4');
 INSERT INTO `azure_azurebackup.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('191.234.157.64/27', 'IPv4');
 INSERT INTO `azure_azurebackup.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('191.238.72.0/26', 'IPv4');
+INSERT INTO `azure_azurebackup.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:6:c::280/121', 'IPv6');
 INSERT INTO `azure_azurebackup.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:6:402::200/121', 'IPv6');
 INSERT INTO `azure_azurebackup.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:6:802::180/121', 'IPv6');
 INSERT INTO `azure_azurebackup.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:6:c02::180/121', 'IPv6');

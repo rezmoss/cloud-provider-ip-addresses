@@ -9,6 +9,7 @@ CREATE TABLE IF NOT EXISTS `azure_powerplatforminfra.germanynorth_ips` (
 INSERT INTO `azure_powerplatforminfra.germanynorth_ips` (`ip_address`, `ip_type`) VALUES ('4.184.2.208/28', 'IPv4');
 INSERT INTO `azure_powerplatforminfra.germanynorth_ips` (`ip_address`, `ip_type`) VALUES ('4.184.3.0/26', 'IPv4');
 INSERT INTO `azure_powerplatforminfra.germanynorth_ips` (`ip_address`, `ip_type`) VALUES ('4.184.3.128/25', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.germanynorth_ips` (`ip_address`, `ip_type`) VALUES ('20.170.254.128/25', 'IPv4');
 INSERT INTO `azure_powerplatforminfra.germanynorth_ips` (`ip_address`, `ip_type`) VALUES ('51.116.1.237/32', 'IPv4');
 INSERT INTO `azure_powerplatforminfra.germanynorth_ips` (`ip_address`, `ip_type`) VALUES ('51.116.2.101/32', 'IPv4');
 INSERT INTO `azure_powerplatforminfra.germanynorth_ips` (`ip_address`, `ip_type`) VALUES ('51.116.2.239/32', 'IPv4');

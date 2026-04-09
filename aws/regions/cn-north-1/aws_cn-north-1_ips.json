@@ -408,6 +408,12 @@
     "region": "cn-north-1"
   },
   {
+    "ip_address": "54.222.89.0/24",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "cn-north-1"
+  },
+  {
     "ip_address": "71.131.196.224/28",
     "ip_type": "IPv4",
     "service": "S3",
@@ -1081,6 +1087,12 @@
   },
   {
     "ip_address": "2400:7fc0:2c00::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "cn-north-1"
+  },
+  {
+    "ip_address": "2400:7fc0:110::/56",
     "ip_type": "IPv6",
     "service": "S3",
     "region": "cn-north-1"

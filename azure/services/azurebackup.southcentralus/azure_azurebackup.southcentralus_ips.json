@@ -48,6 +48,12 @@
     "region": "southcentralus"
   },
   {
+    "ip_address": "2603:1030:807:17::380/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
     "ip_address": "2603:1030:807:402::200/121",
     "ip_type": "IPv6",
     "service": "AzureBackup.SouthCentralUS",

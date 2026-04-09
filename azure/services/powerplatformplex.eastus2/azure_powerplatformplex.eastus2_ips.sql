@@ -9,4 +9,5 @@ CREATE TABLE IF NOT EXISTS `azure_powerplatformplex.eastus2_ips` (
 INSERT INTO `azure_powerplatformplex.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('20.186.165.112/28', 'IPv4');
 INSERT INTO `azure_powerplatformplex.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('40.84.87.96/27', 'IPv4');
 INSERT INTO `azure_powerplatformplex.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('40.84.87.128/28', 'IPv4');
+INSERT INTO `azure_powerplatformplex.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('57.165.80.0/25', 'IPv4');
 INSERT INTO `azure_powerplatformplex.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2004:7300::/57', 'IPv6');

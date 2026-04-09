@@ -252,6 +252,12 @@
     "region": "westus3"
   },
   {
+    "ip_address": "57.163.18.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.WestUS3",
+    "region": "westus3"
+  },
+  {
     "ip_address": "135.130.54.0/23",
     "ip_type": "IPv4",
     "service": "Storage.WestUS3",

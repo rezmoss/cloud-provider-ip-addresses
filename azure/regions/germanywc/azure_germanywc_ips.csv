@@ -54,6 +54,7 @@ ip_address,ip_type,service,region
 51.116.250.240/28,IPv4,AzureBackup.GermanyWestCentral,germanywc
 51.116.251.64/26,IPv4,AzureBackup.GermanyWestCentral,germanywc
 51.116.253.0/27,IPv4,AzureBackup.GermanyWestCentral,germanywc
+2603:1020:c04:b::380/121,IPv6,AzureBackup.GermanyWestCentral,germanywc
 2603:1020:c04:402::200/121,IPv6,AzureBackup.GermanyWestCentral,germanywc
 2603:1020:c04:802::180/121,IPv6,AzureBackup.GermanyWestCentral,germanywc
 2603:1020:c04:c02::180/121,IPv6,AzureBackup.GermanyWestCentral,germanywc
@@ -376,6 +377,7 @@ ip_address,ip_type,service,region
 20.52.93.224/27,IPv4,PowerPlatformInfra.GermanyWestCentral,germanywc
 20.52.94.0/26,IPv4,PowerPlatformInfra.GermanyWestCentral,germanywc
 20.52.94.120/29,IPv4,PowerPlatformInfra.GermanyWestCentral,germanywc
+48.201.174.0/25,IPv4,PowerPlatformInfra.GermanyWestCentral,germanywc
 51.116.99.200/32,IPv4,PowerPlatformInfra.GermanyWestCentral,germanywc
 51.116.132.85/32,IPv4,PowerPlatformInfra.GermanyWestCentral,germanywc
 51.116.132.99/32,IPv4,PowerPlatformInfra.GermanyWestCentral,germanywc
@@ -393,6 +395,7 @@ ip_address,ip_type,service,region
 20.52.95.216/30,IPv4,PowerPlatformPlex.GermanyWestCentral,germanywc
 20.79.108.100/30,IPv4,PowerPlatformPlex.GermanyWestCentral,germanywc
 20.79.108.104/30,IPv4,PowerPlatformPlex.GermanyWestCentral,germanywc
+48.201.171.128/25,IPv4,PowerPlatformPlex.GermanyWestCentral,germanywc
 98.67.183.168/29,IPv4,PowerPlatformPlex.GermanyWestCentral,germanywc
 98.67.183.176/29,IPv4,PowerPlatformPlex.GermanyWestCentral,germanywc
 135.220.124.0/25,IPv4,PowerPlatformPlex.GermanyWestCentral,germanywc

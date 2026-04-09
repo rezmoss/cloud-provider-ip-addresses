@@ -9,7 +9,17 @@ CREATE TABLE IF NOT EXISTS `azure_copilotactions_ips` (
 INSERT INTO `azure_copilotactions_ips` (`ip_address`, `ip_type`) VALUES ('4.150.77.36/30', 'IPv4');
 INSERT INTO `azure_copilotactions_ips` (`ip_address`, `ip_type`) VALUES ('4.150.77.40/29', 'IPv4');
 INSERT INTO `azure_copilotactions_ips` (`ip_address`, `ip_type`) VALUES ('4.207.44.208/29', 'IPv4');
+INSERT INTO `azure_copilotactions_ips` (`ip_address`, `ip_type`) VALUES ('4.209.2.216/29', 'IPv4');
+INSERT INTO `azure_copilotactions_ips` (`ip_address`, `ip_type`) VALUES ('4.209.3.144/30', 'IPv4');
 INSERT INTO `azure_copilotactions_ips` (`ip_address`, `ip_type`) VALUES ('4.243.137.96/29', 'IPv4');
+INSERT INTO `azure_copilotactions_ips` (`ip_address`, `ip_type`) VALUES ('13.80.199.80/29', 'IPv4');
+INSERT INTO `azure_copilotactions_ips` (`ip_address`, `ip_type`) VALUES ('20.43.134.144/28', 'IPv4');
+INSERT INTO `azure_copilotactions_ips` (`ip_address`, `ip_type`) VALUES ('20.66.139.16/28', 'IPv4');
+INSERT INTO `azure_copilotactions_ips` (`ip_address`, `ip_type`) VALUES ('52.231.239.240/28', 'IPv4');
+INSERT INTO `azure_copilotactions_ips` (`ip_address`, `ip_type`) VALUES ('57.165.84.116/30', 'IPv4');
+INSERT INTO `azure_copilotactions_ips` (`ip_address`, `ip_type`) VALUES ('57.165.84.120/29', 'IPv4');
+INSERT INTO `azure_copilotactions_ips` (`ip_address`, `ip_type`) VALUES ('57.165.84.148/30', 'IPv4');
+INSERT INTO `azure_copilotactions_ips` (`ip_address`, `ip_type`) VALUES ('57.166.6.112/28', 'IPv4');
 INSERT INTO `azure_copilotactions_ips` (`ip_address`, `ip_type`) VALUES ('130.213.78.208/29', 'IPv4');
 INSERT INTO `azure_copilotactions_ips` (`ip_address`, `ip_type`) VALUES ('135.171.143.8/29', 'IPv4');
 INSERT INTO `azure_copilotactions_ips` (`ip_address`, `ip_type`) VALUES ('172.194.130.40/29', 'IPv4');

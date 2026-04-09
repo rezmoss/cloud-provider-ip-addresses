@@ -7,4 +7,5 @@ ip_address,ip_type,service,region
 20.200.160.208/30,IPv4,PowerPlatformPlex.KoreaSouth,koreasouth
 20.200.160.236/30,IPv4,PowerPlatformPlex.KoreaSouth,koreasouth
 20.200.160.248/30,IPv4,PowerPlatformPlex.KoreaSouth,koreasouth
+52.231.237.128/25,IPv4,PowerPlatformPlex.KoreaSouth,koreasouth
 2603:1061:2004:1900::/57,IPv6,PowerPlatformPlex.KoreaSouth,koreasouth

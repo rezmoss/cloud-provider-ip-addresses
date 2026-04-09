@@ -1,5 +1,17 @@
 [
   {
+    "ip_address": "4.145.22.160/29",
+    "ip_type": "IPv4",
+    "service": "AzureFrontDoor.Frontend",
+    "region": ""
+  },
+  {
+    "ip_address": "4.147.44.8/29",
+    "ip_type": "IPv4",
+    "service": "AzureFrontDoor.Frontend",
+    "region": ""
+  },
+  {
     "ip_address": "4.188.10.28/30",
     "ip_type": "IPv4",
     "service": "AzureFrontDoor.Frontend",
@@ -7,6 +19,24 @@
   },
   {
     "ip_address": "4.188.12.24/29",
+    "ip_type": "IPv4",
+    "service": "AzureFrontDoor.Frontend",
+    "region": ""
+  },
+  {
+    "ip_address": "4.191.92.24/29",
+    "ip_type": "IPv4",
+    "service": "AzureFrontDoor.Frontend",
+    "region": ""
+  },
+  {
+    "ip_address": "4.208.127.240/29",
+    "ip_type": "IPv4",
+    "service": "AzureFrontDoor.Frontend",
+    "region": ""
+  },
+  {
+    "ip_address": "4.216.8.160/29",
     "ip_type": "IPv4",
     "service": "AzureFrontDoor.Frontend",
     "region": ""
@@ -25,6 +55,12 @@
   },
   {
     "ip_address": "13.73.248.8/29",
+    "ip_type": "IPv4",
+    "service": "AzureFrontDoor.Frontend",
+    "region": ""
+  },
+  {
+    "ip_address": "13.80.194.200/29",
     "ip_type": "IPv4",
     "service": "AzureFrontDoor.Frontend",
     "region": ""
@@ -91,6 +127,12 @@
   },
   {
     "ip_address": "13.107.253.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureFrontDoor.Frontend",
+    "region": ""
+  },
+  {
+    "ip_address": "20.15.221.160/29",
     "ip_type": "IPv4",
     "service": "AzureFrontDoor.Frontend",
     "region": ""
@@ -384,6 +426,12 @@
     "region": ""
   },
   {
+    "ip_address": "48.223.80.232/29",
+    "ip_type": "IPv4",
+    "service": "AzureFrontDoor.Frontend",
+    "region": ""
+  },
+  {
     "ip_address": "51.12.41.0/29",
     "ip_type": "IPv4",
     "service": "AzureFrontDoor.Frontend",
@@ -475,6 +523,12 @@
   },
   {
     "ip_address": "52.228.80.112/29",
+    "ip_type": "IPv4",
+    "service": "AzureFrontDoor.Frontend",
+    "region": ""
+  },
+  {
+    "ip_address": "57.166.0.112/29",
     "ip_type": "IPv4",
     "service": "AzureFrontDoor.Frontend",
     "region": ""

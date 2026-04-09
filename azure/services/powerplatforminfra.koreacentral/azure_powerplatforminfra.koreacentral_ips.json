@@ -12,6 +12,12 @@
     "region": "koreacentral"
   },
   {
+    "ip_address": "4.230.162.0/25",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
     "ip_address": "20.41.98.252/32",
     "ip_type": "IPv4",
     "service": "PowerPlatformInfra.KoreaCentral",

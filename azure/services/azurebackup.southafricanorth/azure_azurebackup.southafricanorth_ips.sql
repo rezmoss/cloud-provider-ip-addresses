@@ -12,6 +12,7 @@ INSERT INTO `azure_azurebackup.southafricanorth_ips` (`ip_address`, `ip_type`) V
 INSERT INTO `azure_azurebackup.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('102.133.155.128/27', 'IPv4');
 INSERT INTO `azure_azurebackup.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('102.133.251.0/27', 'IPv4');
 INSERT INTO `azure_azurebackup.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('102.133.254.128/26', 'IPv4');
+INSERT INTO `azure_azurebackup.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1000:104:b::280/121', 'IPv6');
 INSERT INTO `azure_azurebackup.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1000:104:402::200/121', 'IPv6');
 INSERT INTO `azure_azurebackup.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1000:104:802::180/121', 'IPv6');
 INSERT INTO `azure_azurebackup.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1000:104:c02::180/121', 'IPv6');

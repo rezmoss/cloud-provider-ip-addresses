@@ -125,6 +125,7 @@ INSERT INTO `azure_storage.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('57.15
 INSERT INTO `azure_storage.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('57.150.190.0/23', 'IPv4');
 INSERT INTO `azure_storage.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('57.150.232.0/23', 'IPv4');
 INSERT INTO `azure_storage.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('57.150.250.0/23', 'IPv4');
+INSERT INTO `azure_storage.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('57.163.20.0/23', 'IPv4');
 INSERT INTO `azure_storage.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('104.208.128.16/28', 'IPv4');
 INSERT INTO `azure_storage.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('104.208.248.16/28', 'IPv4');
 INSERT INTO `azure_storage.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('135.130.6.0/23', 'IPv4');

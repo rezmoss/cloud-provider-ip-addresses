@@ -462,6 +462,12 @@
     "region": "southeastasia"
   },
   {
+    "ip_address": "2603:1040:5:16::600/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
     "ip_address": "2603:1040:5:402::200/121",
     "ip_type": "IPv6",
     "service": "AzureBackup.SoutheastAsia",

@@ -21,4 +21,5 @@ INSERT INTO `azure_powerplatforminfra.koreasouth_ips` (`ip_address`, `ip_type`) 
 INSERT INTO `azure_powerplatforminfra.koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('52.231.143.171/32', 'IPv4');
 INSERT INTO `azure_powerplatforminfra.koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('52.231.164.79/32', 'IPv4');
 INSERT INTO `azure_powerplatforminfra.koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('52.231.185.0/32', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('52.231.238.0/25', 'IPv4');
 INSERT INTO `azure_powerplatforminfra.koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2002:2100::/57', 'IPv6');

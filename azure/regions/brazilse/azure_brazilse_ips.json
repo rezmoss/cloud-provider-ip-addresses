@@ -192,6 +192,12 @@
     "region": "brazilse"
   },
   {
+    "ip_address": "2603:1050:403:8::180/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
     "ip_address": "2603:1050:403:400::500/121",
     "ip_type": "IPv6",
     "service": "AzureBackup.BrazilSoutheast",

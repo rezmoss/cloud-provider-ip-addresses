@@ -36,6 +36,12 @@
     "region": "germanywc"
   },
   {
+    "ip_address": "48.201.174.0/25",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
     "ip_address": "51.116.99.200/32",
     "ip_type": "IPv4",
     "service": "PowerPlatformInfra.GermanyWestCentral",

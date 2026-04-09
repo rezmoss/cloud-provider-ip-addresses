@@ -13,6 +13,7 @@ INSERT INTO `azure_azurebackup.canadacentral_ips` (`ip_address`, `ip_type`) VALU
 INSERT INTO `azure_azurebackup.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('20.48.197.0/26', 'IPv4');
 INSERT INTO `azure_azurebackup.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('52.246.155.0/27', 'IPv4');
 INSERT INTO `azure_azurebackup.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('52.246.155.64/26', 'IPv4');
+INSERT INTO `azure_azurebackup.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f05:e::380/121', 'IPv6');
 INSERT INTO `azure_azurebackup.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f05:402::200/121', 'IPv6');
 INSERT INTO `azure_azurebackup.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f05:802::180/121', 'IPv6');
 INSERT INTO `azure_azurebackup.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f05:c02::180/121', 'IPv6');

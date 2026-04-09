@@ -13,6 +13,7 @@ INSERT INTO `azure_azurebackup.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('4
 INSERT INTO `azure_azurebackup.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('40.70.147.192/27', 'IPv4');
 INSERT INTO `azure_azurebackup.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('52.167.106.192/27', 'IPv4');
 INSERT INTO `azure_azurebackup.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('52.167.107.0/26', 'IPv4');
+INSERT INTO `azure_azurebackup.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:26::/121', 'IPv6');
 INSERT INTO `azure_azurebackup.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:402::200/121', 'IPv6');
 INSERT INTO `azure_azurebackup.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:802::180/121', 'IPv6');
 INSERT INTO `azure_azurebackup.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:c02::180/121', 'IPv6');

@@ -14,6 +14,7 @@ INSERT INTO `azure_azurebackup.southcentralus_ips` (`ip_address`, `ip_type`) VAL
 INSERT INTO `azure_azurebackup.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('20.65.133.128/26', 'IPv4');
 INSERT INTO `azure_azurebackup.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('104.214.19.96/27', 'IPv4');
 INSERT INTO `azure_azurebackup.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('104.214.19.128/26', 'IPv4');
+INSERT INTO `azure_azurebackup.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:807:17::380/121', 'IPv6');
 INSERT INTO `azure_azurebackup.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:807:402::200/121', 'IPv6');
 INSERT INTO `azure_azurebackup.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:807:802::180/121', 'IPv6');
 INSERT INTO `azure_azurebackup.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:807:c02::180/121', 'IPv6');

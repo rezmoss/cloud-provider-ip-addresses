@@ -18,6 +18,12 @@
     "region": "germanyn"
   },
   {
+    "ip_address": "20.170.254.0/25",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
     "ip_address": "51.116.77.84/30",
     "ip_type": "IPv4",
     "service": "PowerPlatformPlex.GermanyNorth",

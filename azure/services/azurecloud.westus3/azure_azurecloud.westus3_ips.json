@@ -804,13 +804,25 @@
     "region": "westus3"
   },
   {
-    "ip_address": "57.157.129.0/28",
+    "ip_address": "57.157.129.0/25",
     "ip_type": "IPv4",
     "service": "AzureCloud.westus3",
     "region": "westus3"
   },
   {
-    "ip_address": "57.157.129.16/29",
+    "ip_address": "57.157.129.128/30",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.westus3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "57.157.129.132/31",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.westus3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "57.163.18.0/23",
     "ip_type": "IPv4",
     "service": "AzureCloud.westus3",
     "region": "westus3"

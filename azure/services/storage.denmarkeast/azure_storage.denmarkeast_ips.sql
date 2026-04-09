@@ -10,4 +10,6 @@ INSERT INTO `azure_storage.denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('2
 INSERT INTO `azure_storage.denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('20.153.33.0/24', 'IPv4');
 INSERT INTO `azure_storage.denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('57.150.199.0/24', 'IPv4');
 INSERT INTO `azure_storage.denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('57.150.200.0/22', 'IPv4');
+INSERT INTO `azure_storage.denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('57.163.24.0/23', 'IPv4');
+INSERT INTO `azure_storage.denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('145.190.168.0/24', 'IPv4');
 INSERT INTO `azure_storage.denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1603::/48', 'IPv6');

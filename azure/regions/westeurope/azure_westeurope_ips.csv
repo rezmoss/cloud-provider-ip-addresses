@@ -194,6 +194,7 @@ ip_address,ip_type,service,region
 20.61.103.0/26,IPv4,AzureBackup.WestEurope,westeurope
 52.236.187.0/27,IPv4,AzureBackup.WestEurope,westeurope
 52.236.187.128/25,IPv4,AzureBackup.WestEurope,westeurope
+2603:1020:206:23::180/121,IPv6,AzureBackup.WestEurope,westeurope
 2603:1020:206:402::200/121,IPv6,AzureBackup.WestEurope,westeurope
 2603:1020:206:802::180/121,IPv6,AzureBackup.WestEurope,westeurope
 2603:1020:206:c02::180/121,IPv6,AzureBackup.WestEurope,westeurope
@@ -309,6 +310,7 @@ ip_address,ip_type,service,region
 172.211.126.88/29,IPv4,AzureDigitalTwins.WestEurope,westeurope
 2603:1020:206:10::118/126,IPv6,AzureDigitalTwins.WestEurope,westeurope
 4.210.129.0/24,IPv4,AzureEventGrid.WestEurope,westeurope
+13.80.198.220/30,IPv4,AzureEventGrid.WestEurope,westeurope
 40.74.31.128/25,IPv4,AzureEventGrid.WestEurope,westeurope
 40.114.160.176/28,IPv4,AzureEventGrid.WestEurope,westeurope
 40.114.160.192/28,IPv4,AzureEventGrid.WestEurope,westeurope
@@ -393,6 +395,7 @@ ip_address,ip_type,service,region
 13.69.109.224/27,IPv4,AzureMonitor.WestEurope,westeurope
 13.69.111.200/29,IPv4,AzureMonitor.WestEurope,westeurope
 13.80.134.255/32,IPv4,AzureMonitor.WestEurope,westeurope
+13.80.199.128/25,IPv4,AzureMonitor.WestEurope,westeurope
 20.50.88.224/27,IPv4,AzureMonitor.WestEurope,westeurope
 20.50.206.0/28,IPv4,AzureMonitor.WestEurope,westeurope
 20.61.99.64/27,IPv4,AzureMonitor.WestEurope,westeurope
@@ -447,6 +450,7 @@ ip_address,ip_type,service,region
 2603:1020:206:10::140/123,IPv6,AzureMonitor.WestEurope,westeurope
 2603:1020:206:22::/120,IPv6,AzureMonitor.WestEurope,westeurope
 2603:1020:206:22::3c0/122,IPv6,AzureMonitor.WestEurope,westeurope
+2603:1020:206:23::380/121,IPv6,AzureMonitor.WestEurope,westeurope
 2603:1020:206:402::500/121,IPv6,AzureMonitor.WestEurope,westeurope
 2603:1020:206:802::480/121,IPv6,AzureMonitor.WestEurope,westeurope
 2603:1020:206:c00::100/121,IPv6,AzureMonitor.WestEurope,westeurope
@@ -649,6 +653,7 @@ ip_address,ip_type,service,region
 135.130.162.0/23,IPv4,Storage.WestEurope,westeurope
 135.130.204.0/23,IPv4,Storage.WestEurope,westeurope
 145.190.135.0/24,IPv4,Storage.WestEurope,westeurope
+145.190.170.0/24,IPv4,Storage.WestEurope,westeurope
 168.61.57.64/26,IPv4,Storage.WestEurope,westeurope
 168.61.57.128/25,IPv4,Storage.WestEurope,westeurope
 168.61.58.0/26,IPv4,Storage.WestEurope,westeurope
@@ -1728,9 +1733,9 @@ ip_address,ip_type,service,region
 57.153.0.0/16,IPv4,AzureCloud.westeurope,westeurope
 57.157.12.0/22,IPv4,AzureCloud.westeurope,westeurope
 57.157.56.0/25,IPv4,AzureCloud.westeurope,westeurope
-57.157.56.128/27,IPv4,AzureCloud.westeurope,westeurope
-57.157.56.160/29,IPv4,AzureCloud.westeurope,westeurope
-57.157.56.168/30,IPv4,AzureCloud.westeurope,westeurope
+57.157.56.128/26,IPv4,AzureCloud.westeurope,westeurope
+57.157.56.192/28,IPv4,AzureCloud.westeurope,westeurope
+57.157.56.208/29,IPv4,AzureCloud.westeurope,westeurope
 65.52.128.0/19,IPv4,AzureCloud.westeurope,westeurope
 68.219.160.0/19,IPv4,AzureCloud.westeurope,westeurope
 70.152.36.0/24,IPv4,AzureCloud.westeurope,westeurope
@@ -1774,6 +1779,7 @@ ip_address,ip_type,service,region
 145.190.66.0/23,IPv4,AzureCloud.westeurope,westeurope
 145.190.68.0/24,IPv4,AzureCloud.westeurope,westeurope
 145.190.135.0/24,IPv4,AzureCloud.westeurope,westeurope
+145.190.170.0/24,IPv4,AzureCloud.westeurope,westeurope
 151.206.71.0/24,IPv4,AzureCloud.westeurope,westeurope
 151.206.72.0/24,IPv4,AzureCloud.westeurope,westeurope
 151.206.92.0/23,IPv4,AzureCloud.westeurope,westeurope

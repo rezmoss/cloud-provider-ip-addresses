@@ -750,6 +750,18 @@
     "region": ""
   },
   {
+    "ip_address": "20.20.57.32/28",
+    "ip_type": "IPv4",
+    "service": "AzureActiveDirectory.ServiceEndpoint",
+    "region": ""
+  },
+  {
+    "ip_address": "20.20.57.64/28",
+    "ip_type": "IPv4",
+    "service": "AzureActiveDirectory.ServiceEndpoint",
+    "region": ""
+  },
+  {
     "ip_address": "20.72.21.96/27",
     "ip_type": "IPv4",
     "service": "AzureActiveDirectory.ServiceEndpoint",
@@ -3223,6 +3235,18 @@
   },
   {
     "ip_address": "20.231.153.96/28",
+    "ip_type": "IPv4",
+    "service": "AzureActiveDirectory.ServiceEndpoint",
+    "region": ""
+  },
+  {
+    "ip_address": "20.231.153.128/28",
+    "ip_type": "IPv4",
+    "service": "AzureActiveDirectory.ServiceEndpoint",
+    "region": ""
+  },
+  {
+    "ip_address": "20.231.153.160/28",
     "ip_type": "IPv4",
     "service": "AzureActiveDirectory.ServiceEndpoint",
     "region": ""
@@ -7008,6 +7032,18 @@
     "region": ""
   },
   {
+    "ip_address": "2603:1046:2000:300::/121",
+    "ip_type": "IPv6",
+    "service": "AzureActiveDirectory.ServiceEndpoint",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1046:2000:308::/121",
+    "ip_type": "IPv6",
+    "service": "AzureActiveDirectory.ServiceEndpoint",
+    "region": ""
+  },
+  {
     "ip_address": "2603:1047:1::/121",
     "ip_type": "IPv6",
     "service": "AzureActiveDirectory.ServiceEndpoint",
@@ -7362,6 +7398,12 @@
     "region": ""
   },
   {
+    "ip_address": "2603:1047:1:298::/121",
+    "ip_type": "IPv6",
+    "service": "AzureActiveDirectory.ServiceEndpoint",
+    "region": ""
+  },
+  {
     "ip_address": "2603:1047:1:2a0::/121",
     "ip_type": "IPv6",
     "service": "AzureActiveDirectory.ServiceEndpoint",
@@ -7411,6 +7453,12 @@
   },
   {
     "ip_address": "2603:1047:1:2f0::/121",
+    "ip_type": "IPv6",
+    "service": "AzureActiveDirectory.ServiceEndpoint",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1047:1:300::/121",
     "ip_type": "IPv6",
     "service": "AzureActiveDirectory.ServiceEndpoint",
     "region": ""

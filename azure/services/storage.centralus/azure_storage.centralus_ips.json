@@ -534,6 +534,12 @@
     "region": "centralus"
   },
   {
+    "ip_address": "57.163.22.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.CentralUS",
+    "region": "centralus"
+  },
+  {
     "ip_address": "104.208.0.16/28",
     "ip_type": "IPv4",
     "service": "Storage.CentralUS",
@@ -595,6 +601,12 @@
   },
   {
     "ip_address": "145.190.145.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "145.190.171.0/24",
     "ip_type": "IPv4",
     "service": "Storage.CentralUS",
     "region": "centralus"

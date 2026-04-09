@@ -14,6 +14,7 @@ INSERT INTO `azure_azurebackup.northeurope_ips` (`ip_address`, `ip_type`) VALUES
 INSERT INTO `azure_azurebackup.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('52.138.227.0/25', 'IPv4');
 INSERT INTO `azure_azurebackup.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('52.146.136.64/26', 'IPv4');
 INSERT INTO `azure_azurebackup.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('52.146.136.128/25', 'IPv4');
+INSERT INTO `azure_azurebackup.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:5:1c::80/121', 'IPv6');
 INSERT INTO `azure_azurebackup.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:5:402::200/121', 'IPv6');
 INSERT INTO `azure_azurebackup.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:5:802::180/121', 'IPv6');
 INSERT INTO `azure_azurebackup.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:5:c02::180/121', 'IPv6');

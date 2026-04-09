@@ -2796,12 +2796,6 @@
     "region": "eu-central-1"
   },
   {
-    "ip_address": "136.18.56.0/21",
-    "ip_type": "IPv4",
-    "service": "EC2",
-    "region": "eu-central-1"
-  },
-  {
     "ip_address": "15.145.16.0/22",
     "ip_type": "IPv4",
     "service": "EC2",

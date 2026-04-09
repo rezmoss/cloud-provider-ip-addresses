@@ -118,6 +118,7 @@ ip_address,ip_type,service,region
 57.150.190.0/23,IPv4,Storage.EastUS2,eastus2
 57.150.232.0/23,IPv4,Storage.EastUS2,eastus2
 57.150.250.0/23,IPv4,Storage.EastUS2,eastus2
+57.163.20.0/23,IPv4,Storage.EastUS2,eastus2
 104.208.128.16/28,IPv4,Storage.EastUS2,eastus2
 104.208.248.16/28,IPv4,Storage.EastUS2,eastus2
 135.130.6.0/23,IPv4,Storage.EastUS2,eastus2

@@ -7,6 +7,7 @@ CREATE TABLE IF NOT EXISTS `azure_azureeventgrid.westeurope_ips` (
 );
 
 INSERT INTO `azure_azureeventgrid.westeurope_ips` (`ip_address`, `ip_type`) VALUES ('4.210.129.0/24', 'IPv4');
+INSERT INTO `azure_azureeventgrid.westeurope_ips` (`ip_address`, `ip_type`) VALUES ('13.80.198.220/30', 'IPv4');
 INSERT INTO `azure_azureeventgrid.westeurope_ips` (`ip_address`, `ip_type`) VALUES ('40.74.31.128/25', 'IPv4');
 INSERT INTO `azure_azureeventgrid.westeurope_ips` (`ip_address`, `ip_type`) VALUES ('40.114.160.176/28', 'IPv4');
 INSERT INTO `azure_azureeventgrid.westeurope_ips` (`ip_address`, `ip_type`) VALUES ('40.114.160.192/28', 'IPv4');

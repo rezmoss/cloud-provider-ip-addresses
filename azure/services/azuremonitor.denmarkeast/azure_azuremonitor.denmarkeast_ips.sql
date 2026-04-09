@@ -14,6 +14,7 @@ INSERT INTO `azure_azuremonitor.denmarkeast_ips` (`ip_address`, `ip_type`) VALUE
 INSERT INTO `azure_azuremonitor.denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('9.205.59.96/28', 'IPv4');
 INSERT INTO `azure_azuremonitor.denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('9.205.62.0/26', 'IPv4');
 INSERT INTO `azure_azuremonitor.denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('9.205.62.64/28', 'IPv4');
+INSERT INTO `azure_azuremonitor.denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('9.205.71.128/27', 'IPv4');
 INSERT INTO `azure_azuremonitor.denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('9.205.74.136/29', 'IPv4');
 INSERT INTO `azure_azuremonitor.denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('9.205.74.240/28', 'IPv4');
 INSERT INTO `azure_azuremonitor.denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('9.205.98.136/29', 'IPv4');

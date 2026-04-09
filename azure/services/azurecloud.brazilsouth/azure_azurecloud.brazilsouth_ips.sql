@@ -115,6 +115,8 @@ INSERT INTO `azure_azurecloud.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES 
 INSERT INTO `azure_azurecloud.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('52.115.238.0/23', 'IPv4');
 INSERT INTO `azure_azurecloud.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('52.121.40.0/21', 'IPv4');
 INSERT INTO `azure_azurecloud.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('52.121.216.0/23', 'IPv4');
+INSERT INTO `azure_azurecloud.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('52.121.227.0/24', 'IPv4');
+INSERT INTO `azure_azurecloud.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('52.121.245.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('52.122.52.0/22', 'IPv4');
 INSERT INTO `azure_azurecloud.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('52.122.228.0/22', 'IPv4');
 INSERT INTO `azure_azurecloud.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('52.123.28.0/24', 'IPv4');

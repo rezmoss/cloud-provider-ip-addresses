@@ -187,6 +187,7 @@ INSERT INTO `azure_scuba_ips` (`ip_address`, `ip_type`) VALUES ('104.208.180.140
 INSERT INTO `azure_scuba_ips` (`ip_address`, `ip_type`) VALUES ('134.138.83.8/29', 'IPv4');
 INSERT INTO `azure_scuba_ips` (`ip_address`, `ip_type`) VALUES ('134.138.217.144/28', 'IPv4');
 INSERT INTO `azure_scuba_ips` (`ip_address`, `ip_type`) VALUES ('134.138.217.160/27', 'IPv4');
+INSERT INTO `azure_scuba_ips` (`ip_address`, `ip_type`) VALUES ('134.138.245.16/28', 'IPv4');
 INSERT INTO `azure_scuba_ips` (`ip_address`, `ip_type`) VALUES ('135.13.132.204/30', 'IPv4');
 INSERT INTO `azure_scuba_ips` (`ip_address`, `ip_type`) VALUES ('135.13.132.208/31', 'IPv4');
 INSERT INTO `azure_scuba_ips` (`ip_address`, `ip_type`) VALUES ('135.149.122.216/30', 'IPv4');

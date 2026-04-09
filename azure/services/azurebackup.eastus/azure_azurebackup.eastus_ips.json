@@ -48,6 +48,12 @@
     "region": "eastus"
   },
   {
+    "ip_address": "2603:1030:210:2f::180/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.EastUS",
+    "region": "eastus"
+  },
+  {
     "ip_address": "2603:1030:210:402::200/121",
     "ip_type": "IPv6",
     "service": "AzureBackup.EastUS",

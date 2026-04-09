@@ -252,6 +252,12 @@
     "region": ""
   },
   {
+    "ip_address": "9.235.185.192/26",
+    "ip_type": "IPv4",
+    "service": "CognitiveServicesManagement",
+    "region": ""
+  },
+  {
     "ip_address": "13.64.56.41/32",
     "ip_type": "IPv4",
     "service": "CognitiveServicesManagement",
@@ -4134,6 +4140,12 @@
     "region": ""
   },
   {
+    "ip_address": "48.193.73.0/26",
+    "ip_type": "IPv4",
+    "service": "CognitiveServicesManagement",
+    "region": ""
+  },
+  {
     "ip_address": "48.196.98.160/27",
     "ip_type": "IPv4",
     "service": "CognitiveServicesManagement",
@@ -4639,6 +4651,12 @@
   },
   {
     "ip_address": "51.56.83.64/28",
+    "ip_type": "IPv4",
+    "service": "CognitiveServicesManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "51.58.62.128/26",
     "ip_type": "IPv4",
     "service": "CognitiveServicesManagement",
     "region": ""
@@ -6222,6 +6240,12 @@
     "region": ""
   },
   {
+    "ip_address": "70.157.165.128/26",
+    "ip_type": "IPv4",
+    "service": "CognitiveServicesManagement",
+    "region": ""
+  },
+  {
     "ip_address": "72.155.49.112/29",
     "ip_type": "IPv4",
     "service": "CognitiveServicesManagement",
@@ -6409,6 +6433,12 @@
   },
   {
     "ip_address": "74.226.124.96/28",
+    "ip_type": "IPv4",
+    "service": "CognitiveServicesManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "85.211.239.192/26",
     "ip_type": "IPv4",
     "service": "CognitiveServicesManagement",
     "region": ""
@@ -6787,6 +6817,12 @@
   },
   {
     "ip_address": "134.33.35.64/28",
+    "ip_type": "IPv4",
+    "service": "CognitiveServicesManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "134.112.171.192/26",
     "ip_type": "IPv4",
     "service": "CognitiveServicesManagement",
     "region": ""
@@ -7195,6 +7231,12 @@
   },
   {
     "ip_address": "158.23.112.48/29",
+    "ip_type": "IPv4",
+    "service": "CognitiveServicesManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "158.158.135.128/26",
     "ip_type": "IPv4",
     "service": "CognitiveServicesManagement",
     "region": ""

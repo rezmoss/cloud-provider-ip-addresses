@@ -2352,6 +2352,12 @@
     "region": "koreacentral"
   },
   {
+    "ip_address": "4.230.162.0/25",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
     "ip_address": "20.41.98.252/32",
     "ip_type": "IPv4",
     "service": "PowerPlatformInfra.KoreaCentral",
@@ -2455,6 +2461,12 @@
   },
   {
     "ip_address": "4.218.236.128/28",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "4.230.161.128/25",
     "ip_type": "IPv4",
     "service": "PowerPlatformPlex.KoreaCentral",
     "region": "koreacentral"
@@ -3336,7 +3348,13 @@
     "region": "koreacentral"
   },
   {
-    "ip_address": "57.157.88.0/30",
+    "ip_address": "57.157.88.0/29",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreacentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "57.157.88.8/30",
     "ip_type": "IPv4",
     "service": "AzureCloud.koreacentral",
     "region": "koreacentral"

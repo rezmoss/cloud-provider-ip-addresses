@@ -61,6 +61,7 @@ INSERT INTO `azure_germanywc_ips` (`ip_address`, `ip_type`) VALUES ('51.116.245.
 INSERT INTO `azure_germanywc_ips` (`ip_address`, `ip_type`) VALUES ('51.116.250.240/28', 'IPv4');
 INSERT INTO `azure_germanywc_ips` (`ip_address`, `ip_type`) VALUES ('51.116.251.64/26', 'IPv4');
 INSERT INTO `azure_germanywc_ips` (`ip_address`, `ip_type`) VALUES ('51.116.253.0/27', 'IPv4');
+INSERT INTO `azure_germanywc_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:c04:b::380/121', 'IPv6');
 INSERT INTO `azure_germanywc_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:c04:402::200/121', 'IPv6');
 INSERT INTO `azure_germanywc_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:c04:802::180/121', 'IPv6');
 INSERT INTO `azure_germanywc_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:c04:c02::180/121', 'IPv6');
@@ -383,6 +384,7 @@ INSERT INTO `azure_germanywc_ips` (`ip_address`, `ip_type`) VALUES ('4.182.45.0/
 INSERT INTO `azure_germanywc_ips` (`ip_address`, `ip_type`) VALUES ('20.52.93.224/27', 'IPv4');
 INSERT INTO `azure_germanywc_ips` (`ip_address`, `ip_type`) VALUES ('20.52.94.0/26', 'IPv4');
 INSERT INTO `azure_germanywc_ips` (`ip_address`, `ip_type`) VALUES ('20.52.94.120/29', 'IPv4');
+INSERT INTO `azure_germanywc_ips` (`ip_address`, `ip_type`) VALUES ('48.201.174.0/25', 'IPv4');
 INSERT INTO `azure_germanywc_ips` (`ip_address`, `ip_type`) VALUES ('51.116.99.200/32', 'IPv4');
 INSERT INTO `azure_germanywc_ips` (`ip_address`, `ip_type`) VALUES ('51.116.132.85/32', 'IPv4');
 INSERT INTO `azure_germanywc_ips` (`ip_address`, `ip_type`) VALUES ('51.116.132.99/32', 'IPv4');
@@ -400,6 +402,7 @@ INSERT INTO `azure_germanywc_ips` (`ip_address`, `ip_type`) VALUES ('20.52.95.84
 INSERT INTO `azure_germanywc_ips` (`ip_address`, `ip_type`) VALUES ('20.52.95.216/30', 'IPv4');
 INSERT INTO `azure_germanywc_ips` (`ip_address`, `ip_type`) VALUES ('20.79.108.100/30', 'IPv4');
 INSERT INTO `azure_germanywc_ips` (`ip_address`, `ip_type`) VALUES ('20.79.108.104/30', 'IPv4');
+INSERT INTO `azure_germanywc_ips` (`ip_address`, `ip_type`) VALUES ('48.201.171.128/25', 'IPv4');
 INSERT INTO `azure_germanywc_ips` (`ip_address`, `ip_type`) VALUES ('98.67.183.168/29', 'IPv4');
 INSERT INTO `azure_germanywc_ips` (`ip_address`, `ip_type`) VALUES ('98.67.183.176/29', 'IPv4');
 INSERT INTO `azure_germanywc_ips` (`ip_address`, `ip_type`) VALUES ('135.220.124.0/25', 'IPv4');

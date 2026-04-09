@@ -48,6 +48,12 @@
     "region": "koreasouth"
   },
   {
+    "ip_address": "52.231.237.128/25",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
     "ip_address": "2603:1061:2004:1900::/57",
     "ip_type": "IPv6",
     "service": "PowerPlatformPlex.KoreaSouth",

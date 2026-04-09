@@ -67,6 +67,7 @@ INSERT INTO `azure_canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('20.38.1
 INSERT INTO `azure_canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('20.48.197.0/26', 'IPv4');
 INSERT INTO `azure_canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('52.246.155.0/27', 'IPv4');
 INSERT INTO `azure_canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('52.246.155.64/26', 'IPv4');
+INSERT INTO `azure_canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f05:e::380/121', 'IPv6');
 INSERT INTO `azure_canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f05:402::200/121', 'IPv6');
 INSERT INTO `azure_canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f05:802::180/121', 'IPv6');
 INSERT INTO `azure_canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f05:c02::180/121', 'IPv6');
@@ -666,10 +667,9 @@ INSERT INTO `azure_canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('40.97.7
 INSERT INTO `azure_canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('40.107.192.0/23', 'IPv4');
 INSERT INTO `azure_canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('40.107.194.0/24', 'IPv4');
 INSERT INTO `azure_canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('40.120.184.0/23', 'IPv4');
-INSERT INTO `azure_canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('40.120.186.0/27', 'IPv4');
-INSERT INTO `azure_canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('40.120.186.32/29', 'IPv4');
-INSERT INTO `azure_canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('40.120.186.40/30', 'IPv4');
-INSERT INTO `azure_canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('40.120.186.44/31', 'IPv4');
+INSERT INTO `azure_canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('40.120.186.0/25', 'IPv4');
+INSERT INTO `azure_canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('40.120.186.128/30', 'IPv4');
+INSERT INTO `azure_canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('40.120.186.132/31', 'IPv4');
 INSERT INTO `azure_canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('40.126.11.0/25', 'IPv4');
 INSERT INTO `azure_canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('40.126.33.0/24', 'IPv4');
 INSERT INTO `azure_canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('48.208.49.0/24', 'IPv4');

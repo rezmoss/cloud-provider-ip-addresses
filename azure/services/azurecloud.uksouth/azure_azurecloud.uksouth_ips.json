@@ -1038,6 +1038,12 @@
     "region": "uksouth"
   },
   {
+    "ip_address": "57.157.40.80/30",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
     "ip_address": "70.152.33.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.uksouth",

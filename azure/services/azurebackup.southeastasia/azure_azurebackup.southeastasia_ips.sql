@@ -16,6 +16,7 @@ INSERT INTO `azure_azurebackup.southeastasia_ips` (`ip_address`, `ip_type`) VALU
 INSERT INTO `azure_azurebackup.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('40.78.234.192/27', 'IPv4');
 INSERT INTO `azure_azurebackup.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('40.78.235.0/24', 'IPv4');
 INSERT INTO `azure_azurebackup.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('40.78.236.0/25', 'IPv4');
+INSERT INTO `azure_azurebackup.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:5:16::600/121', 'IPv6');
 INSERT INTO `azure_azurebackup.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:5:402::200/121', 'IPv6');
 INSERT INTO `azure_azurebackup.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:5:802::180/121', 'IPv6');
 INSERT INTO `azure_azurebackup.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:5:c02::180/121', 'IPv6');

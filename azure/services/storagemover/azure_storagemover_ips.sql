@@ -7,8 +7,10 @@ CREATE TABLE IF NOT EXISTS `azure_storagemover_ips` (
 );
 
 INSERT INTO `azure_storagemover_ips` (`ip_address`, `ip_type`) VALUES ('4.149.115.4/31', 'IPv4');
+INSERT INTO `azure_storagemover_ips` (`ip_address`, `ip_type`) VALUES ('4.188.14.120/29', 'IPv4');
 INSERT INTO `azure_storagemover_ips` (`ip_address`, `ip_type`) VALUES ('4.194.225.198/31', 'IPv4');
 INSERT INTO `azure_storagemover_ips` (`ip_address`, `ip_type`) VALUES ('4.207.244.164/30', 'IPv4');
+INSERT INTO `azure_storagemover_ips` (`ip_address`, `ip_type`) VALUES ('4.229.250.240/29', 'IPv4');
 INSERT INTO `azure_storagemover_ips` (`ip_address`, `ip_type`) VALUES ('20.14.127.112/31', 'IPv4');
 INSERT INTO `azure_storagemover_ips` (`ip_address`, `ip_type`) VALUES ('20.15.14.124/31', 'IPv4');
 INSERT INTO `azure_storagemover_ips` (`ip_address`, `ip_type`) VALUES ('20.26.20.122/31', 'IPv4');

@@ -42,6 +42,12 @@
     "region": "centralus"
   },
   {
+    "ip_address": "2603:1030:10:20::300/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.CentralUS",
+    "region": "centralus"
+  },
+  {
     "ip_address": "2603:1030:10:402::200/121",
     "ip_type": "IPv6",
     "service": "AzureBackup.CentralUS",

@@ -80,6 +80,7 @@ INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('9.205.50.
 INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('9.205.59.96/28', 'IPv4');
 INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('9.205.62.0/26', 'IPv4');
 INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('9.205.62.64/28', 'IPv4');
+INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('9.205.71.128/27', 'IPv4');
 INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('9.205.74.136/29', 'IPv4');
 INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('9.205.74.240/28', 'IPv4');
 INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('9.205.98.136/29', 'IPv4');
@@ -113,6 +114,8 @@ INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('20.153.21
 INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('20.153.33.0/24', 'IPv4');
 INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('57.150.199.0/24', 'IPv4');
 INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('57.150.200.0/22', 'IPv4');
+INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('57.163.24.0/23', 'IPv4');
+INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('145.190.168.0/24', 'IPv4');
 INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1603::/48', 'IPv6');
 INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('9.205.33.64/27', 'IPv4');
 INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1602::300/122', 'IPv6');
@@ -170,8 +173,8 @@ INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('20.20.52.
 INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('20.20.55.128/27', 'IPv4');
 INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('20.20.124.0/25', 'IPv4');
 INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('20.20.124.128/26', 'IPv4');
-INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('20.20.124.192/28', 'IPv4');
-INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('20.20.124.208/29', 'IPv4');
+INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('20.20.124.192/27', 'IPv4');
+INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('20.20.124.224/28', 'IPv4');
 INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('20.38.50.0/24', 'IPv4');
 INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('20.143.98.0/23', 'IPv4');
 INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('20.143.100.0/22', 'IPv4');
@@ -195,7 +198,9 @@ INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('52.108.15
 INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('52.122.255.0/24', 'IPv4');
 INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('57.150.199.0/24', 'IPv4');
 INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('57.150.200.0/22', 'IPv4');
+INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('57.163.24.0/23', 'IPv4');
 INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('70.152.222.0/24', 'IPv4');
+INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('145.190.168.0/24', 'IPv4');
 INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('209.199.29.96/27', 'IPv4');
 INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('209.199.30.128/25', 'IPv4');
 INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('209.199.31.0/25', 'IPv4');
@@ -212,8 +217,8 @@ INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1026
 INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1027:1:280::/59', 'IPv6');
 INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1017::/58', 'IPv6');
 INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1017:40::/59', 'IPv6');
-INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1017:60::/62', 'IPv6');
-INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1017:64::/63', 'IPv6');
+INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1017:60::/60', 'IPv6');
+INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1017:70::/63', 'IPv6');
 INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1311:5c00::/54', 'IPv6');
 INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1745::/48', 'IPv6');
 INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2010:45::/64', 'IPv6');

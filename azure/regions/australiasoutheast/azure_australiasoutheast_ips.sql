@@ -610,6 +610,9 @@ INSERT INTO `azure_australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('52
 INSERT INTO `azure_australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('52.114.60.0/23', 'IPv4');
 INSERT INTO `azure_australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('52.115.99.0/24', 'IPv4');
 INSERT INTO `azure_australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('52.121.106.0/23', 'IPv4');
+INSERT INTO `azure_australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('52.121.234.0/24', 'IPv4');
+INSERT INTO `azure_australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('52.121.236.0/24', 'IPv4');
+INSERT INTO `azure_australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('52.121.241.0/24', 'IPv4');
 INSERT INTO `azure_australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('52.122.232.0/22', 'IPv4');
 INSERT INTO `azure_australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('52.123.26.0/24', 'IPv4');
 INSERT INTO `azure_australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('52.123.162.0/23', 'IPv4');

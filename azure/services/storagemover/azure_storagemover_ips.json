@@ -6,6 +6,12 @@
     "region": ""
   },
   {
+    "ip_address": "4.188.14.120/29",
+    "ip_type": "IPv4",
+    "service": "StorageMover",
+    "region": ""
+  },
+  {
     "ip_address": "4.194.225.198/31",
     "ip_type": "IPv4",
     "service": "StorageMover",
@@ -13,6 +19,12 @@
   },
   {
     "ip_address": "4.207.244.164/30",
+    "ip_type": "IPv4",
+    "service": "StorageMover",
+    "region": ""
+  },
+  {
+    "ip_address": "4.229.250.240/29",
     "ip_type": "IPv4",
     "service": "StorageMover",
     "region": ""

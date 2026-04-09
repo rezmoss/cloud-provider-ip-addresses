@@ -7,6 +7,7 @@ CREATE TABLE IF NOT EXISTS `vultr_jp-27_ips` (
 );
 
 INSERT INTO `vultr_jp-27_ips` (`ip_address`, `ip_type`) VALUES ('64.176.32.0/19', 'IPv4');
+INSERT INTO `vultr_jp-27_ips` (`ip_address`, `ip_type`) VALUES ('66.245.216.0/21', 'IPv4');
 INSERT INTO `vultr_jp-27_ips` (`ip_address`, `ip_type`) VALUES ('192.0.2.0/24', 'IPv4');
 INSERT INTO `vultr_jp-27_ips` (`ip_address`, `ip_type`) VALUES ('198.51.100.0/24', 'IPv4');
 INSERT INTO `vultr_jp-27_ips` (`ip_address`, `ip_type`) VALUES ('203.0.113.0/24', 'IPv4');

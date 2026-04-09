@@ -1086,6 +1086,12 @@
     "region": ""
   },
   {
+    "ip_address": "134.138.245.16/28",
+    "ip_type": "IPv4",
+    "service": "Scuba",
+    "region": ""
+  },
+  {
     "ip_address": "135.13.132.204/30",
     "ip_type": "IPv4",
     "service": "Scuba",

@@ -162,6 +162,12 @@
     "region": ""
   },
   {
+    "ip_address": "13.80.198.220/30",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
     "ip_address": "13.86.56.32/27",
     "ip_type": "IPv4",
     "service": "AzureEventGrid",

@@ -948,6 +948,12 @@
     "region": ""
   },
   {
+    "ip_address": "74.7.202.124/31",
+    "ip_type": "IPv4",
+    "service": "SerialConsole",
+    "region": ""
+  },
+  {
     "ip_address": "74.249.127.175/32",
     "ip_type": "IPv4",
     "service": "SerialConsole",
@@ -1099,6 +1105,12 @@
   },
   {
     "ip_address": "172.194.79.132/31",
+    "ip_type": "IPv4",
+    "service": "SerialConsole",
+    "region": ""
+  },
+  {
+    "ip_address": "172.194.89.190/31",
     "ip_type": "IPv4",
     "service": "SerialConsole",
     "region": ""

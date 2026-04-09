@@ -48,6 +48,12 @@
     "region": "westeurope"
   },
   {
+    "ip_address": "2603:1020:206:23::180/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.WestEurope",
+    "region": "westeurope"
+  },
+  {
     "ip_address": "2603:1020:206:402::200/121",
     "ip_type": "IPv6",
     "service": "AzureBackup.WestEurope",

@@ -65,6 +65,7 @@ INSERT INTO `aws_cn-northwest-1_ips` (`ip_address`, `ip_type`) VALUES ('52.82.18
 INSERT INTO `aws_cn-northwest-1_ips` (`ip_address`, `ip_type`) VALUES ('43.194.16.0/24', 'IPv4');
 INSERT INTO `aws_cn-northwest-1_ips` (`ip_address`, `ip_type`) VALUES ('52.82.164.0/22', 'IPv4');
 INSERT INTO `aws_cn-northwest-1_ips` (`ip_address`, `ip_type`) VALUES ('52.82.188.0/22', 'IPv4');
+INSERT INTO `aws_cn-northwest-1_ips` (`ip_address`, `ip_type`) VALUES ('43.193.65.0/24', 'IPv4');
 INSERT INTO `aws_cn-northwest-1_ips` (`ip_address`, `ip_type`) VALUES ('68.79.2.192/28', 'IPv4');
 INSERT INTO `aws_cn-northwest-1_ips` (`ip_address`, `ip_type`) VALUES ('68.79.2.224/28', 'IPv4');
 INSERT INTO `aws_cn-northwest-1_ips` (`ip_address`, `ip_type`) VALUES ('69.234.250.64/28', 'IPv4');

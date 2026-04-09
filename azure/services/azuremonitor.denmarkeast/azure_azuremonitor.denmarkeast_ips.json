@@ -48,6 +48,12 @@
     "region": "denmarkeast"
   },
   {
+    "ip_address": "9.205.71.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.DenmarkEast",
+    "region": "denmarkeast"
+  },
+  {
     "ip_address": "9.205.74.136/29",
     "ip_type": "IPv4",
     "service": "AzureMonitor.DenmarkEast",

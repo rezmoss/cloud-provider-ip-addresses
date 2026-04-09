@@ -1902,13 +1902,13 @@
     "region": "northeurope"
   },
   {
-    "ip_address": "57.157.29.224/29",
+    "ip_address": "57.157.29.224/28",
     "ip_type": "IPv4",
     "service": "AzureCloud.northeurope",
     "region": "northeurope"
   },
   {
-    "ip_address": "57.157.29.232/31",
+    "ip_address": "57.157.29.240/30",
     "ip_type": "IPv4",
     "service": "AzureCloud.northeurope",
     "region": "northeurope"

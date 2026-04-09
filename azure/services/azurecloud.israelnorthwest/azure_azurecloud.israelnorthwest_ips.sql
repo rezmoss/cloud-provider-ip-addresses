@@ -8,6 +8,8 @@ CREATE TABLE IF NOT EXISTS `azure_azurecloud.israelnorthwest_ips` (
 
 INSERT INTO `azure_azurecloud.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('20.20.52.192/26', 'IPv4');
 INSERT INTO `azure_azurecloud.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('20.20.53.0/27', 'IPv4');
+INSERT INTO `azure_azurecloud.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('20.20.57.32/27', 'IPv4');
+INSERT INTO `azure_azurecloud.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('20.20.57.64/27', 'IPv4');
 INSERT INTO `azure_azurecloud.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('20.20.116.0/26', 'IPv4');
 INSERT INTO `azure_azurecloud.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('20.20.116.64/27', 'IPv4');
 INSERT INTO `azure_azurecloud.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('20.20.116.96/28', 'IPv4');
@@ -24,6 +26,7 @@ INSERT INTO `azure_azurecloud.israelnorthwest_ips` (`ip_address`, `ip_type`) VAL
 INSERT INTO `azure_azurecloud.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('20.217.224.0/19', 'IPv4');
 INSERT INTO `azure_azurecloud.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('20.231.149.64/26', 'IPv4');
 INSERT INTO `azure_azurecloud.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('20.231.149.128/27', 'IPv4');
+INSERT INTO `azure_azurecloud.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('20.231.153.128/26', 'IPv4');
 INSERT INTO `azure_azurecloud.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('40.64.194.0/25', 'IPv4');
 INSERT INTO `azure_azurecloud.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('40.100.27.64/26', 'IPv4');
 INSERT INTO `azure_azurecloud.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('51.4.128.0/17', 'IPv4');
@@ -44,7 +47,9 @@ INSERT INTO `azure_azurecloud.israelnorthwest_ips` (`ip_address`, `ip_type`) VAL
 INSERT INTO `azure_azurecloud.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1706::/64', 'IPv6');
 INSERT INTO `azure_azurecloud.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1046:a00:1c::/64', 'IPv6');
 INSERT INTO `azure_azurecloud.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1046:2000:200::/59', 'IPv6');
+INSERT INTO `azure_azurecloud.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1046:2000:300::/59', 'IPv6');
 INSERT INTO `azure_azurecloud.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1047:1:280::/59', 'IPv6');
+INSERT INTO `azure_azurecloud.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1047:1:300::/59', 'IPv6');
 INSERT INTO `azure_azurecloud.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1015::/59', 'IPv6');
 INSERT INTO `azure_azurecloud.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1015:20::/60', 'IPv6');
 INSERT INTO `azure_azurecloud.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1310:5000::/54', 'IPv6');

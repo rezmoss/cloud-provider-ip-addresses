@@ -53,6 +53,7 @@ ip_address,ip_type,service,region
 40.75.34.192/26,IPv4,AzureBackup.EastUS2EUAP,eastus2euap
 52.138.90.160/27,IPv4,AzureBackup.EastUS2EUAP,eastus2euap
 52.138.90.192/26,IPv4,AzureBackup.EastUS2EUAP,eastus2euap
+2603:1030:40b:11::100/121,IPv6,AzureBackup.EastUS2EUAP,eastus2euap
 2603:1030:40b:400::a00/121,IPv6,AzureBackup.EastUS2EUAP,eastus2euap
 2603:1030:40b:800::180/121,IPv6,AzureBackup.EastUS2EUAP,eastus2euap
 2603:1030:40b:c00::180/121,IPv6,AzureBackup.EastUS2EUAP,eastus2euap

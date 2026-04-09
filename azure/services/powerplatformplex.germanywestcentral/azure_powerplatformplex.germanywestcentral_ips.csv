@@ -4,6 +4,7 @@ ip_address,ip_type,service,region
 20.52.95.216/30,IPv4,PowerPlatformPlex.GermanyWestCentral,germanywc
 20.79.108.100/30,IPv4,PowerPlatformPlex.GermanyWestCentral,germanywc
 20.79.108.104/30,IPv4,PowerPlatformPlex.GermanyWestCentral,germanywc
+48.201.171.128/25,IPv4,PowerPlatformPlex.GermanyWestCentral,germanywc
 98.67.183.168/29,IPv4,PowerPlatformPlex.GermanyWestCentral,germanywc
 98.67.183.176/29,IPv4,PowerPlatformPlex.GermanyWestCentral,germanywc
 135.220.124.0/25,IPv4,PowerPlatformPlex.GermanyWestCentral,germanywc

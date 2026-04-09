@@ -6,6 +6,7 @@ ip_address,ip_type,service,region
 20.48.197.0/26,IPv4,AzureBackup.CanadaCentral,canadacentral
 52.246.155.0/27,IPv4,AzureBackup.CanadaCentral,canadacentral
 52.246.155.64/26,IPv4,AzureBackup.CanadaCentral,canadacentral
+2603:1030:f05:e::380/121,IPv6,AzureBackup.CanadaCentral,canadacentral
 2603:1030:f05:402::200/121,IPv6,AzureBackup.CanadaCentral,canadacentral
 2603:1030:f05:802::180/121,IPv6,AzureBackup.CanadaCentral,canadacentral
 2603:1030:f05:c02::180/121,IPv6,AzureBackup.CanadaCentral,canadacentral

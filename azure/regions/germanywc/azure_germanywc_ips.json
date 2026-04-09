@@ -330,6 +330,12 @@
     "region": "germanywc"
   },
   {
+    "ip_address": "2603:1020:c04:b::380/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
     "ip_address": "2603:1020:c04:402::200/121",
     "ip_type": "IPv6",
     "service": "AzureBackup.GermanyWestCentral",
@@ -2262,6 +2268,12 @@
     "region": "germanywc"
   },
   {
+    "ip_address": "48.201.174.0/25",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
     "ip_address": "51.116.99.200/32",
     "ip_type": "IPv4",
     "service": "PowerPlatformInfra.GermanyWestCentral",
@@ -2359,6 +2371,12 @@
   },
   {
     "ip_address": "20.79.108.104/30",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "48.201.171.128/25",
     "ip_type": "IPv4",
     "service": "PowerPlatformPlex.GermanyWestCentral",
     "region": "germanywc"

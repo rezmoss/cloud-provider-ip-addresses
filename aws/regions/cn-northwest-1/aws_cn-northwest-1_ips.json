@@ -354,6 +354,12 @@
     "region": "cn-northwest-1"
   },
   {
+    "ip_address": "43.193.65.0/24",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "cn-northwest-1"
+  },
+  {
     "ip_address": "68.79.2.192/28",
     "ip_type": "IPv4",
     "service": "S3",

@@ -1,10 +1,10 @@
 # IP Range Statistics
 
-Generated: 2026-04-08T00:32:42.924244
+Generated: 2026-04-09T00:27:36.565574
 
-Total IPv4 addresses: 335,781,395
-Total IPv6 addresses: 5,205,453,918,141,743,993,592,311,604,096,033
-IPv4 space coverage: 7.8180%
+Total IPv4 addresses: 336,017,411
+Total IPv6 addresses: 5,205,453,927,827,280,756,469,806,518,291,905
+IPv4 space coverage: 7.8235%
 
 | Provider | IPv4 CIDRs | IPv6 CIDRs | Total CIDRs | IPv4 Addresses | Services | Regions |
 |----------|-----------|-----------|------------|---------------|----------|--------|
@@ -12,8 +12,8 @@ IPv4 space coverage: 7.8180%
 | apple_private_relay | 41,713 | 245,124 | 286,837 | 105,691 | 0 | 1222 |
 | applebot | 12 | 0 | 12 | 2,400 | 1 | 0 |
 | atlassian | 191 | 57 | 248 | 78,358 | 11 | 18 |
-| aws | 10,046 | 5,327 | 15,373 | 181,422,996 | 26 | 42 |
-| azure | 75,387 | 26,069 | 101,456 | 100,337,444 | 3136 | 73 |
+| aws | 10,053 | 5,334 | 15,387 | 181,422,500 | 26 | 42 |
+| azure | 75,652 | 26,214 | 101,866 | 100,571,908 | 3136 | 73 |
 | bingbot | 28 | 0 | 28 | 4,736 | 1 | 0 |
 | cloudflare | 15 | 7 | 22 | 1,524,736 | 0 | 0 |
 | commoncrawl | 4 | 1 | 5 | 21 | 1 | 0 |
@@ -28,7 +28,7 @@ IPv4 space coverage: 7.8180%
 | oracle | 1,069 | 0 | 1,069 | 4,086,410 | 3 | 55 |
 | perplexitybot | 12 | 0 | 12 | 32 | 2 | 0 |
 | telegram | 9 | 5 | 14 | 11,008 | 0 | 0 |
-| vultr | 434 | 53 | 487 | 1,017,344 | 0 | 34 |
+| vultr | 435 | 53 | 488 | 1,019,392 | 0 | 34 |
 | zoom | 75 | 3 | 78 | 547,888 | 3 | 0 |
 
 *22 providers tracked*

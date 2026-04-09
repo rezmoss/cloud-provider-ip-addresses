@@ -642,13 +642,13 @@
     "region": "japaneast"
   },
   {
-    "ip_address": "40.120.183.0/26",
+    "ip_address": "40.120.183.0/25",
     "ip_type": "IPv4",
     "service": "AzureCloud.japaneast",
     "region": "japaneast"
   },
   {
-    "ip_address": "40.120.183.64/27",
+    "ip_address": "40.120.183.128/31",
     "ip_type": "IPv4",
     "service": "AzureCloud.japaneast",
     "region": "japaneast"

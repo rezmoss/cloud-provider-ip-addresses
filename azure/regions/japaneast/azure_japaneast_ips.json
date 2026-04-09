@@ -372,6 +372,12 @@
     "region": "japaneast"
   },
   {
+    "ip_address": "2603:1040:407:f::/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.JapanEast",
+    "region": "japaneast"
+  },
+  {
     "ip_address": "2603:1040:407:402::200/121",
     "ip_type": "IPv6",
     "service": "AzureBackup.JapanEast",
@@ -3654,13 +3660,13 @@
     "region": "japaneast"
   },
   {
-    "ip_address": "40.120.183.0/26",
+    "ip_address": "40.120.183.0/25",
     "ip_type": "IPv4",
     "service": "AzureCloud.japaneast",
     "region": "japaneast"
   },
   {
-    "ip_address": "40.120.183.64/27",
+    "ip_address": "40.120.183.128/31",
     "ip_type": "IPv4",
     "service": "AzureCloud.japaneast",
     "region": "japaneast"

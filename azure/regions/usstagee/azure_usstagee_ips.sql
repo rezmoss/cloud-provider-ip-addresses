@@ -35,6 +35,7 @@ INSERT INTO `azure_usstagee_ips` (`ip_address`, `ip_type`) VALUES ('20.49.83.0/2
 INSERT INTO `azure_usstagee_ips` (`ip_address`, `ip_type`) VALUES ('20.99.9.128/26', 'IPv4');
 INSERT INTO `azure_usstagee_ips` (`ip_address`, `ip_type`) VALUES ('40.67.59.96/27', 'IPv4');
 INSERT INTO `azure_usstagee_ips` (`ip_address`, `ip_type`) VALUES ('40.67.59.128/26', 'IPv4');
+INSERT INTO `azure_usstagee_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:104:6::280/121', 'IPv6');
 INSERT INTO `azure_usstagee_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:104:402::200/121', 'IPv6');
 INSERT INTO `azure_usstagee_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:104:402::680/121', 'IPv6');
 INSERT INTO `azure_usstagee_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:104:802::100/121', 'IPv6');

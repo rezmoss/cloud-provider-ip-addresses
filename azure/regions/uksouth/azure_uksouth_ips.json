@@ -396,6 +396,12 @@
     "region": "uksouth"
   },
   {
+    "ip_address": "2603:1020:705:15::780/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.UKSouth",
+    "region": "uksouth"
+  },
+  {
     "ip_address": "2603:1020:705:402::200/121",
     "ip_type": "IPv6",
     "service": "AzureBackup.UKSouth",
@@ -5455,6 +5461,12 @@
   },
   {
     "ip_address": "57.157.40.64/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "57.157.40.80/30",
     "ip_type": "IPv4",
     "service": "AzureCloud.uksouth",
     "region": "uksouth"

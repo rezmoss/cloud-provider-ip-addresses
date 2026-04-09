@@ -5,6 +5,11 @@
     "region": "JP-27"
   },
   {
+    "ip_address": "66.245.216.0/21",
+    "ip_type": "IPv4",
+    "region": "JP-27"
+  },
+  {
     "ip_address": "192.0.2.0/24",
     "ip_type": "IPv4",
     "region": "JP-27"

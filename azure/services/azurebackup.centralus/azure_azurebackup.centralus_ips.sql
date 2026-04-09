@@ -13,6 +13,7 @@ INSERT INTO `azure_azurebackup.centralus_ips` (`ip_address`, `ip_type`) VALUES (
 INSERT INTO `azure_azurebackup.centralus_ips` (`ip_address`, `ip_type`) VALUES ('20.44.8.64/26', 'IPv4');
 INSERT INTO `azure_azurebackup.centralus_ips` (`ip_address`, `ip_type`) VALUES ('52.182.139.64/27', 'IPv4');
 INSERT INTO `azure_azurebackup.centralus_ips` (`ip_address`, `ip_type`) VALUES ('52.182.139.128/26', 'IPv4');
+INSERT INTO `azure_azurebackup.centralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:10:20::300/121', 'IPv6');
 INSERT INTO `azure_azurebackup.centralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:10:402::200/121', 'IPv6');
 INSERT INTO `azure_azurebackup.centralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:10:802::180/121', 'IPv6');
 INSERT INTO `azure_azurebackup.centralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:10:c02::180/121', 'IPv6');

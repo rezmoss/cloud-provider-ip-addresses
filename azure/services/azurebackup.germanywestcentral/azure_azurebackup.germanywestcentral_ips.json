@@ -60,6 +60,12 @@
     "region": "germanywc"
   },
   {
+    "ip_address": "2603:1020:c04:b::380/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
     "ip_address": "2603:1020:c04:402::200/121",
     "ip_type": "IPv6",
     "service": "AzureBackup.GermanyWestCentral",

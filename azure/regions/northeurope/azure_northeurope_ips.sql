@@ -134,6 +134,7 @@ INSERT INTO `azure_northeurope_ips` (`ip_address`, `ip_type`) VALUES ('52.138.22
 INSERT INTO `azure_northeurope_ips` (`ip_address`, `ip_type`) VALUES ('52.138.227.0/25', 'IPv4');
 INSERT INTO `azure_northeurope_ips` (`ip_address`, `ip_type`) VALUES ('52.146.136.64/26', 'IPv4');
 INSERT INTO `azure_northeurope_ips` (`ip_address`, `ip_type`) VALUES ('52.146.136.128/25', 'IPv4');
+INSERT INTO `azure_northeurope_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:5:1c::80/121', 'IPv6');
 INSERT INTO `azure_northeurope_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:5:402::200/121', 'IPv6');
 INSERT INTO `azure_northeurope_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:5:802::180/121', 'IPv6');
 INSERT INTO `azure_northeurope_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:5:c02::180/121', 'IPv6');
@@ -1436,8 +1437,8 @@ INSERT INTO `azure_northeurope_ips` (`ip_address`, `ip_type`) VALUES ('57.157.28
 INSERT INTO `azure_northeurope_ips` (`ip_address`, `ip_type`) VALUES ('57.157.29.0/25', 'IPv4');
 INSERT INTO `azure_northeurope_ips` (`ip_address`, `ip_type`) VALUES ('57.157.29.128/26', 'IPv4');
 INSERT INTO `azure_northeurope_ips` (`ip_address`, `ip_type`) VALUES ('57.157.29.192/27', 'IPv4');
-INSERT INTO `azure_northeurope_ips` (`ip_address`, `ip_type`) VALUES ('57.157.29.224/29', 'IPv4');
-INSERT INTO `azure_northeurope_ips` (`ip_address`, `ip_type`) VALUES ('57.157.29.232/31', 'IPv4');
+INSERT INTO `azure_northeurope_ips` (`ip_address`, `ip_type`) VALUES ('57.157.29.224/28', 'IPv4');
+INSERT INTO `azure_northeurope_ips` (`ip_address`, `ip_type`) VALUES ('57.157.29.240/30', 'IPv4');
 INSERT INTO `azure_northeurope_ips` (`ip_address`, `ip_type`) VALUES ('65.52.64.0/20', 'IPv4');
 INSERT INTO `azure_northeurope_ips` (`ip_address`, `ip_type`) VALUES ('65.52.224.0/21', 'IPv4');
 INSERT INTO `azure_northeurope_ips` (`ip_address`, `ip_type`) VALUES ('68.219.0.0/17', 'IPv4');

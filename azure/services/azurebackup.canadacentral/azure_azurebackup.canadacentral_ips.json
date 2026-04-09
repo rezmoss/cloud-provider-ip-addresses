@@ -42,6 +42,12 @@
     "region": "canadacentral"
   },
   {
+    "ip_address": "2603:1030:f05:e::380/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
     "ip_address": "2603:1030:f05:402::200/121",
     "ip_type": "IPv6",
     "service": "AzureBackup.CanadaCentral",

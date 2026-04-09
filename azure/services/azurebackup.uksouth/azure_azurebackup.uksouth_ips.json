@@ -48,6 +48,12 @@
     "region": "uksouth"
   },
   {
+    "ip_address": "2603:1020:705:15::780/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.UKSouth",
+    "region": "uksouth"
+  },
+  {
     "ip_address": "2603:1020:705:402::200/121",
     "ip_type": "IPv6",
     "service": "AzureBackup.UKSouth",

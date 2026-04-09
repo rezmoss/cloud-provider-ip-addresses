@@ -1470,31 +1470,13 @@
     "region": "mexicocentral"
   },
   {
-    "ip_address": "40.120.141.0/26",
+    "ip_address": "40.120.141.0/25",
     "ip_type": "IPv4",
     "service": "AzureCloud.mexicocentral",
     "region": "mexicocentral"
   },
   {
-    "ip_address": "40.120.141.64/27",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.mexicocentral",
-    "region": "mexicocentral"
-  },
-  {
-    "ip_address": "40.120.141.96/28",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.mexicocentral",
-    "region": "mexicocentral"
-  },
-  {
-    "ip_address": "40.120.141.112/30",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.mexicocentral",
-    "region": "mexicocentral"
-  },
-  {
-    "ip_address": "40.120.141.116/31",
+    "ip_address": "40.120.141.128/30",
     "ip_type": "IPv4",
     "service": "AzureCloud.mexicocentral",
     "region": "mexicocentral"
@@ -1758,13 +1740,13 @@
     "region": "mexicocentral"
   },
   {
-    "ip_address": "2603:1061:100c:b0::/63",
+    "ip_address": "2603:1061:100c:b0::/61",
     "ip_type": "IPv6",
     "service": "AzureCloud.mexicocentral",
     "region": "mexicocentral"
   },
   {
-    "ip_address": "2603:1061:100c:b2::/64",
+    "ip_address": "2603:1061:100c:b8::/63",
     "ip_type": "IPv6",
     "service": "AzureCloud.mexicocentral",
     "region": "mexicocentral"

@@ -81,12 +81,16 @@ INSERT INTO `azure_azurecloud.southafricanorth_ips` (`ip_address`, `ip_type`) VA
 INSERT INTO `azure_azurecloud.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('52.108.90.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('52.109.150.0/23', 'IPv4');
 INSERT INTO `azure_azurecloud.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('52.111.237.0/24', 'IPv4');
+INSERT INTO `azure_azurecloud.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('52.112.211.0/24', 'IPv4');
+INSERT INTO `azure_azurecloud.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('52.114.0.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('52.114.112.0/23', 'IPv4');
 INSERT INTO `azure_azurecloud.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('52.114.120.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('52.114.214.0/23', 'IPv4');
 INSERT INTO `azure_azurecloud.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('52.114.224.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('52.121.86.0/23', 'IPv4');
 INSERT INTO `azure_azurecloud.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('52.121.182.0/24', 'IPv4');
+INSERT INTO `azure_azurecloud.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('52.121.225.0/24', 'IPv4');
+INSERT INTO `azure_azurecloud.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('52.121.247.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('52.123.46.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('52.123.151.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('52.143.204.0/23', 'IPv4');

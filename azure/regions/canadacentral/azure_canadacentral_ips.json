@@ -366,6 +366,12 @@
     "region": "canadacentral"
   },
   {
+    "ip_address": "2603:1030:f05:e::380/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
     "ip_address": "2603:1030:f05:402::200/121",
     "ip_type": "IPv6",
     "service": "AzureBackup.CanadaCentral",
@@ -3960,25 +3966,19 @@
     "region": "canadacentral"
   },
   {
-    "ip_address": "40.120.186.0/27",
+    "ip_address": "40.120.186.0/25",
     "ip_type": "IPv4",
     "service": "AzureCloud.canadacentral",
     "region": "canadacentral"
   },
   {
-    "ip_address": "40.120.186.32/29",
+    "ip_address": "40.120.186.128/30",
     "ip_type": "IPv4",
     "service": "AzureCloud.canadacentral",
     "region": "canadacentral"
   },
   {
-    "ip_address": "40.120.186.40/30",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.canadacentral",
-    "region": "canadacentral"
-  },
-  {
-    "ip_address": "40.120.186.44/31",
+    "ip_address": "40.120.186.132/31",
     "ip_type": "IPv4",
     "service": "AzureCloud.canadacentral",
     "region": "canadacentral"

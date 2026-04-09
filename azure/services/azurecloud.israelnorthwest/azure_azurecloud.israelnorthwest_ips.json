@@ -12,6 +12,18 @@
     "region": "israelnorthwest"
   },
   {
+    "ip_address": "20.20.57.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.israelnorthwest",
+    "region": "israelnorthwest"
+  },
+  {
+    "ip_address": "20.20.57.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.israelnorthwest",
+    "region": "israelnorthwest"
+  },
+  {
     "ip_address": "20.20.116.0/26",
     "ip_type": "IPv4",
     "service": "AzureCloud.israelnorthwest",
@@ -103,6 +115,12 @@
   },
   {
     "ip_address": "20.231.149.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.israelnorthwest",
+    "region": "israelnorthwest"
+  },
+  {
+    "ip_address": "20.231.153.128/26",
     "ip_type": "IPv4",
     "service": "AzureCloud.israelnorthwest",
     "region": "israelnorthwest"
@@ -228,7 +246,19 @@
     "region": "israelnorthwest"
   },
   {
+    "ip_address": "2603:1046:2000:300::/59",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.israelnorthwest",
+    "region": "israelnorthwest"
+  },
+  {
     "ip_address": "2603:1047:1:280::/59",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.israelnorthwest",
+    "region": "israelnorthwest"
+  },
+  {
+    "ip_address": "2603:1047:1:300::/59",
     "ip_type": "IPv6",
     "service": "AzureCloud.israelnorthwest",
     "region": "israelnorthwest"

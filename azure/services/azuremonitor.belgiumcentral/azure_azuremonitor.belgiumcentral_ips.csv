@@ -14,6 +14,7 @@ ip_address,ip_type,service,region
 9.160.90.240/28,IPv4,AzureMonitor.BelgiumCentral,belgiumcentral
 9.160.114.136/29,IPv4,AzureMonitor.BelgiumCentral,belgiumcentral
 9.160.114.240/28,IPv4,AzureMonitor.BelgiumCentral,belgiumcentral
+9.160.174.224/27,IPv4,AzureMonitor.BelgiumCentral,belgiumcentral
 2603:1020:1501:f::10/127,IPv6,AzureMonitor.BelgiumCentral,belgiumcentral
 2603:1020:1502:2::480/121,IPv6,AzureMonitor.BelgiumCentral,belgiumcentral
 2603:1020:1502:2::500/120,IPv6,AzureMonitor.BelgiumCentral,belgiumcentral

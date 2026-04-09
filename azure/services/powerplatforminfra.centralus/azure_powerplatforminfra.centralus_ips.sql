@@ -6,6 +6,7 @@ CREATE TABLE IF NOT EXISTS `azure_powerplatforminfra.centralus_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_powerplatforminfra.centralus_ips` (`ip_address`, `ip_type`) VALUES ('20.15.220.0/25', 'IPv4');
 INSERT INTO `azure_powerplatforminfra.centralus_ips` (`ip_address`, `ip_type`) VALUES ('172.212.241.0/24', 'IPv4');
 INSERT INTO `azure_powerplatforminfra.centralus_ips` (`ip_address`, `ip_type`) VALUES ('172.212.242.0/25', 'IPv4');
 INSERT INTO `azure_powerplatforminfra.centralus_ips` (`ip_address`, `ip_type`) VALUES ('172.212.243.0/24', 'IPv4');

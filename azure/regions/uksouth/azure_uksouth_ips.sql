@@ -72,6 +72,7 @@ INSERT INTO `azure_uksouth_ips` (`ip_address`, `ip_type`) VALUES ('51.140.148.64
 INSERT INTO `azure_uksouth_ips` (`ip_address`, `ip_type`) VALUES ('51.140.148.128/27', 'IPv4');
 INSERT INTO `azure_uksouth_ips` (`ip_address`, `ip_type`) VALUES ('51.143.212.192/26', 'IPv4');
 INSERT INTO `azure_uksouth_ips` (`ip_address`, `ip_type`) VALUES ('51.143.213.0/25', 'IPv4');
+INSERT INTO `azure_uksouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:705:15::780/121', 'IPv6');
 INSERT INTO `azure_uksouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:705:402::200/121', 'IPv6');
 INSERT INTO `azure_uksouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:705:802::180/121', 'IPv6');
 INSERT INTO `azure_uksouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:705:c02::180/121', 'IPv6');
@@ -916,6 +917,7 @@ INSERT INTO `azure_uksouth_ips` (`ip_address`, `ip_type`) VALUES ('52.253.162.0/
 INSERT INTO `azure_uksouth_ips` (`ip_address`, `ip_type`) VALUES ('57.150.236.0/23', 'IPv4');
 INSERT INTO `azure_uksouth_ips` (`ip_address`, `ip_type`) VALUES ('57.157.40.0/26', 'IPv4');
 INSERT INTO `azure_uksouth_ips` (`ip_address`, `ip_type`) VALUES ('57.157.40.64/28', 'IPv4');
+INSERT INTO `azure_uksouth_ips` (`ip_address`, `ip_type`) VALUES ('57.157.40.80/30', 'IPv4');
 INSERT INTO `azure_uksouth_ips` (`ip_address`, `ip_type`) VALUES ('70.152.33.0/24', 'IPv4');
 INSERT INTO `azure_uksouth_ips` (`ip_address`, `ip_type`) VALUES ('70.152.237.0/24', 'IPv4');
 INSERT INTO `azure_uksouth_ips` (`ip_address`, `ip_type`) VALUES ('70.152.238.0/23', 'IPv4');

@@ -42,6 +42,12 @@
     "region": "eastus2euap"
   },
   {
+    "ip_address": "2603:1030:40b:11::100/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
     "ip_address": "2603:1030:40b:400::a00/121",
     "ip_type": "IPv6",
     "service": "AzureBackup.EastUS2EUAP",

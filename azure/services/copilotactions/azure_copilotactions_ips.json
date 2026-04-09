@@ -18,7 +18,67 @@
     "region": ""
   },
   {
+    "ip_address": "4.209.2.216/29",
+    "ip_type": "IPv4",
+    "service": "CopilotActions",
+    "region": ""
+  },
+  {
+    "ip_address": "4.209.3.144/30",
+    "ip_type": "IPv4",
+    "service": "CopilotActions",
+    "region": ""
+  },
+  {
     "ip_address": "4.243.137.96/29",
+    "ip_type": "IPv4",
+    "service": "CopilotActions",
+    "region": ""
+  },
+  {
+    "ip_address": "13.80.199.80/29",
+    "ip_type": "IPv4",
+    "service": "CopilotActions",
+    "region": ""
+  },
+  {
+    "ip_address": "20.43.134.144/28",
+    "ip_type": "IPv4",
+    "service": "CopilotActions",
+    "region": ""
+  },
+  {
+    "ip_address": "20.66.139.16/28",
+    "ip_type": "IPv4",
+    "service": "CopilotActions",
+    "region": ""
+  },
+  {
+    "ip_address": "52.231.239.240/28",
+    "ip_type": "IPv4",
+    "service": "CopilotActions",
+    "region": ""
+  },
+  {
+    "ip_address": "57.165.84.116/30",
+    "ip_type": "IPv4",
+    "service": "CopilotActions",
+    "region": ""
+  },
+  {
+    "ip_address": "57.165.84.120/29",
+    "ip_type": "IPv4",
+    "service": "CopilotActions",
+    "region": ""
+  },
+  {
+    "ip_address": "57.165.84.148/30",
+    "ip_type": "IPv4",
+    "service": "CopilotActions",
+    "region": ""
+  },
+  {
+    "ip_address": "57.166.6.112/28",
     "ip_type": "IPv4",
     "service": "CopilotActions",
     "region": ""

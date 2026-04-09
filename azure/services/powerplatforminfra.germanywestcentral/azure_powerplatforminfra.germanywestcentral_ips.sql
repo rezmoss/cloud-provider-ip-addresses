@@ -12,6 +12,7 @@ INSERT INTO `azure_powerplatforminfra.germanywestcentral_ips` (`ip_address`, `ip
 INSERT INTO `azure_powerplatforminfra.germanywestcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.52.93.224/27', 'IPv4');
 INSERT INTO `azure_powerplatforminfra.germanywestcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.52.94.0/26', 'IPv4');
 INSERT INTO `azure_powerplatforminfra.germanywestcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.52.94.120/29', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.germanywestcentral_ips` (`ip_address`, `ip_type`) VALUES ('48.201.174.0/25', 'IPv4');
 INSERT INTO `azure_powerplatforminfra.germanywestcentral_ips` (`ip_address`, `ip_type`) VALUES ('51.116.99.200/32', 'IPv4');
 INSERT INTO `azure_powerplatforminfra.germanywestcentral_ips` (`ip_address`, `ip_type`) VALUES ('51.116.132.85/32', 'IPv4');
 INSERT INTO `azure_powerplatforminfra.germanywestcentral_ips` (`ip_address`, `ip_type`) VALUES ('51.116.132.99/32', 'IPv4');

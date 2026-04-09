@@ -35,11 +35,8 @@ INSERT INTO `azure_azurecloud.mexicocentral_ips` (`ip_address`, `ip_type`) VALUE
 INSERT INTO `azure_azurecloud.mexicocentral_ips` (`ip_address`, `ip_type`) VALUES ('40.107.1.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.mexicocentral_ips` (`ip_address`, `ip_type`) VALUES ('40.107.2.0/23', 'IPv4');
 INSERT INTO `azure_azurecloud.mexicocentral_ips` (`ip_address`, `ip_type`) VALUES ('40.120.140.0/24', 'IPv4');
-INSERT INTO `azure_azurecloud.mexicocentral_ips` (`ip_address`, `ip_type`) VALUES ('40.120.141.0/26', 'IPv4');
-INSERT INTO `azure_azurecloud.mexicocentral_ips` (`ip_address`, `ip_type`) VALUES ('40.120.141.64/27', 'IPv4');
-INSERT INTO `azure_azurecloud.mexicocentral_ips` (`ip_address`, `ip_type`) VALUES ('40.120.141.96/28', 'IPv4');
-INSERT INTO `azure_azurecloud.mexicocentral_ips` (`ip_address`, `ip_type`) VALUES ('40.120.141.112/30', 'IPv4');
-INSERT INTO `azure_azurecloud.mexicocentral_ips` (`ip_address`, `ip_type`) VALUES ('40.120.141.116/31', 'IPv4');
+INSERT INTO `azure_azurecloud.mexicocentral_ips` (`ip_address`, `ip_type`) VALUES ('40.120.141.0/25', 'IPv4');
+INSERT INTO `azure_azurecloud.mexicocentral_ips` (`ip_address`, `ip_type`) VALUES ('40.120.141.128/30', 'IPv4');
 INSERT INTO `azure_azurecloud.mexicocentral_ips` (`ip_address`, `ip_type`) VALUES ('48.208.36.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.mexicocentral_ips` (`ip_address`, `ip_type`) VALUES ('48.212.20.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.mexicocentral_ips` (`ip_address`, `ip_type`) VALUES ('48.212.148.0/24', 'IPv4');
@@ -83,8 +80,8 @@ INSERT INTO `azure_azurecloud.mexicocentral_ips` (`ip_address`, `ip_type`) VALUE
 INSERT INTO `azure_azurecloud.mexicocentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:100c::/57', 'IPv6');
 INSERT INTO `azure_azurecloud.mexicocentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:100c:80::/59', 'IPv6');
 INSERT INTO `azure_azurecloud.mexicocentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:100c:a0::/60', 'IPv6');
-INSERT INTO `azure_azurecloud.mexicocentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:100c:b0::/63', 'IPv6');
-INSERT INTO `azure_azurecloud.mexicocentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:100c:b2::/64', 'IPv6');
+INSERT INTO `azure_azurecloud.mexicocentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:100c:b0::/61', 'IPv6');
+INSERT INTO `azure_azurecloud.mexicocentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:100c:b8::/63', 'IPv6');
 INSERT INTO `azure_azurecloud.mexicocentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1312:1400::/54', 'IPv6');
 INSERT INTO `azure_azurecloud.mexicocentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1736::/48', 'IPv6');
 INSERT INTO `azure_azurecloud.mexicocentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2010:36::/64', 'IPv6');

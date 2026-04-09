@@ -8,6 +8,7 @@ CREATE TABLE IF NOT EXISTS `azure_powerplatformplex.koreacentral_ips` (
 
 INSERT INTO `azure_powerplatformplex.koreacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.181.26.80/29', 'IPv4');
 INSERT INTO `azure_powerplatformplex.koreacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.218.236.128/28', 'IPv4');
+INSERT INTO `azure_powerplatformplex.koreacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.230.161.128/25', 'IPv4');
 INSERT INTO `azure_powerplatformplex.koreacentral_ips` (`ip_address`, `ip_type`) VALUES ('20.200.198.200/29', 'IPv4');
 INSERT INTO `azure_powerplatformplex.koreacentral_ips` (`ip_address`, `ip_type`) VALUES ('20.200.199.88/29', 'IPv4');
 INSERT INTO `azure_powerplatformplex.koreacentral_ips` (`ip_address`, `ip_type`) VALUES ('72.155.105.192/26', 'IPv4');

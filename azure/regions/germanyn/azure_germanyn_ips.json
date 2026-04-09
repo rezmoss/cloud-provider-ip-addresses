@@ -1494,6 +1494,12 @@
     "region": "germanyn"
   },
   {
+    "ip_address": "20.170.254.128/25",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
     "ip_address": "51.116.1.237/32",
     "ip_type": "IPv4",
     "service": "PowerPlatformInfra.GermanyNorth",
@@ -1591,6 +1597,12 @@
   },
   {
     "ip_address": "20.170.228.128/25",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "20.170.254.0/25",
     "ip_type": "IPv4",
     "service": "PowerPlatformPlex.GermanyNorth",
     "region": "germanyn"
