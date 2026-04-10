@@ -1,6 +1,6 @@
 #!/bin/bash
 # Aws IP Ranges
-# Updated: 2026-04-09 00:25:50
+# Updated: 2026-04-10 00:29:21
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -99,6 +99,7 @@ ufw allow from 69.107.12.16/29
 ufw allow from 35.55.1.0/24
 ufw allow from 52.95.243.0/24
 ufw allow from 15.220.56.0/21
+ufw allow from 16.15.54.0/23
 ufw allow from 13.158.0.0/15
 ufw allow from 13.248.98.0/24
 ufw allow from 52.93.121.189/32
@@ -143,6 +144,7 @@ ufw allow from 54.238.0.0/16
 ufw allow from 27.0.0.0/22
 ufw allow from 52.93.121.188/32
 ufw allow from 45.33.161.0/24
+ufw allow from 16.15.56.0/23
 ufw allow from 52.93.127.148/32
 ufw allow from 52.93.127.250/32
 ufw allow from 216.244.36.0/23
@@ -241,9 +243,11 @@ ufw allow from 3.5.152.0/21
 ufw allow from 52.219.0.0/20
 ufw allow from 52.219.20.0/24
 ufw allow from 52.219.136.0/22
+ufw allow from 16.15.54.0/23
 ufw allow from 52.219.201.0/24
 ufw allow from 52.219.172.0/22
 ufw allow from 52.219.200.0/24
+ufw allow from 16.15.56.0/23
 ufw allow from 16.15.58.0/23
 ufw allow from 52.219.21.0/24
 ufw allow from 52.219.152.0/22
@@ -305,6 +309,7 @@ ufw allow from 64.252.110.0/24
 ufw allow from 35.55.1.0/24
 ufw allow from 52.95.243.0/24
 ufw allow from 15.220.56.0/21
+ufw allow from 16.15.54.0/23
 ufw allow from 13.158.0.0/15
 ufw allow from 18.182.0.0/16
 ufw allow from 18.178.0.0/16
@@ -320,6 +325,7 @@ ufw allow from 99.77.139.0/24
 ufw allow from 18.99.64.0/19
 ufw allow from 103.4.8.0/21
 ufw allow from 54.238.0.0/16
+ufw allow from 16.15.56.0/23
 ufw allow from 216.244.36.0/23
 ufw allow from 216.244.48.0/20
 ufw allow from 16.15.58.0/23

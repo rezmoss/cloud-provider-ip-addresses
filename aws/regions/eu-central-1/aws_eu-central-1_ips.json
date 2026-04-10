@@ -3420,6 +3420,12 @@
     "region": "eu-central-1"
   },
   {
+    "ip_address": "2631:1:108::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eu-central-1"
+  },
+  {
     "ip_address": "2a05:d070:4000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -4435,6 +4441,12 @@
   },
   {
     "ip_address": "2600:1ffd:80a7::/48",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eu-central-1"
+  },
+  {
+    "ip_address": "2631:1:108::/48",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "eu-central-1"

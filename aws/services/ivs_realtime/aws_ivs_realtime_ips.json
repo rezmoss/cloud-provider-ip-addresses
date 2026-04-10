@@ -822,6 +822,12 @@
     "region": "sa-east-1"
   },
   {
+    "ip_address": "2600:f0f0:e34::/48",
+    "ip_type": "IPv6",
+    "service": "IVS_REALTIME",
+    "region": "us-east-2"
+  },
+  {
     "ip_address": "2600:f0f0:552c::/48",
     "ip_type": "IPv6",
     "service": "IVS_REALTIME",
@@ -985,6 +991,12 @@
   },
   {
     "ip_address": "2600:f0f0:5405::/48",
+    "ip_type": "IPv6",
+    "service": "IVS_REALTIME",
+    "region": "us-east-2"
+  },
+  {
+    "ip_address": "2600:f0f0:e35::/48",
     "ip_type": "IPv6",
     "service": "IVS_REALTIME",
     "region": "us-east-2"

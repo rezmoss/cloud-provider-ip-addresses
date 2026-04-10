@@ -2,17 +2,9 @@
 
 Daily IP range changes across all providers.
 
-## 2026-04-09
+## 2026-04-10
 
 ### aws
-- Added: 10 CIDRs
+- Added: 6 CIDRs
 - Removed: 0 CIDRs
-
-### vultr
-- Added: 1 CIDRs
-- Removed: 0 CIDRs
-
-### azure
-- Added: 384 CIDRs
-- Removed: 90 CIDRs
 
