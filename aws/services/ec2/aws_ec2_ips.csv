@@ -1913,6 +1913,7 @@ ip_address,ip_type,service,region
 2406:daf4:9000::/40,IPv6,EC2,ap-southeast-3
 2600:1f36:8000::/39,IPv6,EC2,us-east-1
 2600:1ffd:80c8::/48,IPv6,EC2,eu-central-1
+2600:f0f3:f010::/56,IPv6,EC2,us-east-1
 2606:f40:ffe4::/48,IPv6,EC2,ap-southeast-1
 2a05:d059:5000::/40,IPv6,EC2,il-central-1
 2a05:d05b:9000::/40,IPv6,EC2,eu-central-2

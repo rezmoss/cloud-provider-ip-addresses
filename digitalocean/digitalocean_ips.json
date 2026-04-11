@@ -4070,6 +4070,11 @@
     "region": "IN-KA"
   },
   {
+    "ip_address": "168.144.96.0/20",
+    "ip_type": "IPv4",
+    "region": "SG-05"
+  },
+  {
     "ip_address": "170.64.128.0/18",
     "ip_type": "IPv4",
     "region": "AU-NSW"
@@ -5603,6 +5608,11 @@
     "ip_address": "2604:a880:7:7::/64",
     "ip_type": "IPv6",
     "region": "US-MO"
+  },
+  {
+    "ip_address": "2604:a880:8:7::/64",
+    "ip_type": "IPv6",
+    "region": "global"
   },
   {
     "ip_address": "2604:a880:400:d0::/64",

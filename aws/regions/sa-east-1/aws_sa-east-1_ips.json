@@ -1710,6 +1710,12 @@
     "region": "sa-east-1"
   },
   {
+    "ip_address": "3.44.193.128/25",
+    "ip_type": "IPv4",
+    "service": "AURORA_DSQL",
+    "region": "sa-east-1"
+  },
+  {
     "ip_address": "15.229.120.48/29",
     "ip_type": "IPv4",
     "service": "MEDIA_PACKAGE_V2",
@@ -2595,6 +2601,12 @@
     "ip_address": "2600:1f1e:d1d:e700::/56",
     "ip_type": "IPv6",
     "service": "EC2_INSTANCE_CONNECT",
+    "region": "sa-east-1"
+  },
+  {
+    "ip_address": "2600:1f1e:cd1:5100::/56",
+    "ip_type": "IPv6",
+    "service": "AURORA_DSQL",
     "region": "sa-east-1"
   }
 ]

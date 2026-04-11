@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "18.99.177.0/25",
+    "ip_type": "IPv4",
+    "service": "AURORA_DSQL",
+    "region": "ap-east-1"
+  },
+  {
     "ip_address": "18.99.75.128/25",
     "ip_type": "IPv4",
     "service": "AURORA_DSQL",
@@ -16,6 +22,18 @@
     "ip_type": "IPv4",
     "service": "AURORA_DSQL",
     "region": "ap-northeast-3"
+  },
+  {
+    "ip_address": "18.96.231.0/25",
+    "ip_type": "IPv4",
+    "service": "AURORA_DSQL",
+    "region": "ap-south-1"
+  },
+  {
+    "ip_address": "3.44.5.128/25",
+    "ip_type": "IPv4",
+    "service": "AURORA_DSQL",
+    "region": "ap-southeast-1"
   },
   {
     "ip_address": "3.44.64.128/25",
@@ -48,6 +66,12 @@
     "region": "eu-central-1"
   },
   {
+    "ip_address": "18.99.100.128/25",
+    "ip_type": "IPv4",
+    "service": "AURORA_DSQL",
+    "region": "eu-north-1"
+  },
+  {
     "ip_address": "18.97.198.128/25",
     "ip_type": "IPv4",
     "service": "AURORA_DSQL",
@@ -64,6 +88,12 @@
     "ip_type": "IPv4",
     "service": "AURORA_DSQL",
     "region": "eu-west-3"
+  },
+  {
+    "ip_address": "3.44.193.128/25",
+    "ip_type": "IPv4",
+    "service": "AURORA_DSQL",
+    "region": "sa-east-1"
   },
   {
     "ip_address": "18.97.33.128/25",
@@ -84,6 +114,12 @@
     "region": "us-west-2"
   },
   {
+    "ip_address": "2406:da1e:10e:a00::/56",
+    "ip_type": "IPv6",
+    "service": "AURORA_DSQL",
+    "region": "ap-east-1"
+  },
+  {
     "ip_address": "2406:da14:1713:ba00::/56",
     "ip_type": "IPv6",
     "service": "AURORA_DSQL",
@@ -100,6 +136,18 @@
     "ip_type": "IPv6",
     "service": "AURORA_DSQL",
     "region": "ap-northeast-3"
+  },
+  {
+    "ip_address": "2406:da1a:9d0:b800::/56",
+    "ip_type": "IPv6",
+    "service": "AURORA_DSQL",
+    "region": "ap-south-1"
+  },
+  {
+    "ip_address": "2406:da18:1580:b00::/56",
+    "ip_type": "IPv6",
+    "service": "AURORA_DSQL",
+    "region": "ap-southeast-1"
   },
   {
     "ip_address": "2406:da1c:b86:9800::/56",
@@ -132,6 +180,12 @@
     "region": "eu-central-1"
   },
   {
+    "ip_address": "2a05:d016:116:3d00::/56",
+    "ip_type": "IPv6",
+    "service": "AURORA_DSQL",
+    "region": "eu-north-1"
+  },
+  {
     "ip_address": "2a05:d018:b3d:8200::/56",
     "ip_type": "IPv6",
     "service": "AURORA_DSQL",
@@ -148,6 +202,12 @@
     "ip_type": "IPv6",
     "service": "AURORA_DSQL",
     "region": "eu-west-3"
+  },
+  {
+    "ip_address": "2600:1f1e:cd1:5100::/56",
+    "ip_type": "IPv6",
+    "service": "AURORA_DSQL",
+    "region": "sa-east-1"
   },
   {
     "ip_address": "2600:1f18:692c:300::/56",

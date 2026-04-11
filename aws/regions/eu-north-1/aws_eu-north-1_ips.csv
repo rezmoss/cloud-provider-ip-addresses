@@ -191,6 +191,7 @@ ip_address,ip_type,service,region
 13.60.1.84/31,IPv4,EBS,eu-north-1
 13.60.1.88/30,IPv4,EBS,eu-north-1
 13.48.4.200/30,IPv4,EC2_INSTANCE_CONNECT,eu-north-1
+18.99.100.128/25,IPv4,AURORA_DSQL,eu-north-1
 13.50.179.168/29,IPv4,MEDIA_PACKAGE_V2,eu-north-1
 13.50.179.176/29,IPv4,MEDIA_PACKAGE_V2,eu-north-1
 35.71.98.0/24,IPv4,DYNAMODB,eu-north-1
@@ -300,3 +301,4 @@ ip_address,ip_type,service,region
 2a05:d05b:6000::/40,IPv6,EC2,eu-north-1
 2600:1f01:48d0::/47,IPv6,GLOBALACCELERATOR,eu-north-1
 2a05:d016:494:f00::/56,IPv6,EC2_INSTANCE_CONNECT,eu-north-1
+2a05:d016:116:3d00::/56,IPv6,AURORA_DSQL,eu-north-1

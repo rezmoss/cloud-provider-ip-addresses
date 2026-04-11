@@ -1152,6 +1152,12 @@
     "region": "eu-north-1"
   },
   {
+    "ip_address": "18.99.100.128/25",
+    "ip_type": "IPv4",
+    "service": "AURORA_DSQL",
+    "region": "eu-north-1"
+  },
+  {
     "ip_address": "13.50.179.168/29",
     "ip_type": "IPv4",
     "service": "MEDIA_PACKAGE_V2",
@@ -1803,6 +1809,12 @@
     "ip_address": "2a05:d016:494:f00::/56",
     "ip_type": "IPv6",
     "service": "EC2_INSTANCE_CONNECT",
+    "region": "eu-north-1"
+  },
+  {
+    "ip_address": "2a05:d016:116:3d00::/56",
+    "ip_type": "IPv6",
+    "service": "AURORA_DSQL",
     "region": "eu-north-1"
   }
 ]

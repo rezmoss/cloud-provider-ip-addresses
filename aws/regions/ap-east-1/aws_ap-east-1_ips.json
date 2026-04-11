@@ -822,6 +822,12 @@
     "region": "ap-east-1"
   },
   {
+    "ip_address": "18.99.177.0/25",
+    "ip_type": "IPv4",
+    "service": "AURORA_DSQL",
+    "region": "ap-east-1"
+  },
+  {
     "ip_address": "52.119.248.0/24",
     "ip_type": "IPv4",
     "service": "DYNAMODB",
@@ -1341,6 +1347,12 @@
     "ip_address": "2406:da1e:da1:3c00::/56",
     "ip_type": "IPv6",
     "service": "EC2_INSTANCE_CONNECT",
+    "region": "ap-east-1"
+  },
+  {
+    "ip_address": "2406:da1e:10e:a00::/56",
+    "ip_type": "IPv6",
+    "service": "AURORA_DSQL",
     "region": "ap-east-1"
   }
 ]
