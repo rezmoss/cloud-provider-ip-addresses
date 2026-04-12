@@ -42,6 +42,12 @@
     "region": "ap-southeast-7"
   },
   {
+    "ip_address": "3.5.100.0/22",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "us-east-2"
+  },
+  {
     "ip_address": "16.12.44.0/24",
     "ip_type": "IPv4",
     "service": "S3",
@@ -756,6 +762,12 @@
     "region": "ap-northeast-1"
   },
   {
+    "ip_address": "3.5.104.0/22",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "us-east-2"
+  },
+  {
     "ip_address": "52.95.190.0/24",
     "ip_type": "IPv4",
     "service": "S3",
@@ -916,6 +928,12 @@
     "ip_type": "IPv4",
     "service": "S3",
     "region": "eu-south-1"
+  },
+  {
+    "ip_address": "3.5.108.0/22",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "us-east-2"
   },
   {
     "ip_address": "52.95.138.0/24",

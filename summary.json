@@ -1,9 +1,9 @@
 {
-  "generated": "2026-04-11T00:30:50.847929",
+  "generated": "2026-04-12T00:34:30.161760",
   "provider_count": 22,
-  "total_ipv4_addresses": 336026243,
-  "total_ipv6_addresses": 5205453937531762325511001141988801,
-  "ipv4_space_coverage_pct": 7.8237,
+  "total_ipv4_addresses": 336035459,
+  "total_ipv6_addresses": 5205453939949613964740259491401153,
+  "ipv4_space_coverage_pct": 7.8239,
   "providers": {
     "cloudflare": {
       "ipv4_cidrs": 15,
@@ -15,11 +15,11 @@
       "regions": 0
     },
     "aws": {
-      "ipv4_cidrs": 10067,
-      "ipv6_cidrs": 5349,
-      "total_cidrs": 15416,
-      "ipv4_addresses": 181427236,
-      "ipv6_addresses": 3199687433043195899300307533837,
+      "ipv4_cidrs": 10076,
+      "ipv6_cidrs": 5351,
+      "total_cidrs": 15427,
+      "ipv4_addresses": 181436452,
+      "ipv6_addresses": 3199689850894835128558656946189,
       "services": 26,
       "regions": 42
     },
