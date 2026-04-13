@@ -1,14 +1,18 @@
 #!/bin/bash
 # Googlecloud IP Ranges
-# Updated: 2026-03-02 01:56:28
+# Updated: 2026-04-13 00:33:24
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
 # Updates daily at 00:00 UTC
 # iptables allow rules for googlecloud
 
+iptables -A INPUT -s 8.228.248.0/21 -j ACCEPT
 iptables -A INPUT -s 8.229.0.0/16 -j ACCEPT
+iptables -A INPUT -s 8.231.48.0/20 -j ACCEPT
+iptables -A INPUT -s 8.231.128.0/17 -j ACCEPT
 iptables -A INPUT -s 34.3.96.0/20 -j ACCEPT
+iptables -A INPUT -s 34.4.104.0/21 -j ACCEPT
 iptables -A INPUT -s 34.11.128.0/17 -j ACCEPT
 iptables -A INPUT -s 34.19.0.0/17 -j ACCEPT
 iptables -A INPUT -s 34.53.0.0/17 -j ACCEPT
@@ -16,10 +20,14 @@ iptables -A INPUT -s 34.82.0.0/15 -j ACCEPT
 iptables -A INPUT -s 34.105.0.0/17 -j ACCEPT
 iptables -A INPUT -s 34.118.192.0/21 -j ACCEPT
 iptables -A INPUT -s 34.127.0.0/17 -j ACCEPT
+iptables -A INPUT -s 34.143.64.0/21 -j ACCEPT
 iptables -A INPUT -s 34.145.0.0/17 -j ACCEPT
 iptables -A INPUT -s 34.157.112.0/21 -j ACCEPT
 iptables -A INPUT -s 34.157.240.0/21 -j ACCEPT
+iptables -A INPUT -s 34.158.8.0/21 -j ACCEPT
+iptables -A INPUT -s 34.158.240.0/21 -j ACCEPT
 iptables -A INPUT -s 34.168.0.0/15 -j ACCEPT
+iptables -A INPUT -s 34.177.112.0/21 -j ACCEPT
 iptables -A INPUT -s 34.182.0.0/17 -j ACCEPT
 iptables -A INPUT -s 34.183.24.0/22 -j ACCEPT
 iptables -A INPUT -s 34.183.58.0/24 -j ACCEPT
@@ -39,6 +47,8 @@ iptables -A INPUT -s 35.233.128.0/17 -j ACCEPT
 iptables -A INPUT -s 35.242.48.0/21 -j ACCEPT
 iptables -A INPUT -s 35.243.32.0/21 -j ACCEPT
 iptables -A INPUT -s 35.247.0.0/17 -j ACCEPT
+iptables -A INPUT -s 35.252.64.0/18 -j ACCEPT
+iptables -A INPUT -s 35.252.128.0/17 -j ACCEPT
 iptables -A INPUT -s 104.196.224.0/19 -j ACCEPT
 iptables -A INPUT -s 104.198.0.0/20 -j ACCEPT
 iptables -A INPUT -s 104.198.96.0/20 -j ACCEPT

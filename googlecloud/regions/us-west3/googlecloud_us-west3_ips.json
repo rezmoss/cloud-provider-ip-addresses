@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "8.228.240.0/21",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "us-west3"
+  },
+  {
     "ip_address": "34.22.32.0/19",
     "ip_type": "IPv4",
     "service": "Google Cloud",
