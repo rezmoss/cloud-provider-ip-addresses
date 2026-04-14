@@ -50,6 +50,11 @@
     "region": "SI-61"
   },
   {
+    "ip_address": "104.28.137.20/32",
+    "ip_type": "IPv4",
+    "region": "SI-61"
+  },
+  {
     "ip_address": "2606:54c0:5510::/45",
     "ip_type": "IPv6",
     "region": "SI-61"

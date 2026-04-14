@@ -1,12 +1,114 @@
 #!/bin/bash
 # Apple_private_relay IP Ranges
-# Updated: 2026-02-11 17:28:49
+# Updated: 2026-04-14 00:36:20
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
 # Updates daily at 00:00 UTC
 # iptables deny rules for apple_private_relay
 
+iptables -A INPUT -s 172.225.94.68/31 -j DROP
+iptables -A INPUT -s 172.225.96.212/31 -j DROP
+iptables -A INPUT -s 172.225.116.202/31 -j DROP
+iptables -A INPUT -s 172.225.145.116/31 -j DROP
+iptables -A INPUT -s 172.226.14.36/31 -j DROP
+iptables -A INPUT -s 172.226.15.48/31 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcc0:940::/60 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcc0:5e03::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcc0:5e3d::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcc0:5e77::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcc0:5e8c::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcc0:5e9b::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcc0:5ebd::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcc0:5ecc::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcc0:5ee6::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcc0:5eef::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcc0:5f29::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcc0:5f40::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcc0:5f55::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcc0:5f60::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcc0:5f65::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcc0:5f86::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcc4:940::/60 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcc4:5e03::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcc4:5e3d::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcc4:5e77::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcc4:5e8c::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcc4:5e9b::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcc4:5ebd::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcc4:5ecc::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcc4:5ee6::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcc4:5eef::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcc4:5f29::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcc4:5f40::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcc4:5f55::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcc4:5f60::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcc4:5f65::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcc4:5f86::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcc8:940::/60 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcc8:5e03::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcc8:5e3d::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcc8:5e77::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcc8:5e8c::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcc8:5e9b::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcc8:5ebd::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcc8:5ecc::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcc8:5ee6::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcc8:5eef::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcc8:5f29::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcc8:5f40::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcc8:5f55::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcc8:5f60::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcc8:5f65::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcc8:5f86::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bccc:940::/60 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bccc:5e03::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bccc:5e3d::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bccc:5e77::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bccc:5e8c::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bccc:5e9b::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bccc:5ebd::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bccc:5ecc::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bccc:5ee6::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bccc:5eef::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bccc:5f29::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bccc:5f40::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bccc:5f55::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bccc:5f60::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bccc:5f65::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bccc:5f86::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcd0:940::/60 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcd0:5e03::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcd0:5e3d::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcd0:5e77::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcd0:5e8c::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcd0:5e9b::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcd0:5ebd::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcd0:5ecc::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcd0:5ee6::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcd0:5eef::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcd0:5f29::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcd0:5f40::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcd0:5f55::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcd0:5f60::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcd0:5f65::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcd0:5f86::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcd1:940::/60 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcd1:5e03::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcd1:5e3d::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcd1:5e77::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcd1:5e8c::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcd1:5e9b::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcd1:5ebd::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcd1:5ecc::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcd1:5ee6::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcd1:5eef::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcd1:5f29::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcd1:5f40::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcd1:5f55::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcd1:5f60::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcd1:5f65::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:bcd1:5f86::/64 -j DROP
 iptables -A INPUT -s 104.28.60.88/32 -j DROP
 iptables -A INPUT -s 104.28.60.89/32 -j DROP
 iptables -A INPUT -s 104.28.62.69/32 -j DROP

@@ -125,6 +125,11 @@
     "region": "NG-LA"
   },
   {
+    "ip_address": "104.28.137.21/32",
+    "ip_type": "IPv4",
+    "region": "NG-LA"
+  },
+  {
     "ip_address": "104.28.146.185/32",
     "ip_type": "IPv4",
     "region": "NG-LA"

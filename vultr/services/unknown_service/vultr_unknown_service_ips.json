@@ -1845,6 +1845,11 @@
     "region": "US-NJ"
   },
   {
+    "ip_address": "173.199.108.0/23",
+    "ip_type": "IPv4",
+    "region": "US-GA"
+  },
+  {
     "ip_address": "173.199.110.0/24",
     "ip_type": "IPv4",
     "region": "NL-NH"
@@ -2438,5 +2443,10 @@
     "ip_address": "2001:19f0:9c00::/38",
     "ip_type": "IPv6",
     "region": "US-OH"
+  },
+  {
+    "ip_address": "2001:19f0:5404::/48",
+    "ip_type": "IPv6",
+    "region": "US-GA"
   }
 ]

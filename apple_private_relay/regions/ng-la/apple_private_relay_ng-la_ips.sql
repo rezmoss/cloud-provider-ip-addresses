@@ -31,6 +31,7 @@ INSERT INTO `apple_private_relay_ng-la_ips` (`ip_address`, `ip_type`) VALUES ('1
 INSERT INTO `apple_private_relay_ng-la_ips` (`ip_address`, `ip_type`) VALUES ('104.28.96.120/32', 'IPv4');
 INSERT INTO `apple_private_relay_ng-la_ips` (`ip_address`, `ip_type`) VALUES ('104.28.96.121/32', 'IPv4');
 INSERT INTO `apple_private_relay_ng-la_ips` (`ip_address`, `ip_type`) VALUES ('104.28.96.122/32', 'IPv4');
+INSERT INTO `apple_private_relay_ng-la_ips` (`ip_address`, `ip_type`) VALUES ('104.28.137.21/32', 'IPv4');
 INSERT INTO `apple_private_relay_ng-la_ips` (`ip_address`, `ip_type`) VALUES ('104.28.146.185/32', 'IPv4');
 INSERT INTO `apple_private_relay_ng-la_ips` (`ip_address`, `ip_type`) VALUES ('104.28.146.186/32', 'IPv4');
 INSERT INTO `apple_private_relay_ng-la_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:4d20::/45', 'IPv6');

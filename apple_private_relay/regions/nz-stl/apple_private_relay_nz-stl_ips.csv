@@ -1,0 +1,5 @@
+ip_address,ip_type,region
+2a02:26f7:f400:5309::/64,IPv6,NZ-STL
+2a02:26f7:f404:5309::/64,IPv6,NZ-STL
+2a02:26f7:f408:5309::/64,IPv6,NZ-STL
+2a02:26f7:f40c:5309::/64,IPv6,NZ-STL

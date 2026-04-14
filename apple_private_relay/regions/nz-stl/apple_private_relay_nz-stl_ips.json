@@ -1,0 +1,22 @@
+[
+  {
+    "ip_address": "2a02:26f7:f400:5309::/64",
+    "ip_type": "IPv6",
+    "region": "NZ-STL"
+  },
+  {
+    "ip_address": "2a02:26f7:f404:5309::/64",
+    "ip_type": "IPv6",
+    "region": "NZ-STL"
+  },
+  {
+    "ip_address": "2a02:26f7:f408:5309::/64",
+    "ip_type": "IPv6",
+    "region": "NZ-STL"
+  },
+  {
+    "ip_address": "2a02:26f7:f40c:5309::/64",
+    "ip_type": "IPv6",
+    "region": "NZ-STL"
+  }
+]

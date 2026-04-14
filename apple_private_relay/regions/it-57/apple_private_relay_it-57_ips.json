@@ -1,0 +1,542 @@
+[
+  {
+    "ip_address": "2a02:26f7:bcc0:5e15::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcc0:5e1b::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcc0:5e2c::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcc0:5e5c::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcc0:5e7c::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcc0:5e86::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcc0:5e90::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcc0:5e94::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcc0:5e9a::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcc0:5ebf::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcc0:5ec4::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcc0:5ed4::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcc0:5ed9::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcc0:5f2a::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcc0:5f46::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcc0:5f4b::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcc0:5f8b::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcc0:5f93::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcc4:5e15::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcc4:5e1b::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcc4:5e2c::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcc4:5e5c::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcc4:5e7c::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcc4:5e86::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcc4:5e90::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcc4:5e94::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcc4:5e9a::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcc4:5ebf::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcc4:5ec4::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcc4:5ed4::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcc4:5ed9::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcc4:5f2a::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcc4:5f46::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcc4:5f4b::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcc4:5f8b::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcc4:5f93::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcc8:5e15::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcc8:5e1b::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcc8:5e2c::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcc8:5e5c::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcc8:5e7c::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcc8:5e86::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcc8:5e90::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcc8:5e94::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcc8:5e9a::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcc8:5ebf::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcc8:5ec4::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcc8:5ed4::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcc8:5ed9::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcc8:5f2a::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcc8:5f46::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcc8:5f4b::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcc8:5f8b::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcc8:5f93::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bccc:5e15::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bccc:5e1b::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bccc:5e2c::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bccc:5e5c::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bccc:5e7c::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bccc:5e86::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bccc:5e90::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bccc:5e94::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bccc:5e9a::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bccc:5ebf::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bccc:5ec4::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bccc:5ed4::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bccc:5ed9::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bccc:5f2a::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bccc:5f46::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bccc:5f4b::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bccc:5f8b::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bccc:5f93::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcd0:5e15::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcd0:5e1b::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcd0:5e2c::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcd0:5e5c::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcd0:5e7c::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcd0:5e86::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcd0:5e90::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcd0:5e94::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcd0:5e9a::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcd0:5ebf::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcd0:5ec4::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcd0:5ed4::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcd0:5ed9::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcd0:5f2a::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcd0:5f46::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcd0:5f4b::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcd0:5f8b::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcd0:5f93::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcd1:5e15::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcd1:5e1b::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcd1:5e2c::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcd1:5e5c::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcd1:5e7c::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcd1:5e86::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcd1:5e90::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcd1:5e94::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcd1:5e9a::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcd1:5ebf::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcd1:5ec4::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcd1:5ed4::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcd1:5ed9::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcd1:5f2a::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcd1:5f46::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcd1:5f4b::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcd1:5f8b::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  },
+  {
+    "ip_address": "2a02:26f7:bcd1:5f93::/64",
+    "ip_type": "IPv6",
+    "region": "IT-57"
+  }
+]

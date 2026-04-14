@@ -1,12 +1,60 @@
 #!/bin/bash
 # Apple_private_relay IP Ranges
-# Updated: 2026-02-11 17:28:48
+# Updated: 2026-04-14 00:36:19
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
 # Updates daily at 00:00 UTC
 # UFW allow rules for apple_private_relay
 
+ufw allow from 172.225.60.80/28
+ufw allow from 172.225.60.200/30
+ufw allow from 172.225.63.112/29
+ufw allow from 172.225.65.224/27
+ufw allow from 172.225.156.96/28
+ufw allow from 172.225.156.156/30
+ufw allow from 172.225.244.176/28
+ufw allow from 172.225.245.100/30
+ufw allow from 2a02:26f7:f400::/54
+ufw allow from 2a02:26f7:f400:400::/56
+ufw allow from 2a02:26f7:f400:580::/60
+ufw allow from 2a02:26f7:f400:4000::/64
+ufw allow from 2a02:26f7:f400:5300::/64
+ufw allow from 2a02:26f7:f400:5304::/64
+ufw allow from 2a02:26f7:f400:530e::/64
+ufw allow from 2a02:26f7:f400:5310::/64
+ufw allow from 2a02:26f7:f400:5315::/64
+ufw allow from 2a02:26f7:f401:4000::/64
+ufw allow from 2a02:26f7:f404::/54
+ufw allow from 2a02:26f7:f404:400::/56
+ufw allow from 2a02:26f7:f404:580::/60
+ufw allow from 2a02:26f7:f404:4000::/64
+ufw allow from 2a02:26f7:f404:5300::/64
+ufw allow from 2a02:26f7:f404:5304::/64
+ufw allow from 2a02:26f7:f404:530e::/64
+ufw allow from 2a02:26f7:f404:5310::/64
+ufw allow from 2a02:26f7:f404:5315::/64
+ufw allow from 2a02:26f7:f405:4000::/64
+ufw allow from 2a02:26f7:f408::/54
+ufw allow from 2a02:26f7:f408:400::/56
+ufw allow from 2a02:26f7:f408:580::/60
+ufw allow from 2a02:26f7:f408:4000::/64
+ufw allow from 2a02:26f7:f408:5300::/64
+ufw allow from 2a02:26f7:f408:5304::/64
+ufw allow from 2a02:26f7:f408:530e::/64
+ufw allow from 2a02:26f7:f408:5310::/64
+ufw allow from 2a02:26f7:f408:5315::/64
+ufw allow from 2a02:26f7:f409:4000::/64
+ufw allow from 2a02:26f7:f40c::/54
+ufw allow from 2a02:26f7:f40c:400::/56
+ufw allow from 2a02:26f7:f40c:580::/60
+ufw allow from 2a02:26f7:f40c:4000::/64
+ufw allow from 2a02:26f7:f40c:5300::/64
+ufw allow from 2a02:26f7:f40c:5304::/64
+ufw allow from 2a02:26f7:f40c:530e::/64
+ufw allow from 2a02:26f7:f40c:5310::/64
+ufw allow from 2a02:26f7:f40c:5315::/64
+ufw allow from 2a02:26f7:f40d:4000::/64
 ufw allow from 104.28.28.85/32
 ufw allow from 104.28.28.86/32
 ufw allow from 104.28.29.65/32

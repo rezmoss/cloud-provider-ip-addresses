@@ -825,6 +825,7 @@ ip_address,ip_type,service,region
 15.184.0.0/16,IPv4,EC2,me-south-1
 15.220.56.0/21,IPv4,EC2,ap-northeast-1
 16.15.54.0/23,IPv4,EC2,ap-northeast-1
+64.73.214.0/24,IPv4,EC2,ap-south-1
 75.2.128.0/18,IPv4,EC2,us-east-1
 184.72.128.0/17,IPv4,EC2,us-east-1
 13.146.0.0/16,IPv4,EC2,ap-southeast-2
@@ -891,6 +892,7 @@ ip_address,ip_type,service,region
 54.25.32.0/19,IPv4,EC2,GLOBAL
 54.208.0.0/15,IPv4,EC2,us-east-1
 54.228.0.0/16,IPv4,EC2,eu-west-1
+64.73.211.0/24,IPv4,EC2,ap-southeast-2
 151.148.35.0/24,IPv4,EC2,eu-central-1
 15.220.146.0/23,IPv4,EC2,me-south-1
 18.96.2.0/24,IPv4,EC2,us-east-1
@@ -957,6 +959,7 @@ ip_address,ip_type,service,region
 5.174.0.0/16,IPv4,EC2,us-west-2
 15.193.148.0/22,IPv4,EC2,eu-south-2
 15.220.204.0/24,IPv4,EC2,us-west-2
+64.73.210.0/24,IPv4,EC2,ap-southeast-2
 3.40.0.0/17,IPv4,EC2,eu-central-1
 15.177.70.0/23,IPv4,EC2,sa-east-1
 15.236.0.0/15,IPv4,EC2,eu-west-3
@@ -1004,6 +1007,7 @@ ip_address,ip_type,service,region
 52.86.0.0/15,IPv4,EC2,us-east-1
 54.25.20.0/24,IPv4,EC2,us-east-1
 57.180.0.0/14,IPv4,EC2,ap-northeast-1
+64.73.212.0/24,IPv4,EC2,ap-southeast-2
 64.252.80.0/24,IPv4,EC2,sa-east-1
 198.41.106.0/24,IPv4,EC2,us-west-2
 15.129.24.0/22,IPv4,EC2,ap-northeast-1
@@ -1077,6 +1081,7 @@ ip_address,ip_type,service,region
 15.181.248.0/24,IPv4,EC2,us-west-2
 18.34.252.0/22,IPv4,EC2,us-east-2
 52.29.0.0/16,IPv4,EC2,eu-central-1
+64.73.216.0/24,IPv4,EC2,ap-south-1
 13.52.0.0/16,IPv4,EC2,us-west-1
 18.180.0.0/15,IPv4,EC2,ap-northeast-1
 35.42.0.0/16,IPv4,EC2,eu-south-2
@@ -1431,6 +1436,7 @@ ip_address,ip_type,service,region
 99.77.55.35/32,IPv4,EC2,eu-south-2
 161.178.0.0/18,IPv4,EC2,us-east-1
 15.220.206.0/24,IPv4,EC2,us-west-2
+64.73.215.0/24,IPv4,EC2,ap-south-1
 184.73.0.0/16,IPv4,EC2,us-east-1
 192.189.197.0/24,IPv4,EC2,us-east-2
 15.160.0.0/16,IPv4,EC2,eu-south-1
@@ -2651,6 +2657,7 @@ ip_address,ip_type,service,region
 2600:1ffd:8188::/48,IPv6,EC2,ca-central-1
 2600:f0f0:721::/48,IPv6,EC2,eu-central-1
 2600:f0f0:110a::/48,IPv6,EC2,ap-southeast-2
+2600:f0f0:6025::/48,IPv6,EC2,me-west-1
 2606:f40:9800::/40,IPv6,EC2,eu-central-1
 2631:0:1::/48,IPv6,EC2,us-west-2
 2a05:d07d:6000::/40,IPv6,EC2,eu-north-1
@@ -2692,6 +2699,7 @@ ip_address,ip_type,service,region
 2600:f0f0:e1a::/48,IPv6,EC2,eu-central-1
 2600:f0f0:5514::/48,IPv6,EC2,us-west-2
 2600:f0f0:551e::/48,IPv6,EC2,us-east-2
+2600:f0f0:6026::/48,IPv6,EC2,sa-west-1
 2606:7b40:1b05::/56,IPv6,EC2,ap-southeast-6
 2406:da38:6000::/40,IPv6,EC2,ap-northeast-3
 2600:1f24:4000::/36,IPv6,EC2,us-east-1
@@ -3126,6 +3134,7 @@ ip_address,ip_type,service,region
 2406:daff:c000::/40,IPv6,EC2,ap-southeast-2
 2600:1f32:8000::/39,IPv6,EC2,us-east-1
 2600:f0f0:78::/45,IPv6,EC2,us-gov-east-1
+2600:f0f0:6027::/48,IPv6,EC2,us-south-1
 2606:7b40:10ff:a270::/60,IPv6,EC2,us-west-2
 2403:b300:ff00::/48,IPv6,EC2,ap-southeast-2
 2406:da32:c000::/40,IPv6,EC2,ap-southeast-2

@@ -100,7 +100,17 @@
     "region": "US-GA"
   },
   {
+    "ip_address": "173.199.108.0/23",
+    "ip_type": "IPv4",
+    "region": "US-GA"
+  },
+  {
     "ip_address": "2001:19f0:5400::/38",
+    "ip_type": "IPv6",
+    "region": "US-GA"
+  },
+  {
+    "ip_address": "2001:19f0:5404::/48",
     "ip_type": "IPv6",
     "region": "US-GA"
   }
