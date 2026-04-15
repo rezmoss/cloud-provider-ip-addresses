@@ -603,6 +603,9 @@ INSERT INTO `azure_southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('20.43.1
 INSERT INTO `azure_southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('20.43.130.224/28', 'IPv4');
 INSERT INTO `azure_southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('20.43.131.0/27', 'IPv4');
 INSERT INTO `azure_southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('20.43.131.64/26', 'IPv4');
+INSERT INTO `azure_southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('20.43.134.160/27', 'IPv4');
+INSERT INTO `azure_southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('20.43.134.192/28', 'IPv4');
+INSERT INTO `azure_southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('20.43.135.0/25', 'IPv4');
 INSERT INTO `azure_southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('20.195.83.48/29', 'IPv4');
 INSERT INTO `azure_southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('20.195.85.16/30', 'IPv4');
 INSERT INTO `azure_southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('20.195.85.32/27', 'IPv4');

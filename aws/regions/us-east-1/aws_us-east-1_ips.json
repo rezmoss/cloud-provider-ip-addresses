@@ -258,6 +258,12 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "16.15.156.0/22",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "150.222.15.124/32",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -397,6 +403,12 @@
   },
   {
     "ip_address": "15.230.204.0/25",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "16.15.172.0/22",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "us-east-1"
@@ -2358,6 +2370,12 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "16.15.164.0/22",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "150.222.237.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -3186,6 +3204,12 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "16.15.168.0/22",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "54.92.128.0/17",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -3403,6 +3427,12 @@
   },
   {
     "ip_address": "15.230.66.0/25",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "35.98.80.0/20",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "us-east-1"
@@ -3901,6 +3931,12 @@
   },
   {
     "ip_address": "54.198.0.0/16",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "16.15.160.0/22",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "us-east-1"
@@ -4914,6 +4950,18 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "16.15.156.0/22",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "16.15.172.0/22",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "18.34.0.0/19",
     "ip_type": "IPv4",
     "service": "S3",
@@ -4938,7 +4986,19 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "16.15.164.0/22",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "18.34.232.0/21",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "16.15.168.0/22",
     "ip_type": "IPv4",
     "service": "S3",
     "region": "us-east-1"
@@ -4951,6 +5011,12 @@
   },
   {
     "ip_address": "16.182.0.0/16",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "16.15.160.0/22",
     "ip_type": "IPv4",
     "service": "S3",
     "region": "us-east-1"
@@ -5220,6 +5286,12 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "16.15.156.0/22",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "155.146.224.0/20",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -5275,6 +5347,12 @@
   },
   {
     "ip_address": "155.146.176.0/20",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "16.15.172.0/22",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "us-east-1"
@@ -6048,6 +6126,12 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "16.15.164.0/22",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "161.178.128.0/18",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -6354,6 +6438,12 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "16.15.168.0/22",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "54.92.128.0/17",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -6631,6 +6721,12 @@
   },
   {
     "ip_address": "54.198.0.0/16",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "16.15.160.0/22",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "us-east-1"
@@ -8929,6 +9025,12 @@
   },
   {
     "ip_address": "2600:1fff:8000::/39",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "2631:0:e00::/39",
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "us-east-1"

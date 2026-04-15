@@ -2538,6 +2538,12 @@
     "region": "australiasoutheast"
   },
   {
+    "ip_address": "20.11.219.128/26",
+    "ip_type": "IPv4",
+    "service": "PowerBI.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  },
+  {
     "ip_address": "20.42.224.122/31",
     "ip_type": "IPv4",
     "service": "PowerBI.AustraliaSoutheast",

@@ -1848,6 +1848,18 @@
     "region": ""
   },
   {
+    "ip_address": "57.165.85.0/25",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex",
+    "region": ""
+  },
+  {
+    "ip_address": "57.165.209.0/25",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex",
+    "region": ""
+  },
+  {
     "ip_address": "68.218.130.168/29",
     "ip_type": "IPv4",
     "service": "PowerPlatformPlex",

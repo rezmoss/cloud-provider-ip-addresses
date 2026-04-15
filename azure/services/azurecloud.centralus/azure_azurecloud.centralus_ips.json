@@ -2394,6 +2394,12 @@
     "region": "centralus"
   },
   {
+    "ip_address": "48.208.83.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.centralus",
+    "region": "centralus"
+  },
+  {
     "ip_address": "48.212.3.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.centralus",

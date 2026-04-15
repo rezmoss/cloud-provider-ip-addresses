@@ -177,8 +177,7 @@ INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('9.160.
 INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.20.52.32/27', 'IPv4');
 INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.20.52.64/26', 'IPv4');
 INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.20.120.0/24', 'IPv4');
-INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.20.121.0/28', 'IPv4');
-INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.20.121.16/30', 'IPv4');
+INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.20.121.0/26', 'IPv4');
 INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.33.113.0/24', 'IPv4');
 INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.38.49.0/24', 'IPv4');
 INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.143.96.0/23', 'IPv4');
@@ -213,7 +212,8 @@ INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1
 INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1026:3000:2c0::/59', 'IPv6');
 INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1027:1:260::/59', 'IPv6');
 INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1016::/57', 'IPv6');
-INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1016:80::/63', 'IPv6');
+INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1016:80::/60', 'IPv6');
+INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1016:90::/61', 'IPv6');
 INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1311:400::/54', 'IPv6');
 INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:173f::/48', 'IPv6');
 INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2010:3f::/64', 'IPv6');

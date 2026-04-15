@@ -4692,6 +4692,12 @@
     "region": "centralus"
   },
   {
+    "ip_address": "57.165.209.0/25",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.CentralUS",
+    "region": "centralus"
+  },
+  {
     "ip_address": "172.212.240.192/27",
     "ip_type": "IPv4",
     "service": "PowerPlatformPlex.CentralUS",
@@ -7273,6 +7279,12 @@
   },
   {
     "ip_address": "48.208.62.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.centralus",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "48.208.83.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.centralus",
     "region": "centralus"

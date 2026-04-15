@@ -398,6 +398,7 @@ ip_address,ip_type,service,region
 48.208.56.0/22,IPv4,AzureCloud.centralus,centralus
 48.208.60.0/23,IPv4,AzureCloud.centralus,centralus
 48.208.62.0/24,IPv4,AzureCloud.centralus,centralus
+48.208.83.0/24,IPv4,AzureCloud.centralus,centralus
 48.212.3.0/24,IPv4,AzureCloud.centralus,centralus
 48.212.131.0/24,IPv4,AzureCloud.centralus,centralus
 48.213.3.0/24,IPv4,AzureCloud.centralus,centralus

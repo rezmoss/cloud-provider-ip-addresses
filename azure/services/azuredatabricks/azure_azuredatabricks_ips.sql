@@ -12,9 +12,7 @@ INSERT INTO `azure_azuredatabricks_ips` (`ip_address`, `ip_type`) VALUES ('4.149
 INSERT INTO `azure_azuredatabricks_ips` (`ip_address`, `ip_type`) VALUES ('4.149.240.248/29', 'IPv4');
 INSERT INTO `azure_azuredatabricks_ips` (`ip_address`, `ip_type`) VALUES ('4.150.168.160/28', 'IPv4');
 INSERT INTO `azure_azuredatabricks_ips` (`ip_address`, `ip_type`) VALUES ('4.150.177.120/29', 'IPv4');
-INSERT INTO `azure_azuredatabricks_ips` (`ip_address`, `ip_type`) VALUES ('4.151.11.48/29', 'IPv4');
 INSERT INTO `azure_azuredatabricks_ips` (`ip_address`, `ip_type`) VALUES ('4.156.7.64/28', 'IPv4');
-INSERT INTO `azure_azuredatabricks_ips` (`ip_address`, `ip_type`) VALUES ('4.158.9.160/28', 'IPv4');
 INSERT INTO `azure_azuredatabricks_ips` (`ip_address`, `ip_type`) VALUES ('4.171.51.160/28', 'IPv4');
 INSERT INTO `azure_azuredatabricks_ips` (`ip_address`, `ip_type`) VALUES ('4.171.51.176/29', 'IPv4');
 INSERT INTO `azure_azuredatabricks_ips` (`ip_address`, `ip_type`) VALUES ('4.178.122.232/29', 'IPv4');
@@ -155,7 +153,6 @@ INSERT INTO `azure_azuredatabricks_ips` (`ip_address`, `ip_type`) VALUES ('20.52
 INSERT INTO `azure_azuredatabricks_ips` (`ip_address`, `ip_type`) VALUES ('20.52.93.40/29', 'IPv4');
 INSERT INTO `azure_azuredatabricks_ips` (`ip_address`, `ip_type`) VALUES ('20.59.51.96/28', 'IPv4');
 INSERT INTO `azure_azuredatabricks_ips` (`ip_address`, `ip_type`) VALUES ('20.65.4.240/28', 'IPv4');
-INSERT INTO `azure_azuredatabricks_ips` (`ip_address`, `ip_type`) VALUES ('20.65.137.224/29', 'IPv4');
 INSERT INTO `azure_azuredatabricks_ips` (`ip_address`, `ip_type`) VALUES ('20.70.34.64/28', 'IPv4');
 INSERT INTO `azure_azuredatabricks_ips` (`ip_address`, `ip_type`) VALUES ('20.72.16.32/29', 'IPv4');
 INSERT INTO `azure_azuredatabricks_ips` (`ip_address`, `ip_type`) VALUES ('20.83.195.184/29', 'IPv4');
@@ -297,7 +294,6 @@ INSERT INTO `azure_azuredatabricks_ips` (`ip_address`, `ip_type`) VALUES ('40.12
 INSERT INTO `azure_azuredatabricks_ips` (`ip_address`, `ip_type`) VALUES ('40.123.219.125/32', 'IPv4');
 INSERT INTO `azure_azuredatabricks_ips` (`ip_address`, `ip_type`) VALUES ('40.123.225.135/32', 'IPv4');
 INSERT INTO `azure_azuredatabricks_ips` (`ip_address`, `ip_type`) VALUES ('40.124.70.8/29', 'IPv4');
-INSERT INTO `azure_azuredatabricks_ips` (`ip_address`, `ip_type`) VALUES ('40.124.140.48/29', 'IPv4');
 INSERT INTO `azure_azuredatabricks_ips` (`ip_address`, `ip_type`) VALUES ('40.127.5.82/32', 'IPv4');
 INSERT INTO `azure_azuredatabricks_ips` (`ip_address`, `ip_type`) VALUES ('40.127.5.124/32', 'IPv4');
 INSERT INTO `azure_azuredatabricks_ips` (`ip_address`, `ip_type`) VALUES ('40.127.8.48/29', 'IPv4');
@@ -378,7 +374,6 @@ INSERT INTO `azure_azuredatabricks_ips` (`ip_address`, `ip_type`) VALUES ('52.17
 INSERT INTO `azure_azuredatabricks_ips` (`ip_address`, `ip_type`) VALUES ('52.180.139.48/29', 'IPv4');
 INSERT INTO `azure_azuredatabricks_ips` (`ip_address`, `ip_type`) VALUES ('52.182.136.200/29', 'IPv4');
 INSERT INTO `azure_azuredatabricks_ips` (`ip_address`, `ip_type`) VALUES ('52.184.83.208/29', 'IPv4');
-INSERT INTO `azure_azuredatabricks_ips` (`ip_address`, `ip_type`) VALUES ('52.185.215.96/28', 'IPv4');
 INSERT INTO `azure_azuredatabricks_ips` (`ip_address`, `ip_type`) VALUES ('52.187.0.85/32', 'IPv4');
 INSERT INTO `azure_azuredatabricks_ips` (`ip_address`, `ip_type`) VALUES ('52.187.3.203/32', 'IPv4');
 INSERT INTO `azure_azuredatabricks_ips` (`ip_address`, `ip_type`) VALUES ('52.187.145.107/32', 'IPv4');

@@ -108,6 +108,12 @@
     "region": "me-west-1"
   },
   {
+    "ip_address": "1.179.101.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "me-west-1"
+  },
+  {
     "ip_address": "35.52.0.0/15",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -157,6 +163,12 @@
   },
   {
     "ip_address": "23.254.16.0/21",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "me-west-1"
+  },
+  {
+    "ip_address": "1.179.101.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "me-west-1"

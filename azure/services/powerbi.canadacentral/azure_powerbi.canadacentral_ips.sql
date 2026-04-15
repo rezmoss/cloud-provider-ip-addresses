@@ -7,6 +7,8 @@ CREATE TABLE IF NOT EXISTS `azure_powerbi.canadacentral_ips` (
 );
 
 INSERT INTO `azure_powerbi.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.206.229.128/27', 'IPv4');
+INSERT INTO `azure_powerbi.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.229.255.144/28', 'IPv4');
+INSERT INTO `azure_powerbi.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.229.255.160/27', 'IPv4');
 INSERT INTO `azure_powerbi.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('20.48.196.232/29', 'IPv4');
 INSERT INTO `azure_powerbi.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('20.48.197.124/30', 'IPv4');
 INSERT INTO `azure_powerbi.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('20.48.202.16/29', 'IPv4');

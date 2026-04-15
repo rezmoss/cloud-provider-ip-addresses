@@ -1,6 +1,6 @@
 #!/bin/bash
 # Aws IP Ranges
-# Updated: 2026-04-12 00:32:50
+# Updated: 2026-04-15 00:35:55
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -27,6 +27,7 @@ ufw allow from 108.175.56.0/22
 ufw allow from 3.5.92.0/23
 ufw allow from 52.219.192.0/23
 ufw allow from 16.12.24.0/21
+ufw allow from 16.15.156.0/22
 ufw allow from 52.95.136.0/23
 ufw allow from 52.219.143.0/24
 ufw allow from 3.5.40.0/22
@@ -39,6 +40,8 @@ ufw allow from 13.248.230.0/24
 ufw allow from 52.95.174.0/24
 ufw allow from 52.95.187.0/24
 ufw allow from 16.12.48.0/21
+ufw allow from 16.15.172.0/22
+ufw allow from 3.5.98.0/23
 ufw allow from 52.219.141.0/24
 ufw allow from 52.219.255.0/24
 ufw allow from 52.95.139.0/24
@@ -78,6 +81,7 @@ ufw allow from 52.219.142.0/24
 ufw allow from 52.219.0.0/20
 ufw allow from 3.5.252.0/22
 ufw allow from 13.248.231.0/24
+ufw allow from 16.15.48.0/23
 ufw allow from 3.5.120.0/22
 ufw allow from 76.223.104.0/24
 ufw allow from 16.12.88.0/21
@@ -147,6 +151,7 @@ ufw allow from 52.219.164.0/22
 ufw allow from 18.34.244.0/22
 ufw allow from 52.95.186.0/24
 ufw allow from 54.222.112.0/20
+ufw allow from 16.15.164.0/22
 ufw allow from 76.223.95.0/24
 ufw allow from 13.248.227.0/24
 ufw allow from 16.15.0.0/21
@@ -157,6 +162,7 @@ ufw allow from 16.12.8.0/24
 ufw allow from 76.223.101.0/24
 ufw allow from 16.15.24.0/22
 ufw allow from 52.219.160.0/23
+ufw allow from 3.5.96.0/23
 ufw allow from 52.219.124.0/22
 ufw allow from 52.219.232.0/22
 ufw allow from 52.95.152.0/23
@@ -196,6 +202,8 @@ ufw allow from 18.34.232.0/21
 ufw allow from 52.219.220.0/23
 ufw allow from 52.92.0.0/17
 ufw allow from 16.15.58.0/23
+ufw allow from 16.15.50.0/23
+ufw allow from 16.15.168.0/22
 ufw allow from 52.95.154.0/23
 ufw allow from 16.12.3.0/24
 ufw allow from 52.219.176.0/22
@@ -235,6 +243,7 @@ ufw allow from 52.219.80.0/20
 ufw allow from 52.219.112.0/21
 ufw allow from 16.15.16.0/22
 ufw allow from 52.219.144.0/22
+ufw allow from 3.5.94.0/23
 ufw allow from 52.95.170.0/23
 ufw allow from 52.219.228.0/22
 ufw allow from 16.12.4.0/23
@@ -246,6 +255,7 @@ ufw allow from 16.15.12.0/22
 ufw allow from 3.5.56.0/22
 ufw allow from 3.5.148.0/22
 ufw allow from 52.219.216.0/23
+ufw allow from 16.15.160.0/22
 ufw allow from 52.219.152.0/22
 ufw allow from 16.12.40.0/23
 ufw allow from 52.219.150.0/23
@@ -263,6 +273,7 @@ ufw allow from 3.5.236.0/22
 ufw allow from 52.92.128.0/17
 ufw allow from 13.248.233.0/24
 ufw allow from 3.5.134.0/23
+ufw allow from 16.15.52.0/23
 ufw allow from 3.5.52.0/22
 ufw allow from 3.5.202.0/23
 ufw allow from 3.5.224.0/22

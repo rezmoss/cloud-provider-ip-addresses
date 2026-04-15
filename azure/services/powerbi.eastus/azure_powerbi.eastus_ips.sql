@@ -16,6 +16,8 @@ INSERT INTO `azure_powerbi.eastus_ips` (`ip_address`, `ip_type`) VALUES ('20.88.
 INSERT INTO `azure_powerbi.eastus_ips` (`ip_address`, `ip_type`) VALUES ('20.88.157.96/27', 'IPv4');
 INSERT INTO `azure_powerbi.eastus_ips` (`ip_address`, `ip_type`) VALUES ('48.194.0.128/26', 'IPv4');
 INSERT INTO `azure_powerbi.eastus_ips` (`ip_address`, `ip_type`) VALUES ('48.223.152.16/28', 'IPv4');
+INSERT INTO `azure_powerbi.eastus_ips` (`ip_address`, `ip_type`) VALUES ('57.162.135.0/25', 'IPv4');
+INSERT INTO `azure_powerbi.eastus_ips` (`ip_address`, `ip_type`) VALUES ('57.162.135.128/28', 'IPv4');
 INSERT INTO `azure_powerbi.eastus_ips` (`ip_address`, `ip_type`) VALUES ('74.179.172.0/26', 'IPv4');
 INSERT INTO `azure_powerbi.eastus_ips` (`ip_address`, `ip_type`) VALUES ('172.172.252.119/32', 'IPv4');
 INSERT INTO `azure_powerbi.eastus_ips` (`ip_address`, `ip_type`) VALUES ('172.172.255.174/31', 'IPv4');

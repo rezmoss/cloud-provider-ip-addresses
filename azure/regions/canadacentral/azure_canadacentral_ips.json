@@ -2868,6 +2868,18 @@
     "region": "canadacentral"
   },
   {
+    "ip_address": "4.229.255.144/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "4.229.255.160/27",
+    "ip_type": "IPv4",
+    "service": "PowerBI.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
     "ip_address": "20.48.196.232/29",
     "ip_type": "IPv4",
     "service": "PowerBI.CanadaCentral",
@@ -3972,13 +3984,7 @@
     "region": "canadacentral"
   },
   {
-    "ip_address": "40.120.186.128/30",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.canadacentral",
-    "region": "canadacentral"
-  },
-  {
-    "ip_address": "40.120.186.132/31",
+    "ip_address": "40.120.186.128/29",
     "ip_type": "IPv4",
     "service": "AzureCloud.canadacentral",
     "region": "canadacentral"
@@ -3997,6 +4003,12 @@
   },
   {
     "ip_address": "48.208.49.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadacentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "48.208.85.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.canadacentral",
     "region": "canadacentral"

@@ -6,5 +6,7 @@ CREATE TABLE IF NOT EXISTS `aws_us-south-1_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `aws_us-south-1_ips` (`ip_address`, `ip_type`) VALUES ('1.179.103.0/24', 'IPv4');
+INSERT INTO `aws_us-south-1_ips` (`ip_address`, `ip_type`) VALUES ('1.179.103.0/24', 'IPv4');
 INSERT INTO `aws_us-south-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f0:6027::/48', 'IPv6');
 INSERT INTO `aws_us-south-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f0:6027::/48', 'IPv6');

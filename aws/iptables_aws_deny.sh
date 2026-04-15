@@ -1,6 +1,6 @@
 #!/bin/bash
 # Aws IP Ranges
-# Updated: 2026-04-14 00:35:16
+# Updated: 2026-04-15 00:35:54
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -296,6 +296,7 @@ iptables -A INPUT -s 13.248.119.0/24 -j DROP
 iptables -A INPUT -s 15.220.120.0/21 -j DROP
 iptables -A INPUT -s 15.230.39.254/31 -j DROP
 iptables -A INPUT -s 15.230.179.16/29 -j DROP
+iptables -A INPUT -s 16.15.156.0/22 -j DROP
 iptables -A INPUT -s 35.34.102.0/24 -j DROP
 iptables -A INPUT -s 35.54.51.0/24 -j DROP
 iptables -A INPUT -s 52.93.81.0/24 -j DROP
@@ -514,6 +515,7 @@ iptables -A INPUT -s 13.36.0.0/14 -j DROP
 iptables -A INPUT -s 15.230.36.0/23 -j DROP
 iptables -A INPUT -s 15.230.39.54/31 -j DROP
 iptables -A INPUT -s 16.12.48.0/21 -j DROP
+iptables -A INPUT -s 16.15.172.0/22 -j DROP
 iptables -A INPUT -s 52.93.91.101/32 -j DROP
 iptables -A INPUT -s 54.25.15.0/24 -j DROP
 iptables -A INPUT -s 70.232.80.0/21 -j DROP
@@ -524,6 +526,7 @@ iptables -A INPUT -s 150.222.121.0/24 -j DROP
 iptables -A INPUT -s 150.222.152.37/32 -j DROP
 iptables -A INPUT -s 150.222.234.34/31 -j DROP
 iptables -A INPUT -s 172.96.98.0/24 -j DROP
+iptables -A INPUT -s 3.5.98.0/23 -j DROP
 iptables -A INPUT -s 15.177.94.0/24 -j DROP
 iptables -A INPUT -s 15.230.123.0/24 -j DROP
 iptables -A INPUT -s 35.96.11.0/24 -j DROP
@@ -1276,6 +1279,7 @@ iptables -A INPUT -s 15.230.141.0/24 -j DROP
 iptables -A INPUT -s 15.230.162.0/24 -j DROP
 iptables -A INPUT -s 15.230.168.0/24 -j DROP
 iptables -A INPUT -s 15.230.251.6/32 -j DROP
+iptables -A INPUT -s 16.15.48.0/23 -j DROP
 iptables -A INPUT -s 35.97.129.0/24 -j DROP
 iptables -A INPUT -s 35.160.0.0/13 -j DROP
 iptables -A INPUT -s 52.48.0.0/14 -j DROP
@@ -1754,6 +1758,7 @@ iptables -A INPUT -s 150.222.40.192/26 -j DROP
 iptables -A INPUT -s 151.148.33.0/24 -j DROP
 iptables -A INPUT -s 216.244.2.0/24 -j DROP
 iptables -A INPUT -s 1.178.29.0/24 -j DROP
+iptables -A INPUT -s 1.179.102.0/24 -j DROP
 iptables -A INPUT -s 3.5.164.0/22 -j DROP
 iptables -A INPUT -s 15.221.33.0/24 -j DROP
 iptables -A INPUT -s 15.221.176.0/20 -j DROP
@@ -2655,6 +2660,7 @@ iptables -A INPUT -s 15.230.39.188/31 -j DROP
 iptables -A INPUT -s 15.230.39.236/31 -j DROP
 iptables -A INPUT -s 15.230.54.0/24 -j DROP
 iptables -A INPUT -s 15.230.100.2/32 -j DROP
+iptables -A INPUT -s 16.15.164.0/22 -j DROP
 iptables -A INPUT -s 18.220.0.0/14 -j DROP
 iptables -A INPUT -s 35.50.235.0/24 -j DROP
 iptables -A INPUT -s 52.36.0.0/14 -j DROP
@@ -2871,6 +2877,7 @@ iptables -A INPUT -s 150.222.140.0/24 -j DROP
 iptables -A INPUT -s 150.222.234.32/31 -j DROP
 iptables -A INPUT -s 3.2.74.0/24 -j DROP
 iptables -A INPUT -s 3.4.13.80/28 -j DROP
+iptables -A INPUT -s 3.5.96.0/23 -j DROP
 iptables -A INPUT -s 15.221.164.0/22 -j DROP
 iptables -A INPUT -s 15.230.15.174/31 -j DROP
 iptables -A INPUT -s 15.230.39.218/31 -j DROP
@@ -3695,6 +3702,8 @@ iptables -A INPUT -s 3.248.0.0/13 -j DROP
 iptables -A INPUT -s 15.221.132.0/22 -j DROP
 iptables -A INPUT -s 15.230.39.180/31 -j DROP
 iptables -A INPUT -s 15.230.216.6/31 -j DROP
+iptables -A INPUT -s 16.15.50.0/23 -j DROP
+iptables -A INPUT -s 16.15.168.0/22 -j DROP
 iptables -A INPUT -s 35.98.32.0/20 -j DROP
 iptables -A INPUT -s 52.93.92.0/24 -j DROP
 iptables -A INPUT -s 54.92.128.0/17 -j DROP
@@ -3934,6 +3943,7 @@ iptables -A INPUT -s 15.230.39.234/31 -j DROP
 iptables -A INPUT -s 15.230.66.0/25 -j DROP
 iptables -A INPUT -s 16.23.0.0/16 -j DROP
 iptables -A INPUT -s 35.50.144.0/24 -j DROP
+iptables -A INPUT -s 35.98.80.0/20 -j DROP
 iptables -A INPUT -s 35.111.253.0/24 -j DROP
 iptables -A INPUT -s 40.164.0.0/16 -j DROP
 iptables -A INPUT -s 52.93.126.130/32 -j DROP
@@ -4336,6 +4346,7 @@ iptables -A INPUT -s 150.222.152.66/32 -j DROP
 iptables -A INPUT -s 205.251.192.0/21 -j DROP
 iptables -A INPUT -s 3.4.12.45/32 -j DROP
 iptables -A INPUT -s 3.4.13.0/28 -j DROP
+iptables -A INPUT -s 3.5.94.0/23 -j DROP
 iptables -A INPUT -s 3.80.0.0/12 -j DROP
 iptables -A INPUT -s 3.101.0.0/16 -j DROP
 iptables -A INPUT -s 15.230.15.218/31 -j DROP
@@ -4514,6 +4525,7 @@ iptables -A INPUT -s 150.222.52.128/27 -j DROP
 iptables -A INPUT -s 15.164.0.0/15 -j DROP
 iptables -A INPUT -s 15.230.150.0/23 -j DROP
 iptables -A INPUT -s 15.251.0.1/32 -j DROP
+iptables -A INPUT -s 16.15.160.0/22 -j DROP
 iptables -A INPUT -s 16.66.0.0/16 -j DROP
 iptables -A INPUT -s 18.89.0.0/18 -j DROP
 iptables -A INPUT -s 52.46.96.0/19 -j DROP
@@ -4560,6 +4572,7 @@ iptables -A INPUT -s 52.93.127.123/32 -j DROP
 iptables -A INPUT -s 108.166.244.55/32 -j DROP
 iptables -A INPUT -s 150.222.210.0/24 -j DROP
 iptables -A INPUT -s 150.222.234.60/31 -j DROP
+iptables -A INPUT -s 1.179.103.0/24 -j DROP
 iptables -A INPUT -s 13.184.0.0/13 -j DROP
 iptables -A INPUT -s 15.177.0.0/18 -j DROP
 iptables -A INPUT -s 15.181.244.0/24 -j DROP
@@ -5086,6 +5099,7 @@ iptables -A INPUT -s 150.222.24.68/32 -j DROP
 iptables -A INPUT -s 151.148.16.5/32 -j DROP
 iptables -A INPUT -s 161.193.128.0/18 -j DROP
 iptables -A INPUT -s 173.83.192.0/22 -j DROP
+iptables -A INPUT -s 1.179.101.0/24 -j DROP
 iptables -A INPUT -s 15.178.0.0/16 -j DROP
 iptables -A INPUT -s 15.230.4.131/32 -j DROP
 iptables -A INPUT -s 40.166.0.0/16 -j DROP
@@ -5214,6 +5228,7 @@ iptables -A INPUT -s 13.228.0.0/15 -j DROP
 iptables -A INPUT -s 15.220.40.0/22 -j DROP
 iptables -A INPUT -s 15.230.15.124/31 -j DROP
 iptables -A INPUT -s 15.230.39.86/31 -j DROP
+iptables -A INPUT -s 16.15.52.0/23 -j DROP
 iptables -A INPUT -s 35.55.36.0/24 -j DROP
 iptables -A INPUT -s 52.93.127.176/32 -j DROP
 iptables -A INPUT -s 52.93.178.221/32 -j DROP
@@ -5882,6 +5897,7 @@ iptables -A INPUT -s 108.175.56.0/22 -j DROP
 iptables -A INPUT -s 3.5.92.0/23 -j DROP
 iptables -A INPUT -s 52.219.192.0/23 -j DROP
 iptables -A INPUT -s 16.12.24.0/21 -j DROP
+iptables -A INPUT -s 16.15.156.0/22 -j DROP
 iptables -A INPUT -s 52.95.136.0/23 -j DROP
 iptables -A INPUT -s 52.219.143.0/24 -j DROP
 iptables -A INPUT -s 3.5.40.0/22 -j DROP
@@ -5894,6 +5910,8 @@ iptables -A INPUT -s 13.248.230.0/24 -j DROP
 iptables -A INPUT -s 52.95.174.0/24 -j DROP
 iptables -A INPUT -s 52.95.187.0/24 -j DROP
 iptables -A INPUT -s 16.12.48.0/21 -j DROP
+iptables -A INPUT -s 16.15.172.0/22 -j DROP
+iptables -A INPUT -s 3.5.98.0/23 -j DROP
 iptables -A INPUT -s 52.219.141.0/24 -j DROP
 iptables -A INPUT -s 52.219.255.0/24 -j DROP
 iptables -A INPUT -s 52.95.139.0/24 -j DROP
@@ -5933,6 +5951,7 @@ iptables -A INPUT -s 52.219.142.0/24 -j DROP
 iptables -A INPUT -s 52.219.0.0/20 -j DROP
 iptables -A INPUT -s 3.5.252.0/22 -j DROP
 iptables -A INPUT -s 13.248.231.0/24 -j DROP
+iptables -A INPUT -s 16.15.48.0/23 -j DROP
 iptables -A INPUT -s 3.5.120.0/22 -j DROP
 iptables -A INPUT -s 76.223.104.0/24 -j DROP
 iptables -A INPUT -s 16.12.88.0/21 -j DROP
@@ -6002,6 +6021,7 @@ iptables -A INPUT -s 52.219.164.0/22 -j DROP
 iptables -A INPUT -s 18.34.244.0/22 -j DROP
 iptables -A INPUT -s 52.95.186.0/24 -j DROP
 iptables -A INPUT -s 54.222.112.0/20 -j DROP
+iptables -A INPUT -s 16.15.164.0/22 -j DROP
 iptables -A INPUT -s 76.223.95.0/24 -j DROP
 iptables -A INPUT -s 13.248.227.0/24 -j DROP
 iptables -A INPUT -s 16.15.0.0/21 -j DROP
@@ -6012,6 +6032,7 @@ iptables -A INPUT -s 16.12.8.0/24 -j DROP
 iptables -A INPUT -s 76.223.101.0/24 -j DROP
 iptables -A INPUT -s 16.15.24.0/22 -j DROP
 iptables -A INPUT -s 52.219.160.0/23 -j DROP
+iptables -A INPUT -s 3.5.96.0/23 -j DROP
 iptables -A INPUT -s 52.219.124.0/22 -j DROP
 iptables -A INPUT -s 52.219.232.0/22 -j DROP
 iptables -A INPUT -s 52.95.152.0/23 -j DROP
@@ -6051,6 +6072,8 @@ iptables -A INPUT -s 18.34.232.0/21 -j DROP
 iptables -A INPUT -s 52.219.220.0/23 -j DROP
 iptables -A INPUT -s 52.92.0.0/17 -j DROP
 iptables -A INPUT -s 16.15.58.0/23 -j DROP
+iptables -A INPUT -s 16.15.50.0/23 -j DROP
+iptables -A INPUT -s 16.15.168.0/22 -j DROP
 iptables -A INPUT -s 52.95.154.0/23 -j DROP
 iptables -A INPUT -s 16.12.3.0/24 -j DROP
 iptables -A INPUT -s 52.219.176.0/22 -j DROP
@@ -6090,6 +6113,7 @@ iptables -A INPUT -s 52.219.80.0/20 -j DROP
 iptables -A INPUT -s 52.219.112.0/21 -j DROP
 iptables -A INPUT -s 16.15.16.0/22 -j DROP
 iptables -A INPUT -s 52.219.144.0/22 -j DROP
+iptables -A INPUT -s 3.5.94.0/23 -j DROP
 iptables -A INPUT -s 52.95.170.0/23 -j DROP
 iptables -A INPUT -s 52.219.228.0/22 -j DROP
 iptables -A INPUT -s 16.12.4.0/23 -j DROP
@@ -6101,6 +6125,7 @@ iptables -A INPUT -s 16.15.12.0/22 -j DROP
 iptables -A INPUT -s 3.5.56.0/22 -j DROP
 iptables -A INPUT -s 3.5.148.0/22 -j DROP
 iptables -A INPUT -s 52.219.216.0/23 -j DROP
+iptables -A INPUT -s 16.15.160.0/22 -j DROP
 iptables -A INPUT -s 52.219.152.0/22 -j DROP
 iptables -A INPUT -s 16.12.40.0/23 -j DROP
 iptables -A INPUT -s 52.219.150.0/23 -j DROP
@@ -6118,6 +6143,7 @@ iptables -A INPUT -s 3.5.236.0/22 -j DROP
 iptables -A INPUT -s 52.92.128.0/17 -j DROP
 iptables -A INPUT -s 13.248.233.0/24 -j DROP
 iptables -A INPUT -s 3.5.134.0/23 -j DROP
+iptables -A INPUT -s 16.15.52.0/23 -j DROP
 iptables -A INPUT -s 3.5.52.0/22 -j DROP
 iptables -A INPUT -s 3.5.202.0/23 -j DROP
 iptables -A INPUT -s 3.5.224.0/22 -j DROP
@@ -6552,6 +6578,7 @@ iptables -A INPUT -s 99.77.244.0/24 -j DROP
 iptables -A INPUT -s 155.146.80.0/20 -j DROP
 iptables -A INPUT -s 5.60.64.0/19 -j DROP
 iptables -A INPUT -s 15.220.120.0/21 -j DROP
+iptables -A INPUT -s 16.15.156.0/22 -j DROP
 iptables -A INPUT -s 35.54.51.0/24 -j DROP
 iptables -A INPUT -s 54.74.0.0/15 -j DROP
 iptables -A INPUT -s 15.220.207.0/24 -j DROP
@@ -6624,7 +6651,9 @@ iptables -A INPUT -s 43.210.0.0/15 -j DROP
 iptables -A INPUT -s 63.32.0.0/14 -j DROP
 iptables -A INPUT -s 64.252.85.0/24 -j DROP
 iptables -A INPUT -s 13.36.0.0/14 -j DROP
+iptables -A INPUT -s 16.15.172.0/22 -j DROP
 iptables -A INPUT -s 54.25.15.0/24 -j DROP
+iptables -A INPUT -s 3.5.98.0/23 -j DROP
 iptables -A INPUT -s 15.177.94.0/24 -j DROP
 iptables -A INPUT -s 35.96.11.0/24 -j DROP
 iptables -A INPUT -s 52.95.255.16/28 -j DROP
@@ -6887,6 +6916,7 @@ iptables -A INPUT -s 18.184.0.0/15 -j DROP
 iptables -A INPUT -s 32.192.0.0/13 -j DROP
 iptables -A INPUT -s 35.55.26.0/24 -j DROP
 iptables -A INPUT -s 40.168.226.0/24 -j DROP
+iptables -A INPUT -s 16.15.48.0/23 -j DROP
 iptables -A INPUT -s 35.160.0.0/13 -j DROP
 iptables -A INPUT -s 52.48.0.0/14 -j DROP
 iptables -A INPUT -s 99.77.137.0/24 -j DROP
@@ -7062,6 +7092,7 @@ iptables -A INPUT -s 142.4.179.0/24 -j DROP
 iptables -A INPUT -s 151.148.33.0/24 -j DROP
 iptables -A INPUT -s 216.244.2.0/24 -j DROP
 iptables -A INPUT -s 1.178.29.0/24 -j DROP
+iptables -A INPUT -s 1.179.102.0/24 -j DROP
 iptables -A INPUT -s 3.5.164.0/22 -j DROP
 iptables -A INPUT -s 16.76.0.0/16 -j DROP
 iptables -A INPUT -s 18.96.96.0/19 -j DROP
@@ -7362,6 +7393,7 @@ iptables -A INPUT -s 52.95.239.0/24 -j DROP
 iptables -A INPUT -s 195.17.0.0/24 -j DROP
 iptables -A INPUT -s 216.198.250.0/23 -j DROP
 iptables -A INPUT -s 3.2.99.0/24 -j DROP
+iptables -A INPUT -s 16.15.164.0/22 -j DROP
 iptables -A INPUT -s 18.220.0.0/14 -j DROP
 iptables -A INPUT -s 35.50.235.0/24 -j DROP
 iptables -A INPUT -s 52.36.0.0/14 -j DROP
@@ -7438,6 +7470,7 @@ iptables -A INPUT -s 70.232.92.0/22 -j DROP
 iptables -A INPUT -s 99.77.55.0/32 -j DROP
 iptables -A INPUT -s 99.77.247.0/24 -j DROP
 iptables -A INPUT -s 3.2.74.0/24 -j DROP
+iptables -A INPUT -s 3.5.96.0/23 -j DROP
 iptables -A INPUT -s 16.61.0.0/16 -j DROP
 iptables -A INPUT -s 64.252.88.0/24 -j DROP
 iptables -A INPUT -s 96.0.110.0/23 -j DROP
@@ -7726,6 +7759,8 @@ iptables -A INPUT -s 18.97.112.0/20 -j DROP
 iptables -A INPUT -s 3.13.0.0/16 -j DROP
 iptables -A INPUT -s 3.43.128.0/18 -j DROP
 iptables -A INPUT -s 3.248.0.0/13 -j DROP
+iptables -A INPUT -s 16.15.50.0/23 -j DROP
+iptables -A INPUT -s 16.15.168.0/22 -j DROP
 iptables -A INPUT -s 54.92.128.0/17 -j DROP
 iptables -A INPUT -s 99.77.133.0/24 -j DROP
 iptables -A INPUT -s 13.210.0.0/15 -j DROP
@@ -7926,6 +7961,7 @@ iptables -A INPUT -s 18.196.0.0/15 -j DROP
 iptables -A INPUT -s 35.96.144.0/20 -j DROP
 iptables -A INPUT -s 54.76.0.0/15 -j DROP
 iptables -A INPUT -s 96.0.96.0/22 -j DROP
+iptables -A INPUT -s 3.5.94.0/23 -j DROP
 iptables -A INPUT -s 3.80.0.0/12 -j DROP
 iptables -A INPUT -s 3.101.0.0/16 -j DROP
 iptables -A INPUT -s 52.40.0.0/14 -j DROP
@@ -7984,6 +8020,7 @@ iptables -A INPUT -s 54.198.0.0/16 -j DROP
 iptables -A INPUT -s 64.252.77.0/24 -j DROP
 iptables -A INPUT -s 99.77.55.56/32 -j DROP
 iptables -A INPUT -s 15.164.0.0/15 -j DROP
+iptables -A INPUT -s 16.15.160.0/22 -j DROP
 iptables -A INPUT -s 18.89.0.0/18 -j DROP
 iptables -A INPUT -s 99.77.55.15/32 -j DROP
 iptables -A INPUT -s 176.34.128.0/17 -j DROP
@@ -7996,6 +8033,7 @@ iptables -A INPUT -s 31.220.247.0/24 -j DROP
 iptables -A INPUT -s 35.96.64.0/20 -j DROP
 iptables -A INPUT -s 35.96.245.0/24 -j DROP
 iptables -A INPUT -s 43.208.0.0/15 -j DROP
+iptables -A INPUT -s 1.179.103.0/24 -j DROP
 iptables -A INPUT -s 15.177.0.0/18 -j DROP
 iptables -A INPUT -s 15.181.244.0/24 -j DROP
 iptables -A INPUT -s 18.194.0.0/15 -j DROP
@@ -8171,6 +8209,7 @@ iptables -A INPUT -s 52.28.0.0/16 -j DROP
 iptables -A INPUT -s 64.73.201.0/24 -j DROP
 iptables -A INPUT -s 161.193.128.0/18 -j DROP
 iptables -A INPUT -s 173.83.192.0/22 -j DROP
+iptables -A INPUT -s 1.179.101.0/24 -j DROP
 iptables -A INPUT -s 83.118.240.0/22 -j DROP
 iptables -A INPUT -s 161.188.64.0/20 -j DROP
 iptables -A INPUT -s 3.0.0.0/15 -j DROP
@@ -8215,6 +8254,7 @@ iptables -A INPUT -s 3.3.2.0/24 -j DROP
 iptables -A INPUT -s 3.5.134.0/23 -j DROP
 iptables -A INPUT -s 13.228.0.0/15 -j DROP
 iptables -A INPUT -s 15.220.40.0/22 -j DROP
+iptables -A INPUT -s 16.15.52.0/23 -j DROP
 iptables -A INPUT -s 35.55.36.0/24 -j DROP
 iptables -A INPUT -s 52.94.248.96/28 -j DROP
 iptables -A INPUT -s 52.196.0.0/14 -j DROP
@@ -10195,6 +10235,7 @@ ip6tables -A INPUT -s 2600:1f00:7400::/40 -j DROP
 ip6tables -A INPUT -s 2600:1ff6:7400::/40 -j DROP
 ip6tables -A INPUT -s 2600:f0f0:1112::/48 -j DROP
 ip6tables -A INPUT -s 2600:f0fb:e100::/40 -j DROP
+ip6tables -A INPUT -s 2606:7b40:1b09:500::/56 -j DROP
 ip6tables -A INPUT -s 2a05:d027::/36 -j DROP
 ip6tables -A INPUT -s 2a05:d05b:5000::/40 -j DROP
 ip6tables -A INPUT -s 2406:daf3:4000::/40 -j DROP
@@ -11455,6 +11496,7 @@ ip6tables -A INPUT -s 2600:f0f0:e00::/48 -j DROP
 ip6tables -A INPUT -s 2606:7b40:1a4c:330::/60 -j DROP
 ip6tables -A INPUT -s 2606:7b40:1b0c::/56 -j DROP
 ip6tables -A INPUT -s 2620:107:4000:4703::/64 -j DROP
+ip6tables -A INPUT -s 2631:0:e00::/39 -j DROP
 ip6tables -A INPUT -s 2a05:d059:4000::/40 -j DROP
 ip6tables -A INPUT -s 2400:7fc0:110::/48 -j DROP
 ip6tables -A INPUT -s 2400:7fc0:4100::/48 -j DROP
@@ -11858,6 +11900,7 @@ ip6tables -A INPUT -s 2600:f0f0:552a::/48 -j DROP
 ip6tables -A INPUT -s 2606:7b40:1000:7210::/60 -j DROP
 ip6tables -A INPUT -s 2606:7b40:1b00:500::/56 -j DROP
 ip6tables -A INPUT -s 2606:7b40:1b0f:f000::/56 -j DROP
+ip6tables -A INPUT -s 2606:7b40:3000::/54 -j DROP
 ip6tables -A INPUT -s 2620:107:3002::/64 -j DROP
 ip6tables -A INPUT -s 2631:0:200::/39 -j DROP
 ip6tables -A INPUT -s 2a05:d059:8000::/40 -j DROP
@@ -11950,6 +11993,7 @@ ip6tables -A INPUT -s 2600:f0f0:f00:200::/56 -j DROP
 ip6tables -A INPUT -s 2600:f0f1:43c0::/42 -j DROP
 ip6tables -A INPUT -s 2606:7b40:1000:2100::/56 -j DROP
 ip6tables -A INPUT -s 2606:7b40:1b07:c000::/56 -j DROP
+ip6tables -A INPUT -s 2606:7b40:1b09:400::/56 -j DROP
 ip6tables -A INPUT -s 2a05:d079:8000::/40 -j DROP
 ip6tables -A INPUT -s 2406:daf3:8000::/40 -j DROP
 ip6tables -A INPUT -s 2406:dafa:c000::/40 -j DROP
@@ -12570,6 +12614,7 @@ ip6tables -A INPUT -s 2600:1f38:c000::/40 -j DROP
 ip6tables -A INPUT -s 2600:1ff8:e000::/40 -j DROP
 ip6tables -A INPUT -s 2600:1ff9:a400::/40 -j DROP
 ip6tables -A INPUT -s 2600:9000:5200::/48 -j DROP
+ip6tables -A INPUT -s 2606:7b40:1b0c:4100::/56 -j DROP
 ip6tables -A INPUT -s 2a05:d072:8000::/40 -j DROP
 ip6tables -A INPUT -s 2406:daf4:800::/40 -j DROP
 ip6tables -A INPUT -s 2600:1ff3:a400::/40 -j DROP
@@ -13429,6 +13474,7 @@ ip6tables -A INPUT -s 2600:1f00:7400::/40 -j DROP
 ip6tables -A INPUT -s 2600:1ff6:7400::/40 -j DROP
 ip6tables -A INPUT -s 2600:f0f0:1112::/48 -j DROP
 ip6tables -A INPUT -s 2600:f0fb:e100::/40 -j DROP
+ip6tables -A INPUT -s 2606:7b40:1b09:500::/56 -j DROP
 ip6tables -A INPUT -s 2a05:d027::/36 -j DROP
 ip6tables -A INPUT -s 2a05:d05b:5000::/40 -j DROP
 ip6tables -A INPUT -s 2406:daf3:4000::/40 -j DROP
@@ -14731,6 +14777,7 @@ ip6tables -A INPUT -s 2600:f0f0:552a::/48 -j DROP
 ip6tables -A INPUT -s 2606:7b40:1000:7210::/60 -j DROP
 ip6tables -A INPUT -s 2606:7b40:1b00:500::/56 -j DROP
 ip6tables -A INPUT -s 2606:7b40:1b0f:f000::/56 -j DROP
+ip6tables -A INPUT -s 2606:7b40:3000::/54 -j DROP
 ip6tables -A INPUT -s 2620:107:3002::/64 -j DROP
 ip6tables -A INPUT -s 2a05:d059:8000::/40 -j DROP
 ip6tables -A INPUT -s 2406:daf4:2000::/40 -j DROP
@@ -14803,6 +14850,7 @@ ip6tables -A INPUT -s 2600:f0f0:f00:200::/56 -j DROP
 ip6tables -A INPUT -s 2600:f0f1:43c0::/42 -j DROP
 ip6tables -A INPUT -s 2606:7b40:1000:2100::/56 -j DROP
 ip6tables -A INPUT -s 2606:7b40:1b07:c000::/56 -j DROP
+ip6tables -A INPUT -s 2606:7b40:1b09:400::/56 -j DROP
 ip6tables -A INPUT -s 2406:daf3:8000::/40 -j DROP
 ip6tables -A INPUT -s 2600:1fba:7400::/40 -j DROP
 ip6tables -A INPUT -s 2600:1ffd:8508::/48 -j DROP
@@ -15291,6 +15339,7 @@ ip6tables -A INPUT -s 2406:daf3:4800::/40 -j DROP
 ip6tables -A INPUT -s 2600:1f1e:c000::/36 -j DROP
 ip6tables -A INPUT -s 2600:1f38:c000::/40 -j DROP
 ip6tables -A INPUT -s 2600:9000:5200::/48 -j DROP
+ip6tables -A INPUT -s 2606:7b40:1b0c:4100::/56 -j DROP
 ip6tables -A INPUT -s 2a05:d072:8000::/40 -j DROP
 ip6tables -A INPUT -s 2406:daf4:800::/40 -j DROP
 ip6tables -A INPUT -s 2600:1ff3:a400::/40 -j DROP

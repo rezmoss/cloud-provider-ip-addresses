@@ -160,6 +160,7 @@ INSERT INTO `azure_azurecloud.germanywc_ips` (`ip_address`, `ip_type`) VALUES ('
 INSERT INTO `azure_azurecloud.germanywc_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2011:29::/64', 'IPv6');
 INSERT INTO `azure_azurecloud.germanywc_ips` (`ip_address`, `ip_type`) VALUES ('2603:1062:c:1a::/63', 'IPv6');
 INSERT INTO `azure_azurecloud.germanywc_ips` (`ip_address`, `ip_type`) VALUES ('2603:1063:28::/56', 'IPv6');
+INSERT INTO `azure_azurecloud.germanywc_ips` (`ip_address`, `ip_type`) VALUES ('2603:1063:13d:1::/64', 'IPv6');
 INSERT INTO `azure_azurecloud.germanywc_ips` (`ip_address`, `ip_type`) VALUES ('2603:1063:22c::/56', 'IPv6');
 INSERT INTO `azure_azurecloud.germanywc_ips` (`ip_address`, `ip_type`) VALUES ('2603:1063:429::/56', 'IPv6');
 INSERT INTO `azure_azurecloud.germanywc_ips` (`ip_address`, `ip_type`) VALUES ('2603:1063:60d::/56', 'IPv6');

@@ -314,6 +314,8 @@ INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('52.
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('57.152.116.184/29', 'IPv4');
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('57.155.34.136/29', 'IPv4');
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('57.165.80.0/25', 'IPv4');
+INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('57.165.85.0/25', 'IPv4');
+INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('57.165.209.0/25', 'IPv4');
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('68.218.130.168/29', 'IPv4');
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('68.218.130.176/28', 'IPv4');
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('68.218.131.0/28', 'IPv4');

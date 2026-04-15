@@ -13,6 +13,8 @@ INSERT INTO `azure_powerbi.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('4
 INSERT INTO `azure_powerbi.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('4.207.242.128/26', 'IPv4');
 INSERT INTO `azure_powerbi.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('4.207.247.176/28', 'IPv4');
 INSERT INTO `azure_powerbi.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('4.208.118.128/26', 'IPv4');
+INSERT INTO `azure_powerbi.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('4.209.3.192/26', 'IPv4');
+INSERT INTO `azure_powerbi.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('4.209.4.0/23', 'IPv4');
 INSERT INTO `azure_powerbi.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('20.38.84.104/31', 'IPv4');
 INSERT INTO `azure_powerbi.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('20.38.84.128/25', 'IPv4');
 INSERT INTO `azure_powerbi.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('20.38.85.0/25', 'IPv4');

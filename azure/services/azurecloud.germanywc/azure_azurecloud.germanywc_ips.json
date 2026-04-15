@@ -924,6 +924,12 @@
     "region": "germanywc"
   },
   {
+    "ip_address": "2603:1063:13d:1::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanywc",
+    "region": "germanywc"
+  },
+  {
     "ip_address": "2603:1063:22c::/56",
     "ip_type": "IPv6",
     "service": "AzureCloud.germanywc",

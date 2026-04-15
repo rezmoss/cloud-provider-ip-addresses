@@ -2754,6 +2754,12 @@
     "region": "swedencentral"
   },
   {
+    "ip_address": "48.208.87.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.swedencentral",
+    "region": "swedencentral"
+  },
+  {
     "ip_address": "48.208.183.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.swedencentral",

@@ -1,5 +1,17 @@
 [
   {
+    "ip_address": "1.179.103.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-south-1"
+  },
+  {
+    "ip_address": "1.179.103.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-south-1"
+  },
+  {
     "ip_address": "2600:f0f0:6027::/48",
     "ip_type": "IPv6",
     "service": "AMAZON",

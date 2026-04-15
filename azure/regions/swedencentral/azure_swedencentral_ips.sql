@@ -465,6 +465,7 @@ INSERT INTO `azure_swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('48.205.
 INSERT INTO `azure_swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('48.205.223.0/24', 'IPv4');
 INSERT INTO `azure_swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('48.205.225.0/24', 'IPv4');
 INSERT INTO `azure_swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('48.208.41.0/24', 'IPv4');
+INSERT INTO `azure_swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('48.208.87.0/24', 'IPv4');
 INSERT INTO `azure_swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('48.208.183.0/24', 'IPv4');
 INSERT INTO `azure_swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('48.208.184.0/22', 'IPv4');
 INSERT INTO `azure_swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('48.208.188.0/24', 'IPv4');

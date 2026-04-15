@@ -3144,19 +3144,7 @@
     "region": "centralindia"
   },
   {
-    "ip_address": "20.20.85.128/29",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.centralindia",
-    "region": "centralindia"
-  },
-  {
-    "ip_address": "20.20.85.136/30",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.centralindia",
-    "region": "centralindia"
-  },
-  {
-    "ip_address": "20.20.85.140/31",
+    "ip_address": "20.20.85.128/28",
     "ip_type": "IPv4",
     "service": "AzureCloud.centralindia",
     "region": "centralindia"

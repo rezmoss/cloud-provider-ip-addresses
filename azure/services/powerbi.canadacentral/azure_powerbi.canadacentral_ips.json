@@ -6,6 +6,18 @@
     "region": "canadacentral"
   },
   {
+    "ip_address": "4.229.255.144/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "4.229.255.160/27",
+    "ip_type": "IPv4",
+    "service": "PowerBI.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
     "ip_address": "20.48.196.232/29",
     "ip_type": "IPv4",
     "service": "PowerBI.CanadaCentral",

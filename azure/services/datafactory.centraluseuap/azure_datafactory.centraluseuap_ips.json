@@ -36,6 +36,12 @@
     "region": "centraluseuap"
   },
   {
+    "ip_address": "168.61.229.72/29",
+    "ip_type": "IPv4",
+    "service": "DataFactory.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
     "ip_address": "172.215.36.224/27",
     "ip_type": "IPv4",
     "service": "DataFactory.CentralUSEUAP",
@@ -55,6 +61,12 @@
   },
   {
     "ip_address": "2603:1030:f:400::b30/124",
+    "ip_type": "IPv6",
+    "service": "DataFactory.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:800::40/126",
     "ip_type": "IPv6",
     "service": "DataFactory.CentralUSEUAP",
     "region": "centraluseuap"
