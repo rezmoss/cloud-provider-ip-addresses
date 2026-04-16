@@ -840,6 +840,12 @@
     "region": "GLOBAL"
   },
   {
+    "ip_address": "23.238.128.0/17",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "GLOBAL"
+  },
+  {
     "ip_address": "120.232.236.0/25",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -2425,6 +2431,12 @@
   },
   {
     "ip_address": "1.178.172.0/23",
+    "ip_type": "IPv4",
+    "service": "GLOBALACCELERATOR",
+    "region": "GLOBAL"
+  },
+  {
+    "ip_address": "23.238.128.0/17",
     "ip_type": "IPv4",
     "service": "GLOBALACCELERATOR",
     "region": "GLOBAL"
