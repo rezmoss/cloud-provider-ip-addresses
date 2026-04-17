@@ -16,7 +16,7 @@
 
 ### Live Stats
 
-> Last updated: **2026-04-16** | Providers: **22** | Total CIDRs: **422,742** | IPv4 addresses: **336,369,697** | IPv4 space: **7.83%**
+> Last updated: **2026-04-17** | Providers: **22** | Total CIDRs: **422,724** | IPv4 addresses: **336,364,033** | IPv4 space: **7.83%**
 
 | Provider | IPv4 CIDRs | IPv6 CIDRs | Total CIDRs | IPv4 Addresses | Services | Regions |
 |----------|-----------|-----------|------------|---------------|----------|--------|
@@ -41,7 +41,7 @@
 | perplexitybot | 12 | 0 | 12 | 32 | 2 | 0 |
 | telegram | 9 | 5 | 14 | 11,008 | 0 | 0 |
 | vultr | 436 | 54 | 490 | 1,019,904 | 0 | 34 |
-| zoom | 75 | 3 | 78 | 547,888 | 3 | 0 |
+| zoom | 57 | 3 | 60 | 542,224 | 3 | 0 |
 
 <!-- STATS_END -->
 

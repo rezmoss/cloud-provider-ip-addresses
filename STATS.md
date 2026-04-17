@@ -1,10 +1,10 @@
 # IP Range Statistics
 
-Generated: 2026-04-16T00:37:35.360906
+Generated: 2026-04-17T00:35:38.233656
 
-Total IPv4 addresses: 336,369,697
+Total IPv4 addresses: 336,364,033
 Total IPv6 addresses: 5,205,454,567,457,284,826,833,167,586,741,709
-IPv4 space coverage: 7.8317%
+IPv4 space coverage: 7.8316%
 
 | Provider | IPv4 CIDRs | IPv6 CIDRs | Total CIDRs | IPv4 Addresses | Services | Regions |
 |----------|-----------|-----------|------------|---------------|----------|--------|
@@ -29,6 +29,6 @@ IPv4 space coverage: 7.8317%
 | perplexitybot | 12 | 0 | 12 | 32 | 2 | 0 |
 | telegram | 9 | 5 | 14 | 11,008 | 0 | 0 |
 | vultr | 436 | 54 | 490 | 1,019,904 | 0 | 34 |
-| zoom | 75 | 3 | 78 | 547,888 | 3 | 0 |
+| zoom | 57 | 3 | 60 | 542,224 | 3 | 0 |
 
 *22 providers tracked*
