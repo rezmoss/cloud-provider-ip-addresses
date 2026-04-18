@@ -18,31 +18,13 @@
     "region": ""
   },
   {
-    "ip_address": "13.64.32.141/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch",
-    "region": ""
-  },
-  {
     "ip_address": "13.83.22.45/32",
     "ip_type": "IPv4",
     "service": "AzureCognitiveSearch",
     "region": ""
   },
   {
-    "ip_address": "13.83.22.74/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch",
-    "region": ""
-  },
-  {
     "ip_address": "13.83.22.119/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch",
-    "region": ""
-  },
-  {
-    "ip_address": "13.86.5.51/32",
     "ip_type": "IPv4",
     "service": "AzureCognitiveSearch",
     "region": ""
@@ -126,19 +108,7 @@
     "region": ""
   },
   {
-    "ip_address": "20.40.123.39/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch",
-    "region": ""
-  },
-  {
     "ip_address": "20.40.123.46/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch",
-    "region": ""
-  },
-  {
-    "ip_address": "20.40.123.72/32",
     "ip_type": "IPv4",
     "service": "AzureCognitiveSearch",
     "region": ""
@@ -163,36 +133,6 @@
   },
   {
     "ip_address": "20.42.4.128/26",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch",
-    "region": ""
-  },
-  {
-    "ip_address": "20.42.24.90/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch",
-    "region": ""
-  },
-  {
-    "ip_address": "20.42.29.212/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch",
-    "region": ""
-  },
-  {
-    "ip_address": "20.42.30.105/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch",
-    "region": ""
-  },
-  {
-    "ip_address": "20.42.34.190/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch",
-    "region": ""
-  },
-  {
-    "ip_address": "20.42.35.204/32",
     "ip_type": "IPv4",
     "service": "AzureCognitiveSearch",
     "region": ""
@@ -228,37 +168,7 @@
     "region": ""
   },
   {
-    "ip_address": "20.44.74.182/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch",
-    "region": ""
-  },
-  {
-    "ip_address": "20.44.76.53/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch",
-    "region": ""
-  },
-  {
     "ip_address": "20.44.76.61/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch",
-    "region": ""
-  },
-  {
-    "ip_address": "20.44.76.86/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch",
-    "region": ""
-  },
-  {
-    "ip_address": "20.45.0.49/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch",
-    "region": ""
-  },
-  {
-    "ip_address": "20.45.2.122/32",
     "ip_type": "IPv4",
     "service": "AzureCognitiveSearch",
     "region": ""
@@ -294,19 +204,7 @@
     "region": ""
   },
   {
-    "ip_address": "20.185.110.199/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch",
-    "region": ""
-  },
-  {
     "ip_address": "20.189.106.128/26",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch",
-    "region": ""
-  },
-  {
-    "ip_address": "20.189.129.94/32",
     "ip_type": "IPv4",
     "service": "AzureCognitiveSearch",
     "region": ""
@@ -342,18 +240,6 @@
     "region": ""
   },
   {
-    "ip_address": "23.100.238.27/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch",
-    "region": ""
-  },
-  {
-    "ip_address": "23.100.238.34/31",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch",
-    "region": ""
-  },
-  {
     "ip_address": "23.100.238.37/32",
     "ip_type": "IPv4",
     "service": "AzureCognitiveSearch",
@@ -366,37 +252,13 @@
     "region": ""
   },
   {
-    "ip_address": "40.65.173.157/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch",
-    "region": ""
-  },
-  {
-    "ip_address": "40.65.175.212/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch",
-    "region": ""
-  },
-  {
     "ip_address": "40.65.175.228/32",
     "ip_type": "IPv4",
     "service": "AzureCognitiveSearch",
     "region": ""
   },
   {
-    "ip_address": "40.66.56.233/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch",
-    "region": ""
-  },
-  {
     "ip_address": "40.67.48.128/26",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch",
-    "region": ""
-  },
-  {
-    "ip_address": "40.74.18.154/32",
     "ip_type": "IPv4",
     "service": "AzureCognitiveSearch",
     "region": ""
@@ -426,19 +288,7 @@
     "region": ""
   },
   {
-    "ip_address": "40.80.216.231/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch",
-    "region": ""
-  },
-  {
     "ip_address": "40.80.217.38/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch",
-    "region": ""
-  },
-  {
-    "ip_address": "40.80.219.46/32",
     "ip_type": "IPv4",
     "service": "AzureCognitiveSearch",
     "region": ""
@@ -450,79 +300,13 @@
     "region": ""
   },
   {
-    "ip_address": "40.81.9.131/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch",
-    "region": ""
-  },
-  {
-    "ip_address": "40.81.9.203/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch",
-    "region": ""
-  },
-  {
     "ip_address": "40.81.9.209/32",
     "ip_type": "IPv4",
     "service": "AzureCognitiveSearch",
     "region": ""
   },
   {
-    "ip_address": "40.81.9.213/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch",
-    "region": ""
-  },
-  {
     "ip_address": "40.81.9.221/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch",
-    "region": ""
-  },
-  {
-    "ip_address": "40.81.10.36/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch",
-    "region": ""
-  },
-  {
-    "ip_address": "40.81.12.133/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch",
-    "region": ""
-  },
-  {
-    "ip_address": "40.81.15.8/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch",
-    "region": ""
-  },
-  {
-    "ip_address": "40.81.15.39/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch",
-    "region": ""
-  },
-  {
-    "ip_address": "40.81.29.152/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch",
-    "region": ""
-  },
-  {
-    "ip_address": "40.81.188.130/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch",
-    "region": ""
-  },
-  {
-    "ip_address": "40.81.191.58/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch",
-    "region": ""
-  },
-  {
-    "ip_address": "40.81.253.154/32",
     "ip_type": "IPv4",
     "service": "AzureCognitiveSearch",
     "region": ""
@@ -541,36 +325,6 @@
   },
   {
     "ip_address": "40.89.17.64/26",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch",
-    "region": ""
-  },
-  {
-    "ip_address": "40.90.190.180/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch",
-    "region": ""
-  },
-  {
-    "ip_address": "40.90.240.17/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch",
-    "region": ""
-  },
-  {
-    "ip_address": "40.91.93.84/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch",
-    "region": ""
-  },
-  {
-    "ip_address": "40.91.127.116/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch",
-    "region": ""
-  },
-  {
-    "ip_address": "40.91.127.241/32",
     "ip_type": "IPv4",
     "service": "AzureCognitiveSearch",
     "region": ""
@@ -690,25 +444,7 @@
     "region": ""
   },
   {
-    "ip_address": "51.132.43.66/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch",
-    "region": ""
-  },
-  {
     "ip_address": "51.137.161.64/26",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch",
-    "region": ""
-  },
-  {
-    "ip_address": "51.143.104.54/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch",
-    "region": ""
-  },
-  {
-    "ip_address": "51.143.104.90/32",
     "ip_type": "IPv4",
     "service": "AzureCognitiveSearch",
     "region": ""
@@ -721,12 +457,6 @@
   },
   {
     "ip_address": "51.145.124.158/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch",
-    "region": ""
-  },
-  {
-    "ip_address": "51.145.176.249/32",
     "ip_type": "IPv4",
     "service": "AzureCognitiveSearch",
     "region": ""
@@ -786,37 +516,7 @@
     "region": ""
   },
   {
-    "ip_address": "52.137.56.115/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch",
-    "region": ""
-  },
-  {
-    "ip_address": "52.137.60.208/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch",
-    "region": ""
-  },
-  {
-    "ip_address": "52.139.0.47/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch",
-    "region": ""
-  },
-  {
-    "ip_address": "52.139.0.49/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch",
-    "region": ""
-  },
-  {
     "ip_address": "52.140.105.64/26",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch",
-    "region": ""
-  },
-  {
-    "ip_address": "52.140.233.105/32",
     "ip_type": "IPv4",
     "service": "AzureCognitiveSearch",
     "region": ""
@@ -840,37 +540,13 @@
     "region": ""
   },
   {
-    "ip_address": "52.151.235.244/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch",
-    "region": ""
-  },
-  {
     "ip_address": "52.155.216.245/32",
     "ip_type": "IPv4",
     "service": "AzureCognitiveSearch",
     "region": ""
   },
   {
-    "ip_address": "52.155.217.84/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch",
-    "region": ""
-  },
-  {
-    "ip_address": "52.155.221.242/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch",
-    "region": ""
-  },
-  {
     "ip_address": "52.155.221.250/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch",
-    "region": ""
-  },
-  {
-    "ip_address": "52.155.222.35/32",
     "ip_type": "IPv4",
     "service": "AzureCognitiveSearch",
     "region": ""
@@ -894,49 +570,13 @@
     "region": ""
   },
   {
-    "ip_address": "52.158.28.181/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch",
-    "region": ""
-  },
-  {
-    "ip_address": "52.158.30.241/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch",
-    "region": ""
-  },
-  {
-    "ip_address": "52.158.208.11/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch",
-    "region": ""
-  },
-  {
-    "ip_address": "52.184.80.221/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch",
-    "region": ""
-  },
-  {
     "ip_address": "52.185.224.13/32",
     "ip_type": "IPv4",
     "service": "AzureCognitiveSearch",
     "region": ""
   },
   {
-    "ip_address": "52.185.224.38/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch",
-    "region": ""
-  },
-  {
     "ip_address": "52.188.217.235/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch",
-    "region": ""
-  },
-  {
-    "ip_address": "52.188.218.228/32",
     "ip_type": "IPv4",
     "service": "AzureCognitiveSearch",
     "region": ""
@@ -954,19 +594,7 @@
     "region": ""
   },
   {
-    "ip_address": "52.242.214.45/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch",
-    "region": ""
-  },
-  {
     "ip_address": "52.253.133.74/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch",
-    "region": ""
-  },
-  {
-    "ip_address": "52.253.229.120/32",
     "ip_type": "IPv4",
     "service": "AzureCognitiveSearch",
     "region": ""
@@ -1026,12 +654,6 @@
     "region": ""
   },
   {
-    "ip_address": "102.133.128.33/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch",
-    "region": ""
-  },
-  {
     "ip_address": "102.133.217.128/26",
     "ip_type": "IPv4",
     "service": "AzureCognitiveSearch",
@@ -1045,18 +667,6 @@
   },
   {
     "ip_address": "104.45.64.147/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch",
-    "region": ""
-  },
-  {
-    "ip_address": "104.45.64.224/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch",
-    "region": ""
-  },
-  {
-    "ip_address": "104.45.65.30/32",
     "ip_type": "IPv4",
     "service": "AzureCognitiveSearch",
     "region": ""
@@ -1105,12 +715,6 @@
   },
   {
     "ip_address": "191.233.9.0/26",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch",
-    "region": ""
-  },
-  {
-    "ip_address": "191.233.26.156/32",
     "ip_type": "IPv4",
     "service": "AzureCognitiveSearch",
     "region": ""

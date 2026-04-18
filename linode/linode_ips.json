@@ -440,6 +440,16 @@
     "region": "FR-IDF"
   },
   {
+    "ip_address": "2600:3c1c::/32",
+    "ip_type": "IPv6",
+    "region": "US-NV"
+  },
+  {
+    "ip_address": "2600:3c0f:55::/48",
+    "ip_type": "IPv6",
+    "region": "US-NV"
+  },
+  {
     "ip_address": "2600:3c12:d00::/40",
     "ip_type": "IPv6",
     "region": "CO-DC"
@@ -26438,5 +26448,165 @@
     "ip_address": "172.235.125.0/24",
     "ip_type": "IPv4",
     "region": "FR-13"
+  },
+  {
+    "ip_address": "104.66.160.0/24",
+    "ip_type": "IPv4",
+    "region": "US-NV"
+  },
+  {
+    "ip_address": "104.66.161.0/24",
+    "ip_type": "IPv4",
+    "region": "US-NV"
+  },
+  {
+    "ip_address": "104.66.162.0/24",
+    "ip_type": "IPv4",
+    "region": "US-NV"
+  },
+  {
+    "ip_address": "104.66.163.0/24",
+    "ip_type": "IPv4",
+    "region": "US-NV"
+  },
+  {
+    "ip_address": "104.66.164.0/24",
+    "ip_type": "IPv4",
+    "region": "US-NV"
+  },
+  {
+    "ip_address": "104.66.165.0/24",
+    "ip_type": "IPv4",
+    "region": "US-NV"
+  },
+  {
+    "ip_address": "104.66.166.0/24",
+    "ip_type": "IPv4",
+    "region": "US-NV"
+  },
+  {
+    "ip_address": "104.66.167.0/24",
+    "ip_type": "IPv4",
+    "region": "US-NV"
+  },
+  {
+    "ip_address": "104.66.168.0/24",
+    "ip_type": "IPv4",
+    "region": "US-NV"
+  },
+  {
+    "ip_address": "104.66.169.0/24",
+    "ip_type": "IPv4",
+    "region": "US-NV"
+  },
+  {
+    "ip_address": "104.66.170.0/24",
+    "ip_type": "IPv4",
+    "region": "US-NV"
+  },
+  {
+    "ip_address": "104.66.171.0/24",
+    "ip_type": "IPv4",
+    "region": "US-NV"
+  },
+  {
+    "ip_address": "104.66.172.0/24",
+    "ip_type": "IPv4",
+    "region": "US-NV"
+  },
+  {
+    "ip_address": "104.66.173.0/24",
+    "ip_type": "IPv4",
+    "region": "US-NV"
+  },
+  {
+    "ip_address": "104.66.174.0/24",
+    "ip_type": "IPv4",
+    "region": "US-NV"
+  },
+  {
+    "ip_address": "104.66.175.0/24",
+    "ip_type": "IPv4",
+    "region": "US-NV"
+  },
+  {
+    "ip_address": "104.66.176.0/24",
+    "ip_type": "IPv4",
+    "region": "US-NV"
+  },
+  {
+    "ip_address": "104.66.177.0/24",
+    "ip_type": "IPv4",
+    "region": "US-NV"
+  },
+  {
+    "ip_address": "104.66.178.0/24",
+    "ip_type": "IPv4",
+    "region": "US-NV"
+  },
+  {
+    "ip_address": "104.66.179.0/24",
+    "ip_type": "IPv4",
+    "region": "US-NV"
+  },
+  {
+    "ip_address": "104.66.180.0/24",
+    "ip_type": "IPv4",
+    "region": "US-NV"
+  },
+  {
+    "ip_address": "104.66.181.0/24",
+    "ip_type": "IPv4",
+    "region": "US-NV"
+  },
+  {
+    "ip_address": "104.66.182.0/24",
+    "ip_type": "IPv4",
+    "region": "US-NV"
+  },
+  {
+    "ip_address": "104.66.183.0/24",
+    "ip_type": "IPv4",
+    "region": "US-NV"
+  },
+  {
+    "ip_address": "104.66.184.0/24",
+    "ip_type": "IPv4",
+    "region": "US-NV"
+  },
+  {
+    "ip_address": "104.66.185.0/24",
+    "ip_type": "IPv4",
+    "region": "US-NV"
+  },
+  {
+    "ip_address": "104.66.186.0/24",
+    "ip_type": "IPv4",
+    "region": "US-NV"
+  },
+  {
+    "ip_address": "104.66.187.0/24",
+    "ip_type": "IPv4",
+    "region": "US-NV"
+  },
+  {
+    "ip_address": "104.66.188.0/24",
+    "ip_type": "IPv4",
+    "region": "US-NV"
+  },
+  {
+    "ip_address": "104.66.189.0/24",
+    "ip_type": "IPv4",
+    "region": "US-NV"
+  },
+  {
+    "ip_address": "104.66.190.0/24",
+    "ip_type": "IPv4",
+    "region": "US-NV"
+  },
+  {
+    "ip_address": "104.66.191.0/24",
+    "ip_type": "IPv4",
+    "region": "US-NV"
   }
 ]

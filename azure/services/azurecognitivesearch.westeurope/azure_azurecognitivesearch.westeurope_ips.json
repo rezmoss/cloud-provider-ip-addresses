@@ -1,18 +1,6 @@
 [
   {
-    "ip_address": "40.74.18.154/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch.WestEurope",
-    "region": "westeurope"
-  },
-  {
     "ip_address": "40.74.30.0/26",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch.WestEurope",
-    "region": "westeurope"
-  },
-  {
-    "ip_address": "51.145.176.249/32",
     "ip_type": "IPv4",
     "service": "AzureCognitiveSearch.WestEurope",
     "region": "westeurope"
@@ -66,18 +54,6 @@
     "region": "westeurope"
   },
   {
-    "ip_address": "52.137.56.115/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch.WestEurope",
-    "region": "westeurope"
-  },
-  {
-    "ip_address": "52.137.60.208/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch.WestEurope",
-    "region": "westeurope"
-  },
-  {
     "ip_address": "52.157.231.64/32",
     "ip_type": "IPv4",
     "service": "AzureCognitiveSearch.WestEurope",
@@ -91,18 +67,6 @@
   },
   {
     "ip_address": "104.45.64.147/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch.WestEurope",
-    "region": "westeurope"
-  },
-  {
-    "ip_address": "104.45.64.224/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch.WestEurope",
-    "region": "westeurope"
-  },
-  {
-    "ip_address": "104.45.65.30/32",
     "ip_type": "IPv4",
     "service": "AzureCognitiveSearch.WestEurope",
     "region": "westeurope"

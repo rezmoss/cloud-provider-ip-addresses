@@ -1,6 +1,6 @@
 #!/bin/bash
 # Azure IP Ranges
-# Updated: 2026-04-15 00:36:30
+# Updated: 2026-04-18 00:31:24
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -119,6 +119,7 @@ ufw allow from 20.143.32.0/23
 ufw allow from 20.143.39.0/24
 ufw allow from 20.143.50.0/23
 ufw allow from 20.143.80.0/22
+ufw allow from 20.143.194.0/23
 ufw allow from 20.150.8.0/23
 ufw allow from 20.150.37.0/24
 ufw allow from 20.150.42.0/24
@@ -279,7 +280,7 @@ ufw allow from 48.205.143.0/24
 ufw allow from 48.205.145.0/24
 ufw allow from 48.205.147.0/24
 ufw allow from 48.205.250.0/24
-ufw allow from 48.207.0.0/17
+ufw allow from 48.207.0.0/16
 ufw allow from 48.208.72.0/24
 ufw allow from 48.208.216.0/24
 ufw allow from 48.209.0.0/17
@@ -320,14 +321,9 @@ ufw allow from 52.108.110.0/24
 ufw allow from 52.109.88.0/22
 ufw allow from 52.111.243.0/24
 ufw allow from 52.112.14.0/23
-ufw allow from 52.112.17.0/24
-ufw allow from 52.112.18.0/23
 ufw allow from 52.112.22.0/24
-ufw allow from 52.112.83.0/24
-ufw allow from 52.112.97.0/24
 ufw allow from 52.112.98.0/23
 ufw allow from 52.112.102.0/24
-ufw allow from 52.112.110.0/24
 ufw allow from 52.112.124.0/24
 ufw allow from 52.112.144.0/20
 ufw allow from 52.112.197.0/24
@@ -344,7 +340,6 @@ ufw allow from 52.113.69.0/24
 ufw allow from 52.113.83.0/24
 ufw allow from 52.113.85.0/24
 ufw allow from 52.113.86.0/24
-ufw allow from 52.113.130.0/24
 ufw allow from 52.113.144.0/21
 ufw allow from 52.113.199.0/24
 ufw allow from 52.114.53.0/24
@@ -411,10 +406,9 @@ ufw allow from 57.153.0.0/16
 ufw allow from 57.157.12.0/22
 ufw allow from 57.157.56.0/25
 ufw allow from 57.157.56.128/26
-ufw allow from 57.157.56.192/28
-ufw allow from 57.157.56.208/29
-ufw allow from 57.157.56.216/30
-ufw allow from 57.157.56.220/31
+ufw allow from 57.157.56.192/27
+ufw allow from 57.157.56.224/28
+ufw allow from 57.157.56.240/31
 ufw allow from 65.52.128.0/19
 ufw allow from 68.219.160.0/19
 ufw allow from 70.152.36.0/24

@@ -77,9 +77,7 @@ ip_address,ip_type,service,region
 2603:1010:6:1::20/123,IPv6,AzureBotService.AustraliaEast,australiaeast
 20.37.193.192/26,IPv4,AzureCognitiveSearch.AustraliaEast,australiaeast
 20.40.123.36/32,IPv4,AzureCognitiveSearch.AustraliaEast,australiaeast
-20.40.123.39/32,IPv4,AzureCognitiveSearch.AustraliaEast,australiaeast
 20.40.123.46/32,IPv4,AzureCognitiveSearch.AustraliaEast,australiaeast
-20.40.123.72/32,IPv4,AzureCognitiveSearch.AustraliaEast,australiaeast
 2603:1010:6:1::180/121,IPv6,AzureCognitiveSearch.AustraliaEast,australiaeast
 13.70.72.192/28,IPv4,AzureConnectors.AustraliaEast,australiaeast
 13.70.78.224/27,IPv4,AzureConnectors.AustraliaEast,australiaeast
@@ -565,7 +563,7 @@ ip_address,ip_type,service,region
 4.196.0.0/15,IPv4,AzureCloud.australiaeast,australiaeast
 4.198.0.0/19,IPv4,AzureCloud.australiaeast,australiaeast
 4.198.160.0/19,IPv4,AzureCloud.australiaeast,australiaeast
-4.198.192.0/19,IPv4,AzureCloud.australiaeast,australiaeast
+4.198.192.0/18,IPv4,AzureCloud.australiaeast,australiaeast
 4.200.0.0/17,IPv4,AzureCloud.australiaeast,australiaeast
 4.237.0.0/16,IPv4,AzureCloud.australiaeast,australiaeast
 4.254.0.0/17,IPv4,AzureCloud.australiaeast,australiaeast
@@ -676,10 +674,10 @@ ip_address,ip_type,service,region
 40.107.40.0/23,IPv4,AzureCloud.australiaeast,australiaeast
 40.112.37.128/26,IPv4,AzureCloud.australiaeast,australiaeast
 40.120.176.0/23,IPv4,AzureCloud.australiaeast,australiaeast
-40.120.178.0/25,IPv4,AzureCloud.australiaeast,australiaeast
-40.120.178.128/26,IPv4,AzureCloud.australiaeast,australiaeast
-40.120.178.192/28,IPv4,AzureCloud.australiaeast,australiaeast
-40.120.178.208/30,IPv4,AzureCloud.australiaeast,australiaeast
+40.120.178.0/24,IPv4,AzureCloud.australiaeast,australiaeast
+40.120.179.0/28,IPv4,AzureCloud.australiaeast,australiaeast
+40.120.179.16/29,IPv4,AzureCloud.australiaeast,australiaeast
+40.120.179.24/30,IPv4,AzureCloud.australiaeast,australiaeast
 40.126.14.0/25,IPv4,AzureCloud.australiaeast,australiaeast
 40.126.39.0/24,IPv4,AzureCloud.australiaeast,australiaeast
 40.126.224.0/19,IPv4,AzureCloud.australiaeast,australiaeast

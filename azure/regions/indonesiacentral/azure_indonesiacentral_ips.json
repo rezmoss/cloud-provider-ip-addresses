@@ -1392,31 +1392,25 @@
     "region": "indonesiacentral"
   },
   {
-    "ip_address": "20.20.64.0/24",
+    "ip_address": "20.20.64.0/23",
     "ip_type": "IPv4",
     "service": "AzureCloud.indonesiacentral",
     "region": "indonesiacentral"
   },
   {
-    "ip_address": "20.20.65.0/25",
+    "ip_address": "20.20.66.0/26",
     "ip_type": "IPv4",
     "service": "AzureCloud.indonesiacentral",
     "region": "indonesiacentral"
   },
   {
-    "ip_address": "20.20.65.128/27",
+    "ip_address": "20.20.66.64/29",
     "ip_type": "IPv4",
     "service": "AzureCloud.indonesiacentral",
     "region": "indonesiacentral"
   },
   {
-    "ip_address": "20.20.65.160/29",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.indonesiacentral",
-    "region": "indonesiacentral"
-  },
-  {
-    "ip_address": "20.20.65.168/31",
+    "ip_address": "20.20.66.72/30",
     "ip_type": "IPv4",
     "service": "AzureCloud.indonesiacentral",
     "region": "indonesiacentral"
@@ -1722,31 +1716,31 @@
     "region": "indonesiacentral"
   },
   {
-    "ip_address": "2603:1061:1010::/57",
+    "ip_address": "2603:1061:1010::/56",
     "ip_type": "IPv6",
     "service": "AzureCloud.indonesiacentral",
     "region": "indonesiacentral"
   },
   {
-    "ip_address": "2603:1061:1010:80::/58",
+    "ip_address": "2603:1061:1010:100::/60",
     "ip_type": "IPv6",
     "service": "AzureCloud.indonesiacentral",
     "region": "indonesiacentral"
   },
   {
-    "ip_address": "2603:1061:1010:c0::/61",
+    "ip_address": "2603:1061:1010:110::/61",
     "ip_type": "IPv6",
     "service": "AzureCloud.indonesiacentral",
     "region": "indonesiacentral"
   },
   {
-    "ip_address": "2603:1061:1010:c8::/62",
+    "ip_address": "2603:1061:1010:118::/62",
     "ip_type": "IPv6",
     "service": "AzureCloud.indonesiacentral",
     "region": "indonesiacentral"
   },
   {
-    "ip_address": "2603:1061:1010:cc::/64",
+    "ip_address": "2603:1061:1010:11c::/63",
     "ip_type": "IPv6",
     "service": "AzureCloud.indonesiacentral",
     "region": "indonesiacentral"

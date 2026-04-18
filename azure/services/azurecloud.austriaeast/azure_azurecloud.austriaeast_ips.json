@@ -258,30 +258,6 @@
     "region": "austriaeast"
   },
   {
-    "ip_address": "70.152.214.0/24",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.austriaeast",
-    "region": "austriaeast"
-  },
-  {
-    "ip_address": "70.152.216.0/24",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.austriaeast",
-    "region": "austriaeast"
-  },
-  {
-    "ip_address": "70.152.218.0/24",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.austriaeast",
-    "region": "austriaeast"
-  },
-  {
-    "ip_address": "70.152.221.0/24",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.austriaeast",
-    "region": "austriaeast"
-  },
-  {
     "ip_address": "70.152.248.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.austriaeast",

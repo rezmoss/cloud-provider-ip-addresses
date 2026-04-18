@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "4.172.96.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
     "ip_address": "13.71.172.0/26",
     "ip_type": "IPv4",
     "service": "AzureBackup.CanadaCentral",

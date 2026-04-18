@@ -168,7 +168,13 @@
     "region": ""
   },
   {
-    "ip_address": "13.86.56.32/27",
+    "ip_address": "13.80.207.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "13.86.56.48/28",
     "ip_type": "IPv4",
     "service": "AzureEventGrid",
     "region": ""
@@ -1975,6 +1981,12 @@
   },
   {
     "ip_address": "57.155.33.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "57.162.209.128/25",
     "ip_type": "IPv4",
     "service": "AzureEventGrid",
     "region": ""

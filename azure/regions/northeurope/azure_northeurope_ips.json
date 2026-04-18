@@ -822,43 +822,13 @@
     "region": "northeurope"
   },
   {
-    "ip_address": "52.155.217.84/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch.NorthEurope",
-    "region": "northeurope"
-  },
-  {
-    "ip_address": "52.155.221.242/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch.NorthEurope",
-    "region": "northeurope"
-  },
-  {
     "ip_address": "52.155.221.250/32",
     "ip_type": "IPv4",
     "service": "AzureCognitiveSearch.NorthEurope",
     "region": "northeurope"
   },
   {
-    "ip_address": "52.155.222.35/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch.NorthEurope",
-    "region": "northeurope"
-  },
-  {
     "ip_address": "52.155.222.56/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch.NorthEurope",
-    "region": "northeurope"
-  },
-  {
-    "ip_address": "52.158.28.181/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch.NorthEurope",
-    "region": "northeurope"
-  },
-  {
-    "ip_address": "52.158.30.241/32",
     "ip_type": "IPv4",
     "service": "AzureCognitiveSearch.NorthEurope",
     "region": "northeurope"
@@ -8238,7 +8208,37 @@
     "region": "northeurope"
   },
   {
+    "ip_address": "52.112.1.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.northeurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "52.112.6.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.northeurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "52.112.32.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.northeurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "52.112.34.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.northeurope",
+    "region": "northeurope"
+  },
+  {
     "ip_address": "52.112.101.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.northeurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "52.112.118.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.northeurope",
     "region": "northeurope"

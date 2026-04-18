@@ -1,17 +1,5 @@
 [
   {
-    "ip_address": "23.100.238.27/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch.NorthCentralUS",
-    "region": "northcentralus"
-  },
-  {
-    "ip_address": "23.100.238.34/31",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch.NorthCentralUS",
-    "region": "northcentralus"
-  },
-  {
     "ip_address": "23.100.238.37/32",
     "ip_type": "IPv4",
     "service": "AzureCognitiveSearch.NorthCentralUS",

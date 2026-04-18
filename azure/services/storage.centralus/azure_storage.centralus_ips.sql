@@ -96,6 +96,7 @@ INSERT INTO `azure_storage.centralus_ips` (`ip_address`, `ip_type`) VALUES ('57.
 INSERT INTO `azure_storage.centralus_ips` (`ip_address`, `ip_type`) VALUES ('57.150.160.0/23', 'IPv4');
 INSERT INTO `azure_storage.centralus_ips` (`ip_address`, `ip_type`) VALUES ('57.150.192.0/23', 'IPv4');
 INSERT INTO `azure_storage.centralus_ips` (`ip_address`, `ip_type`) VALUES ('57.163.22.0/23', 'IPv4');
+INSERT INTO `azure_storage.centralus_ips` (`ip_address`, `ip_type`) VALUES ('57.163.28.0/23', 'IPv4');
 INSERT INTO `azure_storage.centralus_ips` (`ip_address`, `ip_type`) VALUES ('104.208.0.16/28', 'IPv4');
 INSERT INTO `azure_storage.centralus_ips` (`ip_address`, `ip_type`) VALUES ('104.208.0.48/28', 'IPv4');
 INSERT INTO `azure_storage.centralus_ips` (`ip_address`, `ip_type`) VALUES ('135.130.25.128/25', 'IPv4');

@@ -6,7 +6,7 @@ CREATE TABLE IF NOT EXISTS `azure_azureeventgrid.centralus_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
-INSERT INTO `azure_azureeventgrid.centralus_ips` (`ip_address`, `ip_type`) VALUES ('13.86.56.32/27', 'IPv4');
+INSERT INTO `azure_azureeventgrid.centralus_ips` (`ip_address`, `ip_type`) VALUES ('13.86.56.48/28', 'IPv4');
 INSERT INTO `azure_azureeventgrid.centralus_ips` (`ip_address`, `ip_type`) VALUES ('13.86.56.160/27', 'IPv4');
 INSERT INTO `azure_azureeventgrid.centralus_ips` (`ip_address`, `ip_type`) VALUES ('20.37.157.128/25', 'IPv4');
 INSERT INTO `azure_azureeventgrid.centralus_ips` (`ip_address`, `ip_type`) VALUES ('40.89.240.144/28', 'IPv4');

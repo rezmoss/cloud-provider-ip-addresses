@@ -1,6 +1,6 @@
 #!/bin/bash
 # Linode IP Ranges
-# Updated: 2026-03-22 02:03:14
+# Updated: 2026-04-18 00:31:29
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -95,6 +95,8 @@ ip6tables -A INPUT -s 2600:3c1b::/32 -j ACCEPT
 ip6tables -A INPUT -s 2600:3c0f:52::/48 -j ACCEPT
 ip6tables -A INPUT -s 2600:3c1a::/32 -j ACCEPT
 ip6tables -A INPUT -s 2600:3c0f:53::/48 -j ACCEPT
+ip6tables -A INPUT -s 2600:3c1c::/32 -j ACCEPT
+ip6tables -A INPUT -s 2600:3c0f:55::/48 -j ACCEPT
 ip6tables -A INPUT -s 2600:3c12:d00::/40 -j ACCEPT
 ip6tables -A INPUT -s 2600:3c0f:56::/48 -j ACCEPT
 ip6tables -A INPUT -s 2600:3c12:e00::/40 -j ACCEPT
@@ -5295,3 +5297,35 @@ iptables -A INPUT -s 172.235.122.0/24 -j ACCEPT
 iptables -A INPUT -s 172.235.123.0/24 -j ACCEPT
 iptables -A INPUT -s 172.235.124.0/24 -j ACCEPT
 iptables -A INPUT -s 172.235.125.0/24 -j ACCEPT
+iptables -A INPUT -s 104.66.160.0/24 -j ACCEPT
+iptables -A INPUT -s 104.66.161.0/24 -j ACCEPT
+iptables -A INPUT -s 104.66.162.0/24 -j ACCEPT
+iptables -A INPUT -s 104.66.163.0/24 -j ACCEPT
+iptables -A INPUT -s 104.66.164.0/24 -j ACCEPT
+iptables -A INPUT -s 104.66.165.0/24 -j ACCEPT
+iptables -A INPUT -s 104.66.166.0/24 -j ACCEPT
+iptables -A INPUT -s 104.66.167.0/24 -j ACCEPT
+iptables -A INPUT -s 104.66.168.0/24 -j ACCEPT
+iptables -A INPUT -s 104.66.169.0/24 -j ACCEPT
+iptables -A INPUT -s 104.66.170.0/24 -j ACCEPT
+iptables -A INPUT -s 104.66.171.0/24 -j ACCEPT
+iptables -A INPUT -s 104.66.172.0/24 -j ACCEPT
+iptables -A INPUT -s 104.66.173.0/24 -j ACCEPT
+iptables -A INPUT -s 104.66.174.0/24 -j ACCEPT
+iptables -A INPUT -s 104.66.175.0/24 -j ACCEPT
+iptables -A INPUT -s 104.66.176.0/24 -j ACCEPT
+iptables -A INPUT -s 104.66.177.0/24 -j ACCEPT
+iptables -A INPUT -s 104.66.178.0/24 -j ACCEPT
+iptables -A INPUT -s 104.66.179.0/24 -j ACCEPT
+iptables -A INPUT -s 104.66.180.0/24 -j ACCEPT
+iptables -A INPUT -s 104.66.181.0/24 -j ACCEPT
+iptables -A INPUT -s 104.66.182.0/24 -j ACCEPT
+iptables -A INPUT -s 104.66.183.0/24 -j ACCEPT
+iptables -A INPUT -s 104.66.184.0/24 -j ACCEPT
+iptables -A INPUT -s 104.66.185.0/24 -j ACCEPT
+iptables -A INPUT -s 104.66.186.0/24 -j ACCEPT
+iptables -A INPUT -s 104.66.187.0/24 -j ACCEPT
+iptables -A INPUT -s 104.66.188.0/24 -j ACCEPT
+iptables -A INPUT -s 104.66.189.0/24 -j ACCEPT
+iptables -A INPUT -s 104.66.190.0/24 -j ACCEPT
+iptables -A INPUT -s 104.66.191.0/24 -j ACCEPT

@@ -1,6 +1,6 @@
 #!/bin/bash
 # Azure IP Ranges
-# Updated: 2026-04-09 00:26:23
+# Updated: 2026-04-18 00:31:24
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -43,23 +43,21 @@ ufw deny from 40.82.0.0/22
 ufw deny from 40.83.24.96/27
 ufw deny from 40.87.180.12/31
 ufw deny from 40.87.180.26/31
-ufw deny from 40.87.180.40/31
 ufw deny from 40.87.180.68/30
 ufw deny from 40.87.180.72/31
 ufw deny from 40.87.180.196/30
 ufw deny from 40.87.180.200/31
 ufw deny from 40.87.180.252/30
-ufw deny from 40.87.181.0/30
+ufw deny from 40.87.181.2/31
 ufw deny from 40.87.181.154/31
 ufw deny from 40.87.181.158/31
 ufw deny from 40.87.181.160/31
 ufw deny from 40.87.182.0/30
 ufw deny from 40.87.182.16/29
 ufw deny from 40.87.182.60/31
-ufw deny from 40.87.183.28/30
+ufw deny from 40.87.183.30/31
 ufw deny from 40.87.183.40/31
 ufw deny from 40.87.183.48/31
-ufw deny from 40.87.183.52/31
 ufw deny from 40.87.183.128/28
 ufw deny from 40.87.183.238/31
 ufw deny from 40.87.183.240/30
@@ -77,7 +75,6 @@ ufw deny from 40.120.164.28/30
 ufw deny from 40.120.164.32/30
 ufw deny from 40.120.164.58/31
 ufw deny from 40.120.164.60/30
-ufw deny from 40.120.164.64/31
 ufw deny from 40.120.164.78/31
 ufw deny from 40.120.164.96/31
 ufw deny from 40.120.164.116/31
@@ -93,8 +90,8 @@ ufw deny from 40.120.166.66/31
 ufw deny from 40.120.166.228/31
 ufw deny from 40.120.167.76/30
 ufw deny from 40.120.167.80/28
-ufw deny from 40.120.167.96/29
-ufw deny from 40.120.167.104/30
+ufw deny from 40.120.167.96/31
+ufw deny from 40.120.167.106/31
 ufw deny from 40.120.167.148/31
 ufw deny from 40.122.0.0/20
 ufw deny from 40.123.169.4/31
@@ -155,9 +152,9 @@ ufw deny from 57.157.5.124/31
 ufw deny from 57.157.5.200/31
 ufw deny from 57.157.7.32/28
 ufw deny from 57.157.7.48/31
-ufw deny from 57.157.44.176/30
 ufw deny from 57.157.44.190/31
 ufw deny from 57.157.45.16/31
+ufw deny from 57.157.45.36/31
 ufw deny from 57.163.8.0/23
 ufw deny from 104.208.48.0/20
 ufw deny from 134.138.128.0/17
@@ -170,20 +167,19 @@ ufw deny from 172.215.0.0/17
 ufw deny from 2603:1030:8::/48
 ufw deny from 2603:1030:9::/63
 ufw deny from 2603:1030:9:16::/64
-ufw deny from 2603:1030:9:b0::/63
+ufw deny from 2603:1030:9:b1::/64
 ufw deny from 2603:1030:9:b6::/64
 ufw deny from 2603:1030:9:ba::/64
-ufw deny from 2603:1030:9:bc::/64
 ufw deny from 2603:1030:9:101::/64
 ufw deny from 2603:1030:9:102::/63
 ufw deny from 2603:1030:9:110::/64
 ufw deny from 2603:1030:9:117::/64
-ufw deny from 2603:1030:9:11e::/64
 ufw deny from 2603:1030:9:12c::/63
 ufw deny from 2603:1030:9:12e::/64
 ufw deny from 2603:1030:9:16c::/63
 ufw deny from 2603:1030:9:16e::/64
-ufw deny from 2603:1030:9:188::/62
+ufw deny from 2603:1030:9:188::/63
+ufw deny from 2603:1030:9:18b::/64
 ufw deny from 2603:1030:9:1d7::/64
 ufw deny from 2603:1030:9:1d9::/64
 ufw deny from 2603:1030:9:1da::/64
@@ -210,7 +206,6 @@ ufw deny from 2603:1030:9:40e::/64
 ufw deny from 2603:1030:9:41c::/62
 ufw deny from 2603:1030:9:42b::/64
 ufw deny from 2603:1030:9:42c::/63
-ufw deny from 2603:1030:9:42e::/64
 ufw deny from 2603:1030:9:435::/64
 ufw deny from 2603:1030:9:43e::/64
 ufw deny from 2603:1030:9:448::/64
@@ -225,8 +220,10 @@ ufw deny from 2603:1030:9:520::/63
 ufw deny from 2603:1030:9:52f::/64
 ufw deny from 2603:1030:9:580::/64
 ufw deny from 2603:1030:9:5b4::/62
-ufw deny from 2603:1030:9:5b8::/61
-ufw deny from 2603:1030:9:5c0::/62
+ufw deny from 2603:1030:9:5b8::/62
+ufw deny from 2603:1030:9:5bc::/63
+ufw deny from 2603:1030:9:5be::/64
+ufw deny from 2603:1030:9:5c3::/64
 ufw deny from 2603:1030:9:5d8::/64
 ufw deny from 2603:1030:9:67c::/62
 ufw deny from 2603:1030:9:6c6::/63
@@ -239,9 +236,9 @@ ufw deny from 2603:1030:9:7a6::/63
 ufw deny from 2603:1030:9:7a8::/62
 ufw deny from 2603:1030:9:7ac::/63
 ufw deny from 2603:1030:9:7ae::/64
-ufw deny from 2603:1030:9:86e::/63
 ufw deny from 2603:1030:9:875::/64
 ufw deny from 2603:1030:9:89e::/64
+ufw deny from 2603:1030:9:8a8::/64
 ufw deny from 2603:1030:e::/48
 ufw deny from 2603:1030:f::/48
 ufw deny from 2603:1030:12::/48

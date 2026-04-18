@@ -61,7 +61,6 @@ INSERT INTO `azure_centralfrance_ips` (`ip_address`, `ip_type`) VALUES ('20.43.4
 INSERT INTO `azure_centralfrance_ips` (`ip_address`, `ip_type`) VALUES ('40.79.132.56/30', 'IPv4');
 INSERT INTO `azure_centralfrance_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:805:1::20/123', 'IPv6');
 INSERT INTO `azure_centralfrance_ips` (`ip_address`, `ip_type`) VALUES ('20.43.41.64/26', 'IPv4');
-INSERT INTO `azure_centralfrance_ips` (`ip_address`, `ip_type`) VALUES ('40.66.56.233/32', 'IPv4');
 INSERT INTO `azure_centralfrance_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:805:1::180/121', 'IPv6');
 INSERT INTO `azure_centralfrance_ips` (`ip_address`, `ip_type`) VALUES ('20.40.136.192/32', 'IPv4');
 INSERT INTO `azure_centralfrance_ips` (`ip_address`, `ip_type`) VALUES ('20.40.146.5/32', 'IPv4');

@@ -186,7 +186,19 @@
     "region": "usstagee"
   },
   {
-    "ip_address": "40.119.100.32/28",
+    "ip_address": "40.119.100.32/29",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.usstagee",
+    "region": "usstagee"
+  },
+  {
+    "ip_address": "40.119.100.40/30",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.usstagee",
+    "region": "usstagee"
+  },
+  {
+    "ip_address": "40.119.100.46/31",
     "ip_type": "IPv4",
     "service": "AzureCloud.usstagee",
     "region": "usstagee"
@@ -318,7 +330,13 @@
     "region": "usstagee"
   },
   {
-    "ip_address": "2603:1030:100:8::/62",
+    "ip_address": "2603:1030:100:8::/63",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.usstagee",
+    "region": "usstagee"
+  },
+  {
+    "ip_address": "2603:1030:100:b::/64",
     "ip_type": "IPv6",
     "service": "AzureCloud.usstagee",
     "region": "usstagee"

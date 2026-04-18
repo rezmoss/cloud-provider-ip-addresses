@@ -36,7 +36,19 @@
     "region": ""
   },
   {
+    "ip_address": "4.151.11.48/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
     "ip_address": "4.156.7.64/28",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "4.158.9.160/28",
     "ip_type": "IPv4",
     "service": "AzureDatabricks",
     "region": ""
@@ -877,6 +889,12 @@
   },
   {
     "ip_address": "20.65.4.240/28",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "20.65.137.224/29",
     "ip_type": "IPv4",
     "service": "AzureDatabricks",
     "region": ""
@@ -1728,6 +1746,12 @@
     "region": ""
   },
   {
+    "ip_address": "40.124.140.48/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
     "ip_address": "40.127.5.82/32",
     "ip_type": "IPv4",
     "service": "AzureDatabricks",
@@ -2203,6 +2227,12 @@
   },
   {
     "ip_address": "52.184.83.208/29",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "52.185.215.96/28",
     "ip_type": "IPv4",
     "service": "AzureDatabricks",
     "region": ""

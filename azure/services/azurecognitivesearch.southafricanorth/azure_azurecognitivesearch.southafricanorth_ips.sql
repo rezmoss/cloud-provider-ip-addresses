@@ -6,6 +6,5 @@ CREATE TABLE IF NOT EXISTS `azure_azurecognitivesearch.southafricanorth_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
-INSERT INTO `azure_azurecognitivesearch.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('102.133.128.33/32', 'IPv4');
 INSERT INTO `azure_azurecognitivesearch.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('102.133.217.128/26', 'IPv4');
 INSERT INTO `azure_azurecognitivesearch.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1000:104:1::180/121', 'IPv6');

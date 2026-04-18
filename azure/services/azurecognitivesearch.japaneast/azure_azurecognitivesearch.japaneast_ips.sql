@@ -7,5 +7,4 @@ CREATE TABLE IF NOT EXISTS `azure_azurecognitivesearch.japaneast_ips` (
 );
 
 INSERT INTO `azure_azurecognitivesearch.japaneast_ips` (`ip_address`, `ip_type`) VALUES ('20.43.65.64/26', 'IPv4');
-INSERT INTO `azure_azurecognitivesearch.japaneast_ips` (`ip_address`, `ip_type`) VALUES ('52.140.233.105/32', 'IPv4');
 INSERT INTO `azure_azurecognitivesearch.japaneast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:407:1::180/121', 'IPv6');

@@ -1,6 +1,6 @@
 #!/bin/bash
 # Azure IP Ranges
-# Updated: 2026-04-15 00:36:32
+# Updated: 2026-04-18 00:31:27
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -152,18 +152,9 @@ ufw deny from 20.42.0.64/30
 ufw deny from 40.71.12.244/30
 ufw deny from 2603:1030:210:1::20/123
 ufw deny from 20.42.4.128/26
-ufw deny from 20.42.24.90/32
-ufw deny from 20.42.29.212/32
-ufw deny from 20.42.30.105/32
-ufw deny from 20.42.34.190/32
-ufw deny from 20.42.35.204/32
-ufw deny from 20.185.110.199/32
-ufw deny from 40.90.240.17/32
 ufw deny from 52.151.235.150/32
 ufw deny from 52.151.235.242/32
-ufw deny from 52.151.235.244/32
 ufw deny from 52.188.217.235/32
-ufw deny from 52.188.218.228/32
 ufw deny from 52.188.218.239/32
 ufw deny from 2603:1030:210:1::180/121
 ufw deny from 20.62.210.48/32
@@ -265,6 +256,7 @@ ufw deny from 52.170.171.240/28
 ufw deny from 52.186.36.16/28
 ufw deny from 57.152.109.80/28
 ufw deny from 57.152.110.64/26
+ufw deny from 57.162.209.128/25
 ufw deny from 2603:1030:210:1::380/121
 ufw deny from 20.42.68.64/26
 ufw deny from 20.42.74.0/26
@@ -731,6 +723,7 @@ ufw deny from 57.150.154.0/23
 ufw deny from 57.150.222.0/23
 ufw deny from 57.150.244.0/23
 ufw deny from 57.163.16.0/23
+ufw deny from 57.163.26.0/23
 ufw deny from 135.130.12.0/23
 ufw deny from 135.130.36.0/23
 ufw deny from 135.130.64.0/23
@@ -1778,12 +1771,13 @@ ufw deny from 57.151.0.0/17
 ufw deny from 57.152.0.0/17
 ufw deny from 57.154.192.0/18
 ufw deny from 57.157.32.0/23
-ufw deny from 57.157.34.0/25
-ufw deny from 57.157.34.128/26
-ufw deny from 57.157.34.192/27
-ufw deny from 57.157.34.224/30
+ufw deny from 57.157.34.0/24
+ufw deny from 57.157.35.0/28
+ufw deny from 57.157.35.16/30
+ufw deny from 57.157.35.20/31
 ufw deny from 57.162.128.0/17
 ufw deny from 57.163.16.0/23
+ufw deny from 57.163.26.0/23
 ufw deny from 65.54.19.128/27
 ufw deny from 68.220.88.0/21
 ufw deny from 70.152.8.0/24

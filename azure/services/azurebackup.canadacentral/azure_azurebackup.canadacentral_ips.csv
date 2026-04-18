@@ -1,4 +1,5 @@
 ip_address,ip_type,service,region
+4.172.96.192/26,IPv4,AzureBackup.CanadaCentral,canadacentral
 13.71.172.0/26,IPv4,AzureBackup.CanadaCentral,canadacentral
 13.71.172.64/27,IPv4,AzureBackup.CanadaCentral,canadacentral
 20.38.147.0/27,IPv4,AzureBackup.CanadaCentral,canadacentral

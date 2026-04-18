@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "4.216.12.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.JapanEast",
+    "region": "japaneast"
+  },
+  {
     "ip_address": "13.78.108.32/27",
     "ip_type": "IPv4",
     "service": "AzureBackup.JapanEast",

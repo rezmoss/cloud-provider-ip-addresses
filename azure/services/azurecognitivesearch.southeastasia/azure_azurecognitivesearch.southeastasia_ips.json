@@ -6,25 +6,7 @@
     "region": "southeastasia"
   },
   {
-    "ip_address": "40.65.173.157/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch.SoutheastAsia",
-    "region": "southeastasia"
-  },
-  {
-    "ip_address": "40.65.175.212/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch.SoutheastAsia",
-    "region": "southeastasia"
-  },
-  {
     "ip_address": "40.65.175.228/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch.SoutheastAsia",
-    "region": "southeastasia"
-  },
-  {
-    "ip_address": "40.90.190.180/32",
     "ip_type": "IPv4",
     "service": "AzureCognitiveSearch.SoutheastAsia",
     "region": "southeastasia"

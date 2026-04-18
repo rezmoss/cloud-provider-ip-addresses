@@ -1,11 +1,5 @@
 [
   {
-    "ip_address": "102.133.128.33/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch.SouthAfricaNorth",
-    "region": "southafricanorth"
-  },
-  {
     "ip_address": "102.133.217.128/26",
     "ip_type": "IPv4",
     "service": "AzureCognitiveSearch.SouthAfricaNorth",

@@ -1,6 +1,6 @@
 [
   {
-    "ip_address": "13.86.56.32/27",
+    "ip_address": "13.86.56.48/28",
     "ip_type": "IPv4",
     "service": "AzureEventGrid.CentralUS",
     "region": "centralus"

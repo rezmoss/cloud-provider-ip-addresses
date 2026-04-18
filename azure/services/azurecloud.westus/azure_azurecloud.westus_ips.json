@@ -150,19 +150,7 @@
     "region": "westus"
   },
   {
-    "ip_address": "20.20.95.64/28",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.westus",
-    "region": "westus"
-  },
-  {
-    "ip_address": "20.20.95.80/29",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.westus",
-    "region": "westus"
-  },
-  {
-    "ip_address": "20.20.95.88/30",
+    "ip_address": "20.20.95.64/27",
     "ip_type": "IPv4",
     "service": "AzureCloud.westus",
     "region": "westus"

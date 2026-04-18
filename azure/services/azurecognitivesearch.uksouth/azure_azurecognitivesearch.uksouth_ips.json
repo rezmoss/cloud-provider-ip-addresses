@@ -6,12 +6,6 @@
     "region": "uksouth"
   },
   {
-    "ip_address": "51.132.43.66/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch.UKSouth",
-    "region": "uksouth"
-  },
-  {
     "ip_address": "51.145.124.157/32",
     "ip_type": "IPv4",
     "service": "AzureCognitiveSearch.UKSouth",

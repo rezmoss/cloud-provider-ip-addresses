@@ -1,11 +1,5 @@
 [
   {
-    "ip_address": "40.81.253.154/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch.CentralIndia",
-    "region": "centralindia"
-  },
-  {
     "ip_address": "52.140.105.64/26",
     "ip_type": "IPv4",
     "service": "AzureCognitiveSearch.CentralIndia",

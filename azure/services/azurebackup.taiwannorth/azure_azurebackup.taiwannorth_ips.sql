@@ -7,4 +7,5 @@ CREATE TABLE IF NOT EXISTS `azure_azurebackup.taiwannorth_ips` (
 );
 
 INSERT INTO `azure_azurebackup.taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('51.53.28.0/26', 'IPv4');
+INSERT INTO `azure_azurebackup.taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('70.157.168.128/26', 'IPv4');
 INSERT INTO `azure_azurebackup.taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1302::680/121', 'IPv6');

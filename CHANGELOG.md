@@ -2,9 +2,17 @@
 
 Daily IP range changes across all providers.
 
-## 2026-04-17
+## 2026-04-18
 
-### zoom
-- Added: 0 CIDRs
-- Removed: 18 CIDRs
+### azure
+- Added: 160 CIDRs
+- Removed: 199 CIDRs
+
+### linode
+- Added: 34 CIDRs
+- Removed: 0 CIDRs
+
+### github
+- Added: 326 CIDRs
+- Removed: 16 CIDRs
 

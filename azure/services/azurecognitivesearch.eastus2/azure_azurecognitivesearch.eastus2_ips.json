@@ -6,25 +6,7 @@
     "region": "eastus2"
   },
   {
-    "ip_address": "20.44.74.182/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch.EastUS2",
-    "region": "eastus2"
-  },
-  {
-    "ip_address": "20.44.76.53/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch.EastUS2",
-    "region": "eastus2"
-  },
-  {
     "ip_address": "20.44.76.61/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch.EastUS2",
-    "region": "eastus2"
-  },
-  {
-    "ip_address": "20.44.76.86/32",
     "ip_type": "IPv4",
     "service": "AzureCognitiveSearch.EastUS2",
     "region": "eastus2"

@@ -378,12 +378,6 @@
     "region": "centralindia"
   },
   {
-    "ip_address": "40.81.253.154/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch.CentralIndia",
-    "region": "centralindia"
-  },
-  {
     "ip_address": "52.140.105.64/26",
     "ip_type": "IPv4",
     "service": "AzureCognitiveSearch.CentralIndia",
@@ -3144,7 +3138,25 @@
     "region": "centralindia"
   },
   {
-    "ip_address": "20.20.85.128/28",
+    "ip_address": "20.20.85.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.centralindia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "20.20.85.160/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.centralindia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "20.20.85.176/29",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.centralindia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "20.20.85.184/30",
     "ip_type": "IPv4",
     "service": "AzureCloud.centralindia",
     "region": "centralindia"

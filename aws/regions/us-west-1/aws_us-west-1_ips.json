@@ -2922,6 +2922,12 @@
     "region": "us-west-1"
   },
   {
+    "ip_address": "40.164.0.0/16",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-west-1"
+  },
+  {
     "ip_address": "99.77.154.0/24",
     "ip_type": "IPv4",
     "service": "EC2",

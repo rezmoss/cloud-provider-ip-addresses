@@ -46974,6 +46974,12 @@
     "region": "us-gov-east-1"
   },
   {
+    "ip_address": "40.164.0.0/16",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-west-1"
+  },
+  {
     "ip_address": "54.234.0.0/15",
     "ip_type": "IPv4",
     "service": "EC2",

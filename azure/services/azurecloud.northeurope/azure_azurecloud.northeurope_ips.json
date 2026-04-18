@@ -1542,7 +1542,37 @@
     "region": "northeurope"
   },
   {
+    "ip_address": "52.112.1.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.northeurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "52.112.6.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.northeurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "52.112.32.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.northeurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "52.112.34.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.northeurope",
+    "region": "northeurope"
+  },
+  {
     "ip_address": "52.112.101.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.northeurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "52.112.118.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.northeurope",
     "region": "northeurope"

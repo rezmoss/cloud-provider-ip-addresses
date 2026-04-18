@@ -649,6 +649,7 @@ ip_address,ip_type,service,region
 172.198.95.142/31,IPv4,PowerBI,
 172.198.95.152/30,IPv4,PowerBI,
 172.198.96.208/29,IPv4,PowerBI,
+172.198.109.160/27,IPv4,PowerBI,
 172.199.129.128/26,IPv4,PowerBI,
 172.201.237.92/30,IPv4,PowerBI,
 172.204.165.78/31,IPv4,PowerBI,

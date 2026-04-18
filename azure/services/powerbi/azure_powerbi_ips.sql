@@ -656,6 +656,7 @@ INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('172.196.59.23
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('172.198.95.142/31', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('172.198.95.152/30', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('172.198.96.208/29', 'IPv4');
+INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('172.198.109.160/27', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('172.199.129.128/26', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('172.201.237.92/30', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('172.204.165.78/31', 'IPv4');
