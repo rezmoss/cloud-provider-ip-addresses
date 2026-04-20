@@ -1,0 +1,13 @@
+{
+  "date": "2026-04-20",
+  "changes": {
+    "aws": {
+      "added": [
+        "2605:b140:9801::/48"
+      ],
+      "removed": [],
+      "added_count": 1,
+      "removed_count": 0
+    }
+  }
+}
