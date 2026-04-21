@@ -1,6 +1,6 @@
 #!/bin/bash
 # Aws IP Ranges
-# Updated: 2026-04-16 00:36:03
+# Updated: 2026-04-21 00:34:50
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -261,6 +261,7 @@ iptables -A INPUT -s 23.228.198.0/24 -j DROP
 iptables -A INPUT -s 51.0.112.0/21 -j DROP
 iptables -A INPUT -s 23.228.196.0/24 -j DROP
 iptables -A INPUT -s 15.193.32.0/19 -j DROP
+iptables -A INPUT -s 1.178.172.0/23 -j DROP
 iptables -A INPUT -s 40.168.228.0/24 -j DROP
 iptables -A INPUT -s 40.168.230.0/24 -j DROP
 iptables -A INPUT -s 31.220.247.0/24 -j DROP
@@ -412,7 +413,6 @@ iptables -A INPUT -s 75.2.0.0/17 -j DROP
 iptables -A INPUT -s 93.77.128.0/19 -j DROP
 iptables -A INPUT -s 99.77.190.0/24 -j DROP
 iptables -A INPUT -s 15.197.2.0/24 -j DROP
-iptables -A INPUT -s 1.178.172.0/23 -j DROP
 iptables -A INPUT -s 23.238.128.0/17 -j DROP
 iptables -A INPUT -s 99.83.128.0/17 -j DROP
 iptables -A INPUT -s 1.179.60.0/23 -j DROP
@@ -497,6 +497,7 @@ ip6tables -A INPUT -s 2600:9000:aa00::/40 -j DROP
 ip6tables -A INPUT -s 2620:107:3001::/48 -j DROP
 ip6tables -A INPUT -s 2600:9000:f538::/45 -j DROP
 ip6tables -A INPUT -s 2606:7b40:1b40::/44 -j DROP
+ip6tables -A INPUT -s 2600:f0f1:90::/44 -j DROP
 ip6tables -A INPUT -s 2600:9000:5380::/41 -j DROP
 ip6tables -A INPUT -s 2600:f0f0:5504::/46 -j DROP
 ip6tables -A INPUT -s 2600:9000:1000::/36 -j DROP
@@ -547,6 +548,7 @@ ip6tables -A INPUT -s 2600:9000:a311::/48 -j DROP
 ip6tables -A INPUT -s 2600:9000:a210::/48 -j DROP
 ip6tables -A INPUT -s 2600:9000:a105::/48 -j DROP
 ip6tables -A INPUT -s 2605:9cc0:1ff0:8200::/56 -j DROP
+ip6tables -A INPUT -s 2600:f0f1:90::/44 -j DROP
 ip6tables -A INPUT -s 2605:9cc0:1ff0:1000::/52 -j DROP
 ip6tables -A INPUT -s 2605:9cc0:1ff0:4000::/54 -j DROP
 ip6tables -A INPUT -s 2605:9cc0:1ff0:2d00::/56 -j DROP
