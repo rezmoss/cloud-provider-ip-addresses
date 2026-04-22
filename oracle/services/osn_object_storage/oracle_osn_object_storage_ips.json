@@ -18,6 +18,18 @@
     "region": "eu-madrid-1"
   },
   {
+    "ip_address": "134.70.144.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN,OBJECT_STORAGE",
+    "region": "me-abudhabi-1"
+  },
+  {
+    "ip_address": "84.8.200.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN,OBJECT_STORAGE",
+    "region": "af-casablanca-1"
+  },
+  {
     "ip_address": "134.70.96.0/22",
     "ip_type": "IPv4",
     "service": "OSN,OBJECT_STORAGE",
@@ -138,12 +150,6 @@
     "region": "af-johannesburg-1"
   },
   {
-    "ip_address": "84.8.200.0/22",
-    "ip_type": "IPv4",
-    "service": "OSN,OBJECT_STORAGE",
-    "region": "af-casablanca-1"
-  },
-  {
     "ip_address": "134.70.104.0/22",
     "ip_type": "IPv4",
     "service": "OSN,OBJECT_STORAGE",
@@ -208,12 +214,6 @@
     "ip_type": "IPv4",
     "service": "OSN,OBJECT_STORAGE",
     "region": "uk-cardiff-1"
-  },
-  {
-    "ip_address": "134.70.144.0/22",
-    "ip_type": "IPv4",
-    "service": "OSN,OBJECT_STORAGE",
-    "region": "me-abudhabi-1"
   },
   {
     "ip_address": "134.70.132.0/22",

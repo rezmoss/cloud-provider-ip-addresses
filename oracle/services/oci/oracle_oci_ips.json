@@ -42,6 +42,18 @@
     "region": "ca-toronto-1"
   },
   {
+    "ip_address": "147.5.96.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ca-toronto-1"
+  },
+  {
+    "ip_address": "147.15.184.0/21",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ca-toronto-1"
+  },
+  {
     "ip_address": "150.230.24.0/21",
     "ip_type": "IPv4",
     "service": "OCI",
@@ -118,6 +130,36 @@
     "ip_type": "IPv4",
     "service": "OCI",
     "region": "eu-madrid-1"
+  },
+  {
+    "ip_address": "51.170.80.0/20",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "me-abudhabi-1"
+  },
+  {
+    "ip_address": "129.151.128.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "me-abudhabi-1"
+  },
+  {
+    "ip_address": "51.170.128.0/20",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "af-casablanca-1"
+  },
+  {
+    "ip_address": "51.170.152.0/21",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "af-casablanca-1"
+  },
+  {
+    "ip_address": "84.8.216.0/21",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "af-casablanca-1"
   },
   {
     "ip_address": "64.110.64.0/19",
@@ -1662,12 +1704,6 @@
     "region": "af-johannesburg-1"
   },
   {
-    "ip_address": "84.8.216.0/21",
-    "ip_type": "IPv4",
-    "service": "OCI",
-    "region": "af-casablanca-1"
-  },
-  {
     "ip_address": "84.235.160.0/19",
     "ip_type": "IPv4",
     "service": "OCI",
@@ -2148,6 +2184,18 @@
     "region": "sa-santiago-1"
   },
   {
+    "ip_address": "146.181.16.0/20",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "sa-santiago-1"
+  },
+  {
+    "ip_address": "146.181.32.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "sa-santiago-1"
+  },
+  {
     "ip_address": "146.235.240.0/21",
     "ip_type": "IPv4",
     "service": "OCI",
@@ -2572,12 +2620,6 @@
     "ip_type": "IPv4",
     "service": "OCI",
     "region": "uk-cardiff-1"
-  },
-  {
-    "ip_address": "129.151.128.0/19",
-    "ip_type": "IPv4",
-    "service": "OCI",
-    "region": "me-abudhabi-1"
   },
   {
     "ip_address": "129.154.48.0/20",

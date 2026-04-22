@@ -1,4 +1,5 @@
 ip_address,ip_type,service,region
+51.170.80.0/20,IPv4,OCI,me-abudhabi-1
 129.151.128.0/19,IPv4,OCI,me-abudhabi-1
 129.149.48.0/22,IPv4,OSN,me-abudhabi-1
 129.149.52.0/25,IPv4,OSN,me-abudhabi-1

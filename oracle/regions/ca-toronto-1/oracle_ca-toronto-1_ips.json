@@ -24,6 +24,18 @@
     "region": "ca-toronto-1"
   },
   {
+    "ip_address": "147.5.96.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ca-toronto-1"
+  },
+  {
+    "ip_address": "147.15.184.0/21",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ca-toronto-1"
+  },
+  {
     "ip_address": "150.230.24.0/21",
     "ip_type": "IPv4",
     "service": "OCI",
@@ -73,6 +85,12 @@
   },
   {
     "ip_address": "140.204.0.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ca-toronto-1"
+  },
+  {
+    "ip_address": "147.5.28.0/22",
     "ip_type": "IPv4",
     "service": "OSN",
     "region": "ca-toronto-1"

@@ -11,6 +11,8 @@ INSERT INTO `oracle_sa-santiago-1_ips` (`ip_address`, `ip_type`) VALUES ('129.91
 INSERT INTO `oracle_sa-santiago-1_ips` (`ip_address`, `ip_type`) VALUES ('129.151.96.0/19', 'IPv4');
 INSERT INTO `oracle_sa-santiago-1_ips` (`ip_address`, `ip_type`) VALUES ('136.248.240.0/21', 'IPv4');
 INSERT INTO `oracle_sa-santiago-1_ips` (`ip_address`, `ip_type`) VALUES ('144.22.32.0/19', 'IPv4');
+INSERT INTO `oracle_sa-santiago-1_ips` (`ip_address`, `ip_type`) VALUES ('146.181.16.0/20', 'IPv4');
+INSERT INTO `oracle_sa-santiago-1_ips` (`ip_address`, `ip_type`) VALUES ('146.181.32.0/19', 'IPv4');
 INSERT INTO `oracle_sa-santiago-1_ips` (`ip_address`, `ip_type`) VALUES ('146.235.240.0/21', 'IPv4');
 INSERT INTO `oracle_sa-santiago-1_ips` (`ip_address`, `ip_type`) VALUES ('148.116.112.0/22', 'IPv4');
 INSERT INTO `oracle_sa-santiago-1_ips` (`ip_address`, `ip_type`) VALUES ('159.112.128.0/20', 'IPv4');

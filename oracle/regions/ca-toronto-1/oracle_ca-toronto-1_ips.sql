@@ -10,6 +10,8 @@ INSERT INTO `oracle_ca-toronto-1_ips` (`ip_address`, `ip_type`) VALUES ('40.233.
 INSERT INTO `oracle_ca-toronto-1_ips` (`ip_address`, `ip_type`) VALUES ('129.153.48.0/20', 'IPv4');
 INSERT INTO `oracle_ca-toronto-1_ips` (`ip_address`, `ip_type`) VALUES ('132.145.96.0/20', 'IPv4');
 INSERT INTO `oracle_ca-toronto-1_ips` (`ip_address`, `ip_type`) VALUES ('140.238.128.0/19', 'IPv4');
+INSERT INTO `oracle_ca-toronto-1_ips` (`ip_address`, `ip_type`) VALUES ('147.5.96.0/19', 'IPv4');
+INSERT INTO `oracle_ca-toronto-1_ips` (`ip_address`, `ip_type`) VALUES ('147.15.184.0/21', 'IPv4');
 INSERT INTO `oracle_ca-toronto-1_ips` (`ip_address`, `ip_type`) VALUES ('150.230.24.0/21', 'IPv4');
 INSERT INTO `oracle_ca-toronto-1_ips` (`ip_address`, `ip_type`) VALUES ('155.248.216.0/21', 'IPv4');
 INSERT INTO `oracle_ca-toronto-1_ips` (`ip_address`, `ip_type`) VALUES ('161.153.224.0/20', 'IPv4');
@@ -19,6 +21,7 @@ INSERT INTO `oracle_ca-toronto-1_ips` (`ip_address`, `ip_type`) VALUES ('207.135
 INSERT INTO `oracle_ca-toronto-1_ips` (`ip_address`, `ip_type`) VALUES ('134.70.72.0/22', 'IPv4');
 INSERT INTO `oracle_ca-toronto-1_ips` (`ip_address`, `ip_type`) VALUES ('140.91.28.0/23', 'IPv4');
 INSERT INTO `oracle_ca-toronto-1_ips` (`ip_address`, `ip_type`) VALUES ('140.204.0.128/25', 'IPv4');
+INSERT INTO `oracle_ca-toronto-1_ips` (`ip_address`, `ip_type`) VALUES ('147.5.28.0/22', 'IPv4');
 INSERT INTO `oracle_ca-toronto-1_ips` (`ip_address`, `ip_type`) VALUES ('159.112.162.0/23', 'IPv4');
 INSERT INTO `oracle_ca-toronto-1_ips` (`ip_address`, `ip_type`) VALUES ('159.112.168.0/22', 'IPv4');
 INSERT INTO `oracle_ca-toronto-1_ips` (`ip_address`, `ip_type`) VALUES ('161.153.240.0/21', 'IPv4');

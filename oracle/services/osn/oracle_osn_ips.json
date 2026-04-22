@@ -48,6 +48,12 @@
     "region": "ca-toronto-1"
   },
   {
+    "ip_address": "147.5.28.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ca-toronto-1"
+  },
+  {
     "ip_address": "159.112.162.0/23",
     "ip_type": "IPv4",
     "service": "OSN",
@@ -124,6 +130,96 @@
     "ip_type": "IPv4",
     "service": "OSN",
     "region": "eu-madrid-1"
+  },
+  {
+    "ip_address": "129.149.48.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "me-abudhabi-1"
+  },
+  {
+    "ip_address": "129.149.52.0/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "me-abudhabi-1"
+  },
+  {
+    "ip_address": "140.91.64.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "me-abudhabi-1"
+  },
+  {
+    "ip_address": "140.204.80.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "me-abudhabi-1"
+  },
+  {
+    "ip_address": "141.253.216.0/21",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "me-abudhabi-1"
+  },
+  {
+    "ip_address": "145.241.178.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "me-abudhabi-1"
+  },
+  {
+    "ip_address": "207.127.72.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "me-abudhabi-1"
+  },
+  {
+    "ip_address": "84.8.192.0/26",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "af-casablanca-1"
+  },
+  {
+    "ip_address": "84.8.192.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "af-casablanca-1"
+  },
+  {
+    "ip_address": "84.8.193.192/26",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "af-casablanca-1"
+  },
+  {
+    "ip_address": "84.8.194.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "af-casablanca-1"
+  },
+  {
+    "ip_address": "84.8.196.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "af-casablanca-1"
+  },
+  {
+    "ip_address": "84.8.208.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "af-casablanca-1"
+  },
+  {
+    "ip_address": "84.8.210.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "af-casablanca-1"
+  },
+  {
+    "ip_address": "92.4.202.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "af-casablanca-1"
   },
   {
     "ip_address": "140.91.40.0/23",
@@ -1002,54 +1098,6 @@
     "region": "af-johannesburg-1"
   },
   {
-    "ip_address": "84.8.192.0/26",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "af-casablanca-1"
-  },
-  {
-    "ip_address": "84.8.192.128/25",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "af-casablanca-1"
-  },
-  {
-    "ip_address": "84.8.193.192/26",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "af-casablanca-1"
-  },
-  {
-    "ip_address": "84.8.194.0/23",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "af-casablanca-1"
-  },
-  {
-    "ip_address": "84.8.196.0/22",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "af-casablanca-1"
-  },
-  {
-    "ip_address": "84.8.208.0/23",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "af-casablanca-1"
-  },
-  {
-    "ip_address": "84.8.210.128/25",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "af-casablanca-1"
-  },
-  {
-    "ip_address": "92.4.202.0/23",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "af-casablanca-1"
-  },
-  {
     "ip_address": "62.115.179.220/31",
     "ip_type": "IPv4",
     "service": "OSN",
@@ -1738,48 +1786,6 @@
     "ip_type": "IPv4",
     "service": "OSN",
     "region": "uk-cardiff-1"
-  },
-  {
-    "ip_address": "129.149.48.0/22",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "me-abudhabi-1"
-  },
-  {
-    "ip_address": "129.149.52.0/25",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "me-abudhabi-1"
-  },
-  {
-    "ip_address": "140.91.64.0/23",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "me-abudhabi-1"
-  },
-  {
-    "ip_address": "140.204.80.128/25",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "me-abudhabi-1"
-  },
-  {
-    "ip_address": "141.253.216.0/21",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "me-abudhabi-1"
-  },
-  {
-    "ip_address": "145.241.178.0/23",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "me-abudhabi-1"
-  },
-  {
-    "ip_address": "207.127.72.0/22",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "me-abudhabi-1"
   },
   {
     "ip_address": "129.148.144.0/23",

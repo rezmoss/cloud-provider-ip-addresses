@@ -1,5 +1,17 @@
 [
   {
+    "ip_address": "51.170.128.0/20",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "af-casablanca-1"
+  },
+  {
+    "ip_address": "51.170.152.0/21",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "af-casablanca-1"
+  },
+  {
     "ip_address": "84.8.216.0/21",
     "ip_type": "IPv4",
     "service": "OCI",

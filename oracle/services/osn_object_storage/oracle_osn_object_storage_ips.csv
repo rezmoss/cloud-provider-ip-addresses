@@ -2,6 +2,8 @@ ip_address,ip_type,service,region
 134.70.200.0/23,IPv4,"OSN,OBJECT_STORAGE",mx-monterrey-1
 134.70.72.0/22,IPv4,"OSN,OBJECT_STORAGE",ca-toronto-1
 134.70.176.0/22,IPv4,"OSN,OBJECT_STORAGE",eu-madrid-1
+134.70.144.0/22,IPv4,"OSN,OBJECT_STORAGE",me-abudhabi-1
+84.8.200.0/22,IPv4,"OSN,OBJECT_STORAGE",af-casablanca-1
 134.70.96.0/22,IPv4,"OSN,OBJECT_STORAGE",ap-seoul-1
 134.70.112.0/22,IPv4,"OSN,OBJECT_STORAGE",ap-osaka-1
 134.70.84.0/22,IPv4,"OSN,OBJECT_STORAGE",sa-saopaulo-1
@@ -22,7 +24,6 @@ ip_address,ip_type,service,region
 134.70.76.0/22,IPv4,"OSN,OBJECT_STORAGE",ap-mumbai-1
 84.8.72.0/22,IPv4,"OSN,OBJECT_STORAGE",me-riyadh-1
 134.70.160.0/22,IPv4,"OSN,OBJECT_STORAGE",af-johannesburg-1
-84.8.200.0/22,IPv4,"OSN,OBJECT_STORAGE",af-casablanca-1
 134.70.104.0/22,IPv4,"OSN,OBJECT_STORAGE",eu-amsterdam-1
 134.70.148.0/22,IPv4,"OSN,OBJECT_STORAGE",me-dubai-1
 134.70.180.0/22,IPv4,"OSN,OBJECT_STORAGE",eu-paris-1
@@ -34,7 +35,6 @@ ip_address,ip_type,service,region
 134.70.16.0/22,IPv4,"OSN,OBJECT_STORAGE",us-phoenix-1
 134.70.128.0/22,IPv4,"OSN,OBJECT_STORAGE",ap-singapore-1
 134.70.136.0/22,IPv4,"OSN,OBJECT_STORAGE",uk-cardiff-1
-134.70.144.0/22,IPv4,"OSN,OBJECT_STORAGE",me-abudhabi-1
 134.70.132.0/22,IPv4,"OSN,OBJECT_STORAGE",ap-chuncheon-1
 134.70.172.0/22,IPv4,"OSN,OBJECT_STORAGE",il-jerusalem-1
 134.70.108.0/22,IPv4,"OSN,OBJECT_STORAGE",ap-melbourne-1

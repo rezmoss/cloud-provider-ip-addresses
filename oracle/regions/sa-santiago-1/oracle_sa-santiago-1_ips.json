@@ -30,6 +30,18 @@
     "region": "sa-santiago-1"
   },
   {
+    "ip_address": "146.181.16.0/20",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "sa-santiago-1"
+  },
+  {
+    "ip_address": "146.181.32.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "sa-santiago-1"
+  },
+  {
     "ip_address": "146.235.240.0/21",
     "ip_type": "IPv4",
     "service": "OCI",
