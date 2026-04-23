@@ -1,6 +1,6 @@
 #!/bin/bash
 # Aws IP Ranges
-# Updated: 2026-04-14 00:35:17
+# Updated: 2026-04-23 00:37:35
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -30,6 +30,7 @@ iptables -A INPUT -s 3.4.12.19/32 -j DROP
 iptables -A INPUT -s 3.5.208.0/22 -j DROP
 iptables -A INPUT -s 35.50.233.0/24 -j DROP
 iptables -A INPUT -s 35.55.14.0/24 -j DROP
+iptables -A INPUT -s 69.107.12.192/29 -j DROP
 iptables -A INPUT -s 52.93.148.0/26 -j DROP
 iptables -A INPUT -s 13.248.105.0/24 -j DROP
 iptables -A INPUT -s 52.144.228.0/31 -j DROP
@@ -108,6 +109,7 @@ iptables -A INPUT -s 104.255.59.85/32 -j DROP
 iptables -A INPUT -s 16.12.3.0/24 -j DROP
 iptables -A INPUT -s 69.107.11.112/29 -j DROP
 iptables -A INPUT -s 56.246.0.0/16 -j DROP
+iptables -A INPUT -s 45.33.174.0/24 -j DROP
 iptables -A INPUT -s 52.219.156.0/22 -j DROP
 iptables -A INPUT -s 216.244.3.0/24 -j DROP
 iptables -A INPUT -s 52.93.140.0/24 -j DROP
@@ -125,6 +127,7 @@ iptables -A INPUT -s 43.249.46.0/24 -j DROP
 iptables -A INPUT -s 15.230.194.0/24 -j DROP
 iptables -A INPUT -s 52.95.96.0/22 -j DROP
 iptables -A INPUT -s 52.144.223.64/26 -j DROP
+iptables -A INPUT -s 69.107.12.200/29 -j DROP
 iptables -A INPUT -s 150.222.113.0/24 -j DROP
 iptables -A INPUT -s 52.93.127.128/32 -j DROP
 iptables -A INPUT -s 150.222.210.0/24 -j DROP

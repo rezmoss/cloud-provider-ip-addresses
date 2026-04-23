@@ -180,6 +180,11 @@
     "region": "US-IL"
   },
   {
+    "ip_address": "2001:19f0:ffff::/48",
+    "ip_type": "IPv6",
+    "region": "US-IL"
+  },
+  {
     "ip_address": "2001:19f0:5c00::/38",
     "ip_type": "IPv6",
     "region": "US-IL"

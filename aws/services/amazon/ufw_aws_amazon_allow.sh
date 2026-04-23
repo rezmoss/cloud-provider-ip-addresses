@@ -1,6 +1,6 @@
 #!/bin/bash
 # Aws IP Ranges
-# Updated: 2026-04-21 00:34:49
+# Updated: 2026-04-23 00:37:35
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -254,6 +254,7 @@ ufw allow from 15.230.67.64/26
 ufw allow from 15.230.212.0/23
 ufw allow from 16.22.0.0/16
 ufw allow from 35.50.238.0/24
+ufw allow from 45.33.173.0/24
 ufw allow from 52.93.40.0/24
 ufw allow from 52.93.178.136/32
 ufw allow from 52.93.199.89/32
@@ -905,6 +906,7 @@ ufw allow from 35.97.16.0/20
 ufw allow from 35.176.0.0/15
 ufw allow from 52.93.193.195/32
 ufw allow from 54.239.112.0/24
+ufw allow from 69.107.12.192/29
 ufw allow from 70.224.192.0/18
 ufw allow from 99.77.153.0/24
 ufw allow from 150.222.42.128/26
@@ -1858,6 +1860,7 @@ ufw allow from 3.4.12.25/32
 ufw allow from 3.4.13.16/28
 ufw allow from 3.45.64.0/18
 ufw allow from 5.60.96.0/19
+ufw allow from 15.129.48.0/23
 ufw allow from 15.217.0.0/16
 ufw allow from 15.230.39.140/31
 ufw allow from 15.251.0.2/32
@@ -1971,6 +1974,7 @@ ufw allow from 52.93.133.155/32
 ufw allow from 52.94.16.0/24
 ufw allow from 52.144.195.0/26
 ufw allow from 64.252.78.0/24
+ufw allow from 69.107.12.184/29
 ufw allow from 96.0.144.0/21
 ufw allow from 3.4.15.176/29
 ufw allow from 15.177.104.0/24
@@ -3820,6 +3824,7 @@ ufw allow from 35.55.7.0/24
 ufw allow from 35.71.97.0/24
 ufw allow from 35.152.0.0/16
 ufw allow from 40.32.0.0/16
+ufw allow from 45.33.174.0/24
 ufw allow from 51.0.138.0/23
 ufw allow from 52.93.84.166/32
 ufw allow from 52.93.127.119/32
@@ -4453,6 +4458,7 @@ ufw allow from 52.95.96.0/22
 ufw allow from 52.95.145.0/24
 ufw allow from 52.144.223.64/26
 ufw allow from 52.219.21.0/24
+ufw allow from 69.107.12.200/29
 ufw allow from 136.18.33.0/24
 ufw allow from 150.222.219.0/24
 ufw allow from 204.87.185.0/24
@@ -5111,6 +5117,7 @@ ufw allow from 52.94.0.0/22
 ufw allow from 56.47.0.0/16
 ufw allow from 56.185.0.0/16
 ufw allow from 69.107.11.64/29
+ufw allow from 69.107.12.176/29
 ufw allow from 99.77.48.0/21
 ufw allow from 150.222.25.39/32
 ufw allow from 161.188.64.0/20
@@ -6084,6 +6091,7 @@ ufw allow from 2406:da61:800::/40
 ufw allow from 2406:da70:f000::/40
 ufw allow from 2406:daba:b000::/40
 ufw allow from 2406:dafe:e000::/40
+ufw allow from 2600:1f01:4926::/47
 ufw allow from 2600:1feb:6000::/40
 ufw allow from 2600:1fff:1000::/40
 ufw allow from 2600:f0f0:1:ff00::/56
@@ -6643,7 +6651,6 @@ ufw allow from 2600:1f00:ec00::/64
 ufw allow from 2600:1fef:6000::/40
 ufw allow from 2600:f0f0:110e::/48
 ufw allow from 2600:f0f0:5503::/48
-ufw allow from 2600:f0f1:90::/44
 ufw allow from 2600:f0fb:f026::/48
 ufw allow from 2606:7b40:10ff:d290::/60
 ufw allow from 2606:7b40:1b07:4100::/56
@@ -7826,6 +7833,7 @@ ufw allow from 2a05:d05a:8000::/40
 ufw allow from 2a05:d076:a000::/40
 ufw allow from 2a05:d07f:a000::/40
 ufw allow from 2406:da12:8000::/36
+ufw allow from 2600:1fe2:6000::/40
 ufw allow from 2606:f40:a00::/40
 ufw allow from 2606:7b40:1b08::/56
 ufw allow from 2a05:d03a:e000::/40
@@ -8104,6 +8112,7 @@ ufw allow from 2620:107:4000:7200::/56
 ufw allow from 2a05:d06b:5000::/40
 ufw allow from 2406:daf2:c000::/40
 ufw allow from 2406:daf4:4000::/40
+ufw allow from 2600:1fe0:6000::/40
 ufw allow from 2600:1ff0:5000::/40
 ufw allow from 2600:1ffa:2000::/40
 ufw allow from 2600:1ffa:6000::/40

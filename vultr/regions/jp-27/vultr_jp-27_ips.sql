@@ -15,5 +15,4 @@ INSERT INTO `vultr_jp-27_ips` (`ip_address`, `ip_type`) VALUES ('2001:2::/48', '
 INSERT INTO `vultr_jp-27_ips` (`ip_address`, `ip_type`) VALUES ('2001:10::/28', 'IPv6');
 INSERT INTO `vultr_jp-27_ips` (`ip_address`, `ip_type`) VALUES ('2001:db8::/32', 'IPv6');
 INSERT INTO `vultr_jp-27_ips` (`ip_address`, `ip_type`) VALUES ('2002::/16', 'IPv6');
-INSERT INTO `vultr_jp-27_ips` (`ip_address`, `ip_type`) VALUES ('2001:19f0:ffff::/48', 'IPv6');
 INSERT INTO `vultr_jp-27_ips` (`ip_address`, `ip_type`) VALUES ('2401:c080:3800::/38', 'IPv6');

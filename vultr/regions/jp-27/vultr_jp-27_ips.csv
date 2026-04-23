@@ -8,5 +8,4 @@ ip_address,ip_type,region
 2001:10::/28,IPv6,JP-27
 2001:db8::/32,IPv6,JP-27
 2002::/16,IPv6,JP-27
-2001:19f0:ffff::/48,IPv6,JP-27
 2401:c080:3800::/38,IPv6,JP-27

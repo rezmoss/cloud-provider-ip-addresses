@@ -522,6 +522,12 @@
     "region": "us-west-2"
   },
   {
+    "ip_address": "15.129.48.0/23",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-west-2"
+  },
+  {
     "ip_address": "35.54.40.0/22",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -2461,6 +2467,12 @@
   },
   {
     "ip_address": "52.12.0.0/15",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "15.129.48.0/23",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "us-west-2"

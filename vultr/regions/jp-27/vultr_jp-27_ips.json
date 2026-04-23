@@ -45,11 +45,6 @@
     "region": "JP-27"
   },
   {
-    "ip_address": "2001:19f0:ffff::/48",
-    "ip_type": "IPv6",
-    "region": "JP-27"
-  },
-  {
     "ip_address": "2401:c080:3800::/38",
     "ip_type": "IPv6",
     "region": "JP-27"
