@@ -1,4 +1,5 @@
 ip_address,ip_type,service,region
+104.192.138.224/28,IPv4,rovo-crawler,us-west-1
 13.52.5.96/28,IPv4,"bitbucket,confluence,forge,halp,jira,opsgenie,statuspage,trello",us-west-1
 2600:1f1c:cc5:2304::/64,IPv6,"bitbucket,confluence,forge,halp,jira,opsgenie,statuspage,trello",us-west-1
 2600:1f1c:cc5:2305::/64,IPv6,"bitbucket,confluence,forge,halp,jira,opsgenie,statuspage,trello",us-west-1

@@ -390,6 +390,12 @@
     "region": "sa-east-1"
   },
   {
+    "ip_address": "35.98.96.0/20",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "sa-east-1"
+  },
+  {
     "ip_address": "54.94.0.0/16",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -1777,6 +1783,12 @@
   },
   {
     "ip_address": "2600:1f30:e000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "sa-east-1"
+  },
+  {
+    "ip_address": "2631:0:2000::/39",
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "sa-east-1"

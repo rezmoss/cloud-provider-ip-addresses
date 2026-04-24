@@ -22,6 +22,7 @@ ip_address,ip_type,service,region
 185.166.142.224/28,IPv4,rovo-crawler,eu-west-1
 185.166.141.128/28,IPv4,rovo-crawler,eu-west-2
 104.192.142.224/28,IPv4,rovo-crawler,us-east-1
+104.192.138.224/28,IPv4,rovo-crawler,us-west-1
 18.246.31.208/28,IPv4,rovo-crawler,us-west-2
 185.166.140.112/28,IPv4,"confluence,forge,halp,jira,opsgenie,statuspage,trello",ap-northeast-1
 2401:1d80:3200::/64,IPv6,"confluence,forge,halp,jira,opsgenie,statuspage,trello",ap-northeast-1
@@ -80,6 +81,9 @@ ip_address,ip_type,service,region
 18.246.31.224/28,IPv4,"bitbucket,confluence,forge,halp,jira,opsgenie,statuspage,trello",us-west-2
 18.246.188.32/28,IPv4,"confluence,jira,opsgenie",us-west-2
 104.192.140.240/28,IPv4,"bitbucket,confluence,forge,halp,jira,opsgenie,statuspage,trello",us-west-2
+104.192.138.0/24,IPv4,"bitbucket,confluence,forge,halp,jira,loom,statuspage,trello",global
+104.192.139.0/24,IPv4,"bitbucket,confluence,forge,halp,jira,loom,statuspage,trello",global
+104.192.141.0/24,IPv4,"bitbucket,confluence,forge,halp,jira,loom,statuspage,trello",global
 13.35.248.0/24,IPv4,"bitbucket,confluence,forge,halp,jira,loom,opsgenie,statuspage,trello",global
 13.227.180.0/24,IPv4,"bitbucket,confluence,forge,halp,jira,loom,opsgenie,statuspage,trello",global
 13.227.213.0/24,IPv4,"bitbucket,confluence,forge,halp,jira,loom,opsgenie,statuspage,trello",global

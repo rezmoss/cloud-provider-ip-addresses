@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+104.192.138.0/24,IPv4,"bitbucket,confluence,forge,halp,jira,loom,statuspage,trello",global
+104.192.139.0/24,IPv4,"bitbucket,confluence,forge,halp,jira,loom,statuspage,trello",global
+104.192.141.0/24,IPv4,"bitbucket,confluence,forge,halp,jira,loom,statuspage,trello",global

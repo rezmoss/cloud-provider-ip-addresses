@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "104.192.138.224/28",
+    "ip_type": "IPv4",
+    "service": "rovo-crawler",
+    "region": "us-west-1"
+  },
+  {
     "ip_address": "13.52.5.96/28",
     "ip_type": "IPv4",
     "service": "bitbucket,confluence,forge,halp,jira,opsgenie,statuspage,trello",

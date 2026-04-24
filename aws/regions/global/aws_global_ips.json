@@ -1542,6 +1542,12 @@
     "region": "GLOBAL"
   },
   {
+    "ip_address": "1.179.60.0/23",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "GLOBAL"
+  },
+  {
     "ip_address": "31.220.247.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -2443,12 +2449,6 @@
   },
   {
     "ip_address": "99.83.128.0/17",
-    "ip_type": "IPv4",
-    "service": "GLOBALACCELERATOR",
-    "region": "GLOBAL"
-  },
-  {
-    "ip_address": "1.179.60.0/23",
     "ip_type": "IPv4",
     "service": "GLOBALACCELERATOR",
     "region": "GLOBAL"

@@ -1470,6 +1470,12 @@
     "region": "eu-west-2"
   },
   {
+    "ip_address": "16.61.68.0/23",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-west-2"
+  },
+  {
     "ip_address": "18.132.146.192/26",
     "ip_type": "IPv4",
     "service": "AMAZON",

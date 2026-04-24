@@ -3760,6 +3760,11 @@
     "region": "CA-ON"
   },
   {
+    "ip_address": "165.245.240.0/20",
+    "ip_type": "IPv4",
+    "region": "DE-HE"
+  },
+  {
     "ip_address": "167.71.0.0/20",
     "ip_type": "IPv4",
     "region": "NL-NH"
@@ -4071,6 +4076,16 @@
   },
   {
     "ip_address": "168.144.96.0/20",
+    "ip_type": "IPv4",
+    "region": "SG-05"
+  },
+  {
+    "ip_address": "168.144.112.0/20",
+    "ip_type": "IPv4",
+    "region": "IN-KA"
+  },
+  {
+    "ip_address": "168.144.128.0/20",
     "ip_type": "IPv4",
     "region": "SG-05"
   },
