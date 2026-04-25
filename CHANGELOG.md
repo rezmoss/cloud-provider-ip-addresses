@@ -2,17 +2,17 @@
 
 Daily IP range changes across all providers.
 
-## 2026-04-24
+## 2026-04-25
 
-### atlassian
+### linode
+- Added: 0 CIDRs
+- Removed: 1 CIDRs
+
+### gptbot
 - Added: 4 CIDRs
 - Removed: 0 CIDRs
 
-### digitalocean
-- Added: 3 CIDRs
-- Removed: 0 CIDRs
-
 ### aws
-- Added: 7 CIDRs
+- Added: 6 CIDRs
 - Removed: 0 CIDRs
 

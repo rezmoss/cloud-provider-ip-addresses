@@ -5615,11 +5615,6 @@
     "region": "US-NJ"
   },
   {
-    "ip_address": "74.82.3.0/24",
-    "ip_type": "IPv4",
-    "region": "US-CA"
-  },
-  {
     "ip_address": "74.207.240.0/24",
     "ip_type": "IPv4",
     "region": "US-CA"

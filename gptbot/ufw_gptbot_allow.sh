@@ -1,6 +1,6 @@
 #!/bin/bash
 # Gptbot IP Ranges
-# Updated: 2026-04-22 00:32:35
+# Updated: 2026-04-25 00:33:44
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -107,6 +107,7 @@ ufw allow from 20.169.78.96/28
 ufw allow from 20.169.86.224/28
 ufw allow from 20.169.86.240/28
 ufw allow from 20.169.87.112/28
+ufw allow from 20.17.108.96/28
 ufw allow from 20.172.29.32/28
 ufw allow from 20.193.233.240/28
 ufw allow from 20.193.50.32/28
@@ -143,6 +144,7 @@ ufw allow from 20.235.75.208/28
 ufw allow from 20.235.87.224/28
 ufw allow from 20.249.63.208/28
 ufw allow from 20.27.94.128/28
+ufw allow from 20.42.250.32/28
 ufw allow from 20.45.178.144/28
 ufw allow from 20.55.229.144/28
 ufw allow from 20.63.221.64/28
@@ -170,6 +172,7 @@ ufw allow from 4.197.64.0/28
 ufw allow from 4.197.64.16/28
 ufw allow from 4.197.64.48/28
 ufw allow from 4.197.64.64/28
+ufw allow from 4.198.72.16/28
 ufw allow from 4.205.128.176/28
 ufw allow from 40.116.73.208/28
 ufw allow from 40.122.235.112/28
@@ -256,6 +259,7 @@ ufw allow from 74.7.35.48/28
 ufw allow from 74.7.36.64/28
 ufw allow from 74.7.36.80/28
 ufw allow from 74.7.36.96/28
+ufw allow from 85.211.241.128/28
 ufw allow from 9.160.163.224/28
 ufw allow from 9.160.164.128/28
 ufw allow from 104.210.140.128/28
