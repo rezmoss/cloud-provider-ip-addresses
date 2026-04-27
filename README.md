@@ -261,6 +261,17 @@ python3 lookup.py --file suspicious_ips.txt
 python3 lookup.py --json 8.8.8.8
 ```
 
+### Fast Lookup (Radix Tree)
+
+For large-scale lookups, `radix_lookup.py` uses a radix tree ([pysubnettree](https://github.com/zeek/pysubnettree)) for O(1) lookups — 2M+ IPs/sec for IPv4, 1.6M+ IPs/sec for IPv6. Same interface and output as `lookup.py`.
+
+```bash
+pip3 install -r requirements.txt
+python3 radix_lookup.py 13.32.0.1
+python3 radix_lookup.py --file suspicious_ips.txt
+python3 radix_lookup.py --json 8.8.8.8
+```
+
 ---
 
 ## Changelog & Stats
