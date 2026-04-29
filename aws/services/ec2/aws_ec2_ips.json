@@ -19758,6 +19758,12 @@
     "region": "us-west-2"
   },
   {
+    "ip_address": "2600:f0f1:18::/46",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "2600:f0f2:7014::/48",
     "ip_type": "IPv6",
     "service": "EC2",

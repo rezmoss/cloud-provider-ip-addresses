@@ -132,6 +132,12 @@
     "region": "ap-mumbai-1"
   },
   {
+    "ip_address": "147.5.20.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-mumbai-1"
+  },
+  {
     "ip_address": "168.110.240.0/22",
     "ip_type": "IPv4",
     "service": "OSN",

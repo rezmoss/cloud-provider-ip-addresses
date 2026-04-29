@@ -29,3 +29,4 @@ INSERT INTO `aws_chime_voiceconnector_ips` (`ip_address`, `ip_type`) VALUES ('99
 INSERT INTO `aws_chime_voiceconnector_ips` (`ip_address`, `ip_type`) VALUES ('99.77.246.0/24', 'IPv4');
 INSERT INTO `aws_chime_voiceconnector_ips` (`ip_address`, `ip_type`) VALUES ('99.77.237.0/24', 'IPv4');
 INSERT INTO `aws_chime_voiceconnector_ips` (`ip_address`, `ip_type`) VALUES ('99.77.250.0/24', 'IPv4');
+INSERT INTO `aws_chime_voiceconnector_ips` (`ip_address`, `ip_type`) VALUES ('3.80.16.0/23', 'IPv4');

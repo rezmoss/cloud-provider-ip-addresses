@@ -171,6 +171,7 @@ INSERT INTO `oracle_osn_ips` (`ip_address`, `ip_type`) VALUES ('80.225.176.0/23'
 INSERT INTO `oracle_osn_ips` (`ip_address`, `ip_type`) VALUES ('80.225.178.128/25', 'IPv4');
 INSERT INTO `oracle_osn_ips` (`ip_address`, `ip_type`) VALUES ('140.91.30.0/23', 'IPv4');
 INSERT INTO `oracle_osn_ips` (`ip_address`, `ip_type`) VALUES ('140.204.4.128/25', 'IPv4');
+INSERT INTO `oracle_osn_ips` (`ip_address`, `ip_type`) VALUES ('147.5.20.0/22', 'IPv4');
 INSERT INTO `oracle_osn_ips` (`ip_address`, `ip_type`) VALUES ('168.110.240.0/22', 'IPv4');
 INSERT INTO `oracle_osn_ips` (`ip_address`, `ip_type`) VALUES ('192.29.48.0/22', 'IPv4');
 INSERT INTO `oracle_osn_ips` (`ip_address`, `ip_type`) VALUES ('192.29.160.0/21', 'IPv4');

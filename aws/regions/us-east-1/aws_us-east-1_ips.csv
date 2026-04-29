@@ -827,6 +827,7 @@ ip_address,ip_type,service,region
 98.88.14.0/23,IPv4,AMAZON,us-east-1
 98.90.62.0/23,IPv4,AMAZON,us-east-1
 99.77.254.0/24,IPv4,CHIME_VOICECONNECTOR,us-east-1
+3.80.16.0/23,IPv4,CHIME_VOICECONNECTOR,us-east-1
 107.23.255.0/26,IPv4,ROUTE53_HEALTHCHECKS,us-east-1
 54.243.31.192/26,IPv4,ROUTE53_HEALTHCHECKS,us-east-1
 16.15.156.0/22,IPv4,S3,us-east-1
@@ -1565,6 +1566,7 @@ ip_address,ip_type,service,region
 2600:f0fb:e300::/40,IPv6,AMAZON,us-east-1
 2605:9cc0:1ff0:8000::/56,IPv6,AMAZON,us-east-1
 2600:1f60:8000::/39,IPv6,AMAZON,us-east-1
+2600:f0f1:18::/46,IPv6,AMAZON,us-east-1
 2600:f0fb:e800::/40,IPv6,AMAZON,us-east-1
 2600:f0fb:f024::/48,IPv6,AMAZON,us-east-1
 2406:da00:ff00::/48,IPv6,AMAZON,us-east-1
@@ -1797,6 +1799,7 @@ ip_address,ip_type,service,region
 2600:f0fb:e300::/40,IPv6,EC2,us-east-1
 2605:9cc0:1ff0:8000::/56,IPv6,EC2,us-east-1
 2600:1f60:8000::/39,IPv6,EC2,us-east-1
+2600:f0f1:18::/46,IPv6,EC2,us-east-1
 2600:f0fb:e800::/40,IPv6,EC2,us-east-1
 2600:f0fb:f024::/48,IPv6,EC2,us-east-1
 2406:da00:ff00::/48,IPv6,EC2,us-east-1

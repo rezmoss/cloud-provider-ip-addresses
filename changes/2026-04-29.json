@@ -1,0 +1,24 @@
+{
+  "date": "2026-04-29",
+  "changes": {
+    "aws": {
+      "added": [
+        "2600:f0f1:14::/48",
+        "2600:f0f1:15::/48",
+        "2600:f0f1:18::/46",
+        "3.80.16.0/23"
+      ],
+      "removed": [],
+      "added_count": 4,
+      "removed_count": 0
+    },
+    "oracle": {
+      "added": [
+        "147.5.20.0/22"
+      ],
+      "removed": [],
+      "added_count": 1,
+      "removed_count": 0
+    }
+  }
+}

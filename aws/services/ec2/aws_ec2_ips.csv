@@ -3292,6 +3292,7 @@ ip_address,ip_type,service,region
 2600:1f61:ec00::/40,IPv6,EC2,sa-west-1
 2600:f0f0:5::/48,IPv6,EC2,us-west-2
 2600:f0f0:5513::/48,IPv6,EC2,us-west-2
+2600:f0f1:18::/46,IPv6,EC2,us-east-1
 2600:f0f2:7014::/48,IPv6,EC2,us-east-2
 2600:f0f2:7107::/48,IPv6,EC2,ap-southeast-1
 2605:9cc0:1ff0:2d00::/56,IPv6,EC2,GLOBAL

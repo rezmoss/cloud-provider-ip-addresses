@@ -2970,6 +2970,12 @@
     "region": "GLOBAL"
   },
   {
+    "ip_address": "2600:f0f1:15::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "GLOBAL"
+  },
+  {
     "ip_address": "2600:9000:2000::/36",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -3055,6 +3061,12 @@
   },
   {
     "ip_address": "2600:f0f0:601::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "GLOBAL"
+  },
+  {
+    "ip_address": "2600:f0f1:14::/48",
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "GLOBAL"
@@ -3366,6 +3378,12 @@
     "region": "GLOBAL"
   },
   {
+    "ip_address": "2600:f0f1:15::/48",
+    "ip_type": "IPv6",
+    "service": "CLOUDFRONT",
+    "region": "GLOBAL"
+  },
+  {
     "ip_address": "2600:9000:2000::/36",
     "ip_type": "IPv6",
     "service": "CLOUDFRONT",
@@ -3415,6 +3433,12 @@
   },
   {
     "ip_address": "2600:f0f0:601::/48",
+    "ip_type": "IPv6",
+    "service": "CLOUDFRONT",
+    "region": "GLOBAL"
+  },
+  {
+    "ip_address": "2600:f0f1:14::/48",
     "ip_type": "IPv6",
     "service": "CLOUDFRONT",
     "region": "GLOBAL"
