@@ -10,6 +10,8 @@ INSERT INTO `azure_azurebackup.polandcentral_ips` (`ip_address`, `ip_type`) VALU
 INSERT INTO `azure_azurebackup.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.215.19.0/26', 'IPv4');
 INSERT INTO `azure_azurebackup.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.215.27.0/26', 'IPv4');
 INSERT INTO `azure_azurebackup.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.215.155.64/26', 'IPv4');
+INSERT INTO `azure_azurebackup.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('134.112.192.188/30', 'IPv4');
+INSERT INTO `azure_azurebackup.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('134.112.194.16/28', 'IPv4');
 INSERT INTO `azure_azurebackup.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1302::680/121', 'IPv6');
 INSERT INTO `azure_azurebackup.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1302:400::100/121', 'IPv6');
 INSERT INTO `azure_azurebackup.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1302:800::100/121', 'IPv6');

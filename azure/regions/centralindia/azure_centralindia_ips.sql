@@ -677,6 +677,7 @@ INSERT INTO `azure_centralindia_ips` (`ip_address`, `ip_type`) VALUES ('57.159.0
 INSERT INTO `azure_centralindia_ips` (`ip_address`, `ip_type`) VALUES ('70.152.6.0/24', 'IPv4');
 INSERT INTO `azure_centralindia_ips` (`ip_address`, `ip_type`) VALUES ('70.152.52.0/23', 'IPv4');
 INSERT INTO `azure_centralindia_ips` (`ip_address`, `ip_type`) VALUES ('70.152.54.0/24', 'IPv4');
+INSERT INTO `azure_centralindia_ips` (`ip_address`, `ip_type`) VALUES ('70.152.221.0/24', 'IPv4');
 INSERT INTO `azure_centralindia_ips` (`ip_address`, `ip_type`) VALUES ('74.225.128.0/17', 'IPv4');
 INSERT INTO `azure_centralindia_ips` (`ip_address`, `ip_type`) VALUES ('98.70.0.0/17', 'IPv4');
 INSERT INTO `azure_centralindia_ips` (`ip_address`, `ip_type`) VALUES ('98.70.192.0/18', 'IPv4');

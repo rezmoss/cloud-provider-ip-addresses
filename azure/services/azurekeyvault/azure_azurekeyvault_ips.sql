@@ -325,6 +325,7 @@ INSERT INTO `azure_azurekeyvault_ips` (`ip_address`, `ip_type`) VALUES ('167.105
 INSERT INTO `azure_azurekeyvault_ips` (`ip_address`, `ip_type`) VALUES ('172.194.73.208/30', 'IPv4');
 INSERT INTO `azure_azurekeyvault_ips` (`ip_address`, `ip_type`) VALUES ('172.194.73.216/29', 'IPv4');
 INSERT INTO `azure_azurekeyvault_ips` (`ip_address`, `ip_type`) VALUES ('172.194.112.96/30', 'IPv4');
+INSERT INTO `azure_azurekeyvault_ips` (`ip_address`, `ip_type`) VALUES ('172.197.132.24/30', 'IPv4');
 INSERT INTO `azure_azurekeyvault_ips` (`ip_address`, `ip_type`) VALUES ('172.198.89.216/30', 'IPv4');
 INSERT INTO `azure_azurekeyvault_ips` (`ip_address`, `ip_type`) VALUES ('172.198.89.224/29', 'IPv4');
 INSERT INTO `azure_azurekeyvault_ips` (`ip_address`, `ip_type`) VALUES ('172.198.112.12/30', 'IPv4');

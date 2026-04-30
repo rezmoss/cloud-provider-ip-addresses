@@ -1,5 +1,17 @@
 [
   {
+    "ip_address": "4.221.233.187/32",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "4.221.237.112/28",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
     "ip_address": "102.37.160.192/26",
     "ip_type": "IPv4",
     "service": "AzureBackup.SouthAfricaNorth",

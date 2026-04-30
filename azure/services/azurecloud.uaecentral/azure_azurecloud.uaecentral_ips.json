@@ -348,6 +348,18 @@
     "region": "uaecentral"
   },
   {
+    "ip_address": "70.152.216.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uaecentral",
+    "region": "uaecentral"
+  },
+  {
+    "ip_address": "70.152.218.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uaecentral",
+    "region": "uaecentral"
+  },
+  {
     "ip_address": "74.243.0.0/17",
     "ip_type": "IPv4",
     "service": "AzureCloud.uaecentral",

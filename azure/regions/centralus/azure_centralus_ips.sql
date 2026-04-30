@@ -335,7 +335,6 @@ INSERT INTO `azure_centralus_ips` (`ip_address`, `ip_type`) VALUES ('52.182.143.
 INSERT INTO `azure_centralus_ips` (`ip_address`, `ip_type`) VALUES ('52.182.144.224/28', 'IPv4');
 INSERT INTO `azure_centralus_ips` (`ip_address`, `ip_type`) VALUES ('52.182.146.72/29', 'IPv4');
 INSERT INTO `azure_centralus_ips` (`ip_address`, `ip_type`) VALUES ('52.230.224.237/32', 'IPv4');
-INSERT INTO `azure_centralus_ips` (`ip_address`, `ip_type`) VALUES ('52.242.230.209/32', 'IPv4');
 INSERT INTO `azure_centralus_ips` (`ip_address`, `ip_type`) VALUES ('104.208.18.64/29', 'IPv4');
 INSERT INTO `azure_centralus_ips` (`ip_address`, `ip_type`) VALUES ('104.208.33.155/32', 'IPv4');
 INSERT INTO `azure_centralus_ips` (`ip_address`, `ip_type`) VALUES ('104.208.34.98/32', 'IPv4');

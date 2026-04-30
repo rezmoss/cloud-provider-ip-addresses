@@ -6,6 +6,18 @@
     "region": "spaincentral"
   },
   {
+    "ip_address": "158.158.138.202/31",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "158.158.139.0/28",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
     "ip_address": "2603:1020:1403::680/121",
     "ip_type": "IPv6",
     "service": "AzureBackup.SpainCentral",

@@ -24,6 +24,18 @@
     "region": "polandcentral"
   },
   {
+    "ip_address": "134.112.192.188/30",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "134.112.194.16/28",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
     "ip_address": "2603:1020:1302::680/121",
     "ip_type": "IPv6",
     "service": "AzureBackup.PolandCentral",

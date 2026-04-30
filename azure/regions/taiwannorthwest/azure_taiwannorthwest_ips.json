@@ -1314,6 +1314,12 @@
     "region": "taiwannorthwest"
   },
   {
+    "ip_address": "57.170.0.0/17",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.taiwannorthwest",
+    "region": "taiwannorthwest"
+  },
+  {
     "ip_address": "70.152.229.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.taiwannorthwest",

@@ -270,6 +270,24 @@
     "region": "koreacentral"
   },
   {
+    "ip_address": "4.230.165.130/32",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "4.230.165.132/30",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "4.230.165.136/29",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
     "ip_address": "20.44.27.128/27",
     "ip_type": "IPv4",
     "service": "AzureBackup.KoreaCentral",

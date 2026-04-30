@@ -917,7 +917,7 @@ INSERT INTO `azure_uksouth_ips` (`ip_address`, `ip_type`) VALUES ('57.150.236.0/
 INSERT INTO `azure_uksouth_ips` (`ip_address`, `ip_type`) VALUES ('57.157.40.0/26', 'IPv4');
 INSERT INTO `azure_uksouth_ips` (`ip_address`, `ip_type`) VALUES ('57.157.40.64/28', 'IPv4');
 INSERT INTO `azure_uksouth_ips` (`ip_address`, `ip_type`) VALUES ('57.157.40.80/29', 'IPv4');
-INSERT INTO `azure_uksouth_ips` (`ip_address`, `ip_type`) VALUES ('57.157.40.88/31', 'IPv4');
+INSERT INTO `azure_uksouth_ips` (`ip_address`, `ip_type`) VALUES ('57.157.40.88/30', 'IPv4');
 INSERT INTO `azure_uksouth_ips` (`ip_address`, `ip_type`) VALUES ('70.152.33.0/24', 'IPv4');
 INSERT INTO `azure_uksouth_ips` (`ip_address`, `ip_type`) VALUES ('70.152.237.0/24', 'IPv4');
 INSERT INTO `azure_uksouth_ips` (`ip_address`, `ip_type`) VALUES ('70.152.238.0/23', 'IPv4');

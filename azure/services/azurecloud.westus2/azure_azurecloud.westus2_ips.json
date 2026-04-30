@@ -1704,31 +1704,13 @@
     "region": "westus2"
   },
   {
-    "ip_address": "57.157.72.0/25",
+    "ip_address": "57.157.72.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.westus2",
     "region": "westus2"
   },
   {
-    "ip_address": "57.157.72.128/26",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.westus2",
-    "region": "westus2"
-  },
-  {
-    "ip_address": "57.157.72.192/27",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.westus2",
-    "region": "westus2"
-  },
-  {
-    "ip_address": "57.157.72.224/28",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.westus2",
-    "region": "westus2"
-  },
-  {
-    "ip_address": "57.157.72.240/31",
+    "ip_address": "57.157.73.0/27",
     "ip_type": "IPv4",
     "service": "AzureCloud.westus2",
     "region": "westus2"

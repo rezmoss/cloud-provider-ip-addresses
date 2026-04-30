@@ -132,7 +132,103 @@
     "region": "eastasia"
   },
   {
-    "ip_address": "20.20.80.0/24",
+    "ip_address": "20.20.80.0/29",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.eastasia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.20.80.8/30",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.eastasia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.20.80.12/31",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.eastasia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.20.80.16/29",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.eastasia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.20.80.24/30",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.eastasia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.20.80.30/31",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.eastasia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.20.80.32/30",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.eastasia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.20.80.36/31",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.eastasia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.20.80.40/29",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.eastasia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.20.80.48/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.eastasia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.20.80.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.eastasia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.20.80.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.eastasia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.20.80.192/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.eastasia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.20.80.208/30",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.eastasia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.20.80.212/31",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.eastasia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.20.80.220/30",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.eastasia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.20.80.224/27",
     "ip_type": "IPv4",
     "service": "AzureCloud.eastasia",
     "region": "eastasia"

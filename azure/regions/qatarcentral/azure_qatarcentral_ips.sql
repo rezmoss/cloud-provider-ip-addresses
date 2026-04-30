@@ -285,6 +285,7 @@ INSERT INTO `azure_qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:104
 INSERT INTO `azure_qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1002:c00::50/125', 'IPv6');
 INSERT INTO `azure_qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('4.171.52.120/29', 'IPv4');
 INSERT INTO `azure_qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1002:400::240/123', 'IPv6');
+INSERT INTO `azure_qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('40.64.148.160/27', 'IPv4');
 INSERT INTO `azure_qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2010:33::/117', 'IPv6');
 INSERT INTO `azure_qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('4.170.0.0/15', 'IPv4');
 INSERT INTO `azure_qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('4.244.0.0/16', 'IPv4');
@@ -314,6 +315,7 @@ INSERT INTO `azure_qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.209.2
 INSERT INTO `azure_qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.209.54.0/23', 'IPv4');
 INSERT INTO `azure_qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.209.202.0/23', 'IPv4');
 INSERT INTO `azure_qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.231.143.0/24', 'IPv4');
+INSERT INTO `azure_qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('40.64.148.160/27', 'IPv4');
 INSERT INTO `azure_qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('40.64.185.128/25', 'IPv4');
 INSERT INTO `azure_qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('40.93.84.0/24', 'IPv4');
 INSERT INTO `azure_qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('40.100.64.192/26', 'IPv4');

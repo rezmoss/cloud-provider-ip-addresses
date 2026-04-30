@@ -10,6 +10,7 @@ INSERT INTO `azure_azurekeyvault.malaysiawest_ips` (`ip_address`, `ip_type`) VAL
 INSERT INTO `azure_azurekeyvault.malaysiawest_ips` (`ip_address`, `ip_type`) VALUES ('20.17.130.52/30', 'IPv4');
 INSERT INTO `azure_azurekeyvault.malaysiawest_ips` (`ip_address`, `ip_type`) VALUES ('20.17.170.232/30', 'IPv4');
 INSERT INTO `azure_azurekeyvault.malaysiawest_ips` (`ip_address`, `ip_type`) VALUES ('20.17.186.232/30', 'IPv4');
+INSERT INTO `azure_azurekeyvault.malaysiawest_ips` (`ip_address`, `ip_type`) VALUES ('172.197.132.24/30', 'IPv4');
 INSERT INTO `azure_azurekeyvault.malaysiawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1602:1::224/126', 'IPv6');
 INSERT INTO `azure_azurekeyvault.malaysiawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1602:1::228/125', 'IPv6');
 INSERT INTO `azure_azurekeyvault.malaysiawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1602:1::2e0/125', 'IPv6');

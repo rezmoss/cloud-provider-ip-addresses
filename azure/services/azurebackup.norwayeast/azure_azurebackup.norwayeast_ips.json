@@ -1,5 +1,17 @@
 [
   {
+    "ip_address": "4.219.29.22/32",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.NorwayEast",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "4.219.29.48/28",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.NorwayEast",
+    "region": "norwaye"
+  },
+  {
     "ip_address": "51.120.99.96/27",
     "ip_type": "IPv4",
     "service": "AzureBackup.NorwayEast",

@@ -155,6 +155,10 @@ INSERT INTO `azure_m365managementactivityapi_ips` (`ip_address`, `ip_type`) VALU
 INSERT INTO `azure_m365managementactivityapi_ips` (`ip_address`, `ip_type`) VALUES ('57.154.128.254/31', 'IPv4');
 INSERT INTO `azure_m365managementactivityapi_ips` (`ip_address`, `ip_type`) VALUES ('57.156.74.149/32', 'IPv4');
 INSERT INTO `azure_m365managementactivityapi_ips` (`ip_address`, `ip_type`) VALUES ('57.156.74.232/30', 'IPv4');
+INSERT INTO `azure_m365managementactivityapi_ips` (`ip_address`, `ip_type`) VALUES ('57.162.210.28/31', 'IPv4');
+INSERT INTO `azure_m365managementactivityapi_ips` (`ip_address`, `ip_type`) VALUES ('57.162.210.40/29', 'IPv4');
+INSERT INTO `azure_m365managementactivityapi_ips` (`ip_address`, `ip_type`) VALUES ('57.162.211.42/31', 'IPv4');
+INSERT INTO `azure_m365managementactivityapi_ips` (`ip_address`, `ip_type`) VALUES ('57.162.211.96/29', 'IPv4');
 INSERT INTO `azure_m365managementactivityapi_ips` (`ip_address`, `ip_type`) VALUES ('68.210.26.0/31', 'IPv4');
 INSERT INTO `azure_m365managementactivityapi_ips` (`ip_address`, `ip_type`) VALUES ('68.210.61.30/32', 'IPv4');
 INSERT INTO `azure_m365managementactivityapi_ips` (`ip_address`, `ip_type`) VALUES ('68.210.61.48/30', 'IPv4');
@@ -264,6 +268,9 @@ INSERT INTO `azure_m365managementactivityapi_ips` (`ip_address`, `ip_type`) VALU
 INSERT INTO `azure_m365managementactivityapi_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1602:4::554/128', 'IPv6');
 INSERT INTO `azure_m365managementactivityapi_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:10:4::454/126', 'IPv6');
 INSERT INTO `azure_m365managementactivityapi_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:210:c::70/125', 'IPv6');
+INSERT INTO `azure_m365managementactivityapi_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:210:33::4c8/125', 'IPv6');
+INSERT INTO `azure_m365managementactivityapi_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:210:33::4d0/126', 'IPv6');
+INSERT INTO `azure_m365managementactivityapi_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:210:33::4d8/125', 'IPv6');
 INSERT INTO `azure_m365managementactivityapi_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:b::2a0/126', 'IPv6');
 INSERT INTO `azure_m365managementactivityapi_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:608:4::3b8/126', 'IPv6');
 INSERT INTO `azure_m365managementactivityapi_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:702:7::306/128', 'IPv6');

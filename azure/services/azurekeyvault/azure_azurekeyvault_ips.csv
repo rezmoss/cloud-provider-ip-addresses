@@ -318,6 +318,7 @@ ip_address,ip_type,service,region
 172.194.73.208/30,IPv4,AzureKeyVault,
 172.194.73.216/29,IPv4,AzureKeyVault,
 172.194.112.96/30,IPv4,AzureKeyVault,
+172.197.132.24/30,IPv4,AzureKeyVault,
 172.198.89.216/30,IPv4,AzureKeyVault,
 172.198.89.224/29,IPv4,AzureKeyVault,
 172.198.112.12/30,IPv4,AzureKeyVault,

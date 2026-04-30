@@ -702,19 +702,7 @@
     "region": "australiaeast"
   },
   {
-    "ip_address": "40.120.179.0/28",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.australiaeast",
-    "region": "australiaeast"
-  },
-  {
-    "ip_address": "40.120.179.16/29",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.australiaeast",
-    "region": "australiaeast"
-  },
-  {
-    "ip_address": "40.120.179.24/30",
+    "ip_address": "40.120.179.0/27",
     "ip_type": "IPv4",
     "service": "AzureCloud.australiaeast",
     "region": "australiaeast"

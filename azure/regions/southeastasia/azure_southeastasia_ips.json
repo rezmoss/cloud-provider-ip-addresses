@@ -3954,12 +3954,6 @@
     "region": "southeastasia"
   },
   {
-    "ip_address": "104.43.76.124/32",
-    "ip_type": "IPv4",
-    "service": "PowerPlatformInfra.SoutheastAsia",
-    "region": "southeastasia"
-  },
-  {
     "ip_address": "135.171.39.96/29",
     "ip_type": "IPv4",
     "service": "PowerPlatformInfra.SoutheastAsia",

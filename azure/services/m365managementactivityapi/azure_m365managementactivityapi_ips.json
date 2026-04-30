@@ -894,6 +894,30 @@
     "region": ""
   },
   {
+    "ip_address": "57.162.210.28/31",
+    "ip_type": "IPv4",
+    "service": "M365ManagementActivityApi",
+    "region": ""
+  },
+  {
+    "ip_address": "57.162.210.40/29",
+    "ip_type": "IPv4",
+    "service": "M365ManagementActivityApi",
+    "region": ""
+  },
+  {
+    "ip_address": "57.162.211.42/31",
+    "ip_type": "IPv4",
+    "service": "M365ManagementActivityApi",
+    "region": ""
+  },
+  {
+    "ip_address": "57.162.211.96/29",
+    "ip_type": "IPv4",
+    "service": "M365ManagementActivityApi",
+    "region": ""
+  },
+  {
     "ip_address": "68.210.26.0/31",
     "ip_type": "IPv4",
     "service": "M365ManagementActivityApi",
@@ -1543,6 +1567,24 @@
   },
   {
     "ip_address": "2603:1030:210:c::70/125",
+    "ip_type": "IPv6",
+    "service": "M365ManagementActivityApi",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:210:33::4c8/125",
+    "ip_type": "IPv6",
+    "service": "M365ManagementActivityApi",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:210:33::4d0/126",
+    "ip_type": "IPv6",
+    "service": "M365ManagementActivityApi",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:210:33::4d8/125",
     "ip_type": "IPv6",
     "service": "M365ManagementActivityApi",
     "region": ""

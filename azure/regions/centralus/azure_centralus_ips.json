@@ -1974,12 +1974,6 @@
     "region": "centralus"
   },
   {
-    "ip_address": "52.242.230.209/32",
-    "ip_type": "IPv4",
-    "service": "AzureMonitor.CentralUS",
-    "region": "centralus"
-  },
-  {
     "ip_address": "104.208.18.64/29",
     "ip_type": "IPv4",
     "service": "AzureMonitor.CentralUS",

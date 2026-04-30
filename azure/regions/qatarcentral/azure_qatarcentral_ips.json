@@ -1674,6 +1674,12 @@
     "region": "qatarcentral"
   },
   {
+    "ip_address": "40.64.148.160/27",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
     "ip_address": "2603:1061:2010:33::/117",
     "ip_type": "IPv6",
     "service": "WindowsVirtualDesktop.QatarCentral",
@@ -1843,6 +1849,12 @@
   },
   {
     "ip_address": "20.231.143.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.qatarcentral",
+    "region": "qatarcentral"
+  },
+  {
+    "ip_address": "40.64.148.160/27",
     "ip_type": "IPv4",
     "service": "AzureCloud.qatarcentral",
     "region": "qatarcentral"

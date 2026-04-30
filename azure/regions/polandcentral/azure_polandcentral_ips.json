@@ -210,6 +210,18 @@
     "region": "polandcentral"
   },
   {
+    "ip_address": "134.112.192.188/30",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "134.112.194.16/28",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
     "ip_address": "2603:1020:1302::680/121",
     "ip_type": "IPv6",
     "service": "AzureBackup.PolandCentral",
@@ -1848,7 +1860,13 @@
     "region": "polandcentral"
   },
   {
-    "ip_address": "40.123.138.32/30",
+    "ip_address": "40.123.138.32/29",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.polandcentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "40.123.138.40/31",
     "ip_type": "IPv4",
     "service": "AzureCloud.polandcentral",
     "region": "polandcentral"
@@ -2100,7 +2118,13 @@
     "region": "polandcentral"
   },
   {
-    "ip_address": "2603:1061:1006:108::/63",
+    "ip_address": "2603:1061:1006:108::/62",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.polandcentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "2603:1061:1006:10c::/64",
     "ip_type": "IPv6",
     "service": "AzureCloud.polandcentral",
     "region": "polandcentral"

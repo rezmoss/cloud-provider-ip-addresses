@@ -113,7 +113,6 @@ INSERT INTO `azure_azureupdatedelivery_ips` (`ip_address`, `ip_type`) VALUES ('5
 INSERT INTO `azure_azureupdatedelivery_ips` (`ip_address`, `ip_type`) VALUES ('52.148.148.114/32', 'IPv4');
 INSERT INTO `azure_azureupdatedelivery_ips` (`ip_address`, `ip_type`) VALUES ('52.148.150.130/32', 'IPv4');
 INSERT INTO `azure_azureupdatedelivery_ips` (`ip_address`, `ip_type`) VALUES ('52.149.18.190/32', 'IPv4');
-INSERT INTO `azure_azureupdatedelivery_ips` (`ip_address`, `ip_type`) VALUES ('52.149.21.232/32', 'IPv4');
 INSERT INTO `azure_azureupdatedelivery_ips` (`ip_address`, `ip_type`) VALUES ('52.149.22.183/32', 'IPv4');
 INSERT INTO `azure_azureupdatedelivery_ips` (`ip_address`, `ip_type`) VALUES ('52.156.102.237/32', 'IPv4');
 INSERT INTO `azure_azureupdatedelivery_ips` (`ip_address`, `ip_type`) VALUES ('52.156.144.83/32', 'IPv4');

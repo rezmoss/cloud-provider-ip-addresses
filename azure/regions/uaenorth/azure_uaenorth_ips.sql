@@ -516,6 +516,7 @@ INSERT INTO `azure_uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('52.239.233.1
 INSERT INTO `azure_uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('57.150.230.0/23', 'IPv4');
 INSERT INTO `azure_uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('65.52.248.0/21', 'IPv4');
 INSERT INTO `azure_uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('70.152.32.0/24', 'IPv4');
+INSERT INTO `azure_uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('70.152.214.0/24', 'IPv4');
 INSERT INTO `azure_uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('70.152.228.0/24', 'IPv4');
 INSERT INTO `azure_uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('74.162.0.0/16', 'IPv4');
 INSERT INTO `azure_uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('74.243.192.0/18', 'IPv4');

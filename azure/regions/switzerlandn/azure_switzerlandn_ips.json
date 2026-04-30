@@ -276,6 +276,24 @@
     "region": "switzerlandn"
   },
   {
+    "ip_address": "74.242.176.248/29",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "74.242.177.80/30",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "74.242.177.84/32",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
     "ip_address": "2603:1020:a04:2::600/121",
     "ip_type": "IPv6",
     "service": "AzureBackup.SwitzerlandNorth",

@@ -798,12 +798,6 @@
     "region": "eastus"
   },
   {
-    "ip_address": "52.224.191.62/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftCloudAppSecurity.EastUS",
-    "region": "eastus"
-  },
-  {
     "ip_address": "52.224.201.216/32",
     "ip_type": "IPv4",
     "service": "MicrosoftCloudAppSecurity.EastUS",
@@ -913,12 +907,6 @@
   },
   {
     "ip_address": "104.45.168.104/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftCloudAppSecurity.EastUS",
-    "region": "eastus"
-  },
-  {
-    "ip_address": "104.45.168.106/32",
     "ip_type": "IPv4",
     "service": "MicrosoftCloudAppSecurity.EastUS",
     "region": "eastus"

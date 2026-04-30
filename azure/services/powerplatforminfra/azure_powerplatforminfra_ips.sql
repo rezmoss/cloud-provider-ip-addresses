@@ -1417,7 +1417,6 @@ INSERT INTO `azure_powerplatforminfra_ips` (`ip_address`, `ip_type`) VALUES ('10
 INSERT INTO `azure_powerplatforminfra_ips` (`ip_address`, `ip_type`) VALUES ('104.42.214.62/32', 'IPv4');
 INSERT INTO `azure_powerplatforminfra_ips` (`ip_address`, `ip_type`) VALUES ('104.43.76.101/32', 'IPv4');
 INSERT INTO `azure_powerplatforminfra_ips` (`ip_address`, `ip_type`) VALUES ('104.43.76.102/32', 'IPv4');
-INSERT INTO `azure_powerplatforminfra_ips` (`ip_address`, `ip_type`) VALUES ('104.43.76.124/32', 'IPv4');
 INSERT INTO `azure_powerplatforminfra_ips` (`ip_address`, `ip_type`) VALUES ('104.45.65.67/32', 'IPv4');
 INSERT INTO `azure_powerplatforminfra_ips` (`ip_address`, `ip_type`) VALUES ('104.45.67.10/32', 'IPv4');
 INSERT INTO `azure_powerplatforminfra_ips` (`ip_address`, `ip_type`) VALUES ('104.45.70.91/32', 'IPv4');

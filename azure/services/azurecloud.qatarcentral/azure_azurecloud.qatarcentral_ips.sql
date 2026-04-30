@@ -34,6 +34,7 @@ INSERT INTO `azure_azurecloud.qatarcentral_ips` (`ip_address`, `ip_type`) VALUES
 INSERT INTO `azure_azurecloud.qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.209.54.0/23', 'IPv4');
 INSERT INTO `azure_azurecloud.qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.209.202.0/23', 'IPv4');
 INSERT INTO `azure_azurecloud.qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.231.143.0/24', 'IPv4');
+INSERT INTO `azure_azurecloud.qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('40.64.148.160/27', 'IPv4');
 INSERT INTO `azure_azurecloud.qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('40.64.185.128/25', 'IPv4');
 INSERT INTO `azure_azurecloud.qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('40.93.84.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('40.100.64.192/26', 'IPv4');

@@ -456,6 +456,12 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "1.178.172.0/23",
+    "ip_type": "IPv4",
+    "service": "GLOBALACCELERATOR",
+    "region": "GLOBAL"
+  },
+  {
     "ip_address": "23.238.128.0/17",
     "ip_type": "IPv4",
     "service": "GLOBALACCELERATOR",
@@ -484,6 +490,12 @@
     "ip_type": "IPv4",
     "service": "GLOBALACCELERATOR",
     "region": "eu-central-1"
+  },
+  {
+    "ip_address": "1.179.60.0/23",
+    "ip_type": "IPv4",
+    "service": "GLOBALACCELERATOR",
+    "region": "GLOBAL"
   },
   {
     "ip_address": "3.2.59.0/24",

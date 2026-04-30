@@ -30,7 +30,6 @@ INSERT INTO `azure_microsoftcloudappsecurity.eastus2_ips` (`ip_address`, `ip_typ
 INSERT INTO `azure_microsoftcloudappsecurity.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('20.36.220.93/32', 'IPv4');
 INSERT INTO `azure_microsoftcloudappsecurity.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('20.36.222.59/32', 'IPv4');
 INSERT INTO `azure_microsoftcloudappsecurity.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('20.36.222.60/32', 'IPv4');
-INSERT INTO `azure_microsoftcloudappsecurity.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('20.36.240.76/32', 'IPv4');
 INSERT INTO `azure_microsoftcloudappsecurity.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('20.36.244.208/32', 'IPv4');
 INSERT INTO `azure_microsoftcloudappsecurity.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('20.36.245.0/32', 'IPv4');
 INSERT INTO `azure_microsoftcloudappsecurity.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('20.36.245.182/32', 'IPv4');

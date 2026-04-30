@@ -18,6 +18,12 @@
     "region": "eastus3"
   },
   {
+    "ip_address": "57.163.32.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.EastUS3",
+    "region": "eastus3"
+  },
+  {
     "ip_address": "135.130.0.0/23",
     "ip_type": "IPv4",
     "service": "Storage.EastUS3",

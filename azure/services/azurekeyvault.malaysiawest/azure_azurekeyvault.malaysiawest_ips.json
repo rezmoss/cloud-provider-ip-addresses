@@ -24,6 +24,12 @@
     "region": "malaysiawest"
   },
   {
+    "ip_address": "172.197.132.24/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.MalaysiaWest",
+    "region": "malaysiawest"
+  },
+  {
     "ip_address": "2603:1040:1602:1::224/126",
     "ip_type": "IPv6",
     "service": "AzureKeyVault.MalaysiaWest",

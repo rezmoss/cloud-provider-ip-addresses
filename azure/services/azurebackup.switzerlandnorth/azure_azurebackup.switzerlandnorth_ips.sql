@@ -11,6 +11,9 @@ INSERT INTO `azure_azurebackup.switzerlandnorth_ips` (`ip_address`, `ip_type`) V
 INSERT INTO `azure_azurebackup.switzerlandnorth_ips` (`ip_address`, `ip_type`) VALUES ('51.107.59.64/26', 'IPv4');
 INSERT INTO `azure_azurebackup.switzerlandnorth_ips` (`ip_address`, `ip_type`) VALUES ('51.107.59.128/27', 'IPv4');
 INSERT INTO `azure_azurebackup.switzerlandnorth_ips` (`ip_address`, `ip_type`) VALUES ('51.107.243.0/26', 'IPv4');
+INSERT INTO `azure_azurebackup.switzerlandnorth_ips` (`ip_address`, `ip_type`) VALUES ('74.242.176.248/29', 'IPv4');
+INSERT INTO `azure_azurebackup.switzerlandnorth_ips` (`ip_address`, `ip_type`) VALUES ('74.242.177.80/30', 'IPv4');
+INSERT INTO `azure_azurebackup.switzerlandnorth_ips` (`ip_address`, `ip_type`) VALUES ('74.242.177.84/32', 'IPv4');
 INSERT INTO `azure_azurebackup.switzerlandnorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:a04:2::600/121', 'IPv6');
 INSERT INTO `azure_azurebackup.switzerlandnorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:a04:402::200/121', 'IPv6');
 INSERT INTO `azure_azurebackup.switzerlandnorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:a04:802::180/121', 'IPv6');

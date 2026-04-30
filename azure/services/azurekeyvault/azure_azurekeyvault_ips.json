@@ -1914,6 +1914,12 @@
     "region": ""
   },
   {
+    "ip_address": "172.197.132.24/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault",
+    "region": ""
+  },
+  {
     "ip_address": "172.198.89.216/30",
     "ip_type": "IPv4",
     "service": "AzureKeyVault",

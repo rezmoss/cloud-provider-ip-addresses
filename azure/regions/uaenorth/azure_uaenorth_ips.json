@@ -3060,6 +3060,12 @@
     "region": "uaenorth"
   },
   {
+    "ip_address": "70.152.214.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uaenorth",
+    "region": "uaenorth"
+  },
+  {
     "ip_address": "70.152.228.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.uaenorth",

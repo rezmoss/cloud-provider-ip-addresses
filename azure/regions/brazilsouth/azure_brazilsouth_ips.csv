@@ -49,6 +49,7 @@ ip_address,ip_type,service,region
 51.59.56.192/29,IPv4,AzureAttestation.BrazilSouth,brazilsouth
 191.233.207.212/30,IPv4,AzureAttestation.BrazilSouth,brazilsouth
 191.238.72.72/30,IPv4,AzureAttestation.BrazilSouth,brazilsouth
+4.228.169.144/28,IPv4,AzureBackup.BrazilSouth,brazilsouth
 191.233.204.0/26,IPv4,AzureBackup.BrazilSouth,brazilsouth
 191.233.204.64/27,IPv4,AzureBackup.BrazilSouth,brazilsouth
 191.234.147.80/28,IPv4,AzureBackup.BrazilSouth,brazilsouth

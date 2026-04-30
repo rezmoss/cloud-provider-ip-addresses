@@ -6,4 +6,5 @@ CREATE TABLE IF NOT EXISTS `azure_windowsvirtualdesktop.qatarcentral_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_windowsvirtualdesktop.qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('40.64.148.160/27', 'IPv4');
 INSERT INTO `azure_windowsvirtualdesktop.qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2010:33::/117', 'IPv6');

@@ -5880,12 +5880,6 @@
     "region": "eastus"
   },
   {
-    "ip_address": "52.224.191.62/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftCloudAppSecurity.EastUS",
-    "region": "eastus"
-  },
-  {
     "ip_address": "52.224.201.216/32",
     "ip_type": "IPv4",
     "service": "MicrosoftCloudAppSecurity.EastUS",
@@ -5995,12 +5989,6 @@
   },
   {
     "ip_address": "104.45.168.104/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftCloudAppSecurity.EastUS",
-    "region": "eastus"
-  },
-  {
-    "ip_address": "104.45.168.106/32",
     "ip_type": "IPv4",
     "service": "MicrosoftCloudAppSecurity.EastUS",
     "region": "eastus"
@@ -10596,13 +10584,13 @@
     "region": "eastus"
   },
   {
-    "ip_address": "57.157.35.16/30",
+    "ip_address": "57.157.35.16/29",
     "ip_type": "IPv4",
     "service": "AzureCloud.eastus",
     "region": "eastus"
   },
   {
-    "ip_address": "57.157.35.20/31",
+    "ip_address": "57.157.35.24/31",
     "ip_type": "IPv4",
     "service": "AzureCloud.eastus",
     "region": "eastus"
@@ -10621,6 +10609,12 @@
   },
   {
     "ip_address": "57.163.26.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.eastus",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "57.169.0.0/17",
     "ip_type": "IPv4",
     "service": "AzureCloud.eastus",
     "region": "eastus"

@@ -328,7 +328,6 @@ ip_address,ip_type,service,region
 52.182.144.224/28,IPv4,AzureMonitor.CentralUS,centralus
 52.182.146.72/29,IPv4,AzureMonitor.CentralUS,centralus
 52.230.224.237/32,IPv4,AzureMonitor.CentralUS,centralus
-52.242.230.209/32,IPv4,AzureMonitor.CentralUS,centralus
 104.208.18.64/29,IPv4,AzureMonitor.CentralUS,centralus
 104.208.33.155/32,IPv4,AzureMonitor.CentralUS,centralus
 104.208.34.98/32,IPv4,AzureMonitor.CentralUS,centralus

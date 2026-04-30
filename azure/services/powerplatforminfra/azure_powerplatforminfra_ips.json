@@ -8466,12 +8466,6 @@
     "region": ""
   },
   {
-    "ip_address": "104.43.76.124/32",
-    "ip_type": "IPv4",
-    "service": "PowerPlatformInfra",
-    "region": ""
-  },
-  {
     "ip_address": "104.45.65.67/32",
     "ip_type": "IPv4",
     "service": "PowerPlatformInfra",

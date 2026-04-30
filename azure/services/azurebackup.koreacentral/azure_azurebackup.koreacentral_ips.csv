@@ -1,4 +1,7 @@
 ip_address,ip_type,service,region
+4.230.165.130/32,IPv4,AzureBackup.KoreaCentral,koreacentral
+4.230.165.132/30,IPv4,AzureBackup.KoreaCentral,koreacentral
+4.230.165.136/29,IPv4,AzureBackup.KoreaCentral,koreacentral
 20.44.27.128/27,IPv4,AzureBackup.KoreaCentral,koreacentral
 20.44.31.192/26,IPv4,AzureBackup.KoreaCentral,koreacentral
 20.194.66.192/26,IPv4,AzureBackup.KoreaCentral,koreacentral

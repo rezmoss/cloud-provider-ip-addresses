@@ -6,8 +6,19 @@ CREATE TABLE IF NOT EXISTS `azure_azurebackup_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('4.166.35.241/32', 'IPv4');
 INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('4.172.96.192/26', 'IPv4');
 INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('4.216.12.0/26', 'IPv4');
+INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('4.219.29.22/32', 'IPv4');
+INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('4.219.29.48/28', 'IPv4');
+INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('4.221.233.187/32', 'IPv4');
+INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('4.221.237.112/28', 'IPv4');
+INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('4.223.198.160/29', 'IPv4');
+INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('4.223.198.168/31', 'IPv4');
+INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('4.228.169.144/28', 'IPv4');
+INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('4.230.165.130/32', 'IPv4');
+INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('4.230.165.132/30', 'IPv4');
+INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('4.230.165.136/29', 'IPv4');
 INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('4.232.28.64/26', 'IPv4');
 INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('4.232.107.0/26', 'IPv4');
 INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('4.232.123.0/26', 'IPv4');
@@ -17,6 +28,8 @@ INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('9.160.44.
 INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('9.160.58.48/28', 'IPv4');
 INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('9.205.36.0/26', 'IPv4');
 INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('9.205.50.80/28', 'IPv4');
+INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('9.235.188.102/31', 'IPv4');
+INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('9.235.190.160/28', 'IPv4');
 INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('13.66.140.192/26', 'IPv4');
 INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('13.66.141.0/27', 'IPv4');
 INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('13.67.12.0/24', 'IPv4');
@@ -41,6 +54,8 @@ INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('13.77.52.
 INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('13.77.52.64/26', 'IPv4');
 INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('13.78.108.32/27', 'IPv4');
 INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('13.78.108.64/26', 'IPv4');
+INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('13.85.230.180/32', 'IPv4');
+INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('13.85.230.208/28', 'IPv4');
 INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('13.86.218.0/25', 'IPv4');
 INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('13.86.218.128/26', 'IPv4');
 INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('13.87.32.34/32', 'IPv4');
@@ -291,6 +306,9 @@ INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('52.246.15
 INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('52.246.155.64/26', 'IPv4');
 INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('57.151.212.64/26', 'IPv4');
 INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('57.151.228.64/28', 'IPv4');
+INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('57.166.13.170/31', 'IPv4');
+INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('57.166.13.172/30', 'IPv4');
+INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('57.166.13.176/29', 'IPv4');
 INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('65.52.251.0/26', 'IPv4');
 INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('65.52.251.64/27', 'IPv4');
 INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('68.210.164.0/26', 'IPv4');
@@ -304,6 +322,9 @@ INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('74.7.44.1
 INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('74.7.44.64/26', 'IPv4');
 INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('74.7.180.80/28', 'IPv4');
 INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('74.7.180.128/26', 'IPv4');
+INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('74.242.176.248/29', 'IPv4');
+INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('74.242.177.80/30', 'IPv4');
+INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('74.242.177.84/32', 'IPv4');
 INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('102.37.81.0/26', 'IPv4');
 INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('102.37.160.192/26', 'IPv4');
 INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('102.133.27.64/26', 'IPv4');
@@ -322,9 +343,15 @@ INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('104.214.1
 INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('104.214.19.128/26', 'IPv4');
 INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('104.214.165.96/27', 'IPv4');
 INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('104.214.165.192/26', 'IPv4');
+INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('134.112.192.188/30', 'IPv4');
+INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('134.112.194.16/28', 'IPv4');
 INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('134.138.70.80/28', 'IPv4');
 INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('134.138.70.128/26', 'IPv4');
 INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('158.23.100.192/26', 'IPv4');
+INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('158.158.138.202/31', 'IPv4');
+INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('158.158.139.0/28', 'IPv4');
+INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('172.192.193.164/30', 'IPv4');
+INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('172.192.193.224/28', 'IPv4');
 INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('172.194.70.64/28', 'IPv4');
 INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('172.194.70.128/26', 'IPv4');
 INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('172.198.86.80/28', 'IPv4');

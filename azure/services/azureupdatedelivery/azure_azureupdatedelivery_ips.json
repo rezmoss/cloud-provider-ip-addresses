@@ -642,12 +642,6 @@
     "region": ""
   },
   {
-    "ip_address": "52.149.21.232/32",
-    "ip_type": "IPv4",
-    "service": "AzureUpdateDelivery",
-    "region": ""
-  },
-  {
     "ip_address": "52.149.22.183/32",
     "ip_type": "IPv4",
     "service": "AzureUpdateDelivery",

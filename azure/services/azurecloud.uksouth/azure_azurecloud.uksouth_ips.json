@@ -1044,7 +1044,7 @@
     "region": "uksouth"
   },
   {
-    "ip_address": "57.157.40.88/31",
+    "ip_address": "57.157.40.88/30",
     "ip_type": "IPv4",
     "service": "AzureCloud.uksouth",
     "region": "uksouth"

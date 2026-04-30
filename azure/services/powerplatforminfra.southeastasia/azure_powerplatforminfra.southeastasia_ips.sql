@@ -58,7 +58,6 @@ INSERT INTO `azure_powerplatforminfra.southeastasia_ips` (`ip_address`, `ip_type
 INSERT INTO `azure_powerplatforminfra.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('57.155.41.0/26', 'IPv4');
 INSERT INTO `azure_powerplatforminfra.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('104.43.76.101/32', 'IPv4');
 INSERT INTO `azure_powerplatforminfra.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('104.43.76.102/32', 'IPv4');
-INSERT INTO `azure_powerplatforminfra.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('104.43.76.124/32', 'IPv4');
 INSERT INTO `azure_powerplatforminfra.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('135.171.39.96/29', 'IPv4');
 INSERT INTO `azure_powerplatforminfra.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('135.171.51.192/26', 'IPv4');
 INSERT INTO `azure_powerplatforminfra.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2002:8000::/57', 'IPv6');

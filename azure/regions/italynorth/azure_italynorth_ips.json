@@ -186,6 +186,18 @@
     "region": "italynorth"
   },
   {
+    "ip_address": "9.235.188.102/31",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.ItalyNorth",
+    "region": "italynorth"
+  },
+  {
+    "ip_address": "9.235.190.160/28",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.ItalyNorth",
+    "region": "italynorth"
+  },
+  {
     "ip_address": "2603:1020:1204::680/121",
     "ip_type": "IPv6",
     "service": "AzureBackup.ItalyNorth",

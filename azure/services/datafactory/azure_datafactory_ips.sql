@@ -530,6 +530,7 @@ INSERT INTO `azure_datafactory_ips` (`ip_address`, `ip_type`) VALUES ('167.105.1
 INSERT INTO `azure_datafactory_ips` (`ip_address`, `ip_type`) VALUES ('167.105.183.0/25', 'IPv4');
 INSERT INTO `azure_datafactory_ips` (`ip_address`, `ip_type`) VALUES ('167.105.183.224/27', 'IPv4');
 INSERT INTO `azure_datafactory_ips` (`ip_address`, `ip_type`) VALUES ('168.61.229.72/29', 'IPv4');
+INSERT INTO `azure_datafactory_ips` (`ip_address`, `ip_type`) VALUES ('168.61.229.160/29', 'IPv4');
 INSERT INTO `azure_datafactory_ips` (`ip_address`, `ip_type`) VALUES ('172.164.238.216/29', 'IPv4');
 INSERT INTO `azure_datafactory_ips` (`ip_address`, `ip_type`) VALUES ('172.164.238.224/28', 'IPv4');
 INSERT INTO `azure_datafactory_ips` (`ip_address`, `ip_type`) VALUES ('172.173.46.160/27', 'IPv4');

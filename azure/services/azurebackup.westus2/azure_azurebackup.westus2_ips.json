@@ -42,6 +42,24 @@
     "region": "westus2"
   },
   {
+    "ip_address": "57.166.13.170/31",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.WestUS2",
+    "region": "westus2"
+  },
+  {
+    "ip_address": "57.166.13.172/30",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.WestUS2",
+    "region": "westus2"
+  },
+  {
+    "ip_address": "57.166.13.176/29",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.WestUS2",
+    "region": "westus2"
+  },
+  {
     "ip_address": "2603:1030:c06:22::200/121",
     "ip_type": "IPv6",
     "service": "AzureBackup.WestUS2",

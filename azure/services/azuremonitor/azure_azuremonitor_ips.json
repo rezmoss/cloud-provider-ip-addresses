@@ -8184,12 +8184,6 @@
     "region": ""
   },
   {
-    "ip_address": "52.242.230.209/32",
-    "ip_type": "IPv4",
-    "service": "AzureMonitor",
-    "region": ""
-  },
-  {
     "ip_address": "52.246.154.152/29",
     "ip_type": "IPv4",
     "service": "AzureMonitor",

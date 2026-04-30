@@ -3366,12 +3366,6 @@
     "region": ""
   },
   {
-    "ip_address": "20.36.240.76/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftCloudAppSecurity",
-    "region": ""
-  },
-  {
     "ip_address": "20.36.244.208/32",
     "ip_type": "IPv4",
     "service": "MicrosoftCloudAppSecurity",
@@ -11382,12 +11376,6 @@
     "region": ""
   },
   {
-    "ip_address": "52.224.191.62/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftCloudAppSecurity",
-    "region": ""
-  },
-  {
     "ip_address": "52.224.201.216/32",
     "ip_type": "IPv4",
     "service": "MicrosoftCloudAppSecurity",
@@ -12217,12 +12205,6 @@
   },
   {
     "ip_address": "104.45.168.104/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftCloudAppSecurity",
-    "region": ""
-  },
-  {
-    "ip_address": "104.45.168.106/32",
     "ip_type": "IPv4",
     "service": "MicrosoftCloudAppSecurity",
     "region": ""
