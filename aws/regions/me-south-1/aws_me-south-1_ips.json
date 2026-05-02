@@ -774,12 +774,6 @@
     "region": "me-south-1"
   },
   {
-    "ip_address": "13.248.106.0/24",
-    "ip_type": "IPv4",
-    "service": "GLOBALACCELERATOR",
-    "region": "me-south-1"
-  },
-  {
     "ip_address": "15.177.87.0/24",
     "ip_type": "IPv4",
     "service": "ROUTE53_HEALTHCHECKS_PUBLISHING",

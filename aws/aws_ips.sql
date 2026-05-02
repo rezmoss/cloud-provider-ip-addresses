@@ -8612,7 +8612,6 @@ INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('93.77.128.0/19', 'IPv4'
 INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('99.82.160.0/24', 'IPv4');
 INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('13.248.108.0/24', 'IPv4');
 INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('99.77.190.0/24', 'IPv4');
-INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('13.248.106.0/24', 'IPv4');
 INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('13.248.99.0/24', 'IPv4');
 INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('13.248.112.0/24', 'IPv4');
 INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('15.197.2.0/24', 'IPv4');

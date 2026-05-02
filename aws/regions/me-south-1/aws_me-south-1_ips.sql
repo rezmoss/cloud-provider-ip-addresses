@@ -135,7 +135,6 @@ INSERT INTO `aws_me-south-1_ips` (`ip_address`, `ip_type`) VALUES ('3.2.85.0/24'
 INSERT INTO `aws_me-south-1_ips` (`ip_address`, `ip_type`) VALUES ('15.177.87.0/24', 'IPv4');
 INSERT INTO `aws_me-south-1_ips` (`ip_address`, `ip_type`) VALUES ('15.220.160.0/21', 'IPv4');
 INSERT INTO `aws_me-south-1_ips` (`ip_address`, `ip_type`) VALUES ('3.2.56.0/24', 'IPv4');
-INSERT INTO `aws_me-south-1_ips` (`ip_address`, `ip_type`) VALUES ('13.248.106.0/24', 'IPv4');
 INSERT INTO `aws_me-south-1_ips` (`ip_address`, `ip_type`) VALUES ('15.177.87.0/24', 'IPv4');
 INSERT INTO `aws_me-south-1_ips` (`ip_address`, `ip_type`) VALUES ('15.185.141.160/27', 'IPv4');
 INSERT INTO `aws_me-south-1_ips` (`ip_address`, `ip_type`) VALUES ('15.185.91.32/27', 'IPv4');
