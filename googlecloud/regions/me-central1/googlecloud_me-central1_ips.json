@@ -24,6 +24,18 @@
     "region": "me-central1"
   },
   {
+    "ip_address": "34.183.67.0/24",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "me-central1"
+  },
+  {
+    "ip_address": "34.184.66.0/24",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "me-central1"
+  },
+  {
     "ip_address": "2600:1901:81c0::/44",
     "ip_type": "IPv6",
     "service": "Google Cloud",

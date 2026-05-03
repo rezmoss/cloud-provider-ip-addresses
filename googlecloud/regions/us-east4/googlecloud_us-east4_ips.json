@@ -138,6 +138,12 @@
     "region": "us-east4"
   },
   {
+    "ip_address": "34.183.68.0/24",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "us-east4"
+  },
+  {
     "ip_address": "34.184.12.0/22",
     "ip_type": "IPv4",
     "service": "Google Cloud",
@@ -151,6 +157,12 @@
   },
   {
     "ip_address": "34.184.59.0/24",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "us-east4"
+  },
+  {
+    "ip_address": "34.184.67.0/24",
     "ip_type": "IPv4",
     "service": "Google Cloud",
     "region": "us-east4"

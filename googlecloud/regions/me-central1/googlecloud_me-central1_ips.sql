@@ -10,4 +10,6 @@ INSERT INTO `googlecloud_me-central1_ips` (`ip_address`, `ip_type`) VALUES ('34.
 INSERT INTO `googlecloud_me-central1_ips` (`ip_address`, `ip_type`) VALUES ('34.18.0.0/16', 'IPv4');
 INSERT INTO `googlecloud_me-central1_ips` (`ip_address`, `ip_type`) VALUES ('34.157.126.0/23', 'IPv4');
 INSERT INTO `googlecloud_me-central1_ips` (`ip_address`, `ip_type`) VALUES ('34.157.252.0/23', 'IPv4');
+INSERT INTO `googlecloud_me-central1_ips` (`ip_address`, `ip_type`) VALUES ('34.183.67.0/24', 'IPv4');
+INSERT INTO `googlecloud_me-central1_ips` (`ip_address`, `ip_type`) VALUES ('34.184.66.0/24', 'IPv4');
 INSERT INTO `googlecloud_me-central1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1901:81c0::/44', 'IPv6');

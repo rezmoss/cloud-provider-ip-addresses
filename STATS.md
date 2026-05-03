@@ -1,10 +1,10 @@
 # IP Range Statistics
 
-Generated: 2026-05-02T00:40:48.846966
+Generated: 2026-05-03T00:42:23.249476
 
-Total IPv4 addresses: 338,844,301
+Total IPv4 addresses: 339,111,309
 Total IPv6 addresses: 5,205,536,956,549,676,351,511,214,500,924,917
-IPv4 space coverage: 7.8893%
+IPv4 space coverage: 7.8956%
 
 | Provider | IPv4 CIDRs | IPv6 CIDRs | Total CIDRs | IPv4 Addresses | Services | Regions |
 |----------|-----------|-----------|------------|---------------|----------|--------|
@@ -22,9 +22,9 @@ IPv4 space coverage: 7.8893%
 | fastly | 19 | 2 | 21 | 304,128 | 0 | 0 |
 | github | 5,136 | 1,262 | 6,398 | 26,970,985 | 11 | 0 |
 | googlebot | 166 | 143 | 309 | 4,960 | 1 | 0 |
-| googlecloud | 862 | 48 | 910 | 16,600,192 | 1 | 48 |
+| googlecloud | 889 | 48 | 937 | 16,870,016 | 1 | 48 |
 | gptbot | 296 | 0 | 296 | 9,808 | 3 | 0 |
-| linode | 5,227 | 94 | 5,321 | 1,346,048 | 0 | 38 |
+| linode | 5,216 | 94 | 5,310 | 1,343,232 | 0 | 38 |
 | oracle | 1,078 | 0 | 1,078 | 4,121,226 | 3 | 55 |
 | perplexitybot | 12 | 0 | 12 | 32 | 2 | 0 |
 | telegram | 9 | 5 | 14 | 11,008 | 0 | 0 |

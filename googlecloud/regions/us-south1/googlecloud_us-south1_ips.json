@@ -48,6 +48,18 @@
     "region": "us-south1"
   },
   {
+    "ip_address": "34.183.66.0/24",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "us-south1"
+  },
+  {
+    "ip_address": "34.184.65.0/24",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "us-south1"
+  },
+  {
     "ip_address": "2600:1901:8140::/44",
     "ip_type": "IPv6",
     "service": "Google Cloud",
