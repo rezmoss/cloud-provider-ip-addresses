@@ -44,6 +44,10 @@ INSERT INTO `apple_private_relay_za-gp_ips` (`ip_address`, `ip_type`) VALUES ('1
 INSERT INTO `apple_private_relay_za-gp_ips` (`ip_address`, `ip_type`) VALUES ('104.28.82.94/32', 'IPv4');
 INSERT INTO `apple_private_relay_za-gp_ips` (`ip_address`, `ip_type`) VALUES ('104.28.136.237/32', 'IPv4');
 INSERT INTO `apple_private_relay_za-gp_ips` (`ip_address`, `ip_type`) VALUES ('104.28.136.255/32', 'IPv4');
+INSERT INTO `apple_private_relay_za-gp_ips` (`ip_address`, `ip_type`) VALUES ('104.28.137.33/32', 'IPv4');
+INSERT INTO `apple_private_relay_za-gp_ips` (`ip_address`, `ip_type`) VALUES ('104.28.137.34/32', 'IPv4');
+INSERT INTO `apple_private_relay_za-gp_ips` (`ip_address`, `ip_type`) VALUES ('104.28.137.35/32', 'IPv4');
+INSERT INTO `apple_private_relay_za-gp_ips` (`ip_address`, `ip_type`) VALUES ('104.28.137.51/32', 'IPv4');
 INSERT INTO `apple_private_relay_za-gp_ips` (`ip_address`, `ip_type`) VALUES ('104.28.138.50/32', 'IPv4');
 INSERT INTO `apple_private_relay_za-gp_ips` (`ip_address`, `ip_type`) VALUES ('104.28.138.95/32', 'IPv4');
 INSERT INTO `apple_private_relay_za-gp_ips` (`ip_address`, `ip_type`) VALUES ('104.28.139.86/32', 'IPv4');

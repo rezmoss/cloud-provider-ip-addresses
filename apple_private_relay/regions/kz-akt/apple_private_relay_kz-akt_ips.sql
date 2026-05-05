@@ -16,6 +16,7 @@ INSERT INTO `apple_private_relay_kz-akt_ips` (`ip_address`, `ip_type`) VALUES ('
 INSERT INTO `apple_private_relay_kz-akt_ips` (`ip_address`, `ip_type`) VALUES ('104.28.106.105/32', 'IPv4');
 INSERT INTO `apple_private_relay_kz-akt_ips` (`ip_address`, `ip_type`) VALUES ('104.28.131.79/32', 'IPv4');
 INSERT INTO `apple_private_relay_kz-akt_ips` (`ip_address`, `ip_type`) VALUES ('104.28.131.80/32', 'IPv4');
+INSERT INTO `apple_private_relay_kz-akt_ips` (`ip_address`, `ip_type`) VALUES ('104.28.137.30/32', 'IPv4');
 INSERT INTO `apple_private_relay_kz-akt_ips` (`ip_address`, `ip_type`) VALUES ('104.28.143.51/32', 'IPv4');
 INSERT INTO `apple_private_relay_kz-akt_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:4738::/45', 'IPv6');
 INSERT INTO `apple_private_relay_kz-akt_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:15bc::/64', 'IPv6');

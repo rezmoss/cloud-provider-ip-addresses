@@ -50,6 +50,11 @@
     "region": "ZA-WC"
   },
   {
+    "ip_address": "104.28.137.50/32",
+    "ip_type": "IPv4",
+    "region": "ZA-WC"
+  },
+  {
     "ip_address": "104.28.138.99/32",
     "ip_type": "IPv4",
     "region": "ZA-WC"

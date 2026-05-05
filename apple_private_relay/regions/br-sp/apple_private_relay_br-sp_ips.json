@@ -8425,6 +8425,11 @@
     "region": "BR-SP"
   },
   {
+    "ip_address": "104.28.137.29/32",
+    "ip_type": "IPv4",
+    "region": "BR-SP"
+  },
+  {
     "ip_address": "104.28.138.30/32",
     "ip_type": "IPv4",
     "region": "BR-SP"

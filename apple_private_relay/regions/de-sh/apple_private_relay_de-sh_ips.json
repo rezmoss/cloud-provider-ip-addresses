@@ -1725,6 +1725,16 @@
     "region": "DE-SH"
   },
   {
+    "ip_address": "104.28.137.43/32",
+    "ip_type": "IPv4",
+    "region": "DE-SH"
+  },
+  {
+    "ip_address": "104.28.137.44/32",
+    "ip_type": "IPv4",
+    "region": "DE-SH"
+  },
+  {
     "ip_address": "104.28.139.184/32",
     "ip_type": "IPv4",
     "region": "DE-SH"

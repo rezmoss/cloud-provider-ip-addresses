@@ -50,6 +50,11 @@
     "region": "KZ-AKT"
   },
   {
+    "ip_address": "104.28.137.30/32",
+    "ip_type": "IPv4",
+    "region": "KZ-AKT"
+  },
+  {
     "ip_address": "104.28.143.51/32",
     "ip_type": "IPv4",
     "region": "KZ-AKT"

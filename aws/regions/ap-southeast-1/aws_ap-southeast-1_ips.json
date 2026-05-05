@@ -2694,6 +2694,12 @@
     "region": "ap-southeast-1"
   },
   {
+    "ip_address": "2605:b140:9a04::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-southeast-1"
+  },
+  {
     "ip_address": "2406:daa0:a800::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -3481,6 +3487,12 @@
   },
   {
     "ip_address": "2406:daeb:8800::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-southeast-1"
+  },
+  {
+    "ip_address": "2605:b140:9a04::/48",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "ap-southeast-1"

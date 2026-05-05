@@ -16,6 +16,7 @@ INSERT INTO `apple_private_relay_za-wc_ips` (`ip_address`, `ip_type`) VALUES ('1
 INSERT INTO `apple_private_relay_za-wc_ips` (`ip_address`, `ip_type`) VALUES ('104.28.82.96/32', 'IPv4');
 INSERT INTO `apple_private_relay_za-wc_ips` (`ip_address`, `ip_type`) VALUES ('104.28.113.204/32', 'IPv4');
 INSERT INTO `apple_private_relay_za-wc_ips` (`ip_address`, `ip_type`) VALUES ('104.28.113.205/32', 'IPv4');
+INSERT INTO `apple_private_relay_za-wc_ips` (`ip_address`, `ip_type`) VALUES ('104.28.137.50/32', 'IPv4');
 INSERT INTO `apple_private_relay_za-wc_ips` (`ip_address`, `ip_type`) VALUES ('104.28.138.99/32', 'IPv4');
 INSERT INTO `apple_private_relay_za-wc_ips` (`ip_address`, `ip_type`) VALUES ('104.28.146.125/32', 'IPv4');
 INSERT INTO `apple_private_relay_za-wc_ips` (`ip_address`, `ip_type`) VALUES ('104.28.146.126/32', 'IPv4');

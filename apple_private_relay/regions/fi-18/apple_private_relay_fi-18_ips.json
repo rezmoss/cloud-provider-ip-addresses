@@ -120,6 +120,16 @@
     "region": "FI-18"
   },
   {
+    "ip_address": "104.28.137.41/32",
+    "ip_type": "IPv4",
+    "region": "FI-18"
+  },
+  {
+    "ip_address": "104.28.137.42/32",
+    "ip_type": "IPv4",
+    "region": "FI-18"
+  },
+  {
     "ip_address": "104.28.138.125/32",
     "ip_type": "IPv4",
     "region": "FI-18"

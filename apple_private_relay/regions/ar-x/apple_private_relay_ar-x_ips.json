@@ -50,6 +50,11 @@
     "region": "AR-X"
   },
   {
+    "ip_address": "104.28.137.55/32",
+    "ip_type": "IPv4",
+    "region": "AR-X"
+  },
+  {
     "ip_address": "104.28.144.20/32",
     "ip_type": "IPv4",
     "region": "AR-X"

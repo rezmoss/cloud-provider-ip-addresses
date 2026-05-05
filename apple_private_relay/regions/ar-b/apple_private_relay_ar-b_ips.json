@@ -100,6 +100,11 @@
     "region": "AR-B"
   },
   {
+    "ip_address": "104.28.137.36/32",
+    "ip_type": "IPv4",
+    "region": "AR-B"
+  },
+  {
     "ip_address": "104.28.138.1/32",
     "ip_type": "IPv4",
     "region": "AR-B"
