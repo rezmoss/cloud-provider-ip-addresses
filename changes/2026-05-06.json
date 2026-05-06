@@ -1,0 +1,13 @@
+{
+  "date": "2026-05-06",
+  "changes": {
+    "aws": {
+      "added": [
+        "32.197.52.0/23"
+      ],
+      "removed": [],
+      "added_count": 1,
+      "removed_count": 0
+    }
+  }
+}
