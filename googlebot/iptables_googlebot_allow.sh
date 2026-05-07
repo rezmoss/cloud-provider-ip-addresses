@@ -1,6 +1,6 @@
 #!/bin/bash
 # Googlebot IP Ranges
-# Updated: 2026-03-24 01:55:35
+# Updated: 2026-05-07 00:40:32
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -8,6 +8,7 @@
 # iptables allow rules for googlebot
 
 ip6tables -A INPUT -s 2001:4860:4801:10::/64 -j ACCEPT
+ip6tables -A INPUT -s 2001:4860:4801:11::/64 -j ACCEPT
 ip6tables -A INPUT -s 2001:4860:4801:12::/64 -j ACCEPT
 ip6tables -A INPUT -s 2001:4860:4801:13::/64 -j ACCEPT
 ip6tables -A INPUT -s 2001:4860:4801:14::/64 -j ACCEPT
@@ -263,6 +264,7 @@ iptables -A INPUT -s 66.249.72.192/27 -j ACCEPT
 iptables -A INPUT -s 66.249.72.224/27 -j ACCEPT
 iptables -A INPUT -s 66.249.72.32/27 -j ACCEPT
 iptables -A INPUT -s 66.249.72.64/27 -j ACCEPT
+iptables -A INPUT -s 66.249.72.96/27 -j ACCEPT
 iptables -A INPUT -s 66.249.73.0/27 -j ACCEPT
 iptables -A INPUT -s 66.249.73.128/27 -j ACCEPT
 iptables -A INPUT -s 66.249.73.160/27 -j ACCEPT

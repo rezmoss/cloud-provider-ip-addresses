@@ -15,6 +15,7 @@ ip_address,ip_type,service,region
 35.71.122.0/24,IPv4,AMAZON,il-central-1
 54.239.1.240/28,IPv4,AMAZON,il-central-1
 35.48.0.0/15,IPv4,AMAZON,il-central-1
+104.255.58.237/32,IPv4,AMAZON,il-central-1
 51.84.0.0/16,IPv4,AMAZON,il-central-1
 1.178.25.0/24,IPv4,AMAZON,il-central-1
 15.251.0.29/32,IPv4,AMAZON,il-central-1
@@ -36,6 +37,7 @@ ip_address,ip_type,service,region
 51.16.0.0/15,IPv4,AMAZON,il-central-1
 15.190.0.0/22,IPv4,AMAZON,il-central-1
 99.151.152.0/21,IPv4,AMAZON,il-central-1
+104.255.58.236/32,IPv4,AMAZON,il-central-1
 51.16.103.128/25,IPv4,AMAZON,il-central-1
 51.16.104.0/23,IPv4,AMAZON,il-central-1
 51.16.204.0/24,IPv4,AMAZON,il-central-1

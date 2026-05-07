@@ -96,6 +96,12 @@
     "region": "il-central-1"
   },
   {
+    "ip_address": "104.255.58.237/32",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "il-central-1"
+  },
+  {
     "ip_address": "51.84.0.0/16",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -217,6 +223,12 @@
   },
   {
     "ip_address": "99.151.152.0/21",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "il-central-1"
+  },
+  {
+    "ip_address": "104.255.58.236/32",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "il-central-1"

@@ -7,6 +7,7 @@ CREATE TABLE IF NOT EXISTS `googlebot_ips` (
 );
 
 INSERT INTO `googlebot_ips` (`ip_address`, `ip_type`) VALUES ('2001:4860:4801:10::/64', 'IPv6');
+INSERT INTO `googlebot_ips` (`ip_address`, `ip_type`) VALUES ('2001:4860:4801:11::/64', 'IPv6');
 INSERT INTO `googlebot_ips` (`ip_address`, `ip_type`) VALUES ('2001:4860:4801:12::/64', 'IPv6');
 INSERT INTO `googlebot_ips` (`ip_address`, `ip_type`) VALUES ('2001:4860:4801:13::/64', 'IPv6');
 INSERT INTO `googlebot_ips` (`ip_address`, `ip_type`) VALUES ('2001:4860:4801:14::/64', 'IPv6');
@@ -262,6 +263,7 @@ INSERT INTO `googlebot_ips` (`ip_address`, `ip_type`) VALUES ('66.249.72.192/27'
 INSERT INTO `googlebot_ips` (`ip_address`, `ip_type`) VALUES ('66.249.72.224/27', 'IPv4');
 INSERT INTO `googlebot_ips` (`ip_address`, `ip_type`) VALUES ('66.249.72.32/27', 'IPv4');
 INSERT INTO `googlebot_ips` (`ip_address`, `ip_type`) VALUES ('66.249.72.64/27', 'IPv4');
+INSERT INTO `googlebot_ips` (`ip_address`, `ip_type`) VALUES ('66.249.72.96/27', 'IPv4');
 INSERT INTO `googlebot_ips` (`ip_address`, `ip_type`) VALUES ('66.249.73.0/27', 'IPv4');
 INSERT INTO `googlebot_ips` (`ip_address`, `ip_type`) VALUES ('66.249.73.128/27', 'IPv4');
 INSERT INTO `googlebot_ips` (`ip_address`, `ip_type`) VALUES ('66.249.73.160/27', 'IPv4');

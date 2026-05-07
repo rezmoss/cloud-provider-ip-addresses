@@ -1,9 +1,9 @@
 # IP Range Statistics
 
-Generated: 2026-05-06T00:39:24.332243
+Generated: 2026-05-07T00:41:39.601674
 
-Total IPv4 addresses: 339,111,516
-Total IPv6 addresses: 5,205,536,985,568,618,388,745,184,339,086,837
+Total IPv4 addresses: 339,114,114
+Total IPv6 addresses: 5,205,537,605,747,582,297,794,024,672,906,741
 IPv4 space coverage: 7.8956%
 
 | Provider | IPv4 CIDRs | IPv6 CIDRs | Total CIDRs | IPv4 Addresses | Services | Regions |
@@ -11,8 +11,8 @@ IPv4 space coverage: 7.8956%
 | amazonbot | 2,053 | 0 | 2,053 | 2,053 | 3 | 0 |
 | apple_private_relay | 41,750 | 245,124 | 286,874 | 105,728 | 0 | 1242 |
 | applebot | 12 | 0 | 12 | 2,400 | 1 | 0 |
-| atlassian | 195 | 57 | 252 | 79,142 | 12 | 18 |
-| aws | 10,188 | 5,419 | 15,607 | 182,147,336 | 26 | 43 |
+| atlassian | 195 | 60 | 255 | 79,142 | 12 | 18 |
+| aws | 10,202 | 5,419 | 15,621 | 182,149,902 | 26 | 43 |
 | azure | 75,264 | 26,252 | 101,516 | 100,956,706 | 3136 | 73 |
 | bingbot | 28 | 0 | 28 | 4,736 | 1 | 0 |
 | cloudflare | 15 | 7 | 22 | 1,524,736 | 0 | 0 |
@@ -21,7 +21,7 @@ IPv4 space coverage: 7.8956%
 | duckduckbot | 319 | 0 | 319 | 319 | 1 | 0 |
 | fastly | 19 | 2 | 21 | 304,128 | 0 | 0 |
 | github | 5,136 | 1,262 | 6,398 | 26,970,985 | 11 | 0 |
-| googlebot | 166 | 143 | 309 | 4,960 | 1 | 0 |
+| googlebot | 167 | 144 | 311 | 4,992 | 1 | 0 |
 | googlecloud | 889 | 48 | 937 | 16,870,016 | 1 | 48 |
 | gptbot | 296 | 0 | 296 | 9,808 | 3 | 0 |
 | linode | 5,216 | 94 | 5,310 | 1,343,232 | 0 | 38 |

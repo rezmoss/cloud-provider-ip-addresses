@@ -15,6 +15,9 @@ INSERT INTO `atlassian_global_ips` (`ip_address`, `ip_type`) VALUES ('168.245.0.
 INSERT INTO `atlassian_global_ips` (`ip_address`, `ip_type`) VALUES ('104.192.138.0/24', 'IPv4');
 INSERT INTO `atlassian_global_ips` (`ip_address`, `ip_type`) VALUES ('104.192.139.0/24', 'IPv4');
 INSERT INTO `atlassian_global_ips` (`ip_address`, `ip_type`) VALUES ('104.192.141.0/24', 'IPv4');
+INSERT INTO `atlassian_global_ips` (`ip_address`, `ip_type`) VALUES ('2401:1d80:32fd::/48', 'IPv6');
+INSERT INTO `atlassian_global_ips` (`ip_address`, `ip_type`) VALUES ('2401:1d80:32fe::/48', 'IPv6');
+INSERT INTO `atlassian_global_ips` (`ip_address`, `ip_type`) VALUES ('2401:1d80:32ff::/48', 'IPv6');
 INSERT INTO `atlassian_global_ips` (`ip_address`, `ip_type`) VALUES ('13.35.248.0/24', 'IPv4');
 INSERT INTO `atlassian_global_ips` (`ip_address`, `ip_type`) VALUES ('13.227.180.0/24', 'IPv4');
 INSERT INTO `atlassian_global_ips` (`ip_address`, `ip_type`) VALUES ('13.227.213.0/24', 'IPv4');

@@ -231,7 +231,6 @@ INSERT INTO `aws_cloudfront_ips` (`ip_address`, `ip_type`) VALUES ('2404:c2c0:50
 INSERT INTO `aws_cloudfront_ips` (`ip_address`, `ip_type`) VALUES ('2600:9000:5308::/45', 'IPv6');
 INSERT INTO `aws_cloudfront_ips` (`ip_address`, `ip_type`) VALUES ('2600:9000:f534::/46', 'IPv6');
 INSERT INTO `aws_cloudfront_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f0:601::/48', 'IPv6');
-INSERT INTO `aws_cloudfront_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f1:14::/48', 'IPv6');
 INSERT INTO `aws_cloudfront_ips` (`ip_address`, `ip_type`) VALUES ('2600:9000:f520::/44', 'IPv6');
 INSERT INTO `aws_cloudfront_ips` (`ip_address`, `ip_type`) VALUES ('2600:9000:5320::/43', 'IPv6');
 INSERT INTO `aws_cloudfront_ips` (`ip_address`, `ip_type`) VALUES ('2600:9000:5310::/44', 'IPv6');

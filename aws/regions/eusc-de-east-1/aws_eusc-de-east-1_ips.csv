@@ -82,6 +82,7 @@ ip_address,ip_type,service,region
 2001:3fc7:a800::/40,IPv6,AMAZON,eusc-de-east-1
 2001:3fc3:8800::/40,IPv6,AMAZON,eusc-de-east-1
 2001:3fc6::/56,IPv6,AMAZON,eusc-de-east-1
+2001:3fc5:1000::/40,IPv6,AMAZON,eusc-de-east-1
 2001:3fc7:2800::/40,IPv6,AMAZON,eusc-de-east-1
 2001:3fc6:100::/48,IPv6,AMAZON,eusc-de-east-1
 2001:3fc6:2::/48,IPv6,AMAZON,eusc-de-east-1
@@ -113,6 +114,7 @@ ip_address,ip_type,service,region
 2001:3fc6:8::/45,IPv6,EC2,eusc-de-east-1
 2001:3fc7:f800::/40,IPv6,EC2,eusc-de-east-1
 2001:3fc3:8800::/40,IPv6,EC2,eusc-de-east-1
+2001:3fc5:1000::/40,IPv6,EC2,eusc-de-east-1
 2001:3fc7:2800::/40,IPv6,EC2,eusc-de-east-1
 2001:3fc6:100::/48,IPv6,EC2,eusc-de-east-1
 2001:3fc6:2::/48,IPv6,EC2,eusc-de-east-1
