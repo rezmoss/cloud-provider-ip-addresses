@@ -6,6 +6,12 @@
     "region": "canadaeast"
   },
   {
+    "ip_address": "4.239.1.32/27",
+    "ip_type": "IPv4",
+    "service": "PowerBI.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
     "ip_address": "4.239.66.192/26",
     "ip_type": "IPv4",
     "service": "PowerBI.CanadaEast",

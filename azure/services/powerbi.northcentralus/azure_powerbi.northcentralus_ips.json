@@ -36,6 +36,12 @@
     "region": "northcentralus"
   },
   {
+    "ip_address": "20.66.142.192/26",
+    "ip_type": "IPv4",
+    "service": "PowerBI.NorthCentralUS",
+    "region": "northcentralus"
+  },
+  {
     "ip_address": "40.80.184.70/31",
     "ip_type": "IPv4",
     "service": "PowerBI.NorthCentralUS",

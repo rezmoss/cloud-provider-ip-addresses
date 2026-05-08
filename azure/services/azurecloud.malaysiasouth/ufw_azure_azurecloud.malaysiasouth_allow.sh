@@ -1,6 +1,6 @@
 #!/bin/bash
 # Azure IP Ranges
-# Updated: 2026-02-11 15:35:27
+# Updated: 2026-05-08 00:40:24
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -32,7 +32,15 @@ ufw allow from 40.100.69.128/26
 ufw allow from 40.107.68.0/23
 ufw allow from 40.107.72.0/24
 ufw allow from 40.112.0.0/19
-ufw allow from 40.120.128.0/25
+ufw allow from 40.120.128.0/27
+ufw allow from 40.120.128.32/30
+ufw allow from 40.120.128.40/29
+ufw allow from 40.120.128.48/30
+ufw allow from 40.120.128.56/29
+ufw allow from 40.120.128.68/30
+ufw allow from 40.120.128.76/30
+ufw allow from 40.120.128.80/28
+ufw allow from 40.120.128.96/27
 ufw allow from 40.120.128.128/27
 ufw allow from 40.120.128.160/29
 ufw allow from 40.120.128.168/30
@@ -95,7 +103,15 @@ ufw allow from 2603:1046:a00:5d::/64
 ufw allow from 2603:1046:140f::/48
 ufw allow from 2603:1046:1500:44::/64
 ufw allow from 2603:1046:2000:220::/59
-ufw allow from 2603:1061:100a::/58
+ufw allow from 2603:1061:100a::/62
+ufw allow from 2603:1061:100a:4::/63
+ufw allow from 2603:1061:100a:8::/62
+ufw allow from 2603:1061:100a:c::/63
+ufw allow from 2603:1061:100a:10::/62
+ufw allow from 2603:1061:100a:16::/63
+ufw allow from 2603:1061:100a:1a::/63
+ufw allow from 2603:1061:100a:1c::/62
+ufw allow from 2603:1061:100a:20::/59
 ufw allow from 2603:1061:100a:40::/61
 ufw allow from 2603:1061:100a:48::/62
 ufw allow from 2603:1061:100a:4c::/63

@@ -150,7 +150,55 @@
     "region": "malaysiasouth"
   },
   {
-    "ip_address": "40.120.128.0/25",
+    "ip_address": "40.120.128.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.malaysiasouth",
+    "region": "malaysiasouth"
+  },
+  {
+    "ip_address": "40.120.128.32/30",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.malaysiasouth",
+    "region": "malaysiasouth"
+  },
+  {
+    "ip_address": "40.120.128.40/29",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.malaysiasouth",
+    "region": "malaysiasouth"
+  },
+  {
+    "ip_address": "40.120.128.48/30",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.malaysiasouth",
+    "region": "malaysiasouth"
+  },
+  {
+    "ip_address": "40.120.128.56/29",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.malaysiasouth",
+    "region": "malaysiasouth"
+  },
+  {
+    "ip_address": "40.120.128.68/30",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.malaysiasouth",
+    "region": "malaysiasouth"
+  },
+  {
+    "ip_address": "40.120.128.76/30",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.malaysiasouth",
+    "region": "malaysiasouth"
+  },
+  {
+    "ip_address": "40.120.128.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.malaysiasouth",
+    "region": "malaysiasouth"
+  },
+  {
+    "ip_address": "40.120.128.96/27",
     "ip_type": "IPv4",
     "service": "AzureCloud.malaysiasouth",
     "region": "malaysiasouth"
@@ -528,7 +576,55 @@
     "region": "malaysiasouth"
   },
   {
-    "ip_address": "2603:1061:100a::/58",
+    "ip_address": "2603:1061:100a::/62",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.malaysiasouth",
+    "region": "malaysiasouth"
+  },
+  {
+    "ip_address": "2603:1061:100a:4::/63",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.malaysiasouth",
+    "region": "malaysiasouth"
+  },
+  {
+    "ip_address": "2603:1061:100a:8::/62",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.malaysiasouth",
+    "region": "malaysiasouth"
+  },
+  {
+    "ip_address": "2603:1061:100a:c::/63",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.malaysiasouth",
+    "region": "malaysiasouth"
+  },
+  {
+    "ip_address": "2603:1061:100a:10::/62",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.malaysiasouth",
+    "region": "malaysiasouth"
+  },
+  {
+    "ip_address": "2603:1061:100a:16::/63",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.malaysiasouth",
+    "region": "malaysiasouth"
+  },
+  {
+    "ip_address": "2603:1061:100a:1a::/63",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.malaysiasouth",
+    "region": "malaysiasouth"
+  },
+  {
+    "ip_address": "2603:1061:100a:1c::/62",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.malaysiasouth",
+    "region": "malaysiasouth"
+  },
+  {
+    "ip_address": "2603:1061:100a:20::/59",
     "ip_type": "IPv6",
     "service": "AzureCloud.malaysiasouth",
     "region": "malaysiasouth"

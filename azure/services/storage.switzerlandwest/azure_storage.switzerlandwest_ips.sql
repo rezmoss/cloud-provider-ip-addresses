@@ -13,4 +13,5 @@ INSERT INTO `azure_storage.switzerlandwest_ips` (`ip_address`, `ip_type`) VALUES
 INSERT INTO `azure_storage.switzerlandwest_ips` (`ip_address`, `ip_type`) VALUES ('20.157.133.0/24', 'IPv4');
 INSERT INTO `azure_storage.switzerlandwest_ips` (`ip_address`, `ip_type`) VALUES ('52.239.250.0/24', 'IPv4');
 INSERT INTO `azure_storage.switzerlandwest_ips` (`ip_address`, `ip_type`) VALUES ('57.150.22.0/24', 'IPv4');
+INSERT INTO `azure_storage.switzerlandwest_ips` (`ip_address`, `ip_type`) VALUES ('145.190.175.0/24', 'IPv4');
 INSERT INTO `azure_storage.switzerlandwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:b05::/48', 'IPv6');

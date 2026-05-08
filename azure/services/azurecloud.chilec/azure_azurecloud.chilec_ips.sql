@@ -73,6 +73,7 @@ INSERT INTO `azure_azurecloud.chilec_ips` (`ip_address`, `ip_type`) VALUES ('260
 INSERT INTO `azure_azurecloud.chilec_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2010:7::/64', 'IPv6');
 INSERT INTO `azure_azurecloud.chilec_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2011:7::/64', 'IPv6');
 INSERT INTO `azure_azurecloud.chilec_ips` (`ip_address`, `ip_type`) VALUES ('2603:1063:136::/56', 'IPv6');
+INSERT INTO `azure_azurecloud.chilec_ips` (`ip_address`, `ip_type`) VALUES ('2603:1063:638::/56', 'IPv6');
 INSERT INTO `azure_azurecloud.chilec_ips` (`ip_address`, `ip_type`) VALUES ('2603:1063:2204:10::/64', 'IPv6');
 INSERT INTO `azure_azurecloud.chilec_ips` (`ip_address`, `ip_type`) VALUES ('2603:1063:2435::/48', 'IPv6');
 INSERT INTO `azure_azurecloud.chilec_ips` (`ip_address`, `ip_type`) VALUES ('2603:1063:2635::/48', 'IPv6');

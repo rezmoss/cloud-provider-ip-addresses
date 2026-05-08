@@ -1,18 +1,6 @@
 [
   {
-    "ip_address": "40.80.217.38/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch.SouthCentralUS",
-    "region": "southcentralus"
-  },
-  {
     "ip_address": "40.119.11.0/26",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch.SouthCentralUS",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "52.185.224.13/32",
     "ip_type": "IPv4",
     "service": "AzureCognitiveSearch.SouthCentralUS",
     "region": "southcentralus"

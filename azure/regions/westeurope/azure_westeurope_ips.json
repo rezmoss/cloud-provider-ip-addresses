@@ -1218,78 +1218,6 @@
     "region": "westeurope"
   },
   {
-    "ip_address": "51.145.177.212/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch.WestEurope",
-    "region": "westeurope"
-  },
-  {
-    "ip_address": "51.145.178.138/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch.WestEurope",
-    "region": "westeurope"
-  },
-  {
-    "ip_address": "51.145.178.140/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch.WestEurope",
-    "region": "westeurope"
-  },
-  {
-    "ip_address": "52.137.24.236/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch.WestEurope",
-    "region": "westeurope"
-  },
-  {
-    "ip_address": "52.137.26.114/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch.WestEurope",
-    "region": "westeurope"
-  },
-  {
-    "ip_address": "52.137.26.155/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch.WestEurope",
-    "region": "westeurope"
-  },
-  {
-    "ip_address": "52.137.26.198/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch.WestEurope",
-    "region": "westeurope"
-  },
-  {
-    "ip_address": "52.137.27.49/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch.WestEurope",
-    "region": "westeurope"
-  },
-  {
-    "ip_address": "52.157.231.64/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch.WestEurope",
-    "region": "westeurope"
-  },
-  {
-    "ip_address": "104.45.64.0/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch.WestEurope",
-    "region": "westeurope"
-  },
-  {
-    "ip_address": "104.45.64.147/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch.WestEurope",
-    "region": "westeurope"
-  },
-  {
-    "ip_address": "104.45.65.89/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch.WestEurope",
-    "region": "westeurope"
-  },
-  {
     "ip_address": "2603:1020:206:1::180/121",
     "ip_type": "IPv6",
     "service": "AzureCognitiveSearch.WestEurope",
@@ -6588,6 +6516,12 @@
     "region": "westeurope"
   },
   {
+    "ip_address": "13.80.212.128/26",
+    "ip_type": "IPv4",
+    "service": "PowerBI.WestEurope",
+    "region": "westeurope"
+  },
+  {
     "ip_address": "20.50.0.0/24",
     "ip_type": "IPv4",
     "service": "PowerBI.WestEurope",
@@ -10350,13 +10284,19 @@
     "region": "westeurope"
   },
   {
-    "ip_address": "57.157.57.0/28",
+    "ip_address": "57.157.57.0/27",
     "ip_type": "IPv4",
     "service": "AzureCloud.westeurope",
     "region": "westeurope"
   },
   {
-    "ip_address": "57.157.57.16/30",
+    "ip_address": "57.157.57.32/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.westeurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "57.157.57.48/31",
     "ip_type": "IPv4",
     "service": "AzureCloud.westeurope",
     "region": "westeurope"

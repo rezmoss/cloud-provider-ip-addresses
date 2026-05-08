@@ -408,6 +408,12 @@
     "region": "koreasouth"
   },
   {
+    "ip_address": "145.190.75.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
     "ip_address": "151.206.67.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.koreasouth",

@@ -1758,6 +1758,12 @@
     "region": "southindia"
   },
   {
+    "ip_address": "74.224.224.224/27",
+    "ip_type": "IPv4",
+    "service": "PowerBI.SouthIndia",
+    "region": "southindia"
+  },
+  {
     "ip_address": "135.13.7.128/29",
     "ip_type": "IPv4",
     "service": "PowerBI.SouthIndia",

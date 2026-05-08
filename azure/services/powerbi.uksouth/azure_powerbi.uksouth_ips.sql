@@ -19,6 +19,7 @@ INSERT INTO `azure_powerbi.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('74.17
 INSERT INTO `azure_powerbi.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('74.177.108.64/26', 'IPv4');
 INSERT INTO `azure_powerbi.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('131.145.145.192/27', 'IPv4');
 INSERT INTO `azure_powerbi.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('172.165.73.32/27', 'IPv4');
+INSERT INTO `azure_powerbi.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('172.167.62.96/27', 'IPv4');
 INSERT INTO `azure_powerbi.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('172.187.71.96/27', 'IPv4');
 INSERT INTO `azure_powerbi.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:705::/122', 'IPv6');
 INSERT INTO `azure_powerbi.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:705::40/123', 'IPv6');

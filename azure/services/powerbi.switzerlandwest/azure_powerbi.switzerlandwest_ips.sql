@@ -12,6 +12,7 @@ INSERT INTO `azure_powerbi.switzerlandwest_ips` (`ip_address`, `ip_type`) VALUES
 INSERT INTO `azure_powerbi.switzerlandwest_ips` (`ip_address`, `ip_type`) VALUES ('51.107.144.208/29', 'IPv4');
 INSERT INTO `azure_powerbi.switzerlandwest_ips` (`ip_address`, `ip_type`) VALUES ('51.107.251.184/30', 'IPv4');
 INSERT INTO `azure_powerbi.switzerlandwest_ips` (`ip_address`, `ip_type`) VALUES ('51.107.255.128/29', 'IPv4');
+INSERT INTO `azure_powerbi.switzerlandwest_ips` (`ip_address`, `ip_type`) VALUES ('57.160.5.112/28', 'IPv4');
 INSERT INTO `azure_powerbi.switzerlandwest_ips` (`ip_address`, `ip_type`) VALUES ('74.242.4.32/27', 'IPv4');
 INSERT INTO `azure_powerbi.switzerlandwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:b04::620/123', 'IPv6');
 INSERT INTO `azure_powerbi.switzerlandwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:b04::640/122', 'IPv6');

@@ -1,6 +1,6 @@
 #!/bin/bash
 # Aws IP Ranges
-# Updated: 2026-05-07 00:39:56
+# Updated: 2026-05-08 00:39:56
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -209,6 +209,7 @@ ufw deny from 120.253.241.160/27
 ufw deny from 15.197.20.0/22
 ufw deny from 52.46.166.0/23
 ufw deny from 3.173.128.0/18
+ufw deny from 51.74.192.0/18
 ufw deny from 15.197.30.0/23
 ufw deny from 15.193.0.0/19
 ufw deny from 64.252.64.0/18
@@ -381,6 +382,7 @@ ufw deny from 65.9.0.0/17
 ufw deny from 108.138.0.0/15
 ufw deny from 120.253.241.160/27
 ufw deny from 3.173.128.0/18
+ufw deny from 51.74.192.0/18
 ufw deny from 64.252.64.0/18
 ufw deny from 15.197.34.0/23
 ufw deny from 15.197.36.0/22
@@ -505,6 +507,7 @@ ufw deny from 2605:9cc0:1ff0:1000::/52
 ufw deny from 2600:9000:2000::/36
 ufw deny from 2600:9000:a300::/40
 ufw deny from 2400:7fc0:500::/40
+ufw deny from 2001:3fc6:20::/43
 ufw deny from 2600:9000:4000::/36
 ufw deny from 2600:9000:fff::/48
 ufw deny from 2600:9000:a400::/40
@@ -570,6 +573,7 @@ ufw deny from 2600:f0f0:5504::/46
 ufw deny from 2600:9000:1000::/36
 ufw deny from 2600:9000:2000::/36
 ufw deny from 2400:7fc0:500::/40
+ufw deny from 2001:3fc6:20::/43
 ufw deny from 2600:9000:4000::/36
 ufw deny from 2600:9000:fff::/48
 ufw deny from 2409:8c00:2421:400::/56

@@ -36,6 +36,12 @@
     "region": "southcentralus"
   },
   {
+    "ip_address": "13.85.231.128/26",
+    "ip_type": "IPv4",
+    "service": "PowerBI.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
     "ip_address": "20.65.133.80/29",
     "ip_type": "IPv4",
     "service": "PowerBI.SouthCentralUS",

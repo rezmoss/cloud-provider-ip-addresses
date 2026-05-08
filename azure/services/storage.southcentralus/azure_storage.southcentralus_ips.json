@@ -546,6 +546,12 @@
     "region": "southcentralus"
   },
   {
+    "ip_address": "145.190.174.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
     "ip_address": "168.62.128.128/26",
     "ip_type": "IPv4",
     "service": "Storage.SouthCentralUS",

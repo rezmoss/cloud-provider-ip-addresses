@@ -54,6 +54,12 @@
     "region": "switzerlandn"
   },
   {
+    "ip_address": "74.242.177.144/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
     "ip_address": "2603:1020:a04::/122",
     "ip_type": "IPv6",
     "service": "PowerBI.SwitzerlandNorth",

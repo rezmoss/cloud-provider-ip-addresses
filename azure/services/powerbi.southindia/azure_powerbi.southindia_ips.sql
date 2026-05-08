@@ -16,6 +16,7 @@ INSERT INTO `azure_powerbi.southindia_ips` (`ip_address`, `ip_type`) VALUES ('20
 INSERT INTO `azure_powerbi.southindia_ips` (`ip_address`, `ip_type`) VALUES ('52.172.85.16/29', 'IPv4');
 INSERT INTO `azure_powerbi.southindia_ips` (`ip_address`, `ip_type`) VALUES ('52.172.116.184/30', 'IPv4');
 INSERT INTO `azure_powerbi.southindia_ips` (`ip_address`, `ip_type`) VALUES ('52.172.116.190/31', 'IPv4');
+INSERT INTO `azure_powerbi.southindia_ips` (`ip_address`, `ip_type`) VALUES ('74.224.224.224/27', 'IPv4');
 INSERT INTO `azure_powerbi.southindia_ips` (`ip_address`, `ip_type`) VALUES ('135.13.7.128/29', 'IPv4');
 INSERT INTO `azure_powerbi.southindia_ips` (`ip_address`, `ip_type`) VALUES ('135.13.51.128/27', 'IPv4');
 INSERT INTO `azure_powerbi.southindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:c06::620/123', 'IPv6');

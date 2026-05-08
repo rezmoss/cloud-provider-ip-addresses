@@ -10,7 +10,9 @@ INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('4.145.79.96/2
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('4.150.35.64/27', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('4.150.35.96/28', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('4.150.35.112/29', 'IPv4');
+INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('4.161.21.112/29', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('4.171.26.72/29', 'IPv4');
+INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('4.188.30.192/27', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('4.189.206.176/28', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('4.189.206.192/29', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('4.190.132.0/28', 'IPv4');
@@ -21,6 +23,7 @@ INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('4.191.89.64/2
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('4.192.250.208/28', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('4.195.7.224/27', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('4.198.215.224/27', 'IPv4');
+INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('4.198.248.224/27', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('4.199.114.144/29', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('4.199.114.160/27', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('4.199.115.0/25', 'IPv4');
@@ -35,8 +38,10 @@ INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('4.207.247.176
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('4.208.118.128/26', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('4.209.3.192/26', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('4.209.4.0/23', 'IPv4');
+INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('4.209.97.128/26', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('4.218.236.192/27', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('4.219.252.64/27', 'IPv4');
+INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('4.228.174.128/26', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('4.229.115.96/27', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('4.229.255.144/28', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('4.229.255.160/27', 'IPv4');
@@ -45,6 +50,7 @@ INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('4.232.43.192/
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('4.232.98.108/31', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('4.232.98.160/30', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('4.232.98.168/29', 'IPv4');
+INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('4.239.1.32/27', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('4.239.66.192/26', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('4.243.117.16/29', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('4.243.139.160/28', 'IPv4');
@@ -68,7 +74,11 @@ INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('13.73.248.48/
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('13.73.248.64/27', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('13.80.200.0/23', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('13.80.202.0/26', 'IPv4');
+INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('13.80.212.128/26', 'IPv4');
+INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('13.85.231.128/26', 'IPv4');
+INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('20.6.243.0/26', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('20.11.219.128/26', 'IPv4');
+INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('20.11.223.192/26', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('20.14.120.8/29', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('20.14.121.160/29', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('20.14.121.184/29', 'IPv4');
@@ -200,6 +210,7 @@ INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('20.65.134.224
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('20.65.134.240/30', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('20.65.135.16/28', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('20.66.132.0/26', 'IPv4');
+INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('20.66.142.192/26', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('20.69.4.224/28', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('20.69.4.240/30', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('20.70.221.0/28', 'IPv4');
@@ -524,8 +535,11 @@ INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('57.158.17.64/
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('57.158.61.248/29', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('57.158.62.64/26', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('57.158.62.128/25', 'IPv4');
+INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('57.160.5.112/28', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('57.162.135.0/25', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('57.162.135.128/28', 'IPv4');
+INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('57.162.213.0/26', 'IPv4');
+INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('57.167.180.64/26', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('68.155.79.224/27', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('68.155.128.0/28', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('68.155.128.16/29', 'IPv4');
@@ -576,9 +590,11 @@ INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('74.177.108.64
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('74.178.76.224/28', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('74.178.240.160/28', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('74.179.172.0/26', 'IPv4');
+INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('74.224.224.224/27', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('74.226.38.112/28', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('74.226.38.160/27', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('74.242.4.32/27', 'IPv4');
+INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('74.242.177.144/28', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('74.243.127.224/27', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('74.249.120.64/26', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('102.37.81.140/30', 'IPv4');
@@ -603,6 +619,7 @@ INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('130.213.74.22
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('130.213.75.0/26', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('131.145.145.192/27', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('134.112.169.96/29', 'IPv4');
+INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('134.112.194.112/29', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('134.138.76.126/31', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('134.138.79.84/30', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('134.138.82.0/29', 'IPv4');
@@ -632,6 +649,7 @@ INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('167.105.182.1
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('168.61.232.60/30', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('168.61.239.8/30', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('172.165.73.32/27', 'IPv4');
+INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('172.167.62.96/27', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('172.172.252.119/32', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('172.172.255.174/31', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('172.175.125.0/26', 'IPv4');
@@ -644,15 +662,18 @@ INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('172.185.241.1
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('172.186.26.16/28', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('172.186.55.128/26', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('172.186.74.64/27', 'IPv4');
+INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('172.186.117.0/26', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('172.187.32.32/27', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('172.187.71.96/27', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('172.188.234.64/27', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('172.191.219.102/31', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('172.192.81.128/27', 'IPv4');
+INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('172.192.194.32/27', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('172.194.79.134/31', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('172.194.81.56/30', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('172.194.81.96/29', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('172.196.59.232/29', 'IPv4');
+INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('172.196.77.40/29', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('172.198.95.142/31', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('172.198.95.152/30', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('172.198.96.208/29', 'IPv4');

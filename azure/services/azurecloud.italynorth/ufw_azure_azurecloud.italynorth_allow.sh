@@ -1,6 +1,6 @@
 #!/bin/bash
 # Azure IP Ranges
-# Updated: 2026-04-18 00:31:24
+# Updated: 2026-05-08 00:40:24
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -48,7 +48,22 @@ ufw allow from 40.101.113.0/25
 ufw allow from 40.101.113.128/26
 ufw allow from 40.107.163.0/24
 ufw allow from 40.107.164.0/23
-ufw allow from 40.120.132.0/23
+ufw allow from 40.120.132.0/26
+ufw allow from 40.120.132.72/30
+ufw allow from 40.120.132.84/30
+ufw allow from 40.120.132.92/30
+ufw allow from 40.120.132.96/27
+ufw allow from 40.120.132.128/28
+ufw allow from 40.120.132.144/29
+ufw allow from 40.120.132.156/30
+ufw allow from 40.120.132.164/30
+ufw allow from 40.120.132.168/29
+ufw allow from 40.120.132.176/28
+ufw allow from 40.120.132.192/26
+ufw allow from 40.120.133.0/25
+ufw allow from 40.120.133.128/26
+ufw allow from 40.120.133.192/27
+ufw allow from 40.120.133.224/28
 ufw allow from 40.120.134.0/25
 ufw allow from 40.120.134.128/26
 ufw allow from 40.120.134.192/27
@@ -95,7 +110,23 @@ ufw allow from 2603:1026:900:4a::/64
 ufw allow from 2603:1026:2412::/48
 ufw allow from 2603:1026:2500:3c::/64
 ufw allow from 2603:1026:3000:240::/59
-ufw allow from 2603:1061:100b::/56
+ufw allow from 2603:1061:100b::/60
+ufw allow from 2603:1061:100b:10::/62
+ufw allow from 2603:1061:100b:18::/63
+ufw allow from 2603:1061:100b:1e::/63
+ufw allow from 2603:1061:100b:22::/63
+ufw allow from 2603:1061:100b:24::/62
+ufw allow from 2603:1061:100b:28::/61
+ufw allow from 2603:1061:100b:30::/60
+ufw allow from 2603:1061:100b:42::/63
+ufw allow from 2603:1061:100b:46::/63
+ufw allow from 2603:1061:100b:48::/61
+ufw allow from 2603:1061:100b:50::/60
+ufw allow from 2603:1061:100b:60::/59
+ufw allow from 2603:1061:100b:80::/58
+ufw allow from 2603:1061:100b:c0::/59
+ufw allow from 2603:1061:100b:e0::/60
+ufw allow from 2603:1061:100b:f8::/61
 ufw allow from 2603:1061:100b:100::/58
 ufw allow from 2603:1061:100b:140::/59
 ufw allow from 2603:1061:100b:160::/61

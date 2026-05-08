@@ -12,6 +12,7 @@ INSERT INTO `azure_powerbi.southcentralus_ips` (`ip_address`, `ip_type`) VALUES 
 INSERT INTO `azure_powerbi.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('13.73.248.4/31', 'IPv4');
 INSERT INTO `azure_powerbi.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('13.73.248.48/28', 'IPv4');
 INSERT INTO `azure_powerbi.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('13.73.248.64/27', 'IPv4');
+INSERT INTO `azure_powerbi.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('13.85.231.128/26', 'IPv4');
 INSERT INTO `azure_powerbi.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('20.65.133.80/29', 'IPv4');
 INSERT INTO `azure_powerbi.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('20.65.134.192/27', 'IPv4');
 INSERT INTO `azure_powerbi.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('20.65.134.224/28', 'IPv4');

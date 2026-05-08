@@ -432,6 +432,7 @@ INSERT INTO `azure_centralindia_ips` (`ip_address`, `ip_type`) VALUES ('104.211.
 INSERT INTO `azure_centralindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:a06:402::88/125', 'IPv6');
 INSERT INTO `azure_centralindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:a06:802::88/125', 'IPv6');
 INSERT INTO `azure_centralindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:a06:c02::88/125', 'IPv6');
+INSERT INTO `azure_centralindia_ips` (`ip_address`, `ip_type`) VALUES ('4.188.30.192/27', 'IPv4');
 INSERT INTO `azure_centralindia_ips` (`ip_address`, `ip_type`) VALUES ('4.247.186.224/28', 'IPv4');
 INSERT INTO `azure_centralindia_ips` (`ip_address`, `ip_type`) VALUES ('4.247.187.0/26', 'IPv4');
 INSERT INTO `azure_centralindia_ips` (`ip_address`, `ip_type`) VALUES ('20.192.47.128/30', 'IPv4');
@@ -529,10 +530,8 @@ INSERT INTO `azure_centralindia_ips` (`ip_address`, `ip_type`) VALUES ('13.105.9
 INSERT INTO `azure_centralindia_ips` (`ip_address`, `ip_type`) VALUES ('13.105.98.64/27', 'IPv4');
 INSERT INTO `azure_centralindia_ips` (`ip_address`, `ip_type`) VALUES ('20.20.84.0/24', 'IPv4');
 INSERT INTO `azure_centralindia_ips` (`ip_address`, `ip_type`) VALUES ('20.20.85.0/25', 'IPv4');
-INSERT INTO `azure_centralindia_ips` (`ip_address`, `ip_type`) VALUES ('20.20.85.128/27', 'IPv4');
-INSERT INTO `azure_centralindia_ips` (`ip_address`, `ip_type`) VALUES ('20.20.85.160/28', 'IPv4');
-INSERT INTO `azure_centralindia_ips` (`ip_address`, `ip_type`) VALUES ('20.20.85.176/29', 'IPv4');
-INSERT INTO `azure_centralindia_ips` (`ip_address`, `ip_type`) VALUES ('20.20.85.184/30', 'IPv4');
+INSERT INTO `azure_centralindia_ips` (`ip_address`, `ip_type`) VALUES ('20.20.85.128/26', 'IPv4');
+INSERT INTO `azure_centralindia_ips` (`ip_address`, `ip_type`) VALUES ('20.20.85.192/27', 'IPv4');
 INSERT INTO `azure_centralindia_ips` (`ip_address`, `ip_type`) VALUES ('20.33.9.0/24', 'IPv4');
 INSERT INTO `azure_centralindia_ips` (`ip_address`, `ip_type`) VALUES ('20.33.19.0/24', 'IPv4');
 INSERT INTO `azure_centralindia_ips` (`ip_address`, `ip_type`) VALUES ('20.33.28.0/24', 'IPv4');

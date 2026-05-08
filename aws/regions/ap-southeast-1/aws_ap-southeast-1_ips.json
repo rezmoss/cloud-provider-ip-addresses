@@ -3036,6 +3036,12 @@
     "region": "ap-southeast-1"
   },
   {
+    "ip_address": "2406:daf6:8000::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-southeast-1"
+  },
+  {
     "ip_address": "2406:da18:7ff:f800::/56",
     "ip_type": "IPv6",
     "service": "ROUTE53_HEALTHCHECKS",

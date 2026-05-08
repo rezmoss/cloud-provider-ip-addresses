@@ -444,18 +444,6 @@
     "region": "uksouth"
   },
   {
-    "ip_address": "51.145.124.157/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch.UKSouth",
-    "region": "uksouth"
-  },
-  {
-    "ip_address": "51.145.124.158/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch.UKSouth",
-    "region": "uksouth"
-  },
-  {
     "ip_address": "2603:1020:705:1::180/121",
     "ip_type": "IPv6",
     "service": "AzureCognitiveSearch.UKSouth",
@@ -3913,6 +3901,12 @@
   },
   {
     "ip_address": "172.165.73.32/27",
+    "ip_type": "IPv4",
+    "service": "PowerBI.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "172.167.62.96/27",
     "ip_type": "IPv4",
     "service": "PowerBI.UKSouth",
     "region": "uksouth"

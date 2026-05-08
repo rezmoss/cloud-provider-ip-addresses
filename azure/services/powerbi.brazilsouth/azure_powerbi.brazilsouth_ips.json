@@ -6,6 +6,12 @@
     "region": "brazilsouth"
   },
   {
+    "ip_address": "4.228.174.128/26",
+    "ip_type": "IPv4",
+    "service": "PowerBI.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
     "ip_address": "20.206.178.24/29",
     "ip_type": "IPv4",
     "service": "PowerBI.BrazilSouth",

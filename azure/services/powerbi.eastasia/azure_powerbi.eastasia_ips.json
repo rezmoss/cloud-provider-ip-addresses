@@ -12,6 +12,12 @@
     "region": "eastasia"
   },
   {
+    "ip_address": "20.6.243.0/26",
+    "ip_type": "IPv4",
+    "service": "PowerBI.EastAsia",
+    "region": "eastasia"
+  },
+  {
     "ip_address": "20.189.104.70/31",
     "ip_type": "IPv4",
     "service": "PowerBI.EastAsia",

@@ -6,6 +6,12 @@
     "region": "denmarkeast"
   },
   {
+    "ip_address": "9.205.71.232/29",
+    "ip_type": "IPv4",
+    "service": "StorageSyncService.DenmarkEast",
+    "region": "denmarkeast"
+  },
+  {
     "ip_address": "9.205.75.40/29",
     "ip_type": "IPv4",
     "service": "StorageSyncService.DenmarkEast",

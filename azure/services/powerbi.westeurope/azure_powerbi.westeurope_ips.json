@@ -12,6 +12,12 @@
     "region": "westeurope"
   },
   {
+    "ip_address": "13.80.212.128/26",
+    "ip_type": "IPv4",
+    "service": "PowerBI.WestEurope",
+    "region": "westeurope"
+  },
+  {
     "ip_address": "20.50.0.0/24",
     "ip_type": "IPv4",
     "service": "PowerBI.WestEurope",

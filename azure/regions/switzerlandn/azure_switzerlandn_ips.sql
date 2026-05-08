@@ -353,6 +353,7 @@ INSERT INTO `azure_switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('51.107.4
 INSERT INTO `azure_switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('51.107.243.168/30', 'IPv4');
 INSERT INTO `azure_switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('51.107.247.224/29', 'IPv4');
 INSERT INTO `azure_switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('74.161.139.160/28', 'IPv4');
+INSERT INTO `azure_switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('74.242.177.144/28', 'IPv4');
 INSERT INTO `azure_switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:a04::/122', 'IPv6');
 INSERT INTO `azure_switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:a04::40/123', 'IPv6');
 INSERT INTO `azure_switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:a04:1::5e0/123', 'IPv6');

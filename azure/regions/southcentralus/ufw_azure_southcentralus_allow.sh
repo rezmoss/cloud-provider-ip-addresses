@@ -1,6 +1,6 @@
 #!/bin/bash
 # Azure IP Ranges
-# Updated: 2026-04-30 00:40:49
+# Updated: 2026-05-08 00:40:27
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -166,9 +166,7 @@ ufw allow from 2603:1030:807:c02::180/121
 ufw allow from 13.73.248.0/30
 ufw allow from 20.45.123.112/30
 ufw allow from 2603:1030:807:1::20/123
-ufw allow from 40.80.217.38/32
 ufw allow from 40.119.11.0/26
-ufw allow from 52.185.224.13/32
 ufw allow from 2603:1030:807:1::180/121
 ufw allow from 13.65.86.57/32
 ufw allow from 13.73.244.224/27
@@ -611,6 +609,7 @@ ufw allow from 135.130.172.0/23
 ufw allow from 135.130.233.128/25
 ufw allow from 135.130.234.0/24
 ufw allow from 145.190.142.0/24
+ufw allow from 145.190.174.0/24
 ufw allow from 168.62.128.128/26
 ufw allow from 2603:1030:80b::/49
 ufw allow from 2603:1030:80b:8000::/58
@@ -757,6 +756,7 @@ ufw allow from 4.150.35.112/29
 ufw allow from 13.73.248.4/31
 ufw allow from 13.73.248.48/28
 ufw allow from 13.73.248.64/27
+ufw allow from 13.85.231.128/26
 ufw allow from 20.65.133.80/29
 ufw allow from 20.65.134.192/27
 ufw allow from 20.65.134.224/28
@@ -1191,10 +1191,10 @@ ufw allow from 57.150.52.0/23
 ufw allow from 57.150.62.0/23
 ufw allow from 57.150.156.0/23
 ufw allow from 57.150.204.0/23
-ufw allow from 57.157.76.0/25
-ufw allow from 57.157.76.128/26
-ufw allow from 57.157.76.192/27
-ufw allow from 57.157.76.224/29
+ufw allow from 57.157.76.0/24
+ufw allow from 57.157.77.0/28
+ufw allow from 57.157.77.16/30
+ufw allow from 57.157.77.20/31
 ufw allow from 57.163.10.0/23
 ufw allow from 65.52.32.0/21
 ufw allow from 70.37.48.0/20
@@ -1232,6 +1232,7 @@ ufw allow from 145.190.43.0/24
 ufw allow from 145.190.44.0/22
 ufw allow from 145.190.48.0/22
 ufw allow from 145.190.142.0/24
+ufw allow from 145.190.174.0/24
 ufw allow from 151.206.80.0/24
 ufw allow from 151.206.102.0/23
 ufw allow from 151.206.132.0/24
@@ -1352,8 +1353,9 @@ ufw allow from 2603:1030:804:540::/58
 ufw allow from 2603:1030:804:580::/57
 ufw allow from 2603:1030:804:600::/58
 ufw allow from 2603:1030:804:640::/59
-ufw allow from 2603:1030:804:660::/62
-ufw allow from 2603:1030:804:664::/64
+ufw allow from 2603:1030:804:660::/60
+ufw allow from 2603:1030:804:670::/61
+ufw allow from 2603:1030:804:678::/62
 ufw allow from 2603:1030:805::/48
 ufw allow from 2603:1030:806::/48
 ufw allow from 2603:1030:807::/48

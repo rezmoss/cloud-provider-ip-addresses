@@ -6,6 +6,12 @@
     "region": "newzealandnorth"
   },
   {
+    "ip_address": "172.196.77.40/29",
+    "ip_type": "IPv4",
+    "service": "PowerBI.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
     "ip_address": "172.204.165.78/31",
     "ip_type": "IPv4",
     "service": "PowerBI.NewZealandNorth",

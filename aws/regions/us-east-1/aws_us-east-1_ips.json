@@ -4740,6 +4740,12 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "32.197.114.0/23",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "32.197.52.0/23",
     "ip_type": "IPv4",
     "service": "AMAZON",

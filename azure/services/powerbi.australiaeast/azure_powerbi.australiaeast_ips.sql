@@ -8,6 +8,7 @@ CREATE TABLE IF NOT EXISTS `azure_powerbi.australiaeast_ips` (
 
 INSERT INTO `azure_powerbi.australiaeast_ips` (`ip_address`, `ip_type`) VALUES ('4.195.7.224/27', 'IPv4');
 INSERT INTO `azure_powerbi.australiaeast_ips` (`ip_address`, `ip_type`) VALUES ('4.198.215.224/27', 'IPv4');
+INSERT INTO `azure_powerbi.australiaeast_ips` (`ip_address`, `ip_type`) VALUES ('4.198.248.224/27', 'IPv4');
 INSERT INTO `azure_powerbi.australiaeast_ips` (`ip_address`, `ip_type`) VALUES ('20.37.195.24/31', 'IPv4');
 INSERT INTO `azure_powerbi.australiaeast_ips` (`ip_address`, `ip_type`) VALUES ('20.37.195.48/29', 'IPv4');
 INSERT INTO `azure_powerbi.australiaeast_ips` (`ip_address`, `ip_type`) VALUES ('20.37.195.64/28', 'IPv4');

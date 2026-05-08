@@ -696,6 +696,18 @@
     "region": ""
   },
   {
+    "ip_address": "48.193.77.68/30",
+    "ip_type": "IPv4",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "48.194.162.220/30",
+    "ip_type": "IPv4",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
     "ip_address": "48.195.61.117/32",
     "ip_type": "IPv4",
     "service": "M365ManagementActivityApiWebhook",
@@ -1134,6 +1146,18 @@
     "region": ""
   },
   {
+    "ip_address": "172.196.77.36/30",
+    "ip_type": "IPv4",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "172.197.132.28/30",
+    "ip_type": "IPv4",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
     "ip_address": "172.204.180.0/31",
     "ip_type": "IPv4",
     "service": "M365ManagementActivityApiWebhook",
@@ -1225,6 +1249,12 @@
   },
   {
     "ip_address": "2603:1010:502:4::624/127",
+    "ip_type": "IPv6",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1010:502:6::298/126",
     "ip_type": "IPv6",
     "service": "M365ManagementActivityApiWebhook",
     "region": ""
@@ -1596,6 +1626,12 @@
     "region": ""
   },
   {
+    "ip_address": "2603:1030:b04:10::258/126",
+    "ip_type": "IPv6",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
     "ip_address": "2603:1030:f05::34e/127",
     "ip_type": "IPv6",
     "service": "M365ManagementActivityApiWebhook",
@@ -1818,7 +1854,19 @@
     "region": ""
   },
   {
+    "ip_address": "2603:1040:1602:5::50c/126",
+    "ip_type": "IPv6",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
     "ip_address": "2603:1040:1802:4::44a/127",
+    "ip_type": "IPv6",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1040:1802:7::660/126",
     "ip_type": "IPv6",
     "service": "M365ManagementActivityApiWebhook",
     "region": ""

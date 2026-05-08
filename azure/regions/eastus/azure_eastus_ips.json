@@ -870,30 +870,6 @@
     "region": "eastus"
   },
   {
-    "ip_address": "52.151.235.150/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch.EastUS",
-    "region": "eastus"
-  },
-  {
-    "ip_address": "52.151.235.242/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch.EastUS",
-    "region": "eastus"
-  },
-  {
-    "ip_address": "52.188.217.235/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch.EastUS",
-    "region": "eastus"
-  },
-  {
-    "ip_address": "52.188.218.239/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch.EastUS",
-    "region": "eastus"
-  },
-  {
     "ip_address": "2603:1030:210:1::180/121",
     "ip_type": "IPv6",
     "service": "AzureCognitiveSearch.EastUS",
@@ -4416,6 +4392,12 @@
     "region": "eastus"
   },
   {
+    "ip_address": "145.190.173.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.EastUS",
+    "region": "eastus"
+  },
+  {
     "ip_address": "168.62.32.0/26",
     "ip_type": "IPv4",
     "service": "Storage.EastUS",
@@ -6355,6 +6337,12 @@
   },
   {
     "ip_address": "57.162.135.128/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "57.162.213.0/26",
     "ip_type": "IPv4",
     "service": "PowerBI.EastUS",
     "region": "eastus"
@@ -10578,19 +10566,25 @@
     "region": "eastus"
   },
   {
-    "ip_address": "57.157.35.0/28",
+    "ip_address": "57.157.35.0/27",
     "ip_type": "IPv4",
     "service": "AzureCloud.eastus",
     "region": "eastus"
   },
   {
-    "ip_address": "57.157.35.16/29",
+    "ip_address": "57.157.35.32/28",
     "ip_type": "IPv4",
     "service": "AzureCloud.eastus",
     "region": "eastus"
   },
   {
-    "ip_address": "57.157.35.24/31",
+    "ip_address": "57.157.35.48/29",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.eastus",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "57.157.35.56/31",
     "ip_type": "IPv4",
     "service": "AzureCloud.eastus",
     "region": "eastus"
@@ -10927,6 +10921,12 @@
   },
   {
     "ip_address": "145.190.169.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.eastus",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "145.190.173.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.eastus",
     "region": "eastus"

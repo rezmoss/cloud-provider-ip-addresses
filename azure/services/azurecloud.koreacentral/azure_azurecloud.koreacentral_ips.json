@@ -696,7 +696,7 @@
     "region": "koreacentral"
   },
   {
-    "ip_address": "57.157.88.128/28",
+    "ip_address": "57.157.88.128/27",
     "ip_type": "IPv4",
     "service": "AzureCloud.koreacentral",
     "region": "koreacentral"

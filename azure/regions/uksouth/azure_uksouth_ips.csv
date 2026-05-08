@@ -73,8 +73,6 @@ ip_address,ip_type,service,region
 51.104.24.64/30,IPv4,AzureBotService.UKSouth,uksouth
 2603:1020:705:1::20/123,IPv6,AzureBotService.UKSouth,uksouth
 51.104.25.64/26,IPv4,AzureCognitiveSearch.UKSouth,uksouth
-51.145.124.157/32,IPv4,AzureCognitiveSearch.UKSouth,uksouth
-51.145.124.158/32,IPv4,AzureCognitiveSearch.UKSouth,uksouth
 2603:1020:705:1::180/121,IPv6,AzureCognitiveSearch.UKSouth,uksouth
 20.90.124.134/32,IPv4,AzureConnectors.UKSouth,uksouth
 20.90.125.211/32,IPv4,AzureConnectors.UKSouth,uksouth
@@ -652,6 +650,7 @@ ip_address,ip_type,service,region
 74.177.108.64/26,IPv4,PowerBI.UKSouth,uksouth
 131.145.145.192/27,IPv4,PowerBI.UKSouth,uksouth
 172.165.73.32/27,IPv4,PowerBI.UKSouth,uksouth
+172.167.62.96/27,IPv4,PowerBI.UKSouth,uksouth
 172.187.71.96/27,IPv4,PowerBI.UKSouth,uksouth
 2603:1020:705::/122,IPv6,PowerBI.UKSouth,uksouth
 2603:1020:705::40/123,IPv6,PowerBI.UKSouth,uksouth

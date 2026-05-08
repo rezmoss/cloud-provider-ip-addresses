@@ -360,6 +360,12 @@
     "region": "switzerlandw"
   },
   {
+    "ip_address": "145.190.175.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.switzerlandw",
+    "region": "switzerlandw"
+  },
+  {
     "ip_address": "2603:1020:b00::/47",
     "ip_type": "IPv6",
     "service": "AzureCloud.switzerlandw",

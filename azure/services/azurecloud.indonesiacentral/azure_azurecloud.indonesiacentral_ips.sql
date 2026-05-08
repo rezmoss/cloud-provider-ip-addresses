@@ -80,6 +80,7 @@ INSERT INTO `azure_azurecloud.indonesiacentral_ips` (`ip_address`, `ip_type`) VA
 INSERT INTO `azure_azurecloud.indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2010:43::/64', 'IPv6');
 INSERT INTO `azure_azurecloud.indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2011:43::/64', 'IPv6');
 INSERT INTO `azure_azurecloud.indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1063:137::/56', 'IPv6');
+INSERT INTO `azure_azurecloud.indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1063:639::/56', 'IPv6');
 INSERT INTO `azure_azurecloud.indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1063:2202:60::/64', 'IPv6');
 INSERT INTO `azure_azurecloud.indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1063:2436::/48', 'IPv6');
 INSERT INTO `azure_azurecloud.indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1063:2636::/48', 'IPv6');

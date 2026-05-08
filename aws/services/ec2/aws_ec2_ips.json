@@ -21336,6 +21336,12 @@
     "region": "us-east-2"
   },
   {
+    "ip_address": "2001:3fc5:2000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eusc-de-east-1"
+  },
+  {
     "ip_address": "2406:daea:7000::/40",
     "ip_type": "IPv6",
     "service": "EC2",

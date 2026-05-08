@@ -6,30 +6,6 @@
     "region": "eastus"
   },
   {
-    "ip_address": "52.151.235.150/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch.EastUS",
-    "region": "eastus"
-  },
-  {
-    "ip_address": "52.151.235.242/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch.EastUS",
-    "region": "eastus"
-  },
-  {
-    "ip_address": "52.188.217.235/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch.EastUS",
-    "region": "eastus"
-  },
-  {
-    "ip_address": "52.188.218.239/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch.EastUS",
-    "region": "eastus"
-  },
-  {
     "ip_address": "2603:1030:210:1::180/121",
     "ip_type": "IPv6",
     "service": "AzureCognitiveSearch.EastUS",

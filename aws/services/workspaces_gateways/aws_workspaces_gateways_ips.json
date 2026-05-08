@@ -228,6 +228,12 @@
     "region": "eu-central-1"
   },
   {
+    "ip_address": "16.18.68.0/22",
+    "ip_type": "IPv4",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "eu-central-2"
+  },
+  {
     "ip_address": "35.152.232.0/22",
     "ip_type": "IPv4",
     "service": "WORKSPACES_GATEWAYS",

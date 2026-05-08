@@ -126,13 +126,14 @@ ip_address,ip_type,service,region
 2603:1040:1702:3::5a0/123,IPv6,StorageSyncService.IsraelNorthwest,israelnorthwest
 2603:1040:1702:400::120/123,IPv6,StorageSyncService.IsraelNorthwest,israelnorthwest
 2603:1061:2010:44::/117,IPv6,WindowsVirtualDesktop.IsraelNorthwest,israelnorthwest
+13.104.173.144/28,IPv4,AzureCloud.israelnorthwest,israelnorthwest
 20.20.52.192/26,IPv4,AzureCloud.israelnorthwest,israelnorthwest
 20.20.53.0/27,IPv4,AzureCloud.israelnorthwest,israelnorthwest
 20.20.57.32/27,IPv4,AzureCloud.israelnorthwest,israelnorthwest
 20.20.57.64/27,IPv4,AzureCloud.israelnorthwest,israelnorthwest
-20.20.116.0/26,IPv4,AzureCloud.israelnorthwest,israelnorthwest
-20.20.116.64/27,IPv4,AzureCloud.israelnorthwest,israelnorthwest
-20.20.116.96/28,IPv4,AzureCloud.israelnorthwest,israelnorthwest
+20.20.116.0/25,IPv4,AzureCloud.israelnorthwest,israelnorthwest
+20.20.116.128/29,IPv4,AzureCloud.israelnorthwest,israelnorthwest
+20.20.116.136/30,IPv4,AzureCloud.israelnorthwest,israelnorthwest
 20.38.48.0/24,IPv4,AzureCloud.israelnorthwest,israelnorthwest
 20.143.174.0/23,IPv4,AzureCloud.israelnorthwest,israelnorthwest
 20.143.176.0/23,IPv4,AzureCloud.israelnorthwest,israelnorthwest
@@ -160,6 +161,7 @@ ip_address,ip_type,service,region
 135.130.56.0/23,IPv4,AzureCloud.israelnorthwest,israelnorthwest
 209.199.29.80/28,IPv4,AzureCloud.israelnorthwest,israelnorthwest
 209.199.30.0/25,IPv4,AzureCloud.israelnorthwest,israelnorthwest
+209.199.129.0/24,IPv4,AzureCloud.israelnorthwest,israelnorthwest
 2603:1040:1701::/48,IPv6,AzureCloud.israelnorthwest,israelnorthwest
 2603:1040:1702::/47,IPv6,AzureCloud.israelnorthwest,israelnorthwest
 2603:1040:1704::/48,IPv6,AzureCloud.israelnorthwest,israelnorthwest
@@ -172,6 +174,10 @@ ip_address,ip_type,service,region
 2603:1047:1:300::/59,IPv6,AzureCloud.israelnorthwest,israelnorthwest
 2603:1061:1015::/59,IPv6,AzureCloud.israelnorthwest,israelnorthwest
 2603:1061:1015:20::/60,IPv6,AzureCloud.israelnorthwest,israelnorthwest
+2603:1061:1015:30::/61,IPv6,AzureCloud.israelnorthwest,israelnorthwest
+2603:1061:1015:38::/62,IPv6,AzureCloud.israelnorthwest,israelnorthwest
+2603:1061:1015:3c::/63,IPv6,AzureCloud.israelnorthwest,israelnorthwest
+2603:1061:1015:3e::/64,IPv6,AzureCloud.israelnorthwest,israelnorthwest
 2603:1061:1310:5000::/54,IPv6,AzureCloud.israelnorthwest,israelnorthwest
 2603:1061:1744::/48,IPv6,AzureCloud.israelnorthwest,israelnorthwest
 2603:1061:2010:44::/64,IPv6,AzureCloud.israelnorthwest,israelnorthwest

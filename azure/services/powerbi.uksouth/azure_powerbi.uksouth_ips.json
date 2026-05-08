@@ -78,6 +78,12 @@
     "region": "uksouth"
   },
   {
+    "ip_address": "172.167.62.96/27",
+    "ip_type": "IPv4",
+    "service": "PowerBI.UKSouth",
+    "region": "uksouth"
+  },
+  {
     "ip_address": "172.187.71.96/27",
     "ip_type": "IPv4",
     "service": "PowerBI.UKSouth",

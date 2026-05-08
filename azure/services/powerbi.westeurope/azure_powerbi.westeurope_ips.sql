@@ -8,6 +8,7 @@ CREATE TABLE IF NOT EXISTS `azure_powerbi.westeurope_ips` (
 
 INSERT INTO `azure_powerbi.westeurope_ips` (`ip_address`, `ip_type`) VALUES ('13.80.200.0/23', 'IPv4');
 INSERT INTO `azure_powerbi.westeurope_ips` (`ip_address`, `ip_type`) VALUES ('13.80.202.0/26', 'IPv4');
+INSERT INTO `azure_powerbi.westeurope_ips` (`ip_address`, `ip_type`) VALUES ('13.80.212.128/26', 'IPv4');
 INSERT INTO `azure_powerbi.westeurope_ips` (`ip_address`, `ip_type`) VALUES ('20.50.0.0/24', 'IPv4');
 INSERT INTO `azure_powerbi.westeurope_ips` (`ip_address`, `ip_type`) VALUES ('20.86.93.192/28', 'IPv4');
 INSERT INTO `azure_powerbi.westeurope_ips` (`ip_address`, `ip_type`) VALUES ('20.86.93.208/29', 'IPv4');

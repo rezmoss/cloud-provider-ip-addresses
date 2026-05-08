@@ -1,9 +1,3 @@
 ip_address,ip_type,service,region
-13.83.22.45/32,IPv4,AzureCognitiveSearch.WestUS,westus
-13.83.22.119/32,IPv4,AzureCognitiveSearch.WestUS,westus
-40.81.9.100/32,IPv4,AzureCognitiveSearch.WestUS,westus
-40.81.9.209/32,IPv4,AzureCognitiveSearch.WestUS,westus
-40.81.9.221/32,IPv4,AzureCognitiveSearch.WestUS,westus
 40.82.253.0/26,IPv4,AzureCognitiveSearch.WestUS,westus
-52.157.22.233/32,IPv4,AzureCognitiveSearch.WestUS,westus
 2603:1030:a07::180/121,IPv6,AzureCognitiveSearch.WestUS,westus

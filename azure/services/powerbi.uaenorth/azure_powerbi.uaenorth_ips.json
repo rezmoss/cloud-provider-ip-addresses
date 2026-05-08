@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "4.161.21.112/29",
+    "ip_type": "IPv4",
+    "service": "PowerBI.UAENorth",
+    "region": "uaenorth"
+  },
+  {
     "ip_address": "20.38.136.70/31",
     "ip_type": "IPv4",
     "service": "PowerBI.UAENorth",

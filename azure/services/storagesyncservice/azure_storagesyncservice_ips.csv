@@ -3,6 +3,7 @@ ip_address,ip_type,service,region
 9.160.69.152/29,IPv4,StorageSyncService,
 9.160.80.48/29,IPv4,StorageSyncService,
 9.205.52.88/29,IPv4,StorageSyncService,
+9.205.71.232/29,IPv4,StorageSyncService,
 9.205.75.40/29,IPv4,StorageSyncService,
 13.73.248.112/29,IPv4,StorageSyncService,
 13.87.32.205/32,IPv4,StorageSyncService,

@@ -6228,6 +6228,18 @@
     "region": "westus2"
   },
   {
+    "ip_address": "57.157.73.32/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.westus2",
+    "region": "westus2"
+  },
+  {
+    "ip_address": "57.157.73.48/31",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.westus2",
+    "region": "westus2"
+  },
+  {
     "ip_address": "57.166.0.0/17",
     "ip_type": "IPv4",
     "service": "AzureCloud.westus2",

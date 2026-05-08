@@ -654,6 +654,12 @@
     "region": "GLOBAL"
   },
   {
+    "ip_address": "51.74.192.0/18",
+    "ip_type": "IPv4",
+    "service": "CLOUDFRONT",
+    "region": "GLOBAL"
+  },
+  {
     "ip_address": "64.252.64.0/18",
     "ip_type": "IPv4",
     "service": "CLOUDFRONT",
@@ -1303,6 +1309,12 @@
   },
   {
     "ip_address": "2400:7fc0:500::/40",
+    "ip_type": "IPv6",
+    "service": "CLOUDFRONT",
+    "region": "GLOBAL"
+  },
+  {
+    "ip_address": "2001:3fc6:20::/43",
     "ip_type": "IPv6",
     "service": "CLOUDFRONT",
     "region": "GLOBAL"

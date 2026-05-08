@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "4.188.30.192/27",
+    "ip_type": "IPv4",
+    "service": "PowerBI.CentralIndia",
+    "region": "centralindia"
+  },
+  {
     "ip_address": "4.247.186.224/28",
     "ip_type": "IPv4",
     "service": "PowerBI.CentralIndia",

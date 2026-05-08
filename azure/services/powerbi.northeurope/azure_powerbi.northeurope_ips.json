@@ -54,6 +54,12 @@
     "region": "northeurope"
   },
   {
+    "ip_address": "4.209.97.128/26",
+    "ip_type": "IPv4",
+    "service": "PowerBI.NorthEurope",
+    "region": "northeurope"
+  },
+  {
     "ip_address": "20.38.84.104/31",
     "ip_type": "IPv4",
     "service": "PowerBI.NorthEurope",

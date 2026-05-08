@@ -378,12 +378,6 @@
     "region": "koreacentral"
   },
   {
-    "ip_address": "40.82.155.65/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch.KoreaCentral",
-    "region": "koreacentral"
-  },
-  {
     "ip_address": "2603:1040:f05:1::180/121",
     "ip_type": "IPv6",
     "service": "AzureCognitiveSearch.KoreaCentral",
@@ -3372,7 +3366,7 @@
     "region": "koreacentral"
   },
   {
-    "ip_address": "57.157.88.128/28",
+    "ip_address": "57.157.88.128/27",
     "ip_type": "IPv4",
     "service": "AzureCloud.koreacentral",
     "region": "koreacentral"

@@ -2556,6 +2556,12 @@
     "region": "centralindia"
   },
   {
+    "ip_address": "4.188.30.192/27",
+    "ip_type": "IPv4",
+    "service": "PowerBI.CentralIndia",
+    "region": "centralindia"
+  },
+  {
     "ip_address": "4.247.186.224/28",
     "ip_type": "IPv4",
     "service": "PowerBI.CentralIndia",
@@ -3138,25 +3144,13 @@
     "region": "centralindia"
   },
   {
-    "ip_address": "20.20.85.128/27",
+    "ip_address": "20.20.85.128/26",
     "ip_type": "IPv4",
     "service": "AzureCloud.centralindia",
     "region": "centralindia"
   },
   {
-    "ip_address": "20.20.85.160/28",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.centralindia",
-    "region": "centralindia"
-  },
-  {
-    "ip_address": "20.20.85.176/29",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.centralindia",
-    "region": "centralindia"
-  },
-  {
-    "ip_address": "20.20.85.184/30",
+    "ip_address": "20.20.85.192/27",
     "ip_type": "IPv4",
     "service": "AzureCloud.centralindia",
     "region": "centralindia"

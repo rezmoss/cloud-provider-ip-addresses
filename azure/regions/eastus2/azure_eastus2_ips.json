@@ -534,12 +534,6 @@
     "region": "eastus2"
   },
   {
-    "ip_address": "20.44.76.61/32",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch.EastUS2",
-    "region": "eastus2"
-  },
-  {
     "ip_address": "172.193.3.128/25",
     "ip_type": "IPv4",
     "service": "AzureCognitiveSearch.EastUS2",
@@ -5238,6 +5232,12 @@
     "region": "eastus2"
   },
   {
+    "ip_address": "57.167.180.64/26",
+    "ip_type": "IPv4",
+    "service": "PowerBI.EastUS2",
+    "region": "eastus2"
+  },
+  {
     "ip_address": "74.249.120.64/26",
     "ip_type": "IPv4",
     "service": "PowerBI.EastUS2",
@@ -8958,6 +8958,12 @@
     "region": "eastus2"
   },
   {
+    "ip_address": "48.208.93.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.eastus2",
+    "region": "eastus2"
+  },
+  {
     "ip_address": "48.208.151.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.eastus2",
@@ -10248,13 +10254,37 @@
     "region": "eastus2"
   },
   {
-    "ip_address": "57.157.50.16/30",
+    "ip_address": "57.157.50.16/28",
     "ip_type": "IPv4",
     "service": "AzureCloud.eastus2",
     "region": "eastus2"
   },
   {
-    "ip_address": "57.157.50.20/31",
+    "ip_address": "57.157.50.32/30",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.eastus2",
+    "region": "eastus2"
+  },
+  {
+    "ip_address": "57.157.50.36/31",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.eastus2",
+    "region": "eastus2"
+  },
+  {
+    "ip_address": "57.157.50.40/29",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.eastus2",
+    "region": "eastus2"
+  },
+  {
+    "ip_address": "57.157.50.48/29",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.eastus2",
+    "region": "eastus2"
+  },
+  {
+    "ip_address": "57.157.50.56/30",
     "ip_type": "IPv4",
     "service": "AzureCloud.eastus2",
     "region": "eastus2"
@@ -13134,7 +13164,43 @@
     "region": "eastus2"
   },
   {
-    "ip_address": "2603:1030:401:af0::/62",
+    "ip_address": "2603:1030:401:af0::/61",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.eastus2",
+    "region": "eastus2"
+  },
+  {
+    "ip_address": "2603:1030:401:af8::/62",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.eastus2",
+    "region": "eastus2"
+  },
+  {
+    "ip_address": "2603:1030:401:afd::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.eastus2",
+    "region": "eastus2"
+  },
+  {
+    "ip_address": "2603:1030:401:afe::/63",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.eastus2",
+    "region": "eastus2"
+  },
+  {
+    "ip_address": "2603:1030:401:b00::/62",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.eastus2",
+    "region": "eastus2"
+  },
+  {
+    "ip_address": "2603:1030:401:b04::/63",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.eastus2",
+    "region": "eastus2"
+  },
+  {
+    "ip_address": "2603:1030:401:b06::/64",
     "ip_type": "IPv6",
     "service": "AzureCloud.eastus2",
     "region": "eastus2"

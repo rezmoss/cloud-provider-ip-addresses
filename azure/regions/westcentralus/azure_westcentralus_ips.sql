@@ -55,7 +55,6 @@ INSERT INTO `azure_westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('13.71.1
 INSERT INTO `azure_westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('52.150.136.64/30', 'IPv4');
 INSERT INTO `azure_westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:b04::20/123', 'IPv6');
 INSERT INTO `azure_westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('52.150.139.0/26', 'IPv4');
-INSERT INTO `azure_westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('52.253.133.74/32', 'IPv4');
 INSERT INTO `azure_westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:b04::180/121', 'IPv6');
 INSERT INTO `azure_westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('13.71.195.32/28', 'IPv4');
 INSERT INTO `azure_westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('13.71.199.192/27', 'IPv4');

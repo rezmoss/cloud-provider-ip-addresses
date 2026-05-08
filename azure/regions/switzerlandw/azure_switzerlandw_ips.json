@@ -1128,6 +1128,12 @@
     "region": "switzerlandw"
   },
   {
+    "ip_address": "145.190.175.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
     "ip_address": "2603:1020:b05::/48",
     "ip_type": "IPv6",
     "service": "Storage.SwitzerlandWest",
@@ -1513,6 +1519,12 @@
   },
   {
     "ip_address": "51.107.255.128/29",
+    "ip_type": "IPv4",
+    "service": "PowerBI.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "57.160.5.112/28",
     "ip_type": "IPv4",
     "service": "PowerBI.SwitzerlandWest",
     "region": "switzerlandw"
@@ -2167,6 +2179,12 @@
   },
   {
     "ip_address": "74.242.64.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.switzerlandw",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "145.190.175.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.switzerlandw",
     "region": "switzerlandw"

@@ -66,6 +66,7 @@ INSERT INTO `azure_azurecloud.switzerlandw_ips` (`ip_address`, `ip_type`) VALUES
 INSERT INTO `azure_azurecloud.switzerlandw_ips` (`ip_address`, `ip_type`) VALUES ('70.152.30.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.switzerlandw_ips` (`ip_address`, `ip_type`) VALUES ('74.242.0.0/18', 'IPv4');
 INSERT INTO `azure_azurecloud.switzerlandw_ips` (`ip_address`, `ip_type`) VALUES ('74.242.64.0/21', 'IPv4');
+INSERT INTO `azure_azurecloud.switzerlandw_ips` (`ip_address`, `ip_type`) VALUES ('145.190.175.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.switzerlandw_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:b00::/47', 'IPv6');
 INSERT INTO `azure_azurecloud.switzerlandw_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:b03::/48', 'IPv6');
 INSERT INTO `azure_azurecloud.switzerlandw_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:b04::/47', 'IPv6');

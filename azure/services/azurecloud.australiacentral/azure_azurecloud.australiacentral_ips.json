@@ -354,6 +354,12 @@
     "region": "australiacentral"
   },
   {
+    "ip_address": "2603:1063:637::/56",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.australiacentral",
+    "region": "australiacentral"
+  },
+  {
     "ip_address": "2603:1063:2202:c::/64",
     "ip_type": "IPv6",
     "service": "AzureCloud.australiacentral",
