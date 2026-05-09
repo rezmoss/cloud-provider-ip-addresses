@@ -5712,6 +5712,12 @@
     "region": "us-west-2"
   },
   {
+    "ip_address": "2600:1ff6:4000::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-west-2"
+  },
+  {
     "ip_address": "2600:f0f0:30e::/48",
     "ip_type": "IPv6",
     "service": "ROUTE53_HEALTHCHECKS",

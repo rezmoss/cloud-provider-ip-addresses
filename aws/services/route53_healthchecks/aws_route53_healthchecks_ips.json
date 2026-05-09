@@ -12,6 +12,12 @@
     "region": "GLOBAL"
   },
   {
+    "ip_address": "15.177.108.0/24",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "us-south-1"
+  },
+  {
     "ip_address": "52.80.197.0/25",
     "ip_type": "IPv4",
     "service": "ROUTE53_HEALTHCHECKS",

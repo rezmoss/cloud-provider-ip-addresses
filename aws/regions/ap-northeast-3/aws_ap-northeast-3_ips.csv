@@ -87,6 +87,7 @@ ip_address,ip_type,service,region
 35.50.229.0/24,IPv4,IVS_REALTIME,ap-northeast-3
 35.50.228.0/24,IPv4,IVS_REALTIME,ap-northeast-3
 35.50.230.0/24,IPv4,IVS_REALTIME,ap-northeast-3
+16.208.44.0/22,IPv4,WORKSPACES_GATEWAYS,ap-northeast-3
 15.193.11.0/24,IPv4,EC2,ap-northeast-3
 13.208.0.0/16,IPv4,EC2,ap-northeast-3
 35.50.229.0/24,IPv4,EC2,ap-northeast-3

@@ -8,6 +8,7 @@ CREATE TABLE IF NOT EXISTS `aws_route53_healthchecks_ips` (
 
 INSERT INTO `aws_route53_healthchecks_ips` (`ip_address`, `ip_type`) VALUES ('51.0.252.0/24', 'IPv4');
 INSERT INTO `aws_route53_healthchecks_ips` (`ip_address`, `ip_type`) VALUES ('15.177.0.0/18', 'IPv4');
+INSERT INTO `aws_route53_healthchecks_ips` (`ip_address`, `ip_type`) VALUES ('15.177.108.0/24', 'IPv4');
 INSERT INTO `aws_route53_healthchecks_ips` (`ip_address`, `ip_type`) VALUES ('52.80.197.0/25', 'IPv4');
 INSERT INTO `aws_route53_healthchecks_ips` (`ip_address`, `ip_type`) VALUES ('52.80.197.128/25', 'IPv4');
 INSERT INTO `aws_route53_healthchecks_ips` (`ip_address`, `ip_type`) VALUES ('52.80.198.0/25', 'IPv4');

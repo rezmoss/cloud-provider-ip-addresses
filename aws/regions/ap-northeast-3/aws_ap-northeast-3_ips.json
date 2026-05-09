@@ -528,6 +528,12 @@
     "region": "ap-northeast-3"
   },
   {
+    "ip_address": "16.208.44.0/22",
+    "ip_type": "IPv4",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "ap-northeast-3"
+  },
+  {
     "ip_address": "15.193.11.0/24",
     "ip_type": "IPv4",
     "service": "EC2",

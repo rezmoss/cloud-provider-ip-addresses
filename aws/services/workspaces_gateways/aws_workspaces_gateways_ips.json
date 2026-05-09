@@ -114,6 +114,12 @@
     "region": "ap-northeast-2"
   },
   {
+    "ip_address": "16.208.44.0/22",
+    "ip_type": "IPv4",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "ap-northeast-3"
+  },
+  {
     "ip_address": "13.126.243.0/24",
     "ip_type": "IPv4",
     "service": "WORKSPACES_GATEWAYS",
@@ -202,6 +208,12 @@
     "ip_type": "IPv4",
     "service": "WORKSPACES_GATEWAYS",
     "region": "ca-central-1"
+  },
+  {
+    "ip_address": "16.174.56.0/22",
+    "ip_type": "IPv4",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "ca-west-1"
   },
   {
     "ip_address": "18.156.52.0/24",

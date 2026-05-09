@@ -1,12 +1,66 @@
 [
   {
-    "ip_address": "1.179.103.0/24",
+    "ip_address": "23.254.32.0/21",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-south-1"
+  },
+  {
+    "ip_address": "15.190.176.0/20",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-south-1"
+  },
+  {
+    "ip_address": "46.168.0.0/15",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-south-1"
+  },
+  {
+    "ip_address": "15.190.224.0/22",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "us-south-1"
   },
   {
     "ip_address": "1.179.103.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-south-1"
+  },
+  {
+    "ip_address": "15.177.108.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-south-1"
+  },
+  {
+    "ip_address": "15.177.108.0/24",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "us-south-1"
+  },
+  {
+    "ip_address": "23.254.32.0/21",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-south-1"
+  },
+  {
+    "ip_address": "46.168.0.0/15",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-south-1"
+  },
+  {
+    "ip_address": "1.179.103.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-south-1"
+  },
+  {
+    "ip_address": "15.177.108.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "us-south-1"

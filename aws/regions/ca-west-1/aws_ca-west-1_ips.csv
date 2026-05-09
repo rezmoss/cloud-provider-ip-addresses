@@ -48,6 +48,7 @@ ip_address,ip_type,service,region
 3.2.96.0/24,IPv4,S3,ca-west-1
 40.176.101.64/28,IPv4,S3,ca-west-1
 40.176.98.240/28,IPv4,S3,ca-west-1
+16.174.56.0/22,IPv4,WORKSPACES_GATEWAYS,ca-west-1
 15.177.100.0/24,IPv4,EC2,ca-west-1
 18.99.128.0/20,IPv4,EC2,ca-west-1
 40.176.0.0/15,IPv4,EC2,ca-west-1
