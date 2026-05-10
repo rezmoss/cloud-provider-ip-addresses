@@ -1,7 +1,7 @@
 {
-  "generated": "2026-05-09T00:42:24.683366",
+  "generated": "2026-05-10T00:43:46.086579",
   "provider_count": 22,
-  "total_ipv4_addresses": 339436043,
+  "total_ipv4_addresses": 339437067,
   "total_ipv6_addresses": 5205539542475190199791622680792589,
   "ipv4_space_coverage_pct": 7.9031,
   "providers": {
@@ -24,10 +24,10 @@
       "regions": 43
     },
     "googlecloud": {
-      "ipv4_cidrs": 889,
+      "ipv4_cidrs": 893,
       "ipv6_cidrs": 48,
-      "total_cidrs": 937,
-      "ipv4_addresses": 16870016,
+      "total_cidrs": 941,
+      "ipv4_addresses": 16871040,
       "ipv6_addresses": 910321142169815768553750528,
       "services": 1,
       "regions": 48
