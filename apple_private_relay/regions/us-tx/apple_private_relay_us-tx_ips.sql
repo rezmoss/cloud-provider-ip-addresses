@@ -8857,6 +8857,9 @@ INSERT INTO `apple_private_relay_us-tx_ips` (`ip_address`, `ip_type`) VALUES ('1
 INSERT INTO `apple_private_relay_us-tx_ips` (`ip_address`, `ip_type`) VALUES ('104.28.136.153/32', 'IPv4');
 INSERT INTO `apple_private_relay_us-tx_ips` (`ip_address`, `ip_type`) VALUES ('104.28.137.18/32', 'IPv4');
 INSERT INTO `apple_private_relay_us-tx_ips` (`ip_address`, `ip_type`) VALUES ('104.28.137.19/32', 'IPv4');
+INSERT INTO `apple_private_relay_us-tx_ips` (`ip_address`, `ip_type`) VALUES ('104.28.137.57/32', 'IPv4');
+INSERT INTO `apple_private_relay_us-tx_ips` (`ip_address`, `ip_type`) VALUES ('104.28.137.58/32', 'IPv4');
+INSERT INTO `apple_private_relay_us-tx_ips` (`ip_address`, `ip_type`) VALUES ('104.28.137.59/32', 'IPv4');
 INSERT INTO `apple_private_relay_us-tx_ips` (`ip_address`, `ip_type`) VALUES ('104.28.139.84/32', 'IPv4');
 INSERT INTO `apple_private_relay_us-tx_ips` (`ip_address`, `ip_type`) VALUES ('104.28.139.95/32', 'IPv4');
 INSERT INTO `apple_private_relay_us-tx_ips` (`ip_address`, `ip_type`) VALUES ('104.28.139.97/32', 'IPv4');

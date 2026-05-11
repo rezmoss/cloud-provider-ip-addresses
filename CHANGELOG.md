@@ -2,9 +2,9 @@
 
 Daily IP range changes across all providers.
 
-## 2026-05-10
+## 2026-05-11
 
-### googlecloud
-- Added: 4 CIDRs
+### apple_private_relay
+- Added: 23 CIDRs
 - Removed: 0 CIDRs
 
