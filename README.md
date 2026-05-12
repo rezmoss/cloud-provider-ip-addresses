@@ -5,11 +5,11 @@
 [![GitHub stars](https://img.shields.io/github/stars/rezmoss/cloud-provider-ip-addresses)](https://github.com/rezmoss/cloud-provider-ip-addresses/stargazers)
 [![GitHub license](https://img.shields.io/github/license/rezmoss/cloud-provider-ip-addresses)](https://github.com/rezmoss/cloud-provider-ip-addresses/blob/main/LICENSE)
 ![Last Updated](https://img.shields.io/github/last-commit/rezmoss/cloud-provider-ip-addresses)
-![Providers](https://img.shields.io/badge/providers-22-blue)
+![Providers](https://img.shields.io/badge/providers-24-blue)
 ![Formats](https://img.shields.io/badge/formats-12+-green)
 ![Update](https://img.shields.io/badge/updated-daily%2000%3A00%20UTC-brightgreen)
 
-> **22 providers** | **12+ output formats** | **Merged/optimized CIDRs** | **Firewall-ready configs** | **Unified cross-provider dataset** | **Daily changelog** | **IP lookup tool**
+> **24 providers** | **12+ output formats** | **Merged/optimized CIDRs** | **Firewall-ready configs** | **Unified cross-provider dataset** | **Daily changelog** | **IP lookup tool** | **Go & JS client libraries**
 
 <!-- STATS_START -->
 <!-- This section is auto-updated by app.py on each run. Do not edit manually. -->
@@ -62,6 +62,7 @@
 - [Merged / Optimized CIDRs](#merged--optimized-cidrs)
 - [Unified Cross-Provider Data](#unified-cross-provider-data)
 - [IP Lookup Tool](#ip-lookup-tool)
+- [Client Libraries (Go & JavaScript)](#client-libraries-go--javascript)
 - [Changelog & Stats](#changelog--stats)
 - [Folder Structure](#folder-structure)
 - [Usage Examples](#usage-examples)
@@ -298,6 +299,64 @@ python3 lookup.py --file suspicious_ips.txt
 # JSON output
 python3 lookup.py --json 8.8.8.8
 ```
+
+---
+
+## Client Libraries (Go & JavaScript)
+
+Prefer to consume this data from code instead of curling raw files? Two official client libraries ship with auto-updating, offline-capable IP detection for **AWS, GCP, Azure, Cloudflare, DigitalOcean, and Oracle Cloud**. Both pull from a compiled binary index ([cloudip-db](https://github.com/rezmoss/cloudip-db)) derived from this repository's daily output, with SHA-256-verified updates and an embedded fallback for air-gapped environments.
+
+### Go — [`go-cloudip`](https://github.com/rezmoss/go-cloudip)
+
+Sub-microsecond lookups via Patricia trie. Thread-safe, lock-free reads.
+
+```bash
+go get github.com/rezmoss/go-cloudip
+```
+
+```go
+import "github.com/rezmoss/go-cloudip"
+
+cloudip.IsAWS("52.94.76.1")           // true
+cloudip.GetProvider("34.64.0.1")      // "gcp"
+cloudip.IsCloudProvider("104.16.0.1") // true
+
+result := cloudip.Lookup("52.94.76.1")
+// result.Provider, result.Region, result.Service, result.CIDR
+```
+
+Full API, custom detectors, offline mode, and auto-update options: [go-cloudip README](https://github.com/rezmoss/go-cloudip).
+
+### JavaScript / TypeScript — [`js-cloudip`](https://github.com/rezmoss/js-cloudip)
+
+Node.js and browser (CORS-friendly). TypeScript types included. Ships a CLI and a forward-lookup mode (*"give me every Cloudflare CIDR"*).
+
+```bash
+npm install js-cloudip
+```
+
+```ts
+import { lookup, getProvider, isAws, getIPs } from 'js-cloudip';
+
+await isAws('52.94.76.1');         // true
+await getProvider('34.64.0.1');    // "gcp"
+
+const r = await lookup('52.94.76.1');
+// { found: true, provider: 'aws', region: 'us-east-1', service: 'EC2', cidr: '52.94.0.0/16', ip_type: 'ipv4' }
+
+const cf = await getIPs('cloudflare'); // all Cloudflare CIDRs
+```
+
+Use the `/embedded` subpath for offline / air-gapped use, or the `cloudip` CLI:
+
+```bash
+npx cloudip lookup 52.94.76.1
+npx cloudip get cloudflare
+```
+
+Full API, browser usage, and configuration: [js-cloudip README](https://github.com/rezmoss/js-cloudip).
+
+> Note: the libraries currently cover the six major cloud providers above. The full 24-provider dataset (CDNs, SaaS, bots/crawlers) remains available as raw files in this repo.
 
 ---
 
