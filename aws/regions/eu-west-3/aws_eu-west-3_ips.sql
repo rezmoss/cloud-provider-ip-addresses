@@ -261,6 +261,7 @@ INSERT INTO `aws_eu-west-3_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d03a:200
 INSERT INTO `aws_eu-west-3_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d03a:2000:300::/56', 'IPv6');
 INSERT INTO `aws_eu-west-3_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d03a:2000:400::/56', 'IPv6');
 INSERT INTO `aws_eu-west-3_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d03a:2000::/56', 'IPv6');
+INSERT INTO `aws_eu-west-3_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d076:2000::/48', 'IPv6');
 INSERT INTO `aws_eu-west-3_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d074:2000::/40', 'IPv6');
 INSERT INTO `aws_eu-west-3_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d050:2000::/40', 'IPv6');
 INSERT INTO `aws_eu-west-3_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d07a:2000::/40', 'IPv6');

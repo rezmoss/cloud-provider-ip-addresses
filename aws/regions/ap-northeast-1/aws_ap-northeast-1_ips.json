@@ -2970,6 +2970,12 @@
     "region": "ap-northeast-1"
   },
   {
+    "ip_address": "2406:daf6:4000::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-northeast-1"
+  },
+  {
     "ip_address": "2406:da14:7ff:f800::/56",
     "ip_type": "IPv6",
     "service": "ROUTE53_HEALTHCHECKS",

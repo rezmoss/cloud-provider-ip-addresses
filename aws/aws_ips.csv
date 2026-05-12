@@ -3643,6 +3643,7 @@ ip_address,ip_type,service,region
 15.230.216.10/32,IPv4,AMAZON,us-east-1
 16.189.0.0/16,IPv4,AMAZON,eu-west-1
 35.55.22.0/24,IPv4,AMAZON,eu-west-3
+51.74.128.0/18,IPv4,AMAZON,eusc-de-east-1
 51.86.0.0/15,IPv4,AMAZON,il-central-1
 52.93.153.128/32,IPv4,AMAZON,eu-west-2
 52.93.178.199/32,IPv4,AMAZON,us-west-1
@@ -7806,6 +7807,7 @@ ip_address,ip_type,service,region
 13.58.0.0/15,IPv4,EC2,us-east-2
 13.128.0.0/16,IPv4,EC2,us-east-1
 35.55.22.0/24,IPv4,EC2,eu-west-3
+51.74.128.0/18,IPv4,EC2,eusc-de-east-1
 54.194.0.0/15,IPv4,EC2,eu-west-1
 35.50.232.0/24,IPv4,EC2,ap-south-1
 35.96.5.0/24,IPv4,EC2,us-west-2
@@ -10228,6 +10230,7 @@ ip_address,ip_type,service,region
 2600:f0f0:5536::/48,IPv6,AMAZON,ap-northeast-1
 2600:f0fb:e000::/40,IPv6,AMAZON,us-east-1
 2605:9cc0:1ff0:500::/56,IPv6,AMAZON,us-east-1
+2605:9cc0:1ff0:6000::/56,IPv6,AMAZON,GLOBAL
 2a05:d06a:c000::/40,IPv6,AMAZON,eu-west-2
 2a05:d07a:a000::/40,IPv6,AMAZON,eu-south-1
 2406:daea:c800::/40,IPv6,AMAZON,ap-east-2
@@ -11620,6 +11623,7 @@ ip_address,ip_type,service,region
 2600:f0f1:40c0::/42,IPv6,AMAZON,ap-south-1
 2600:f0fb:ec00::/40,IPv6,AMAZON,us-east-1
 2606:f40::/39,IPv6,AMAZON,us-east-1
+2001:3fc3:3000::/36,IPv6,AMAZON,eusc-de-east-1
 2406:da38:a000::/40,IPv6,AMAZON,ap-south-1
 2406:daeb:9000::/40,IPv6,AMAZON,ap-southeast-3
 2406:daff:b000::/40,IPv6,AMAZON,ap-south-2
@@ -12032,7 +12036,7 @@ ip_address,ip_type,service,region
 2406:daf0:2800::/40,IPv6,AMAZON,ap-southeast-6
 2406:daf0:4000::/40,IPv6,AMAZON,ap-northeast-1
 2406:daff:a800::/40,IPv6,AMAZON,ap-southeast-1
-2600:1f10:8000::/36,IPv6,AMAZON,us-east-1
+2600:1f10:8000::/36,IPv6,AMAZON,us-south-1
 2600:1f2c:c000::/36,IPv6,AMAZON,us-east-1
 2600:1ff0:a400::/40,IPv6,AMAZON,ca-west-1
 2600:f000:8000::/39,IPv6,AMAZON,us-west-2
@@ -12422,7 +12426,7 @@ ip_address,ip_type,service,region
 2a05:d06a:1000::/40,IPv6,AMAZON,eu-south-2
 2001:3fc7:c800::/40,IPv6,AMAZON,eusc-de-east-1
 2406:da38:c800::/40,IPv6,AMAZON,ap-east-2
-2600:1f20:8000::/36,IPv6,AMAZON,us-east-1
+2600:1f20:8000::/36,IPv6,AMAZON,us-south-1
 2600:1f33:6000::/40,IPv6,AMAZON,us-east-2
 2600:f0f0:5500::/48,IPv6,AMAZON,us-west-2
 2606:7b40:1000:2270::/60,IPv6,AMAZON,us-west-2
@@ -12766,17 +12770,20 @@ ip_address,ip_type,service,region
 2406:da70:4000:300::/56,IPv6,AMAZON,ap-northeast-1
 2406:da70:4000:400::/56,IPv6,AMAZON,ap-northeast-1
 2406:da70:4000::/56,IPv6,AMAZON,ap-northeast-1
+2406:daf6:4000::/48,IPv6,AMAZON,ap-northeast-1
 2406:da70:2000:100::/56,IPv6,AMAZON,ap-northeast-2
 2406:da70:2000:200::/56,IPv6,AMAZON,ap-northeast-2
 2406:da70:2000:300::/56,IPv6,AMAZON,ap-northeast-2
 2406:da70:2000:400::/56,IPv6,AMAZON,ap-northeast-2
 2406:da70:2000::/56,IPv6,AMAZON,ap-northeast-2
+2406:daf6:2000::/48,IPv6,AMAZON,ap-northeast-2
 2406:da70:6000::/56,IPv6,AMAZON,ap-northeast-3
 2406:da70:a000:100::/56,IPv6,AMAZON,ap-south-1
 2406:da70:a000:200::/56,IPv6,AMAZON,ap-south-1
 2406:da70:a000:300::/56,IPv6,AMAZON,ap-south-1
 2406:da70:a000:400::/56,IPv6,AMAZON,ap-south-1
 2406:da70:a000::/56,IPv6,AMAZON,ap-south-1
+2406:daf6:a000::/48,IPv6,AMAZON,ap-south-1
 2406:da70:8000:100::/56,IPv6,AMAZON,ap-southeast-1
 2406:da70:8000:200::/56,IPv6,AMAZON,ap-southeast-1
 2406:da70:8000:300::/56,IPv6,AMAZON,ap-southeast-1
@@ -12788,16 +12795,19 @@ ip_address,ip_type,service,region
 2406:da70:c000:300::/56,IPv6,AMAZON,ap-southeast-2
 2406:da70:c000:400::/56,IPv6,AMAZON,ap-southeast-2
 2406:da70:c000::/56,IPv6,AMAZON,ap-southeast-2
+2406:daf6:c000::/48,IPv6,AMAZON,ap-southeast-2
 2600:1f70:1000:100::/56,IPv6,AMAZON,ca-central-1
 2600:1f70:1000:200::/56,IPv6,AMAZON,ca-central-1
 2600:1f70:1000:300::/56,IPv6,AMAZON,ca-central-1
 2600:1f70:1000:400::/56,IPv6,AMAZON,ca-central-1
 2600:1f70:1000::/56,IPv6,AMAZON,ca-central-1
+2600:1ff6:1000::/48,IPv6,AMAZON,ca-central-1
 2a05:d03a:4000:100::/56,IPv6,AMAZON,eu-central-1
 2a05:d03a:4000:200::/56,IPv6,AMAZON,eu-central-1
 2a05:d03a:4000:300::/56,IPv6,AMAZON,eu-central-1
 2a05:d03a:4000:400::/56,IPv6,AMAZON,eu-central-1
 2a05:d03a:4000::/56,IPv6,AMAZON,eu-central-1
+2a05:d076:4000::/48,IPv6,AMAZON,eu-central-1
 2a05:d03a:6000:100::/56,IPv6,AMAZON,eu-north-1
 2a05:d03a:6000:200::/56,IPv6,AMAZON,eu-north-1
 2a05:d03a:6000:400::/56,IPv6,AMAZON,eu-north-1
@@ -12811,6 +12821,7 @@ ip_address,ip_type,service,region
 2a05:d03a:8000:300::/56,IPv6,AMAZON,eu-west-1
 2a05:d03a:8000:400::/56,IPv6,AMAZON,eu-west-1
 2a05:d03a:8000::/56,IPv6,AMAZON,eu-west-1
+2a05:d076:8000::/48,IPv6,AMAZON,eu-west-1
 2a05:d03a:c000:100::/56,IPv6,AMAZON,eu-west-2
 2a05:d03a:c000:200::/56,IPv6,AMAZON,eu-west-2
 2a05:d03a:c000:300::/56,IPv6,AMAZON,eu-west-2
@@ -12821,6 +12832,7 @@ ip_address,ip_type,service,region
 2a05:d03a:2000:300::/56,IPv6,AMAZON,eu-west-3
 2a05:d03a:2000:400::/56,IPv6,AMAZON,eu-west-3
 2a05:d03a:2000::/56,IPv6,AMAZON,eu-west-3
+2a05:d076:2000::/48,IPv6,AMAZON,eu-west-3
 2a05:d03a:e000:100::/56,IPv6,AMAZON,me-south-1
 2a05:d03a:e000:200::/56,IPv6,AMAZON,me-south-1
 2a05:d03a:e000:400::/56,IPv6,AMAZON,me-south-1
@@ -12835,6 +12847,7 @@ ip_address,ip_type,service,region
 2600:1f70:6000:300::/56,IPv6,AMAZON,us-east-2
 2600:1f70:6000:400::/56,IPv6,AMAZON,us-east-2
 2600:1f70:6000::/56,IPv6,AMAZON,us-east-2
+2600:1ff6:6000::/48,IPv6,AMAZON,us-east-2
 2600:1f70:c000:100::/56,IPv6,AMAZON,us-west-1
 2600:1f70:c000:200::/56,IPv6,AMAZON,us-west-1
 2600:1f70:c000:300::/56,IPv6,AMAZON,us-west-1
@@ -13518,6 +13531,7 @@ ip_address,ip_type,service,region
 2600:f0f0:5536::/48,IPv6,EC2,ap-northeast-1
 2600:f0fb:e000::/40,IPv6,EC2,us-east-1
 2605:9cc0:1ff0:500::/56,IPv6,EC2,us-east-1
+2605:9cc0:1ff0:6000::/56,IPv6,EC2,GLOBAL
 2a05:d06a:c000::/40,IPv6,EC2,eu-west-2
 2406:daea:c800::/40,IPv6,EC2,ap-east-2
 2600:1feb:a400::/40,IPv6,EC2,ca-west-1
@@ -14610,6 +14624,7 @@ ip_address,ip_type,service,region
 2600:f0f1:40c0::/42,IPv6,EC2,ap-south-1
 2600:f0fb:ec00::/40,IPv6,EC2,us-east-1
 2606:f40::/39,IPv6,EC2,us-east-1
+2001:3fc3:3000::/36,IPv6,EC2,eusc-de-east-1
 2406:da38:a000::/40,IPv6,EC2,ap-south-1
 2406:daeb:9000::/40,IPv6,EC2,ap-southeast-3
 2406:daff:b000::/40,IPv6,EC2,ap-south-2
@@ -14931,7 +14946,7 @@ ip_address,ip_type,service,region
 2406:daf0:2800::/40,IPv6,EC2,ap-southeast-6
 2406:daf0:4000::/40,IPv6,EC2,ap-northeast-1
 2406:daff:a800::/40,IPv6,EC2,ap-southeast-1
-2600:1f10:8000::/36,IPv6,EC2,us-east-1
+2600:1f10:8000::/36,IPv6,EC2,us-south-1
 2600:1f2c:c000::/36,IPv6,EC2,us-east-1
 2600:1ff0:a400::/40,IPv6,EC2,ca-west-1
 2600:f000:8000::/39,IPv6,EC2,us-west-2
@@ -15239,7 +15254,7 @@ ip_address,ip_type,service,region
 2600:f0f2:701f::/48,IPv6,EC2,eu-north-1
 2a05:d06a:1000::/40,IPv6,EC2,eu-south-2
 2406:da38:c800::/40,IPv6,EC2,ap-east-2
-2600:1f20:8000::/36,IPv6,EC2,us-east-1
+2600:1f20:8000::/36,IPv6,EC2,us-south-1
 2600:1f33:6000::/40,IPv6,EC2,us-east-2
 2600:f0f0:5500::/48,IPv6,EC2,us-west-2
 2606:7b40:1000:2270::/60,IPv6,EC2,us-west-2

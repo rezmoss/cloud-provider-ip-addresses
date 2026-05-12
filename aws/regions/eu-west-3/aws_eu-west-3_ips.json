@@ -1530,6 +1530,12 @@
     "region": "eu-west-3"
   },
   {
+    "ip_address": "2a05:d076:2000::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eu-west-3"
+  },
+  {
     "ip_address": "2a05:d074:2000::/40",
     "ip_type": "IPv6",
     "service": "S3",

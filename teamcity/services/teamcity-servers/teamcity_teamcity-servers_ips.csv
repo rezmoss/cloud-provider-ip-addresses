@@ -1,0 +1,7 @@
+ip_address,ip_type,service,region
+54.155.204.237/32,IPv4,teamcity-servers,eu-west-1
+79.125.74.147/32,IPv4,teamcity-servers,eu-west-1
+63.32.4.62/32,IPv4,teamcity-servers,eu-west-1
+52.17.73.242/32,IPv4,teamcity-servers,eu-west-1
+52.209.101.160/32,IPv4,teamcity-servers,eu-west-1
+34.251.114.150/32,IPv4,teamcity-servers,eu-west-1

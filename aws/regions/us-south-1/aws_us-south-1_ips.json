@@ -72,7 +72,31 @@
     "region": "us-south-1"
   },
   {
+    "ip_address": "2600:1f10:8000::/36",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-south-1"
+  },
+  {
+    "ip_address": "2600:1f20:8000::/36",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-south-1"
+  },
+  {
     "ip_address": "2600:f0f0:6027::/48",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-south-1"
+  },
+  {
+    "ip_address": "2600:1f10:8000::/36",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-south-1"
+  },
+  {
+    "ip_address": "2600:1f20:8000::/36",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "us-south-1"

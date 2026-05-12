@@ -707,6 +707,7 @@ ip_address,ip_type,service,region
 2a05:d03a:4000:300::/56,IPv6,AMAZON,eu-central-1
 2a05:d03a:4000:400::/56,IPv6,AMAZON,eu-central-1
 2a05:d03a:4000::/56,IPv6,AMAZON,eu-central-1
+2a05:d076:4000::/48,IPv6,AMAZON,eu-central-1
 2600:f0f0:30f::/48,IPv6,ROUTE53_HEALTHCHECKS,eu-central-1
 2a05:d070:b000::/40,IPv6,S3,eu-central-1
 2a05:d070:4000::/40,IPv6,S3,eu-central-1

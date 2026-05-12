@@ -3564,6 +3564,12 @@
     "region": "eu-west-1"
   },
   {
+    "ip_address": "2a05:d076:8000::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eu-west-1"
+  },
+  {
     "ip_address": "2a05:d018:7ff:f800::/56",
     "ip_type": "IPv6",
     "service": "ROUTE53_HEALTHCHECKS",

@@ -16,7 +16,7 @@
 
 ### Live Stats
 
-> Last updated: **2026-05-11** | Providers: **22** | Total CIDRs: **423,873** | IPv4 addresses: **339,437,088** | IPv4 space: **7.90%**
+> Last updated: **2026-05-12** | Providers: **24** | Total CIDRs: **424,258** | IPv4 addresses: **339,608,426** | IPv4 space: **7.91%**
 
 | Provider | IPv4 CIDRs | IPv6 CIDRs | Total CIDRs | IPv4 Addresses | Services | Regions |
 |----------|-----------|-----------|------------|---------------|----------|--------|
@@ -24,21 +24,23 @@
 | apple_private_relay | 41,771 | 245,126 | 286,897 | 105,749 | 0 | 1242 |
 | applebot | 12 | 0 | 12 | 2,400 | 1 | 0 |
 | atlassian | 195 | 60 | 255 | 79,142 | 12 | 18 |
-| aws | 10,220 | 5,426 | 15,646 | 182,462,990 | 26 | 43 |
+| aws | 10,222 | 5,439 | 15,661 | 182,495,758 | 26 | 43 |
 | azure | 75,876 | 26,611 | 102,487 | 100,965,547 | 3136 | 73 |
 | bingbot | 28 | 0 | 28 | 4,736 | 1 | 0 |
+| circleci | 47 | 0 | 47 | 3,871 | 3 | 1 |
 | cloudflare | 15 | 7 | 22 | 1,524,736 | 0 | 0 |
 | commoncrawl | 4 | 1 | 5 | 21 | 1 | 0 |
 | digitalocean | 1,070 | 148 | 1,218 | 3,090,816 | 0 | 13 |
 | duckduckbot | 319 | 0 | 319 | 319 | 1 | 0 |
 | fastly | 19 | 2 | 21 | 304,128 | 0 | 0 |
-| github | 5,136 | 1,262 | 6,398 | 26,970,985 | 11 | 0 |
+| github | 5,320 | 1,390 | 6,710 | 27,105,673 | 11 | 0 |
 | googlebot | 167 | 144 | 311 | 4,992 | 1 | 0 |
 | googlecloud | 893 | 48 | 941 | 16,871,040 | 1 | 48 |
 | gptbot | 296 | 0 | 296 | 9,808 | 3 | 0 |
 | linode | 5,216 | 94 | 5,310 | 1,343,232 | 0 | 38 |
 | oracle | 1,078 | 0 | 1,078 | 4,121,226 | 3 | 55 |
 | perplexitybot | 12 | 0 | 12 | 32 | 2 | 0 |
+| teamcity | 11 | 0 | 11 | 11 | 2 | 1 |
 | telegram | 9 | 5 | 14 | 11,008 | 0 | 0 |
 | vultr | 436 | 54 | 490 | 1,019,904 | 0 | 34 |
 | zoom | 57 | 3 | 60 | 542,224 | 3 | 0 |
@@ -173,6 +175,42 @@ python3 lookup.py --data-dir . 13.32.0.1
 | **DuckDuckBot** | IPv4 + IPv6 | duckduckbot | DuckDuckGo published crawler ranges |
 | **Amazonbot** | IPv4 + IPv6 | Per-service (amazonbot, amzn-searchbot, amzn-user) | Amazon published bot ranges |
 | **Common Crawl (CCBot)** | IPv4 + IPv6 | ccbot | Common Crawl published bot ranges |
+
+### Per-Provider Pages
+
+Each provider has its own page with quick-use snippets, sample CIDRs, and links to every output format.
+
+<!-- PROVIDER_INDEX_START -->
+<!-- This section is auto-updated on each run. Do not edit manually. -->
+
+| Provider | Page |
+|----------|------|
+| **Amazonbot** | [`amazonbot/`](./amazonbot/) |
+| **Apple iCloud Private Relay** | [`apple_private_relay/`](./apple_private_relay/) |
+| **Applebot** | [`applebot/`](./applebot/) |
+| **Atlassian** | [`atlassian/`](./atlassian/) |
+| **Amazon Web Services** | [`aws/`](./aws/) |
+| **Microsoft Azure** | [`azure/`](./azure/) |
+| **Bingbot** | [`bingbot/`](./bingbot/) |
+| **CircleCI** | [`circleci/`](./circleci/) |
+| **Cloudflare** | [`cloudflare/`](./cloudflare/) |
+| **Common Crawl (CCBot)** | [`commoncrawl/`](./commoncrawl/) |
+| **DigitalOcean** | [`digitalocean/`](./digitalocean/) |
+| **DuckDuckBot** | [`duckduckbot/`](./duckduckbot/) |
+| **Fastly** | [`fastly/`](./fastly/) |
+| **GitHub** | [`github/`](./github/) |
+| **Googlebot** | [`googlebot/`](./googlebot/) |
+| **Google Cloud Platform** | [`googlecloud/`](./googlecloud/) |
+| **OpenAI GPTBot / ChatGPT-User / SearchBot** | [`gptbot/`](./gptbot/) |
+| **Linode (Akamai)** | [`linode/`](./linode/) |
+| **Oracle Cloud Infrastructure** | [`oracle/`](./oracle/) |
+| **PerplexityBot** | [`perplexitybot/`](./perplexitybot/) |
+| **TeamCity Cloud** | [`teamcity/`](./teamcity/) |
+| **Telegram** | [`telegram/`](./telegram/) |
+| **Vultr** | [`vultr/`](./vultr/) |
+| **Zoom** | [`zoom/`](./zoom/) |
+
+<!-- PROVIDER_INDEX_END -->
 
 ---
 
@@ -327,6 +365,8 @@ cloud-provider-ip-addresses/
 ├── commoncrawl/          (all formats)
 ├── zoom/                 (all formats + services)
 ├── atlassian/            (all formats + services + regions)
+├── circleci/             (all formats + services)
+├── teamcity/             (all formats + services + regions)
 ├── all_providers/
 │   ├── all_providers.json / .csv
 │   ├── all_providers_ips.txt
