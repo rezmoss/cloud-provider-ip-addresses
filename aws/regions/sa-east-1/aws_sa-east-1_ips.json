@@ -942,6 +942,12 @@
     "region": "sa-east-1"
   },
   {
+    "ip_address": "54.20.50.0/23",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "sa-east-1"
+  },
+  {
     "ip_address": "99.77.234.0/24",
     "ip_type": "IPv4",
     "service": "CHIME_VOICECONNECTOR",

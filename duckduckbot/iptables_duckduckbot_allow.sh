@@ -1,6 +1,6 @@
 #!/bin/bash
 # Duckduckbot IP Ranges
-# Updated: 2026-04-01 02:26:47
+# Updated: 2026-05-13 03:20:06
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -326,3 +326,4 @@ iptables -A INPUT -s 20.80.156.88/32 -j ACCEPT
 iptables -A INPUT -s 4.144.182.50/32 -j ACCEPT
 iptables -A INPUT -s 48.204.32.87/32 -j ACCEPT
 iptables -A INPUT -s 57.155.18.44/32 -j ACCEPT
+iptables -A INPUT -s 20.99.154.113/32 -j ACCEPT

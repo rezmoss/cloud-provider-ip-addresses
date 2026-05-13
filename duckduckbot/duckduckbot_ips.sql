@@ -325,3 +325,4 @@ INSERT INTO `duckduckbot_ips` (`ip_address`, `ip_type`) VALUES ('20.80.156.88/32
 INSERT INTO `duckduckbot_ips` (`ip_address`, `ip_type`) VALUES ('4.144.182.50/32', 'IPv4');
 INSERT INTO `duckduckbot_ips` (`ip_address`, `ip_type`) VALUES ('48.204.32.87/32', 'IPv4');
 INSERT INTO `duckduckbot_ips` (`ip_address`, `ip_type`) VALUES ('57.155.18.44/32', 'IPv4');
+INSERT INTO `duckduckbot_ips` (`ip_address`, `ip_type`) VALUES ('20.99.154.113/32', 'IPv4');
