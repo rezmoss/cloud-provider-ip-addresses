@@ -19437,7 +19437,7 @@
     "ip_address": "2600:1f10:8000::/36",
     "ip_type": "IPv6",
     "service": "EC2",
-    "region": "us-south-1"
+    "region": "us-east-1"
   },
   {
     "ip_address": "2600:1f2c:c000::/36",
@@ -21285,7 +21285,7 @@
     "ip_address": "2600:1f20:8000::/36",
     "ip_type": "IPv6",
     "service": "EC2",
-    "region": "us-south-1"
+    "region": "us-east-1"
   },
   {
     "ip_address": "2600:1f33:6000::/40",

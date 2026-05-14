@@ -14,8 +14,4 @@ ip_address,ip_type,service,region
 1.179.103.0/24,IPv4,EC2,us-south-1
 15.177.108.0/24,IPv4,EC2,us-south-1
 2600:f0f0:6027::/48,IPv6,AMAZON,us-south-1
-2600:1f10:8000::/36,IPv6,AMAZON,us-south-1
-2600:1f20:8000::/36,IPv6,AMAZON,us-south-1
 2600:f0f0:6027::/48,IPv6,EC2,us-south-1
-2600:1f10:8000::/36,IPv6,EC2,us-south-1
-2600:1f20:8000::/36,IPv6,EC2,us-south-1
