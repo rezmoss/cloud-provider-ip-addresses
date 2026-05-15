@@ -942,18 +942,6 @@
     "region": "eu-west-3"
   },
   {
-    "ip_address": "15.188.210.32/27",
-    "ip_type": "IPv4",
-    "service": "CLOUD9",
-    "region": "eu-west-3"
-  },
-  {
-    "ip_address": "15.188.210.64/27",
-    "ip_type": "IPv4",
-    "service": "CLOUD9",
-    "region": "eu-west-3"
-  },
-  {
     "ip_address": "13.36.84.112/29",
     "ip_type": "IPv4",
     "service": "CODEBUILD",
@@ -1119,6 +1107,18 @@
     "ip_address": "13.39.103.180/30",
     "ip_type": "IPv4",
     "service": "EBS",
+    "region": "eu-west-3"
+  },
+  {
+    "ip_address": "15.188.210.32/27",
+    "ip_type": "IPv4",
+    "service": "CLOUD9",
+    "region": "eu-west-3"
+  },
+  {
+    "ip_address": "15.188.210.64/27",
+    "ip_type": "IPv4",
+    "service": "CLOUD9",
     "region": "eu-west-3"
   },
   {

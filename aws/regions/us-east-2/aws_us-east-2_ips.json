@@ -1626,6 +1626,12 @@
     "region": "us-east-2"
   },
   {
+    "ip_address": "15.248.184.0/21",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-east-2"
+  },
+  {
     "ip_address": "108.166.244.39/32",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -3312,18 +3318,6 @@
     "region": "us-east-2"
   },
   {
-    "ip_address": "18.188.9.0/27",
-    "ip_type": "IPv4",
-    "service": "CLOUD9",
-    "region": "us-east-2"
-  },
-  {
-    "ip_address": "18.188.9.32/27",
-    "ip_type": "IPv4",
-    "service": "CLOUD9",
-    "region": "us-east-2"
-  },
-  {
     "ip_address": "3.143.206.104/29",
     "ip_type": "IPv4",
     "service": "CODEBUILD",
@@ -3525,6 +3519,18 @@
     "ip_address": "3.146.42.64/30",
     "ip_type": "IPv4",
     "service": "EBS",
+    "region": "us-east-2"
+  },
+  {
+    "ip_address": "18.188.9.0/27",
+    "ip_type": "IPv4",
+    "service": "CLOUD9",
+    "region": "us-east-2"
+  },
+  {
+    "ip_address": "18.188.9.32/27",
+    "ip_type": "IPv4",
+    "service": "CLOUD9",
     "region": "us-east-2"
   },
   {

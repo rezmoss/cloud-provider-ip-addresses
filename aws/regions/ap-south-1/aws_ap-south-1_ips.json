@@ -1494,18 +1494,6 @@
     "region": "ap-south-1"
   },
   {
-    "ip_address": "13.232.67.128/27",
-    "ip_type": "IPv4",
-    "service": "CLOUD9",
-    "region": "ap-south-1"
-  },
-  {
-    "ip_address": "13.232.67.160/27",
-    "ip_type": "IPv4",
-    "service": "CLOUD9",
-    "region": "ap-south-1"
-  },
-  {
     "ip_address": "13.127.70.136/29",
     "ip_type": "IPv4",
     "service": "CODEBUILD",
@@ -1695,6 +1683,18 @@
     "ip_address": "65.1.103.200/30",
     "ip_type": "IPv4",
     "service": "EBS",
+    "region": "ap-south-1"
+  },
+  {
+    "ip_address": "13.232.67.128/27",
+    "ip_type": "IPv4",
+    "service": "CLOUD9",
+    "region": "ap-south-1"
+  },
+  {
+    "ip_address": "13.232.67.160/27",
+    "ip_type": "IPv4",
+    "service": "CLOUD9",
     "region": "ap-south-1"
   },
   {

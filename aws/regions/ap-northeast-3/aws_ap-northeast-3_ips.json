@@ -696,18 +696,6 @@
     "region": "ap-northeast-3"
   },
   {
-    "ip_address": "15.152.24.0/27",
-    "ip_type": "IPv4",
-    "service": "CLOUD9",
-    "region": "ap-northeast-3"
-  },
-  {
-    "ip_address": "15.152.24.32/27",
-    "ip_type": "IPv4",
-    "service": "CLOUD9",
-    "region": "ap-northeast-3"
-  },
-  {
     "ip_address": "15.152.24.128/29",
     "ip_type": "IPv4",
     "service": "CODEBUILD",
@@ -891,6 +879,18 @@
     "ip_address": "15.168.105.168/30",
     "ip_type": "IPv4",
     "service": "EBS",
+    "region": "ap-northeast-3"
+  },
+  {
+    "ip_address": "15.152.24.0/27",
+    "ip_type": "IPv4",
+    "service": "CLOUD9",
+    "region": "ap-northeast-3"
+  },
+  {
+    "ip_address": "15.152.24.32/27",
+    "ip_type": "IPv4",
+    "service": "CLOUD9",
     "region": "ap-northeast-3"
   },
   {

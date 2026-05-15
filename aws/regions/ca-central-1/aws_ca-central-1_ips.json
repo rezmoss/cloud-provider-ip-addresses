@@ -882,18 +882,6 @@
     "region": "ca-central-1"
   },
   {
-    "ip_address": "15.222.16.96/27",
-    "ip_type": "IPv4",
-    "service": "CLOUD9",
-    "region": "ca-central-1"
-  },
-  {
-    "ip_address": "15.222.43.0/27",
-    "ip_type": "IPv4",
-    "service": "CLOUD9",
-    "region": "ca-central-1"
-  },
-  {
     "ip_address": "3.98.171.224/29",
     "ip_type": "IPv4",
     "service": "CODEBUILD",
@@ -1089,6 +1077,18 @@
     "ip_address": "3.98.171.92/30",
     "ip_type": "IPv4",
     "service": "EBS",
+    "region": "ca-central-1"
+  },
+  {
+    "ip_address": "15.222.16.96/27",
+    "ip_type": "IPv4",
+    "service": "CLOUD9",
+    "region": "ca-central-1"
+  },
+  {
+    "ip_address": "15.222.43.0/27",
+    "ip_type": "IPv4",
+    "service": "CLOUD9",
     "region": "ca-central-1"
   },
   {

@@ -540,18 +540,6 @@
     "region": "cn-northwest-1"
   },
   {
-    "ip_address": "52.83.25.128/27",
-    "ip_type": "IPv4",
-    "service": "CLOUD9",
-    "region": "cn-northwest-1"
-  },
-  {
-    "ip_address": "52.83.25.160/27",
-    "ip_type": "IPv4",
-    "service": "CLOUD9",
-    "region": "cn-northwest-1"
-  },
-  {
     "ip_address": "52.82.1.0/29",
     "ip_type": "IPv4",
     "service": "CODEBUILD",
@@ -717,6 +705,12 @@
     "ip_address": "68.79.2.248/29",
     "ip_type": "IPv4",
     "service": "EBS",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "52.83.25.160/27",
+    "ip_type": "IPv4",
+    "service": "CLOUD9",
     "region": "cn-northwest-1"
   },
   {

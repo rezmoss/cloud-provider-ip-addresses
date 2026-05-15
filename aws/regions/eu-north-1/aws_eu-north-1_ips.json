@@ -978,18 +978,6 @@
     "region": "eu-north-1"
   },
   {
-    "ip_address": "13.48.186.128/27",
-    "ip_type": "IPv4",
-    "service": "CLOUD9",
-    "region": "eu-north-1"
-  },
-  {
-    "ip_address": "13.48.186.160/27",
-    "ip_type": "IPv4",
-    "service": "CLOUD9",
-    "region": "eu-north-1"
-  },
-  {
     "ip_address": "13.48.4.192/29",
     "ip_type": "IPv4",
     "service": "CODEBUILD",
@@ -1143,6 +1131,18 @@
     "ip_address": "13.60.1.88/30",
     "ip_type": "IPv4",
     "service": "EBS",
+    "region": "eu-north-1"
+  },
+  {
+    "ip_address": "13.48.186.128/27",
+    "ip_type": "IPv4",
+    "service": "CLOUD9",
+    "region": "eu-north-1"
+  },
+  {
+    "ip_address": "13.48.186.160/27",
+    "ip_type": "IPv4",
+    "service": "CLOUD9",
     "region": "eu-north-1"
   },
   {

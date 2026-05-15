@@ -426,18 +426,6 @@
     "region": "il-central-1"
   },
   {
-    "ip_address": "51.16.103.32/27",
-    "ip_type": "IPv4",
-    "service": "CLOUD9",
-    "region": "il-central-1"
-  },
-  {
-    "ip_address": "51.16.183.64/27",
-    "ip_type": "IPv4",
-    "service": "CLOUD9",
-    "region": "il-central-1"
-  },
-  {
     "ip_address": "51.16.103.16/28",
     "ip_type": "IPv4",
     "service": "CODEBUILD",
@@ -471,6 +459,18 @@
     "ip_address": "51.16.97.64/26",
     "ip_type": "IPv4",
     "service": "ROUTE53_RESOLVER",
+    "region": "il-central-1"
+  },
+  {
+    "ip_address": "51.16.103.32/27",
+    "ip_type": "IPv4",
+    "service": "CLOUD9",
+    "region": "il-central-1"
+  },
+  {
+    "ip_address": "51.16.183.64/27",
+    "ip_type": "IPv4",
+    "service": "CLOUD9",
     "region": "il-central-1"
   },
   {

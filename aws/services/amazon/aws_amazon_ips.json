@@ -19578,12 +19578,6 @@
     "region": "eu-central-2"
   },
   {
-    "ip_address": "23.228.247.0/24",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "us-east-1"
-  },
-  {
     "ip_address": "31.220.252.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -21361,6 +21355,12 @@
   },
   {
     "ip_address": "15.230.71.192/26",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-east-2"
+  },
+  {
+    "ip_address": "15.248.184.0/21",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "us-east-2"

@@ -3384,18 +3384,6 @@
     "region": "us-west-2"
   },
   {
-    "ip_address": "34.217.141.224/27",
-    "ip_type": "IPv4",
-    "service": "CLOUD9",
-    "region": "us-west-2"
-  },
-  {
-    "ip_address": "34.218.119.32/27",
-    "ip_type": "IPv4",
-    "service": "CLOUD9",
-    "region": "us-west-2"
-  },
-  {
     "ip_address": "35.82.136.192/29",
     "ip_type": "IPv4",
     "service": "CODEBUILD",
@@ -3819,6 +3807,18 @@
     "ip_address": "35.94.128.248/30",
     "ip_type": "IPv4",
     "service": "EBS",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "34.217.141.224/27",
+    "ip_type": "IPv4",
+    "service": "CLOUD9",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "34.218.119.32/27",
+    "ip_type": "IPv4",
+    "service": "CLOUD9",
     "region": "us-west-2"
   },
   {

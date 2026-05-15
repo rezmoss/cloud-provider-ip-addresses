@@ -6,11 +6,8 @@ CREATE TABLE IF NOT EXISTS `aws_cloud9_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
-INSERT INTO `aws_cloud9_ips` (`ip_address`, `ip_type`) VALUES ('140.179.1.64/27', 'IPv4');
-INSERT INTO `aws_cloud9_ips` (`ip_address`, `ip_type`) VALUES ('140.179.1.96/27', 'IPv4');
 INSERT INTO `aws_cloud9_ips` (`ip_address`, `ip_type`) VALUES ('140.179.79.160/27', 'IPv4');
 INSERT INTO `aws_cloud9_ips` (`ip_address`, `ip_type`) VALUES ('140.179.79.192/27', 'IPv4');
-INSERT INTO `aws_cloud9_ips` (`ip_address`, `ip_type`) VALUES ('52.83.25.128/27', 'IPv4');
 INSERT INTO `aws_cloud9_ips` (`ip_address`, `ip_type`) VALUES ('52.83.25.160/27', 'IPv4');
 INSERT INTO `aws_cloud9_ips` (`ip_address`, `ip_type`) VALUES ('13.245.155.128/27', 'IPv4');
 INSERT INTO `aws_cloud9_ips` (`ip_address`, `ip_type`) VALUES ('13.245.155.224/27', 'IPv4');

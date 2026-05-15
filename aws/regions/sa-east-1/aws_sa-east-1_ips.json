@@ -1458,18 +1458,6 @@
     "region": "sa-east-1"
   },
   {
-    "ip_address": "18.230.46.0/27",
-    "ip_type": "IPv4",
-    "service": "CLOUD9",
-    "region": "sa-east-1"
-  },
-  {
-    "ip_address": "18.230.46.32/27",
-    "ip_type": "IPv4",
-    "service": "CLOUD9",
-    "region": "sa-east-1"
-  },
-  {
     "ip_address": "15.228.126.200/29",
     "ip_type": "IPv4",
     "service": "CODEBUILD",
@@ -1689,6 +1677,18 @@
     "ip_address": "15.229.206.196/30",
     "ip_type": "IPv4",
     "service": "EBS",
+    "region": "sa-east-1"
+  },
+  {
+    "ip_address": "18.230.46.0/27",
+    "ip_type": "IPv4",
+    "service": "CLOUD9",
+    "region": "sa-east-1"
+  },
+  {
+    "ip_address": "18.230.46.32/27",
+    "ip_type": "IPv4",
+    "service": "CLOUD9",
     "region": "sa-east-1"
   },
   {

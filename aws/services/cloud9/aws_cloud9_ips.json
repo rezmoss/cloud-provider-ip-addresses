@@ -1,17 +1,5 @@
 [
   {
-    "ip_address": "140.179.1.64/27",
-    "ip_type": "IPv4",
-    "service": "CLOUD9",
-    "region": "cn-north-1"
-  },
-  {
-    "ip_address": "140.179.1.96/27",
-    "ip_type": "IPv4",
-    "service": "CLOUD9",
-    "region": "cn-north-1"
-  },
-  {
     "ip_address": "140.179.79.160/27",
     "ip_type": "IPv4",
     "service": "CLOUD9",
@@ -22,12 +10,6 @@
     "ip_type": "IPv4",
     "service": "CLOUD9",
     "region": "cn-north-1"
-  },
-  {
-    "ip_address": "52.83.25.128/27",
-    "ip_type": "IPv4",
-    "service": "CLOUD9",
-    "region": "cn-northwest-1"
   },
   {
     "ip_address": "52.83.25.160/27",

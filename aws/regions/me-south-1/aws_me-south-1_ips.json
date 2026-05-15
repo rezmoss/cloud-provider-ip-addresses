@@ -852,18 +852,6 @@
     "region": "me-south-1"
   },
   {
-    "ip_address": "15.185.141.160/27",
-    "ip_type": "IPv4",
-    "service": "CLOUD9",
-    "region": "me-south-1"
-  },
-  {
-    "ip_address": "15.185.91.32/27",
-    "ip_type": "IPv4",
-    "service": "CLOUD9",
-    "region": "me-south-1"
-  },
-  {
     "ip_address": "15.184.184.96/29",
     "ip_type": "IPv4",
     "service": "CODEBUILD",
@@ -987,6 +975,18 @@
     "ip_address": "16.24.65.184/30",
     "ip_type": "IPv4",
     "service": "EBS",
+    "region": "me-south-1"
+  },
+  {
+    "ip_address": "15.185.141.160/27",
+    "ip_type": "IPv4",
+    "service": "CLOUD9",
+    "region": "me-south-1"
+  },
+  {
+    "ip_address": "15.185.91.32/27",
+    "ip_type": "IPv4",
+    "service": "CLOUD9",
     "region": "me-south-1"
   },
   {

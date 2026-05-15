@@ -1,126 +1,421 @@
 [
   {
-    "ip_address": "100.24.149.244/32",
+    "ip_address": "3.81.253.213/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
   {
-    "ip_address": "100.24.167.60/32",
+    "ip_address": "3.89.170.186/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
   {
-    "ip_address": "100.25.120.246/32",
+    "ip_address": "3.89.176.255/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
   {
-    "ip_address": "100.27.153.9/32",
+    "ip_address": "3.90.73.206/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
   {
-    "ip_address": "100.28.118.16/32",
+    "ip_address": "3.91.138.117/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
   {
-    "ip_address": "100.28.133.214/32",
+    "ip_address": "3.92.253.216/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
   {
-    "ip_address": "100.28.204.82/32",
+    "ip_address": "3.93.98.99/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
   {
-    "ip_address": "100.28.44.58/32",
+    "ip_address": "3.93.211.16/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
   {
-    "ip_address": "100.28.49.152/32",
+    "ip_address": "3.93.253.174/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
   {
-    "ip_address": "100.28.57.133/32",
+    "ip_address": "3.94.40.182/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
   {
-    "ip_address": "100.29.107.38/32",
+    "ip_address": "3.94.46.239/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
   {
-    "ip_address": "100.29.128.75/32",
+    "ip_address": "3.94.156.104/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
   {
-    "ip_address": "100.29.155.89/32",
+    "ip_address": "3.94.157.25/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
   {
-    "ip_address": "100.29.160.53/32",
+    "ip_address": "3.94.199.128/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
   {
-    "ip_address": "100.29.164.142/32",
+    "ip_address": "3.208.47.73/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
   {
-    "ip_address": "100.29.164.178/32",
+    "ip_address": "3.208.146.193/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
   {
-    "ip_address": "100.29.34.97/32",
+    "ip_address": "3.208.156.9/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
   {
-    "ip_address": "100.29.48.32/32",
+    "ip_address": "3.208.224.218/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
   {
-    "ip_address": "100.29.63.24/32",
+    "ip_address": "3.209.156.113/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
   {
-    "ip_address": "107.20.181.148/32",
+    "ip_address": "3.209.174.110/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
   {
-    "ip_address": "107.20.224.184/32",
+    "ip_address": "3.210.29.96/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
   {
-    "ip_address": "107.20.25.33/32",
+    "ip_address": "3.210.114.189/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
   {
-    "ip_address": "107.20.255.194/32",
+    "ip_address": "3.210.223.61/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
   {
-    "ip_address": "107.22.208.39/32",
+    "ip_address": "3.211.105.134/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
   {
-    "ip_address": "107.23.62.75/32",
+    "ip_address": "3.211.181.86/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "3.212.86.97/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "3.212.205.90/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "3.212.219.113/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "3.213.46.222/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "3.213.85.234/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "3.213.106.226/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "3.213.213.161/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "3.214.176.44/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "3.215.59.93/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "3.215.221.125/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "3.216.13.10/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "3.216.86.144/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "3.216.227.216/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "3.217.82.254/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "3.217.171.106/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "3.217.190.160/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "3.217.211.204/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "3.218.35.239/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "3.218.103.254/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "3.219.80.71/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "3.219.81.66/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "3.220.70.171/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "3.220.148.166/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "3.221.50.71/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "3.221.156.96/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "3.221.222.168/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "3.221.244.28/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "3.222.85.38/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "3.222.190.107/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "3.223.61.36/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "3.223.134.5/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "3.223.181.32/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "3.223.245.78/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "3.224.104.67/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "3.224.191.210/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "3.224.205.25/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "3.224.215.150/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "3.224.220.101/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "3.225.9.97/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "3.225.12.172/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "3.225.45.252/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "3.226.34.98/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "3.226.106.93/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "3.226.115.242/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "3.227.180.70/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "3.228.111.48/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "3.228.140.40/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "3.229.2.217/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "3.229.95.193/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "3.229.164.203/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "3.230.54.110/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "3.230.69.161/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "3.230.224.6/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "3.231.193.38/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "3.232.39.98/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "3.232.82.72/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "3.232.102.111/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "3.235.215.92/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "18.204.89.56/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
@@ -130,7 +425,7 @@
     "service": "amazonbot"
   },
   {
-    "ip_address": "18.204.89.56/32",
+    "ip_address": "18.205.91.101/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
@@ -146,11 +441,6 @@
   },
   {
     "ip_address": "18.205.213.231/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "18.205.91.101/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
@@ -190,12 +480,22 @@
     "service": "amazonbot"
   },
   {
+    "ip_address": "18.211.39.188/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
     "ip_address": "18.211.148.239/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
   {
-    "ip_address": "18.211.39.188/32",
+    "ip_address": "18.213.27.222/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "18.213.70.100/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
@@ -211,16 +511,6 @@
   },
   {
     "ip_address": "18.213.240.226/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "18.213.27.222/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "18.213.70.100/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
@@ -250,11 +540,6 @@
     "service": "amazonbot"
   },
   {
-    "ip_address": "18.215.112.101/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
     "ip_address": "18.215.24.66/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
@@ -266,6 +551,11 @@
   },
   {
     "ip_address": "18.215.77.19/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "18.215.112.101/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
@@ -290,52 +580,12 @@
     "service": "amazonbot"
   },
   {
-    "ip_address": "18.235.158.19/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
     "ip_address": "18.235.81.246/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
   {
-    "ip_address": "184.72.84.154/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "184.72.95.195/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "184.73.167.217/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "184.73.195.18/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "184.73.239.35/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "184.73.35.182/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "184.73.47.24/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "184.73.68.20/32",
+    "ip_address": "18.235.158.19/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
@@ -360,12 +610,12 @@
     "service": "amazonbot"
   },
   {
-    "ip_address": "23.21.179.120/32",
+    "ip_address": "23.21.179.27/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
   {
-    "ip_address": "23.21.179.27/32",
+    "ip_address": "23.21.179.120/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
@@ -405,6 +655,16 @@
     "service": "amazonbot"
   },
   {
+    "ip_address": "23.22.35.162/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "23.22.59.87/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
     "ip_address": "23.22.105.143/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
@@ -415,12 +675,7 @@
     "service": "amazonbot"
   },
   {
-    "ip_address": "23.22.35.162/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "23.22.59.87/32",
+    "ip_address": "23.23.99.55/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
@@ -470,432 +725,12 @@
     "service": "amazonbot"
   },
   {
-    "ip_address": "23.23.99.55/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.208.146.193/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.208.156.9/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.208.224.218/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.208.47.73/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.209.156.113/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.209.174.110/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.210.114.189/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.210.223.61/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.210.29.96/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.211.105.134/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.211.181.86/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.212.205.90/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.212.219.113/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.212.86.97/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.213.106.226/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.213.213.161/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.213.46.222/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.213.85.234/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.214.176.44/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.215.221.125/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.215.59.93/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.216.13.10/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.216.227.216/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.216.86.144/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.217.171.106/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.217.190.160/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.217.211.204/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.217.82.254/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.218.103.254/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.218.35.239/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.219.80.71/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.219.81.66/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.220.148.166/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.220.70.171/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.221.156.96/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.221.222.168/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.221.244.28/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.221.50.71/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.222.190.107/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.222.85.38/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.223.134.5/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.223.181.32/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.223.245.78/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.223.61.36/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.224.104.67/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.224.191.210/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.224.205.25/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.224.215.150/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.224.220.101/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.225.12.172/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.225.45.252/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.225.9.97/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.226.106.93/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.226.115.242/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.226.34.98/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.227.180.70/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.228.111.48/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.228.140.40/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.229.164.203/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.229.2.217/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.229.95.193/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.230.224.6/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.230.54.110/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.230.69.161/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.231.193.38/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.232.102.111/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.232.39.98/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.232.82.72/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.235.215.92/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.81.253.213/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.89.170.186/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.89.176.255/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.90.73.206/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.91.138.117/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.92.253.216/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.93.211.16/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.93.253.174/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.93.98.99/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.94.156.104/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.94.157.25/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.94.199.128/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.94.40.182/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "3.94.46.239/32",
+    "ip_address": "34.192.67.98/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
   {
     "ip_address": "34.192.125.239/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "34.192.67.98/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
@@ -906,6 +741,11 @@
   },
   {
     "ip_address": "34.194.14.255/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "34.194.95.99/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
@@ -925,7 +765,7 @@
     "service": "amazonbot"
   },
   {
-    "ip_address": "34.194.95.99/32",
+    "ip_address": "34.195.60.66/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
@@ -935,7 +775,7 @@
     "service": "amazonbot"
   },
   {
-    "ip_address": "34.195.60.66/32",
+    "ip_address": "34.196.6.199/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
@@ -946,11 +786,6 @@
   },
   {
     "ip_address": "34.196.237.236/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "34.196.6.199/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
@@ -970,12 +805,12 @@
     "service": "amazonbot"
   },
   {
-    "ip_address": "34.202.210.13/32",
+    "ip_address": "34.202.88.37/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
   {
-    "ip_address": "34.202.88.37/32",
+    "ip_address": "34.202.210.13/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
@@ -1015,17 +850,12 @@
     "service": "amazonbot"
   },
   {
-    "ip_address": "34.224.132.215/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
     "ip_address": "34.224.9.144/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
   {
-    "ip_address": "34.225.138.57/32",
+    "ip_address": "34.224.132.215/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
@@ -1035,12 +865,17 @@
     "service": "amazonbot"
   },
   {
-    "ip_address": "34.225.243.131/32",
+    "ip_address": "34.225.87.80/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
   {
-    "ip_address": "34.225.87.80/32",
+    "ip_address": "34.225.138.57/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "34.225.243.131/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
@@ -1070,6 +905,16 @@
     "service": "amazonbot"
   },
   {
+    "ip_address": "34.231.45.47/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "34.231.77.232/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
     "ip_address": "34.231.118.144/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
@@ -1086,16 +931,6 @@
   },
   {
     "ip_address": "34.231.181.240/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "34.231.45.47/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "34.231.77.232/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
@@ -1150,16 +985,6 @@
     "service": "amazonbot"
   },
   {
-    "ip_address": "34.236.135.14/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "34.236.185.101/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
     "ip_address": "34.236.41.241/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
@@ -1175,12 +1000,17 @@
     "service": "amazonbot"
   },
   {
-    "ip_address": "34.238.45.183/32",
+    "ip_address": "34.236.135.14/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
   {
-    "ip_address": "34.239.197.197/32",
+    "ip_address": "34.236.185.101/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "34.238.45.183/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
@@ -1190,12 +1020,17 @@
     "service": "amazonbot"
   },
   {
-    "ip_address": "35.153.218.211/32",
+    "ip_address": "34.239.197.197/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
   {
     "ip_address": "35.153.86.200/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "35.153.218.211/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
@@ -1240,12 +1075,12 @@
     "service": "amazonbot"
   },
   {
-    "ip_address": "35.172.125.172/32",
+    "ip_address": "35.172.91.0/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
   {
-    "ip_address": "35.172.91.0/32",
+    "ip_address": "35.172.125.172/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
@@ -1300,12 +1135,12 @@
     "service": "amazonbot"
   },
   {
-    "ip_address": "44.195.145.102/32",
+    "ip_address": "44.195.50.71/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
   {
-    "ip_address": "44.195.50.71/32",
+    "ip_address": "44.195.145.102/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
@@ -1325,6 +1160,11 @@
     "service": "amazonbot"
   },
   {
+    "ip_address": "44.205.74.196/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
     "ip_address": "44.205.120.22/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
@@ -1340,16 +1180,6 @@
     "service": "amazonbot"
   },
   {
-    "ip_address": "44.205.74.196/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "44.206.213.217/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
     "ip_address": "44.206.65.8/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
@@ -1360,17 +1190,22 @@
     "service": "amazonbot"
   },
   {
+    "ip_address": "44.206.213.217/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "44.207.69.106/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
     "ip_address": "44.207.207.36/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
   {
     "ip_address": "44.207.252.58/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "44.207.69.106/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
@@ -1390,11 +1225,6 @@
     "service": "amazonbot"
   },
   {
-    "ip_address": "44.209.187.99/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
     "ip_address": "44.209.35.147/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
@@ -1406,6 +1236,11 @@
   },
   {
     "ip_address": "44.209.89.189/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "44.209.187.99/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
@@ -1440,12 +1275,12 @@
     "service": "amazonbot"
   },
   {
-    "ip_address": "44.213.202.136/32",
+    "ip_address": "44.213.36.21/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
   {
-    "ip_address": "44.213.36.21/32",
+    "ip_address": "44.213.202.136/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
@@ -1456,6 +1291,11 @@
   },
   {
     "ip_address": "44.214.224.199/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "44.215.61.66/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
@@ -1485,11 +1325,6 @@
     "service": "amazonbot"
   },
   {
-    "ip_address": "44.215.61.66/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
     "ip_address": "44.216.172.204/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
@@ -1505,11 +1340,6 @@
     "service": "amazonbot"
   },
   {
-    "ip_address": "44.218.170.184/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
     "ip_address": "44.218.6.93/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
@@ -1520,12 +1350,22 @@
     "service": "amazonbot"
   },
   {
+    "ip_address": "44.218.170.184/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
     "ip_address": "44.219.74.122/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
   {
     "ip_address": "44.220.2.97/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "44.221.37.41/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
@@ -1541,11 +1381,6 @@
   },
   {
     "ip_address": "44.221.227.90/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "44.221.37.41/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
@@ -1580,6 +1415,11 @@
     "service": "amazonbot"
   },
   {
+    "ip_address": "50.16.72.185/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
     "ip_address": "50.16.216.166/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
@@ -1595,22 +1435,7 @@
     "service": "amazonbot"
   },
   {
-    "ip_address": "50.16.72.185/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
     "ip_address": "50.17.193.48/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "50.19.102.70/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "50.19.221.48/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
@@ -1625,12 +1450,12 @@
     "service": "amazonbot"
   },
   {
-    "ip_address": "52.0.105.244/32",
+    "ip_address": "50.19.102.70/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
   {
-    "ip_address": "52.0.218.219/32",
+    "ip_address": "50.19.221.48/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
@@ -1645,6 +1470,21 @@
     "service": "amazonbot"
   },
   {
+    "ip_address": "52.0.105.244/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "52.0.218.219/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "52.1.75.30/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
     "ip_address": "52.1.106.130/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
@@ -1655,22 +1495,12 @@
     "service": "amazonbot"
   },
   {
-    "ip_address": "52.1.75.30/32",
+    "ip_address": "52.2.4.213/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
   {
     "ip_address": "52.2.11.133/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "52.2.191.202/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "52.2.4.213/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
@@ -1690,122 +1520,112 @@
     "service": "amazonbot"
   },
   {
+    "ip_address": "52.2.191.202/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "52.3.26.180/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "52.3.102.51/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "52.3.104.214/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "52.3.127.170/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "52.3.155.146/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "52.3.156.186/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "52.4.76.156/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "52.4.128.0/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "52.4.213.199/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "52.4.229.9/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "52.4.238.8/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "52.5.232.250/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "52.5.233.62/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "52.5.242.243/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "52.6.5.24/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "52.6.89.179/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "52.6.97.88/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "52.6.232.201/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "52.7.13.143/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "52.7.33.248/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
     "ip_address": "52.20.88.157/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "52.200.142.199/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "52.200.251.20/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "52.200.54.136/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "52.200.58.199/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "52.200.93.170/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "52.201.155.215/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "52.201.9.130/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "52.202.233.37/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "52.202.52.82/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "52.203.152.231/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "52.203.237.170/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "52.203.65.83/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "52.203.68.145/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "52.204.174.139/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "52.204.253.129/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "52.204.37.237/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "52.204.71.8/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "52.204.81.148/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "52.204.89.12/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "52.205.113.104/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "52.205.141.124/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "52.205.222.214/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "52.207.47.227/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
@@ -1840,61 +1660,6 @@
     "service": "amazonbot"
   },
   {
-    "ip_address": "52.3.102.51/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "52.3.104.214/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "52.3.127.170/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "52.3.155.146/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "52.3.156.186/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "52.3.26.180/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "52.4.128.0/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "52.4.213.199/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "52.4.229.9/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "52.4.238.8/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "52.4.76.156/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
     "ip_address": "52.44.148.203/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
@@ -1915,11 +1680,6 @@
     "service": "amazonbot"
   },
   {
-    "ip_address": "52.45.194.165/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
     "ip_address": "52.45.29.57/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
@@ -1935,22 +1695,17 @@
     "service": "amazonbot"
   },
   {
-    "ip_address": "52.5.232.250/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "52.5.233.62/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "52.5.242.243/32",
+    "ip_address": "52.45.194.165/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
   {
     "ip_address": "52.54.15.103/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "52.54.95.127/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
@@ -1965,42 +1720,7 @@
     "service": "amazonbot"
   },
   {
-    "ip_address": "52.54.95.127/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
     "ip_address": "52.55.208.70/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "52.6.232.201/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "52.6.5.24/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "52.6.89.179/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "52.6.97.88/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "52.7.13.143/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "52.7.33.248/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
@@ -2025,6 +1745,11 @@
     "service": "amazonbot"
   },
   {
+    "ip_address": "52.71.46.142/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
     "ip_address": "52.71.203.206/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
@@ -2040,7 +1765,7 @@
     "service": "amazonbot"
   },
   {
-    "ip_address": "52.71.46.142/32",
+    "ip_address": "52.73.6.26/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
@@ -2050,17 +1775,252 @@
     "service": "amazonbot"
   },
   {
-    "ip_address": "52.73.6.26/32",
+    "ip_address": "52.200.54.136/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
   {
-    "ip_address": "54.144.185.255/32",
+    "ip_address": "52.200.58.199/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "52.200.93.170/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "52.200.142.199/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "52.200.251.20/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "52.201.9.130/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "52.201.155.215/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "52.202.52.82/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "52.202.233.37/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "52.203.65.83/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "52.203.68.145/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "52.203.152.231/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "52.203.237.170/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "52.204.37.237/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "52.204.71.8/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "52.204.81.148/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "52.204.89.12/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "52.204.174.139/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "52.204.253.129/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "52.205.113.104/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "52.205.141.124/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "52.205.222.214/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "52.207.47.227/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "54.80.73.122/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "54.80.185.200/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "54.81.191.5/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "54.83.23.103/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "54.83.56.1/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "54.83.180.239/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "54.83.240.58/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "54.84.93.8/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "54.84.102.81/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "54.84.147.79/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "54.84.161.62/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "54.84.169.196/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "54.84.250.51/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "54.85.7.119/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "54.85.109.140/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "54.85.126.86/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "54.86.59.155/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "54.87.62.248/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "54.87.95.7/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "54.88.84.219/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "54.89.90.224/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "54.90.8.255/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "54.90.244.132/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "54.91.122.193/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "54.92.171.106/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
   {
     "ip_address": "54.144.42.14/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "54.144.185.255/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
@@ -2071,6 +2031,11 @@
   },
   {
     "ip_address": "54.146.67.173/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "54.147.80.137/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
@@ -2090,7 +2055,7 @@
     "service": "amazonbot"
   },
   {
-    "ip_address": "54.147.80.137/32",
+    "ip_address": "54.152.30.242/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
@@ -2100,7 +2065,7 @@
     "service": "amazonbot"
   },
   {
-    "ip_address": "54.152.30.242/32",
+    "ip_address": "54.156.55.147/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
@@ -2116,11 +2081,6 @@
   },
   {
     "ip_address": "54.156.248.117/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "54.156.55.147/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
@@ -2200,6 +2160,11 @@
     "service": "amazonbot"
   },
   {
+    "ip_address": "54.197.82.195/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
     "ip_address": "54.197.102.71/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
@@ -2211,11 +2176,6 @@
   },
   {
     "ip_address": "54.197.178.107/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "54.197.82.195/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
@@ -2240,12 +2200,12 @@
     "service": "amazonbot"
   },
   {
-    "ip_address": "54.209.100.30/32",
+    "ip_address": "54.209.6.230/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
   {
-    "ip_address": "54.209.6.230/32",
+    "ip_address": "54.209.100.30/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
@@ -2270,6 +2230,16 @@
     "service": "amazonbot"
   },
   {
+    "ip_address": "54.225.81.20/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "54.225.98.148/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
     "ip_address": "54.225.148.123/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
@@ -2281,16 +2251,6 @@
   },
   {
     "ip_address": "54.225.199.17/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "54.225.81.20/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "54.225.98.148/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
@@ -2310,12 +2270,12 @@
     "service": "amazonbot"
   },
   {
-    "ip_address": "54.235.172.108/32",
+    "ip_address": "54.235.172.96/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
   {
-    "ip_address": "54.235.172.96/32",
+    "ip_address": "54.235.172.108/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
@@ -2335,137 +2295,7 @@
     "service": "amazonbot"
   },
   {
-    "ip_address": "54.80.185.200/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "54.80.73.122/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "54.81.191.5/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "54.83.180.239/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "54.83.23.103/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "54.83.240.58/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "54.83.56.1/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "54.84.102.81/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "54.84.147.79/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "54.84.161.62/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "54.84.169.196/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "54.84.250.51/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "54.84.93.8/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "54.85.109.140/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "54.85.126.86/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "54.85.7.119/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "54.86.59.155/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "54.87.62.248/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "54.87.95.7/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "54.88.84.219/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "54.89.90.224/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "54.90.244.132/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "54.90.8.255/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "54.91.122.193/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "54.92.171.106/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
     "ip_address": "75.101.156.93/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "98.80.130.239/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
@@ -2475,12 +2305,7 @@
     "service": "amazonbot"
   },
   {
-    "ip_address": "98.82.107.102/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "98.82.214.73/32",
+    "ip_address": "98.80.130.239/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
@@ -2525,7 +2350,32 @@
     "service": "amazonbot"
   },
   {
+    "ip_address": "98.82.107.102/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "98.82.214.73/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "98.83.8.142/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
     "ip_address": "98.83.10.183/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "98.83.72.38/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "98.83.94.113/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
@@ -2550,17 +2400,12 @@
     "service": "amazonbot"
   },
   {
-    "ip_address": "98.83.72.38/32",
+    "ip_address": "98.84.60.17/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
   {
-    "ip_address": "98.83.8.142/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "98.83.94.113/32",
+    "ip_address": "98.84.70.201/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
@@ -2580,12 +2425,197 @@
     "service": "amazonbot"
   },
   {
-    "ip_address": "98.84.60.17/32",
+    "ip_address": "100.24.149.244/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
   {
-    "ip_address": "98.84.70.201/32",
+    "ip_address": "100.24.167.60/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "100.25.120.246/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "100.27.153.9/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "100.28.44.58/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "100.28.49.152/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "100.28.57.133/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "100.28.118.16/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "100.28.133.214/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "100.28.204.82/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "100.29.34.97/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "100.29.48.32/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "100.29.63.24/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "100.29.107.38/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "100.29.128.75/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "100.29.155.89/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "100.29.160.53/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "100.29.164.142/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "100.29.164.178/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "107.20.25.33/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "107.20.181.148/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "107.20.224.184/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "107.20.255.194/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "107.22.208.39/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "107.23.62.75/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "184.72.84.154/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "184.72.95.195/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "184.73.35.182/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "184.73.47.24/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "184.73.68.20/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "184.73.167.217/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "184.73.195.18/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "184.73.239.35/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "18.211.242.14/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "54.158.139.192/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "100.51.173.237/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "34.235.173.180/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "34.236.189.117/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "52.20.98.185/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },

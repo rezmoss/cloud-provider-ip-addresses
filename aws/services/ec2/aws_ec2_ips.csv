@@ -1121,7 +1121,6 @@ ip_address,ip_type,service,region
 16.112.0.0/16,IPv4,EC2,ap-south-2
 18.96.224.0/19,IPv4,EC2,ap-south-1
 18.98.224.0/19,IPv4,EC2,eu-central-2
-23.228.247.0/24,IPv4,EC2,us-east-1
 31.220.252.0/24,IPv4,EC2,us-gov-east-1
 35.96.40.0/24,IPv4,EC2,af-south-1
 52.95.235.0/24,IPv4,EC2,ap-southeast-3

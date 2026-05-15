@@ -2826,12 +2826,6 @@
     "region": "us-east-1"
   },
   {
-    "ip_address": "23.228.247.0/24",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "us-east-1"
-  },
-  {
     "ip_address": "64.252.66.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -6426,12 +6420,6 @@
     "region": "us-east-1"
   },
   {
-    "ip_address": "23.228.247.0/24",
-    "ip_type": "IPv4",
-    "service": "EC2",
-    "region": "us-east-1"
-  },
-  {
     "ip_address": "64.252.66.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -7233,18 +7221,6 @@
     "ip_address": "15.177.64.0/23",
     "ip_type": "IPv4",
     "service": "ROUTE53_HEALTHCHECKS_PUBLISHING",
-    "region": "us-east-1"
-  },
-  {
-    "ip_address": "35.172.155.192/27",
-    "ip_type": "IPv4",
-    "service": "CLOUD9",
-    "region": "us-east-1"
-  },
-  {
-    "ip_address": "35.172.155.96/27",
-    "ip_type": "IPv4",
-    "service": "CLOUD9",
     "region": "us-east-1"
   },
   {
@@ -8193,6 +8169,18 @@
     "ip_address": "44.222.159.176/28",
     "ip_type": "IPv4",
     "service": "EBS",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "35.172.155.192/27",
+    "ip_type": "IPv4",
+    "service": "CLOUD9",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "35.172.155.96/27",
+    "ip_type": "IPv4",
+    "service": "CLOUD9",
     "region": "us-east-1"
   },
   {
