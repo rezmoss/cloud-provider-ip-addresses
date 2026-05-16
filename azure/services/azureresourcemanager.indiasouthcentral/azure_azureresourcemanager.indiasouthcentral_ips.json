@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "172.198.90.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904:1::500/120",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "172.198.86.16/28",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904::740/124",
+    "ip_type": "IPv6",
+    "service": "ApiManagement.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  }
+]

@@ -18,6 +18,12 @@
     "region": "eastus2euap"
   },
   {
+    "ip_address": "48.223.85.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
     "ip_address": "2603:1030:40b:1::380/121",
     "ip_type": "IPv6",
     "service": "AzureEventGrid.EastUS2EUAP",

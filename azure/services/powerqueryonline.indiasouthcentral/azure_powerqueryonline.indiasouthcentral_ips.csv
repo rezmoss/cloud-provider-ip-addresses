@@ -1,0 +1,3 @@
+ip_address,ip_type,service,region
+172.198.80.32/29,IPv4,PowerQueryOnline.IndiaSouthCentral,indiasouthcentral
+2603:1040:1904::1a0/123,IPv6,PowerQueryOnline.IndiaSouthCentral,indiasouthcentral

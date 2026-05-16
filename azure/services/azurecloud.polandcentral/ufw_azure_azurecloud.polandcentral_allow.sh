@@ -1,6 +1,6 @@
 #!/bin/bash
 # Azure IP Ranges
-# Updated: 2026-04-30 00:40:46
+# Updated: 2026-05-16 03:16:55
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -37,8 +37,21 @@ ufw allow from 40.107.154.0/23
 ufw allow from 40.107.156.0/24
 ufw allow from 40.123.138.0/27
 ufw allow from 40.123.138.32/29
-ufw allow from 40.123.138.40/31
-ufw allow from 40.123.172.0/24
+ufw allow from 40.123.138.40/30
+ufw allow from 40.123.172.0/27
+ufw allow from 40.123.172.32/28
+ufw allow from 40.123.172.48/29
+ufw allow from 40.123.172.60/30
+ufw allow from 40.123.172.64/30
+ufw allow from 40.123.172.72/29
+ufw allow from 40.123.172.80/28
+ufw allow from 40.123.172.96/27
+ufw allow from 40.123.172.132/30
+ufw allow from 40.123.172.140/30
+ufw allow from 40.123.172.148/30
+ufw allow from 40.123.172.156/30
+ufw allow from 40.123.172.160/27
+ufw allow from 40.123.172.192/26
 ufw allow from 48.208.38.0/24
 ufw allow from 48.212.39.0/24
 ufw allow from 48.212.166.0/24
@@ -77,7 +90,22 @@ ufw allow from 2603:1026:900:3c::/64
 ufw allow from 2603:1026:900:4b::/64
 ufw allow from 2603:1026:2413::/48
 ufw allow from 2603:1026:3000:260::/59
-ufw allow from 2603:1061:1006::/56
+ufw allow from 2603:1061:1006::/60
+ufw allow from 2603:1061:1006:10::/64
+ufw allow from 2603:1061:1006:12::/63
+ufw allow from 2603:1061:1006:14::/63
+ufw allow from 2603:1061:1006:18::/61
+ufw allow from 2603:1061:1006:20::/60
+ufw allow from 2603:1061:1006:30::/62
+ufw allow from 2603:1061:1006:36::/63
+ufw allow from 2603:1061:1006:3a::/63
+ufw allow from 2603:1061:1006:3e::/63
+ufw allow from 2603:1061:1006:42::/63
+ufw allow from 2603:1061:1006:44::/62
+ufw allow from 2603:1061:1006:48::/61
+ufw allow from 2603:1061:1006:50::/60
+ufw allow from 2603:1061:1006:60::/59
+ufw allow from 2603:1061:1006:80::/57
 ufw allow from 2603:1061:1006:100::/61
 ufw allow from 2603:1061:1006:108::/62
 ufw allow from 2603:1061:1006:10c::/64

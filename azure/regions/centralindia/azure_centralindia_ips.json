@@ -270,6 +270,18 @@
     "region": "centralindia"
   },
   {
+    "ip_address": "4.188.30.180/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "4.188.30.184/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.CentralIndia",
+    "region": "centralindia"
+  },
+  {
     "ip_address": "4.247.186.56/29",
     "ip_type": "IPv4",
     "service": "AzureAttestation.CentralIndia",

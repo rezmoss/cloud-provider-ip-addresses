@@ -6,6 +6,18 @@
     "region": "usstagee"
   },
   {
+    "ip_address": "20.99.35.216/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.EastUSSTG",
+    "region": "usstagee"
+  },
+  {
+    "ip_address": "20.99.36.96/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.EastUSSTG",
+    "region": "usstagee"
+  },
+  {
     "ip_address": "40.67.52.116/30",
     "ip_type": "IPv4",
     "service": "AzureAttestation.EastUSSTG",

@@ -1,0 +1,50 @@
+[
+  {
+    "ip_address": "20.153.102.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "20.153.104.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "57.163.2.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "135.130.87.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "135.130.94.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "135.130.96.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "145.190.154.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1905::/48",
+    "ip_type": "IPv6",
+    "service": "Storage.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  }
+]

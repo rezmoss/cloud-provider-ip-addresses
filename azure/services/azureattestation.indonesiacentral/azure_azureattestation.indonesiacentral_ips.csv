@@ -1,3 +1,5 @@
 ip_address,ip_type,service,region
+48.193.77.176/29,IPv4,AzureAttestation.IndonesiaCentral,indonesiacentral
+48.193.77.184/30,IPv4,AzureAttestation.IndonesiaCentral,indonesiacentral
 70.153.152.20/30,IPv4,AzureAttestation.IndonesiaCentral,indonesiacentral
 2603:1040:1802::2e0/124,IPv6,AzureAttestation.IndonesiaCentral,indonesiacentral

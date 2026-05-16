@@ -618,12 +618,6 @@
     "region": ""
   },
   {
-    "ip_address": "40.74.44.186/32",
-    "ip_type": "IPv4",
-    "service": "AzureSpringCloud",
-    "region": ""
-  },
-  {
     "ip_address": "40.80.59.16/29",
     "ip_type": "IPv4",
     "service": "AzureSpringCloud",
@@ -792,12 +786,6 @@
     "region": ""
   },
   {
-    "ip_address": "51.105.135.194/32",
-    "ip_type": "IPv4",
-    "service": "AzureSpringCloud",
-    "region": ""
-  },
-  {
     "ip_address": "51.107.50.48/29",
     "ip_type": "IPv4",
     "service": "AzureSpringCloud",
@@ -894,12 +882,6 @@
     "region": ""
   },
   {
-    "ip_address": "51.143.115.246/32",
-    "ip_type": "IPv4",
-    "service": "AzureSpringCloud",
-    "region": ""
-  },
-  {
     "ip_address": "52.136.50.40/29",
     "ip_type": "IPv4",
     "service": "AzureSpringCloud",
@@ -931,12 +913,6 @@
   },
   {
     "ip_address": "52.140.108.0/26",
-    "ip_type": "IPv4",
-    "service": "AzureSpringCloud",
-    "region": ""
-  },
-  {
-    "ip_address": "52.148.160.217/32",
     "ip_type": "IPv4",
     "service": "AzureSpringCloud",
     "region": ""
@@ -1063,12 +1039,6 @@
   },
   {
     "ip_address": "102.133.58.128/26",
-    "ip_type": "IPv4",
-    "service": "AzureSpringCloud",
-    "region": ""
-  },
-  {
-    "ip_address": "104.45.168.35/32",
     "ip_type": "IPv4",
     "service": "AzureSpringCloud",
     "region": ""

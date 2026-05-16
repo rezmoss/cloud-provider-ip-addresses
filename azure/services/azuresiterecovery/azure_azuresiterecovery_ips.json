@@ -3450,6 +3450,12 @@
     "region": ""
   },
   {
+    "ip_address": "2603:1030:40b:1400::40/124",
+    "ip_type": "IPv6",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
     "ip_address": "2603:1030:40c:1::/123",
     "ip_type": "IPv6",
     "service": "AzureSiteRecovery",

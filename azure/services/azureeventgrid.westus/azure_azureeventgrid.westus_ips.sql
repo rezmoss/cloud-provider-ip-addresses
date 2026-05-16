@@ -10,6 +10,7 @@ INSERT INTO `azure_azureeventgrid.westus_ips` (`ip_address`, `ip_type`) VALUES (
 INSERT INTO `azure_azureeventgrid.westus_ips` (`ip_address`, `ip_type`) VALUES ('13.88.73.32/27', 'IPv4');
 INSERT INTO `azure_azureeventgrid.westus_ips` (`ip_address`, `ip_type`) VALUES ('13.88.135.208/28', 'IPv4');
 INSERT INTO `azure_azureeventgrid.westus_ips` (`ip_address`, `ip_type`) VALUES ('13.91.193.0/28', 'IPv4');
+INSERT INTO `azure_azureeventgrid.westus_ips` (`ip_address`, `ip_type`) VALUES ('20.59.155.128/25', 'IPv4');
 INSERT INTO `azure_azureeventgrid.westus_ips` (`ip_address`, `ip_type`) VALUES ('40.82.254.128/25', 'IPv4');
 INSERT INTO `azure_azureeventgrid.westus_ips` (`ip_address`, `ip_type`) VALUES ('52.159.210.0/24', 'IPv4');
 INSERT INTO `azure_azureeventgrid.westus_ips` (`ip_address`, `ip_type`) VALUES ('52.160.136.16/28', 'IPv4');

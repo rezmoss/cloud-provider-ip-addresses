@@ -20,6 +20,8 @@ INSERT INTO `azure_usstagec_ips` (`ip_address`, `ip_type`) VALUES ('23.100.218.1
 INSERT INTO `azure_usstagec_ips` (`ip_address`, `ip_type`) VALUES ('23.100.218.152/29', 'IPv4');
 INSERT INTO `azure_usstagec_ips` (`ip_address`, `ip_type`) VALUES ('20.44.4.248/30', 'IPv4');
 INSERT INTO `azure_usstagec_ips` (`ip_address`, `ip_type`) VALUES ('20.45.116.92/30', 'IPv4');
+INSERT INTO `azure_usstagec_ips` (`ip_address`, `ip_type`) VALUES ('57.152.147.56/29', 'IPv4');
+INSERT INTO `azure_usstagec_ips` (`ip_address`, `ip_type`) VALUES ('57.152.147.192/30', 'IPv4');
 INSERT INTO `azure_usstagec_ips` (`ip_address`, `ip_type`) VALUES ('20.44.3.64/26', 'IPv4');
 INSERT INTO `azure_usstagec_ips` (`ip_address`, `ip_type`) VALUES ('20.44.3.128/27', 'IPv4');
 INSERT INTO `azure_usstagec_ips` (`ip_address`, `ip_type`) VALUES ('20.44.4.72/30', 'IPv4');

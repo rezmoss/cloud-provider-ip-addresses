@@ -84,6 +84,18 @@
     "region": "usstagec"
   },
   {
+    "ip_address": "57.152.147.56/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "57.152.147.192/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
     "ip_address": "20.44.3.64/26",
     "ip_type": "IPv4",
     "service": "AzureBackup.SouthCentralUSSTG",

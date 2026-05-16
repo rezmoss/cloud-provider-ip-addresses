@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+172.198.84.152/29,IPv4,AzureDigitalTwins.IndiaSouthCentral,indiasouthcentral
+172.198.86.32/27,IPv4,AzureDigitalTwins.IndiaSouthCentral,indiasouthcentral
+2603:1040:1904::780/121,IPv6,AzureDigitalTwins.IndiaSouthCentral,indiasouthcentral

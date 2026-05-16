@@ -960,6 +960,7 @@ ip_address,ip_type,service,region
 2600:1f60:4000::/39,IPv6,S3,us-west-2
 2600:1fa0:4000::/39,IPv6,S3,us-west-2
 2600:1ffa:4000::/40,IPv6,S3,us-west-2
+2600:1f61:4000::/39,IPv6,S3,us-west-2
 2600:1ff4:4000::/39,IPv6,S3,us-west-2
 2600:1ff9:4000::/39,IPv6,S3,us-west-2
 2600:1ff8:4000::/39,IPv6,S3,us-west-2

@@ -78,6 +78,18 @@
     "region": "israelnorthwest"
   },
   {
+    "ip_address": "51.4.158.244/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.IsraelNorthwest",
+    "region": "israelnorthwest"
+  },
+  {
+    "ip_address": "51.4.158.248/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.IsraelNorthwest",
+    "region": "israelnorthwest"
+  },
+  {
     "ip_address": "2603:1040:1702::540/124",
     "ip_type": "IPv6",
     "service": "AzureAttestation.IsraelNorthwest",

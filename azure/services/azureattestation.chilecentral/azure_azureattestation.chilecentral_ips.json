@@ -1,5 +1,17 @@
 [
   {
+    "ip_address": "57.156.97.52/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.ChileCentral",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "57.156.97.192/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.ChileCentral",
+    "region": "chilec"
+  },
+  {
     "ip_address": "68.211.19.184/30",
     "ip_type": "IPv4",
     "service": "AzureAttestation.ChileCentral",

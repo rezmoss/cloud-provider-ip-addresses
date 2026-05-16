@@ -581,6 +581,7 @@ ip_address,ip_type,service,region
 2406:daf9:f000::/40,IPv6,S3,ap-southeast-4
 2406:daf8:a800::/40,IPv6,S3,ap-southeast-1
 2600:1f60:6000::/40,IPv6,S3,us-east-2
+2600:1f61:4000::/39,IPv6,S3,us-west-2
 2406:daef:b000::/40,IPv6,S3,ap-south-2
 2406:daf9:800::/40,IPv6,S3,ap-southeast-5
 2600:1ff0:8000::/39,IPv6,S3,us-east-1

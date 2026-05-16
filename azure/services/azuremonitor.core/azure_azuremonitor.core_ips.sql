@@ -475,6 +475,7 @@ INSERT INTO `azure_azuremonitor.core_ips` (`ip_address`, `ip_type`) VALUES ('172
 INSERT INTO `azure_azuremonitor.core_ips` (`ip_address`, `ip_type`) VALUES ('172.195.21.16/28', 'IPv4');
 INSERT INTO `azure_azuremonitor.core_ips` (`ip_address`, `ip_type`) VALUES ('172.195.21.32/27', 'IPv4');
 INSERT INTO `azure_azuremonitor.core_ips` (`ip_address`, `ip_type`) VALUES ('172.196.61.192/27', 'IPv4');
+INSERT INTO `azure_azuremonitor.core_ips` (`ip_address`, `ip_type`) VALUES ('172.197.132.192/26', 'IPv4');
 INSERT INTO `azure_azuremonitor.core_ips` (`ip_address`, `ip_type`) VALUES ('172.198.98.192/27', 'IPv4');
 INSERT INTO `azure_azuremonitor.core_ips` (`ip_address`, `ip_type`) VALUES ('172.198.112.168/29', 'IPv4');
 INSERT INTO `azure_azuremonitor.core_ips` (`ip_address`, `ip_type`) VALUES ('172.198.144.168/29', 'IPv4');
@@ -838,6 +839,7 @@ INSERT INTO `azure_azuremonitor.core_ips` (`ip_address`, `ip_type`) VALUES ('260
 INSERT INTO `azure_azuremonitor.core_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1503:2::280/121', 'IPv6');
 INSERT INTO `azure_azuremonitor.core_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1503:2::500/123', 'IPv6');
 INSERT INTO `azure_azuremonitor.core_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1602:2::580/121', 'IPv6');
+INSERT INTO `azure_azuremonitor.core_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1602:6::/122', 'IPv6');
 INSERT INTO `azure_azuremonitor.core_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1702:2::500/121', 'IPv6');
 INSERT INTO `azure_azuremonitor.core_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1802:2::380/121', 'IPv6');
 INSERT INTO `azure_azuremonitor.core_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1904:3::180/121', 'IPv6');

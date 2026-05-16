@@ -1,0 +1,38 @@
+[
+  {
+    "ip_address": "172.198.112.0/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.144.0/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.168.0/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904:400::/125",
+    "ip_type": "IPv6",
+    "service": "MicrosoftContainerRegistry.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904:800::/125",
+    "ip_type": "IPv6",
+    "service": "MicrosoftContainerRegistry.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904:c00::/125",
+    "ip_type": "IPv6",
+    "service": "MicrosoftContainerRegistry.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  }
+]

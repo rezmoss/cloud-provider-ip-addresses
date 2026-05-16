@@ -12,6 +12,8 @@ ip_address,ip_type,service,region
 51.4.160.56/32,IPv4,AzureArcInfrastructure.IsraelNorthwest,israelnorthwest
 2603:1040:1702:2::20/124,IPv6,AzureArcInfrastructure.IsraelNorthwest,israelnorthwest
 20.217.248.20/30,IPv4,AzureAttestation.IsraelNorthwest,israelnorthwest
+51.4.158.244/30,IPv4,AzureAttestation.IsraelNorthwest,israelnorthwest
+51.4.158.248/29,IPv4,AzureAttestation.IsraelNorthwest,israelnorthwest
 2603:1040:1702::540/124,IPv6,AzureAttestation.IsraelNorthwest,israelnorthwest
 20.217.252.0/26,IPv4,AzureBackup.IsraelNorthwest,israelnorthwest
 2603:1040:1702::600/121,IPv6,AzureBackup.IsraelNorthwest,israelnorthwest

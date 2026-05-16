@@ -12,6 +12,8 @@ ip_address,ip_type,service,region
 74.7.80.56/32,IPv4,AzureArcInfrastructure.SoutheastUS3,southeastus3
 2603:1030:1302:2::20/124,IPv6,AzureArcInfrastructure.SoutheastUS3,southeastus3
 74.7.40.20/30,IPv4,AzureAttestation.SoutheastUS3,southeastus3
+74.7.70.72/29,IPv4,AzureAttestation.SoutheastUS3,southeastus3
+74.7.71.0/30,IPv4,AzureAttestation.SoutheastUS3,southeastus3
 2603:1030:1302::540/124,IPv6,AzureAttestation.SoutheastUS3,southeastus3
 74.7.44.16/28,IPv4,AzureBackup.SoutheastUS3,southeastus3
 74.7.44.64/26,IPv4,AzureBackup.SoutheastUS3,southeastus3

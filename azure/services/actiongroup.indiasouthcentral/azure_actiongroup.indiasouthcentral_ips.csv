@@ -1,0 +1,2 @@
+ip_address,ip_type,service,region
+172.198.114.96/30,IPv4,ActionGroup.IndiaSouthCentral,indiasouthcentral

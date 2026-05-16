@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "172.198.84.0/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904::500/122",
+    "ip_type": "IPv6",
+    "service": "BatchNodeManagement.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  }
+]

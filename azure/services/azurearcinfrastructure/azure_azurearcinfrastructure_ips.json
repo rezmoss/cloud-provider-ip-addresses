@@ -1584,6 +1584,12 @@
     "region": ""
   },
   {
+    "ip_address": "48.193.72.93/32",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure",
+    "region": ""
+  },
+  {
     "ip_address": "48.196.92.188/30",
     "ip_type": "IPv4",
     "service": "AzureArcInfrastructure",
@@ -3301,6 +3307,12 @@
   },
   {
     "ip_address": "2603:1040:1802:1::710/124",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1040:1802:6::/128",
     "ip_type": "IPv6",
     "service": "AzureArcInfrastructure",
     "region": ""

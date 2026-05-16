@@ -581,6 +581,7 @@ INSERT INTO `azure_azuresiterecovery_ips` (`ip_address`, `ip_type`) VALUES ('260
 INSERT INTO `azure_azuresiterecovery_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40b:400::ad0/125', 'IPv6');
 INSERT INTO `azure_azuresiterecovery_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40b:800::158/125', 'IPv6');
 INSERT INTO `azure_azuresiterecovery_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40b:c00::158/125', 'IPv6');
+INSERT INTO `azure_azuresiterecovery_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40b:1400::40/124', 'IPv6');
 INSERT INTO `azure_azuresiterecovery_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:1::/123', 'IPv6');
 INSERT INTO `azure_azuresiterecovery_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:26::280/123', 'IPv6');
 INSERT INTO `azure_azuresiterecovery_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:402::2d0/125', 'IPv6');

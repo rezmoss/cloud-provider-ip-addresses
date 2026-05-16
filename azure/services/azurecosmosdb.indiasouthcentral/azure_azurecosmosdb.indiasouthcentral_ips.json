@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "172.198.84.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.84.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904::5c0/123",
+    "ip_type": "IPv6",
+    "service": "AzureCosmosDB.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  }
+]

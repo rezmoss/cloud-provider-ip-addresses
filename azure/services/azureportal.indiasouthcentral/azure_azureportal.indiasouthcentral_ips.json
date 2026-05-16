@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "172.198.95.156/30",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.98.128/27",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904:3::80/121",
+    "ip_type": "IPv6",
+    "service": "AzurePortal.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  }
+]

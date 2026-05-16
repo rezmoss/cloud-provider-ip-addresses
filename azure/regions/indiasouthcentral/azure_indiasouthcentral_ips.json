@@ -1,0 +1,1148 @@
+[
+  {
+    "ip_address": "172.198.114.96/30",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.86.16/28",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904::740/124",
+    "ip_type": "IPv6",
+    "service": "ApiManagement.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.93.0/24",
+    "ip_type": "IPv4",
+    "service": "AppService.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904:2::/120",
+    "ip_type": "IPv6",
+    "service": "AppService.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.94.192/26",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904:2::3c0/122",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.94.164/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.114.104/32",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904:2::380/124",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.80.20/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.109.200/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.110.16/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904::760/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.86.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.86.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904:1::/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.80.16/30",
+    "ip_type": "IPv4",
+    "service": "AzureBotService.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904::20/123",
+    "ip_type": "IPv6",
+    "service": "AzureBotService.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.80.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureCognitiveSearch.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904::100/121",
+    "ip_type": "IPv6",
+    "service": "AzureCognitiveSearch.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.92.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904:2::100/122",
+    "ip_type": "IPv6",
+    "service": "AzureConnectors.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.84.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.96.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.112.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.144.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.168.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904::700/125",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904:2::580/121",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904:4::188/125",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904:4::300/123",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904:4::320/124",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904:400::8/125",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904:800::8/125",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904:c00::8/125",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.84.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.84.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904::5c0/123",
+    "ip_type": "IPv6",
+    "service": "AzureCosmosDB.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.89.144/28",
+    "ip_type": "IPv4",
+    "service": "AzureDataExplorerManagement.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904:1::440/123",
+    "ip_type": "IPv6",
+    "service": "AzureDataExplorerManagement.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.84.152/29",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.86.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904::780/121",
+    "ip_type": "IPv6",
+    "service": "AzureDigitalTwins.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.81.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904::480/121",
+    "ip_type": "IPv6",
+    "service": "AzureEventGrid.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.88.0/24",
+    "ip_type": "IPv4",
+    "service": "EventHub.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904:1::200/120",
+    "ip_type": "IPv6",
+    "service": "EventHub.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.89.216/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.89.224/29",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.112.12/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.144.12/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.168.12/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904:1::428/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904:400::18/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904:800::18/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904:c00::18/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.81.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.105.121/32",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.106.208/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.106.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.107.0/30",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.107.4/31",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904::400/122",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904:4::400/123",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904:4::420/124",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904:4::430/126",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904:4::434/127",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904:4::436/128",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.96.216/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.98.160/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.98.168/31",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.98.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.112.168/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.112.176/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.144.168/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.144.176/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.168.168/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.168.176/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904:2::760/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904:3::40/122",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904:3::100/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904:3::180/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904:3::200/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.95.156/30",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.98.128/27",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904:3::80/121",
+    "ip_type": "IPv6",
+    "service": "AzurePortal.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.90.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904:1::500/120",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.99.32/27",
+    "ip_type": "IPv4",
+    "service": "Sql.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.99.64/27",
+    "ip_type": "IPv4",
+    "service": "Sql.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.99.128/26",
+    "ip_type": "IPv4",
+    "service": "Sql.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904:3::140/123",
+    "ip_type": "IPv6",
+    "service": "Sql.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904:3::280/121",
+    "ip_type": "IPv6",
+    "service": "Sql.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.89.0/25",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904:1::180/121",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "20.153.102.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "20.153.104.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "57.163.2.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "135.130.87.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "135.130.94.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "135.130.96.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "145.190.154.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1905::/48",
+    "ip_type": "IPv6",
+    "service": "Storage.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.84.0/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904::500/122",
+    "ip_type": "IPv6",
+    "service": "BatchNodeManagement.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.96.192/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.96.224/27",
+    "ip_type": "IPv4",
+    "service": "DataFactory.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.97.0/24",
+    "ip_type": "IPv4",
+    "service": "DataFactory.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904:2::600/120",
+    "ip_type": "IPv6",
+    "service": "DataFactory.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.80.64/26",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904::40/122",
+    "ip_type": "IPv6",
+    "service": "GatewayManager.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.89.208/29",
+    "ip_type": "IPv4",
+    "service": "HDInsight.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904:1::4d0/124",
+    "ip_type": "IPv6",
+    "service": "HDInsight.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.100.144/28",
+    "ip_type": "IPv4",
+    "service": "LogicApps.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.100.160/27",
+    "ip_type": "IPv4",
+    "service": "LogicApps.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904:4::10/124",
+    "ip_type": "IPv6",
+    "service": "LogicApps.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904:4::80/123",
+    "ip_type": "IPv6",
+    "service": "LogicApps.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.112.0/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.144.0/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.168.0/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904:400::/125",
+    "ip_type": "IPv6",
+    "service": "MicrosoftContainerRegistry.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904:800::/125",
+    "ip_type": "IPv6",
+    "service": "MicrosoftContainerRegistry.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904:c00::/125",
+    "ip_type": "IPv6",
+    "service": "MicrosoftContainerRegistry.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.95.142/31",
+    "ip_type": "IPv4",
+    "service": "PowerBI.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.95.152/30",
+    "ip_type": "IPv4",
+    "service": "PowerBI.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.96.208/29",
+    "ip_type": "IPv4",
+    "service": "PowerBI.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.109.160/27",
+    "ip_type": "IPv4",
+    "service": "PowerBI.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904:2::700/122",
+    "ip_type": "IPv6",
+    "service": "PowerBI.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904:2::740/123",
+    "ip_type": "IPv6",
+    "service": "PowerBI.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.80.32/29",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904::1a0/123",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.112.8/30",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.144.8/30",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.168.8/30",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904:400::10/125",
+    "ip_type": "IPv6",
+    "service": "ServiceFabric.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904:800::10/125",
+    "ip_type": "IPv6",
+    "service": "ServiceFabric.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904:c00::10/125",
+    "ip_type": "IPv6",
+    "service": "ServiceFabric.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.95.144/29",
+    "ip_type": "IPv4",
+    "service": "StorageSyncService.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904:2::480/123",
+    "ip_type": "IPv6",
+    "service": "StorageSyncService.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1061:2010:41::/117",
+    "ip_type": "IPv6",
+    "service": "WindowsVirtualDesktop.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "20.20.55.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.indiasouthcentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "20.20.55.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.indiasouthcentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "20.38.54.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.indiasouthcentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "20.152.120.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.indiasouthcentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "20.152.124.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.indiasouthcentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "20.153.102.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.indiasouthcentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "20.153.104.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.indiasouthcentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "20.201.143.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.indiasouthcentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "20.201.144.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.indiasouthcentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "20.231.151.160/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.indiasouthcentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "20.231.151.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.indiasouthcentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "40.64.192.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.indiasouthcentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "40.100.69.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.indiasouthcentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "40.100.70.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.indiasouthcentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "52.106.216.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.indiasouthcentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "52.123.22.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.indiasouthcentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "57.157.92.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.indiasouthcentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "57.157.92.128/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.indiasouthcentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "57.157.92.144/31",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.indiasouthcentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "57.163.2.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.indiasouthcentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "135.130.87.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.indiasouthcentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "135.130.94.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.indiasouthcentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "135.130.96.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.indiasouthcentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "145.190.60.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.indiasouthcentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "145.190.154.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.indiasouthcentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.0.0/16",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.indiasouthcentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "209.199.36.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.indiasouthcentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "209.199.36.112/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.indiasouthcentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "209.199.40.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.indiasouthcentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "209.199.41.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.indiasouthcentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "209.199.42.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.indiasouthcentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "209.199.43.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.indiasouthcentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "209.199.44.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.indiasouthcentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1901::/48",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.indiasouthcentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1902::/48",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.indiasouthcentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1903::/48",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.indiasouthcentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904::/47",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.indiasouthcentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1046:a00:5e::/63",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.indiasouthcentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1046:a00:60::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.indiasouthcentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1046:2000:2a0::/59",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.indiasouthcentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1047:1:240::/59",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.indiasouthcentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1061:101b::/58",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.indiasouthcentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1061:101b:40::/62",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.indiasouthcentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1061:101b:44::/63",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.indiasouthcentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1061:101b:46::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.indiasouthcentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1061:1310:5400::/54",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.indiasouthcentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1061:1741::/48",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.indiasouthcentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1061:2010:41::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.indiasouthcentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1061:2011:41::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.indiasouthcentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1063:2202:70::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.indiasouthcentral",
+    "region": "indiasouthcentral"
+  }
+]

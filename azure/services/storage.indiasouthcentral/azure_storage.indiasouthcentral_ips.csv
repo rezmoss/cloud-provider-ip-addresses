@@ -1,0 +1,9 @@
+ip_address,ip_type,service,region
+20.153.102.0/24,IPv4,Storage.IndiaSouthCentral,indiasouthcentral
+20.153.104.0/24,IPv4,Storage.IndiaSouthCentral,indiasouthcentral
+57.163.2.0/23,IPv4,Storage.IndiaSouthCentral,indiasouthcentral
+135.130.87.0/24,IPv4,Storage.IndiaSouthCentral,indiasouthcentral
+135.130.94.0/23,IPv4,Storage.IndiaSouthCentral,indiasouthcentral
+135.130.96.0/23,IPv4,Storage.IndiaSouthCentral,indiasouthcentral
+145.190.154.0/24,IPv4,Storage.IndiaSouthCentral,indiasouthcentral
+2603:1040:1905::/48,IPv6,Storage.IndiaSouthCentral,indiasouthcentral

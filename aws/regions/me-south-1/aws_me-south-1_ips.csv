@@ -37,7 +37,6 @@ ip_address,ip_type,service,region
 15.230.121.8/31,IPv4,AMAZON,me-south-1
 99.82.152.0/22,IPv4,AMAZON,me-south-1
 15.184.0.0/16,IPv4,AMAZON,me-south-1
-13.248.106.192/28,IPv4,AMAZON,me-south-1
 69.107.7.128/29,IPv4,AMAZON,me-south-1
 69.107.10.104/29,IPv4,AMAZON,me-south-1
 99.78.220.66/32,IPv4,AMAZON,me-south-1

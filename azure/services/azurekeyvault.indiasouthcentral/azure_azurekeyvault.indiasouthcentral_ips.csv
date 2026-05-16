@@ -1,0 +1,10 @@
+ip_address,ip_type,service,region
+172.198.89.216/30,IPv4,AzureKeyVault.IndiaSouthCentral,indiasouthcentral
+172.198.89.224/29,IPv4,AzureKeyVault.IndiaSouthCentral,indiasouthcentral
+172.198.112.12/30,IPv4,AzureKeyVault.IndiaSouthCentral,indiasouthcentral
+172.198.144.12/30,IPv4,AzureKeyVault.IndiaSouthCentral,indiasouthcentral
+172.198.168.12/30,IPv4,AzureKeyVault.IndiaSouthCentral,indiasouthcentral
+2603:1040:1904:1::428/125,IPv6,AzureKeyVault.IndiaSouthCentral,indiasouthcentral
+2603:1040:1904:400::18/125,IPv6,AzureKeyVault.IndiaSouthCentral,indiasouthcentral
+2603:1040:1904:800::18/125,IPv6,AzureKeyVault.IndiaSouthCentral,indiasouthcentral
+2603:1040:1904:c00::18/125,IPv6,AzureKeyVault.IndiaSouthCentral,indiasouthcentral

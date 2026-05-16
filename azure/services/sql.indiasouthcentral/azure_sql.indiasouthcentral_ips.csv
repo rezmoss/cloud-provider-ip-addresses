@@ -1,0 +1,6 @@
+ip_address,ip_type,service,region
+172.198.99.32/27,IPv4,Sql.IndiaSouthCentral,indiasouthcentral
+172.198.99.64/27,IPv4,Sql.IndiaSouthCentral,indiasouthcentral
+172.198.99.128/26,IPv4,Sql.IndiaSouthCentral,indiasouthcentral
+2603:1040:1904:3::140/123,IPv6,Sql.IndiaSouthCentral,indiasouthcentral
+2603:1040:1904:3::280/121,IPv6,Sql.IndiaSouthCentral,indiasouthcentral

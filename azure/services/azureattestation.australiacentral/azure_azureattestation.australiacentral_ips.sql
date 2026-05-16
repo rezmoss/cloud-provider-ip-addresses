@@ -7,6 +7,8 @@ CREATE TABLE IF NOT EXISTS `azure_azureattestation.australiacentral_ips` (
 );
 
 INSERT INTO `azure_azureattestation.australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.199.198.248/29', 'IPv4');
+INSERT INTO `azure_azureattestation.australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.199.215.160/29', 'IPv4');
+INSERT INTO `azure_azureattestation.australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.199.215.168/30', 'IPv4');
 INSERT INTO `azure_azureattestation.australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('20.37.229.172/30', 'IPv4');
 INSERT INTO `azure_azureattestation.australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('20.53.0.104/30', 'IPv4');
 INSERT INTO `azure_azureattestation.australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:304:2::6b0/124', 'IPv6');

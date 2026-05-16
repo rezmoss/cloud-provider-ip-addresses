@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "172.198.100.144/28",
+    "ip_type": "IPv4",
+    "service": "LogicApps.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.100.160/27",
+    "ip_type": "IPv4",
+    "service": "LogicApps.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904:4::10/124",
+    "ip_type": "IPv6",
+    "service": "LogicApps.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904:4::80/123",
+    "ip_type": "IPv6",
+    "service": "LogicApps.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  }
+]

@@ -7,6 +7,7 @@ CREATE TABLE IF NOT EXISTS `commoncrawl_ips` (
 );
 
 INSERT INTO `commoncrawl_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f28:365:80b0::/60', 'IPv6');
+INSERT INTO `commoncrawl_ips` (`ip_address`, `ip_type`) VALUES ('3.41.188.32/29', 'IPv4');
 INSERT INTO `commoncrawl_ips` (`ip_address`, `ip_type`) VALUES ('18.97.9.168/29', 'IPv4');
 INSERT INTO `commoncrawl_ips` (`ip_address`, `ip_type`) VALUES ('18.97.14.80/29', 'IPv4');
 INSERT INTO `commoncrawl_ips` (`ip_address`, `ip_type`) VALUES ('18.97.14.88/30', 'IPv4');

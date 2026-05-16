@@ -1,0 +1,7 @@
+ip_address,ip_type,service,region
+172.198.112.8/30,IPv4,ServiceFabric.IndiaSouthCentral,indiasouthcentral
+172.198.144.8/30,IPv4,ServiceFabric.IndiaSouthCentral,indiasouthcentral
+172.198.168.8/30,IPv4,ServiceFabric.IndiaSouthCentral,indiasouthcentral
+2603:1040:1904:400::10/125,IPv6,ServiceFabric.IndiaSouthCentral,indiasouthcentral
+2603:1040:1904:800::10/125,IPv6,ServiceFabric.IndiaSouthCentral,indiasouthcentral
+2603:1040:1904:c00::10/125,IPv6,ServiceFabric.IndiaSouthCentral,indiasouthcentral

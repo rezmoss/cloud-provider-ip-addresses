@@ -1,6 +1,6 @@
 #!/bin/bash
 # Azure IP Ranges
-# Updated: 2026-04-30 00:40:37
+# Updated: 2026-05-16 03:16:49
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -110,7 +110,6 @@ iptables -A INPUT -s 40.64.133.0/24 -j ACCEPT
 iptables -A INPUT -s 40.67.48.216/29 -j ACCEPT
 iptables -A INPUT -s 40.67.50.0/25 -j ACCEPT
 iptables -A INPUT -s 40.67.50.128/26 -j ACCEPT
-iptables -A INPUT -s 40.74.44.186/32 -j ACCEPT
 iptables -A INPUT -s 40.80.59.16/29 -j ACCEPT
 iptables -A INPUT -s 40.80.59.64/26 -j ACCEPT
 iptables -A INPUT -s 40.80.59.128/25 -j ACCEPT
@@ -139,7 +138,6 @@ iptables -A INPUT -s 51.105.82.128/25 -j ACCEPT
 iptables -A INPUT -s 51.105.90.24/29 -j ACCEPT
 iptables -A INPUT -s 51.105.90.192/26 -j ACCEPT
 iptables -A INPUT -s 51.105.91.0/25 -j ACCEPT
-iptables -A INPUT -s 51.105.135.194/32 -j ACCEPT
 iptables -A INPUT -s 51.107.50.48/29 -j ACCEPT
 iptables -A INPUT -s 51.107.50.64/26 -j ACCEPT
 iptables -A INPUT -s 51.107.50.128/25 -j ACCEPT
@@ -156,14 +154,12 @@ iptables -A INPUT -s 51.120.236.0/24 -j ACCEPT
 iptables -A INPUT -s 51.137.163.128/25 -j ACCEPT
 iptables -A INPUT -s 51.137.164.0/26 -j ACCEPT
 iptables -A INPUT -s 51.137.164.64/29 -j ACCEPT
-iptables -A INPUT -s 51.143.115.246/32 -j ACCEPT
 iptables -A INPUT -s 52.136.50.40/29 -j ACCEPT
 iptables -A INPUT -s 52.136.50.128/25 -j ACCEPT
 iptables -A INPUT -s 52.136.51.0/26 -j ACCEPT
 iptables -A INPUT -s 52.140.107.80/29 -j ACCEPT
 iptables -A INPUT -s 52.140.107.128/25 -j ACCEPT
 iptables -A INPUT -s 52.140.108.0/26 -j ACCEPT
-iptables -A INPUT -s 52.148.160.217/32 -j ACCEPT
 iptables -A INPUT -s 52.150.152.128/26 -j ACCEPT
 iptables -A INPUT -s 52.150.152.192/29 -j ACCEPT
 iptables -A INPUT -s 52.150.153.0/25 -j ACCEPT
@@ -185,7 +181,6 @@ iptables -A INPUT -s 102.37.164.0/24 -j ACCEPT
 iptables -A INPUT -s 102.133.57.176/29 -j ACCEPT
 iptables -A INPUT -s 102.133.58.0/25 -j ACCEPT
 iptables -A INPUT -s 102.133.58.128/26 -j ACCEPT
-iptables -A INPUT -s 104.45.168.35/32 -j ACCEPT
 iptables -A INPUT -s 134.138.69.0/24 -j ACCEPT
 iptables -A INPUT -s 158.23.99.0/24 -j ACCEPT
 iptables -A INPUT -s 172.194.69.0/24 -j ACCEPT

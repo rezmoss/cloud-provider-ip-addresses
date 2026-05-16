@@ -1,0 +1,92 @@
+[
+  {
+    "ip_address": "172.198.96.216/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.98.160/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.98.168/31",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.98.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.112.168/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.112.176/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.144.168/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.144.176/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.168.168/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.168.176/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904:2::760/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904:3::40/122",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904:3::100/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904:3::180/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904:3::200/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  }
+]

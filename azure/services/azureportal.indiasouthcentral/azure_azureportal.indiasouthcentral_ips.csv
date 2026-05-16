@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+172.198.95.156/30,IPv4,AzurePortal.IndiaSouthCentral,indiasouthcentral
+172.198.98.128/27,IPv4,AzurePortal.IndiaSouthCentral,indiasouthcentral
+2603:1040:1904:3::80/121,IPv6,AzurePortal.IndiaSouthCentral,indiasouthcentral

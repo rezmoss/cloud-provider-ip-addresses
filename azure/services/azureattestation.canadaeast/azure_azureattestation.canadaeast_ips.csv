@@ -1,4 +1,6 @@
 ip_address,ip_type,service,region
+4.239.0.248/29,IPv4,AzureAttestation.CanadaEast,canadaeast
+4.239.1.96/30,IPv4,AzureAttestation.CanadaEast,canadaeast
 20.200.5.104/29,IPv4,AzureAttestation.CanadaEast,canadaeast
 40.69.111.116/30,IPv4,AzureAttestation.CanadaEast,canadaeast
 40.89.23.44/30,IPv4,AzureAttestation.CanadaEast,canadaeast

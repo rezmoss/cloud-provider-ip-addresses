@@ -1,0 +1,3 @@
+ip_address,ip_type,service,region
+172.198.89.144/28,IPv4,AzureDataExplorerManagement.IndiaSouthCentral,indiasouthcentral
+2603:1040:1904:1::440/123,IPv6,AzureDataExplorerManagement.IndiaSouthCentral,indiasouthcentral

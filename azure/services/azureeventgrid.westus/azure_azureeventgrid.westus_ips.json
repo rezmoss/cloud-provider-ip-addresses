@@ -24,6 +24,12 @@
     "region": "westus"
   },
   {
+    "ip_address": "20.59.155.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.WestUS",
+    "region": "westus"
+  },
+  {
     "ip_address": "40.82.254.128/25",
     "ip_type": "IPv4",
     "service": "AzureEventGrid.WestUS",

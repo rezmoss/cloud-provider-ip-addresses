@@ -1,6 +1,6 @@
 #!/bin/bash
 # Azure IP Ranges
-# Updated: 2026-05-08 00:40:27
+# Updated: 2026-05-16 03:16:57
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -21,6 +21,8 @@ ufw allow from 134.138.76.120/30
 ufw allow from 134.138.88.84/32
 ufw allow from 134.138.99.12/32
 ufw allow from 2603:1030:1402:2::240/124
+ufw allow from 51.57.143.200/29
+ufw allow from 51.57.176.20/30
 ufw allow from 134.138.64.20/30
 ufw allow from 2603:1030:1402::760/124
 ufw allow from 134.138.70.80/28
@@ -97,6 +99,7 @@ ufw allow from 135.130.2.0/24
 ufw allow from 135.130.219.0/24
 ufw allow from 135.130.220.0/24
 ufw allow from 145.190.167.0/24
+ufw allow from 145.190.176.0/24
 ufw allow from 2603:1030:1403::/48
 ufw allow from 134.138.68.0/27
 ufw allow from 2603:1030:1402::500/122
@@ -155,9 +158,8 @@ ufw allow from 20.231.153.64/26
 ufw allow from 51.57.128.0/17
 ufw allow from 52.106.121.0/27
 ufw allow from 57.150.249.0/24
-ufw allow from 57.157.24.0/25
-ufw allow from 57.157.24.128/26
-ufw allow from 57.157.24.192/27
+ufw allow from 57.157.24.0/24
+ufw allow from 57.157.25.0/30
 ufw allow from 57.163.32.0/23
 ufw allow from 134.138.0.0/17
 ufw allow from 135.130.0.0/23
@@ -165,6 +167,7 @@ ufw allow from 135.130.2.0/24
 ufw allow from 135.130.219.0/24
 ufw allow from 135.130.220.0/24
 ufw allow from 145.190.167.0/24
+ufw allow from 145.190.176.0/24
 ufw allow from 209.199.33.224/28
 ufw allow from 209.199.35.0/25
 ufw allow from 209.199.45.96/27
@@ -177,8 +180,11 @@ ufw allow from 2603:1036:3000:260::/59
 ufw allow from 2603:1037:1:2e0::/59
 ufw allow from 2603:1061:101a::/58
 ufw allow from 2603:1061:101a:40::/59
-ufw allow from 2603:1061:101a:60::/61
-ufw allow from 2603:1061:101a:68::/62
+ufw allow from 2603:1061:101a:60::/60
+ufw allow from 2603:1061:101a:70::/61
+ufw allow from 2603:1061:101a:78::/62
+ufw allow from 2603:1061:101a:7c::/63
+ufw allow from 2603:1061:101a:7e::/64
 ufw allow from 2603:1061:1312:4000::/54
 ufw allow from 2603:1061:174c::/62
 ufw allow from 2603:1061:2011:47::/64

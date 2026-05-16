@@ -1,3 +1,5 @@
 ip_address,ip_type,service,region
 20.44.4.248/30,IPv4,AzureAttestation.SouthCentralUSSTG,usstagec
 20.45.116.92/30,IPv4,AzureAttestation.SouthCentralUSSTG,usstagec
+57.152.147.56/29,IPv4,AzureAttestation.SouthCentralUSSTG,usstagec
+57.152.147.192/30,IPv4,AzureAttestation.SouthCentralUSSTG,usstagec

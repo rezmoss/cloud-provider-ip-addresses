@@ -20,6 +20,7 @@ INSERT INTO `azure_azuremonitor.malaysiawest_ips` (`ip_address`, `ip_type`) VALU
 INSERT INTO `azure_azuremonitor.malaysiawest_ips` (`ip_address`, `ip_type`) VALUES ('85.211.235.160/27', 'IPv4');
 INSERT INTO `azure_azuremonitor.malaysiawest_ips` (`ip_address`, `ip_type`) VALUES ('85.211.235.208/28', 'IPv4');
 INSERT INTO `azure_azuremonitor.malaysiawest_ips` (`ip_address`, `ip_type`) VALUES ('85.211.235.224/27', 'IPv4');
+INSERT INTO `azure_azuremonitor.malaysiawest_ips` (`ip_address`, `ip_type`) VALUES ('172.197.132.192/26', 'IPv4');
 INSERT INTO `azure_azuremonitor.malaysiawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1601:8::19/128', 'IPv6');
 INSERT INTO `azure_azuremonitor.malaysiawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1601:8::1a/128', 'IPv6');
 INSERT INTO `azure_azuremonitor.malaysiawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1602:2::440/122', 'IPv6');
@@ -27,3 +28,4 @@ INSERT INTO `azure_azuremonitor.malaysiawest_ips` (`ip_address`, `ip_type`) VALU
 INSERT INTO `azure_azuremonitor.malaysiawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1602:2::580/121', 'IPv6');
 INSERT INTO `azure_azuremonitor.malaysiawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1602:2::600/121', 'IPv6');
 INSERT INTO `azure_azuremonitor.malaysiawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1602:4::780/123', 'IPv6');
+INSERT INTO `azure_azuremonitor.malaysiawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1602:6::/122', 'IPv6');

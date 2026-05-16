@@ -19,6 +19,8 @@ INSERT INTO `azure_israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('51.4.
 INSERT INTO `azure_israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('51.4.160.56/32', 'IPv4');
 INSERT INTO `azure_israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1702:2::20/124', 'IPv6');
 INSERT INTO `azure_israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('20.217.248.20/30', 'IPv4');
+INSERT INTO `azure_israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('51.4.158.244/30', 'IPv4');
+INSERT INTO `azure_israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('51.4.158.248/29', 'IPv4');
 INSERT INTO `azure_israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1702::540/124', 'IPv6');
 INSERT INTO `azure_israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('20.217.252.0/26', 'IPv4');
 INSERT INTO `azure_israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1702::600/121', 'IPv6');

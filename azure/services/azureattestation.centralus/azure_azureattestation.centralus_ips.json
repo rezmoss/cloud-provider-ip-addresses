@@ -12,6 +12,18 @@
     "region": "centralus"
   },
   {
+    "ip_address": "57.167.118.28/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "57.167.118.32/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.CentralUS",
+    "region": "centralus"
+  },
+  {
     "ip_address": "172.170.180.48/29",
     "ip_type": "IPv4",
     "service": "AzureAttestation.CentralUS",

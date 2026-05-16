@@ -228,12 +228,6 @@
     "region": "me-south-1"
   },
   {
-    "ip_address": "13.248.106.192/28",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "me-south-1"
-  },
-  {
     "ip_address": "69.107.7.128/29",
     "ip_type": "IPv4",
     "service": "AMAZON",

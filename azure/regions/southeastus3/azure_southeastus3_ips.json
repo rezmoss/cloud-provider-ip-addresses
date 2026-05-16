@@ -78,6 +78,18 @@
     "region": "southeastus3"
   },
   {
+    "ip_address": "74.7.70.72/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.SoutheastUS3",
+    "region": "southeastus3"
+  },
+  {
+    "ip_address": "74.7.71.0/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.SoutheastUS3",
+    "region": "southeastus3"
+  },
+  {
     "ip_address": "2603:1030:1302::540/124",
     "ip_type": "IPv6",
     "service": "AzureAttestation.SoutheastUS3",

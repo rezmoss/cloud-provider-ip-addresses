@@ -42,6 +42,8 @@ INSERT INTO `azure_canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('40.69.116.
 INSERT INTO `azure_canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('40.89.20.128/30', 'IPv4');
 INSERT INTO `azure_canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('40.89.23.32/30', 'IPv4');
 INSERT INTO `azure_canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005:c::2d1/128', 'IPv6');
+INSERT INTO `azure_canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('4.239.0.248/29', 'IPv4');
+INSERT INTO `azure_canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('4.239.1.96/30', 'IPv4');
 INSERT INTO `azure_canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('20.200.5.104/29', 'IPv4');
 INSERT INTO `azure_canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('40.69.111.116/30', 'IPv4');
 INSERT INTO `azure_canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('40.89.23.44/30', 'IPv4');

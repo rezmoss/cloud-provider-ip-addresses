@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "172.198.80.20/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.109.200/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.110.16/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904::760/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  }
+]

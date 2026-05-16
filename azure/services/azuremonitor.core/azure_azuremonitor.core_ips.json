@@ -2814,6 +2814,12 @@
     "region": ""
   },
   {
+    "ip_address": "172.197.132.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.Core",
+    "region": ""
+  },
+  {
     "ip_address": "172.198.98.192/27",
     "ip_type": "IPv4",
     "service": "AzureMonitor.Core",
@@ -4987,6 +4993,12 @@
   },
   {
     "ip_address": "2603:1040:1602:2::580/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.Core",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1040:1602:6::/122",
     "ip_type": "IPv6",
     "service": "AzureMonitor.Core",
     "region": ""

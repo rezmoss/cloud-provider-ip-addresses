@@ -10062,6 +10062,12 @@
     "region": ""
   },
   {
+    "ip_address": "172.197.132.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor",
+    "region": ""
+  },
+  {
     "ip_address": "172.198.96.216/29",
     "ip_type": "IPv4",
     "service": "AzureMonitor",
@@ -15337,6 +15343,12 @@
   },
   {
     "ip_address": "2603:1040:1602:4::780/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1040:1602:6::/122",
     "ip_type": "IPv6",
     "service": "AzureMonitor",
     "region": ""

@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "172.198.86.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.86.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904:1::/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  }
+]

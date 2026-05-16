@@ -1,5 +1,17 @@
 [
   {
+    "ip_address": "4.239.0.248/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "4.239.1.96/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
     "ip_address": "20.200.5.104/29",
     "ip_type": "IPv4",
     "service": "AzureAttestation.CanadaEast",

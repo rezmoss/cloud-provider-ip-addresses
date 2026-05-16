@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "172.198.80.64/26",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904::40/122",
+    "ip_type": "IPv6",
+    "service": "GatewayManager.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  }
+]

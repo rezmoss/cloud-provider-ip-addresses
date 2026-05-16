@@ -6,6 +6,18 @@
     "region": "qatarcentral"
   },
   {
+    "ip_address": "20.173.219.236/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
+    "ip_address": "20.173.220.40/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
     "ip_address": "2603:1040:1002:1::80/124",
     "ip_type": "IPv6",
     "service": "AzureAttestation.QatarCentral",
