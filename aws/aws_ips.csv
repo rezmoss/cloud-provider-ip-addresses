@@ -2383,6 +2383,7 @@ ip_address,ip_type,service,region
 205.251.254.0/24,IPv4,AMAZON,GLOBAL
 216.198.224.0/22,IPv4,AMAZON,us-east-1
 13.232.0.0/14,IPv4,AMAZON,ap-south-1
+13.248.82.0/24,IPv4,AMAZON,us-south-1
 15.220.0.0/20,IPv4,AMAZON,us-west-2
 15.248.16.0/22,IPv4,AMAZON,eu-west-3
 16.29.0.0/16,IPv4,AMAZON,af-south-1
@@ -10211,6 +10212,7 @@ ip_address,ip_type,service,region
 52.94.30.0/24,IPv4,DYNAMODB,af-south-1
 35.71.110.0/24,IPv4,DYNAMODB,ap-northeast-3
 52.94.19.0/24,IPv4,DYNAMODB,ap-northeast-3
+13.248.82.0/24,IPv4,DYNAMODB,us-south-1
 35.71.100.0/24,IPv4,DYNAMODB,ap-south-1
 52.94.20.0/24,IPv4,DYNAMODB,ap-south-1
 52.94.9.0/24,IPv4,DYNAMODB,us-gov-west-1

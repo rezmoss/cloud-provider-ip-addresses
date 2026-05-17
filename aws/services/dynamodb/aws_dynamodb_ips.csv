@@ -72,6 +72,7 @@ ip_address,ip_type,service,region
 52.94.30.0/24,IPv4,DYNAMODB,af-south-1
 35.71.110.0/24,IPv4,DYNAMODB,ap-northeast-3
 52.94.19.0/24,IPv4,DYNAMODB,ap-northeast-3
+13.248.82.0/24,IPv4,DYNAMODB,us-south-1
 35.71.100.0/24,IPv4,DYNAMODB,ap-south-1
 52.94.20.0/24,IPv4,DYNAMODB,ap-south-1
 52.94.9.0/24,IPv4,DYNAMODB,us-gov-west-1
