@@ -1,0 +1,22 @@
+[
+  {
+    "ip_address": "2a02:26f7:d940:4293::/64",
+    "ip_type": "IPv6",
+    "region": "CL-TA"
+  },
+  {
+    "ip_address": "2a02:26f7:d944:4293::/64",
+    "ip_type": "IPv6",
+    "region": "CL-TA"
+  },
+  {
+    "ip_address": "2a02:26f7:d948:4293::/64",
+    "ip_type": "IPv6",
+    "region": "CL-TA"
+  },
+  {
+    "ip_address": "2a02:26f7:d94c:4293::/64",
+    "ip_type": "IPv6",
+    "region": "CL-TA"
+  }
+]

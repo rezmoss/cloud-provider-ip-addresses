@@ -6,6 +6,22 @@ CREATE TABLE IF NOT EXISTS `apple_private_relay_cl-ar_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `apple_private_relay_cl-ar_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d940:4287::/64', 'IPv6');
+INSERT INTO `apple_private_relay_cl-ar_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d940:42a6::/64', 'IPv6');
+INSERT INTO `apple_private_relay_cl-ar_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d940:42bd::/64', 'IPv6');
+INSERT INTO `apple_private_relay_cl-ar_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d940:d700::/64', 'IPv6');
+INSERT INTO `apple_private_relay_cl-ar_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d944:4287::/64', 'IPv6');
+INSERT INTO `apple_private_relay_cl-ar_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d944:42a6::/64', 'IPv6');
+INSERT INTO `apple_private_relay_cl-ar_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d944:42bd::/64', 'IPv6');
+INSERT INTO `apple_private_relay_cl-ar_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d944:d700::/64', 'IPv6');
+INSERT INTO `apple_private_relay_cl-ar_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d948:4287::/64', 'IPv6');
+INSERT INTO `apple_private_relay_cl-ar_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d948:42a6::/64', 'IPv6');
+INSERT INTO `apple_private_relay_cl-ar_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d948:42bd::/64', 'IPv6');
+INSERT INTO `apple_private_relay_cl-ar_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d948:d700::/64', 'IPv6');
+INSERT INTO `apple_private_relay_cl-ar_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d94c:4287::/64', 'IPv6');
+INSERT INTO `apple_private_relay_cl-ar_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d94c:42a6::/64', 'IPv6');
+INSERT INTO `apple_private_relay_cl-ar_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d94c:42bd::/64', 'IPv6');
+INSERT INTO `apple_private_relay_cl-ar_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d94c:d700::/64', 'IPv6');
 INSERT INTO `apple_private_relay_cl-ar_ips` (`ip_address`, `ip_type`) VALUES ('104.28.47.194/32', 'IPv4');
 INSERT INTO `apple_private_relay_cl-ar_ips` (`ip_address`, `ip_type`) VALUES ('104.28.47.195/32', 'IPv4');
 INSERT INTO `apple_private_relay_cl-ar_ips` (`ip_address`, `ip_type`) VALUES ('104.28.59.124/32', 'IPv4');

@@ -1,12 +1,54 @@
 #!/bin/bash
 # Apple_private_relay IP Ranges
-# Updated: 2026-03-26 02:08:10
+# Updated: 2026-05-18 03:21:50
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
 # Updates daily at 00:00 UTC
 # UFW deny rules for apple_private_relay
 
+ufw deny from 172.225.84.192/28
+ufw deny from 172.225.173.128/27
+ufw deny from 172.225.238.96/28
+ufw deny from 172.225.250.96/27
+ufw deny from 172.226.13.224/28
+ufw deny from 172.226.82.0/27
+ufw deny from 172.226.172.0/28
+ufw deny from 2a02:26f7:f7c0::/54
+ufw deny from 2a02:26f7:f7c0:400::/56
+ufw deny from 2a02:26f7:f7c0:4000::/64
+ufw deny from 2a02:26f7:f7c0:e111::/64
+ufw deny from 2a02:26f7:f7c1:4000::/64
+ufw deny from 2a02:26f7:f7c2::/54
+ufw deny from 2a02:26f7:f7c2:400::/56
+ufw deny from 2a02:26f7:f7c2:4000::/64
+ufw deny from 2a02:26f7:f7c2:e111::/64
+ufw deny from 2a02:26f7:f7c3:4000::/64
+ufw deny from 2a02:26f7:f7c4::/54
+ufw deny from 2a02:26f7:f7c4:400::/56
+ufw deny from 2a02:26f7:f7c4:4000::/64
+ufw deny from 2a02:26f7:f7c4:e111::/64
+ufw deny from 2a02:26f7:f7c5:4000::/64
+ufw deny from 2a02:26f7:f7cc::/54
+ufw deny from 2a02:26f7:f7cc:400::/56
+ufw deny from 2a02:26f7:f7cc:4000::/64
+ufw deny from 2a02:26f7:f7cc:e111::/64
+ufw deny from 2a02:26f7:f7cd:4000::/64
+ufw deny from 2a02:26f7:f7d0::/54
+ufw deny from 2a02:26f7:f7d0:400::/56
+ufw deny from 2a02:26f7:f7d0:4000::/64
+ufw deny from 2a02:26f7:f7d0:e111::/64
+ufw deny from 2a02:26f7:f7d1:4000::/64
+ufw deny from 2a02:26f7:f7d4::/54
+ufw deny from 2a02:26f7:f7d4:400::/56
+ufw deny from 2a02:26f7:f7d4:4000::/64
+ufw deny from 2a02:26f7:f7d4:e111::/64
+ufw deny from 2a02:26f7:f7d5:4000::/64
+ufw deny from 2a02:26f7:f7d8::/54
+ufw deny from 2a02:26f7:f7d8:400::/56
+ufw deny from 2a02:26f7:f7d8:4000::/64
+ufw deny from 2a02:26f7:f7d8:e111::/64
+ufw deny from 2a02:26f7:f7d9:4000::/64
 ufw deny from 104.28.32.23/32
 ufw deny from 104.28.32.24/32
 ufw deny from 104.28.32.25/32

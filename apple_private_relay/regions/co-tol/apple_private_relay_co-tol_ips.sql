@@ -6,6 +6,34 @@ CREATE TABLE IF NOT EXISTS `apple_private_relay_co-tol_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `apple_private_relay_co-tol_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7c0:e138::/64', 'IPv6');
+INSERT INTO `apple_private_relay_co-tol_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7c0:e13e::/64', 'IPv6');
+INSERT INTO `apple_private_relay_co-tol_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7c0:e177::/64', 'IPv6');
+INSERT INTO `apple_private_relay_co-tol_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7c0:e17f::/64', 'IPv6');
+INSERT INTO `apple_private_relay_co-tol_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7c2:e138::/64', 'IPv6');
+INSERT INTO `apple_private_relay_co-tol_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7c2:e13e::/64', 'IPv6');
+INSERT INTO `apple_private_relay_co-tol_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7c2:e177::/64', 'IPv6');
+INSERT INTO `apple_private_relay_co-tol_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7c2:e17f::/64', 'IPv6');
+INSERT INTO `apple_private_relay_co-tol_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7c4:e138::/64', 'IPv6');
+INSERT INTO `apple_private_relay_co-tol_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7c4:e13e::/64', 'IPv6');
+INSERT INTO `apple_private_relay_co-tol_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7c4:e177::/64', 'IPv6');
+INSERT INTO `apple_private_relay_co-tol_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7c4:e17f::/64', 'IPv6');
+INSERT INTO `apple_private_relay_co-tol_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7cc:e138::/64', 'IPv6');
+INSERT INTO `apple_private_relay_co-tol_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7cc:e13e::/64', 'IPv6');
+INSERT INTO `apple_private_relay_co-tol_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7cc:e177::/64', 'IPv6');
+INSERT INTO `apple_private_relay_co-tol_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7cc:e17f::/64', 'IPv6');
+INSERT INTO `apple_private_relay_co-tol_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7d0:e138::/64', 'IPv6');
+INSERT INTO `apple_private_relay_co-tol_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7d0:e13e::/64', 'IPv6');
+INSERT INTO `apple_private_relay_co-tol_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7d0:e177::/64', 'IPv6');
+INSERT INTO `apple_private_relay_co-tol_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7d0:e17f::/64', 'IPv6');
+INSERT INTO `apple_private_relay_co-tol_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7d4:e138::/64', 'IPv6');
+INSERT INTO `apple_private_relay_co-tol_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7d4:e13e::/64', 'IPv6');
+INSERT INTO `apple_private_relay_co-tol_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7d4:e177::/64', 'IPv6');
+INSERT INTO `apple_private_relay_co-tol_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7d4:e17f::/64', 'IPv6');
+INSERT INTO `apple_private_relay_co-tol_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7d8:e138::/64', 'IPv6');
+INSERT INTO `apple_private_relay_co-tol_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7d8:e13e::/64', 'IPv6');
+INSERT INTO `apple_private_relay_co-tol_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7d8:e177::/64', 'IPv6');
+INSERT INTO `apple_private_relay_co-tol_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7d8:e17f::/64', 'IPv6');
 INSERT INTO `apple_private_relay_co-tol_ips` (`ip_address`, `ip_type`) VALUES ('104.28.32.8/32', 'IPv4');
 INSERT INTO `apple_private_relay_co-tol_ips` (`ip_address`, `ip_type`) VALUES ('104.28.32.9/32', 'IPv4');
 INSERT INTO `apple_private_relay_co-tol_ips` (`ip_address`, `ip_type`) VALUES ('104.28.36.22/32', 'IPv4');

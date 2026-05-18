@@ -1,0 +1,62 @@
+[
+  {
+    "ip_address": "2a02:26f7:d980:407f::/64",
+    "ip_type": "IPv6",
+    "region": "AR-F"
+  },
+  {
+    "ip_address": "2a02:26f7:d980:ec67::/64",
+    "ip_type": "IPv6",
+    "region": "AR-F"
+  },
+  {
+    "ip_address": "2a02:26f7:d980:ec80::/64",
+    "ip_type": "IPv6",
+    "region": "AR-F"
+  },
+  {
+    "ip_address": "2a02:26f7:d984:407f::/64",
+    "ip_type": "IPv6",
+    "region": "AR-F"
+  },
+  {
+    "ip_address": "2a02:26f7:d984:ec67::/64",
+    "ip_type": "IPv6",
+    "region": "AR-F"
+  },
+  {
+    "ip_address": "2a02:26f7:d984:ec80::/64",
+    "ip_type": "IPv6",
+    "region": "AR-F"
+  },
+  {
+    "ip_address": "2a02:26f7:d988:407f::/64",
+    "ip_type": "IPv6",
+    "region": "AR-F"
+  },
+  {
+    "ip_address": "2a02:26f7:d988:ec67::/64",
+    "ip_type": "IPv6",
+    "region": "AR-F"
+  },
+  {
+    "ip_address": "2a02:26f7:d988:ec80::/64",
+    "ip_type": "IPv6",
+    "region": "AR-F"
+  },
+  {
+    "ip_address": "2a02:26f7:d98c:407f::/64",
+    "ip_type": "IPv6",
+    "region": "AR-F"
+  },
+  {
+    "ip_address": "2a02:26f7:d98c:ec67::/64",
+    "ip_type": "IPv6",
+    "region": "AR-F"
+  },
+  {
+    "ip_address": "2a02:26f7:d98c:ec80::/64",
+    "ip_type": "IPv6",
+    "region": "AR-F"
+  }
+]

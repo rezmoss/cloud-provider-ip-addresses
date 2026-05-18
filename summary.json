@@ -1,7 +1,7 @@
 {
-  "generated": "2026-05-17T03:20:13.385015",
+  "generated": "2026-05-18T03:22:32.830710",
   "provider_count": 24,
-  "total_ipv4_addresses": 340064098,
+  "total_ipv4_addresses": 340064138,
   "total_ipv6_addresses": 5205550106100951753157016206763022,
   "ipv4_space_coverage_pct": 7.9177,
   "providers": {
@@ -105,10 +105,10 @@
       "regions": 0
     },
     "gptbot": {
-      "ipv4_cidrs": 304,
+      "ipv4_cidrs": 306,
       "ipv6_cidrs": 0,
-      "total_cidrs": 304,
-      "ipv4_addresses": 9936,
+      "total_cidrs": 306,
+      "ipv4_addresses": 9968,
       "ipv6_addresses": 0,
       "services": 3,
       "regions": 0
@@ -123,13 +123,13 @@
       "regions": 0
     },
     "apple_private_relay": {
-      "ipv4_cidrs": 41771,
+      "ipv4_cidrs": 41779,
       "ipv6_cidrs": 245126,
-      "total_cidrs": 286897,
-      "ipv4_addresses": 105749,
+      "total_cidrs": 286905,
+      "ipv4_addresses": 105757,
       "ipv6_addresses": 218601191285815052168540979200,
       "services": 0,
-      "regions": 1242
+      "regions": 1278
     },
     "telegram": {
       "ipv4_cidrs": 9,

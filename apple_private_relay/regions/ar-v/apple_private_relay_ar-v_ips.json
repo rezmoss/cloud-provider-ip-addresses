@@ -1,0 +1,42 @@
+[
+  {
+    "ip_address": "2a02:26f7:d980:ecee::/64",
+    "ip_type": "IPv6",
+    "region": "AR-V"
+  },
+  {
+    "ip_address": "2a02:26f7:d980:ed43::/64",
+    "ip_type": "IPv6",
+    "region": "AR-V"
+  },
+  {
+    "ip_address": "2a02:26f7:d984:ecee::/64",
+    "ip_type": "IPv6",
+    "region": "AR-V"
+  },
+  {
+    "ip_address": "2a02:26f7:d984:ed43::/64",
+    "ip_type": "IPv6",
+    "region": "AR-V"
+  },
+  {
+    "ip_address": "2a02:26f7:d988:ecee::/64",
+    "ip_type": "IPv6",
+    "region": "AR-V"
+  },
+  {
+    "ip_address": "2a02:26f7:d988:ed43::/64",
+    "ip_type": "IPv6",
+    "region": "AR-V"
+  },
+  {
+    "ip_address": "2a02:26f7:d98c:ecee::/64",
+    "ip_type": "IPv6",
+    "region": "AR-V"
+  },
+  {
+    "ip_address": "2a02:26f7:d98c:ed43::/64",
+    "ip_type": "IPv6",
+    "region": "AR-V"
+  }
+]

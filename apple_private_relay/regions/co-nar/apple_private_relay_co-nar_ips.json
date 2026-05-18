@@ -1,5 +1,145 @@
 [
   {
+    "ip_address": "2a02:26f7:f7c0:e12f::/64",
+    "ip_type": "IPv6",
+    "region": "CO-NAR"
+  },
+  {
+    "ip_address": "2a02:26f7:f7c0:e139::/64",
+    "ip_type": "IPv6",
+    "region": "CO-NAR"
+  },
+  {
+    "ip_address": "2a02:26f7:f7c0:e154::/64",
+    "ip_type": "IPv6",
+    "region": "CO-NAR"
+  },
+  {
+    "ip_address": "2a02:26f7:f7c0:e17a::/64",
+    "ip_type": "IPv6",
+    "region": "CO-NAR"
+  },
+  {
+    "ip_address": "2a02:26f7:f7c2:e12f::/64",
+    "ip_type": "IPv6",
+    "region": "CO-NAR"
+  },
+  {
+    "ip_address": "2a02:26f7:f7c2:e139::/64",
+    "ip_type": "IPv6",
+    "region": "CO-NAR"
+  },
+  {
+    "ip_address": "2a02:26f7:f7c2:e154::/64",
+    "ip_type": "IPv6",
+    "region": "CO-NAR"
+  },
+  {
+    "ip_address": "2a02:26f7:f7c2:e17a::/64",
+    "ip_type": "IPv6",
+    "region": "CO-NAR"
+  },
+  {
+    "ip_address": "2a02:26f7:f7c4:e12f::/64",
+    "ip_type": "IPv6",
+    "region": "CO-NAR"
+  },
+  {
+    "ip_address": "2a02:26f7:f7c4:e139::/64",
+    "ip_type": "IPv6",
+    "region": "CO-NAR"
+  },
+  {
+    "ip_address": "2a02:26f7:f7c4:e154::/64",
+    "ip_type": "IPv6",
+    "region": "CO-NAR"
+  },
+  {
+    "ip_address": "2a02:26f7:f7c4:e17a::/64",
+    "ip_type": "IPv6",
+    "region": "CO-NAR"
+  },
+  {
+    "ip_address": "2a02:26f7:f7cc:e12f::/64",
+    "ip_type": "IPv6",
+    "region": "CO-NAR"
+  },
+  {
+    "ip_address": "2a02:26f7:f7cc:e139::/64",
+    "ip_type": "IPv6",
+    "region": "CO-NAR"
+  },
+  {
+    "ip_address": "2a02:26f7:f7cc:e154::/64",
+    "ip_type": "IPv6",
+    "region": "CO-NAR"
+  },
+  {
+    "ip_address": "2a02:26f7:f7cc:e17a::/64",
+    "ip_type": "IPv6",
+    "region": "CO-NAR"
+  },
+  {
+    "ip_address": "2a02:26f7:f7d0:e12f::/64",
+    "ip_type": "IPv6",
+    "region": "CO-NAR"
+  },
+  {
+    "ip_address": "2a02:26f7:f7d0:e139::/64",
+    "ip_type": "IPv6",
+    "region": "CO-NAR"
+  },
+  {
+    "ip_address": "2a02:26f7:f7d0:e154::/64",
+    "ip_type": "IPv6",
+    "region": "CO-NAR"
+  },
+  {
+    "ip_address": "2a02:26f7:f7d0:e17a::/64",
+    "ip_type": "IPv6",
+    "region": "CO-NAR"
+  },
+  {
+    "ip_address": "2a02:26f7:f7d4:e12f::/64",
+    "ip_type": "IPv6",
+    "region": "CO-NAR"
+  },
+  {
+    "ip_address": "2a02:26f7:f7d4:e139::/64",
+    "ip_type": "IPv6",
+    "region": "CO-NAR"
+  },
+  {
+    "ip_address": "2a02:26f7:f7d4:e154::/64",
+    "ip_type": "IPv6",
+    "region": "CO-NAR"
+  },
+  {
+    "ip_address": "2a02:26f7:f7d4:e17a::/64",
+    "ip_type": "IPv6",
+    "region": "CO-NAR"
+  },
+  {
+    "ip_address": "2a02:26f7:f7d8:e12f::/64",
+    "ip_type": "IPv6",
+    "region": "CO-NAR"
+  },
+  {
+    "ip_address": "2a02:26f7:f7d8:e139::/64",
+    "ip_type": "IPv6",
+    "region": "CO-NAR"
+  },
+  {
+    "ip_address": "2a02:26f7:f7d8:e154::/64",
+    "ip_type": "IPv6",
+    "region": "CO-NAR"
+  },
+  {
+    "ip_address": "2a02:26f7:f7d8:e17a::/64",
+    "ip_type": "IPv6",
+    "region": "CO-NAR"
+  },
+  {
     "ip_address": "104.28.32.10/32",
     "ip_type": "IPv4",
     "region": "CO-NAR"

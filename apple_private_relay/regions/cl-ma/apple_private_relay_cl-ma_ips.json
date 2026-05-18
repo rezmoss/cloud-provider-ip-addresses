@@ -1,0 +1,42 @@
+[
+  {
+    "ip_address": "2a02:26f7:d940:42ae::/64",
+    "ip_type": "IPv6",
+    "region": "CL-MA"
+  },
+  {
+    "ip_address": "2a02:26f7:d940:42b9::/64",
+    "ip_type": "IPv6",
+    "region": "CL-MA"
+  },
+  {
+    "ip_address": "2a02:26f7:d944:42ae::/64",
+    "ip_type": "IPv6",
+    "region": "CL-MA"
+  },
+  {
+    "ip_address": "2a02:26f7:d944:42b9::/64",
+    "ip_type": "IPv6",
+    "region": "CL-MA"
+  },
+  {
+    "ip_address": "2a02:26f7:d948:42ae::/64",
+    "ip_type": "IPv6",
+    "region": "CL-MA"
+  },
+  {
+    "ip_address": "2a02:26f7:d948:42b9::/64",
+    "ip_type": "IPv6",
+    "region": "CL-MA"
+  },
+  {
+    "ip_address": "2a02:26f7:d94c:42ae::/64",
+    "ip_type": "IPv6",
+    "region": "CL-MA"
+  },
+  {
+    "ip_address": "2a02:26f7:d94c:42b9::/64",
+    "ip_type": "IPv6",
+    "region": "CL-MA"
+  }
+]

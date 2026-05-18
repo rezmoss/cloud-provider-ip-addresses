@@ -1,0 +1,58 @@
+#!/bin/bash
+# Apple_private_relay IP Ranges
+# Updated: 2026-05-18 03:21:52
+# Source: https://github.com/rezmoss/cloud-provider-ip-addresses
+# License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
+# This file is generated automatically. Do not edit it directly.
+# Updates daily at 00:00 UTC
+# UFW deny rules for apple_private_relay
+
+ufw deny from 2a02:26f7:f7c0:e11c::/64
+ufw deny from 2a02:26f7:f7c0:e128::/64
+ufw deny from 2a02:26f7:f7c0:e149::/64
+ufw deny from 2a02:26f7:f7c0:e170::/64
+ufw deny from 2a02:26f7:f7c0:e17d::/64
+ufw deny from 2a02:26f7:f7c0:e185::/64
+ufw deny from 2a02:26f7:f7c0:e189::/64
+ufw deny from 2a02:26f7:f7c2:e11c::/64
+ufw deny from 2a02:26f7:f7c2:e128::/64
+ufw deny from 2a02:26f7:f7c2:e149::/64
+ufw deny from 2a02:26f7:f7c2:e170::/64
+ufw deny from 2a02:26f7:f7c2:e17d::/64
+ufw deny from 2a02:26f7:f7c2:e185::/64
+ufw deny from 2a02:26f7:f7c2:e189::/64
+ufw deny from 2a02:26f7:f7c4:e11c::/64
+ufw deny from 2a02:26f7:f7c4:e128::/64
+ufw deny from 2a02:26f7:f7c4:e149::/64
+ufw deny from 2a02:26f7:f7c4:e170::/64
+ufw deny from 2a02:26f7:f7c4:e17d::/64
+ufw deny from 2a02:26f7:f7c4:e185::/64
+ufw deny from 2a02:26f7:f7c4:e189::/64
+ufw deny from 2a02:26f7:f7cc:e11c::/64
+ufw deny from 2a02:26f7:f7cc:e128::/64
+ufw deny from 2a02:26f7:f7cc:e149::/64
+ufw deny from 2a02:26f7:f7cc:e170::/64
+ufw deny from 2a02:26f7:f7cc:e17d::/64
+ufw deny from 2a02:26f7:f7cc:e185::/64
+ufw deny from 2a02:26f7:f7cc:e189::/64
+ufw deny from 2a02:26f7:f7d0:e11c::/64
+ufw deny from 2a02:26f7:f7d0:e128::/64
+ufw deny from 2a02:26f7:f7d0:e149::/64
+ufw deny from 2a02:26f7:f7d0:e170::/64
+ufw deny from 2a02:26f7:f7d0:e17d::/64
+ufw deny from 2a02:26f7:f7d0:e185::/64
+ufw deny from 2a02:26f7:f7d0:e189::/64
+ufw deny from 2a02:26f7:f7d4:e11c::/64
+ufw deny from 2a02:26f7:f7d4:e128::/64
+ufw deny from 2a02:26f7:f7d4:e149::/64
+ufw deny from 2a02:26f7:f7d4:e170::/64
+ufw deny from 2a02:26f7:f7d4:e17d::/64
+ufw deny from 2a02:26f7:f7d4:e185::/64
+ufw deny from 2a02:26f7:f7d4:e189::/64
+ufw deny from 2a02:26f7:f7d8:e11c::/64
+ufw deny from 2a02:26f7:f7d8:e128::/64
+ufw deny from 2a02:26f7:f7d8:e149::/64
+ufw deny from 2a02:26f7:f7d8:e170::/64
+ufw deny from 2a02:26f7:f7d8:e17d::/64
+ufw deny from 2a02:26f7:f7d8:e185::/64
+ufw deny from 2a02:26f7:f7d8:e189::/64

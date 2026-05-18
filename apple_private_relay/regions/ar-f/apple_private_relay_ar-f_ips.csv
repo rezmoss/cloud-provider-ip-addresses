@@ -1,0 +1,13 @@
+ip_address,ip_type,region
+2a02:26f7:d980:407f::/64,IPv6,AR-F
+2a02:26f7:d980:ec67::/64,IPv6,AR-F
+2a02:26f7:d980:ec80::/64,IPv6,AR-F
+2a02:26f7:d984:407f::/64,IPv6,AR-F
+2a02:26f7:d984:ec67::/64,IPv6,AR-F
+2a02:26f7:d984:ec80::/64,IPv6,AR-F
+2a02:26f7:d988:407f::/64,IPv6,AR-F
+2a02:26f7:d988:ec67::/64,IPv6,AR-F
+2a02:26f7:d988:ec80::/64,IPv6,AR-F
+2a02:26f7:d98c:407f::/64,IPv6,AR-F
+2a02:26f7:d98c:ec67::/64,IPv6,AR-F
+2a02:26f7:d98c:ec80::/64,IPv6,AR-F

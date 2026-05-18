@@ -1,0 +1,37 @@
+[
+  {
+    "ip_address": "2a02:26f7:f7c0:e130::/64",
+    "ip_type": "IPv6",
+    "region": "CO-CAQ"
+  },
+  {
+    "ip_address": "2a02:26f7:f7c2:e130::/64",
+    "ip_type": "IPv6",
+    "region": "CO-CAQ"
+  },
+  {
+    "ip_address": "2a02:26f7:f7c4:e130::/64",
+    "ip_type": "IPv6",
+    "region": "CO-CAQ"
+  },
+  {
+    "ip_address": "2a02:26f7:f7cc:e130::/64",
+    "ip_type": "IPv6",
+    "region": "CO-CAQ"
+  },
+  {
+    "ip_address": "2a02:26f7:f7d0:e130::/64",
+    "ip_type": "IPv6",
+    "region": "CO-CAQ"
+  },
+  {
+    "ip_address": "2a02:26f7:f7d4:e130::/64",
+    "ip_type": "IPv6",
+    "region": "CO-CAQ"
+  },
+  {
+    "ip_address": "2a02:26f7:f7d8:e130::/64",
+    "ip_type": "IPv6",
+    "region": "CO-CAQ"
+  }
+]

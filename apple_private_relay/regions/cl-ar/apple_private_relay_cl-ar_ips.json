@@ -1,5 +1,85 @@
 [
   {
+    "ip_address": "2a02:26f7:d940:4287::/64",
+    "ip_type": "IPv6",
+    "region": "CL-AR"
+  },
+  {
+    "ip_address": "2a02:26f7:d940:42a6::/64",
+    "ip_type": "IPv6",
+    "region": "CL-AR"
+  },
+  {
+    "ip_address": "2a02:26f7:d940:42bd::/64",
+    "ip_type": "IPv6",
+    "region": "CL-AR"
+  },
+  {
+    "ip_address": "2a02:26f7:d940:d700::/64",
+    "ip_type": "IPv6",
+    "region": "CL-AR"
+  },
+  {
+    "ip_address": "2a02:26f7:d944:4287::/64",
+    "ip_type": "IPv6",
+    "region": "CL-AR"
+  },
+  {
+    "ip_address": "2a02:26f7:d944:42a6::/64",
+    "ip_type": "IPv6",
+    "region": "CL-AR"
+  },
+  {
+    "ip_address": "2a02:26f7:d944:42bd::/64",
+    "ip_type": "IPv6",
+    "region": "CL-AR"
+  },
+  {
+    "ip_address": "2a02:26f7:d944:d700::/64",
+    "ip_type": "IPv6",
+    "region": "CL-AR"
+  },
+  {
+    "ip_address": "2a02:26f7:d948:4287::/64",
+    "ip_type": "IPv6",
+    "region": "CL-AR"
+  },
+  {
+    "ip_address": "2a02:26f7:d948:42a6::/64",
+    "ip_type": "IPv6",
+    "region": "CL-AR"
+  },
+  {
+    "ip_address": "2a02:26f7:d948:42bd::/64",
+    "ip_type": "IPv6",
+    "region": "CL-AR"
+  },
+  {
+    "ip_address": "2a02:26f7:d948:d700::/64",
+    "ip_type": "IPv6",
+    "region": "CL-AR"
+  },
+  {
+    "ip_address": "2a02:26f7:d94c:4287::/64",
+    "ip_type": "IPv6",
+    "region": "CL-AR"
+  },
+  {
+    "ip_address": "2a02:26f7:d94c:42a6::/64",
+    "ip_type": "IPv6",
+    "region": "CL-AR"
+  },
+  {
+    "ip_address": "2a02:26f7:d94c:42bd::/64",
+    "ip_type": "IPv6",
+    "region": "CL-AR"
+  },
+  {
+    "ip_address": "2a02:26f7:d94c:d700::/64",
+    "ip_type": "IPv6",
+    "region": "CL-AR"
+  },
+  {
     "ip_address": "104.28.47.194/32",
     "ip_type": "IPv4",
     "region": "CL-AR"

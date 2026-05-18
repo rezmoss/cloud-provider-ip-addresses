@@ -1,0 +1,5 @@
+ip_address,ip_type,region
+2a02:26f7:d940:4289::/64,IPv6,CL-NB
+2a02:26f7:d944:4289::/64,IPv6,CL-NB
+2a02:26f7:d948:4289::/64,IPv6,CL-NB
+2a02:26f7:d94c:4289::/64,IPv6,CL-NB

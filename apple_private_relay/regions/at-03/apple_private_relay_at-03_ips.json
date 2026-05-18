@@ -1,5 +1,10 @@
 [
   {
+    "ip_address": "104.28.137.78/32",
+    "ip_type": "IPv4",
+    "region": "AT-03"
+  },
+  {
     "ip_address": "104.28.138.128/32",
     "ip_type": "IPv4",
     "region": "AT-03"

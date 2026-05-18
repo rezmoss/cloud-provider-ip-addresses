@@ -1,0 +1,9 @@
+ip_address,ip_type,region
+2a02:26f7:d980:ecee::/64,IPv6,AR-V
+2a02:26f7:d980:ed43::/64,IPv6,AR-V
+2a02:26f7:d984:ecee::/64,IPv6,AR-V
+2a02:26f7:d984:ed43::/64,IPv6,AR-V
+2a02:26f7:d988:ecee::/64,IPv6,AR-V
+2a02:26f7:d988:ed43::/64,IPv6,AR-V
+2a02:26f7:d98c:ecee::/64,IPv6,AR-V
+2a02:26f7:d98c:ed43::/64,IPv6,AR-V

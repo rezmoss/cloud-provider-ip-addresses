@@ -1,0 +1,37 @@
+#!/bin/bash
+# Apple_private_relay IP Ranges
+# Updated: 2026-05-18 03:21:52
+# Source: https://github.com/rezmoss/cloud-provider-ip-addresses
+# License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
+# This file is generated automatically. Do not edit it directly.
+# Updates daily at 00:00 UTC
+# UFW allow rules for apple_private_relay
+
+ufw allow from 2a02:26f7:d940:4285::/64
+ufw allow from 2a02:26f7:d940:428e::/64
+ufw allow from 2a02:26f7:d940:429a::/64
+ufw allow from 2a02:26f7:d940:42b5::/64
+ufw allow from 2a02:26f7:d940:42b8::/64
+ufw allow from 2a02:26f7:d940:42bb::/64
+ufw allow from 2a02:26f7:d940:d702::/64
+ufw allow from 2a02:26f7:d944:4285::/64
+ufw allow from 2a02:26f7:d944:428e::/64
+ufw allow from 2a02:26f7:d944:429a::/64
+ufw allow from 2a02:26f7:d944:42b5::/64
+ufw allow from 2a02:26f7:d944:42b8::/64
+ufw allow from 2a02:26f7:d944:42bb::/64
+ufw allow from 2a02:26f7:d944:d702::/64
+ufw allow from 2a02:26f7:d948:4285::/64
+ufw allow from 2a02:26f7:d948:428e::/64
+ufw allow from 2a02:26f7:d948:429a::/64
+ufw allow from 2a02:26f7:d948:42b5::/64
+ufw allow from 2a02:26f7:d948:42b8::/64
+ufw allow from 2a02:26f7:d948:42bb::/64
+ufw allow from 2a02:26f7:d948:d702::/64
+ufw allow from 2a02:26f7:d94c:4285::/64
+ufw allow from 2a02:26f7:d94c:428e::/64
+ufw allow from 2a02:26f7:d94c:429a::/64
+ufw allow from 2a02:26f7:d94c:42b5::/64
+ufw allow from 2a02:26f7:d94c:42b8::/64
+ufw allow from 2a02:26f7:d94c:42bb::/64
+ufw allow from 2a02:26f7:d94c:d702::/64

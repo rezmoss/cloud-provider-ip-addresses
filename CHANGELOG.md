@@ -2,6 +2,16 @@
 
 Daily IP range changes across all providers.
 
+## 2026-05-18
+
+### gptbot
+- Added: 2 CIDRs
+- Removed: 0 CIDRs
+
+### apple_private_relay
+- Added: 8 CIDRs
+- Removed: 0 CIDRs
+
 ## 2026-05-17
 
 ### aws

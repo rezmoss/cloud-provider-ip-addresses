@@ -1,0 +1,102 @@
+[
+  {
+    "ip_address": "2a02:26f7:d980:ec04::/64",
+    "ip_type": "IPv6",
+    "region": "AR-P"
+  },
+  {
+    "ip_address": "2a02:26f7:d980:ec33::/64",
+    "ip_type": "IPv6",
+    "region": "AR-P"
+  },
+  {
+    "ip_address": "2a02:26f7:d980:ec3b::/64",
+    "ip_type": "IPv6",
+    "region": "AR-P"
+  },
+  {
+    "ip_address": "2a02:26f7:d980:ec87::/64",
+    "ip_type": "IPv6",
+    "region": "AR-P"
+  },
+  {
+    "ip_address": "2a02:26f7:d980:ecca::/64",
+    "ip_type": "IPv6",
+    "region": "AR-P"
+  },
+  {
+    "ip_address": "2a02:26f7:d984:ec04::/64",
+    "ip_type": "IPv6",
+    "region": "AR-P"
+  },
+  {
+    "ip_address": "2a02:26f7:d984:ec33::/64",
+    "ip_type": "IPv6",
+    "region": "AR-P"
+  },
+  {
+    "ip_address": "2a02:26f7:d984:ec3b::/64",
+    "ip_type": "IPv6",
+    "region": "AR-P"
+  },
+  {
+    "ip_address": "2a02:26f7:d984:ec87::/64",
+    "ip_type": "IPv6",
+    "region": "AR-P"
+  },
+  {
+    "ip_address": "2a02:26f7:d984:ecca::/64",
+    "ip_type": "IPv6",
+    "region": "AR-P"
+  },
+  {
+    "ip_address": "2a02:26f7:d988:ec04::/64",
+    "ip_type": "IPv6",
+    "region": "AR-P"
+  },
+  {
+    "ip_address": "2a02:26f7:d988:ec33::/64",
+    "ip_type": "IPv6",
+    "region": "AR-P"
+  },
+  {
+    "ip_address": "2a02:26f7:d988:ec3b::/64",
+    "ip_type": "IPv6",
+    "region": "AR-P"
+  },
+  {
+    "ip_address": "2a02:26f7:d988:ec87::/64",
+    "ip_type": "IPv6",
+    "region": "AR-P"
+  },
+  {
+    "ip_address": "2a02:26f7:d988:ecca::/64",
+    "ip_type": "IPv6",
+    "region": "AR-P"
+  },
+  {
+    "ip_address": "2a02:26f7:d98c:ec04::/64",
+    "ip_type": "IPv6",
+    "region": "AR-P"
+  },
+  {
+    "ip_address": "2a02:26f7:d98c:ec33::/64",
+    "ip_type": "IPv6",
+    "region": "AR-P"
+  },
+  {
+    "ip_address": "2a02:26f7:d98c:ec3b::/64",
+    "ip_type": "IPv6",
+    "region": "AR-P"
+  },
+  {
+    "ip_address": "2a02:26f7:d98c:ec87::/64",
+    "ip_type": "IPv6",
+    "region": "AR-P"
+  },
+  {
+    "ip_address": "2a02:26f7:d98c:ecca::/64",
+    "ip_type": "IPv6",
+    "region": "AR-P"
+  }
+]

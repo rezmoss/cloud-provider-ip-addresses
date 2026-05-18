@@ -1,12 +1,16 @@
 #!/bin/bash
 # Apple_private_relay IP Ranges
-# Updated: 2026-02-11 17:28:49
+# Updated: 2026-05-18 03:21:52
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
 # Updates daily at 00:00 UTC
 # iptables deny rules for apple_private_relay
 
+ip6tables -A INPUT -s 2a02:26f7:d940:4282::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:d944:4282::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:d948:4282::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:d94c:4282::/64 -j DROP
 iptables -A INPUT -s 104.28.47.206/32 -j DROP
 iptables -A INPUT -s 104.28.47.207/32 -j DROP
 iptables -A INPUT -s 104.28.59.136/32 -j DROP

@@ -6,6 +6,21 @@ CREATE TABLE IF NOT EXISTS `apple_private_relay_uy-mo_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `apple_private_relay_uy-mo_ips` (`ip_address`, `ip_type`) VALUES ('172.225.82.224/27', 'IPv4');
+INSERT INTO `apple_private_relay_uy-mo_ips` (`ip_address`, `ip_type`) VALUES ('172.225.83.64/28', 'IPv4');
+INSERT INTO `apple_private_relay_uy-mo_ips` (`ip_address`, `ip_type`) VALUES ('172.225.84.112/28', 'IPv4');
+INSERT INTO `apple_private_relay_uy-mo_ips` (`ip_address`, `ip_type`) VALUES ('172.225.84.176/29', 'IPv4');
+INSERT INTO `apple_private_relay_uy-mo_ips` (`ip_address`, `ip_type`) VALUES ('172.225.222.112/28', 'IPv4');
+INSERT INTO `apple_private_relay_uy-mo_ips` (`ip_address`, `ip_type`) VALUES ('172.225.222.152/29', 'IPv4');
+INSERT INTO `apple_private_relay_uy-mo_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d880:4000::/64', 'IPv6');
+INSERT INTO `apple_private_relay_uy-mo_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d880:4e80::/64', 'IPv6');
+INSERT INTO `apple_private_relay_uy-mo_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d881:4000::/64', 'IPv6');
+INSERT INTO `apple_private_relay_uy-mo_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d884:4000::/64', 'IPv6');
+INSERT INTO `apple_private_relay_uy-mo_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d884:4e80::/64', 'IPv6');
+INSERT INTO `apple_private_relay_uy-mo_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d885:4000::/64', 'IPv6');
+INSERT INTO `apple_private_relay_uy-mo_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d888:4000::/64', 'IPv6');
+INSERT INTO `apple_private_relay_uy-mo_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d888:4e80::/64', 'IPv6');
+INSERT INTO `apple_private_relay_uy-mo_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d889:4000::/64', 'IPv6');
 INSERT INTO `apple_private_relay_uy-mo_ips` (`ip_address`, `ip_type`) VALUES ('104.28.47.242/32', 'IPv4');
 INSERT INTO `apple_private_relay_uy-mo_ips` (`ip_address`, `ip_type`) VALUES ('104.28.47.243/32', 'IPv4');
 INSERT INTO `apple_private_relay_uy-mo_ips` (`ip_address`, `ip_type`) VALUES ('104.28.59.166/32', 'IPv4');
