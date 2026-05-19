@@ -16,7 +16,7 @@
 
 ### Live Stats
 
-> Last updated: **2026-05-18** | Providers: **24** | Total CIDRs: **424,841** | IPv4 addresses: **340,064,138** | IPv4 space: **7.92%**
+> Last updated: **2026-05-19** | Providers: **24** | Total CIDRs: **424,858** | IPv4 addresses: **340,102,282** | IPv4 space: **7.92%**
 
 | Provider | IPv4 CIDRs | IPv6 CIDRs | Total CIDRs | IPv4 Addresses | Services | Regions |
 |----------|-----------|-----------|------------|---------------|----------|--------|
@@ -35,7 +35,7 @@
 | fastly | 19 | 2 | 21 | 304,128 | 0 | 0 |
 | github | 5,320 | 1,390 | 6,710 | 27,105,673 | 11 | 0 |
 | googlebot | 167 | 144 | 311 | 4,992 | 1 | 0 |
-| googlecloud | 902 | 48 | 950 | 17,234,048 | 1 | 48 |
+| googlecloud | 919 | 48 | 967 | 17,272,192 | 1 | 48 |
 | gptbot | 306 | 0 | 306 | 9,968 | 3 | 0 |
 | linode | 5,216 | 94 | 5,310 | 1,343,232 | 0 | 38 |
 | oracle | 1,078 | 0 | 1,078 | 4,121,226 | 3 | 55 |

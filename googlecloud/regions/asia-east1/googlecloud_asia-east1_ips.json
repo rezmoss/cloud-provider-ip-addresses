@@ -18,7 +18,19 @@
     "region": "asia-east1"
   },
   {
+    "ip_address": "34.183.104.0/24",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "asia-east1"
+  },
+  {
     "ip_address": "34.184.70.0/24",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "asia-east1"
+  },
+  {
+    "ip_address": "34.184.83.0/24",
     "ip_type": "IPv4",
     "service": "Google Cloud",
     "region": "asia-east1"

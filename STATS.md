@@ -1,10 +1,10 @@
 # IP Range Statistics
 
-Generated: 2026-05-18T03:22:32.830710
+Generated: 2026-05-19T03:20:48.948978
 
-Total IPv4 addresses: 340,064,138
+Total IPv4 addresses: 340,102,282
 Total IPv6 addresses: 5,205,550,106,100,951,753,157,016,206,763,022
-IPv4 space coverage: 7.9177%
+IPv4 space coverage: 7.9186%
 
 | Provider | IPv4 CIDRs | IPv6 CIDRs | Total CIDRs | IPv4 Addresses | Services | Regions |
 |----------|-----------|-----------|------------|---------------|----------|--------|
@@ -23,7 +23,7 @@ IPv4 space coverage: 7.9177%
 | fastly | 19 | 2 | 21 | 304,128 | 0 | 0 |
 | github | 5,320 | 1,390 | 6,710 | 27,105,673 | 11 | 0 |
 | googlebot | 167 | 144 | 311 | 4,992 | 1 | 0 |
-| googlecloud | 902 | 48 | 950 | 17,234,048 | 1 | 48 |
+| googlecloud | 919 | 48 | 967 | 17,272,192 | 1 | 48 |
 | gptbot | 306 | 0 | 306 | 9,968 | 3 | 0 |
 | linode | 5,216 | 94 | 5,310 | 1,343,232 | 0 | 38 |
 | oracle | 1,078 | 0 | 1,078 | 4,121,226 | 3 | 55 |
