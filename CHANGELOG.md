@@ -2,6 +2,32 @@
 
 Daily IP range changes across all providers.
 
+## 2026-05-20
+
+### atlassian
+- Added: 0 CIDRs
+- Removed: 1 CIDRs
+
+### digitalocean
+- Added: 1 CIDRs
+- Removed: 0 CIDRs
+
+### apple_private_relay
+- Added: 5 CIDRs
+- Removed: 0 CIDRs
+
+### aws
+- Added: 2 CIDRs
+- Removed: 1 CIDRs
+
+### vultr
+- Added: 0 CIDRs
+- Removed: 1 CIDRs
+
+### linode
+- Added: 32 CIDRs
+- Removed: 0 CIDRs
+
 ## 2026-05-19
 
 ### googlecloud

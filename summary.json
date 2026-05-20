@@ -1,9 +1,9 @@
 {
-  "generated": "2026-05-19T03:20:48.948978",
+  "generated": "2026-05-20T03:20:50.973699",
   "provider_count": 24,
-  "total_ipv4_addresses": 340102282,
-  "total_ipv6_addresses": 5205550106100951753157016206763022,
-  "ipv4_space_coverage_pct": 7.9186,
+  "total_ipv4_addresses": 340114559,
+  "total_ipv6_addresses": 5205550124234839047376453827355662,
+  "ipv4_space_coverage_pct": 7.9189,
   "providers": {
     "cloudflare": {
       "ipv4_cidrs": 15,
@@ -18,7 +18,7 @@
       "ipv4_cidrs": 10233,
       "ipv6_cidrs": 5442,
       "total_cidrs": 15675,
-      "ipv4_addresses": 182505952,
+      "ipv4_addresses": 182505954,
       "ipv6_addresses": 3216561133192735669599980224525,
       "services": 26,
       "regions": 43
@@ -42,10 +42,10 @@
       "regions": 74
     },
     "digitalocean": {
-      "ipv4_cidrs": 1070,
+      "ipv4_cidrs": 1071,
       "ipv6_cidrs": 148,
-      "total_cidrs": 1218,
-      "ipv4_addresses": 3090816,
+      "total_cidrs": 1219,
+      "ipv4_addresses": 3094912,
       "ipv6_addresses": 1211637490993464478793728,
       "services": 0,
       "regions": 13
@@ -78,10 +78,10 @@
       "regions": 0
     },
     "linode": {
-      "ipv4_cidrs": 5216,
+      "ipv4_cidrs": 5248,
       "ipv6_cidrs": 94,
-      "total_cidrs": 5310,
-      "ipv4_addresses": 1343232,
+      "total_cidrs": 5342,
+      "ipv4_addresses": 1351424,
       "ipv6_addresses": 2776756327630629844169946824704,
       "services": 0,
       "regions": 38
@@ -123,13 +123,13 @@
       "regions": 0
     },
     "apple_private_relay": {
-      "ipv4_cidrs": 41779,
-      "ipv6_cidrs": 245126,
-      "total_cidrs": 286905,
-      "ipv4_addresses": 105757,
-      "ipv6_addresses": 218601191285815052168540979200,
+      "ipv4_cidrs": 41782,
+      "ipv6_cidrs": 245128,
+      "total_cidrs": 286910,
+      "ipv4_addresses": 105760,
+      "ipv6_addresses": 218620534098928886235336278016,
       "services": 0,
-      "regions": 1278
+      "regions": 1279
     },
     "telegram": {
       "ipv4_cidrs": 9,
@@ -142,10 +142,10 @@
     },
     "vultr": {
       "ipv4_cidrs": 436,
-      "ipv6_cidrs": 54,
-      "total_cidrs": 490,
+      "ipv6_cidrs": 53,
+      "total_cidrs": 489,
       "ipv4_addresses": 1019904,
-      "ipv6_addresses": 5193703162046233279366669258457088,
+      "ipv6_addresses": 5193703160837307459752040083750912,
       "services": 0,
       "regions": 34
     },
@@ -195,10 +195,10 @@
       "regions": 0
     },
     "atlassian": {
-      "ipv4_cidrs": 195,
+      "ipv4_cidrs": 194,
       "ipv6_cidrs": 60,
-      "total_cidrs": 255,
-      "ipv4_addresses": 79142,
+      "total_cidrs": 254,
+      "ipv4_addresses": 79126,
       "ipv6_addresses": 4955387967618033114855505920,
       "services": 12,
       "regions": 18

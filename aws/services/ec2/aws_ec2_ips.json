@@ -5928,12 +5928,6 @@
     "region": "us-east-1"
   },
   {
-    "ip_address": "1.178.180.0/22",
-    "ip_type": "IPv4",
-    "service": "EC2",
-    "region": "GLOBAL"
-  },
-  {
     "ip_address": "3.2.79.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -19431,7 +19425,7 @@
     "ip_address": "2600:1f10:8000::/36",
     "ip_type": "IPv6",
     "service": "EC2",
-    "region": "us-east-1"
+    "region": "us-south-1"
   },
   {
     "ip_address": "2600:1f2c:c000::/36",
@@ -21279,7 +21273,7 @@
     "ip_address": "2600:1f20:8000::/36",
     "ip_type": "IPv6",
     "service": "EC2",
-    "region": "us-east-1"
+    "region": "us-south-1"
   },
   {
     "ip_address": "2600:1f33:6000::/40",

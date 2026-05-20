@@ -1,0 +1,17 @@
+[
+  {
+    "ip_address": "104.28.137.86/32",
+    "ip_type": "IPv4",
+    "region": "BH-17"
+  },
+  {
+    "ip_address": "2a09:bac2:d570::/45",
+    "ip_type": "IPv6",
+    "region": "BH-17"
+  },
+  {
+    "ip_address": "2a09:bac3:d570::/45",
+    "ip_type": "IPv6",
+    "region": "BH-17"
+  }
+]
