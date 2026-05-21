@@ -117,7 +117,6 @@ ip_address,ip_type,service,region
 43.192.155.140/30,IPv4,EBS,cn-northwest-1
 68.79.2.244/30,IPv4,EBS,cn-northwest-1
 68.79.2.248/29,IPv4,EBS,cn-northwest-1
-52.83.25.160/27,IPv4,CLOUD9,cn-northwest-1
 43.192.155.8/29,IPv4,EC2_INSTANCE_CONNECT,cn-northwest-1
 52.82.187.0/24,IPv4,DYNAMODB,cn-northwest-1
 43.193.64.0/24,IPv4,DYNAMODB,cn-northwest-1

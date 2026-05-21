@@ -9,6 +9,7 @@ CREATE TABLE IF NOT EXISTS `vultr_us-il_ips` (
 INSERT INTO `vultr_us-il_ips` (`ip_address`, `ip_type`) VALUES ('45.63.64.0/20', 'IPv4');
 INSERT INTO `vultr_us-il_ips` (`ip_address`, `ip_type`) VALUES ('45.76.16.0/20', 'IPv4');
 INSERT INTO `vultr_us-il_ips` (`ip_address`, `ip_type`) VALUES ('45.76.224.0/21', 'IPv4');
+INSERT INTO `vultr_us-il_ips` (`ip_address`, `ip_type`) VALUES ('64.177.112.0/20', 'IPv4');
 INSERT INTO `vultr_us-il_ips` (`ip_address`, `ip_type`) VALUES ('66.42.112.0/20', 'IPv4');
 INSERT INTO `vultr_us-il_ips` (`ip_address`, `ip_type`) VALUES ('68.232.167.0/24', 'IPv4');
 INSERT INTO `vultr_us-il_ips` (`ip_address`, `ip_type`) VALUES ('68.232.168.0/24', 'IPv4');

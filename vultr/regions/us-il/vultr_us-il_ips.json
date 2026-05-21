@@ -15,6 +15,11 @@
     "region": "US-IL"
   },
   {
+    "ip_address": "64.177.112.0/20",
+    "ip_type": "IPv4",
+    "region": "US-IL"
+  },
+  {
     "ip_address": "66.42.112.0/20",
     "ip_type": "IPv4",
     "region": "US-IL"

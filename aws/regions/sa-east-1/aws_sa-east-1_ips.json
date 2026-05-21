@@ -1680,18 +1680,6 @@
     "region": "sa-east-1"
   },
   {
-    "ip_address": "18.230.46.0/27",
-    "ip_type": "IPv4",
-    "service": "CLOUD9",
-    "region": "sa-east-1"
-  },
-  {
-    "ip_address": "18.230.46.32/27",
-    "ip_type": "IPv4",
-    "service": "CLOUD9",
-    "region": "sa-east-1"
-  },
-  {
     "ip_address": "18.228.70.32/29",
     "ip_type": "IPv4",
     "service": "EC2_INSTANCE_CONNECT",
@@ -1725,6 +1713,18 @@
     "ip_address": "18.229.100.116/30",
     "ip_type": "IPv4",
     "service": "AMAZON_APPFLOW",
+    "region": "sa-east-1"
+  },
+  {
+    "ip_address": "18.230.46.0/27",
+    "ip_type": "IPv4",
+    "service": "CLOUD9",
+    "region": "sa-east-1"
+  },
+  {
+    "ip_address": "18.230.46.32/27",
+    "ip_type": "IPv4",
+    "service": "CLOUD9",
     "region": "sa-east-1"
   },
   {

@@ -972,18 +972,6 @@
     "region": "me-south-1"
   },
   {
-    "ip_address": "15.185.141.160/27",
-    "ip_type": "IPv4",
-    "service": "CLOUD9",
-    "region": "me-south-1"
-  },
-  {
-    "ip_address": "15.185.91.32/27",
-    "ip_type": "IPv4",
-    "service": "CLOUD9",
-    "region": "me-south-1"
-  },
-  {
     "ip_address": "16.24.46.56/29",
     "ip_type": "IPv4",
     "service": "EC2_INSTANCE_CONNECT",
@@ -1011,6 +999,18 @@
     "ip_address": "16.24.91.70/31",
     "ip_type": "IPv4",
     "service": "KINESIS_VIDEO_STREAMS",
+    "region": "me-south-1"
+  },
+  {
+    "ip_address": "15.185.141.160/27",
+    "ip_type": "IPv4",
+    "service": "CLOUD9",
+    "region": "me-south-1"
+  },
+  {
+    "ip_address": "15.185.91.32/27",
+    "ip_type": "IPv4",
+    "service": "CLOUD9",
     "region": "me-south-1"
   },
   {

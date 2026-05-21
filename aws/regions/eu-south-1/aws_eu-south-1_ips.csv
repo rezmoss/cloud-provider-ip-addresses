@@ -198,9 +198,9 @@ ip_address,ip_type,service,region
 18.102.189.208/30,IPv4,EBS,eu-south-1
 35.152.74.128/29,IPv4,EBS,eu-south-1
 35.152.74.136/30,IPv4,EBS,eu-south-1
+15.161.135.164/30,IPv4,EC2_INSTANCE_CONNECT,eu-south-1
 15.161.135.64/27,IPv4,CLOUD9,eu-south-1
 15.161.135.96/27,IPv4,CLOUD9,eu-south-1
-15.161.135.164/30,IPv4,EC2_INSTANCE_CONNECT,eu-south-1
 35.71.113.0/24,IPv4,DYNAMODB,eu-south-1
 52.94.18.0/24,IPv4,DYNAMODB,eu-south-1
 2a05:d07a:a000::/40,IPv6,AMAZON,eu-south-1

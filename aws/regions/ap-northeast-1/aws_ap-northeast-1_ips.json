@@ -2364,18 +2364,6 @@
     "region": "ap-northeast-1"
   },
   {
-    "ip_address": "18.179.48.128/27",
-    "ip_type": "IPv4",
-    "service": "CLOUD9",
-    "region": "ap-northeast-1"
-  },
-  {
-    "ip_address": "18.179.48.96/27",
-    "ip_type": "IPv4",
-    "service": "CLOUD9",
-    "region": "ap-northeast-1"
-  },
-  {
     "ip_address": "3.112.23.0/29",
     "ip_type": "IPv4",
     "service": "EC2_INSTANCE_CONNECT",
@@ -2433,6 +2421,18 @@
     "ip_address": "35.74.77.240/30",
     "ip_type": "IPv4",
     "service": "AMAZON_APPFLOW",
+    "region": "ap-northeast-1"
+  },
+  {
+    "ip_address": "18.179.48.128/27",
+    "ip_type": "IPv4",
+    "service": "CLOUD9",
+    "region": "ap-northeast-1"
+  },
+  {
+    "ip_address": "18.179.48.96/27",
+    "ip_type": "IPv4",
+    "service": "CLOUD9",
     "region": "ap-northeast-1"
   },
   {

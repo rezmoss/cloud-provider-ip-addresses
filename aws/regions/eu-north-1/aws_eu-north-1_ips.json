@@ -1134,6 +1134,12 @@
     "region": "eu-north-1"
   },
   {
+    "ip_address": "13.48.4.200/30",
+    "ip_type": "IPv4",
+    "service": "EC2_INSTANCE_CONNECT",
+    "region": "eu-north-1"
+  },
+  {
     "ip_address": "13.48.186.128/27",
     "ip_type": "IPv4",
     "service": "CLOUD9",
@@ -1143,12 +1149,6 @@
     "ip_address": "13.48.186.160/27",
     "ip_type": "IPv4",
     "service": "CLOUD9",
-    "region": "eu-north-1"
-  },
-  {
-    "ip_address": "13.48.4.200/30",
-    "ip_type": "IPv4",
-    "service": "EC2_INSTANCE_CONNECT",
     "region": "eu-north-1"
   },
   {

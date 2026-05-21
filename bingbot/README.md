@@ -1,6 +1,6 @@
 # Bingbot IP Ranges (Auto-Updated Daily)
 
-> Last updated: **2026-05-20** · Total CIDRs: **28** · IPv4: **28** · IPv6: **0** · Services: **1**
+> Last updated: **2026-05-21** · Total CIDRs: **28** · IPv4: **28** · IPv6: **0** · Services: **1**
 
 Machine-readable, daily-updated, validated public IP ranges for **Bingbot**.
 Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and Apache.

@@ -708,12 +708,6 @@
     "region": "cn-northwest-1"
   },
   {
-    "ip_address": "52.83.25.160/27",
-    "ip_type": "IPv4",
-    "service": "CLOUD9",
-    "region": "cn-northwest-1"
-  },
-  {
     "ip_address": "43.192.155.8/29",
     "ip_type": "IPv4",
     "service": "EC2_INSTANCE_CONNECT",

@@ -146,9 +146,9 @@ ip_address,ip_type,service,region
 13.208.228.136/30,IPv4,EBS,ap-northeast-3
 15.152.133.252/31,IPv4,EBS,ap-northeast-3
 15.168.105.168/30,IPv4,EBS,ap-northeast-3
+15.168.105.160/29,IPv4,EC2_INSTANCE_CONNECT,ap-northeast-3
 15.152.24.0/27,IPv4,CLOUD9,ap-northeast-3
 15.152.24.32/27,IPv4,CLOUD9,ap-northeast-3
-15.168.105.160/29,IPv4,EC2_INSTANCE_CONNECT,ap-northeast-3
 18.96.17.0/25,IPv4,AURORA_DSQL,ap-northeast-3
 15.168.105.144/29,IPv4,MEDIA_PACKAGE_V2,ap-northeast-3
 15.168.105.152/29,IPv4,MEDIA_PACKAGE_V2,ap-northeast-3

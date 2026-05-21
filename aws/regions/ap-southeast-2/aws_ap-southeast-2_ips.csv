@@ -305,14 +305,14 @@ ip_address,ip_type,service,region
 3.107.11.164/30,IPv4,EBS,ap-southeast-2
 3.26.82.236/30,IPv4,EBS,ap-southeast-2
 3.26.82.240/29,IPv4,EBS,ap-southeast-2
-13.236.82.128/27,IPv4,CLOUD9,ap-southeast-2
-13.236.82.96/27,IPv4,CLOUD9,ap-southeast-2
 13.239.158.0/29,IPv4,EC2_INSTANCE_CONNECT,ap-southeast-2
 3.107.30.180/31,IPv4,KINESIS_VIDEO_STREAMS,ap-southeast-2
 3.107.30.184/30,IPv4,KINESIS_VIDEO_STREAMS,ap-southeast-2
 3.25.47.28/30,IPv4,AMAZON_APPFLOW,ap-southeast-2
 3.25.47.32/30,IPv4,AMAZON_APPFLOW,ap-southeast-2
 3.26.109.216/30,IPv4,AMAZON_APPFLOW,ap-southeast-2
+13.236.82.128/27,IPv4,CLOUD9,ap-southeast-2
+13.236.82.96/27,IPv4,CLOUD9,ap-southeast-2
 3.44.64.128/25,IPv4,AURORA_DSQL,ap-southeast-2
 3.27.127.176/29,IPv4,MEDIA_PACKAGE_V2,ap-southeast-2
 3.27.127.184/29,IPv4,MEDIA_PACKAGE_V2,ap-southeast-2

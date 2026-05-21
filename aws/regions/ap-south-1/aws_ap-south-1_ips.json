@@ -1686,18 +1686,6 @@
     "region": "ap-south-1"
   },
   {
-    "ip_address": "13.232.67.128/27",
-    "ip_type": "IPv4",
-    "service": "CLOUD9",
-    "region": "ap-south-1"
-  },
-  {
-    "ip_address": "13.232.67.160/27",
-    "ip_type": "IPv4",
-    "service": "CLOUD9",
-    "region": "ap-south-1"
-  },
-  {
     "ip_address": "13.233.177.0/29",
     "ip_type": "IPv4",
     "service": "EC2_INSTANCE_CONNECT",
@@ -1731,6 +1719,18 @@
     "ip_address": "3.7.25.48/30",
     "ip_type": "IPv4",
     "service": "AMAZON_APPFLOW",
+    "region": "ap-south-1"
+  },
+  {
+    "ip_address": "13.232.67.128/27",
+    "ip_type": "IPv4",
+    "service": "CLOUD9",
+    "region": "ap-south-1"
+  },
+  {
+    "ip_address": "13.232.67.160/27",
+    "ip_type": "IPv4",
+    "service": "CLOUD9",
     "region": "ap-south-1"
   },
   {

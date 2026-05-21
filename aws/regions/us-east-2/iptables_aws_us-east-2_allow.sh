@@ -1,6 +1,6 @@
 #!/bin/bash
 # Aws IP Ranges
-# Updated: 2026-05-15 03:19:11
+# Updated: 2026-05-21 03:19:48
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -413,6 +413,7 @@ iptables -A INPUT -s 15.230.39.148/31 -j ACCEPT
 iptables -A INPUT -s 15.230.71.128/26 -j ACCEPT
 iptables -A INPUT -s 52.93.199.37/32 -j ACCEPT
 iptables -A INPUT -s 16.58.2.0/23 -j ACCEPT
+iptables -A INPUT -s 18.226.2.0/23 -j ACCEPT
 iptables -A INPUT -s 3.12.23.128/26 -j ACCEPT
 iptables -A INPUT -s 3.128.56.128/26 -j ACCEPT
 iptables -A INPUT -s 3.128.56.192/26 -j ACCEPT
@@ -466,6 +467,7 @@ iptables -A INPUT -s 35.50.144.0/24 -j ACCEPT
 iptables -A INPUT -s 35.50.142.0/24 -j ACCEPT
 iptables -A INPUT -s 3.146.84.0/22 -j ACCEPT
 iptables -A INPUT -s 3.5.100.0/22 -j ACCEPT
+iptables -A INPUT -s 77.112.0.0/14 -j ACCEPT
 iptables -A INPUT -s 3.5.92.0/23 -j ACCEPT
 iptables -A INPUT -s 18.191.0.0/16 -j ACCEPT
 iptables -A INPUT -s 35.50.143.0/24 -j ACCEPT
@@ -594,14 +596,14 @@ iptables -A INPUT -s 3.141.102.184/29 -j ACCEPT
 iptables -A INPUT -s 3.141.102.192/30 -j ACCEPT
 iptables -A INPUT -s 3.146.29.66/31 -j ACCEPT
 iptables -A INPUT -s 3.146.42.64/30 -j ACCEPT
-iptables -A INPUT -s 18.188.9.0/27 -j ACCEPT
-iptables -A INPUT -s 18.188.9.32/27 -j ACCEPT
 iptables -A INPUT -s 3.16.146.0/29 -j ACCEPT
 iptables -A INPUT -s 3.146.42.74/31 -j ACCEPT
 iptables -A INPUT -s 3.146.42.80/30 -j ACCEPT
 iptables -A INPUT -s 18.117.239.68/30 -j ACCEPT
 iptables -A INPUT -s 3.12.23.88/30 -j ACCEPT
 iptables -A INPUT -s 3.12.23.92/30 -j ACCEPT
+iptables -A INPUT -s 18.188.9.0/27 -j ACCEPT
+iptables -A INPUT -s 18.188.9.32/27 -j ACCEPT
 iptables -A INPUT -s 18.97.139.128/25 -j ACCEPT
 iptables -A INPUT -s 3.145.246.48/29 -j ACCEPT
 iptables -A INPUT -s 3.145.246.56/29 -j ACCEPT
@@ -625,6 +627,7 @@ ip6tables -A INPUT -s 2620:107:4000:4701::/64 -j ACCEPT
 ip6tables -A INPUT -s 2600:9000:520f::/48 -j ACCEPT
 ip6tables -A INPUT -s 2600:f0f0:5404::/48 -j ACCEPT
 ip6tables -A INPUT -s 2600:f0f0:cfb::/48 -j ACCEPT
+ip6tables -A INPUT -s 2620:107:4000:8700::/56 -j ACCEPT
 ip6tables -A INPUT -s 2600:f0f1:8b03::/48 -j ACCEPT
 ip6tables -A INPUT -s 2600:1f36:6000::/40 -j ACCEPT
 ip6tables -A INPUT -s 2600:f0f0:cfe::/48 -j ACCEPT

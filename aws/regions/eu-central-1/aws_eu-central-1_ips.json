@@ -3324,18 +3324,6 @@
     "region": "eu-central-1"
   },
   {
-    "ip_address": "18.184.138.224/27",
-    "ip_type": "IPv4",
-    "service": "CLOUD9",
-    "region": "eu-central-1"
-  },
-  {
-    "ip_address": "18.184.203.128/27",
-    "ip_type": "IPv4",
-    "service": "CLOUD9",
-    "region": "eu-central-1"
-  },
-  {
     "ip_address": "3.120.181.40/29",
     "ip_type": "IPv4",
     "service": "EC2_INSTANCE_CONNECT",
@@ -3369,6 +3357,18 @@
     "ip_address": "3.68.251.176/30",
     "ip_type": "IPv4",
     "service": "AMAZON_APPFLOW",
+    "region": "eu-central-1"
+  },
+  {
+    "ip_address": "18.184.138.224/27",
+    "ip_type": "IPv4",
+    "service": "CLOUD9",
+    "region": "eu-central-1"
+  },
+  {
+    "ip_address": "18.184.203.128/27",
+    "ip_type": "IPv4",
+    "service": "CLOUD9",
     "region": "eu-central-1"
   },
   {

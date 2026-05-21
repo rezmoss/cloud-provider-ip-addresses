@@ -535,6 +535,11 @@
     "region": "US-OH"
   },
   {
+    "ip_address": "64.177.112.0/20",
+    "ip_type": "IPv4",
+    "region": "US-IL"
+  },
+  {
     "ip_address": "64.237.32.0/19",
     "ip_type": "IPv4",
     "region": "US-NJ"

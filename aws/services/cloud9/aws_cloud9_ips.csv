@@ -1,7 +1,4 @@
 ip_address,ip_type,service,region
-140.179.79.160/27,IPv4,CLOUD9,cn-north-1
-140.179.79.192/27,IPv4,CLOUD9,cn-north-1
-52.83.25.160/27,IPv4,CLOUD9,cn-northwest-1
 13.245.155.128/27,IPv4,CLOUD9,af-south-1
 13.245.155.224/27,IPv4,CLOUD9,af-south-1
 18.163.139.32/27,IPv4,CLOUD9,ap-east-1

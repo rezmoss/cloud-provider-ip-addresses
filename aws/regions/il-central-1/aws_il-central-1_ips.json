@@ -462,18 +462,6 @@
     "region": "il-central-1"
   },
   {
-    "ip_address": "51.16.103.32/27",
-    "ip_type": "IPv4",
-    "service": "CLOUD9",
-    "region": "il-central-1"
-  },
-  {
-    "ip_address": "51.16.183.64/27",
-    "ip_type": "IPv4",
-    "service": "CLOUD9",
-    "region": "il-central-1"
-  },
-  {
     "ip_address": "51.16.183.224/29",
     "ip_type": "IPv4",
     "service": "EC2_INSTANCE_CONNECT",
@@ -489,6 +477,18 @@
     "ip_address": "16.164.22.4/30",
     "ip_type": "IPv4",
     "service": "KINESIS_VIDEO_STREAMS",
+    "region": "il-central-1"
+  },
+  {
+    "ip_address": "51.16.103.32/27",
+    "ip_type": "IPv4",
+    "service": "CLOUD9",
+    "region": "il-central-1"
+  },
+  {
+    "ip_address": "51.16.183.64/27",
+    "ip_type": "IPv4",
+    "service": "CLOUD9",
     "region": "il-central-1"
   },
   {

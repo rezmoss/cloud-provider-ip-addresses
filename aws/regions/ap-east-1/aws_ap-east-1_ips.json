@@ -792,18 +792,6 @@
     "region": "ap-east-1"
   },
   {
-    "ip_address": "18.163.139.32/27",
-    "ip_type": "IPv4",
-    "service": "CLOUD9",
-    "region": "ap-east-1"
-  },
-  {
-    "ip_address": "18.163.201.96/27",
-    "ip_type": "IPv4",
-    "service": "CLOUD9",
-    "region": "ap-east-1"
-  },
-  {
     "ip_address": "43.198.192.104/29",
     "ip_type": "IPv4",
     "service": "EC2_INSTANCE_CONNECT",
@@ -819,6 +807,18 @@
     "ip_address": "43.199.26.128/30",
     "ip_type": "IPv4",
     "service": "KINESIS_VIDEO_STREAMS",
+    "region": "ap-east-1"
+  },
+  {
+    "ip_address": "18.163.139.32/27",
+    "ip_type": "IPv4",
+    "service": "CLOUD9",
+    "region": "ap-east-1"
+  },
+  {
+    "ip_address": "18.163.201.96/27",
+    "ip_type": "IPv4",
+    "service": "CLOUD9",
     "region": "ap-east-1"
   },
   {

@@ -258,6 +258,12 @@
     "region": "ap-east-2"
   },
   {
+    "ip_address": "3.2.101.0/24",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "ap-east-2"
+  },
+  {
     "ip_address": "3.5.196.0/22",
     "ip_type": "IPv4",
     "service": "S3",
@@ -613,6 +619,12 @@
   },
   {
     "ip_address": "2406:daef:c800::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "ap-east-2"
+  },
+  {
+    "ip_address": "2600:f0f0:6125::/48",
     "ip_type": "IPv6",
     "service": "S3",
     "region": "ap-east-2"
