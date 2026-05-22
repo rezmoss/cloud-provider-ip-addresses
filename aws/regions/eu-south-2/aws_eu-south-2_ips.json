@@ -786,6 +786,12 @@
     "region": "eu-south-2"
   },
   {
+    "ip_address": "18.96.194.0/25",
+    "ip_type": "IPv4",
+    "service": "AURORA_DSQL",
+    "region": "eu-south-2"
+  },
+  {
     "ip_address": "35.71.120.0/24",
     "ip_type": "IPv4",
     "service": "DYNAMODB",
@@ -1335,6 +1341,12 @@
     "ip_address": "2a05:d011:cbe:f700::/56",
     "ip_type": "IPv6",
     "service": "EC2_INSTANCE_CONNECT",
+    "region": "eu-south-2"
+  },
+  {
+    "ip_address": "2a05:d011:95f:c900::/56",
+    "ip_type": "IPv6",
+    "service": "AURORA_DSQL",
     "region": "eu-south-2"
   }
 ]

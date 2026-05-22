@@ -1,6 +1,6 @@
 #!/bin/bash
 # Aws IP Ranges
-# Updated: 2026-05-21 03:19:47
+# Updated: 2026-05-22 03:21:21
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -10081,6 +10081,7 @@ ufw allow from 18.99.4.128/25
 ufw allow from 18.99.129.0/25
 ufw allow from 18.96.39.128/25
 ufw allow from 18.99.100.128/25
+ufw allow from 18.96.194.0/25
 ufw allow from 18.97.198.128/25
 ufw allow from 18.98.164.0/25
 ufw allow from 18.98.66.128/25
@@ -11103,6 +11104,7 @@ ufw allow from 2600:9000:5380::/41
 ufw allow from 2600:f0f0:1104::/48
 ufw allow from 2600:f0f0:1109::/48
 ufw allow from 2600:f0f0:6100::/48
+ufw allow from 2600:f0f1:1c::/48
 ufw allow from 2600:f0fb:f100::/48
 ufw allow from 2600:f0fb:f110::/48
 ufw allow from 2606:7b40:1b0f:c300::/56
@@ -11831,6 +11833,7 @@ ufw allow from 2600:9000:5300::/45
 ufw allow from 2600:f0f0:1102::/48
 ufw allow from 2600:f0f0:4140::/48
 ufw allow from 2600:f0f1:8a10::/48
+ufw allow from 2606:7b40:3000:4000::/50
 ufw allow from 2a01:578:0:7600::1/128
 ufw allow from 2a05:d031:a000::/40
 ufw allow from 2a05:d050:c000::/40
@@ -14215,6 +14218,7 @@ ufw allow from 2600:9000:5211::/48
 ufw allow from 2600:f0f0:1104::/48
 ufw allow from 2600:f0f0:1109::/48
 ufw allow from 2600:f0f0:6100::/48
+ufw allow from 2600:f0f1:1c::/48
 ufw allow from 2600:f0fb:f100::/48
 ufw allow from 2600:f0fb:f110::/48
 ufw allow from 2606:7b40:1b0f:c300::/56
@@ -14789,6 +14793,7 @@ ufw allow from 2600:1ff4:5000::/40
 ufw allow from 2600:f0f0:1102::/48
 ufw allow from 2600:f0f0:4140::/48
 ufw allow from 2600:f0f1:8a10::/48
+ufw allow from 2606:7b40:3000:4000::/50
 ufw allow from 2a05:d031:a000::/40
 ufw allow from 2404:c2c0:3000::/40
 ufw allow from 2406:daf4:4800::/40
@@ -15671,6 +15676,7 @@ ufw allow from 2600:1f11:e4a:df00::/56
 ufw allow from 2600:1f1a:4040:b100::/56
 ufw allow from 2a05:d014:15a0:7500::/56
 ufw allow from 2a05:d016:116:3d00::/56
+ufw allow from 2a05:d011:95f:c900::/56
 ufw allow from 2a05:d018:b3d:8200::/56
 ufw allow from 2a05:d01c:d06:1800::/56
 ufw allow from 2a05:d012:610:d500::/56

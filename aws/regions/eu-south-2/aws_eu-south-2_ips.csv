@@ -130,6 +130,7 @@ ip_address,ip_type,service,region
 18.101.90.58/31,IPv4,KINESIS_VIDEO_STREAMS,eu-south-2
 18.101.90.60/30,IPv4,KINESIS_VIDEO_STREAMS,eu-south-2
 51.48.13.32/30,IPv4,KINESIS_VIDEO_STREAMS,eu-south-2
+18.96.194.0/25,IPv4,AURORA_DSQL,eu-south-2
 35.71.120.0/24,IPv4,DYNAMODB,eu-south-2
 13.248.65.0/24,IPv4,DYNAMODB,eu-south-2
 2a05:d033:1000::/40,IPv6,AMAZON,eu-south-2
@@ -222,3 +223,4 @@ ip_address,ip_type,service,region
 2a05:d000:1000::/40,IPv6,EC2,eu-south-2
 2a05:d059:1000::/40,IPv6,EC2,eu-south-2
 2a05:d011:cbe:f700::/56,IPv6,EC2_INSTANCE_CONNECT,eu-south-2
+2a05:d011:95f:c900::/56,IPv6,AURORA_DSQL,eu-south-2

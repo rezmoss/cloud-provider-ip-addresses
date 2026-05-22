@@ -2,6 +2,12 @@
 
 Daily IP range changes across all providers.
 
+## 2026-05-22
+
+### aws
+- Added: 4 CIDRs
+- Removed: 0 CIDRs
+
 ## 2026-05-21
 
 ### gptbot
