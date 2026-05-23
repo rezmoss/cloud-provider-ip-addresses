@@ -1,6 +1,6 @@
 #!/bin/bash
 # Aws IP Ranges
-# Updated: 2026-05-21 03:19:48
+# Updated: 2026-05-23 03:16:34
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -462,6 +462,8 @@ ufw deny from 2a05:d070:b000::/40
 ufw deny from 2a05:d07a:c000::/40
 ufw deny from 2406:da60:6000::/40
 ufw deny from 2a05:d074:2000::/40
+ufw deny from 2406:da61:4000::/40
+ufw deny from 2600:1ff9:800::/40
 ufw deny from 2a05:d074:9000::/40
 ufw deny from 2600:1ff9:e000::/40
 ufw deny from 2406:daa0:6000::/40
@@ -476,11 +478,14 @@ ufw deny from 2406:daf9:a000::/40
 ufw deny from 2600:1fa0:2000::/40
 ufw deny from 2a05:d078:e000::/40
 ufw deny from 2600:1f60:2000::/40
+ufw deny from 2600:1fb9:800::/40
+ufw deny from 2406:da61:7000::/40
 ufw deny from 2406:daef:800::/40
 ufw deny from 2406:daf4:9000::/40
 ufw deny from 2a05:d059:5000::/40
 ufw deny from 2600:1ff0:e000::/40
 ufw deny from 2a05:d050:2000::/40
+ufw deny from 2406:da61:c800::/40
 ufw deny from 2406:dab9:1000::/40
 ufw deny from 2406:daef:a000::/40
 ufw deny from 2600:9000:a211::/48
@@ -492,6 +497,7 @@ ufw deny from 2406:dab9:8000::/40
 ufw deny from 2406:daf0:9000::/40
 ufw deny from 2a05:d059:6000::/40
 ufw deny from 2600:1ff8:c000::/40
+ufw deny from 2406:da61:800::/40
 ufw deny from 2406:daf8:4000::/40
 ufw deny from 2406:daf9:8800::/40
 ufw deny from 2a05:d06f:1000::/40
@@ -502,7 +508,12 @@ ufw deny from 2a05:d07a:e000::/40
 ufw deny from 2406:daef:1000::/40
 ufw deny from 2406:daf0:f000::/40
 ufw deny from 2406:daf8:c800::/40
+ufw deny from 2a05:d031:8000::/40
+ufw deny from 2a05:d031:800::/40
+ufw deny from 2600:1f61:a400::/40
 ufw deny from 2a05:d070:a000::/40
+ufw deny from 2406:da61:b000::/40
+ufw deny from 2600:1fa0:800::/40
 ufw deny from 2600:1fb9:1000::/40
 ufw deny from 2a05:d07a:2000::/40
 ufw deny from 2a05:d07a:6000::/40
@@ -511,14 +522,19 @@ ufw deny from 2406:dafa:a000::/40
 ufw deny from 2a05:d030:c000::/40
 ufw deny from 2a05:d079:c000::/40
 ufw deny from 2a05:d050:6000::/40
+ufw deny from 2406:da61:f000::/40
 ufw deny from 2600:1ff9:6000::/40
 ufw deny from 2406:daf8:800::/40
 ufw deny from 2406:da60:f000::/40
+ufw deny from 2406:da61:2800::/40
 ufw deny from 2600:1f60:4000::/39
 ufw deny from 2a05:d079:b000::/40
+ufw deny from 2406:da61:e000::/40
 ufw deny from 2406:daf8:a000::/40
 ufw deny from 2600:1fa0:4000::/39
+ufw deny from 2600:1ff0:800::/40
 ufw deny from 2600:1fa0:2c00::/40
+ufw deny from 2406:da61:1000::/40
 ufw deny from 2406:daf4:8800::/40
 ufw deny from 2a05:d074:b000::/40
 ufw deny from 2406:daa0:4800::/40
@@ -542,7 +558,9 @@ ufw deny from 2a05:d074:8000::/40
 ufw deny from 2a05:d074:c000::/40
 ufw deny from 2406:da60:c800::/40
 ufw deny from 2a05:d030:a000::/40
+ufw deny from 2406:da61:8800::/40
 ufw deny from 2600:1f60:5000::/40
+ufw deny from 2600:1f61:8000::/39
 ufw deny from 2406:dab9:7000::/40
 ufw deny from 2406:daf9:7000::/40
 ufw deny from 2600:1fb9:c000::/40
@@ -551,7 +569,9 @@ ufw deny from 2600:1ff8:5000::/36
 ufw deny from 2406:daf8:f000::/40
 ufw deny from 2406:da60:4800::/40
 ufw deny from 2406:dab9:6000::/40
+ufw deny from 2600:1f60:800::/40
 ufw deny from 2600:1ff4:ec00::/40
+ufw deny from 2406:da61:6000::/40
 ufw deny from 2600:1ff9:c000::/40
 ufw deny from 2406:daa0:8000::/40
 ufw deny from 2001:3fc7:9800::/40
@@ -567,6 +587,7 @@ ufw deny from 2406:daf4:c000::/40
 ufw deny from 2600:1ff4:8000::/39
 ufw deny from 2406:daf8:b000::/40
 ufw deny from 2a05:d030:4000::/40
+ufw deny from 2a05:d031:b000::/40
 ufw deny from 2400:7fc0:2800::/40
 ufw deny from 2406:da60:800::/40
 ufw deny from 2406:da60:7000::/40
@@ -575,10 +596,12 @@ ufw deny from 2406:daf0:c800::/40
 ufw deny from 240f:80a0:4000::/40
 ufw deny from 2406:dafa:2000::/40
 ufw deny from 2600:9000:a104::/48
+ufw deny from 2a05:d031:e000::/40
 ufw deny from 2a05:d078:b000::/40
 ufw deny from 2600:1fef:c000::/40
 ufw deny from 2600:1ff0:6000::/40
 ufw deny from 2406:dab9:c000::/40
+ufw deny from 2600:1fef:800::/40
 ufw deny from 2600:1fef:6000::/40
 ufw deny from 2406:dab9:a000::/40
 ufw deny from 2406:daf9:c800::/40
@@ -589,11 +612,15 @@ ufw deny from 2406:daf0:b000::/40
 ufw deny from 2406:da60:1000::/40
 ufw deny from 2406:daa0:800::/40
 ufw deny from 2406:da60:2000::/40
+ufw deny from 2a05:d031:9000::/40
+ufw deny from 2a05:d031:c000::/40
 ufw deny from 2406:daf9:f000::/40
 ufw deny from 2406:daf8:a800::/40
 ufw deny from 2600:1f60:6000::/40
 ufw deny from 2600:1f61:4000::/39
+ufw deny from 2a05:d031:6000::/40
 ufw deny from 2406:daef:b000::/40
+ufw deny from 2600:1f61:e000::/40
 ufw deny from 2406:daf9:800::/40
 ufw deny from 2600:1ff0:8000::/39
 ufw deny from 2a05:d030:2000::/40
@@ -605,17 +632,21 @@ ufw deny from 2a05:d06f:5000::/40
 ufw deny from 2a05:d079:a000::/40
 ufw deny from 2600:1fb9:5000::/40
 ufw deny from 2001:3fc5:800::/40
+ufw deny from 2406:da61:9000::/40
 ufw deny from 2406:daf8:9000::/40
 ufw deny from 2404:c2c0:ef00::/40
 ufw deny from 2a05:d050:5000::/40
 ufw deny from 240f:80fa:4000::/40
 ufw deny from 2a05:d070:5000::/40
 ufw deny from 2a05:d06f:c000::/40
+ufw deny from 2600:1ff8:800::/40
+ufw deny from 2406:da61:a000::/40
 ufw deny from 2600:1ff4:a400::/40
 ufw deny from 2a05:d050:a000::/40
 ufw deny from 2a05:d078:9000::/40
 ufw deny from 2406:da60:8000::/40
 ufw deny from 2600:1fef:2000::/40
+ufw deny from 2a05:d031:2000::/40
 ufw deny from 2a05:d06f:2000::/40
 ufw deny from 2406:daf9:e000::/40
 ufw deny from 2600:1f60:e000::/40
@@ -647,12 +678,14 @@ ufw deny from 2001:3fc7:800::/40
 ufw deny from 2406:dab9:e000::/40
 ufw deny from 2406:dab9:f000::/40
 ufw deny from 2406:daf4:e000::/40
+ufw deny from 2600:1f61:5000::/40
 ufw deny from 2a05:d030:b000::/40
 ufw deny from 2a05:d050:800::/40
 ufw deny from 2400:7fc0:200::/40
 ufw deny from 2406:daef:c800::/40
 ufw deny from 240f:80a0:8000::/40
 ufw deny from 2406:daf8:2800::/40
+ufw deny from 2600:1f61:1000::/40
 ufw deny from 2a05:d074:e000::/40
 ufw deny from 2a05:d079:f000::/40
 ufw deny from 2406:daa0:2000::/40
@@ -680,6 +713,7 @@ ufw deny from 240f:80f8:8000::/40
 ufw deny from 2a05:d074:a000::/40
 ufw deny from 2406:daf8:8800::/40
 ufw deny from 2a05:d06f:e000::/40
+ufw deny from 2406:da61:8000::/40
 ufw deny from 2406:dab9:9000::/40
 ufw deny from 2600:1fef:1000::/40
 ufw deny from 2406:daf4:2800::/40
@@ -688,7 +722,9 @@ ufw deny from 2406:da60:8800::/40
 ufw deny from 2406:daf8:1000::/40
 ufw deny from 240f:80f9:8000::/40
 ufw deny from 2a05:d074:5000::/40
+ufw deny from 2406:da61:c000::/40
 ufw deny from 2a05:d050:e000::/40
+ufw deny from 2406:da61:2000::/40
 ufw deny from 2a05:d078:1000::/40
 ufw deny from 2a05:d078:4000::/40
 ufw deny from 2a05:d07a:8000::/40
@@ -698,6 +734,7 @@ ufw deny from 2406:daf0:8000::/40
 ufw deny from 2a05:d030:9000::/40
 ufw deny from 2600:1ff8:1000::/40
 ufw deny from 2600:1ff4:5000::/40
+ufw deny from 2a05:d031:a000::/40
 ufw deny from 2a05:d050:c000::/40
 ufw deny from 2406:daa0:4000::/40
 ufw deny from 2406:daf4:4800::/40
@@ -712,6 +749,7 @@ ufw deny from 2600:1f60:7400::/40
 ufw deny from 2400:7fc0:2400::/40
 ufw deny from 2600:1ff8:a400::/40
 ufw deny from 2600:1ffa:c000::/40
+ufw deny from 2a05:d031:1000::/40
 ufw deny from 2a05:d059:9000::/40
 ufw deny from 2404:c2c0:6000::/40
 ufw deny from 2600:1ff4:2000::/40
@@ -734,15 +772,18 @@ ufw deny from 2a05:d059:8000::/40
 ufw deny from 2a05:d078:a000::/40
 ufw deny from 2406:daf4:2000::/40
 ufw deny from 2600:1fef:7400::/40
+ufw deny from 2600:1ff4:800::/40
 ufw deny from 2a05:d050:4000::/40
 ufw deny from 2001:3fc7:a800::/40
 ufw deny from 2406:daf0:2800::/40
 ufw deny from 2406:daf0:4000::/40
 ufw deny from 2600:1ff0:a400::/40
 ufw deny from 2a05:d06f:b000::/40
+ufw deny from 2600:1f61:7400::/40
 ufw deny from 2600:1fa0:5000::/40
 ufw deny from 2600:1fb9:6000::/40
 ufw deny from 2406:daa0:e000::/40
+ufw deny from 2600:1f61:800::/40
 ufw deny from 2406:daf9:b000::/40
 ufw deny from 2600:1f60:a400::/40
 ufw deny from 2600:1ff4:6000::/40
@@ -750,8 +791,10 @@ ufw deny from 2406:da60:9000::/40
 ufw deny from 2600:1fa0:e000::/40
 ufw deny from 2a05:d079:8000::/40
 ufw deny from 2406:dafa:c000::/40
+ufw deny from 2600:1f61:c000::/40
 ufw deny from 2400:7fc0:2c00::/40
 ufw deny from 2600:1f60:8000::/39
+ufw deny from 2600:1f61:ec00::/40
 ufw deny from 2a05:d070:8000::/40
 ufw deny from 2a05:d070:1000::/40
 ufw deny from 2406:daa0:f000::/40
@@ -770,6 +813,7 @@ ufw deny from 2600:1ffa:8000::/40
 ufw deny from 2600:1fa0:a400::/40
 ufw deny from 2600:1ff8:7400::/40
 ufw deny from 2600:1ff9:8000::/39
+ufw deny from 2a05:d031:4000::/40
 ufw deny from 2406:daf9:1000::/40
 ufw deny from 2406:daf4:7000::/40
 ufw deny from 2406:daf9:4800::/40
@@ -818,6 +862,7 @@ ufw deny from 2a05:d074:1000::/40
 ufw deny from 2600:1fb9:2000::/40
 ufw deny from 2600:1ff0:ec00::/40
 ufw deny from 2a05:d074:800::/40
+ufw deny from 2406:da61:4800::/40
 ufw deny from 2406:daf8:2000::/40
 ufw deny from 2600:1ff8:6000::/40
 ufw deny from 2600:1ff9:7400::/40
@@ -827,6 +872,8 @@ ufw deny from 2600:1fb9:8000::/39
 ufw deny from 2600:1ffa:5000::/40
 ufw deny from 2406:daa0:a000::/40
 ufw deny from 2600:1f60:c000::/40
+ufw deny from 2600:1f61:2000::/40
+ufw deny from 2600:1f61:6000::/40
 ufw deny from 2406:daf0:a000::/40
 ufw deny from 2600:1fef:5000::/40
 ufw deny from 2a05:d030:e000::/40
@@ -834,6 +881,7 @@ ufw deny from 2a05:d070:800::/40
 ufw deny from 2a05:d079:800::/40
 ufw deny from 2a05:d059:1000::/40
 ufw deny from 2a05:d078:6000::/40
+ufw deny from 2a05:d031:5000::/40
 ufw deny from 2600:1ff8:e000::/40
 ufw deny from 2600:1ff9:a400::/40
 ufw deny from 2406:daf4:800::/40

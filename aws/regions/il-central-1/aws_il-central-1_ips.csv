@@ -118,6 +118,7 @@ ip_address,ip_type,service,region
 2a05:d06b:5000::/40,IPv6,AMAZON,il-central-1
 2600:f0f0:4110::/48,IPv6,AMAZON,il-central-1
 2a05:d07e:5000::/40,IPv6,AMAZON,il-central-1
+2a05:d068:5000::/40,IPv6,AMAZON,il-central-1
 2a05:d031:5000::/40,IPv6,AMAZON,il-central-1
 2a05:d059:5000::/40,IPv6,S3,il-central-1
 2a05:d030:5000::/40,IPv6,S3,il-central-1
@@ -127,6 +128,7 @@ ip_address,ip_type,service,region
 2a05:d050:5000::/40,IPv6,S3,il-central-1
 2a05:d070:5000::/40,IPv6,S3,il-central-1
 2a05:d074:5000::/40,IPv6,S3,il-central-1
+2a05:d031:5000::/40,IPv6,S3,il-central-1
 2600:f0f0:611f::/48,IPv6,S3,il-central-1
 2600:f0f1:8f::/48,IPv6,S3,il-central-1
 2a05:d032:5000::/40,IPv6,WORKSPACES_GATEWAYS,il-central-1
@@ -159,5 +161,6 @@ ip_address,ip_type,service,region
 2a05:d038:5000::/40,IPv6,EC2,il-central-1
 2a05:d06b:5000::/40,IPv6,EC2,il-central-1
 2600:f0f0:4110::/48,IPv6,EC2,il-central-1
+2a05:d068:5000::/40,IPv6,EC2,il-central-1
 2a05:d031:5000::/40,IPv6,EC2,il-central-1
 2a05:d025:451:7d00::/56,IPv6,EC2_INSTANCE_CONNECT,il-central-1

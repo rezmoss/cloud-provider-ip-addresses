@@ -1,6 +1,6 @@
 #!/bin/bash
 # Aws IP Ranges
-# Updated: 2026-03-17 01:57:21
+# Updated: 2026-05-23 03:16:35
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -114,6 +114,7 @@ ufw allow from 2406:daf0:b000::/40
 ufw allow from 2406:daef:b000::/40
 ufw allow from 2406:da60:b000::/40
 ufw allow from 2406:da36:b000::/40
+ufw allow from 2406:dae8:b000::/40
 ufw allow from 2406:da32:b000::/40
 ufw allow from 2406:daff:b000::/40
 ufw allow from 2406:dae9:b000::/40
@@ -138,6 +139,7 @@ ufw allow from 2600:f0fb:f10b::/48
 ufw allow from 2606:f40:b200::/40
 ufw allow from 2606:f40:ffd4::/48
 ufw allow from 2406:daf2:b000::/40
+ufw allow from 2406:da61:b000::/40
 ufw allow from 2406:daf4:b000::/40
 ufw allow from 2406:daf8:b000::/40
 ufw allow from 2406:daf0:b000::/40
@@ -162,6 +164,7 @@ ufw allow from 2406:daf0:b000::/40
 ufw allow from 2406:daef:b000::/40
 ufw allow from 2406:da60:b000::/40
 ufw allow from 2406:da36:b000::/40
+ufw allow from 2406:dae8:b000::/40
 ufw allow from 2406:da32:b000::/40
 ufw allow from 2406:daff:b000::/40
 ufw allow from 2406:dae9:b000::/40

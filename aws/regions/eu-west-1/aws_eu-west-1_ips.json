@@ -3450,6 +3450,12 @@
     "region": "eu-west-1"
   },
   {
+    "ip_address": "2a05:d068:8000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eu-west-1"
+  },
+  {
     "ip_address": "2631:0:1000::/39",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -3579,6 +3585,12 @@
     "ip_address": "2a05:d018:fff:f800::/56",
     "ip_type": "IPv6",
     "service": "ROUTE53_HEALTHCHECKS",
+    "region": "eu-west-1"
+  },
+  {
+    "ip_address": "2a05:d031:8000::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
     "region": "eu-west-1"
   },
   {
@@ -4009,6 +4021,12 @@
   },
   {
     "ip_address": "2600:f0f2:7015::/48",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eu-west-1"
+  },
+  {
+    "ip_address": "2a05:d068:8000::/40",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "eu-west-1"

@@ -1,6 +1,6 @@
 #!/bin/bash
 # Aws IP Ranges
-# Updated: 2026-05-08 00:39:56
+# Updated: 2026-05-23 03:16:35
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -90,6 +90,7 @@ ufw allow from 2a05:d076:9000::/40
 ufw allow from 2a05:d06b:9000::/40
 ufw allow from 2a05:d000:9000::/40
 ufw allow from 2a05:d032:9000::/40
+ufw allow from 2a05:d068:9000::/40
 ufw allow from 2a05:d033:9000::/40
 ufw allow from 2606:7b40:1b0c:4000::/56
 ufw allow from 2600:f0fb:f110::/48
@@ -120,6 +121,7 @@ ufw allow from 2600:f0f1:8b::/48
 ufw allow from 2a05:d07c:9000::/40
 ufw allow from 2a05:d074:9000::/40
 ufw allow from 2a05:d079:9000::/40
+ufw allow from 2a05:d031:9000::/40
 ufw allow from 2a05:d078:9000::/40
 ufw allow from 2a05:d06f:9000::/40
 ufw allow from 2a05:d050:9000::/40
@@ -134,6 +136,7 @@ ufw allow from 2a05:d076:9000::/40
 ufw allow from 2a05:d06b:9000::/40
 ufw allow from 2a05:d000:9000::/40
 ufw allow from 2a05:d032:9000::/40
+ufw allow from 2a05:d068:9000::/40
 ufw allow from 2a05:d033:9000::/40
 ufw allow from 2606:7b40:1b0c:4000::/56
 ufw allow from 2600:f0fb:f110::/48
