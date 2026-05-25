@@ -110,6 +110,7 @@ INSERT INTO `apple_private_relay_br-pe_ips` (`ip_address`, `ip_type`) VALUES ('1
 INSERT INTO `apple_private_relay_br-pe_ips` (`ip_address`, `ip_type`) VALUES ('104.28.113.45/32', 'IPv4');
 INSERT INTO `apple_private_relay_br-pe_ips` (`ip_address`, `ip_type`) VALUES ('104.28.113.58/32', 'IPv4');
 INSERT INTO `apple_private_relay_br-pe_ips` (`ip_address`, `ip_type`) VALUES ('104.28.113.59/32', 'IPv4');
+INSERT INTO `apple_private_relay_br-pe_ips` (`ip_address`, `ip_type`) VALUES ('104.28.137.89/32', 'IPv4');
 INSERT INTO `apple_private_relay_br-pe_ips` (`ip_address`, `ip_type`) VALUES ('104.28.140.177/32', 'IPv4');
 INSERT INTO `apple_private_relay_br-pe_ips` (`ip_address`, `ip_type`) VALUES ('104.28.150.71/32', 'IPv4');
 INSERT INTO `apple_private_relay_br-pe_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:918::/45', 'IPv6');

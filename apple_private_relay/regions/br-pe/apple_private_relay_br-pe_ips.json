@@ -520,6 +520,11 @@
     "region": "BR-PE"
   },
   {
+    "ip_address": "104.28.137.89/32",
+    "ip_type": "IPv4",
+    "region": "BR-PE"
+  },
+  {
     "ip_address": "104.28.140.177/32",
     "ip_type": "IPv4",
     "region": "BR-PE"

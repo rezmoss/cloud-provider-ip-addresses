@@ -16,12 +16,12 @@
 
 ### Live Stats
 
-> Last updated: **2026-05-24** | Providers: **24** | Total CIDRs: **425,110** | IPv4 addresses: **341,560,369** | IPv4 space: **7.95%**
+> Last updated: **2026-05-25** | Providers: **24** | Total CIDRs: **425,112** | IPv4 addresses: **341,560,371** | IPv4 space: **7.95%**
 
 | Provider | IPv4 CIDRs | IPv6 CIDRs | Total CIDRs | IPv4 Addresses | Services | Regions |
 |----------|-----------|-----------|------------|---------------|----------|--------|
 | amazonbot | 2,059 | 0 | 2,059 | 2,059 | 3 | 0 |
-| apple_private_relay | 41,782 | 245,128 | 286,910 | 105,760 | 0 | 1279 |
+| apple_private_relay | 41,784 | 245,128 | 286,912 | 105,762 | 0 | 1279 |
 | applebot | 12 | 0 | 12 | 2,400 | 1 | 0 |
 | atlassian | 194 | 60 | 254 | 79,126 | 12 | 18 |
 | aws | 10,235 | 5,632 | 15,867 | 183,947,030 | 26 | 43 |

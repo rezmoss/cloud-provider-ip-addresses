@@ -1,0 +1,14 @@
+{
+  "date": "2026-05-25",
+  "changes": {
+    "apple_private_relay": {
+      "added": [
+        "104.28.137.89/32",
+        "104.28.137.90/32"
+      ],
+      "removed": [],
+      "added_count": 2,
+      "removed_count": 0
+    }
+  }
+}
