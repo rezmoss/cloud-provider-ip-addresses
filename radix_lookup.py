@@ -22,7 +22,10 @@ import sys
 try:
     import SubnetTree
 except ImportError:
-    print("Error: pysubnettree not installed. Run: pip3 install pysubnettree", file=sys.stderr)
+    print(
+        "Error: pysubnettree not installed. Run: pip3 install pysubnettree",
+        file=sys.stderr,
+    )
     sys.exit(1)
 
 
@@ -33,7 +36,10 @@ def load_provider_data(data_dir):
 
     if not os.path.isdir(data_dir):
         print(f"Error: Data directory '{data_dir}' not found.", file=sys.stderr)
-        print("Run 'python app.py' first to generate data, or specify --data-dir.", file=sys.stderr)
+        print(
+            "Run 'python app.py' first to generate data, or specify --data-dir.",
+            file=sys.stderr,
+        )
         sys.exit(1)
 
     count = 0
@@ -41,18 +47,22 @@ def load_provider_data(data_dir):
         provider_dir = os.path.join(data_dir, provider_name)
         if not os.path.isdir(provider_dir):
             continue
-        json_file = os.path.join(provider_dir, f'{provider_name}_ips.json')
+        json_file = os.path.join(provider_dir, f"{provider_name}_ips.json")
         if not os.path.exists(json_file):
             continue
         try:
-            with open(json_file, 'r') as f:
+            with open(json_file, "r") as f:
                 ip_list = json.load(f)
             for entry in ip_list:
                 try:
-                    cidr = entry['ip_address']
+                    cidr = entry["ip_address"]
                     tree[cidr] = cidr
                     details.setdefault(cidr, []).append(
-                        (provider_name, entry.get('service', ''), entry.get('region', ''))
+                        (
+                            provider_name,
+                            entry.get("service", ""),
+                            entry.get("region", ""),
+                        )
                     )
                     count += 1
                 except (ValueError, KeyError):
@@ -68,38 +78,39 @@ def lookup_ip(ip_str, tree, details):
     """Look up a single IP address using the radix tree."""
     ip_str = ip_str.strip()
     try:
-        cidr = tree[ip_str]
+        cidrs = tree.search_all(ip_str)
     except KeyError:
         return []
     except ValueError:
-        return [{'error': f'Invalid IP address: {ip_str}'}]
+        return [{"error": f"Invalid IP address: {ip_str}"}]
 
     matches = []
-    for provider, service, region in details.get(cidr, []):
-        match = {'provider': provider, 'cidr': cidr}
-        if service:
-            match['service'] = service
-        if region:
-            match['region'] = region
-        matches.append(match)
+    for cidr in cidrs:
+        for provider, service, region in details.get(cidr, []):
+            match = {"provider": provider, "cidr": cidr}
+            if service:
+                match["service"] = service
+            if region:
+                match["region"] = region
+            matches.append(match)
     return matches
 
 
 def format_result(ip_str, matches):
     """Format lookup results for display."""
     if not matches:
-        return f'{ip_str} — No match found'
-    if 'error' in matches[0]:
+        return f"{ip_str} — No match found"
+    if "error" in matches[0]:
         return f'{ip_str} — {matches[0]["error"]}'
 
     parts = []
     for m in matches:
-        detail = m['provider'].upper()
+        detail = m["provider"].upper()
         extras = []
-        if m.get('service'):
-            extras.append(m['service'])
-        if m.get('region'):
-            extras.append(m['region'])
+        if m.get("service"):
+            extras.append(m["service"])
+        if m.get("region"):
+            extras.append(m["region"])
         if extras:
             detail += f' ({", ".join(extras)})'
         detail += f' [{m["cidr"]}]'
@@ -109,17 +120,22 @@ def format_result(ip_str, matches):
 
 def main():
     parser = argparse.ArgumentParser(
-        description='Fast cloud provider IP lookup using radix tree.',
-        epilog='Examples:\n'
-               '  python radix_lookup.py 13.32.0.1\n'
-               '  python radix_lookup.py --file ips.txt\n'
-               '  python radix_lookup.py --json 8.8.8.8\n',
+        description="Fast cloud provider IP lookup using radix tree.",
+        epilog="Examples:\n"
+        "  python radix_lookup.py 13.32.0.1\n"
+        "  python radix_lookup.py --file ips.txt\n"
+        "  python radix_lookup.py --json 8.8.8.8\n",
         formatter_class=argparse.RawDescriptionHelpFormatter,
     )
-    parser.add_argument('ips', nargs='*', help='IP addresses to look up')
-    parser.add_argument('--file', '-f', help='File with one IP per line')
-    parser.add_argument('--data-dir', '-d', default='data', help='Path to data directory (default: data)')
-    parser.add_argument('--json', '-j', action='store_true', help='Output as JSON')
+    parser.add_argument("ips", nargs="*", help="IP addresses to look up")
+    parser.add_argument("--file", "-f", help="File with one IP per line")
+    parser.add_argument(
+        "--data-dir",
+        "-d",
+        default="data",
+        help="Path to data directory (default: data)",
+    )
+    parser.add_argument("--json", "-j", action="store_true", help="Output as JSON")
     args = parser.parse_args()
 
     if not args.ips and not args.file:
@@ -132,10 +148,10 @@ def main():
     ips_to_check = list(args.ips) if args.ips else []
     if args.file:
         try:
-            with open(args.file, 'r') as f:
+            with open(args.file, "r") as f:
                 for line in f:
                     line = line.strip()
-                    if line and not line.startswith('#'):
+                    if line and not line.startswith("#"):
                         ips_to_check.append(line)
         except IOError as e:
             print(f"Error reading file: {e}", file=sys.stderr)
@@ -153,5 +169,5 @@ def main():
         print()
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()
