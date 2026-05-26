@@ -40,16 +40,19 @@ jobs:
           KEY: 64688c05b4a69e9e4b9821850f22cc69
           HOST: cloudipdb.io
         run: |
-          mapfile -t URLS < site/indexnow-urls.txt
-          payload=$(python3 -c '
+          python3 <<'PY' > /tmp/indexnow.json
           import json, os
+          host = os.environ["HOST"]
+          key = os.environ["KEY"]
           urls = [u.strip() for u in open("site/indexnow-urls.txt") if u.strip()]
           print(json.dumps({
-            "host": os.environ["HOST"],
-            "key": os.environ["KEY"],
-            "keyLocation": f"https://{os.environ[\"HOST\"]}/{os.environ[\"KEY\"]}.txt",
-            "urlList": urls,
-          }))')
+              "host": host,
+              "key": key,
+              "keyLocation": f"https://{host}/{key}.txt",
+              "urlList": urls,
+          }))
+          PY
           curl -sS -X POST "https://api.indexnow.org/IndexNow" \
             -H "Content-Type: application/json; charset=utf-8" \
-            -d "$payload" -w "\nIndexNow HTTP %{http_code}\n" || true
+            --data-binary @/tmp/indexnow.json \
+            -w "\nIndexNow HTTP %{http_code}\n" || true
