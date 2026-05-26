@@ -2,6 +2,16 @@
 
 Daily IP range changes across all providers.
 
+## 2026-05-26
+
+### duckduckbot
+- Added: 16 CIDRs
+- Removed: 0 CIDRs
+
+### aws
+- Added: 9 CIDRs
+- Removed: 0 CIDRs
+
 ## 2026-05-25
 
 ### apple_private_relay

@@ -126,6 +126,12 @@
     "region": "us-south-1"
   },
   {
+    "ip_address": "2620:107:4000:8800::/56",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-south-1"
+  },
+  {
     "ip_address": "2600:1fa0:800::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",

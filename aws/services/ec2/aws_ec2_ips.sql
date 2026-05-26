@@ -2513,6 +2513,7 @@ INSERT INTO `aws_ec2_ips` (`ip_address`, `ip_type`) VALUES ('2600:9000:5211::/48
 INSERT INTO `aws_ec2_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f0:1104::/48', 'IPv6');
 INSERT INTO `aws_ec2_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f0:1109::/48', 'IPv6');
 INSERT INTO `aws_ec2_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f0:6100::/48', 'IPv6');
+INSERT INTO `aws_ec2_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f1:1c::/48', 'IPv6');
 INSERT INTO `aws_ec2_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0fb:f100::/48', 'IPv6');
 INSERT INTO `aws_ec2_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0fb:f110::/48', 'IPv6');
 INSERT INTO `aws_ec2_ips` (`ip_address`, `ip_type`) VALUES ('2606:7b40:1b0f:c300::/56', 'IPv6');

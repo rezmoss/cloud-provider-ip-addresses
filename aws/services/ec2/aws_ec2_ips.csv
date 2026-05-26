@@ -2506,6 +2506,7 @@ ip_address,ip_type,service,region
 2600:f0f0:1104::/48,IPv6,EC2,ap-northeast-2
 2600:f0f0:1109::/48,IPv6,EC2,ap-southeast-2
 2600:f0f0:6100::/48,IPv6,EC2,us-east-1
+2600:f0f1:1c::/48,IPv6,EC2,us-east-2
 2600:f0fb:f100::/48,IPv6,EC2,us-east-1
 2600:f0fb:f110::/48,IPv6,EC2,eu-central-2
 2606:7b40:1b0f:c300::/56,IPv6,EC2,us-west-2

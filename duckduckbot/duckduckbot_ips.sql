@@ -6,6 +6,22 @@ CREATE TABLE IF NOT EXISTS `duckduckbot_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `duckduckbot_ips` (`ip_address`, `ip_type`) VALUES ('48.200.33.227/32', 'IPv4');
+INSERT INTO `duckduckbot_ips` (`ip_address`, `ip_type`) VALUES ('20.72.221.45/32', 'IPv4');
+INSERT INTO `duckduckbot_ips` (`ip_address`, `ip_type`) VALUES ('20.80.135.7/32', 'IPv4');
+INSERT INTO `duckduckbot_ips` (`ip_address`, `ip_type`) VALUES ('20.59.0.65/32', 'IPv4');
+INSERT INTO `duckduckbot_ips` (`ip_address`, `ip_type`) VALUES ('20.72.203.250/32', 'IPv4');
+INSERT INTO `duckduckbot_ips` (`ip_address`, `ip_type`) VALUES ('172.193.197.146/32', 'IPv4');
+INSERT INTO `duckduckbot_ips` (`ip_address`, `ip_type`) VALUES ('20.242.135.165/32', 'IPv4');
+INSERT INTO `duckduckbot_ips` (`ip_address`, `ip_type`) VALUES ('52.146.57.51/32', 'IPv4');
+INSERT INTO `duckduckbot_ips` (`ip_address`, `ip_type`) VALUES ('4.156.30.123/32', 'IPv4');
+INSERT INTO `duckduckbot_ips` (`ip_address`, `ip_type`) VALUES ('40.121.121.54/32', 'IPv4');
+INSERT INTO `duckduckbot_ips` (`ip_address`, `ip_type`) VALUES ('134.33.207.189/32', 'IPv4');
+INSERT INTO `duckduckbot_ips` (`ip_address`, `ip_type`) VALUES ('52.224.191.245/32', 'IPv4');
+INSERT INTO `duckduckbot_ips` (`ip_address`, `ip_type`) VALUES ('64.236.93.100/32', 'IPv4');
+INSERT INTO `duckduckbot_ips` (`ip_address`, `ip_type`) VALUES ('52.154.204.93/32', 'IPv4');
+INSERT INTO `duckduckbot_ips` (`ip_address`, `ip_type`) VALUES ('128.203.214.241/32', 'IPv4');
+INSERT INTO `duckduckbot_ips` (`ip_address`, `ip_type`) VALUES ('57.167.88.38/32', 'IPv4');
 INSERT INTO `duckduckbot_ips` (`ip_address`, `ip_type`) VALUES ('4.254.123.56/32', 'IPv4');
 INSERT INTO `duckduckbot_ips` (`ip_address`, `ip_type`) VALUES ('4.248.234.26/32', 'IPv4');
 INSERT INTO `duckduckbot_ips` (`ip_address`, `ip_type`) VALUES ('74.242.194.48/32', 'IPv4');

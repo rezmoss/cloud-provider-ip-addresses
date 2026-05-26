@@ -16,7 +16,7 @@
 
 ### Live Stats
 
-> Last updated: **2026-05-25** | Providers: **24** | Total CIDRs: **425,112** | IPv4 addresses: **341,560,371** | IPv4 space: **7.95%**
+> Last updated: **2026-05-26** | Providers: **24** | Total CIDRs: **425,138** | IPv4 addresses: **341,560,395** | IPv4 space: **7.95%**
 
 | Provider | IPv4 CIDRs | IPv6 CIDRs | Total CIDRs | IPv4 Addresses | Services | Regions |
 |----------|-----------|-----------|------------|---------------|----------|--------|
@@ -24,14 +24,14 @@
 | apple_private_relay | 41,784 | 245,128 | 286,912 | 105,762 | 0 | 1279 |
 | applebot | 12 | 0 | 12 | 2,400 | 1 | 0 |
 | atlassian | 194 | 60 | 254 | 79,126 | 12 | 18 |
-| aws | 10,235 | 5,632 | 15,867 | 183,947,030 | 26 | 43 |
+| aws | 10,242 | 5,635 | 15,877 | 183,947,038 | 26 | 43 |
 | azure | 76,247 | 26,774 | 103,021 | 101,047,874 | 3172 | 74 |
 | bingbot | 28 | 0 | 28 | 4,736 | 1 | 0 |
 | circleci | 47 | 0 | 47 | 3,871 | 3 | 1 |
 | cloudflare | 15 | 7 | 22 | 1,524,736 | 0 | 0 |
 | commoncrawl | 5 | 1 | 6 | 29 | 1 | 0 |
 | digitalocean | 1,071 | 148 | 1,219 | 3,094,912 | 0 | 13 |
-| duckduckbot | 320 | 0 | 320 | 320 | 1 | 0 |
+| duckduckbot | 336 | 0 | 336 | 336 | 1 | 0 |
 | fastly | 19 | 2 | 21 | 304,128 | 0 | 0 |
 | github | 5,363 | 1,373 | 6,736 | 27,106,359 | 11 | 0 |
 | googlebot | 167 | 144 | 311 | 4,992 | 1 | 0 |
@@ -302,7 +302,7 @@ python3 lookup.py --json 8.8.8.8
 
 ### Fast Lookup (Radix Tree)
 
-For large-scale lookups, `radix_lookup.py` uses a radix tree ([pysubnettree](https://github.com/zeek/pysubnettree)) for O(1) lookups — 2M+ IPs/sec for IPv4, 1.6M+ IPs/sec for IPv6. Same interface and output as `lookup.py`.
+For large-scale lookups, `radix_lookup.py` uses a radix tree **pysubnettree** (github.com/zeek/pysubnettree) for O(1) lookups — 2M+ IPs/sec for IPv4, 1.6M+ IPs/sec for IPv6. Same interface and output as `lookup.py`.
 
 ```bash
 pip3 install -r requirements.txt

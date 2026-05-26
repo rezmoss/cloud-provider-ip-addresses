@@ -28,6 +28,7 @@ INSERT INTO `aws_eusc-de-east-1_ips` (`ip_address`, `ip_type`) VALUES ('51.0.29.
 INSERT INTO `aws_eusc-de-east-1_ips` (`ip_address`, `ip_type`) VALUES ('51.0.136.0/23', 'IPv4');
 INSERT INTO `aws_eusc-de-east-1_ips` (`ip_address`, `ip_type`) VALUES ('51.0.251.0/24', 'IPv4');
 INSERT INTO `aws_eusc-de-east-1_ips` (`ip_address`, `ip_type`) VALUES ('51.74.128.0/18', 'IPv4');
+INSERT INTO `aws_eusc-de-east-1_ips` (`ip_address`, `ip_type`) VALUES ('51.0.250.2/31', 'IPv4');
 INSERT INTO `aws_eusc-de-east-1_ips` (`ip_address`, `ip_type`) VALUES ('51.0.138.0/23', 'IPv4');
 INSERT INTO `aws_eusc-de-east-1_ips` (`ip_address`, `ip_type`) VALUES ('51.0.29.0/28', 'IPv4');
 INSERT INTO `aws_eusc-de-east-1_ips` (`ip_address`, `ip_type`) VALUES ('150.222.54.32/27', 'IPv4');
