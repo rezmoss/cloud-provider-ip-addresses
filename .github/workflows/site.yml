@@ -1,0 +1,55 @@
+name: Build landing site
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "generate_site.py"
+      - "summary.json"
+      - ".github/workflows/site.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: python generate_site.py
+
+      - uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./site
+          publish_branch: gh-pages
+          force_orphan: true
+          commit_message: "Update site (${{ github.sha }})"
+
+      - name: Ping IndexNow
+        if: success()
+        env:
+          KEY: 64688c05b4a69e9e4b9821850f22cc69
+          HOST: cloudipdb.io
+        run: |
+          mapfile -t URLS < site/indexnow-urls.txt
+          payload=$(python3 -c '
+          import json, os
+          urls = [u.strip() for u in open("site/indexnow-urls.txt") if u.strip()]
+          print(json.dumps({
+            "host": os.environ["HOST"],
+            "key": os.environ["KEY"],
+            "keyLocation": f"https://{os.environ[\"HOST\"]}/{os.environ[\"KEY\"]}.txt",
+            "urlList": urls,
+          }))')
+          curl -sS -X POST "https://api.indexnow.org/IndexNow" \
+            -H "Content-Type: application/json; charset=utf-8" \
+            -d "$payload" -w "\nIndexNow HTTP %{http_code}\n" || true
