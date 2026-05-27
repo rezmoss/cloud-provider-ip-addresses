@@ -594,6 +594,12 @@
     "region": ""
   },
   {
+    "ip_address": "51.4.159.152/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry",
+    "region": ""
+  },
+  {
     "ip_address": "51.4.160.0/29",
     "ip_type": "IPv4",
     "service": "MicrosoftContainerRegistry",
@@ -787,6 +793,12 @@
   },
   {
     "ip_address": "57.151.152.0/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry",
+    "region": ""
+  },
+  {
+    "ip_address": "57.167.187.224/29",
     "ip_type": "IPv4",
     "service": "MicrosoftContainerRegistry",
     "region": ""
@@ -1566,6 +1578,12 @@
     "region": ""
   },
   {
+    "ip_address": "2603:1030:40c:2a::7c8/125",
+    "ip_type": "IPv6",
+    "service": "MicrosoftContainerRegistry",
+    "region": ""
+  },
+  {
     "ip_address": "2603:1030:40c:402::88/125",
     "ip_type": "IPv6",
     "service": "MicrosoftContainerRegistry",
@@ -2077,6 +2095,12 @@
   },
   {
     "ip_address": "2603:1040:1602:c00::10/125",
+    "ip_type": "IPv6",
+    "service": "MicrosoftContainerRegistry",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1040:1702:5::2d0/125",
     "ip_type": "IPv6",
     "service": "MicrosoftContainerRegistry",
     "region": ""

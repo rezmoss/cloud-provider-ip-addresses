@@ -12,8 +12,26 @@
     "region": "eastus2"
   },
   {
+    "ip_address": "57.167.180.212/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.EastUS2",
+    "region": "eastus2"
+  },
+  {
+    "ip_address": "57.167.180.216/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.EastUS2",
+    "region": "eastus2"
+  },
+  {
     "ip_address": "172.175.111.120/29",
     "ip_type": "IPv4",
+    "service": "AzureAttestation.EastUS2",
+    "region": "eastus2"
+  },
+  {
+    "ip_address": "2603:1030:40c:29::5e0/124",
+    "ip_type": "IPv6",
     "service": "AzureAttestation.EastUS2",
     "region": "eastus2"
   }

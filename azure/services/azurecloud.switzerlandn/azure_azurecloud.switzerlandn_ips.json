@@ -522,6 +522,24 @@
     "region": "switzerlandn"
   },
   {
+    "ip_address": "57.157.156.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.switzerlandn",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "57.157.156.32/29",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.switzerlandn",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "57.157.156.40/30",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.switzerlandn",
+    "region": "switzerlandn"
+  },
+  {
     "ip_address": "70.152.29.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.switzerlandn",

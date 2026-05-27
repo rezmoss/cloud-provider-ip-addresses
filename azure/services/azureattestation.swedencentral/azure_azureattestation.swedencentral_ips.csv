@@ -1,4 +1,6 @@
 ip_address,ip_type,service,region
 4.223.182.184/29,IPv4,AzureAttestation.SwedenCentral,swedencentral
+4.223.199.84/30,IPv4,AzureAttestation.SwedenCentral,swedencentral
+4.223.199.88/29,IPv4,AzureAttestation.SwedenCentral,swedencentral
 51.12.46.224/30,IPv4,AzureAttestation.SwedenCentral,swedencentral
 2603:1020:1004:1::720/123,IPv6,AzureAttestation.SwedenCentral,swedencentral

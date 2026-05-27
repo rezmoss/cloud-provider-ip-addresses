@@ -222,7 +222,19 @@
     "region": "westindia"
   },
   {
+    "ip_address": "57.159.150.128/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.WestIndia",
+    "region": "westindia"
+  },
+  {
     "ip_address": "57.159.158.32/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.WestIndia",
+    "region": "westindia"
+  },
+  {
+    "ip_address": "57.159.172.4/30",
     "ip_type": "IPv4",
     "service": "AzureAttestation.WestIndia",
     "region": "westindia"

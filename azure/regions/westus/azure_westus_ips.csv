@@ -111,6 +111,8 @@ ip_address,ip_type,service,region
 2603:1030:a09:100::/63,IPv6,AzureArcInfrastructure.WestUS,westus
 13.86.223.192/30,IPv4,AzureAttestation.WestUS,westus
 20.49.127.244/30,IPv4,AzureAttestation.WestUS,westus
+20.59.154.176/29,IPv4,AzureAttestation.WestUS,westus
+20.59.154.184/30,IPv4,AzureAttestation.WestUS,westus
 52.238.33.184/29,IPv4,AzureAttestation.WestUS,westus
 2603:1030:a07:9::90/124,IPv6,AzureAttestation.WestUS,westus
 13.86.218.0/25,IPv4,AzureBackup.WestUS,westus

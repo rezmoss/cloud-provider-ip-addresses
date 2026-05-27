@@ -2592,6 +2592,12 @@
     "region": ""
   },
   {
+    "ip_address": "57.167.187.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors",
+    "region": ""
+  },
+  {
     "ip_address": "65.52.197.64/32",
     "ip_type": "IPv4",
     "service": "AzureConnectors",
@@ -3283,6 +3289,12 @@
   },
   {
     "ip_address": "2603:1030:40b:400::980/122",
+    "ip_type": "IPv6",
+    "service": "AzureConnectors",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:40c:2a::440/122",
     "ip_type": "IPv6",
     "service": "AzureConnectors",
     "region": ""

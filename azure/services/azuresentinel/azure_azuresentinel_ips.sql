@@ -432,6 +432,7 @@ INSERT INTO `azure_azuresentinel_ips` (`ip_address`, `ip_type`) VALUES ('2603:10
 INSERT INTO `azure_azuresentinel_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1403:2::c0/124', 'IPv6');
 INSERT INTO `azure_azuresentinel_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1502:1::2d0/124', 'IPv6');
 INSERT INTO `azure_azuresentinel_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1602:1::2d0/124', 'IPv6');
+INSERT INTO `azure_azuresentinel_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:2a::230/124', 'IPv6');
 INSERT INTO `azure_azuresentinel_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:702:2::c0/124', 'IPv6');
 INSERT INTO `azure_azuresentinel_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:902:1::2f0/124', 'IPv6');
 INSERT INTO `azure_azuresentinel_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005:3::4e0/124', 'IPv6');

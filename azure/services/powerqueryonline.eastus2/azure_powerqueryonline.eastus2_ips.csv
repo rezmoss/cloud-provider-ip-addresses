@@ -4,6 +4,7 @@ ip_address,ip_type,service,region
 20.65.1.124/31,IPv4,PowerQueryOnline.EastUS2,eastus2
 20.98.195.176/29,IPv4,PowerQueryOnline.EastUS2,eastus2
 52.179.200.128/31,IPv4,PowerQueryOnline.EastUS2,eastus2
+57.167.185.128/27,IPv4,PowerQueryOnline.EastUS2,eastus2
 104.208.207.40/29,IPv4,PowerQueryOnline.EastUS2,eastus2
 104.208.207.48/28,IPv4,PowerQueryOnline.EastUS2,eastus2
 172.175.14.20/30,IPv4,PowerQueryOnline.EastUS2,eastus2

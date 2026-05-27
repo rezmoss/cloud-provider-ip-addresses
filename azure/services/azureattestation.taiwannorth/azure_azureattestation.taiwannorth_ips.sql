@@ -8,4 +8,6 @@ CREATE TABLE IF NOT EXISTS `azure_azureattestation.taiwannorth_ips` (
 
 INSERT INTO `azure_azureattestation.taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('51.53.27.240/30', 'IPv4');
 INSERT INTO `azure_azureattestation.taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('70.157.78.240/29', 'IPv4');
+INSERT INTO `azure_azureattestation.taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('70.157.169.56/29', 'IPv4');
+INSERT INTO `azure_azureattestation.taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('70.157.169.96/30', 'IPv4');
 INSERT INTO `azure_azureattestation.taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1302::600/124', 'IPv6');

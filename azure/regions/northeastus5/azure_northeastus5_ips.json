@@ -1,0 +1,950 @@
+[
+  {
+    "ip_address": "172.194.86.168/30",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.112.244/30",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1602:3::610/125",
+    "ip_type": "IPv6",
+    "service": "ActionGroup.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1602:400::210/125",
+    "ip_type": "IPv6",
+    "service": "ActionGroup.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.70.16/28",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1602::780/124",
+    "ip_type": "IPv6",
+    "service": "ApiManagement.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.77.0/24",
+    "ip_type": "IPv4",
+    "service": "AppService.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1602:2::/120",
+    "ip_type": "IPv6",
+    "service": "AppService.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.78.192/26",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1602:2::380/122",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.78.140/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.112.100/32",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1602:2::240/124",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.64.20/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.90.220/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.91.24/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1602::7a0/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.70.64/28",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.70.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1602:1::/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.64.16/30",
+    "ip_type": "IPv4",
+    "service": "AzureBotService.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1602::20/123",
+    "ip_type": "IPv6",
+    "service": "AzureBotService.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.64.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureCognitiveSearch.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1602::100/121",
+    "ip_type": "IPv6",
+    "service": "AzureCognitiveSearch.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.76.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1602:1::7c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureConnectors.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.68.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.80.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.112.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1602::5c0/125",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1602:2::500/121",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1602:400::/125",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.68.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.68.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1602::580/123",
+    "ip_type": "IPv6",
+    "service": "AzureCosmosDB.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.73.128/28",
+    "ip_type": "IPv4",
+    "service": "AzureDataExplorerManagement.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1602:1::400/123",
+    "ip_type": "IPv6",
+    "service": "AzureDataExplorerManagement.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.70.0/29",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.70.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1602::700/121",
+    "ip_type": "IPv6",
+    "service": "AzureDigitalTwins.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.65.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1602::480/121",
+    "ip_type": "IPv6",
+    "service": "AzureEventGrid.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.72.0/24",
+    "ip_type": "IPv4",
+    "service": "EventHub.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1602:1::200/120",
+    "ip_type": "IPv6",
+    "service": "EventHub.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.73.208/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.73.216/29",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.112.96/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1602:1::3e8/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1602:400::8/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.65.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1602::400/122",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.81.104/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.82.224/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.82.232/31",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.84.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.112.120/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.112.224/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1602:2::760/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1602:3::200/122",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1602:3::240/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1602:3::280/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1602:3::300/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.81.60/30",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.82.192/27",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1602:3::180/121",
+    "ip_type": "IPv6",
+    "service": "AzurePortal.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.74.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1602:1::500/120",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.84.96/27",
+    "ip_type": "IPv4",
+    "service": "Sql.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.84.128/27",
+    "ip_type": "IPv4",
+    "service": "Sql.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.84.192/26",
+    "ip_type": "IPv4",
+    "service": "Sql.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1602:3::380/123",
+    "ip_type": "IPv6",
+    "service": "Sql.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1602:3::400/121",
+    "ip_type": "IPv6",
+    "service": "Sql.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.71.128/25",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1602:1::180/121",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "20.153.103.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "57.163.0.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "57.163.4.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "135.130.98.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "135.130.100.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "135.130.190.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "135.130.192.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "135.130.198.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "145.190.136.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "145.190.138.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "145.190.160.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "145.190.166.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1603::/48",
+    "ip_type": "IPv6",
+    "service": "Storage.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.68.0/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1602::500/122",
+    "ip_type": "IPv6",
+    "service": "BatchNodeManagement.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.81.112/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.82.32/27",
+    "ip_type": "IPv4",
+    "service": "DataFactory.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.83.0/24",
+    "ip_type": "IPv4",
+    "service": "DataFactory.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1602:3::/120",
+    "ip_type": "IPv6",
+    "service": "DataFactory.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.64.64/26",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1602::40/122",
+    "ip_type": "IPv6",
+    "service": "GatewayManager.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.73.200/29",
+    "ip_type": "IPv4",
+    "service": "HDInsight.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1602:1::490/124",
+    "ip_type": "IPv6",
+    "service": "HDInsight.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.85.240/28",
+    "ip_type": "IPv4",
+    "service": "LogicApps.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.86.0/27",
+    "ip_type": "IPv4",
+    "service": "LogicApps.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1602:3::600/124",
+    "ip_type": "IPv6",
+    "service": "LogicApps.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1602:3::620/123",
+    "ip_type": "IPv6",
+    "service": "LogicApps.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.86.160/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.112.104/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1602:3::3b8/125",
+    "ip_type": "IPv6",
+    "service": "MicrosoftContainerRegistry.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1602:400::10/125",
+    "ip_type": "IPv6",
+    "service": "MicrosoftContainerRegistry.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.79.134/31",
+    "ip_type": "IPv4",
+    "service": "PowerBI.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.81.56/30",
+    "ip_type": "IPv4",
+    "service": "PowerBI.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.81.96/29",
+    "ip_type": "IPv4",
+    "service": "PowerBI.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1602:2::700/122",
+    "ip_type": "IPv6",
+    "service": "PowerBI.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1602:2::740/123",
+    "ip_type": "IPv6",
+    "service": "PowerBI.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.64.32/29",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.86.128/27",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1602::1a0/123",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1602:3::6c0/122",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.86.224/29",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.112.240/30",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1602:3::618/125",
+    "ip_type": "IPv6",
+    "service": "ServiceFabric.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1602:400::18/125",
+    "ip_type": "IPv6",
+    "service": "ServiceFabric.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.79.136/29",
+    "ip_type": "IPv4",
+    "service": "StorageSyncService.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1602:2::3c0/123",
+    "ip_type": "IPv6",
+    "service": "StorageSyncService.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "20.20.55.160/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.northeastus5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "20.38.55.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.northeastus5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "20.152.126.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.northeastus5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "20.153.103.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.northeastus5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "20.201.180.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.northeastus5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "20.231.152.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.northeastus5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "57.157.96.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.northeastus5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "57.157.96.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.northeastus5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "57.157.96.160/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.northeastus5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "57.157.96.176/29",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.northeastus5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "57.157.96.184/30",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.northeastus5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "57.163.0.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.northeastus5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "57.163.4.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.northeastus5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "135.130.98.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.northeastus5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "135.130.100.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.northeastus5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "135.130.190.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.northeastus5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "135.130.192.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.northeastus5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "135.130.198.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.northeastus5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "145.190.61.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.northeastus5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "145.190.136.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.northeastus5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "145.190.138.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.northeastus5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "145.190.160.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.northeastus5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "145.190.166.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.northeastus5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.0.0/17",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.northeastus5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "209.199.36.96/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.northeastus5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "209.199.42.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.northeastus5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "209.199.43.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.northeastus5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1601::/48",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.northeastus5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1602::/47",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.northeastus5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1604::/48",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.northeastus5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1605::/48",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.northeastus5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1036:3000:300::/59",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.northeastus5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1037:1:320::/59",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.northeastus5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1061:101c::/58",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.northeastus5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1061:101c:40::/60",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.northeastus5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1061:101c:50::/61",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.northeastus5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1061:174d::/63",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.northeastus5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1063:2204:14::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.northeastus5",
+    "region": "northeastus5"
+  }
+]

@@ -72,6 +72,12 @@
     "region": "eastus2"
   },
   {
+    "ip_address": "57.167.187.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.EastUS2",
+    "region": "eastus2"
+  },
+  {
     "ip_address": "104.209.247.23/32",
     "ip_type": "IPv4",
     "service": "AzureConnectors.EastUS2",
@@ -80,6 +86,12 @@
   {
     "ip_address": "104.210.14.156/32",
     "ip_type": "IPv4",
+    "service": "AzureConnectors.EastUS2",
+    "region": "eastus2"
+  },
+  {
+    "ip_address": "2603:1030:40c:2a::440/122",
+    "ip_type": "IPv6",
     "service": "AzureConnectors.EastUS2",
     "region": "eastus2"
   },

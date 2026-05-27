@@ -14,3 +14,4 @@ ip_address,ip_type,service,region
 104.208.203.238/31,IPv4,AzureDigitalTwins.EastUS2,eastus2
 104.208.203.240/29,IPv4,AzureDigitalTwins.EastUS2,eastus2
 2603:1030:40c:e::5d4/126,IPv6,AzureDigitalTwins.EastUS2,eastus2
+2603:1030:40c:2a::/121,IPv6,AzureDigitalTwins.EastUS2,eastus2

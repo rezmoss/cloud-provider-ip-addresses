@@ -99,6 +99,8 @@ INSERT INTO `azure_azurecloud.uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('5
 INSERT INTO `azure_azurecloud.uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('52.143.222.0/23', 'IPv4');
 INSERT INTO `azure_azurecloud.uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('52.239.233.128/25', 'IPv4');
 INSERT INTO `azure_azurecloud.uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('57.150.230.0/23', 'IPv4');
+INSERT INTO `azure_azurecloud.uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('57.157.108.0/28', 'IPv4');
+INSERT INTO `azure_azurecloud.uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('57.157.108.16/29', 'IPv4');
 INSERT INTO `azure_azurecloud.uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('65.52.248.0/21', 'IPv4');
 INSERT INTO `azure_azurecloud.uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('70.152.32.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('70.152.214.0/24', 'IPv4');

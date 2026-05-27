@@ -8,4 +8,6 @@ CREATE TABLE IF NOT EXISTS `azure_azureattestation.mexicocentral_ips` (
 
 INSERT INTO `azure_azureattestation.mexicocentral_ips` (`ip_address`, `ip_type`) VALUES ('158.23.100.152/30', 'IPv4');
 INSERT INTO `azure_azureattestation.mexicocentral_ips` (`ip_address`, `ip_type`) VALUES ('172.195.50.24/29', 'IPv4');
+INSERT INTO `azure_azureattestation.mexicocentral_ips` (`ip_address`, `ip_type`) VALUES ('172.195.119.152/29', 'IPv4');
+INSERT INTO `azure_azureattestation.mexicocentral_ips` (`ip_address`, `ip_type`) VALUES ('172.195.121.64/30', 'IPv4');
 INSERT INTO `azure_azureattestation.mexicocentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:702::5e0/124', 'IPv6');

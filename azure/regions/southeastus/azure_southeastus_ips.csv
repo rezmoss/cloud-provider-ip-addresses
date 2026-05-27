@@ -84,6 +84,7 @@ ip_address,ip_type,service,region
 68.154.137.64/29,IPv4,Sql.SoutheastUS,southeastus
 2603:1030:902:2::640/123,IPv6,Sql.SoutheastUS,southeastus
 2603:1030:902:2::780/121,IPv6,Sql.SoutheastUS,southeastus
+68.154.163.144/28,IPv4,AzureSecurityCenter.SoutheastUS,southeastus
 57.151.214.0/25,IPv4,ServiceBus.SoutheastUS,southeastus
 68.154.136.16/29,IPv4,ServiceBus.SoutheastUS,southeastus
 68.154.136.32/28,IPv4,ServiceBus.SoutheastUS,southeastus

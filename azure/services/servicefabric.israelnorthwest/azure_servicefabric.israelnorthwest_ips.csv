@@ -1,3 +1,5 @@
 ip_address,ip_type,service,region
 51.4.160.12/30,IPv4,ServiceFabric.IsraelNorthwest,israelnorthwest
+51.4.224.24/29,IPv4,ServiceFabric.IsraelNorthwest,israelnorthwest
+2603:1040:1702:5::360/125,IPv6,ServiceFabric.IsraelNorthwest,israelnorthwest
 2603:1040:1702:400::18/125,IPv6,ServiceFabric.IsraelNorthwest,israelnorthwest

@@ -12,6 +12,18 @@
     "region": "malaysiasouth"
   },
   {
+    "ip_address": "172.197.29.36/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.MalaysiaSouth",
+    "region": "malaysiasouth"
+  },
+  {
+    "ip_address": "172.197.29.40/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.MalaysiaSouth",
+    "region": "malaysiasouth"
+  },
+  {
     "ip_address": "2603:1040:1503::620/124",
     "ip_type": "IPv6",
     "service": "AzureAttestation.MalaysiaSouth",

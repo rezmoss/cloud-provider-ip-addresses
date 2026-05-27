@@ -6,7 +6,11 @@ CREATE TABLE IF NOT EXISTS `azure_azurearcinfrastructure.newzealandnorth_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_azurearcinfrastructure.newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('172.196.79.54/31', 'IPv4');
+INSERT INTO `azure_azurearcinfrastructure.newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('172.196.79.56/32', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('172.204.165.72/30', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('172.204.177.160/32', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('172.204.248.104/32', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:502:2::130/124', 'IPv6');
+INSERT INTO `azure_azurearcinfrastructure.newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:502:5::64f/128', 'IPv6');
+INSERT INTO `azure_azurearcinfrastructure.newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:502:6::296/127', 'IPv6');

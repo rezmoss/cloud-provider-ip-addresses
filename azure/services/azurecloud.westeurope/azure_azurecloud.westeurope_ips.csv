@@ -429,7 +429,8 @@ ip_address,ip_type,service,region
 57.157.57.0/27,IPv4,AzureCloud.westeurope,westeurope
 57.157.57.32/28,IPv4,AzureCloud.westeurope,westeurope
 57.157.57.48/30,IPv4,AzureCloud.westeurope,westeurope
-57.168.0.0/17,IPv4,AzureCloud.westeurope,westeurope
+57.163.36.0/23,IPv4,AzureCloud.westeurope,westeurope
+57.168.0.0/16,IPv4,AzureCloud.westeurope,westeurope
 65.52.128.0/19,IPv4,AzureCloud.westeurope,westeurope
 68.219.160.0/19,IPv4,AzureCloud.westeurope,westeurope
 70.152.36.0/24,IPv4,AzureCloud.westeurope,westeurope

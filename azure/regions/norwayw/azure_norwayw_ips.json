@@ -168,6 +168,18 @@
     "region": "norwayw"
   },
   {
+    "ip_address": "4.220.245.132/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "4.220.245.184/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.NorwayWest",
+    "region": "norwayw"
+  },
+  {
     "ip_address": "51.13.128.64/30",
     "ip_type": "IPv4",
     "service": "AzureAttestation.NorwayWest",

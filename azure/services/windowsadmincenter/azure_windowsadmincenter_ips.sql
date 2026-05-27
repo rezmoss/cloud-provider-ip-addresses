@@ -107,6 +107,7 @@ INSERT INTO `azure_windowsadmincenter_ips` (`ip_address`, `ip_type`) VALUES ('26
 INSERT INTO `azure_windowsadmincenter_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f:1::2b0/125', 'IPv6');
 INSERT INTO `azure_windowsadmincenter_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:104::6c0/125', 'IPv6');
 INSERT INTO `azure_windowsadmincenter_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:107::588/125', 'IPv6');
+INSERT INTO `azure_windowsadmincenter_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:29::580/125', 'IPv6');
 INSERT INTO `azure_windowsadmincenter_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:504::1a8/125', 'IPv6');
 INSERT INTO `azure_windowsadmincenter_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:608:1::2b0/125', 'IPv6');
 INSERT INTO `azure_windowsadmincenter_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:702::588/125', 'IPv6');

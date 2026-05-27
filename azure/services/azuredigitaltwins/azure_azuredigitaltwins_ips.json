@@ -1920,6 +1920,12 @@
     "region": ""
   },
   {
+    "ip_address": "2603:1030:40c:2a::/121",
+    "ip_type": "IPv6",
+    "service": "AzureDigitalTwins",
+    "region": ""
+  },
+  {
     "ip_address": "2603:1030:504::560/123",
     "ip_type": "IPv6",
     "service": "AzureDigitalTwins",

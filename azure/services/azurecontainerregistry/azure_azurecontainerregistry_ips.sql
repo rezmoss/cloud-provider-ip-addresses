@@ -864,6 +864,7 @@ INSERT INTO `azure_azurecontainerregistry_ips` (`ip_address`, `ip_type`) VALUES 
 INSERT INTO `azure_azurecontainerregistry_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40b:1000::8/125', 'IPv6');
 INSERT INTO `azure_azurecontainerregistry_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40b:1000::100/121', 'IPv6');
 INSERT INTO `azure_azurecontainerregistry_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:d::400/122', 'IPv6');
+INSERT INTO `azure_azurecontainerregistry_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:2a::700/121', 'IPv6');
 INSERT INTO `azure_azurecontainerregistry_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:402::90/125', 'IPv6');
 INSERT INTO `azure_azurecontainerregistry_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:402::340/122', 'IPv6');
 INSERT INTO `azure_azurecontainerregistry_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:402::580/121', 'IPv6');

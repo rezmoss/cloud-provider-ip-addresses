@@ -2556,6 +2556,12 @@
     "region": ""
   },
   {
+    "ip_address": "2603:1030:40c:2a::230/124",
+    "ip_type": "IPv6",
+    "service": "AzureSentinel",
+    "region": ""
+  },
+  {
     "ip_address": "2603:1030:702:2::c0/124",
     "ip_type": "IPv6",
     "service": "AzureSentinel",

@@ -162,7 +162,6 @@ INSERT INTO `azure_azurespringcloud_ips` (`ip_address`, `ip_type`) VALUES ('52.1
 INSERT INTO `azure_azurespringcloud_ips` (`ip_address`, `ip_type`) VALUES ('52.150.152.128/26', 'IPv4');
 INSERT INTO `azure_azurespringcloud_ips` (`ip_address`, `ip_type`) VALUES ('52.150.152.192/29', 'IPv4');
 INSERT INTO `azure_azurespringcloud_ips` (`ip_address`, `ip_type`) VALUES ('52.150.153.0/25', 'IPv4');
-INSERT INTO `azure_azurespringcloud_ips` (`ip_address`, `ip_type`) VALUES ('52.156.88.106/32', 'IPv4');
 INSERT INTO `azure_azurespringcloud_ips` (`ip_address`, `ip_type`) VALUES ('52.228.84.24/29', 'IPv4');
 INSERT INTO `azure_azurespringcloud_ips` (`ip_address`, `ip_type`) VALUES ('52.228.85.0/25', 'IPv4');
 INSERT INTO `azure_azurespringcloud_ips` (`ip_address`, `ip_type`) VALUES ('52.228.85.128/26', 'IPv4');
@@ -170,6 +169,7 @@ INSERT INTO `azure_azurespringcloud_ips` (`ip_address`, `ip_type`) VALUES ('52.2
 INSERT INTO `azure_azurespringcloud_ips` (`ip_address`, `ip_type`) VALUES ('52.250.225.64/26', 'IPv4');
 INSERT INTO `azure_azurespringcloud_ips` (`ip_address`, `ip_type`) VALUES ('52.250.225.128/25', 'IPv4');
 INSERT INTO `azure_azurespringcloud_ips` (`ip_address`, `ip_type`) VALUES ('57.151.211.0/24', 'IPv4');
+INSERT INTO `azure_azurespringcloud_ips` (`ip_address`, `ip_type`) VALUES ('57.167.186.0/24', 'IPv4');
 INSERT INTO `azure_azurespringcloud_ips` (`ip_address`, `ip_type`) VALUES ('68.210.162.0/24', 'IPv4');
 INSERT INTO `azure_azurespringcloud_ips` (`ip_address`, `ip_type`) VALUES ('68.211.3.0/24', 'IPv4');
 INSERT INTO `azure_azurespringcloud_ips` (`ip_address`, `ip_type`) VALUES ('68.221.83.0/24', 'IPv4');

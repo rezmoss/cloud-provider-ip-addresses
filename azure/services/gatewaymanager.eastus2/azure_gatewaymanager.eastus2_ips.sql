@@ -12,4 +12,5 @@ INSERT INTO `azure_gatewaymanager.eastus2_ips` (`ip_address`, `ip_type`) VALUES 
 INSERT INTO `azure_gatewaymanager.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('48.204.192.0/27', 'IPv4');
 INSERT INTO `azure_gatewaymanager.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('52.184.255.23/32', 'IPv4');
 INSERT INTO `azure_gatewaymanager.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('52.251.12.161/32', 'IPv4');
+INSERT INTO `azure_gatewaymanager.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('57.167.184.192/26', 'IPv4');
 INSERT INTO `azure_gatewaymanager.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:1::40/122', 'IPv6');

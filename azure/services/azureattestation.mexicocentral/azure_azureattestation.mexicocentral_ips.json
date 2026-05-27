@@ -12,6 +12,18 @@
     "region": "mexicocentral"
   },
   {
+    "ip_address": "172.195.119.152/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "172.195.121.64/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
     "ip_address": "2603:1030:702::5e0/124",
     "ip_type": "IPv6",
     "service": "AzureAttestation.MexicoCentral",

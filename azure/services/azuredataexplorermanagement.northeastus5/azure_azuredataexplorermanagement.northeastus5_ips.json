@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "172.194.73.128/28",
+    "ip_type": "IPv4",
+    "service": "AzureDataExplorerManagement.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1602:1::400/123",
+    "ip_type": "IPv6",
+    "service": "AzureDataExplorerManagement.NortheastUS5",
+    "region": "northeastus5"
+  }
+]

@@ -8340,6 +8340,12 @@
     "region": ""
   },
   {
+    "ip_address": "57.167.184.162/31",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor",
+    "region": ""
+  },
+  {
     "ip_address": "65.52.2.145/32",
     "ip_type": "IPv4",
     "service": "AzureMonitor",
@@ -8755,6 +8761,12 @@
   },
   {
     "ip_address": "70.157.162.144/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor",
+    "region": ""
+  },
+  {
+    "ip_address": "70.157.170.0/26",
     "ip_type": "IPv4",
     "service": "AzureMonitor",
     "region": ""
@@ -13038,6 +13050,12 @@
     "region": ""
   },
   {
+    "ip_address": "2603:1030:40c:2b::380/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor",
+    "region": ""
+  },
+  {
     "ip_address": "2603:1030:40c:402::500/121",
     "ip_type": "IPv6",
     "service": "AzureMonitor",
@@ -15199,6 +15217,12 @@
   },
   {
     "ip_address": "2603:1040:1302:7::20/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1040:1302:7::500/122",
     "ip_type": "IPv6",
     "service": "AzureMonitor",
     "region": ""

@@ -44,5 +44,7 @@ INSERT INTO `azure_logicapps.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('40.
 INSERT INTO `azure_logicapps.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('52.167.109.80/28', 'IPv4');
 INSERT INTO `azure_logicapps.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('52.251.20.210/32', 'IPv4');
 INSERT INTO `azure_logicapps.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('52.253.79.47/32', 'IPv4');
+INSERT INTO `azure_logicapps.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:2b::480/124', 'IPv6');
+INSERT INTO `azure_logicapps.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:2b::4a0/123', 'IPv6');
 INSERT INTO `azure_logicapps.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:402::3c0/124', 'IPv6');
 INSERT INTO `azure_logicapps.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:402::3e0/123', 'IPv6');

@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "172.194.81.60/30",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.82.192/27",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1602:3::180/121",
+    "ip_type": "IPv6",
+    "service": "AzurePortal.NortheastUS5",
+    "region": "northeastus5"
+  }
+]

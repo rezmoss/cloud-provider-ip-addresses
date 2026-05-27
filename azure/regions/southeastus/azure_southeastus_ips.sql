@@ -91,6 +91,7 @@ INSERT INTO `azure_southeastus_ips` (`ip_address`, `ip_type`) VALUES ('68.154.13
 INSERT INTO `azure_southeastus_ips` (`ip_address`, `ip_type`) VALUES ('68.154.137.64/29', 'IPv4');
 INSERT INTO `azure_southeastus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:902:2::640/123', 'IPv6');
 INSERT INTO `azure_southeastus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:902:2::780/121', 'IPv6');
+INSERT INTO `azure_southeastus_ips` (`ip_address`, `ip_type`) VALUES ('68.154.163.144/28', 'IPv4');
 INSERT INTO `azure_southeastus_ips` (`ip_address`, `ip_type`) VALUES ('57.151.214.0/25', 'IPv4');
 INSERT INTO `azure_southeastus_ips` (`ip_address`, `ip_type`) VALUES ('68.154.136.16/29', 'IPv4');
 INSERT INTO `azure_southeastus_ips` (`ip_address`, `ip_type`) VALUES ('68.154.136.32/28', 'IPv4');

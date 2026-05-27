@@ -21,3 +21,4 @@ INSERT INTO `azure_azuredigitaltwins.eastus2_ips` (`ip_address`, `ip_type`) VALU
 INSERT INTO `azure_azuredigitaltwins.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('104.208.203.238/31', 'IPv4');
 INSERT INTO `azure_azuredigitaltwins.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('104.208.203.240/29', 'IPv4');
 INSERT INTO `azure_azuredigitaltwins.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:e::5d4/126', 'IPv6');
+INSERT INTO `azure_azuredigitaltwins.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:2a::/121', 'IPv6');

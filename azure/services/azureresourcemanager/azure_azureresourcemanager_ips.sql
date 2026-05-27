@@ -297,6 +297,7 @@ INSERT INTO `azure_azureresourcemanager_ips` (`ip_address`, `ip_type`) VALUES ('
 INSERT INTO `azure_azureresourcemanager_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40b:2::40/122', 'IPv6');
 INSERT INTO `azure_azureresourcemanager_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40b:400::a80/122', 'IPv6');
 INSERT INTO `azure_azureresourcemanager_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c::180/122', 'IPv6');
+INSERT INTO `azure_azureresourcemanager_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:2a::300/120', 'IPv6');
 INSERT INTO `azure_azureresourcemanager_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:402::280/122', 'IPv6');
 INSERT INTO `azure_azureresourcemanager_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:504::400/120', 'IPv6');
 INSERT INTO `azure_azureresourcemanager_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:504:402::180/122', 'IPv6');

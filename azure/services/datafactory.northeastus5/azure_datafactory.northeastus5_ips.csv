@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+172.194.81.112/28,IPv4,DataFactory.NortheastUS5,northeastus5
+172.194.82.32/27,IPv4,DataFactory.NortheastUS5,northeastus5
+172.194.83.0/24,IPv4,DataFactory.NortheastUS5,northeastus5
+2603:1030:1602:3::/120,IPv6,DataFactory.NortheastUS5,northeastus5

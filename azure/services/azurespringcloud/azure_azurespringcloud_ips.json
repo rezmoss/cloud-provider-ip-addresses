@@ -936,12 +936,6 @@
     "region": ""
   },
   {
-    "ip_address": "52.156.88.106/32",
-    "ip_type": "IPv4",
-    "service": "AzureSpringCloud",
-    "region": ""
-  },
-  {
     "ip_address": "52.228.84.24/29",
     "ip_type": "IPv4",
     "service": "AzureSpringCloud",
@@ -979,6 +973,12 @@
   },
   {
     "ip_address": "57.151.211.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureSpringCloud",
+    "region": ""
+  },
+  {
+    "ip_address": "57.167.186.0/24",
     "ip_type": "IPv4",
     "service": "AzureSpringCloud",
     "region": ""

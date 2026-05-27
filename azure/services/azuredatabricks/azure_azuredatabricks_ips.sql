@@ -605,6 +605,7 @@ INSERT INTO `azure_azuredatabricks_ips` (`ip_address`, `ip_type`) VALUES ('2603:
 INSERT INTO `azure_azuredatabricks_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:210:1::160/123', 'IPv6');
 INSERT INTO `azure_azuredatabricks_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40b:1::160/123', 'IPv6');
 INSERT INTO `azure_azuredatabricks_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:1::160/123', 'IPv6');
+INSERT INTO `azure_azuredatabricks_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:29::540/122', 'IPv6');
 INSERT INTO `azure_azuredatabricks_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:504:1::160/123', 'IPv6');
 INSERT INTO `azure_azuredatabricks_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:608::160/123', 'IPv6');
 INSERT INTO `azure_azuredatabricks_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:702::1a0/123', 'IPv6');

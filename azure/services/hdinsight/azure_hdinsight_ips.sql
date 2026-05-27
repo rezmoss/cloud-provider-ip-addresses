@@ -245,6 +245,7 @@ INSERT INTO `azure_hdinsight_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1
 INSERT INTO `azure_hdinsight_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:107::720/124', 'IPv6');
 INSERT INTO `azure_hdinsight_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:210:402::320/124', 'IPv6');
 INSERT INTO `azure_hdinsight_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40b:400::b20/124', 'IPv6');
+INSERT INTO `azure_hdinsight_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:2a::220/124', 'IPv6');
 INSERT INTO `azure_hdinsight_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:402::320/124', 'IPv6');
 INSERT INTO `azure_hdinsight_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:504::1e0/124', 'IPv6');
 INSERT INTO `azure_hdinsight_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:608:3::7b0/124', 'IPv6');

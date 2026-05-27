@@ -1494,6 +1494,12 @@
     "region": ""
   },
   {
+    "ip_address": "51.4.159.224/27",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline",
+    "region": ""
+  },
+  {
     "ip_address": "51.11.193.116/31",
     "ip_type": "IPv4",
     "service": "PowerQueryOnline",
@@ -1825,6 +1831,12 @@
   },
   {
     "ip_address": "57.155.34.128/29",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline",
+    "region": ""
+  },
+  {
+    "ip_address": "57.167.185.128/27",
     "ip_type": "IPv4",
     "service": "PowerQueryOnline",
     "region": ""
@@ -3733,6 +3745,12 @@
   },
   {
     "ip_address": "2603:1040:1702::1c0/123",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1040:1702:5::200/122",
     "ip_type": "IPv6",
     "service": "PowerQueryOnline",
     "region": ""

@@ -546,6 +546,18 @@
     "region": "westus3"
   },
   {
+    "ip_address": "4.148.214.196/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.WestUS3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "4.148.214.200/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.WestUS3",
+    "region": "westus3"
+  },
+  {
     "ip_address": "20.150.174.132/30",
     "ip_type": "IPv4",
     "service": "AzureAttestation.WestUS3",

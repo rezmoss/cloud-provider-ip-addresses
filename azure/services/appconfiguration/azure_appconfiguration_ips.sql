@@ -601,6 +601,7 @@ INSERT INTO `azure_appconfiguration_ips` (`ip_address`, `ip_type`) VALUES ('2603
 INSERT INTO `azure_appconfiguration_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40b:800::220/123', 'IPv6');
 INSERT INTO `azure_appconfiguration_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40b:c00::220/123', 'IPv6');
 INSERT INTO `azure_appconfiguration_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40b:1000::20/123', 'IPv6');
+INSERT INTO `azure_appconfiguration_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:2a::240/122', 'IPv6');
 INSERT INTO `azure_appconfiguration_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:402::2e0/123', 'IPv6');
 INSERT INTO `azure_appconfiguration_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:802::220/123', 'IPv6');
 INSERT INTO `azure_appconfiguration_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:c02::220/123', 'IPv6');

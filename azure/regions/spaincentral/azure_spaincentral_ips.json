@@ -144,6 +144,18 @@
     "region": "spaincentral"
   },
   {
+    "ip_address": "158.158.139.48/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "158.158.139.56/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
     "ip_address": "2603:1020:1403::5e0/124",
     "ip_type": "IPv6",
     "service": "AzureAttestation.SpainCentral",
@@ -1386,9 +1398,27 @@
     "region": "spaincentral"
   },
   {
+    "ip_address": "158.158.140.128/25",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "158.158.141.0/24",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
     "ip_address": "2603:1061:2002:c000::/57",
     "ip_type": "IPv6",
     "service": "PowerPlatformInfra.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "158.158.139.128/25",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.SpainCentral",
     "region": "spaincentral"
   },
   {

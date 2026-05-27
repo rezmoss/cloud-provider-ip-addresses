@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+172.194.64.32/29,IPv4,PowerQueryOnline.NortheastUS5,northeastus5
+172.194.86.128/27,IPv4,PowerQueryOnline.NortheastUS5,northeastus5
+2603:1030:1602::1a0/123,IPv6,PowerQueryOnline.NortheastUS5,northeastus5
+2603:1030:1602:3::6c0/122,IPv6,PowerQueryOnline.NortheastUS5,northeastus5

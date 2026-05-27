@@ -216,6 +216,18 @@
     "region": "jioindiawest"
   },
   {
+    "ip_address": "20.244.215.80/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "20.244.215.88/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
     "ip_address": "135.235.62.96/29",
     "ip_type": "IPv4",
     "service": "AzureAttestation.JioIndiaWest",

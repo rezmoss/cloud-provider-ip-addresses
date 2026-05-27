@@ -7,6 +7,7 @@ ip_address,ip_type,service,region
 40.75.35.144/28,IPv4,DataFactory.EastUS2EUAP,eastus2euap
 52.138.92.128/28,IPv4,DataFactory.EastUS2EUAP,eastus2euap
 68.220.82.112/28,IPv4,DataFactory.EastUS2EUAP,eastus2euap
+72.147.54.32/28,IPv4,DataFactory.EastUS2EUAP,eastus2euap
 172.173.46.160/27,IPv4,DataFactory.EastUS2EUAP,eastus2euap
 2603:1030:40b:1::480/121,IPv6,DataFactory.EastUS2EUAP,eastus2euap
 2603:1030:40b:1::500/122,IPv6,DataFactory.EastUS2EUAP,eastus2euap

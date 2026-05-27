@@ -1,6 +1,6 @@
 #!/bin/bash
 # Azure IP Ranges
-# Updated: 2026-05-16 03:16:49
+# Updated: 2026-05-27 03:20:44
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -1397,6 +1397,7 @@ iptables -A INPUT -s 57.156.5.112/28 -j ACCEPT
 iptables -A INPUT -s 57.156.5.128/27 -j ACCEPT
 iptables -A INPUT -s 57.156.5.176/28 -j ACCEPT
 iptables -A INPUT -s 57.156.5.192/27 -j ACCEPT
+iptables -A INPUT -s 57.167.184.162/31 -j ACCEPT
 iptables -A INPUT -s 65.52.2.145/32 -j ACCEPT
 iptables -A INPUT -s 65.52.5.76/32 -j ACCEPT
 iptables -A INPUT -s 65.52.122.208/32 -j ACCEPT
@@ -1467,6 +1468,7 @@ iptables -A INPUT -s 70.157.78.144/28 -j ACCEPT
 iptables -A INPUT -s 70.157.90.8/29 -j ACCEPT
 iptables -A INPUT -s 70.157.90.112/28 -j ACCEPT
 iptables -A INPUT -s 70.157.162.144/28 -j ACCEPT
+iptables -A INPUT -s 70.157.170.0/26 -j ACCEPT
 iptables -A INPUT -s 72.152.228.64/26 -j ACCEPT
 iptables -A INPUT -s 72.155.111.128/26 -j ACCEPT
 iptables -A INPUT -s 72.155.111.192/27 -j ACCEPT
@@ -2180,6 +2182,7 @@ ip6tables -A INPUT -s 2603:1030:40c:11::300/122 -j ACCEPT
 ip6tables -A INPUT -s 2603:1030:40c:24::200/120 -j ACCEPT
 ip6tables -A INPUT -s 2603:1030:40c:24::3f0/124 -j ACCEPT
 ip6tables -A INPUT -s 2603:1030:40c:24::440/122 -j ACCEPT
+ip6tables -A INPUT -s 2603:1030:40c:2b::380/121 -j ACCEPT
 ip6tables -A INPUT -s 2603:1030:40c:402::500/121 -j ACCEPT
 ip6tables -A INPUT -s 2603:1030:40c:802::480/121 -j ACCEPT
 ip6tables -A INPUT -s 2603:1030:40c:c02::400/121 -j ACCEPT
@@ -2541,6 +2544,7 @@ ip6tables -A INPUT -s 2603:1040:1302:2::540/123 -j ACCEPT
 ip6tables -A INPUT -s 2603:1040:1302:2::680/121 -j ACCEPT
 ip6tables -A INPUT -s 2603:1040:1302:3::540/122 -j ACCEPT
 ip6tables -A INPUT -s 2603:1040:1302:7::20/123 -j ACCEPT
+ip6tables -A INPUT -s 2603:1040:1302:7::500/122 -j ACCEPT
 ip6tables -A INPUT -s 2603:1040:1401:4::c/127 -j ACCEPT
 ip6tables -A INPUT -s 2603:1040:1401:11::3/128 -j ACCEPT
 ip6tables -A INPUT -s 2603:1040:1402:1::5e0/123 -j ACCEPT

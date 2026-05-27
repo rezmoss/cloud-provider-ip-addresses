@@ -1,0 +1,8 @@
+[
+  {
+    "ip_address": "68.210.246.0/25",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.AustriaEast",
+    "region": "austriaeast"
+  }
+]

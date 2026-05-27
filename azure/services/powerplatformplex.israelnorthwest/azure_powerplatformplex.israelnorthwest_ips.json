@@ -1,0 +1,8 @@
+[
+  {
+    "ip_address": "51.4.230.0/25",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.IsraelNorthwest",
+    "region": "israelnorthwest"
+  }
+]

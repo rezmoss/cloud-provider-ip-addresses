@@ -1914,67 +1914,7 @@
     "region": "qatarcentral"
   },
   {
-    "ip_address": "40.123.148.0/26",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.qatarcentral",
-    "region": "qatarcentral"
-  },
-  {
-    "ip_address": "40.123.148.64/29",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.qatarcentral",
-    "region": "qatarcentral"
-  },
-  {
-    "ip_address": "40.123.148.72/31",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.qatarcentral",
-    "region": "qatarcentral"
-  },
-  {
-    "ip_address": "40.123.148.78/31",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.qatarcentral",
-    "region": "qatarcentral"
-  },
-  {
-    "ip_address": "40.123.148.80/28",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.qatarcentral",
-    "region": "qatarcentral"
-  },
-  {
-    "ip_address": "40.123.148.96/28",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.qatarcentral",
-    "region": "qatarcentral"
-  },
-  {
-    "ip_address": "40.123.148.112/30",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.qatarcentral",
-    "region": "qatarcentral"
-  },
-  {
-    "ip_address": "40.123.148.116/31",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.qatarcentral",
-    "region": "qatarcentral"
-  },
-  {
-    "ip_address": "40.123.148.122/31",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.qatarcentral",
-    "region": "qatarcentral"
-  },
-  {
-    "ip_address": "40.123.148.124/30",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.qatarcentral",
-    "region": "qatarcentral"
-  },
-  {
-    "ip_address": "40.123.148.128/25",
+    "ip_address": "40.123.148.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.qatarcentral",
     "region": "qatarcentral"
@@ -2190,85 +2130,7 @@
     "region": "qatarcentral"
   },
   {
-    "ip_address": "2603:1061:1004::/60",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.qatarcentral",
-    "region": "qatarcentral"
-  },
-  {
-    "ip_address": "2603:1061:1004:10::/61",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.qatarcentral",
-    "region": "qatarcentral"
-  },
-  {
-    "ip_address": "2603:1061:1004:18::/64",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.qatarcentral",
-    "region": "qatarcentral"
-  },
-  {
-    "ip_address": "2603:1061:1004:1b::/64",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.qatarcentral",
-    "region": "qatarcentral"
-  },
-  {
-    "ip_address": "2603:1061:1004:1c::/62",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.qatarcentral",
-    "region": "qatarcentral"
-  },
-  {
-    "ip_address": "2603:1061:1004:20::/61",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.qatarcentral",
-    "region": "qatarcentral"
-  },
-  {
-    "ip_address": "2603:1061:1004:28::/62",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.qatarcentral",
-    "region": "qatarcentral"
-  },
-  {
-    "ip_address": "2603:1061:1004:2c::/63",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.qatarcentral",
-    "region": "qatarcentral"
-  },
-  {
-    "ip_address": "2603:1061:1004:2e::/64",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.qatarcentral",
-    "region": "qatarcentral"
-  },
-  {
-    "ip_address": "2603:1061:1004:31::/64",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.qatarcentral",
-    "region": "qatarcentral"
-  },
-  {
-    "ip_address": "2603:1061:1004:32::/63",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.qatarcentral",
-    "region": "qatarcentral"
-  },
-  {
-    "ip_address": "2603:1061:1004:34::/62",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.qatarcentral",
-    "region": "qatarcentral"
-  },
-  {
-    "ip_address": "2603:1061:1004:38::/61",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.qatarcentral",
-    "region": "qatarcentral"
-  },
-  {
-    "ip_address": "2603:1061:1004:40::/58",
+    "ip_address": "2603:1061:1004::/57",
     "ip_type": "IPv6",
     "service": "AzureCloud.qatarcentral",
     "region": "qatarcentral"

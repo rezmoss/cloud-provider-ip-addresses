@@ -11,6 +11,7 @@ INSERT INTO `azure_powerqueryonline.eastus2_ips` (`ip_address`, `ip_type`) VALUE
 INSERT INTO `azure_powerqueryonline.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('20.65.1.124/31', 'IPv4');
 INSERT INTO `azure_powerqueryonline.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('20.98.195.176/29', 'IPv4');
 INSERT INTO `azure_powerqueryonline.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('52.179.200.128/31', 'IPv4');
+INSERT INTO `azure_powerqueryonline.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('57.167.185.128/27', 'IPv4');
 INSERT INTO `azure_powerqueryonline.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('104.208.207.40/29', 'IPv4');
 INSERT INTO `azure_powerqueryonline.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('104.208.207.48/28', 'IPv4');
 INSERT INTO `azure_powerqueryonline.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('172.175.14.20/30', 'IPv4');

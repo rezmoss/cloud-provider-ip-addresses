@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "9.205.180.128/25",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.DenmarkEast",
+    "region": "denmarkeast"
+  },
+  {
+    "ip_address": "9.205.181.0/24",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.DenmarkEast",
+    "region": "denmarkeast"
+  }
+]

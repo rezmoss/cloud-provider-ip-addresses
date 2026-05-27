@@ -6,7 +6,19 @@
     "region": "taiwannorthwest"
   },
   {
+    "ip_address": "57.170.0.64/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.TaiwanNorthwest",
+    "region": "taiwannorthwest"
+  },
+  {
     "ip_address": "167.105.220.112/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.TaiwanNorthwest",
+    "region": "taiwannorthwest"
+  },
+  {
+    "ip_address": "167.105.254.248/29",
     "ip_type": "IPv4",
     "service": "AzureAttestation.TaiwanNorthwest",
     "region": "taiwannorthwest"

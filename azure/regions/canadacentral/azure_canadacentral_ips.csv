@@ -51,6 +51,8 @@ ip_address,ip_type,service,region
 145.191.108.225/32,IPv4,AzureArcInfrastructure.CanadaCentral,canadacentral
 2603:1030:f05:d::6f5/128,IPv6,AzureArcInfrastructure.CanadaCentral,canadacentral
 4.172.85.24/29,IPv4,AzureAttestation.CanadaCentral,canadacentral
+4.173.15.64/29,IPv4,AzureAttestation.CanadaCentral,canadacentral
+4.173.15.72/30,IPv4,AzureAttestation.CanadaCentral,canadacentral
 13.71.175.208/30,IPv4,AzureAttestation.CanadaCentral,canadacentral
 20.48.193.180/30,IPv4,AzureAttestation.CanadaCentral,canadacentral
 4.172.96.192/26,IPv4,AzureBackup.CanadaCentral,canadacentral

@@ -101,6 +101,7 @@ ip_address,ip_type,service,region
 20.46.10.96/27,IPv4,AzureDigitalTwins.CentralUSEUAP,centraluseuap
 2603:1030:f:2::500/121,IPv6,AzureDigitalTwins.CentralUSEUAP,centraluseuap
 20.45.195.0/25,IPv4,AzureEventGrid.CentralUSEUAP,centraluseuap
+20.111.136.0/25,IPv4,AzureEventGrid.CentralUSEUAP,centraluseuap
 2603:1030:f:1::380/121,IPv6,AzureEventGrid.CentralUSEUAP,centraluseuap
 20.45.240.128/25,IPv4,EventHub.CentralUSEUAP,centraluseuap
 20.45.241.0/26,IPv4,EventHub.CentralUSEUAP,centraluseuap
@@ -315,6 +316,7 @@ ip_address,ip_type,service,region
 20.47.105.0/24,IPv4,AzureCloud.centraluseuap,centraluseuap
 20.51.24.0/21,IPv4,AzureCloud.centraluseuap,centraluseuap
 20.60.24.0/23,IPv4,AzureCloud.centraluseuap,centraluseuap
+20.111.136.0/21,IPv4,AzureCloud.centraluseuap,centraluseuap
 20.112.128.0/19,IPv4,AzureCloud.centraluseuap,centraluseuap
 20.135.68.0/23,IPv4,AzureCloud.centraluseuap,centraluseuap
 20.150.23.0/24,IPv4,AzureCloud.centraluseuap,centraluseuap
@@ -450,6 +452,7 @@ ip_address,ip_type,service,region
 57.157.45.16/31,IPv4,AzureCloud.centraluseuap,centraluseuap
 57.157.45.36/31,IPv4,AzureCloud.centraluseuap,centraluseuap
 57.163.8.0/23,IPv4,AzureCloud.centraluseuap,centraluseuap
+57.173.0.0/17,IPv4,AzureCloud.centraluseuap,centraluseuap
 104.208.48.0/20,IPv4,AzureCloud.centraluseuap,centraluseuap
 134.138.128.0/17,IPv4,AzureCloud.centraluseuap,centraluseuap
 135.130.247.0/24,IPv4,AzureCloud.centraluseuap,centraluseuap

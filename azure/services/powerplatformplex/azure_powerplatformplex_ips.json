@@ -396,6 +396,12 @@
     "region": ""
   },
   {
+    "ip_address": "9.205.179.128/25",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex",
+    "region": ""
+  },
+  {
     "ip_address": "9.234.68.0/25",
     "ip_type": "IPv4",
     "service": "PowerPlatformPlex",
@@ -1584,6 +1590,12 @@
     "region": ""
   },
   {
+    "ip_address": "51.4.230.0/25",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex",
+    "region": ""
+  },
+  {
     "ip_address": "51.11.26.192/26",
     "ip_type": "IPv4",
     "service": "PowerPlatformPlex",
@@ -1842,6 +1854,12 @@
     "region": ""
   },
   {
+    "ip_address": "57.156.98.128/25",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex",
+    "region": ""
+  },
+  {
     "ip_address": "57.165.80.0/25",
     "ip_type": "IPv4",
     "service": "PowerPlatformPlex",
@@ -1855,6 +1873,18 @@
   },
   {
     "ip_address": "57.165.209.0/25",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex",
+    "region": ""
+  },
+  {
+    "ip_address": "57.170.0.128/25",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex",
+    "region": ""
+  },
+  {
+    "ip_address": "68.210.246.0/25",
     "ip_type": "IPv4",
     "service": "PowerPlatformPlex",
     "region": ""
@@ -1909,6 +1939,12 @@
   },
   {
     "ip_address": "70.153.66.0/26",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex",
+    "region": ""
+  },
+  {
+    "ip_address": "70.157.170.128/25",
     "ip_type": "IPv4",
     "service": "PowerPlatformPlex",
     "region": ""
@@ -2208,6 +2244,12 @@
     "region": ""
   },
   {
+    "ip_address": "158.158.139.128/25",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex",
+    "region": ""
+  },
+  {
     "ip_address": "172.160.216.16/29",
     "ip_type": "IPv4",
     "service": "PowerPlatformPlex",
@@ -2299,6 +2341,24 @@
   },
   {
     "ip_address": "172.192.81.0/26",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex",
+    "region": ""
+  },
+  {
+    "ip_address": "172.195.121.128/25",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex",
+    "region": ""
+  },
+  {
+    "ip_address": "172.197.30.0/25",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex",
+    "region": ""
+  },
+  {
+    "ip_address": "172.197.133.128/25",
     "ip_type": "IPv4",
     "service": "PowerPlatformPlex",
     "region": ""

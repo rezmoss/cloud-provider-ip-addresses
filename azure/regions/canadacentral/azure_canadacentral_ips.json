@@ -312,6 +312,18 @@
     "region": "canadacentral"
   },
   {
+    "ip_address": "4.173.15.64/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "4.173.15.72/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
     "ip_address": "13.71.175.208/30",
     "ip_type": "IPv4",
     "service": "AzureAttestation.CanadaCentral",

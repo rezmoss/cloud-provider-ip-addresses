@@ -14,6 +14,7 @@ INSERT INTO `azure_datafactory.eastus2euap_ips` (`ip_address`, `ip_type`) VALUES
 INSERT INTO `azure_datafactory.eastus2euap_ips` (`ip_address`, `ip_type`) VALUES ('40.75.35.144/28', 'IPv4');
 INSERT INTO `azure_datafactory.eastus2euap_ips` (`ip_address`, `ip_type`) VALUES ('52.138.92.128/28', 'IPv4');
 INSERT INTO `azure_datafactory.eastus2euap_ips` (`ip_address`, `ip_type`) VALUES ('68.220.82.112/28', 'IPv4');
+INSERT INTO `azure_datafactory.eastus2euap_ips` (`ip_address`, `ip_type`) VALUES ('72.147.54.32/28', 'IPv4');
 INSERT INTO `azure_datafactory.eastus2euap_ips` (`ip_address`, `ip_type`) VALUES ('172.173.46.160/27', 'IPv4');
 INSERT INTO `azure_datafactory.eastus2euap_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40b:1::480/121', 'IPv6');
 INSERT INTO `azure_datafactory.eastus2euap_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40b:1::500/122', 'IPv6');

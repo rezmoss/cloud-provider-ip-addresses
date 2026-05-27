@@ -1926,6 +1926,12 @@
     "region": ""
   },
   {
+    "ip_address": "51.4.224.96/27",
+    "ip_type": "IPv4",
+    "service": "SqlManagement",
+    "region": ""
+  },
+  {
     "ip_address": "51.12.6.68/32",
     "ip_type": "IPv4",
     "service": "SqlManagement",
@@ -2701,6 +2707,12 @@
   },
   {
     "ip_address": "57.151.223.32/28",
+    "ip_type": "IPv4",
+    "service": "SqlManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "57.167.189.64/27",
     "ip_type": "IPv4",
     "service": "SqlManagement",
     "region": ""
@@ -4104,6 +4116,12 @@
     "region": ""
   },
   {
+    "ip_address": "2603:1030:40c:2b::4c0/122",
+    "ip_type": "IPv6",
+    "service": "SqlManagement",
+    "region": ""
+  },
+  {
     "ip_address": "2603:1030:40c:402::380/122",
     "ip_type": "IPv6",
     "service": "SqlManagement",
@@ -4945,6 +4963,12 @@
   },
   {
     "ip_address": "2603:1040:1702:2::600/123",
+    "ip_type": "IPv6",
+    "service": "SqlManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1040:1702:5::420/123",
     "ip_type": "IPv6",
     "service": "SqlManagement",
     "region": ""

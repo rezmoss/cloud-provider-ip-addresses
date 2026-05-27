@@ -161,6 +161,8 @@ INSERT INTO `azure_m365managementactivityapi_ips` (`ip_address`, `ip_type`) VALU
 INSERT INTO `azure_m365managementactivityapi_ips` (`ip_address`, `ip_type`) VALUES ('57.162.211.42/31', 'IPv4');
 INSERT INTO `azure_m365managementactivityapi_ips` (`ip_address`, `ip_type`) VALUES ('57.162.211.96/29', 'IPv4');
 INSERT INTO `azure_m365managementactivityapi_ips` (`ip_address`, `ip_type`) VALUES ('57.162.211.164/30', 'IPv4');
+INSERT INTO `azure_m365managementactivityapi_ips` (`ip_address`, `ip_type`) VALUES ('57.162.215.208/29', 'IPv4');
+INSERT INTO `azure_m365managementactivityapi_ips` (`ip_address`, `ip_type`) VALUES ('57.162.215.216/30', 'IPv4');
 INSERT INTO `azure_m365managementactivityapi_ips` (`ip_address`, `ip_type`) VALUES ('68.210.26.0/31', 'IPv4');
 INSERT INTO `azure_m365managementactivityapi_ips` (`ip_address`, `ip_type`) VALUES ('68.210.61.30/32', 'IPv4');
 INSERT INTO `azure_m365managementactivityapi_ips` (`ip_address`, `ip_type`) VALUES ('68.210.61.48/30', 'IPv4');
@@ -274,6 +276,8 @@ INSERT INTO `azure_m365managementactivityapi_ips` (`ip_address`, `ip_type`) VALU
 INSERT INTO `azure_m365managementactivityapi_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:210:33::4d0/126', 'IPv6');
 INSERT INTO `azure_m365managementactivityapi_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:210:33::4d8/125', 'IPv6');
 INSERT INTO `azure_m365managementactivityapi_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:210:33::564/126', 'IPv6');
+INSERT INTO `azure_m365managementactivityapi_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:210:33::5a4/126', 'IPv6');
+INSERT INTO `azure_m365managementactivityapi_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:210:33::5b8/125', 'IPv6');
 INSERT INTO `azure_m365managementactivityapi_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:b::2a0/126', 'IPv6');
 INSERT INTO `azure_m365managementactivityapi_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:608:4::3b8/126', 'IPv6');
 INSERT INTO `azure_m365managementactivityapi_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:702:7::306/128', 'IPv6');

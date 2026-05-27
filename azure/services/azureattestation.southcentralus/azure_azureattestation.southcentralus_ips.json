@@ -1,5 +1,17 @@
 [
   {
+    "ip_address": "13.85.231.72/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "13.85.231.80/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
     "ip_address": "20.45.126.116/30",
     "ip_type": "IPv4",
     "service": "AzureAttestation.SouthCentralUS",

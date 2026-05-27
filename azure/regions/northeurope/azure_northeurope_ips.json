@@ -702,6 +702,18 @@
     "region": "northeurope"
   },
   {
+    "ip_address": "4.209.98.40/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "4.209.98.48/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.NorthEurope",
+    "region": "northeurope"
+  },
+  {
     "ip_address": "4.209.250.176/29",
     "ip_type": "IPv4",
     "service": "AzureAttestation.NorthEurope",
@@ -8562,7 +8574,43 @@
     "region": "northeurope"
   },
   {
-    "ip_address": "57.157.28.0/24",
+    "ip_address": "57.157.28.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.northeurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "57.157.28.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.northeurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "57.157.28.192/29",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.northeurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "57.157.28.200/30",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.northeurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "57.157.28.206/31",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.northeurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "57.157.28.208/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.northeurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "57.157.28.224/27",
     "ip_type": "IPv4",
     "service": "AzureCloud.northeurope",
     "region": "northeurope"
@@ -8593,6 +8641,24 @@
   },
   {
     "ip_address": "57.157.29.240/30",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.northeurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "57.171.3.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.northeurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "57.171.11.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.northeurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "57.171.15.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.northeurope",
     "region": "northeurope"

@@ -39,6 +39,8 @@ ip_address,ip_type,service,region
 98.66.128.72/29,IPv4,AzureArcInfrastructure.FranceCentral,centralfrance
 2603:1020:805:e::a7/128,IPv6,AzureArcInfrastructure.FranceCentral,centralfrance
 4.176.24.176/29,IPv4,AzureAttestation.FranceCentral,centralfrance
+4.211.160.76/30,IPv4,AzureAttestation.FranceCentral,centralfrance
+4.211.160.80/29,IPv4,AzureAttestation.FranceCentral,centralfrance
 40.79.141.132/30,IPv4,AzureAttestation.FranceCentral,centralfrance
 51.138.210.128/30,IPv4,AzureAttestation.FranceCentral,centralfrance
 40.79.131.0/26,IPv4,AzureBackup.FranceCentral,centralfrance

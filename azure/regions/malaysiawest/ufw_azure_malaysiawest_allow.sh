@@ -1,6 +1,6 @@
 #!/bin/bash
 # Azure IP Ranges
-# Updated: 2026-05-16 03:16:58
+# Updated: 2026-05-27 03:20:55
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -201,6 +201,9 @@ ufw allow from 20.17.126.76/30
 ufw allow from 20.17.126.80/29
 ufw allow from 2603:1040:1602:2::320/123
 ufw allow from 2603:1040:1602:2::340/122
+ufw allow from 172.197.134.128/25
+ufw allow from 172.197.135.0/24
+ufw allow from 172.197.133.128/25
 ufw allow from 20.17.112.40/29
 ufw allow from 20.17.124.120/29
 ufw allow from 20.17.131.34/31
@@ -246,15 +249,12 @@ ufw allow from 40.100.5.64/26
 ufw allow from 40.100.5.128/25
 ufw allow from 40.100.67.192/26
 ufw allow from 40.100.68.0/25
-ufw allow from 40.120.168.0/25
-ufw allow from 40.120.168.128/26
-ufw allow from 40.120.168.192/29
-ufw allow from 40.120.168.200/31
-ufw allow from 40.120.168.208/28
-ufw allow from 40.120.168.224/27
+ufw allow from 40.120.168.0/24
 ufw allow from 40.120.169.0/25
-ufw allow from 40.120.169.128/27
-ufw allow from 40.120.169.160/30
+ufw allow from 40.120.169.128/26
+ufw allow from 40.120.169.192/28
+ufw allow from 40.120.169.208/30
+ufw allow from 40.120.169.212/31
 ufw allow from 48.212.54.0/24
 ufw allow from 48.212.182.0/24
 ufw allow from 48.213.54.0/24
@@ -289,15 +289,11 @@ ufw allow from 2603:1046:a00:56::/63
 ufw allow from 2603:1046:a00:58::/64
 ufw allow from 2603:1046:2000:260::/59
 ufw allow from 2603:1047:1::/59
-ufw allow from 2603:1061:100d::/58
-ufw allow from 2603:1061:100d:40::/60
-ufw allow from 2603:1061:100d:50::/61
-ufw allow from 2603:1061:100d:58::/62
-ufw allow from 2603:1061:100d:5c::/64
-ufw allow from 2603:1061:100d:60::/59
+ufw allow from 2603:1061:100d::/57
 ufw allow from 2603:1061:100d:80::/58
-ufw allow from 2603:1061:100d:c0::/61
-ufw allow from 2603:1061:100d:c8::/63
+ufw allow from 2603:1061:100d:c0::/59
+ufw allow from 2603:1061:100d:e0::/63
+ufw allow from 2603:1061:100d:e2::/64
 ufw allow from 2603:1061:1310:2400::/54
 ufw allow from 2603:1061:173a::/48
 ufw allow from 2603:1061:2010:3a::/64

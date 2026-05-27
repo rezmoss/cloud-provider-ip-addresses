@@ -1,5 +1,17 @@
 [
   {
+    "ip_address": "4.216.14.24/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.JapanEast",
+    "region": "japaneast"
+  },
+  {
+    "ip_address": "4.216.14.32/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.JapanEast",
+    "region": "japaneast"
+  },
+  {
     "ip_address": "4.241.53.192/29",
     "ip_type": "IPv4",
     "service": "AzureAttestation.JapanEast",

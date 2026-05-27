@@ -492,6 +492,18 @@
     "region": "southindia"
   },
   {
+    "ip_address": "57.171.16.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southindia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "57.171.18.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southindia",
+    "region": "southindia"
+  },
+  {
     "ip_address": "70.152.25.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.southindia",

@@ -77,6 +77,7 @@ ip_address,ip_type,service,region
 57.150.150.0/23,IPv4,Storage.WestEurope,westeurope
 57.150.166.0/23,IPv4,Storage.WestEurope,westeurope
 57.150.224.0/23,IPv4,Storage.WestEurope,westeurope
+57.163.36.0/23,IPv4,Storage.WestEurope,westeurope
 104.214.243.32/28,IPv4,Storage.WestEurope,westeurope
 135.130.102.0/23,IPv4,Storage.WestEurope,westeurope
 135.130.162.0/23,IPv4,Storage.WestEurope,westeurope

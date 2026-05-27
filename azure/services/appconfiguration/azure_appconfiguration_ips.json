@@ -3570,6 +3570,12 @@
     "region": ""
   },
   {
+    "ip_address": "2603:1030:40c:2a::240/122",
+    "ip_type": "IPv6",
+    "service": "AppConfiguration",
+    "region": ""
+  },
+  {
     "ip_address": "2603:1030:40c:402::2e0/123",
     "ip_type": "IPv6",
     "service": "AppConfiguration",

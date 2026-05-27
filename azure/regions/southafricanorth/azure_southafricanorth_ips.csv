@@ -37,6 +37,8 @@ ip_address,ip_type,service,region
 102.133.254.204/32,IPv4,AzureArcInfrastructure.SouthAfricaNorth,southafricanorth
 2603:1000:104:b::dc/128,IPv6,AzureArcInfrastructure.SouthAfricaNorth,southafricanorth
 4.221.45.232/29,IPv4,AzureAttestation.SouthAfricaNorth,southafricanorth
+4.221.237.84/30,IPv4,AzureAttestation.SouthAfricaNorth,southafricanorth
+4.221.238.152/29,IPv4,AzureAttestation.SouthAfricaNorth,southafricanorth
 102.133.126.132/30,IPv4,AzureAttestation.SouthAfricaNorth,southafricanorth
 102.133.221.196/30,IPv4,AzureAttestation.SouthAfricaNorth,southafricanorth
 4.221.233.187/32,IPv4,AzureBackup.SouthAfricaNorth,southafricanorth

@@ -1,0 +1,80 @@
+[
+  {
+    "ip_address": "20.153.103.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "57.163.0.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "57.163.4.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "135.130.98.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "135.130.100.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "135.130.190.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "135.130.192.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "135.130.198.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "145.190.136.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "145.190.138.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "145.190.160.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "145.190.166.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1603::/48",
+    "ip_type": "IPv6",
+    "service": "Storage.NortheastUS5",
+    "region": "northeastus5"
+  }
+]

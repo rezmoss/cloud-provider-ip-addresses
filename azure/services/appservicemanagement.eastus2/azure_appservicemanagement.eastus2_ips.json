@@ -30,6 +30,12 @@
     "region": "eastus2"
   },
   {
+    "ip_address": "57.167.187.64/26",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.EastUS2",
+    "region": "eastus2"
+  },
+  {
     "ip_address": "104.46.108.135/32",
     "ip_type": "IPv4",
     "service": "AppServiceManagement.EastUS2",
@@ -37,6 +43,12 @@
   },
   {
     "ip_address": "2603:1030:40c::7c0/123",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.EastUS2",
+    "region": "eastus2"
+  },
+  {
+    "ip_address": "2603:1030:40c:2a::4c0/122",
     "ip_type": "IPv6",
     "service": "AppServiceManagement.EastUS2",
     "region": "eastus2"

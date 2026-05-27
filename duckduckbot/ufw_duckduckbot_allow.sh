@@ -1,6 +1,6 @@
 #!/bin/bash
 # Duckduckbot IP Ranges
-# Updated: 2026-05-26 03:20:44
+# Updated: 2026-05-27 03:21:36
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -343,3 +343,8 @@ ufw allow from 4.144.182.50/32
 ufw allow from 48.204.32.87/32
 ufw allow from 57.155.18.44/32
 ufw allow from 20.99.154.113/32
+ufw allow from 20.23.88.231/32
+ufw allow from 20.82.24.207/32
+ufw allow from 51.145.185.16/32
+ufw allow from 4.157.77.76/32
+ufw allow from 20.231.254.179/32

@@ -60,6 +60,12 @@
     "region": "eastus2"
   },
   {
+    "ip_address": "57.167.188.96/27",
+    "ip_type": "IPv4",
+    "service": "DataFactory.EastUS2",
+    "region": "eastus2"
+  },
+  {
     "ip_address": "172.210.218.144/28",
     "ip_type": "IPv4",
     "service": "DataFactory.EastUS2",
@@ -85,6 +91,12 @@
   },
   {
     "ip_address": "2603:1030:40c:1::780/122",
+    "ip_type": "IPv6",
+    "service": "DataFactory.EastUS2",
+    "region": "eastus2"
+  },
+  {
+    "ip_address": "2603:1030:40c:2b::280/121",
     "ip_type": "IPv6",
     "service": "DataFactory.EastUS2",
     "region": "eastus2"

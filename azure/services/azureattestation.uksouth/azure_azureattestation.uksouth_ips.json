@@ -16,5 +16,17 @@
     "ip_type": "IPv4",
     "service": "AzureAttestation.UKSouth",
     "region": "uksouth"
+  },
+  {
+    "ip_address": "172.167.62.164/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "172.167.62.168/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.UKSouth",
+    "region": "uksouth"
   }
 ]

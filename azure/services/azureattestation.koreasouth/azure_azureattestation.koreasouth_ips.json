@@ -6,6 +6,18 @@
     "region": "koreasouth"
   },
   {
+    "ip_address": "4.243.164.56/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "4.243.164.96/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
     "ip_address": "40.80.173.216/30",
     "ip_type": "IPv4",
     "service": "AzureAttestation.KoreaSouth",

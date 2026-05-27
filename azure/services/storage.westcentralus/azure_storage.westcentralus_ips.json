@@ -258,6 +258,12 @@
     "region": "westcentralus"
   },
   {
+    "ip_address": "145.190.177.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
     "ip_address": "2603:1030:b06::/49",
     "ip_type": "IPv6",
     "service": "Storage.WestCentralUS",

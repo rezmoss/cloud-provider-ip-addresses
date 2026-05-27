@@ -23,6 +23,8 @@ INSERT INTO `azure_malaysiasouth_ips` (`ip_address`, `ip_type`) VALUES ('20.17.2
 INSERT INTO `azure_malaysiasouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1503:5::350/124', 'IPv6');
 INSERT INTO `azure_malaysiasouth_ips` (`ip_address`, `ip_type`) VALUES ('20.17.51.36/30', 'IPv4');
 INSERT INTO `azure_malaysiasouth_ips` (`ip_address`, `ip_type`) VALUES ('85.211.94.232/29', 'IPv4');
+INSERT INTO `azure_malaysiasouth_ips` (`ip_address`, `ip_type`) VALUES ('172.197.29.36/30', 'IPv4');
+INSERT INTO `azure_malaysiasouth_ips` (`ip_address`, `ip_type`) VALUES ('172.197.29.40/29', 'IPv4');
 INSERT INTO `azure_malaysiasouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1503::620/124', 'IPv6');
 INSERT INTO `azure_malaysiasouth_ips` (`ip_address`, `ip_type`) VALUES ('20.17.52.0/26', 'IPv4');
 INSERT INTO `azure_malaysiasouth_ips` (`ip_address`, `ip_type`) VALUES ('20.17.67.64/26', 'IPv4');
@@ -102,6 +104,7 @@ INSERT INTO `azure_malaysiasouth_ips` (`ip_address`, `ip_type`) VALUES ('20.17.6
 INSERT INTO `azure_malaysiasouth_ips` (`ip_address`, `ip_type`) VALUES ('20.17.67.248/29', 'IPv4');
 INSERT INTO `azure_malaysiasouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1503:2::300/123', 'IPv6');
 INSERT INTO `azure_malaysiasouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1503:2::380/121', 'IPv6');
+INSERT INTO `azure_malaysiasouth_ips` (`ip_address`, `ip_type`) VALUES ('172.197.29.160/28', 'IPv4');
 INSERT INTO `azure_malaysiasouth_ips` (`ip_address`, `ip_type`) VALUES ('20.17.54.0/25', 'IPv4');
 INSERT INTO `azure_malaysiasouth_ips` (`ip_address`, `ip_type`) VALUES ('20.17.66.80/29', 'IPv4');
 INSERT INTO `azure_malaysiasouth_ips` (`ip_address`, `ip_type`) VALUES ('20.17.66.96/28', 'IPv4');
@@ -143,6 +146,9 @@ INSERT INTO `azure_malaysiasouth_ips` (`ip_address`, `ip_type`) VALUES ('20.17.5
 INSERT INTO `azure_malaysiasouth_ips` (`ip_address`, `ip_type`) VALUES ('20.17.54.176/29', 'IPv4');
 INSERT INTO `azure_malaysiasouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1503:1::360/123', 'IPv6');
 INSERT INTO `azure_malaysiasouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1503:1::3c0/122', 'IPv6');
+INSERT INTO `azure_malaysiasouth_ips` (`ip_address`, `ip_type`) VALUES ('172.197.31.0/24', 'IPv4');
+INSERT INTO `azure_malaysiasouth_ips` (`ip_address`, `ip_type`) VALUES ('172.197.32.0/25', 'IPv4');
+INSERT INTO `azure_malaysiasouth_ips` (`ip_address`, `ip_type`) VALUES ('172.197.30.0/25', 'IPv4');
 INSERT INTO `azure_malaysiasouth_ips` (`ip_address`, `ip_type`) VALUES ('20.17.48.20/31', 'IPv4');
 INSERT INTO `azure_malaysiasouth_ips` (`ip_address`, `ip_type`) VALUES ('20.17.63.8/29', 'IPv4');
 INSERT INTO `azure_malaysiasouth_ips` (`ip_address`, `ip_type`) VALUES ('20.17.71.138/31', 'IPv4');

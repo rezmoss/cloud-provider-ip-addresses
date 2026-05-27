@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "172.197.31.0/24",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.MalaysiaSouth",
+    "region": "malaysiasouth"
+  },
+  {
+    "ip_address": "172.197.32.0/25",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.MalaysiaSouth",
+    "region": "malaysiasouth"
+  }
+]

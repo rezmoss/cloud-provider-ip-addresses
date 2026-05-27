@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "172.194.70.0/29",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.70.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1602::700/121",
+    "ip_type": "IPv6",
+    "service": "AzureDigitalTwins.NortheastUS5",
+    "region": "northeastus5"
+  }
+]

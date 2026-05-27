@@ -326,6 +326,7 @@ INSERT INTO `azure_azuredigitaltwins_ips` (`ip_address`, `ip_type`) VALUES ('260
 INSERT INTO `azure_azuredigitaltwins_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:210:f::578/126', 'IPv6');
 INSERT INTO `azure_azuredigitaltwins_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40b:6::67c/126', 'IPv6');
 INSERT INTO `azure_azuredigitaltwins_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:e::5d4/126', 'IPv6');
+INSERT INTO `azure_azuredigitaltwins_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:2a::/121', 'IPv6');
 INSERT INTO `azure_azuredigitaltwins_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:504::560/123', 'IPv6');
 INSERT INTO `azure_azuredigitaltwins_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:504:2::/121', 'IPv6');
 INSERT INTO `azure_azuredigitaltwins_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:504:8::5f0/126', 'IPv6');

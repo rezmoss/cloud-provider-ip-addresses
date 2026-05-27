@@ -88,6 +88,8 @@ INSERT INTO `azure_azurecloud.southindia_ips` (`ip_address`, `ip_type`) VALUES (
 INSERT INTO `azure_azurecloud.southindia_ips` (`ip_address`, `ip_type`) VALUES ('52.239.188.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.southindia_ips` (`ip_address`, `ip_type`) VALUES ('52.245.84.0/22', 'IPv4');
 INSERT INTO `azure_azurecloud.southindia_ips` (`ip_address`, `ip_type`) VALUES ('57.150.17.0/24', 'IPv4');
+INSERT INTO `azure_azurecloud.southindia_ips` (`ip_address`, `ip_type`) VALUES ('57.171.16.0/24', 'IPv4');
+INSERT INTO `azure_azurecloud.southindia_ips` (`ip_address`, `ip_type`) VALUES ('57.171.18.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.southindia_ips` (`ip_address`, `ip_type`) VALUES ('70.152.25.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.southindia_ips` (`ip_address`, `ip_type`) VALUES ('70.152.58.0/23', 'IPv4');
 INSERT INTO `azure_azurecloud.southindia_ips` (`ip_address`, `ip_type`) VALUES ('70.152.60.0/24', 'IPv4');

@@ -15,6 +15,7 @@ INSERT INTO `azure_datafactory.westcentralus_ips` (`ip_address`, `ip_type`) VALU
 INSERT INTO `azure_datafactory.westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('52.150.157.160/29', 'IPv4');
 INSERT INTO `azure_datafactory.westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('52.150.157.192/26', 'IPv4');
 INSERT INTO `azure_datafactory.westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('57.151.154.176/28', 'IPv4');
+INSERT INTO `azure_datafactory.westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('128.24.232.48/28', 'IPv4');
 INSERT INTO `azure_datafactory.westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('172.208.172.32/27', 'IPv4');
 INSERT INTO `azure_datafactory.westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('172.215.206.16/28', 'IPv4');
 INSERT INTO `azure_datafactory.westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:b04::440/122', 'IPv6');

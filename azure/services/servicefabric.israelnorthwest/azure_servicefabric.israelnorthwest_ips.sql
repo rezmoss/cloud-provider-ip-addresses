@@ -7,4 +7,6 @@ CREATE TABLE IF NOT EXISTS `azure_servicefabric.israelnorthwest_ips` (
 );
 
 INSERT INTO `azure_servicefabric.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('51.4.160.12/30', 'IPv4');
+INSERT INTO `azure_servicefabric.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('51.4.224.24/29', 'IPv4');
+INSERT INTO `azure_servicefabric.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1702:5::360/125', 'IPv6');
 INSERT INTO `azure_servicefabric.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1702:400::18/125', 'IPv6');

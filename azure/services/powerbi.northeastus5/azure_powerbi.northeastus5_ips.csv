@@ -1,0 +1,6 @@
+ip_address,ip_type,service,region
+172.194.79.134/31,IPv4,PowerBI.NortheastUS5,northeastus5
+172.194.81.56/30,IPv4,PowerBI.NortheastUS5,northeastus5
+172.194.81.96/29,IPv4,PowerBI.NortheastUS5,northeastus5
+2603:1030:1602:2::700/122,IPv6,PowerBI.NortheastUS5,northeastus5
+2603:1030:1602:2::740/123,IPv6,PowerBI.NortheastUS5,northeastus5

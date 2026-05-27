@@ -8,6 +8,8 @@ CREATE TABLE IF NOT EXISTS `azure_scuba_ips` (
 
 INSERT INTO `azure_scuba_ips` (`ip_address`, `ip_type`) VALUES ('4.145.16.144/29', 'IPv4');
 INSERT INTO `azure_scuba_ips` (`ip_address`, `ip_type`) VALUES ('4.145.16.192/26', 'IPv4');
+INSERT INTO `azure_scuba_ips` (`ip_address`, `ip_type`) VALUES ('4.148.215.16/28', 'IPv4');
+INSERT INTO `azure_scuba_ips` (`ip_address`, `ip_type`) VALUES ('4.148.215.32/27', 'IPv4');
 INSERT INTO `azure_scuba_ips` (`ip_address`, `ip_type`) VALUES ('4.150.34.96/29', 'IPv4');
 INSERT INTO `azure_scuba_ips` (`ip_address`, `ip_type`) VALUES ('4.150.232.16/29', 'IPv4');
 INSERT INTO `azure_scuba_ips` (`ip_address`, `ip_type`) VALUES ('4.161.10.44/30', 'IPv4');
@@ -103,6 +105,8 @@ INSERT INTO `azure_scuba_ips` (`ip_address`, `ip_type`) VALUES ('40.75.149.0/26'
 INSERT INTO `azure_scuba_ips` (`ip_address`, `ip_type`) VALUES ('40.75.149.64/29', 'IPv4');
 INSERT INTO `azure_scuba_ips` (`ip_address`, `ip_type`) VALUES ('40.80.103.224/29', 'IPv4');
 INSERT INTO `azure_scuba_ips` (`ip_address`, `ip_type`) VALUES ('40.117.27.192/29', 'IPv4');
+INSERT INTO `azure_scuba_ips` (`ip_address`, `ip_type`) VALUES ('48.193.79.64/28', 'IPv4');
+INSERT INTO `azure_scuba_ips` (`ip_address`, `ip_type`) VALUES ('48.193.79.80/29', 'IPv4');
 INSERT INTO `azure_scuba_ips` (`ip_address`, `ip_type`) VALUES ('48.195.60.168/29', 'IPv4');
 INSERT INTO `azure_scuba_ips` (`ip_address`, `ip_type`) VALUES ('48.195.218.212/30', 'IPv4');
 INSERT INTO `azure_scuba_ips` (`ip_address`, `ip_type`) VALUES ('48.195.218.216/31', 'IPv4');
@@ -152,6 +156,8 @@ INSERT INTO `azure_scuba_ips` (`ip_address`, `ip_type`) VALUES ('52.249.21.160/2
 INSERT INTO `azure_scuba_ips` (`ip_address`, `ip_type`) VALUES ('52.255.31.244/31', 'IPv4');
 INSERT INTO `azure_scuba_ips` (`ip_address`, `ip_type`) VALUES ('52.255.31.248/29', 'IPv4');
 INSERT INTO `azure_scuba_ips` (`ip_address`, `ip_type`) VALUES ('57.151.222.216/29', 'IPv4');
+INSERT INTO `azure_scuba_ips` (`ip_address`, `ip_type`) VALUES ('57.156.97.224/28', 'IPv4');
+INSERT INTO `azure_scuba_ips` (`ip_address`, `ip_type`) VALUES ('57.156.97.240/29', 'IPv4');
 INSERT INTO `azure_scuba_ips` (`ip_address`, `ip_type`) VALUES ('57.158.18.20/31', 'IPv4');
 INSERT INTO `azure_scuba_ips` (`ip_address`, `ip_type`) VALUES ('57.158.117.232/30', 'IPv4');
 INSERT INTO `azure_scuba_ips` (`ip_address`, `ip_type`) VALUES ('57.158.117.236/31', 'IPv4');
@@ -222,6 +228,8 @@ INSERT INTO `azure_scuba_ips` (`ip_address`, `ip_type`) VALUES ('172.192.184.180
 INSERT INTO `azure_scuba_ips` (`ip_address`, `ip_type`) VALUES ('172.192.184.192/28', 'IPv4');
 INSERT INTO `azure_scuba_ips` (`ip_address`, `ip_type`) VALUES ('172.194.82.248/29', 'IPv4');
 INSERT INTO `azure_scuba_ips` (`ip_address`, `ip_type`) VALUES ('172.196.61.166/31', 'IPv4');
+INSERT INTO `azure_scuba_ips` (`ip_address`, `ip_type`) VALUES ('172.197.132.152/29', 'IPv4');
+INSERT INTO `azure_scuba_ips` (`ip_address`, `ip_type`) VALUES ('172.197.133.64/28', 'IPv4');
 INSERT INTO `azure_scuba_ips` (`ip_address`, `ip_type`) VALUES ('172.198.98.184/29', 'IPv4');
 INSERT INTO `azure_scuba_ips` (`ip_address`, `ip_type`) VALUES ('172.204.167.112/29', 'IPv4');
 INSERT INTO `azure_scuba_ips` (`ip_address`, `ip_type`) VALUES ('172.204.242.56/30', 'IPv4');
@@ -239,6 +247,7 @@ INSERT INTO `azure_scuba_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:905:5
 INSERT INTO `azure_scuba_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:b04:5::5f0/124', 'IPv6');
 INSERT INTO `azure_scuba_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1502:2::640/124', 'IPv6');
 INSERT INTO `azure_scuba_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1602:2::640/124', 'IPv6');
+INSERT INTO `azure_scuba_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:2b::350/124', 'IPv6');
 INSERT INTO `azure_scuba_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:902:2::660/124', 'IPv6');
 INSERT INTO `azure_scuba_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1102:2::5e0/124', 'IPv6');
 INSERT INTO `azure_scuba_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1202:2::640/124', 'IPv6');

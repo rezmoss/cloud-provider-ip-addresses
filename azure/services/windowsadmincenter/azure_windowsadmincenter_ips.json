@@ -606,6 +606,12 @@
     "region": ""
   },
   {
+    "ip_address": "2603:1030:40c:29::580/125",
+    "ip_type": "IPv6",
+    "service": "WindowsAdminCenter",
+    "region": ""
+  },
+  {
     "ip_address": "2603:1030:504::1a8/125",
     "ip_type": "IPv6",
     "service": "WindowsAdminCenter",

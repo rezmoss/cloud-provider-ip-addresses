@@ -774,6 +774,12 @@
     "region": ""
   },
   {
+    "ip_address": "20.111.136.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
     "ip_address": "20.112.150.125/32",
     "ip_type": "IPv4",
     "service": "AzureEventGrid",

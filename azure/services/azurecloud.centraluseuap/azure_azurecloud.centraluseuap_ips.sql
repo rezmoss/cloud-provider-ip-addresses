@@ -20,6 +20,7 @@ INSERT INTO `azure_azurecloud.centraluseuap_ips` (`ip_address`, `ip_type`) VALUE
 INSERT INTO `azure_azurecloud.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('20.47.105.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('20.51.24.0/21', 'IPv4');
 INSERT INTO `azure_azurecloud.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('20.60.24.0/23', 'IPv4');
+INSERT INTO `azure_azurecloud.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('20.111.136.0/21', 'IPv4');
 INSERT INTO `azure_azurecloud.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('20.112.128.0/19', 'IPv4');
 INSERT INTO `azure_azurecloud.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('20.135.68.0/23', 'IPv4');
 INSERT INTO `azure_azurecloud.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('20.150.23.0/24', 'IPv4');
@@ -155,6 +156,7 @@ INSERT INTO `azure_azurecloud.centraluseuap_ips` (`ip_address`, `ip_type`) VALUE
 INSERT INTO `azure_azurecloud.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('57.157.45.16/31', 'IPv4');
 INSERT INTO `azure_azurecloud.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('57.157.45.36/31', 'IPv4');
 INSERT INTO `azure_azurecloud.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('57.163.8.0/23', 'IPv4');
+INSERT INTO `azure_azurecloud.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('57.173.0.0/17', 'IPv4');
 INSERT INTO `azure_azurecloud.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('104.208.48.0/20', 'IPv4');
 INSERT INTO `azure_azurecloud.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('134.138.128.0/17', 'IPv4');
 INSERT INTO `azure_azurecloud.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('135.130.247.0/24', 'IPv4');

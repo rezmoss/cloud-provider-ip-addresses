@@ -72,7 +72,7 @@
     "region": "brazilsouth"
   },
   {
-    "ip_address": "20.20.96.192/30",
+    "ip_address": "20.20.96.192/29",
     "ip_type": "IPv4",
     "service": "AzureCloud.brazilsouth",
     "region": "brazilsouth"

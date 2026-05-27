@@ -1,0 +1,32 @@
+[
+  {
+    "ip_address": "172.194.73.208/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.73.216/29",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.112.96/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1602:1::3e8/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1602:400::8/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.NortheastUS5",
+    "region": "northeastus5"
+  }
+]

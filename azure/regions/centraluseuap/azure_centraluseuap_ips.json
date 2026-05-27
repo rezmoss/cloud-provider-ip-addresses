@@ -612,6 +612,12 @@
     "region": "centraluseuap"
   },
   {
+    "ip_address": "20.111.136.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
     "ip_address": "2603:1030:f:1::380/121",
     "ip_type": "IPv6",
     "service": "AzureEventGrid.CentralUSEUAP",
@@ -1896,6 +1902,12 @@
     "region": "centraluseuap"
   },
   {
+    "ip_address": "20.111.136.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.centraluseuap",
+    "region": "centraluseuap"
+  },
+  {
     "ip_address": "20.112.128.0/19",
     "ip_type": "IPv4",
     "service": "AzureCloud.centraluseuap",
@@ -2701,6 +2713,12 @@
   },
   {
     "ip_address": "57.163.8.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.centraluseuap",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "57.173.0.0/17",
     "ip_type": "IPv4",
     "service": "AzureCloud.centraluseuap",
     "region": "centraluseuap"

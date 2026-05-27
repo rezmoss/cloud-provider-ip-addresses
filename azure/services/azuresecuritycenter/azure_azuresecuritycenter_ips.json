@@ -834,6 +834,12 @@
     "region": ""
   },
   {
+    "ip_address": "51.4.227.176/28",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter",
+    "region": ""
+  },
+  {
     "ip_address": "51.12.101.128/27",
     "ip_type": "IPv4",
     "service": "AzureSecurityCenter",
@@ -1116,6 +1122,18 @@
     "region": ""
   },
   {
+    "ip_address": "57.170.0.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter",
+    "region": ""
+  },
+  {
+    "ip_address": "68.154.163.144/28",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter",
+    "region": ""
+  },
+  {
     "ip_address": "68.210.30.216/30",
     "ip_type": "IPv4",
     "service": "AzureSecurityCenter",
@@ -1236,6 +1254,12 @@
     "region": ""
   },
   {
+    "ip_address": "70.157.170.64/28",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter",
+    "region": ""
+  },
+  {
     "ip_address": "72.155.32.32/27",
     "ip_type": "IPv4",
     "service": "AzureSecurityCenter",
@@ -1261,6 +1285,12 @@
   },
   {
     "ip_address": "72.155.36.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter",
+    "region": ""
+  },
+  {
+    "ip_address": "74.7.71.16/28",
     "ip_type": "IPv4",
     "service": "AzureSecurityCenter",
     "region": ""
@@ -2209,6 +2239,12 @@
   },
   {
     "ip_address": "172.196.59.96/28",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter",
+    "region": ""
+  },
+  {
+    "ip_address": "172.197.29.160/28",
     "ip_type": "IPv4",
     "service": "AzureSecurityCenter",
     "region": ""

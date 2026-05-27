@@ -9,4 +9,6 @@ CREATE TABLE IF NOT EXISTS `azure_azureattestation.francesouth_ips` (
 INSERT INTO `azure_azureattestation.francesouth_ips` (`ip_address`, `ip_type`) VALUES ('20.111.117.248/29', 'IPv4');
 INSERT INTO `azure_azureattestation.francesouth_ips` (`ip_address`, `ip_type`) VALUES ('51.138.160.76/30', 'IPv4');
 INSERT INTO `azure_azureattestation.francesouth_ips` (`ip_address`, `ip_type`) VALUES ('52.136.184.232/30', 'IPv4');
+INSERT INTO `azure_azureattestation.francesouth_ips` (`ip_address`, `ip_type`) VALUES ('98.66.8.88/29', 'IPv4');
+INSERT INTO `azure_azureattestation.francesouth_ips` (`ip_address`, `ip_type`) VALUES ('98.66.8.160/30', 'IPv4');
 INSERT INTO `azure_azureattestation.francesouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:905:2::760/124', 'IPv6');

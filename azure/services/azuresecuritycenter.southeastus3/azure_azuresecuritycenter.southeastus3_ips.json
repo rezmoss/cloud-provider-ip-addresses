@@ -1,0 +1,8 @@
+[
+  {
+    "ip_address": "74.7.71.16/28",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.SoutheastUS3",
+    "region": "southeastus3"
+  }
+]

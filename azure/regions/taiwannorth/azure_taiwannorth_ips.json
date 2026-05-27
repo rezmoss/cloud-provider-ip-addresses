@@ -114,6 +114,18 @@
     "region": "taiwannorth"
   },
   {
+    "ip_address": "70.157.169.56/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "70.157.169.96/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
     "ip_address": "2603:1040:1302::600/124",
     "ip_type": "IPv6",
     "service": "AzureAttestation.TaiwanNorth",
@@ -570,6 +582,12 @@
     "region": "taiwannorth"
   },
   {
+    "ip_address": "70.157.170.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
     "ip_address": "167.105.106.8/29",
     "ip_type": "IPv4",
     "service": "AzureMonitor.TaiwanNorth",
@@ -619,6 +637,12 @@
   },
   {
     "ip_address": "2603:1040:1302:7::20/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:7::500/122",
     "ip_type": "IPv6",
     "service": "AzureMonitor.TaiwanNorth",
     "region": "taiwannorth"
@@ -711,6 +735,12 @@
     "ip_address": "2603:1040:1302:1::280/121",
     "ip_type": "IPv6",
     "service": "Sql.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "70.157.170.64/28",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.TaiwanNorth",
     "region": "taiwannorth"
   },
   {
@@ -1185,6 +1215,24 @@
     "ip_address": "2603:1040:1302:1::6c0/123",
     "ip_type": "IPv6",
     "service": "PowerBI.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "70.157.171.128/25",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "70.157.172.0/24",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "70.157.170.128/25",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.TaiwanNorth",
     "region": "taiwannorth"
   },
   {

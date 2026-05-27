@@ -8,6 +8,7 @@ CREATE TABLE IF NOT EXISTS `azure_datafactory.eastasia_ips` (
 
 INSERT INTO `azure_datafactory.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('4.252.148.192/27', 'IPv4');
 INSERT INTO `azure_datafactory.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('13.75.39.112/28', 'IPv4');
+INSERT INTO `azure_datafactory.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('20.2.105.208/28', 'IPv4');
 INSERT INTO `azure_datafactory.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('20.189.104.128/25', 'IPv4');
 INSERT INTO `azure_datafactory.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('20.189.106.0/26', 'IPv4');
 INSERT INTO `azure_datafactory.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('20.189.109.232/29', 'IPv4');

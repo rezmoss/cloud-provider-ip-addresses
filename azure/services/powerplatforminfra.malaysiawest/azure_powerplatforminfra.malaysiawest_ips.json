@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "172.197.134.128/25",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.MalaysiaWest",
+    "region": "malaysiawest"
+  },
+  {
+    "ip_address": "172.197.135.0/24",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.MalaysiaWest",
+    "region": "malaysiawest"
+  }
+]

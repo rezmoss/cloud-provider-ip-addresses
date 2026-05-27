@@ -16,5 +16,17 @@
     "ip_type": "IPv4",
     "service": "AzureAttestation.WestEurope",
     "region": "westeurope"
+  },
+  {
+    "ip_address": "48.209.76.108/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "72.145.133.160/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.WestEurope",
+    "region": "westeurope"
   }
 ]

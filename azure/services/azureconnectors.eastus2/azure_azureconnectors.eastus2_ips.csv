@@ -11,6 +11,8 @@ ip_address,ip_type,service,region
 52.184.245.14/32,IPv4,AzureConnectors.EastUS2,eastus2
 52.225.129.144/32,IPv4,AzureConnectors.EastUS2,eastus2
 52.232.188.154/32,IPv4,AzureConnectors.EastUS2,eastus2
+57.167.187.0/26,IPv4,AzureConnectors.EastUS2,eastus2
 104.209.247.23/32,IPv4,AzureConnectors.EastUS2,eastus2
 104.210.14.156/32,IPv4,AzureConnectors.EastUS2,eastus2
+2603:1030:40c:2a::440/122,IPv6,AzureConnectors.EastUS2,eastus2
 2603:1030:40c:402::180/122,IPv6,AzureConnectors.EastUS2,eastus2

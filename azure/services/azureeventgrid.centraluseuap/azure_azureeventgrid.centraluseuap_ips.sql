@@ -7,4 +7,5 @@ CREATE TABLE IF NOT EXISTS `azure_azureeventgrid.centraluseuap_ips` (
 );
 
 INSERT INTO `azure_azureeventgrid.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('20.45.195.0/25', 'IPv4');
+INSERT INTO `azure_azureeventgrid.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('20.111.136.0/25', 'IPv4');
 INSERT INTO `azure_azureeventgrid.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f:1::380/121', 'IPv6');

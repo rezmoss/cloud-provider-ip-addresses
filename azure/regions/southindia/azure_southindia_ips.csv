@@ -38,6 +38,8 @@ ip_address,ip_type,service,region
 2603:1040:c06:b::2fa/128,IPv6,AzureArcInfrastructure.SouthIndia,southindia
 20.192.184.116/30,IPv4,AzureAttestation.SouthIndia,southindia
 52.172.116.0/30,IPv4,AzureAttestation.SouthIndia,southindia
+74.224.224.208/29,IPv4,AzureAttestation.SouthIndia,southindia
+74.224.224.216/30,IPv4,AzureAttestation.SouthIndia,southindia
 74.225.41.64/29,IPv4,AzureAttestation.SouthIndia,southindia
 2603:1040:c06:3::390/124,IPv6,AzureAttestation.SouthIndia,southindia
 40.78.195.32/27,IPv4,AzureBackup.SouthIndia,southindia
@@ -430,6 +432,8 @@ ip_address,ip_type,service,region
 52.239.188.0/24,IPv4,AzureCloud.southindia,southindia
 52.245.84.0/22,IPv4,AzureCloud.southindia,southindia
 57.150.17.0/24,IPv4,AzureCloud.southindia,southindia
+57.171.16.0/24,IPv4,AzureCloud.southindia,southindia
+57.171.18.0/24,IPv4,AzureCloud.southindia,southindia
 70.152.25.0/24,IPv4,AzureCloud.southindia,southindia
 70.152.58.0/23,IPv4,AzureCloud.southindia,southindia
 70.152.60.0/24,IPv4,AzureCloud.southindia,southindia

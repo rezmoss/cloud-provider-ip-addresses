@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "172.194.81.112/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.82.32/27",
+    "ip_type": "IPv4",
+    "service": "DataFactory.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.83.0/24",
+    "ip_type": "IPv4",
+    "service": "DataFactory.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1602:3::/120",
+    "ip_type": "IPv6",
+    "service": "DataFactory.NortheastUS5",
+    "region": "northeastus5"
+  }
+]

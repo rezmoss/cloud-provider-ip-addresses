@@ -1,7 +1,19 @@
 [
   {
+    "ip_address": "51.4.159.152/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry.IsraelNorthwest",
+    "region": "israelnorthwest"
+  },
+  {
     "ip_address": "51.4.160.0/29",
     "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry.IsraelNorthwest",
+    "region": "israelnorthwest"
+  },
+  {
+    "ip_address": "2603:1040:1702:5::2d0/125",
+    "ip_type": "IPv6",
     "service": "MicrosoftContainerRegistry.IsraelNorthwest",
     "region": "israelnorthwest"
   },

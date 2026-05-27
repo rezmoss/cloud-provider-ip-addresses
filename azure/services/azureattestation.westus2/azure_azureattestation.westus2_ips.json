@@ -16,5 +16,17 @@
     "ip_type": "IPv4",
     "service": "AzureAttestation.WestUS2",
     "region": "westus2"
+  },
+  {
+    "ip_address": "57.166.17.56/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.WestUS2",
+    "region": "westus2"
+  },
+  {
+    "ip_address": "57.166.17.64/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.WestUS2",
+    "region": "westus2"
   }
 ]

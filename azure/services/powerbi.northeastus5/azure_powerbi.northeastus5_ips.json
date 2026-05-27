@@ -1,0 +1,32 @@
+[
+  {
+    "ip_address": "172.194.79.134/31",
+    "ip_type": "IPv4",
+    "service": "PowerBI.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.81.56/30",
+    "ip_type": "IPv4",
+    "service": "PowerBI.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.81.96/29",
+    "ip_type": "IPv4",
+    "service": "PowerBI.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1602:2::700/122",
+    "ip_type": "IPv6",
+    "service": "PowerBI.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1602:2::740/123",
+    "ip_type": "IPv6",
+    "service": "PowerBI.NortheastUS5",
+    "region": "northeastus5"
+  }
+]

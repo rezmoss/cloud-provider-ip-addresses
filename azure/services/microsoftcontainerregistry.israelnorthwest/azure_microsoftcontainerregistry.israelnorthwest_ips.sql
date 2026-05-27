@@ -6,5 +6,7 @@ CREATE TABLE IF NOT EXISTS `azure_microsoftcontainerregistry.israelnorthwest_ips
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_microsoftcontainerregistry.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('51.4.159.152/29', 'IPv4');
 INSERT INTO `azure_microsoftcontainerregistry.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('51.4.160.0/29', 'IPv4');
+INSERT INTO `azure_microsoftcontainerregistry.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1702:5::2d0/125', 'IPv6');
 INSERT INTO `azure_microsoftcontainerregistry.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1702:400::/125', 'IPv6');

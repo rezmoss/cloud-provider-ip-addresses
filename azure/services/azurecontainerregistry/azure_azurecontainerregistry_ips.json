@@ -5148,6 +5148,12 @@
     "region": ""
   },
   {
+    "ip_address": "2603:1030:40c:2a::700/121",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry",
+    "region": ""
+  },
+  {
     "ip_address": "2603:1030:40c:402::90/125",
     "ip_type": "IPv6",
     "service": "AzureContainerRegistry",

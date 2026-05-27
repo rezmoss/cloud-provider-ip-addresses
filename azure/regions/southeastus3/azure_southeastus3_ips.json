@@ -468,6 +468,12 @@
     "region": "southeastus3"
   },
   {
+    "ip_address": "74.7.71.16/28",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.SoutheastUS3",
+    "region": "southeastus3"
+  },
+  {
     "ip_address": "74.7.45.128/25",
     "ip_type": "IPv4",
     "service": "ServiceBus.SoutheastUS3",

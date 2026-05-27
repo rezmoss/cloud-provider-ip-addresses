@@ -12,6 +12,18 @@
     "region": "westus"
   },
   {
+    "ip_address": "20.59.154.176/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.WestUS",
+    "region": "westus"
+  },
+  {
+    "ip_address": "20.59.154.184/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.WestUS",
+    "region": "westus"
+  },
+  {
     "ip_address": "52.238.33.184/29",
     "ip_type": "IPv4",
     "service": "AzureAttestation.WestUS",

@@ -18,6 +18,18 @@
     "region": "switzerlandw"
   },
   {
+    "ip_address": "57.160.5.108/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "57.160.5.160/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
     "ip_address": "2603:1020:b04:5::b0/124",
     "ip_type": "IPv6",
     "service": "AzureAttestation.SwitzerlandWest",

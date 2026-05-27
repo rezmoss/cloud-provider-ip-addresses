@@ -1,0 +1,2 @@
+ip_address,ip_type,service,region
+70.157.170.64/28,IPv4,AzureSecurityCenter.TaiwanNorth,taiwannorth

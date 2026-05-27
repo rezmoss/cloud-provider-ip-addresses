@@ -145,6 +145,7 @@ INSERT INTO `azure_azuresecuritycenter_ips` (`ip_address`, `ip_type`) VALUES ('4
 INSERT INTO `azure_azuresecuritycenter_ips` (`ip_address`, `ip_type`) VALUES ('48.215.120.0/25', 'IPv4');
 INSERT INTO `azure_azuresecuritycenter_ips` (`ip_address`, `ip_type`) VALUES ('50.85.247.64/27', 'IPv4');
 INSERT INTO `azure_azuresecuritycenter_ips` (`ip_address`, `ip_type`) VALUES ('50.85.247.128/25', 'IPv4');
+INSERT INTO `azure_azuresecuritycenter_ips` (`ip_address`, `ip_type`) VALUES ('51.4.227.176/28', 'IPv4');
 INSERT INTO `azure_azuresecuritycenter_ips` (`ip_address`, `ip_type`) VALUES ('51.12.101.128/27', 'IPv4');
 INSERT INTO `azure_azuresecuritycenter_ips` (`ip_address`, `ip_type`) VALUES ('51.12.205.64/27', 'IPv4');
 INSERT INTO `azure_azuresecuritycenter_ips` (`ip_address`, `ip_type`) VALUES ('51.58.49.60/30', 'IPv4');
@@ -192,6 +193,8 @@ INSERT INTO `azure_azuresecuritycenter_ips` (`ip_address`, `ip_type`) VALUES ('5
 INSERT INTO `azure_azuresecuritycenter_ips` (`ip_address`, `ip_type`) VALUES ('57.159.132.0/22', 'IPv4');
 INSERT INTO `azure_azuresecuritycenter_ips` (`ip_address`, `ip_type`) VALUES ('57.159.136.0/23', 'IPv4');
 INSERT INTO `azure_azuresecuritycenter_ips` (`ip_address`, `ip_type`) VALUES ('57.159.138.0/24', 'IPv4');
+INSERT INTO `azure_azuresecuritycenter_ips` (`ip_address`, `ip_type`) VALUES ('57.170.0.80/28', 'IPv4');
+INSERT INTO `azure_azuresecuritycenter_ips` (`ip_address`, `ip_type`) VALUES ('68.154.163.144/28', 'IPv4');
 INSERT INTO `azure_azuresecuritycenter_ips` (`ip_address`, `ip_type`) VALUES ('68.210.30.216/30', 'IPv4');
 INSERT INTO `azure_azuresecuritycenter_ips` (`ip_address`, `ip_type`) VALUES ('68.210.30.240/28', 'IPv4');
 INSERT INTO `azure_azuresecuritycenter_ips` (`ip_address`, `ip_type`) VALUES ('68.210.56.160/27', 'IPv4');
@@ -212,11 +215,13 @@ INSERT INTO `azure_azuresecuritycenter_ips` (`ip_address`, `ip_type`) VALUES ('7
 INSERT INTO `azure_azuresecuritycenter_ips` (`ip_address`, `ip_type`) VALUES ('70.156.174.32/27', 'IPv4');
 INSERT INTO `azure_azuresecuritycenter_ips` (`ip_address`, `ip_type`) VALUES ('70.156.174.64/26', 'IPv4');
 INSERT INTO `azure_azuresecuritycenter_ips` (`ip_address`, `ip_type`) VALUES ('70.156.175.0/24', 'IPv4');
+INSERT INTO `azure_azuresecuritycenter_ips` (`ip_address`, `ip_type`) VALUES ('70.157.170.64/28', 'IPv4');
 INSERT INTO `azure_azuresecuritycenter_ips` (`ip_address`, `ip_type`) VALUES ('72.155.32.32/27', 'IPv4');
 INSERT INTO `azure_azuresecuritycenter_ips` (`ip_address`, `ip_type`) VALUES ('72.155.32.64/26', 'IPv4');
 INSERT INTO `azure_azuresecuritycenter_ips` (`ip_address`, `ip_type`) VALUES ('72.155.33.0/24', 'IPv4');
 INSERT INTO `azure_azuresecuritycenter_ips` (`ip_address`, `ip_type`) VALUES ('72.155.34.0/23', 'IPv4');
 INSERT INTO `azure_azuresecuritycenter_ips` (`ip_address`, `ip_type`) VALUES ('72.155.36.0/22', 'IPv4');
+INSERT INTO `azure_azuresecuritycenter_ips` (`ip_address`, `ip_type`) VALUES ('74.7.71.16/28', 'IPv4');
 INSERT INTO `azure_azuresecuritycenter_ips` (`ip_address`, `ip_type`) VALUES ('74.162.48.0/23', 'IPv4');
 INSERT INTO `azure_azuresecuritycenter_ips` (`ip_address`, `ip_type`) VALUES ('74.163.50.128/25', 'IPv4');
 INSERT INTO `azure_azuresecuritycenter_ips` (`ip_address`, `ip_type`) VALUES ('74.163.51.0/24', 'IPv4');
@@ -375,6 +380,7 @@ INSERT INTO `azure_azuresecuritycenter_ips` (`ip_address`, `ip_type`) VALUES ('1
 INSERT INTO `azure_azuresecuritycenter_ips` (`ip_address`, `ip_type`) VALUES ('172.196.59.0/26', 'IPv4');
 INSERT INTO `azure_azuresecuritycenter_ips` (`ip_address`, `ip_type`) VALUES ('172.196.59.64/27', 'IPv4');
 INSERT INTO `azure_azuresecuritycenter_ips` (`ip_address`, `ip_type`) VALUES ('172.196.59.96/28', 'IPv4');
+INSERT INTO `azure_azuresecuritycenter_ips` (`ip_address`, `ip_type`) VALUES ('172.197.29.160/28', 'IPv4');
 INSERT INTO `azure_azuresecuritycenter_ips` (`ip_address`, `ip_type`) VALUES ('172.204.255.248/30', 'IPv4');
 INSERT INTO `azure_azuresecuritycenter_ips` (`ip_address`, `ip_type`) VALUES ('172.208.162.0/24', 'IPv4');
 INSERT INTO `azure_azuresecuritycenter_ips` (`ip_address`, `ip_type`) VALUES ('172.208.172.128/26', 'IPv4');

@@ -12,4 +12,5 @@ INSERT INTO `azure_actiongroup.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('2
 INSERT INTO `azure_actiongroup.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('52.184.145.166/32', 'IPv4');
 INSERT INTO `azure_actiongroup.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('74.249.127.180/30', 'IPv4');
 INSERT INTO `azure_actiongroup.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:1::118/126', 'IPv6');
+INSERT INTO `azure_actiongroup.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:2b::40/125', 'IPv6');
 INSERT INTO `azure_actiongroup.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:402::178/125', 'IPv6');

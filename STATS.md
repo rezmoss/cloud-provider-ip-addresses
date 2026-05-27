@@ -1,10 +1,10 @@
 # IP Range Statistics
 
-Generated: 2026-05-26T03:21:23.930033
+Generated: 2026-05-27T03:22:14.583438
 
-Total IPv4 addresses: 341,560,395
-Total IPv6 addresses: 5,205,607,389,252,338,198,429,704,666,801,166
-IPv4 space coverage: 7.9526%
+Total IPv4 addresses: 342,176,680
+Total IPv6 addresses: 5,205,607,395,313,458,685,704,746,879,484,306
+IPv4 space coverage: 7.9669%
 
 | Provider | IPv4 CIDRs | IPv6 CIDRs | Total CIDRs | IPv4 Addresses | Services | Regions |
 |----------|-----------|-----------|------------|---------------|----------|--------|
@@ -12,14 +12,14 @@ IPv4 space coverage: 7.9526%
 | apple_private_relay | 41,784 | 245,128 | 286,912 | 105,762 | 0 | 1279 |
 | applebot | 12 | 0 | 12 | 2,400 | 1 | 0 |
 | atlassian | 194 | 60 | 254 | 79,126 | 12 | 18 |
-| aws | 10,242 | 5,635 | 15,877 | 183,947,038 | 26 | 43 |
-| azure | 76,247 | 26,774 | 103,021 | 101,047,874 | 3172 | 74 |
+| aws | 10,250 | 5,633 | 15,883 | 183,951,646 | 26 | 43 |
+| azure | 77,541 | 27,622 | 105,163 | 101,659,546 | 3231 | 75 |
 | bingbot | 28 | 0 | 28 | 4,736 | 1 | 0 |
 | circleci | 47 | 0 | 47 | 3,871 | 3 | 1 |
 | cloudflare | 15 | 7 | 22 | 1,524,736 | 0 | 0 |
 | commoncrawl | 5 | 1 | 6 | 29 | 1 | 0 |
 | digitalocean | 1,071 | 148 | 1,219 | 3,094,912 | 0 | 13 |
-| duckduckbot | 336 | 0 | 336 | 336 | 1 | 0 |
+| duckduckbot | 341 | 0 | 341 | 341 | 1 | 0 |
 | fastly | 19 | 2 | 21 | 304,128 | 0 | 0 |
 | github | 5,363 | 1,373 | 6,736 | 27,106,359 | 11 | 0 |
 | googlebot | 167 | 144 | 311 | 4,992 | 1 | 0 |
@@ -30,7 +30,7 @@ IPv4 space coverage: 7.9526%
 | perplexitybot | 12 | 0 | 12 | 32 | 2 | 0 |
 | teamcity | 11 | 0 | 11 | 11 | 2 | 1 |
 | telegram | 9 | 5 | 14 | 11,008 | 0 | 0 |
-| vultr | 437 | 53 | 490 | 1,024,000 | 0 | 34 |
+| vultr | 437 | 54 | 491 | 1,024,000 | 0 | 34 |
 | zoom | 57 | 3 | 60 | 542,224 | 3 | 0 |
 
 *24 providers tracked*

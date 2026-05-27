@@ -12,7 +12,9 @@ INSERT INTO `azure_servicefabric.eastus2_ips` (`ip_address`, `ip_type`) VALUES (
 INSERT INTO `azure_servicefabric.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('52.167.0.27/32', 'IPv4');
 INSERT INTO `azure_servicefabric.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('52.167.109.68/30', 'IPv4');
 INSERT INTO `azure_servicefabric.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('52.167.227.220/32', 'IPv4');
+INSERT INTO `azure_servicefabric.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('57.167.187.232/29', 'IPv4');
 INSERT INTO `azure_servicefabric.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('172.210.216.8/30', 'IPv4');
+INSERT INTO `azure_servicefabric.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:2b::48/125', 'IPv6');
 INSERT INTO `azure_servicefabric.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:402::98/125', 'IPv6');
 INSERT INTO `azure_servicefabric.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:802::98/125', 'IPv6');
 INSERT INTO `azure_servicefabric.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:c02::98/125', 'IPv6');

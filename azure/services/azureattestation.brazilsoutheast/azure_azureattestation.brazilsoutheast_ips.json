@@ -6,6 +6,18 @@
     "region": "brazilse"
   },
   {
+    "ip_address": "4.238.27.136/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "4.238.27.192/27",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
     "ip_address": "20.195.146.64/30",
     "ip_type": "IPv4",
     "service": "AzureAttestation.BrazilSoutheast",

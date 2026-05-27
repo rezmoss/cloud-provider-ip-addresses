@@ -1434,6 +1434,12 @@
     "region": ""
   },
   {
+    "ip_address": "2603:1030:40c:2a::220/124",
+    "ip_type": "IPv6",
+    "service": "HDInsight",
+    "region": ""
+  },
+  {
     "ip_address": "2603:1030:40c:402::320/124",
     "ip_type": "IPv6",
     "service": "HDInsight",

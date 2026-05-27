@@ -1602,6 +1602,12 @@
     "region": ""
   },
   {
+    "ip_address": "51.4.227.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearningInference",
+    "region": ""
+  },
+  {
     "ip_address": "51.12.72.224/27",
     "ip_type": "IPv4",
     "service": "AzureMachineLearningInference",
@@ -1621,6 +1627,12 @@
   },
   {
     "ip_address": "51.53.183.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearningInference",
+    "region": ""
+  },
+  {
+    "ip_address": "51.57.177.0/25",
     "ip_type": "IPv4",
     "service": "AzureMachineLearningInference",
     "region": ""
@@ -1801,6 +1813,12 @@
   },
   {
     "ip_address": "57.162.9.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearningInference",
+    "region": ""
+  },
+  {
+    "ip_address": "57.167.188.128/25",
     "ip_type": "IPv4",
     "service": "AzureMachineLearningInference",
     "region": ""
@@ -2503,6 +2521,12 @@
   },
   {
     "ip_address": "2603:1030:40c:d::7d0/125",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearningInference",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:40c:2b::c0/122",
     "ip_type": "IPv6",
     "service": "AzureMachineLearningInference",
     "region": ""

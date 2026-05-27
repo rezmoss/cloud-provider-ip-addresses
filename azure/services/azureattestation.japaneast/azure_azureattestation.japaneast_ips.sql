@@ -6,6 +6,8 @@ CREATE TABLE IF NOT EXISTS `azure_azureattestation.japaneast_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_azureattestation.japaneast_ips` (`ip_address`, `ip_type`) VALUES ('4.216.14.24/29', 'IPv4');
+INSERT INTO `azure_azureattestation.japaneast_ips` (`ip_address`, `ip_type`) VALUES ('4.216.14.32/30', 'IPv4');
 INSERT INTO `azure_azureattestation.japaneast_ips` (`ip_address`, `ip_type`) VALUES ('4.241.53.192/29', 'IPv4');
 INSERT INTO `azure_azureattestation.japaneast_ips` (`ip_address`, `ip_type`) VALUES ('20.191.161.220/30', 'IPv4');
 INSERT INTO `azure_azureattestation.japaneast_ips` (`ip_address`, `ip_type`) VALUES ('40.79.189.116/30', 'IPv4');

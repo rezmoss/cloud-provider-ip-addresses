@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "51.4.231.0/24",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.IsraelNorthwest",
+    "region": "israelnorthwest"
+  },
+  {
+    "ip_address": "51.58.144.0/25",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.IsraelNorthwest",
+    "region": "israelnorthwest"
+  }
+]

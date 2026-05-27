@@ -333,6 +333,7 @@ INSERT INTO `azure_azuremanagedgrafana_ips` (`ip_address`, `ip_type`) VALUES ('2
 INSERT INTO `azure_azuremanagedgrafana_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:b::2ae/128', 'IPv6');
 INSERT INTO `azure_azuremanagedgrafana_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:24::a8/126', 'IPv6');
 INSERT INTO `azure_azuremanagedgrafana_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:24::b0/124', 'IPv6');
+INSERT INTO `azure_azuremanagedgrafana_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:2b::a0/123', 'IPv6');
 INSERT INTO `azure_azuremanagedgrafana_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:504:7::260/127', 'IPv6');
 INSERT INTO `azure_azuremanagedgrafana_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:504:7::262/128', 'IPv6');
 INSERT INTO `azure_azuremanagedgrafana_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:504:14::2ec/126', 'IPv6');
@@ -420,6 +421,7 @@ INSERT INTO `azure_azuremanagedgrafana_ips` (`ip_address`, `ip_type`) VALUES ('2
 INSERT INTO `azure_azuremanagedgrafana_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1602:4::750/124', 'IPv6');
 INSERT INTO `azure_azuremanagedgrafana_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1702:4::564/126', 'IPv6');
 INSERT INTO `azure_azuremanagedgrafana_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1702:4::630/124', 'IPv6');
+INSERT INTO `azure_azuremanagedgrafana_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1702:5::400/123', 'IPv6');
 INSERT INTO `azure_azuremanagedgrafana_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1802:4::728/126', 'IPv6');
 INSERT INTO `azure_azuremanagedgrafana_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1802:4::730/124', 'IPv6');
 INSERT INTO `azure_azuremanagedgrafana_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1802:5::680/123', 'IPv6');

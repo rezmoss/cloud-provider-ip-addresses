@@ -7,4 +7,6 @@ CREATE TABLE IF NOT EXISTS `azure_actiongroup.israelnorthwest_ips` (
 );
 
 INSERT INTO `azure_actiongroup.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('51.4.160.24/30', 'IPv4');
+INSERT INTO `azure_actiongroup.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('51.4.224.16/30', 'IPv4');
+INSERT INTO `azure_actiongroup.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1702:5::2d8/125', 'IPv6');
 INSERT INTO `azure_actiongroup.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1702:400::40/125', 'IPv6');

@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "172.194.86.224/29",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.112.240/30",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1602:3::618/125",
+    "ip_type": "IPv6",
+    "service": "ServiceFabric.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1602:400::18/125",
+    "ip_type": "IPv6",
+    "service": "ServiceFabric.NortheastUS5",
+    "region": "northeastus5"
+  }
+]

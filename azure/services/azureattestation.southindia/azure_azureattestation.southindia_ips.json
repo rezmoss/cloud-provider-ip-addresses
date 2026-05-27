@@ -12,6 +12,18 @@
     "region": "southindia"
   },
   {
+    "ip_address": "74.224.224.208/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "74.224.224.216/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.SouthIndia",
+    "region": "southindia"
+  },
+  {
     "ip_address": "74.225.41.64/29",
     "ip_type": "IPv4",
     "service": "AzureAttestation.SouthIndia",

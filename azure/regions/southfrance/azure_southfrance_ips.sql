@@ -38,6 +38,8 @@ INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020
 INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('20.111.117.248/29', 'IPv4');
 INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('51.138.160.76/30', 'IPv4');
 INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('52.136.184.232/30', 'IPv4');
+INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('98.66.8.88/29', 'IPv4');
+INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('98.66.8.160/30', 'IPv4');
 INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:905:2::760/124', 'IPv6');
 INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('40.79.179.32/27', 'IPv4');
 INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('40.79.179.64/26', 'IPv4');

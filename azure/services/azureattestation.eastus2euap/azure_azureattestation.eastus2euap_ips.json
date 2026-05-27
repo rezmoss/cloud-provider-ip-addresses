@@ -16,5 +16,17 @@
     "ip_type": "IPv4",
     "service": "AzureAttestation.EastUS2EUAP",
     "region": "eastus2euap"
+  },
+  {
+    "ip_address": "48.223.84.48/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "48.223.84.56/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.EastUS2EUAP",
+    "region": "eastus2euap"
   }
 ]

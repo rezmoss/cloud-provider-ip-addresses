@@ -168,6 +168,18 @@
     "region": "southafricawest"
   },
   {
+    "ip_address": "172.209.117.156/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.SouthAfricaWest",
+    "region": "southafricawest"
+  },
+  {
+    "ip_address": "172.209.118.128/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.SouthAfricaWest",
+    "region": "southafricawest"
+  },
+  {
     "ip_address": "102.37.81.0/26",
     "ip_type": "IPv4",
     "service": "AzureBackup.SouthAfricaWest",

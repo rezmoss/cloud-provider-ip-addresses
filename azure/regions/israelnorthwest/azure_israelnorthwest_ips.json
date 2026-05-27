@@ -6,6 +6,18 @@
     "region": "israelnorthwest"
   },
   {
+    "ip_address": "51.4.224.16/30",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.IsraelNorthwest",
+    "region": "israelnorthwest"
+  },
+  {
+    "ip_address": "2603:1040:1702:5::2d8/125",
+    "ip_type": "IPv6",
+    "service": "ActionGroup.IsraelNorthwest",
+    "region": "israelnorthwest"
+  },
+  {
     "ip_address": "2603:1040:1702:400::40/125",
     "ip_type": "IPv6",
     "service": "ActionGroup.IsraelNorthwest",
@@ -60,13 +72,37 @@
     "region": "israelnorthwest"
   },
   {
+    "ip_address": "51.4.156.75/32",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.IsraelNorthwest",
+    "region": "israelnorthwest"
+  },
+  {
     "ip_address": "51.4.160.56/32",
     "ip_type": "IPv4",
     "service": "AzureArcInfrastructure.IsraelNorthwest",
     "region": "israelnorthwest"
   },
   {
+    "ip_address": "51.4.227.192/31",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.IsraelNorthwest",
+    "region": "israelnorthwest"
+  },
+  {
     "ip_address": "2603:1040:1702:2::20/124",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.IsraelNorthwest",
+    "region": "israelnorthwest"
+  },
+  {
+    "ip_address": "2603:1040:1702:5::37a/127",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.IsraelNorthwest",
+    "region": "israelnorthwest"
+  },
+  {
+    "ip_address": "2603:1040:1702:5::37c/128",
     "ip_type": "IPv6",
     "service": "AzureArcInfrastructure.IsraelNorthwest",
     "region": "israelnorthwest"
@@ -456,6 +492,12 @@
     "region": "israelnorthwest"
   },
   {
+    "ip_address": "51.4.227.176/28",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.IsraelNorthwest",
+    "region": "israelnorthwest"
+  },
+  {
     "ip_address": "20.217.254.0/25",
     "ip_type": "IPv4",
     "service": "ServiceBus.IsraelNorthwest",
@@ -576,6 +618,12 @@
     "region": "israelnorthwest"
   },
   {
+    "ip_address": "2603:1040:1702:5::480/121",
+    "ip_type": "IPv6",
+    "service": "DataFactory.IsraelNorthwest",
+    "region": "israelnorthwest"
+  },
+  {
     "ip_address": "2603:1040:1702:400::320/124",
     "ip_type": "IPv6",
     "service": "DataFactory.IsraelNorthwest",
@@ -660,8 +708,20 @@
     "region": "israelnorthwest"
   },
   {
+    "ip_address": "51.4.159.152/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry.IsraelNorthwest",
+    "region": "israelnorthwest"
+  },
+  {
     "ip_address": "51.4.160.0/29",
     "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry.IsraelNorthwest",
+    "region": "israelnorthwest"
+  },
+  {
+    "ip_address": "2603:1040:1702:5::2d0/125",
+    "ip_type": "IPv6",
     "service": "MicrosoftContainerRegistry.IsraelNorthwest",
     "region": "israelnorthwest"
   },
@@ -720,7 +780,31 @@
     "region": "israelnorthwest"
   },
   {
+    "ip_address": "51.4.231.0/24",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.IsraelNorthwest",
+    "region": "israelnorthwest"
+  },
+  {
+    "ip_address": "51.58.144.0/25",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.IsraelNorthwest",
+    "region": "israelnorthwest"
+  },
+  {
+    "ip_address": "51.4.230.0/25",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.IsraelNorthwest",
+    "region": "israelnorthwest"
+  },
+  {
     "ip_address": "20.217.248.40/29",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.IsraelNorthwest",
+    "region": "israelnorthwest"
+  },
+  {
+    "ip_address": "51.4.159.224/27",
     "ip_type": "IPv4",
     "service": "PowerQueryOnline.IsraelNorthwest",
     "region": "israelnorthwest"
@@ -732,8 +816,26 @@
     "region": "israelnorthwest"
   },
   {
+    "ip_address": "2603:1040:1702:5::200/122",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.IsraelNorthwest",
+    "region": "israelnorthwest"
+  },
+  {
     "ip_address": "51.4.160.12/30",
     "ip_type": "IPv4",
+    "service": "ServiceFabric.IsraelNorthwest",
+    "region": "israelnorthwest"
+  },
+  {
+    "ip_address": "51.4.224.24/29",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.IsraelNorthwest",
+    "region": "israelnorthwest"
+  },
+  {
+    "ip_address": "2603:1040:1702:5::360/125",
+    "ip_type": "IPv6",
     "service": "ServiceFabric.IsraelNorthwest",
     "region": "israelnorthwest"
   },
@@ -810,13 +912,19 @@
     "region": "israelnorthwest"
   },
   {
-    "ip_address": "20.20.116.128/29",
+    "ip_address": "20.20.116.128/28",
     "ip_type": "IPv4",
     "service": "AzureCloud.israelnorthwest",
     "region": "israelnorthwest"
   },
   {
-    "ip_address": "20.20.116.136/30",
+    "ip_address": "20.20.116.144/30",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.israelnorthwest",
+    "region": "israelnorthwest"
+  },
+  {
+    "ip_address": "20.20.116.148/31",
     "ip_type": "IPv4",
     "service": "AzureCloud.israelnorthwest",
     "region": "israelnorthwest"
@@ -1050,37 +1158,13 @@
     "region": "israelnorthwest"
   },
   {
-    "ip_address": "2603:1061:1015::/59",
+    "ip_address": "2603:1061:1015::/58",
     "ip_type": "IPv6",
     "service": "AzureCloud.israelnorthwest",
     "region": "israelnorthwest"
   },
   {
-    "ip_address": "2603:1061:1015:20::/60",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.israelnorthwest",
-    "region": "israelnorthwest"
-  },
-  {
-    "ip_address": "2603:1061:1015:30::/61",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.israelnorthwest",
-    "region": "israelnorthwest"
-  },
-  {
-    "ip_address": "2603:1061:1015:38::/62",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.israelnorthwest",
-    "region": "israelnorthwest"
-  },
-  {
-    "ip_address": "2603:1061:1015:3c::/63",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.israelnorthwest",
-    "region": "israelnorthwest"
-  },
-  {
-    "ip_address": "2603:1061:1015:3e::/64",
+    "ip_address": "2603:1061:1015:40::/62",
     "ip_type": "IPv6",
     "service": "AzureCloud.israelnorthwest",
     "region": "israelnorthwest"

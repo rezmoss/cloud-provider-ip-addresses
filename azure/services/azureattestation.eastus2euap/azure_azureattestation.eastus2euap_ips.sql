@@ -9,3 +9,5 @@ CREATE TABLE IF NOT EXISTS `azure_azureattestation.eastus2euap_ips` (
 INSERT INTO `azure_azureattestation.eastus2euap_ips` (`ip_address`, `ip_type`) VALUES ('20.51.20.80/30', 'IPv4');
 INSERT INTO `azure_azureattestation.eastus2euap_ips` (`ip_address`, `ip_type`) VALUES ('40.89.121.168/30', 'IPv4');
 INSERT INTO `azure_azureattestation.eastus2euap_ips` (`ip_address`, `ip_type`) VALUES ('48.223.29.136/29', 'IPv4');
+INSERT INTO `azure_azureattestation.eastus2euap_ips` (`ip_address`, `ip_type`) VALUES ('48.223.84.48/29', 'IPv4');
+INSERT INTO `azure_azureattestation.eastus2euap_ips` (`ip_address`, `ip_type`) VALUES ('48.223.84.56/30', 'IPv4');

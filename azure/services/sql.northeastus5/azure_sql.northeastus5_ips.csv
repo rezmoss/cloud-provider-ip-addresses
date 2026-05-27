@@ -1,0 +1,6 @@
+ip_address,ip_type,service,region
+172.194.84.96/27,IPv4,Sql.NortheastUS5,northeastus5
+172.194.84.128/27,IPv4,Sql.NortheastUS5,northeastus5
+172.194.84.192/26,IPv4,Sql.NortheastUS5,northeastus5
+2603:1030:1602:3::380/123,IPv6,Sql.NortheastUS5,northeastus5
+2603:1030:1602:3::400/121,IPv6,Sql.NortheastUS5,northeastus5

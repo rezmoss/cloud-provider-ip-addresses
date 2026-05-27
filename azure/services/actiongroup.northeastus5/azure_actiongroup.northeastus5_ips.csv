@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+172.194.86.168/30,IPv4,ActionGroup.NortheastUS5,northeastus5
+172.194.112.244/30,IPv4,ActionGroup.NortheastUS5,northeastus5
+2603:1030:1602:3::610/125,IPv6,ActionGroup.NortheastUS5,northeastus5
+2603:1030:1602:400::210/125,IPv6,ActionGroup.NortheastUS5,northeastus5

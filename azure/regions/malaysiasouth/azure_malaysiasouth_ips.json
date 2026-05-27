@@ -102,6 +102,18 @@
     "region": "malaysiasouth"
   },
   {
+    "ip_address": "172.197.29.36/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.MalaysiaSouth",
+    "region": "malaysiasouth"
+  },
+  {
+    "ip_address": "172.197.29.40/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.MalaysiaSouth",
+    "region": "malaysiasouth"
+  },
+  {
     "ip_address": "2603:1040:1503::620/124",
     "ip_type": "IPv6",
     "service": "AzureAttestation.MalaysiaSouth",
@@ -576,6 +588,12 @@
     "region": "malaysiasouth"
   },
   {
+    "ip_address": "172.197.29.160/28",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.MalaysiaSouth",
+    "region": "malaysiasouth"
+  },
+  {
     "ip_address": "20.17.54.0/25",
     "ip_type": "IPv4",
     "service": "ServiceBus.MalaysiaSouth",
@@ -819,6 +837,24 @@
     "ip_address": "2603:1040:1503:1::3c0/122",
     "ip_type": "IPv6",
     "service": "PowerBI.MalaysiaSouth",
+    "region": "malaysiasouth"
+  },
+  {
+    "ip_address": "172.197.31.0/24",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.MalaysiaSouth",
+    "region": "malaysiasouth"
+  },
+  {
+    "ip_address": "172.197.32.0/25",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.MalaysiaSouth",
+    "region": "malaysiasouth"
+  },
+  {
+    "ip_address": "172.197.30.0/25",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.MalaysiaSouth",
     "region": "malaysiasouth"
   },
   {

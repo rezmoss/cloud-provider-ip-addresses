@@ -260,6 +260,7 @@ INSERT INTO `azure_gatewaymanager_ips` (`ip_address`, `ip_type`) VALUES ('52.253
 INSERT INTO `azure_gatewaymanager_ips` (`ip_address`, `ip_type`) VALUES ('57.151.208.64/26', 'IPv4');
 INSERT INTO `azure_gatewaymanager_ips` (`ip_address`, `ip_type`) VALUES ('57.152.146.144/28', 'IPv4');
 INSERT INTO `azure_gatewaymanager_ips` (`ip_address`, `ip_type`) VALUES ('57.156.76.16/28', 'IPv4');
+INSERT INTO `azure_gatewaymanager_ips` (`ip_address`, `ip_type`) VALUES ('57.167.184.192/26', 'IPv4');
 INSERT INTO `azure_gatewaymanager_ips` (`ip_address`, `ip_type`) VALUES ('65.52.250.24/29', 'IPv4');
 INSERT INTO `azure_gatewaymanager_ips` (`ip_address`, `ip_type`) VALUES ('68.154.160.112/28', 'IPv4');
 INSERT INTO `azure_gatewaymanager_ips` (`ip_address`, `ip_type`) VALUES ('68.210.62.16/28', 'IPv4');

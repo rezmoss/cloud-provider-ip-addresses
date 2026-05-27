@@ -558,6 +558,18 @@
     "region": "uaenorth"
   },
   {
+    "ip_address": "57.157.108.0/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uaenorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "57.157.108.16/29",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uaenorth",
+    "region": "uaenorth"
+  },
+  {
     "ip_address": "65.52.248.0/21",
     "ip_type": "IPv4",
     "service": "AzureCloud.uaenorth",

@@ -1,2 +1,4 @@
 ip_address,ip_type,service,region
+158.158.140.128/25,IPv4,PowerPlatformInfra.SpainCentral,spaincentral
+158.158.141.0/24,IPv4,PowerPlatformInfra.SpainCentral,spaincentral
 2603:1061:2002:c000::/57,IPv6,PowerPlatformInfra.SpainCentral,spaincentral

@@ -13,4 +13,5 @@ INSERT INTO `azure_datafactory.israelnorthwest_ips` (`ip_address`, `ip_type`) VA
 INSERT INTO `azure_datafactory.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1702:2::280/121', 'IPv6');
 INSERT INTO `azure_datafactory.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1702:4::2f0/124', 'IPv6');
 INSERT INTO `azure_datafactory.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1702:4::480/125', 'IPv6');
+INSERT INTO `azure_datafactory.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1702:5::480/121', 'IPv6');
 INSERT INTO `azure_datafactory.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1702:400::320/124', 'IPv6');

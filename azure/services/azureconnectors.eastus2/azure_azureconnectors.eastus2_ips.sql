@@ -18,6 +18,8 @@ INSERT INTO `azure_azureconnectors.eastus2_ips` (`ip_address`, `ip_type`) VALUES
 INSERT INTO `azure_azureconnectors.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('52.184.245.14/32', 'IPv4');
 INSERT INTO `azure_azureconnectors.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('52.225.129.144/32', 'IPv4');
 INSERT INTO `azure_azureconnectors.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('52.232.188.154/32', 'IPv4');
+INSERT INTO `azure_azureconnectors.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('57.167.187.0/26', 'IPv4');
 INSERT INTO `azure_azureconnectors.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('104.209.247.23/32', 'IPv4');
 INSERT INTO `azure_azureconnectors.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('104.210.14.156/32', 'IPv4');
+INSERT INTO `azure_azureconnectors.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:2a::440/122', 'IPv6');
 INSERT INTO `azure_azureconnectors.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:402::180/122', 'IPv6');

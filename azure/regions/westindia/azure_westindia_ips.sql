@@ -43,7 +43,9 @@ INSERT INTO `azure_westindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:8
 INSERT INTO `azure_westindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:806:7::49a/127', 'IPv6');
 INSERT INTO `azure_westindia_ips` (`ip_address`, `ip_type`) VALUES ('20.38.132.24/30', 'IPv4');
 INSERT INTO `azure_westindia_ips` (`ip_address`, `ip_type`) VALUES ('52.136.53.132/30', 'IPv4');
+INSERT INTO `azure_westindia_ips` (`ip_address`, `ip_type`) VALUES ('57.159.150.128/29', 'IPv4');
 INSERT INTO `azure_westindia_ips` (`ip_address`, `ip_type`) VALUES ('57.159.158.32/29', 'IPv4');
+INSERT INTO `azure_westindia_ips` (`ip_address`, `ip_type`) VALUES ('57.159.172.4/30', 'IPv4');
 INSERT INTO `azure_westindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:806:3::1f0/124', 'IPv6');
 INSERT INTO `azure_westindia_ips` (`ip_address`, `ip_type`) VALUES ('20.192.80.64/26', 'IPv4');
 INSERT INTO `azure_westindia_ips` (`ip_address`, `ip_type`) VALUES ('104.211.147.0/26', 'IPv4');

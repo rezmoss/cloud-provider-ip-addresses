@@ -1,0 +1,21 @@
+-- SQL script to create table `azure_storage.northeastus5_ips` and insert IP addresses
+
+CREATE TABLE IF NOT EXISTS `azure_storage.northeastus5_ips` (
+  `ip_address` VARCHAR(45) NOT NULL,
+  `ip_type` VARCHAR(10) NOT NULL,
+  PRIMARY KEY (`ip_address`)
+);
+
+INSERT INTO `azure_storage.northeastus5_ips` (`ip_address`, `ip_type`) VALUES ('20.153.103.0/24', 'IPv4');
+INSERT INTO `azure_storage.northeastus5_ips` (`ip_address`, `ip_type`) VALUES ('57.163.0.0/23', 'IPv4');
+INSERT INTO `azure_storage.northeastus5_ips` (`ip_address`, `ip_type`) VALUES ('57.163.4.0/23', 'IPv4');
+INSERT INTO `azure_storage.northeastus5_ips` (`ip_address`, `ip_type`) VALUES ('135.130.98.0/23', 'IPv4');
+INSERT INTO `azure_storage.northeastus5_ips` (`ip_address`, `ip_type`) VALUES ('135.130.100.0/24', 'IPv4');
+INSERT INTO `azure_storage.northeastus5_ips` (`ip_address`, `ip_type`) VALUES ('135.130.190.0/23', 'IPv4');
+INSERT INTO `azure_storage.northeastus5_ips` (`ip_address`, `ip_type`) VALUES ('135.130.192.0/23', 'IPv4');
+INSERT INTO `azure_storage.northeastus5_ips` (`ip_address`, `ip_type`) VALUES ('135.130.198.0/23', 'IPv4');
+INSERT INTO `azure_storage.northeastus5_ips` (`ip_address`, `ip_type`) VALUES ('145.190.136.0/24', 'IPv4');
+INSERT INTO `azure_storage.northeastus5_ips` (`ip_address`, `ip_type`) VALUES ('145.190.138.0/23', 'IPv4');
+INSERT INTO `azure_storage.northeastus5_ips` (`ip_address`, `ip_type`) VALUES ('145.190.160.0/24', 'IPv4');
+INSERT INTO `azure_storage.northeastus5_ips` (`ip_address`, `ip_type`) VALUES ('145.190.166.0/24', 'IPv4');
+INSERT INTO `azure_storage.northeastus5_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1603::/48', 'IPv6');

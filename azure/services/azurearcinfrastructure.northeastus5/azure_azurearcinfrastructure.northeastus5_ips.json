@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "172.194.78.140/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.112.100/32",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1602:2::240/124",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.NortheastUS5",
+    "region": "northeastus5"
+  }
+]

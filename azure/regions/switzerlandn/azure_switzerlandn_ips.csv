@@ -39,6 +39,8 @@ ip_address,ip_type,service,region
 4.226.77.128/29,IPv4,AzureAttestation.SwitzerlandNorth,switzerlandn
 51.107.53.52/30,IPv4,AzureAttestation.SwitzerlandNorth,switzerlandn
 51.107.128.36/30,IPv4,AzureAttestation.SwitzerlandNorth,switzerlandn
+74.242.178.144/29,IPv4,AzureAttestation.SwitzerlandNorth,switzerlandn
+74.242.178.152/30,IPv4,AzureAttestation.SwitzerlandNorth,switzerlandn
 2603:1020:a04:2::530/124,IPv6,AzureAttestation.SwitzerlandNorth,switzerlandn
 20.208.19.0/26,IPv4,AzureBackup.SwitzerlandNorth,switzerlandn
 51.103.203.0/26,IPv4,AzureBackup.SwitzerlandNorth,switzerlandn
@@ -495,6 +497,9 @@ ip_address,ip_type,service,region
 52.253.165.0/24,IPv4,AzureCloud.switzerlandn,switzerlandn
 52.253.175.0/24,IPv4,AzureCloud.switzerlandn,switzerlandn
 52.253.176.0/24,IPv4,AzureCloud.switzerlandn,switzerlandn
+57.157.156.0/27,IPv4,AzureCloud.switzerlandn,switzerlandn
+57.157.156.32/29,IPv4,AzureCloud.switzerlandn,switzerlandn
+57.157.156.40/30,IPv4,AzureCloud.switzerlandn,switzerlandn
 70.152.29.0/24,IPv4,AzureCloud.switzerlandn,switzerlandn
 74.161.0.0/16,IPv4,AzureCloud.switzerlandn,switzerlandn
 74.242.128.0/17,IPv4,AzureCloud.switzerlandn,switzerlandn

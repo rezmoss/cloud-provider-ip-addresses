@@ -1,4 +1,6 @@
 ip_address,ip_type,service,region
+4.148.214.196/30,IPv4,AzureAttestation.WestUS3,westus3
+4.148.214.200/29,IPv4,AzureAttestation.WestUS3,westus3
 20.150.174.132/30,IPv4,AzureAttestation.WestUS3,westus3
 20.150.244.32/30,IPv4,AzureAttestation.WestUS3,westus3
 20.172.72.240/29,IPv4,AzureAttestation.WestUS3,westus3

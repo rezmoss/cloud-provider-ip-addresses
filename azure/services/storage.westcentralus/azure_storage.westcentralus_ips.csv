@@ -42,5 +42,6 @@ ip_address,ip_type,service,region
 135.130.212.0/23,IPv4,Storage.WestCentralUS,westcentralus
 135.130.214.0/23,IPv4,Storage.WestCentralUS,westcentralus
 145.190.137.0/24,IPv4,Storage.WestCentralUS,westcentralus
+145.190.177.0/24,IPv4,Storage.WestCentralUS,westcentralus
 2603:1030:b06::/49,IPv6,Storage.WestCentralUS,westcentralus
 2603:1030:b06:8000::/63,IPv6,Storage.WestCentralUS,westcentralus

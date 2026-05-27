@@ -1,6 +1,6 @@
 #!/bin/bash
 # Azure IP Ranges
-# Updated: 2026-05-16 03:16:58
+# Updated: 2026-05-27 03:20:55
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -33,6 +33,8 @@ ufw allow from 2603:1040:1402:3::2b0/124
 ufw allow from 2603:1040:1402:8::5e5/128
 ufw allow from 20.217.40.44/30
 ufw allow from 51.58.49.24/29
+ufw allow from 51.58.78.80/29
+ufw allow from 51.58.78.88/30
 ufw allow from 2603:1040:1402::620/124
 ufw allow from 20.217.44.0/26
 ufw allow from 20.217.59.64/26
@@ -282,9 +284,9 @@ ufw allow from 13.105.107.0/26
 ufw allow from 20.20.36.0/24
 ufw allow from 20.20.104.0/25
 ufw allow from 20.20.104.128/26
-ufw allow from 20.20.104.192/29
-ufw allow from 20.20.104.200/30
-ufw allow from 20.20.104.204/31
+ufw allow from 20.20.104.192/27
+ufw allow from 20.20.104.224/29
+ufw allow from 20.20.104.232/31
 ufw allow from 20.33.129.0/24
 ufw allow from 20.33.169.0/24
 ufw allow from 20.38.18.0/24
@@ -352,30 +354,12 @@ ufw allow from 2603:1046:a00:4e::/63
 ufw allow from 2603:1046:140d::/48
 ufw allow from 2603:1046:2000::/59
 ufw allow from 2603:1047:1:260::/59
-ufw allow from 2603:1061:1007::/59
-ufw allow from 2603:1061:1007:20::/60
-ufw allow from 2603:1061:1007:30::/62
-ufw allow from 2603:1061:1007:34::/64
-ufw allow from 2603:1061:1007:39::/64
-ufw allow from 2603:1061:1007:3a::/63
-ufw allow from 2603:1061:1007:3c::/62
-ufw allow from 2603:1061:1007:40::/60
-ufw allow from 2603:1061:1007:50::/61
-ufw allow from 2603:1061:1007:58::/63
-ufw allow from 2603:1061:1007:5a::/64
-ufw allow from 2603:1061:1007:5d::/64
-ufw allow from 2603:1061:1007:60::/63
-ufw allow from 2603:1061:1007:62::/64
-ufw allow from 2603:1061:1007:64::/63
-ufw allow from 2603:1061:1007:67::/64
-ufw allow from 2603:1061:1007:68::/61
-ufw allow from 2603:1061:1007:70::/60
+ufw allow from 2603:1061:1007::/57
 ufw allow from 2603:1061:1007:80::/58
-ufw allow from 2603:1061:1007:c0::/60
-ufw allow from 2603:1061:1007:d0::/61
-ufw allow from 2603:1061:1007:d8::/62
-ufw allow from 2603:1061:1007:dc::/63
-ufw allow from 2603:1061:1007:de::/64
+ufw allow from 2603:1061:1007:c0::/59
+ufw allow from 2603:1061:1007:e0::/61
+ufw allow from 2603:1061:1007:e8::/62
+ufw allow from 2603:1061:1007:ec::/64
 ufw allow from 2603:1061:1310:800::/54
 ufw allow from 2603:1061:1737::/48
 ufw allow from 2603:1061:2000:720::/62

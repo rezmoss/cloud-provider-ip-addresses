@@ -1,0 +1,3 @@
+ip_address,ip_type,service,region
+172.194.64.64/26,IPv4,GatewayManager.NortheastUS5,northeastus5
+2603:1030:1602::40/122,IPv6,GatewayManager.NortheastUS5,northeastus5

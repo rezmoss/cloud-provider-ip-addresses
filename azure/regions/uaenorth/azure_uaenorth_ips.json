@@ -222,6 +222,18 @@
     "region": "uaenorth"
   },
   {
+    "ip_address": "4.161.21.108/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.UAENorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "4.161.21.176/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.UAENorth",
+    "region": "uaenorth"
+  },
+  {
     "ip_address": "20.38.143.40/30",
     "ip_type": "IPv4",
     "service": "AzureAttestation.UAENorth",
@@ -3049,6 +3061,18 @@
   },
   {
     "ip_address": "57.150.230.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uaenorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "57.157.108.0/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uaenorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "57.157.108.16/29",
     "ip_type": "IPv4",
     "service": "AzureCloud.uaenorth",
     "region": "uaenorth"

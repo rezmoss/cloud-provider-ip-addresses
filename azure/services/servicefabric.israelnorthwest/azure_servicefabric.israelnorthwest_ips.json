@@ -6,6 +6,18 @@
     "region": "israelnorthwest"
   },
   {
+    "ip_address": "51.4.224.24/29",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.IsraelNorthwest",
+    "region": "israelnorthwest"
+  },
+  {
+    "ip_address": "2603:1040:1702:5::360/125",
+    "ip_type": "IPv6",
+    "service": "ServiceFabric.IsraelNorthwest",
+    "region": "israelnorthwest"
+  },
+  {
     "ip_address": "2603:1040:1702:400::18/125",
     "ip_type": "IPv6",
     "service": "ServiceFabric.IsraelNorthwest",

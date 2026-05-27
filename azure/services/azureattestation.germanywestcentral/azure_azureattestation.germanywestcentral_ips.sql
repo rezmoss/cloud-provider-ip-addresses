@@ -7,5 +7,7 @@ CREATE TABLE IF NOT EXISTS `azure_azureattestation.germanywestcentral_ips` (
 );
 
 INSERT INTO `azure_azureattestation.germanywestcentral_ips` (`ip_address`, `ip_type`) VALUES ('4.185.224.248/29', 'IPv4');
+INSERT INTO `azure_azureattestation.germanywestcentral_ips` (`ip_address`, `ip_type`) VALUES ('48.203.101.80/29', 'IPv4');
+INSERT INTO `azure_azureattestation.germanywestcentral_ips` (`ip_address`, `ip_type`) VALUES ('48.203.101.88/30', 'IPv4');
 INSERT INTO `azure_azureattestation.germanywestcentral_ips` (`ip_address`, `ip_type`) VALUES ('51.116.149.224/30', 'IPv4');
 INSERT INTO `azure_azureattestation.germanywestcentral_ips` (`ip_address`, `ip_type`) VALUES ('51.116.246.16/30', 'IPv4');

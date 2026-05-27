@@ -18,6 +18,18 @@
     "region": "switzerlandn"
   },
   {
+    "ip_address": "74.242.178.144/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "74.242.178.152/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
     "ip_address": "2603:1020:a04:2::530/124",
     "ip_type": "IPv6",
     "service": "AzureAttestation.SwitzerlandNorth",

@@ -21,6 +21,7 @@ INSERT INTO `azure_azurecontainerregistry.eastus2_ips` (`ip_address`, `ip_type`)
 INSERT INTO `azure_azurecontainerregistry.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('172.210.216.64/26', 'IPv4');
 INSERT INTO `azure_azurecontainerregistry.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('172.210.218.0/25', 'IPv4');
 INSERT INTO `azure_azurecontainerregistry.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:d::400/122', 'IPv6');
+INSERT INTO `azure_azurecontainerregistry.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:2a::700/121', 'IPv6');
 INSERT INTO `azure_azurecontainerregistry.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:402::90/125', 'IPv6');
 INSERT INTO `azure_azurecontainerregistry.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:402::340/122', 'IPv6');
 INSERT INTO `azure_azurecontainerregistry.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:402::580/121', 'IPv6');

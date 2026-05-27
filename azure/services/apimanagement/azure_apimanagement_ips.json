@@ -1200,6 +1200,12 @@
     "region": ""
   },
   {
+    "ip_address": "57.167.184.176/28",
+    "ip_type": "IPv4",
+    "service": "ApiManagement",
+    "region": ""
+  },
+  {
     "ip_address": "65.52.115.58/32",
     "ip_type": "IPv4",
     "service": "ApiManagement",
@@ -1825,6 +1831,12 @@
   },
   {
     "ip_address": "2603:1030:40b:400::940/124",
+    "ip_type": "IPv6",
+    "service": "ApiManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:40c:29::5c0/124",
     "ip_type": "IPv6",
     "service": "ApiManagement",
     "region": ""

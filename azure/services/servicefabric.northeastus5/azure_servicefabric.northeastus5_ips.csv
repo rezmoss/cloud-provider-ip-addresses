@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+172.194.86.224/29,IPv4,ServiceFabric.NortheastUS5,northeastus5
+172.194.112.240/30,IPv4,ServiceFabric.NortheastUS5,northeastus5
+2603:1030:1602:3::618/125,IPv6,ServiceFabric.NortheastUS5,northeastus5
+2603:1030:1602:400::18/125,IPv6,ServiceFabric.NortheastUS5,northeastus5

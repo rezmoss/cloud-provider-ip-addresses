@@ -35,6 +35,8 @@ ip_address,ip_type,service,region
 51.12.229.232/30,IPv4,AzureArcInfrastructure.SwedenCentral,swedencentral
 2603:1020:1004:d::285/128,IPv6,AzureArcInfrastructure.SwedenCentral,swedencentral
 4.223.182.184/29,IPv4,AzureAttestation.SwedenCentral,swedencentral
+4.223.199.84/30,IPv4,AzureAttestation.SwedenCentral,swedencentral
+4.223.199.88/29,IPv4,AzureAttestation.SwedenCentral,swedencentral
 51.12.46.224/30,IPv4,AzureAttestation.SwedenCentral,swedencentral
 2603:1020:1004:1::720/123,IPv6,AzureAttestation.SwedenCentral,swedencentral
 4.166.35.241/32,IPv4,AzureBackup.SwedenCentral,swedencentral
@@ -533,7 +535,7 @@ ip_address,ip_type,service,region
 57.157.68.0/24,IPv4,AzureCloud.swedencentral,swedencentral
 57.157.69.0/25,IPv4,AzureCloud.swedencentral,swedencentral
 57.157.69.128/29,IPv4,AzureCloud.swedencentral,swedencentral
-57.157.69.136/31,IPv4,AzureCloud.swedencentral,swedencentral
+57.157.69.136/30,IPv4,AzureCloud.swedencentral,swedencentral
 57.163.6.0/23,IPv4,AzureCloud.swedencentral,swedencentral
 70.152.27.0/24,IPv4,AzureCloud.swedencentral,swedencentral
 70.152.61.0/24,IPv4,AzureCloud.swedencentral,swedencentral
@@ -545,6 +547,7 @@ ip_address,ip_type,service,region
 135.116.0.0/16,IPv4,AzureCloud.swedencentral,swedencentral
 135.130.110.0/23,IPv4,AzureCloud.swedencentral,swedencentral
 135.225.0.0/16,IPv4,AzureCloud.swedencentral,swedencentral
+145.190.77.0/24,IPv4,AzureCloud.swedencentral,swedencentral
 145.190.140.0/24,IPv4,AzureCloud.swedencentral,swedencentral
 145.190.164.0/24,IPv4,AzureCloud.swedencentral,swedencentral
 151.206.112.0/24,IPv4,AzureCloud.swedencentral,swedencentral

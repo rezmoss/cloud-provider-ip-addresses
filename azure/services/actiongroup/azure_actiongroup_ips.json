@@ -738,6 +738,12 @@
     "region": ""
   },
   {
+    "ip_address": "51.4.224.16/30",
+    "ip_type": "IPv4",
+    "service": "ActionGroup",
+    "region": ""
+  },
+  {
     "ip_address": "51.12.101.172/30",
     "ip_type": "IPv4",
     "service": "ActionGroup",
@@ -769,6 +775,12 @@
   },
   {
     "ip_address": "51.53.186.88/30",
+    "ip_type": "IPv4",
+    "service": "ActionGroup",
+    "region": ""
+  },
+  {
+    "ip_address": "51.57.176.156/30",
     "ip_type": "IPv4",
     "service": "ActionGroup",
     "region": ""
@@ -1506,6 +1518,12 @@
     "region": ""
   },
   {
+    "ip_address": "2603:1030:40c:2b::40/125",
+    "ip_type": "IPv6",
+    "service": "ActionGroup",
+    "region": ""
+  },
+  {
     "ip_address": "2603:1030:40c:402::178/125",
     "ip_type": "IPv6",
     "service": "ActionGroup",
@@ -1909,6 +1927,12 @@
   },
   {
     "ip_address": "2603:1040:1602:400::40/125",
+    "ip_type": "IPv6",
+    "service": "ActionGroup",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1040:1702:5::2d8/125",
     "ip_type": "IPv6",
     "service": "ActionGroup",
     "region": ""

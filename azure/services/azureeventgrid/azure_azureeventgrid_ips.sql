@@ -135,6 +135,7 @@ INSERT INTO `azure_azureeventgrid_ips` (`ip_address`, `ip_type`) VALUES ('20.102
 INSERT INTO `azure_azureeventgrid_ips` (`ip_address`, `ip_type`) VALUES ('20.102.243.152/32', 'IPv4');
 INSERT INTO `azure_azureeventgrid_ips` (`ip_address`, `ip_type`) VALUES ('20.104.130.115/32', 'IPv4');
 INSERT INTO `azure_azureeventgrid_ips` (`ip_address`, `ip_type`) VALUES ('20.105.122.57/32', 'IPv4');
+INSERT INTO `azure_azureeventgrid_ips` (`ip_address`, `ip_type`) VALUES ('20.111.136.0/25', 'IPv4');
 INSERT INTO `azure_azureeventgrid_ips` (`ip_address`, `ip_type`) VALUES ('20.112.150.125/32', 'IPv4');
 INSERT INTO `azure_azureeventgrid_ips` (`ip_address`, `ip_type`) VALUES ('20.112.152.184/32', 'IPv4');
 INSERT INTO `azure_azureeventgrid_ips` (`ip_address`, `ip_type`) VALUES ('20.112.153.189/32', 'IPv4');

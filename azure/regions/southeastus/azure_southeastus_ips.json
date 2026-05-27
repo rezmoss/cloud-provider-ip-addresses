@@ -510,6 +510,12 @@
     "region": "southeastus"
   },
   {
+    "ip_address": "68.154.163.144/28",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
     "ip_address": "57.151.214.0/25",
     "ip_type": "IPv4",
     "service": "ServiceBus.SoutheastUS",

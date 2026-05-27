@@ -84,6 +84,12 @@
     "region": "taiwannorth"
   },
   {
+    "ip_address": "70.157.170.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
     "ip_address": "167.105.106.8/29",
     "ip_type": "IPv4",
     "service": "AzureMonitor.TaiwanNorth",
@@ -133,6 +139,12 @@
   },
   {
     "ip_address": "2603:1040:1302:7::20/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1040:1302:7::500/122",
     "ip_type": "IPv6",
     "service": "AzureMonitor.TaiwanNorth",
     "region": "taiwannorth"

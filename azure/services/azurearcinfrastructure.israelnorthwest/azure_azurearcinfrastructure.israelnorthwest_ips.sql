@@ -8,5 +8,9 @@ CREATE TABLE IF NOT EXISTS `azure_azurearcinfrastructure.israelnorthwest_ips` (
 
 INSERT INTO `azure_azurearcinfrastructure.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('51.4.131.208/30', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('51.4.147.195/32', 'IPv4');
+INSERT INTO `azure_azurearcinfrastructure.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('51.4.156.75/32', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('51.4.160.56/32', 'IPv4');
+INSERT INTO `azure_azurearcinfrastructure.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('51.4.227.192/31', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1702:2::20/124', 'IPv6');
+INSERT INTO `azure_azurearcinfrastructure.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1702:5::37a/127', 'IPv6');
+INSERT INTO `azure_azurearcinfrastructure.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1702:5::37c/128', 'IPv6');

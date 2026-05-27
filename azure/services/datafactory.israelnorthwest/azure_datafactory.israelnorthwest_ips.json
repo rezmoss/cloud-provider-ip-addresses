@@ -42,6 +42,12 @@
     "region": "israelnorthwest"
   },
   {
+    "ip_address": "2603:1040:1702:5::480/121",
+    "ip_type": "IPv6",
+    "service": "DataFactory.IsraelNorthwest",
+    "region": "israelnorthwest"
+  },
+  {
     "ip_address": "2603:1040:1702:400::320/124",
     "ip_type": "IPv6",
     "service": "DataFactory.IsraelNorthwest",

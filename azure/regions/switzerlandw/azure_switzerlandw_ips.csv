@@ -36,6 +36,8 @@ ip_address,ip_type,service,region
 4.226.197.72/29,IPv4,AzureAttestation.SwitzerlandWest,switzerlandw
 51.107.192.152/30,IPv4,AzureAttestation.SwitzerlandWest,switzerlandw
 51.107.250.40/30,IPv4,AzureAttestation.SwitzerlandWest,switzerlandw
+57.160.5.108/30,IPv4,AzureAttestation.SwitzerlandWest,switzerlandw
+57.160.5.160/29,IPv4,AzureAttestation.SwitzerlandWest,switzerlandw
 2603:1020:b04:5::b0/124,IPv6,AzureAttestation.SwitzerlandWest,switzerlandw
 51.107.155.64/26,IPv4,AzureBackup.SwitzerlandWest,switzerlandw
 51.107.155.128/27,IPv4,AzureBackup.SwitzerlandWest,switzerlandw

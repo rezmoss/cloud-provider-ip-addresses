@@ -48,6 +48,12 @@
     "region": "eastus2euap"
   },
   {
+    "ip_address": "72.147.54.32/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
     "ip_address": "172.173.46.160/27",
     "ip_type": "IPv4",
     "service": "DataFactory.EastUS2EUAP",

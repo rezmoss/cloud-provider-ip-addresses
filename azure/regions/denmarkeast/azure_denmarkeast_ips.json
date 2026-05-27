@@ -894,6 +894,24 @@
     "region": "denmarkeast"
   },
   {
+    "ip_address": "9.205.180.128/25",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.DenmarkEast",
+    "region": "denmarkeast"
+  },
+  {
+    "ip_address": "9.205.181.0/24",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.DenmarkEast",
+    "region": "denmarkeast"
+  },
+  {
+    "ip_address": "9.205.179.128/25",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.DenmarkEast",
+    "region": "denmarkeast"
+  },
+  {
     "ip_address": "9.205.32.40/29",
     "ip_type": "IPv4",
     "service": "PowerQueryOnline.DenmarkEast",
@@ -978,13 +996,7 @@
     "region": "denmarkeast"
   },
   {
-    "ip_address": "9.205.0.0/17",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.denmarkeast",
-    "region": "denmarkeast"
-  },
-  {
-    "ip_address": "9.205.128.0/18",
+    "ip_address": "9.205.0.0/16",
     "ip_type": "IPv4",
     "service": "AzureCloud.denmarkeast",
     "region": "denmarkeast"

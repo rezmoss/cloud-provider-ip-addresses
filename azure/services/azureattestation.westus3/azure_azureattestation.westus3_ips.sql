@@ -6,6 +6,8 @@ CREATE TABLE IF NOT EXISTS `azure_azureattestation.westus3_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_azureattestation.westus3_ips` (`ip_address`, `ip_type`) VALUES ('4.148.214.196/30', 'IPv4');
+INSERT INTO `azure_azureattestation.westus3_ips` (`ip_address`, `ip_type`) VALUES ('4.148.214.200/29', 'IPv4');
 INSERT INTO `azure_azureattestation.westus3_ips` (`ip_address`, `ip_type`) VALUES ('20.150.174.132/30', 'IPv4');
 INSERT INTO `azure_azureattestation.westus3_ips` (`ip_address`, `ip_type`) VALUES ('20.150.244.32/30', 'IPv4');
 INSERT INTO `azure_azureattestation.westus3_ips` (`ip_address`, `ip_type`) VALUES ('20.172.72.240/29', 'IPv4');

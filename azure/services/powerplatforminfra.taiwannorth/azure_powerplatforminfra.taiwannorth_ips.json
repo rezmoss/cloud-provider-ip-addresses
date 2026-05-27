@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "70.157.171.128/25",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "70.157.172.0/24",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.TaiwanNorth",
+    "region": "taiwannorth"
+  }
+]

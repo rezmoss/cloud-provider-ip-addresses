@@ -1,4 +1,6 @@
 ip_address,ip_type,service,region
+4.161.21.108/30,IPv4,AzureAttestation.UAENorth,uaenorth
+4.161.21.176/29,IPv4,AzureAttestation.UAENorth,uaenorth
 20.38.143.40/30,IPv4,AzureAttestation.UAENorth,uaenorth
 20.174.245.112/29,IPv4,AzureAttestation.UAENorth,uaenorth
 40.120.75.60/30,IPv4,AzureAttestation.UAENorth,uaenorth

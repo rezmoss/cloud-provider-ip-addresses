@@ -1,0 +1,8 @@
+[
+  {
+    "ip_address": "57.170.0.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.TaiwanNorthwest",
+    "region": "taiwannorthwest"
+  }
+]

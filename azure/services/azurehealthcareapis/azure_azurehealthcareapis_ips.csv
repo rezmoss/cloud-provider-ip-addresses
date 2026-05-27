@@ -255,6 +255,7 @@ ip_address,ip_type,service,region
 57.151.212.192/27,IPv4,AzureHealthcareAPIs,
 57.159.169.79/32,IPv4,AzureHealthcareAPIs,
 57.159.169.184/30,IPv4,AzureHealthcareAPIs,
+57.167.185.160/27,IPv4,AzureHealthcareAPIs,
 65.52.252.248/31,IPv4,AzureHealthcareAPIs,
 68.210.164.128/27,IPv4,AzureHealthcareAPIs,
 68.211.5.0/27,IPv4,AzureHealthcareAPIs,

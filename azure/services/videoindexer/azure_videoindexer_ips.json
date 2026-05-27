@@ -1188,6 +1188,12 @@
     "region": ""
   },
   {
+    "ip_address": "2603:1030:40c:2a::1a0/124",
+    "ip_type": "IPv6",
+    "service": "VideoIndexer",
+    "region": ""
+  },
+  {
     "ip_address": "2603:1030:504:4::250/124",
     "ip_type": "IPv6",
     "service": "VideoIndexer",

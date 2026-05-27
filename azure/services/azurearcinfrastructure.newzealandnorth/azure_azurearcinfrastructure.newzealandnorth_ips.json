@@ -1,5 +1,17 @@
 [
   {
+    "ip_address": "172.196.79.54/31",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.196.79.56/32",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
     "ip_address": "172.204.165.72/30",
     "ip_type": "IPv4",
     "service": "AzureArcInfrastructure.NewZealandNorth",
@@ -19,6 +31,18 @@
   },
   {
     "ip_address": "2603:1010:502:2::130/124",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1010:502:5::64f/128",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1010:502:6::296/127",
     "ip_type": "IPv6",
     "service": "AzureArcInfrastructure.NewZealandNorth",
     "region": "newzealandnorth"

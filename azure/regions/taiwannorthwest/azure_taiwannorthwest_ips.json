@@ -102,7 +102,19 @@
     "region": "taiwannorthwest"
   },
   {
+    "ip_address": "57.170.0.64/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.TaiwanNorthwest",
+    "region": "taiwannorthwest"
+  },
+  {
     "ip_address": "167.105.220.112/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.TaiwanNorthwest",
+    "region": "taiwannorthwest"
+  },
+  {
+    "ip_address": "167.105.254.248/29",
     "ip_type": "IPv4",
     "service": "AzureAttestation.TaiwanNorthwest",
     "region": "taiwannorthwest"
@@ -594,6 +606,12 @@
     "region": "taiwannorthwest"
   },
   {
+    "ip_address": "57.170.0.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.TaiwanNorthwest",
+    "region": "taiwannorthwest"
+  },
+  {
     "ip_address": "51.53.174.0/25",
     "ip_type": "IPv4",
     "service": "ServiceBus.TaiwanNorthwest",
@@ -963,6 +981,24 @@
     "ip_address": "2603:1040:1202:1::380/122",
     "ip_type": "IPv6",
     "service": "PowerBI.TaiwanNorthwest",
+    "region": "taiwannorthwest"
+  },
+  {
+    "ip_address": "57.170.1.128/25",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.TaiwanNorthwest",
+    "region": "taiwannorthwest"
+  },
+  {
+    "ip_address": "57.170.2.0/24",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.TaiwanNorthwest",
+    "region": "taiwannorthwest"
+  },
+  {
+    "ip_address": "57.170.0.128/25",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.TaiwanNorthwest",
     "region": "taiwannorthwest"
   },
   {

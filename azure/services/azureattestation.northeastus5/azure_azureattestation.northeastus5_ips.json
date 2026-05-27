@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "172.194.64.20/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.90.220/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.91.24/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1602::7a0/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.NortheastUS5",
+    "region": "northeastus5"
+  }
+]

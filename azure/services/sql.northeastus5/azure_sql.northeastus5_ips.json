@@ -1,0 +1,32 @@
+[
+  {
+    "ip_address": "172.194.84.96/27",
+    "ip_type": "IPv4",
+    "service": "Sql.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.84.128/27",
+    "ip_type": "IPv4",
+    "service": "Sql.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "172.194.84.192/26",
+    "ip_type": "IPv4",
+    "service": "Sql.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1602:3::380/123",
+    "ip_type": "IPv6",
+    "service": "Sql.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1602:3::400/121",
+    "ip_type": "IPv6",
+    "service": "Sql.NortheastUS5",
+    "region": "northeastus5"
+  }
+]
