@@ -1,6 +1,6 @@
 #!/bin/bash
 # Googlebot IP Ranges
-# Updated: 2026-05-07 00:40:32
+# Updated: 2026-05-28 03:22:27
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -110,6 +110,7 @@ ip6tables -A INPUT -s 2001:4860:4801:7a::/64 -j ACCEPT
 ip6tables -A INPUT -s 2001:4860:4801:7b::/64 -j ACCEPT
 ip6tables -A INPUT -s 2001:4860:4801:7c::/64 -j ACCEPT
 ip6tables -A INPUT -s 2001:4860:4801:7d::/64 -j ACCEPT
+ip6tables -A INPUT -s 2001:4860:4801:7e::/64 -j ACCEPT
 ip6tables -A INPUT -s 2001:4860:4801:80::/64 -j ACCEPT
 ip6tables -A INPUT -s 2001:4860:4801:81::/64 -j ACCEPT
 ip6tables -A INPUT -s 2001:4860:4801:82::/64 -j ACCEPT
@@ -308,6 +309,7 @@ iptables -A INPUT -s 66.249.77.96/27 -j ACCEPT
 iptables -A INPUT -s 66.249.78.0/27 -j ACCEPT
 iptables -A INPUT -s 66.249.78.128/27 -j ACCEPT
 iptables -A INPUT -s 66.249.78.160/27 -j ACCEPT
+iptables -A INPUT -s 66.249.78.192/27 -j ACCEPT
 iptables -A INPUT -s 66.249.78.32/27 -j ACCEPT
 iptables -A INPUT -s 66.249.78.64/27 -j ACCEPT
 iptables -A INPUT -s 66.249.78.96/27 -j ACCEPT

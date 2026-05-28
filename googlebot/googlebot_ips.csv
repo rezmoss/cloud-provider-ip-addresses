@@ -102,6 +102,7 @@ ip_address,ip_type,service
 2001:4860:4801:7b::/64,IPv6,googlebot
 2001:4860:4801:7c::/64,IPv6,googlebot
 2001:4860:4801:7d::/64,IPv6,googlebot
+2001:4860:4801:7e::/64,IPv6,googlebot
 2001:4860:4801:80::/64,IPv6,googlebot
 2001:4860:4801:81::/64,IPv6,googlebot
 2001:4860:4801:82::/64,IPv6,googlebot
@@ -300,6 +301,7 @@ ip_address,ip_type,service
 66.249.78.0/27,IPv4,googlebot
 66.249.78.128/27,IPv4,googlebot
 66.249.78.160/27,IPv4,googlebot
+66.249.78.192/27,IPv4,googlebot
 66.249.78.32/27,IPv4,googlebot
 66.249.78.64/27,IPv4,googlebot
 66.249.78.96/27,IPv4,googlebot

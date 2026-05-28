@@ -497,3 +497,4 @@ INSERT INTO `vultr_ips` (`ip_address`, `ip_type`) VALUES ('2a05:f480:3800::/38',
 INSERT INTO `vultr_ips` (`ip_address`, `ip_type`) VALUES ('2001:19f0:9c00::/38', 'IPv6');
 INSERT INTO `vultr_ips` (`ip_address`, `ip_type`) VALUES ('2001:19f0:5404::/48', 'IPv6');
 INSERT INTO `vultr_ips` (`ip_address`, `ip_type`) VALUES ('2a05:f487:fc00::/48', 'IPv6');
+INSERT INTO `vultr_ips` (`ip_address`, `ip_type`) VALUES ('2a05:f487:fc00::/38', 'IPv6');

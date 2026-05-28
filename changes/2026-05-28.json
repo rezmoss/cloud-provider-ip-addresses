@@ -1,0 +1,31 @@
+{
+  "date": "2026-05-28",
+  "changes": {
+    "vultr": {
+      "added": [
+        "2a05:f487:fc00::/38"
+      ],
+      "removed": [],
+      "added_count": 1,
+      "removed_count": 0
+    },
+    "googlebot": {
+      "added": [
+        "2001:4860:4801:7e::/64",
+        "66.249.78.192/27"
+      ],
+      "removed": [],
+      "added_count": 2,
+      "removed_count": 0
+    },
+    "aws": {
+      "added": [
+        "2631:1:10b::/48",
+        "2631:1:10c::/48"
+      ],
+      "removed": [],
+      "added_count": 2,
+      "removed_count": 0
+    }
+  }
+}
