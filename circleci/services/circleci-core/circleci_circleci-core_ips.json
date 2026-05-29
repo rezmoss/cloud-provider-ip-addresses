@@ -1,36 +1,6 @@
 [
   {
-    "ip_address": "3.210.128.175/32",
-    "ip_type": "IPv4",
-    "service": "circleci-core",
-    "region": "global"
-  },
-  {
-    "ip_address": "52.20.166.242/32",
-    "ip_type": "IPv4",
-    "service": "circleci-core",
-    "region": "global"
-  },
-  {
-    "ip_address": "18.214.70.5/32",
-    "ip_type": "IPv4",
-    "service": "circleci-core",
-    "region": "global"
-  },
-  {
-    "ip_address": "35.174.249.131/32",
-    "ip_type": "IPv4",
-    "service": "circleci-core",
-    "region": "global"
-  },
-  {
-    "ip_address": "52.22.215.219/32",
-    "ip_type": "IPv4",
-    "service": "circleci-core",
-    "region": "global"
-  },
-  {
-    "ip_address": "52.6.77.249/32",
+    "ip_address": "34.197.216.176/32",
     "ip_type": "IPv4",
     "service": "circleci-core",
     "region": "global"
@@ -42,19 +12,49 @@
     "region": "global"
   },
   {
-    "ip_address": "34.197.216.176/32",
-    "ip_type": "IPv4",
-    "service": "circleci-core",
-    "region": "global"
-  },
-  {
     "ip_address": "18.214.156.84/32",
     "ip_type": "IPv4",
     "service": "circleci-core",
     "region": "global"
   },
   {
+    "ip_address": "52.6.77.249/32",
+    "ip_type": "IPv4",
+    "service": "circleci-core",
+    "region": "global"
+  },
+  {
+    "ip_address": "52.20.166.242/32",
+    "ip_type": "IPv4",
+    "service": "circleci-core",
+    "region": "global"
+  },
+  {
+    "ip_address": "52.22.215.219/32",
+    "ip_type": "IPv4",
+    "service": "circleci-core",
+    "region": "global"
+  },
+  {
+    "ip_address": "18.214.70.5/32",
+    "ip_type": "IPv4",
+    "service": "circleci-core",
+    "region": "global"
+  },
+  {
+    "ip_address": "3.210.128.175/32",
+    "ip_type": "IPv4",
+    "service": "circleci-core",
+    "region": "global"
+  },
+  {
     "ip_address": "52.206.105.184/32",
+    "ip_type": "IPv4",
+    "service": "circleci-core",
+    "region": "global"
+  },
+  {
+    "ip_address": "35.174.249.131/32",
     "ip_type": "IPv4",
     "service": "circleci-core",
     "region": "global"

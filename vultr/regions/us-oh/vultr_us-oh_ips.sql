@@ -8,3 +8,4 @@ CREATE TABLE IF NOT EXISTS `vultr_us-oh_ips` (
 
 INSERT INTO `vultr_us-oh_ips` (`ip_address`, `ip_type`) VALUES ('64.177.96.0/20', 'IPv4');
 INSERT INTO `vultr_us-oh_ips` (`ip_address`, `ip_type`) VALUES ('2001:19f0:9c00::/38', 'IPv6');
+INSERT INTO `vultr_us-oh_ips` (`ip_address`, `ip_type`) VALUES ('2a05:f487:fc36::/48', 'IPv6');
