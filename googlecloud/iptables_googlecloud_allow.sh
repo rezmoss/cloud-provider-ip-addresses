@@ -1,6 +1,6 @@
 #!/bin/bash
 # Googlecloud IP Ranges
-# Updated: 2026-05-19 03:18:55
+# Updated: 2026-06-01 03:22:19
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -138,7 +138,9 @@ iptables -A INPUT -s 34.177.32.0/22 -j ACCEPT
 iptables -A INPUT -s 34.177.74.0/23 -j ACCEPT
 iptables -A INPUT -s 34.180.0.0/18 -j ACCEPT
 iptables -A INPUT -s 34.183.36.0/24 -j ACCEPT
+iptables -A INPUT -s 34.183.106.0/23 -j ACCEPT
 iptables -A INPUT -s 34.184.35.0/24 -j ACCEPT
+iptables -A INPUT -s 34.184.106.0/23 -j ACCEPT
 iptables -A INPUT -s 35.200.128.0/17 -j ACCEPT
 iptables -A INPUT -s 35.201.41.0/24 -j ACCEPT
 iptables -A INPUT -s 35.207.192.0/18 -j ACCEPT
@@ -528,6 +530,8 @@ iptables -A INPUT -s 130.211.4.0/22 -j ACCEPT
 iptables -A INPUT -s 130.211.8.0/21 -j ACCEPT
 iptables -A INPUT -s 130.211.16.0/20 -j ACCEPT
 iptables -A INPUT -s 130.211.32.0/20 -j ACCEPT
+iptables -A INPUT -s 136.68.0.0/16 -j ACCEPT
+iptables -A INPUT -s 136.69.0.0/17 -j ACCEPT
 iptables -A INPUT -s 136.110.128.0/17 -j ACCEPT
 ip6tables -A INPUT -s 2600:1901::/48 -j ACCEPT
 iptables -A INPUT -s 34.1.32.0/20 -j ACCEPT
@@ -838,6 +842,7 @@ iptables -A INPUT -s 35.236.192.0/18 -j ACCEPT
 iptables -A INPUT -s 35.242.60.0/22 -j ACCEPT
 iptables -A INPUT -s 35.243.40.0/21 -j ACCEPT
 iptables -A INPUT -s 35.245.0.0/16 -j ACCEPT
+iptables -A INPUT -s 136.23.64.0/19 -j ACCEPT
 iptables -A INPUT -s 136.107.0.0/16 -j ACCEPT
 ip6tables -A INPUT -s 2600:1900:4090::/44 -j ACCEPT
 iptables -A INPUT -s 8.231.32.0/20 -j ACCEPT
@@ -860,6 +865,8 @@ iptables -A INPUT -s 34.127.184.0/23 -j ACCEPT
 iptables -A INPUT -s 34.152.110.192/26 -j ACCEPT
 iptables -A INPUT -s 34.157.219.192/26 -j ACCEPT
 iptables -A INPUT -s 34.161.0.0/16 -j ACCEPT
+iptables -A INPUT -s 34.183.105.0/24 -j ACCEPT
+iptables -A INPUT -s 34.184.104.0/24 -j ACCEPT
 iptables -A INPUT -s 35.206.10.0/23 -j ACCEPT
 ip6tables -A INPUT -s 2600:1901:8150::/44 -j ACCEPT
 iptables -A INPUT -s 8.230.96.0/19 -j ACCEPT
@@ -921,6 +928,8 @@ iptables -A INPUT -s 104.198.0.0/20 -j ACCEPT
 iptables -A INPUT -s 104.198.96.0/20 -j ACCEPT
 iptables -A INPUT -s 104.199.112.0/20 -j ACCEPT
 iptables -A INPUT -s 136.66.0.0/15 -j ACCEPT
+iptables -A INPUT -s 136.69.128.0/17 -j ACCEPT
+iptables -A INPUT -s 136.70.0.0/18 -j ACCEPT
 iptables -A INPUT -s 136.109.0.0/16 -j ACCEPT
 iptables -A INPUT -s 136.117.0.0/16 -j ACCEPT
 iptables -A INPUT -s 136.118.0.0/16 -j ACCEPT

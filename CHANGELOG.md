@@ -2,6 +2,12 @@
 
 Daily IP range changes across all providers.
 
+## 2026-06-01
+
+### googlecloud
+- Added: 9 CIDRs
+- Removed: 0 CIDRs
+
 ## 2026-05-30
 
 ### digitalocean

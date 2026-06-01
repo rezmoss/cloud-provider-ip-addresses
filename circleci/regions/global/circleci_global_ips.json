@@ -96,109 +96,7 @@
     "region": "global"
   },
   {
-    "ip_address": "52.21.153.129/32",
-    "ip_type": "IPv4",
-    "service": "circleci-jobs",
-    "region": "global"
-  },
-  {
-    "ip_address": "54.205.138.102/32",
-    "ip_type": "IPv4",
-    "service": "circleci-jobs",
-    "region": "global"
-  },
-  {
-    "ip_address": "54.208.72.234/32",
-    "ip_type": "IPv4",
-    "service": "circleci-jobs",
-    "region": "global"
-  },
-  {
-    "ip_address": "34.194.94.201/32",
-    "ip_type": "IPv4",
-    "service": "circleci-jobs",
-    "region": "global"
-  },
-  {
-    "ip_address": "54.92.235.88/32",
-    "ip_type": "IPv4",
-    "service": "circleci-jobs",
-    "region": "global"
-  },
-  {
-    "ip_address": "3.228.39.90/32",
-    "ip_type": "IPv4",
-    "service": "circleci-jobs",
-    "region": "global"
-  },
-  {
-    "ip_address": "52.3.128.216/32",
-    "ip_type": "IPv4",
-    "service": "circleci-jobs",
-    "region": "global"
-  },
-  {
-    "ip_address": "52.4.195.249/32",
-    "ip_type": "IPv4",
-    "service": "circleci-jobs",
-    "region": "global"
-  },
-  {
-    "ip_address": "54.166.105.113/32",
-    "ip_type": "IPv4",
-    "service": "circleci-jobs",
-    "region": "global"
-  },
-  {
-    "ip_address": "54.164.161.41/32",
-    "ip_type": "IPv4",
-    "service": "circleci-jobs",
-    "region": "global"
-  },
-  {
-    "ip_address": "52.5.58.121/32",
-    "ip_type": "IPv4",
-    "service": "circleci-jobs",
-    "region": "global"
-  },
-  {
     "ip_address": "54.172.26.132/32",
-    "ip_type": "IPv4",
-    "service": "circleci-jobs",
-    "region": "global"
-  },
-  {
-    "ip_address": "35.174.253.146/32",
-    "ip_type": "IPv4",
-    "service": "circleci-jobs",
-    "region": "global"
-  },
-  {
-    "ip_address": "35.169.17.173/32",
-    "ip_type": "IPv4",
-    "service": "circleci-jobs",
-    "region": "global"
-  },
-  {
-    "ip_address": "54.209.115.53/32",
-    "ip_type": "IPv4",
-    "service": "circleci-jobs",
-    "region": "global"
-  },
-  {
-    "ip_address": "54.161.182.76/32",
-    "ip_type": "IPv4",
-    "service": "circleci-jobs",
-    "region": "global"
-  },
-  {
-    "ip_address": "34.194.144.202/32",
-    "ip_type": "IPv4",
-    "service": "circleci-jobs",
-    "region": "global"
-  },
-  {
-    "ip_address": "54.167.72.230/32",
     "ip_type": "IPv4",
     "service": "circleci-jobs",
     "region": "global"
@@ -210,7 +108,13 @@
     "region": "global"
   },
   {
-    "ip_address": "34.197.6.234/32",
+    "ip_address": "54.205.138.102/32",
+    "ip_type": "IPv4",
+    "service": "circleci-jobs",
+    "region": "global"
+  },
+  {
+    "ip_address": "34.194.144.202/32",
     "ip_type": "IPv4",
     "service": "circleci-jobs",
     "region": "global"
@@ -222,9 +126,99 @@
     "region": "global"
   },
   {
-    "ip_address": "35.174.249.131/32",
+    "ip_address": "54.209.115.53/32",
     "ip_type": "IPv4",
-    "service": "circleci-core",
+    "service": "circleci-jobs",
+    "region": "global"
+  },
+  {
+    "ip_address": "35.169.17.173/32",
+    "ip_type": "IPv4",
+    "service": "circleci-jobs",
+    "region": "global"
+  },
+  {
+    "ip_address": "52.21.153.129/32",
+    "ip_type": "IPv4",
+    "service": "circleci-jobs",
+    "region": "global"
+  },
+  {
+    "ip_address": "34.197.6.234/32",
+    "ip_type": "IPv4",
+    "service": "circleci-jobs",
+    "region": "global"
+  },
+  {
+    "ip_address": "3.228.39.90/32",
+    "ip_type": "IPv4",
+    "service": "circleci-jobs",
+    "region": "global"
+  },
+  {
+    "ip_address": "54.164.161.41/32",
+    "ip_type": "IPv4",
+    "service": "circleci-jobs",
+    "region": "global"
+  },
+  {
+    "ip_address": "52.3.128.216/32",
+    "ip_type": "IPv4",
+    "service": "circleci-jobs",
+    "region": "global"
+  },
+  {
+    "ip_address": "54.92.235.88/32",
+    "ip_type": "IPv4",
+    "service": "circleci-jobs",
+    "region": "global"
+  },
+  {
+    "ip_address": "52.5.58.121/32",
+    "ip_type": "IPv4",
+    "service": "circleci-jobs",
+    "region": "global"
+  },
+  {
+    "ip_address": "54.167.72.230/32",
+    "ip_type": "IPv4",
+    "service": "circleci-jobs",
+    "region": "global"
+  },
+  {
+    "ip_address": "54.208.72.234/32",
+    "ip_type": "IPv4",
+    "service": "circleci-jobs",
+    "region": "global"
+  },
+  {
+    "ip_address": "54.161.182.76/32",
+    "ip_type": "IPv4",
+    "service": "circleci-jobs",
+    "region": "global"
+  },
+  {
+    "ip_address": "54.166.105.113/32",
+    "ip_type": "IPv4",
+    "service": "circleci-jobs",
+    "region": "global"
+  },
+  {
+    "ip_address": "52.4.195.249/32",
+    "ip_type": "IPv4",
+    "service": "circleci-jobs",
+    "region": "global"
+  },
+  {
+    "ip_address": "34.194.94.201/32",
+    "ip_type": "IPv4",
+    "service": "circleci-jobs",
+    "region": "global"
+  },
+  {
+    "ip_address": "35.174.253.146/32",
+    "ip_type": "IPv4",
+    "service": "circleci-jobs",
     "region": "global"
   },
   {
@@ -240,13 +234,7 @@
     "region": "global"
   },
   {
-    "ip_address": "52.206.105.184/32",
-    "ip_type": "IPv4",
-    "service": "circleci-core",
-    "region": "global"
-  },
-  {
-    "ip_address": "3.210.128.175/32",
+    "ip_address": "52.22.215.219/32",
     "ip_type": "IPv4",
     "service": "circleci-core",
     "region": "global"
@@ -264,13 +252,25 @@
     "region": "global"
   },
   {
+    "ip_address": "35.174.249.131/32",
+    "ip_type": "IPv4",
+    "service": "circleci-core",
+    "region": "global"
+  },
+  {
+    "ip_address": "3.210.128.175/32",
+    "ip_type": "IPv4",
+    "service": "circleci-core",
+    "region": "global"
+  },
+  {
     "ip_address": "18.214.70.5/32",
     "ip_type": "IPv4",
     "service": "circleci-core",
     "region": "global"
   },
   {
-    "ip_address": "52.22.215.219/32",
+    "ip_address": "52.206.105.184/32",
     "ip_type": "IPv4",
     "service": "circleci-core",
     "region": "global"

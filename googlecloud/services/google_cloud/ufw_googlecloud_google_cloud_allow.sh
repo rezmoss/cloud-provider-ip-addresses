@@ -1,6 +1,6 @@
 #!/bin/bash
 # Googlecloud IP Ranges
-# Updated: 2026-05-19 03:18:55
+# Updated: 2026-06-01 03:22:20
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -138,7 +138,9 @@ ufw allow from 34.177.32.0/22
 ufw allow from 34.177.74.0/23
 ufw allow from 34.180.0.0/18
 ufw allow from 34.183.36.0/24
+ufw allow from 34.183.106.0/23
 ufw allow from 34.184.35.0/24
+ufw allow from 34.184.106.0/23
 ufw allow from 35.200.128.0/17
 ufw allow from 35.201.41.0/24
 ufw allow from 35.207.192.0/18
@@ -528,6 +530,8 @@ ufw allow from 130.211.4.0/22
 ufw allow from 130.211.8.0/21
 ufw allow from 130.211.16.0/20
 ufw allow from 130.211.32.0/20
+ufw allow from 136.68.0.0/16
+ufw allow from 136.69.0.0/17
 ufw allow from 136.110.128.0/17
 ufw allow from 2600:1901::/48
 ufw allow from 34.1.32.0/20
@@ -838,6 +842,7 @@ ufw allow from 35.236.192.0/18
 ufw allow from 35.242.60.0/22
 ufw allow from 35.243.40.0/21
 ufw allow from 35.245.0.0/16
+ufw allow from 136.23.64.0/19
 ufw allow from 136.107.0.0/16
 ufw allow from 2600:1900:4090::/44
 ufw allow from 8.231.32.0/20
@@ -860,6 +865,8 @@ ufw allow from 34.127.184.0/23
 ufw allow from 34.152.110.192/26
 ufw allow from 34.157.219.192/26
 ufw allow from 34.161.0.0/16
+ufw allow from 34.183.105.0/24
+ufw allow from 34.184.104.0/24
 ufw allow from 35.206.10.0/23
 ufw allow from 2600:1901:8150::/44
 ufw allow from 8.230.96.0/19
@@ -921,6 +928,8 @@ ufw allow from 104.198.0.0/20
 ufw allow from 104.198.96.0/20
 ufw allow from 104.199.112.0/20
 ufw allow from 136.66.0.0/15
+ufw allow from 136.69.128.0/17
+ufw allow from 136.70.0.0/18
 ufw allow from 136.109.0.0/16
 ufw allow from 136.117.0.0/16
 ufw allow from 136.118.0.0/16

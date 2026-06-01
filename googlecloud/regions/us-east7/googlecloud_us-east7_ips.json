@@ -30,6 +30,18 @@
     "region": "us-east7"
   },
   {
+    "ip_address": "34.183.105.0/24",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "us-east7"
+  },
+  {
+    "ip_address": "34.184.104.0/24",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "us-east7"
+  },
+  {
     "ip_address": "35.206.10.0/23",
     "ip_type": "IPv4",
     "service": "Google Cloud",
