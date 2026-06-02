@@ -2,6 +2,12 @@
 
 Daily IP range changes across all providers.
 
+## 2026-06-02
+
+### aws
+- Added: 4 CIDRs
+- Removed: 1 CIDRs
+
 ## 2026-06-01
 
 ### googlecloud

@@ -1,6 +1,6 @@
 #!/bin/bash
 # Aws IP Ranges
-# Updated: 2026-05-29 03:20:06
+# Updated: 2026-06-02 03:21:59
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -269,7 +269,6 @@ iptables -A INPUT -s 52.93.199.35/32 -j ACCEPT
 iptables -A INPUT -s 108.166.244.36/32 -j ACCEPT
 iptables -A INPUT -s 3.12.0.0/16 -j ACCEPT
 iptables -A INPUT -s 15.248.107.0/24 -j ACCEPT
-iptables -A INPUT -s 1.178.86.0/23 -j ACCEPT
 iptables -A INPUT -s 15.230.39.64/31 -j ACCEPT
 iptables -A INPUT -s 35.55.33.0/24 -j ACCEPT
 iptables -A INPUT -s 108.166.244.16/32 -j ACCEPT
@@ -530,7 +529,6 @@ iptables -A INPUT -s 52.14.0.0/16 -j ACCEPT
 iptables -A INPUT -s 173.83.228.0/22 -j ACCEPT
 iptables -A INPUT -s 18.34.252.0/22 -j ACCEPT
 iptables -A INPUT -s 3.12.0.0/16 -j ACCEPT
-iptables -A INPUT -s 1.178.86.0/23 -j ACCEPT
 iptables -A INPUT -s 35.55.33.0/24 -j ACCEPT
 iptables -A INPUT -s 3.136.0.0/13 -j ACCEPT
 iptables -A INPUT -s 75.3.0.0/18 -j ACCEPT
