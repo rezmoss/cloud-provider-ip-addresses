@@ -690,6 +690,12 @@
     "region": "us-west-1"
   },
   {
+    "ip_address": "15.129.66.0/23",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-west-1"
+  },
+  {
     "ip_address": "52.93.178.137/32",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -2743,6 +2749,12 @@
   },
   {
     "ip_address": "54.67.0.0/16",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-west-1"
+  },
+  {
+    "ip_address": "15.129.66.0/23",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "us-west-1"
