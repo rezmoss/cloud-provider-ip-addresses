@@ -1,6 +1,6 @@
 # Cloudflare IP Ranges (Auto-Updated Daily)
 
-> Last updated: **2026-06-03** · Total CIDRs: **22** · IPv4: **15** · IPv6: **7**
+> Last updated: **2026-06-04** · Total CIDRs: **22** · IPv4: **15** · IPv6: **7**
 
 Machine-readable, daily-updated, validated public IP ranges for **Cloudflare**.
 Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and Apache.

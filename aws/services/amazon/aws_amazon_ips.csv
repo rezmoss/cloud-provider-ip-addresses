@@ -5641,6 +5641,7 @@ ip_address,ip_type,service,region
 35.159.209.0/24,IPv4,AMAZON,eu-central-1
 63.179.154.0/23,IPv4,AMAZON,eu-central-1
 63.181.18.128/25,IPv4,AMAZON,eu-central-1
+63.185.196.0/23,IPv4,AMAZON,eu-central-1
 16.62.140.0/25,IPv4,AMAZON,eu-central-2
 16.62.140.128/25,IPv4,AMAZON,eu-central-2
 16.62.141.0/24,IPv4,AMAZON,eu-central-2
