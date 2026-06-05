@@ -1,0 +1,23 @@
+{
+  "date": "2026-06-05",
+  "changes": {
+    "aws": {
+      "added": [
+        "23.228.248.0/24",
+        "2620:107:4000:8900::/56",
+        "2631:1:107::/48"
+      ],
+      "removed": [],
+      "added_count": 3,
+      "removed_count": 0
+    },
+    "vultr": {
+      "added": [
+        "2a05:f487:fc0d::/48"
+      ],
+      "removed": [],
+      "added_count": 1,
+      "removed_count": 0
+    }
+  }
+}

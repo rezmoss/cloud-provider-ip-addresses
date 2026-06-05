@@ -499,3 +499,4 @@ INSERT INTO `vultr_unknown_service_ips` (`ip_address`, `ip_type`) VALUES ('2001:
 INSERT INTO `vultr_unknown_service_ips` (`ip_address`, `ip_type`) VALUES ('2a05:f487:fc00::/48', 'IPv6');
 INSERT INTO `vultr_unknown_service_ips` (`ip_address`, `ip_type`) VALUES ('2a05:f487:fc00::/38', 'IPv6');
 INSERT INTO `vultr_unknown_service_ips` (`ip_address`, `ip_type`) VALUES ('2a05:f487:fc36::/48', 'IPv6');
+INSERT INTO `vultr_unknown_service_ips` (`ip_address`, `ip_type`) VALUES ('2a05:f487:fc0d::/48', 'IPv6');

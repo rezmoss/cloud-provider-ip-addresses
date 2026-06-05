@@ -8424,6 +8424,12 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "2620:107:4000:8900::/56",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "2620:107:4000:9000::/63",
     "ip_type": "IPv6",
     "service": "AMAZON",

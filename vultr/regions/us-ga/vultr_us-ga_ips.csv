@@ -22,3 +22,4 @@ ip_address,ip_type,region
 173.199.108.0/23,IPv4,US-GA
 2001:19f0:5400::/38,IPv6,US-GA
 2001:19f0:5404::/48,IPv6,US-GA
+2a05:f487:fc0d::/48,IPv6,US-GA

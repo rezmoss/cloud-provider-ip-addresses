@@ -1,6 +1,6 @@
 # DuckDuckBot IP Ranges (Auto-Updated Daily)
 
-> Last updated: **2026-06-04** · Total CIDRs: **341** · IPv4: **341** · IPv6: **0** · Services: **1**
+> Last updated: **2026-06-05** · Total CIDRs: **341** · IPv4: **341** · IPv6: **0** · Services: **1**
 
 Machine-readable, daily-updated, validated public IP ranges for **DuckDuckBot**.
 Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and Apache.
