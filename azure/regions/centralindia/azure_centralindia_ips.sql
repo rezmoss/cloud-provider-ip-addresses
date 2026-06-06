@@ -137,6 +137,9 @@ INSERT INTO `azure_centralindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:104
 INSERT INTO `azure_centralindia_ips` (`ip_address`, `ip_type`) VALUES ('52.140.111.112/29', 'IPv4');
 INSERT INTO `azure_centralindia_ips` (`ip_address`, `ip_type`) VALUES ('52.140.111.192/27', 'IPv4');
 INSERT INTO `azure_centralindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:a06:2::200/121', 'IPv6');
+INSERT INTO `azure_centralindia_ips` (`ip_address`, `ip_type`) VALUES ('4.188.34.0/23', 'IPv4');
+INSERT INTO `azure_centralindia_ips` (`ip_address`, `ip_type`) VALUES ('4.188.36.0/22', 'IPv4');
+INSERT INTO `azure_centralindia_ips` (`ip_address`, `ip_type`) VALUES ('4.188.48.0/23', 'IPv4');
 INSERT INTO `azure_centralindia_ips` (`ip_address`, `ip_type`) VALUES ('13.71.56.240/28', 'IPv4');
 INSERT INTO `azure_centralindia_ips` (`ip_address`, `ip_type`) VALUES ('13.71.57.0/28', 'IPv4');
 INSERT INTO `azure_centralindia_ips` (`ip_address`, `ip_type`) VALUES ('52.140.106.0/25', 'IPv4');

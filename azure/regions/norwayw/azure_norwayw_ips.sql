@@ -85,6 +85,7 @@ INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:f04
 INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('51.13.136.128/27', 'IPv4');
 INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('51.13.136.160/29', 'IPv4');
 INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:f04:3::780/121', 'IPv6');
+INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('4.220.248.0/21', 'IPv4');
 INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('51.120.131.64/27', 'IPv4');
 INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('51.120.225.0/25', 'IPv4');
 INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:f04::380/121', 'IPv6');

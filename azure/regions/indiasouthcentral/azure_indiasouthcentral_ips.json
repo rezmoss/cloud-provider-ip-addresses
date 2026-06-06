@@ -270,6 +270,12 @@
     "region": "indiasouthcentral"
   },
   {
+    "ip_address": "172.198.216.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
     "ip_address": "2603:1040:1904::480/121",
     "ip_type": "IPv6",
     "service": "AzureEventGrid.IndiaSouthCentral",

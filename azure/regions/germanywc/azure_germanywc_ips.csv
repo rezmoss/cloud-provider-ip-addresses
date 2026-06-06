@@ -113,6 +113,8 @@ ip_address,ip_type,service,region
 51.116.148.120/29,IPv4,AzureDigitalTwins.GermanyWestCentral,germanywc
 51.116.148.192/27,IPv4,AzureDigitalTwins.GermanyWestCentral,germanywc
 20.52.90.128/25,IPv4,AzureEventGrid.GermanyWestCentral,germanywc
+48.203.132.0/22,IPv4,AzureEventGrid.GermanyWestCentral,germanywc
+48.203.136.0/22,IPv4,AzureEventGrid.GermanyWestCentral,germanywc
 51.116.100.208/28,IPv4,AzureEventGrid.GermanyWestCentral,germanywc
 51.116.100.224/28,IPv4,AzureEventGrid.GermanyWestCentral,germanywc
 2603:1020:c04:1::380/121,IPv6,AzureEventGrid.GermanyWestCentral,germanywc
@@ -543,7 +545,7 @@ ip_address,ip_type,service,region
 57.150.218.0/23,IPv4,AzureCloud.germanywc,germanywc
 57.157.60.0/24,IPv4,AzureCloud.germanywc,germanywc
 57.157.61.0/27,IPv4,AzureCloud.germanywc,germanywc
-57.157.61.32/31,IPv4,AzureCloud.germanywc,germanywc
+57.157.61.32/30,IPv4,AzureCloud.germanywc,germanywc
 70.152.12.0/24,IPv4,AzureCloud.germanywc,germanywc
 72.144.0.0/16,IPv4,AzureCloud.germanywc,germanywc
 98.67.128.0/17,IPv4,AzureCloud.germanywc,germanywc

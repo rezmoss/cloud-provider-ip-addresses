@@ -1,6 +1,6 @@
 #!/bin/bash
 # Azure IP Ranges
-# Updated: 2026-05-27 03:20:52
+# Updated: 2026-06-06 03:17:40
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -310,11 +310,7 @@ iptables -A INPUT -s 40.87.169.224/28 -j ACCEPT
 iptables -A INPUT -s 40.87.169.240/29 -j ACCEPT
 iptables -A INPUT -s 40.87.169.248/30 -j ACCEPT
 iptables -A INPUT -s 40.87.169.252/31 -j ACCEPT
-iptables -A INPUT -s 40.87.170.0/27 -j ACCEPT
-iptables -A INPUT -s 40.87.170.34/31 -j ACCEPT
-iptables -A INPUT -s 40.87.170.36/30 -j ACCEPT
-iptables -A INPUT -s 40.87.170.40/29 -j ACCEPT
-iptables -A INPUT -s 40.87.170.48/28 -j ACCEPT
+iptables -A INPUT -s 40.87.170.0/26 -j ACCEPT
 iptables -A INPUT -s 40.87.170.64/28 -j ACCEPT
 iptables -A INPUT -s 40.87.170.80/29 -j ACCEPT
 iptables -A INPUT -s 40.87.170.88/30 -j ACCEPT
@@ -414,9 +410,7 @@ iptables -A INPUT -s 40.120.156.116/31 -j ACCEPT
 iptables -A INPUT -s 40.120.156.120/29 -j ACCEPT
 iptables -A INPUT -s 40.120.156.128/25 -j ACCEPT
 iptables -A INPUT -s 40.120.157.0/27 -j ACCEPT
-iptables -A INPUT -s 40.120.157.32/29 -j ACCEPT
-iptables -A INPUT -s 40.120.157.42/31 -j ACCEPT
-iptables -A INPUT -s 40.120.157.44/30 -j ACCEPT
+iptables -A INPUT -s 40.120.157.32/28 -j ACCEPT
 iptables -A INPUT -s 40.120.157.48/30 -j ACCEPT
 iptables -A INPUT -s 40.120.157.54/31 -j ACCEPT
 iptables -A INPUT -s 40.120.157.56/29 -j ACCEPT
@@ -1074,6 +1068,7 @@ iptables -A INPUT -s 70.152.122.0/23 -j ACCEPT
 iptables -A INPUT -s 70.152.124.0/22 -j ACCEPT
 iptables -A INPUT -s 70.152.128.0/21 -j ACCEPT
 iptables -A INPUT -s 72.153.0.0/17 -j ACCEPT
+iptables -A INPUT -s 74.145.0.0/17 -j ACCEPT
 iptables -A INPUT -s 74.249.0.0/17 -j ACCEPT
 iptables -A INPUT -s 104.44.88.32/27 -j ACCEPT
 iptables -A INPUT -s 104.44.88.96/27 -j ACCEPT
@@ -1311,10 +1306,7 @@ ip6tables -A INPUT -s 2603:1030:401:21e::/63 -j ACCEPT
 ip6tables -A INPUT -s 2603:1030:401:220::/62 -j ACCEPT
 ip6tables -A INPUT -s 2603:1030:401:225::/64 -j ACCEPT
 ip6tables -A INPUT -s 2603:1030:401:226::/63 -j ACCEPT
-ip6tables -A INPUT -s 2603:1030:401:228::/63 -j ACCEPT
-ip6tables -A INPUT -s 2603:1030:401:22a::/64 -j ACCEPT
-ip6tables -A INPUT -s 2603:1030:401:22c::/64 -j ACCEPT
-ip6tables -A INPUT -s 2603:1030:401:22e::/63 -j ACCEPT
+ip6tables -A INPUT -s 2603:1030:401:228::/61 -j ACCEPT
 ip6tables -A INPUT -s 2603:1030:401:230::/60 -j ACCEPT
 ip6tables -A INPUT -s 2603:1030:401:240::/60 -j ACCEPT
 ip6tables -A INPUT -s 2603:1030:401:250::/62 -j ACCEPT

@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "20.28.80.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.AustraliaCentral",
+    "region": "australiacentral"
+  },
+  {
     "ip_address": "20.37.55.32/27",
     "ip_type": "IPv4",
     "service": "AzureEventGrid.AustraliaCentral",

@@ -8,6 +8,9 @@ CREATE TABLE IF NOT EXISTS `azure_azureeventgrid.southcentralus_ips` (
 
 INSERT INTO `azure_azureeventgrid.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('4.151.98.0/24', 'IPv4');
 INSERT INTO `azure_azureeventgrid.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('13.73.248.128/25', 'IPv4');
+INSERT INTO `azure_azureeventgrid.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('13.85.236.128/25', 'IPv4');
+INSERT INTO `azure_azureeventgrid.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('13.85.238.0/23', 'IPv4');
+INSERT INTO `azure_azureeventgrid.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('13.85.240.0/22', 'IPv4');
 INSERT INTO `azure_azureeventgrid.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('52.185.212.176/28', 'IPv4');
 INSERT INTO `azure_azureeventgrid.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('52.185.212.192/28', 'IPv4');
 INSERT INTO `azure_azureeventgrid.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('52.255.82.160/28', 'IPv4');

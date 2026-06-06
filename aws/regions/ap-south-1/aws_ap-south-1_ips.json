@@ -1500,6 +1500,12 @@
     "region": "ap-south-1"
   },
   {
+    "ip_address": "35.34.98.0/24",
+    "ip_type": "IPv4",
+    "service": "GLOBALACCELERATOR",
+    "region": "ap-south-1"
+  },
+  {
     "ip_address": "15.193.0.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON_CONNECT",

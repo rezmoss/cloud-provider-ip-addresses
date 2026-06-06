@@ -276,6 +276,12 @@
     "region": "australiacentral"
   },
   {
+    "ip_address": "74.147.0.0/17",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.australiacentral",
+    "region": "australiacentral"
+  },
+  {
     "ip_address": "2603:1010:300::/47",
     "ip_type": "IPv6",
     "service": "AzureCloud.australiacentral",

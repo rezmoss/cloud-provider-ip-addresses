@@ -6,6 +6,12 @@
     "region": "ap-singapore-2"
   },
   {
+    "ip_address": "149.118.32.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-singapore-2"
+  },
+  {
     "ip_address": "217.142.184.0/21",
     "ip_type": "IPv4",
     "service": "OCI",

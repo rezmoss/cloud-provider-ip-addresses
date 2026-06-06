@@ -71,6 +71,8 @@ ip_address,ip_type,service,region
 102.133.0.240/28,IPv4,AzureEventGrid.SouthAfricaWest,southafricawest
 102.133.1.0/28,IPv4,AzureEventGrid.SouthAfricaWest,southafricawest
 102.133.57.0/25,IPv4,AzureEventGrid.SouthAfricaWest,southafricawest
+172.209.122.0/23,IPv4,AzureEventGrid.SouthAfricaWest,southafricawest
+172.209.124.0/22,IPv4,AzureEventGrid.SouthAfricaWest,southafricawest
 2603:1000:4::380/121,IPv6,AzureEventGrid.SouthAfricaWest,southafricawest
 102.37.65.0/26,IPv4,EventHub.SouthAfricaWest,southafricawest
 102.37.83.0/24,IPv4,EventHub.SouthAfricaWest,southafricawest
@@ -313,6 +315,7 @@ ip_address,ip_type,service,region
 52.143.203.0/24,IPv4,AzureCloud.southafricawest,southafricawest
 52.239.232.128/25,IPv4,AzureCloud.southafricawest,southafricawest
 70.152.23.0/24,IPv4,AzureCloud.southafricawest,southafricawest
+74.160.0.0/17,IPv4,AzureCloud.southafricawest,southafricawest
 102.37.26.0/27,IPv4,AzureCloud.southafricawest,southafricawest
 102.37.64.0/21,IPv4,AzureCloud.southafricawest,southafricawest
 102.37.80.0/20,IPv4,AzureCloud.southafricawest,southafricawest

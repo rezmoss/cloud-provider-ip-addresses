@@ -1,4 +1,5 @@
 ip_address,ip_type,service,region
+4.235.16.0/21,IPv4,AzureEventGrid.NorwayEast,norwaye
 51.120.4.0/27,IPv4,AzureEventGrid.NorwayEast,norwaye
 51.120.41.0/25,IPv4,AzureEventGrid.NorwayEast,norwaye
 2603:1020:e04:1::380/121,IPv6,AzureEventGrid.NorwayEast,norwaye

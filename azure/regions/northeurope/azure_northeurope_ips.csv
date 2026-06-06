@@ -218,6 +218,9 @@ ip_address,ip_type,service,region
 172.205.60.10/31,IPv4,AzureDigitalTwins.NorthEurope,northeurope
 172.205.65.232/29,IPv4,AzureDigitalTwins.NorthEurope,northeurope
 2603:1020:5:b::114/126,IPv6,AzureDigitalTwins.NorthEurope,northeurope
+4.209.102.128/25,IPv4,AzureEventGrid.NorthEurope,northeurope
+4.209.136.0/22,IPv4,AzureEventGrid.NorthEurope,northeurope
+4.209.140.0/23,IPv4,AzureEventGrid.NorthEurope,northeurope
 20.38.87.0/25,IPv4,AzureEventGrid.NorthEurope,northeurope
 20.191.59.128/28,IPv4,AzureEventGrid.NorthEurope,northeurope
 20.191.59.176/28,IPv4,AzureEventGrid.NorthEurope,northeurope
@@ -1455,6 +1458,7 @@ ip_address,ip_type,service,region
 70.152.176.0/22,IPv4,AzureCloud.northeurope,northeurope
 70.152.180.0/24,IPv4,AzureCloud.northeurope,northeurope
 72.145.0.0/17,IPv4,AzureCloud.northeurope,northeurope
+74.144.0.0/17,IPv4,AzureCloud.northeurope,northeurope
 74.178.0.0/17,IPv4,AzureCloud.northeurope,northeurope
 74.234.0.0/17,IPv4,AzureCloud.northeurope,northeurope
 94.245.88.0/21,IPv4,AzureCloud.northeurope,northeurope

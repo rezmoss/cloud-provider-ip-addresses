@@ -31,6 +31,7 @@ ip_address,ip_type,service,region
 20.135.128.0/22,IPv4,AzureCloud.brazilsouth,brazilsouth
 20.135.132.0/23,IPv4,AzureCloud.brazilsouth,brazilsouth
 20.143.138.0/23,IPv4,AzureCloud.brazilsouth,brazilsouth
+20.143.202.0/23,IPv4,AzureCloud.brazilsouth,brazilsouth
 20.150.111.0/24,IPv4,AzureCloud.brazilsouth,brazilsouth
 20.153.183.0/24,IPv4,AzureCloud.brazilsouth,brazilsouth
 20.153.184.0/22,IPv4,AzureCloud.brazilsouth,brazilsouth
@@ -123,6 +124,7 @@ ip_address,ip_type,service,region
 52.253.185.0/24,IPv4,AzureCloud.brazilsouth,brazilsouth
 52.253.186.0/24,IPv4,AzureCloud.brazilsouth,brazilsouth
 57.150.130.0/23,IPv4,AzureCloud.brazilsouth,brazilsouth
+57.163.42.0/23,IPv4,AzureCloud.brazilsouth,brazilsouth
 70.152.2.0/24,IPv4,AzureCloud.brazilsouth,brazilsouth
 70.152.215.0/24,IPv4,AzureCloud.brazilsouth,brazilsouth
 70.152.249.0/24,IPv4,AzureCloud.brazilsouth,brazilsouth

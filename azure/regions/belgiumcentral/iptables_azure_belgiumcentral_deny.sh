@@ -1,6 +1,6 @@
 #!/bin/bash
 # Azure IP Ranges
-# Updated: 2026-05-27 03:20:55
+# Updated: 2026-06-06 03:17:43
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -61,6 +61,9 @@ iptables -A INPUT -s 9.160.43.192/27 -j DROP
 iptables -A INPUT -s 9.160.58.32/29 -j DROP
 ip6tables -A INPUT -s 2603:1020:1502::580/121 -j DROP
 iptables -A INPUT -s 9.160.41.128/25 -j DROP
+iptables -A INPUT -s 9.160.198.0/23 -j DROP
+iptables -A INPUT -s 9.160.208.0/22 -j DROP
+iptables -A INPUT -s 9.160.212.0/23 -j DROP
 ip6tables -A INPUT -s 2603:1020:1502::280/121 -j DROP
 iptables -A INPUT -s 9.160.45.0/24 -j DROP
 iptables -A INPUT -s 9.160.80.128/26 -j DROP
@@ -184,8 +187,8 @@ iptables -A INPUT -s 20.20.52.32/27 -j DROP
 iptables -A INPUT -s 20.20.52.64/26 -j DROP
 iptables -A INPUT -s 20.20.120.0/24 -j DROP
 iptables -A INPUT -s 20.20.121.0/25 -j DROP
-iptables -A INPUT -s 20.20.121.128/28 -j DROP
-iptables -A INPUT -s 20.20.121.144/29 -j DROP
+iptables -A INPUT -s 20.20.121.128/26 -j DROP
+iptables -A INPUT -s 20.20.121.192/30 -j DROP
 iptables -A INPUT -s 20.33.113.0/24 -j DROP
 iptables -A INPUT -s 20.38.49.0/24 -j DROP
 iptables -A INPUT -s 20.143.96.0/23 -j DROP
@@ -221,7 +224,9 @@ ip6tables -A INPUT -s 2603:1026:3000:2c0::/59 -j DROP
 ip6tables -A INPUT -s 2603:1027:1:260::/59 -j DROP
 ip6tables -A INPUT -s 2603:1061:1016::/57 -j DROP
 ip6tables -A INPUT -s 2603:1061:1016:80::/58 -j DROP
-ip6tables -A INPUT -s 2603:1061:1016:c0::/62 -j DROP
+ip6tables -A INPUT -s 2603:1061:1016:c0::/60 -j DROP
+ip6tables -A INPUT -s 2603:1061:1016:d0::/61 -j DROP
+ip6tables -A INPUT -s 2603:1061:1016:d8::/63 -j DROP
 ip6tables -A INPUT -s 2603:1061:1311:400::/54 -j DROP
 ip6tables -A INPUT -s 2603:1061:173f::/48 -j DROP
 ip6tables -A INPUT -s 2603:1061:2010:3f::/64 -j DROP

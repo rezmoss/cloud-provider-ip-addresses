@@ -12,6 +12,8 @@ ip_address,ip_type,service,region
 158.179.160.0/20,IPv4,OCI,ap-chuncheon-1
 158.179.192.0/22,IPv4,OCI,ap-chuncheon-1
 158.180.64.0/19,IPv4,OCI,ap-chuncheon-1
+161.118.16.0/20,IPv4,OCI,ap-chuncheon-1
+161.118.64.0/18,IPv4,OCI,ap-chuncheon-1
 168.107.0.0/18,IPv4,OCI,ap-chuncheon-1
 168.110.96.0/19,IPv4,OCI,ap-chuncheon-1
 129.148.144.0/23,IPv4,OSN,ap-chuncheon-1

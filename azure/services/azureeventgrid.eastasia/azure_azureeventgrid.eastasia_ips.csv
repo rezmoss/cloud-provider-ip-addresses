@@ -1,4 +1,7 @@
 ip_address,ip_type,service,region
+4.191.98.128/25,IPv4,AzureEventGrid.EastAsia,eastasia
+4.191.100.0/22,IPv4,AzureEventGrid.EastAsia,eastasia
+4.191.104.0/23,IPv4,AzureEventGrid.EastAsia,eastasia
 20.6.143.0/24,IPv4,AzureEventGrid.EastAsia,eastasia
 20.189.108.128/25,IPv4,AzureEventGrid.EastAsia,eastasia
 20.189.115.80/28,IPv4,AzureEventGrid.EastAsia,eastasia

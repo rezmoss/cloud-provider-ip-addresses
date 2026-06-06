@@ -246,6 +246,12 @@
     "region": "northeastus5"
   },
   {
+    "ip_address": "172.194.96.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
     "ip_address": "2603:1030:1602::480/121",
     "ip_type": "IPv6",
     "service": "AzureEventGrid.NortheastUS5",

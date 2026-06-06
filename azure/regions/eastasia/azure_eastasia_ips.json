@@ -918,6 +918,24 @@
     "region": "eastasia"
   },
   {
+    "ip_address": "4.191.98.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "4.191.100.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "4.191.104.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.EastAsia",
+    "region": "eastasia"
+  },
+  {
     "ip_address": "20.6.143.0/24",
     "ip_type": "IPv4",
     "service": "AzureEventGrid.EastAsia",

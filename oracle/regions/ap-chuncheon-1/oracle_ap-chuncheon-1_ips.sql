@@ -19,6 +19,8 @@ INSERT INTO `oracle_ap-chuncheon-1_ips` (`ip_address`, `ip_type`) VALUES ('152.6
 INSERT INTO `oracle_ap-chuncheon-1_ips` (`ip_address`, `ip_type`) VALUES ('158.179.160.0/20', 'IPv4');
 INSERT INTO `oracle_ap-chuncheon-1_ips` (`ip_address`, `ip_type`) VALUES ('158.179.192.0/22', 'IPv4');
 INSERT INTO `oracle_ap-chuncheon-1_ips` (`ip_address`, `ip_type`) VALUES ('158.180.64.0/19', 'IPv4');
+INSERT INTO `oracle_ap-chuncheon-1_ips` (`ip_address`, `ip_type`) VALUES ('161.118.16.0/20', 'IPv4');
+INSERT INTO `oracle_ap-chuncheon-1_ips` (`ip_address`, `ip_type`) VALUES ('161.118.64.0/18', 'IPv4');
 INSERT INTO `oracle_ap-chuncheon-1_ips` (`ip_address`, `ip_type`) VALUES ('168.107.0.0/18', 'IPv4');
 INSERT INTO `oracle_ap-chuncheon-1_ips` (`ip_address`, `ip_type`) VALUES ('168.110.96.0/19', 'IPv4');
 INSERT INTO `oracle_ap-chuncheon-1_ips` (`ip_address`, `ip_type`) VALUES ('129.148.144.0/23', 'IPv4');

@@ -64,6 +64,9 @@ ip_address,ip_type,service,region
 2603:1050:403:400::2b0/124,IPv6,AzureDataExplorerManagement.BrazilSoutheast,brazilse
 191.233.15.16/29,IPv4,AzureDigitalTwins.BrazilSoutheast,brazilse
 191.233.15.32/27,IPv4,AzureDigitalTwins.BrazilSoutheast,brazilse
+4.238.30.0/23,IPv4,AzureEventGrid.BrazilSoutheast,brazilse
+20.206.24.0/22,IPv4,AzureEventGrid.BrazilSoutheast,brazilse
+20.206.28.0/23,IPv4,AzureEventGrid.BrazilSoutheast,brazilse
 191.233.9.128/25,IPv4,AzureEventGrid.BrazilSoutheast,brazilse
 2603:1050:403::380/121,IPv6,AzureEventGrid.BrazilSoutheast,brazilse
 20.195.150.160/27,IPv4,EventHub.BrazilSoutheast,brazilse

@@ -384,6 +384,24 @@
     "region": "indonesiacentral"
   },
   {
+    "ip_address": "48.193.82.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.IndonesiaCentral",
+    "region": "indonesiacentral"
+  },
+  {
+    "ip_address": "48.193.84.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.IndonesiaCentral",
+    "region": "indonesiacentral"
+  },
+  {
+    "ip_address": "48.193.88.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.IndonesiaCentral",
+    "region": "indonesiacentral"
+  },
+  {
     "ip_address": "70.153.153.128/25",
     "ip_type": "IPv4",
     "service": "AzureEventGrid.IndonesiaCentral",
@@ -612,6 +630,12 @@
     "region": "indonesiacentral"
   },
   {
+    "ip_address": "48.193.80.192/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.IndonesiaCentral",
+    "region": "indonesiacentral"
+  },
+  {
     "ip_address": "70.153.166.192/29",
     "ip_type": "IPv4",
     "service": "AzureMonitor.IndonesiaCentral",
@@ -715,6 +739,12 @@
   },
   {
     "ip_address": "2603:1040:1802:5::/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.IndonesiaCentral",
+    "region": "indonesiacentral"
+  },
+  {
+    "ip_address": "2603:1040:1802:6::200/123",
     "ip_type": "IPv6",
     "service": "AzureMonitor.IndonesiaCentral",
     "region": "indonesiacentral"

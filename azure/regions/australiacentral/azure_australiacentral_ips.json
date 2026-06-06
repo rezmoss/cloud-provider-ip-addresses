@@ -492,6 +492,12 @@
     "region": "australiacentral"
   },
   {
+    "ip_address": "20.28.80.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.AustraliaCentral",
+    "region": "australiacentral"
+  },
+  {
     "ip_address": "20.37.55.32/27",
     "ip_type": "IPv4",
     "service": "AzureEventGrid.AustraliaCentral",
@@ -1699,6 +1705,12 @@
   },
   {
     "ip_address": "70.152.226.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.australiacentral",
+    "region": "australiacentral"
+  },
+  {
+    "ip_address": "74.147.0.0/17",
     "ip_type": "IPv4",
     "service": "AzureCloud.australiacentral",
     "region": "australiacentral"

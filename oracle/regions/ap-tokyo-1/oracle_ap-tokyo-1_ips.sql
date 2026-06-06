@@ -41,5 +41,6 @@ INSERT INTO `oracle_ap-tokyo-1_ips` (`ip_address`, `ip_type`) VALUES ('158.179.1
 INSERT INTO `oracle_ap-tokyo-1_ips` (`ip_address`, `ip_type`) VALUES ('158.179.13.0/24', 'IPv4');
 INSERT INTO `oracle_ap-tokyo-1_ips` (`ip_address`, `ip_type`) VALUES ('158.179.15.0/24', 'IPv4');
 INSERT INTO `oracle_ap-tokyo-1_ips` (`ip_address`, `ip_type`) VALUES ('161.33.252.0/24', 'IPv4');
+INSERT INTO `oracle_ap-tokyo-1_ips` (`ip_address`, `ip_type`) VALUES ('161.118.8.0/21', 'IPv4');
 INSERT INTO `oracle_ap-tokyo-1_ips` (`ip_address`, `ip_type`) VALUES ('192.29.36.0/22', 'IPv4');
 INSERT INTO `oracle_ap-tokyo-1_ips` (`ip_address`, `ip_type`) VALUES ('192.29.40.0/21', 'IPv4');

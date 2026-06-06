@@ -9,4 +9,6 @@ CREATE TABLE IF NOT EXISTS `azure_azureeventgrid.southafricawest_ips` (
 INSERT INTO `azure_azureeventgrid.southafricawest_ips` (`ip_address`, `ip_type`) VALUES ('102.133.0.240/28', 'IPv4');
 INSERT INTO `azure_azureeventgrid.southafricawest_ips` (`ip_address`, `ip_type`) VALUES ('102.133.1.0/28', 'IPv4');
 INSERT INTO `azure_azureeventgrid.southafricawest_ips` (`ip_address`, `ip_type`) VALUES ('102.133.57.0/25', 'IPv4');
+INSERT INTO `azure_azureeventgrid.southafricawest_ips` (`ip_address`, `ip_type`) VALUES ('172.209.122.0/23', 'IPv4');
+INSERT INTO `azure_azureeventgrid.southafricawest_ips` (`ip_address`, `ip_type`) VALUES ('172.209.124.0/22', 'IPv4');
 INSERT INTO `azure_azureeventgrid.southafricawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1000:4::380/121', 'IPv6');

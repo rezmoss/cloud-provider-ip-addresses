@@ -12,4 +12,7 @@ ip_address,ip_type,service,region
 57.152.110.64/26,IPv4,AzureEventGrid.EastUS,eastus
 57.162.209.128/25,IPv4,AzureEventGrid.EastUS,eastus
 57.162.214.0/25,IPv4,AzureEventGrid.EastUS,eastus
+57.162.220.64/26,IPv4,AzureEventGrid.EastUS,eastus
+57.162.222.0/23,IPv4,AzureEventGrid.EastUS,eastus
+57.169.136.0/22,IPv4,AzureEventGrid.EastUS,eastus
 2603:1030:210:1::380/121,IPv6,AzureEventGrid.EastUS,eastus

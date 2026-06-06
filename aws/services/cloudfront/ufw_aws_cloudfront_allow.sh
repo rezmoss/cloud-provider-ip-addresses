@@ -1,12 +1,13 @@
 #!/bin/bash
 # Aws IP Ranges
-# Updated: 2026-06-05 03:20:05
+# Updated: 2026-06-06 03:17:06
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
 # Updates daily at 00:00 UTC
 # UFW allow rules for aws
 
+ufw allow from 23.228.249.0/24
 ufw allow from 120.52.22.96/27
 ufw allow from 23.228.222.0/24
 ufw allow from 205.251.249.0/24
@@ -41,6 +42,7 @@ ufw allow from 18.244.0.0/15
 ufw allow from 205.251.208.0/20
 ufw allow from 3.165.0.0/16
 ufw allow from 3.168.0.0/14
+ufw allow from 23.228.251.0/24
 ufw allow from 65.9.128.0/18
 ufw allow from 130.176.128.0/18
 ufw allow from 23.228.221.0/24
@@ -83,6 +85,7 @@ ufw allow from 52.84.0.0/15
 ufw allow from 143.204.0.0/16
 ufw allow from 144.220.0.0/16
 ufw allow from 120.52.153.192/26
+ufw allow from 23.228.250.0/24
 ufw allow from 119.147.182.0/25
 ufw allow from 120.232.236.0/25
 ufw allow from 111.13.185.64/27
@@ -106,6 +109,7 @@ ufw allow from 204.246.164.0/22
 ufw allow from 13.35.0.0/16
 ufw allow from 204.246.174.0/23
 ufw allow from 3.164.128.0/17
+ufw allow from 24.110.128.0/17
 ufw allow from 3.172.0.0/18
 ufw allow from 36.103.232.0/25
 ufw allow from 119.147.182.128/26
@@ -235,6 +239,7 @@ ufw allow from 2404:c2c0:500::/40
 ufw allow from 2600:9000:5308::/45
 ufw allow from 2600:9000:f534::/46
 ufw allow from 2600:f0f0:601::/48
+ufw allow from 2600:9000:6000::/36
 ufw allow from 2600:9000:f520::/44
 ufw allow from 2600:9000:5320::/43
 ufw allow from 2600:9000:5310::/44

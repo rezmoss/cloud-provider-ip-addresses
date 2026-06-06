@@ -61,6 +61,7 @@ ip_address,ip_type,service,region
 140.86.216.0/21,IPv4,OSN,us-ashburn-1
 140.91.10.0/23,IPv4,OSN,us-ashburn-1
 140.91.12.0/22,IPv4,OSN,us-ashburn-1
+147.5.64.0/19,IPv4,OSN,us-ashburn-1
 147.154.0.0/19,IPv4,OSN,us-ashburn-1
 147.154.32.0/25,IPv4,OSN,us-ashburn-1
 147.154.36.0/22,IPv4,OSN,us-ashburn-1

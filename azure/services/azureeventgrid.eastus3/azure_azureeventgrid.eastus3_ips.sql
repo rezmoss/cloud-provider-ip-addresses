@@ -6,5 +6,8 @@ CREATE TABLE IF NOT EXISTS `azure_azureeventgrid.eastus3_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_azureeventgrid.eastus3_ips` (`ip_address`, `ip_type`) VALUES ('51.57.182.0/23', 'IPv4');
+INSERT INTO `azure_azureeventgrid.eastus3_ips` (`ip_address`, `ip_type`) VALUES ('51.57.184.0/22', 'IPv4');
+INSERT INTO `azure_azureeventgrid.eastus3_ips` (`ip_address`, `ip_type`) VALUES ('51.57.188.0/23', 'IPv4');
 INSERT INTO `azure_azureeventgrid.eastus3_ips` (`ip_address`, `ip_type`) VALUES ('134.138.65.128/25', 'IPv4');
 INSERT INTO `azure_azureeventgrid.eastus3_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1402::480/121', 'IPv6');

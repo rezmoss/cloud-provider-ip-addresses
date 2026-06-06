@@ -48,6 +48,12 @@
     "region": "mx-queretaro-1"
   },
   {
+    "ip_address": "147.15.176.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "mx-queretaro-1"
+  },
+  {
     "ip_address": "155.248.144.0/22",
     "ip_type": "IPv4",
     "service": "OSN",

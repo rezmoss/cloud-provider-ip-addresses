@@ -54,6 +54,12 @@
     "region": "koreasouth"
   },
   {
+    "ip_address": "20.143.206.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
     "ip_address": "20.150.14.0/23",
     "ip_type": "IPv4",
     "service": "AzureCloud.koreasouth",

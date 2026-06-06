@@ -18,6 +18,12 @@
     "region": "canadaeast"
   },
   {
+    "ip_address": "145.191.128.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
     "ip_address": "2603:1030:1005::380/121",
     "ip_type": "IPv6",
     "service": "AzureEventGrid.CanadaEast",

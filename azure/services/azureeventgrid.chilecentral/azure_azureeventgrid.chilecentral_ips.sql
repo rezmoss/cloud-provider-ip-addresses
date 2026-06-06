@@ -6,5 +6,6 @@ CREATE TABLE IF NOT EXISTS `azure_azureeventgrid.chilecentral_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_azureeventgrid.chilecentral_ips` (`ip_address`, `ip_type`) VALUES ('57.156.112.0/21', 'IPv4');
 INSERT INTO `azure_azureeventgrid.chilecentral_ips` (`ip_address`, `ip_type`) VALUES ('68.211.2.0/25', 'IPv4');
 INSERT INTO `azure_azureeventgrid.chilecentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:301::280/121', 'IPv6');

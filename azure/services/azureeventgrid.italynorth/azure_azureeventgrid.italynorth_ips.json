@@ -6,6 +6,18 @@
     "region": "italynorth"
   },
   {
+    "ip_address": "9.235.196.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.ItalyNorth",
+    "region": "italynorth"
+  },
+  {
+    "ip_address": "9.235.200.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.ItalyNorth",
+    "region": "italynorth"
+  },
+  {
     "ip_address": "2603:1020:1204::280/121",
     "ip_type": "IPv6",
     "service": "AzureEventGrid.ItalyNorth",

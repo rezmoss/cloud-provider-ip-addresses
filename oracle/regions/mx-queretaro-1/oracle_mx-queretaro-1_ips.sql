@@ -14,6 +14,7 @@ INSERT INTO `oracle_mx-queretaro-1_ips` (`ip_address`, `ip_type`) VALUES ('220.1
 INSERT INTO `oracle_mx-queretaro-1_ips` (`ip_address`, `ip_type`) VALUES ('134.70.184.0/22', 'IPv4');
 INSERT INTO `oracle_mx-queretaro-1_ips` (`ip_address`, `ip_type`) VALUES ('140.91.82.0/23', 'IPv4');
 INSERT INTO `oracle_mx-queretaro-1_ips` (`ip_address`, `ip_type`) VALUES ('140.204.120.128/25', 'IPv4');
+INSERT INTO `oracle_mx-queretaro-1_ips` (`ip_address`, `ip_type`) VALUES ('147.15.176.0/23', 'IPv4');
 INSERT INTO `oracle_mx-queretaro-1_ips` (`ip_address`, `ip_type`) VALUES ('155.248.144.0/22', 'IPv4');
 INSERT INTO `oracle_mx-queretaro-1_ips` (`ip_address`, `ip_type`) VALUES ('155.248.148.0/25', 'IPv4');
 INSERT INTO `oracle_mx-queretaro-1_ips` (`ip_address`, `ip_type`) VALUES ('159.112.166.0/24', 'IPv4');

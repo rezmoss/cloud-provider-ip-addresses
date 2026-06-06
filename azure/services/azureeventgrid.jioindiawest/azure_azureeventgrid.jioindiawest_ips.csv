@@ -1,3 +1,6 @@
 ip_address,ip_type,service,region
+4.187.32.0/23,IPv4,AzureEventGrid.JioIndiaWest,jioindiawest
 20.192.164.0/25,IPv4,AzureEventGrid.JioIndiaWest,jioindiawest
+20.244.226.0/23,IPv4,AzureEventGrid.JioIndiaWest,jioindiawest
+20.244.228.0/22,IPv4,AzureEventGrid.JioIndiaWest,jioindiawest
 2603:1040:d04::380/121,IPv6,AzureEventGrid.JioIndiaWest,jioindiawest

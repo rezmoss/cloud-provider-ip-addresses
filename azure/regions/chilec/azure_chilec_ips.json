@@ -330,6 +330,12 @@
     "region": "chilec"
   },
   {
+    "ip_address": "57.156.112.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.ChileCentral",
+    "region": "chilec"
+  },
+  {
     "ip_address": "68.211.2.0/25",
     "ip_type": "IPv4",
     "service": "AzureEventGrid.ChileCentral",

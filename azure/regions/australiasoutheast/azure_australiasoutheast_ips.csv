@@ -121,6 +121,9 @@ ip_address,ip_type,service,region
 104.46.178.120/29,IPv4,AzureDigitalTwins.AustraliaSoutheast,australiasoutheast
 104.46.178.160/27,IPv4,AzureDigitalTwins.AustraliaSoutheast,australiasoutheast
 2603:1010:101:7::600/121,IPv6,AzureDigitalTwins.AustraliaSoutheast,australiasoutheast
+4.199.16.0/22,IPv4,AzureEventGrid.AustraliaSoutheast,australiasoutheast
+4.199.20.0/23,IPv4,AzureEventGrid.AustraliaSoutheast,australiasoutheast
+20.11.230.0/23,IPv4,AzureEventGrid.AustraliaSoutheast,australiasoutheast
 20.40.175.48/28,IPv4,AzureEventGrid.AustraliaSoutheast,australiasoutheast
 20.40.175.64/28,IPv4,AzureEventGrid.AustraliaSoutheast,australiasoutheast
 20.42.228.0/25,IPv4,AzureEventGrid.AustraliaSoutheast,australiasoutheast
@@ -276,6 +279,7 @@ ip_address,ip_type,service,region
 52.239.225.0/24,IPv4,Storage.AustraliaSoutheast,australiasoutheast
 135.130.3.0/24,IPv4,Storage.AustraliaSoutheast,australiasoutheast
 135.130.40.0/24,IPv4,Storage.AustraliaSoutheast,australiasoutheast
+145.190.182.0/24,IPv4,Storage.AustraliaSoutheast,australiasoutheast
 191.239.192.0/26,IPv4,Storage.AustraliaSoutheast,australiasoutheast
 2603:1010:206::/48,IPv6,Storage.AustraliaSoutheast,australiasoutheast
 13.73.117.100/32,IPv4,BatchNodeManagement.AustraliaSoutheast,australiasoutheast
@@ -634,6 +638,7 @@ ip_address,ip_type,service,region
 104.209.64.0/20,IPv4,AzureCloud.australiasoutheast,australiasoutheast
 135.130.3.0/24,IPv4,AzureCloud.australiasoutheast,australiasoutheast
 135.130.40.0/24,IPv4,AzureCloud.australiasoutheast,australiasoutheast
+145.190.182.0/24,IPv4,AzureCloud.australiasoutheast,australiasoutheast
 151.206.89.0/24,IPv4,AzureCloud.australiasoutheast,australiasoutheast
 151.206.165.0/24,IPv4,AzureCloud.australiasoutheast,australiasoutheast
 151.206.191.0/24,IPv4,AzureCloud.australiasoutheast,australiasoutheast

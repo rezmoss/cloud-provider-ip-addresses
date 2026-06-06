@@ -7,4 +7,7 @@ CREATE TABLE IF NOT EXISTS `azure_azureeventgrid.belgiumcentral_ips` (
 );
 
 INSERT INTO `azure_azureeventgrid.belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('9.160.41.128/25', 'IPv4');
+INSERT INTO `azure_azureeventgrid.belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('9.160.198.0/23', 'IPv4');
+INSERT INTO `azure_azureeventgrid.belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('9.160.208.0/22', 'IPv4');
+INSERT INTO `azure_azureeventgrid.belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('9.160.212.0/23', 'IPv4');
 INSERT INTO `azure_azureeventgrid.belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1502::280/121', 'IPv6');

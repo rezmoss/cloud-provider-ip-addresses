@@ -1,6 +1,6 @@
 #!/bin/bash
 # Aws IP Ranges
-# Updated: 2026-06-03 03:22:02
+# Updated: 2026-06-06 03:17:07
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -24,6 +24,8 @@ iptables -A INPUT -s 15.129.62.0/23 -j ACCEPT
 iptables -A INPUT -s 43.249.47.0/24 -j ACCEPT
 iptables -A INPUT -s 52.119.248.0/24 -j ACCEPT
 iptables -A INPUT -s 216.244.6.0/24 -j ACCEPT
+iptables -A INPUT -s 3.4.12.67/32 -j ACCEPT
+iptables -A INPUT -s 3.4.15.224/29 -j ACCEPT
 iptables -A INPUT -s 150.222.47.192/26 -j ACCEPT
 iptables -A INPUT -s 52.144.225.0/26 -j ACCEPT
 iptables -A INPUT -s 15.177.86.0/24 -j ACCEPT
@@ -34,8 +36,10 @@ iptables -A INPUT -s 3.5.214.0/23 -j ACCEPT
 iptables -A INPUT -s 18.163.0.0/16 -j ACCEPT
 iptables -A INPUT -s 52.95.162.0/24 -j ACCEPT
 iptables -A INPUT -s 16.106.0.0/16 -j ACCEPT
+iptables -A INPUT -s 3.4.15.232/29 -j ACCEPT
 iptables -A INPUT -s 99.77.142.0/24 -j ACCEPT
 iptables -A INPUT -s 99.77.241.0/24 -j ACCEPT
+iptables -A INPUT -s 3.4.12.69/32 -j ACCEPT
 iptables -A INPUT -s 54.239.1.80/28 -j ACCEPT
 iptables -A INPUT -s 69.107.12.72/29 -j ACCEPT
 iptables -A INPUT -s 159.248.133.0/24 -j ACCEPT
@@ -43,6 +47,7 @@ iptables -A INPUT -s 16.12.8.0/24 -j ACCEPT
 iptables -A INPUT -s 54.240.241.0/24 -j ACCEPT
 iptables -A INPUT -s 54.46.0.0/17 -j ACCEPT
 iptables -A INPUT -s 76.162.0.0/15 -j ACCEPT
+iptables -A INPUT -s 3.4.12.68/32 -j ACCEPT
 iptables -A INPUT -s 52.93.156.0/22 -j ACCEPT
 iptables -A INPUT -s 150.222.48.0/26 -j ACCEPT
 iptables -A INPUT -s 69.107.12.64/29 -j ACCEPT
@@ -62,6 +67,7 @@ iptables -A INPUT -s 18.162.0.0/16 -j ACCEPT
 iptables -A INPUT -s 99.83.96.0/24 -j ACCEPT
 iptables -A INPUT -s 15.230.74.64/26 -j ACCEPT
 iptables -A INPUT -s 95.40.0.0/15 -j ACCEPT
+iptables -A INPUT -s 3.4.12.70/32 -j ACCEPT
 iptables -A INPUT -s 15.177.85.0/24 -j ACCEPT
 iptables -A INPUT -s 151.148.19.0/24 -j ACCEPT
 iptables -A INPUT -s 16.162.0.0/15 -j ACCEPT

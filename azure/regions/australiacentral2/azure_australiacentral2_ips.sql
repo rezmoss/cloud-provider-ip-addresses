@@ -90,6 +90,9 @@ INSERT INTO `azure_australiacentral2_ips` (`ip_address`, `ip_type`) VALUES ('260
 INSERT INTO `azure_australiacentral2_ips` (`ip_address`, `ip_type`) VALUES ('20.36.121.0/25', 'IPv4');
 INSERT INTO `azure_australiacentral2_ips` (`ip_address`, `ip_type`) VALUES ('20.39.99.64/28', 'IPv4');
 INSERT INTO `azure_australiacentral2_ips` (`ip_address`, `ip_type`) VALUES ('20.39.99.240/28', 'IPv4');
+INSERT INTO `azure_australiacentral2_ips` (`ip_address`, `ip_type`) VALUES ('20.167.230.0/23', 'IPv4');
+INSERT INTO `azure_australiacentral2_ips` (`ip_address`, `ip_type`) VALUES ('20.167.232.0/22', 'IPv4');
+INSERT INTO `azure_australiacentral2_ips` (`ip_address`, `ip_type`) VALUES ('20.167.236.0/23', 'IPv4');
 INSERT INTO `azure_australiacentral2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:404::380/121', 'IPv6');
 INSERT INTO `azure_australiacentral2_ips` (`ip_address`, `ip_type`) VALUES ('20.36.114.32/27', 'IPv4');
 INSERT INTO `azure_australiacentral2_ips` (`ip_address`, `ip_type`) VALUES ('20.53.59.0/24', 'IPv4');

@@ -612,6 +612,24 @@
     "region": "southindia"
   },
   {
+    "ip_address": "74.224.230.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "74.224.232.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "74.224.236.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.SouthIndia",
+    "region": "southindia"
+  },
+  {
     "ip_address": "2603:1040:c06::380/121",
     "ip_type": "IPv6",
     "service": "AzureEventGrid.SouthIndia",

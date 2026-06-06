@@ -318,6 +318,24 @@
     "region": "malaysiasouth"
   },
   {
+    "ip_address": "172.197.34.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.MalaysiaSouth",
+    "region": "malaysiasouth"
+  },
+  {
+    "ip_address": "172.197.36.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.MalaysiaSouth",
+    "region": "malaysiasouth"
+  },
+  {
+    "ip_address": "172.197.40.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.MalaysiaSouth",
+    "region": "malaysiasouth"
+  },
+  {
     "ip_address": "2603:1040:1503::280/121",
     "ip_type": "IPv6",
     "service": "AzureEventGrid.MalaysiaSouth",

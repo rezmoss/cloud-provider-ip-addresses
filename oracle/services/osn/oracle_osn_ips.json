@@ -1026,6 +1026,42 @@
     "region": "ap-mumbai-1"
   },
   {
+    "ip_address": "84.235.192.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "il-jerusalem-1"
+  },
+  {
+    "ip_address": "92.5.254.0/24",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "il-jerusalem-1"
+  },
+  {
+    "ip_address": "129.149.120.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "il-jerusalem-1"
+  },
+  {
+    "ip_address": "129.149.126.0/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "il-jerusalem-1"
+  },
+  {
+    "ip_address": "140.91.76.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "il-jerusalem-1"
+  },
+  {
+    "ip_address": "140.204.108.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "il-jerusalem-1"
+  },
+  {
     "ip_address": "79.76.16.0/23",
     "ip_type": "IPv4",
     "service": "OSN",
@@ -1254,6 +1290,66 @@
     "region": "me-dubai-1"
   },
   {
+    "ip_address": "129.148.200.0/21",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "uk-cardiff-1"
+  },
+  {
+    "ip_address": "129.149.16.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "uk-cardiff-1"
+  },
+  {
+    "ip_address": "129.149.20.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "uk-cardiff-1"
+  },
+  {
+    "ip_address": "129.149.22.0/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "uk-cardiff-1"
+  },
+  {
+    "ip_address": "129.149.22.192/26",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "uk-cardiff-1"
+  },
+  {
+    "ip_address": "129.149.23.0/24",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "uk-cardiff-1"
+  },
+  {
+    "ip_address": "130.110.24.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "uk-cardiff-1"
+  },
+  {
+    "ip_address": "140.91.60.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "uk-cardiff-1"
+  },
+  {
+    "ip_address": "140.204.70.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "uk-cardiff-1"
+  },
+  {
+    "ip_address": "209.17.60.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "uk-cardiff-1"
+  },
+  {
     "ip_address": "79.76.18.0/23",
     "ip_type": "IPv4",
     "service": "OSN",
@@ -1369,6 +1465,12 @@
   },
   {
     "ip_address": "140.91.12.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-ashburn-1"
+  },
+  {
+    "ip_address": "147.5.64.0/19",
     "ip_type": "IPv4",
     "service": "OSN",
     "region": "us-ashburn-1"
@@ -1734,66 +1836,6 @@
     "region": "ap-singapore-1"
   },
   {
-    "ip_address": "129.148.200.0/21",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "uk-cardiff-1"
-  },
-  {
-    "ip_address": "129.149.16.0/23",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "uk-cardiff-1"
-  },
-  {
-    "ip_address": "129.149.20.0/23",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "uk-cardiff-1"
-  },
-  {
-    "ip_address": "129.149.22.0/25",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "uk-cardiff-1"
-  },
-  {
-    "ip_address": "129.149.22.192/26",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "uk-cardiff-1"
-  },
-  {
-    "ip_address": "129.149.23.0/24",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "uk-cardiff-1"
-  },
-  {
-    "ip_address": "130.110.24.0/22",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "uk-cardiff-1"
-  },
-  {
-    "ip_address": "140.91.60.0/23",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "uk-cardiff-1"
-  },
-  {
-    "ip_address": "140.204.70.128/25",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "uk-cardiff-1"
-  },
-  {
-    "ip_address": "209.17.60.0/22",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "uk-cardiff-1"
-  },
-  {
     "ip_address": "129.148.144.0/23",
     "ip_type": "IPv4",
     "service": "OSN",
@@ -1834,42 +1876,6 @@
     "ip_type": "IPv4",
     "service": "OSN",
     "region": "ap-chuncheon-1"
-  },
-  {
-    "ip_address": "84.235.192.0/23",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "il-jerusalem-1"
-  },
-  {
-    "ip_address": "92.5.254.0/24",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "il-jerusalem-1"
-  },
-  {
-    "ip_address": "129.149.120.0/22",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "il-jerusalem-1"
-  },
-  {
-    "ip_address": "129.149.126.0/25",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "il-jerusalem-1"
-  },
-  {
-    "ip_address": "140.91.76.0/23",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "il-jerusalem-1"
-  },
-  {
-    "ip_address": "140.204.108.128/25",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "il-jerusalem-1"
   },
   {
     "ip_address": "134.185.64.0/22",
@@ -1987,6 +1993,12 @@
   },
   {
     "ip_address": "161.33.252.0/24",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-tokyo-1"
+  },
+  {
+    "ip_address": "161.118.8.0/21",
     "ip_type": "IPv4",
     "service": "OSN",
     "region": "ap-tokyo-1"
@@ -2203,6 +2215,12 @@
   },
   {
     "ip_address": "140.204.120.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "mx-queretaro-1"
+  },
+  {
+    "ip_address": "147.15.176.0/23",
     "ip_type": "IPv4",
     "service": "OSN",
     "region": "mx-queretaro-1"

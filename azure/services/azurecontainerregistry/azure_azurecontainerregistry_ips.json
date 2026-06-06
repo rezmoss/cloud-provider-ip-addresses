@@ -3462,6 +3462,12 @@
     "region": ""
   },
   {
+    "ip_address": "172.215.171.96/27",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry",
+    "region": ""
+  },
+  {
     "ip_address": "172.215.202.64/26",
     "ip_type": "IPv4",
     "service": "AzureContainerRegistry",

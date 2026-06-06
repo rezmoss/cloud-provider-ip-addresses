@@ -128,6 +128,8 @@ ip_address,ip_type,service,region
 52.228.81.224/28,IPv4,AzureDevSpaces.CanadaCentral,canadacentral
 20.48.193.128/27,IPv4,AzureDigitalTwins.CanadaCentral,canadacentral
 20.48.193.160/29,IPv4,AzureDigitalTwins.CanadaCentral,canadacentral
+4.173.28.0/22,IPv4,AzureEventGrid.CanadaCentral,canadacentral
+4.173.88.0/22,IPv4,AzureEventGrid.CanadaCentral,canadacentral
 52.139.9.80/28,IPv4,AzureEventGrid.CanadaCentral,canadacentral
 52.139.11.16/28,IPv4,AzureEventGrid.CanadaCentral,canadacentral
 52.228.83.0/25,IPv4,AzureEventGrid.CanadaCentral,canadacentral

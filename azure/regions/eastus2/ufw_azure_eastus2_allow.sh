@@ -1,6 +1,6 @@
 #!/bin/bash
 # Azure IP Ranges
-# Updated: 2026-05-27 03:20:55
+# Updated: 2026-06-06 03:17:43
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -208,6 +208,9 @@ ufw allow from 52.167.21.160/27
 ufw allow from 52.167.21.208/28
 ufw allow from 52.167.21.224/28
 ufw allow from 52.177.38.160/27
+ufw allow from 57.167.202.0/23
+ufw allow from 57.167.204.0/22
+ufw allow from 57.167.208.0/25
 ufw allow from 74.249.122.0/24
 ufw allow from 2603:1030:40c:1::380/121
 ufw allow from 20.36.144.64/26
@@ -1265,11 +1268,7 @@ ufw allow from 40.87.169.224/28
 ufw allow from 40.87.169.240/29
 ufw allow from 40.87.169.248/30
 ufw allow from 40.87.169.252/31
-ufw allow from 40.87.170.0/27
-ufw allow from 40.87.170.34/31
-ufw allow from 40.87.170.36/30
-ufw allow from 40.87.170.40/29
-ufw allow from 40.87.170.48/28
+ufw allow from 40.87.170.0/26
 ufw allow from 40.87.170.64/28
 ufw allow from 40.87.170.80/29
 ufw allow from 40.87.170.88/30
@@ -1369,9 +1368,7 @@ ufw allow from 40.120.156.116/31
 ufw allow from 40.120.156.120/29
 ufw allow from 40.120.156.128/25
 ufw allow from 40.120.157.0/27
-ufw allow from 40.120.157.32/29
-ufw allow from 40.120.157.42/31
-ufw allow from 40.120.157.44/30
+ufw allow from 40.120.157.32/28
 ufw allow from 40.120.157.48/30
 ufw allow from 40.120.157.54/31
 ufw allow from 40.120.157.56/29
@@ -2029,6 +2026,7 @@ ufw allow from 70.152.122.0/23
 ufw allow from 70.152.124.0/22
 ufw allow from 70.152.128.0/21
 ufw allow from 72.153.0.0/17
+ufw allow from 74.145.0.0/17
 ufw allow from 74.249.0.0/17
 ufw allow from 104.44.88.32/27
 ufw allow from 104.44.88.96/27
@@ -2266,10 +2264,7 @@ ufw allow from 2603:1030:401:21e::/63
 ufw allow from 2603:1030:401:220::/62
 ufw allow from 2603:1030:401:225::/64
 ufw allow from 2603:1030:401:226::/63
-ufw allow from 2603:1030:401:228::/63
-ufw allow from 2603:1030:401:22a::/64
-ufw allow from 2603:1030:401:22c::/64
-ufw allow from 2603:1030:401:22e::/63
+ufw allow from 2603:1030:401:228::/61
 ufw allow from 2603:1030:401:230::/60
 ufw allow from 2603:1030:401:240::/60
 ufw allow from 2603:1030:401:250::/62

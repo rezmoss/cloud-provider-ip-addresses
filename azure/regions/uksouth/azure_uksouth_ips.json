@@ -4728,6 +4728,12 @@
     "region": "uksouth"
   },
   {
+    "ip_address": "20.143.200.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
     "ip_address": "20.150.18.0/25",
     "ip_type": "IPv4",
     "service": "AzureCloud.uksouth",

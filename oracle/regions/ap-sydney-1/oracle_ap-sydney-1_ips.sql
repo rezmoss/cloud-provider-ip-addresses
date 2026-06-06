@@ -9,6 +9,7 @@ CREATE TABLE IF NOT EXISTS `oracle_ap-sydney-1_ips` (
 INSERT INTO `oracle_ap-sydney-1_ips` (`ip_address`, `ip_type`) VALUES ('129.91.16.0/21', 'IPv4');
 INSERT INTO `oracle_ap-sydney-1_ips` (`ip_address`, `ip_type`) VALUES ('129.154.64.0/18', 'IPv4');
 INSERT INTO `oracle_ap-sydney-1_ips` (`ip_address`, `ip_type`) VALUES ('129.154.168.0/22', 'IPv4');
+INSERT INTO `oracle_ap-sydney-1_ips` (`ip_address`, `ip_type`) VALUES ('137.23.0.0/19', 'IPv4');
 INSERT INTO `oracle_ap-sydney-1_ips` (`ip_address`, `ip_type`) VALUES ('140.238.192.0/20', 'IPv4');
 INSERT INTO `oracle_ap-sydney-1_ips` (`ip_address`, `ip_type`) VALUES ('149.118.64.0/20', 'IPv4');
 INSERT INTO `oracle_ap-sydney-1_ips` (`ip_address`, `ip_type`) VALUES ('150.230.8.0/21', 'IPv4');

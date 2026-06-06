@@ -438,6 +438,24 @@
     "region": "israelcentral"
   },
   {
+    "ip_address": "51.58.82.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.IsraelCentral",
+    "region": "israelcentral"
+  },
+  {
+    "ip_address": "51.58.84.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.IsraelCentral",
+    "region": "israelcentral"
+  },
+  {
+    "ip_address": "51.58.88.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.IsraelCentral",
+    "region": "israelcentral"
+  },
+  {
     "ip_address": "2603:1040:1402::280/121",
     "ip_type": "IPv6",
     "service": "AzureEventGrid.IsraelCentral",

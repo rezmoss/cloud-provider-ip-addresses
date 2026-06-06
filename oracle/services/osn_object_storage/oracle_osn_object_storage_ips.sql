@@ -29,10 +29,12 @@ INSERT INTO `oracle_osn_object_storage_ips` (`ip_address`, `ip_type`) VALUES ('1
 INSERT INTO `oracle_osn_object_storage_ips` (`ip_address`, `ip_type`) VALUES ('134.70.48.0/22', 'IPv4');
 INSERT INTO `oracle_osn_object_storage_ips` (`ip_address`, `ip_type`) VALUES ('80.225.168.0/22', 'IPv4');
 INSERT INTO `oracle_osn_object_storage_ips` (`ip_address`, `ip_type`) VALUES ('134.70.76.0/22', 'IPv4');
+INSERT INTO `oracle_osn_object_storage_ips` (`ip_address`, `ip_type`) VALUES ('134.70.172.0/22', 'IPv4');
 INSERT INTO `oracle_osn_object_storage_ips` (`ip_address`, `ip_type`) VALUES ('84.8.72.0/22', 'IPv4');
 INSERT INTO `oracle_osn_object_storage_ips` (`ip_address`, `ip_type`) VALUES ('134.70.160.0/22', 'IPv4');
 INSERT INTO `oracle_osn_object_storage_ips` (`ip_address`, `ip_type`) VALUES ('134.70.104.0/22', 'IPv4');
 INSERT INTO `oracle_osn_object_storage_ips` (`ip_address`, `ip_type`) VALUES ('134.70.148.0/22', 'IPv4');
+INSERT INTO `oracle_osn_object_storage_ips` (`ip_address`, `ip_type`) VALUES ('134.70.136.0/22', 'IPv4');
 INSERT INTO `oracle_osn_object_storage_ips` (`ip_address`, `ip_type`) VALUES ('134.70.180.0/22', 'IPv4');
 INSERT INTO `oracle_osn_object_storage_ips` (`ip_address`, `ip_type`) VALUES ('134.70.24.0/21', 'IPv4');
 INSERT INTO `oracle_osn_object_storage_ips` (`ip_address`, `ip_type`) VALUES ('134.70.32.0/22', 'IPv4');
@@ -41,9 +43,7 @@ INSERT INTO `oracle_osn_object_storage_ips` (`ip_address`, `ip_type`) VALUES ('1
 INSERT INTO `oracle_osn_object_storage_ips` (`ip_address`, `ip_type`) VALUES ('134.70.8.0/21', 'IPv4');
 INSERT INTO `oracle_osn_object_storage_ips` (`ip_address`, `ip_type`) VALUES ('134.70.16.0/22', 'IPv4');
 INSERT INTO `oracle_osn_object_storage_ips` (`ip_address`, `ip_type`) VALUES ('134.70.128.0/22', 'IPv4');
-INSERT INTO `oracle_osn_object_storage_ips` (`ip_address`, `ip_type`) VALUES ('134.70.136.0/22', 'IPv4');
 INSERT INTO `oracle_osn_object_storage_ips` (`ip_address`, `ip_type`) VALUES ('134.70.132.0/22', 'IPv4');
-INSERT INTO `oracle_osn_object_storage_ips` (`ip_address`, `ip_type`) VALUES ('134.70.172.0/22', 'IPv4');
 INSERT INTO `oracle_osn_object_storage_ips` (`ip_address`, `ip_type`) VALUES ('134.70.108.0/22', 'IPv4');
 INSERT INTO `oracle_osn_object_storage_ips` (`ip_address`, `ip_type`) VALUES ('134.70.80.0/22', 'IPv4');
 INSERT INTO `oracle_osn_object_storage_ips` (`ip_address`, `ip_type`) VALUES ('134.70.88.0/22', 'IPv4');

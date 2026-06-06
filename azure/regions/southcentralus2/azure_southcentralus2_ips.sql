@@ -48,6 +48,7 @@ INSERT INTO `azure_southcentralus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:
 INSERT INTO `azure_southcentralus2_ips` (`ip_address`, `ip_type`) VALUES ('48.216.19.192/27', 'IPv4');
 INSERT INTO `azure_southcentralus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1102::580/121', 'IPv6');
 INSERT INTO `azure_southcentralus2_ips` (`ip_address`, `ip_type`) VALUES ('48.216.17.128/25', 'IPv4');
+INSERT INTO `azure_southcentralus2_ips` (`ip_address`, `ip_type`) VALUES ('48.219.32.0/21', 'IPv4');
 INSERT INTO `azure_southcentralus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1102::280/121', 'IPv6');
 INSERT INTO `azure_southcentralus2_ips` (`ip_address`, `ip_type`) VALUES ('48.216.8.128/26', 'IPv4');
 INSERT INTO `azure_southcentralus2_ips` (`ip_address`, `ip_type`) VALUES ('48.216.21.0/24', 'IPv4');

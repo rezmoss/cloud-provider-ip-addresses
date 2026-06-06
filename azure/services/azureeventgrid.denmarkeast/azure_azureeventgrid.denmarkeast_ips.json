@@ -6,6 +6,12 @@
     "region": "denmarkeast"
   },
   {
+    "ip_address": "9.205.192.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.DenmarkEast",
+    "region": "denmarkeast"
+  },
+  {
     "ip_address": "2603:1020:1602::280/121",
     "ip_type": "IPv6",
     "service": "AzureEventGrid.DenmarkEast",

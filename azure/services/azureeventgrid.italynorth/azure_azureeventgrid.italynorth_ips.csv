@@ -1,3 +1,5 @@
 ip_address,ip_type,service,region
 4.232.25.128/25,IPv4,AzureEventGrid.ItalyNorth,italynorth
+9.235.196.0/22,IPv4,AzureEventGrid.ItalyNorth,italynorth
+9.235.200.0/22,IPv4,AzureEventGrid.ItalyNorth,italynorth
 2603:1020:1204::280/121,IPv6,AzureEventGrid.ItalyNorth,italynorth

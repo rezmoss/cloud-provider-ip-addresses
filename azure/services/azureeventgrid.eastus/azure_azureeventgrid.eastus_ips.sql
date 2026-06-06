@@ -19,4 +19,7 @@ INSERT INTO `azure_azureeventgrid.eastus_ips` (`ip_address`, `ip_type`) VALUES (
 INSERT INTO `azure_azureeventgrid.eastus_ips` (`ip_address`, `ip_type`) VALUES ('57.152.110.64/26', 'IPv4');
 INSERT INTO `azure_azureeventgrid.eastus_ips` (`ip_address`, `ip_type`) VALUES ('57.162.209.128/25', 'IPv4');
 INSERT INTO `azure_azureeventgrid.eastus_ips` (`ip_address`, `ip_type`) VALUES ('57.162.214.0/25', 'IPv4');
+INSERT INTO `azure_azureeventgrid.eastus_ips` (`ip_address`, `ip_type`) VALUES ('57.162.220.64/26', 'IPv4');
+INSERT INTO `azure_azureeventgrid.eastus_ips` (`ip_address`, `ip_type`) VALUES ('57.162.222.0/23', 'IPv4');
+INSERT INTO `azure_azureeventgrid.eastus_ips` (`ip_address`, `ip_type`) VALUES ('57.169.136.0/22', 'IPv4');
 INSERT INTO `azure_azureeventgrid.eastus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:210:1::380/121', 'IPv6');

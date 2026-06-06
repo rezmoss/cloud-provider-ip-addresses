@@ -522,6 +522,24 @@
     "region": "koreasouth"
   },
   {
+    "ip_address": "4.243.0.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "4.243.170.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "4.243.172.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
     "ip_address": "40.80.170.0/25",
     "ip_type": "IPv4",
     "service": "AzureEventGrid.KoreaSouth",
@@ -1801,6 +1819,12 @@
   },
   {
     "ip_address": "20.135.30.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "20.143.206.0/23",
     "ip_type": "IPv4",
     "service": "AzureCloud.koreasouth",
     "region": "koreasouth"

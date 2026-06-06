@@ -1,4 +1,6 @@
 ip_address,ip_type,service,region
+4.173.28.0/22,IPv4,AzureEventGrid.CanadaCentral,canadacentral
+4.173.88.0/22,IPv4,AzureEventGrid.CanadaCentral,canadacentral
 52.139.9.80/28,IPv4,AzureEventGrid.CanadaCentral,canadacentral
 52.139.11.16/28,IPv4,AzureEventGrid.CanadaCentral,canadacentral
 52.228.83.0/25,IPv4,AzureEventGrid.CanadaCentral,canadacentral

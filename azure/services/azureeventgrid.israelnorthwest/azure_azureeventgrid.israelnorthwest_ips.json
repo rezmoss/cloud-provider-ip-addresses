@@ -6,6 +6,24 @@
     "region": "israelnorthwest"
   },
   {
+    "ip_address": "51.58.146.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.IsraelNorthwest",
+    "region": "israelnorthwest"
+  },
+  {
+    "ip_address": "51.58.148.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.IsraelNorthwest",
+    "region": "israelnorthwest"
+  },
+  {
+    "ip_address": "51.58.152.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.IsraelNorthwest",
+    "region": "israelnorthwest"
+  },
+  {
     "ip_address": "2603:1040:1702::280/121",
     "ip_type": "IPv6",
     "service": "AzureEventGrid.IsraelNorthwest",

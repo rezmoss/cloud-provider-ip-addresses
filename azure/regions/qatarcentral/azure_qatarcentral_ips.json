@@ -492,6 +492,12 @@
     "region": "qatarcentral"
   },
   {
+    "ip_address": "4.244.56.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
     "ip_address": "20.21.33.128/25",
     "ip_type": "IPv4",
     "service": "AzureEventGrid.QatarCentral",

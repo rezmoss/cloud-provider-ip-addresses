@@ -2994,13 +2994,13 @@
     "region": "switzerlandn"
   },
   {
-    "ip_address": "57.157.156.32/29",
+    "ip_address": "57.157.156.32/28",
     "ip_type": "IPv4",
     "service": "AzureCloud.switzerlandn",
     "region": "switzerlandn"
   },
   {
-    "ip_address": "57.157.156.40/30",
+    "ip_address": "57.157.156.48/31",
     "ip_type": "IPv4",
     "service": "AzureCloud.switzerlandn",
     "region": "switzerlandn"

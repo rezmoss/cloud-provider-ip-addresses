@@ -78,6 +78,18 @@
     "region": "ap-chuncheon-1"
   },
   {
+    "ip_address": "161.118.16.0/20",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-chuncheon-1"
+  },
+  {
+    "ip_address": "161.118.64.0/18",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-chuncheon-1"
+  },
+  {
     "ip_address": "168.107.0.0/18",
     "ip_type": "IPv4",
     "service": "OCI",

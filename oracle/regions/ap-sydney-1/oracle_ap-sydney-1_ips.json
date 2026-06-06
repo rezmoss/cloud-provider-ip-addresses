@@ -18,6 +18,12 @@
     "region": "ap-sydney-1"
   },
   {
+    "ip_address": "137.23.0.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-sydney-1"
+  },
+  {
     "ip_address": "140.238.192.0/20",
     "ip_type": "IPv4",
     "service": "OCI",

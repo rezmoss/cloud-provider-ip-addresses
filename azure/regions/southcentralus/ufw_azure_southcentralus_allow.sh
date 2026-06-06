@@ -1,6 +1,6 @@
 #!/bin/bash
 # Azure IP Ranges
-# Updated: 2026-05-27 03:20:55
+# Updated: 2026-06-06 03:17:44
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -197,6 +197,7 @@ ufw allow from 48.221.168.64/26
 ufw allow from 72.147.158.128/26
 ufw allow from 104.214.18.184/29
 ufw allow from 172.215.133.0/24
+ufw allow from 172.215.171.96/27
 ufw allow from 2603:1030:807:7::500/122
 ufw allow from 2603:1030:807:402::90/125
 ufw allow from 2603:1030:807:402::340/122
@@ -256,6 +257,9 @@ ufw allow from 157.55.90.56/31
 ufw allow from 2603:1030:807:9::320/126
 ufw allow from 4.151.98.0/24
 ufw allow from 13.73.248.128/25
+ufw allow from 13.85.236.128/25
+ufw allow from 13.85.238.0/23
+ufw allow from 13.85.240.0/22
 ufw allow from 52.185.212.176/28
 ufw allow from 52.185.212.192/28
 ufw allow from 52.255.82.160/28
@@ -919,6 +923,7 @@ ufw allow from 20.136.0.128/25
 ufw allow from 20.136.2.0/24
 ufw allow from 20.143.64.0/23
 ufw allow from 20.143.114.0/23
+ufw allow from 20.143.204.0/23
 ufw allow from 20.150.20.128/25
 ufw allow from 20.150.38.0/23
 ufw allow from 20.150.70.0/24
@@ -1065,8 +1070,7 @@ ufw allow from 40.87.178.80/31
 ufw allow from 40.87.178.90/31
 ufw allow from 40.87.178.92/30
 ufw allow from 40.87.178.96/28
-ufw allow from 40.87.178.112/31
-ufw allow from 40.87.178.116/30
+ufw allow from 40.87.178.112/29
 ufw allow from 40.87.178.138/31
 ufw allow from 40.87.178.140/30
 ufw allow from 40.87.178.144/29
@@ -1355,6 +1359,7 @@ ufw allow from 70.152.56.0/23
 ufw allow from 70.152.243.0/24
 ufw allow from 70.152.244.0/24
 ufw allow from 72.147.128.0/17
+ufw allow from 74.145.128.0/17
 ufw allow from 104.44.89.0/27
 ufw allow from 104.44.89.64/27
 ufw allow from 104.44.92.64/27
@@ -1473,10 +1478,7 @@ ufw allow from 2603:1030:804:118::/61
 ufw allow from 2603:1030:804:120::/62
 ufw allow from 2603:1030:804:12d::/64
 ufw allow from 2603:1030:804:12e::/63
-ufw allow from 2603:1030:804:130::/62
-ufw allow from 2603:1030:804:134::/63
-ufw allow from 2603:1030:804:137::/64
-ufw allow from 2603:1030:804:138::/61
+ufw allow from 2603:1030:804:130::/60
 ufw allow from 2603:1030:804:140::/60
 ufw allow from 2603:1030:804:150::/61
 ufw allow from 2603:1030:804:158::/62

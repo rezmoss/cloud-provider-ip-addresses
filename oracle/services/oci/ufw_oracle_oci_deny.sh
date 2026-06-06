@@ -1,6 +1,6 @@
 #!/bin/bash
 # Oracle IP Ranges
-# Updated: 2026-04-22 00:32:33
+# Updated: 2026-06-06 03:17:45
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -281,6 +281,13 @@ ufw deny from 155.248.240.0/20
 ufw deny from 161.118.160.0/19
 ufw deny from 168.138.112.0/21
 ufw deny from 207.135.16.0/23
+ufw deny from 82.70.208.0/20
+ufw deny from 82.70.252.0/22
+ufw deny from 129.159.128.0/19
+ufw deny from 130.110.238.0/24
+ufw deny from 151.145.80.0/20
+ufw deny from 158.178.128.0/22
+ufw deny from 158.178.248.0/22
 ufw deny from 84.8.96.0/19
 ufw deny from 145.241.104.0/21
 ufw deny from 145.241.152.0/21
@@ -313,6 +320,11 @@ ufw deny from 139.185.32.0/19
 ufw deny from 141.145.144.0/20
 ufw deny from 145.241.112.0/20
 ufw deny from 193.123.64.0/19
+ufw deny from 88.96.0.0/19
+ufw deny from 129.151.64.0/19
+ufw deny from 134.65.56.0/21
+ufw deny from 144.24.224.0/21
+ufw deny from 88.96.32.0/19
 ufw deny from 89.168.32.0/19
 ufw deny from 141.145.192.0/19
 ufw deny from 141.253.96.0/19
@@ -383,6 +395,7 @@ ufw deny from 194.164.248.0/21
 ufw deny from 129.91.16.0/21
 ufw deny from 129.154.64.0/18
 ufw deny from 129.154.168.0/22
+ufw deny from 137.23.0.0/19
 ufw deny from 140.238.192.0/20
 ufw deny from 149.118.64.0/20
 ufw deny from 150.230.8.0/21
@@ -441,9 +454,6 @@ ufw deny from 161.118.192.0/18
 ufw deny from 168.107.64.0/19
 ufw deny from 168.138.160.0/19
 ufw deny from 213.35.96.0/19
-ufw deny from 129.151.64.0/19
-ufw deny from 134.65.56.0/21
-ufw deny from 144.24.224.0/21
 ufw deny from 129.154.48.0/20
 ufw deny from 134.185.96.0/19
 ufw deny from 138.2.112.0/20
@@ -457,13 +467,10 @@ ufw deny from 152.69.224.0/20
 ufw deny from 158.179.160.0/20
 ufw deny from 158.179.192.0/22
 ufw deny from 158.180.64.0/19
+ufw deny from 161.118.16.0/20
+ufw deny from 161.118.64.0/18
 ufw deny from 168.107.0.0/18
 ufw deny from 168.110.96.0/19
-ufw deny from 129.159.128.0/19
-ufw deny from 130.110.238.0/24
-ufw deny from 151.145.80.0/20
-ufw deny from 158.178.128.0/22
-ufw deny from 158.178.248.0/22
 ufw deny from 130.162.192.0/21
 ufw deny from 152.69.176.0/20
 ufw deny from 152.70.224.0/22
@@ -526,6 +533,7 @@ ufw deny from 160.34.208.0/20
 ufw deny from 163.192.128.0/19
 ufw deny from 220.158.64.0/20
 ufw deny from 140.245.32.0/19
+ufw deny from 149.118.32.0/19
 ufw deny from 217.142.184.0/21
 ufw deny from 147.224.224.0/20
 ufw deny from 148.116.104.0/21

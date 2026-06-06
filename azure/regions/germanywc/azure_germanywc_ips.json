@@ -684,6 +684,18 @@
     "region": "germanywc"
   },
   {
+    "ip_address": "48.203.132.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "48.203.136.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
     "ip_address": "51.116.100.208/28",
     "ip_type": "IPv4",
     "service": "AzureEventGrid.GermanyWestCentral",
@@ -3264,7 +3276,7 @@
     "region": "germanywc"
   },
   {
-    "ip_address": "57.157.61.32/31",
+    "ip_address": "57.157.61.32/30",
     "ip_type": "IPv4",
     "service": "AzureCloud.germanywc",
     "region": "germanywc"

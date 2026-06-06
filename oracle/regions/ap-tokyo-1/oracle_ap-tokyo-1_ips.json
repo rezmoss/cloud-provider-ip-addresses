@@ -210,6 +210,12 @@
     "region": "ap-tokyo-1"
   },
   {
+    "ip_address": "161.118.8.0/21",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-tokyo-1"
+  },
+  {
     "ip_address": "192.29.36.0/22",
     "ip_type": "IPv4",
     "service": "OSN",

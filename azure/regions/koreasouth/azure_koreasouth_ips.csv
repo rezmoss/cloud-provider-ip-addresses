@@ -86,6 +86,9 @@ ip_address,ip_type,service,region
 40.80.173.208/29,IPv4,AzureDigitalTwins.KoreaSouth,koreasouth
 40.80.173.224/27,IPv4,AzureDigitalTwins.KoreaSouth,koreasouth
 2603:1040:e05:5::280/121,IPv6,AzureDigitalTwins.KoreaSouth,koreasouth
+4.243.0.0/23,IPv4,AzureEventGrid.KoreaSouth,koreasouth
+4.243.170.0/23,IPv4,AzureEventGrid.KoreaSouth,koreasouth
+4.243.172.0/22,IPv4,AzureEventGrid.KoreaSouth,koreasouth
 40.80.170.0/25,IPv4,AzureEventGrid.KoreaSouth,koreasouth
 40.80.236.192/27,IPv4,AzureEventGrid.KoreaSouth,koreasouth
 2603:1040:e05:1::700/121,IPv6,AzureEventGrid.KoreaSouth,koreasouth
@@ -300,6 +303,7 @@ ip_address,ip_type,service,region
 20.60.202.0/23,IPv4,AzureCloud.koreasouth,koreasouth
 20.135.26.0/23,IPv4,AzureCloud.koreasouth,koreasouth
 20.135.30.0/23,IPv4,AzureCloud.koreasouth,koreasouth
+20.143.206.0/23,IPv4,AzureCloud.koreasouth,koreasouth
 20.150.14.0/23,IPv4,AzureCloud.koreasouth,koreasouth
 20.153.91.0/24,IPv4,AzureCloud.koreasouth,koreasouth
 20.157.137.0/24,IPv4,AzureCloud.koreasouth,koreasouth

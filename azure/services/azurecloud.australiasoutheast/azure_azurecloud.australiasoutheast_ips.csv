@@ -118,6 +118,7 @@ ip_address,ip_type,service,region
 104.209.64.0/20,IPv4,AzureCloud.australiasoutheast,australiasoutheast
 135.130.3.0/24,IPv4,AzureCloud.australiasoutheast,australiasoutheast
 135.130.40.0/24,IPv4,AzureCloud.australiasoutheast,australiasoutheast
+145.190.182.0/24,IPv4,AzureCloud.australiasoutheast,australiasoutheast
 151.206.89.0/24,IPv4,AzureCloud.australiasoutheast,australiasoutheast
 151.206.165.0/24,IPv4,AzureCloud.australiasoutheast,australiasoutheast
 151.206.191.0/24,IPv4,AzureCloud.australiasoutheast,australiasoutheast

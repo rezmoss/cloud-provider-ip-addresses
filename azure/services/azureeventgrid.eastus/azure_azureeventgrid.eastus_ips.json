@@ -78,6 +78,24 @@
     "region": "eastus"
   },
   {
+    "ip_address": "57.162.220.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "57.162.222.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "57.169.136.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.EastUS",
+    "region": "eastus"
+  },
+  {
     "ip_address": "2603:1030:210:1::380/121",
     "ip_type": "IPv6",
     "service": "AzureEventGrid.EastUS",

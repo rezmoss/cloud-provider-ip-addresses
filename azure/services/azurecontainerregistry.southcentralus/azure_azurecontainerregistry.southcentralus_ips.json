@@ -84,6 +84,12 @@
     "region": "southcentralus"
   },
   {
+    "ip_address": "172.215.171.96/27",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
     "ip_address": "2603:1030:807:7::500/122",
     "ip_type": "IPv6",
     "service": "AzureContainerRegistry.SouthCentralUS",

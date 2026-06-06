@@ -47,6 +47,9 @@ ip_address,ip_type,service,region
 20.217.251.192/27,IPv4,AzureDigitalTwins.IsraelNorthwest,israelnorthwest
 2603:1040:1702::580/121,IPv6,AzureDigitalTwins.IsraelNorthwest,israelnorthwest
 20.217.249.128/25,IPv4,AzureEventGrid.IsraelNorthwest,israelnorthwest
+51.58.146.0/23,IPv4,AzureEventGrid.IsraelNorthwest,israelnorthwest
+51.58.148.0/22,IPv4,AzureEventGrid.IsraelNorthwest,israelnorthwest
+51.58.152.0/23,IPv4,AzureEventGrid.IsraelNorthwest,israelnorthwest
 2603:1040:1702::280/121,IPv6,AzureEventGrid.IsraelNorthwest,israelnorthwest
 20.217.253.0/24,IPv4,EventHub.IsraelNorthwest,israelnorthwest
 51.4.160.128/26,IPv4,EventHub.IsraelNorthwest,israelnorthwest
@@ -152,8 +155,7 @@ ip_address,ip_type,service,region
 20.20.57.64/27,IPv4,AzureCloud.israelnorthwest,israelnorthwest
 20.20.116.0/25,IPv4,AzureCloud.israelnorthwest,israelnorthwest
 20.20.116.128/28,IPv4,AzureCloud.israelnorthwest,israelnorthwest
-20.20.116.144/30,IPv4,AzureCloud.israelnorthwest,israelnorthwest
-20.20.116.148/31,IPv4,AzureCloud.israelnorthwest,israelnorthwest
+20.20.116.144/29,IPv4,AzureCloud.israelnorthwest,israelnorthwest
 20.38.48.0/24,IPv4,AzureCloud.israelnorthwest,israelnorthwest
 20.143.174.0/23,IPv4,AzureCloud.israelnorthwest,israelnorthwest
 20.143.176.0/23,IPv4,AzureCloud.israelnorthwest,israelnorthwest
@@ -194,6 +196,7 @@ ip_address,ip_type,service,region
 2603:1047:1:300::/59,IPv6,AzureCloud.israelnorthwest,israelnorthwest
 2603:1061:1015::/58,IPv6,AzureCloud.israelnorthwest,israelnorthwest
 2603:1061:1015:40::/62,IPv6,AzureCloud.israelnorthwest,israelnorthwest
+2603:1061:1015:44::/64,IPv6,AzureCloud.israelnorthwest,israelnorthwest
 2603:1061:1310:5000::/54,IPv6,AzureCloud.israelnorthwest,israelnorthwest
 2603:1061:1744::/48,IPv6,AzureCloud.israelnorthwest,israelnorthwest
 2603:1061:2010:44::/64,IPv6,AzureCloud.israelnorthwest,israelnorthwest

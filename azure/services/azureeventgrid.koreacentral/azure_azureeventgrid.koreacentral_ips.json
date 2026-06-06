@@ -1,5 +1,17 @@
 [
   {
+    "ip_address": "4.230.188.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "4.230.200.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
     "ip_address": "20.41.66.0/25",
     "ip_type": "IPv4",
     "service": "AzureEventGrid.KoreaCentral",

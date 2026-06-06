@@ -480,6 +480,24 @@
     "region": "germanyn"
   },
   {
+    "ip_address": "98.67.6.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "98.67.8.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "98.67.12.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
     "ip_address": "2603:1020:d04::380/121",
     "ip_type": "IPv6",
     "service": "AzureEventGrid.GermanyNorth",

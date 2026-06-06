@@ -18,6 +18,18 @@
     "region": "southfrance"
   },
   {
+    "ip_address": "98.66.12.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "98.66.16.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.FranceSouth",
+    "region": "southfrance"
+  },
+  {
     "ip_address": "2603:1020:905::380/121",
     "ip_type": "IPv6",
     "service": "AzureEventGrid.FranceSouth",

@@ -116,6 +116,8 @@ ip_address,ip_type,service,region
 2603:1020:805:402::150/124,IPv6,AzureDataExplorerManagement.FranceCentral,centralfrance
 20.43.47.72/29,IPv4,AzureDigitalTwins.FranceCentral,centralfrance
 20.43.47.96/27,IPv4,AzureDigitalTwins.FranceCentral,centralfrance
+4.211.88.0/22,IPv4,AzureEventGrid.FranceCentral,centralfrance
+4.211.164.0/22,IPv4,AzureEventGrid.FranceCentral,centralfrance
 20.40.152.128/27,IPv4,AzureEventGrid.FranceCentral,centralfrance
 20.43.42.128/25,IPv4,AzureEventGrid.FranceCentral,centralfrance
 2603:1020:805:1::380/121,IPv6,AzureEventGrid.FranceCentral,centralfrance

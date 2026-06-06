@@ -1,5 +1,23 @@
 [
   {
+    "ip_address": "48.193.82.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.IndonesiaCentral",
+    "region": "indonesiacentral"
+  },
+  {
+    "ip_address": "48.193.84.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.IndonesiaCentral",
+    "region": "indonesiacentral"
+  },
+  {
+    "ip_address": "48.193.88.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.IndonesiaCentral",
+    "region": "indonesiacentral"
+  },
+  {
     "ip_address": "70.153.153.128/25",
     "ip_type": "IPv4",
     "service": "AzureEventGrid.IndonesiaCentral",

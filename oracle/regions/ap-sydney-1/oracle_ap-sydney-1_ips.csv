@@ -2,6 +2,7 @@ ip_address,ip_type,service,region
 129.91.16.0/21,IPv4,OCI,ap-sydney-1
 129.154.64.0/18,IPv4,OCI,ap-sydney-1
 129.154.168.0/22,IPv4,OCI,ap-sydney-1
+137.23.0.0/19,IPv4,OCI,ap-sydney-1
 140.238.192.0/20,IPv4,OCI,ap-sydney-1
 149.118.64.0/20,IPv4,OCI,ap-sydney-1
 150.230.8.0/21,IPv4,OCI,ap-sydney-1

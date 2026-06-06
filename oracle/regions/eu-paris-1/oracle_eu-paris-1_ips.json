@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "88.96.32.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "eu-paris-1"
+  },
+  {
     "ip_address": "89.168.32.0/19",
     "ip_type": "IPv4",
     "service": "OCI",

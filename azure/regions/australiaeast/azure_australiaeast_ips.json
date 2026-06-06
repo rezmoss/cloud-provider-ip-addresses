@@ -918,7 +918,25 @@
     "region": "australiaeast"
   },
   {
+    "ip_address": "4.198.254.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
     "ip_address": "20.37.196.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "51.56.128.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "51.56.132.0/23",
     "ip_type": "IPv4",
     "service": "AzureEventGrid.AustraliaEast",
     "region": "australiaeast"

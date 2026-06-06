@@ -1632,6 +1632,12 @@
     "region": "ap-southeast-2"
   },
   {
+    "ip_address": "3.2.60.0/24",
+    "ip_type": "IPv4",
+    "service": "GLOBALACCELERATOR",
+    "region": "ap-southeast-2"
+  },
+  {
     "ip_address": "13.248.109.0/24",
     "ip_type": "IPv4",
     "service": "GLOBALACCELERATOR",

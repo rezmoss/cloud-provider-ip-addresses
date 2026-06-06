@@ -68,6 +68,7 @@ INSERT INTO `oracle_us-ashburn-1_ips` (`ip_address`, `ip_type`) VALUES ('138.1.4
 INSERT INTO `oracle_us-ashburn-1_ips` (`ip_address`, `ip_type`) VALUES ('140.86.216.0/21', 'IPv4');
 INSERT INTO `oracle_us-ashburn-1_ips` (`ip_address`, `ip_type`) VALUES ('140.91.10.0/23', 'IPv4');
 INSERT INTO `oracle_us-ashburn-1_ips` (`ip_address`, `ip_type`) VALUES ('140.91.12.0/22', 'IPv4');
+INSERT INTO `oracle_us-ashburn-1_ips` (`ip_address`, `ip_type`) VALUES ('147.5.64.0/19', 'IPv4');
 INSERT INTO `oracle_us-ashburn-1_ips` (`ip_address`, `ip_type`) VALUES ('147.154.0.0/19', 'IPv4');
 INSERT INTO `oracle_us-ashburn-1_ips` (`ip_address`, `ip_type`) VALUES ('147.154.32.0/25', 'IPv4');
 INSERT INTO `oracle_us-ashburn-1_ips` (`ip_address`, `ip_type`) VALUES ('147.154.36.0/22', 'IPv4');

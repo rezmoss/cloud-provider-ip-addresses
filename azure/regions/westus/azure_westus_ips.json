@@ -9258,6 +9258,12 @@
     "region": "westus"
   },
   {
+    "ip_address": "74.146.0.0/17",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.westus",
+    "region": "westus"
+  },
+  {
     "ip_address": "104.40.0.0/17",
     "ip_type": "IPv4",
     "service": "AzureCloud.westus",

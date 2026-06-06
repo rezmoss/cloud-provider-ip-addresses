@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "88.96.0.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "uk-cardiff-1"
+  },
+  {
     "ip_address": "129.151.64.0/19",
     "ip_type": "IPv4",
     "service": "OCI",

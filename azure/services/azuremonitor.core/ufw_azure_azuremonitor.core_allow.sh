@@ -1,6 +1,6 @@
 #!/bin/bash
 # Azure IP Ranges
-# Updated: 2026-05-27 03:20:52
+# Updated: 2026-06-06 03:17:40
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -99,6 +99,7 @@ ufw allow from 13.71.177.32/27
 ufw allow from 13.74.111.152/29
 ufw allow from 13.74.203.56/29
 ufw allow from 13.80.199.128/25
+ufw allow from 13.80.217.192/26
 ufw allow from 13.86.223.128/26
 ufw allow from 13.89.179.0/29
 ufw allow from 20.6.62.0/24
@@ -280,6 +281,7 @@ ufw allow from 40.124.64.144/29
 ufw allow from 40.124.67.184/29
 ufw allow from 48.192.43.0/24
 ufw allow from 48.193.48.96/27
+ufw allow from 48.193.80.192/27
 ufw allow from 48.194.2.0/24
 ufw allow from 48.196.100.96/27
 ufw allow from 48.197.92.32/27
@@ -438,6 +440,7 @@ ufw allow from 131.163.109.112/28
 ufw allow from 131.163.109.160/27
 ufw allow from 134.112.76.112/28
 ufw allow from 134.112.77.0/27
+ufw allow from 134.112.226.128/27
 ufw allow from 134.138.82.192/27
 ufw allow from 134.138.94.192/27
 ufw allow from 134.138.98.136/29
@@ -554,6 +557,7 @@ ufw allow from 2603:1020:206:10::120/123
 ufw allow from 2603:1020:206:10::140/123
 ufw allow from 2603:1020:206:22::/120
 ufw allow from 2603:1020:206:23::380/121
+ufw allow from 2603:1020:206:25::500/122
 ufw allow from 2603:1020:206:402::500/121
 ufw allow from 2603:1020:206:802::480/121
 ufw allow from 2603:1020:206:c00::100/121
@@ -633,6 +637,7 @@ ufw allow from 2603:1020:1204:7::500/120
 ufw allow from 2603:1020:1302:2::80/121
 ufw allow from 2603:1020:1302:3::180/123
 ufw allow from 2603:1020:1302:5::600/120
+ufw allow from 2603:1020:1302:9::7c0/123
 ufw allow from 2603:1020:1403:2::/123
 ufw allow from 2603:1020:1403:2::400/121
 ufw allow from 2603:1020:1403:7::300/120
@@ -845,6 +850,7 @@ ufw allow from 2603:1040:1602:2::580/121
 ufw allow from 2603:1040:1602:6::/122
 ufw allow from 2603:1040:1702:2::500/121
 ufw allow from 2603:1040:1802:2::380/121
+ufw allow from 2603:1040:1802:6::200/123
 ufw allow from 2603:1040:1904:3::180/121
 ufw allow from 2603:1040:1a02:3::300/121
 ufw allow from 2603:1040:1b02:3::400/121

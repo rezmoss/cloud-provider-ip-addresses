@@ -1,5 +1,17 @@
 [
   {
+    "ip_address": "4.145.200.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "4.145.204.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
     "ip_address": "4.151.98.0/24",
     "ip_type": "IPv4",
     "service": "AzureEventGrid",
@@ -24,6 +36,18 @@
     "region": ""
   },
   {
+    "ip_address": "4.173.28.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "4.173.88.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
     "ip_address": "4.182.5.11/32",
     "ip_type": "IPv4",
     "service": "AzureEventGrid",
@@ -36,7 +60,73 @@
     "region": ""
   },
   {
+    "ip_address": "4.187.32.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "4.188.34.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "4.188.36.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "4.188.48.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
     "ip_address": "4.189.9.155/32",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "4.191.98.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "4.191.100.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "4.191.104.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "4.193.6.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "4.198.254.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "4.199.16.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "4.199.20.0/23",
     "ip_type": "IPv4",
     "service": "AzureEventGrid",
     "region": ""
@@ -48,7 +138,73 @@
     "region": ""
   },
   {
+    "ip_address": "4.209.102.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "4.209.136.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "4.209.140.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
     "ip_address": "4.210.129.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "4.211.88.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "4.211.164.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "4.214.170.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "4.214.172.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "4.214.176.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "4.220.248.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "4.221.250.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "4.221.252.0/22",
     "ip_type": "IPv4",
     "service": "AzureEventGrid",
     "region": ""
@@ -61,6 +217,30 @@
   },
   {
     "ip_address": "4.228.3.54/32",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "4.228.180.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "4.228.240.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "4.230.188.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "4.230.200.0/22",
     "ip_type": "IPv4",
     "service": "AzureEventGrid",
     "region": ""
@@ -90,6 +270,12 @@
     "region": ""
   },
   {
+    "ip_address": "4.235.16.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
     "ip_address": "4.235.38.237/32",
     "ip_type": "IPv4",
     "service": "AzureEventGrid",
@@ -102,7 +288,37 @@
     "region": ""
   },
   {
+    "ip_address": "4.238.30.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
     "ip_address": "4.242.96.174/32",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "4.243.0.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "4.243.170.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "4.243.172.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "4.244.56.0/21",
     "ip_type": "IPv4",
     "service": "AzureEventGrid",
     "region": ""
@@ -114,13 +330,55 @@
     "region": ""
   },
   {
+    "ip_address": "4.253.104.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
     "ip_address": "9.160.41.128/25",
     "ip_type": "IPv4",
     "service": "AzureEventGrid",
     "region": ""
   },
   {
+    "ip_address": "9.160.198.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "9.160.208.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "9.160.212.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
     "ip_address": "9.205.33.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "9.205.192.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "9.235.196.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "9.235.200.0/22",
     "ip_type": "IPv4",
     "service": "AzureEventGrid",
     "region": ""
@@ -175,6 +433,24 @@
   },
   {
     "ip_address": "13.80.213.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "13.85.236.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "13.85.238.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "13.85.240.0/22",
     "ip_type": "IPv4",
     "service": "AzureEventGrid",
     "region": ""
@@ -258,6 +534,12 @@
     "region": ""
   },
   {
+    "ip_address": "20.11.230.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
     "ip_address": "20.14.46.64/32",
     "ip_type": "IPv4",
     "service": "AzureEventGrid",
@@ -318,6 +600,18 @@
     "region": ""
   },
   {
+    "ip_address": "20.27.248.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "20.27.252.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
     "ip_address": "20.28.48.194/32",
     "ip_type": "IPv4",
     "service": "AzureEventGrid",
@@ -331,6 +625,12 @@
   },
   {
     "ip_address": "20.28.49.143/32",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "20.28.80.0/21",
     "ip_type": "IPv4",
     "service": "AzureEventGrid",
     "region": ""
@@ -612,6 +912,24 @@
     "region": ""
   },
   {
+    "ip_address": "20.66.150.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "20.66.152.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "20.66.156.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
     "ip_address": "20.70.105.23/32",
     "ip_type": "IPv4",
     "service": "AzureEventGrid",
@@ -661,6 +979,18 @@
   },
   {
     "ip_address": "20.88.7.234/32",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "20.88.82.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "20.88.84.0/22",
     "ip_type": "IPv4",
     "service": "AzureEventGrid",
     "region": ""
@@ -775,6 +1105,18 @@
   },
   {
     "ip_address": "20.111.136.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "20.111.139.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "20.111.140.0/22",
     "ip_type": "IPv4",
     "service": "AzureEventGrid",
     "region": ""
@@ -906,6 +1248,24 @@
     "region": ""
   },
   {
+    "ip_address": "20.167.230.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "20.167.232.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "20.167.236.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
     "ip_address": "20.171.217.220/32",
     "ip_type": "IPv4",
     "service": "AzureEventGrid",
@@ -1032,6 +1392,18 @@
     "region": ""
   },
   {
+    "ip_address": "20.206.24.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "20.206.28.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
     "ip_address": "20.206.40.240/32",
     "ip_type": "IPv4",
     "service": "AzureEventGrid",
@@ -1039,6 +1411,18 @@
   },
   {
     "ip_address": "20.206.41.13/32",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "20.207.28.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "20.207.32.0/22",
     "ip_type": "IPv4",
     "service": "AzureEventGrid",
     "region": ""
@@ -1230,6 +1614,18 @@
     "region": ""
   },
   {
+    "ip_address": "20.244.226.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "20.244.228.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
     "ip_address": "20.244.241.70/32",
     "ip_type": "IPv4",
     "service": "AzureEventGrid",
@@ -1398,6 +1794,24 @@
     "region": ""
   },
   {
+    "ip_address": "48.193.82.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "48.193.84.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "48.193.88.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
     "ip_address": "48.196.81.128/25",
     "ip_type": "IPv4",
     "service": "AzureEventGrid",
@@ -1410,13 +1824,67 @@
     "region": ""
   },
   {
+    "ip_address": "48.197.102.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "48.197.128.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "48.197.132.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
     "ip_address": "48.198.81.128/25",
     "ip_type": "IPv4",
     "service": "AzureEventGrid",
     "region": ""
   },
   {
+    "ip_address": "48.198.110.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "48.198.144.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "48.198.148.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "48.203.132.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "48.203.136.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
     "ip_address": "48.216.17.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "48.219.32.0/21",
     "ip_type": "IPv4",
     "service": "AzureEventGrid",
     "region": ""
@@ -1429,6 +1897,24 @@
   },
   {
     "ip_address": "48.223.85.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "48.223.88.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "48.223.92.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "48.223.94.0/24",
     "ip_type": "IPv4",
     "service": "AzureEventGrid",
     "region": ""
@@ -1471,6 +1957,72 @@
   },
   {
     "ip_address": "51.53.169.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "51.56.128.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "51.56.132.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "51.57.182.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "51.57.184.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "51.57.188.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "51.58.82.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "51.58.84.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "51.58.88.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "51.58.146.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "51.58.148.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "51.58.152.0/23",
     "ip_type": "IPv4",
     "service": "AzureEventGrid",
     "region": ""
@@ -2004,7 +2556,31 @@
     "region": ""
   },
   {
+    "ip_address": "57.152.162.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "57.152.164.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "57.152.168.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
     "ip_address": "57.155.33.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "57.156.112.0/21",
     "ip_type": "IPv4",
     "service": "AzureEventGrid",
     "region": ""
@@ -2022,7 +2598,61 @@
     "region": ""
   },
   {
+    "ip_address": "57.162.220.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "57.162.222.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "57.167.202.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "57.167.204.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "57.167.208.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "57.169.136.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "57.173.0.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
     "ip_address": "68.210.161.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "68.210.216.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "68.210.252.0/22",
     "ip_type": "IPv4",
     "service": "AzureEventGrid",
     "region": ""
@@ -2118,6 +2748,24 @@
     "region": ""
   },
   {
+    "ip_address": "74.224.230.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "74.224.232.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "74.224.236.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
     "ip_address": "74.241.157.41/32",
     "ip_type": "IPv4",
     "service": "AzureEventGrid",
@@ -2143,6 +2791,36 @@
   },
   {
     "ip_address": "74.249.137.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "98.66.12.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "98.66.16.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "98.67.6.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "98.67.8.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "98.67.12.0/23",
     "ip_type": "IPv4",
     "service": "AzureEventGrid",
     "region": ""
@@ -2208,6 +2886,24 @@
     "region": ""
   },
   {
+    "ip_address": "134.112.218.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "134.112.220.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "134.112.224.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
     "ip_address": "134.138.65.128/25",
     "ip_type": "IPv4",
     "service": "AzureEventGrid",
@@ -2215,6 +2911,12 @@
   },
   {
     "ip_address": "138.91.250.180/32",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "145.191.128.0/21",
     "ip_type": "IPv4",
     "service": "AzureEventGrid",
     "region": ""
@@ -2268,13 +2970,91 @@
     "region": ""
   },
   {
+    "ip_address": "172.192.198.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
     "ip_address": "172.194.65.128/25",
     "ip_type": "IPv4",
     "service": "AzureEventGrid",
     "region": ""
   },
   {
+    "ip_address": "172.194.96.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "172.195.128.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "172.196.90.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "172.196.92.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "172.196.96.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "172.197.34.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "172.197.36.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "172.197.40.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "172.197.138.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "172.197.140.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "172.197.144.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
     "ip_address": "172.198.81.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "172.198.216.0/21",
     "ip_type": "IPv4",
     "service": "AzureEventGrid",
     "region": ""
@@ -2305,6 +3085,18 @@
   },
   {
     "ip_address": "172.204.153.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "172.209.122.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid",
+    "region": ""
+  },
+  {
+    "ip_address": "172.209.124.0/22",
     "ip_type": "IPv4",
     "service": "AzureEventGrid",
     "region": ""

@@ -152,7 +152,10 @@ ip_address,ip_type,service,region
 20.193.59.172/32,IPv4,AzureDigitalTwins.AustraliaEast,australiaeast
 20.193.59.253/32,IPv4,AzureDigitalTwins.AustraliaEast,australiaeast
 2603:1010:6:7::a0/126,IPv6,AzureDigitalTwins.AustraliaEast,australiaeast
+4.198.254.0/23,IPv4,AzureEventGrid.AustraliaEast,australiaeast
 20.37.196.0/25,IPv4,AzureEventGrid.AustraliaEast,australiaeast
+51.56.128.0/22,IPv4,AzureEventGrid.AustraliaEast,australiaeast
+51.56.132.0/23,IPv4,AzureEventGrid.AustraliaEast,australiaeast
 68.218.137.128/26,IPv4,AzureEventGrid.AustraliaEast,australiaeast
 2603:1010:6:1::380/121,IPv6,AzureEventGrid.AustraliaEast,australiaeast
 13.70.72.0/28,IPv4,EventHub.AustraliaEast,australiaeast

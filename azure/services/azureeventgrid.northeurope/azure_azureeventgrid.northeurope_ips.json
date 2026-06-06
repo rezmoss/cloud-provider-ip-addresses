@@ -1,5 +1,23 @@
 [
   {
+    "ip_address": "4.209.102.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "4.209.136.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "4.209.140.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.NorthEurope",
+    "region": "northeurope"
+  },
+  {
     "ip_address": "20.38.87.0/25",
     "ip_type": "IPv4",
     "service": "AzureEventGrid.NorthEurope",

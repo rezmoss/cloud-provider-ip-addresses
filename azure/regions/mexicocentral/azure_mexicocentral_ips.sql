@@ -60,6 +60,7 @@ INSERT INTO `azure_mexicocentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:10
 INSERT INTO `azure_mexicocentral_ips` (`ip_address`, `ip_type`) VALUES ('158.23.100.96/27', 'IPv4');
 INSERT INTO `azure_mexicocentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:702::600/121', 'IPv6');
 INSERT INTO `azure_mexicocentral_ips` (`ip_address`, `ip_type`) VALUES ('158.23.97.128/25', 'IPv4');
+INSERT INTO `azure_mexicocentral_ips` (`ip_address`, `ip_type`) VALUES ('172.195.128.0/21', 'IPv4');
 INSERT INTO `azure_mexicocentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:702::280/121', 'IPv6');
 INSERT INTO `azure_mexicocentral_ips` (`ip_address`, `ip_type`) VALUES ('158.23.11.64/26', 'IPv4');
 INSERT INTO `azure_mexicocentral_ips` (`ip_address`, `ip_type`) VALUES ('158.23.102.0/24', 'IPv4');

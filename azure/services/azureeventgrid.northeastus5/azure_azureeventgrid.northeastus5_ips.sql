@@ -7,4 +7,5 @@ CREATE TABLE IF NOT EXISTS `azure_azureeventgrid.northeastus5_ips` (
 );
 
 INSERT INTO `azure_azureeventgrid.northeastus5_ips` (`ip_address`, `ip_type`) VALUES ('172.194.65.128/25', 'IPv4');
+INSERT INTO `azure_azureeventgrid.northeastus5_ips` (`ip_address`, `ip_type`) VALUES ('172.194.96.0/21', 'IPv4');
 INSERT INTO `azure_azureeventgrid.northeastus5_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1602::480/121', 'IPv6');

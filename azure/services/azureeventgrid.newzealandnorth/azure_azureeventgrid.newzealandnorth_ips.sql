@@ -6,5 +6,8 @@ CREATE TABLE IF NOT EXISTS `azure_azureeventgrid.newzealandnorth_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_azureeventgrid.newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('172.196.90.0/23', 'IPv4');
+INSERT INTO `azure_azureeventgrid.newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('172.196.92.0/22', 'IPv4');
+INSERT INTO `azure_azureeventgrid.newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('172.196.96.0/23', 'IPv4');
 INSERT INTO `azure_azureeventgrid.newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('172.204.153.128/25', 'IPv4');
 INSERT INTO `azure_azureeventgrid.newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:502::280/121', 'IPv6');

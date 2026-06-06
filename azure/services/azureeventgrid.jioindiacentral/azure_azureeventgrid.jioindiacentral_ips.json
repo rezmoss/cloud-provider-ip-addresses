@@ -6,6 +6,18 @@
     "region": "jioindiacentral"
   },
   {
+    "ip_address": "20.207.28.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.JioIndiaCentral",
+    "region": "jioindiacentral"
+  },
+  {
+    "ip_address": "20.207.32.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.JioIndiaCentral",
+    "region": "jioindiacentral"
+  },
+  {
     "ip_address": "2603:1040:1104::280/121",
     "ip_type": "IPv6",
     "service": "AzureEventGrid.JioIndiaCentral",

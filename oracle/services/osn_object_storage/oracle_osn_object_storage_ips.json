@@ -138,6 +138,12 @@
     "region": "ap-mumbai-1"
   },
   {
+    "ip_address": "134.70.172.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN,OBJECT_STORAGE",
+    "region": "il-jerusalem-1"
+  },
+  {
     "ip_address": "84.8.72.0/22",
     "ip_type": "IPv4",
     "service": "OSN,OBJECT_STORAGE",
@@ -160,6 +166,12 @@
     "ip_type": "IPv4",
     "service": "OSN,OBJECT_STORAGE",
     "region": "me-dubai-1"
+  },
+  {
+    "ip_address": "134.70.136.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN,OBJECT_STORAGE",
+    "region": "uk-cardiff-1"
   },
   {
     "ip_address": "134.70.180.0/22",
@@ -210,22 +222,10 @@
     "region": "ap-singapore-1"
   },
   {
-    "ip_address": "134.70.136.0/22",
-    "ip_type": "IPv4",
-    "service": "OSN,OBJECT_STORAGE",
-    "region": "uk-cardiff-1"
-  },
-  {
     "ip_address": "134.70.132.0/22",
     "ip_type": "IPv4",
     "service": "OSN,OBJECT_STORAGE",
     "region": "ap-chuncheon-1"
-  },
-  {
-    "ip_address": "134.70.172.0/22",
-    "ip_type": "IPv4",
-    "service": "OSN,OBJECT_STORAGE",
-    "region": "il-jerusalem-1"
   },
   {
     "ip_address": "134.70.108.0/22",

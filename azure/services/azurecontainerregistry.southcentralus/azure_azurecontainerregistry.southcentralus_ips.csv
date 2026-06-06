@@ -13,6 +13,7 @@ ip_address,ip_type,service,region
 72.147.158.128/26,IPv4,AzureContainerRegistry.SouthCentralUS,southcentralus
 104.214.18.184/29,IPv4,AzureContainerRegistry.SouthCentralUS,southcentralus
 172.215.133.0/24,IPv4,AzureContainerRegistry.SouthCentralUS,southcentralus
+172.215.171.96/27,IPv4,AzureContainerRegistry.SouthCentralUS,southcentralus
 2603:1030:807:7::500/122,IPv6,AzureContainerRegistry.SouthCentralUS,southcentralus
 2603:1030:807:402::90/125,IPv6,AzureContainerRegistry.SouthCentralUS,southcentralus
 2603:1030:807:402::340/122,IPv6,AzureContainerRegistry.SouthCentralUS,southcentralus

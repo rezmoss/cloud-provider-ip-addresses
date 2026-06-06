@@ -108,6 +108,9 @@ INSERT INTO `azure_southindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:
 INSERT INTO `azure_southindia_ips` (`ip_address`, `ip_type`) VALUES ('20.41.195.0/25', 'IPv4');
 INSERT INTO `azure_southindia_ips` (`ip_address`, `ip_type`) VALUES ('20.44.39.176/28', 'IPv4');
 INSERT INTO `azure_southindia_ips` (`ip_address`, `ip_type`) VALUES ('20.44.39.192/28', 'IPv4');
+INSERT INTO `azure_southindia_ips` (`ip_address`, `ip_type`) VALUES ('74.224.230.0/23', 'IPv4');
+INSERT INTO `azure_southindia_ips` (`ip_address`, `ip_type`) VALUES ('74.224.232.0/22', 'IPv4');
+INSERT INTO `azure_southindia_ips` (`ip_address`, `ip_type`) VALUES ('74.224.236.0/23', 'IPv4');
 INSERT INTO `azure_southindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:c06::380/121', 'IPv6');
 INSERT INTO `azure_southindia_ips` (`ip_address`, `ip_type`) VALUES ('20.192.185.64/26', 'IPv4');
 INSERT INTO `azure_southindia_ips` (`ip_address`, `ip_type`) VALUES ('40.78.194.32/27', 'IPv4');

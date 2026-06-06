@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-05T03:23:34.968112",
+  "generated": "2026-06-06T03:19:04.286684",
   "provider_count": 24,
-  "total_ipv4_addresses": 342746336,
-  "total_ipv6_addresses": 5205621045314976458779028188627346,
-  "ipv4_space_coverage_pct": 7.9802,
+  "total_ipv4_addresses": 343764226,
+  "total_ipv6_addresses": 5205635900603859598639938533655570,
+  "ipv4_space_coverage_pct": 8.0039,
   "providers": {
     "cloudflare": {
       "ipv4_cidrs": 15,
@@ -15,11 +15,11 @@
       "regions": 0
     },
     "aws": {
-      "ipv4_cidrs": 10283,
-      "ipv6_cidrs": 5716,
-      "total_cidrs": 15999,
-      "ipv4_addresses": 184356918,
-      "ipv6_addresses": 3286233375839906659834406109197,
+      "ipv4_cidrs": 10317,
+      "ipv6_cidrs": 5729,
+      "total_cidrs": 16046,
+      "ipv4_addresses": 184426876,
+      "ipv6_addresses": 3301088659262810274926723858445,
       "services": 26,
       "regions": 43
     },
@@ -33,11 +33,11 @@
       "regions": 48
     },
     "azure": {
-      "ipv4_cidrs": 77541,
-      "ipv6_cidrs": 27622,
-      "total_cidrs": 105163,
-      "ipv4_addresses": 101659546,
-      "ipv6_addresses": 3718817433059429110779281793,
+      "ipv4_cidrs": 77755,
+      "ipv6_cidrs": 27591,
+      "total_cidrs": 105346,
+      "ipv4_addresses": 102538340,
+      "ipv6_addresses": 3718822893295674928806560769,
       "services": 3231,
       "regions": 75
     },
@@ -51,10 +51,10 @@
       "regions": 13
     },
     "oracle": {
-      "ipv4_cidrs": 1078,
+      "ipv4_cidrs": 1089,
       "ipv6_cidrs": 0,
-      "total_cidrs": 1078,
-      "ipv4_addresses": 4121226,
+      "total_cidrs": 1089,
+      "ipv4_addresses": 4190346,
       "ipv6_addresses": 0,
       "services": 3,
       "regions": 55
@@ -159,10 +159,10 @@
       "regions": 0
     },
     "duckduckbot": {
-      "ipv4_cidrs": 341,
+      "ipv4_cidrs": 359,
       "ipv6_cidrs": 0,
-      "total_cidrs": 341,
-      "ipv4_addresses": 341,
+      "total_cidrs": 359,
+      "ipv4_addresses": 359,
       "ipv6_addresses": 0,
       "services": 1,
       "regions": 0

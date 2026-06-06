@@ -6,6 +6,8 @@ CREATE TABLE IF NOT EXISTS `oracle_il-jerusalem-1_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `oracle_il-jerusalem-1_ips` (`ip_address`, `ip_type`) VALUES ('82.70.208.0/20', 'IPv4');
+INSERT INTO `oracle_il-jerusalem-1_ips` (`ip_address`, `ip_type`) VALUES ('82.70.252.0/22', 'IPv4');
 INSERT INTO `oracle_il-jerusalem-1_ips` (`ip_address`, `ip_type`) VALUES ('129.159.128.0/19', 'IPv4');
 INSERT INTO `oracle_il-jerusalem-1_ips` (`ip_address`, `ip_type`) VALUES ('130.110.238.0/24', 'IPv4');
 INSERT INTO `oracle_il-jerusalem-1_ips` (`ip_address`, `ip_type`) VALUES ('151.145.80.0/20', 'IPv4');

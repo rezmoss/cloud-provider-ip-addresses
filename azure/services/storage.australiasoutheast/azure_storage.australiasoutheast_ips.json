@@ -120,6 +120,12 @@
     "region": "australiasoutheast"
   },
   {
+    "ip_address": "145.190.182.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  },
+  {
     "ip_address": "191.239.192.0/26",
     "ip_type": "IPv4",
     "service": "Storage.AustraliaSoutheast",

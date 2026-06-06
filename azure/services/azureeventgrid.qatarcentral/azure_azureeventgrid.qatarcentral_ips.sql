@@ -6,5 +6,6 @@ CREATE TABLE IF NOT EXISTS `azure_azureeventgrid.qatarcentral_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_azureeventgrid.qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('4.244.56.0/21', 'IPv4');
 INSERT INTO `azure_azureeventgrid.qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.21.33.128/25', 'IPv4');
 INSERT INTO `azure_azureeventgrid.qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1002::480/121', 'IPv6');

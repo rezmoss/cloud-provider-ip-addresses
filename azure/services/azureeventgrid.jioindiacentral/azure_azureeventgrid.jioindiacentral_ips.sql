@@ -7,4 +7,6 @@ CREATE TABLE IF NOT EXISTS `azure_azureeventgrid.jioindiacentral_ips` (
 );
 
 INSERT INTO `azure_azureeventgrid.jioindiacentral_ips` (`ip_address`, `ip_type`) VALUES ('20.192.228.0/25', 'IPv4');
+INSERT INTO `azure_azureeventgrid.jioindiacentral_ips` (`ip_address`, `ip_type`) VALUES ('20.207.28.0/22', 'IPv4');
+INSERT INTO `azure_azureeventgrid.jioindiacentral_ips` (`ip_address`, `ip_type`) VALUES ('20.207.32.0/22', 'IPv4');
 INSERT INTO `azure_azureeventgrid.jioindiacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1104::280/121', 'IPv6');
