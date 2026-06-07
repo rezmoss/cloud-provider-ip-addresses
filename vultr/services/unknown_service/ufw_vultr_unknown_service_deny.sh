@@ -1,6 +1,6 @@
 #!/bin/bash
 # Vultr IP Ranges
-# Updated: 2026-06-05 03:22:54
+# Updated: 2026-06-07 03:21:49
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -448,12 +448,10 @@ ufw deny from 2001:2::/48
 ufw deny from 2001:10::/28
 ufw deny from 2001:db8::/32
 ufw deny from 2002::/16
-ufw deny from 2001:19f0::/38
-ufw deny from 2001:19f0:1000::/38
-ufw deny from 2001:19f0:1400::/38
-ufw deny from 2001:19f0:4000::/38
-ufw deny from 2001:19f0:a800::/38
-ufw deny from 2001:19f0:6400::/38
+ufw deny from 2001:19f0:8000::/38
+ufw deny from 2001:19f0:7400::/38
+ufw deny from 2a05:f480:1000::/38
+ufw deny from 2001:19f0:5400::/38
 ufw deny from 2001:19f0:9000::/38
 ufw deny from 2001:19f0:7000::/38
 ufw deny from 2401:c080:1000::/38
@@ -464,6 +462,11 @@ ufw deny from 2001:19f0:6c00::/38
 ufw deny from 2001:19f0:9400::/38
 ufw deny from 2a05:f480:1800::/38
 ufw deny from 2001:19f0:b000::/38
+ufw deny from 2001:19f0::/38
+ufw deny from 2001:19f0:1000::/38
+ufw deny from 2001:19f0:1400::/38
+ufw deny from 2001:19f0:4000::/38
+ufw deny from 2001:19f0:a800::/38
 ufw deny from 2001:19f0:ac00::/38
 ufw deny from 2001:19f0:4400::/38
 ufw deny from 2401:c080:1400::/38
@@ -472,7 +475,8 @@ ufw deny from 2401:c080:1800::/38
 ufw deny from 2001:19f0:6800::/38
 ufw deny from 2a05:f480:1c00::/38
 ufw deny from 2401:c080:1c00::/38
-ufw deny from 2001:19f0:8000::/38
+ufw deny from 2001:19f0:6400::/38
+ufw deny from 2a05:f487:fc00::/48
 ufw deny from 2a05:f480:2000::/38
 ufw deny from 2001:19f0:b400::/38
 ufw deny from 2a05:f480:2400::/38
@@ -488,16 +492,12 @@ ufw deny from 2401:c080:3800::/38
 ufw deny from 2001:19f0:b800::/38
 ufw deny from 2a05:f480:2c00::/38
 ufw deny from 2a05:f480:3400::/38
+ufw deny from 2a05:f487:fc00::/38
+ufw deny from 2001:19f0:5c00::/38
+ufw deny from 2a05:f487:fc0d::/48
 ufw deny from 2001:19f0:8800::/38
 ufw deny from 2001:19f0:9800::/38
-ufw deny from 2001:19f0:5c00::/38
-ufw deny from 2001:19f0:7400::/38
-ufw deny from 2a05:f480:1000::/38
-ufw deny from 2001:19f0:5400::/38
 ufw deny from 2a05:f480:3800::/38
-ufw deny from 2001:19f0:9c00::/38
 ufw deny from 2001:19f0:5404::/48
-ufw deny from 2a05:f487:fc00::/48
-ufw deny from 2a05:f487:fc00::/38
 ufw deny from 2a05:f487:fc36::/48
-ufw deny from 2a05:f487:fc0d::/48
+ufw deny from 2001:19f0:9c00::/38
