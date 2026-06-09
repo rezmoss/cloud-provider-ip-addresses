@@ -1,5 +1,35 @@
 [
   {
+    "ip_address": "104.28.62.93/32",
+    "ip_type": "IPv4",
+    "region": "AX"
+  },
+  {
+    "ip_address": "104.28.62.94/32",
+    "ip_type": "IPv4",
+    "region": "AX"
+  },
+  {
+    "ip_address": "104.28.105.16/32",
+    "ip_type": "IPv4",
+    "region": "AX"
+  },
+  {
+    "ip_address": "140.248.34.6/31",
+    "ip_type": "IPv4",
+    "region": "AX"
+  },
+  {
+    "ip_address": "140.248.36.14/31",
+    "ip_type": "IPv4",
+    "region": "AX"
+  },
+  {
+    "ip_address": "146.75.169.6/31",
+    "ip_type": "IPv4",
+    "region": "AX"
+  },
+  {
     "ip_address": "172.225.36.32/27",
     "ip_type": "IPv4",
     "region": "AX"
@@ -17,6 +47,16 @@
   {
     "ip_address": "172.225.210.0/28",
     "ip_type": "IPv4",
+    "region": "AX"
+  },
+  {
+    "ip_address": "2606:54c0:438::/45",
+    "ip_type": "IPv6",
+    "region": "AX"
+  },
+  {
+    "ip_address": "2606:54c3:0:147b::/64",
+    "ip_type": "IPv6",
     "region": "AX"
   },
   {
@@ -130,41 +170,6 @@
     "region": "AX"
   },
   {
-    "ip_address": "104.28.62.93/32",
-    "ip_type": "IPv4",
-    "region": "AX"
-  },
-  {
-    "ip_address": "104.28.62.94/32",
-    "ip_type": "IPv4",
-    "region": "AX"
-  },
-  {
-    "ip_address": "104.28.105.16/32",
-    "ip_type": "IPv4",
-    "region": "AX"
-  },
-  {
-    "ip_address": "2606:54c0:438::/45",
-    "ip_type": "IPv6",
-    "region": "AX"
-  },
-  {
-    "ip_address": "2606:54c3:0:147b::/64",
-    "ip_type": "IPv6",
-    "region": "AX"
-  },
-  {
-    "ip_address": "2a09:bac2:438::/45",
-    "ip_type": "IPv6",
-    "region": "AX"
-  },
-  {
-    "ip_address": "2a09:bac3:438::/45",
-    "ip_type": "IPv6",
-    "region": "AX"
-  },
-  {
     "ip_address": "2a04:4e41:1408::/48",
     "ip_type": "IPv6",
     "region": "AX"
@@ -180,18 +185,13 @@
     "region": "AX"
   },
   {
-    "ip_address": "140.248.34.6/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:438::/45",
+    "ip_type": "IPv6",
     "region": "AX"
   },
   {
-    "ip_address": "140.248.36.14/31",
-    "ip_type": "IPv4",
-    "region": "AX"
-  },
-  {
-    "ip_address": "146.75.169.6/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:438::/45",
+    "ip_type": "IPv6",
     "region": "AX"
   }
 ]

@@ -105,22 +105,32 @@
     "region": "KH-12"
   },
   {
+    "ip_address": "140.248.48.18/31",
+    "ip_type": "IPv4",
+    "region": "KH-12"
+  },
+  {
+    "ip_address": "146.75.132.64/31",
+    "ip_type": "IPv4",
+    "region": "KH-12"
+  },
+  {
+    "ip_address": "146.75.160.64/31",
+    "ip_type": "IPv4",
+    "region": "KH-12"
+  },
+  {
+    "ip_address": "146.75.187.16/31",
+    "ip_type": "IPv4",
+    "region": "KH-12"
+  },
+  {
     "ip_address": "2606:54c0:4648::/45",
     "ip_type": "IPv6",
     "region": "KH-12"
   },
   {
     "ip_address": "2606:54c3:0:2c8::/64",
-    "ip_type": "IPv6",
-    "region": "KH-12"
-  },
-  {
-    "ip_address": "2a09:bac2:4648::/45",
-    "ip_type": "IPv6",
-    "region": "KH-12"
-  },
-  {
-    "ip_address": "2a09:bac3:4648::/45",
     "ip_type": "IPv6",
     "region": "KH-12"
   },
@@ -145,23 +155,13 @@
     "region": "KH-12"
   },
   {
-    "ip_address": "140.248.48.18/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:4648::/45",
+    "ip_type": "IPv6",
     "region": "KH-12"
   },
   {
-    "ip_address": "146.75.132.64/31",
-    "ip_type": "IPv4",
-    "region": "KH-12"
-  },
-  {
-    "ip_address": "146.75.160.64/31",
-    "ip_type": "IPv4",
-    "region": "KH-12"
-  },
-  {
-    "ip_address": "146.75.187.16/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:4648::/45",
+    "ip_type": "IPv6",
     "region": "KH-12"
   }
 ]

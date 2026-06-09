@@ -1,5 +1,110 @@
 [
   {
+    "ip_address": "104.28.32.86/32",
+    "ip_type": "IPv4",
+    "region": "PR"
+  },
+  {
+    "ip_address": "104.28.32.87/32",
+    "ip_type": "IPv4",
+    "region": "PR"
+  },
+  {
+    "ip_address": "104.28.36.140/32",
+    "ip_type": "IPv4",
+    "region": "PR"
+  },
+  {
+    "ip_address": "104.28.36.141/32",
+    "ip_type": "IPv4",
+    "region": "PR"
+  },
+  {
+    "ip_address": "104.28.76.59/32",
+    "ip_type": "IPv4",
+    "region": "PR"
+  },
+  {
+    "ip_address": "104.28.76.60/32",
+    "ip_type": "IPv4",
+    "region": "PR"
+  },
+  {
+    "ip_address": "104.28.78.59/32",
+    "ip_type": "IPv4",
+    "region": "PR"
+  },
+  {
+    "ip_address": "104.28.78.60/32",
+    "ip_type": "IPv4",
+    "region": "PR"
+  },
+  {
+    "ip_address": "104.28.92.126/32",
+    "ip_type": "IPv4",
+    "region": "PR"
+  },
+  {
+    "ip_address": "104.28.92.127/32",
+    "ip_type": "IPv4",
+    "region": "PR"
+  },
+  {
+    "ip_address": "104.28.94.126/32",
+    "ip_type": "IPv4",
+    "region": "PR"
+  },
+  {
+    "ip_address": "104.28.94.127/32",
+    "ip_type": "IPv4",
+    "region": "PR"
+  },
+  {
+    "ip_address": "104.28.126.124/32",
+    "ip_type": "IPv4",
+    "region": "PR"
+  },
+  {
+    "ip_address": "104.28.126.125/32",
+    "ip_type": "IPv4",
+    "region": "PR"
+  },
+  {
+    "ip_address": "104.28.141.170/32",
+    "ip_type": "IPv4",
+    "region": "PR"
+  },
+  {
+    "ip_address": "140.248.4.52/31",
+    "ip_type": "IPv4",
+    "region": "PR"
+  },
+  {
+    "ip_address": "140.248.4.54/31",
+    "ip_type": "IPv4",
+    "region": "PR"
+  },
+  {
+    "ip_address": "140.248.44.86/31",
+    "ip_type": "IPv4",
+    "region": "PR"
+  },
+  {
+    "ip_address": "140.248.44.88/31",
+    "ip_type": "IPv4",
+    "region": "PR"
+  },
+  {
+    "ip_address": "146.75.222.4/31",
+    "ip_type": "IPv4",
+    "region": "PR"
+  },
+  {
+    "ip_address": "146.75.222.6/31",
+    "ip_type": "IPv4",
+    "region": "PR"
+  },
+  {
     "ip_address": "172.225.112.32/27",
     "ip_type": "IPv4",
     "region": "PR"
@@ -67,6 +172,31 @@
   {
     "ip_address": "172.226.143.128/28",
     "ip_type": "IPv4",
+    "region": "PR"
+  },
+  {
+    "ip_address": "2606:54c0:4fc8::/45",
+    "ip_type": "IPv6",
+    "region": "PR"
+  },
+  {
+    "ip_address": "2606:54c0:4fd0::/45",
+    "ip_type": "IPv6",
+    "region": "PR"
+  },
+  {
+    "ip_address": "2606:54c3:0:8e5::/64",
+    "ip_type": "IPv6",
+    "region": "PR"
+  },
+  {
+    "ip_address": "2606:54c3:0:e98::/64",
+    "ip_type": "IPv6",
+    "region": "PR"
+  },
+  {
+    "ip_address": "2606:54c3:0:1680::/64",
+    "ip_type": "IPv6",
     "region": "PR"
   },
   {
@@ -665,102 +795,32 @@
     "region": "PR"
   },
   {
-    "ip_address": "104.28.32.86/32",
-    "ip_type": "IPv4",
-    "region": "PR"
-  },
-  {
-    "ip_address": "104.28.32.87/32",
-    "ip_type": "IPv4",
-    "region": "PR"
-  },
-  {
-    "ip_address": "104.28.36.140/32",
-    "ip_type": "IPv4",
-    "region": "PR"
-  },
-  {
-    "ip_address": "104.28.36.141/32",
-    "ip_type": "IPv4",
-    "region": "PR"
-  },
-  {
-    "ip_address": "104.28.76.59/32",
-    "ip_type": "IPv4",
-    "region": "PR"
-  },
-  {
-    "ip_address": "104.28.76.60/32",
-    "ip_type": "IPv4",
-    "region": "PR"
-  },
-  {
-    "ip_address": "104.28.78.59/32",
-    "ip_type": "IPv4",
-    "region": "PR"
-  },
-  {
-    "ip_address": "104.28.78.60/32",
-    "ip_type": "IPv4",
-    "region": "PR"
-  },
-  {
-    "ip_address": "104.28.92.126/32",
-    "ip_type": "IPv4",
-    "region": "PR"
-  },
-  {
-    "ip_address": "104.28.92.127/32",
-    "ip_type": "IPv4",
-    "region": "PR"
-  },
-  {
-    "ip_address": "104.28.94.126/32",
-    "ip_type": "IPv4",
-    "region": "PR"
-  },
-  {
-    "ip_address": "104.28.94.127/32",
-    "ip_type": "IPv4",
-    "region": "PR"
-  },
-  {
-    "ip_address": "104.28.126.124/32",
-    "ip_type": "IPv4",
-    "region": "PR"
-  },
-  {
-    "ip_address": "104.28.126.125/32",
-    "ip_type": "IPv4",
-    "region": "PR"
-  },
-  {
-    "ip_address": "104.28.141.170/32",
-    "ip_type": "IPv4",
-    "region": "PR"
-  },
-  {
-    "ip_address": "2606:54c0:4fc8::/45",
+    "ip_address": "2a04:4e41:3200::/52",
     "ip_type": "IPv6",
     "region": "PR"
   },
   {
-    "ip_address": "2606:54c0:4fd0::/45",
+    "ip_address": "2a04:4e41:3211::/48",
     "ip_type": "IPv6",
     "region": "PR"
   },
   {
-    "ip_address": "2606:54c3:0:8e5::/64",
+    "ip_address": "2a04:4e41:3600:8000::/52",
     "ip_type": "IPv6",
     "region": "PR"
   },
   {
-    "ip_address": "2606:54c3:0:e98::/64",
+    "ip_address": "2a04:4e41:3622::/48",
     "ip_type": "IPv6",
     "region": "PR"
   },
   {
-    "ip_address": "2606:54c3:0:1680::/64",
+    "ip_address": "2a04:4e41:3a00:c000::/52",
+    "ip_type": "IPv6",
+    "region": "PR"
+  },
+  {
+    "ip_address": "2a04:4e41:3a2f::/48",
     "ip_type": "IPv6",
     "region": "PR"
   },
@@ -792,66 +852,6 @@
   {
     "ip_address": "2a09:bac3:d4b0::/45",
     "ip_type": "IPv6",
-    "region": "PR"
-  },
-  {
-    "ip_address": "2a04:4e41:3200::/52",
-    "ip_type": "IPv6",
-    "region": "PR"
-  },
-  {
-    "ip_address": "2a04:4e41:3211::/48",
-    "ip_type": "IPv6",
-    "region": "PR"
-  },
-  {
-    "ip_address": "2a04:4e41:3600:8000::/52",
-    "ip_type": "IPv6",
-    "region": "PR"
-  },
-  {
-    "ip_address": "2a04:4e41:3622::/48",
-    "ip_type": "IPv6",
-    "region": "PR"
-  },
-  {
-    "ip_address": "2a04:4e41:3a00:c000::/52",
-    "ip_type": "IPv6",
-    "region": "PR"
-  },
-  {
-    "ip_address": "2a04:4e41:3a2f::/48",
-    "ip_type": "IPv6",
-    "region": "PR"
-  },
-  {
-    "ip_address": "140.248.4.52/31",
-    "ip_type": "IPv4",
-    "region": "PR"
-  },
-  {
-    "ip_address": "140.248.4.54/31",
-    "ip_type": "IPv4",
-    "region": "PR"
-  },
-  {
-    "ip_address": "140.248.44.86/31",
-    "ip_type": "IPv4",
-    "region": "PR"
-  },
-  {
-    "ip_address": "140.248.44.88/31",
-    "ip_type": "IPv4",
-    "region": "PR"
-  },
-  {
-    "ip_address": "146.75.222.4/31",
-    "ip_type": "IPv4",
-    "region": "PR"
-  },
-  {
-    "ip_address": "146.75.222.6/31",
-    "ip_type": "IPv4",
     "region": "PR"
   }
 ]

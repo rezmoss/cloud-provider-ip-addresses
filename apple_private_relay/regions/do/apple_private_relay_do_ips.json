@@ -1,5 +1,140 @@
 [
   {
+    "ip_address": "104.28.32.57/32",
+    "ip_type": "IPv4",
+    "region": "DO"
+  },
+  {
+    "ip_address": "104.28.32.58/32",
+    "ip_type": "IPv4",
+    "region": "DO"
+  },
+  {
+    "ip_address": "104.28.32.59/32",
+    "ip_type": "IPv4",
+    "region": "DO"
+  },
+  {
+    "ip_address": "104.28.36.70/32",
+    "ip_type": "IPv4",
+    "region": "DO"
+  },
+  {
+    "ip_address": "104.28.36.71/32",
+    "ip_type": "IPv4",
+    "region": "DO"
+  },
+  {
+    "ip_address": "104.28.36.72/32",
+    "ip_type": "IPv4",
+    "region": "DO"
+  },
+  {
+    "ip_address": "104.28.76.44/32",
+    "ip_type": "IPv4",
+    "region": "DO"
+  },
+  {
+    "ip_address": "104.28.76.45/32",
+    "ip_type": "IPv4",
+    "region": "DO"
+  },
+  {
+    "ip_address": "104.28.76.46/32",
+    "ip_type": "IPv4",
+    "region": "DO"
+  },
+  {
+    "ip_address": "104.28.78.44/32",
+    "ip_type": "IPv4",
+    "region": "DO"
+  },
+  {
+    "ip_address": "104.28.78.45/32",
+    "ip_type": "IPv4",
+    "region": "DO"
+  },
+  {
+    "ip_address": "104.28.78.46/32",
+    "ip_type": "IPv4",
+    "region": "DO"
+  },
+  {
+    "ip_address": "104.28.92.65/32",
+    "ip_type": "IPv4",
+    "region": "DO"
+  },
+  {
+    "ip_address": "104.28.92.66/32",
+    "ip_type": "IPv4",
+    "region": "DO"
+  },
+  {
+    "ip_address": "104.28.92.67/32",
+    "ip_type": "IPv4",
+    "region": "DO"
+  },
+  {
+    "ip_address": "104.28.94.65/32",
+    "ip_type": "IPv4",
+    "region": "DO"
+  },
+  {
+    "ip_address": "104.28.94.66/32",
+    "ip_type": "IPv4",
+    "region": "DO"
+  },
+  {
+    "ip_address": "104.28.94.67/32",
+    "ip_type": "IPv4",
+    "region": "DO"
+  },
+  {
+    "ip_address": "104.28.126.65/32",
+    "ip_type": "IPv4",
+    "region": "DO"
+  },
+  {
+    "ip_address": "104.28.126.66/32",
+    "ip_type": "IPv4",
+    "region": "DO"
+  },
+  {
+    "ip_address": "104.28.126.67/32",
+    "ip_type": "IPv4",
+    "region": "DO"
+  },
+  {
+    "ip_address": "104.28.141.47/32",
+    "ip_type": "IPv4",
+    "region": "DO"
+  },
+  {
+    "ip_address": "104.28.149.121/32",
+    "ip_type": "IPv4",
+    "region": "DO"
+  },
+  {
+    "ip_address": "140.248.12.12/31",
+    "ip_type": "IPv4",
+    "region": "DO"
+  },
+  {
+    "ip_address": "140.248.44.34/31",
+    "ip_type": "IPv4",
+    "region": "DO"
+  },
+  {
+    "ip_address": "146.75.232.12/31",
+    "ip_type": "IPv4",
+    "region": "DO"
+  },
+  {
+    "ip_address": "146.75.248.12/31",
+    "ip_type": "IPv4",
+    "region": "DO"
+  },
+  {
     "ip_address": "172.225.32.96/27",
     "ip_type": "IPv4",
     "region": "DO"
@@ -47,6 +182,41 @@
   {
     "ip_address": "172.226.78.48/29",
     "ip_type": "IPv4",
+    "region": "DO"
+  },
+  {
+    "ip_address": "2606:54c0:3000::/45",
+    "ip_type": "IPv6",
+    "region": "DO"
+  },
+  {
+    "ip_address": "2606:54c0:3008::/45",
+    "ip_type": "IPv6",
+    "region": "DO"
+  },
+  {
+    "ip_address": "2606:54c0:d490::/45",
+    "ip_type": "IPv6",
+    "region": "DO"
+  },
+  {
+    "ip_address": "2606:54c3:0:380::/64",
+    "ip_type": "IPv6",
+    "region": "DO"
+  },
+  {
+    "ip_address": "2606:54c3:0:62d::/64",
+    "ip_type": "IPv6",
+    "region": "DO"
+  },
+  {
+    "ip_address": "2606:54c3:0:b7f::/64",
+    "ip_type": "IPv6",
+    "region": "DO"
+  },
+  {
+    "ip_address": "2606:54c3:0:12d6::/64",
+    "ip_type": "IPv6",
     "region": "DO"
   },
   {
@@ -800,152 +970,22 @@
     "region": "DO"
   },
   {
-    "ip_address": "104.28.32.57/32",
-    "ip_type": "IPv4",
-    "region": "DO"
-  },
-  {
-    "ip_address": "104.28.32.58/32",
-    "ip_type": "IPv4",
-    "region": "DO"
-  },
-  {
-    "ip_address": "104.28.32.59/32",
-    "ip_type": "IPv4",
-    "region": "DO"
-  },
-  {
-    "ip_address": "104.28.36.70/32",
-    "ip_type": "IPv4",
-    "region": "DO"
-  },
-  {
-    "ip_address": "104.28.36.71/32",
-    "ip_type": "IPv4",
-    "region": "DO"
-  },
-  {
-    "ip_address": "104.28.36.72/32",
-    "ip_type": "IPv4",
-    "region": "DO"
-  },
-  {
-    "ip_address": "104.28.76.44/32",
-    "ip_type": "IPv4",
-    "region": "DO"
-  },
-  {
-    "ip_address": "104.28.76.45/32",
-    "ip_type": "IPv4",
-    "region": "DO"
-  },
-  {
-    "ip_address": "104.28.76.46/32",
-    "ip_type": "IPv4",
-    "region": "DO"
-  },
-  {
-    "ip_address": "104.28.78.44/32",
-    "ip_type": "IPv4",
-    "region": "DO"
-  },
-  {
-    "ip_address": "104.28.78.45/32",
-    "ip_type": "IPv4",
-    "region": "DO"
-  },
-  {
-    "ip_address": "104.28.78.46/32",
-    "ip_type": "IPv4",
-    "region": "DO"
-  },
-  {
-    "ip_address": "104.28.92.65/32",
-    "ip_type": "IPv4",
-    "region": "DO"
-  },
-  {
-    "ip_address": "104.28.92.66/32",
-    "ip_type": "IPv4",
-    "region": "DO"
-  },
-  {
-    "ip_address": "104.28.92.67/32",
-    "ip_type": "IPv4",
-    "region": "DO"
-  },
-  {
-    "ip_address": "104.28.94.65/32",
-    "ip_type": "IPv4",
-    "region": "DO"
-  },
-  {
-    "ip_address": "104.28.94.66/32",
-    "ip_type": "IPv4",
-    "region": "DO"
-  },
-  {
-    "ip_address": "104.28.94.67/32",
-    "ip_type": "IPv4",
-    "region": "DO"
-  },
-  {
-    "ip_address": "104.28.126.65/32",
-    "ip_type": "IPv4",
-    "region": "DO"
-  },
-  {
-    "ip_address": "104.28.126.66/32",
-    "ip_type": "IPv4",
-    "region": "DO"
-  },
-  {
-    "ip_address": "104.28.126.67/32",
-    "ip_type": "IPv4",
-    "region": "DO"
-  },
-  {
-    "ip_address": "104.28.141.47/32",
-    "ip_type": "IPv4",
-    "region": "DO"
-  },
-  {
-    "ip_address": "104.28.149.121/32",
-    "ip_type": "IPv4",
-    "region": "DO"
-  },
-  {
-    "ip_address": "2606:54c0:3000::/45",
+    "ip_address": "2a04:4e41:3a1d::/48",
     "ip_type": "IPv6",
     "region": "DO"
   },
   {
-    "ip_address": "2606:54c0:3008::/45",
+    "ip_address": "2a04:4e41:3e15::/48",
     "ip_type": "IPv6",
     "region": "DO"
   },
   {
-    "ip_address": "2606:54c0:d490::/45",
+    "ip_address": "2a04:4e41:7015::/48",
     "ip_type": "IPv6",
     "region": "DO"
   },
   {
-    "ip_address": "2606:54c3:0:380::/64",
-    "ip_type": "IPv6",
-    "region": "DO"
-  },
-  {
-    "ip_address": "2606:54c3:0:62d::/64",
-    "ip_type": "IPv6",
-    "region": "DO"
-  },
-  {
-    "ip_address": "2606:54c3:0:b7f::/64",
-    "ip_type": "IPv6",
-    "region": "DO"
-  },
-  {
-    "ip_address": "2606:54c3:0:12d6::/64",
+    "ip_address": "2a04:4e41:7215::/48",
     "ip_type": "IPv6",
     "region": "DO"
   },
@@ -987,46 +1027,6 @@
   {
     "ip_address": "2a09:bac3:d4a8::/45",
     "ip_type": "IPv6",
-    "region": "DO"
-  },
-  {
-    "ip_address": "2a04:4e41:3a1d::/48",
-    "ip_type": "IPv6",
-    "region": "DO"
-  },
-  {
-    "ip_address": "2a04:4e41:3e15::/48",
-    "ip_type": "IPv6",
-    "region": "DO"
-  },
-  {
-    "ip_address": "2a04:4e41:7015::/48",
-    "ip_type": "IPv6",
-    "region": "DO"
-  },
-  {
-    "ip_address": "2a04:4e41:7215::/48",
-    "ip_type": "IPv6",
-    "region": "DO"
-  },
-  {
-    "ip_address": "140.248.12.12/31",
-    "ip_type": "IPv4",
-    "region": "DO"
-  },
-  {
-    "ip_address": "140.248.44.34/31",
-    "ip_type": "IPv4",
-    "region": "DO"
-  },
-  {
-    "ip_address": "146.75.232.12/31",
-    "ip_type": "IPv4",
-    "region": "DO"
-  },
-  {
-    "ip_address": "146.75.248.12/31",
-    "ip_type": "IPv4",
     "region": "DO"
   }
 ]

@@ -1,5 +1,25 @@
 [
   {
+    "ip_address": "140.248.34.140/31",
+    "ip_type": "IPv4",
+    "region": "LU"
+  },
+  {
+    "ip_address": "140.248.36.176/31",
+    "ip_type": "IPv4",
+    "region": "LU"
+  },
+  {
+    "ip_address": "146.75.162.48/31",
+    "ip_type": "IPv4",
+    "region": "LU"
+  },
+  {
+    "ip_address": "146.75.169.140/31",
+    "ip_type": "IPv4",
+    "region": "LU"
+  },
+  {
     "ip_address": "172.225.187.32/28",
     "ip_type": "IPv4",
     "region": "LU"
@@ -37,6 +57,16 @@
   {
     "ip_address": "172.225.253.112/28",
     "ip_type": "IPv4",
+    "region": "LU"
+  },
+  {
+    "ip_address": "2606:54c0:47e0::/45",
+    "ip_type": "IPv6",
+    "region": "LU"
+  },
+  {
+    "ip_address": "2606:54c3:0:11f5::/64",
+    "ip_type": "IPv6",
     "region": "LU"
   },
   {
@@ -260,26 +290,6 @@
     "region": "LU"
   },
   {
-    "ip_address": "2606:54c0:47e0::/45",
-    "ip_type": "IPv6",
-    "region": "LU"
-  },
-  {
-    "ip_address": "2606:54c3:0:11f5::/64",
-    "ip_type": "IPv6",
-    "region": "LU"
-  },
-  {
-    "ip_address": "2a09:bac2:47e0::/45",
-    "ip_type": "IPv6",
-    "region": "LU"
-  },
-  {
-    "ip_address": "2a09:bac3:47e0::/45",
-    "ip_type": "IPv6",
-    "region": "LU"
-  },
-  {
     "ip_address": "2a04:4e41:210::/48",
     "ip_type": "IPv6",
     "region": "LU"
@@ -300,23 +310,13 @@
     "region": "LU"
   },
   {
-    "ip_address": "140.248.34.140/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:47e0::/45",
+    "ip_type": "IPv6",
     "region": "LU"
   },
   {
-    "ip_address": "140.248.36.176/31",
-    "ip_type": "IPv4",
-    "region": "LU"
-  },
-  {
-    "ip_address": "146.75.162.48/31",
-    "ip_type": "IPv4",
-    "region": "LU"
-  },
-  {
-    "ip_address": "146.75.169.140/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:47e0::/45",
+    "ip_type": "IPv6",
     "region": "LU"
   }
 ]

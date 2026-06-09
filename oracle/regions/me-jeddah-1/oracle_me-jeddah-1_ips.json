@@ -24,9 +24,33 @@
     "region": "me-jeddah-1"
   },
   {
+    "ip_address": "92.4.228.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "me-jeddah-1"
+  },
+  {
     "ip_address": "130.110.96.0/19",
     "ip_type": "IPv4",
     "service": "OCI",
+    "region": "me-jeddah-1"
+  },
+  {
+    "ip_address": "134.70.100.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN,OBJECT_STORAGE",
+    "region": "me-jeddah-1"
+  },
+  {
+    "ip_address": "140.91.42.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "me-jeddah-1"
+  },
+  {
+    "ip_address": "140.204.34.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
     "region": "me-jeddah-1"
   },
   {
@@ -60,48 +84,6 @@
     "region": "me-jeddah-1"
   },
   {
-    "ip_address": "193.122.64.0/19",
-    "ip_type": "IPv4",
-    "service": "OCI",
-    "region": "me-jeddah-1"
-  },
-  {
-    "ip_address": "207.127.96.0/21",
-    "ip_type": "IPv4",
-    "service": "OCI",
-    "region": "me-jeddah-1"
-  },
-  {
-    "ip_address": "207.135.30.0/23",
-    "ip_type": "IPv4",
-    "service": "OCI",
-    "region": "me-jeddah-1"
-  },
-  {
-    "ip_address": "92.4.228.0/22",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "me-jeddah-1"
-  },
-  {
-    "ip_address": "134.70.100.0/22",
-    "ip_type": "IPv4",
-    "service": "OSN,OBJECT_STORAGE",
-    "region": "me-jeddah-1"
-  },
-  {
-    "ip_address": "140.91.42.0/23",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "me-jeddah-1"
-  },
-  {
-    "ip_address": "140.204.34.128/25",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "me-jeddah-1"
-  },
-  {
     "ip_address": "192.29.112.0/20",
     "ip_type": "IPv4",
     "service": "OSN",
@@ -123,6 +105,24 @@
     "ip_address": "192.29.232.192/26",
     "ip_type": "IPv4",
     "service": "OSN",
+    "region": "me-jeddah-1"
+  },
+  {
+    "ip_address": "193.122.64.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "me-jeddah-1"
+  },
+  {
+    "ip_address": "207.127.96.0/21",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "me-jeddah-1"
+  },
+  {
+    "ip_address": "207.135.30.0/23",
+    "ip_type": "IPv4",
+    "service": "OCI",
     "region": "me-jeddah-1"
   }
 ]

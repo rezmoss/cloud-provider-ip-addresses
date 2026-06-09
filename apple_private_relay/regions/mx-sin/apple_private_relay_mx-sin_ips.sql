@@ -12,6 +12,12 @@ INSERT INTO `apple_private_relay_mx-sin_ips` (`ip_address`, `ip_type`) VALUES ('
 INSERT INTO `apple_private_relay_mx-sin_ips` (`ip_address`, `ip_type`) VALUES ('172.225.154.234/31', 'IPv4');
 INSERT INTO `apple_private_relay_mx-sin_ips` (`ip_address`, `ip_type`) VALUES ('172.226.122.58/31', 'IPv4');
 INSERT INTO `apple_private_relay_mx-sin_ips` (`ip_address`, `ip_type`) VALUES ('172.226.174.70/31', 'IPv4');
+INSERT INTO `apple_private_relay_mx-sin_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:4b70::/45', 'IPv6');
+INSERT INTO `apple_private_relay_mx-sin_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:4b78::/45', 'IPv6');
+INSERT INTO `apple_private_relay_mx-sin_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:4b80::/45', 'IPv6');
+INSERT INTO `apple_private_relay_mx-sin_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:1ae::/64', 'IPv6');
+INSERT INTO `apple_private_relay_mx-sin_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:144d::/64', 'IPv6');
+INSERT INTO `apple_private_relay_mx-sin_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:187f::/64', 'IPv6');
 INSERT INTO `apple_private_relay_mx-sin_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:bf80:5503::/64', 'IPv6');
 INSERT INTO `apple_private_relay_mx-sin_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:bf80:550a::/64', 'IPv6');
 INSERT INTO `apple_private_relay_mx-sin_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:bf80:550b::/64', 'IPv6');
@@ -30,12 +36,6 @@ INSERT INTO `apple_private_relay_mx-sin_ips` (`ip_address`, `ip_type`) VALUES ('
 INSERT INTO `apple_private_relay_mx-sin_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:bf90:5503::/64', 'IPv6');
 INSERT INTO `apple_private_relay_mx-sin_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:bf90:550a::/64', 'IPv6');
 INSERT INTO `apple_private_relay_mx-sin_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:bf90:550b::/64', 'IPv6');
-INSERT INTO `apple_private_relay_mx-sin_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:4b70::/45', 'IPv6');
-INSERT INTO `apple_private_relay_mx-sin_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:4b78::/45', 'IPv6');
-INSERT INTO `apple_private_relay_mx-sin_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:4b80::/45', 'IPv6');
-INSERT INTO `apple_private_relay_mx-sin_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:1ae::/64', 'IPv6');
-INSERT INTO `apple_private_relay_mx-sin_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:144d::/64', 'IPv6');
-INSERT INTO `apple_private_relay_mx-sin_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:187f::/64', 'IPv6');
 INSERT INTO `apple_private_relay_mx-sin_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:4b70::/45', 'IPv6');
 INSERT INTO `apple_private_relay_mx-sin_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:4b78::/45', 'IPv6');
 INSERT INTO `apple_private_relay_mx-sin_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:4b80::/45', 'IPv6');

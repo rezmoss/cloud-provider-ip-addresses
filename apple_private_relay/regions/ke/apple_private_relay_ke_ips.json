@@ -1,5 +1,65 @@
 [
   {
+    "ip_address": "104.28.136.184/32",
+    "ip_type": "IPv4",
+    "region": "KE"
+  },
+  {
+    "ip_address": "104.28.137.4/32",
+    "ip_type": "IPv4",
+    "region": "KE"
+  },
+  {
+    "ip_address": "104.28.137.28/32",
+    "ip_type": "IPv4",
+    "region": "KE"
+  },
+  {
+    "ip_address": "104.28.139.141/32",
+    "ip_type": "IPv4",
+    "region": "KE"
+  },
+  {
+    "ip_address": "104.28.141.43/32",
+    "ip_type": "IPv4",
+    "region": "KE"
+  },
+  {
+    "ip_address": "104.28.141.44/32",
+    "ip_type": "IPv4",
+    "region": "KE"
+  },
+  {
+    "ip_address": "104.28.146.143/32",
+    "ip_type": "IPv4",
+    "region": "KE"
+  },
+  {
+    "ip_address": "104.28.146.144/32",
+    "ip_type": "IPv4",
+    "region": "KE"
+  },
+  {
+    "ip_address": "104.28.146.145/32",
+    "ip_type": "IPv4",
+    "region": "KE"
+  },
+  {
+    "ip_address": "140.248.36.154/31",
+    "ip_type": "IPv4",
+    "region": "KE"
+  },
+  {
+    "ip_address": "140.248.40.144/31",
+    "ip_type": "IPv4",
+    "region": "KE"
+  },
+  {
+    "ip_address": "146.75.174.122/31",
+    "ip_type": "IPv4",
+    "region": "KE"
+  },
+  {
     "ip_address": "172.224.230.104/29",
     "ip_type": "IPv4",
     "region": "KE"
@@ -47,6 +107,36 @@
   {
     "ip_address": "172.225.220.192/28",
     "ip_type": "IPv4",
+    "region": "KE"
+  },
+  {
+    "ip_address": "2606:54c0:4610::/45",
+    "ip_type": "IPv6",
+    "region": "KE"
+  },
+  {
+    "ip_address": "2606:54c0:4618::/45",
+    "ip_type": "IPv6",
+    "region": "KE"
+  },
+  {
+    "ip_address": "2606:54c0:4620::/45",
+    "ip_type": "IPv6",
+    "region": "KE"
+  },
+  {
+    "ip_address": "2606:54c3:0:716::/64",
+    "ip_type": "IPv6",
+    "region": "KE"
+  },
+  {
+    "ip_address": "2606:54c3:0:b0f::/64",
+    "ip_type": "IPv6",
+    "region": "KE"
+  },
+  {
+    "ip_address": "2606:54c3:0:c0d::/64",
+    "ip_type": "IPv6",
     "region": "KE"
   },
   {
@@ -525,77 +615,17 @@
     "region": "KE"
   },
   {
-    "ip_address": "104.28.136.184/32",
-    "ip_type": "IPv4",
-    "region": "KE"
-  },
-  {
-    "ip_address": "104.28.137.4/32",
-    "ip_type": "IPv4",
-    "region": "KE"
-  },
-  {
-    "ip_address": "104.28.137.28/32",
-    "ip_type": "IPv4",
-    "region": "KE"
-  },
-  {
-    "ip_address": "104.28.139.141/32",
-    "ip_type": "IPv4",
-    "region": "KE"
-  },
-  {
-    "ip_address": "104.28.141.43/32",
-    "ip_type": "IPv4",
-    "region": "KE"
-  },
-  {
-    "ip_address": "104.28.141.44/32",
-    "ip_type": "IPv4",
-    "region": "KE"
-  },
-  {
-    "ip_address": "104.28.146.143/32",
-    "ip_type": "IPv4",
-    "region": "KE"
-  },
-  {
-    "ip_address": "104.28.146.144/32",
-    "ip_type": "IPv4",
-    "region": "KE"
-  },
-  {
-    "ip_address": "104.28.146.145/32",
-    "ip_type": "IPv4",
-    "region": "KE"
-  },
-  {
-    "ip_address": "2606:54c0:4610::/45",
+    "ip_address": "2a04:4e41:1319::/48",
     "ip_type": "IPv6",
     "region": "KE"
   },
   {
-    "ip_address": "2606:54c0:4618::/45",
+    "ip_address": "2a04:4e41:1824::/48",
     "ip_type": "IPv6",
     "region": "KE"
   },
   {
-    "ip_address": "2606:54c0:4620::/45",
-    "ip_type": "IPv6",
-    "region": "KE"
-  },
-  {
-    "ip_address": "2606:54c3:0:716::/64",
-    "ip_type": "IPv6",
-    "region": "KE"
-  },
-  {
-    "ip_address": "2606:54c3:0:b0f::/64",
-    "ip_type": "IPv6",
-    "region": "KE"
-  },
-  {
-    "ip_address": "2606:54c3:0:c0d::/64",
+    "ip_address": "2a04:4e41:4e11::/48",
     "ip_type": "IPv6",
     "region": "KE"
   },
@@ -627,36 +657,6 @@
   {
     "ip_address": "2a09:bac3:4620::/45",
     "ip_type": "IPv6",
-    "region": "KE"
-  },
-  {
-    "ip_address": "2a04:4e41:1319::/48",
-    "ip_type": "IPv6",
-    "region": "KE"
-  },
-  {
-    "ip_address": "2a04:4e41:1824::/48",
-    "ip_type": "IPv6",
-    "region": "KE"
-  },
-  {
-    "ip_address": "2a04:4e41:4e11::/48",
-    "ip_type": "IPv6",
-    "region": "KE"
-  },
-  {
-    "ip_address": "140.248.36.154/31",
-    "ip_type": "IPv4",
-    "region": "KE"
-  },
-  {
-    "ip_address": "140.248.40.144/31",
-    "ip_type": "IPv4",
-    "region": "KE"
-  },
-  {
-    "ip_address": "146.75.174.122/31",
-    "ip_type": "IPv4",
     "region": "KE"
   }
 ]

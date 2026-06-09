@@ -1,185 +1,5 @@
 [
   {
-    "ip_address": "172.224.240.96/27",
-    "ip_type": "IPv4",
-    "region": "VN-SG"
-  },
-  {
-    "ip_address": "172.225.56.0/26",
-    "ip_type": "IPv4",
-    "region": "VN-SG"
-  },
-  {
-    "ip_address": "172.225.56.64/27",
-    "ip_type": "IPv4",
-    "region": "VN-SG"
-  },
-  {
-    "ip_address": "172.225.74.0/26",
-    "ip_type": "IPv4",
-    "region": "VN-SG"
-  },
-  {
-    "ip_address": "172.225.181.0/26",
-    "ip_type": "IPv4",
-    "region": "VN-SG"
-  },
-  {
-    "ip_address": "172.225.181.128/27",
-    "ip_type": "IPv4",
-    "region": "VN-SG"
-  },
-  {
-    "ip_address": "172.226.46.96/27",
-    "ip_type": "IPv4",
-    "region": "VN-SG"
-  },
-  {
-    "ip_address": "172.226.46.192/26",
-    "ip_type": "IPv4",
-    "region": "VN-SG"
-  },
-  {
-    "ip_address": "2a02:26f7:c5c0::/54",
-    "ip_type": "IPv6",
-    "region": "VN-SG"
-  },
-  {
-    "ip_address": "2a02:26f7:c5c0:500::/58",
-    "ip_type": "IPv6",
-    "region": "VN-SG"
-  },
-  {
-    "ip_address": "2a02:26f7:c5c0:540::/58",
-    "ip_type": "IPv6",
-    "region": "VN-SG"
-  },
-  {
-    "ip_address": "2a02:26f7:c5c0:4000::/64",
-    "ip_type": "IPv6",
-    "region": "VN-SG"
-  },
-  {
-    "ip_address": "2a02:26f7:c5c0:4f80::/64",
-    "ip_type": "IPv6",
-    "region": "VN-SG"
-  },
-  {
-    "ip_address": "2a02:26f7:c5c0:4f83::/64",
-    "ip_type": "IPv6",
-    "region": "VN-SG"
-  },
-  {
-    "ip_address": "2a02:26f7:c5c1:4000::/64",
-    "ip_type": "IPv6",
-    "region": "VN-SG"
-  },
-  {
-    "ip_address": "2a02:26f7:c5c4::/54",
-    "ip_type": "IPv6",
-    "region": "VN-SG"
-  },
-  {
-    "ip_address": "2a02:26f7:c5c4:500::/58",
-    "ip_type": "IPv6",
-    "region": "VN-SG"
-  },
-  {
-    "ip_address": "2a02:26f7:c5c4:540::/58",
-    "ip_type": "IPv6",
-    "region": "VN-SG"
-  },
-  {
-    "ip_address": "2a02:26f7:c5c4:4000::/64",
-    "ip_type": "IPv6",
-    "region": "VN-SG"
-  },
-  {
-    "ip_address": "2a02:26f7:c5c4:4f80::/64",
-    "ip_type": "IPv6",
-    "region": "VN-SG"
-  },
-  {
-    "ip_address": "2a02:26f7:c5c4:4f83::/64",
-    "ip_type": "IPv6",
-    "region": "VN-SG"
-  },
-  {
-    "ip_address": "2a02:26f7:c5c5::/54",
-    "ip_type": "IPv6",
-    "region": "VN-SG"
-  },
-  {
-    "ip_address": "2a02:26f7:c5c5:500::/58",
-    "ip_type": "IPv6",
-    "region": "VN-SG"
-  },
-  {
-    "ip_address": "2a02:26f7:c5c5:540::/58",
-    "ip_type": "IPv6",
-    "region": "VN-SG"
-  },
-  {
-    "ip_address": "2a02:26f7:c5c5:4000::/64",
-    "ip_type": "IPv6",
-    "region": "VN-SG"
-  },
-  {
-    "ip_address": "2a02:26f7:c5c5:4f80::/64",
-    "ip_type": "IPv6",
-    "region": "VN-SG"
-  },
-  {
-    "ip_address": "2a02:26f7:c5c5:4f83::/64",
-    "ip_type": "IPv6",
-    "region": "VN-SG"
-  },
-  {
-    "ip_address": "2a02:26f7:c5c6:4000::/64",
-    "ip_type": "IPv6",
-    "region": "VN-SG"
-  },
-  {
-    "ip_address": "2a02:26f7:c5c7:4000::/64",
-    "ip_type": "IPv6",
-    "region": "VN-SG"
-  },
-  {
-    "ip_address": "2a02:26f7:c5c8::/54",
-    "ip_type": "IPv6",
-    "region": "VN-SG"
-  },
-  {
-    "ip_address": "2a02:26f7:c5c8:500::/58",
-    "ip_type": "IPv6",
-    "region": "VN-SG"
-  },
-  {
-    "ip_address": "2a02:26f7:c5c8:540::/58",
-    "ip_type": "IPv6",
-    "region": "VN-SG"
-  },
-  {
-    "ip_address": "2a02:26f7:c5c8:4000::/64",
-    "ip_type": "IPv6",
-    "region": "VN-SG"
-  },
-  {
-    "ip_address": "2a02:26f7:c5c8:4f80::/64",
-    "ip_type": "IPv6",
-    "region": "VN-SG"
-  },
-  {
-    "ip_address": "2a02:26f7:c5c8:4f83::/64",
-    "ip_type": "IPv6",
-    "region": "VN-SG"
-  },
-  {
-    "ip_address": "2a02:26f7:c5c9:4000::/64",
-    "ip_type": "IPv6",
-    "region": "VN-SG"
-  },
-  {
     "ip_address": "104.28.38.130/32",
     "ip_type": "IPv4",
     "region": "VN-SG"
@@ -620,6 +440,71 @@
     "region": "VN-SG"
   },
   {
+    "ip_address": "140.248.16.24/31",
+    "ip_type": "IPv4",
+    "region": "VN-SG"
+  },
+  {
+    "ip_address": "146.75.132.170/31",
+    "ip_type": "IPv4",
+    "region": "VN-SG"
+  },
+  {
+    "ip_address": "146.75.154.32/31",
+    "ip_type": "IPv4",
+    "region": "VN-SG"
+  },
+  {
+    "ip_address": "146.75.160.170/31",
+    "ip_type": "IPv4",
+    "region": "VN-SG"
+  },
+  {
+    "ip_address": "146.75.187.58/31",
+    "ip_type": "IPv4",
+    "region": "VN-SG"
+  },
+  {
+    "ip_address": "172.224.240.96/27",
+    "ip_type": "IPv4",
+    "region": "VN-SG"
+  },
+  {
+    "ip_address": "172.225.56.0/26",
+    "ip_type": "IPv4",
+    "region": "VN-SG"
+  },
+  {
+    "ip_address": "172.225.56.64/27",
+    "ip_type": "IPv4",
+    "region": "VN-SG"
+  },
+  {
+    "ip_address": "172.225.74.0/26",
+    "ip_type": "IPv4",
+    "region": "VN-SG"
+  },
+  {
+    "ip_address": "172.225.181.0/26",
+    "ip_type": "IPv4",
+    "region": "VN-SG"
+  },
+  {
+    "ip_address": "172.225.181.128/27",
+    "ip_type": "IPv4",
+    "region": "VN-SG"
+  },
+  {
+    "ip_address": "172.226.46.96/27",
+    "ip_type": "IPv4",
+    "region": "VN-SG"
+  },
+  {
+    "ip_address": "172.226.46.192/26",
+    "ip_type": "IPv4",
+    "region": "VN-SG"
+  },
+  {
     "ip_address": "2606:54c0:d368::/45",
     "ip_type": "IPv6",
     "region": "VN-SG"
@@ -630,12 +515,142 @@
     "region": "VN-SG"
   },
   {
-    "ip_address": "2a09:bac2:d368::/45",
+    "ip_address": "2a02:26f7:c5c0::/54",
     "ip_type": "IPv6",
     "region": "VN-SG"
   },
   {
-    "ip_address": "2a09:bac3:d368::/45",
+    "ip_address": "2a02:26f7:c5c0:500::/58",
+    "ip_type": "IPv6",
+    "region": "VN-SG"
+  },
+  {
+    "ip_address": "2a02:26f7:c5c0:540::/58",
+    "ip_type": "IPv6",
+    "region": "VN-SG"
+  },
+  {
+    "ip_address": "2a02:26f7:c5c0:4000::/64",
+    "ip_type": "IPv6",
+    "region": "VN-SG"
+  },
+  {
+    "ip_address": "2a02:26f7:c5c0:4f80::/64",
+    "ip_type": "IPv6",
+    "region": "VN-SG"
+  },
+  {
+    "ip_address": "2a02:26f7:c5c0:4f83::/64",
+    "ip_type": "IPv6",
+    "region": "VN-SG"
+  },
+  {
+    "ip_address": "2a02:26f7:c5c1:4000::/64",
+    "ip_type": "IPv6",
+    "region": "VN-SG"
+  },
+  {
+    "ip_address": "2a02:26f7:c5c4::/54",
+    "ip_type": "IPv6",
+    "region": "VN-SG"
+  },
+  {
+    "ip_address": "2a02:26f7:c5c4:500::/58",
+    "ip_type": "IPv6",
+    "region": "VN-SG"
+  },
+  {
+    "ip_address": "2a02:26f7:c5c4:540::/58",
+    "ip_type": "IPv6",
+    "region": "VN-SG"
+  },
+  {
+    "ip_address": "2a02:26f7:c5c4:4000::/64",
+    "ip_type": "IPv6",
+    "region": "VN-SG"
+  },
+  {
+    "ip_address": "2a02:26f7:c5c4:4f80::/64",
+    "ip_type": "IPv6",
+    "region": "VN-SG"
+  },
+  {
+    "ip_address": "2a02:26f7:c5c4:4f83::/64",
+    "ip_type": "IPv6",
+    "region": "VN-SG"
+  },
+  {
+    "ip_address": "2a02:26f7:c5c5::/54",
+    "ip_type": "IPv6",
+    "region": "VN-SG"
+  },
+  {
+    "ip_address": "2a02:26f7:c5c5:500::/58",
+    "ip_type": "IPv6",
+    "region": "VN-SG"
+  },
+  {
+    "ip_address": "2a02:26f7:c5c5:540::/58",
+    "ip_type": "IPv6",
+    "region": "VN-SG"
+  },
+  {
+    "ip_address": "2a02:26f7:c5c5:4000::/64",
+    "ip_type": "IPv6",
+    "region": "VN-SG"
+  },
+  {
+    "ip_address": "2a02:26f7:c5c5:4f80::/64",
+    "ip_type": "IPv6",
+    "region": "VN-SG"
+  },
+  {
+    "ip_address": "2a02:26f7:c5c5:4f83::/64",
+    "ip_type": "IPv6",
+    "region": "VN-SG"
+  },
+  {
+    "ip_address": "2a02:26f7:c5c6:4000::/64",
+    "ip_type": "IPv6",
+    "region": "VN-SG"
+  },
+  {
+    "ip_address": "2a02:26f7:c5c7:4000::/64",
+    "ip_type": "IPv6",
+    "region": "VN-SG"
+  },
+  {
+    "ip_address": "2a02:26f7:c5c8::/54",
+    "ip_type": "IPv6",
+    "region": "VN-SG"
+  },
+  {
+    "ip_address": "2a02:26f7:c5c8:500::/58",
+    "ip_type": "IPv6",
+    "region": "VN-SG"
+  },
+  {
+    "ip_address": "2a02:26f7:c5c8:540::/58",
+    "ip_type": "IPv6",
+    "region": "VN-SG"
+  },
+  {
+    "ip_address": "2a02:26f7:c5c8:4000::/64",
+    "ip_type": "IPv6",
+    "region": "VN-SG"
+  },
+  {
+    "ip_address": "2a02:26f7:c5c8:4f80::/64",
+    "ip_type": "IPv6",
+    "region": "VN-SG"
+  },
+  {
+    "ip_address": "2a02:26f7:c5c8:4f83::/64",
+    "ip_type": "IPv6",
+    "region": "VN-SG"
+  },
+  {
+    "ip_address": "2a02:26f7:c5c9:4000::/64",
     "ip_type": "IPv6",
     "region": "VN-SG"
   },
@@ -665,28 +680,13 @@
     "region": "VN-SG"
   },
   {
-    "ip_address": "140.248.16.24/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:d368::/45",
+    "ip_type": "IPv6",
     "region": "VN-SG"
   },
   {
-    "ip_address": "146.75.132.170/31",
-    "ip_type": "IPv4",
-    "region": "VN-SG"
-  },
-  {
-    "ip_address": "146.75.154.32/31",
-    "ip_type": "IPv4",
-    "region": "VN-SG"
-  },
-  {
-    "ip_address": "146.75.160.170/31",
-    "ip_type": "IPv4",
-    "region": "VN-SG"
-  },
-  {
-    "ip_address": "146.75.187.58/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:d368::/45",
+    "ip_type": "IPv6",
     "region": "VN-SG"
   }
 ]

@@ -1,12 +1,22 @@
 #!/bin/bash
 # Apple_private_relay IP Ranges
-# Updated: 2026-02-11 17:28:48
+# Updated: 2026-06-09 22:59:47
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
 # Updates daily at 00:00 UTC
 # iptables allow rules for apple_private_relay
 
+ip6tables -A INPUT -s 2606:54c0:5388::/45 -j ACCEPT
+ip6tables -A INPUT -s 2606:54c0:5390::/45 -j ACCEPT
+ip6tables -A INPUT -s 2606:54c0:5398::/45 -j ACCEPT
+ip6tables -A INPUT -s 2606:54c0:53a0::/45 -j ACCEPT
+ip6tables -A INPUT -s 2606:54c0:53a8::/45 -j ACCEPT
+ip6tables -A INPUT -s 2606:54c3:0:13f::/64 -j ACCEPT
+ip6tables -A INPUT -s 2606:54c3:0:5b0::/64 -j ACCEPT
+ip6tables -A INPUT -s 2606:54c3:0:a45::/64 -j ACCEPT
+ip6tables -A INPUT -s 2606:54c3:0:1673::/64 -j ACCEPT
+ip6tables -A INPUT -s 2606:54c3:0:1819::/64 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:f8c0:e645::/64 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:f8c0:e646::/64 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:f8c0:e647::/64 -j ACCEPT
@@ -79,16 +89,6 @@ ip6tables -A INPUT -s 2a02:26f7:f8e2:e649::/64 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:f8e2:e64a::/64 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:f8e2:e64b::/64 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:f8e2:e64c::/64 -j ACCEPT
-ip6tables -A INPUT -s 2606:54c0:5388::/45 -j ACCEPT
-ip6tables -A INPUT -s 2606:54c0:5390::/45 -j ACCEPT
-ip6tables -A INPUT -s 2606:54c0:5398::/45 -j ACCEPT
-ip6tables -A INPUT -s 2606:54c0:53a0::/45 -j ACCEPT
-ip6tables -A INPUT -s 2606:54c0:53a8::/45 -j ACCEPT
-ip6tables -A INPUT -s 2606:54c3:0:13f::/64 -j ACCEPT
-ip6tables -A INPUT -s 2606:54c3:0:5b0::/64 -j ACCEPT
-ip6tables -A INPUT -s 2606:54c3:0:a45::/64 -j ACCEPT
-ip6tables -A INPUT -s 2606:54c3:0:1673::/64 -j ACCEPT
-ip6tables -A INPUT -s 2606:54c3:0:1819::/64 -j ACCEPT
 ip6tables -A INPUT -s 2a09:bac2:5388::/45 -j ACCEPT
 ip6tables -A INPUT -s 2a09:bac2:5390::/45 -j ACCEPT
 ip6tables -A INPUT -s 2a09:bac2:5398::/45 -j ACCEPT

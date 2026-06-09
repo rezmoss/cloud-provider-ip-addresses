@@ -30,6 +30,36 @@
     "region": "MX-SIN"
   },
   {
+    "ip_address": "2606:54c0:4b70::/45",
+    "ip_type": "IPv6",
+    "region": "MX-SIN"
+  },
+  {
+    "ip_address": "2606:54c0:4b78::/45",
+    "ip_type": "IPv6",
+    "region": "MX-SIN"
+  },
+  {
+    "ip_address": "2606:54c0:4b80::/45",
+    "ip_type": "IPv6",
+    "region": "MX-SIN"
+  },
+  {
+    "ip_address": "2606:54c3:0:1ae::/64",
+    "ip_type": "IPv6",
+    "region": "MX-SIN"
+  },
+  {
+    "ip_address": "2606:54c3:0:144d::/64",
+    "ip_type": "IPv6",
+    "region": "MX-SIN"
+  },
+  {
+    "ip_address": "2606:54c3:0:187f::/64",
+    "ip_type": "IPv6",
+    "region": "MX-SIN"
+  },
+  {
     "ip_address": "2a02:26f7:bf80:5503::/64",
     "ip_type": "IPv6",
     "region": "MX-SIN"
@@ -116,36 +146,6 @@
   },
   {
     "ip_address": "2a02:26f7:bf90:550b::/64",
-    "ip_type": "IPv6",
-    "region": "MX-SIN"
-  },
-  {
-    "ip_address": "2606:54c0:4b70::/45",
-    "ip_type": "IPv6",
-    "region": "MX-SIN"
-  },
-  {
-    "ip_address": "2606:54c0:4b78::/45",
-    "ip_type": "IPv6",
-    "region": "MX-SIN"
-  },
-  {
-    "ip_address": "2606:54c0:4b80::/45",
-    "ip_type": "IPv6",
-    "region": "MX-SIN"
-  },
-  {
-    "ip_address": "2606:54c3:0:1ae::/64",
-    "ip_type": "IPv6",
-    "region": "MX-SIN"
-  },
-  {
-    "ip_address": "2606:54c3:0:144d::/64",
-    "ip_type": "IPv6",
-    "region": "MX-SIN"
-  },
-  {
-    "ip_address": "2606:54c3:0:187f::/64",
     "ip_type": "IPv6",
     "region": "MX-SIN"
   },

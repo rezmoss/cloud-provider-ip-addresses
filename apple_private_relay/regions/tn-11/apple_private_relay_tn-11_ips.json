@@ -50,22 +50,27 @@
     "region": "TN-11"
   },
   {
+    "ip_address": "140.248.37.52/31",
+    "ip_type": "IPv4",
+    "region": "TN-11"
+  },
+  {
+    "ip_address": "146.75.166.138/31",
+    "ip_type": "IPv4",
+    "region": "TN-11"
+  },
+  {
+    "ip_address": "146.75.186.36/31",
+    "ip_type": "IPv4",
+    "region": "TN-11"
+  },
+  {
     "ip_address": "2606:54c0:57a0::/45",
     "ip_type": "IPv6",
     "region": "TN-11"
   },
   {
     "ip_address": "2606:54c3:0:a9c::/64",
-    "ip_type": "IPv6",
-    "region": "TN-11"
-  },
-  {
-    "ip_address": "2a09:bac2:57a0::/45",
-    "ip_type": "IPv6",
-    "region": "TN-11"
-  },
-  {
-    "ip_address": "2a09:bac3:57a0::/45",
     "ip_type": "IPv6",
     "region": "TN-11"
   },
@@ -85,18 +90,13 @@
     "region": "TN-11"
   },
   {
-    "ip_address": "140.248.37.52/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:57a0::/45",
+    "ip_type": "IPv6",
     "region": "TN-11"
   },
   {
-    "ip_address": "146.75.166.138/31",
-    "ip_type": "IPv4",
-    "region": "TN-11"
-  },
-  {
-    "ip_address": "146.75.186.36/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:57a0::/45",
+    "ip_type": "IPv6",
     "region": "TN-11"
   }
 ]

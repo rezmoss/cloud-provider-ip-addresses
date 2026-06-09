@@ -1,12 +1,30 @@
 #!/bin/bash
 # Apple_private_relay IP Ranges
-# Updated: 2026-02-11 17:28:46
+# Updated: 2026-06-09 22:59:38
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
 # Updates daily at 00:00 UTC
 # iptables allow rules for apple_private_relay
 
+iptables -A INPUT -s 104.28.31.23/32 -j ACCEPT
+iptables -A INPUT -s 104.28.31.24/32 -j ACCEPT
+iptables -A INPUT -s 104.28.53.8/32 -j ACCEPT
+iptables -A INPUT -s 104.28.53.9/32 -j ACCEPT
+iptables -A INPUT -s 104.28.65.21/32 -j ACCEPT
+iptables -A INPUT -s 104.28.65.22/32 -j ACCEPT
+iptables -A INPUT -s 104.28.86.31/32 -j ACCEPT
+iptables -A INPUT -s 104.28.86.32/32 -j ACCEPT
+iptables -A INPUT -s 104.28.86.53/32 -j ACCEPT
+iptables -A INPUT -s 104.28.86.54/32 -j ACCEPT
+iptables -A INPUT -s 104.28.89.8/32 -j ACCEPT
+iptables -A INPUT -s 104.28.89.9/32 -j ACCEPT
+iptables -A INPUT -s 104.28.105.18/32 -j ACCEPT
+iptables -A INPUT -s 104.28.105.19/32 -j ACCEPT
+iptables -A INPUT -s 104.28.132.49/32 -j ACCEPT
+iptables -A INPUT -s 104.28.132.50/32 -j ACCEPT
+iptables -A INPUT -s 140.248.36.122/31 -j ACCEPT
+iptables -A INPUT -s 146.75.200.16/31 -j ACCEPT
 iptables -A INPUT -s 172.225.70.96/27 -j ACCEPT
 iptables -A INPUT -s 172.225.70.192/27 -j ACCEPT
 iptables -A INPUT -s 172.225.138.224/27 -j ACCEPT
@@ -23,6 +41,12 @@ iptables -A INPUT -s 172.225.236.0/27 -j ACCEPT
 iptables -A INPUT -s 172.225.236.32/27 -j ACCEPT
 iptables -A INPUT -s 172.225.255.96/27 -j ACCEPT
 iptables -A INPUT -s 172.225.255.128/27 -j ACCEPT
+ip6tables -A INPUT -s 2606:54c0:3870::/45 -j ACCEPT
+ip6tables -A INPUT -s 2606:54c0:3878::/45 -j ACCEPT
+ip6tables -A INPUT -s 2606:54c0:3880::/45 -j ACCEPT
+ip6tables -A INPUT -s 2606:54c3:0:2d6::/64 -j ACCEPT
+ip6tables -A INPUT -s 2606:54c3:0:ae8::/64 -j ACCEPT
+ip6tables -A INPUT -s 2606:54c3:0:10f5::/64 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:d000:4000::/64 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:d001:4000::/64 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:d004:4000::/64 -j ACCEPT
@@ -87,35 +111,11 @@ ip6tables -A INPUT -s 2a02:26f7:e644:4000::/64 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:e645:4000::/64 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:e648:4000::/64 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:e649:4000::/64 -j ACCEPT
-iptables -A INPUT -s 104.28.31.23/32 -j ACCEPT
-iptables -A INPUT -s 104.28.31.24/32 -j ACCEPT
-iptables -A INPUT -s 104.28.53.8/32 -j ACCEPT
-iptables -A INPUT -s 104.28.53.9/32 -j ACCEPT
-iptables -A INPUT -s 104.28.65.21/32 -j ACCEPT
-iptables -A INPUT -s 104.28.65.22/32 -j ACCEPT
-iptables -A INPUT -s 104.28.86.31/32 -j ACCEPT
-iptables -A INPUT -s 104.28.86.32/32 -j ACCEPT
-iptables -A INPUT -s 104.28.86.53/32 -j ACCEPT
-iptables -A INPUT -s 104.28.86.54/32 -j ACCEPT
-iptables -A INPUT -s 104.28.89.8/32 -j ACCEPT
-iptables -A INPUT -s 104.28.89.9/32 -j ACCEPT
-iptables -A INPUT -s 104.28.105.18/32 -j ACCEPT
-iptables -A INPUT -s 104.28.105.19/32 -j ACCEPT
-iptables -A INPUT -s 104.28.132.49/32 -j ACCEPT
-iptables -A INPUT -s 104.28.132.50/32 -j ACCEPT
-ip6tables -A INPUT -s 2606:54c0:3870::/45 -j ACCEPT
-ip6tables -A INPUT -s 2606:54c0:3878::/45 -j ACCEPT
-ip6tables -A INPUT -s 2606:54c0:3880::/45 -j ACCEPT
-ip6tables -A INPUT -s 2606:54c3:0:2d6::/64 -j ACCEPT
-ip6tables -A INPUT -s 2606:54c3:0:ae8::/64 -j ACCEPT
-ip6tables -A INPUT -s 2606:54c3:0:10f5::/64 -j ACCEPT
+ip6tables -A INPUT -s 2a04:4e41:1c3::/48 -j ACCEPT
+ip6tables -A INPUT -s 2a04:4e41:181d::/48 -j ACCEPT
 ip6tables -A INPUT -s 2a09:bac2:3870::/45 -j ACCEPT
 ip6tables -A INPUT -s 2a09:bac2:3878::/45 -j ACCEPT
 ip6tables -A INPUT -s 2a09:bac2:3880::/45 -j ACCEPT
 ip6tables -A INPUT -s 2a09:bac3:3870::/45 -j ACCEPT
 ip6tables -A INPUT -s 2a09:bac3:3878::/45 -j ACCEPT
 ip6tables -A INPUT -s 2a09:bac3:3880::/45 -j ACCEPT
-ip6tables -A INPUT -s 2a04:4e41:1c3::/48 -j ACCEPT
-ip6tables -A INPUT -s 2a04:4e41:181d::/48 -j ACCEPT
-iptables -A INPUT -s 140.248.36.122/31 -j ACCEPT
-iptables -A INPUT -s 146.75.200.16/31 -j ACCEPT

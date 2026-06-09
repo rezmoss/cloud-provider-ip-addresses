@@ -260,6 +260,31 @@
     "region": "TR-34"
   },
   {
+    "ip_address": "140.248.18.10/31",
+    "ip_type": "IPv4",
+    "region": "TR-34"
+  },
+  {
+    "ip_address": "140.248.34.232/31",
+    "ip_type": "IPv4",
+    "region": "TR-34"
+  },
+  {
+    "ip_address": "140.248.37.60/31",
+    "ip_type": "IPv4",
+    "region": "TR-34"
+  },
+  {
+    "ip_address": "146.75.162.104/31",
+    "ip_type": "IPv4",
+    "region": "TR-34"
+  },
+  {
+    "ip_address": "146.75.169.232/31",
+    "ip_type": "IPv4",
+    "region": "TR-34"
+  },
+  {
     "ip_address": "2606:54c0:57c0::/45",
     "ip_type": "IPv6",
     "region": "TR-34"
@@ -276,26 +301,6 @@
   },
   {
     "ip_address": "2606:54c3:0:158c::/64",
-    "ip_type": "IPv6",
-    "region": "TR-34"
-  },
-  {
-    "ip_address": "2a09:bac2:57c0::/45",
-    "ip_type": "IPv6",
-    "region": "TR-34"
-  },
-  {
-    "ip_address": "2a09:bac2:57c8::/45",
-    "ip_type": "IPv6",
-    "region": "TR-34"
-  },
-  {
-    "ip_address": "2a09:bac3:57c0::/45",
-    "ip_type": "IPv6",
-    "region": "TR-34"
-  },
-  {
-    "ip_address": "2a09:bac3:57c8::/45",
     "ip_type": "IPv6",
     "region": "TR-34"
   },
@@ -325,28 +330,23 @@
     "region": "TR-34"
   },
   {
-    "ip_address": "140.248.18.10/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:57c0::/45",
+    "ip_type": "IPv6",
     "region": "TR-34"
   },
   {
-    "ip_address": "140.248.34.232/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:57c8::/45",
+    "ip_type": "IPv6",
     "region": "TR-34"
   },
   {
-    "ip_address": "140.248.37.60/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:57c0::/45",
+    "ip_type": "IPv6",
     "region": "TR-34"
   },
   {
-    "ip_address": "146.75.162.104/31",
-    "ip_type": "IPv4",
-    "region": "TR-34"
-  },
-  {
-    "ip_address": "146.75.169.232/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:57c8::/45",
+    "ip_type": "IPv6",
     "region": "TR-34"
   }
 ]

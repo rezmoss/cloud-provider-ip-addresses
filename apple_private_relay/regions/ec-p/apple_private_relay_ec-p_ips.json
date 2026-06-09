@@ -90,22 +90,32 @@
     "region": "EC-P"
   },
   {
+    "ip_address": "140.248.4.30/31",
+    "ip_type": "IPv4",
+    "region": "EC-P"
+  },
+  {
+    "ip_address": "140.248.44.42/31",
+    "ip_type": "IPv4",
+    "region": "EC-P"
+  },
+  {
+    "ip_address": "146.75.208.24/31",
+    "ip_type": "IPv4",
+    "region": "EC-P"
+  },
+  {
+    "ip_address": "146.75.221.10/31",
+    "ip_type": "IPv4",
+    "region": "EC-P"
+  },
+  {
     "ip_address": "2606:54c0:3040::/45",
     "ip_type": "IPv6",
     "region": "EC-P"
   },
   {
     "ip_address": "2606:54c3:0:355::/64",
-    "ip_type": "IPv6",
-    "region": "EC-P"
-  },
-  {
-    "ip_address": "2a09:bac2:3040::/45",
-    "ip_type": "IPv6",
-    "region": "EC-P"
-  },
-  {
-    "ip_address": "2a09:bac3:3040::/45",
     "ip_type": "IPv6",
     "region": "EC-P"
   },
@@ -130,23 +140,13 @@
     "region": "EC-P"
   },
   {
-    "ip_address": "140.248.4.30/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:3040::/45",
+    "ip_type": "IPv6",
     "region": "EC-P"
   },
   {
-    "ip_address": "140.248.44.42/31",
-    "ip_type": "IPv4",
-    "region": "EC-P"
-  },
-  {
-    "ip_address": "146.75.208.24/31",
-    "ip_type": "IPv4",
-    "region": "EC-P"
-  },
-  {
-    "ip_address": "146.75.221.10/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:3040::/45",
+    "ip_type": "IPv6",
     "region": "EC-P"
   }
 ]

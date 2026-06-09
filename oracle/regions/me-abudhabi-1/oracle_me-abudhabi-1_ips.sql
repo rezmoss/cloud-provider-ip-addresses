@@ -7,9 +7,9 @@ CREATE TABLE IF NOT EXISTS `oracle_me-abudhabi-1_ips` (
 );
 
 INSERT INTO `oracle_me-abudhabi-1_ips` (`ip_address`, `ip_type`) VALUES ('51.170.80.0/20', 'IPv4');
-INSERT INTO `oracle_me-abudhabi-1_ips` (`ip_address`, `ip_type`) VALUES ('129.151.128.0/19', 'IPv4');
 INSERT INTO `oracle_me-abudhabi-1_ips` (`ip_address`, `ip_type`) VALUES ('129.149.48.0/22', 'IPv4');
 INSERT INTO `oracle_me-abudhabi-1_ips` (`ip_address`, `ip_type`) VALUES ('129.149.52.0/25', 'IPv4');
+INSERT INTO `oracle_me-abudhabi-1_ips` (`ip_address`, `ip_type`) VALUES ('129.151.128.0/19', 'IPv4');
 INSERT INTO `oracle_me-abudhabi-1_ips` (`ip_address`, `ip_type`) VALUES ('134.70.144.0/22', 'IPv4');
 INSERT INTO `oracle_me-abudhabi-1_ips` (`ip_address`, `ip_type`) VALUES ('140.91.64.0/23', 'IPv4');
 INSERT INTO `oracle_me-abudhabi-1_ips` (`ip_address`, `ip_type`) VALUES ('140.204.80.128/25', 'IPv4');

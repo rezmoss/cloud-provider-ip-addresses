@@ -6,6 +6,10 @@ CREATE TABLE IF NOT EXISTS `apple_private_relay_de-sl_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `apple_private_relay_de-sl_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:2e80::/45', 'IPv6');
+INSERT INTO `apple_private_relay_de-sl_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:2e88::/45', 'IPv6');
+INSERT INTO `apple_private_relay_de-sl_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:a66::/64', 'IPv6');
+INSERT INTO `apple_private_relay_de-sl_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:e51::/64', 'IPv6');
 INSERT INTO `apple_private_relay_de-sl_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:ec40:fc3b::/64', 'IPv6');
 INSERT INTO `apple_private_relay_de-sl_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:ec40:fc3c::/64', 'IPv6');
 INSERT INTO `apple_private_relay_de-sl_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:ec40:fc3d::/64', 'IPv6');
@@ -56,10 +60,6 @@ INSERT INTO `apple_private_relay_de-sl_ips` (`ip_address`, `ip_type`) VALUES ('2
 INSERT INTO `apple_private_relay_de-sl_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:ec64:fc3d::/64', 'IPv6');
 INSERT INTO `apple_private_relay_de-sl_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:ec64:fc3e::/64', 'IPv6');
 INSERT INTO `apple_private_relay_de-sl_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:ec64:fc3f::/64', 'IPv6');
-INSERT INTO `apple_private_relay_de-sl_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:2e80::/45', 'IPv6');
-INSERT INTO `apple_private_relay_de-sl_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:2e88::/45', 'IPv6');
-INSERT INTO `apple_private_relay_de-sl_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:a66::/64', 'IPv6');
-INSERT INTO `apple_private_relay_de-sl_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:e51::/64', 'IPv6');
 INSERT INTO `apple_private_relay_de-sl_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:2e80::/45', 'IPv6');
 INSERT INTO `apple_private_relay_de-sl_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:2e88::/45', 'IPv6');
 INSERT INTO `apple_private_relay_de-sl_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:2e80::/45', 'IPv6');

@@ -1,105 +1,5 @@
 [
   {
-    "ip_address": "172.225.228.0/27",
-    "ip_type": "IPv4",
-    "region": "BE-BRU"
-  },
-  {
-    "ip_address": "172.225.233.0/27",
-    "ip_type": "IPv4",
-    "region": "BE-BRU"
-  },
-  {
-    "ip_address": "2a02:26f7:fb00:400::/56",
-    "ip_type": "IPv6",
-    "region": "BE-BRU"
-  },
-  {
-    "ip_address": "2a02:26f7:fb00:4146::/64",
-    "ip_type": "IPv6",
-    "region": "BE-BRU"
-  },
-  {
-    "ip_address": "2a02:26f7:fb00:4164::/64",
-    "ip_type": "IPv6",
-    "region": "BE-BRU"
-  },
-  {
-    "ip_address": "2a02:26f7:fb02::/54",
-    "ip_type": "IPv6",
-    "region": "BE-BRU"
-  },
-  {
-    "ip_address": "2a02:26f7:fb02:400::/56",
-    "ip_type": "IPv6",
-    "region": "BE-BRU"
-  },
-  {
-    "ip_address": "2a02:26f7:fb02:4000::/64",
-    "ip_type": "IPv6",
-    "region": "BE-BRU"
-  },
-  {
-    "ip_address": "2a02:26f7:fb02:4146::/64",
-    "ip_type": "IPv6",
-    "region": "BE-BRU"
-  },
-  {
-    "ip_address": "2a02:26f7:fb02:4164::/64",
-    "ip_type": "IPv6",
-    "region": "BE-BRU"
-  },
-  {
-    "ip_address": "2a02:26f7:fb03:4000::/64",
-    "ip_type": "IPv6",
-    "region": "BE-BRU"
-  },
-  {
-    "ip_address": "2a02:26f7:fb04::/54",
-    "ip_type": "IPv6",
-    "region": "BE-BRU"
-  },
-  {
-    "ip_address": "2a02:26f7:fb04:400::/56",
-    "ip_type": "IPv6",
-    "region": "BE-BRU"
-  },
-  {
-    "ip_address": "2a02:26f7:fb04:4000::/64",
-    "ip_type": "IPv6",
-    "region": "BE-BRU"
-  },
-  {
-    "ip_address": "2a02:26f7:fb04:4146::/64",
-    "ip_type": "IPv6",
-    "region": "BE-BRU"
-  },
-  {
-    "ip_address": "2a02:26f7:fb04:4164::/64",
-    "ip_type": "IPv6",
-    "region": "BE-BRU"
-  },
-  {
-    "ip_address": "2a02:26f7:fb05:4000::/64",
-    "ip_type": "IPv6",
-    "region": "BE-BRU"
-  },
-  {
-    "ip_address": "2a02:26f7:fb08:400::/56",
-    "ip_type": "IPv6",
-    "region": "BE-BRU"
-  },
-  {
-    "ip_address": "2a02:26f7:fb08:4146::/64",
-    "ip_type": "IPv6",
-    "region": "BE-BRU"
-  },
-  {
-    "ip_address": "2a02:26f7:fb08:4164::/64",
-    "ip_type": "IPv6",
-    "region": "BE-BRU"
-  },
-  {
     "ip_address": "104.28.30.6/32",
     "ip_type": "IPv4",
     "region": "BE-BRU"
@@ -205,6 +105,41 @@
     "region": "BE-BRU"
   },
   {
+    "ip_address": "140.248.24.4/31",
+    "ip_type": "IPv4",
+    "region": "BE-BRU"
+  },
+  {
+    "ip_address": "140.248.41.4/31",
+    "ip_type": "IPv4",
+    "region": "BE-BRU"
+  },
+  {
+    "ip_address": "146.75.162.20/31",
+    "ip_type": "IPv4",
+    "region": "BE-BRU"
+  },
+  {
+    "ip_address": "146.75.168.6/31",
+    "ip_type": "IPv4",
+    "region": "BE-BRU"
+  },
+  {
+    "ip_address": "146.75.185.6/31",
+    "ip_type": "IPv4",
+    "region": "BE-BRU"
+  },
+  {
+    "ip_address": "172.225.228.0/27",
+    "ip_type": "IPv4",
+    "region": "BE-BRU"
+  },
+  {
+    "ip_address": "172.225.233.0/27",
+    "ip_type": "IPv4",
+    "region": "BE-BRU"
+  },
+  {
     "ip_address": "2606:54c0:4a0::/45",
     "ip_type": "IPv6",
     "region": "BE-BRU"
@@ -215,12 +150,92 @@
     "region": "BE-BRU"
   },
   {
-    "ip_address": "2a09:bac2:4a0::/45",
+    "ip_address": "2a02:26f7:fb00:400::/56",
     "ip_type": "IPv6",
     "region": "BE-BRU"
   },
   {
-    "ip_address": "2a09:bac3:4a0::/45",
+    "ip_address": "2a02:26f7:fb00:4146::/64",
+    "ip_type": "IPv6",
+    "region": "BE-BRU"
+  },
+  {
+    "ip_address": "2a02:26f7:fb00:4164::/64",
+    "ip_type": "IPv6",
+    "region": "BE-BRU"
+  },
+  {
+    "ip_address": "2a02:26f7:fb02::/54",
+    "ip_type": "IPv6",
+    "region": "BE-BRU"
+  },
+  {
+    "ip_address": "2a02:26f7:fb02:400::/56",
+    "ip_type": "IPv6",
+    "region": "BE-BRU"
+  },
+  {
+    "ip_address": "2a02:26f7:fb02:4000::/64",
+    "ip_type": "IPv6",
+    "region": "BE-BRU"
+  },
+  {
+    "ip_address": "2a02:26f7:fb02:4146::/64",
+    "ip_type": "IPv6",
+    "region": "BE-BRU"
+  },
+  {
+    "ip_address": "2a02:26f7:fb02:4164::/64",
+    "ip_type": "IPv6",
+    "region": "BE-BRU"
+  },
+  {
+    "ip_address": "2a02:26f7:fb03:4000::/64",
+    "ip_type": "IPv6",
+    "region": "BE-BRU"
+  },
+  {
+    "ip_address": "2a02:26f7:fb04::/54",
+    "ip_type": "IPv6",
+    "region": "BE-BRU"
+  },
+  {
+    "ip_address": "2a02:26f7:fb04:400::/56",
+    "ip_type": "IPv6",
+    "region": "BE-BRU"
+  },
+  {
+    "ip_address": "2a02:26f7:fb04:4000::/64",
+    "ip_type": "IPv6",
+    "region": "BE-BRU"
+  },
+  {
+    "ip_address": "2a02:26f7:fb04:4146::/64",
+    "ip_type": "IPv6",
+    "region": "BE-BRU"
+  },
+  {
+    "ip_address": "2a02:26f7:fb04:4164::/64",
+    "ip_type": "IPv6",
+    "region": "BE-BRU"
+  },
+  {
+    "ip_address": "2a02:26f7:fb05:4000::/64",
+    "ip_type": "IPv6",
+    "region": "BE-BRU"
+  },
+  {
+    "ip_address": "2a02:26f7:fb08:400::/56",
+    "ip_type": "IPv6",
+    "region": "BE-BRU"
+  },
+  {
+    "ip_address": "2a02:26f7:fb08:4146::/64",
+    "ip_type": "IPv6",
+    "region": "BE-BRU"
+  },
+  {
+    "ip_address": "2a02:26f7:fb08:4164::/64",
     "ip_type": "IPv6",
     "region": "BE-BRU"
   },
@@ -250,28 +265,13 @@
     "region": "BE-BRU"
   },
   {
-    "ip_address": "140.248.24.4/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:4a0::/45",
+    "ip_type": "IPv6",
     "region": "BE-BRU"
   },
   {
-    "ip_address": "140.248.41.4/31",
-    "ip_type": "IPv4",
-    "region": "BE-BRU"
-  },
-  {
-    "ip_address": "146.75.162.20/31",
-    "ip_type": "IPv4",
-    "region": "BE-BRU"
-  },
-  {
-    "ip_address": "146.75.168.6/31",
-    "ip_type": "IPv4",
-    "region": "BE-BRU"
-  },
-  {
-    "ip_address": "146.75.185.6/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:4a0::/45",
+    "ip_type": "IPv6",
     "region": "BE-BRU"
   }
 ]

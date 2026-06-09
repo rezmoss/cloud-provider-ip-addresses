@@ -1,5 +1,25 @@
 [
   {
+    "ip_address": "140.248.4.32/31",
+    "ip_type": "IPv4",
+    "region": "GD"
+  },
+  {
+    "ip_address": "140.248.44.44/31",
+    "ip_type": "IPv4",
+    "region": "GD"
+  },
+  {
+    "ip_address": "146.75.148.6/31",
+    "ip_type": "IPv4",
+    "region": "GD"
+  },
+  {
+    "ip_address": "146.75.244.6/31",
+    "ip_type": "IPv4",
+    "region": "GD"
+  },
+  {
     "ip_address": "172.225.165.96/27",
     "ip_type": "IPv4",
     "region": "GD"
@@ -97,26 +117,6 @@
   {
     "ip_address": "2a04:4e41:4413::/48",
     "ip_type": "IPv6",
-    "region": "GD"
-  },
-  {
-    "ip_address": "140.248.4.32/31",
-    "ip_type": "IPv4",
-    "region": "GD"
-  },
-  {
-    "ip_address": "140.248.44.44/31",
-    "ip_type": "IPv4",
-    "region": "GD"
-  },
-  {
-    "ip_address": "146.75.148.6/31",
-    "ip_type": "IPv4",
-    "region": "GD"
-  },
-  {
-    "ip_address": "146.75.244.6/31",
-    "ip_type": "IPv4",
     "region": "GD"
   }
 ]

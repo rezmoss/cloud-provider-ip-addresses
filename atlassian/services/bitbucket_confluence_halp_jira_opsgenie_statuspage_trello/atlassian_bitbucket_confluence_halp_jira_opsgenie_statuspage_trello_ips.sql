@@ -6,5 +6,5 @@ CREATE TABLE IF NOT EXISTS `atlassian_bitbucket_confluence_halp_jira_opsgenie_st
   PRIMARY KEY (`ip_address`)
 );
 
-INSERT INTO `atlassian_bitbucket_confluence_halp_jira_opsgenie_statuspage_trello_ips` (`ip_address`, `ip_type`) VALUES ('2401:1d80:3000::/36', 'IPv6');
 INSERT INTO `atlassian_bitbucket_confluence_halp_jira_opsgenie_statuspage_trello_ips` (`ip_address`, `ip_type`) VALUES ('13.200.41.128/25', 'IPv4');
+INSERT INTO `atlassian_bitbucket_confluence_halp_jira_opsgenie_statuspage_trello_ips` (`ip_address`, `ip_type`) VALUES ('2401:1d80:3000::/36', 'IPv6');

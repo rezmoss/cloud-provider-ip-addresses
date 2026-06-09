@@ -6,6 +6,16 @@ CREATE TABLE IF NOT EXISTS `apple_private_relay_fr-pac_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `apple_private_relay_fr-pac_ips` (`ip_address`, `ip_type`) VALUES ('140.248.24.40/31', 'IPv4');
+INSERT INTO `apple_private_relay_fr-pac_ips` (`ip_address`, `ip_type`) VALUES ('140.248.24.42/31', 'IPv4');
+INSERT INTO `apple_private_relay_fr-pac_ips` (`ip_address`, `ip_type`) VALUES ('140.248.34.94/31', 'IPv4');
+INSERT INTO `apple_private_relay_fr-pac_ips` (`ip_address`, `ip_type`) VALUES ('140.248.34.96/31', 'IPv4');
+INSERT INTO `apple_private_relay_fr-pac_ips` (`ip_address`, `ip_type`) VALUES ('140.248.41.40/31', 'IPv4');
+INSERT INTO `apple_private_relay_fr-pac_ips` (`ip_address`, `ip_type`) VALUES ('140.248.41.42/31', 'IPv4');
+INSERT INTO `apple_private_relay_fr-pac_ips` (`ip_address`, `ip_type`) VALUES ('146.75.166.64/31', 'IPv4');
+INSERT INTO `apple_private_relay_fr-pac_ips` (`ip_address`, `ip_type`) VALUES ('146.75.166.66/31', 'IPv4');
+INSERT INTO `apple_private_relay_fr-pac_ips` (`ip_address`, `ip_type`) VALUES ('146.75.169.94/31', 'IPv4');
+INSERT INTO `apple_private_relay_fr-pac_ips` (`ip_address`, `ip_type`) VALUES ('146.75.169.96/31', 'IPv4');
 INSERT INTO `apple_private_relay_fr-pac_ips` (`ip_address`, `ip_type`) VALUES ('172.225.116.162/31', 'IPv4');
 INSERT INTO `apple_private_relay_fr-pac_ips` (`ip_address`, `ip_type`) VALUES ('172.225.116.164/31', 'IPv4');
 INSERT INTO `apple_private_relay_fr-pac_ips` (`ip_address`, `ip_type`) VALUES ('172.225.158.138/31', 'IPv4');
@@ -214,13 +224,3 @@ INSERT INTO `apple_private_relay_fr-pac_ips` (`ip_address`, `ip_type`) VALUES ('
 INSERT INTO `apple_private_relay_fr-pac_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:5201:8000::/52', 'IPv6');
 INSERT INTO `apple_private_relay_fr-pac_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:5602:1000::/52', 'IPv6');
 INSERT INTO `apple_private_relay_fr-pac_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:5602:2000::/52', 'IPv6');
-INSERT INTO `apple_private_relay_fr-pac_ips` (`ip_address`, `ip_type`) VALUES ('140.248.24.40/31', 'IPv4');
-INSERT INTO `apple_private_relay_fr-pac_ips` (`ip_address`, `ip_type`) VALUES ('140.248.24.42/31', 'IPv4');
-INSERT INTO `apple_private_relay_fr-pac_ips` (`ip_address`, `ip_type`) VALUES ('140.248.34.94/31', 'IPv4');
-INSERT INTO `apple_private_relay_fr-pac_ips` (`ip_address`, `ip_type`) VALUES ('140.248.34.96/31', 'IPv4');
-INSERT INTO `apple_private_relay_fr-pac_ips` (`ip_address`, `ip_type`) VALUES ('140.248.41.40/31', 'IPv4');
-INSERT INTO `apple_private_relay_fr-pac_ips` (`ip_address`, `ip_type`) VALUES ('140.248.41.42/31', 'IPv4');
-INSERT INTO `apple_private_relay_fr-pac_ips` (`ip_address`, `ip_type`) VALUES ('146.75.166.64/31', 'IPv4');
-INSERT INTO `apple_private_relay_fr-pac_ips` (`ip_address`, `ip_type`) VALUES ('146.75.166.66/31', 'IPv4');
-INSERT INTO `apple_private_relay_fr-pac_ips` (`ip_address`, `ip_type`) VALUES ('146.75.169.94/31', 'IPv4');
-INSERT INTO `apple_private_relay_fr-pac_ips` (`ip_address`, `ip_type`) VALUES ('146.75.169.96/31', 'IPv4');

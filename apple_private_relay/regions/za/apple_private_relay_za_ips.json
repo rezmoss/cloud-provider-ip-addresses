@@ -1,5 +1,30 @@
 [
   {
+    "ip_address": "140.248.40.200/31",
+    "ip_type": "IPv4",
+    "region": "ZA"
+  },
+  {
+    "ip_address": "146.75.168.184/31",
+    "ip_type": "IPv4",
+    "region": "ZA"
+  },
+  {
+    "ip_address": "146.75.185.184/31",
+    "ip_type": "IPv4",
+    "region": "ZA"
+  },
+  {
+    "ip_address": "146.75.198.34/31",
+    "ip_type": "IPv4",
+    "region": "ZA"
+  },
+  {
+    "ip_address": "146.75.224.2/31",
+    "ip_type": "IPv4",
+    "region": "ZA"
+  },
+  {
     "ip_address": "172.224.231.128/28",
     "ip_type": "IPv4",
     "region": "ZA"
@@ -37,6 +62,46 @@
   {
     "ip_address": "172.225.221.224/28",
     "ip_type": "IPv4",
+    "region": "ZA"
+  },
+  {
+    "ip_address": "2606:54c0:d3b0::/45",
+    "ip_type": "IPv6",
+    "region": "ZA"
+  },
+  {
+    "ip_address": "2606:54c0:d3b8::/45",
+    "ip_type": "IPv6",
+    "region": "ZA"
+  },
+  {
+    "ip_address": "2606:54c0:d3c0::/45",
+    "ip_type": "IPv6",
+    "region": "ZA"
+  },
+  {
+    "ip_address": "2606:54c0:d3c8::/45",
+    "ip_type": "IPv6",
+    "region": "ZA"
+  },
+  {
+    "ip_address": "2606:54c3:0:280::/64",
+    "ip_type": "IPv6",
+    "region": "ZA"
+  },
+  {
+    "ip_address": "2606:54c3:0:a09::/64",
+    "ip_type": "IPv6",
+    "region": "ZA"
+  },
+  {
+    "ip_address": "2606:54c3:0:be7::/64",
+    "ip_type": "IPv6",
+    "region": "ZA"
+  },
+  {
+    "ip_address": "2606:54c3:0:d00::/64",
+    "ip_type": "IPv6",
     "region": "ZA"
   },
   {
@@ -2400,42 +2465,27 @@
     "region": "ZA"
   },
   {
-    "ip_address": "2606:54c0:d3b0::/45",
+    "ip_address": "2a04:4e41:1e1::/48",
     "ip_type": "IPv6",
     "region": "ZA"
   },
   {
-    "ip_address": "2606:54c0:d3b8::/45",
+    "ip_address": "2a04:4e41:12d1::/48",
     "ip_type": "IPv6",
     "region": "ZA"
   },
   {
-    "ip_address": "2606:54c0:d3c0::/45",
+    "ip_address": "2a04:4e41:132f::/48",
     "ip_type": "IPv6",
     "region": "ZA"
   },
   {
-    "ip_address": "2606:54c0:d3c8::/45",
+    "ip_address": "2a04:4e41:1625::/48",
     "ip_type": "IPv6",
     "region": "ZA"
   },
   {
-    "ip_address": "2606:54c3:0:280::/64",
-    "ip_type": "IPv6",
-    "region": "ZA"
-  },
-  {
-    "ip_address": "2606:54c3:0:a09::/64",
-    "ip_type": "IPv6",
-    "region": "ZA"
-  },
-  {
-    "ip_address": "2606:54c3:0:be7::/64",
-    "ip_type": "IPv6",
-    "region": "ZA"
-  },
-  {
-    "ip_address": "2606:54c3:0:d00::/64",
+    "ip_address": "2a04:4e41:7425::/48",
     "ip_type": "IPv6",
     "region": "ZA"
   },
@@ -2477,56 +2527,6 @@
   {
     "ip_address": "2a09:bac3:d3c8::/45",
     "ip_type": "IPv6",
-    "region": "ZA"
-  },
-  {
-    "ip_address": "2a04:4e41:1e1::/48",
-    "ip_type": "IPv6",
-    "region": "ZA"
-  },
-  {
-    "ip_address": "2a04:4e41:12d1::/48",
-    "ip_type": "IPv6",
-    "region": "ZA"
-  },
-  {
-    "ip_address": "2a04:4e41:132f::/48",
-    "ip_type": "IPv6",
-    "region": "ZA"
-  },
-  {
-    "ip_address": "2a04:4e41:1625::/48",
-    "ip_type": "IPv6",
-    "region": "ZA"
-  },
-  {
-    "ip_address": "2a04:4e41:7425::/48",
-    "ip_type": "IPv6",
-    "region": "ZA"
-  },
-  {
-    "ip_address": "140.248.40.200/31",
-    "ip_type": "IPv4",
-    "region": "ZA"
-  },
-  {
-    "ip_address": "146.75.168.184/31",
-    "ip_type": "IPv4",
-    "region": "ZA"
-  },
-  {
-    "ip_address": "146.75.185.184/31",
-    "ip_type": "IPv4",
-    "region": "ZA"
-  },
-  {
-    "ip_address": "146.75.198.34/31",
-    "ip_type": "IPv4",
-    "region": "ZA"
-  },
-  {
-    "ip_address": "146.75.224.2/31",
-    "ip_type": "IPv4",
     "region": "ZA"
   }
 ]

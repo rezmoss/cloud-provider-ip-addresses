@@ -6,6 +6,10 @@ CREATE TABLE IF NOT EXISTS `apple_private_relay_jp-18_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `apple_private_relay_jp-18_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:43f0::/45', 'IPv6');
+INSERT INTO `apple_private_relay_jp-18_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:43f8::/45', 'IPv6');
+INSERT INTO `apple_private_relay_jp-18_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:cf7::/64', 'IPv6');
+INSERT INTO `apple_private_relay_jp-18_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:f85::/64', 'IPv6');
 INSERT INTO `apple_private_relay_jp-18_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:b980:60a8::/64', 'IPv6');
 INSERT INTO `apple_private_relay_jp-18_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:b980:60a9::/64', 'IPv6');
 INSERT INTO `apple_private_relay_jp-18_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:b980:60aa::/64', 'IPv6');
@@ -62,10 +66,6 @@ INSERT INTO `apple_private_relay_jp-18_ips` (`ip_address`, `ip_type`) VALUES ('2
 INSERT INTO `apple_private_relay_jp-18_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:b9b4:60a9::/64', 'IPv6');
 INSERT INTO `apple_private_relay_jp-18_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:b9b4:60aa::/64', 'IPv6');
 INSERT INTO `apple_private_relay_jp-18_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:b9b4:60ab::/64', 'IPv6');
-INSERT INTO `apple_private_relay_jp-18_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:43f0::/45', 'IPv6');
-INSERT INTO `apple_private_relay_jp-18_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:43f8::/45', 'IPv6');
-INSERT INTO `apple_private_relay_jp-18_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:cf7::/64', 'IPv6');
-INSERT INTO `apple_private_relay_jp-18_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:f85::/64', 'IPv6');
 INSERT INTO `apple_private_relay_jp-18_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:43f0::/45', 'IPv6');
 INSERT INTO `apple_private_relay_jp-18_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:43f8::/45', 'IPv6');
 INSERT INTO `apple_private_relay_jp-18_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:43f0::/45', 'IPv6');

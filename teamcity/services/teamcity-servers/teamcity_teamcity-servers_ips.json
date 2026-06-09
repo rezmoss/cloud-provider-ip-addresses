@@ -1,18 +1,6 @@
 [
   {
-    "ip_address": "54.155.204.237/32",
-    "ip_type": "IPv4",
-    "service": "teamcity-servers",
-    "region": "eu-west-1"
-  },
-  {
-    "ip_address": "79.125.74.147/32",
-    "ip_type": "IPv4",
-    "service": "teamcity-servers",
-    "region": "eu-west-1"
-  },
-  {
-    "ip_address": "63.32.4.62/32",
+    "ip_address": "34.251.114.150/32",
     "ip_type": "IPv4",
     "service": "teamcity-servers",
     "region": "eu-west-1"
@@ -30,7 +18,19 @@
     "region": "eu-west-1"
   },
   {
-    "ip_address": "34.251.114.150/32",
+    "ip_address": "54.155.204.237/32",
+    "ip_type": "IPv4",
+    "service": "teamcity-servers",
+    "region": "eu-west-1"
+  },
+  {
+    "ip_address": "63.32.4.62/32",
+    "ip_type": "IPv4",
+    "service": "teamcity-servers",
+    "region": "eu-west-1"
+  },
+  {
+    "ip_address": "79.125.74.147/32",
     "ip_type": "IPv4",
     "service": "teamcity-servers",
     "region": "eu-west-1"

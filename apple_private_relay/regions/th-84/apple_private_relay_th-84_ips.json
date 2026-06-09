@@ -1,25 +1,5 @@
 [
   {
-    "ip_address": "2a02:26f7:c640:d989::/64",
-    "ip_type": "IPv6",
-    "region": "TH-84"
-  },
-  {
-    "ip_address": "2a02:26f7:c644:d989::/64",
-    "ip_type": "IPv6",
-    "region": "TH-84"
-  },
-  {
-    "ip_address": "2a02:26f7:c645:d989::/64",
-    "ip_type": "IPv6",
-    "region": "TH-84"
-  },
-  {
-    "ip_address": "2a02:26f7:c648:d989::/64",
-    "ip_type": "IPv6",
-    "region": "TH-84"
-  },
-  {
     "ip_address": "104.28.148.98/32",
     "ip_type": "IPv4",
     "region": "TH-84"
@@ -41,6 +21,26 @@
   },
   {
     "ip_address": "2606:54c3:0:f03::/64",
+    "ip_type": "IPv6",
+    "region": "TH-84"
+  },
+  {
+    "ip_address": "2a02:26f7:c640:d989::/64",
+    "ip_type": "IPv6",
+    "region": "TH-84"
+  },
+  {
+    "ip_address": "2a02:26f7:c644:d989::/64",
+    "ip_type": "IPv6",
+    "region": "TH-84"
+  },
+  {
+    "ip_address": "2a02:26f7:c645:d989::/64",
+    "ip_type": "IPv6",
+    "region": "TH-84"
+  },
+  {
+    "ip_address": "2a02:26f7:c648:d989::/64",
     "ip_type": "IPv6",
     "region": "TH-84"
   },

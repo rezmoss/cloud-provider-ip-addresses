@@ -1,5 +1,15 @@
 [
   {
+    "ip_address": "2606:54c0:2400::/45",
+    "ip_type": "IPv6",
+    "region": "CN-QH"
+  },
+  {
+    "ip_address": "2606:54c3:0:1a02::/64",
+    "ip_type": "IPv6",
+    "region": "CN-QH"
+  },
+  {
     "ip_address": "2a02:26f7:c400:f53c::/64",
     "ip_type": "IPv6",
     "region": "CN-QH"
@@ -176,16 +186,6 @@
   },
   {
     "ip_address": "2a02:26f7:c420:f53f::/64",
-    "ip_type": "IPv6",
-    "region": "CN-QH"
-  },
-  {
-    "ip_address": "2606:54c0:2400::/45",
-    "ip_type": "IPv6",
-    "region": "CN-QH"
-  },
-  {
-    "ip_address": "2606:54c3:0:1a02::/64",
     "ip_type": "IPv6",
     "region": "CN-QH"
   },

@@ -1,75 +1,5 @@
 [
   {
-    "ip_address": "2a02:26f7:f7c0:e15a::/64",
-    "ip_type": "IPv6",
-    "region": "CO-MAG"
-  },
-  {
-    "ip_address": "2a02:26f7:f7c0:e16a::/64",
-    "ip_type": "IPv6",
-    "region": "CO-MAG"
-  },
-  {
-    "ip_address": "2a02:26f7:f7c2:e15a::/64",
-    "ip_type": "IPv6",
-    "region": "CO-MAG"
-  },
-  {
-    "ip_address": "2a02:26f7:f7c2:e16a::/64",
-    "ip_type": "IPv6",
-    "region": "CO-MAG"
-  },
-  {
-    "ip_address": "2a02:26f7:f7c4:e15a::/64",
-    "ip_type": "IPv6",
-    "region": "CO-MAG"
-  },
-  {
-    "ip_address": "2a02:26f7:f7c4:e16a::/64",
-    "ip_type": "IPv6",
-    "region": "CO-MAG"
-  },
-  {
-    "ip_address": "2a02:26f7:f7cc:e15a::/64",
-    "ip_type": "IPv6",
-    "region": "CO-MAG"
-  },
-  {
-    "ip_address": "2a02:26f7:f7cc:e16a::/64",
-    "ip_type": "IPv6",
-    "region": "CO-MAG"
-  },
-  {
-    "ip_address": "2a02:26f7:f7d0:e15a::/64",
-    "ip_type": "IPv6",
-    "region": "CO-MAG"
-  },
-  {
-    "ip_address": "2a02:26f7:f7d0:e16a::/64",
-    "ip_type": "IPv6",
-    "region": "CO-MAG"
-  },
-  {
-    "ip_address": "2a02:26f7:f7d4:e15a::/64",
-    "ip_type": "IPv6",
-    "region": "CO-MAG"
-  },
-  {
-    "ip_address": "2a02:26f7:f7d4:e16a::/64",
-    "ip_type": "IPv6",
-    "region": "CO-MAG"
-  },
-  {
-    "ip_address": "2a02:26f7:f7d8:e15a::/64",
-    "ip_type": "IPv6",
-    "region": "CO-MAG"
-  },
-  {
-    "ip_address": "2a02:26f7:f7d8:e16a::/64",
-    "ip_type": "IPv6",
-    "region": "CO-MAG"
-  },
-  {
     "ip_address": "104.28.32.36/32",
     "ip_type": "IPv4",
     "region": "CO-MAG"
@@ -136,6 +66,76 @@
   },
   {
     "ip_address": "2606:54c3:0:a4d::/64",
+    "ip_type": "IPv6",
+    "region": "CO-MAG"
+  },
+  {
+    "ip_address": "2a02:26f7:f7c0:e15a::/64",
+    "ip_type": "IPv6",
+    "region": "CO-MAG"
+  },
+  {
+    "ip_address": "2a02:26f7:f7c0:e16a::/64",
+    "ip_type": "IPv6",
+    "region": "CO-MAG"
+  },
+  {
+    "ip_address": "2a02:26f7:f7c2:e15a::/64",
+    "ip_type": "IPv6",
+    "region": "CO-MAG"
+  },
+  {
+    "ip_address": "2a02:26f7:f7c2:e16a::/64",
+    "ip_type": "IPv6",
+    "region": "CO-MAG"
+  },
+  {
+    "ip_address": "2a02:26f7:f7c4:e15a::/64",
+    "ip_type": "IPv6",
+    "region": "CO-MAG"
+  },
+  {
+    "ip_address": "2a02:26f7:f7c4:e16a::/64",
+    "ip_type": "IPv6",
+    "region": "CO-MAG"
+  },
+  {
+    "ip_address": "2a02:26f7:f7cc:e15a::/64",
+    "ip_type": "IPv6",
+    "region": "CO-MAG"
+  },
+  {
+    "ip_address": "2a02:26f7:f7cc:e16a::/64",
+    "ip_type": "IPv6",
+    "region": "CO-MAG"
+  },
+  {
+    "ip_address": "2a02:26f7:f7d0:e15a::/64",
+    "ip_type": "IPv6",
+    "region": "CO-MAG"
+  },
+  {
+    "ip_address": "2a02:26f7:f7d0:e16a::/64",
+    "ip_type": "IPv6",
+    "region": "CO-MAG"
+  },
+  {
+    "ip_address": "2a02:26f7:f7d4:e15a::/64",
+    "ip_type": "IPv6",
+    "region": "CO-MAG"
+  },
+  {
+    "ip_address": "2a02:26f7:f7d4:e16a::/64",
+    "ip_type": "IPv6",
+    "region": "CO-MAG"
+  },
+  {
+    "ip_address": "2a02:26f7:f7d8:e15a::/64",
+    "ip_type": "IPv6",
+    "region": "CO-MAG"
+  },
+  {
+    "ip_address": "2a02:26f7:f7d8:e16a::/64",
     "ip_type": "IPv6",
     "region": "CO-MAG"
   },

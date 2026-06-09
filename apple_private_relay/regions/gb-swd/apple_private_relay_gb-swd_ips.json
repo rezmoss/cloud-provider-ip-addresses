@@ -50,22 +50,32 @@
     "region": "GB-SWD"
   },
   {
+    "ip_address": "140.248.40.106/31",
+    "ip_type": "IPv4",
+    "region": "GB-SWD"
+  },
+  {
+    "ip_address": "146.75.168.120/31",
+    "ip_type": "IPv4",
+    "region": "GB-SWD"
+  },
+  {
+    "ip_address": "146.75.174.94/31",
+    "ip_type": "IPv4",
+    "region": "GB-SWD"
+  },
+  {
+    "ip_address": "146.75.185.120/31",
+    "ip_type": "IPv4",
+    "region": "GB-SWD"
+  },
+  {
     "ip_address": "2606:54c0:3818::/45",
     "ip_type": "IPv6",
     "region": "GB-SWD"
   },
   {
     "ip_address": "2606:54c3:0:1f5::/64",
-    "ip_type": "IPv6",
-    "region": "GB-SWD"
-  },
-  {
-    "ip_address": "2a09:bac2:3818::/45",
-    "ip_type": "IPv6",
-    "region": "GB-SWD"
-  },
-  {
-    "ip_address": "2a09:bac3:3818::/45",
     "ip_type": "IPv6",
     "region": "GB-SWD"
   },
@@ -90,23 +100,13 @@
     "region": "GB-SWD"
   },
   {
-    "ip_address": "140.248.40.106/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:3818::/45",
+    "ip_type": "IPv6",
     "region": "GB-SWD"
   },
   {
-    "ip_address": "146.75.168.120/31",
-    "ip_type": "IPv4",
-    "region": "GB-SWD"
-  },
-  {
-    "ip_address": "146.75.174.94/31",
-    "ip_type": "IPv4",
-    "region": "GB-SWD"
-  },
-  {
-    "ip_address": "146.75.185.120/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:3818::/45",
+    "ip_type": "IPv6",
     "region": "GB-SWD"
   }
 ]

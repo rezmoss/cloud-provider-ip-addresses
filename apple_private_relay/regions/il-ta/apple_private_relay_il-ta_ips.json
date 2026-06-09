@@ -50,22 +50,37 @@
     "region": "IL-TA"
   },
   {
+    "ip_address": "140.248.24.64/31",
+    "ip_type": "IPv4",
+    "region": "IL-TA"
+  },
+  {
+    "ip_address": "140.248.34.124/31",
+    "ip_type": "IPv4",
+    "region": "IL-TA"
+  },
+  {
+    "ip_address": "140.248.36.142/31",
+    "ip_type": "IPv4",
+    "region": "IL-TA"
+  },
+  {
+    "ip_address": "140.248.41.64/31",
+    "ip_type": "IPv4",
+    "region": "IL-TA"
+  },
+  {
+    "ip_address": "146.75.169.124/31",
+    "ip_type": "IPv4",
+    "region": "IL-TA"
+  },
+  {
     "ip_address": "2606:54c0:3a38::/45",
     "ip_type": "IPv6",
     "region": "IL-TA"
   },
   {
     "ip_address": "2606:54c3:0:9fe::/64",
-    "ip_type": "IPv6",
-    "region": "IL-TA"
-  },
-  {
-    "ip_address": "2a09:bac2:3a38::/45",
-    "ip_type": "IPv6",
-    "region": "IL-TA"
-  },
-  {
-    "ip_address": "2a09:bac3:3a38::/45",
     "ip_type": "IPv6",
     "region": "IL-TA"
   },
@@ -95,28 +110,13 @@
     "region": "IL-TA"
   },
   {
-    "ip_address": "140.248.24.64/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:3a38::/45",
+    "ip_type": "IPv6",
     "region": "IL-TA"
   },
   {
-    "ip_address": "140.248.34.124/31",
-    "ip_type": "IPv4",
-    "region": "IL-TA"
-  },
-  {
-    "ip_address": "140.248.36.142/31",
-    "ip_type": "IPv4",
-    "region": "IL-TA"
-  },
-  {
-    "ip_address": "140.248.41.64/31",
-    "ip_type": "IPv4",
-    "region": "IL-TA"
-  },
-  {
-    "ip_address": "146.75.169.124/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:3a38::/45",
+    "ip_type": "IPv6",
     "region": "IL-TA"
   }
 ]

@@ -10,12 +10,12 @@
     "region": "SE-AB"
   },
   {
-    "ip_address": "2a05:f487:fc00::/48",
+    "ip_address": "2a05:f480:2000::/38",
     "ip_type": "IPv6",
     "region": "SE-AB"
   },
   {
-    "ip_address": "2a05:f480:2000::/38",
+    "ip_address": "2a05:f487:fc00::/48",
     "ip_type": "IPv6",
     "region": "SE-AB"
   }

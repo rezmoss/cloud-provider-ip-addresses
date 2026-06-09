@@ -57,8 +57,8 @@ INSERT INTO `vultr_us-nj_ips` (`ip_address`, `ip_type`) VALUES ('173.199.124.0/2
 INSERT INTO `vultr_us-nj_ips` (`ip_address`, `ip_type`) VALUES ('207.148.16.0/20', 'IPv4');
 INSERT INTO `vultr_us-nj_ips` (`ip_address`, `ip_type`) VALUES ('207.246.80.0/20', 'IPv4');
 INSERT INTO `vultr_us-nj_ips` (`ip_address`, `ip_type`) VALUES ('207.246.120.0/21', 'IPv4');
-INSERT INTO `vultr_us-nj_ips` (`ip_address`, `ip_type`) VALUES ('208.167.225.0/24', 'IPv4');
 INSERT INTO `vultr_us-nj_ips` (`ip_address`, `ip_type`) VALUES ('208.167.224.0/19', 'IPv4');
+INSERT INTO `vultr_us-nj_ips` (`ip_address`, `ip_type`) VALUES ('208.167.225.0/24', 'IPv4');
 INSERT INTO `vultr_us-nj_ips` (`ip_address`, `ip_type`) VALUES ('209.222.0.0/20', 'IPv4');
 INSERT INTO `vultr_us-nj_ips` (`ip_address`, `ip_type`) VALUES ('209.222.16.0/22', 'IPv4');
 INSERT INTO `vultr_us-nj_ips` (`ip_address`, `ip_type`) VALUES ('209.222.20.0/23', 'IPv4');

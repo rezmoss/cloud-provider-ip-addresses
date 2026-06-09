@@ -1,15 +1,5 @@
 [
   {
-    "ip_address": "2a04:4e41:1c0:3000::/52",
-    "ip_type": "IPv6",
-    "region": "DK-83"
-  },
-  {
-    "ip_address": "2a04:4e41:1801:e000::/52",
-    "ip_type": "IPv6",
-    "region": "DK-83"
-  },
-  {
     "ip_address": "140.248.36.92/31",
     "ip_type": "IPv4",
     "region": "DK-83"
@@ -17,6 +7,16 @@
   {
     "ip_address": "146.75.200.8/31",
     "ip_type": "IPv4",
+    "region": "DK-83"
+  },
+  {
+    "ip_address": "2a04:4e41:1c0:3000::/52",
+    "ip_type": "IPv6",
+    "region": "DK-83"
+  },
+  {
+    "ip_address": "2a04:4e41:1801:e000::/52",
+    "ip_type": "IPv6",
     "region": "DK-83"
   }
 ]

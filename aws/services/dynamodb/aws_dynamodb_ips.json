@@ -1,363 +1,15 @@
 [
   {
-    "ip_address": "52.94.24.0/23",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "eu-west-1"
-  },
-  {
-    "ip_address": "52.94.26.0/23",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "eu-west-1"
-  },
-  {
-    "ip_address": "52.119.240.0/21",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "eu-west-1"
-  },
-  {
-    "ip_address": "35.71.72.0/22",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "eu-west-1"
-  },
-  {
-    "ip_address": "52.94.5.0/24",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "eu-west-1"
-  },
-  {
-    "ip_address": "13.248.70.0/24",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "ap-northeast-1"
-  },
-  {
-    "ip_address": "35.71.114.0/24",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "ap-northeast-1"
-  },
-  {
-    "ip_address": "52.94.8.0/24",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "ap-northeast-1"
-  },
-  {
-    "ip_address": "13.248.69.0/24",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "ap-northeast-1"
-  },
-  {
-    "ip_address": "54.222.64.0/24",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "cn-north-1"
-  },
-  {
-    "ip_address": "54.222.57.0/24",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "cn-north-1"
-  },
-  {
-    "ip_address": "35.71.115.0/24",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "52.94.22.0/24",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "13.248.72.0/24",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "il-central-1"
-  },
-  {
-    "ip_address": "35.71.122.0/24",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "il-central-1"
-  },
-  {
-    "ip_address": "35.71.99.0/24",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "me-south-1"
-  },
-  {
-    "ip_address": "52.119.249.0/24",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "me-south-1"
-  },
-  {
-    "ip_address": "52.119.252.0/22",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "us-west-2"
-  },
-  {
-    "ip_address": "52.94.10.0/24",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "us-west-2"
-  },
-  {
-    "ip_address": "35.71.64.0/22",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "us-west-2"
-  },
-  {
-    "ip_address": "52.94.28.0/23",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "us-west-2"
-  },
-  {
-    "ip_address": "52.94.6.0/24",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "ap-northeast-2"
-  },
-  {
-    "ip_address": "35.71.109.0/24",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "ap-northeast-2"
-  },
-  {
-    "ip_address": "13.248.67.0/24",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "ap-southeast-4"
-  },
-  {
-    "ip_address": "35.71.112.0/24",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "ap-southeast-4"
-  },
-  {
-    "ip_address": "13.248.75.0/24",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "ap-southeast-5"
-  },
-  {
-    "ip_address": "35.71.124.0/24",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "ap-southeast-5"
-  },
-  {
     "ip_address": "3.218.180.0/22",
     "ip_type": "IPv4",
     "service": "DYNAMODB",
     "region": "us-east-1"
   },
   {
-    "ip_address": "52.119.232.0/21",
+    "ip_address": "13.248.64.0/24",
     "ip_type": "IPv4",
     "service": "DYNAMODB",
-    "region": "us-east-1"
-  },
-  {
-    "ip_address": "35.71.76.0/22",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "us-east-1"
-  },
-  {
-    "ip_address": "35.71.68.0/22",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "us-east-1"
-  },
-  {
-    "ip_address": "52.119.224.0/21",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "us-east-1"
-  },
-  {
-    "ip_address": "52.94.0.0/22",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "us-east-1"
-  },
-  {
-    "ip_address": "13.248.77.0/24",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "ap-southeast-7"
-  },
-  {
-    "ip_address": "35.71.126.0/24",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "ap-southeast-7"
-  },
-  {
-    "ip_address": "52.94.12.0/24",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "us-west-1"
-  },
-  {
-    "ip_address": "35.71.117.0/24",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "us-west-1"
-  },
-  {
-    "ip_address": "51.0.31.0/24",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "eusc-de-east-1"
-  },
-  {
-    "ip_address": "35.71.94.0/24",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "eusc-de-east-1"
-  },
-  {
-    "ip_address": "51.0.28.0/24",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "eusc-de-east-1"
-  },
-  {
-    "ip_address": "13.248.79.0/24",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "ap-southeast-6"
-  },
-  {
-    "ip_address": "35.71.93.0/24",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "ap-southeast-6"
-  },
-  {
-    "ip_address": "35.71.118.0/24",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "ap-southeast-1"
-  },
-  {
-    "ip_address": "52.94.11.0/24",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "ap-southeast-1"
-  },
-  {
-    "ip_address": "35.71.119.0/24",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "ca-central-1"
-  },
-  {
-    "ip_address": "52.94.14.0/24",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "ca-central-1"
-  },
-  {
-    "ip_address": "13.248.68.0/24",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "eu-central-2"
-  },
-  {
-    "ip_address": "35.71.121.0/24",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "eu-central-2"
-  },
-  {
-    "ip_address": "35.71.104.0/24",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "me-central-1"
-  },
-  {
-    "ip_address": "13.248.66.0/24",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "me-central-1"
-  },
-  {
-    "ip_address": "52.119.248.0/24",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "ap-east-1"
-  },
-  {
-    "ip_address": "35.71.107.0/24",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "ap-east-1"
-  },
-  {
-    "ip_address": "13.248.81.0/24",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "sa-west-1"
-  },
-  {
-    "ip_address": "35.71.96.0/24",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "ap-southeast-3"
-  },
-  {
-    "ip_address": "13.248.71.0/24",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "ap-southeast-3"
-  },
-  {
-    "ip_address": "35.71.123.0/24",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "ca-west-1"
-  },
-  {
-    "ip_address": "13.248.73.0/24",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "ca-west-1"
-  },
-  {
-    "ip_address": "35.71.113.0/24",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "eu-south-1"
-  },
-  {
-    "ip_address": "52.94.18.0/24",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "eu-south-1"
-  },
-  {
-    "ip_address": "35.71.120.0/24",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "eu-south-2"
+    "region": "ap-south-2"
   },
   {
     "ip_address": "13.248.65.0/24",
@@ -366,22 +18,166 @@
     "region": "eu-south-2"
   },
   {
+    "ip_address": "13.248.66.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "me-central-1"
+  },
+  {
+    "ip_address": "13.248.67.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "ap-southeast-4"
+  },
+  {
+    "ip_address": "13.248.68.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "eu-central-2"
+  },
+  {
+    "ip_address": "13.248.69.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "ap-northeast-1"
+  },
+  {
+    "ip_address": "13.248.70.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "ap-northeast-1"
+  },
+  {
+    "ip_address": "13.248.71.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "ap-southeast-3"
+  },
+  {
+    "ip_address": "13.248.72.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "il-central-1"
+  },
+  {
+    "ip_address": "13.248.73.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "ca-west-1"
+  },
+  {
+    "ip_address": "13.248.75.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "ap-southeast-5"
+  },
+  {
+    "ip_address": "13.248.76.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "mx-central-1"
+  },
+  {
+    "ip_address": "13.248.77.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "ap-southeast-7"
+  },
+  {
+    "ip_address": "13.248.78.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "ap-east-2"
+  },
+  {
+    "ip_address": "13.248.79.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "ap-southeast-6"
+  },
+  {
+    "ip_address": "13.248.80.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "me-west-1"
+  },
+  {
+    "ip_address": "13.248.81.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "sa-west-1"
+  },
+  {
+    "ip_address": "13.248.82.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "us-south-1"
+  },
+  {
+    "ip_address": "35.71.64.0/22",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "35.71.68.0/22",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "35.71.72.0/22",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "eu-west-1"
+  },
+  {
+    "ip_address": "35.71.76.0/22",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "35.71.93.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "ap-southeast-6"
+  },
+  {
+    "ip_address": "35.71.94.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "35.71.96.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "ap-southeast-3"
+  },
+  {
+    "ip_address": "35.71.97.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "ap-southeast-2"
+  },
+  {
     "ip_address": "35.71.98.0/24",
     "ip_type": "IPv4",
     "service": "DYNAMODB",
     "region": "eu-north-1"
   },
   {
-    "ip_address": "52.94.23.0/24",
+    "ip_address": "35.71.99.0/24",
     "ip_type": "IPv4",
     "service": "DYNAMODB",
-    "region": "eu-north-1"
+    "region": "me-south-1"
   },
   {
-    "ip_address": "52.94.16.0/24",
+    "ip_address": "35.71.100.0/24",
     "ip_type": "IPv4",
     "service": "DYNAMODB",
-    "region": "eu-west-3"
+    "region": "ap-south-1"
   },
   {
     "ip_address": "35.71.101.0/24",
@@ -396,106 +192,16 @@
     "region": "us-east-2"
   },
   {
-    "ip_address": "52.94.4.0/24",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "us-east-2"
-  },
-  {
-    "ip_address": "35.71.127.0/24",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "ap-east-2"
-  },
-  {
-    "ip_address": "13.248.78.0/24",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "ap-east-2"
-  },
-  {
     "ip_address": "35.71.103.0/24",
     "ip_type": "IPv4",
     "service": "DYNAMODB",
     "region": "af-south-1"
   },
   {
-    "ip_address": "52.94.30.0/24",
+    "ip_address": "35.71.104.0/24",
     "ip_type": "IPv4",
     "service": "DYNAMODB",
-    "region": "af-south-1"
-  },
-  {
-    "ip_address": "35.71.110.0/24",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "ap-northeast-3"
-  },
-  {
-    "ip_address": "52.94.19.0/24",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "ap-northeast-3"
-  },
-  {
-    "ip_address": "13.248.82.0/24",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "us-south-1"
-  },
-  {
-    "ip_address": "35.71.100.0/24",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "ap-south-1"
-  },
-  {
-    "ip_address": "52.94.20.0/24",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "ap-south-1"
-  },
-  {
-    "ip_address": "52.94.9.0/24",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "us-gov-west-1"
-  },
-  {
-    "ip_address": "35.71.116.0/24",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "us-gov-west-1"
-  },
-  {
-    "ip_address": "52.94.15.0/24",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "eu-west-2"
-  },
-  {
-    "ip_address": "35.71.111.0/24",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "eu-west-2"
-  },
-  {
-    "ip_address": "52.94.13.0/24",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "ap-southeast-2"
-  },
-  {
-    "ip_address": "35.71.97.0/24",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "ap-southeast-2"
-  },
-  {
-    "ip_address": "52.94.17.0/24",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "eu-central-1"
+    "region": "me-central-1"
   },
   {
     "ip_address": "35.71.105.0/24",
@@ -504,16 +210,118 @@
     "region": "eu-central-1"
   },
   {
-    "ip_address": "52.94.7.0/24",
+    "ip_address": "35.71.106.0/24",
     "ip_type": "IPv4",
     "service": "DYNAMODB",
     "region": "sa-east-1"
   },
   {
-    "ip_address": "35.71.106.0/24",
+    "ip_address": "35.71.107.0/24",
     "ip_type": "IPv4",
     "service": "DYNAMODB",
-    "region": "sa-east-1"
+    "region": "ap-east-1"
+  },
+  {
+    "ip_address": "35.71.108.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "35.71.109.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "ap-northeast-2"
+  },
+  {
+    "ip_address": "35.71.110.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "ap-northeast-3"
+  },
+  {
+    "ip_address": "35.71.111.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "eu-west-2"
+  },
+  {
+    "ip_address": "35.71.112.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "ap-southeast-4"
+  },
+  {
+    "ip_address": "35.71.113.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "eu-south-1"
+  },
+  {
+    "ip_address": "35.71.114.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "ap-northeast-1"
+  },
+  {
+    "ip_address": "35.71.115.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "35.71.116.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "us-gov-west-1"
+  },
+  {
+    "ip_address": "35.71.117.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "us-west-1"
+  },
+  {
+    "ip_address": "35.71.118.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "ap-southeast-1"
+  },
+  {
+    "ip_address": "35.71.119.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "ca-central-1"
+  },
+  {
+    "ip_address": "35.71.120.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "eu-south-2"
+  },
+  {
+    "ip_address": "35.71.121.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "eu-central-2"
+  },
+  {
+    "ip_address": "35.71.122.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "il-central-1"
+  },
+  {
+    "ip_address": "35.71.123.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "ca-west-1"
+  },
+  {
+    "ip_address": "35.71.124.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "ap-southeast-5"
   },
   {
     "ip_address": "35.71.125.0/24",
@@ -522,22 +330,16 @@
     "region": "mx-central-1"
   },
   {
-    "ip_address": "13.248.76.0/24",
+    "ip_address": "35.71.126.0/24",
     "ip_type": "IPv4",
     "service": "DYNAMODB",
-    "region": "mx-central-1"
+    "region": "ap-southeast-7"
   },
   {
-    "ip_address": "13.248.80.0/24",
+    "ip_address": "35.71.127.0/24",
     "ip_type": "IPv4",
     "service": "DYNAMODB",
-    "region": "me-west-1"
-  },
-  {
-    "ip_address": "52.82.187.0/24",
-    "ip_type": "IPv4",
-    "service": "DYNAMODB",
-    "region": "cn-northwest-1"
+    "region": "ap-east-2"
   },
   {
     "ip_address": "43.193.64.0/24",
@@ -546,15 +348,213 @@
     "region": "cn-northwest-1"
   },
   {
-    "ip_address": "13.248.64.0/24",
+    "ip_address": "51.0.28.0/24",
     "ip_type": "IPv4",
     "service": "DYNAMODB",
-    "region": "ap-south-2"
+    "region": "eusc-de-east-1"
   },
   {
-    "ip_address": "35.71.108.0/24",
+    "ip_address": "51.0.31.0/24",
     "ip_type": "IPv4",
     "service": "DYNAMODB",
-    "region": "ap-south-2"
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "52.82.187.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "52.94.0.0/22",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "52.94.4.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "us-east-2"
+  },
+  {
+    "ip_address": "52.94.5.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "eu-west-1"
+  },
+  {
+    "ip_address": "52.94.6.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "ap-northeast-2"
+  },
+  {
+    "ip_address": "52.94.7.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "sa-east-1"
+  },
+  {
+    "ip_address": "52.94.8.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "ap-northeast-1"
+  },
+  {
+    "ip_address": "52.94.9.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "us-gov-west-1"
+  },
+  {
+    "ip_address": "52.94.10.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "52.94.11.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "ap-southeast-1"
+  },
+  {
+    "ip_address": "52.94.12.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "us-west-1"
+  },
+  {
+    "ip_address": "52.94.13.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "ap-southeast-2"
+  },
+  {
+    "ip_address": "52.94.14.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "ca-central-1"
+  },
+  {
+    "ip_address": "52.94.15.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "eu-west-2"
+  },
+  {
+    "ip_address": "52.94.16.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "eu-west-3"
+  },
+  {
+    "ip_address": "52.94.17.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "eu-central-1"
+  },
+  {
+    "ip_address": "52.94.18.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "eu-south-1"
+  },
+  {
+    "ip_address": "52.94.19.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "ap-northeast-3"
+  },
+  {
+    "ip_address": "52.94.20.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "ap-south-1"
+  },
+  {
+    "ip_address": "52.94.22.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "52.94.23.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "eu-north-1"
+  },
+  {
+    "ip_address": "52.94.24.0/23",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "eu-west-1"
+  },
+  {
+    "ip_address": "52.94.26.0/23",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "eu-west-1"
+  },
+  {
+    "ip_address": "52.94.28.0/23",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "52.94.30.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "af-south-1"
+  },
+  {
+    "ip_address": "52.119.224.0/21",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "52.119.232.0/21",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "52.119.240.0/21",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "eu-west-1"
+  },
+  {
+    "ip_address": "52.119.248.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "ap-east-1"
+  },
+  {
+    "ip_address": "52.119.249.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "me-south-1"
+  },
+  {
+    "ip_address": "52.119.252.0/22",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "54.222.57.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "cn-north-1"
+  },
+  {
+    "ip_address": "54.222.64.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "cn-north-1"
   }
 ]

@@ -1,12 +1,48 @@
 #!/bin/bash
 # Apple_private_relay IP Ranges
-# Updated: 2026-02-11 17:28:47
+# Updated: 2026-06-09 22:59:43
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
 # Updates daily at 00:00 UTC
 # iptables deny rules for apple_private_relay
 
+iptables -A INPUT -s 104.28.43.54/32 -j DROP
+iptables -A INPUT -s 104.28.43.55/32 -j DROP
+iptables -A INPUT -s 104.28.66.92/32 -j DROP
+iptables -A INPUT -s 104.28.66.93/32 -j DROP
+iptables -A INPUT -s 104.28.69.92/32 -j DROP
+iptables -A INPUT -s 104.28.69.93/32 -j DROP
+iptables -A INPUT -s 104.28.83.64/32 -j DROP
+iptables -A INPUT -s 104.28.83.65/32 -j DROP
+iptables -A INPUT -s 104.28.99.58/32 -j DROP
+iptables -A INPUT -s 104.28.99.59/32 -j DROP
+iptables -A INPUT -s 104.28.101.58/32 -j DROP
+iptables -A INPUT -s 104.28.101.59/32 -j DROP
+iptables -A INPUT -s 104.28.117.94/32 -j DROP
+iptables -A INPUT -s 104.28.117.95/32 -j DROP
+iptables -A INPUT -s 104.28.120.94/32 -j DROP
+iptables -A INPUT -s 104.28.120.95/32 -j DROP
+ip6tables -A INPUT -s 2606:54c0:2378::/45 -j DROP
+ip6tables -A INPUT -s 2606:54c0:2380::/45 -j DROP
+ip6tables -A INPUT -s 2606:54c0:2388::/45 -j DROP
+ip6tables -A INPUT -s 2606:54c0:2390::/45 -j DROP
+ip6tables -A INPUT -s 2606:54c0:2398::/45 -j DROP
+ip6tables -A INPUT -s 2606:54c0:23a0::/45 -j DROP
+ip6tables -A INPUT -s 2606:54c0:23a8::/45 -j DROP
+ip6tables -A INPUT -s 2606:54c0:23b0::/45 -j DROP
+ip6tables -A INPUT -s 2606:54c0:23b8::/45 -j DROP
+ip6tables -A INPUT -s 2606:54c0:23c0::/45 -j DROP
+ip6tables -A INPUT -s 2606:54c3:0:5f3::/64 -j DROP
+ip6tables -A INPUT -s 2606:54c3:0:73c::/64 -j DROP
+ip6tables -A INPUT -s 2606:54c3:0:75f::/64 -j DROP
+ip6tables -A INPUT -s 2606:54c3:0:b83::/64 -j DROP
+ip6tables -A INPUT -s 2606:54c3:0:c22::/64 -j DROP
+ip6tables -A INPUT -s 2606:54c3:0:1015::/64 -j DROP
+ip6tables -A INPUT -s 2606:54c3:0:1162::/64 -j DROP
+ip6tables -A INPUT -s 2606:54c3:0:13ed::/64 -j DROP
+ip6tables -A INPUT -s 2606:54c3:0:19a0::/64 -j DROP
+ip6tables -A INPUT -s 2606:54c3:0:1a66::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:c400:f518::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:c400:f519::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:c400:f51a::/64 -j DROP
@@ -124,42 +160,6 @@ ip6tables -A INPUT -s 2a02:26f7:c420:f521::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:c420:f522::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:c420:f523::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:c420:f524::/64 -j DROP
-iptables -A INPUT -s 104.28.43.54/32 -j DROP
-iptables -A INPUT -s 104.28.43.55/32 -j DROP
-iptables -A INPUT -s 104.28.66.92/32 -j DROP
-iptables -A INPUT -s 104.28.66.93/32 -j DROP
-iptables -A INPUT -s 104.28.69.92/32 -j DROP
-iptables -A INPUT -s 104.28.69.93/32 -j DROP
-iptables -A INPUT -s 104.28.83.64/32 -j DROP
-iptables -A INPUT -s 104.28.83.65/32 -j DROP
-iptables -A INPUT -s 104.28.99.58/32 -j DROP
-iptables -A INPUT -s 104.28.99.59/32 -j DROP
-iptables -A INPUT -s 104.28.101.58/32 -j DROP
-iptables -A INPUT -s 104.28.101.59/32 -j DROP
-iptables -A INPUT -s 104.28.117.94/32 -j DROP
-iptables -A INPUT -s 104.28.117.95/32 -j DROP
-iptables -A INPUT -s 104.28.120.94/32 -j DROP
-iptables -A INPUT -s 104.28.120.95/32 -j DROP
-ip6tables -A INPUT -s 2606:54c0:2378::/45 -j DROP
-ip6tables -A INPUT -s 2606:54c0:2380::/45 -j DROP
-ip6tables -A INPUT -s 2606:54c0:2388::/45 -j DROP
-ip6tables -A INPUT -s 2606:54c0:2390::/45 -j DROP
-ip6tables -A INPUT -s 2606:54c0:2398::/45 -j DROP
-ip6tables -A INPUT -s 2606:54c0:23a0::/45 -j DROP
-ip6tables -A INPUT -s 2606:54c0:23a8::/45 -j DROP
-ip6tables -A INPUT -s 2606:54c0:23b0::/45 -j DROP
-ip6tables -A INPUT -s 2606:54c0:23b8::/45 -j DROP
-ip6tables -A INPUT -s 2606:54c0:23c0::/45 -j DROP
-ip6tables -A INPUT -s 2606:54c3:0:5f3::/64 -j DROP
-ip6tables -A INPUT -s 2606:54c3:0:73c::/64 -j DROP
-ip6tables -A INPUT -s 2606:54c3:0:75f::/64 -j DROP
-ip6tables -A INPUT -s 2606:54c3:0:b83::/64 -j DROP
-ip6tables -A INPUT -s 2606:54c3:0:c22::/64 -j DROP
-ip6tables -A INPUT -s 2606:54c3:0:1015::/64 -j DROP
-ip6tables -A INPUT -s 2606:54c3:0:1162::/64 -j DROP
-ip6tables -A INPUT -s 2606:54c3:0:13ed::/64 -j DROP
-ip6tables -A INPUT -s 2606:54c3:0:19a0::/64 -j DROP
-ip6tables -A INPUT -s 2606:54c3:0:1a66::/64 -j DROP
 ip6tables -A INPUT -s 2a09:bac2:2378::/45 -j DROP
 ip6tables -A INPUT -s 2a09:bac2:2380::/45 -j DROP
 ip6tables -A INPUT -s 2a09:bac2:2388::/45 -j DROP

@@ -1,5 +1,55 @@
 [
   {
+    "ip_address": "104.28.34.172/32",
+    "ip_type": "IPv4",
+    "region": "ES-IB"
+  },
+  {
+    "ip_address": "104.28.34.173/32",
+    "ip_type": "IPv4",
+    "region": "ES-IB"
+  },
+  {
+    "ip_address": "104.28.60.199/32",
+    "ip_type": "IPv4",
+    "region": "ES-IB"
+  },
+  {
+    "ip_address": "104.28.60.200/32",
+    "ip_type": "IPv4",
+    "region": "ES-IB"
+  },
+  {
+    "ip_address": "104.28.88.134/32",
+    "ip_type": "IPv4",
+    "region": "ES-IB"
+  },
+  {
+    "ip_address": "104.28.88.135/32",
+    "ip_type": "IPv4",
+    "region": "ES-IB"
+  },
+  {
+    "ip_address": "104.28.96.158/32",
+    "ip_type": "IPv4",
+    "region": "ES-IB"
+  },
+  {
+    "ip_address": "104.28.96.159/32",
+    "ip_type": "IPv4",
+    "region": "ES-IB"
+  },
+  {
+    "ip_address": "104.28.98.91/32",
+    "ip_type": "IPv4",
+    "region": "ES-IB"
+  },
+  {
+    "ip_address": "104.28.98.92/32",
+    "ip_type": "IPv4",
+    "region": "ES-IB"
+  },
+  {
     "ip_address": "172.225.163.34/31",
     "ip_type": "IPv4",
     "region": "ES-IB"
@@ -27,6 +77,16 @@
   {
     "ip_address": "172.226.226.22/31",
     "ip_type": "IPv4",
+    "region": "ES-IB"
+  },
+  {
+    "ip_address": "2606:54c0:3120::/45",
+    "ip_type": "IPv6",
+    "region": "ES-IB"
+  },
+  {
+    "ip_address": "2606:54c3:0:1596::/64",
+    "ip_type": "IPv6",
     "region": "ES-IB"
   },
   {
@@ -116,66 +176,6 @@
   },
   {
     "ip_address": "2a02:26f7:ef14:5995::/64",
-    "ip_type": "IPv6",
-    "region": "ES-IB"
-  },
-  {
-    "ip_address": "104.28.34.172/32",
-    "ip_type": "IPv4",
-    "region": "ES-IB"
-  },
-  {
-    "ip_address": "104.28.34.173/32",
-    "ip_type": "IPv4",
-    "region": "ES-IB"
-  },
-  {
-    "ip_address": "104.28.60.199/32",
-    "ip_type": "IPv4",
-    "region": "ES-IB"
-  },
-  {
-    "ip_address": "104.28.60.200/32",
-    "ip_type": "IPv4",
-    "region": "ES-IB"
-  },
-  {
-    "ip_address": "104.28.88.134/32",
-    "ip_type": "IPv4",
-    "region": "ES-IB"
-  },
-  {
-    "ip_address": "104.28.88.135/32",
-    "ip_type": "IPv4",
-    "region": "ES-IB"
-  },
-  {
-    "ip_address": "104.28.96.158/32",
-    "ip_type": "IPv4",
-    "region": "ES-IB"
-  },
-  {
-    "ip_address": "104.28.96.159/32",
-    "ip_type": "IPv4",
-    "region": "ES-IB"
-  },
-  {
-    "ip_address": "104.28.98.91/32",
-    "ip_type": "IPv4",
-    "region": "ES-IB"
-  },
-  {
-    "ip_address": "104.28.98.92/32",
-    "ip_type": "IPv4",
-    "region": "ES-IB"
-  },
-  {
-    "ip_address": "2606:54c0:3120::/45",
-    "ip_type": "IPv6",
-    "region": "ES-IB"
-  },
-  {
-    "ip_address": "2606:54c3:0:1596::/64",
     "ip_type": "IPv6",
     "region": "ES-IB"
   },

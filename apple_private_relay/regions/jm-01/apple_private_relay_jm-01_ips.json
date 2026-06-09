@@ -75,22 +75,32 @@
     "region": "JM-01"
   },
   {
+    "ip_address": "140.248.12.24/31",
+    "ip_type": "IPv4",
+    "region": "JM-01"
+  },
+  {
+    "ip_address": "140.248.44.64/31",
+    "ip_type": "IPv4",
+    "region": "JM-01"
+  },
+  {
+    "ip_address": "146.75.232.24/31",
+    "ip_type": "IPv4",
+    "region": "JM-01"
+  },
+  {
+    "ip_address": "146.75.248.24/31",
+    "ip_type": "IPv4",
+    "region": "JM-01"
+  },
+  {
     "ip_address": "2606:54c0:4230::/45",
     "ip_type": "IPv6",
     "region": "JM-01"
   },
   {
     "ip_address": "2606:54c3:0:ad1::/64",
-    "ip_type": "IPv6",
-    "region": "JM-01"
-  },
-  {
-    "ip_address": "2a09:bac2:4230::/45",
-    "ip_type": "IPv6",
-    "region": "JM-01"
-  },
-  {
-    "ip_address": "2a09:bac3:4230::/45",
     "ip_type": "IPv6",
     "region": "JM-01"
   },
@@ -115,23 +125,13 @@
     "region": "JM-01"
   },
   {
-    "ip_address": "140.248.12.24/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:4230::/45",
+    "ip_type": "IPv6",
     "region": "JM-01"
   },
   {
-    "ip_address": "140.248.44.64/31",
-    "ip_type": "IPv4",
-    "region": "JM-01"
-  },
-  {
-    "ip_address": "146.75.232.24/31",
-    "ip_type": "IPv4",
-    "region": "JM-01"
-  },
-  {
-    "ip_address": "146.75.248.24/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:4230::/45",
+    "ip_type": "IPv6",
     "region": "JM-01"
   }
 ]

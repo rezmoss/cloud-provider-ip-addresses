@@ -150,22 +150,32 @@
     "region": "GB-BIR"
   },
   {
+    "ip_address": "140.248.40.28/31",
+    "ip_type": "IPv4",
+    "region": "GB-BIR"
+  },
+  {
+    "ip_address": "146.75.168.42/31",
+    "ip_type": "IPv4",
+    "region": "GB-BIR"
+  },
+  {
+    "ip_address": "146.75.174.16/31",
+    "ip_type": "IPv4",
+    "region": "GB-BIR"
+  },
+  {
+    "ip_address": "146.75.185.42/31",
+    "ip_type": "IPv4",
+    "region": "GB-BIR"
+  },
+  {
     "ip_address": "2606:54c0:3758::/45",
     "ip_type": "IPv6",
     "region": "GB-BIR"
   },
   {
     "ip_address": "2606:54c3:0:687::/64",
-    "ip_type": "IPv6",
-    "region": "GB-BIR"
-  },
-  {
-    "ip_address": "2a09:bac2:3758::/45",
-    "ip_type": "IPv6",
-    "region": "GB-BIR"
-  },
-  {
-    "ip_address": "2a09:bac3:3758::/45",
     "ip_type": "IPv6",
     "region": "GB-BIR"
   },
@@ -190,23 +200,13 @@
     "region": "GB-BIR"
   },
   {
-    "ip_address": "140.248.40.28/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:3758::/45",
+    "ip_type": "IPv6",
     "region": "GB-BIR"
   },
   {
-    "ip_address": "146.75.168.42/31",
-    "ip_type": "IPv4",
-    "region": "GB-BIR"
-  },
-  {
-    "ip_address": "146.75.174.16/31",
-    "ip_type": "IPv4",
-    "region": "GB-BIR"
-  },
-  {
-    "ip_address": "146.75.185.42/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:3758::/45",
+    "ip_type": "IPv6",
     "region": "GB-BIR"
   }
 ]

@@ -1,5 +1,30 @@
 [
   {
+    "ip_address": "140.248.18.4/31",
+    "ip_type": "IPv4",
+    "region": "TR"
+  },
+  {
+    "ip_address": "140.248.34.226/31",
+    "ip_type": "IPv4",
+    "region": "TR"
+  },
+  {
+    "ip_address": "140.248.37.54/31",
+    "ip_type": "IPv4",
+    "region": "TR"
+  },
+  {
+    "ip_address": "146.75.162.98/31",
+    "ip_type": "IPv4",
+    "region": "TR"
+  },
+  {
+    "ip_address": "146.75.169.226/31",
+    "ip_type": "IPv4",
+    "region": "TR"
+  },
+  {
     "ip_address": "172.224.248.16/28",
     "ip_type": "IPv4",
     "region": "TR"
@@ -77,6 +102,16 @@
   {
     "ip_address": "172.225.189.0/26",
     "ip_type": "IPv4",
+    "region": "TR"
+  },
+  {
+    "ip_address": "2606:54c0:57b0::/45",
+    "ip_type": "IPv6",
+    "region": "TR"
+  },
+  {
+    "ip_address": "2606:54c3:0:c6::/64",
+    "ip_type": "IPv6",
     "region": "TR"
   },
   {
@@ -10760,26 +10795,6 @@
     "region": "TR"
   },
   {
-    "ip_address": "2606:54c0:57b0::/45",
-    "ip_type": "IPv6",
-    "region": "TR"
-  },
-  {
-    "ip_address": "2606:54c3:0:c6::/64",
-    "ip_type": "IPv6",
-    "region": "TR"
-  },
-  {
-    "ip_address": "2a09:bac2:57b0::/45",
-    "ip_type": "IPv6",
-    "region": "TR"
-  },
-  {
-    "ip_address": "2a09:bac3:57b0::/45",
-    "ip_type": "IPv6",
-    "region": "TR"
-  },
-  {
     "ip_address": "2a04:4e41:219::/48",
     "ip_type": "IPv6",
     "region": "TR"
@@ -10805,28 +10820,13 @@
     "region": "TR"
   },
   {
-    "ip_address": "140.248.18.4/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:57b0::/45",
+    "ip_type": "IPv6",
     "region": "TR"
   },
   {
-    "ip_address": "140.248.34.226/31",
-    "ip_type": "IPv4",
-    "region": "TR"
-  },
-  {
-    "ip_address": "140.248.37.54/31",
-    "ip_type": "IPv4",
-    "region": "TR"
-  },
-  {
-    "ip_address": "146.75.162.98/31",
-    "ip_type": "IPv4",
-    "region": "TR"
-  },
-  {
-    "ip_address": "146.75.169.226/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:57b0::/45",
+    "ip_type": "IPv6",
     "region": "TR"
   }
 ]

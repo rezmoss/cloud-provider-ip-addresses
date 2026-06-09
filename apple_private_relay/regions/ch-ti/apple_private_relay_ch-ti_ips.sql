@@ -6,6 +6,8 @@ CREATE TABLE IF NOT EXISTS `apple_private_relay_ch-ti_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `apple_private_relay_ch-ti_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:1e10::/45', 'IPv6');
+INSERT INTO `apple_private_relay_ch-ti_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:f2e::/64', 'IPv6');
 INSERT INTO `apple_private_relay_ch-ti_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:e340:543c::/64', 'IPv6');
 INSERT INTO `apple_private_relay_ch-ti_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:e340:543d::/64', 'IPv6');
 INSERT INTO `apple_private_relay_ch-ti_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:e340:543e::/64', 'IPv6');
@@ -36,7 +38,5 @@ INSERT INTO `apple_private_relay_ch-ti_ips` (`ip_address`, `ip_type`) VALUES ('2
 INSERT INTO `apple_private_relay_ch-ti_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:e34c:543f::/64', 'IPv6');
 INSERT INTO `apple_private_relay_ch-ti_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:e34c:5440::/64', 'IPv6');
 INSERT INTO `apple_private_relay_ch-ti_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:e34c:5441::/64', 'IPv6');
-INSERT INTO `apple_private_relay_ch-ti_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:1e10::/45', 'IPv6');
-INSERT INTO `apple_private_relay_ch-ti_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:f2e::/64', 'IPv6');
 INSERT INTO `apple_private_relay_ch-ti_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:1e10::/45', 'IPv6');
 INSERT INTO `apple_private_relay_ch-ti_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:1e10::/45', 'IPv6');

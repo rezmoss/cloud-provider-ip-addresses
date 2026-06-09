@@ -1,5 +1,85 @@
 [
   {
+    "ip_address": "104.28.48.6/32",
+    "ip_type": "IPv4",
+    "region": "CA-MB"
+  },
+  {
+    "ip_address": "104.28.48.7/32",
+    "ip_type": "IPv4",
+    "region": "CA-MB"
+  },
+  {
+    "ip_address": "104.28.97.0/32",
+    "ip_type": "IPv4",
+    "region": "CA-MB"
+  },
+  {
+    "ip_address": "104.28.97.1/32",
+    "ip_type": "IPv4",
+    "region": "CA-MB"
+  },
+  {
+    "ip_address": "104.28.103.0/32",
+    "ip_type": "IPv4",
+    "region": "CA-MB"
+  },
+  {
+    "ip_address": "104.28.103.1/32",
+    "ip_type": "IPv4",
+    "region": "CA-MB"
+  },
+  {
+    "ip_address": "104.28.104.0/32",
+    "ip_type": "IPv4",
+    "region": "CA-MB"
+  },
+  {
+    "ip_address": "104.28.104.1/32",
+    "ip_type": "IPv4",
+    "region": "CA-MB"
+  },
+  {
+    "ip_address": "104.28.132.14/32",
+    "ip_type": "IPv4",
+    "region": "CA-MB"
+  },
+  {
+    "ip_address": "104.28.132.15/32",
+    "ip_type": "IPv4",
+    "region": "CA-MB"
+  },
+  {
+    "ip_address": "104.28.133.12/32",
+    "ip_type": "IPv4",
+    "region": "CA-MB"
+  },
+  {
+    "ip_address": "104.28.133.13/32",
+    "ip_type": "IPv4",
+    "region": "CA-MB"
+  },
+  {
+    "ip_address": "104.28.145.37/32",
+    "ip_type": "IPv4",
+    "region": "CA-MB"
+  },
+  {
+    "ip_address": "146.75.188.22/31",
+    "ip_type": "IPv4",
+    "region": "CA-MB"
+  },
+  {
+    "ip_address": "146.75.207.22/31",
+    "ip_type": "IPv4",
+    "region": "CA-MB"
+  },
+  {
+    "ip_address": "146.75.212.22/31",
+    "ip_type": "IPv4",
+    "region": "CA-MB"
+  },
+  {
     "ip_address": "172.225.42.32/27",
     "ip_type": "IPv4",
     "region": "CA-MB"
@@ -37,6 +117,146 @@
   {
     "ip_address": "172.226.16.160/27",
     "ip_type": "IPv4",
+    "region": "CA-MB"
+  },
+  {
+    "ip_address": "2606:54c0:14b8::/45",
+    "ip_type": "IPv6",
+    "region": "CA-MB"
+  },
+  {
+    "ip_address": "2606:54c0:14c0::/45",
+    "ip_type": "IPv6",
+    "region": "CA-MB"
+  },
+  {
+    "ip_address": "2606:54c0:14c8::/45",
+    "ip_type": "IPv6",
+    "region": "CA-MB"
+  },
+  {
+    "ip_address": "2606:54c0:14d0::/45",
+    "ip_type": "IPv6",
+    "region": "CA-MB"
+  },
+  {
+    "ip_address": "2606:54c0:14d8::/45",
+    "ip_type": "IPv6",
+    "region": "CA-MB"
+  },
+  {
+    "ip_address": "2606:54c0:14e0::/45",
+    "ip_type": "IPv6",
+    "region": "CA-MB"
+  },
+  {
+    "ip_address": "2606:54c0:14e8::/45",
+    "ip_type": "IPv6",
+    "region": "CA-MB"
+  },
+  {
+    "ip_address": "2606:54c0:14f0::/45",
+    "ip_type": "IPv6",
+    "region": "CA-MB"
+  },
+  {
+    "ip_address": "2606:54c0:14f8::/45",
+    "ip_type": "IPv6",
+    "region": "CA-MB"
+  },
+  {
+    "ip_address": "2606:54c0:1500::/45",
+    "ip_type": "IPv6",
+    "region": "CA-MB"
+  },
+  {
+    "ip_address": "2606:54c0:1508::/45",
+    "ip_type": "IPv6",
+    "region": "CA-MB"
+  },
+  {
+    "ip_address": "2606:54c0:1510::/45",
+    "ip_type": "IPv6",
+    "region": "CA-MB"
+  },
+  {
+    "ip_address": "2606:54c0:1518::/45",
+    "ip_type": "IPv6",
+    "region": "CA-MB"
+  },
+  {
+    "ip_address": "2606:54c0:1520::/45",
+    "ip_type": "IPv6",
+    "region": "CA-MB"
+  },
+  {
+    "ip_address": "2606:54c3:0:2f4::/64",
+    "ip_type": "IPv6",
+    "region": "CA-MB"
+  },
+  {
+    "ip_address": "2606:54c3:0:4d5::/64",
+    "ip_type": "IPv6",
+    "region": "CA-MB"
+  },
+  {
+    "ip_address": "2606:54c3:0:6ab::/64",
+    "ip_type": "IPv6",
+    "region": "CA-MB"
+  },
+  {
+    "ip_address": "2606:54c3:0:6d1::/64",
+    "ip_type": "IPv6",
+    "region": "CA-MB"
+  },
+  {
+    "ip_address": "2606:54c3:0:fd7::/64",
+    "ip_type": "IPv6",
+    "region": "CA-MB"
+  },
+  {
+    "ip_address": "2606:54c3:0:1086::/64",
+    "ip_type": "IPv6",
+    "region": "CA-MB"
+  },
+  {
+    "ip_address": "2606:54c3:0:1468::/64",
+    "ip_type": "IPv6",
+    "region": "CA-MB"
+  },
+  {
+    "ip_address": "2606:54c3:0:147a::/64",
+    "ip_type": "IPv6",
+    "region": "CA-MB"
+  },
+  {
+    "ip_address": "2606:54c3:0:1557::/64",
+    "ip_type": "IPv6",
+    "region": "CA-MB"
+  },
+  {
+    "ip_address": "2606:54c3:0:1608::/64",
+    "ip_type": "IPv6",
+    "region": "CA-MB"
+  },
+  {
+    "ip_address": "2606:54c3:0:1618::/64",
+    "ip_type": "IPv6",
+    "region": "CA-MB"
+  },
+  {
+    "ip_address": "2606:54c3:0:17c3::/64",
+    "ip_type": "IPv6",
+    "region": "CA-MB"
+  },
+  {
+    "ip_address": "2606:54c3:0:19b0::/64",
+    "ip_type": "IPv6",
+    "region": "CA-MB"
+  },
+  {
+    "ip_address": "2606:54c3:0:19ea::/64",
+    "ip_type": "IPv6",
     "region": "CA-MB"
   },
   {
@@ -480,207 +700,22 @@
     "region": "CA-MB"
   },
   {
-    "ip_address": "104.28.48.6/32",
-    "ip_type": "IPv4",
-    "region": "CA-MB"
-  },
-  {
-    "ip_address": "104.28.48.7/32",
-    "ip_type": "IPv4",
-    "region": "CA-MB"
-  },
-  {
-    "ip_address": "104.28.97.0/32",
-    "ip_type": "IPv4",
-    "region": "CA-MB"
-  },
-  {
-    "ip_address": "104.28.97.1/32",
-    "ip_type": "IPv4",
-    "region": "CA-MB"
-  },
-  {
-    "ip_address": "104.28.103.0/32",
-    "ip_type": "IPv4",
-    "region": "CA-MB"
-  },
-  {
-    "ip_address": "104.28.103.1/32",
-    "ip_type": "IPv4",
-    "region": "CA-MB"
-  },
-  {
-    "ip_address": "104.28.104.0/32",
-    "ip_type": "IPv4",
-    "region": "CA-MB"
-  },
-  {
-    "ip_address": "104.28.104.1/32",
-    "ip_type": "IPv4",
-    "region": "CA-MB"
-  },
-  {
-    "ip_address": "104.28.132.14/32",
-    "ip_type": "IPv4",
-    "region": "CA-MB"
-  },
-  {
-    "ip_address": "104.28.132.15/32",
-    "ip_type": "IPv4",
-    "region": "CA-MB"
-  },
-  {
-    "ip_address": "104.28.133.12/32",
-    "ip_type": "IPv4",
-    "region": "CA-MB"
-  },
-  {
-    "ip_address": "104.28.133.13/32",
-    "ip_type": "IPv4",
-    "region": "CA-MB"
-  },
-  {
-    "ip_address": "104.28.145.37/32",
-    "ip_type": "IPv4",
-    "region": "CA-MB"
-  },
-  {
-    "ip_address": "2606:54c0:14b8::/45",
+    "ip_address": "2a04:4e41:003b:000b::/64",
     "ip_type": "IPv6",
     "region": "CA-MB"
   },
   {
-    "ip_address": "2606:54c0:14c0::/45",
+    "ip_address": "2a04:4e41:4ce0:9000::/52",
     "ip_type": "IPv6",
     "region": "CA-MB"
   },
   {
-    "ip_address": "2606:54c0:14c8::/45",
+    "ip_address": "2a04:4e41:6900:9000::/52",
     "ip_type": "IPv6",
     "region": "CA-MB"
   },
   {
-    "ip_address": "2606:54c0:14d0::/45",
-    "ip_type": "IPv6",
-    "region": "CA-MB"
-  },
-  {
-    "ip_address": "2606:54c0:14d8::/45",
-    "ip_type": "IPv6",
-    "region": "CA-MB"
-  },
-  {
-    "ip_address": "2606:54c0:14e0::/45",
-    "ip_type": "IPv6",
-    "region": "CA-MB"
-  },
-  {
-    "ip_address": "2606:54c0:14e8::/45",
-    "ip_type": "IPv6",
-    "region": "CA-MB"
-  },
-  {
-    "ip_address": "2606:54c0:14f0::/45",
-    "ip_type": "IPv6",
-    "region": "CA-MB"
-  },
-  {
-    "ip_address": "2606:54c0:14f8::/45",
-    "ip_type": "IPv6",
-    "region": "CA-MB"
-  },
-  {
-    "ip_address": "2606:54c0:1500::/45",
-    "ip_type": "IPv6",
-    "region": "CA-MB"
-  },
-  {
-    "ip_address": "2606:54c0:1508::/45",
-    "ip_type": "IPv6",
-    "region": "CA-MB"
-  },
-  {
-    "ip_address": "2606:54c0:1510::/45",
-    "ip_type": "IPv6",
-    "region": "CA-MB"
-  },
-  {
-    "ip_address": "2606:54c0:1518::/45",
-    "ip_type": "IPv6",
-    "region": "CA-MB"
-  },
-  {
-    "ip_address": "2606:54c0:1520::/45",
-    "ip_type": "IPv6",
-    "region": "CA-MB"
-  },
-  {
-    "ip_address": "2606:54c3:0:2f4::/64",
-    "ip_type": "IPv6",
-    "region": "CA-MB"
-  },
-  {
-    "ip_address": "2606:54c3:0:4d5::/64",
-    "ip_type": "IPv6",
-    "region": "CA-MB"
-  },
-  {
-    "ip_address": "2606:54c3:0:6ab::/64",
-    "ip_type": "IPv6",
-    "region": "CA-MB"
-  },
-  {
-    "ip_address": "2606:54c3:0:6d1::/64",
-    "ip_type": "IPv6",
-    "region": "CA-MB"
-  },
-  {
-    "ip_address": "2606:54c3:0:fd7::/64",
-    "ip_type": "IPv6",
-    "region": "CA-MB"
-  },
-  {
-    "ip_address": "2606:54c3:0:1086::/64",
-    "ip_type": "IPv6",
-    "region": "CA-MB"
-  },
-  {
-    "ip_address": "2606:54c3:0:1468::/64",
-    "ip_type": "IPv6",
-    "region": "CA-MB"
-  },
-  {
-    "ip_address": "2606:54c3:0:147a::/64",
-    "ip_type": "IPv6",
-    "region": "CA-MB"
-  },
-  {
-    "ip_address": "2606:54c3:0:1557::/64",
-    "ip_type": "IPv6",
-    "region": "CA-MB"
-  },
-  {
-    "ip_address": "2606:54c3:0:1608::/64",
-    "ip_type": "IPv6",
-    "region": "CA-MB"
-  },
-  {
-    "ip_address": "2606:54c3:0:1618::/64",
-    "ip_type": "IPv6",
-    "region": "CA-MB"
-  },
-  {
-    "ip_address": "2606:54c3:0:17c3::/64",
-    "ip_type": "IPv6",
-    "region": "CA-MB"
-  },
-  {
-    "ip_address": "2606:54c3:0:19b0::/64",
-    "ip_type": "IPv6",
-    "region": "CA-MB"
-  },
-  {
-    "ip_address": "2606:54c3:0:19ea::/64",
+    "ip_address": "2a04:4e41:6920:9000::/52",
     "ip_type": "IPv6",
     "region": "CA-MB"
   },
@@ -822,41 +857,6 @@
   {
     "ip_address": "2a09:bac3:1520::/45",
     "ip_type": "IPv6",
-    "region": "CA-MB"
-  },
-  {
-    "ip_address": "2a04:4e41:003b:000b::/64",
-    "ip_type": "IPv6",
-    "region": "CA-MB"
-  },
-  {
-    "ip_address": "2a04:4e41:4ce0:9000::/52",
-    "ip_type": "IPv6",
-    "region": "CA-MB"
-  },
-  {
-    "ip_address": "2a04:4e41:6900:9000::/52",
-    "ip_type": "IPv6",
-    "region": "CA-MB"
-  },
-  {
-    "ip_address": "2a04:4e41:6920:9000::/52",
-    "ip_type": "IPv6",
-    "region": "CA-MB"
-  },
-  {
-    "ip_address": "146.75.188.22/31",
-    "ip_type": "IPv4",
-    "region": "CA-MB"
-  },
-  {
-    "ip_address": "146.75.207.22/31",
-    "ip_type": "IPv4",
-    "region": "CA-MB"
-  },
-  {
-    "ip_address": "146.75.212.22/31",
-    "ip_type": "IPv4",
     "region": "CA-MB"
   }
 ]

@@ -20,6 +20,36 @@
     "region": "CA-PE"
   },
   {
+    "ip_address": "2606:54c0:19f0::/45",
+    "ip_type": "IPv6",
+    "region": "CA-PE"
+  },
+  {
+    "ip_address": "2606:54c0:19f8::/45",
+    "ip_type": "IPv6",
+    "region": "CA-PE"
+  },
+  {
+    "ip_address": "2606:54c0:1a00::/45",
+    "ip_type": "IPv6",
+    "region": "CA-PE"
+  },
+  {
+    "ip_address": "2606:54c3:0:397::/64",
+    "ip_type": "IPv6",
+    "region": "CA-PE"
+  },
+  {
+    "ip_address": "2606:54c3:0:a02::/64",
+    "ip_type": "IPv6",
+    "region": "CA-PE"
+  },
+  {
+    "ip_address": "2606:54c3:0:12a7::/64",
+    "ip_type": "IPv6",
+    "region": "CA-PE"
+  },
+  {
     "ip_address": "2a02:26f7:bc00:50c2::/64",
     "ip_type": "IPv6",
     "region": "CA-PE"
@@ -76,36 +106,6 @@
   },
   {
     "ip_address": "2a02:26f7:bc08:50dd::/64",
-    "ip_type": "IPv6",
-    "region": "CA-PE"
-  },
-  {
-    "ip_address": "2606:54c0:19f0::/45",
-    "ip_type": "IPv6",
-    "region": "CA-PE"
-  },
-  {
-    "ip_address": "2606:54c0:19f8::/45",
-    "ip_type": "IPv6",
-    "region": "CA-PE"
-  },
-  {
-    "ip_address": "2606:54c0:1a00::/45",
-    "ip_type": "IPv6",
-    "region": "CA-PE"
-  },
-  {
-    "ip_address": "2606:54c3:0:397::/64",
-    "ip_type": "IPv6",
-    "region": "CA-PE"
-  },
-  {
-    "ip_address": "2606:54c3:0:a02::/64",
-    "ip_type": "IPv6",
-    "region": "CA-PE"
-  },
-  {
-    "ip_address": "2606:54c3:0:12a7::/64",
     "ip_type": "IPv6",
     "region": "CA-PE"
   },

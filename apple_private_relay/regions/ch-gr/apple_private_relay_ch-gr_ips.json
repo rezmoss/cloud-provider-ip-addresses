@@ -1,5 +1,25 @@
 [
   {
+    "ip_address": "2606:54c0:1dd8::/45",
+    "ip_type": "IPv6",
+    "region": "CH-GR"
+  },
+  {
+    "ip_address": "2606:54c0:1de0::/45",
+    "ip_type": "IPv6",
+    "region": "CH-GR"
+  },
+  {
+    "ip_address": "2606:54c3:0:706::/64",
+    "ip_type": "IPv6",
+    "region": "CH-GR"
+  },
+  {
+    "ip_address": "2606:54c3:0:786::/64",
+    "ip_type": "IPv6",
+    "region": "CH-GR"
+  },
+  {
     "ip_address": "2a02:26f7:e340:5418::/64",
     "ip_type": "IPv6",
     "region": "CH-GR"
@@ -296,26 +316,6 @@
   },
   {
     "ip_address": "2a02:26f7:e34c:5423::/64",
-    "ip_type": "IPv6",
-    "region": "CH-GR"
-  },
-  {
-    "ip_address": "2606:54c0:1dd8::/45",
-    "ip_type": "IPv6",
-    "region": "CH-GR"
-  },
-  {
-    "ip_address": "2606:54c0:1de0::/45",
-    "ip_type": "IPv6",
-    "region": "CH-GR"
-  },
-  {
-    "ip_address": "2606:54c3:0:706::/64",
-    "ip_type": "IPv6",
-    "region": "CH-GR"
-  },
-  {
-    "ip_address": "2606:54c3:0:786::/64",
     "ip_type": "IPv6",
     "region": "CH-GR"
   },

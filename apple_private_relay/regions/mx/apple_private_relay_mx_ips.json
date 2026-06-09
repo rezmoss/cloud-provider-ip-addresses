@@ -45,6 +45,16 @@
     "region": "MX"
   },
   {
+    "ip_address": "146.75.152.4/31",
+    "ip_type": "IPv4",
+    "region": "MX"
+  },
+  {
+    "ip_address": "146.75.164.2/31",
+    "ip_type": "IPv4",
+    "region": "MX"
+  },
+  {
     "ip_address": "2606:54c0:4900::/45",
     "ip_type": "IPv6",
     "region": "MX"
@@ -211,6 +221,16 @@
   },
   {
     "ip_address": "2606:54c3:0:1925::/64",
+    "ip_type": "IPv6",
+    "region": "MX"
+  },
+  {
+    "ip_address": "2a04:4e41:2c0b::/48",
+    "ip_type": "IPv6",
+    "region": "MX"
+  },
+  {
+    "ip_address": "2a04:4e41:2e0a::/48",
     "ip_type": "IPv6",
     "region": "MX"
   },
@@ -382,26 +402,6 @@
   {
     "ip_address": "2a09:bac3:4980::/45",
     "ip_type": "IPv6",
-    "region": "MX"
-  },
-  {
-    "ip_address": "2a04:4e41:2c0b::/48",
-    "ip_type": "IPv6",
-    "region": "MX"
-  },
-  {
-    "ip_address": "2a04:4e41:2e0a::/48",
-    "ip_type": "IPv6",
-    "region": "MX"
-  },
-  {
-    "ip_address": "146.75.152.4/31",
-    "ip_type": "IPv4",
-    "region": "MX"
-  },
-  {
-    "ip_address": "146.75.164.2/31",
-    "ip_type": "IPv4",
     "region": "MX"
   }
 ]

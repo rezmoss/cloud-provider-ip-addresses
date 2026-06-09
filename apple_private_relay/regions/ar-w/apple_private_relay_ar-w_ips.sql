@@ -6,6 +6,18 @@ CREATE TABLE IF NOT EXISTS `apple_private_relay_ar-w_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `apple_private_relay_ar-w_ips` (`ip_address`, `ip_type`) VALUES ('104.28.47.2/32', 'IPv4');
+INSERT INTO `apple_private_relay_ar-w_ips` (`ip_address`, `ip_type`) VALUES ('104.28.47.3/32', 'IPv4');
+INSERT INTO `apple_private_relay_ar-w_ips` (`ip_address`, `ip_type`) VALUES ('104.28.59.2/32', 'IPv4');
+INSERT INTO `apple_private_relay_ar-w_ips` (`ip_address`, `ip_type`) VALUES ('104.28.59.3/32', 'IPv4');
+INSERT INTO `apple_private_relay_ar-w_ips` (`ip_address`, `ip_type`) VALUES ('104.28.63.2/32', 'IPv4');
+INSERT INTO `apple_private_relay_ar-w_ips` (`ip_address`, `ip_type`) VALUES ('104.28.63.3/32', 'IPv4');
+INSERT INTO `apple_private_relay_ar-w_ips` (`ip_address`, `ip_type`) VALUES ('104.28.113.2/32', 'IPv4');
+INSERT INTO `apple_private_relay_ar-w_ips` (`ip_address`, `ip_type`) VALUES ('104.28.113.3/32', 'IPv4');
+INSERT INTO `apple_private_relay_ar-w_ips` (`ip_address`, `ip_type`) VALUES ('104.28.115.2/32', 'IPv4');
+INSERT INTO `apple_private_relay_ar-w_ips` (`ip_address`, `ip_type`) VALUES ('104.28.115.3/32', 'IPv4');
+INSERT INTO `apple_private_relay_ar-w_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:c8::/45', 'IPv6');
+INSERT INTO `apple_private_relay_ar-w_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:837::/64', 'IPv6');
 INSERT INTO `apple_private_relay_ar-w_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d980:406c::/64', 'IPv6');
 INSERT INTO `apple_private_relay_ar-w_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d980:ec15::/64', 'IPv6');
 INSERT INTO `apple_private_relay_ar-w_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d980:ec1c::/64', 'IPv6');
@@ -50,17 +62,5 @@ INSERT INTO `apple_private_relay_ar-w_ips` (`ip_address`, `ip_type`) VALUES ('2a
 INSERT INTO `apple_private_relay_ar-w_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d98c:eccf::/64', 'IPv6');
 INSERT INTO `apple_private_relay_ar-w_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d98c:ecd0::/64', 'IPv6');
 INSERT INTO `apple_private_relay_ar-w_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d98c:ed20::/64', 'IPv6');
-INSERT INTO `apple_private_relay_ar-w_ips` (`ip_address`, `ip_type`) VALUES ('104.28.47.2/32', 'IPv4');
-INSERT INTO `apple_private_relay_ar-w_ips` (`ip_address`, `ip_type`) VALUES ('104.28.47.3/32', 'IPv4');
-INSERT INTO `apple_private_relay_ar-w_ips` (`ip_address`, `ip_type`) VALUES ('104.28.59.2/32', 'IPv4');
-INSERT INTO `apple_private_relay_ar-w_ips` (`ip_address`, `ip_type`) VALUES ('104.28.59.3/32', 'IPv4');
-INSERT INTO `apple_private_relay_ar-w_ips` (`ip_address`, `ip_type`) VALUES ('104.28.63.2/32', 'IPv4');
-INSERT INTO `apple_private_relay_ar-w_ips` (`ip_address`, `ip_type`) VALUES ('104.28.63.3/32', 'IPv4');
-INSERT INTO `apple_private_relay_ar-w_ips` (`ip_address`, `ip_type`) VALUES ('104.28.113.2/32', 'IPv4');
-INSERT INTO `apple_private_relay_ar-w_ips` (`ip_address`, `ip_type`) VALUES ('104.28.113.3/32', 'IPv4');
-INSERT INTO `apple_private_relay_ar-w_ips` (`ip_address`, `ip_type`) VALUES ('104.28.115.2/32', 'IPv4');
-INSERT INTO `apple_private_relay_ar-w_ips` (`ip_address`, `ip_type`) VALUES ('104.28.115.3/32', 'IPv4');
-INSERT INTO `apple_private_relay_ar-w_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:c8::/45', 'IPv6');
-INSERT INTO `apple_private_relay_ar-w_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:837::/64', 'IPv6');
 INSERT INTO `apple_private_relay_ar-w_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:c8::/45', 'IPv6');
 INSERT INTO `apple_private_relay_ar-w_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:c8::/45', 'IPv6');

@@ -1,75 +1,5 @@
 [
   {
-    "ip_address": "2a02:26f7:f7c0:e12c::/64",
-    "ip_type": "IPv6",
-    "region": "CO-RIS"
-  },
-  {
-    "ip_address": "2a02:26f7:f7c0:e156::/64",
-    "ip_type": "IPv6",
-    "region": "CO-RIS"
-  },
-  {
-    "ip_address": "2a02:26f7:f7c2:e12c::/64",
-    "ip_type": "IPv6",
-    "region": "CO-RIS"
-  },
-  {
-    "ip_address": "2a02:26f7:f7c2:e156::/64",
-    "ip_type": "IPv6",
-    "region": "CO-RIS"
-  },
-  {
-    "ip_address": "2a02:26f7:f7c4:e12c::/64",
-    "ip_type": "IPv6",
-    "region": "CO-RIS"
-  },
-  {
-    "ip_address": "2a02:26f7:f7c4:e156::/64",
-    "ip_type": "IPv6",
-    "region": "CO-RIS"
-  },
-  {
-    "ip_address": "2a02:26f7:f7cc:e12c::/64",
-    "ip_type": "IPv6",
-    "region": "CO-RIS"
-  },
-  {
-    "ip_address": "2a02:26f7:f7cc:e156::/64",
-    "ip_type": "IPv6",
-    "region": "CO-RIS"
-  },
-  {
-    "ip_address": "2a02:26f7:f7d0:e12c::/64",
-    "ip_type": "IPv6",
-    "region": "CO-RIS"
-  },
-  {
-    "ip_address": "2a02:26f7:f7d0:e156::/64",
-    "ip_type": "IPv6",
-    "region": "CO-RIS"
-  },
-  {
-    "ip_address": "2a02:26f7:f7d4:e12c::/64",
-    "ip_type": "IPv6",
-    "region": "CO-RIS"
-  },
-  {
-    "ip_address": "2a02:26f7:f7d4:e156::/64",
-    "ip_type": "IPv6",
-    "region": "CO-RIS"
-  },
-  {
-    "ip_address": "2a02:26f7:f7d8:e12c::/64",
-    "ip_type": "IPv6",
-    "region": "CO-RIS"
-  },
-  {
-    "ip_address": "2a02:26f7:f7d8:e156::/64",
-    "ip_type": "IPv6",
-    "region": "CO-RIS"
-  },
-  {
     "ip_address": "104.28.32.12/32",
     "ip_type": "IPv4",
     "region": "CO-RIS"
@@ -136,6 +66,76 @@
   },
   {
     "ip_address": "2606:54c3:0:dc9::/64",
+    "ip_type": "IPv6",
+    "region": "CO-RIS"
+  },
+  {
+    "ip_address": "2a02:26f7:f7c0:e12c::/64",
+    "ip_type": "IPv6",
+    "region": "CO-RIS"
+  },
+  {
+    "ip_address": "2a02:26f7:f7c0:e156::/64",
+    "ip_type": "IPv6",
+    "region": "CO-RIS"
+  },
+  {
+    "ip_address": "2a02:26f7:f7c2:e12c::/64",
+    "ip_type": "IPv6",
+    "region": "CO-RIS"
+  },
+  {
+    "ip_address": "2a02:26f7:f7c2:e156::/64",
+    "ip_type": "IPv6",
+    "region": "CO-RIS"
+  },
+  {
+    "ip_address": "2a02:26f7:f7c4:e12c::/64",
+    "ip_type": "IPv6",
+    "region": "CO-RIS"
+  },
+  {
+    "ip_address": "2a02:26f7:f7c4:e156::/64",
+    "ip_type": "IPv6",
+    "region": "CO-RIS"
+  },
+  {
+    "ip_address": "2a02:26f7:f7cc:e12c::/64",
+    "ip_type": "IPv6",
+    "region": "CO-RIS"
+  },
+  {
+    "ip_address": "2a02:26f7:f7cc:e156::/64",
+    "ip_type": "IPv6",
+    "region": "CO-RIS"
+  },
+  {
+    "ip_address": "2a02:26f7:f7d0:e12c::/64",
+    "ip_type": "IPv6",
+    "region": "CO-RIS"
+  },
+  {
+    "ip_address": "2a02:26f7:f7d0:e156::/64",
+    "ip_type": "IPv6",
+    "region": "CO-RIS"
+  },
+  {
+    "ip_address": "2a02:26f7:f7d4:e12c::/64",
+    "ip_type": "IPv6",
+    "region": "CO-RIS"
+  },
+  {
+    "ip_address": "2a02:26f7:f7d4:e156::/64",
+    "ip_type": "IPv6",
+    "region": "CO-RIS"
+  },
+  {
+    "ip_address": "2a02:26f7:f7d8:e12c::/64",
+    "ip_type": "IPv6",
+    "region": "CO-RIS"
+  },
+  {
+    "ip_address": "2a02:26f7:f7d8:e156::/64",
     "ip_type": "IPv6",
     "region": "CO-RIS"
   },

@@ -1,5 +1,30 @@
 [
   {
+    "ip_address": "104.28.92.69/32",
+    "ip_type": "IPv4",
+    "region": "AQ"
+  },
+  {
+    "ip_address": "104.28.123.20/32",
+    "ip_type": "IPv4",
+    "region": "AQ"
+  },
+  {
+    "ip_address": "140.248.0.2/31",
+    "ip_type": "IPv4",
+    "region": "AQ"
+  },
+  {
+    "ip_address": "140.248.24.0/31",
+    "ip_type": "IPv4",
+    "region": "AQ"
+  },
+  {
+    "ip_address": "140.248.41.0/31",
+    "ip_type": "IPv4",
+    "region": "AQ"
+  },
+  {
     "ip_address": "172.225.84.0/28",
     "ip_type": "IPv4",
     "region": "AQ"
@@ -17,6 +42,16 @@
   {
     "ip_address": "172.225.222.0/28",
     "ip_type": "IPv4",
+    "region": "AQ"
+  },
+  {
+    "ip_address": "2606:54c0:68::/45",
+    "ip_type": "IPv6",
+    "region": "AQ"
+  },
+  {
+    "ip_address": "2606:54c3:0:9b4::/64",
+    "ip_type": "IPv6",
     "region": "AQ"
   },
   {
@@ -80,36 +115,6 @@
     "region": "AQ"
   },
   {
-    "ip_address": "104.28.92.69/32",
-    "ip_type": "IPv4",
-    "region": "AQ"
-  },
-  {
-    "ip_address": "104.28.123.20/32",
-    "ip_type": "IPv4",
-    "region": "AQ"
-  },
-  {
-    "ip_address": "2606:54c0:68::/45",
-    "ip_type": "IPv6",
-    "region": "AQ"
-  },
-  {
-    "ip_address": "2606:54c3:0:9b4::/64",
-    "ip_type": "IPv6",
-    "region": "AQ"
-  },
-  {
-    "ip_address": "2a09:bac2:68::/45",
-    "ip_type": "IPv6",
-    "region": "AQ"
-  },
-  {
-    "ip_address": "2a09:bac3:68::/45",
-    "ip_type": "IPv6",
-    "region": "AQ"
-  },
-  {
     "ip_address": "2a04:4e41:802::/48",
     "ip_type": "IPv6",
     "region": "AQ"
@@ -125,18 +130,13 @@
     "region": "AQ"
   },
   {
-    "ip_address": "140.248.0.2/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:68::/45",
+    "ip_type": "IPv6",
     "region": "AQ"
   },
   {
-    "ip_address": "140.248.24.0/31",
-    "ip_type": "IPv4",
-    "region": "AQ"
-  },
-  {
-    "ip_address": "140.248.41.0/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:68::/45",
+    "ip_type": "IPv6",
     "region": "AQ"
   }
 ]

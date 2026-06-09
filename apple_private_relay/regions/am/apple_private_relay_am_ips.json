@@ -1,5 +1,20 @@
 [
   {
+    "ip_address": "140.248.36.6/31",
+    "ip_type": "IPv4",
+    "region": "AM"
+  },
+  {
+    "ip_address": "146.75.162.6/31",
+    "ip_type": "IPv4",
+    "region": "AM"
+  },
+  {
+    "ip_address": "146.75.180.0/31",
+    "ip_type": "IPv4",
+    "region": "AM"
+  },
+  {
     "ip_address": "172.225.36.0/27",
     "ip_type": "IPv4",
     "region": "AM"
@@ -147,21 +162,6 @@
   {
     "ip_address": "2a04:4e41:4ca2::/48",
     "ip_type": "IPv6",
-    "region": "AM"
-  },
-  {
-    "ip_address": "140.248.36.6/31",
-    "ip_type": "IPv4",
-    "region": "AM"
-  },
-  {
-    "ip_address": "146.75.162.6/31",
-    "ip_type": "IPv4",
-    "region": "AM"
-  },
-  {
-    "ip_address": "146.75.180.0/31",
-    "ip_type": "IPv4",
     "region": "AM"
   }
 ]

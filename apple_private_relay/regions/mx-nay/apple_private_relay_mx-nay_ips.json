@@ -1,5 +1,15 @@
 [
   {
+    "ip_address": "2606:54c0:4b00::/45",
+    "ip_type": "IPv6",
+    "region": "MX-NAY"
+  },
+  {
+    "ip_address": "2606:54c3:0:132f::/64",
+    "ip_type": "IPv6",
+    "region": "MX-NAY"
+  },
+  {
     "ip_address": "2a02:26f7:bf80:5509::/64",
     "ip_type": "IPv6",
     "region": "MX-NAY"
@@ -26,16 +36,6 @@
   },
   {
     "ip_address": "2a02:26f7:bf90:5509::/64",
-    "ip_type": "IPv6",
-    "region": "MX-NAY"
-  },
-  {
-    "ip_address": "2606:54c0:4b00::/45",
-    "ip_type": "IPv6",
-    "region": "MX-NAY"
-  },
-  {
-    "ip_address": "2606:54c3:0:132f::/64",
     "ip_type": "IPv6",
     "region": "MX-NAY"
   },

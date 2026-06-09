@@ -12,6 +12,12 @@
     "region": "eu-frankfurt-1"
   },
   {
+    "ip_address": "92.4.240.0/20",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-frankfurt-1"
+  },
+  {
     "ip_address": "92.5.0.0/17",
     "ip_type": "IPv4",
     "service": "OCI",
@@ -21,6 +27,18 @@
     "ip_address": "92.5.128.0/18",
     "ip_type": "IPv4",
     "service": "OCI",
+    "region": "eu-frankfurt-1"
+  },
+  {
+    "ip_address": "92.5.240.0/21",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-frankfurt-1"
+  },
+  {
+    "ip_address": "92.5.248.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
     "region": "eu-frankfurt-1"
   },
   {
@@ -45,6 +63,24 @@
     "ip_address": "129.159.240.0/20",
     "ip_type": "IPv4",
     "service": "OCI",
+    "region": "eu-frankfurt-1"
+  },
+  {
+    "ip_address": "130.61.0.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-frankfurt-1"
+  },
+  {
+    "ip_address": "130.61.2.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-frankfurt-1"
+  },
+  {
+    "ip_address": "130.61.4.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
     "region": "eu-frankfurt-1"
   },
   {
@@ -114,6 +150,42 @@
     "region": "eu-frankfurt-1"
   },
   {
+    "ip_address": "134.70.40.0/21",
+    "ip_type": "IPv4",
+    "service": "OSN,OBJECT_STORAGE",
+    "region": "eu-frankfurt-1"
+  },
+  {
+    "ip_address": "134.70.48.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN,OBJECT_STORAGE",
+    "region": "eu-frankfurt-1"
+  },
+  {
+    "ip_address": "138.1.0.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-frankfurt-1"
+  },
+  {
+    "ip_address": "138.1.40.0/21",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-frankfurt-1"
+  },
+  {
+    "ip_address": "138.1.64.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-frankfurt-1"
+  },
+  {
+    "ip_address": "138.1.108.0/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-frankfurt-1"
+  },
+  {
     "ip_address": "138.2.128.0/18",
     "ip_type": "IPv4",
     "service": "OCI",
@@ -168,6 +240,18 @@
     "region": "eu-frankfurt-1"
   },
   {
+    "ip_address": "140.91.16.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-frankfurt-1"
+  },
+  {
+    "ip_address": "140.91.20.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-frankfurt-1"
+  },
+  {
     "ip_address": "141.144.224.0/19",
     "ip_type": "IPv4",
     "service": "OCI",
@@ -183,6 +267,36 @@
     "ip_address": "144.24.160.0/19",
     "ip_type": "IPv4",
     "service": "OCI",
+    "region": "eu-frankfurt-1"
+  },
+  {
+    "ip_address": "147.154.128.0/19",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-frankfurt-1"
+  },
+  {
+    "ip_address": "147.154.160.0/20",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-frankfurt-1"
+  },
+  {
+    "ip_address": "147.154.176.0/21",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-frankfurt-1"
+  },
+  {
+    "ip_address": "147.154.184.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "eu-frankfurt-1"
+  },
+  {
+    "ip_address": "147.154.189.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
     "region": "eu-frankfurt-1"
   },
   {
@@ -249,120 +363,6 @@
     "ip_address": "207.135.8.0/23",
     "ip_type": "IPv4",
     "service": "OCI",
-    "region": "eu-frankfurt-1"
-  },
-  {
-    "ip_address": "92.4.240.0/20",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "eu-frankfurt-1"
-  },
-  {
-    "ip_address": "92.5.240.0/21",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "eu-frankfurt-1"
-  },
-  {
-    "ip_address": "92.5.248.0/22",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "eu-frankfurt-1"
-  },
-  {
-    "ip_address": "130.61.0.128/25",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "eu-frankfurt-1"
-  },
-  {
-    "ip_address": "130.61.2.128/25",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "eu-frankfurt-1"
-  },
-  {
-    "ip_address": "130.61.4.128/25",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "eu-frankfurt-1"
-  },
-  {
-    "ip_address": "134.70.40.0/21",
-    "ip_type": "IPv4",
-    "service": "OSN,OBJECT_STORAGE",
-    "region": "eu-frankfurt-1"
-  },
-  {
-    "ip_address": "134.70.48.0/22",
-    "ip_type": "IPv4",
-    "service": "OSN,OBJECT_STORAGE",
-    "region": "eu-frankfurt-1"
-  },
-  {
-    "ip_address": "138.1.0.0/22",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "eu-frankfurt-1"
-  },
-  {
-    "ip_address": "138.1.40.0/21",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "eu-frankfurt-1"
-  },
-  {
-    "ip_address": "138.1.64.0/22",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "eu-frankfurt-1"
-  },
-  {
-    "ip_address": "138.1.108.0/25",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "eu-frankfurt-1"
-  },
-  {
-    "ip_address": "140.91.16.0/22",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "eu-frankfurt-1"
-  },
-  {
-    "ip_address": "140.91.20.0/23",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "eu-frankfurt-1"
-  },
-  {
-    "ip_address": "147.154.128.0/19",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "eu-frankfurt-1"
-  },
-  {
-    "ip_address": "147.154.160.0/20",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "eu-frankfurt-1"
-  },
-  {
-    "ip_address": "147.154.176.0/21",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "eu-frankfurt-1"
-  },
-  {
-    "ip_address": "147.154.184.0/22",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "eu-frankfurt-1"
-  },
-  {
-    "ip_address": "147.154.189.128/25",
-    "ip_type": "IPv4",
-    "service": "OSN",
     "region": "eu-frankfurt-1"
   }
 ]

@@ -1,6 +1,6 @@
 #!/bin/bash
 # Apple_private_relay IP Ranges
-# Updated: 2026-02-11 17:28:49
+# Updated: 2026-06-09 22:59:45
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -17,15 +17,15 @@ ufw allow from 104.28.130.41/32
 ufw allow from 104.28.130.42/32
 ufw allow from 104.28.131.36/32
 ufw allow from 104.28.131.37/32
-ufw allow from 2606:54c0:3958::/45
-ufw allow from 2606:54c3:0:4d6::/64
-ufw allow from 2a09:bac2:3958::/45
-ufw allow from 2a09:bac3:3958::/45
-ufw allow from 2a04:4e41:1402:8000::/52
-ufw allow from 2a04:4e41:1802:9000::/52
-ufw allow from 2a04:4e41:4ca0:9000::/52
-ufw allow from 2a04:4e41:5602:8000::/52
 ufw allow from 140.248.34.118/31
 ufw allow from 140.248.36.136/31
 ufw allow from 146.75.169.118/31
 ufw allow from 146.75.180.34/31
+ufw allow from 2606:54c0:3958::/45
+ufw allow from 2606:54c3:0:4d6::/64
+ufw allow from 2a04:4e41:1402:8000::/52
+ufw allow from 2a04:4e41:1802:9000::/52
+ufw allow from 2a04:4e41:4ca0:9000::/52
+ufw allow from 2a04:4e41:5602:8000::/52
+ufw allow from 2a09:bac2:3958::/45
+ufw allow from 2a09:bac3:3958::/45

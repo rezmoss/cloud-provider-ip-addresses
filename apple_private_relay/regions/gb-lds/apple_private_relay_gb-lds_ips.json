@@ -100,22 +100,32 @@
     "region": "GB-LDS"
   },
   {
+    "ip_address": "140.248.40.66/31",
+    "ip_type": "IPv4",
+    "region": "GB-LDS"
+  },
+  {
+    "ip_address": "146.75.168.80/31",
+    "ip_type": "IPv4",
+    "region": "GB-LDS"
+  },
+  {
+    "ip_address": "146.75.174.54/31",
+    "ip_type": "IPv4",
+    "region": "GB-LDS"
+  },
+  {
+    "ip_address": "146.75.185.80/31",
+    "ip_type": "IPv4",
+    "region": "GB-LDS"
+  },
+  {
     "ip_address": "2606:54c0:37a8::/45",
     "ip_type": "IPv6",
     "region": "GB-LDS"
   },
   {
     "ip_address": "2606:54c3:0:13dd::/64",
-    "ip_type": "IPv6",
-    "region": "GB-LDS"
-  },
-  {
-    "ip_address": "2a09:bac2:37a8::/45",
-    "ip_type": "IPv6",
-    "region": "GB-LDS"
-  },
-  {
-    "ip_address": "2a09:bac3:37a8::/45",
     "ip_type": "IPv6",
     "region": "GB-LDS"
   },
@@ -140,23 +150,13 @@
     "region": "GB-LDS"
   },
   {
-    "ip_address": "140.248.40.66/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:37a8::/45",
+    "ip_type": "IPv6",
     "region": "GB-LDS"
   },
   {
-    "ip_address": "146.75.168.80/31",
-    "ip_type": "IPv4",
-    "region": "GB-LDS"
-  },
-  {
-    "ip_address": "146.75.174.54/31",
-    "ip_type": "IPv4",
-    "region": "GB-LDS"
-  },
-  {
-    "ip_address": "146.75.185.80/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:37a8::/45",
+    "ip_type": "IPv6",
     "region": "GB-LDS"
   }
 ]

@@ -1,5 +1,25 @@
 [
   {
+    "ip_address": "104.28.136.219/32",
+    "ip_type": "IPv4",
+    "region": "PA"
+  },
+  {
+    "ip_address": "104.28.145.39/32",
+    "ip_type": "IPv4",
+    "region": "PA"
+  },
+  {
+    "ip_address": "140.248.4.48/31",
+    "ip_type": "IPv4",
+    "region": "PA"
+  },
+  {
+    "ip_address": "140.248.44.78/31",
+    "ip_type": "IPv4",
+    "region": "PA"
+  },
+  {
     "ip_address": "172.225.93.32/28",
     "ip_type": "IPv4",
     "region": "PA"
@@ -57,6 +77,26 @@
   {
     "ip_address": "172.226.11.80/29",
     "ip_type": "IPv4",
+    "region": "PA"
+  },
+  {
+    "ip_address": "2606:54c0:4e40::/45",
+    "ip_type": "IPv6",
+    "region": "PA"
+  },
+  {
+    "ip_address": "2606:54c0:4e48::/45",
+    "ip_type": "IPv6",
+    "region": "PA"
+  },
+  {
+    "ip_address": "2606:54c3:0:240::/64",
+    "ip_type": "IPv6",
+    "region": "PA"
+  },
+  {
+    "ip_address": "2606:54c3:0:16df::/64",
+    "ip_type": "IPv6",
     "region": "PA"
   },
   {
@@ -360,32 +400,12 @@
     "region": "PA"
   },
   {
-    "ip_address": "104.28.136.219/32",
-    "ip_type": "IPv4",
-    "region": "PA"
-  },
-  {
-    "ip_address": "104.28.145.39/32",
-    "ip_type": "IPv4",
-    "region": "PA"
-  },
-  {
-    "ip_address": "2606:54c0:4e40::/45",
+    "ip_address": "2a04:4e41:3621::/48",
     "ip_type": "IPv6",
     "region": "PA"
   },
   {
-    "ip_address": "2606:54c0:4e48::/45",
-    "ip_type": "IPv6",
-    "region": "PA"
-  },
-  {
-    "ip_address": "2606:54c3:0:240::/64",
-    "ip_type": "IPv6",
-    "region": "PA"
-  },
-  {
-    "ip_address": "2606:54c3:0:16df::/64",
+    "ip_address": "2a04:4e41:3a2d::/48",
     "ip_type": "IPv6",
     "region": "PA"
   },
@@ -407,26 +427,6 @@
   {
     "ip_address": "2a09:bac3:4e48::/45",
     "ip_type": "IPv6",
-    "region": "PA"
-  },
-  {
-    "ip_address": "2a04:4e41:3621::/48",
-    "ip_type": "IPv6",
-    "region": "PA"
-  },
-  {
-    "ip_address": "2a04:4e41:3a2d::/48",
-    "ip_type": "IPv6",
-    "region": "PA"
-  },
-  {
-    "ip_address": "140.248.4.48/31",
-    "ip_type": "IPv4",
-    "region": "PA"
-  },
-  {
-    "ip_address": "140.248.44.78/31",
-    "ip_type": "IPv4",
     "region": "PA"
   }
 ]

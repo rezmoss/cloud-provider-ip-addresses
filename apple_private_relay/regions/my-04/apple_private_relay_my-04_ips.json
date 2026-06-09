@@ -1,65 +1,5 @@
 [
   {
-    "ip_address": "2a02:26f7:c6c0:49de::/64",
-    "ip_type": "IPv6",
-    "region": "MY-04"
-  },
-  {
-    "ip_address": "2a02:26f7:c6c0:49df::/64",
-    "ip_type": "IPv6",
-    "region": "MY-04"
-  },
-  {
-    "ip_address": "2a02:26f7:c6c0:49ef::/64",
-    "ip_type": "IPv6",
-    "region": "MY-04"
-  },
-  {
-    "ip_address": "2a02:26f7:c6c4:49de::/64",
-    "ip_type": "IPv6",
-    "region": "MY-04"
-  },
-  {
-    "ip_address": "2a02:26f7:c6c4:49df::/64",
-    "ip_type": "IPv6",
-    "region": "MY-04"
-  },
-  {
-    "ip_address": "2a02:26f7:c6c4:49ef::/64",
-    "ip_type": "IPv6",
-    "region": "MY-04"
-  },
-  {
-    "ip_address": "2a02:26f7:c6c5:49de::/64",
-    "ip_type": "IPv6",
-    "region": "MY-04"
-  },
-  {
-    "ip_address": "2a02:26f7:c6c5:49df::/64",
-    "ip_type": "IPv6",
-    "region": "MY-04"
-  },
-  {
-    "ip_address": "2a02:26f7:c6c5:49ef::/64",
-    "ip_type": "IPv6",
-    "region": "MY-04"
-  },
-  {
-    "ip_address": "2a02:26f7:c6c8:49de::/64",
-    "ip_type": "IPv6",
-    "region": "MY-04"
-  },
-  {
-    "ip_address": "2a02:26f7:c6c8:49df::/64",
-    "ip_type": "IPv6",
-    "region": "MY-04"
-  },
-  {
-    "ip_address": "2a02:26f7:c6c8:49ef::/64",
-    "ip_type": "IPv6",
-    "region": "MY-04"
-  },
-  {
     "ip_address": "104.28.38.31/32",
     "ip_type": "IPv4",
     "region": "MY-04"
@@ -126,6 +66,66 @@
   },
   {
     "ip_address": "2606:54c3:0:d50::/64",
+    "ip_type": "IPv6",
+    "region": "MY-04"
+  },
+  {
+    "ip_address": "2a02:26f7:c6c0:49de::/64",
+    "ip_type": "IPv6",
+    "region": "MY-04"
+  },
+  {
+    "ip_address": "2a02:26f7:c6c0:49df::/64",
+    "ip_type": "IPv6",
+    "region": "MY-04"
+  },
+  {
+    "ip_address": "2a02:26f7:c6c0:49ef::/64",
+    "ip_type": "IPv6",
+    "region": "MY-04"
+  },
+  {
+    "ip_address": "2a02:26f7:c6c4:49de::/64",
+    "ip_type": "IPv6",
+    "region": "MY-04"
+  },
+  {
+    "ip_address": "2a02:26f7:c6c4:49df::/64",
+    "ip_type": "IPv6",
+    "region": "MY-04"
+  },
+  {
+    "ip_address": "2a02:26f7:c6c4:49ef::/64",
+    "ip_type": "IPv6",
+    "region": "MY-04"
+  },
+  {
+    "ip_address": "2a02:26f7:c6c5:49de::/64",
+    "ip_type": "IPv6",
+    "region": "MY-04"
+  },
+  {
+    "ip_address": "2a02:26f7:c6c5:49df::/64",
+    "ip_type": "IPv6",
+    "region": "MY-04"
+  },
+  {
+    "ip_address": "2a02:26f7:c6c5:49ef::/64",
+    "ip_type": "IPv6",
+    "region": "MY-04"
+  },
+  {
+    "ip_address": "2a02:26f7:c6c8:49de::/64",
+    "ip_type": "IPv6",
+    "region": "MY-04"
+  },
+  {
+    "ip_address": "2a02:26f7:c6c8:49df::/64",
+    "ip_type": "IPv6",
+    "region": "MY-04"
+  },
+  {
+    "ip_address": "2a02:26f7:c6c8:49ef::/64",
     "ip_type": "IPv6",
     "region": "MY-04"
   },

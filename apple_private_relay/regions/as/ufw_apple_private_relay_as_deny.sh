@@ -1,16 +1,34 @@
 #!/bin/bash
 # Apple_private_relay IP Ranges
-# Updated: 2026-02-12 02:01:43
+# Updated: 2026-06-09 22:59:37
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
 # Updates daily at 00:00 UTC
 # UFW deny rules for apple_private_relay
 
+ufw deny from 104.28.29.0/32
+ufw deny from 104.28.29.1/32
+ufw deny from 104.28.35.0/32
+ufw deny from 104.28.35.1/32
+ufw deny from 104.28.72.0/32
+ufw deny from 104.28.72.1/32
+ufw deny from 104.28.90.0/32
+ufw deny from 104.28.90.1/32
+ufw deny from 104.28.125.0/32
+ufw deny from 104.28.125.1/32
+ufw deny from 140.248.20.2/31
+ufw deny from 146.75.132.2/31
+ufw deny from 146.75.136.2/31
+ufw deny from 146.75.160.2/31
+ufw deny from 146.75.207.0/31
+ufw deny from 146.75.212.0/31
 ufw deny from 172.225.64.0/27
 ufw deny from 172.225.230.0/28
 ufw deny from 172.225.244.0/28
 ufw deny from 172.226.77.64/27
+ufw deny from 2606:54c0:d8::/45
+ufw deny from 2606:54c3:0:aff::/64
 ufw deny from 2a02:26f7:f680:4000::/64
 ufw deny from 2a02:26f7:f680:c060::/64
 ufw deny from 2a02:26f7:f681:4000::/64
@@ -23,20 +41,6 @@ ufw deny from 2a02:26f7:f685:4000::/64
 ufw deny from 2a02:26f7:f688:4000::/64
 ufw deny from 2a02:26f7:f688:c060::/64
 ufw deny from 2a02:26f7:f689:4000::/64
-ufw deny from 104.28.29.0/32
-ufw deny from 104.28.29.1/32
-ufw deny from 104.28.35.0/32
-ufw deny from 104.28.35.1/32
-ufw deny from 104.28.72.0/32
-ufw deny from 104.28.72.1/32
-ufw deny from 104.28.90.0/32
-ufw deny from 104.28.90.1/32
-ufw deny from 104.28.125.0/32
-ufw deny from 104.28.125.1/32
-ufw deny from 2606:54c0:d8::/45
-ufw deny from 2606:54c3:0:aff::/64
-ufw deny from 2a09:bac2:d8::/45
-ufw deny from 2a09:bac3:d8::/45
 ufw deny from 2a04:4e41:003b:0000::/64
 ufw deny from 2a04:4e41:2608::/48
 ufw deny from 2a04:4e41:4208::/48
@@ -44,9 +48,5 @@ ufw deny from 2a04:4e41:4ce3::/48
 ufw deny from 2a04:4e41:5e04::/48
 ufw deny from 2a04:4e41:6903::/48
 ufw deny from 2a04:4e41:7604::/48
-ufw deny from 140.248.20.2/31
-ufw deny from 146.75.132.2/31
-ufw deny from 146.75.136.2/31
-ufw deny from 146.75.160.2/31
-ufw deny from 146.75.207.0/31
-ufw deny from 146.75.212.0/31
+ufw deny from 2a09:bac2:d8::/45
+ufw deny from 2a09:bac3:d8::/45

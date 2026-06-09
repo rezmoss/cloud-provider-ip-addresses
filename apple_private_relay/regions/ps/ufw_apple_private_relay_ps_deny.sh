@@ -1,15 +1,27 @@
 #!/bin/bash
 # Apple_private_relay IP Ranges
-# Updated: 2026-02-11 17:28:46
+# Updated: 2026-06-09 22:59:45
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
 # Updates daily at 00:00 UTC
 # UFW deny rules for apple_private_relay
 
+ufw deny from 104.28.62.95/32
+ufw deny from 104.28.62.96/32
+ufw deny from 104.28.80.4/32
+ufw deny from 140.248.34.182/31
+ufw deny from 140.248.36.232/31
+ufw deny from 146.75.132.122/31
+ufw deny from 146.75.160.122/31
+ufw deny from 146.75.169.182/31
 ufw deny from 172.225.48.64/27
 ufw deny from 172.225.188.96/27
 ufw deny from 172.225.227.112/28
+ufw deny from 2606:54c0:4fd8::/45
+ufw deny from 2606:54c0:4fe0::/45
+ufw deny from 2606:54c3:0:12b2::/64
+ufw deny from 2606:54c3:0:16b4::/64
 ufw deny from 2a02:26f7:dd00:4000::/64
 ufw deny from 2a02:26f7:dd00:d000::/64
 ufw deny from 2a02:26f7:dd00:d001::/64
@@ -34,24 +46,12 @@ ufw deny from 2a02:26f7:dd08:d003::/64
 ufw deny from 2a02:26f7:dd08:d004::/64
 ufw deny from 2a02:26f7:dd08:d005::/64
 ufw deny from 2a02:26f7:dd09:4000::/64
-ufw deny from 104.28.62.95/32
-ufw deny from 104.28.62.96/32
-ufw deny from 104.28.80.4/32
-ufw deny from 2606:54c0:4fd8::/45
-ufw deny from 2606:54c0:4fe0::/45
-ufw deny from 2606:54c3:0:12b2::/64
-ufw deny from 2606:54c3:0:16b4::/64
-ufw deny from 2a09:bac2:4fd8::/45
-ufw deny from 2a09:bac2:4fe0::/45
-ufw deny from 2a09:bac3:4fd8::/45
-ufw deny from 2a09:bac3:4fe0::/45
 ufw deny from 2a04:4e41:1421::/48
 ufw deny from 2a04:4e41:1834::/48
 ufw deny from 2a04:4e41:5621::/48
 ufw deny from 2a04:4e41:5e1e::/48
 ufw deny from 2a04:4e41:761e::/48
-ufw deny from 140.248.34.182/31
-ufw deny from 140.248.36.232/31
-ufw deny from 146.75.132.122/31
-ufw deny from 146.75.160.122/31
-ufw deny from 146.75.169.182/31
+ufw deny from 2a09:bac2:4fd8::/45
+ufw deny from 2a09:bac2:4fe0::/45
+ufw deny from 2a09:bac3:4fd8::/45
+ufw deny from 2a09:bac3:4fe0::/45

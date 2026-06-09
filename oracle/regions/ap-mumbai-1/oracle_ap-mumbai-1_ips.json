@@ -30,6 +30,24 @@
     "region": "ap-mumbai-1"
   },
   {
+    "ip_address": "134.70.76.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN,OBJECT_STORAGE",
+    "region": "ap-mumbai-1"
+  },
+  {
+    "ip_address": "140.91.30.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-mumbai-1"
+  },
+  {
+    "ip_address": "140.204.4.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-mumbai-1"
+  },
+  {
     "ip_address": "140.238.160.0/21",
     "ip_type": "IPv4",
     "service": "OCI",
@@ -78,6 +96,12 @@
     "region": "ap-mumbai-1"
   },
   {
+    "ip_address": "147.5.20.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-mumbai-1"
+  },
+  {
     "ip_address": "150.230.232.0/21",
     "ip_type": "IPv4",
     "service": "OCI",
@@ -102,45 +126,15 @@
     "region": "ap-mumbai-1"
   },
   {
-    "ip_address": "168.138.112.0/21",
-    "ip_type": "IPv4",
-    "service": "OCI",
-    "region": "ap-mumbai-1"
-  },
-  {
-    "ip_address": "207.135.16.0/23",
-    "ip_type": "IPv4",
-    "service": "OCI",
-    "region": "ap-mumbai-1"
-  },
-  {
-    "ip_address": "134.70.76.0/22",
-    "ip_type": "IPv4",
-    "service": "OSN,OBJECT_STORAGE",
-    "region": "ap-mumbai-1"
-  },
-  {
-    "ip_address": "140.91.30.0/23",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "ap-mumbai-1"
-  },
-  {
-    "ip_address": "140.204.4.128/25",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "ap-mumbai-1"
-  },
-  {
-    "ip_address": "147.5.20.0/22",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "ap-mumbai-1"
-  },
-  {
     "ip_address": "168.110.240.0/22",
     "ip_type": "IPv4",
     "service": "OSN",
+    "region": "ap-mumbai-1"
+  },
+  {
+    "ip_address": "168.138.112.0/21",
+    "ip_type": "IPv4",
+    "service": "OCI",
     "region": "ap-mumbai-1"
   },
   {
@@ -165,6 +159,12 @@
     "ip_address": "192.29.172.0/24",
     "ip_type": "IPv4",
     "service": "OSN",
+    "region": "ap-mumbai-1"
+  },
+  {
+    "ip_address": "207.135.16.0/23",
+    "ip_type": "IPv4",
+    "service": "OCI",
     "region": "ap-mumbai-1"
   }
 ]

@@ -120,22 +120,27 @@
     "region": "TW-TPE"
   },
   {
+    "ip_address": "146.75.132.160/31",
+    "ip_type": "IPv4",
+    "region": "TW-TPE"
+  },
+  {
+    "ip_address": "146.75.160.160/31",
+    "ip_type": "IPv4",
+    "region": "TW-TPE"
+  },
+  {
+    "ip_address": "146.75.187.52/31",
+    "ip_type": "IPv4",
+    "region": "TW-TPE"
+  },
+  {
     "ip_address": "2606:54c0:5808::/45",
     "ip_type": "IPv6",
     "region": "TW-TPE"
   },
   {
     "ip_address": "2606:54c3:0:159a::/64",
-    "ip_type": "IPv6",
-    "region": "TW-TPE"
-  },
-  {
-    "ip_address": "2a09:bac2:5808::/45",
-    "ip_type": "IPv6",
-    "region": "TW-TPE"
-  },
-  {
-    "ip_address": "2a09:bac3:5808::/45",
     "ip_type": "IPv6",
     "region": "TW-TPE"
   },
@@ -155,18 +160,13 @@
     "region": "TW-TPE"
   },
   {
-    "ip_address": "146.75.132.160/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:5808::/45",
+    "ip_type": "IPv6",
     "region": "TW-TPE"
   },
   {
-    "ip_address": "146.75.160.160/31",
-    "ip_type": "IPv4",
-    "region": "TW-TPE"
-  },
-  {
-    "ip_address": "146.75.187.52/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:5808::/45",
+    "ip_type": "IPv6",
     "region": "TW-TPE"
   }
 ]

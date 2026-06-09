@@ -6,9 +6,9 @@ CREATE TABLE IF NOT EXISTS `apple_private_relay_ru-kem_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
-INSERT INTO `apple_private_relay_ru-kem_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:1403:f000::/52', 'IPv6');
-INSERT INTO `apple_private_relay_ru-kem_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:1804:8000::/52', 'IPv6');
-INSERT INTO `apple_private_relay_ru-kem_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:5603:f000::/52', 'IPv6');
 INSERT INTO `apple_private_relay_ru-kem_ips` (`ip_address`, `ip_type`) VALUES ('140.248.34.198/31', 'IPv4');
 INSERT INTO `apple_private_relay_ru-kem_ips` (`ip_address`, `ip_type`) VALUES ('140.248.36.252/31', 'IPv4');
 INSERT INTO `apple_private_relay_ru-kem_ips` (`ip_address`, `ip_type`) VALUES ('146.75.169.198/31', 'IPv4');
+INSERT INTO `apple_private_relay_ru-kem_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:1403:f000::/52', 'IPv6');
+INSERT INTO `apple_private_relay_ru-kem_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:1804:8000::/52', 'IPv6');
+INSERT INTO `apple_private_relay_ru-kem_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:5603:f000::/52', 'IPv6');

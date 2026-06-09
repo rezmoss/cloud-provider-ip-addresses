@@ -1,5 +1,65 @@
 [
   {
+    "ip_address": "104.28.47.90/32",
+    "ip_type": "IPv4",
+    "region": "BR-AL"
+  },
+  {
+    "ip_address": "104.28.47.91/32",
+    "ip_type": "IPv4",
+    "region": "BR-AL"
+  },
+  {
+    "ip_address": "104.28.61.35/32",
+    "ip_type": "IPv4",
+    "region": "BR-AL"
+  },
+  {
+    "ip_address": "104.28.61.36/32",
+    "ip_type": "IPv4",
+    "region": "BR-AL"
+  },
+  {
+    "ip_address": "104.28.63.87/32",
+    "ip_type": "IPv4",
+    "region": "BR-AL"
+  },
+  {
+    "ip_address": "104.28.63.88/32",
+    "ip_type": "IPv4",
+    "region": "BR-AL"
+  },
+  {
+    "ip_address": "104.28.113.84/32",
+    "ip_type": "IPv4",
+    "region": "BR-AL"
+  },
+  {
+    "ip_address": "104.28.113.85/32",
+    "ip_type": "IPv4",
+    "region": "BR-AL"
+  },
+  {
+    "ip_address": "2606:54c0:5b0::/45",
+    "ip_type": "IPv6",
+    "region": "BR-AL"
+  },
+  {
+    "ip_address": "2606:54c0:5b8::/45",
+    "ip_type": "IPv6",
+    "region": "BR-AL"
+  },
+  {
+    "ip_address": "2606:54c3:0:1c0::/64",
+    "ip_type": "IPv6",
+    "region": "BR-AL"
+  },
+  {
+    "ip_address": "2606:54c3:0:192b::/64",
+    "ip_type": "IPv6",
+    "region": "BR-AL"
+  },
+  {
     "ip_address": "2a02:26f7:e500:5809::/64",
     "ip_type": "IPv6",
     "region": "BR-AL"
@@ -116,66 +176,6 @@
   },
   {
     "ip_address": "2a02:26f7:e530:580a::/64",
-    "ip_type": "IPv6",
-    "region": "BR-AL"
-  },
-  {
-    "ip_address": "104.28.47.90/32",
-    "ip_type": "IPv4",
-    "region": "BR-AL"
-  },
-  {
-    "ip_address": "104.28.47.91/32",
-    "ip_type": "IPv4",
-    "region": "BR-AL"
-  },
-  {
-    "ip_address": "104.28.61.35/32",
-    "ip_type": "IPv4",
-    "region": "BR-AL"
-  },
-  {
-    "ip_address": "104.28.61.36/32",
-    "ip_type": "IPv4",
-    "region": "BR-AL"
-  },
-  {
-    "ip_address": "104.28.63.87/32",
-    "ip_type": "IPv4",
-    "region": "BR-AL"
-  },
-  {
-    "ip_address": "104.28.63.88/32",
-    "ip_type": "IPv4",
-    "region": "BR-AL"
-  },
-  {
-    "ip_address": "104.28.113.84/32",
-    "ip_type": "IPv4",
-    "region": "BR-AL"
-  },
-  {
-    "ip_address": "104.28.113.85/32",
-    "ip_type": "IPv4",
-    "region": "BR-AL"
-  },
-  {
-    "ip_address": "2606:54c0:5b0::/45",
-    "ip_type": "IPv6",
-    "region": "BR-AL"
-  },
-  {
-    "ip_address": "2606:54c0:5b8::/45",
-    "ip_type": "IPv6",
-    "region": "BR-AL"
-  },
-  {
-    "ip_address": "2606:54c3:0:1c0::/64",
-    "ip_type": "IPv6",
-    "region": "BR-AL"
-  },
-  {
-    "ip_address": "2606:54c3:0:192b::/64",
     "ip_type": "IPv6",
     "region": "BR-AL"
   },

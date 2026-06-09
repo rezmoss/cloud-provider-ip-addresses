@@ -1,6 +1,6 @@
 #!/bin/bash
 # Apple_private_relay IP Ranges
-# Updated: 2026-02-11 17:28:48
+# Updated: 2026-06-09 22:59:38
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -84,6 +84,10 @@ iptables -A INPUT -s 104.28.89.82/32 -j ACCEPT
 iptables -A INPUT -s 104.28.89.83/32 -j ACCEPT
 iptables -A INPUT -s 104.28.89.84/32 -j ACCEPT
 iptables -A INPUT -s 104.28.89.88/32 -j ACCEPT
+iptables -A INPUT -s 140.248.40.24/31 -j ACCEPT
+iptables -A INPUT -s 146.75.168.38/31 -j ACCEPT
+iptables -A INPUT -s 146.75.174.12/31 -j ACCEPT
+iptables -A INPUT -s 146.75.185.38/31 -j ACCEPT
 ip6tables -A INPUT -s 2606:54c0:3650::/45 -j ACCEPT
 ip6tables -A INPUT -s 2606:54c0:3658::/45 -j ACCEPT
 ip6tables -A INPUT -s 2606:54c0:3660::/45 -j ACCEPT
@@ -146,6 +150,10 @@ ip6tables -A INPUT -s 2606:54c3:0:18ef::/64 -j ACCEPT
 ip6tables -A INPUT -s 2606:54c3:0:1a13::/64 -j ACCEPT
 ip6tables -A INPUT -s 2606:54c3:0:1a4d::/64 -j ACCEPT
 ip6tables -A INPUT -s 2606:54c3:0:1a89::/64 -j ACCEPT
+ip6tables -A INPUT -s 2a04:4e41:1380::/41 -j ACCEPT
+ip6tables -A INPUT -s 2a04:4e41:1700::/41 -j ACCEPT
+ip6tables -A INPUT -s 2a04:4e41:4e80::/41 -j ACCEPT
+ip6tables -A INPUT -s 2a04:4e41:7500::/41 -j ACCEPT
 ip6tables -A INPUT -s 2a09:bac2:3650::/45 -j ACCEPT
 ip6tables -A INPUT -s 2a09:bac2:3658::/45 -j ACCEPT
 ip6tables -A INPUT -s 2a09:bac2:3660::/45 -j ACCEPT
@@ -208,11 +216,3 @@ ip6tables -A INPUT -s 2a09:bac3:3728::/45 -j ACCEPT
 ip6tables -A INPUT -s 2a09:bac3:3730::/45 -j ACCEPT
 ip6tables -A INPUT -s 2a09:bac3:3738::/45 -j ACCEPT
 ip6tables -A INPUT -s 2a09:bac3:3740::/45 -j ACCEPT
-ip6tables -A INPUT -s 2a04:4e41:1380::/41 -j ACCEPT
-ip6tables -A INPUT -s 2a04:4e41:1700::/41 -j ACCEPT
-ip6tables -A INPUT -s 2a04:4e41:4e80::/41 -j ACCEPT
-ip6tables -A INPUT -s 2a04:4e41:7500::/41 -j ACCEPT
-iptables -A INPUT -s 140.248.40.24/31 -j ACCEPT
-iptables -A INPUT -s 146.75.168.38/31 -j ACCEPT
-iptables -A INPUT -s 146.75.174.12/31 -j ACCEPT
-iptables -A INPUT -s 146.75.185.38/31 -j ACCEPT

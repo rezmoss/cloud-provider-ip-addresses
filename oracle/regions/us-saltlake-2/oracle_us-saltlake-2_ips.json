@@ -1,11 +1,5 @@
 [
   {
-    "ip_address": "151.106.160.0/19",
-    "ip_type": "IPv4",
-    "service": "OCI",
-    "region": "us-saltlake-2"
-  },
-  {
     "ip_address": "134.70.202.0/23",
     "ip_type": "IPv4",
     "service": "OSN,OBJECT_STORAGE",
@@ -27,6 +21,12 @@
     "ip_address": "140.204.136.128/25",
     "ip_type": "IPv4",
     "service": "OSN",
+    "region": "us-saltlake-2"
+  },
+  {
+    "ip_address": "151.106.160.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
     "region": "us-saltlake-2"
   },
   {

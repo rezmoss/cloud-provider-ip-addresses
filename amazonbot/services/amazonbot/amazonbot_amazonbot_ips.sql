@@ -104,6 +104,7 @@ INSERT INTO `amazonbot_amazonbot_ips` (`ip_address`, `ip_type`) VALUES ('18.209.
 INSERT INTO `amazonbot_amazonbot_ips` (`ip_address`, `ip_type`) VALUES ('18.210.58.238/32', 'IPv4');
 INSERT INTO `amazonbot_amazonbot_ips` (`ip_address`, `ip_type`) VALUES ('18.211.39.188/32', 'IPv4');
 INSERT INTO `amazonbot_amazonbot_ips` (`ip_address`, `ip_type`) VALUES ('18.211.148.239/32', 'IPv4');
+INSERT INTO `amazonbot_amazonbot_ips` (`ip_address`, `ip_type`) VALUES ('18.211.242.14/32', 'IPv4');
 INSERT INTO `amazonbot_amazonbot_ips` (`ip_address`, `ip_type`) VALUES ('18.213.27.222/32', 'IPv4');
 INSERT INTO `amazonbot_amazonbot_ips` (`ip_address`, `ip_type`) VALUES ('18.213.70.100/32', 'IPv4');
 INSERT INTO `amazonbot_amazonbot_ips` (`ip_address`, `ip_type`) VALUES ('18.213.102.186/32', 'IPv4');
@@ -202,12 +203,14 @@ INSERT INTO `amazonbot_amazonbot_ips` (`ip_address`, `ip_type`) VALUES ('34.234.
 INSERT INTO `amazonbot_amazonbot_ips` (`ip_address`, `ip_type`) VALUES ('34.234.197.175/32', 'IPv4');
 INSERT INTO `amazonbot_amazonbot_ips` (`ip_address`, `ip_type`) VALUES ('34.234.200.207/32', 'IPv4');
 INSERT INTO `amazonbot_amazonbot_ips` (`ip_address`, `ip_type`) VALUES ('34.234.206.30/32', 'IPv4');
+INSERT INTO `amazonbot_amazonbot_ips` (`ip_address`, `ip_type`) VALUES ('34.235.173.180/32', 'IPv4');
 INSERT INTO `amazonbot_amazonbot_ips` (`ip_address`, `ip_type`) VALUES ('34.235.239.240/32', 'IPv4');
 INSERT INTO `amazonbot_amazonbot_ips` (`ip_address`, `ip_type`) VALUES ('34.236.41.241/32', 'IPv4');
 INSERT INTO `amazonbot_amazonbot_ips` (`ip_address`, `ip_type`) VALUES ('34.236.89.150/32', 'IPv4');
 INSERT INTO `amazonbot_amazonbot_ips` (`ip_address`, `ip_type`) VALUES ('34.236.91.13/32', 'IPv4');
 INSERT INTO `amazonbot_amazonbot_ips` (`ip_address`, `ip_type`) VALUES ('34.236.135.14/32', 'IPv4');
 INSERT INTO `amazonbot_amazonbot_ips` (`ip_address`, `ip_type`) VALUES ('34.236.185.101/32', 'IPv4');
+INSERT INTO `amazonbot_amazonbot_ips` (`ip_address`, `ip_type`) VALUES ('34.236.189.117/32', 'IPv4');
 INSERT INTO `amazonbot_amazonbot_ips` (`ip_address`, `ip_type`) VALUES ('34.238.45.183/32', 'IPv4');
 INSERT INTO `amazonbot_amazonbot_ips` (`ip_address`, `ip_type`) VALUES ('34.239.85.139/32', 'IPv4');
 INSERT INTO `amazonbot_amazonbot_ips` (`ip_address`, `ip_type`) VALUES ('34.239.197.197/32', 'IPv4');
@@ -332,6 +335,7 @@ INSERT INTO `amazonbot_amazonbot_ips` (`ip_address`, `ip_type`) VALUES ('52.6.23
 INSERT INTO `amazonbot_amazonbot_ips` (`ip_address`, `ip_type`) VALUES ('52.7.13.143/32', 'IPv4');
 INSERT INTO `amazonbot_amazonbot_ips` (`ip_address`, `ip_type`) VALUES ('52.7.33.248/32', 'IPv4');
 INSERT INTO `amazonbot_amazonbot_ips` (`ip_address`, `ip_type`) VALUES ('52.20.88.157/32', 'IPv4');
+INSERT INTO `amazonbot_amazonbot_ips` (`ip_address`, `ip_type`) VALUES ('52.20.98.185/32', 'IPv4');
 INSERT INTO `amazonbot_amazonbot_ips` (`ip_address`, `ip_type`) VALUES ('52.21.26.34/32', 'IPv4');
 INSERT INTO `amazonbot_amazonbot_ips` (`ip_address`, `ip_type`) VALUES ('52.21.50.209/32', 'IPv4');
 INSERT INTO `amazonbot_amazonbot_ips` (`ip_address`, `ip_type`) VALUES ('52.21.62.139/32', 'IPv4');
@@ -425,6 +429,7 @@ INSERT INTO `amazonbot_amazonbot_ips` (`ip_address`, `ip_type`) VALUES ('54.156.
 INSERT INTO `amazonbot_amazonbot_ips` (`ip_address`, `ip_type`) VALUES ('54.156.248.117/32', 'IPv4');
 INSERT INTO `amazonbot_amazonbot_ips` (`ip_address`, `ip_type`) VALUES ('54.157.84.74/32', 'IPv4');
 INSERT INTO `amazonbot_amazonbot_ips` (`ip_address`, `ip_type`) VALUES ('54.157.99.244/32', 'IPv4');
+INSERT INTO `amazonbot_amazonbot_ips` (`ip_address`, `ip_type`) VALUES ('54.158.139.192/32', 'IPv4');
 INSERT INTO `amazonbot_amazonbot_ips` (`ip_address`, `ip_type`) VALUES ('54.159.18.27/32', 'IPv4');
 INSERT INTO `amazonbot_amazonbot_ips` (`ip_address`, `ip_type`) VALUES ('54.159.98.248/32', 'IPv4');
 INSERT INTO `amazonbot_amazonbot_ips` (`ip_address`, `ip_type`) VALUES ('54.161.238.223/32', 'IPv4');
@@ -510,6 +515,7 @@ INSERT INTO `amazonbot_amazonbot_ips` (`ip_address`, `ip_type`) VALUES ('100.29.
 INSERT INTO `amazonbot_amazonbot_ips` (`ip_address`, `ip_type`) VALUES ('100.29.160.53/32', 'IPv4');
 INSERT INTO `amazonbot_amazonbot_ips` (`ip_address`, `ip_type`) VALUES ('100.29.164.142/32', 'IPv4');
 INSERT INTO `amazonbot_amazonbot_ips` (`ip_address`, `ip_type`) VALUES ('100.29.164.178/32', 'IPv4');
+INSERT INTO `amazonbot_amazonbot_ips` (`ip_address`, `ip_type`) VALUES ('100.51.173.237/32', 'IPv4');
 INSERT INTO `amazonbot_amazonbot_ips` (`ip_address`, `ip_type`) VALUES ('107.20.25.33/32', 'IPv4');
 INSERT INTO `amazonbot_amazonbot_ips` (`ip_address`, `ip_type`) VALUES ('107.20.181.148/32', 'IPv4');
 INSERT INTO `amazonbot_amazonbot_ips` (`ip_address`, `ip_type`) VALUES ('107.20.224.184/32', 'IPv4');
@@ -524,9 +530,3 @@ INSERT INTO `amazonbot_amazonbot_ips` (`ip_address`, `ip_type`) VALUES ('184.73.
 INSERT INTO `amazonbot_amazonbot_ips` (`ip_address`, `ip_type`) VALUES ('184.73.167.217/32', 'IPv4');
 INSERT INTO `amazonbot_amazonbot_ips` (`ip_address`, `ip_type`) VALUES ('184.73.195.18/32', 'IPv4');
 INSERT INTO `amazonbot_amazonbot_ips` (`ip_address`, `ip_type`) VALUES ('184.73.239.35/32', 'IPv4');
-INSERT INTO `amazonbot_amazonbot_ips` (`ip_address`, `ip_type`) VALUES ('18.211.242.14/32', 'IPv4');
-INSERT INTO `amazonbot_amazonbot_ips` (`ip_address`, `ip_type`) VALUES ('54.158.139.192/32', 'IPv4');
-INSERT INTO `amazonbot_amazonbot_ips` (`ip_address`, `ip_type`) VALUES ('100.51.173.237/32', 'IPv4');
-INSERT INTO `amazonbot_amazonbot_ips` (`ip_address`, `ip_type`) VALUES ('34.235.173.180/32', 'IPv4');
-INSERT INTO `amazonbot_amazonbot_ips` (`ip_address`, `ip_type`) VALUES ('34.236.189.117/32', 'IPv4');
-INSERT INTO `amazonbot_amazonbot_ips` (`ip_address`, `ip_type`) VALUES ('52.20.98.185/32', 'IPv4');

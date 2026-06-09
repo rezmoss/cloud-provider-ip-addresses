@@ -1,1841 +1,5 @@
 [
   {
-    "ip_address": "20.228.34.17/32",
-    "ip_type": "IPv4",
-    "service": "ActionGroup.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.228.34.19/32",
-    "ip_type": "IPv4",
-    "service": "ActionGroup.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "168.61.142.52/30",
-    "ip_type": "IPv4",
-    "service": "ActionGroup.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "168.61.239.12/30",
-    "ip_type": "IPv4",
-    "service": "ActionGroup.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:4::39c/126",
-    "ip_type": "IPv6",
-    "service": "ActionGroup.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:400::978/125",
-    "ip_type": "IPv6",
-    "service": "ActionGroup.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.46.13.224/28",
-    "ip_type": "IPv4",
-    "service": "ApiManagement.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "40.78.202.128/31",
-    "ip_type": "IPv4",
-    "service": "ApiManagement.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "40.78.203.160/28",
-    "ip_type": "IPv4",
-    "service": "ApiManagement.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "52.253.159.160/32",
-    "ip_type": "IPv4",
-    "service": "ApiManagement.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:2::490/124",
-    "ip_type": "IPv6",
-    "service": "ApiManagement.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:400::940/124",
-    "ip_type": "IPv6",
-    "service": "ApiManagement.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.45.196.16/29",
-    "ip_type": "IPv4",
-    "service": "AppService.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.45.242.176/29",
-    "ip_type": "IPv4",
-    "service": "AppService.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.45.243.0/24",
-    "ip_type": "IPv4",
-    "service": "AppService.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.45.244.0/25",
-    "ip_type": "IPv4",
-    "service": "AppService.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "40.78.204.160/27",
-    "ip_type": "IPv4",
-    "service": "AppService.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "52.180.178.6/32",
-    "ip_type": "IPv4",
-    "service": "AppService.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "52.180.183.66/32",
-    "ip_type": "IPv4",
-    "service": "AppService.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "104.208.48.107/32",
-    "ip_type": "IPv4",
-    "service": "AppService.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:4::/119",
-    "ip_type": "IPv6",
-    "service": "AppService.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:400::8a0/123",
-    "ip_type": "IPv6",
-    "service": "AppService.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.45.242.144/28",
-    "ip_type": "IPv4",
-    "service": "AppServiceManagement.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "52.180.179.14/32",
-    "ip_type": "IPv4",
-    "service": "AppServiceManagement.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "104.208.54.11/32",
-    "ip_type": "IPv4",
-    "service": "AppServiceManagement.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "168.61.143.0/26",
-    "ip_type": "IPv4",
-    "service": "AppServiceManagement.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "168.61.229.64/29",
-    "ip_type": "IPv4",
-    "service": "AppServiceManagement.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:3::700/123",
-    "ip_type": "IPv6",
-    "service": "AppServiceManagement.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:400::900/122",
-    "ip_type": "IPv6",
-    "service": "AppServiceManagement.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.45.197.224/30",
-    "ip_type": "IPv4",
-    "service": "AzureArcInfrastructure.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.45.199.32/30",
-    "ip_type": "IPv4",
-    "service": "AzureArcInfrastructure.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.45.208.12/30",
-    "ip_type": "IPv4",
-    "service": "AzureArcInfrastructure.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.45.208.40/30",
-    "ip_type": "IPv4",
-    "service": "AzureArcInfrastructure.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "40.78.204.46/32",
-    "ip_type": "IPv4",
-    "service": "AzureArcInfrastructure.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "134.138.220.80/32",
-    "ip_type": "IPv4",
-    "service": "AzureArcInfrastructure.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "168.61.233.50/31",
-    "ip_type": "IPv4",
-    "service": "AzureArcInfrastructure.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "168.61.233.56/29",
-    "ip_type": "IPv4",
-    "service": "AzureArcInfrastructure.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:f::604/127",
-    "ip_type": "IPv6",
-    "service": "AzureArcInfrastructure.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.46.11.4/30",
-    "ip_type": "IPv4",
-    "service": "AzureAttestation.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "134.138.246.140/30",
-    "ip_type": "IPv4",
-    "service": "AzureAttestation.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "134.138.246.144/29",
-    "ip_type": "IPv4",
-    "service": "AzureAttestation.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "168.61.140.108/30",
-    "ip_type": "IPv4",
-    "service": "AzureAttestation.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "172.215.123.104/29",
-    "ip_type": "IPv4",
-    "service": "AzureAttestation.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:2::4c0/123",
-    "ip_type": "IPv6",
-    "service": "AzureAttestation.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.46.12.0/25",
-    "ip_type": "IPv4",
-    "service": "AzureBackup.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "40.78.202.160/27",
-    "ip_type": "IPv4",
-    "service": "AzureBackup.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "40.78.202.192/26",
-    "ip_type": "IPv4",
-    "service": "AzureBackup.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:2::580/121",
-    "ip_type": "IPv6",
-    "service": "AzureBackup.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:400::a00/121",
-    "ip_type": "IPv6",
-    "service": "AzureBackup.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.45.192.64/30",
-    "ip_type": "IPv4",
-    "service": "AzureBotService.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "40.78.202.132/30",
-    "ip_type": "IPv4",
-    "service": "AzureBotService.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:1::20/123",
-    "ip_type": "IPv6",
-    "service": "AzureBotService.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.45.192.128/26",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:1::180/121",
-    "ip_type": "IPv6",
-    "service": "AzureCognitiveSearch.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.45.240.112/28",
-    "ip_type": "IPv4",
-    "service": "AzureConnectors.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.45.241.128/27",
-    "ip_type": "IPv4",
-    "service": "AzureConnectors.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.45.250.177/32",
-    "ip_type": "IPv4",
-    "service": "AzureConnectors.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.228.37.79/32",
-    "ip_type": "IPv4",
-    "service": "AzureConnectors.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "40.78.202.96/28",
-    "ip_type": "IPv4",
-    "service": "AzureConnectors.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "52.180.164.214/32",
-    "ip_type": "IPv4",
-    "service": "AzureConnectors.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "168.61.140.0/27",
-    "ip_type": "IPv4",
-    "service": "AzureConnectors.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "168.61.143.64/26",
-    "ip_type": "IPv4",
-    "service": "AzureConnectors.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:400::980/122",
-    "ip_type": "IPv6",
-    "service": "AzureConnectors.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.45.199.128/25",
-    "ip_type": "IPv4",
-    "service": "AzureContainerRegistry.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "40.78.202.72/29",
-    "ip_type": "IPv4",
-    "service": "AzureContainerRegistry.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "168.61.140.128/25",
-    "ip_type": "IPv4",
-    "service": "AzureContainerRegistry.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "168.61.141.0/25",
-    "ip_type": "IPv4",
-    "service": "AzureContainerRegistry.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "168.61.141.128/25",
-    "ip_type": "IPv4",
-    "service": "AzureContainerRegistry.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "168.61.142.192/26",
-    "ip_type": "IPv4",
-    "service": "AzureContainerRegistry.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:1::2a8/125",
-    "ip_type": "IPv6",
-    "service": "AzureContainerRegistry.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:8::580/122",
-    "ip_type": "IPv6",
-    "service": "AzureContainerRegistry.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:400::890/125",
-    "ip_type": "IPv6",
-    "service": "AzureContainerRegistry.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:400::b40/122",
-    "ip_type": "IPv6",
-    "service": "AzureContainerRegistry.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:400::d80/122",
-    "ip_type": "IPv6",
-    "service": "AzureContainerRegistry.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:400::e00/121",
-    "ip_type": "IPv6",
-    "service": "AzureContainerRegistry.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.45.198.96/27",
-    "ip_type": "IPv4",
-    "service": "AzureCosmosDB.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.45.252.228/32",
-    "ip_type": "IPv4",
-    "service": "AzureCosmosDB.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.45.253.14/32",
-    "ip_type": "IPv4",
-    "service": "AzureCosmosDB.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.228.4.64/26",
-    "ip_type": "IPv4",
-    "service": "AzureCosmosDB.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.228.6.64/26",
-    "ip_type": "IPv4",
-    "service": "AzureCosmosDB.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.228.6.128/25",
-    "ip_type": "IPv4",
-    "service": "AzureCosmosDB.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "40.78.203.32/27",
-    "ip_type": "IPv4",
-    "service": "AzureCosmosDB.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "52.176.250.55/32",
-    "ip_type": "IPv4",
-    "service": "AzureCosmosDB.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "52.176.251.41/32",
-    "ip_type": "IPv4",
-    "service": "AzureCosmosDB.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "52.176.251.87/32",
-    "ip_type": "IPv4",
-    "service": "AzureCosmosDB.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "52.180.177.137/32",
-    "ip_type": "IPv4",
-    "service": "AzureCosmosDB.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "168.61.142.128/26",
-    "ip_type": "IPv4",
-    "service": "AzureCosmosDB.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:2::2a0/123",
-    "ip_type": "IPv6",
-    "service": "AzureCosmosDB.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:a::40/122",
-    "ip_type": "IPv6",
-    "service": "AzureCosmosDB.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:400::8c0/122",
-    "ip_type": "IPv6",
-    "service": "AzureCosmosDB.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.46.13.240/28",
-    "ip_type": "IPv4",
-    "service": "AzureDataExplorerManagement.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "40.78.203.176/28",
-    "ip_type": "IPv4",
-    "service": "AzureDataExplorerManagement.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "40.89.56.69/32",
-    "ip_type": "IPv4",
-    "service": "AzureDataExplorerManagement.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "52.253.159.186/32",
-    "ip_type": "IPv4",
-    "service": "AzureDataExplorerManagement.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:2::380/121",
-    "ip_type": "IPv6",
-    "service": "AzureDataExplorerManagement.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:400::950/124",
-    "ip_type": "IPv6",
-    "service": "AzureDataExplorerManagement.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.45.196.64/26",
-    "ip_type": "IPv4",
-    "service": "AzureDevOps.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:e::380/122",
-    "ip_type": "IPv6",
-    "service": "AzureDevOps.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.46.10.56/29",
-    "ip_type": "IPv4",
-    "service": "AzureDigitalTwins.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.46.10.96/27",
-    "ip_type": "IPv4",
-    "service": "AzureDigitalTwins.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:2::500/121",
-    "ip_type": "IPv6",
-    "service": "AzureDigitalTwins.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.45.195.0/25",
-    "ip_type": "IPv4",
-    "service": "AzureEventGrid.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.111.136.0/25",
-    "ip_type": "IPv4",
-    "service": "AzureEventGrid.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.111.139.0/24",
-    "ip_type": "IPv4",
-    "service": "AzureEventGrid.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.111.140.0/22",
-    "ip_type": "IPv4",
-    "service": "AzureEventGrid.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "57.173.0.0/23",
-    "ip_type": "IPv4",
-    "service": "AzureEventGrid.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:1::380/121",
-    "ip_type": "IPv6",
-    "service": "AzureEventGrid.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.45.240.128/25",
-    "ip_type": "IPv4",
-    "service": "EventHub.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.45.241.0/26",
-    "ip_type": "IPv4",
-    "service": "EventHub.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.46.15.64/26",
-    "ip_type": "IPv4",
-    "service": "EventHub.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "40.78.202.32/27",
-    "ip_type": "IPv4",
-    "service": "EventHub.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "168.61.143.128/26",
-    "ip_type": "IPv4",
-    "service": "EventHub.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:1::240/122",
-    "ip_type": "IPv6",
-    "service": "EventHub.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:3::200/122",
-    "ip_type": "IPv6",
-    "service": "EventHub.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:3::400/120",
-    "ip_type": "IPv6",
-    "service": "EventHub.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:400::9c0/123",
-    "ip_type": "IPv6",
-    "service": "EventHub.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.45.198.32/27",
-    "ip_type": "IPv4",
-    "service": "AzureIoTHub.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.45.198.128/25",
-    "ip_type": "IPv4",
-    "service": "AzureIoTHub.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "40.78.204.64/27",
-    "ip_type": "IPv4",
-    "service": "AzureIoTHub.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "52.180.165.88/32",
-    "ip_type": "IPv4",
-    "service": "AzureIoTHub.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "52.180.165.248/32",
-    "ip_type": "IPv4",
-    "service": "AzureIoTHub.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "52.180.177.125/32",
-    "ip_type": "IPv4",
-    "service": "AzureIoTHub.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:400::b00/123",
-    "ip_type": "IPv6",
-    "service": "AzureIoTHub.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.45.208.8/30",
-    "ip_type": "IPv4",
-    "service": "AzureKeyVault.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.45.241.176/29",
-    "ip_type": "IPv4",
-    "service": "AzureKeyVault.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.46.11.248/29",
-    "ip_type": "IPv4",
-    "service": "AzureKeyVault.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.46.12.192/30",
-    "ip_type": "IPv4",
-    "service": "AzureKeyVault.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:1::100/124",
-    "ip_type": "IPv6",
-    "service": "AzureKeyVault.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:1::110/125",
-    "ip_type": "IPv6",
-    "service": "AzureKeyVault.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:1::2a0/125",
-    "ip_type": "IPv6",
-    "service": "AzureKeyVault.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:400::880/125",
-    "ip_type": "IPv6",
-    "service": "AzureKeyVault.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.45.240.64/28",
-    "ip_type": "IPv4",
-    "service": "AzureMachineLearning.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.46.13.192/28",
-    "ip_type": "IPv4",
-    "service": "AzureMachineLearning.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "40.78.202.80/28",
-    "ip_type": "IPv4",
-    "service": "AzureMachineLearning.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:1::300/122",
-    "ip_type": "IPv6",
-    "service": "AzureMachineLearning.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.45.208.32/29",
-    "ip_type": "IPv4",
-    "service": "AzureMonitor.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.46.10.224/27",
-    "ip_type": "IPv4",
-    "service": "AzureMonitor.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.46.12.196/30",
-    "ip_type": "IPv4",
-    "service": "AzureMonitor.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.46.13.216/29",
-    "ip_type": "IPv4",
-    "service": "AzureMonitor.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.46.15.48/29",
-    "ip_type": "IPv4",
-    "service": "AzureMonitor.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "40.78.202.144/28",
-    "ip_type": "IPv4",
-    "service": "AzureMonitor.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "40.78.203.240/29",
-    "ip_type": "IPv4",
-    "service": "AzureMonitor.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "52.180.160.132/32",
-    "ip_type": "IPv4",
-    "service": "AzureMonitor.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "52.180.164.91/32",
-    "ip_type": "IPv4",
-    "service": "AzureMonitor.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "52.180.178.187/32",
-    "ip_type": "IPv4",
-    "service": "AzureMonitor.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "52.180.182.209/32",
-    "ip_type": "IPv4",
-    "service": "AzureMonitor.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "134.138.212.16/28",
-    "ip_type": "IPv4",
-    "service": "AzureMonitor.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "168.61.142.0/27",
-    "ip_type": "IPv4",
-    "service": "AzureMonitor.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "168.61.239.96/27",
-    "ip_type": "IPv4",
-    "service": "AzureMonitor.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "168.61.241.64/26",
-    "ip_type": "IPv4",
-    "service": "AzureMonitor.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "172.215.122.0/24",
-    "ip_type": "IPv4",
-    "service": "AzureMonitor.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:8:5::8/128",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:1::780/121",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:2::280/123",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:2::300/121",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:a::c0/123",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:a::100/122",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:f::500/120",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:400::d00/121",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.45.192.192/28",
-    "ip_type": "IPv4",
-    "service": "AzureOpenDatasets.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.45.195.160/27",
-    "ip_type": "IPv4",
-    "service": "AzurePortal.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.45.197.192/27",
-    "ip_type": "IPv4",
-    "service": "AzurePortal.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.45.197.228/30",
-    "ip_type": "IPv4",
-    "service": "AzurePortal.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.46.10.40/29",
-    "ip_type": "IPv4",
-    "service": "AzurePortal.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:1::700/121",
-    "ip_type": "IPv6",
-    "service": "AzurePortal.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.46.8.0/23",
-    "ip_type": "IPv4",
-    "service": "AzureResourceManager.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "40.78.203.224/28",
-    "ip_type": "IPv4",
-    "service": "AzureResourceManager.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "40.78.206.0/23",
-    "ip_type": "IPv4",
-    "service": "AzureResourceManager.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "168.61.138.0/23",
-    "ip_type": "IPv4",
-    "service": "AzureResourceManager.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "168.61.143.192/26",
-    "ip_type": "IPv4",
-    "service": "AzureResourceManager.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:1::6c0/122",
-    "ip_type": "IPv6",
-    "service": "AzureResourceManager.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:2::700/120",
-    "ip_type": "IPv6",
-    "service": "AzureResourceManager.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:400::a80/122",
-    "ip_type": "IPv6",
-    "service": "AzureResourceManager.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.46.11.32/27",
-    "ip_type": "IPv4",
-    "service": "Sql.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.46.11.64/27",
-    "ip_type": "IPv4",
-    "service": "Sql.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.46.11.128/26",
-    "ip_type": "IPv4",
-    "service": "Sql.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.228.5.128/25",
-    "ip_type": "IPv4",
-    "service": "Sql.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "40.78.200.128/29",
-    "ip_type": "IPv4",
-    "service": "Sql.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "40.78.201.128/29",
-    "ip_type": "IPv4",
-    "service": "Sql.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "52.180.176.154/32",
-    "ip_type": "IPv4",
-    "service": "Sql.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "52.180.183.226/32",
-    "ip_type": "IPv4",
-    "service": "Sql.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "168.61.136.0/27",
-    "ip_type": "IPv4",
-    "service": "Sql.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "168.61.137.0/27",
-    "ip_type": "IPv4",
-    "service": "Sql.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:1::280/123",
-    "ip_type": "IPv6",
-    "service": "Sql.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:2::200/121",
-    "ip_type": "IPv6",
-    "service": "Sql.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:8::80/121",
-    "ip_type": "IPv6",
-    "service": "Sql.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:402::/122",
-    "ip_type": "IPv6",
-    "service": "Sql.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:403::/122",
-    "ip_type": "IPv6",
-    "service": "Sql.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "168.61.140.64/27",
-    "ip_type": "IPv4",
-    "service": "AzureSecurityCenter.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.45.240.0/26",
-    "ip_type": "IPv4",
-    "service": "ServiceBus.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.45.241.64/26",
-    "ip_type": "IPv4",
-    "service": "ServiceBus.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "40.78.202.16/28",
-    "ip_type": "IPv4",
-    "service": "ServiceBus.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "168.61.142.56/29",
-    "ip_type": "IPv4",
-    "service": "ServiceBus.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "168.61.245.192/26",
-    "ip_type": "IPv4",
-    "service": "ServiceBus.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:1::220/123",
-    "ip_type": "IPv6",
-    "service": "ServiceBus.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:3::240/122",
-    "ip_type": "IPv6",
-    "service": "ServiceBus.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:3::300/120",
-    "ip_type": "IPv6",
-    "service": "ServiceBus.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:400::970/125",
-    "ip_type": "IPv6",
-    "service": "ServiceBus.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.46.11.96/27",
-    "ip_type": "IPv4",
-    "service": "AzureSignalR.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "40.78.204.96/27",
-    "ip_type": "IPv4",
-    "service": "AzureSignalR.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "172.215.76.128/27",
-    "ip_type": "IPv4",
-    "service": "AzureSignalR.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:3::500/120",
-    "ip_type": "IPv6",
-    "service": "AzureSignalR.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.33.212.0/24",
-    "ip_type": "IPv4",
-    "service": "Storage.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.47.5.0/24",
-    "ip_type": "IPv4",
-    "service": "Storage.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.60.24.0/23",
-    "ip_type": "IPv4",
-    "service": "Storage.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.150.23.0/24",
-    "ip_type": "IPv4",
-    "service": "Storage.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.150.47.0/25",
-    "ip_type": "IPv4",
-    "service": "Storage.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.153.69.192/26",
-    "ip_type": "IPv4",
-    "service": "Storage.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.153.77.0/24",
-    "ip_type": "IPv4",
-    "service": "Storage.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.153.120.0/24",
-    "ip_type": "IPv4",
-    "service": "Storage.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.157.235.0/24",
-    "ip_type": "IPv4",
-    "service": "Storage.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.209.124.0/23",
-    "ip_type": "IPv4",
-    "service": "Storage.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "40.83.24.96/27",
-    "ip_type": "IPv4",
-    "service": "Storage.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "52.165.104.144/28",
-    "ip_type": "IPv4",
-    "service": "Storage.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "52.165.104.160/28",
-    "ip_type": "IPv4",
-    "service": "Storage.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "52.185.112.80/28",
-    "ip_type": "IPv4",
-    "service": "Storage.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "52.239.177.0/27",
-    "ip_type": "IPv4",
-    "service": "Storage.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "52.239.238.0/24",
-    "ip_type": "IPv4",
-    "service": "Storage.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "57.150.126.0/23",
-    "ip_type": "IPv4",
-    "service": "Storage.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "57.163.8.0/23",
-    "ip_type": "IPv4",
-    "service": "Storage.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "135.130.247.0/24",
-    "ip_type": "IPv4",
-    "service": "Storage.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "135.130.252.0/25",
-    "ip_type": "IPv4",
-    "service": "Storage.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "135.130.254.0/23",
-    "ip_type": "IPv4",
-    "service": "Storage.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:12::/49",
-    "ip_type": "IPv6",
-    "service": "Storage.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:12:8000::/64",
-    "ip_type": "IPv6",
-    "service": "Storage.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.45.195.192/27",
-    "ip_type": "IPv4",
-    "service": "BatchNodeManagement.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "40.78.203.0/27",
-    "ip_type": "IPv4",
-    "service": "BatchNodeManagement.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "52.180.176.58/32",
-    "ip_type": "IPv4",
-    "service": "BatchNodeManagement.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "52.180.177.108/32",
-    "ip_type": "IPv4",
-    "service": "BatchNodeManagement.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "52.180.177.206/32",
-    "ip_type": "IPv4",
-    "service": "BatchNodeManagement.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "52.180.179.94/32",
-    "ip_type": "IPv4",
-    "service": "BatchNodeManagement.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "52.180.181.0/32",
-    "ip_type": "IPv4",
-    "service": "BatchNodeManagement.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "52.180.181.239/32",
-    "ip_type": "IPv4",
-    "service": "BatchNodeManagement.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:1::400/122",
-    "ip_type": "IPv6",
-    "service": "BatchNodeManagement.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.45.208.16/28",
-    "ip_type": "IPv4",
-    "service": "DataFactory.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.228.5.112/28",
-    "ip_type": "IPv4",
-    "service": "DataFactory.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.228.7.0/25",
-    "ip_type": "IPv4",
-    "service": "DataFactory.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.228.7.128/26",
-    "ip_type": "IPv4",
-    "service": "DataFactory.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "40.122.0.16/28",
-    "ip_type": "IPv4",
-    "service": "DataFactory.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "52.176.232.16/28",
-    "ip_type": "IPv4",
-    "service": "DataFactory.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "168.61.229.72/29",
-    "ip_type": "IPv4",
-    "service": "DataFactory.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "168.61.229.160/29",
-    "ip_type": "IPv4",
-    "service": "DataFactory.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "172.215.36.224/27",
-    "ip_type": "IPv4",
-    "service": "DataFactory.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:1::440/122",
-    "ip_type": "IPv6",
-    "service": "DataFactory.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:1::500/121",
-    "ip_type": "IPv6",
-    "service": "DataFactory.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:400::b30/124",
-    "ip_type": "IPv6",
-    "service": "DataFactory.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:800::40/126",
-    "ip_type": "IPv6",
-    "service": "DataFactory.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.45.192.72/29",
-    "ip_type": "IPv4",
-    "service": "GatewayManager.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.46.13.128/26",
-    "ip_type": "IPv4",
-    "service": "GatewayManager.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "40.78.202.112/29",
-    "ip_type": "IPv4",
-    "service": "GatewayManager.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "52.180.182.210/32",
-    "ip_type": "IPv4",
-    "service": "GatewayManager.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "52.253.157.2/32",
-    "ip_type": "IPv4",
-    "service": "GatewayManager.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "52.253.159.209/32",
-    "ip_type": "IPv4",
-    "service": "GatewayManager.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "52.253.232.235/32",
-    "ip_type": "IPv4",
-    "service": "GatewayManager.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "52.253.239.162/32",
-    "ip_type": "IPv4",
-    "service": "GatewayManager.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:1::40/122",
-    "ip_type": "IPv6",
-    "service": "GatewayManager.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.45.198.80/29",
-    "ip_type": "IPv4",
-    "service": "HDInsight.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "40.78.202.136/29",
-    "ip_type": "IPv4",
-    "service": "HDInsight.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "52.180.183.49/32",
-    "ip_type": "IPv4",
-    "service": "HDInsight.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "52.180.183.58/32",
-    "ip_type": "IPv4",
-    "service": "HDInsight.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:2::4b0/124",
-    "ip_type": "IPv6",
-    "service": "HDInsight.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:400::b20/124",
-    "ip_type": "IPv6",
-    "service": "HDInsight.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.45.245.152/29",
-    "ip_type": "IPv4",
-    "service": "LogicApps.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.45.245.160/28",
-    "ip_type": "IPv4",
-    "service": "LogicApps.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.45.245.176/29",
-    "ip_type": "IPv4",
-    "service": "LogicApps.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "40.78.204.208/28",
-    "ip_type": "IPv4",
-    "service": "LogicApps.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "40.78.204.224/27",
-    "ip_type": "IPv4",
-    "service": "LogicApps.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "172.215.35.112/28",
-    "ip_type": "IPv4",
-    "service": "LogicApps.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:400::bc0/124",
-    "ip_type": "IPv6",
-    "service": "LogicApps.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:400::be0/123",
-    "ip_type": "IPv6",
-    "service": "LogicApps.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "172.215.37.14/31",
-    "ip_type": "IPv4",
-    "service": "MicrosoftCloudAppSecurity.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "172.215.37.136/29",
-    "ip_type": "IPv4",
-    "service": "MicrosoftCloudAppSecurity.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "40.78.202.64/29",
-    "ip_type": "IPv4",
-    "service": "MicrosoftContainerRegistry.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:400::888/125",
-    "ip_type": "IPv6",
-    "service": "MicrosoftContainerRegistry.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.45.192.122/31",
-    "ip_type": "IPv4",
-    "service": "PowerBI.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.45.192.124/31",
-    "ip_type": "IPv4",
-    "service": "PowerBI.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.45.192.208/30",
-    "ip_type": "IPv4",
-    "service": "PowerBI.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.45.192.216/29",
-    "ip_type": "IPv4",
-    "service": "PowerBI.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.45.192.224/28",
-    "ip_type": "IPv4",
-    "service": "PowerBI.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.45.242.48/29",
-    "ip_type": "IPv4",
-    "service": "PowerBI.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.46.15.56/30",
-    "ip_type": "IPv4",
-    "service": "PowerBI.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "168.61.232.60/30",
-    "ip_type": "IPv4",
-    "service": "PowerBI.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "168.61.239.8/30",
-    "ip_type": "IPv4",
-    "service": "PowerBI.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "172.215.113.56/29",
-    "ip_type": "IPv4",
-    "service": "PowerBI.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "172.215.115.128/27",
-    "ip_type": "IPv4",
-    "service": "PowerBI.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:1::620/123",
-    "ip_type": "IPv6",
-    "service": "PowerBI.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:1::640/122",
-    "ip_type": "IPv6",
-    "service": "PowerBI.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.45.192.120/31",
-    "ip_type": "IPv4",
-    "service": "PowerQueryOnline.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.45.208.62/31",
-    "ip_type": "IPv4",
-    "service": "PowerQueryOnline.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.228.0.46/31",
-    "ip_type": "IPv4",
-    "service": "PowerQueryOnline.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.228.1.64/29",
-    "ip_type": "IPv4",
-    "service": "PowerQueryOnline.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "168.61.245.0/29",
-    "ip_type": "IPv4",
-    "service": "PowerQueryOnline.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "172.215.35.192/28",
-    "ip_type": "IPv4",
-    "service": "PowerQueryOnline.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:1::200/123",
-    "ip_type": "IPv6",
-    "service": "PowerQueryOnline.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:400::960/125",
-    "ip_type": "IPv6",
-    "service": "PowerQueryOnline.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "168.61.140.96/29",
-    "ip_type": "IPv4",
-    "service": "SCCservice.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "40.78.202.120/29",
-    "ip_type": "IPv4",
-    "service": "ServiceFabric.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "52.180.176.84/32",
-    "ip_type": "IPv4",
-    "service": "ServiceFabric.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "168.61.142.48/30",
-    "ip_type": "IPv4",
-    "service": "ServiceFabric.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:400::898/125",
-    "ip_type": "IPv6",
-    "service": "ServiceFabric.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.45.192.248/29",
-    "ip_type": "IPv4",
-    "service": "StorageSyncService.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.45.208.0/29",
-    "ip_type": "IPv4",
-    "service": "StorageSyncService.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.228.2.32/29",
-    "ip_type": "IPv4",
-    "service": "StorageSyncService.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:1::340/123",
-    "ip_type": "IPv6",
-    "service": "StorageSyncService.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1030:f:400::dc0/123",
-    "ip_type": "IPv6",
-    "service": "StorageSyncService.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "2603:1061:2010:1e::/117",
-    "ip_type": "IPv6",
-    "service": "WindowsVirtualDesktop.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
     "ip_address": "13.67.153.16/28",
     "ip_type": "IPv4",
     "service": "AzureCloud.centraluseuap",
@@ -1884,9 +48,321 @@
     "region": "centraluseuap"
   },
   {
+    "ip_address": "20.33.212.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
     "ip_address": "20.45.192.0/18",
     "ip_type": "IPv4",
     "service": "AzureCloud.centraluseuap",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.45.192.64/30",
+    "ip_type": "IPv4",
+    "service": "AzureBotService.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.45.192.72/29",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.45.192.120/31",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.45.192.122/31",
+    "ip_type": "IPv4",
+    "service": "PowerBI.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.45.192.124/31",
+    "ip_type": "IPv4",
+    "service": "PowerBI.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.45.192.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureCognitiveSearch.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.45.192.192/28",
+    "ip_type": "IPv4",
+    "service": "AzureOpenDatasets.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.45.192.208/30",
+    "ip_type": "IPv4",
+    "service": "PowerBI.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.45.192.216/29",
+    "ip_type": "IPv4",
+    "service": "PowerBI.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.45.192.224/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.45.192.248/29",
+    "ip_type": "IPv4",
+    "service": "StorageSyncService.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.45.195.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.45.195.160/27",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.45.195.192/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.45.196.16/29",
+    "ip_type": "IPv4",
+    "service": "AppService.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.45.196.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureDevOps.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.45.197.192/27",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.45.197.224/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.45.197.228/30",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.45.198.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.45.198.80/29",
+    "ip_type": "IPv4",
+    "service": "HDInsight.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.45.198.96/27",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.45.198.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.45.199.32/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.45.199.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.45.208.0/29",
+    "ip_type": "IPv4",
+    "service": "StorageSyncService.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.45.208.8/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.45.208.12/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.45.208.16/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.45.208.32/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.45.208.40/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.45.208.62/31",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.45.240.0/26",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.45.240.64/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.45.240.112/28",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.45.240.128/25",
+    "ip_type": "IPv4",
+    "service": "EventHub.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.45.241.0/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.45.241.64/26",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.45.241.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.45.241.176/29",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.45.242.48/29",
+    "ip_type": "IPv4",
+    "service": "PowerBI.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.45.242.144/28",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.45.242.176/29",
+    "ip_type": "IPv4",
+    "service": "AppService.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.45.243.0/24",
+    "ip_type": "IPv4",
+    "service": "AppService.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.45.244.0/25",
+    "ip_type": "IPv4",
+    "service": "AppService.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.45.245.152/29",
+    "ip_type": "IPv4",
+    "service": "LogicApps.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.45.245.160/28",
+    "ip_type": "IPv4",
+    "service": "LogicApps.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.45.245.176/29",
+    "ip_type": "IPv4",
+    "service": "LogicApps.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.45.250.177/32",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.45.252.228/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.45.253.14/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.CentralUSEUAP",
     "region": "centraluseuap"
   },
   {
@@ -1896,9 +372,147 @@
     "region": "centraluseuap"
   },
   {
+    "ip_address": "20.46.8.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.46.10.40/29",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.46.10.56/29",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.46.10.96/27",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.46.10.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.46.11.4/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.46.11.32/27",
+    "ip_type": "IPv4",
+    "service": "Sql.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.46.11.64/27",
+    "ip_type": "IPv4",
+    "service": "Sql.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.46.11.96/27",
+    "ip_type": "IPv4",
+    "service": "AzureSignalR.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.46.11.128/26",
+    "ip_type": "IPv4",
+    "service": "Sql.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.46.11.248/29",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.46.12.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.46.12.192/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.46.12.196/30",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.46.13.128/26",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.46.13.192/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.46.13.216/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.46.13.224/28",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.46.13.240/28",
+    "ip_type": "IPv4",
+    "service": "AzureDataExplorerManagement.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.46.15.48/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.46.15.56/30",
+    "ip_type": "IPv4",
+    "service": "PowerBI.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.46.15.64/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
     "ip_address": "20.47.5.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.centraluseuap",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.47.5.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.CentralUSEUAP",
     "region": "centraluseuap"
   },
   {
@@ -1920,9 +534,33 @@
     "region": "centraluseuap"
   },
   {
+    "ip_address": "20.60.24.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
     "ip_address": "20.111.136.0/21",
     "ip_type": "IPv4",
     "service": "AzureCloud.centraluseuap",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.111.136.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.111.139.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.111.140.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.CentralUSEUAP",
     "region": "centraluseuap"
   },
   {
@@ -1944,9 +582,21 @@
     "region": "centraluseuap"
   },
   {
+    "ip_address": "20.150.23.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
     "ip_address": "20.150.47.0/25",
     "ip_type": "IPv4",
     "service": "AzureCloud.centraluseuap",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.150.47.0/25",
+    "ip_type": "IPv4",
+    "service": "Storage.CentralUSEUAP",
     "region": "centraluseuap"
   },
   {
@@ -1962,7 +612,25 @@
     "region": "centraluseuap"
   },
   {
+    "ip_address": "20.153.69.192/26",
+    "ip_type": "IPv4",
+    "service": "Storage.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
     "ip_address": "20.153.77.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.centraluseuap",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.153.77.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.153.120.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.centraluseuap",
     "region": "centraluseuap"
@@ -1970,7 +638,7 @@
   {
     "ip_address": "20.153.120.0/24",
     "ip_type": "IPv4",
-    "service": "AzureCloud.centraluseuap",
+    "service": "Storage.CentralUSEUAP",
     "region": "centraluseuap"
   },
   {
@@ -1986,6 +654,12 @@
     "region": "centraluseuap"
   },
   {
+    "ip_address": "20.157.235.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
     "ip_address": "20.190.150.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.centraluseuap",
@@ -1998,9 +672,93 @@
     "region": "centraluseuap"
   },
   {
+    "ip_address": "20.209.124.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
     "ip_address": "20.228.0.0/18",
     "ip_type": "IPv4",
     "service": "AzureCloud.centraluseuap",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.228.0.46/31",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.228.1.64/29",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.228.2.32/29",
+    "ip_type": "IPv4",
+    "service": "StorageSyncService.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.228.4.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.228.5.112/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.228.5.128/25",
+    "ip_type": "IPv4",
+    "service": "Sql.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.228.6.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.228.6.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.228.7.0/25",
+    "ip_type": "IPv4",
+    "service": "DataFactory.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.228.7.128/26",
+    "ip_type": "IPv4",
+    "service": "DataFactory.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.228.34.17/32",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.228.34.19/32",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "20.228.37.79/32",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.CentralUSEUAP",
     "region": "centraluseuap"
   },
   {
@@ -2019,6 +777,180 @@
     "ip_address": "40.78.200.0/21",
     "ip_type": "IPv4",
     "service": "AzureCloud.centraluseuap",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "40.78.200.128/29",
+    "ip_type": "IPv4",
+    "service": "Sql.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "40.78.201.128/29",
+    "ip_type": "IPv4",
+    "service": "Sql.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "40.78.202.16/28",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "40.78.202.32/27",
+    "ip_type": "IPv4",
+    "service": "EventHub.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "40.78.202.64/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "40.78.202.72/29",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "40.78.202.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "40.78.202.96/28",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "40.78.202.112/29",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "40.78.202.120/29",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "40.78.202.128/31",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "40.78.202.132/30",
+    "ip_type": "IPv4",
+    "service": "AzureBotService.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "40.78.202.136/29",
+    "ip_type": "IPv4",
+    "service": "HDInsight.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "40.78.202.144/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "40.78.202.160/27",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "40.78.202.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "40.78.203.0/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "40.78.203.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "40.78.203.160/28",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "40.78.203.176/28",
+    "ip_type": "IPv4",
+    "service": "AzureDataExplorerManagement.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "40.78.203.224/28",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "40.78.203.240/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "40.78.204.46/32",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "40.78.204.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "40.78.204.96/27",
+    "ip_type": "IPv4",
+    "service": "AzureSignalR.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "40.78.204.160/27",
+    "ip_type": "IPv4",
+    "service": "AppService.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "40.78.204.208/28",
+    "ip_type": "IPv4",
+    "service": "LogicApps.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "40.78.204.224/27",
+    "ip_type": "IPv4",
+    "service": "LogicApps.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "40.78.206.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.CentralUSEUAP",
     "region": "centraluseuap"
   },
   {
@@ -2043,6 +975,12 @@
     "ip_address": "40.83.24.96/27",
     "ip_type": "IPv4",
     "service": "AzureCloud.centraluseuap",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "40.83.24.96/27",
+    "ip_type": "IPv4",
+    "service": "Storage.CentralUSEUAP",
     "region": "centraluseuap"
   },
   {
@@ -2169,6 +1107,12 @@
     "ip_address": "40.89.32.0/19",
     "ip_type": "IPv4",
     "service": "AzureCloud.centraluseuap",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "40.89.56.69/32",
+    "ip_type": "IPv4",
+    "service": "AzureDataExplorerManagement.CentralUSEUAP",
     "region": "centraluseuap"
   },
   {
@@ -2361,6 +1305,12 @@
     "ip_address": "40.122.0.0/20",
     "ip_type": "IPv4",
     "service": "AzureCloud.centraluseuap",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "40.122.0.16/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.CentralUSEUAP",
     "region": "centraluseuap"
   },
   {
@@ -2598,6 +1548,18 @@
     "region": "centraluseuap"
   },
   {
+    "ip_address": "52.165.104.144/28",
+    "ip_type": "IPv4",
+    "service": "Storage.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "52.165.104.160/28",
+    "ip_type": "IPv4",
+    "service": "Storage.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
     "ip_address": "52.176.225.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.centraluseuap",
@@ -2610,9 +1572,33 @@
     "region": "centraluseuap"
   },
   {
+    "ip_address": "52.176.232.16/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
     "ip_address": "52.176.240.0/20",
     "ip_type": "IPv4",
     "service": "AzureCloud.centraluseuap",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "52.176.250.55/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "52.176.251.41/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "52.176.251.87/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.CentralUSEUAP",
     "region": "centraluseuap"
   },
   {
@@ -2622,9 +1608,153 @@
     "region": "centraluseuap"
   },
   {
+    "ip_address": "52.180.160.132/32",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "52.180.164.91/32",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "52.180.164.214/32",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "52.180.165.88/32",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "52.180.165.248/32",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
     "ip_address": "52.180.176.0/21",
     "ip_type": "IPv4",
     "service": "AzureCloud.centraluseuap",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "52.180.176.58/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "52.180.176.84/32",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "52.180.176.154/32",
+    "ip_type": "IPv4",
+    "service": "Sql.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "52.180.177.108/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "52.180.177.125/32",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "52.180.177.137/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "52.180.177.206/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "52.180.178.6/32",
+    "ip_type": "IPv4",
+    "service": "AppService.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "52.180.178.187/32",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "52.180.179.14/32",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "52.180.179.94/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "52.180.181.0/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "52.180.181.239/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "52.180.182.209/32",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "52.180.182.210/32",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "52.180.183.49/32",
+    "ip_type": "IPv4",
+    "service": "HDInsight.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "52.180.183.58/32",
+    "ip_type": "IPv4",
+    "service": "HDInsight.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "52.180.183.66/32",
+    "ip_type": "IPv4",
+    "service": "AppService.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "52.180.183.226/32",
+    "ip_type": "IPv4",
+    "service": "Sql.CentralUSEUAP",
     "region": "centraluseuap"
   },
   {
@@ -2640,7 +1770,25 @@
     "region": "centraluseuap"
   },
   {
+    "ip_address": "52.185.112.80/28",
+    "ip_type": "IPv4",
+    "service": "Storage.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
     "ip_address": "52.239.177.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.centraluseuap",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "52.239.177.0/27",
+    "ip_type": "IPv4",
+    "service": "Storage.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "52.239.238.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.centraluseuap",
     "region": "centraluseuap"
@@ -2648,7 +1796,7 @@
   {
     "ip_address": "52.239.238.0/24",
     "ip_type": "IPv4",
-    "service": "AzureCloud.centraluseuap",
+    "service": "Storage.CentralUSEUAP",
     "region": "centraluseuap"
   },
   {
@@ -2664,7 +1812,49 @@
     "region": "centraluseuap"
   },
   {
+    "ip_address": "52.253.157.2/32",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "52.253.159.160/32",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "52.253.159.186/32",
+    "ip_type": "IPv4",
+    "service": "AzureDataExplorerManagement.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "52.253.159.209/32",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
     "ip_address": "52.253.232.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.centraluseuap",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "52.253.232.235/32",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "52.253.239.162/32",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "57.150.126.0/23",
     "ip_type": "IPv4",
     "service": "AzureCloud.centraluseuap",
     "region": "centraluseuap"
@@ -2672,7 +1862,7 @@
   {
     "ip_address": "57.150.126.0/23",
     "ip_type": "IPv4",
-    "service": "AzureCloud.centraluseuap",
+    "service": "Storage.CentralUSEUAP",
     "region": "centraluseuap"
   },
   {
@@ -2736,9 +1926,21 @@
     "region": "centraluseuap"
   },
   {
+    "ip_address": "57.163.8.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
     "ip_address": "57.173.0.0/17",
     "ip_type": "IPv4",
     "service": "AzureCloud.centraluseuap",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "57.173.0.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.CentralUSEUAP",
     "region": "centraluseuap"
   },
   {
@@ -2748,9 +1950,45 @@
     "region": "centraluseuap"
   },
   {
+    "ip_address": "104.208.48.107/32",
+    "ip_type": "IPv4",
+    "service": "AppService.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "104.208.54.11/32",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
     "ip_address": "134.138.128.0/17",
     "ip_type": "IPv4",
     "service": "AzureCloud.centraluseuap",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "134.138.212.16/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "134.138.220.80/32",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "134.138.246.140/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "134.138.246.144/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.CentralUSEUAP",
     "region": "centraluseuap"
   },
   {
@@ -2760,9 +1998,21 @@
     "region": "centraluseuap"
   },
   {
+    "ip_address": "135.130.247.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
     "ip_address": "135.130.252.0/25",
     "ip_type": "IPv4",
     "service": "AzureCloud.centraluseuap",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "135.130.252.0/25",
+    "ip_type": "IPv4",
+    "service": "Storage.CentralUSEUAP",
     "region": "centraluseuap"
   },
   {
@@ -2772,9 +2022,135 @@
     "region": "centraluseuap"
   },
   {
+    "ip_address": "135.130.254.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
     "ip_address": "168.61.136.0/21",
     "ip_type": "IPv4",
     "service": "AzureCloud.centraluseuap",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "168.61.136.0/27",
+    "ip_type": "IPv4",
+    "service": "Sql.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "168.61.137.0/27",
+    "ip_type": "IPv4",
+    "service": "Sql.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "168.61.138.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "168.61.140.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "168.61.140.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "168.61.140.96/29",
+    "ip_type": "IPv4",
+    "service": "SCCservice.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "168.61.140.108/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "168.61.140.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "168.61.141.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "168.61.141.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "168.61.142.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "168.61.142.48/30",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "168.61.142.52/30",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "168.61.142.56/29",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "168.61.142.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "168.61.142.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "168.61.143.0/26",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "168.61.143.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "168.61.143.128/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "168.61.143.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.CentralUSEUAP",
     "region": "centraluseuap"
   },
   {
@@ -2784,15 +2160,153 @@
     "region": "centraluseuap"
   },
   {
+    "ip_address": "168.61.229.64/29",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "168.61.229.72/29",
+    "ip_type": "IPv4",
+    "service": "DataFactory.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "168.61.229.160/29",
+    "ip_type": "IPv4",
+    "service": "DataFactory.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "168.61.232.60/30",
+    "ip_type": "IPv4",
+    "service": "PowerBI.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "168.61.233.50/31",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "168.61.233.56/29",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "168.61.239.8/30",
+    "ip_type": "IPv4",
+    "service": "PowerBI.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "168.61.239.12/30",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "168.61.239.96/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "168.61.241.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "168.61.245.0/29",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "168.61.245.192/26",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
     "ip_address": "172.215.0.0/17",
     "ip_type": "IPv4",
     "service": "AzureCloud.centraluseuap",
     "region": "centraluseuap"
   },
   {
+    "ip_address": "172.215.35.112/28",
+    "ip_type": "IPv4",
+    "service": "LogicApps.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "172.215.35.192/28",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "172.215.36.224/27",
+    "ip_type": "IPv4",
+    "service": "DataFactory.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "172.215.37.14/31",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "172.215.37.136/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "172.215.76.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureSignalR.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "172.215.113.56/29",
+    "ip_type": "IPv4",
+    "service": "PowerBI.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "172.215.115.128/27",
+    "ip_type": "IPv4",
+    "service": "PowerBI.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "172.215.122.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "172.215.123.104/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
     "ip_address": "2603:1030:8::/48",
     "ip_type": "IPv6",
     "service": "AzureCloud.centraluseuap",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:8:5::8/128",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.CentralUSEUAP",
     "region": "centraluseuap"
   },
   {
@@ -3252,9 +2766,489 @@
     "region": "centraluseuap"
   },
   {
+    "ip_address": "2603:1030:f:1::20/123",
+    "ip_type": "IPv6",
+    "service": "AzureBotService.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:1::40/122",
+    "ip_type": "IPv6",
+    "service": "GatewayManager.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:1::100/124",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:1::110/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:1::180/121",
+    "ip_type": "IPv6",
+    "service": "AzureCognitiveSearch.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:1::200/123",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:1::220/123",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:1::240/122",
+    "ip_type": "IPv6",
+    "service": "EventHub.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:1::280/123",
+    "ip_type": "IPv6",
+    "service": "Sql.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:1::2a0/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:1::2a8/125",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:1::300/122",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:1::340/123",
+    "ip_type": "IPv6",
+    "service": "StorageSyncService.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:1::380/121",
+    "ip_type": "IPv6",
+    "service": "AzureEventGrid.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:1::400/122",
+    "ip_type": "IPv6",
+    "service": "BatchNodeManagement.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:1::440/122",
+    "ip_type": "IPv6",
+    "service": "DataFactory.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:1::500/121",
+    "ip_type": "IPv6",
+    "service": "DataFactory.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:1::620/123",
+    "ip_type": "IPv6",
+    "service": "PowerBI.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:1::640/122",
+    "ip_type": "IPv6",
+    "service": "PowerBI.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:1::6c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:1::700/121",
+    "ip_type": "IPv6",
+    "service": "AzurePortal.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:1::780/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:2::200/121",
+    "ip_type": "IPv6",
+    "service": "Sql.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:2::280/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:2::2a0/123",
+    "ip_type": "IPv6",
+    "service": "AzureCosmosDB.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:2::300/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:2::380/121",
+    "ip_type": "IPv6",
+    "service": "AzureDataExplorerManagement.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:2::490/124",
+    "ip_type": "IPv6",
+    "service": "ApiManagement.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:2::4b0/124",
+    "ip_type": "IPv6",
+    "service": "HDInsight.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:2::4c0/123",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:2::500/121",
+    "ip_type": "IPv6",
+    "service": "AzureDigitalTwins.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:2::580/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:2::700/120",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:3::200/122",
+    "ip_type": "IPv6",
+    "service": "EventHub.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:3::240/122",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:3::300/120",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:3::400/120",
+    "ip_type": "IPv6",
+    "service": "EventHub.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:3::500/120",
+    "ip_type": "IPv6",
+    "service": "AzureSignalR.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:3::700/123",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:4::/119",
+    "ip_type": "IPv6",
+    "service": "AppService.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:4::39c/126",
+    "ip_type": "IPv6",
+    "service": "ActionGroup.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:8::80/121",
+    "ip_type": "IPv6",
+    "service": "Sql.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:8::580/122",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:a::40/122",
+    "ip_type": "IPv6",
+    "service": "AzureCosmosDB.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:a::c0/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:a::100/122",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:e::380/122",
+    "ip_type": "IPv6",
+    "service": "AzureDevOps.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:f::500/120",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:f::604/127",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:400::880/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:400::888/125",
+    "ip_type": "IPv6",
+    "service": "MicrosoftContainerRegistry.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:400::890/125",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:400::898/125",
+    "ip_type": "IPv6",
+    "service": "ServiceFabric.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:400::8a0/123",
+    "ip_type": "IPv6",
+    "service": "AppService.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:400::8c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureCosmosDB.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:400::900/122",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:400::940/124",
+    "ip_type": "IPv6",
+    "service": "ApiManagement.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:400::950/124",
+    "ip_type": "IPv6",
+    "service": "AzureDataExplorerManagement.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:400::960/125",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:400::970/125",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:400::978/125",
+    "ip_type": "IPv6",
+    "service": "ActionGroup.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:400::980/122",
+    "ip_type": "IPv6",
+    "service": "AzureConnectors.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:400::9c0/123",
+    "ip_type": "IPv6",
+    "service": "EventHub.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:400::a00/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:400::a80/122",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:400::b00/123",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:400::b20/124",
+    "ip_type": "IPv6",
+    "service": "HDInsight.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:400::b30/124",
+    "ip_type": "IPv6",
+    "service": "DataFactory.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:400::b40/122",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:400::bc0/124",
+    "ip_type": "IPv6",
+    "service": "LogicApps.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:400::be0/123",
+    "ip_type": "IPv6",
+    "service": "LogicApps.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:400::d00/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:400::d80/122",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:400::dc0/123",
+    "ip_type": "IPv6",
+    "service": "StorageSyncService.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:400::e00/121",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:402::/122",
+    "ip_type": "IPv6",
+    "service": "Sql.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:403::/122",
+    "ip_type": "IPv6",
+    "service": "Sql.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:800::40/126",
+    "ip_type": "IPv6",
+    "service": "DataFactory.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
     "ip_address": "2603:1030:12::/48",
     "ip_type": "IPv6",
     "service": "AzureCloud.centraluseuap",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:12::/49",
+    "ip_type": "IPv6",
+    "service": "Storage.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:12:8000::/64",
+    "ip_type": "IPv6",
+    "service": "Storage.CentralUSEUAP",
     "region": "centraluseuap"
   },
   {
@@ -3321,6 +3315,12 @@
     "ip_address": "2603:1061:2010:1e::/64",
     "ip_type": "IPv6",
     "service": "AzureCloud.centraluseuap",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1061:2010:1e::/117",
+    "ip_type": "IPv6",
+    "service": "WindowsVirtualDesktop.CentralUSEUAP",
     "region": "centraluseuap"
   },
   {

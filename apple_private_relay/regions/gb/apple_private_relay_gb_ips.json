@@ -385,6 +385,26 @@
     "region": "GB"
   },
   {
+    "ip_address": "140.248.40.24/31",
+    "ip_type": "IPv4",
+    "region": "GB"
+  },
+  {
+    "ip_address": "146.75.168.38/31",
+    "ip_type": "IPv4",
+    "region": "GB"
+  },
+  {
+    "ip_address": "146.75.174.12/31",
+    "ip_type": "IPv4",
+    "region": "GB"
+  },
+  {
+    "ip_address": "146.75.185.38/31",
+    "ip_type": "IPv4",
+    "region": "GB"
+  },
+  {
     "ip_address": "2606:54c0:3650::/45",
     "ip_type": "IPv6",
     "region": "GB"
@@ -691,6 +711,26 @@
   },
   {
     "ip_address": "2606:54c3:0:1a89::/64",
+    "ip_type": "IPv6",
+    "region": "GB"
+  },
+  {
+    "ip_address": "2a04:4e41:1380::/41",
+    "ip_type": "IPv6",
+    "region": "GB"
+  },
+  {
+    "ip_address": "2a04:4e41:1700::/41",
+    "ip_type": "IPv6",
+    "region": "GB"
+  },
+  {
+    "ip_address": "2a04:4e41:4e80::/41",
+    "ip_type": "IPv6",
+    "region": "GB"
+  },
+  {
+    "ip_address": "2a04:4e41:7500::/41",
     "ip_type": "IPv6",
     "region": "GB"
   },
@@ -1002,46 +1042,6 @@
   {
     "ip_address": "2a09:bac3:3740::/45",
     "ip_type": "IPv6",
-    "region": "GB"
-  },
-  {
-    "ip_address": "2a04:4e41:1380::/41",
-    "ip_type": "IPv6",
-    "region": "GB"
-  },
-  {
-    "ip_address": "2a04:4e41:1700::/41",
-    "ip_type": "IPv6",
-    "region": "GB"
-  },
-  {
-    "ip_address": "2a04:4e41:4e80::/41",
-    "ip_type": "IPv6",
-    "region": "GB"
-  },
-  {
-    "ip_address": "2a04:4e41:7500::/41",
-    "ip_type": "IPv6",
-    "region": "GB"
-  },
-  {
-    "ip_address": "140.248.40.24/31",
-    "ip_type": "IPv4",
-    "region": "GB"
-  },
-  {
-    "ip_address": "146.75.168.38/31",
-    "ip_type": "IPv4",
-    "region": "GB"
-  },
-  {
-    "ip_address": "146.75.174.12/31",
-    "ip_type": "IPv4",
-    "region": "GB"
-  },
-  {
-    "ip_address": "146.75.185.38/31",
-    "ip_type": "IPv4",
     "region": "GB"
   }
 ]

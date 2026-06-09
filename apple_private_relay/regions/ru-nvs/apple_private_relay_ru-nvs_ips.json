@@ -50,22 +50,27 @@
     "region": "RU-NVS"
   },
   {
+    "ip_address": "140.248.34.204/31",
+    "ip_type": "IPv4",
+    "region": "RU-NVS"
+  },
+  {
+    "ip_address": "140.248.37.2/31",
+    "ip_type": "IPv4",
+    "region": "RU-NVS"
+  },
+  {
+    "ip_address": "146.75.169.204/31",
+    "ip_type": "IPv4",
+    "region": "RU-NVS"
+  },
+  {
     "ip_address": "2606:54c0:50d0::/45",
     "ip_type": "IPv6",
     "region": "RU-NVS"
   },
   {
     "ip_address": "2606:54c3:0:9e2::/64",
-    "ip_type": "IPv6",
-    "region": "RU-NVS"
-  },
-  {
-    "ip_address": "2a09:bac2:50d0::/45",
-    "ip_type": "IPv6",
-    "region": "RU-NVS"
-  },
-  {
-    "ip_address": "2a09:bac3:50d0::/45",
     "ip_type": "IPv6",
     "region": "RU-NVS"
   },
@@ -85,18 +90,13 @@
     "region": "RU-NVS"
   },
   {
-    "ip_address": "140.248.34.204/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:50d0::/45",
+    "ip_type": "IPv6",
     "region": "RU-NVS"
   },
   {
-    "ip_address": "140.248.37.2/31",
-    "ip_type": "IPv4",
-    "region": "RU-NVS"
-  },
-  {
-    "ip_address": "146.75.169.204/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:50d0::/45",
+    "ip_type": "IPv6",
     "region": "RU-NVS"
   }
 ]

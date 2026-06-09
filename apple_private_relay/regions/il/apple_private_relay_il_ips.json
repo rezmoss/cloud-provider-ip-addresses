@@ -1,5 +1,30 @@
 [
   {
+    "ip_address": "140.248.24.60/31",
+    "ip_type": "IPv4",
+    "region": "IL"
+  },
+  {
+    "ip_address": "140.248.34.120/31",
+    "ip_type": "IPv4",
+    "region": "IL"
+  },
+  {
+    "ip_address": "140.248.36.138/31",
+    "ip_type": "IPv4",
+    "region": "IL"
+  },
+  {
+    "ip_address": "140.248.41.60/31",
+    "ip_type": "IPv4",
+    "region": "IL"
+  },
+  {
+    "ip_address": "146.75.169.120/31",
+    "ip_type": "IPv4",
+    "region": "IL"
+  },
+  {
     "ip_address": "172.225.116.194/31",
     "ip_type": "IPv4",
     "region": "IL"
@@ -77,6 +102,36 @@
   {
     "ip_address": "172.225.226.208/28",
     "ip_type": "IPv4",
+    "region": "IL"
+  },
+  {
+    "ip_address": "2606:54c0:3a00::/45",
+    "ip_type": "IPv6",
+    "region": "IL"
+  },
+  {
+    "ip_address": "2606:54c0:3a08::/45",
+    "ip_type": "IPv6",
+    "region": "IL"
+  },
+  {
+    "ip_address": "2606:54c0:3a10::/45",
+    "ip_type": "IPv6",
+    "region": "IL"
+  },
+  {
+    "ip_address": "2606:54c3:0:41d::/64",
+    "ip_type": "IPv6",
+    "region": "IL"
+  },
+  {
+    "ip_address": "2606:54c3:0:781::/64",
+    "ip_type": "IPv6",
+    "region": "IL"
+  },
+  {
+    "ip_address": "2606:54c3:0:10b9::/64",
+    "ip_type": "IPv6",
     "region": "IL"
   },
   {
@@ -780,32 +835,27 @@
     "region": "IL"
   },
   {
-    "ip_address": "2606:54c0:3a00::/45",
+    "ip_address": "2a04:4e41:80c::/48",
     "ip_type": "IPv6",
     "region": "IL"
   },
   {
-    "ip_address": "2606:54c0:3a08::/45",
+    "ip_address": "2a04:4e41:1417::/48",
     "ip_type": "IPv6",
     "region": "IL"
   },
   {
-    "ip_address": "2606:54c0:3a10::/45",
+    "ip_address": "2a04:4e41:1821::/48",
     "ip_type": "IPv6",
     "region": "IL"
   },
   {
-    "ip_address": "2606:54c3:0:41d::/64",
+    "ip_address": "2a04:4e41:480c::/48",
     "ip_type": "IPv6",
     "region": "IL"
   },
   {
-    "ip_address": "2606:54c3:0:781::/64",
-    "ip_type": "IPv6",
-    "region": "IL"
-  },
-  {
-    "ip_address": "2606:54c3:0:10b9::/64",
+    "ip_address": "2a04:4e41:5617::/48",
     "ip_type": "IPv6",
     "region": "IL"
   },
@@ -837,56 +887,6 @@
   {
     "ip_address": "2a09:bac3:3a10::/45",
     "ip_type": "IPv6",
-    "region": "IL"
-  },
-  {
-    "ip_address": "2a04:4e41:80c::/48",
-    "ip_type": "IPv6",
-    "region": "IL"
-  },
-  {
-    "ip_address": "2a04:4e41:1417::/48",
-    "ip_type": "IPv6",
-    "region": "IL"
-  },
-  {
-    "ip_address": "2a04:4e41:1821::/48",
-    "ip_type": "IPv6",
-    "region": "IL"
-  },
-  {
-    "ip_address": "2a04:4e41:480c::/48",
-    "ip_type": "IPv6",
-    "region": "IL"
-  },
-  {
-    "ip_address": "2a04:4e41:5617::/48",
-    "ip_type": "IPv6",
-    "region": "IL"
-  },
-  {
-    "ip_address": "140.248.24.60/31",
-    "ip_type": "IPv4",
-    "region": "IL"
-  },
-  {
-    "ip_address": "140.248.34.120/31",
-    "ip_type": "IPv4",
-    "region": "IL"
-  },
-  {
-    "ip_address": "140.248.36.138/31",
-    "ip_type": "IPv4",
-    "region": "IL"
-  },
-  {
-    "ip_address": "140.248.41.60/31",
-    "ip_type": "IPv4",
-    "region": "IL"
-  },
-  {
-    "ip_address": "146.75.169.120/31",
-    "ip_type": "IPv4",
     "region": "IL"
   }
 ]

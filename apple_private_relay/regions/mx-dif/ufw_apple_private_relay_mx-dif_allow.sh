@@ -1,45 +1,12 @@
 #!/bin/bash
 # Apple_private_relay IP Ranges
-# Updated: 2026-02-11 17:28:41
+# Updated: 2026-06-09 22:59:45
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
 # Updates daily at 00:00 UTC
 # UFW allow rules for apple_private_relay
 
-ufw allow from 172.224.232.0/28
-ufw allow from 172.224.232.20/30
-ufw allow from 172.225.14.160/28
-ufw allow from 172.225.93.128/28
-ufw allow from 172.225.103.40/29
-ufw allow from 172.225.154.64/27
-ufw allow from 172.225.154.192/29
-ufw allow from 172.225.155.0/27
-ufw allow from 172.225.155.56/29
-ufw allow from 172.226.122.40/29
-ufw allow from 2a02:26f7:c000::/54
-ufw allow from 2a02:26f7:c000:400::/56
-ufw allow from 2a02:26f7:c000:4000::/64
-ufw allow from 2a02:26f7:c000:5c00::/64
-ufw allow from 2a02:26f7:c001:4000::/64
-ufw allow from 2a02:26f7:c002::/54
-ufw allow from 2a02:26f7:c002:400::/56
-ufw allow from 2a02:26f7:c002:4000::/64
-ufw allow from 2a02:26f7:c002:5c00::/64
-ufw allow from 2a02:26f7:c003:4000::/64
-ufw allow from 2a02:26f7:c009:400::/56
-ufw allow from 2a02:26f7:c009:5c00::/64
-ufw allow from 2a02:26f7:c00c:400::/56
-ufw allow from 2a02:26f7:c00c:5c00::/64
-ufw allow from 2a02:26f7:c010:400::/56
-ufw allow from 2a02:26f7:c010:5c00::/64
-ufw allow from 2a02:26f7:c014:400::/56
-ufw allow from 2a02:26f7:c014:5c00::/64
-ufw allow from 2a02:26f7:c018::/54
-ufw allow from 2a02:26f7:c018:400::/56
-ufw allow from 2a02:26f7:c018:4000::/64
-ufw allow from 2a02:26f7:c018:5c00::/64
-ufw allow from 2a02:26f7:c019:4000::/64
 ufw allow from 104.28.50.16/32
 ufw allow from 104.28.50.17/32
 ufw allow from 104.28.50.18/32
@@ -85,7 +52,40 @@ ufw allow from 104.28.126.109/32
 ufw allow from 104.28.144.106/32
 ufw allow from 104.28.144.107/32
 ufw allow from 104.28.144.108/32
+ufw allow from 172.224.232.0/28
+ufw allow from 172.224.232.20/30
+ufw allow from 172.225.14.160/28
+ufw allow from 172.225.93.128/28
+ufw allow from 172.225.103.40/29
+ufw allow from 172.225.154.64/27
+ufw allow from 172.225.154.192/29
+ufw allow from 172.225.155.0/27
+ufw allow from 172.225.155.56/29
+ufw allow from 172.226.122.40/29
 ufw allow from 2606:54c0:4a38::/45
 ufw allow from 2606:54c3:0:154a::/64
+ufw allow from 2a02:26f7:c000::/54
+ufw allow from 2a02:26f7:c000:400::/56
+ufw allow from 2a02:26f7:c000:4000::/64
+ufw allow from 2a02:26f7:c000:5c00::/64
+ufw allow from 2a02:26f7:c001:4000::/64
+ufw allow from 2a02:26f7:c002::/54
+ufw allow from 2a02:26f7:c002:400::/56
+ufw allow from 2a02:26f7:c002:4000::/64
+ufw allow from 2a02:26f7:c002:5c00::/64
+ufw allow from 2a02:26f7:c003:4000::/64
+ufw allow from 2a02:26f7:c009:400::/56
+ufw allow from 2a02:26f7:c009:5c00::/64
+ufw allow from 2a02:26f7:c00c:400::/56
+ufw allow from 2a02:26f7:c00c:5c00::/64
+ufw allow from 2a02:26f7:c010:400::/56
+ufw allow from 2a02:26f7:c010:5c00::/64
+ufw allow from 2a02:26f7:c014:400::/56
+ufw allow from 2a02:26f7:c014:5c00::/64
+ufw allow from 2a02:26f7:c018::/54
+ufw allow from 2a02:26f7:c018:400::/56
+ufw allow from 2a02:26f7:c018:4000::/64
+ufw allow from 2a02:26f7:c018:5c00::/64
+ufw allow from 2a02:26f7:c019:4000::/64
 ufw allow from 2a09:bac2:4a38::/45
 ufw allow from 2a09:bac3:4a38::/45

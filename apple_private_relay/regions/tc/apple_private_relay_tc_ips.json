@@ -1,5 +1,40 @@
 [
   {
+    "ip_address": "104.28.50.226/32",
+    "ip_type": "IPv4",
+    "region": "TC"
+  },
+  {
+    "ip_address": "104.28.50.227/32",
+    "ip_type": "IPv4",
+    "region": "TC"
+  },
+  {
+    "ip_address": "104.28.50.228/32",
+    "ip_type": "IPv4",
+    "region": "TC"
+  },
+  {
+    "ip_address": "104.28.50.229/32",
+    "ip_type": "IPv4",
+    "region": "TC"
+  },
+  {
+    "ip_address": "104.28.92.236/32",
+    "ip_type": "IPv4",
+    "region": "TC"
+  },
+  {
+    "ip_address": "140.248.4.56/31",
+    "ip_type": "IPv4",
+    "region": "TC"
+  },
+  {
+    "ip_address": "140.248.44.96/31",
+    "ip_type": "IPv4",
+    "region": "TC"
+  },
+  {
     "ip_address": "172.225.167.160/27",
     "ip_type": "IPv4",
     "region": "TC"
@@ -22,6 +57,16 @@
   {
     "ip_address": "172.226.84.96/28",
     "ip_type": "IPv4",
+    "region": "TC"
+  },
+  {
+    "ip_address": "2606:54c0:55a8::/45",
+    "ip_type": "IPv6",
+    "region": "TC"
+  },
+  {
+    "ip_address": "2606:54c3:0:1663::/64",
+    "ip_type": "IPv6",
     "region": "TC"
   },
   {
@@ -100,37 +145,12 @@
     "region": "TC"
   },
   {
-    "ip_address": "104.28.50.226/32",
-    "ip_type": "IPv4",
-    "region": "TC"
-  },
-  {
-    "ip_address": "104.28.50.227/32",
-    "ip_type": "IPv4",
-    "region": "TC"
-  },
-  {
-    "ip_address": "104.28.50.228/32",
-    "ip_type": "IPv4",
-    "region": "TC"
-  },
-  {
-    "ip_address": "104.28.50.229/32",
-    "ip_type": "IPv4",
-    "region": "TC"
-  },
-  {
-    "ip_address": "104.28.92.236/32",
-    "ip_type": "IPv4",
-    "region": "TC"
-  },
-  {
-    "ip_address": "2606:54c0:55a8::/45",
+    "ip_address": "2a04:4e41:3623::/48",
     "ip_type": "IPv6",
     "region": "TC"
   },
   {
-    "ip_address": "2606:54c3:0:1663::/64",
+    "ip_address": "2a04:4e41:3a32::/48",
     "ip_type": "IPv6",
     "region": "TC"
   },
@@ -142,26 +162,6 @@
   {
     "ip_address": "2a09:bac3:55a8::/45",
     "ip_type": "IPv6",
-    "region": "TC"
-  },
-  {
-    "ip_address": "2a04:4e41:3623::/48",
-    "ip_type": "IPv6",
-    "region": "TC"
-  },
-  {
-    "ip_address": "2a04:4e41:3a32::/48",
-    "ip_type": "IPv6",
-    "region": "TC"
-  },
-  {
-    "ip_address": "140.248.4.56/31",
-    "ip_type": "IPv4",
-    "region": "TC"
-  },
-  {
-    "ip_address": "140.248.44.96/31",
-    "ip_type": "IPv4",
     "region": "TC"
   }
 ]

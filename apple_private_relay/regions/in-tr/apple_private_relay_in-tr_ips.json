@@ -1,5 +1,15 @@
 [
   {
+    "ip_address": "2606:54c0:3fc8::/45",
+    "ip_type": "IPv6",
+    "region": "IN-TR"
+  },
+  {
+    "ip_address": "2606:54c3:0:1210::/64",
+    "ip_type": "IPv6",
+    "region": "IN-TR"
+  },
+  {
     "ip_address": "2a02:26f7:d6c0:6951::/64",
     "ip_type": "IPv6",
     "region": "IN-TR"
@@ -26,16 +36,6 @@
   },
   {
     "ip_address": "2a02:26f7:d6d0:6951::/64",
-    "ip_type": "IPv6",
-    "region": "IN-TR"
-  },
-  {
-    "ip_address": "2606:54c0:3fc8::/45",
-    "ip_type": "IPv6",
-    "region": "IN-TR"
-  },
-  {
-    "ip_address": "2606:54c3:0:1210::/64",
     "ip_type": "IPv6",
     "region": "IN-TR"
   },

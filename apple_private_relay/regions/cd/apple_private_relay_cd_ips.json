@@ -1,5 +1,25 @@
 [
   {
+    "ip_address": "140.248.24.10/31",
+    "ip_type": "IPv4",
+    "region": "CD"
+  },
+  {
+    "ip_address": "140.248.40.10/31",
+    "ip_type": "IPv4",
+    "region": "CD"
+  },
+  {
+    "ip_address": "140.248.41.10/31",
+    "ip_type": "IPv4",
+    "region": "CD"
+  },
+  {
+    "ip_address": "146.75.198.6/31",
+    "ip_type": "IPv4",
+    "region": "CD"
+  },
+  {
     "ip_address": "172.224.230.48/28",
     "ip_type": "IPv4",
     "region": "CD"
@@ -262,26 +282,6 @@
   {
     "ip_address": "2a04:4e41:4805::/48",
     "ip_type": "IPv6",
-    "region": "CD"
-  },
-  {
-    "ip_address": "140.248.24.10/31",
-    "ip_type": "IPv4",
-    "region": "CD"
-  },
-  {
-    "ip_address": "140.248.40.10/31",
-    "ip_type": "IPv4",
-    "region": "CD"
-  },
-  {
-    "ip_address": "140.248.41.10/31",
-    "ip_type": "IPv4",
-    "region": "CD"
-  },
-  {
-    "ip_address": "146.75.198.6/31",
-    "ip_type": "IPv4",
     "region": "CD"
   }
 ]

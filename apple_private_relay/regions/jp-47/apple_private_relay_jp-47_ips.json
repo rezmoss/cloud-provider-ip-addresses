@@ -1,5 +1,10 @@
 [
   {
+    "ip_address": "104.28.148.247/32",
+    "ip_type": "IPv4",
+    "region": "JP-47"
+  },
+  {
     "ip_address": "172.225.46.228/31",
     "ip_type": "IPv4",
     "region": "JP-47"
@@ -67,6 +72,26 @@
   {
     "ip_address": "172.226.218.50/31",
     "ip_type": "IPv4",
+    "region": "JP-47"
+  },
+  {
+    "ip_address": "2606:54c0:4600::/45",
+    "ip_type": "IPv6",
+    "region": "JP-47"
+  },
+  {
+    "ip_address": "2606:54c0:4608::/45",
+    "ip_type": "IPv6",
+    "region": "JP-47"
+  },
+  {
+    "ip_address": "2606:54c3:0:389::/64",
+    "ip_type": "IPv6",
+    "region": "JP-47"
+  },
+  {
+    "ip_address": "2606:54c3:0:15ab::/64",
+    "ip_type": "IPv6",
     "region": "JP-47"
   },
   {
@@ -416,31 +441,6 @@
   },
   {
     "ip_address": "2a02:26f7:b9b4:6167::/64",
-    "ip_type": "IPv6",
-    "region": "JP-47"
-  },
-  {
-    "ip_address": "104.28.148.247/32",
-    "ip_type": "IPv4",
-    "region": "JP-47"
-  },
-  {
-    "ip_address": "2606:54c0:4600::/45",
-    "ip_type": "IPv6",
-    "region": "JP-47"
-  },
-  {
-    "ip_address": "2606:54c0:4608::/45",
-    "ip_type": "IPv6",
-    "region": "JP-47"
-  },
-  {
-    "ip_address": "2606:54c3:0:389::/64",
-    "ip_type": "IPv6",
-    "region": "JP-47"
-  },
-  {
-    "ip_address": "2606:54c3:0:15ab::/64",
     "ip_type": "IPv6",
     "region": "JP-47"
   },

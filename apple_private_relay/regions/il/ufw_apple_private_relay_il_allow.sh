@@ -1,12 +1,17 @@
 #!/bin/bash
 # Apple_private_relay IP Ranges
-# Updated: 2026-02-11 17:28:47
+# Updated: 2026-06-09 22:59:46
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
 # Updates daily at 00:00 UTC
 # UFW allow rules for apple_private_relay
 
+ufw allow from 140.248.24.60/31
+ufw allow from 140.248.34.120/31
+ufw allow from 140.248.36.138/31
+ufw allow from 140.248.41.60/31
+ufw allow from 146.75.169.120/31
 ufw allow from 172.225.116.194/31
 ufw allow from 172.225.116.196/31
 ufw allow from 172.225.116.224/28
@@ -23,6 +28,12 @@ ufw allow from 172.225.224.104/29
 ufw allow from 172.225.224.112/31
 ufw allow from 172.225.224.114/31
 ufw allow from 172.225.226.208/28
+ufw allow from 2606:54c0:3a00::/45
+ufw allow from 2606:54c0:3a08::/45
+ufw allow from 2606:54c0:3a10::/45
+ufw allow from 2606:54c3:0:41d::/64
+ufw allow from 2606:54c3:0:781::/64
+ufw allow from 2606:54c3:0:10b9::/64
 ufw allow from 2a02:26f7:df80::/54
 ufw allow from 2a02:26f7:df80:400::/58
 ufw allow from 2a02:26f7:df80:440::/60
@@ -163,25 +174,14 @@ ufw allow from 2a02:26f7:df8c:5219::/64
 ufw allow from 2a02:26f7:df8c:521a::/64
 ufw allow from 2a02:26f7:df8c:521b::/64
 ufw allow from 2a02:26f7:df8d:4000::/64
-ufw allow from 2606:54c0:3a00::/45
-ufw allow from 2606:54c0:3a08::/45
-ufw allow from 2606:54c0:3a10::/45
-ufw allow from 2606:54c3:0:41d::/64
-ufw allow from 2606:54c3:0:781::/64
-ufw allow from 2606:54c3:0:10b9::/64
+ufw allow from 2a04:4e41:80c::/48
+ufw allow from 2a04:4e41:1417::/48
+ufw allow from 2a04:4e41:1821::/48
+ufw allow from 2a04:4e41:480c::/48
+ufw allow from 2a04:4e41:5617::/48
 ufw allow from 2a09:bac2:3a00::/45
 ufw allow from 2a09:bac2:3a08::/45
 ufw allow from 2a09:bac2:3a10::/45
 ufw allow from 2a09:bac3:3a00::/45
 ufw allow from 2a09:bac3:3a08::/45
 ufw allow from 2a09:bac3:3a10::/45
-ufw allow from 2a04:4e41:80c::/48
-ufw allow from 2a04:4e41:1417::/48
-ufw allow from 2a04:4e41:1821::/48
-ufw allow from 2a04:4e41:480c::/48
-ufw allow from 2a04:4e41:5617::/48
-ufw allow from 140.248.24.60/31
-ufw allow from 140.248.34.120/31
-ufw allow from 140.248.36.138/31
-ufw allow from 140.248.41.60/31
-ufw allow from 146.75.169.120/31

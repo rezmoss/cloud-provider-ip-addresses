@@ -1,5 +1,30 @@
 [
   {
+    "ip_address": "140.248.18.16/31",
+    "ip_type": "IPv4",
+    "region": "GR"
+  },
+  {
+    "ip_address": "140.248.34.106/31",
+    "ip_type": "IPv4",
+    "region": "GR"
+  },
+  {
+    "ip_address": "140.248.36.124/31",
+    "ip_type": "IPv4",
+    "region": "GR"
+  },
+  {
+    "ip_address": "140.248.40.122/31",
+    "ip_type": "IPv4",
+    "region": "GR"
+  },
+  {
+    "ip_address": "146.75.169.106/31",
+    "ip_type": "IPv4",
+    "region": "GR"
+  },
+  {
     "ip_address": "172.225.134.128/27",
     "ip_type": "IPv4",
     "region": "GR"
@@ -27,6 +52,16 @@
   {
     "ip_address": "172.225.160.160/28",
     "ip_type": "IPv4",
+    "region": "GR"
+  },
+  {
+    "ip_address": "2606:54c0:38b0::/45",
+    "ip_type": "IPv6",
+    "region": "GR"
+  },
+  {
+    "ip_address": "2606:54c3:0:1005::/64",
+    "ip_type": "IPv6",
     "region": "GR"
   },
   {
@@ -810,26 +845,6 @@
     "region": "GR"
   },
   {
-    "ip_address": "2606:54c0:38b0::/45",
-    "ip_type": "IPv6",
-    "region": "GR"
-  },
-  {
-    "ip_address": "2606:54c3:0:1005::/64",
-    "ip_type": "IPv6",
-    "region": "GR"
-  },
-  {
-    "ip_address": "2a09:bac2:38b0::/45",
-    "ip_type": "IPv6",
-    "region": "GR"
-  },
-  {
-    "ip_address": "2a09:bac3:38b0::/45",
-    "ip_type": "IPv6",
-    "region": "GR"
-  },
-  {
     "ip_address": "2a04:4e41:1312::/48",
     "ip_type": "IPv6",
     "region": "GR"
@@ -855,28 +870,13 @@
     "region": "GR"
   },
   {
-    "ip_address": "140.248.18.16/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:38b0::/45",
+    "ip_type": "IPv6",
     "region": "GR"
   },
   {
-    "ip_address": "140.248.34.106/31",
-    "ip_type": "IPv4",
-    "region": "GR"
-  },
-  {
-    "ip_address": "140.248.36.124/31",
-    "ip_type": "IPv4",
-    "region": "GR"
-  },
-  {
-    "ip_address": "140.248.40.122/31",
-    "ip_type": "IPv4",
-    "region": "GR"
-  },
-  {
-    "ip_address": "146.75.169.106/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:38b0::/45",
+    "ip_type": "IPv6",
     "region": "GR"
   }
 ]

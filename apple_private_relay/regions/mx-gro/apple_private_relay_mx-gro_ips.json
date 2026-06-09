@@ -35,6 +35,16 @@
     "region": "MX-GRO"
   },
   {
+    "ip_address": "2606:54c0:4a50::/45",
+    "ip_type": "IPv6",
+    "region": "MX-GRO"
+  },
+  {
+    "ip_address": "2606:54c3:0:5d::/64",
+    "ip_type": "IPv6",
+    "region": "MX-GRO"
+  },
+  {
     "ip_address": "2a02:26f7:c000:5c01::/64",
     "ip_type": "IPv6",
     "region": "MX-GRO"
@@ -171,16 +181,6 @@
   },
   {
     "ip_address": "2a02:26f7:c018:5c1e::/64",
-    "ip_type": "IPv6",
-    "region": "MX-GRO"
-  },
-  {
-    "ip_address": "2606:54c0:4a50::/45",
-    "ip_type": "IPv6",
-    "region": "MX-GRO"
-  },
-  {
-    "ip_address": "2606:54c3:0:5d::/64",
     "ip_type": "IPv6",
     "region": "MX-GRO"
   },

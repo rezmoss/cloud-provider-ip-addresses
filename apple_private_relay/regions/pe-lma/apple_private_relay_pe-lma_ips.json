@@ -240,22 +240,47 @@
     "region": "PE-LMA"
   },
   {
+    "ip_address": "140.248.25.12/31",
+    "ip_type": "IPv4",
+    "region": "PE-LMA"
+  },
+  {
+    "ip_address": "140.248.32.12/31",
+    "ip_type": "IPv4",
+    "region": "PE-LMA"
+  },
+  {
+    "ip_address": "140.248.44.84/31",
+    "ip_type": "IPv4",
+    "region": "PE-LMA"
+  },
+  {
+    "ip_address": "146.75.179.12/31",
+    "ip_type": "IPv4",
+    "region": "PE-LMA"
+  },
+  {
+    "ip_address": "146.75.191.12/31",
+    "ip_type": "IPv4",
+    "region": "PE-LMA"
+  },
+  {
+    "ip_address": "146.75.208.28/31",
+    "ip_type": "IPv4",
+    "region": "PE-LMA"
+  },
+  {
+    "ip_address": "146.75.221.4/31",
+    "ip_type": "IPv4",
+    "region": "PE-LMA"
+  },
+  {
     "ip_address": "2606:54c0:4e98::/45",
     "ip_type": "IPv6",
     "region": "PE-LMA"
   },
   {
     "ip_address": "2606:54c3:0:17d0::/64",
-    "ip_type": "IPv6",
-    "region": "PE-LMA"
-  },
-  {
-    "ip_address": "2a09:bac2:4e98::/45",
-    "ip_type": "IPv6",
-    "region": "PE-LMA"
-  },
-  {
-    "ip_address": "2a09:bac3:4e98::/45",
     "ip_type": "IPv6",
     "region": "PE-LMA"
   },
@@ -295,38 +320,13 @@
     "region": "PE-LMA"
   },
   {
-    "ip_address": "140.248.25.12/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:4e98::/45",
+    "ip_type": "IPv6",
     "region": "PE-LMA"
   },
   {
-    "ip_address": "140.248.32.12/31",
-    "ip_type": "IPv4",
-    "region": "PE-LMA"
-  },
-  {
-    "ip_address": "140.248.44.84/31",
-    "ip_type": "IPv4",
-    "region": "PE-LMA"
-  },
-  {
-    "ip_address": "146.75.179.12/31",
-    "ip_type": "IPv4",
-    "region": "PE-LMA"
-  },
-  {
-    "ip_address": "146.75.191.12/31",
-    "ip_type": "IPv4",
-    "region": "PE-LMA"
-  },
-  {
-    "ip_address": "146.75.208.28/31",
-    "ip_type": "IPv4",
-    "region": "PE-LMA"
-  },
-  {
-    "ip_address": "146.75.221.4/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:4e98::/45",
+    "ip_type": "IPv6",
     "region": "PE-LMA"
   }
 ]

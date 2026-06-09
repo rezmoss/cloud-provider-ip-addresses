@@ -1,26 +1,12 @@
 #!/bin/bash
 # Apple_private_relay IP Ranges
-# Updated: 2026-05-18 03:21:52
+# Updated: 2026-06-09 22:59:38
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
 # Updates daily at 00:00 UTC
 # UFW deny rules for apple_private_relay
 
-ufw deny from 2a02:26f7:f7c0:e12c::/64
-ufw deny from 2a02:26f7:f7c0:e156::/64
-ufw deny from 2a02:26f7:f7c2:e12c::/64
-ufw deny from 2a02:26f7:f7c2:e156::/64
-ufw deny from 2a02:26f7:f7c4:e12c::/64
-ufw deny from 2a02:26f7:f7c4:e156::/64
-ufw deny from 2a02:26f7:f7cc:e12c::/64
-ufw deny from 2a02:26f7:f7cc:e156::/64
-ufw deny from 2a02:26f7:f7d0:e12c::/64
-ufw deny from 2a02:26f7:f7d0:e156::/64
-ufw deny from 2a02:26f7:f7d4:e12c::/64
-ufw deny from 2a02:26f7:f7d4:e156::/64
-ufw deny from 2a02:26f7:f7d8:e12c::/64
-ufw deny from 2a02:26f7:f7d8:e156::/64
 ufw deny from 104.28.32.12/32
 ufw deny from 104.28.32.13/32
 ufw deny from 104.28.36.26/32
@@ -35,5 +21,19 @@ ufw deny from 104.28.126.18/32
 ufw deny from 104.28.126.19/32
 ufw deny from 2606:54c0:26e8::/45
 ufw deny from 2606:54c3:0:dc9::/64
+ufw deny from 2a02:26f7:f7c0:e12c::/64
+ufw deny from 2a02:26f7:f7c0:e156::/64
+ufw deny from 2a02:26f7:f7c2:e12c::/64
+ufw deny from 2a02:26f7:f7c2:e156::/64
+ufw deny from 2a02:26f7:f7c4:e12c::/64
+ufw deny from 2a02:26f7:f7c4:e156::/64
+ufw deny from 2a02:26f7:f7cc:e12c::/64
+ufw deny from 2a02:26f7:f7cc:e156::/64
+ufw deny from 2a02:26f7:f7d0:e12c::/64
+ufw deny from 2a02:26f7:f7d0:e156::/64
+ufw deny from 2a02:26f7:f7d4:e12c::/64
+ufw deny from 2a02:26f7:f7d4:e156::/64
+ufw deny from 2a02:26f7:f7d8:e12c::/64
+ufw deny from 2a02:26f7:f7d8:e156::/64
 ufw deny from 2a09:bac2:26e8::/45
 ufw deny from 2a09:bac3:26e8::/45

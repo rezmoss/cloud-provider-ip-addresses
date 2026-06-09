@@ -1,5 +1,90 @@
 [
   {
+    "ip_address": "104.28.32.4/32",
+    "ip_type": "IPv4",
+    "region": "KY"
+  },
+  {
+    "ip_address": "104.28.32.5/32",
+    "ip_type": "IPv4",
+    "region": "KY"
+  },
+  {
+    "ip_address": "104.28.36.18/32",
+    "ip_type": "IPv4",
+    "region": "KY"
+  },
+  {
+    "ip_address": "104.28.36.19/32",
+    "ip_type": "IPv4",
+    "region": "KY"
+  },
+  {
+    "ip_address": "104.28.91.2/32",
+    "ip_type": "IPv4",
+    "region": "KY"
+  },
+  {
+    "ip_address": "104.28.91.3/32",
+    "ip_type": "IPv4",
+    "region": "KY"
+  },
+  {
+    "ip_address": "104.28.92.10/32",
+    "ip_type": "IPv4",
+    "region": "KY"
+  },
+  {
+    "ip_address": "104.28.92.11/32",
+    "ip_type": "IPv4",
+    "region": "KY"
+  },
+  {
+    "ip_address": "104.28.94.10/32",
+    "ip_type": "IPv4",
+    "region": "KY"
+  },
+  {
+    "ip_address": "104.28.94.11/32",
+    "ip_type": "IPv4",
+    "region": "KY"
+  },
+  {
+    "ip_address": "104.28.126.10/32",
+    "ip_type": "IPv4",
+    "region": "KY"
+  },
+  {
+    "ip_address": "104.28.126.11/32",
+    "ip_type": "IPv4",
+    "region": "KY"
+  },
+  {
+    "ip_address": "140.248.4.44/31",
+    "ip_type": "IPv4",
+    "region": "KY"
+  },
+  {
+    "ip_address": "140.248.12.28/31",
+    "ip_type": "IPv4",
+    "region": "KY"
+  },
+  {
+    "ip_address": "140.248.44.68/31",
+    "ip_type": "IPv4",
+    "region": "KY"
+  },
+  {
+    "ip_address": "146.75.232.28/31",
+    "ip_type": "IPv4",
+    "region": "KY"
+  },
+  {
+    "ip_address": "146.75.248.28/31",
+    "ip_type": "IPv4",
+    "region": "KY"
+  },
+  {
     "ip_address": "172.225.92.160/28",
     "ip_type": "IPv4",
     "region": "KY"
@@ -22,6 +107,16 @@
   {
     "ip_address": "172.226.79.48/28",
     "ip_type": "IPv4",
+    "region": "KY"
+  },
+  {
+    "ip_address": "2606:54c0:4730::/45",
+    "ip_type": "IPv6",
+    "region": "KY"
+  },
+  {
+    "ip_address": "2606:54c3:0:12e7::/64",
+    "ip_type": "IPv6",
     "region": "KY"
   },
   {
@@ -100,86 +195,6 @@
     "region": "KY"
   },
   {
-    "ip_address": "104.28.32.4/32",
-    "ip_type": "IPv4",
-    "region": "KY"
-  },
-  {
-    "ip_address": "104.28.32.5/32",
-    "ip_type": "IPv4",
-    "region": "KY"
-  },
-  {
-    "ip_address": "104.28.36.18/32",
-    "ip_type": "IPv4",
-    "region": "KY"
-  },
-  {
-    "ip_address": "104.28.36.19/32",
-    "ip_type": "IPv4",
-    "region": "KY"
-  },
-  {
-    "ip_address": "104.28.91.2/32",
-    "ip_type": "IPv4",
-    "region": "KY"
-  },
-  {
-    "ip_address": "104.28.91.3/32",
-    "ip_type": "IPv4",
-    "region": "KY"
-  },
-  {
-    "ip_address": "104.28.92.10/32",
-    "ip_type": "IPv4",
-    "region": "KY"
-  },
-  {
-    "ip_address": "104.28.92.11/32",
-    "ip_type": "IPv4",
-    "region": "KY"
-  },
-  {
-    "ip_address": "104.28.94.10/32",
-    "ip_type": "IPv4",
-    "region": "KY"
-  },
-  {
-    "ip_address": "104.28.94.11/32",
-    "ip_type": "IPv4",
-    "region": "KY"
-  },
-  {
-    "ip_address": "104.28.126.10/32",
-    "ip_type": "IPv4",
-    "region": "KY"
-  },
-  {
-    "ip_address": "104.28.126.11/32",
-    "ip_type": "IPv4",
-    "region": "KY"
-  },
-  {
-    "ip_address": "2606:54c0:4730::/45",
-    "ip_type": "IPv6",
-    "region": "KY"
-  },
-  {
-    "ip_address": "2606:54c3:0:12e7::/64",
-    "ip_type": "IPv6",
-    "region": "KY"
-  },
-  {
-    "ip_address": "2a09:bac2:4730::/45",
-    "ip_type": "IPv6",
-    "region": "KY"
-  },
-  {
-    "ip_address": "2a09:bac3:4730::/45",
-    "ip_type": "IPv6",
-    "region": "KY"
-  },
-  {
     "ip_address": "2a04:4e41:361f::/48",
     "ip_type": "IPv6",
     "region": "KY"
@@ -205,28 +220,13 @@
     "region": "KY"
   },
   {
-    "ip_address": "140.248.4.44/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:4730::/45",
+    "ip_type": "IPv6",
     "region": "KY"
   },
   {
-    "ip_address": "140.248.12.28/31",
-    "ip_type": "IPv4",
-    "region": "KY"
-  },
-  {
-    "ip_address": "140.248.44.68/31",
-    "ip_type": "IPv4",
-    "region": "KY"
-  },
-  {
-    "ip_address": "146.75.232.28/31",
-    "ip_type": "IPv4",
-    "region": "KY"
-  },
-  {
-    "ip_address": "146.75.248.28/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:4730::/45",
+    "ip_type": "IPv6",
     "region": "KY"
   }
 ]

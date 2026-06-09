@@ -13,6 +13,8 @@ INSERT INTO `apple_private_relay_mx-gro_ips` (`ip_address`, `ip_type`) VALUES ('
 INSERT INTO `apple_private_relay_mx-gro_ips` (`ip_address`, `ip_type`) VALUES ('172.225.154.212/31', 'IPv4');
 INSERT INTO `apple_private_relay_mx-gro_ips` (`ip_address`, `ip_type`) VALUES ('172.225.155.36/31', 'IPv4');
 INSERT INTO `apple_private_relay_mx-gro_ips` (`ip_address`, `ip_type`) VALUES ('172.226.122.52/31', 'IPv4');
+INSERT INTO `apple_private_relay_mx-gro_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:4a50::/45', 'IPv6');
+INSERT INTO `apple_private_relay_mx-gro_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:5d::/64', 'IPv6');
 INSERT INTO `apple_private_relay_mx-gro_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:c000:5c01::/64', 'IPv6');
 INSERT INTO `apple_private_relay_mx-gro_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:c000:5c1c::/64', 'IPv6');
 INSERT INTO `apple_private_relay_mx-gro_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:c000:5c1d::/64', 'IPv6');
@@ -41,7 +43,5 @@ INSERT INTO `apple_private_relay_mx-gro_ips` (`ip_address`, `ip_type`) VALUES ('
 INSERT INTO `apple_private_relay_mx-gro_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:c018:5c1c::/64', 'IPv6');
 INSERT INTO `apple_private_relay_mx-gro_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:c018:5c1d::/64', 'IPv6');
 INSERT INTO `apple_private_relay_mx-gro_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:c018:5c1e::/64', 'IPv6');
-INSERT INTO `apple_private_relay_mx-gro_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:4a50::/45', 'IPv6');
-INSERT INTO `apple_private_relay_mx-gro_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:5d::/64', 'IPv6');
 INSERT INTO `apple_private_relay_mx-gro_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:4a50::/45', 'IPv6');
 INSERT INTO `apple_private_relay_mx-gro_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:4a50::/45', 'IPv6');

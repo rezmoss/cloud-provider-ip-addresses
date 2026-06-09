@@ -7,7 +7,7 @@ import ipaddress
 import json
 import re
 import shutil
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
 REPO = "rezmoss/cloud-provider-ip-addresses"
@@ -258,7 +258,6 @@ def topbar(active: str, generated_dt: datetime, providers_count: int) -> str:
     )
     next_dt = generated_dt.replace(hour=6, minute=0, second=0, microsecond=0)
     if next_dt <= datetime.now(timezone.utc):
-        from datetime import timedelta
         next_dt = next_dt + timedelta(days=1)
     return f"""<header class="topbar">
   <div class="brand">
@@ -516,18 +515,24 @@ def render_index(summary: dict, generated_dt: datetime, days: list) -> str:
     if not diff_rows:
         diff_rows = '<div class="diff-item"><div></div><div class="meta" style="grid-column:span 3">No changes today.</div></div>'
 
+    # Render the last 7 calendar days anchored at the build date. Days with no
+    # changelog entry had zero net change (upstream reshuffles produce no diff);
+    # show them as an explicit +0/-0 row so a quiet day reads as "verified stable"
+    # rather than a gap that looks like the pipeline stopped.
+    by_date = {d["date"]: d for d in days}
     recent = ""
-    for day in days[:7]:
-        added = sum(p["added"] for p in day["providers"])
-        removed = sum(p["removed"] for p in day["providers"])
+    for i in range(7):
+        date_str = (generated_dt.date() - timedelta(days=i)).isoformat()
+        day = by_date.get(date_str)
+        added = sum(p["added"] for p in day["providers"]) if day else 0
+        removed = sum(p["removed"] for p in day["providers"]) if day else 0
         net = added - removed
-        recent += f"""<div class="rc-row">
-  <div class="rc-date">{day['date']}</div>
+        quiet = "" if day else " rc-quiet"
+        recent += f"""<div class="rc-row{quiet}">
+  <div class="rc-date">{date_str}</div>
   <div class="rc-bars"><span class="rc-added">+{added}</span><span class="rc-removed">-{removed}</span></div>
   <div class="rc-net" style="color:{'var(--green)' if net>=0 else 'var(--red)'}">{'+' if net>=0 else ''}{net}</div>
 </div>"""
-    if not recent:
-        recent = '<div class="rc-row"><div class="meta">No data.</div></div>'
 
     aggregate_chips = "".join(
         f'<a class="chip active" href="/{slug}/" style="text-transform:none">{html.escape(g["label"])} · {len(g["providers"])}</a>'

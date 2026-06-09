@@ -1,5 +1,30 @@
 [
   {
+    "ip_address": "140.248.40.114/31",
+    "ip_type": "IPv4",
+    "region": "GH"
+  },
+  {
+    "ip_address": "146.75.174.102/31",
+    "ip_type": "IPv4",
+    "region": "GH"
+  },
+  {
+    "ip_address": "146.75.178.26/31",
+    "ip_type": "IPv4",
+    "region": "GH"
+  },
+  {
+    "ip_address": "146.75.182.26/31",
+    "ip_type": "IPv4",
+    "region": "GH"
+  },
+  {
+    "ip_address": "146.75.210.26/31",
+    "ip_type": "IPv4",
+    "region": "GH"
+  },
+  {
     "ip_address": "172.224.231.224/28",
     "ip_type": "IPv4",
     "region": "GH"
@@ -47,6 +72,16 @@
   {
     "ip_address": "172.226.148.96/28",
     "ip_type": "IPv4",
+    "region": "GH"
+  },
+  {
+    "ip_address": "2606:54c0:3850::/45",
+    "ip_type": "IPv6",
+    "region": "GH"
+  },
+  {
+    "ip_address": "2606:54c3:0:a5b::/64",
+    "ip_type": "IPv6",
     "region": "GH"
   },
   {
@@ -275,26 +310,6 @@
     "region": "GH"
   },
   {
-    "ip_address": "2606:54c0:3850::/45",
-    "ip_type": "IPv6",
-    "region": "GH"
-  },
-  {
-    "ip_address": "2606:54c3:0:a5b::/64",
-    "ip_type": "IPv6",
-    "region": "GH"
-  },
-  {
-    "ip_address": "2a09:bac2:3850::/45",
-    "ip_type": "IPv6",
-    "region": "GH"
-  },
-  {
-    "ip_address": "2a09:bac3:3850::/45",
-    "ip_type": "IPv6",
-    "region": "GH"
-  },
-  {
     "ip_address": "2a04:4e41:101::/48",
     "ip_type": "IPv6",
     "region": "GH"
@@ -320,28 +335,13 @@
     "region": "GH"
   },
   {
-    "ip_address": "140.248.40.114/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:3850::/45",
+    "ip_type": "IPv6",
     "region": "GH"
   },
   {
-    "ip_address": "146.75.174.102/31",
-    "ip_type": "IPv4",
-    "region": "GH"
-  },
-  {
-    "ip_address": "146.75.178.26/31",
-    "ip_type": "IPv4",
-    "region": "GH"
-  },
-  {
-    "ip_address": "146.75.182.26/31",
-    "ip_type": "IPv4",
-    "region": "GH"
-  },
-  {
-    "ip_address": "146.75.210.26/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:3850::/45",
+    "ip_type": "IPv6",
     "region": "GH"
   }
 ]

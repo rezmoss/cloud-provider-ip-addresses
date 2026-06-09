@@ -1,5 +1,60 @@
 [
   {
+    "ip_address": "104.28.50.222/32",
+    "ip_type": "IPv4",
+    "region": "SX"
+  },
+  {
+    "ip_address": "104.28.50.223/32",
+    "ip_type": "IPv4",
+    "region": "SX"
+  },
+  {
+    "ip_address": "104.28.50.224/32",
+    "ip_type": "IPv4",
+    "region": "SX"
+  },
+  {
+    "ip_address": "104.28.50.225/32",
+    "ip_type": "IPv4",
+    "region": "SX"
+  },
+  {
+    "ip_address": "104.28.92.196/32",
+    "ip_type": "IPv4",
+    "region": "SX"
+  },
+  {
+    "ip_address": "140.248.14.46/31",
+    "ip_type": "IPv4",
+    "region": "SX"
+  },
+  {
+    "ip_address": "140.248.46.124/31",
+    "ip_type": "IPv4",
+    "region": "SX"
+  },
+  {
+    "ip_address": "146.75.132.180/31",
+    "ip_type": "IPv4",
+    "region": "SX"
+  },
+  {
+    "ip_address": "146.75.160.180/31",
+    "ip_type": "IPv4",
+    "region": "SX"
+  },
+  {
+    "ip_address": "146.75.234.46/31",
+    "ip_type": "IPv4",
+    "region": "SX"
+  },
+  {
+    "ip_address": "146.75.250.46/31",
+    "ip_type": "IPv4",
+    "region": "SX"
+  },
+  {
     "ip_address": "172.224.236.64/27",
     "ip_type": "IPv4",
     "region": "SX"
@@ -27,6 +82,16 @@
   {
     "ip_address": "172.226.143.160/27",
     "ip_type": "IPv4",
+    "region": "SX"
+  },
+  {
+    "ip_address": "2606:54c0:5578::/45",
+    "ip_type": "IPv6",
+    "region": "SX"
+  },
+  {
+    "ip_address": "2606:54c3:0:2ef::/64",
+    "ip_type": "IPv6",
     "region": "SX"
   },
   {
@@ -90,51 +155,6 @@
     "region": "SX"
   },
   {
-    "ip_address": "104.28.50.222/32",
-    "ip_type": "IPv4",
-    "region": "SX"
-  },
-  {
-    "ip_address": "104.28.50.223/32",
-    "ip_type": "IPv4",
-    "region": "SX"
-  },
-  {
-    "ip_address": "104.28.50.224/32",
-    "ip_type": "IPv4",
-    "region": "SX"
-  },
-  {
-    "ip_address": "104.28.50.225/32",
-    "ip_type": "IPv4",
-    "region": "SX"
-  },
-  {
-    "ip_address": "104.28.92.196/32",
-    "ip_type": "IPv4",
-    "region": "SX"
-  },
-  {
-    "ip_address": "2606:54c0:5578::/45",
-    "ip_type": "IPv6",
-    "region": "SX"
-  },
-  {
-    "ip_address": "2606:54c3:0:2ef::/64",
-    "ip_type": "IPv6",
-    "region": "SX"
-  },
-  {
-    "ip_address": "2a09:bac2:5578::/45",
-    "ip_type": "IPv6",
-    "region": "SX"
-  },
-  {
-    "ip_address": "2a09:bac3:5578::/45",
-    "ip_type": "IPv6",
-    "region": "SX"
-  },
-  {
     "ip_address": "2a04:4e41:3a3b::/48",
     "ip_type": "IPv6",
     "region": "SX"
@@ -165,33 +185,13 @@
     "region": "SX"
   },
   {
-    "ip_address": "140.248.14.46/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:5578::/45",
+    "ip_type": "IPv6",
     "region": "SX"
   },
   {
-    "ip_address": "140.248.46.124/31",
-    "ip_type": "IPv4",
-    "region": "SX"
-  },
-  {
-    "ip_address": "146.75.132.180/31",
-    "ip_type": "IPv4",
-    "region": "SX"
-  },
-  {
-    "ip_address": "146.75.160.180/31",
-    "ip_type": "IPv4",
-    "region": "SX"
-  },
-  {
-    "ip_address": "146.75.234.46/31",
-    "ip_type": "IPv4",
-    "region": "SX"
-  },
-  {
-    "ip_address": "146.75.250.46/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:5578::/45",
+    "ip_type": "IPv6",
     "region": "SX"
   }
 ]

@@ -4,6 +4,12 @@ Daily IP range changes across all providers.
 
 ## 2026-06-09
 
+### googlebot
+- Added: 2 CIDRs
+- Removed: 0 CIDRs
+
+## 2026-06-09
+
 ### digitalocean
 - Added: 1 CIDRs
 - Removed: 0 CIDRs

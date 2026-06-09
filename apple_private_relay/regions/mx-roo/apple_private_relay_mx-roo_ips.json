@@ -1,5 +1,65 @@
 [
   {
+    "ip_address": "104.28.32.76/32",
+    "ip_type": "IPv4",
+    "region": "MX-ROO"
+  },
+  {
+    "ip_address": "104.28.32.77/32",
+    "ip_type": "IPv4",
+    "region": "MX-ROO"
+  },
+  {
+    "ip_address": "104.28.50.12/32",
+    "ip_type": "IPv4",
+    "region": "MX-ROO"
+  },
+  {
+    "ip_address": "104.28.50.13/32",
+    "ip_type": "IPv4",
+    "region": "MX-ROO"
+  },
+  {
+    "ip_address": "104.28.91.72/32",
+    "ip_type": "IPv4",
+    "region": "MX-ROO"
+  },
+  {
+    "ip_address": "104.28.91.73/32",
+    "ip_type": "IPv4",
+    "region": "MX-ROO"
+  },
+  {
+    "ip_address": "104.28.92.101/32",
+    "ip_type": "IPv4",
+    "region": "MX-ROO"
+  },
+  {
+    "ip_address": "104.28.92.102/32",
+    "ip_type": "IPv4",
+    "region": "MX-ROO"
+  },
+  {
+    "ip_address": "104.28.94.101/32",
+    "ip_type": "IPv4",
+    "region": "MX-ROO"
+  },
+  {
+    "ip_address": "104.28.94.102/32",
+    "ip_type": "IPv4",
+    "region": "MX-ROO"
+  },
+  {
+    "ip_address": "104.28.126.101/32",
+    "ip_type": "IPv4",
+    "region": "MX-ROO"
+  },
+  {
+    "ip_address": "104.28.126.102/32",
+    "ip_type": "IPv4",
+    "region": "MX-ROO"
+  },
+  {
     "ip_address": "172.225.154.96/27",
     "ip_type": "IPv4",
     "region": "MX-ROO"
@@ -17,6 +77,36 @@
   {
     "ip_address": "172.226.122.96/27",
     "ip_type": "IPv4",
+    "region": "MX-ROO"
+  },
+  {
+    "ip_address": "2606:54c0:4b58::/45",
+    "ip_type": "IPv6",
+    "region": "MX-ROO"
+  },
+  {
+    "ip_address": "2606:54c0:4b60::/45",
+    "ip_type": "IPv6",
+    "region": "MX-ROO"
+  },
+  {
+    "ip_address": "2606:54c0:4b68::/45",
+    "ip_type": "IPv6",
+    "region": "MX-ROO"
+  },
+  {
+    "ip_address": "2606:54c3:0:a8b::/64",
+    "ip_type": "IPv6",
+    "region": "MX-ROO"
+  },
+  {
+    "ip_address": "2606:54c3:0:14dc::/64",
+    "ip_type": "IPv6",
+    "region": "MX-ROO"
+  },
+  {
+    "ip_address": "2606:54c3:0:14f1::/64",
+    "ip_type": "IPv6",
     "region": "MX-ROO"
   },
   {
@@ -136,96 +226,6 @@
   },
   {
     "ip_address": "2a02:26f7:bfcd:4000::/64",
-    "ip_type": "IPv6",
-    "region": "MX-ROO"
-  },
-  {
-    "ip_address": "104.28.32.76/32",
-    "ip_type": "IPv4",
-    "region": "MX-ROO"
-  },
-  {
-    "ip_address": "104.28.32.77/32",
-    "ip_type": "IPv4",
-    "region": "MX-ROO"
-  },
-  {
-    "ip_address": "104.28.50.12/32",
-    "ip_type": "IPv4",
-    "region": "MX-ROO"
-  },
-  {
-    "ip_address": "104.28.50.13/32",
-    "ip_type": "IPv4",
-    "region": "MX-ROO"
-  },
-  {
-    "ip_address": "104.28.91.72/32",
-    "ip_type": "IPv4",
-    "region": "MX-ROO"
-  },
-  {
-    "ip_address": "104.28.91.73/32",
-    "ip_type": "IPv4",
-    "region": "MX-ROO"
-  },
-  {
-    "ip_address": "104.28.92.101/32",
-    "ip_type": "IPv4",
-    "region": "MX-ROO"
-  },
-  {
-    "ip_address": "104.28.92.102/32",
-    "ip_type": "IPv4",
-    "region": "MX-ROO"
-  },
-  {
-    "ip_address": "104.28.94.101/32",
-    "ip_type": "IPv4",
-    "region": "MX-ROO"
-  },
-  {
-    "ip_address": "104.28.94.102/32",
-    "ip_type": "IPv4",
-    "region": "MX-ROO"
-  },
-  {
-    "ip_address": "104.28.126.101/32",
-    "ip_type": "IPv4",
-    "region": "MX-ROO"
-  },
-  {
-    "ip_address": "104.28.126.102/32",
-    "ip_type": "IPv4",
-    "region": "MX-ROO"
-  },
-  {
-    "ip_address": "2606:54c0:4b58::/45",
-    "ip_type": "IPv6",
-    "region": "MX-ROO"
-  },
-  {
-    "ip_address": "2606:54c0:4b60::/45",
-    "ip_type": "IPv6",
-    "region": "MX-ROO"
-  },
-  {
-    "ip_address": "2606:54c0:4b68::/45",
-    "ip_type": "IPv6",
-    "region": "MX-ROO"
-  },
-  {
-    "ip_address": "2606:54c3:0:a8b::/64",
-    "ip_type": "IPv6",
-    "region": "MX-ROO"
-  },
-  {
-    "ip_address": "2606:54c3:0:14dc::/64",
-    "ip_type": "IPv6",
-    "region": "MX-ROO"
-  },
-  {
-    "ip_address": "2606:54c3:0:14f1::/64",
     "ip_type": "IPv6",
     "region": "MX-ROO"
   },

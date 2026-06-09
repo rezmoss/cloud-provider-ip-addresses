@@ -1,6 +1,6 @@
 [
   {
-    "ip_address": "52.23.85.212/32",
+    "ip_address": "20.51.87.64/28",
     "ip_type": "IPv4",
     "service": "importer"
   },
@@ -15,7 +15,7 @@
     "service": "importer"
   },
   {
-    "ip_address": "20.51.87.64/28",
+    "ip_address": "52.23.85.212/32",
     "ip_type": "IPv4",
     "service": "importer"
   },

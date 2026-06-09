@@ -1,5 +1,20 @@
 [
   {
+    "ip_address": "140.248.4.12/31",
+    "ip_type": "IPv4",
+    "region": "CR"
+  },
+  {
+    "ip_address": "140.248.44.22/31",
+    "ip_type": "IPv4",
+    "region": "CR"
+  },
+  {
+    "ip_address": "146.75.208.4/31",
+    "ip_type": "IPv4",
+    "region": "CR"
+  },
+  {
     "ip_address": "172.225.32.32/27",
     "ip_type": "IPv4",
     "region": "CR"
@@ -57,6 +72,16 @@
   {
     "ip_address": "172.226.78.16/28",
     "ip_type": "IPv4",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2606:54c0:2708::/45",
+    "ip_type": "IPv6",
+    "region": "CR"
+  },
+  {
+    "ip_address": "2606:54c3:0:14bf::/64",
+    "ip_type": "IPv6",
     "region": "CR"
   },
   {
@@ -570,26 +595,6 @@
     "region": "CR"
   },
   {
-    "ip_address": "2606:54c0:2708::/45",
-    "ip_type": "IPv6",
-    "region": "CR"
-  },
-  {
-    "ip_address": "2606:54c3:0:14bf::/64",
-    "ip_type": "IPv6",
-    "region": "CR"
-  },
-  {
-    "ip_address": "2a09:bac2:2708::/45",
-    "ip_type": "IPv6",
-    "region": "CR"
-  },
-  {
-    "ip_address": "2a09:bac3:2708::/45",
-    "ip_type": "IPv6",
-    "region": "CR"
-  },
-  {
     "ip_address": "2a04:4e41:183::/48",
     "ip_type": "IPv6",
     "region": "CR"
@@ -605,18 +610,13 @@
     "region": "CR"
   },
   {
-    "ip_address": "140.248.4.12/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:2708::/45",
+    "ip_type": "IPv6",
     "region": "CR"
   },
   {
-    "ip_address": "140.248.44.22/31",
-    "ip_type": "IPv4",
-    "region": "CR"
-  },
-  {
-    "ip_address": "146.75.208.4/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:2708::/45",
+    "ip_type": "IPv6",
     "region": "CR"
   }
 ]

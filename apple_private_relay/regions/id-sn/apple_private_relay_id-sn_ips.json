@@ -1,5 +1,75 @@
 [
   {
+    "ip_address": "104.28.28.52/32",
+    "ip_type": "IPv4",
+    "region": "ID-SN"
+  },
+  {
+    "ip_address": "104.28.28.53/32",
+    "ip_type": "IPv4",
+    "region": "ID-SN"
+  },
+  {
+    "ip_address": "104.28.35.58/32",
+    "ip_type": "IPv4",
+    "region": "ID-SN"
+  },
+  {
+    "ip_address": "104.28.35.59/32",
+    "ip_type": "IPv4",
+    "region": "ID-SN"
+  },
+  {
+    "ip_address": "104.28.43.177/32",
+    "ip_type": "IPv4",
+    "region": "ID-SN"
+  },
+  {
+    "ip_address": "104.28.43.178/32",
+    "ip_type": "IPv4",
+    "region": "ID-SN"
+  },
+  {
+    "ip_address": "104.28.67.55/32",
+    "ip_type": "IPv4",
+    "region": "ID-SN"
+  },
+  {
+    "ip_address": "104.28.67.56/32",
+    "ip_type": "IPv4",
+    "region": "ID-SN"
+  },
+  {
+    "ip_address": "104.28.70.55/32",
+    "ip_type": "IPv4",
+    "region": "ID-SN"
+  },
+  {
+    "ip_address": "104.28.70.56/32",
+    "ip_type": "IPv4",
+    "region": "ID-SN"
+  },
+  {
+    "ip_address": "104.28.118.49/32",
+    "ip_type": "IPv4",
+    "region": "ID-SN"
+  },
+  {
+    "ip_address": "104.28.118.50/32",
+    "ip_type": "IPv4",
+    "region": "ID-SN"
+  },
+  {
+    "ip_address": "104.28.121.49/32",
+    "ip_type": "IPv4",
+    "region": "ID-SN"
+  },
+  {
+    "ip_address": "104.28.121.50/32",
+    "ip_type": "IPv4",
+    "region": "ID-SN"
+  },
+  {
     "ip_address": "172.225.72.192/26",
     "ip_type": "IPv4",
     "region": "ID-SN"
@@ -17,6 +87,16 @@
   {
     "ip_address": "172.225.220.96/28",
     "ip_type": "IPv4",
+    "region": "ID-SN"
+  },
+  {
+    "ip_address": "2606:54c0:39c8::/45",
+    "ip_type": "IPv6",
+    "region": "ID-SN"
+  },
+  {
+    "ip_address": "2606:54c3:0:58c::/64",
+    "ip_type": "IPv6",
     "region": "ID-SN"
   },
   {
@@ -136,86 +216,6 @@
   },
   {
     "ip_address": "2a02:26f7:d70b:4000::/64",
-    "ip_type": "IPv6",
-    "region": "ID-SN"
-  },
-  {
-    "ip_address": "104.28.28.52/32",
-    "ip_type": "IPv4",
-    "region": "ID-SN"
-  },
-  {
-    "ip_address": "104.28.28.53/32",
-    "ip_type": "IPv4",
-    "region": "ID-SN"
-  },
-  {
-    "ip_address": "104.28.35.58/32",
-    "ip_type": "IPv4",
-    "region": "ID-SN"
-  },
-  {
-    "ip_address": "104.28.35.59/32",
-    "ip_type": "IPv4",
-    "region": "ID-SN"
-  },
-  {
-    "ip_address": "104.28.43.177/32",
-    "ip_type": "IPv4",
-    "region": "ID-SN"
-  },
-  {
-    "ip_address": "104.28.43.178/32",
-    "ip_type": "IPv4",
-    "region": "ID-SN"
-  },
-  {
-    "ip_address": "104.28.67.55/32",
-    "ip_type": "IPv4",
-    "region": "ID-SN"
-  },
-  {
-    "ip_address": "104.28.67.56/32",
-    "ip_type": "IPv4",
-    "region": "ID-SN"
-  },
-  {
-    "ip_address": "104.28.70.55/32",
-    "ip_type": "IPv4",
-    "region": "ID-SN"
-  },
-  {
-    "ip_address": "104.28.70.56/32",
-    "ip_type": "IPv4",
-    "region": "ID-SN"
-  },
-  {
-    "ip_address": "104.28.118.49/32",
-    "ip_type": "IPv4",
-    "region": "ID-SN"
-  },
-  {
-    "ip_address": "104.28.118.50/32",
-    "ip_type": "IPv4",
-    "region": "ID-SN"
-  },
-  {
-    "ip_address": "104.28.121.49/32",
-    "ip_type": "IPv4",
-    "region": "ID-SN"
-  },
-  {
-    "ip_address": "104.28.121.50/32",
-    "ip_type": "IPv4",
-    "region": "ID-SN"
-  },
-  {
-    "ip_address": "2606:54c0:39c8::/45",
-    "ip_type": "IPv6",
-    "region": "ID-SN"
-  },
-  {
-    "ip_address": "2606:54c3:0:58c::/64",
     "ip_type": "IPv6",
     "region": "ID-SN"
   },

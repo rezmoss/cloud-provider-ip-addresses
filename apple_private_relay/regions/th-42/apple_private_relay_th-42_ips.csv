@@ -1,4 +1,6 @@
 ip_address,ip_type,region
+2606:54c0:5660::/45,IPv6,TH-42
+2606:54c3:0:122d::/64,IPv6,TH-42
 2a02:26f7:c640:4ce6::/64,IPv6,TH-42
 2a02:26f7:c640:4ce7::/64,IPv6,TH-42
 2a02:26f7:c644:4ce6::/64,IPv6,TH-42
@@ -7,7 +9,5 @@ ip_address,ip_type,region
 2a02:26f7:c645:4ce7::/64,IPv6,TH-42
 2a02:26f7:c648:4ce6::/64,IPv6,TH-42
 2a02:26f7:c648:4ce7::/64,IPv6,TH-42
-2606:54c0:5660::/45,IPv6,TH-42
-2606:54c3:0:122d::/64,IPv6,TH-42
 2a09:bac2:5660::/45,IPv6,TH-42
 2a09:bac3:5660::/45,IPv6,TH-42

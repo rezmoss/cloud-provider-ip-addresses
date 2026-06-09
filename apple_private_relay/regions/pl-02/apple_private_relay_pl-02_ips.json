@@ -55,22 +55,32 @@
     "region": "PL-02"
   },
   {
+    "ip_address": "140.248.34.162/31",
+    "ip_type": "IPv4",
+    "region": "PL-02"
+  },
+  {
+    "ip_address": "140.248.36.212/31",
+    "ip_type": "IPv4",
+    "region": "PL-02"
+  },
+  {
+    "ip_address": "146.75.162.72/31",
+    "ip_type": "IPv4",
+    "region": "PL-02"
+  },
+  {
+    "ip_address": "146.75.169.162/31",
+    "ip_type": "IPv4",
+    "region": "PL-02"
+  },
+  {
     "ip_address": "2606:54c0:4fb0::/45",
     "ip_type": "IPv6",
     "region": "PL-02"
   },
   {
     "ip_address": "2606:54c3:0:b24::/64",
-    "ip_type": "IPv6",
-    "region": "PL-02"
-  },
-  {
-    "ip_address": "2a09:bac2:4fb0::/45",
-    "ip_type": "IPv6",
-    "region": "PL-02"
-  },
-  {
-    "ip_address": "2a09:bac3:4fb0::/45",
     "ip_type": "IPv6",
     "region": "PL-02"
   },
@@ -95,23 +105,13 @@
     "region": "PL-02"
   },
   {
-    "ip_address": "140.248.34.162/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:4fb0::/45",
+    "ip_type": "IPv6",
     "region": "PL-02"
   },
   {
-    "ip_address": "140.248.36.212/31",
-    "ip_type": "IPv4",
-    "region": "PL-02"
-  },
-  {
-    "ip_address": "146.75.162.72/31",
-    "ip_type": "IPv4",
-    "region": "PL-02"
-  },
-  {
-    "ip_address": "146.75.169.162/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:4fb0::/45",
+    "ip_type": "IPv6",
     "region": "PL-02"
   }
 ]

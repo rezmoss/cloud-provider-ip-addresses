@@ -6,6 +6,10 @@ CREATE TABLE IF NOT EXISTS `apple_private_relay_in-hp_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `apple_private_relay_in-hp_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:3c00::/45', 'IPv6');
+INSERT INTO `apple_private_relay_in-hp_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:3c08::/45', 'IPv6');
+INSERT INTO `apple_private_relay_in-hp_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:ab2::/64', 'IPv6');
+INSERT INTO `apple_private_relay_in-hp_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:10e0::/64', 'IPv6');
 INSERT INTO `apple_private_relay_in-hp_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d6c0:685f::/64', 'IPv6');
 INSERT INTO `apple_private_relay_in-hp_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d6c0:6860::/64', 'IPv6');
 INSERT INTO `apple_private_relay_in-hp_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d6c0:6861::/64', 'IPv6');
@@ -48,10 +52,6 @@ INSERT INTO `apple_private_relay_in-hp_ips` (`ip_address`, `ip_type`) VALUES ('2
 INSERT INTO `apple_private_relay_in-hp_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d6d0:6863::/64', 'IPv6');
 INSERT INTO `apple_private_relay_in-hp_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d6d0:6864::/64', 'IPv6');
 INSERT INTO `apple_private_relay_in-hp_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d6d0:6865::/64', 'IPv6');
-INSERT INTO `apple_private_relay_in-hp_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:3c00::/45', 'IPv6');
-INSERT INTO `apple_private_relay_in-hp_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:3c08::/45', 'IPv6');
-INSERT INTO `apple_private_relay_in-hp_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:ab2::/64', 'IPv6');
-INSERT INTO `apple_private_relay_in-hp_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:10e0::/64', 'IPv6');
 INSERT INTO `apple_private_relay_in-hp_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:3c00::/45', 'IPv6');
 INSERT INTO `apple_private_relay_in-hp_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:3c08::/45', 'IPv6');
 INSERT INTO `apple_private_relay_in-hp_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:3c00::/45', 'IPv6');

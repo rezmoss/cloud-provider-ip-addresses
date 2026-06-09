@@ -60,22 +60,27 @@
     "region": "KE-30"
   },
   {
+    "ip_address": "140.248.36.156/31",
+    "ip_type": "IPv4",
+    "region": "KE-30"
+  },
+  {
+    "ip_address": "140.248.40.146/31",
+    "ip_type": "IPv4",
+    "region": "KE-30"
+  },
+  {
+    "ip_address": "146.75.174.124/31",
+    "ip_type": "IPv4",
+    "region": "KE-30"
+  },
+  {
     "ip_address": "2606:54c0:4638::/45",
     "ip_type": "IPv6",
     "region": "KE-30"
   },
   {
     "ip_address": "2606:54c3:0:a59::/64",
-    "ip_type": "IPv6",
-    "region": "KE-30"
-  },
-  {
-    "ip_address": "2a09:bac2:4638::/45",
-    "ip_type": "IPv6",
-    "region": "KE-30"
-  },
-  {
-    "ip_address": "2a09:bac3:4638::/45",
     "ip_type": "IPv6",
     "region": "KE-30"
   },
@@ -95,18 +100,13 @@
     "region": "KE-30"
   },
   {
-    "ip_address": "140.248.36.156/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:4638::/45",
+    "ip_type": "IPv6",
     "region": "KE-30"
   },
   {
-    "ip_address": "140.248.40.146/31",
-    "ip_type": "IPv4",
-    "region": "KE-30"
-  },
-  {
-    "ip_address": "146.75.174.124/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:4638::/45",
+    "ip_type": "IPv6",
     "region": "KE-30"
   }
 ]

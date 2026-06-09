@@ -1,5 +1,25 @@
 [
   {
+    "ip_address": "2606:54c0:49c8::/45",
+    "ip_type": "IPv6",
+    "region": "MX-CAM"
+  },
+  {
+    "ip_address": "2606:54c0:49d0::/45",
+    "ip_type": "IPv6",
+    "region": "MX-CAM"
+  },
+  {
+    "ip_address": "2606:54c3:0:3c9::/64",
+    "ip_type": "IPv6",
+    "region": "MX-CAM"
+  },
+  {
+    "ip_address": "2606:54c3:0:542::/64",
+    "ip_type": "IPv6",
+    "region": "MX-CAM"
+  },
+  {
     "ip_address": "2a02:26f7:c000:5c0d::/64",
     "ip_type": "IPv6",
     "region": "MX-CAM"
@@ -66,26 +86,6 @@
   },
   {
     "ip_address": "2a02:26f7:c018:5c0e::/64",
-    "ip_type": "IPv6",
-    "region": "MX-CAM"
-  },
-  {
-    "ip_address": "2606:54c0:49c8::/45",
-    "ip_type": "IPv6",
-    "region": "MX-CAM"
-  },
-  {
-    "ip_address": "2606:54c0:49d0::/45",
-    "ip_type": "IPv6",
-    "region": "MX-CAM"
-  },
-  {
-    "ip_address": "2606:54c3:0:3c9::/64",
-    "ip_type": "IPv6",
-    "region": "MX-CAM"
-  },
-  {
-    "ip_address": "2606:54c3:0:542::/64",
     "ip_type": "IPv6",
     "region": "MX-CAM"
   },

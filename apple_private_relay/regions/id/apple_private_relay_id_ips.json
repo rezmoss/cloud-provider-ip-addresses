@@ -165,6 +165,31 @@
     "region": "ID"
   },
   {
+    "ip_address": "140.248.33.4/31",
+    "ip_type": "IPv4",
+    "region": "ID"
+  },
+  {
+    "ip_address": "140.248.48.10/31",
+    "ip_type": "IPv4",
+    "region": "ID"
+  },
+  {
+    "ip_address": "146.75.132.26/31",
+    "ip_type": "IPv4",
+    "region": "ID"
+  },
+  {
+    "ip_address": "146.75.160.26/31",
+    "ip_type": "IPv4",
+    "region": "ID"
+  },
+  {
+    "ip_address": "146.75.189.4/31",
+    "ip_type": "IPv4",
+    "region": "ID"
+  },
+  {
     "ip_address": "2606:54c0:3968::/45",
     "ip_type": "IPv6",
     "region": "ID"
@@ -191,6 +216,31 @@
   },
   {
     "ip_address": "2606:54c3:0:190e::/64",
+    "ip_type": "IPv6",
+    "region": "ID"
+  },
+  {
+    "ip_address": "2a04:4e41:4680::/41",
+    "ip_type": "IPv6",
+    "region": "ID"
+  },
+  {
+    "ip_address": "2a04:4e41:5e80::/41",
+    "ip_type": "IPv6",
+    "region": "ID"
+  },
+  {
+    "ip_address": "2a04:4e41:6080::/41",
+    "ip_type": "IPv6",
+    "region": "ID"
+  },
+  {
+    "ip_address": "2a04:4e41:6a80::/41",
+    "ip_type": "IPv6",
+    "region": "ID"
+  },
+  {
+    "ip_address": "2a04:4e41:7680::/41",
     "ip_type": "IPv6",
     "region": "ID"
   },
@@ -222,56 +272,6 @@
   {
     "ip_address": "2a09:bac3:3978::/45",
     "ip_type": "IPv6",
-    "region": "ID"
-  },
-  {
-    "ip_address": "2a04:4e41:4680::/41",
-    "ip_type": "IPv6",
-    "region": "ID"
-  },
-  {
-    "ip_address": "2a04:4e41:5e80::/41",
-    "ip_type": "IPv6",
-    "region": "ID"
-  },
-  {
-    "ip_address": "2a04:4e41:6080::/41",
-    "ip_type": "IPv6",
-    "region": "ID"
-  },
-  {
-    "ip_address": "2a04:4e41:6a80::/41",
-    "ip_type": "IPv6",
-    "region": "ID"
-  },
-  {
-    "ip_address": "2a04:4e41:7680::/41",
-    "ip_type": "IPv6",
-    "region": "ID"
-  },
-  {
-    "ip_address": "140.248.33.4/31",
-    "ip_type": "IPv4",
-    "region": "ID"
-  },
-  {
-    "ip_address": "140.248.48.10/31",
-    "ip_type": "IPv4",
-    "region": "ID"
-  },
-  {
-    "ip_address": "146.75.132.26/31",
-    "ip_type": "IPv4",
-    "region": "ID"
-  },
-  {
-    "ip_address": "146.75.160.26/31",
-    "ip_type": "IPv4",
-    "region": "ID"
-  },
-  {
-    "ip_address": "146.75.189.4/31",
-    "ip_type": "IPv4",
     "region": "ID"
   }
 ]

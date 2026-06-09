@@ -1,5 +1,85 @@
 [
   {
+    "ip_address": "104.28.28.48/32",
+    "ip_type": "IPv4",
+    "region": "FJ"
+  },
+  {
+    "ip_address": "104.28.28.49/32",
+    "ip_type": "IPv4",
+    "region": "FJ"
+  },
+  {
+    "ip_address": "104.28.29.41/32",
+    "ip_type": "IPv4",
+    "region": "FJ"
+  },
+  {
+    "ip_address": "104.28.29.42/32",
+    "ip_type": "IPv4",
+    "region": "FJ"
+  },
+  {
+    "ip_address": "104.28.35.48/32",
+    "ip_type": "IPv4",
+    "region": "FJ"
+  },
+  {
+    "ip_address": "104.28.35.49/32",
+    "ip_type": "IPv4",
+    "region": "FJ"
+  },
+  {
+    "ip_address": "104.28.90.52/32",
+    "ip_type": "IPv4",
+    "region": "FJ"
+  },
+  {
+    "ip_address": "104.28.90.53/32",
+    "ip_type": "IPv4",
+    "region": "FJ"
+  },
+  {
+    "ip_address": "104.28.125.52/32",
+    "ip_type": "IPv4",
+    "region": "FJ"
+  },
+  {
+    "ip_address": "104.28.125.53/32",
+    "ip_type": "IPv4",
+    "region": "FJ"
+  },
+  {
+    "ip_address": "104.28.140.218/32",
+    "ip_type": "IPv4",
+    "region": "FJ"
+  },
+  {
+    "ip_address": "140.248.20.6/31",
+    "ip_type": "IPv4",
+    "region": "FJ"
+  },
+  {
+    "ip_address": "146.75.132.18/31",
+    "ip_type": "IPv4",
+    "region": "FJ"
+  },
+  {
+    "ip_address": "146.75.136.6/31",
+    "ip_type": "IPv4",
+    "region": "FJ"
+  },
+  {
+    "ip_address": "146.75.160.18/31",
+    "ip_type": "IPv4",
+    "region": "FJ"
+  },
+  {
+    "ip_address": "146.75.190.0/31",
+    "ip_type": "IPv4",
+    "region": "FJ"
+  },
+  {
     "ip_address": "172.225.60.48/28",
     "ip_type": "IPv4",
     "region": "FJ"
@@ -17,6 +97,16 @@
   {
     "ip_address": "172.225.244.32/28",
     "ip_type": "IPv4",
+    "region": "FJ"
+  },
+  {
+    "ip_address": "2606:54c0:3178::/45",
+    "ip_type": "IPv6",
+    "region": "FJ"
+  },
+  {
+    "ip_address": "2606:54c3:0:127e::/64",
+    "ip_type": "IPv6",
     "region": "FJ"
   },
   {
@@ -80,81 +170,6 @@
     "region": "FJ"
   },
   {
-    "ip_address": "104.28.28.48/32",
-    "ip_type": "IPv4",
-    "region": "FJ"
-  },
-  {
-    "ip_address": "104.28.28.49/32",
-    "ip_type": "IPv4",
-    "region": "FJ"
-  },
-  {
-    "ip_address": "104.28.29.41/32",
-    "ip_type": "IPv4",
-    "region": "FJ"
-  },
-  {
-    "ip_address": "104.28.29.42/32",
-    "ip_type": "IPv4",
-    "region": "FJ"
-  },
-  {
-    "ip_address": "104.28.35.48/32",
-    "ip_type": "IPv4",
-    "region": "FJ"
-  },
-  {
-    "ip_address": "104.28.35.49/32",
-    "ip_type": "IPv4",
-    "region": "FJ"
-  },
-  {
-    "ip_address": "104.28.90.52/32",
-    "ip_type": "IPv4",
-    "region": "FJ"
-  },
-  {
-    "ip_address": "104.28.90.53/32",
-    "ip_type": "IPv4",
-    "region": "FJ"
-  },
-  {
-    "ip_address": "104.28.125.52/32",
-    "ip_type": "IPv4",
-    "region": "FJ"
-  },
-  {
-    "ip_address": "104.28.125.53/32",
-    "ip_type": "IPv4",
-    "region": "FJ"
-  },
-  {
-    "ip_address": "104.28.140.218/32",
-    "ip_type": "IPv4",
-    "region": "FJ"
-  },
-  {
-    "ip_address": "2606:54c0:3178::/45",
-    "ip_type": "IPv6",
-    "region": "FJ"
-  },
-  {
-    "ip_address": "2606:54c3:0:127e::/64",
-    "ip_type": "IPv6",
-    "region": "FJ"
-  },
-  {
-    "ip_address": "2a09:bac2:3178::/45",
-    "ip_type": "IPv6",
-    "region": "FJ"
-  },
-  {
-    "ip_address": "2a09:bac3:3178::/45",
-    "ip_type": "IPv6",
-    "region": "FJ"
-  },
-  {
     "ip_address": "2a04:4e41:260a::/48",
     "ip_type": "IPv6",
     "region": "FJ"
@@ -180,28 +195,13 @@
     "region": "FJ"
   },
   {
-    "ip_address": "140.248.20.6/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:3178::/45",
+    "ip_type": "IPv6",
     "region": "FJ"
   },
   {
-    "ip_address": "146.75.132.18/31",
-    "ip_type": "IPv4",
-    "region": "FJ"
-  },
-  {
-    "ip_address": "146.75.136.6/31",
-    "ip_type": "IPv4",
-    "region": "FJ"
-  },
-  {
-    "ip_address": "146.75.160.18/31",
-    "ip_type": "IPv4",
-    "region": "FJ"
-  },
-  {
-    "ip_address": "146.75.190.0/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:3178::/45",
+    "ip_type": "IPv6",
     "region": "FJ"
   }
 ]

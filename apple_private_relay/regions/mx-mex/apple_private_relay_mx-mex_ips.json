@@ -1,5 +1,65 @@
 [
   {
+    "ip_address": "104.28.50.10/32",
+    "ip_type": "IPv4",
+    "region": "MX-MEX"
+  },
+  {
+    "ip_address": "104.28.50.11/32",
+    "ip_type": "IPv4",
+    "region": "MX-MEX"
+  },
+  {
+    "ip_address": "104.28.91.70/32",
+    "ip_type": "IPv4",
+    "region": "MX-MEX"
+  },
+  {
+    "ip_address": "104.28.91.71/32",
+    "ip_type": "IPv4",
+    "region": "MX-MEX"
+  },
+  {
+    "ip_address": "104.28.92.99/32",
+    "ip_type": "IPv4",
+    "region": "MX-MEX"
+  },
+  {
+    "ip_address": "104.28.92.100/32",
+    "ip_type": "IPv4",
+    "region": "MX-MEX"
+  },
+  {
+    "ip_address": "104.28.94.99/32",
+    "ip_type": "IPv4",
+    "region": "MX-MEX"
+  },
+  {
+    "ip_address": "104.28.94.100/32",
+    "ip_type": "IPv4",
+    "region": "MX-MEX"
+  },
+  {
+    "ip_address": "104.28.111.21/32",
+    "ip_type": "IPv4",
+    "region": "MX-MEX"
+  },
+  {
+    "ip_address": "104.28.111.22/32",
+    "ip_type": "IPv4",
+    "region": "MX-MEX"
+  },
+  {
+    "ip_address": "104.28.126.99/32",
+    "ip_type": "IPv4",
+    "region": "MX-MEX"
+  },
+  {
+    "ip_address": "104.28.126.100/32",
+    "ip_type": "IPv4",
+    "region": "MX-MEX"
+  },
+  {
     "ip_address": "172.225.14.192/26",
     "ip_type": "IPv4",
     "region": "MX-MEX"
@@ -17,6 +77,16 @@
   {
     "ip_address": "172.226.122.0/27",
     "ip_type": "IPv4",
+    "region": "MX-MEX"
+  },
+  {
+    "ip_address": "2606:54c0:4ad0::/45",
+    "ip_type": "IPv6",
+    "region": "MX-MEX"
+  },
+  {
+    "ip_address": "2606:54c3:0:87b::/64",
+    "ip_type": "IPv6",
     "region": "MX-MEX"
   },
   {
@@ -251,76 +321,6 @@
   },
   {
     "ip_address": "2a02:26f7:c018:5c32::/64",
-    "ip_type": "IPv6",
-    "region": "MX-MEX"
-  },
-  {
-    "ip_address": "104.28.50.10/32",
-    "ip_type": "IPv4",
-    "region": "MX-MEX"
-  },
-  {
-    "ip_address": "104.28.50.11/32",
-    "ip_type": "IPv4",
-    "region": "MX-MEX"
-  },
-  {
-    "ip_address": "104.28.91.70/32",
-    "ip_type": "IPv4",
-    "region": "MX-MEX"
-  },
-  {
-    "ip_address": "104.28.91.71/32",
-    "ip_type": "IPv4",
-    "region": "MX-MEX"
-  },
-  {
-    "ip_address": "104.28.92.99/32",
-    "ip_type": "IPv4",
-    "region": "MX-MEX"
-  },
-  {
-    "ip_address": "104.28.92.100/32",
-    "ip_type": "IPv4",
-    "region": "MX-MEX"
-  },
-  {
-    "ip_address": "104.28.94.99/32",
-    "ip_type": "IPv4",
-    "region": "MX-MEX"
-  },
-  {
-    "ip_address": "104.28.94.100/32",
-    "ip_type": "IPv4",
-    "region": "MX-MEX"
-  },
-  {
-    "ip_address": "104.28.111.21/32",
-    "ip_type": "IPv4",
-    "region": "MX-MEX"
-  },
-  {
-    "ip_address": "104.28.111.22/32",
-    "ip_type": "IPv4",
-    "region": "MX-MEX"
-  },
-  {
-    "ip_address": "104.28.126.99/32",
-    "ip_type": "IPv4",
-    "region": "MX-MEX"
-  },
-  {
-    "ip_address": "104.28.126.100/32",
-    "ip_type": "IPv4",
-    "region": "MX-MEX"
-  },
-  {
-    "ip_address": "2606:54c0:4ad0::/45",
-    "ip_type": "IPv6",
-    "region": "MX-MEX"
-  },
-  {
-    "ip_address": "2606:54c3:0:87b::/64",
     "ip_type": "IPv6",
     "region": "MX-MEX"
   },

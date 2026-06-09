@@ -1,165 +1,5 @@
 [
   {
-    "ip_address": "172.225.82.0/27",
-    "ip_type": "IPv4",
-    "region": "AR-C"
-  },
-  {
-    "ip_address": "172.225.83.0/28",
-    "ip_type": "IPv4",
-    "region": "AR-C"
-  },
-  {
-    "ip_address": "172.225.84.16/28",
-    "ip_type": "IPv4",
-    "region": "AR-C"
-  },
-  {
-    "ip_address": "172.225.84.144/29",
-    "ip_type": "IPv4",
-    "region": "AR-C"
-  },
-  {
-    "ip_address": "172.225.222.16/28",
-    "ip_type": "IPv4",
-    "region": "AR-C"
-  },
-  {
-    "ip_address": "172.225.222.128/29",
-    "ip_type": "IPv4",
-    "region": "AR-C"
-  },
-  {
-    "ip_address": "172.226.100.0/27",
-    "ip_type": "IPv4",
-    "region": "AR-C"
-  },
-  {
-    "ip_address": "172.226.100.32/28",
-    "ip_type": "IPv4",
-    "region": "AR-C"
-  },
-  {
-    "ip_address": "2a02:26f7:d980::/54",
-    "ip_type": "IPv6",
-    "region": "AR-C"
-  },
-  {
-    "ip_address": "2a02:26f7:d980:400::/56",
-    "ip_type": "IPv6",
-    "region": "AR-C"
-  },
-  {
-    "ip_address": "2a02:26f7:d980:4000::/64",
-    "ip_type": "IPv6",
-    "region": "AR-C"
-  },
-  {
-    "ip_address": "2a02:26f7:d980:4040::/64",
-    "ip_type": "IPv6",
-    "region": "AR-C"
-  },
-  {
-    "ip_address": "2a02:26f7:d980:ec31::/64",
-    "ip_type": "IPv6",
-    "region": "AR-C"
-  },
-  {
-    "ip_address": "2a02:26f7:d981:4000::/64",
-    "ip_type": "IPv6",
-    "region": "AR-C"
-  },
-  {
-    "ip_address": "2a02:26f7:d984::/54",
-    "ip_type": "IPv6",
-    "region": "AR-C"
-  },
-  {
-    "ip_address": "2a02:26f7:d984:400::/56",
-    "ip_type": "IPv6",
-    "region": "AR-C"
-  },
-  {
-    "ip_address": "2a02:26f7:d984:4000::/64",
-    "ip_type": "IPv6",
-    "region": "AR-C"
-  },
-  {
-    "ip_address": "2a02:26f7:d984:4040::/64",
-    "ip_type": "IPv6",
-    "region": "AR-C"
-  },
-  {
-    "ip_address": "2a02:26f7:d984:ec31::/64",
-    "ip_type": "IPv6",
-    "region": "AR-C"
-  },
-  {
-    "ip_address": "2a02:26f7:d985:4000::/64",
-    "ip_type": "IPv6",
-    "region": "AR-C"
-  },
-  {
-    "ip_address": "2a02:26f7:d988::/54",
-    "ip_type": "IPv6",
-    "region": "AR-C"
-  },
-  {
-    "ip_address": "2a02:26f7:d988:400::/56",
-    "ip_type": "IPv6",
-    "region": "AR-C"
-  },
-  {
-    "ip_address": "2a02:26f7:d988:4000::/64",
-    "ip_type": "IPv6",
-    "region": "AR-C"
-  },
-  {
-    "ip_address": "2a02:26f7:d988:4040::/64",
-    "ip_type": "IPv6",
-    "region": "AR-C"
-  },
-  {
-    "ip_address": "2a02:26f7:d988:ec31::/64",
-    "ip_type": "IPv6",
-    "region": "AR-C"
-  },
-  {
-    "ip_address": "2a02:26f7:d989:4000::/64",
-    "ip_type": "IPv6",
-    "region": "AR-C"
-  },
-  {
-    "ip_address": "2a02:26f7:d98c::/54",
-    "ip_type": "IPv6",
-    "region": "AR-C"
-  },
-  {
-    "ip_address": "2a02:26f7:d98c:400::/56",
-    "ip_type": "IPv6",
-    "region": "AR-C"
-  },
-  {
-    "ip_address": "2a02:26f7:d98c:4000::/64",
-    "ip_type": "IPv6",
-    "region": "AR-C"
-  },
-  {
-    "ip_address": "2a02:26f7:d98c:4040::/64",
-    "ip_type": "IPv6",
-    "region": "AR-C"
-  },
-  {
-    "ip_address": "2a02:26f7:d98c:ec31::/64",
-    "ip_type": "IPv6",
-    "region": "AR-C"
-  },
-  {
-    "ip_address": "2a02:26f7:d98d:4000::/64",
-    "ip_type": "IPv6",
-    "region": "AR-C"
-  },
-  {
     "ip_address": "104.28.47.8/32",
     "ip_type": "IPv4",
     "region": "AR-C"
@@ -585,6 +425,66 @@
     "region": "AR-C"
   },
   {
+    "ip_address": "140.248.19.2/31",
+    "ip_type": "IPv4",
+    "region": "AR-C"
+  },
+  {
+    "ip_address": "140.248.25.2/31",
+    "ip_type": "IPv4",
+    "region": "AR-C"
+  },
+  {
+    "ip_address": "146.75.179.2/31",
+    "ip_type": "IPv4",
+    "region": "AR-C"
+  },
+  {
+    "ip_address": "146.75.191.2/31",
+    "ip_type": "IPv4",
+    "region": "AR-C"
+  },
+  {
+    "ip_address": "172.225.82.0/27",
+    "ip_type": "IPv4",
+    "region": "AR-C"
+  },
+  {
+    "ip_address": "172.225.83.0/28",
+    "ip_type": "IPv4",
+    "region": "AR-C"
+  },
+  {
+    "ip_address": "172.225.84.16/28",
+    "ip_type": "IPv4",
+    "region": "AR-C"
+  },
+  {
+    "ip_address": "172.225.84.144/29",
+    "ip_type": "IPv4",
+    "region": "AR-C"
+  },
+  {
+    "ip_address": "172.225.222.16/28",
+    "ip_type": "IPv4",
+    "region": "AR-C"
+  },
+  {
+    "ip_address": "172.225.222.128/29",
+    "ip_type": "IPv4",
+    "region": "AR-C"
+  },
+  {
+    "ip_address": "172.226.100.0/27",
+    "ip_type": "IPv4",
+    "region": "AR-C"
+  },
+  {
+    "ip_address": "172.226.100.32/28",
+    "ip_type": "IPv4",
+    "region": "AR-C"
+  },
+  {
     "ip_address": "2606:54c0:98::/45",
     "ip_type": "IPv6",
     "region": "AR-C"
@@ -595,12 +495,122 @@
     "region": "AR-C"
   },
   {
-    "ip_address": "2a09:bac2:98::/45",
+    "ip_address": "2a02:26f7:d980::/54",
     "ip_type": "IPv6",
     "region": "AR-C"
   },
   {
-    "ip_address": "2a09:bac3:98::/45",
+    "ip_address": "2a02:26f7:d980:400::/56",
+    "ip_type": "IPv6",
+    "region": "AR-C"
+  },
+  {
+    "ip_address": "2a02:26f7:d980:4000::/64",
+    "ip_type": "IPv6",
+    "region": "AR-C"
+  },
+  {
+    "ip_address": "2a02:26f7:d980:4040::/64",
+    "ip_type": "IPv6",
+    "region": "AR-C"
+  },
+  {
+    "ip_address": "2a02:26f7:d980:ec31::/64",
+    "ip_type": "IPv6",
+    "region": "AR-C"
+  },
+  {
+    "ip_address": "2a02:26f7:d981:4000::/64",
+    "ip_type": "IPv6",
+    "region": "AR-C"
+  },
+  {
+    "ip_address": "2a02:26f7:d984::/54",
+    "ip_type": "IPv6",
+    "region": "AR-C"
+  },
+  {
+    "ip_address": "2a02:26f7:d984:400::/56",
+    "ip_type": "IPv6",
+    "region": "AR-C"
+  },
+  {
+    "ip_address": "2a02:26f7:d984:4000::/64",
+    "ip_type": "IPv6",
+    "region": "AR-C"
+  },
+  {
+    "ip_address": "2a02:26f7:d984:4040::/64",
+    "ip_type": "IPv6",
+    "region": "AR-C"
+  },
+  {
+    "ip_address": "2a02:26f7:d984:ec31::/64",
+    "ip_type": "IPv6",
+    "region": "AR-C"
+  },
+  {
+    "ip_address": "2a02:26f7:d985:4000::/64",
+    "ip_type": "IPv6",
+    "region": "AR-C"
+  },
+  {
+    "ip_address": "2a02:26f7:d988::/54",
+    "ip_type": "IPv6",
+    "region": "AR-C"
+  },
+  {
+    "ip_address": "2a02:26f7:d988:400::/56",
+    "ip_type": "IPv6",
+    "region": "AR-C"
+  },
+  {
+    "ip_address": "2a02:26f7:d988:4000::/64",
+    "ip_type": "IPv6",
+    "region": "AR-C"
+  },
+  {
+    "ip_address": "2a02:26f7:d988:4040::/64",
+    "ip_type": "IPv6",
+    "region": "AR-C"
+  },
+  {
+    "ip_address": "2a02:26f7:d988:ec31::/64",
+    "ip_type": "IPv6",
+    "region": "AR-C"
+  },
+  {
+    "ip_address": "2a02:26f7:d989:4000::/64",
+    "ip_type": "IPv6",
+    "region": "AR-C"
+  },
+  {
+    "ip_address": "2a02:26f7:d98c::/54",
+    "ip_type": "IPv6",
+    "region": "AR-C"
+  },
+  {
+    "ip_address": "2a02:26f7:d98c:400::/56",
+    "ip_type": "IPv6",
+    "region": "AR-C"
+  },
+  {
+    "ip_address": "2a02:26f7:d98c:4000::/64",
+    "ip_type": "IPv6",
+    "region": "AR-C"
+  },
+  {
+    "ip_address": "2a02:26f7:d98c:4040::/64",
+    "ip_type": "IPv6",
+    "region": "AR-C"
+  },
+  {
+    "ip_address": "2a02:26f7:d98c:ec31::/64",
+    "ip_type": "IPv6",
+    "region": "AR-C"
+  },
+  {
+    "ip_address": "2a02:26f7:d98d:4000::/64",
     "ip_type": "IPv6",
     "region": "AR-C"
   },
@@ -625,23 +635,13 @@
     "region": "AR-C"
   },
   {
-    "ip_address": "140.248.19.2/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:98::/45",
+    "ip_type": "IPv6",
     "region": "AR-C"
   },
   {
-    "ip_address": "140.248.25.2/31",
-    "ip_type": "IPv4",
-    "region": "AR-C"
-  },
-  {
-    "ip_address": "146.75.179.2/31",
-    "ip_type": "IPv4",
-    "region": "AR-C"
-  },
-  {
-    "ip_address": "146.75.191.2/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:98::/45",
+    "ip_type": "IPv6",
     "region": "AR-C"
   }
 ]

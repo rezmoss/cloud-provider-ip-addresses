@@ -1,20 +1,5 @@
 [
   {
-    "ip_address": "17.241.208.160/27",
-    "ip_type": "IPv4",
-    "service": "applebot"
-  },
-  {
-    "ip_address": "17.241.193.160/27",
-    "ip_type": "IPv4",
-    "service": "applebot"
-  },
-  {
-    "ip_address": "17.241.200.160/27",
-    "ip_type": "IPv4",
-    "service": "applebot"
-  },
-  {
     "ip_address": "17.22.237.0/24",
     "ip_type": "IPv4",
     "service": "applebot"
@@ -31,6 +16,21 @@
   },
   {
     "ip_address": "17.241.75.0/24",
+    "ip_type": "IPv4",
+    "service": "applebot"
+  },
+  {
+    "ip_address": "17.241.193.160/27",
+    "ip_type": "IPv4",
+    "service": "applebot"
+  },
+  {
+    "ip_address": "17.241.200.160/27",
+    "ip_type": "IPv4",
+    "service": "applebot"
+  },
+  {
+    "ip_address": "17.241.208.160/27",
     "ip_type": "IPv4",
     "service": "applebot"
   },

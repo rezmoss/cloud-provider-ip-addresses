@@ -1,5 +1,30 @@
 [
   {
+    "ip_address": "140.248.33.0/31",
+    "ip_type": "IPv4",
+    "region": "BN"
+  },
+  {
+    "ip_address": "146.75.132.8/31",
+    "ip_type": "IPv4",
+    "region": "BN"
+  },
+  {
+    "ip_address": "146.75.160.8/31",
+    "ip_type": "IPv4",
+    "region": "BN"
+  },
+  {
+    "ip_address": "146.75.187.0/31",
+    "ip_type": "IPv4",
+    "region": "BN"
+  },
+  {
+    "ip_address": "146.75.189.0/31",
+    "ip_type": "IPv4",
+    "region": "BN"
+  },
+  {
     "ip_address": "172.224.241.64/26",
     "ip_type": "IPv4",
     "region": "BN"
@@ -122,31 +147,6 @@
   {
     "ip_address": "2a04:4e41:7606::/48",
     "ip_type": "IPv6",
-    "region": "BN"
-  },
-  {
-    "ip_address": "140.248.33.0/31",
-    "ip_type": "IPv4",
-    "region": "BN"
-  },
-  {
-    "ip_address": "146.75.132.8/31",
-    "ip_type": "IPv4",
-    "region": "BN"
-  },
-  {
-    "ip_address": "146.75.160.8/31",
-    "ip_type": "IPv4",
-    "region": "BN"
-  },
-  {
-    "ip_address": "146.75.187.0/31",
-    "ip_type": "IPv4",
-    "region": "BN"
-  },
-  {
-    "ip_address": "146.75.189.0/31",
-    "ip_type": "IPv4",
     "region": "BN"
   }
 ]

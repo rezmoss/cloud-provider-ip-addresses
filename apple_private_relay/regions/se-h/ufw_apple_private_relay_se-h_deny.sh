@@ -1,12 +1,28 @@
 #!/bin/bash
 # Apple_private_relay IP Ranges
-# Updated: 2026-02-11 17:28:48
+# Updated: 2026-06-09 22:59:47
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
 # Updates daily at 00:00 UTC
 # UFW deny rules for apple_private_relay
 
+ufw deny from 2606:54c0:52f8::/45
+ufw deny from 2606:54c0:5300::/45
+ufw deny from 2606:54c0:5308::/45
+ufw deny from 2606:54c0:5310::/45
+ufw deny from 2606:54c0:5318::/45
+ufw deny from 2606:54c0:5320::/45
+ufw deny from 2606:54c0:5328::/45
+ufw deny from 2606:54c0:5330::/45
+ufw deny from 2606:54c3:0:547::/64
+ufw deny from 2606:54c3:0:55a::/64
+ufw deny from 2606:54c3:0:6fc::/64
+ufw deny from 2606:54c3:0:a53::/64
+ufw deny from 2606:54c3:0:a9e::/64
+ufw deny from 2606:54c3:0:fed::/64
+ufw deny from 2606:54c3:0:11c7::/64
+ufw deny from 2606:54c3:0:13b1::/64
 ufw deny from 2a02:26f7:f8c0:e620::/64
 ufw deny from 2a02:26f7:f8c0:e621::/64
 ufw deny from 2a02:26f7:f8c0:e622::/64
@@ -133,22 +149,6 @@ ufw deny from 2a02:26f7:f8e2:e62a::/64
 ufw deny from 2a02:26f7:f8e2:e62b::/64
 ufw deny from 2a02:26f7:f8e2:e62c::/64
 ufw deny from 2a02:26f7:f8e2:e62d::/64
-ufw deny from 2606:54c0:52f8::/45
-ufw deny from 2606:54c0:5300::/45
-ufw deny from 2606:54c0:5308::/45
-ufw deny from 2606:54c0:5310::/45
-ufw deny from 2606:54c0:5318::/45
-ufw deny from 2606:54c0:5320::/45
-ufw deny from 2606:54c0:5328::/45
-ufw deny from 2606:54c0:5330::/45
-ufw deny from 2606:54c3:0:547::/64
-ufw deny from 2606:54c3:0:55a::/64
-ufw deny from 2606:54c3:0:6fc::/64
-ufw deny from 2606:54c3:0:a53::/64
-ufw deny from 2606:54c3:0:a9e::/64
-ufw deny from 2606:54c3:0:fed::/64
-ufw deny from 2606:54c3:0:11c7::/64
-ufw deny from 2606:54c3:0:13b1::/64
 ufw deny from 2a09:bac2:52f8::/45
 ufw deny from 2a09:bac2:5300::/45
 ufw deny from 2a09:bac2:5308::/45

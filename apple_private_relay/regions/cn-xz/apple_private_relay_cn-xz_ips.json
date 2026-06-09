@@ -1,5 +1,15 @@
 [
   {
+    "ip_address": "2606:54c0:25a8::/45",
+    "ip_type": "IPv6",
+    "region": "CN-XZ"
+  },
+  {
+    "ip_address": "2606:54c3:0:1666::/64",
+    "ip_type": "IPv6",
+    "region": "CN-XZ"
+  },
+  {
     "ip_address": "2a02:26f7:c400:f5af::/64",
     "ip_type": "IPv6",
     "region": "CN-XZ"
@@ -86,16 +96,6 @@
   },
   {
     "ip_address": "2a02:26f7:c420:f5b0::/64",
-    "ip_type": "IPv6",
-    "region": "CN-XZ"
-  },
-  {
-    "ip_address": "2606:54c0:25a8::/45",
-    "ip_type": "IPv6",
-    "region": "CN-XZ"
-  },
-  {
-    "ip_address": "2606:54c3:0:1666::/64",
     "ip_type": "IPv6",
     "region": "CN-XZ"
   },

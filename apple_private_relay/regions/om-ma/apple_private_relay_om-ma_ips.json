@@ -40,22 +40,32 @@
     "region": "OM-MA"
   },
   {
+    "ip_address": "146.75.132.110/31",
+    "ip_type": "IPv4",
+    "region": "OM-MA"
+  },
+  {
+    "ip_address": "146.75.160.110/31",
+    "ip_type": "IPv4",
+    "region": "OM-MA"
+  },
+  {
+    "ip_address": "146.75.162.68/31",
+    "ip_type": "IPv4",
+    "region": "OM-MA"
+  },
+  {
+    "ip_address": "146.75.166.120/31",
+    "ip_type": "IPv4",
+    "region": "OM-MA"
+  },
+  {
     "ip_address": "2606:54c0:4e38::/45",
     "ip_type": "IPv6",
     "region": "OM-MA"
   },
   {
     "ip_address": "2606:54c3:0:15d5::/64",
-    "ip_type": "IPv6",
-    "region": "OM-MA"
-  },
-  {
-    "ip_address": "2a09:bac2:4e38::/45",
-    "ip_type": "IPv6",
-    "region": "OM-MA"
-  },
-  {
-    "ip_address": "2a09:bac3:4e38::/45",
     "ip_type": "IPv6",
     "region": "OM-MA"
   },
@@ -80,23 +90,13 @@
     "region": "OM-MA"
   },
   {
-    "ip_address": "146.75.132.110/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:4e38::/45",
+    "ip_type": "IPv6",
     "region": "OM-MA"
   },
   {
-    "ip_address": "146.75.160.110/31",
-    "ip_type": "IPv4",
-    "region": "OM-MA"
-  },
-  {
-    "ip_address": "146.75.162.68/31",
-    "ip_type": "IPv4",
-    "region": "OM-MA"
-  },
-  {
-    "ip_address": "146.75.166.120/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:4e38::/45",
+    "ip_type": "IPv6",
     "region": "OM-MA"
   }
 ]

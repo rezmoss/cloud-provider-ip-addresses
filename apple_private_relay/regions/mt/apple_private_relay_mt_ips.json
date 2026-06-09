@@ -1,5 +1,20 @@
 [
   {
+    "ip_address": "140.248.36.196/31",
+    "ip_type": "IPv4",
+    "region": "MT"
+  },
+  {
+    "ip_address": "146.75.166.116/31",
+    "ip_type": "IPv4",
+    "region": "MT"
+  },
+  {
+    "ip_address": "146.75.186.26/31",
+    "ip_type": "IPv4",
+    "region": "MT"
+  },
+  {
     "ip_address": "172.225.26.128/27",
     "ip_type": "IPv4",
     "region": "MT"
@@ -112,21 +127,6 @@
   {
     "ip_address": "2a04:4e41:5806::/48",
     "ip_type": "IPv6",
-    "region": "MT"
-  },
-  {
-    "ip_address": "140.248.36.196/31",
-    "ip_type": "IPv4",
-    "region": "MT"
-  },
-  {
-    "ip_address": "146.75.166.116/31",
-    "ip_type": "IPv4",
-    "region": "MT"
-  },
-  {
-    "ip_address": "146.75.186.26/31",
-    "ip_type": "IPv4",
     "region": "MT"
   }
 ]

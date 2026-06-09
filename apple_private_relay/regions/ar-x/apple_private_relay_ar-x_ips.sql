@@ -6,6 +6,20 @@ CREATE TABLE IF NOT EXISTS `apple_private_relay_ar-x_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `apple_private_relay_ar-x_ips` (`ip_address`, `ip_type`) VALUES ('104.28.47.27/32', 'IPv4');
+INSERT INTO `apple_private_relay_ar-x_ips` (`ip_address`, `ip_type`) VALUES ('104.28.47.28/32', 'IPv4');
+INSERT INTO `apple_private_relay_ar-x_ips` (`ip_address`, `ip_type`) VALUES ('104.28.59.27/32', 'IPv4');
+INSERT INTO `apple_private_relay_ar-x_ips` (`ip_address`, `ip_type`) VALUES ('104.28.59.28/32', 'IPv4');
+INSERT INTO `apple_private_relay_ar-x_ips` (`ip_address`, `ip_type`) VALUES ('104.28.63.27/32', 'IPv4');
+INSERT INTO `apple_private_relay_ar-x_ips` (`ip_address`, `ip_type`) VALUES ('104.28.63.28/32', 'IPv4');
+INSERT INTO `apple_private_relay_ar-x_ips` (`ip_address`, `ip_type`) VALUES ('104.28.113.27/32', 'IPv4');
+INSERT INTO `apple_private_relay_ar-x_ips` (`ip_address`, `ip_type`) VALUES ('104.28.113.28/32', 'IPv4');
+INSERT INTO `apple_private_relay_ar-x_ips` (`ip_address`, `ip_type`) VALUES ('104.28.115.27/32', 'IPv4');
+INSERT INTO `apple_private_relay_ar-x_ips` (`ip_address`, `ip_type`) VALUES ('104.28.115.28/32', 'IPv4');
+INSERT INTO `apple_private_relay_ar-x_ips` (`ip_address`, `ip_type`) VALUES ('104.28.137.55/32', 'IPv4');
+INSERT INTO `apple_private_relay_ar-x_ips` (`ip_address`, `ip_type`) VALUES ('104.28.144.20/32', 'IPv4');
+INSERT INTO `apple_private_relay_ar-x_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:d0::/45', 'IPv6');
+INSERT INTO `apple_private_relay_ar-x_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:635::/64', 'IPv6');
 INSERT INTO `apple_private_relay_ar-x_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d980:4046::/64', 'IPv6');
 INSERT INTO `apple_private_relay_ar-x_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d980:4047::/64', 'IPv6');
 INSERT INTO `apple_private_relay_ar-x_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d980:4049::/64', 'IPv6');
@@ -254,19 +268,5 @@ INSERT INTO `apple_private_relay_ar-x_ips` (`ip_address`, `ip_type`) VALUES ('2a
 INSERT INTO `apple_private_relay_ar-x_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d98c:ed4b::/64', 'IPv6');
 INSERT INTO `apple_private_relay_ar-x_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d98c:ed4d::/64', 'IPv6');
 INSERT INTO `apple_private_relay_ar-x_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d98c:ed51::/64', 'IPv6');
-INSERT INTO `apple_private_relay_ar-x_ips` (`ip_address`, `ip_type`) VALUES ('104.28.47.27/32', 'IPv4');
-INSERT INTO `apple_private_relay_ar-x_ips` (`ip_address`, `ip_type`) VALUES ('104.28.47.28/32', 'IPv4');
-INSERT INTO `apple_private_relay_ar-x_ips` (`ip_address`, `ip_type`) VALUES ('104.28.59.27/32', 'IPv4');
-INSERT INTO `apple_private_relay_ar-x_ips` (`ip_address`, `ip_type`) VALUES ('104.28.59.28/32', 'IPv4');
-INSERT INTO `apple_private_relay_ar-x_ips` (`ip_address`, `ip_type`) VALUES ('104.28.63.27/32', 'IPv4');
-INSERT INTO `apple_private_relay_ar-x_ips` (`ip_address`, `ip_type`) VALUES ('104.28.63.28/32', 'IPv4');
-INSERT INTO `apple_private_relay_ar-x_ips` (`ip_address`, `ip_type`) VALUES ('104.28.113.27/32', 'IPv4');
-INSERT INTO `apple_private_relay_ar-x_ips` (`ip_address`, `ip_type`) VALUES ('104.28.113.28/32', 'IPv4');
-INSERT INTO `apple_private_relay_ar-x_ips` (`ip_address`, `ip_type`) VALUES ('104.28.115.27/32', 'IPv4');
-INSERT INTO `apple_private_relay_ar-x_ips` (`ip_address`, `ip_type`) VALUES ('104.28.115.28/32', 'IPv4');
-INSERT INTO `apple_private_relay_ar-x_ips` (`ip_address`, `ip_type`) VALUES ('104.28.137.55/32', 'IPv4');
-INSERT INTO `apple_private_relay_ar-x_ips` (`ip_address`, `ip_type`) VALUES ('104.28.144.20/32', 'IPv4');
-INSERT INTO `apple_private_relay_ar-x_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:d0::/45', 'IPv6');
-INSERT INTO `apple_private_relay_ar-x_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:635::/64', 'IPv6');
 INSERT INTO `apple_private_relay_ar-x_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:d0::/45', 'IPv6');
 INSERT INTO `apple_private_relay_ar-x_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:d0::/45', 'IPv6');

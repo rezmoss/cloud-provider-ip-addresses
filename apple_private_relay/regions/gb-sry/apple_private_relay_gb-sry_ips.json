@@ -1,25 +1,5 @@
 [
   {
-    "ip_address": "2a04:4e41:1302:7000::/52",
-    "ip_type": "IPv6",
-    "region": "GB-SRY"
-  },
-  {
-    "ip_address": "2a04:4e41:1602:d000::/52",
-    "ip_type": "IPv6",
-    "region": "GB-SRY"
-  },
-  {
-    "ip_address": "2a04:4e41:4e02:6000::/52",
-    "ip_type": "IPv6",
-    "region": "GB-SRY"
-  },
-  {
-    "ip_address": "2a04:4e41:7402:d000::/52",
-    "ip_type": "IPv6",
-    "region": "GB-SRY"
-  },
-  {
     "ip_address": "140.248.40.100/31",
     "ip_type": "IPv4",
     "region": "GB-SRY"
@@ -37,6 +17,26 @@
   {
     "ip_address": "146.75.185.114/31",
     "ip_type": "IPv4",
+    "region": "GB-SRY"
+  },
+  {
+    "ip_address": "2a04:4e41:1302:7000::/52",
+    "ip_type": "IPv6",
+    "region": "GB-SRY"
+  },
+  {
+    "ip_address": "2a04:4e41:1602:d000::/52",
+    "ip_type": "IPv6",
+    "region": "GB-SRY"
+  },
+  {
+    "ip_address": "2a04:4e41:4e02:6000::/52",
+    "ip_type": "IPv6",
+    "region": "GB-SRY"
+  },
+  {
+    "ip_address": "2a04:4e41:7402:d000::/52",
+    "ip_type": "IPv6",
     "region": "GB-SRY"
   }
 ]

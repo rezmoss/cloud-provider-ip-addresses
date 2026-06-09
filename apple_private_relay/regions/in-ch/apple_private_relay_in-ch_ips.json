@@ -1,95 +1,5 @@
 [
   {
-    "ip_address": "172.225.137.196/31",
-    "ip_type": "IPv4",
-    "region": "IN-CH"
-  },
-  {
-    "ip_address": "172.225.181.108/31",
-    "ip_type": "IPv4",
-    "region": "IN-CH"
-  },
-  {
-    "ip_address": "172.225.186.36/31",
-    "ip_type": "IPv4",
-    "region": "IN-CH"
-  },
-  {
-    "ip_address": "172.225.201.4/31",
-    "ip_type": "IPv4",
-    "region": "IN-CH"
-  },
-  {
-    "ip_address": "172.225.218.34/31",
-    "ip_type": "IPv4",
-    "region": "IN-CH"
-  },
-  {
-    "ip_address": "172.225.219.52/31",
-    "ip_type": "IPv4",
-    "region": "IN-CH"
-  },
-  {
-    "ip_address": "2a02:26f7:d6c0:e00::/58",
-    "ip_type": "IPv6",
-    "region": "IN-CH"
-  },
-  {
-    "ip_address": "2a02:26f7:d6c0:6800::/64",
-    "ip_type": "IPv6",
-    "region": "IN-CH"
-  },
-  {
-    "ip_address": "2a02:26f7:d6c1:e00::/58",
-    "ip_type": "IPv6",
-    "region": "IN-CH"
-  },
-  {
-    "ip_address": "2a02:26f7:d6c1:6800::/64",
-    "ip_type": "IPv6",
-    "region": "IN-CH"
-  },
-  {
-    "ip_address": "2a02:26f7:d6c4:e00::/58",
-    "ip_type": "IPv6",
-    "region": "IN-CH"
-  },
-  {
-    "ip_address": "2a02:26f7:d6c4:6800::/64",
-    "ip_type": "IPv6",
-    "region": "IN-CH"
-  },
-  {
-    "ip_address": "2a02:26f7:d6c6:e00::/58",
-    "ip_type": "IPv6",
-    "region": "IN-CH"
-  },
-  {
-    "ip_address": "2a02:26f7:d6c6:6800::/64",
-    "ip_type": "IPv6",
-    "region": "IN-CH"
-  },
-  {
-    "ip_address": "2a02:26f7:d6cc:e00::/58",
-    "ip_type": "IPv6",
-    "region": "IN-CH"
-  },
-  {
-    "ip_address": "2a02:26f7:d6cc:6800::/64",
-    "ip_type": "IPv6",
-    "region": "IN-CH"
-  },
-  {
-    "ip_address": "2a02:26f7:d6d0:e00::/58",
-    "ip_type": "IPv6",
-    "region": "IN-CH"
-  },
-  {
-    "ip_address": "2a02:26f7:d6d0:6800::/64",
-    "ip_type": "IPv6",
-    "region": "IN-CH"
-  },
-  {
     "ip_address": "104.28.37.180/32",
     "ip_type": "IPv4",
     "region": "IN-CH"
@@ -170,6 +80,71 @@
     "region": "IN-CH"
   },
   {
+    "ip_address": "140.248.8.6/31",
+    "ip_type": "IPv4",
+    "region": "IN-CH"
+  },
+  {
+    "ip_address": "140.248.38.6/31",
+    "ip_type": "IPv4",
+    "region": "IN-CH"
+  },
+  {
+    "ip_address": "146.75.132.38/31",
+    "ip_type": "IPv4",
+    "region": "IN-CH"
+  },
+  {
+    "ip_address": "146.75.160.38/31",
+    "ip_type": "IPv4",
+    "region": "IN-CH"
+  },
+  {
+    "ip_address": "146.75.197.10/31",
+    "ip_type": "IPv4",
+    "region": "IN-CH"
+  },
+  {
+    "ip_address": "146.75.205.6/31",
+    "ip_type": "IPv4",
+    "region": "IN-CH"
+  },
+  {
+    "ip_address": "146.75.214.6/31",
+    "ip_type": "IPv4",
+    "region": "IN-CH"
+  },
+  {
+    "ip_address": "172.225.137.196/31",
+    "ip_type": "IPv4",
+    "region": "IN-CH"
+  },
+  {
+    "ip_address": "172.225.181.108/31",
+    "ip_type": "IPv4",
+    "region": "IN-CH"
+  },
+  {
+    "ip_address": "172.225.186.36/31",
+    "ip_type": "IPv4",
+    "region": "IN-CH"
+  },
+  {
+    "ip_address": "172.225.201.4/31",
+    "ip_type": "IPv4",
+    "region": "IN-CH"
+  },
+  {
+    "ip_address": "172.225.218.34/31",
+    "ip_type": "IPv4",
+    "region": "IN-CH"
+  },
+  {
+    "ip_address": "172.225.219.52/31",
+    "ip_type": "IPv4",
+    "region": "IN-CH"
+  },
+  {
     "ip_address": "2606:54c0:3b78::/45",
     "ip_type": "IPv6",
     "region": "IN-CH"
@@ -180,12 +155,62 @@
     "region": "IN-CH"
   },
   {
-    "ip_address": "2a09:bac2:3b78::/45",
+    "ip_address": "2a02:26f7:d6c0:e00::/58",
     "ip_type": "IPv6",
     "region": "IN-CH"
   },
   {
-    "ip_address": "2a09:bac3:3b78::/45",
+    "ip_address": "2a02:26f7:d6c0:6800::/64",
+    "ip_type": "IPv6",
+    "region": "IN-CH"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c1:e00::/58",
+    "ip_type": "IPv6",
+    "region": "IN-CH"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c1:6800::/64",
+    "ip_type": "IPv6",
+    "region": "IN-CH"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c4:e00::/58",
+    "ip_type": "IPv6",
+    "region": "IN-CH"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c4:6800::/64",
+    "ip_type": "IPv6",
+    "region": "IN-CH"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c6:e00::/58",
+    "ip_type": "IPv6",
+    "region": "IN-CH"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c6:6800::/64",
+    "ip_type": "IPv6",
+    "region": "IN-CH"
+  },
+  {
+    "ip_address": "2a02:26f7:d6cc:e00::/58",
+    "ip_type": "IPv6",
+    "region": "IN-CH"
+  },
+  {
+    "ip_address": "2a02:26f7:d6cc:6800::/64",
+    "ip_type": "IPv6",
+    "region": "IN-CH"
+  },
+  {
+    "ip_address": "2a02:26f7:d6d0:e00::/58",
+    "ip_type": "IPv6",
+    "region": "IN-CH"
+  },
+  {
+    "ip_address": "2a02:26f7:d6d0:6800::/64",
     "ip_type": "IPv6",
     "region": "IN-CH"
   },
@@ -225,38 +250,13 @@
     "region": "IN-CH"
   },
   {
-    "ip_address": "140.248.8.6/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:3b78::/45",
+    "ip_type": "IPv6",
     "region": "IN-CH"
   },
   {
-    "ip_address": "140.248.38.6/31",
-    "ip_type": "IPv4",
-    "region": "IN-CH"
-  },
-  {
-    "ip_address": "146.75.132.38/31",
-    "ip_type": "IPv4",
-    "region": "IN-CH"
-  },
-  {
-    "ip_address": "146.75.160.38/31",
-    "ip_type": "IPv4",
-    "region": "IN-CH"
-  },
-  {
-    "ip_address": "146.75.197.10/31",
-    "ip_type": "IPv4",
-    "region": "IN-CH"
-  },
-  {
-    "ip_address": "146.75.205.6/31",
-    "ip_type": "IPv4",
-    "region": "IN-CH"
-  },
-  {
-    "ip_address": "146.75.214.6/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:3b78::/45",
+    "ip_type": "IPv6",
     "region": "IN-CH"
   }
 ]

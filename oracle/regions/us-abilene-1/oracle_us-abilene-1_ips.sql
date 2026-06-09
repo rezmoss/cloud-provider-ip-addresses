@@ -6,11 +6,11 @@ CREATE TABLE IF NOT EXISTS `oracle_us-abilene-1_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
-INSERT INTO `oracle_us-abilene-1_ips` (`ip_address`, `ip_type`) VALUES ('168.129.192.0/19', 'IPv4');
 INSERT INTO `oracle_us-abilene-1_ips` (`ip_address`, `ip_type`) VALUES ('134.70.222.0/23', 'IPv4');
 INSERT INTO `oracle_us-abilene-1_ips` (`ip_address`, `ip_type`) VALUES ('134.70.224.0/23', 'IPv4');
 INSERT INTO `oracle_us-abilene-1_ips` (`ip_address`, `ip_type`) VALUES ('140.91.104.0/23', 'IPv4');
 INSERT INTO `oracle_us-abilene-1_ips` (`ip_address`, `ip_type`) VALUES ('140.204.158.128/25', 'IPv4');
+INSERT INTO `oracle_us-abilene-1_ips` (`ip_address`, `ip_type`) VALUES ('168.129.192.0/19', 'IPv4');
 INSERT INTO `oracle_us-abilene-1_ips` (`ip_address`, `ip_type`) VALUES ('168.129.248.0/26', 'IPv4');
 INSERT INTO `oracle_us-abilene-1_ips` (`ip_address`, `ip_type`) VALUES ('168.129.248.128/25', 'IPv4');
 INSERT INTO `oracle_us-abilene-1_ips` (`ip_address`, `ip_type`) VALUES ('168.129.249.192/26', 'IPv4');

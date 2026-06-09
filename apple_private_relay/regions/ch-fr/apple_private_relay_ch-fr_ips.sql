@@ -6,6 +6,10 @@ CREATE TABLE IF NOT EXISTS `apple_private_relay_ch-fr_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `apple_private_relay_ch-fr_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:1db8::/45', 'IPv6');
+INSERT INTO `apple_private_relay_ch-fr_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:1dc0::/45', 'IPv6');
+INSERT INTO `apple_private_relay_ch-fr_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:47a::/64', 'IPv6');
+INSERT INTO `apple_private_relay_ch-fr_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:18f4::/64', 'IPv6');
 INSERT INTO `apple_private_relay_ch-fr_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:e340:5415::/64', 'IPv6');
 INSERT INTO `apple_private_relay_ch-fr_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:e340:5416::/64', 'IPv6');
 INSERT INTO `apple_private_relay_ch-fr_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:e342:5415::/64', 'IPv6');
@@ -16,10 +20,6 @@ INSERT INTO `apple_private_relay_ch-fr_ips` (`ip_address`, `ip_type`) VALUES ('2
 INSERT INTO `apple_private_relay_ch-fr_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:e348:5416::/64', 'IPv6');
 INSERT INTO `apple_private_relay_ch-fr_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:e34c:5415::/64', 'IPv6');
 INSERT INTO `apple_private_relay_ch-fr_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:e34c:5416::/64', 'IPv6');
-INSERT INTO `apple_private_relay_ch-fr_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:1db8::/45', 'IPv6');
-INSERT INTO `apple_private_relay_ch-fr_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:1dc0::/45', 'IPv6');
-INSERT INTO `apple_private_relay_ch-fr_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:47a::/64', 'IPv6');
-INSERT INTO `apple_private_relay_ch-fr_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:18f4::/64', 'IPv6');
 INSERT INTO `apple_private_relay_ch-fr_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:1db8::/45', 'IPv6');
 INSERT INTO `apple_private_relay_ch-fr_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:1dc0::/45', 'IPv6');
 INSERT INTO `apple_private_relay_ch-fr_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:1db8::/45', 'IPv6');

@@ -70,22 +70,27 @@
     "region": "VE-A"
   },
   {
+    "ip_address": "140.248.4.66/31",
+    "ip_type": "IPv4",
+    "region": "VE-A"
+  },
+  {
+    "ip_address": "140.248.44.106/31",
+    "ip_type": "IPv4",
+    "region": "VE-A"
+  },
+  {
+    "ip_address": "146.75.208.18/31",
+    "ip_type": "IPv4",
+    "region": "VE-A"
+  },
+  {
     "ip_address": "2606:54c0:d270::/45",
     "ip_type": "IPv6",
     "region": "VE-A"
   },
   {
     "ip_address": "2606:54c3:0:1106::/64",
-    "ip_type": "IPv6",
-    "region": "VE-A"
-  },
-  {
-    "ip_address": "2a09:bac2:d270::/45",
-    "ip_type": "IPv6",
-    "region": "VE-A"
-  },
-  {
-    "ip_address": "2a09:bac3:d270::/45",
     "ip_type": "IPv6",
     "region": "VE-A"
   },
@@ -105,18 +110,13 @@
     "region": "VE-A"
   },
   {
-    "ip_address": "140.248.4.66/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:d270::/45",
+    "ip_type": "IPv6",
     "region": "VE-A"
   },
   {
-    "ip_address": "140.248.44.106/31",
-    "ip_type": "IPv4",
-    "region": "VE-A"
-  },
-  {
-    "ip_address": "146.75.208.18/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:d270::/45",
+    "ip_type": "IPv6",
     "region": "VE-A"
   }
 ]

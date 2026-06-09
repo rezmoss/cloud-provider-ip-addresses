@@ -1,5 +1,25 @@
 [
   {
+    "ip_address": "140.248.40.120/31",
+    "ip_type": "IPv4",
+    "region": "GQ"
+  },
+  {
+    "ip_address": "146.75.174.108/31",
+    "ip_type": "IPv4",
+    "region": "GQ"
+  },
+  {
+    "ip_address": "146.75.182.34/31",
+    "ip_type": "IPv4",
+    "region": "GQ"
+  },
+  {
+    "ip_address": "146.75.210.34/31",
+    "ip_type": "IPv4",
+    "region": "GQ"
+  },
+  {
     "ip_address": "172.225.99.32/27",
     "ip_type": "IPv4",
     "region": "GQ"
@@ -107,26 +127,6 @@
   {
     "ip_address": "2a04:4e41:780b::/48",
     "ip_type": "IPv6",
-    "region": "GQ"
-  },
-  {
-    "ip_address": "140.248.40.120/31",
-    "ip_type": "IPv4",
-    "region": "GQ"
-  },
-  {
-    "ip_address": "146.75.174.108/31",
-    "ip_type": "IPv4",
-    "region": "GQ"
-  },
-  {
-    "ip_address": "146.75.182.34/31",
-    "ip_type": "IPv4",
-    "region": "GQ"
-  },
-  {
-    "ip_address": "146.75.210.34/31",
-    "ip_type": "IPv4",
     "region": "GQ"
   }
 ]

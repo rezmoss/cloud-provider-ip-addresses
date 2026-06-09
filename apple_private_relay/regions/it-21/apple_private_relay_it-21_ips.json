@@ -1,5 +1,55 @@
 [
   {
+    "ip_address": "104.28.60.74/32",
+    "ip_type": "IPv4",
+    "region": "IT-21"
+  },
+  {
+    "ip_address": "104.28.60.75/32",
+    "ip_type": "IPv4",
+    "region": "IT-21"
+  },
+  {
+    "ip_address": "104.28.62.67/32",
+    "ip_type": "IPv4",
+    "region": "IT-21"
+  },
+  {
+    "ip_address": "104.28.62.68/32",
+    "ip_type": "IPv4",
+    "region": "IT-21"
+  },
+  {
+    "ip_address": "104.28.96.40/32",
+    "ip_type": "IPv4",
+    "region": "IT-21"
+  },
+  {
+    "ip_address": "104.28.96.41/32",
+    "ip_type": "IPv4",
+    "region": "IT-21"
+  },
+  {
+    "ip_address": "104.28.98.42/32",
+    "ip_type": "IPv4",
+    "region": "IT-21"
+  },
+  {
+    "ip_address": "104.28.98.43/32",
+    "ip_type": "IPv4",
+    "region": "IT-21"
+  },
+  {
+    "ip_address": "104.28.135.44/32",
+    "ip_type": "IPv4",
+    "region": "IT-21"
+  },
+  {
+    "ip_address": "104.28.135.45/32",
+    "ip_type": "IPv4",
+    "region": "IT-21"
+  },
+  {
     "ip_address": "172.225.94.88/31",
     "ip_type": "IPv4",
     "region": "IT-21"
@@ -27,6 +77,16 @@
   {
     "ip_address": "172.226.15.44/31",
     "ip_type": "IPv4",
+    "region": "IT-21"
+  },
+  {
+    "ip_address": "2606:54c0:41c0::/45",
+    "ip_type": "IPv6",
+    "region": "IT-21"
+  },
+  {
+    "ip_address": "2606:54c3:0:d4f::/64",
+    "ip_type": "IPv6",
     "region": "IT-21"
   },
   {
@@ -1286,66 +1346,6 @@
   },
   {
     "ip_address": "2a02:26f7:bcd1:5fa1::/64",
-    "ip_type": "IPv6",
-    "region": "IT-21"
-  },
-  {
-    "ip_address": "104.28.60.74/32",
-    "ip_type": "IPv4",
-    "region": "IT-21"
-  },
-  {
-    "ip_address": "104.28.60.75/32",
-    "ip_type": "IPv4",
-    "region": "IT-21"
-  },
-  {
-    "ip_address": "104.28.62.67/32",
-    "ip_type": "IPv4",
-    "region": "IT-21"
-  },
-  {
-    "ip_address": "104.28.62.68/32",
-    "ip_type": "IPv4",
-    "region": "IT-21"
-  },
-  {
-    "ip_address": "104.28.96.40/32",
-    "ip_type": "IPv4",
-    "region": "IT-21"
-  },
-  {
-    "ip_address": "104.28.96.41/32",
-    "ip_type": "IPv4",
-    "region": "IT-21"
-  },
-  {
-    "ip_address": "104.28.98.42/32",
-    "ip_type": "IPv4",
-    "region": "IT-21"
-  },
-  {
-    "ip_address": "104.28.98.43/32",
-    "ip_type": "IPv4",
-    "region": "IT-21"
-  },
-  {
-    "ip_address": "104.28.135.44/32",
-    "ip_type": "IPv4",
-    "region": "IT-21"
-  },
-  {
-    "ip_address": "104.28.135.45/32",
-    "ip_type": "IPv4",
-    "region": "IT-21"
-  },
-  {
-    "ip_address": "2606:54c0:41c0::/45",
-    "ip_type": "IPv6",
-    "region": "IT-21"
-  },
-  {
-    "ip_address": "2606:54c3:0:d4f::/64",
     "ip_type": "IPv6",
     "region": "IT-21"
   },

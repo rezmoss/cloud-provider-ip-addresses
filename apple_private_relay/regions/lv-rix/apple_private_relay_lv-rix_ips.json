@@ -75,22 +75,22 @@
     "region": "LV-RIX"
   },
   {
+    "ip_address": "140.248.36.184/31",
+    "ip_type": "IPv4",
+    "region": "LV-RIX"
+  },
+  {
+    "ip_address": "146.75.202.10/31",
+    "ip_type": "IPv4",
+    "region": "LV-RIX"
+  },
+  {
     "ip_address": "2606:54c0:47f0::/45",
     "ip_type": "IPv6",
     "region": "LV-RIX"
   },
   {
     "ip_address": "2606:54c3:0:175::/64",
-    "ip_type": "IPv6",
-    "region": "LV-RIX"
-  },
-  {
-    "ip_address": "2a09:bac2:47f0::/45",
-    "ip_type": "IPv6",
-    "region": "LV-RIX"
-  },
-  {
-    "ip_address": "2a09:bac3:47f0::/45",
     "ip_type": "IPv6",
     "region": "LV-RIX"
   },
@@ -105,13 +105,13 @@
     "region": "LV-RIX"
   },
   {
-    "ip_address": "140.248.36.184/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:47f0::/45",
+    "ip_type": "IPv6",
     "region": "LV-RIX"
   },
   {
-    "ip_address": "146.75.202.10/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:47f0::/45",
+    "ip_type": "IPv6",
     "region": "LV-RIX"
   }
 ]

@@ -12,6 +12,18 @@
     "region": "ap-osaka-1"
   },
   {
+    "ip_address": "129.149.63.192/26",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-osaka-1"
+  },
+  {
+    "ip_address": "134.70.112.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN,OBJECT_STORAGE",
+    "region": "ap-osaka-1"
+  },
+  {
     "ip_address": "138.2.32.0/19",
     "ip_type": "IPv4",
     "service": "OCI",
@@ -27,6 +39,18 @@
     "ip_address": "140.83.80.0/21",
     "ip_type": "IPv4",
     "service": "OCI",
+    "region": "ap-osaka-1"
+  },
+  {
+    "ip_address": "140.91.48.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "ap-osaka-1"
+  },
+  {
+    "ip_address": "140.204.30.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
     "region": "ap-osaka-1"
   },
   {
@@ -72,36 +96,6 @@
     "region": "ap-osaka-1"
   },
   {
-    "ip_address": "217.142.224.0/19",
-    "ip_type": "IPv4",
-    "service": "OCI",
-    "region": "ap-osaka-1"
-  },
-  {
-    "ip_address": "129.149.63.192/26",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "ap-osaka-1"
-  },
-  {
-    "ip_address": "134.70.112.0/22",
-    "ip_type": "IPv4",
-    "service": "OSN,OBJECT_STORAGE",
-    "region": "ap-osaka-1"
-  },
-  {
-    "ip_address": "140.91.48.0/23",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "ap-osaka-1"
-  },
-  {
-    "ip_address": "140.204.30.128/25",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "ap-osaka-1"
-  },
-  {
     "ip_address": "192.29.240.0/22",
     "ip_type": "IPv4",
     "service": "OSN",
@@ -111,6 +105,12 @@
     "ip_address": "192.29.248.0/21",
     "ip_type": "IPv4",
     "service": "OSN",
+    "region": "ap-osaka-1"
+  },
+  {
+    "ip_address": "217.142.224.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
     "region": "ap-osaka-1"
   }
 ]

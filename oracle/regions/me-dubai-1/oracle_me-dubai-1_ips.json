@@ -1,38 +1,14 @@
 [
   {
-    "ip_address": "84.235.240.0/20",
-    "ip_type": "IPv4",
-    "service": "OCI",
-    "region": "me-dubai-1"
-  },
-  {
-    "ip_address": "139.185.32.0/19",
-    "ip_type": "IPv4",
-    "service": "OCI",
-    "region": "me-dubai-1"
-  },
-  {
-    "ip_address": "141.145.144.0/20",
-    "ip_type": "IPv4",
-    "service": "OCI",
-    "region": "me-dubai-1"
-  },
-  {
-    "ip_address": "145.241.112.0/20",
-    "ip_type": "IPv4",
-    "service": "OCI",
-    "region": "me-dubai-1"
-  },
-  {
-    "ip_address": "193.123.64.0/19",
-    "ip_type": "IPv4",
-    "service": "OCI",
-    "region": "me-dubai-1"
-  },
-  {
     "ip_address": "64.110.120.0/21",
     "ip_type": "IPv4",
     "service": "OSN",
+    "region": "me-dubai-1"
+  },
+  {
+    "ip_address": "84.235.240.0/20",
+    "ip_type": "IPv4",
+    "service": "OCI",
     "region": "me-dubai-1"
   },
   {
@@ -84,6 +60,12 @@
     "region": "me-dubai-1"
   },
   {
+    "ip_address": "139.185.32.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "me-dubai-1"
+  },
+  {
     "ip_address": "140.91.92.0/23",
     "ip_type": "IPv4",
     "service": "OSN",
@@ -93,6 +75,24 @@
     "ip_address": "140.204.66.128/25",
     "ip_type": "IPv4",
     "service": "OSN",
+    "region": "me-dubai-1"
+  },
+  {
+    "ip_address": "141.145.144.0/20",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "me-dubai-1"
+  },
+  {
+    "ip_address": "145.241.112.0/20",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "me-dubai-1"
+  },
+  {
+    "ip_address": "193.123.64.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
     "region": "me-dubai-1"
   }
 ]

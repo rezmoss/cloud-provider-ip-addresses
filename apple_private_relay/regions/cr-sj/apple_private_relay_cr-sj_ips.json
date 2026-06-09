@@ -75,22 +75,42 @@
     "region": "CR-SJ"
   },
   {
+    "ip_address": "140.248.4.16/31",
+    "ip_type": "IPv4",
+    "region": "CR-SJ"
+  },
+  {
+    "ip_address": "140.248.4.18/31",
+    "ip_type": "IPv4",
+    "region": "CR-SJ"
+  },
+  {
+    "ip_address": "140.248.44.26/31",
+    "ip_type": "IPv4",
+    "region": "CR-SJ"
+  },
+  {
+    "ip_address": "140.248.44.28/31",
+    "ip_type": "IPv4",
+    "region": "CR-SJ"
+  },
+  {
+    "ip_address": "146.75.208.8/31",
+    "ip_type": "IPv4",
+    "region": "CR-SJ"
+  },
+  {
+    "ip_address": "146.75.208.10/31",
+    "ip_type": "IPv4",
+    "region": "CR-SJ"
+  },
+  {
     "ip_address": "2606:54c0:2710::/45",
     "ip_type": "IPv6",
     "region": "CR-SJ"
   },
   {
     "ip_address": "2606:54c3:0:7e6::/64",
-    "ip_type": "IPv6",
-    "region": "CR-SJ"
-  },
-  {
-    "ip_address": "2a09:bac2:2710::/45",
-    "ip_type": "IPv6",
-    "region": "CR-SJ"
-  },
-  {
-    "ip_address": "2a09:bac3:2710::/45",
     "ip_type": "IPv6",
     "region": "CR-SJ"
   },
@@ -125,33 +145,13 @@
     "region": "CR-SJ"
   },
   {
-    "ip_address": "140.248.4.16/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:2710::/45",
+    "ip_type": "IPv6",
     "region": "CR-SJ"
   },
   {
-    "ip_address": "140.248.4.18/31",
-    "ip_type": "IPv4",
-    "region": "CR-SJ"
-  },
-  {
-    "ip_address": "140.248.44.26/31",
-    "ip_type": "IPv4",
-    "region": "CR-SJ"
-  },
-  {
-    "ip_address": "140.248.44.28/31",
-    "ip_type": "IPv4",
-    "region": "CR-SJ"
-  },
-  {
-    "ip_address": "146.75.208.8/31",
-    "ip_type": "IPv4",
-    "region": "CR-SJ"
-  },
-  {
-    "ip_address": "146.75.208.10/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:2710::/45",
+    "ip_type": "IPv6",
     "region": "CR-SJ"
   }
 ]

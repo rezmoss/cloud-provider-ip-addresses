@@ -1,5 +1,40 @@
 [
   {
+    "ip_address": "104.28.29.44/32",
+    "ip_type": "IPv4",
+    "region": "NR"
+  },
+  {
+    "ip_address": "104.28.125.76/32",
+    "ip_type": "IPv4",
+    "region": "NR"
+  },
+  {
+    "ip_address": "104.28.125.77/32",
+    "ip_type": "IPv4",
+    "region": "NR"
+  },
+  {
+    "ip_address": "140.248.40.170/31",
+    "ip_type": "IPv4",
+    "region": "NR"
+  },
+  {
+    "ip_address": "146.75.132.104/31",
+    "ip_type": "IPv4",
+    "region": "NR"
+  },
+  {
+    "ip_address": "146.75.160.104/31",
+    "ip_type": "IPv4",
+    "region": "NR"
+  },
+  {
+    "ip_address": "146.75.190.6/31",
+    "ip_type": "IPv4",
+    "region": "NR"
+  },
+  {
     "ip_address": "172.225.65.128/27",
     "ip_type": "IPv4",
     "region": "NR"
@@ -12,6 +47,16 @@
   {
     "ip_address": "172.225.244.128/28",
     "ip_type": "IPv4",
+    "region": "NR"
+  },
+  {
+    "ip_address": "2606:54c0:4dd0::/45",
+    "ip_type": "IPv6",
+    "region": "NR"
+  },
+  {
+    "ip_address": "2606:54c3:0:785::/64",
+    "ip_type": "IPv6",
     "region": "NR"
   },
   {
@@ -60,41 +105,6 @@
     "region": "NR"
   },
   {
-    "ip_address": "104.28.29.44/32",
-    "ip_type": "IPv4",
-    "region": "NR"
-  },
-  {
-    "ip_address": "104.28.125.76/32",
-    "ip_type": "IPv4",
-    "region": "NR"
-  },
-  {
-    "ip_address": "104.28.125.77/32",
-    "ip_type": "IPv4",
-    "region": "NR"
-  },
-  {
-    "ip_address": "2606:54c0:4dd0::/45",
-    "ip_type": "IPv6",
-    "region": "NR"
-  },
-  {
-    "ip_address": "2606:54c3:0:785::/64",
-    "ip_type": "IPv6",
-    "region": "NR"
-  },
-  {
-    "ip_address": "2a09:bac2:4dd0::/45",
-    "ip_type": "IPv6",
-    "region": "NR"
-  },
-  {
-    "ip_address": "2a09:bac3:4dd0::/45",
-    "ip_type": "IPv6",
-    "region": "NR"
-  },
-  {
     "ip_address": "2a04:4e41:1323::/48",
     "ip_type": "IPv6",
     "region": "NR"
@@ -115,23 +125,13 @@
     "region": "NR"
   },
   {
-    "ip_address": "140.248.40.170/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:4dd0::/45",
+    "ip_type": "IPv6",
     "region": "NR"
   },
   {
-    "ip_address": "146.75.132.104/31",
-    "ip_type": "IPv4",
-    "region": "NR"
-  },
-  {
-    "ip_address": "146.75.160.104/31",
-    "ip_type": "IPv4",
-    "region": "NR"
-  },
-  {
-    "ip_address": "146.75.190.6/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:4dd0::/45",
+    "ip_type": "IPv6",
     "region": "NR"
   }
 ]

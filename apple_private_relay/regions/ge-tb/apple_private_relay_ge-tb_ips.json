@@ -65,22 +65,32 @@
     "region": "GE-TB"
   },
   {
+    "ip_address": "140.248.34.102/31",
+    "ip_type": "IPv4",
+    "region": "GE-TB"
+  },
+  {
+    "ip_address": "140.248.36.120/31",
+    "ip_type": "IPv4",
+    "region": "GE-TB"
+  },
+  {
+    "ip_address": "146.75.169.102/31",
+    "ip_type": "IPv4",
+    "region": "GE-TB"
+  },
+  {
+    "ip_address": "146.75.180.26/31",
+    "ip_type": "IPv4",
+    "region": "GE-TB"
+  },
+  {
     "ip_address": "2606:54c0:3838::/45",
     "ip_type": "IPv6",
     "region": "GE-TB"
   },
   {
     "ip_address": "2606:54c3:0:13cc::/64",
-    "ip_type": "IPv6",
-    "region": "GE-TB"
-  },
-  {
-    "ip_address": "2a09:bac2:3838::/45",
-    "ip_type": "IPv6",
-    "region": "GE-TB"
-  },
-  {
-    "ip_address": "2a09:bac3:3838::/45",
     "ip_type": "IPv6",
     "region": "GE-TB"
   },
@@ -105,23 +115,13 @@
     "region": "GE-TB"
   },
   {
-    "ip_address": "140.248.34.102/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:3838::/45",
+    "ip_type": "IPv6",
     "region": "GE-TB"
   },
   {
-    "ip_address": "140.248.36.120/31",
-    "ip_type": "IPv4",
-    "region": "GE-TB"
-  },
-  {
-    "ip_address": "146.75.169.102/31",
-    "ip_type": "IPv4",
-    "region": "GE-TB"
-  },
-  {
-    "ip_address": "146.75.180.26/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:3838::/45",
+    "ip_type": "IPv6",
     "region": "GE-TB"
   }
 ]

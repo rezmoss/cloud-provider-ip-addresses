@@ -6,6 +6,10 @@ CREATE TABLE IF NOT EXISTS `apple_private_relay_in-mz_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `apple_private_relay_in-mz_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:3e18::/45', 'IPv6');
+INSERT INTO `apple_private_relay_in-mz_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:3e20::/45', 'IPv6');
+INSERT INTO `apple_private_relay_in-mz_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:edc::/64', 'IPv6');
+INSERT INTO `apple_private_relay_in-mz_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:165d::/64', 'IPv6');
 INSERT INTO `apple_private_relay_in-mz_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d6c0:68dd::/64', 'IPv6');
 INSERT INTO `apple_private_relay_in-mz_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d6c0:68de::/64', 'IPv6');
 INSERT INTO `apple_private_relay_in-mz_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d6c1:68dd::/64', 'IPv6');
@@ -18,10 +22,6 @@ INSERT INTO `apple_private_relay_in-mz_ips` (`ip_address`, `ip_type`) VALUES ('2
 INSERT INTO `apple_private_relay_in-mz_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d6cc:68de::/64', 'IPv6');
 INSERT INTO `apple_private_relay_in-mz_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d6d0:68dd::/64', 'IPv6');
 INSERT INTO `apple_private_relay_in-mz_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d6d0:68de::/64', 'IPv6');
-INSERT INTO `apple_private_relay_in-mz_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:3e18::/45', 'IPv6');
-INSERT INTO `apple_private_relay_in-mz_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:3e20::/45', 'IPv6');
-INSERT INTO `apple_private_relay_in-mz_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:edc::/64', 'IPv6');
-INSERT INTO `apple_private_relay_in-mz_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:165d::/64', 'IPv6');
 INSERT INTO `apple_private_relay_in-mz_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:3e18::/45', 'IPv6');
 INSERT INTO `apple_private_relay_in-mz_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:3e20::/45', 'IPv6');
 INSERT INTO `apple_private_relay_in-mz_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:3e18::/45', 'IPv6');

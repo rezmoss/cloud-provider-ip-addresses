@@ -1,5 +1,65 @@
 [
   {
+    "ip_address": "104.28.47.208/32",
+    "ip_type": "IPv4",
+    "region": "CL-VS"
+  },
+  {
+    "ip_address": "104.28.47.209/32",
+    "ip_type": "IPv4",
+    "region": "CL-VS"
+  },
+  {
+    "ip_address": "104.28.59.138/32",
+    "ip_type": "IPv4",
+    "region": "CL-VS"
+  },
+  {
+    "ip_address": "104.28.59.139/32",
+    "ip_type": "IPv4",
+    "region": "CL-VS"
+  },
+  {
+    "ip_address": "104.28.59.168/32",
+    "ip_type": "IPv4",
+    "region": "CL-VS"
+  },
+  {
+    "ip_address": "104.28.63.205/32",
+    "ip_type": "IPv4",
+    "region": "CL-VS"
+  },
+  {
+    "ip_address": "104.28.63.206/32",
+    "ip_type": "IPv4",
+    "region": "CL-VS"
+  },
+  {
+    "ip_address": "104.28.113.196/32",
+    "ip_type": "IPv4",
+    "region": "CL-VS"
+  },
+  {
+    "ip_address": "104.28.113.197/32",
+    "ip_type": "IPv4",
+    "region": "CL-VS"
+  },
+  {
+    "ip_address": "104.28.115.60/32",
+    "ip_type": "IPv4",
+    "region": "CL-VS"
+  },
+  {
+    "ip_address": "104.28.115.61/32",
+    "ip_type": "IPv4",
+    "region": "CL-VS"
+  },
+  {
+    "ip_address": "104.28.115.68/32",
+    "ip_type": "IPv4",
+    "region": "CL-VS"
+  },
+  {
     "ip_address": "172.225.84.64/28",
     "ip_type": "IPv4",
     "region": "CL-VS"
@@ -12,6 +72,26 @@
   {
     "ip_address": "172.225.238.80/28",
     "ip_type": "IPv4",
+    "region": "CL-VS"
+  },
+  {
+    "ip_address": "2606:54c0:1e98::/45",
+    "ip_type": "IPv6",
+    "region": "CL-VS"
+  },
+  {
+    "ip_address": "2606:54c0:1ea0::/45",
+    "ip_type": "IPv6",
+    "region": "CL-VS"
+  },
+  {
+    "ip_address": "2606:54c3:0:752::/64",
+    "ip_type": "IPv6",
+    "region": "CL-VS"
+  },
+  {
+    "ip_address": "2606:54c3:0:193e::/64",
+    "ip_type": "IPv6",
     "region": "CL-VS"
   },
   {
@@ -201,86 +281,6 @@
   },
   {
     "ip_address": "2a02:26f7:eb09:4000::/64",
-    "ip_type": "IPv6",
-    "region": "CL-VS"
-  },
-  {
-    "ip_address": "104.28.47.208/32",
-    "ip_type": "IPv4",
-    "region": "CL-VS"
-  },
-  {
-    "ip_address": "104.28.47.209/32",
-    "ip_type": "IPv4",
-    "region": "CL-VS"
-  },
-  {
-    "ip_address": "104.28.59.138/32",
-    "ip_type": "IPv4",
-    "region": "CL-VS"
-  },
-  {
-    "ip_address": "104.28.59.139/32",
-    "ip_type": "IPv4",
-    "region": "CL-VS"
-  },
-  {
-    "ip_address": "104.28.59.168/32",
-    "ip_type": "IPv4",
-    "region": "CL-VS"
-  },
-  {
-    "ip_address": "104.28.63.205/32",
-    "ip_type": "IPv4",
-    "region": "CL-VS"
-  },
-  {
-    "ip_address": "104.28.63.206/32",
-    "ip_type": "IPv4",
-    "region": "CL-VS"
-  },
-  {
-    "ip_address": "104.28.113.196/32",
-    "ip_type": "IPv4",
-    "region": "CL-VS"
-  },
-  {
-    "ip_address": "104.28.113.197/32",
-    "ip_type": "IPv4",
-    "region": "CL-VS"
-  },
-  {
-    "ip_address": "104.28.115.60/32",
-    "ip_type": "IPv4",
-    "region": "CL-VS"
-  },
-  {
-    "ip_address": "104.28.115.61/32",
-    "ip_type": "IPv4",
-    "region": "CL-VS"
-  },
-  {
-    "ip_address": "104.28.115.68/32",
-    "ip_type": "IPv4",
-    "region": "CL-VS"
-  },
-  {
-    "ip_address": "2606:54c0:1e98::/45",
-    "ip_type": "IPv6",
-    "region": "CL-VS"
-  },
-  {
-    "ip_address": "2606:54c0:1ea0::/45",
-    "ip_type": "IPv6",
-    "region": "CL-VS"
-  },
-  {
-    "ip_address": "2606:54c3:0:752::/64",
-    "ip_type": "IPv6",
-    "region": "CL-VS"
-  },
-  {
-    "ip_address": "2606:54c3:0:193e::/64",
     "ip_type": "IPv6",
     "region": "CL-VS"
   },

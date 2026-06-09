@@ -1,5 +1,100 @@
 [
   {
+    "ip_address": "104.28.39.0/32",
+    "ip_type": "IPv4",
+    "region": "BM"
+  },
+  {
+    "ip_address": "104.28.39.1/32",
+    "ip_type": "IPv4",
+    "region": "BM"
+  },
+  {
+    "ip_address": "104.28.55.0/32",
+    "ip_type": "IPv4",
+    "region": "BM"
+  },
+  {
+    "ip_address": "104.28.55.1/32",
+    "ip_type": "IPv4",
+    "region": "BM"
+  },
+  {
+    "ip_address": "104.28.57.0/32",
+    "ip_type": "IPv4",
+    "region": "BM"
+  },
+  {
+    "ip_address": "104.28.57.1/32",
+    "ip_type": "IPv4",
+    "region": "BM"
+  },
+  {
+    "ip_address": "104.28.76.4/32",
+    "ip_type": "IPv4",
+    "region": "BM"
+  },
+  {
+    "ip_address": "104.28.76.5/32",
+    "ip_type": "IPv4",
+    "region": "BM"
+  },
+  {
+    "ip_address": "104.28.78.4/32",
+    "ip_type": "IPv4",
+    "region": "BM"
+  },
+  {
+    "ip_address": "104.28.78.5/32",
+    "ip_type": "IPv4",
+    "region": "BM"
+  },
+  {
+    "ip_address": "104.28.109.6/32",
+    "ip_type": "IPv4",
+    "region": "BM"
+  },
+  {
+    "ip_address": "104.28.109.7/32",
+    "ip_type": "IPv4",
+    "region": "BM"
+  },
+  {
+    "ip_address": "104.28.132.0/32",
+    "ip_type": "IPv4",
+    "region": "BM"
+  },
+  {
+    "ip_address": "104.28.132.1/32",
+    "ip_type": "IPv4",
+    "region": "BM"
+  },
+  {
+    "ip_address": "146.75.128.4/31",
+    "ip_type": "IPv4",
+    "region": "BM"
+  },
+  {
+    "ip_address": "146.75.148.4/31",
+    "ip_type": "IPv4",
+    "region": "BM"
+  },
+  {
+    "ip_address": "146.75.236.4/31",
+    "ip_type": "IPv4",
+    "region": "BM"
+  },
+  {
+    "ip_address": "146.75.244.4/31",
+    "ip_type": "IPv4",
+    "region": "BM"
+  },
+  {
+    "ip_address": "146.75.252.2/31",
+    "ip_type": "IPv4",
+    "region": "BM"
+  },
+  {
     "ip_address": "172.225.112.0/27",
     "ip_type": "IPv4",
     "region": "BM"
@@ -27,6 +122,16 @@
   {
     "ip_address": "172.226.199.128/27",
     "ip_type": "IPv4",
+    "region": "BM"
+  },
+  {
+    "ip_address": "2606:54c0:520::/45",
+    "ip_type": "IPv6",
+    "region": "BM"
+  },
+  {
+    "ip_address": "2606:54c3:0:9ed::/64",
+    "ip_type": "IPv6",
     "region": "BM"
   },
   {
@@ -150,96 +255,6 @@
     "region": "BM"
   },
   {
-    "ip_address": "104.28.39.0/32",
-    "ip_type": "IPv4",
-    "region": "BM"
-  },
-  {
-    "ip_address": "104.28.39.1/32",
-    "ip_type": "IPv4",
-    "region": "BM"
-  },
-  {
-    "ip_address": "104.28.55.0/32",
-    "ip_type": "IPv4",
-    "region": "BM"
-  },
-  {
-    "ip_address": "104.28.55.1/32",
-    "ip_type": "IPv4",
-    "region": "BM"
-  },
-  {
-    "ip_address": "104.28.57.0/32",
-    "ip_type": "IPv4",
-    "region": "BM"
-  },
-  {
-    "ip_address": "104.28.57.1/32",
-    "ip_type": "IPv4",
-    "region": "BM"
-  },
-  {
-    "ip_address": "104.28.76.4/32",
-    "ip_type": "IPv4",
-    "region": "BM"
-  },
-  {
-    "ip_address": "104.28.76.5/32",
-    "ip_type": "IPv4",
-    "region": "BM"
-  },
-  {
-    "ip_address": "104.28.78.4/32",
-    "ip_type": "IPv4",
-    "region": "BM"
-  },
-  {
-    "ip_address": "104.28.78.5/32",
-    "ip_type": "IPv4",
-    "region": "BM"
-  },
-  {
-    "ip_address": "104.28.109.6/32",
-    "ip_type": "IPv4",
-    "region": "BM"
-  },
-  {
-    "ip_address": "104.28.109.7/32",
-    "ip_type": "IPv4",
-    "region": "BM"
-  },
-  {
-    "ip_address": "104.28.132.0/32",
-    "ip_type": "IPv4",
-    "region": "BM"
-  },
-  {
-    "ip_address": "104.28.132.1/32",
-    "ip_type": "IPv4",
-    "region": "BM"
-  },
-  {
-    "ip_address": "2606:54c0:520::/45",
-    "ip_type": "IPv6",
-    "region": "BM"
-  },
-  {
-    "ip_address": "2606:54c3:0:9ed::/64",
-    "ip_type": "IPv6",
-    "region": "BM"
-  },
-  {
-    "ip_address": "2a09:bac2:520::/45",
-    "ip_type": "IPv6",
-    "region": "BM"
-  },
-  {
-    "ip_address": "2a09:bac3:520::/45",
-    "ip_type": "IPv6",
-    "region": "BM"
-  },
-  {
     "ip_address": "2a04:4e41:610::/48",
     "ip_type": "IPv6",
     "region": "BM"
@@ -265,28 +280,13 @@
     "region": "BM"
   },
   {
-    "ip_address": "146.75.128.4/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:520::/45",
+    "ip_type": "IPv6",
     "region": "BM"
   },
   {
-    "ip_address": "146.75.148.4/31",
-    "ip_type": "IPv4",
-    "region": "BM"
-  },
-  {
-    "ip_address": "146.75.236.4/31",
-    "ip_type": "IPv4",
-    "region": "BM"
-  },
-  {
-    "ip_address": "146.75.244.4/31",
-    "ip_type": "IPv4",
-    "region": "BM"
-  },
-  {
-    "ip_address": "146.75.252.2/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:520::/45",
+    "ip_type": "IPv6",
     "region": "BM"
   }
 ]

@@ -863,6 +863,7 @@ main {
   font-size: 12px;
 }
 .rc-row:last-child { border-bottom: none; }
+.rc-quiet { opacity: 0.45; }
 .rc-date { color: var(--ink-3); }
 .rc-bars { display: flex; gap: 12px; }
 .rc-bars .rc-added { color: var(--green); }

@@ -1,10 +1,5 @@
 [
   {
-    "ip_address": "2600:1f28:365:80b0::/60",
-    "ip_type": "IPv6",
-    "service": "ccbot"
-  },
-  {
     "ip_address": "3.41.188.32/29",
     "ip_type": "IPv4",
     "service": "ccbot"
@@ -27,6 +22,11 @@
   {
     "ip_address": "98.85.178.216/32",
     "ip_type": "IPv4",
+    "service": "ccbot"
+  },
+  {
+    "ip_address": "2600:1f28:365:80b0::/60",
+    "ip_type": "IPv6",
     "service": "ccbot"
   }
 ]

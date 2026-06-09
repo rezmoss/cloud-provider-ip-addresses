@@ -1,5 +1,20 @@
 [
   {
+    "ip_address": "104.28.141.243/32",
+    "ip_type": "IPv4",
+    "region": "BR-TO"
+  },
+  {
+    "ip_address": "2606:54c0:fc8::/45",
+    "ip_type": "IPv6",
+    "region": "BR-TO"
+  },
+  {
+    "ip_address": "2606:54c3:0:8a::/64",
+    "ip_type": "IPv6",
+    "region": "BR-TO"
+  },
+  {
     "ip_address": "2a02:26f7:e500:f09e::/64",
     "ip_type": "IPv6",
     "region": "BR-TO"
@@ -56,21 +71,6 @@
   },
   {
     "ip_address": "2a02:26f7:e530:f09e::/64",
-    "ip_type": "IPv6",
-    "region": "BR-TO"
-  },
-  {
-    "ip_address": "104.28.141.243/32",
-    "ip_type": "IPv4",
-    "region": "BR-TO"
-  },
-  {
-    "ip_address": "2606:54c0:fc8::/45",
-    "ip_type": "IPv6",
-    "region": "BR-TO"
-  },
-  {
-    "ip_address": "2606:54c3:0:8a::/64",
     "ip_type": "IPv6",
     "region": "BR-TO"
   },

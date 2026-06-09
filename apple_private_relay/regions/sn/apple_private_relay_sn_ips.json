@@ -1,5 +1,30 @@
 [
   {
+    "ip_address": "140.248.24.86/31",
+    "ip_type": "IPv4",
+    "region": "SN"
+  },
+  {
+    "ip_address": "140.248.41.86/31",
+    "ip_type": "IPv4",
+    "region": "SN"
+  },
+  {
+    "ip_address": "146.75.166.130/31",
+    "ip_type": "IPv4",
+    "region": "SN"
+  },
+  {
+    "ip_address": "146.75.182.60/31",
+    "ip_type": "IPv4",
+    "region": "SN"
+  },
+  {
+    "ip_address": "146.75.210.60/31",
+    "ip_type": "IPv4",
+    "region": "SN"
+  },
+  {
     "ip_address": "172.225.119.32/27",
     "ip_type": "IPv4",
     "region": "SN"
@@ -232,31 +257,6 @@
   {
     "ip_address": "2a04:4e41:7813::/48",
     "ip_type": "IPv6",
-    "region": "SN"
-  },
-  {
-    "ip_address": "140.248.24.86/31",
-    "ip_type": "IPv4",
-    "region": "SN"
-  },
-  {
-    "ip_address": "140.248.41.86/31",
-    "ip_type": "IPv4",
-    "region": "SN"
-  },
-  {
-    "ip_address": "146.75.166.130/31",
-    "ip_type": "IPv4",
-    "region": "SN"
-  },
-  {
-    "ip_address": "146.75.182.60/31",
-    "ip_type": "IPv4",
-    "region": "SN"
-  },
-  {
-    "ip_address": "146.75.210.60/31",
-    "ip_type": "IPv4",
     "region": "SN"
   }
 ]

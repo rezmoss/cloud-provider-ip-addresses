@@ -6,6 +6,10 @@ CREATE TABLE IF NOT EXISTS `apple_private_relay_mx-tab_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `apple_private_relay_mx-tab_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:4bc0::/45', 'IPv6');
+INSERT INTO `apple_private_relay_mx-tab_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:4bc8::/45', 'IPv6');
+INSERT INTO `apple_private_relay_mx-tab_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3::/64', 'IPv6');
+INSERT INTO `apple_private_relay_mx-tab_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:b28::/64', 'IPv6');
 INSERT INTO `apple_private_relay_mx-tab_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:c000:5c54::/64', 'IPv6');
 INSERT INTO `apple_private_relay_mx-tab_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:c000:5c55::/64', 'IPv6');
 INSERT INTO `apple_private_relay_mx-tab_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:c000:5c56::/64', 'IPv6');
@@ -34,10 +38,6 @@ INSERT INTO `apple_private_relay_mx-tab_ips` (`ip_address`, `ip_type`) VALUES ('
 INSERT INTO `apple_private_relay_mx-tab_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:c018:5c55::/64', 'IPv6');
 INSERT INTO `apple_private_relay_mx-tab_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:c018:5c56::/64', 'IPv6');
 INSERT INTO `apple_private_relay_mx-tab_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:c018:5c57::/64', 'IPv6');
-INSERT INTO `apple_private_relay_mx-tab_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:4bc0::/45', 'IPv6');
-INSERT INTO `apple_private_relay_mx-tab_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:4bc8::/45', 'IPv6');
-INSERT INTO `apple_private_relay_mx-tab_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3::/64', 'IPv6');
-INSERT INTO `apple_private_relay_mx-tab_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:b28::/64', 'IPv6');
 INSERT INTO `apple_private_relay_mx-tab_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:4bc0::/45', 'IPv6');
 INSERT INTO `apple_private_relay_mx-tab_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:4bc8::/45', 'IPv6');
 INSERT INTO `apple_private_relay_mx-tab_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:4bc0::/45', 'IPv6');

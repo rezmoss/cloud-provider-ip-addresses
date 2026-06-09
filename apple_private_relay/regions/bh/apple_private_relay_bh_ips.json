@@ -1,5 +1,40 @@
 [
   {
+    "ip_address": "104.28.136.67/32",
+    "ip_type": "IPv4",
+    "region": "BH"
+  },
+  {
+    "ip_address": "104.28.147.68/32",
+    "ip_type": "IPv4",
+    "region": "BH"
+  },
+  {
+    "ip_address": "104.28.150.117/32",
+    "ip_type": "IPv4",
+    "region": "BH"
+  },
+  {
+    "ip_address": "140.248.34.16/31",
+    "ip_type": "IPv4",
+    "region": "BH"
+  },
+  {
+    "ip_address": "146.75.162.24/31",
+    "ip_type": "IPv4",
+    "region": "BH"
+  },
+  {
+    "ip_address": "146.75.166.8/31",
+    "ip_type": "IPv4",
+    "region": "BH"
+  },
+  {
+    "ip_address": "146.75.169.16/31",
+    "ip_type": "IPv4",
+    "region": "BH"
+  },
+  {
     "ip_address": "172.225.160.32/28",
     "ip_type": "IPv4",
     "region": "BH"
@@ -12,6 +47,16 @@
   {
     "ip_address": "172.225.220.32/28",
     "ip_type": "IPv4",
+    "region": "BH"
+  },
+  {
+    "ip_address": "2606:54c0:4f8::/45",
+    "ip_type": "IPv6",
+    "region": "BH"
+  },
+  {
+    "ip_address": "2606:54c3:0:7a3::/64",
+    "ip_type": "IPv6",
     "region": "BH"
   },
   {
@@ -60,41 +105,6 @@
     "region": "BH"
   },
   {
-    "ip_address": "104.28.136.67/32",
-    "ip_type": "IPv4",
-    "region": "BH"
-  },
-  {
-    "ip_address": "104.28.147.68/32",
-    "ip_type": "IPv4",
-    "region": "BH"
-  },
-  {
-    "ip_address": "104.28.150.117/32",
-    "ip_type": "IPv4",
-    "region": "BH"
-  },
-  {
-    "ip_address": "2606:54c0:4f8::/45",
-    "ip_type": "IPv6",
-    "region": "BH"
-  },
-  {
-    "ip_address": "2606:54c3:0:7a3::/64",
-    "ip_type": "IPv6",
-    "region": "BH"
-  },
-  {
-    "ip_address": "2a09:bac2:4f8::/45",
-    "ip_type": "IPv6",
-    "region": "BH"
-  },
-  {
-    "ip_address": "2a09:bac3:4f8::/45",
-    "ip_type": "IPv6",
-    "region": "BH"
-  },
-  {
     "ip_address": "2a04:4e41:207::/48",
     "ip_type": "IPv6",
     "region": "BH"
@@ -115,23 +125,13 @@
     "region": "BH"
   },
   {
-    "ip_address": "140.248.34.16/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:4f8::/45",
+    "ip_type": "IPv6",
     "region": "BH"
   },
   {
-    "ip_address": "146.75.162.24/31",
-    "ip_type": "IPv4",
-    "region": "BH"
-  },
-  {
-    "ip_address": "146.75.166.8/31",
-    "ip_type": "IPv4",
-    "region": "BH"
-  },
-  {
-    "ip_address": "146.75.169.16/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:4f8::/45",
+    "ip_type": "IPv6",
     "region": "BH"
   }
 ]

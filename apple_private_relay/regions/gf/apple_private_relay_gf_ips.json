@@ -1,5 +1,70 @@
 [
   {
+    "ip_address": "104.28.36.87/32",
+    "ip_type": "IPv4",
+    "region": "GF"
+  },
+  {
+    "ip_address": "104.28.36.88/32",
+    "ip_type": "IPv4",
+    "region": "GF"
+  },
+  {
+    "ip_address": "104.28.47.210/32",
+    "ip_type": "IPv4",
+    "region": "GF"
+  },
+  {
+    "ip_address": "104.28.47.211/32",
+    "ip_type": "IPv4",
+    "region": "GF"
+  },
+  {
+    "ip_address": "104.28.61.75/32",
+    "ip_type": "IPv4",
+    "region": "GF"
+  },
+  {
+    "ip_address": "104.28.61.76/32",
+    "ip_type": "IPv4",
+    "region": "GF"
+  },
+  {
+    "ip_address": "104.28.63.207/32",
+    "ip_type": "IPv4",
+    "region": "GF"
+  },
+  {
+    "ip_address": "104.28.63.208/32",
+    "ip_type": "IPv4",
+    "region": "GF"
+  },
+  {
+    "ip_address": "140.248.24.48/31",
+    "ip_type": "IPv4",
+    "region": "GF"
+  },
+  {
+    "ip_address": "140.248.34.104/31",
+    "ip_type": "IPv4",
+    "region": "GF"
+  },
+  {
+    "ip_address": "140.248.41.48/31",
+    "ip_type": "IPv4",
+    "region": "GF"
+  },
+  {
+    "ip_address": "140.248.44.46/31",
+    "ip_type": "IPv4",
+    "region": "GF"
+  },
+  {
+    "ip_address": "146.75.169.104/31",
+    "ip_type": "IPv4",
+    "region": "GF"
+  },
+  {
     "ip_address": "172.225.120.160/27",
     "ip_type": "IPv4",
     "region": "GF"
@@ -17,6 +82,16 @@
   {
     "ip_address": "172.226.10.128/28",
     "ip_type": "IPv4",
+    "region": "GF"
+  },
+  {
+    "ip_address": "2606:54c0:3840::/45",
+    "ip_type": "IPv6",
+    "region": "GF"
+  },
+  {
+    "ip_address": "2606:54c3:0:228::/64",
+    "ip_type": "IPv6",
     "region": "GF"
   },
   {
@@ -80,66 +155,6 @@
     "region": "GF"
   },
   {
-    "ip_address": "104.28.36.87/32",
-    "ip_type": "IPv4",
-    "region": "GF"
-  },
-  {
-    "ip_address": "104.28.36.88/32",
-    "ip_type": "IPv4",
-    "region": "GF"
-  },
-  {
-    "ip_address": "104.28.47.210/32",
-    "ip_type": "IPv4",
-    "region": "GF"
-  },
-  {
-    "ip_address": "104.28.47.211/32",
-    "ip_type": "IPv4",
-    "region": "GF"
-  },
-  {
-    "ip_address": "104.28.61.75/32",
-    "ip_type": "IPv4",
-    "region": "GF"
-  },
-  {
-    "ip_address": "104.28.61.76/32",
-    "ip_type": "IPv4",
-    "region": "GF"
-  },
-  {
-    "ip_address": "104.28.63.207/32",
-    "ip_type": "IPv4",
-    "region": "GF"
-  },
-  {
-    "ip_address": "104.28.63.208/32",
-    "ip_type": "IPv4",
-    "region": "GF"
-  },
-  {
-    "ip_address": "2606:54c0:3840::/45",
-    "ip_type": "IPv6",
-    "region": "GF"
-  },
-  {
-    "ip_address": "2606:54c3:0:228::/64",
-    "ip_type": "IPv6",
-    "region": "GF"
-  },
-  {
-    "ip_address": "2a09:bac2:3840::/45",
-    "ip_type": "IPv6",
-    "region": "GF"
-  },
-  {
-    "ip_address": "2a09:bac3:3840::/45",
-    "ip_type": "IPv6",
-    "region": "GF"
-  },
-  {
     "ip_address": "2a04:4e41:807::/48",
     "ip_type": "IPv6",
     "region": "GF"
@@ -165,28 +180,13 @@
     "region": "GF"
   },
   {
-    "ip_address": "140.248.24.48/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:3840::/45",
+    "ip_type": "IPv6",
     "region": "GF"
   },
   {
-    "ip_address": "140.248.34.104/31",
-    "ip_type": "IPv4",
-    "region": "GF"
-  },
-  {
-    "ip_address": "140.248.41.48/31",
-    "ip_type": "IPv4",
-    "region": "GF"
-  },
-  {
-    "ip_address": "140.248.44.46/31",
-    "ip_type": "IPv4",
-    "region": "GF"
-  },
-  {
-    "ip_address": "146.75.169.104/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:3840::/45",
+    "ip_type": "IPv6",
     "region": "GF"
   }
 ]

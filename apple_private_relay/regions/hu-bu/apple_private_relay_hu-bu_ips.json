@@ -50,22 +50,32 @@
     "region": "HU-BU"
   },
   {
+    "ip_address": "140.248.34.118/31",
+    "ip_type": "IPv4",
+    "region": "HU-BU"
+  },
+  {
+    "ip_address": "140.248.36.136/31",
+    "ip_type": "IPv4",
+    "region": "HU-BU"
+  },
+  {
+    "ip_address": "146.75.169.118/31",
+    "ip_type": "IPv4",
+    "region": "HU-BU"
+  },
+  {
+    "ip_address": "146.75.180.34/31",
+    "ip_type": "IPv4",
+    "region": "HU-BU"
+  },
+  {
     "ip_address": "2606:54c0:3958::/45",
     "ip_type": "IPv6",
     "region": "HU-BU"
   },
   {
     "ip_address": "2606:54c3:0:4d6::/64",
-    "ip_type": "IPv6",
-    "region": "HU-BU"
-  },
-  {
-    "ip_address": "2a09:bac2:3958::/45",
-    "ip_type": "IPv6",
-    "region": "HU-BU"
-  },
-  {
-    "ip_address": "2a09:bac3:3958::/45",
     "ip_type": "IPv6",
     "region": "HU-BU"
   },
@@ -90,23 +100,13 @@
     "region": "HU-BU"
   },
   {
-    "ip_address": "140.248.34.118/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:3958::/45",
+    "ip_type": "IPv6",
     "region": "HU-BU"
   },
   {
-    "ip_address": "140.248.36.136/31",
-    "ip_type": "IPv4",
-    "region": "HU-BU"
-  },
-  {
-    "ip_address": "146.75.169.118/31",
-    "ip_type": "IPv4",
-    "region": "HU-BU"
-  },
-  {
-    "ip_address": "146.75.180.34/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:3958::/45",
+    "ip_type": "IPv6",
     "region": "HU-BU"
   }
 ]

@@ -1,5 +1,55 @@
 [
   {
+    "ip_address": "140.248.24.40/31",
+    "ip_type": "IPv4",
+    "region": "FR-PAC"
+  },
+  {
+    "ip_address": "140.248.24.42/31",
+    "ip_type": "IPv4",
+    "region": "FR-PAC"
+  },
+  {
+    "ip_address": "140.248.34.94/31",
+    "ip_type": "IPv4",
+    "region": "FR-PAC"
+  },
+  {
+    "ip_address": "140.248.34.96/31",
+    "ip_type": "IPv4",
+    "region": "FR-PAC"
+  },
+  {
+    "ip_address": "140.248.41.40/31",
+    "ip_type": "IPv4",
+    "region": "FR-PAC"
+  },
+  {
+    "ip_address": "140.248.41.42/31",
+    "ip_type": "IPv4",
+    "region": "FR-PAC"
+  },
+  {
+    "ip_address": "146.75.166.64/31",
+    "ip_type": "IPv4",
+    "region": "FR-PAC"
+  },
+  {
+    "ip_address": "146.75.166.66/31",
+    "ip_type": "IPv4",
+    "region": "FR-PAC"
+  },
+  {
+    "ip_address": "146.75.169.94/31",
+    "ip_type": "IPv4",
+    "region": "FR-PAC"
+  },
+  {
+    "ip_address": "146.75.169.96/31",
+    "ip_type": "IPv4",
+    "region": "FR-PAC"
+  },
+  {
     "ip_address": "172.225.116.162/31",
     "ip_type": "IPv4",
     "region": "FR-PAC"
@@ -1037,56 +1087,6 @@
   {
     "ip_address": "2a04:4e41:5602:2000::/52",
     "ip_type": "IPv6",
-    "region": "FR-PAC"
-  },
-  {
-    "ip_address": "140.248.24.40/31",
-    "ip_type": "IPv4",
-    "region": "FR-PAC"
-  },
-  {
-    "ip_address": "140.248.24.42/31",
-    "ip_type": "IPv4",
-    "region": "FR-PAC"
-  },
-  {
-    "ip_address": "140.248.34.94/31",
-    "ip_type": "IPv4",
-    "region": "FR-PAC"
-  },
-  {
-    "ip_address": "140.248.34.96/31",
-    "ip_type": "IPv4",
-    "region": "FR-PAC"
-  },
-  {
-    "ip_address": "140.248.41.40/31",
-    "ip_type": "IPv4",
-    "region": "FR-PAC"
-  },
-  {
-    "ip_address": "140.248.41.42/31",
-    "ip_type": "IPv4",
-    "region": "FR-PAC"
-  },
-  {
-    "ip_address": "146.75.166.64/31",
-    "ip_type": "IPv4",
-    "region": "FR-PAC"
-  },
-  {
-    "ip_address": "146.75.166.66/31",
-    "ip_type": "IPv4",
-    "region": "FR-PAC"
-  },
-  {
-    "ip_address": "146.75.169.94/31",
-    "ip_type": "IPv4",
-    "region": "FR-PAC"
-  },
-  {
-    "ip_address": "146.75.169.96/31",
-    "ip_type": "IPv4",
     "region": "FR-PAC"
   }
 ]

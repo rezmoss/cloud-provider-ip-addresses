@@ -1,605 +1,5 @@
 [
   {
-    "ip_address": "23.100.222.168/30",
-    "ip_type": "IPv4",
-    "service": "ActionGroup.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "2603:1030:302:1::90/126",
-    "ip_type": "IPv6",
-    "service": "ActionGroup.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "20.44.2.4/31",
-    "ip_type": "IPv4",
-    "service": "ApiManagement.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "20.44.3.224/28",
-    "ip_type": "IPv4",
-    "service": "ApiManagement.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "20.44.2.32/27",
-    "ip_type": "IPv4",
-    "service": "AppService.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "23.100.216.96/27",
-    "ip_type": "IPv4",
-    "service": "AppService.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "23.100.216.128/25",
-    "ip_type": "IPv4",
-    "service": "AppService.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "2603:1030:302::600/120",
-    "ip_type": "IPv6",
-    "service": "AppService.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "23.100.216.80/28",
-    "ip_type": "IPv4",
-    "service": "AppServiceManagement.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "2603:1030:302::a0/123",
-    "ip_type": "IPv6",
-    "service": "AppServiceManagement.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "23.100.218.124/31",
-    "ip_type": "IPv4",
-    "service": "AzureArcInfrastructure.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "23.100.218.152/29",
-    "ip_type": "IPv4",
-    "service": "AzureArcInfrastructure.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "20.44.4.248/30",
-    "ip_type": "IPv4",
-    "service": "AzureAttestation.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "20.45.116.92/30",
-    "ip_type": "IPv4",
-    "service": "AzureAttestation.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "57.152.147.56/29",
-    "ip_type": "IPv4",
-    "service": "AzureAttestation.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "57.152.147.192/30",
-    "ip_type": "IPv4",
-    "service": "AzureAttestation.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "20.44.3.64/26",
-    "ip_type": "IPv4",
-    "service": "AzureBackup.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "20.44.3.128/27",
-    "ip_type": "IPv4",
-    "service": "AzureBackup.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "20.44.4.72/30",
-    "ip_type": "IPv4",
-    "service": "AzureBotService.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "20.45.112.64/30",
-    "ip_type": "IPv4",
-    "service": "AzureBotService.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "20.45.112.128/26",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "2603:1030:302::500/121",
-    "ip_type": "IPv6",
-    "service": "AzureCognitiveSearch.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "20.44.3.0/28",
-    "ip_type": "IPv4",
-    "service": "AzureConnectors.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "23.100.208.0/27",
-    "ip_type": "IPv4",
-    "service": "AzureConnectors.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "20.44.2.24/29",
-    "ip_type": "IPv4",
-    "service": "AzureContainerRegistry.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "2603:1030:302:402::c0/122",
-    "ip_type": "IPv6",
-    "service": "AzureContainerRegistry.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "20.44.2.64/26",
-    "ip_type": "IPv4",
-    "service": "AzureCosmosDB.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "20.45.115.160/27",
-    "ip_type": "IPv4",
-    "service": "AzureCosmosDB.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "20.45.116.80/29",
-    "ip_type": "IPv4",
-    "service": "AzureDigitalTwins.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "20.45.116.96/27",
-    "ip_type": "IPv4",
-    "service": "AzureDigitalTwins.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "20.45.113.0/25",
-    "ip_type": "IPv4",
-    "service": "AzureEventGrid.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "57.152.162.0/23",
-    "ip_type": "IPv4",
-    "service": "AzureEventGrid.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "57.152.164.0/22",
-    "ip_type": "IPv4",
-    "service": "AzureEventGrid.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "57.152.168.0/23",
-    "ip_type": "IPv4",
-    "service": "AzureEventGrid.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "20.44.2.128/26",
-    "ip_type": "IPv4",
-    "service": "EventHub.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "20.45.117.128/26",
-    "ip_type": "IPv4",
-    "service": "EventHub.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "2603:1030:302::200/120",
-    "ip_type": "IPv6",
-    "service": "EventHub.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "20.44.4.128/27",
-    "ip_type": "IPv4",
-    "service": "AzureIoTHub.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "20.45.114.224/27",
-    "ip_type": "IPv4",
-    "service": "AzureIoTHub.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "20.45.115.0/25",
-    "ip_type": "IPv4",
-    "service": "AzureIoTHub.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "20.44.2.0/30",
-    "ip_type": "IPv4",
-    "service": "AzureKeyVault.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "20.45.117.32/29",
-    "ip_type": "IPv4",
-    "service": "AzureKeyVault.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "20.45.117.40/30",
-    "ip_type": "IPv4",
-    "service": "AzureKeyVault.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "2603:1030:302::90/125",
-    "ip_type": "IPv6",
-    "service": "AzureKeyVault.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "2603:1030:302::98/126",
-    "ip_type": "IPv6",
-    "service": "AzureKeyVault.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "2603:1030:302:402::180/125",
-    "ip_type": "IPv6",
-    "service": "AzureKeyVault.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "20.44.3.32/28",
-    "ip_type": "IPv4",
-    "service": "AzureMachineLearning.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "20.44.3.48/28",
-    "ip_type": "IPv4",
-    "service": "AzureMonitor.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "23.100.208.80/28",
-    "ip_type": "IPv4",
-    "service": "AzureMonitor.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "23.100.218.160/27",
-    "ip_type": "IPv4",
-    "service": "AzureMonitor.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "23.100.223.32/27",
-    "ip_type": "IPv4",
-    "service": "AzureMonitor.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "23.100.223.64/26",
-    "ip_type": "IPv4",
-    "service": "AzureMonitor.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "2603:1030:302:1::/122",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "2603:1030:302:1::c0/123",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "2603:1030:302:1::100/122",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "2603:1030:302:402::80/123",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "2603:1030:302:402::100/121",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "20.45.112.192/28",
-    "ip_type": "IPv4",
-    "service": "AzureOpenDatasets.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "20.45.112.124/30",
-    "ip_type": "IPv4",
-    "service": "AzurePortal.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "20.45.113.128/27",
-    "ip_type": "IPv4",
-    "service": "AzurePortal.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "20.45.116.64/29",
-    "ip_type": "IPv4",
-    "service": "AzurePortal.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "20.44.3.240/28",
-    "ip_type": "IPv4",
-    "service": "AzureResourceManager.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "20.44.6.0/23",
-    "ip_type": "IPv4",
-    "service": "AzureResourceManager.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "20.45.118.0/23",
-    "ip_type": "IPv4",
-    "service": "AzureResourceManager.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "20.44.0.0/27",
-    "ip_type": "IPv4",
-    "service": "Sql.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "20.44.1.0/27",
-    "ip_type": "IPv4",
-    "service": "Sql.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "23.100.208.32/27",
-    "ip_type": "IPv4",
-    "service": "AzureSecurityCenter.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "20.44.2.8/29",
-    "ip_type": "IPv4",
-    "service": "ServiceBus.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "20.45.117.192/26",
-    "ip_type": "IPv4",
-    "service": "ServiceBus.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "2603:1030:302::100/120",
-    "ip_type": "IPv6",
-    "service": "ServiceBus.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "2603:1030:302::300/120",
-    "ip_type": "IPv6",
-    "service": "AzureSignalR.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "20.38.110.0/23",
-    "ip_type": "IPv4",
-    "service": "Storage.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "20.47.14.0/24",
-    "ip_type": "IPv4",
-    "service": "Storage.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "20.60.9.0/24",
-    "ip_type": "IPv4",
-    "service": "Storage.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "20.209.150.0/23",
-    "ip_type": "IPv4",
-    "service": "Storage.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "2603:1030:80c::/48",
-    "ip_type": "IPv6",
-    "service": "Storage.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "20.44.4.112/29",
-    "ip_type": "IPv4",
-    "service": "BatchNodeManagement.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "20.45.113.160/27",
-    "ip_type": "IPv4",
-    "service": "BatchNodeManagement.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "20.44.3.16/29",
-    "ip_type": "IPv4",
-    "service": "GatewayManager.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "20.45.112.72/29",
-    "ip_type": "IPv4",
-    "service": "GatewayManager.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "23.100.217.32/27",
-    "ip_type": "IPv4",
-    "service": "GatewayManager.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "57.152.146.144/28",
-    "ip_type": "IPv4",
-    "service": "GatewayManager.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "20.44.4.64/29",
-    "ip_type": "IPv4",
-    "service": "HDInsight.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "20.45.115.128/29",
-    "ip_type": "IPv4",
-    "service": "HDInsight.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "20.44.4.176/28",
-    "ip_type": "IPv4",
-    "service": "LogicApps.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "20.44.4.192/27",
-    "ip_type": "IPv4",
-    "service": "LogicApps.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "23.100.223.16/28",
-    "ip_type": "IPv4",
-    "service": "LogicApps.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "57.152.135.32/28",
-    "ip_type": "IPv4",
-    "service": "LogicApps.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "20.44.2.16/29",
-    "ip_type": "IPv4",
-    "service": "MicrosoftContainerRegistry.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "20.45.112.120/31",
-    "ip_type": "IPv4",
-    "service": "PowerQueryOnline.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "23.100.217.20/31",
-    "ip_type": "IPv4",
-    "service": "PowerQueryOnline.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "23.100.217.24/29",
-    "ip_type": "IPv4",
-    "service": "PowerQueryOnline.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "23.100.223.8/29",
-    "ip_type": "IPv4",
-    "service": "PowerQueryOnline.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "23.100.223.128/28",
-    "ip_type": "IPv4",
-    "service": "PowerQueryOnline.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "2603:1030:302:402::a0/126",
-    "ip_type": "IPv6",
-    "service": "PowerQueryOnline.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "20.44.4.240/29",
-    "ip_type": "IPv4",
-    "service": "SCCservice.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "20.44.3.24/29",
-    "ip_type": "IPv4",
-    "service": "ServiceFabric.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "23.100.199.230/32",
-    "ip_type": "IPv4",
-    "service": "ServiceFabric.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "20.45.112.216/29",
-    "ip_type": "IPv4",
-    "service": "StorageSyncService.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
-    "ip_address": "2603:1061:2010:25::/117",
-    "ip_type": "IPv6",
-    "service": "WindowsVirtualDesktop.SouthCentralUSSTG",
-    "region": "usstagec"
-  },
-  {
     "ip_address": "13.105.16.128/26",
     "ip_type": "IPv4",
     "service": "AzureCloud.usstagec",
@@ -630,6 +30,12 @@
     "region": "usstagec"
   },
   {
+    "ip_address": "20.38.110.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
     "ip_address": "20.43.112.0/21",
     "ip_type": "IPv4",
     "service": "AzureCloud.usstagec",
@@ -639,6 +45,174 @@
     "ip_address": "20.44.0.0/21",
     "ip_type": "IPv4",
     "service": "AzureCloud.usstagec",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "20.44.0.0/27",
+    "ip_type": "IPv4",
+    "service": "Sql.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "20.44.1.0/27",
+    "ip_type": "IPv4",
+    "service": "Sql.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "20.44.2.0/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "20.44.2.4/31",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "20.44.2.8/29",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "20.44.2.16/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "20.44.2.24/29",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "20.44.2.32/27",
+    "ip_type": "IPv4",
+    "service": "AppService.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "20.44.2.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "20.44.2.128/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "20.44.3.0/28",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "20.44.3.16/29",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "20.44.3.24/29",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "20.44.3.32/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "20.44.3.48/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "20.44.3.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "20.44.3.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "20.44.3.224/28",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "20.44.3.240/28",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "20.44.4.64/29",
+    "ip_type": "IPv4",
+    "service": "HDInsight.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "20.44.4.72/30",
+    "ip_type": "IPv4",
+    "service": "AzureBotService.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "20.44.4.112/29",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "20.44.4.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "20.44.4.176/28",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "20.44.4.192/27",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "20.44.4.240/29",
+    "ip_type": "IPv4",
+    "service": "SCCservice.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "20.44.4.248/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "20.44.6.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.SouthCentralUSSTG",
     "region": "usstagec"
   },
   {
@@ -654,6 +228,144 @@
     "region": "usstagec"
   },
   {
+    "ip_address": "20.45.112.64/30",
+    "ip_type": "IPv4",
+    "service": "AzureBotService.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "20.45.112.72/29",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "20.45.112.120/31",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "20.45.112.124/30",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "20.45.112.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureCognitiveSearch.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "20.45.112.192/28",
+    "ip_type": "IPv4",
+    "service": "AzureOpenDatasets.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "20.45.112.216/29",
+    "ip_type": "IPv4",
+    "service": "StorageSyncService.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "20.45.113.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "20.45.113.128/27",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "20.45.113.160/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "20.45.114.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "20.45.115.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "20.45.115.128/29",
+    "ip_type": "IPv4",
+    "service": "HDInsight.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "20.45.115.160/27",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "20.45.116.64/29",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "20.45.116.80/29",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "20.45.116.92/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "20.45.116.96/27",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "20.45.117.32/29",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "20.45.117.40/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "20.45.117.128/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "20.45.117.192/26",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "20.45.118.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
     "ip_address": "20.46.64.0/19",
     "ip_type": "IPv4",
     "service": "AzureCloud.usstagec",
@@ -666,9 +378,21 @@
     "region": "usstagec"
   },
   {
+    "ip_address": "20.47.14.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
     "ip_address": "20.60.9.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.usstagec",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "20.60.9.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.SouthCentralUSSTG",
     "region": "usstagec"
   },
   {
@@ -684,9 +408,129 @@
     "region": "usstagec"
   },
   {
+    "ip_address": "20.209.150.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
     "ip_address": "23.100.192.0/19",
     "ip_type": "IPv4",
     "service": "AzureCloud.usstagec",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "23.100.199.230/32",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "23.100.208.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "23.100.208.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "23.100.208.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "23.100.216.80/28",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "23.100.216.96/27",
+    "ip_type": "IPv4",
+    "service": "AppService.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "23.100.216.128/25",
+    "ip_type": "IPv4",
+    "service": "AppService.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "23.100.217.20/31",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "23.100.217.24/29",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "23.100.217.32/27",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "23.100.218.124/31",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "23.100.218.152/29",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "23.100.218.160/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "23.100.222.168/30",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "23.100.223.8/29",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "23.100.223.16/28",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "23.100.223.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "23.100.223.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "23.100.223.128/28",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.SouthCentralUSSTG",
     "region": "usstagec"
   },
   {
@@ -876,6 +720,48 @@
     "region": "usstagec"
   },
   {
+    "ip_address": "57.152.135.32/28",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "57.152.146.144/28",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "57.152.147.56/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "57.152.147.192/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "57.152.162.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "57.152.164.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "57.152.168.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
     "ip_address": "2603:1030:301::/48",
     "ip_type": "IPv6",
     "service": "AzureCloud.usstagec",
@@ -885,6 +771,108 @@
     "ip_address": "2603:1030:302::/48",
     "ip_type": "IPv6",
     "service": "AzureCloud.usstagec",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "2603:1030:302::90/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "2603:1030:302::98/126",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "2603:1030:302::a0/123",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "2603:1030:302::100/120",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "2603:1030:302::200/120",
+    "ip_type": "IPv6",
+    "service": "EventHub.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "2603:1030:302::300/120",
+    "ip_type": "IPv6",
+    "service": "AzureSignalR.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "2603:1030:302::500/121",
+    "ip_type": "IPv6",
+    "service": "AzureCognitiveSearch.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "2603:1030:302::600/120",
+    "ip_type": "IPv6",
+    "service": "AppService.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "2603:1030:302:1::/122",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "2603:1030:302:1::90/126",
+    "ip_type": "IPv6",
+    "service": "ActionGroup.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "2603:1030:302:1::c0/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "2603:1030:302:1::100/122",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "2603:1030:302:402::80/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "2603:1030:302:402::a0/126",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "2603:1030:302:402::c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "2603:1030:302:402::100/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "2603:1030:302:402::180/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.SouthCentralUSSTG",
     "region": "usstagec"
   },
   {
@@ -1038,6 +1026,12 @@
     "region": "usstagec"
   },
   {
+    "ip_address": "2603:1030:80c::/48",
+    "ip_type": "IPv6",
+    "service": "Storage.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
     "ip_address": "2603:1036:903:45::/64",
     "ip_type": "IPv6",
     "service": "AzureCloud.usstagec",
@@ -1083,6 +1077,12 @@
     "ip_address": "2603:1061:2010:25::/64",
     "ip_type": "IPv6",
     "service": "AzureCloud.usstagec",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "2603:1061:2010:25::/117",
+    "ip_type": "IPv6",
+    "service": "WindowsVirtualDesktop.SouthCentralUSSTG",
     "region": "usstagec"
   },
   {

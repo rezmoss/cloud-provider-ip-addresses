@@ -1,5 +1,25 @@
 [
   {
+    "ip_address": "140.248.43.18/31",
+    "ip_type": "IPv4",
+    "region": "SB"
+  },
+  {
+    "ip_address": "146.75.146.18/31",
+    "ip_type": "IPv4",
+    "region": "SB"
+  },
+  {
+    "ip_address": "146.75.154.20/31",
+    "ip_type": "IPv4",
+    "region": "SB"
+  },
+  {
+    "ip_address": "146.75.190.22/31",
+    "ip_type": "IPv4",
+    "region": "SB"
+  },
+  {
     "ip_address": "172.225.60.112/28",
     "ip_type": "IPv4",
     "region": "SB"
@@ -77,26 +97,6 @@
   {
     "ip_address": "2a04:4e41:6e0f::/48",
     "ip_type": "IPv6",
-    "region": "SB"
-  },
-  {
-    "ip_address": "140.248.43.18/31",
-    "ip_type": "IPv4",
-    "region": "SB"
-  },
-  {
-    "ip_address": "146.75.146.18/31",
-    "ip_type": "IPv4",
-    "region": "SB"
-  },
-  {
-    "ip_address": "146.75.154.20/31",
-    "ip_type": "IPv4",
-    "region": "SB"
-  },
-  {
-    "ip_address": "146.75.190.22/31",
-    "ip_type": "IPv4",
     "region": "SB"
   }
 ]

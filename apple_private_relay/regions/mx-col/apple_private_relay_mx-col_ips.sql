@@ -6,6 +6,8 @@ CREATE TABLE IF NOT EXISTS `apple_private_relay_mx-col_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `apple_private_relay_mx-col_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:4a30::/45', 'IPv6');
+INSERT INTO `apple_private_relay_mx-col_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:5b7::/64', 'IPv6');
 INSERT INTO `apple_private_relay_mx-col_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:c000:5c19::/64', 'IPv6');
 INSERT INTO `apple_private_relay_mx-col_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:c002:5c19::/64', 'IPv6');
 INSERT INTO `apple_private_relay_mx-col_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:c009:5c19::/64', 'IPv6');
@@ -13,7 +15,5 @@ INSERT INTO `apple_private_relay_mx-col_ips` (`ip_address`, `ip_type`) VALUES ('
 INSERT INTO `apple_private_relay_mx-col_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:c010:5c19::/64', 'IPv6');
 INSERT INTO `apple_private_relay_mx-col_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:c014:5c19::/64', 'IPv6');
 INSERT INTO `apple_private_relay_mx-col_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:c018:5c19::/64', 'IPv6');
-INSERT INTO `apple_private_relay_mx-col_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:4a30::/45', 'IPv6');
-INSERT INTO `apple_private_relay_mx-col_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:5b7::/64', 'IPv6');
 INSERT INTO `apple_private_relay_mx-col_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:4a30::/45', 'IPv6');
 INSERT INTO `apple_private_relay_mx-col_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:4a30::/45', 'IPv6');

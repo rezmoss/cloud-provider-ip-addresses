@@ -75,22 +75,32 @@
     "region": "GB-NET"
   },
   {
+    "ip_address": "140.248.40.80/31",
+    "ip_type": "IPv4",
+    "region": "GB-NET"
+  },
+  {
+    "ip_address": "146.75.168.94/31",
+    "ip_type": "IPv4",
+    "region": "GB-NET"
+  },
+  {
+    "ip_address": "146.75.174.68/31",
+    "ip_type": "IPv4",
+    "region": "GB-NET"
+  },
+  {
+    "ip_address": "146.75.185.94/31",
+    "ip_type": "IPv4",
+    "region": "GB-NET"
+  },
+  {
     "ip_address": "2606:54c0:37d0::/45",
     "ip_type": "IPv6",
     "region": "GB-NET"
   },
   {
     "ip_address": "2606:54c3:0:1664::/64",
-    "ip_type": "IPv6",
-    "region": "GB-NET"
-  },
-  {
-    "ip_address": "2a09:bac2:37d0::/45",
-    "ip_type": "IPv6",
-    "region": "GB-NET"
-  },
-  {
-    "ip_address": "2a09:bac3:37d0::/45",
     "ip_type": "IPv6",
     "region": "GB-NET"
   },
@@ -115,23 +125,13 @@
     "region": "GB-NET"
   },
   {
-    "ip_address": "140.248.40.80/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:37d0::/45",
+    "ip_type": "IPv6",
     "region": "GB-NET"
   },
   {
-    "ip_address": "146.75.168.94/31",
-    "ip_type": "IPv4",
-    "region": "GB-NET"
-  },
-  {
-    "ip_address": "146.75.174.68/31",
-    "ip_type": "IPv4",
-    "region": "GB-NET"
-  },
-  {
-    "ip_address": "146.75.185.94/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:37d0::/45",
+    "ip_type": "IPv6",
     "region": "GB-NET"
   }
 ]

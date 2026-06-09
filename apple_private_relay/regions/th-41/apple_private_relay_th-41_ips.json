@@ -1,5 +1,15 @@
 [
   {
+    "ip_address": "2606:54c0:5658::/45",
+    "ip_type": "IPv6",
+    "region": "TH-41"
+  },
+  {
+    "ip_address": "2606:54c3:0:125a::/64",
+    "ip_type": "IPv6",
+    "region": "TH-41"
+  },
+  {
     "ip_address": "2a02:26f7:c640:4ce4::/64",
     "ip_type": "IPv6",
     "region": "TH-41"
@@ -36,16 +46,6 @@
   },
   {
     "ip_address": "2a02:26f7:c648:4ce5::/64",
-    "ip_type": "IPv6",
-    "region": "TH-41"
-  },
-  {
-    "ip_address": "2606:54c0:5658::/45",
-    "ip_type": "IPv6",
-    "region": "TH-41"
-  },
-  {
-    "ip_address": "2606:54c3:0:125a::/64",
     "ip_type": "IPv6",
     "region": "TH-41"
   },

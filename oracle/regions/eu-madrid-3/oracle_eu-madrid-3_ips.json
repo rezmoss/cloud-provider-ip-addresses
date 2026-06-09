@@ -1,17 +1,5 @@
 [
   {
-    "ip_address": "80.225.184.0/21",
-    "ip_type": "IPv4",
-    "service": "OCI",
-    "region": "eu-madrid-3"
-  },
-  {
-    "ip_address": "82.70.64.0/19",
-    "ip_type": "IPv4",
-    "service": "OCI",
-    "region": "eu-madrid-3"
-  },
-  {
     "ip_address": "80.225.160.0/26",
     "ip_type": "IPv4",
     "service": "OSN",
@@ -57,6 +45,18 @@
     "ip_address": "80.225.178.128/25",
     "ip_type": "IPv4",
     "service": "OSN",
+    "region": "eu-madrid-3"
+  },
+  {
+    "ip_address": "80.225.184.0/21",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "eu-madrid-3"
+  },
+  {
+    "ip_address": "82.70.64.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
     "region": "eu-madrid-3"
   }
 ]

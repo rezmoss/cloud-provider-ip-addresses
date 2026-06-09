@@ -6,6 +6,10 @@ CREATE TABLE IF NOT EXISTS `apple_private_relay_ch-gr_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `apple_private_relay_ch-gr_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:1dd8::/45', 'IPv6');
+INSERT INTO `apple_private_relay_ch-gr_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:1de0::/45', 'IPv6');
+INSERT INTO `apple_private_relay_ch-gr_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:706::/64', 'IPv6');
+INSERT INTO `apple_private_relay_ch-gr_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:786::/64', 'IPv6');
 INSERT INTO `apple_private_relay_ch-gr_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:e340:5418::/64', 'IPv6');
 INSERT INTO `apple_private_relay_ch-gr_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:e340:5419::/64', 'IPv6');
 INSERT INTO `apple_private_relay_ch-gr_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:e340:541a::/64', 'IPv6');
@@ -66,10 +70,6 @@ INSERT INTO `apple_private_relay_ch-gr_ips` (`ip_address`, `ip_type`) VALUES ('2
 INSERT INTO `apple_private_relay_ch-gr_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:e34c:5421::/64', 'IPv6');
 INSERT INTO `apple_private_relay_ch-gr_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:e34c:5422::/64', 'IPv6');
 INSERT INTO `apple_private_relay_ch-gr_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:e34c:5423::/64', 'IPv6');
-INSERT INTO `apple_private_relay_ch-gr_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:1dd8::/45', 'IPv6');
-INSERT INTO `apple_private_relay_ch-gr_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:1de0::/45', 'IPv6');
-INSERT INTO `apple_private_relay_ch-gr_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:706::/64', 'IPv6');
-INSERT INTO `apple_private_relay_ch-gr_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:786::/64', 'IPv6');
 INSERT INTO `apple_private_relay_ch-gr_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:1dd8::/45', 'IPv6');
 INSERT INTO `apple_private_relay_ch-gr_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:1de0::/45', 'IPv6');
 INSERT INTO `apple_private_relay_ch-gr_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:1dd8::/45', 'IPv6');

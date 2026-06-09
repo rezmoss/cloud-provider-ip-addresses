@@ -1,5 +1,20 @@
 [
   {
+    "ip_address": "104.28.144.1/32",
+    "ip_type": "IPv4",
+    "region": "AR-Q"
+  },
+  {
+    "ip_address": "2606:54c0:a8::/45",
+    "ip_type": "IPv6",
+    "region": "AR-Q"
+  },
+  {
+    "ip_address": "2606:54c3:0:1588::/64",
+    "ip_type": "IPv6",
+    "region": "AR-Q"
+  },
+  {
     "ip_address": "2a02:26f7:d980:404d::/64",
     "ip_type": "IPv6",
     "region": "AR-Q"
@@ -156,21 +171,6 @@
   },
   {
     "ip_address": "2a02:26f7:d98c:ed59::/64",
-    "ip_type": "IPv6",
-    "region": "AR-Q"
-  },
-  {
-    "ip_address": "104.28.144.1/32",
-    "ip_type": "IPv4",
-    "region": "AR-Q"
-  },
-  {
-    "ip_address": "2606:54c0:a8::/45",
-    "ip_type": "IPv6",
-    "region": "AR-Q"
-  },
-  {
-    "ip_address": "2606:54c3:0:1588::/64",
     "ip_type": "IPv6",
     "region": "AR-Q"
   },

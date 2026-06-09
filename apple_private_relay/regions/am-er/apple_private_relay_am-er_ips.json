@@ -75,22 +75,27 @@
     "region": "AM-ER"
   },
   {
+    "ip_address": "140.248.36.8/31",
+    "ip_type": "IPv4",
+    "region": "AM-ER"
+  },
+  {
+    "ip_address": "146.75.162.8/31",
+    "ip_type": "IPv4",
+    "region": "AM-ER"
+  },
+  {
+    "ip_address": "146.75.180.2/31",
+    "ip_type": "IPv4",
+    "region": "AM-ER"
+  },
+  {
     "ip_address": "2606:54c0:58::/45",
     "ip_type": "IPv6",
     "region": "AM-ER"
   },
   {
     "ip_address": "2606:54c3:0:29f::/64",
-    "ip_type": "IPv6",
-    "region": "AM-ER"
-  },
-  {
-    "ip_address": "2a09:bac2:58::/45",
-    "ip_type": "IPv6",
-    "region": "AM-ER"
-  },
-  {
-    "ip_address": "2a09:bac3:58::/45",
     "ip_type": "IPv6",
     "region": "AM-ER"
   },
@@ -110,18 +115,13 @@
     "region": "AM-ER"
   },
   {
-    "ip_address": "140.248.36.8/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:58::/45",
+    "ip_type": "IPv6",
     "region": "AM-ER"
   },
   {
-    "ip_address": "146.75.162.8/31",
-    "ip_type": "IPv4",
-    "region": "AM-ER"
-  },
-  {
-    "ip_address": "146.75.180.2/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:58::/45",
+    "ip_type": "IPv6",
     "region": "AM-ER"
   }
 ]

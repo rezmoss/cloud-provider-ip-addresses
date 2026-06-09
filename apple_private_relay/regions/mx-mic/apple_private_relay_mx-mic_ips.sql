@@ -6,6 +6,12 @@ CREATE TABLE IF NOT EXISTS `apple_private_relay_mx-mic_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `apple_private_relay_mx-mic_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:4ad8::/45', 'IPv6');
+INSERT INTO `apple_private_relay_mx-mic_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:4ae0::/45', 'IPv6');
+INSERT INTO `apple_private_relay_mx-mic_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:4ae8::/45', 'IPv6');
+INSERT INTO `apple_private_relay_mx-mic_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:b27::/64', 'IPv6');
+INSERT INTO `apple_private_relay_mx-mic_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:cc7::/64', 'IPv6');
+INSERT INTO `apple_private_relay_mx-mic_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:e97::/64', 'IPv6');
 INSERT INTO `apple_private_relay_mx-mic_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:c000:5c33::/64', 'IPv6');
 INSERT INTO `apple_private_relay_mx-mic_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:c000:5c34::/64', 'IPv6');
 INSERT INTO `apple_private_relay_mx-mic_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:c000:5c35::/64', 'IPv6');
@@ -62,12 +68,6 @@ INSERT INTO `apple_private_relay_mx-mic_ips` (`ip_address`, `ip_type`) VALUES ('
 INSERT INTO `apple_private_relay_mx-mic_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:c018:5c38::/64', 'IPv6');
 INSERT INTO `apple_private_relay_mx-mic_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:c018:5c39::/64', 'IPv6');
 INSERT INTO `apple_private_relay_mx-mic_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:c018:5c3a::/64', 'IPv6');
-INSERT INTO `apple_private_relay_mx-mic_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:4ad8::/45', 'IPv6');
-INSERT INTO `apple_private_relay_mx-mic_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:4ae0::/45', 'IPv6');
-INSERT INTO `apple_private_relay_mx-mic_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:4ae8::/45', 'IPv6');
-INSERT INTO `apple_private_relay_mx-mic_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:b27::/64', 'IPv6');
-INSERT INTO `apple_private_relay_mx-mic_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:cc7::/64', 'IPv6');
-INSERT INTO `apple_private_relay_mx-mic_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:e97::/64', 'IPv6');
 INSERT INTO `apple_private_relay_mx-mic_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:4ad8::/45', 'IPv6');
 INSERT INTO `apple_private_relay_mx-mic_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:4ae0::/45', 'IPv6');
 INSERT INTO `apple_private_relay_mx-mic_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:4ae8::/45', 'IPv6');

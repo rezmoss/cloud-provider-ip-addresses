@@ -1,5 +1,35 @@
 [
   {
+    "ip_address": "2606:54c0:4988::/45",
+    "ip_type": "IPv6",
+    "region": "MX-AGU"
+  },
+  {
+    "ip_address": "2606:54c0:4990::/45",
+    "ip_type": "IPv6",
+    "region": "MX-AGU"
+  },
+  {
+    "ip_address": "2606:54c0:4998::/45",
+    "ip_type": "IPv6",
+    "region": "MX-AGU"
+  },
+  {
+    "ip_address": "2606:54c3:0:221::/64",
+    "ip_type": "IPv6",
+    "region": "MX-AGU"
+  },
+  {
+    "ip_address": "2606:54c3:0:72b::/64",
+    "ip_type": "IPv6",
+    "region": "MX-AGU"
+  },
+  {
+    "ip_address": "2606:54c3:0:161e::/64",
+    "ip_type": "IPv6",
+    "region": "MX-AGU"
+  },
+  {
     "ip_address": "2a02:26f7:c000:5c0a::/64",
     "ip_type": "IPv6",
     "region": "MX-AGU"
@@ -101,36 +131,6 @@
   },
   {
     "ip_address": "2a02:26f7:c018:5c0c::/64",
-    "ip_type": "IPv6",
-    "region": "MX-AGU"
-  },
-  {
-    "ip_address": "2606:54c0:4988::/45",
-    "ip_type": "IPv6",
-    "region": "MX-AGU"
-  },
-  {
-    "ip_address": "2606:54c0:4990::/45",
-    "ip_type": "IPv6",
-    "region": "MX-AGU"
-  },
-  {
-    "ip_address": "2606:54c0:4998::/45",
-    "ip_type": "IPv6",
-    "region": "MX-AGU"
-  },
-  {
-    "ip_address": "2606:54c3:0:221::/64",
-    "ip_type": "IPv6",
-    "region": "MX-AGU"
-  },
-  {
-    "ip_address": "2606:54c3:0:72b::/64",
-    "ip_type": "IPv6",
-    "region": "MX-AGU"
-  },
-  {
-    "ip_address": "2606:54c3:0:161e::/64",
     "ip_type": "IPv6",
     "region": "MX-AGU"
   },

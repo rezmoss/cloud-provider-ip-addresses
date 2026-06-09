@@ -6,15 +6,57 @@
     "region": "us-sanjose-1"
   },
   {
+    "ip_address": "129.148.160.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-sanjose-1"
+  },
+  {
+    "ip_address": "129.148.164.0/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-sanjose-1"
+  },
+  {
+    "ip_address": "129.148.166.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-sanjose-1"
+  },
+  {
+    "ip_address": "129.149.56.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-sanjose-1"
+  },
+  {
     "ip_address": "129.159.32.0/20",
     "ip_type": "IPv4",
     "service": "OCI",
     "region": "us-sanjose-1"
   },
   {
+    "ip_address": "134.70.124.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN,OBJECT_STORAGE",
+    "region": "us-sanjose-1"
+  },
+  {
     "ip_address": "138.2.224.0/20",
     "ip_type": "IPv4",
     "service": "OCI",
+    "region": "us-sanjose-1"
+  },
+  {
+    "ip_address": "140.91.54.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-sanjose-1"
+  },
+  {
+    "ip_address": "140.204.58.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
     "region": "us-sanjose-1"
   },
   {
@@ -27,6 +69,12 @@
     "ip_address": "146.235.224.0/20",
     "ip_type": "IPv4",
     "service": "OCI",
+    "region": "us-sanjose-1"
+  },
+  {
+    "ip_address": "146.235.251.192/26",
+    "ip_type": "IPv4",
+    "service": "OSN",
     "region": "us-sanjose-1"
   },
   {
@@ -129,54 +177,6 @@
     "ip_address": "192.18.128.0/20",
     "ip_type": "IPv4",
     "service": "OCI",
-    "region": "us-sanjose-1"
-  },
-  {
-    "ip_address": "129.148.160.0/23",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "us-sanjose-1"
-  },
-  {
-    "ip_address": "129.148.164.0/25",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "us-sanjose-1"
-  },
-  {
-    "ip_address": "129.148.166.0/23",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "us-sanjose-1"
-  },
-  {
-    "ip_address": "129.149.56.0/22",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "us-sanjose-1"
-  },
-  {
-    "ip_address": "134.70.124.0/22",
-    "ip_type": "IPv4",
-    "service": "OSN,OBJECT_STORAGE",
-    "region": "us-sanjose-1"
-  },
-  {
-    "ip_address": "140.91.54.0/23",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "us-sanjose-1"
-  },
-  {
-    "ip_address": "140.204.58.128/25",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "us-sanjose-1"
-  },
-  {
-    "ip_address": "146.235.251.192/26",
-    "ip_type": "IPv4",
-    "service": "OSN",
     "region": "us-sanjose-1"
   },
   {

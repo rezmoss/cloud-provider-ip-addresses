@@ -1,5 +1,15 @@
 [
   {
+    "ip_address": "146.75.152.16/31",
+    "ip_type": "IPv4",
+    "region": "MX-SON"
+  },
+  {
+    "ip_address": "146.75.164.14/31",
+    "ip_type": "IPv4",
+    "region": "MX-SON"
+  },
+  {
     "ip_address": "172.225.18.22/31",
     "ip_type": "IPv4",
     "region": "MX-SON"
@@ -27,6 +37,46 @@
   {
     "ip_address": "172.226.174.76/30",
     "ip_type": "IPv4",
+    "region": "MX-SON"
+  },
+  {
+    "ip_address": "2606:54c0:4ba0::/45",
+    "ip_type": "IPv6",
+    "region": "MX-SON"
+  },
+  {
+    "ip_address": "2606:54c0:4ba8::/45",
+    "ip_type": "IPv6",
+    "region": "MX-SON"
+  },
+  {
+    "ip_address": "2606:54c0:4bb0::/45",
+    "ip_type": "IPv6",
+    "region": "MX-SON"
+  },
+  {
+    "ip_address": "2606:54c0:4bb8::/45",
+    "ip_type": "IPv6",
+    "region": "MX-SON"
+  },
+  {
+    "ip_address": "2606:54c3:0:283::/64",
+    "ip_type": "IPv6",
+    "region": "MX-SON"
+  },
+  {
+    "ip_address": "2606:54c3:0:2c9::/64",
+    "ip_type": "IPv6",
+    "region": "MX-SON"
+  },
+  {
+    "ip_address": "2606:54c3:0:cb6::/64",
+    "ip_type": "IPv6",
+    "region": "MX-SON"
+  },
+  {
+    "ip_address": "2606:54c3:0:1551::/64",
+    "ip_type": "IPv6",
     "region": "MX-SON"
   },
   {
@@ -210,42 +260,12 @@
     "region": "MX-SON"
   },
   {
-    "ip_address": "2606:54c0:4ba0::/45",
+    "ip_address": "2a04:4e41:2c00:5000::/52",
     "ip_type": "IPv6",
     "region": "MX-SON"
   },
   {
-    "ip_address": "2606:54c0:4ba8::/45",
-    "ip_type": "IPv6",
-    "region": "MX-SON"
-  },
-  {
-    "ip_address": "2606:54c0:4bb0::/45",
-    "ip_type": "IPv6",
-    "region": "MX-SON"
-  },
-  {
-    "ip_address": "2606:54c0:4bb8::/45",
-    "ip_type": "IPv6",
-    "region": "MX-SON"
-  },
-  {
-    "ip_address": "2606:54c3:0:283::/64",
-    "ip_type": "IPv6",
-    "region": "MX-SON"
-  },
-  {
-    "ip_address": "2606:54c3:0:2c9::/64",
-    "ip_type": "IPv6",
-    "region": "MX-SON"
-  },
-  {
-    "ip_address": "2606:54c3:0:cb6::/64",
-    "ip_type": "IPv6",
-    "region": "MX-SON"
-  },
-  {
-    "ip_address": "2606:54c3:0:1551::/64",
+    "ip_address": "2a04:4e41:2e00:5000::/52",
     "ip_type": "IPv6",
     "region": "MX-SON"
   },
@@ -287,26 +307,6 @@
   {
     "ip_address": "2a09:bac3:4bb8::/45",
     "ip_type": "IPv6",
-    "region": "MX-SON"
-  },
-  {
-    "ip_address": "2a04:4e41:2c00:5000::/52",
-    "ip_type": "IPv6",
-    "region": "MX-SON"
-  },
-  {
-    "ip_address": "2a04:4e41:2e00:5000::/52",
-    "ip_type": "IPv6",
-    "region": "MX-SON"
-  },
-  {
-    "ip_address": "146.75.152.16/31",
-    "ip_type": "IPv4",
-    "region": "MX-SON"
-  },
-  {
-    "ip_address": "146.75.164.14/31",
-    "ip_type": "IPv4",
     "region": "MX-SON"
   }
 ]

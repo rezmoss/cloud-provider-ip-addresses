@@ -90,6 +90,36 @@
     "region": "MY"
   },
   {
+    "ip_address": "140.248.16.0/31",
+    "ip_type": "IPv4",
+    "region": "MY"
+  },
+  {
+    "ip_address": "140.248.33.40/31",
+    "ip_type": "IPv4",
+    "region": "MY"
+  },
+  {
+    "ip_address": "146.75.132.88/31",
+    "ip_type": "IPv4",
+    "region": "MY"
+  },
+  {
+    "ip_address": "146.75.154.8/31",
+    "ip_type": "IPv4",
+    "region": "MY"
+  },
+  {
+    "ip_address": "146.75.160.88/31",
+    "ip_type": "IPv4",
+    "region": "MY"
+  },
+  {
+    "ip_address": "146.75.189.40/31",
+    "ip_type": "IPv4",
+    "region": "MY"
+  },
+  {
     "ip_address": "2606:54c0:4c30::/45",
     "ip_type": "IPv6",
     "region": "MY"
@@ -106,36 +136,6 @@
   },
   {
     "ip_address": "2606:54c3:0:15a6::/64",
-    "ip_type": "IPv6",
-    "region": "MY"
-  },
-  {
-    "ip_address": "2a09:bac2:4c30::/45",
-    "ip_type": "IPv6",
-    "region": "MY"
-  },
-  {
-    "ip_address": "2a09:bac2:4c38::/45",
-    "ip_type": "IPv6",
-    "region": "MY"
-  },
-  {
-    "ip_address": "2a09:bac2:d4e8::/45",
-    "ip_type": "IPv6",
-    "region": "MY"
-  },
-  {
-    "ip_address": "2a09:bac3:4c30::/45",
-    "ip_type": "IPv6",
-    "region": "MY"
-  },
-  {
-    "ip_address": "2a09:bac3:4c38::/45",
-    "ip_type": "IPv6",
-    "region": "MY"
-  },
-  {
-    "ip_address": "2a09:bac3:d4e8::/45",
     "ip_type": "IPv6",
     "region": "MY"
   },
@@ -170,33 +170,33 @@
     "region": "MY"
   },
   {
-    "ip_address": "140.248.16.0/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:4c30::/45",
+    "ip_type": "IPv6",
     "region": "MY"
   },
   {
-    "ip_address": "140.248.33.40/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:4c38::/45",
+    "ip_type": "IPv6",
     "region": "MY"
   },
   {
-    "ip_address": "146.75.132.88/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:d4e8::/45",
+    "ip_type": "IPv6",
     "region": "MY"
   },
   {
-    "ip_address": "146.75.154.8/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:4c30::/45",
+    "ip_type": "IPv6",
     "region": "MY"
   },
   {
-    "ip_address": "146.75.160.88/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:4c38::/45",
+    "ip_type": "IPv6",
     "region": "MY"
   },
   {
-    "ip_address": "146.75.189.40/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:d4e8::/45",
+    "ip_type": "IPv6",
     "region": "MY"
   }
 ]

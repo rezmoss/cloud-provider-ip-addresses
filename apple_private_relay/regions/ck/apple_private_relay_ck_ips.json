@@ -1,5 +1,80 @@
 [
   {
+    "ip_address": "104.28.29.39/32",
+    "ip_type": "IPv4",
+    "region": "CK"
+  },
+  {
+    "ip_address": "104.28.29.40/32",
+    "ip_type": "IPv4",
+    "region": "CK"
+  },
+  {
+    "ip_address": "104.28.35.46/32",
+    "ip_type": "IPv4",
+    "region": "CK"
+  },
+  {
+    "ip_address": "104.28.35.47/32",
+    "ip_type": "IPv4",
+    "region": "CK"
+  },
+  {
+    "ip_address": "104.28.72.2/32",
+    "ip_type": "IPv4",
+    "region": "CK"
+  },
+  {
+    "ip_address": "104.28.72.3/32",
+    "ip_type": "IPv4",
+    "region": "CK"
+  },
+  {
+    "ip_address": "104.28.90.50/32",
+    "ip_type": "IPv4",
+    "region": "CK"
+  },
+  {
+    "ip_address": "104.28.90.51/32",
+    "ip_type": "IPv4",
+    "region": "CK"
+  },
+  {
+    "ip_address": "104.28.125.50/32",
+    "ip_type": "IPv4",
+    "region": "CK"
+  },
+  {
+    "ip_address": "104.28.125.51/32",
+    "ip_type": "IPv4",
+    "region": "CK"
+  },
+  {
+    "ip_address": "140.248.10.14/31",
+    "ip_type": "IPv4",
+    "region": "CK"
+  },
+  {
+    "ip_address": "140.248.43.6/31",
+    "ip_type": "IPv4",
+    "region": "CK"
+  },
+  {
+    "ip_address": "140.248.48.4/31",
+    "ip_type": "IPv4",
+    "region": "CK"
+  },
+  {
+    "ip_address": "146.75.146.6/31",
+    "ip_type": "IPv4",
+    "region": "CK"
+  },
+  {
+    "ip_address": "146.75.152.2/31",
+    "ip_type": "IPv4",
+    "region": "CK"
+  },
+  {
     "ip_address": "172.225.64.160/27",
     "ip_type": "IPv4",
     "region": "CK"
@@ -17,6 +92,16 @@
   {
     "ip_address": "172.226.77.96/27",
     "ip_type": "IPv4",
+    "region": "CK"
+  },
+  {
+    "ip_address": "2606:54c0:1e68::/45",
+    "ip_type": "IPv6",
+    "region": "CK"
+  },
+  {
+    "ip_address": "2606:54c3:0:4d7::/64",
+    "ip_type": "IPv6",
     "region": "CK"
   },
   {
@@ -80,76 +165,6 @@
     "region": "CK"
   },
   {
-    "ip_address": "104.28.29.39/32",
-    "ip_type": "IPv4",
-    "region": "CK"
-  },
-  {
-    "ip_address": "104.28.29.40/32",
-    "ip_type": "IPv4",
-    "region": "CK"
-  },
-  {
-    "ip_address": "104.28.35.46/32",
-    "ip_type": "IPv4",
-    "region": "CK"
-  },
-  {
-    "ip_address": "104.28.35.47/32",
-    "ip_type": "IPv4",
-    "region": "CK"
-  },
-  {
-    "ip_address": "104.28.72.2/32",
-    "ip_type": "IPv4",
-    "region": "CK"
-  },
-  {
-    "ip_address": "104.28.72.3/32",
-    "ip_type": "IPv4",
-    "region": "CK"
-  },
-  {
-    "ip_address": "104.28.90.50/32",
-    "ip_type": "IPv4",
-    "region": "CK"
-  },
-  {
-    "ip_address": "104.28.90.51/32",
-    "ip_type": "IPv4",
-    "region": "CK"
-  },
-  {
-    "ip_address": "104.28.125.50/32",
-    "ip_type": "IPv4",
-    "region": "CK"
-  },
-  {
-    "ip_address": "104.28.125.51/32",
-    "ip_type": "IPv4",
-    "region": "CK"
-  },
-  {
-    "ip_address": "2606:54c0:1e68::/45",
-    "ip_type": "IPv6",
-    "region": "CK"
-  },
-  {
-    "ip_address": "2606:54c3:0:4d7::/64",
-    "ip_type": "IPv6",
-    "region": "CK"
-  },
-  {
-    "ip_address": "2a09:bac2:1e68::/45",
-    "ip_type": "IPv6",
-    "region": "CK"
-  },
-  {
-    "ip_address": "2a09:bac3:1e68::/45",
-    "ip_type": "IPv6",
-    "region": "CK"
-  },
-  {
     "ip_address": "2a04:4e41:1c02::/48",
     "ip_type": "IPv6",
     "region": "CK"
@@ -175,28 +190,13 @@
     "region": "CK"
   },
   {
-    "ip_address": "140.248.10.14/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:1e68::/45",
+    "ip_type": "IPv6",
     "region": "CK"
   },
   {
-    "ip_address": "140.248.43.6/31",
-    "ip_type": "IPv4",
-    "region": "CK"
-  },
-  {
-    "ip_address": "140.248.48.4/31",
-    "ip_type": "IPv4",
-    "region": "CK"
-  },
-  {
-    "ip_address": "146.75.146.6/31",
-    "ip_type": "IPv4",
-    "region": "CK"
-  },
-  {
-    "ip_address": "146.75.152.2/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:1e68::/45",
+    "ip_type": "IPv6",
     "region": "CK"
   }
 ]

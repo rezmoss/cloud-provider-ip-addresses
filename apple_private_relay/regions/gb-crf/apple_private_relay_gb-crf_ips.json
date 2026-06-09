@@ -50,22 +50,32 @@
     "region": "GB-CRF"
   },
   {
+    "ip_address": "140.248.40.38/31",
+    "ip_type": "IPv4",
+    "region": "GB-CRF"
+  },
+  {
+    "ip_address": "146.75.168.52/31",
+    "ip_type": "IPv4",
+    "region": "GB-CRF"
+  },
+  {
+    "ip_address": "146.75.174.26/31",
+    "ip_type": "IPv4",
+    "region": "GB-CRF"
+  },
+  {
+    "ip_address": "146.75.185.52/31",
+    "ip_type": "IPv4",
+    "region": "GB-CRF"
+  },
+  {
     "ip_address": "2606:54c0:3770::/45",
     "ip_type": "IPv6",
     "region": "GB-CRF"
   },
   {
     "ip_address": "2606:54c3:0:c0c::/64",
-    "ip_type": "IPv6",
-    "region": "GB-CRF"
-  },
-  {
-    "ip_address": "2a09:bac2:3770::/45",
-    "ip_type": "IPv6",
-    "region": "GB-CRF"
-  },
-  {
-    "ip_address": "2a09:bac3:3770::/45",
     "ip_type": "IPv6",
     "region": "GB-CRF"
   },
@@ -90,23 +100,13 @@
     "region": "GB-CRF"
   },
   {
-    "ip_address": "140.248.40.38/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:3770::/45",
+    "ip_type": "IPv6",
     "region": "GB-CRF"
   },
   {
-    "ip_address": "146.75.168.52/31",
-    "ip_type": "IPv4",
-    "region": "GB-CRF"
-  },
-  {
-    "ip_address": "146.75.174.26/31",
-    "ip_type": "IPv4",
-    "region": "GB-CRF"
-  },
-  {
-    "ip_address": "146.75.185.52/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:3770::/45",
+    "ip_type": "IPv6",
     "region": "GB-CRF"
   }
 ]

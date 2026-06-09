@@ -1,5 +1,35 @@
 [
   {
+    "ip_address": "2606:54c0:4b88::/45",
+    "ip_type": "IPv6",
+    "region": "MX-SLP"
+  },
+  {
+    "ip_address": "2606:54c0:4b90::/45",
+    "ip_type": "IPv6",
+    "region": "MX-SLP"
+  },
+  {
+    "ip_address": "2606:54c0:4b98::/45",
+    "ip_type": "IPv6",
+    "region": "MX-SLP"
+  },
+  {
+    "ip_address": "2606:54c3:0:159::/64",
+    "ip_type": "IPv6",
+    "region": "MX-SLP"
+  },
+  {
+    "ip_address": "2606:54c3:0:3d9::/64",
+    "ip_type": "IPv6",
+    "region": "MX-SLP"
+  },
+  {
+    "ip_address": "2606:54c3:0:108f::/64",
+    "ip_type": "IPv6",
+    "region": "MX-SLP"
+  },
+  {
     "ip_address": "2a02:26f7:c000:5c51::/64",
     "ip_type": "IPv6",
     "region": "MX-SLP"
@@ -101,36 +131,6 @@
   },
   {
     "ip_address": "2a02:26f7:c018:5c53::/64",
-    "ip_type": "IPv6",
-    "region": "MX-SLP"
-  },
-  {
-    "ip_address": "2606:54c0:4b88::/45",
-    "ip_type": "IPv6",
-    "region": "MX-SLP"
-  },
-  {
-    "ip_address": "2606:54c0:4b90::/45",
-    "ip_type": "IPv6",
-    "region": "MX-SLP"
-  },
-  {
-    "ip_address": "2606:54c0:4b98::/45",
-    "ip_type": "IPv6",
-    "region": "MX-SLP"
-  },
-  {
-    "ip_address": "2606:54c3:0:159::/64",
-    "ip_type": "IPv6",
-    "region": "MX-SLP"
-  },
-  {
-    "ip_address": "2606:54c3:0:3d9::/64",
-    "ip_type": "IPv6",
-    "region": "MX-SLP"
-  },
-  {
-    "ip_address": "2606:54c3:0:108f::/64",
     "ip_type": "IPv6",
     "region": "MX-SLP"
   },

@@ -1,65 +1,5 @@
 [
   {
-    "ip_address": "172.225.96.64/27",
-    "ip_type": "IPv4",
-    "region": "SM"
-  },
-  {
-    "ip_address": "172.225.134.224/27",
-    "ip_type": "IPv4",
-    "region": "SM"
-  },
-  {
-    "ip_address": "172.225.145.32/27",
-    "ip_type": "IPv4",
-    "region": "SM"
-  },
-  {
-    "ip_address": "2a02:26f7:bc40:4000::/64",
-    "ip_type": "IPv6",
-    "region": "SM"
-  },
-  {
-    "ip_address": "2a02:26f7:bc40:c780::/64",
-    "ip_type": "IPv6",
-    "region": "SM"
-  },
-  {
-    "ip_address": "2a02:26f7:bc41:4000::/64",
-    "ip_type": "IPv6",
-    "region": "SM"
-  },
-  {
-    "ip_address": "2a02:26f7:bc44:4000::/64",
-    "ip_type": "IPv6",
-    "region": "SM"
-  },
-  {
-    "ip_address": "2a02:26f7:bc44:c780::/64",
-    "ip_type": "IPv6",
-    "region": "SM"
-  },
-  {
-    "ip_address": "2a02:26f7:bc45:4000::/64",
-    "ip_type": "IPv6",
-    "region": "SM"
-  },
-  {
-    "ip_address": "2a02:26f7:bc48:4000::/64",
-    "ip_type": "IPv6",
-    "region": "SM"
-  },
-  {
-    "ip_address": "2a02:26f7:bc48:c780::/64",
-    "ip_type": "IPv6",
-    "region": "SM"
-  },
-  {
-    "ip_address": "2a02:26f7:bc49:4000::/64",
-    "ip_type": "IPv6",
-    "region": "SM"
-  },
-  {
     "ip_address": "104.28.60.168/32",
     "ip_type": "IPv4",
     "region": "SM"
@@ -110,6 +50,36 @@
     "region": "SM"
   },
   {
+    "ip_address": "140.248.37.38/31",
+    "ip_type": "IPv4",
+    "region": "SM"
+  },
+  {
+    "ip_address": "140.248.40.186/31",
+    "ip_type": "IPv4",
+    "region": "SM"
+  },
+  {
+    "ip_address": "146.75.186.32/31",
+    "ip_type": "IPv4",
+    "region": "SM"
+  },
+  {
+    "ip_address": "172.225.96.64/27",
+    "ip_type": "IPv4",
+    "region": "SM"
+  },
+  {
+    "ip_address": "172.225.134.224/27",
+    "ip_type": "IPv4",
+    "region": "SM"
+  },
+  {
+    "ip_address": "172.225.145.32/27",
+    "ip_type": "IPv4",
+    "region": "SM"
+  },
+  {
     "ip_address": "2606:54c0:5528::/45",
     "ip_type": "IPv6",
     "region": "SM"
@@ -120,12 +90,47 @@
     "region": "SM"
   },
   {
-    "ip_address": "2a09:bac2:5528::/45",
+    "ip_address": "2a02:26f7:bc40:4000::/64",
     "ip_type": "IPv6",
     "region": "SM"
   },
   {
-    "ip_address": "2a09:bac3:5528::/45",
+    "ip_address": "2a02:26f7:bc40:c780::/64",
+    "ip_type": "IPv6",
+    "region": "SM"
+  },
+  {
+    "ip_address": "2a02:26f7:bc41:4000::/64",
+    "ip_type": "IPv6",
+    "region": "SM"
+  },
+  {
+    "ip_address": "2a02:26f7:bc44:4000::/64",
+    "ip_type": "IPv6",
+    "region": "SM"
+  },
+  {
+    "ip_address": "2a02:26f7:bc44:c780::/64",
+    "ip_type": "IPv6",
+    "region": "SM"
+  },
+  {
+    "ip_address": "2a02:26f7:bc45:4000::/64",
+    "ip_type": "IPv6",
+    "region": "SM"
+  },
+  {
+    "ip_address": "2a02:26f7:bc48:4000::/64",
+    "ip_type": "IPv6",
+    "region": "SM"
+  },
+  {
+    "ip_address": "2a02:26f7:bc48:c780::/64",
+    "ip_type": "IPv6",
+    "region": "SM"
+  },
+  {
+    "ip_address": "2a02:26f7:bc49:4000::/64",
     "ip_type": "IPv6",
     "region": "SM"
   },
@@ -145,18 +150,13 @@
     "region": "SM"
   },
   {
-    "ip_address": "140.248.37.38/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:5528::/45",
+    "ip_type": "IPv6",
     "region": "SM"
   },
   {
-    "ip_address": "140.248.40.186/31",
-    "ip_type": "IPv4",
-    "region": "SM"
-  },
-  {
-    "ip_address": "146.75.186.32/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:5528::/45",
+    "ip_type": "IPv6",
     "region": "SM"
   }
 ]

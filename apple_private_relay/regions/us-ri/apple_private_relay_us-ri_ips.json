@@ -1,5 +1,240 @@
 [
   {
+    "ip_address": "104.28.39.74/32",
+    "ip_type": "IPv4",
+    "region": "US-RI"
+  },
+  {
+    "ip_address": "104.28.39.75/32",
+    "ip_type": "IPv4",
+    "region": "US-RI"
+  },
+  {
+    "ip_address": "104.28.39.76/32",
+    "ip_type": "IPv4",
+    "region": "US-RI"
+  },
+  {
+    "ip_address": "104.28.55.131/32",
+    "ip_type": "IPv4",
+    "region": "US-RI"
+  },
+  {
+    "ip_address": "104.28.55.132/32",
+    "ip_type": "IPv4",
+    "region": "US-RI"
+  },
+  {
+    "ip_address": "104.28.55.133/32",
+    "ip_type": "IPv4",
+    "region": "US-RI"
+  },
+  {
+    "ip_address": "104.28.57.131/32",
+    "ip_type": "IPv4",
+    "region": "US-RI"
+  },
+  {
+    "ip_address": "104.28.57.132/32",
+    "ip_type": "IPv4",
+    "region": "US-RI"
+  },
+  {
+    "ip_address": "104.28.57.133/32",
+    "ip_type": "IPv4",
+    "region": "US-RI"
+  },
+  {
+    "ip_address": "104.28.76.176/32",
+    "ip_type": "IPv4",
+    "region": "US-RI"
+  },
+  {
+    "ip_address": "104.28.76.177/32",
+    "ip_type": "IPv4",
+    "region": "US-RI"
+  },
+  {
+    "ip_address": "104.28.76.178/32",
+    "ip_type": "IPv4",
+    "region": "US-RI"
+  },
+  {
+    "ip_address": "104.28.78.176/32",
+    "ip_type": "IPv4",
+    "region": "US-RI"
+  },
+  {
+    "ip_address": "104.28.78.177/32",
+    "ip_type": "IPv4",
+    "region": "US-RI"
+  },
+  {
+    "ip_address": "104.28.78.178/32",
+    "ip_type": "IPv4",
+    "region": "US-RI"
+  },
+  {
+    "ip_address": "104.28.109.157/32",
+    "ip_type": "IPv4",
+    "region": "US-RI"
+  },
+  {
+    "ip_address": "104.28.109.158/32",
+    "ip_type": "IPv4",
+    "region": "US-RI"
+  },
+  {
+    "ip_address": "104.28.109.159/32",
+    "ip_type": "IPv4",
+    "region": "US-RI"
+  },
+  {
+    "ip_address": "104.28.132.87/32",
+    "ip_type": "IPv4",
+    "region": "US-RI"
+  },
+  {
+    "ip_address": "104.28.132.88/32",
+    "ip_type": "IPv4",
+    "region": "US-RI"
+  },
+  {
+    "ip_address": "104.28.132.89/32",
+    "ip_type": "IPv4",
+    "region": "US-RI"
+  },
+  {
+    "ip_address": "140.248.1.168/31",
+    "ip_type": "IPv4",
+    "region": "US-RI"
+  },
+  {
+    "ip_address": "140.248.1.170/31",
+    "ip_type": "IPv4",
+    "region": "US-RI"
+  },
+  {
+    "ip_address": "140.248.5.230/31",
+    "ip_type": "IPv4",
+    "region": "US-RI"
+  },
+  {
+    "ip_address": "140.248.5.232/31",
+    "ip_type": "IPv4",
+    "region": "US-RI"
+  },
+  {
+    "ip_address": "140.248.13.198/31",
+    "ip_type": "IPv4",
+    "region": "US-RI"
+  },
+  {
+    "ip_address": "140.248.13.200/31",
+    "ip_type": "IPv4",
+    "region": "US-RI"
+  },
+  {
+    "ip_address": "140.248.46.16/31",
+    "ip_type": "IPv4",
+    "region": "US-RI"
+  },
+  {
+    "ip_address": "140.248.46.18/31",
+    "ip_type": "IPv4",
+    "region": "US-RI"
+  },
+  {
+    "ip_address": "146.75.129.180/31",
+    "ip_type": "IPv4",
+    "region": "US-RI"
+  },
+  {
+    "ip_address": "146.75.129.182/31",
+    "ip_type": "IPv4",
+    "region": "US-RI"
+  },
+  {
+    "ip_address": "146.75.135.162/31",
+    "ip_type": "IPv4",
+    "region": "US-RI"
+  },
+  {
+    "ip_address": "146.75.135.164/31",
+    "ip_type": "IPv4",
+    "region": "US-RI"
+  },
+  {
+    "ip_address": "146.75.149.174/31",
+    "ip_type": "IPv4",
+    "region": "US-RI"
+  },
+  {
+    "ip_address": "146.75.149.176/31",
+    "ip_type": "IPv4",
+    "region": "US-RI"
+  },
+  {
+    "ip_address": "146.75.223.168/31",
+    "ip_type": "IPv4",
+    "region": "US-RI"
+  },
+  {
+    "ip_address": "146.75.223.170/31",
+    "ip_type": "IPv4",
+    "region": "US-RI"
+  },
+  {
+    "ip_address": "146.75.233.198/31",
+    "ip_type": "IPv4",
+    "region": "US-RI"
+  },
+  {
+    "ip_address": "146.75.233.200/31",
+    "ip_type": "IPv4",
+    "region": "US-RI"
+  },
+  {
+    "ip_address": "146.75.237.180/31",
+    "ip_type": "IPv4",
+    "region": "US-RI"
+  },
+  {
+    "ip_address": "146.75.237.182/31",
+    "ip_type": "IPv4",
+    "region": "US-RI"
+  },
+  {
+    "ip_address": "146.75.245.174/31",
+    "ip_type": "IPv4",
+    "region": "US-RI"
+  },
+  {
+    "ip_address": "146.75.245.176/31",
+    "ip_type": "IPv4",
+    "region": "US-RI"
+  },
+  {
+    "ip_address": "146.75.249.198/31",
+    "ip_type": "IPv4",
+    "region": "US-RI"
+  },
+  {
+    "ip_address": "146.75.249.200/31",
+    "ip_type": "IPv4",
+    "region": "US-RI"
+  },
+  {
+    "ip_address": "146.75.253.172/31",
+    "ip_type": "IPv4",
+    "region": "US-RI"
+  },
+  {
+    "ip_address": "146.75.253.174/31",
+    "ip_type": "IPv4",
+    "region": "US-RI"
+  },
+  {
     "ip_address": "172.224.237.86/31",
     "ip_type": "IPv4",
     "region": "US-RI"
@@ -192,6 +427,36 @@
   {
     "ip_address": "172.226.204.54/31",
     "ip_type": "IPv4",
+    "region": "US-RI"
+  },
+  {
+    "ip_address": "2606:54c0:b3c0::/45",
+    "ip_type": "IPv6",
+    "region": "US-RI"
+  },
+  {
+    "ip_address": "2606:54c0:b3c8::/45",
+    "ip_type": "IPv6",
+    "region": "US-RI"
+  },
+  {
+    "ip_address": "2606:54c0:b3d0::/45",
+    "ip_type": "IPv6",
+    "region": "US-RI"
+  },
+  {
+    "ip_address": "2606:54c3:0:608::/64",
+    "ip_type": "IPv6",
+    "region": "US-RI"
+  },
+  {
+    "ip_address": "2606:54c3:0:bc3::/64",
+    "ip_type": "IPv6",
+    "region": "US-RI"
+  },
+  {
+    "ip_address": "2606:54c3:0:ccd::/64",
+    "ip_type": "IPv6",
     "region": "US-RI"
   },
   {
@@ -1740,171 +2005,6 @@
     "region": "US-RI"
   },
   {
-    "ip_address": "104.28.39.74/32",
-    "ip_type": "IPv4",
-    "region": "US-RI"
-  },
-  {
-    "ip_address": "104.28.39.75/32",
-    "ip_type": "IPv4",
-    "region": "US-RI"
-  },
-  {
-    "ip_address": "104.28.39.76/32",
-    "ip_type": "IPv4",
-    "region": "US-RI"
-  },
-  {
-    "ip_address": "104.28.55.131/32",
-    "ip_type": "IPv4",
-    "region": "US-RI"
-  },
-  {
-    "ip_address": "104.28.55.132/32",
-    "ip_type": "IPv4",
-    "region": "US-RI"
-  },
-  {
-    "ip_address": "104.28.55.133/32",
-    "ip_type": "IPv4",
-    "region": "US-RI"
-  },
-  {
-    "ip_address": "104.28.57.131/32",
-    "ip_type": "IPv4",
-    "region": "US-RI"
-  },
-  {
-    "ip_address": "104.28.57.132/32",
-    "ip_type": "IPv4",
-    "region": "US-RI"
-  },
-  {
-    "ip_address": "104.28.57.133/32",
-    "ip_type": "IPv4",
-    "region": "US-RI"
-  },
-  {
-    "ip_address": "104.28.76.176/32",
-    "ip_type": "IPv4",
-    "region": "US-RI"
-  },
-  {
-    "ip_address": "104.28.76.177/32",
-    "ip_type": "IPv4",
-    "region": "US-RI"
-  },
-  {
-    "ip_address": "104.28.76.178/32",
-    "ip_type": "IPv4",
-    "region": "US-RI"
-  },
-  {
-    "ip_address": "104.28.78.176/32",
-    "ip_type": "IPv4",
-    "region": "US-RI"
-  },
-  {
-    "ip_address": "104.28.78.177/32",
-    "ip_type": "IPv4",
-    "region": "US-RI"
-  },
-  {
-    "ip_address": "104.28.78.178/32",
-    "ip_type": "IPv4",
-    "region": "US-RI"
-  },
-  {
-    "ip_address": "104.28.109.157/32",
-    "ip_type": "IPv4",
-    "region": "US-RI"
-  },
-  {
-    "ip_address": "104.28.109.158/32",
-    "ip_type": "IPv4",
-    "region": "US-RI"
-  },
-  {
-    "ip_address": "104.28.109.159/32",
-    "ip_type": "IPv4",
-    "region": "US-RI"
-  },
-  {
-    "ip_address": "104.28.132.87/32",
-    "ip_type": "IPv4",
-    "region": "US-RI"
-  },
-  {
-    "ip_address": "104.28.132.88/32",
-    "ip_type": "IPv4",
-    "region": "US-RI"
-  },
-  {
-    "ip_address": "104.28.132.89/32",
-    "ip_type": "IPv4",
-    "region": "US-RI"
-  },
-  {
-    "ip_address": "2606:54c0:b3c0::/45",
-    "ip_type": "IPv6",
-    "region": "US-RI"
-  },
-  {
-    "ip_address": "2606:54c0:b3c8::/45",
-    "ip_type": "IPv6",
-    "region": "US-RI"
-  },
-  {
-    "ip_address": "2606:54c0:b3d0::/45",
-    "ip_type": "IPv6",
-    "region": "US-RI"
-  },
-  {
-    "ip_address": "2606:54c3:0:608::/64",
-    "ip_type": "IPv6",
-    "region": "US-RI"
-  },
-  {
-    "ip_address": "2606:54c3:0:bc3::/64",
-    "ip_type": "IPv6",
-    "region": "US-RI"
-  },
-  {
-    "ip_address": "2606:54c3:0:ccd::/64",
-    "ip_type": "IPv6",
-    "region": "US-RI"
-  },
-  {
-    "ip_address": "2a09:bac2:b3c0::/45",
-    "ip_type": "IPv6",
-    "region": "US-RI"
-  },
-  {
-    "ip_address": "2a09:bac2:b3c8::/45",
-    "ip_type": "IPv6",
-    "region": "US-RI"
-  },
-  {
-    "ip_address": "2a09:bac2:b3d0::/45",
-    "ip_type": "IPv6",
-    "region": "US-RI"
-  },
-  {
-    "ip_address": "2a09:bac3:b3c0::/45",
-    "ip_type": "IPv6",
-    "region": "US-RI"
-  },
-  {
-    "ip_address": "2a09:bac3:b3c8::/45",
-    "ip_type": "IPv6",
-    "region": "US-RI"
-  },
-  {
-    "ip_address": "2a09:bac3:b3d0::/45",
-    "ip_type": "IPv6",
-    "region": "US-RI"
-  },
-  {
     "ip_address": "2a04:4e41:60d::/52",
     "ip_type": "IPv6",
     "region": "US-RI"
@@ -2035,133 +2135,33 @@
     "region": "US-RI"
   },
   {
-    "ip_address": "140.248.1.168/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:b3c0::/45",
+    "ip_type": "IPv6",
     "region": "US-RI"
   },
   {
-    "ip_address": "140.248.1.170/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:b3c8::/45",
+    "ip_type": "IPv6",
     "region": "US-RI"
   },
   {
-    "ip_address": "140.248.5.230/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:b3d0::/45",
+    "ip_type": "IPv6",
     "region": "US-RI"
   },
   {
-    "ip_address": "140.248.5.232/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:b3c0::/45",
+    "ip_type": "IPv6",
     "region": "US-RI"
   },
   {
-    "ip_address": "140.248.13.198/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:b3c8::/45",
+    "ip_type": "IPv6",
     "region": "US-RI"
   },
   {
-    "ip_address": "140.248.13.200/31",
-    "ip_type": "IPv4",
-    "region": "US-RI"
-  },
-  {
-    "ip_address": "140.248.46.16/31",
-    "ip_type": "IPv4",
-    "region": "US-RI"
-  },
-  {
-    "ip_address": "140.248.46.18/31",
-    "ip_type": "IPv4",
-    "region": "US-RI"
-  },
-  {
-    "ip_address": "146.75.129.180/31",
-    "ip_type": "IPv4",
-    "region": "US-RI"
-  },
-  {
-    "ip_address": "146.75.129.182/31",
-    "ip_type": "IPv4",
-    "region": "US-RI"
-  },
-  {
-    "ip_address": "146.75.135.162/31",
-    "ip_type": "IPv4",
-    "region": "US-RI"
-  },
-  {
-    "ip_address": "146.75.135.164/31",
-    "ip_type": "IPv4",
-    "region": "US-RI"
-  },
-  {
-    "ip_address": "146.75.149.174/31",
-    "ip_type": "IPv4",
-    "region": "US-RI"
-  },
-  {
-    "ip_address": "146.75.149.176/31",
-    "ip_type": "IPv4",
-    "region": "US-RI"
-  },
-  {
-    "ip_address": "146.75.223.168/31",
-    "ip_type": "IPv4",
-    "region": "US-RI"
-  },
-  {
-    "ip_address": "146.75.223.170/31",
-    "ip_type": "IPv4",
-    "region": "US-RI"
-  },
-  {
-    "ip_address": "146.75.233.198/31",
-    "ip_type": "IPv4",
-    "region": "US-RI"
-  },
-  {
-    "ip_address": "146.75.233.200/31",
-    "ip_type": "IPv4",
-    "region": "US-RI"
-  },
-  {
-    "ip_address": "146.75.237.180/31",
-    "ip_type": "IPv4",
-    "region": "US-RI"
-  },
-  {
-    "ip_address": "146.75.237.182/31",
-    "ip_type": "IPv4",
-    "region": "US-RI"
-  },
-  {
-    "ip_address": "146.75.245.174/31",
-    "ip_type": "IPv4",
-    "region": "US-RI"
-  },
-  {
-    "ip_address": "146.75.245.176/31",
-    "ip_type": "IPv4",
-    "region": "US-RI"
-  },
-  {
-    "ip_address": "146.75.249.198/31",
-    "ip_type": "IPv4",
-    "region": "US-RI"
-  },
-  {
-    "ip_address": "146.75.249.200/31",
-    "ip_type": "IPv4",
-    "region": "US-RI"
-  },
-  {
-    "ip_address": "146.75.253.172/31",
-    "ip_type": "IPv4",
-    "region": "US-RI"
-  },
-  {
-    "ip_address": "146.75.253.174/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:b3d0::/45",
+    "ip_type": "IPv6",
     "region": "US-RI"
   }
 ]

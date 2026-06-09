@@ -1,5 +1,40 @@
 [
   {
+    "ip_address": "104.28.29.46/32",
+    "ip_type": "IPv4",
+    "region": "PG"
+  },
+  {
+    "ip_address": "104.28.125.86/32",
+    "ip_type": "IPv4",
+    "region": "PG"
+  },
+  {
+    "ip_address": "104.28.125.87/32",
+    "ip_type": "IPv4",
+    "region": "PG"
+  },
+  {
+    "ip_address": "140.248.20.18/31",
+    "ip_type": "IPv4",
+    "region": "PG"
+  },
+  {
+    "ip_address": "146.75.136.18/31",
+    "ip_type": "IPv4",
+    "region": "PG"
+  },
+  {
+    "ip_address": "146.75.190.20/31",
+    "ip_type": "IPv4",
+    "region": "PG"
+  },
+  {
+    "ip_address": "146.75.213.2/31",
+    "ip_type": "IPv4",
+    "region": "PG"
+  },
+  {
     "ip_address": "172.225.60.96/28",
     "ip_type": "IPv4",
     "region": "PG"
@@ -37,6 +72,16 @@
   {
     "ip_address": "172.225.254.48/28",
     "ip_type": "IPv4",
+    "region": "PG"
+  },
+  {
+    "ip_address": "2606:54c0:4ec8::/45",
+    "ip_type": "IPv6",
+    "region": "PG"
+  },
+  {
+    "ip_address": "2606:54c3:0:7b3::/64",
+    "ip_type": "IPv6",
     "region": "PG"
   },
   {
@@ -200,41 +245,6 @@
     "region": "PG"
   },
   {
-    "ip_address": "104.28.29.46/32",
-    "ip_type": "IPv4",
-    "region": "PG"
-  },
-  {
-    "ip_address": "104.28.125.86/32",
-    "ip_type": "IPv4",
-    "region": "PG"
-  },
-  {
-    "ip_address": "104.28.125.87/32",
-    "ip_type": "IPv4",
-    "region": "PG"
-  },
-  {
-    "ip_address": "2606:54c0:4ec8::/45",
-    "ip_type": "IPv6",
-    "region": "PG"
-  },
-  {
-    "ip_address": "2606:54c3:0:7b3::/64",
-    "ip_type": "IPv6",
-    "region": "PG"
-  },
-  {
-    "ip_address": "2a09:bac2:4ec8::/45",
-    "ip_type": "IPv6",
-    "region": "PG"
-  },
-  {
-    "ip_address": "2a09:bac3:4ec8::/45",
-    "ip_type": "IPv6",
-    "region": "PG"
-  },
-  {
     "ip_address": "2a04:4e41:302::/48",
     "ip_type": "IPv6",
     "region": "PG"
@@ -255,23 +265,13 @@
     "region": "PG"
   },
   {
-    "ip_address": "140.248.20.18/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:4ec8::/45",
+    "ip_type": "IPv6",
     "region": "PG"
   },
   {
-    "ip_address": "146.75.136.18/31",
-    "ip_type": "IPv4",
-    "region": "PG"
-  },
-  {
-    "ip_address": "146.75.190.20/31",
-    "ip_type": "IPv4",
-    "region": "PG"
-  },
-  {
-    "ip_address": "146.75.213.2/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:4ec8::/45",
+    "ip_type": "IPv6",
     "region": "PG"
   }
 ]

@@ -1,7 +1,7 @@
 ip_address,ip_type,service,region
 13.52.5.96/28,IPv4,"bitbucket,confluence,forge,halp,jira,opsgenie,statuspage,trello",us-west-1
-2600:1f1c:cc5:2304::/64,IPv6,"bitbucket,confluence,forge,halp,jira,opsgenie,statuspage,trello",us-west-1
-2600:1f1c:cc5:2305::/64,IPv6,"bitbucket,confluence,forge,halp,jira,opsgenie,statuspage,trello",us-west-1
+13.56.84.222/32,IPv4,forge,us-west-1
 52.53.140.163/32,IPv4,forge,us-west-1
 54.241.128.19/32,IPv4,forge,us-west-1
-13.56.84.222/32,IPv4,forge,us-west-1
+2600:1f1c:cc5:2304::/64,IPv6,"bitbucket,confluence,forge,halp,jira,opsgenie,statuspage,trello",us-west-1
+2600:1f1c:cc5:2305::/64,IPv6,"bitbucket,confluence,forge,halp,jira,opsgenie,statuspage,trello",us-west-1

@@ -1,5 +1,40 @@
 [
   {
+    "ip_address": "140.248.34.0/31",
+    "ip_type": "IPv4",
+    "region": "AF"
+  },
+  {
+    "ip_address": "140.248.36.0/31",
+    "ip_type": "IPv4",
+    "region": "AF"
+  },
+  {
+    "ip_address": "146.75.132.0/31",
+    "ip_type": "IPv4",
+    "region": "AF"
+  },
+  {
+    "ip_address": "146.75.160.0/31",
+    "ip_type": "IPv4",
+    "region": "AF"
+  },
+  {
+    "ip_address": "146.75.169.0/31",
+    "ip_type": "IPv4",
+    "region": "AF"
+  },
+  {
+    "ip_address": "146.75.205.40/31",
+    "ip_type": "IPv4",
+    "region": "AF"
+  },
+  {
+    "ip_address": "146.75.214.38/31",
+    "ip_type": "IPv4",
+    "region": "AF"
+  },
+  {
     "ip_address": "172.225.73.128/26",
     "ip_type": "IPv4",
     "region": "AF"
@@ -357,41 +392,6 @@
   {
     "ip_address": "2a04:4e41:7603::/48",
     "ip_type": "IPv6",
-    "region": "AF"
-  },
-  {
-    "ip_address": "140.248.34.0/31",
-    "ip_type": "IPv4",
-    "region": "AF"
-  },
-  {
-    "ip_address": "140.248.36.0/31",
-    "ip_type": "IPv4",
-    "region": "AF"
-  },
-  {
-    "ip_address": "146.75.132.0/31",
-    "ip_type": "IPv4",
-    "region": "AF"
-  },
-  {
-    "ip_address": "146.75.160.0/31",
-    "ip_type": "IPv4",
-    "region": "AF"
-  },
-  {
-    "ip_address": "146.75.169.0/31",
-    "ip_type": "IPv4",
-    "region": "AF"
-  },
-  {
-    "ip_address": "146.75.205.40/31",
-    "ip_type": "IPv4",
-    "region": "AF"
-  },
-  {
-    "ip_address": "146.75.214.38/31",
-    "ip_type": "IPv4",
     "region": "AF"
   }
 ]

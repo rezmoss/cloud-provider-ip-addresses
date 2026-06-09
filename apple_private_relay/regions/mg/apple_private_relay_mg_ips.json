@@ -1,5 +1,90 @@
 [
   {
+    "ip_address": "104.28.38.18/32",
+    "ip_type": "IPv4",
+    "region": "MG"
+  },
+  {
+    "ip_address": "104.28.38.19/32",
+    "ip_type": "IPv4",
+    "region": "MG"
+  },
+  {
+    "ip_address": "104.28.38.20/32",
+    "ip_type": "IPv4",
+    "region": "MG"
+  },
+  {
+    "ip_address": "104.28.44.120/32",
+    "ip_type": "IPv4",
+    "region": "MG"
+  },
+  {
+    "ip_address": "104.28.44.121/32",
+    "ip_type": "IPv4",
+    "region": "MG"
+  },
+  {
+    "ip_address": "104.28.44.122/32",
+    "ip_type": "IPv4",
+    "region": "MG"
+  },
+  {
+    "ip_address": "104.28.46.47/32",
+    "ip_type": "IPv4",
+    "region": "MG"
+  },
+  {
+    "ip_address": "104.28.46.48/32",
+    "ip_type": "IPv4",
+    "region": "MG"
+  },
+  {
+    "ip_address": "104.28.46.49/32",
+    "ip_type": "IPv4",
+    "region": "MG"
+  },
+  {
+    "ip_address": "104.28.82.55/32",
+    "ip_type": "IPv4",
+    "region": "MG"
+  },
+  {
+    "ip_address": "104.28.82.56/32",
+    "ip_type": "IPv4",
+    "region": "MG"
+  },
+  {
+    "ip_address": "104.28.82.57/32",
+    "ip_type": "IPv4",
+    "region": "MG"
+  },
+  {
+    "ip_address": "104.28.146.146/32",
+    "ip_type": "IPv4",
+    "region": "MG"
+  },
+  {
+    "ip_address": "140.248.40.152/31",
+    "ip_type": "IPv4",
+    "region": "MG"
+  },
+  {
+    "ip_address": "146.75.168.140/31",
+    "ip_type": "IPv4",
+    "region": "MG"
+  },
+  {
+    "ip_address": "146.75.185.140/31",
+    "ip_type": "IPv4",
+    "region": "MG"
+  },
+  {
+    "ip_address": "146.75.198.12/31",
+    "ip_type": "IPv4",
+    "region": "MG"
+  },
+  {
     "ip_address": "172.224.230.176/28",
     "ip_type": "IPv4",
     "region": "MG"
@@ -22,6 +107,16 @@
   {
     "ip_address": "172.225.221.16/28",
     "ip_type": "IPv4",
+    "region": "MG"
+  },
+  {
+    "ip_address": "2606:54c0:4858::/45",
+    "ip_type": "IPv6",
+    "region": "MG"
+  },
+  {
+    "ip_address": "2606:54c3:0:5cd::/64",
+    "ip_type": "IPv6",
     "region": "MG"
   },
   {
@@ -125,91 +220,6 @@
     "region": "MG"
   },
   {
-    "ip_address": "104.28.38.18/32",
-    "ip_type": "IPv4",
-    "region": "MG"
-  },
-  {
-    "ip_address": "104.28.38.19/32",
-    "ip_type": "IPv4",
-    "region": "MG"
-  },
-  {
-    "ip_address": "104.28.38.20/32",
-    "ip_type": "IPv4",
-    "region": "MG"
-  },
-  {
-    "ip_address": "104.28.44.120/32",
-    "ip_type": "IPv4",
-    "region": "MG"
-  },
-  {
-    "ip_address": "104.28.44.121/32",
-    "ip_type": "IPv4",
-    "region": "MG"
-  },
-  {
-    "ip_address": "104.28.44.122/32",
-    "ip_type": "IPv4",
-    "region": "MG"
-  },
-  {
-    "ip_address": "104.28.46.47/32",
-    "ip_type": "IPv4",
-    "region": "MG"
-  },
-  {
-    "ip_address": "104.28.46.48/32",
-    "ip_type": "IPv4",
-    "region": "MG"
-  },
-  {
-    "ip_address": "104.28.46.49/32",
-    "ip_type": "IPv4",
-    "region": "MG"
-  },
-  {
-    "ip_address": "104.28.82.55/32",
-    "ip_type": "IPv4",
-    "region": "MG"
-  },
-  {
-    "ip_address": "104.28.82.56/32",
-    "ip_type": "IPv4",
-    "region": "MG"
-  },
-  {
-    "ip_address": "104.28.82.57/32",
-    "ip_type": "IPv4",
-    "region": "MG"
-  },
-  {
-    "ip_address": "104.28.146.146/32",
-    "ip_type": "IPv4",
-    "region": "MG"
-  },
-  {
-    "ip_address": "2606:54c0:4858::/45",
-    "ip_type": "IPv6",
-    "region": "MG"
-  },
-  {
-    "ip_address": "2606:54c3:0:5cd::/64",
-    "ip_type": "IPv6",
-    "region": "MG"
-  },
-  {
-    "ip_address": "2a09:bac2:4858::/45",
-    "ip_type": "IPv6",
-    "region": "MG"
-  },
-  {
-    "ip_address": "2a09:bac3:4858::/45",
-    "ip_type": "IPv6",
-    "region": "MG"
-  },
-  {
     "ip_address": "2a04:4e41:12c7::/48",
     "ip_type": "IPv6",
     "region": "MG"
@@ -230,23 +240,13 @@
     "region": "MG"
   },
   {
-    "ip_address": "140.248.40.152/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:4858::/45",
+    "ip_type": "IPv6",
     "region": "MG"
   },
   {
-    "ip_address": "146.75.168.140/31",
-    "ip_type": "IPv4",
-    "region": "MG"
-  },
-  {
-    "ip_address": "146.75.185.140/31",
-    "ip_type": "IPv4",
-    "region": "MG"
-  },
-  {
-    "ip_address": "146.75.198.12/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:4858::/45",
+    "ip_type": "IPv6",
     "region": "MG"
   }
 ]

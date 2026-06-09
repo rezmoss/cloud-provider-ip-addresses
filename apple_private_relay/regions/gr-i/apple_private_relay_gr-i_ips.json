@@ -140,6 +140,31 @@
     "region": "GR-I"
   },
   {
+    "ip_address": "140.248.18.20/31",
+    "ip_type": "IPv4",
+    "region": "GR-I"
+  },
+  {
+    "ip_address": "140.248.34.110/31",
+    "ip_type": "IPv4",
+    "region": "GR-I"
+  },
+  {
+    "ip_address": "140.248.36.128/31",
+    "ip_type": "IPv4",
+    "region": "GR-I"
+  },
+  {
+    "ip_address": "140.248.40.126/31",
+    "ip_type": "IPv4",
+    "region": "GR-I"
+  },
+  {
+    "ip_address": "146.75.169.110/31",
+    "ip_type": "IPv4",
+    "region": "GR-I"
+  },
+  {
     "ip_address": "2606:54c0:38c0::/45",
     "ip_type": "IPv6",
     "region": "GR-I"
@@ -166,6 +191,31 @@
   },
   {
     "ip_address": "2606:54c3:0:12c2::/64",
+    "ip_type": "IPv6",
+    "region": "GR-I"
+  },
+  {
+    "ip_address": "2a04:4e41:1302:f000::/52",
+    "ip_type": "IPv6",
+    "region": "GR-I"
+  },
+  {
+    "ip_address": "2a04:4e41:1402:6000::/52",
+    "ip_type": "IPv6",
+    "region": "GR-I"
+  },
+  {
+    "ip_address": "2a04:4e41:1802:7000::/52",
+    "ip_type": "IPv6",
+    "region": "GR-I"
+  },
+  {
+    "ip_address": "2a04:4e41:4c80:7000::/52",
+    "ip_type": "IPv6",
+    "region": "GR-I"
+  },
+  {
+    "ip_address": "2a04:4e41:5602:6000::/52",
     "ip_type": "IPv6",
     "region": "GR-I"
   },
@@ -197,56 +247,6 @@
   {
     "ip_address": "2a09:bac3:38d0::/45",
     "ip_type": "IPv6",
-    "region": "GR-I"
-  },
-  {
-    "ip_address": "2a04:4e41:1302:f000::/52",
-    "ip_type": "IPv6",
-    "region": "GR-I"
-  },
-  {
-    "ip_address": "2a04:4e41:1402:6000::/52",
-    "ip_type": "IPv6",
-    "region": "GR-I"
-  },
-  {
-    "ip_address": "2a04:4e41:1802:7000::/52",
-    "ip_type": "IPv6",
-    "region": "GR-I"
-  },
-  {
-    "ip_address": "2a04:4e41:4c80:7000::/52",
-    "ip_type": "IPv6",
-    "region": "GR-I"
-  },
-  {
-    "ip_address": "2a04:4e41:5602:6000::/52",
-    "ip_type": "IPv6",
-    "region": "GR-I"
-  },
-  {
-    "ip_address": "140.248.18.20/31",
-    "ip_type": "IPv4",
-    "region": "GR-I"
-  },
-  {
-    "ip_address": "140.248.34.110/31",
-    "ip_type": "IPv4",
-    "region": "GR-I"
-  },
-  {
-    "ip_address": "140.248.36.128/31",
-    "ip_type": "IPv4",
-    "region": "GR-I"
-  },
-  {
-    "ip_address": "140.248.40.126/31",
-    "ip_type": "IPv4",
-    "region": "GR-I"
-  },
-  {
-    "ip_address": "146.75.169.110/31",
-    "ip_type": "IPv4",
     "region": "GR-I"
   }
 ]

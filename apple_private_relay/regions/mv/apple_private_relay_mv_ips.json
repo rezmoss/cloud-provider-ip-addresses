@@ -1,5 +1,30 @@
 [
   {
+    "ip_address": "140.248.43.14/31",
+    "ip_type": "IPv4",
+    "region": "MV"
+  },
+  {
+    "ip_address": "140.248.48.28/31",
+    "ip_type": "IPv4",
+    "region": "MV"
+  },
+  {
+    "ip_address": "146.75.132.86/31",
+    "ip_type": "IPv4",
+    "region": "MV"
+  },
+  {
+    "ip_address": "146.75.146.14/31",
+    "ip_type": "IPv4",
+    "region": "MV"
+  },
+  {
+    "ip_address": "146.75.160.86/31",
+    "ip_type": "IPv4",
+    "region": "MV"
+  },
+  {
     "ip_address": "172.225.55.128/27",
     "ip_type": "IPv4",
     "region": "MV"
@@ -102,31 +127,6 @@
   {
     "ip_address": "2a04:4e41:7614::/48",
     "ip_type": "IPv6",
-    "region": "MV"
-  },
-  {
-    "ip_address": "140.248.43.14/31",
-    "ip_type": "IPv4",
-    "region": "MV"
-  },
-  {
-    "ip_address": "140.248.48.28/31",
-    "ip_type": "IPv4",
-    "region": "MV"
-  },
-  {
-    "ip_address": "146.75.132.86/31",
-    "ip_type": "IPv4",
-    "region": "MV"
-  },
-  {
-    "ip_address": "146.75.146.14/31",
-    "ip_type": "IPv4",
-    "region": "MV"
-  },
-  {
-    "ip_address": "146.75.160.86/31",
-    "ip_type": "IPv4",
     "region": "MV"
   }
 ]

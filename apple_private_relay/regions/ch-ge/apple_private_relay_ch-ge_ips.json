@@ -1,80 +1,5 @@
 [
   {
-    "ip_address": "172.225.27.76/30",
-    "ip_type": "IPv4",
-    "region": "CH-GE"
-  },
-  {
-    "ip_address": "172.225.189.128/30",
-    "ip_type": "IPv4",
-    "region": "CH-GE"
-  },
-  {
-    "ip_address": "172.225.229.48/30",
-    "ip_type": "IPv4",
-    "region": "CH-GE"
-  },
-  {
-    "ip_address": "172.225.233.40/30",
-    "ip_type": "IPv4",
-    "region": "CH-GE"
-  },
-  {
-    "ip_address": "172.226.132.36/30",
-    "ip_type": "IPv4",
-    "region": "CH-GE"
-  },
-  {
-    "ip_address": "2a02:26f7:e340:590::/60",
-    "ip_type": "IPv6",
-    "region": "CH-GE"
-  },
-  {
-    "ip_address": "2a02:26f7:e340:5402::/64",
-    "ip_type": "IPv6",
-    "region": "CH-GE"
-  },
-  {
-    "ip_address": "2a02:26f7:e342:590::/60",
-    "ip_type": "IPv6",
-    "region": "CH-GE"
-  },
-  {
-    "ip_address": "2a02:26f7:e342:5402::/64",
-    "ip_type": "IPv6",
-    "region": "CH-GE"
-  },
-  {
-    "ip_address": "2a02:26f7:e344:590::/60",
-    "ip_type": "IPv6",
-    "region": "CH-GE"
-  },
-  {
-    "ip_address": "2a02:26f7:e344:5402::/64",
-    "ip_type": "IPv6",
-    "region": "CH-GE"
-  },
-  {
-    "ip_address": "2a02:26f7:e348:590::/60",
-    "ip_type": "IPv6",
-    "region": "CH-GE"
-  },
-  {
-    "ip_address": "2a02:26f7:e348:5402::/64",
-    "ip_type": "IPv6",
-    "region": "CH-GE"
-  },
-  {
-    "ip_address": "2a02:26f7:e34c:590::/60",
-    "ip_type": "IPv6",
-    "region": "CH-GE"
-  },
-  {
-    "ip_address": "2a02:26f7:e34c:5402::/64",
-    "ip_type": "IPv6",
-    "region": "CH-GE"
-  },
-  {
     "ip_address": "104.28.42.104/32",
     "ip_type": "IPv4",
     "region": "CH-GE"
@@ -130,6 +55,51 @@
     "region": "CH-GE"
   },
   {
+    "ip_address": "140.248.34.26/31",
+    "ip_type": "IPv4",
+    "region": "CH-GE"
+  },
+  {
+    "ip_address": "140.248.36.34/31",
+    "ip_type": "IPv4",
+    "region": "CH-GE"
+  },
+  {
+    "ip_address": "146.75.169.26/31",
+    "ip_type": "IPv4",
+    "region": "CH-GE"
+  },
+  {
+    "ip_address": "146.75.186.6/31",
+    "ip_type": "IPv4",
+    "region": "CH-GE"
+  },
+  {
+    "ip_address": "172.225.27.76/30",
+    "ip_type": "IPv4",
+    "region": "CH-GE"
+  },
+  {
+    "ip_address": "172.225.189.128/30",
+    "ip_type": "IPv4",
+    "region": "CH-GE"
+  },
+  {
+    "ip_address": "172.225.229.48/30",
+    "ip_type": "IPv4",
+    "region": "CH-GE"
+  },
+  {
+    "ip_address": "172.225.233.40/30",
+    "ip_type": "IPv4",
+    "region": "CH-GE"
+  },
+  {
+    "ip_address": "172.226.132.36/30",
+    "ip_type": "IPv4",
+    "region": "CH-GE"
+  },
+  {
     "ip_address": "2606:54c0:1dc8::/45",
     "ip_type": "IPv6",
     "region": "CH-GE"
@@ -150,22 +120,52 @@
     "region": "CH-GE"
   },
   {
-    "ip_address": "2a09:bac2:1dc8::/45",
+    "ip_address": "2a02:26f7:e340:590::/60",
     "ip_type": "IPv6",
     "region": "CH-GE"
   },
   {
-    "ip_address": "2a09:bac2:1dd0::/45",
+    "ip_address": "2a02:26f7:e340:5402::/64",
     "ip_type": "IPv6",
     "region": "CH-GE"
   },
   {
-    "ip_address": "2a09:bac3:1dc8::/45",
+    "ip_address": "2a02:26f7:e342:590::/60",
     "ip_type": "IPv6",
     "region": "CH-GE"
   },
   {
-    "ip_address": "2a09:bac3:1dd0::/45",
+    "ip_address": "2a02:26f7:e342:5402::/64",
+    "ip_type": "IPv6",
+    "region": "CH-GE"
+  },
+  {
+    "ip_address": "2a02:26f7:e344:590::/60",
+    "ip_type": "IPv6",
+    "region": "CH-GE"
+  },
+  {
+    "ip_address": "2a02:26f7:e344:5402::/64",
+    "ip_type": "IPv6",
+    "region": "CH-GE"
+  },
+  {
+    "ip_address": "2a02:26f7:e348:590::/60",
+    "ip_type": "IPv6",
+    "region": "CH-GE"
+  },
+  {
+    "ip_address": "2a02:26f7:e348:5402::/64",
+    "ip_type": "IPv6",
+    "region": "CH-GE"
+  },
+  {
+    "ip_address": "2a02:26f7:e34c:590::/60",
+    "ip_type": "IPv6",
+    "region": "CH-GE"
+  },
+  {
+    "ip_address": "2a02:26f7:e34c:5402::/64",
     "ip_type": "IPv6",
     "region": "CH-GE"
   },
@@ -190,23 +190,23 @@
     "region": "CH-GE"
   },
   {
-    "ip_address": "140.248.34.26/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:1dc8::/45",
+    "ip_type": "IPv6",
     "region": "CH-GE"
   },
   {
-    "ip_address": "140.248.36.34/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:1dd0::/45",
+    "ip_type": "IPv6",
     "region": "CH-GE"
   },
   {
-    "ip_address": "146.75.169.26/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:1dc8::/45",
+    "ip_type": "IPv6",
     "region": "CH-GE"
   },
   {
-    "ip_address": "146.75.186.6/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:1dd0::/45",
+    "ip_type": "IPv6",
     "region": "CH-GE"
   }
 ]

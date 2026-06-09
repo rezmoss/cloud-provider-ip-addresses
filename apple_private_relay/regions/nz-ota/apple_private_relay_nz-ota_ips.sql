@@ -6,6 +6,10 @@ CREATE TABLE IF NOT EXISTS `apple_private_relay_nz-ota_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `apple_private_relay_nz-ota_ips` (`ip_address`, `ip_type`) VALUES ('140.248.11.6/31', 'IPv4');
+INSERT INTO `apple_private_relay_nz-ota_ips` (`ip_address`, `ip_type`) VALUES ('146.75.190.16/31', 'IPv4');
+INSERT INTO `apple_private_relay_nz-ota_ips` (`ip_address`, `ip_type`) VALUES ('146.75.216.6/31', 'IPv4');
+INSERT INTO `apple_private_relay_nz-ota_ips` (`ip_address`, `ip_type`) VALUES ('146.75.219.6/31', 'IPv4');
 INSERT INTO `apple_private_relay_nz-ota_ips` (`ip_address`, `ip_type`) VALUES ('172.225.60.206/31', 'IPv4');
 INSERT INTO `apple_private_relay_nz-ota_ips` (`ip_address`, `ip_type`) VALUES ('172.225.63.92/31', 'IPv4');
 INSERT INTO `apple_private_relay_nz-ota_ips` (`ip_address`, `ip_type`) VALUES ('172.225.156.178/31', 'IPv4');
@@ -22,7 +26,3 @@ INSERT INTO `apple_private_relay_nz-ota_ips` (`ip_address`, `ip_type`) VALUES ('
 INSERT INTO `apple_private_relay_nz-ota_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:1a0:2000::/52', 'IPv6');
 INSERT INTO `apple_private_relay_nz-ota_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:4cc0:2000::/52', 'IPv6');
 INSERT INTO `apple_private_relay_nz-ota_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:6800:2000::/52', 'IPv6');
-INSERT INTO `apple_private_relay_nz-ota_ips` (`ip_address`, `ip_type`) VALUES ('140.248.11.6/31', 'IPv4');
-INSERT INTO `apple_private_relay_nz-ota_ips` (`ip_address`, `ip_type`) VALUES ('146.75.190.16/31', 'IPv4');
-INSERT INTO `apple_private_relay_nz-ota_ips` (`ip_address`, `ip_type`) VALUES ('146.75.216.6/31', 'IPv4');
-INSERT INTO `apple_private_relay_nz-ota_ips` (`ip_address`, `ip_type`) VALUES ('146.75.219.6/31', 'IPv4');

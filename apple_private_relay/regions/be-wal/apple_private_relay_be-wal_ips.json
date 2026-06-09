@@ -1,5 +1,125 @@
 [
   {
+    "ip_address": "104.28.30.4/32",
+    "ip_type": "IPv4",
+    "region": "BE-WAL"
+  },
+  {
+    "ip_address": "104.28.30.5/32",
+    "ip_type": "IPv4",
+    "region": "BE-WAL"
+  },
+  {
+    "ip_address": "104.28.30.8/32",
+    "ip_type": "IPv4",
+    "region": "BE-WAL"
+  },
+  {
+    "ip_address": "104.28.30.9/32",
+    "ip_type": "IPv4",
+    "region": "BE-WAL"
+  },
+  {
+    "ip_address": "104.28.40.4/32",
+    "ip_type": "IPv4",
+    "region": "BE-WAL"
+  },
+  {
+    "ip_address": "104.28.40.5/32",
+    "ip_type": "IPv4",
+    "region": "BE-WAL"
+  },
+  {
+    "ip_address": "104.28.40.8/32",
+    "ip_type": "IPv4",
+    "region": "BE-WAL"
+  },
+  {
+    "ip_address": "104.28.40.9/32",
+    "ip_type": "IPv4",
+    "region": "BE-WAL"
+  },
+  {
+    "ip_address": "104.28.42.6/32",
+    "ip_type": "IPv4",
+    "region": "BE-WAL"
+  },
+  {
+    "ip_address": "104.28.42.7/32",
+    "ip_type": "IPv4",
+    "region": "BE-WAL"
+  },
+  {
+    "ip_address": "104.28.42.10/32",
+    "ip_type": "IPv4",
+    "region": "BE-WAL"
+  },
+  {
+    "ip_address": "104.28.42.11/32",
+    "ip_type": "IPv4",
+    "region": "BE-WAL"
+  },
+  {
+    "ip_address": "104.28.54.4/32",
+    "ip_type": "IPv4",
+    "region": "BE-WAL"
+  },
+  {
+    "ip_address": "104.28.54.5/32",
+    "ip_type": "IPv4",
+    "region": "BE-WAL"
+  },
+  {
+    "ip_address": "104.28.54.8/32",
+    "ip_type": "IPv4",
+    "region": "BE-WAL"
+  },
+  {
+    "ip_address": "104.28.54.9/32",
+    "ip_type": "IPv4",
+    "region": "BE-WAL"
+  },
+  {
+    "ip_address": "104.28.62.2/32",
+    "ip_type": "IPv4",
+    "region": "BE-WAL"
+  },
+  {
+    "ip_address": "104.28.62.3/32",
+    "ip_type": "IPv4",
+    "region": "BE-WAL"
+  },
+  {
+    "ip_address": "104.28.62.6/32",
+    "ip_type": "IPv4",
+    "region": "BE-WAL"
+  },
+  {
+    "ip_address": "104.28.62.7/32",
+    "ip_type": "IPv4",
+    "region": "BE-WAL"
+  },
+  {
+    "ip_address": "2606:54c0:4c0::/45",
+    "ip_type": "IPv6",
+    "region": "BE-WAL"
+  },
+  {
+    "ip_address": "2606:54c0:4c8::/45",
+    "ip_type": "IPv6",
+    "region": "BE-WAL"
+  },
+  {
+    "ip_address": "2606:54c3:0:2d9::/64",
+    "ip_type": "IPv6",
+    "region": "BE-WAL"
+  },
+  {
+    "ip_address": "2606:54c3:0:14c9::/64",
+    "ip_type": "IPv6",
+    "region": "BE-WAL"
+  },
+  {
     "ip_address": "2a02:26f7:fb00:4142::/64",
     "ip_type": "IPv6",
     "region": "BE-WAL"
@@ -196,126 +316,6 @@
   },
   {
     "ip_address": "2a02:26f7:fb08:4166::/64",
-    "ip_type": "IPv6",
-    "region": "BE-WAL"
-  },
-  {
-    "ip_address": "104.28.30.4/32",
-    "ip_type": "IPv4",
-    "region": "BE-WAL"
-  },
-  {
-    "ip_address": "104.28.30.5/32",
-    "ip_type": "IPv4",
-    "region": "BE-WAL"
-  },
-  {
-    "ip_address": "104.28.30.8/32",
-    "ip_type": "IPv4",
-    "region": "BE-WAL"
-  },
-  {
-    "ip_address": "104.28.30.9/32",
-    "ip_type": "IPv4",
-    "region": "BE-WAL"
-  },
-  {
-    "ip_address": "104.28.40.4/32",
-    "ip_type": "IPv4",
-    "region": "BE-WAL"
-  },
-  {
-    "ip_address": "104.28.40.5/32",
-    "ip_type": "IPv4",
-    "region": "BE-WAL"
-  },
-  {
-    "ip_address": "104.28.40.8/32",
-    "ip_type": "IPv4",
-    "region": "BE-WAL"
-  },
-  {
-    "ip_address": "104.28.40.9/32",
-    "ip_type": "IPv4",
-    "region": "BE-WAL"
-  },
-  {
-    "ip_address": "104.28.42.6/32",
-    "ip_type": "IPv4",
-    "region": "BE-WAL"
-  },
-  {
-    "ip_address": "104.28.42.7/32",
-    "ip_type": "IPv4",
-    "region": "BE-WAL"
-  },
-  {
-    "ip_address": "104.28.42.10/32",
-    "ip_type": "IPv4",
-    "region": "BE-WAL"
-  },
-  {
-    "ip_address": "104.28.42.11/32",
-    "ip_type": "IPv4",
-    "region": "BE-WAL"
-  },
-  {
-    "ip_address": "104.28.54.4/32",
-    "ip_type": "IPv4",
-    "region": "BE-WAL"
-  },
-  {
-    "ip_address": "104.28.54.5/32",
-    "ip_type": "IPv4",
-    "region": "BE-WAL"
-  },
-  {
-    "ip_address": "104.28.54.8/32",
-    "ip_type": "IPv4",
-    "region": "BE-WAL"
-  },
-  {
-    "ip_address": "104.28.54.9/32",
-    "ip_type": "IPv4",
-    "region": "BE-WAL"
-  },
-  {
-    "ip_address": "104.28.62.2/32",
-    "ip_type": "IPv4",
-    "region": "BE-WAL"
-  },
-  {
-    "ip_address": "104.28.62.3/32",
-    "ip_type": "IPv4",
-    "region": "BE-WAL"
-  },
-  {
-    "ip_address": "104.28.62.6/32",
-    "ip_type": "IPv4",
-    "region": "BE-WAL"
-  },
-  {
-    "ip_address": "104.28.62.7/32",
-    "ip_type": "IPv4",
-    "region": "BE-WAL"
-  },
-  {
-    "ip_address": "2606:54c0:4c0::/45",
-    "ip_type": "IPv6",
-    "region": "BE-WAL"
-  },
-  {
-    "ip_address": "2606:54c0:4c8::/45",
-    "ip_type": "IPv6",
-    "region": "BE-WAL"
-  },
-  {
-    "ip_address": "2606:54c3:0:2d9::/64",
-    "ip_type": "IPv6",
-    "region": "BE-WAL"
-  },
-  {
-    "ip_address": "2606:54c3:0:14c9::/64",
     "ip_type": "IPv6",
     "region": "BE-WAL"
   },

@@ -90,22 +90,37 @@
     "region": "GT-GU"
   },
   {
+    "ip_address": "140.248.4.36/31",
+    "ip_type": "IPv4",
+    "region": "GT-GU"
+  },
+  {
+    "ip_address": "140.248.12.18/31",
+    "ip_type": "IPv4",
+    "region": "GT-GU"
+  },
+  {
+    "ip_address": "140.248.44.54/31",
+    "ip_type": "IPv4",
+    "region": "GT-GU"
+  },
+  {
+    "ip_address": "146.75.232.18/31",
+    "ip_type": "IPv4",
+    "region": "GT-GU"
+  },
+  {
+    "ip_address": "146.75.248.18/31",
+    "ip_type": "IPv4",
+    "region": "GT-GU"
+  },
+  {
     "ip_address": "2606:54c0:38e8::/45",
     "ip_type": "IPv6",
     "region": "GT-GU"
   },
   {
     "ip_address": "2606:54c3:0:d16::/64",
-    "ip_type": "IPv6",
-    "region": "GT-GU"
-  },
-  {
-    "ip_address": "2a09:bac2:38e8::/45",
-    "ip_type": "IPv6",
-    "region": "GT-GU"
-  },
-  {
-    "ip_address": "2a09:bac3:38e8::/45",
     "ip_type": "IPv6",
     "region": "GT-GU"
   },
@@ -135,28 +150,13 @@
     "region": "GT-GU"
   },
   {
-    "ip_address": "140.248.4.36/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:38e8::/45",
+    "ip_type": "IPv6",
     "region": "GT-GU"
   },
   {
-    "ip_address": "140.248.12.18/31",
-    "ip_type": "IPv4",
-    "region": "GT-GU"
-  },
-  {
-    "ip_address": "140.248.44.54/31",
-    "ip_type": "IPv4",
-    "region": "GT-GU"
-  },
-  {
-    "ip_address": "146.75.232.18/31",
-    "ip_type": "IPv4",
-    "region": "GT-GU"
-  },
-  {
-    "ip_address": "146.75.248.18/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:38e8::/45",
+    "ip_type": "IPv6",
     "region": "GT-GU"
   }
 ]

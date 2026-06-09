@@ -1,4 +1,6 @@
 ip_address,ip_type,region
+2606:54c0:1e10::/45,IPv6,CH-TI
+2606:54c3:0:f2e::/64,IPv6,CH-TI
 2a02:26f7:e340:543c::/64,IPv6,CH-TI
 2a02:26f7:e340:543d::/64,IPv6,CH-TI
 2a02:26f7:e340:543e::/64,IPv6,CH-TI
@@ -29,7 +31,5 @@ ip_address,ip_type,region
 2a02:26f7:e34c:543f::/64,IPv6,CH-TI
 2a02:26f7:e34c:5440::/64,IPv6,CH-TI
 2a02:26f7:e34c:5441::/64,IPv6,CH-TI
-2606:54c0:1e10::/45,IPv6,CH-TI
-2606:54c3:0:f2e::/64,IPv6,CH-TI
 2a09:bac2:1e10::/45,IPv6,CH-TI
 2a09:bac3:1e10::/45,IPv6,CH-TI

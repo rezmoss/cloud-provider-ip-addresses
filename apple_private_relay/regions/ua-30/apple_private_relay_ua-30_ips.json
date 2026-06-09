@@ -75,22 +75,27 @@
     "region": "UA-30"
   },
   {
+    "ip_address": "140.248.37.68/31",
+    "ip_type": "IPv4",
+    "region": "UA-30"
+  },
+  {
+    "ip_address": "146.75.180.68/31",
+    "ip_type": "IPv4",
+    "region": "UA-30"
+  },
+  {
+    "ip_address": "146.75.186.40/31",
+    "ip_type": "IPv4",
+    "region": "UA-30"
+  },
+  {
     "ip_address": "2606:54c0:5860::/45",
     "ip_type": "IPv6",
     "region": "UA-30"
   },
   {
     "ip_address": "2606:54c3:0:1a77::/64",
-    "ip_type": "IPv6",
-    "region": "UA-30"
-  },
-  {
-    "ip_address": "2a09:bac2:5860::/45",
-    "ip_type": "IPv6",
-    "region": "UA-30"
-  },
-  {
-    "ip_address": "2a09:bac3:5860::/45",
     "ip_type": "IPv6",
     "region": "UA-30"
   },
@@ -110,18 +115,13 @@
     "region": "UA-30"
   },
   {
-    "ip_address": "140.248.37.68/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:5860::/45",
+    "ip_type": "IPv6",
     "region": "UA-30"
   },
   {
-    "ip_address": "146.75.180.68/31",
-    "ip_type": "IPv4",
-    "region": "UA-30"
-  },
-  {
-    "ip_address": "146.75.186.40/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:5860::/45",
+    "ip_type": "IPv6",
     "region": "UA-30"
   }
 ]

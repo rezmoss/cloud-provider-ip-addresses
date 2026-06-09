@@ -1,5 +1,30 @@
 [
   {
+    "ip_address": "140.248.18.26/31",
+    "ip_type": "IPv4",
+    "region": "ME"
+  },
+  {
+    "ip_address": "140.248.34.152/31",
+    "ip_type": "IPv4",
+    "region": "ME"
+  },
+  {
+    "ip_address": "140.248.36.192/31",
+    "ip_type": "IPv4",
+    "region": "ME"
+  },
+  {
+    "ip_address": "146.75.169.152/31",
+    "ip_type": "IPv4",
+    "region": "ME"
+  },
+  {
+    "ip_address": "146.75.180.46/31",
+    "ip_type": "IPv4",
+    "region": "ME"
+  },
+  {
     "ip_address": "172.225.41.32/27",
     "ip_type": "IPv4",
     "region": "ME"
@@ -142,31 +167,6 @@
   {
     "ip_address": "2a04:4e41:561e::/48",
     "ip_type": "IPv6",
-    "region": "ME"
-  },
-  {
-    "ip_address": "140.248.18.26/31",
-    "ip_type": "IPv4",
-    "region": "ME"
-  },
-  {
-    "ip_address": "140.248.34.152/31",
-    "ip_type": "IPv4",
-    "region": "ME"
-  },
-  {
-    "ip_address": "140.248.36.192/31",
-    "ip_type": "IPv4",
-    "region": "ME"
-  },
-  {
-    "ip_address": "146.75.169.152/31",
-    "ip_type": "IPv4",
-    "region": "ME"
-  },
-  {
-    "ip_address": "146.75.180.46/31",
-    "ip_type": "IPv4",
     "region": "ME"
   }
 ]

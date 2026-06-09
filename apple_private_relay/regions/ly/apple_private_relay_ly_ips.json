@@ -1,5 +1,25 @@
 [
   {
+    "ip_address": "140.248.34.146/31",
+    "ip_type": "IPv4",
+    "region": "LY"
+  },
+  {
+    "ip_address": "140.248.36.186/31",
+    "ip_type": "IPv4",
+    "region": "LY"
+  },
+  {
+    "ip_address": "146.75.169.146/31",
+    "ip_type": "IPv4",
+    "region": "LY"
+  },
+  {
+    "ip_address": "146.75.186.24/31",
+    "ip_type": "IPv4",
+    "region": "LY"
+  },
+  {
     "ip_address": "172.225.99.128/27",
     "ip_type": "IPv4",
     "region": "LY"
@@ -182,26 +202,6 @@
   {
     "ip_address": "2a04:4e41:5805::/48",
     "ip_type": "IPv6",
-    "region": "LY"
-  },
-  {
-    "ip_address": "140.248.34.146/31",
-    "ip_type": "IPv4",
-    "region": "LY"
-  },
-  {
-    "ip_address": "140.248.36.186/31",
-    "ip_type": "IPv4",
-    "region": "LY"
-  },
-  {
-    "ip_address": "146.75.169.146/31",
-    "ip_type": "IPv4",
-    "region": "LY"
-  },
-  {
-    "ip_address": "146.75.186.24/31",
-    "ip_type": "IPv4",
     "region": "LY"
   }
 ]

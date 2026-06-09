@@ -1,5 +1,100 @@
 [
   {
+    "ip_address": "104.28.44.87/32",
+    "ip_type": "IPv4",
+    "region": "JP-28"
+  },
+  {
+    "ip_address": "104.28.44.88/32",
+    "ip_type": "IPv4",
+    "region": "JP-28"
+  },
+  {
+    "ip_address": "104.28.67.220/32",
+    "ip_type": "IPv4",
+    "region": "JP-28"
+  },
+  {
+    "ip_address": "104.28.67.221/32",
+    "ip_type": "IPv4",
+    "region": "JP-28"
+  },
+  {
+    "ip_address": "104.28.70.220/32",
+    "ip_type": "IPv4",
+    "region": "JP-28"
+  },
+  {
+    "ip_address": "104.28.70.221/32",
+    "ip_type": "IPv4",
+    "region": "JP-28"
+  },
+  {
+    "ip_address": "104.28.83.245/32",
+    "ip_type": "IPv4",
+    "region": "JP-28"
+  },
+  {
+    "ip_address": "104.28.83.246/32",
+    "ip_type": "IPv4",
+    "region": "JP-28"
+  },
+  {
+    "ip_address": "104.28.99.241/32",
+    "ip_type": "IPv4",
+    "region": "JP-28"
+  },
+  {
+    "ip_address": "104.28.99.242/32",
+    "ip_type": "IPv4",
+    "region": "JP-28"
+  },
+  {
+    "ip_address": "104.28.101.241/32",
+    "ip_type": "IPv4",
+    "region": "JP-28"
+  },
+  {
+    "ip_address": "104.28.101.242/32",
+    "ip_type": "IPv4",
+    "region": "JP-28"
+  },
+  {
+    "ip_address": "104.28.118.214/32",
+    "ip_type": "IPv4",
+    "region": "JP-28"
+  },
+  {
+    "ip_address": "104.28.118.215/32",
+    "ip_type": "IPv4",
+    "region": "JP-28"
+  },
+  {
+    "ip_address": "104.28.121.214/32",
+    "ip_type": "IPv4",
+    "region": "JP-28"
+  },
+  {
+    "ip_address": "104.28.121.215/32",
+    "ip_type": "IPv4",
+    "region": "JP-28"
+  },
+  {
+    "ip_address": "140.248.33.32/31",
+    "ip_type": "IPv4",
+    "region": "JP-28"
+  },
+  {
+    "ip_address": "146.75.189.32/31",
+    "ip_type": "IPv4",
+    "region": "JP-28"
+  },
+  {
+    "ip_address": "146.75.201.22/31",
+    "ip_type": "IPv4",
+    "region": "JP-28"
+  },
+  {
     "ip_address": "172.225.46.196/31",
     "ip_type": "IPv4",
     "region": "JP-28"
@@ -67,6 +162,36 @@
   {
     "ip_address": "172.226.218.44/31",
     "ip_type": "IPv4",
+    "region": "JP-28"
+  },
+  {
+    "ip_address": "2606:54c0:44c0::/45",
+    "ip_type": "IPv6",
+    "region": "JP-28"
+  },
+  {
+    "ip_address": "2606:54c0:44c8::/45",
+    "ip_type": "IPv6",
+    "region": "JP-28"
+  },
+  {
+    "ip_address": "2606:54c0:44d0::/45",
+    "ip_type": "IPv6",
+    "region": "JP-28"
+  },
+  {
+    "ip_address": "2606:54c3:0:55c::/64",
+    "ip_type": "IPv6",
+    "region": "JP-28"
+  },
+  {
+    "ip_address": "2606:54c3:0:cdf::/64",
+    "ip_type": "IPv6",
+    "region": "JP-28"
+  },
+  {
+    "ip_address": "2606:54c3:0:eae::/64",
+    "ip_type": "IPv6",
     "region": "JP-28"
   },
   {
@@ -770,112 +895,17 @@
     "region": "JP-28"
   },
   {
-    "ip_address": "104.28.44.87/32",
-    "ip_type": "IPv4",
-    "region": "JP-28"
-  },
-  {
-    "ip_address": "104.28.44.88/32",
-    "ip_type": "IPv4",
-    "region": "JP-28"
-  },
-  {
-    "ip_address": "104.28.67.220/32",
-    "ip_type": "IPv4",
-    "region": "JP-28"
-  },
-  {
-    "ip_address": "104.28.67.221/32",
-    "ip_type": "IPv4",
-    "region": "JP-28"
-  },
-  {
-    "ip_address": "104.28.70.220/32",
-    "ip_type": "IPv4",
-    "region": "JP-28"
-  },
-  {
-    "ip_address": "104.28.70.221/32",
-    "ip_type": "IPv4",
-    "region": "JP-28"
-  },
-  {
-    "ip_address": "104.28.83.245/32",
-    "ip_type": "IPv4",
-    "region": "JP-28"
-  },
-  {
-    "ip_address": "104.28.83.246/32",
-    "ip_type": "IPv4",
-    "region": "JP-28"
-  },
-  {
-    "ip_address": "104.28.99.241/32",
-    "ip_type": "IPv4",
-    "region": "JP-28"
-  },
-  {
-    "ip_address": "104.28.99.242/32",
-    "ip_type": "IPv4",
-    "region": "JP-28"
-  },
-  {
-    "ip_address": "104.28.101.241/32",
-    "ip_type": "IPv4",
-    "region": "JP-28"
-  },
-  {
-    "ip_address": "104.28.101.242/32",
-    "ip_type": "IPv4",
-    "region": "JP-28"
-  },
-  {
-    "ip_address": "104.28.118.214/32",
-    "ip_type": "IPv4",
-    "region": "JP-28"
-  },
-  {
-    "ip_address": "104.28.118.215/32",
-    "ip_type": "IPv4",
-    "region": "JP-28"
-  },
-  {
-    "ip_address": "104.28.121.214/32",
-    "ip_type": "IPv4",
-    "region": "JP-28"
-  },
-  {
-    "ip_address": "104.28.121.215/32",
-    "ip_type": "IPv4",
-    "region": "JP-28"
-  },
-  {
-    "ip_address": "2606:54c0:44c0::/45",
+    "ip_address": "2a04:4e41:2400:a000::/52",
     "ip_type": "IPv6",
     "region": "JP-28"
   },
   {
-    "ip_address": "2606:54c0:44c8::/45",
+    "ip_address": "2a04:4e41:6000:c000::/52",
     "ip_type": "IPv6",
     "region": "JP-28"
   },
   {
-    "ip_address": "2606:54c0:44d0::/45",
-    "ip_type": "IPv6",
-    "region": "JP-28"
-  },
-  {
-    "ip_address": "2606:54c3:0:55c::/64",
-    "ip_type": "IPv6",
-    "region": "JP-28"
-  },
-  {
-    "ip_address": "2606:54c3:0:cdf::/64",
-    "ip_type": "IPv6",
-    "region": "JP-28"
-  },
-  {
-    "ip_address": "2606:54c3:0:eae::/64",
+    "ip_address": "2a04:4e41:6a00:c000::/52",
     "ip_type": "IPv6",
     "region": "JP-28"
   },
@@ -907,36 +937,6 @@
   {
     "ip_address": "2a09:bac3:44d0::/45",
     "ip_type": "IPv6",
-    "region": "JP-28"
-  },
-  {
-    "ip_address": "2a04:4e41:2400:a000::/52",
-    "ip_type": "IPv6",
-    "region": "JP-28"
-  },
-  {
-    "ip_address": "2a04:4e41:6000:c000::/52",
-    "ip_type": "IPv6",
-    "region": "JP-28"
-  },
-  {
-    "ip_address": "2a04:4e41:6a00:c000::/52",
-    "ip_type": "IPv6",
-    "region": "JP-28"
-  },
-  {
-    "ip_address": "140.248.33.32/31",
-    "ip_type": "IPv4",
-    "region": "JP-28"
-  },
-  {
-    "ip_address": "146.75.189.32/31",
-    "ip_type": "IPv4",
-    "region": "JP-28"
-  },
-  {
-    "ip_address": "146.75.201.22/31",
-    "ip_type": "IPv4",
     "region": "JP-28"
   }
 ]

@@ -6,6 +6,10 @@ CREATE TABLE IF NOT EXISTS `apple_private_relay_jp-07_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `apple_private_relay_jp-07_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:4330::/45', 'IPv6');
+INSERT INTO `apple_private_relay_jp-07_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:4338::/45', 'IPv6');
+INSERT INTO `apple_private_relay_jp-07_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:9f3::/64', 'IPv6');
+INSERT INTO `apple_private_relay_jp-07_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:b0c::/64', 'IPv6');
 INSERT INTO `apple_private_relay_jp-07_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:b980:6054::/64', 'IPv6');
 INSERT INTO `apple_private_relay_jp-07_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:b980:6055::/64', 'IPv6');
 INSERT INTO `apple_private_relay_jp-07_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:b980:6056::/64', 'IPv6');
@@ -160,10 +164,6 @@ INSERT INTO `apple_private_relay_jp-07_ips` (`ip_address`, `ip_type`) VALUES ('2
 INSERT INTO `apple_private_relay_jp-07_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:b9b4:605c::/64', 'IPv6');
 INSERT INTO `apple_private_relay_jp-07_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:b9b4:605d::/64', 'IPv6');
 INSERT INTO `apple_private_relay_jp-07_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:b9b4:605e::/64', 'IPv6');
-INSERT INTO `apple_private_relay_jp-07_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:4330::/45', 'IPv6');
-INSERT INTO `apple_private_relay_jp-07_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:4338::/45', 'IPv6');
-INSERT INTO `apple_private_relay_jp-07_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:9f3::/64', 'IPv6');
-INSERT INTO `apple_private_relay_jp-07_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:b0c::/64', 'IPv6');
 INSERT INTO `apple_private_relay_jp-07_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:4330::/45', 'IPv6');
 INSERT INTO `apple_private_relay_jp-07_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:4338::/45', 'IPv6');
 INSERT INTO `apple_private_relay_jp-07_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:4330::/45', 'IPv6');

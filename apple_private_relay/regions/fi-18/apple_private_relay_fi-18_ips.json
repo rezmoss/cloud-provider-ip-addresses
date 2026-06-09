@@ -200,6 +200,36 @@
     "region": "FI-18"
   },
   {
+    "ip_address": "140.248.36.110/31",
+    "ip_type": "IPv4",
+    "region": "FI-18"
+  },
+  {
+    "ip_address": "140.248.36.112/31",
+    "ip_type": "IPv4",
+    "region": "FI-18"
+  },
+  {
+    "ip_address": "140.248.36.114/31",
+    "ip_type": "IPv4",
+    "region": "FI-18"
+  },
+  {
+    "ip_address": "146.75.202.2/31",
+    "ip_type": "IPv4",
+    "region": "FI-18"
+  },
+  {
+    "ip_address": "146.75.202.4/31",
+    "ip_type": "IPv4",
+    "region": "FI-18"
+  },
+  {
+    "ip_address": "146.75.202.6/31",
+    "ip_type": "IPv4",
+    "region": "FI-18"
+  },
+  {
     "ip_address": "2606:54c0:3168::/45",
     "ip_type": "IPv6",
     "region": "FI-18"
@@ -216,26 +246,6 @@
   },
   {
     "ip_address": "2606:54c3:0:16ba::/64",
-    "ip_type": "IPv6",
-    "region": "FI-18"
-  },
-  {
-    "ip_address": "2a09:bac2:3168::/45",
-    "ip_type": "IPv6",
-    "region": "FI-18"
-  },
-  {
-    "ip_address": "2a09:bac2:3170::/45",
-    "ip_type": "IPv6",
-    "region": "FI-18"
-  },
-  {
-    "ip_address": "2a09:bac3:3168::/45",
-    "ip_type": "IPv6",
-    "region": "FI-18"
-  },
-  {
-    "ip_address": "2a09:bac3:3170::/45",
     "ip_type": "IPv6",
     "region": "FI-18"
   },
@@ -270,33 +280,23 @@
     "region": "FI-18"
   },
   {
-    "ip_address": "140.248.36.110/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:3168::/45",
+    "ip_type": "IPv6",
     "region": "FI-18"
   },
   {
-    "ip_address": "140.248.36.112/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:3170::/45",
+    "ip_type": "IPv6",
     "region": "FI-18"
   },
   {
-    "ip_address": "140.248.36.114/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:3168::/45",
+    "ip_type": "IPv6",
     "region": "FI-18"
   },
   {
-    "ip_address": "146.75.202.2/31",
-    "ip_type": "IPv4",
-    "region": "FI-18"
-  },
-  {
-    "ip_address": "146.75.202.4/31",
-    "ip_type": "IPv4",
-    "region": "FI-18"
-  },
-  {
-    "ip_address": "146.75.202.6/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:3170::/45",
+    "ip_type": "IPv6",
     "region": "FI-18"
   }
 ]

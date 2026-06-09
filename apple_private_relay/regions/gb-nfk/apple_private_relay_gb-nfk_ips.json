@@ -50,22 +50,32 @@
     "region": "GB-NFK"
   },
   {
+    "ip_address": "140.248.40.82/31",
+    "ip_type": "IPv4",
+    "region": "GB-NFK"
+  },
+  {
+    "ip_address": "146.75.168.96/31",
+    "ip_type": "IPv4",
+    "region": "GB-NFK"
+  },
+  {
+    "ip_address": "146.75.174.70/31",
+    "ip_type": "IPv4",
+    "region": "GB-NFK"
+  },
+  {
+    "ip_address": "146.75.185.96/31",
+    "ip_type": "IPv4",
+    "region": "GB-NFK"
+  },
+  {
     "ip_address": "2606:54c0:37d8::/45",
     "ip_type": "IPv6",
     "region": "GB-NFK"
   },
   {
     "ip_address": "2606:54c3:0:f74::/64",
-    "ip_type": "IPv6",
-    "region": "GB-NFK"
-  },
-  {
-    "ip_address": "2a09:bac2:37d8::/45",
-    "ip_type": "IPv6",
-    "region": "GB-NFK"
-  },
-  {
-    "ip_address": "2a09:bac3:37d8::/45",
     "ip_type": "IPv6",
     "region": "GB-NFK"
   },
@@ -90,23 +100,13 @@
     "region": "GB-NFK"
   },
   {
-    "ip_address": "140.248.40.82/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:37d8::/45",
+    "ip_type": "IPv6",
     "region": "GB-NFK"
   },
   {
-    "ip_address": "146.75.168.96/31",
-    "ip_type": "IPv4",
-    "region": "GB-NFK"
-  },
-  {
-    "ip_address": "146.75.174.70/31",
-    "ip_type": "IPv4",
-    "region": "GB-NFK"
-  },
-  {
-    "ip_address": "146.75.185.96/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:37d8::/45",
+    "ip_type": "IPv6",
     "region": "GB-NFK"
   }
 ]

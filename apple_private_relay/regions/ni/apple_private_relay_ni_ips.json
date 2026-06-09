@@ -1,5 +1,25 @@
 [
   {
+    "ip_address": "140.248.32.8/31",
+    "ip_type": "IPv4",
+    "region": "NI"
+  },
+  {
+    "ip_address": "140.248.44.76/31",
+    "ip_type": "IPv4",
+    "region": "NI"
+  },
+  {
+    "ip_address": "146.75.132.98/31",
+    "ip_type": "IPv4",
+    "region": "NI"
+  },
+  {
+    "ip_address": "146.75.160.98/31",
+    "ip_type": "IPv4",
+    "region": "NI"
+  },
+  {
     "ip_address": "172.225.22.48/28",
     "ip_type": "IPv4",
     "region": "NI"
@@ -47,6 +67,16 @@
   {
     "ip_address": "172.226.11.48/28",
     "ip_type": "IPv4",
+    "region": "NI"
+  },
+  {
+    "ip_address": "2606:54c0:4d60::/45",
+    "ip_type": "IPv6",
+    "region": "NI"
+  },
+  {
+    "ip_address": "2606:54c3:0:94f::/64",
+    "ip_type": "IPv6",
     "region": "NI"
   },
   {
@@ -200,26 +230,6 @@
     "region": "NI"
   },
   {
-    "ip_address": "2606:54c0:4d60::/45",
-    "ip_type": "IPv6",
-    "region": "NI"
-  },
-  {
-    "ip_address": "2606:54c3:0:94f::/64",
-    "ip_type": "IPv6",
-    "region": "NI"
-  },
-  {
-    "ip_address": "2a09:bac2:4d60::/45",
-    "ip_type": "IPv6",
-    "region": "NI"
-  },
-  {
-    "ip_address": "2a09:bac3:4d60::/45",
-    "ip_type": "IPv6",
-    "region": "NI"
-  },
-  {
     "ip_address": "2a04:4e41:3a2c::/48",
     "ip_type": "IPv6",
     "region": "NI"
@@ -240,23 +250,13 @@
     "region": "NI"
   },
   {
-    "ip_address": "140.248.32.8/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:4d60::/45",
+    "ip_type": "IPv6",
     "region": "NI"
   },
   {
-    "ip_address": "140.248.44.76/31",
-    "ip_type": "IPv4",
-    "region": "NI"
-  },
-  {
-    "ip_address": "146.75.132.98/31",
-    "ip_type": "IPv4",
-    "region": "NI"
-  },
-  {
-    "ip_address": "146.75.160.98/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:4d60::/45",
+    "ip_type": "IPv6",
     "region": "NI"
   }
 ]

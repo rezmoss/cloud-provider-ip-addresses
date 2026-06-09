@@ -1,25 +1,5 @@
 [
   {
-    "ip_address": "2a02:26f7:bb40:564d::/64",
-    "ip_type": "IPv6",
-    "region": "CA-YT"
-  },
-  {
-    "ip_address": "2a02:26f7:bb42:564d::/64",
-    "ip_type": "IPv6",
-    "region": "CA-YT"
-  },
-  {
-    "ip_address": "2a02:26f7:bb44:564d::/64",
-    "ip_type": "IPv6",
-    "region": "CA-YT"
-  },
-  {
-    "ip_address": "2a02:26f7:bb48:564d::/64",
-    "ip_type": "IPv6",
-    "region": "CA-YT"
-  },
-  {
     "ip_address": "2606:54c0:1d28::/45",
     "ip_type": "IPv6",
     "region": "CA-YT"
@@ -36,6 +16,26 @@
   },
   {
     "ip_address": "2606:54c3:0:1323::/64",
+    "ip_type": "IPv6",
+    "region": "CA-YT"
+  },
+  {
+    "ip_address": "2a02:26f7:bb40:564d::/64",
+    "ip_type": "IPv6",
+    "region": "CA-YT"
+  },
+  {
+    "ip_address": "2a02:26f7:bb42:564d::/64",
+    "ip_type": "IPv6",
+    "region": "CA-YT"
+  },
+  {
+    "ip_address": "2a02:26f7:bb44:564d::/64",
+    "ip_type": "IPv6",
+    "region": "CA-YT"
+  },
+  {
+    "ip_address": "2a02:26f7:bb48:564d::/64",
     "ip_type": "IPv6",
     "region": "CA-YT"
   },

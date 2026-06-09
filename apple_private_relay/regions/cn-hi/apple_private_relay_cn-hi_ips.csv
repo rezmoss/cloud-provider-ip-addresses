@@ -1,4 +1,8 @@
 ip_address,ip_type,region
+2606:54c0:2240::/45,IPv6,CN-HI
+2606:54c0:2248::/45,IPv6,CN-HI
+2606:54c3:0:ff0::/64,IPv6,CN-HI
+2606:54c3:0:1a5a::/64,IPv6,CN-HI
 2a02:26f7:c400:f4c3::/64,IPv6,CN-HI
 2a02:26f7:c400:f4c4::/64,IPv6,CN-HI
 2a02:26f7:c400:f4c5::/64,IPv6,CN-HI
@@ -98,10 +102,6 @@ ip_address,ip_type,region
 2a02:26f7:c420:f4cb::/64,IPv6,CN-HI
 2a02:26f7:c420:f4cc::/64,IPv6,CN-HI
 2a02:26f7:c420:f4cd::/64,IPv6,CN-HI
-2606:54c0:2240::/45,IPv6,CN-HI
-2606:54c0:2248::/45,IPv6,CN-HI
-2606:54c3:0:ff0::/64,IPv6,CN-HI
-2606:54c3:0:1a5a::/64,IPv6,CN-HI
 2a09:bac2:2240::/45,IPv6,CN-HI
 2a09:bac2:2248::/45,IPv6,CN-HI
 2a09:bac3:2240::/45,IPv6,CN-HI

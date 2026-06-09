@@ -1,5 +1,55 @@
 [
   {
+    "ip_address": "2606:54c0:54a0::/45",
+    "ip_type": "IPv6",
+    "region": "SE-X"
+  },
+  {
+    "ip_address": "2606:54c0:54a8::/45",
+    "ip_type": "IPv6",
+    "region": "SE-X"
+  },
+  {
+    "ip_address": "2606:54c0:54b0::/45",
+    "ip_type": "IPv6",
+    "region": "SE-X"
+  },
+  {
+    "ip_address": "2606:54c0:54b8::/45",
+    "ip_type": "IPv6",
+    "region": "SE-X"
+  },
+  {
+    "ip_address": "2606:54c0:54c0::/45",
+    "ip_type": "IPv6",
+    "region": "SE-X"
+  },
+  {
+    "ip_address": "2606:54c3:0:f8::/64",
+    "ip_type": "IPv6",
+    "region": "SE-X"
+  },
+  {
+    "ip_address": "2606:54c3:0:9c7::/64",
+    "ip_type": "IPv6",
+    "region": "SE-X"
+  },
+  {
+    "ip_address": "2606:54c3:0:1159::/64",
+    "ip_type": "IPv6",
+    "region": "SE-X"
+  },
+  {
+    "ip_address": "2606:54c3:0:1630::/64",
+    "ip_type": "IPv6",
+    "region": "SE-X"
+  },
+  {
+    "ip_address": "2606:54c3:0:1709::/64",
+    "ip_type": "IPv6",
+    "region": "SE-X"
+  },
+  {
     "ip_address": "2a02:26f7:f8c0:e69a::/64",
     "ip_type": "IPv6",
     "region": "SE-X"
@@ -536,56 +586,6 @@
   },
   {
     "ip_address": "2a02:26f7:f8e2:e6a5::/64",
-    "ip_type": "IPv6",
-    "region": "SE-X"
-  },
-  {
-    "ip_address": "2606:54c0:54a0::/45",
-    "ip_type": "IPv6",
-    "region": "SE-X"
-  },
-  {
-    "ip_address": "2606:54c0:54a8::/45",
-    "ip_type": "IPv6",
-    "region": "SE-X"
-  },
-  {
-    "ip_address": "2606:54c0:54b0::/45",
-    "ip_type": "IPv6",
-    "region": "SE-X"
-  },
-  {
-    "ip_address": "2606:54c0:54b8::/45",
-    "ip_type": "IPv6",
-    "region": "SE-X"
-  },
-  {
-    "ip_address": "2606:54c0:54c0::/45",
-    "ip_type": "IPv6",
-    "region": "SE-X"
-  },
-  {
-    "ip_address": "2606:54c3:0:f8::/64",
-    "ip_type": "IPv6",
-    "region": "SE-X"
-  },
-  {
-    "ip_address": "2606:54c3:0:9c7::/64",
-    "ip_type": "IPv6",
-    "region": "SE-X"
-  },
-  {
-    "ip_address": "2606:54c3:0:1159::/64",
-    "ip_type": "IPv6",
-    "region": "SE-X"
-  },
-  {
-    "ip_address": "2606:54c3:0:1630::/64",
-    "ip_type": "IPv6",
-    "region": "SE-X"
-  },
-  {
-    "ip_address": "2606:54c3:0:1709::/64",
     "ip_type": "IPv6",
     "region": "SE-X"
   },

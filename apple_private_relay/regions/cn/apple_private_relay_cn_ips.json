@@ -20,6 +20,21 @@
     "region": "CN"
   },
   {
+    "ip_address": "140.248.33.2/31",
+    "ip_type": "IPv4",
+    "region": "CN"
+  },
+  {
+    "ip_address": "146.75.187.2/31",
+    "ip_type": "IPv4",
+    "region": "CN"
+  },
+  {
+    "ip_address": "146.75.189.2/31",
+    "ip_type": "IPv4",
+    "region": "CN"
+  },
+  {
     "ip_address": "2606:54c0:1eb8::/45",
     "ip_type": "IPv6",
     "region": "CN"
@@ -156,6 +171,21 @@
   },
   {
     "ip_address": "2606:54c3:0:18b1::/64",
+    "ip_type": "IPv6",
+    "region": "CN"
+  },
+  {
+    "ip_address": "2a04:4e41:12a2::/48",
+    "ip_type": "IPv6",
+    "region": "CN"
+  },
+  {
+    "ip_address": "2a04:4e41:6003::/48",
+    "ip_type": "IPv6",
+    "region": "CN"
+  },
+  {
+    "ip_address": "2a04:4e41:6a03::/48",
     "ip_type": "IPv6",
     "region": "CN"
   },
@@ -297,36 +327,6 @@
   {
     "ip_address": "2a09:bac3:d440::/45",
     "ip_type": "IPv6",
-    "region": "CN"
-  },
-  {
-    "ip_address": "2a04:4e41:12a2::/48",
-    "ip_type": "IPv6",
-    "region": "CN"
-  },
-  {
-    "ip_address": "2a04:4e41:6003::/48",
-    "ip_type": "IPv6",
-    "region": "CN"
-  },
-  {
-    "ip_address": "2a04:4e41:6a03::/48",
-    "ip_type": "IPv6",
-    "region": "CN"
-  },
-  {
-    "ip_address": "140.248.33.2/31",
-    "ip_type": "IPv4",
-    "region": "CN"
-  },
-  {
-    "ip_address": "146.75.187.2/31",
-    "ip_type": "IPv4",
-    "region": "CN"
-  },
-  {
-    "ip_address": "146.75.189.2/31",
-    "ip_type": "IPv4",
     "region": "CN"
   }
 ]

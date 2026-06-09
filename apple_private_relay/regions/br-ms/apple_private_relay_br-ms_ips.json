@@ -1,35 +1,5 @@
 [
   {
-    "ip_address": "2a02:26f7:e540:d301::/64",
-    "ip_type": "IPv6",
-    "region": "BR-MS"
-  },
-  {
-    "ip_address": "2a02:26f7:e540:d303::/64",
-    "ip_type": "IPv6",
-    "region": "BR-MS"
-  },
-  {
-    "ip_address": "2a02:26f7:e544:d301::/64",
-    "ip_type": "IPv6",
-    "region": "BR-MS"
-  },
-  {
-    "ip_address": "2a02:26f7:e544:d303::/64",
-    "ip_type": "IPv6",
-    "region": "BR-MS"
-  },
-  {
-    "ip_address": "2a02:26f7:e548:d301::/64",
-    "ip_type": "IPv6",
-    "region": "BR-MS"
-  },
-  {
-    "ip_address": "2a02:26f7:e548:d303::/64",
-    "ip_type": "IPv6",
-    "region": "BR-MS"
-  },
-  {
     "ip_address": "104.28.47.136/32",
     "ip_type": "IPv4",
     "region": "BR-MS"
@@ -76,6 +46,36 @@
   },
   {
     "ip_address": "2606:54c3:0:1a7e::/64",
+    "ip_type": "IPv6",
+    "region": "BR-MS"
+  },
+  {
+    "ip_address": "2a02:26f7:e540:d301::/64",
+    "ip_type": "IPv6",
+    "region": "BR-MS"
+  },
+  {
+    "ip_address": "2a02:26f7:e540:d303::/64",
+    "ip_type": "IPv6",
+    "region": "BR-MS"
+  },
+  {
+    "ip_address": "2a02:26f7:e544:d301::/64",
+    "ip_type": "IPv6",
+    "region": "BR-MS"
+  },
+  {
+    "ip_address": "2a02:26f7:e544:d303::/64",
+    "ip_type": "IPv6",
+    "region": "BR-MS"
+  },
+  {
+    "ip_address": "2a02:26f7:e548:d301::/64",
+    "ip_type": "IPv6",
+    "region": "BR-MS"
+  },
+  {
+    "ip_address": "2a02:26f7:e548:d303::/64",
     "ip_type": "IPv6",
     "region": "BR-MS"
   },

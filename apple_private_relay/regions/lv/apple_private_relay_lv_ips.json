@@ -1,5 +1,15 @@
 [
   {
+    "ip_address": "140.248.36.182/31",
+    "ip_type": "IPv4",
+    "region": "LV"
+  },
+  {
+    "ip_address": "146.75.202.8/31",
+    "ip_type": "IPv4",
+    "region": "LV"
+  },
+  {
     "ip_address": "172.225.36.160/27",
     "ip_type": "IPv4",
     "region": "LV"
@@ -457,16 +467,6 @@
   {
     "ip_address": "2a04:4e41:182c::/48",
     "ip_type": "IPv6",
-    "region": "LV"
-  },
-  {
-    "ip_address": "140.248.36.182/31",
-    "ip_type": "IPv4",
-    "region": "LV"
-  },
-  {
-    "ip_address": "146.75.202.8/31",
-    "ip_type": "IPv4",
     "region": "LV"
   }
 ]

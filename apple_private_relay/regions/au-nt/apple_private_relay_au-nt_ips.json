@@ -30,6 +30,16 @@
     "region": "AU-NT"
   },
   {
+    "ip_address": "2606:54c0:298::/45",
+    "ip_type": "IPv6",
+    "region": "AU-NT"
+  },
+  {
+    "ip_address": "2606:54c3:0:1a63::/64",
+    "ip_type": "IPv6",
+    "region": "AU-NT"
+  },
+  {
     "ip_address": "2a02:26f7:fc04:4fc0::/64",
     "ip_type": "IPv6",
     "region": "AU-NT"
@@ -51,16 +61,6 @@
   },
   {
     "ip_address": "2a02:26f7:fc14:4fc0::/64",
-    "ip_type": "IPv6",
-    "region": "AU-NT"
-  },
-  {
-    "ip_address": "2606:54c0:298::/45",
-    "ip_type": "IPv6",
-    "region": "AU-NT"
-  },
-  {
-    "ip_address": "2606:54c3:0:1a63::/64",
     "ip_type": "IPv6",
     "region": "AU-NT"
   },

@@ -35,6 +35,16 @@
     "region": "MX-YUC"
   },
   {
+    "ip_address": "2606:54c0:4c20::/45",
+    "ip_type": "IPv6",
+    "region": "MX-YUC"
+  },
+  {
+    "ip_address": "2606:54c3:0:1564::/64",
+    "ip_type": "IPv6",
+    "region": "MX-YUC"
+  },
+  {
     "ip_address": "2a02:26f7:c000:580::/60",
     "ip_type": "IPv6",
     "region": "MX-YUC"
@@ -101,16 +111,6 @@
   },
   {
     "ip_address": "2a02:26f7:c018:5c09::/64",
-    "ip_type": "IPv6",
-    "region": "MX-YUC"
-  },
-  {
-    "ip_address": "2606:54c0:4c20::/45",
-    "ip_type": "IPv6",
-    "region": "MX-YUC"
-  },
-  {
-    "ip_address": "2606:54c3:0:1564::/64",
     "ip_type": "IPv6",
     "region": "MX-YUC"
   },

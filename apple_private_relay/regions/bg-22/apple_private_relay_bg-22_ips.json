@@ -100,22 +100,37 @@
     "region": "BG-22"
   },
   {
+    "ip_address": "140.248.18.2/31",
+    "ip_type": "IPv4",
+    "region": "BG-22"
+  },
+  {
+    "ip_address": "140.248.34.14/31",
+    "ip_type": "IPv4",
+    "region": "BG-22"
+  },
+  {
+    "ip_address": "140.248.36.24/31",
+    "ip_type": "IPv4",
+    "region": "BG-22"
+  },
+  {
+    "ip_address": "146.75.169.14/31",
+    "ip_type": "IPv4",
+    "region": "BG-22"
+  },
+  {
+    "ip_address": "146.75.180.12/31",
+    "ip_type": "IPv4",
+    "region": "BG-22"
+  },
+  {
     "ip_address": "2606:54c0:4f0::/45",
     "ip_type": "IPv6",
     "region": "BG-22"
   },
   {
     "ip_address": "2606:54c3:0:828::/64",
-    "ip_type": "IPv6",
-    "region": "BG-22"
-  },
-  {
-    "ip_address": "2a09:bac2:4f0::/45",
-    "ip_type": "IPv6",
-    "region": "BG-22"
-  },
-  {
-    "ip_address": "2a09:bac3:4f0::/45",
     "ip_type": "IPv6",
     "region": "BG-22"
   },
@@ -145,28 +160,13 @@
     "region": "BG-22"
   },
   {
-    "ip_address": "140.248.18.2/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:4f0::/45",
+    "ip_type": "IPv6",
     "region": "BG-22"
   },
   {
-    "ip_address": "140.248.34.14/31",
-    "ip_type": "IPv4",
-    "region": "BG-22"
-  },
-  {
-    "ip_address": "140.248.36.24/31",
-    "ip_type": "IPv4",
-    "region": "BG-22"
-  },
-  {
-    "ip_address": "146.75.169.14/31",
-    "ip_type": "IPv4",
-    "region": "BG-22"
-  },
-  {
-    "ip_address": "146.75.180.12/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:4f0::/45",
+    "ip_type": "IPv6",
     "region": "BG-22"
   }
 ]

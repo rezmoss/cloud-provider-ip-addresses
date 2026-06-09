@@ -1,12 +1,24 @@
 #!/bin/bash
 # Apple_private_relay IP Ranges
-# Updated: 2026-02-11 17:28:48
+# Updated: 2026-06-09 22:59:41
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
 # Updates daily at 00:00 UTC
 # iptables deny rules for apple_private_relay
 
+iptables -A INPUT -s 104.28.34.159/32 -j DROP
+iptables -A INPUT -s 104.28.34.160/32 -j DROP
+iptables -A INPUT -s 104.28.42.82/32 -j DROP
+iptables -A INPUT -s 104.28.42.83/32 -j DROP
+iptables -A INPUT -s 104.28.86.45/32 -j DROP
+iptables -A INPUT -s 104.28.86.46/32 -j DROP
+iptables -A INPUT -s 104.28.87.103/32 -j DROP
+iptables -A INPUT -s 104.28.87.104/32 -j DROP
+iptables -A INPUT -s 104.28.88.121/32 -j DROP
+iptables -A INPUT -s 104.28.88.122/32 -j DROP
+ip6tables -A INPUT -s 2606:54c0:3118::/45 -j DROP
+ip6tables -A INPUT -s 2606:54c3:0:e6c::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:ef00:590d::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:ef00:5921::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:ef00:5992::/64 -j DROP
@@ -49,17 +61,5 @@ ip6tables -A INPUT -s 2a02:26f7:ef14:59cc::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:ef14:59de::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:ef14:59eb::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:ef14:5a09::/64 -j DROP
-iptables -A INPUT -s 104.28.34.159/32 -j DROP
-iptables -A INPUT -s 104.28.34.160/32 -j DROP
-iptables -A INPUT -s 104.28.42.82/32 -j DROP
-iptables -A INPUT -s 104.28.42.83/32 -j DROP
-iptables -A INPUT -s 104.28.86.45/32 -j DROP
-iptables -A INPUT -s 104.28.86.46/32 -j DROP
-iptables -A INPUT -s 104.28.87.103/32 -j DROP
-iptables -A INPUT -s 104.28.87.104/32 -j DROP
-iptables -A INPUT -s 104.28.88.121/32 -j DROP
-iptables -A INPUT -s 104.28.88.122/32 -j DROP
-ip6tables -A INPUT -s 2606:54c0:3118::/45 -j DROP
-ip6tables -A INPUT -s 2606:54c3:0:e6c::/64 -j DROP
 ip6tables -A INPUT -s 2a09:bac2:3118::/45 -j DROP
 ip6tables -A INPUT -s 2a09:bac3:3118::/45 -j DROP

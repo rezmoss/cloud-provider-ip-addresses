@@ -1,96 +1,6 @@
 [
   {
-    "ip_address": "35.71.115.0/24",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "99.77.183.0/24",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "16.67.0.0/16",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "182.30.0.0/16",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "108.175.52.0/22",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "108.175.60.0/22",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "16.65.0.0/16",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "52.94.22.0/24",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "16.153.0.0/16",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "18.252.0.0/16",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "99.151.96.0/21",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "182.29.0.0/16",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "31.220.252.0/24",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "182.28.0.0/16",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "16.152.0.0/16",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "103.13.189.0/24",
+    "ip_address": "3.2.100.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "us-gov-east-1"
@@ -98,301 +8,19 @@
   {
     "ip_address": "3.2.100.0/24",
     "ip_type": "IPv4",
-    "service": "AMAZON",
+    "service": "EC2",
     "region": "us-gov-east-1"
   },
   {
-    "ip_address": "16.64.0.0/17",
+    "ip_address": "3.2.100.0/24",
     "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "35.111.253.0/24",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "18.253.0.0/16",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "52.94.249.112/28",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "16.66.0.0/16",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "52.46.96.0/19",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "54.239.1.64/28",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "18.99.112.0/20",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "18.254.0.0/16",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
+    "service": "S3",
     "region": "us-gov-east-1"
   },
   {
     "ip_address": "3.4.24.0/21",
     "ip_type": "IPv4",
     "service": "AMAZON",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "16.64.102.0/23",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "16.64.36.0/23",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "16.65.74.0/23",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "18.252.126.0/25",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "18.252.165.0/26",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "18.252.58.0/23",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "18.254.23.64/26",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "18.254.61.128/26",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "182.30.13.192/26",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "182.30.157.0/26",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "182.30.85.0/26",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "182.30.85.128/25",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "18.253.167.0/25",
-    "ip_type": "IPv4",
-    "service": "ROUTE53_HEALTHCHECKS",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "18.253.167.128/25",
-    "ip_type": "IPv4",
-    "service": "ROUTE53_HEALTHCHECKS",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "18.253.168.0/25",
-    "ip_type": "IPv4",
-    "service": "ROUTE53_HEALTHCHECKS",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "108.175.52.0/22",
-    "ip_type": "IPv4",
-    "service": "S3",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "108.175.60.0/22",
-    "ip_type": "IPv4",
-    "service": "S3",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "3.2.100.0/24",
-    "ip_type": "IPv4",
-    "service": "S3",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "18.252.145.192/28",
-    "ip_type": "IPv4",
-    "service": "S3",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "18.252.145.208/28",
-    "ip_type": "IPv4",
-    "service": "S3",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "31.220.252.0/24",
-    "ip_type": "IPv4",
-    "service": "S3",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "18.254.140.0/22",
-    "ip_type": "IPv4",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "18.254.148.0/22",
-    "ip_type": "IPv4",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "35.71.115.0/24",
-    "ip_type": "IPv4",
-    "service": "EC2",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "99.77.183.0/24",
-    "ip_type": "IPv4",
-    "service": "EC2",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "182.30.0.0/16",
-    "ip_type": "IPv4",
-    "service": "EC2",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "108.175.60.0/22",
-    "ip_type": "IPv4",
-    "service": "EC2",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "16.65.0.0/16",
-    "ip_type": "IPv4",
-    "service": "EC2",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "18.252.0.0/16",
-    "ip_type": "IPv4",
-    "service": "EC2",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "99.151.96.0/21",
-    "ip_type": "IPv4",
-    "service": "EC2",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "31.220.252.0/24",
-    "ip_type": "IPv4",
-    "service": "EC2",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "103.13.189.0/24",
-    "ip_type": "IPv4",
-    "service": "EC2",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "3.2.100.0/24",
-    "ip_type": "IPv4",
-    "service": "EC2",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "16.64.0.0/17",
-    "ip_type": "IPv4",
-    "service": "EC2",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "35.111.253.0/24",
-    "ip_type": "IPv4",
-    "service": "EC2",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "18.253.0.0/16",
-    "ip_type": "IPv4",
-    "service": "EC2",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "52.94.249.112/28",
-    "ip_type": "IPv4",
-    "service": "EC2",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "18.99.112.0/20",
-    "ip_type": "IPv4",
-    "service": "EC2",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "18.254.0.0/16",
-    "ip_type": "IPv4",
-    "service": "EC2",
     "region": "us-gov-east-1"
   },
   {
@@ -414,51 +42,105 @@
     "region": "us-gov-east-1"
   },
   {
-    "ip_address": "18.252.145.168/29",
+    "ip_address": "16.64.0.0/17",
     "ip_type": "IPv4",
-    "service": "CODEBUILD",
+    "service": "AMAZON",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "16.64.0.0/17",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "16.64.36.0/23",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "16.64.102.0/23",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "16.65.0.0/16",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "16.65.0.0/16",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "16.65.74.0/23",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "16.66.0.0/16",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "16.67.0.0/16",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "16.152.0.0/16",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "16.153.0.0/16",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "18.99.112.0/20",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "18.99.112.0/20",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "18.252.0.0/16",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "18.252.0.0/16",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "18.252.4.0/30",
+    "ip_type": "IPv4",
+    "service": "EC2_INSTANCE_CONNECT",
     "region": "us-gov-east-1"
   },
   {
     "ip_address": "18.252.4.16/29",
     "ip_type": "IPv4",
     "service": "CODEBUILD",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "18.252.56.0/23",
-    "ip_type": "IPv4",
-    "service": "API_GATEWAY",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "18.253.186.0/24",
-    "ip_type": "IPv4",
-    "service": "API_GATEWAY",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "18.254.68.0/23",
-    "ip_type": "IPv4",
-    "service": "API_GATEWAY",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "18.252.144.0/25",
-    "ip_type": "IPv4",
-    "service": "ROUTE53_RESOLVER",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "18.252.144.128/25",
-    "ip_type": "IPv4",
-    "service": "ROUTE53_RESOLVER",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "18.252.145.0/25",
-    "ip_type": "IPv4",
-    "service": "ROUTE53_RESOLVER",
     "region": "us-gov-east-1"
   },
   {
@@ -480,7 +162,103 @@
     "region": "us-gov-east-1"
   },
   {
+    "ip_address": "18.252.56.0/23",
+    "ip_type": "IPv4",
+    "service": "API_GATEWAY",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "18.252.58.0/23",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "18.252.126.0/25",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "18.252.144.0/25",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_RESOLVER",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "18.252.144.128/25",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_RESOLVER",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "18.252.145.0/25",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_RESOLVER",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "18.252.145.156/30",
+    "ip_type": "IPv4",
+    "service": "EBS",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "18.252.145.160/29",
+    "ip_type": "IPv4",
+    "service": "EBS",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "18.252.145.168/29",
+    "ip_type": "IPv4",
+    "service": "CODEBUILD",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "18.252.145.192/28",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "18.252.145.208/28",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "18.252.165.0/26",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "18.252.165.140/30",
+    "ip_type": "IPv4",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "18.253.0.0/16",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "18.253.0.0/16",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-gov-east-1"
+  },
+  {
     "ip_address": "18.253.138.0/29",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_RESOLVER",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "18.253.138.8/29",
     "ip_type": "IPv4",
     "service": "ROUTE53_RESOLVER",
     "region": "us-gov-east-1"
@@ -534,12 +312,6 @@
     "region": "us-gov-east-1"
   },
   {
-    "ip_address": "18.253.138.8/29",
-    "ip_type": "IPv4",
-    "service": "ROUTE53_RESOLVER",
-    "region": "us-gov-east-1"
-  },
-  {
     "ip_address": "18.253.138.80/29",
     "ip_type": "IPv4",
     "service": "ROUTE53_RESOLVER",
@@ -549,6 +321,30 @@
     "ip_address": "18.253.138.88/29",
     "ip_type": "IPv4",
     "service": "ROUTE53_RESOLVER",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "18.253.167.0/25",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "18.253.167.128/25",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "18.253.168.0/25",
+    "ip_type": "IPv4",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "18.253.186.0/24",
+    "ip_type": "IPv4",
+    "service": "API_GATEWAY",
     "region": "us-gov-east-1"
   },
   {
@@ -570,27 +366,69 @@
     "region": "us-gov-east-1"
   },
   {
-    "ip_address": "18.252.145.156/30",
+    "ip_address": "18.254.0.0/16",
     "ip_type": "IPv4",
-    "service": "EBS",
+    "service": "AMAZON",
     "region": "us-gov-east-1"
   },
   {
-    "ip_address": "18.252.145.160/29",
+    "ip_address": "18.254.0.0/16",
     "ip_type": "IPv4",
-    "service": "EBS",
+    "service": "EC2",
     "region": "us-gov-east-1"
   },
   {
-    "ip_address": "18.252.4.0/30",
+    "ip_address": "18.254.23.64/26",
     "ip_type": "IPv4",
-    "service": "EC2_INSTANCE_CONNECT",
+    "service": "AMAZON",
     "region": "us-gov-east-1"
   },
   {
-    "ip_address": "18.252.165.140/30",
+    "ip_address": "18.254.61.128/26",
     "ip_type": "IPv4",
-    "service": "KINESIS_VIDEO_STREAMS",
+    "service": "AMAZON",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "18.254.68.0/23",
+    "ip_type": "IPv4",
+    "service": "API_GATEWAY",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "18.254.140.0/22",
+    "ip_type": "IPv4",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "18.254.148.0/22",
+    "ip_type": "IPv4",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "31.220.252.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "31.220.252.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "31.220.252.0/24",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "35.71.115.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
     "region": "us-gov-east-1"
   },
   {
@@ -600,44 +438,170 @@
     "region": "us-gov-east-1"
   },
   {
+    "ip_address": "35.71.115.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "35.111.253.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "35.111.253.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "52.46.96.0/19",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "52.94.22.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-gov-east-1"
+  },
+  {
     "ip_address": "52.94.22.0/24",
     "ip_type": "IPv4",
     "service": "DYNAMODB",
     "region": "us-gov-east-1"
   },
   {
-    "ip_address": "2600:1feb:5000::/40",
-    "ip_type": "IPv6",
+    "ip_address": "52.94.249.112/28",
+    "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "us-gov-east-1"
   },
   {
-    "ip_address": "2600:1f15::/36",
-    "ip_type": "IPv6",
+    "ip_address": "52.94.249.112/28",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "54.239.1.64/28",
+    "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "us-gov-east-1"
   },
   {
-    "ip_address": "2600:1fbb:5000::/40",
-    "ip_type": "IPv6",
+    "ip_address": "99.77.183.0/24",
+    "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "us-gov-east-1"
   },
   {
-    "ip_address": "2600:f0f2:7028::/48",
-    "ip_type": "IPv6",
+    "ip_address": "99.77.183.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "99.151.96.0/21",
+    "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "us-gov-east-1"
   },
   {
-    "ip_address": "2600:1fe8:5000::/40",
-    "ip_type": "IPv6",
+    "ip_address": "99.151.96.0/21",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "103.13.189.0/24",
+    "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "us-gov-east-1"
   },
   {
-    "ip_address": "2600:1f33:5000::/40",
-    "ip_type": "IPv6",
+    "ip_address": "103.13.189.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "108.175.52.0/22",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "108.175.52.0/22",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "108.175.60.0/22",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "108.175.60.0/22",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "108.175.60.0/22",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "182.28.0.0/16",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "182.29.0.0/16",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "182.30.0.0/16",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "182.30.0.0/16",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "182.30.13.192/26",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "182.30.85.0/26",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "182.30.85.128/25",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "182.30.157.0/26",
+    "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "us-gov-east-1"
   },
@@ -648,63 +612,45 @@
     "region": "us-gov-east-1"
   },
   {
-    "ip_address": "2600:1f38:5000::/40",
+    "ip_address": "2600:1f00:5000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "2600:1f15::/36",
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "us-gov-east-1"
   },
   {
-    "ip_address": "2600:1ffc:5000::/40",
+    "ip_address": "2600:1f15::/36",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "2600:1f15:d63:bd00::/56",
+    "ip_type": "IPv6",
+    "service": "EC2_INSTANCE_CONNECT",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "2600:1f25::/36",
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "us-gov-east-1"
   },
   {
-    "ip_address": "2600:1f60:5000::/40",
+    "ip_address": "2600:1f25::/36",
     "ip_type": "IPv6",
-    "service": "AMAZON",
+    "service": "EC2",
     "region": "us-gov-east-1"
   },
   {
-    "ip_address": "2600:1ff8:5000::/36",
+    "ip_address": "2600:1f25:14::/48",
     "ip_type": "IPv6",
-    "service": "AMAZON",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "2600:1f36:5000::/40",
-    "ip_type": "IPv6",
-    "service": "AMAZON",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "2606:8140:200::/40",
-    "ip_type": "IPv6",
-    "service": "AMAZON",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "2600:f0f0:4141::/48",
-    "ip_type": "IPv6",
-    "service": "AMAZON",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "2600:f0f2:7000::/44",
-    "ip_type": "IPv6",
-    "service": "AMAZON",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "2600:1fb9:5000::/40",
-    "ip_type": "IPv6",
-    "service": "AMAZON",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "2600:f0f0:6124::/48",
-    "ip_type": "IPv6",
-    "service": "AMAZON",
+    "service": "WORKSPACES_GATEWAYS",
     "region": "us-gov-east-1"
   },
   {
@@ -714,27 +660,9 @@
     "region": "us-gov-east-1"
   },
   {
-    "ip_address": "2600:1f61:5000::/40",
+    "ip_address": "2600:1f30:5000::/40",
     "ip_type": "IPv6",
-    "service": "AMAZON",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "2600:f0f0:400::/44",
-    "ip_type": "IPv6",
-    "service": "AMAZON",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "2600:1fba:5000::/40",
-    "ip_type": "IPv6",
-    "service": "AMAZON",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "2600:1ff9:5000::/40",
-    "ip_type": "IPv6",
-    "service": "AMAZON",
+    "service": "EC2",
     "region": "us-gov-east-1"
   },
   {
@@ -744,33 +672,99 @@
     "region": "us-gov-east-1"
   },
   {
-    "ip_address": "2600:1fea:5000::/40",
+    "ip_address": "2600:1f32:5000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "2600:1f32:5000::/40",
+    "ip_type": "IPv6",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "2600:1f33:5000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "us-gov-east-1"
   },
   {
-    "ip_address": "2600:1ff4:5000::/40",
+    "ip_address": "2600:1f33:5000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "2600:1f36:5000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "us-gov-east-1"
   },
   {
-    "ip_address": "2620:107:4000:7a00::/56",
+    "ip_address": "2600:1f36:5000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "2600:1f38:5000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "us-gov-east-1"
   },
   {
-    "ip_address": "2600:f0f0:78::/45",
+    "ip_address": "2600:1f38:5000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "2600:1f60:5000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "us-gov-east-1"
   },
   {
-    "ip_address": "2600:1fe9:5000::/40",
+    "ip_address": "2600:1f60:5000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "2600:1f60:5000::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "2600:1f61:5000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "2600:1f61:5000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "2600:1f61:5000::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "2600:1f70:5000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "2600:1f70:5000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
     "region": "us-gov-east-1"
   },
   {
@@ -780,7 +774,229 @@
     "region": "us-gov-east-1"
   },
   {
-    "ip_address": "2600:1f25::/36",
+    "ip_address": "2600:1fa0:5000::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "2600:1fb9:5000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "2600:1fb9:5000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "2600:1fb9:5000::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "2600:1fba:5000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "2600:1fba:5000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "2600:1fbb:5000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "2600:1fbb:5000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "2600:1fe8:5000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "2600:1fe8:5000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "2600:1fe9:5000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "2600:1fe9:5000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "2600:1fea:5000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "2600:1fea:5000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "2600:1feb:5000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "2600:1feb:5000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "2600:1fef:5000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "2600:1fef:5000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "2600:1fef:5000::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "2600:1ff0:5000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "2600:1ff0:5000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "2600:1ff0:5000::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "2600:1ff2:5000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "2600:1ff2:5000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "2600:1ff3:5000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "2600:1ff3:5000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "2600:1ff4:5000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "2600:1ff4:5000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "2600:1ff4:5000::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "2600:1ff6:5000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "2600:1ff6:5000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "2600:1ff8:5000::/36",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "2600:1ff8:5000::/36",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "2600:1ff9:5000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "2600:1ff9:5000::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "2600:1ffa:5000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "2600:1ffa:5000::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "2600:1ffc:5000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "us-gov-east-1"
@@ -792,37 +1008,7 @@
     "region": "us-gov-east-1"
   },
   {
-    "ip_address": "2600:1ff6:5000::/40",
-    "ip_type": "IPv6",
-    "service": "AMAZON",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "2600:1ff2:5000::/40",
-    "ip_type": "IPv6",
-    "service": "AMAZON",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "2600:1ff0:5000::/40",
-    "ip_type": "IPv6",
-    "service": "AMAZON",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "2600:1f70:5000::/40",
-    "ip_type": "IPv6",
-    "service": "AMAZON",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "2600:1ff3:5000::/40",
-    "ip_type": "IPv6",
-    "service": "AMAZON",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "2600:1ffa:5000::/40",
+    "ip_address": "2600:1fff:5000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "us-gov-east-1"
@@ -830,223 +1016,13 @@
   {
     "ip_address": "2600:1fff:5000::/40",
     "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "2600:f0f0:78::/45",
+    "ip_type": "IPv6",
     "service": "AMAZON",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "2600:1fef:5000::/40",
-    "ip_type": "IPv6",
-    "service": "AMAZON",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "2600:1f60:5000::/40",
-    "ip_type": "IPv6",
-    "service": "S3",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "2600:1ff8:5000::/36",
-    "ip_type": "IPv6",
-    "service": "S3",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "2600:1fb9:5000::/40",
-    "ip_type": "IPv6",
-    "service": "S3",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "2600:f0f0:6124::/48",
-    "ip_type": "IPv6",
-    "service": "S3",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "2600:1f61:5000::/40",
-    "ip_type": "IPv6",
-    "service": "S3",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "2600:1ff9:5000::/40",
-    "ip_type": "IPv6",
-    "service": "S3",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "2600:1ff4:5000::/40",
-    "ip_type": "IPv6",
-    "service": "S3",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "2600:1fa0:5000::/40",
-    "ip_type": "IPv6",
-    "service": "S3",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "2600:1ff0:5000::/40",
-    "ip_type": "IPv6",
-    "service": "S3",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "2600:1ffa:5000::/40",
-    "ip_type": "IPv6",
-    "service": "S3",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "2600:1fef:5000::/40",
-    "ip_type": "IPv6",
-    "service": "S3",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "2600:1f32:5000::/40",
-    "ip_type": "IPv6",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "2600:1f25:14::/48",
-    "ip_type": "IPv6",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "2600:1feb:5000::/40",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "2600:1f15::/36",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "2600:1fbb:5000::/40",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "2600:f0f2:7028::/48",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "2600:1fe8:5000::/40",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "2600:1f33:5000::/40",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "2600:1f00:5000::/40",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "2600:1f38:5000::/40",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "2600:1f60:5000::/40",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "2600:1f36:5000::/40",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "2606:8140:200::/40",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "2600:f0f0:4141::/48",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "2600:f0f2:7000::/44",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "2600:1fb9:5000::/40",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "2600:f0f0:6124::/48",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "2600:1f30:5000::/40",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "2600:1f61:5000::/40",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "2600:f0f0:400::/44",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "2600:1fba:5000::/40",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "2600:1f32:5000::/40",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "2600:1fea:5000::/40",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "2600:1ff4:5000::/40",
-    "ip_type": "IPv6",
-    "service": "EC2",
     "region": "us-gov-east-1"
   },
   {
@@ -1056,55 +1032,61 @@
     "region": "us-gov-east-1"
   },
   {
-    "ip_address": "2600:1fe9:5000::/40",
+    "ip_address": "2600:f0f0:400::/44",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "2600:f0f0:400::/44",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "us-gov-east-1"
   },
   {
-    "ip_address": "2600:1f25::/36",
+    "ip_address": "2600:f0f0:400::/44",
+    "ip_type": "IPv6",
+    "service": "ROUTE53",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "2600:f0f0:4141::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "2600:f0f0:4141::/48",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "us-gov-east-1"
   },
   {
-    "ip_address": "2600:1ff6:5000::/40",
+    "ip_address": "2600:f0f0:6124::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "2600:f0f0:6124::/48",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "us-gov-east-1"
   },
   {
-    "ip_address": "2600:1ff2:5000::/40",
+    "ip_address": "2600:f0f0:6124::/48",
     "ip_type": "IPv6",
-    "service": "EC2",
+    "service": "S3",
     "region": "us-gov-east-1"
   },
   {
-    "ip_address": "2600:1ff0:5000::/40",
+    "ip_address": "2600:f0f2:7000::/44",
     "ip_type": "IPv6",
-    "service": "EC2",
+    "service": "AMAZON",
     "region": "us-gov-east-1"
   },
   {
-    "ip_address": "2600:1f70:5000::/40",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "2600:1ff3:5000::/40",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "2600:1fff:5000::/40",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "2600:1fef:5000::/40",
+    "ip_address": "2600:f0f2:7000::/44",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "us-gov-east-1"
@@ -1116,15 +1098,33 @@
     "region": "us-gov-east-1"
   },
   {
-    "ip_address": "2600:f0f0:400::/44",
+    "ip_address": "2600:f0f2:7028::/48",
     "ip_type": "IPv6",
-    "service": "ROUTE53",
+    "service": "AMAZON",
     "region": "us-gov-east-1"
   },
   {
-    "ip_address": "2600:1f15:d63:bd00::/56",
+    "ip_address": "2600:f0f2:7028::/48",
     "ip_type": "IPv6",
-    "service": "EC2_INSTANCE_CONNECT",
+    "service": "EC2",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "2606:8140:200::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "2606:8140:200::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "2620:107:4000:7a00::/56",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
     "region": "us-gov-east-1"
   }
 ]

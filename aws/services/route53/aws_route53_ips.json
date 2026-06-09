@@ -1,21 +1,15 @@
 [
   {
-    "ip_address": "205.251.200.0/23",
+    "ip_address": "3.4.24.0/23",
     "ip_type": "IPv4",
     "service": "ROUTE53",
-    "region": "GLOBAL"
+    "region": "us-gov-east-1"
   },
   {
-    "ip_address": "52.95.110.0/24",
+    "ip_address": "3.4.26.0/23",
     "ip_type": "IPv4",
     "service": "ROUTE53",
-    "region": "GLOBAL"
-  },
-  {
-    "ip_address": "205.251.192.0/21",
-    "ip_type": "IPv4",
-    "service": "ROUTE53",
-    "region": "GLOBAL"
+    "region": "us-gov-east-1"
   },
   {
     "ip_address": "3.4.32.0/20",
@@ -24,28 +18,16 @@
     "region": "GLOBAL"
   },
   {
-    "ip_address": "63.246.114.0/23",
+    "ip_address": "18.196.222.0/24",
     "ip_type": "IPv4",
     "service": "ROUTE53",
-    "region": "GLOBAL"
+    "region": "eu-central-1"
   },
   {
-    "ip_address": "52.61.226.0/23",
+    "ip_address": "18.196.223.0/24",
     "ip_type": "IPv4",
     "service": "ROUTE53",
-    "region": "us-gov-west-1"
-  },
-  {
-    "ip_address": "34.217.143.0/24",
-    "ip_type": "IPv4",
-    "service": "ROUTE53",
-    "region": "us-west-2"
-  },
-  {
-    "ip_address": "52.82.176.0/22",
-    "ip_type": "IPv4",
-    "service": "ROUTE53",
-    "region": "cn-northwest-1"
+    "region": "eu-central-1"
   },
   {
     "ip_address": "34.217.142.0/24",
@@ -54,16 +36,22 @@
     "region": "us-west-2"
   },
   {
-    "ip_address": "3.4.24.0/23",
+    "ip_address": "34.217.143.0/24",
     "ip_type": "IPv4",
     "service": "ROUTE53",
-    "region": "us-gov-east-1"
+    "region": "us-west-2"
   },
   {
-    "ip_address": "54.222.32.0/22",
+    "ip_address": "51.0.136.0/23",
     "ip_type": "IPv4",
     "service": "ROUTE53",
-    "region": "cn-north-1"
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "51.0.138.0/23",
+    "ip_type": "IPv4",
+    "service": "ROUTE53",
+    "region": "eusc-de-east-1"
   },
   {
     "ip_address": "51.0.140.0/23",
@@ -78,40 +66,10 @@
     "region": "eusc-de-east-1"
   },
   {
-    "ip_address": "51.0.136.0/23",
-    "ip_type": "IPv4",
-    "service": "ROUTE53",
-    "region": "eusc-de-east-1"
-  },
-  {
     "ip_address": "52.46.180.0/22",
     "ip_type": "IPv4",
     "service": "ROUTE53",
     "region": "us-west-2"
-  },
-  {
-    "ip_address": "18.196.222.0/24",
-    "ip_type": "IPv4",
-    "service": "ROUTE53",
-    "region": "eu-central-1"
-  },
-  {
-    "ip_address": "51.0.138.0/23",
-    "ip_type": "IPv4",
-    "service": "ROUTE53",
-    "region": "eusc-de-east-1"
-  },
-  {
-    "ip_address": "52.82.180.0/22",
-    "ip_type": "IPv4",
-    "service": "ROUTE53",
-    "region": "cn-northwest-1"
-  },
-  {
-    "ip_address": "54.222.36.0/22",
-    "ip_type": "IPv4",
-    "service": "ROUTE53",
-    "region": "cn-north-1"
   },
   {
     "ip_address": "52.46.184.0/22",
@@ -120,16 +78,46 @@
     "region": "eu-central-1"
   },
   {
-    "ip_address": "18.196.223.0/24",
+    "ip_address": "52.61.226.0/23",
     "ip_type": "IPv4",
     "service": "ROUTE53",
-    "region": "eu-central-1"
+    "region": "us-gov-west-1"
   },
   {
-    "ip_address": "3.4.26.0/23",
+    "ip_address": "52.82.176.0/22",
     "ip_type": "IPv4",
     "service": "ROUTE53",
-    "region": "us-gov-east-1"
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "52.82.180.0/22",
+    "ip_type": "IPv4",
+    "service": "ROUTE53",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "52.95.110.0/24",
+    "ip_type": "IPv4",
+    "service": "ROUTE53",
+    "region": "GLOBAL"
+  },
+  {
+    "ip_address": "54.222.32.0/22",
+    "ip_type": "IPv4",
+    "service": "ROUTE53",
+    "region": "cn-north-1"
+  },
+  {
+    "ip_address": "54.222.36.0/22",
+    "ip_type": "IPv4",
+    "service": "ROUTE53",
+    "region": "cn-north-1"
+  },
+  {
+    "ip_address": "63.246.114.0/23",
+    "ip_type": "IPv4",
+    "service": "ROUTE53",
+    "region": "GLOBAL"
   },
   {
     "ip_address": "96.127.116.0/23",
@@ -138,14 +126,14 @@
     "region": "us-gov-west-1"
   },
   {
-    "ip_address": "2600:9000:f530::/46",
-    "ip_type": "IPv6",
+    "ip_address": "205.251.192.0/21",
+    "ip_type": "IPv4",
     "service": "ROUTE53",
     "region": "GLOBAL"
   },
   {
-    "ip_address": "2600:9000:5300::/45",
-    "ip_type": "IPv6",
+    "ip_address": "205.251.200.0/23",
+    "ip_type": "IPv4",
     "service": "ROUTE53",
     "region": "GLOBAL"
   },
@@ -162,30 +150,6 @@
     "region": "eusc-de-east-1"
   },
   {
-    "ip_address": "2600:f0f2:7000::/44",
-    "ip_type": "IPv6",
-    "service": "ROUTE53",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "2600:f0fb:f000::/44",
-    "ip_type": "IPv6",
-    "service": "ROUTE53",
-    "region": "us-gov-west-1"
-  },
-  {
-    "ip_address": "2600:f0f3:f000::/44",
-    "ip_type": "IPv6",
-    "service": "ROUTE53",
-    "region": "us-gov-west-1"
-  },
-  {
-    "ip_address": "2600:f0f0:400::/44",
-    "ip_type": "IPv6",
-    "service": "ROUTE53",
-    "region": "us-gov-east-1"
-  },
-  {
     "ip_address": "2001:3fc6:c::/47",
     "ip_type": "IPv6",
     "service": "ROUTE53",
@@ -196,5 +160,41 @@
     "ip_type": "IPv6",
     "service": "ROUTE53",
     "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2600:9000:5300::/45",
+    "ip_type": "IPv6",
+    "service": "ROUTE53",
+    "region": "GLOBAL"
+  },
+  {
+    "ip_address": "2600:9000:f530::/46",
+    "ip_type": "IPv6",
+    "service": "ROUTE53",
+    "region": "GLOBAL"
+  },
+  {
+    "ip_address": "2600:f0f0:400::/44",
+    "ip_type": "IPv6",
+    "service": "ROUTE53",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "2600:f0f2:7000::/44",
+    "ip_type": "IPv6",
+    "service": "ROUTE53",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "2600:f0f3:f000::/44",
+    "ip_type": "IPv6",
+    "service": "ROUTE53",
+    "region": "us-gov-west-1"
+  },
+  {
+    "ip_address": "2600:f0fb:f000::/44",
+    "ip_type": "IPv6",
+    "service": "ROUTE53",
+    "region": "us-gov-west-1"
   }
 ]

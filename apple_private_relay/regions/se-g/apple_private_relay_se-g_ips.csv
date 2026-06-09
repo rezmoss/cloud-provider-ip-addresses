@@ -1,4 +1,6 @@
 ip_address,ip_type,region
+2606:54c0:52f0::/45,IPv6,SE-G
+2606:54c3:0:1434::/64,IPv6,SE-G
 2a02:26f7:f8c0:e61e::/64,IPv6,SE-G
 2a02:26f7:f8c0:e61f::/64,IPv6,SE-G
 2a02:26f7:f8c4:e61e::/64,IPv6,SE-G
@@ -17,7 +19,5 @@ ip_address,ip_type,region
 2a02:26f7:f8e0:e61f::/64,IPv6,SE-G
 2a02:26f7:f8e2:e61e::/64,IPv6,SE-G
 2a02:26f7:f8e2:e61f::/64,IPv6,SE-G
-2606:54c0:52f0::/45,IPv6,SE-G
-2606:54c3:0:1434::/64,IPv6,SE-G
 2a09:bac2:52f0::/45,IPv6,SE-G
 2a09:bac3:52f0::/45,IPv6,SE-G

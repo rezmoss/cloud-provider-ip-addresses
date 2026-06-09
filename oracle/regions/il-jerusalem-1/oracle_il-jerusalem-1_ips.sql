@@ -8,15 +8,15 @@ CREATE TABLE IF NOT EXISTS `oracle_il-jerusalem-1_ips` (
 
 INSERT INTO `oracle_il-jerusalem-1_ips` (`ip_address`, `ip_type`) VALUES ('82.70.208.0/20', 'IPv4');
 INSERT INTO `oracle_il-jerusalem-1_ips` (`ip_address`, `ip_type`) VALUES ('82.70.252.0/22', 'IPv4');
-INSERT INTO `oracle_il-jerusalem-1_ips` (`ip_address`, `ip_type`) VALUES ('129.159.128.0/19', 'IPv4');
-INSERT INTO `oracle_il-jerusalem-1_ips` (`ip_address`, `ip_type`) VALUES ('130.110.238.0/24', 'IPv4');
-INSERT INTO `oracle_il-jerusalem-1_ips` (`ip_address`, `ip_type`) VALUES ('151.145.80.0/20', 'IPv4');
-INSERT INTO `oracle_il-jerusalem-1_ips` (`ip_address`, `ip_type`) VALUES ('158.178.128.0/22', 'IPv4');
-INSERT INTO `oracle_il-jerusalem-1_ips` (`ip_address`, `ip_type`) VALUES ('158.178.248.0/22', 'IPv4');
 INSERT INTO `oracle_il-jerusalem-1_ips` (`ip_address`, `ip_type`) VALUES ('84.235.192.0/23', 'IPv4');
 INSERT INTO `oracle_il-jerusalem-1_ips` (`ip_address`, `ip_type`) VALUES ('92.5.254.0/24', 'IPv4');
 INSERT INTO `oracle_il-jerusalem-1_ips` (`ip_address`, `ip_type`) VALUES ('129.149.120.0/22', 'IPv4');
 INSERT INTO `oracle_il-jerusalem-1_ips` (`ip_address`, `ip_type`) VALUES ('129.149.126.0/25', 'IPv4');
+INSERT INTO `oracle_il-jerusalem-1_ips` (`ip_address`, `ip_type`) VALUES ('129.159.128.0/19', 'IPv4');
+INSERT INTO `oracle_il-jerusalem-1_ips` (`ip_address`, `ip_type`) VALUES ('130.110.238.0/24', 'IPv4');
 INSERT INTO `oracle_il-jerusalem-1_ips` (`ip_address`, `ip_type`) VALUES ('134.70.172.0/22', 'IPv4');
 INSERT INTO `oracle_il-jerusalem-1_ips` (`ip_address`, `ip_type`) VALUES ('140.91.76.0/23', 'IPv4');
 INSERT INTO `oracle_il-jerusalem-1_ips` (`ip_address`, `ip_type`) VALUES ('140.204.108.128/25', 'IPv4');
+INSERT INTO `oracle_il-jerusalem-1_ips` (`ip_address`, `ip_type`) VALUES ('151.145.80.0/20', 'IPv4');
+INSERT INTO `oracle_il-jerusalem-1_ips` (`ip_address`, `ip_type`) VALUES ('158.178.128.0/22', 'IPv4');
+INSERT INTO `oracle_il-jerusalem-1_ips` (`ip_address`, `ip_type`) VALUES ('158.178.248.0/22', 'IPv4');

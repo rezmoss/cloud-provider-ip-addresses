@@ -30,6 +30,16 @@
     "region": "MX-BCS"
   },
   {
+    "ip_address": "2606:54c0:49c0::/45",
+    "ip_type": "IPv6",
+    "region": "MX-BCS"
+  },
+  {
+    "ip_address": "2606:54c3:0:162a::/64",
+    "ip_type": "IPv6",
+    "region": "MX-BCS"
+  },
+  {
     "ip_address": "2a02:26f7:bf80:5500::/64",
     "ip_type": "IPv6",
     "region": "MX-BCS"
@@ -56,16 +66,6 @@
   },
   {
     "ip_address": "2a02:26f7:bf90:5500::/64",
-    "ip_type": "IPv6",
-    "region": "MX-BCS"
-  },
-  {
-    "ip_address": "2606:54c0:49c0::/45",
-    "ip_type": "IPv6",
-    "region": "MX-BCS"
-  },
-  {
-    "ip_address": "2606:54c3:0:162a::/64",
     "ip_type": "IPv6",
     "region": "MX-BCS"
   },

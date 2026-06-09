@@ -255,12 +255,12 @@
     "region": "US-NJ"
   },
   {
-    "ip_address": "208.167.225.0/24",
+    "ip_address": "208.167.224.0/19",
     "ip_type": "IPv4",
     "region": "US-NJ"
   },
   {
-    "ip_address": "208.167.224.0/19",
+    "ip_address": "208.167.225.0/24",
     "ip_type": "IPv4",
     "region": "US-NJ"
   },

@@ -110,12 +110,12 @@
     "region": "US-GA"
   },
   {
-    "ip_address": "2a05:f487:fc0d::/48",
+    "ip_address": "2001:19f0:5404::/48",
     "ip_type": "IPv6",
     "region": "US-GA"
   },
   {
-    "ip_address": "2001:19f0:5404::/48",
+    "ip_address": "2a05:f487:fc0d::/48",
     "ip_type": "IPv6",
     "region": "US-GA"
   }

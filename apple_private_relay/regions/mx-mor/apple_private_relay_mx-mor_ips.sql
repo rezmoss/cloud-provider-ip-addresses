@@ -6,6 +6,10 @@ CREATE TABLE IF NOT EXISTS `apple_private_relay_mx-mor_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `apple_private_relay_mx-mor_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:4af0::/45', 'IPv6');
+INSERT INTO `apple_private_relay_mx-mor_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:4af8::/45', 'IPv6');
+INSERT INTO `apple_private_relay_mx-mor_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:1f4::/64', 'IPv6');
+INSERT INTO `apple_private_relay_mx-mor_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:108b::/64', 'IPv6');
 INSERT INTO `apple_private_relay_mx-mor_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:c000:5c3b::/64', 'IPv6');
 INSERT INTO `apple_private_relay_mx-mor_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:c000:5c3c::/64', 'IPv6');
 INSERT INTO `apple_private_relay_mx-mor_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:c000:5c3d::/64', 'IPv6');
@@ -27,10 +31,6 @@ INSERT INTO `apple_private_relay_mx-mor_ips` (`ip_address`, `ip_type`) VALUES ('
 INSERT INTO `apple_private_relay_mx-mor_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:c018:5c3b::/64', 'IPv6');
 INSERT INTO `apple_private_relay_mx-mor_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:c018:5c3c::/64', 'IPv6');
 INSERT INTO `apple_private_relay_mx-mor_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:c018:5c3d::/64', 'IPv6');
-INSERT INTO `apple_private_relay_mx-mor_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:4af0::/45', 'IPv6');
-INSERT INTO `apple_private_relay_mx-mor_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:4af8::/45', 'IPv6');
-INSERT INTO `apple_private_relay_mx-mor_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:1f4::/64', 'IPv6');
-INSERT INTO `apple_private_relay_mx-mor_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:108b::/64', 'IPv6');
 INSERT INTO `apple_private_relay_mx-mor_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:4af0::/45', 'IPv6');
 INSERT INTO `apple_private_relay_mx-mor_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:4af8::/45', 'IPv6');
 INSERT INTO `apple_private_relay_mx-mor_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:4af0::/45', 'IPv6');

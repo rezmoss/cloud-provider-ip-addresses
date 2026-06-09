@@ -6,9 +6,9 @@ CREATE TABLE IF NOT EXISTS `oracle_eu-dublin-3_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
-INSERT INTO `oracle_eu-dublin-3_ips` (`ip_address`, `ip_type`) VALUES ('134.98.192.0/19', 'IPv4');
 INSERT INTO `oracle_eu-dublin-3_ips` (`ip_address`, `ip_type`) VALUES ('134.70.218.0/23', 'IPv4');
 INSERT INTO `oracle_eu-dublin-3_ips` (`ip_address`, `ip_type`) VALUES ('134.70.220.0/23', 'IPv4');
+INSERT INTO `oracle_eu-dublin-3_ips` (`ip_address`, `ip_type`) VALUES ('134.98.192.0/19', 'IPv4');
 INSERT INTO `oracle_eu-dublin-3_ips` (`ip_address`, `ip_type`) VALUES ('134.98.248.0/26', 'IPv4');
 INSERT INTO `oracle_eu-dublin-3_ips` (`ip_address`, `ip_type`) VALUES ('134.98.248.128/25', 'IPv4');
 INSERT INTO `oracle_eu-dublin-3_ips` (`ip_address`, `ip_type`) VALUES ('134.98.249.192/26', 'IPv4');

@@ -1,5 +1,105 @@
 [
   {
+    "ip_address": "104.28.43.212/32",
+    "ip_type": "IPv4",
+    "region": "JP-44"
+  },
+  {
+    "ip_address": "104.28.43.213/32",
+    "ip_type": "IPv4",
+    "region": "JP-44"
+  },
+  {
+    "ip_address": "104.28.67.90/32",
+    "ip_type": "IPv4",
+    "region": "JP-44"
+  },
+  {
+    "ip_address": "104.28.67.91/32",
+    "ip_type": "IPv4",
+    "region": "JP-44"
+  },
+  {
+    "ip_address": "104.28.70.90/32",
+    "ip_type": "IPv4",
+    "region": "JP-44"
+  },
+  {
+    "ip_address": "104.28.70.91/32",
+    "ip_type": "IPv4",
+    "region": "JP-44"
+  },
+  {
+    "ip_address": "104.28.83.115/32",
+    "ip_type": "IPv4",
+    "region": "JP-44"
+  },
+  {
+    "ip_address": "104.28.83.116/32",
+    "ip_type": "IPv4",
+    "region": "JP-44"
+  },
+  {
+    "ip_address": "104.28.99.111/32",
+    "ip_type": "IPv4",
+    "region": "JP-44"
+  },
+  {
+    "ip_address": "104.28.99.112/32",
+    "ip_type": "IPv4",
+    "region": "JP-44"
+  },
+  {
+    "ip_address": "104.28.101.111/32",
+    "ip_type": "IPv4",
+    "region": "JP-44"
+  },
+  {
+    "ip_address": "104.28.101.112/32",
+    "ip_type": "IPv4",
+    "region": "JP-44"
+  },
+  {
+    "ip_address": "104.28.118.84/32",
+    "ip_type": "IPv4",
+    "region": "JP-44"
+  },
+  {
+    "ip_address": "104.28.118.85/32",
+    "ip_type": "IPv4",
+    "region": "JP-44"
+  },
+  {
+    "ip_address": "104.28.121.84/32",
+    "ip_type": "IPv4",
+    "region": "JP-44"
+  },
+  {
+    "ip_address": "104.28.121.85/32",
+    "ip_type": "IPv4",
+    "region": "JP-44"
+  },
+  {
+    "ip_address": "2606:54c0:45d8::/45",
+    "ip_type": "IPv6",
+    "region": "JP-44"
+  },
+  {
+    "ip_address": "2606:54c0:45e0::/45",
+    "ip_type": "IPv6",
+    "region": "JP-44"
+  },
+  {
+    "ip_address": "2606:54c3:0:6b6::/64",
+    "ip_type": "IPv6",
+    "region": "JP-44"
+  },
+  {
+    "ip_address": "2606:54c3:0:102e::/64",
+    "ip_type": "IPv6",
+    "region": "JP-44"
+  },
+  {
     "ip_address": "2a02:26f7:b980:6154::/64",
     "ip_type": "IPv6",
     "region": "JP-44"
@@ -276,106 +376,6 @@
   },
   {
     "ip_address": "2a02:26f7:b9b4:6157::/64",
-    "ip_type": "IPv6",
-    "region": "JP-44"
-  },
-  {
-    "ip_address": "104.28.43.212/32",
-    "ip_type": "IPv4",
-    "region": "JP-44"
-  },
-  {
-    "ip_address": "104.28.43.213/32",
-    "ip_type": "IPv4",
-    "region": "JP-44"
-  },
-  {
-    "ip_address": "104.28.67.90/32",
-    "ip_type": "IPv4",
-    "region": "JP-44"
-  },
-  {
-    "ip_address": "104.28.67.91/32",
-    "ip_type": "IPv4",
-    "region": "JP-44"
-  },
-  {
-    "ip_address": "104.28.70.90/32",
-    "ip_type": "IPv4",
-    "region": "JP-44"
-  },
-  {
-    "ip_address": "104.28.70.91/32",
-    "ip_type": "IPv4",
-    "region": "JP-44"
-  },
-  {
-    "ip_address": "104.28.83.115/32",
-    "ip_type": "IPv4",
-    "region": "JP-44"
-  },
-  {
-    "ip_address": "104.28.83.116/32",
-    "ip_type": "IPv4",
-    "region": "JP-44"
-  },
-  {
-    "ip_address": "104.28.99.111/32",
-    "ip_type": "IPv4",
-    "region": "JP-44"
-  },
-  {
-    "ip_address": "104.28.99.112/32",
-    "ip_type": "IPv4",
-    "region": "JP-44"
-  },
-  {
-    "ip_address": "104.28.101.111/32",
-    "ip_type": "IPv4",
-    "region": "JP-44"
-  },
-  {
-    "ip_address": "104.28.101.112/32",
-    "ip_type": "IPv4",
-    "region": "JP-44"
-  },
-  {
-    "ip_address": "104.28.118.84/32",
-    "ip_type": "IPv4",
-    "region": "JP-44"
-  },
-  {
-    "ip_address": "104.28.118.85/32",
-    "ip_type": "IPv4",
-    "region": "JP-44"
-  },
-  {
-    "ip_address": "104.28.121.84/32",
-    "ip_type": "IPv4",
-    "region": "JP-44"
-  },
-  {
-    "ip_address": "104.28.121.85/32",
-    "ip_type": "IPv4",
-    "region": "JP-44"
-  },
-  {
-    "ip_address": "2606:54c0:45d8::/45",
-    "ip_type": "IPv6",
-    "region": "JP-44"
-  },
-  {
-    "ip_address": "2606:54c0:45e0::/45",
-    "ip_type": "IPv6",
-    "region": "JP-44"
-  },
-  {
-    "ip_address": "2606:54c3:0:6b6::/64",
-    "ip_type": "IPv6",
-    "region": "JP-44"
-  },
-  {
-    "ip_address": "2606:54c3:0:102e::/64",
     "ip_type": "IPv6",
     "region": "JP-44"
   },

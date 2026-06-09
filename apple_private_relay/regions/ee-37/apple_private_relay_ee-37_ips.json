@@ -50,22 +50,27 @@
     "region": "EE-37"
   },
   {
+    "ip_address": "140.248.34.74/31",
+    "ip_type": "IPv4",
+    "region": "EE-37"
+  },
+  {
+    "ip_address": "140.248.36.100/31",
+    "ip_type": "IPv4",
+    "region": "EE-37"
+  },
+  {
+    "ip_address": "146.75.169.74/31",
+    "ip_type": "IPv4",
+    "region": "EE-37"
+  },
+  {
     "ip_address": "2606:54c0:3058::/45",
     "ip_type": "IPv6",
     "region": "EE-37"
   },
   {
     "ip_address": "2606:54c3:0:12b9::/64",
-    "ip_type": "IPv6",
-    "region": "EE-37"
-  },
-  {
-    "ip_address": "2a09:bac2:3058::/45",
-    "ip_type": "IPv6",
-    "region": "EE-37"
-  },
-  {
-    "ip_address": "2a09:bac3:3058::/45",
     "ip_type": "IPv6",
     "region": "EE-37"
   },
@@ -85,18 +90,13 @@
     "region": "EE-37"
   },
   {
-    "ip_address": "140.248.34.74/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:3058::/45",
+    "ip_type": "IPv6",
     "region": "EE-37"
   },
   {
-    "ip_address": "140.248.36.100/31",
-    "ip_type": "IPv4",
-    "region": "EE-37"
-  },
-  {
-    "ip_address": "146.75.169.74/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:3058::/45",
+    "ip_type": "IPv6",
     "region": "EE-37"
   }
 ]

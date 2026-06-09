@@ -50,22 +50,32 @@
     "region": "GB-RDG"
   },
   {
+    "ip_address": "140.248.40.94/31",
+    "ip_type": "IPv4",
+    "region": "GB-RDG"
+  },
+  {
+    "ip_address": "146.75.168.108/31",
+    "ip_type": "IPv4",
+    "region": "GB-RDG"
+  },
+  {
+    "ip_address": "146.75.174.82/31",
+    "ip_type": "IPv4",
+    "region": "GB-RDG"
+  },
+  {
+    "ip_address": "146.75.185.108/31",
+    "ip_type": "IPv4",
+    "region": "GB-RDG"
+  },
+  {
     "ip_address": "2606:54c0:37f8::/45",
     "ip_type": "IPv6",
     "region": "GB-RDG"
   },
   {
     "ip_address": "2606:54c3:0:7a0::/64",
-    "ip_type": "IPv6",
-    "region": "GB-RDG"
-  },
-  {
-    "ip_address": "2a09:bac2:37f8::/45",
-    "ip_type": "IPv6",
-    "region": "GB-RDG"
-  },
-  {
-    "ip_address": "2a09:bac3:37f8::/45",
     "ip_type": "IPv6",
     "region": "GB-RDG"
   },
@@ -90,23 +100,13 @@
     "region": "GB-RDG"
   },
   {
-    "ip_address": "140.248.40.94/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:37f8::/45",
+    "ip_type": "IPv6",
     "region": "GB-RDG"
   },
   {
-    "ip_address": "146.75.168.108/31",
-    "ip_type": "IPv4",
-    "region": "GB-RDG"
-  },
-  {
-    "ip_address": "146.75.174.82/31",
-    "ip_type": "IPv4",
-    "region": "GB-RDG"
-  },
-  {
-    "ip_address": "146.75.185.108/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:37f8::/45",
+    "ip_type": "IPv6",
     "region": "GB-RDG"
   }
 ]

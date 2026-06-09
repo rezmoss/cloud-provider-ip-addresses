@@ -1,5 +1,15 @@
 [
   {
+    "ip_address": "140.248.36.158/31",
+    "ip_type": "IPv4",
+    "region": "KG"
+  },
+  {
+    "ip_address": "146.75.162.38/31",
+    "ip_type": "IPv4",
+    "region": "KG"
+  },
+  {
     "ip_address": "172.225.54.96/27",
     "ip_type": "IPv4",
     "region": "KG"
@@ -207,16 +217,6 @@
   {
     "ip_address": "2a04:4e41:1825::/48",
     "ip_type": "IPv6",
-    "region": "KG"
-  },
-  {
-    "ip_address": "140.248.36.158/31",
-    "ip_type": "IPv4",
-    "region": "KG"
-  },
-  {
-    "ip_address": "146.75.162.38/31",
-    "ip_type": "IPv4",
     "region": "KG"
   }
 ]

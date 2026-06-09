@@ -1,5 +1,35 @@
 [
   {
+    "ip_address": "140.248.25.4/31",
+    "ip_type": "IPv4",
+    "region": "BO"
+  },
+  {
+    "ip_address": "140.248.32.0/31",
+    "ip_type": "IPv4",
+    "region": "BO"
+  },
+  {
+    "ip_address": "146.75.179.4/31",
+    "ip_type": "IPv4",
+    "region": "BO"
+  },
+  {
+    "ip_address": "146.75.191.4/31",
+    "ip_type": "IPv4",
+    "region": "BO"
+  },
+  {
+    "ip_address": "146.75.208.30/31",
+    "ip_type": "IPv4",
+    "region": "BO"
+  },
+  {
+    "ip_address": "146.75.221.0/31",
+    "ip_type": "IPv4",
+    "region": "BO"
+  },
+  {
     "ip_address": "172.225.84.32/28",
     "ip_type": "IPv4",
     "region": "BO"
@@ -12,6 +42,16 @@
   {
     "ip_address": "172.225.232.0/28",
     "ip_type": "IPv4",
+    "region": "BO"
+  },
+  {
+    "ip_address": "2606:54c0:530::/45",
+    "ip_type": "IPv6",
+    "region": "BO"
+  },
+  {
+    "ip_address": "2606:54c3:0:16ea::/64",
+    "ip_type": "IPv6",
     "region": "BO"
   },
   {
@@ -165,26 +205,6 @@
     "region": "BO"
   },
   {
-    "ip_address": "2606:54c0:530::/45",
-    "ip_type": "IPv6",
-    "region": "BO"
-  },
-  {
-    "ip_address": "2606:54c3:0:16ea::/64",
-    "ip_type": "IPv6",
-    "region": "BO"
-  },
-  {
-    "ip_address": "2a09:bac2:530::/45",
-    "ip_type": "IPv6",
-    "region": "BO"
-  },
-  {
-    "ip_address": "2a09:bac3:530::/45",
-    "ip_type": "IPv6",
-    "region": "BO"
-  },
-  {
     "ip_address": "2a04:4e41:188::/48",
     "ip_type": "IPv6",
     "region": "BO"
@@ -215,33 +235,13 @@
     "region": "BO"
   },
   {
-    "ip_address": "140.248.25.4/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:530::/45",
+    "ip_type": "IPv6",
     "region": "BO"
   },
   {
-    "ip_address": "140.248.32.0/31",
-    "ip_type": "IPv4",
-    "region": "BO"
-  },
-  {
-    "ip_address": "146.75.179.4/31",
-    "ip_type": "IPv4",
-    "region": "BO"
-  },
-  {
-    "ip_address": "146.75.191.4/31",
-    "ip_type": "IPv4",
-    "region": "BO"
-  },
-  {
-    "ip_address": "146.75.208.30/31",
-    "ip_type": "IPv4",
-    "region": "BO"
-  },
-  {
-    "ip_address": "146.75.221.0/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:530::/45",
+    "ip_type": "IPv6",
     "region": "BO"
   }
 ]

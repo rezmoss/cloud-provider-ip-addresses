@@ -1,5 +1,30 @@
 [
   {
+    "ip_address": "140.248.20.8/31",
+    "ip_type": "IPv4",
+    "region": "FM"
+  },
+  {
+    "ip_address": "146.75.132.20/31",
+    "ip_type": "IPv4",
+    "region": "FM"
+  },
+  {
+    "ip_address": "146.75.136.8/31",
+    "ip_type": "IPv4",
+    "region": "FM"
+  },
+  {
+    "ip_address": "146.75.160.20/31",
+    "ip_type": "IPv4",
+    "region": "FM"
+  },
+  {
+    "ip_address": "146.75.187.6/31",
+    "ip_type": "IPv4",
+    "region": "FM"
+  },
+  {
     "ip_address": "172.225.54.32/27",
     "ip_type": "IPv4",
     "region": "FM"
@@ -142,31 +167,6 @@
   {
     "ip_address": "2a04:4e41:760b::/48",
     "ip_type": "IPv6",
-    "region": "FM"
-  },
-  {
-    "ip_address": "140.248.20.8/31",
-    "ip_type": "IPv4",
-    "region": "FM"
-  },
-  {
-    "ip_address": "146.75.132.20/31",
-    "ip_type": "IPv4",
-    "region": "FM"
-  },
-  {
-    "ip_address": "146.75.136.8/31",
-    "ip_type": "IPv4",
-    "region": "FM"
-  },
-  {
-    "ip_address": "146.75.160.20/31",
-    "ip_type": "IPv4",
-    "region": "FM"
-  },
-  {
-    "ip_address": "146.75.187.6/31",
-    "ip_type": "IPv4",
     "region": "FM"
   }
 ]

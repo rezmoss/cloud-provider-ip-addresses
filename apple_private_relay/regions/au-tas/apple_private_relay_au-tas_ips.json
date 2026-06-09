@@ -1,5 +1,80 @@
 [
   {
+    "ip_address": "104.28.28.42/32",
+    "ip_type": "IPv4",
+    "region": "AU-TAS"
+  },
+  {
+    "ip_address": "104.28.28.43/32",
+    "ip_type": "IPv4",
+    "region": "AU-TAS"
+  },
+  {
+    "ip_address": "104.28.29.35/32",
+    "ip_type": "IPv4",
+    "region": "AU-TAS"
+  },
+  {
+    "ip_address": "104.28.29.36/32",
+    "ip_type": "IPv4",
+    "region": "AU-TAS"
+  },
+  {
+    "ip_address": "104.28.35.40/32",
+    "ip_type": "IPv4",
+    "region": "AU-TAS"
+  },
+  {
+    "ip_address": "104.28.35.41/32",
+    "ip_type": "IPv4",
+    "region": "AU-TAS"
+  },
+  {
+    "ip_address": "104.28.90.44/32",
+    "ip_type": "IPv4",
+    "region": "AU-TAS"
+  },
+  {
+    "ip_address": "104.28.90.45/32",
+    "ip_type": "IPv4",
+    "region": "AU-TAS"
+  },
+  {
+    "ip_address": "104.28.125.44/32",
+    "ip_type": "IPv4",
+    "region": "AU-TAS"
+  },
+  {
+    "ip_address": "104.28.125.45/32",
+    "ip_type": "IPv4",
+    "region": "AU-TAS"
+  },
+  {
+    "ip_address": "104.28.146.161/32",
+    "ip_type": "IPv4",
+    "region": "AU-TAS"
+  },
+  {
+    "ip_address": "146.75.190.44/31",
+    "ip_type": "IPv4",
+    "region": "AU-TAS"
+  },
+  {
+    "ip_address": "146.75.209.10/31",
+    "ip_type": "IPv4",
+    "region": "AU-TAS"
+  },
+  {
+    "ip_address": "146.75.213.16/31",
+    "ip_type": "IPv4",
+    "region": "AU-TAS"
+  },
+  {
+    "ip_address": "146.75.220.10/31",
+    "ip_type": "IPv4",
+    "region": "AU-TAS"
+  },
+  {
     "ip_address": "172.225.60.166/31",
     "ip_type": "IPv4",
     "region": "AU-TAS"
@@ -22,6 +97,36 @@
   {
     "ip_address": "172.226.146.26/31",
     "ip_type": "IPv4",
+    "region": "AU-TAS"
+  },
+  {
+    "ip_address": "2606:54c0:360::/45",
+    "ip_type": "IPv6",
+    "region": "AU-TAS"
+  },
+  {
+    "ip_address": "2606:54c0:368::/45",
+    "ip_type": "IPv6",
+    "region": "AU-TAS"
+  },
+  {
+    "ip_address": "2606:54c0:370::/45",
+    "ip_type": "IPv6",
+    "region": "AU-TAS"
+  },
+  {
+    "ip_address": "2606:54c3:0:583::/64",
+    "ip_type": "IPv6",
+    "region": "AU-TAS"
+  },
+  {
+    "ip_address": "2606:54c3:0:b97::/64",
+    "ip_type": "IPv6",
+    "region": "AU-TAS"
+  },
+  {
+    "ip_address": "2606:54c3:0:1751::/64",
+    "ip_type": "IPv6",
     "region": "AU-TAS"
   },
   {
@@ -200,87 +305,22 @@
     "region": "AU-TAS"
   },
   {
-    "ip_address": "104.28.28.42/32",
-    "ip_type": "IPv4",
-    "region": "AU-TAS"
-  },
-  {
-    "ip_address": "104.28.28.43/32",
-    "ip_type": "IPv4",
-    "region": "AU-TAS"
-  },
-  {
-    "ip_address": "104.28.29.35/32",
-    "ip_type": "IPv4",
-    "region": "AU-TAS"
-  },
-  {
-    "ip_address": "104.28.29.36/32",
-    "ip_type": "IPv4",
-    "region": "AU-TAS"
-  },
-  {
-    "ip_address": "104.28.35.40/32",
-    "ip_type": "IPv4",
-    "region": "AU-TAS"
-  },
-  {
-    "ip_address": "104.28.35.41/32",
-    "ip_type": "IPv4",
-    "region": "AU-TAS"
-  },
-  {
-    "ip_address": "104.28.90.44/32",
-    "ip_type": "IPv4",
-    "region": "AU-TAS"
-  },
-  {
-    "ip_address": "104.28.90.45/32",
-    "ip_type": "IPv4",
-    "region": "AU-TAS"
-  },
-  {
-    "ip_address": "104.28.125.44/32",
-    "ip_type": "IPv4",
-    "region": "AU-TAS"
-  },
-  {
-    "ip_address": "104.28.125.45/32",
-    "ip_type": "IPv4",
-    "region": "AU-TAS"
-  },
-  {
-    "ip_address": "104.28.146.161/32",
-    "ip_type": "IPv4",
-    "region": "AU-TAS"
-  },
-  {
-    "ip_address": "2606:54c0:360::/45",
+    "ip_address": "2a04:4e41:300:4000::/52",
     "ip_type": "IPv6",
     "region": "AU-TAS"
   },
   {
-    "ip_address": "2606:54c0:368::/45",
+    "ip_address": "2a04:4e41:4d00:4000::/52",
     "ip_type": "IPv6",
     "region": "AU-TAS"
   },
   {
-    "ip_address": "2606:54c0:370::/45",
+    "ip_address": "2a04:4e41:5900:4000::/52",
     "ip_type": "IPv6",
     "region": "AU-TAS"
   },
   {
-    "ip_address": "2606:54c3:0:583::/64",
-    "ip_type": "IPv6",
-    "region": "AU-TAS"
-  },
-  {
-    "ip_address": "2606:54c3:0:b97::/64",
-    "ip_type": "IPv6",
-    "region": "AU-TAS"
-  },
-  {
-    "ip_address": "2606:54c3:0:1751::/64",
+    "ip_address": "2a04:4e41:6800:8000::/52",
     "ip_type": "IPv6",
     "region": "AU-TAS"
   },
@@ -312,46 +352,6 @@
   {
     "ip_address": "2a09:bac3:370::/45",
     "ip_type": "IPv6",
-    "region": "AU-TAS"
-  },
-  {
-    "ip_address": "2a04:4e41:300:4000::/52",
-    "ip_type": "IPv6",
-    "region": "AU-TAS"
-  },
-  {
-    "ip_address": "2a04:4e41:4d00:4000::/52",
-    "ip_type": "IPv6",
-    "region": "AU-TAS"
-  },
-  {
-    "ip_address": "2a04:4e41:5900:4000::/52",
-    "ip_type": "IPv6",
-    "region": "AU-TAS"
-  },
-  {
-    "ip_address": "2a04:4e41:6800:8000::/52",
-    "ip_type": "IPv6",
-    "region": "AU-TAS"
-  },
-  {
-    "ip_address": "146.75.190.44/31",
-    "ip_type": "IPv4",
-    "region": "AU-TAS"
-  },
-  {
-    "ip_address": "146.75.209.10/31",
-    "ip_type": "IPv4",
-    "region": "AU-TAS"
-  },
-  {
-    "ip_address": "146.75.213.16/31",
-    "ip_type": "IPv4",
-    "region": "AU-TAS"
-  },
-  {
-    "ip_address": "146.75.220.10/31",
-    "ip_type": "IPv4",
     "region": "AU-TAS"
   }
 ]

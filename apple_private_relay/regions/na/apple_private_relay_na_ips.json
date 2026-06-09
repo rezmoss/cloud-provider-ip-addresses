@@ -1,5 +1,30 @@
 [
   {
+    "ip_address": "146.75.168.150/31",
+    "ip_type": "IPv4",
+    "region": "NA"
+  },
+  {
+    "ip_address": "146.75.182.48/31",
+    "ip_type": "IPv4",
+    "region": "NA"
+  },
+  {
+    "ip_address": "146.75.185.150/31",
+    "ip_type": "IPv4",
+    "region": "NA"
+  },
+  {
+    "ip_address": "146.75.210.48/31",
+    "ip_type": "IPv4",
+    "region": "NA"
+  },
+  {
+    "ip_address": "146.75.224.0/31",
+    "ip_type": "IPv4",
+    "region": "NA"
+  },
+  {
     "ip_address": "172.225.82.192/27",
     "ip_type": "IPv4",
     "region": "NA"
@@ -142,31 +167,6 @@
   {
     "ip_address": "2a04:4e41:7810::/48",
     "ip_type": "IPv6",
-    "region": "NA"
-  },
-  {
-    "ip_address": "146.75.168.150/31",
-    "ip_type": "IPv4",
-    "region": "NA"
-  },
-  {
-    "ip_address": "146.75.182.48/31",
-    "ip_type": "IPv4",
-    "region": "NA"
-  },
-  {
-    "ip_address": "146.75.185.150/31",
-    "ip_type": "IPv4",
-    "region": "NA"
-  },
-  {
-    "ip_address": "146.75.210.48/31",
-    "ip_type": "IPv4",
-    "region": "NA"
-  },
-  {
-    "ip_address": "146.75.224.0/31",
-    "ip_type": "IPv4",
     "region": "NA"
   }
 ]

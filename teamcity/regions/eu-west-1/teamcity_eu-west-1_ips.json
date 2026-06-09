@@ -1,24 +1,24 @@
 [
   {
-    "ip_address": "52.49.162.42/32",
+    "ip_address": "34.251.114.150/32",
     "ip_type": "IPv4",
-    "service": "teamcity-agents",
-    "region": "eu-west-1"
-  },
-  {
-    "ip_address": "52.214.29.36/32",
-    "ip_type": "IPv4",
-    "service": "teamcity-agents",
-    "region": "eu-west-1"
-  },
-  {
-    "ip_address": "185.223.133.26/32",
-    "ip_type": "IPv4",
-    "service": "teamcity-agents",
+    "service": "teamcity-servers",
     "region": "eu-west-1"
   },
   {
     "ip_address": "34.255.77.87/32",
+    "ip_type": "IPv4",
+    "service": "teamcity-agents",
+    "region": "eu-west-1"
+  },
+  {
+    "ip_address": "52.17.73.242/32",
+    "ip_type": "IPv4",
+    "service": "teamcity-servers",
+    "region": "eu-west-1"
+  },
+  {
+    "ip_address": "52.49.162.42/32",
     "ip_type": "IPv4",
     "service": "teamcity-agents",
     "region": "eu-west-1"
@@ -30,13 +30,19 @@
     "region": "eu-west-1"
   },
   {
-    "ip_address": "54.155.204.237/32",
+    "ip_address": "52.209.101.160/32",
     "ip_type": "IPv4",
     "service": "teamcity-servers",
     "region": "eu-west-1"
   },
   {
-    "ip_address": "79.125.74.147/32",
+    "ip_address": "52.214.29.36/32",
+    "ip_type": "IPv4",
+    "service": "teamcity-agents",
+    "region": "eu-west-1"
+  },
+  {
+    "ip_address": "54.155.204.237/32",
     "ip_type": "IPv4",
     "service": "teamcity-servers",
     "region": "eu-west-1"
@@ -48,21 +54,15 @@
     "region": "eu-west-1"
   },
   {
-    "ip_address": "52.17.73.242/32",
+    "ip_address": "79.125.74.147/32",
     "ip_type": "IPv4",
     "service": "teamcity-servers",
     "region": "eu-west-1"
   },
   {
-    "ip_address": "52.209.101.160/32",
+    "ip_address": "185.223.133.26/32",
     "ip_type": "IPv4",
-    "service": "teamcity-servers",
-    "region": "eu-west-1"
-  },
-  {
-    "ip_address": "34.251.114.150/32",
-    "ip_type": "IPv4",
-    "service": "teamcity-servers",
+    "service": "teamcity-agents",
     "region": "eu-west-1"
   }
 ]

@@ -65,22 +65,37 @@
     "region": "UZ-TK"
   },
   {
+    "ip_address": "140.248.34.240/31",
+    "ip_type": "IPv4",
+    "region": "UZ-TK"
+  },
+  {
+    "ip_address": "140.248.37.76/31",
+    "ip_type": "IPv4",
+    "region": "UZ-TK"
+  },
+  {
+    "ip_address": "146.75.132.164/31",
+    "ip_type": "IPv4",
+    "region": "UZ-TK"
+  },
+  {
+    "ip_address": "146.75.160.164/31",
+    "ip_type": "IPv4",
+    "region": "UZ-TK"
+  },
+  {
+    "ip_address": "146.75.169.240/31",
+    "ip_type": "IPv4",
+    "region": "UZ-TK"
+  },
+  {
     "ip_address": "2606:54c0:d248::/45",
     "ip_type": "IPv6",
     "region": "UZ-TK"
   },
   {
     "ip_address": "2606:54c3:0:886::/64",
-    "ip_type": "IPv6",
-    "region": "UZ-TK"
-  },
-  {
-    "ip_address": "2a09:bac2:d248::/45",
-    "ip_type": "IPv6",
-    "region": "UZ-TK"
-  },
-  {
-    "ip_address": "2a09:bac3:d248::/45",
     "ip_type": "IPv6",
     "region": "UZ-TK"
   },
@@ -110,28 +125,13 @@
     "region": "UZ-TK"
   },
   {
-    "ip_address": "140.248.34.240/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:d248::/45",
+    "ip_type": "IPv6",
     "region": "UZ-TK"
   },
   {
-    "ip_address": "140.248.37.76/31",
-    "ip_type": "IPv4",
-    "region": "UZ-TK"
-  },
-  {
-    "ip_address": "146.75.132.164/31",
-    "ip_type": "IPv4",
-    "region": "UZ-TK"
-  },
-  {
-    "ip_address": "146.75.160.164/31",
-    "ip_type": "IPv4",
-    "region": "UZ-TK"
-  },
-  {
-    "ip_address": "146.75.169.240/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:d248::/45",
+    "ip_type": "IPv6",
     "region": "UZ-TK"
   }
 ]

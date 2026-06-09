@@ -6,11 +6,11 @@ CREATE TABLE IF NOT EXISTS `oracle_us-saltlake-2_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
-INSERT INTO `oracle_us-saltlake-2_ips` (`ip_address`, `ip_type`) VALUES ('151.106.160.0/19', 'IPv4');
 INSERT INTO `oracle_us-saltlake-2_ips` (`ip_address`, `ip_type`) VALUES ('134.70.202.0/23', 'IPv4');
 INSERT INTO `oracle_us-saltlake-2_ips` (`ip_address`, `ip_type`) VALUES ('134.70.204.0/23', 'IPv4');
 INSERT INTO `oracle_us-saltlake-2_ips` (`ip_address`, `ip_type`) VALUES ('140.91.94.0/23', 'IPv4');
 INSERT INTO `oracle_us-saltlake-2_ips` (`ip_address`, `ip_type`) VALUES ('140.204.136.128/25', 'IPv4');
+INSERT INTO `oracle_us-saltlake-2_ips` (`ip_address`, `ip_type`) VALUES ('151.106.160.0/19', 'IPv4');
 INSERT INTO `oracle_us-saltlake-2_ips` (`ip_address`, `ip_type`) VALUES ('168.129.182.0/23', 'IPv4');
 INSERT INTO `oracle_us-saltlake-2_ips` (`ip_address`, `ip_type`) VALUES ('207.211.128.0/22', 'IPv4');
 INSERT INTO `oracle_us-saltlake-2_ips` (`ip_address`, `ip_type`) VALUES ('207.211.132.0/25', 'IPv4');

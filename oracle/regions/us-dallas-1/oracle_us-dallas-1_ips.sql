@@ -6,9 +6,9 @@ CREATE TABLE IF NOT EXISTS `oracle_us-dallas-1_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
-INSERT INTO `oracle_us-dallas-1_ips` (`ip_address`, `ip_type`) VALUES ('136.248.192.0/19', 'IPv4');
 INSERT INTO `oracle_us-dallas-1_ips` (`ip_address`, `ip_type`) VALUES ('134.70.206.0/23', 'IPv4');
 INSERT INTO `oracle_us-dallas-1_ips` (`ip_address`, `ip_type`) VALUES ('134.70.208.0/23', 'IPv4');
+INSERT INTO `oracle_us-dallas-1_ips` (`ip_address`, `ip_type`) VALUES ('136.248.192.0/19', 'IPv4');
 INSERT INTO `oracle_us-dallas-1_ips` (`ip_address`, `ip_type`) VALUES ('136.248.224.0/26', 'IPv4');
 INSERT INTO `oracle_us-dallas-1_ips` (`ip_address`, `ip_type`) VALUES ('136.248.224.128/25', 'IPv4');
 INSERT INTO `oracle_us-dallas-1_ips` (`ip_address`, `ip_type`) VALUES ('136.248.225.192/26', 'IPv4');

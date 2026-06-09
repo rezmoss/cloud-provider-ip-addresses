@@ -1,5 +1,55 @@
 [
   {
+    "ip_address": "104.28.48.30/32",
+    "ip_type": "IPv4",
+    "region": "MX-GUA"
+  },
+  {
+    "ip_address": "104.28.48.31/32",
+    "ip_type": "IPv4",
+    "region": "MX-GUA"
+  },
+  {
+    "ip_address": "104.28.50.27/32",
+    "ip_type": "IPv4",
+    "region": "MX-GUA"
+  },
+  {
+    "ip_address": "104.28.50.28/32",
+    "ip_type": "IPv4",
+    "region": "MX-GUA"
+  },
+  {
+    "ip_address": "104.28.91.87/32",
+    "ip_type": "IPv4",
+    "region": "MX-GUA"
+  },
+  {
+    "ip_address": "104.28.91.88/32",
+    "ip_type": "IPv4",
+    "region": "MX-GUA"
+  },
+  {
+    "ip_address": "104.28.111.38/32",
+    "ip_type": "IPv4",
+    "region": "MX-GUA"
+  },
+  {
+    "ip_address": "104.28.111.39/32",
+    "ip_type": "IPv4",
+    "region": "MX-GUA"
+  },
+  {
+    "ip_address": "104.28.126.112/32",
+    "ip_type": "IPv4",
+    "region": "MX-GUA"
+  },
+  {
+    "ip_address": "104.28.126.113/32",
+    "ip_type": "IPv4",
+    "region": "MX-GUA"
+  },
+  {
     "ip_address": "172.224.232.28/31",
     "ip_type": "IPv4",
     "region": "MX-GUA"
@@ -32,6 +82,46 @@
   {
     "ip_address": "172.226.122.48/31",
     "ip_type": "IPv4",
+    "region": "MX-GUA"
+  },
+  {
+    "ip_address": "2606:54c0:4a58::/45",
+    "ip_type": "IPv6",
+    "region": "MX-GUA"
+  },
+  {
+    "ip_address": "2606:54c0:4a60::/45",
+    "ip_type": "IPv6",
+    "region": "MX-GUA"
+  },
+  {
+    "ip_address": "2606:54c0:4a68::/45",
+    "ip_type": "IPv6",
+    "region": "MX-GUA"
+  },
+  {
+    "ip_address": "2606:54c0:4a70::/45",
+    "ip_type": "IPv6",
+    "region": "MX-GUA"
+  },
+  {
+    "ip_address": "2606:54c3:0:475::/64",
+    "ip_type": "IPv6",
+    "region": "MX-GUA"
+  },
+  {
+    "ip_address": "2606:54c3:0:1282::/64",
+    "ip_type": "IPv6",
+    "region": "MX-GUA"
+  },
+  {
+    "ip_address": "2606:54c3:0:1774::/64",
+    "ip_type": "IPv6",
+    "region": "MX-GUA"
+  },
+  {
+    "ip_address": "2606:54c3:0:1941::/64",
+    "ip_type": "IPv6",
     "region": "MX-GUA"
   },
   {
@@ -206,96 +296,6 @@
   },
   {
     "ip_address": "2a02:26f7:c018:5c22::/64",
-    "ip_type": "IPv6",
-    "region": "MX-GUA"
-  },
-  {
-    "ip_address": "104.28.48.30/32",
-    "ip_type": "IPv4",
-    "region": "MX-GUA"
-  },
-  {
-    "ip_address": "104.28.48.31/32",
-    "ip_type": "IPv4",
-    "region": "MX-GUA"
-  },
-  {
-    "ip_address": "104.28.50.27/32",
-    "ip_type": "IPv4",
-    "region": "MX-GUA"
-  },
-  {
-    "ip_address": "104.28.50.28/32",
-    "ip_type": "IPv4",
-    "region": "MX-GUA"
-  },
-  {
-    "ip_address": "104.28.91.87/32",
-    "ip_type": "IPv4",
-    "region": "MX-GUA"
-  },
-  {
-    "ip_address": "104.28.91.88/32",
-    "ip_type": "IPv4",
-    "region": "MX-GUA"
-  },
-  {
-    "ip_address": "104.28.111.38/32",
-    "ip_type": "IPv4",
-    "region": "MX-GUA"
-  },
-  {
-    "ip_address": "104.28.111.39/32",
-    "ip_type": "IPv4",
-    "region": "MX-GUA"
-  },
-  {
-    "ip_address": "104.28.126.112/32",
-    "ip_type": "IPv4",
-    "region": "MX-GUA"
-  },
-  {
-    "ip_address": "104.28.126.113/32",
-    "ip_type": "IPv4",
-    "region": "MX-GUA"
-  },
-  {
-    "ip_address": "2606:54c0:4a58::/45",
-    "ip_type": "IPv6",
-    "region": "MX-GUA"
-  },
-  {
-    "ip_address": "2606:54c0:4a60::/45",
-    "ip_type": "IPv6",
-    "region": "MX-GUA"
-  },
-  {
-    "ip_address": "2606:54c0:4a68::/45",
-    "ip_type": "IPv6",
-    "region": "MX-GUA"
-  },
-  {
-    "ip_address": "2606:54c0:4a70::/45",
-    "ip_type": "IPv6",
-    "region": "MX-GUA"
-  },
-  {
-    "ip_address": "2606:54c3:0:475::/64",
-    "ip_type": "IPv6",
-    "region": "MX-GUA"
-  },
-  {
-    "ip_address": "2606:54c3:0:1282::/64",
-    "ip_type": "IPv6",
-    "region": "MX-GUA"
-  },
-  {
-    "ip_address": "2606:54c3:0:1774::/64",
-    "ip_type": "IPv6",
-    "region": "MX-GUA"
-  },
-  {
-    "ip_address": "2606:54c3:0:1941::/64",
     "ip_type": "IPv6",
     "region": "MX-GUA"
   },

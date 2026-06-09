@@ -175,6 +175,26 @@
     "region": "RO-B"
   },
   {
+    "ip_address": "140.248.34.186/31",
+    "ip_type": "IPv4",
+    "region": "RO-B"
+  },
+  {
+    "ip_address": "140.248.36.240/31",
+    "ip_type": "IPv4",
+    "region": "RO-B"
+  },
+  {
+    "ip_address": "146.75.169.186/31",
+    "ip_type": "IPv4",
+    "region": "RO-B"
+  },
+  {
+    "ip_address": "146.75.180.52/31",
+    "ip_type": "IPv4",
+    "region": "RO-B"
+  },
+  {
     "ip_address": "2606:54c0:5040::/45",
     "ip_type": "IPv6",
     "region": "RO-B"
@@ -191,26 +211,6 @@
   },
   {
     "ip_address": "2606:54c3:0:1970::/64",
-    "ip_type": "IPv6",
-    "region": "RO-B"
-  },
-  {
-    "ip_address": "2a09:bac2:5040::/45",
-    "ip_type": "IPv6",
-    "region": "RO-B"
-  },
-  {
-    "ip_address": "2a09:bac2:5048::/45",
-    "ip_type": "IPv6",
-    "region": "RO-B"
-  },
-  {
-    "ip_address": "2a09:bac3:5040::/45",
-    "ip_type": "IPv6",
-    "region": "RO-B"
-  },
-  {
-    "ip_address": "2a09:bac3:5048::/45",
     "ip_type": "IPv6",
     "region": "RO-B"
   },
@@ -235,23 +235,23 @@
     "region": "RO-B"
   },
   {
-    "ip_address": "140.248.34.186/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:5040::/45",
+    "ip_type": "IPv6",
     "region": "RO-B"
   },
   {
-    "ip_address": "140.248.36.240/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:5048::/45",
+    "ip_type": "IPv6",
     "region": "RO-B"
   },
   {
-    "ip_address": "146.75.169.186/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:5040::/45",
+    "ip_type": "IPv6",
     "region": "RO-B"
   },
   {
-    "ip_address": "146.75.180.52/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:5048::/45",
+    "ip_type": "IPv6",
     "region": "RO-B"
   }
 ]

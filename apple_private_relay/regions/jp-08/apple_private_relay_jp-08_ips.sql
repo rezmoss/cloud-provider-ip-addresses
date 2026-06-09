@@ -6,6 +6,10 @@ CREATE TABLE IF NOT EXISTS `apple_private_relay_jp-08_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `apple_private_relay_jp-08_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:4340::/45', 'IPv6');
+INSERT INTO `apple_private_relay_jp-08_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:4348::/45', 'IPv6');
+INSERT INTO `apple_private_relay_jp-08_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:1051::/64', 'IPv6');
+INSERT INTO `apple_private_relay_jp-08_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:1730::/64', 'IPv6');
 INSERT INTO `apple_private_relay_jp-08_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:b980:605f::/64', 'IPv6');
 INSERT INTO `apple_private_relay_jp-08_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:b980:6060::/64', 'IPv6');
 INSERT INTO `apple_private_relay_jp-08_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:b980:6061::/64', 'IPv6');
@@ -90,10 +94,6 @@ INSERT INTO `apple_private_relay_jp-08_ips` (`ip_address`, `ip_type`) VALUES ('2
 INSERT INTO `apple_private_relay_jp-08_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:b9b4:6062::/64', 'IPv6');
 INSERT INTO `apple_private_relay_jp-08_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:b9b4:6063::/64', 'IPv6');
 INSERT INTO `apple_private_relay_jp-08_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:b9b4:6064::/64', 'IPv6');
-INSERT INTO `apple_private_relay_jp-08_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:4340::/45', 'IPv6');
-INSERT INTO `apple_private_relay_jp-08_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:4348::/45', 'IPv6');
-INSERT INTO `apple_private_relay_jp-08_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:1051::/64', 'IPv6');
-INSERT INTO `apple_private_relay_jp-08_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:1730::/64', 'IPv6');
 INSERT INTO `apple_private_relay_jp-08_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:4340::/45', 'IPv6');
 INSERT INTO `apple_private_relay_jp-08_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:4348::/45', 'IPv6');
 INSERT INTO `apple_private_relay_jp-08_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:4340::/45', 'IPv6');

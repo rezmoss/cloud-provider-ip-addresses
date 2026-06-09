@@ -12,36 +12,6 @@
     "region": "af-johannesburg-1"
   },
   {
-    "ip_address": "129.151.160.0/19",
-    "ip_type": "IPv4",
-    "service": "OCI",
-    "region": "af-johannesburg-1"
-  },
-  {
-    "ip_address": "145.241.96.0/21",
-    "ip_type": "IPv4",
-    "service": "OCI",
-    "region": "af-johannesburg-1"
-  },
-  {
-    "ip_address": "145.241.184.0/21",
-    "ip_type": "IPv4",
-    "service": "OCI",
-    "region": "af-johannesburg-1"
-  },
-  {
-    "ip_address": "158.180.226.0/23",
-    "ip_type": "IPv4",
-    "service": "OCI",
-    "region": "af-johannesburg-1"
-  },
-  {
-    "ip_address": "204.216.112.0/23",
-    "ip_type": "IPv4",
-    "service": "OCI",
-    "region": "af-johannesburg-1"
-  },
-  {
     "ip_address": "129.149.64.0/22",
     "ip_type": "IPv4",
     "service": "OSN",
@@ -51,6 +21,12 @@
     "ip_address": "129.149.68.0/25",
     "ip_type": "IPv4",
     "service": "OSN",
+    "region": "af-johannesburg-1"
+  },
+  {
+    "ip_address": "129.151.160.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
     "region": "af-johannesburg-1"
   },
   {
@@ -78,9 +54,33 @@
     "region": "af-johannesburg-1"
   },
   {
+    "ip_address": "145.241.96.0/21",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "af-johannesburg-1"
+  },
+  {
+    "ip_address": "145.241.184.0/21",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "af-johannesburg-1"
+  },
+  {
     "ip_address": "158.179.196.0/24",
     "ip_type": "IPv4",
     "service": "OSN",
+    "region": "af-johannesburg-1"
+  },
+  {
+    "ip_address": "158.180.226.0/23",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "af-johannesburg-1"
+  },
+  {
+    "ip_address": "204.216.112.0/23",
+    "ip_type": "IPv4",
+    "service": "OCI",
     "region": "af-johannesburg-1"
   }
 ]

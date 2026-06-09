@@ -1,12 +1,34 @@
 #!/bin/bash
 # Apple_private_relay IP Ranges
-# Updated: 2026-02-11 17:28:47
+# Updated: 2026-06-09 22:59:43
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
 # Updates daily at 00:00 UTC
 # UFW deny rules for apple_private_relay
 
+ufw deny from 104.28.44.31/32
+ufw deny from 104.28.44.32/32
+ufw deny from 104.28.67.164/32
+ufw deny from 104.28.67.165/32
+ufw deny from 104.28.70.164/32
+ufw deny from 104.28.70.165/32
+ufw deny from 104.28.83.189/32
+ufw deny from 104.28.83.190/32
+ufw deny from 104.28.99.185/32
+ufw deny from 104.28.99.186/32
+ufw deny from 104.28.101.185/32
+ufw deny from 104.28.101.186/32
+ufw deny from 104.28.118.158/32
+ufw deny from 104.28.118.159/32
+ufw deny from 104.28.121.158/32
+ufw deny from 104.28.121.159/32
+ufw deny from 2606:54c0:4410::/45
+ufw deny from 2606:54c0:4418::/45
+ufw deny from 2606:54c0:4420::/45
+ufw deny from 2606:54c3:0:2de::/64
+ufw deny from 2606:54c3:0:1631::/64
+ufw deny from 2606:54c3:0:16e9::/64
 ufw deny from 2a02:26f7:b980:60b3::/64
 ufw deny from 2a02:26f7:b980:60b4::/64
 ufw deny from 2a02:26f7:b980:60b6::/64
@@ -161,28 +183,6 @@ ufw deny from 2a02:26f7:b9b4:60bb::/64
 ufw deny from 2a02:26f7:b9b4:60bc::/64
 ufw deny from 2a02:26f7:b9b4:60bd::/64
 ufw deny from 2a02:26f7:b9b4:60be::/64
-ufw deny from 104.28.44.31/32
-ufw deny from 104.28.44.32/32
-ufw deny from 104.28.67.164/32
-ufw deny from 104.28.67.165/32
-ufw deny from 104.28.70.164/32
-ufw deny from 104.28.70.165/32
-ufw deny from 104.28.83.189/32
-ufw deny from 104.28.83.190/32
-ufw deny from 104.28.99.185/32
-ufw deny from 104.28.99.186/32
-ufw deny from 104.28.101.185/32
-ufw deny from 104.28.101.186/32
-ufw deny from 104.28.118.158/32
-ufw deny from 104.28.118.159/32
-ufw deny from 104.28.121.158/32
-ufw deny from 104.28.121.159/32
-ufw deny from 2606:54c0:4410::/45
-ufw deny from 2606:54c0:4418::/45
-ufw deny from 2606:54c0:4420::/45
-ufw deny from 2606:54c3:0:2de::/64
-ufw deny from 2606:54c3:0:1631::/64
-ufw deny from 2606:54c3:0:16e9::/64
 ufw deny from 2a09:bac2:4410::/45
 ufw deny from 2a09:bac2:4418::/45
 ufw deny from 2a09:bac2:4420::/45

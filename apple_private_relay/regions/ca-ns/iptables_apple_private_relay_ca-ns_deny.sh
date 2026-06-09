@@ -1,12 +1,29 @@
 #!/bin/bash
 # Apple_private_relay IP Ranges
-# Updated: 2026-02-11 17:28:46
+# Updated: 2026-06-09 22:59:42
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
 # Updates daily at 00:00 UTC
 # iptables deny rules for apple_private_relay
 
+iptables -A INPUT -s 104.28.39.2/32 -j DROP
+iptables -A INPUT -s 104.28.39.3/32 -j DROP
+iptables -A INPUT -s 104.28.55.8/32 -j DROP
+iptables -A INPUT -s 104.28.55.9/32 -j DROP
+iptables -A INPUT -s 104.28.57.8/32 -j DROP
+iptables -A INPUT -s 104.28.57.9/32 -j DROP
+iptables -A INPUT -s 104.28.109.16/32 -j DROP
+iptables -A INPUT -s 104.28.109.17/32 -j DROP
+iptables -A INPUT -s 104.28.132.8/32 -j DROP
+iptables -A INPUT -s 104.28.132.9/32 -j DROP
+iptables -A INPUT -s 104.28.133.6/32 -j DROP
+iptables -A INPUT -s 104.28.133.7/32 -j DROP
+iptables -A INPUT -s 104.28.141.39/32 -j DROP
+iptables -A INPUT -s 104.28.142.145/32 -j DROP
+iptables -A INPUT -s 146.75.188.30/31 -j DROP
+iptables -A INPUT -s 146.75.207.30/31 -j DROP
+iptables -A INPUT -s 146.75.212.30/31 -j DROP
 iptables -A INPUT -s 172.225.42.0/27 -j DROP
 iptables -A INPUT -s 172.225.43.40/29 -j DROP
 iptables -A INPUT -s 172.225.44.0/27 -j DROP
@@ -15,6 +32,31 @@ iptables -A INPUT -s 172.225.138.0/27 -j DROP
 iptables -A INPUT -s 172.225.139.72/29 -j DROP
 iptables -A INPUT -s 172.226.16.88/29 -j DROP
 iptables -A INPUT -s 172.226.16.96/27 -j DROP
+ip6tables -A INPUT -s 2606:54c0:1598::/45 -j DROP
+ip6tables -A INPUT -s 2606:54c0:15a0::/45 -j DROP
+ip6tables -A INPUT -s 2606:54c0:15a8::/45 -j DROP
+ip6tables -A INPUT -s 2606:54c0:15b0::/45 -j DROP
+ip6tables -A INPUT -s 2606:54c0:15b8::/45 -j DROP
+ip6tables -A INPUT -s 2606:54c0:15c0::/45 -j DROP
+ip6tables -A INPUT -s 2606:54c0:15c8::/45 -j DROP
+ip6tables -A INPUT -s 2606:54c0:15d0::/45 -j DROP
+ip6tables -A INPUT -s 2606:54c0:15d8::/45 -j DROP
+ip6tables -A INPUT -s 2606:54c0:15e0::/45 -j DROP
+ip6tables -A INPUT -s 2606:54c0:15e8::/45 -j DROP
+ip6tables -A INPUT -s 2606:54c0:15f0::/45 -j DROP
+ip6tables -A INPUT -s 2606:54c3:0:336::/64 -j DROP
+ip6tables -A INPUT -s 2606:54c3:0:390::/64 -j DROP
+ip6tables -A INPUT -s 2606:54c3:0:512::/64 -j DROP
+ip6tables -A INPUT -s 2606:54c3:0:862::/64 -j DROP
+ip6tables -A INPUT -s 2606:54c3:0:88e::/64 -j DROP
+ip6tables -A INPUT -s 2606:54c3:0:b34::/64 -j DROP
+ip6tables -A INPUT -s 2606:54c3:0:ce1::/64 -j DROP
+ip6tables -A INPUT -s 2606:54c3:0:109a::/64 -j DROP
+ip6tables -A INPUT -s 2606:54c3:0:10dd::/64 -j DROP
+ip6tables -A INPUT -s 2606:54c3:0:1301::/64 -j DROP
+ip6tables -A INPUT -s 2606:54c3:0:14e7::/64 -j DROP
+ip6tables -A INPUT -s 2606:54c3:0:15cb::/64 -j DROP
+ip6tables -A INPUT -s 2606:54c3:0:175f::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:bc00::/54 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:bc00:400::/58 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:bc00:4000::/64 -j DROP
@@ -87,45 +129,10 @@ ip6tables -A INPUT -s 2a02:26f7:bc08:50d9::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:bc08:50da::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:bc08:50db::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:bc09:4000::/64 -j DROP
-iptables -A INPUT -s 104.28.39.2/32 -j DROP
-iptables -A INPUT -s 104.28.39.3/32 -j DROP
-iptables -A INPUT -s 104.28.55.8/32 -j DROP
-iptables -A INPUT -s 104.28.55.9/32 -j DROP
-iptables -A INPUT -s 104.28.57.8/32 -j DROP
-iptables -A INPUT -s 104.28.57.9/32 -j DROP
-iptables -A INPUT -s 104.28.109.16/32 -j DROP
-iptables -A INPUT -s 104.28.109.17/32 -j DROP
-iptables -A INPUT -s 104.28.132.8/32 -j DROP
-iptables -A INPUT -s 104.28.132.9/32 -j DROP
-iptables -A INPUT -s 104.28.133.6/32 -j DROP
-iptables -A INPUT -s 104.28.133.7/32 -j DROP
-iptables -A INPUT -s 104.28.141.39/32 -j DROP
-iptables -A INPUT -s 104.28.142.145/32 -j DROP
-ip6tables -A INPUT -s 2606:54c0:1598::/45 -j DROP
-ip6tables -A INPUT -s 2606:54c0:15a0::/45 -j DROP
-ip6tables -A INPUT -s 2606:54c0:15a8::/45 -j DROP
-ip6tables -A INPUT -s 2606:54c0:15b0::/45 -j DROP
-ip6tables -A INPUT -s 2606:54c0:15b8::/45 -j DROP
-ip6tables -A INPUT -s 2606:54c0:15c0::/45 -j DROP
-ip6tables -A INPUT -s 2606:54c0:15c8::/45 -j DROP
-ip6tables -A INPUT -s 2606:54c0:15d0::/45 -j DROP
-ip6tables -A INPUT -s 2606:54c0:15d8::/45 -j DROP
-ip6tables -A INPUT -s 2606:54c0:15e0::/45 -j DROP
-ip6tables -A INPUT -s 2606:54c0:15e8::/45 -j DROP
-ip6tables -A INPUT -s 2606:54c0:15f0::/45 -j DROP
-ip6tables -A INPUT -s 2606:54c3:0:336::/64 -j DROP
-ip6tables -A INPUT -s 2606:54c3:0:390::/64 -j DROP
-ip6tables -A INPUT -s 2606:54c3:0:512::/64 -j DROP
-ip6tables -A INPUT -s 2606:54c3:0:862::/64 -j DROP
-ip6tables -A INPUT -s 2606:54c3:0:88e::/64 -j DROP
-ip6tables -A INPUT -s 2606:54c3:0:b34::/64 -j DROP
-ip6tables -A INPUT -s 2606:54c3:0:ce1::/64 -j DROP
-ip6tables -A INPUT -s 2606:54c3:0:109a::/64 -j DROP
-ip6tables -A INPUT -s 2606:54c3:0:10dd::/64 -j DROP
-ip6tables -A INPUT -s 2606:54c3:0:1301::/64 -j DROP
-ip6tables -A INPUT -s 2606:54c3:0:14e7::/64 -j DROP
-ip6tables -A INPUT -s 2606:54c3:0:15cb::/64 -j DROP
-ip6tables -A INPUT -s 2606:54c3:0:175f::/64 -j DROP
+ip6tables -A INPUT -s 2a04:4e41:003b:000f::/64 -j DROP
+ip6tables -A INPUT -s 2a04:4e41:4ce0:d000::/52 -j DROP
+ip6tables -A INPUT -s 2a04:4e41:6900:d000::/52 -j DROP
+ip6tables -A INPUT -s 2a04:4e41:6920:d000::/52 -j DROP
 ip6tables -A INPUT -s 2a09:bac2:1598::/45 -j DROP
 ip6tables -A INPUT -s 2a09:bac2:15a0::/45 -j DROP
 ip6tables -A INPUT -s 2a09:bac2:15a8::/45 -j DROP
@@ -152,10 +159,3 @@ ip6tables -A INPUT -s 2a09:bac3:15e0::/45 -j DROP
 ip6tables -A INPUT -s 2a09:bac3:15e8::/45 -j DROP
 ip6tables -A INPUT -s 2a09:bac3:15f0::/45 -j DROP
 ip6tables -A INPUT -s 2a09:bac3:d4a0::/45 -j DROP
-ip6tables -A INPUT -s 2a04:4e41:003b:000f::/64 -j DROP
-ip6tables -A INPUT -s 2a04:4e41:4ce0:d000::/52 -j DROP
-ip6tables -A INPUT -s 2a04:4e41:6900:d000::/52 -j DROP
-ip6tables -A INPUT -s 2a04:4e41:6920:d000::/52 -j DROP
-iptables -A INPUT -s 146.75.188.30/31 -j DROP
-iptables -A INPUT -s 146.75.207.30/31 -j DROP
-iptables -A INPUT -s 146.75.212.30/31 -j DROP

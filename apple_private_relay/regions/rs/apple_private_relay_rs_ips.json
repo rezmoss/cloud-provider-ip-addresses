@@ -1,5 +1,140 @@
 [
   {
+    "ip_address": "104.28.60.188/32",
+    "ip_type": "IPv4",
+    "region": "RS"
+  },
+  {
+    "ip_address": "104.28.60.189/32",
+    "ip_type": "IPv4",
+    "region": "RS"
+  },
+  {
+    "ip_address": "104.28.60.190/32",
+    "ip_type": "IPv4",
+    "region": "RS"
+  },
+  {
+    "ip_address": "104.28.60.191/32",
+    "ip_type": "IPv4",
+    "region": "RS"
+  },
+  {
+    "ip_address": "104.28.80.234/32",
+    "ip_type": "IPv4",
+    "region": "RS"
+  },
+  {
+    "ip_address": "104.28.80.235/32",
+    "ip_type": "IPv4",
+    "region": "RS"
+  },
+  {
+    "ip_address": "104.28.106.199/32",
+    "ip_type": "IPv4",
+    "region": "RS"
+  },
+  {
+    "ip_address": "104.28.106.200/32",
+    "ip_type": "IPv4",
+    "region": "RS"
+  },
+  {
+    "ip_address": "104.28.106.201/32",
+    "ip_type": "IPv4",
+    "region": "RS"
+  },
+  {
+    "ip_address": "104.28.106.202/32",
+    "ip_type": "IPv4",
+    "region": "RS"
+  },
+  {
+    "ip_address": "104.28.114.53/32",
+    "ip_type": "IPv4",
+    "region": "RS"
+  },
+  {
+    "ip_address": "104.28.114.54/32",
+    "ip_type": "IPv4",
+    "region": "RS"
+  },
+  {
+    "ip_address": "104.28.114.55/32",
+    "ip_type": "IPv4",
+    "region": "RS"
+  },
+  {
+    "ip_address": "104.28.114.56/32",
+    "ip_type": "IPv4",
+    "region": "RS"
+  },
+  {
+    "ip_address": "104.28.130.132/32",
+    "ip_type": "IPv4",
+    "region": "RS"
+  },
+  {
+    "ip_address": "104.28.130.133/32",
+    "ip_type": "IPv4",
+    "region": "RS"
+  },
+  {
+    "ip_address": "104.28.130.134/32",
+    "ip_type": "IPv4",
+    "region": "RS"
+  },
+  {
+    "ip_address": "104.28.130.135/32",
+    "ip_type": "IPv4",
+    "region": "RS"
+  },
+  {
+    "ip_address": "104.28.131.146/32",
+    "ip_type": "IPv4",
+    "region": "RS"
+  },
+  {
+    "ip_address": "104.28.131.147/32",
+    "ip_type": "IPv4",
+    "region": "RS"
+  },
+  {
+    "ip_address": "104.28.142.243/32",
+    "ip_type": "IPv4",
+    "region": "RS"
+  },
+  {
+    "ip_address": "104.28.142.250/32",
+    "ip_type": "IPv4",
+    "region": "RS"
+  },
+  {
+    "ip_address": "104.28.146.208/32",
+    "ip_type": "IPv4",
+    "region": "RS"
+  },
+  {
+    "ip_address": "140.248.34.188/31",
+    "ip_type": "IPv4",
+    "region": "RS"
+  },
+  {
+    "ip_address": "140.248.36.242/31",
+    "ip_type": "IPv4",
+    "region": "RS"
+  },
+  {
+    "ip_address": "146.75.169.188/31",
+    "ip_type": "IPv4",
+    "region": "RS"
+  },
+  {
+    "ip_address": "146.75.180.54/31",
+    "ip_type": "IPv4",
+    "region": "RS"
+  },
+  {
     "ip_address": "172.225.41.128/27",
     "ip_type": "IPv4",
     "region": "RS"
@@ -17,6 +152,36 @@
   {
     "ip_address": "172.225.227.144/28",
     "ip_type": "IPv4",
+    "region": "RS"
+  },
+  {
+    "ip_address": "2606:54c0:5050::/45",
+    "ip_type": "IPv6",
+    "region": "RS"
+  },
+  {
+    "ip_address": "2606:54c0:5058::/45",
+    "ip_type": "IPv6",
+    "region": "RS"
+  },
+  {
+    "ip_address": "2606:54c0:5060::/45",
+    "ip_type": "IPv6",
+    "region": "RS"
+  },
+  {
+    "ip_address": "2606:54c3:0:501::/64",
+    "ip_type": "IPv6",
+    "region": "RS"
+  },
+  {
+    "ip_address": "2606:54c3:0:513::/64",
+    "ip_type": "IPv6",
+    "region": "RS"
+  },
+  {
+    "ip_address": "2606:54c3:0:1278::/64",
+    "ip_type": "IPv6",
     "region": "RS"
   },
   {
@@ -1540,147 +1705,22 @@
     "region": "RS"
   },
   {
-    "ip_address": "104.28.60.188/32",
-    "ip_type": "IPv4",
-    "region": "RS"
-  },
-  {
-    "ip_address": "104.28.60.189/32",
-    "ip_type": "IPv4",
-    "region": "RS"
-  },
-  {
-    "ip_address": "104.28.60.190/32",
-    "ip_type": "IPv4",
-    "region": "RS"
-  },
-  {
-    "ip_address": "104.28.60.191/32",
-    "ip_type": "IPv4",
-    "region": "RS"
-  },
-  {
-    "ip_address": "104.28.80.234/32",
-    "ip_type": "IPv4",
-    "region": "RS"
-  },
-  {
-    "ip_address": "104.28.80.235/32",
-    "ip_type": "IPv4",
-    "region": "RS"
-  },
-  {
-    "ip_address": "104.28.106.199/32",
-    "ip_type": "IPv4",
-    "region": "RS"
-  },
-  {
-    "ip_address": "104.28.106.200/32",
-    "ip_type": "IPv4",
-    "region": "RS"
-  },
-  {
-    "ip_address": "104.28.106.201/32",
-    "ip_type": "IPv4",
-    "region": "RS"
-  },
-  {
-    "ip_address": "104.28.106.202/32",
-    "ip_type": "IPv4",
-    "region": "RS"
-  },
-  {
-    "ip_address": "104.28.114.53/32",
-    "ip_type": "IPv4",
-    "region": "RS"
-  },
-  {
-    "ip_address": "104.28.114.54/32",
-    "ip_type": "IPv4",
-    "region": "RS"
-  },
-  {
-    "ip_address": "104.28.114.55/32",
-    "ip_type": "IPv4",
-    "region": "RS"
-  },
-  {
-    "ip_address": "104.28.114.56/32",
-    "ip_type": "IPv4",
-    "region": "RS"
-  },
-  {
-    "ip_address": "104.28.130.132/32",
-    "ip_type": "IPv4",
-    "region": "RS"
-  },
-  {
-    "ip_address": "104.28.130.133/32",
-    "ip_type": "IPv4",
-    "region": "RS"
-  },
-  {
-    "ip_address": "104.28.130.134/32",
-    "ip_type": "IPv4",
-    "region": "RS"
-  },
-  {
-    "ip_address": "104.28.130.135/32",
-    "ip_type": "IPv4",
-    "region": "RS"
-  },
-  {
-    "ip_address": "104.28.131.146/32",
-    "ip_type": "IPv4",
-    "region": "RS"
-  },
-  {
-    "ip_address": "104.28.131.147/32",
-    "ip_type": "IPv4",
-    "region": "RS"
-  },
-  {
-    "ip_address": "104.28.142.243/32",
-    "ip_type": "IPv4",
-    "region": "RS"
-  },
-  {
-    "ip_address": "104.28.142.250/32",
-    "ip_type": "IPv4",
-    "region": "RS"
-  },
-  {
-    "ip_address": "104.28.146.208/32",
-    "ip_type": "IPv4",
-    "region": "RS"
-  },
-  {
-    "ip_address": "2606:54c0:5050::/45",
+    "ip_address": "2a04:4e41:1423::/48",
     "ip_type": "IPv6",
     "region": "RS"
   },
   {
-    "ip_address": "2606:54c0:5058::/45",
+    "ip_address": "2a04:4e41:1837::/48",
     "ip_type": "IPv6",
     "region": "RS"
   },
   {
-    "ip_address": "2606:54c0:5060::/45",
+    "ip_address": "2a04:4e41:4caf::/48",
     "ip_type": "IPv6",
     "region": "RS"
   },
   {
-    "ip_address": "2606:54c3:0:501::/64",
-    "ip_type": "IPv6",
-    "region": "RS"
-  },
-  {
-    "ip_address": "2606:54c3:0:513::/64",
-    "ip_type": "IPv6",
-    "region": "RS"
-  },
-  {
-    "ip_address": "2606:54c3:0:1278::/64",
+    "ip_address": "2a04:4e41:5623::/48",
     "ip_type": "IPv6",
     "region": "RS"
   },
@@ -1712,46 +1752,6 @@
   {
     "ip_address": "2a09:bac3:5060::/45",
     "ip_type": "IPv6",
-    "region": "RS"
-  },
-  {
-    "ip_address": "2a04:4e41:1423::/48",
-    "ip_type": "IPv6",
-    "region": "RS"
-  },
-  {
-    "ip_address": "2a04:4e41:1837::/48",
-    "ip_type": "IPv6",
-    "region": "RS"
-  },
-  {
-    "ip_address": "2a04:4e41:4caf::/48",
-    "ip_type": "IPv6",
-    "region": "RS"
-  },
-  {
-    "ip_address": "2a04:4e41:5623::/48",
-    "ip_type": "IPv6",
-    "region": "RS"
-  },
-  {
-    "ip_address": "140.248.34.188/31",
-    "ip_type": "IPv4",
-    "region": "RS"
-  },
-  {
-    "ip_address": "140.248.36.242/31",
-    "ip_type": "IPv4",
-    "region": "RS"
-  },
-  {
-    "ip_address": "146.75.169.188/31",
-    "ip_type": "IPv4",
-    "region": "RS"
-  },
-  {
-    "ip_address": "146.75.180.54/31",
-    "ip_type": "IPv4",
     "region": "RS"
   }
 ]

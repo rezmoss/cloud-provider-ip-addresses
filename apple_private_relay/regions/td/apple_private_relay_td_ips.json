@@ -1,5 +1,30 @@
 [
   {
+    "ip_address": "140.248.34.224/31",
+    "ip_type": "IPv4",
+    "region": "TD"
+  },
+  {
+    "ip_address": "140.248.37.44/31",
+    "ip_type": "IPv4",
+    "region": "TD"
+  },
+  {
+    "ip_address": "146.75.132.134/31",
+    "ip_type": "IPv4",
+    "region": "TD"
+  },
+  {
+    "ip_address": "146.75.160.134/31",
+    "ip_type": "IPv4",
+    "region": "TD"
+  },
+  {
+    "ip_address": "146.75.169.224/31",
+    "ip_type": "IPv4",
+    "region": "TD"
+  },
+  {
     "ip_address": "172.224.231.64/28",
     "ip_type": "IPv4",
     "region": "TD"
@@ -102,31 +127,6 @@
   {
     "ip_address": "2a04:4e41:7622::/48",
     "ip_type": "IPv6",
-    "region": "TD"
-  },
-  {
-    "ip_address": "140.248.34.224/31",
-    "ip_type": "IPv4",
-    "region": "TD"
-  },
-  {
-    "ip_address": "140.248.37.44/31",
-    "ip_type": "IPv4",
-    "region": "TD"
-  },
-  {
-    "ip_address": "146.75.132.134/31",
-    "ip_type": "IPv4",
-    "region": "TD"
-  },
-  {
-    "ip_address": "146.75.160.134/31",
-    "ip_type": "IPv4",
-    "region": "TD"
-  },
-  {
-    "ip_address": "146.75.169.224/31",
-    "ip_type": "IPv4",
     "region": "TD"
   }
 ]

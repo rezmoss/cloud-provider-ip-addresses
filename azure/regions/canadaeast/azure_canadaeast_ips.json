@@ -1,1130 +1,50 @@
 [
   {
-    "ip_address": "4.248.83.192/30",
+    "ip_address": "4.229.0.0/17",
     "ip_type": "IPv4",
-    "service": "ActionGroup.CanadaEast",
+    "service": "AzureCloud.canadaeast",
     "region": "canadaeast"
   },
   {
-    "ip_address": "40.69.111.196/30",
+    "ip_address": "4.229.67.220/31",
     "ip_type": "IPv4",
-    "service": "ActionGroup.CanadaEast",
+    "service": "MicrosoftCloudAppSecurity.CanadaEast",
     "region": "canadaeast"
   },
   {
-    "ip_address": "2603:1030:1005::10c/126",
-    "ip_type": "IPv6",
-    "service": "ActionGroup.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005:402::178/125",
-    "ip_type": "IPv6",
-    "service": "ActionGroup.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.69.106.68/31",
+    "ip_address": "4.229.67.224/27",
     "ip_type": "IPv4",
-    "service": "ApiManagement.CanadaEast",
+    "service": "DataFactory.CanadaEast",
     "region": "canadaeast"
   },
   {
-    "ip_address": "40.69.107.224/28",
+    "ip_address": "4.229.68.32/27",
     "ip_type": "IPv4",
-    "service": "ApiManagement.CanadaEast",
+    "service": "MicrosoftCloudAppSecurity.CanadaEast",
     "region": "canadaeast"
   },
   {
-    "ip_address": "52.139.80.117/32",
+    "ip_address": "4.229.68.64/28",
     "ip_type": "IPv4",
-    "service": "ApiManagement.CanadaEast",
+    "service": "MicrosoftCloudAppSecurity.CanadaEast",
     "region": "canadaeast"
   },
   {
-    "ip_address": "52.242.47.80/28",
+    "ip_address": "4.229.80.192/27",
     "ip_type": "IPv4",
-    "service": "ApiManagement.CanadaEast",
+    "service": "AzureSignalR.CanadaEast",
     "region": "canadaeast"
   },
   {
-    "ip_address": "2603:1030:1005:3::1c0/124",
-    "ip_type": "IPv6",
-    "service": "ApiManagement.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005:402::140/124",
-    "ip_type": "IPv6",
-    "service": "ApiManagement.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.69.106.96/27",
+    "ip_address": "4.229.81.128/27",
     "ip_type": "IPv4",
-    "service": "AppService.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.86.225.89/32",
-    "ip_type": "IPv4",
-    "service": "AppService.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.86.230.96/32",
-    "ip_type": "IPv4",
-    "service": "AppService.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.89.19.0/27",
-    "ip_type": "IPv4",
-    "service": "AppService.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.229.115.84/32",
-    "ip_type": "IPv4",
-    "service": "AppService.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.242.22.213/32",
-    "ip_type": "IPv4",
-    "service": "AppService.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.242.27.213/32",
-    "ip_type": "IPv4",
-    "service": "AppService.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.242.40.192/28",
-    "ip_type": "IPv4",
-    "service": "AppService.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.242.41.0/24",
-    "ip_type": "IPv4",
-    "service": "AppService.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.242.42.0/23",
-    "ip_type": "IPv4",
-    "service": "AppService.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005:2::400/118",
-    "ip_type": "IPv6",
-    "service": "AppService.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005:402::a0/123",
-    "ip_type": "IPv6",
-    "service": "AppService.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.69.106.128/26",
-    "ip_type": "IPv4",
-    "service": "AppServiceManagement.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.86.229.100/32",
-    "ip_type": "IPv4",
-    "service": "AppServiceManagement.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.242.40.112/28",
-    "ip_type": "IPv4",
-    "service": "AppServiceManagement.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005:1::4a0/123",
-    "ip_type": "IPv6",
-    "service": "AppServiceManagement.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005:402::100/122",
-    "ip_type": "IPv6",
-    "service": "AppServiceManagement.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "4.248.114.63/32",
-    "ip_type": "IPv4",
-    "service": "AzureArcInfrastructure.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "20.175.7.6/31",
-    "ip_type": "IPv4",
-    "service": "AzureArcInfrastructure.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "20.175.7.128/29",
-    "ip_type": "IPv4",
-    "service": "AzureArcInfrastructure.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.69.111.34/31",
-    "ip_type": "IPv4",
-    "service": "AzureArcInfrastructure.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.69.111.192/30",
-    "ip_type": "IPv4",
-    "service": "AzureArcInfrastructure.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.69.116.96/29",
-    "ip_type": "IPv4",
-    "service": "AzureArcInfrastructure.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.89.20.128/30",
-    "ip_type": "IPv4",
-    "service": "AzureArcInfrastructure.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.89.23.32/30",
-    "ip_type": "IPv4",
-    "service": "AzureArcInfrastructure.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005:c::2d1/128",
-    "ip_type": "IPv6",
-    "service": "AzureArcInfrastructure.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "4.239.0.248/29",
-    "ip_type": "IPv4",
-    "service": "AzureAttestation.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "4.239.1.96/30",
-    "ip_type": "IPv4",
-    "service": "AzureAttestation.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "20.200.5.104/29",
-    "ip_type": "IPv4",
-    "service": "AzureAttestation.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.69.111.116/30",
-    "ip_type": "IPv4",
-    "service": "AzureAttestation.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.89.23.44/30",
-    "ip_type": "IPv4",
-    "service": "AzureAttestation.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005:3::1e0/124",
-    "ip_type": "IPv6",
-    "service": "AzureAttestation.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.69.107.32/27",
-    "ip_type": "IPv4",
-    "service": "AzureBackup.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.69.107.64/26",
-    "ip_type": "IPv4",
-    "service": "AzureBackup.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.139.107.128/26",
-    "ip_type": "IPv4",
-    "service": "AzureBackup.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005:3::280/121",
-    "ip_type": "IPv6",
-    "service": "AzureBackup.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005:402::200/121",
-    "ip_type": "IPv6",
-    "service": "AzureBackup.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.69.108.56/30",
-    "ip_type": "IPv4",
-    "service": "AzureBotService.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.89.16.64/30",
-    "ip_type": "IPv4",
-    "service": "AzureBotService.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005::20/123",
-    "ip_type": "IPv6",
-    "service": "AzureBotService.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.89.17.64/26",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005::180/121",
-    "ip_type": "IPv6",
-    "service": "AzureCognitiveSearch.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "20.104.170.166/32",
-    "ip_type": "IPv4",
-    "service": "AzureConnectors.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "20.104.170.192/32",
-    "ip_type": "IPv4",
-    "service": "AzureConnectors.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.69.106.240/28",
-    "ip_type": "IPv4",
-    "service": "AzureConnectors.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.69.111.0/27",
-    "ip_type": "IPv4",
-    "service": "AzureConnectors.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.139.111.0/27",
-    "ip_type": "IPv4",
-    "service": "AzureConnectors.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.139.111.32/28",
-    "ip_type": "IPv4",
-    "service": "AzureConnectors.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.242.30.112/32",
-    "ip_type": "IPv4",
-    "service": "AzureConnectors.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.242.35.152/32",
-    "ip_type": "IPv4",
-    "service": "AzureConnectors.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.242.36.40/32",
-    "ip_type": "IPv4",
-    "service": "AzureConnectors.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005:3::640/122",
-    "ip_type": "IPv6",
-    "service": "AzureConnectors.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005:402::180/122",
-    "ip_type": "IPv6",
-    "service": "AzureConnectors.CanadaEast",
+    "service": "SCCservice.CanadaEast",
     "region": "canadaeast"
   },
   {
     "ip_address": "4.229.91.0/25",
     "ip_type": "IPv4",
     "service": "AzureContainerRegistry.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.69.106.80/29",
-    "ip_type": "IPv4",
-    "service": "AzureContainerRegistry.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.69.110.0/25",
-    "ip_type": "IPv4",
-    "service": "AzureContainerRegistry.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.69.116.0/26",
-    "ip_type": "IPv4",
-    "service": "AzureContainerRegistry.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.89.23.64/26",
-    "ip_type": "IPv4",
-    "service": "AzureContainerRegistry.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005:3::180/125",
-    "ip_type": "IPv6",
-    "service": "AzureContainerRegistry.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005:6::40/122",
-    "ip_type": "IPv6",
-    "service": "AzureContainerRegistry.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005:402::90/125",
-    "ip_type": "IPv6",
-    "service": "AzureContainerRegistry.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005:402::340/122",
-    "ip_type": "IPv6",
-    "service": "AzureContainerRegistry.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005:402::580/122",
-    "ip_type": "IPv6",
-    "service": "AzureContainerRegistry.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005:402::600/121",
-    "ip_type": "IPv6",
-    "service": "AzureContainerRegistry.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "20.175.0.128/26",
-    "ip_type": "IPv4",
-    "service": "AzureCosmosDB.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "20.175.6.0/25",
-    "ip_type": "IPv4",
-    "service": "AzureCosmosDB.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "20.175.6.128/26",
-    "ip_type": "IPv4",
-    "service": "AzureCosmosDB.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.69.106.0/28",
-    "ip_type": "IPv4",
-    "service": "AzureCosmosDB.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.69.117.0/26",
-    "ip_type": "IPv4",
-    "service": "AzureCosmosDB.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.86.229.245/32",
-    "ip_type": "IPv4",
-    "service": "AzureCosmosDB.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.89.22.224/27",
-    "ip_type": "IPv4",
-    "service": "AzureCosmosDB.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.139.86.210/32",
-    "ip_type": "IPv4",
-    "service": "AzureCosmosDB.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.155.27.249/32",
-    "ip_type": "IPv4",
-    "service": "AzureCosmosDB.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.155.28.10/32",
-    "ip_type": "IPv4",
-    "service": "AzureCosmosDB.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005:3::20/123",
-    "ip_type": "IPv6",
-    "service": "AzureCosmosDB.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005:402::c0/122",
-    "ip_type": "IPv6",
-    "service": "AzureCosmosDB.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.69.107.240/28",
-    "ip_type": "IPv4",
-    "service": "AzureDataExplorerManagement.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.80.250.168/32",
-    "ip_type": "IPv4",
-    "service": "AzureDataExplorerManagement.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.80.255.12/32",
-    "ip_type": "IPv4",
-    "service": "AzureDataExplorerManagement.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.242.47.128/28",
-    "ip_type": "IPv4",
-    "service": "AzureDataExplorerManagement.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005:1::380/121",
-    "ip_type": "IPv6",
-    "service": "AzureDataExplorerManagement.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005:402::150/124",
-    "ip_type": "IPv6",
-    "service": "AzureDataExplorerManagement.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "20.200.34.0/26",
-    "ip_type": "IPv4",
-    "service": "AzureDevOps.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005:c::2d8/125",
-    "ip_type": "IPv6",
-    "service": "AzureDevOps.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.69.110.176/28",
-    "ip_type": "IPv4",
-    "service": "AzureDevSpaces.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.89.17.192/28",
-    "ip_type": "IPv4",
-    "service": "AzureDevSpaces.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.139.106.96/27",
-    "ip_type": "IPv4",
-    "service": "AzureDigitalTwins.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005:3::200/121",
-    "ip_type": "IPv6",
-    "service": "AzureDigitalTwins.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.89.18.0/25",
-    "ip_type": "IPv4",
-    "service": "AzureEventGrid.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.139.85.16/28",
-    "ip_type": "IPv4",
-    "service": "AzureEventGrid.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.139.85.32/28",
-    "ip_type": "IPv4",
-    "service": "AzureEventGrid.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "145.191.128.0/21",
-    "ip_type": "IPv4",
-    "service": "AzureEventGrid.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005::380/121",
-    "ip_type": "IPv6",
-    "service": "AzureEventGrid.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.69.106.32/27",
-    "ip_type": "IPv4",
-    "service": "EventHub.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.69.117.64/26",
-    "ip_type": "IPv4",
-    "service": "EventHub.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.139.109.0/24",
-    "ip_type": "IPv4",
-    "service": "EventHub.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005::240/122",
-    "ip_type": "IPv6",
-    "service": "EventHub.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005:2::/120",
-    "ip_type": "IPv6",
-    "service": "EventHub.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005:402::1c0/123",
-    "ip_type": "IPv6",
-    "service": "EventHub.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.69.108.128/27",
-    "ip_type": "IPv4",
-    "service": "AzureIoTHub.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.89.20.192/27",
-    "ip_type": "IPv4",
-    "service": "AzureIoTHub.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.89.21.0/25",
-    "ip_type": "IPv4",
-    "service": "AzureIoTHub.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.242.31.77/32",
-    "ip_type": "IPv4",
-    "service": "AzureIoTHub.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005:402::300/123",
-    "ip_type": "IPv6",
-    "service": "AzureIoTHub.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.69.106.64/30",
-    "ip_type": "IPv4",
-    "service": "AzureKeyVault.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.139.107.208/29",
-    "ip_type": "IPv4",
-    "service": "AzureKeyVault.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.139.107.216/30",
-    "ip_type": "IPv4",
-    "service": "AzureKeyVault.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005::100/125",
-    "ip_type": "IPv6",
-    "service": "AzureKeyVault.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005::108/126",
-    "ip_type": "IPv6",
-    "service": "AzureKeyVault.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005::2a0/125",
-    "ip_type": "IPv6",
-    "service": "AzureKeyVault.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005:402::80/125",
-    "ip_type": "IPv6",
-    "service": "AzureKeyVault.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "20.200.34.124/30",
-    "ip_type": "IPv4",
-    "service": "AzureMachineLearning.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "20.200.34.224/27",
-    "ip_type": "IPv4",
-    "service": "AzureMachineLearning.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "20.200.35.0/28",
-    "ip_type": "IPv4",
-    "service": "AzureMachineLearning.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "20.200.35.16/31",
-    "ip_type": "IPv4",
-    "service": "AzureMachineLearning.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "20.200.35.18/32",
-    "ip_type": "IPv4",
-    "service": "AzureMachineLearning.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.69.106.224/28",
-    "ip_type": "IPv4",
-    "service": "AzureMachineLearning.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.89.17.208/28",
-    "ip_type": "IPv4",
-    "service": "AzureMachineLearning.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005::300/122",
-    "ip_type": "IPv6",
-    "service": "AzureMachineLearning.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005:c::3e0/123",
-    "ip_type": "IPv6",
-    "service": "AzureMachineLearning.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005:c::480/124",
-    "ip_type": "IPv6",
-    "service": "AzureMachineLearning.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005:c::490/126",
-    "ip_type": "IPv6",
-    "service": "AzureMachineLearning.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005:c::494/127",
-    "ip_type": "IPv6",
-    "service": "AzureMachineLearning.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005:c::496/128",
-    "ip_type": "IPv6",
-    "service": "AzureMachineLearning.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "4.239.77.0/26",
-    "ip_type": "IPv4",
-    "service": "AzureMonitor.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "4.239.77.64/27",
-    "ip_type": "IPv4",
-    "service": "AzureMonitor.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "4.248.99.64/27",
-    "ip_type": "IPv4",
-    "service": "AzureMonitor.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "4.248.99.128/26",
-    "ip_type": "IPv4",
-    "service": "AzureMonitor.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "20.175.2.254/31",
-    "ip_type": "IPv4",
-    "service": "AzureMonitor.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "20.175.5.128/29",
-    "ip_type": "IPv4",
-    "service": "AzureMonitor.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "20.175.5.136/31",
-    "ip_type": "IPv4",
-    "service": "AzureMonitor.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "20.200.5.48/28",
-    "ip_type": "IPv4",
-    "service": "AzureMonitor.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "20.200.12.128/28",
-    "ip_type": "IPv4",
-    "service": "AzureMonitor.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.69.107.16/28",
-    "ip_type": "IPv4",
-    "service": "AzureMonitor.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.69.108.48/29",
-    "ip_type": "IPv4",
-    "service": "AzureMonitor.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.69.111.128/27",
-    "ip_type": "IPv4",
-    "service": "AzureMonitor.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.69.116.112/29",
-    "ip_type": "IPv4",
-    "service": "AzureMonitor.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.86.201.128/32",
-    "ip_type": "IPv4",
-    "service": "AzureMonitor.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.139.106.160/27",
-    "ip_type": "IPv4",
-    "service": "AzureMonitor.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.242.40.208/30",
-    "ip_type": "IPv4",
-    "service": "AzureMonitor.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.242.47.8/29",
-    "ip_type": "IPv4",
-    "service": "AzureMonitor.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005::2a8/126",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005::780/121",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005:1::280/123",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005:1::300/121",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005:3::6a0/123",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005:3::6c0/122",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005:3::780/121",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005:b::700/120",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005:c::180/123",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005:402::500/121",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.89.17.128/28",
-    "ip_type": "IPv4",
-    "service": "AzureOpenDatasets.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.89.18.160/27",
-    "ip_type": "IPv4",
-    "service": "AzurePortal.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.89.20.132/30",
-    "ip_type": "IPv4",
-    "service": "AzurePortal.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.89.23.232/29",
-    "ip_type": "IPv4",
-    "service": "AzurePortal.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005::700/121",
-    "ip_type": "IPv6",
-    "service": "AzurePortal.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.69.108.32/28",
-    "ip_type": "IPv4",
-    "service": "AzureResourceManager.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.69.112.0/22",
-    "ip_type": "IPv4",
-    "service": "AzureResourceManager.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.139.104.0/23",
-    "ip_type": "IPv4",
-    "service": "AzureResourceManager.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005::6c0/122",
-    "ip_type": "IPv6",
-    "service": "AzureResourceManager.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005:3::500/120",
-    "ip_type": "IPv6",
-    "service": "AzureResourceManager.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005:402::280/122",
-    "ip_type": "IPv6",
-    "service": "AzureResourceManager.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "4.239.76.68/30",
-    "ip_type": "IPv4",
-    "service": "Sql.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "4.239.76.96/27",
-    "ip_type": "IPv4",
-    "service": "Sql.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "4.239.76.128/26",
-    "ip_type": "IPv4",
-    "service": "Sql.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "20.175.4.128/25",
-    "ip_type": "IPv4",
-    "service": "Sql.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.69.104.0/27",
-    "ip_type": "IPv4",
-    "service": "Sql.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.69.105.0/27",
-    "ip_type": "IPv4",
-    "service": "Sql.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.69.105.32/29",
-    "ip_type": "IPv4",
-    "service": "Sql.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.69.116.128/25",
-    "ip_type": "IPv4",
-    "service": "Sql.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.86.226.166/32",
-    "ip_type": "IPv4",
-    "service": "Sql.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.139.106.192/26",
-    "ip_type": "IPv4",
-    "service": "Sql.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.139.107.0/26",
-    "ip_type": "IPv4",
-    "service": "Sql.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.242.30.154/32",
-    "ip_type": "IPv4",
-    "service": "Sql.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005::280/123",
-    "ip_type": "IPv6",
-    "service": "Sql.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005:1::200/121",
-    "ip_type": "IPv6",
-    "service": "Sql.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005:6::80/121",
-    "ip_type": "IPv6",
-    "service": "Sql.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005:400::/123",
-    "ip_type": "IPv6",
-    "service": "Sql.CanadaEast",
     "region": "canadaeast"
   },
   {
@@ -1158,9 +78,159 @@
     "region": "canadaeast"
   },
   {
-    "ip_address": "40.69.111.64/27",
+    "ip_address": "4.229.115.96/27",
     "ip_type": "IPv4",
-    "service": "AzureSecurityCenter.CanadaEast",
+    "service": "PowerBI.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "4.239.0.0/17",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadaeast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "4.239.0.248/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "4.239.1.32/27",
+    "ip_type": "IPv4",
+    "service": "PowerBI.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "4.239.1.96/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "4.239.65.128/25",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "4.239.66.0/25",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "4.239.66.128/26",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "4.239.66.192/26",
+    "ip_type": "IPv4",
+    "service": "PowerBI.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "4.239.76.68/30",
+    "ip_type": "IPv4",
+    "service": "Sql.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "4.239.76.96/27",
+    "ip_type": "IPv4",
+    "service": "Sql.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "4.239.76.128/26",
+    "ip_type": "IPv4",
+    "service": "Sql.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "4.239.77.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "4.239.77.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "4.248.0.0/17",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadaeast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "4.248.83.192/30",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "4.248.83.208/28",
+    "ip_type": "IPv4",
+    "service": "LogicApps.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "4.248.98.160/29",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "4.248.98.186/31",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "4.248.98.192/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "4.248.98.200/29",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "4.248.99.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "4.248.99.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "4.248.99.192/26",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "4.248.100.0/23",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "4.248.102.0/25",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.CanadaEast",
     "region": "canadaeast"
   },
   {
@@ -1170,57 +240,27 @@
     "region": "canadaeast"
   },
   {
-    "ip_address": "40.69.106.16/28",
+    "ip_address": "4.248.114.63/32",
     "ip_type": "IPv4",
-    "service": "ServiceBus.CanadaEast",
+    "service": "AzureArcInfrastructure.CanadaEast",
     "region": "canadaeast"
   },
   {
-    "ip_address": "52.139.110.0/25",
+    "ip_address": "13.104.154.128/25",
     "ip_type": "IPv4",
-    "service": "ServiceBus.CanadaEast",
+    "service": "AzureCloud.canadaeast",
     "region": "canadaeast"
   },
   {
-    "ip_address": "2603:1030:1005::220/123",
-    "ip_type": "IPv6",
-    "service": "ServiceBus.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005:1::500/120",
-    "ip_type": "IPv6",
-    "service": "ServiceBus.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005:402::170/125",
-    "ip_type": "IPv6",
-    "service": "ServiceBus.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "4.229.80.192/27",
+    "ip_address": "20.20.129.0/24",
     "ip_type": "IPv4",
-    "service": "AzureSignalR.CanadaEast",
+    "service": "AzureCloud.canadaeast",
     "region": "canadaeast"
   },
   {
-    "ip_address": "40.69.110.128/27",
+    "ip_address": "20.33.192.0/24",
     "ip_type": "IPv4",
-    "service": "AzureSignalR.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.139.107.96/27",
-    "ip_type": "IPv4",
-    "service": "AzureSignalR.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005:2::100/120",
-    "ip_type": "IPv6",
-    "service": "AzureSignalR.CanadaEast",
+    "service": "AzureCloud.canadaeast",
     "region": "canadaeast"
   },
   {
@@ -1232,7 +272,19 @@
   {
     "ip_address": "20.38.121.128/25",
     "ip_type": "IPv4",
+    "service": "AzureCloud.canadaeast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "20.38.121.128/25",
+    "ip_type": "IPv4",
     "service": "Storage.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "20.47.41.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadaeast",
     "region": "canadaeast"
   },
   {
@@ -1242,9 +294,69 @@
     "region": "canadaeast"
   },
   {
+    "ip_address": "20.47.88.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadaeast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "20.48.208.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadaeast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "20.60.142.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadaeast",
+    "region": "canadaeast"
+  },
+  {
     "ip_address": "20.60.142.0/23",
     "ip_type": "IPv4",
     "service": "Storage.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "20.95.17.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadaeast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "20.95.49.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadaeast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "20.104.128.0/18",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadaeast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "20.104.170.166/32",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "20.104.170.192/32",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "20.135.66.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadaeast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "20.150.1.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadaeast",
     "region": "canadaeast"
   },
   {
@@ -1256,7 +368,19 @@
   {
     "ip_address": "20.150.40.128/25",
     "ip_type": "IPv4",
+    "service": "AzureCloud.canadaeast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "20.150.40.128/25",
+    "ip_type": "IPv4",
     "service": "Storage.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "20.150.113.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadaeast",
     "region": "canadaeast"
   },
   {
@@ -1266,195 +390,171 @@
     "region": "canadaeast"
   },
   {
+    "ip_address": "20.157.4.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadaeast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "20.157.8.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadaeast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "20.157.161.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadaeast",
+    "region": "canadaeast"
+  },
+  {
     "ip_address": "20.157.161.0/24",
     "ip_type": "IPv4",
     "service": "Storage.CanadaEast",
     "region": "canadaeast"
   },
   {
-    "ip_address": "20.209.64.0/23",
+    "ip_address": "20.175.0.0/17",
     "ip_type": "IPv4",
-    "service": "Storage.CanadaEast",
+    "service": "AzureCloud.canadaeast",
     "region": "canadaeast"
   },
   {
-    "ip_address": "40.86.232.64/28",
+    "ip_address": "20.175.0.128/26",
     "ip_type": "IPv4",
-    "service": "Storage.CanadaEast",
+    "service": "AzureCosmosDB.CanadaEast",
     "region": "canadaeast"
   },
   {
-    "ip_address": "40.86.232.96/28",
+    "ip_address": "20.175.2.248/31",
     "ip_type": "IPv4",
-    "service": "Storage.CanadaEast",
+    "service": "PowerBI.CanadaEast",
     "region": "canadaeast"
   },
   {
-    "ip_address": "40.86.232.128/28",
+    "ip_address": "20.175.2.254/31",
     "ip_type": "IPv4",
-    "service": "Storage.CanadaEast",
+    "service": "AzureMonitor.CanadaEast",
     "region": "canadaeast"
   },
   {
-    "ip_address": "40.86.232.176/28",
+    "ip_address": "20.175.4.128/25",
     "ip_type": "IPv4",
-    "service": "Storage.CanadaEast",
+    "service": "Sql.CanadaEast",
     "region": "canadaeast"
   },
   {
-    "ip_address": "40.86.232.192/28",
+    "ip_address": "20.175.5.0/27",
     "ip_type": "IPv4",
-    "service": "Storage.CanadaEast",
+    "service": "PowerPlatformPlex.CanadaEast",
     "region": "canadaeast"
   },
   {
-    "ip_address": "52.229.80.64/27",
+    "ip_address": "20.175.5.32/29",
     "ip_type": "IPv4",
-    "service": "Storage.CanadaEast",
+    "service": "PowerPlatformPlex.CanadaEast",
     "region": "canadaeast"
   },
   {
-    "ip_address": "52.239.164.128/26",
+    "ip_address": "20.175.5.128/29",
     "ip_type": "IPv4",
-    "service": "Storage.CanadaEast",
+    "service": "AzureMonitor.CanadaEast",
     "region": "canadaeast"
   },
   {
-    "ip_address": "52.239.190.0/25",
+    "ip_address": "20.175.5.136/31",
     "ip_type": "IPv4",
-    "service": "Storage.CanadaEast",
+    "service": "AzureMonitor.CanadaEast",
     "region": "canadaeast"
   },
   {
-    "ip_address": "135.130.50.0/23",
+    "ip_address": "20.175.5.152/29",
     "ip_type": "IPv4",
-    "service": "Storage.CanadaEast",
+    "service": "PowerBI.CanadaEast",
     "region": "canadaeast"
   },
   {
-    "ip_address": "145.190.159.0/24",
+    "ip_address": "20.175.6.0/25",
     "ip_type": "IPv4",
-    "service": "Storage.CanadaEast",
+    "service": "AzureCosmosDB.CanadaEast",
     "region": "canadaeast"
   },
   {
-    "ip_address": "2603:1030:1006::/48",
-    "ip_type": "IPv6",
-    "service": "Storage.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.69.107.128/27",
+    "ip_address": "20.175.6.128/26",
     "ip_type": "IPv4",
-    "service": "BatchNodeManagement.CanadaEast",
+    "service": "AzureCosmosDB.CanadaEast",
     "region": "canadaeast"
   },
   {
-    "ip_address": "40.86.224.98/32",
+    "ip_address": "20.175.6.192/27",
     "ip_type": "IPv4",
-    "service": "BatchNodeManagement.CanadaEast",
+    "service": "PowerBI.CanadaEast",
     "region": "canadaeast"
   },
   {
-    "ip_address": "40.86.224.104/32",
+    "ip_address": "20.175.6.224/28",
     "ip_type": "IPv4",
-    "service": "BatchNodeManagement.CanadaEast",
+    "service": "PowerBI.CanadaEast",
     "region": "canadaeast"
   },
   {
-    "ip_address": "40.89.18.192/27",
+    "ip_address": "20.175.7.6/31",
     "ip_type": "IPv4",
-    "service": "BatchNodeManagement.CanadaEast",
+    "service": "AzureArcInfrastructure.CanadaEast",
     "region": "canadaeast"
   },
   {
-    "ip_address": "52.235.41.66/32",
+    "ip_address": "20.175.7.40/29",
     "ip_type": "IPv4",
-    "service": "BatchNodeManagement.CanadaEast",
+    "service": "PowerPlatformInfra.CanadaEast",
     "region": "canadaeast"
   },
   {
-    "ip_address": "52.242.22.129/32",
+    "ip_address": "20.175.7.96/27",
     "ip_type": "IPv4",
-    "service": "BatchNodeManagement.CanadaEast",
+    "service": "PowerPlatformInfra.CanadaEast",
     "region": "canadaeast"
   },
   {
-    "ip_address": "52.242.33.105/32",
+    "ip_address": "20.175.7.128/29",
     "ip_type": "IPv4",
-    "service": "BatchNodeManagement.CanadaEast",
+    "service": "AzureArcInfrastructure.CanadaEast",
     "region": "canadaeast"
   },
   {
-    "ip_address": "2603:1030:1005::400/122",
-    "ip_type": "IPv6",
-    "service": "BatchNodeManagement.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "4.229.67.224/27",
+    "ip_address": "20.190.139.128/25",
     "ip_type": "IPv4",
-    "service": "DataFactory.CanadaEast",
+    "service": "AzureCloud.canadaeast",
     "region": "canadaeast"
   },
   {
-    "ip_address": "40.69.108.160/28",
+    "ip_address": "20.190.162.0/24",
     "ip_type": "IPv4",
-    "service": "DataFactory.CanadaEast",
+    "service": "AzureCloud.canadaeast",
     "region": "canadaeast"
   },
   {
-    "ip_address": "40.69.111.48/28",
+    "ip_address": "20.200.0.0/18",
     "ip_type": "IPv4",
-    "service": "DataFactory.CanadaEast",
+    "service": "AzureCloud.canadaeast",
     "region": "canadaeast"
   },
   {
-    "ip_address": "40.89.16.128/25",
+    "ip_address": "20.200.5.48/28",
     "ip_type": "IPv4",
-    "service": "DataFactory.CanadaEast",
+    "service": "AzureMonitor.CanadaEast",
     "region": "canadaeast"
   },
   {
-    "ip_address": "40.89.17.0/26",
+    "ip_address": "20.200.5.104/29",
     "ip_type": "IPv4",
-    "service": "DataFactory.CanadaEast",
+    "service": "AzureAttestation.CanadaEast",
     "region": "canadaeast"
   },
   {
-    "ip_address": "40.89.20.224/29",
+    "ip_address": "20.200.12.128/28",
     "ip_type": "IPv4",
-    "service": "DataFactory.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.139.111.64/26",
-    "ip_type": "IPv4",
-    "service": "DataFactory.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.242.45.56/29",
-    "ip_type": "IPv4",
-    "service": "DataFactory.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005::440/122",
-    "ip_type": "IPv6",
-    "service": "DataFactory.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005::500/121",
-    "ip_type": "IPv6",
-    "service": "DataFactory.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005:402::330/124",
-    "ip_type": "IPv6",
-    "service": "DataFactory.CanadaEast",
+    "service": "AzureMonitor.CanadaEast",
     "region": "canadaeast"
   },
   {
@@ -1464,81 +564,39 @@
     "region": "canadaeast"
   },
   {
-    "ip_address": "40.69.106.88/29",
+    "ip_address": "20.200.34.0/26",
     "ip_type": "IPv4",
-    "service": "GatewayManager.CanadaEast",
+    "service": "AzureDevOps.CanadaEast",
     "region": "canadaeast"
   },
   {
-    "ip_address": "40.89.16.72/29",
+    "ip_address": "20.200.34.124/30",
     "ip_type": "IPv4",
-    "service": "GatewayManager.CanadaEast",
+    "service": "AzureMachineLearning.CanadaEast",
     "region": "canadaeast"
   },
   {
-    "ip_address": "52.139.87.129/32",
+    "ip_address": "20.200.34.224/27",
     "ip_type": "IPv4",
-    "service": "GatewayManager.CanadaEast",
+    "service": "AzureMachineLearning.CanadaEast",
     "region": "canadaeast"
   },
   {
-    "ip_address": "52.139.87.150/32",
+    "ip_address": "20.200.35.0/28",
     "ip_type": "IPv4",
-    "service": "GatewayManager.CanadaEast",
+    "service": "AzureMachineLearning.CanadaEast",
     "region": "canadaeast"
   },
   {
-    "ip_address": "52.242.44.0/27",
+    "ip_address": "20.200.35.16/31",
     "ip_type": "IPv4",
-    "service": "GatewayManager.CanadaEast",
+    "service": "AzureMachineLearning.CanadaEast",
     "region": "canadaeast"
   },
   {
-    "ip_address": "2603:1030:1005::40/122",
-    "ip_type": "IPv6",
-    "service": "GatewayManager.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.69.107.8/29",
+    "ip_address": "20.200.35.18/32",
     "ip_type": "IPv4",
-    "service": "HDInsight.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.89.22.88/29",
-    "ip_type": "IPv4",
-    "service": "HDInsight.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.229.123.172/32",
-    "ip_type": "IPv4",
-    "service": "HDInsight.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.229.127.96/32",
-    "ip_type": "IPv4",
-    "service": "HDInsight.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005:3::430/124",
-    "ip_type": "IPv6",
-    "service": "HDInsight.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005:402::320/124",
-    "ip_type": "IPv6",
-    "service": "HDInsight.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "4.248.83.208/28",
-    "ip_type": "IPv4",
-    "service": "LogicApps.CanadaEast",
+    "service": "AzureMachineLearning.CanadaEast",
     "region": "canadaeast"
   },
   {
@@ -1560,6 +618,24 @@
     "region": "canadaeast"
   },
   {
+    "ip_address": "20.209.64.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadaeast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "20.209.64.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "20.220.64.0/18",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadaeast",
+    "region": "canadaeast"
+  },
+  {
     "ip_address": "20.220.74.16/32",
     "ip_type": "IPv4",
     "service": "LogicApps.CanadaEast",
@@ -1575,6 +651,42 @@
     "ip_address": "20.220.76.245/32",
     "ip_type": "IPv4",
     "service": "LogicApps.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.64.146.208/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadaeast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.64.146.208/28",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.64.151.160/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadaeast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.64.151.160/27",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.64.162.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadaeast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.69.96.0/19",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadaeast",
     "region": "canadaeast"
   },
   {
@@ -1608,6 +720,198 @@
     "region": "canadaeast"
   },
   {
+    "ip_address": "40.69.104.0/27",
+    "ip_type": "IPv4",
+    "service": "Sql.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.69.105.0/27",
+    "ip_type": "IPv4",
+    "service": "Sql.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.69.105.32/29",
+    "ip_type": "IPv4",
+    "service": "Sql.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.69.106.0/28",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.69.106.16/28",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.69.106.32/27",
+    "ip_type": "IPv4",
+    "service": "EventHub.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.69.106.64/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.69.106.68/31",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.69.106.72/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.69.106.80/29",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.69.106.88/29",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.69.106.96/27",
+    "ip_type": "IPv4",
+    "service": "AppService.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.69.106.128/26",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.69.106.224/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.69.106.240/28",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.69.107.0/29",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.69.107.8/29",
+    "ip_type": "IPv4",
+    "service": "HDInsight.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.69.107.16/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.69.107.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.69.107.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.69.107.128/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.69.107.224/28",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.69.107.240/28",
+    "ip_type": "IPv4",
+    "service": "AzureDataExplorerManagement.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.69.108.32/28",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.69.108.48/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.69.108.56/30",
+    "ip_type": "IPv4",
+    "service": "AzureBotService.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.69.108.96/27",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.69.108.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.69.108.160/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.69.110.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.69.110.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureSignalR.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.69.110.176/28",
+    "ip_type": "IPv4",
+    "service": "AzureDevSpaces.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
     "ip_address": "40.69.110.192/27",
     "ip_type": "IPv4",
     "service": "LogicApps.CanadaEast",
@@ -1620,327 +924,135 @@
     "region": "canadaeast"
   },
   {
+    "ip_address": "40.69.111.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.69.111.34/31",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.69.111.48/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.69.111.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.69.111.96/29",
+    "ip_type": "IPv4",
+    "service": "SCCservice.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.69.111.116/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.69.111.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.69.111.192/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.69.111.196/30",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.69.111.200/29",
+    "ip_type": "IPv4",
+    "service": "StorageSyncService.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.69.112.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.69.116.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.69.116.96/29",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.69.116.110/31",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.69.116.112/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.69.116.128/25",
+    "ip_type": "IPv4",
+    "service": "Sql.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.69.117.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.69.117.64/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
     "ip_address": "40.69.120.161/32",
     "ip_type": "IPv4",
     "service": "LogicApps.CanadaEast",
     "region": "canadaeast"
   },
   {
-    "ip_address": "40.86.202.35/32",
+    "ip_address": "40.79.217.0/24",
     "ip_type": "IPv4",
-    "service": "LogicApps.CanadaEast",
+    "service": "AzureCloud.canadaeast",
     "region": "canadaeast"
   },
   {
-    "ip_address": "40.86.205.75/32",
+    "ip_address": "40.80.40.0/22",
     "ip_type": "IPv4",
-    "service": "LogicApps.CanadaEast",
+    "service": "AzureCloud.canadaeast",
     "region": "canadaeast"
   },
   {
-    "ip_address": "40.86.206.74/32",
+    "ip_address": "40.80.240.0/20",
     "ip_type": "IPv4",
-    "service": "LogicApps.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.86.208.137/32",
-    "ip_type": "IPv4",
-    "service": "LogicApps.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.86.226.221/32",
-    "ip_type": "IPv4",
-    "service": "LogicApps.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.86.227.188/32",
-    "ip_type": "IPv4",
-    "service": "LogicApps.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.86.228.72/32",
-    "ip_type": "IPv4",
-    "service": "LogicApps.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.86.229.179/32",
-    "ip_type": "IPv4",
-    "service": "LogicApps.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.86.229.191/32",
-    "ip_type": "IPv4",
-    "service": "LogicApps.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.86.240.237/32",
-    "ip_type": "IPv4",
-    "service": "LogicApps.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.86.248.230/32",
-    "ip_type": "IPv4",
-    "service": "LogicApps.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.229.99.183/32",
-    "ip_type": "IPv4",
-    "service": "LogicApps.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.229.100.167/32",
-    "ip_type": "IPv4",
-    "service": "LogicApps.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.229.105.109/32",
-    "ip_type": "IPv4",
-    "service": "LogicApps.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.229.114.105/32",
-    "ip_type": "IPv4",
-    "service": "LogicApps.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.229.114.121/32",
-    "ip_type": "IPv4",
-    "service": "LogicApps.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.229.126.67/32",
-    "ip_type": "IPv4",
-    "service": "LogicApps.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.229.126.142/32",
-    "ip_type": "IPv4",
-    "service": "LogicApps.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.242.44.48/28",
-    "ip_type": "IPv4",
-    "service": "LogicApps.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.242.44.160/28",
-    "ip_type": "IPv4",
-    "service": "LogicApps.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005:402::3c0/124",
-    "ip_type": "IPv6",
-    "service": "LogicApps.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005:402::3e0/123",
-    "ip_type": "IPv6",
-    "service": "LogicApps.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "4.229.67.220/31",
-    "ip_type": "IPv4",
-    "service": "MicrosoftCloudAppSecurity.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "4.229.68.32/27",
-    "ip_type": "IPv4",
-    "service": "MicrosoftCloudAppSecurity.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "4.229.68.64/28",
-    "ip_type": "IPv4",
-    "service": "MicrosoftCloudAppSecurity.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "4.248.98.186/31",
-    "ip_type": "IPv4",
-    "service": "MicrosoftCloudAppSecurity.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "4.248.98.192/29",
-    "ip_type": "IPv4",
-    "service": "MicrosoftCloudAppSecurity.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.69.108.96/27",
-    "ip_type": "IPv4",
-    "service": "MicrosoftCloudAppSecurity.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.69.106.72/29",
-    "ip_type": "IPv4",
-    "service": "MicrosoftContainerRegistry.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005:402::88/125",
-    "ip_type": "IPv6",
-    "service": "MicrosoftContainerRegistry.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "4.229.115.96/27",
-    "ip_type": "IPv4",
-    "service": "PowerBI.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "4.239.1.32/27",
-    "ip_type": "IPv4",
-    "service": "PowerBI.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "4.239.66.192/26",
-    "ip_type": "IPv4",
-    "service": "PowerBI.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "20.175.2.248/31",
-    "ip_type": "IPv4",
-    "service": "PowerBI.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "20.175.5.152/29",
-    "ip_type": "IPv4",
-    "service": "PowerBI.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "20.175.6.192/27",
-    "ip_type": "IPv4",
-    "service": "PowerBI.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "20.175.6.224/28",
-    "ip_type": "IPv4",
-    "service": "PowerBI.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.89.16.122/31",
-    "ip_type": "IPv4",
-    "service": "PowerBI.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.89.17.144/28",
-    "ip_type": "IPv4",
-    "service": "PowerBI.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.89.17.160/27",
-    "ip_type": "IPv4",
-    "service": "PowerBI.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.139.108.116/30",
-    "ip_type": "IPv4",
-    "service": "PowerBI.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.242.40.92/30",
-    "ip_type": "IPv4",
-    "service": "PowerBI.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.242.40.96/29",
-    "ip_type": "IPv4",
-    "service": "PowerBI.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.242.47.40/30",
-    "ip_type": "IPv4",
-    "service": "PowerBI.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.242.47.96/29",
-    "ip_type": "IPv4",
-    "service": "PowerBI.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005::620/123",
-    "ip_type": "IPv6",
-    "service": "PowerBI.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005::640/122",
-    "ip_type": "IPv6",
-    "service": "PowerBI.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "4.248.98.200/29",
-    "ip_type": "IPv4",
-    "service": "PowerPlatformInfra.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "4.248.99.192/26",
-    "ip_type": "IPv4",
-    "service": "PowerPlatformInfra.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "4.248.100.0/23",
-    "ip_type": "IPv4",
-    "service": "PowerPlatformInfra.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "4.248.102.0/25",
-    "ip_type": "IPv4",
-    "service": "PowerPlatformInfra.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "20.175.7.40/29",
-    "ip_type": "IPv4",
-    "service": "PowerPlatformInfra.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "20.175.7.96/27",
-    "ip_type": "IPv4",
-    "service": "PowerPlatformInfra.CanadaEast",
+    "service": "AzureCloud.canadaeast",
     "region": "canadaeast"
   },
   {
@@ -1998,9 +1110,171 @@
     "region": "canadaeast"
   },
   {
+    "ip_address": "40.80.250.168/32",
+    "ip_type": "IPv4",
+    "service": "AzureDataExplorerManagement.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.80.255.12/32",
+    "ip_type": "IPv4",
+    "service": "AzureDataExplorerManagement.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.86.192.0/18",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadaeast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.86.201.128/32",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.86.202.35/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
     "ip_address": "40.86.203.16/32",
     "ip_type": "IPv4",
     "service": "PowerPlatformInfra.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.86.205.75/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.86.206.74/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.86.208.137/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.86.224.98/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.86.224.104/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.86.225.89/32",
+    "ip_type": "IPv4",
+    "service": "AppService.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.86.226.166/32",
+    "ip_type": "IPv4",
+    "service": "Sql.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.86.226.221/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.86.227.188/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.86.228.72/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.86.229.100/32",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.86.229.179/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.86.229.191/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.86.229.245/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.86.230.96/32",
+    "ip_type": "IPv4",
+    "service": "AppService.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.86.230.174/32",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.86.232.64/28",
+    "ip_type": "IPv4",
+    "service": "Storage.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.86.232.96/28",
+    "ip_type": "IPv4",
+    "service": "Storage.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.86.232.128/28",
+    "ip_type": "IPv4",
+    "service": "Storage.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.86.232.176/28",
+    "ip_type": "IPv4",
+    "service": "Storage.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.86.232.192/28",
+    "ip_type": "IPv4",
+    "service": "Storage.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.86.240.237/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.CanadaEast",
     "region": "canadaeast"
   },
   {
@@ -2010,9 +1284,147 @@
     "region": "canadaeast"
   },
   {
+    "ip_address": "40.86.248.230/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
     "ip_address": "40.86.254.125/32",
     "ip_type": "IPv4",
     "service": "PowerPlatformInfra.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.89.0.0/19",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadaeast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.89.16.64/30",
+    "ip_type": "IPv4",
+    "service": "AzureBotService.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.89.16.72/29",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.89.16.120/31",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.89.16.122/31",
+    "ip_type": "IPv4",
+    "service": "PowerBI.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.89.16.128/25",
+    "ip_type": "IPv4",
+    "service": "DataFactory.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.89.17.0/26",
+    "ip_type": "IPv4",
+    "service": "DataFactory.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.89.17.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureCognitiveSearch.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.89.17.128/28",
+    "ip_type": "IPv4",
+    "service": "AzureOpenDatasets.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.89.17.144/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.89.17.160/27",
+    "ip_type": "IPv4",
+    "service": "PowerBI.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.89.17.192/28",
+    "ip_type": "IPv4",
+    "service": "AzureDevSpaces.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.89.17.208/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.89.17.232/29",
+    "ip_type": "IPv4",
+    "service": "StorageSyncService.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.89.18.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.89.18.160/27",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.89.18.192/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.89.19.0/27",
+    "ip_type": "IPv4",
+    "service": "AppService.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.89.20.128/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.89.20.132/30",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.89.20.192/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.89.20.224/29",
+    "ip_type": "IPv4",
+    "service": "DataFactory.CanadaEast",
     "region": "canadaeast"
   },
   {
@@ -2025,6 +1437,12 @@
     "ip_address": "40.89.20.240/28",
     "ip_type": "IPv4",
     "service": "PowerPlatformInfra.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.89.21.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.CanadaEast",
     "region": "canadaeast"
   },
   {
@@ -2052,6 +1470,12 @@
     "region": "canadaeast"
   },
   {
+    "ip_address": "40.89.22.88/29",
+    "ip_type": "IPv4",
+    "service": "HDInsight.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
     "ip_address": "40.89.22.96/27",
     "ip_type": "IPv4",
     "service": "PowerPlatformInfra.CanadaEast",
@@ -2070,537 +1494,39 @@
     "region": "canadaeast"
   },
   {
+    "ip_address": "40.89.22.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.89.23.32/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.89.23.44/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.89.23.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "40.89.23.232/29",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
     "ip_address": "40.89.23.240/29",
     "ip_type": "IPv4",
     "service": "PowerPlatformInfra.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.139.80.229/32",
-    "ip_type": "IPv4",
-    "service": "PowerPlatformInfra.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.139.83.184/32",
-    "ip_type": "IPv4",
-    "service": "PowerPlatformInfra.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.139.86.52/32",
-    "ip_type": "IPv4",
-    "service": "PowerPlatformInfra.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.139.111.136/29",
-    "ip_type": "IPv4",
-    "service": "PowerPlatformInfra.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.139.111.160/27",
-    "ip_type": "IPv4",
-    "service": "PowerPlatformInfra.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.139.111.192/26",
-    "ip_type": "IPv4",
-    "service": "PowerPlatformInfra.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.155.25.132/32",
-    "ip_type": "IPv4",
-    "service": "PowerPlatformInfra.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.155.25.145/32",
-    "ip_type": "IPv4",
-    "service": "PowerPlatformInfra.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.155.25.157/32",
-    "ip_type": "IPv4",
-    "service": "PowerPlatformInfra.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.229.79.225/32",
-    "ip_type": "IPv4",
-    "service": "PowerPlatformInfra.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.229.88.158/32",
-    "ip_type": "IPv4",
-    "service": "PowerPlatformInfra.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.229.119.249/32",
-    "ip_type": "IPv4",
-    "service": "PowerPlatformInfra.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.235.17.70/32",
-    "ip_type": "IPv4",
-    "service": "PowerPlatformInfra.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.235.57.68/30",
-    "ip_type": "IPv4",
-    "service": "PowerPlatformInfra.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.235.57.140/32",
-    "ip_type": "IPv4",
-    "service": "PowerPlatformInfra.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.235.57.203/32",
-    "ip_type": "IPv4",
-    "service": "PowerPlatformInfra.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.235.57.252/30",
-    "ip_type": "IPv4",
-    "service": "PowerPlatformInfra.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.235.63.0/32",
-    "ip_type": "IPv4",
-    "service": "PowerPlatformInfra.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.242.47.120/29",
-    "ip_type": "IPv4",
-    "service": "PowerPlatformInfra.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1061:2002:6100::/57",
-    "ip_type": "IPv6",
-    "service": "PowerPlatformInfra.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "4.239.65.128/25",
-    "ip_type": "IPv4",
-    "service": "PowerPlatformPlex.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "4.239.66.0/25",
-    "ip_type": "IPv4",
-    "service": "PowerPlatformPlex.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "4.239.66.128/26",
-    "ip_type": "IPv4",
-    "service": "PowerPlatformPlex.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "4.248.98.160/29",
-    "ip_type": "IPv4",
-    "service": "PowerPlatformPlex.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "20.175.5.0/27",
-    "ip_type": "IPv4",
-    "service": "PowerPlatformPlex.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "20.175.5.32/29",
-    "ip_type": "IPv4",
-    "service": "PowerPlatformPlex.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.155.27.128/26",
-    "ip_type": "IPv4",
-    "service": "PowerPlatformPlex.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.242.44.192/28",
-    "ip_type": "IPv4",
-    "service": "PowerPlatformPlex.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.242.44.208/30",
-    "ip_type": "IPv4",
-    "service": "PowerPlatformPlex.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.242.44.236/30",
-    "ip_type": "IPv4",
-    "service": "PowerPlatformPlex.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.242.44.248/29",
-    "ip_type": "IPv4",
-    "service": "PowerPlatformPlex.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.242.45.48/29",
-    "ip_type": "IPv4",
-    "service": "PowerPlatformPlex.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1061:2004:5200::/57",
-    "ip_type": "IPv6",
-    "service": "PowerPlatformPlex.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1061:2004:8800::/57",
-    "ip_type": "IPv6",
-    "service": "PowerPlatformPlex.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.69.116.110/31",
-    "ip_type": "IPv4",
-    "service": "PowerQueryOnline.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.89.16.120/31",
-    "ip_type": "IPv4",
-    "service": "PowerQueryOnline.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "52.242.44.240/29",
-    "ip_type": "IPv4",
-    "service": "PowerQueryOnline.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005::200/123",
-    "ip_type": "IPv6",
-    "service": "PowerQueryOnline.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005:402::168/125",
-    "ip_type": "IPv6",
-    "service": "PowerQueryOnline.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "4.229.81.128/27",
-    "ip_type": "IPv4",
-    "service": "SCCservice.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.69.111.96/29",
-    "ip_type": "IPv4",
-    "service": "SCCservice.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005:8::420/123",
-    "ip_type": "IPv6",
-    "service": "SCCservice.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.69.107.0/29",
-    "ip_type": "IPv4",
-    "service": "ServiceFabric.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.86.230.174/32",
-    "ip_type": "IPv4",
-    "service": "ServiceFabric.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005:402::98/125",
-    "ip_type": "IPv6",
-    "service": "ServiceFabric.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.69.111.200/29",
-    "ip_type": "IPv4",
-    "service": "StorageSyncService.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.89.17.232/29",
-    "ip_type": "IPv4",
-    "service": "StorageSyncService.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005::340/123",
-    "ip_type": "IPv6",
-    "service": "StorageSyncService.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1030:1005:402::5e0/123",
-    "ip_type": "IPv6",
-    "service": "StorageSyncService.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.64.146.208/28",
-    "ip_type": "IPv4",
-    "service": "WindowsVirtualDesktop.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.64.151.160/27",
-    "ip_type": "IPv4",
-    "service": "WindowsVirtualDesktop.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "2603:1061:2010:4::/117",
-    "ip_type": "IPv6",
-    "service": "WindowsVirtualDesktop.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "4.229.0.0/17",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.canadaeast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "4.239.0.0/17",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.canadaeast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "4.248.0.0/17",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.canadaeast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "13.104.154.128/25",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.canadaeast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "20.20.129.0/24",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.canadaeast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "20.33.192.0/24",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.canadaeast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "20.38.121.128/25",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.canadaeast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "20.47.41.0/24",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.canadaeast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "20.47.88.0/24",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.canadaeast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "20.48.208.0/21",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.canadaeast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "20.60.142.0/23",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.canadaeast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "20.95.17.0/24",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.canadaeast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "20.95.49.0/24",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.canadaeast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "20.104.128.0/18",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.canadaeast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "20.135.66.0/23",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.canadaeast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "20.150.1.0/25",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.canadaeast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "20.150.40.128/25",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.canadaeast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "20.150.113.0/24",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.canadaeast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "20.157.4.0/23",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.canadaeast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "20.157.8.0/22",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.canadaeast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "20.157.161.0/24",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.canadaeast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "20.175.0.0/17",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.canadaeast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "20.190.139.128/25",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.canadaeast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "20.190.162.0/24",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.canadaeast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "20.200.0.0/18",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.canadaeast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "20.209.64.0/23",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.canadaeast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "20.220.64.0/18",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.canadaeast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.64.146.208/28",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.canadaeast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.64.151.160/27",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.canadaeast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.64.162.0/25",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.canadaeast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.69.96.0/19",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.canadaeast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.79.217.0/24",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.canadaeast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.80.40.0/22",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.canadaeast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.80.240.0/20",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.canadaeast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.86.192.0/18",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.canadaeast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "40.89.0.0/19",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.canadaeast",
     "region": "canadaeast"
   },
   {
@@ -2802,15 +1728,297 @@
     "region": "canadaeast"
   },
   {
+    "ip_address": "52.139.80.117/32",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.139.80.229/32",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.139.83.184/32",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.139.85.16/28",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.139.85.32/28",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.139.86.52/32",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.139.86.210/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.139.87.129/32",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.139.87.150/32",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.139.104.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.139.106.96/27",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.139.106.160/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.139.106.192/26",
+    "ip_type": "IPv4",
+    "service": "Sql.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.139.107.0/26",
+    "ip_type": "IPv4",
+    "service": "Sql.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.139.107.96/27",
+    "ip_type": "IPv4",
+    "service": "AzureSignalR.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.139.107.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.139.107.208/29",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.139.107.216/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.139.108.116/30",
+    "ip_type": "IPv4",
+    "service": "PowerBI.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.139.109.0/24",
+    "ip_type": "IPv4",
+    "service": "EventHub.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.139.110.0/25",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.139.111.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.139.111.32/28",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.139.111.64/26",
+    "ip_type": "IPv4",
+    "service": "DataFactory.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.139.111.136/29",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.139.111.160/27",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.139.111.192/26",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
     "ip_address": "52.155.0.0/19",
     "ip_type": "IPv4",
     "service": "AzureCloud.canadaeast",
     "region": "canadaeast"
   },
   {
+    "ip_address": "52.155.25.132/32",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.155.25.145/32",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.155.25.157/32",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.155.27.128/26",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.155.27.249/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.155.28.10/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
     "ip_address": "52.229.64.0/18",
     "ip_type": "IPv4",
     "service": "AzureCloud.canadaeast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.229.79.225/32",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.229.80.64/27",
+    "ip_type": "IPv4",
+    "service": "Storage.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.229.88.158/32",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.229.99.183/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.229.100.167/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.229.105.109/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.229.114.105/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.229.114.121/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.229.115.84/32",
+    "ip_type": "IPv4",
+    "service": "AppService.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.229.119.249/32",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.229.123.172/32",
+    "ip_type": "IPv4",
+    "service": "HDInsight.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.229.126.67/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.229.126.142/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.229.127.96/32",
+    "ip_type": "IPv4",
+    "service": "HDInsight.CanadaEast",
     "region": "canadaeast"
   },
   {
@@ -2826,9 +2034,57 @@
     "region": "canadaeast"
   },
   {
+    "ip_address": "52.235.17.70/32",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.235.41.66/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.235.57.68/30",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.235.57.140/32",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.235.57.203/32",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.235.57.252/30",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.235.63.0/32",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
     "ip_address": "52.239.164.128/26",
     "ip_type": "IPv4",
     "service": "AzureCloud.canadaeast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.239.164.128/26",
+    "ip_type": "IPv4",
+    "service": "Storage.CanadaEast",
     "region": "canadaeast"
   },
   {
@@ -2838,9 +2094,207 @@
     "region": "canadaeast"
   },
   {
+    "ip_address": "52.239.190.0/25",
+    "ip_type": "IPv4",
+    "service": "Storage.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
     "ip_address": "52.242.0.0/18",
     "ip_type": "IPv4",
     "service": "AzureCloud.canadaeast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.242.22.129/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.242.22.213/32",
+    "ip_type": "IPv4",
+    "service": "AppService.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.242.27.213/32",
+    "ip_type": "IPv4",
+    "service": "AppService.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.242.30.112/32",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.242.30.154/32",
+    "ip_type": "IPv4",
+    "service": "Sql.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.242.31.77/32",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.242.33.105/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.242.35.152/32",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.242.36.40/32",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.242.40.92/30",
+    "ip_type": "IPv4",
+    "service": "PowerBI.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.242.40.96/29",
+    "ip_type": "IPv4",
+    "service": "PowerBI.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.242.40.112/28",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.242.40.192/28",
+    "ip_type": "IPv4",
+    "service": "AppService.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.242.40.208/30",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.242.41.0/24",
+    "ip_type": "IPv4",
+    "service": "AppService.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.242.42.0/23",
+    "ip_type": "IPv4",
+    "service": "AppService.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.242.44.0/27",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.242.44.48/28",
+    "ip_type": "IPv4",
+    "service": "LogicApps.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.242.44.160/28",
+    "ip_type": "IPv4",
+    "service": "LogicApps.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.242.44.192/28",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.242.44.208/30",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.242.44.236/30",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.242.44.240/29",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.242.44.248/29",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.242.45.48/29",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.242.45.56/29",
+    "ip_type": "IPv4",
+    "service": "DataFactory.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.242.47.8/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.242.47.40/30",
+    "ip_type": "IPv4",
+    "service": "PowerBI.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.242.47.80/28",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.242.47.96/29",
+    "ip_type": "IPv4",
+    "service": "PowerBI.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.242.47.120/29",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "52.242.47.128/28",
+    "ip_type": "IPv4",
+    "service": "AzureDataExplorerManagement.CanadaEast",
     "region": "canadaeast"
   },
   {
@@ -2874,15 +2328,33 @@
     "region": "canadaeast"
   },
   {
+    "ip_address": "135.130.50.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
     "ip_address": "145.190.159.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.canadaeast",
     "region": "canadaeast"
   },
   {
+    "ip_address": "145.190.159.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
     "ip_address": "145.191.128.0/17",
     "ip_type": "IPv4",
     "service": "AzureCloud.canadaeast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "145.191.128.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.CanadaEast",
     "region": "canadaeast"
   },
   {
@@ -2916,9 +2388,513 @@
     "region": "canadaeast"
   },
   {
+    "ip_address": "2603:1030:1005::20/123",
+    "ip_type": "IPv6",
+    "service": "AzureBotService.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005::40/122",
+    "ip_type": "IPv6",
+    "service": "GatewayManager.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005::100/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005::108/126",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005::10c/126",
+    "ip_type": "IPv6",
+    "service": "ActionGroup.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005::180/121",
+    "ip_type": "IPv6",
+    "service": "AzureCognitiveSearch.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005::200/123",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005::220/123",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005::240/122",
+    "ip_type": "IPv6",
+    "service": "EventHub.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005::280/123",
+    "ip_type": "IPv6",
+    "service": "Sql.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005::2a0/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005::2a8/126",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005::300/122",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005::340/123",
+    "ip_type": "IPv6",
+    "service": "StorageSyncService.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005::380/121",
+    "ip_type": "IPv6",
+    "service": "AzureEventGrid.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005::400/122",
+    "ip_type": "IPv6",
+    "service": "BatchNodeManagement.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005::440/122",
+    "ip_type": "IPv6",
+    "service": "DataFactory.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005::500/121",
+    "ip_type": "IPv6",
+    "service": "DataFactory.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005::620/123",
+    "ip_type": "IPv6",
+    "service": "PowerBI.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005::640/122",
+    "ip_type": "IPv6",
+    "service": "PowerBI.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005::6c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005::700/121",
+    "ip_type": "IPv6",
+    "service": "AzurePortal.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005::780/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:1::200/121",
+    "ip_type": "IPv6",
+    "service": "Sql.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:1::280/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:1::300/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:1::380/121",
+    "ip_type": "IPv6",
+    "service": "AzureDataExplorerManagement.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:1::4a0/123",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:1::500/120",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:2::/120",
+    "ip_type": "IPv6",
+    "service": "EventHub.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:2::100/120",
+    "ip_type": "IPv6",
+    "service": "AzureSignalR.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:2::400/118",
+    "ip_type": "IPv6",
+    "service": "AppService.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:3::20/123",
+    "ip_type": "IPv6",
+    "service": "AzureCosmosDB.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:3::180/125",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:3::1c0/124",
+    "ip_type": "IPv6",
+    "service": "ApiManagement.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:3::1e0/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:3::200/121",
+    "ip_type": "IPv6",
+    "service": "AzureDigitalTwins.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:3::280/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:3::430/124",
+    "ip_type": "IPv6",
+    "service": "HDInsight.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:3::500/120",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:3::640/122",
+    "ip_type": "IPv6",
+    "service": "AzureConnectors.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:3::6a0/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:3::6c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:3::780/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:6::40/122",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:6::80/121",
+    "ip_type": "IPv6",
+    "service": "Sql.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:8::420/123",
+    "ip_type": "IPv6",
+    "service": "SCCservice.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:b::700/120",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:c::180/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:c::2d1/128",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:c::2d8/125",
+    "ip_type": "IPv6",
+    "service": "AzureDevOps.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:c::3e0/123",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:c::480/124",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:c::490/126",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:c::494/127",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:c::496/128",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:400::/123",
+    "ip_type": "IPv6",
+    "service": "Sql.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:402::80/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:402::88/125",
+    "ip_type": "IPv6",
+    "service": "MicrosoftContainerRegistry.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:402::90/125",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:402::98/125",
+    "ip_type": "IPv6",
+    "service": "ServiceFabric.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:402::a0/123",
+    "ip_type": "IPv6",
+    "service": "AppService.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:402::c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureCosmosDB.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:402::100/122",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:402::140/124",
+    "ip_type": "IPv6",
+    "service": "ApiManagement.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:402::150/124",
+    "ip_type": "IPv6",
+    "service": "AzureDataExplorerManagement.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:402::168/125",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:402::170/125",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:402::178/125",
+    "ip_type": "IPv6",
+    "service": "ActionGroup.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:402::180/122",
+    "ip_type": "IPv6",
+    "service": "AzureConnectors.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:402::1c0/123",
+    "ip_type": "IPv6",
+    "service": "EventHub.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:402::200/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:402::280/122",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:402::300/123",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:402::320/124",
+    "ip_type": "IPv6",
+    "service": "HDInsight.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:402::330/124",
+    "ip_type": "IPv6",
+    "service": "DataFactory.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:402::340/122",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:402::3c0/124",
+    "ip_type": "IPv6",
+    "service": "LogicApps.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:402::3e0/123",
+    "ip_type": "IPv6",
+    "service": "LogicApps.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:402::500/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:402::580/122",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:402::5e0/123",
+    "ip_type": "IPv6",
+    "service": "StorageSyncService.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:402::600/121",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
     "ip_address": "2603:1030:1006::/47",
     "ip_type": "IPv6",
     "service": "AzureCloud.canadaeast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1006::/48",
+    "ip_type": "IPv6",
+    "service": "Storage.CanadaEast",
     "region": "canadaeast"
   },
   {
@@ -2988,9 +2964,21 @@
     "region": "canadaeast"
   },
   {
+    "ip_address": "2603:1061:2002:6100::/57",
+    "ip_type": "IPv6",
+    "service": "PowerPlatformInfra.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
     "ip_address": "2603:1061:2004:5200::/57",
     "ip_type": "IPv6",
     "service": "AzureCloud.canadaeast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1061:2004:5200::/57",
+    "ip_type": "IPv6",
+    "service": "PowerPlatformPlex.CanadaEast",
     "region": "canadaeast"
   },
   {
@@ -3000,9 +2988,21 @@
     "region": "canadaeast"
   },
   {
+    "ip_address": "2603:1061:2004:8800::/57",
+    "ip_type": "IPv6",
+    "service": "PowerPlatformPlex.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
     "ip_address": "2603:1061:2010:4::/64",
     "ip_type": "IPv6",
     "service": "AzureCloud.canadaeast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1061:2010:4::/117",
+    "ip_type": "IPv6",
+    "service": "WindowsVirtualDesktop.CanadaEast",
     "region": "canadaeast"
   },
   {

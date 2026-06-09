@@ -1,5 +1,30 @@
 [
   {
+    "ip_address": "104.28.146.255/32",
+    "ip_type": "IPv4",
+    "region": "LB"
+  },
+  {
+    "ip_address": "140.248.24.76/31",
+    "ip_type": "IPv4",
+    "region": "LB"
+  },
+  {
+    "ip_address": "140.248.36.166/31",
+    "ip_type": "IPv4",
+    "region": "LB"
+  },
+  {
+    "ip_address": "140.248.41.76/31",
+    "ip_type": "IPv4",
+    "region": "LB"
+  },
+  {
+    "ip_address": "146.75.166.94/31",
+    "ip_type": "IPv4",
+    "region": "LB"
+  },
+  {
     "ip_address": "172.224.250.32/28",
     "ip_type": "IPv4",
     "region": "LB"
@@ -27,6 +52,26 @@
   {
     "ip_address": "172.225.227.32/28",
     "ip_type": "IPv4",
+    "region": "LB"
+  },
+  {
+    "ip_address": "2606:54c0:4780::/45",
+    "ip_type": "IPv6",
+    "region": "LB"
+  },
+  {
+    "ip_address": "2606:54c0:4788::/45",
+    "ip_type": "IPv6",
+    "region": "LB"
+  },
+  {
+    "ip_address": "2606:54c3:0:5dc::/64",
+    "ip_type": "IPv6",
+    "region": "LB"
+  },
+  {
+    "ip_address": "2606:54c3:0:16fa::/64",
+    "ip_type": "IPv6",
     "region": "LB"
   },
   {
@@ -75,27 +120,22 @@
     "region": "LB"
   },
   {
-    "ip_address": "104.28.146.255/32",
-    "ip_type": "IPv4",
-    "region": "LB"
-  },
-  {
-    "ip_address": "2606:54c0:4780::/45",
+    "ip_address": "2a04:4e41:80e::/48",
     "ip_type": "IPv6",
     "region": "LB"
   },
   {
-    "ip_address": "2606:54c0:4788::/45",
+    "ip_address": "2a04:4e41:1828::/48",
     "ip_type": "IPv6",
     "region": "LB"
   },
   {
-    "ip_address": "2606:54c3:0:5dc::/64",
+    "ip_address": "2a04:4e41:480e::/48",
     "ip_type": "IPv6",
     "region": "LB"
   },
   {
-    "ip_address": "2606:54c3:0:16fa::/64",
+    "ip_address": "2a04:4e41:5210::/48",
     "ip_type": "IPv6",
     "region": "LB"
   },
@@ -117,46 +157,6 @@
   {
     "ip_address": "2a09:bac3:4788::/45",
     "ip_type": "IPv6",
-    "region": "LB"
-  },
-  {
-    "ip_address": "2a04:4e41:80e::/48",
-    "ip_type": "IPv6",
-    "region": "LB"
-  },
-  {
-    "ip_address": "2a04:4e41:1828::/48",
-    "ip_type": "IPv6",
-    "region": "LB"
-  },
-  {
-    "ip_address": "2a04:4e41:480e::/48",
-    "ip_type": "IPv6",
-    "region": "LB"
-  },
-  {
-    "ip_address": "2a04:4e41:5210::/48",
-    "ip_type": "IPv6",
-    "region": "LB"
-  },
-  {
-    "ip_address": "140.248.24.76/31",
-    "ip_type": "IPv4",
-    "region": "LB"
-  },
-  {
-    "ip_address": "140.248.36.166/31",
-    "ip_type": "IPv4",
-    "region": "LB"
-  },
-  {
-    "ip_address": "140.248.41.76/31",
-    "ip_type": "IPv4",
-    "region": "LB"
-  },
-  {
-    "ip_address": "146.75.166.94/31",
-    "ip_type": "IPv4",
     "region": "LB"
   }
 ]

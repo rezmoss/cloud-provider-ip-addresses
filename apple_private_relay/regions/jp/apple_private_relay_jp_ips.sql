@@ -43,6 +43,10 @@ INSERT INTO `apple_private_relay_jp_ips` (`ip_address`, `ip_type`) VALUES ('104.
 INSERT INTO `apple_private_relay_jp_ips` (`ip_address`, `ip_type`) VALUES ('104.28.150.96/32', 'IPv4');
 INSERT INTO `apple_private_relay_jp_ips` (`ip_address`, `ip_type`) VALUES ('104.28.150.97/32', 'IPv4');
 INSERT INTO `apple_private_relay_jp_ips` (`ip_address`, `ip_type`) VALUES ('104.28.150.178/32', 'IPv4');
+INSERT INTO `apple_private_relay_jp_ips` (`ip_address`, `ip_type`) VALUES ('140.248.29.8/31', 'IPv4');
+INSERT INTO `apple_private_relay_jp_ips` (`ip_address`, `ip_type`) VALUES ('140.248.33.10/31', 'IPv4');
+INSERT INTO `apple_private_relay_jp_ips` (`ip_address`, `ip_type`) VALUES ('146.75.189.10/31', 'IPv4');
+INSERT INTO `apple_private_relay_jp_ips` (`ip_address`, `ip_type`) VALUES ('146.75.201.0/31', 'IPv4');
 INSERT INTO `apple_private_relay_jp_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:4250::/45', 'IPv6');
 INSERT INTO `apple_private_relay_jp_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:4258::/45', 'IPv6');
 INSERT INTO `apple_private_relay_jp_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:4260::/45', 'IPv6');
@@ -61,6 +65,10 @@ INSERT INTO `apple_private_relay_jp_ips` (`ip_address`, `ip_type`) VALUES ('2606
 INSERT INTO `apple_private_relay_jp_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:161b::/64', 'IPv6');
 INSERT INTO `apple_private_relay_jp_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:19af::/64', 'IPv6');
 INSERT INTO `apple_private_relay_jp_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:19f9::/64', 'IPv6');
+INSERT INTO `apple_private_relay_jp_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:2300::/40', 'IPv6');
+INSERT INTO `apple_private_relay_jp_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:2500::/40', 'IPv6');
+INSERT INTO `apple_private_relay_jp_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:6100::/40', 'IPv6');
+INSERT INTO `apple_private_relay_jp_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:6b00::/40', 'IPv6');
 INSERT INTO `apple_private_relay_jp_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:4250::/45', 'IPv6');
 INSERT INTO `apple_private_relay_jp_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:4258::/45', 'IPv6');
 INSERT INTO `apple_private_relay_jp_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:4260::/45', 'IPv6');
@@ -79,11 +87,3 @@ INSERT INTO `apple_private_relay_jp_ips` (`ip_address`, `ip_type`) VALUES ('2a09
 INSERT INTO `apple_private_relay_jp_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:4280::/45', 'IPv6');
 INSERT INTO `apple_private_relay_jp_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:4288::/45', 'IPv6');
 INSERT INTO `apple_private_relay_jp_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:4290::/45', 'IPv6');
-INSERT INTO `apple_private_relay_jp_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:2300::/40', 'IPv6');
-INSERT INTO `apple_private_relay_jp_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:2500::/40', 'IPv6');
-INSERT INTO `apple_private_relay_jp_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:6100::/40', 'IPv6');
-INSERT INTO `apple_private_relay_jp_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:6b00::/40', 'IPv6');
-INSERT INTO `apple_private_relay_jp_ips` (`ip_address`, `ip_type`) VALUES ('140.248.29.8/31', 'IPv4');
-INSERT INTO `apple_private_relay_jp_ips` (`ip_address`, `ip_type`) VALUES ('140.248.33.10/31', 'IPv4');
-INSERT INTO `apple_private_relay_jp_ips` (`ip_address`, `ip_type`) VALUES ('146.75.189.10/31', 'IPv4');
-INSERT INTO `apple_private_relay_jp_ips` (`ip_address`, `ip_type`) VALUES ('146.75.201.0/31', 'IPv4');

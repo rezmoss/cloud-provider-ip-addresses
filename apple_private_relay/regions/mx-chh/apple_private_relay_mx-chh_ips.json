@@ -1,5 +1,65 @@
 [
   {
+    "ip_address": "104.28.48.32/32",
+    "ip_type": "IPv4",
+    "region": "MX-CHH"
+  },
+  {
+    "ip_address": "104.28.48.33/32",
+    "ip_type": "IPv4",
+    "region": "MX-CHH"
+  },
+  {
+    "ip_address": "104.28.50.29/32",
+    "ip_type": "IPv4",
+    "region": "MX-CHH"
+  },
+  {
+    "ip_address": "104.28.50.30/32",
+    "ip_type": "IPv4",
+    "region": "MX-CHH"
+  },
+  {
+    "ip_address": "104.28.85.30/32",
+    "ip_type": "IPv4",
+    "region": "MX-CHH"
+  },
+  {
+    "ip_address": "104.28.85.31/32",
+    "ip_type": "IPv4",
+    "region": "MX-CHH"
+  },
+  {
+    "ip_address": "104.28.91.89/32",
+    "ip_type": "IPv4",
+    "region": "MX-CHH"
+  },
+  {
+    "ip_address": "104.28.91.90/32",
+    "ip_type": "IPv4",
+    "region": "MX-CHH"
+  },
+  {
+    "ip_address": "104.28.111.40/32",
+    "ip_type": "IPv4",
+    "region": "MX-CHH"
+  },
+  {
+    "ip_address": "104.28.111.41/32",
+    "ip_type": "IPv4",
+    "region": "MX-CHH"
+  },
+  {
+    "ip_address": "146.75.152.8/31",
+    "ip_type": "IPv4",
+    "region": "MX-CHH"
+  },
+  {
+    "ip_address": "146.75.164.6/31",
+    "ip_type": "IPv4",
+    "region": "MX-CHH"
+  },
+  {
     "ip_address": "172.225.18.0/28",
     "ip_type": "IPv4",
     "region": "MX-CHH"
@@ -87,6 +147,56 @@
   {
     "ip_address": "172.226.174.96/27",
     "ip_type": "IPv4",
+    "region": "MX-CHH"
+  },
+  {
+    "ip_address": "2606:54c0:49d8::/45",
+    "ip_type": "IPv6",
+    "region": "MX-CHH"
+  },
+  {
+    "ip_address": "2606:54c0:49e0::/45",
+    "ip_type": "IPv6",
+    "region": "MX-CHH"
+  },
+  {
+    "ip_address": "2606:54c0:49e8::/45",
+    "ip_type": "IPv6",
+    "region": "MX-CHH"
+  },
+  {
+    "ip_address": "2606:54c0:49f0::/45",
+    "ip_type": "IPv6",
+    "region": "MX-CHH"
+  },
+  {
+    "ip_address": "2606:54c0:49f8::/45",
+    "ip_type": "IPv6",
+    "region": "MX-CHH"
+  },
+  {
+    "ip_address": "2606:54c3:0:acf::/64",
+    "ip_type": "IPv6",
+    "region": "MX-CHH"
+  },
+  {
+    "ip_address": "2606:54c3:0:afc::/64",
+    "ip_type": "IPv6",
+    "region": "MX-CHH"
+  },
+  {
+    "ip_address": "2606:54c3:0:10c2::/64",
+    "ip_type": "IPv6",
+    "region": "MX-CHH"
+  },
+  {
+    "ip_address": "2606:54c3:0:141e::/64",
+    "ip_type": "IPv6",
+    "region": "MX-CHH"
+  },
+  {
+    "ip_address": "2606:54c3:0:165e::/64",
+    "ip_type": "IPv6",
     "region": "MX-CHH"
   },
   {
@@ -365,102 +475,12 @@
     "region": "MX-CHH"
   },
   {
-    "ip_address": "104.28.48.32/32",
-    "ip_type": "IPv4",
-    "region": "MX-CHH"
-  },
-  {
-    "ip_address": "104.28.48.33/32",
-    "ip_type": "IPv4",
-    "region": "MX-CHH"
-  },
-  {
-    "ip_address": "104.28.50.29/32",
-    "ip_type": "IPv4",
-    "region": "MX-CHH"
-  },
-  {
-    "ip_address": "104.28.50.30/32",
-    "ip_type": "IPv4",
-    "region": "MX-CHH"
-  },
-  {
-    "ip_address": "104.28.85.30/32",
-    "ip_type": "IPv4",
-    "region": "MX-CHH"
-  },
-  {
-    "ip_address": "104.28.85.31/32",
-    "ip_type": "IPv4",
-    "region": "MX-CHH"
-  },
-  {
-    "ip_address": "104.28.91.89/32",
-    "ip_type": "IPv4",
-    "region": "MX-CHH"
-  },
-  {
-    "ip_address": "104.28.91.90/32",
-    "ip_type": "IPv4",
-    "region": "MX-CHH"
-  },
-  {
-    "ip_address": "104.28.111.40/32",
-    "ip_type": "IPv4",
-    "region": "MX-CHH"
-  },
-  {
-    "ip_address": "104.28.111.41/32",
-    "ip_type": "IPv4",
-    "region": "MX-CHH"
-  },
-  {
-    "ip_address": "2606:54c0:49d8::/45",
+    "ip_address": "2a04:4e41:2c00:1000::/52",
     "ip_type": "IPv6",
     "region": "MX-CHH"
   },
   {
-    "ip_address": "2606:54c0:49e0::/45",
-    "ip_type": "IPv6",
-    "region": "MX-CHH"
-  },
-  {
-    "ip_address": "2606:54c0:49e8::/45",
-    "ip_type": "IPv6",
-    "region": "MX-CHH"
-  },
-  {
-    "ip_address": "2606:54c0:49f0::/45",
-    "ip_type": "IPv6",
-    "region": "MX-CHH"
-  },
-  {
-    "ip_address": "2606:54c0:49f8::/45",
-    "ip_type": "IPv6",
-    "region": "MX-CHH"
-  },
-  {
-    "ip_address": "2606:54c3:0:acf::/64",
-    "ip_type": "IPv6",
-    "region": "MX-CHH"
-  },
-  {
-    "ip_address": "2606:54c3:0:afc::/64",
-    "ip_type": "IPv6",
-    "region": "MX-CHH"
-  },
-  {
-    "ip_address": "2606:54c3:0:10c2::/64",
-    "ip_type": "IPv6",
-    "region": "MX-CHH"
-  },
-  {
-    "ip_address": "2606:54c3:0:141e::/64",
-    "ip_type": "IPv6",
-    "region": "MX-CHH"
-  },
-  {
-    "ip_address": "2606:54c3:0:165e::/64",
+    "ip_address": "2a04:4e41:2e00:1000::/52",
     "ip_type": "IPv6",
     "region": "MX-CHH"
   },
@@ -512,26 +532,6 @@
   {
     "ip_address": "2a09:bac3:49f8::/45",
     "ip_type": "IPv6",
-    "region": "MX-CHH"
-  },
-  {
-    "ip_address": "2a04:4e41:2c00:1000::/52",
-    "ip_type": "IPv6",
-    "region": "MX-CHH"
-  },
-  {
-    "ip_address": "2a04:4e41:2e00:1000::/52",
-    "ip_type": "IPv6",
-    "region": "MX-CHH"
-  },
-  {
-    "ip_address": "146.75.152.8/31",
-    "ip_type": "IPv4",
-    "region": "MX-CHH"
-  },
-  {
-    "ip_address": "146.75.164.6/31",
-    "ip_type": "IPv4",
     "region": "MX-CHH"
   }
 ]

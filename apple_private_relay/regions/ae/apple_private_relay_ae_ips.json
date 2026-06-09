@@ -1,5 +1,25 @@
 [
   {
+    "ip_address": "140.248.28.0/31",
+    "ip_type": "IPv4",
+    "region": "AE"
+  },
+  {
+    "ip_address": "146.75.162.0/31",
+    "ip_type": "IPv4",
+    "region": "AE"
+  },
+  {
+    "ip_address": "146.75.166.0/31",
+    "ip_type": "IPv4",
+    "region": "AE"
+  },
+  {
+    "ip_address": "146.75.211.0/31",
+    "ip_type": "IPv4",
+    "region": "AE"
+  },
+  {
     "ip_address": "172.225.52.160/28",
     "ip_type": "IPv4",
     "region": "AE"
@@ -57,6 +77,16 @@
   {
     "ip_address": "172.225.220.0/28",
     "ip_type": "IPv4",
+    "region": "AE"
+  },
+  {
+    "ip_address": "2606:54c0:8::/45",
+    "ip_type": "IPv6",
+    "region": "AE"
+  },
+  {
+    "ip_address": "2606:54c3:0:1707::/64",
+    "ip_type": "IPv6",
     "region": "AE"
   },
   {
@@ -330,26 +360,6 @@
     "region": "AE"
   },
   {
-    "ip_address": "2606:54c0:8::/45",
-    "ip_type": "IPv6",
-    "region": "AE"
-  },
-  {
-    "ip_address": "2606:54c3:0:1707::/64",
-    "ip_type": "IPv6",
-    "region": "AE"
-  },
-  {
-    "ip_address": "2a09:bac2:8::/45",
-    "ip_type": "IPv6",
-    "region": "AE"
-  },
-  {
-    "ip_address": "2a09:bac3:8::/45",
-    "ip_type": "IPv6",
-    "region": "AE"
-  },
-  {
     "ip_address": "2a04:4e41:202::/48",
     "ip_type": "IPv6",
     "region": "AE"
@@ -370,23 +380,13 @@
     "region": "AE"
   },
   {
-    "ip_address": "140.248.28.0/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:8::/45",
+    "ip_type": "IPv6",
     "region": "AE"
   },
   {
-    "ip_address": "146.75.162.0/31",
-    "ip_type": "IPv4",
-    "region": "AE"
-  },
-  {
-    "ip_address": "146.75.166.0/31",
-    "ip_type": "IPv4",
-    "region": "AE"
-  },
-  {
-    "ip_address": "146.75.211.0/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:8::/45",
+    "ip_type": "IPv6",
     "region": "AE"
   }
 ]

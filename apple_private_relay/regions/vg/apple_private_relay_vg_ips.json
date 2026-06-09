@@ -1,5 +1,95 @@
 [
   {
+    "ip_address": "104.28.36.16/32",
+    "ip_type": "IPv4",
+    "region": "VG"
+  },
+  {
+    "ip_address": "104.28.36.17/32",
+    "ip_type": "IPv4",
+    "region": "VG"
+  },
+  {
+    "ip_address": "104.28.76.6/32",
+    "ip_type": "IPv4",
+    "region": "VG"
+  },
+  {
+    "ip_address": "104.28.76.7/32",
+    "ip_type": "IPv4",
+    "region": "VG"
+  },
+  {
+    "ip_address": "104.28.78.6/32",
+    "ip_type": "IPv4",
+    "region": "VG"
+  },
+  {
+    "ip_address": "104.28.78.7/32",
+    "ip_type": "IPv4",
+    "region": "VG"
+  },
+  {
+    "ip_address": "104.28.92.8/32",
+    "ip_type": "IPv4",
+    "region": "VG"
+  },
+  {
+    "ip_address": "104.28.92.9/32",
+    "ip_type": "IPv4",
+    "region": "VG"
+  },
+  {
+    "ip_address": "104.28.94.8/32",
+    "ip_type": "IPv4",
+    "region": "VG"
+  },
+  {
+    "ip_address": "104.28.94.9/32",
+    "ip_type": "IPv4",
+    "region": "VG"
+  },
+  {
+    "ip_address": "104.28.109.8/32",
+    "ip_type": "IPv4",
+    "region": "VG"
+  },
+  {
+    "ip_address": "104.28.109.9/32",
+    "ip_type": "IPv4",
+    "region": "VG"
+  },
+  {
+    "ip_address": "104.28.126.8/32",
+    "ip_type": "IPv4",
+    "region": "VG"
+  },
+  {
+    "ip_address": "104.28.126.9/32",
+    "ip_type": "IPv4",
+    "region": "VG"
+  },
+  {
+    "ip_address": "140.248.44.108/31",
+    "ip_type": "IPv4",
+    "region": "VG"
+  },
+  {
+    "ip_address": "146.75.148.12/31",
+    "ip_type": "IPv4",
+    "region": "VG"
+  },
+  {
+    "ip_address": "146.75.244.12/31",
+    "ip_type": "IPv4",
+    "region": "VG"
+  },
+  {
+    "ip_address": "146.75.252.10/31",
+    "ip_type": "IPv4",
+    "region": "VG"
+  },
+  {
     "ip_address": "172.224.244.8/31",
     "ip_type": "IPv4",
     "region": "VG"
@@ -47,6 +137,16 @@
   {
     "ip_address": "172.226.166.192/31",
     "ip_type": "IPv4",
+    "region": "VG"
+  },
+  {
+    "ip_address": "2606:54c0:d2e8::/45",
+    "ip_type": "IPv6",
+    "region": "VG"
+  },
+  {
+    "ip_address": "2606:54c3:0:160e::/64",
+    "ip_type": "IPv6",
     "region": "VG"
   },
   {
@@ -125,96 +225,6 @@
     "region": "VG"
   },
   {
-    "ip_address": "104.28.36.16/32",
-    "ip_type": "IPv4",
-    "region": "VG"
-  },
-  {
-    "ip_address": "104.28.36.17/32",
-    "ip_type": "IPv4",
-    "region": "VG"
-  },
-  {
-    "ip_address": "104.28.76.6/32",
-    "ip_type": "IPv4",
-    "region": "VG"
-  },
-  {
-    "ip_address": "104.28.76.7/32",
-    "ip_type": "IPv4",
-    "region": "VG"
-  },
-  {
-    "ip_address": "104.28.78.6/32",
-    "ip_type": "IPv4",
-    "region": "VG"
-  },
-  {
-    "ip_address": "104.28.78.7/32",
-    "ip_type": "IPv4",
-    "region": "VG"
-  },
-  {
-    "ip_address": "104.28.92.8/32",
-    "ip_type": "IPv4",
-    "region": "VG"
-  },
-  {
-    "ip_address": "104.28.92.9/32",
-    "ip_type": "IPv4",
-    "region": "VG"
-  },
-  {
-    "ip_address": "104.28.94.8/32",
-    "ip_type": "IPv4",
-    "region": "VG"
-  },
-  {
-    "ip_address": "104.28.94.9/32",
-    "ip_type": "IPv4",
-    "region": "VG"
-  },
-  {
-    "ip_address": "104.28.109.8/32",
-    "ip_type": "IPv4",
-    "region": "VG"
-  },
-  {
-    "ip_address": "104.28.109.9/32",
-    "ip_type": "IPv4",
-    "region": "VG"
-  },
-  {
-    "ip_address": "104.28.126.8/32",
-    "ip_type": "IPv4",
-    "region": "VG"
-  },
-  {
-    "ip_address": "104.28.126.9/32",
-    "ip_type": "IPv4",
-    "region": "VG"
-  },
-  {
-    "ip_address": "2606:54c0:d2e8::/45",
-    "ip_type": "IPv6",
-    "region": "VG"
-  },
-  {
-    "ip_address": "2606:54c3:0:160e::/64",
-    "ip_type": "IPv6",
-    "region": "VG"
-  },
-  {
-    "ip_address": "2a09:bac2:d2e8::/45",
-    "ip_type": "IPv6",
-    "region": "VG"
-  },
-  {
-    "ip_address": "2a09:bac3:d2e8::/45",
-    "ip_type": "IPv6",
-    "region": "VG"
-  },
-  {
     "ip_address": "2a04:4e41:614::/48",
     "ip_type": "IPv6",
     "region": "VG"
@@ -235,23 +245,13 @@
     "region": "VG"
   },
   {
-    "ip_address": "140.248.44.108/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:d2e8::/45",
+    "ip_type": "IPv6",
     "region": "VG"
   },
   {
-    "ip_address": "146.75.148.12/31",
-    "ip_type": "IPv4",
-    "region": "VG"
-  },
-  {
-    "ip_address": "146.75.244.12/31",
-    "ip_type": "IPv4",
-    "region": "VG"
-  },
-  {
-    "ip_address": "146.75.252.10/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:d2e8::/45",
+    "ip_type": "IPv6",
     "region": "VG"
   }
 ]

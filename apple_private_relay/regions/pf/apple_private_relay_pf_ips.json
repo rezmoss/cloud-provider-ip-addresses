@@ -1,5 +1,50 @@
 [
   {
+    "ip_address": "104.28.59.169/32",
+    "ip_type": "IPv4",
+    "region": "PF"
+  },
+  {
+    "ip_address": "104.28.59.170/32",
+    "ip_type": "IPv4",
+    "region": "PF"
+  },
+  {
+    "ip_address": "104.28.115.69/32",
+    "ip_type": "IPv4",
+    "region": "PF"
+  },
+  {
+    "ip_address": "104.28.115.98/32",
+    "ip_type": "IPv4",
+    "region": "PF"
+  },
+  {
+    "ip_address": "140.248.10.12/31",
+    "ip_type": "IPv4",
+    "region": "PF"
+  },
+  {
+    "ip_address": "140.248.43.16/31",
+    "ip_type": "IPv4",
+    "region": "PF"
+  },
+  {
+    "ip_address": "140.248.48.30/31",
+    "ip_type": "IPv4",
+    "region": "PF"
+  },
+  {
+    "ip_address": "146.75.146.16/31",
+    "ip_type": "IPv4",
+    "region": "PF"
+  },
+  {
+    "ip_address": "146.75.154.16/31",
+    "ip_type": "IPv4",
+    "region": "PF"
+  },
+  {
     "ip_address": "172.225.62.0/27",
     "ip_type": "IPv4",
     "region": "PF"
@@ -72,6 +117,26 @@
   {
     "ip_address": "172.226.36.160/27",
     "ip_type": "IPv4",
+    "region": "PF"
+  },
+  {
+    "ip_address": "2606:54c0:4eb0::/45",
+    "ip_type": "IPv6",
+    "region": "PF"
+  },
+  {
+    "ip_address": "2606:54c0:4eb8::/45",
+    "ip_type": "IPv6",
+    "region": "PF"
+  },
+  {
+    "ip_address": "2606:54c3:0:263::/64",
+    "ip_type": "IPv6",
+    "region": "PF"
+  },
+  {
+    "ip_address": "2606:54c3:0:119e::/64",
+    "ip_type": "IPv6",
     "region": "PF"
   },
   {
@@ -260,66 +325,6 @@
     "region": "PF"
   },
   {
-    "ip_address": "104.28.59.169/32",
-    "ip_type": "IPv4",
-    "region": "PF"
-  },
-  {
-    "ip_address": "104.28.59.170/32",
-    "ip_type": "IPv4",
-    "region": "PF"
-  },
-  {
-    "ip_address": "104.28.115.69/32",
-    "ip_type": "IPv4",
-    "region": "PF"
-  },
-  {
-    "ip_address": "104.28.115.98/32",
-    "ip_type": "IPv4",
-    "region": "PF"
-  },
-  {
-    "ip_address": "2606:54c0:4eb0::/45",
-    "ip_type": "IPv6",
-    "region": "PF"
-  },
-  {
-    "ip_address": "2606:54c0:4eb8::/45",
-    "ip_type": "IPv6",
-    "region": "PF"
-  },
-  {
-    "ip_address": "2606:54c3:0:263::/64",
-    "ip_type": "IPv6",
-    "region": "PF"
-  },
-  {
-    "ip_address": "2606:54c3:0:119e::/64",
-    "ip_type": "IPv6",
-    "region": "PF"
-  },
-  {
-    "ip_address": "2a09:bac2:4eb0::/45",
-    "ip_type": "IPv6",
-    "region": "PF"
-  },
-  {
-    "ip_address": "2a09:bac2:4eb8::/45",
-    "ip_type": "IPv6",
-    "region": "PF"
-  },
-  {
-    "ip_address": "2a09:bac3:4eb0::/45",
-    "ip_type": "IPv6",
-    "region": "PF"
-  },
-  {
-    "ip_address": "2a09:bac3:4eb8::/45",
-    "ip_type": "IPv6",
-    "region": "PF"
-  },
-  {
     "ip_address": "2a04:4e41:1c01::/48",
     "ip_type": "IPv6",
     "region": "PF"
@@ -345,28 +350,23 @@
     "region": "PF"
   },
   {
-    "ip_address": "140.248.10.12/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:4eb0::/45",
+    "ip_type": "IPv6",
     "region": "PF"
   },
   {
-    "ip_address": "140.248.43.16/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:4eb8::/45",
+    "ip_type": "IPv6",
     "region": "PF"
   },
   {
-    "ip_address": "140.248.48.30/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:4eb0::/45",
+    "ip_type": "IPv6",
     "region": "PF"
   },
   {
-    "ip_address": "146.75.146.16/31",
-    "ip_type": "IPv4",
-    "region": "PF"
-  },
-  {
-    "ip_address": "146.75.154.16/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:4eb8::/45",
+    "ip_type": "IPv6",
     "region": "PF"
   }
 ]

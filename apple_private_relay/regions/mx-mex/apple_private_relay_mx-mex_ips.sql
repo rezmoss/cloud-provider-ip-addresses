@@ -6,10 +6,24 @@ CREATE TABLE IF NOT EXISTS `apple_private_relay_mx-mex_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `apple_private_relay_mx-mex_ips` (`ip_address`, `ip_type`) VALUES ('104.28.50.10/32', 'IPv4');
+INSERT INTO `apple_private_relay_mx-mex_ips` (`ip_address`, `ip_type`) VALUES ('104.28.50.11/32', 'IPv4');
+INSERT INTO `apple_private_relay_mx-mex_ips` (`ip_address`, `ip_type`) VALUES ('104.28.91.70/32', 'IPv4');
+INSERT INTO `apple_private_relay_mx-mex_ips` (`ip_address`, `ip_type`) VALUES ('104.28.91.71/32', 'IPv4');
+INSERT INTO `apple_private_relay_mx-mex_ips` (`ip_address`, `ip_type`) VALUES ('104.28.92.99/32', 'IPv4');
+INSERT INTO `apple_private_relay_mx-mex_ips` (`ip_address`, `ip_type`) VALUES ('104.28.92.100/32', 'IPv4');
+INSERT INTO `apple_private_relay_mx-mex_ips` (`ip_address`, `ip_type`) VALUES ('104.28.94.99/32', 'IPv4');
+INSERT INTO `apple_private_relay_mx-mex_ips` (`ip_address`, `ip_type`) VALUES ('104.28.94.100/32', 'IPv4');
+INSERT INTO `apple_private_relay_mx-mex_ips` (`ip_address`, `ip_type`) VALUES ('104.28.111.21/32', 'IPv4');
+INSERT INTO `apple_private_relay_mx-mex_ips` (`ip_address`, `ip_type`) VALUES ('104.28.111.22/32', 'IPv4');
+INSERT INTO `apple_private_relay_mx-mex_ips` (`ip_address`, `ip_type`) VALUES ('104.28.126.99/32', 'IPv4');
+INSERT INTO `apple_private_relay_mx-mex_ips` (`ip_address`, `ip_type`) VALUES ('104.28.126.100/32', 'IPv4');
 INSERT INTO `apple_private_relay_mx-mex_ips` (`ip_address`, `ip_type`) VALUES ('172.225.14.192/26', 'IPv4');
 INSERT INTO `apple_private_relay_mx-mex_ips` (`ip_address`, `ip_type`) VALUES ('172.225.92.192/26', 'IPv4');
 INSERT INTO `apple_private_relay_mx-mex_ips` (`ip_address`, `ip_type`) VALUES ('172.225.103.0/27', 'IPv4');
 INSERT INTO `apple_private_relay_mx-mex_ips` (`ip_address`, `ip_type`) VALUES ('172.226.122.0/27', 'IPv4');
+INSERT INTO `apple_private_relay_mx-mex_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:4ad0::/45', 'IPv6');
+INSERT INTO `apple_private_relay_mx-mex_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:87b::/64', 'IPv6');
 INSERT INTO `apple_private_relay_mx-mex_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:c000:5c2e::/64', 'IPv6');
 INSERT INTO `apple_private_relay_mx-mex_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:c000:5c2f::/64', 'IPv6');
 INSERT INTO `apple_private_relay_mx-mex_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:c000:5c30::/64', 'IPv6');
@@ -57,19 +71,5 @@ INSERT INTO `apple_private_relay_mx-mex_ips` (`ip_address`, `ip_type`) VALUES ('
 INSERT INTO `apple_private_relay_mx-mex_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:c018:5c30::/64', 'IPv6');
 INSERT INTO `apple_private_relay_mx-mex_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:c018:5c31::/64', 'IPv6');
 INSERT INTO `apple_private_relay_mx-mex_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:c018:5c32::/64', 'IPv6');
-INSERT INTO `apple_private_relay_mx-mex_ips` (`ip_address`, `ip_type`) VALUES ('104.28.50.10/32', 'IPv4');
-INSERT INTO `apple_private_relay_mx-mex_ips` (`ip_address`, `ip_type`) VALUES ('104.28.50.11/32', 'IPv4');
-INSERT INTO `apple_private_relay_mx-mex_ips` (`ip_address`, `ip_type`) VALUES ('104.28.91.70/32', 'IPv4');
-INSERT INTO `apple_private_relay_mx-mex_ips` (`ip_address`, `ip_type`) VALUES ('104.28.91.71/32', 'IPv4');
-INSERT INTO `apple_private_relay_mx-mex_ips` (`ip_address`, `ip_type`) VALUES ('104.28.92.99/32', 'IPv4');
-INSERT INTO `apple_private_relay_mx-mex_ips` (`ip_address`, `ip_type`) VALUES ('104.28.92.100/32', 'IPv4');
-INSERT INTO `apple_private_relay_mx-mex_ips` (`ip_address`, `ip_type`) VALUES ('104.28.94.99/32', 'IPv4');
-INSERT INTO `apple_private_relay_mx-mex_ips` (`ip_address`, `ip_type`) VALUES ('104.28.94.100/32', 'IPv4');
-INSERT INTO `apple_private_relay_mx-mex_ips` (`ip_address`, `ip_type`) VALUES ('104.28.111.21/32', 'IPv4');
-INSERT INTO `apple_private_relay_mx-mex_ips` (`ip_address`, `ip_type`) VALUES ('104.28.111.22/32', 'IPv4');
-INSERT INTO `apple_private_relay_mx-mex_ips` (`ip_address`, `ip_type`) VALUES ('104.28.126.99/32', 'IPv4');
-INSERT INTO `apple_private_relay_mx-mex_ips` (`ip_address`, `ip_type`) VALUES ('104.28.126.100/32', 'IPv4');
-INSERT INTO `apple_private_relay_mx-mex_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:4ad0::/45', 'IPv6');
-INSERT INTO `apple_private_relay_mx-mex_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:87b::/64', 'IPv6');
 INSERT INTO `apple_private_relay_mx-mex_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:4ad0::/45', 'IPv6');
 INSERT INTO `apple_private_relay_mx-mex_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:4ad0::/45', 'IPv6');

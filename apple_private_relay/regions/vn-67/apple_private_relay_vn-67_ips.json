@@ -1,25 +1,5 @@
 [
   {
-    "ip_address": "2a02:26f7:c5c0:4f98::/64",
-    "ip_type": "IPv6",
-    "region": "VN-67"
-  },
-  {
-    "ip_address": "2a02:26f7:c5c4:4f98::/64",
-    "ip_type": "IPv6",
-    "region": "VN-67"
-  },
-  {
-    "ip_address": "2a02:26f7:c5c5:4f98::/64",
-    "ip_type": "IPv6",
-    "region": "VN-67"
-  },
-  {
-    "ip_address": "2a02:26f7:c5c8:4f98::/64",
-    "ip_type": "IPv6",
-    "region": "VN-67"
-  },
-  {
     "ip_address": "104.28.44.220/32",
     "ip_type": "IPv4",
     "region": "VN-67"
@@ -86,6 +66,26 @@
   },
   {
     "ip_address": "2606:54c3:0:361::/64",
+    "ip_type": "IPv6",
+    "region": "VN-67"
+  },
+  {
+    "ip_address": "2a02:26f7:c5c0:4f98::/64",
+    "ip_type": "IPv6",
+    "region": "VN-67"
+  },
+  {
+    "ip_address": "2a02:26f7:c5c4:4f98::/64",
+    "ip_type": "IPv6",
+    "region": "VN-67"
+  },
+  {
+    "ip_address": "2a02:26f7:c5c5:4f98::/64",
+    "ip_type": "IPv6",
+    "region": "VN-67"
+  },
+  {
+    "ip_address": "2a02:26f7:c5c8:4f98::/64",
     "ip_type": "IPv6",
     "region": "VN-67"
   },

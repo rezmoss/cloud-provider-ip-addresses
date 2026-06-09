@@ -1,1418 +1,158 @@
 [
   {
-    "ip_address": "13.71.199.112/30",
+    "ip_address": "4.255.128.0/17",
     "ip_type": "IPv4",
-    "service": "ActionGroup.WestCentralUS",
+    "service": "AzureCloud.westcentralus",
     "region": "westcentralus"
   },
   {
-    "ip_address": "20.69.8.102/31",
+    "ip_address": "4.255.138.74/32",
     "ip_type": "IPv4",
-    "service": "ActionGroup.WestCentralUS",
+    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
     "region": "westcentralus"
   },
   {
-    "ip_address": "20.168.188.36/30",
+    "ip_address": "4.255.144.104/32",
     "ip_type": "IPv4",
-    "service": "ActionGroup.WestCentralUS",
+    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
     "region": "westcentralus"
   },
   {
-    "ip_address": "172.215.202.24/30",
+    "ip_address": "4.255.145.22/32",
     "ip_type": "IPv4",
-    "service": "ActionGroup.WestCentralUS",
+    "service": "LogicApps.WestCentralUS",
     "region": "westcentralus"
   },
   {
-    "ip_address": "2603:1030:b04:1::4cc/126",
-    "ip_type": "IPv6",
-    "service": "ActionGroup.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04:402::178/125",
-    "ip_type": "IPv6",
-    "service": "ActionGroup.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04:800::40/125",
-    "ip_type": "IPv6",
-    "service": "ActionGroup.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "13.71.194.116/31",
-    "ip_type": "IPv4",
-    "service": "ApiManagement.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "13.71.196.32/28",
-    "ip_type": "IPv4",
-    "service": "ApiManagement.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.253.135.58/32",
-    "ip_type": "IPv4",
-    "service": "ApiManagement.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "128.24.200.144/28",
-    "ip_type": "IPv4",
-    "service": "ApiManagement.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04:402::140/124",
-    "ip_type": "IPv6",
-    "service": "ApiManagement.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "13.71.194.192/27",
-    "ip_type": "IPv4",
-    "service": "AppService.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "13.78.150.96/32",
-    "ip_type": "IPv4",
-    "service": "AppService.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "13.78.184.89/32",
-    "ip_type": "IPv4",
-    "service": "AppService.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "20.69.5.168/29",
-    "ip_type": "IPv4",
-    "service": "AppService.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "20.69.6.0/24",
-    "ip_type": "IPv4",
-    "service": "AppService.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "20.69.7.0/25",
-    "ip_type": "IPv4",
-    "service": "AppService.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.150.140.224/27",
-    "ip_type": "IPv4",
-    "service": "AppService.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.161.96.193/32",
-    "ip_type": "IPv4",
-    "service": "AppService.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04:3::200/119",
-    "ip_type": "IPv6",
-    "service": "AppService.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04:402::a0/123",
-    "ip_type": "IPv6",
-    "service": "AppService.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "13.71.194.128/26",
-    "ip_type": "IPv4",
-    "service": "AppServiceManagement.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "13.78.148.75/32",
-    "ip_type": "IPv4",
-    "service": "AppServiceManagement.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "20.69.5.128/28",
-    "ip_type": "IPv4",
-    "service": "AppServiceManagement.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "128.24.232.0/29",
-    "ip_type": "IPv4",
-    "service": "AppServiceManagement.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04:1::4a0/123",
-    "ip_type": "IPv6",
-    "service": "AppServiceManagement.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04:402::100/122",
-    "ip_type": "IPv6",
-    "service": "AppServiceManagement.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "13.71.199.117/32",
-    "ip_type": "IPv4",
-    "service": "AzureArcInfrastructure.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "20.51.45.36/32",
-    "ip_type": "IPv4",
-    "service": "AzureArcInfrastructure.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "40.67.122.108/30",
-    "ip_type": "IPv4",
-    "service": "AzureArcInfrastructure.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "40.67.122.112/32",
-    "ip_type": "IPv4",
-    "service": "AzureArcInfrastructure.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "40.67.122.120/29",
-    "ip_type": "IPv4",
-    "service": "AzureArcInfrastructure.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.150.152.204/30",
-    "ip_type": "IPv4",
-    "service": "AzureArcInfrastructure.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.150.156.36/30",
-    "ip_type": "IPv4",
-    "service": "AzureArcInfrastructure.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "172.215.202.52/32",
-    "ip_type": "IPv4",
-    "service": "AzureArcInfrastructure.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04:f::3db/128",
-    "ip_type": "IPv6",
-    "service": "AzureArcInfrastructure.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "20.51.53.8/29",
-    "ip_type": "IPv4",
-    "service": "AzureAttestation.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "40.67.121.196/30",
-    "ip_type": "IPv4",
-    "service": "AzureAttestation.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "48.194.162.248/29",
-    "ip_type": "IPv4",
-    "service": "AzureAttestation.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "48.194.163.0/30",
-    "ip_type": "IPv4",
-    "service": "AzureAttestation.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.150.157.172/30",
-    "ip_type": "IPv4",
-    "service": "AzureAttestation.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "13.71.195.64/26",
-    "ip_type": "IPv4",
-    "service": "AzureBackup.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "13.71.195.128/27",
-    "ip_type": "IPv4",
-    "service": "AzureBackup.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "20.69.1.0/26",
-    "ip_type": "IPv4",
-    "service": "AzureBackup.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04:f::700/121",
-    "ip_type": "IPv6",
-    "service": "AzureBackup.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04:402::200/121",
-    "ip_type": "IPv6",
-    "service": "AzureBackup.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "13.71.196.160/30",
-    "ip_type": "IPv4",
-    "service": "AzureBotService.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.150.136.64/30",
-    "ip_type": "IPv4",
-    "service": "AzureBotService.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04::20/123",
-    "ip_type": "IPv6",
-    "service": "AzureBotService.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.150.139.0/26",
-    "ip_type": "IPv4",
-    "service": "AzureCognitiveSearch.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04::180/121",
-    "ip_type": "IPv6",
-    "service": "AzureCognitiveSearch.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "13.71.195.32/28",
-    "ip_type": "IPv4",
-    "service": "AzureConnectors.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "13.71.199.192/27",
-    "ip_type": "IPv4",
-    "service": "AzureConnectors.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "13.78.132.82/32",
-    "ip_type": "IPv4",
-    "service": "AzureConnectors.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "13.78.135.84/32",
-    "ip_type": "IPv4",
-    "service": "AzureConnectors.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "13.78.135.117/32",
-    "ip_type": "IPv4",
-    "service": "AzureConnectors.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "13.78.178.187/32",
-    "ip_type": "IPv4",
-    "service": "AzureConnectors.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "20.69.4.0/27",
-    "ip_type": "IPv4",
-    "service": "AzureConnectors.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "20.69.4.32/28",
-    "ip_type": "IPv4",
-    "service": "AzureConnectors.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.161.101.204/32",
-    "ip_type": "IPv4",
-    "service": "AzureConnectors.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.161.102.22/32",
-    "ip_type": "IPv4",
-    "service": "AzureConnectors.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04:402::180/122",
-    "ip_type": "IPv6",
-    "service": "AzureConnectors.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "13.71.194.224/29",
-    "ip_type": "IPv4",
-    "service": "AzureContainerRegistry.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "20.168.190.0/25",
-    "ip_type": "IPv4",
-    "service": "AzureContainerRegistry.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "40.67.121.0/25",
-    "ip_type": "IPv4",
-    "service": "AzureContainerRegistry.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "40.67.122.128/26",
-    "ip_type": "IPv4",
-    "service": "AzureContainerRegistry.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.150.156.64/26",
-    "ip_type": "IPv4",
-    "service": "AzureContainerRegistry.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "57.151.152.64/26",
-    "ip_type": "IPv4",
-    "service": "AzureContainerRegistry.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "57.151.154.0/25",
-    "ip_type": "IPv4",
-    "service": "AzureContainerRegistry.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "172.215.202.64/26",
-    "ip_type": "IPv4",
-    "service": "AzureContainerRegistry.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "172.215.203.128/25",
-    "ip_type": "IPv4",
-    "service": "AzureContainerRegistry.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04:3::540/122",
-    "ip_type": "IPv6",
-    "service": "AzureContainerRegistry.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04:402::90/125",
-    "ip_type": "IPv6",
-    "service": "AzureContainerRegistry.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04:402::340/122",
-    "ip_type": "IPv6",
-    "service": "AzureContainerRegistry.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04:402::580/122",
-    "ip_type": "IPv6",
-    "service": "AzureContainerRegistry.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04:800::8/125",
-    "ip_type": "IPv6",
-    "service": "AzureContainerRegistry.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04:800::100/121",
-    "ip_type": "IPv6",
-    "service": "AzureContainerRegistry.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04:c00::8/125",
-    "ip_type": "IPv6",
-    "service": "AzureContainerRegistry.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04:c00::80/121",
-    "ip_type": "IPv6",
-    "service": "AzureContainerRegistry.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "13.71.194.0/26",
-    "ip_type": "IPv4",
-    "service": "AzureCosmosDB.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.148.41.0/26",
-    "ip_type": "IPv4",
-    "service": "AzureCosmosDB.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.148.42.128/25",
-    "ip_type": "IPv4",
-    "service": "AzureCosmosDB.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.148.43.0/26",
-    "ip_type": "IPv4",
-    "service": "AzureCosmosDB.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.150.154.224/27",
-    "ip_type": "IPv4",
-    "service": "AzureCosmosDB.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.153.155.166/32",
-    "ip_type": "IPv4",
-    "service": "AzureCosmosDB.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.153.155.205/32",
-    "ip_type": "IPv4",
-    "service": "AzureCosmosDB.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.159.50.179/32",
-    "ip_type": "IPv4",
-    "service": "AzureCosmosDB.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.161.13.67/32",
-    "ip_type": "IPv4",
-    "service": "AzureCosmosDB.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.161.22.131/32",
-    "ip_type": "IPv4",
-    "service": "AzureCosmosDB.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.161.100.126/32",
-    "ip_type": "IPv4",
-    "service": "AzureCosmosDB.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04:6::700/122",
-    "ip_type": "IPv6",
-    "service": "AzureCosmosDB.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04:402::c0/122",
-    "ip_type": "IPv6",
-    "service": "AzureCosmosDB.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "13.71.196.64/28",
-    "ip_type": "IPv4",
-    "service": "AzureDataExplorerManagement.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "20.51.53.160/28",
-    "ip_type": "IPv4",
-    "service": "AzureDataExplorerManagement.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.159.55.120/32",
-    "ip_type": "IPv4",
-    "service": "AzureDataExplorerManagement.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04:1::380/121",
-    "ip_type": "IPv6",
-    "service": "AzureDataExplorerManagement.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04:402::150/124",
-    "ip_type": "IPv6",
-    "service": "AzureDataExplorerManagement.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.150.138.0/24",
-    "ip_type": "IPv4",
-    "service": "AzureDevOps.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04:d::200/120",
-    "ip_type": "IPv6",
-    "service": "AzureDevOps.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "13.71.199.96/28",
-    "ip_type": "IPv4",
-    "service": "AzureDevSpaces.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.150.139.144/28",
-    "ip_type": "IPv4",
-    "service": "AzureDevSpaces.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "20.168.190.152/29",
-    "ip_type": "IPv4",
-    "service": "AzureDigitalTwins.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.148.29.27/32",
-    "ip_type": "IPv4",
-    "service": "AzureDigitalTwins.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.148.46.114/31",
-    "ip_type": "IPv4",
-    "service": "AzureDigitalTwins.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.150.156.248/29",
-    "ip_type": "IPv4",
-    "service": "AzureDigitalTwins.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.150.157.32/27",
-    "ip_type": "IPv4",
-    "service": "AzureDigitalTwins.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.153.153.146/32",
-    "ip_type": "IPv4",
-    "service": "AzureDigitalTwins.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.153.153.246/32",
-    "ip_type": "IPv4",
-    "service": "AzureDigitalTwins.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.153.153.255/32",
-    "ip_type": "IPv4",
-    "service": "AzureDigitalTwins.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.153.154.13/32",
-    "ip_type": "IPv4",
-    "service": "AzureDigitalTwins.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.153.154.40/32",
-    "ip_type": "IPv4",
-    "service": "AzureDigitalTwins.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.153.154.123/32",
-    "ip_type": "IPv4",
-    "service": "AzureDigitalTwins.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.153.154.158/32",
-    "ip_type": "IPv4",
-    "service": "AzureDigitalTwins.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.153.154.161/32",
-    "ip_type": "IPv4",
-    "service": "AzureDigitalTwins.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.161.185.49/32",
-    "ip_type": "IPv4",
-    "service": "AzureDigitalTwins.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04:3::478/126",
-    "ip_type": "IPv6",
-    "service": "AzureDigitalTwins.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.148.45.0/24",
-    "ip_type": "IPv4",
-    "service": "AzureEventGrid.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.150.140.0/25",
-    "ip_type": "IPv4",
-    "service": "AzureEventGrid.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.159.49.144/28",
-    "ip_type": "IPv4",
-    "service": "AzureEventGrid.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.159.51.160/28",
-    "ip_type": "IPv4",
-    "service": "AzureEventGrid.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.159.53.64/28",
-    "ip_type": "IPv4",
-    "service": "AzureEventGrid.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.159.53.112/28",
-    "ip_type": "IPv4",
-    "service": "AzureEventGrid.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.161.186.128/28",
-    "ip_type": "IPv4",
-    "service": "AzureEventGrid.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.161.186.208/28",
-    "ip_type": "IPv4",
-    "service": "AzureEventGrid.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04::380/121",
-    "ip_type": "IPv6",
-    "service": "AzureEventGrid.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "13.71.194.64/27",
-    "ip_type": "IPv4",
-    "service": "EventHub.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "20.69.3.0/24",
-    "ip_type": "IPv4",
-    "service": "EventHub.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "40.67.123.0/24",
-    "ip_type": "IPv4",
-    "service": "EventHub.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "57.151.152.128/26",
-    "ip_type": "IPv4",
-    "service": "EventHub.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "172.215.202.128/26",
-    "ip_type": "IPv4",
-    "service": "EventHub.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04::240/122",
-    "ip_type": "IPv6",
-    "service": "EventHub.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04:1::600/120",
-    "ip_type": "IPv6",
-    "service": "EventHub.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04:402::1c0/123",
-    "ip_type": "IPv6",
-    "service": "EventHub.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "13.71.196.224/27",
-    "ip_type": "IPv4",
-    "service": "AzureIoTHub.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "13.78.129.154/32",
-    "ip_type": "IPv4",
-    "service": "AzureIoTHub.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "13.78.130.69/32",
-    "ip_type": "IPv4",
-    "service": "AzureIoTHub.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.150.152.96/27",
-    "ip_type": "IPv4",
-    "service": "AzureIoTHub.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.150.153.128/25",
-    "ip_type": "IPv4",
-    "service": "AzureIoTHub.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.161.15.247/32",
-    "ip_type": "IPv4",
-    "service": "AzureIoTHub.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "57.151.152.224/27",
-    "ip_type": "IPv4",
-    "service": "AzureIoTHub.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "172.215.203.0/27",
-    "ip_type": "IPv4",
-    "service": "AzureIoTHub.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04:402::300/123",
-    "ip_type": "IPv6",
-    "service": "AzureIoTHub.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04:800::80/123",
-    "ip_type": "IPv6",
-    "service": "AzureIoTHub.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04:c00::40/123",
-    "ip_type": "IPv6",
-    "service": "AzureIoTHub.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "13.71.194.112/30",
-    "ip_type": "IPv4",
-    "service": "AzureKeyVault.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "20.69.1.104/29",
-    "ip_type": "IPv4",
-    "service": "AzureKeyVault.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "20.69.1.112/30",
-    "ip_type": "IPv4",
-    "service": "AzureKeyVault.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "57.151.155.72/30",
-    "ip_type": "IPv4",
-    "service": "AzureKeyVault.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "172.215.206.216/30",
-    "ip_type": "IPv4",
-    "service": "AzureKeyVault.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04::108/125",
-    "ip_type": "IPv6",
-    "service": "AzureKeyVault.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04::110/126",
-    "ip_type": "IPv6",
-    "service": "AzureKeyVault.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04::2a0/125",
-    "ip_type": "IPv6",
-    "service": "AzureKeyVault.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04:402::80/125",
-    "ip_type": "IPv6",
-    "service": "AzureKeyVault.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04:800::50/125",
-    "ip_type": "IPv6",
-    "service": "AzureKeyVault.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04:c00::18/125",
-    "ip_type": "IPv6",
-    "service": "AzureKeyVault.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "13.71.194.240/28",
-    "ip_type": "IPv4",
-    "service": "AzureMachineLearning.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "20.69.1.240/28",
-    "ip_type": "IPv4",
-    "service": "AzureMachineLearning.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "48.194.152.22/31",
-    "ip_type": "IPv4",
-    "service": "AzureMachineLearning.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "48.194.152.24/30",
-    "ip_type": "IPv4",
-    "service": "AzureMachineLearning.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "48.194.152.28/32",
-    "ip_type": "IPv4",
-    "service": "AzureMachineLearning.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "48.194.152.128/27",
-    "ip_type": "IPv4",
-    "service": "AzureMachineLearning.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "48.194.152.160/28",
-    "ip_type": "IPv4",
-    "service": "AzureMachineLearning.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.150.136.80/28",
-    "ip_type": "IPv4",
-    "service": "AzureMachineLearning.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.253.131.79/32",
-    "ip_type": "IPv4",
-    "service": "AzureMachineLearning.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.253.131.198/32",
-    "ip_type": "IPv4",
-    "service": "AzureMachineLearning.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04::300/122",
-    "ip_type": "IPv6",
-    "service": "AzureMachineLearning.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04:f::540/123",
-    "ip_type": "IPv6",
-    "service": "AzureMachineLearning.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04:f::560/124",
-    "ip_type": "IPv6",
-    "service": "AzureMachineLearning.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04:f::570/126",
-    "ip_type": "IPv6",
-    "service": "AzureMachineLearning.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04:f::574/127",
-    "ip_type": "IPv6",
-    "service": "AzureMachineLearning.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04:f::576/128",
-    "ip_type": "IPv6",
-    "service": "AzureMachineLearning.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "13.71.195.192/27",
-    "ip_type": "IPv4",
-    "service": "AzureMonitor.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "13.71.196.56/29",
-    "ip_type": "IPv4",
-    "service": "AzureMonitor.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "13.71.199.116/32",
-    "ip_type": "IPv4",
-    "service": "AzureMonitor.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "13.78.135.15/32",
-    "ip_type": "IPv4",
-    "service": "AzureMonitor.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "13.78.145.11/32",
-    "ip_type": "IPv4",
-    "service": "AzureMonitor.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "13.78.172.58/32",
-    "ip_type": "IPv4",
-    "service": "AzureMonitor.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "13.78.189.112/32",
-    "ip_type": "IPv4",
-    "service": "AzureMonitor.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "13.78.236.149/32",
-    "ip_type": "IPv4",
-    "service": "AzureMonitor.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "20.51.33.0/24",
-    "ip_type": "IPv4",
-    "service": "AzureMonitor.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "20.51.41.192/26",
-    "ip_type": "IPv4",
-    "service": "AzureMonitor.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "20.51.48.192/26",
-    "ip_type": "IPv4",
-    "service": "AzureMonitor.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "20.69.13.112/28",
-    "ip_type": "IPv4",
-    "service": "AzureMonitor.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "20.168.190.160/27",
-    "ip_type": "IPv4",
-    "service": "AzureMonitor.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "20.168.190.192/26",
-    "ip_type": "IPv4",
-    "service": "AzureMonitor.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "40.67.122.0/26",
-    "ip_type": "IPv4",
-    "service": "AzureMonitor.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "40.67.122.96/29",
-    "ip_type": "IPv4",
-    "service": "AzureMonitor.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "40.67.124.128/29",
-    "ip_type": "IPv4",
-    "service": "AzureMonitor.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.148.44.224/27",
+    "ip_address": "4.255.146.128/32",
     "ip_type": "IPv4",
-    "service": "AzureMonitor.WestCentralUS",
+    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
     "region": "westcentralus"
   },
   {
-    "ip_address": "52.150.152.48/28",
+    "ip_address": "4.255.147.5/32",
     "ip_type": "IPv4",
-    "service": "AzureMonitor.WestCentralUS",
+    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
     "region": "westcentralus"
   },
   {
-    "ip_address": "52.150.152.90/31",
+    "ip_address": "4.255.160.17/32",
     "ip_type": "IPv4",
-    "service": "AzureMonitor.WestCentralUS",
+    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
     "region": "westcentralus"
   },
   {
-    "ip_address": "52.150.154.24/29",
+    "ip_address": "4.255.161.16/32",
     "ip_type": "IPv4",
-    "service": "AzureMonitor.WestCentralUS",
+    "service": "LogicApps.WestCentralUS",
     "region": "westcentralus"
   },
   {
-    "ip_address": "52.150.154.32/28",
+    "ip_address": "4.255.161.37/32",
     "ip_type": "IPv4",
-    "service": "AzureMonitor.WestCentralUS",
+    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
     "region": "westcentralus"
   },
   {
-    "ip_address": "52.161.8.76/32",
+    "ip_address": "4.255.162.19/32",
     "ip_type": "IPv4",
-    "service": "AzureMonitor.WestCentralUS",
+    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
     "region": "westcentralus"
   },
   {
-    "ip_address": "52.161.11.71/32",
+    "ip_address": "4.255.162.134/32",
     "ip_type": "IPv4",
-    "service": "AzureMonitor.WestCentralUS",
+    "service": "LogicApps.WestCentralUS",
     "region": "westcentralus"
   },
   {
-    "ip_address": "57.151.155.0/29",
+    "ip_address": "4.255.168.251/32",
     "ip_type": "IPv4",
-    "service": "AzureMonitor.WestCentralUS",
+    "service": "LogicApps.WestCentralUS",
     "region": "westcentralus"
   },
   {
-    "ip_address": "57.151.155.16/28",
+    "ip_address": "4.255.169.151/32",
     "ip_type": "IPv4",
-    "service": "AzureMonitor.WestCentralUS",
+    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
     "region": "westcentralus"
   },
   {
-    "ip_address": "172.215.203.88/29",
+    "ip_address": "4.255.169.215/32",
     "ip_type": "IPv4",
-    "service": "AzureMonitor.WestCentralUS",
+    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
     "region": "westcentralus"
   },
   {
-    "ip_address": "172.215.206.112/28",
+    "ip_address": "4.255.178.108/32",
     "ip_type": "IPv4",
-    "service": "AzureMonitor.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b00::4f/128",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b00::68/128",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b00::ca/128",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b00::cf/128",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b00::e8/128",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b00::164/128",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b00::2a1/128",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b00::4d9/128",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b00::4db/128",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b00::50d/128",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b00:13::190/128",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b00:28::61/128",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b00:29::d/128",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b00:29::7e/128",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.WestCentralUS",
+    "service": "LogicApps.WestCentralUS",
     "region": "westcentralus"
   },
   {
-    "ip_address": "2603:1030:b04::780/121",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04:1::280/123",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04:1::300/121",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04:6::780/123",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04:6::7c0/122",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04:f::100/120",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04:f::2c0/122",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04:402::500/121",
-    "ip_type": "IPv6",
-    "service": "AzureMonitor.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.150.139.80/28",
+    "ip_address": "4.255.192.31/32",
     "ip_type": "IPv4",
-    "service": "AzureOpenDatasets.WestCentralUS",
+    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
     "region": "westcentralus"
   },
   {
-    "ip_address": "40.67.121.128/28",
+    "ip_address": "4.255.192.94/32",
     "ip_type": "IPv4",
-    "service": "AzurePortal.WestCentralUS",
+    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
     "region": "westcentralus"
   },
   {
-    "ip_address": "52.150.139.224/27",
+    "ip_address": "4.255.193.22/32",
     "ip_type": "IPv4",
-    "service": "AzurePortal.WestCentralUS",
+    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
     "region": "westcentralus"
   },
   {
-    "ip_address": "52.150.140.216/30",
+    "ip_address": "4.255.195.186/32",
     "ip_type": "IPv4",
-    "service": "AzurePortal.WestCentralUS",
+    "service": "LogicApps.WestCentralUS",
     "region": "westcentralus"
   },
   {
-    "ip_address": "52.150.152.16/28",
+    "ip_address": "4.255.216.225/32",
     "ip_type": "IPv4",
-    "service": "AzurePortal.WestCentralUS",
+    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
     "region": "westcentralus"
   },
   {
-    "ip_address": "52.150.152.224/27",
+    "ip_address": "4.255.218.227/32",
     "ip_type": "IPv4",
-    "service": "AzurePortal.WestCentralUS",
+    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
     "region": "westcentralus"
   },
   {
-    "ip_address": "52.150.156.232/29",
+    "ip_address": "4.255.219.16/32",
     "ip_type": "IPv4",
-    "service": "AzurePortal.WestCentralUS",
+    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
     "region": "westcentralus"
   },
   {
-    "ip_address": "2603:1030:b04::700/121",
-    "ip_type": "IPv6",
-    "service": "AzurePortal.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "13.71.196.80/28",
+    "ip_address": "4.255.219.152/32",
     "ip_type": "IPv4",
-    "service": "AzureResourceManager.WestCentralUS",
+    "service": "LogicApps.WestCentralUS",
     "region": "westcentralus"
   },
   {
-    "ip_address": "13.71.198.0/24",
+    "ip_address": "4.255.225.20/32",
     "ip_type": "IPv4",
-    "service": "AzureResourceManager.WestCentralUS",
+    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
     "region": "westcentralus"
   },
   {
-    "ip_address": "40.67.120.0/24",
+    "ip_address": "4.255.225.35/32",
     "ip_type": "IPv4",
-    "service": "AzureResourceManager.WestCentralUS",
+    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
     "region": "westcentralus"
   },
   {
-    "ip_address": "52.150.158.0/23",
+    "ip_address": "13.71.192.0/18",
     "ip_type": "IPv4",
-    "service": "AzureResourceManager.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04::6c0/122",
-    "ip_type": "IPv6",
-    "service": "AzureResourceManager.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04:402::280/122",
-    "ip_type": "IPv6",
-    "service": "AzureResourceManager.WestCentralUS",
+    "service": "AzureCloud.westcentralus",
     "region": "westcentralus"
   },
   {
@@ -1434,171 +174,15 @@
     "region": "westcentralus"
   },
   {
-    "ip_address": "13.78.145.25/32",
+    "ip_address": "13.71.194.0/26",
     "ip_type": "IPv4",
-    "service": "Sql.WestCentralUS",
+    "service": "AzureCosmosDB.WestCentralUS",
     "region": "westcentralus"
   },
   {
-    "ip_address": "13.78.248.32/27",
+    "ip_address": "13.71.194.64/27",
     "ip_type": "IPv4",
-    "service": "Sql.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "20.69.0.32/27",
-    "ip_type": "IPv4",
-    "service": "Sql.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "20.69.0.64/27",
-    "ip_type": "IPv4",
-    "service": "Sql.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "20.69.0.128/26",
-    "ip_type": "IPv4",
-    "service": "Sql.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.148.42.0/25",
-    "ip_type": "IPv4",
-    "service": "Sql.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.161.100.158/32",
-    "ip_type": "IPv4",
-    "service": "Sql.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.161.128.32/27",
-    "ip_type": "IPv4",
-    "service": "Sql.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "57.151.152.24/29",
-    "ip_type": "IPv4",
-    "service": "Sql.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "57.151.154.128/27",
-    "ip_type": "IPv4",
-    "service": "Sql.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "128.24.231.20/30",
-    "ip_type": "IPv4",
-    "service": "Sql.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "128.24.231.160/27",
-    "ip_type": "IPv4",
-    "service": "Sql.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "128.24.231.192/26",
-    "ip_type": "IPv4",
-    "service": "Sql.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "172.215.203.32/27",
-    "ip_type": "IPv4",
-    "service": "Sql.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "172.215.203.64/29",
-    "ip_type": "IPv4",
-    "service": "Sql.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04::280/123",
-    "ip_type": "IPv6",
-    "service": "Sql.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04:1::200/121",
-    "ip_type": "IPv6",
-    "service": "Sql.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04:3::680/121",
-    "ip_type": "IPv6",
-    "service": "Sql.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04:400::/123",
-    "ip_type": "IPv6",
-    "service": "Sql.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "40.67.121.160/27",
-    "ip_type": "IPv4",
-    "service": "AzureSecurityCenter.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "128.24.142.224/27",
-    "ip_type": "IPv4",
-    "service": "AzureSecurityCenter.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "128.24.143.0/24",
-    "ip_type": "IPv4",
-    "service": "AzureSecurityCenter.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "172.208.162.0/24",
-    "ip_type": "IPv4",
-    "service": "AzureSecurityCenter.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "172.208.172.128/26",
-    "ip_type": "IPv4",
-    "service": "AzureSecurityCenter.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "172.208.173.128/25",
-    "ip_type": "IPv4",
-    "service": "AzureSecurityCenter.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "172.208.174.0/23",
-    "ip_type": "IPv4",
-    "service": "AzureSecurityCenter.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "172.208.248.0/23",
-    "ip_type": "IPv4",
-    "service": "AzureSecurityCenter.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "172.208.250.0/25",
-    "ip_type": "IPv4",
-    "service": "AzureSecurityCenter.WestCentralUS",
+    "service": "EventHub.WestCentralUS",
     "region": "westcentralus"
   },
   {
@@ -1608,69 +192,189 @@
     "region": "westcentralus"
   },
   {
-    "ip_address": "20.69.2.128/25",
+    "ip_address": "13.71.194.112/30",
     "ip_type": "IPv4",
-    "service": "ServiceBus.WestCentralUS",
+    "service": "AzureKeyVault.WestCentralUS",
     "region": "westcentralus"
   },
   {
-    "ip_address": "57.151.152.16/29",
+    "ip_address": "13.71.194.116/31",
     "ip_type": "IPv4",
-    "service": "ServiceBus.WestCentralUS",
+    "service": "ApiManagement.WestCentralUS",
     "region": "westcentralus"
   },
   {
-    "ip_address": "57.151.152.32/28",
+    "ip_address": "13.71.194.120/29",
     "ip_type": "IPv4",
-    "service": "ServiceBus.WestCentralUS",
+    "service": "MicrosoftContainerRegistry.WestCentralUS",
     "region": "westcentralus"
   },
   {
-    "ip_address": "172.208.165.0/25",
+    "ip_address": "13.71.194.128/26",
     "ip_type": "IPv4",
-    "service": "ServiceBus.WestCentralUS",
+    "service": "AppServiceManagement.WestCentralUS",
     "region": "westcentralus"
   },
   {
-    "ip_address": "172.215.202.16/29",
+    "ip_address": "13.71.194.192/27",
     "ip_type": "IPv4",
-    "service": "ServiceBus.WestCentralUS",
+    "service": "AppService.WestCentralUS",
     "region": "westcentralus"
   },
   {
-    "ip_address": "172.215.202.32/28",
+    "ip_address": "13.71.194.224/29",
     "ip_type": "IPv4",
-    "service": "ServiceBus.WestCentralUS",
+    "service": "AzureContainerRegistry.WestCentralUS",
     "region": "westcentralus"
   },
   {
-    "ip_address": "2603:1030:b04::220/123",
-    "ip_type": "IPv6",
-    "service": "ServiceBus.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04:1::500/120",
-    "ip_type": "IPv6",
-    "service": "ServiceBus.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04:402::170/125",
-    "ip_type": "IPv6",
-    "service": "ServiceBus.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "20.69.0.192/27",
+    "ip_address": "13.71.194.232/29",
     "ip_type": "IPv4",
-    "service": "AzureSignalR.WestCentralUS",
+    "service": "GatewayManager.WestCentralUS",
     "region": "westcentralus"
   },
   {
-    "ip_address": "2603:1030:b04:1::700/120",
-    "ip_type": "IPv6",
-    "service": "AzureSignalR.WestCentralUS",
+    "ip_address": "13.71.194.240/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "13.71.195.32/28",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "13.71.195.48/29",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "13.71.195.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "13.71.195.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "13.71.195.160/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "13.71.195.192/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "13.71.196.32/28",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "13.71.196.48/29",
+    "ip_type": "IPv4",
+    "service": "HDInsight.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "13.71.196.56/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "13.71.196.64/28",
+    "ip_type": "IPv4",
+    "service": "AzureDataExplorerManagement.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "13.71.196.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "13.71.196.160/30",
+    "ip_type": "IPv4",
+    "service": "AzureBotService.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "13.71.196.192/27",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "13.71.196.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "13.71.198.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "13.71.199.0/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "13.71.199.96/28",
+    "ip_type": "IPv4",
+    "service": "AzureDevSpaces.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "13.71.199.112/30",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "13.71.199.116/32",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "13.71.199.117/32",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "13.71.199.128/27",
+    "ip_type": "IPv4",
+    "service": "LogicApps.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "13.71.199.160/28",
+    "ip_type": "IPv4",
+    "service": "LogicApps.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "13.71.199.192/27",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.WestCentralUS",
     "region": "westcentralus"
   },
   {
@@ -1710,549 +414,9 @@
     "region": "westcentralus"
   },
   {
-    "ip_address": "13.78.152.64/28",
+    "ip_address": "13.77.192.0/19",
     "ip_type": "IPv4",
-    "service": "Storage.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "13.78.240.16/28",
-    "ip_type": "IPv4",
-    "service": "Storage.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "20.33.133.0/24",
-    "ip_type": "IPv4",
-    "service": "Storage.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "20.33.211.0/24",
-    "ip_type": "IPv4",
-    "service": "Storage.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "20.33.213.0/24",
-    "ip_type": "IPv4",
-    "service": "Storage.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "20.47.4.0/24",
-    "ip_type": "IPv4",
-    "service": "Storage.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "20.60.4.0/24",
-    "ip_type": "IPv4",
-    "service": "Storage.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "20.60.119.0/24",
-    "ip_type": "IPv4",
-    "service": "Storage.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "20.60.120.0/23",
-    "ip_type": "IPv4",
-    "service": "Storage.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "20.60.122.0/24",
-    "ip_type": "IPv4",
-    "service": "Storage.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "20.60.218.0/23",
-    "ip_type": "IPv4",
-    "service": "Storage.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "20.150.81.0/24",
-    "ip_type": "IPv4",
-    "service": "Storage.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "20.150.98.0/24",
-    "ip_type": "IPv4",
-    "service": "Storage.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "20.153.34.0/24",
-    "ip_type": "IPv4",
-    "service": "Storage.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "20.153.57.0/24",
-    "ip_type": "IPv4",
-    "service": "Storage.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "20.153.66.0/25",
-    "ip_type": "IPv4",
-    "service": "Storage.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "20.153.69.128/26",
-    "ip_type": "IPv4",
-    "service": "Storage.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "20.153.78.0/24",
-    "ip_type": "IPv4",
-    "service": "Storage.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "20.157.41.0/24",
-    "ip_type": "IPv4",
-    "service": "Storage.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "20.209.224.0/23",
-    "ip_type": "IPv4",
-    "service": "Storage.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.161.112.16/28",
-    "ip_type": "IPv4",
-    "service": "Storage.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.161.112.32/28",
-    "ip_type": "IPv4",
-    "service": "Storage.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.161.168.16/28",
-    "ip_type": "IPv4",
-    "service": "Storage.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.161.168.32/28",
-    "ip_type": "IPv4",
-    "service": "Storage.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.239.164.0/25",
-    "ip_type": "IPv4",
-    "service": "Storage.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.239.167.0/24",
-    "ip_type": "IPv4",
-    "service": "Storage.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.239.244.0/23",
-    "ip_type": "IPv4",
-    "service": "Storage.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "57.163.30.0/23",
-    "ip_type": "IPv4",
-    "service": "Storage.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "135.130.34.192/27",
-    "ip_type": "IPv4",
-    "service": "Storage.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "135.130.34.224/27",
-    "ip_type": "IPv4",
-    "service": "Storage.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "135.130.60.0/23",
-    "ip_type": "IPv4",
-    "service": "Storage.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "135.130.116.0/23",
-    "ip_type": "IPv4",
-    "service": "Storage.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "135.130.157.0/25",
-    "ip_type": "IPv4",
-    "service": "Storage.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "135.130.157.128/26",
-    "ip_type": "IPv4",
-    "service": "Storage.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "135.130.212.0/23",
-    "ip_type": "IPv4",
-    "service": "Storage.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "135.130.214.0/23",
-    "ip_type": "IPv4",
-    "service": "Storage.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "145.190.137.0/24",
-    "ip_type": "IPv4",
-    "service": "Storage.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "145.190.177.0/24",
-    "ip_type": "IPv4",
-    "service": "Storage.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b06::/49",
-    "ip_type": "IPv6",
-    "service": "Storage.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b06:8000::/63",
-    "ip_type": "IPv6",
-    "service": "Storage.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "20.165.191.133/32",
-    "ip_type": "IPv4",
-    "service": "AzureUpdateDelivery.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "20.165.241.177/32",
-    "ip_type": "IPv4",
-    "service": "AzureUpdateDelivery.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "13.71.195.160/27",
-    "ip_type": "IPv4",
-    "service": "BatchNodeManagement.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "13.78.145.2/32",
-    "ip_type": "IPv4",
-    "service": "BatchNodeManagement.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "13.78.145.73/32",
-    "ip_type": "IPv4",
-    "service": "BatchNodeManagement.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "13.78.150.134/32",
-    "ip_type": "IPv4",
-    "service": "BatchNodeManagement.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "13.78.187.18/32",
-    "ip_type": "IPv4",
-    "service": "BatchNodeManagement.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.150.140.128/27",
-    "ip_type": "IPv4",
-    "service": "BatchNodeManagement.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.161.95.12/32",
-    "ip_type": "IPv4",
-    "service": "BatchNodeManagement.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.161.107.48/32",
-    "ip_type": "IPv4",
-    "service": "BatchNodeManagement.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04::400/122",
-    "ip_type": "IPv6",
-    "service": "BatchNodeManagement.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "13.71.199.0/28",
-    "ip_type": "IPv4",
-    "service": "DataFactory.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "20.69.9.24/29",
-    "ip_type": "IPv4",
-    "service": "DataFactory.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.150.136.192/26",
-    "ip_type": "IPv4",
-    "service": "DataFactory.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.150.137.128/25",
-    "ip_type": "IPv4",
-    "service": "DataFactory.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.150.154.16/29",
-    "ip_type": "IPv4",
-    "service": "DataFactory.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.150.155.0/24",
-    "ip_type": "IPv4",
-    "service": "DataFactory.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.150.157.160/29",
-    "ip_type": "IPv4",
-    "service": "DataFactory.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.150.157.192/26",
-    "ip_type": "IPv4",
-    "service": "DataFactory.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "57.151.154.176/28",
-    "ip_type": "IPv4",
-    "service": "DataFactory.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "128.24.232.48/28",
-    "ip_type": "IPv4",
-    "service": "DataFactory.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "172.208.172.32/27",
-    "ip_type": "IPv4",
-    "service": "DataFactory.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "172.215.206.16/28",
-    "ip_type": "IPv4",
-    "service": "DataFactory.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04::440/122",
-    "ip_type": "IPv6",
-    "service": "DataFactory.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04::500/121",
-    "ip_type": "IPv6",
-    "service": "DataFactory.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04:402::330/124",
-    "ip_type": "IPv6",
-    "service": "DataFactory.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04:801::50/124",
-    "ip_type": "IPv6",
-    "service": "DataFactory.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04:c00::70/124",
-    "ip_type": "IPv6",
-    "service": "DataFactory.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "13.71.194.232/29",
-    "ip_type": "IPv4",
-    "service": "GatewayManager.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "20.69.5.224/27",
-    "ip_type": "IPv4",
-    "service": "GatewayManager.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "48.194.149.96/27",
-    "ip_type": "IPv4",
-    "service": "GatewayManager.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.148.30.6/32",
-    "ip_type": "IPv4",
-    "service": "GatewayManager.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.150.136.72/29",
-    "ip_type": "IPv4",
-    "service": "GatewayManager.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.159.19.113/32",
-    "ip_type": "IPv4",
-    "service": "GatewayManager.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.159.20.67/32",
-    "ip_type": "IPv4",
-    "service": "GatewayManager.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.159.21.124/32",
-    "ip_type": "IPv4",
-    "service": "GatewayManager.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04::40/122",
-    "ip_type": "IPv6",
-    "service": "GatewayManager.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "13.71.196.48/29",
-    "ip_type": "IPv4",
-    "service": "HDInsight.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.150.154.192/29",
-    "ip_type": "IPv4",
-    "service": "HDInsight.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.161.10.167/32",
-    "ip_type": "IPv4",
-    "service": "HDInsight.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.161.23.15/32",
-    "ip_type": "IPv4",
-    "service": "HDInsight.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04:402::320/124",
-    "ip_type": "IPv6",
-    "service": "HDInsight.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "4.255.145.22/32",
-    "ip_type": "IPv4",
-    "service": "LogicApps.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "4.255.161.16/32",
-    "ip_type": "IPv4",
-    "service": "LogicApps.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "4.255.162.134/32",
-    "ip_type": "IPv4",
-    "service": "LogicApps.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "4.255.168.251/32",
-    "ip_type": "IPv4",
-    "service": "LogicApps.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "4.255.178.108/32",
-    "ip_type": "IPv4",
-    "service": "LogicApps.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "4.255.195.186/32",
-    "ip_type": "IPv4",
-    "service": "LogicApps.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "4.255.219.152/32",
-    "ip_type": "IPv4",
-    "service": "LogicApps.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "13.71.199.128/27",
-    "ip_type": "IPv4",
-    "service": "LogicApps.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "13.71.199.160/28",
-    "ip_type": "IPv4",
-    "service": "LogicApps.WestCentralUS",
+    "service": "AzureCloud.westcentralus",
     "region": "westcentralus"
   },
   {
@@ -2268,255 +432,111 @@
     "region": "westcentralus"
   },
   {
-    "ip_address": "13.78.200.233/32",
+    "ip_address": "13.78.128.0/17",
     "ip_type": "IPv4",
-    "service": "LogicApps.WestCentralUS",
+    "service": "AzureCloud.westcentralus",
     "region": "westcentralus"
   },
   {
-    "ip_address": "13.78.212.163/32",
+    "ip_address": "13.78.129.154/32",
     "ip_type": "IPv4",
-    "service": "LogicApps.WestCentralUS",
+    "service": "AzureIoTHub.WestCentralUS",
     "region": "westcentralus"
   },
   {
-    "ip_address": "20.69.8.8/29",
+    "ip_address": "13.78.130.69/32",
     "ip_type": "IPv4",
-    "service": "LogicApps.WestCentralUS",
+    "service": "AzureIoTHub.WestCentralUS",
     "region": "westcentralus"
   },
   {
-    "ip_address": "20.69.8.16/28",
+    "ip_address": "13.78.132.82/32",
     "ip_type": "IPv4",
-    "service": "LogicApps.WestCentralUS",
+    "service": "AzureConnectors.WestCentralUS",
     "region": "westcentralus"
   },
   {
-    "ip_address": "20.69.8.32/29",
+    "ip_address": "13.78.135.15/32",
     "ip_type": "IPv4",
-    "service": "LogicApps.WestCentralUS",
+    "service": "AzureMonitor.WestCentralUS",
     "region": "westcentralus"
   },
   {
-    "ip_address": "20.165.225.209/32",
+    "ip_address": "13.78.135.84/32",
     "ip_type": "IPv4",
-    "service": "LogicApps.WestCentralUS",
+    "service": "AzureConnectors.WestCentralUS",
     "region": "westcentralus"
   },
   {
-    "ip_address": "20.165.228.184/32",
+    "ip_address": "13.78.135.117/32",
     "ip_type": "IPv4",
-    "service": "LogicApps.WestCentralUS",
+    "service": "AzureConnectors.WestCentralUS",
     "region": "westcentralus"
   },
   {
-    "ip_address": "20.165.232.68/32",
+    "ip_address": "13.78.145.2/32",
     "ip_type": "IPv4",
-    "service": "LogicApps.WestCentralUS",
+    "service": "BatchNodeManagement.WestCentralUS",
     "region": "westcentralus"
   },
   {
-    "ip_address": "20.165.232.221/32",
+    "ip_address": "13.78.145.11/32",
     "ip_type": "IPv4",
-    "service": "LogicApps.WestCentralUS",
+    "service": "AzureMonitor.WestCentralUS",
     "region": "westcentralus"
   },
   {
-    "ip_address": "20.165.235.148/32",
+    "ip_address": "13.78.145.25/32",
     "ip_type": "IPv4",
-    "service": "LogicApps.WestCentralUS",
+    "service": "Sql.WestCentralUS",
     "region": "westcentralus"
   },
   {
-    "ip_address": "20.165.245.151/32",
+    "ip_address": "13.78.145.73/32",
     "ip_type": "IPv4",
-    "service": "LogicApps.WestCentralUS",
+    "service": "BatchNodeManagement.WestCentralUS",
     "region": "westcentralus"
   },
   {
-    "ip_address": "20.165.249.200/32",
+    "ip_address": "13.78.147.125/32",
     "ip_type": "IPv4",
-    "service": "LogicApps.WestCentralUS",
+    "service": "ServiceFabric.WestCentralUS",
     "region": "westcentralus"
   },
   {
-    "ip_address": "20.165.255.229/32",
+    "ip_address": "13.78.148.75/32",
     "ip_type": "IPv4",
-    "service": "LogicApps.WestCentralUS",
+    "service": "AppServiceManagement.WestCentralUS",
     "region": "westcentralus"
   },
   {
-    "ip_address": "52.150.226.148/32",
+    "ip_address": "13.78.150.96/32",
     "ip_type": "IPv4",
-    "service": "LogicApps.WestCentralUS",
+    "service": "AppService.WestCentralUS",
     "region": "westcentralus"
   },
   {
-    "ip_address": "52.161.64.217/32",
+    "ip_address": "13.78.150.134/32",
     "ip_type": "IPv4",
-    "service": "LogicApps.WestCentralUS",
+    "service": "BatchNodeManagement.WestCentralUS",
     "region": "westcentralus"
   },
   {
-    "ip_address": "52.161.91.215/32",
+    "ip_address": "13.78.152.64/28",
     "ip_type": "IPv4",
-    "service": "LogicApps.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "172.208.172.64/28",
-    "ip_type": "IPv4",
-    "service": "LogicApps.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "172.215.206.96/28",
-    "ip_type": "IPv4",
-    "service": "LogicApps.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "172.215.206.128/27",
-    "ip_type": "IPv4",
-    "service": "LogicApps.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04:402::3c0/124",
-    "ip_type": "IPv6",
-    "service": "LogicApps.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04:402::3e0/123",
-    "ip_type": "IPv6",
-    "service": "LogicApps.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04:801::c0/124",
-    "ip_type": "IPv6",
-    "service": "LogicApps.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04:801::e0/123",
-    "ip_type": "IPv6",
-    "service": "LogicApps.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "4.255.138.74/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "4.255.144.104/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "4.255.146.128/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "4.255.147.5/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "4.255.160.17/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "4.255.161.37/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "4.255.162.19/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "4.255.169.151/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "4.255.169.215/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "4.255.192.31/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "4.255.192.94/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "4.255.193.22/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "4.255.216.225/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "4.255.218.227/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "4.255.219.16/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "4.255.225.20/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "4.255.225.35/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "13.71.196.192/27",
-    "ip_type": "IPv4",
-    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
+    "service": "Storage.WestCentralUS",
     "region": "westcentralus"
   },
   {
     "ip_address": "13.78.164.187/32",
     "ip_type": "IPv4",
     "service": "MicrosoftCloudAppSecurity.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "13.78.172.58/32",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.WestCentralUS",
     "region": "westcentralus"
   },
   {
@@ -2553,6 +573,12 @@
     "ip_address": "13.78.177.250/32",
     "ip_type": "IPv4",
     "service": "MicrosoftCloudAppSecurity.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "13.78.178.187/32",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.WestCentralUS",
     "region": "westcentralus"
   },
   {
@@ -2622,483 +648,57 @@
     "region": "westcentralus"
   },
   {
+    "ip_address": "13.78.184.89/32",
+    "ip_type": "IPv4",
+    "service": "AppService.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "13.78.187.18/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "13.78.189.112/32",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
     "ip_address": "13.78.190.216/32",
     "ip_type": "IPv4",
     "service": "MicrosoftCloudAppSecurity.WestCentralUS",
     "region": "westcentralus"
   },
   {
-    "ip_address": "20.165.199.244/32",
+    "ip_address": "13.78.200.233/32",
     "ip_type": "IPv4",
-    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
+    "service": "LogicApps.WestCentralUS",
     "region": "westcentralus"
   },
   {
-    "ip_address": "20.165.199.247/32",
+    "ip_address": "13.78.212.163/32",
     "ip_type": "IPv4",
-    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
+    "service": "LogicApps.WestCentralUS",
     "region": "westcentralus"
   },
   {
-    "ip_address": "20.165.216.32/32",
+    "ip_address": "13.78.236.149/32",
     "ip_type": "IPv4",
-    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
+    "service": "AzureMonitor.WestCentralUS",
     "region": "westcentralus"
   },
   {
-    "ip_address": "20.165.217.37/32",
+    "ip_address": "13.78.240.16/28",
     "ip_type": "IPv4",
-    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
+    "service": "Storage.WestCentralUS",
     "region": "westcentralus"
   },
   {
-    "ip_address": "20.165.224.30/32",
+    "ip_address": "13.78.248.32/27",
     "ip_type": "IPv4",
-    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "20.165.224.128/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "20.165.224.181/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "20.165.225.66/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "20.165.232.199/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "20.165.234.25/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.161.13.132/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.161.13.138/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.161.13.153/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.161.15.92/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.161.15.223/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.161.128.12/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.161.145.118/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.161.151.13/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.161.176.67/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "57.151.144.75/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "57.151.144.95/32",
-    "ip_type": "IPv4",
-    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "172.208.163.48/28",
-    "ip_type": "IPv4",
-    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "172.208.163.128/25",
-    "ip_type": "IPv4",
-    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "172.208.164.0/30",
-    "ip_type": "IPv4",
-    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "172.208.164.4/31",
-    "ip_type": "IPv4",
-    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "172.215.248.128/25",
-    "ip_type": "IPv4",
-    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "172.215.249.0/24",
-    "ip_type": "IPv4",
-    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "172.215.250.0/25",
-    "ip_type": "IPv4",
-    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "13.71.194.120/29",
-    "ip_type": "IPv4",
-    "service": "MicrosoftContainerRegistry.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "57.151.152.0/29",
-    "ip_type": "IPv4",
-    "service": "MicrosoftContainerRegistry.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "172.215.202.0/29",
-    "ip_type": "IPv4",
-    "service": "MicrosoftContainerRegistry.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04:402::88/125",
-    "ip_type": "IPv6",
-    "service": "MicrosoftContainerRegistry.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04:800::/125",
-    "ip_type": "IPv6",
-    "service": "MicrosoftContainerRegistry.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04:c00::/125",
-    "ip_type": "IPv6",
-    "service": "MicrosoftContainerRegistry.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "20.51.36.160/27",
-    "ip_type": "IPv4",
-    "service": "PowerBI.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "20.69.4.224/28",
-    "ip_type": "IPv4",
-    "service": "PowerBI.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "20.69.4.240/30",
-    "ip_type": "IPv4",
-    "service": "PowerBI.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "48.194.140.0/27",
-    "ip_type": "IPv4",
-    "service": "PowerBI.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.148.44.160/28",
-    "ip_type": "IPv4",
-    "service": "PowerBI.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.148.46.0/28",
-    "ip_type": "IPv4",
-    "service": "PowerBI.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.150.139.76/31",
-    "ip_type": "IPv4",
-    "service": "PowerBI.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.150.139.96/30",
-    "ip_type": "IPv4",
-    "service": "PowerBI.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.150.139.112/28",
-    "ip_type": "IPv4",
-    "service": "PowerBI.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.150.139.128/28",
-    "ip_type": "IPv4",
-    "service": "PowerBI.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.150.139.160/27",
-    "ip_type": "IPv4",
-    "service": "PowerBI.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "128.24.203.128/26",
-    "ip_type": "IPv4",
-    "service": "PowerBI.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04::620/123",
-    "ip_type": "IPv6",
-    "service": "PowerBI.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04::640/122",
-    "ip_type": "IPv6",
-    "service": "PowerBI.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.150.154.48/28",
-    "ip_type": "IPv4",
-    "service": "PowerPlatformInfra.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.150.154.128/26",
-    "ip_type": "IPv4",
-    "service": "PowerPlatformInfra.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1061:2002:400::/57",
-    "ip_type": "IPv6",
-    "service": "PowerPlatformInfra.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "20.69.8.120/29",
-    "ip_type": "IPv4",
-    "service": "PowerQueryOnline.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "40.67.122.228/31",
-    "ip_type": "IPv4",
-    "service": "PowerQueryOnline.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.150.139.72/30",
-    "ip_type": "IPv4",
-    "service": "PowerQueryOnline.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "172.208.172.80/28",
-    "ip_type": "IPv4",
-    "service": "PowerQueryOnline.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "172.208.172.96/29",
-    "ip_type": "IPv4",
-    "service": "PowerQueryOnline.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04::200/123",
-    "ip_type": "IPv6",
-    "service": "PowerQueryOnline.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04:402::160/125",
-    "ip_type": "IPv6",
-    "service": "PowerQueryOnline.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "40.67.121.144/29",
-    "ip_type": "IPv4",
-    "service": "SCCservice.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "172.208.223.0/27",
-    "ip_type": "IPv4",
-    "service": "SCCservice.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04:9::5a0/123",
-    "ip_type": "IPv6",
-    "service": "SCCservice.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "13.71.195.48/29",
-    "ip_type": "IPv4",
-    "service": "ServiceFabric.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "13.78.147.125/32",
-    "ip_type": "IPv4",
-    "service": "ServiceFabric.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "57.151.152.8/30",
-    "ip_type": "IPv4",
-    "service": "ServiceFabric.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "172.215.202.12/30",
-    "ip_type": "IPv4",
-    "service": "ServiceFabric.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04:402::98/125",
-    "ip_type": "IPv6",
-    "service": "ServiceFabric.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04:800::18/125",
-    "ip_type": "IPv6",
-    "service": "ServiceFabric.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04:c00::10/125",
-    "ip_type": "IPv6",
-    "service": "ServiceFabric.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "52.150.139.104/29",
-    "ip_type": "IPv4",
-    "service": "StorageSyncService.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "172.215.202.56/29",
-    "ip_type": "IPv4",
-    "service": "StorageSyncService.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04::340/123",
-    "ip_type": "IPv6",
-    "service": "StorageSyncService.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1030:b04:800::c0/123",
-    "ip_type": "IPv6",
-    "service": "StorageSyncService.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "40.64.146.160/28",
-    "ip_type": "IPv4",
-    "service": "WindowsVirtualDesktop.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "40.64.151.64/27",
-    "ip_type": "IPv4",
-    "service": "WindowsVirtualDesktop.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "2603:1061:2010:18::/117",
-    "ip_type": "IPv6",
-    "service": "WindowsVirtualDesktop.WestCentralUS",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "4.255.128.0/17",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.westcentralus",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "13.71.192.0/18",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.westcentralus",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "13.77.192.0/19",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.westcentralus",
-    "region": "westcentralus"
-  },
-  {
-    "ip_address": "13.78.128.0/17",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.westcentralus",
+    "service": "Sql.WestCentralUS",
     "region": "westcentralus"
   },
   {
@@ -3180,9 +780,21 @@
     "region": "westcentralus"
   },
   {
+    "ip_address": "20.33.133.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
     "ip_address": "20.33.211.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.westcentralus",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "20.33.211.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.WestCentralUS",
     "region": "westcentralus"
   },
   {
@@ -3192,9 +804,21 @@
     "region": "westcentralus"
   },
   {
+    "ip_address": "20.33.213.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
     "ip_address": "20.47.4.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.westcentralus",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "20.47.4.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.WestCentralUS",
     "region": "westcentralus"
   },
   {
@@ -3216,6 +840,48 @@
     "region": "westcentralus"
   },
   {
+    "ip_address": "20.51.33.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "20.51.36.160/27",
+    "ip_type": "IPv4",
+    "service": "PowerBI.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "20.51.41.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "20.51.45.36/32",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "20.51.48.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "20.51.53.8/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "20.51.53.160/28",
+    "ip_type": "IPv4",
+    "service": "AzureDataExplorerManagement.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
     "ip_address": "20.55.128.0/18",
     "ip_type": "IPv4",
     "service": "AzureCloud.westcentralus",
@@ -3234,9 +900,21 @@
     "region": "westcentralus"
   },
   {
+    "ip_address": "20.60.4.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
     "ip_address": "20.60.119.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.westcentralus",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "20.60.119.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.WestCentralUS",
     "region": "westcentralus"
   },
   {
@@ -3246,9 +924,21 @@
     "region": "westcentralus"
   },
   {
+    "ip_address": "20.60.120.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
     "ip_address": "20.60.122.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.westcentralus",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "20.60.122.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.WestCentralUS",
     "region": "westcentralus"
   },
   {
@@ -3258,9 +948,171 @@
     "region": "westcentralus"
   },
   {
+    "ip_address": "20.60.218.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
     "ip_address": "20.69.0.0/18",
     "ip_type": "IPv4",
     "service": "AzureCloud.westcentralus",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "20.69.0.32/27",
+    "ip_type": "IPv4",
+    "service": "Sql.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "20.69.0.64/27",
+    "ip_type": "IPv4",
+    "service": "Sql.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "20.69.0.128/26",
+    "ip_type": "IPv4",
+    "service": "Sql.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "20.69.0.192/27",
+    "ip_type": "IPv4",
+    "service": "AzureSignalR.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "20.69.1.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "20.69.1.104/29",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "20.69.1.112/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "20.69.1.240/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "20.69.2.128/25",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "20.69.3.0/24",
+    "ip_type": "IPv4",
+    "service": "EventHub.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "20.69.4.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "20.69.4.32/28",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "20.69.4.224/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "20.69.4.240/30",
+    "ip_type": "IPv4",
+    "service": "PowerBI.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "20.69.5.128/28",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "20.69.5.168/29",
+    "ip_type": "IPv4",
+    "service": "AppService.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "20.69.5.224/27",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "20.69.6.0/24",
+    "ip_type": "IPv4",
+    "service": "AppService.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "20.69.7.0/25",
+    "ip_type": "IPv4",
+    "service": "AppService.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "20.69.8.8/29",
+    "ip_type": "IPv4",
+    "service": "LogicApps.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "20.69.8.16/28",
+    "ip_type": "IPv4",
+    "service": "LogicApps.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "20.69.8.32/29",
+    "ip_type": "IPv4",
+    "service": "LogicApps.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "20.69.8.102/31",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "20.69.8.120/29",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "20.69.9.24/29",
+    "ip_type": "IPv4",
+    "service": "DataFactory.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "20.69.13.112/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.WestCentralUS",
     "region": "westcentralus"
   },
   {
@@ -3324,9 +1176,21 @@
     "region": "westcentralus"
   },
   {
+    "ip_address": "20.150.81.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
     "ip_address": "20.150.98.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.westcentralus",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "20.150.98.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.WestCentralUS",
     "region": "westcentralus"
   },
   {
@@ -3342,9 +1206,21 @@
     "region": "westcentralus"
   },
   {
+    "ip_address": "20.153.34.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
     "ip_address": "20.153.57.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.westcentralus",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "20.153.57.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.WestCentralUS",
     "region": "westcentralus"
   },
   {
@@ -3354,9 +1230,21 @@
     "region": "westcentralus"
   },
   {
+    "ip_address": "20.153.66.0/25",
+    "ip_type": "IPv4",
+    "service": "Storage.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
     "ip_address": "20.153.69.128/26",
     "ip_type": "IPv4",
     "service": "AzureCloud.westcentralus",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "20.153.69.128/26",
+    "ip_type": "IPv4",
+    "service": "Storage.WestCentralUS",
     "region": "westcentralus"
   },
   {
@@ -3366,9 +1254,21 @@
     "region": "westcentralus"
   },
   {
+    "ip_address": "20.153.78.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
     "ip_address": "20.157.41.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.westcentralus",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "20.157.41.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.WestCentralUS",
     "region": "westcentralus"
   },
   {
@@ -3378,9 +1278,159 @@
     "region": "westcentralus"
   },
   {
+    "ip_address": "20.165.191.133/32",
+    "ip_type": "IPv4",
+    "service": "AzureUpdateDelivery.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "20.165.199.244/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "20.165.199.247/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "20.165.216.32/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "20.165.217.37/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "20.165.224.30/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "20.165.224.128/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "20.165.224.181/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "20.165.225.66/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "20.165.225.209/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "20.165.228.184/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "20.165.232.68/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "20.165.232.199/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "20.165.232.221/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "20.165.234.25/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "20.165.235.148/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "20.165.241.177/32",
+    "ip_type": "IPv4",
+    "service": "AzureUpdateDelivery.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "20.165.245.151/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "20.165.249.200/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "20.165.255.229/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
     "ip_address": "20.168.176.0/20",
     "ip_type": "IPv4",
     "service": "AzureCloud.westcentralus",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "20.168.188.36/30",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "20.168.190.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "20.168.190.152/29",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "20.168.190.160/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "20.168.190.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.WestCentralUS",
     "region": "westcentralus"
   },
   {
@@ -3414,7 +1464,25 @@
     "region": "westcentralus"
   },
   {
+    "ip_address": "20.209.224.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
     "ip_address": "40.64.146.160/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.westcentralus",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "40.64.146.160/28",
+    "ip_type": "IPv4",
+    "service": "WindowsVirtualDesktop.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "40.64.151.64/27",
     "ip_type": "IPv4",
     "service": "AzureCloud.westcentralus",
     "region": "westcentralus"
@@ -3422,7 +1490,7 @@
   {
     "ip_address": "40.64.151.64/27",
     "ip_type": "IPv4",
-    "service": "AzureCloud.westcentralus",
+    "service": "WindowsVirtualDesktop.WestCentralUS",
     "region": "westcentralus"
   },
   {
@@ -3435,6 +1503,96 @@
     "ip_address": "40.67.120.0/21",
     "ip_type": "IPv4",
     "service": "AzureCloud.westcentralus",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "40.67.120.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "40.67.121.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "40.67.121.128/28",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "40.67.121.144/29",
+    "ip_type": "IPv4",
+    "service": "SCCservice.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "40.67.121.160/27",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "40.67.121.196/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "40.67.122.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "40.67.122.96/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "40.67.122.108/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "40.67.122.112/32",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "40.67.122.120/29",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "40.67.122.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "40.67.122.228/31",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "40.67.123.0/24",
+    "ip_type": "IPv4",
+    "service": "EventHub.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "40.67.124.128/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.WestCentralUS",
     "region": "westcentralus"
   },
   {
@@ -3690,6 +1848,60 @@
     "region": "westcentralus"
   },
   {
+    "ip_address": "48.194.140.0/27",
+    "ip_type": "IPv4",
+    "service": "PowerBI.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "48.194.149.96/27",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "48.194.152.22/31",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "48.194.152.24/30",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "48.194.152.28/32",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "48.194.152.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "48.194.152.160/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "48.194.162.248/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "48.194.163.0/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
     "ip_address": "48.208.45.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.westcentralus",
@@ -3852,9 +2064,351 @@
     "region": "westcentralus"
   },
   {
+    "ip_address": "52.148.29.27/32",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.148.30.6/32",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.148.41.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.148.42.0/25",
+    "ip_type": "IPv4",
+    "service": "Sql.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.148.42.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.148.43.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.148.44.160/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.148.44.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.148.45.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.148.46.0/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.148.46.114/31",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
     "ip_address": "52.150.128.0/17",
     "ip_type": "IPv4",
     "service": "AzureCloud.westcentralus",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.150.136.64/30",
+    "ip_type": "IPv4",
+    "service": "AzureBotService.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.150.136.72/29",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.150.136.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.150.136.192/26",
+    "ip_type": "IPv4",
+    "service": "DataFactory.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.150.137.128/25",
+    "ip_type": "IPv4",
+    "service": "DataFactory.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.150.138.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureDevOps.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.150.139.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureCognitiveSearch.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.150.139.72/30",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.150.139.76/31",
+    "ip_type": "IPv4",
+    "service": "PowerBI.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.150.139.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureOpenDatasets.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.150.139.96/30",
+    "ip_type": "IPv4",
+    "service": "PowerBI.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.150.139.104/29",
+    "ip_type": "IPv4",
+    "service": "StorageSyncService.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.150.139.112/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.150.139.128/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.150.139.144/28",
+    "ip_type": "IPv4",
+    "service": "AzureDevSpaces.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.150.139.160/27",
+    "ip_type": "IPv4",
+    "service": "PowerBI.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.150.139.224/27",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.150.140.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.150.140.128/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.150.140.216/30",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.150.140.224/27",
+    "ip_type": "IPv4",
+    "service": "AppService.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.150.152.16/28",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.150.152.48/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.150.152.90/31",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.150.152.96/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.150.152.204/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.150.152.224/27",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.150.153.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.150.154.16/29",
+    "ip_type": "IPv4",
+    "service": "DataFactory.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.150.154.24/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.150.154.32/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.150.154.48/28",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.150.154.128/26",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.150.154.192/29",
+    "ip_type": "IPv4",
+    "service": "HDInsight.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.150.154.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.150.155.0/24",
+    "ip_type": "IPv4",
+    "service": "DataFactory.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.150.156.36/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.150.156.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.150.156.232/29",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.150.156.248/29",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.150.157.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.150.157.160/29",
+    "ip_type": "IPv4",
+    "service": "DataFactory.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.150.157.172/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.150.157.192/26",
+    "ip_type": "IPv4",
+    "service": "DataFactory.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.150.158.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.150.226.148/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.WestCentralUS",
     "region": "westcentralus"
   },
   {
@@ -3864,9 +2418,123 @@
     "region": "westcentralus"
   },
   {
+    "ip_address": "52.153.153.146/32",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.153.153.246/32",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.153.153.255/32",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.153.154.13/32",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.153.154.40/32",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.153.154.123/32",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.153.154.158/32",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.153.154.161/32",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.153.155.166/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.153.155.205/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
     "ip_address": "52.159.0.0/18",
     "ip_type": "IPv4",
     "service": "AzureCloud.westcentralus",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.159.19.113/32",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.159.20.67/32",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.159.21.124/32",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.159.49.144/28",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.159.50.179/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.159.51.160/28",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.159.53.64/28",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.159.53.112/28",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.159.55.120/32",
+    "ip_type": "IPv4",
+    "service": "AzureDataExplorerManagement.WestCentralUS",
     "region": "westcentralus"
   },
   {
@@ -3876,9 +2544,213 @@
     "region": "westcentralus"
   },
   {
+    "ip_address": "52.161.8.76/32",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.161.10.167/32",
+    "ip_type": "IPv4",
+    "service": "HDInsight.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.161.11.71/32",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.161.13.67/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.161.13.132/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.161.13.138/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.161.13.153/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.161.15.92/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.161.15.223/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.161.15.247/32",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.161.22.131/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.161.23.15/32",
+    "ip_type": "IPv4",
+    "service": "HDInsight.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.161.64.217/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.161.91.215/32",
+    "ip_type": "IPv4",
+    "service": "LogicApps.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.161.95.12/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.161.96.193/32",
+    "ip_type": "IPv4",
+    "service": "AppService.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.161.100.126/32",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.161.100.158/32",
+    "ip_type": "IPv4",
+    "service": "Sql.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.161.101.204/32",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.161.102.22/32",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.161.107.48/32",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.161.112.16/28",
+    "ip_type": "IPv4",
+    "service": "Storage.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.161.112.32/28",
+    "ip_type": "IPv4",
+    "service": "Storage.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.161.128.12/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.161.128.32/27",
+    "ip_type": "IPv4",
+    "service": "Sql.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.161.145.118/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.161.151.13/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.161.168.16/28",
+    "ip_type": "IPv4",
+    "service": "Storage.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.161.168.32/28",
+    "ip_type": "IPv4",
+    "service": "Storage.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.161.176.67/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.161.185.49/32",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.161.186.128/28",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.161.186.208/28",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
     "ip_address": "52.239.164.0/25",
     "ip_type": "IPv4",
     "service": "AzureCloud.westcentralus",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.239.164.0/25",
+    "ip_type": "IPv4",
+    "service": "Storage.WestCentralUS",
     "region": "westcentralus"
   },
   {
@@ -3888,9 +2760,21 @@
     "region": "westcentralus"
   },
   {
+    "ip_address": "52.239.167.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
     "ip_address": "52.239.244.0/23",
     "ip_type": "IPv4",
     "service": "AzureCloud.westcentralus",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.239.244.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.WestCentralUS",
     "region": "westcentralus"
   },
   {
@@ -3906,9 +2790,123 @@
     "region": "westcentralus"
   },
   {
+    "ip_address": "52.253.131.79/32",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.253.131.198/32",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "52.253.135.58/32",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
     "ip_address": "57.151.128.0/19",
     "ip_type": "IPv4",
     "service": "AzureCloud.westcentralus",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "57.151.144.75/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "57.151.144.95/32",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "57.151.152.0/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "57.151.152.8/30",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "57.151.152.16/29",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "57.151.152.24/29",
+    "ip_type": "IPv4",
+    "service": "Sql.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "57.151.152.32/28",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "57.151.152.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "57.151.152.128/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "57.151.152.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "57.151.154.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "57.151.154.128/27",
+    "ip_type": "IPv4",
+    "service": "Sql.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "57.151.154.176/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "57.151.155.0/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "57.151.155.16/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "57.151.155.72/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.WestCentralUS",
     "region": "westcentralus"
   },
   {
@@ -3945,6 +2943,12 @@
     "ip_address": "57.163.30.0/23",
     "ip_type": "IPv4",
     "service": "AzureCloud.westcentralus",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "57.163.30.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.WestCentralUS",
     "region": "westcentralus"
   },
   {
@@ -3990,6 +2994,60 @@
     "region": "westcentralus"
   },
   {
+    "ip_address": "128.24.142.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "128.24.143.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "128.24.200.144/28",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "128.24.203.128/26",
+    "ip_type": "IPv4",
+    "service": "PowerBI.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "128.24.231.20/30",
+    "ip_type": "IPv4",
+    "service": "Sql.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "128.24.231.160/27",
+    "ip_type": "IPv4",
+    "service": "Sql.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "128.24.231.192/26",
+    "ip_type": "IPv4",
+    "service": "Sql.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "128.24.232.0/29",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "128.24.232.48/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
     "ip_address": "131.253.24.160/27",
     "ip_type": "IPv4",
     "service": "AzureCloud.westcentralus",
@@ -4008,9 +3066,27 @@
     "region": "westcentralus"
   },
   {
+    "ip_address": "135.130.34.192/27",
+    "ip_type": "IPv4",
+    "service": "Storage.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "135.130.34.224/27",
+    "ip_type": "IPv4",
+    "service": "Storage.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
     "ip_address": "135.130.60.0/23",
     "ip_type": "IPv4",
     "service": "AzureCloud.westcentralus",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "135.130.60.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.WestCentralUS",
     "region": "westcentralus"
   },
   {
@@ -4020,9 +3096,21 @@
     "region": "westcentralus"
   },
   {
+    "ip_address": "135.130.116.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
     "ip_address": "135.130.157.0/25",
     "ip_type": "IPv4",
     "service": "AzureCloud.westcentralus",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "135.130.157.0/25",
+    "ip_type": "IPv4",
+    "service": "Storage.WestCentralUS",
     "region": "westcentralus"
   },
   {
@@ -4032,9 +3120,27 @@
     "region": "westcentralus"
   },
   {
+    "ip_address": "135.130.157.128/26",
+    "ip_type": "IPv4",
+    "service": "Storage.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
     "ip_address": "135.130.212.0/22",
     "ip_type": "IPv4",
     "service": "AzureCloud.westcentralus",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "135.130.212.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "135.130.214.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.WestCentralUS",
     "region": "westcentralus"
   },
   {
@@ -4044,9 +3150,21 @@
     "region": "westcentralus"
   },
   {
+    "ip_address": "145.190.137.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
     "ip_address": "145.190.177.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.westcentralus",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "145.190.177.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.WestCentralUS",
     "region": "westcentralus"
   },
   {
@@ -4080,9 +3198,237 @@
     "region": "westcentralus"
   },
   {
+    "ip_address": "172.208.162.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "172.208.163.48/28",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "172.208.163.128/25",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "172.208.164.0/30",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "172.208.164.4/31",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "172.208.165.0/25",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "172.208.172.32/27",
+    "ip_type": "IPv4",
+    "service": "DataFactory.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "172.208.172.64/28",
+    "ip_type": "IPv4",
+    "service": "LogicApps.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "172.208.172.80/28",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "172.208.172.96/29",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "172.208.172.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "172.208.173.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "172.208.174.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "172.208.223.0/27",
+    "ip_type": "IPv4",
+    "service": "SCCservice.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "172.208.248.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "172.208.250.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
     "ip_address": "172.215.192.0/18",
     "ip_type": "IPv4",
     "service": "AzureCloud.westcentralus",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "172.215.202.0/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "172.215.202.12/30",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "172.215.202.16/29",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "172.215.202.24/30",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "172.215.202.32/28",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "172.215.202.52/32",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "172.215.202.56/29",
+    "ip_type": "IPv4",
+    "service": "StorageSyncService.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "172.215.202.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "172.215.202.128/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "172.215.203.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "172.215.203.32/27",
+    "ip_type": "IPv4",
+    "service": "Sql.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "172.215.203.64/29",
+    "ip_type": "IPv4",
+    "service": "Sql.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "172.215.203.88/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "172.215.203.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "172.215.206.16/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "172.215.206.96/28",
+    "ip_type": "IPv4",
+    "service": "LogicApps.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "172.215.206.112/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "172.215.206.128/27",
+    "ip_type": "IPv4",
+    "service": "LogicApps.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "172.215.206.216/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "172.215.248.128/25",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "172.215.249.0/24",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "172.215.250.0/25",
+    "ip_type": "IPv4",
+    "service": "MicrosoftCloudAppSecurity.WestCentralUS",
     "region": "westcentralus"
   },
   {
@@ -4098,6 +3444,90 @@
     "region": "westcentralus"
   },
   {
+    "ip_address": "2603:1030:b00::4f/128",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b00::68/128",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b00::ca/128",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b00::cf/128",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b00::e8/128",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b00::164/128",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b00::2a1/128",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b00::4d9/128",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b00::4db/128",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b00::50d/128",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b00:13::190/128",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b00:28::61/128",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b00:29::d/128",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b00:29::7e/128",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
     "ip_address": "2603:1030:b03::/48",
     "ip_type": "IPv6",
     "service": "AzureCloud.westcentralus",
@@ -4110,6 +3540,552 @@
     "region": "westcentralus"
   },
   {
+    "ip_address": "2603:1030:b04::20/123",
+    "ip_type": "IPv6",
+    "service": "AzureBotService.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04::40/122",
+    "ip_type": "IPv6",
+    "service": "GatewayManager.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04::108/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04::110/126",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04::180/121",
+    "ip_type": "IPv6",
+    "service": "AzureCognitiveSearch.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04::200/123",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04::220/123",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04::240/122",
+    "ip_type": "IPv6",
+    "service": "EventHub.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04::280/123",
+    "ip_type": "IPv6",
+    "service": "Sql.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04::2a0/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04::300/122",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04::340/123",
+    "ip_type": "IPv6",
+    "service": "StorageSyncService.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04::380/121",
+    "ip_type": "IPv6",
+    "service": "AzureEventGrid.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04::400/122",
+    "ip_type": "IPv6",
+    "service": "BatchNodeManagement.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04::440/122",
+    "ip_type": "IPv6",
+    "service": "DataFactory.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04::500/121",
+    "ip_type": "IPv6",
+    "service": "DataFactory.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04::620/123",
+    "ip_type": "IPv6",
+    "service": "PowerBI.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04::640/122",
+    "ip_type": "IPv6",
+    "service": "PowerBI.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04::6c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04::700/121",
+    "ip_type": "IPv6",
+    "service": "AzurePortal.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04::780/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:1::200/121",
+    "ip_type": "IPv6",
+    "service": "Sql.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:1::280/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:1::300/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:1::380/121",
+    "ip_type": "IPv6",
+    "service": "AzureDataExplorerManagement.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:1::4a0/123",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:1::4cc/126",
+    "ip_type": "IPv6",
+    "service": "ActionGroup.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:1::500/120",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:1::600/120",
+    "ip_type": "IPv6",
+    "service": "EventHub.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:1::700/120",
+    "ip_type": "IPv6",
+    "service": "AzureSignalR.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:3::200/119",
+    "ip_type": "IPv6",
+    "service": "AppService.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:3::478/126",
+    "ip_type": "IPv6",
+    "service": "AzureDigitalTwins.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:3::540/122",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:3::680/121",
+    "ip_type": "IPv6",
+    "service": "Sql.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:6::700/122",
+    "ip_type": "IPv6",
+    "service": "AzureCosmosDB.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:6::780/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:6::7c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:9::5a0/123",
+    "ip_type": "IPv6",
+    "service": "SCCservice.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:d::200/120",
+    "ip_type": "IPv6",
+    "service": "AzureDevOps.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:f::100/120",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:f::2c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:f::3db/128",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:f::540/123",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:f::560/124",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:f::570/126",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:f::574/127",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:f::576/128",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:f::700/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:400::/123",
+    "ip_type": "IPv6",
+    "service": "Sql.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:402::80/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:402::88/125",
+    "ip_type": "IPv6",
+    "service": "MicrosoftContainerRegistry.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:402::90/125",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:402::98/125",
+    "ip_type": "IPv6",
+    "service": "ServiceFabric.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:402::a0/123",
+    "ip_type": "IPv6",
+    "service": "AppService.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:402::c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureCosmosDB.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:402::100/122",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:402::140/124",
+    "ip_type": "IPv6",
+    "service": "ApiManagement.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:402::150/124",
+    "ip_type": "IPv6",
+    "service": "AzureDataExplorerManagement.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:402::160/125",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:402::170/125",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:402::178/125",
+    "ip_type": "IPv6",
+    "service": "ActionGroup.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:402::180/122",
+    "ip_type": "IPv6",
+    "service": "AzureConnectors.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:402::1c0/123",
+    "ip_type": "IPv6",
+    "service": "EventHub.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:402::200/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:402::280/122",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:402::300/123",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:402::320/124",
+    "ip_type": "IPv6",
+    "service": "HDInsight.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:402::330/124",
+    "ip_type": "IPv6",
+    "service": "DataFactory.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:402::340/122",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:402::3c0/124",
+    "ip_type": "IPv6",
+    "service": "LogicApps.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:402::3e0/123",
+    "ip_type": "IPv6",
+    "service": "LogicApps.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:402::500/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:402::580/122",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:800::/125",
+    "ip_type": "IPv6",
+    "service": "MicrosoftContainerRegistry.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:800::8/125",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:800::18/125",
+    "ip_type": "IPv6",
+    "service": "ServiceFabric.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:800::40/125",
+    "ip_type": "IPv6",
+    "service": "ActionGroup.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:800::50/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:800::80/123",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:800::c0/123",
+    "ip_type": "IPv6",
+    "service": "StorageSyncService.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:800::100/121",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:801::50/124",
+    "ip_type": "IPv6",
+    "service": "DataFactory.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:801::c0/124",
+    "ip_type": "IPv6",
+    "service": "LogicApps.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:801::e0/123",
+    "ip_type": "IPv6",
+    "service": "LogicApps.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:c00::/125",
+    "ip_type": "IPv6",
+    "service": "MicrosoftContainerRegistry.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:c00::8/125",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:c00::10/125",
+    "ip_type": "IPv6",
+    "service": "ServiceFabric.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:c00::18/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:c00::40/123",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:c00::70/124",
+    "ip_type": "IPv6",
+    "service": "DataFactory.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:c00::80/121",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
     "ip_address": "2603:1030:b05::/48",
     "ip_type": "IPv6",
     "service": "AzureCloud.westcentralus",
@@ -4119,6 +4095,18 @@
     "ip_address": "2603:1030:b06::/48",
     "ip_type": "IPv6",
     "service": "AzureCloud.westcentralus",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b06::/49",
+    "ip_type": "IPv6",
+    "service": "Storage.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b06:8000::/63",
+    "ip_type": "IPv6",
+    "service": "Storage.WestCentralUS",
     "region": "westcentralus"
   },
   {
@@ -4206,9 +4194,21 @@
     "region": "westcentralus"
   },
   {
+    "ip_address": "2603:1061:2002:400::/57",
+    "ip_type": "IPv6",
+    "service": "PowerPlatformInfra.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
     "ip_address": "2603:1061:2010:18::/64",
     "ip_type": "IPv6",
     "service": "AzureCloud.westcentralus",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1061:2010:18::/117",
+    "ip_type": "IPv6",
+    "service": "WindowsVirtualDesktop.WestCentralUS",
     "region": "westcentralus"
   },
   {

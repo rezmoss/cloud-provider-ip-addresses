@@ -1,12 +1,32 @@
 #!/bin/bash
 # Apple_private_relay IP Ranges
-# Updated: 2026-02-11 17:28:47
+# Updated: 2026-06-09 22:59:43
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
 # Updates daily at 00:00 UTC
 # UFW allow rules for apple_private_relay
 
+ufw allow from 104.28.43.212/32
+ufw allow from 104.28.43.213/32
+ufw allow from 104.28.67.90/32
+ufw allow from 104.28.67.91/32
+ufw allow from 104.28.70.90/32
+ufw allow from 104.28.70.91/32
+ufw allow from 104.28.83.115/32
+ufw allow from 104.28.83.116/32
+ufw allow from 104.28.99.111/32
+ufw allow from 104.28.99.112/32
+ufw allow from 104.28.101.111/32
+ufw allow from 104.28.101.112/32
+ufw allow from 104.28.118.84/32
+ufw allow from 104.28.118.85/32
+ufw allow from 104.28.121.84/32
+ufw allow from 104.28.121.85/32
+ufw allow from 2606:54c0:45d8::/45
+ufw allow from 2606:54c0:45e0::/45
+ufw allow from 2606:54c3:0:6b6::/64
+ufw allow from 2606:54c3:0:102e::/64
 ufw allow from 2a02:26f7:b980:6154::/64
 ufw allow from 2a02:26f7:b980:6155::/64
 ufw allow from 2a02:26f7:b980:6156::/64
@@ -63,26 +83,6 @@ ufw allow from 2a02:26f7:b9b4:6154::/64
 ufw allow from 2a02:26f7:b9b4:6155::/64
 ufw allow from 2a02:26f7:b9b4:6156::/64
 ufw allow from 2a02:26f7:b9b4:6157::/64
-ufw allow from 104.28.43.212/32
-ufw allow from 104.28.43.213/32
-ufw allow from 104.28.67.90/32
-ufw allow from 104.28.67.91/32
-ufw allow from 104.28.70.90/32
-ufw allow from 104.28.70.91/32
-ufw allow from 104.28.83.115/32
-ufw allow from 104.28.83.116/32
-ufw allow from 104.28.99.111/32
-ufw allow from 104.28.99.112/32
-ufw allow from 104.28.101.111/32
-ufw allow from 104.28.101.112/32
-ufw allow from 104.28.118.84/32
-ufw allow from 104.28.118.85/32
-ufw allow from 104.28.121.84/32
-ufw allow from 104.28.121.85/32
-ufw allow from 2606:54c0:45d8::/45
-ufw allow from 2606:54c0:45e0::/45
-ufw allow from 2606:54c3:0:6b6::/64
-ufw allow from 2606:54c3:0:102e::/64
 ufw allow from 2a09:bac2:45d8::/45
 ufw allow from 2a09:bac2:45e0::/45
 ufw allow from 2a09:bac3:45d8::/45

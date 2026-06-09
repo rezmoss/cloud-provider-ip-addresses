@@ -1,12 +1,36 @@
 #!/bin/bash
 # Apple_private_relay IP Ranges
-# Updated: 2026-02-11 17:28:48
+# Updated: 2026-06-09 22:59:47
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
 # Updates daily at 00:00 UTC
 # UFW allow rules for apple_private_relay
 
+ufw allow from 2606:54c0:5188::/45
+ufw allow from 2606:54c0:5190::/45
+ufw allow from 2606:54c0:5198::/45
+ufw allow from 2606:54c0:51a0::/45
+ufw allow from 2606:54c0:51a8::/45
+ufw allow from 2606:54c0:51b0::/45
+ufw allow from 2606:54c0:51b8::/45
+ufw allow from 2606:54c0:51c0::/45
+ufw allow from 2606:54c0:51c8::/45
+ufw allow from 2606:54c0:51d0::/45
+ufw allow from 2606:54c0:51d8::/45
+ufw allow from 2606:54c0:51e0::/45
+ufw allow from 2606:54c3:0:bb3::/64
+ufw allow from 2606:54c3:0:d63::/64
+ufw allow from 2606:54c3:0:e95::/64
+ufw allow from 2606:54c3:0:107c::/64
+ufw allow from 2606:54c3:0:1137::/64
+ufw allow from 2606:54c3:0:12b3::/64
+ufw allow from 2606:54c3:0:13ee::/64
+ufw allow from 2606:54c3:0:14cc::/64
+ufw allow from 2606:54c3:0:1585::/64
+ufw allow from 2606:54c3:0:16ce::/64
+ufw allow from 2606:54c3:0:1758::/64
+ufw allow from 2606:54c3:0:17f7::/64
 ufw allow from 2a02:26f7:f8c0:4c0f::/64
 ufw allow from 2a02:26f7:f8c0:4c10::/64
 ufw allow from 2a02:26f7:f8c0:4c11::/64
@@ -259,30 +283,6 @@ ufw allow from 2a02:26f7:f8e2:4c27::/64
 ufw allow from 2a02:26f7:f8e2:4c28::/64
 ufw allow from 2a02:26f7:f8e2:4c29::/64
 ufw allow from 2a02:26f7:f8e2:4c2a::/64
-ufw allow from 2606:54c0:5188::/45
-ufw allow from 2606:54c0:5190::/45
-ufw allow from 2606:54c0:5198::/45
-ufw allow from 2606:54c0:51a0::/45
-ufw allow from 2606:54c0:51a8::/45
-ufw allow from 2606:54c0:51b0::/45
-ufw allow from 2606:54c0:51b8::/45
-ufw allow from 2606:54c0:51c0::/45
-ufw allow from 2606:54c0:51c8::/45
-ufw allow from 2606:54c0:51d0::/45
-ufw allow from 2606:54c0:51d8::/45
-ufw allow from 2606:54c0:51e0::/45
-ufw allow from 2606:54c3:0:bb3::/64
-ufw allow from 2606:54c3:0:d63::/64
-ufw allow from 2606:54c3:0:e95::/64
-ufw allow from 2606:54c3:0:107c::/64
-ufw allow from 2606:54c3:0:1137::/64
-ufw allow from 2606:54c3:0:12b3::/64
-ufw allow from 2606:54c3:0:13ee::/64
-ufw allow from 2606:54c3:0:14cc::/64
-ufw allow from 2606:54c3:0:1585::/64
-ufw allow from 2606:54c3:0:16ce::/64
-ufw allow from 2606:54c3:0:1758::/64
-ufw allow from 2606:54c3:0:17f7::/64
 ufw allow from 2a09:bac2:5188::/45
 ufw allow from 2a09:bac2:5190::/45
 ufw allow from 2a09:bac2:5198::/45

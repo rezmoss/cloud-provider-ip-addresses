@@ -1,5 +1,70 @@
 [
   {
+    "ip_address": "140.248.1.236/31",
+    "ip_type": "IPv4",
+    "region": "US-VT"
+  },
+  {
+    "ip_address": "140.248.6.42/31",
+    "ip_type": "IPv4",
+    "region": "US-VT"
+  },
+  {
+    "ip_address": "140.248.14.10/31",
+    "ip_type": "IPv4",
+    "region": "US-VT"
+  },
+  {
+    "ip_address": "140.248.46.84/31",
+    "ip_type": "IPv4",
+    "region": "US-VT"
+  },
+  {
+    "ip_address": "146.75.129.248/31",
+    "ip_type": "IPv4",
+    "region": "US-VT"
+  },
+  {
+    "ip_address": "146.75.135.230/31",
+    "ip_type": "IPv4",
+    "region": "US-VT"
+  },
+  {
+    "ip_address": "146.75.149.242/31",
+    "ip_type": "IPv4",
+    "region": "US-VT"
+  },
+  {
+    "ip_address": "146.75.223.236/31",
+    "ip_type": "IPv4",
+    "region": "US-VT"
+  },
+  {
+    "ip_address": "146.75.234.10/31",
+    "ip_type": "IPv4",
+    "region": "US-VT"
+  },
+  {
+    "ip_address": "146.75.237.248/31",
+    "ip_type": "IPv4",
+    "region": "US-VT"
+  },
+  {
+    "ip_address": "146.75.245.242/31",
+    "ip_type": "IPv4",
+    "region": "US-VT"
+  },
+  {
+    "ip_address": "146.75.250.10/31",
+    "ip_type": "IPv4",
+    "region": "US-VT"
+  },
+  {
+    "ip_address": "146.75.253.240/31",
+    "ip_type": "IPv4",
+    "region": "US-VT"
+  },
+  {
     "ip_address": "172.225.7.174/32",
     "ip_type": "IPv4",
     "region": "US-VT"
@@ -192,6 +257,146 @@
   {
     "ip_address": "172.226.205.92/31",
     "ip_type": "IPv4",
+    "region": "US-VT"
+  },
+  {
+    "ip_address": "2606:54c0:c888::/45",
+    "ip_type": "IPv6",
+    "region": "US-VT"
+  },
+  {
+    "ip_address": "2606:54c0:c890::/45",
+    "ip_type": "IPv6",
+    "region": "US-VT"
+  },
+  {
+    "ip_address": "2606:54c0:c898::/45",
+    "ip_type": "IPv6",
+    "region": "US-VT"
+  },
+  {
+    "ip_address": "2606:54c0:c8a0::/45",
+    "ip_type": "IPv6",
+    "region": "US-VT"
+  },
+  {
+    "ip_address": "2606:54c0:c8a8::/45",
+    "ip_type": "IPv6",
+    "region": "US-VT"
+  },
+  {
+    "ip_address": "2606:54c0:c8b0::/45",
+    "ip_type": "IPv6",
+    "region": "US-VT"
+  },
+  {
+    "ip_address": "2606:54c0:c8b8::/45",
+    "ip_type": "IPv6",
+    "region": "US-VT"
+  },
+  {
+    "ip_address": "2606:54c0:c8c0::/45",
+    "ip_type": "IPv6",
+    "region": "US-VT"
+  },
+  {
+    "ip_address": "2606:54c0:c8c8::/45",
+    "ip_type": "IPv6",
+    "region": "US-VT"
+  },
+  {
+    "ip_address": "2606:54c0:c8d0::/45",
+    "ip_type": "IPv6",
+    "region": "US-VT"
+  },
+  {
+    "ip_address": "2606:54c0:c8d8::/45",
+    "ip_type": "IPv6",
+    "region": "US-VT"
+  },
+  {
+    "ip_address": "2606:54c0:c8e0::/45",
+    "ip_type": "IPv6",
+    "region": "US-VT"
+  },
+  {
+    "ip_address": "2606:54c0:c8e8::/45",
+    "ip_type": "IPv6",
+    "region": "US-VT"
+  },
+  {
+    "ip_address": "2606:54c0:c8f0::/45",
+    "ip_type": "IPv6",
+    "region": "US-VT"
+  },
+  {
+    "ip_address": "2606:54c3:0:c2::/64",
+    "ip_type": "IPv6",
+    "region": "US-VT"
+  },
+  {
+    "ip_address": "2606:54c3:0:4a7::/64",
+    "ip_type": "IPv6",
+    "region": "US-VT"
+  },
+  {
+    "ip_address": "2606:54c3:0:5ae::/64",
+    "ip_type": "IPv6",
+    "region": "US-VT"
+  },
+  {
+    "ip_address": "2606:54c3:0:718::/64",
+    "ip_type": "IPv6",
+    "region": "US-VT"
+  },
+  {
+    "ip_address": "2606:54c3:0:7dc::/64",
+    "ip_type": "IPv6",
+    "region": "US-VT"
+  },
+  {
+    "ip_address": "2606:54c3:0:c6e::/64",
+    "ip_type": "IPv6",
+    "region": "US-VT"
+  },
+  {
+    "ip_address": "2606:54c3:0:e50::/64",
+    "ip_type": "IPv6",
+    "region": "US-VT"
+  },
+  {
+    "ip_address": "2606:54c3:0:e5e::/64",
+    "ip_type": "IPv6",
+    "region": "US-VT"
+  },
+  {
+    "ip_address": "2606:54c3:0:1122::/64",
+    "ip_type": "IPv6",
+    "region": "US-VT"
+  },
+  {
+    "ip_address": "2606:54c3:0:131c::/64",
+    "ip_type": "IPv6",
+    "region": "US-VT"
+  },
+  {
+    "ip_address": "2606:54c3:0:148d::/64",
+    "ip_type": "IPv6",
+    "region": "US-VT"
+  },
+  {
+    "ip_address": "2606:54c3:0:161f::/64",
+    "ip_type": "IPv6",
+    "region": "US-VT"
+  },
+  {
+    "ip_address": "2606:54c3:0:1893::/64",
+    "ip_type": "IPv6",
+    "region": "US-VT"
+  },
+  {
+    "ip_address": "2606:54c3:0:1931::/64",
+    "ip_type": "IPv6",
     "region": "US-VT"
   },
   {
@@ -7380,142 +7585,67 @@
     "region": "US-VT"
   },
   {
-    "ip_address": "2606:54c0:c888::/45",
+    "ip_address": "2a04:4e41:60f:2000::/52",
     "ip_type": "IPv6",
     "region": "US-VT"
   },
   {
-    "ip_address": "2606:54c0:c890::/45",
+    "ip_address": "2a04:4e41:a0f:2000::/52",
     "ip_type": "IPv6",
     "region": "US-VT"
   },
   {
-    "ip_address": "2606:54c0:c898::/45",
+    "ip_address": "2a04:4e41:2a0f:3000::/52",
     "ip_type": "IPv6",
     "region": "US-VT"
   },
   {
-    "ip_address": "2606:54c0:c8a0::/45",
+    "ip_address": "2a04:4e41:300f:2000::/52",
     "ip_type": "IPv6",
     "region": "US-VT"
   },
   {
-    "ip_address": "2606:54c0:c8a8::/45",
+    "ip_address": "2a04:4e41:320f:3000::/52",
     "ip_type": "IPv6",
     "region": "US-VT"
   },
   {
-    "ip_address": "2606:54c0:c8b0::/45",
+    "ip_address": "2a04:4e41:340f:5000::/52",
     "ip_type": "IPv6",
     "region": "US-VT"
   },
   {
-    "ip_address": "2606:54c0:c8b8::/45",
+    "ip_address": "2a04:4e41:360f:d000::/52",
     "ip_type": "IPv6",
     "region": "US-VT"
   },
   {
-    "ip_address": "2606:54c0:c8c0::/45",
+    "ip_address": "2a04:4e41:3a10:2000::/52",
     "ip_type": "IPv6",
     "region": "US-VT"
   },
   {
-    "ip_address": "2606:54c0:c8c8::/45",
+    "ip_address": "2a04:4e41:3e0f:7000::/52",
     "ip_type": "IPv6",
     "region": "US-VT"
   },
   {
-    "ip_address": "2606:54c0:c8d0::/45",
+    "ip_address": "2a04:4e41:440f:2000::/52",
     "ip_type": "IPv6",
     "region": "US-VT"
   },
   {
-    "ip_address": "2606:54c0:c8d8::/45",
+    "ip_address": "2a04:4e41:4a0f:5000::/52",
     "ip_type": "IPv6",
     "region": "US-VT"
   },
   {
-    "ip_address": "2606:54c0:c8e0::/45",
+    "ip_address": "2a04:4e41:700f:7000::/52",
     "ip_type": "IPv6",
     "region": "US-VT"
   },
   {
-    "ip_address": "2606:54c0:c8e8::/45",
-    "ip_type": "IPv6",
-    "region": "US-VT"
-  },
-  {
-    "ip_address": "2606:54c0:c8f0::/45",
-    "ip_type": "IPv6",
-    "region": "US-VT"
-  },
-  {
-    "ip_address": "2606:54c3:0:c2::/64",
-    "ip_type": "IPv6",
-    "region": "US-VT"
-  },
-  {
-    "ip_address": "2606:54c3:0:4a7::/64",
-    "ip_type": "IPv6",
-    "region": "US-VT"
-  },
-  {
-    "ip_address": "2606:54c3:0:5ae::/64",
-    "ip_type": "IPv6",
-    "region": "US-VT"
-  },
-  {
-    "ip_address": "2606:54c3:0:718::/64",
-    "ip_type": "IPv6",
-    "region": "US-VT"
-  },
-  {
-    "ip_address": "2606:54c3:0:7dc::/64",
-    "ip_type": "IPv6",
-    "region": "US-VT"
-  },
-  {
-    "ip_address": "2606:54c3:0:c6e::/64",
-    "ip_type": "IPv6",
-    "region": "US-VT"
-  },
-  {
-    "ip_address": "2606:54c3:0:e50::/64",
-    "ip_type": "IPv6",
-    "region": "US-VT"
-  },
-  {
-    "ip_address": "2606:54c3:0:e5e::/64",
-    "ip_type": "IPv6",
-    "region": "US-VT"
-  },
-  {
-    "ip_address": "2606:54c3:0:1122::/64",
-    "ip_type": "IPv6",
-    "region": "US-VT"
-  },
-  {
-    "ip_address": "2606:54c3:0:131c::/64",
-    "ip_type": "IPv6",
-    "region": "US-VT"
-  },
-  {
-    "ip_address": "2606:54c3:0:148d::/64",
-    "ip_type": "IPv6",
-    "region": "US-VT"
-  },
-  {
-    "ip_address": "2606:54c3:0:161f::/64",
-    "ip_type": "IPv6",
-    "region": "US-VT"
-  },
-  {
-    "ip_address": "2606:54c3:0:1893::/64",
-    "ip_type": "IPv6",
-    "region": "US-VT"
-  },
-  {
-    "ip_address": "2606:54c3:0:1931::/64",
+    "ip_address": "2a04:4e41:720f:7000::/52",
     "ip_type": "IPv6",
     "region": "US-VT"
   },
@@ -7657,136 +7787,6 @@
   {
     "ip_address": "2a09:bac3:c8f0::/45",
     "ip_type": "IPv6",
-    "region": "US-VT"
-  },
-  {
-    "ip_address": "2a04:4e41:60f:2000::/52",
-    "ip_type": "IPv6",
-    "region": "US-VT"
-  },
-  {
-    "ip_address": "2a04:4e41:a0f:2000::/52",
-    "ip_type": "IPv6",
-    "region": "US-VT"
-  },
-  {
-    "ip_address": "2a04:4e41:2a0f:3000::/52",
-    "ip_type": "IPv6",
-    "region": "US-VT"
-  },
-  {
-    "ip_address": "2a04:4e41:300f:2000::/52",
-    "ip_type": "IPv6",
-    "region": "US-VT"
-  },
-  {
-    "ip_address": "2a04:4e41:320f:3000::/52",
-    "ip_type": "IPv6",
-    "region": "US-VT"
-  },
-  {
-    "ip_address": "2a04:4e41:340f:5000::/52",
-    "ip_type": "IPv6",
-    "region": "US-VT"
-  },
-  {
-    "ip_address": "2a04:4e41:360f:d000::/52",
-    "ip_type": "IPv6",
-    "region": "US-VT"
-  },
-  {
-    "ip_address": "2a04:4e41:3a10:2000::/52",
-    "ip_type": "IPv6",
-    "region": "US-VT"
-  },
-  {
-    "ip_address": "2a04:4e41:3e0f:7000::/52",
-    "ip_type": "IPv6",
-    "region": "US-VT"
-  },
-  {
-    "ip_address": "2a04:4e41:440f:2000::/52",
-    "ip_type": "IPv6",
-    "region": "US-VT"
-  },
-  {
-    "ip_address": "2a04:4e41:4a0f:5000::/52",
-    "ip_type": "IPv6",
-    "region": "US-VT"
-  },
-  {
-    "ip_address": "2a04:4e41:700f:7000::/52",
-    "ip_type": "IPv6",
-    "region": "US-VT"
-  },
-  {
-    "ip_address": "2a04:4e41:720f:7000::/52",
-    "ip_type": "IPv6",
-    "region": "US-VT"
-  },
-  {
-    "ip_address": "140.248.1.236/31",
-    "ip_type": "IPv4",
-    "region": "US-VT"
-  },
-  {
-    "ip_address": "140.248.6.42/31",
-    "ip_type": "IPv4",
-    "region": "US-VT"
-  },
-  {
-    "ip_address": "140.248.14.10/31",
-    "ip_type": "IPv4",
-    "region": "US-VT"
-  },
-  {
-    "ip_address": "140.248.46.84/31",
-    "ip_type": "IPv4",
-    "region": "US-VT"
-  },
-  {
-    "ip_address": "146.75.129.248/31",
-    "ip_type": "IPv4",
-    "region": "US-VT"
-  },
-  {
-    "ip_address": "146.75.135.230/31",
-    "ip_type": "IPv4",
-    "region": "US-VT"
-  },
-  {
-    "ip_address": "146.75.149.242/31",
-    "ip_type": "IPv4",
-    "region": "US-VT"
-  },
-  {
-    "ip_address": "146.75.223.236/31",
-    "ip_type": "IPv4",
-    "region": "US-VT"
-  },
-  {
-    "ip_address": "146.75.234.10/31",
-    "ip_type": "IPv4",
-    "region": "US-VT"
-  },
-  {
-    "ip_address": "146.75.237.248/31",
-    "ip_type": "IPv4",
-    "region": "US-VT"
-  },
-  {
-    "ip_address": "146.75.245.242/31",
-    "ip_type": "IPv4",
-    "region": "US-VT"
-  },
-  {
-    "ip_address": "146.75.250.10/31",
-    "ip_type": "IPv4",
-    "region": "US-VT"
-  },
-  {
-    "ip_address": "146.75.253.240/31",
-    "ip_type": "IPv4",
     "region": "US-VT"
   }
 ]

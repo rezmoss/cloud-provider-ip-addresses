@@ -6,11 +6,11 @@ CREATE TABLE IF NOT EXISTS `apple_private_relay_th-36_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `apple_private_relay_th-36_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:5648::/45', 'IPv6');
+INSERT INTO `apple_private_relay_th-36_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:1493::/64', 'IPv6');
 INSERT INTO `apple_private_relay_th-36_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:c640:4ce1::/64', 'IPv6');
 INSERT INTO `apple_private_relay_th-36_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:c644:4ce1::/64', 'IPv6');
 INSERT INTO `apple_private_relay_th-36_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:c645:4ce1::/64', 'IPv6');
 INSERT INTO `apple_private_relay_th-36_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:c648:4ce1::/64', 'IPv6');
-INSERT INTO `apple_private_relay_th-36_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:5648::/45', 'IPv6');
-INSERT INTO `apple_private_relay_th-36_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:1493::/64', 'IPv6');
 INSERT INTO `apple_private_relay_th-36_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:5648::/45', 'IPv6');
 INSERT INTO `apple_private_relay_th-36_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:5648::/45', 'IPv6');

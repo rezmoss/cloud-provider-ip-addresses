@@ -1,5 +1,25 @@
 [
   {
+    "ip_address": "104.28.145.46/32",
+    "ip_type": "IPv4",
+    "region": "VE"
+  },
+  {
+    "ip_address": "140.248.4.64/31",
+    "ip_type": "IPv4",
+    "region": "VE"
+  },
+  {
+    "ip_address": "140.248.44.104/31",
+    "ip_type": "IPv4",
+    "region": "VE"
+  },
+  {
+    "ip_address": "146.75.208.16/31",
+    "ip_type": "IPv4",
+    "region": "VE"
+  },
+  {
     "ip_address": "172.225.164.16/28",
     "ip_type": "IPv4",
     "region": "VE"
@@ -47,6 +67,26 @@
   {
     "ip_address": "172.226.10.16/29",
     "ip_type": "IPv4",
+    "region": "VE"
+  },
+  {
+    "ip_address": "2606:54c0:d260::/45",
+    "ip_type": "IPv6",
+    "region": "VE"
+  },
+  {
+    "ip_address": "2606:54c0:d268::/45",
+    "ip_type": "IPv6",
+    "region": "VE"
+  },
+  {
+    "ip_address": "2606:54c3:0:db1::/64",
+    "ip_type": "IPv6",
+    "region": "VE"
+  },
+  {
+    "ip_address": "2606:54c3:0:1655::/64",
+    "ip_type": "IPv6",
     "region": "VE"
   },
   {
@@ -1375,27 +1415,17 @@
     "region": "VE"
   },
   {
-    "ip_address": "104.28.145.46/32",
-    "ip_type": "IPv4",
-    "region": "VE"
-  },
-  {
-    "ip_address": "2606:54c0:d260::/45",
+    "ip_address": "2a04:4e41:185::/48",
     "ip_type": "IPv6",
     "region": "VE"
   },
   {
-    "ip_address": "2606:54c0:d268::/45",
+    "ip_address": "2a04:4e41:3626::/48",
     "ip_type": "IPv6",
     "region": "VE"
   },
   {
-    "ip_address": "2606:54c3:0:db1::/64",
-    "ip_type": "IPv6",
-    "region": "VE"
-  },
-  {
-    "ip_address": "2606:54c3:0:1655::/64",
+    "ip_address": "2a04:4e41:3a35::/48",
     "ip_type": "IPv6",
     "region": "VE"
   },
@@ -1417,36 +1447,6 @@
   {
     "ip_address": "2a09:bac3:d268::/45",
     "ip_type": "IPv6",
-    "region": "VE"
-  },
-  {
-    "ip_address": "2a04:4e41:185::/48",
-    "ip_type": "IPv6",
-    "region": "VE"
-  },
-  {
-    "ip_address": "2a04:4e41:3626::/48",
-    "ip_type": "IPv6",
-    "region": "VE"
-  },
-  {
-    "ip_address": "2a04:4e41:3a35::/48",
-    "ip_type": "IPv6",
-    "region": "VE"
-  },
-  {
-    "ip_address": "140.248.4.64/31",
-    "ip_type": "IPv4",
-    "region": "VE"
-  },
-  {
-    "ip_address": "140.248.44.104/31",
-    "ip_type": "IPv4",
-    "region": "VE"
-  },
-  {
-    "ip_address": "146.75.208.16/31",
-    "ip_type": "IPv4",
     "region": "VE"
   }
 ]

@@ -1,5 +1,25 @@
 [
   {
+    "ip_address": "140.248.40.16/31",
+    "ip_type": "IPv4",
+    "region": "CI"
+  },
+  {
+    "ip_address": "146.75.168.18/31",
+    "ip_type": "IPv4",
+    "region": "CI"
+  },
+  {
+    "ip_address": "146.75.174.4/31",
+    "ip_type": "IPv4",
+    "region": "CI"
+  },
+  {
+    "ip_address": "146.75.185.18/31",
+    "ip_type": "IPv4",
+    "region": "CI"
+  },
+  {
     "ip_address": "172.225.120.0/27",
     "ip_type": "IPv4",
     "region": "CI"
@@ -75,16 +95,6 @@
     "region": "CI"
   },
   {
-    "ip_address": "2a09:bac2:d510::/45",
-    "ip_type": "IPv6",
-    "region": "CI"
-  },
-  {
-    "ip_address": "2a09:bac3:d510::/45",
-    "ip_type": "IPv6",
-    "region": "CI"
-  },
-  {
     "ip_address": "2a04:4e41:130b::/48",
     "ip_type": "IPv6",
     "region": "CI"
@@ -105,23 +115,13 @@
     "region": "CI"
   },
   {
-    "ip_address": "140.248.40.16/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:d510::/45",
+    "ip_type": "IPv6",
     "region": "CI"
   },
   {
-    "ip_address": "146.75.168.18/31",
-    "ip_type": "IPv4",
-    "region": "CI"
-  },
-  {
-    "ip_address": "146.75.174.4/31",
-    "ip_type": "IPv4",
-    "region": "CI"
-  },
-  {
-    "ip_address": "146.75.185.18/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:d510::/45",
+    "ip_type": "IPv6",
     "region": "CI"
   }
 ]

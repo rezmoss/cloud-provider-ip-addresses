@@ -1,5 +1,30 @@
 [
   {
+    "ip_address": "104.28.146.41/32",
+    "ip_type": "IPv4",
+    "region": "LR"
+  },
+  {
+    "ip_address": "140.248.24.80/31",
+    "ip_type": "IPv4",
+    "region": "LR"
+  },
+  {
+    "ip_address": "140.248.41.80/31",
+    "ip_type": "IPv4",
+    "region": "LR"
+  },
+  {
+    "ip_address": "146.75.166.102/31",
+    "ip_type": "IPv4",
+    "region": "LR"
+  },
+  {
+    "ip_address": "146.75.174.126/31",
+    "ip_type": "IPv4",
+    "region": "LR"
+  },
+  {
     "ip_address": "172.225.118.32/27",
     "ip_type": "IPv4",
     "region": "LR"
@@ -12,6 +37,16 @@
   {
     "ip_address": "172.225.192.176/28",
     "ip_type": "IPv4",
+    "region": "LR"
+  },
+  {
+    "ip_address": "2606:54c0:47b8::/45",
+    "ip_type": "IPv6",
+    "region": "LR"
+  },
+  {
+    "ip_address": "2606:54c3:0:e2b::/64",
+    "ip_type": "IPv6",
     "region": "LR"
   },
   {
@@ -60,31 +95,6 @@
     "region": "LR"
   },
   {
-    "ip_address": "104.28.146.41/32",
-    "ip_type": "IPv4",
-    "region": "LR"
-  },
-  {
-    "ip_address": "2606:54c0:47b8::/45",
-    "ip_type": "IPv6",
-    "region": "LR"
-  },
-  {
-    "ip_address": "2606:54c3:0:e2b::/64",
-    "ip_type": "IPv6",
-    "region": "LR"
-  },
-  {
-    "ip_address": "2a09:bac2:47b8::/45",
-    "ip_type": "IPv6",
-    "region": "LR"
-  },
-  {
-    "ip_address": "2a09:bac3:47b8::/45",
-    "ip_type": "IPv6",
-    "region": "LR"
-  },
-  {
     "ip_address": "2a04:4e41:80f::/48",
     "ip_type": "IPv6",
     "region": "LR"
@@ -105,23 +115,13 @@
     "region": "LR"
   },
   {
-    "ip_address": "140.248.24.80/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:47b8::/45",
+    "ip_type": "IPv6",
     "region": "LR"
   },
   {
-    "ip_address": "140.248.41.80/31",
-    "ip_type": "IPv4",
-    "region": "LR"
-  },
-  {
-    "ip_address": "146.75.166.102/31",
-    "ip_type": "IPv4",
-    "region": "LR"
-  },
-  {
-    "ip_address": "146.75.174.126/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:47b8::/45",
+    "ip_type": "IPv6",
     "region": "LR"
   }
 ]

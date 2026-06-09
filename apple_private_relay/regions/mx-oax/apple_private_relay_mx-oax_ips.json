@@ -35,6 +35,26 @@
     "region": "MX-OAX"
   },
   {
+    "ip_address": "2606:54c0:4b20::/45",
+    "ip_type": "IPv6",
+    "region": "MX-OAX"
+  },
+  {
+    "ip_address": "2606:54c0:4b28::/45",
+    "ip_type": "IPv6",
+    "region": "MX-OAX"
+  },
+  {
+    "ip_address": "2606:54c3:0:7a9::/64",
+    "ip_type": "IPv6",
+    "region": "MX-OAX"
+  },
+  {
+    "ip_address": "2606:54c3:0:111a::/64",
+    "ip_type": "IPv6",
+    "region": "MX-OAX"
+  },
+  {
     "ip_address": "2a02:26f7:c000:5c06::/64",
     "ip_type": "IPv6",
     "region": "MX-OAX"
@@ -241,26 +261,6 @@
   },
   {
     "ip_address": "2a02:26f7:c018:5c48::/64",
-    "ip_type": "IPv6",
-    "region": "MX-OAX"
-  },
-  {
-    "ip_address": "2606:54c0:4b20::/45",
-    "ip_type": "IPv6",
-    "region": "MX-OAX"
-  },
-  {
-    "ip_address": "2606:54c0:4b28::/45",
-    "ip_type": "IPv6",
-    "region": "MX-OAX"
-  },
-  {
-    "ip_address": "2606:54c3:0:7a9::/64",
-    "ip_type": "IPv6",
-    "region": "MX-OAX"
-  },
-  {
-    "ip_address": "2606:54c3:0:111a::/64",
     "ip_type": "IPv6",
     "region": "MX-OAX"
   },

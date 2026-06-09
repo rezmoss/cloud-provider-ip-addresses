@@ -55,22 +55,42 @@
     "region": "QA-DA"
   },
   {
+    "ip_address": "140.248.28.18/31",
+    "ip_type": "IPv4",
+    "region": "QA-DA"
+  },
+  {
+    "ip_address": "140.248.36.236/31",
+    "ip_type": "IPv4",
+    "region": "QA-DA"
+  },
+  {
+    "ip_address": "146.75.132.128/31",
+    "ip_type": "IPv4",
+    "region": "QA-DA"
+  },
+  {
+    "ip_address": "146.75.160.128/31",
+    "ip_type": "IPv4",
+    "region": "QA-DA"
+  },
+  {
+    "ip_address": "146.75.166.124/31",
+    "ip_type": "IPv4",
+    "region": "QA-DA"
+  },
+  {
+    "ip_address": "146.75.211.18/31",
+    "ip_type": "IPv4",
+    "region": "QA-DA"
+  },
+  {
     "ip_address": "2606:54c0:5030::/45",
     "ip_type": "IPv6",
     "region": "QA-DA"
   },
   {
     "ip_address": "2606:54c3:0:1254::/64",
-    "ip_type": "IPv6",
-    "region": "QA-DA"
-  },
-  {
-    "ip_address": "2a09:bac2:5030::/45",
-    "ip_type": "IPv6",
-    "region": "QA-DA"
-  },
-  {
-    "ip_address": "2a09:bac3:5030::/45",
     "ip_type": "IPv6",
     "region": "QA-DA"
   },
@@ -105,33 +125,13 @@
     "region": "QA-DA"
   },
   {
-    "ip_address": "140.248.28.18/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:5030::/45",
+    "ip_type": "IPv6",
     "region": "QA-DA"
   },
   {
-    "ip_address": "140.248.36.236/31",
-    "ip_type": "IPv4",
-    "region": "QA-DA"
-  },
-  {
-    "ip_address": "146.75.132.128/31",
-    "ip_type": "IPv4",
-    "region": "QA-DA"
-  },
-  {
-    "ip_address": "146.75.160.128/31",
-    "ip_type": "IPv4",
-    "region": "QA-DA"
-  },
-  {
-    "ip_address": "146.75.166.124/31",
-    "ip_type": "IPv4",
-    "region": "QA-DA"
-  },
-  {
-    "ip_address": "146.75.211.18/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:5030::/45",
+    "ip_type": "IPv6",
     "region": "QA-DA"
   }
 ]

@@ -80,6 +80,21 @@
     "region": "UA"
   },
   {
+    "ip_address": "140.248.37.66/31",
+    "ip_type": "IPv4",
+    "region": "UA"
+  },
+  {
+    "ip_address": "146.75.180.66/31",
+    "ip_type": "IPv4",
+    "region": "UA"
+  },
+  {
+    "ip_address": "146.75.186.38/31",
+    "ip_type": "IPv4",
+    "region": "UA"
+  },
+  {
     "ip_address": "2606:54c0:5828::/45",
     "ip_type": "IPv6",
     "region": "UA"
@@ -106,6 +121,21 @@
   },
   {
     "ip_address": "2606:54c3:0:19e2::/64",
+    "ip_type": "IPv6",
+    "region": "UA"
+  },
+  {
+    "ip_address": "2a04:4e41:1845::/48",
+    "ip_type": "IPv6",
+    "region": "UA"
+  },
+  {
+    "ip_address": "2a04:4e41:4cb2::/48",
+    "ip_type": "IPv6",
+    "region": "UA"
+  },
+  {
+    "ip_address": "2a04:4e41:580a::/48",
     "ip_type": "IPv6",
     "region": "UA"
   },
@@ -137,36 +167,6 @@
   {
     "ip_address": "2a09:bac3:5838::/45",
     "ip_type": "IPv6",
-    "region": "UA"
-  },
-  {
-    "ip_address": "2a04:4e41:1845::/48",
-    "ip_type": "IPv6",
-    "region": "UA"
-  },
-  {
-    "ip_address": "2a04:4e41:4cb2::/48",
-    "ip_type": "IPv6",
-    "region": "UA"
-  },
-  {
-    "ip_address": "2a04:4e41:580a::/48",
-    "ip_type": "IPv6",
-    "region": "UA"
-  },
-  {
-    "ip_address": "140.248.37.66/31",
-    "ip_type": "IPv4",
-    "region": "UA"
-  },
-  {
-    "ip_address": "146.75.180.66/31",
-    "ip_type": "IPv4",
-    "region": "UA"
-  },
-  {
-    "ip_address": "146.75.186.38/31",
-    "ip_type": "IPv4",
     "region": "UA"
   }
 ]

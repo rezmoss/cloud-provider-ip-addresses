@@ -1,12 +1,16 @@
 #!/bin/bash
 # Apple_private_relay IP Ranges
-# Updated: 2026-02-11 17:28:48
+# Updated: 2026-06-09 22:59:47
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
 # Updates daily at 00:00 UTC
 # UFW deny rules for apple_private_relay
 
+ufw deny from 2606:54c0:2e80::/45
+ufw deny from 2606:54c0:2e88::/45
+ufw deny from 2606:54c3:0:a66::/64
+ufw deny from 2606:54c3:0:e51::/64
 ufw deny from 2a02:26f7:ec40:fc3b::/64
 ufw deny from 2a02:26f7:ec40:fc3c::/64
 ufw deny from 2a02:26f7:ec40:fc3d::/64
@@ -57,10 +61,6 @@ ufw deny from 2a02:26f7:ec64:fc3c::/64
 ufw deny from 2a02:26f7:ec64:fc3d::/64
 ufw deny from 2a02:26f7:ec64:fc3e::/64
 ufw deny from 2a02:26f7:ec64:fc3f::/64
-ufw deny from 2606:54c0:2e80::/45
-ufw deny from 2606:54c0:2e88::/45
-ufw deny from 2606:54c3:0:a66::/64
-ufw deny from 2606:54c3:0:e51::/64
 ufw deny from 2a09:bac2:2e80::/45
 ufw deny from 2a09:bac2:2e88::/45
 ufw deny from 2a09:bac3:2e80::/45

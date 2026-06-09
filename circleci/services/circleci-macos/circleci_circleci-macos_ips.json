@@ -1,18 +1,18 @@
 [
   {
-    "ip_address": "100.27.248.128/25",
+    "ip_address": "18.97.4.0/24",
     "ip_type": "IPv4",
     "service": "circleci-macos",
     "region": "global"
   },
   {
-    "ip_address": "100.29.139.128/25",
+    "ip_address": "18.97.6.0/24",
     "ip_type": "IPv4",
     "service": "circleci-macos",
     "region": "global"
   },
   {
-    "ip_address": "98.80.165.0/24",
+    "ip_address": "18.97.7.0/24",
     "ip_type": "IPv4",
     "service": "circleci-macos",
     "region": "global"
@@ -31,36 +31,6 @@
   },
   {
     "ip_address": "38.23.43.0/24",
-    "ip_type": "IPv4",
-    "service": "circleci-macos",
-    "region": "global"
-  },
-  {
-    "ip_address": "207.254.116.0/24",
-    "ip_type": "IPv4",
-    "service": "circleci-macos",
-    "region": "global"
-  },
-  {
-    "ip_address": "207.254.118.0/24",
-    "ip_type": "IPv4",
-    "service": "circleci-macos",
-    "region": "global"
-  },
-  {
-    "ip_address": "18.97.4.0/24",
-    "ip_type": "IPv4",
-    "service": "circleci-macos",
-    "region": "global"
-  },
-  {
-    "ip_address": "18.97.6.0/24",
-    "ip_type": "IPv4",
-    "service": "circleci-macos",
-    "region": "global"
-  },
-  {
-    "ip_address": "18.97.7.0/24",
     "ip_type": "IPv4",
     "service": "circleci-macos",
     "region": "global"
@@ -91,6 +61,36 @@
   },
   {
     "ip_address": "38.23.52.0/24",
+    "ip_type": "IPv4",
+    "service": "circleci-macos",
+    "region": "global"
+  },
+  {
+    "ip_address": "98.80.165.0/24",
+    "ip_type": "IPv4",
+    "service": "circleci-macos",
+    "region": "global"
+  },
+  {
+    "ip_address": "100.27.248.128/25",
+    "ip_type": "IPv4",
+    "service": "circleci-macos",
+    "region": "global"
+  },
+  {
+    "ip_address": "100.29.139.128/25",
+    "ip_type": "IPv4",
+    "service": "circleci-macos",
+    "region": "global"
+  },
+  {
+    "ip_address": "207.254.116.0/24",
+    "ip_type": "IPv4",
+    "service": "circleci-macos",
+    "region": "global"
+  },
+  {
+    "ip_address": "207.254.118.0/24",
     "ip_type": "IPv4",
     "service": "circleci-macos",
     "region": "global"

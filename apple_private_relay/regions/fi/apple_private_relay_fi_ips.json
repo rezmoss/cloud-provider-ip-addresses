@@ -1,5 +1,15 @@
 [
   {
+    "ip_address": "140.248.36.108/31",
+    "ip_type": "IPv4",
+    "region": "FI"
+  },
+  {
+    "ip_address": "146.75.202.0/31",
+    "ip_type": "IPv4",
+    "region": "FI"
+  },
+  {
     "ip_address": "172.225.2.0/26",
     "ip_type": "IPv4",
     "region": "FI"
@@ -4942,16 +4952,6 @@
   {
     "ip_address": "2a04:4e41:181a::/48",
     "ip_type": "IPv6",
-    "region": "FI"
-  },
-  {
-    "ip_address": "140.248.36.108/31",
-    "ip_type": "IPv4",
-    "region": "FI"
-  },
-  {
-    "ip_address": "146.75.202.0/31",
-    "ip_type": "IPv4",
     "region": "FI"
   }
 ]

@@ -1,5 +1,25 @@
 [
   {
+    "ip_address": "140.248.40.166/31",
+    "ip_type": "IPv4",
+    "region": "NG"
+  },
+  {
+    "ip_address": "146.75.168.152/31",
+    "ip_type": "IPv4",
+    "region": "NG"
+  },
+  {
+    "ip_address": "146.75.174.130/31",
+    "ip_type": "IPv4",
+    "region": "NG"
+  },
+  {
+    "ip_address": "146.75.185.152/31",
+    "ip_type": "IPv4",
+    "region": "NG"
+  },
+  {
     "ip_address": "172.225.99.224/27",
     "ip_type": "IPv4",
     "region": "NG"
@@ -977,26 +997,6 @@
   {
     "ip_address": "2a04:4e41:7419::/48",
     "ip_type": "IPv6",
-    "region": "NG"
-  },
-  {
-    "ip_address": "140.248.40.166/31",
-    "ip_type": "IPv4",
-    "region": "NG"
-  },
-  {
-    "ip_address": "146.75.168.152/31",
-    "ip_type": "IPv4",
-    "region": "NG"
-  },
-  {
-    "ip_address": "146.75.174.130/31",
-    "ip_type": "IPv4",
-    "region": "NG"
-  },
-  {
-    "ip_address": "146.75.185.152/31",
-    "ip_type": "IPv4",
     "region": "NG"
   }
 ]

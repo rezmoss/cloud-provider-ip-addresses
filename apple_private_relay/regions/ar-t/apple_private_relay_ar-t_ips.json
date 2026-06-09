@@ -1,5 +1,65 @@
 [
   {
+    "ip_address": "104.28.47.4/32",
+    "ip_type": "IPv4",
+    "region": "AR-T"
+  },
+  {
+    "ip_address": "104.28.47.5/32",
+    "ip_type": "IPv4",
+    "region": "AR-T"
+  },
+  {
+    "ip_address": "104.28.59.4/32",
+    "ip_type": "IPv4",
+    "region": "AR-T"
+  },
+  {
+    "ip_address": "104.28.59.5/32",
+    "ip_type": "IPv4",
+    "region": "AR-T"
+  },
+  {
+    "ip_address": "104.28.63.4/32",
+    "ip_type": "IPv4",
+    "region": "AR-T"
+  },
+  {
+    "ip_address": "104.28.63.5/32",
+    "ip_type": "IPv4",
+    "region": "AR-T"
+  },
+  {
+    "ip_address": "104.28.113.4/32",
+    "ip_type": "IPv4",
+    "region": "AR-T"
+  },
+  {
+    "ip_address": "104.28.113.5/32",
+    "ip_type": "IPv4",
+    "region": "AR-T"
+  },
+  {
+    "ip_address": "104.28.115.4/32",
+    "ip_type": "IPv4",
+    "region": "AR-T"
+  },
+  {
+    "ip_address": "104.28.115.5/32",
+    "ip_type": "IPv4",
+    "region": "AR-T"
+  },
+  {
+    "ip_address": "2606:54c0:c0::/45",
+    "ip_type": "IPv6",
+    "region": "AR-T"
+  },
+  {
+    "ip_address": "2606:54c3:0:1934::/64",
+    "ip_type": "IPv6",
+    "region": "AR-T"
+  },
+  {
     "ip_address": "2a02:26f7:d980:4044::/64",
     "ip_type": "IPv6",
     "region": "AR-T"
@@ -176,66 +236,6 @@
   },
   {
     "ip_address": "2a02:26f7:d98c:ed58::/64",
-    "ip_type": "IPv6",
-    "region": "AR-T"
-  },
-  {
-    "ip_address": "104.28.47.4/32",
-    "ip_type": "IPv4",
-    "region": "AR-T"
-  },
-  {
-    "ip_address": "104.28.47.5/32",
-    "ip_type": "IPv4",
-    "region": "AR-T"
-  },
-  {
-    "ip_address": "104.28.59.4/32",
-    "ip_type": "IPv4",
-    "region": "AR-T"
-  },
-  {
-    "ip_address": "104.28.59.5/32",
-    "ip_type": "IPv4",
-    "region": "AR-T"
-  },
-  {
-    "ip_address": "104.28.63.4/32",
-    "ip_type": "IPv4",
-    "region": "AR-T"
-  },
-  {
-    "ip_address": "104.28.63.5/32",
-    "ip_type": "IPv4",
-    "region": "AR-T"
-  },
-  {
-    "ip_address": "104.28.113.4/32",
-    "ip_type": "IPv4",
-    "region": "AR-T"
-  },
-  {
-    "ip_address": "104.28.113.5/32",
-    "ip_type": "IPv4",
-    "region": "AR-T"
-  },
-  {
-    "ip_address": "104.28.115.4/32",
-    "ip_type": "IPv4",
-    "region": "AR-T"
-  },
-  {
-    "ip_address": "104.28.115.5/32",
-    "ip_type": "IPv4",
-    "region": "AR-T"
-  },
-  {
-    "ip_address": "2606:54c0:c0::/45",
-    "ip_type": "IPv6",
-    "region": "AR-T"
-  },
-  {
-    "ip_address": "2606:54c3:0:1934::/64",
     "ip_type": "IPv6",
     "region": "AR-T"
   },

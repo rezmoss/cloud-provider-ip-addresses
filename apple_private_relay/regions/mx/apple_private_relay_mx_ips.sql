@@ -15,6 +15,8 @@ INSERT INTO `apple_private_relay_mx_ips` (`ip_address`, `ip_type`) VALUES ('104.
 INSERT INTO `apple_private_relay_mx_ips` (`ip_address`, `ip_type`) VALUES ('104.28.146.235/32', 'IPv4');
 INSERT INTO `apple_private_relay_mx_ips` (`ip_address`, `ip_type`) VALUES ('104.28.150.152/32', 'IPv4');
 INSERT INTO `apple_private_relay_mx_ips` (`ip_address`, `ip_type`) VALUES ('104.28.151.242/32', 'IPv4');
+INSERT INTO `apple_private_relay_mx_ips` (`ip_address`, `ip_type`) VALUES ('146.75.152.4/31', 'IPv4');
+INSERT INTO `apple_private_relay_mx_ips` (`ip_address`, `ip_type`) VALUES ('146.75.164.2/31', 'IPv4');
 INSERT INTO `apple_private_relay_mx_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:4900::/45', 'IPv6');
 INSERT INTO `apple_private_relay_mx_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:4908::/45', 'IPv6');
 INSERT INTO `apple_private_relay_mx_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:4910::/45', 'IPv6');
@@ -49,6 +51,8 @@ INSERT INTO `apple_private_relay_mx_ips` (`ip_address`, `ip_type`) VALUES ('2606
 INSERT INTO `apple_private_relay_mx_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:1840::/64', 'IPv6');
 INSERT INTO `apple_private_relay_mx_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:18c3::/64', 'IPv6');
 INSERT INTO `apple_private_relay_mx_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:1925::/64', 'IPv6');
+INSERT INTO `apple_private_relay_mx_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:2c0b::/48', 'IPv6');
+INSERT INTO `apple_private_relay_mx_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:2e0a::/48', 'IPv6');
 INSERT INTO `apple_private_relay_mx_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:4900::/45', 'IPv6');
 INSERT INTO `apple_private_relay_mx_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:4908::/45', 'IPv6');
 INSERT INTO `apple_private_relay_mx_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:4910::/45', 'IPv6');
@@ -83,7 +87,3 @@ INSERT INTO `apple_private_relay_mx_ips` (`ip_address`, `ip_type`) VALUES ('2a09
 INSERT INTO `apple_private_relay_mx_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:4970::/45', 'IPv6');
 INSERT INTO `apple_private_relay_mx_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:4978::/45', 'IPv6');
 INSERT INTO `apple_private_relay_mx_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:4980::/45', 'IPv6');
-INSERT INTO `apple_private_relay_mx_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:2c0b::/48', 'IPv6');
-INSERT INTO `apple_private_relay_mx_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:2e0a::/48', 'IPv6');
-INSERT INTO `apple_private_relay_mx_ips` (`ip_address`, `ip_type`) VALUES ('146.75.152.4/31', 'IPv4');
-INSERT INTO `apple_private_relay_mx_ips` (`ip_address`, `ip_type`) VALUES ('146.75.164.2/31', 'IPv4');

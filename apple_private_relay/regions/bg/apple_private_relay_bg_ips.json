@@ -1,5 +1,30 @@
 [
   {
+    "ip_address": "140.248.18.0/31",
+    "ip_type": "IPv4",
+    "region": "BG"
+  },
+  {
+    "ip_address": "140.248.34.12/31",
+    "ip_type": "IPv4",
+    "region": "BG"
+  },
+  {
+    "ip_address": "140.248.36.22/31",
+    "ip_type": "IPv4",
+    "region": "BG"
+  },
+  {
+    "ip_address": "146.75.169.12/31",
+    "ip_type": "IPv4",
+    "region": "BG"
+  },
+  {
+    "ip_address": "146.75.180.10/31",
+    "ip_type": "IPv4",
+    "region": "BG"
+  },
+  {
     "ip_address": "172.225.34.16/28",
     "ip_type": "IPv4",
     "region": "BG"
@@ -27,6 +52,16 @@
   {
     "ip_address": "172.225.226.48/28",
     "ip_type": "IPv4",
+    "region": "BG"
+  },
+  {
+    "ip_address": "2606:54c0:4d8::/45",
+    "ip_type": "IPv6",
+    "region": "BG"
+  },
+  {
+    "ip_address": "2606:54c3:0:e54::/64",
+    "ip_type": "IPv6",
     "region": "BG"
   },
   {
@@ -1410,26 +1445,6 @@
     "region": "BG"
   },
   {
-    "ip_address": "2606:54c0:4d8::/45",
-    "ip_type": "IPv6",
-    "region": "BG"
-  },
-  {
-    "ip_address": "2606:54c3:0:e54::/64",
-    "ip_type": "IPv6",
-    "region": "BG"
-  },
-  {
-    "ip_address": "2a09:bac2:4d8::/45",
-    "ip_type": "IPv6",
-    "region": "BG"
-  },
-  {
-    "ip_address": "2a09:bac3:4d8::/45",
-    "ip_type": "IPv6",
-    "region": "BG"
-  },
-  {
     "ip_address": "2a04:4e41:140a::/48",
     "ip_type": "IPv6",
     "region": "BG"
@@ -1455,28 +1470,13 @@
     "region": "BG"
   },
   {
-    "ip_address": "140.248.18.0/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:4d8::/45",
+    "ip_type": "IPv6",
     "region": "BG"
   },
   {
-    "ip_address": "140.248.34.12/31",
-    "ip_type": "IPv4",
-    "region": "BG"
-  },
-  {
-    "ip_address": "140.248.36.22/31",
-    "ip_type": "IPv4",
-    "region": "BG"
-  },
-  {
-    "ip_address": "146.75.169.12/31",
-    "ip_type": "IPv4",
-    "region": "BG"
-  },
-  {
-    "ip_address": "146.75.180.10/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:4d8::/45",
+    "ip_type": "IPv6",
     "region": "BG"
   }
 ]

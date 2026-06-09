@@ -1,5 +1,30 @@
 [
   {
+    "ip_address": "140.248.40.0/31",
+    "ip_type": "IPv4",
+    "region": "AD"
+  },
+  {
+    "ip_address": "146.75.168.0/31",
+    "ip_type": "IPv4",
+    "region": "AD"
+  },
+  {
+    "ip_address": "146.75.182.0/31",
+    "ip_type": "IPv4",
+    "region": "AD"
+  },
+  {
+    "ip_address": "146.75.185.0/31",
+    "ip_type": "IPv4",
+    "region": "AD"
+  },
+  {
+    "ip_address": "146.75.210.0/31",
+    "ip_type": "IPv4",
+    "region": "AD"
+  },
+  {
     "ip_address": "172.225.160.0/28",
     "ip_type": "IPv4",
     "region": "AD"
@@ -82,31 +107,6 @@
   {
     "ip_address": "2a04:4e41:7801::/48",
     "ip_type": "IPv6",
-    "region": "AD"
-  },
-  {
-    "ip_address": "140.248.40.0/31",
-    "ip_type": "IPv4",
-    "region": "AD"
-  },
-  {
-    "ip_address": "146.75.168.0/31",
-    "ip_type": "IPv4",
-    "region": "AD"
-  },
-  {
-    "ip_address": "146.75.182.0/31",
-    "ip_type": "IPv4",
-    "region": "AD"
-  },
-  {
-    "ip_address": "146.75.185.0/31",
-    "ip_type": "IPv4",
-    "region": "AD"
-  },
-  {
-    "ip_address": "146.75.210.0/31",
-    "ip_type": "IPv4",
     "region": "AD"
   }
 ]

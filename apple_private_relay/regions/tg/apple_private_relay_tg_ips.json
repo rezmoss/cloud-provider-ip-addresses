@@ -1,5 +1,30 @@
 [
   {
+    "ip_address": "140.248.24.88/31",
+    "ip_type": "IPv4",
+    "region": "TG"
+  },
+  {
+    "ip_address": "140.248.40.194/31",
+    "ip_type": "IPv4",
+    "region": "TG"
+  },
+  {
+    "ip_address": "140.248.41.88/31",
+    "ip_type": "IPv4",
+    "region": "TG"
+  },
+  {
+    "ip_address": "146.75.168.178/31",
+    "ip_type": "IPv4",
+    "region": "TG"
+  },
+  {
+    "ip_address": "146.75.185.178/31",
+    "ip_type": "IPv4",
+    "region": "TG"
+  },
+  {
     "ip_address": "172.225.176.192/27",
     "ip_type": "IPv4",
     "region": "TG"
@@ -102,31 +127,6 @@
   {
     "ip_address": "2a04:4e41:7422::/48",
     "ip_type": "IPv6",
-    "region": "TG"
-  },
-  {
-    "ip_address": "140.248.24.88/31",
-    "ip_type": "IPv4",
-    "region": "TG"
-  },
-  {
-    "ip_address": "140.248.40.194/31",
-    "ip_type": "IPv4",
-    "region": "TG"
-  },
-  {
-    "ip_address": "140.248.41.88/31",
-    "ip_type": "IPv4",
-    "region": "TG"
-  },
-  {
-    "ip_address": "146.75.168.178/31",
-    "ip_type": "IPv4",
-    "region": "TG"
-  },
-  {
-    "ip_address": "146.75.185.178/31",
-    "ip_type": "IPv4",
     "region": "TG"
   }
 ]

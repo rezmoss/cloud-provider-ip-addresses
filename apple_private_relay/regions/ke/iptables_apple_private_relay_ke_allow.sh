@@ -1,12 +1,24 @@
 #!/bin/bash
 # Apple_private_relay IP Ranges
-# Updated: 2026-05-05 00:39:17
+# Updated: 2026-06-09 22:59:45
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
 # Updates daily at 00:00 UTC
 # iptables allow rules for apple_private_relay
 
+iptables -A INPUT -s 104.28.136.184/32 -j ACCEPT
+iptables -A INPUT -s 104.28.137.4/32 -j ACCEPT
+iptables -A INPUT -s 104.28.137.28/32 -j ACCEPT
+iptables -A INPUT -s 104.28.139.141/32 -j ACCEPT
+iptables -A INPUT -s 104.28.141.43/32 -j ACCEPT
+iptables -A INPUT -s 104.28.141.44/32 -j ACCEPT
+iptables -A INPUT -s 104.28.146.143/32 -j ACCEPT
+iptables -A INPUT -s 104.28.146.144/32 -j ACCEPT
+iptables -A INPUT -s 104.28.146.145/32 -j ACCEPT
+iptables -A INPUT -s 140.248.36.154/31 -j ACCEPT
+iptables -A INPUT -s 140.248.40.144/31 -j ACCEPT
+iptables -A INPUT -s 146.75.174.122/31 -j ACCEPT
 iptables -A INPUT -s 172.224.230.104/29 -j ACCEPT
 iptables -A INPUT -s 172.224.230.128/28 -j ACCEPT
 iptables -A INPUT -s 172.225.142.16/28 -j ACCEPT
@@ -17,6 +29,12 @@ iptables -A INPUT -s 172.225.194.192/27 -j ACCEPT
 iptables -A INPUT -s 172.225.195.80/28 -j ACCEPT
 iptables -A INPUT -s 172.225.218.88/29 -j ACCEPT
 iptables -A INPUT -s 172.225.220.192/28 -j ACCEPT
+ip6tables -A INPUT -s 2606:54c0:4610::/45 -j ACCEPT
+ip6tables -A INPUT -s 2606:54c0:4618::/45 -j ACCEPT
+ip6tables -A INPUT -s 2606:54c0:4620::/45 -j ACCEPT
+ip6tables -A INPUT -s 2606:54c3:0:716::/64 -j ACCEPT
+ip6tables -A INPUT -s 2606:54c3:0:b0f::/64 -j ACCEPT
+ip6tables -A INPUT -s 2606:54c3:0:c0d::/64 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:d640:4000::/64 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:d640:4840::/64 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:d640:4841::/64 -j ACCEPT
@@ -112,30 +130,12 @@ ip6tables -A INPUT -s 2a02:26f7:d650:484e::/64 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:d650:484f::/64 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:d650:4850::/64 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:d651:4000::/64 -j ACCEPT
-iptables -A INPUT -s 104.28.136.184/32 -j ACCEPT
-iptables -A INPUT -s 104.28.137.4/32 -j ACCEPT
-iptables -A INPUT -s 104.28.137.28/32 -j ACCEPT
-iptables -A INPUT -s 104.28.139.141/32 -j ACCEPT
-iptables -A INPUT -s 104.28.141.43/32 -j ACCEPT
-iptables -A INPUT -s 104.28.141.44/32 -j ACCEPT
-iptables -A INPUT -s 104.28.146.143/32 -j ACCEPT
-iptables -A INPUT -s 104.28.146.144/32 -j ACCEPT
-iptables -A INPUT -s 104.28.146.145/32 -j ACCEPT
-ip6tables -A INPUT -s 2606:54c0:4610::/45 -j ACCEPT
-ip6tables -A INPUT -s 2606:54c0:4618::/45 -j ACCEPT
-ip6tables -A INPUT -s 2606:54c0:4620::/45 -j ACCEPT
-ip6tables -A INPUT -s 2606:54c3:0:716::/64 -j ACCEPT
-ip6tables -A INPUT -s 2606:54c3:0:b0f::/64 -j ACCEPT
-ip6tables -A INPUT -s 2606:54c3:0:c0d::/64 -j ACCEPT
+ip6tables -A INPUT -s 2a04:4e41:1319::/48 -j ACCEPT
+ip6tables -A INPUT -s 2a04:4e41:1824::/48 -j ACCEPT
+ip6tables -A INPUT -s 2a04:4e41:4e11::/48 -j ACCEPT
 ip6tables -A INPUT -s 2a09:bac2:4610::/45 -j ACCEPT
 ip6tables -A INPUT -s 2a09:bac2:4618::/45 -j ACCEPT
 ip6tables -A INPUT -s 2a09:bac2:4620::/45 -j ACCEPT
 ip6tables -A INPUT -s 2a09:bac3:4610::/45 -j ACCEPT
 ip6tables -A INPUT -s 2a09:bac3:4618::/45 -j ACCEPT
 ip6tables -A INPUT -s 2a09:bac3:4620::/45 -j ACCEPT
-ip6tables -A INPUT -s 2a04:4e41:1319::/48 -j ACCEPT
-ip6tables -A INPUT -s 2a04:4e41:1824::/48 -j ACCEPT
-ip6tables -A INPUT -s 2a04:4e41:4e11::/48 -j ACCEPT
-iptables -A INPUT -s 140.248.36.154/31 -j ACCEPT
-iptables -A INPUT -s 140.248.40.144/31 -j ACCEPT
-iptables -A INPUT -s 146.75.174.122/31 -j ACCEPT

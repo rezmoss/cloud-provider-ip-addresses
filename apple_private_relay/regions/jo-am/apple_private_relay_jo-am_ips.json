@@ -125,22 +125,32 @@
     "region": "JO-AM"
   },
   {
+    "ip_address": "140.248.34.134/31",
+    "ip_type": "IPv4",
+    "region": "JO-AM"
+  },
+  {
+    "ip_address": "140.248.36.152/31",
+    "ip_type": "IPv4",
+    "region": "JO-AM"
+  },
+  {
+    "ip_address": "146.75.166.86/31",
+    "ip_type": "IPv4",
+    "region": "JO-AM"
+  },
+  {
+    "ip_address": "146.75.169.134/31",
+    "ip_type": "IPv4",
+    "region": "JO-AM"
+  },
+  {
     "ip_address": "2606:54c0:4240::/45",
     "ip_type": "IPv6",
     "region": "JO-AM"
   },
   {
     "ip_address": "2606:54c3:0:6ad::/64",
-    "ip_type": "IPv6",
-    "region": "JO-AM"
-  },
-  {
-    "ip_address": "2a09:bac2:4240::/45",
-    "ip_type": "IPv6",
-    "region": "JO-AM"
-  },
-  {
-    "ip_address": "2a09:bac3:4240::/45",
     "ip_type": "IPv6",
     "region": "JO-AM"
   },
@@ -165,23 +175,13 @@
     "region": "JO-AM"
   },
   {
-    "ip_address": "140.248.34.134/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:4240::/45",
+    "ip_type": "IPv6",
     "region": "JO-AM"
   },
   {
-    "ip_address": "140.248.36.152/31",
-    "ip_type": "IPv4",
-    "region": "JO-AM"
-  },
-  {
-    "ip_address": "146.75.166.86/31",
-    "ip_type": "IPv4",
-    "region": "JO-AM"
-  },
-  {
-    "ip_address": "146.75.169.134/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:4240::/45",
+    "ip_type": "IPv6",
     "region": "JO-AM"
   }
 ]

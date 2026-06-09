@@ -16,7 +16,7 @@
 
 ### Live Stats
 
-> Last updated: **2026-06-09** | Providers: **24** | Total CIDRs: **428,466** | IPv4 addresses: **344,102,022** | IPv4 space: **8.01%**
+> Last updated: **2026-06-09** | Providers: **24** | Total CIDRs: **428,468** | IPv4 addresses: **344,102,054** | IPv4 space: **8.01%**
 
 | Provider | IPv4 CIDRs | IPv6 CIDRs | Total CIDRs | IPv4 Addresses | Services | Regions |
 |----------|-----------|-----------|------------|---------------|----------|--------|
@@ -34,7 +34,7 @@
 | duckduckbot | 359 | 0 | 359 | 359 | 1 | 0 |
 | fastly | 19 | 2 | 21 | 304,128 | 0 | 0 |
 | github | 5,785 | 1,724 | 7,509 | 27,440,051 | 11 | 0 |
-| googlebot | 168 | 145 | 313 | 5,024 | 1 | 0 |
+| googlebot | 169 | 146 | 315 | 5,056 | 1 | 0 |
 | googlecloud | 928 | 48 | 976 | 17,429,376 | 1 | 48 |
 | gptbot | 303 | 0 | 303 | 9,920 | 3 | 0 |
 | linode | 5,248 | 94 | 5,342 | 1,351,424 | 0 | 38 |

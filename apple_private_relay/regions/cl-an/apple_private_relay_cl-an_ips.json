@@ -1,25 +1,5 @@
 [
   {
-    "ip_address": "2a02:26f7:d940:4282::/64",
-    "ip_type": "IPv6",
-    "region": "CL-AN"
-  },
-  {
-    "ip_address": "2a02:26f7:d944:4282::/64",
-    "ip_type": "IPv6",
-    "region": "CL-AN"
-  },
-  {
-    "ip_address": "2a02:26f7:d948:4282::/64",
-    "ip_type": "IPv6",
-    "region": "CL-AN"
-  },
-  {
-    "ip_address": "2a02:26f7:d94c:4282::/64",
-    "ip_type": "IPv6",
-    "region": "CL-AN"
-  },
-  {
     "ip_address": "104.28.47.206/32",
     "ip_type": "IPv4",
     "region": "CL-AN"
@@ -76,6 +56,26 @@
   },
   {
     "ip_address": "2606:54c3:0:777::/64",
+    "ip_type": "IPv6",
+    "region": "CL-AN"
+  },
+  {
+    "ip_address": "2a02:26f7:d940:4282::/64",
+    "ip_type": "IPv6",
+    "region": "CL-AN"
+  },
+  {
+    "ip_address": "2a02:26f7:d944:4282::/64",
+    "ip_type": "IPv6",
+    "region": "CL-AN"
+  },
+  {
+    "ip_address": "2a02:26f7:d948:4282::/64",
+    "ip_type": "IPv6",
+    "region": "CL-AN"
+  },
+  {
+    "ip_address": "2a02:26f7:d94c:4282::/64",
     "ip_type": "IPv6",
     "region": "CL-AN"
   },

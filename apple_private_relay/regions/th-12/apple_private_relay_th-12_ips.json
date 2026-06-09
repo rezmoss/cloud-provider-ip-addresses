@@ -1,5 +1,35 @@
 [
   {
+    "ip_address": "140.248.16.16/31",
+    "ip_type": "IPv4",
+    "region": "TH-12"
+  },
+  {
+    "ip_address": "146.75.132.140/31",
+    "ip_type": "IPv4",
+    "region": "TH-12"
+  },
+  {
+    "ip_address": "146.75.154.26/31",
+    "ip_type": "IPv4",
+    "region": "TH-12"
+  },
+  {
+    "ip_address": "146.75.160.140/31",
+    "ip_type": "IPv4",
+    "region": "TH-12"
+  },
+  {
+    "ip_address": "146.75.183.4/31",
+    "ip_type": "IPv4",
+    "region": "TH-12"
+  },
+  {
+    "ip_address": "146.75.187.46/31",
+    "ip_type": "IPv4",
+    "region": "TH-12"
+  },
+  {
     "ip_address": "2a02:26f7:c640:4cc5::/64",
     "ip_type": "IPv6",
     "region": "TH-12"
@@ -47,36 +77,6 @@
   {
     "ip_address": "2a04:4e41:7602:3000::/52",
     "ip_type": "IPv6",
-    "region": "TH-12"
-  },
-  {
-    "ip_address": "140.248.16.16/31",
-    "ip_type": "IPv4",
-    "region": "TH-12"
-  },
-  {
-    "ip_address": "146.75.132.140/31",
-    "ip_type": "IPv4",
-    "region": "TH-12"
-  },
-  {
-    "ip_address": "146.75.154.26/31",
-    "ip_type": "IPv4",
-    "region": "TH-12"
-  },
-  {
-    "ip_address": "146.75.160.140/31",
-    "ip_type": "IPv4",
-    "region": "TH-12"
-  },
-  {
-    "ip_address": "146.75.183.4/31",
-    "ip_type": "IPv4",
-    "region": "TH-12"
-  },
-  {
-    "ip_address": "146.75.187.46/31",
-    "ip_type": "IPv4",
     "region": "TH-12"
   }
 ]

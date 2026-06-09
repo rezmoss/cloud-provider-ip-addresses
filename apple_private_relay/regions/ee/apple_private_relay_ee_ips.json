@@ -1,5 +1,35 @@
 [
   {
+    "ip_address": "104.28.139.115/32",
+    "ip_type": "IPv4",
+    "region": "EE"
+  },
+  {
+    "ip_address": "104.28.139.150/32",
+    "ip_type": "IPv4",
+    "region": "EE"
+  },
+  {
+    "ip_address": "104.28.148.89/32",
+    "ip_type": "IPv4",
+    "region": "EE"
+  },
+  {
+    "ip_address": "140.248.34.72/31",
+    "ip_type": "IPv4",
+    "region": "EE"
+  },
+  {
+    "ip_address": "140.248.36.98/31",
+    "ip_type": "IPv4",
+    "region": "EE"
+  },
+  {
+    "ip_address": "146.75.169.72/31",
+    "ip_type": "IPv4",
+    "region": "EE"
+  },
+  {
     "ip_address": "172.225.34.48/28",
     "ip_type": "IPv4",
     "region": "EE"
@@ -17,6 +47,16 @@
   {
     "ip_address": "172.225.210.32/28",
     "ip_type": "IPv4",
+    "region": "EE"
+  },
+  {
+    "ip_address": "2606:54c0:3050::/45",
+    "ip_type": "IPv6",
+    "region": "EE"
+  },
+  {
+    "ip_address": "2606:54c3:0:13ad::/64",
+    "ip_type": "IPv6",
     "region": "EE"
   },
   {
@@ -580,41 +620,6 @@
     "region": "EE"
   },
   {
-    "ip_address": "104.28.139.115/32",
-    "ip_type": "IPv4",
-    "region": "EE"
-  },
-  {
-    "ip_address": "104.28.139.150/32",
-    "ip_type": "IPv4",
-    "region": "EE"
-  },
-  {
-    "ip_address": "104.28.148.89/32",
-    "ip_type": "IPv4",
-    "region": "EE"
-  },
-  {
-    "ip_address": "2606:54c0:3050::/45",
-    "ip_type": "IPv6",
-    "region": "EE"
-  },
-  {
-    "ip_address": "2606:54c3:0:13ad::/64",
-    "ip_type": "IPv6",
-    "region": "EE"
-  },
-  {
-    "ip_address": "2a09:bac2:3050::/45",
-    "ip_type": "IPv6",
-    "region": "EE"
-  },
-  {
-    "ip_address": "2a09:bac3:3050::/45",
-    "ip_type": "IPv6",
-    "region": "EE"
-  },
-  {
     "ip_address": "2a04:4e41:1410::/48",
     "ip_type": "IPv6",
     "region": "EE"
@@ -630,18 +635,13 @@
     "region": "EE"
   },
   {
-    "ip_address": "140.248.34.72/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:3050::/45",
+    "ip_type": "IPv6",
     "region": "EE"
   },
   {
-    "ip_address": "140.248.36.98/31",
-    "ip_type": "IPv4",
-    "region": "EE"
-  },
-  {
-    "ip_address": "146.75.169.72/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:3050::/45",
+    "ip_type": "IPv6",
     "region": "EE"
   }
 ]

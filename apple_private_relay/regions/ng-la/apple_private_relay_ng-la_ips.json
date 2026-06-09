@@ -140,6 +140,26 @@
     "region": "NG-LA"
   },
   {
+    "ip_address": "140.248.40.168/31",
+    "ip_type": "IPv4",
+    "region": "NG-LA"
+  },
+  {
+    "ip_address": "146.75.168.154/31",
+    "ip_type": "IPv4",
+    "region": "NG-LA"
+  },
+  {
+    "ip_address": "146.75.174.132/31",
+    "ip_type": "IPv4",
+    "region": "NG-LA"
+  },
+  {
+    "ip_address": "146.75.185.154/31",
+    "ip_type": "IPv4",
+    "region": "NG-LA"
+  },
+  {
     "ip_address": "2606:54c0:4d20::/45",
     "ip_type": "IPv6",
     "region": "NG-LA"
@@ -156,26 +176,6 @@
   },
   {
     "ip_address": "2606:54c3:0:3af::/64",
-    "ip_type": "IPv6",
-    "region": "NG-LA"
-  },
-  {
-    "ip_address": "2a09:bac2:4d20::/45",
-    "ip_type": "IPv6",
-    "region": "NG-LA"
-  },
-  {
-    "ip_address": "2a09:bac2:4d28::/45",
-    "ip_type": "IPv6",
-    "region": "NG-LA"
-  },
-  {
-    "ip_address": "2a09:bac3:4d20::/45",
-    "ip_type": "IPv6",
-    "region": "NG-LA"
-  },
-  {
-    "ip_address": "2a09:bac3:4d28::/45",
     "ip_type": "IPv6",
     "region": "NG-LA"
   },
@@ -200,23 +200,23 @@
     "region": "NG-LA"
   },
   {
-    "ip_address": "140.248.40.168/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:4d20::/45",
+    "ip_type": "IPv6",
     "region": "NG-LA"
   },
   {
-    "ip_address": "146.75.168.154/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:4d28::/45",
+    "ip_type": "IPv6",
     "region": "NG-LA"
   },
   {
-    "ip_address": "146.75.174.132/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:4d20::/45",
+    "ip_type": "IPv6",
     "region": "NG-LA"
   },
   {
-    "ip_address": "146.75.185.154/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:4d28::/45",
+    "ip_type": "IPv6",
     "region": "NG-LA"
   }
 ]

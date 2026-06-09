@@ -1,5 +1,65 @@
 [
   {
+    "ip_address": "104.28.32.78/32",
+    "ip_type": "IPv4",
+    "region": "MX-NLE"
+  },
+  {
+    "ip_address": "104.28.32.79/32",
+    "ip_type": "IPv4",
+    "region": "MX-NLE"
+  },
+  {
+    "ip_address": "104.28.48.26/32",
+    "ip_type": "IPv4",
+    "region": "MX-NLE"
+  },
+  {
+    "ip_address": "104.28.48.27/32",
+    "ip_type": "IPv4",
+    "region": "MX-NLE"
+  },
+  {
+    "ip_address": "104.28.50.25/32",
+    "ip_type": "IPv4",
+    "region": "MX-NLE"
+  },
+  {
+    "ip_address": "104.28.50.26/32",
+    "ip_type": "IPv4",
+    "region": "MX-NLE"
+  },
+  {
+    "ip_address": "104.28.91.85/32",
+    "ip_type": "IPv4",
+    "region": "MX-NLE"
+  },
+  {
+    "ip_address": "104.28.91.86/32",
+    "ip_type": "IPv4",
+    "region": "MX-NLE"
+  },
+  {
+    "ip_address": "104.28.111.34/32",
+    "ip_type": "IPv4",
+    "region": "MX-NLE"
+  },
+  {
+    "ip_address": "104.28.111.35/32",
+    "ip_type": "IPv4",
+    "region": "MX-NLE"
+  },
+  {
+    "ip_address": "146.75.152.14/31",
+    "ip_type": "IPv4",
+    "region": "MX-NLE"
+  },
+  {
+    "ip_address": "146.75.164.12/31",
+    "ip_type": "IPv4",
+    "region": "MX-NLE"
+  },
+  {
     "ip_address": "172.224.232.16/31",
     "ip_type": "IPv4",
     "region": "MX-NLE"
@@ -32,6 +92,36 @@
   {
     "ip_address": "172.226.122.32/31",
     "ip_type": "IPv4",
+    "region": "MX-NLE"
+  },
+  {
+    "ip_address": "2606:54c0:4b08::/45",
+    "ip_type": "IPv6",
+    "region": "MX-NLE"
+  },
+  {
+    "ip_address": "2606:54c0:4b10::/45",
+    "ip_type": "IPv6",
+    "region": "MX-NLE"
+  },
+  {
+    "ip_address": "2606:54c0:4b18::/45",
+    "ip_type": "IPv6",
+    "region": "MX-NLE"
+  },
+  {
+    "ip_address": "2606:54c3:0:2ba::/64",
+    "ip_type": "IPv6",
+    "region": "MX-NLE"
+  },
+  {
+    "ip_address": "2606:54c3:0:136d::/64",
+    "ip_type": "IPv6",
+    "region": "MX-NLE"
+  },
+  {
+    "ip_address": "2606:54c3:0:146c::/64",
+    "ip_type": "IPv6",
     "region": "MX-NLE"
   },
   {
@@ -315,82 +405,12 @@
     "region": "MX-NLE"
   },
   {
-    "ip_address": "104.28.32.78/32",
-    "ip_type": "IPv4",
-    "region": "MX-NLE"
-  },
-  {
-    "ip_address": "104.28.32.79/32",
-    "ip_type": "IPv4",
-    "region": "MX-NLE"
-  },
-  {
-    "ip_address": "104.28.48.26/32",
-    "ip_type": "IPv4",
-    "region": "MX-NLE"
-  },
-  {
-    "ip_address": "104.28.48.27/32",
-    "ip_type": "IPv4",
-    "region": "MX-NLE"
-  },
-  {
-    "ip_address": "104.28.50.25/32",
-    "ip_type": "IPv4",
-    "region": "MX-NLE"
-  },
-  {
-    "ip_address": "104.28.50.26/32",
-    "ip_type": "IPv4",
-    "region": "MX-NLE"
-  },
-  {
-    "ip_address": "104.28.91.85/32",
-    "ip_type": "IPv4",
-    "region": "MX-NLE"
-  },
-  {
-    "ip_address": "104.28.91.86/32",
-    "ip_type": "IPv4",
-    "region": "MX-NLE"
-  },
-  {
-    "ip_address": "104.28.111.34/32",
-    "ip_type": "IPv4",
-    "region": "MX-NLE"
-  },
-  {
-    "ip_address": "104.28.111.35/32",
-    "ip_type": "IPv4",
-    "region": "MX-NLE"
-  },
-  {
-    "ip_address": "2606:54c0:4b08::/45",
+    "ip_address": "2a04:4e41:2c00:4000::/52",
     "ip_type": "IPv6",
     "region": "MX-NLE"
   },
   {
-    "ip_address": "2606:54c0:4b10::/45",
-    "ip_type": "IPv6",
-    "region": "MX-NLE"
-  },
-  {
-    "ip_address": "2606:54c0:4b18::/45",
-    "ip_type": "IPv6",
-    "region": "MX-NLE"
-  },
-  {
-    "ip_address": "2606:54c3:0:2ba::/64",
-    "ip_type": "IPv6",
-    "region": "MX-NLE"
-  },
-  {
-    "ip_address": "2606:54c3:0:136d::/64",
-    "ip_type": "IPv6",
-    "region": "MX-NLE"
-  },
-  {
-    "ip_address": "2606:54c3:0:146c::/64",
+    "ip_address": "2a04:4e41:2e00:4000::/52",
     "ip_type": "IPv6",
     "region": "MX-NLE"
   },
@@ -422,26 +442,6 @@
   {
     "ip_address": "2a09:bac3:4b18::/45",
     "ip_type": "IPv6",
-    "region": "MX-NLE"
-  },
-  {
-    "ip_address": "2a04:4e41:2c00:4000::/52",
-    "ip_type": "IPv6",
-    "region": "MX-NLE"
-  },
-  {
-    "ip_address": "2a04:4e41:2e00:4000::/52",
-    "ip_type": "IPv6",
-    "region": "MX-NLE"
-  },
-  {
-    "ip_address": "146.75.152.14/31",
-    "ip_type": "IPv4",
-    "region": "MX-NLE"
-  },
-  {
-    "ip_address": "146.75.164.12/31",
-    "ip_type": "IPv4",
     "region": "MX-NLE"
   }
 ]

@@ -1,5 +1,45 @@
 [
   {
+    "ip_address": "2606:54c0:44f0::/45",
+    "ip_type": "IPv6",
+    "region": "JP-31"
+  },
+  {
+    "ip_address": "2606:54c0:44f8::/45",
+    "ip_type": "IPv6",
+    "region": "JP-31"
+  },
+  {
+    "ip_address": "2606:54c0:4500::/45",
+    "ip_type": "IPv6",
+    "region": "JP-31"
+  },
+  {
+    "ip_address": "2606:54c0:4508::/45",
+    "ip_type": "IPv6",
+    "region": "JP-31"
+  },
+  {
+    "ip_address": "2606:54c3:0:a43::/64",
+    "ip_type": "IPv6",
+    "region": "JP-31"
+  },
+  {
+    "ip_address": "2606:54c3:0:1304::/64",
+    "ip_type": "IPv6",
+    "region": "JP-31"
+  },
+  {
+    "ip_address": "2606:54c3:0:156e::/64",
+    "ip_type": "IPv6",
+    "region": "JP-31"
+  },
+  {
+    "ip_address": "2606:54c3:0:194e::/64",
+    "ip_type": "IPv6",
+    "region": "JP-31"
+  },
+  {
     "ip_address": "2a02:26f7:b980:6107::/64",
     "ip_type": "IPv6",
     "region": "JP-31"
@@ -276,46 +316,6 @@
   },
   {
     "ip_address": "2a02:26f7:b9b4:610a::/64",
-    "ip_type": "IPv6",
-    "region": "JP-31"
-  },
-  {
-    "ip_address": "2606:54c0:44f0::/45",
-    "ip_type": "IPv6",
-    "region": "JP-31"
-  },
-  {
-    "ip_address": "2606:54c0:44f8::/45",
-    "ip_type": "IPv6",
-    "region": "JP-31"
-  },
-  {
-    "ip_address": "2606:54c0:4500::/45",
-    "ip_type": "IPv6",
-    "region": "JP-31"
-  },
-  {
-    "ip_address": "2606:54c0:4508::/45",
-    "ip_type": "IPv6",
-    "region": "JP-31"
-  },
-  {
-    "ip_address": "2606:54c3:0:a43::/64",
-    "ip_type": "IPv6",
-    "region": "JP-31"
-  },
-  {
-    "ip_address": "2606:54c3:0:1304::/64",
-    "ip_type": "IPv6",
-    "region": "JP-31"
-  },
-  {
-    "ip_address": "2606:54c3:0:156e::/64",
-    "ip_type": "IPv6",
-    "region": "JP-31"
-  },
-  {
-    "ip_address": "2606:54c3:0:194e::/64",
     "ip_type": "IPv6",
     "region": "JP-31"
   },

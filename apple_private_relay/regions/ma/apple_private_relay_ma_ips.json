@@ -1,5 +1,30 @@
 [
   {
+    "ip_address": "146.75.132.74/31",
+    "ip_type": "IPv4",
+    "region": "MA"
+  },
+  {
+    "ip_address": "146.75.160.74/31",
+    "ip_type": "IPv4",
+    "region": "MA"
+  },
+  {
+    "ip_address": "146.75.166.104/31",
+    "ip_type": "IPv4",
+    "region": "MA"
+  },
+  {
+    "ip_address": "146.75.182.38/31",
+    "ip_type": "IPv4",
+    "region": "MA"
+  },
+  {
+    "ip_address": "146.75.210.38/31",
+    "ip_type": "IPv4",
+    "region": "MA"
+  },
+  {
     "ip_address": "172.224.250.48/28",
     "ip_type": "IPv4",
     "region": "MA"
@@ -27,6 +52,16 @@
   {
     "ip_address": "172.225.163.72/29",
     "ip_type": "IPv4",
+    "region": "MA"
+  },
+  {
+    "ip_address": "2606:54c0:4800::/45",
+    "ip_type": "IPv6",
+    "region": "MA"
+  },
+  {
+    "ip_address": "2606:54c3:0:163::/64",
+    "ip_type": "IPv6",
     "region": "MA"
   },
   {
@@ -390,26 +425,6 @@
     "region": "MA"
   },
   {
-    "ip_address": "2606:54c0:4800::/45",
-    "ip_type": "IPv6",
-    "region": "MA"
-  },
-  {
-    "ip_address": "2606:54c3:0:163::/64",
-    "ip_type": "IPv6",
-    "region": "MA"
-  },
-  {
-    "ip_address": "2a09:bac2:4800::/45",
-    "ip_type": "IPv6",
-    "region": "MA"
-  },
-  {
-    "ip_address": "2a09:bac3:4800::/45",
-    "ip_type": "IPv6",
-    "region": "MA"
-  },
-  {
     "ip_address": "2a04:4e41:410d::/48",
     "ip_type": "IPv6",
     "region": "MA"
@@ -435,28 +450,13 @@
     "region": "MA"
   },
   {
-    "ip_address": "146.75.132.74/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:4800::/45",
+    "ip_type": "IPv6",
     "region": "MA"
   },
   {
-    "ip_address": "146.75.160.74/31",
-    "ip_type": "IPv4",
-    "region": "MA"
-  },
-  {
-    "ip_address": "146.75.166.104/31",
-    "ip_type": "IPv4",
-    "region": "MA"
-  },
-  {
-    "ip_address": "146.75.182.38/31",
-    "ip_type": "IPv4",
-    "region": "MA"
-  },
-  {
-    "ip_address": "146.75.210.38/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:4800::/45",
+    "ip_type": "IPv6",
     "region": "MA"
   }
 ]

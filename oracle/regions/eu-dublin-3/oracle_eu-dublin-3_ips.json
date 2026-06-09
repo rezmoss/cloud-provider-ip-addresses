@@ -1,11 +1,5 @@
 [
   {
-    "ip_address": "134.98.192.0/19",
-    "ip_type": "IPv4",
-    "service": "OCI",
-    "region": "eu-dublin-3"
-  },
-  {
     "ip_address": "134.70.218.0/23",
     "ip_type": "IPv4",
     "service": "OSN,OBJECT_STORAGE",
@@ -15,6 +9,12 @@
     "ip_address": "134.70.220.0/23",
     "ip_type": "IPv4",
     "service": "OSN,OBJECT_STORAGE",
+    "region": "eu-dublin-3"
+  },
+  {
+    "ip_address": "134.98.192.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
     "region": "eu-dublin-3"
   },
   {

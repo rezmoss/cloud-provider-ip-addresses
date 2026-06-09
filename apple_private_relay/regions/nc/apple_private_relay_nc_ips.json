@@ -1,5 +1,50 @@
 [
   {
+    "ip_address": "104.28.29.43/32",
+    "ip_type": "IPv4",
+    "region": "NC"
+  },
+  {
+    "ip_address": "104.28.125.68/32",
+    "ip_type": "IPv4",
+    "region": "NC"
+  },
+  {
+    "ip_address": "104.28.125.69/32",
+    "ip_type": "IPv4",
+    "region": "NC"
+  },
+  {
+    "ip_address": "104.28.146.184/32",
+    "ip_type": "IPv4",
+    "region": "NC"
+  },
+  {
+    "ip_address": "140.248.20.14/31",
+    "ip_type": "IPv4",
+    "region": "NC"
+  },
+  {
+    "ip_address": "146.75.132.96/31",
+    "ip_type": "IPv4",
+    "region": "NC"
+  },
+  {
+    "ip_address": "146.75.136.14/31",
+    "ip_type": "IPv4",
+    "region": "NC"
+  },
+  {
+    "ip_address": "146.75.160.96/31",
+    "ip_type": "IPv4",
+    "region": "NC"
+  },
+  {
+    "ip_address": "146.75.190.2/31",
+    "ip_type": "IPv4",
+    "region": "NC"
+  },
+  {
     "ip_address": "172.225.60.64/28",
     "ip_type": "IPv4",
     "region": "NC"
@@ -22,6 +67,26 @@
   {
     "ip_address": "172.225.254.32/28",
     "ip_type": "IPv4",
+    "region": "NC"
+  },
+  {
+    "ip_address": "2606:54c0:4ca8::/45",
+    "ip_type": "IPv6",
+    "region": "NC"
+  },
+  {
+    "ip_address": "2606:54c0:4cb0::/45",
+    "ip_type": "IPv6",
+    "region": "NC"
+  },
+  {
+    "ip_address": "2606:54c3:0:1444::/64",
+    "ip_type": "IPv6",
+    "region": "NC"
+  },
+  {
+    "ip_address": "2606:54c3:0:16cd::/64",
+    "ip_type": "IPv6",
     "region": "NC"
   },
   {
@@ -100,66 +165,6 @@
     "region": "NC"
   },
   {
-    "ip_address": "104.28.29.43/32",
-    "ip_type": "IPv4",
-    "region": "NC"
-  },
-  {
-    "ip_address": "104.28.125.68/32",
-    "ip_type": "IPv4",
-    "region": "NC"
-  },
-  {
-    "ip_address": "104.28.125.69/32",
-    "ip_type": "IPv4",
-    "region": "NC"
-  },
-  {
-    "ip_address": "104.28.146.184/32",
-    "ip_type": "IPv4",
-    "region": "NC"
-  },
-  {
-    "ip_address": "2606:54c0:4ca8::/45",
-    "ip_type": "IPv6",
-    "region": "NC"
-  },
-  {
-    "ip_address": "2606:54c0:4cb0::/45",
-    "ip_type": "IPv6",
-    "region": "NC"
-  },
-  {
-    "ip_address": "2606:54c3:0:1444::/64",
-    "ip_type": "IPv6",
-    "region": "NC"
-  },
-  {
-    "ip_address": "2606:54c3:0:16cd::/64",
-    "ip_type": "IPv6",
-    "region": "NC"
-  },
-  {
-    "ip_address": "2a09:bac2:4ca8::/45",
-    "ip_type": "IPv6",
-    "region": "NC"
-  },
-  {
-    "ip_address": "2a09:bac2:4cb0::/45",
-    "ip_type": "IPv6",
-    "region": "NC"
-  },
-  {
-    "ip_address": "2a09:bac3:4ca8::/45",
-    "ip_type": "IPv6",
-    "region": "NC"
-  },
-  {
-    "ip_address": "2a09:bac3:4cb0::/45",
-    "ip_type": "IPv6",
-    "region": "NC"
-  },
-  {
     "ip_address": "2a04:4e41:260d::/48",
     "ip_type": "IPv6",
     "region": "NC"
@@ -185,28 +190,23 @@
     "region": "NC"
   },
   {
-    "ip_address": "140.248.20.14/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:4ca8::/45",
+    "ip_type": "IPv6",
     "region": "NC"
   },
   {
-    "ip_address": "146.75.132.96/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:4cb0::/45",
+    "ip_type": "IPv6",
     "region": "NC"
   },
   {
-    "ip_address": "146.75.136.14/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:4ca8::/45",
+    "ip_type": "IPv6",
     "region": "NC"
   },
   {
-    "ip_address": "146.75.160.96/31",
-    "ip_type": "IPv4",
-    "region": "NC"
-  },
-  {
-    "ip_address": "146.75.190.2/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:4cb0::/45",
+    "ip_type": "IPv6",
     "region": "NC"
   }
 ]

@@ -1,5 +1,95 @@
 [
   {
+    "ip_address": "104.28.43.210/32",
+    "ip_type": "IPv4",
+    "region": "JP-11"
+  },
+  {
+    "ip_address": "104.28.43.211/32",
+    "ip_type": "IPv4",
+    "region": "JP-11"
+  },
+  {
+    "ip_address": "104.28.67.88/32",
+    "ip_type": "IPv4",
+    "region": "JP-11"
+  },
+  {
+    "ip_address": "104.28.67.89/32",
+    "ip_type": "IPv4",
+    "region": "JP-11"
+  },
+  {
+    "ip_address": "104.28.70.88/32",
+    "ip_type": "IPv4",
+    "region": "JP-11"
+  },
+  {
+    "ip_address": "104.28.70.89/32",
+    "ip_type": "IPv4",
+    "region": "JP-11"
+  },
+  {
+    "ip_address": "104.28.83.113/32",
+    "ip_type": "IPv4",
+    "region": "JP-11"
+  },
+  {
+    "ip_address": "104.28.83.114/32",
+    "ip_type": "IPv4",
+    "region": "JP-11"
+  },
+  {
+    "ip_address": "104.28.99.109/32",
+    "ip_type": "IPv4",
+    "region": "JP-11"
+  },
+  {
+    "ip_address": "104.28.99.110/32",
+    "ip_type": "IPv4",
+    "region": "JP-11"
+  },
+  {
+    "ip_address": "104.28.101.109/32",
+    "ip_type": "IPv4",
+    "region": "JP-11"
+  },
+  {
+    "ip_address": "104.28.101.110/32",
+    "ip_type": "IPv4",
+    "region": "JP-11"
+  },
+  {
+    "ip_address": "104.28.118.82/32",
+    "ip_type": "IPv4",
+    "region": "JP-11"
+  },
+  {
+    "ip_address": "104.28.118.83/32",
+    "ip_type": "IPv4",
+    "region": "JP-11"
+  },
+  {
+    "ip_address": "104.28.121.82/32",
+    "ip_type": "IPv4",
+    "region": "JP-11"
+  },
+  {
+    "ip_address": "104.28.121.83/32",
+    "ip_type": "IPv4",
+    "region": "JP-11"
+  },
+  {
+    "ip_address": "2606:54c0:4368::/45",
+    "ip_type": "IPv6",
+    "region": "JP-11"
+  },
+  {
+    "ip_address": "2606:54c3:0:e72::/64",
+    "ip_type": "IPv6",
+    "region": "JP-11"
+  },
+  {
     "ip_address": "2a02:26f7:b980:6071::/64",
     "ip_type": "IPv6",
     "region": "JP-11"
@@ -206,96 +296,6 @@
   },
   {
     "ip_address": "2a02:26f7:b9b4:6169::/64",
-    "ip_type": "IPv6",
-    "region": "JP-11"
-  },
-  {
-    "ip_address": "104.28.43.210/32",
-    "ip_type": "IPv4",
-    "region": "JP-11"
-  },
-  {
-    "ip_address": "104.28.43.211/32",
-    "ip_type": "IPv4",
-    "region": "JP-11"
-  },
-  {
-    "ip_address": "104.28.67.88/32",
-    "ip_type": "IPv4",
-    "region": "JP-11"
-  },
-  {
-    "ip_address": "104.28.67.89/32",
-    "ip_type": "IPv4",
-    "region": "JP-11"
-  },
-  {
-    "ip_address": "104.28.70.88/32",
-    "ip_type": "IPv4",
-    "region": "JP-11"
-  },
-  {
-    "ip_address": "104.28.70.89/32",
-    "ip_type": "IPv4",
-    "region": "JP-11"
-  },
-  {
-    "ip_address": "104.28.83.113/32",
-    "ip_type": "IPv4",
-    "region": "JP-11"
-  },
-  {
-    "ip_address": "104.28.83.114/32",
-    "ip_type": "IPv4",
-    "region": "JP-11"
-  },
-  {
-    "ip_address": "104.28.99.109/32",
-    "ip_type": "IPv4",
-    "region": "JP-11"
-  },
-  {
-    "ip_address": "104.28.99.110/32",
-    "ip_type": "IPv4",
-    "region": "JP-11"
-  },
-  {
-    "ip_address": "104.28.101.109/32",
-    "ip_type": "IPv4",
-    "region": "JP-11"
-  },
-  {
-    "ip_address": "104.28.101.110/32",
-    "ip_type": "IPv4",
-    "region": "JP-11"
-  },
-  {
-    "ip_address": "104.28.118.82/32",
-    "ip_type": "IPv4",
-    "region": "JP-11"
-  },
-  {
-    "ip_address": "104.28.118.83/32",
-    "ip_type": "IPv4",
-    "region": "JP-11"
-  },
-  {
-    "ip_address": "104.28.121.82/32",
-    "ip_type": "IPv4",
-    "region": "JP-11"
-  },
-  {
-    "ip_address": "104.28.121.83/32",
-    "ip_type": "IPv4",
-    "region": "JP-11"
-  },
-  {
-    "ip_address": "2606:54c0:4368::/45",
-    "ip_type": "IPv6",
-    "region": "JP-11"
-  },
-  {
-    "ip_address": "2606:54c3:0:e72::/64",
     "ip_type": "IPv6",
     "region": "JP-11"
   },

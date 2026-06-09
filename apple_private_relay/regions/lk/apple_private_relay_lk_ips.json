@@ -1,5 +1,65 @@
 [
   {
+    "ip_address": "104.28.137.7/32",
+    "ip_type": "IPv4",
+    "region": "LK"
+  },
+  {
+    "ip_address": "104.28.147.7/32",
+    "ip_type": "IPv4",
+    "region": "LK"
+  },
+  {
+    "ip_address": "104.28.147.8/32",
+    "ip_type": "IPv4",
+    "region": "LK"
+  },
+  {
+    "ip_address": "104.28.147.9/32",
+    "ip_type": "IPv4",
+    "region": "LK"
+  },
+  {
+    "ip_address": "140.248.8.34/31",
+    "ip_type": "IPv4",
+    "region": "LK"
+  },
+  {
+    "ip_address": "140.248.38.34/31",
+    "ip_type": "IPv4",
+    "region": "LK"
+  },
+  {
+    "ip_address": "146.75.128.14/31",
+    "ip_type": "IPv4",
+    "region": "LK"
+  },
+  {
+    "ip_address": "146.75.132.70/31",
+    "ip_type": "IPv4",
+    "region": "LK"
+  },
+  {
+    "ip_address": "146.75.160.70/31",
+    "ip_type": "IPv4",
+    "region": "LK"
+  },
+  {
+    "ip_address": "146.75.166.98/31",
+    "ip_type": "IPv4",
+    "region": "LK"
+  },
+  {
+    "ip_address": "146.75.197.42/31",
+    "ip_type": "IPv4",
+    "region": "LK"
+  },
+  {
+    "ip_address": "146.75.236.14/31",
+    "ip_type": "IPv4",
+    "region": "LK"
+  },
+  {
     "ip_address": "172.225.79.160/27",
     "ip_type": "IPv4",
     "region": "LK"
@@ -17,6 +77,16 @@
   {
     "ip_address": "172.226.43.128/26",
     "ip_type": "IPv4",
+    "region": "LK"
+  },
+  {
+    "ip_address": "2606:54c0:47a8::/45",
+    "ip_type": "IPv6",
+    "region": "LK"
+  },
+  {
+    "ip_address": "2606:54c3:0:438::/64",
+    "ip_type": "IPv6",
     "region": "LK"
   },
   {
@@ -140,46 +210,6 @@
     "region": "LK"
   },
   {
-    "ip_address": "104.28.137.7/32",
-    "ip_type": "IPv4",
-    "region": "LK"
-  },
-  {
-    "ip_address": "104.28.147.7/32",
-    "ip_type": "IPv4",
-    "region": "LK"
-  },
-  {
-    "ip_address": "104.28.147.8/32",
-    "ip_type": "IPv4",
-    "region": "LK"
-  },
-  {
-    "ip_address": "104.28.147.9/32",
-    "ip_type": "IPv4",
-    "region": "LK"
-  },
-  {
-    "ip_address": "2606:54c0:47a8::/45",
-    "ip_type": "IPv6",
-    "region": "LK"
-  },
-  {
-    "ip_address": "2606:54c3:0:438::/64",
-    "ip_type": "IPv6",
-    "region": "LK"
-  },
-  {
-    "ip_address": "2a09:bac2:47a8::/45",
-    "ip_type": "IPv6",
-    "region": "LK"
-  },
-  {
-    "ip_address": "2a09:bac3:47a8::/45",
-    "ip_type": "IPv6",
-    "region": "LK"
-  },
-  {
     "ip_address": "2a04:4e41:503::/48",
     "ip_type": "IPv6",
     "region": "LK"
@@ -220,43 +250,13 @@
     "region": "LK"
   },
   {
-    "ip_address": "140.248.8.34/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:47a8::/45",
+    "ip_type": "IPv6",
     "region": "LK"
   },
   {
-    "ip_address": "140.248.38.34/31",
-    "ip_type": "IPv4",
-    "region": "LK"
-  },
-  {
-    "ip_address": "146.75.128.14/31",
-    "ip_type": "IPv4",
-    "region": "LK"
-  },
-  {
-    "ip_address": "146.75.132.70/31",
-    "ip_type": "IPv4",
-    "region": "LK"
-  },
-  {
-    "ip_address": "146.75.160.70/31",
-    "ip_type": "IPv4",
-    "region": "LK"
-  },
-  {
-    "ip_address": "146.75.166.98/31",
-    "ip_type": "IPv4",
-    "region": "LK"
-  },
-  {
-    "ip_address": "146.75.197.42/31",
-    "ip_type": "IPv4",
-    "region": "LK"
-  },
-  {
-    "ip_address": "146.75.236.14/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:47a8::/45",
+    "ip_type": "IPv6",
     "region": "LK"
   }
 ]

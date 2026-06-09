@@ -60,6 +60,26 @@
     "region": "MD-CU"
   },
   {
+    "ip_address": "140.248.34.150/31",
+    "ip_type": "IPv4",
+    "region": "MD-CU"
+  },
+  {
+    "ip_address": "140.248.36.190/31",
+    "ip_type": "IPv4",
+    "region": "MD-CU"
+  },
+  {
+    "ip_address": "146.75.169.150/31",
+    "ip_type": "IPv4",
+    "region": "MD-CU"
+  },
+  {
+    "ip_address": "146.75.180.44/31",
+    "ip_type": "IPv4",
+    "region": "MD-CU"
+  },
+  {
     "ip_address": "2606:54c0:4838::/45",
     "ip_type": "IPv6",
     "region": "MD-CU"
@@ -76,26 +96,6 @@
   },
   {
     "ip_address": "2606:54c3:0:1099::/64",
-    "ip_type": "IPv6",
-    "region": "MD-CU"
-  },
-  {
-    "ip_address": "2a09:bac2:4838::/45",
-    "ip_type": "IPv6",
-    "region": "MD-CU"
-  },
-  {
-    "ip_address": "2a09:bac2:4840::/45",
-    "ip_type": "IPv6",
-    "region": "MD-CU"
-  },
-  {
-    "ip_address": "2a09:bac3:4838::/45",
-    "ip_type": "IPv6",
-    "region": "MD-CU"
-  },
-  {
-    "ip_address": "2a09:bac3:4840::/45",
     "ip_type": "IPv6",
     "region": "MD-CU"
   },
@@ -120,23 +120,23 @@
     "region": "MD-CU"
   },
   {
-    "ip_address": "140.248.34.150/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:4838::/45",
+    "ip_type": "IPv6",
     "region": "MD-CU"
   },
   {
-    "ip_address": "140.248.36.190/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:4840::/45",
+    "ip_type": "IPv6",
     "region": "MD-CU"
   },
   {
-    "ip_address": "146.75.169.150/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:4838::/45",
+    "ip_type": "IPv6",
     "region": "MD-CU"
   },
   {
-    "ip_address": "146.75.180.44/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:4840::/45",
+    "ip_type": "IPv6",
     "region": "MD-CU"
   }
 ]

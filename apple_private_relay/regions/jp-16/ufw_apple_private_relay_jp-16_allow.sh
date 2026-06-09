@@ -1,12 +1,30 @@
 #!/bin/bash
 # Apple_private_relay IP Ranges
-# Updated: 2026-02-11 17:28:47
+# Updated: 2026-06-09 22:59:43
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
 # Updates daily at 00:00 UTC
 # UFW allow rules for apple_private_relay
 
+ufw allow from 104.28.43.208/32
+ufw allow from 104.28.43.209/32
+ufw allow from 104.28.67.86/32
+ufw allow from 104.28.67.87/32
+ufw allow from 104.28.70.86/32
+ufw allow from 104.28.70.87/32
+ufw allow from 104.28.83.111/32
+ufw allow from 104.28.83.112/32
+ufw allow from 104.28.99.107/32
+ufw allow from 104.28.99.108/32
+ufw allow from 104.28.101.107/32
+ufw allow from 104.28.101.108/32
+ufw allow from 104.28.118.80/32
+ufw allow from 104.28.118.81/32
+ufw allow from 104.28.121.80/32
+ufw allow from 104.28.121.81/32
+ufw allow from 2606:54c0:43e0::/45
+ufw allow from 2606:54c3:0:13c6::/64
 ufw allow from 2a02:26f7:b980:6099::/64
 ufw allow from 2a02:26f7:b980:609a::/64
 ufw allow from 2a02:26f7:b980:609b::/64
@@ -77,23 +95,5 @@ ufw allow from 2a02:26f7:b9b4:609a::/64
 ufw allow from 2a02:26f7:b9b4:609b::/64
 ufw allow from 2a02:26f7:b9b4:609c::/64
 ufw allow from 2a02:26f7:b9b4:609d::/64
-ufw allow from 104.28.43.208/32
-ufw allow from 104.28.43.209/32
-ufw allow from 104.28.67.86/32
-ufw allow from 104.28.67.87/32
-ufw allow from 104.28.70.86/32
-ufw allow from 104.28.70.87/32
-ufw allow from 104.28.83.111/32
-ufw allow from 104.28.83.112/32
-ufw allow from 104.28.99.107/32
-ufw allow from 104.28.99.108/32
-ufw allow from 104.28.101.107/32
-ufw allow from 104.28.101.108/32
-ufw allow from 104.28.118.80/32
-ufw allow from 104.28.118.81/32
-ufw allow from 104.28.121.80/32
-ufw allow from 104.28.121.81/32
-ufw allow from 2606:54c0:43e0::/45
-ufw allow from 2606:54c3:0:13c6::/64
 ufw allow from 2a09:bac2:43e0::/45
 ufw allow from 2a09:bac3:43e0::/45

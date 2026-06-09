@@ -1,5 +1,55 @@
 [
   {
+    "ip_address": "104.28.60.88/32",
+    "ip_type": "IPv4",
+    "region": "IT-42"
+  },
+  {
+    "ip_address": "104.28.60.89/32",
+    "ip_type": "IPv4",
+    "region": "IT-42"
+  },
+  {
+    "ip_address": "104.28.62.69/32",
+    "ip_type": "IPv4",
+    "region": "IT-42"
+  },
+  {
+    "ip_address": "104.28.62.70/32",
+    "ip_type": "IPv4",
+    "region": "IT-42"
+  },
+  {
+    "ip_address": "104.28.96.54/32",
+    "ip_type": "IPv4",
+    "region": "IT-42"
+  },
+  {
+    "ip_address": "104.28.96.55/32",
+    "ip_type": "IPv4",
+    "region": "IT-42"
+  },
+  {
+    "ip_address": "104.28.98.56/32",
+    "ip_type": "IPv4",
+    "region": "IT-42"
+  },
+  {
+    "ip_address": "104.28.98.57/32",
+    "ip_type": "IPv4",
+    "region": "IT-42"
+  },
+  {
+    "ip_address": "104.28.135.56/32",
+    "ip_type": "IPv4",
+    "region": "IT-42"
+  },
+  {
+    "ip_address": "104.28.135.57/32",
+    "ip_type": "IPv4",
+    "region": "IT-42"
+  },
+  {
     "ip_address": "172.225.94.68/31",
     "ip_type": "IPv4",
     "region": "IT-42"
@@ -27,6 +77,16 @@
   {
     "ip_address": "172.226.15.48/31",
     "ip_type": "IPv4",
+    "region": "IT-42"
+  },
+  {
+    "ip_address": "2606:54c0:41d8::/45",
+    "ip_type": "IPv6",
+    "region": "IT-42"
+  },
+  {
+    "ip_address": "2606:54c3:0:19::/64",
+    "ip_type": "IPv6",
     "region": "IT-42"
   },
   {
@@ -506,66 +566,6 @@
   },
   {
     "ip_address": "2a02:26f7:bcd1:5f86::/64",
-    "ip_type": "IPv6",
-    "region": "IT-42"
-  },
-  {
-    "ip_address": "104.28.60.88/32",
-    "ip_type": "IPv4",
-    "region": "IT-42"
-  },
-  {
-    "ip_address": "104.28.60.89/32",
-    "ip_type": "IPv4",
-    "region": "IT-42"
-  },
-  {
-    "ip_address": "104.28.62.69/32",
-    "ip_type": "IPv4",
-    "region": "IT-42"
-  },
-  {
-    "ip_address": "104.28.62.70/32",
-    "ip_type": "IPv4",
-    "region": "IT-42"
-  },
-  {
-    "ip_address": "104.28.96.54/32",
-    "ip_type": "IPv4",
-    "region": "IT-42"
-  },
-  {
-    "ip_address": "104.28.96.55/32",
-    "ip_type": "IPv4",
-    "region": "IT-42"
-  },
-  {
-    "ip_address": "104.28.98.56/32",
-    "ip_type": "IPv4",
-    "region": "IT-42"
-  },
-  {
-    "ip_address": "104.28.98.57/32",
-    "ip_type": "IPv4",
-    "region": "IT-42"
-  },
-  {
-    "ip_address": "104.28.135.56/32",
-    "ip_type": "IPv4",
-    "region": "IT-42"
-  },
-  {
-    "ip_address": "104.28.135.57/32",
-    "ip_type": "IPv4",
-    "region": "IT-42"
-  },
-  {
-    "ip_address": "2606:54c0:41d8::/45",
-    "ip_type": "IPv6",
-    "region": "IT-42"
-  },
-  {
-    "ip_address": "2606:54c3:0:19::/64",
     "ip_type": "IPv6",
     "region": "IT-42"
   },

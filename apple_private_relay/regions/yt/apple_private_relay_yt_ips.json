@@ -1,5 +1,70 @@
 [
   {
+    "ip_address": "104.28.37.48/32",
+    "ip_type": "IPv4",
+    "region": "YT"
+  },
+  {
+    "ip_address": "104.28.37.49/32",
+    "ip_type": "IPv4",
+    "region": "YT"
+  },
+  {
+    "ip_address": "104.28.46.15/32",
+    "ip_type": "IPv4",
+    "region": "YT"
+  },
+  {
+    "ip_address": "104.28.46.16/32",
+    "ip_type": "IPv4",
+    "region": "YT"
+  },
+  {
+    "ip_address": "104.28.80.33/32",
+    "ip_type": "IPv4",
+    "region": "YT"
+  },
+  {
+    "ip_address": "104.28.80.34/32",
+    "ip_type": "IPv4",
+    "region": "YT"
+  },
+  {
+    "ip_address": "104.28.82.19/32",
+    "ip_type": "IPv4",
+    "region": "YT"
+  },
+  {
+    "ip_address": "104.28.82.20/32",
+    "ip_type": "IPv4",
+    "region": "YT"
+  },
+  {
+    "ip_address": "140.248.24.92/31",
+    "ip_type": "IPv4",
+    "region": "YT"
+  },
+  {
+    "ip_address": "140.248.41.92/31",
+    "ip_type": "IPv4",
+    "region": "YT"
+  },
+  {
+    "ip_address": "146.75.166.144/31",
+    "ip_type": "IPv4",
+    "region": "YT"
+  },
+  {
+    "ip_address": "146.75.168.182/31",
+    "ip_type": "IPv4",
+    "region": "YT"
+  },
+  {
+    "ip_address": "146.75.185.182/31",
+    "ip_type": "IPv4",
+    "region": "YT"
+  },
+  {
     "ip_address": "172.224.231.112/28",
     "ip_type": "IPv4",
     "region": "YT"
@@ -17,6 +82,16 @@
   {
     "ip_address": "172.225.221.208/28",
     "ip_type": "IPv4",
+    "region": "YT"
+  },
+  {
+    "ip_address": "2606:54c0:d3a8::/45",
+    "ip_type": "IPv6",
+    "region": "YT"
+  },
+  {
+    "ip_address": "2606:54c3:0:1455::/64",
+    "ip_type": "IPv6",
     "region": "YT"
   },
   {
@@ -80,66 +155,6 @@
     "region": "YT"
   },
   {
-    "ip_address": "104.28.37.48/32",
-    "ip_type": "IPv4",
-    "region": "YT"
-  },
-  {
-    "ip_address": "104.28.37.49/32",
-    "ip_type": "IPv4",
-    "region": "YT"
-  },
-  {
-    "ip_address": "104.28.46.15/32",
-    "ip_type": "IPv4",
-    "region": "YT"
-  },
-  {
-    "ip_address": "104.28.46.16/32",
-    "ip_type": "IPv4",
-    "region": "YT"
-  },
-  {
-    "ip_address": "104.28.80.33/32",
-    "ip_type": "IPv4",
-    "region": "YT"
-  },
-  {
-    "ip_address": "104.28.80.34/32",
-    "ip_type": "IPv4",
-    "region": "YT"
-  },
-  {
-    "ip_address": "104.28.82.19/32",
-    "ip_type": "IPv4",
-    "region": "YT"
-  },
-  {
-    "ip_address": "104.28.82.20/32",
-    "ip_type": "IPv4",
-    "region": "YT"
-  },
-  {
-    "ip_address": "2606:54c0:d3a8::/45",
-    "ip_type": "IPv6",
-    "region": "YT"
-  },
-  {
-    "ip_address": "2606:54c3:0:1455::/64",
-    "ip_type": "IPv6",
-    "region": "YT"
-  },
-  {
-    "ip_address": "2a09:bac2:d3a8::/45",
-    "ip_type": "IPv6",
-    "region": "YT"
-  },
-  {
-    "ip_address": "2a09:bac3:d3a8::/45",
-    "ip_type": "IPv6",
-    "region": "YT"
-  },
-  {
     "ip_address": "2a04:4e41:815::/48",
     "ip_type": "IPv6",
     "region": "YT"
@@ -165,28 +180,13 @@
     "region": "YT"
   },
   {
-    "ip_address": "140.248.24.92/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:d3a8::/45",
+    "ip_type": "IPv6",
     "region": "YT"
   },
   {
-    "ip_address": "140.248.41.92/31",
-    "ip_type": "IPv4",
-    "region": "YT"
-  },
-  {
-    "ip_address": "146.75.166.144/31",
-    "ip_type": "IPv4",
-    "region": "YT"
-  },
-  {
-    "ip_address": "146.75.168.182/31",
-    "ip_type": "IPv4",
-    "region": "YT"
-  },
-  {
-    "ip_address": "146.75.185.182/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:d3a8::/45",
+    "ip_type": "IPv6",
     "region": "YT"
   }
 ]

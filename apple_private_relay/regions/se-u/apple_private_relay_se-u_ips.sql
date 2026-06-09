@@ -6,6 +6,10 @@ CREATE TABLE IF NOT EXISTS `apple_private_relay_se-u_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `apple_private_relay_se-u_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:5478::/45', 'IPv6');
+INSERT INTO `apple_private_relay_se-u_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:5480::/45', 'IPv6');
+INSERT INTO `apple_private_relay_se-u_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:7ff::/64', 'IPv6');
+INSERT INTO `apple_private_relay_se-u_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:13a3::/64', 'IPv6');
 INSERT INTO `apple_private_relay_se-u_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f8c0:e689::/64', 'IPv6');
 INSERT INTO `apple_private_relay_se-u_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f8c0:e68a::/64', 'IPv6');
 INSERT INTO `apple_private_relay_se-u_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f8c0:e68b::/64', 'IPv6');
@@ -51,10 +55,6 @@ INSERT INTO `apple_private_relay_se-u_ips` (`ip_address`, `ip_type`) VALUES ('2a
 INSERT INTO `apple_private_relay_se-u_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f8e2:e68b::/64', 'IPv6');
 INSERT INTO `apple_private_relay_se-u_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f8e2:e68c::/64', 'IPv6');
 INSERT INTO `apple_private_relay_se-u_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f8e2:e68d::/64', 'IPv6');
-INSERT INTO `apple_private_relay_se-u_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:5478::/45', 'IPv6');
-INSERT INTO `apple_private_relay_se-u_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:5480::/45', 'IPv6');
-INSERT INTO `apple_private_relay_se-u_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:7ff::/64', 'IPv6');
-INSERT INTO `apple_private_relay_se-u_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:13a3::/64', 'IPv6');
 INSERT INTO `apple_private_relay_se-u_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:5478::/45', 'IPv6');
 INSERT INTO `apple_private_relay_se-u_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:5480::/45', 'IPv6');
 INSERT INTO `apple_private_relay_se-u_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:5478::/45', 'IPv6');

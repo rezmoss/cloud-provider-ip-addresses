@@ -55,22 +55,32 @@
     "region": "SK-BL"
   },
   {
+    "ip_address": "140.248.34.222/31",
+    "ip_type": "IPv4",
+    "region": "SK-BL"
+  },
+  {
+    "ip_address": "140.248.37.36/31",
+    "ip_type": "IPv4",
+    "region": "SK-BL"
+  },
+  {
+    "ip_address": "146.75.169.222/31",
+    "ip_type": "IPv4",
+    "region": "SK-BL"
+  },
+  {
+    "ip_address": "146.75.180.64/31",
+    "ip_type": "IPv4",
+    "region": "SK-BL"
+  },
+  {
     "ip_address": "2606:54c0:5518::/45",
     "ip_type": "IPv6",
     "region": "SK-BL"
   },
   {
     "ip_address": "2606:54c3:0:ef5::/64",
-    "ip_type": "IPv6",
-    "region": "SK-BL"
-  },
-  {
-    "ip_address": "2a09:bac2:5518::/45",
-    "ip_type": "IPv6",
-    "region": "SK-BL"
-  },
-  {
-    "ip_address": "2a09:bac3:5518::/45",
     "ip_type": "IPv6",
     "region": "SK-BL"
   },
@@ -95,23 +105,13 @@
     "region": "SK-BL"
   },
   {
-    "ip_address": "140.248.34.222/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:5518::/45",
+    "ip_type": "IPv6",
     "region": "SK-BL"
   },
   {
-    "ip_address": "140.248.37.36/31",
-    "ip_type": "IPv4",
-    "region": "SK-BL"
-  },
-  {
-    "ip_address": "146.75.169.222/31",
-    "ip_type": "IPv4",
-    "region": "SK-BL"
-  },
-  {
-    "ip_address": "146.75.180.64/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:5518::/45",
+    "ip_type": "IPv6",
     "region": "SK-BL"
   }
 ]

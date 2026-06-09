@@ -1,12 +1,15 @@
 #!/bin/bash
 # Apple_private_relay IP Ranges
-# Updated: 2026-02-11 17:28:46
+# Updated: 2026-06-09 22:59:46
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
 # Updates daily at 00:00 UTC
 # UFW allow rules for apple_private_relay
 
+ufw allow from 140.248.36.10/31
+ufw allow from 146.75.162.10/31
+ufw allow from 146.75.180.4/31
 ufw allow from 172.225.38.64/28
 ufw allow from 172.225.40.64/27
 ufw allow from 172.225.104.0/28
@@ -17,6 +20,8 @@ ufw allow from 172.226.130.0/28
 ufw allow from 172.226.130.16/29
 ufw allow from 172.226.131.0/27
 ufw allow from 172.226.131.32/28
+ufw allow from 2606:54c0:e0::/45
+ufw allow from 2606:54c3:0:128f::/64
 ufw allow from 2a02:26f7:ca80::/54
 ufw allow from 2a02:26f7:ca80:400::/56
 ufw allow from 2a02:26f7:ca80:4000::/64
@@ -862,13 +867,8 @@ ufw allow from 2a02:26f7:ca8d:e263::/64
 ufw allow from 2a02:26f7:ca8d:e264::/64
 ufw allow from 2a02:26f7:ca8e:4000::/64
 ufw allow from 2a02:26f7:ca8f:4000::/64
-ufw allow from 2606:54c0:e0::/45
-ufw allow from 2606:54c3:0:128f::/64
-ufw allow from 2a09:bac2:e0::/45
-ufw allow from 2a09:bac3:e0::/45
 ufw allow from 2a04:4e41:204::/48
 ufw allow from 2a04:4e41:180a::/48
 ufw allow from 2a04:4e41:4ca3::/48
-ufw allow from 140.248.36.10/31
-ufw allow from 146.75.162.10/31
-ufw allow from 146.75.180.4/31
+ufw allow from 2a09:bac2:e0::/45
+ufw allow from 2a09:bac3:e0::/45

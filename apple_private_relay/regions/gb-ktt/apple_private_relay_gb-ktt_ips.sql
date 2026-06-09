@@ -6,11 +6,11 @@ CREATE TABLE IF NOT EXISTS `apple_private_relay_gb-ktt_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
-INSERT INTO `apple_private_relay_gb-ktt_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:1301:3000::/52', 'IPv6');
-INSERT INTO `apple_private_relay_gb-ktt_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:1601:9000::/52', 'IPv6');
-INSERT INTO `apple_private_relay_gb-ktt_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:4e01:2000::/52', 'IPv6');
-INSERT INTO `apple_private_relay_gb-ktt_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:7401:9000::/52', 'IPv6');
 INSERT INTO `apple_private_relay_gb-ktt_ips` (`ip_address`, `ip_type`) VALUES ('140.248.40.60/31', 'IPv4');
 INSERT INTO `apple_private_relay_gb-ktt_ips` (`ip_address`, `ip_type`) VALUES ('146.75.168.74/31', 'IPv4');
 INSERT INTO `apple_private_relay_gb-ktt_ips` (`ip_address`, `ip_type`) VALUES ('146.75.174.48/31', 'IPv4');
 INSERT INTO `apple_private_relay_gb-ktt_ips` (`ip_address`, `ip_type`) VALUES ('146.75.185.74/31', 'IPv4');
+INSERT INTO `apple_private_relay_gb-ktt_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:1301:3000::/52', 'IPv6');
+INSERT INTO `apple_private_relay_gb-ktt_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:1601:9000::/52', 'IPv6');
+INSERT INTO `apple_private_relay_gb-ktt_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:4e01:2000::/52', 'IPv6');
+INSERT INTO `apple_private_relay_gb-ktt_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:7401:9000::/52', 'IPv6');

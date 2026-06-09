@@ -1,5 +1,100 @@
 [
   {
+    "ip_address": "104.28.30.39/32",
+    "ip_type": "IPv4",
+    "region": "DE-HH"
+  },
+  {
+    "ip_address": "104.28.30.40/32",
+    "ip_type": "IPv4",
+    "region": "DE-HH"
+  },
+  {
+    "ip_address": "104.28.30.41/32",
+    "ip_type": "IPv4",
+    "region": "DE-HH"
+  },
+  {
+    "ip_address": "104.28.45.18/32",
+    "ip_type": "IPv4",
+    "region": "DE-HH"
+  },
+  {
+    "ip_address": "104.28.45.19/32",
+    "ip_type": "IPv4",
+    "region": "DE-HH"
+  },
+  {
+    "ip_address": "104.28.45.20/32",
+    "ip_type": "IPv4",
+    "region": "DE-HH"
+  },
+  {
+    "ip_address": "104.28.54.43/32",
+    "ip_type": "IPv4",
+    "region": "DE-HH"
+  },
+  {
+    "ip_address": "104.28.54.44/32",
+    "ip_type": "IPv4",
+    "region": "DE-HH"
+  },
+  {
+    "ip_address": "104.28.54.45/32",
+    "ip_type": "IPv4",
+    "region": "DE-HH"
+  },
+  {
+    "ip_address": "104.28.64.10/32",
+    "ip_type": "IPv4",
+    "region": "DE-HH"
+  },
+  {
+    "ip_address": "104.28.64.11/32",
+    "ip_type": "IPv4",
+    "region": "DE-HH"
+  },
+  {
+    "ip_address": "104.28.64.12/32",
+    "ip_type": "IPv4",
+    "region": "DE-HH"
+  },
+  {
+    "ip_address": "104.28.129.15/32",
+    "ip_type": "IPv4",
+    "region": "DE-HH"
+  },
+  {
+    "ip_address": "104.28.129.16/32",
+    "ip_type": "IPv4",
+    "region": "DE-HH"
+  },
+  {
+    "ip_address": "104.28.129.17/32",
+    "ip_type": "IPv4",
+    "region": "DE-HH"
+  },
+  {
+    "ip_address": "140.248.34.56/31",
+    "ip_type": "IPv4",
+    "region": "DE-HH"
+  },
+  {
+    "ip_address": "140.248.36.68/31",
+    "ip_type": "IPv4",
+    "region": "DE-HH"
+  },
+  {
+    "ip_address": "146.75.166.26/31",
+    "ip_type": "IPv4",
+    "region": "DE-HH"
+  },
+  {
+    "ip_address": "146.75.169.56/31",
+    "ip_type": "IPv4",
+    "region": "DE-HH"
+  },
+  {
     "ip_address": "172.225.6.100/31",
     "ip_type": "IPv4",
     "region": "DE-HH"
@@ -47,6 +142,16 @@
   {
     "ip_address": "172.226.112.68/31",
     "ip_type": "IPv4",
+    "region": "DE-HH"
+  },
+  {
+    "ip_address": "2606:54c0:2ac8::/45",
+    "ip_type": "IPv6",
+    "region": "DE-HH"
+  },
+  {
+    "ip_address": "2606:54c3:0:21::/64",
+    "ip_type": "IPv6",
     "region": "DE-HH"
   },
   {
@@ -150,101 +255,6 @@
     "region": "DE-HH"
   },
   {
-    "ip_address": "104.28.30.39/32",
-    "ip_type": "IPv4",
-    "region": "DE-HH"
-  },
-  {
-    "ip_address": "104.28.30.40/32",
-    "ip_type": "IPv4",
-    "region": "DE-HH"
-  },
-  {
-    "ip_address": "104.28.30.41/32",
-    "ip_type": "IPv4",
-    "region": "DE-HH"
-  },
-  {
-    "ip_address": "104.28.45.18/32",
-    "ip_type": "IPv4",
-    "region": "DE-HH"
-  },
-  {
-    "ip_address": "104.28.45.19/32",
-    "ip_type": "IPv4",
-    "region": "DE-HH"
-  },
-  {
-    "ip_address": "104.28.45.20/32",
-    "ip_type": "IPv4",
-    "region": "DE-HH"
-  },
-  {
-    "ip_address": "104.28.54.43/32",
-    "ip_type": "IPv4",
-    "region": "DE-HH"
-  },
-  {
-    "ip_address": "104.28.54.44/32",
-    "ip_type": "IPv4",
-    "region": "DE-HH"
-  },
-  {
-    "ip_address": "104.28.54.45/32",
-    "ip_type": "IPv4",
-    "region": "DE-HH"
-  },
-  {
-    "ip_address": "104.28.64.10/32",
-    "ip_type": "IPv4",
-    "region": "DE-HH"
-  },
-  {
-    "ip_address": "104.28.64.11/32",
-    "ip_type": "IPv4",
-    "region": "DE-HH"
-  },
-  {
-    "ip_address": "104.28.64.12/32",
-    "ip_type": "IPv4",
-    "region": "DE-HH"
-  },
-  {
-    "ip_address": "104.28.129.15/32",
-    "ip_type": "IPv4",
-    "region": "DE-HH"
-  },
-  {
-    "ip_address": "104.28.129.16/32",
-    "ip_type": "IPv4",
-    "region": "DE-HH"
-  },
-  {
-    "ip_address": "104.28.129.17/32",
-    "ip_type": "IPv4",
-    "region": "DE-HH"
-  },
-  {
-    "ip_address": "2606:54c0:2ac8::/45",
-    "ip_type": "IPv6",
-    "region": "DE-HH"
-  },
-  {
-    "ip_address": "2606:54c3:0:21::/64",
-    "ip_type": "IPv6",
-    "region": "DE-HH"
-  },
-  {
-    "ip_address": "2a09:bac2:2ac8::/45",
-    "ip_type": "IPv6",
-    "region": "DE-HH"
-  },
-  {
-    "ip_address": "2a09:bac3:2ac8::/45",
-    "ip_type": "IPv6",
-    "region": "DE-HH"
-  },
-  {
     "ip_address": "2a04:4e41:1401:2000::/52",
     "ip_type": "IPv6",
     "region": "DE-HH"
@@ -265,23 +275,13 @@
     "region": "DE-HH"
   },
   {
-    "ip_address": "140.248.34.56/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:2ac8::/45",
+    "ip_type": "IPv6",
     "region": "DE-HH"
   },
   {
-    "ip_address": "140.248.36.68/31",
-    "ip_type": "IPv4",
-    "region": "DE-HH"
-  },
-  {
-    "ip_address": "146.75.166.26/31",
-    "ip_type": "IPv4",
-    "region": "DE-HH"
-  },
-  {
-    "ip_address": "146.75.169.56/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:2ac8::/45",
+    "ip_type": "IPv6",
     "region": "DE-HH"
   }
 ]

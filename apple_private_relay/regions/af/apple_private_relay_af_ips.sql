@@ -6,6 +6,13 @@ CREATE TABLE IF NOT EXISTS `apple_private_relay_af_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `apple_private_relay_af_ips` (`ip_address`, `ip_type`) VALUES ('140.248.34.0/31', 'IPv4');
+INSERT INTO `apple_private_relay_af_ips` (`ip_address`, `ip_type`) VALUES ('140.248.36.0/31', 'IPv4');
+INSERT INTO `apple_private_relay_af_ips` (`ip_address`, `ip_type`) VALUES ('146.75.132.0/31', 'IPv4');
+INSERT INTO `apple_private_relay_af_ips` (`ip_address`, `ip_type`) VALUES ('146.75.160.0/31', 'IPv4');
+INSERT INTO `apple_private_relay_af_ips` (`ip_address`, `ip_type`) VALUES ('146.75.169.0/31', 'IPv4');
+INSERT INTO `apple_private_relay_af_ips` (`ip_address`, `ip_type`) VALUES ('146.75.205.40/31', 'IPv4');
+INSERT INTO `apple_private_relay_af_ips` (`ip_address`, `ip_type`) VALUES ('146.75.214.38/31', 'IPv4');
 INSERT INTO `apple_private_relay_af_ips` (`ip_address`, `ip_type`) VALUES ('172.225.73.128/26', 'IPv4');
 INSERT INTO `apple_private_relay_af_ips` (`ip_address`, `ip_type`) VALUES ('172.225.78.32/27', 'IPv4');
 INSERT INTO `apple_private_relay_af_ips` (`ip_address`, `ip_type`) VALUES ('172.225.200.0/28', 'IPv4');
@@ -78,10 +85,3 @@ INSERT INTO `apple_private_relay_af_ips` (`ip_address`, `ip_type`) VALUES ('2a04
 INSERT INTO `apple_private_relay_af_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:5606::/48', 'IPv6');
 INSERT INTO `apple_private_relay_af_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:5e03::/48', 'IPv6');
 INSERT INTO `apple_private_relay_af_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:7603::/48', 'IPv6');
-INSERT INTO `apple_private_relay_af_ips` (`ip_address`, `ip_type`) VALUES ('140.248.34.0/31', 'IPv4');
-INSERT INTO `apple_private_relay_af_ips` (`ip_address`, `ip_type`) VALUES ('140.248.36.0/31', 'IPv4');
-INSERT INTO `apple_private_relay_af_ips` (`ip_address`, `ip_type`) VALUES ('146.75.132.0/31', 'IPv4');
-INSERT INTO `apple_private_relay_af_ips` (`ip_address`, `ip_type`) VALUES ('146.75.160.0/31', 'IPv4');
-INSERT INTO `apple_private_relay_af_ips` (`ip_address`, `ip_type`) VALUES ('146.75.169.0/31', 'IPv4');
-INSERT INTO `apple_private_relay_af_ips` (`ip_address`, `ip_type`) VALUES ('146.75.205.40/31', 'IPv4');
-INSERT INTO `apple_private_relay_af_ips` (`ip_address`, `ip_type`) VALUES ('146.75.214.38/31', 'IPv4');

@@ -15,17 +15,27 @@
     "region": "TT-POS"
   },
   {
+    "ip_address": "140.248.4.60/31",
+    "ip_type": "IPv4",
+    "region": "TT-POS"
+  },
+  {
+    "ip_address": "140.248.44.100/31",
+    "ip_type": "IPv4",
+    "region": "TT-POS"
+  },
+  {
+    "ip_address": "146.75.132.152/31",
+    "ip_type": "IPv4",
+    "region": "TT-POS"
+  },
+  {
+    "ip_address": "146.75.160.152/31",
+    "ip_type": "IPv4",
+    "region": "TT-POS"
+  },
+  {
     "ip_address": "2606:54c3:0:eb8::/64",
-    "ip_type": "IPv6",
-    "region": "TT-POS"
-  },
-  {
-    "ip_address": "2a09:bac2:d4d8::/45",
-    "ip_type": "IPv6",
-    "region": "TT-POS"
-  },
-  {
-    "ip_address": "2a09:bac3:d4d8::/45",
     "ip_type": "IPv6",
     "region": "TT-POS"
   },
@@ -50,23 +60,13 @@
     "region": "TT-POS"
   },
   {
-    "ip_address": "140.248.4.60/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:d4d8::/45",
+    "ip_type": "IPv6",
     "region": "TT-POS"
   },
   {
-    "ip_address": "140.248.44.100/31",
-    "ip_type": "IPv4",
-    "region": "TT-POS"
-  },
-  {
-    "ip_address": "146.75.132.152/31",
-    "ip_type": "IPv4",
-    "region": "TT-POS"
-  },
-  {
-    "ip_address": "146.75.160.152/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:d4d8::/45",
+    "ip_type": "IPv6",
     "region": "TT-POS"
   }
 ]

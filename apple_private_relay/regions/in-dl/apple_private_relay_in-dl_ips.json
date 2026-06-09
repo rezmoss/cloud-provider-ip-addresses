@@ -1,125 +1,5 @@
 [
   {
-    "ip_address": "172.224.229.64/29",
-    "ip_type": "IPv4",
-    "region": "IN-DL"
-  },
-  {
-    "ip_address": "172.225.137.200/29",
-    "ip_type": "IPv4",
-    "region": "IN-DL"
-  },
-  {
-    "ip_address": "172.225.186.60/30",
-    "ip_type": "IPv4",
-    "region": "IN-DL"
-  },
-  {
-    "ip_address": "172.225.201.8/29",
-    "ip_type": "IPv4",
-    "region": "IN-DL"
-  },
-  {
-    "ip_address": "172.225.218.56/29",
-    "ip_type": "IPv4",
-    "region": "IN-DL"
-  },
-  {
-    "ip_address": "172.225.219.60/30",
-    "ip_type": "IPv4",
-    "region": "IN-DL"
-  },
-  {
-    "ip_address": "2a02:26f7:d6c0:400::/54",
-    "ip_type": "IPv6",
-    "region": "IN-DL"
-  },
-  {
-    "ip_address": "2a02:26f7:d6c0:6801::/64",
-    "ip_type": "IPv6",
-    "region": "IN-DL"
-  },
-  {
-    "ip_address": "2a02:26f7:d6c0:6844::/64",
-    "ip_type": "IPv6",
-    "region": "IN-DL"
-  },
-  {
-    "ip_address": "2a02:26f7:d6c1:400::/54",
-    "ip_type": "IPv6",
-    "region": "IN-DL"
-  },
-  {
-    "ip_address": "2a02:26f7:d6c1:6801::/64",
-    "ip_type": "IPv6",
-    "region": "IN-DL"
-  },
-  {
-    "ip_address": "2a02:26f7:d6c1:6844::/64",
-    "ip_type": "IPv6",
-    "region": "IN-DL"
-  },
-  {
-    "ip_address": "2a02:26f7:d6c4:400::/54",
-    "ip_type": "IPv6",
-    "region": "IN-DL"
-  },
-  {
-    "ip_address": "2a02:26f7:d6c4:6801::/64",
-    "ip_type": "IPv6",
-    "region": "IN-DL"
-  },
-  {
-    "ip_address": "2a02:26f7:d6c4:6844::/64",
-    "ip_type": "IPv6",
-    "region": "IN-DL"
-  },
-  {
-    "ip_address": "2a02:26f7:d6c6:400::/54",
-    "ip_type": "IPv6",
-    "region": "IN-DL"
-  },
-  {
-    "ip_address": "2a02:26f7:d6c6:6801::/64",
-    "ip_type": "IPv6",
-    "region": "IN-DL"
-  },
-  {
-    "ip_address": "2a02:26f7:d6c6:6844::/64",
-    "ip_type": "IPv6",
-    "region": "IN-DL"
-  },
-  {
-    "ip_address": "2a02:26f7:d6cc:400::/54",
-    "ip_type": "IPv6",
-    "region": "IN-DL"
-  },
-  {
-    "ip_address": "2a02:26f7:d6cc:6801::/64",
-    "ip_type": "IPv6",
-    "region": "IN-DL"
-  },
-  {
-    "ip_address": "2a02:26f7:d6cc:6844::/64",
-    "ip_type": "IPv6",
-    "region": "IN-DL"
-  },
-  {
-    "ip_address": "2a02:26f7:d6d0:400::/54",
-    "ip_type": "IPv6",
-    "region": "IN-DL"
-  },
-  {
-    "ip_address": "2a02:26f7:d6d0:6801::/64",
-    "ip_type": "IPv6",
-    "region": "IN-DL"
-  },
-  {
-    "ip_address": "2a02:26f7:d6d0:6844::/64",
-    "ip_type": "IPv6",
-    "region": "IN-DL"
-  },
-  {
     "ip_address": "104.28.37.202/32",
     "ip_type": "IPv4",
     "region": "IN-DL"
@@ -570,6 +450,71 @@
     "region": "IN-DL"
   },
   {
+    "ip_address": "140.248.8.8/31",
+    "ip_type": "IPv4",
+    "region": "IN-DL"
+  },
+  {
+    "ip_address": "140.248.38.8/31",
+    "ip_type": "IPv4",
+    "region": "IN-DL"
+  },
+  {
+    "ip_address": "146.75.132.40/31",
+    "ip_type": "IPv4",
+    "region": "IN-DL"
+  },
+  {
+    "ip_address": "146.75.160.40/31",
+    "ip_type": "IPv4",
+    "region": "IN-DL"
+  },
+  {
+    "ip_address": "146.75.197.12/31",
+    "ip_type": "IPv4",
+    "region": "IN-DL"
+  },
+  {
+    "ip_address": "146.75.205.8/31",
+    "ip_type": "IPv4",
+    "region": "IN-DL"
+  },
+  {
+    "ip_address": "146.75.214.8/31",
+    "ip_type": "IPv4",
+    "region": "IN-DL"
+  },
+  {
+    "ip_address": "172.224.229.64/29",
+    "ip_type": "IPv4",
+    "region": "IN-DL"
+  },
+  {
+    "ip_address": "172.225.137.200/29",
+    "ip_type": "IPv4",
+    "region": "IN-DL"
+  },
+  {
+    "ip_address": "172.225.186.60/30",
+    "ip_type": "IPv4",
+    "region": "IN-DL"
+  },
+  {
+    "ip_address": "172.225.201.8/29",
+    "ip_type": "IPv4",
+    "region": "IN-DL"
+  },
+  {
+    "ip_address": "172.225.218.56/29",
+    "ip_type": "IPv4",
+    "region": "IN-DL"
+  },
+  {
+    "ip_address": "172.225.219.60/30",
+    "ip_type": "IPv4",
+    "region": "IN-DL"
+  },
+  {
     "ip_address": "2606:54c0:3ba0::/45",
     "ip_type": "IPv6",
     "region": "IN-DL"
@@ -580,12 +525,92 @@
     "region": "IN-DL"
   },
   {
-    "ip_address": "2a09:bac2:3ba0::/45",
+    "ip_address": "2a02:26f7:d6c0:400::/54",
     "ip_type": "IPv6",
     "region": "IN-DL"
   },
   {
-    "ip_address": "2a09:bac3:3ba0::/45",
+    "ip_address": "2a02:26f7:d6c0:6801::/64",
+    "ip_type": "IPv6",
+    "region": "IN-DL"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c0:6844::/64",
+    "ip_type": "IPv6",
+    "region": "IN-DL"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c1:400::/54",
+    "ip_type": "IPv6",
+    "region": "IN-DL"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c1:6801::/64",
+    "ip_type": "IPv6",
+    "region": "IN-DL"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c1:6844::/64",
+    "ip_type": "IPv6",
+    "region": "IN-DL"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c4:400::/54",
+    "ip_type": "IPv6",
+    "region": "IN-DL"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c4:6801::/64",
+    "ip_type": "IPv6",
+    "region": "IN-DL"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c4:6844::/64",
+    "ip_type": "IPv6",
+    "region": "IN-DL"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c6:400::/54",
+    "ip_type": "IPv6",
+    "region": "IN-DL"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c6:6801::/64",
+    "ip_type": "IPv6",
+    "region": "IN-DL"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c6:6844::/64",
+    "ip_type": "IPv6",
+    "region": "IN-DL"
+  },
+  {
+    "ip_address": "2a02:26f7:d6cc:400::/54",
+    "ip_type": "IPv6",
+    "region": "IN-DL"
+  },
+  {
+    "ip_address": "2a02:26f7:d6cc:6801::/64",
+    "ip_type": "IPv6",
+    "region": "IN-DL"
+  },
+  {
+    "ip_address": "2a02:26f7:d6cc:6844::/64",
+    "ip_type": "IPv6",
+    "region": "IN-DL"
+  },
+  {
+    "ip_address": "2a02:26f7:d6d0:400::/54",
+    "ip_type": "IPv6",
+    "region": "IN-DL"
+  },
+  {
+    "ip_address": "2a02:26f7:d6d0:6801::/64",
+    "ip_type": "IPv6",
+    "region": "IN-DL"
+  },
+  {
+    "ip_address": "2a02:26f7:d6d0:6844::/64",
     "ip_type": "IPv6",
     "region": "IN-DL"
   },
@@ -625,38 +650,13 @@
     "region": "IN-DL"
   },
   {
-    "ip_address": "140.248.8.8/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:3ba0::/45",
+    "ip_type": "IPv6",
     "region": "IN-DL"
   },
   {
-    "ip_address": "140.248.38.8/31",
-    "ip_type": "IPv4",
-    "region": "IN-DL"
-  },
-  {
-    "ip_address": "146.75.132.40/31",
-    "ip_type": "IPv4",
-    "region": "IN-DL"
-  },
-  {
-    "ip_address": "146.75.160.40/31",
-    "ip_type": "IPv4",
-    "region": "IN-DL"
-  },
-  {
-    "ip_address": "146.75.197.12/31",
-    "ip_type": "IPv4",
-    "region": "IN-DL"
-  },
-  {
-    "ip_address": "146.75.205.8/31",
-    "ip_type": "IPv4",
-    "region": "IN-DL"
-  },
-  {
-    "ip_address": "146.75.214.8/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:3ba0::/45",
+    "ip_type": "IPv6",
     "region": "IN-DL"
   }
 ]

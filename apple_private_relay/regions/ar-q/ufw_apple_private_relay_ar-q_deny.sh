@@ -1,12 +1,15 @@
 #!/bin/bash
 # Apple_private_relay IP Ranges
-# Updated: 2026-05-18 03:21:52
+# Updated: 2026-06-09 22:59:46
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
 # Updates daily at 00:00 UTC
 # UFW deny rules for apple_private_relay
 
+ufw deny from 104.28.144.1/32
+ufw deny from 2606:54c0:a8::/45
+ufw deny from 2606:54c3:0:1588::/64
 ufw deny from 2a02:26f7:d980:404d::/64
 ufw deny from 2a02:26f7:d980:407b::/64
 ufw deny from 2a02:26f7:d980:ec86::/64
@@ -39,8 +42,5 @@ ufw deny from 2a02:26f7:d98c:ecd5::/64
 ufw deny from 2a02:26f7:d98c:ed26::/64
 ufw deny from 2a02:26f7:d98c:ed50::/64
 ufw deny from 2a02:26f7:d98c:ed59::/64
-ufw deny from 104.28.144.1/32
-ufw deny from 2606:54c0:a8::/45
-ufw deny from 2606:54c3:0:1588::/64
 ufw deny from 2a09:bac2:a8::/45
 ufw deny from 2a09:bac3:a8::/45

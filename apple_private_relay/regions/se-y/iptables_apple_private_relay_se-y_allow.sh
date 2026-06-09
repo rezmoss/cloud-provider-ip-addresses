@@ -1,12 +1,22 @@
 #!/bin/bash
 # Apple_private_relay IP Ranges
-# Updated: 2026-02-11 17:28:48
+# Updated: 2026-06-09 22:59:47
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
 # Updates daily at 00:00 UTC
 # iptables allow rules for apple_private_relay
 
+ip6tables -A INPUT -s 2606:54c0:54c8::/45 -j ACCEPT
+ip6tables -A INPUT -s 2606:54c0:54d0::/45 -j ACCEPT
+ip6tables -A INPUT -s 2606:54c0:54d8::/45 -j ACCEPT
+ip6tables -A INPUT -s 2606:54c0:54e0::/45 -j ACCEPT
+ip6tables -A INPUT -s 2606:54c0:54e8::/45 -j ACCEPT
+ip6tables -A INPUT -s 2606:54c3:0:259::/64 -j ACCEPT
+ip6tables -A INPUT -s 2606:54c3:0:d2d::/64 -j ACCEPT
+ip6tables -A INPUT -s 2606:54c3:0:1041::/64 -j ACCEPT
+ip6tables -A INPUT -s 2606:54c3:0:132d::/64 -j ACCEPT
+ip6tables -A INPUT -s 2606:54c3:0:14ad::/64 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:f8c0:e6a6::/64 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:f8c0:e6a7::/64 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:f8c0:e6a8::/64 -j ACCEPT
@@ -151,16 +161,6 @@ ip6tables -A INPUT -s 2a02:26f7:f8e2:e6b2::/64 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:f8e2:e6b3::/64 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:f8e2:e6b4::/64 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:f8e2:e6b5::/64 -j ACCEPT
-ip6tables -A INPUT -s 2606:54c0:54c8::/45 -j ACCEPT
-ip6tables -A INPUT -s 2606:54c0:54d0::/45 -j ACCEPT
-ip6tables -A INPUT -s 2606:54c0:54d8::/45 -j ACCEPT
-ip6tables -A INPUT -s 2606:54c0:54e0::/45 -j ACCEPT
-ip6tables -A INPUT -s 2606:54c0:54e8::/45 -j ACCEPT
-ip6tables -A INPUT -s 2606:54c3:0:259::/64 -j ACCEPT
-ip6tables -A INPUT -s 2606:54c3:0:d2d::/64 -j ACCEPT
-ip6tables -A INPUT -s 2606:54c3:0:1041::/64 -j ACCEPT
-ip6tables -A INPUT -s 2606:54c3:0:132d::/64 -j ACCEPT
-ip6tables -A INPUT -s 2606:54c3:0:14ad::/64 -j ACCEPT
 ip6tables -A INPUT -s 2a09:bac2:54c8::/45 -j ACCEPT
 ip6tables -A INPUT -s 2a09:bac2:54d0::/45 -j ACCEPT
 ip6tables -A INPUT -s 2a09:bac2:54d8::/45 -j ACCEPT

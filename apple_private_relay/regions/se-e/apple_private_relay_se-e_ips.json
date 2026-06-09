@@ -1,5 +1,65 @@
 [
   {
+    "ip_address": "2606:54c0:5268::/45",
+    "ip_type": "IPv6",
+    "region": "SE-E"
+  },
+  {
+    "ip_address": "2606:54c0:5270::/45",
+    "ip_type": "IPv6",
+    "region": "SE-E"
+  },
+  {
+    "ip_address": "2606:54c0:5278::/45",
+    "ip_type": "IPv6",
+    "region": "SE-E"
+  },
+  {
+    "ip_address": "2606:54c0:5280::/45",
+    "ip_type": "IPv6",
+    "region": "SE-E"
+  },
+  {
+    "ip_address": "2606:54c0:5288::/45",
+    "ip_type": "IPv6",
+    "region": "SE-E"
+  },
+  {
+    "ip_address": "2606:54c0:5290::/45",
+    "ip_type": "IPv6",
+    "region": "SE-E"
+  },
+  {
+    "ip_address": "2606:54c3:0:2a1::/64",
+    "ip_type": "IPv6",
+    "region": "SE-E"
+  },
+  {
+    "ip_address": "2606:54c3:0:cbe::/64",
+    "ip_type": "IPv6",
+    "region": "SE-E"
+  },
+  {
+    "ip_address": "2606:54c3:0:1083::/64",
+    "ip_type": "IPv6",
+    "region": "SE-E"
+  },
+  {
+    "ip_address": "2606:54c3:0:1235::/64",
+    "ip_type": "IPv6",
+    "region": "SE-E"
+  },
+  {
+    "ip_address": "2606:54c3:0:1722::/64",
+    "ip_type": "IPv6",
+    "region": "SE-E"
+  },
+  {
+    "ip_address": "2606:54c3:0:18cc::/64",
+    "ip_type": "IPv6",
+    "region": "SE-E"
+  },
+  {
     "ip_address": "2a02:26f7:f8c0:e608::/64",
     "ip_type": "IPv6",
     "region": "SE-E"
@@ -356,66 +416,6 @@
   },
   {
     "ip_address": "2a02:26f7:f8e2:e60f::/64",
-    "ip_type": "IPv6",
-    "region": "SE-E"
-  },
-  {
-    "ip_address": "2606:54c0:5268::/45",
-    "ip_type": "IPv6",
-    "region": "SE-E"
-  },
-  {
-    "ip_address": "2606:54c0:5270::/45",
-    "ip_type": "IPv6",
-    "region": "SE-E"
-  },
-  {
-    "ip_address": "2606:54c0:5278::/45",
-    "ip_type": "IPv6",
-    "region": "SE-E"
-  },
-  {
-    "ip_address": "2606:54c0:5280::/45",
-    "ip_type": "IPv6",
-    "region": "SE-E"
-  },
-  {
-    "ip_address": "2606:54c0:5288::/45",
-    "ip_type": "IPv6",
-    "region": "SE-E"
-  },
-  {
-    "ip_address": "2606:54c0:5290::/45",
-    "ip_type": "IPv6",
-    "region": "SE-E"
-  },
-  {
-    "ip_address": "2606:54c3:0:2a1::/64",
-    "ip_type": "IPv6",
-    "region": "SE-E"
-  },
-  {
-    "ip_address": "2606:54c3:0:cbe::/64",
-    "ip_type": "IPv6",
-    "region": "SE-E"
-  },
-  {
-    "ip_address": "2606:54c3:0:1083::/64",
-    "ip_type": "IPv6",
-    "region": "SE-E"
-  },
-  {
-    "ip_address": "2606:54c3:0:1235::/64",
-    "ip_type": "IPv6",
-    "region": "SE-E"
-  },
-  {
-    "ip_address": "2606:54c3:0:1722::/64",
-    "ip_type": "IPv6",
-    "region": "SE-E"
-  },
-  {
-    "ip_address": "2606:54c3:0:18cc::/64",
     "ip_type": "IPv6",
     "region": "SE-E"
   },

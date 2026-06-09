@@ -1,12 +1,32 @@
 #!/bin/bash
 # Apple_private_relay IP Ranges
-# Updated: 2026-02-11 17:28:47
+# Updated: 2026-06-09 22:59:41
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
 # Updates daily at 00:00 UTC
 # UFW deny rules for apple_private_relay
 
+ufw deny from 104.28.34.168/32
+ufw deny from 104.28.34.169/32
+ufw deny from 104.28.34.170/32
+ufw deny from 104.28.34.171/32
+ufw deny from 104.28.42.86/32
+ufw deny from 104.28.42.87/32
+ufw deny from 104.28.42.88/32
+ufw deny from 104.28.42.89/32
+ufw deny from 104.28.87.107/32
+ufw deny from 104.28.87.108/32
+ufw deny from 104.28.87.109/32
+ufw deny from 104.28.87.110/32
+ufw deny from 104.28.88.130/32
+ufw deny from 104.28.88.131/32
+ufw deny from 104.28.88.132/32
+ufw deny from 104.28.88.133/32
+ufw deny from 104.28.96.154/32
+ufw deny from 104.28.96.155/32
+ufw deny from 104.28.96.156/32
+ufw deny from 104.28.96.157/32
 ufw deny from 172.225.162.32/27
 ufw deny from 172.225.163.48/29
 ufw deny from 172.225.228.64/26
@@ -18,6 +38,8 @@ ufw deny from 172.226.116.0/27
 ufw deny from 172.226.116.48/29
 ufw deny from 172.226.226.0/28
 ufw deny from 172.226.226.28/30
+ufw deny from 2606:54c0:3130::/45
+ufw deny from 2606:54c3:0:1a7f::/64
 ufw deny from 2a02:26f7:ef00:400::/54
 ufw deny from 2a02:26f7:ef00:910::/60
 ufw deny from 2a02:26f7:ef00:5905::/64
@@ -105,27 +127,5 @@ ufw deny from 2a02:26f7:ef14:59c5::/64
 ufw deny from 2a02:26f7:ef14:59e1::/64
 ufw deny from 2a02:26f7:ef14:59ff::/64
 ufw deny from 2a02:26f7:ef15:4000::/64
-ufw deny from 104.28.34.168/32
-ufw deny from 104.28.34.169/32
-ufw deny from 104.28.34.170/32
-ufw deny from 104.28.34.171/32
-ufw deny from 104.28.42.86/32
-ufw deny from 104.28.42.87/32
-ufw deny from 104.28.42.88/32
-ufw deny from 104.28.42.89/32
-ufw deny from 104.28.87.107/32
-ufw deny from 104.28.87.108/32
-ufw deny from 104.28.87.109/32
-ufw deny from 104.28.87.110/32
-ufw deny from 104.28.88.130/32
-ufw deny from 104.28.88.131/32
-ufw deny from 104.28.88.132/32
-ufw deny from 104.28.88.133/32
-ufw deny from 104.28.96.154/32
-ufw deny from 104.28.96.155/32
-ufw deny from 104.28.96.156/32
-ufw deny from 104.28.96.157/32
-ufw deny from 2606:54c0:3130::/45
-ufw deny from 2606:54c3:0:1a7f::/64
 ufw deny from 2a09:bac2:3130::/45
 ufw deny from 2a09:bac3:3130::/45

@@ -150,22 +150,27 @@
     "region": "RU-MOW"
   },
   {
+    "ip_address": "140.248.34.200/31",
+    "ip_type": "IPv4",
+    "region": "RU-MOW"
+  },
+  {
+    "ip_address": "140.248.36.254/31",
+    "ip_type": "IPv4",
+    "region": "RU-MOW"
+  },
+  {
+    "ip_address": "146.75.169.200/31",
+    "ip_type": "IPv4",
+    "region": "RU-MOW"
+  },
+  {
     "ip_address": "2606:54c0:50c0::/45",
     "ip_type": "IPv6",
     "region": "RU-MOW"
   },
   {
     "ip_address": "2606:54c3:0:14e6::/64",
-    "ip_type": "IPv6",
-    "region": "RU-MOW"
-  },
-  {
-    "ip_address": "2a09:bac2:50c0::/45",
-    "ip_type": "IPv6",
-    "region": "RU-MOW"
-  },
-  {
-    "ip_address": "2a09:bac3:50c0::/45",
     "ip_type": "IPv6",
     "region": "RU-MOW"
   },
@@ -185,18 +190,13 @@
     "region": "RU-MOW"
   },
   {
-    "ip_address": "140.248.34.200/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:50c0::/45",
+    "ip_type": "IPv6",
     "region": "RU-MOW"
   },
   {
-    "ip_address": "140.248.36.254/31",
-    "ip_type": "IPv4",
-    "region": "RU-MOW"
-  },
-  {
-    "ip_address": "146.75.169.200/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:50c0::/45",
+    "ip_type": "IPv6",
     "region": "RU-MOW"
   }
 ]

@@ -1,5 +1,25 @@
 [
   {
+    "ip_address": "2606:54c0:4340::/45",
+    "ip_type": "IPv6",
+    "region": "JP-08"
+  },
+  {
+    "ip_address": "2606:54c0:4348::/45",
+    "ip_type": "IPv6",
+    "region": "JP-08"
+  },
+  {
+    "ip_address": "2606:54c3:0:1051::/64",
+    "ip_type": "IPv6",
+    "region": "JP-08"
+  },
+  {
+    "ip_address": "2606:54c3:0:1730::/64",
+    "ip_type": "IPv6",
+    "region": "JP-08"
+  },
+  {
     "ip_address": "2a02:26f7:b980:605f::/64",
     "ip_type": "IPv6",
     "region": "JP-08"
@@ -416,26 +436,6 @@
   },
   {
     "ip_address": "2a02:26f7:b9b4:6064::/64",
-    "ip_type": "IPv6",
-    "region": "JP-08"
-  },
-  {
-    "ip_address": "2606:54c0:4340::/45",
-    "ip_type": "IPv6",
-    "region": "JP-08"
-  },
-  {
-    "ip_address": "2606:54c0:4348::/45",
-    "ip_type": "IPv6",
-    "region": "JP-08"
-  },
-  {
-    "ip_address": "2606:54c3:0:1051::/64",
-    "ip_type": "IPv6",
-    "region": "JP-08"
-  },
-  {
-    "ip_address": "2606:54c3:0:1730::/64",
     "ip_type": "IPv6",
     "region": "JP-08"
   },

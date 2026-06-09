@@ -15,6 +15,11 @@
     "service": "zoom"
   },
   {
+    "ip_address": "8.5.128.0/24",
+    "ip_type": "IPv4",
+    "service": "zoom-phone"
+  },
+  {
     "ip_address": "15.220.80.0/24",
     "ip_type": "IPv4",
     "service": "zoom"
@@ -48,6 +53,11 @@
     "ip_address": "52.61.100.128/25",
     "ip_type": "IPv4",
     "service": "zoom"
+  },
+  {
+    "ip_address": "52.84.151.0/24",
+    "ip_type": "IPv4",
+    "service": "zoom-cdn"
   },
   {
     "ip_address": "64.211.144.0/24",
@@ -110,9 +120,19 @@
     "service": "zoom"
   },
   {
+    "ip_address": "115.117.119.96/27",
+    "ip_type": "IPv4",
+    "service": "zoom-phone"
+  },
+  {
     "ip_address": "121.244.146.0/27",
     "ip_type": "IPv4",
     "service": "zoom"
+  },
+  {
+    "ip_address": "121.244.203.192/27",
+    "ip_type": "IPv4",
+    "service": "zoom-phone"
   },
   {
     "ip_address": "134.224.0.0/16",
@@ -185,9 +205,29 @@
     "service": "zoom"
   },
   {
+    "ip_address": "170.114.45.0/24",
+    "ip_type": "IPv4",
+    "service": "zoom-cdn"
+  },
+  {
+    "ip_address": "170.114.46.0/24",
+    "ip_type": "IPv4",
+    "service": "zoom-cdn"
+  },
+  {
     "ip_address": "173.231.80.0/20",
     "ip_type": "IPv4",
     "service": "zoom"
+  },
+  {
+    "ip_address": "173.231.92.0/24",
+    "ip_type": "IPv4",
+    "service": "zoom-phone"
+  },
+  {
+    "ip_address": "173.231.94.0/24",
+    "ip_type": "IPv4",
+    "service": "zoom-phone"
   },
   {
     "ip_address": "192.204.12.0/22",
@@ -243,46 +283,6 @@
     "ip_address": "221.123.139.192/27",
     "ip_type": "IPv4",
     "service": "zoom"
-  },
-  {
-    "ip_address": "8.5.128.0/24",
-    "ip_type": "IPv4",
-    "service": "zoom-phone"
-  },
-  {
-    "ip_address": "115.117.119.96/27",
-    "ip_type": "IPv4",
-    "service": "zoom-phone"
-  },
-  {
-    "ip_address": "121.244.203.192/27",
-    "ip_type": "IPv4",
-    "service": "zoom-phone"
-  },
-  {
-    "ip_address": "173.231.92.0/24",
-    "ip_type": "IPv4",
-    "service": "zoom-phone"
-  },
-  {
-    "ip_address": "173.231.94.0/24",
-    "ip_type": "IPv4",
-    "service": "zoom-phone"
-  },
-  {
-    "ip_address": "52.84.151.0/24",
-    "ip_type": "IPv4",
-    "service": "zoom-cdn"
-  },
-  {
-    "ip_address": "170.114.45.0/24",
-    "ip_type": "IPv4",
-    "service": "zoom-cdn"
-  },
-  {
-    "ip_address": "170.114.46.0/24",
-    "ip_type": "IPv4",
-    "service": "zoom-cdn"
   },
   {
     "ip_address": "2407:30c0:180::/48",

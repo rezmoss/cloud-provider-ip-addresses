@@ -1,25 +1,5 @@
 [
   {
-    "ip_address": "2a02:26f7:c5c0:4f90::/64",
-    "ip_type": "IPv6",
-    "region": "VN-HP"
-  },
-  {
-    "ip_address": "2a02:26f7:c5c4:4f90::/64",
-    "ip_type": "IPv6",
-    "region": "VN-HP"
-  },
-  {
-    "ip_address": "2a02:26f7:c5c5:4f90::/64",
-    "ip_type": "IPv6",
-    "region": "VN-HP"
-  },
-  {
-    "ip_address": "2a02:26f7:c5c8:4f90::/64",
-    "ip_type": "IPv6",
-    "region": "VN-HP"
-  },
-  {
     "ip_address": "104.28.44.183/32",
     "ip_type": "IPv4",
     "region": "VN-HP"
@@ -116,6 +96,26 @@
   },
   {
     "ip_address": "2606:54c3:0:e86::/64",
+    "ip_type": "IPv6",
+    "region": "VN-HP"
+  },
+  {
+    "ip_address": "2a02:26f7:c5c0:4f90::/64",
+    "ip_type": "IPv6",
+    "region": "VN-HP"
+  },
+  {
+    "ip_address": "2a02:26f7:c5c4:4f90::/64",
+    "ip_type": "IPv6",
+    "region": "VN-HP"
+  },
+  {
+    "ip_address": "2a02:26f7:c5c5:4f90::/64",
+    "ip_type": "IPv6",
+    "region": "VN-HP"
+  },
+  {
+    "ip_address": "2a02:26f7:c5c8:4f90::/64",
     "ip_type": "IPv6",
     "region": "VN-HP"
   },

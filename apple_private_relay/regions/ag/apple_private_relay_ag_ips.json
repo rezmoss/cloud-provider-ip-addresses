@@ -1,5 +1,40 @@
 [
   {
+    "ip_address": "104.28.76.1/32",
+    "ip_type": "IPv4",
+    "region": "AG"
+  },
+  {
+    "ip_address": "104.28.76.47/32",
+    "ip_type": "IPv4",
+    "region": "AG"
+  },
+  {
+    "ip_address": "104.28.92.1/32",
+    "ip_type": "IPv4",
+    "region": "AG"
+  },
+  {
+    "ip_address": "140.248.12.2/31",
+    "ip_type": "IPv4",
+    "region": "AG"
+  },
+  {
+    "ip_address": "140.248.44.2/31",
+    "ip_type": "IPv4",
+    "region": "AG"
+  },
+  {
+    "ip_address": "146.75.232.2/31",
+    "ip_type": "IPv4",
+    "region": "AG"
+  },
+  {
+    "ip_address": "146.75.248.2/31",
+    "ip_type": "IPv4",
+    "region": "AG"
+  },
+  {
     "ip_address": "172.225.92.0/28",
     "ip_type": "IPv4",
     "region": "AG"
@@ -22,6 +57,16 @@
   {
     "ip_address": "172.226.191.160/27",
     "ip_type": "IPv4",
+    "region": "AG"
+  },
+  {
+    "ip_address": "2606:54c0:40::/45",
+    "ip_type": "IPv6",
+    "region": "AG"
+  },
+  {
+    "ip_address": "2606:54c3:0:1326::/64",
+    "ip_type": "IPv6",
     "region": "AG"
   },
   {
@@ -125,41 +170,6 @@
     "region": "AG"
   },
   {
-    "ip_address": "104.28.76.1/32",
-    "ip_type": "IPv4",
-    "region": "AG"
-  },
-  {
-    "ip_address": "104.28.76.47/32",
-    "ip_type": "IPv4",
-    "region": "AG"
-  },
-  {
-    "ip_address": "104.28.92.1/32",
-    "ip_type": "IPv4",
-    "region": "AG"
-  },
-  {
-    "ip_address": "2606:54c0:40::/45",
-    "ip_type": "IPv6",
-    "region": "AG"
-  },
-  {
-    "ip_address": "2606:54c3:0:1326::/64",
-    "ip_type": "IPv6",
-    "region": "AG"
-  },
-  {
-    "ip_address": "2a09:bac2:40::/45",
-    "ip_type": "IPv6",
-    "region": "AG"
-  },
-  {
-    "ip_address": "2a09:bac3:40::/45",
-    "ip_type": "IPv6",
-    "region": "AG"
-  },
-  {
     "ip_address": "2a04:4e41:3a12::/48",
     "ip_type": "IPv6",
     "region": "AG"
@@ -180,23 +190,13 @@
     "region": "AG"
   },
   {
-    "ip_address": "140.248.12.2/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:40::/45",
+    "ip_type": "IPv6",
     "region": "AG"
   },
   {
-    "ip_address": "140.248.44.2/31",
-    "ip_type": "IPv4",
-    "region": "AG"
-  },
-  {
-    "ip_address": "146.75.232.2/31",
-    "ip_type": "IPv4",
-    "region": "AG"
-  },
-  {
-    "ip_address": "146.75.248.2/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:40::/45",
+    "ip_type": "IPv6",
     "region": "AG"
   }
 ]

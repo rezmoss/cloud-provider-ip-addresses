@@ -24,24 +24,6 @@
     "region": "eu-marseille-1"
   },
   {
-    "ip_address": "129.151.224.0/19",
-    "ip_type": "IPv4",
-    "service": "OCI",
-    "region": "eu-marseille-1"
-  },
-  {
-    "ip_address": "130.110.240.0/20",
-    "ip_type": "IPv4",
-    "service": "OCI",
-    "region": "eu-marseille-1"
-  },
-  {
-    "ip_address": "144.24.192.0/20",
-    "ip_type": "IPv4",
-    "service": "OCI",
-    "region": "eu-marseille-1"
-  },
-  {
     "ip_address": "129.149.96.0/22",
     "ip_type": "IPv4",
     "service": "OSN",
@@ -51,6 +33,18 @@
     "ip_address": "129.149.100.0/25",
     "ip_type": "IPv4",
     "service": "OSN",
+    "region": "eu-marseille-1"
+  },
+  {
+    "ip_address": "129.151.224.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "eu-marseille-1"
+  },
+  {
+    "ip_address": "130.110.240.0/20",
+    "ip_type": "IPv4",
+    "service": "OCI",
     "region": "eu-marseille-1"
   },
   {
@@ -75,6 +69,12 @@
     "ip_address": "141.253.214.0/24",
     "ip_type": "IPv4",
     "service": "OSN",
+    "region": "eu-marseille-1"
+  },
+  {
+    "ip_address": "144.24.192.0/20",
+    "ip_type": "IPv4",
+    "service": "OCI",
     "region": "eu-marseille-1"
   },
   {

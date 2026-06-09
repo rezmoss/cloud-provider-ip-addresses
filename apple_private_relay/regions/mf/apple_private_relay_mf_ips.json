@@ -1,5 +1,45 @@
 [
   {
+    "ip_address": "104.28.42.152/32",
+    "ip_type": "IPv4",
+    "region": "MF"
+  },
+  {
+    "ip_address": "104.28.42.153/32",
+    "ip_type": "IPv4",
+    "region": "MF"
+  },
+  {
+    "ip_address": "104.28.42.154/32",
+    "ip_type": "IPv4",
+    "region": "MF"
+  },
+  {
+    "ip_address": "104.28.42.155/32",
+    "ip_type": "IPv4",
+    "region": "MF"
+  },
+  {
+    "ip_address": "104.28.92.140/32",
+    "ip_type": "IPv4",
+    "region": "MF"
+  },
+  {
+    "ip_address": "140.248.4.46/31",
+    "ip_type": "IPv4",
+    "region": "MF"
+  },
+  {
+    "ip_address": "140.248.44.70/31",
+    "ip_type": "IPv4",
+    "region": "MF"
+  },
+  {
+    "ip_address": "146.75.208.14/31",
+    "ip_type": "IPv4",
+    "region": "MF"
+  },
+  {
     "ip_address": "172.225.22.32/28",
     "ip_type": "IPv4",
     "region": "MF"
@@ -22,6 +62,16 @@
   {
     "ip_address": "172.226.84.48/28",
     "ip_type": "IPv4",
+    "region": "MF"
+  },
+  {
+    "ip_address": "2606:54c0:4850::/45",
+    "ip_type": "IPv6",
+    "region": "MF"
+  },
+  {
+    "ip_address": "2606:54c3:0:9dc::/64",
+    "ip_type": "IPv6",
     "region": "MF"
   },
   {
@@ -100,51 +150,6 @@
     "region": "MF"
   },
   {
-    "ip_address": "104.28.42.152/32",
-    "ip_type": "IPv4",
-    "region": "MF"
-  },
-  {
-    "ip_address": "104.28.42.153/32",
-    "ip_type": "IPv4",
-    "region": "MF"
-  },
-  {
-    "ip_address": "104.28.42.154/32",
-    "ip_type": "IPv4",
-    "region": "MF"
-  },
-  {
-    "ip_address": "104.28.42.155/32",
-    "ip_type": "IPv4",
-    "region": "MF"
-  },
-  {
-    "ip_address": "104.28.92.140/32",
-    "ip_type": "IPv4",
-    "region": "MF"
-  },
-  {
-    "ip_address": "2606:54c0:4850::/45",
-    "ip_type": "IPv6",
-    "region": "MF"
-  },
-  {
-    "ip_address": "2606:54c3:0:9dc::/64",
-    "ip_type": "IPv6",
-    "region": "MF"
-  },
-  {
-    "ip_address": "2a09:bac2:4850::/45",
-    "ip_type": "IPv6",
-    "region": "MF"
-  },
-  {
-    "ip_address": "2a09:bac3:4850::/45",
-    "ip_type": "IPv6",
-    "region": "MF"
-  },
-  {
     "ip_address": "2a04:4e41:184::/48",
     "ip_type": "IPv6",
     "region": "MF"
@@ -160,18 +165,13 @@
     "region": "MF"
   },
   {
-    "ip_address": "140.248.4.46/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:4850::/45",
+    "ip_type": "IPv6",
     "region": "MF"
   },
   {
-    "ip_address": "140.248.44.70/31",
-    "ip_type": "IPv4",
-    "region": "MF"
-  },
-  {
-    "ip_address": "146.75.208.14/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:4850::/45",
+    "ip_type": "IPv6",
     "region": "MF"
   }
 ]

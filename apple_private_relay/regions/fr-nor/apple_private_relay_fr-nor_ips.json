@@ -1,5 +1,55 @@
 [
   {
+    "ip_address": "104.28.30.33/32",
+    "ip_type": "IPv4",
+    "region": "FR-NOR"
+  },
+  {
+    "ip_address": "104.28.30.34/32",
+    "ip_type": "IPv4",
+    "region": "FR-NOR"
+  },
+  {
+    "ip_address": "104.28.40.31/32",
+    "ip_type": "IPv4",
+    "region": "FR-NOR"
+  },
+  {
+    "ip_address": "104.28.40.32/32",
+    "ip_type": "IPv4",
+    "region": "FR-NOR"
+  },
+  {
+    "ip_address": "104.28.42.41/32",
+    "ip_type": "IPv4",
+    "region": "FR-NOR"
+  },
+  {
+    "ip_address": "104.28.42.42/32",
+    "ip_type": "IPv4",
+    "region": "FR-NOR"
+  },
+  {
+    "ip_address": "104.28.54.29/32",
+    "ip_type": "IPv4",
+    "region": "FR-NOR"
+  },
+  {
+    "ip_address": "104.28.54.30/32",
+    "ip_type": "IPv4",
+    "region": "FR-NOR"
+  },
+  {
+    "ip_address": "104.28.86.25/32",
+    "ip_type": "IPv4",
+    "region": "FR-NOR"
+  },
+  {
+    "ip_address": "104.28.86.26/32",
+    "ip_type": "IPv4",
+    "region": "FR-NOR"
+  },
+  {
     "ip_address": "172.225.116.168/31",
     "ip_type": "IPv4",
     "region": "FR-NOR"
@@ -27,6 +77,96 @@
   {
     "ip_address": "172.226.208.56/31",
     "ip_type": "IPv4",
+    "region": "FR-NOR"
+  },
+  {
+    "ip_address": "2606:54c0:3530::/45",
+    "ip_type": "IPv6",
+    "region": "FR-NOR"
+  },
+  {
+    "ip_address": "2606:54c0:3538::/45",
+    "ip_type": "IPv6",
+    "region": "FR-NOR"
+  },
+  {
+    "ip_address": "2606:54c0:3540::/45",
+    "ip_type": "IPv6",
+    "region": "FR-NOR"
+  },
+  {
+    "ip_address": "2606:54c0:3548::/45",
+    "ip_type": "IPv6",
+    "region": "FR-NOR"
+  },
+  {
+    "ip_address": "2606:54c0:3550::/45",
+    "ip_type": "IPv6",
+    "region": "FR-NOR"
+  },
+  {
+    "ip_address": "2606:54c0:3558::/45",
+    "ip_type": "IPv6",
+    "region": "FR-NOR"
+  },
+  {
+    "ip_address": "2606:54c0:3560::/45",
+    "ip_type": "IPv6",
+    "region": "FR-NOR"
+  },
+  {
+    "ip_address": "2606:54c0:3568::/45",
+    "ip_type": "IPv6",
+    "region": "FR-NOR"
+  },
+  {
+    "ip_address": "2606:54c0:3570::/45",
+    "ip_type": "IPv6",
+    "region": "FR-NOR"
+  },
+  {
+    "ip_address": "2606:54c3:0:ec::/64",
+    "ip_type": "IPv6",
+    "region": "FR-NOR"
+  },
+  {
+    "ip_address": "2606:54c3:0:6af::/64",
+    "ip_type": "IPv6",
+    "region": "FR-NOR"
+  },
+  {
+    "ip_address": "2606:54c3:0:6ec::/64",
+    "ip_type": "IPv6",
+    "region": "FR-NOR"
+  },
+  {
+    "ip_address": "2606:54c3:0:f7a::/64",
+    "ip_type": "IPv6",
+    "region": "FR-NOR"
+  },
+  {
+    "ip_address": "2606:54c3:0:11a8::/64",
+    "ip_type": "IPv6",
+    "region": "FR-NOR"
+  },
+  {
+    "ip_address": "2606:54c3:0:1206::/64",
+    "ip_type": "IPv6",
+    "region": "FR-NOR"
+  },
+  {
+    "ip_address": "2606:54c3:0:1392::/64",
+    "ip_type": "IPv6",
+    "region": "FR-NOR"
+  },
+  {
+    "ip_address": "2606:54c3:0:16ad::/64",
+    "ip_type": "IPv6",
+    "region": "FR-NOR"
+  },
+  {
+    "ip_address": "2606:54c3:0:19cc::/64",
+    "ip_type": "IPv6",
     "region": "FR-NOR"
   },
   {
@@ -1166,146 +1306,6 @@
   },
   {
     "ip_address": "2a02:26f7:c9d4:6576::/64",
-    "ip_type": "IPv6",
-    "region": "FR-NOR"
-  },
-  {
-    "ip_address": "104.28.30.33/32",
-    "ip_type": "IPv4",
-    "region": "FR-NOR"
-  },
-  {
-    "ip_address": "104.28.30.34/32",
-    "ip_type": "IPv4",
-    "region": "FR-NOR"
-  },
-  {
-    "ip_address": "104.28.40.31/32",
-    "ip_type": "IPv4",
-    "region": "FR-NOR"
-  },
-  {
-    "ip_address": "104.28.40.32/32",
-    "ip_type": "IPv4",
-    "region": "FR-NOR"
-  },
-  {
-    "ip_address": "104.28.42.41/32",
-    "ip_type": "IPv4",
-    "region": "FR-NOR"
-  },
-  {
-    "ip_address": "104.28.42.42/32",
-    "ip_type": "IPv4",
-    "region": "FR-NOR"
-  },
-  {
-    "ip_address": "104.28.54.29/32",
-    "ip_type": "IPv4",
-    "region": "FR-NOR"
-  },
-  {
-    "ip_address": "104.28.54.30/32",
-    "ip_type": "IPv4",
-    "region": "FR-NOR"
-  },
-  {
-    "ip_address": "104.28.86.25/32",
-    "ip_type": "IPv4",
-    "region": "FR-NOR"
-  },
-  {
-    "ip_address": "104.28.86.26/32",
-    "ip_type": "IPv4",
-    "region": "FR-NOR"
-  },
-  {
-    "ip_address": "2606:54c0:3530::/45",
-    "ip_type": "IPv6",
-    "region": "FR-NOR"
-  },
-  {
-    "ip_address": "2606:54c0:3538::/45",
-    "ip_type": "IPv6",
-    "region": "FR-NOR"
-  },
-  {
-    "ip_address": "2606:54c0:3540::/45",
-    "ip_type": "IPv6",
-    "region": "FR-NOR"
-  },
-  {
-    "ip_address": "2606:54c0:3548::/45",
-    "ip_type": "IPv6",
-    "region": "FR-NOR"
-  },
-  {
-    "ip_address": "2606:54c0:3550::/45",
-    "ip_type": "IPv6",
-    "region": "FR-NOR"
-  },
-  {
-    "ip_address": "2606:54c0:3558::/45",
-    "ip_type": "IPv6",
-    "region": "FR-NOR"
-  },
-  {
-    "ip_address": "2606:54c0:3560::/45",
-    "ip_type": "IPv6",
-    "region": "FR-NOR"
-  },
-  {
-    "ip_address": "2606:54c0:3568::/45",
-    "ip_type": "IPv6",
-    "region": "FR-NOR"
-  },
-  {
-    "ip_address": "2606:54c0:3570::/45",
-    "ip_type": "IPv6",
-    "region": "FR-NOR"
-  },
-  {
-    "ip_address": "2606:54c3:0:ec::/64",
-    "ip_type": "IPv6",
-    "region": "FR-NOR"
-  },
-  {
-    "ip_address": "2606:54c3:0:6af::/64",
-    "ip_type": "IPv6",
-    "region": "FR-NOR"
-  },
-  {
-    "ip_address": "2606:54c3:0:6ec::/64",
-    "ip_type": "IPv6",
-    "region": "FR-NOR"
-  },
-  {
-    "ip_address": "2606:54c3:0:f7a::/64",
-    "ip_type": "IPv6",
-    "region": "FR-NOR"
-  },
-  {
-    "ip_address": "2606:54c3:0:11a8::/64",
-    "ip_type": "IPv6",
-    "region": "FR-NOR"
-  },
-  {
-    "ip_address": "2606:54c3:0:1206::/64",
-    "ip_type": "IPv6",
-    "region": "FR-NOR"
-  },
-  {
-    "ip_address": "2606:54c3:0:1392::/64",
-    "ip_type": "IPv6",
-    "region": "FR-NOR"
-  },
-  {
-    "ip_address": "2606:54c3:0:16ad::/64",
-    "ip_type": "IPv6",
-    "region": "FR-NOR"
-  },
-  {
-    "ip_address": "2606:54c3:0:19cc::/64",
     "ip_type": "IPv6",
     "region": "FR-NOR"
   },

@@ -1,5 +1,30 @@
 [
   {
+    "ip_address": "140.248.24.28/31",
+    "ip_type": "IPv4",
+    "region": "FR-BRE"
+  },
+  {
+    "ip_address": "140.248.34.82/31",
+    "ip_type": "IPv4",
+    "region": "FR-BRE"
+  },
+  {
+    "ip_address": "140.248.41.28/31",
+    "ip_type": "IPv4",
+    "region": "FR-BRE"
+  },
+  {
+    "ip_address": "146.75.166.52/31",
+    "ip_type": "IPv4",
+    "region": "FR-BRE"
+  },
+  {
+    "ip_address": "146.75.169.82/31",
+    "ip_type": "IPv4",
+    "region": "FR-BRE"
+  },
+  {
     "ip_address": "172.225.116.174/31",
     "ip_type": "IPv4",
     "region": "FR-BRE"
@@ -652,31 +677,6 @@
   {
     "ip_address": "2a04:4e41:5601:b000::/52",
     "ip_type": "IPv6",
-    "region": "FR-BRE"
-  },
-  {
-    "ip_address": "140.248.24.28/31",
-    "ip_type": "IPv4",
-    "region": "FR-BRE"
-  },
-  {
-    "ip_address": "140.248.34.82/31",
-    "ip_type": "IPv4",
-    "region": "FR-BRE"
-  },
-  {
-    "ip_address": "140.248.41.28/31",
-    "ip_type": "IPv4",
-    "region": "FR-BRE"
-  },
-  {
-    "ip_address": "146.75.166.52/31",
-    "ip_type": "IPv4",
-    "region": "FR-BRE"
-  },
-  {
-    "ip_address": "146.75.169.82/31",
-    "ip_type": "IPv4",
     "region": "FR-BRE"
   }
 ]

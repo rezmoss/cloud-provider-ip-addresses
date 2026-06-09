@@ -1,6 +1,6 @@
 #!/bin/bash
 # Apple_private_relay IP Ranges
-# Updated: 2026-02-11 17:28:49
+# Updated: 2026-06-09 22:59:45
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -66,6 +66,12 @@ iptables -A INPUT -s 104.28.150.159/32 -j DROP
 iptables -A INPUT -s 104.28.150.235/32 -j DROP
 iptables -A INPUT -s 104.28.150.248/32 -j DROP
 iptables -A INPUT -s 104.28.151.220/32 -j DROP
+iptables -A INPUT -s 140.248.24.12/31 -j DROP
+iptables -A INPUT -s 140.248.41.12/31 -j DROP
+iptables -A INPUT -s 146.75.168.26/31 -j DROP
+iptables -A INPUT -s 146.75.182.14/31 -j DROP
+iptables -A INPUT -s 146.75.185.26/31 -j DROP
+iptables -A INPUT -s 146.75.210.14/31 -j DROP
 ip6tables -A INPUT -s 2606:54c0:3088::/45 -j DROP
 ip6tables -A INPUT -s 2606:54c0:3090::/45 -j DROP
 ip6tables -A INPUT -s 2606:54c0:3098::/45 -j DROP
@@ -90,6 +96,12 @@ ip6tables -A INPUT -s 2606:54c3:0:1059::/64 -j DROP
 ip6tables -A INPUT -s 2606:54c3:0:12d3::/64 -j DROP
 ip6tables -A INPUT -s 2606:54c3:0:1511::/64 -j DROP
 ip6tables -A INPUT -s 2606:54c3:0:15ec::/64 -j DROP
+ip6tables -A INPUT -s 2a04:4e41:880::/41 -j DROP
+ip6tables -A INPUT -s 2a04:4e41:1680::/41 -j DROP
+ip6tables -A INPUT -s 2a04:4e41:4180::/41 -j DROP
+ip6tables -A INPUT -s 2a04:4e41:4880::/41 -j DROP
+ip6tables -A INPUT -s 2a04:4e41:7480::/41 -j DROP
+ip6tables -A INPUT -s 2a04:4e41:7880::/41 -j DROP
 ip6tables -A INPUT -s 2a09:bac2:3088::/45 -j DROP
 ip6tables -A INPUT -s 2a09:bac2:3090::/45 -j DROP
 ip6tables -A INPUT -s 2a09:bac2:3098::/45 -j DROP
@@ -114,15 +126,3 @@ ip6tables -A INPUT -s 2a09:bac3:30c8::/45 -j DROP
 ip6tables -A INPUT -s 2a09:bac3:30d0::/45 -j DROP
 ip6tables -A INPUT -s 2a09:bac3:30d8::/45 -j DROP
 ip6tables -A INPUT -s 2a09:bac3:30e0::/45 -j DROP
-ip6tables -A INPUT -s 2a04:4e41:880::/41 -j DROP
-ip6tables -A INPUT -s 2a04:4e41:1680::/41 -j DROP
-ip6tables -A INPUT -s 2a04:4e41:4180::/41 -j DROP
-ip6tables -A INPUT -s 2a04:4e41:4880::/41 -j DROP
-ip6tables -A INPUT -s 2a04:4e41:7480::/41 -j DROP
-ip6tables -A INPUT -s 2a04:4e41:7880::/41 -j DROP
-iptables -A INPUT -s 140.248.24.12/31 -j DROP
-iptables -A INPUT -s 140.248.41.12/31 -j DROP
-iptables -A INPUT -s 146.75.168.26/31 -j DROP
-iptables -A INPUT -s 146.75.182.14/31 -j DROP
-iptables -A INPUT -s 146.75.185.26/31 -j DROP
-iptables -A INPUT -s 146.75.210.14/31 -j DROP

@@ -12,12 +12,6 @@
     "region": "ap-singapore-2"
   },
   {
-    "ip_address": "217.142.184.0/21",
-    "ip_type": "IPv4",
-    "service": "OCI",
-    "region": "ap-singapore-2"
-  },
-  {
     "ip_address": "159.13.0.0/22",
     "ip_type": "IPv4",
     "service": "OSN",
@@ -57,6 +51,12 @@
     "ip_address": "217.142.178.128/25",
     "ip_type": "IPv4",
     "service": "OSN",
+    "region": "ap-singapore-2"
+  },
+  {
+    "ip_address": "217.142.184.0/21",
+    "ip_type": "IPv4",
+    "service": "OCI",
     "region": "ap-singapore-2"
   }
 ]

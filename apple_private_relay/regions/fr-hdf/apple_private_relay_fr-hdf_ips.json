@@ -30,6 +30,176 @@
     "region": "FR-HDF"
   },
   {
+    "ip_address": "2606:54c0:33c8::/45",
+    "ip_type": "IPv6",
+    "region": "FR-HDF"
+  },
+  {
+    "ip_address": "2606:54c0:33d0::/45",
+    "ip_type": "IPv6",
+    "region": "FR-HDF"
+  },
+  {
+    "ip_address": "2606:54c0:33d8::/45",
+    "ip_type": "IPv6",
+    "region": "FR-HDF"
+  },
+  {
+    "ip_address": "2606:54c0:33e0::/45",
+    "ip_type": "IPv6",
+    "region": "FR-HDF"
+  },
+  {
+    "ip_address": "2606:54c0:33e8::/45",
+    "ip_type": "IPv6",
+    "region": "FR-HDF"
+  },
+  {
+    "ip_address": "2606:54c0:33f0::/45",
+    "ip_type": "IPv6",
+    "region": "FR-HDF"
+  },
+  {
+    "ip_address": "2606:54c0:33f8::/45",
+    "ip_type": "IPv6",
+    "region": "FR-HDF"
+  },
+  {
+    "ip_address": "2606:54c0:3400::/45",
+    "ip_type": "IPv6",
+    "region": "FR-HDF"
+  },
+  {
+    "ip_address": "2606:54c0:3408::/45",
+    "ip_type": "IPv6",
+    "region": "FR-HDF"
+  },
+  {
+    "ip_address": "2606:54c0:3410::/45",
+    "ip_type": "IPv6",
+    "region": "FR-HDF"
+  },
+  {
+    "ip_address": "2606:54c0:3418::/45",
+    "ip_type": "IPv6",
+    "region": "FR-HDF"
+  },
+  {
+    "ip_address": "2606:54c0:3420::/45",
+    "ip_type": "IPv6",
+    "region": "FR-HDF"
+  },
+  {
+    "ip_address": "2606:54c0:3428::/45",
+    "ip_type": "IPv6",
+    "region": "FR-HDF"
+  },
+  {
+    "ip_address": "2606:54c0:3430::/45",
+    "ip_type": "IPv6",
+    "region": "FR-HDF"
+  },
+  {
+    "ip_address": "2606:54c0:3438::/45",
+    "ip_type": "IPv6",
+    "region": "FR-HDF"
+  },
+  {
+    "ip_address": "2606:54c0:3440::/45",
+    "ip_type": "IPv6",
+    "region": "FR-HDF"
+  },
+  {
+    "ip_address": "2606:54c0:3448::/45",
+    "ip_type": "IPv6",
+    "region": "FR-HDF"
+  },
+  {
+    "ip_address": "2606:54c3:0:1bd::/64",
+    "ip_type": "IPv6",
+    "region": "FR-HDF"
+  },
+  {
+    "ip_address": "2606:54c3:0:296::/64",
+    "ip_type": "IPv6",
+    "region": "FR-HDF"
+  },
+  {
+    "ip_address": "2606:54c3:0:3b9::/64",
+    "ip_type": "IPv6",
+    "region": "FR-HDF"
+  },
+  {
+    "ip_address": "2606:54c3:0:598::/64",
+    "ip_type": "IPv6",
+    "region": "FR-HDF"
+  },
+  {
+    "ip_address": "2606:54c3:0:5ca::/64",
+    "ip_type": "IPv6",
+    "region": "FR-HDF"
+  },
+  {
+    "ip_address": "2606:54c3:0:6e8::/64",
+    "ip_type": "IPv6",
+    "region": "FR-HDF"
+  },
+  {
+    "ip_address": "2606:54c3:0:9f2::/64",
+    "ip_type": "IPv6",
+    "region": "FR-HDF"
+  },
+  {
+    "ip_address": "2606:54c3:0:e4a::/64",
+    "ip_type": "IPv6",
+    "region": "FR-HDF"
+  },
+  {
+    "ip_address": "2606:54c3:0:e91::/64",
+    "ip_type": "IPv6",
+    "region": "FR-HDF"
+  },
+  {
+    "ip_address": "2606:54c3:0:eee::/64",
+    "ip_type": "IPv6",
+    "region": "FR-HDF"
+  },
+  {
+    "ip_address": "2606:54c3:0:10be::/64",
+    "ip_type": "IPv6",
+    "region": "FR-HDF"
+  },
+  {
+    "ip_address": "2606:54c3:0:11b3::/64",
+    "ip_type": "IPv6",
+    "region": "FR-HDF"
+  },
+  {
+    "ip_address": "2606:54c3:0:14c2::/64",
+    "ip_type": "IPv6",
+    "region": "FR-HDF"
+  },
+  {
+    "ip_address": "2606:54c3:0:161a::/64",
+    "ip_type": "IPv6",
+    "region": "FR-HDF"
+  },
+  {
+    "ip_address": "2606:54c3:0:1871::/64",
+    "ip_type": "IPv6",
+    "region": "FR-HDF"
+  },
+  {
+    "ip_address": "2606:54c3:0:18bb::/64",
+    "ip_type": "IPv6",
+    "region": "FR-HDF"
+  },
+  {
+    "ip_address": "2606:54c3:0:1a1b::/64",
+    "ip_type": "IPv6",
+    "region": "FR-HDF"
+  },
+  {
     "ip_address": "2a02:26f7:c9c0:950::/60",
     "ip_type": "IPv6",
     "region": "FR-HDF"
@@ -1406,176 +1576,6 @@
   },
   {
     "ip_address": "2a02:26f7:c9d4:6509::/64",
-    "ip_type": "IPv6",
-    "region": "FR-HDF"
-  },
-  {
-    "ip_address": "2606:54c0:33c8::/45",
-    "ip_type": "IPv6",
-    "region": "FR-HDF"
-  },
-  {
-    "ip_address": "2606:54c0:33d0::/45",
-    "ip_type": "IPv6",
-    "region": "FR-HDF"
-  },
-  {
-    "ip_address": "2606:54c0:33d8::/45",
-    "ip_type": "IPv6",
-    "region": "FR-HDF"
-  },
-  {
-    "ip_address": "2606:54c0:33e0::/45",
-    "ip_type": "IPv6",
-    "region": "FR-HDF"
-  },
-  {
-    "ip_address": "2606:54c0:33e8::/45",
-    "ip_type": "IPv6",
-    "region": "FR-HDF"
-  },
-  {
-    "ip_address": "2606:54c0:33f0::/45",
-    "ip_type": "IPv6",
-    "region": "FR-HDF"
-  },
-  {
-    "ip_address": "2606:54c0:33f8::/45",
-    "ip_type": "IPv6",
-    "region": "FR-HDF"
-  },
-  {
-    "ip_address": "2606:54c0:3400::/45",
-    "ip_type": "IPv6",
-    "region": "FR-HDF"
-  },
-  {
-    "ip_address": "2606:54c0:3408::/45",
-    "ip_type": "IPv6",
-    "region": "FR-HDF"
-  },
-  {
-    "ip_address": "2606:54c0:3410::/45",
-    "ip_type": "IPv6",
-    "region": "FR-HDF"
-  },
-  {
-    "ip_address": "2606:54c0:3418::/45",
-    "ip_type": "IPv6",
-    "region": "FR-HDF"
-  },
-  {
-    "ip_address": "2606:54c0:3420::/45",
-    "ip_type": "IPv6",
-    "region": "FR-HDF"
-  },
-  {
-    "ip_address": "2606:54c0:3428::/45",
-    "ip_type": "IPv6",
-    "region": "FR-HDF"
-  },
-  {
-    "ip_address": "2606:54c0:3430::/45",
-    "ip_type": "IPv6",
-    "region": "FR-HDF"
-  },
-  {
-    "ip_address": "2606:54c0:3438::/45",
-    "ip_type": "IPv6",
-    "region": "FR-HDF"
-  },
-  {
-    "ip_address": "2606:54c0:3440::/45",
-    "ip_type": "IPv6",
-    "region": "FR-HDF"
-  },
-  {
-    "ip_address": "2606:54c0:3448::/45",
-    "ip_type": "IPv6",
-    "region": "FR-HDF"
-  },
-  {
-    "ip_address": "2606:54c3:0:1bd::/64",
-    "ip_type": "IPv6",
-    "region": "FR-HDF"
-  },
-  {
-    "ip_address": "2606:54c3:0:296::/64",
-    "ip_type": "IPv6",
-    "region": "FR-HDF"
-  },
-  {
-    "ip_address": "2606:54c3:0:3b9::/64",
-    "ip_type": "IPv6",
-    "region": "FR-HDF"
-  },
-  {
-    "ip_address": "2606:54c3:0:598::/64",
-    "ip_type": "IPv6",
-    "region": "FR-HDF"
-  },
-  {
-    "ip_address": "2606:54c3:0:5ca::/64",
-    "ip_type": "IPv6",
-    "region": "FR-HDF"
-  },
-  {
-    "ip_address": "2606:54c3:0:6e8::/64",
-    "ip_type": "IPv6",
-    "region": "FR-HDF"
-  },
-  {
-    "ip_address": "2606:54c3:0:9f2::/64",
-    "ip_type": "IPv6",
-    "region": "FR-HDF"
-  },
-  {
-    "ip_address": "2606:54c3:0:e4a::/64",
-    "ip_type": "IPv6",
-    "region": "FR-HDF"
-  },
-  {
-    "ip_address": "2606:54c3:0:e91::/64",
-    "ip_type": "IPv6",
-    "region": "FR-HDF"
-  },
-  {
-    "ip_address": "2606:54c3:0:eee::/64",
-    "ip_type": "IPv6",
-    "region": "FR-HDF"
-  },
-  {
-    "ip_address": "2606:54c3:0:10be::/64",
-    "ip_type": "IPv6",
-    "region": "FR-HDF"
-  },
-  {
-    "ip_address": "2606:54c3:0:11b3::/64",
-    "ip_type": "IPv6",
-    "region": "FR-HDF"
-  },
-  {
-    "ip_address": "2606:54c3:0:14c2::/64",
-    "ip_type": "IPv6",
-    "region": "FR-HDF"
-  },
-  {
-    "ip_address": "2606:54c3:0:161a::/64",
-    "ip_type": "IPv6",
-    "region": "FR-HDF"
-  },
-  {
-    "ip_address": "2606:54c3:0:1871::/64",
-    "ip_type": "IPv6",
-    "region": "FR-HDF"
-  },
-  {
-    "ip_address": "2606:54c3:0:18bb::/64",
-    "ip_type": "IPv6",
-    "region": "FR-HDF"
-  },
-  {
-    "ip_address": "2606:54c3:0:1a1b::/64",
     "ip_type": "IPv6",
     "region": "FR-HDF"
   },

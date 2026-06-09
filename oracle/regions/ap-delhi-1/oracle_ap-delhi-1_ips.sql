@@ -6,11 +6,11 @@ CREATE TABLE IF NOT EXISTS `oracle_ap-delhi-1_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
-INSERT INTO `oracle_ap-delhi-1_ips` (`ip_address`, `ip_type`) VALUES ('168.107.192.0/19', 'IPv4');
 INSERT INTO `oracle_ap-delhi-1_ips` (`ip_address`, `ip_type`) VALUES ('134.70.230.0/23', 'IPv4');
 INSERT INTO `oracle_ap-delhi-1_ips` (`ip_address`, `ip_type`) VALUES ('134.70.232.0/23', 'IPv4');
 INSERT INTO `oracle_ap-delhi-1_ips` (`ip_address`, `ip_type`) VALUES ('140.91.108.0/23', 'IPv4');
 INSERT INTO `oracle_ap-delhi-1_ips` (`ip_address`, `ip_type`) VALUES ('140.204.166.128/25', 'IPv4');
+INSERT INTO `oracle_ap-delhi-1_ips` (`ip_address`, `ip_type`) VALUES ('168.107.192.0/19', 'IPv4');
 INSERT INTO `oracle_ap-delhi-1_ips` (`ip_address`, `ip_type`) VALUES ('168.107.248.0/26', 'IPv4');
 INSERT INTO `oracle_ap-delhi-1_ips` (`ip_address`, `ip_type`) VALUES ('168.107.248.128/25', 'IPv4');
 INSERT INTO `oracle_ap-delhi-1_ips` (`ip_address`, `ip_type`) VALUES ('168.107.249.192/26', 'IPv4');

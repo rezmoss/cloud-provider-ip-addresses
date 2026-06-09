@@ -1,5 +1,35 @@
 [
   {
+    "ip_address": "104.28.145.45/32",
+    "ip_type": "IPv4",
+    "region": "HN"
+  },
+  {
+    "ip_address": "140.248.4.40/31",
+    "ip_type": "IPv4",
+    "region": "HN"
+  },
+  {
+    "ip_address": "140.248.12.20/31",
+    "ip_type": "IPv4",
+    "region": "HN"
+  },
+  {
+    "ip_address": "140.248.44.58/31",
+    "ip_type": "IPv4",
+    "region": "HN"
+  },
+  {
+    "ip_address": "146.75.232.20/31",
+    "ip_type": "IPv4",
+    "region": "HN"
+  },
+  {
+    "ip_address": "146.75.248.20/31",
+    "ip_type": "IPv4",
+    "region": "HN"
+  },
+  {
     "ip_address": "172.225.32.224/27",
     "ip_type": "IPv4",
     "region": "HN"
@@ -22,6 +52,16 @@
   {
     "ip_address": "172.226.78.80/28",
     "ip_type": "IPv4",
+    "region": "HN"
+  },
+  {
+    "ip_address": "2606:54c0:3920::/45",
+    "ip_type": "IPv6",
+    "region": "HN"
+  },
+  {
+    "ip_address": "2606:54c3:0:42a::/64",
+    "ip_type": "IPv6",
     "region": "HN"
   },
   {
@@ -875,31 +915,6 @@
     "region": "HN"
   },
   {
-    "ip_address": "104.28.145.45/32",
-    "ip_type": "IPv4",
-    "region": "HN"
-  },
-  {
-    "ip_address": "2606:54c0:3920::/45",
-    "ip_type": "IPv6",
-    "region": "HN"
-  },
-  {
-    "ip_address": "2606:54c3:0:42a::/64",
-    "ip_type": "IPv6",
-    "region": "HN"
-  },
-  {
-    "ip_address": "2a09:bac2:3920::/45",
-    "ip_type": "IPv6",
-    "region": "HN"
-  },
-  {
-    "ip_address": "2a09:bac3:3920::/45",
-    "ip_type": "IPv6",
-    "region": "HN"
-  },
-  {
     "ip_address": "2a04:4e41:361d::/48",
     "ip_type": "IPv6",
     "region": "HN"
@@ -925,28 +940,13 @@
     "region": "HN"
   },
   {
-    "ip_address": "140.248.4.40/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:3920::/45",
+    "ip_type": "IPv6",
     "region": "HN"
   },
   {
-    "ip_address": "140.248.12.20/31",
-    "ip_type": "IPv4",
-    "region": "HN"
-  },
-  {
-    "ip_address": "140.248.44.58/31",
-    "ip_type": "IPv4",
-    "region": "HN"
-  },
-  {
-    "ip_address": "146.75.232.20/31",
-    "ip_type": "IPv4",
-    "region": "HN"
-  },
-  {
-    "ip_address": "146.75.248.20/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:3920::/45",
+    "ip_type": "IPv6",
     "region": "HN"
   }
 ]

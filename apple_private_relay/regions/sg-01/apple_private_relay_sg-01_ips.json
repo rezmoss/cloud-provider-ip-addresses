@@ -1,30 +1,5 @@
 [
   {
-    "ip_address": "2a04:4e41:12a0:7000::/52",
-    "ip_type": "IPv6",
-    "region": "SG-01"
-  },
-  {
-    "ip_address": "2a04:4e41:12e0:5000::/52",
-    "ip_type": "IPv6",
-    "region": "SG-01"
-  },
-  {
-    "ip_address": "2a04:4e41:4600:5000::/52",
-    "ip_type": "IPv6",
-    "region": "SG-01"
-  },
-  {
-    "ip_address": "2a04:4e41:5e02:1000::/52",
-    "ip_type": "IPv6",
-    "region": "SG-01"
-  },
-  {
-    "ip_address": "2a04:4e41:7602:1000::/52",
-    "ip_type": "IPv6",
-    "region": "SG-01"
-  },
-  {
     "ip_address": "140.248.16.18/31",
     "ip_type": "IPv4",
     "region": "SG-01"
@@ -47,6 +22,31 @@
   {
     "ip_address": "146.75.187.40/31",
     "ip_type": "IPv4",
+    "region": "SG-01"
+  },
+  {
+    "ip_address": "2a04:4e41:12a0:7000::/52",
+    "ip_type": "IPv6",
+    "region": "SG-01"
+  },
+  {
+    "ip_address": "2a04:4e41:12e0:5000::/52",
+    "ip_type": "IPv6",
+    "region": "SG-01"
+  },
+  {
+    "ip_address": "2a04:4e41:4600:5000::/52",
+    "ip_type": "IPv6",
+    "region": "SG-01"
+  },
+  {
+    "ip_address": "2a04:4e41:5e02:1000::/52",
+    "ip_type": "IPv6",
+    "region": "SG-01"
+  },
+  {
+    "ip_address": "2a04:4e41:7602:1000::/52",
+    "ip_type": "IPv6",
     "region": "SG-01"
   }
 ]

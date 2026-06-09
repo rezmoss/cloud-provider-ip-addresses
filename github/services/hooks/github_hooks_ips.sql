@@ -6,9 +6,9 @@ CREATE TABLE IF NOT EXISTS `github_hooks_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
-INSERT INTO `github_hooks_ips` (`ip_address`, `ip_type`) VALUES ('192.30.252.0/22', 'IPv4');
-INSERT INTO `github_hooks_ips` (`ip_address`, `ip_type`) VALUES ('185.199.108.0/22', 'IPv4');
 INSERT INTO `github_hooks_ips` (`ip_address`, `ip_type`) VALUES ('140.82.112.0/20', 'IPv4');
 INSERT INTO `github_hooks_ips` (`ip_address`, `ip_type`) VALUES ('143.55.64.0/20', 'IPv4');
-INSERT INTO `github_hooks_ips` (`ip_address`, `ip_type`) VALUES ('2a0a:a440::/29', 'IPv6');
+INSERT INTO `github_hooks_ips` (`ip_address`, `ip_type`) VALUES ('185.199.108.0/22', 'IPv4');
+INSERT INTO `github_hooks_ips` (`ip_address`, `ip_type`) VALUES ('192.30.252.0/22', 'IPv4');
 INSERT INTO `github_hooks_ips` (`ip_address`, `ip_type`) VALUES ('2606:50c0::/32', 'IPv6');
+INSERT INTO `github_hooks_ips` (`ip_address`, `ip_type`) VALUES ('2a0a:a440::/29', 'IPv6');

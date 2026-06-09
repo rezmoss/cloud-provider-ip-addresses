@@ -1,5 +1,45 @@
 [
   {
+    "ip_address": "104.28.144.65/32",
+    "ip_type": "IPv4",
+    "region": "PE"
+  },
+  {
+    "ip_address": "140.248.25.10/31",
+    "ip_type": "IPv4",
+    "region": "PE"
+  },
+  {
+    "ip_address": "140.248.32.10/31",
+    "ip_type": "IPv4",
+    "region": "PE"
+  },
+  {
+    "ip_address": "140.248.44.82/31",
+    "ip_type": "IPv4",
+    "region": "PE"
+  },
+  {
+    "ip_address": "146.75.179.10/31",
+    "ip_type": "IPv4",
+    "region": "PE"
+  },
+  {
+    "ip_address": "146.75.191.10/31",
+    "ip_type": "IPv4",
+    "region": "PE"
+  },
+  {
+    "ip_address": "146.75.208.26/31",
+    "ip_type": "IPv4",
+    "region": "PE"
+  },
+  {
+    "ip_address": "146.75.221.2/31",
+    "ip_type": "IPv4",
+    "region": "PE"
+  },
+  {
     "ip_address": "172.225.22.64/28",
     "ip_type": "IPv4",
     "region": "PE"
@@ -27,6 +67,26 @@
   {
     "ip_address": "172.225.222.144/29",
     "ip_type": "IPv4",
+    "region": "PE"
+  },
+  {
+    "ip_address": "2606:54c0:4e58::/45",
+    "ip_type": "IPv6",
+    "region": "PE"
+  },
+  {
+    "ip_address": "2606:54c0:4e60::/45",
+    "ip_type": "IPv6",
+    "region": "PE"
+  },
+  {
+    "ip_address": "2606:54c3:0:82d::/64",
+    "ip_type": "IPv6",
+    "region": "PE"
+  },
+  {
+    "ip_address": "2606:54c3:0:12e5::/64",
+    "ip_type": "IPv6",
     "region": "PE"
   },
   {
@@ -435,51 +495,6 @@
     "region": "PE"
   },
   {
-    "ip_address": "104.28.144.65/32",
-    "ip_type": "IPv4",
-    "region": "PE"
-  },
-  {
-    "ip_address": "2606:54c0:4e58::/45",
-    "ip_type": "IPv6",
-    "region": "PE"
-  },
-  {
-    "ip_address": "2606:54c0:4e60::/45",
-    "ip_type": "IPv6",
-    "region": "PE"
-  },
-  {
-    "ip_address": "2606:54c3:0:82d::/64",
-    "ip_type": "IPv6",
-    "region": "PE"
-  },
-  {
-    "ip_address": "2606:54c3:0:12e5::/64",
-    "ip_type": "IPv6",
-    "region": "PE"
-  },
-  {
-    "ip_address": "2a09:bac2:4e58::/45",
-    "ip_type": "IPv6",
-    "region": "PE"
-  },
-  {
-    "ip_address": "2a09:bac2:4e60::/45",
-    "ip_type": "IPv6",
-    "region": "PE"
-  },
-  {
-    "ip_address": "2a09:bac3:4e58::/45",
-    "ip_type": "IPv6",
-    "region": "PE"
-  },
-  {
-    "ip_address": "2a09:bac3:4e60::/45",
-    "ip_type": "IPv6",
-    "region": "PE"
-  },
-  {
     "ip_address": "2a04:4e41:187::/48",
     "ip_type": "IPv6",
     "region": "PE"
@@ -515,38 +530,23 @@
     "region": "PE"
   },
   {
-    "ip_address": "140.248.25.10/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:4e58::/45",
+    "ip_type": "IPv6",
     "region": "PE"
   },
   {
-    "ip_address": "140.248.32.10/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:4e60::/45",
+    "ip_type": "IPv6",
     "region": "PE"
   },
   {
-    "ip_address": "140.248.44.82/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:4e58::/45",
+    "ip_type": "IPv6",
     "region": "PE"
   },
   {
-    "ip_address": "146.75.179.10/31",
-    "ip_type": "IPv4",
-    "region": "PE"
-  },
-  {
-    "ip_address": "146.75.191.10/31",
-    "ip_type": "IPv4",
-    "region": "PE"
-  },
-  {
-    "ip_address": "146.75.208.26/31",
-    "ip_type": "IPv4",
-    "region": "PE"
-  },
-  {
-    "ip_address": "146.75.221.2/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:4e60::/45",
+    "ip_type": "IPv6",
     "region": "PE"
   }
 ]

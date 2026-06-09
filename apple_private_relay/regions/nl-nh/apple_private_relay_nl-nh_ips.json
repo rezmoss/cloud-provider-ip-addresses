@@ -565,22 +565,32 @@
     "region": "NL-NH"
   },
   {
+    "ip_address": "140.248.34.158/31",
+    "ip_type": "IPv4",
+    "region": "NL-NH"
+  },
+  {
+    "ip_address": "140.248.36.200/31",
+    "ip_type": "IPv4",
+    "region": "NL-NH"
+  },
+  {
+    "ip_address": "146.75.162.60/31",
+    "ip_type": "IPv4",
+    "region": "NL-NH"
+  },
+  {
+    "ip_address": "146.75.169.158/31",
+    "ip_type": "IPv4",
+    "region": "NL-NH"
+  },
+  {
     "ip_address": "2606:54c0:4d80::/45",
     "ip_type": "IPv6",
     "region": "NL-NH"
   },
   {
     "ip_address": "2606:54c3:0:38d::/64",
-    "ip_type": "IPv6",
-    "region": "NL-NH"
-  },
-  {
-    "ip_address": "2a09:bac2:4d80::/45",
-    "ip_type": "IPv6",
-    "region": "NL-NH"
-  },
-  {
-    "ip_address": "2a09:bac3:4d80::/45",
     "ip_type": "IPv6",
     "region": "NL-NH"
   },
@@ -605,23 +615,13 @@
     "region": "NL-NH"
   },
   {
-    "ip_address": "140.248.34.158/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:4d80::/45",
+    "ip_type": "IPv6",
     "region": "NL-NH"
   },
   {
-    "ip_address": "140.248.36.200/31",
-    "ip_type": "IPv4",
-    "region": "NL-NH"
-  },
-  {
-    "ip_address": "146.75.162.60/31",
-    "ip_type": "IPv4",
-    "region": "NL-NH"
-  },
-  {
-    "ip_address": "146.75.169.158/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:4d80::/45",
+    "ip_type": "IPv6",
     "region": "NL-NH"
   }
 ]

@@ -1,5 +1,20 @@
 [
   {
+    "ip_address": "140.248.36.20/31",
+    "ip_type": "IPv4",
+    "region": "BA"
+  },
+  {
+    "ip_address": "146.75.180.8/31",
+    "ip_type": "IPv4",
+    "region": "BA"
+  },
+  {
+    "ip_address": "146.75.186.0/31",
+    "ip_type": "IPv4",
+    "region": "BA"
+  },
+  {
     "ip_address": "172.225.34.0/28",
     "ip_type": "IPv4",
     "region": "BA"
@@ -447,21 +462,6 @@
   {
     "ip_address": "2a04:4e41:5801::/48",
     "ip_type": "IPv6",
-    "region": "BA"
-  },
-  {
-    "ip_address": "140.248.36.20/31",
-    "ip_type": "IPv4",
-    "region": "BA"
-  },
-  {
-    "ip_address": "146.75.180.8/31",
-    "ip_type": "IPv4",
-    "region": "BA"
-  },
-  {
-    "ip_address": "146.75.186.0/31",
-    "ip_type": "IPv4",
     "region": "BA"
   }
 ]

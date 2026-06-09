@@ -1,5 +1,25 @@
 [
   {
+    "ip_address": "146.75.162.94/31",
+    "ip_type": "IPv4",
+    "region": "SC"
+  },
+  {
+    "ip_address": "146.75.168.166/31",
+    "ip_type": "IPv4",
+    "region": "SC"
+  },
+  {
+    "ip_address": "146.75.185.166/31",
+    "ip_type": "IPv4",
+    "region": "SC"
+  },
+  {
+    "ip_address": "146.75.198.26/31",
+    "ip_type": "IPv4",
+    "region": "SC"
+  },
+  {
     "ip_address": "172.224.231.0/28",
     "ip_type": "IPv4",
     "region": "SC"
@@ -97,26 +117,6 @@
   {
     "ip_address": "2a04:4e41:741c::/48",
     "ip_type": "IPv6",
-    "region": "SC"
-  },
-  {
-    "ip_address": "146.75.162.94/31",
-    "ip_type": "IPv4",
-    "region": "SC"
-  },
-  {
-    "ip_address": "146.75.168.166/31",
-    "ip_type": "IPv4",
-    "region": "SC"
-  },
-  {
-    "ip_address": "146.75.185.166/31",
-    "ip_type": "IPv4",
-    "region": "SC"
-  },
-  {
-    "ip_address": "146.75.198.26/31",
-    "ip_type": "IPv4",
     "region": "SC"
   }
 ]

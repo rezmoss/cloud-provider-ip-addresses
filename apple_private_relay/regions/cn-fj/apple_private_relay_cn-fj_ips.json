@@ -1,5 +1,105 @@
 [
   {
+    "ip_address": "2606:54c0:1f88::/45",
+    "ip_type": "IPv6",
+    "region": "CN-FJ"
+  },
+  {
+    "ip_address": "2606:54c0:1f90::/45",
+    "ip_type": "IPv6",
+    "region": "CN-FJ"
+  },
+  {
+    "ip_address": "2606:54c0:1f98::/45",
+    "ip_type": "IPv6",
+    "region": "CN-FJ"
+  },
+  {
+    "ip_address": "2606:54c0:1fa0::/45",
+    "ip_type": "IPv6",
+    "region": "CN-FJ"
+  },
+  {
+    "ip_address": "2606:54c0:1fa8::/45",
+    "ip_type": "IPv6",
+    "region": "CN-FJ"
+  },
+  {
+    "ip_address": "2606:54c0:1fb0::/45",
+    "ip_type": "IPv6",
+    "region": "CN-FJ"
+  },
+  {
+    "ip_address": "2606:54c0:1fb8::/45",
+    "ip_type": "IPv6",
+    "region": "CN-FJ"
+  },
+  {
+    "ip_address": "2606:54c0:1fc0::/45",
+    "ip_type": "IPv6",
+    "region": "CN-FJ"
+  },
+  {
+    "ip_address": "2606:54c0:1fc8::/45",
+    "ip_type": "IPv6",
+    "region": "CN-FJ"
+  },
+  {
+    "ip_address": "2606:54c0:1fd0::/45",
+    "ip_type": "IPv6",
+    "region": "CN-FJ"
+  },
+  {
+    "ip_address": "2606:54c3:0:298::/64",
+    "ip_type": "IPv6",
+    "region": "CN-FJ"
+  },
+  {
+    "ip_address": "2606:54c3:0:47c::/64",
+    "ip_type": "IPv6",
+    "region": "CN-FJ"
+  },
+  {
+    "ip_address": "2606:54c3:0:765::/64",
+    "ip_type": "IPv6",
+    "region": "CN-FJ"
+  },
+  {
+    "ip_address": "2606:54c3:0:799::/64",
+    "ip_type": "IPv6",
+    "region": "CN-FJ"
+  },
+  {
+    "ip_address": "2606:54c3:0:94b::/64",
+    "ip_type": "IPv6",
+    "region": "CN-FJ"
+  },
+  {
+    "ip_address": "2606:54c3:0:a55::/64",
+    "ip_type": "IPv6",
+    "region": "CN-FJ"
+  },
+  {
+    "ip_address": "2606:54c3:0:c47::/64",
+    "ip_type": "IPv6",
+    "region": "CN-FJ"
+  },
+  {
+    "ip_address": "2606:54c3:0:c77::/64",
+    "ip_type": "IPv6",
+    "region": "CN-FJ"
+  },
+  {
+    "ip_address": "2606:54c3:0:17d9::/64",
+    "ip_type": "IPv6",
+    "region": "CN-FJ"
+  },
+  {
+    "ip_address": "2606:54c3:0:1823::/64",
+    "ip_type": "IPv6",
+    "region": "CN-FJ"
+  },
+  {
     "ip_address": "2a02:26f7:c400:f420::/64",
     "ip_type": "IPv6",
     "region": "CN-FJ"
@@ -716,106 +816,6 @@
   },
   {
     "ip_address": "2a02:26f7:c420:f42f::/64",
-    "ip_type": "IPv6",
-    "region": "CN-FJ"
-  },
-  {
-    "ip_address": "2606:54c0:1f88::/45",
-    "ip_type": "IPv6",
-    "region": "CN-FJ"
-  },
-  {
-    "ip_address": "2606:54c0:1f90::/45",
-    "ip_type": "IPv6",
-    "region": "CN-FJ"
-  },
-  {
-    "ip_address": "2606:54c0:1f98::/45",
-    "ip_type": "IPv6",
-    "region": "CN-FJ"
-  },
-  {
-    "ip_address": "2606:54c0:1fa0::/45",
-    "ip_type": "IPv6",
-    "region": "CN-FJ"
-  },
-  {
-    "ip_address": "2606:54c0:1fa8::/45",
-    "ip_type": "IPv6",
-    "region": "CN-FJ"
-  },
-  {
-    "ip_address": "2606:54c0:1fb0::/45",
-    "ip_type": "IPv6",
-    "region": "CN-FJ"
-  },
-  {
-    "ip_address": "2606:54c0:1fb8::/45",
-    "ip_type": "IPv6",
-    "region": "CN-FJ"
-  },
-  {
-    "ip_address": "2606:54c0:1fc0::/45",
-    "ip_type": "IPv6",
-    "region": "CN-FJ"
-  },
-  {
-    "ip_address": "2606:54c0:1fc8::/45",
-    "ip_type": "IPv6",
-    "region": "CN-FJ"
-  },
-  {
-    "ip_address": "2606:54c0:1fd0::/45",
-    "ip_type": "IPv6",
-    "region": "CN-FJ"
-  },
-  {
-    "ip_address": "2606:54c3:0:298::/64",
-    "ip_type": "IPv6",
-    "region": "CN-FJ"
-  },
-  {
-    "ip_address": "2606:54c3:0:47c::/64",
-    "ip_type": "IPv6",
-    "region": "CN-FJ"
-  },
-  {
-    "ip_address": "2606:54c3:0:765::/64",
-    "ip_type": "IPv6",
-    "region": "CN-FJ"
-  },
-  {
-    "ip_address": "2606:54c3:0:799::/64",
-    "ip_type": "IPv6",
-    "region": "CN-FJ"
-  },
-  {
-    "ip_address": "2606:54c3:0:94b::/64",
-    "ip_type": "IPv6",
-    "region": "CN-FJ"
-  },
-  {
-    "ip_address": "2606:54c3:0:a55::/64",
-    "ip_type": "IPv6",
-    "region": "CN-FJ"
-  },
-  {
-    "ip_address": "2606:54c3:0:c47::/64",
-    "ip_type": "IPv6",
-    "region": "CN-FJ"
-  },
-  {
-    "ip_address": "2606:54c3:0:c77::/64",
-    "ip_type": "IPv6",
-    "region": "CN-FJ"
-  },
-  {
-    "ip_address": "2606:54c3:0:17d9::/64",
-    "ip_type": "IPv6",
-    "region": "CN-FJ"
-  },
-  {
-    "ip_address": "2606:54c3:0:1823::/64",
     "ip_type": "IPv6",
     "region": "CN-FJ"
   },

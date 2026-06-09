@@ -50,22 +50,32 @@
     "region": "GB-BFS"
   },
   {
+    "ip_address": "140.248.40.26/31",
+    "ip_type": "IPv4",
+    "region": "GB-BFS"
+  },
+  {
+    "ip_address": "146.75.168.40/31",
+    "ip_type": "IPv4",
+    "region": "GB-BFS"
+  },
+  {
+    "ip_address": "146.75.174.14/31",
+    "ip_type": "IPv4",
+    "region": "GB-BFS"
+  },
+  {
+    "ip_address": "146.75.185.40/31",
+    "ip_type": "IPv4",
+    "region": "GB-BFS"
+  },
+  {
     "ip_address": "2606:54c0:3750::/45",
     "ip_type": "IPv6",
     "region": "GB-BFS"
   },
   {
     "ip_address": "2606:54c3:0:113d::/64",
-    "ip_type": "IPv6",
-    "region": "GB-BFS"
-  },
-  {
-    "ip_address": "2a09:bac2:3750::/45",
-    "ip_type": "IPv6",
-    "region": "GB-BFS"
-  },
-  {
-    "ip_address": "2a09:bac3:3750::/45",
     "ip_type": "IPv6",
     "region": "GB-BFS"
   },
@@ -90,23 +100,13 @@
     "region": "GB-BFS"
   },
   {
-    "ip_address": "140.248.40.26/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:3750::/45",
+    "ip_type": "IPv6",
     "region": "GB-BFS"
   },
   {
-    "ip_address": "146.75.168.40/31",
-    "ip_type": "IPv4",
-    "region": "GB-BFS"
-  },
-  {
-    "ip_address": "146.75.174.14/31",
-    "ip_type": "IPv4",
-    "region": "GB-BFS"
-  },
-  {
-    "ip_address": "146.75.185.40/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:3750::/45",
+    "ip_type": "IPv6",
     "region": "GB-BFS"
   }
 ]

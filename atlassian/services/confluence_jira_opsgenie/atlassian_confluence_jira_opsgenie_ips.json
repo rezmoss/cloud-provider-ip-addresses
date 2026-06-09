@@ -1,9 +1,9 @@
 [
   {
-    "ip_address": "44.220.40.160/28",
+    "ip_address": "18.246.188.0/25",
     "ip_type": "IPv4",
     "service": "confluence,jira,opsgenie",
-    "region": "us-east-1"
+    "region": "us-west-2"
   },
   {
     "ip_address": "18.246.188.32/28",
@@ -18,9 +18,9 @@
     "region": "us-east-1"
   },
   {
-    "ip_address": "18.246.188.0/25",
+    "ip_address": "44.220.40.160/28",
     "ip_type": "IPv4",
     "service": "confluence,jira,opsgenie",
-    "region": "us-west-2"
+    "region": "us-east-1"
   }
 ]

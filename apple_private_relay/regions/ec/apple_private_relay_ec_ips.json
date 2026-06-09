@@ -1,5 +1,35 @@
 [
   {
+    "ip_address": "104.28.141.111/32",
+    "ip_type": "IPv4",
+    "region": "EC"
+  },
+  {
+    "ip_address": "104.28.144.75/32",
+    "ip_type": "IPv4",
+    "region": "EC"
+  },
+  {
+    "ip_address": "140.248.4.26/31",
+    "ip_type": "IPv4",
+    "region": "EC"
+  },
+  {
+    "ip_address": "140.248.44.38/31",
+    "ip_type": "IPv4",
+    "region": "EC"
+  },
+  {
+    "ip_address": "146.75.208.20/31",
+    "ip_type": "IPv4",
+    "region": "EC"
+  },
+  {
+    "ip_address": "146.75.221.6/31",
+    "ip_type": "IPv4",
+    "region": "EC"
+  },
+  {
     "ip_address": "172.225.84.80/28",
     "ip_type": "IPv4",
     "region": "EC"
@@ -42,6 +72,26 @@
   {
     "ip_address": "172.226.122.64/27",
     "ip_type": "IPv4",
+    "region": "EC"
+  },
+  {
+    "ip_address": "2606:54c0:3028::/45",
+    "ip_type": "IPv6",
+    "region": "EC"
+  },
+  {
+    "ip_address": "2606:54c0:3030::/45",
+    "ip_type": "IPv6",
+    "region": "EC"
+  },
+  {
+    "ip_address": "2606:54c3:0:1fe::/64",
+    "ip_type": "IPv6",
+    "region": "EC"
+  },
+  {
+    "ip_address": "2606:54c3:0:83d::/64",
+    "ip_type": "IPv6",
     "region": "EC"
   },
   {
@@ -1585,32 +1635,22 @@
     "region": "EC"
   },
   {
-    "ip_address": "104.28.141.111/32",
-    "ip_type": "IPv4",
-    "region": "EC"
-  },
-  {
-    "ip_address": "104.28.144.75/32",
-    "ip_type": "IPv4",
-    "region": "EC"
-  },
-  {
-    "ip_address": "2606:54c0:3028::/45",
+    "ip_address": "2a04:4e41:186::/48",
     "ip_type": "IPv6",
     "region": "EC"
   },
   {
-    "ip_address": "2606:54c0:3030::/45",
+    "ip_address": "2a04:4e41:3619::/48",
     "ip_type": "IPv6",
     "region": "EC"
   },
   {
-    "ip_address": "2606:54c3:0:1fe::/64",
+    "ip_address": "2a04:4e41:3a1e::/48",
     "ip_type": "IPv6",
     "region": "EC"
   },
   {
-    "ip_address": "2606:54c3:0:83d::/64",
+    "ip_address": "2a04:4e41:4c03::/48",
     "ip_type": "IPv6",
     "region": "EC"
   },
@@ -1632,46 +1672,6 @@
   {
     "ip_address": "2a09:bac3:3030::/45",
     "ip_type": "IPv6",
-    "region": "EC"
-  },
-  {
-    "ip_address": "2a04:4e41:186::/48",
-    "ip_type": "IPv6",
-    "region": "EC"
-  },
-  {
-    "ip_address": "2a04:4e41:3619::/48",
-    "ip_type": "IPv6",
-    "region": "EC"
-  },
-  {
-    "ip_address": "2a04:4e41:3a1e::/48",
-    "ip_type": "IPv6",
-    "region": "EC"
-  },
-  {
-    "ip_address": "2a04:4e41:4c03::/48",
-    "ip_type": "IPv6",
-    "region": "EC"
-  },
-  {
-    "ip_address": "140.248.4.26/31",
-    "ip_type": "IPv4",
-    "region": "EC"
-  },
-  {
-    "ip_address": "140.248.44.38/31",
-    "ip_type": "IPv4",
-    "region": "EC"
-  },
-  {
-    "ip_address": "146.75.208.20/31",
-    "ip_type": "IPv4",
-    "region": "EC"
-  },
-  {
-    "ip_address": "146.75.221.6/31",
-    "ip_type": "IPv4",
     "region": "EC"
   }
 ]

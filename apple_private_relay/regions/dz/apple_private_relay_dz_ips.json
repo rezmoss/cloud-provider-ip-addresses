@@ -1,5 +1,25 @@
 [
   {
+    "ip_address": "146.75.162.30/31",
+    "ip_type": "IPv4",
+    "region": "DZ"
+  },
+  {
+    "ip_address": "146.75.166.42/31",
+    "ip_type": "IPv4",
+    "region": "DZ"
+  },
+  {
+    "ip_address": "146.75.182.12/31",
+    "ip_type": "IPv4",
+    "region": "DZ"
+  },
+  {
+    "ip_address": "146.75.210.12/31",
+    "ip_type": "IPv4",
+    "region": "DZ"
+  },
+  {
     "ip_address": "172.225.159.16/28",
     "ip_type": "IPv4",
     "region": "DZ"
@@ -497,26 +517,6 @@
   {
     "ip_address": "2a04:4e41:7807::/48",
     "ip_type": "IPv6",
-    "region": "DZ"
-  },
-  {
-    "ip_address": "146.75.162.30/31",
-    "ip_type": "IPv4",
-    "region": "DZ"
-  },
-  {
-    "ip_address": "146.75.166.42/31",
-    "ip_type": "IPv4",
-    "region": "DZ"
-  },
-  {
-    "ip_address": "146.75.182.12/31",
-    "ip_type": "IPv4",
-    "region": "DZ"
-  },
-  {
-    "ip_address": "146.75.210.12/31",
-    "ip_type": "IPv4",
     "region": "DZ"
   }
 ]

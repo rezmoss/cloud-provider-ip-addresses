@@ -100,22 +100,47 @@
     "region": "PK-SD"
   },
   {
+    "ip_address": "140.248.28.12/31",
+    "ip_type": "IPv4",
+    "region": "PK-SD"
+  },
+  {
+    "ip_address": "140.248.36.208/31",
+    "ip_type": "IPv4",
+    "region": "PK-SD"
+  },
+  {
+    "ip_address": "146.75.132.120/31",
+    "ip_type": "IPv4",
+    "region": "PK-SD"
+  },
+  {
+    "ip_address": "146.75.160.120/31",
+    "ip_type": "IPv4",
+    "region": "PK-SD"
+  },
+  {
+    "ip_address": "146.75.205.38/31",
+    "ip_type": "IPv4",
+    "region": "PK-SD"
+  },
+  {
+    "ip_address": "146.75.211.12/31",
+    "ip_type": "IPv4",
+    "region": "PK-SD"
+  },
+  {
+    "ip_address": "146.75.214.36/31",
+    "ip_type": "IPv4",
+    "region": "PK-SD"
+  },
+  {
     "ip_address": "2606:54c0:4f90::/45",
     "ip_type": "IPv6",
     "region": "PK-SD"
   },
   {
     "ip_address": "2606:54c3:0:175e::/64",
-    "ip_type": "IPv6",
-    "region": "PK-SD"
-  },
-  {
-    "ip_address": "2a09:bac2:4f90::/45",
-    "ip_type": "IPv6",
-    "region": "PK-SD"
-  },
-  {
-    "ip_address": "2a09:bac3:4f90::/45",
     "ip_type": "IPv6",
     "region": "PK-SD"
   },
@@ -155,38 +180,13 @@
     "region": "PK-SD"
   },
   {
-    "ip_address": "140.248.28.12/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:4f90::/45",
+    "ip_type": "IPv6",
     "region": "PK-SD"
   },
   {
-    "ip_address": "140.248.36.208/31",
-    "ip_type": "IPv4",
-    "region": "PK-SD"
-  },
-  {
-    "ip_address": "146.75.132.120/31",
-    "ip_type": "IPv4",
-    "region": "PK-SD"
-  },
-  {
-    "ip_address": "146.75.160.120/31",
-    "ip_type": "IPv4",
-    "region": "PK-SD"
-  },
-  {
-    "ip_address": "146.75.205.38/31",
-    "ip_type": "IPv4",
-    "region": "PK-SD"
-  },
-  {
-    "ip_address": "146.75.211.12/31",
-    "ip_type": "IPv4",
-    "region": "PK-SD"
-  },
-  {
-    "ip_address": "146.75.214.36/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:4f90::/45",
+    "ip_type": "IPv6",
     "region": "PK-SD"
   }
 ]

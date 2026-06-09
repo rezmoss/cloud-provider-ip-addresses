@@ -1,5 +1,30 @@
 [
   {
+    "ip_address": "140.248.40.172/31",
+    "ip_type": "IPv4",
+    "region": "PT"
+  },
+  {
+    "ip_address": "146.75.168.156/31",
+    "ip_type": "IPv4",
+    "region": "PT"
+  },
+  {
+    "ip_address": "146.75.182.52/31",
+    "ip_type": "IPv4",
+    "region": "PT"
+  },
+  {
+    "ip_address": "146.75.185.156/31",
+    "ip_type": "IPv4",
+    "region": "PT"
+  },
+  {
+    "ip_address": "146.75.210.52/31",
+    "ip_type": "IPv4",
+    "region": "PT"
+  },
+  {
     "ip_address": "172.225.158.178/31",
     "ip_type": "IPv4",
     "region": "PT"
@@ -117,6 +142,36 @@
   {
     "ip_address": "172.225.243.64/28",
     "ip_type": "IPv4",
+    "region": "PT"
+  },
+  {
+    "ip_address": "2606:54c0:4fe8::/45",
+    "ip_type": "IPv6",
+    "region": "PT"
+  },
+  {
+    "ip_address": "2606:54c0:4ff0::/45",
+    "ip_type": "IPv6",
+    "region": "PT"
+  },
+  {
+    "ip_address": "2606:54c0:4ff8::/45",
+    "ip_type": "IPv6",
+    "region": "PT"
+  },
+  {
+    "ip_address": "2606:54c3:0:1152::/64",
+    "ip_type": "IPv6",
+    "region": "PT"
+  },
+  {
+    "ip_address": "2606:54c3:0:132a::/64",
+    "ip_type": "IPv6",
+    "region": "PT"
+  },
+  {
+    "ip_address": "2606:54c3:0:1992::/64",
+    "ip_type": "IPv6",
     "region": "PT"
   },
   {
@@ -2575,32 +2630,27 @@
     "region": "PT"
   },
   {
-    "ip_address": "2606:54c0:4fe8::/45",
+    "ip_address": "2a04:4e41:1324::/48",
     "ip_type": "IPv6",
     "region": "PT"
   },
   {
-    "ip_address": "2606:54c0:4ff0::/45",
+    "ip_address": "2a04:4e41:161a::/48",
     "ip_type": "IPv6",
     "region": "PT"
   },
   {
-    "ip_address": "2606:54c0:4ff8::/45",
+    "ip_address": "2a04:4e41:4112::/48",
     "ip_type": "IPv6",
     "region": "PT"
   },
   {
-    "ip_address": "2606:54c3:0:1152::/64",
+    "ip_address": "2a04:4e41:741a::/48",
     "ip_type": "IPv6",
     "region": "PT"
   },
   {
-    "ip_address": "2606:54c3:0:132a::/64",
-    "ip_type": "IPv6",
-    "region": "PT"
-  },
-  {
-    "ip_address": "2606:54c3:0:1992::/64",
+    "ip_address": "2a04:4e41:7812::/48",
     "ip_type": "IPv6",
     "region": "PT"
   },
@@ -2632,56 +2682,6 @@
   {
     "ip_address": "2a09:bac3:4ff8::/45",
     "ip_type": "IPv6",
-    "region": "PT"
-  },
-  {
-    "ip_address": "2a04:4e41:1324::/48",
-    "ip_type": "IPv6",
-    "region": "PT"
-  },
-  {
-    "ip_address": "2a04:4e41:161a::/48",
-    "ip_type": "IPv6",
-    "region": "PT"
-  },
-  {
-    "ip_address": "2a04:4e41:4112::/48",
-    "ip_type": "IPv6",
-    "region": "PT"
-  },
-  {
-    "ip_address": "2a04:4e41:741a::/48",
-    "ip_type": "IPv6",
-    "region": "PT"
-  },
-  {
-    "ip_address": "2a04:4e41:7812::/48",
-    "ip_type": "IPv6",
-    "region": "PT"
-  },
-  {
-    "ip_address": "140.248.40.172/31",
-    "ip_type": "IPv4",
-    "region": "PT"
-  },
-  {
-    "ip_address": "146.75.168.156/31",
-    "ip_type": "IPv4",
-    "region": "PT"
-  },
-  {
-    "ip_address": "146.75.182.52/31",
-    "ip_type": "IPv4",
-    "region": "PT"
-  },
-  {
-    "ip_address": "146.75.185.156/31",
-    "ip_type": "IPv4",
-    "region": "PT"
-  },
-  {
-    "ip_address": "146.75.210.52/31",
-    "ip_type": "IPv4",
     "region": "PT"
   }
 ]

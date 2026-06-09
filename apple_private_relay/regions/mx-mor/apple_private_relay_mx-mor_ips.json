@@ -1,5 +1,25 @@
 [
   {
+    "ip_address": "2606:54c0:4af0::/45",
+    "ip_type": "IPv6",
+    "region": "MX-MOR"
+  },
+  {
+    "ip_address": "2606:54c0:4af8::/45",
+    "ip_type": "IPv6",
+    "region": "MX-MOR"
+  },
+  {
+    "ip_address": "2606:54c3:0:1f4::/64",
+    "ip_type": "IPv6",
+    "region": "MX-MOR"
+  },
+  {
+    "ip_address": "2606:54c3:0:108b::/64",
+    "ip_type": "IPv6",
+    "region": "MX-MOR"
+  },
+  {
     "ip_address": "2a02:26f7:c000:5c3b::/64",
     "ip_type": "IPv6",
     "region": "MX-MOR"
@@ -101,26 +121,6 @@
   },
   {
     "ip_address": "2a02:26f7:c018:5c3d::/64",
-    "ip_type": "IPv6",
-    "region": "MX-MOR"
-  },
-  {
-    "ip_address": "2606:54c0:4af0::/45",
-    "ip_type": "IPv6",
-    "region": "MX-MOR"
-  },
-  {
-    "ip_address": "2606:54c0:4af8::/45",
-    "ip_type": "IPv6",
-    "region": "MX-MOR"
-  },
-  {
-    "ip_address": "2606:54c3:0:1f4::/64",
-    "ip_type": "IPv6",
-    "region": "MX-MOR"
-  },
-  {
-    "ip_address": "2606:54c3:0:108b::/64",
     "ip_type": "IPv6",
     "region": "MX-MOR"
   },

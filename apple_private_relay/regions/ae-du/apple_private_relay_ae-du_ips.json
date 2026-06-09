@@ -90,22 +90,32 @@
     "region": "AE-DU"
   },
   {
+    "ip_address": "140.248.28.2/31",
+    "ip_type": "IPv4",
+    "region": "AE-DU"
+  },
+  {
+    "ip_address": "146.75.162.2/31",
+    "ip_type": "IPv4",
+    "region": "AE-DU"
+  },
+  {
+    "ip_address": "146.75.166.2/31",
+    "ip_type": "IPv4",
+    "region": "AE-DU"
+  },
+  {
+    "ip_address": "146.75.211.2/31",
+    "ip_type": "IPv4",
+    "region": "AE-DU"
+  },
+  {
     "ip_address": "2606:54c0:18::/45",
     "ip_type": "IPv6",
     "region": "AE-DU"
   },
   {
     "ip_address": "2606:54c3:0:483::/64",
-    "ip_type": "IPv6",
-    "region": "AE-DU"
-  },
-  {
-    "ip_address": "2a09:bac2:18::/45",
-    "ip_type": "IPv6",
-    "region": "AE-DU"
-  },
-  {
-    "ip_address": "2a09:bac3:18::/45",
     "ip_type": "IPv6",
     "region": "AE-DU"
   },
@@ -130,23 +140,13 @@
     "region": "AE-DU"
   },
   {
-    "ip_address": "140.248.28.2/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:18::/45",
+    "ip_type": "IPv6",
     "region": "AE-DU"
   },
   {
-    "ip_address": "146.75.162.2/31",
-    "ip_type": "IPv4",
-    "region": "AE-DU"
-  },
-  {
-    "ip_address": "146.75.166.2/31",
-    "ip_type": "IPv4",
-    "region": "AE-DU"
-  },
-  {
-    "ip_address": "146.75.211.2/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:18::/45",
+    "ip_type": "IPv6",
     "region": "AE-DU"
   }
 ]

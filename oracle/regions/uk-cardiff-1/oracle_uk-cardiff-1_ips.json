@@ -6,24 +6,6 @@
     "region": "uk-cardiff-1"
   },
   {
-    "ip_address": "129.151.64.0/19",
-    "ip_type": "IPv4",
-    "service": "OCI",
-    "region": "uk-cardiff-1"
-  },
-  {
-    "ip_address": "134.65.56.0/21",
-    "ip_type": "IPv4",
-    "service": "OCI",
-    "region": "uk-cardiff-1"
-  },
-  {
-    "ip_address": "144.24.224.0/21",
-    "ip_type": "IPv4",
-    "service": "OCI",
-    "region": "uk-cardiff-1"
-  },
-  {
     "ip_address": "129.148.200.0/21",
     "ip_type": "IPv4",
     "service": "OSN",
@@ -60,9 +42,21 @@
     "region": "uk-cardiff-1"
   },
   {
+    "ip_address": "129.151.64.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "uk-cardiff-1"
+  },
+  {
     "ip_address": "130.110.24.0/22",
     "ip_type": "IPv4",
     "service": "OSN",
+    "region": "uk-cardiff-1"
+  },
+  {
+    "ip_address": "134.65.56.0/21",
+    "ip_type": "IPv4",
+    "service": "OCI",
     "region": "uk-cardiff-1"
   },
   {
@@ -81,6 +75,12 @@
     "ip_address": "140.204.70.128/25",
     "ip_type": "IPv4",
     "service": "OSN",
+    "region": "uk-cardiff-1"
+  },
+  {
+    "ip_address": "144.24.224.0/21",
+    "ip_type": "IPv4",
+    "service": "OCI",
     "region": "uk-cardiff-1"
   },
   {

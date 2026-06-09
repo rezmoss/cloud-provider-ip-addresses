@@ -1,5 +1,30 @@
 [
   {
+    "ip_address": "140.248.34.20/31",
+    "ip_type": "IPv4",
+    "region": "BY"
+  },
+  {
+    "ip_address": "140.248.36.28/31",
+    "ip_type": "IPv4",
+    "region": "BY"
+  },
+  {
+    "ip_address": "146.75.132.16/31",
+    "ip_type": "IPv4",
+    "region": "BY"
+  },
+  {
+    "ip_address": "146.75.160.16/31",
+    "ip_type": "IPv4",
+    "region": "BY"
+  },
+  {
+    "ip_address": "146.75.169.20/31",
+    "ip_type": "IPv4",
+    "region": "BY"
+  },
+  {
     "ip_address": "172.225.34.32/28",
     "ip_type": "IPv4",
     "region": "BY"
@@ -642,31 +667,6 @@
   {
     "ip_address": "2a04:4e41:7609::/48",
     "ip_type": "IPv6",
-    "region": "BY"
-  },
-  {
-    "ip_address": "140.248.34.20/31",
-    "ip_type": "IPv4",
-    "region": "BY"
-  },
-  {
-    "ip_address": "140.248.36.28/31",
-    "ip_type": "IPv4",
-    "region": "BY"
-  },
-  {
-    "ip_address": "146.75.132.16/31",
-    "ip_type": "IPv4",
-    "region": "BY"
-  },
-  {
-    "ip_address": "146.75.160.16/31",
-    "ip_type": "IPv4",
-    "region": "BY"
-  },
-  {
-    "ip_address": "146.75.169.20/31",
-    "ip_type": "IPv4",
     "region": "BY"
   }
 ]

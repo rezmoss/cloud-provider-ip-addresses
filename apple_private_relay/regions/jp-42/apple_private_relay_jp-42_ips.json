@@ -1,5 +1,105 @@
 [
   {
+    "ip_address": "104.28.43.228/32",
+    "ip_type": "IPv4",
+    "region": "JP-42"
+  },
+  {
+    "ip_address": "104.28.43.229/32",
+    "ip_type": "IPv4",
+    "region": "JP-42"
+  },
+  {
+    "ip_address": "104.28.67.106/32",
+    "ip_type": "IPv4",
+    "region": "JP-42"
+  },
+  {
+    "ip_address": "104.28.67.107/32",
+    "ip_type": "IPv4",
+    "region": "JP-42"
+  },
+  {
+    "ip_address": "104.28.70.106/32",
+    "ip_type": "IPv4",
+    "region": "JP-42"
+  },
+  {
+    "ip_address": "104.28.70.107/32",
+    "ip_type": "IPv4",
+    "region": "JP-42"
+  },
+  {
+    "ip_address": "104.28.83.131/32",
+    "ip_type": "IPv4",
+    "region": "JP-42"
+  },
+  {
+    "ip_address": "104.28.83.132/32",
+    "ip_type": "IPv4",
+    "region": "JP-42"
+  },
+  {
+    "ip_address": "104.28.99.127/32",
+    "ip_type": "IPv4",
+    "region": "JP-42"
+  },
+  {
+    "ip_address": "104.28.99.128/32",
+    "ip_type": "IPv4",
+    "region": "JP-42"
+  },
+  {
+    "ip_address": "104.28.101.127/32",
+    "ip_type": "IPv4",
+    "region": "JP-42"
+  },
+  {
+    "ip_address": "104.28.101.128/32",
+    "ip_type": "IPv4",
+    "region": "JP-42"
+  },
+  {
+    "ip_address": "104.28.118.100/32",
+    "ip_type": "IPv4",
+    "region": "JP-42"
+  },
+  {
+    "ip_address": "104.28.118.101/32",
+    "ip_type": "IPv4",
+    "region": "JP-42"
+  },
+  {
+    "ip_address": "104.28.121.100/32",
+    "ip_type": "IPv4",
+    "region": "JP-42"
+  },
+  {
+    "ip_address": "104.28.121.101/32",
+    "ip_type": "IPv4",
+    "region": "JP-42"
+  },
+  {
+    "ip_address": "2606:54c0:45c0::/45",
+    "ip_type": "IPv6",
+    "region": "JP-42"
+  },
+  {
+    "ip_address": "2606:54c0:45c8::/45",
+    "ip_type": "IPv6",
+    "region": "JP-42"
+  },
+  {
+    "ip_address": "2606:54c3:0:963::/64",
+    "ip_type": "IPv6",
+    "region": "JP-42"
+  },
+  {
+    "ip_address": "2606:54c3:0:b18::/64",
+    "ip_type": "IPv6",
+    "region": "JP-42"
+  },
+  {
     "ip_address": "2a02:26f7:b980:6148::/64",
     "ip_type": "IPv6",
     "region": "JP-42"
@@ -486,106 +586,6 @@
   },
   {
     "ip_address": "2a02:26f7:b9b4:614e::/64",
-    "ip_type": "IPv6",
-    "region": "JP-42"
-  },
-  {
-    "ip_address": "104.28.43.228/32",
-    "ip_type": "IPv4",
-    "region": "JP-42"
-  },
-  {
-    "ip_address": "104.28.43.229/32",
-    "ip_type": "IPv4",
-    "region": "JP-42"
-  },
-  {
-    "ip_address": "104.28.67.106/32",
-    "ip_type": "IPv4",
-    "region": "JP-42"
-  },
-  {
-    "ip_address": "104.28.67.107/32",
-    "ip_type": "IPv4",
-    "region": "JP-42"
-  },
-  {
-    "ip_address": "104.28.70.106/32",
-    "ip_type": "IPv4",
-    "region": "JP-42"
-  },
-  {
-    "ip_address": "104.28.70.107/32",
-    "ip_type": "IPv4",
-    "region": "JP-42"
-  },
-  {
-    "ip_address": "104.28.83.131/32",
-    "ip_type": "IPv4",
-    "region": "JP-42"
-  },
-  {
-    "ip_address": "104.28.83.132/32",
-    "ip_type": "IPv4",
-    "region": "JP-42"
-  },
-  {
-    "ip_address": "104.28.99.127/32",
-    "ip_type": "IPv4",
-    "region": "JP-42"
-  },
-  {
-    "ip_address": "104.28.99.128/32",
-    "ip_type": "IPv4",
-    "region": "JP-42"
-  },
-  {
-    "ip_address": "104.28.101.127/32",
-    "ip_type": "IPv4",
-    "region": "JP-42"
-  },
-  {
-    "ip_address": "104.28.101.128/32",
-    "ip_type": "IPv4",
-    "region": "JP-42"
-  },
-  {
-    "ip_address": "104.28.118.100/32",
-    "ip_type": "IPv4",
-    "region": "JP-42"
-  },
-  {
-    "ip_address": "104.28.118.101/32",
-    "ip_type": "IPv4",
-    "region": "JP-42"
-  },
-  {
-    "ip_address": "104.28.121.100/32",
-    "ip_type": "IPv4",
-    "region": "JP-42"
-  },
-  {
-    "ip_address": "104.28.121.101/32",
-    "ip_type": "IPv4",
-    "region": "JP-42"
-  },
-  {
-    "ip_address": "2606:54c0:45c0::/45",
-    "ip_type": "IPv6",
-    "region": "JP-42"
-  },
-  {
-    "ip_address": "2606:54c0:45c8::/45",
-    "ip_type": "IPv6",
-    "region": "JP-42"
-  },
-  {
-    "ip_address": "2606:54c3:0:963::/64",
-    "ip_type": "IPv6",
-    "region": "JP-42"
-  },
-  {
-    "ip_address": "2606:54c3:0:b18::/64",
     "ip_type": "IPv6",
     "region": "JP-42"
   },

@@ -50,22 +50,32 @@
     "region": "GB-LUT"
   },
   {
+    "ip_address": "140.248.40.72/31",
+    "ip_type": "IPv4",
+    "region": "GB-LUT"
+  },
+  {
+    "ip_address": "146.75.168.86/31",
+    "ip_type": "IPv4",
+    "region": "GB-LUT"
+  },
+  {
+    "ip_address": "146.75.174.60/31",
+    "ip_type": "IPv4",
+    "region": "GB-LUT"
+  },
+  {
+    "ip_address": "146.75.185.86/31",
+    "ip_type": "IPv4",
+    "region": "GB-LUT"
+  },
+  {
     "ip_address": "2606:54c0:37b8::/45",
     "ip_type": "IPv6",
     "region": "GB-LUT"
   },
   {
     "ip_address": "2606:54c3:0:10e7::/64",
-    "ip_type": "IPv6",
-    "region": "GB-LUT"
-  },
-  {
-    "ip_address": "2a09:bac2:37b8::/45",
-    "ip_type": "IPv6",
-    "region": "GB-LUT"
-  },
-  {
-    "ip_address": "2a09:bac3:37b8::/45",
     "ip_type": "IPv6",
     "region": "GB-LUT"
   },
@@ -90,23 +100,13 @@
     "region": "GB-LUT"
   },
   {
-    "ip_address": "140.248.40.72/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:37b8::/45",
+    "ip_type": "IPv6",
     "region": "GB-LUT"
   },
   {
-    "ip_address": "146.75.168.86/31",
-    "ip_type": "IPv4",
-    "region": "GB-LUT"
-  },
-  {
-    "ip_address": "146.75.174.60/31",
-    "ip_type": "IPv4",
-    "region": "GB-LUT"
-  },
-  {
-    "ip_address": "146.75.185.86/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:37b8::/45",
+    "ip_type": "IPv6",
     "region": "GB-LUT"
   }
 ]

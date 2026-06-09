@@ -1,5 +1,45 @@
 [
   {
+    "ip_address": "104.28.50.218/32",
+    "ip_type": "IPv4",
+    "region": "MS"
+  },
+  {
+    "ip_address": "104.28.50.219/32",
+    "ip_type": "IPv4",
+    "region": "MS"
+  },
+  {
+    "ip_address": "104.28.50.220/32",
+    "ip_type": "IPv4",
+    "region": "MS"
+  },
+  {
+    "ip_address": "104.28.50.221/32",
+    "ip_type": "IPv4",
+    "region": "MS"
+  },
+  {
+    "ip_address": "104.28.92.195/32",
+    "ip_type": "IPv4",
+    "region": "MS"
+  },
+  {
+    "ip_address": "140.248.44.72/31",
+    "ip_type": "IPv4",
+    "region": "MS"
+  },
+  {
+    "ip_address": "146.75.162.56/31",
+    "ip_type": "IPv4",
+    "region": "MS"
+  },
+  {
+    "ip_address": "146.75.252.8/31",
+    "ip_type": "IPv4",
+    "region": "MS"
+  },
+  {
     "ip_address": "172.225.33.128/27",
     "ip_type": "IPv4",
     "region": "MS"
@@ -27,6 +67,16 @@
   {
     "ip_address": "172.226.143.64/27",
     "ip_type": "IPv4",
+    "region": "MS"
+  },
+  {
+    "ip_address": "2606:54c0:48c8::/45",
+    "ip_type": "IPv6",
+    "region": "MS"
+  },
+  {
+    "ip_address": "2606:54c3:0:87f::/64",
+    "ip_type": "IPv6",
     "region": "MS"
   },
   {
@@ -120,51 +170,6 @@
     "region": "MS"
   },
   {
-    "ip_address": "104.28.50.218/32",
-    "ip_type": "IPv4",
-    "region": "MS"
-  },
-  {
-    "ip_address": "104.28.50.219/32",
-    "ip_type": "IPv4",
-    "region": "MS"
-  },
-  {
-    "ip_address": "104.28.50.220/32",
-    "ip_type": "IPv4",
-    "region": "MS"
-  },
-  {
-    "ip_address": "104.28.50.221/32",
-    "ip_type": "IPv4",
-    "region": "MS"
-  },
-  {
-    "ip_address": "104.28.92.195/32",
-    "ip_type": "IPv4",
-    "region": "MS"
-  },
-  {
-    "ip_address": "2606:54c0:48c8::/45",
-    "ip_type": "IPv6",
-    "region": "MS"
-  },
-  {
-    "ip_address": "2606:54c3:0:87f::/64",
-    "ip_type": "IPv6",
-    "region": "MS"
-  },
-  {
-    "ip_address": "2a09:bac2:48c8::/45",
-    "ip_type": "IPv6",
-    "region": "MS"
-  },
-  {
-    "ip_address": "2a09:bac3:48c8::/45",
-    "ip_type": "IPv6",
-    "region": "MS"
-  },
-  {
     "ip_address": "2a04:4e41:212::/48",
     "ip_type": "IPv6",
     "region": "MS"
@@ -180,18 +185,13 @@
     "region": "MS"
   },
   {
-    "ip_address": "140.248.44.72/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:48c8::/45",
+    "ip_type": "IPv6",
     "region": "MS"
   },
   {
-    "ip_address": "146.75.162.56/31",
-    "ip_type": "IPv4",
-    "region": "MS"
-  },
-  {
-    "ip_address": "146.75.252.8/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:48c8::/45",
+    "ip_type": "IPv6",
     "region": "MS"
   }
 ]

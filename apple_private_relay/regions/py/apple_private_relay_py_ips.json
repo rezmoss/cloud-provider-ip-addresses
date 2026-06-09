@@ -1,5 +1,25 @@
 [
   {
+    "ip_address": "140.248.19.4/31",
+    "ip_type": "IPv4",
+    "region": "PY"
+  },
+  {
+    "ip_address": "140.248.25.14/31",
+    "ip_type": "IPv4",
+    "region": "PY"
+  },
+  {
+    "ip_address": "146.75.179.14/31",
+    "ip_type": "IPv4",
+    "region": "PY"
+  },
+  {
+    "ip_address": "146.75.191.14/31",
+    "ip_type": "IPv4",
+    "region": "PY"
+  },
+  {
     "ip_address": "172.225.106.32/28",
     "ip_type": "IPv4",
     "region": "PY"
@@ -497,26 +517,6 @@
   {
     "ip_address": "2a04:4e41:6306::/48",
     "ip_type": "IPv6",
-    "region": "PY"
-  },
-  {
-    "ip_address": "140.248.19.4/31",
-    "ip_type": "IPv4",
-    "region": "PY"
-  },
-  {
-    "ip_address": "140.248.25.14/31",
-    "ip_type": "IPv4",
-    "region": "PY"
-  },
-  {
-    "ip_address": "146.75.179.14/31",
-    "ip_type": "IPv4",
-    "region": "PY"
-  },
-  {
-    "ip_address": "146.75.191.14/31",
-    "ip_type": "IPv4",
     "region": "PY"
   }
 ]

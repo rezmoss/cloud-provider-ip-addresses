@@ -1,5 +1,35 @@
 [
   {
+    "ip_address": "64.181.144.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "sa-vinhedo-1"
+  },
+  {
+    "ip_address": "129.149.0.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "sa-vinhedo-1"
+  },
+  {
+    "ip_address": "129.149.6.0/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "sa-vinhedo-1"
+  },
+  {
+    "ip_address": "129.153.240.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "sa-vinhedo-1"
+  },
+  {
+    "ip_address": "129.153.243.192/26",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "sa-vinhedo-1"
+  },
+  {
     "ip_address": "134.65.16.0/20",
     "ip_type": "IPv4",
     "service": "OCI",
@@ -18,15 +48,39 @@
     "region": "sa-vinhedo-1"
   },
   {
+    "ip_address": "134.70.140.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN,OBJECT_STORAGE",
+    "region": "sa-vinhedo-1"
+  },
+  {
     "ip_address": "138.2.240.0/21",
     "ip_type": "IPv4",
     "service": "OCI",
     "region": "sa-vinhedo-1"
   },
   {
+    "ip_address": "140.91.62.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "sa-vinhedo-1"
+  },
+  {
+    "ip_address": "140.204.76.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "sa-vinhedo-1"
+  },
+  {
     "ip_address": "144.33.0.0/19",
     "ip_type": "IPv4",
     "service": "OCI",
+    "region": "sa-vinhedo-1"
+  },
+  {
+    "ip_address": "149.130.136.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
     "region": "sa-vinhedo-1"
   },
   {
@@ -75,60 +129,6 @@
     "ip_address": "204.216.128.0/18",
     "ip_type": "IPv4",
     "service": "OCI",
-    "region": "sa-vinhedo-1"
-  },
-  {
-    "ip_address": "64.181.144.0/23",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "sa-vinhedo-1"
-  },
-  {
-    "ip_address": "129.149.0.0/22",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "sa-vinhedo-1"
-  },
-  {
-    "ip_address": "129.149.6.0/25",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "sa-vinhedo-1"
-  },
-  {
-    "ip_address": "129.153.240.0/23",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "sa-vinhedo-1"
-  },
-  {
-    "ip_address": "129.153.243.192/26",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "sa-vinhedo-1"
-  },
-  {
-    "ip_address": "134.70.140.0/22",
-    "ip_type": "IPv4",
-    "service": "OSN,OBJECT_STORAGE",
-    "region": "sa-vinhedo-1"
-  },
-  {
-    "ip_address": "140.91.62.0/23",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "sa-vinhedo-1"
-  },
-  {
-    "ip_address": "140.204.76.128/25",
-    "ip_type": "IPv4",
-    "service": "OSN",
-    "region": "sa-vinhedo-1"
-  },
-  {
-    "ip_address": "149.130.136.0/23",
-    "ip_type": "IPv4",
-    "service": "OSN",
     "region": "sa-vinhedo-1"
   }
 ]

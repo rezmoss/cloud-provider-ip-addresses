@@ -490,6 +490,11 @@
     "service": "amazonbot"
   },
   {
+    "ip_address": "18.211.242.14/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
     "ip_address": "18.213.27.222/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
@@ -980,6 +985,11 @@
     "service": "amazonbot"
   },
   {
+    "ip_address": "34.235.173.180/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
     "ip_address": "34.235.239.240/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
@@ -1006,6 +1016,11 @@
   },
   {
     "ip_address": "34.236.185.101/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
+    "ip_address": "34.236.189.117/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   },
@@ -1630,6 +1645,11 @@
     "service": "amazonbot"
   },
   {
+    "ip_address": "52.20.98.185/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
     "ip_address": "52.21.26.34/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
@@ -2095,6 +2115,11 @@
     "service": "amazonbot"
   },
   {
+    "ip_address": "54.158.139.192/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
     "ip_address": "54.159.18.27/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
@@ -2520,6 +2545,11 @@
     "service": "amazonbot"
   },
   {
+    "ip_address": "100.51.173.237/32",
+    "ip_type": "IPv4",
+    "service": "amazonbot"
+  },
+  {
     "ip_address": "107.20.25.33/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
@@ -2586,36 +2616,6 @@
   },
   {
     "ip_address": "184.73.239.35/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "18.211.242.14/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "54.158.139.192/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "100.51.173.237/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "34.235.173.180/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "34.236.189.117/32",
-    "ip_type": "IPv4",
-    "service": "amazonbot"
-  },
-  {
-    "ip_address": "52.20.98.185/32",
     "ip_type": "IPv4",
     "service": "amazonbot"
   }

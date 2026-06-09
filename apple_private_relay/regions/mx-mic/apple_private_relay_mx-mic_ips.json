@@ -1,5 +1,35 @@
 [
   {
+    "ip_address": "2606:54c0:4ad8::/45",
+    "ip_type": "IPv6",
+    "region": "MX-MIC"
+  },
+  {
+    "ip_address": "2606:54c0:4ae0::/45",
+    "ip_type": "IPv6",
+    "region": "MX-MIC"
+  },
+  {
+    "ip_address": "2606:54c0:4ae8::/45",
+    "ip_type": "IPv6",
+    "region": "MX-MIC"
+  },
+  {
+    "ip_address": "2606:54c3:0:b27::/64",
+    "ip_type": "IPv6",
+    "region": "MX-MIC"
+  },
+  {
+    "ip_address": "2606:54c3:0:cc7::/64",
+    "ip_type": "IPv6",
+    "region": "MX-MIC"
+  },
+  {
+    "ip_address": "2606:54c3:0:e97::/64",
+    "ip_type": "IPv6",
+    "region": "MX-MIC"
+  },
+  {
     "ip_address": "2a02:26f7:c000:5c33::/64",
     "ip_type": "IPv6",
     "region": "MX-MIC"
@@ -276,36 +306,6 @@
   },
   {
     "ip_address": "2a02:26f7:c018:5c3a::/64",
-    "ip_type": "IPv6",
-    "region": "MX-MIC"
-  },
-  {
-    "ip_address": "2606:54c0:4ad8::/45",
-    "ip_type": "IPv6",
-    "region": "MX-MIC"
-  },
-  {
-    "ip_address": "2606:54c0:4ae0::/45",
-    "ip_type": "IPv6",
-    "region": "MX-MIC"
-  },
-  {
-    "ip_address": "2606:54c0:4ae8::/45",
-    "ip_type": "IPv6",
-    "region": "MX-MIC"
-  },
-  {
-    "ip_address": "2606:54c3:0:b27::/64",
-    "ip_type": "IPv6",
-    "region": "MX-MIC"
-  },
-  {
-    "ip_address": "2606:54c3:0:cc7::/64",
-    "ip_type": "IPv6",
-    "region": "MX-MIC"
-  },
-  {
-    "ip_address": "2606:54c3:0:e97::/64",
     "ip_type": "IPv6",
     "region": "MX-MIC"
   },

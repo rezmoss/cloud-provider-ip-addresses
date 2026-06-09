@@ -24,30 +24,6 @@
     "region": "eu-stockholm-1"
   },
   {
-    "ip_address": "129.151.192.0/19",
-    "ip_type": "IPv4",
-    "service": "OCI",
-    "region": "eu-stockholm-1"
-  },
-  {
-    "ip_address": "145.241.182.0/24",
-    "ip_type": "IPv4",
-    "service": "OCI",
-    "region": "eu-stockholm-1"
-  },
-  {
-    "ip_address": "158.179.200.0/21",
-    "ip_type": "IPv4",
-    "service": "OCI",
-    "region": "eu-stockholm-1"
-  },
-  {
-    "ip_address": "207.127.88.0/21",
-    "ip_type": "IPv4",
-    "service": "OCI",
-    "region": "eu-stockholm-1"
-  },
-  {
     "ip_address": "129.149.80.0/22",
     "ip_type": "IPv4",
     "service": "OSN",
@@ -57,6 +33,12 @@
     "ip_address": "129.149.84.0/25",
     "ip_type": "IPv4",
     "service": "OSN",
+    "region": "eu-stockholm-1"
+  },
+  {
+    "ip_address": "129.151.192.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
     "region": "eu-stockholm-1"
   },
   {
@@ -84,9 +66,27 @@
     "region": "eu-stockholm-1"
   },
   {
+    "ip_address": "145.241.182.0/24",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "eu-stockholm-1"
+  },
+  {
     "ip_address": "158.178.216.0/22",
     "ip_type": "IPv4",
     "service": "OSN",
+    "region": "eu-stockholm-1"
+  },
+  {
+    "ip_address": "158.179.200.0/21",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "eu-stockholm-1"
+  },
+  {
+    "ip_address": "207.127.88.0/21",
+    "ip_type": "IPv4",
+    "service": "OCI",
     "region": "eu-stockholm-1"
   }
 ]

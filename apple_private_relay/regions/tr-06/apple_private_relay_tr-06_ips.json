@@ -50,22 +50,37 @@
     "region": "TR-06"
   },
   {
+    "ip_address": "140.248.18.8/31",
+    "ip_type": "IPv4",
+    "region": "TR-06"
+  },
+  {
+    "ip_address": "140.248.34.230/31",
+    "ip_type": "IPv4",
+    "region": "TR-06"
+  },
+  {
+    "ip_address": "140.248.37.58/31",
+    "ip_type": "IPv4",
+    "region": "TR-06"
+  },
+  {
+    "ip_address": "146.75.162.102/31",
+    "ip_type": "IPv4",
+    "region": "TR-06"
+  },
+  {
+    "ip_address": "146.75.169.230/31",
+    "ip_type": "IPv4",
+    "region": "TR-06"
+  },
+  {
     "ip_address": "2606:54c0:57b8::/45",
     "ip_type": "IPv6",
     "region": "TR-06"
   },
   {
     "ip_address": "2606:54c3:0:642::/64",
-    "ip_type": "IPv6",
-    "region": "TR-06"
-  },
-  {
-    "ip_address": "2a09:bac2:57b8::/45",
-    "ip_type": "IPv6",
-    "region": "TR-06"
-  },
-  {
-    "ip_address": "2a09:bac3:57b8::/45",
     "ip_type": "IPv6",
     "region": "TR-06"
   },
@@ -95,28 +110,13 @@
     "region": "TR-06"
   },
   {
-    "ip_address": "140.248.18.8/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:57b8::/45",
+    "ip_type": "IPv6",
     "region": "TR-06"
   },
   {
-    "ip_address": "140.248.34.230/31",
-    "ip_type": "IPv4",
-    "region": "TR-06"
-  },
-  {
-    "ip_address": "140.248.37.58/31",
-    "ip_type": "IPv4",
-    "region": "TR-06"
-  },
-  {
-    "ip_address": "146.75.162.102/31",
-    "ip_type": "IPv4",
-    "region": "TR-06"
-  },
-  {
-    "ip_address": "146.75.169.230/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:57b8::/45",
+    "ip_type": "IPv6",
     "region": "TR-06"
   }
 ]

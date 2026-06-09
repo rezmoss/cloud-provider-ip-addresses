@@ -1,5 +1,25 @@
 [
   {
+    "ip_address": "2606:54c0:2240::/45",
+    "ip_type": "IPv6",
+    "region": "CN-HI"
+  },
+  {
+    "ip_address": "2606:54c0:2248::/45",
+    "ip_type": "IPv6",
+    "region": "CN-HI"
+  },
+  {
+    "ip_address": "2606:54c3:0:ff0::/64",
+    "ip_type": "IPv6",
+    "region": "CN-HI"
+  },
+  {
+    "ip_address": "2606:54c3:0:1a5a::/64",
+    "ip_type": "IPv6",
+    "region": "CN-HI"
+  },
+  {
     "ip_address": "2a02:26f7:c400:f4c3::/64",
     "ip_type": "IPv6",
     "region": "CN-HI"
@@ -491,26 +511,6 @@
   },
   {
     "ip_address": "2a02:26f7:c420:f4cd::/64",
-    "ip_type": "IPv6",
-    "region": "CN-HI"
-  },
-  {
-    "ip_address": "2606:54c0:2240::/45",
-    "ip_type": "IPv6",
-    "region": "CN-HI"
-  },
-  {
-    "ip_address": "2606:54c0:2248::/45",
-    "ip_type": "IPv6",
-    "region": "CN-HI"
-  },
-  {
-    "ip_address": "2606:54c3:0:ff0::/64",
-    "ip_type": "IPv6",
-    "region": "CN-HI"
-  },
-  {
-    "ip_address": "2606:54c3:0:1a5a::/64",
     "ip_type": "IPv6",
     "region": "CN-HI"
   },

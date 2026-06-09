@@ -1,5 +1,25 @@
 [
   {
+    "ip_address": "140.248.34.220/31",
+    "ip_type": "IPv4",
+    "region": "SK"
+  },
+  {
+    "ip_address": "140.248.37.34/31",
+    "ip_type": "IPv4",
+    "region": "SK"
+  },
+  {
+    "ip_address": "146.75.169.220/31",
+    "ip_type": "IPv4",
+    "region": "SK"
+  },
+  {
+    "ip_address": "146.75.180.62/31",
+    "ip_type": "IPv4",
+    "region": "SK"
+  },
+  {
     "ip_address": "172.225.41.192/27",
     "ip_type": "IPv4",
     "region": "SK"
@@ -1067,26 +1087,6 @@
   {
     "ip_address": "2a04:4e41:5625::/48",
     "ip_type": "IPv6",
-    "region": "SK"
-  },
-  {
-    "ip_address": "140.248.34.220/31",
-    "ip_type": "IPv4",
-    "region": "SK"
-  },
-  {
-    "ip_address": "140.248.37.34/31",
-    "ip_type": "IPv4",
-    "region": "SK"
-  },
-  {
-    "ip_address": "146.75.169.220/31",
-    "ip_type": "IPv4",
-    "region": "SK"
-  },
-  {
-    "ip_address": "146.75.180.62/31",
-    "ip_type": "IPv4",
     "region": "SK"
   }
 ]

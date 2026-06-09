@@ -1,5 +1,25 @@
 [
   {
+    "ip_address": "140.248.12.22/31",
+    "ip_type": "IPv4",
+    "region": "JM"
+  },
+  {
+    "ip_address": "140.248.44.62/31",
+    "ip_type": "IPv4",
+    "region": "JM"
+  },
+  {
+    "ip_address": "146.75.232.22/31",
+    "ip_type": "IPv4",
+    "region": "JM"
+  },
+  {
+    "ip_address": "146.75.248.22/31",
+    "ip_type": "IPv4",
+    "region": "JM"
+  },
+  {
     "ip_address": "172.225.28.160/27",
     "ip_type": "IPv4",
     "region": "JM"
@@ -377,26 +397,6 @@
   {
     "ip_address": "2a04:4e41:7218::/48",
     "ip_type": "IPv6",
-    "region": "JM"
-  },
-  {
-    "ip_address": "140.248.12.22/31",
-    "ip_type": "IPv4",
-    "region": "JM"
-  },
-  {
-    "ip_address": "140.248.44.62/31",
-    "ip_type": "IPv4",
-    "region": "JM"
-  },
-  {
-    "ip_address": "146.75.232.22/31",
-    "ip_type": "IPv4",
-    "region": "JM"
-  },
-  {
-    "ip_address": "146.75.248.22/31",
-    "ip_type": "IPv4",
     "region": "JM"
   }
 ]

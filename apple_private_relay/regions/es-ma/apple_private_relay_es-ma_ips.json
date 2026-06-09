@@ -1,35 +1,5 @@
 [
   {
-    "ip_address": "2a04:4e41:800:4000::/52",
-    "ip_type": "IPv6",
-    "region": "ES-MA"
-  },
-  {
-    "ip_address": "2a04:4e41:1600:5000::/52",
-    "ip_type": "IPv6",
-    "region": "ES-MA"
-  },
-  {
-    "ip_address": "2a04:4e41:4100:2000::/52",
-    "ip_type": "IPv6",
-    "region": "ES-MA"
-  },
-  {
-    "ip_address": "2a04:4e41:4800:4000::/52",
-    "ip_type": "IPv6",
-    "region": "ES-MA"
-  },
-  {
-    "ip_address": "2a04:4e41:7400:5000::/52",
-    "ip_type": "IPv6",
-    "region": "ES-MA"
-  },
-  {
-    "ip_address": "2a04:4e41:7800:2000::/52",
-    "ip_type": "IPv6",
-    "region": "ES-MA"
-  },
-  {
     "ip_address": "140.248.24.18/31",
     "ip_type": "IPv4",
     "region": "ES-MA"
@@ -57,6 +27,36 @@
   {
     "ip_address": "146.75.210.20/31",
     "ip_type": "IPv4",
+    "region": "ES-MA"
+  },
+  {
+    "ip_address": "2a04:4e41:800:4000::/52",
+    "ip_type": "IPv6",
+    "region": "ES-MA"
+  },
+  {
+    "ip_address": "2a04:4e41:1600:5000::/52",
+    "ip_type": "IPv6",
+    "region": "ES-MA"
+  },
+  {
+    "ip_address": "2a04:4e41:4100:2000::/52",
+    "ip_type": "IPv6",
+    "region": "ES-MA"
+  },
+  {
+    "ip_address": "2a04:4e41:4800:4000::/52",
+    "ip_type": "IPv6",
+    "region": "ES-MA"
+  },
+  {
+    "ip_address": "2a04:4e41:7400:5000::/52",
+    "ip_type": "IPv6",
+    "region": "ES-MA"
+  },
+  {
+    "ip_address": "2a04:4e41:7800:2000::/52",
+    "ip_type": "IPv6",
     "region": "ES-MA"
   }
 ]

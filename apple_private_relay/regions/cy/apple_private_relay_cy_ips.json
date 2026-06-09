@@ -1,5 +1,75 @@
 [
   {
+    "ip_address": "104.28.60.46/32",
+    "ip_type": "IPv4",
+    "region": "CY"
+  },
+  {
+    "ip_address": "104.28.60.47/32",
+    "ip_type": "IPv4",
+    "region": "CY"
+  },
+  {
+    "ip_address": "104.28.80.50/32",
+    "ip_type": "IPv4",
+    "region": "CY"
+  },
+  {
+    "ip_address": "104.28.80.51/32",
+    "ip_type": "IPv4",
+    "region": "CY"
+  },
+  {
+    "ip_address": "104.28.106.39/32",
+    "ip_type": "IPv4",
+    "region": "CY"
+  },
+  {
+    "ip_address": "104.28.106.40/32",
+    "ip_type": "IPv4",
+    "region": "CY"
+  },
+  {
+    "ip_address": "104.28.130.21/32",
+    "ip_type": "IPv4",
+    "region": "CY"
+  },
+  {
+    "ip_address": "104.28.130.22/32",
+    "ip_type": "IPv4",
+    "region": "CY"
+  },
+  {
+    "ip_address": "104.28.131.24/32",
+    "ip_type": "IPv4",
+    "region": "CY"
+  },
+  {
+    "ip_address": "104.28.131.25/32",
+    "ip_type": "IPv4",
+    "region": "CY"
+  },
+  {
+    "ip_address": "140.248.0.4/31",
+    "ip_type": "IPv4",
+    "region": "CY"
+  },
+  {
+    "ip_address": "140.248.4.20/31",
+    "ip_type": "IPv4",
+    "region": "CY"
+  },
+  {
+    "ip_address": "140.248.34.242/31",
+    "ip_type": "IPv4",
+    "region": "CY"
+  },
+  {
+    "ip_address": "140.248.36.40/31",
+    "ip_type": "IPv4",
+    "region": "CY"
+  },
+  {
     "ip_address": "172.225.26.32/27",
     "ip_type": "IPv4",
     "region": "CY"
@@ -17,6 +87,16 @@
   {
     "ip_address": "172.225.160.96/28",
     "ip_type": "IPv4",
+    "region": "CY"
+  },
+  {
+    "ip_address": "2606:54c0:2740::/45",
+    "ip_type": "IPv6",
+    "region": "CY"
+  },
+  {
+    "ip_address": "2606:54c3:0:11ee::/64",
+    "ip_type": "IPv6",
     "region": "CY"
   },
   {
@@ -120,76 +200,6 @@
     "region": "CY"
   },
   {
-    "ip_address": "104.28.60.46/32",
-    "ip_type": "IPv4",
-    "region": "CY"
-  },
-  {
-    "ip_address": "104.28.60.47/32",
-    "ip_type": "IPv4",
-    "region": "CY"
-  },
-  {
-    "ip_address": "104.28.80.50/32",
-    "ip_type": "IPv4",
-    "region": "CY"
-  },
-  {
-    "ip_address": "104.28.80.51/32",
-    "ip_type": "IPv4",
-    "region": "CY"
-  },
-  {
-    "ip_address": "104.28.106.39/32",
-    "ip_type": "IPv4",
-    "region": "CY"
-  },
-  {
-    "ip_address": "104.28.106.40/32",
-    "ip_type": "IPv4",
-    "region": "CY"
-  },
-  {
-    "ip_address": "104.28.130.21/32",
-    "ip_type": "IPv4",
-    "region": "CY"
-  },
-  {
-    "ip_address": "104.28.130.22/32",
-    "ip_type": "IPv4",
-    "region": "CY"
-  },
-  {
-    "ip_address": "104.28.131.24/32",
-    "ip_type": "IPv4",
-    "region": "CY"
-  },
-  {
-    "ip_address": "104.28.131.25/32",
-    "ip_type": "IPv4",
-    "region": "CY"
-  },
-  {
-    "ip_address": "2606:54c0:2740::/45",
-    "ip_type": "IPv6",
-    "region": "CY"
-  },
-  {
-    "ip_address": "2606:54c3:0:11ee::/64",
-    "ip_type": "IPv6",
-    "region": "CY"
-  },
-  {
-    "ip_address": "2a09:bac2:2740::/45",
-    "ip_type": "IPv6",
-    "region": "CY"
-  },
-  {
-    "ip_address": "2a09:bac3:2740::/45",
-    "ip_type": "IPv6",
-    "region": "CY"
-  },
-  {
     "ip_address": "2a04:4e41:1429::/48",
     "ip_type": "IPv6",
     "region": "CY"
@@ -210,23 +220,13 @@
     "region": "CY"
   },
   {
-    "ip_address": "140.248.0.4/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:2740::/45",
+    "ip_type": "IPv6",
     "region": "CY"
   },
   {
-    "ip_address": "140.248.4.20/31",
-    "ip_type": "IPv4",
-    "region": "CY"
-  },
-  {
-    "ip_address": "140.248.34.242/31",
-    "ip_type": "IPv4",
-    "region": "CY"
-  },
-  {
-    "ip_address": "140.248.36.40/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:2740::/45",
+    "ip_type": "IPv6",
     "region": "CY"
   }
 ]

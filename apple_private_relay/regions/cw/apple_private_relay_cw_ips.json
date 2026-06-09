@@ -1,5 +1,50 @@
 [
   {
+    "ip_address": "104.28.30.94/32",
+    "ip_type": "IPv4",
+    "region": "CW"
+  },
+  {
+    "ip_address": "104.28.30.165/32",
+    "ip_type": "IPv4",
+    "region": "CW"
+  },
+  {
+    "ip_address": "104.28.30.166/32",
+    "ip_type": "IPv4",
+    "region": "CW"
+  },
+  {
+    "ip_address": "104.28.30.167/32",
+    "ip_type": "IPv4",
+    "region": "CW"
+  },
+  {
+    "ip_address": "104.28.92.129/32",
+    "ip_type": "IPv4",
+    "region": "CW"
+  },
+  {
+    "ip_address": "140.248.6.76/31",
+    "ip_type": "IPv4",
+    "region": "CW"
+  },
+  {
+    "ip_address": "140.248.46.118/31",
+    "ip_type": "IPv4",
+    "region": "CW"
+  },
+  {
+    "ip_address": "146.75.130.26/31",
+    "ip_type": "IPv4",
+    "region": "CW"
+  },
+  {
+    "ip_address": "146.75.238.26/31",
+    "ip_type": "IPv4",
+    "region": "CW"
+  },
+  {
     "ip_address": "172.224.234.80/28",
     "ip_type": "IPv4",
     "region": "CW"
@@ -22,6 +67,16 @@
   {
     "ip_address": "172.226.10.32/28",
     "ip_type": "IPv4",
+    "region": "CW"
+  },
+  {
+    "ip_address": "2606:54c0:2738::/45",
+    "ip_type": "IPv6",
+    "region": "CW"
+  },
+  {
+    "ip_address": "2606:54c3:0:d05::/64",
+    "ip_type": "IPv6",
     "region": "CW"
   },
   {
@@ -75,51 +130,6 @@
     "region": "CW"
   },
   {
-    "ip_address": "104.28.30.94/32",
-    "ip_type": "IPv4",
-    "region": "CW"
-  },
-  {
-    "ip_address": "104.28.30.165/32",
-    "ip_type": "IPv4",
-    "region": "CW"
-  },
-  {
-    "ip_address": "104.28.30.166/32",
-    "ip_type": "IPv4",
-    "region": "CW"
-  },
-  {
-    "ip_address": "104.28.30.167/32",
-    "ip_type": "IPv4",
-    "region": "CW"
-  },
-  {
-    "ip_address": "104.28.92.129/32",
-    "ip_type": "IPv4",
-    "region": "CW"
-  },
-  {
-    "ip_address": "2606:54c0:2738::/45",
-    "ip_type": "IPv6",
-    "region": "CW"
-  },
-  {
-    "ip_address": "2606:54c3:0:d05::/64",
-    "ip_type": "IPv6",
-    "region": "CW"
-  },
-  {
-    "ip_address": "2a09:bac2:2738::/45",
-    "ip_type": "IPv6",
-    "region": "CW"
-  },
-  {
-    "ip_address": "2a09:bac3:2738::/45",
-    "ip_type": "IPv6",
-    "region": "CW"
-  },
-  {
     "ip_address": "2a04:4e41:3417::/48",
     "ip_type": "IPv6",
     "region": "CW"
@@ -140,23 +150,13 @@
     "region": "CW"
   },
   {
-    "ip_address": "140.248.6.76/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:2738::/45",
+    "ip_type": "IPv6",
     "region": "CW"
   },
   {
-    "ip_address": "140.248.46.118/31",
-    "ip_type": "IPv4",
-    "region": "CW"
-  },
-  {
-    "ip_address": "146.75.130.26/31",
-    "ip_type": "IPv4",
-    "region": "CW"
-  },
-  {
-    "ip_address": "146.75.238.26/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:2738::/45",
+    "ip_type": "IPv6",
     "region": "CW"
   }
 ]

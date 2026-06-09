@@ -6,6 +6,10 @@ CREATE TABLE IF NOT EXISTS `apple_private_relay_zw_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `apple_private_relay_zw_ips` (`ip_address`, `ip_type`) VALUES ('140.248.40.204/31', 'IPv4');
+INSERT INTO `apple_private_relay_zw_ips` (`ip_address`, `ip_type`) VALUES ('146.75.168.188/31', 'IPv4');
+INSERT INTO `apple_private_relay_zw_ips` (`ip_address`, `ip_type`) VALUES ('146.75.185.188/31', 'IPv4');
+INSERT INTO `apple_private_relay_zw_ips` (`ip_address`, `ip_type`) VALUES ('146.75.198.38/31', 'IPv4');
 INSERT INTO `apple_private_relay_zw_ips` (`ip_address`, `ip_type`) VALUES ('172.224.231.160/28', 'IPv4');
 INSERT INTO `apple_private_relay_zw_ips` (`ip_address`, `ip_type`) VALUES ('172.225.135.0/27', 'IPv4');
 INSERT INTO `apple_private_relay_zw_ips` (`ip_address`, `ip_type`) VALUES ('172.225.158.112/28', 'IPv4');
@@ -70,7 +74,3 @@ INSERT INTO `apple_private_relay_zw_ips` (`ip_address`, `ip_type`) VALUES ('2a04
 INSERT INTO `apple_private_relay_zw_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:1331::/48', 'IPv6');
 INSERT INTO `apple_private_relay_zw_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:1627::/48', 'IPv6');
 INSERT INTO `apple_private_relay_zw_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:7427::/48', 'IPv6');
-INSERT INTO `apple_private_relay_zw_ips` (`ip_address`, `ip_type`) VALUES ('140.248.40.204/31', 'IPv4');
-INSERT INTO `apple_private_relay_zw_ips` (`ip_address`, `ip_type`) VALUES ('146.75.168.188/31', 'IPv4');
-INSERT INTO `apple_private_relay_zw_ips` (`ip_address`, `ip_type`) VALUES ('146.75.185.188/31', 'IPv4');
-INSERT INTO `apple_private_relay_zw_ips` (`ip_address`, `ip_type`) VALUES ('146.75.198.38/31', 'IPv4');

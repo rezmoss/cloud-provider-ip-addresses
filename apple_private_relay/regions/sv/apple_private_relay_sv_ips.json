@@ -1,5 +1,40 @@
 [
   {
+    "ip_address": "140.248.12.32/31",
+    "ip_type": "IPv4",
+    "region": "SV"
+  },
+  {
+    "ip_address": "140.248.25.18/31",
+    "ip_type": "IPv4",
+    "region": "SV"
+  },
+  {
+    "ip_address": "140.248.44.92/31",
+    "ip_type": "IPv4",
+    "region": "SV"
+  },
+  {
+    "ip_address": "146.75.179.18/31",
+    "ip_type": "IPv4",
+    "region": "SV"
+  },
+  {
+    "ip_address": "146.75.191.18/31",
+    "ip_type": "IPv4",
+    "region": "SV"
+  },
+  {
+    "ip_address": "146.75.232.32/31",
+    "ip_type": "IPv4",
+    "region": "SV"
+  },
+  {
+    "ip_address": "146.75.248.32/31",
+    "ip_type": "IPv4",
+    "region": "SV"
+  },
+  {
     "ip_address": "172.224.232.40/29",
     "ip_type": "IPv4",
     "region": "SV"
@@ -57,6 +92,16 @@
   {
     "ip_address": "172.226.11.128/29",
     "ip_type": "IPv4",
+    "region": "SV"
+  },
+  {
+    "ip_address": "2606:54c0:5560::/45",
+    "ip_type": "IPv6",
+    "region": "SV"
+  },
+  {
+    "ip_address": "2606:54c3:0:172a::/64",
+    "ip_type": "IPv6",
     "region": "SV"
   },
   {
@@ -540,26 +585,6 @@
     "region": "SV"
   },
   {
-    "ip_address": "2606:54c0:5560::/45",
-    "ip_type": "IPv6",
-    "region": "SV"
-  },
-  {
-    "ip_address": "2606:54c3:0:172a::/64",
-    "ip_type": "IPv6",
-    "region": "SV"
-  },
-  {
-    "ip_address": "2a09:bac2:5560::/45",
-    "ip_type": "IPv6",
-    "region": "SV"
-  },
-  {
-    "ip_address": "2a09:bac3:5560::/45",
-    "ip_type": "IPv6",
-    "region": "SV"
-  },
-  {
     "ip_address": "2a04:4e41:1a07::/48",
     "ip_type": "IPv6",
     "region": "SV"
@@ -595,38 +620,13 @@
     "region": "SV"
   },
   {
-    "ip_address": "140.248.12.32/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:5560::/45",
+    "ip_type": "IPv6",
     "region": "SV"
   },
   {
-    "ip_address": "140.248.25.18/31",
-    "ip_type": "IPv4",
-    "region": "SV"
-  },
-  {
-    "ip_address": "140.248.44.92/31",
-    "ip_type": "IPv4",
-    "region": "SV"
-  },
-  {
-    "ip_address": "146.75.179.18/31",
-    "ip_type": "IPv4",
-    "region": "SV"
-  },
-  {
-    "ip_address": "146.75.191.18/31",
-    "ip_type": "IPv4",
-    "region": "SV"
-  },
-  {
-    "ip_address": "146.75.232.32/31",
-    "ip_type": "IPv4",
-    "region": "SV"
-  },
-  {
-    "ip_address": "146.75.248.32/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:5560::/45",
+    "ip_type": "IPv6",
     "region": "SV"
   }
 ]

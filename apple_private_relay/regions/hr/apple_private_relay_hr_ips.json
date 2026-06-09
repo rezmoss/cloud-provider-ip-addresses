@@ -1,5 +1,30 @@
 [
   {
+    "ip_address": "140.248.18.22/31",
+    "ip_type": "IPv4",
+    "region": "HR"
+  },
+  {
+    "ip_address": "140.248.34.112/31",
+    "ip_type": "IPv4",
+    "region": "HR"
+  },
+  {
+    "ip_address": "140.248.36.130/31",
+    "ip_type": "IPv4",
+    "region": "HR"
+  },
+  {
+    "ip_address": "146.75.169.112/31",
+    "ip_type": "IPv4",
+    "region": "HR"
+  },
+  {
+    "ip_address": "146.75.180.28/31",
+    "ip_type": "IPv4",
+    "region": "HR"
+  },
+  {
     "ip_address": "172.225.38.96/28",
     "ip_type": "IPv4",
     "region": "HR"
@@ -27,6 +52,16 @@
   {
     "ip_address": "172.225.191.64/27",
     "ip_type": "IPv4",
+    "region": "HR"
+  },
+  {
+    "ip_address": "2606:54c0:3938::/45",
+    "ip_type": "IPv6",
+    "region": "HR"
+  },
+  {
+    "ip_address": "2606:54c3:0:d2f::/64",
+    "ip_type": "IPv6",
     "region": "HR"
   },
   {
@@ -915,26 +950,6 @@
     "region": "HR"
   },
   {
-    "ip_address": "2606:54c0:3938::/45",
-    "ip_type": "IPv6",
-    "region": "HR"
-  },
-  {
-    "ip_address": "2606:54c3:0:d2f::/64",
-    "ip_type": "IPv6",
-    "region": "HR"
-  },
-  {
-    "ip_address": "2a09:bac2:3938::/45",
-    "ip_type": "IPv6",
-    "region": "HR"
-  },
-  {
-    "ip_address": "2a09:bac3:3938::/45",
-    "ip_type": "IPv6",
-    "region": "HR"
-  },
-  {
     "ip_address": "2a04:4e41:1415::/48",
     "ip_type": "IPv6",
     "region": "HR"
@@ -960,28 +975,13 @@
     "region": "HR"
   },
   {
-    "ip_address": "140.248.18.22/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:3938::/45",
+    "ip_type": "IPv6",
     "region": "HR"
   },
   {
-    "ip_address": "140.248.34.112/31",
-    "ip_type": "IPv4",
-    "region": "HR"
-  },
-  {
-    "ip_address": "140.248.36.130/31",
-    "ip_type": "IPv4",
-    "region": "HR"
-  },
-  {
-    "ip_address": "146.75.169.112/31",
-    "ip_type": "IPv4",
-    "region": "HR"
-  },
-  {
-    "ip_address": "146.75.180.28/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:3938::/45",
+    "ip_type": "IPv6",
     "region": "HR"
   }
 ]

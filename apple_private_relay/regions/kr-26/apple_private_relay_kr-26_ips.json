@@ -160,22 +160,32 @@
     "region": "KR-26"
   },
   {
+    "ip_address": "140.248.29.4/31",
+    "ip_type": "IPv4",
+    "region": "KR-26"
+  },
+  {
+    "ip_address": "140.248.33.54/31",
+    "ip_type": "IPv4",
+    "region": "KR-26"
+  },
+  {
+    "ip_address": "146.75.187.22/31",
+    "ip_type": "IPv4",
+    "region": "KR-26"
+  },
+  {
+    "ip_address": "146.75.201.32/31",
+    "ip_type": "IPv4",
+    "region": "KR-26"
+  },
+  {
     "ip_address": "2606:54c0:4698::/45",
     "ip_type": "IPv6",
     "region": "KR-26"
   },
   {
     "ip_address": "2606:54c3:0:10f2::/64",
-    "ip_type": "IPv6",
-    "region": "KR-26"
-  },
-  {
-    "ip_address": "2a09:bac2:4698::/45",
-    "ip_type": "IPv6",
-    "region": "KR-26"
-  },
-  {
-    "ip_address": "2a09:bac3:4698::/45",
     "ip_type": "IPv6",
     "region": "KR-26"
   },
@@ -200,23 +210,13 @@
     "region": "KR-26"
   },
   {
-    "ip_address": "140.248.29.4/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac2:4698::/45",
+    "ip_type": "IPv6",
     "region": "KR-26"
   },
   {
-    "ip_address": "140.248.33.54/31",
-    "ip_type": "IPv4",
-    "region": "KR-26"
-  },
-  {
-    "ip_address": "146.75.187.22/31",
-    "ip_type": "IPv4",
-    "region": "KR-26"
-  },
-  {
-    "ip_address": "146.75.201.32/31",
-    "ip_type": "IPv4",
+    "ip_address": "2a09:bac3:4698::/45",
+    "ip_type": "IPv6",
     "region": "KR-26"
   }
 ]

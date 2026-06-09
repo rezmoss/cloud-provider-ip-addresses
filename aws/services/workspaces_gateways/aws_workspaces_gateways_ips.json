@@ -1,33 +1,21 @@
 [
   {
-    "ip_address": "43.192.144.0/22",
+    "ip_address": "3.25.43.0/24",
     "ip_type": "IPv4",
     "service": "WORKSPACES_GATEWAYS",
-    "region": "cn-northwest-1"
+    "region": "ap-southeast-2"
   },
   {
-    "ip_address": "52.83.58.0/24",
+    "ip_address": "3.25.44.0/23",
     "ip_type": "IPv4",
     "service": "WORKSPACES_GATEWAYS",
-    "region": "cn-northwest-1"
+    "region": "ap-southeast-2"
   },
   {
-    "ip_address": "69.235.162.0/24",
+    "ip_address": "3.25.248.0/22",
     "ip_type": "IPv4",
     "service": "WORKSPACES_GATEWAYS",
-    "region": "cn-northwest-1"
-  },
-  {
-    "ip_address": "18.254.140.0/22",
-    "ip_type": "IPv4",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "18.254.148.0/22",
-    "ip_type": "IPv4",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "us-gov-east-1"
+    "region": "ap-southeast-2"
   },
   {
     "ip_address": "3.30.129.0/24",
@@ -48,54 +36,6 @@
     "region": "us-gov-west-1"
   },
   {
-    "ip_address": "52.61.193.0/24",
-    "ip_type": "IPv4",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "us-gov-west-1"
-  },
-  {
-    "ip_address": "13.246.108.0/22",
-    "ip_type": "IPv4",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "af-south-1"
-  },
-  {
-    "ip_address": "13.246.120.0/22",
-    "ip_type": "IPv4",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "af-south-1"
-  },
-  {
-    "ip_address": "18.180.178.0/24",
-    "ip_type": "IPv4",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "ap-northeast-1"
-  },
-  {
-    "ip_address": "18.180.180.0/23",
-    "ip_type": "IPv4",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "ap-northeast-1"
-  },
-  {
-    "ip_address": "3.114.164.0/22",
-    "ip_type": "IPv4",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "ap-northeast-1"
-  },
-  {
-    "ip_address": "54.250.251.0/24",
-    "ip_type": "IPv4",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "ap-northeast-1"
-  },
-  {
-    "ip_address": "13.124.247.0/24",
-    "ip_type": "IPv4",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "ap-northeast-2"
-  },
-  {
     "ip_address": "3.34.37.0/24",
     "ip_type": "IPv4",
     "service": "WORKSPACES_GATEWAYS",
@@ -114,148 +54,40 @@
     "region": "ap-northeast-2"
   },
   {
-    "ip_address": "16.208.44.0/22",
-    "ip_type": "IPv4",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "ap-northeast-3"
-  },
-  {
-    "ip_address": "13.126.243.0/24",
-    "ip_type": "IPv4",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "ap-south-1"
-  },
-  {
-    "ip_address": "65.1.156.0/22",
-    "ip_type": "IPv4",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "ap-south-1"
-  },
-  {
-    "ip_address": "13.212.132.0/22",
-    "ip_type": "IPv4",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "ap-southeast-1"
-  },
-  {
-    "ip_address": "18.141.152.0/24",
-    "ip_type": "IPv4",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "ap-southeast-1"
-  },
-  {
-    "ip_address": "18.141.154.0/23",
-    "ip_type": "IPv4",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "ap-southeast-1"
-  },
-  {
-    "ip_address": "52.76.127.0/24",
-    "ip_type": "IPv4",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "ap-southeast-1"
-  },
-  {
-    "ip_address": "3.25.248.0/22",
-    "ip_type": "IPv4",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "ap-southeast-2"
-  },
-  {
-    "ip_address": "3.25.43.0/24",
-    "ip_type": "IPv4",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "ap-southeast-2"
-  },
-  {
-    "ip_address": "3.25.44.0/23",
-    "ip_type": "IPv4",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "ap-southeast-2"
-  },
-  {
-    "ip_address": "54.153.254.0/24",
-    "ip_type": "IPv4",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "ap-southeast-2"
-  },
-  {
-    "ip_address": "43.217.232.0/22",
-    "ip_type": "IPv4",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "ap-southeast-5"
-  },
-  {
-    "ip_address": "15.223.100.0/24",
-    "ip_type": "IPv4",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "ca-central-1"
-  },
-  {
-    "ip_address": "15.223.102.0/23",
-    "ip_type": "IPv4",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "ca-central-1"
-  },
-  {
     "ip_address": "3.97.20.0/22",
     "ip_type": "IPv4",
     "service": "WORKSPACES_GATEWAYS",
     "region": "ca-central-1"
   },
   {
-    "ip_address": "35.183.255.0/24",
+    "ip_address": "3.114.164.0/22",
     "ip_type": "IPv4",
     "service": "WORKSPACES_GATEWAYS",
-    "region": "ca-central-1"
+    "region": "ap-northeast-1"
   },
   {
-    "ip_address": "16.174.56.0/22",
+    "ip_address": "3.146.84.0/22",
     "ip_type": "IPv4",
     "service": "WORKSPACES_GATEWAYS",
-    "region": "ca-west-1"
+    "region": "us-east-2"
   },
   {
-    "ip_address": "18.156.52.0/24",
+    "ip_address": "3.217.228.0/22",
     "ip_type": "IPv4",
     "service": "WORKSPACES_GATEWAYS",
-    "region": "eu-central-1"
+    "region": "us-east-1"
   },
   {
-    "ip_address": "18.156.54.0/23",
+    "ip_address": "3.227.4.0/22",
     "ip_type": "IPv4",
     "service": "WORKSPACES_GATEWAYS",
-    "region": "eu-central-1"
+    "region": "us-east-1"
   },
   {
-    "ip_address": "18.192.216.0/22",
+    "ip_address": "3.235.112.0/21",
     "ip_type": "IPv4",
     "service": "WORKSPACES_GATEWAYS",
-    "region": "eu-central-1"
-  },
-  {
-    "ip_address": "52.59.127.0/24",
-    "ip_type": "IPv4",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "eu-central-1"
-  },
-  {
-    "ip_address": "16.18.68.0/22",
-    "ip_type": "IPv4",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "eu-central-2"
-  },
-  {
-    "ip_address": "35.152.232.0/22",
-    "ip_type": "IPv4",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "eu-south-1"
-  },
-  {
-    "ip_address": "51.48.16.0/22",
-    "ip_type": "IPv4",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "eu-south-2"
+    "region": "us-east-1"
   },
   {
     "ip_address": "3.248.176.0/22",
@@ -270,10 +102,70 @@
     "region": "eu-west-1"
   },
   {
-    "ip_address": "52.19.124.0/23",
+    "ip_address": "13.124.247.0/24",
     "ip_type": "IPv4",
     "service": "WORKSPACES_GATEWAYS",
-    "region": "eu-west-1"
+    "region": "ap-northeast-2"
+  },
+  {
+    "ip_address": "13.126.243.0/24",
+    "ip_type": "IPv4",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "ap-south-1"
+  },
+  {
+    "ip_address": "13.212.132.0/22",
+    "ip_type": "IPv4",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "ap-southeast-1"
+  },
+  {
+    "ip_address": "13.246.108.0/22",
+    "ip_type": "IPv4",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "af-south-1"
+  },
+  {
+    "ip_address": "13.246.120.0/22",
+    "ip_type": "IPv4",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "af-south-1"
+  },
+  {
+    "ip_address": "15.223.100.0/24",
+    "ip_type": "IPv4",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "ca-central-1"
+  },
+  {
+    "ip_address": "15.223.102.0/23",
+    "ip_type": "IPv4",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "ca-central-1"
+  },
+  {
+    "ip_address": "15.228.64.0/22",
+    "ip_type": "IPv4",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "sa-east-1"
+  },
+  {
+    "ip_address": "16.18.68.0/22",
+    "ip_type": "IPv4",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "eu-central-2"
+  },
+  {
+    "ip_address": "16.174.56.0/22",
+    "ip_type": "IPv4",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "ca-west-1"
+  },
+  {
+    "ip_address": "16.208.44.0/22",
+    "ip_type": "IPv4",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "ap-northeast-3"
   },
   {
     "ip_address": "18.132.21.0/24",
@@ -294,34 +186,46 @@
     "region": "eu-west-2"
   },
   {
-    "ip_address": "35.176.32.0/24",
+    "ip_address": "18.141.152.0/24",
     "ip_type": "IPv4",
     "service": "WORKSPACES_GATEWAYS",
-    "region": "eu-west-2"
+    "region": "ap-southeast-1"
   },
   {
-    "ip_address": "51.44.72.0/22",
+    "ip_address": "18.141.154.0/23",
     "ip_type": "IPv4",
     "service": "WORKSPACES_GATEWAYS",
-    "region": "eu-west-3"
+    "region": "ap-southeast-1"
   },
   {
-    "ip_address": "51.17.72.0/22",
+    "ip_address": "18.156.52.0/24",
     "ip_type": "IPv4",
     "service": "WORKSPACES_GATEWAYS",
-    "region": "il-central-1"
+    "region": "eu-central-1"
   },
   {
-    "ip_address": "51.112.196.0/22",
+    "ip_address": "18.156.54.0/23",
     "ip_type": "IPv4",
     "service": "WORKSPACES_GATEWAYS",
-    "region": "me-central-1"
+    "region": "eu-central-1"
   },
   {
-    "ip_address": "15.228.64.0/22",
+    "ip_address": "18.180.178.0/24",
     "ip_type": "IPv4",
     "service": "WORKSPACES_GATEWAYS",
-    "region": "sa-east-1"
+    "region": "ap-northeast-1"
+  },
+  {
+    "ip_address": "18.180.180.0/23",
+    "ip_type": "IPv4",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "ap-northeast-1"
+  },
+  {
+    "ip_address": "18.192.216.0/22",
+    "ip_type": "IPv4",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "eu-central-1"
   },
   {
     "ip_address": "18.230.103.0/24",
@@ -336,28 +240,64 @@
     "region": "sa-east-1"
   },
   {
-    "ip_address": "54.233.204.0/24",
+    "ip_address": "18.254.140.0/22",
     "ip_type": "IPv4",
     "service": "WORKSPACES_GATEWAYS",
-    "region": "sa-east-1"
+    "region": "us-gov-east-1"
   },
   {
-    "ip_address": "3.217.228.0/22",
+    "ip_address": "18.254.148.0/22",
     "ip_type": "IPv4",
     "service": "WORKSPACES_GATEWAYS",
-    "region": "us-east-1"
+    "region": "us-gov-east-1"
   },
   {
-    "ip_address": "3.227.4.0/22",
+    "ip_address": "34.223.96.0/22",
     "ip_type": "IPv4",
     "service": "WORKSPACES_GATEWAYS",
-    "region": "us-east-1"
+    "region": "us-west-2"
   },
   {
-    "ip_address": "3.235.112.0/21",
+    "ip_address": "35.80.88.0/22",
     "ip_type": "IPv4",
     "service": "WORKSPACES_GATEWAYS",
-    "region": "us-east-1"
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "35.80.92.0/22",
+    "ip_type": "IPv4",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "35.152.232.0/22",
+    "ip_type": "IPv4",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "eu-south-1"
+  },
+  {
+    "ip_address": "35.176.32.0/24",
+    "ip_type": "IPv4",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "eu-west-2"
+  },
+  {
+    "ip_address": "35.183.255.0/24",
+    "ip_type": "IPv4",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "ca-central-1"
+  },
+  {
+    "ip_address": "43.192.144.0/22",
+    "ip_type": "IPv4",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "43.217.232.0/22",
+    "ip_type": "IPv4",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "ap-southeast-5"
   },
   {
     "ip_address": "44.209.84.0/22",
@@ -390,6 +330,42 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "44.234.54.0/23",
+    "ip_type": "IPv4",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "51.17.72.0/22",
+    "ip_type": "IPv4",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "il-central-1"
+  },
+  {
+    "ip_address": "51.44.72.0/22",
+    "ip_type": "IPv4",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "eu-west-3"
+  },
+  {
+    "ip_address": "51.48.16.0/22",
+    "ip_type": "IPv4",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "eu-south-2"
+  },
+  {
+    "ip_address": "51.112.196.0/22",
+    "ip_type": "IPv4",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "me-central-1"
+  },
+  {
+    "ip_address": "52.19.124.0/23",
+    "ip_type": "IPv4",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "eu-west-1"
+  },
+  {
     "ip_address": "52.23.61.0/24",
     "ip_type": "IPv4",
     "service": "WORKSPACES_GATEWAYS",
@@ -402,34 +378,40 @@
     "region": "us-east-1"
   },
   {
-    "ip_address": "3.146.84.0/22",
+    "ip_address": "52.59.127.0/24",
     "ip_type": "IPv4",
     "service": "WORKSPACES_GATEWAYS",
-    "region": "us-east-2"
+    "region": "eu-central-1"
   },
   {
-    "ip_address": "34.223.96.0/22",
+    "ip_address": "52.61.193.0/24",
     "ip_type": "IPv4",
     "service": "WORKSPACES_GATEWAYS",
-    "region": "us-west-2"
+    "region": "us-gov-west-1"
   },
   {
-    "ip_address": "35.80.88.0/22",
+    "ip_address": "52.76.127.0/24",
     "ip_type": "IPv4",
     "service": "WORKSPACES_GATEWAYS",
-    "region": "us-west-2"
+    "region": "ap-southeast-1"
   },
   {
-    "ip_address": "35.80.92.0/22",
+    "ip_address": "52.83.58.0/24",
     "ip_type": "IPv4",
     "service": "WORKSPACES_GATEWAYS",
-    "region": "us-west-2"
+    "region": "cn-northwest-1"
   },
   {
-    "ip_address": "44.234.54.0/23",
+    "ip_address": "54.153.254.0/24",
     "ip_type": "IPv4",
     "service": "WORKSPACES_GATEWAYS",
-    "region": "us-west-2"
+    "region": "ap-southeast-2"
+  },
+  {
+    "ip_address": "54.233.204.0/24",
+    "ip_type": "IPv4",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "sa-east-1"
   },
   {
     "ip_address": "54.244.46.0/23",
@@ -438,28 +420,82 @@
     "region": "us-west-2"
   },
   {
-    "ip_address": "2a05:d032:8000::/40",
-    "ip_type": "IPv6",
+    "ip_address": "54.250.251.0/24",
+    "ip_type": "IPv4",
     "service": "WORKSPACES_GATEWAYS",
-    "region": "eu-west-1"
+    "region": "ap-northeast-1"
   },
   {
-    "ip_address": "2a05:d032:5000::/40",
-    "ip_type": "IPv6",
+    "ip_address": "65.1.156.0/22",
+    "ip_type": "IPv4",
     "service": "WORKSPACES_GATEWAYS",
-    "region": "il-central-1"
+    "region": "ap-south-1"
   },
   {
-    "ip_address": "2600:1f32:e000::/40",
-    "ip_type": "IPv6",
+    "ip_address": "69.235.162.0/24",
+    "ip_type": "IPv4",
     "service": "WORKSPACES_GATEWAYS",
-    "region": "sa-east-1"
+    "region": "cn-northwest-1"
   },
   {
-    "ip_address": "2600:1f32:4000::/39",
+    "ip_address": "2404:c2c0:c400::/40",
     "ip_type": "IPv6",
     "service": "WORKSPACES_GATEWAYS",
-    "region": "us-west-2"
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "2406:da20:8018::/48",
+    "ip_type": "IPv6",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "ap-southeast-5"
+  },
+  {
+    "ip_address": "2406:da21:c::/48",
+    "ip_type": "IPv6",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "af-south-1"
+  },
+  {
+    "ip_address": "2406:da22:4::/48",
+    "ip_type": "IPv6",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "ap-northeast-2"
+  },
+  {
+    "ip_address": "2406:da24:28::/48",
+    "ip_type": "IPv6",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "ap-northeast-1"
+  },
+  {
+    "ip_address": "2406:da27:4::/48",
+    "ip_type": "IPv6",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "me-central-1"
+  },
+  {
+    "ip_address": "2406:da28:28::/48",
+    "ip_type": "IPv6",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "ap-southeast-1"
+  },
+  {
+    "ip_address": "2406:da2a:14::/48",
+    "ip_type": "IPv6",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "ap-south-1"
+  },
+  {
+    "ip_address": "2406:da2c:24::/48",
+    "ip_type": "IPv6",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "ap-southeast-2"
+  },
+  {
+    "ip_address": "2406:da32:1000::/40",
+    "ip_type": "IPv6",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "af-south-1"
   },
   {
     "ip_address": "2406:da32:2000::/40",
@@ -474,34 +510,10 @@
     "region": "ap-northeast-1"
   },
   {
-    "ip_address": "2a05:d032:2000::/40",
-    "ip_type": "IPv6",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "eu-west-3"
-  },
-  {
-    "ip_address": "2600:1f32:5000::/40",
-    "ip_type": "IPv6",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "us-gov-east-1"
-  },
-  {
     "ip_address": "2406:da32:8000::/40",
     "ip_type": "IPv6",
     "service": "WORKSPACES_GATEWAYS",
     "region": "ap-southeast-1"
-  },
-  {
-    "ip_address": "2600:1f32:8000::/39",
-    "ip_type": "IPv6",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "us-east-1"
-  },
-  {
-    "ip_address": "2406:da32:c000::/40",
-    "ip_type": "IPv6",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "ap-southeast-2"
   },
   {
     "ip_address": "2406:da32:a000::/40",
@@ -510,94 +522,10 @@
     "region": "ap-south-1"
   },
   {
-    "ip_address": "2a05:d032:4000::/40",
-    "ip_type": "IPv6",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "eu-central-1"
-  },
-  {
-    "ip_address": "2406:da32:1000::/40",
-    "ip_type": "IPv6",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "af-south-1"
-  },
-  {
-    "ip_address": "2600:1f32:2000::/40",
-    "ip_type": "IPv6",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "us-gov-west-1"
-  },
-  {
-    "ip_address": "2600:1f32:1000::/40",
-    "ip_type": "IPv6",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "ca-central-1"
-  },
-  {
-    "ip_address": "2a05:d032:c000::/40",
-    "ip_type": "IPv6",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "eu-west-2"
-  },
-  {
-    "ip_address": "2404:c2c0:c400::/40",
-    "ip_type": "IPv6",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "cn-northwest-1"
-  },
-  {
-    "ip_address": "2600:1f25:14::/48",
-    "ip_type": "IPv6",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "us-gov-east-1"
-  },
-  {
-    "ip_address": "2600:1f22:28::/48",
-    "ip_type": "IPv6",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "us-gov-west-1"
-  },
-  {
-    "ip_address": "2406:da21:c::/48",
-    "ip_type": "IPv6",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "af-south-1"
-  },
-  {
-    "ip_address": "2406:da24:28::/48",
-    "ip_type": "IPv6",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "ap-northeast-1"
-  },
-  {
-    "ip_address": "2406:da22:4::/48",
-    "ip_type": "IPv6",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "ap-northeast-2"
-  },
-  {
-    "ip_address": "2406:da2a:14::/48",
-    "ip_type": "IPv6",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "ap-south-1"
-  },
-  {
-    "ip_address": "2406:da28:28::/48",
-    "ip_type": "IPv6",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "ap-southeast-1"
-  },
-  {
-    "ip_address": "2406:da2c:24::/48",
+    "ip_address": "2406:da32:c000::/40",
     "ip_type": "IPv6",
     "service": "WORKSPACES_GATEWAYS",
     "region": "ap-southeast-2"
-  },
-  {
-    "ip_address": "2406:da20:8018::/48",
-    "ip_type": "IPv6",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "ap-southeast-5"
   },
   {
     "ip_address": "2600:1f21:8::/48",
@@ -606,64 +534,22 @@
     "region": "ca-central-1"
   },
   {
-    "ip_address": "2a05:d024:18::/48",
+    "ip_address": "2600:1f22:28::/48",
     "ip_type": "IPv6",
     "service": "WORKSPACES_GATEWAYS",
-    "region": "eu-central-1"
+    "region": "us-gov-west-1"
   },
   {
-    "ip_address": "2a05:d02a:4::/48",
+    "ip_address": "2600:1f24:34::/48",
     "ip_type": "IPv6",
     "service": "WORKSPACES_GATEWAYS",
-    "region": "eu-south-1"
+    "region": "us-west-2"
   },
   {
-    "ip_address": "2a05:d021:c::/48",
+    "ip_address": "2600:1f25:14::/48",
     "ip_type": "IPv6",
     "service": "WORKSPACES_GATEWAYS",
-    "region": "eu-south-2"
-  },
-  {
-    "ip_address": "2a05:d028:40::/48",
-    "ip_type": "IPv6",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "eu-west-1"
-  },
-  {
-    "ip_address": "2a05:d02c:8::/48",
-    "ip_type": "IPv6",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "eu-west-2"
-  },
-  {
-    "ip_address": "2a05:d022:1c::/48",
-    "ip_type": "IPv6",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "eu-west-3"
-  },
-  {
-    "ip_address": "2a05:d025:1000::/48",
-    "ip_type": "IPv6",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "il-central-1"
-  },
-  {
-    "ip_address": "2406:da27:4::/48",
-    "ip_type": "IPv6",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "me-central-1"
-  },
-  {
-    "ip_address": "2600:1f2e:14::/48",
-    "ip_type": "IPv6",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "sa-east-1"
-  },
-  {
-    "ip_address": "2600:1f28:34c::/48",
-    "ip_type": "IPv6",
-    "service": "WORKSPACES_GATEWAYS",
-    "region": "us-east-1"
+    "region": "us-gov-east-1"
   },
   {
     "ip_address": "2600:1f26:28::/48",
@@ -672,9 +558,123 @@
     "region": "us-east-2"
   },
   {
-    "ip_address": "2600:1f24:34::/48",
+    "ip_address": "2600:1f28:34c::/48",
+    "ip_type": "IPv6",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "2600:1f2e:14::/48",
+    "ip_type": "IPv6",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "sa-east-1"
+  },
+  {
+    "ip_address": "2600:1f32:1000::/40",
+    "ip_type": "IPv6",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "ca-central-1"
+  },
+  {
+    "ip_address": "2600:1f32:2000::/40",
+    "ip_type": "IPv6",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "us-gov-west-1"
+  },
+  {
+    "ip_address": "2600:1f32:4000::/39",
     "ip_type": "IPv6",
     "service": "WORKSPACES_GATEWAYS",
     "region": "us-west-2"
+  },
+  {
+    "ip_address": "2600:1f32:5000::/40",
+    "ip_type": "IPv6",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "2600:1f32:8000::/39",
+    "ip_type": "IPv6",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "2600:1f32:e000::/40",
+    "ip_type": "IPv6",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "sa-east-1"
+  },
+  {
+    "ip_address": "2a05:d021:c::/48",
+    "ip_type": "IPv6",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "eu-south-2"
+  },
+  {
+    "ip_address": "2a05:d022:1c::/48",
+    "ip_type": "IPv6",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "eu-west-3"
+  },
+  {
+    "ip_address": "2a05:d024:18::/48",
+    "ip_type": "IPv6",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "eu-central-1"
+  },
+  {
+    "ip_address": "2a05:d025:1000::/48",
+    "ip_type": "IPv6",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "il-central-1"
+  },
+  {
+    "ip_address": "2a05:d028:40::/48",
+    "ip_type": "IPv6",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "eu-west-1"
+  },
+  {
+    "ip_address": "2a05:d02a:4::/48",
+    "ip_type": "IPv6",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "eu-south-1"
+  },
+  {
+    "ip_address": "2a05:d02c:8::/48",
+    "ip_type": "IPv6",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "eu-west-2"
+  },
+  {
+    "ip_address": "2a05:d032:2000::/40",
+    "ip_type": "IPv6",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "eu-west-3"
+  },
+  {
+    "ip_address": "2a05:d032:4000::/40",
+    "ip_type": "IPv6",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "eu-central-1"
+  },
+  {
+    "ip_address": "2a05:d032:5000::/40",
+    "ip_type": "IPv6",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "il-central-1"
+  },
+  {
+    "ip_address": "2a05:d032:8000::/40",
+    "ip_type": "IPv6",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "eu-west-1"
+  },
+  {
+    "ip_address": "2a05:d032:c000::/40",
+    "ip_type": "IPv6",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "eu-west-2"
   }
 ]

@@ -6,12 +6,6 @@
     "region": "eu-jovanovac-1"
   },
   {
-    "ip_address": "207.127.82.0/23",
-    "ip_type": "IPv4",
-    "service": "OCI",
-    "region": "eu-jovanovac-1"
-  },
-  {
     "ip_address": "130.110.31.0/24",
     "ip_type": "IPv4",
     "service": "OSN",
@@ -39,6 +33,12 @@
     "ip_address": "207.127.80.0/23",
     "ip_type": "IPv4",
     "service": "OSN",
+    "region": "eu-jovanovac-1"
+  },
+  {
+    "ip_address": "207.127.82.0/23",
+    "ip_type": "IPv4",
+    "service": "OCI",
     "region": "eu-jovanovac-1"
   },
   {
