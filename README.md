@@ -16,7 +16,7 @@
 
 ### Live Stats
 
-> Last updated: **2026-06-09** | Providers: **24** | Total CIDRs: **428,468** | IPv4 addresses: **344,102,054** | IPv4 space: **8.01%**
+> Last updated: **2026-06-10** | Providers: **24** | Total CIDRs: **428,468** | IPv4 addresses: **344,102,054** | IPv4 space: **8.01%**
 
 | Provider | IPv4 CIDRs | IPv6 CIDRs | Total CIDRs | IPv4 Addresses | Services | Regions |
 |----------|-----------|-----------|------------|---------------|----------|--------|

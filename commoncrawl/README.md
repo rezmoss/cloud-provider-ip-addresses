@@ -1,6 +1,6 @@
 # Common Crawl (CCBot) IP Ranges (Auto-Updated Daily)
 
-> Last updated: **2026-06-09** · Total CIDRs: **6** · IPv4: **5** · IPv6: **1** · Services: **1**
+> Last updated: **2026-06-10** · Total CIDRs: **6** · IPv4: **5** · IPv6: **1** · Services: **1**
 
 Machine-readable, daily-updated, validated public IP ranges for **Common Crawl (CCBot)**.
 Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and Apache.

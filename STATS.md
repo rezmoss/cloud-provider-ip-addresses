@@ -1,6 +1,6 @@
 # IP Range Statistics
 
-Generated: 2026-06-09T23:00:27.482412
+Generated: 2026-06-10T03:20:55.184340
 
 Total IPv4 addresses: 344,102,054
 Total IPv6 addresses: 5,205,635,900,634,831,681,939,696,870,818,834
