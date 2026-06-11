@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+149.102.229.129/32,IPv4,mullvad-wireguard,tr
+149.102.229.158/32,IPv4,mullvad-wireguard,tr
+2a02:6ea0:e813::f001/128,IPv6,mullvad-wireguard,tr
+2a02:6ea0:e813:1::f001/128,IPv6,mullvad-wireguard,tr

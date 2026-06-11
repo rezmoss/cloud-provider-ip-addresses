@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+154.47.30.130/32,IPv4,mullvad-wireguard,za
+154.47.30.143/32,IPv4,mullvad-wireguard,za
+2a02:6ea0:f206::f001/128,IPv6,mullvad-wireguard,za
+2a02:6ea0:f207::f001/128,IPv6,mullvad-wireguard,za

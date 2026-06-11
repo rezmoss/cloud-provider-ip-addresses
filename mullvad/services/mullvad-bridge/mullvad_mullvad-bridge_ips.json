@@ -1,0 +1,116 @@
+[
+  {
+    "ip_address": "38.132.121.146/32",
+    "ip_type": "IPv4",
+    "service": "mullvad-bridge",
+    "region": "us"
+  },
+  {
+    "ip_address": "62.133.44.202/32",
+    "ip_type": "IPv4",
+    "service": "mullvad-bridge",
+    "region": "us"
+  },
+  {
+    "ip_address": "69.4.234.8/32",
+    "ip_type": "IPv4",
+    "service": "mullvad-bridge",
+    "region": "us"
+  },
+  {
+    "ip_address": "103.125.233.210/32",
+    "ip_type": "IPv4",
+    "service": "mullvad-bridge",
+    "region": "hk"
+  },
+  {
+    "ip_address": "141.98.252.66/32",
+    "ip_type": "IPv4",
+    "service": "mullvad-bridge",
+    "region": "gb"
+  },
+  {
+    "ip_address": "146.70.141.154/32",
+    "ip_type": "IPv4",
+    "service": "mullvad-bridge",
+    "region": "au"
+  },
+  {
+    "ip_address": "146.70.183.34/32",
+    "ip_type": "IPv4",
+    "service": "mullvad-bridge",
+    "region": "us"
+  },
+  {
+    "ip_address": "146.70.192.38/32",
+    "ip_type": "IPv4",
+    "service": "mullvad-bridge",
+    "region": "sg"
+  },
+  {
+    "ip_address": "185.65.134.116/32",
+    "ip_type": "IPv4",
+    "service": "mullvad-bridge",
+    "region": "nl"
+  },
+  {
+    "ip_address": "185.242.4.34/32",
+    "ip_type": "IPv4",
+    "service": "mullvad-bridge",
+    "region": "jp"
+  },
+  {
+    "ip_address": "193.32.127.117/32",
+    "ip_type": "IPv4",
+    "service": "mullvad-bridge",
+    "region": "ch"
+  },
+  {
+    "ip_address": "193.138.7.132/32",
+    "ip_type": "IPv4",
+    "service": "mullvad-bridge",
+    "region": "fi"
+  },
+  {
+    "ip_address": "212.103.48.226/32",
+    "ip_type": "IPv4",
+    "service": "mullvad-bridge",
+    "region": "us"
+  },
+  {
+    "ip_address": "217.138.199.106/32",
+    "ip_type": "IPv4",
+    "service": "mullvad-bridge",
+    "region": "cz"
+  },
+  {
+    "ip_address": "217.138.213.18/32",
+    "ip_type": "IPv4",
+    "service": "mullvad-bridge",
+    "region": "ca"
+  },
+  {
+    "ip_address": "2001:ac8:40:22::bb01/128",
+    "ip_type": "IPv6",
+    "service": "mullvad-bridge",
+    "region": "jp"
+  },
+  {
+    "ip_address": "2607:fc98:0:8a::f001/128",
+    "ip_type": "IPv6",
+    "service": "mullvad-bridge",
+    "region": "us"
+  },
+  {
+    "ip_address": "2a0d:5600:d:40::bb01/128",
+    "ip_type": "IPv6",
+    "service": "mullvad-bridge",
+    "region": "sg"
+  },
+  {
+    "ip_address": "2a0d:5600:24:1383::f1f/128",
+    "ip_type": "IPv6",
+    "service": "mullvad-bridge",
+    "region": "us"
+  }
+]

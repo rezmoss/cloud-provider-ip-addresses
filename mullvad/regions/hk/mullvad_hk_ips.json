@@ -1,0 +1,68 @@
+[
+  {
+    "ip_address": "103.125.233.3/32",
+    "ip_type": "IPv4",
+    "service": "mullvad-wireguard",
+    "region": "hk"
+  },
+  {
+    "ip_address": "103.125.233.18/32",
+    "ip_type": "IPv4",
+    "service": "mullvad-wireguard",
+    "region": "hk"
+  },
+  {
+    "ip_address": "103.125.233.210/32",
+    "ip_type": "IPv4",
+    "service": "mullvad-bridge",
+    "region": "hk"
+  },
+  {
+    "ip_address": "146.70.224.2/32",
+    "ip_type": "IPv4",
+    "service": "mullvad-wireguard",
+    "region": "hk"
+  },
+  {
+    "ip_address": "146.70.224.66/32",
+    "ip_type": "IPv4",
+    "service": "mullvad-wireguard",
+    "region": "hk"
+  },
+  {
+    "ip_address": "146.70.224.196/32",
+    "ip_type": "IPv4",
+    "service": "mullvad-wireguard",
+    "region": "hk"
+  },
+  {
+    "ip_address": "2001:ac8:a:f::f001/128",
+    "ip_type": "IPv6",
+    "service": "mullvad-wireguard",
+    "region": "hk"
+  },
+  {
+    "ip_address": "2001:ac8:a:19::f001/128",
+    "ip_type": "IPv6",
+    "service": "mullvad-wireguard",
+    "region": "hk"
+  },
+  {
+    "ip_address": "2001:ac8:a:1b::f001/128",
+    "ip_type": "IPv6",
+    "service": "mullvad-wireguard",
+    "region": "hk"
+  },
+  {
+    "ip_address": "2403:2c81:1000::a05f/128",
+    "ip_type": "IPv6",
+    "service": "mullvad-wireguard",
+    "region": "hk"
+  },
+  {
+    "ip_address": "2403:2c81:1000::a06f/128",
+    "ip_type": "IPv6",
+    "service": "mullvad-wireguard",
+    "region": "hk"
+  }
+]

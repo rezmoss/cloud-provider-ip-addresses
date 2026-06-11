@@ -1,6 +1,6 @@
 #!/bin/bash
 # Gptbot IP Ranges
-# Updated: 2026-06-09 22:59:11
+# Updated: 2026-06-11 03:18:56
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -48,9 +48,12 @@ ufw deny from 20.27.94.128/28
 ufw deny from 20.42.10.176/28
 ufw deny from 20.42.250.32/28
 ufw deny from 20.45.178.144/28
+ufw deny from 20.52.125.160/28
+ufw deny from 20.55.129.0/28
 ufw deny from 20.55.229.144/28
 ufw deny from 20.57.199.192/28
 ufw deny from 20.63.221.64/28
+ufw deny from 20.79.59.112/28
 ufw deny from 20.97.189.96/28
 ufw deny from 20.102.212.144/28
 ufw deny from 20.113.218.16/28
@@ -161,6 +164,8 @@ ufw deny from 52.154.22.48/28
 ufw deny from 52.156.77.144/28
 ufw deny from 52.159.227.32/28
 ufw deny from 52.159.249.96/28
+ufw deny from 52.161.49.96/28
+ufw deny from 52.161.49.224/28
 ufw deny from 52.165.212.16/28
 ufw deny from 52.165.212.32/28
 ufw deny from 52.165.212.48/28
@@ -296,6 +301,7 @@ ufw deny from 172.212.159.64/28
 ufw deny from 172.212.172.160/28
 ufw deny from 172.213.11.144/28
 ufw deny from 172.213.21.16/28
+ufw deny from 172.215.215.32/28
 ufw deny from 172.215.218.96/28
 ufw deny from 191.233.1.112/28
 ufw deny from 191.233.1.128/28

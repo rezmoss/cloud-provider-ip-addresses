@@ -1,0 +1,7 @@
+ip_address,ip_type,service,region
+103.75.11.50/32,IPv4,mullvad-wireguard,nz
+103.75.11.66/32,IPv4,mullvad-wireguard,nz
+103.75.11.98/32,IPv4,mullvad-wireguard,nz
+2404:f780:5:deb::f001/128,IPv6,mullvad-wireguard,nz
+2404:f780:5:dec::c02f/128,IPv6,mullvad-wireguard,nz
+2404:f780:5:def::f201/128,IPv6,mullvad-wireguard,nz

@@ -2292,6 +2292,12 @@
     "region": "ap-southeast-1"
   },
   {
+    "ip_address": "141.230.0.0/16",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "ap-southeast-1"
+  },
+  {
     "ip_address": "141.231.0.0/16",
     "ip_type": "IPv4",
     "service": "AMAZON",

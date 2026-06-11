@@ -1,0 +1,11 @@
+ip_address,ip_type,service,region
+45.128.38.226/32,IPv4,mullvad-wireguard,pl
+45.134.212.66/32,IPv4,mullvad-wireguard,pl
+45.134.212.79/32,IPv4,mullvad-wireguard,pl
+45.134.212.92/32,IPv4,mullvad-wireguard,pl
+146.70.144.34/32,IPv4,mullvad-wireguard,pl
+2a02:6ea0:ce08:1::f001/128,IPv6,mullvad-wireguard,pl
+2a02:6ea0:ce08:2::a06f/128,IPv6,mullvad-wireguard,pl
+2a02:6ea0:ce08:3::a07f/128,IPv6,mullvad-wireguard,pl
+2a0d:5600:13:67::a01f/128,IPv6,mullvad-wireguard,pl
+2a0d:5600:13:c47::a02f/128,IPv6,mullvad-wireguard,pl

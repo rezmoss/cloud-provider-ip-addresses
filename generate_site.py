@@ -44,6 +44,32 @@ PROVIDER_META = {
     "applebot":            {"name": "Applebot",             "group": "bot",   "color": "#888888"},
     "perplexitybot":       {"name": "PerplexityBot",        "group": "bot",   "color": "#6F42C1"},
     "commoncrawl":         {"name": "Common Crawl",         "group": "bot",   "color": "#A0A0A0"},
+    "meta":                {"name": "Meta (Facebook)",      "group": "asn",   "color": "#0866FF"},
+    "alibaba":             {"name": "Alibaba",              "group": "asn",   "color": "#FF6A00"},
+    "tencent":             {"name": "Tencent",              "group": "asn",   "color": "#0052D9"},
+    "tor":                 {"name": "Tor Exit Nodes",       "group": "vpn",   "color": "#7D4698"},
+    "mullvad":             {"name": "Mullvad VPN",          "group": "vpn",   "color": "#294D73"},
+}
+
+# Providers whose ranges are observed from BGP announcements of the entity's
+# registered ASNs (no official feed exists). Both the site and the published
+# READMEs must say so explicitly.
+BGP_DERIVED_NOTES = {
+    "meta": (
+        "Meta does not publish an official IP range feed. These ranges are derived from "
+        "live BGP announcements of Meta's officially registered ASNs, observed via "
+        "public BGP data sources."
+    ),
+    "alibaba": (
+        "Alibaba does not publish an official IP range feed. These ranges are derived from "
+        "live BGP announcements of Alibaba's officially registered ASNs, observed via "
+        "public BGP data sources."
+    ),
+    "tencent": (
+        "Tencent does not publish an official IP range feed. These ranges are derived from "
+        "live BGP announcements of Tencent's officially registered ASNs, observed via "
+        "public BGP data sources."
+    ),
 }
 
 
@@ -389,13 +415,13 @@ def _squarify(items: list, w: float, h: float, x: float, y: float, out: list) ->
         _squarify(items[i:], max(0.0, w - rw), h, x + rw, y, out)
 
 
-def build_treemap(summary: dict, cols: int = 24, rows: int = 18) -> str:
+def build_treemap(summary: dict, metric: str = "total_cidrs", cols: int = 24, rows: int = 18) -> str:
     items = []
     for slug, info in summary["providers"].items():
-        if info["total_cidrs"] <= 0:
+        if info[metric] <= 0:
             continue
         m = pmeta(slug)
-        items.append((info["total_cidrs"], slug, m["color"]))
+        items.append((info[metric], slug, m["color"]))
     items.sort(key=lambda x: -x[0])
     total = sum(v for v, _, _ in items)
     if total <= 0:
@@ -418,7 +444,7 @@ def build_treemap(summary: dict, cols: int = 24, rows: int = 18) -> str:
         info = summary["providers"][slug]
         cells.append(
             f'<a class="tm-cell" href="/{slug}/" style="grid-column:{cx} / span {cw};grid-row:{cy} / span {ch};background:{color}">'
-            f'{html.escape(m["name"])}<span class="tm-val">{short_int(info["total_cidrs"])}</span>'
+            f'{html.escape(m["name"])}<span class="tm-val">{short_int(info[metric])}</span>'
             f"</a>"
         )
     return "".join(cells)
@@ -496,7 +522,8 @@ def render_index(summary: dict, generated_dt: datetime, days: list) -> str:
         group_counts[g] = group_counts.get(g, 0) + 1
     group_summary = " · ".join(f"{n} {g}" for g, n in sorted(group_counts.items(), key=lambda kv: -kv[1]))
 
-    treemap_cells = build_treemap(summary)
+    treemap_addr_cells = build_treemap(summary, "ipv4_addresses")
+    treemap_cidr_cells = build_treemap(summary, "total_cidrs")
 
     today = days[0] if days else None
     diff_rows = ""
@@ -587,8 +614,26 @@ def render_index(summary: dict, generated_dt: datetime, days: list) -> str:
 
   <div class="grid dash">
     <div class="panel">
-      <div class="panel-head"><h3>// CIDR-WEIGHTED DISTRIBUTION</h3><span class="meta">squarified · click a tile</span></div>
-      <div class="treemap" style="grid-auto-rows:32px">{treemap_cells}</div>
+      <div class="panel-head"><h3>// PROVIDER DISTRIBUTION</h3>
+        <div class="chips" id="tm-toggle">
+          <button class="chip active" data-tm="tm-addr">IPv4 address space</button>
+          <button class="chip" data-tm="tm-cidr">CIDR count</button>
+        </div>
+      </div>
+      <div class="treemap" id="tm-addr" style="grid-auto-rows:32px">{treemap_addr_cells}</div>
+      <div class="treemap" id="tm-cidr" style="grid-auto-rows:32px;display:none">{treemap_cidr_cells}</div>
+      <script>
+      document.querySelectorAll('#tm-toggle .chip').forEach(function(btn) {{
+        btn.addEventListener('click', function() {{
+          document.querySelectorAll('#tm-toggle .chip').forEach(function(b) {{
+            b.classList.toggle('active', b === btn);
+          }});
+          ['tm-addr', 'tm-cidr'].forEach(function(id) {{
+            document.getElementById(id).style.display = id === btn.dataset.tm ? '' : 'none';
+          }});
+        }});
+      }});
+      </script>
     </div>
     <div class="panel">
       <div class="panel-head"><h3>// RECENT ACTIVITY</h3><span class="meta">last 7 days</span></div>
@@ -767,15 +812,33 @@ def render_provider(provider: str, info: dict, formats: dict, dt: datetime, days
         f"({fmt_int(info['ipv4_cidrs'])} IPv4, {fmt_int(info['ipv6_cidrs'])} IPv6), refreshed daily."
     )
     mark_initials = "".join(w[0] for w in m["name"].split()[:2]).upper()
+    bgp_note = BGP_DERIVED_NOTES.get(provider, "")
+    if bgp_note:
+        desc += " Derived from BGP announcements of registered ASNs, not an official feed."
+        lede = (
+            f"Live IP-range intelligence for {html.escape(m['name'])}, derived daily from BGP "
+            f"announcements of {html.escape(m['name'])}'s registered ASNs — not an official feed."
+        )
+        bgp_panel = f"""
+  <div class="panel" style="margin-bottom:20px;border-left:3px solid var(--amber)">
+    <div class="panel-head"><h3>// DATA SOURCE CAVEAT</h3><span class="meta">BGP / ASN-derived</span></div>
+    <div class="panel-body"><p style="color:var(--ink-2)">{html.escape(bgp_note)}</p></div>
+  </div>"""
+    else:
+        lede = (
+            f"Live IP-range intelligence for {html.escape(m['name'])}, updated daily at "
+            f"06:00 UTC from the official upstream feed."
+        )
+        bgp_panel = ""
     body = f"""<section class="page active">
   <div class="page-head">
     <div>
       <div class="crumbs">// <a href="/providers/" style="color:inherit">PROVIDERS</a> / <b>{html.escape(m['name'].upper())}</b></div>
       <h1>{html.escape(m['name'])}</h1>
-      <p class="lede">Live IP-range intelligence for {html.escape(m['name'])}, updated daily at 06:00 UTC from the official upstream feed.</p>
+      <p class="lede">{lede}</p>
     </div>
     <a class="detail-close" href="/providers/">← BACK</a>
-  </div>
+  </div>{bgp_panel}
 
   <div class="detail-hero">
     <div class="detail-mark" style="background:{m['color']}">{html.escape(mark_initials)}</div>
@@ -1911,6 +1974,8 @@ CLASS_LABEL = {
     "cdn": "CDN",
     "saas": "SAAS",
     "bot": "BOT / CRAWLER",
+    "asn": "ASN / BGP-DERIVED",
+    "vpn": "VPN / ANONYMIZER",
     "other": "OTHER",
 }
 

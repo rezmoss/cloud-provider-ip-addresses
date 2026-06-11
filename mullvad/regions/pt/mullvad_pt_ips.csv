@@ -1,0 +1,9 @@
+ip_address,ip_type,service,region
+149.88.20.193/32,IPv4,mullvad-wireguard,pt
+149.88.20.206/32,IPv4,mullvad-wireguard,pt
+185.92.210.195/32,IPv4,mullvad-wireguard,pt
+185.92.210.225/32,IPv4,mullvad-wireguard,pt
+2a02:6ea0:fb01:1::f001/128,IPv6,mullvad-wireguard,pt
+2a02:6ea0:fb01:2::f002/128,IPv6,mullvad-wireguard,pt
+2a06:3040:0:1410::f001/128,IPv6,mullvad-wireguard,pt
+2a06:3040:0:1410::f101/128,IPv6,mullvad-wireguard,pt

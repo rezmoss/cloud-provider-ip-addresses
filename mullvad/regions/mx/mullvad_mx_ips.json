@@ -1,0 +1,50 @@
+[
+  {
+    "ip_address": "149.88.22.129/32",
+    "ip_type": "IPv4",
+    "service": "mullvad-wireguard",
+    "region": "mx"
+  },
+  {
+    "ip_address": "149.88.22.142/32",
+    "ip_type": "IPv4",
+    "service": "mullvad-wireguard",
+    "region": "mx"
+  },
+  {
+    "ip_address": "149.88.22.155/32",
+    "ip_type": "IPv4",
+    "service": "mullvad-wireguard",
+    "region": "mx"
+  },
+  {
+    "ip_address": "149.88.22.168/32",
+    "ip_type": "IPv4",
+    "service": "mullvad-wireguard",
+    "region": "mx"
+  },
+  {
+    "ip_address": "2a02:6ea0:f803::f001/128",
+    "ip_type": "IPv6",
+    "service": "mullvad-wireguard",
+    "region": "mx"
+  },
+  {
+    "ip_address": "2a02:6ea0:f803:1::f001/128",
+    "ip_type": "IPv6",
+    "service": "mullvad-wireguard",
+    "region": "mx"
+  },
+  {
+    "ip_address": "2a02:6ea0:f803:2::f001/128",
+    "ip_type": "IPv6",
+    "service": "mullvad-wireguard",
+    "region": "mx"
+  },
+  {
+    "ip_address": "2a02:6ea0:f803:3::f001/128",
+    "ip_type": "IPv6",
+    "service": "mullvad-wireguard",
+    "region": "mx"
+  }
+]

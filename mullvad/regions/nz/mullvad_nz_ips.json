@@ -1,0 +1,38 @@
+[
+  {
+    "ip_address": "103.75.11.50/32",
+    "ip_type": "IPv4",
+    "service": "mullvad-wireguard",
+    "region": "nz"
+  },
+  {
+    "ip_address": "103.75.11.66/32",
+    "ip_type": "IPv4",
+    "service": "mullvad-wireguard",
+    "region": "nz"
+  },
+  {
+    "ip_address": "103.75.11.98/32",
+    "ip_type": "IPv4",
+    "service": "mullvad-wireguard",
+    "region": "nz"
+  },
+  {
+    "ip_address": "2404:f780:5:deb::f001/128",
+    "ip_type": "IPv6",
+    "service": "mullvad-wireguard",
+    "region": "nz"
+  },
+  {
+    "ip_address": "2404:f780:5:dec::c02f/128",
+    "ip_type": "IPv6",
+    "service": "mullvad-wireguard",
+    "region": "nz"
+  },
+  {
+    "ip_address": "2404:f780:5:def::f201/128",
+    "ip_type": "IPv6",
+    "service": "mullvad-wireguard",
+    "region": "nz"
+  }
+]

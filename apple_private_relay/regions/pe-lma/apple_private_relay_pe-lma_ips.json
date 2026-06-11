@@ -200,6 +200,11 @@
     "region": "PE-LMA"
   },
   {
+    "ip_address": "104.28.137.95/32",
+    "ip_type": "IPv4",
+    "region": "PE-LMA"
+  },
+  {
     "ip_address": "104.28.142.81/32",
     "ip_type": "IPv4",
     "region": "PE-LMA"

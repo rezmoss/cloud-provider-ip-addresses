@@ -5,26 +5,27 @@
 [![GitHub stars](https://img.shields.io/github/stars/rezmoss/cloud-provider-ip-addresses)](https://github.com/rezmoss/cloud-provider-ip-addresses/stargazers)
 [![GitHub license](https://img.shields.io/github/license/rezmoss/cloud-provider-ip-addresses)](https://github.com/rezmoss/cloud-provider-ip-addresses/blob/main/LICENSE)
 ![Last Updated](https://img.shields.io/github/last-commit/rezmoss/cloud-provider-ip-addresses)
-![Providers](https://img.shields.io/badge/providers-24-blue)
+![Providers](https://img.shields.io/badge/providers-29-blue)
 ![Formats](https://img.shields.io/badge/formats-12+-green)
 ![Update](https://img.shields.io/badge/updated-daily%2000%3A00%20UTC-brightgreen)
 
-> **24 providers** | **12+ output formats** | **Merged/optimized CIDRs** | **Firewall-ready configs** | **Unified cross-provider dataset** | **Daily changelog** | **IP lookup tool** | **Go & JS client libraries**
+> **29 providers** | **12+ output formats** | **Merged/optimized CIDRs** | **Firewall-ready configs** | **Unified cross-provider dataset** | **Daily changelog** | **IP lookup tool** | **Go & JS client libraries**
 
 <!-- STATS_START -->
 <!-- This section is auto-updated by app.py on each run. Do not edit manually. -->
 
 ### Live Stats
 
-> Last updated: **2026-06-10** | Providers: **24** | Total CIDRs: **428,468** | IPv4 addresses: **344,102,054** | IPv4 space: **8.01%**
+> Last updated: **2026-06-11** | Providers: **29** | Total CIDRs: **437,338** | IPv4 addresses: **390,478,907** | IPv4 space: **9.09%**
 
 | Provider | IPv4 CIDRs | IPv6 CIDRs | Total CIDRs | IPv4 Addresses | Services | Regions |
 |----------|-----------|-----------|------------|---------------|----------|--------|
+| alibaba | 2,074 | 236 | 2,310 | 30,941,952 | 3 | 1 |
 | amazonbot | 2,059 | 0 | 2,059 | 2,059 | 3 | 0 |
-| apple_private_relay | 41,784 | 245,128 | 286,912 | 105,762 | 0 | 1279 |
+| apple_private_relay | 41,800 | 245,128 | 286,928 | 105,778 | 0 | 1279 |
 | applebot | 12 | 0 | 12 | 2,400 | 1 | 0 |
 | atlassian | 194 | 60 | 254 | 79,126 | 12 | 18 |
-| aws | 10,317 | 5,737 | 16,054 | 184,426,884 | 26 | 43 |
+| aws | 10,320 | 5,737 | 16,057 | 184,492,932 | 26 | 43 |
 | azure | 77,755 | 27,591 | 105,346 | 102,538,340 | 3231 | 75 |
 | bingbot | 28 | 0 | 28 | 4,736 | 1 | 0 |
 | circleci | 47 | 0 | 47 | 3,871 | 3 | 1 |
@@ -36,13 +37,17 @@
 | github | 5,785 | 1,724 | 7,509 | 27,440,051 | 11 | 0 |
 | googlebot | 169 | 146 | 315 | 5,056 | 1 | 0 |
 | googlecloud | 928 | 48 | 976 | 17,429,376 | 1 | 48 |
-| gptbot | 303 | 0 | 303 | 9,920 | 3 | 0 |
+| gptbot | 309 | 0 | 309 | 10,016 | 3 | 0 |
 | linode | 5,248 | 94 | 5,342 | 1,351,424 | 0 | 38 |
+| meta | 342 | 419 | 761 | 575,488 | 3 | 1 |
+| mullvad | 569 | 558 | 1,127 | 569 | 2 | 50 |
 | oracle | 1,089 | 0 | 1,089 | 4,190,346 | 3 | 55 |
 | perplexitybot | 12 | 0 | 12 | 32 | 2 | 0 |
 | teamcity | 11 | 0 | 11 | 11 | 2 | 1 |
 | telegram | 9 | 5 | 14 | 11,008 | 0 | 0 |
-| vultr | 437 | 57 | 494 | 1,024,000 | 0 | 34 |
+| tencent | 3,313 | 73 | 3,386 | 14,790,400 | 2 | 1 |
+| tor | 1,260 | 0 | 1,260 | 1,260 | 1 | 1 |
+| vultr | 438 | 57 | 495 | 1,025,024 | 0 | 34 |
 | zoom | 57 | 3 | 60 | 542,224 | 3 | 0 |
 
 <!-- STATS_END -->
@@ -177,6 +182,23 @@ python3 lookup.py --data-dir . 13.32.0.1
 | **Amazonbot** | IPv4 + IPv6 | Per-service (amazonbot, amzn-searchbot, amzn-user) | Amazon published bot ranges |
 | **Common Crawl (CCBot)** | IPv4 + IPv6 | ccbot | Common Crawl published bot ranges |
 
+### VPN / Anonymizer Networks
+
+| Provider | IPs | Services | Source |
+|----------|-----|----------|--------|
+| **Tor Exit Nodes** | IPv4 | tor-exit | Official Tor Project bulk exit list |
+| **Mullvad VPN** | IPv4 + IPv6 | Per-type (wireguard, bridge) + per-country | Official Mullvad relay API |
+
+### BGP / ASN-Derived Networks
+
+> **These entities publish no official IP range feed.** Their ranges are derived from live BGP announcements of their officially registered ASNs, observed via public BGP data sources. They cover **all** address space the entity originates (not only cloud/customer ranges) and may miss space routed through partner networks. The table below lists the exact ASNs used.
+
+| Provider | IPs | ASNs | Source |
+|----------|-----|------|--------|
+| **Meta (Facebook / Instagram / WhatsApp)** | IPv4 + IPv6 | AS32934, AS63293, AS54115 | BGP announcements via public BGP data |
+| **Alibaba (Alibaba Cloud / Group)** | IPv4 + IPv6 | AS45102, AS37963, AS134963 | BGP announcements via public BGP data |
+| **Tencent (Tencent Cloud / Group)** | IPv4 + IPv6 | AS45090, AS132203 | BGP announcements via public BGP data |
+
 ### Per-Provider Pages
 
 Each provider has its own page with quick-use snippets, sample CIDRs, and links to every output format.
@@ -186,6 +208,7 @@ Each provider has its own page with quick-use snippets, sample CIDRs, and links 
 
 | Provider | Page |
 |----------|------|
+| **Alibaba (Alibaba Cloud / Alibaba Group)** | [`alibaba/`](./alibaba/) |
 | **Amazonbot** | [`amazonbot/`](./amazonbot/) |
 | **Apple iCloud Private Relay** | [`apple_private_relay/`](./apple_private_relay/) |
 | **Applebot** | [`applebot/`](./applebot/) |
@@ -204,10 +227,14 @@ Each provider has its own page with quick-use snippets, sample CIDRs, and links 
 | **Google Cloud Platform** | [`googlecloud/`](./googlecloud/) |
 | **OpenAI GPTBot / ChatGPT-User / SearchBot** | [`gptbot/`](./gptbot/) |
 | **Linode (Akamai)** | [`linode/`](./linode/) |
+| **Meta (Facebook / Instagram / WhatsApp)** | [`meta/`](./meta/) |
+| **Mullvad VPN** | [`mullvad/`](./mullvad/) |
 | **Oracle Cloud Infrastructure** | [`oracle/`](./oracle/) |
 | **PerplexityBot** | [`perplexitybot/`](./perplexitybot/) |
 | **TeamCity Cloud** | [`teamcity/`](./teamcity/) |
 | **Telegram** | [`telegram/`](./telegram/) |
+| **Tencent (Tencent Cloud / Tencent Group)** | [`tencent/`](./tencent/) |
+| **Tor Exit Nodes** | [`tor/`](./tor/) |
 | **Vultr** | [`vultr/`](./vultr/) |
 | **Zoom** | [`zoom/`](./zoom/) |
 
@@ -367,7 +394,7 @@ npx cloudip get cloudflare
 
 Full API, browser usage, and configuration: [js-cloudip README](https://github.com/rezmoss/js-cloudip).
 
-> Note: the libraries currently cover the six major cloud providers above. The full 24-provider dataset (CDNs, SaaS, bots/crawlers) remains available as raw files in this repo.
+> Note: the libraries currently cover the six major cloud providers above. The full 29-provider dataset (CDNs, SaaS, bots/crawlers, VPNs, BGP-derived networks) remains available as raw files in this repo.
 
 ---
 
@@ -437,6 +464,11 @@ cloud-provider-ip-addresses/
 ├── atlassian/            (all formats + services + regions)
 ├── circleci/             (all formats + services)
 ├── teamcity/             (all formats + services + regions)
+├── meta/                 (all formats + services; BGP/ASN-derived)
+├── alibaba/              (all formats + services; BGP/ASN-derived)
+├── tencent/              (all formats + services; BGP/ASN-derived)
+├── tor/                  (all formats; official Tor Project exit list)
+├── mullvad/              (all formats + services + regions)
 ├── all_providers/
 │   ├── all_providers.json / .csv
 │   ├── all_providers_ips.txt

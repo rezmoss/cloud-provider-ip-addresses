@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+129.227.46.130/32,IPv4,mullvad-wireguard,id
+129.227.46.162/32,IPv4,mullvad-wireguard,id
+2602:ffe4:c0d:801d::f001/128,IPv6,mullvad-wireguard,id
+2602:ffe4:c0d:801e::f101/128,IPv6,mullvad-wireguard,id

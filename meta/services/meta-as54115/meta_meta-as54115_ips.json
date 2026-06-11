@@ -1,0 +1,140 @@
+[
+  {
+    "ip_address": "163.114.128.0/20",
+    "ip_type": "IPv4",
+    "service": "meta-as54115",
+    "region": "global"
+  },
+  {
+    "ip_address": "163.114.128.0/24",
+    "ip_type": "IPv4",
+    "service": "meta-as54115",
+    "region": "global"
+  },
+  {
+    "ip_address": "163.114.129.0/24",
+    "ip_type": "IPv4",
+    "service": "meta-as54115",
+    "region": "global"
+  },
+  {
+    "ip_address": "163.114.130.0/24",
+    "ip_type": "IPv4",
+    "service": "meta-as54115",
+    "region": "global"
+  },
+  {
+    "ip_address": "163.114.131.0/24",
+    "ip_type": "IPv4",
+    "service": "meta-as54115",
+    "region": "global"
+  },
+  {
+    "ip_address": "163.114.132.0/24",
+    "ip_type": "IPv4",
+    "service": "meta-as54115",
+    "region": "global"
+  },
+  {
+    "ip_address": "163.114.133.0/24",
+    "ip_type": "IPv4",
+    "service": "meta-as54115",
+    "region": "global"
+  },
+  {
+    "ip_address": "163.114.134.0/24",
+    "ip_type": "IPv4",
+    "service": "meta-as54115",
+    "region": "global"
+  },
+  {
+    "ip_address": "163.114.135.0/24",
+    "ip_type": "IPv4",
+    "service": "meta-as54115",
+    "region": "global"
+  },
+  {
+    "ip_address": "163.114.136.0/24",
+    "ip_type": "IPv4",
+    "service": "meta-as54115",
+    "region": "global"
+  },
+  {
+    "ip_address": "199.201.64.0/22",
+    "ip_type": "IPv4",
+    "service": "meta-as54115",
+    "region": "global"
+  },
+  {
+    "ip_address": "2620:10d:c090::/44",
+    "ip_type": "IPv6",
+    "service": "meta-as54115",
+    "region": "global"
+  },
+  {
+    "ip_address": "2620:10d:c090::/48",
+    "ip_type": "IPv6",
+    "service": "meta-as54115",
+    "region": "global"
+  },
+  {
+    "ip_address": "2620:10d:c091::/48",
+    "ip_type": "IPv6",
+    "service": "meta-as54115",
+    "region": "global"
+  },
+  {
+    "ip_address": "2620:10d:c092::/48",
+    "ip_type": "IPv6",
+    "service": "meta-as54115",
+    "region": "global"
+  },
+  {
+    "ip_address": "2620:10d:c093::/48",
+    "ip_type": "IPv6",
+    "service": "meta-as54115",
+    "region": "global"
+  },
+  {
+    "ip_address": "2620:10d:c094::/48",
+    "ip_type": "IPv6",
+    "service": "meta-as54115",
+    "region": "global"
+  },
+  {
+    "ip_address": "2620:10d:c095::/48",
+    "ip_type": "IPv6",
+    "service": "meta-as54115",
+    "region": "global"
+  },
+  {
+    "ip_address": "2620:10d:c098::/48",
+    "ip_type": "IPv6",
+    "service": "meta-as54115",
+    "region": "global"
+  },
+  {
+    "ip_address": "2620:10d:c099::/48",
+    "ip_type": "IPv6",
+    "service": "meta-as54115",
+    "region": "global"
+  },
+  {
+    "ip_address": "2620:10d:c09a::/48",
+    "ip_type": "IPv6",
+    "service": "meta-as54115",
+    "region": "global"
+  },
+  {
+    "ip_address": "2620:10d:c09b::/48",
+    "ip_type": "IPv6",
+    "service": "meta-as54115",
+    "region": "global"
+  },
+  {
+    "ip_address": "2620:10d:c09c::/48",
+    "ip_type": "IPv6",
+    "service": "meta-as54115",
+    "region": "global"
+  }
+]

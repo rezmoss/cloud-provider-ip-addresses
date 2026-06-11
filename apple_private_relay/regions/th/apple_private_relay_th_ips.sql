@@ -7,6 +7,8 @@ CREATE TABLE IF NOT EXISTS `apple_private_relay_th_ips` (
 );
 
 INSERT INTO `apple_private_relay_th_ips` (`ip_address`, `ip_type`) VALUES ('104.28.137.79/32', 'IPv4');
+INSERT INTO `apple_private_relay_th_ips` (`ip_address`, `ip_type`) VALUES ('104.28.137.92/32', 'IPv4');
+INSERT INTO `apple_private_relay_th_ips` (`ip_address`, `ip_type`) VALUES ('104.28.137.106/32', 'IPv4');
 INSERT INTO `apple_private_relay_th_ips` (`ip_address`, `ip_type`) VALUES ('104.28.140.81/32', 'IPv4');
 INSERT INTO `apple_private_relay_th_ips` (`ip_address`, `ip_type`) VALUES ('104.28.140.176/32', 'IPv4');
 INSERT INTO `apple_private_relay_th_ips` (`ip_address`, `ip_type`) VALUES ('104.28.140.205/32', 'IPv4');

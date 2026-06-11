@@ -615,6 +615,11 @@
     "region": "US-MO"
   },
   {
+    "ip_address": "66.245.212.0/22",
+    "ip_type": "IPv4",
+    "region": "IT-IT-MI"
+  },
+  {
     "ip_address": "66.245.216.0/21",
     "ip_type": "IPv4",
     "region": "JP-27"

@@ -1,0 +1,86 @@
+[
+  {
+    "ip_address": "146.70.225.2/32",
+    "ip_type": "IPv4",
+    "service": "mullvad-wireguard",
+    "region": "it"
+  },
+  {
+    "ip_address": "146.70.225.66/32",
+    "ip_type": "IPv4",
+    "service": "mullvad-wireguard",
+    "region": "it"
+  },
+  {
+    "ip_address": "149.22.91.66/32",
+    "ip_type": "IPv4",
+    "service": "mullvad-wireguard",
+    "region": "it"
+  },
+  {
+    "ip_address": "149.22.91.79/32",
+    "ip_type": "IPv4",
+    "service": "mullvad-wireguard",
+    "region": "it"
+  },
+  {
+    "ip_address": "178.249.211.66/32",
+    "ip_type": "IPv4",
+    "service": "mullvad-wireguard",
+    "region": "it"
+  },
+  {
+    "ip_address": "178.249.211.79/32",
+    "ip_type": "IPv4",
+    "service": "mullvad-wireguard",
+    "region": "it"
+  },
+  {
+    "ip_address": "178.249.211.92/32",
+    "ip_type": "IPv4",
+    "service": "mullvad-wireguard",
+    "region": "it"
+  },
+  {
+    "ip_address": "2001:ac8:24:17::f001/128",
+    "ip_type": "IPv6",
+    "service": "mullvad-wireguard",
+    "region": "it"
+  },
+  {
+    "ip_address": "2001:ac8:24:18::f001/128",
+    "ip_type": "IPv6",
+    "service": "mullvad-wireguard",
+    "region": "it"
+  },
+  {
+    "ip_address": "2a02:6ea0:4f00::f001/128",
+    "ip_type": "IPv6",
+    "service": "mullvad-wireguard",
+    "region": "it"
+  },
+  {
+    "ip_address": "2a02:6ea0:4f00::f101/128",
+    "ip_type": "IPv6",
+    "service": "mullvad-wireguard",
+    "region": "it"
+  },
+  {
+    "ip_address": "2a02:6ea0:d509:1::a09f/128",
+    "ip_type": "IPv6",
+    "service": "mullvad-wireguard",
+    "region": "it"
+  },
+  {
+    "ip_address": "2a02:6ea0:d509:2::a10f/128",
+    "ip_type": "IPv6",
+    "service": "mullvad-wireguard",
+    "region": "it"
+  },
+  {
+    "ip_address": "2a02:6ea0:d509:3::a11f/128",
+    "ip_type": "IPv6",
+    "service": "mullvad-wireguard",
+    "region": "it"
+  }
+]

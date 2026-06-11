@@ -1,0 +1,12 @@
+ip_address,ip_type,service,region
+103.125.233.3/32,IPv4,mullvad-wireguard,hk
+103.125.233.18/32,IPv4,mullvad-wireguard,hk
+103.125.233.210/32,IPv4,mullvad-bridge,hk
+146.70.224.2/32,IPv4,mullvad-wireguard,hk
+146.70.224.66/32,IPv4,mullvad-wireguard,hk
+146.70.224.196/32,IPv4,mullvad-wireguard,hk
+2001:ac8:a:f::f001/128,IPv6,mullvad-wireguard,hk
+2001:ac8:a:19::f001/128,IPv6,mullvad-wireguard,hk
+2001:ac8:a:1b::f001/128,IPv6,mullvad-wireguard,hk
+2403:2c81:1000::a05f/128,IPv6,mullvad-wireguard,hk
+2403:2c81:1000::a06f/128,IPv6,mullvad-wireguard,hk

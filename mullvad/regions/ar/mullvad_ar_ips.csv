@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+149.22.83.2/32,IPv4,mullvad-wireguard,ar
+149.22.83.31/32,IPv4,mullvad-wireguard,ar
+2a02:6ea0:f002:1::f001/128,IPv6,mullvad-wireguard,ar
+2a02:6ea0:f002:2::f001/128,IPv6,mullvad-wireguard,ar

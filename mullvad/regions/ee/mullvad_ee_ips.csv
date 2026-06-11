@@ -1,0 +1,7 @@
+ip_address,ip_type,service,region
+194.127.167.67/32,IPv4,mullvad-wireguard,ee
+194.127.167.87/32,IPv4,mullvad-wireguard,ee
+194.127.167.107/32,IPv4,mullvad-wireguard,ee
+2a07:d880:2::a01f/128,IPv6,mullvad-wireguard,ee
+2a07:d880:2::a02f/128,IPv6,mullvad-wireguard,ee
+2a07:d880:2::a03f/128,IPv6,mullvad-wireguard,ee

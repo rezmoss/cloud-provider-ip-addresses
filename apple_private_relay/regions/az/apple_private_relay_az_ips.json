@@ -5,6 +5,11 @@
     "region": "AZ"
   },
   {
+    "ip_address": "104.28.137.104/32",
+    "ip_type": "IPv4",
+    "region": "AZ"
+  },
+  {
     "ip_address": "104.28.147.78/32",
     "ip_type": "IPv4",
     "region": "AZ"

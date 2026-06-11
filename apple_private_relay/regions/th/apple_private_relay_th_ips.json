@@ -5,6 +5,16 @@
     "region": "TH"
   },
   {
+    "ip_address": "104.28.137.92/32",
+    "ip_type": "IPv4",
+    "region": "TH"
+  },
+  {
+    "ip_address": "104.28.137.106/32",
+    "ip_type": "IPv4",
+    "region": "TH"
+  },
+  {
     "ip_address": "104.28.140.81/32",
     "ip_type": "IPv4",
     "region": "TH"

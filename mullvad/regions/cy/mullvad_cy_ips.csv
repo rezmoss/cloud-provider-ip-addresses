@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+195.47.194.131/32,IPv4,mullvad-wireguard,cy
+195.47.194.161/32,IPv4,mullvad-wireguard,cy
+2a06:3040:f:601::f001/128,IPv6,mullvad-wireguard,cy
+2a06:3040:f:601::f101/128,IPv6,mullvad-wireguard,cy

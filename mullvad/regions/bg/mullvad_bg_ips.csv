@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+146.70.188.130/32,IPv4,mullvad-wireguard,bg
+146.70.188.194/32,IPv4,mullvad-wireguard,bg
+2001:ac8:30:56::f001/128,IPv6,mullvad-wireguard,bg
+2001:ac8:30:57::f001/128,IPv6,mullvad-wireguard,bg

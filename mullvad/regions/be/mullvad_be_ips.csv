@@ -1,0 +1,7 @@
+ip_address,ip_type,service,region
+91.90.123.2/32,IPv4,mullvad-wireguard,be
+194.110.115.2/32,IPv4,mullvad-wireguard,be
+194.110.115.34/32,IPv4,mullvad-wireguard,be
+2001:ac8:27:88::a01f/128,IPv6,mullvad-wireguard,be
+2001:ac8:27:89::a02f/128,IPv6,mullvad-wireguard,be
+2001:ac8:27:92::a03f/128,IPv6,mullvad-wireguard,be

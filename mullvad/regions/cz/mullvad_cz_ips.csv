@@ -1,0 +1,10 @@
+ip_address,ip_type,service,region
+146.70.129.98/32,IPv4,mullvad-wireguard,cz
+146.70.129.130/32,IPv4,mullvad-wireguard,cz
+178.249.209.162/32,IPv4,mullvad-wireguard,cz
+178.249.209.175/32,IPv4,mullvad-wireguard,cz
+217.138.199.106/32,IPv4,mullvad-bridge,cz
+2001:ac8:33:c::a01f/128,IPv6,mullvad-wireguard,cz
+2001:ac8:33:d::a02f/128,IPv6,mullvad-wireguard,cz
+2a02:6ea0:c201:1::f001/128,IPv6,mullvad-wireguard,cz
+2a02:6ea0:c201:1::f101/128,IPv6,mullvad-wireguard,cz

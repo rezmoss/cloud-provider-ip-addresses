@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "149.22.83.2/32",
+    "ip_type": "IPv4",
+    "service": "mullvad-wireguard",
+    "region": "ar"
+  },
+  {
+    "ip_address": "149.22.83.31/32",
+    "ip_type": "IPv4",
+    "service": "mullvad-wireguard",
+    "region": "ar"
+  },
+  {
+    "ip_address": "2a02:6ea0:f002:1::f001/128",
+    "ip_type": "IPv6",
+    "service": "mullvad-wireguard",
+    "region": "ar"
+  },
+  {
+    "ip_address": "2a02:6ea0:f002:2::f001/128",
+    "ip_type": "IPv6",
+    "service": "mullvad-wireguard",
+    "region": "ar"
+  }
+]

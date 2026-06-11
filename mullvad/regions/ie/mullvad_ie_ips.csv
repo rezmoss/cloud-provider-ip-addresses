@@ -1,0 +1,7 @@
+ip_address,ip_type,service,region
+130.195.213.130/32,IPv4,mullvad-wireguard,ie
+146.70.189.2/32,IPv4,mullvad-wireguard,ie
+146.70.189.130/32,IPv4,mullvad-wireguard,ie
+2001:ac8:88:107::f001/128,IPv6,mullvad-wireguard,ie
+2001:ac8:88:108::f001/128,IPv6,mullvad-wireguard,ie
+2001:ac8:88:109::f001/128,IPv6,mullvad-wireguard,ie

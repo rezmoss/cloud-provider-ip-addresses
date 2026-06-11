@@ -1,0 +1,13 @@
+#!/bin/bash
+# Mullvad IP Ranges
+# Updated: 2026-06-11 03:19:45
+# Source: https://github.com/rezmoss/cloud-provider-ip-addresses
+# License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
+# This file is generated automatically. Do not edit it directly.
+# Updates daily at 00:00 UTC
+# iptables allow rules for mullvad
+
+iptables -A INPUT -s 146.70.124.130/32 -j ACCEPT
+iptables -A INPUT -s 146.70.124.194/32 -j ACCEPT
+ip6tables -A INPUT -s 2a04:9dc0:0:133::a01f/128 -j ACCEPT
+ip6tables -A INPUT -s 2a04:9dc0:0:135::f001/128 -j ACCEPT

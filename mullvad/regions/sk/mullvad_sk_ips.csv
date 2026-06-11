@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+138.199.34.129/32,IPv4,mullvad-wireguard,sk
+138.199.34.143/32,IPv4,mullvad-wireguard,sk
+2a02:6ea0:2901::a02f/128,IPv6,mullvad-wireguard,sk
+2a02:6ea0:2901:1::f001/128,IPv6,mullvad-wireguard,sk

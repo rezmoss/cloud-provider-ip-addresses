@@ -1,0 +1,17 @@
+#!/bin/bash
+# Mullvad IP Ranges
+# Updated: 2026-06-11 03:19:45
+# Source: https://github.com/rezmoss/cloud-provider-ip-addresses
+# License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
+# This file is generated automatically. Do not edit it directly.
+# Updates daily at 00:00 UTC
+# UFW deny rules for mullvad
+
+ufw deny from 79.127.182.130/32
+ufw deny from 79.127.182.160/32
+ufw deny from 146.70.196.130/32
+ufw deny from 146.70.196.194/32
+ufw deny from 2001:ac8:26:54::f001/128
+ufw deny from 2001:ac8:26:55::f001/128
+ufw deny from 2a02:6ea0:5700:1::f001/128
+ufw deny from 2a02:6ea0:5700:2::f001/128

@@ -1,0 +1,56 @@
+[
+  {
+    "ip_address": "146.70.129.98/32",
+    "ip_type": "IPv4",
+    "service": "mullvad-wireguard",
+    "region": "cz"
+  },
+  {
+    "ip_address": "146.70.129.130/32",
+    "ip_type": "IPv4",
+    "service": "mullvad-wireguard",
+    "region": "cz"
+  },
+  {
+    "ip_address": "178.249.209.162/32",
+    "ip_type": "IPv4",
+    "service": "mullvad-wireguard",
+    "region": "cz"
+  },
+  {
+    "ip_address": "178.249.209.175/32",
+    "ip_type": "IPv4",
+    "service": "mullvad-wireguard",
+    "region": "cz"
+  },
+  {
+    "ip_address": "217.138.199.106/32",
+    "ip_type": "IPv4",
+    "service": "mullvad-bridge",
+    "region": "cz"
+  },
+  {
+    "ip_address": "2001:ac8:33:c::a01f/128",
+    "ip_type": "IPv6",
+    "service": "mullvad-wireguard",
+    "region": "cz"
+  },
+  {
+    "ip_address": "2001:ac8:33:d::a02f/128",
+    "ip_type": "IPv6",
+    "service": "mullvad-wireguard",
+    "region": "cz"
+  },
+  {
+    "ip_address": "2a02:6ea0:c201:1::f001/128",
+    "ip_type": "IPv6",
+    "service": "mullvad-wireguard",
+    "region": "cz"
+  },
+  {
+    "ip_address": "2a02:6ea0:c201:1::f101/128",
+    "ip_type": "IPv6",
+    "service": "mullvad-wireguard",
+    "region": "cz"
+  }
+]

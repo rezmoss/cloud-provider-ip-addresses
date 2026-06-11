@@ -75,6 +75,11 @@
     "region": "CI-AB"
   },
   {
+    "ip_address": "104.28.137.94/32",
+    "ip_type": "IPv4",
+    "region": "CI-AB"
+  },
+  {
     "ip_address": "104.28.142.29/32",
     "ip_type": "IPv4",
     "region": "CI-AB"
