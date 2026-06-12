@@ -57,6 +57,7 @@ INSERT INTO `aws_mx-central-1_ips` (`ip_address`, `ip_type`) VALUES ('78.13.88.0
 INSERT INTO `aws_mx-central-1_ips` (`ip_address`, `ip_type`) VALUES ('78.13.188.0/23', 'IPv4');
 INSERT INTO `aws_mx-central-1_ips` (`ip_address`, `ip_type`) VALUES ('78.14.0.0/15', 'IPv4');
 INSERT INTO `aws_mx-central-1_ips` (`ip_address`, `ip_type`) VALUES ('78.14.0.0/15', 'IPv4');
+INSERT INTO `aws_mx-central-1_ips` (`ip_address`, `ip_type`) VALUES ('78.14.116.0/23', 'IPv4');
 INSERT INTO `aws_mx-central-1_ips` (`ip_address`, `ip_type`) VALUES ('104.255.57.98/32', 'IPv4');
 INSERT INTO `aws_mx-central-1_ips` (`ip_address`, `ip_type`) VALUES ('104.255.57.100/32', 'IPv4');
 INSERT INTO `aws_mx-central-1_ips` (`ip_address`, `ip_type`) VALUES ('104.255.57.101/32', 'IPv4');

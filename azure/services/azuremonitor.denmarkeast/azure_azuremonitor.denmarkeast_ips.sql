@@ -21,8 +21,10 @@ INSERT INTO `azure_azuremonitor.denmarkeast_ips` (`ip_address`, `ip_type`) VALUE
 INSERT INTO `azure_azuremonitor.denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('9.205.98.240/28', 'IPv4');
 INSERT INTO `azure_azuremonitor.denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('9.205.114.136/29', 'IPv4');
 INSERT INTO `azure_azuremonitor.denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('9.205.114.240/28', 'IPv4');
+INSERT INTO `azure_azuremonitor.denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('9.205.206.16/28', 'IPv4');
 INSERT INTO `azure_azuremonitor.denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1601:8::f/128', 'IPv6');
 INSERT INTO `azure_azuremonitor.denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1601:8::18/128', 'IPv6');
 INSERT INTO `azure_azuremonitor.denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1602:2::480/121', 'IPv6');
 INSERT INTO `azure_azuremonitor.denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1602:2::500/120', 'IPv6');
 INSERT INTO `azure_azuremonitor.denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1602:4::580/123', 'IPv6');
+INSERT INTO `azure_azuremonitor.denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1602:5::7c0/123', 'IPv6');

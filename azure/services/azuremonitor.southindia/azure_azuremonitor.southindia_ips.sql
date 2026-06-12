@@ -31,4 +31,5 @@ INSERT INTO `azure_azuremonitor.southindia_ips` (`ip_address`, `ip_type`) VALUES
 INSERT INTO `azure_azuremonitor.southindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:c06:6::640/122', 'IPv6');
 INSERT INTO `azure_azuremonitor.southindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:c06:b::100/120', 'IPv6');
 INSERT INTO `azure_azuremonitor.southindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:c06:b::2a0/123', 'IPv6');
+INSERT INTO `azure_azuremonitor.southindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:c06:d::260/123', 'IPv6');
 INSERT INTO `azure_azuremonitor.southindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:c06:402::500/121', 'IPv6');

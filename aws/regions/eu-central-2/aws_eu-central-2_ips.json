@@ -570,6 +570,12 @@
     "region": "eu-central-2"
   },
   {
+    "ip_address": "2a05:d029:4::/48",
+    "ip_type": "IPv6",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "eu-central-2"
+  },
+  {
     "ip_address": "2a05:d030:9000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",

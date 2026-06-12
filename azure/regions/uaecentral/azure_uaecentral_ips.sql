@@ -237,6 +237,7 @@ INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('52.239.233
 INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('70.152.31.0/24', 'IPv4');
 INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('70.152.216.0/24', 'IPv4');
 INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('70.152.218.0/24', 'IPv4');
+INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('74.150.0.0/17', 'IPv4');
 INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('74.243.0.0/17', 'IPv4');
 INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('74.243.3.192/27', 'IPv4');
 INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('74.243.3.224/28', 'IPv4');
@@ -270,6 +271,10 @@ INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('74.243.128
 INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('74.243.144.0/20', 'IPv4');
 INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('74.243.146.180/30', 'IPv4');
 INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('74.243.146.184/29', 'IPv4');
+INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('74.243.152.132/30', 'IPv4');
+INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('74.243.155.0/29', 'IPv4');
+INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('74.243.155.32/27', 'IPv4');
+INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('74.243.155.64/26', 'IPv4');
 INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('74.243.160.0/19', 'IPv4');
 INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('74.243.160.64/26', 'IPv4');
 INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('74.243.165.192/26', 'IPv4');
@@ -331,6 +336,10 @@ INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:
 INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:b04:6::600/123', 'IPv6');
 INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:b04:8::4a0/123', 'IPv6');
 INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:b04:8::4f6/128', 'IPv6');
+INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:b04:9::380/122', 'IPv6');
+INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:b04:9::3c0/123', 'IPv6');
+INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:b04:9::3e0/126', 'IPv6');
+INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:b04:9::500/123', 'IPv6');
 INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:b04:400::/123', 'IPv6');
 INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:b04:402::80/125', 'IPv6');
 INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:b04:402::88/125', 'IPv6');

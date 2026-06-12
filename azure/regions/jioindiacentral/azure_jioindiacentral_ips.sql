@@ -215,6 +215,7 @@ INSERT INTO `azure_jioindiacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:
 INSERT INTO `azure_jioindiacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1104:5::200/123', 'IPv6');
 INSERT INTO `azure_jioindiacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1104:5::240/122', 'IPv6');
 INSERT INTO `azure_jioindiacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1104:6::640/123', 'IPv6');
+INSERT INTO `azure_jioindiacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1104:7::3c0/123', 'IPv6');
 INSERT INTO `azure_jioindiacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1104:400::80/125', 'IPv6');
 INSERT INTO `azure_jioindiacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1104:400::88/125', 'IPv6');
 INSERT INTO `azure_jioindiacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1104:400::90/125', 'IPv6');

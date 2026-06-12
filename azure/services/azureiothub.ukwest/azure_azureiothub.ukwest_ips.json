@@ -36,6 +36,42 @@
     "region": "ukwest"
   },
   {
+    "ip_address": "172.186.128.4/30",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "172.186.128.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "172.186.128.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:d::424/126",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:d::4c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:d::500/123",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.UKWest",
+    "region": "ukwest"
+  },
+  {
     "ip_address": "2603:1020:605:402::300/123",
     "ip_type": "IPv6",
     "service": "AzureIoTHub.UKWest",

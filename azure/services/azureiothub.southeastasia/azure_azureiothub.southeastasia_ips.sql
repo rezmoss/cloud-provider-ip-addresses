@@ -6,6 +6,12 @@ CREATE TABLE IF NOT EXISTS `azure_azureiothub.southeastasia_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_azureiothub.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('4.145.216.180/30', 'IPv4');
+INSERT INTO `azure_azureiothub.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('4.145.217.208/28', 'IPv4');
+INSERT INTO `azure_azureiothub.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('4.145.217.224/27', 'IPv4');
+INSERT INTO `azure_azureiothub.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('4.145.219.0/24', 'IPv4');
+INSERT INTO `azure_azureiothub.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('4.145.220.0/25', 'IPv4');
+INSERT INTO `azure_azureiothub.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('4.145.220.128/26', 'IPv4');
 INSERT INTO `azure_azureiothub.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('13.67.10.224/27', 'IPv4');
 INSERT INTO `azure_azureiothub.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('13.76.83.155/32', 'IPv4');
 INSERT INTO `azure_azureiothub.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('23.98.86.0/27', 'IPv4');
@@ -15,6 +21,12 @@ INSERT INTO `azure_azureiothub.southeastasia_ips` (`ip_address`, `ip_type`) VALU
 INSERT INTO `azure_azureiothub.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('40.78.238.0/27', 'IPv4');
 INSERT INTO `azure_azureiothub.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('52.163.212.39/32', 'IPv4');
 INSERT INTO `azure_azureiothub.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('52.163.215.122/32', 'IPv4');
+INSERT INTO `azure_azureiothub.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:5:19::128/126', 'IPv6');
+INSERT INTO `azure_azureiothub.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:5:19::130/124', 'IPv6');
+INSERT INTO `azure_azureiothub.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:5:19::140/122', 'IPv6');
+INSERT INTO `azure_azureiothub.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:5:19::180/121', 'IPv6');
+INSERT INTO `azure_azureiothub.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:5:1a::300/120', 'IPv6');
+INSERT INTO `azure_azureiothub.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:5:1a::400/123', 'IPv6');
 INSERT INTO `azure_azureiothub.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:5:402::300/123', 'IPv6');
 INSERT INTO `azure_azureiothub.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:5:802::240/123', 'IPv6');
 INSERT INTO `azure_azureiothub.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:5:c02::240/123', 'IPv6');

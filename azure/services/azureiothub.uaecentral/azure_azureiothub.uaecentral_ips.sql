@@ -10,5 +10,11 @@ INSERT INTO `azure_azureiothub.uaecentral_ips` (`ip_address`, `ip_type`) VALUES 
 INSERT INTO `azure_azureiothub.uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('20.37.68.0/27', 'IPv4');
 INSERT INTO `azure_azureiothub.uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('20.37.76.160/27', 'IPv4');
 INSERT INTO `azure_azureiothub.uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('74.243.18.224/27', 'IPv4');
+INSERT INTO `azure_azureiothub.uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('74.243.152.132/30', 'IPv4');
+INSERT INTO `azure_azureiothub.uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('74.243.155.32/27', 'IPv4');
+INSERT INTO `azure_azureiothub.uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('74.243.155.64/26', 'IPv4');
+INSERT INTO `azure_azureiothub.uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:b04:9::380/122', 'IPv6');
+INSERT INTO `azure_azureiothub.uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:b04:9::3c0/123', 'IPv6');
+INSERT INTO `azure_azureiothub.uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:b04:9::3e0/126', 'IPv6');
 INSERT INTO `azure_azureiothub.uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:b04:402::300/123', 'IPv6');
 INSERT INTO `azure_azureiothub.uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:b04:800::40/123', 'IPv6');

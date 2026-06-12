@@ -984,6 +984,12 @@
     "region": "ap-northeast-3"
   },
   {
+    "ip_address": "2406:da26:1c::/48",
+    "ip_type": "IPv6",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "ap-northeast-3"
+  },
+  {
     "ip_address": "2406:da30:6000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",

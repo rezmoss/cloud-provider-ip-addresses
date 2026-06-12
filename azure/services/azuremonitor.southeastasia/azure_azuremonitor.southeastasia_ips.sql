@@ -9,6 +9,8 @@ CREATE TABLE IF NOT EXISTS `azure_azuremonitor.southeastasia_ips` (
 INSERT INTO `azure_azuremonitor.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('4.145.8.112/28', 'IPv4');
 INSERT INTO `azure_azuremonitor.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('4.145.16.160/28', 'IPv4');
 INSERT INTO `azure_azuremonitor.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('4.145.79.224/27', 'IPv4');
+INSERT INTO `azure_azuremonitor.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('4.145.218.0/24', 'IPv4');
+INSERT INTO `azure_azuremonitor.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('4.145.220.240/28', 'IPv4');
 INSERT INTO `azure_azuremonitor.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('13.67.9.192/28', 'IPv4');
 INSERT INTO `azure_azuremonitor.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('13.67.10.64/29', 'IPv4');
 INSERT INTO `azure_azuremonitor.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('13.67.10.92/30', 'IPv4');
@@ -64,6 +66,7 @@ INSERT INTO `azure_azuremonitor.southeastasia_ips` (`ip_address`, `ip_type`) VAL
 INSERT INTO `azure_azuremonitor.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:5:9::200/122', 'IPv6');
 INSERT INTO `azure_azuremonitor.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:5:16::100/120', 'IPv6');
 INSERT INTO `azure_azuremonitor.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:5:16::2e0/123', 'IPv6');
+INSERT INTO `azure_azuremonitor.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:5:1a::420/123', 'IPv6');
 INSERT INTO `azure_azuremonitor.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:5:402::500/121', 'IPv6');
 INSERT INTO `azure_azuremonitor.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:5:802::480/121', 'IPv6');
 INSERT INTO `azure_azuremonitor.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:5:c02::480/121', 'IPv6');

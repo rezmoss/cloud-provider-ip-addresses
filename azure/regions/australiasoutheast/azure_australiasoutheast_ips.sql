@@ -15,6 +15,10 @@ INSERT INTO `azure_australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('4.
 INSERT INTO `azure_australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('4.199.4.94/32', 'IPv4');
 INSERT INTO `azure_australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('4.199.16.0/22', 'IPv4');
 INSERT INTO `azure_australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('4.199.20.0/23', 'IPv4');
+INSERT INTO `azure_australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('4.199.25.160/27', 'IPv4');
+INSERT INTO `azure_australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('4.199.25.192/26', 'IPv4');
+INSERT INTO `azure_australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('4.199.29.128/30', 'IPv4');
+INSERT INTO `azure_australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('4.199.29.144/28', 'IPv4');
 INSERT INTO `azure_australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('4.199.42.232/29', 'IPv4');
 INSERT INTO `azure_australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('4.199.44.144/28', 'IPv4');
 INSERT INTO `azure_australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('4.199.44.192/27', 'IPv4');
@@ -652,6 +656,10 @@ INSERT INTO `azure_australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('26
 INSERT INTO `azure_australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:207:4::560/124', 'IPv6');
 INSERT INTO `azure_australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:207:4::570/126', 'IPv6');
 INSERT INTO `azure_australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:207:4::574/127', 'IPv6');
+INSERT INTO `azure_australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:207:5::7c8/126', 'IPv6');
+INSERT INTO `azure_australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:207:5::7e0/123', 'IPv6');
+INSERT INTO `azure_australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:207:6::280/122', 'IPv6');
+INSERT INTO `azure_australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:207:6::320/123', 'IPv6');
 INSERT INTO `azure_australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:207:400::/125', 'IPv6');
 INSERT INTO `azure_australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:207:400::8/125', 'IPv6');
 INSERT INTO `azure_australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:207:400::10/125', 'IPv6');

@@ -138,6 +138,24 @@
     "region": "uksouth"
   },
   {
+    "ip_address": "4.159.219.204/30",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "4.159.219.208/29",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "4.159.219.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.UKSouth",
+    "region": "uksouth"
+  },
+  {
     "ip_address": "4.159.235.208/28",
     "ip_type": "IPv4",
     "service": "AzureMonitor.UKSouth",
@@ -4164,6 +4182,18 @@
     "region": "uksouth"
   },
   {
+    "ip_address": "172.165.0.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "172.165.1.0/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.UKSouth",
+    "region": "uksouth"
+  },
+  {
     "ip_address": "172.165.73.32/27",
     "ip_type": "IPv4",
     "service": "PowerBI.UKSouth",
@@ -5217,6 +5247,36 @@
     "ip_address": "2603:1020:705:15::780/121",
     "ip_type": "IPv6",
     "service": "AzureBackup.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "2603:1020:705:18::ac/126",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "2603:1020:705:18::b8/125",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "2603:1020:705:1a::2a0/123",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "2603:1020:705:1a::2c0/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "2603:1020:705:1a::300/120",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.UKSouth",
     "region": "uksouth"
   },
   {

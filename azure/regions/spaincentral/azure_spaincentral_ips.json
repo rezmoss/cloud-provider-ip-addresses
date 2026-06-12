@@ -1716,6 +1716,12 @@
     "region": "spaincentral"
   },
   {
+    "ip_address": "2603:1020:1403:8::780/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
     "ip_address": "2603:1020:1403:400::/125",
     "ip_type": "IPv6",
     "service": "MicrosoftContainerRegistry.SpainCentral",

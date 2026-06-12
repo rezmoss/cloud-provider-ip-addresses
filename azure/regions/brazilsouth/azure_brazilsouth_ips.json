@@ -312,6 +312,30 @@
     "region": "brazilsouth"
   },
   {
+    "ip_address": "4.228.252.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "4.228.254.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "4.228.254.128/29",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "4.228.254.160/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
     "ip_address": "4.238.128.0/17",
     "ip_type": "IPv4",
     "service": "AzureCloud.brazilsouth",
@@ -3615,6 +3639,30 @@
     "ip_address": "2603:1050:6:c::280/121",
     "ip_type": "IPv6",
     "service": "AzureBackup.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "2603:1050:6:e::e8/125",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "2603:1050:6:e::300/121",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "2603:1050:6:e::380/122",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "2603:1050:6:e::3c0/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.BrazilSouth",
     "region": "brazilsouth"
   },
   {

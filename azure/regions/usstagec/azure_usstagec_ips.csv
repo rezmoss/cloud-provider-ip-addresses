@@ -126,6 +126,7 @@ ip_address,ip_type,service,region
 57.152.162.0/23,IPv4,AzureEventGrid.SouthCentralUSSTG,usstagec
 57.152.164.0/22,IPv4,AzureEventGrid.SouthCentralUSSTG,usstagec
 57.152.168.0/23,IPv4,AzureEventGrid.SouthCentralUSSTG,usstagec
+57.152.170.96/27,IPv4,AzureMonitor.SouthCentralUSSTG,usstagec
 2603:1030:301::/48,IPv6,AzureCloud.usstagec,usstagec
 2603:1030:302::/48,IPv6,AzureCloud.usstagec,usstagec
 2603:1030:302::90/125,IPv6,AzureKeyVault.SouthCentralUSSTG,usstagec

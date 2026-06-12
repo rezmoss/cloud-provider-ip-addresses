@@ -774,6 +774,24 @@
     "region": "westeurope"
   },
   {
+    "ip_address": "13.81.136.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "13.81.136.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "13.81.136.192/28",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.WestEurope",
+    "region": "westeurope"
+  },
+  {
     "ip_address": "13.81.204.189/32",
     "ip_type": "IPv4",
     "service": "MicrosoftCloudAppSecurity.WestEurope",
@@ -8082,6 +8100,30 @@
     "region": "westeurope"
   },
   {
+    "ip_address": "57.168.169.44/30",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "57.168.169.248/29",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "57.168.171.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "57.168.172.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.WestEurope",
+    "region": "westeurope"
+  },
+  {
     "ip_address": "65.52.128.0/19",
     "ip_type": "IPv4",
     "service": "AzureCloud.westeurope",
@@ -10399,6 +10441,54 @@
   },
   {
     "ip_address": "2603:1020:206:25::500/122",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "2603:1020:206:2a::bc/126",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "2603:1020:206:2a::c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "2603:1020:206:2a::400/118",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "2603:1020:206:2b::/120",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "2603:1020:206:2b::100/121",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "2603:1020:206:2b::180/124",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "2603:1020:206:2b::190/125",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "2603:1020:206:2b::1a0/123",
     "ip_type": "IPv6",
     "service": "AzureMonitor.WestEurope",
     "region": "westeurope"

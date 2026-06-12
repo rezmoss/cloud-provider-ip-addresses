@@ -144,6 +144,30 @@
     "region": "canadacentral"
   },
   {
+    "ip_address": "4.173.101.152/30",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "4.173.101.160/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "4.173.102.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "4.173.102.64/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
     "ip_address": "4.174.0.0/16",
     "ip_type": "IPv4",
     "service": "AzureCloud.canadacentral",
@@ -4005,6 +4029,30 @@
     "ip_address": "2603:1030:f05:e::380/121",
     "ip_type": "IPv6",
     "service": "AzureBackup.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "2603:1030:f05:f::5dc/126",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "2603:1030:f05:11::100/122",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "2603:1030:f05:11::140/123",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "2603:1030:f05:11::160/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.CanadaCentral",
     "region": "canadacentral"
   },
   {

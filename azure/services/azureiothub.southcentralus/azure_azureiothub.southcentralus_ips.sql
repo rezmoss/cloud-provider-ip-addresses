@@ -16,7 +16,13 @@ INSERT INTO `azure_azureiothub.southcentralus_ips` (`ip_address`, `ip_type`) VAL
 INSERT INTO `azure_azureiothub.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('20.88.224.174/32', 'IPv4');
 INSERT INTO `azure_azureiothub.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('20.118.98.243/32', 'IPv4');
 INSERT INTO `azure_azureiothub.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('40.119.11.224/27', 'IPv4');
+INSERT INTO `azure_azureiothub.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('74.145.146.80/28', 'IPv4');
+INSERT INTO `azure_azureiothub.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('74.145.146.128/25', 'IPv4');
+INSERT INTO `azure_azureiothub.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('74.145.147.0/24', 'IPv4');
 INSERT INTO `azure_azureiothub.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('104.214.34.123/32', 'IPv4');
+INSERT INTO `azure_azureiothub.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:807:1b::210/124', 'IPv6');
+INSERT INTO `azure_azureiothub.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:807:1b::280/121', 'IPv6');
+INSERT INTO `azure_azureiothub.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:807:1b::300/120', 'IPv6');
 INSERT INTO `azure_azureiothub.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:807:402::300/123', 'IPv6');
 INSERT INTO `azure_azureiothub.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:807:802::240/123', 'IPv6');
 INSERT INTO `azure_azureiothub.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:807:c02::240/123', 'IPv6');

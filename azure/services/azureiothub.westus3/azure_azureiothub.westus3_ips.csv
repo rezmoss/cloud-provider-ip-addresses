@@ -4,6 +4,12 @@ ip_address,ip_type,service,region
 20.150.172.192/27,IPv4,AzureIoTHub.WestUS3,westus3
 20.150.179.224/27,IPv4,AzureIoTHub.WestUS3,westus3
 20.150.187.224/27,IPv4,AzureIoTHub.WestUS3,westus3
+172.180.56.128/25,IPv4,AzureIoTHub.WestUS3,westus3
+172.180.57.0/26,IPv4,AzureIoTHub.WestUS3,westus3
+172.180.57.64/29,IPv4,AzureIoTHub.WestUS3,westus3
+2603:1030:504:17::418/125,IPv6,AzureIoTHub.WestUS3,westus3
+2603:1030:504:17::480/121,IPv6,AzureIoTHub.WestUS3,westus3
+2603:1030:504:19::/122,IPv6,AzureIoTHub.WestUS3,westus3
 2603:1030:504:402::460/123,IPv6,AzureIoTHub.WestUS3,westus3
 2603:1030:504:802::100/123,IPv6,AzureIoTHub.WestUS3,westus3
 2603:1030:504:c02::2a0/123,IPv6,AzureIoTHub.WestUS3,westus3

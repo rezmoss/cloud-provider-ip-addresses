@@ -24,6 +24,12 @@
     "region": "chilec"
   },
   {
+    "ip_address": "57.156.127.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.ChileCentral",
+    "region": "chilec"
+  },
+  {
     "ip_address": "68.211.13.22/31",
     "ip_type": "IPv4",
     "service": "AzureMonitor.ChileCentral",
@@ -133,6 +139,12 @@
   },
   {
     "ip_address": "2603:1050:301:4::5e0/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.ChileCentral",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "2603:1050:301:5::6c0/123",
     "ip_type": "IPv6",
     "service": "AzureMonitor.ChileCentral",
     "region": "chilec"

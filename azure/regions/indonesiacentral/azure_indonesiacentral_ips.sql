@@ -260,6 +260,7 @@ INSERT INTO `azure_indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603
 INSERT INTO `azure_indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1802:5::7c0/123', 'IPv6');
 INSERT INTO `azure_indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1802:6::/127', 'IPv6');
 INSERT INTO `azure_indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1802:6::200/123', 'IPv6');
+INSERT INTO `azure_indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1802:6::300/123', 'IPv6');
 INSERT INTO `azure_indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1802:7::114/128', 'IPv6');
 INSERT INTO `azure_indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1802:7::164/128', 'IPv6');
 INSERT INTO `azure_indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1802:7::166/127', 'IPv6');

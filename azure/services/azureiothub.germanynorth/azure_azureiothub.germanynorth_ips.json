@@ -18,6 +18,42 @@
     "region": "germanyn"
   },
   {
+    "ip_address": "98.67.14.20/30",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "98.67.14.160/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "98.67.14.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:a::3e8/126",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:a::700/122",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:a::740/123",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
     "ip_address": "2603:1020:d04:402::300/123",
     "ip_type": "IPv6",
     "service": "AzureIoTHub.GermanyNorth",

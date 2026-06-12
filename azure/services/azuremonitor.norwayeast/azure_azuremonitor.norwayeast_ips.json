@@ -6,6 +6,18 @@
     "region": "norwaye"
   },
   {
+    "ip_address": "4.177.32.8/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.NorwayEast",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "4.177.34.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.NorwayEast",
+    "region": "norwaye"
+  },
+  {
     "ip_address": "20.100.7.0/27",
     "ip_type": "IPv4",
     "service": "AzureMonitor.NorwayEast",
@@ -193,6 +205,12 @@
   },
   {
     "ip_address": "2603:1020:e04:c::180/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.NorwayEast",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "2603:1020:e04:d::2c0/123",
     "ip_type": "IPv6",
     "service": "AzureMonitor.NorwayEast",
     "region": "norwaye"

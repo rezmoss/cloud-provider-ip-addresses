@@ -18,6 +18,12 @@
     "region": "eastasia"
   },
   {
+    "ip_address": "4.191.114.16/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.EastAsia",
+    "region": "eastasia"
+  },
+  {
     "ip_address": "4.192.252.224/27",
     "ip_type": "IPv4",
     "service": "AzureMonitor.EastAsia",
@@ -283,6 +289,12 @@
   },
   {
     "ip_address": "2603:1040:207:11::300/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "2603:1040:207:13::580/123",
     "ip_type": "IPv6",
     "service": "AzureMonitor.EastAsia",
     "region": "eastasia"

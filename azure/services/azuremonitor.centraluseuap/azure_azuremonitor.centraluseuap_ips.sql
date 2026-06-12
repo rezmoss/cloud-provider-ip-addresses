@@ -17,6 +17,8 @@ INSERT INTO `azure_azuremonitor.centraluseuap_ips` (`ip_address`, `ip_type`) VAL
 INSERT INTO `azure_azuremonitor.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('52.180.164.91/32', 'IPv4');
 INSERT INTO `azure_azuremonitor.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('52.180.178.187/32', 'IPv4');
 INSERT INTO `azure_azuremonitor.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('52.180.182.209/32', 'IPv4');
+INSERT INTO `azure_azuremonitor.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('57.173.15.0/24', 'IPv4');
+INSERT INTO `azure_azuremonitor.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('57.173.16.112/28', 'IPv4');
 INSERT INTO `azure_azuremonitor.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('134.138.212.16/28', 'IPv4');
 INSERT INTO `azure_azuremonitor.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('168.61.142.0/27', 'IPv4');
 INSERT INTO `azure_azuremonitor.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('168.61.239.96/27', 'IPv4');

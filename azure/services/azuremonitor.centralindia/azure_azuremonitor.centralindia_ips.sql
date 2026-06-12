@@ -8,6 +8,8 @@ CREATE TABLE IF NOT EXISTS `azure_azuremonitor.centralindia_ips` (
 
 INSERT INTO `azure_azuremonitor.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('4.186.1.0/24', 'IPv4');
 INSERT INTO `azure_azuremonitor.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('4.188.8.112/28', 'IPv4');
+INSERT INTO `azure_azuremonitor.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('4.188.59.144/28', 'IPv4');
+INSERT INTO `azure_azuremonitor.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('4.188.60.0/24', 'IPv4');
 INSERT INTO `azure_azuremonitor.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('4.213.26.192/27', 'IPv4');
 INSERT INTO `azure_azuremonitor.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('4.213.29.64/26', 'IPv4');
 INSERT INTO `azure_azuremonitor.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('4.247.186.32/28', 'IPv4');
@@ -51,6 +53,7 @@ INSERT INTO `azure_azuremonitor.centralindia_ips` (`ip_address`, `ip_type`) VALU
 INSERT INTO `azure_azuremonitor.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:a06:7::100/122', 'IPv6');
 INSERT INTO `azure_azuremonitor.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:a06:c::500/120', 'IPv6');
 INSERT INTO `azure_azuremonitor.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:a06:d::20/123', 'IPv6');
+INSERT INTO `azure_azuremonitor.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:a06:f::120/123', 'IPv6');
 INSERT INTO `azure_azuremonitor.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:a06:402::500/121', 'IPv6');
 INSERT INTO `azure_azuremonitor.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:a06:802::480/121', 'IPv6');
 INSERT INTO `azure_azuremonitor.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:a06:c02::480/121', 'IPv6');

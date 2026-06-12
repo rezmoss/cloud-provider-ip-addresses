@@ -19,6 +19,7 @@ INSERT INTO `azure_azurecloud.northeastus5_ips` (`ip_address`, `ip_type`) VALUES
 INSERT INTO `azure_azurecloud.northeastus5_ips` (`ip_address`, `ip_type`) VALUES ('57.157.96.184/30', 'IPv4');
 INSERT INTO `azure_azurecloud.northeastus5_ips` (`ip_address`, `ip_type`) VALUES ('57.163.0.0/23', 'IPv4');
 INSERT INTO `azure_azurecloud.northeastus5_ips` (`ip_address`, `ip_type`) VALUES ('57.163.4.0/23', 'IPv4');
+INSERT INTO `azure_azurecloud.northeastus5_ips` (`ip_address`, `ip_type`) VALUES ('74.149.0.0/17', 'IPv4');
 INSERT INTO `azure_azurecloud.northeastus5_ips` (`ip_address`, `ip_type`) VALUES ('135.130.98.0/23', 'IPv4');
 INSERT INTO `azure_azurecloud.northeastus5_ips` (`ip_address`, `ip_type`) VALUES ('135.130.100.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.northeastus5_ips` (`ip_address`, `ip_type`) VALUES ('135.130.190.0/23', 'IPv4');

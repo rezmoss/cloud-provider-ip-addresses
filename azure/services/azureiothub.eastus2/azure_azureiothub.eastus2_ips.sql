@@ -15,7 +15,13 @@ INSERT INTO `azure_azureiothub.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('5
 INSERT INTO `azure_azureiothub.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('52.167.155.89/32', 'IPv4');
 INSERT INTO `azure_azureiothub.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('52.177.196.50/32', 'IPv4');
 INSERT INTO `azure_azureiothub.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('52.179.159.231/32', 'IPv4');
+INSERT INTO `azure_azureiothub.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('74.145.26.0/23', 'IPv4');
+INSERT INTO `azure_azureiothub.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('74.145.28.0/24', 'IPv4');
+INSERT INTO `azure_azureiothub.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('74.145.29.0/27', 'IPv4');
 INSERT INTO `azure_azureiothub.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('104.46.115.237/32', 'IPv4');
+INSERT INTO `azure_azureiothub.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:30::200/119', 'IPv6');
+INSERT INTO `azure_azureiothub.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:31::/120', 'IPv6');
+INSERT INTO `azure_azureiothub.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:31::100/123', 'IPv6');
 INSERT INTO `azure_azureiothub.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:402::300/123', 'IPv6');
 INSERT INTO `azure_azureiothub.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:802::240/123', 'IPv6');
 INSERT INTO `azure_azureiothub.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:c02::240/123', 'IPv6');

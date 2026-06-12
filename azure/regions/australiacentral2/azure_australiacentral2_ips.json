@@ -840,6 +840,18 @@
     "region": "australiacentral2"
   },
   {
+    "ip_address": "20.167.229.28/30",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.AustraliaCentral2",
+    "region": "australiacentral2"
+  },
+  {
+    "ip_address": "20.167.229.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.AustraliaCentral2",
+    "region": "australiacentral2"
+  },
+  {
     "ip_address": "20.167.230.0/23",
     "ip_type": "IPv4",
     "service": "AzureEventGrid.AustraliaCentral2",
@@ -855,6 +867,12 @@
     "ip_address": "20.167.236.0/23",
     "ip_type": "IPv4",
     "service": "AzureEventGrid.AustraliaCentral2",
+    "region": "australiacentral2"
+  },
+  {
+    "ip_address": "20.167.239.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.AustraliaCentral2",
     "region": "australiacentral2"
   },
   {
@@ -1371,6 +1389,24 @@
     "ip_address": "2603:1010:404:8::e0/123",
     "ip_type": "IPv6",
     "service": "AzureMonitor.AustraliaCentral2",
+    "region": "australiacentral2"
+  },
+  {
+    "ip_address": "2603:1010:404:8::578/126",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.AustraliaCentral2",
+    "region": "australiacentral2"
+  },
+  {
+    "ip_address": "2603:1010:404:9::100/122",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.AustraliaCentral2",
+    "region": "australiacentral2"
+  },
+  {
+    "ip_address": "2603:1010:404:9::140/123",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.AustraliaCentral2",
     "region": "australiacentral2"
   },
   {

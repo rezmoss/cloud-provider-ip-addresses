@@ -30,6 +30,42 @@
     "region": "switzerlandn"
   },
   {
+    "ip_address": "172.161.216.44/30",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "172.161.218.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "172.161.218.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "2603:1020:a04:d::158/126",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "2603:1020:a04:d::500/122",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "2603:1020:a04:d::540/123",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
     "ip_address": "2603:1020:a04:402::300/123",
     "ip_type": "IPv6",
     "service": "AzureIoTHub.SwitzerlandNorth",

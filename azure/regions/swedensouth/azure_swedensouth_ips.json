@@ -1098,6 +1098,12 @@
     "region": "swedensouth"
   },
   {
+    "ip_address": "74.241.60.16/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SwedenSouth",
+    "region": "swedensouth"
+  },
+  {
     "ip_address": "2603:1020:1100::/47",
     "ip_type": "IPv6",
     "service": "AzureCloud.swedensouth",
@@ -1377,6 +1383,12 @@
     "ip_address": "2603:1020:1104:8::118/125",
     "ip_type": "IPv6",
     "service": "AzureDevOps.SwedenSouth",
+    "region": "swedensouth"
+  },
+  {
+    "ip_address": "2603:1020:1104:9::/122",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SwedenSouth",
     "region": "swedensouth"
   },
   {

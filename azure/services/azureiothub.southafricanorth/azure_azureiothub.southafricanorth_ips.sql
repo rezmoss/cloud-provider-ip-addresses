@@ -6,11 +6,17 @@ CREATE TABLE IF NOT EXISTS `azure_azureiothub.southafricanorth_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_azureiothub.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('4.253.153.8/30', 'IPv4');
+INSERT INTO `azure_azureiothub.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('4.253.153.192/26', 'IPv4');
+INSERT INTO `azure_azureiothub.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('4.253.156.0/27', 'IPv4');
 INSERT INTO `azure_azureiothub.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('102.133.124.32/27', 'IPv4');
 INSERT INTO `azure_azureiothub.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('102.133.156.64/27', 'IPv4');
 INSERT INTO `azure_azureiothub.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('102.133.218.192/27', 'IPv4');
 INSERT INTO `azure_azureiothub.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('102.133.219.0/25', 'IPv4');
 INSERT INTO `azure_azureiothub.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('102.133.251.128/27', 'IPv4');
+INSERT INTO `azure_azureiothub.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1000:104:d::350/126', 'IPv6');
+INSERT INTO `azure_azureiothub.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1000:104:d::360/123', 'IPv6');
+INSERT INTO `azure_azureiothub.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1000:104:d::380/122', 'IPv6');
 INSERT INTO `azure_azureiothub.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1000:104:402::300/123', 'IPv6');
 INSERT INTO `azure_azureiothub.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1000:104:802::240/123', 'IPv6');
 INSERT INTO `azure_azureiothub.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1000:104:c02::240/123', 'IPv6');

@@ -276,6 +276,12 @@
     "region": "centralus"
   },
   {
+    "ip_address": "57.175.39.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.CentralUS",
+    "region": "centralus"
+  },
+  {
     "ip_address": "104.208.18.64/29",
     "ip_type": "IPv4",
     "service": "AzureMonitor.CentralUS",
@@ -535,6 +541,18 @@
   },
   {
     "ip_address": "2603:1030:10:1f::440/122",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "2603:1030:10:25::500/120",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "2603:1030:10:26::540/123",
     "ip_type": "IPv6",
     "service": "AzureMonitor.CentralUS",
     "region": "centralus"

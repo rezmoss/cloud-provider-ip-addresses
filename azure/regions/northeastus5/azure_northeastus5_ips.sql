@@ -22,6 +22,7 @@ INSERT INTO `azure_northeastus5_ips` (`ip_address`, `ip_type`) VALUES ('57.163.0
 INSERT INTO `azure_northeastus5_ips` (`ip_address`, `ip_type`) VALUES ('57.163.0.0/23', 'IPv4');
 INSERT INTO `azure_northeastus5_ips` (`ip_address`, `ip_type`) VALUES ('57.163.4.0/23', 'IPv4');
 INSERT INTO `azure_northeastus5_ips` (`ip_address`, `ip_type`) VALUES ('57.163.4.0/23', 'IPv4');
+INSERT INTO `azure_northeastus5_ips` (`ip_address`, `ip_type`) VALUES ('74.149.0.0/17', 'IPv4');
 INSERT INTO `azure_northeastus5_ips` (`ip_address`, `ip_type`) VALUES ('135.130.98.0/23', 'IPv4');
 INSERT INTO `azure_northeastus5_ips` (`ip_address`, `ip_type`) VALUES ('135.130.98.0/23', 'IPv4');
 INSERT INTO `azure_northeastus5_ips` (`ip_address`, `ip_type`) VALUES ('135.130.100.0/24', 'IPv4');

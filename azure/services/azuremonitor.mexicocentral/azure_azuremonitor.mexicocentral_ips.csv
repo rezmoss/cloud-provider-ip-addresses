@@ -15,6 +15,7 @@ ip_address,ip_type,service,region
 172.195.21.32/27,IPv4,AzureMonitor.MexicoCentral,mexicocentral
 172.195.23.112/28,IPv4,AzureMonitor.MexicoCentral,mexicocentral
 172.195.54.240/28,IPv4,AzureMonitor.MexicoCentral,mexicocentral
+172.195.141.48/28,IPv4,AzureMonitor.MexicoCentral,mexicocentral
 2603:1030:701:7::12/127,IPv6,AzureMonitor.MexicoCentral,mexicocentral
 2603:1030:702:2::20/123,IPv6,AzureMonitor.MexicoCentral,mexicocentral
 2603:1030:702:2::40/122,IPv6,AzureMonitor.MexicoCentral,mexicocentral

@@ -36,6 +36,12 @@
     "region": "brazilsouth"
   },
   {
+    "ip_address": "4.228.254.160/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
     "ip_address": "20.195.154.32/29",
     "ip_type": "IPv4",
     "service": "AzureMonitor.BrazilSouth",
@@ -241,6 +247,12 @@
   },
   {
     "ip_address": "2603:1050:6:b::720/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "2603:1050:6:e::3c0/123",
     "ip_type": "IPv6",
     "service": "AzureMonitor.BrazilSouth",
     "region": "brazilsouth"

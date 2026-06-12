@@ -14,6 +14,12 @@ INSERT INTO `azure_azureiothub.japanwest_ips` (`ip_address`, `ip_type`) VALUES (
 INSERT INTO `azure_azureiothub.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('40.80.62.64/27', 'IPv4');
 INSERT INTO `azure_azureiothub.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('40.80.62.128/25', 'IPv4');
 INSERT INTO `azure_azureiothub.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('40.80.176.64/27', 'IPv4');
+INSERT INTO `azure_azureiothub.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('172.192.204.48/30', 'IPv4');
+INSERT INTO `azure_azureiothub.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('172.192.204.192/26', 'IPv4');
+INSERT INTO `azure_azureiothub.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('172.192.205.0/27', 'IPv4');
+INSERT INTO `azure_azureiothub.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:606:c::6ec/126', 'IPv6');
+INSERT INTO `azure_azureiothub.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:606:c::740/122', 'IPv6');
+INSERT INTO `azure_azureiothub.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:606:c::780/123', 'IPv6');
 INSERT INTO `azure_azureiothub.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:606:402::300/123', 'IPv6');
 INSERT INTO `azure_azureiothub.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:606:800::120/123', 'IPv6');
 INSERT INTO `azure_azureiothub.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:606:c00::c0/123', 'IPv6');

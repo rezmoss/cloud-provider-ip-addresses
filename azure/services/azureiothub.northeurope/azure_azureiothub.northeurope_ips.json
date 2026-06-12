@@ -72,6 +72,78 @@
     "region": "northeurope"
   },
   {
+    "ip_address": "74.144.23.160/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "74.144.23.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "74.144.25.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "74.144.26.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "74.144.26.128/28",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "74.144.26.144/30",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "2603:1020:5:1e::48c/126",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "2603:1020:5:1e::580/121",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "2603:1020:5:21::/120",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "2603:1020:5:21::100/122",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "2603:1020:5:21::140/123",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "2603:1020:5:21::160/124",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.NorthEurope",
+    "region": "northeurope"
+  },
+  {
     "ip_address": "2603:1020:5:402::300/123",
     "ip_type": "IPv6",
     "service": "AzureIoTHub.NorthEurope",

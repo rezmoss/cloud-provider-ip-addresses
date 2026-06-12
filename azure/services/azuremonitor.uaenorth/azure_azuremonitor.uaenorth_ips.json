@@ -6,6 +6,18 @@
     "region": "uaenorth"
   },
   {
+    "ip_address": "4.161.148.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.UAENorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "4.161.149.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.UAENorth",
+    "region": "uaenorth"
+  },
+  {
     "ip_address": "20.38.143.0/27",
     "ip_type": "IPv4",
     "service": "AzureMonitor.UAENorth",
@@ -199,6 +211,12 @@
   },
   {
     "ip_address": "2603:1040:904:8::660/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.UAENorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "2603:1040:904:b::480/123",
     "ip_type": "IPv6",
     "service": "AzureMonitor.UAENorth",
     "region": "uaenorth"

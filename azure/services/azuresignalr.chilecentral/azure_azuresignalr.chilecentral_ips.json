@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "57.156.124.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureSignalR.ChileCentral",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "2603:1050:301:5::600/122",
+    "ip_type": "IPv6",
+    "service": "AzureSignalR.ChileCentral",
+    "region": "chilec"
+  }
+]

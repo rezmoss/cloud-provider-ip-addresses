@@ -24,6 +24,24 @@
     "region": "centralfrance"
   },
   {
+    "ip_address": "4.211.103.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "4.211.136.96/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "4.211.136.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
     "ip_address": "20.19.27.128/28",
     "ip_type": "IPv4",
     "service": "AzureMonitor.FranceCentral",
@@ -271,6 +289,12 @@
   },
   {
     "ip_address": "2603:1020:805:d::7a0/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "2603:1020:805:10::300/123",
     "ip_type": "IPv6",
     "service": "AzureMonitor.FranceCentral",
     "region": "centralfrance"

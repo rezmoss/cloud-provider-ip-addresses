@@ -8,11 +8,8 @@ CREATE TABLE IF NOT EXISTS `azure_chilec_ips` (
 
 INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('20.20.32.128/25', 'IPv4');
 INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('20.20.88.0/24', 'IPv4');
-INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('20.20.89.0/27', 'IPv4');
-INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('20.20.89.32/28', 'IPv4');
-INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('20.20.89.48/29', 'IPv4');
-INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('20.20.89.56/30', 'IPv4');
-INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('20.20.89.60/31', 'IPv4');
+INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('20.20.89.0/26', 'IPv4');
+INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('20.20.89.64/31', 'IPv4');
 INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('20.33.85.0/24', 'IPv4');
 INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('20.33.236.0/24', 'IPv4');
 INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('20.33.236.0/24', 'IPv4');
@@ -81,6 +78,8 @@ INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('57.156.100.0/2
 INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('57.156.101.80/31', 'IPv4');
 INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('57.156.101.82/32', 'IPv4');
 INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('57.156.112.0/21', 'IPv4');
+INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('57.156.124.64/26', 'IPv4');
+INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('57.156.127.0/24', 'IPv4');
 INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('68.211.0.0/17', 'IPv4');
 INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('68.211.1.64/26', 'IPv4');
 INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('68.211.1.128/27', 'IPv4');
@@ -233,6 +232,8 @@ INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:301:
 INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:301:4::5e0/123', 'IPv6');
 INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:301:4::719/128', 'IPv6');
 INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:301:5::320/127', 'IPv6');
+INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:301:5::600/122', 'IPv6');
+INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:301:5::6c0/123', 'IPv6');
 INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:301:400::/125', 'IPv6');
 INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:301:400::8/125', 'IPv6');
 INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:301:400::18/125', 'IPv6');
@@ -266,9 +267,8 @@ INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('2603:1056:2000
 INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('2603:1057:2::/59', 'IPv6');
 INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1013::/57', 'IPv6');
 INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1013:80::/60', 'IPv6');
-INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1013:90::/62', 'IPv6');
-INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1013:94::/63', 'IPv6');
-INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1013:96::/64', 'IPv6');
+INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1013:90::/61', 'IPv6');
+INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1013:98::/64', 'IPv6');
 INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1315:c00::/54', 'IPv6');
 INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:170b::/48', 'IPv6');
 INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2010:7::/64', 'IPv6');

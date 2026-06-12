@@ -60,6 +60,42 @@
     "region": "centralus"
   },
   {
+    "ip_address": "57.175.42.16/28",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "57.175.42.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "57.175.42.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "57.175.43.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "57.175.44.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "57.175.44.64/30",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.CentralUS",
+    "region": "centralus"
+  },
+  {
     "ip_address": "104.43.252.98/32",
     "ip_type": "IPv4",
     "service": "AzureIoTHub.CentralUS",
@@ -68,6 +104,42 @@
   {
     "ip_address": "168.61.208.218/32",
     "ip_type": "IPv4",
+    "service": "AzureIoTHub.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "2603:1030:10:22::538/126",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "2603:1030:10:26::340/122",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "2603:1030:10:26::380/121",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "2603:1030:10:26::400/120",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "2603:1030:10:26::500/123",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "2603:1030:10:26::520/124",
+    "ip_type": "IPv6",
     "service": "AzureIoTHub.CentralUS",
     "region": "centralus"
   },

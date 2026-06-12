@@ -132,6 +132,36 @@
     "region": "centralindia"
   },
   {
+    "ip_address": "4.188.59.136/30",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "4.188.59.144/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "4.188.59.160/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "4.188.60.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "4.188.61.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.CentralIndia",
+    "region": "centralindia"
+  },
+  {
     "ip_address": "4.188.185.15/32",
     "ip_type": "IPv4",
     "service": "LogicApps.CentralIndia",
@@ -2904,6 +2934,12 @@
     "region": "centralindia"
   },
   {
+    "ip_address": "57.171.17.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.centralindia",
+    "region": "centralindia"
+  },
+  {
     "ip_address": "70.152.6.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.centralindia",
@@ -3759,6 +3795,30 @@
     "ip_address": "2603:1040:a06:d::312/128",
     "ip_type": "IPv6",
     "service": "AzureMachineLearning.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "2603:1040:a06:e::4b0/126",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "2603:1040:a06:f::c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "2603:1040:a06:f::100/123",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "2603:1040:a06:f::120/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.CentralIndia",
     "region": "centralindia"
   },
   {

@@ -60,6 +60,12 @@
     "region": "indiasouthcentral"
   },
   {
+    "ip_address": "172.198.233.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
     "ip_address": "2603:1040:1904:2::760/123",
     "ip_type": "IPv6",
     "service": "AzureMonitor.IndiaSouthCentral",
@@ -85,6 +91,12 @@
   },
   {
     "ip_address": "2603:1040:1904:3::200/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904:5::100/123",
     "ip_type": "IPv6",
     "service": "AzureMonitor.IndiaSouthCentral",
     "region": "indiasouthcentral"

@@ -1,6 +1,6 @@
 #!/bin/bash
 # Azure IP Ranges
-# Updated: 2026-06-09 22:59:06
+# Updated: 2026-06-12 03:21:18
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -104,6 +104,7 @@ iptables -A INPUT -s 9.205.179.128/25 -j ACCEPT
 iptables -A INPUT -s 9.205.180.128/25 -j ACCEPT
 iptables -A INPUT -s 9.205.181.0/24 -j ACCEPT
 iptables -A INPUT -s 9.205.192.0/21 -j ACCEPT
+iptables -A INPUT -s 9.205.206.16/28 -j ACCEPT
 iptables -A INPUT -s 20.20.48.224/27 -j ACCEPT
 iptables -A INPUT -s 20.20.52.0/27 -j ACCEPT
 iptables -A INPUT -s 20.20.55.128/27 -j ACCEPT
@@ -111,6 +112,7 @@ iptables -A INPUT -s 20.20.124.0/23 -j ACCEPT
 iptables -A INPUT -s 20.20.126.0/26 -j ACCEPT
 iptables -A INPUT -s 20.20.126.64/29 -j ACCEPT
 iptables -A INPUT -s 20.20.126.72/30 -j ACCEPT
+iptables -A INPUT -s 20.20.126.76/31 -j ACCEPT
 iptables -A INPUT -s 20.38.50.0/24 -j ACCEPT
 iptables -A INPUT -s 20.143.98.0/23 -j ACCEPT
 iptables -A INPUT -s 20.143.100.0/22 -j ACCEPT
@@ -194,6 +196,7 @@ ip6tables -A INPUT -s 2603:1020:1602:4::480/123 -j ACCEPT
 ip6tables -A INPUT -s 2603:1020:1602:4::4a0/124 -j ACCEPT
 ip6tables -A INPUT -s 2603:1020:1602:4::4b0/125 -j ACCEPT
 ip6tables -A INPUT -s 2603:1020:1602:4::580/123 -j ACCEPT
+ip6tables -A INPUT -s 2603:1020:1602:5::7c0/123 -j ACCEPT
 ip6tables -A INPUT -s 2603:1020:1602:400::/125 -j ACCEPT
 ip6tables -A INPUT -s 2603:1020:1602:400::8/125 -j ACCEPT
 ip6tables -A INPUT -s 2603:1020:1602:400::10/125 -j ACCEPT
@@ -223,6 +226,7 @@ ip6tables -A INPUT -s 2603:1026:3000:280::/59 -j ACCEPT
 ip6tables -A INPUT -s 2603:1027:1:280::/59 -j ACCEPT
 ip6tables -A INPUT -s 2603:1061:1017::/56 -j ACCEPT
 ip6tables -A INPUT -s 2603:1061:1017:100::/59 -j ACCEPT
+ip6tables -A INPUT -s 2603:1061:1017:120::/64 -j ACCEPT
 ip6tables -A INPUT -s 2603:1061:1311:5c00::/54 -j ACCEPT
 ip6tables -A INPUT -s 2603:1061:1745::/48 -j ACCEPT
 ip6tables -A INPUT -s 2603:1061:2010:45::/64 -j ACCEPT

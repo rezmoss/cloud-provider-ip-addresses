@@ -46,6 +46,7 @@ ip_address,ip_type,service,region
 57.150.118.0/23,IPv4,Storage.WestUS2,westus2
 57.150.148.0/23,IPv4,Storage.WestUS2,westus2
 57.150.234.0/23,IPv4,Storage.WestUS2,westus2
+57.163.44.0/23,IPv4,Storage.WestUS2,westus2
 135.130.16.0/23,IPv4,Storage.WestUS2,westus2
 135.130.48.0/23,IPv4,Storage.WestUS2,westus2
 135.130.78.0/23,IPv4,Storage.WestUS2,westus2

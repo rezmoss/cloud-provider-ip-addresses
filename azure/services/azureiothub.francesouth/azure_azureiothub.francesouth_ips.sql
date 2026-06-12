@@ -10,4 +10,10 @@ INSERT INTO `azure_azureiothub.francesouth_ips` (`ip_address`, `ip_type`) VALUES
 INSERT INTO `azure_azureiothub.francesouth_ips` (`ip_address`, `ip_type`) VALUES ('51.105.91.128/25', 'IPv4');
 INSERT INTO `azure_azureiothub.francesouth_ips` (`ip_address`, `ip_type`) VALUES ('51.105.92.0/27', 'IPv4');
 INSERT INTO `azure_azureiothub.francesouth_ips` (`ip_address`, `ip_type`) VALUES ('52.136.132.236/32', 'IPv4');
+INSERT INTO `azure_azureiothub.francesouth_ips` (`ip_address`, `ip_type`) VALUES ('98.66.23.168/29', 'IPv4');
+INSERT INTO `azure_azureiothub.francesouth_ips` (`ip_address`, `ip_type`) VALUES ('98.66.23.192/26', 'IPv4');
+INSERT INTO `azure_azureiothub.francesouth_ips` (`ip_address`, `ip_type`) VALUES ('98.66.25.0/25', 'IPv4');
+INSERT INTO `azure_azureiothub.francesouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:905:a::630/125', 'IPv6');
+INSERT INTO `azure_azureiothub.francesouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:905:a::640/122', 'IPv6');
+INSERT INTO `azure_azureiothub.francesouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:905:a::680/121', 'IPv6');
 INSERT INTO `azure_azureiothub.francesouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:905:402::300/123', 'IPv6');

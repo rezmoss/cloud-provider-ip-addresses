@@ -23,6 +23,10 @@ ip_address,ip_type,service,region
 4.173.15.72/30,IPv4,AzureAttestation.CanadaCentral,canadacentral
 4.173.28.0/22,IPv4,AzureEventGrid.CanadaCentral,canadacentral
 4.173.88.0/22,IPv4,AzureEventGrid.CanadaCentral,canadacentral
+4.173.101.152/30,IPv4,AzureIoTHub.CanadaCentral,canadacentral
+4.173.101.160/27,IPv4,AzureIoTHub.CanadaCentral,canadacentral
+4.173.102.0/26,IPv4,AzureIoTHub.CanadaCentral,canadacentral
+4.173.102.64/28,IPv4,AzureMonitor.CanadaCentral,canadacentral
 4.174.0.0/16,IPv4,AzureCloud.canadacentral,canadacentral
 4.174.144.8/29,IPv4,PowerPlatformPlex.CanadaCentral,canadacentral
 4.174.144.81/32,IPv4,MicrosoftCloudAppSecurity.CanadaCentral,canadacentral
@@ -667,6 +671,10 @@ ip_address,ip_type,service,region
 2603:1030:f05:e::80/123,IPv6,AzureMachineLearning.CanadaCentral,canadacentral
 2603:1030:f05:e::a0/124,IPv6,AzureMachineLearning.CanadaCentral,canadacentral
 2603:1030:f05:e::380/121,IPv6,AzureBackup.CanadaCentral,canadacentral
+2603:1030:f05:f::5dc/126,IPv6,AzureIoTHub.CanadaCentral,canadacentral
+2603:1030:f05:11::100/122,IPv6,AzureIoTHub.CanadaCentral,canadacentral
+2603:1030:f05:11::140/123,IPv6,AzureIoTHub.CanadaCentral,canadacentral
+2603:1030:f05:11::160/123,IPv6,AzureMonitor.CanadaCentral,canadacentral
 2603:1030:f05:400::/123,IPv6,Sql.CanadaCentral,canadacentral
 2603:1030:f05:401::/123,IPv6,Sql.CanadaCentral,canadacentral
 2603:1030:f05:402::80/125,IPv6,AzureKeyVault.CanadaCentral,canadacentral

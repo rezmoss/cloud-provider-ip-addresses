@@ -294,6 +294,12 @@
     "region": "westcentralus"
   },
   {
+    "ip_address": "2603:1030:b04:11::140/122",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
     "ip_address": "2603:1030:b04:402::500/121",
     "ip_type": "IPv6",
     "service": "AzureMonitor.WestCentralUS",

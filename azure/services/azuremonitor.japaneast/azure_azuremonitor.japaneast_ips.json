@@ -6,6 +6,12 @@
     "region": "japaneast"
   },
   {
+    "ip_address": "4.214.241.192/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.JapanEast",
+    "region": "japaneast"
+  },
+  {
     "ip_address": "4.216.1.176/28",
     "ip_type": "IPv4",
     "service": "AzureMonitor.JapanEast",
@@ -283,6 +289,18 @@
   },
   {
     "ip_address": "2603:1040:407:e::4e0/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.JapanEast",
+    "region": "japaneast"
+  },
+  {
+    "ip_address": "2603:1040:407:10::700/120",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.JapanEast",
+    "region": "japaneast"
+  },
+  {
+    "ip_address": "2603:1040:407:11::1c0/123",
     "ip_type": "IPv6",
     "service": "AzureMonitor.JapanEast",
     "region": "japaneast"

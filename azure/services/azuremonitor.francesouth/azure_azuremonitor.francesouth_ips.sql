@@ -18,6 +18,7 @@ INSERT INTO `azure_azuremonitor.francesouth_ips` (`ip_address`, `ip_type`) VALUE
 INSERT INTO `azure_azuremonitor.francesouth_ips` (`ip_address`, `ip_type`) VALUES ('40.80.100.200/29', 'IPv4');
 INSERT INTO `azure_azuremonitor.francesouth_ips` (`ip_address`, `ip_type`) VALUES ('51.138.160.80/29', 'IPv4');
 INSERT INTO `azure_azuremonitor.francesouth_ips` (`ip_address`, `ip_type`) VALUES ('52.136.191.12/31', 'IPv4');
+INSERT INTO `azure_azuremonitor.francesouth_ips` (`ip_address`, `ip_type`) VALUES ('98.66.23.176/28', 'IPv4');
 INSERT INTO `azure_azuremonitor.francesouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:905::780/121', 'IPv6');
 INSERT INTO `azure_azuremonitor.francesouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:905:1::280/123', 'IPv6');
 INSERT INTO `azure_azuremonitor.francesouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:905:1::300/121', 'IPv6');
@@ -25,4 +26,5 @@ INSERT INTO `azure_azuremonitor.francesouth_ips` (`ip_address`, `ip_type`) VALUE
 INSERT INTO `azure_azuremonitor.francesouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:905:6::e0/123', 'IPv6');
 INSERT INTO `azure_azuremonitor.francesouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:905:6::100/122', 'IPv6');
 INSERT INTO `azure_azuremonitor.francesouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:905:9::700/123', 'IPv6');
+INSERT INTO `azure_azuremonitor.francesouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:905:a::700/123', 'IPv6');
 INSERT INTO `azure_azuremonitor.francesouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:905:402::500/121', 'IPv6');

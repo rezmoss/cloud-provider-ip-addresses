@@ -6,12 +6,18 @@ CREATE TABLE IF NOT EXISTS `azure_azureiothub.brazilsouth_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_azureiothub.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('4.228.252.192/26', 'IPv4');
+INSERT INTO `azure_azureiothub.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('4.228.254.0/25', 'IPv4');
+INSERT INTO `azure_azureiothub.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('4.228.254.128/29', 'IPv4');
 INSERT INTO `azure_azureiothub.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('104.41.34.180/32', 'IPv4');
 INSERT INTO `azure_azureiothub.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('191.233.205.128/27', 'IPv4');
 INSERT INTO `azure_azureiothub.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('191.234.136.128/25', 'IPv4');
 INSERT INTO `azure_azureiothub.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('191.234.137.0/27', 'IPv4');
 INSERT INTO `azure_azureiothub.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('191.234.147.224/27', 'IPv4');
 INSERT INTO `azure_azureiothub.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('191.234.155.224/27', 'IPv4');
+INSERT INTO `azure_azureiothub.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:6:e::e8/125', 'IPv6');
+INSERT INTO `azure_azureiothub.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:6:e::300/121', 'IPv6');
+INSERT INTO `azure_azureiothub.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:6:e::380/122', 'IPv6');
 INSERT INTO `azure_azureiothub.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:6:402::300/123', 'IPv6');
 INSERT INTO `azure_azureiothub.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:6:802::240/123', 'IPv6');
 INSERT INTO `azure_azureiothub.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:6:c02::240/123', 'IPv6');

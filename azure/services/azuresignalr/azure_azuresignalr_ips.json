@@ -48,6 +48,12 @@
     "region": ""
   },
   {
+    "ip_address": "9.160.219.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureSignalR",
+    "region": ""
+  },
+  {
     "ip_address": "13.66.145.0/26",
     "ip_type": "IPv4",
     "service": "AzureSignalR",
@@ -564,6 +570,12 @@
     "region": ""
   },
   {
+    "ip_address": "57.156.124.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureSignalR",
+    "region": ""
+  },
+  {
     "ip_address": "57.159.87.64/27",
     "ip_type": "IPv4",
     "service": "AzureSignalR",
@@ -888,6 +900,12 @@
     "region": ""
   },
   {
+    "ip_address": "2603:1020:1502:4::380/122",
+    "ip_type": "IPv6",
+    "service": "AzureSignalR",
+    "region": ""
+  },
+  {
     "ip_address": "2603:1030:f:3::500/120",
     "ip_type": "IPv6",
     "service": "AzureSignalR",
@@ -1099,6 +1117,12 @@
   },
   {
     "ip_address": "2603:1050:6:2::300/120",
+    "ip_type": "IPv6",
+    "service": "AzureSignalR",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1050:301:5::600/122",
     "ip_type": "IPv6",
     "service": "AzureSignalR",
     "region": ""

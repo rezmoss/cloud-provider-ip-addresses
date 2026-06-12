@@ -51,6 +51,10 @@ ip_address,ip_type,service,region
 4.228.174.192/30,IPv4,AzureAttestation.BrazilSouth,brazilsouth
 4.228.180.0/22,IPv4,AzureEventGrid.BrazilSouth,brazilsouth
 4.228.240.0/22,IPv4,AzureEventGrid.BrazilSouth,brazilsouth
+4.228.252.192/26,IPv4,AzureIoTHub.BrazilSouth,brazilsouth
+4.228.254.0/25,IPv4,AzureIoTHub.BrazilSouth,brazilsouth
+4.228.254.128/29,IPv4,AzureIoTHub.BrazilSouth,brazilsouth
+4.228.254.160/27,IPv4,AzureMonitor.BrazilSouth,brazilsouth
 4.238.128.0/17,IPv4,AzureCloud.brazilsouth,brazilsouth
 13.105.52.80/28,IPv4,AzureCloud.brazilsouth,brazilsouth
 13.105.52.128/26,IPv4,AzureCloud.brazilsouth,brazilsouth
@@ -602,6 +606,10 @@ ip_address,ip_type,service,region
 2603:1050:6:c::160/123,IPv6,AzureMachineLearning.BrazilSouth,brazilsouth
 2603:1050:6:c::180/124,IPv6,AzureMachineLearning.BrazilSouth,brazilsouth
 2603:1050:6:c::280/121,IPv6,AzureBackup.BrazilSouth,brazilsouth
+2603:1050:6:e::e8/125,IPv6,AzureIoTHub.BrazilSouth,brazilsouth
+2603:1050:6:e::300/121,IPv6,AzureIoTHub.BrazilSouth,brazilsouth
+2603:1050:6:e::380/122,IPv6,AzureIoTHub.BrazilSouth,brazilsouth
+2603:1050:6:e::3c0/123,IPv6,AzureMonitor.BrazilSouth,brazilsouth
 2603:1050:6:400::/123,IPv6,Sql.BrazilSouth,brazilsouth
 2603:1050:6:401::/123,IPv6,Sql.BrazilSouth,brazilsouth
 2603:1050:6:402::80/125,IPv6,AzureKeyVault.BrazilSouth,brazilsouth

@@ -170,6 +170,7 @@ INSERT INTO `aws_ap-northeast-3_ips` (`ip_address`, `ip_type`) VALUES ('2406:da1
 INSERT INTO `aws_ap-northeast-3_ips` (`ip_address`, `ip_type`) VALUES ('2406:da16:c46:6600::/56', 'IPv6');
 INSERT INTO `aws_ap-northeast-3_ips` (`ip_address`, `ip_type`) VALUES ('2406:da26::/36', 'IPv6');
 INSERT INTO `aws_ap-northeast-3_ips` (`ip_address`, `ip_type`) VALUES ('2406:da26::/36', 'IPv6');
+INSERT INTO `aws_ap-northeast-3_ips` (`ip_address`, `ip_type`) VALUES ('2406:da26:1c::/48', 'IPv6');
 INSERT INTO `aws_ap-northeast-3_ips` (`ip_address`, `ip_type`) VALUES ('2406:da30:6000::/40', 'IPv6');
 INSERT INTO `aws_ap-northeast-3_ips` (`ip_address`, `ip_type`) VALUES ('2406:da30:6000::/40', 'IPv6');
 INSERT INTO `aws_ap-northeast-3_ips` (`ip_address`, `ip_type`) VALUES ('2406:da32:6000::/40', 'IPv6');

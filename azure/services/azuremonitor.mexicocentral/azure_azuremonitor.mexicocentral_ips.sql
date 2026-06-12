@@ -22,6 +22,7 @@ INSERT INTO `azure_azuremonitor.mexicocentral_ips` (`ip_address`, `ip_type`) VAL
 INSERT INTO `azure_azuremonitor.mexicocentral_ips` (`ip_address`, `ip_type`) VALUES ('172.195.21.32/27', 'IPv4');
 INSERT INTO `azure_azuremonitor.mexicocentral_ips` (`ip_address`, `ip_type`) VALUES ('172.195.23.112/28', 'IPv4');
 INSERT INTO `azure_azuremonitor.mexicocentral_ips` (`ip_address`, `ip_type`) VALUES ('172.195.54.240/28', 'IPv4');
+INSERT INTO `azure_azuremonitor.mexicocentral_ips` (`ip_address`, `ip_type`) VALUES ('172.195.141.48/28', 'IPv4');
 INSERT INTO `azure_azuremonitor.mexicocentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:701:7::12/127', 'IPv6');
 INSERT INTO `azure_azuremonitor.mexicocentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:702:2::20/123', 'IPv6');
 INSERT INTO `azure_azuremonitor.mexicocentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:702:2::40/122', 'IPv6');

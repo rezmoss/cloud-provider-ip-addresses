@@ -2,4 +2,10 @@ ip_address,ip_type,service,region
 20.36.117.64/27,IPv4,AzureIoTHub.AustraliaCentral2,australiacentral2
 20.36.123.32/27,IPv4,AzureIoTHub.AustraliaCentral2,australiacentral2
 20.36.123.128/25,IPv4,AzureIoTHub.AustraliaCentral2,australiacentral2
+20.167.229.28/30,IPv4,AzureIoTHub.AustraliaCentral2,australiacentral2
+20.167.229.224/27,IPv4,AzureIoTHub.AustraliaCentral2,australiacentral2
+20.167.239.64/26,IPv4,AzureIoTHub.AustraliaCentral2,australiacentral2
+2603:1010:404:8::578/126,IPv6,AzureIoTHub.AustraliaCentral2,australiacentral2
+2603:1010:404:9::100/122,IPv6,AzureIoTHub.AustraliaCentral2,australiacentral2
+2603:1010:404:9::140/123,IPv6,AzureIoTHub.AustraliaCentral2,australiacentral2
 2603:1010:404:402::300/123,IPv6,AzureIoTHub.AustraliaCentral2,australiacentral2

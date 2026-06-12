@@ -8,6 +8,8 @@ CREATE TABLE IF NOT EXISTS `azure_azuremonitor.southafricanorth_ips` (
 
 INSERT INTO `azure_azuremonitor.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('4.221.45.192/28', 'IPv4');
 INSERT INTO `azure_azuremonitor.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('4.221.222.48/28', 'IPv4');
+INSERT INTO `azure_azuremonitor.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('4.253.155.0/24', 'IPv4');
+INSERT INTO `azure_azuremonitor.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('4.253.156.32/28', 'IPv4');
 INSERT INTO `azure_azuremonitor.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('20.87.86.208/28', 'IPv4');
 INSERT INTO `azure_azuremonitor.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('20.164.159.160/27', 'IPv4');
 INSERT INTO `azure_azuremonitor.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('20.164.159.192/26', 'IPv4');
@@ -39,6 +41,7 @@ INSERT INTO `azure_azuremonitor.southafricanorth_ips` (`ip_address`, `ip_type`) 
 INSERT INTO `azure_azuremonitor.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1000:104:6::40/123', 'IPv6');
 INSERT INTO `azure_azuremonitor.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1000:104:a::600/120', 'IPv6');
 INSERT INTO `azure_azuremonitor.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1000:104:a::7a0/123', 'IPv6');
+INSERT INTO `azure_azuremonitor.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1000:104:d::3c0/123', 'IPv6');
 INSERT INTO `azure_azuremonitor.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1000:104:402::500/121', 'IPv6');
 INSERT INTO `azure_azuremonitor.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1000:104:802::480/121', 'IPv6');
 INSERT INTO `azure_azuremonitor.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1000:104:c02::480/121', 'IPv6');

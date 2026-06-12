@@ -1,6 +1,6 @@
 #!/bin/bash
 # Azure IP Ranges
-# Updated: 2026-06-09 22:59:06
+# Updated: 2026-06-12 03:21:17
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -505,8 +505,11 @@ iptables -A INPUT -s 57.157.128.0/24 -j DROP
 iptables -A INPUT -s 57.157.129.0/25 -j DROP
 iptables -A INPUT -s 57.157.129.128/26 -j DROP
 iptables -A INPUT -s 57.157.129.192/30 -j DROP
+iptables -A INPUT -s 57.157.129.196/31 -j DROP
 iptables -A INPUT -s 57.163.18.0/23 -j DROP
 iptables -A INPUT -s 57.163.18.0/23 -j DROP
+iptables -A INPUT -s 57.163.46.0/23 -j DROP
+iptables -A INPUT -s 57.163.46.0/23 -j DROP
 iptables -A INPUT -s 70.152.40.0/24 -j DROP
 iptables -A INPUT -s 70.152.67.0/24 -j DROP
 iptables -A INPUT -s 70.152.68.0/23 -j DROP
@@ -549,6 +552,10 @@ iptables -A INPUT -s 172.173.16.0/20 -j DROP
 iptables -A INPUT -s 172.173.16.4/31 -j DROP
 iptables -A INPUT -s 172.173.24.4/31 -j DROP
 iptables -A INPUT -s 172.180.0.0/15 -j DROP
+iptables -A INPUT -s 172.180.56.128/25 -j DROP
+iptables -A INPUT -s 172.180.57.0/26 -j DROP
+iptables -A INPUT -s 172.180.57.64/29 -j DROP
+iptables -A INPUT -s 172.180.57.80/28 -j DROP
 iptables -A INPUT -s 172.182.0.0/16 -j DROP
 iptables -A INPUT -s 172.182.1.64/29 -j DROP
 iptables -A INPUT -s 172.182.31.238/31 -j DROP
@@ -647,6 +654,10 @@ ip6tables -A INPUT -s 2603:1030:504:15::50e/128 -j DROP
 ip6tables -A INPUT -s 2603:1030:504:15::520/123 -j DROP
 ip6tables -A INPUT -s 2603:1030:504:15::540/124 -j DROP
 ip6tables -A INPUT -s 2603:1030:504:16::500/121 -j DROP
+ip6tables -A INPUT -s 2603:1030:504:17::418/125 -j DROP
+ip6tables -A INPUT -s 2603:1030:504:17::480/121 -j DROP
+ip6tables -A INPUT -s 2603:1030:504:19::/122 -j DROP
+ip6tables -A INPUT -s 2603:1030:504:19::40/123 -j DROP
 ip6tables -A INPUT -s 2603:1030:504:400::/123 -j DROP
 ip6tables -A INPUT -s 2603:1030:504:401::/123 -j DROP
 ip6tables -A INPUT -s 2603:1030:504:402::80/125 -j DROP

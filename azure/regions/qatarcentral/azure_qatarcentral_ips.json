@@ -6,6 +6,30 @@
     "region": "qatarcentral"
   },
   {
+    "ip_address": "4.170.6.88/30",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
+    "ip_address": "4.170.6.112/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
+    "ip_address": "4.170.6.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
+    "ip_address": "4.170.6.192/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
     "ip_address": "4.171.24.0/25",
     "ip_type": "IPv4",
     "service": "Sql.QatarCentral",
@@ -1821,6 +1845,30 @@
     "ip_address": "2603:1040:1002:8::5b2/128",
     "ip_type": "IPv6",
     "service": "AzureMachineLearning.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
+    "ip_address": "2603:1040:1002:9::708/126",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
+    "ip_address": "2603:1040:1002:9::740/122",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
+    "ip_address": "2603:1040:1002:9::780/123",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
+    "ip_address": "2603:1040:1002:9::7a0/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.QatarCentral",
     "region": "qatarcentral"
   },
   {

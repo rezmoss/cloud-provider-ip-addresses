@@ -234,6 +234,12 @@
     "region": "northcentralus"
   },
   {
+    "ip_address": "2603:1030:608:17::1c0/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.NorthCentralUS",
+    "region": "northcentralus"
+  },
+  {
     "ip_address": "2603:1030:608:402::500/121",
     "ip_type": "IPv6",
     "service": "AzureMonitor.NorthCentralUS",

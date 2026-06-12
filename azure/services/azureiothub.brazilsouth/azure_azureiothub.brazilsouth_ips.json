@@ -1,5 +1,23 @@
 [
   {
+    "ip_address": "4.228.252.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "4.228.254.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "4.228.254.128/29",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
     "ip_address": "104.41.34.180/32",
     "ip_type": "IPv4",
     "service": "AzureIoTHub.BrazilSouth",
@@ -32,6 +50,24 @@
   {
     "ip_address": "191.234.155.224/27",
     "ip_type": "IPv4",
+    "service": "AzureIoTHub.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "2603:1050:6:e::e8/125",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "2603:1050:6:e::300/121",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "2603:1050:6:e::380/122",
+    "ip_type": "IPv6",
     "service": "AzureIoTHub.BrazilSouth",
     "region": "brazilsouth"
   },

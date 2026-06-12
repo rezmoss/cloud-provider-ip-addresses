@@ -1,10 +1,16 @@
 ip_address,ip_type,service,region
+4.188.59.136/30,IPv4,AzureIoTHub.CentralIndia,centralindia
+4.188.59.160/27,IPv4,AzureIoTHub.CentralIndia,centralindia
+4.188.61.0/26,IPv4,AzureIoTHub.CentralIndia,centralindia
 20.43.121.64/27,IPv4,AzureIoTHub.CentralIndia,centralindia
 20.192.99.224/27,IPv4,AzureIoTHub.CentralIndia,centralindia
 40.80.51.128/27,IPv4,AzureIoTHub.CentralIndia,centralindia
 52.140.108.160/27,IPv4,AzureIoTHub.CentralIndia,centralindia
 52.140.109.0/25,IPv4,AzureIoTHub.CentralIndia,centralindia
 52.172.203.144/32,IPv4,AzureIoTHub.CentralIndia,centralindia
+2603:1040:a06:e::4b0/126,IPv6,AzureIoTHub.CentralIndia,centralindia
+2603:1040:a06:f::c0/122,IPv6,AzureIoTHub.CentralIndia,centralindia
+2603:1040:a06:f::100/123,IPv6,AzureIoTHub.CentralIndia,centralindia
 2603:1040:a06:402::300/123,IPv6,AzureIoTHub.CentralIndia,centralindia
 2603:1040:a06:802::240/123,IPv6,AzureIoTHub.CentralIndia,centralindia
 2603:1040:a06:c02::240/123,IPv6,AzureIoTHub.CentralIndia,centralindia

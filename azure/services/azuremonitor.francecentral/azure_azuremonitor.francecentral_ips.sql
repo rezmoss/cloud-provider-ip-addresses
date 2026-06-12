@@ -10,6 +10,9 @@ INSERT INTO `azure_azuremonitor.francecentral_ips` (`ip_address`, `ip_type`) VAL
 INSERT INTO `azure_azuremonitor.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('4.176.30.32/28', 'IPv4');
 INSERT INTO `azure_azuremonitor.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('4.176.48.0/24', 'IPv4');
 INSERT INTO `azure_azuremonitor.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('4.178.131.0/26', 'IPv4');
+INSERT INTO `azure_azuremonitor.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('4.211.103.0/24', 'IPv4');
+INSERT INTO `azure_azuremonitor.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('4.211.136.96/28', 'IPv4');
+INSERT INTO `azure_azuremonitor.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('4.211.136.128/27', 'IPv4');
 INSERT INTO `azure_azuremonitor.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('20.19.27.128/28', 'IPv4');
 INSERT INTO `azure_azuremonitor.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('20.40.137.91/32', 'IPv4');
 INSERT INTO `azure_azuremonitor.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('20.40.140.212/32', 'IPv4');
@@ -52,6 +55,7 @@ INSERT INTO `azure_azuremonitor.francecentral_ips` (`ip_address`, `ip_type`) VAL
 INSERT INTO `azure_azuremonitor.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:805:7::/122', 'IPv6');
 INSERT INTO `azure_azuremonitor.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:805:d::500/120', 'IPv6');
 INSERT INTO `azure_azuremonitor.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:805:d::7a0/123', 'IPv6');
+INSERT INTO `azure_azuremonitor.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:805:10::300/123', 'IPv6');
 INSERT INTO `azure_azuremonitor.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:805:402::500/121', 'IPv6');
 INSERT INTO `azure_azuremonitor.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:805:802::480/121', 'IPv6');
 INSERT INTO `azure_azuremonitor.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:805:c02::480/121', 'IPv6');

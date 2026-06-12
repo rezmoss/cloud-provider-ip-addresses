@@ -66,6 +66,7 @@ INSERT INTO `azure_azurecloud.uaecentral_ips` (`ip_address`, `ip_type`) VALUES (
 INSERT INTO `azure_azurecloud.uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('70.152.31.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('70.152.216.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('70.152.218.0/24', 'IPv4');
+INSERT INTO `azure_azurecloud.uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('74.150.0.0/17', 'IPv4');
 INSERT INTO `azure_azurecloud.uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('74.243.0.0/17', 'IPv4');
 INSERT INTO `azure_azurecloud.uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('74.243.128.0/21', 'IPv4');
 INSERT INTO `azure_azurecloud.uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('74.243.144.0/20', 'IPv4');

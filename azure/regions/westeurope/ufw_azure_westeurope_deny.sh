@@ -1,6 +1,6 @@
 #!/bin/bash
 # Azure IP Ranges
-# Updated: 2026-06-09 22:59:06
+# Updated: 2026-06-12 03:21:17
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -136,6 +136,9 @@ ufw deny from 13.81.104.137/32
 ufw deny from 13.81.108.99/32
 ufw deny from 13.81.123.49/32
 ufw deny from 13.81.123.253/32
+ufw deny from 13.81.136.0/25
+ufw deny from 13.81.136.128/26
+ufw deny from 13.81.136.192/28
 ufw deny from 13.81.204.189/32
 ufw deny from 13.81.209.46/32
 ufw deny from 13.81.209.51/32
@@ -1354,6 +1357,10 @@ ufw deny from 57.157.57.48/30
 ufw deny from 57.163.36.0/23
 ufw deny from 57.163.36.0/23
 ufw deny from 57.168.0.0/16
+ufw deny from 57.168.169.44/30
+ufw deny from 57.168.169.248/29
+ufw deny from 57.168.171.0/24
+ufw deny from 57.168.172.0/22
 ufw deny from 65.52.128.0/19
 ufw deny from 65.52.128.33/32
 ufw deny from 65.52.130.1/32
@@ -1741,6 +1748,14 @@ ufw deny from 2603:1020:206:23::90/126
 ufw deny from 2603:1020:206:23::180/121
 ufw deny from 2603:1020:206:23::380/121
 ufw deny from 2603:1020:206:25::500/122
+ufw deny from 2603:1020:206:2a::bc/126
+ufw deny from 2603:1020:206:2a::c0/122
+ufw deny from 2603:1020:206:2a::400/118
+ufw deny from 2603:1020:206:2b::/120
+ufw deny from 2603:1020:206:2b::100/121
+ufw deny from 2603:1020:206:2b::180/124
+ufw deny from 2603:1020:206:2b::190/125
+ufw deny from 2603:1020:206:2b::1a0/123
 ufw deny from 2603:1020:206:400::/123
 ufw deny from 2603:1020:206:401::/123
 ufw deny from 2603:1020:206:402::80/125

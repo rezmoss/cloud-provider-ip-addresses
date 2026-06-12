@@ -8694,6 +8694,18 @@
     "region": "eastus"
   },
   {
+    "ip_address": "57.163.48.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.eastus",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "57.163.48.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.EastUS",
+    "region": "eastus"
+  },
+  {
     "ip_address": "57.169.0.0/16",
     "ip_type": "IPv4",
     "service": "AzureCloud.eastus",
@@ -8709,6 +8721,42 @@
     "ip_address": "57.175.128.0/17",
     "ip_type": "IPv4",
     "service": "AzureCloud.eastus",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "57.175.164.180/30",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "57.175.167.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "57.175.167.64/28",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "57.175.167.80/29",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "57.175.167.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "57.175.184.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.EastUS",
     "region": "eastus"
   },
   {
@@ -9607,6 +9655,18 @@
   },
   {
     "ip_address": "145.190.179.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "145.190.183.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.eastus",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "145.190.183.0/24",
     "ip_type": "IPv4",
     "service": "Storage.EastUS",
     "region": "eastus"
@@ -10713,6 +10773,54 @@
     "ip_address": "2603:1030:210:2f::180/121",
     "ip_type": "IPv6",
     "service": "AzureBackup.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "2603:1030:210:34::22c/126",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "2603:1030:210:34::2a0/123",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "2603:1030:210:34::2c0/124",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "2603:1030:210:34::2d0/125",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "2603:1030:210:34::2e0/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "2603:1030:210:39::/120",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "2603:1030:210:39::200/119",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "2603:1030:210:3a::/121",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.EastUS",
     "region": "eastus"
   },
   {

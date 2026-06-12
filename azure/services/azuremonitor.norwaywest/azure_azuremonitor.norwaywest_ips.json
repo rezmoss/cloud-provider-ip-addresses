@@ -72,6 +72,12 @@
     "region": "norwayw"
   },
   {
+    "ip_address": "74.240.1.176/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.NorwayWest",
+    "region": "norwayw"
+  },
+  {
     "ip_address": "2603:1020:f04::780/121",
     "ip_type": "IPv6",
     "service": "AzureMonitor.NorwayWest",

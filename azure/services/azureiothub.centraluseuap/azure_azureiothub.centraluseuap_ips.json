@@ -36,6 +36,42 @@
     "region": "centraluseuap"
   },
   {
+    "ip_address": "57.173.16.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "57.173.16.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "57.173.16.96/30",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:10::598/126",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:10::5a0/123",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:11::100/122",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
     "ip_address": "2603:1030:f:400::b00/123",
     "ip_type": "IPv6",
     "service": "AzureIoTHub.CentralUSEUAP",

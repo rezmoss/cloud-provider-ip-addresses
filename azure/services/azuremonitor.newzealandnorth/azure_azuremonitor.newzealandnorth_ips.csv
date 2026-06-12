@@ -20,3 +20,4 @@ ip_address,ip_type,service,region
 2603:1010:502:2::680/121,IPv6,AzureMonitor.NewZealandNorth,newzealandnorth
 2603:1010:502:2::700/121,IPv6,AzureMonitor.NewZealandNorth,newzealandnorth
 2603:1010:502:5::5a0/123,IPv6,AzureMonitor.NewZealandNorth,newzealandnorth
+2603:1010:502:6::7e0/123,IPv6,AzureMonitor.NewZealandNorth,newzealandnorth

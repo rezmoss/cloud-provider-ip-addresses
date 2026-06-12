@@ -6,6 +6,9 @@ CREATE TABLE IF NOT EXISTS `azure_azureiothub.qatarcentral_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_azureiothub.qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('4.170.6.88/30', 'IPv4');
+INSERT INTO `azure_azureiothub.qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('4.170.6.128/26', 'IPv4');
+INSERT INTO `azure_azureiothub.qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('4.170.6.192/27', 'IPv4');
 INSERT INTO `azure_azureiothub.qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.21.12.43/32', 'IPv4');
 INSERT INTO `azure_azureiothub.qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.21.14.72/32', 'IPv4');
 INSERT INTO `azure_azureiothub.qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.21.44.96/27', 'IPv4');
@@ -15,6 +18,9 @@ INSERT INTO `azure_azureiothub.qatarcentral_ips` (`ip_address`, `ip_type`) VALUE
 INSERT INTO `azure_azureiothub.qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.21.82.128/25', 'IPv4');
 INSERT INTO `azure_azureiothub.qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1002:2::f0/124', 'IPv6');
 INSERT INTO `azure_azureiothub.qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1002:2::360/124', 'IPv6');
+INSERT INTO `azure_azureiothub.qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1002:9::708/126', 'IPv6');
+INSERT INTO `azure_azureiothub.qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1002:9::740/122', 'IPv6');
+INSERT INTO `azure_azureiothub.qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1002:9::780/123', 'IPv6');
 INSERT INTO `azure_azureiothub.qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1002:400::200/123', 'IPv6');
 INSERT INTO `azure_azureiothub.qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1002:800::e0/123', 'IPv6');
 INSERT INTO `azure_azureiothub.qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1002:c00::e0/123', 'IPv6');

@@ -1,5 +1,29 @@
 [
   {
+    "ip_address": "4.211.136.48/29",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "4.211.136.56/30",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "4.211.136.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "4.211.137.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
     "ip_address": "20.43.44.160/27",
     "ip_type": "IPv4",
     "service": "AzureIoTHub.FranceCentral",
@@ -32,6 +56,30 @@
   {
     "ip_address": "40.79.148.0/27",
     "ip_type": "IPv4",
+    "service": "AzureIoTHub.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "2603:1020:805:f::4d8/125",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "2603:1020:805:10::50/126",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "2603:1020:805:10::60/123",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "2603:1020:805:10::200/120",
+    "ip_type": "IPv6",
     "service": "AzureIoTHub.FranceCentral",
     "region": "centralfrance"
   },

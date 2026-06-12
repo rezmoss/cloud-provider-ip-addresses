@@ -96,6 +96,12 @@
     "region": "mexicocentral"
   },
   {
+    "ip_address": "172.195.141.48/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
     "ip_address": "2603:1030:701:7::12/127",
     "ip_type": "IPv6",
     "service": "AzureMonitor.MexicoCentral",

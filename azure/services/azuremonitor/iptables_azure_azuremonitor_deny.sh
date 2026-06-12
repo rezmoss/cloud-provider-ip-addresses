@@ -1,6 +1,6 @@
 #!/bin/bash
 # Azure IP Ranges
-# Updated: 2026-06-06 03:17:31
+# Updated: 2026-06-12 03:21:04
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -12,6 +12,8 @@ iptables -A INPUT -s 4.144.10.64/26 -j DROP
 iptables -A INPUT -s 4.145.8.112/28 -j DROP
 iptables -A INPUT -s 4.145.16.160/28 -j DROP
 iptables -A INPUT -s 4.145.79.224/27 -j DROP
+iptables -A INPUT -s 4.145.218.0/24 -j DROP
+iptables -A INPUT -s 4.145.220.240/28 -j DROP
 iptables -A INPUT -s 4.147.38.128/25 -j DROP
 iptables -A INPUT -s 4.147.39.0/27 -j DROP
 iptables -A INPUT -s 4.149.98.72/29 -j DROP
@@ -20,17 +22,24 @@ iptables -A INPUT -s 4.158.131.160/27 -j DROP
 iptables -A INPUT -s 4.158.131.192/26 -j DROP
 iptables -A INPUT -s 4.159.235.208/28 -j DROP
 iptables -A INPUT -s 4.161.10.112/28 -j DROP
+iptables -A INPUT -s 4.161.148.80/28 -j DROP
+iptables -A INPUT -s 4.161.149.0/24 -j DROP
 iptables -A INPUT -s 4.165.111.96/28 -j DROP
+iptables -A INPUT -s 4.170.6.112/28 -j DROP
 iptables -A INPUT -s 4.172.75.0/24 -j DROP
 iptables -A INPUT -s 4.172.83.112/28 -j DROP
 iptables -A INPUT -s 4.172.95.192/28 -j DROP
+iptables -A INPUT -s 4.173.102.64/28 -j DROP
 iptables -A INPUT -s 4.174.145.0/27 -j DROP
 iptables -A INPUT -s 4.174.145.64/26 -j DROP
 iptables -A INPUT -s 4.176.24.16/28 -j DROP
 iptables -A INPUT -s 4.176.30.32/28 -j DROP
 iptables -A INPUT -s 4.176.48.0/24 -j DROP
 iptables -A INPUT -s 4.177.29.144/28 -j DROP
+iptables -A INPUT -s 4.177.32.8/29 -j DROP
+iptables -A INPUT -s 4.177.34.0/24 -j DROP
 iptables -A INPUT -s 4.178.131.0/26 -j DROP
+iptables -A INPUT -s 4.181.5.144/28 -j DROP
 iptables -A INPUT -s 4.181.24.32/27 -j DROP
 iptables -A INPUT -s 4.181.24.64/26 -j DROP
 iptables -A INPUT -s 4.182.40.96/27 -j DROP
@@ -42,10 +51,13 @@ iptables -A INPUT -s 4.185.34.192/27 -j DROP
 iptables -A INPUT -s 4.185.224.224/28 -j DROP
 iptables -A INPUT -s 4.185.231.176/28 -j DROP
 iptables -A INPUT -s 4.186.1.0/24 -j DROP
+iptables -A INPUT -s 4.187.39.32/28 -j DROP
 iptables -A INPUT -s 4.187.64.64/27 -j DROP
 iptables -A INPUT -s 4.187.91.32/27 -j DROP
 iptables -A INPUT -s 4.187.91.64/26 -j DROP
 iptables -A INPUT -s 4.188.8.112/28 -j DROP
+iptables -A INPUT -s 4.188.59.144/28 -j DROP
+iptables -A INPUT -s 4.188.60.0/24 -j DROP
 iptables -A INPUT -s 4.189.204.0/24 -j DROP
 iptables -A INPUT -s 4.190.142.192/27 -j DROP
 iptables -A INPUT -s 4.190.143.128/26 -j DROP
@@ -53,6 +65,7 @@ iptables -A INPUT -s 4.190.147.0/29 -j DROP
 iptables -A INPUT -s 4.190.147.16/28 -j DROP
 iptables -A INPUT -s 4.190.147.48/29 -j DROP
 iptables -A INPUT -s 4.191.84.192/28 -j DROP
+iptables -A INPUT -s 4.191.114.16/28 -j DROP
 iptables -A INPUT -s 4.192.252.224/27 -j DROP
 iptables -A INPUT -s 4.192.253.128/26 -j DROP
 iptables -A INPUT -s 4.195.7.0/26 -j DROP
@@ -64,6 +77,7 @@ iptables -A INPUT -s 4.198.43.32/27 -j DROP
 iptables -A INPUT -s 4.198.43.64/26 -j DROP
 iptables -A INPUT -s 4.198.160.88/29 -j DROP
 iptables -A INPUT -s 4.198.162.0/29 -j DROP
+iptables -A INPUT -s 4.199.29.144/28 -j DROP
 iptables -A INPUT -s 4.199.44.144/28 -j DROP
 iptables -A INPUT -s 4.199.83.204/31 -j DROP
 iptables -A INPUT -s 4.199.90.136/29 -j DROP
@@ -83,8 +97,12 @@ iptables -A INPUT -s 4.207.185.0/24 -j DROP
 iptables -A INPUT -s 4.207.252.128/27 -j DROP
 iptables -A INPUT -s 4.207.252.192/26 -j DROP
 iptables -A INPUT -s 4.209.249.192/26 -j DROP
+iptables -A INPUT -s 4.211.103.0/24 -j DROP
+iptables -A INPUT -s 4.211.136.96/28 -j DROP
+iptables -A INPUT -s 4.211.136.128/27 -j DROP
 iptables -A INPUT -s 4.213.26.192/27 -j DROP
 iptables -A INPUT -s 4.213.29.64/26 -j DROP
+iptables -A INPUT -s 4.214.241.192/27 -j DROP
 iptables -A INPUT -s 4.216.1.176/28 -j DROP
 iptables -A INPUT -s 4.216.2.16/28 -j DROP
 iptables -A INPUT -s 4.217.214.16/28 -j DROP
@@ -98,6 +116,7 @@ iptables -A INPUT -s 4.223.182.144/28 -j DROP
 iptables -A INPUT -s 4.226.76.224/28 -j DROP
 iptables -A INPUT -s 4.226.250.64/28 -j DROP
 iptables -A INPUT -s 4.226.252.176/28 -j DROP
+iptables -A INPUT -s 4.228.254.160/27 -j DROP
 iptables -A INPUT -s 4.230.123.96/28 -j DROP
 iptables -A INPUT -s 4.231.242.128/26 -j DROP
 iptables -A INPUT -s 4.232.52.64/27 -j DROP
@@ -125,6 +144,7 @@ iptables -A INPUT -s 4.239.77.0/26 -j DROP
 iptables -A INPUT -s 4.239.77.64/27 -j DROP
 iptables -A INPUT -s 4.240.149.32/27 -j DROP
 iptables -A INPUT -s 4.240.149.64/26 -j DROP
+iptables -A INPUT -s 4.243.7.160/28 -j DROP
 iptables -A INPUT -s 4.243.42.64/27 -j DROP
 iptables -A INPUT -s 4.243.44.128/26 -j DROP
 iptables -A INPUT -s 4.243.139.224/27 -j DROP
@@ -140,6 +160,8 @@ iptables -A INPUT -s 4.248.99.128/26 -j DROP
 iptables -A INPUT -s 4.250.1.104/29 -j DROP
 iptables -A INPUT -s 4.251.224.224/27 -j DROP
 iptables -A INPUT -s 4.251.225.64/26 -j DROP
+iptables -A INPUT -s 4.253.155.0/24 -j DROP
+iptables -A INPUT -s 4.253.156.32/28 -j DROP
 iptables -A INPUT -s 9.160.51.242/31 -j DROP
 iptables -A INPUT -s 9.160.53.208/29 -j DROP
 iptables -A INPUT -s 9.160.53.216/30 -j DROP
@@ -156,6 +178,7 @@ iptables -A INPUT -s 9.160.90.240/28 -j DROP
 iptables -A INPUT -s 9.160.114.136/29 -j DROP
 iptables -A INPUT -s 9.160.114.240/28 -j DROP
 iptables -A INPUT -s 9.160.174.224/27 -j DROP
+iptables -A INPUT -s 9.160.219.208/28 -j DROP
 iptables -A INPUT -s 9.169.0.224/30 -j DROP
 iptables -A INPUT -s 9.169.0.228/32 -j DROP
 iptables -A INPUT -s 9.205.43.242/31 -j DROP
@@ -173,6 +196,7 @@ iptables -A INPUT -s 9.205.98.136/29 -j DROP
 iptables -A INPUT -s 9.205.98.240/28 -j DROP
 iptables -A INPUT -s 9.205.114.136/29 -j DROP
 iptables -A INPUT -s 9.205.114.240/28 -j DROP
+iptables -A INPUT -s 9.205.206.16/28 -j DROP
 iptables -A INPUT -s 9.235.22.224/27 -j DROP
 iptables -A INPUT -s 9.235.23.0/28 -j DROP
 iptables -A INPUT -s 9.235.70.80/28 -j DROP
@@ -180,6 +204,7 @@ iptables -A INPUT -s 9.235.170.208/28 -j DROP
 iptables -A INPUT -s 9.235.171.24/29 -j DROP
 iptables -A INPUT -s 9.235.171.32/28 -j DROP
 iptables -A INPUT -s 9.235.185.0/25 -j DROP
+iptables -A INPUT -s 9.235.213.96/28 -j DROP
 iptables -A INPUT -s 13.65.96.175/32 -j DROP
 iptables -A INPUT -s 13.65.206.67/32 -j DROP
 iptables -A INPUT -s 13.65.211.125/32 -j DROP
@@ -712,6 +737,7 @@ iptables -A INPUT -s 20.205.192.72/29 -j DROP
 iptables -A INPUT -s 20.205.192.248/29 -j DROP
 iptables -A INPUT -s 20.206.0.196/31 -j DROP
 iptables -A INPUT -s 20.206.5.40/29 -j DROP
+iptables -A INPUT -s 20.206.35.112/28 -j DROP
 iptables -A INPUT -s 20.206.183.64/28 -j DROP
 iptables -A INPUT -s 20.207.5.104/29 -j DROP
 iptables -A INPUT -s 20.207.175.98/31 -j DROP
@@ -1016,6 +1042,7 @@ iptables -A INPUT -s 48.199.6.0/26 -j DROP
 iptables -A INPUT -s 48.199.135.192/26 -j DROP
 iptables -A INPUT -s 48.200.60.192/26 -j DROP
 iptables -A INPUT -s 48.202.71.0/26 -j DROP
+iptables -A INPUT -s 48.203.152.176/28 -j DROP
 iptables -A INPUT -s 48.215.146.8/29 -j DROP
 iptables -A INPUT -s 48.215.146.112/28 -j DROP
 iptables -A INPUT -s 48.215.167.96/27 -j DROP
@@ -1042,6 +1069,7 @@ iptables -A INPUT -s 48.223.21.160/27 -j DROP
 iptables -A INPUT -s 48.223.21.192/26 -j DROP
 iptables -A INPUT -s 48.223.29.192/28 -j DROP
 iptables -A INPUT -s 48.223.56.32/28 -j DROP
+iptables -A INPUT -s 48.223.101.80/28 -j DROP
 iptables -A INPUT -s 51.4.131.242/31 -j DROP
 iptables -A INPUT -s 51.4.133.208/29 -j DROP
 iptables -A INPUT -s 51.4.133.216/30 -j DROP
@@ -1106,11 +1134,13 @@ iptables -A INPUT -s 51.53.178.200/31 -j DROP
 iptables -A INPUT -s 51.53.178.224/27 -j DROP
 iptables -A INPUT -s 51.53.191.128/29 -j DROP
 iptables -A INPUT -s 51.53.191.144/28 -j DROP
+iptables -A INPUT -s 51.56.158.176/28 -j DROP
 iptables -A INPUT -s 51.57.106.32/27 -j DROP
 iptables -A INPUT -s 51.57.106.64/26 -j DROP
 iptables -A INPUT -s 51.58.25.224/27 -j DROP
 iptables -A INPUT -s 51.58.26.0/28 -j DROP
 iptables -A INPUT -s 51.58.31.112/28 -j DROP
+iptables -A INPUT -s 51.58.96.0/24 -j DROP
 iptables -A INPUT -s 51.103.203.200/29 -j DROP
 iptables -A INPUT -s 51.103.205.176/28 -j DROP
 iptables -A INPUT -s 51.104.8.104/29 -j DROP
@@ -1391,6 +1421,7 @@ iptables -A INPUT -s 57.151.222.224/27 -j DROP
 iptables -A INPUT -s 57.151.223.0/27 -j DROP
 iptables -A INPUT -s 57.151.228.160/30 -j DROP
 iptables -A INPUT -s 57.152.116.224/27 -j DROP
+iptables -A INPUT -s 57.152.170.96/27 -j DROP
 iptables -A INPUT -s 57.153.246.160/27 -j DROP
 iptables -A INPUT -s 57.153.246.192/26 -j DROP
 iptables -A INPUT -s 57.154.128.96/29 -j DROP
@@ -1399,7 +1430,13 @@ iptables -A INPUT -s 57.156.5.112/28 -j DROP
 iptables -A INPUT -s 57.156.5.128/27 -j DROP
 iptables -A INPUT -s 57.156.5.176/28 -j DROP
 iptables -A INPUT -s 57.156.5.192/27 -j DROP
+iptables -A INPUT -s 57.156.127.0/24 -j DROP
+iptables -A INPUT -s 57.160.12.144/28 -j DROP
 iptables -A INPUT -s 57.167.184.162/31 -j DROP
+iptables -A INPUT -s 57.173.15.0/24 -j DROP
+iptables -A INPUT -s 57.173.16.112/28 -j DROP
+iptables -A INPUT -s 57.174.31.112/28 -j DROP
+iptables -A INPUT -s 57.175.39.0/24 -j DROP
 iptables -A INPUT -s 65.52.2.145/32 -j DROP
 iptables -A INPUT -s 65.52.5.76/32 -j DROP
 iptables -A INPUT -s 65.52.122.208/32 -j DROP
@@ -1489,6 +1526,11 @@ iptables -A INPUT -s 74.7.192.192/27 -j DROP
 iptables -A INPUT -s 74.7.201.192/26 -j DROP
 iptables -A INPUT -s 74.7.218.224/29 -j DROP
 iptables -A INPUT -s 74.7.218.240/28 -j DROP
+iptables -A INPUT -s 74.144.24.0/24 -j DROP
+iptables -A INPUT -s 74.144.26.160/27 -j DROP
+iptables -A INPUT -s 74.145.141.0/24 -j DROP
+iptables -A INPUT -s 74.145.146.96/29 -j DROP
+iptables -A INPUT -s 74.160.6.64/28 -j DROP
 iptables -A INPUT -s 74.161.189.192/26 -j DROP
 iptables -A INPUT -s 74.161.190.0/27 -j DROP
 iptables -A INPUT -s 74.161.238.224/28 -j DROP
@@ -1499,8 +1541,10 @@ iptables -A INPUT -s 74.225.41.48/28 -j DROP
 iptables -A INPUT -s 74.225.44.96/28 -j DROP
 iptables -A INPUT -s 74.225.110.144/28 -j DROP
 iptables -A INPUT -s 74.225.115.0/28 -j DROP
+iptables -A INPUT -s 74.240.1.176/28 -j DROP
 iptables -A INPUT -s 74.240.192.64/26 -j DROP
 iptables -A INPUT -s 74.240.192.128/27 -j DROP
+iptables -A INPUT -s 74.241.60.16/28 -j DROP
 iptables -A INPUT -s 74.242.4.14/31 -j DROP
 iptables -A INPUT -s 74.242.36.96/27 -j DROP
 iptables -A INPUT -s 74.242.36.192/26 -j DROP
@@ -1514,6 +1558,7 @@ iptables -A INPUT -s 85.211.140.176/28 -j DROP
 iptables -A INPUT -s 85.211.235.160/27 -j DROP
 iptables -A INPUT -s 85.211.235.208/28 -j DROP
 iptables -A INPUT -s 85.211.235.224/27 -j DROP
+iptables -A INPUT -s 98.66.23.176/28 -j DROP
 iptables -A INPUT -s 98.66.146.96/27 -j DROP
 iptables -A INPUT -s 98.70.128.0/26 -j DROP
 iptables -A INPUT -s 102.37.64.128/27 -j DROP
@@ -1618,6 +1663,7 @@ iptables -A INPUT -s 137.117.144.33/32 -j DROP
 iptables -A INPUT -s 138.91.9.98/32 -j DROP
 iptables -A INPUT -s 138.91.32.98/32 -j DROP
 iptables -A INPUT -s 138.91.37.93/32 -j DROP
+iptables -A INPUT -s 145.191.144.64/28 -j DROP
 iptables -A INPUT -s 157.55.90.64/27 -j DROP
 iptables -A INPUT -s 157.55.90.128/26 -j DROP
 iptables -A INPUT -s 157.55.177.6/32 -j DROP
@@ -1654,6 +1700,7 @@ iptables -A INPUT -s 168.63.242.221/32 -j DROP
 iptables -A INPUT -s 172.160.223.224/27 -j DROP
 iptables -A INPUT -s 172.164.215.64/27 -j DROP
 iptables -A INPUT -s 172.164.238.64/26 -j DROP
+iptables -A INPUT -s 172.165.1.0/28 -j DROP
 iptables -A INPUT -s 172.165.84.176/28 -j DROP
 iptables -A INPUT -s 172.169.155.0/24 -j DROP
 iptables -A INPUT -s 172.170.16.192/26 -j DROP
@@ -1667,15 +1714,18 @@ iptables -A INPUT -s 172.175.178.208/28 -j DROP
 iptables -A INPUT -s 172.175.179.32/27 -j DROP
 iptables -A INPUT -s 172.179.208.0/27 -j DROP
 iptables -A INPUT -s 172.179.208.64/26 -j DROP
+iptables -A INPUT -s 172.180.57.80/28 -j DROP
 iptables -A INPUT -s 172.182.185.224/27 -j DROP
 iptables -A INPUT -s 172.182.191.0/26 -j DROP
 iptables -A INPUT -s 172.183.233.96/27 -j DROP
 iptables -A INPUT -s 172.186.79.224/27 -j DROP
+iptables -A INPUT -s 172.186.128.16/28 -j DROP
 iptables -A INPUT -s 172.187.35.160/27 -j DROP
 iptables -A INPUT -s 172.187.35.192/26 -j DROP
 iptables -A INPUT -s 172.187.86.96/27 -j DROP
 iptables -A INPUT -s 172.187.86.192/26 -j DROP
 iptables -A INPUT -s 172.192.184.208/28 -j DROP
+iptables -A INPUT -s 172.192.205.32/28 -j DROP
 iptables -A INPUT -s 172.194.81.104/29 -j DROP
 iptables -A INPUT -s 172.194.82.224/29 -j DROP
 iptables -A INPUT -s 172.194.82.232/31 -j DROP
@@ -1686,9 +1736,11 @@ iptables -A INPUT -s 172.195.21.16/28 -j DROP
 iptables -A INPUT -s 172.195.21.32/27 -j DROP
 iptables -A INPUT -s 172.195.23.112/28 -j DROP
 iptables -A INPUT -s 172.195.54.240/28 -j DROP
+iptables -A INPUT -s 172.195.141.48/28 -j DROP
 iptables -A INPUT -s 172.196.61.176/28 -j DROP
 iptables -A INPUT -s 172.196.61.192/27 -j DROP
 iptables -A INPUT -s 172.196.62.0/27 -j DROP
+iptables -A INPUT -s 172.197.44.160/27 -j DROP
 iptables -A INPUT -s 172.197.132.192/26 -j DROP
 iptables -A INPUT -s 172.198.96.216/29 -j DROP
 iptables -A INPUT -s 172.198.98.160/29 -j DROP
@@ -1700,6 +1752,7 @@ iptables -A INPUT -s 172.198.144.168/29 -j DROP
 iptables -A INPUT -s 172.198.144.176/28 -j DROP
 iptables -A INPUT -s 172.198.168.168/29 -j DROP
 iptables -A INPUT -s 172.198.168.176/28 -j DROP
+iptables -A INPUT -s 172.198.233.224/27 -j DROP
 iptables -A INPUT -s 172.199.21.0/24 -j DROP
 iptables -A INPUT -s 172.204.165.124/30 -j DROP
 iptables -A INPUT -s 172.204.166.72/29 -j DROP
@@ -1766,6 +1819,7 @@ ip6tables -A INPUT -s 2603:1000:4:2::7c0/123 -j DROP
 ip6tables -A INPUT -s 2603:1000:4:5::/122 -j DROP
 ip6tables -A INPUT -s 2603:1000:4:7::200/120 -j DROP
 ip6tables -A INPUT -s 2603:1000:4:7::3c0/123 -j DROP
+ip6tables -A INPUT -s 2603:1000:4:8::420/123 -j DROP
 ip6tables -A INPUT -s 2603:1000:4:402::500/121 -j DROP
 ip6tables -A INPUT -s 2603:1000:104::4c0/122 -j DROP
 ip6tables -A INPUT -s 2603:1000:104::600/122 -j DROP
@@ -1776,6 +1830,7 @@ ip6tables -A INPUT -s 2603:1000:104:6::/122 -j DROP
 ip6tables -A INPUT -s 2603:1000:104:6::40/123 -j DROP
 ip6tables -A INPUT -s 2603:1000:104:a::600/120 -j DROP
 ip6tables -A INPUT -s 2603:1000:104:a::7a0/123 -j DROP
+ip6tables -A INPUT -s 2603:1000:104:d::3c0/123 -j DROP
 ip6tables -A INPUT -s 2603:1000:104:402::500/121 -j DROP
 ip6tables -A INPUT -s 2603:1000:104:802::480/121 -j DROP
 ip6tables -A INPUT -s 2603:1000:104:c02::480/121 -j DROP
@@ -1789,6 +1844,8 @@ ip6tables -A INPUT -s 2603:1010:6:7::/122 -j DROP
 ip6tables -A INPUT -s 2603:1010:6:7::40/123 -j DROP
 ip6tables -A INPUT -s 2603:1010:6:e::100/120 -j DROP
 ip6tables -A INPUT -s 2603:1010:6:e::480/123 -j DROP
+ip6tables -A INPUT -s 2603:1010:6:11::600/120 -j DROP
+ip6tables -A INPUT -s 2603:1010:6:14::20/123 -j DROP
 ip6tables -A INPUT -s 2603:1010:6:402::500/121 -j DROP
 ip6tables -A INPUT -s 2603:1010:6:802::480/121 -j DROP
 ip6tables -A INPUT -s 2603:1010:6:802::500/121 -j DROP
@@ -1803,6 +1860,7 @@ ip6tables -A INPUT -s 2603:1010:101:402::500/121 -j DROP
 ip6tables -A INPUT -s 2603:1010:207:1::180/121 -j DROP
 ip6tables -A INPUT -s 2603:1010:207:4::/120 -j DROP
 ip6tables -A INPUT -s 2603:1010:207:4::340/123 -j DROP
+ip6tables -A INPUT -s 2603:1010:207:6::320/123 -j DROP
 ip6tables -A INPUT -s 2603:1010:300::35/128 -j DROP
 ip6tables -A INPUT -s 2603:1010:300::88/128 -j DROP
 ip6tables -A INPUT -s 2603:1010:304::780/121 -j DROP
@@ -1831,6 +1889,7 @@ ip6tables -A INPUT -s 2603:1010:502:2::640/123 -j DROP
 ip6tables -A INPUT -s 2603:1010:502:2::680/121 -j DROP
 ip6tables -A INPUT -s 2603:1010:502:2::700/121 -j DROP
 ip6tables -A INPUT -s 2603:1010:502:5::5a0/123 -j DROP
+ip6tables -A INPUT -s 2603:1010:502:6::7e0/123 -j DROP
 ip6tables -A INPUT -s 2603:1020:5::60/123 -j DROP
 ip6tables -A INPUT -s 2603:1020:5::1c0/122 -j DROP
 ip6tables -A INPUT -s 2603:1020:5::300/123 -j DROP
@@ -1842,6 +1901,7 @@ ip6tables -A INPUT -s 2603:1020:5:b::120/123 -j DROP
 ip6tables -A INPUT -s 2603:1020:5:b::140/123 -j DROP
 ip6tables -A INPUT -s 2603:1020:5:1b::100/120 -j DROP
 ip6tables -A INPUT -s 2603:1020:5:1b::300/122 -j DROP
+ip6tables -A INPUT -s 2603:1020:5:21::180/123 -j DROP
 ip6tables -A INPUT -s 2603:1020:5:402::500/121 -j DROP
 ip6tables -A INPUT -s 2603:1020:5:802::480/121 -j DROP
 ip6tables -A INPUT -s 2603:1020:5:c02::480/121 -j DROP
@@ -1867,6 +1927,7 @@ ip6tables -A INPUT -s 2603:1020:206:22::/120 -j DROP
 ip6tables -A INPUT -s 2603:1020:206:22::3c0/122 -j DROP
 ip6tables -A INPUT -s 2603:1020:206:23::380/121 -j DROP
 ip6tables -A INPUT -s 2603:1020:206:25::500/122 -j DROP
+ip6tables -A INPUT -s 2603:1020:206:2b::1a0/123 -j DROP
 ip6tables -A INPUT -s 2603:1020:206:402::500/121 -j DROP
 ip6tables -A INPUT -s 2603:1020:206:802::480/121 -j DROP
 ip6tables -A INPUT -s 2603:1020:206:c00::100/121 -j DROP
@@ -1884,6 +1945,7 @@ ip6tables -A INPUT -s 2603:1020:605:7::400/123 -j DROP
 ip6tables -A INPUT -s 2603:1020:605:7::440/122 -j DROP
 ip6tables -A INPUT -s 2603:1020:605:b::600/120 -j DROP
 ip6tables -A INPUT -s 2603:1020:605:b::700/123 -j DROP
+ip6tables -A INPUT -s 2603:1020:605:d::520/123 -j DROP
 ip6tables -A INPUT -s 2603:1020:605:402::500/121 -j DROP
 ip6tables -A INPUT -s 2603:1020:700:1::a4/128 -j DROP
 ip6tables -A INPUT -s 2603:1020:702:1d::2/128 -j DROP
@@ -1898,6 +1960,7 @@ ip6tables -A INPUT -s 2603:1020:705:8::260/123 -j DROP
 ip6tables -A INPUT -s 2603:1020:705:a::200/122 -j DROP
 ip6tables -A INPUT -s 2603:1020:705:15::/120 -j DROP
 ip6tables -A INPUT -s 2603:1020:705:15::420/123 -j DROP
+ip6tables -A INPUT -s 2603:1020:705:1a::2c0/123 -j DROP
 ip6tables -A INPUT -s 2603:1020:705:402::500/121 -j DROP
 ip6tables -A INPUT -s 2603:1020:705:802::480/121 -j DROP
 ip6tables -A INPUT -s 2603:1020:705:c02::480/121 -j DROP
@@ -1911,6 +1974,7 @@ ip6tables -A INPUT -s 2603:1020:805:3::3c0/123 -j DROP
 ip6tables -A INPUT -s 2603:1020:805:7::/122 -j DROP
 ip6tables -A INPUT -s 2603:1020:805:d::500/120 -j DROP
 ip6tables -A INPUT -s 2603:1020:805:d::7a0/123 -j DROP
+ip6tables -A INPUT -s 2603:1020:805:10::300/123 -j DROP
 ip6tables -A INPUT -s 2603:1020:805:402::500/121 -j DROP
 ip6tables -A INPUT -s 2603:1020:805:802::480/121 -j DROP
 ip6tables -A INPUT -s 2603:1020:805:c02::480/121 -j DROP
@@ -1921,6 +1985,7 @@ ip6tables -A INPUT -s 2603:1020:905:5::700/121 -j DROP
 ip6tables -A INPUT -s 2603:1020:905:6::e0/123 -j DROP
 ip6tables -A INPUT -s 2603:1020:905:6::100/122 -j DROP
 ip6tables -A INPUT -s 2603:1020:905:9::700/123 -j DROP
+ip6tables -A INPUT -s 2603:1020:905:a::700/123 -j DROP
 ip6tables -A INPUT -s 2603:1020:905:402::500/121 -j DROP
 ip6tables -A INPUT -s 2603:1020:a01:24::8/128 -j DROP
 ip6tables -A INPUT -s 2603:1020:a04::60/123 -j DROP
@@ -1933,6 +1998,7 @@ ip6tables -A INPUT -s 2603:1020:a04:3::7e0/123 -j DROP
 ip6tables -A INPUT -s 2603:1020:a04:7::/122 -j DROP
 ip6tables -A INPUT -s 2603:1020:a04:9::5c0/123 -j DROP
 ip6tables -A INPUT -s 2603:1020:a04:9::600/120 -j DROP
+ip6tables -A INPUT -s 2603:1020:a04:d::560/123 -j DROP
 ip6tables -A INPUT -s 2603:1020:a04:402::500/121 -j DROP
 ip6tables -A INPUT -s 2603:1020:a04:800::100/121 -j DROP
 ip6tables -A INPUT -s 2603:1020:a04:c02::480/121 -j DROP
@@ -1943,6 +2009,7 @@ ip6tables -A INPUT -s 2603:1020:b04:1::300/121 -j DROP
 ip6tables -A INPUT -s 2603:1020:b04:2::500/121 -j DROP
 ip6tables -A INPUT -s 2603:1020:b04:6::60/123 -j DROP
 ip6tables -A INPUT -s 2603:1020:b04:9::80/123 -j DROP
+ip6tables -A INPUT -s 2603:1020:b04:9::7a0/123 -j DROP
 ip6tables -A INPUT -s 2603:1020:b04:402::500/121 -j DROP
 ip6tables -A INPUT -s 2603:1020:c01:2::b/128 -j DROP
 ip6tables -A INPUT -s 2603:1020:c01:2::e/128 -j DROP
@@ -1956,6 +2023,7 @@ ip6tables -A INPUT -s 2603:1020:c04:5::5c0/122 -j DROP
 ip6tables -A INPUT -s 2603:1020:c04:5::600/122 -j DROP
 ip6tables -A INPUT -s 2603:1020:c04:a::500/120 -j DROP
 ip6tables -A INPUT -s 2603:1020:c04:b::20/123 -j DROP
+ip6tables -A INPUT -s 2603:1020:c04:e::100/123 -j DROP
 ip6tables -A INPUT -s 2603:1020:c04:402::500/121 -j DROP
 ip6tables -A INPUT -s 2603:1020:c04:800::100/121 -j DROP
 ip6tables -A INPUT -s 2603:1020:c04:c02::480/121 -j DROP
@@ -1968,6 +2036,7 @@ ip6tables -A INPUT -s 2603:1020:d04:5::580/121 -j DROP
 ip6tables -A INPUT -s 2603:1020:d04:5::7c0/123 -j DROP
 ip6tables -A INPUT -s 2603:1020:d04:9::400/120 -j DROP
 ip6tables -A INPUT -s 2603:1020:d04:9::740/123 -j DROP
+ip6tables -A INPUT -s 2603:1020:d04:a::760/123 -j DROP
 ip6tables -A INPUT -s 2603:1020:d04:402::500/121 -j DROP
 ip6tables -A INPUT -s 2603:1020:e04::60/123 -j DROP
 ip6tables -A INPUT -s 2603:1020:e04::1c0/122 -j DROP
@@ -1979,6 +2048,7 @@ ip6tables -A INPUT -s 2603:1020:e04:4::6e0/123 -j DROP
 ip6tables -A INPUT -s 2603:1020:e04:4::700/122 -j DROP
 ip6tables -A INPUT -s 2603:1020:e04:c::/120 -j DROP
 ip6tables -A INPUT -s 2603:1020:e04:c::180/123 -j DROP
+ip6tables -A INPUT -s 2603:1020:e04:d::2c0/123 -j DROP
 ip6tables -A INPUT -s 2603:1020:e04:402::500/121 -j DROP
 ip6tables -A INPUT -s 2603:1020:e04:802::480/121 -j DROP
 ip6tables -A INPUT -s 2603:1020:e04:c00::80/121 -j DROP
@@ -2000,6 +2070,7 @@ ip6tables -A INPUT -s 2603:1020:1004:6::c0/123 -j DROP
 ip6tables -A INPUT -s 2603:1020:1004:6::100/122 -j DROP
 ip6tables -A INPUT -s 2603:1020:1004:c::700/120 -j DROP
 ip6tables -A INPUT -s 2603:1020:1004:d::80/123 -j DROP
+ip6tables -A INPUT -s 2603:1020:1004:10::2c0/123 -j DROP
 ip6tables -A INPUT -s 2603:1020:1004:400::420/123 -j DROP
 ip6tables -A INPUT -s 2603:1020:1004:400::4a0/123 -j DROP
 ip6tables -A INPUT -s 2603:1020:1004:400::580/121 -j DROP
@@ -2016,6 +2087,7 @@ ip6tables -A INPUT -s 2603:1020:1104:2::480/121 -j DROP
 ip6tables -A INPUT -s 2603:1020:1104:2::740/123 -j DROP
 ip6tables -A INPUT -s 2603:1020:1104:2::780/122 -j DROP
 ip6tables -A INPUT -s 2603:1020:1104:7::7a0/123 -j DROP
+ip6tables -A INPUT -s 2603:1020:1104:9::/122 -j DROP
 ip6tables -A INPUT -s 2603:1020:1104:400::440/123 -j DROP
 ip6tables -A INPUT -s 2603:1020:1104:400::480/121 -j DROP
 ip6tables -A INPUT -s 2603:1020:1200:4::10/128 -j DROP
@@ -2028,6 +2100,7 @@ ip6tables -A INPUT -s 2603:1020:1204:3::5a0/123 -j DROP
 ip6tables -A INPUT -s 2603:1020:1204:3::5c0/122 -j DROP
 ip6tables -A INPUT -s 2603:1020:1204:7::500/120 -j DROP
 ip6tables -A INPUT -s 2603:1020:1204:7::620/123 -j DROP
+ip6tables -A INPUT -s 2603:1020:1204:9::470/125 -j DROP
 ip6tables -A INPUT -s 2603:1020:1300:4::a/127 -j DROP
 ip6tables -A INPUT -s 2603:1020:1302:1::5e0/123 -j DROP
 ip6tables -A INPUT -s 2603:1020:1302:2::/122 -j DROP
@@ -2039,6 +2112,7 @@ ip6tables -A INPUT -s 2603:1020:1302:3::1c0/122 -j DROP
 ip6tables -A INPUT -s 2603:1020:1302:5::600/120 -j DROP
 ip6tables -A INPUT -s 2603:1020:1302:5::7e0/123 -j DROP
 ip6tables -A INPUT -s 2603:1020:1302:9::7c0/123 -j DROP
+ip6tables -A INPUT -s 2603:1020:1302:a::2c0/123 -j DROP
 ip6tables -A INPUT -s 2603:1020:1402:7::13/128 -j DROP
 ip6tables -A INPUT -s 2603:1020:1402:7::14/128 -j DROP
 ip6tables -A INPUT -s 2603:1020:1403:2::/123 -j DROP
@@ -2047,15 +2121,18 @@ ip6tables -A INPUT -s 2603:1020:1403:2::380/121 -j DROP
 ip6tables -A INPUT -s 2603:1020:1403:2::400/120 -j DROP
 ip6tables -A INPUT -s 2603:1020:1403:7::300/120 -j DROP
 ip6tables -A INPUT -s 2603:1020:1403:7::440/123 -j DROP
+ip6tables -A INPUT -s 2603:1020:1403:8::780/123 -j DROP
 ip6tables -A INPUT -s 2603:1020:1501:f::10/127 -j DROP
 ip6tables -A INPUT -s 2603:1020:1502:2::480/121 -j DROP
 ip6tables -A INPUT -s 2603:1020:1502:2::500/120 -j DROP
+ip6tables -A INPUT -s 2603:1020:1502:4::440/123 -j DROP
 ip6tables -A INPUT -s 2603:1020:1502:5::260/123 -j DROP
 ip6tables -A INPUT -s 2603:1020:1601:8::f/128 -j DROP
 ip6tables -A INPUT -s 2603:1020:1601:8::18/128 -j DROP
 ip6tables -A INPUT -s 2603:1020:1602:2::480/121 -j DROP
 ip6tables -A INPUT -s 2603:1020:1602:2::500/120 -j DROP
 ip6tables -A INPUT -s 2603:1020:1602:4::580/123 -j DROP
+ip6tables -A INPUT -s 2603:1020:1602:5::7c0/123 -j DROP
 ip6tables -A INPUT -s 2603:1030:7::25/128 -j DROP
 ip6tables -A INPUT -s 2603:1030:7::d4/128 -j DROP
 ip6tables -A INPUT -s 2603:1030:7::155/128 -j DROP
@@ -2097,6 +2174,8 @@ ip6tables -A INPUT -s 2603:1030:10:d::4a0/123 -j DROP
 ip6tables -A INPUT -s 2603:1030:10:d::4c0/122 -j DROP
 ip6tables -A INPUT -s 2603:1030:10:1f::100/120 -j DROP
 ip6tables -A INPUT -s 2603:1030:10:1f::440/122 -j DROP
+ip6tables -A INPUT -s 2603:1030:10:25::500/120 -j DROP
+ip6tables -A INPUT -s 2603:1030:10:26::540/123 -j DROP
 ip6tables -A INPUT -s 2603:1030:10:402::500/121 -j DROP
 ip6tables -A INPUT -s 2603:1030:10:802::480/121 -j DROP
 ip6tables -A INPUT -s 2603:1030:10:c02::480/121 -j DROP
@@ -2127,6 +2206,8 @@ ip6tables -A INPUT -s 2603:1030:210:f::5e0/123 -j DROP
 ip6tables -A INPUT -s 2603:1030:210:11::240/122 -j DROP
 ip6tables -A INPUT -s 2603:1030:210:2d::400/120 -j DROP
 ip6tables -A INPUT -s 2603:1030:210:2e::80/122 -j DROP
+ip6tables -A INPUT -s 2603:1030:210:34::2e0/123 -j DROP
+ip6tables -A INPUT -s 2603:1030:210:39::/120 -j DROP
 ip6tables -A INPUT -s 2603:1030:210:402::500/121 -j DROP
 ip6tables -A INPUT -s 2603:1030:210:802::480/121 -j DROP
 ip6tables -A INPUT -s 2603:1030:210:c00::100/121 -j DROP
@@ -2188,6 +2269,7 @@ ip6tables -A INPUT -s 2603:1030:40c:24::200/120 -j DROP
 ip6tables -A INPUT -s 2603:1030:40c:24::3f0/124 -j DROP
 ip6tables -A INPUT -s 2603:1030:40c:24::440/122 -j DROP
 ip6tables -A INPUT -s 2603:1030:40c:2b::380/121 -j DROP
+ip6tables -A INPUT -s 2603:1030:40c:31::120/123 -j DROP
 ip6tables -A INPUT -s 2603:1030:40c:402::500/121 -j DROP
 ip6tables -A INPUT -s 2603:1030:40c:802::480/121 -j DROP
 ip6tables -A INPUT -s 2603:1030:40c:c02::400/121 -j DROP
@@ -2211,6 +2293,7 @@ ip6tables -A INPUT -s 2603:1030:504:9::140/122 -j DROP
 ip6tables -A INPUT -s 2603:1030:504:15::/120 -j DROP
 ip6tables -A INPUT -s 2603:1030:504:15::1c0/123 -j DROP
 ip6tables -A INPUT -s 2603:1030:504:16::500/121 -j DROP
+ip6tables -A INPUT -s 2603:1030:504:19::40/123 -j DROP
 ip6tables -A INPUT -s 2603:1030:504:402::500/121 -j DROP
 ip6tables -A INPUT -s 2603:1030:504:802::400/121 -j DROP
 ip6tables -A INPUT -s 2603:1030:504:c02::100/123 -j DROP
@@ -2224,6 +2307,7 @@ ip6tables -A INPUT -s 2603:1030:608:8::80/123 -j DROP
 ip6tables -A INPUT -s 2603:1030:608:8::c0/122 -j DROP
 ip6tables -A INPUT -s 2603:1030:608:14::200/120 -j DROP
 ip6tables -A INPUT -s 2603:1030:608:14::480/122 -j DROP
+ip6tables -A INPUT -s 2603:1030:608:17::1c0/123 -j DROP
 ip6tables -A INPUT -s 2603:1030:608:402::500/121 -j DROP
 ip6tables -A INPUT -s 2603:1030:608:802::80/121 -j DROP
 ip6tables -A INPUT -s 2603:1030:608:c00::300/121 -j DROP
@@ -2256,6 +2340,7 @@ ip6tables -A INPUT -s 2603:1030:807:9::200/123 -j DROP
 ip6tables -A INPUT -s 2603:1030:807:9::240/122 -j DROP
 ip6tables -A INPUT -s 2603:1030:807:16::/120 -j DROP
 ip6tables -A INPUT -s 2603:1030:807:16::200/122 -j DROP
+ip6tables -A INPUT -s 2603:1030:807:1b::220/123 -j DROP
 ip6tables -A INPUT -s 2603:1030:807:402::500/121 -j DROP
 ip6tables -A INPUT -s 2603:1030:807:802::480/121 -j DROP
 ip6tables -A INPUT -s 2603:1030:807:c02::480/121 -j DROP
@@ -2274,6 +2359,7 @@ ip6tables -A INPUT -s 2603:1030:a07:e::100/122 -j DROP
 ip6tables -A INPUT -s 2603:1030:a07:21::300/120 -j DROP
 ip6tables -A INPUT -s 2603:1030:a07:22::220/123 -j DROP
 ip6tables -A INPUT -s 2603:1030:a07:22::240/122 -j DROP
+ip6tables -A INPUT -s 2603:1030:a07:28::e0/123 -j DROP
 ip6tables -A INPUT -s 2603:1030:a07:402::380/121 -j DROP
 ip6tables -A INPUT -s 2603:1030:a07:800::/121 -j DROP
 ip6tables -A INPUT -s 2603:1030:a07:c00::300/121 -j DROP
@@ -2298,6 +2384,7 @@ ip6tables -A INPUT -s 2603:1030:b04:6::780/123 -j DROP
 ip6tables -A INPUT -s 2603:1030:b04:6::7c0/122 -j DROP
 ip6tables -A INPUT -s 2603:1030:b04:f::100/120 -j DROP
 ip6tables -A INPUT -s 2603:1030:b04:f::2c0/122 -j DROP
+ip6tables -A INPUT -s 2603:1030:b04:11::140/122 -j DROP
 ip6tables -A INPUT -s 2603:1030:b04:402::500/121 -j DROP
 ip6tables -A INPUT -s 2603:1030:c02:2::285/128 -j DROP
 ip6tables -A INPUT -s 2603:1030:c02:2::2da/128 -j DROP
@@ -2317,6 +2404,7 @@ ip6tables -A INPUT -s 2603:1030:c06:c::320/123 -j DROP
 ip6tables -A INPUT -s 2603:1030:c06:d::/122 -j DROP
 ip6tables -A INPUT -s 2603:1030:c06:21::/120 -j DROP
 ip6tables -A INPUT -s 2603:1030:c06:21::300/122 -j DROP
+ip6tables -A INPUT -s 2603:1030:c06:26::160/123 -j DROP
 ip6tables -A INPUT -s 2603:1030:c06:400::d00/121 -j DROP
 ip6tables -A INPUT -s 2603:1030:c06:802::400/121 -j DROP
 ip6tables -A INPUT -s 2603:1030:c06:c02::480/121 -j DROP
@@ -2336,6 +2424,7 @@ ip6tables -A INPUT -s 2603:1030:f05:4::5a0/123 -j DROP
 ip6tables -A INPUT -s 2603:1030:f05:4::5c0/122 -j DROP
 ip6tables -A INPUT -s 2603:1030:f05:d::100/120 -j DROP
 ip6tables -A INPUT -s 2603:1030:f05:d::3e0/123 -j DROP
+ip6tables -A INPUT -s 2603:1030:f05:11::160/123 -j DROP
 ip6tables -A INPUT -s 2603:1030:f05:402::500/121 -j DROP
 ip6tables -A INPUT -s 2603:1030:f05:802::480/121 -j DROP
 ip6tables -A INPUT -s 2603:1030:f05:c02::480/121 -j DROP
@@ -2348,6 +2437,7 @@ ip6tables -A INPUT -s 2603:1030:1005:3::6c0/122 -j DROP
 ip6tables -A INPUT -s 2603:1030:1005:3::780/121 -j DROP
 ip6tables -A INPUT -s 2603:1030:1005:b::700/120 -j DROP
 ip6tables -A INPUT -s 2603:1030:1005:c::180/123 -j DROP
+ip6tables -A INPUT -s 2603:1030:1005:d::7a0/123 -j DROP
 ip6tables -A INPUT -s 2603:1030:1005:402::500/121 -j DROP
 ip6tables -A INPUT -s 2603:1030:1102:2::3e0/123 -j DROP
 ip6tables -A INPUT -s 2603:1030:1102:2::4c0/122 -j DROP
@@ -2386,6 +2476,7 @@ ip6tables -A INPUT -s 2603:1040:5:8::5c0/123 -j DROP
 ip6tables -A INPUT -s 2603:1040:5:9::200/122 -j DROP
 ip6tables -A INPUT -s 2603:1040:5:16::100/120 -j DROP
 ip6tables -A INPUT -s 2603:1040:5:16::2e0/123 -j DROP
+ip6tables -A INPUT -s 2603:1040:5:1a::420/123 -j DROP
 ip6tables -A INPUT -s 2603:1040:5:402::500/121 -j DROP
 ip6tables -A INPUT -s 2603:1040:5:802::480/121 -j DROP
 ip6tables -A INPUT -s 2603:1040:5:c02::480/121 -j DROP
@@ -2396,6 +2487,7 @@ ip6tables -A INPUT -s 2603:1040:207:6::380/123 -j DROP
 ip6tables -A INPUT -s 2603:1040:207:6::3c0/122 -j DROP
 ip6tables -A INPUT -s 2603:1040:207:11::/120 -j DROP
 ip6tables -A INPUT -s 2603:1040:207:11::300/123 -j DROP
+ip6tables -A INPUT -s 2603:1040:207:13::580/123 -j DROP
 ip6tables -A INPUT -s 2603:1040:207:402::500/121 -j DROP
 ip6tables -A INPUT -s 2603:1040:207:800::300/121 -j DROP
 ip6tables -A INPUT -s 2603:1040:207:c00::300/121 -j DROP
@@ -2409,6 +2501,8 @@ ip6tables -A INPUT -s 2603:1040:407:7::420/123 -j DROP
 ip6tables -A INPUT -s 2603:1040:407:7::440/122 -j DROP
 ip6tables -A INPUT -s 2603:1040:407:e::300/120 -j DROP
 ip6tables -A INPUT -s 2603:1040:407:e::4e0/123 -j DROP
+ip6tables -A INPUT -s 2603:1040:407:10::700/120 -j DROP
+ip6tables -A INPUT -s 2603:1040:407:11::1c0/123 -j DROP
 ip6tables -A INPUT -s 2603:1040:407:402::500/121 -j DROP
 ip6tables -A INPUT -s 2603:1040:407:802::480/121 -j DROP
 ip6tables -A INPUT -s 2603:1040:407:c00::100/121 -j DROP
@@ -2421,6 +2515,7 @@ ip6tables -A INPUT -s 2603:1040:606:3::780/121 -j DROP
 ip6tables -A INPUT -s 2603:1040:606:6::400/122 -j DROP
 ip6tables -A INPUT -s 2603:1040:606:b::400/120 -j DROP
 ip6tables -A INPUT -s 2603:1040:606:b::5e0/123 -j DROP
+ip6tables -A INPUT -s 2603:1040:606:e::/123 -j DROP
 ip6tables -A INPUT -s 2603:1040:606:402::500/121 -j DROP
 ip6tables -A INPUT -s 2603:1040:606:800::300/121 -j DROP
 ip6tables -A INPUT -s 2603:1040:606:c00::/121 -j DROP
@@ -2442,6 +2537,7 @@ ip6tables -A INPUT -s 2603:1040:904:3::680/123 -j DROP
 ip6tables -A INPUT -s 2603:1040:904:3::6c0/122 -j DROP
 ip6tables -A INPUT -s 2603:1040:904:8::500/120 -j DROP
 ip6tables -A INPUT -s 2603:1040:904:8::660/123 -j DROP
+ip6tables -A INPUT -s 2603:1040:904:b::480/123 -j DROP
 ip6tables -A INPUT -s 2603:1040:904:402::500/121 -j DROP
 ip6tables -A INPUT -s 2603:1040:904:800::100/121 -j DROP
 ip6tables -A INPUT -s 2603:1040:904:c02::480/121 -j DROP
@@ -2455,6 +2551,7 @@ ip6tables -A INPUT -s 2603:1040:a06:7::e0/123 -j DROP
 ip6tables -A INPUT -s 2603:1040:a06:7::100/122 -j DROP
 ip6tables -A INPUT -s 2603:1040:a06:c::500/120 -j DROP
 ip6tables -A INPUT -s 2603:1040:a06:d::20/123 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:f::120/123 -j DROP
 ip6tables -A INPUT -s 2603:1040:a06:402::500/121 -j DROP
 ip6tables -A INPUT -s 2603:1040:a06:802::480/121 -j DROP
 ip6tables -A INPUT -s 2603:1040:a06:c02::480/121 -j DROP
@@ -2466,6 +2563,7 @@ ip6tables -A INPUT -s 2603:1040:b04:5::300/123 -j DROP
 ip6tables -A INPUT -s 2603:1040:b04:5::340/122 -j DROP
 ip6tables -A INPUT -s 2603:1040:b04:5::480/121 -j DROP
 ip6tables -A INPUT -s 2603:1040:b04:8::4a0/123 -j DROP
+ip6tables -A INPUT -s 2603:1040:b04:9::500/123 -j DROP
 ip6tables -A INPUT -s 2603:1040:b04:402::500/121 -j DROP
 ip6tables -A INPUT -s 2603:1040:c06::780/121 -j DROP
 ip6tables -A INPUT -s 2603:1040:c06:1::280/123 -j DROP
@@ -2475,6 +2573,7 @@ ip6tables -A INPUT -s 2603:1040:c06:6::600/123 -j DROP
 ip6tables -A INPUT -s 2603:1040:c06:6::640/122 -j DROP
 ip6tables -A INPUT -s 2603:1040:c06:b::100/120 -j DROP
 ip6tables -A INPUT -s 2603:1040:c06:b::2a0/123 -j DROP
+ip6tables -A INPUT -s 2603:1040:c06:d::260/123 -j DROP
 ip6tables -A INPUT -s 2603:1040:c06:402::500/121 -j DROP
 ip6tables -A INPUT -s 2603:1040:d01:4::7/128 -j DROP
 ip6tables -A INPUT -s 2603:1040:d04::280/122 -j DROP
@@ -2501,6 +2600,7 @@ ip6tables -A INPUT -s 2603:1040:e05:6::3c0/123 -j DROP
 ip6tables -A INPUT -s 2603:1040:e05:6::680/122 -j DROP
 ip6tables -A INPUT -s 2603:1040:e05:9::500/120 -j DROP
 ip6tables -A INPUT -s 2603:1040:e05:9::6e0/123 -j DROP
+ip6tables -A INPUT -s 2603:1040:e05:b::580/123 -j DROP
 ip6tables -A INPUT -s 2603:1040:e05:402::80/121 -j DROP
 ip6tables -A INPUT -s 2603:1040:f05::60/123 -j DROP
 ip6tables -A INPUT -s 2603:1040:f05::1c0/122 -j DROP
@@ -2512,6 +2612,7 @@ ip6tables -A INPUT -s 2603:1040:f05:3::760/123 -j DROP
 ip6tables -A INPUT -s 2603:1040:f05:3::780/122 -j DROP
 ip6tables -A INPUT -s 2603:1040:f05:c::100/120 -j DROP
 ip6tables -A INPUT -s 2603:1040:f05:c::280/123 -j DROP
+ip6tables -A INPUT -s 2603:1040:f05:d::6e0/123 -j DROP
 ip6tables -A INPUT -s 2603:1040:f05:402::500/121 -j DROP
 ip6tables -A INPUT -s 2603:1040:f05:802::480/121 -j DROP
 ip6tables -A INPUT -s 2603:1040:f05:c02::480/121 -j DROP
@@ -2526,6 +2627,7 @@ ip6tables -A INPUT -s 2603:1040:1002:5::360/123 -j DROP
 ip6tables -A INPUT -s 2603:1040:1002:5::5c0/122 -j DROP
 ip6tables -A INPUT -s 2603:1040:1002:8::300/120 -j DROP
 ip6tables -A INPUT -s 2603:1040:1002:8::460/123 -j DROP
+ip6tables -A INPUT -s 2603:1040:1002:9::7a0/123 -j DROP
 ip6tables -A INPUT -s 2603:1040:1101:2::3/128 -j DROP
 ip6tables -A INPUT -s 2603:1040:1104:1::160/123 -j DROP
 ip6tables -A INPUT -s 2603:1040:1104:1::180/122 -j DROP
@@ -2534,6 +2636,7 @@ ip6tables -A INPUT -s 2603:1040:1104:1::580/121 -j DROP
 ip6tables -A INPUT -s 2603:1040:1104:5::200/123 -j DROP
 ip6tables -A INPUT -s 2603:1040:1104:5::240/122 -j DROP
 ip6tables -A INPUT -s 2603:1040:1104:6::640/123 -j DROP
+ip6tables -A INPUT -s 2603:1040:1104:7::3c0/123 -j DROP
 ip6tables -A INPUT -s 2603:1040:1104:400::460/123 -j DROP
 ip6tables -A INPUT -s 2603:1040:1201:2::14/128 -j DROP
 ip6tables -A INPUT -s 2603:1040:1202:1::6c0/122 -j DROP
@@ -2561,6 +2664,9 @@ ip6tables -A INPUT -s 2603:1040:1402:2::5e0/123 -j DROP
 ip6tables -A INPUT -s 2603:1040:1402:2::600/122 -j DROP
 ip6tables -A INPUT -s 2603:1040:1402:3::180/121 -j DROP
 ip6tables -A INPUT -s 2603:1040:1402:8::200/120 -j DROP
+ip6tables -A INPUT -s 2603:1040:1402:a::100/120 -j DROP
+ip6tables -A INPUT -s 2603:1040:1402:a::220/124 -j DROP
+ip6tables -A INPUT -s 2603:1040:1402:a::240/123 -j DROP
 ip6tables -A INPUT -s 2603:1040:1503:2::a0/123 -j DROP
 ip6tables -A INPUT -s 2603:1040:1503:2::c0/122 -j DROP
 ip6tables -A INPUT -s 2603:1040:1503:2::200/122 -j DROP
@@ -2568,6 +2674,7 @@ ip6tables -A INPUT -s 2603:1040:1503:2::280/121 -j DROP
 ip6tables -A INPUT -s 2603:1040:1503:2::500/123 -j DROP
 ip6tables -A INPUT -s 2603:1040:1503:2::540/122 -j DROP
 ip6tables -A INPUT -s 2603:1040:1503:2::700/121 -j DROP
+ip6tables -A INPUT -s 2603:1040:1503:7::420/123 -j DROP
 ip6tables -A INPUT -s 2603:1040:1601:8::19/128 -j DROP
 ip6tables -A INPUT -s 2603:1040:1601:8::1a/128 -j DROP
 ip6tables -A INPUT -s 2603:1040:1602:2::440/122 -j DROP
@@ -2588,11 +2695,13 @@ ip6tables -A INPUT -s 2603:1040:1802:2::380/121 -j DROP
 ip6tables -A INPUT -s 2603:1040:1802:2::400/121 -j DROP
 ip6tables -A INPUT -s 2603:1040:1802:5::/123 -j DROP
 ip6tables -A INPUT -s 2603:1040:1802:6::200/123 -j DROP
+ip6tables -A INPUT -s 2603:1040:1802:6::300/123 -j DROP
 ip6tables -A INPUT -s 2603:1040:1904:2::760/123 -j DROP
 ip6tables -A INPUT -s 2603:1040:1904:3::40/122 -j DROP
 ip6tables -A INPUT -s 2603:1040:1904:3::100/123 -j DROP
 ip6tables -A INPUT -s 2603:1040:1904:3::180/121 -j DROP
 ip6tables -A INPUT -s 2603:1040:1904:3::200/121 -j DROP
+ip6tables -A INPUT -s 2603:1040:1904:5::100/123 -j DROP
 ip6tables -A INPUT -s 2603:1040:1a02:3::120/123 -j DROP
 ip6tables -A INPUT -s 2603:1040:1a02:3::280/122 -j DROP
 ip6tables -A INPUT -s 2603:1040:1a02:3::2c0/123 -j DROP
@@ -2611,6 +2720,7 @@ ip6tables -A INPUT -s 2603:1050:6:7::/122 -j DROP
 ip6tables -A INPUT -s 2603:1050:6:7::40/123 -j DROP
 ip6tables -A INPUT -s 2603:1050:6:b::400/120 -j DROP
 ip6tables -A INPUT -s 2603:1050:6:b::720/123 -j DROP
+ip6tables -A INPUT -s 2603:1050:6:e::3c0/123 -j DROP
 ip6tables -A INPUT -s 2603:1050:6:402::580/121 -j DROP
 ip6tables -A INPUT -s 2603:1050:6:402::600/121 -j DROP
 ip6tables -A INPUT -s 2603:1050:6:802::480/121 -j DROP
@@ -2623,6 +2733,7 @@ ip6tables -A INPUT -s 2603:1050:301:2::4c0/122 -j DROP
 ip6tables -A INPUT -s 2603:1050:301:2::580/123 -j DROP
 ip6tables -A INPUT -s 2603:1050:301:2::600/120 -j DROP
 ip6tables -A INPUT -s 2603:1050:301:4::5e0/123 -j DROP
+ip6tables -A INPUT -s 2603:1050:301:5::6c0/123 -j DROP
 ip6tables -A INPUT -s 2603:1050:400:2::1a/128 -j DROP
 ip6tables -A INPUT -s 2603:1050:403::280/122 -j DROP
 ip6tables -A INPUT -s 2603:1050:403:1::80/121 -j DROP
@@ -2631,6 +2742,8 @@ ip6tables -A INPUT -s 2603:1050:403:1::300/121 -j DROP
 ip6tables -A INPUT -s 2603:1050:403:2::7e0/123 -j DROP
 ip6tables -A INPUT -s 2603:1050:403:5::/122 -j DROP
 ip6tables -A INPUT -s 2603:1050:403:7::660/123 -j DROP
+ip6tables -A INPUT -s 2603:1050:403:8::6f0/125 -j DROP
+ip6tables -A INPUT -s 2603:1050:403:8::700/120 -j DROP
 ip6tables -A INPUT -s 2603:1050:403:400::580/121 -j DROP
 ip6tables -A INPUT -s 2a01:111:f100:1000::9d37:d5f5/128 -j DROP
 ip6tables -A INPUT -s 2a01:111:f100:1002::4134:d975/128 -j DROP

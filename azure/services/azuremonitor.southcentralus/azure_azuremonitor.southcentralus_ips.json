@@ -336,6 +336,18 @@
     "region": "southcentralus"
   },
   {
+    "ip_address": "74.145.141.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "74.145.146.96/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
     "ip_address": "104.44.140.84/32",
     "ip_type": "IPv4",
     "service": "AzureMonitor.SouthCentralUS",
@@ -529,6 +541,12 @@
   },
   {
     "ip_address": "2603:1030:807:16::200/122",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "2603:1030:807:1b::220/123",
     "ip_type": "IPv6",
     "service": "AzureMonitor.SouthCentralUS",
     "region": "southcentralus"

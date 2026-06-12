@@ -1,5 +1,23 @@
 [
   {
+    "ip_address": "4.191.114.8/29",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "4.191.114.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "4.191.115.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.EastAsia",
+    "region": "eastasia"
+  },
+  {
     "ip_address": "13.75.39.160/27",
     "ip_type": "IPv4",
     "service": "AzureIoTHub.EastAsia",
@@ -50,6 +68,24 @@
   {
     "ip_address": "207.46.138.102/32",
     "ip_type": "IPv4",
+    "service": "AzureIoTHub.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "2603:1040:207:13::1d0/125",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "2603:1040:207:13::440/122",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "2603:1040:207:13::500/121",
+    "ip_type": "IPv6",
     "service": "AzureIoTHub.EastAsia",
     "region": "eastasia"
   },

@@ -7,6 +7,8 @@ CREATE TABLE IF NOT EXISTS `azure_azuremonitor.uaenorth_ips` (
 );
 
 INSERT INTO `azure_azuremonitor.uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('4.161.10.112/28', 'IPv4');
+INSERT INTO `azure_azuremonitor.uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('4.161.148.80/28', 'IPv4');
+INSERT INTO `azure_azuremonitor.uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('4.161.149.0/24', 'IPv4');
 INSERT INTO `azure_azuremonitor.uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('20.38.143.0/27', 'IPv4');
 INSERT INTO `azure_azuremonitor.uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('20.38.143.44/30', 'IPv4');
 INSERT INTO `azure_azuremonitor.uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('20.38.152.32/27', 'IPv4');
@@ -40,6 +42,7 @@ INSERT INTO `azure_azuremonitor.uaenorth_ips` (`ip_address`, `ip_type`) VALUES (
 INSERT INTO `azure_azuremonitor.uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:904:3::6c0/122', 'IPv6');
 INSERT INTO `azure_azuremonitor.uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:904:8::500/120', 'IPv6');
 INSERT INTO `azure_azuremonitor.uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:904:8::660/123', 'IPv6');
+INSERT INTO `azure_azuremonitor.uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:904:b::480/123', 'IPv6');
 INSERT INTO `azure_azuremonitor.uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:904:402::500/121', 'IPv6');
 INSERT INTO `azure_azuremonitor.uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:904:800::100/121', 'IPv6');
 INSERT INTO `azure_azuremonitor.uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:904:c02::480/121', 'IPv6');

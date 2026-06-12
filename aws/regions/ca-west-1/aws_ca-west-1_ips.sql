@@ -84,6 +84,7 @@ INSERT INTO `aws_ca-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f1a:404
 INSERT INTO `aws_ca-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f1a:4ff6:d500::/56', 'IPv6');
 INSERT INTO `aws_ca-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f2a:4000::/36', 'IPv6');
 INSERT INTO `aws_ca-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f2a:4000::/36', 'IPv6');
+INSERT INTO `aws_ca-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f2a:401c::/48', 'IPv6');
 INSERT INTO `aws_ca-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f30:a400::/40', 'IPv6');
 INSERT INTO `aws_ca-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f30:a400::/40', 'IPv6');
 INSERT INTO `aws_ca-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f32:a400::/40', 'IPv6');

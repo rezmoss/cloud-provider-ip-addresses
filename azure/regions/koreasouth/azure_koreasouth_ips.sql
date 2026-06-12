@@ -8,6 +8,10 @@ CREATE TABLE IF NOT EXISTS `azure_koreasouth_ips` (
 
 INSERT INTO `azure_koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('4.243.0.0/16', 'IPv4');
 INSERT INTO `azure_koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('4.243.0.0/23', 'IPv4');
+INSERT INTO `azure_koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('4.243.5.148/30', 'IPv4');
+INSERT INTO `azure_koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('4.243.7.64/26', 'IPv4');
+INSERT INTO `azure_koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('4.243.7.128/27', 'IPv4');
+INSERT INTO `azure_koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('4.243.7.160/28', 'IPv4');
 INSERT INTO `azure_koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('4.243.24.48/29', 'IPv4');
 INSERT INTO `azure_koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('4.243.24.56/31', 'IPv4');
 INSERT INTO `azure_koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('4.243.28.48/28', 'IPv4');
@@ -360,6 +364,10 @@ INSERT INTO `azure_koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:
 INSERT INTO `azure_koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:e05:9::500/120', 'IPv6');
 INSERT INTO `azure_koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:e05:9::6e0/123', 'IPv6');
 INSERT INTO `azure_koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:e05:9::733/128', 'IPv6');
+INSERT INTO `azure_koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:e05:b::33c/126', 'IPv6');
+INSERT INTO `azure_koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:e05:b::520/123', 'IPv6');
+INSERT INTO `azure_koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:e05:b::540/122', 'IPv6');
+INSERT INTO `azure_koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:e05:b::580/123', 'IPv6');
 INSERT INTO `azure_koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:e05:402::80/121', 'IPv6');
 INSERT INTO `azure_koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:e05:402::100/122', 'IPv6');
 INSERT INTO `azure_koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:e05:402::140/125', 'IPv6');

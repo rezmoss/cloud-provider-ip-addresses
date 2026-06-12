@@ -84,6 +84,7 @@ INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('240
 INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('2406:da21:c::/48', 'IPv6');
 INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('2406:da22:4::/48', 'IPv6');
 INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('2406:da24:28::/48', 'IPv6');
+INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('2406:da26:1c::/48', 'IPv6');
 INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('2406:da27:4::/48', 'IPv6');
 INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('2406:da28:28::/48', 'IPv6');
 INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('2406:da2a:14::/48', 'IPv6');
@@ -100,6 +101,7 @@ INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('260
 INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f25:14::/48', 'IPv6');
 INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f26:28::/48', 'IPv6');
 INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f28:34c::/48', 'IPv6');
+INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f2a:401c::/48', 'IPv6');
 INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f2e:14::/48', 'IPv6');
 INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f32:1000::/40', 'IPv6');
 INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f32:2000::/40', 'IPv6');
@@ -112,6 +114,7 @@ INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('2a0
 INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d024:18::/48', 'IPv6');
 INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d025:1000::/48', 'IPv6');
 INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d028:40::/48', 'IPv6');
+INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d029:4::/48', 'IPv6');
 INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d02a:4::/48', 'IPv6');
 INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d02c:8::/48', 'IPv6');
 INSERT INTO `aws_workspaces_gateways_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d032:2000::/40', 'IPv6');

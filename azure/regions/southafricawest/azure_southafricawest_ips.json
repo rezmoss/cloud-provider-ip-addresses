@@ -522,6 +522,30 @@
     "region": "southafricawest"
   },
   {
+    "ip_address": "74.160.2.28/30",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.SouthAfricaWest",
+    "region": "southafricawest"
+  },
+  {
+    "ip_address": "74.160.2.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.SouthAfricaWest",
+    "region": "southafricawest"
+  },
+  {
+    "ip_address": "74.160.6.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.SouthAfricaWest",
+    "region": "southafricawest"
+  },
+  {
+    "ip_address": "74.160.6.64/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SouthAfricaWest",
+    "region": "southafricawest"
+  },
+  {
     "ip_address": "102.37.26.0/27",
     "ip_type": "IPv4",
     "service": "AzureCloud.southafricawest",
@@ -1809,6 +1833,30 @@
     "ip_address": "2603:1000:4:7::580/121",
     "ip_type": "IPv6",
     "service": "AzureBackup.SouthAfricaWest",
+    "region": "southafricawest"
+  },
+  {
+    "ip_address": "2603:1000:4:8::2b8/126",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.SouthAfricaWest",
+    "region": "southafricawest"
+  },
+  {
+    "ip_address": "2603:1000:4:8::2c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.SouthAfricaWest",
+    "region": "southafricawest"
+  },
+  {
+    "ip_address": "2603:1000:4:8::400/123",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.SouthAfricaWest",
+    "region": "southafricawest"
+  },
+  {
+    "ip_address": "2603:1000:4:8::420/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SouthAfricaWest",
     "region": "southafricawest"
   },
   {

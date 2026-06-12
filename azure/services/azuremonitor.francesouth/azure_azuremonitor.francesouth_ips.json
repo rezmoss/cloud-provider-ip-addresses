@@ -72,6 +72,12 @@
     "region": "southfrance"
   },
   {
+    "ip_address": "98.66.23.176/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.FranceSouth",
+    "region": "southfrance"
+  },
+  {
     "ip_address": "2603:1020:905::780/121",
     "ip_type": "IPv6",
     "service": "AzureMonitor.FranceSouth",
@@ -109,6 +115,12 @@
   },
   {
     "ip_address": "2603:1020:905:9::700/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "2603:1020:905:a::700/123",
     "ip_type": "IPv6",
     "service": "AzureMonitor.FranceSouth",
     "region": "southfrance"

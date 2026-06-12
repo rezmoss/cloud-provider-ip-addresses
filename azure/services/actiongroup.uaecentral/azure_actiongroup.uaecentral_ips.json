@@ -12,6 +12,12 @@
     "region": "uaecentral"
   },
   {
+    "ip_address": "74.243.155.0/29",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.UAECentral",
+    "region": "uaecentral"
+  },
+  {
     "ip_address": "2603:1040:b04::10c/126",
     "ip_type": "IPv6",
     "service": "ActionGroup.UAECentral",

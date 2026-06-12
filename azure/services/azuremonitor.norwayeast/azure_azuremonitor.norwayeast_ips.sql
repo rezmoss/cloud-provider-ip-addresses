@@ -7,6 +7,8 @@ CREATE TABLE IF NOT EXISTS `azure_azuremonitor.norwayeast_ips` (
 );
 
 INSERT INTO `azure_azuremonitor.norwayeast_ips` (`ip_address`, `ip_type`) VALUES ('4.177.29.144/28', 'IPv4');
+INSERT INTO `azure_azuremonitor.norwayeast_ips` (`ip_address`, `ip_type`) VALUES ('4.177.32.8/29', 'IPv4');
+INSERT INTO `azure_azuremonitor.norwayeast_ips` (`ip_address`, `ip_type`) VALUES ('4.177.34.0/24', 'IPv4');
 INSERT INTO `azure_azuremonitor.norwayeast_ips` (`ip_address`, `ip_type`) VALUES ('20.100.7.0/27', 'IPv4');
 INSERT INTO `azure_azuremonitor.norwayeast_ips` (`ip_address`, `ip_type`) VALUES ('20.100.7.48/28', 'IPv4');
 INSERT INTO `azure_azuremonitor.norwayeast_ips` (`ip_address`, `ip_type`) VALUES ('51.13.1.8/29', 'IPv4');
@@ -39,6 +41,7 @@ INSERT INTO `azure_azuremonitor.norwayeast_ips` (`ip_address`, `ip_type`) VALUES
 INSERT INTO `azure_azuremonitor.norwayeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:e04:4::700/122', 'IPv6');
 INSERT INTO `azure_azuremonitor.norwayeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:e04:c::/120', 'IPv6');
 INSERT INTO `azure_azuremonitor.norwayeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:e04:c::180/123', 'IPv6');
+INSERT INTO `azure_azuremonitor.norwayeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:e04:d::2c0/123', 'IPv6');
 INSERT INTO `azure_azuremonitor.norwayeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:e04:402::500/121', 'IPv6');
 INSERT INTO `azure_azuremonitor.norwayeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:e04:802::480/121', 'IPv6');
 INSERT INTO `azure_azuremonitor.norwayeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:e04:c00::80/121', 'IPv6');

@@ -1902,6 +1902,24 @@
     "region": "westcentralus"
   },
   {
+    "ip_address": "48.194.207.152/29",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "48.194.207.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "48.194.208.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
     "ip_address": "48.208.45.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.westcentralus",
@@ -3825,6 +3843,30 @@
     "ip_address": "2603:1030:b04:f::700/121",
     "ip_type": "IPv6",
     "service": "AzureBackup.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:10::5d0/125",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:10::780/121",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:11::100/122",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:11::140/122",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.WestCentralUS",
     "region": "westcentralus"
   },
   {

@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "4.181.5.144/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
     "ip_address": "4.181.24.32/27",
     "ip_type": "IPv4",
     "service": "AzureMonitor.KoreaCentral",
@@ -253,6 +259,12 @@
   },
   {
     "ip_address": "2603:1040:f05:c::280/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "2603:1040:f05:d::6e0/123",
     "ip_type": "IPv6",
     "service": "AzureMonitor.KoreaCentral",
     "region": "koreacentral"

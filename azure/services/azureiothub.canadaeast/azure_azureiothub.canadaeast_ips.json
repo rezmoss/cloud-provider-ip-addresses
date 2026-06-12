@@ -24,6 +24,42 @@
     "region": "canadaeast"
   },
   {
+    "ip_address": "145.191.139.172/30",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "145.191.139.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "145.191.144.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:d::730/126",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:d::740/122",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:d::780/123",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
     "ip_address": "2603:1030:1005:402::300/123",
     "ip_type": "IPv6",
     "service": "AzureIoTHub.CanadaEast",

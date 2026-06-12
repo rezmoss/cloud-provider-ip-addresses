@@ -12,4 +12,10 @@ INSERT INTO `azure_azureiothub.centraluseuap_ips` (`ip_address`, `ip_type`) VALU
 INSERT INTO `azure_azureiothub.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('52.180.165.88/32', 'IPv4');
 INSERT INTO `azure_azureiothub.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('52.180.165.248/32', 'IPv4');
 INSERT INTO `azure_azureiothub.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('52.180.177.125/32', 'IPv4');
+INSERT INTO `azure_azureiothub.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('57.173.16.0/26', 'IPv4');
+INSERT INTO `azure_azureiothub.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('57.173.16.64/27', 'IPv4');
+INSERT INTO `azure_azureiothub.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('57.173.16.96/30', 'IPv4');
+INSERT INTO `azure_azureiothub.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f:10::598/126', 'IPv6');
+INSERT INTO `azure_azureiothub.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f:10::5a0/123', 'IPv6');
+INSERT INTO `azure_azureiothub.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f:11::100/122', 'IPv6');
 INSERT INTO `azure_azureiothub.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f:400::b00/123', 'IPv6');

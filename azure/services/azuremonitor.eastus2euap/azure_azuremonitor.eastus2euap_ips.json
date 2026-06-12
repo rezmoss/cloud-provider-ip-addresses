@@ -108,6 +108,12 @@
     "region": "eastus2euap"
   },
   {
+    "ip_address": "48.223.101.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
     "ip_address": "52.138.90.48/30",
     "ip_type": "IPv4",
     "service": "AzureMonitor.EastUS2EUAP",

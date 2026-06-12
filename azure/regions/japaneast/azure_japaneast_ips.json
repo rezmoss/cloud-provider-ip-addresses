@@ -120,6 +120,30 @@
     "region": "japaneast"
   },
   {
+    "ip_address": "4.214.191.224/29",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.JapanEast",
+    "region": "japaneast"
+  },
+  {
+    "ip_address": "4.214.241.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.JapanEast",
+    "region": "japaneast"
+  },
+  {
+    "ip_address": "4.214.241.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.JapanEast",
+    "region": "japaneast"
+  },
+  {
+    "ip_address": "4.214.241.192/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.JapanEast",
+    "region": "japaneast"
+  },
+  {
     "ip_address": "4.216.0.0/16",
     "ip_type": "IPv4",
     "service": "AzureCloud.japaneast",
@@ -4053,6 +4077,36 @@
     "ip_address": "2603:1040:407:f::/121",
     "ip_type": "IPv6",
     "service": "AzureBackup.JapanEast",
+    "region": "japaneast"
+  },
+  {
+    "ip_address": "2603:1040:407:f::7d0/125",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.JapanEast",
+    "region": "japaneast"
+  },
+  {
+    "ip_address": "2603:1040:407:10::700/120",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.JapanEast",
+    "region": "japaneast"
+  },
+  {
+    "ip_address": "2603:1040:407:11::100/121",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.JapanEast",
+    "region": "japaneast"
+  },
+  {
+    "ip_address": "2603:1040:407:11::180/122",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.JapanEast",
+    "region": "japaneast"
+  },
+  {
+    "ip_address": "2603:1040:407:11::1c0/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.JapanEast",
     "region": "japaneast"
   },
   {

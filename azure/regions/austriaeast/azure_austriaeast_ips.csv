@@ -159,6 +159,8 @@ ip_address,ip_type,service,region
 68.210.248.0/25,IPv4,PowerPlatformInfra.AustriaEast,austriaeast
 68.210.252.0/22,IPv4,AzureEventGrid.AustriaEast,austriaeast
 70.152.248.0/24,IPv4,AzureCloud.austriaeast,austriaeast
+74.148.0.0/17,IPv4,AzureCloud.austriaeast,austriaeast
+74.148.7.0/24,IPv4,AzureMonitor.AustriaEast,austriaeast
 135.130.188.0/23,IPv4,AzureCloud.austriaeast,austriaeast
 135.130.188.0/23,IPv4,Storage.AustriaEast,austriaeast
 145.190.128.0/24,IPv4,AzureCloud.austriaeast,austriaeast

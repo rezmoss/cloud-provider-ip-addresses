@@ -120,6 +120,12 @@
     "region": "italynorth"
   },
   {
+    "ip_address": "9.235.213.96/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.ItalyNorth",
+    "region": "italynorth"
+  },
+  {
     "ip_address": "2603:1020:1200:4::10/128",
     "ip_type": "IPv6",
     "service": "AzureMonitor.ItalyNorth",
@@ -175,6 +181,12 @@
   },
   {
     "ip_address": "2603:1020:1204:7::620/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.ItalyNorth",
+    "region": "italynorth"
+  },
+  {
+    "ip_address": "2603:1020:1204:9::470/125",
     "ip_type": "IPv6",
     "service": "AzureMonitor.ItalyNorth",
     "region": "italynorth"

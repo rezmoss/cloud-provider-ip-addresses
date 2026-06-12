@@ -12,4 +12,10 @@ INSERT INTO `azure_azureiothub.ukwest_ips` (`ip_address`, `ip_type`) VALUES ('51
 INSERT INTO `azure_azureiothub.ukwest_ips` (`ip_address`, `ip_type`) VALUES ('51.140.226.207/32', 'IPv4');
 INSERT INTO `azure_azureiothub.ukwest_ips` (`ip_address`, `ip_type`) VALUES ('51.140.240.234/32', 'IPv4');
 INSERT INTO `azure_azureiothub.ukwest_ips` (`ip_address`, `ip_type`) VALUES ('51.141.49.253/32', 'IPv4');
+INSERT INTO `azure_azureiothub.ukwest_ips` (`ip_address`, `ip_type`) VALUES ('172.186.128.4/30', 'IPv4');
+INSERT INTO `azure_azureiothub.ukwest_ips` (`ip_address`, `ip_type`) VALUES ('172.186.128.32/27', 'IPv4');
+INSERT INTO `azure_azureiothub.ukwest_ips` (`ip_address`, `ip_type`) VALUES ('172.186.128.64/26', 'IPv4');
+INSERT INTO `azure_azureiothub.ukwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:605:d::424/126', 'IPv6');
+INSERT INTO `azure_azureiothub.ukwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:605:d::4c0/122', 'IPv6');
+INSERT INTO `azure_azureiothub.ukwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:605:d::500/123', 'IPv6');
 INSERT INTO `azure_azureiothub.ukwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:605:402::300/123', 'IPv6');

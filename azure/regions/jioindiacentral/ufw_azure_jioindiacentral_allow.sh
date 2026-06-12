@@ -1,6 +1,6 @@
 #!/bin/bash
 # Azure IP Ranges
-# Updated: 2026-06-09 22:59:06
+# Updated: 2026-06-12 03:21:18
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -216,6 +216,7 @@ ufw allow from 2603:1040:1104:5::1c0/122
 ufw allow from 2603:1040:1104:5::200/123
 ufw allow from 2603:1040:1104:5::240/122
 ufw allow from 2603:1040:1104:6::640/123
+ufw allow from 2603:1040:1104:7::3c0/123
 ufw allow from 2603:1040:1104:400::80/125
 ufw allow from 2603:1040:1104:400::88/125
 ufw allow from 2603:1040:1104:400::90/125

@@ -2856,6 +2856,18 @@
     "region": "westus"
   },
   {
+    "ip_address": "20.59.172.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.WestUS",
+    "region": "westus"
+  },
+  {
+    "ip_address": "20.59.175.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.WestUS",
+    "region": "westus"
+  },
+  {
     "ip_address": "20.60.1.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.westus",
@@ -5445,6 +5457,12 @@
     "ip_address": "48.195.74.128/25",
     "ip_type": "IPv4",
     "service": "PowerBI.WestUS",
+    "region": "westus"
+  },
+  {
+    "ip_address": "48.195.98.0/28",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.WestUS",
     "region": "westus"
   },
   {
@@ -8949,6 +8967,30 @@
     "ip_address": "2603:1030:a07:22::774/127",
     "ip_type": "IPv6",
     "service": "AzureMachineLearning.WestUS",
+    "region": "westus"
+  },
+  {
+    "ip_address": "2603:1030:a07:28::d0/124",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.WestUS",
+    "region": "westus"
+  },
+  {
+    "ip_address": "2603:1030:a07:28::e0/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.WestUS",
+    "region": "westus"
+  },
+  {
+    "ip_address": "2603:1030:a07:28::100/120",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.WestUS",
+    "region": "westus"
+  },
+  {
+    "ip_address": "2603:1030:a07:28::200/121",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.WestUS",
     "region": "westus"
   },
   {

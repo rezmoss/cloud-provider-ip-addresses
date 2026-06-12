@@ -18,6 +18,12 @@
     "region": "germanywc"
   },
   {
+    "ip_address": "48.203.152.24/29",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
     "ip_address": "98.67.183.188/30",
     "ip_type": "IPv4",
     "service": "ActionGroup.GermanyWestCentral",

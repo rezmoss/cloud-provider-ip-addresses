@@ -6,6 +6,9 @@ CREATE TABLE IF NOT EXISTS `azure_azureiothub.uksouth_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_azureiothub.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('4.159.219.204/30', 'IPv4');
+INSERT INTO `azure_azureiothub.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('4.159.219.208/29', 'IPv4');
+INSERT INTO `azure_azureiothub.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('4.159.219.224/27', 'IPv4');
 INSERT INTO `azure_azureiothub.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('51.104.30.0/25', 'IPv4');
 INSERT INTO `azure_azureiothub.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('51.104.30.128/27', 'IPv4');
 INSERT INTO `azure_azureiothub.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('51.105.69.0/27', 'IPv4');
@@ -14,6 +17,11 @@ INSERT INTO `azure_azureiothub.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('5
 INSERT INTO `azure_azureiothub.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('51.140.126.10/32', 'IPv4');
 INSERT INTO `azure_azureiothub.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('51.140.149.32/27', 'IPv4');
 INSERT INTO `azure_azureiothub.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('52.151.78.51/32', 'IPv4');
+INSERT INTO `azure_azureiothub.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('172.165.0.0/24', 'IPv4');
+INSERT INTO `azure_azureiothub.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:705:18::ac/126', 'IPv6');
+INSERT INTO `azure_azureiothub.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:705:18::b8/125', 'IPv6');
+INSERT INTO `azure_azureiothub.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:705:1a::2a0/123', 'IPv6');
+INSERT INTO `azure_azureiothub.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:705:1a::300/120', 'IPv6');
 INSERT INTO `azure_azureiothub.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:705:402::300/123', 'IPv6');
 INSERT INTO `azure_azureiothub.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:705:802::240/123', 'IPv6');
 INSERT INTO `azure_azureiothub.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:705:c02::240/123', 'IPv6');

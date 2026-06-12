@@ -9,4 +9,10 @@ CREATE TABLE IF NOT EXISTS `azure_azureiothub.australiacentral2_ips` (
 INSERT INTO `azure_azureiothub.australiacentral2_ips` (`ip_address`, `ip_type`) VALUES ('20.36.117.64/27', 'IPv4');
 INSERT INTO `azure_azureiothub.australiacentral2_ips` (`ip_address`, `ip_type`) VALUES ('20.36.123.32/27', 'IPv4');
 INSERT INTO `azure_azureiothub.australiacentral2_ips` (`ip_address`, `ip_type`) VALUES ('20.36.123.128/25', 'IPv4');
+INSERT INTO `azure_azureiothub.australiacentral2_ips` (`ip_address`, `ip_type`) VALUES ('20.167.229.28/30', 'IPv4');
+INSERT INTO `azure_azureiothub.australiacentral2_ips` (`ip_address`, `ip_type`) VALUES ('20.167.229.224/27', 'IPv4');
+INSERT INTO `azure_azureiothub.australiacentral2_ips` (`ip_address`, `ip_type`) VALUES ('20.167.239.64/26', 'IPv4');
+INSERT INTO `azure_azureiothub.australiacentral2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:404:8::578/126', 'IPv6');
+INSERT INTO `azure_azureiothub.australiacentral2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:404:9::100/122', 'IPv6');
+INSERT INTO `azure_azureiothub.australiacentral2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:404:9::140/123', 'IPv6');
 INSERT INTO `azure_azureiothub.australiacentral2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:404:402::300/123', 'IPv6');

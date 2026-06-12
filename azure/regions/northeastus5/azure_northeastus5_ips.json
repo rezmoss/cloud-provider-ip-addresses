@@ -96,6 +96,12 @@
     "region": "northeastus5"
   },
   {
+    "ip_address": "74.149.0.0/17",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.northeastus5",
+    "region": "northeastus5"
+  },
+  {
     "ip_address": "135.130.98.0/23",
     "ip_type": "IPv4",
     "service": "AzureCloud.northeastus5",

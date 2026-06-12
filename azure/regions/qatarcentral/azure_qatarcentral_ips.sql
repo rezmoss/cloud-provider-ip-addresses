@@ -7,6 +7,10 @@ CREATE TABLE IF NOT EXISTS `azure_qatarcentral_ips` (
 );
 
 INSERT INTO `azure_qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('4.170.0.0/15', 'IPv4');
+INSERT INTO `azure_qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('4.170.6.88/30', 'IPv4');
+INSERT INTO `azure_qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('4.170.6.112/28', 'IPv4');
+INSERT INTO `azure_qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('4.170.6.128/26', 'IPv4');
+INSERT INTO `azure_qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('4.170.6.192/27', 'IPv4');
 INSERT INTO `azure_qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('4.171.24.0/25', 'IPv4');
 INSERT INTO `azure_qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('4.171.24.128/25', 'IPv4');
 INSERT INTO `azure_qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('4.171.25.0/26', 'IPv4');
@@ -310,6 +314,10 @@ INSERT INTO `azure_qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:104
 INSERT INTO `azure_qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1002:8::5a0/124', 'IPv6');
 INSERT INTO `azure_qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1002:8::5b0/127', 'IPv6');
 INSERT INTO `azure_qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1002:8::5b2/128', 'IPv6');
+INSERT INTO `azure_qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1002:9::708/126', 'IPv6');
+INSERT INTO `azure_qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1002:9::740/122', 'IPv6');
+INSERT INTO `azure_qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1002:9::780/123', 'IPv6');
+INSERT INTO `azure_qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1002:9::7a0/123', 'IPv6');
 INSERT INTO `azure_qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1002:400::/122', 'IPv6');
 INSERT INTO `azure_qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1002:400::40/125', 'IPv6');
 INSERT INTO `azure_qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1002:400::48/125', 'IPv6');

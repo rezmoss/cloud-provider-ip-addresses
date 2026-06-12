@@ -30,6 +30,12 @@
     "region": "usstagec"
   },
   {
+    "ip_address": "57.152.170.96/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
     "ip_address": "2603:1030:302:1::/122",
     "ip_type": "IPv6",
     "service": "AzureMonitor.SouthCentralUSSTG",

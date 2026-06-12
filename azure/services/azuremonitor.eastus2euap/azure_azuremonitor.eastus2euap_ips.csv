@@ -17,6 +17,7 @@ ip_address,ip_type,service,region
 48.223.21.192/26,IPv4,AzureMonitor.EastUS2EUAP,eastus2euap
 48.223.29.192/28,IPv4,AzureMonitor.EastUS2EUAP,eastus2euap
 48.223.56.32/28,IPv4,AzureMonitor.EastUS2EUAP,eastus2euap
+48.223.101.80/28,IPv4,AzureMonitor.EastUS2EUAP,eastus2euap
 52.138.90.48/30,IPv4,AzureMonitor.EastUS2EUAP,eastus2euap
 52.138.90.56/29,IPv4,AzureMonitor.EastUS2EUAP,eastus2euap
 68.220.85.64/29,IPv4,AzureMonitor.EastUS2EUAP,eastus2euap

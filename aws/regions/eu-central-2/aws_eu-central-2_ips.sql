@@ -101,6 +101,7 @@ INSERT INTO `aws_eu-central-2_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d019:
 INSERT INTO `aws_eu-central-2_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d019:1d6:2100::/56', 'IPv6');
 INSERT INTO `aws_eu-central-2_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d029::/36', 'IPv6');
 INSERT INTO `aws_eu-central-2_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d029::/36', 'IPv6');
+INSERT INTO `aws_eu-central-2_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d029:4::/48', 'IPv6');
 INSERT INTO `aws_eu-central-2_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d030:9000::/40', 'IPv6');
 INSERT INTO `aws_eu-central-2_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d030:9000::/40', 'IPv6');
 INSERT INTO `aws_eu-central-2_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d030:9000::/40', 'IPv6');

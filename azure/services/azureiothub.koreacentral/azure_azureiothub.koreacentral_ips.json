@@ -1,5 +1,29 @@
 [
   {
+    "ip_address": "4.181.1.244/30",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "4.181.5.136/29",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "4.181.5.160/27",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "4.181.6.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
     "ip_address": "20.41.68.96/27",
     "ip_type": "IPv4",
     "service": "AzureIoTHub.KoreaCentral",
@@ -32,6 +56,30 @@
   {
     "ip_address": "52.231.32.236/32",
     "ip_type": "IPv4",
+    "service": "AzureIoTHub.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "2603:1040:f05:d::494/126",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "2603:1040:f05:d::4a0/123",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "2603:1040:f05:d::6c0/125",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "2603:1040:f05:e::/120",
+    "ip_type": "IPv6",
     "service": "AzureIoTHub.KoreaCentral",
     "region": "koreacentral"
   },

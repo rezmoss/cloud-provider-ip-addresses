@@ -468,6 +468,12 @@
     "region": "ap-northeast-1"
   },
   {
+    "ip_address": "2406:da26:1c::/48",
+    "ip_type": "IPv6",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "ap-northeast-3"
+  },
+  {
     "ip_address": "2406:da27:4::/48",
     "ip_type": "IPv6",
     "service": "WORKSPACES_GATEWAYS",
@@ -564,6 +570,12 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "2600:1f2a:401c::/48",
+    "ip_type": "IPv6",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "ca-west-1"
+  },
+  {
     "ip_address": "2600:1f2e:14::/48",
     "ip_type": "IPv6",
     "service": "WORKSPACES_GATEWAYS",
@@ -634,6 +646,12 @@
     "ip_type": "IPv6",
     "service": "WORKSPACES_GATEWAYS",
     "region": "eu-west-1"
+  },
+  {
+    "ip_address": "2a05:d029:4::/48",
+    "ip_type": "IPv6",
+    "service": "WORKSPACES_GATEWAYS",
+    "region": "eu-central-2"
   },
   {
     "ip_address": "2a05:d02a:4::/48",

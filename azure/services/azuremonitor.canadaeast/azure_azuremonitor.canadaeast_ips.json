@@ -102,6 +102,12 @@
     "region": "canadaeast"
   },
   {
+    "ip_address": "145.191.144.64/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
     "ip_address": "2603:1030:1005::2a8/126",
     "ip_type": "IPv6",
     "service": "AzureMonitor.CanadaEast",
@@ -151,6 +157,12 @@
   },
   {
     "ip_address": "2603:1030:1005:c::180/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:d::7a0/123",
     "ip_type": "IPv6",
     "service": "AzureMonitor.CanadaEast",
     "region": "canadaeast"

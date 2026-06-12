@@ -2988,6 +2988,12 @@
     "region": "westus3"
   },
   {
+    "ip_address": "57.157.129.196/31",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.westus3",
+    "region": "westus3"
+  },
+  {
     "ip_address": "57.163.18.0/23",
     "ip_type": "IPv4",
     "service": "AzureCloud.westus3",
@@ -2995,6 +3001,18 @@
   },
   {
     "ip_address": "57.163.18.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.WestUS3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "57.163.46.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.westus3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "57.163.46.0/23",
     "ip_type": "IPv4",
     "service": "Storage.WestUS3",
     "region": "westus3"
@@ -3249,6 +3267,30 @@
     "ip_address": "172.180.0.0/15",
     "ip_type": "IPv4",
     "service": "AzureCloud.westus3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "172.180.56.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.WestUS3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "172.180.57.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.WestUS3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "172.180.57.64/29",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.WestUS3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "172.180.57.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.WestUS3",
     "region": "westus3"
   },
   {
@@ -3835,6 +3877,30 @@
   },
   {
     "ip_address": "2603:1030:504:16::500/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.WestUS3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "2603:1030:504:17::418/125",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.WestUS3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "2603:1030:504:17::480/121",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.WestUS3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "2603:1030:504:19::/122",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.WestUS3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "2603:1030:504:19::40/123",
     "ip_type": "IPv6",
     "service": "AzureMonitor.WestUS3",
     "region": "westus3"

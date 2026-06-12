@@ -399,6 +399,10 @@ INSERT INTO `azure_canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('145.190.15
 INSERT INTO `azure_canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('145.190.159.0/24', 'IPv4');
 INSERT INTO `azure_canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('145.191.128.0/17', 'IPv4');
 INSERT INTO `azure_canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('145.191.128.0/21', 'IPv4');
+INSERT INTO `azure_canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('145.191.139.172/30', 'IPv4');
+INSERT INTO `azure_canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('145.191.139.224/27', 'IPv4');
+INSERT INTO `azure_canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('145.191.144.0/26', 'IPv4');
+INSERT INTO `azure_canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('145.191.144.64/28', 'IPv4');
 INSERT INTO `azure_canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('151.206.107.0/25', 'IPv4');
 INSERT INTO `azure_canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1000::/47', 'IPv6');
 INSERT INTO `azure_canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1002::/48', 'IPv6');
@@ -460,6 +464,10 @@ INSERT INTO `azure_canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:
 INSERT INTO `azure_canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005:c::490/126', 'IPv6');
 INSERT INTO `azure_canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005:c::494/127', 'IPv6');
 INSERT INTO `azure_canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005:c::496/128', 'IPv6');
+INSERT INTO `azure_canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005:d::730/126', 'IPv6');
+INSERT INTO `azure_canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005:d::740/122', 'IPv6');
+INSERT INTO `azure_canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005:d::780/123', 'IPv6');
+INSERT INTO `azure_canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005:d::7a0/123', 'IPv6');
 INSERT INTO `azure_canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005:400::/123', 'IPv6');
 INSERT INTO `azure_canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005:402::80/125', 'IPv6');
 INSERT INTO `azure_canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005:402::88/125', 'IPv6');

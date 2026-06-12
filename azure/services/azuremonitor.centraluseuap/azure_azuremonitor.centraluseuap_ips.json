@@ -66,6 +66,18 @@
     "region": "centraluseuap"
   },
   {
+    "ip_address": "57.173.15.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "57.173.16.112/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
     "ip_address": "134.138.212.16/28",
     "ip_type": "IPv4",
     "service": "AzureMonitor.CentralUSEUAP",

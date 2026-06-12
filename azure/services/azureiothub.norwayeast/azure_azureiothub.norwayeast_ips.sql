@@ -6,11 +6,17 @@ CREATE TABLE IF NOT EXISTS `azure_azureiothub.norwayeast_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_azureiothub.norwayeast_ips` (`ip_address`, `ip_type`) VALUES ('4.177.32.4/30', 'IPv4');
+INSERT INTO `azure_azureiothub.norwayeast_ips` (`ip_address`, `ip_type`) VALUES ('4.177.32.32/27', 'IPv4');
+INSERT INTO `azure_azureiothub.norwayeast_ips` (`ip_address`, `ip_type`) VALUES ('4.177.32.64/26', 'IPv4');
 INSERT INTO `azure_azureiothub.norwayeast_ips` (`ip_address`, `ip_type`) VALUES ('51.120.43.128/25', 'IPv4');
 INSERT INTO `azure_azureiothub.norwayeast_ips` (`ip_address`, `ip_type`) VALUES ('51.120.44.0/27', 'IPv4');
 INSERT INTO `azure_azureiothub.norwayeast_ips` (`ip_address`, `ip_type`) VALUES ('51.120.100.96/27', 'IPv4');
 INSERT INTO `azure_azureiothub.norwayeast_ips` (`ip_address`, `ip_type`) VALUES ('51.120.107.224/27', 'IPv4');
 INSERT INTO `azure_azureiothub.norwayeast_ips` (`ip_address`, `ip_type`) VALUES ('51.120.211.224/27', 'IPv4');
+INSERT INTO `azure_azureiothub.norwayeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:e04:d::f8/126', 'IPv6');
+INSERT INTO `azure_azureiothub.norwayeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:e04:d::220/123', 'IPv6');
+INSERT INTO `azure_azureiothub.norwayeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:e04:d::280/122', 'IPv6');
 INSERT INTO `azure_azureiothub.norwayeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:e04:402::300/123', 'IPv6');
 INSERT INTO `azure_azureiothub.norwayeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:e04:802::240/123', 'IPv6');
 INSERT INTO `azure_azureiothub.norwayeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:e04:c02::240/123', 'IPv6');

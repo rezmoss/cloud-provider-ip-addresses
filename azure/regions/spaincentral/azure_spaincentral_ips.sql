@@ -292,6 +292,7 @@ INSERT INTO `azure_spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:102
 INSERT INTO `azure_spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1403:7::534/126', 'IPv6');
 INSERT INTO `azure_spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1403:7::570/124', 'IPv6');
 INSERT INTO `azure_spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1403:7::580/123', 'IPv6');
+INSERT INTO `azure_spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1403:8::780/123', 'IPv6');
 INSERT INTO `azure_spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1403:400::/125', 'IPv6');
 INSERT INTO `azure_spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1403:400::8/125', 'IPv6');
 INSERT INTO `azure_spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1403:400::18/125', 'IPv6');

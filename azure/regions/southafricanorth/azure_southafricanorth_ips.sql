@@ -39,6 +39,11 @@ INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('4.25
 INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('4.253.53.128/27', 'IPv4');
 INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('4.253.63.64/26', 'IPv4');
 INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('4.253.104.0/23', 'IPv4');
+INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('4.253.153.8/30', 'IPv4');
+INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('4.253.153.192/26', 'IPv4');
+INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('4.253.155.0/24', 'IPv4');
+INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('4.253.156.0/27', 'IPv4');
+INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('4.253.156.32/28', 'IPv4');
 INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('13.104.158.128/27', 'IPv4');
 INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('13.104.158.160/28', 'IPv4');
 INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('13.104.158.192/27', 'IPv4');
@@ -474,6 +479,10 @@ INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('2603
 INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1000:104:b::180/123', 'IPv6');
 INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1000:104:b::1a0/126', 'IPv6');
 INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1000:104:b::280/121', 'IPv6');
+INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1000:104:d::350/126', 'IPv6');
+INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1000:104:d::360/123', 'IPv6');
+INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1000:104:d::380/122', 'IPv6');
+INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1000:104:d::3c0/123', 'IPv6');
 INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1000:104:400::/123', 'IPv6');
 INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1000:104:400::20/125', 'IPv6');
 INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1000:104:401::/123', 'IPv6');

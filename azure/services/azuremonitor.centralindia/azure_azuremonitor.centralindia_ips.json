@@ -12,6 +12,18 @@
     "region": "centralindia"
   },
   {
+    "ip_address": "4.188.59.144/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "4.188.60.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.CentralIndia",
+    "region": "centralindia"
+  },
+  {
     "ip_address": "4.213.26.192/27",
     "ip_type": "IPv4",
     "service": "AzureMonitor.CentralIndia",
@@ -265,6 +277,12 @@
   },
   {
     "ip_address": "2603:1040:a06:d::20/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "2603:1040:a06:f::120/123",
     "ip_type": "IPv6",
     "service": "AzureMonitor.CentralIndia",
     "region": "centralindia"

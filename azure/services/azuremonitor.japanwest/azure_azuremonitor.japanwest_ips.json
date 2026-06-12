@@ -138,6 +138,12 @@
     "region": "japanwest"
   },
   {
+    "ip_address": "172.192.205.32/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.JapanWest",
+    "region": "japanwest"
+  },
+  {
     "ip_address": "2603:1040:606::780/121",
     "ip_type": "IPv6",
     "service": "AzureMonitor.JapanWest",
@@ -187,6 +193,12 @@
   },
   {
     "ip_address": "2603:1040:606:b::5e0/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.JapanWest",
+    "region": "japanwest"
+  },
+  {
+    "ip_address": "2603:1040:606:e::/123",
     "ip_type": "IPv6",
     "service": "AzureMonitor.JapanWest",
     "region": "japanwest"

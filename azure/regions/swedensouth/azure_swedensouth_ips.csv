@@ -182,6 +182,7 @@ ip_address,ip_type,service,region
 74.241.8.0/23,IPv4,AzureSecurityCenter.SwedenSouth,swedensouth
 74.241.10.0/24,IPv4,AzureSecurityCenter.SwedenSouth,swedensouth
 74.241.13.48/28,IPv4,LogicApps.SwedenSouth,swedensouth
+74.241.60.16/28,IPv4,AzureMonitor.SwedenSouth,swedensouth
 2603:1020:1100::/47,IPv6,AzureCloud.swedensouth,swedensouth
 2603:1020:1101::3/128,IPv6,AzureMonitor.SwedenSouth,swedensouth
 2603:1020:1103::/48,IPv6,AzureCloud.swedensouth,swedensouth
@@ -229,6 +230,7 @@ ip_address,ip_type,service,region
 2603:1020:1104:2::780/122,IPv6,AzureMonitor.SwedenSouth,swedensouth
 2603:1020:1104:7::7a0/123,IPv6,AzureMonitor.SwedenSouth,swedensouth
 2603:1020:1104:8::118/125,IPv6,AzureDevOps.SwedenSouth,swedensouth
+2603:1020:1104:9::/122,IPv6,AzureMonitor.SwedenSouth,swedensouth
 2603:1020:1104:400::80/125,IPv6,AzureKeyVault.SwedenSouth,swedensouth
 2603:1020:1104:400::88/125,IPv6,MicrosoftContainerRegistry.SwedenSouth,swedensouth
 2603:1020:1104:400::90/125,IPv6,AzureContainerRegistry.SwedenSouth,swedensouth

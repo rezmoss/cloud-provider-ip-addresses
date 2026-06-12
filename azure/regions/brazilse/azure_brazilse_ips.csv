@@ -76,6 +76,7 @@ ip_address,ip_type,service,region
 20.206.7.128/25,IPv4,Sql.BrazilSoutheast,brazilse
 20.206.24.0/22,IPv4,AzureEventGrid.BrazilSoutheast,brazilse
 20.206.28.0/23,IPv4,AzureEventGrid.BrazilSoutheast,brazilse
+20.206.35.112/28,IPv4,AzureMonitor.BrazilSoutheast,brazilse
 20.206.40.250/32,IPv4,LogicApps.BrazilSoutheast,brazilse
 20.206.41.20/32,IPv4,LogicApps.BrazilSoutheast,brazilse
 20.206.41.94/32,IPv4,LogicApps.BrazilSoutheast,brazilse
@@ -275,6 +276,8 @@ ip_address,ip_type,service,region
 2603:1050:403:6::440/122,IPv6,AzureContainerRegistry.BrazilSoutheast,brazilse
 2603:1050:403:7::660/123,IPv6,AzureMonitor.BrazilSoutheast,brazilse
 2603:1050:403:8::180/121,IPv6,AzureBackup.BrazilSoutheast,brazilse
+2603:1050:403:8::6f0/125,IPv6,AzureMonitor.BrazilSoutheast,brazilse
+2603:1050:403:8::700/120,IPv6,AzureMonitor.BrazilSoutheast,brazilse
 2603:1050:403:400::80/125,IPv6,AzureKeyVault.BrazilSoutheast,brazilse
 2603:1050:403:400::88/125,IPv6,PowerQueryOnline.BrazilSoutheast,brazilse
 2603:1050:403:400::90/125,IPv6,MicrosoftContainerRegistry.BrazilSoutheast,brazilse

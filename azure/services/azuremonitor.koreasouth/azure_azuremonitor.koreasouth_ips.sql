@@ -6,6 +6,7 @@ CREATE TABLE IF NOT EXISTS `azure_azuremonitor.koreasouth_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_azuremonitor.koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('4.243.7.160/28', 'IPv4');
 INSERT INTO `azure_azuremonitor.koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('4.243.42.64/27', 'IPv4');
 INSERT INTO `azure_azuremonitor.koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('4.243.44.128/26', 'IPv4');
 INSERT INTO `azure_azuremonitor.koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('4.243.139.224/27', 'IPv4');
@@ -33,4 +34,5 @@ INSERT INTO `azure_azuremonitor.koreasouth_ips` (`ip_address`, `ip_type`) VALUES
 INSERT INTO `azure_azuremonitor.koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:e05:6::680/122', 'IPv6');
 INSERT INTO `azure_azuremonitor.koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:e05:9::500/120', 'IPv6');
 INSERT INTO `azure_azuremonitor.koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:e05:9::6e0/123', 'IPv6');
+INSERT INTO `azure_azuremonitor.koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:e05:b::580/123', 'IPv6');
 INSERT INTO `azure_azuremonitor.koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:e05:402::80/121', 'IPv6');

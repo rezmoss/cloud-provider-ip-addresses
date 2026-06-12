@@ -75,6 +75,7 @@ INSERT INTO `azure_azuremonitor.westeurope_ips` (`ip_address`, `ip_type`) VALUES
 INSERT INTO `azure_azuremonitor.westeurope_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:206:22::3c0/122', 'IPv6');
 INSERT INTO `azure_azuremonitor.westeurope_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:206:23::380/121', 'IPv6');
 INSERT INTO `azure_azuremonitor.westeurope_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:206:25::500/122', 'IPv6');
+INSERT INTO `azure_azuremonitor.westeurope_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:206:2b::1a0/123', 'IPv6');
 INSERT INTO `azure_azuremonitor.westeurope_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:206:402::500/121', 'IPv6');
 INSERT INTO `azure_azuremonitor.westeurope_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:206:802::480/121', 'IPv6');
 INSERT INTO `azure_azuremonitor.westeurope_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:206:c00::100/121', 'IPv6');

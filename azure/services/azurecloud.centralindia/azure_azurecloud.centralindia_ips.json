@@ -942,6 +942,12 @@
     "region": "centralindia"
   },
   {
+    "ip_address": "57.171.17.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.centralindia",
+    "region": "centralindia"
+  },
+  {
     "ip_address": "70.152.6.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.centralindia",

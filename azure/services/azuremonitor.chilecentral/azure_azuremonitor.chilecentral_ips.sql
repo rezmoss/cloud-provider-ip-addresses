@@ -10,6 +10,7 @@ INSERT INTO `azure_azuremonitor.chilecentral_ips` (`ip_address`, `ip_type`) VALU
 INSERT INTO `azure_azuremonitor.chilecentral_ips` (`ip_address`, `ip_type`) VALUES ('57.156.5.128/27', 'IPv4');
 INSERT INTO `azure_azuremonitor.chilecentral_ips` (`ip_address`, `ip_type`) VALUES ('57.156.5.176/28', 'IPv4');
 INSERT INTO `azure_azuremonitor.chilecentral_ips` (`ip_address`, `ip_type`) VALUES ('57.156.5.192/27', 'IPv4');
+INSERT INTO `azure_azuremonitor.chilecentral_ips` (`ip_address`, `ip_type`) VALUES ('57.156.127.0/24', 'IPv4');
 INSERT INTO `azure_azuremonitor.chilecentral_ips` (`ip_address`, `ip_type`) VALUES ('68.211.13.22/31', 'IPv4');
 INSERT INTO `azure_azuremonitor.chilecentral_ips` (`ip_address`, `ip_type`) VALUES ('68.211.13.52/30', 'IPv4');
 INSERT INTO `azure_azuremonitor.chilecentral_ips` (`ip_address`, `ip_type`) VALUES ('68.211.14.176/29', 'IPv4');
@@ -29,3 +30,4 @@ INSERT INTO `azure_azuremonitor.chilecentral_ips` (`ip_address`, `ip_type`) VALU
 INSERT INTO `azure_azuremonitor.chilecentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:301:2::580/123', 'IPv6');
 INSERT INTO `azure_azuremonitor.chilecentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:301:2::600/120', 'IPv6');
 INSERT INTO `azure_azuremonitor.chilecentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:301:4::5e0/123', 'IPv6');
+INSERT INTO `azure_azuremonitor.chilecentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:301:5::6c0/123', 'IPv6');

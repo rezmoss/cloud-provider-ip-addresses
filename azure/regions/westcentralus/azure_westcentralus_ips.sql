@@ -323,6 +323,9 @@ INSERT INTO `azure_westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('48.194.
 INSERT INTO `azure_westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('48.194.152.160/28', 'IPv4');
 INSERT INTO `azure_westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('48.194.162.248/29', 'IPv4');
 INSERT INTO `azure_westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('48.194.163.0/30', 'IPv4');
+INSERT INTO `azure_westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('48.194.207.152/29', 'IPv4');
+INSERT INTO `azure_westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('48.194.207.192/26', 'IPv4');
+INSERT INTO `azure_westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('48.194.208.0/25', 'IPv4');
 INSERT INTO `azure_westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('48.208.45.0/24', 'IPv4');
 INSERT INTO `azure_westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('48.208.88.0/24', 'IPv4');
 INSERT INTO `azure_westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('48.212.36.0/24', 'IPv4');
@@ -644,6 +647,10 @@ INSERT INTO `azure_westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:10
 INSERT INTO `azure_westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:b04:f::574/127', 'IPv6');
 INSERT INTO `azure_westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:b04:f::576/128', 'IPv6');
 INSERT INTO `azure_westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:b04:f::700/121', 'IPv6');
+INSERT INTO `azure_westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:b04:10::5d0/125', 'IPv6');
+INSERT INTO `azure_westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:b04:10::780/121', 'IPv6');
+INSERT INTO `azure_westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:b04:11::100/122', 'IPv6');
+INSERT INTO `azure_westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:b04:11::140/122', 'IPv6');
 INSERT INTO `azure_westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:b04:400::/123', 'IPv6');
 INSERT INTO `azure_westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:b04:402::80/125', 'IPv6');
 INSERT INTO `azure_westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:b04:402::88/125', 'IPv6');

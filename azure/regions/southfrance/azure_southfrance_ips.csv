@@ -279,6 +279,10 @@ ip_address,ip_type,service,region
 98.66.8.160/30,IPv4,AzureAttestation.FranceSouth,southfrance
 98.66.12.0/22,IPv4,AzureEventGrid.FranceSouth,southfrance
 98.66.16.0/22,IPv4,AzureEventGrid.FranceSouth,southfrance
+98.66.23.168/29,IPv4,AzureIoTHub.FranceSouth,southfrance
+98.66.23.176/28,IPv4,AzureMonitor.FranceSouth,southfrance
+98.66.23.192/26,IPv4,AzureIoTHub.FranceSouth,southfrance
+98.66.25.0/25,IPv4,AzureIoTHub.FranceSouth,southfrance
 151.206.168.0/24,IPv4,AzureCloud.southfrance,southfrance
 151.206.194.0/24,IPv4,AzureCloud.southfrance,southfrance
 2603:1020:900::/47,IPv6,AzureCloud.southfrance,southfrance
@@ -333,6 +337,10 @@ ip_address,ip_type,service,region
 2603:1020:905:6::100/122,IPv6,AzureMonitor.FranceSouth,southfrance
 2603:1020:905:7::320/123,IPv6,SCCservice.FranceSouth,southfrance
 2603:1020:905:9::700/123,IPv6,AzureMonitor.FranceSouth,southfrance
+2603:1020:905:a::630/125,IPv6,AzureIoTHub.FranceSouth,southfrance
+2603:1020:905:a::640/122,IPv6,AzureIoTHub.FranceSouth,southfrance
+2603:1020:905:a::680/121,IPv6,AzureIoTHub.FranceSouth,southfrance
+2603:1020:905:a::700/123,IPv6,AzureMonitor.FranceSouth,southfrance
 2603:1020:905:400::/123,IPv6,Sql.FranceSouth,southfrance
 2603:1020:905:402::80/125,IPv6,AzureKeyVault.FranceSouth,southfrance
 2603:1020:905:402::88/125,IPv6,MicrosoftContainerRegistry.FranceSouth,southfrance

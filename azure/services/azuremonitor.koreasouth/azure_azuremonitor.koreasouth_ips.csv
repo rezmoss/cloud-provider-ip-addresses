@@ -1,4 +1,5 @@
 ip_address,ip_type,service,region
+4.243.7.160/28,IPv4,AzureMonitor.KoreaSouth,koreasouth
 4.243.42.64/27,IPv4,AzureMonitor.KoreaSouth,koreasouth
 4.243.44.128/26,IPv4,AzureMonitor.KoreaSouth,koreasouth
 4.243.139.224/27,IPv4,AzureMonitor.KoreaSouth,koreasouth
@@ -26,4 +27,5 @@ ip_address,ip_type,service,region
 2603:1040:e05:6::680/122,IPv6,AzureMonitor.KoreaSouth,koreasouth
 2603:1040:e05:9::500/120,IPv6,AzureMonitor.KoreaSouth,koreasouth
 2603:1040:e05:9::6e0/123,IPv6,AzureMonitor.KoreaSouth,koreasouth
+2603:1040:e05:b::580/123,IPv6,AzureMonitor.KoreaSouth,koreasouth
 2603:1040:e05:402::80/121,IPv6,AzureMonitor.KoreaSouth,koreasouth

@@ -1733,6 +1733,8 @@ ip_address,ip_type,service,region
 2600:f0f0:c002::/48,IPv6,EC2,us-east-1
 2600:f0f0:c040::/48,IPv6,AMAZON,us-east-1
 2600:f0f0:c040::/48,IPv6,EC2,us-east-1
+2600:f0f0:c102::/48,IPv6,AMAZON,us-east-1
+2600:f0f0:c102::/48,IPv6,EC2,us-east-1
 2600:f0f1:10::/47,IPv6,AMAZON,us-east-1
 2600:f0f1:10::/47,IPv6,EC2,us-east-1
 2600:f0f1:12::/47,IPv6,AMAZON,us-east-1

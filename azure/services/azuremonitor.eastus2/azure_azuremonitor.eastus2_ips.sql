@@ -93,6 +93,7 @@ INSERT INTO `azure_azuremonitor.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('
 INSERT INTO `azure_azuremonitor.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:24::3f0/124', 'IPv6');
 INSERT INTO `azure_azuremonitor.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:24::440/122', 'IPv6');
 INSERT INTO `azure_azuremonitor.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:2b::380/121', 'IPv6');
+INSERT INTO `azure_azuremonitor.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:31::120/123', 'IPv6');
 INSERT INTO `azure_azuremonitor.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:402::500/121', 'IPv6');
 INSERT INTO `azure_azuremonitor.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:802::480/121', 'IPv6');
 INSERT INTO `azure_azuremonitor.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:c02::400/121', 'IPv6');

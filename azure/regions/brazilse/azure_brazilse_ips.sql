@@ -83,6 +83,7 @@ INSERT INTO `azure_brazilse_ips` (`ip_address`, `ip_type`) VALUES ('20.206.6.188
 INSERT INTO `azure_brazilse_ips` (`ip_address`, `ip_type`) VALUES ('20.206.7.128/25', 'IPv4');
 INSERT INTO `azure_brazilse_ips` (`ip_address`, `ip_type`) VALUES ('20.206.24.0/22', 'IPv4');
 INSERT INTO `azure_brazilse_ips` (`ip_address`, `ip_type`) VALUES ('20.206.28.0/23', 'IPv4');
+INSERT INTO `azure_brazilse_ips` (`ip_address`, `ip_type`) VALUES ('20.206.35.112/28', 'IPv4');
 INSERT INTO `azure_brazilse_ips` (`ip_address`, `ip_type`) VALUES ('20.206.40.250/32', 'IPv4');
 INSERT INTO `azure_brazilse_ips` (`ip_address`, `ip_type`) VALUES ('20.206.41.20/32', 'IPv4');
 INSERT INTO `azure_brazilse_ips` (`ip_address`, `ip_type`) VALUES ('20.206.41.94/32', 'IPv4');
@@ -282,6 +283,8 @@ INSERT INTO `azure_brazilse_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:40
 INSERT INTO `azure_brazilse_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:403:6::440/122', 'IPv6');
 INSERT INTO `azure_brazilse_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:403:7::660/123', 'IPv6');
 INSERT INTO `azure_brazilse_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:403:8::180/121', 'IPv6');
+INSERT INTO `azure_brazilse_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:403:8::6f0/125', 'IPv6');
+INSERT INTO `azure_brazilse_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:403:8::700/120', 'IPv6');
 INSERT INTO `azure_brazilse_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:403:400::80/125', 'IPv6');
 INSERT INTO `azure_brazilse_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:403:400::88/125', 'IPv6');
 INSERT INTO `azure_brazilse_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:403:400::90/125', 'IPv6');

@@ -245,6 +245,10 @@ INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('57.150.238.0/
 INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('57.150.238.0/23', 'IPv4');
 INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('70.152.21.0/24', 'IPv4');
 INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('74.240.0.0/17', 'IPv4');
+INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('74.240.1.172/30', 'IPv4');
+INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('74.240.1.176/28', 'IPv4');
+INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('74.240.1.224/27', 'IPv4');
+INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('74.240.4.0/26', 'IPv4');
 INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('74.240.128.0/21', 'IPv4');
 INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:f00::/47', 'IPv6');
 INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:f03::/48', 'IPv6');
@@ -302,6 +306,9 @@ INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:f04
 INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:f04:9::690/126', 'IPv6');
 INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:f04:9::694/127', 'IPv6');
 INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:f04:9::696/128', 'IPv6');
+INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:f04:a::4b0/126', 'IPv6');
+INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:f04:a::4c0/122', 'IPv6');
+INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:f04:a::600/123', 'IPv6');
 INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:f04:400::/123', 'IPv6');
 INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:f04:402::80/125', 'IPv6');
 INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:f04:402::88/125', 'IPv6');

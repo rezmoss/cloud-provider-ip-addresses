@@ -9,6 +9,7 @@ CREATE TABLE IF NOT EXISTS `azure_azuremonitor.canadacentral_ips` (
 INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.172.75.0/24', 'IPv4');
 INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.172.83.112/28', 'IPv4');
 INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.172.95.192/28', 'IPv4');
+INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.173.102.64/28', 'IPv4');
 INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.174.145.0/27', 'IPv4');
 INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.174.145.64/26', 'IPv4');
 INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('13.71.172.128/28', 'IPv4');
@@ -53,6 +54,7 @@ INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VAL
 INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f05:4::5c0/122', 'IPv6');
 INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f05:d::100/120', 'IPv6');
 INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f05:d::3e0/123', 'IPv6');
+INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f05:11::160/123', 'IPv6');
 INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f05:402::500/121', 'IPv6');
 INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f05:802::480/121', 'IPv6');
 INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f05:c02::480/121', 'IPv6');

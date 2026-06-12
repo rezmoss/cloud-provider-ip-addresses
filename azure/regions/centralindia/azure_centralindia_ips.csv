@@ -21,6 +21,11 @@ ip_address,ip_type,service,region
 4.188.34.0/23,IPv4,AzureEventGrid.CentralIndia,centralindia
 4.188.36.0/22,IPv4,AzureEventGrid.CentralIndia,centralindia
 4.188.48.0/23,IPv4,AzureEventGrid.CentralIndia,centralindia
+4.188.59.136/30,IPv4,AzureIoTHub.CentralIndia,centralindia
+4.188.59.144/28,IPv4,AzureMonitor.CentralIndia,centralindia
+4.188.59.160/27,IPv4,AzureIoTHub.CentralIndia,centralindia
+4.188.60.0/24,IPv4,AzureMonitor.CentralIndia,centralindia
+4.188.61.0/26,IPv4,AzureIoTHub.CentralIndia,centralindia
 4.188.185.15/32,IPv4,LogicApps.CentralIndia,centralindia
 4.188.187.64/32,IPv4,LogicApps.CentralIndia,centralindia
 4.188.187.86/32,IPv4,LogicApps.CentralIndia,centralindia
@@ -483,6 +488,7 @@ ip_address,ip_type,service,region
 57.159.91.0/25,IPv4,AzureSecurityCenter.CentralIndia,centralindia
 57.159.92.96/27,IPv4,SCCservice.CentralIndia,centralindia
 57.159.92.207/32,IPv4,AzureArcInfrastructure.CentralIndia,centralindia
+57.171.17.0/24,IPv4,AzureCloud.centralindia,centralindia
 70.152.6.0/24,IPv4,AzureCloud.centralindia,centralindia
 70.152.52.0/23,IPv4,AzureCloud.centralindia,centralindia
 70.152.54.0/24,IPv4,AzureCloud.centralindia,centralindia
@@ -626,6 +632,10 @@ ip_address,ip_type,service,region
 2603:1040:a06:d::300/124,IPv6,AzureMachineLearning.CentralIndia,centralindia
 2603:1040:a06:d::310/127,IPv6,AzureMachineLearning.CentralIndia,centralindia
 2603:1040:a06:d::312/128,IPv6,AzureMachineLearning.CentralIndia,centralindia
+2603:1040:a06:e::4b0/126,IPv6,AzureIoTHub.CentralIndia,centralindia
+2603:1040:a06:f::c0/122,IPv6,AzureIoTHub.CentralIndia,centralindia
+2603:1040:a06:f::100/123,IPv6,AzureIoTHub.CentralIndia,centralindia
+2603:1040:a06:f::120/123,IPv6,AzureMonitor.CentralIndia,centralindia
 2603:1040:a06:400::/123,IPv6,Sql.CentralIndia,centralindia
 2603:1040:a06:401::/123,IPv6,Sql.CentralIndia,centralindia
 2603:1040:a06:402::80/125,IPv6,AzureKeyVault.CentralIndia,centralindia

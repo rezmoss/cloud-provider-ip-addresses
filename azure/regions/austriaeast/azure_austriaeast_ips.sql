@@ -166,6 +166,8 @@ INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('68.210.24
 INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('68.210.248.0/25', 'IPv4');
 INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('68.210.252.0/22', 'IPv4');
 INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('70.152.248.0/24', 'IPv4');
+INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('74.148.0.0/17', 'IPv4');
+INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('74.148.7.0/24', 'IPv4');
 INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('135.130.188.0/23', 'IPv4');
 INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('135.130.188.0/23', 'IPv4');
 INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('145.190.128.0/24', 'IPv4');

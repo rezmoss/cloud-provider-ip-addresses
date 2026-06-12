@@ -1,5 +1,23 @@
 [
   {
+    "ip_address": "48.203.152.168/29",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "48.203.154.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "48.203.154.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureIoTHub.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
     "ip_address": "51.116.145.192/27",
     "ip_type": "IPv4",
     "service": "AzureIoTHub.GermanyWestCentral",
@@ -26,6 +44,24 @@
   {
     "ip_address": "51.116.251.128/27",
     "ip_type": "IPv4",
+    "service": "AzureIoTHub.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "2603:1020:c04:e::20/125",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "2603:1020:c04:e::40/122",
+    "ip_type": "IPv6",
+    "service": "AzureIoTHub.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "2603:1020:c04:e::80/121",
+    "ip_type": "IPv6",
     "service": "AzureIoTHub.GermanyWestCentral",
     "region": "germanywc"
   },

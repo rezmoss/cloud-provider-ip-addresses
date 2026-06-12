@@ -18,4 +18,5 @@ ip_address,ip_type,service,region
 2603:1040:1104:5::200/123,IPv6,AzureMonitor.JioIndiaCentral,jioindiacentral
 2603:1040:1104:5::240/122,IPv6,AzureMonitor.JioIndiaCentral,jioindiacentral
 2603:1040:1104:6::640/123,IPv6,AzureMonitor.JioIndiaCentral,jioindiacentral
+2603:1040:1104:7::3c0/123,IPv6,AzureMonitor.JioIndiaCentral,jioindiacentral
 2603:1040:1104:400::460/123,IPv6,AzureMonitor.JioIndiaCentral,jioindiacentral
