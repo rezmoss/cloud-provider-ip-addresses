@@ -115,6 +115,11 @@
     "service": "duckduckbot"
   },
   {
+    "ip_address": "4.237.155.54/32",
+    "ip_type": "IPv4",
+    "service": "duckduckbot"
+  },
+  {
     "ip_address": "4.237.244.80/32",
     "ip_type": "IPv4",
     "service": "duckduckbot"
@@ -540,6 +545,11 @@
     "service": "duckduckbot"
   },
   {
+    "ip_address": "20.93.49.96/32",
+    "ip_type": "IPv4",
+    "service": "duckduckbot"
+  },
+  {
     "ip_address": "20.99.154.113/32",
     "ip_type": "IPv4",
     "service": "duckduckbot"
@@ -720,7 +730,22 @@
     "service": "duckduckbot"
   },
   {
+    "ip_address": "20.198.132.126/32",
+    "ip_type": "IPv4",
+    "service": "duckduckbot"
+  },
+  {
+    "ip_address": "20.198.152.208/32",
+    "ip_type": "IPv4",
+    "service": "duckduckbot"
+  },
+  {
     "ip_address": "20.201.15.208/32",
+    "ip_type": "IPv4",
+    "service": "duckduckbot"
+  },
+  {
+    "ip_address": "20.204.228.200/32",
     "ip_type": "IPv4",
     "service": "duckduckbot"
   },
@@ -795,7 +820,17 @@
     "service": "duckduckbot"
   },
   {
+    "ip_address": "20.207.117.66/32",
+    "ip_type": "IPv4",
+    "service": "duckduckbot"
+  },
+  {
     "ip_address": "20.212.90.107/32",
+    "ip_type": "IPv4",
+    "service": "duckduckbot"
+  },
+  {
+    "ip_address": "20.212.139.34/32",
     "ip_type": "IPv4",
     "service": "duckduckbot"
   },
@@ -866,6 +901,11 @@
   },
   {
     "ip_address": "20.246.132.168/32",
+    "ip_type": "IPv4",
+    "service": "duckduckbot"
+  },
+  {
+    "ip_address": "20.247.235.11/32",
     "ip_type": "IPv4",
     "service": "duckduckbot"
   },
@@ -1111,6 +1151,11 @@
   },
   {
     "ip_address": "51.8.253.152/32",
+    "ip_type": "IPv4",
+    "service": "duckduckbot"
+  },
+  {
+    "ip_address": "51.104.144.31/32",
     "ip_type": "IPv4",
     "service": "duckduckbot"
   },
@@ -1745,12 +1790,32 @@
     "service": "duckduckbot"
   },
   {
+    "ip_address": "72.144.95.185/32",
+    "ip_type": "IPv4",
+    "service": "duckduckbot"
+  },
+  {
+    "ip_address": "74.163.169.106/32",
+    "ip_type": "IPv4",
+    "service": "duckduckbot"
+  },
+  {
+    "ip_address": "74.163.208.206/32",
+    "ip_type": "IPv4",
+    "service": "duckduckbot"
+  },
+  {
     "ip_address": "74.179.232.116/32",
     "ip_type": "IPv4",
     "service": "duckduckbot"
   },
   {
     "ip_address": "74.242.194.48/32",
+    "ip_type": "IPv4",
+    "service": "duckduckbot"
+  },
+  {
+    "ip_address": "98.70.219.37/32",
     "ip_type": "IPv4",
     "service": "duckduckbot"
   },
@@ -1831,6 +1896,11 @@
   },
   {
     "ip_address": "135.234.221.112/32",
+    "ip_type": "IPv4",
+    "service": "duckduckbot"
+  },
+  {
+    "ip_address": "135.235.183.95/32",
     "ip_type": "IPv4",
     "service": "duckduckbot"
   },

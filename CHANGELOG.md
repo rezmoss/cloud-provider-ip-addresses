@@ -2,6 +2,32 @@
 
 Daily IP range changes across all providers.
 
+## 2026-06-13
+
+### mullvad
+- Added: 5 CIDRs
+- Removed: 5 CIDRs
+
+### tor
+- Added: 3 CIDRs
+- Removed: 5 CIDRs
+
+### alibaba
+- Added: 0 CIDRs
+- Removed: 6 CIDRs
+
+### duckduckbot
+- Added: 14 CIDRs
+- Removed: 0 CIDRs
+
+### tencent
+- Added: 1 CIDRs
+- Removed: 0 CIDRs
+
+### aws
+- Added: 4 CIDRs
+- Removed: 1 CIDRs
+
 ## 2026-06-12
 
 ### aws

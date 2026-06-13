@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-12T03:22:52.760670",
+  "generated": "2026-06-13T03:20:45.468511",
   "provider_count": 29,
-  "total_ipv4_addresses": 390781119,
-  "total_ipv6_addresses": 5293580068929287668648367631989640,
+  "total_ipv4_addresses": 390782411,
+  "total_ipv6_addresses": 5293580061676323046770951289404296,
   "ipv4_space_coverage_pct": 9.0986,
   "providers": {
     "cloudflare": {
@@ -15,11 +15,11 @@
       "regions": 0
     },
     "aws": {
-      "ipv4_cidrs": 10321,
-      "ipv6_cidrs": 5742,
-      "total_cidrs": 16063,
-      "ipv4_addresses": 184493444,
-      "ipv6_addresses": 3301094741670840211029759098893,
+      "ipv4_cidrs": 10325,
+      "ipv6_cidrs": 5744,
+      "total_cidrs": 16069,
+      "ipv4_addresses": 184494468,
+      "ipv6_addresses": 3301094742261136021388464750605,
       "services": 26,
       "regions": 43
     },
@@ -159,10 +159,10 @@
       "regions": 0
     },
     "duckduckbot": {
-      "ipv4_cidrs": 395,
+      "ipv4_cidrs": 409,
       "ipv6_cidrs": 0,
-      "total_cidrs": 395,
-      "ipv4_addresses": 395,
+      "total_cidrs": 409,
+      "ipv4_addresses": 409,
       "ipv6_addresses": 0,
       "services": 1,
       "regions": 0
@@ -232,27 +232,27 @@
     },
     "alibaba": {
       "ipv4_cidrs": 2074,
-      "ipv6_cidrs": 236,
-      "total_cidrs": 2310,
+      "ipv6_cidrs": 230,
+      "total_cidrs": 2304,
       "ipv4_addresses": 30941952,
-      "ipv6_addresses": 87642092790651018308830982307840,
+      "ipv6_addresses": 87642085537096100621055934070784,
       "services": 3,
       "regions": 1
     },
     "tencent": {
-      "ipv4_cidrs": 3315,
+      "ipv4_cidrs": 3316,
       "ipv6_cidrs": 73,
-      "total_cidrs": 3388,
-      "ipv4_addresses": 14790912,
+      "total_cidrs": 3389,
+      "ipv4_addresses": 14791168,
       "ipv6_addresses": 192297785497000989674637885440,
       "services": 2,
       "regions": 1
     },
     "tor": {
-      "ipv4_cidrs": 1264,
+      "ipv4_cidrs": 1262,
       "ipv6_cidrs": 0,
-      "total_cidrs": 1264,
-      "ipv4_addresses": 1264,
+      "total_cidrs": 1262,
+      "ipv4_addresses": 1262,
       "ipv6_addresses": 0,
       "services": 1,
       "regions": 1

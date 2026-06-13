@@ -1,6 +1,6 @@
 # Applebot IP Ranges (Auto-Updated Daily)
 
-> Last updated: **2026-06-12** · Total CIDRs: **12** · IPv4: **12** · IPv6: **0** · Services: **1**
+> Last updated: **2026-06-13** · Total CIDRs: **12** · IPv4: **12** · IPv6: **0** · Services: **1**
 
 Machine-readable, daily-updated, validated public IP ranges for **Applebot**.
 Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and Apache.
