@@ -2,6 +2,36 @@
 
 Daily IP range changes across all providers.
 
+## 2026-06-14
+
+### datadog
+- Added: 150 CIDRs
+- Removed: 0 CIDRs
+
+### scaleway
+- Added: 61 CIDRs
+- Removed: 0 CIDRs
+
+### uptimerobot
+- Added: 232 CIDRs
+- Removed: 0 CIDRs
+
+### hetzner
+- Added: 686 CIDRs
+- Removed: 0 CIDRs
+
+### ibmcloud
+- Added: 411 CIDRs
+- Removed: 0 CIDRs
+
+### ovhcloud
+- Added: 716 CIDRs
+- Removed: 0 CIDRs
+
+### tor
+- Added: 2 CIDRs
+- Removed: 4 CIDRs
+
 ## 2026-06-13
 
 ### mullvad

@@ -1,10 +1,10 @@
 #!/bin/bash
 # Googlecloud IP Ranges
-# Updated: 2026-03-02 01:56:28
+# Updated: 2026-06-14 03:20:58
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
-# Updates daily at 00:00 UTC
+# Updates daily at 02:00 UTC
 # UFW allow rules for googlecloud
 
 ufw allow from 34.40.128.0/17

@@ -1,10 +1,10 @@
 #!/bin/bash
 # Aws IP Ranges
-# Updated: 2026-06-12 03:20:39
+# Updated: 2026-06-14 03:20:58
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
-# Updates daily at 00:00 UTC
+# Updates daily at 02:00 UTC
 # iptables allow rules for aws
 
 iptables -A INPUT -s 1.178.21.0/24 -j ACCEPT

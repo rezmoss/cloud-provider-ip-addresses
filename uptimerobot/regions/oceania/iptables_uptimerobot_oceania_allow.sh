@@ -1,0 +1,21 @@
+#!/bin/bash
+# Uptimerobot IP Ranges
+# Updated: 2026-06-14 03:22:18
+# Source: https://github.com/rezmoss/cloud-provider-ip-addresses
+# License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
+# This file is generated automatically. Do not edit it directly.
+# Updates daily at 02:00 UTC
+# iptables allow rules for uptimerobot
+
+iptables -A INPUT -s 3.105.133.239/32 -j ACCEPT
+iptables -A INPUT -s 3.105.190.221/32 -j ACCEPT
+iptables -A INPUT -s 54.79.28.129/32 -j ACCEPT
+iptables -A INPUT -s 170.64.250.64/32 -j ACCEPT
+iptables -A INPUT -s 170.64.250.132/32 -j ACCEPT
+iptables -A INPUT -s 170.64.250.235/32 -j ACCEPT
+ip6tables -A INPUT -s 2400:6180:10:200::56a0:b000/128 -j ACCEPT
+ip6tables -A INPUT -s 2400:6180:10:200::56a0:c000/128 -j ACCEPT
+ip6tables -A INPUT -s 2400:6180:10:200::56a0:e000/128 -j ACCEPT
+ip6tables -A INPUT -s 2406:da1c:9c8:dc02:7ae1:f2ea:ab91:2fde/128 -j ACCEPT
+ip6tables -A INPUT -s 2406:da1c:9c8:dc02:7db9:f38b:7b9f:402e/128 -j ACCEPT
+ip6tables -A INPUT -s 2406:da1c:9c8:dc02:82b2:f0fd:ee96:579/128 -j ACCEPT

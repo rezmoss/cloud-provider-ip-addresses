@@ -1,10 +1,10 @@
 #!/bin/bash
 # Meta IP Ranges
-# Updated: 2026-06-11 03:19:39
+# Updated: 2026-06-14 03:22:19
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
-# Updates daily at 00:00 UTC
+# Updates daily at 02:00 UTC
 # iptables allow rules for meta
 
 iptables -A INPUT -s 163.114.128.0/20 -j ACCEPT

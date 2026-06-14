@@ -1,0 +1,3 @@
+ip_address,ip_type,service
+3.233.144.0/20,IPv4,agents
+2600:1f18:24e6:b900::/56,IPv6,agents

@@ -1,0 +1,20 @@
+-- SQL script to create table `uptimerobot_oceania_ips` and insert IP addresses
+
+CREATE TABLE IF NOT EXISTS `uptimerobot_oceania_ips` (
+  `ip_address` VARCHAR(45) NOT NULL,
+  `ip_type` VARCHAR(10) NOT NULL,
+  PRIMARY KEY (`ip_address`)
+);
+
+INSERT INTO `uptimerobot_oceania_ips` (`ip_address`, `ip_type`) VALUES ('3.105.133.239/32', 'IPv4');
+INSERT INTO `uptimerobot_oceania_ips` (`ip_address`, `ip_type`) VALUES ('3.105.190.221/32', 'IPv4');
+INSERT INTO `uptimerobot_oceania_ips` (`ip_address`, `ip_type`) VALUES ('54.79.28.129/32', 'IPv4');
+INSERT INTO `uptimerobot_oceania_ips` (`ip_address`, `ip_type`) VALUES ('170.64.250.64/32', 'IPv4');
+INSERT INTO `uptimerobot_oceania_ips` (`ip_address`, `ip_type`) VALUES ('170.64.250.132/32', 'IPv4');
+INSERT INTO `uptimerobot_oceania_ips` (`ip_address`, `ip_type`) VALUES ('170.64.250.235/32', 'IPv4');
+INSERT INTO `uptimerobot_oceania_ips` (`ip_address`, `ip_type`) VALUES ('2400:6180:10:200::56a0:b000/128', 'IPv6');
+INSERT INTO `uptimerobot_oceania_ips` (`ip_address`, `ip_type`) VALUES ('2400:6180:10:200::56a0:c000/128', 'IPv6');
+INSERT INTO `uptimerobot_oceania_ips` (`ip_address`, `ip_type`) VALUES ('2400:6180:10:200::56a0:e000/128', 'IPv6');
+INSERT INTO `uptimerobot_oceania_ips` (`ip_address`, `ip_type`) VALUES ('2406:da1c:9c8:dc02:7ae1:f2ea:ab91:2fde/128', 'IPv6');
+INSERT INTO `uptimerobot_oceania_ips` (`ip_address`, `ip_type`) VALUES ('2406:da1c:9c8:dc02:7db9:f38b:7b9f:402e/128', 'IPv6');
+INSERT INTO `uptimerobot_oceania_ips` (`ip_address`, `ip_type`) VALUES ('2406:da1c:9c8:dc02:82b2:f0fd:ee96:579/128', 'IPv6');

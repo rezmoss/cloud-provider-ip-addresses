@@ -1,0 +1,200 @@
+[
+  {
+    "ip_address": "37.160.0.0/14",
+    "ip_type": "IPv4",
+    "service": "scaleway-as29447",
+    "region": "global"
+  },
+  {
+    "ip_address": "37.160.0.0/15",
+    "ip_type": "IPv4",
+    "service": "scaleway-as29447",
+    "region": "global"
+  },
+  {
+    "ip_address": "37.160.0.0/16",
+    "ip_type": "IPv4",
+    "service": "scaleway-as29447",
+    "region": "global"
+  },
+  {
+    "ip_address": "37.161.0.0/16",
+    "ip_type": "IPv4",
+    "service": "scaleway-as29447",
+    "region": "global"
+  },
+  {
+    "ip_address": "37.162.0.0/15",
+    "ip_type": "IPv4",
+    "service": "scaleway-as29447",
+    "region": "global"
+  },
+  {
+    "ip_address": "37.162.0.0/16",
+    "ip_type": "IPv4",
+    "service": "scaleway-as29447",
+    "region": "global"
+  },
+  {
+    "ip_address": "37.163.0.0/16",
+    "ip_type": "IPv4",
+    "service": "scaleway-as29447",
+    "region": "global"
+  },
+  {
+    "ip_address": "78.208.0.0/13",
+    "ip_type": "IPv4",
+    "service": "scaleway-as29447",
+    "region": "global"
+  },
+  {
+    "ip_address": "78.208.0.0/17",
+    "ip_type": "IPv4",
+    "service": "scaleway-as29447",
+    "region": "global"
+  },
+  {
+    "ip_address": "78.208.128.0/17",
+    "ip_type": "IPv4",
+    "service": "scaleway-as29447",
+    "region": "global"
+  },
+  {
+    "ip_address": "78.209.0.0/17",
+    "ip_type": "IPv4",
+    "service": "scaleway-as29447",
+    "region": "global"
+  },
+  {
+    "ip_address": "78.209.128.0/17",
+    "ip_type": "IPv4",
+    "service": "scaleway-as29447",
+    "region": "global"
+  },
+  {
+    "ip_address": "78.210.0.0/17",
+    "ip_type": "IPv4",
+    "service": "scaleway-as29447",
+    "region": "global"
+  },
+  {
+    "ip_address": "78.210.128.0/17",
+    "ip_type": "IPv4",
+    "service": "scaleway-as29447",
+    "region": "global"
+  },
+  {
+    "ip_address": "78.211.0.0/17",
+    "ip_type": "IPv4",
+    "service": "scaleway-as29447",
+    "region": "global"
+  },
+  {
+    "ip_address": "78.211.128.0/17",
+    "ip_type": "IPv4",
+    "service": "scaleway-as29447",
+    "region": "global"
+  },
+  {
+    "ip_address": "81.56.0.0/15",
+    "ip_type": "IPv4",
+    "service": "scaleway-as29447",
+    "region": "global"
+  },
+  {
+    "ip_address": "81.56.0.0/16",
+    "ip_type": "IPv4",
+    "service": "scaleway-as29447",
+    "region": "global"
+  },
+  {
+    "ip_address": "81.57.0.0/16",
+    "ip_type": "IPv4",
+    "service": "scaleway-as29447",
+    "region": "global"
+  },
+  {
+    "ip_address": "83.158.0.0/16",
+    "ip_type": "IPv4",
+    "service": "scaleway-as29447",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a01:e09::/32",
+    "ip_type": "IPv6",
+    "service": "scaleway-as29447",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a01:e10::/30",
+    "ip_type": "IPv6",
+    "service": "scaleway-as29447",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a01:e11::/32",
+    "ip_type": "IPv6",
+    "service": "scaleway-as29447",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a01:e11::/36",
+    "ip_type": "IPv6",
+    "service": "scaleway-as29447",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a01:e11:1000::/36",
+    "ip_type": "IPv6",
+    "service": "scaleway-as29447",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a01:e11:2000::/36",
+    "ip_type": "IPv6",
+    "service": "scaleway-as29447",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a01:e11:3000::/36",
+    "ip_type": "IPv6",
+    "service": "scaleway-as29447",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a01:e11:4000::/36",
+    "ip_type": "IPv6",
+    "service": "scaleway-as29447",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a01:e11:5000::/36",
+    "ip_type": "IPv6",
+    "service": "scaleway-as29447",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a01:e11:6000::/36",
+    "ip_type": "IPv6",
+    "service": "scaleway-as29447",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a01:e11:7000::/36",
+    "ip_type": "IPv6",
+    "service": "scaleway-as29447",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a01:e11:8000::/36",
+    "ip_type": "IPv6",
+    "service": "scaleway-as29447",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a01:e11:9000::/36",
+    "ip_type": "IPv6",
+    "service": "scaleway-as29447",
+    "region": "global"
+  }
+]

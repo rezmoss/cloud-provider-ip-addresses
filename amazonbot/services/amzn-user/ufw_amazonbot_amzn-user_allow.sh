@@ -1,10 +1,10 @@
 #!/bin/bash
 # Amazonbot IP Ranges
-# Updated: 2026-06-09 22:59:50
+# Updated: 2026-06-14 03:22:16
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
-# Updates daily at 00:00 UTC
+# Updates daily at 02:00 UTC
 # UFW allow rules for amazonbot
 
 ufw allow from 3.81.194.188/32

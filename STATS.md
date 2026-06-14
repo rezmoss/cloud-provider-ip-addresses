@@ -1,10 +1,10 @@
 # IP Range Statistics
 
-Generated: 2026-06-13T03:20:45.468511
+Generated: 2026-06-14T03:23:07.053535
 
-Total IPv4 addresses: 390,782,411
-Total IPv6 addresses: 5,293,580,061,676,323,046,770,951,289,404,296
-IPv4 space coverage: 9.0986%
+Total IPv4 addresses: 405,050,650
+Total IPv6 addresses: 5,296,042,386,112,198,213,573,714,073,975,804
+IPv4 space coverage: 9.4308%
 
 | Provider | IPv4 CIDRs | IPv6 CIDRs | Total CIDRs | IPv4 Addresses | Services | Regions |
 |----------|-----------|-----------|------------|---------------|----------|--------|
@@ -19,6 +19,7 @@ IPv4 space coverage: 9.0986%
 | circleci | 47 | 0 | 47 | 3,871 | 3 | 1 |
 | cloudflare | 15 | 7 | 22 | 1,524,736 | 0 | 0 |
 | commoncrawl | 5 | 1 | 6 | 29 | 1 | 0 |
+| datadog | 157 | 9 | 166 | 38,365 | 11 | 0 |
 | digitalocean | 1,075 | 148 | 1,223 | 3,106,176 | 0 | 13 |
 | duckduckbot | 409 | 0 | 409 | 409 | 1 | 0 |
 | fastly | 19 | 2 | 21 | 304,128 | 0 | 0 |
@@ -26,16 +27,21 @@ IPv4 space coverage: 9.0986%
 | googlebot | 169 | 146 | 315 | 5,056 | 1 | 0 |
 | googlecloud | 928 | 48 | 976 | 17,429,376 | 1 | 48 |
 | gptbot | 309 | 0 | 309 | 10,016 | 3 | 0 |
+| hetzner | 679 | 7 | 686 | 3,393,280 | 3 | 1 |
+| ibmcloud | 338 | 73 | 411 | 3,753,984 | 1 | 1 |
 | linode | 5,248 | 94 | 5,342 | 1,351,424 | 0 | 38 |
 | meta | 342 | 419 | 761 | 575,488 | 3 | 1 |
 | mullvad | 569 | 558 | 1,127 | 569 | 2 | 50 |
 | oracle | 1,089 | 0 | 1,089 | 4,190,346 | 3 | 55 |
+| ovhcloud | 674 | 42 | 716 | 4,600,064 | 1 | 1 |
 | perplexitybot | 12 | 0 | 12 | 32 | 2 | 0 |
+| scaleway | 40 | 21 | 61 | 2,482,432 | 2 | 1 |
 | teamcity | 11 | 0 | 11 | 11 | 2 | 1 |
 | telegram | 9 | 5 | 14 | 11,008 | 0 | 0 |
 | tencent | 3,316 | 73 | 3,389 | 14,791,168 | 2 | 1 |
-| tor | 1,262 | 0 | 1,262 | 1,262 | 1 | 1 |
+| tor | 1,260 | 0 | 1,260 | 1,260 | 1 | 1 |
+| uptimerobot | 116 | 116 | 232 | 116 | 1 | 4 |
 | vultr | 438 | 57 | 495 | 1,025,024 | 0 | 34 |
 | zoom | 57 | 3 | 60 | 542,224 | 3 | 0 |
 
-*29 providers tracked*
+*35 providers tracked*

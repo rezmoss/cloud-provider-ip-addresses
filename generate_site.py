@@ -47,6 +47,10 @@ PROVIDER_META = {
     "meta":                {"name": "Meta (Facebook)",      "group": "asn",   "color": "#0866FF"},
     "alibaba":             {"name": "Alibaba",              "group": "asn",   "color": "#FF6A00"},
     "tencent":             {"name": "Tencent",              "group": "asn",   "color": "#0052D9"},
+    "ibmcloud":            {"name": "IBM Cloud",            "group": "asn",   "color": "#1261FE"},
+    "hetzner":             {"name": "Hetzner",              "group": "asn",   "color": "#D50C2D"},
+    "ovhcloud":            {"name": "OVHcloud",             "group": "asn",   "color": "#123F6D"},
+    "scaleway":            {"name": "Scaleway",             "group": "asn",   "color": "#4F0599"},
     "tor":                 {"name": "Tor Exit Nodes",       "group": "vpn",   "color": "#7D4698"},
     "mullvad":             {"name": "Mullvad VPN",          "group": "vpn",   "color": "#294D73"},
 }
@@ -68,6 +72,26 @@ BGP_DERIVED_NOTES = {
     "tencent": (
         "Tencent does not publish an official IP range feed. These ranges are derived from "
         "live BGP announcements of Tencent's officially registered ASNs, observed via "
+        "public BGP data sources."
+    ),
+    "ibmcloud": (
+        "IBM Cloud does not publish a single official IP range feed. These ranges are derived from "
+        "live BGP announcements of IBM Cloud's officially registered SoftLayer ASN, observed via "
+        "public BGP data sources."
+    ),
+    "hetzner": (
+        "Hetzner does not publish an official IP range feed. These ranges are derived from "
+        "live BGP announcements of Hetzner's officially registered ASNs, observed via "
+        "public BGP data sources."
+    ),
+    "ovhcloud": (
+        "OVHcloud does not publish an official IP range feed. These ranges are derived from "
+        "live BGP announcements of OVHcloud's officially registered ASN, observed via "
+        "public BGP data sources."
+    ),
+    "scaleway": (
+        "Scaleway does not publish an official IP range feed. These ranges are derived from "
+        "live BGP announcements of Scaleway's officially registered ASNs, observed via "
         "public BGP data sources."
     ),
 }

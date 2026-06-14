@@ -1,0 +1,12 @@
+[
+  {
+    "ip_address": "3.233.144.0/20",
+    "ip_type": "IPv4",
+    "service": "remote-configuration"
+  },
+  {
+    "ip_address": "2600:1f18:24e6:b900::/56",
+    "ip_type": "IPv6",
+    "service": "remote-configuration"
+  }
+]

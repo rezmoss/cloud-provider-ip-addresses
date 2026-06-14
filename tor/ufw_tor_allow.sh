@@ -1,10 +1,10 @@
 #!/bin/bash
 # Tor IP Ranges
-# Updated: 2026-06-13 03:20:06
+# Updated: 2026-06-14 03:22:29
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
-# Updates daily at 00:00 UTC
+# Updates daily at 02:00 UTC
 # UFW allow rules for tor
 
 ufw allow from 2.27.63.137/32
@@ -475,10 +475,10 @@ ufw allow from 83.97.20.77/32
 ufw allow from 83.217.9.73/32
 ufw allow from 84.16.224.227/32
 ufw allow from 84.19.182.20/32
+ufw allow from 84.52.43.49/32
 ufw allow from 84.52.48.254/32
 ufw allow from 84.239.46.144/32
 ufw allow from 85.17.118.127/32
-ufw allow from 85.90.207.185/32
 ufw allow from 85.93.218.204/32
 ufw allow from 85.137.57.19/32
 ufw allow from 86.54.28.49/32
@@ -661,6 +661,7 @@ ufw allow from 109.169.33.163/32
 ufw allow from 109.228.160.190/32
 ufw allow from 109.237.27.11/32
 ufw allow from 114.35.245.150/32
+ufw allow from 116.202.158.119/32
 ufw allow from 118.163.74.160/32
 ufw allow from 121.78.28.166/32
 ufw allow from 121.127.33.253/32
@@ -676,7 +677,6 @@ ufw allow from 138.59.18.110/32
 ufw allow from 139.99.8.57/32
 ufw allow from 139.99.172.11/32
 ufw allow from 141.239.158.222/32
-ufw allow from 141.255.167.133/32
 ufw allow from 142.249.174.12/32
 ufw allow from 143.20.166.14/32
 ufw allow from 144.126.147.123/32
@@ -807,7 +807,6 @@ ufw allow from 179.43.182.232/32
 ufw allow from 179.60.149.108/32
 ufw allow from 180.149.44.109/32
 ufw allow from 180.150.226.99/32
-ufw allow from 185.11.139.198/32
 ufw allow from 185.34.33.2/32
 ufw allow from 185.35.202.222/32
 ufw allow from 185.39.207.83/32
@@ -1267,5 +1266,4 @@ ufw allow from 216.239.90.19/32
 ufw allow from 217.12.221.131/32
 ufw allow from 217.28.130.96/32
 ufw allow from 217.60.195.54/32
-ufw allow from 217.154.191.103/32
 ufw allow from 220.135.36.173/32

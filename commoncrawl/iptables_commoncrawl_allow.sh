@@ -1,10 +1,10 @@
 #!/bin/bash
 # Commoncrawl IP Ranges
-# Updated: 2026-06-09 22:59:50
+# Updated: 2026-06-14 03:22:16
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
-# Updates daily at 00:00 UTC
+# Updates daily at 02:00 UTC
 # iptables allow rules for commoncrawl
 
 iptables -A INPUT -s 3.41.188.32/29 -j ACCEPT

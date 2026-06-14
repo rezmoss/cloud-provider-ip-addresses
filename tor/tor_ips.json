@@ -2808,6 +2808,12 @@
     "region": "global"
   },
   {
+    "ip_address": "84.52.43.49/32",
+    "ip_type": "IPv4",
+    "service": "tor-exit",
+    "region": "global"
+  },
+  {
     "ip_address": "84.52.48.254/32",
     "ip_type": "IPv4",
     "service": "tor-exit",
@@ -2821,12 +2827,6 @@
   },
   {
     "ip_address": "85.17.118.127/32",
-    "ip_type": "IPv4",
-    "service": "tor-exit",
-    "region": "global"
-  },
-  {
-    "ip_address": "85.90.207.185/32",
     "ip_type": "IPv4",
     "service": "tor-exit",
     "region": "global"
@@ -3924,6 +3924,12 @@
     "region": "global"
   },
   {
+    "ip_address": "116.202.158.119/32",
+    "ip_type": "IPv4",
+    "service": "tor-exit",
+    "region": "global"
+  },
+  {
     "ip_address": "118.163.74.160/32",
     "ip_type": "IPv4",
     "service": "tor-exit",
@@ -4009,12 +4015,6 @@
   },
   {
     "ip_address": "141.239.158.222/32",
-    "ip_type": "IPv4",
-    "service": "tor-exit",
-    "region": "global"
-  },
-  {
-    "ip_address": "141.255.167.133/32",
     "ip_type": "IPv4",
     "service": "tor-exit",
     "region": "global"
@@ -4795,12 +4795,6 @@
   },
   {
     "ip_address": "180.150.226.99/32",
-    "ip_type": "IPv4",
-    "service": "tor-exit",
-    "region": "global"
-  },
-  {
-    "ip_address": "185.11.139.198/32",
     "ip_type": "IPv4",
     "service": "tor-exit",
     "region": "global"
@@ -7555,12 +7549,6 @@
   },
   {
     "ip_address": "217.60.195.54/32",
-    "ip_type": "IPv4",
-    "service": "tor-exit",
-    "region": "global"
-  },
-  {
-    "ip_address": "217.154.191.103/32",
     "ip_type": "IPv4",
     "service": "tor-exit",
     "region": "global"

@@ -1,10 +1,10 @@
 #!/bin/bash
 # Alibaba IP Ranges
-# Updated: 2026-06-11 03:19:41
+# Updated: 2026-06-14 03:22:21
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
-# Updates daily at 00:00 UTC
+# Updates daily at 02:00 UTC
 # UFW allow rules for alibaba
 
 ufw allow from 8.208.136.0/24

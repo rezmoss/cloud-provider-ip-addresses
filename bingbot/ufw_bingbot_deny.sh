@@ -1,10 +1,10 @@
 #!/bin/bash
 # Bingbot IP Ranges
-# Updated: 2026-06-09 22:59:10
+# Updated: 2026-06-14 03:21:38
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
-# Updates daily at 00:00 UTC
+# Updates daily at 02:00 UTC
 # UFW deny rules for bingbot
 
 ufw deny from 13.66.139.0/24

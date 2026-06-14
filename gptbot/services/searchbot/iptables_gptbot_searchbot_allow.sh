@@ -1,10 +1,10 @@
 #!/bin/bash
 # Gptbot IP Ranges
-# Updated: 2026-06-09 22:59:11
+# Updated: 2026-06-14 03:21:38
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
-# Updates daily at 00:00 UTC
+# Updates daily at 02:00 UTC
 # iptables allow rules for gptbot
 
 iptables -A INPUT -s 4.227.36.0/25 -j ACCEPT

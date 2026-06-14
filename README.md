@@ -5,18 +5,18 @@
 [![GitHub stars](https://img.shields.io/github/stars/rezmoss/cloud-provider-ip-addresses)](https://github.com/rezmoss/cloud-provider-ip-addresses/stargazers)
 [![GitHub license](https://img.shields.io/github/license/rezmoss/cloud-provider-ip-addresses)](https://github.com/rezmoss/cloud-provider-ip-addresses/blob/main/LICENSE)
 ![Last Updated](https://img.shields.io/github/last-commit/rezmoss/cloud-provider-ip-addresses)
-![Providers](https://img.shields.io/badge/providers-29-blue)
+![Providers](https://img.shields.io/badge/providers-35-blue)
 ![Formats](https://img.shields.io/badge/formats-12+-green)
-![Update](https://img.shields.io/badge/updated-daily%2000%3A00%20UTC-brightgreen)
+![Update](https://img.shields.io/badge/updated-daily%2002%3A00%20UTC-brightgreen)
 
-> **29 providers** | **12+ output formats** | **Merged/optimized CIDRs** | **Firewall-ready configs** | **Unified cross-provider dataset** | **Daily changelog** | **IP lookup tool** | **Go & JS client libraries**
+> **35 providers** | **12+ output formats** | **Merged/optimized CIDRs** | **Firewall-ready configs** | **Unified cross-provider dataset** | **Daily changelog** | **IP lookup tool** | **Go & JS client libraries**
 
 <!-- STATS_START -->
 <!-- This section is auto-updated by app.py on each run. Do not edit manually. -->
 
 ### Live Stats
 
-> Last updated: **2026-06-13** | Providers: **29** | Total CIDRs: **438,327** | IPv4 addresses: **390,782,411** | IPv4 space: **9.10%**
+> Last updated: **2026-06-14** | Providers: **35** | Total CIDRs: **440,597** | IPv4 addresses: **405,050,650** | IPv4 space: **9.43%**
 
 | Provider | IPv4 CIDRs | IPv6 CIDRs | Total CIDRs | IPv4 Addresses | Services | Regions |
 |----------|-----------|-----------|------------|---------------|----------|--------|
@@ -31,6 +31,7 @@
 | circleci | 47 | 0 | 47 | 3,871 | 3 | 1 |
 | cloudflare | 15 | 7 | 22 | 1,524,736 | 0 | 0 |
 | commoncrawl | 5 | 1 | 6 | 29 | 1 | 0 |
+| datadog | 157 | 9 | 166 | 38,365 | 11 | 0 |
 | digitalocean | 1,075 | 148 | 1,223 | 3,106,176 | 0 | 13 |
 | duckduckbot | 409 | 0 | 409 | 409 | 1 | 0 |
 | fastly | 19 | 2 | 21 | 304,128 | 0 | 0 |
@@ -38,15 +39,20 @@
 | googlebot | 169 | 146 | 315 | 5,056 | 1 | 0 |
 | googlecloud | 928 | 48 | 976 | 17,429,376 | 1 | 48 |
 | gptbot | 309 | 0 | 309 | 10,016 | 3 | 0 |
+| hetzner | 679 | 7 | 686 | 3,393,280 | 3 | 1 |
+| ibmcloud | 338 | 73 | 411 | 3,753,984 | 1 | 1 |
 | linode | 5,248 | 94 | 5,342 | 1,351,424 | 0 | 38 |
 | meta | 342 | 419 | 761 | 575,488 | 3 | 1 |
 | mullvad | 569 | 558 | 1,127 | 569 | 2 | 50 |
 | oracle | 1,089 | 0 | 1,089 | 4,190,346 | 3 | 55 |
+| ovhcloud | 674 | 42 | 716 | 4,600,064 | 1 | 1 |
 | perplexitybot | 12 | 0 | 12 | 32 | 2 | 0 |
+| scaleway | 40 | 21 | 61 | 2,482,432 | 2 | 1 |
 | teamcity | 11 | 0 | 11 | 11 | 2 | 1 |
 | telegram | 9 | 5 | 14 | 11,008 | 0 | 0 |
 | tencent | 3,316 | 73 | 3,389 | 14,791,168 | 2 | 1 |
-| tor | 1,262 | 0 | 1,262 | 1,262 | 1 | 1 |
+| tor | 1,260 | 0 | 1,260 | 1,260 | 1 | 1 |
+| uptimerobot | 116 | 116 | 232 | 116 | 1 | 4 |
 | vultr | 438 | 57 | 495 | 1,025,024 | 0 | 34 |
 | zoom | 57 | 3 | 60 | 542,224 | 3 | 0 |
 
@@ -103,7 +109,7 @@ There are other cloud IP range repos out there. Here's what makes this one diffe
 | IP lookup tool | `lookup.py` — "which cloud owns this IP?" | Separate projects |
 | Changelog | Daily diff tracking (CIDRs added/removed) | Rare |
 | Statistics | `STATS.md` + `summary.json` with IPv4 space coverage | Rare |
-| Update frequency | Daily at 00:00 UTC | Varies |
+| Update frequency | Daily at 02:00 UTC | Varies |
 | Firewall-ready configs | Nginx, Apache, iptables, nftables, UFW, HAProxy, Caddy | Usually 0-1 |
 
 ---
@@ -198,6 +204,10 @@ python3 lookup.py --data-dir . 13.32.0.1
 | **Meta (Facebook / Instagram / WhatsApp)** | IPv4 + IPv6 | AS32934, AS63293, AS54115 | BGP announcements via public BGP data |
 | **Alibaba (Alibaba Cloud / Group)** | IPv4 + IPv6 | AS45102, AS37963, AS134963 | BGP announcements via public BGP data |
 | **Tencent (Tencent Cloud / Group)** | IPv4 + IPv6 | AS45090, AS132203 | BGP announcements via public BGP data |
+| **IBM Cloud (SoftLayer)** | IPv4 + IPv6 | AS36351 | BGP announcements via public BGP data |
+| **Hetzner** | IPv4 + IPv6 | AS24940, AS213230, AS212317 | BGP announcements via public BGP data |
+| **OVHcloud** | IPv4 + IPv6 | AS16276 | BGP announcements via public BGP data |
+| **Scaleway** | IPv4 + IPv6 | AS12876, AS29447 | BGP announcements via public BGP data |
 
 ### Per-Provider Pages
 
@@ -219,6 +229,7 @@ Each provider has its own page with quick-use snippets, sample CIDRs, and links 
 | **CircleCI** | [`circleci/`](./circleci/) |
 | **Cloudflare** | [`cloudflare/`](./cloudflare/) |
 | **Common Crawl (CCBot)** | [`commoncrawl/`](./commoncrawl/) |
+| **Datadog** | [`datadog/`](./datadog/) |
 | **DigitalOcean** | [`digitalocean/`](./digitalocean/) |
 | **DuckDuckBot** | [`duckduckbot/`](./duckduckbot/) |
 | **Fastly** | [`fastly/`](./fastly/) |
@@ -226,15 +237,20 @@ Each provider has its own page with quick-use snippets, sample CIDRs, and links 
 | **Googlebot** | [`googlebot/`](./googlebot/) |
 | **Google Cloud Platform** | [`googlecloud/`](./googlecloud/) |
 | **OpenAI GPTBot / ChatGPT-User / SearchBot** | [`gptbot/`](./gptbot/) |
+| **Hetzner** | [`hetzner/`](./hetzner/) |
+| **IBM Cloud (SoftLayer)** | [`ibmcloud/`](./ibmcloud/) |
 | **Linode (Akamai)** | [`linode/`](./linode/) |
 | **Meta (Facebook / Instagram / WhatsApp)** | [`meta/`](./meta/) |
 | **Mullvad VPN** | [`mullvad/`](./mullvad/) |
 | **Oracle Cloud Infrastructure** | [`oracle/`](./oracle/) |
+| **OVHcloud** | [`ovhcloud/`](./ovhcloud/) |
 | **PerplexityBot** | [`perplexitybot/`](./perplexitybot/) |
+| **Scaleway** | [`scaleway/`](./scaleway/) |
 | **TeamCity Cloud** | [`teamcity/`](./teamcity/) |
 | **Telegram** | [`telegram/`](./telegram/) |
 | **Tencent (Tencent Cloud / Tencent Group)** | [`tencent/`](./tencent/) |
 | **Tor Exit Nodes** | [`tor/`](./tor/) |
+| **UptimeRobot** | [`uptimerobot/`](./uptimerobot/) |
 | **Vultr** | [`vultr/`](./vultr/) |
 | **Zoom** | [`zoom/`](./zoom/) |
 
@@ -394,7 +410,7 @@ npx cloudip get cloudflare
 
 Full API, browser usage, and configuration: [js-cloudip README](https://github.com/rezmoss/js-cloudip).
 
-> Note: the libraries currently cover the six major cloud providers above. The full 29-provider dataset (CDNs, SaaS, bots/crawlers, VPNs, BGP-derived networks) remains available as raw files in this repo.
+> Note: the libraries currently cover the six major cloud providers above. The full 35-provider dataset (CDNs, SaaS, bots/crawlers, VPNs, BGP-derived networks) remains available as raw files in this repo.
 
 ---
 
@@ -464,9 +480,15 @@ cloud-provider-ip-addresses/
 ├── atlassian/            (all formats + services + regions)
 ├── circleci/             (all formats + services)
 ├── teamcity/             (all formats + services + regions)
+├── datadog/              (all formats + services)
+├── uptimerobot/          (all formats + services + regions)
 ├── meta/                 (all formats + services; BGP/ASN-derived)
 ├── alibaba/              (all formats + services; BGP/ASN-derived)
 ├── tencent/              (all formats + services; BGP/ASN-derived)
+├── ibmcloud/             (all formats + services; BGP/ASN-derived)
+├── hetzner/              (all formats + services; BGP/ASN-derived)
+├── ovhcloud/             (all formats + services; BGP/ASN-derived)
+├── scaleway/             (all formats + services; BGP/ASN-derived)
 ├── tor/                  (all formats; official Tor Project exit list)
 ├── mullvad/              (all formats + services + regions)
 ├── all_providers/
@@ -635,7 +657,7 @@ curl -sL https://raw.githubusercontent.com/rezmoss/cloud-provider-ip-addresses/m
 
 ## Automating Updates
 
-All data updates daily at **00:00 UTC**. Set up your systems to pull the latest:
+All data updates daily at **02:00 UTC**. Set up your systems to pull the latest:
 
 ### Clone and schedule
 

@@ -1,10 +1,10 @@
 #!/bin/bash
 # Zoom IP Ranges
-# Updated: 2026-04-17 00:35:11
+# Updated: 2026-06-14 03:22:16
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
-# Updates daily at 00:00 UTC
+# Updates daily at 02:00 UTC
 # iptables deny rules for zoom
 
 iptables -A INPUT -s 3.7.35.0/25 -j DROP
