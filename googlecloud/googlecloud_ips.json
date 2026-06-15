@@ -5352,7 +5352,7 @@
     "region": "asia-east1"
   },
   {
-    "ip_address": "136.23.64.0/19",
+    "ip_address": "136.23.64.0/18",
     "ip_type": "IPv4",
     "service": "Google Cloud",
     "region": "us-east4"
@@ -5392,6 +5392,24 @@
     "ip_type": "IPv4",
     "service": "Google Cloud",
     "region": "us-west1"
+  },
+  {
+    "ip_address": "136.70.64.0/18",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "us-east4"
+  },
+  {
+    "ip_address": "136.70.128.0/17",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "us-east4"
+  },
+  {
+    "ip_address": "136.71.0.0/16",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "us-central1"
   },
   {
     "ip_address": "136.107.0.0/16",

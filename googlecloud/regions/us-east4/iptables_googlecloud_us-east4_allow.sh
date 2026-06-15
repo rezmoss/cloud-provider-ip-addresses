@@ -1,6 +1,6 @@
 #!/bin/bash
 # Googlecloud IP Ranges
-# Updated: 2026-06-14 03:20:58
+# Updated: 2026-06-15 03:22:37
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -52,6 +52,8 @@ iptables -A INPUT -s 35.236.192.0/18 -j ACCEPT
 iptables -A INPUT -s 35.242.60.0/22 -j ACCEPT
 iptables -A INPUT -s 35.243.40.0/21 -j ACCEPT
 iptables -A INPUT -s 35.245.0.0/16 -j ACCEPT
-iptables -A INPUT -s 136.23.64.0/19 -j ACCEPT
+iptables -A INPUT -s 136.23.64.0/18 -j ACCEPT
+iptables -A INPUT -s 136.70.64.0/18 -j ACCEPT
+iptables -A INPUT -s 136.70.128.0/17 -j ACCEPT
 iptables -A INPUT -s 136.107.0.0/16 -j ACCEPT
 ip6tables -A INPUT -s 2600:1900:4090::/44 -j ACCEPT
