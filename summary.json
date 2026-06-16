@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-15T03:24:50.114318",
+  "generated": "2026-06-16T03:23:27.333118",
   "provider_count": 35,
-  "total_ipv4_addresses": 405173011,
-  "total_ipv6_addresses": 5296042386112198213573714073975804,
-  "ipv4_space_coverage_pct": 9.4337,
+  "total_ipv4_addresses": 405303579,
+  "total_ipv6_addresses": 5296042390962068591480839708441594,
+  "ipv4_space_coverage_pct": 9.4367,
   "providers": {
     "cloudflare": {
       "ipv4_cidrs": 15,
@@ -15,11 +15,11 @@
       "regions": 0
     },
     "aws": {
-      "ipv4_cidrs": 10325,
-      "ipv6_cidrs": 5744,
-      "total_cidrs": 16069,
-      "ipv4_addresses": 184494468,
-      "ipv6_addresses": 3301094742261136021388464750605,
+      "ipv4_cidrs": 10336,
+      "ipv6_cidrs": 5749,
+      "total_cidrs": 16085,
+      "ipv4_addresses": 184628628,
+      "ipv6_addresses": 3301099592131513928514099216397,
       "services": 26,
       "regions": 43
     },
@@ -123,10 +123,10 @@
       "regions": 0
     },
     "apple_private_relay": {
-      "ipv4_cidrs": 41800,
+      "ipv4_cidrs": 41803,
       "ipv6_cidrs": 245128,
-      "total_cidrs": 286928,
-      "ipv4_addresses": 105778,
+      "total_cidrs": 286931,
+      "ipv4_addresses": 105781,
       "ipv6_addresses": 218620534098928886235336278016,
       "services": 0,
       "regions": 1279
@@ -141,10 +141,10 @@
       "regions": 0
     },
     "vultr": {
-      "ipv4_cidrs": 438,
+      "ipv4_cidrs": 437,
       "ipv6_cidrs": 57,
-      "total_cidrs": 495,
-      "ipv4_addresses": 1025024,
+      "total_cidrs": 494,
+      "ipv4_addresses": 1020928,
       "ipv6_addresses": 5193704402404124203976202506993664,
       "services": 0,
       "regions": 34
@@ -285,10 +285,10 @@
       "regions": 1
     },
     "ovhcloud": {
-      "ipv4_cidrs": 672,
+      "ipv4_cidrs": 674,
       "ipv6_cidrs": 42,
-      "total_cidrs": 714,
-      "ipv4_addresses": 4599552,
+      "total_cidrs": 716,
+      "ipv4_addresses": 4600064,
       "ipv6_addresses": 318191693574209628041014935552,
       "services": 1,
       "regions": 1
@@ -303,20 +303,20 @@
       "regions": 1
     },
     "tor": {
-      "ipv4_cidrs": 1253,
+      "ipv4_cidrs": 1244,
       "ipv6_cidrs": 0,
-      "total_cidrs": 1253,
-      "ipv4_addresses": 1253,
+      "total_cidrs": 1244,
+      "ipv4_addresses": 1244,
       "ipv6_addresses": 0,
       "services": 1,
       "regions": 1
     },
     "mullvad": {
-      "ipv4_cidrs": 569,
-      "ipv6_cidrs": 558,
-      "total_cidrs": 1127,
-      "ipv4_addresses": 569,
-      "ipv6_addresses": 558,
+      "ipv4_cidrs": 567,
+      "ipv6_cidrs": 556,
+      "total_cidrs": 1123,
+      "ipv4_addresses": 567,
+      "ipv6_addresses": 556,
       "services": 2,
       "regions": 50
     }

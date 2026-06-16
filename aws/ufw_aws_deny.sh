@@ -1,6 +1,6 @@
 #!/bin/bash
 # Aws IP Ranges
-# Updated: 2026-06-14 03:20:56
+# Updated: 2026-06-16 03:20:24
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -5131,11 +5131,13 @@ ufw deny from 40.32.0.0/16
 ufw deny from 40.35.0.0/16
 ufw deny from 40.38.0.0/16
 ufw deny from 40.38.0.0/16
+ufw deny from 40.38.204.0/23
 ufw deny from 40.39.0.0/16
 ufw deny from 40.138.216.0/22
 ufw deny from 40.143.64.0/21
 ufw deny from 40.164.0.0/16
 ufw deny from 40.164.0.0/16
+ufw deny from 40.164.2.0/23
 ufw deny from 40.165.0.0/16
 ufw deny from 40.166.0.0/16
 ufw deny from 40.167.0.0/16
@@ -5489,6 +5491,8 @@ ufw deny from 45.33.175.0/24
 ufw deny from 45.33.176.0/24
 ufw deny from 45.33.177.0/24
 ufw deny from 45.33.178.0/24
+ufw deny from 45.33.179.0/24
+ufw deny from 45.33.180.0/24
 ufw deny from 45.34.0.0/15
 ufw deny from 45.57.128.0/18
 ufw deny from 45.57.128.0/18
@@ -7933,12 +7937,14 @@ ufw deny from 63.246.119.0/24
 ufw deny from 63.246.119.0/24
 ufw deny from 63.246.120.0/21
 ufw deny from 63.246.120.0/21
-ufw deny from 64.73.192.0/24
-ufw deny from 64.73.192.0/24
+ufw deny from 63.249.154.0/24
+ufw deny from 63.249.154.0/24
+ufw deny from 63.249.155.0/24
+ufw deny from 63.249.155.0/24
+ufw deny from 63.249.156.0/24
+ufw deny from 63.249.156.0/24
 ufw deny from 64.73.193.0/24
 ufw deny from 64.73.193.0/24
-ufw deny from 64.73.194.0/24
-ufw deny from 64.73.194.0/24
 ufw deny from 64.73.195.0/24
 ufw deny from 64.73.195.0/24
 ufw deny from 64.73.196.0/24
@@ -8277,6 +8283,8 @@ ufw deny from 69.107.12.240/29
 ufw deny from 69.107.12.248/29
 ufw deny from 69.107.13.0/29
 ufw deny from 69.107.13.8/29
+ufw deny from 69.107.13.16/29
+ufw deny from 69.107.13.24/29
 ufw deny from 69.230.192.0/18
 ufw deny from 69.230.192.0/18
 ufw deny from 69.230.219.0/24
@@ -8414,6 +8422,7 @@ ufw deny from 88.104.0.0/15
 ufw deny from 88.106.0.0/15
 ufw deny from 88.108.0.0/14
 ufw deny from 89.48.0.0/13
+ufw deny from 89.60.0.0/15
 ufw deny from 89.60.0.0/15
 ufw deny from 93.77.128.0/19
 ufw deny from 93.77.128.0/19
@@ -9233,6 +9242,8 @@ ufw deny from 120.253.245.128/26
 ufw deny from 120.253.245.128/26
 ufw deny from 120.253.245.192/27
 ufw deny from 120.253.245.192/27
+ufw deny from 121.91.98.0/23
+ufw deny from 121.91.98.0/23
 ufw deny from 122.200.61.0/24
 ufw deny from 122.200.61.0/24
 ufw deny from 122.248.192.0/18
@@ -11897,6 +11908,7 @@ ufw deny from 2600:1f01:4900:700::/56
 ufw deny from 2600:1f01:4900:800::/56
 ufw deny from 2600:1f01:4900:900::/56
 ufw deny from 2600:1f01:4900:a00::/56
+ufw deny from 2600:1f01:4900:b00::/56
 ufw deny from 2600:1f01:4902::/65
 ufw deny from 2600:1f01:4902:0:8000::/65
 ufw deny from 2600:1f01:4902:1::/65
@@ -13259,6 +13271,8 @@ ufw deny from 2600:f0f0:10::/48
 ufw deny from 2600:f0f0:11::/48
 ufw deny from 2600:f0f0:11::/48
 ufw deny from 2600:f0f0:20::/48
+ufw deny from 2600:f0f0:22::/47
+ufw deny from 2600:f0f0:22::/47
 ufw deny from 2600:f0f0:30::/44
 ufw deny from 2600:f0f0:30::/44
 ufw deny from 2600:f0f0:40::/48
@@ -14820,6 +14834,8 @@ ufw deny from 2606:7b40:1b08::/56
 ufw deny from 2606:7b40:1b08::/56
 ufw deny from 2606:7b40:1b08:100::/56
 ufw deny from 2606:7b40:1b08:100::/56
+ufw deny from 2606:7b40:1b08:200::/56
+ufw deny from 2606:7b40:1b08:200::/56
 ufw deny from 2606:7b40:1b09::/56
 ufw deny from 2606:7b40:1b09::/56
 ufw deny from 2606:7b40:1b09:100::/56

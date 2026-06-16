@@ -5,6 +5,11 @@
     "region": "KW"
   },
   {
+    "ip_address": "104.28.137.109/32",
+    "ip_type": "IPv4",
+    "region": "KW"
+  },
+  {
     "ip_address": "104.28.147.71/32",
     "ip_type": "IPv4",
     "region": "KW"

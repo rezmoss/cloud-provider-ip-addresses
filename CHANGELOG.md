@@ -2,6 +2,32 @@
 
 Daily IP range changes across all providers.
 
+## 2026-06-16
+
+### apple_private_relay
+- Added: 3 CIDRs
+- Removed: 0 CIDRs
+
+### tor
+- Added: 8 CIDRs
+- Removed: 17 CIDRs
+
+### aws
+- Added: 13 CIDRs
+- Removed: 2 CIDRs
+
+### vultr
+- Added: 0 CIDRs
+- Removed: 1 CIDRs
+
+### ovhcloud
+- Added: 3 CIDRs
+- Removed: 1 CIDRs
+
+### mullvad
+- Added: 0 CIDRs
+- Removed: 4 CIDRs
+
 ## 2026-06-15
 
 ### googlecloud

@@ -530,11 +530,6 @@
     "region": "MX-CMX"
   },
   {
-    "ip_address": "64.177.96.0/20",
-    "ip_type": "IPv4",
-    "region": "US-OH"
-  },
-  {
     "ip_address": "64.177.112.0/20",
     "ip_type": "IPv4",
     "region": "US-IL"

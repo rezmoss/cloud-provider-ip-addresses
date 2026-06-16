@@ -1,6 +1,6 @@
 #!/bin/bash
 # Aws IP Ranges
-# Updated: 2026-06-14 03:20:58
+# Updated: 2026-06-16 03:20:25
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -650,6 +650,7 @@ ufw deny from 45.33.166.0/24
 ufw deny from 45.33.167.0/24
 ufw deny from 45.33.170.0/24
 ufw deny from 45.33.176.0/24
+ufw deny from 45.33.179.0/24
 ufw deny from 46.51.208.0/22
 ufw deny from 46.51.208.0/22
 ufw deny from 50.16.0.0/15
@@ -963,12 +964,8 @@ ufw deny from 54.242.0.0/15
 ufw deny from 54.243.31.192/26
 ufw deny from 63.246.119.0/24
 ufw deny from 63.246.119.0/24
-ufw deny from 64.73.192.0/24
-ufw deny from 64.73.192.0/24
 ufw deny from 64.73.193.0/24
 ufw deny from 64.73.193.0/24
-ufw deny from 64.73.194.0/24
-ufw deny from 64.73.194.0/24
 ufw deny from 64.73.202.0/24
 ufw deny from 64.73.202.0/24
 ufw deny from 64.187.128.0/20
@@ -1022,6 +1019,8 @@ ufw deny from 69.107.12.144/29
 ufw deny from 69.107.12.152/29
 ufw deny from 69.107.12.224/29
 ufw deny from 69.107.12.232/29
+ufw deny from 69.107.13.16/29
+ufw deny from 69.107.13.24/29
 ufw deny from 70.232.92.0/22
 ufw deny from 70.232.92.0/22
 ufw deny from 72.21.192.0/19
@@ -1166,6 +1165,8 @@ ufw deny from 104.255.56.68/32
 ufw deny from 107.20.0.0/14
 ufw deny from 107.20.0.0/14
 ufw deny from 107.23.255.0/26
+ufw deny from 121.91.98.0/23
+ufw deny from 121.91.98.0/23
 ufw deny from 136.18.4.0/22
 ufw deny from 136.18.32.0/24
 ufw deny from 136.18.33.0/24
@@ -1426,6 +1427,7 @@ ufw deny from 2600:1f01:4900:700::/56
 ufw deny from 2600:1f01:4900:800::/56
 ufw deny from 2600:1f01:4900:900::/56
 ufw deny from 2600:1f01:4900:a00::/56
+ufw deny from 2600:1f01:4900:b00::/56
 ufw deny from 2600:1f10:2000::/36
 ufw deny from 2600:1f10:2000::/36
 ufw deny from 2600:1f10:4000::/36
@@ -1646,6 +1648,8 @@ ufw deny from 2600:f0f0:2::/48
 ufw deny from 2600:f0f0:2::/48
 ufw deny from 2600:f0f0:11::/48
 ufw deny from 2600:f0f0:11::/48
+ufw deny from 2600:f0f0:22::/47
+ufw deny from 2600:f0f0:22::/47
 ufw deny from 2600:f0f0:80::/48
 ufw deny from 2600:f0f0:80::/48
 ufw deny from 2600:f0f0:90:1400::/56

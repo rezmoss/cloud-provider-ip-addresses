@@ -60,6 +60,11 @@
     "region": "LA-VT"
   },
   {
+    "ip_address": "104.28.137.107/32",
+    "ip_type": "IPv4",
+    "region": "LA-VT"
+  },
+  {
     "ip_address": "104.28.139.94/32",
     "ip_type": "IPv4",
     "region": "LA-VT"

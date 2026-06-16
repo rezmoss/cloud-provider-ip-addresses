@@ -18,6 +18,7 @@ INSERT INTO `apple_private_relay_la-vt_ips` (`ip_address`, `ip_type`) VALUES ('1
 INSERT INTO `apple_private_relay_la-vt_ips` (`ip_address`, `ip_type`) VALUES ('104.28.119.47/32', 'IPv4');
 INSERT INTO `apple_private_relay_la-vt_ips` (`ip_address`, `ip_type`) VALUES ('104.28.122.46/32', 'IPv4');
 INSERT INTO `apple_private_relay_la-vt_ips` (`ip_address`, `ip_type`) VALUES ('104.28.122.47/32', 'IPv4');
+INSERT INTO `apple_private_relay_la-vt_ips` (`ip_address`, `ip_type`) VALUES ('104.28.137.107/32', 'IPv4');
 INSERT INTO `apple_private_relay_la-vt_ips` (`ip_address`, `ip_type`) VALUES ('104.28.139.94/32', 'IPv4');
 INSERT INTO `apple_private_relay_la-vt_ips` (`ip_address`, `ip_type`) VALUES ('104.28.148.190/32', 'IPv4');
 INSERT INTO `apple_private_relay_la-vt_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:4778::/45', 'IPv6');

@@ -228,3 +228,5 @@ INSERT INTO `aws_af-south-1_ips` (`ip_address`, `ip_type`) VALUES ('2606:7b40:1b
 INSERT INTO `aws_af-south-1_ips` (`ip_address`, `ip_type`) VALUES ('2606:7b40:1b08::/56', 'IPv6');
 INSERT INTO `aws_af-south-1_ips` (`ip_address`, `ip_type`) VALUES ('2606:7b40:1b08:100::/56', 'IPv6');
 INSERT INTO `aws_af-south-1_ips` (`ip_address`, `ip_type`) VALUES ('2606:7b40:1b08:100::/56', 'IPv6');
+INSERT INTO `aws_af-south-1_ips` (`ip_address`, `ip_type`) VALUES ('2606:7b40:1b08:200::/56', 'IPv6');
+INSERT INTO `aws_af-south-1_ips` (`ip_address`, `ip_type`) VALUES ('2606:7b40:1b08:200::/56', 'IPv6');
