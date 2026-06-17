@@ -35,3 +35,4 @@ INSERT INTO `vultr_de-he_ips` (`ip_address`, `ip_type`) VALUES ('209.250.232.0/2
 INSERT INTO `vultr_de-he_ips` (`ip_address`, `ip_type`) VALUES ('2001:19f0:6c00::/38', 'IPv6');
 INSERT INTO `vultr_de-he_ips` (`ip_address`, `ip_type`) VALUES ('2001:19f0:9400::/38', 'IPv6');
 INSERT INTO `vultr_de-he_ips` (`ip_address`, `ip_type`) VALUES ('2a05:f480:1800::/38', 'IPv6');
+INSERT INTO `vultr_de-he_ips` (`ip_address`, `ip_type`) VALUES ('2a05:f487:fc0a::/48', 'IPv6');

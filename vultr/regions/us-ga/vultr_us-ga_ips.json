@@ -118,5 +118,10 @@
     "ip_address": "2a05:f487:fc0d::/48",
     "ip_type": "IPv6",
     "region": "US-GA"
+  },
+  {
+    "ip_address": "2a05:f487:fc34::/48",
+    "ip_type": "IPv6",
+    "region": "US-GA"
   }
 ]

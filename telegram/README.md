@@ -1,6 +1,6 @@
 # Telegram IP Ranges (Auto-Updated Daily)
 
-> Last updated: **2026-06-16** · Total CIDRs: **14** · IPv4: **9** · IPv6: **5**
+> Last updated: **2026-06-17** · Total CIDRs: **14** · IPv4: **9** · IPv6: **5**
 
 Machine-readable, daily-updated, validated public IP ranges for **Telegram**.
 Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and Apache.

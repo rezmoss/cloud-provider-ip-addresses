@@ -98,5 +98,10 @@
     "ip_address": "2401:c080:1800::/38",
     "ip_type": "IPv6",
     "region": "AU-NSW"
+  },
+  {
+    "ip_address": "2a05:f487:fc06::/48",
+    "ip_type": "IPv6",
+    "region": "AU-NSW"
   }
 ]

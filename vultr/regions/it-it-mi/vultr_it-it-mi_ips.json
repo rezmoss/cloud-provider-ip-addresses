@@ -13,5 +13,10 @@
     "ip_address": "2a05:f480:3800::/38",
     "ip_type": "IPv6",
     "region": "IT-IT-MI"
+  },
+  {
+    "ip_address": "2a05:f487:fc35::/48",
+    "ip_type": "IPv6",
+    "region": "IT-IT-MI"
   }
 ]

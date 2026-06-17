@@ -10,3 +10,4 @@ INSERT INTO `vultr_kr-11_ips` (`ip_address`, `ip_type`) VALUES ('64.176.224.0/19
 INSERT INTO `vultr_kr-11_ips` (`ip_address`, `ip_type`) VALUES ('141.164.32.0/19', 'IPv4');
 INSERT INTO `vultr_kr-11_ips` (`ip_address`, `ip_type`) VALUES ('158.247.192.0/18', 'IPv4');
 INSERT INTO `vultr_kr-11_ips` (`ip_address`, `ip_type`) VALUES ('2401:c080:1c00::/38', 'IPv6');
+INSERT INTO `vultr_kr-11_ips` (`ip_address`, `ip_type`) VALUES ('2a05:f487:fc12::/48', 'IPv6');

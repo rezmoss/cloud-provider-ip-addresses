@@ -98,5 +98,10 @@
     "ip_address": "2a05:f480:1c00::/38",
     "ip_type": "IPv6",
     "region": "FR-93"
+  },
+  {
+    "ip_address": "2a05:f487:fc04::/48",
+    "ip_type": "IPv6",
+    "region": "FR-93"
   }
 ]

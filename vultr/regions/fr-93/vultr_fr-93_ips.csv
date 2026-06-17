@@ -19,3 +19,4 @@ ip_address,ip_type,region
 217.69.0.0/20,IPv4,FR-93
 2001:19f0:6800::/38,IPv6,FR-93
 2a05:f480:1c00::/38,IPv6,FR-93
+2a05:f487:fc04::/48,IPv6,FR-93

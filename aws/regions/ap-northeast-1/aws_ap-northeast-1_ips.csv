@@ -343,6 +343,14 @@ ip_address,ip_type,service,region
 57.181.184.192/26,IPv4,AMAZON,ap-northeast-1
 57.182.253.0/24,IPv4,CLOUDFRONT,ap-northeast-1
 57.183.42.0/25,IPv4,CLOUDFRONT,ap-northeast-1
+63.249.185.0/24,IPv4,AMAZON,ap-northeast-1
+63.249.185.0/24,IPv4,EC2,ap-northeast-1
+63.249.186.0/24,IPv4,AMAZON,ap-northeast-1
+63.249.186.0/24,IPv4,EC2,ap-northeast-1
+63.249.187.0/24,IPv4,AMAZON,ap-northeast-1
+63.249.187.0/24,IPv4,EC2,ap-northeast-1
+63.249.188.0/24,IPv4,AMAZON,ap-northeast-1
+63.249.188.0/24,IPv4,EC2,ap-northeast-1
 64.252.110.0/24,IPv4,AMAZON,ap-northeast-1
 64.252.110.0/24,IPv4,EC2,ap-northeast-1
 64.252.111.0/24,IPv4,AMAZON,ap-northeast-1

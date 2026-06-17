@@ -143,5 +143,10 @@
     "ip_address": "2001:19f0:6400::/38",
     "ip_type": "IPv6",
     "region": "US-TX"
+  },
+  {
+    "ip_address": "2a05:f487:fc0c::/48",
+    "ip_type": "IPv6",
+    "region": "US-TX"
   }
 ]

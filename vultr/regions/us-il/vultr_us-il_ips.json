@@ -188,5 +188,15 @@
     "ip_address": "2001:19f0:5c00::/38",
     "ip_type": "IPv6",
     "region": "US-IL"
+  },
+  {
+    "ip_address": "2a05:f487:fc01::/48",
+    "ip_type": "IPv6",
+    "region": "US-IL"
+  },
+  {
+    "ip_address": "2a05:f487:fc37::/48",
+    "ip_type": "IPv6",
+    "region": "US-IL"
   }
 ]

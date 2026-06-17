@@ -426,6 +426,12 @@
     "region": "global"
   },
   {
+    "ip_address": "193.105.82.0/24",
+    "ip_type": "IPv4",
+    "service": "hetzner-as24940",
+    "region": "global"
+  },
+  {
     "ip_address": "193.110.6.0/23",
     "ip_type": "IPv4",
     "service": "hetzner-as24940",

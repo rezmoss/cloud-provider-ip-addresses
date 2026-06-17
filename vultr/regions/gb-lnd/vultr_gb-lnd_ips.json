@@ -123,5 +123,10 @@
     "ip_address": "2a05:f480:1000::/38",
     "ip_type": "IPv6",
     "region": "GB-LND"
+  },
+  {
+    "ip_address": "2a05:f487:fc33::/48",
+    "ip_type": "IPv6",
+    "region": "GB-LND"
   }
 ]

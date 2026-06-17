@@ -23,6 +23,7 @@ INSERT INTO `gptbot_chatgpt-user_ips` (`ip_address`, `ip_type`) VALUES ('4.197.1
 INSERT INTO `gptbot_chatgpt-user_ips` (`ip_address`, `ip_type`) VALUES ('4.198.72.16/28', 'IPv4');
 INSERT INTO `gptbot_chatgpt-user_ips` (`ip_address`, `ip_type`) VALUES ('4.205.128.176/28', 'IPv4');
 INSERT INTO `gptbot_chatgpt-user_ips` (`ip_address`, `ip_type`) VALUES ('4.226.226.32/28', 'IPv4');
+INSERT INTO `gptbot_chatgpt-user_ips` (`ip_address`, `ip_type`) VALUES ('9.129.0.0/17', 'IPv4');
 INSERT INTO `gptbot_chatgpt-user_ips` (`ip_address`, `ip_type`) VALUES ('9.160.163.224/28', 'IPv4');
 INSERT INTO `gptbot_chatgpt-user_ips` (`ip_address`, `ip_type`) VALUES ('9.160.164.128/28', 'IPv4');
 INSERT INTO `gptbot_chatgpt-user_ips` (`ip_address`, `ip_type`) VALUES ('9.234.96.192/28', 'IPv4');

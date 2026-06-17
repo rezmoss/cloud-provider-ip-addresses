@@ -45,3 +45,6 @@ INSERT INTO `vultr_us-ca_ips` (`ip_address`, `ip_type`) VALUES ('207.246.96.0/20
 INSERT INTO `vultr_us-ca_ips` (`ip_address`, `ip_type`) VALUES ('209.222.29.0/24', 'IPv4');
 INSERT INTO `vultr_us-ca_ips` (`ip_address`, `ip_type`) VALUES ('2001:19f0:6000::/38', 'IPv6');
 INSERT INTO `vultr_us-ca_ips` (`ip_address`, `ip_type`) VALUES ('2001:19f0:ac00::/38', 'IPv6');
+INSERT INTO `vultr_us-ca_ips` (`ip_address`, `ip_type`) VALUES ('2a05:f487:fc07::/48', 'IPv6');
+INSERT INTO `vultr_us-ca_ips` (`ip_address`, `ip_type`) VALUES ('2a05:f487:fc08::/48', 'IPv6');
+INSERT INTO `vultr_us-ca_ips` (`ip_address`, `ip_type`) VALUES ('2a05:f487:fc11::/48', 'IPv6');

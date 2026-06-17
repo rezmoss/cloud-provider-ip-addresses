@@ -1,6 +1,6 @@
 #!/bin/bash
 # Tor IP Ranges
-# Updated: 2026-06-16 03:22:50
+# Updated: 2026-06-17 03:21:28
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -287,9 +287,7 @@ ufw allow from 23.191.200.121/32
 ufw allow from 23.191.200.122/32
 ufw allow from 23.191.200.123/32
 ufw allow from 23.191.200.124/32
-ufw allow from 23.236.122.193/32
 ufw allow from 23.238.70.236/32
-ufw allow from 24.203.156.90/32
 ufw allow from 31.40.204.151/32
 ufw allow from 31.44.238.25/32
 ufw allow from 31.129.22.65/32
@@ -372,6 +370,7 @@ ufw allow from 45.84.107.200/32
 ufw allow from 45.84.107.222/32
 ufw allow from 45.90.98.8/32
 ufw allow from 45.91.250.107/32
+ufw allow from 45.95.169.32/32
 ufw allow from 45.95.169.104/32
 ufw allow from 45.95.169.119/32
 ufw allow from 45.128.133.242/32
@@ -470,8 +469,6 @@ ufw allow from 83.97.20.77/32
 ufw allow from 83.217.9.73/32
 ufw allow from 84.16.224.227/32
 ufw allow from 84.19.182.20/32
-ufw allow from 84.52.19.43/32
-ufw allow from 84.52.43.49/32
 ufw allow from 84.239.46.144/32
 ufw allow from 85.17.118.127/32
 ufw allow from 85.93.218.204/32
@@ -542,6 +539,7 @@ ufw allow from 94.230.208.147/32
 ufw allow from 94.230.208.148/32
 ufw allow from 95.128.43.164/32
 ufw allow from 95.143.193.125/32
+ufw allow from 95.155.151.200/32
 ufw allow from 95.168.173.143/32
 ufw allow from 95.211.239.220/32
 ufw allow from 95.211.244.28/32
@@ -658,7 +656,7 @@ ufw allow from 109.237.27.11/32
 ufw allow from 114.35.245.150/32
 ufw allow from 116.202.158.119/32
 ufw allow from 118.163.74.160/32
-ufw allow from 121.78.28.166/32
+ufw allow from 121.127.33.165/32
 ufw allow from 121.127.33.253/32
 ufw allow from 121.127.34.40/32
 ufw allow from 123.253.35.32/32
@@ -715,6 +713,7 @@ ufw allow from 152.53.210.165/32
 ufw allow from 152.89.39.187/32
 ufw allow from 154.26.159.157/32
 ufw allow from 154.53.58.161/32
+ufw allow from 154.210.143.32/32
 ufw allow from 155.94.163.175/32
 ufw allow from 158.174.210.97/32
 ufw allow from 158.220.112.15/32

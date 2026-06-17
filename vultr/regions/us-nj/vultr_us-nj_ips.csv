@@ -64,3 +64,4 @@ ip_address,ip_type,region
 2001:19f0:4000::/38,IPv6,US-NJ
 2001:19f0:a800::/38,IPv6,US-NJ
 2a05:f487:fc00::/38,IPv6,US-NJ
+2a05:f487:fc00::/48,IPv6,US-NJ

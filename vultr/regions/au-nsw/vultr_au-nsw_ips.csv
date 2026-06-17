@@ -19,3 +19,4 @@ ip_address,ip_type,region
 207.148.80.0/21,IPv4,AU-NSW
 2001:19f0:5800::/38,IPv6,AU-NSW
 2401:c080:1800::/38,IPv6,AU-NSW
+2a05:f487:fc06::/48,IPv6,AU-NSW

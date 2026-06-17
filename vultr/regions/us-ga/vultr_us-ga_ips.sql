@@ -30,3 +30,4 @@ INSERT INTO `vultr_us-ga_ips` (`ip_address`, `ip_type`) VALUES ('173.199.108.0/2
 INSERT INTO `vultr_us-ga_ips` (`ip_address`, `ip_type`) VALUES ('2001:19f0:5400::/38', 'IPv6');
 INSERT INTO `vultr_us-ga_ips` (`ip_address`, `ip_type`) VALUES ('2001:19f0:5404::/48', 'IPv6');
 INSERT INTO `vultr_us-ga_ips` (`ip_address`, `ip_type`) VALUES ('2a05:f487:fc0d::/48', 'IPv6');
+INSERT INTO `vultr_us-ga_ips` (`ip_address`, `ip_type`) VALUES ('2a05:f487:fc34::/48', 'IPv6');

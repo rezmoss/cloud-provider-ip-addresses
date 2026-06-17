@@ -143,5 +143,10 @@
     "ip_address": "2a05:f480:1800::/38",
     "ip_type": "IPv6",
     "region": "DE-HE"
+  },
+  {
+    "ip_address": "2a05:f487:fc0a::/48",
+    "ip_type": "IPv6",
+    "region": "DE-HE"
   }
 ]

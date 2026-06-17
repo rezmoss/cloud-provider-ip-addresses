@@ -1,6 +1,6 @@
 #!/bin/bash
 # Vultr IP Ranges
-# Updated: 2026-06-16 03:21:45
+# Updated: 2026-06-17 03:21:11
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -499,5 +499,22 @@ ip6tables -A INPUT -s 2a05:f480:3400::/38 -j ACCEPT
 ip6tables -A INPUT -s 2a05:f480:3800::/38 -j ACCEPT
 ip6tables -A INPUT -s 2a05:f487:fc00::/38 -j ACCEPT
 ip6tables -A INPUT -s 2a05:f487:fc00::/48 -j ACCEPT
+ip6tables -A INPUT -s 2a05:f487:fc01::/48 -j ACCEPT
+ip6tables -A INPUT -s 2a05:f487:fc03::/48 -j ACCEPT
+ip6tables -A INPUT -s 2a05:f487:fc04::/48 -j ACCEPT
+ip6tables -A INPUT -s 2a05:f487:fc05::/48 -j ACCEPT
+ip6tables -A INPUT -s 2a05:f487:fc06::/48 -j ACCEPT
+ip6tables -A INPUT -s 2a05:f487:fc07::/48 -j ACCEPT
+ip6tables -A INPUT -s 2a05:f487:fc08::/48 -j ACCEPT
+ip6tables -A INPUT -s 2a05:f487:fc0a::/48 -j ACCEPT
+ip6tables -A INPUT -s 2a05:f487:fc0c::/48 -j ACCEPT
 ip6tables -A INPUT -s 2a05:f487:fc0d::/48 -j ACCEPT
+ip6tables -A INPUT -s 2a05:f487:fc11::/48 -j ACCEPT
+ip6tables -A INPUT -s 2a05:f487:fc12::/48 -j ACCEPT
+ip6tables -A INPUT -s 2a05:f487:fc14::/48 -j ACCEPT
+ip6tables -A INPUT -s 2a05:f487:fc19::/48 -j ACCEPT
+ip6tables -A INPUT -s 2a05:f487:fc33::/48 -j ACCEPT
+ip6tables -A INPUT -s 2a05:f487:fc34::/48 -j ACCEPT
+ip6tables -A INPUT -s 2a05:f487:fc35::/48 -j ACCEPT
 ip6tables -A INPUT -s 2a05:f487:fc36::/48 -j ACCEPT
+ip6tables -A INPUT -s 2a05:f487:fc37::/48 -j ACCEPT
