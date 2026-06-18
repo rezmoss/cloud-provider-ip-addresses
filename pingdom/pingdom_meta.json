@@ -1,0 +1,24 @@
+{
+  "provider": "pingdom",
+  "version": 1,
+  "generated_date": "2026-06-18",
+  "last_changed_date": "2026-06-18",
+  "sources": [
+    "https://my.pingdom.com/probes/ipv4",
+    "https://my.pingdom.com/probes/ipv6"
+  ],
+  "ipv4": {
+    "cidrs": 99,
+    "merged_cidrs": 98,
+    "addresses": 99
+  },
+  "ipv6": {
+    "cidrs": 57,
+    "merged_cidrs": 56,
+    "addresses": 57
+  },
+  "total_entries": 156,
+  "content_sha256": "64514bfec90c61d428a7a599f244a5aca214285033d4d002ed84d1dd61817f98",
+  "license": "CC0-1.0",
+  "license_url": "https://github.com/rezmoss/cloud-provider-ip-addresses/blob/main/LICENSE"
+}

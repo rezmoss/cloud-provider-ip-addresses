@@ -1,78 +1,92 @@
 # Cloud Provider IP Addresses
 
-**The most comprehensive, daily-updated collection of IP ranges from cloud providers, CDNs, and web crawlers — in 12+ output formats.**
+**The most comprehensive, daily-updated collection of IP ranges from cloud providers, CDNs, and web crawlers — in 13+ output formats.**
 
 [![GitHub stars](https://img.shields.io/github/stars/rezmoss/cloud-provider-ip-addresses)](https://github.com/rezmoss/cloud-provider-ip-addresses/stargazers)
 [![GitHub license](https://img.shields.io/github/license/rezmoss/cloud-provider-ip-addresses)](https://github.com/rezmoss/cloud-provider-ip-addresses/blob/main/LICENSE)
 ![Last Updated](https://img.shields.io/github/last-commit/rezmoss/cloud-provider-ip-addresses)
-![Providers](https://img.shields.io/badge/providers-35-blue)
-![Formats](https://img.shields.io/badge/formats-12+-green)
+![Providers](https://img.shields.io/badge/providers-37-blue)
+![Formats](https://img.shields.io/badge/formats-13+-green)
 ![Update](https://img.shields.io/badge/updated-daily%2002%3A00%20UTC-brightgreen)
 
-> **35 providers** | **12+ output formats** | **Merged/optimized CIDRs** | **Firewall-ready configs** | **Unified cross-provider dataset** | **Daily changelog** | **IP lookup tool** | **Go & JS client libraries**
+> **37 providers** | **13+ output formats** | **Merged/optimized CIDRs** | **Firewall-ready configs** | **Unified cross-provider dataset** | **Daily changelog** | **IP lookup tool** | **Go & JS client libraries**
 
 <!-- STATS_START -->
 <!-- This section is auto-updated by app.py on each run. Do not edit manually. -->
 
 ### Live Stats
 
-> Last updated: **2026-06-17** | Providers: **35** | Total CIDRs: **440,659** | IPv4 addresses: **405,430,815** | IPv4 space: **9.44%**
+> Last updated: **2026-06-18** | Providers: **37** | Total CIDRs: **440,947** | IPv4 addresses: **405,568,737** | IPv4 space: **9.44%**
 
 | Provider | IPv4 CIDRs | IPv6 CIDRs | Total CIDRs | IPv4 Addresses | Services | Regions |
 |----------|-----------|-----------|------------|---------------|----------|--------|
-| alibaba | 2,074 | 230 | 2,304 | 30,941,952 | 3 | 1 |
+| alibaba | 2,075 | 240 | 2,315 | 30,942,208 | 3 | 1 |
 | amazonbot | 2,059 | 0 | 2,059 | 2,059 | 3 | 0 |
 | apple_private_relay | 41,803 | 245,128 | 286,931 | 105,781 | 0 | 1279 |
 | applebot | 12 | 0 | 12 | 2,400 | 1 | 0 |
-| atlassian | 194 | 60 | 254 | 79,126 | 12 | 18 |
-| aws | 10,369 | 5,755 | 16,124 | 184,670,862 | 26 | 43 |
+| atlassian | 106 | 60 | 166 | 79,038 | 11 | 17 |
+| aws | 10,385 | 5,759 | 16,144 | 184,674,958 | 26 | 43 |
 | azure | 78,222 | 28,052 | 106,274 | 102,839,488 | 3233 | 75 |
 | bingbot | 28 | 0 | 28 | 4,736 | 1 | 0 |
 | circleci | 47 | 0 | 47 | 3,871 | 3 | 1 |
 | cloudflare | 15 | 7 | 22 | 1,524,736 | 0 | 0 |
 | commoncrawl | 5 | 1 | 6 | 29 | 1 | 0 |
 | datadog | 157 | 9 | 166 | 38,365 | 11 | 0 |
-| digitalocean | 1,075 | 148 | 1,223 | 3,106,176 | 0 | 13 |
+| digitalocean | 1,077 | 148 | 1,225 | 3,108,224 | 0 | 13 |
 | duckduckbot | 409 | 0 | 409 | 409 | 1 | 0 |
 | fastly | 19 | 2 | 21 | 304,128 | 0 | 0 |
 | github | 5,780 | 1,722 | 7,502 | 27,474,619 | 11 | 0 |
 | googlebot | 169 | 146 | 315 | 5,056 | 1 | 0 |
 | googlecloud | 931 | 48 | 979 | 17,552,256 | 1 | 48 |
 | gptbot | 310 | 0 | 310 | 42,784 | 3 | 0 |
-| hetzner | 680 | 7 | 687 | 3,393,536 | 3 | 1 |
+| hetzner | 682 | 7 | 689 | 3,524,608 | 3 | 1 |
 | ibmcloud | 338 | 73 | 411 | 3,753,984 | 1 | 1 |
 | linode | 5,248 | 94 | 5,342 | 1,351,424 | 0 | 38 |
 | meta | 343 | 420 | 763 | 576,000 | 3 | 1 |
-| mullvad | 570 | 559 | 1,129 | 570 | 2 | 50 |
+| mullvad | 571 | 560 | 1,131 | 571 | 2 | 50 |
 | oracle | 1,089 | 0 | 1,089 | 4,190,346 | 3 | 55 |
-| ovhcloud | 676 | 42 | 718 | 4,616,704 | 1 | 1 |
+| ovhcloud | 677 | 42 | 719 | 4,616,960 | 1 | 1 |
 | perplexitybot | 12 | 0 | 12 | 32 | 2 | 0 |
+| pingdom | 99 | 57 | 156 | 99 | 0 | 0 |
 | scaleway | 40 | 21 | 61 | 2,482,432 | 2 | 1 |
+| statuscake | 183 | 0 | 183 | 183 | 0 | 0 |
 | teamcity | 11 | 0 | 11 | 11 | 2 | 1 |
 | telegram | 9 | 5 | 14 | 11,008 | 0 | 0 |
 | tencent | 3,317 | 73 | 3,390 | 14,791,424 | 2 | 1 |
-| tor | 1,243 | 0 | 1,243 | 1,243 | 1 | 1 |
+| tor | 1,242 | 0 | 1,242 | 1,242 | 1 | 1 |
 | uptimerobot | 116 | 116 | 232 | 116 | 1 | 4 |
 | vultr | 437 | 74 | 511 | 1,020,928 | 0 | 34 |
 | zoom | 57 | 3 | 60 | 542,224 | 3 | 0 |
 
 <!-- STATS_END -->
 
+### Total IPv4 Coverage Over Time
+
+![Total routable IPv4 addresses tracked daily](https://raw.githubusercontent.com/rezmoss/cloud-provider-ip-addresses/main/ipv4_history.png)
+
+> Total routable IPv4 addresses across all tracked providers, **updated daily** since tracking began. Underlying data: [`stats_history.json`](stats_history.json).
+
 ---
 
 ## Table of Contents
 
 - [Why This Repo?](#why-this-repo)
+- [Total IPv4 Coverage Over Time](#total-ipv4-coverage-over-time)
 - [Quick Start](#quick-start)
+- [Download Mirrors (jsDelivr CDN)](#download-mirrors-jsdelivr-cdn)
 - [Supported Providers](#supported-providers)
   - [Cloud Providers](#cloud-providers)
   - [CDN / Hosting](#cdn--hosting)
   - [SaaS / Collaboration](#saas--collaboration)
+  - [CI/CD & Monitoring](#cicd--monitoring)
   - [Bots / Crawlers](#bots--crawlers)
+  - [VPN / Anonymizer Networks](#vpn--anonymizer-networks)
+  - [BGP / ASN-Derived Networks](#bgp--asn-derived-networks)
 - [Output Formats](#output-formats)
 - [Merged / Optimized CIDRs](#merged--optimized-cidrs)
 - [Unified Cross-Provider Data](#unified-cross-provider-data)
 - [IP Lookup Tool](#ip-lookup-tool)
+- [ip-watch — Apply & Auto-Sync to Your Servers](#ip-watch--apply--auto-sync-to-your-servers)
 - [Client Libraries (Go & JavaScript)](#client-libraries-go--javascript)
 - [Changelog & Stats](#changelog--stats)
 - [Folder Structure](#folder-structure)
@@ -102,7 +116,7 @@ There are other cloud IP range repos out there. Here's what makes this one diffe
 | Cloud providers | 10 (AWS, Azure, GCP, Cloudflare, DigitalOcean, Oracle, Fastly, GitHub, Linode, Vultr) + Apple Private Relay, Telegram | Varies |
 | Bot/crawler IPs | GoogleBot, BingBot, GPTBot/ChatGPT, AppleBot, PerplexityBot, DuckDuckBot, Amazonbot, Common Crawl | Rare |
 | SaaS / Collaboration | Zoom, Atlassian (Jira, Confluence, Bitbucket, Trello, ...) | Very rare |
-| Output formats | 12+ (TXT, JSON, CSV, SQL, Nginx, Apache, iptables, nftables, UFW, HAProxy, Caddy, merged CIDRs) | Usually 1-3 |
+| Output formats | 13+ (TXT, JSON, CSV, SQL, Nginx, Apache, iptables, nftables, UFW, HAProxy, Caddy, ipset, merged CIDRs) | Usually 1-3 |
 | Merged/optimized CIDRs | Per-provider and combined | Rare |
 | Unified cross-provider file | `all_providers.json` / `.csv` with normalized schema | Rare |
 | Service/region breakdown | Per-service and per-region files for AWS, Azure, GCP, Oracle, GitHub, GPTBot, Apple Private Relay, Vultr, PerplexityBot, Amazonbot, Zoom, Atlassian | Some |
@@ -144,6 +158,56 @@ python3 lookup.py --data-dir . 13.32.0.1
 
 ---
 
+## Download Mirrors (jsDelivr CDN)
+
+Every file in this repo is also served from the free, globally-cached **[jsDelivr](https://www.jsdelivr.com/)** CDN. Use it for faster downloads and to avoid GitHub's `raw.githubusercontent.com` rate limits — handy when many servers pull on a schedule.
+
+Swap the host and path prefix:
+
+```
+raw.githubusercontent.com/rezmoss/cloud-provider-ip-addresses/main/<path>
+        ↓
+cdn.jsdelivr.net/gh/rezmoss/cloud-provider-ip-addresses@main/<path>
+```
+
+```bash
+# Same files, via CDN
+curl -sL https://cdn.jsdelivr.net/gh/rezmoss/cloud-provider-ip-addresses@main/aws/aws_ips.txt
+curl -sL https://cdn.jsdelivr.net/gh/rezmoss/cloud-provider-ip-addresses@main/all_providers/all_providers_merged_v4.txt
+
+# Fastly-backed fallback host (same paths)
+curl -sL https://fastly.jsdelivr.net/gh/rezmoss/cloud-provider-ip-addresses@main/cloudflare/cloudflare_ips_v4.txt
+```
+
+- **`@main`** — always the latest daily data. Our update workflow purges the jsDelivr cache for key files on every push, so `@main` refreshes within minutes instead of waiting out the CDN's default cache window.
+- **`@vYYYY.MM.DD`** — pin a specific dated release for reproducible, immutable downloads (e.g. `...@v2026.06.17/aws/aws_ips.txt`).
+
+> Note: GitHub's `raw.githubusercontent.com` URLs continue to work unchanged. jsDelivr is an optional, faster mirror.
+
+### Versioned Release Bundles
+
+Each daily run also publishes a **GitHub Release** (tagged `vYYYY.MM.DD`) with the entire dataset bundled as a single download, plus SHA-256 checksums for integrity verification:
+
+```bash
+# Latest full dataset — always resolves to the most recent release
+curl -sLO https://github.com/rezmoss/cloud-provider-ip-addresses/releases/latest/download/all_providers.zip
+curl -sLO https://github.com/rezmoss/cloud-provider-ip-addresses/releases/latest/download/SHA256SUMS
+
+# Verify the bundle, then extract
+sha256sum -c SHA256SUMS --ignore-missing
+unzip all_providers.zip -d cloud-ips
+```
+
+Pin a specific date for reproducible, immutable downloads:
+
+```bash
+curl -sLO https://github.com/rezmoss/cloud-provider-ip-addresses/releases/download/v2026.06.17/all_providers.zip
+```
+
+`SHA256SUMS` lists checksums for every file in the dataset, so after extracting you can re-run `sha256sum -c SHA256SUMS` inside the extracted directory to verify all files.
+
+---
+
 ## Supported Providers
 
 ### Cloud Providers
@@ -174,6 +238,17 @@ python3 lookup.py --data-dir . 13.32.0.1
 |----------|-----|----------|--------|
 | **Zoom** | IPv4 + IPv6 | Per-service (zoom, zoom-phone, zoom-contact-center, zoom-cdn) | Zoom published IP ranges |
 | **Atlassian** | IPv4 + IPv6 | Per-product (Jira, Confluence, Bitbucket, Trello, ...) | Atlassian published IP ranges |
+
+### CI/CD & Monitoring
+
+| Provider | IPs | Services / Regions | Source |
+|----------|-----|--------------------|--------|
+| **CircleCI** | IPv4 | Per-service (incl. macOS fleet) | CircleCI published runner egress ranges |
+| **TeamCity Cloud** | IPv4 | Per-service + per-region | JetBrains TeamCity Cloud build-agent ranges |
+| **Datadog** | IPv4 + IPv6 | Per-service (synthetics, webhooks, agent, ...) | Datadog published IP ranges feed |
+| **UptimeRobot** | IPv4 + IPv6 | Per-service + per-region | UptimeRobot monitoring probe API |
+| **StatusCake** | IPv4 | — | StatusCake monitoring probe locations |
+| **Pingdom** | IPv4 + IPv6 | — | Pingdom monitoring probe IP list |
 
 ### Bots / Crawlers
 
@@ -245,7 +320,9 @@ Each provider has its own page with quick-use snippets, sample CIDRs, and links 
 | **Oracle Cloud Infrastructure** | [`oracle/`](./oracle/) |
 | **OVHcloud** | [`ovhcloud/`](./ovhcloud/) |
 | **PerplexityBot** | [`perplexitybot/`](./perplexitybot/) |
+| **Pingdom** | [`pingdom/`](./pingdom/) |
 | **Scaleway** | [`scaleway/`](./scaleway/) |
+| **StatusCake** | [`statuscake/`](./statuscake/) |
 | **TeamCity Cloud** | [`teamcity/`](./teamcity/) |
 | **Telegram** | [`telegram/`](./telegram/) |
 | **Tencent (Tencent Cloud / Tencent Group)** | [`tencent/`](./tencent/) |
@@ -275,9 +352,36 @@ Every provider gets all of these formats:
 | **UFW** | `ufw_{provider}_allow.sh`, `_deny.sh` | `ufw allow/deny from` commands |
 | **HAProxy** | `haproxy_{provider}_allow.conf` | ACL-compatible IP list |
 | **Caddy** | `caddy_{provider}_allow.conf` | `remote_ip` matcher block |
+| **ipset** | `{provider}.netset` | `ipset restore`-loadable `hash:net` sets (IPv4 + IPv6) |
 | **Merged CIDRs** | `{provider}_ips_merged_v4.txt`, `_merged_v6.txt` | Optimized/collapsed CIDR lists |
+| **Metadata** | `{provider}_meta.json` | Version, freshness dates, and subnet/address counts |
 
-For providers with service/region data (AWS, Azure, GCP, Oracle, GitHub, GPTBot, Apple Private Relay, Vultr, PerplexityBot, Amazonbot, Zoom, Atlassian), all formats are also generated per-service and per-region.
+For providers with service/region data (AWS, Azure, GCP, Oracle, GitHub, GPTBot, Apple Private Relay, Vultr, PerplexityBot, Amazonbot, Zoom, Atlassian), all formats are also generated per-service and per-region. (`ipset` and `metadata` are generated at the provider level.)
+
+### ipset (large lists)
+
+For providers with thousands of CIDRs (Azure, AWS, Apple Private Relay, ...), one `iptables`/`ufw` rule per range is impractical. The `ipset` format loads the whole set into a kernel hash table that a single firewall rule can match in O(1):
+
+```bash
+# Load the set (defines {provider}_v4 and {provider}_v6)
+curl -sL https://raw.githubusercontent.com/rezmoss/cloud-provider-ip-addresses/main/aws/aws.netset | sudo ipset restore -!
+
+# Match it from one iptables rule
+sudo iptables -A INPUT -m set --match-set aws_v4 src -j ACCEPT
+sudo ip6tables -A INPUT -m set --match-set aws_v6 src -j ACCEPT
+```
+
+> Note: `ipset` is the iptables-era tool. On nftables-based systems, use the provided `nftables_{provider}_allow.conf` (nftables has native sets).
+
+### Metadata & change detection
+
+Each provider ships a `{provider}_meta.json` with a **monotonic `version`** that increments only when the IP set actually changes, plus `generated_date`, `last_changed_date`, per-family subnet/address counts, and a `content_sha256`. Poll `version` (or the `.netset` header) to decide whether to reload your firewall — no need to diff the full list:
+
+```bash
+curl -sL https://raw.githubusercontent.com/rezmoss/cloud-provider-ip-addresses/main/cloudflare/cloudflare_meta.json
+# { "provider": "cloudflare", "version": 1, "generated_date": "...", "last_changed_date": "...",
+#   "ipv4": { "cidrs": 15, "merged_cidrs": 15, "addresses": 1524736 }, ... }
+```
 
 ---
 
@@ -356,6 +460,43 @@ python3 radix_lookup.py --json 8.8.8.8
 
 ---
 
+## ip-watch — Apply & Auto-Sync to Your Servers
+
+The files in this repo tell you *what* the IP ranges are. **[ip-watch](https://github.com/rezmoss/ip-watch)** is the official companion that *applies* them — it keeps these ranges enforced on your webserver and firewall on a daily schedule, with validation and safe rollback, so you never hand-edit a config or babysit a cron job again.
+
+> **Keep cloud-provider IP ranges applied to your webserver and firewall, on a daily schedule with safe rollback.**
+
+A single static Go binary (~7 MB, zero runtime dependencies) that consumes this dataset directly.
+
+**What it does for you:**
+
+- **7 engines** — nginx, Caddy, Apache, HAProxy (config layer) and nftables, iptables, ufw (firewall layer)
+- **Allow or deny modes** — whitelist trusted clouds/CDNs, or blocklist AI crawlers (GPTBot, CCBot, ...) and Tor exit nodes
+- **Merge across providers** — combine multiple providers into a single target (e.g. Cloudflare + Fastly allowlist)
+- **Pre-validation + atomic rollback** — every change is checked with the engine's native validator (`nginx -t`, `caddy validate`, ...) and reverted automatically if validation or reload fails
+- **Anti-lockout design** — SSH protection and escape hatches so a bad rule can't lock you out of your own box
+- **Daily auto-refresh** with change detection, plus a Web UI + CLI, `/healthz`, Prometheus metrics, and Slack/Mattermost webhooks
+- **Docker support** and signed, multi-arch release artifacts
+
+```bash
+# Install (one-liner)
+curl -fsSL https://raw.githubusercontent.com/rezmoss/ip-watch/main/install.sh | sudo sh
+# also available via apt, dnf, zypper, Homebrew, Nix, and ghcr.io/rezmoss/ip-watch
+
+# Add Cloudflare's ranges to an nginx vhost and enforce immediately
+sudo ip-watch add -id cf -provider cloudflare -engine nginx \
+    -selector example.com -apply
+
+ip-watch providers          # list available providers with CIDR counts
+ip-watch apply --dry        # preview changes without touching anything
+ip-watch status             # per-target state
+ip-watch history -n 50      # recent operations
+```
+
+Full docs, configuration, and engine guides: **[ip-watch README](https://github.com/rezmoss/ip-watch)**.
+
+---
+
 ## Client Libraries (Go & JavaScript)
 
 Prefer to consume this data from code instead of curling raw files? Two official client libraries ship with auto-updating, offline-capable IP detection for **AWS, GCP, Azure, Cloudflare, DigitalOcean, and Oracle Cloud**. Both pull from a compiled binary index ([cloudip-db](https://github.com/rezmoss/cloudip-db)) derived from this repository's daily output, with SHA-256-verified updates and an embedded fallback for air-gapped environments.
@@ -410,7 +551,7 @@ npx cloudip get cloudflare
 
 Full API, browser usage, and configuration: [js-cloudip README](https://github.com/rezmoss/js-cloudip).
 
-> Note: the libraries currently cover the six major cloud providers above. The full 35-provider dataset (CDNs, SaaS, bots/crawlers, VPNs, BGP-derived networks) remains available as raw files in this repo.
+> Note: the libraries currently cover the six major cloud providers above. The full 37-provider dataset (CDNs, SaaS, bots/crawlers, VPNs, BGP-derived networks) remains available as raw files in this repo.
 
 ---
 
@@ -453,6 +594,8 @@ cloud-provider-ip-addresses/
 │   ├── ufw_aws_allow.sh / _deny.sh
 │   ├── haproxy_aws_allow.conf
 │   ├── caddy_aws_allow.conf
+│   ├── aws.netset                    (ipset restore-loadable)
+│   ├── aws_meta.json                 (version + freshness + counts)
 │   ├── services/
 │   │   └── ec2/ s3/ cloudfront/ ...  (all formats per service)
 │   └── regions/
@@ -482,6 +625,8 @@ cloud-provider-ip-addresses/
 ├── teamcity/             (all formats + services + regions)
 ├── datadog/              (all formats + services)
 ├── uptimerobot/          (all formats + services + regions)
+├── statuscake/           (all formats)
+├── pingdom/              (all formats)
 ├── meta/                 (all formats + services; BGP/ASN-derived)
 ├── alibaba/              (all formats + services; BGP/ASN-derived)
 ├── tencent/              (all formats + services; BGP/ASN-derived)
@@ -636,6 +781,21 @@ curl -sL https://raw.githubusercontent.com/rezmoss/cloud-provider-ip-addresses/m
 | Common Crawl | Y | Y | — | — | Y | Y |
 | Zoom | Y | Y | Y | — | Y | Y |
 | Atlassian | Y | Y | Y | Y | Y | Y |
+| CircleCI | Y | — | Y | — | Y | Y |
+| TeamCity | Y | — | Y | Y | Y | Y |
+| Datadog | Y | Y | Y | — | Y | Y |
+| UptimeRobot | Y | Y | Y | Y | Y | Y |
+| StatusCake | Y | — | — | — | Y | Y |
+| Pingdom | Y | Y | — | — | Y | Y |
+| Tor Exit Nodes | Y | — | — | — | Y | Y |
+| Mullvad | Y | Y | Y | Y | Y | Y |
+| Meta | Y | Y | Y | — | Y | Y |
+| Alibaba | Y | Y | Y | — | Y | Y |
+| Tencent | Y | Y | Y | — | Y | Y |
+| IBM Cloud | Y | Y | Y | — | Y | Y |
+| Hetzner | Y | Y | Y | — | Y | Y |
+| OVHcloud | Y | Y | Y | — | Y | Y |
+| Scaleway | Y | Y | Y | — | Y | Y |
 
 ---
 
@@ -658,6 +818,10 @@ curl -sL https://raw.githubusercontent.com/rezmoss/cloud-provider-ip-addresses/m
 ## Automating Updates
 
 All data updates daily at **02:00 UTC**. Set up your systems to pull the latest:
+
+### Turnkey: ip-watch (recommended)
+
+For applying these ranges to a live webserver or firewall, **[ip-watch](https://github.com/rezmoss/ip-watch)** automates the whole loop — daily refresh, validation, reload, and rollback — instead of a hand-rolled cron job. See [ip-watch — Apply & Auto-Sync to Your Servers](#ip-watch--apply--auto-sync-to-your-servers) above.
 
 ### Clone and schedule
 
@@ -707,6 +871,15 @@ All IP range data is sourced from the official, publicly available endpoints pro
 - **Common Crawl (CCBot)** — for publishing their crawler IP ranges to support the open web
 - **Zoom** — for making their service, phone, and CDN IP ranges available in machine-readable format
 - **Atlassian** — for publishing their product IP ranges covering Jira, Confluence, Bitbucket, Trello, and more
+- **CircleCI** — for publishing their build runner egress IP ranges, including the macOS fleet
+- **JetBrains TeamCity Cloud** — for publishing per-region build agent egress IP ranges
+- **Datadog** — for publishing their synthetics, webhooks, and service IP ranges in a machine-readable feed
+- **UptimeRobot** — for publishing their monitoring probe IP ranges through a public API
+- **StatusCake** — for publishing their monitoring probe IP ranges as a public list
+- **Pingdom** — for publishing their IPv4 and IPv6 monitoring probe IP ranges
+- **The Tor Project** — for publishing the official bulk exit node list as part of their network directory
+- **Mullvad VPN** — for publishing their complete relay list through their public API
+- **Public BGP data sources** — for the routing data from which the announced address space of Meta, Alibaba, Tencent, IBM Cloud, Hetzner, OVHcloud, and Scaleway is observed
 
 ---
 

@@ -1,6 +1,6 @@
 #!/bin/bash
 # Alibaba IP Ranges
-# Updated: 2026-06-14 03:22:22
+# Updated: 2026-06-18 03:21:22
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -569,6 +569,7 @@ ufw deny from 43.96.116.0/24
 ufw deny from 43.96.118.0/23
 ufw deny from 43.96.118.0/24
 ufw deny from 43.96.119.0/24
+ufw deny from 43.96.120.0/24
 ufw deny from 43.96.122.0/24
 ufw deny from 43.96.124.0/24
 ufw deny from 43.98.0.0/16
@@ -985,6 +986,7 @@ ufw deny from 47.87.153.0/24
 ufw deny from 47.87.154.0/24
 ufw deny from 47.87.155.0/24
 ufw deny from 47.87.160.0/19
+ufw deny from 47.87.169.0/24
 ufw deny from 47.87.192.0/22
 ufw deny from 47.87.192.0/23
 ufw deny from 47.87.194.0/23
@@ -1546,7 +1548,6 @@ ufw deny from 110.75.192.0/19
 ufw deny from 110.75.224.0/19
 ufw deny from 110.75.227.0/24
 ufw deny from 110.75.228.0/23
-ufw deny from 110.75.228.0/24
 ufw deny from 110.75.230.0/24
 ufw deny from 110.75.233.0/24
 ufw deny from 110.75.235.0/24
@@ -2228,6 +2229,11 @@ ufw deny from 2408:4011::/32
 ufw deny from 2408:4011::/33
 ufw deny from 2408:4011:8000::/33
 ufw deny from 2408:4015::/32
+ufw deny from 2408:4016:3::/48
+ufw deny from 2408:4016:4::/48
+ufw deny from 2408:4016:5::/48
+ufw deny from 2408:4016:6::/48
+ufw deny from 2408:4016:7::/48
 ufw deny from 2408:4017::/32
 ufw deny from 2408:4017::/33
 ufw deny from 2408:4017:8000::/33
@@ -2250,6 +2256,8 @@ ufw deny from 240b:4004:8000::/33
 ufw deny from 240b:4005::/32
 ufw deny from 240b:4005::/33
 ufw deny from 240b:4005:8000::/33
+ufw deny from 240b:4005:fffe::/48
+ufw deny from 240b:4005:ffff::/48
 ufw deny from 240b:4006::/48
 ufw deny from 240b:4006:1000::/44
 ufw deny from 240b:4006:1000::/45
@@ -2311,3 +2319,6 @@ ufw deny from 240b:401a::/32
 ufw deny from 240b:401b::/32
 ufw deny from 240b:401b::/33
 ufw deny from 240b:401b:8000::/33
+ufw deny from 240b:401f::/32
+ufw deny from 240b:401f::/33
+ufw deny from 240b:401f:8000::/33

@@ -1,6 +1,6 @@
 #!/bin/bash
 # Aws IP Ranges
-# Updated: 2026-06-17 03:20:00
+# Updated: 2026-06-18 03:19:38
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -4345,6 +4345,8 @@ ufw allow from 63.246.113.0/24
 ufw allow from 63.246.114.0/23
 ufw allow from 63.246.119.0/24
 ufw allow from 63.246.120.0/21
+ufw allow from 63.249.132.0/24
+ufw allow from 63.249.138.0/24
 ufw allow from 63.249.150.0/24
 ufw allow from 63.249.151.0/24
 ufw allow from 63.249.152.0/24
@@ -4359,6 +4361,8 @@ ufw allow from 63.249.166.0/24
 ufw allow from 63.249.167.0/24
 ufw allow from 63.249.168.0/24
 ufw allow from 63.249.169.0/24
+ufw allow from 63.249.172.0/24
+ufw allow from 63.249.178.0/24
 ufw allow from 63.249.185.0/24
 ufw allow from 63.249.186.0/24
 ufw allow from 63.249.187.0/24
@@ -4366,10 +4370,14 @@ ufw allow from 63.249.188.0/24
 ufw allow from 63.249.192.0/24
 ufw allow from 63.249.193.0/24
 ufw allow from 63.249.194.0/24
+ufw allow from 63.249.201.0/24
+ufw allow from 63.249.202.0/24
+ufw allow from 63.249.203.0/24
 ufw allow from 64.73.193.0/24
 ufw allow from 64.73.195.0/24
 ufw allow from 64.73.196.0/24
 ufw allow from 64.73.197.0/24
+ufw allow from 64.73.201.0/24
 ufw allow from 64.73.202.0/24
 ufw allow from 64.73.203.0/24
 ufw allow from 64.73.204.0/24
@@ -7976,7 +7984,7 @@ ufw allow from 2606:7b40:1000:2100::/56
 ufw allow from 2606:7b40:1000:2270::/60
 ufw allow from 2606:7b40:1000:3000::/56
 ufw allow from 2606:7b40:1000:6280::/60
-ufw allow from 2606:7b40:1000:6290::/60
+ufw allow from 2606:7b40:1000:62a0::/60
 ufw allow from 2606:7b40:1000:7000::/56
 ufw allow from 2606:7b40:1000:7200::/60
 ufw allow from 2606:7b40:1000:7210::/60
@@ -7991,7 +7999,9 @@ ufw allow from 2606:7b40:1000:8000::/56
 ufw allow from 2606:7b40:1042::/56
 ufw allow from 2606:7b40:1042:3200::/60
 ufw allow from 2606:7b40:10f4:3220::/60
+ufw allow from 2606:7b40:10f4:3280::/60
 ufw allow from 2606:7b40:10f4:32a0::/60
+ufw allow from 2606:7b40:10f4:32c0::/60
 ufw allow from 2606:7b40:10f4:32d0::/60
 ufw allow from 2606:7b40:10f4:32e0::/60
 ufw allow from 2606:7b40:10f8::/46

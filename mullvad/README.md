@@ -1,6 +1,6 @@
 # Mullvad VPN IP Ranges (Auto-Updated Daily)
 
-> Last updated: **2026-06-17** · Total CIDRs: **1,129** · IPv4: **570** · IPv6: **559** · Services: **2** · Regions: **50**
+> Last updated: **2026-06-18** · Total CIDRs: **1,131** · IPv4: **571** · IPv6: **560** · Services: **2** · Regions: **50**
 
 Machine-readable, daily-updated, validated public IP ranges for **Mullvad VPN**.
 Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and Apache.

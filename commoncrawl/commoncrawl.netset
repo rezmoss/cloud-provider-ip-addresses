@@ -1,0 +1,18 @@
+# commoncrawl IP ranges - ipset restore format (hash:net)
+# Version: 1 | Generated: 2026-06-18 | Last changed: 2026-06-18
+# IPv4: 5 merged subnets, 29 unique IPs
+# IPv6: 1 merged subnets
+# Source: https://github.com/rezmoss/cloud-provider-ip-addresses
+# License: CC0-1.0 | Updated daily at 02:00 UTC
+# Load with: sudo ipset restore -! < commoncrawl.netset
+#
+create commoncrawl_v4 hash:net family inet hashsize 4096 maxelem 1048576 -exist
+flush commoncrawl_v4
+add commoncrawl_v4 3.41.188.32/29
+add commoncrawl_v4 18.97.9.168/29
+add commoncrawl_v4 18.97.14.80/29
+add commoncrawl_v4 18.97.14.88/30
+add commoncrawl_v4 98.85.178.216/32
+create commoncrawl_v6 hash:net family inet6 hashsize 4096 maxelem 1048576 -exist
+flush commoncrawl_v6
+add commoncrawl_v6 2600:1f28:365:80b0::/60

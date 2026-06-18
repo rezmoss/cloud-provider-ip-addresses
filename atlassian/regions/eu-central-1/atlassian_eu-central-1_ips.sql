@@ -6,13 +6,7 @@ CREATE TABLE IF NOT EXISTS `atlassian_eu-central-1_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
-INSERT INTO `atlassian_eu-central-1_ips` (`ip_address`, `ip_type`) VALUES ('3.77.185.155/32', 'IPv4');
-INSERT INTO `atlassian_eu-central-1_ips` (`ip_address`, `ip_type`) VALUES ('3.126.237.94/32', 'IPv4');
-INSERT INTO `atlassian_eu-central-1_ips` (`ip_address`, `ip_type`) VALUES ('18.153.162.220/32', 'IPv4');
-INSERT INTO `atlassian_eu-central-1_ips` (`ip_address`, `ip_type`) VALUES ('18.157.151.173/32', 'IPv4');
 INSERT INTO `atlassian_eu-central-1_ips` (`ip_address`, `ip_type`) VALUES ('18.184.99.224/28', 'IPv4');
-INSERT INTO `atlassian_eu-central-1_ips` (`ip_address`, `ip_type`) VALUES ('18.196.69.189/32', 'IPv4');
-INSERT INTO `atlassian_eu-central-1_ips` (`ip_address`, `ip_type`) VALUES ('52.58.86.18/32', 'IPv4');
 INSERT INTO `atlassian_eu-central-1_ips` (`ip_address`, `ip_type`) VALUES ('185.166.143.0/24', 'IPv4');
 INSERT INTO `atlassian_eu-central-1_ips` (`ip_address`, `ip_type`) VALUES ('185.166.143.224/28', 'IPv4');
 INSERT INTO `atlassian_eu-central-1_ips` (`ip_address`, `ip_type`) VALUES ('185.166.143.240/28', 'IPv4');

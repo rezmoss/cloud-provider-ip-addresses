@@ -7,8 +7,5 @@ CREATE TABLE IF NOT EXISTS `atlassian_us-west-1_ips` (
 );
 
 INSERT INTO `atlassian_us-west-1_ips` (`ip_address`, `ip_type`) VALUES ('13.52.5.96/28', 'IPv4');
-INSERT INTO `atlassian_us-west-1_ips` (`ip_address`, `ip_type`) VALUES ('13.56.84.222/32', 'IPv4');
-INSERT INTO `atlassian_us-west-1_ips` (`ip_address`, `ip_type`) VALUES ('52.53.140.163/32', 'IPv4');
-INSERT INTO `atlassian_us-west-1_ips` (`ip_address`, `ip_type`) VALUES ('54.241.128.19/32', 'IPv4');
 INSERT INTO `atlassian_us-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f1c:cc5:2304::/64', 'IPv6');
 INSERT INTO `atlassian_us-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f1c:cc5:2305::/64', 'IPv6');

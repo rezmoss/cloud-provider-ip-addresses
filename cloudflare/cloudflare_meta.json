@@ -1,0 +1,24 @@
+{
+  "provider": "cloudflare",
+  "version": 1,
+  "generated_date": "2026-06-18",
+  "last_changed_date": "2026-06-18",
+  "sources": [
+    "https://www.cloudflare.com/ips-v4",
+    "https://www.cloudflare.com/ips-v6"
+  ],
+  "ipv4": {
+    "cidrs": 15,
+    "merged_cidrs": 15,
+    "addresses": 1524736
+  },
+  "ipv6": {
+    "cidrs": 7,
+    "merged_cidrs": 7,
+    "addresses": 1109194275199700726309615304704
+  },
+  "total_entries": 22,
+  "content_sha256": "c0fed51536fc2dd99b6b78dbdf1da6ef49d929a1a28cf6860d0b5d08b84f0357",
+  "license": "CC0-1.0",
+  "license_url": "https://github.com/rezmoss/cloud-provider-ip-addresses/blob/main/LICENSE"
+}

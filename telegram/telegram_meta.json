@@ -1,0 +1,23 @@
+{
+  "provider": "telegram",
+  "version": 1,
+  "generated_date": "2026-06-18",
+  "last_changed_date": "2026-06-18",
+  "sources": [
+    "https://core.telegram.org/resources/cidr.txt"
+  ],
+  "ipv4": {
+    "cidrs": 9,
+    "merged_cidrs": 7,
+    "addresses": 11008
+  },
+  "ipv6": {
+    "cidrs": 5,
+    "merged_cidrs": 4,
+    "addresses": 79232998217542796110242775040
+  },
+  "total_entries": 14,
+  "content_sha256": "3e7eedd0b8c34af9a810072439a5218fc52ffca1b8714fd0b803dd9c3f9903e6",
+  "license": "CC0-1.0",
+  "license_url": "https://github.com/rezmoss/cloud-provider-ip-addresses/blob/main/LICENSE"
+}

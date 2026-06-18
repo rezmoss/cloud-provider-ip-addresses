@@ -1,0 +1,67 @@
+# zoom IP ranges - ipset restore format (hash:net)
+# Version: 1 | Generated: 2026-06-18 | Last changed: 2026-06-18
+# IPv4: 53 merged subnets, 541200 unique IPs
+# IPv6: 2 merged subnets
+# Source: https://github.com/rezmoss/cloud-provider-ip-addresses
+# License: CC0-1.0 | Updated daily at 02:00 UTC
+# Load with: sudo ipset restore -! < zoom.netset
+#
+create zoom_v4 hash:net family inet hashsize 4096 maxelem 1048576 -exist
+flush zoom_v4
+add zoom_v4 3.7.35.0/25
+add zoom_v4 3.235.82.0/23
+add zoom_v4 3.235.96.0/23
+add zoom_v4 8.5.128.0/24
+add zoom_v4 15.220.80.0/24
+add zoom_v4 15.220.81.0/25
+add zoom_v4 18.254.23.128/25
+add zoom_v4 18.254.61.0/25
+add zoom_v4 20.203.158.80/28
+add zoom_v4 20.203.190.192/26
+add zoom_v4 52.61.100.128/25
+add zoom_v4 52.84.151.0/24
+add zoom_v4 64.211.144.0/24
+add zoom_v4 64.224.32.0/19
+add zoom_v4 69.174.108.0/22
+add zoom_v4 101.36.167.0/24
+add zoom_v4 101.36.170.0/23
+add zoom_v4 103.122.166.0/23
+add zoom_v4 111.33.115.0/25
+add zoom_v4 111.33.181.0/25
+add zoom_v4 115.110.154.192/26
+add zoom_v4 115.114.56.192/26
+add zoom_v4 115.114.115.0/26
+add zoom_v4 115.114.131.0/26
+add zoom_v4 115.117.119.96/27
+add zoom_v4 121.244.146.0/27
+add zoom_v4 121.244.203.192/27
+add zoom_v4 134.224.0.0/16
+add zoom_v4 137.66.128.0/17
+add zoom_v4 144.195.0.0/16
+add zoom_v4 147.124.96.0/19
+add zoom_v4 149.137.0.0/17
+add zoom_v4 156.45.0.0/17
+add zoom_v4 159.124.0.0/16
+add zoom_v4 160.1.56.128/25
+add zoom_v4 161.199.136.0/22
+add zoom_v4 162.12.232.0/22
+add zoom_v4 162.255.36.0/22
+add zoom_v4 166.108.64.0/18
+add zoom_v4 168.140.0.0/17
+add zoom_v4 170.114.0.0/16
+add zoom_v4 173.231.80.0/20
+add zoom_v4 192.204.12.0/22
+add zoom_v4 198.251.128.0/17
+add zoom_v4 203.200.219.128/27
+add zoom_v4 204.80.104.0/21
+add zoom_v4 206.247.0.0/16
+add zoom_v4 221.122.63.0/24
+add zoom_v4 221.122.64.0/24
+add zoom_v4 221.122.88.64/27
+add zoom_v4 221.122.88.128/25
+add zoom_v4 221.122.89.128/25
+add zoom_v4 221.123.139.192/27
+create zoom_v6 hash:net family inet6 hashsize 4096 maxelem 1048576 -exist
+flush zoom_v6
+add zoom_v6 2407:30c0:180::/47
+add zoom_v6 2600:9000:2600::/48

@@ -7,12 +7,6 @@ CREATE TABLE IF NOT EXISTS `atlassian_ap-southeast-1_ips` (
 );
 
 INSERT INTO `atlassian_ap-southeast-1_ips` (`ip_address`, `ip_type`) VALUES ('18.136.214.96/28', 'IPv4');
-INSERT INTO `atlassian_ap-southeast-1_ips` (`ip_address`, `ip_type`) VALUES ('18.142.175.136/32', 'IPv4');
-INSERT INTO `atlassian_ap-southeast-1_ips` (`ip_address`, `ip_type`) VALUES ('18.143.11.169/32', 'IPv4');
-INSERT INTO `atlassian_ap-southeast-1_ips` (`ip_address`, `ip_type`) VALUES ('52.77.196.9/32', 'IPv4');
-INSERT INTO `atlassian_ap-southeast-1_ips` (`ip_address`, `ip_type`) VALUES ('52.220.108.50/32', 'IPv4');
-INSERT INTO `atlassian_ap-southeast-1_ips` (`ip_address`, `ip_type`) VALUES ('54.254.13.217/32', 'IPv4');
-INSERT INTO `atlassian_ap-southeast-1_ips` (`ip_address`, `ip_type`) VALUES ('54.255.41.156/32', 'IPv4');
 INSERT INTO `atlassian_ap-southeast-1_ips` (`ip_address`, `ip_type`) VALUES ('104.192.137.0/24', 'IPv4');
 INSERT INTO `atlassian_ap-southeast-1_ips` (`ip_address`, `ip_type`) VALUES ('104.192.137.224/28', 'IPv4');
 INSERT INTO `atlassian_ap-southeast-1_ips` (`ip_address`, `ip_type`) VALUES ('104.192.137.240/28', 'IPv4');

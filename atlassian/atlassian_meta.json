@@ -1,0 +1,23 @@
+{
+  "provider": "atlassian",
+  "version": 1,
+  "generated_date": "2026-06-18",
+  "last_changed_date": "2026-06-18",
+  "sources": [
+    "https://ip-ranges.atlassian.com"
+  ],
+  "ipv4": {
+    "cidrs": 106,
+    "merged_cidrs": 69,
+    "addresses": 75566
+  },
+  "ipv6": {
+    "cidrs": 60,
+    "merged_cidrs": 14,
+    "addresses": 4951760526076402573787529216
+  },
+  "total_entries": 166,
+  "content_sha256": "5591066345e4178806d57d4904d76d55d9fcf8485a5a354495b4f0c3640008bb",
+  "license": "CC0-1.0",
+  "license_url": "https://github.com/rezmoss/cloud-provider-ip-addresses/blob/main/LICENSE"
+}

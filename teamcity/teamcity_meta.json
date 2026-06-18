@@ -1,0 +1,23 @@
+{
+  "provider": "teamcity",
+  "version": 1,
+  "generated_date": "2026-06-18",
+  "last_changed_date": "2026-06-18",
+  "sources": [
+    "eu-west-1"
+  ],
+  "ipv4": {
+    "cidrs": 11,
+    "merged_cidrs": 11,
+    "addresses": 11
+  },
+  "ipv6": {
+    "cidrs": 0,
+    "merged_cidrs": 0,
+    "addresses": 0
+  },
+  "total_entries": 11,
+  "content_sha256": "164e9670423c6d82eefec46674235358e3d2d0e09848515438a4aea9afca3a6d",
+  "license": "CC0-1.0",
+  "license_url": "https://github.com/rezmoss/cloud-provider-ip-addresses/blob/main/LICENSE"
+}

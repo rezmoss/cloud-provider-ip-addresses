@@ -1,0 +1,121 @@
+# meta IP ranges - ipset restore format (hash:net)
+# Version: 1 | Generated: 2026-06-18 | Last changed: 2026-06-18
+# IPv4: 68 merged subnets, 475648 unique IPs
+# IPv6: 41 merged subnets
+# Source: https://github.com/rezmoss/cloud-provider-ip-addresses
+# License: CC0-1.0 | Updated daily at 02:00 UTC
+# Load with: sudo ipset restore -! < meta.netset
+#
+create meta_v4 hash:net family inet hashsize 4096 maxelem 1048576 -exist
+flush meta_v4
+add meta_v4 31.13.24.0/21
+add meta_v4 31.13.64.0/18
+add meta_v4 45.64.40.0/22
+add meta_v4 57.141.0.0/20
+add meta_v4 57.141.16.0/22
+add meta_v4 57.141.20.0/23
+add meta_v4 57.144.0.0/14
+add meta_v4 66.220.144.0/20
+add meta_v4 69.63.176.0/20
+add meta_v4 69.171.224.0/19
+add meta_v4 74.119.76.0/22
+add meta_v4 102.132.96.0/20
+add meta_v4 102.132.112.0/24
+add meta_v4 102.132.115.0/24
+add meta_v4 102.132.116.0/23
+add meta_v4 102.132.119.0/24
+add meta_v4 102.132.120.0/23
+add meta_v4 102.132.123.0/24
+add meta_v4 102.132.125.0/24
+add meta_v4 102.132.126.0/24
+add meta_v4 102.221.188.0/22
+add meta_v4 103.4.96.0/22
+add meta_v4 129.134.0.0/17
+add meta_v4 129.134.130.0/24
+add meta_v4 129.134.132.0/24
+add meta_v4 129.134.135.0/24
+add meta_v4 129.134.136.0/22
+add meta_v4 129.134.140.0/24
+add meta_v4 129.134.143.0/24
+add meta_v4 129.134.144.0/24
+add meta_v4 129.134.148.0/23
+add meta_v4 129.134.150.0/24
+add meta_v4 129.134.154.0/23
+add meta_v4 129.134.156.0/22
+add meta_v4 129.134.160.0/22
+add meta_v4 129.134.164.0/23
+add meta_v4 129.134.168.0/21
+add meta_v4 129.134.176.0/20
+add meta_v4 129.134.194.0/23
+add meta_v4 129.134.196.0/23
+add meta_v4 157.240.0.0/17
+add meta_v4 157.240.128.0/23
+add meta_v4 157.240.131.0/24
+add meta_v4 157.240.132.0/24
+add meta_v4 157.240.134.0/24
+add meta_v4 157.240.136.0/23
+add meta_v4 157.240.139.0/24
+add meta_v4 157.240.140.0/24
+add meta_v4 157.240.156.0/22
+add meta_v4 157.240.169.0/24
+add meta_v4 157.240.170.0/24
+add meta_v4 157.240.175.0/24
+add meta_v4 157.240.177.0/24
+add meta_v4 157.240.179.0/24
+add meta_v4 157.240.181.0/24
+add meta_v4 157.240.182.0/23
+add meta_v4 157.240.184.0/21
+add meta_v4 157.240.192.0/18
+add meta_v4 163.70.128.0/17
+add meta_v4 163.77.132.0/23
+add meta_v4 163.77.136.0/23
+add meta_v4 163.114.128.0/20
+add meta_v4 173.252.64.0/18
+add meta_v4 179.60.192.0/22
+add meta_v4 185.60.216.0/22
+add meta_v4 185.89.216.0/22
+add meta_v4 199.201.64.0/22
+add meta_v4 204.15.20.0/22
+create meta_v6 hash:net family inet6 hashsize 4096 maxelem 1048576 -exist
+flush meta_v6
+add meta_v6 2620:0:1c00::/40
+add meta_v6 2620:10d:c090::/44
+add meta_v6 2a03:2880::/32
+add meta_v6 2a03:2887:ff00::/48
+add meta_v6 2a03:2887:ff02::/47
+add meta_v6 2a03:2887:ff04::/46
+add meta_v6 2a03:2887:ff09::/48
+add meta_v6 2a03:2887:ff0a::/48
+add meta_v6 2a03:2887:ff1b::/48
+add meta_v6 2a03:2887:ff1e::/48
+add meta_v6 2a03:2887:ff20::/48
+add meta_v6 2a03:2887:ff22::/47
+add meta_v6 2a03:2887:ff27::/48
+add meta_v6 2a03:2887:ff28::/46
+add meta_v6 2a03:2887:ff2e::/47
+add meta_v6 2a03:2887:ff30::/48
+add meta_v6 2a03:2887:ff33::/48
+add meta_v6 2a03:2887:ff37::/48
+add meta_v6 2a03:2887:ff38::/46
+add meta_v6 2a03:2887:ff3f::/48
+add meta_v6 2a03:2887:ff40::/46
+add meta_v6 2a03:2887:ff44::/47
+add meta_v6 2a03:2887:ff48::/46
+add meta_v6 2a03:2887:ff4d::/48
+add meta_v6 2a03:2887:ff4e::/47
+add meta_v6 2a03:2887:ff50::/45
+add meta_v6 2a03:2887:ff58::/47
+add meta_v6 2a03:2887:ff5a::/48
+add meta_v6 2a03:2887:ff5f::/48
+add meta_v6 2a03:2887:ff60::/48
+add meta_v6 2a03:2887:ff62::/47
+add meta_v6 2a03:2887:ff64::/46
+add meta_v6 2a03:2887:ff68::/46
+add meta_v6 2a03:2887:ff6f::/48
+add meta_v6 2a03:2887:ff70::/46
+add meta_v6 2c0f:ef78:3::/48
+add meta_v6 2c0f:ef78:5::/48
+add meta_v6 2c0f:ef78:9::/48
+add meta_v6 2c0f:ef78:c::/47
+add meta_v6 2c0f:ef78:e::/48
+add meta_v6 2c0f:ef78:10::/47

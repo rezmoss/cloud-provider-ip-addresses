@@ -1,0 +1,77 @@
+# googlebot IP ranges - ipset restore format (hash:net)
+# Version: 1 | Generated: 2026-06-18 | Last changed: 2026-06-18
+# IPv4: 41 merged subnets, 5056 unique IPs
+# IPv6: 24 merged subnets
+# Source: https://github.com/rezmoss/cloud-provider-ip-addresses
+# License: CC0-1.0 | Updated daily at 02:00 UTC
+# Load with: sudo ipset restore -! < googlebot.netset
+#
+create googlebot_v4 hash:net family inet hashsize 4096 maxelem 1048576 -exist
+flush googlebot_v4
+add googlebot_v4 34.22.85.0/27
+add googlebot_v4 34.64.82.64/28
+add googlebot_v4 34.65.242.112/28
+add googlebot_v4 34.80.50.80/28
+add googlebot_v4 34.88.194.0/28
+add googlebot_v4 34.89.10.80/28
+add googlebot_v4 34.89.198.80/28
+add googlebot_v4 34.96.162.48/28
+add googlebot_v4 34.100.182.96/28
+add googlebot_v4 34.101.50.144/28
+add googlebot_v4 34.118.66.0/28
+add googlebot_v4 34.118.254.0/28
+add googlebot_v4 34.126.178.96/28
+add googlebot_v4 34.146.150.144/28
+add googlebot_v4 34.147.110.144/28
+add googlebot_v4 34.151.74.144/28
+add googlebot_v4 34.152.50.64/28
+add googlebot_v4 34.154.114.144/28
+add googlebot_v4 34.155.98.32/28
+add googlebot_v4 34.165.18.176/28
+add googlebot_v4 34.175.160.64/28
+add googlebot_v4 34.176.130.16/28
+add googlebot_v4 35.247.243.240/28
+add googlebot_v4 66.249.64.0/23
+add googlebot_v4 66.249.66.0/24
+add googlebot_v4 66.249.67.0/26
+add googlebot_v4 66.249.67.64/27
+add googlebot_v4 66.249.68.0/25
+add googlebot_v4 66.249.68.128/26
+add googlebot_v4 66.249.68.192/27
+add googlebot_v4 66.249.69.0/24
+add googlebot_v4 66.249.70.0/23
+add googlebot_v4 66.249.72.0/22
+add googlebot_v4 66.249.76.0/23
+add googlebot_v4 66.249.78.0/24
+add googlebot_v4 66.249.79.0/26
+add googlebot_v4 66.249.79.64/27
+add googlebot_v4 66.249.79.128/25
+add googlebot_v4 192.178.4.0/24
+add googlebot_v4 192.178.5.0/27
+add googlebot_v4 192.178.6.0/23
+create googlebot_v6 hash:net family inet6 hashsize 4096 maxelem 1048576 -exist
+flush googlebot_v6
+add googlebot_v6 2001:4860:4801:2::/64
+add googlebot_v6 2001:4860:4801:c::/64
+add googlebot_v6 2001:4860:4801:f::/64
+add googlebot_v6 2001:4860:4801:10::/60
+add googlebot_v6 2001:4860:4801:20::/59
+add googlebot_v6 2001:4860:4801:40::/63
+add googlebot_v6 2001:4860:4801:42::/64
+add googlebot_v6 2001:4860:4801:44::/62
+add googlebot_v6 2001:4860:4801:48::/62
+add googlebot_v6 2001:4860:4801:4c::/63
+add googlebot_v6 2001:4860:4801:4e::/64
+add googlebot_v6 2001:4860:4801:50::/61
+add googlebot_v6 2001:4860:4801:58::/63
+add googlebot_v6 2001:4860:4801:60::/59
+add googlebot_v6 2001:4860:4801:80::/61
+add googlebot_v6 2001:4860:4801:88::/64
+add googlebot_v6 2001:4860:4801:90::/61
+add googlebot_v6 2001:4860:4801:a0::/61
+add googlebot_v6 2001:4860:4801:a8::/62
+add googlebot_v6 2001:4860:4801:ac::/63
+add googlebot_v6 2001:4860:4801:ae::/64
+add googlebot_v6 2001:4860:4801:b0::/62
+add googlebot_v6 2001:4860:4801:b4::/63
+add googlebot_v6 2001:4860:4801:b6::/64

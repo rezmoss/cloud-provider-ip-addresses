@@ -1,6 +1,6 @@
 # Tencent (Tencent Cloud / Tencent Group) IP Ranges (Auto-Updated Daily)
 
-> Last updated: **2026-06-17** · Total CIDRs: **3,390** · IPv4: **3,317** · IPv6: **73** · Services: **2** · Regions: **1**
+> Last updated: **2026-06-18** · Total CIDRs: **3,390** · IPv4: **3,317** · IPv6: **73** · Services: **2** · Regions: **1**
 
 Machine-readable, daily-updated, validated public IP ranges for **Tencent (Tencent Cloud / Tencent Group)**.
 Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and Apache.

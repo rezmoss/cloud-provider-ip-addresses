@@ -1,6 +1,6 @@
 # DigitalOcean IP Ranges (Auto-Updated Daily)
 
-> Last updated: **2026-06-17** · Total CIDRs: **1,223** · IPv4: **1,075** · IPv6: **148** · Regions: **13**
+> Last updated: **2026-06-18** · Total CIDRs: **1,225** · IPv4: **1,077** · IPv6: **148** · Regions: **13**
 
 Machine-readable, daily-updated, validated public IP ranges for **DigitalOcean**.
 Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and Apache.
@@ -43,8 +43,8 @@ This provider ships per-region files under [`./regions/`](./regions/). Examples:
 - [`./regions/ca-on/`](./regions/ca-on/)
 - [`./regions/de-he/`](./regions/de-he/)
 - [`./regions/gb-slg/`](./regions/gb-slg/)
-- [`./regions/global/`](./regions/global/)
 - [`./regions/in-ka/`](./regions/in-ka/)
+- [`./regions/nl-nh/`](./regions/nl-nh/)
 
 ## Why these ranges change
 

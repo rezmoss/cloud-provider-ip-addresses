@@ -6,12 +6,6 @@ CREATE TABLE IF NOT EXISTS `atlassian_eu-west-2_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
-INSERT INTO `atlassian_eu-west-2_ips` (`ip_address`, `ip_type`) VALUES ('13.41.178.119/32', 'IPv4');
-INSERT INTO `atlassian_eu-west-2_ips` (`ip_address`, `ip_type`) VALUES ('13.42.94.26/32', 'IPv4');
-INSERT INTO `atlassian_eu-west-2_ips` (`ip_address`, `ip_type`) VALUES ('13.43.10.138/32', 'IPv4');
-INSERT INTO `atlassian_eu-west-2_ips` (`ip_address`, `ip_type`) VALUES ('13.43.230.20/32', 'IPv4');
-INSERT INTO `atlassian_eu-west-2_ips` (`ip_address`, `ip_type`) VALUES ('13.43.238.10/32', 'IPv4');
-INSERT INTO `atlassian_eu-west-2_ips` (`ip_address`, `ip_type`) VALUES ('18.132.72.151/32', 'IPv4');
 INSERT INTO `atlassian_eu-west-2_ips` (`ip_address`, `ip_type`) VALUES ('185.166.141.0/24', 'IPv4');
 INSERT INTO `atlassian_eu-west-2_ips` (`ip_address`, `ip_type`) VALUES ('185.166.141.112/28', 'IPv4');
 INSERT INTO `atlassian_eu-west-2_ips` (`ip_address`, `ip_type`) VALUES ('185.166.141.128/28', 'IPv4');

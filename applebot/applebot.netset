@@ -1,0 +1,22 @@
+# applebot IP ranges - ipset restore format (hash:net)
+# Version: 1 | Generated: 2026-06-18 | Last changed: 2026-06-18
+# IPv4: 12 merged subnets, 2400 unique IPs
+# IPv6: 0 merged subnets
+# Source: https://github.com/rezmoss/cloud-provider-ip-addresses
+# License: CC0-1.0 | Updated daily at 02:00 UTC
+# Load with: sudo ipset restore -! < applebot.netset
+#
+create applebot_v4 hash:net family inet hashsize 4096 maxelem 1048576 -exist
+flush applebot_v4
+add applebot_v4 17.22.237.0/24
+add applebot_v4 17.22.245.0/24
+add applebot_v4 17.22.253.0/24
+add applebot_v4 17.241.75.0/24
+add applebot_v4 17.241.193.160/27
+add applebot_v4 17.241.200.160/27
+add applebot_v4 17.241.208.160/27
+add applebot_v4 17.241.219.0/24
+add applebot_v4 17.241.227.0/24
+add applebot_v4 17.246.15.0/24
+add applebot_v4 17.246.19.0/24
+add applebot_v4 17.246.23.0/24

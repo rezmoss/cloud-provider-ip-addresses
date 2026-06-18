@@ -6,45 +6,15 @@
     "region": "us-east-1"
   },
   {
-    "ip_address": "3.220.210.28/32",
-    "ip_type": "IPv4",
-    "service": "forge",
-    "region": "us-east-1"
-  },
-  {
     "ip_address": "3.221.151.112/32",
     "ip_type": "IPv4",
     "service": "bitbucket",
     "region": "us-east-1"
   },
   {
-    "ip_address": "3.224.137.93/32",
-    "ip_type": "IPv4",
-    "service": "forge",
-    "region": "us-east-1"
-  },
-  {
-    "ip_address": "3.231.15.71/32",
-    "ip_type": "IPv4",
-    "service": "forge",
-    "region": "us-east-1"
-  },
-  {
     "ip_address": "18.234.32.224/28",
     "ip_type": "IPv4",
     "service": "bitbucket,confluence,forge,halp,jira,opsgenie,statuspage,trello",
-    "region": "us-east-1"
-  },
-  {
-    "ip_address": "34.194.73.28/32",
-    "ip_type": "IPv4",
-    "service": "forge",
-    "region": "us-east-1"
-  },
-  {
-    "ip_address": "34.194.247.143/32",
-    "ip_type": "IPv4",
-    "service": "forge",
     "region": "us-east-1"
   },
   {
@@ -63,12 +33,6 @@
     "ip_address": "34.231.96.243/32",
     "ip_type": "IPv4",
     "service": "bitbucket",
-    "region": "us-east-1"
-  },
-  {
-    "ip_address": "34.231.161.126/32",
-    "ip_type": "IPv4",
-    "service": "forge",
     "region": "us-east-1"
   },
   {
@@ -144,12 +108,6 @@
     "region": "us-east-1"
   },
   {
-    "ip_address": "52.55.61.132/32",
-    "ip_type": "IPv4",
-    "service": "forge",
-    "region": "us-east-1"
-  },
-  {
     "ip_address": "52.72.137.240/32",
     "ip_type": "IPv4",
     "service": "bitbucket",
@@ -177,18 +135,6 @@
     "ip_address": "52.205.184.192/32",
     "ip_type": "IPv4",
     "service": "bitbucket",
-    "region": "us-east-1"
-  },
-  {
-    "ip_address": "54.156.218.101/32",
-    "ip_type": "IPv4",
-    "service": "forge",
-    "region": "us-east-1"
-  },
-  {
-    "ip_address": "54.193.160.145/32",
-    "ip_type": "IPv4",
-    "service": "forge",
     "region": "us-east-1"
   },
   {

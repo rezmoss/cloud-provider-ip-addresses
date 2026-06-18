@@ -1,0 +1,33 @@
+# scaleway IP ranges - ipset restore format (hash:net)
+# Version: 1 | Generated: 2026-06-18 | Last changed: 2026-06-18
+# IPv4: 18 merged subnets, 1487104 unique IPs
+# IPv6: 3 merged subnets
+# Source: https://github.com/rezmoss/cloud-provider-ip-addresses
+# License: CC0-1.0 | Updated daily at 02:00 UTC
+# Load with: sudo ipset restore -! < scaleway.netset
+#
+create scaleway_v4 hash:net family inet hashsize 4096 maxelem 1048576 -exist
+flush scaleway_v4
+add scaleway_v4 37.160.0.0/14
+add scaleway_v4 51.15.0.0/16
+add scaleway_v4 51.158.0.0/15
+add scaleway_v4 62.4.0.0/19
+add scaleway_v4 62.210.0.0/16
+add scaleway_v4 78.208.0.0/13
+add scaleway_v4 81.56.0.0/15
+add scaleway_v4 83.158.0.0/16
+add scaleway_v4 151.115.0.0/17
+add scaleway_v4 151.115.128.0/18
+add scaleway_v4 151.115.192.0/24
+add scaleway_v4 151.115.208.0/20
+add scaleway_v4 151.115.224.0/19
+add scaleway_v4 163.172.0.0/16
+add scaleway_v4 195.154.0.0/16
+add scaleway_v4 212.47.224.0/19
+add scaleway_v4 212.83.128.0/18
+add scaleway_v4 212.129.0.0/18
+create scaleway_v6 hash:net family inet6 hashsize 4096 maxelem 1048576 -exist
+flush scaleway_v6
+add scaleway_v6 2001:bc8::/32
+add scaleway_v6 2a01:e09::/32
+add scaleway_v6 2a01:e10::/30

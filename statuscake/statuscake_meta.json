@@ -1,0 +1,23 @@
+{
+  "provider": "statuscake",
+  "version": 1,
+  "generated_date": "2026-06-18",
+  "last_changed_date": "2026-06-18",
+  "sources": [
+    "https://app.statuscake.com/Workfloor/Locations.php?format=txt"
+  ],
+  "ipv4": {
+    "cidrs": 183,
+    "merged_cidrs": 183,
+    "addresses": 183
+  },
+  "ipv6": {
+    "cidrs": 0,
+    "merged_cidrs": 0,
+    "addresses": 0
+  },
+  "total_entries": 183,
+  "content_sha256": "06ff5623153691fe4eeef71e6454971dff34427c6d5cac7666e99e8ac4db6ebd",
+  "license": "CC0-1.0",
+  "license_url": "https://github.com/rezmoss/cloud-provider-ip-addresses/blob/main/LICENSE"
+}

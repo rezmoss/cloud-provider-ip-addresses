@@ -1,0 +1,52 @@
+# circleci IP ranges - ipset restore format (hash:net)
+# Version: 1 | Generated: 2026-06-18 | Last changed: 2026-06-18
+# IPv4: 42 merged subnets, 3871 unique IPs
+# IPv6: 0 merged subnets
+# Source: https://github.com/rezmoss/cloud-provider-ip-addresses
+# License: CC0-1.0 | Updated daily at 02:00 UTC
+# Load with: sudo ipset restore -! < circleci.netset
+#
+create circleci_v4 hash:net family inet hashsize 4096 maxelem 1048576 -exist
+flush circleci_v4
+add circleci_v4 3.210.128.175/32
+add circleci_v4 3.228.39.90/32
+add circleci_v4 18.97.4.0/24
+add circleci_v4 18.97.6.0/23
+add circleci_v4 18.213.67.41/32
+add circleci_v4 18.214.70.5/32
+add circleci_v4 18.214.156.84/32
+add circleci_v4 34.194.94.201/32
+add circleci_v4 34.194.144.202/32
+add circleci_v4 34.197.6.234/32
+add circleci_v4 34.197.216.176/32
+add circleci_v4 35.169.17.173/32
+add circleci_v4 35.174.249.131/32
+add circleci_v4 35.174.253.146/32
+add circleci_v4 38.23.41.0/24
+add circleci_v4 38.23.42.0/23
+add circleci_v4 38.23.48.0/22
+add circleci_v4 38.23.52.0/24
+add circleci_v4 52.3.128.216/32
+add circleci_v4 52.4.195.249/32
+add circleci_v4 52.5.58.121/32
+add circleci_v4 52.6.77.249/32
+add circleci_v4 52.20.166.242/32
+add circleci_v4 52.21.153.129/32
+add circleci_v4 52.22.215.219/32
+add circleci_v4 52.72.72.233/32
+add circleci_v4 52.206.105.184/32
+add circleci_v4 54.92.235.88/32
+add circleci_v4 54.161.182.76/32
+add circleci_v4 54.164.161.41/32
+add circleci_v4 54.166.105.113/32
+add circleci_v4 54.167.72.230/32
+add circleci_v4 54.172.26.132/32
+add circleci_v4 54.205.138.102/32
+add circleci_v4 54.208.72.234/32
+add circleci_v4 54.209.115.53/32
+add circleci_v4 54.236.156.101/32
+add circleci_v4 98.80.165.0/24
+add circleci_v4 100.27.248.128/25
+add circleci_v4 100.29.139.128/25
+add circleci_v4 207.254.116.0/24
+add circleci_v4 207.254.118.0/24

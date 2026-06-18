@@ -1,0 +1,100 @@
+# hetzner IP ranges - ipset restore format (hash:net)
+# Version: 1 | Generated: 2026-06-18 | Last changed: 2026-06-18
+# IPv4: 83 merged subnets, 3367936 unique IPs
+# IPv6: 5 merged subnets
+# Source: https://github.com/rezmoss/cloud-provider-ip-addresses
+# License: CC0-1.0 | Updated daily at 02:00 UTC
+# Load with: sudo ipset restore -! < hetzner.netset
+#
+create hetzner_v4 hash:net family inet hashsize 4096 maxelem 1048576 -exist
+flush hetzner_v4
+add hetzner_v4 2.28.0.0/15
+add hetzner_v4 5.9.0.0/16
+add hetzner_v4 5.75.128.0/17
+add hetzner_v4 5.78.0.0/16
+add hetzner_v4 5.161.0.0/16
+add hetzner_v4 23.88.0.0/17
+add hetzner_v4 31.58.88.0/24
+add hetzner_v4 37.27.0.0/16
+add hetzner_v4 45.15.99.0/24
+add hetzner_v4 45.145.227.0/24
+add hetzner_v4 46.4.0.0/16
+add hetzner_v4 46.62.128.0/17
+add hetzner_v4 46.224.0.0/15
+add hetzner_v4 49.12.0.0/15
+add hetzner_v4 62.238.0.0/17
+add hetzner_v4 65.21.0.0/16
+add hetzner_v4 65.108.0.0/15
+add hetzner_v4 77.42.0.0/17
+add hetzner_v4 78.46.0.0/15
+add hetzner_v4 78.138.62.0/24
+add hetzner_v4 85.10.192.0/18
+add hetzner_v4 87.99.128.0/17
+add hetzner_v4 88.99.0.0/16
+add hetzner_v4 88.198.0.0/16
+add hetzner_v4 89.167.0.0/17
+add hetzner_v4 91.98.0.0/15
+add hetzner_v4 91.107.128.0/17
+add hetzner_v4 91.190.240.0/21
+add hetzner_v4 94.130.0.0/16
+add hetzner_v4 95.216.0.0/15
+add hetzner_v4 116.202.0.0/15
+add hetzner_v4 128.140.0.0/17
+add hetzner_v4 135.181.0.0/16
+add hetzner_v4 136.243.0.0/16
+add hetzner_v4 138.199.128.0/17
+add hetzner_v4 138.201.0.0/16
+add hetzner_v4 142.132.128.0/17
+add hetzner_v4 144.76.0.0/16
+add hetzner_v4 148.251.0.0/16
+add hetzner_v4 157.90.0.0/16
+add hetzner_v4 157.180.0.0/17
+add hetzner_v4 159.69.0.0/16
+add hetzner_v4 162.55.0.0/16
+add hetzner_v4 167.233.0.0/16
+add hetzner_v4 167.235.0.0/16
+add hetzner_v4 168.119.0.0/16
+add hetzner_v4 171.25.225.0/24
+add hetzner_v4 176.9.0.0/16
+add hetzner_v4 178.63.0.0/16
+add hetzner_v4 178.104.0.0/15
+add hetzner_v4 178.156.128.0/17
+add hetzner_v4 178.212.75.0/24
+add hetzner_v4 185.12.65.0/24
+add hetzner_v4 185.50.120.0/23
+add hetzner_v4 185.107.52.0/22
+add hetzner_v4 185.126.28.0/22
+add hetzner_v4 185.157.83.0/24
+add hetzner_v4 185.157.176.0/22
+add hetzner_v4 185.171.224.0/22
+add hetzner_v4 185.189.228.0/22
+add hetzner_v4 185.213.45.0/24
+add hetzner_v4 185.216.237.0/24
+add hetzner_v4 185.226.99.0/24
+add hetzner_v4 185.228.8.0/23
+add hetzner_v4 188.34.128.0/17
+add hetzner_v4 188.40.0.0/16
+add hetzner_v4 188.245.0.0/16
+add hetzner_v4 193.105.82.0/24
+add hetzner_v4 193.110.6.0/23
+add hetzner_v4 193.163.198.0/24
+add hetzner_v4 194.42.180.0/22
+add hetzner_v4 194.42.184.0/22
+add hetzner_v4 194.62.106.0/24
+add hetzner_v4 195.60.226.0/24
+add hetzner_v4 195.201.0.0/16
+add hetzner_v4 195.248.224.0/24
+add hetzner_v4 197.242.84.0/22
+add hetzner_v4 201.131.3.0/24
+add hetzner_v4 204.29.146.0/24
+add hetzner_v4 204.168.128.0/17
+add hetzner_v4 213.133.96.0/19
+add hetzner_v4 213.239.192.0/18
+add hetzner_v4 216.55.108.0/22
+create hetzner_v6 hash:net family inet6 hashsize 4096 maxelem 1048576 -exist
+flush hetzner_v6
+add hetzner_v6 2a01:4f8::/31
+add hetzner_v6 2a01:4ff::/39
+add hetzner_v6 2a01:4ff:ff01::/48
+add hetzner_v6 2a06:be80::/29
+add hetzner_v6 2a12:2240::/29

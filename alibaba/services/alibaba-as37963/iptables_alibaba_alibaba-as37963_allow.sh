@@ -1,6 +1,6 @@
 #!/bin/bash
 # Alibaba IP Ranges
-# Updated: 2026-06-14 03:22:21
+# Updated: 2026-06-18 03:21:22
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -443,7 +443,6 @@ iptables -A INPUT -s 110.75.192.0/19 -j ACCEPT
 iptables -A INPUT -s 110.75.224.0/19 -j ACCEPT
 iptables -A INPUT -s 110.75.227.0/24 -j ACCEPT
 iptables -A INPUT -s 110.75.228.0/23 -j ACCEPT
-iptables -A INPUT -s 110.75.228.0/24 -j ACCEPT
 iptables -A INPUT -s 110.75.230.0/24 -j ACCEPT
 iptables -A INPUT -s 110.75.233.0/24 -j ACCEPT
 iptables -A INPUT -s 110.75.235.0/24 -j ACCEPT
@@ -882,6 +881,11 @@ ip6tables -A INPUT -s 2408:4011::/32 -j ACCEPT
 ip6tables -A INPUT -s 2408:4011::/33 -j ACCEPT
 ip6tables -A INPUT -s 2408:4011:8000::/33 -j ACCEPT
 ip6tables -A INPUT -s 2408:4015::/32 -j ACCEPT
+ip6tables -A INPUT -s 2408:4016:3::/48 -j ACCEPT
+ip6tables -A INPUT -s 2408:4016:4::/48 -j ACCEPT
+ip6tables -A INPUT -s 2408:4016:5::/48 -j ACCEPT
+ip6tables -A INPUT -s 2408:4016:6::/48 -j ACCEPT
+ip6tables -A INPUT -s 2408:4016:7::/48 -j ACCEPT
 ip6tables -A INPUT -s 2408:4017::/32 -j ACCEPT
 ip6tables -A INPUT -s 2408:4017::/33 -j ACCEPT
 ip6tables -A INPUT -s 2408:4017:8000::/33 -j ACCEPT

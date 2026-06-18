@@ -165,6 +165,12 @@ ip_address,ip_type,service,region
 52.144.201.64/26,IPv4,AMAZON,ca-central-1
 52.144.201.128/26,IPv4,AMAZON,ca-central-1
 54.239.1.0/28,IPv4,AMAZON,ca-central-1
+63.249.201.0/24,IPv4,AMAZON,ca-central-1
+63.249.201.0/24,IPv4,EC2,ca-central-1
+63.249.202.0/24,IPv4,AMAZON,ca-central-1
+63.249.202.0/24,IPv4,EC2,ca-central-1
+63.249.203.0/24,IPv4,AMAZON,ca-central-1
+63.249.203.0/24,IPv4,EC2,ca-central-1
 64.252.124.0/24,IPv4,AMAZON,ca-central-1
 64.252.124.0/24,IPv4,EC2,ca-central-1
 99.77.150.0/24,IPv4,AMAZON,ca-central-1

@@ -1,12 +1,14 @@
 #!/bin/bash
 # Hetzner IP Ranges
-# Updated: 2026-06-17 03:21:26
+# Updated: 2026-06-18 03:21:28
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
 # Updates daily at 02:00 UTC
 # UFW allow rules for hetzner
 
+ufw allow from 2.28.0.0/16
+ufw allow from 2.29.0.0/16
 ufw allow from 5.9.0.0/16
 ufw allow from 5.75.128.0/17
 ufw allow from 23.88.0.0/17

@@ -1,0 +1,95 @@
+# atlassian IP ranges - ipset restore format (hash:net)
+# Version: 1 | Generated: 2026-06-18 | Last changed: 2026-06-18
+# IPv4: 69 merged subnets, 75566 unique IPs
+# IPv6: 14 merged subnets
+# Source: https://github.com/rezmoss/cloud-provider-ip-addresses
+# License: CC0-1.0 | Updated daily at 02:00 UTC
+# Load with: sudo ipset restore -! < atlassian.netset
+#
+create atlassian_v4 hash:net family inet hashsize 4096 maxelem 1048576 -exist
+flush atlassian_v4
+add atlassian_v4 3.216.235.48/32
+add atlassian_v4 3.221.151.112/32
+add atlassian_v4 13.35.248.0/24
+add atlassian_v4 13.52.5.96/28
+add atlassian_v4 13.200.41.128/25
+add atlassian_v4 13.227.180.0/24
+add atlassian_v4 13.227.213.0/24
+add atlassian_v4 13.236.8.224/28
+add atlassian_v4 16.63.53.128/25
+add atlassian_v4 18.136.214.96/28
+add atlassian_v4 18.184.99.224/28
+add atlassian_v4 18.234.32.224/28
+add atlassian_v4 18.246.31.208/28
+add atlassian_v4 18.246.31.224/28
+add atlassian_v4 18.246.188.0/25
+add atlassian_v4 34.196.8.197/32
+add atlassian_v4 34.199.54.113/32
+add atlassian_v4 34.209.119.136/32
+add atlassian_v4 34.212.5.76/32
+add atlassian_v4 34.213.22.229/32
+add atlassian_v4 34.216.18.129/32
+add atlassian_v4 34.218.156.209/32
+add atlassian_v4 34.218.168.212/32
+add atlassian_v4 34.231.96.243/32
+add atlassian_v4 34.232.25.90/32
+add atlassian_v4 34.232.119.183/32
+add atlassian_v4 34.233.65.54/32
+add atlassian_v4 34.236.25.177/32
+add atlassian_v4 34.249.70.175/32
+add atlassian_v4 34.251.56.38/32
+add atlassian_v4 34.252.236.245/32
+add atlassian_v4 34.253.57.155/32
+add atlassian_v4 34.253.110.0/32
+add atlassian_v4 35.155.178.254/32
+add atlassian_v4 35.160.177.10/32
+add atlassian_v4 35.167.7.36/32
+add atlassian_v4 35.167.157.209/32
+add atlassian_v4 35.171.175.212/32
+add atlassian_v4 43.202.69.0/25
+add atlassian_v4 44.194.7.14/32
+add atlassian_v4 44.199.3.254/32
+add atlassian_v4 44.199.45.64/32
+add atlassian_v4 44.199.127.226/32
+add atlassian_v4 44.220.40.128/25
+add atlassian_v4 52.19.227.102/32
+add atlassian_v4 52.24.176.31/32
+add atlassian_v4 52.41.219.63/32
+add atlassian_v4 52.51.22.205/32
+add atlassian_v4 52.54.90.98/32
+add atlassian_v4 52.72.137.240/32
+add atlassian_v4 52.82.172.0/22
+add atlassian_v4 52.202.195.162/32
+add atlassian_v4 52.203.14.55/32
+add atlassian_v4 52.204.96.37/32
+add atlassian_v4 52.205.184.192/32
+add atlassian_v4 52.215.192.224/28
+add atlassian_v4 54.72.24.111/32
+add atlassian_v4 54.72.208.111/32
+add atlassian_v4 54.77.2.231/32
+add atlassian_v4 54.187.228.111/32
+add atlassian_v4 76.223.144.220/31
+add atlassian_v4 76.223.147.128/25
+add atlassian_v4 76.223.176.0/20
+add atlassian_v4 104.192.136.0/21
+add atlassian_v4 167.89.0.0/17
+add atlassian_v4 168.245.0.0/17
+add atlassian_v4 174.129.205.191/32
+add atlassian_v4 185.166.140.0/22
+add atlassian_v4 216.221.175.128/25
+create atlassian_v6 hash:net family inet6 hashsize 4096 maxelem 1048576 -exist
+flush atlassian_v6
+add atlassian_v6 2401:1d80:3000::/36
+add atlassian_v6 2406:da18:809:e04::/63
+add atlassian_v6 2406:da18:809:e06::/64
+add atlassian_v6 2406:da1c:1e0:a204::/63
+add atlassian_v6 2406:da1c:1e0:a206::/64
+add atlassian_v6 2600:1f14:824:304::/63
+add atlassian_v6 2600:1f14:824:306::/64
+add atlassian_v6 2600:1f18:2146:e304::/63
+add atlassian_v6 2600:1f18:2146:e306::/64
+add atlassian_v6 2600:1f1c:cc5:2304::/63
+add atlassian_v6 2a05:d014:f99:dd04::/63
+add atlassian_v6 2a05:d014:f99:dd06::/64
+add atlassian_v6 2a05:d018:34d:5804::/63
+add atlassian_v6 2a05:d018:34d:5806::/64

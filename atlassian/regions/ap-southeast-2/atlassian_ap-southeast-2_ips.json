@@ -1,44 +1,8 @@
 [
   {
-    "ip_address": "3.104.191.162/32",
-    "ip_type": "IPv4",
-    "service": "forge",
-    "region": "ap-southeast-2"
-  },
-  {
-    "ip_address": "3.105.255.118/32",
-    "ip_type": "IPv4",
-    "service": "forge",
-    "region": "ap-southeast-2"
-  },
-  {
-    "ip_address": "3.106.172.84/32",
-    "ip_type": "IPv4",
-    "service": "forge",
-    "region": "ap-southeast-2"
-  },
-  {
     "ip_address": "13.236.8.224/28",
     "ip_type": "IPv4",
     "service": "bitbucket,confluence,forge,halp,jira,opsgenie,statuspage,trello",
-    "region": "ap-southeast-2"
-  },
-  {
-    "ip_address": "13.237.143.132/32",
-    "ip_type": "IPv4",
-    "service": "forge",
-    "region": "ap-southeast-2"
-  },
-  {
-    "ip_address": "13.238.244.22/32",
-    "ip_type": "IPv4",
-    "service": "forge",
-    "region": "ap-southeast-2"
-  },
-  {
-    "ip_address": "52.65.164.184/32",
-    "ip_type": "IPv4",
-    "service": "forge",
     "region": "ap-southeast-2"
   },
   {

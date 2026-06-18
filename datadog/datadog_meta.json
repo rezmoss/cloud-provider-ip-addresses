@@ -1,0 +1,23 @@
+{
+  "provider": "datadog",
+  "version": 1,
+  "generated_date": "2026-06-18",
+  "last_changed_date": "2026-06-18",
+  "sources": [
+    "https://ip-ranges.datadoghq.com/"
+  ],
+  "ipv4": {
+    "cidrs": 157,
+    "merged_cidrs": 149,
+    "addresses": 5597
+  },
+  "ipv6": {
+    "cidrs": 9,
+    "merged_cidrs": 1,
+    "addresses": 4722366482869645213696
+  },
+  "total_entries": 166,
+  "content_sha256": "df89596135572371078e70bf198f084e2e4d1410c26f7f401280fe49a75d6404",
+  "license": "CC0-1.0",
+  "license_url": "https://github.com/rezmoss/cloud-provider-ip-addresses/blob/main/LICENSE"
+}

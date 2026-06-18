@@ -6,12 +6,6 @@ CREATE TABLE IF NOT EXISTS `atlassian_ca-central-1_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
-INSERT INTO `atlassian_ca-central-1_ips` (`ip_address`, `ip_type`) VALUES ('3.96.73.34/32', 'IPv4');
-INSERT INTO `atlassian_ca-central-1_ips` (`ip_address`, `ip_type`) VALUES ('3.98.151.27/32', 'IPv4');
-INSERT INTO `atlassian_ca-central-1_ips` (`ip_address`, `ip_type`) VALUES ('15.156.32.59/32', 'IPv4');
-INSERT INTO `atlassian_ca-central-1_ips` (`ip_address`, `ip_type`) VALUES ('15.156.255.184/32', 'IPv4');
-INSERT INTO `atlassian_ca-central-1_ips` (`ip_address`, `ip_type`) VALUES ('15.222.164.249/32', 'IPv4');
-INSERT INTO `atlassian_ca-central-1_ips` (`ip_address`, `ip_type`) VALUES ('35.182.178.44/32', 'IPv4');
 INSERT INTO `atlassian_ca-central-1_ips` (`ip_address`, `ip_type`) VALUES ('104.192.136.0/24', 'IPv4');
 INSERT INTO `atlassian_ca-central-1_ips` (`ip_address`, `ip_type`) VALUES ('104.192.136.224/28', 'IPv4');
 INSERT INTO `atlassian_ca-central-1_ips` (`ip_address`, `ip_type`) VALUES ('104.192.136.240/28', 'IPv4');
