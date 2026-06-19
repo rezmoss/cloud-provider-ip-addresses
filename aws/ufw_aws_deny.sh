@@ -1,6 +1,6 @@
 #!/bin/bash
 # Aws IP Ranges
-# Updated: 2026-06-18 03:19:37
+# Updated: 2026-06-19 03:21:30
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -7934,10 +7934,18 @@ ufw deny from 63.246.119.0/24
 ufw deny from 63.246.119.0/24
 ufw deny from 63.246.120.0/21
 ufw deny from 63.246.120.0/21
+ufw deny from 63.249.131.0/24
+ufw deny from 63.249.131.0/24
 ufw deny from 63.249.132.0/24
 ufw deny from 63.249.132.0/24
 ufw deny from 63.249.138.0/24
 ufw deny from 63.249.138.0/24
+ufw deny from 63.249.140.0/24
+ufw deny from 63.249.140.0/24
+ufw deny from 63.249.145.0/24
+ufw deny from 63.249.145.0/24
+ufw deny from 63.249.146.0/24
+ufw deny from 63.249.146.0/24
 ufw deny from 63.249.150.0/24
 ufw deny from 63.249.150.0/24
 ufw deny from 63.249.151.0/24
@@ -7966,8 +7974,14 @@ ufw deny from 63.249.168.0/24
 ufw deny from 63.249.168.0/24
 ufw deny from 63.249.169.0/24
 ufw deny from 63.249.169.0/24
+ufw deny from 63.249.170.0/24
+ufw deny from 63.249.170.0/24
 ufw deny from 63.249.172.0/24
 ufw deny from 63.249.172.0/24
+ufw deny from 63.249.176.0/24
+ufw deny from 63.249.176.0/24
+ufw deny from 63.249.177.0/24
+ufw deny from 63.249.177.0/24
 ufw deny from 63.249.178.0/24
 ufw deny from 63.249.178.0/24
 ufw deny from 63.249.185.0/24
@@ -7998,8 +8012,6 @@ ufw deny from 64.73.196.0/24
 ufw deny from 64.73.196.0/24
 ufw deny from 64.73.197.0/24
 ufw deny from 64.73.197.0/24
-ufw deny from 64.73.201.0/24
-ufw deny from 64.73.201.0/24
 ufw deny from 64.73.202.0/24
 ufw deny from 64.73.202.0/24
 ufw deny from 64.73.203.0/24
@@ -10462,6 +10474,8 @@ ufw deny from 2001:3fc7:a800::/40
 ufw deny from 2001:3fc7:a800::/40
 ufw deny from 2001:3fc7:c800::/40
 ufw deny from 2001:3fc7:e800::/40
+ufw deny from 2001:3fc7:f400::/40
+ufw deny from 2001:3fc7:f400::/40
 ufw deny from 2001:3fc7:f800::/40
 ufw deny from 2001:3fc7:f800::/40
 ufw deny from 2400:6500:0:3::/64
@@ -15253,6 +15267,8 @@ ufw deny from 2631:1:10d::/48
 ufw deny from 2631:1:10d::/48
 ufw deny from 2631:1:10f::/48
 ufw deny from 2631:1:10f::/48
+ufw deny from 2631:1:200::/40
+ufw deny from 2631:1:200::/40
 ufw deny from 2804:800::/48
 ufw deny from 2804:800:ff00::/48
 ufw deny from 2804:800:ff00::/48

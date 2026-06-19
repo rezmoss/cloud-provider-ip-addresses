@@ -798,6 +798,18 @@
     "region": "eusc-de-east-1"
   },
   {
+    "ip_address": "2001:3fc7:f400::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2001:3fc7:f400::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eusc-de-east-1"
+  },
+  {
     "ip_address": "2001:3fc7:f800::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",

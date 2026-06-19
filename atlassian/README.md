@@ -1,6 +1,6 @@
 # Atlassian IP Ranges (Auto-Updated Daily)
 
-> Last updated: **2026-06-18** · Total CIDRs: **166** · IPv4: **106** · IPv6: **60** · Services: **11** · Regions: **17**
+> Last updated: **2026-06-19** · Total CIDRs: **166** · IPv4: **106** · IPv6: **60** · Services: **11** · Regions: **17**
 
 Machine-readable, daily-updated, validated public IP ranges for **Atlassian**.
 Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and Apache.

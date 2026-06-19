@@ -1294,8 +1294,12 @@ ip_address,ip_type,service,region
 63.246.112.0/24,IPv4,EC2,eu-north-1
 63.246.113.0/24,IPv4,EC2,eu-west-1
 63.246.119.0/24,IPv4,EC2,us-east-1
+63.249.131.0/24,IPv4,EC2,eu-north-1
 63.249.132.0/24,IPv4,EC2,eu-north-1
 63.249.138.0/24,IPv4,EC2,eu-west-3
+63.249.140.0/24,IPv4,EC2,eu-west-3
+63.249.145.0/24,IPv4,EC2,us-east-2
+63.249.146.0/24,IPv4,EC2,us-east-2
 63.249.150.0/24,IPv4,EC2,eu-west-1
 63.249.151.0/24,IPv4,EC2,eu-west-1
 63.249.152.0/24,IPv4,EC2,eu-west-1
@@ -1310,7 +1314,10 @@ ip_address,ip_type,service,region
 63.249.167.0/24,IPv4,EC2,ap-northeast-2
 63.249.168.0/24,IPv4,EC2,ap-northeast-2
 63.249.169.0/24,IPv4,EC2,ap-northeast-2
+63.249.170.0/24,IPv4,EC2,ap-northeast-3
 63.249.172.0/24,IPv4,EC2,ap-northeast-3
+63.249.176.0/24,IPv4,EC2,eu-west-2
+63.249.177.0/24,IPv4,EC2,eu-west-2
 63.249.178.0/24,IPv4,EC2,eu-west-2
 63.249.185.0/24,IPv4,EC2,ap-northeast-1
 63.249.186.0/24,IPv4,EC2,ap-northeast-1
@@ -1326,7 +1333,6 @@ ip_address,ip_type,service,region
 64.73.195.0/24,IPv4,EC2,us-west-1
 64.73.196.0/24,IPv4,EC2,us-west-1
 64.73.197.0/24,IPv4,EC2,us-west-1
-64.73.201.0/24,IPv4,EC2,us-east-1
 64.73.202.0/24,IPv4,EC2,us-east-1
 64.73.203.0/24,IPv4,EC2,us-west-2
 64.73.204.0/24,IPv4,EC2,us-west-2
@@ -1887,6 +1893,7 @@ ip_address,ip_type,service,region
 2001:3fc7:4800::/40,IPv6,EC2,eusc-de-east-1
 2001:3fc7:5800::/40,IPv6,EC2,eusc-de-east-1
 2001:3fc7:6800::/40,IPv6,EC2,eusc-de-east-1
+2001:3fc7:f400::/40,IPv6,EC2,eusc-de-east-1
 2001:3fc7:f800::/40,IPv6,EC2,eusc-de-east-1
 2400:6500:ff00::/48,IPv6,EC2,ap-southeast-1
 2400:6700:ff00::/48,IPv6,EC2,ap-northeast-1
@@ -3656,6 +3663,7 @@ ip_address,ip_type,service,region
 2631:1:10c::/48,IPv6,EC2,ca-central-1
 2631:1:10d::/48,IPv6,EC2,eu-west-2
 2631:1:10f::/48,IPv6,EC2,eu-west-3
+2631:1:200::/40,IPv6,EC2,us-west-2
 2804:800:ff00::/48,IPv6,EC2,sa-east-1
 2a01:578:3::/48,IPv6,EC2,eu-west-1
 2a01:578:13::/48,IPv6,EC2,eu-central-1

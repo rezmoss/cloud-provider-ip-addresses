@@ -1,6 +1,6 @@
 #!/bin/bash
 # Meta IP Ranges
-# Updated: 2026-06-17 03:21:17
+# Updated: 2026-06-19 03:23:02
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -51,6 +51,7 @@ ufw deny from 57.141.18.0/24
 ufw deny from 57.141.19.0/24
 ufw deny from 57.141.20.0/24
 ufw deny from 57.141.21.0/24
+ufw deny from 57.141.24.0/24
 ufw deny from 57.144.0.0/14
 ufw deny from 57.144.14.0/23
 ufw deny from 57.144.22.0/23
@@ -677,6 +678,7 @@ ufw deny from 2a03:2880:f812::/48
 ufw deny from 2a03:2880:f813::/48
 ufw deny from 2a03:2880:f814::/48
 ufw deny from 2a03:2880:f815::/48
+ufw deny from 2a03:2880:f816::/48
 ufw deny from 2a03:2880:ff00::/47
 ufw deny from 2a03:2880:ff00::/48
 ufw deny from 2a03:2880:ff01::/48

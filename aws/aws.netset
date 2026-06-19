@@ -1,7 +1,7 @@
 # aws IP ranges - ipset restore format (hash:net)
-# Version: 1 | Generated: 2026-06-18 | Last changed: 2026-06-18
-# IPv4: 1772 merged subnets, 101794776 unique IPs
-# IPv6: 2014 merged subnets
+# Version: 2 | Generated: 2026-06-19 | Last changed: 2026-06-19
+# IPv4: 1777 merged subnets, 101796312 unique IPs
+# IPv6: 2016 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
 # Load with: sudo ipset restore -! < aws.netset
@@ -1278,13 +1278,19 @@ add aws_v4 63.176.0.0/12
 add aws_v4 63.246.112.0/22
 add aws_v4 63.246.119.0/24
 add aws_v4 63.246.120.0/21
+add aws_v4 63.249.131.0/24
 add aws_v4 63.249.132.0/24
 add aws_v4 63.249.138.0/24
+add aws_v4 63.249.140.0/24
+add aws_v4 63.249.145.0/24
+add aws_v4 63.249.146.0/24
 add aws_v4 63.249.150.0/23
 add aws_v4 63.249.152.0/21
 add aws_v4 63.249.166.0/23
 add aws_v4 63.249.168.0/23
+add aws_v4 63.249.170.0/24
 add aws_v4 63.249.172.0/24
+add aws_v4 63.249.176.0/23
 add aws_v4 63.249.178.0/24
 add aws_v4 63.249.185.0/24
 add aws_v4 63.249.186.0/23
@@ -1296,7 +1302,6 @@ add aws_v4 63.249.202.0/23
 add aws_v4 64.73.193.0/24
 add aws_v4 64.73.195.0/24
 add aws_v4 64.73.196.0/23
-add aws_v4 64.73.201.0/24
 add aws_v4 64.73.202.0/23
 add aws_v4 64.73.204.0/22
 add aws_v4 64.73.208.0/21
@@ -1815,6 +1820,7 @@ add aws_v6 2001:3fc7:9800::/40
 add aws_v6 2001:3fc7:a800::/40
 add aws_v6 2001:3fc7:c800::/40
 add aws_v6 2001:3fc7:e800::/40
+add aws_v6 2001:3fc7:f400::/40
 add aws_v6 2001:3fc7:f800::/40
 add aws_v6 2400:6500:0:3::/64
 add aws_v6 2400:6500:0:9::1/128
@@ -3399,6 +3405,7 @@ add aws_v6 2631:1:108::/48
 add aws_v6 2631:1:10b::/48
 add aws_v6 2631:1:10c::/47
 add aws_v6 2631:1:10f::/48
+add aws_v6 2631:1:200::/40
 add aws_v6 2804:800::/48
 add aws_v6 2804:800:ff00::/48
 add aws_v6 2a01:578:0:12::/63

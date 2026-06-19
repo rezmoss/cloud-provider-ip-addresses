@@ -439,7 +439,6 @@ ip_address,ip_type,service,region
 14.1.112.0/22,IPv4,alibaba-as45102,global
 14.1.115.0/24,IPv4,alibaba-as45102,global
 38.47.128.0/24,IPv4,alibaba-as134963,global
-38.47.129.0/24,IPv4,alibaba-as134963,global
 38.47.130.0/24,IPv4,alibaba-as134963,global
 38.47.131.0/24,IPv4,alibaba-as134963,global
 38.47.132.0/24,IPv4,alibaba-as134963,global
@@ -773,6 +772,9 @@ ip_address,ip_type,service,region
 43.124.0.0/17,IPv4,alibaba-as45102,global
 43.124.0.0/18,IPv4,alibaba-as45102,global
 43.124.64.0/18,IPv4,alibaba-as45102,global
+43.124.128.0/17,IPv4,alibaba-as45102,global
+43.124.128.0/18,IPv4,alibaba-as45102,global
+43.124.192.0/18,IPv4,alibaba-as45102,global
 45.113.40.0/22,IPv4,alibaba-as37963,global
 45.113.40.0/23,IPv4,alibaba-as37963,global
 45.113.42.0/23,IPv4,alibaba-as37963,global

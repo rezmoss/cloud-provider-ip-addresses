@@ -1,6 +1,6 @@
 # UptimeRobot IP Ranges (Auto-Updated Daily)
 
-> Last updated: **2026-06-18** · Total CIDRs: **232** · IPv4: **116** · IPv6: **116** · Services: **1** · Regions: **4**
+> Last updated: **2026-06-19** · Total CIDRs: **232** · IPv4: **116** · IPv6: **116** · Services: **1** · Regions: **4**
 
 Machine-readable, daily-updated, validated public IP ranges for **UptimeRobot**.
 Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and Apache.
