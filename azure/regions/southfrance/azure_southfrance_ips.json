@@ -2052,6 +2052,18 @@
     "region": "southfrance"
   },
   {
+    "ip_address": "2603:1020:905:b::200/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "2603:1020:905:b::600/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.FranceSouth",
+    "region": "southfrance"
+  },
+  {
     "ip_address": "2603:1020:905:400::/123",
     "ip_type": "IPv6",
     "service": "Sql.FranceSouth",

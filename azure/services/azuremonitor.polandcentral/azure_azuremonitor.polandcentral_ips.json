@@ -184,5 +184,11 @@
     "ip_type": "IPv6",
     "service": "AzureMonitor.PolandCentral",
     "region": "polandcentral"
+  },
+  {
+    "ip_address": "2603:1020:1302:b::/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.PolandCentral",
+    "region": "polandcentral"
   }
 ]

@@ -108,6 +108,7 @@ ip_address,ip_type,service,region
 9.160.212.0/23,IPv4,AzureEventGrid.BelgiumCentral,belgiumcentral
 9.160.219.64/26,IPv4,AzureSignalR.BelgiumCentral,belgiumcentral
 9.160.219.208/28,IPv4,AzureMonitor.BelgiumCentral,belgiumcentral
+9.160.220.160/28,IPv4,AzureMonitor.BelgiumCentral,belgiumcentral
 20.20.52.32/27,IPv4,AzureCloud.belgiumcentral,belgiumcentral
 20.20.52.64/26,IPv4,AzureCloud.belgiumcentral,belgiumcentral
 20.20.120.0/24,IPv4,AzureCloud.belgiumcentral,belgiumcentral
@@ -138,6 +139,7 @@ ip_address,ip_type,service,region
 57.150.198.0/24,IPv4,Storage.BelgiumCentral,belgiumcentral
 57.163.14.0/23,IPv4,AzureCloud.belgiumcentral,belgiumcentral
 57.163.14.0/23,IPv4,Storage.BelgiumCentral,belgiumcentral
+74.152.0.0/17,IPv4,AzureCloud.belgiumcentral,belgiumcentral
 145.190.157.0/24,IPv4,AzureCloud.belgiumcentral,belgiumcentral
 145.190.157.0/24,IPv4,Storage.BelgiumCentral,belgiumcentral
 209.199.27.32/27,IPv4,AzureCloud.belgiumcentral,belgiumcentral
@@ -190,6 +192,7 @@ ip_address,ip_type,service,region
 2603:1020:1502:4::380/122,IPv6,AzureSignalR.BelgiumCentral,belgiumcentral
 2603:1020:1502:4::440/123,IPv6,AzureMonitor.BelgiumCentral,belgiumcentral
 2603:1020:1502:5::260/123,IPv6,AzureMonitor.BelgiumCentral,belgiumcentral
+2603:1020:1502:6::/118,IPv6,AzureMonitor.BelgiumCentral,belgiumcentral
 2603:1020:1502:400::/125,IPv6,MicrosoftContainerRegistry.BelgiumCentral,belgiumcentral
 2603:1020:1502:400::8/125,IPv6,AzureContainerRegistry.BelgiumCentral,belgiumcentral
 2603:1020:1502:400::18/125,IPv6,ServiceFabric.BelgiumCentral,belgiumcentral

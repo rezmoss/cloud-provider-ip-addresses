@@ -54,6 +54,8 @@ INSERT INTO `azure_azuremonitor.centralindia_ips` (`ip_address`, `ip_type`) VALU
 INSERT INTO `azure_azuremonitor.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:a06:c::500/120', 'IPv6');
 INSERT INTO `azure_azuremonitor.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:a06:d::20/123', 'IPv6');
 INSERT INTO `azure_azuremonitor.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:a06:f::120/123', 'IPv6');
+INSERT INTO `azure_azuremonitor.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:a06:f::400/119', 'IPv6');
+INSERT INTO `azure_azuremonitor.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:a06:10::/119', 'IPv6');
 INSERT INTO `azure_azuremonitor.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:a06:402::500/121', 'IPv6');
 INSERT INTO `azure_azuremonitor.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:a06:802::480/121', 'IPv6');
 INSERT INTO `azure_azuremonitor.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:a06:c02::480/121', 'IPv6');

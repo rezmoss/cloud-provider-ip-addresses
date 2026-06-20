@@ -21,3 +21,5 @@ INSERT INTO `azure_azuremonitor.southeastus_ips` (`ip_address`, `ip_type`) VALUE
 INSERT INTO `azure_azuremonitor.southeastus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:902:2::600/123', 'IPv6');
 INSERT INTO `azure_azuremonitor.southeastus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:902:2::680/121', 'IPv6');
 INSERT INTO `azure_azuremonitor.southeastus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:902:2::700/121', 'IPv6');
+INSERT INTO `azure_azuremonitor.southeastus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:902:5::600/119', 'IPv6');
+INSERT INTO `azure_azuremonitor.southeastus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:902:6::200/119', 'IPv6');

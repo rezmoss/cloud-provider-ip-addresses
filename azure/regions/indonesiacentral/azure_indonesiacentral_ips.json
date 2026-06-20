@@ -1530,6 +1530,12 @@
     "region": "indonesiacentral"
   },
   {
+    "ip_address": "2603:1040:1802:6::600/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.IndonesiaCentral",
+    "region": "indonesiacentral"
+  },
+  {
     "ip_address": "2603:1040:1802:7::114/128",
     "ip_type": "IPv6",
     "service": "AzureArcInfrastructure.IndonesiaCentral",
@@ -1575,6 +1581,12 @@
     "ip_address": "2603:1040:1802:7::2c0/124",
     "ip_type": "IPv6",
     "service": "AzureMachineLearning.IndonesiaCentral",
+    "region": "indonesiacentral"
+  },
+  {
+    "ip_address": "2603:1040:1802:8::200/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.IndonesiaCentral",
     "region": "indonesiacentral"
   },
   {

@@ -15,5 +15,6 @@ INSERT INTO `azure_azuremonitor.southcentralusstg_ips` (`ip_address`, `ip_type`)
 INSERT INTO `azure_azuremonitor.southcentralusstg_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:302:1::/122', 'IPv6');
 INSERT INTO `azure_azuremonitor.southcentralusstg_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:302:1::c0/123', 'IPv6');
 INSERT INTO `azure_azuremonitor.southcentralusstg_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:302:1::100/122', 'IPv6');
+INSERT INTO `azure_azuremonitor.southcentralusstg_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:302:4::/118', 'IPv6');
 INSERT INTO `azure_azuremonitor.southcentralusstg_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:302:402::80/123', 'IPv6');
 INSERT INTO `azure_azuremonitor.southcentralusstg_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:302:402::100/121', 'IPv6');

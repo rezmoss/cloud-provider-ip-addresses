@@ -558,6 +558,12 @@
     "region": "centralus"
   },
   {
+    "ip_address": "2603:1030:10:27::200/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.CentralUS",
+    "region": "centralus"
+  },
+  {
     "ip_address": "2603:1030:10:402::500/121",
     "ip_type": "IPv6",
     "service": "AzureMonitor.CentralUS",

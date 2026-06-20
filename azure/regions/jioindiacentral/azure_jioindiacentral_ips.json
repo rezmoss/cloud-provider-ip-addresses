@@ -1260,6 +1260,12 @@
     "region": "jioindiacentral"
   },
   {
+    "ip_address": "2603:1040:1104:8::/118",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.JioIndiaCentral",
+    "region": "jioindiacentral"
+  },
+  {
     "ip_address": "2603:1040:1104:400::80/125",
     "ip_type": "IPv6",
     "service": "AzureKeyVault.JioIndiaCentral",

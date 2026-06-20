@@ -270,6 +270,12 @@
     "region": "chilec"
   },
   {
+    "ip_address": "68.211.192.0/19",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.chilec",
+    "region": "chilec"
+  },
+  {
     "ip_address": "70.152.213.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.chilec",

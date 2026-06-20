@@ -16,6 +16,7 @@ INSERT INTO `azure_azurecontainerregistry.centralus_ips` (`ip_address`, `ip_type
 INSERT INTO `azure_azurecontainerregistry.centralus_ips` (`ip_address`, `ip_type`) VALUES ('52.182.138.208/29', 'IPv4');
 INSERT INTO `azure_azurecontainerregistry.centralus_ips` (`ip_address`, `ip_type`) VALUES ('52.182.142.0/25', 'IPv4');
 INSERT INTO `azure_azurecontainerregistry.centralus_ips` (`ip_address`, `ip_type`) VALUES ('52.182.142.128/25', 'IPv4');
+INSERT INTO `azure_azurecontainerregistry.centralus_ips` (`ip_address`, `ip_type`) VALUES ('57.175.72.0/26', 'IPv4');
 INSERT INTO `azure_azurecontainerregistry.centralus_ips` (`ip_address`, `ip_type`) VALUES ('72.152.15.0/26', 'IPv4');
 INSERT INTO `azure_azurecontainerregistry.centralus_ips` (`ip_address`, `ip_type`) VALUES ('104.208.16.80/29', 'IPv4');
 INSERT INTO `azure_azurecontainerregistry.centralus_ips` (`ip_address`, `ip_type`) VALUES ('172.212.129.0/24', 'IPv4');

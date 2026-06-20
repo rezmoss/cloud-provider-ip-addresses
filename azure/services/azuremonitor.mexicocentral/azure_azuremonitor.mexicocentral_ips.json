@@ -142,5 +142,17 @@
     "ip_type": "IPv6",
     "service": "AzureMonitor.MexicoCentral",
     "region": "mexicocentral"
+  },
+  {
+    "ip_address": "2603:1030:702:9::/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "2603:1030:702:9::400/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.MexicoCentral",
+    "region": "mexicocentral"
   }
 ]

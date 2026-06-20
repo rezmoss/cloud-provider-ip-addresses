@@ -42,6 +42,8 @@ INSERT INTO `azure_azuremonitor.southafricanorth_ips` (`ip_address`, `ip_type`) 
 INSERT INTO `azure_azuremonitor.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1000:104:a::600/120', 'IPv6');
 INSERT INTO `azure_azuremonitor.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1000:104:a::7a0/123', 'IPv6');
 INSERT INTO `azure_azuremonitor.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1000:104:d::3c0/123', 'IPv6');
+INSERT INTO `azure_azuremonitor.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1000:104:d::600/119', 'IPv6');
+INSERT INTO `azure_azuremonitor.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1000:104:e::200/119', 'IPv6');
 INSERT INTO `azure_azuremonitor.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1000:104:402::500/121', 'IPv6');
 INSERT INTO `azure_azuremonitor.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1000:104:802::480/121', 'IPv6');
 INSERT INTO `azure_azuremonitor.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1000:104:c02::480/121', 'IPv6');

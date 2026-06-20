@@ -61,6 +61,7 @@ ip_address,ip_type,service,region
 20.20.96.0/25,IPv4,AzureCloud.brazilsouth,brazilsouth
 20.20.96.128/26,IPv4,AzureCloud.brazilsouth,brazilsouth
 20.20.96.192/29,IPv4,AzureCloud.brazilsouth,brazilsouth
+20.20.96.200/30,IPv4,AzureCloud.brazilsouth,brazilsouth
 20.20.96.228/30,IPv4,AzureCloud.brazilsouth,brazilsouth
 20.20.96.232/29,IPv4,AzureCloud.brazilsouth,brazilsouth
 20.20.96.240/28,IPv4,AzureCloud.brazilsouth,brazilsouth
@@ -279,6 +280,8 @@ ip_address,ip_type,service,region
 74.163.134.0/27,IPv4,AzureSecurityCenter.BrazilSouth,brazilsouth
 74.163.143.250/31,IPv4,ApiManagement.BrazilSouth,brazilsouth
 74.163.231.64/29,IPv4,AppServiceManagement.BrazilSouth,brazilsouth
+74.163.231.200/29,IPv4,AzureDevOps.BrazilSouth,brazilsouth
+74.163.231.224/27,IPv4,AzureDevOps.BrazilSouth,brazilsouth
 74.163.234.64/26,IPv4,PowerBI.BrazilSouth,brazilsouth
 74.163.252.230/32,IPv4,AzureArcInfrastructure.BrazilSouth,brazilsouth
 74.163.253.0/24,IPv4,PowerPlatformPlex.BrazilSouth,brazilsouth
@@ -610,6 +613,8 @@ ip_address,ip_type,service,region
 2603:1050:6:e::300/121,IPv6,AzureIoTHub.BrazilSouth,brazilsouth
 2603:1050:6:e::380/122,IPv6,AzureIoTHub.BrazilSouth,brazilsouth
 2603:1050:6:e::3c0/123,IPv6,AzureMonitor.BrazilSouth,brazilsouth
+2603:1050:6:e::600/119,IPv6,AzureMonitor.BrazilSouth,brazilsouth
+2603:1050:6:f::400/119,IPv6,AzureMonitor.BrazilSouth,brazilsouth
 2603:1050:6:400::/123,IPv6,Sql.BrazilSouth,brazilsouth
 2603:1050:6:401::/123,IPv6,Sql.BrazilSouth,brazilsouth
 2603:1050:6:402::80/125,IPv6,AzureKeyVault.BrazilSouth,brazilsouth
@@ -674,6 +679,7 @@ ip_address,ip_type,service,region
 2603:1050:6:c02::240/123,IPv6,AzureIoTHub.BrazilSouth,brazilsouth
 2603:1050:6:c02::2a0/123,IPv6,AzureMonitor.BrazilSouth,brazilsouth
 2603:1050:6:c02::400/121,IPv6,AzureContainerRegistry.BrazilSouth,brazilsouth
+2603:1050:6:1000::a/128,IPv6,AzureDevOps.BrazilSouth,brazilsouth
 2603:1050:7::/48,IPv6,Storage.BrazilSouth,brazilsouth
 2603:1050:9::/48,IPv6,AzureCloud.brazilsouth,brazilsouth
 2603:1056:1400::/48,IPv6,AzureCloud.brazilsouth,brazilsouth

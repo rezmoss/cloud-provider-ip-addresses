@@ -210,6 +210,30 @@
     "region": "australiaeast"
   },
   {
+    "ip_address": "4.198.222.196/30",
+    "ip_type": "IPv4",
+    "service": "AzureDevOps.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "4.198.222.200/29",
+    "ip_type": "IPv4",
+    "service": "AzureDevOps.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "4.198.222.208/28",
+    "ip_type": "IPv4",
+    "service": "AzureDevOps.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "4.198.222.224/31",
+    "ip_type": "IPv4",
+    "service": "AzureDevOps.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
     "ip_address": "4.198.248.224/27",
     "ip_type": "IPv4",
     "service": "PowerBI.AustraliaEast",
@@ -2886,43 +2910,7 @@
     "region": "australiaeast"
   },
   {
-    "ip_address": "40.120.176.0/28",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.australiaeast",
-    "region": "australiaeast"
-  },
-  {
-    "ip_address": "40.120.176.16/29",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.australiaeast",
-    "region": "australiaeast"
-  },
-  {
-    "ip_address": "40.120.176.26/31",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.australiaeast",
-    "region": "australiaeast"
-  },
-  {
-    "ip_address": "40.120.176.28/30",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.australiaeast",
-    "region": "australiaeast"
-  },
-  {
-    "ip_address": "40.120.176.32/27",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.australiaeast",
-    "region": "australiaeast"
-  },
-  {
-    "ip_address": "40.120.176.64/26",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.australiaeast",
-    "region": "australiaeast"
-  },
-  {
-    "ip_address": "40.120.176.128/25",
+    "ip_address": "40.120.176.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.australiaeast",
     "region": "australiaeast"
@@ -2970,7 +2958,7 @@
     "region": "australiaeast"
   },
   {
-    "ip_address": "40.120.177.106/31",
+    "ip_address": "40.120.177.104/30",
     "ip_type": "IPv4",
     "service": "AzureCloud.australiaeast",
     "region": "australiaeast"
@@ -3235,6 +3223,18 @@
   },
   {
     "ip_address": "51.56.158.176/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "51.56.168.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "51.56.204.128/25",
     "ip_type": "IPv4",
     "service": "AzureMonitor.AustraliaEast",
     "region": "australiaeast"
@@ -4308,6 +4308,12 @@
     "region": "australiaeast"
   },
   {
+    "ip_address": "2603:1010:6:15::/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
     "ip_address": "2603:1010:6:400::/123",
     "ip_type": "IPv6",
     "service": "Sql.AustraliaEast",
@@ -4683,6 +4689,12 @@
     "ip_address": "2603:1010:6:c02::480/121",
     "ip_type": "IPv6",
     "service": "AzureMonitor.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "2603:1010:6:1000::a/128",
+    "ip_type": "IPv6",
+    "service": "AzureDevOps.AustraliaEast",
     "region": "australiaeast"
   },
   {

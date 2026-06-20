@@ -3126,6 +3126,12 @@
     "region": "ukwest"
   },
   {
+    "ip_address": "172.187.17.104/31",
+    "ip_type": "IPv4",
+    "service": "AzureDevOps.UKWest",
+    "region": "ukwest"
+  },
+  {
     "ip_address": "172.187.32.16/30",
     "ip_type": "IPv4",
     "service": "ActionGroup.UKWest",
@@ -3576,6 +3582,18 @@
     "region": "ukwest"
   },
   {
+    "ip_address": "2603:1020:605:e::/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:e::400/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.UKWest",
+    "region": "ukwest"
+  },
+  {
     "ip_address": "2603:1020:605:400::/123",
     "ip_type": "IPv6",
     "service": "Sql.UKWest",
@@ -3735,6 +3753,12 @@
     "ip_address": "2603:1020:605:402::600/121",
     "ip_type": "IPv6",
     "service": "AzureContainerRegistry.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:800::a/128",
+    "ip_type": "IPv6",
+    "service": "AzureDevOps.UKWest",
     "region": "ukwest"
   },
   {

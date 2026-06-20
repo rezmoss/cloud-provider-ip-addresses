@@ -1,6 +1,6 @@
 # Amazon Web Services IP Ranges (Auto-Updated Daily)
 
-> Last updated: **2026-06-19** · Total CIDRs: **16,160** · IPv4: **10,397** · IPv6: **5,763** · Services: **26** · Regions: **43**
+> Last updated: **2026-06-20** · Total CIDRs: **16,172** · IPv4: **10,405** · IPv6: **5,767** · Services: **26** · Regions: **43**
 
 Machine-readable, daily-updated, validated public IP ranges for **Amazon Web Services**.
 Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and Apache.

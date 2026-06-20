@@ -372,6 +372,12 @@
     "region": "brazilsouth"
   },
   {
+    "ip_address": "20.20.96.200/30",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.brazilsouth",
+    "region": "brazilsouth"
+  },
+  {
     "ip_address": "20.20.96.228/30",
     "ip_type": "IPv4",
     "service": "AzureCloud.brazilsouth",
@@ -1677,6 +1683,18 @@
     "ip_address": "74.163.231.64/29",
     "ip_type": "IPv4",
     "service": "AppServiceManagement.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "74.163.231.200/29",
+    "ip_type": "IPv4",
+    "service": "AzureDevOps.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "74.163.231.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureDevOps.BrazilSouth",
     "region": "brazilsouth"
   },
   {
@@ -3666,6 +3684,18 @@
     "region": "brazilsouth"
   },
   {
+    "ip_address": "2603:1050:6:e::600/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "2603:1050:6:f::400/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
     "ip_address": "2603:1050:6:400::/123",
     "ip_type": "IPv6",
     "service": "Sql.BrazilSouth",
@@ -4047,6 +4077,12 @@
     "ip_address": "2603:1050:6:c02::400/121",
     "ip_type": "IPv6",
     "service": "AzureContainerRegistry.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "2603:1050:6:1000::a/128",
+    "ip_type": "IPv6",
+    "service": "AzureDevOps.BrazilSouth",
     "region": "brazilsouth"
   },
   {

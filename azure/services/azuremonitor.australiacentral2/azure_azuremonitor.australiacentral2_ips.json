@@ -126,6 +126,18 @@
     "region": "australiacentral2"
   },
   {
+    "ip_address": "2603:1010:404:9::400/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.AustraliaCentral2",
+    "region": "australiacentral2"
+  },
+  {
+    "ip_address": "2603:1010:404:a::/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.AustraliaCentral2",
+    "region": "australiacentral2"
+  },
+  {
     "ip_address": "2603:1010:404:402::500/121",
     "ip_type": "IPv6",
     "service": "AzureMonitor.AustraliaCentral2",

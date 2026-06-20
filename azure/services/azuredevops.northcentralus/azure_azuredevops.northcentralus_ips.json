@@ -6,7 +6,19 @@
     "region": "northcentralus"
   },
   {
+    "ip_address": "130.213.112.120/30",
+    "ip_type": "IPv4",
+    "service": "AzureDevOps.NorthCentralUS",
+    "region": "northcentralus"
+  },
+  {
     "ip_address": "2603:1030:608:12::600/120",
+    "ip_type": "IPv6",
+    "service": "AzureDevOps.NorthCentralUS",
+    "region": "northcentralus"
+  },
+  {
+    "ip_address": "2603:1030:608:1000::a/128",
     "ip_type": "IPv6",
     "service": "AzureDevOps.NorthCentralUS",
     "region": "northcentralus"

@@ -36,19 +36,31 @@
     "region": "denmarkeast"
   },
   {
-    "ip_address": "20.20.126.64/29",
+    "ip_address": "20.20.126.64/27",
     "ip_type": "IPv4",
     "service": "AzureCloud.denmarkeast",
     "region": "denmarkeast"
   },
   {
-    "ip_address": "20.20.126.72/30",
+    "ip_address": "20.20.126.96/28",
     "ip_type": "IPv4",
     "service": "AzureCloud.denmarkeast",
     "region": "denmarkeast"
   },
   {
-    "ip_address": "20.20.126.76/31",
+    "ip_address": "20.20.126.112/29",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.denmarkeast",
+    "region": "denmarkeast"
+  },
+  {
+    "ip_address": "20.20.126.120/30",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.denmarkeast",
+    "region": "denmarkeast"
+  },
+  {
+    "ip_address": "20.20.126.124/31",
     "ip_type": "IPv4",
     "service": "AzureCloud.denmarkeast",
     "region": "denmarkeast"
@@ -306,7 +318,19 @@
     "region": "denmarkeast"
   },
   {
-    "ip_address": "2603:1061:1017:120::/64",
+    "ip_address": "2603:1061:1017:120::/60",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.denmarkeast",
+    "region": "denmarkeast"
+  },
+  {
+    "ip_address": "2603:1061:1017:130::/61",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.denmarkeast",
+    "region": "denmarkeast"
+  },
+  {
+    "ip_address": "2603:1061:1017:138::/64",
     "ip_type": "IPv6",
     "service": "AzureCloud.denmarkeast",
     "region": "denmarkeast"

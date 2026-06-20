@@ -520,6 +520,7 @@ ip_address,ip_type,service,region
 172.187.0.24/31,IPv4,AzureArcInfrastructure.UKWest,ukwest
 172.187.7.224/28,IPv4,PowerPlatformPlex.UKWest,ukwest
 172.187.17.64/29,IPv4,AppServiceManagement.UKWest,ukwest
+172.187.17.104/31,IPv4,AzureDevOps.UKWest,ukwest
 172.187.32.16/30,IPv4,ActionGroup.UKWest,ukwest
 172.187.32.32/27,IPv4,PowerBI.UKWest,ukwest
 172.187.35.160/27,IPv4,AzureMonitor.UKWest,ukwest
@@ -595,6 +596,8 @@ ip_address,ip_type,service,region
 2603:1020:605:d::4c0/122,IPv6,AzureIoTHub.UKWest,ukwest
 2603:1020:605:d::500/123,IPv6,AzureIoTHub.UKWest,ukwest
 2603:1020:605:d::520/123,IPv6,AzureMonitor.UKWest,ukwest
+2603:1020:605:e::/119,IPv6,AzureMonitor.UKWest,ukwest
+2603:1020:605:e::400/119,IPv6,AzureMonitor.UKWest,ukwest
 2603:1020:605:400::/123,IPv6,Sql.UKWest,ukwest
 2603:1020:605:402::80/125,IPv6,AzureKeyVault.UKWest,ukwest
 2603:1020:605:402::88/125,IPv6,MicrosoftContainerRegistry.UKWest,ukwest
@@ -622,6 +625,7 @@ ip_address,ip_type,service,region
 2603:1020:605:402::580/122,IPv6,AzureContainerRegistry.UKWest,ukwest
 2603:1020:605:402::5e0/123,IPv6,StorageSyncService.UKWest,ukwest
 2603:1020:605:402::600/121,IPv6,AzureContainerRegistry.UKWest,ukwest
+2603:1020:605:800::a/128,IPv6,AzureDevOps.UKWest,ukwest
 2603:1020:606::/47,IPv6,AzureCloud.ukwest,ukwest
 2603:1020:606::/48,IPv6,Storage.UKWest,ukwest
 2603:1026:900:19::/64,IPv6,AzureCloud.ukwest,ukwest

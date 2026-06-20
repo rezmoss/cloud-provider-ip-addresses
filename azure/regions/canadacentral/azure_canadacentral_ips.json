@@ -168,6 +168,12 @@
     "region": "canadacentral"
   },
   {
+    "ip_address": "4.173.137.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
     "ip_address": "4.174.0.0/16",
     "ip_type": "IPv4",
     "service": "AzureCloud.canadacentral",
@@ -363,6 +369,24 @@
     "ip_address": "4.206.254.64/29",
     "ip_type": "IPv4",
     "service": "AppServiceManagement.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "4.206.254.104/31",
+    "ip_type": "IPv4",
+    "service": "AzureDevOps.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "4.206.254.112/28",
+    "ip_type": "IPv4",
+    "service": "AzureDevOps.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "4.206.254.192/27",
+    "ip_type": "IPv4",
+    "service": "AzureDevOps.CanadaCentral",
     "region": "canadacentral"
   },
   {
@@ -4056,6 +4080,18 @@
     "region": "canadacentral"
   },
   {
+    "ip_address": "2603:1030:f05:11::600/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "2603:1030:f05:12::/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
     "ip_address": "2603:1030:f05:400::/123",
     "ip_type": "IPv6",
     "service": "Sql.CanadaCentral",
@@ -4419,6 +4455,12 @@
     "ip_address": "2603:1030:f05:c02::480/121",
     "ip_type": "IPv6",
     "service": "AzureMonitor.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "2603:1030:f05:1000::2/128",
+    "ip_type": "IPv6",
+    "service": "AzureDevOps.CanadaCentral",
     "region": "canadacentral"
   },
   {

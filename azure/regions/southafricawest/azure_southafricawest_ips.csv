@@ -309,6 +309,8 @@ ip_address,ip_type,service,region
 2603:1000:4:8::2c0/122,IPv6,AzureIoTHub.SouthAfricaWest,southafricawest
 2603:1000:4:8::400/123,IPv6,AzureIoTHub.SouthAfricaWest,southafricawest
 2603:1000:4:8::420/123,IPv6,AzureMonitor.SouthAfricaWest,southafricawest
+2603:1000:4:8::600/119,IPv6,AzureMonitor.SouthAfricaWest,southafricawest
+2603:1000:4:9::200/119,IPv6,AzureMonitor.SouthAfricaWest,southafricawest
 2603:1000:4:400::/123,IPv6,Sql.SouthAfricaWest,southafricawest
 2603:1000:4:401::/123,IPv6,Sql.SouthAfricaWest,southafricawest
 2603:1000:4:402::80/125,IPv6,AzureKeyVault.SouthAfricaWest,southafricawest

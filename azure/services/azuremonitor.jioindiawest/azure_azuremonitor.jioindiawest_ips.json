@@ -168,6 +168,18 @@
     "region": "jioindiawest"
   },
   {
+    "ip_address": "2603:1040:d04:8::600/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
+    "ip_address": "2603:1040:d04:9::/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
     "ip_address": "2603:1040:d04:400::420/123",
     "ip_type": "IPv6",
     "service": "AzureMonitor.JioIndiaWest",

@@ -1,6 +1,6 @@
 #!/bin/bash
 # Azure IP Ranges
-# Updated: 2026-06-14 03:21:34
+# Updated: 2026-06-20 03:19:11
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -16,6 +16,8 @@ iptables -A INPUT -s 4.144.203.254/31 -j DROP
 iptables -A INPUT -s 4.144.204.223/32 -j DROP
 iptables -A INPUT -s 4.145.0.0/16 -j DROP
 iptables -A INPUT -s 4.145.0.64/29 -j DROP
+iptables -A INPUT -s 4.145.0.106/31 -j DROP
+iptables -A INPUT -s 4.145.0.192/27 -j DROP
 iptables -A INPUT -s 4.145.8.112/28 -j DROP
 iptables -A INPUT -s 4.145.10.168/29 -j DROP
 iptables -A INPUT -s 4.145.16.160/28 -j DROP
@@ -40,6 +42,7 @@ iptables -A INPUT -s 4.145.219.0/24 -j DROP
 iptables -A INPUT -s 4.145.220.0/25 -j DROP
 iptables -A INPUT -s 4.145.220.128/26 -j DROP
 iptables -A INPUT -s 4.145.220.240/28 -j DROP
+iptables -A INPUT -s 4.145.224.0/25 -j DROP
 iptables -A INPUT -s 4.146.0.0/16 -j DROP
 iptables -A INPUT -s 4.193.0.0/16 -j DROP
 iptables -A INPUT -s 4.193.1.232/29 -j DROP
@@ -885,6 +888,8 @@ ip6tables -A INPUT -s 2603:1040:5:19::180/121 -j DROP
 ip6tables -A INPUT -s 2603:1040:5:1a::300/120 -j DROP
 ip6tables -A INPUT -s 2603:1040:5:1a::400/123 -j DROP
 ip6tables -A INPUT -s 2603:1040:5:1a::420/123 -j DROP
+ip6tables -A INPUT -s 2603:1040:5:1b::/119 -j DROP
+ip6tables -A INPUT -s 2603:1040:5:1b::400/119 -j DROP
 ip6tables -A INPUT -s 2603:1040:5:400::/123 -j DROP
 ip6tables -A INPUT -s 2603:1040:5:401::/123 -j DROP
 ip6tables -A INPUT -s 2603:1040:5:402::80/125 -j DROP
@@ -946,6 +951,7 @@ ip6tables -A INPUT -s 2603:1040:5:c02::210/124 -j DROP
 ip6tables -A INPUT -s 2603:1040:5:c02::240/123 -j DROP
 ip6tables -A INPUT -s 2603:1040:5:c02::400/121 -j DROP
 ip6tables -A INPUT -s 2603:1040:5:c02::480/121 -j DROP
+ip6tables -A INPUT -s 2603:1040:5:1000::2/128 -j DROP
 ip6tables -A INPUT -s 2603:1040:6::/48 -j DROP
 ip6tables -A INPUT -s 2603:1040:6::/49 -j DROP
 ip6tables -A INPUT -s 2603:1040:6:8000::/63 -j DROP

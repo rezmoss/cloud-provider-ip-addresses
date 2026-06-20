@@ -1836,6 +1836,12 @@
     "region": "israelcentral"
   },
   {
+    "ip_address": "2603:1040:1402:b::/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.IsraelCentral",
+    "region": "israelcentral"
+  },
+  {
     "ip_address": "2603:1040:1402:400::40/125",
     "ip_type": "IPv6",
     "service": "MicrosoftContainerRegistry.IsraelCentral",

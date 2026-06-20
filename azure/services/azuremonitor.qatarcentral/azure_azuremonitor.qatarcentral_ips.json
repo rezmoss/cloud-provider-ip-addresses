@@ -214,5 +214,11 @@
     "ip_type": "IPv6",
     "service": "AzureMonitor.QatarCentral",
     "region": "qatarcentral"
+  },
+  {
+    "ip_address": "2603:1040:1002:a::400/118",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.QatarCentral",
+    "region": "qatarcentral"
   }
 ]

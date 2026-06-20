@@ -13,6 +13,7 @@ INSERT INTO `azure_powerbi.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES (
 INSERT INTO `azure_powerbi.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('20.45.192.224/28', 'IPv4');
 INSERT INTO `azure_powerbi.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('20.45.242.48/29', 'IPv4');
 INSERT INTO `azure_powerbi.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('20.46.15.56/30', 'IPv4');
+INSERT INTO `azure_powerbi.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('57.173.22.128/28', 'IPv4');
 INSERT INTO `azure_powerbi.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('168.61.232.60/30', 'IPv4');
 INSERT INTO `azure_powerbi.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('168.61.239.8/30', 'IPv4');
 INSERT INTO `azure_powerbi.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('172.215.113.56/29', 'IPv4');

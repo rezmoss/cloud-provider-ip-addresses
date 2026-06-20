@@ -42,6 +42,12 @@
     "region": "eastus2euap"
   },
   {
+    "ip_address": "48.223.120.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
     "ip_address": "52.138.90.32/29",
     "ip_type": "IPv4",
     "service": "AzureContainerRegistry.EastUS2EUAP",

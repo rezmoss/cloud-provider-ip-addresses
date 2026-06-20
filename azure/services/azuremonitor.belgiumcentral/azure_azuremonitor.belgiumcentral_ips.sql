@@ -23,8 +23,10 @@ INSERT INTO `azure_azuremonitor.belgiumcentral_ips` (`ip_address`, `ip_type`) VA
 INSERT INTO `azure_azuremonitor.belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('9.160.114.240/28', 'IPv4');
 INSERT INTO `azure_azuremonitor.belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('9.160.174.224/27', 'IPv4');
 INSERT INTO `azure_azuremonitor.belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('9.160.219.208/28', 'IPv4');
+INSERT INTO `azure_azuremonitor.belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('9.160.220.160/28', 'IPv4');
 INSERT INTO `azure_azuremonitor.belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1501:f::10/127', 'IPv6');
 INSERT INTO `azure_azuremonitor.belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1502:2::480/121', 'IPv6');
 INSERT INTO `azure_azuremonitor.belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1502:2::500/120', 'IPv6');
 INSERT INTO `azure_azuremonitor.belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1502:4::440/123', 'IPv6');
 INSERT INTO `azure_azuremonitor.belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1502:5::260/123', 'IPv6');
+INSERT INTO `azure_azuremonitor.belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1502:6::/118', 'IPv6');

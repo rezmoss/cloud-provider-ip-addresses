@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "4.229.122.96/31",
+    "ip_type": "IPv4",
+    "service": "AzureDevOps.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
     "ip_address": "20.200.34.0/26",
     "ip_type": "IPv4",
     "service": "AzureDevOps.CanadaEast",
@@ -7,6 +13,12 @@
   },
   {
     "ip_address": "2603:1030:1005:c::2d8/125",
+    "ip_type": "IPv6",
+    "service": "AzureDevOps.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:800::a/128",
     "ip_type": "IPv6",
     "service": "AzureDevOps.CanadaEast",
     "region": "canadaeast"

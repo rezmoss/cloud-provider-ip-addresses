@@ -38,3 +38,4 @@ ip_address,ip_type,service,region
 2603:1010:207:4::/120,IPv6,AzureMonitor.AustraliaSoutheast,australiasoutheast
 2603:1010:207:4::340/123,IPv6,AzureMonitor.AustraliaSoutheast,australiasoutheast
 2603:1010:207:6::320/123,IPv6,AzureMonitor.AustraliaSoutheast,australiasoutheast
+2603:1010:207:7::200/119,IPv6,AzureMonitor.AustraliaSoutheast,australiasoutheast

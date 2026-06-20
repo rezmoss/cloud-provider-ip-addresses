@@ -6,7 +6,19 @@
     "region": "ukwest"
   },
   {
+    "ip_address": "172.187.17.104/31",
+    "ip_type": "IPv4",
+    "service": "AzureDevOps.UKWest",
+    "region": "ukwest"
+  },
+  {
     "ip_address": "2603:1020:605:c::100/125",
+    "ip_type": "IPv6",
+    "service": "AzureDevOps.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:800::a/128",
     "ip_type": "IPv6",
     "service": "AzureDevOps.UKWest",
     "region": "ukwest"

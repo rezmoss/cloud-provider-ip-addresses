@@ -24,4 +24,6 @@ INSERT INTO `azure_azuremonitor.westindia_ips` (`ip_address`, `ip_type`) VALUES 
 INSERT INTO `azure_azuremonitor.westindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:806:3::720/123', 'IPv6');
 INSERT INTO `azure_azuremonitor.westindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:806:6::100/121', 'IPv6');
 INSERT INTO `azure_azuremonitor.westindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:806:6::2c0/122', 'IPv6');
+INSERT INTO `azure_azuremonitor.westindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:806:9::200/119', 'IPv6');
+INSERT INTO `azure_azuremonitor.westindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:806:9::600/119', 'IPv6');
 INSERT INTO `azure_azuremonitor.westindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:806:402::500/121', 'IPv6');

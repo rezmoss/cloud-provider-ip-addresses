@@ -45,3 +45,4 @@ INSERT INTO `azure_azuremonitor.australiasoutheast_ips` (`ip_address`, `ip_type`
 INSERT INTO `azure_azuremonitor.australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:207:4::/120', 'IPv6');
 INSERT INTO `azure_azuremonitor.australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:207:4::340/123', 'IPv6');
 INSERT INTO `azure_azuremonitor.australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:207:6::320/123', 'IPv6');
+INSERT INTO `azure_azuremonitor.australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:207:7::200/119', 'IPv6');

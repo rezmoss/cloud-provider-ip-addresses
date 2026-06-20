@@ -23,3 +23,5 @@ INSERT INTO `azure_azuremonitor.malaysiasouth_ips` (`ip_address`, `ip_type`) VAL
 INSERT INTO `azure_azuremonitor.malaysiasouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1503:2::540/122', 'IPv6');
 INSERT INTO `azure_azuremonitor.malaysiasouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1503:2::700/121', 'IPv6');
 INSERT INTO `azure_azuremonitor.malaysiasouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1503:7::420/123', 'IPv6');
+INSERT INTO `azure_azuremonitor.malaysiasouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1503:7::600/119', 'IPv6');
+INSERT INTO `azure_azuremonitor.malaysiasouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1503:8::/119', 'IPv6');

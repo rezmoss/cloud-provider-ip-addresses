@@ -190,5 +190,17 @@
     "ip_type": "IPv6",
     "service": "AzureMonitor.ItalyNorth",
     "region": "italynorth"
+  },
+  {
+    "ip_address": "2603:1020:1204:9::600/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.ItalyNorth",
+    "region": "italynorth"
+  },
+  {
+    "ip_address": "2603:1020:1204:a::400/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.ItalyNorth",
+    "region": "italynorth"
   }
 ]

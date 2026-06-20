@@ -222,6 +222,18 @@
     "region": "uaenorth"
   },
   {
+    "ip_address": "2603:1040:904:c::/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.UAENorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "2603:1040:904:c::400/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.UAENorth",
+    "region": "uaenorth"
+  },
+  {
     "ip_address": "2603:1040:904:402::500/121",
     "ip_type": "IPv6",
     "service": "AzureMonitor.UAENorth",

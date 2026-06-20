@@ -30,3 +30,4 @@ ip_address,ip_type,service,region
 2603:1020:1302:5::7e0/123,IPv6,AzureMonitor.PolandCentral,polandcentral
 2603:1020:1302:9::7c0/123,IPv6,AzureMonitor.PolandCentral,polandcentral
 2603:1020:1302:a::2c0/123,IPv6,AzureMonitor.PolandCentral,polandcentral
+2603:1020:1302:b::/119,IPv6,AzureMonitor.PolandCentral,polandcentral

@@ -64,5 +64,17 @@
     "ip_type": "IPv6",
     "service": "AzureMonitor.NortheastUS5",
     "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1602:5::200/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1602:5::600/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.NortheastUS5",
+    "region": "northeastus5"
   }
 ]

@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "20.2.105.224/30",
+    "ip_type": "IPv4",
+    "service": "AzureDevOps.EastAsia",
+    "region": "eastasia"
+  },
+  {
     "ip_address": "20.189.107.0/24",
     "ip_type": "IPv4",
     "service": "AzureDevOps.EastAsia",
@@ -7,6 +13,12 @@
   },
   {
     "ip_address": "2603:1040:207:f::700/120",
+    "ip_type": "IPv6",
+    "service": "AzureDevOps.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "2603:1040:207:1000::2/128",
     "ip_type": "IPv6",
     "service": "AzureDevOps.EastAsia",
     "region": "eastasia"

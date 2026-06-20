@@ -1,6 +1,6 @@
 #!/bin/bash
 # Meta IP Ranges
-# Updated: 2026-06-19 03:23:02
+# Updated: 2026-06-20 03:20:09
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -30,27 +30,21 @@ ufw deny from 31.13.95.0/24
 ufw deny from 31.13.96.0/19
 ufw deny from 45.64.40.0/22
 ufw deny from 57.141.0.0/24
-ufw deny from 57.141.1.0/24
 ufw deny from 57.141.2.0/24
 ufw deny from 57.141.3.0/24
 ufw deny from 57.141.4.0/24
 ufw deny from 57.141.5.0/24
 ufw deny from 57.141.6.0/24
-ufw deny from 57.141.7.0/24
 ufw deny from 57.141.8.0/24
-ufw deny from 57.141.9.0/24
 ufw deny from 57.141.10.0/24
-ufw deny from 57.141.11.0/24
 ufw deny from 57.141.12.0/24
 ufw deny from 57.141.13.0/24
 ufw deny from 57.141.14.0/24
-ufw deny from 57.141.15.0/24
 ufw deny from 57.141.16.0/24
 ufw deny from 57.141.17.0/24
 ufw deny from 57.141.18.0/24
 ufw deny from 57.141.19.0/24
 ufw deny from 57.141.20.0/24
-ufw deny from 57.141.21.0/24
 ufw deny from 57.141.24.0/24
 ufw deny from 57.144.0.0/14
 ufw deny from 57.144.14.0/23
@@ -538,23 +532,16 @@ ufw deny from 2a03:2880:f386::/48
 ufw deny from 2a03:2880:f388::/48
 ufw deny from 2a03:2880:f38a::/48
 ufw deny from 2a03:2880:f800::/48
-ufw deny from 2a03:2880:f801::/48
 ufw deny from 2a03:2880:f802::/48
 ufw deny from 2a03:2880:f803::/48
 ufw deny from 2a03:2880:f804::/48
 ufw deny from 2a03:2880:f805::/48
 ufw deny from 2a03:2880:f806::/48
-ufw deny from 2a03:2880:f807::/48
 ufw deny from 2a03:2880:f808::/48
-ufw deny from 2a03:2880:f809::/48
 ufw deny from 2a03:2880:f80a::/48
-ufw deny from 2a03:2880:f80b::/48
 ufw deny from 2a03:2880:f80c::/48
-ufw deny from 2a03:2880:f80d::/48
 ufw deny from 2a03:2880:f80e::/48
-ufw deny from 2a03:2880:f80f::/48
 ufw deny from 2a03:2880:f810::/48
-ufw deny from 2a03:2880:f811::/48
 ufw deny from 2a03:2880:f812::/48
 ufw deny from 2a03:2880:f813::/48
 ufw deny from 2a03:2880:f814::/48

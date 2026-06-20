@@ -306,6 +306,12 @@
     "region": "japaneast"
   },
   {
+    "ip_address": "2603:1040:407:11::600/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.JapanEast",
+    "region": "japaneast"
+  },
+  {
     "ip_address": "2603:1040:407:402::500/121",
     "ip_type": "IPv6",
     "service": "AzureMonitor.JapanEast",

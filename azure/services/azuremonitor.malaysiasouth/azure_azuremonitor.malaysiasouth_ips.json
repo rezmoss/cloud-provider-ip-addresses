@@ -100,5 +100,17 @@
     "ip_type": "IPv6",
     "service": "AzureMonitor.MalaysiaSouth",
     "region": "malaysiasouth"
+  },
+  {
+    "ip_address": "2603:1040:1503:7::600/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.MalaysiaSouth",
+    "region": "malaysiasouth"
+  },
+  {
+    "ip_address": "2603:1040:1503:8::/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.MalaysiaSouth",
+    "region": "malaysiasouth"
   }
 ]

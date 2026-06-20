@@ -96,6 +96,12 @@
     "region": "denmarkeast"
   },
   {
+    "ip_address": "9.205.206.32/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.DenmarkEast",
+    "region": "denmarkeast"
+  },
+  {
     "ip_address": "2603:1020:1601:8::f/128",
     "ip_type": "IPv6",
     "service": "AzureMonitor.DenmarkEast",
@@ -127,6 +133,18 @@
   },
   {
     "ip_address": "2603:1020:1602:5::7c0/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.DenmarkEast",
+    "region": "denmarkeast"
+  },
+  {
+    "ip_address": "2603:1020:1602:6::200/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.DenmarkEast",
+    "region": "denmarkeast"
+  },
+  {
+    "ip_address": "2603:1020:1602:6::600/119",
     "ip_type": "IPv6",
     "service": "AzureMonitor.DenmarkEast",
     "region": "denmarkeast"

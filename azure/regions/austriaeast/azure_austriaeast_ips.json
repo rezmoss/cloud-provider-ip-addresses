@@ -1344,6 +1344,18 @@
     "region": "austriaeast"
   },
   {
+    "ip_address": "2603:1020:104:8::600/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.AustriaEast",
+    "region": "austriaeast"
+  },
+  {
+    "ip_address": "2603:1020:104:9::200/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.AustriaEast",
+    "region": "austriaeast"
+  },
+  {
     "ip_address": "2603:1020:104:403::/125",
     "ip_type": "IPv6",
     "service": "MicrosoftContainerRegistry.AustriaEast",

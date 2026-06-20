@@ -7,4 +7,6 @@ CREATE TABLE IF NOT EXISTS `azure_azuredevops.northcentralus_ips` (
 );
 
 INSERT INTO `azure_azuredevops.northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('40.80.187.0/24', 'IPv4');
+INSERT INTO `azure_azuredevops.northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('130.213.112.120/30', 'IPv4');
 INSERT INTO `azure_azuredevops.northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:608:12::600/120', 'IPv6');
+INSERT INTO `azure_azuredevops.northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:608:1000::a/128', 'IPv6');

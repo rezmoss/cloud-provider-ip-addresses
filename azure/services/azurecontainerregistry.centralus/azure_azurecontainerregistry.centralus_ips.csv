@@ -9,6 +9,7 @@ ip_address,ip_type,service,region
 52.182.138.208/29,IPv4,AzureContainerRegistry.CentralUS,centralus
 52.182.142.0/25,IPv4,AzureContainerRegistry.CentralUS,centralus
 52.182.142.128/25,IPv4,AzureContainerRegistry.CentralUS,centralus
+57.175.72.0/26,IPv4,AzureContainerRegistry.CentralUS,centralus
 72.152.15.0/26,IPv4,AzureContainerRegistry.CentralUS,centralus
 104.208.16.80/29,IPv4,AzureContainerRegistry.CentralUS,centralus
 172.212.129.0/24,IPv4,AzureContainerRegistry.CentralUS,centralus

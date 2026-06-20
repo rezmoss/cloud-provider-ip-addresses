@@ -120,6 +120,18 @@
     "region": "norwayw"
   },
   {
+    "ip_address": "2603:1020:f04:b::/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04:b::400/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.NorwayWest",
+    "region": "norwayw"
+  },
+  {
     "ip_address": "2603:1020:f04:402::500/121",
     "ip_type": "IPv6",
     "service": "AzureMonitor.NorwayWest",

@@ -6,7 +6,19 @@
     "region": "centraluseuap"
   },
   {
+    "ip_address": "168.61.229.176/28",
+    "ip_type": "IPv4",
+    "service": "AzureDevOps.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
     "ip_address": "2603:1030:f:e::380/122",
+    "ip_type": "IPv6",
+    "service": "AzureDevOps.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1030:f:800::48/128",
     "ip_type": "IPv6",
     "service": "AzureDevOps.CentralUSEUAP",
     "region": "centraluseuap"

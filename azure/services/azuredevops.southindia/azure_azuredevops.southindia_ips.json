@@ -6,7 +6,19 @@
     "region": "southindia"
   },
   {
+    "ip_address": "74.224.241.88/31",
+    "ip_type": "IPv4",
+    "service": "AzureDevOps.SouthIndia",
+    "region": "southindia"
+  },
+  {
     "ip_address": "2603:1040:c06:a::300/120",
+    "ip_type": "IPv6",
+    "service": "AzureDevOps.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "2603:1040:c06:800::2/128",
     "ip_type": "IPv6",
     "service": "AzureDevOps.SouthIndia",
     "region": "southindia"

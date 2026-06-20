@@ -18,7 +18,31 @@
     "region": "eastus2euap"
   },
   {
+    "ip_address": "72.147.54.8/29",
+    "ip_type": "IPv4",
+    "service": "AzureDevOps.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "72.147.54.48/28",
+    "ip_type": "IPv4",
+    "service": "AzureDevOps.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "72.147.54.64/29",
+    "ip_type": "IPv4",
+    "service": "AzureDevOps.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
     "ip_address": "2603:1030:40b:f::400/122",
+    "ip_type": "IPv6",
+    "service": "AzureDevOps.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "2603:1030:40b:1400::60/128",
     "ip_type": "IPv6",
     "service": "AzureDevOps.EastUS2EUAP",
     "region": "eastus2euap"

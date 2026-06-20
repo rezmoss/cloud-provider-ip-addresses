@@ -3204,6 +3204,12 @@
     "region": ""
   },
   {
+    "ip_address": "57.173.22.128/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI",
+    "region": ""
+  },
+  {
     "ip_address": "68.155.79.224/27",
     "ip_type": "IPv4",
     "service": "PowerBI",

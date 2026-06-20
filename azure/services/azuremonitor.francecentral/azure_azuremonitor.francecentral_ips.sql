@@ -56,6 +56,7 @@ INSERT INTO `azure_azuremonitor.francecentral_ips` (`ip_address`, `ip_type`) VAL
 INSERT INTO `azure_azuremonitor.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:805:d::500/120', 'IPv6');
 INSERT INTO `azure_azuremonitor.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:805:d::7a0/123', 'IPv6');
 INSERT INTO `azure_azuremonitor.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:805:10::300/123', 'IPv6');
+INSERT INTO `azure_azuremonitor.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:805:11::/118', 'IPv6');
 INSERT INTO `azure_azuremonitor.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:805:402::500/121', 'IPv6');
 INSERT INTO `azure_azuremonitor.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:805:802::480/121', 'IPv6');
 INSERT INTO `azure_azuremonitor.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:805:c02::480/121', 'IPv6');

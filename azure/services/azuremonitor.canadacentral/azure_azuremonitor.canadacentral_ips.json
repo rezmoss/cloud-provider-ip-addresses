@@ -24,6 +24,12 @@
     "region": "canadacentral"
   },
   {
+    "ip_address": "4.173.137.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
     "ip_address": "4.174.145.0/27",
     "ip_type": "IPv4",
     "service": "AzureMonitor.CanadaCentral",
@@ -289,6 +295,18 @@
   },
   {
     "ip_address": "2603:1030:f05:11::160/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "2603:1030:f05:11::600/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "2603:1030:f05:12::/119",
     "ip_type": "IPv6",
     "service": "AzureMonitor.CanadaCentral",
     "region": "canadacentral"

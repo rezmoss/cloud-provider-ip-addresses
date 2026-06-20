@@ -6,6 +6,18 @@
     "region": "westus"
   },
   {
+    "ip_address": "48.195.88.2/31",
+    "ip_type": "IPv4",
+    "service": "AzureDevOps.WestUS",
+    "region": "westus"
+  },
+  {
+    "ip_address": "48.195.88.48/30",
+    "ip_type": "IPv4",
+    "service": "AzureDevOps.WestUS",
+    "region": "westus"
+  },
+  {
     "ip_address": "2603:1030:a07:15::3d2/127",
     "ip_type": "IPv6",
     "service": "AzureDevOps.WestUS",
@@ -49,6 +61,12 @@
   },
   {
     "ip_address": "2603:1030:a07:1f::430/126",
+    "ip_type": "IPv6",
+    "service": "AzureDevOps.WestUS",
+    "region": "westus"
+  },
+  {
+    "ip_address": "2603:1030:a07:1000::6/128",
     "ip_type": "IPv6",
     "service": "AzureDevOps.WestUS",
     "region": "westus"

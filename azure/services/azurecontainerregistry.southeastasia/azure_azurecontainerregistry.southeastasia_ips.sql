@@ -7,6 +7,7 @@ CREATE TABLE IF NOT EXISTS `azure_azurecontainerregistry.southeastasia_ips` (
 );
 
 INSERT INTO `azure_azurecontainerregistry.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('4.145.75.128/25', 'IPv4');
+INSERT INTO `azure_azurecontainerregistry.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('4.145.224.0/25', 'IPv4');
 INSERT INTO `azure_azurecontainerregistry.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('13.67.8.120/29', 'IPv4');
 INSERT INTO `azure_azurecontainerregistry.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('13.67.14.0/25', 'IPv4');
 INSERT INTO `azure_azurecontainerregistry.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('13.67.14.128/25', 'IPv4');

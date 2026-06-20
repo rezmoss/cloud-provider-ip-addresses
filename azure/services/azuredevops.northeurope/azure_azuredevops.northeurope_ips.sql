@@ -7,4 +7,8 @@ CREATE TABLE IF NOT EXISTS `azure_azuredevops.northeurope_ips` (
 );
 
 INSERT INTO `azure_azuredevops.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('20.166.41.0/24', 'IPv4');
+INSERT INTO `azure_azuredevops.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('134.149.110.74/31', 'IPv4');
+INSERT INTO `azure_azuredevops.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('134.149.110.76/30', 'IPv4');
+INSERT INTO `azure_azuredevops.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('134.149.110.112/29', 'IPv4');
 INSERT INTO `azure_azuredevops.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:5:19::600/120', 'IPv6');
+INSERT INTO `azure_azuredevops.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:5:1000::2/128', 'IPv6');

@@ -1,3 +1,7 @@
 ip_address,ip_type,service,region
 20.37.158.0/23,IPv4,AzureDevOps.CentralUS,centralus
+57.175.72.64/26,IPv4,AzureDevOps.CentralUS,centralus
+57.175.72.128/27,IPv4,AzureDevOps.CentralUS,centralus
+172.169.145.104/30,IPv4,AzureDevOps.CentralUS,centralus
 2603:1030:10:1c::600/119,IPv6,AzureDevOps.CentralUS,centralus
+2603:1030:10:1000::2/128,IPv6,AzureDevOps.CentralUS,centralus

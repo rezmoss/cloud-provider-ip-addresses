@@ -1,6 +1,6 @@
 #!/bin/bash
 # Azure IP Ranges
-# Updated: 2026-06-14 03:21:34
+# Updated: 2026-06-20 03:19:12
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -139,6 +139,7 @@ iptables -A INPUT -s 13.81.123.253/32 -j DROP
 iptables -A INPUT -s 13.81.136.0/25 -j DROP
 iptables -A INPUT -s 13.81.136.128/26 -j DROP
 iptables -A INPUT -s 13.81.136.192/28 -j DROP
+iptables -A INPUT -s 13.81.159.0/24 -j DROP
 iptables -A INPUT -s 13.81.204.189/32 -j DROP
 iptables -A INPUT -s 13.81.209.46/32 -j DROP
 iptables -A INPUT -s 13.81.209.51/32 -j DROP
@@ -1625,6 +1626,8 @@ iptables -A INPUT -s 172.199.131.128/25 -j DROP
 iptables -A INPUT -s 172.199.132.0/22 -j DROP
 iptables -A INPUT -s 172.199.232.10/31 -j DROP
 iptables -A INPUT -s 172.199.232.96/29 -j DROP
+iptables -A INPUT -s 172.199.233.80/28 -j DROP
+iptables -A INPUT -s 172.199.233.128/26 -j DROP
 iptables -A INPUT -s 172.201.0.0/16 -j DROP
 iptables -A INPUT -s 172.201.232.60/30 -j DROP
 iptables -A INPUT -s 172.201.236.144/28 -j DROP
@@ -1756,6 +1759,8 @@ ip6tables -A INPUT -s 2603:1020:206:2b::100/121 -j DROP
 ip6tables -A INPUT -s 2603:1020:206:2b::180/124 -j DROP
 ip6tables -A INPUT -s 2603:1020:206:2b::190/125 -j DROP
 ip6tables -A INPUT -s 2603:1020:206:2b::1a0/123 -j DROP
+ip6tables -A INPUT -s 2603:1020:206:2b::600/119 -j DROP
+ip6tables -A INPUT -s 2603:1020:206:2c::400/119 -j DROP
 ip6tables -A INPUT -s 2603:1020:206:400::/123 -j DROP
 ip6tables -A INPUT -s 2603:1020:206:401::/123 -j DROP
 ip6tables -A INPUT -s 2603:1020:206:402::80/125 -j DROP
@@ -1829,6 +1834,7 @@ ip6tables -A INPUT -s 2603:1020:206:c02::180/121 -j DROP
 ip6tables -A INPUT -s 2603:1020:206:c02::210/124 -j DROP
 ip6tables -A INPUT -s 2603:1020:206:c02::240/123 -j DROP
 ip6tables -A INPUT -s 2603:1020:206:c02::400/121 -j DROP
+ip6tables -A INPUT -s 2603:1020:206:1000::a/128 -j DROP
 ip6tables -A INPUT -s 2603:1020:207::/48 -j DROP
 ip6tables -A INPUT -s 2603:1020:208::/56 -j DROP
 ip6tables -A INPUT -s 2603:1020:209::/48 -j DROP

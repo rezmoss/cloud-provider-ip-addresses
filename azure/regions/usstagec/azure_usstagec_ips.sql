@@ -148,6 +148,7 @@ INSERT INTO `azure_usstagec_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:30
 INSERT INTO `azure_usstagec_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:302:1::90/126', 'IPv6');
 INSERT INTO `azure_usstagec_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:302:1::c0/123', 'IPv6');
 INSERT INTO `azure_usstagec_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:302:1::100/122', 'IPv6');
+INSERT INTO `azure_usstagec_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:302:4::/118', 'IPv6');
 INSERT INTO `azure_usstagec_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:302:402::80/123', 'IPv6');
 INSERT INTO `azure_usstagec_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:302:402::a0/126', 'IPv6');
 INSERT INTO `azure_usstagec_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:302:402::c0/122', 'IPv6');

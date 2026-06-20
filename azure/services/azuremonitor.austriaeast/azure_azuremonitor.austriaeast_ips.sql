@@ -29,3 +29,5 @@ INSERT INTO `azure_azuremonitor.austriaeast_ips` (`ip_address`, `ip_type`) VALUE
 INSERT INTO `azure_azuremonitor.austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:104:3::380/121', 'IPv6');
 INSERT INTO `azure_azuremonitor.austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:104:3::400/121', 'IPv6');
 INSERT INTO `azure_azuremonitor.austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:104:7::3c0/123', 'IPv6');
+INSERT INTO `azure_azuremonitor.austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:104:8::600/119', 'IPv6');
+INSERT INTO `azure_azuremonitor.austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:104:9::200/119', 'IPv6');

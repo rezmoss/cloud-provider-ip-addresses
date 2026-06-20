@@ -1044,6 +1044,18 @@
     "region": "eu-north-1"
   },
   {
+    "ip_address": "63.249.133.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-north-1"
+  },
+  {
+    "ip_address": "63.249.133.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "eu-north-1"
+  },
+  {
     "ip_address": "69.107.11.0/29",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -1885,6 +1897,18 @@
   },
   {
     "ip_address": "2a05:d07f:6000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eu-north-1"
+  },
+  {
+    "ip_address": "2a05:d07f:8800::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eu-north-1"
+  },
+  {
+    "ip_address": "2a05:d07f:8800::/40",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "eu-north-1"

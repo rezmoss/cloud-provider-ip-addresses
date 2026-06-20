@@ -366,6 +366,18 @@
     "region": "southeastasia"
   },
   {
+    "ip_address": "2603:1040:5:1b::/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "2603:1040:5:1b::400/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
     "ip_address": "2603:1040:5:402::500/121",
     "ip_type": "IPv6",
     "service": "AzureMonitor.SoutheastAsia",

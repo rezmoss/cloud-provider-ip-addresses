@@ -34,5 +34,7 @@ INSERT INTO `azure_azuremonitor.swedensouth_ips` (`ip_address`, `ip_type`) VALUE
 INSERT INTO `azure_azuremonitor.swedensouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1104:2::780/122', 'IPv6');
 INSERT INTO `azure_azuremonitor.swedensouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1104:7::7a0/123', 'IPv6');
 INSERT INTO `azure_azuremonitor.swedensouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1104:9::/122', 'IPv6');
+INSERT INTO `azure_azuremonitor.swedensouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1104:9::200/119', 'IPv6');
+INSERT INTO `azure_azuremonitor.swedensouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1104:9::600/119', 'IPv6');
 INSERT INTO `azure_azuremonitor.swedensouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1104:400::440/123', 'IPv6');
 INSERT INTO `azure_azuremonitor.swedensouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1104:400::480/121', 'IPv6');

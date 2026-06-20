@@ -301,6 +301,8 @@ INSERT INTO `azure_westindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:8
 INSERT INTO `azure_westindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:806:6::2c0/122', 'IPv6');
 INSERT INTO `azure_westindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:806:7::499/128', 'IPv6');
 INSERT INTO `azure_westindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:806:7::49a/127', 'IPv6');
+INSERT INTO `azure_westindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:806:9::200/119', 'IPv6');
+INSERT INTO `azure_westindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:806:9::600/119', 'IPv6');
 INSERT INTO `azure_westindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:806:400::/123', 'IPv6');
 INSERT INTO `azure_westindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:806:402::80/125', 'IPv6');
 INSERT INTO `azure_westindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:806:402::88/125', 'IPv6');

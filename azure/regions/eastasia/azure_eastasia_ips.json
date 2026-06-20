@@ -696,6 +696,12 @@
     "region": "eastasia"
   },
   {
+    "ip_address": "20.2.105.224/30",
+    "ip_type": "IPv4",
+    "service": "AzureDevOps.EastAsia",
+    "region": "eastasia"
+  },
+  {
     "ip_address": "20.6.128.0/17",
     "ip_type": "IPv4",
     "service": "AzureCloud.eastasia",
@@ -4356,6 +4362,18 @@
     "region": "eastasia"
   },
   {
+    "ip_address": "2603:1040:207:14::200/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "2603:1040:207:14::600/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.EastAsia",
+    "region": "eastasia"
+  },
+  {
     "ip_address": "2603:1040:207:400::/123",
     "ip_type": "IPv6",
     "service": "Sql.EastAsia",
@@ -4665,6 +4683,12 @@
     "ip_address": "2603:1040:207:c00::300/121",
     "ip_type": "IPv6",
     "service": "AzureMonitor.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "2603:1040:207:1000::2/128",
+    "ip_type": "IPv6",
+    "service": "AzureDevOps.EastAsia",
     "region": "eastasia"
   },
   {

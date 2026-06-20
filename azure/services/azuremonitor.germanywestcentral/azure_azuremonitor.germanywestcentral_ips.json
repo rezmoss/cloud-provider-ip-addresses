@@ -216,6 +216,12 @@
     "region": "germanywc"
   },
   {
+    "ip_address": "2603:1020:c04:e::400/118",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
     "ip_address": "2603:1020:c04:402::500/121",
     "ip_type": "IPv6",
     "service": "AzureMonitor.GermanyWestCentral",

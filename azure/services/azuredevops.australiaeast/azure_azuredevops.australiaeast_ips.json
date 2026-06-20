@@ -1,5 +1,29 @@
 [
   {
+    "ip_address": "4.198.222.196/30",
+    "ip_type": "IPv4",
+    "service": "AzureDevOps.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "4.198.222.200/29",
+    "ip_type": "IPv4",
+    "service": "AzureDevOps.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "4.198.222.208/28",
+    "ip_type": "IPv4",
+    "service": "AzureDevOps.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "4.198.222.224/31",
+    "ip_type": "IPv4",
+    "service": "AzureDevOps.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
     "ip_address": "20.37.194.0/24",
     "ip_type": "IPv4",
     "service": "AzureDevOps.AustraliaEast",
@@ -7,6 +31,12 @@
   },
   {
     "ip_address": "2603:1010:6:d::/120",
+    "ip_type": "IPv6",
+    "service": "AzureDevOps.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "2603:1010:6:1000::a/128",
     "ip_type": "IPv6",
     "service": "AzureDevOps.AustraliaEast",
     "region": "australiaeast"

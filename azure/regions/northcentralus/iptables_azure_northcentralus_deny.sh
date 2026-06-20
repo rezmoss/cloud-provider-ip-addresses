@@ -1,6 +1,6 @@
 #!/bin/bash
 # Azure IP Ranges
-# Updated: 2026-06-14 03:21:35
+# Updated: 2026-06-20 03:19:12
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -109,6 +109,7 @@ iptables -A INPUT -s 20.66.156.0/23 -j DROP
 iptables -A INPUT -s 20.66.166.80/30 -j DROP
 iptables -A INPUT -s 20.66.166.96/27 -j DROP
 iptables -A INPUT -s 20.66.166.128/26 -j DROP
+iptables -A INPUT -s 20.66.210.0/26 -j DROP
 iptables -A INPUT -s 20.72.32.0/19 -j DROP
 iptables -A INPUT -s 20.80.0.0/18 -j DROP
 iptables -A INPUT -s 20.80.33.190/32 -j DROP
@@ -557,6 +558,7 @@ iptables -A INPUT -s 130.213.74.128/26 -j DROP
 iptables -A INPUT -s 130.213.74.224/27 -j DROP
 iptables -A INPUT -s 130.213.75.0/26 -j DROP
 iptables -A INPUT -s 130.213.112.64/28 -j DROP
+iptables -A INPUT -s 130.213.112.120/30 -j DROP
 iptables -A INPUT -s 131.253.12.16/28 -j DROP
 iptables -A INPUT -s 131.253.12.40/29 -j DROP
 iptables -A INPUT -s 131.253.12.48/29 -j DROP
@@ -762,6 +764,8 @@ ip6tables -A INPUT -s 2603:1030:608:17::148/126 -j DROP
 ip6tables -A INPUT -s 2603:1030:608:17::160/123 -j DROP
 ip6tables -A INPUT -s 2603:1030:608:17::180/122 -j DROP
 ip6tables -A INPUT -s 2603:1030:608:17::1c0/123 -j DROP
+ip6tables -A INPUT -s 2603:1030:608:17::600/119 -j DROP
+ip6tables -A INPUT -s 2603:1030:608:18::400/119 -j DROP
 ip6tables -A INPUT -s 2603:1030:608:400::/123 -j DROP
 ip6tables -A INPUT -s 2603:1030:608:402::80/125 -j DROP
 ip6tables -A INPUT -s 2603:1030:608:402::88/125 -j DROP
@@ -813,6 +817,7 @@ ip6tables -A INPUT -s 2603:1030:608:c00::2c0/124 -j DROP
 ip6tables -A INPUT -s 2603:1030:608:c00::300/121 -j DROP
 ip6tables -A INPUT -s 2603:1030:608:c00::380/125 -j DROP
 ip6tables -A INPUT -s 2603:1030:608:c00::3a0/125 -j DROP
+ip6tables -A INPUT -s 2603:1030:608:1000::a/128 -j DROP
 ip6tables -A INPUT -s 2603:1030:609::/49 -j DROP
 ip6tables -A INPUT -s 2603:1030:609:8000::/58 -j DROP
 ip6tables -A INPUT -s 2603:1030:609:8040::/62 -j DROP

@@ -18,6 +18,7 @@ INSERT INTO `azure_azurecontainerregistry.southcentralus_ips` (`ip_address`, `ip
 INSERT INTO `azure_azurecontainerregistry.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('40.124.64.0/25', 'IPv4');
 INSERT INTO `azure_azurecontainerregistry.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('48.221.168.64/26', 'IPv4');
 INSERT INTO `azure_azurecontainerregistry.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('72.147.158.128/26', 'IPv4');
+INSERT INTO `azure_azurecontainerregistry.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('74.145.160.0/27', 'IPv4');
 INSERT INTO `azure_azurecontainerregistry.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('104.214.18.184/29', 'IPv4');
 INSERT INTO `azure_azurecontainerregistry.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('172.215.133.0/24', 'IPv4');
 INSERT INTO `azure_azurecontainerregistry.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('172.215.171.96/27', 'IPv4');

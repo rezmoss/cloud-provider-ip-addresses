@@ -4110,6 +4110,12 @@
     "region": "japaneast"
   },
   {
+    "ip_address": "2603:1040:407:11::600/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.JapanEast",
+    "region": "japaneast"
+  },
+  {
     "ip_address": "2603:1040:407:400::/123",
     "ip_type": "IPv6",
     "service": "Sql.JapanEast",

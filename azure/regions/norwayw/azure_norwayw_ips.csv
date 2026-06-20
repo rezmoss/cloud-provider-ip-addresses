@@ -302,6 +302,8 @@ ip_address,ip_type,service,region
 2603:1020:f04:a::4b0/126,IPv6,AzureIoTHub.NorwayWest,norwayw
 2603:1020:f04:a::4c0/122,IPv6,AzureIoTHub.NorwayWest,norwayw
 2603:1020:f04:a::600/123,IPv6,AzureIoTHub.NorwayWest,norwayw
+2603:1020:f04:b::/119,IPv6,AzureMonitor.NorwayWest,norwayw
+2603:1020:f04:b::400/119,IPv6,AzureMonitor.NorwayWest,norwayw
 2603:1020:f04:400::/123,IPv6,Sql.NorwayWest,norwayw
 2603:1020:f04:402::80/125,IPv6,AzureKeyVault.NorwayWest,norwayw
 2603:1020:f04:402::88/125,IPv6,MicrosoftContainerRegistry.NorwayWest,norwayw

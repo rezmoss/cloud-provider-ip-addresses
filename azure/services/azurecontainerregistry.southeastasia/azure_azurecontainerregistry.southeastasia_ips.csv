@@ -1,5 +1,6 @@
 ip_address,ip_type,service,region
 4.145.75.128/25,IPv4,AzureContainerRegistry.SoutheastAsia,southeastasia
+4.145.224.0/25,IPv4,AzureContainerRegistry.SoutheastAsia,southeastasia
 13.67.8.120/29,IPv4,AzureContainerRegistry.SoutheastAsia,southeastasia
 13.67.14.0/25,IPv4,AzureContainerRegistry.SoutheastAsia,southeastasia
 13.67.14.128/25,IPv4,AzureContainerRegistry.SoutheastAsia,southeastasia

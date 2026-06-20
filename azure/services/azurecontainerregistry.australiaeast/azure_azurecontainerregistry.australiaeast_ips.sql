@@ -17,6 +17,7 @@ INSERT INTO `azure_azurecontainerregistry.australiaeast_ips` (`ip_address`, `ip_
 INSERT INTO `azure_azurecontainerregistry.australiaeast_ips` (`ip_address`, `ip_type`) VALUES ('40.79.173.128/25', 'IPv4');
 INSERT INTO `azure_azurecontainerregistry.australiaeast_ips` (`ip_address`, `ip_type`) VALUES ('40.79.174.0/25', 'IPv4');
 INSERT INTO `azure_azurecontainerregistry.australiaeast_ips` (`ip_address`, `ip_type`) VALUES ('48.215.4.128/26', 'IPv4');
+INSERT INTO `azure_azurecontainerregistry.australiaeast_ips` (`ip_address`, `ip_type`) VALUES ('51.56.168.0/26', 'IPv4');
 INSERT INTO `azure_azurecontainerregistry.australiaeast_ips` (`ip_address`, `ip_type`) VALUES ('68.218.136.0/25', 'IPv4');
 INSERT INTO `azure_azurecontainerregistry.australiaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:6:4::4c0/122', 'IPv6');
 INSERT INTO `azure_azurecontainerregistry.australiaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:6:402::90/125', 'IPv6');

@@ -2,4 +2,7 @@ ip_address,ip_type,service,region
 4.188.8.0/27,IPv4,AzureDevOps.CentralIndia,centralindia
 4.247.191.228/30,IPv4,AzureDevOps.CentralIndia,centralindia
 20.204.197.192/26,IPv4,AzureDevOps.CentralIndia,centralindia
+135.235.135.96/27,IPv4,AzureDevOps.CentralIndia,centralindia
+135.235.135.128/31,IPv4,AzureDevOps.CentralIndia,centralindia
 2603:1040:a06:c::80/122,IPv6,AzureDevOps.CentralIndia,centralindia
+2603:1040:a06:1000::a/128,IPv6,AzureDevOps.CentralIndia,centralindia

@@ -148,5 +148,17 @@
     "ip_type": "IPv6",
     "service": "AzureMonitor.ChileCentral",
     "region": "chilec"
+  },
+  {
+    "ip_address": "2603:1050:301:6::200/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.ChileCentral",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "2603:1050:301:6::600/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.ChileCentral",
+    "region": "chilec"
   }
 ]

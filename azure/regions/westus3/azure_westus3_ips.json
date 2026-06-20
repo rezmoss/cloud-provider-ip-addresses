@@ -2982,13 +2982,7 @@
     "region": "westus3"
   },
   {
-    "ip_address": "57.157.129.192/30",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.westus3",
-    "region": "westus3"
-  },
-  {
-    "ip_address": "57.157.129.196/31",
+    "ip_address": "57.157.129.192/29",
     "ip_type": "IPv4",
     "service": "AzureCloud.westus3",
     "region": "westus3"
@@ -3294,6 +3288,12 @@
     "region": "westus3"
   },
   {
+    "ip_address": "172.181.30.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.WestUS3",
+    "region": "westus3"
+  },
+  {
     "ip_address": "172.182.0.0/16",
     "ip_type": "IPv4",
     "service": "AzureCloud.westus3",
@@ -3303,6 +3303,12 @@
     "ip_address": "172.182.1.64/29",
     "ip_type": "IPv4",
     "service": "AppServiceManagement.WestUS3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "172.182.17.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureDevOps.WestUS3",
     "region": "westus3"
   },
   {
@@ -3906,6 +3912,12 @@
     "region": "westus3"
   },
   {
+    "ip_address": "2603:1030:504:19::400/118",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.WestUS3",
+    "region": "westus3"
+  },
+  {
     "ip_address": "2603:1030:504:400::/123",
     "ip_type": "IPv6",
     "service": "Sql.WestUS3",
@@ -4359,6 +4371,12 @@
     "ip_address": "2603:1030:504:1000::18/125",
     "ip_type": "IPv6",
     "service": "AzureKeyVault.WestUS3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "2603:1030:504:1400::6/128",
+    "ip_type": "IPv6",
+    "service": "AzureDevOps.WestUS3",
     "region": "westus3"
   },
   {

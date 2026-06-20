@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "20.216.121.80/31",
+    "ip_type": "IPv4",
+    "service": "AzureDevOps.UAECentral",
+    "region": "uaecentral"
+  },
+  {
+    "ip_address": "2603:1040:b04:c00::2/128",
+    "ip_type": "IPv6",
+    "service": "AzureDevOps.UAECentral",
+    "region": "uaecentral"
+  }
+]

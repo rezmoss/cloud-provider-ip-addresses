@@ -27,4 +27,6 @@ INSERT INTO `azure_azuremonitor.australiacentral2_ips` (`ip_address`, `ip_type`)
 INSERT INTO `azure_azuremonitor.australiacentral2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:404:5::440/122', 'IPv6');
 INSERT INTO `azure_azuremonitor.australiacentral2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:404:5::600/121', 'IPv6');
 INSERT INTO `azure_azuremonitor.australiacentral2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:404:8::e0/123', 'IPv6');
+INSERT INTO `azure_azuremonitor.australiacentral2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:404:9::400/119', 'IPv6');
+INSERT INTO `azure_azuremonitor.australiacentral2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:404:a::/119', 'IPv6');
 INSERT INTO `azure_azuremonitor.australiacentral2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:404:402::500/121', 'IPv6');

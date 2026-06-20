@@ -1,6 +1,6 @@
 #!/bin/bash
 # Azure IP Ranges
-# Updated: 2026-06-14 03:21:34
+# Updated: 2026-06-20 03:19:12
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -40,6 +40,7 @@ ufw allow from 4.225.198.80/32
 ufw allow from 4.225.198.176/32
 ufw allow from 9.223.0.0/16
 ufw allow from 9.223.122.64/29
+ufw allow from 9.223.122.120/31
 ufw allow from 9.223.161.0/24
 ufw allow from 9.223.162.0/23
 ufw allow from 9.223.164.0/25
@@ -362,8 +363,11 @@ ufw allow from 52.253.188.0/23
 ufw allow from 57.150.58.0/23
 ufw allow from 57.150.58.0/23
 ufw allow from 57.157.68.0/23
-ufw allow from 57.157.70.0/28
-ufw allow from 57.157.70.16/30
+ufw allow from 57.157.70.0/26
+ufw allow from 57.157.70.64/27
+ufw allow from 57.157.70.96/29
+ufw allow from 57.157.70.104/30
+ufw allow from 57.157.70.108/31
 ufw allow from 57.163.6.0/23
 ufw allow from 57.163.6.0/23
 ufw allow from 57.174.0.0/17
@@ -415,6 +419,7 @@ ufw allow from 145.190.164.0/24
 ufw allow from 151.206.112.0/24
 ufw allow from 151.206.128.0/24
 ufw allow from 172.160.0.0/16
+ufw allow from 172.160.153.128/26
 ufw allow from 172.160.216.16/29
 ufw allow from 172.160.216.24/30
 ufw allow from 172.160.222.128/26
@@ -486,6 +491,8 @@ ufw allow from 2603:1020:1004:d::3de/128
 ufw allow from 2603:1020:1004:d::3e0/123
 ufw allow from 2603:1020:1004:d::500/124
 ufw allow from 2603:1020:1004:10::2c0/123
+ufw allow from 2603:1020:1004:11::400/119
+ufw allow from 2603:1020:1004:12::/119
 ufw allow from 2603:1020:1004:400::80/125
 ufw allow from 2603:1020:1004:400::88/125
 ufw allow from 2603:1020:1004:400::90/125
@@ -562,6 +569,7 @@ ufw allow from 2603:1020:1004:c02::380/124
 ufw allow from 2603:1020:1004:c02::3c0/122
 ufw allow from 2603:1020:1004:c03::/123
 ufw allow from 2603:1020:1004:c04::/123
+ufw allow from 2603:1020:1004:1000::a/128
 ufw allow from 2603:1020:1005::/48
 ufw allow from 2603:1020:1007::/48
 ufw allow from 2603:1026:900::/64

@@ -300,6 +300,18 @@
     "region": "eastasia"
   },
   {
+    "ip_address": "2603:1040:207:14::200/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "2603:1040:207:14::600/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.EastAsia",
+    "region": "eastasia"
+  },
+  {
     "ip_address": "2603:1040:207:402::500/121",
     "ip_type": "IPv6",
     "service": "AzureMonitor.EastAsia",

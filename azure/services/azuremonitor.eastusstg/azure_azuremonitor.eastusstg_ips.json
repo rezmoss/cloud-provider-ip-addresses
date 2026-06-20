@@ -102,6 +102,12 @@
     "region": "usstagee"
   },
   {
+    "ip_address": "2603:1030:104:6::400/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.EastUSSTG",
+    "region": "usstagee"
+  },
+  {
     "ip_address": "2603:1030:104:402::500/121",
     "ip_type": "IPv6",
     "service": "AzureMonitor.EastUSSTG",

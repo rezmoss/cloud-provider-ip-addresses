@@ -11,3 +11,5 @@ ip_address,ip_type,service,region
 2603:1030:1402:2::700/122,IPv6,AzureMonitor.EastUS3,eastus3
 2603:1030:1402:2::780/121,IPv6,AzureMonitor.EastUS3,eastus3
 2603:1030:1402:3::/121,IPv6,AzureMonitor.EastUS3,eastus3
+2603:1030:1402:6::/119,IPv6,AzureMonitor.EastUS3,eastus3
+2603:1030:1402:6::400/119,IPv6,AzureMonitor.EastUS3,eastus3

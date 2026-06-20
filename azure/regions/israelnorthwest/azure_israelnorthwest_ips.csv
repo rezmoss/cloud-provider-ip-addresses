@@ -174,6 +174,7 @@ ip_address,ip_type,service,region
 2603:1040:1702:5::37a/127,IPv6,AzureArcInfrastructure.IsraelNorthwest,israelnorthwest
 2603:1040:1702:5::37c/128,IPv6,AzureArcInfrastructure.IsraelNorthwest,israelnorthwest
 2603:1040:1702:5::480/121,IPv6,DataFactory.IsraelNorthwest,israelnorthwest
+2603:1040:1702:6::400/118,IPv6,AzureMonitor.IsraelNorthwest,israelnorthwest
 2603:1040:1702:400::/125,IPv6,MicrosoftContainerRegistry.IsraelNorthwest,israelnorthwest
 2603:1040:1702:400::8/125,IPv6,AzureContainerRegistry.IsraelNorthwest,israelnorthwest
 2603:1040:1702:400::18/125,IPv6,ServiceFabric.IsraelNorthwest,israelnorthwest

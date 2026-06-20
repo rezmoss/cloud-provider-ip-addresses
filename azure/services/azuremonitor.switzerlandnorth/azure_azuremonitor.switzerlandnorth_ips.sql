@@ -32,6 +32,7 @@ INSERT INTO `azure_azuremonitor.switzerlandnorth_ips` (`ip_address`, `ip_type`) 
 INSERT INTO `azure_azuremonitor.switzerlandnorth_ips` (`ip_address`, `ip_type`) VALUES ('74.161.238.224/28', 'IPv4');
 INSERT INTO `azure_azuremonitor.switzerlandnorth_ips` (`ip_address`, `ip_type`) VALUES ('74.242.188.0/27', 'IPv4');
 INSERT INTO `azure_azuremonitor.switzerlandnorth_ips` (`ip_address`, `ip_type`) VALUES ('74.242.188.64/26', 'IPv4');
+INSERT INTO `azure_azuremonitor.switzerlandnorth_ips` (`ip_address`, `ip_type`) VALUES ('172.161.221.128/26', 'IPv4');
 INSERT INTO `azure_azuremonitor.switzerlandnorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:a01:24::8/128', 'IPv6');
 INSERT INTO `azure_azuremonitor.switzerlandnorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:a04::60/123', 'IPv6');
 INSERT INTO `azure_azuremonitor.switzerlandnorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:a04::1c0/122', 'IPv6');
@@ -44,6 +45,8 @@ INSERT INTO `azure_azuremonitor.switzerlandnorth_ips` (`ip_address`, `ip_type`) 
 INSERT INTO `azure_azuremonitor.switzerlandnorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:a04:9::5c0/123', 'IPv6');
 INSERT INTO `azure_azuremonitor.switzerlandnorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:a04:9::600/120', 'IPv6');
 INSERT INTO `azure_azuremonitor.switzerlandnorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:a04:d::560/123', 'IPv6');
+INSERT INTO `azure_azuremonitor.switzerlandnorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:a04:e::/119', 'IPv6');
+INSERT INTO `azure_azuremonitor.switzerlandnorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:a04:e::400/119', 'IPv6');
 INSERT INTO `azure_azuremonitor.switzerlandnorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:a04:402::500/121', 'IPv6');
 INSERT INTO `azure_azuremonitor.switzerlandnorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:a04:800::100/121', 'IPv6');
 INSERT INTO `azure_azuremonitor.switzerlandnorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:a04:c02::480/121', 'IPv6');

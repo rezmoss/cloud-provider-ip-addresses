@@ -18,7 +18,25 @@
     "region": "centralindia"
   },
   {
+    "ip_address": "135.235.135.96/27",
+    "ip_type": "IPv4",
+    "service": "AzureDevOps.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "135.235.135.128/31",
+    "ip_type": "IPv4",
+    "service": "AzureDevOps.CentralIndia",
+    "region": "centralindia"
+  },
+  {
     "ip_address": "2603:1040:a06:c::80/122",
+    "ip_type": "IPv6",
+    "service": "AzureDevOps.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "2603:1040:a06:1000::a/128",
     "ip_type": "IPv6",
     "service": "AzureDevOps.CentralIndia",
     "region": "centralindia"

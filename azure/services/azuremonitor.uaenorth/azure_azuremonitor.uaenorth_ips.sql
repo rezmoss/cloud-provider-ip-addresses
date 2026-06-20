@@ -43,6 +43,8 @@ INSERT INTO `azure_azuremonitor.uaenorth_ips` (`ip_address`, `ip_type`) VALUES (
 INSERT INTO `azure_azuremonitor.uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:904:8::500/120', 'IPv6');
 INSERT INTO `azure_azuremonitor.uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:904:8::660/123', 'IPv6');
 INSERT INTO `azure_azuremonitor.uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:904:b::480/123', 'IPv6');
+INSERT INTO `azure_azuremonitor.uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:904:c::/119', 'IPv6');
+INSERT INTO `azure_azuremonitor.uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:904:c::400/119', 'IPv6');
 INSERT INTO `azure_azuremonitor.uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:904:402::500/121', 'IPv6');
 INSERT INTO `azure_azuremonitor.uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:904:800::100/121', 'IPv6');
 INSERT INTO `azure_azuremonitor.uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:904:c02::480/121', 'IPv6');

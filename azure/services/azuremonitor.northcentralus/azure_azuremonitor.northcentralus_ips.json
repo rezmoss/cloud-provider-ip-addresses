@@ -48,6 +48,12 @@
     "region": "northcentralus"
   },
   {
+    "ip_address": "20.66.210.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.NorthCentralUS",
+    "region": "northcentralus"
+  },
+  {
     "ip_address": "20.125.171.200/29",
     "ip_type": "IPv4",
     "service": "AzureMonitor.NorthCentralUS",
@@ -235,6 +241,18 @@
   },
   {
     "ip_address": "2603:1030:608:17::1c0/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.NorthCentralUS",
+    "region": "northcentralus"
+  },
+  {
+    "ip_address": "2603:1030:608:17::600/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.NorthCentralUS",
+    "region": "northcentralus"
+  },
+  {
+    "ip_address": "2603:1030:608:18::400/119",
     "ip_type": "IPv6",
     "service": "AzureMonitor.NorthCentralUS",
     "region": "northcentralus"

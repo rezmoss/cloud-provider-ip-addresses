@@ -281,6 +281,8 @@ ip_address,ip_type,service,region
 2603:1040:d04:7::2e0/123,IPv6,AzureMonitor.JioIndiaWest,jioindiawest
 2603:1040:d04:7::300/120,IPv6,AzureMonitor.JioIndiaWest,jioindiawest
 2603:1040:d04:7::480/123,IPv6,AzureMachineLearning.JioIndiaWest,jioindiawest
+2603:1040:d04:8::600/119,IPv6,AzureMonitor.JioIndiaWest,jioindiawest
+2603:1040:d04:9::/119,IPv6,AzureMonitor.JioIndiaWest,jioindiawest
 2603:1040:d04:400::80/125,IPv6,AzureKeyVault.JioIndiaWest,jioindiawest
 2603:1040:d04:400::88/125,IPv6,MicrosoftContainerRegistry.JioIndiaWest,jioindiawest
 2603:1040:d04:400::90/125,IPv6,AzureContainerRegistry.JioIndiaWest,jioindiawest

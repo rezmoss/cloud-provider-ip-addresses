@@ -78,6 +78,12 @@
     "region": "westeurope"
   },
   {
+    "ip_address": "13.81.159.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.WestEurope",
+    "region": "westeurope"
+  },
+  {
     "ip_address": "20.50.88.224/27",
     "ip_type": "IPv4",
     "service": "AzureMonitor.WestEurope",
@@ -415,6 +421,18 @@
   },
   {
     "ip_address": "2603:1020:206:2b::1a0/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "2603:1020:206:2b::600/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "2603:1020:206:2c::400/119",
     "ip_type": "IPv6",
     "service": "AzureMonitor.WestEurope",
     "region": "westeurope"

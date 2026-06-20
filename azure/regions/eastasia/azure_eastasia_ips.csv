@@ -115,6 +115,7 @@ ip_address,ip_type,service,region
 20.2.52.61/32,IPv4,LogicApps.EastAsia,eastasia
 20.2.105.64/28,IPv4,AppServiceManagement.EastAsia,eastasia
 20.2.105.208/28,IPv4,DataFactory.EastAsia,eastasia
+20.2.105.224/30,IPv4,AzureDevOps.EastAsia,eastasia
 20.6.128.0/17,IPv4,AzureCloud.eastasia,eastasia
 20.6.137.192/26,IPv4,AzureCosmosDB.EastAsia,eastasia
 20.6.139.0/25,IPv4,Sql.EastAsia,eastasia
@@ -725,6 +726,8 @@ ip_address,ip_type,service,region
 2603:1040:207:13::440/122,IPv6,AzureIoTHub.EastAsia,eastasia
 2603:1040:207:13::500/121,IPv6,AzureIoTHub.EastAsia,eastasia
 2603:1040:207:13::580/123,IPv6,AzureMonitor.EastAsia,eastasia
+2603:1040:207:14::200/119,IPv6,AzureMonitor.EastAsia,eastasia
+2603:1040:207:14::600/119,IPv6,AzureMonitor.EastAsia,eastasia
 2603:1040:207:400::/123,IPv6,Sql.EastAsia,eastasia
 2603:1040:207:401::/123,IPv6,Sql.EastAsia,eastasia
 2603:1040:207:402::80/125,IPv6,AzureKeyVault.EastAsia,eastasia
@@ -777,6 +780,7 @@ ip_address,ip_type,service,region
 2603:1040:207:c00::2c0/125,IPv6,PowerQueryOnline.EastAsia,eastasia
 2603:1040:207:c00::2e0/125,IPv6,AzureKeyVault.EastAsia,eastasia
 2603:1040:207:c00::300/121,IPv6,AzureMonitor.EastAsia,eastasia
+2603:1040:207:1000::2/128,IPv6,AzureDevOps.EastAsia,eastasia
 2603:1040:208::/47,IPv6,AzureCloud.eastasia,eastasia
 2603:1040:208::/49,IPv6,Storage.EastAsia,eastasia
 2603:1040:208:8000::/63,IPv6,Storage.EastAsia,eastasia

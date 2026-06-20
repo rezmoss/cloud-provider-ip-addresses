@@ -51,6 +51,7 @@ INSERT INTO `azure_azuremonitor.koreacentral_ips` (`ip_address`, `ip_type`) VALU
 INSERT INTO `azure_azuremonitor.koreacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:f05:c::100/120', 'IPv6');
 INSERT INTO `azure_azuremonitor.koreacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:f05:c::280/123', 'IPv6');
 INSERT INTO `azure_azuremonitor.koreacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:f05:d::6e0/123', 'IPv6');
+INSERT INTO `azure_azuremonitor.koreacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:f05:e::600/119', 'IPv6');
 INSERT INTO `azure_azuremonitor.koreacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:f05:402::500/121', 'IPv6');
 INSERT INTO `azure_azuremonitor.koreacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:f05:802::480/121', 'IPv6');
 INSERT INTO `azure_azuremonitor.koreacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:f05:c02::480/121', 'IPv6');

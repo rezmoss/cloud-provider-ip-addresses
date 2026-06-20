@@ -6,5 +6,7 @@ CREATE TABLE IF NOT EXISTS `azure_azuredevops.eastasia_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_azuredevops.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('20.2.105.224/30', 'IPv4');
 INSERT INTO `azure_azuredevops.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('20.189.107.0/24', 'IPv4');
 INSERT INTO `azure_azuredevops.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:207:f::700/120', 'IPv6');
+INSERT INTO `azure_azuredevops.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:207:1000::2/128', 'IPv6');

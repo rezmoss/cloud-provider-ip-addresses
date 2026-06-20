@@ -6,6 +6,18 @@
     "region": "australiasoutheast"
   },
   {
+    "ip_address": "48.215.155.96/31",
+    "ip_type": "IPv4",
+    "service": "AzureDevOps.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  },
+  {
+    "ip_address": "2603:1010:101:c00::2/128",
+    "ip_type": "IPv6",
+    "service": "AzureDevOps.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  },
+  {
     "ip_address": "2603:1010:207:2::700/120",
     "ip_type": "IPv6",
     "service": "AzureDevOps.AustraliaSoutheast",

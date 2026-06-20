@@ -6,5 +6,10 @@ CREATE TABLE IF NOT EXISTS `azure_azuredevops.australiaeast_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_azuredevops.australiaeast_ips` (`ip_address`, `ip_type`) VALUES ('4.198.222.196/30', 'IPv4');
+INSERT INTO `azure_azuredevops.australiaeast_ips` (`ip_address`, `ip_type`) VALUES ('4.198.222.200/29', 'IPv4');
+INSERT INTO `azure_azuredevops.australiaeast_ips` (`ip_address`, `ip_type`) VALUES ('4.198.222.208/28', 'IPv4');
+INSERT INTO `azure_azuredevops.australiaeast_ips` (`ip_address`, `ip_type`) VALUES ('4.198.222.224/31', 'IPv4');
 INSERT INTO `azure_azuredevops.australiaeast_ips` (`ip_address`, `ip_type`) VALUES ('20.37.194.0/24', 'IPv4');
 INSERT INTO `azure_azuredevops.australiaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:6:d::/120', 'IPv6');
+INSERT INTO `azure_azuredevops.australiaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:6:1000::a/128', 'IPv6');

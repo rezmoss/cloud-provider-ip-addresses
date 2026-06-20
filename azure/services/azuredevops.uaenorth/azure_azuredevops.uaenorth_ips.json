@@ -6,7 +6,19 @@
     "region": "uaenorth"
   },
   {
+    "ip_address": "74.162.170.96/31",
+    "ip_type": "IPv4",
+    "service": "AzureDevOps.UAENorth",
+    "region": "uaenorth"
+  },
+  {
     "ip_address": "2603:1040:904:7::700/121",
+    "ip_type": "IPv6",
+    "service": "AzureDevOps.UAENorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "2603:1040:904:1000::2/128",
     "ip_type": "IPv6",
     "service": "AzureDevOps.UAENorth",
     "region": "uaenorth"

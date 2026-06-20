@@ -100,5 +100,11 @@
     "ip_type": "IPv6",
     "service": "AzureMonitor.IndiaSouthCentral",
     "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904:5::400/118",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.IndiaSouthCentral",
+    "region": "indiasouthcentral"
   }
 ]

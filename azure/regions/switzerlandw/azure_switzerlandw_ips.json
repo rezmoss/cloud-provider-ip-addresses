@@ -2088,6 +2088,12 @@
     "region": "switzerlandw"
   },
   {
+    "ip_address": "2603:1020:b04:a::400/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
     "ip_address": "2603:1020:b04:400::/123",
     "ip_type": "IPv6",
     "service": "Sql.SwitzerlandWest",

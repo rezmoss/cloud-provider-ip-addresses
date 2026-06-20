@@ -2574,7 +2574,19 @@
     "region": "koreacentral"
   },
   {
-    "ip_address": "57.157.88.128/27",
+    "ip_address": "57.157.88.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreacentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "57.157.88.192/29",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreacentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "57.157.88.200/30",
     "ip_type": "IPv4",
     "service": "AzureCloud.koreacentral",
     "region": "koreacentral"
@@ -3111,6 +3123,12 @@
     "ip_address": "2603:1040:f05:e::/120",
     "ip_type": "IPv6",
     "service": "AzureIoTHub.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "2603:1040:f05:e::600/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.KoreaCentral",
     "region": "koreacentral"
   },
   {

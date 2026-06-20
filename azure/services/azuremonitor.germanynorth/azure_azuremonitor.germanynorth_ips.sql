@@ -31,4 +31,5 @@ INSERT INTO `azure_azuremonitor.germanynorth_ips` (`ip_address`, `ip_type`) VALU
 INSERT INTO `azure_azuremonitor.germanynorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:d04:9::400/120', 'IPv6');
 INSERT INTO `azure_azuremonitor.germanynorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:d04:9::740/123', 'IPv6');
 INSERT INTO `azure_azuremonitor.germanynorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:d04:a::760/123', 'IPv6');
+INSERT INTO `azure_azuremonitor.germanynorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:d04:b::200/119', 'IPv6');
 INSERT INTO `azure_azuremonitor.germanynorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:d04:402::500/121', 'IPv6');

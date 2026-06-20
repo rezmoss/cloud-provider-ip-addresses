@@ -552,6 +552,12 @@
     "region": "eastus"
   },
   {
+    "ip_address": "2603:1030:210:3a::600/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.EastUS",
+    "region": "eastus"
+  },
+  {
     "ip_address": "2603:1030:210:402::500/121",
     "ip_type": "IPv6",
     "service": "AzureMonitor.EastUS",

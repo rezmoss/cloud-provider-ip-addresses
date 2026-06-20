@@ -232,5 +232,11 @@
     "ip_type": "IPv6",
     "service": "AzureMonitor.AustraliaSoutheast",
     "region": "australiasoutheast"
+  },
+  {
+    "ip_address": "2603:1010:207:7::200/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.AustraliaSoutheast",
+    "region": "australiasoutheast"
   }
 ]

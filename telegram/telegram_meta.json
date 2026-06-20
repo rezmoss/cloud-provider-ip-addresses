@@ -1,7 +1,7 @@
 {
   "provider": "telegram",
   "version": 1,
-  "generated_date": "2026-06-19",
+  "generated_date": "2026-06-20",
   "last_changed_date": "2026-06-18",
   "sources": [
     "https://core.telegram.org/resources/cidr.txt"

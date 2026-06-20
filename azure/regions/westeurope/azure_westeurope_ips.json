@@ -792,6 +792,12 @@
     "region": "westeurope"
   },
   {
+    "ip_address": "13.81.159.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.WestEurope",
+    "region": "westeurope"
+  },
+  {
     "ip_address": "13.81.204.189/32",
     "ip_type": "IPv4",
     "service": "MicrosoftCloudAppSecurity.WestEurope",
@@ -9708,6 +9714,18 @@
     "region": "westeurope"
   },
   {
+    "ip_address": "172.199.233.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureDevOps.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "172.199.233.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureDevOps.WestEurope",
+    "region": "westeurope"
+  },
+  {
     "ip_address": "172.201.0.0/16",
     "ip_type": "IPv4",
     "service": "AzureCloud.westeurope",
@@ -10494,6 +10512,18 @@
     "region": "westeurope"
   },
   {
+    "ip_address": "2603:1020:206:2b::600/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "2603:1020:206:2c::400/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.WestEurope",
+    "region": "westeurope"
+  },
+  {
     "ip_address": "2603:1020:206:400::/123",
     "ip_type": "IPv6",
     "service": "Sql.WestEurope",
@@ -10929,6 +10959,12 @@
     "ip_address": "2603:1020:206:c02::400/121",
     "ip_type": "IPv6",
     "service": "AzureContainerRegistry.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "2603:1020:206:1000::a/128",
+    "ip_type": "IPv6",
+    "service": "AzureDevOps.WestEurope",
     "region": "westeurope"
   },
   {

@@ -286,6 +286,8 @@ ip_address,ip_type,service,region
 2603:1020:1403:7::570/124,IPv6,AzureMachineLearning.SpainCentral,spaincentral
 2603:1020:1403:7::580/123,IPv6,AzureMachineLearning.SpainCentral,spaincentral
 2603:1020:1403:8::780/123,IPv6,AzureMonitor.SpainCentral,spaincentral
+2603:1020:1403:9::200/119,IPv6,AzureMonitor.SpainCentral,spaincentral
+2603:1020:1403:9::600/119,IPv6,AzureMonitor.SpainCentral,spaincentral
 2603:1020:1403:400::/125,IPv6,MicrosoftContainerRegistry.SpainCentral,spaincentral
 2603:1020:1403:400::8/125,IPv6,AzureContainerRegistry.SpainCentral,spaincentral
 2603:1020:1403:400::18/125,IPv6,ServiceFabric.SpainCentral,spaincentral

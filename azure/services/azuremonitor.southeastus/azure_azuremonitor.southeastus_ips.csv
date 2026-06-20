@@ -14,3 +14,5 @@ ip_address,ip_type,service,region
 2603:1030:902:2::600/123,IPv6,AzureMonitor.SoutheastUS,southeastus
 2603:1030:902:2::680/121,IPv6,AzureMonitor.SoutheastUS,southeastus
 2603:1030:902:2::700/121,IPv6,AzureMonitor.SoutheastUS,southeastus
+2603:1030:902:5::600/119,IPv6,AzureMonitor.SoutheastUS,southeastus
+2603:1030:902:6::200/119,IPv6,AzureMonitor.SoutheastUS,southeastus

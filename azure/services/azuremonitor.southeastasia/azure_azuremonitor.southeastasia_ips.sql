@@ -67,6 +67,8 @@ INSERT INTO `azure_azuremonitor.southeastasia_ips` (`ip_address`, `ip_type`) VAL
 INSERT INTO `azure_azuremonitor.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:5:16::100/120', 'IPv6');
 INSERT INTO `azure_azuremonitor.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:5:16::2e0/123', 'IPv6');
 INSERT INTO `azure_azuremonitor.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:5:1a::420/123', 'IPv6');
+INSERT INTO `azure_azuremonitor.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:5:1b::/119', 'IPv6');
+INSERT INTO `azure_azuremonitor.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:5:1b::400/119', 'IPv6');
 INSERT INTO `azure_azuremonitor.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:5:402::500/121', 'IPv6');
 INSERT INTO `azure_azuremonitor.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:5:802::480/121', 'IPv6');
 INSERT INTO `azure_azuremonitor.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:5:c02::480/121', 'IPv6');

@@ -30,6 +30,7 @@ INSERT INTO `azure_azuremonitor.swedencentral_ips` (`ip_address`, `ip_type`) VAL
 INSERT INTO `azure_azuremonitor.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('135.116.174.224/27', 'IPv4');
 INSERT INTO `azure_azuremonitor.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('135.116.175.0/26', 'IPv4');
 INSERT INTO `azure_azuremonitor.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('135.225.42.192/26', 'IPv4');
+INSERT INTO `azure_azuremonitor.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('172.160.153.128/26', 'IPv4');
 INSERT INTO `azure_azuremonitor.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('172.160.223.224/27', 'IPv4');
 INSERT INTO `azure_azuremonitor.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1001:6::1/128', 'IPv6');
 INSERT INTO `azure_azuremonitor.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1004::280/122', 'IPv6');
@@ -42,6 +43,8 @@ INSERT INTO `azure_azuremonitor.swedencentral_ips` (`ip_address`, `ip_type`) VAL
 INSERT INTO `azure_azuremonitor.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1004:c::700/120', 'IPv6');
 INSERT INTO `azure_azuremonitor.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1004:d::80/123', 'IPv6');
 INSERT INTO `azure_azuremonitor.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1004:10::2c0/123', 'IPv6');
+INSERT INTO `azure_azuremonitor.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1004:11::400/119', 'IPv6');
+INSERT INTO `azure_azuremonitor.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1004:12::/119', 'IPv6');
 INSERT INTO `azure_azuremonitor.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1004:400::420/123', 'IPv6');
 INSERT INTO `azure_azuremonitor.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1004:400::4a0/123', 'IPv6');
 INSERT INTO `azure_azuremonitor.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1004:400::580/121', 'IPv6');

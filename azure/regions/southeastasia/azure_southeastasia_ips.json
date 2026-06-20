@@ -54,6 +54,18 @@
     "region": "southeastasia"
   },
   {
+    "ip_address": "4.145.0.106/31",
+    "ip_type": "IPv4",
+    "service": "AzureDevOps.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "4.145.0.192/27",
+    "ip_type": "IPv4",
+    "service": "AzureDevOps.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
     "ip_address": "4.145.8.112/28",
     "ip_type": "IPv4",
     "service": "AzureMonitor.SoutheastAsia",
@@ -195,6 +207,12 @@
     "ip_address": "4.145.220.240/28",
     "ip_type": "IPv4",
     "service": "AzureMonitor.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "4.145.224.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.SoutheastAsia",
     "region": "southeastasia"
   },
   {
@@ -5268,6 +5286,18 @@
     "region": "southeastasia"
   },
   {
+    "ip_address": "2603:1040:5:1b::/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "2603:1040:5:1b::400/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
     "ip_address": "2603:1040:5:400::/123",
     "ip_type": "IPv6",
     "service": "Sql.SoutheastAsia",
@@ -5631,6 +5661,12 @@
     "ip_address": "2603:1040:5:c02::480/121",
     "ip_type": "IPv6",
     "service": "AzureMonitor.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "2603:1040:5:1000::2/128",
+    "ip_type": "IPv6",
+    "service": "AzureDevOps.SoutheastAsia",
     "region": "southeastasia"
   },
   {

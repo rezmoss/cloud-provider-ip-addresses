@@ -51,6 +51,7 @@ INSERT INTO `azure_azurecloud.chilec_ips` (`ip_address`, `ip_type`) VALUES ('57.
 INSERT INTO `azure_azurecloud.chilec_ips` (`ip_address`, `ip_type`) VALUES ('57.156.0.0/17', 'IPv4');
 INSERT INTO `azure_azurecloud.chilec_ips` (`ip_address`, `ip_type`) VALUES ('68.211.0.0/17', 'IPv4');
 INSERT INTO `azure_azurecloud.chilec_ips` (`ip_address`, `ip_type`) VALUES ('68.211.128.0/18', 'IPv4');
+INSERT INTO `azure_azurecloud.chilec_ips` (`ip_address`, `ip_type`) VALUES ('68.211.192.0/19', 'IPv4');
 INSERT INTO `azure_azurecloud.chilec_ips` (`ip_address`, `ip_type`) VALUES ('70.152.213.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.chilec_ips` (`ip_address`, `ip_type`) VALUES ('209.199.24.224/27', 'IPv4');
 INSERT INTO `azure_azurecloud.chilec_ips` (`ip_address`, `ip_type`) VALUES ('209.199.26.0/24', 'IPv4');

@@ -4812,7 +4812,7 @@
     "region": "eastus2"
   },
   {
-    "ip_address": "40.120.158.44/31",
+    "ip_address": "40.120.158.44/30",
     "ip_type": "IPv4",
     "service": "AzureCloud.eastus2",
     "region": "eastus2"
@@ -9780,6 +9780,18 @@
     "region": "eastus2"
   },
   {
+    "ip_address": "57.167.224.40/29",
+    "ip_type": "IPv4",
+    "service": "AzureDevOps.EastUS2",
+    "region": "eastus2"
+  },
+  {
+    "ip_address": "57.167.224.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureDevOps.EastUS2",
+    "region": "eastus2"
+  },
+  {
     "ip_address": "57.171.1.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.eastus2",
@@ -10029,6 +10041,12 @@
     "ip_address": "74.145.29.0/27",
     "ip_type": "IPv4",
     "service": "AzureIoTHub.EastUS2",
+    "region": "eastus2"
+  },
+  {
+    "ip_address": "74.145.58.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.EastUS2",
     "region": "eastus2"
   },
   {
@@ -12486,19 +12504,7 @@
     "region": "eastus2"
   },
   {
-    "ip_address": "2603:1030:401:2b0::/62",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.eastus2",
-    "region": "eastus2"
-  },
-  {
-    "ip_address": "2603:1030:401:2b4::/63",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.eastus2",
-    "region": "eastus2"
-  },
-  {
-    "ip_address": "2603:1030:401:2b7::/64",
+    "ip_address": "2603:1030:401:2b0::/61",
     "ip_type": "IPv6",
     "service": "AzureCloud.eastus2",
     "region": "eastus2"
@@ -15792,6 +15798,12 @@
     "region": "eastus2"
   },
   {
+    "ip_address": "2603:1030:40c:32::600/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.EastUS2",
+    "region": "eastus2"
+  },
+  {
     "ip_address": "2603:1030:40c:400::/123",
     "ip_type": "IPv6",
     "service": "Sql.EastUS2",
@@ -16185,6 +16197,12 @@
     "ip_address": "2603:1030:40c:1000::80/121",
     "ip_type": "IPv6",
     "service": "AzureContainerRegistry.EastUS2",
+    "region": "eastus2"
+  },
+  {
+    "ip_address": "2603:1030:40c:1800::2/128",
+    "ip_type": "IPv6",
+    "service": "AzureDevOps.EastUS2",
     "region": "eastus2"
   },
   {

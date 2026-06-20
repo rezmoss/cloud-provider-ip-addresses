@@ -6,5 +6,7 @@ CREATE TABLE IF NOT EXISTS `azure_azuredevops.canadaeast_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_azuredevops.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('4.229.122.96/31', 'IPv4');
 INSERT INTO `azure_azuredevops.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('20.200.34.0/26', 'IPv4');
 INSERT INTO `azure_azuredevops.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005:c::2d8/125', 'IPv6');
+INSERT INTO `azure_azuredevops.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005:800::a/128', 'IPv6');

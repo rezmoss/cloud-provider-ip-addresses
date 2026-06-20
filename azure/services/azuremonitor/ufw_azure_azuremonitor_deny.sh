@@ -1,6 +1,6 @@
 #!/bin/bash
 # Azure IP Ranges
-# Updated: 2026-06-14 03:21:24
+# Updated: 2026-06-20 03:18:59
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -30,6 +30,7 @@ ufw deny from 4.172.75.0/24
 ufw deny from 4.172.83.112/28
 ufw deny from 4.172.95.192/28
 ufw deny from 4.173.102.64/28
+ufw deny from 4.173.137.0/25
 ufw deny from 4.174.145.0/27
 ufw deny from 4.174.145.64/26
 ufw deny from 4.176.24.16/28
@@ -179,6 +180,7 @@ ufw deny from 9.160.114.136/29
 ufw deny from 9.160.114.240/28
 ufw deny from 9.160.174.224/27
 ufw deny from 9.160.219.208/28
+ufw deny from 9.160.220.160/28
 ufw deny from 9.169.0.224/30
 ufw deny from 9.169.0.228/32
 ufw deny from 9.205.43.242/31
@@ -197,6 +199,7 @@ ufw deny from 9.205.98.240/28
 ufw deny from 9.205.114.136/29
 ufw deny from 9.205.114.240/28
 ufw deny from 9.205.206.16/28
+ufw deny from 9.205.206.32/28
 ufw deny from 9.235.22.224/27
 ufw deny from 9.235.23.0/28
 ufw deny from 9.235.70.80/28
@@ -309,6 +312,7 @@ ufw deny from 13.78.236.149/32
 ufw deny from 13.80.134.255/32
 ufw deny from 13.80.199.128/25
 ufw deny from 13.80.217.192/26
+ufw deny from 13.81.159.0/24
 ufw deny from 13.82.100.176/32
 ufw deny from 13.82.184.151/32
 ufw deny from 13.84.134.59/32
@@ -579,6 +583,7 @@ ufw deny from 20.63.252.80/28
 ufw deny from 20.65.1.64/28
 ufw deny from 20.65.132.0/26
 ufw deny from 20.66.2.192/26
+ufw deny from 20.66.210.0/26
 ufw deny from 20.69.13.112/28
 ufw deny from 20.72.20.48/28
 ufw deny from 20.72.21.0/30
@@ -1135,6 +1140,7 @@ ufw deny from 51.53.178.224/27
 ufw deny from 51.53.191.128/29
 ufw deny from 51.53.191.144/28
 ufw deny from 51.56.158.176/28
+ufw deny from 51.56.204.128/25
 ufw deny from 51.57.106.32/27
 ufw deny from 51.57.106.64/26
 ufw deny from 51.58.25.224/27
@@ -1508,6 +1514,7 @@ ufw deny from 70.157.90.8/29
 ufw deny from 70.157.90.112/28
 ufw deny from 70.157.162.144/28
 ufw deny from 70.157.170.0/26
+ufw deny from 70.157.184.128/26
 ufw deny from 72.152.228.64/26
 ufw deny from 72.155.111.128/26
 ufw deny from 72.155.111.192/27
@@ -1528,8 +1535,11 @@ ufw deny from 74.7.218.224/29
 ufw deny from 74.7.218.240/28
 ufw deny from 74.144.24.0/24
 ufw deny from 74.144.26.160/27
+ufw deny from 74.145.58.0/25
 ufw deny from 74.145.141.0/24
 ufw deny from 74.145.146.96/29
+ufw deny from 74.148.7.0/24
+ufw deny from 74.151.8.0/26
 ufw deny from 74.160.6.64/28
 ufw deny from 74.161.189.192/26
 ufw deny from 74.161.190.0/27
@@ -1697,10 +1707,13 @@ ufw deny from 168.61.241.64/26
 ufw deny from 168.62.169.17/32
 ufw deny from 168.63.174.169/32
 ufw deny from 168.63.242.221/32
+ufw deny from 172.160.153.128/26
 ufw deny from 172.160.223.224/27
+ufw deny from 172.161.221.128/26
 ufw deny from 172.164.215.64/27
 ufw deny from 172.164.238.64/26
 ufw deny from 172.165.1.0/28
+ufw deny from 172.165.25.224/27
 ufw deny from 172.165.84.176/28
 ufw deny from 172.169.155.0/24
 ufw deny from 172.170.16.192/26
@@ -1715,6 +1728,7 @@ ufw deny from 172.175.179.32/27
 ufw deny from 172.179.208.0/27
 ufw deny from 172.179.208.64/26
 ufw deny from 172.180.57.80/28
+ufw deny from 172.181.30.192/26
 ufw deny from 172.182.185.224/27
 ufw deny from 172.182.191.0/26
 ufw deny from 172.183.233.96/27
@@ -1740,8 +1754,10 @@ ufw deny from 172.195.141.48/28
 ufw deny from 172.196.61.176/28
 ufw deny from 172.196.61.192/27
 ufw deny from 172.196.62.0/27
+ufw deny from 172.196.109.128/26
 ufw deny from 172.197.44.160/27
 ufw deny from 172.197.132.192/26
+ufw deny from 172.197.157.160/27
 ufw deny from 172.198.96.216/29
 ufw deny from 172.198.98.160/29
 ufw deny from 172.198.98.168/31
@@ -1820,6 +1836,8 @@ ufw deny from 2603:1000:4:5::/122
 ufw deny from 2603:1000:4:7::200/120
 ufw deny from 2603:1000:4:7::3c0/123
 ufw deny from 2603:1000:4:8::420/123
+ufw deny from 2603:1000:4:8::600/119
+ufw deny from 2603:1000:4:9::200/119
 ufw deny from 2603:1000:4:402::500/121
 ufw deny from 2603:1000:104::4c0/122
 ufw deny from 2603:1000:104::600/122
@@ -1831,6 +1849,8 @@ ufw deny from 2603:1000:104:6::40/123
 ufw deny from 2603:1000:104:a::600/120
 ufw deny from 2603:1000:104:a::7a0/123
 ufw deny from 2603:1000:104:d::3c0/123
+ufw deny from 2603:1000:104:d::600/119
+ufw deny from 2603:1000:104:e::200/119
 ufw deny from 2603:1000:104:402::500/121
 ufw deny from 2603:1000:104:802::480/121
 ufw deny from 2603:1000:104:c02::480/121
@@ -1846,6 +1866,7 @@ ufw deny from 2603:1010:6:e::100/120
 ufw deny from 2603:1010:6:e::480/123
 ufw deny from 2603:1010:6:11::600/120
 ufw deny from 2603:1010:6:14::20/123
+ufw deny from 2603:1010:6:15::/119
 ufw deny from 2603:1010:6:402::500/121
 ufw deny from 2603:1010:6:802::480/121
 ufw deny from 2603:1010:6:802::500/121
@@ -1861,6 +1882,7 @@ ufw deny from 2603:1010:207:1::180/121
 ufw deny from 2603:1010:207:4::/120
 ufw deny from 2603:1010:207:4::340/123
 ufw deny from 2603:1010:207:6::320/123
+ufw deny from 2603:1010:207:7::200/119
 ufw deny from 2603:1010:300::35/128
 ufw deny from 2603:1010:300::88/128
 ufw deny from 2603:1010:304::780/121
@@ -1872,6 +1894,8 @@ ufw deny from 2603:1010:304:5::7e0/123
 ufw deny from 2603:1010:304:a::300/120
 ufw deny from 2603:1010:304:a::520/124
 ufw deny from 2603:1010:304:a::540/123
+ufw deny from 2603:1010:304:c::600/119
+ufw deny from 2603:1010:304:d::200/119
 ufw deny from 2603:1010:304:402::500/121
 ufw deny from 2603:1010:400::79/128
 ufw deny from 2603:1010:404::780/121
@@ -1881,6 +1905,8 @@ ufw deny from 2603:1010:404:5::420/123
 ufw deny from 2603:1010:404:5::440/122
 ufw deny from 2603:1010:404:5::600/121
 ufw deny from 2603:1010:404:8::e0/123
+ufw deny from 2603:1010:404:9::400/119
+ufw deny from 2603:1010:404:a::/119
 ufw deny from 2603:1010:404:402::500/121
 ufw deny from 2603:1010:501:8::10/127
 ufw deny from 2603:1010:502:2::4a0/123
@@ -1890,6 +1916,7 @@ ufw deny from 2603:1010:502:2::680/121
 ufw deny from 2603:1010:502:2::700/121
 ufw deny from 2603:1010:502:5::5a0/123
 ufw deny from 2603:1010:502:6::7e0/123
+ufw deny from 2603:1010:502:7::400/118
 ufw deny from 2603:1020:5::60/123
 ufw deny from 2603:1020:5::1c0/122
 ufw deny from 2603:1020:5::300/123
@@ -1902,6 +1929,8 @@ ufw deny from 2603:1020:5:b::140/123
 ufw deny from 2603:1020:5:1b::100/120
 ufw deny from 2603:1020:5:1b::300/122
 ufw deny from 2603:1020:5:21::180/123
+ufw deny from 2603:1020:5:21::600/119
+ufw deny from 2603:1020:5:22::400/119
 ufw deny from 2603:1020:5:402::500/121
 ufw deny from 2603:1020:5:802::480/121
 ufw deny from 2603:1020:5:c02::480/121
@@ -1912,6 +1941,8 @@ ufw deny from 2603:1020:104:3::340/123
 ufw deny from 2603:1020:104:3::380/121
 ufw deny from 2603:1020:104:3::400/121
 ufw deny from 2603:1020:104:7::3c0/123
+ufw deny from 2603:1020:104:8::600/119
+ufw deny from 2603:1020:104:9::200/119
 ufw deny from 2603:1020:200::682f:a517/128
 ufw deny from 2603:1020:200::682f:a52a/128
 ufw deny from 2603:1020:200::682f:a6f1/128
@@ -1928,6 +1959,8 @@ ufw deny from 2603:1020:206:22::3c0/122
 ufw deny from 2603:1020:206:23::380/121
 ufw deny from 2603:1020:206:25::500/122
 ufw deny from 2603:1020:206:2b::1a0/123
+ufw deny from 2603:1020:206:2b::600/119
+ufw deny from 2603:1020:206:2c::400/119
 ufw deny from 2603:1020:206:402::500/121
 ufw deny from 2603:1020:206:802::480/121
 ufw deny from 2603:1020:206:c00::100/121
@@ -1946,6 +1979,8 @@ ufw deny from 2603:1020:605:7::440/122
 ufw deny from 2603:1020:605:b::600/120
 ufw deny from 2603:1020:605:b::700/123
 ufw deny from 2603:1020:605:d::520/123
+ufw deny from 2603:1020:605:e::/119
+ufw deny from 2603:1020:605:e::400/119
 ufw deny from 2603:1020:605:402::500/121
 ufw deny from 2603:1020:700:1::a4/128
 ufw deny from 2603:1020:702:1d::2/128
@@ -1961,6 +1996,7 @@ ufw deny from 2603:1020:705:a::200/122
 ufw deny from 2603:1020:705:15::/120
 ufw deny from 2603:1020:705:15::420/123
 ufw deny from 2603:1020:705:1a::2c0/123
+ufw deny from 2603:1020:705:1b::/118
 ufw deny from 2603:1020:705:402::500/121
 ufw deny from 2603:1020:705:802::480/121
 ufw deny from 2603:1020:705:c02::480/121
@@ -1975,6 +2011,7 @@ ufw deny from 2603:1020:805:7::/122
 ufw deny from 2603:1020:805:d::500/120
 ufw deny from 2603:1020:805:d::7a0/123
 ufw deny from 2603:1020:805:10::300/123
+ufw deny from 2603:1020:805:11::/118
 ufw deny from 2603:1020:805:402::500/121
 ufw deny from 2603:1020:805:802::480/121
 ufw deny from 2603:1020:805:c02::480/121
@@ -1986,6 +2023,8 @@ ufw deny from 2603:1020:905:6::e0/123
 ufw deny from 2603:1020:905:6::100/122
 ufw deny from 2603:1020:905:9::700/123
 ufw deny from 2603:1020:905:a::700/123
+ufw deny from 2603:1020:905:b::200/119
+ufw deny from 2603:1020:905:b::600/119
 ufw deny from 2603:1020:905:402::500/121
 ufw deny from 2603:1020:a01:24::8/128
 ufw deny from 2603:1020:a04::60/123
@@ -1999,6 +2038,8 @@ ufw deny from 2603:1020:a04:7::/122
 ufw deny from 2603:1020:a04:9::5c0/123
 ufw deny from 2603:1020:a04:9::600/120
 ufw deny from 2603:1020:a04:d::560/123
+ufw deny from 2603:1020:a04:e::/119
+ufw deny from 2603:1020:a04:e::400/119
 ufw deny from 2603:1020:a04:402::500/121
 ufw deny from 2603:1020:a04:800::100/121
 ufw deny from 2603:1020:a04:c02::480/121
@@ -2010,6 +2051,7 @@ ufw deny from 2603:1020:b04:2::500/121
 ufw deny from 2603:1020:b04:6::60/123
 ufw deny from 2603:1020:b04:9::80/123
 ufw deny from 2603:1020:b04:9::7a0/123
+ufw deny from 2603:1020:b04:a::400/119
 ufw deny from 2603:1020:b04:402::500/121
 ufw deny from 2603:1020:c01:2::b/128
 ufw deny from 2603:1020:c01:2::e/128
@@ -2024,6 +2066,7 @@ ufw deny from 2603:1020:c04:5::600/122
 ufw deny from 2603:1020:c04:a::500/120
 ufw deny from 2603:1020:c04:b::20/123
 ufw deny from 2603:1020:c04:e::100/123
+ufw deny from 2603:1020:c04:e::400/118
 ufw deny from 2603:1020:c04:402::500/121
 ufw deny from 2603:1020:c04:800::100/121
 ufw deny from 2603:1020:c04:c02::480/121
@@ -2037,6 +2080,7 @@ ufw deny from 2603:1020:d04:5::7c0/123
 ufw deny from 2603:1020:d04:9::400/120
 ufw deny from 2603:1020:d04:9::740/123
 ufw deny from 2603:1020:d04:a::760/123
+ufw deny from 2603:1020:d04:b::200/119
 ufw deny from 2603:1020:d04:402::500/121
 ufw deny from 2603:1020:e04::60/123
 ufw deny from 2603:1020:e04::1c0/122
@@ -2049,6 +2093,8 @@ ufw deny from 2603:1020:e04:4::700/122
 ufw deny from 2603:1020:e04:c::/120
 ufw deny from 2603:1020:e04:c::180/123
 ufw deny from 2603:1020:e04:d::2c0/123
+ufw deny from 2603:1020:e04:d::600/119
+ufw deny from 2603:1020:e04:e::200/119
 ufw deny from 2603:1020:e04:402::500/121
 ufw deny from 2603:1020:e04:802::480/121
 ufw deny from 2603:1020:e04:c00::80/121
@@ -2059,6 +2105,8 @@ ufw deny from 2603:1020:f04:6::400/122
 ufw deny from 2603:1020:f04:6::580/121
 ufw deny from 2603:1020:f04:6::7c0/123
 ufw deny from 2603:1020:f04:9::580/123
+ufw deny from 2603:1020:f04:b::/119
+ufw deny from 2603:1020:f04:b::400/119
 ufw deny from 2603:1020:f04:402::500/121
 ufw deny from 2603:1020:1001:6::1/128
 ufw deny from 2603:1020:1004::280/122
@@ -2071,6 +2119,8 @@ ufw deny from 2603:1020:1004:6::100/122
 ufw deny from 2603:1020:1004:c::700/120
 ufw deny from 2603:1020:1004:d::80/123
 ufw deny from 2603:1020:1004:10::2c0/123
+ufw deny from 2603:1020:1004:11::400/119
+ufw deny from 2603:1020:1004:12::/119
 ufw deny from 2603:1020:1004:400::420/123
 ufw deny from 2603:1020:1004:400::4a0/123
 ufw deny from 2603:1020:1004:400::580/121
@@ -2088,6 +2138,8 @@ ufw deny from 2603:1020:1104:2::740/123
 ufw deny from 2603:1020:1104:2::780/122
 ufw deny from 2603:1020:1104:7::7a0/123
 ufw deny from 2603:1020:1104:9::/122
+ufw deny from 2603:1020:1104:9::200/119
+ufw deny from 2603:1020:1104:9::600/119
 ufw deny from 2603:1020:1104:400::440/123
 ufw deny from 2603:1020:1104:400::480/121
 ufw deny from 2603:1020:1200:4::10/128
@@ -2101,6 +2153,8 @@ ufw deny from 2603:1020:1204:3::5c0/122
 ufw deny from 2603:1020:1204:7::500/120
 ufw deny from 2603:1020:1204:7::620/123
 ufw deny from 2603:1020:1204:9::470/125
+ufw deny from 2603:1020:1204:9::600/119
+ufw deny from 2603:1020:1204:a::400/119
 ufw deny from 2603:1020:1300:4::a/127
 ufw deny from 2603:1020:1302:1::5e0/123
 ufw deny from 2603:1020:1302:2::/122
@@ -2113,6 +2167,7 @@ ufw deny from 2603:1020:1302:5::600/120
 ufw deny from 2603:1020:1302:5::7e0/123
 ufw deny from 2603:1020:1302:9::7c0/123
 ufw deny from 2603:1020:1302:a::2c0/123
+ufw deny from 2603:1020:1302:b::/119
 ufw deny from 2603:1020:1402:7::13/128
 ufw deny from 2603:1020:1402:7::14/128
 ufw deny from 2603:1020:1403:2::/123
@@ -2122,17 +2177,22 @@ ufw deny from 2603:1020:1403:2::400/120
 ufw deny from 2603:1020:1403:7::300/120
 ufw deny from 2603:1020:1403:7::440/123
 ufw deny from 2603:1020:1403:8::780/123
+ufw deny from 2603:1020:1403:9::200/119
+ufw deny from 2603:1020:1403:9::600/119
 ufw deny from 2603:1020:1501:f::10/127
 ufw deny from 2603:1020:1502:2::480/121
 ufw deny from 2603:1020:1502:2::500/120
 ufw deny from 2603:1020:1502:4::440/123
 ufw deny from 2603:1020:1502:5::260/123
+ufw deny from 2603:1020:1502:6::/118
 ufw deny from 2603:1020:1601:8::f/128
 ufw deny from 2603:1020:1601:8::18/128
 ufw deny from 2603:1020:1602:2::480/121
 ufw deny from 2603:1020:1602:2::500/120
 ufw deny from 2603:1020:1602:4::580/123
 ufw deny from 2603:1020:1602:5::7c0/123
+ufw deny from 2603:1020:1602:6::200/119
+ufw deny from 2603:1020:1602:6::600/119
 ufw deny from 2603:1030:7::25/128
 ufw deny from 2603:1030:7::d4/128
 ufw deny from 2603:1030:7::155/128
@@ -2163,6 +2223,8 @@ ufw deny from 2603:1030:f:2::300/121
 ufw deny from 2603:1030:f:a::c0/123
 ufw deny from 2603:1030:f:a::100/122
 ufw deny from 2603:1030:f:f::500/120
+ufw deny from 2603:1030:f:11::400/119
+ufw deny from 2603:1030:f:12::/119
 ufw deny from 2603:1030:f:400::d00/121
 ufw deny from 2603:1030:10::60/123
 ufw deny from 2603:1030:10::1c0/122
@@ -2176,6 +2238,7 @@ ufw deny from 2603:1030:10:1f::100/120
 ufw deny from 2603:1030:10:1f::440/122
 ufw deny from 2603:1030:10:25::500/120
 ufw deny from 2603:1030:10:26::540/123
+ufw deny from 2603:1030:10:27::200/119
 ufw deny from 2603:1030:10:402::500/121
 ufw deny from 2603:1030:10:802::480/121
 ufw deny from 2603:1030:10:c02::480/121
@@ -2187,10 +2250,12 @@ ufw deny from 2603:1030:104::500/121
 ufw deny from 2603:1030:104:1::280/122
 ufw deny from 2603:1030:104:3::180/123
 ufw deny from 2603:1030:104:3::1c0/122
+ufw deny from 2603:1030:104:6::400/119
 ufw deny from 2603:1030:104:402::500/121
 ufw deny from 2603:1030:107:1::80/121
 ufw deny from 2603:1030:107:1::200/123
 ufw deny from 2603:1030:107:1::280/121
+ufw deny from 2603:1030:107:5::400/118
 ufw deny from 2603:1030:107:400::3c0/123
 ufw deny from 2603:1030:107:400::480/121
 ufw deny from 2603:1030:20c::46/128
@@ -2208,12 +2273,14 @@ ufw deny from 2603:1030:210:2d::400/120
 ufw deny from 2603:1030:210:2e::80/122
 ufw deny from 2603:1030:210:34::2e0/123
 ufw deny from 2603:1030:210:39::/120
+ufw deny from 2603:1030:210:3a::600/119
 ufw deny from 2603:1030:210:402::500/121
 ufw deny from 2603:1030:210:802::480/121
 ufw deny from 2603:1030:210:c00::100/121
 ufw deny from 2603:1030:302:1::/122
 ufw deny from 2603:1030:302:1::c0/123
 ufw deny from 2603:1030:302:1::100/122
+ufw deny from 2603:1030:302:4::/118
 ufw deny from 2603:1030:302:402::80/123
 ufw deny from 2603:1030:302:402::100/121
 ufw deny from 2603:1030:408::240/128
@@ -2253,6 +2320,7 @@ ufw deny from 2603:1030:40b:8::640/123
 ufw deny from 2603:1030:40b:8::680/122
 ufw deny from 2603:1030:40b:10::500/120
 ufw deny from 2603:1030:40b:10::780/123
+ufw deny from 2603:1030:40b:14::/119
 ufw deny from 2603:1030:40b:400::d00/121
 ufw deny from 2603:1030:40b:800::400/121
 ufw deny from 2603:1030:40b:c00::480/121
@@ -2270,6 +2338,7 @@ ufw deny from 2603:1030:40c:24::3f0/124
 ufw deny from 2603:1030:40c:24::440/122
 ufw deny from 2603:1030:40c:2b::380/121
 ufw deny from 2603:1030:40c:31::120/123
+ufw deny from 2603:1030:40c:32::600/119
 ufw deny from 2603:1030:40c:402::500/121
 ufw deny from 2603:1030:40c:802::480/121
 ufw deny from 2603:1030:40c:c02::400/121
@@ -2294,6 +2363,7 @@ ufw deny from 2603:1030:504:15::/120
 ufw deny from 2603:1030:504:15::1c0/123
 ufw deny from 2603:1030:504:16::500/121
 ufw deny from 2603:1030:504:19::40/123
+ufw deny from 2603:1030:504:19::400/118
 ufw deny from 2603:1030:504:402::500/121
 ufw deny from 2603:1030:504:802::400/121
 ufw deny from 2603:1030:504:c02::100/123
@@ -2308,6 +2378,8 @@ ufw deny from 2603:1030:608:8::c0/122
 ufw deny from 2603:1030:608:14::200/120
 ufw deny from 2603:1030:608:14::480/122
 ufw deny from 2603:1030:608:17::1c0/123
+ufw deny from 2603:1030:608:17::600/119
+ufw deny from 2603:1030:608:18::400/119
 ufw deny from 2603:1030:608:402::500/121
 ufw deny from 2603:1030:608:802::80/121
 ufw deny from 2603:1030:608:c00::300/121
@@ -2318,6 +2390,8 @@ ufw deny from 2603:1030:702:2::380/121
 ufw deny from 2603:1030:702:2::400/120
 ufw deny from 2603:1030:702:7::100/120
 ufw deny from 2603:1030:702:7::220/123
+ufw deny from 2603:1030:702:9::/119
+ufw deny from 2603:1030:702:9::400/119
 ufw deny from 2603:1030:800:5::bfee:a0d4/128
 ufw deny from 2603:1030:800:5::bfee:a1fc/128
 ufw deny from 2603:1030:800:5::bfee:a2d3/128
@@ -2341,6 +2415,7 @@ ufw deny from 2603:1030:807:9::240/122
 ufw deny from 2603:1030:807:16::/120
 ufw deny from 2603:1030:807:16::200/122
 ufw deny from 2603:1030:807:1b::220/123
+ufw deny from 2603:1030:807:1c::/118
 ufw deny from 2603:1030:807:402::500/121
 ufw deny from 2603:1030:807:802::480/121
 ufw deny from 2603:1030:807:c02::480/121
@@ -2349,6 +2424,8 @@ ufw deny from 2603:1030:902:2::540/122
 ufw deny from 2603:1030:902:2::600/123
 ufw deny from 2603:1030:902:2::680/121
 ufw deny from 2603:1030:902:2::700/121
+ufw deny from 2603:1030:902:5::600/119
+ufw deny from 2603:1030:902:6::200/119
 ufw deny from 2603:1030:a02::c5/128
 ufw deny from 2603:1030:a07::780/121
 ufw deny from 2603:1030:a07:1::280/123
@@ -2360,6 +2437,7 @@ ufw deny from 2603:1030:a07:21::300/120
 ufw deny from 2603:1030:a07:22::220/123
 ufw deny from 2603:1030:a07:22::240/122
 ufw deny from 2603:1030:a07:28::e0/123
+ufw deny from 2603:1030:a07:29::/118
 ufw deny from 2603:1030:a07:402::380/121
 ufw deny from 2603:1030:a07:800::/121
 ufw deny from 2603:1030:a07:c00::300/121
@@ -2385,6 +2463,8 @@ ufw deny from 2603:1030:b04:6::7c0/122
 ufw deny from 2603:1030:b04:f::100/120
 ufw deny from 2603:1030:b04:f::2c0/122
 ufw deny from 2603:1030:b04:11::140/122
+ufw deny from 2603:1030:b04:12::200/119
+ufw deny from 2603:1030:b04:12::600/119
 ufw deny from 2603:1030:b04:402::500/121
 ufw deny from 2603:1030:c02:2::285/128
 ufw deny from 2603:1030:c02:2::2da/128
@@ -2405,6 +2485,8 @@ ufw deny from 2603:1030:c06:d::/122
 ufw deny from 2603:1030:c06:21::/120
 ufw deny from 2603:1030:c06:21::300/122
 ufw deny from 2603:1030:c06:26::160/123
+ufw deny from 2603:1030:c06:27::600/119
+ufw deny from 2603:1030:c06:28::400/119
 ufw deny from 2603:1030:c06:400::d00/121
 ufw deny from 2603:1030:c06:802::400/121
 ufw deny from 2603:1030:c06:c02::480/121
@@ -2425,6 +2507,8 @@ ufw deny from 2603:1030:f05:4::5c0/122
 ufw deny from 2603:1030:f05:d::100/120
 ufw deny from 2603:1030:f05:d::3e0/123
 ufw deny from 2603:1030:f05:11::160/123
+ufw deny from 2603:1030:f05:11::600/119
+ufw deny from 2603:1030:f05:12::/119
 ufw deny from 2603:1030:f05:402::500/121
 ufw deny from 2603:1030:f05:802::480/121
 ufw deny from 2603:1030:f05:c02::480/121
@@ -2438,32 +2522,48 @@ ufw deny from 2603:1030:1005:3::780/121
 ufw deny from 2603:1030:1005:b::700/120
 ufw deny from 2603:1030:1005:c::180/123
 ufw deny from 2603:1030:1005:d::7a0/123
+ufw deny from 2603:1030:1005:e::200/119
+ufw deny from 2603:1030:1005:e::600/119
 ufw deny from 2603:1030:1005:402::500/121
 ufw deny from 2603:1030:1102:2::3e0/123
 ufw deny from 2603:1030:1102:2::4c0/122
 ufw deny from 2603:1030:1102:2::580/123
 ufw deny from 2603:1030:1102:2::600/120
+ufw deny from 2603:1030:1102:5::600/119
+ufw deny from 2603:1030:1102:6::/119
 ufw deny from 2603:1030:1202:2::480/121
 ufw deny from 2603:1030:1202:2::500/120
+ufw deny from 2603:1030:1202:5::400/119
+ufw deny from 2603:1030:1202:6::/119
 ufw deny from 2603:1030:1302:2::480/121
 ufw deny from 2603:1030:1302:2::500/120
+ufw deny from 2603:1030:1302:5::600/119
+ufw deny from 2603:1030:1302:6::200/119
 ufw deny from 2603:1030:1402:2::640/122
 ufw deny from 2603:1030:1402:2::700/122
 ufw deny from 2603:1030:1402:2::780/121
 ufw deny from 2603:1030:1402:3::/121
+ufw deny from 2603:1030:1402:6::/119
+ufw deny from 2603:1030:1402:6::400/119
 ufw deny from 2603:1030:1502:2::520/123
 ufw deny from 2603:1030:1502:2::680/122
 ufw deny from 2603:1030:1502:2::6c0/123
 ufw deny from 2603:1030:1502:2::700/120
+ufw deny from 2603:1030:1502:5::400/119
+ufw deny from 2603:1030:1502:6::/119
 ufw deny from 2603:1030:1602:2::760/123
 ufw deny from 2603:1030:1602:3::200/122
 ufw deny from 2603:1030:1602:3::240/123
 ufw deny from 2603:1030:1602:3::280/121
 ufw deny from 2603:1030:1602:3::300/121
+ufw deny from 2603:1030:1602:5::200/119
+ufw deny from 2603:1030:1602:5::600/119
 ufw deny from 2603:1030:1702:3::240/122
 ufw deny from 2603:1030:1702:3::300/122
 ufw deny from 2603:1030:1702:3::380/121
 ufw deny from 2603:1030:1702:3::400/121
+ufw deny from 2603:1030:1702:5::/119
+ufw deny from 2603:1030:1702:5::400/119
 ufw deny from 2603:1040::1d7/128
 ufw deny from 2603:1040::435/128
 ufw deny from 2603:1040:5::160/123
@@ -2477,6 +2577,8 @@ ufw deny from 2603:1040:5:9::200/122
 ufw deny from 2603:1040:5:16::100/120
 ufw deny from 2603:1040:5:16::2e0/123
 ufw deny from 2603:1040:5:1a::420/123
+ufw deny from 2603:1040:5:1b::/119
+ufw deny from 2603:1040:5:1b::400/119
 ufw deny from 2603:1040:5:402::500/121
 ufw deny from 2603:1040:5:802::480/121
 ufw deny from 2603:1040:5:c02::480/121
@@ -2488,6 +2590,8 @@ ufw deny from 2603:1040:207:6::3c0/122
 ufw deny from 2603:1040:207:11::/120
 ufw deny from 2603:1040:207:11::300/123
 ufw deny from 2603:1040:207:13::580/123
+ufw deny from 2603:1040:207:14::200/119
+ufw deny from 2603:1040:207:14::600/119
 ufw deny from 2603:1040:207:402::500/121
 ufw deny from 2603:1040:207:800::300/121
 ufw deny from 2603:1040:207:c00::300/121
@@ -2503,6 +2607,7 @@ ufw deny from 2603:1040:407:e::300/120
 ufw deny from 2603:1040:407:e::4e0/123
 ufw deny from 2603:1040:407:10::700/120
 ufw deny from 2603:1040:407:11::1c0/123
+ufw deny from 2603:1040:407:11::600/119
 ufw deny from 2603:1040:407:402::500/121
 ufw deny from 2603:1040:407:802::480/121
 ufw deny from 2603:1040:407:c00::100/121
@@ -2516,6 +2621,7 @@ ufw deny from 2603:1040:606:6::400/122
 ufw deny from 2603:1040:606:b::400/120
 ufw deny from 2603:1040:606:b::5e0/123
 ufw deny from 2603:1040:606:e::/123
+ufw deny from 2603:1040:606:e::600/119
 ufw deny from 2603:1040:606:402::500/121
 ufw deny from 2603:1040:606:800::300/121
 ufw deny from 2603:1040:606:c00::/121
@@ -2525,6 +2631,8 @@ ufw deny from 2603:1040:806:1::300/121
 ufw deny from 2603:1040:806:3::720/123
 ufw deny from 2603:1040:806:6::100/121
 ufw deny from 2603:1040:806:6::2c0/122
+ufw deny from 2603:1040:806:9::200/119
+ufw deny from 2603:1040:806:9::600/119
 ufw deny from 2603:1040:806:402::500/121
 ufw deny from 2603:1040:900:2::e/128
 ufw deny from 2603:1040:904::60/123
@@ -2538,6 +2646,8 @@ ufw deny from 2603:1040:904:3::6c0/122
 ufw deny from 2603:1040:904:8::500/120
 ufw deny from 2603:1040:904:8::660/123
 ufw deny from 2603:1040:904:b::480/123
+ufw deny from 2603:1040:904:c::/119
+ufw deny from 2603:1040:904:c::400/119
 ufw deny from 2603:1040:904:402::500/121
 ufw deny from 2603:1040:904:800::100/121
 ufw deny from 2603:1040:904:c02::480/121
@@ -2552,6 +2662,8 @@ ufw deny from 2603:1040:a06:7::100/122
 ufw deny from 2603:1040:a06:c::500/120
 ufw deny from 2603:1040:a06:d::20/123
 ufw deny from 2603:1040:a06:f::120/123
+ufw deny from 2603:1040:a06:f::400/119
+ufw deny from 2603:1040:a06:10::/119
 ufw deny from 2603:1040:a06:402::500/121
 ufw deny from 2603:1040:a06:802::480/121
 ufw deny from 2603:1040:a06:c02::480/121
@@ -2564,6 +2676,7 @@ ufw deny from 2603:1040:b04:5::340/122
 ufw deny from 2603:1040:b04:5::480/121
 ufw deny from 2603:1040:b04:8::4a0/123
 ufw deny from 2603:1040:b04:9::500/123
+ufw deny from 2603:1040:b04:a::/118
 ufw deny from 2603:1040:b04:402::500/121
 ufw deny from 2603:1040:c06::780/121
 ufw deny from 2603:1040:c06:1::280/123
@@ -2574,6 +2687,8 @@ ufw deny from 2603:1040:c06:6::640/122
 ufw deny from 2603:1040:c06:b::100/120
 ufw deny from 2603:1040:c06:b::2a0/123
 ufw deny from 2603:1040:c06:d::260/123
+ufw deny from 2603:1040:c06:d::400/119
+ufw deny from 2603:1040:c06:e::/119
 ufw deny from 2603:1040:c06:402::500/121
 ufw deny from 2603:1040:d01:4::7/128
 ufw deny from 2603:1040:d04::280/122
@@ -2585,6 +2700,8 @@ ufw deny from 2603:1040:d04:3::5c0/123
 ufw deny from 2603:1040:d04:3::600/122
 ufw deny from 2603:1040:d04:7::2e0/123
 ufw deny from 2603:1040:d04:7::300/120
+ufw deny from 2603:1040:d04:8::600/119
+ufw deny from 2603:1040:d04:9::/119
 ufw deny from 2603:1040:d04:400::420/123
 ufw deny from 2603:1040:d04:400::580/121
 ufw deny from 2603:1040:d04:800::400/121
@@ -2601,6 +2718,8 @@ ufw deny from 2603:1040:e05:6::680/122
 ufw deny from 2603:1040:e05:9::500/120
 ufw deny from 2603:1040:e05:9::6e0/123
 ufw deny from 2603:1040:e05:b::580/123
+ufw deny from 2603:1040:e05:c::/119
+ufw deny from 2603:1040:e05:c::400/119
 ufw deny from 2603:1040:e05:402::80/121
 ufw deny from 2603:1040:f05::60/123
 ufw deny from 2603:1040:f05::1c0/122
@@ -2613,6 +2732,7 @@ ufw deny from 2603:1040:f05:3::780/122
 ufw deny from 2603:1040:f05:c::100/120
 ufw deny from 2603:1040:f05:c::280/123
 ufw deny from 2603:1040:f05:d::6e0/123
+ufw deny from 2603:1040:f05:e::600/119
 ufw deny from 2603:1040:f05:402::500/121
 ufw deny from 2603:1040:f05:802::480/121
 ufw deny from 2603:1040:f05:c02::480/121
@@ -2628,6 +2748,7 @@ ufw deny from 2603:1040:1002:5::5c0/122
 ufw deny from 2603:1040:1002:8::300/120
 ufw deny from 2603:1040:1002:8::460/123
 ufw deny from 2603:1040:1002:9::7a0/123
+ufw deny from 2603:1040:1002:a::400/118
 ufw deny from 2603:1040:1101:2::3/128
 ufw deny from 2603:1040:1104:1::160/123
 ufw deny from 2603:1040:1104:1::180/122
@@ -2637,6 +2758,7 @@ ufw deny from 2603:1040:1104:5::200/123
 ufw deny from 2603:1040:1104:5::240/122
 ufw deny from 2603:1040:1104:6::640/123
 ufw deny from 2603:1040:1104:7::3c0/123
+ufw deny from 2603:1040:1104:8::/118
 ufw deny from 2603:1040:1104:400::460/123
 ufw deny from 2603:1040:1201:2::14/128
 ufw deny from 2603:1040:1202:1::6c0/122
@@ -2646,6 +2768,8 @@ ufw deny from 2603:1040:1202:2::180/121
 ufw deny from 2603:1040:1202:2::540/123
 ufw deny from 2603:1040:1202:2::700/121
 ufw deny from 2603:1040:1202:3::4c0/122
+ufw deny from 2603:1040:1202:7::/119
+ufw deny from 2603:1040:1202:7::400/119
 ufw deny from 2603:1040:1301:4::b/128
 ufw deny from 2603:1040:1302:1::100/120
 ufw deny from 2603:1040:1302:1::200/123
@@ -2654,6 +2778,7 @@ ufw deny from 2603:1040:1302:2::680/121
 ufw deny from 2603:1040:1302:3::540/122
 ufw deny from 2603:1040:1302:7::20/123
 ufw deny from 2603:1040:1302:7::500/122
+ufw deny from 2603:1040:1302:8::400/118
 ufw deny from 2603:1040:1401:4::c/127
 ufw deny from 2603:1040:1401:11::3/128
 ufw deny from 2603:1040:1402:1::5e0/123
@@ -2667,6 +2792,7 @@ ufw deny from 2603:1040:1402:8::200/120
 ufw deny from 2603:1040:1402:a::100/120
 ufw deny from 2603:1040:1402:a::220/124
 ufw deny from 2603:1040:1402:a::240/123
+ufw deny from 2603:1040:1402:b::/119
 ufw deny from 2603:1040:1503:2::a0/123
 ufw deny from 2603:1040:1503:2::c0/122
 ufw deny from 2603:1040:1503:2::200/122
@@ -2675,6 +2801,8 @@ ufw deny from 2603:1040:1503:2::500/123
 ufw deny from 2603:1040:1503:2::540/122
 ufw deny from 2603:1040:1503:2::700/121
 ufw deny from 2603:1040:1503:7::420/123
+ufw deny from 2603:1040:1503:7::600/119
+ufw deny from 2603:1040:1503:8::/119
 ufw deny from 2603:1040:1601:8::19/128
 ufw deny from 2603:1040:1601:8::1a/128
 ufw deny from 2603:1040:1602:2::440/122
@@ -2683,10 +2811,13 @@ ufw deny from 2603:1040:1602:2::580/121
 ufw deny from 2603:1040:1602:2::600/121
 ufw deny from 2603:1040:1602:4::780/123
 ufw deny from 2603:1040:1602:6::/122
+ufw deny from 2603:1040:1602:6::400/119
+ufw deny from 2603:1040:1602:7::/119
 ufw deny from 2603:1040:1701:d::d/128
 ufw deny from 2603:1040:1702:2::480/121
 ufw deny from 2603:1040:1702:2::500/120
 ufw deny from 2603:1040:1702:4::6e0/123
+ufw deny from 2603:1040:1702:6::400/118
 ufw deny from 2603:1040:1801:8::e/128
 ufw deny from 2603:1040:1801:8::11/128
 ufw deny from 2603:1040:1802:2::240/122
@@ -2696,19 +2827,26 @@ ufw deny from 2603:1040:1802:2::400/121
 ufw deny from 2603:1040:1802:5::/123
 ufw deny from 2603:1040:1802:6::200/123
 ufw deny from 2603:1040:1802:6::300/123
+ufw deny from 2603:1040:1802:6::600/119
+ufw deny from 2603:1040:1802:8::200/119
 ufw deny from 2603:1040:1904:2::760/123
 ufw deny from 2603:1040:1904:3::40/122
 ufw deny from 2603:1040:1904:3::100/123
 ufw deny from 2603:1040:1904:3::180/121
 ufw deny from 2603:1040:1904:3::200/121
 ufw deny from 2603:1040:1904:5::100/123
+ufw deny from 2603:1040:1904:5::400/118
 ufw deny from 2603:1040:1a02:3::120/123
 ufw deny from 2603:1040:1a02:3::280/122
 ufw deny from 2603:1040:1a02:3::2c0/123
 ufw deny from 2603:1040:1a02:3::300/120
+ufw deny from 2603:1040:1a02:5::200/119
+ufw deny from 2603:1040:1a02:5::400/119
 ufw deny from 2603:1040:1b02:3::2c0/122
 ufw deny from 2603:1040:1b02:3::380/122
 ufw deny from 2603:1040:1b02:3::400/120
+ufw deny from 2603:1040:1b02:5::/119
+ufw deny from 2603:1040:1b02:5::400/119
 ufw deny from 2603:1050:1:3::26/128
 ufw deny from 2603:1050:6::60/123
 ufw deny from 2603:1050:6::1c0/122
@@ -2721,6 +2859,8 @@ ufw deny from 2603:1050:6:7::40/123
 ufw deny from 2603:1050:6:b::400/120
 ufw deny from 2603:1050:6:b::720/123
 ufw deny from 2603:1050:6:e::3c0/123
+ufw deny from 2603:1050:6:e::600/119
+ufw deny from 2603:1050:6:f::400/119
 ufw deny from 2603:1050:6:402::580/121
 ufw deny from 2603:1050:6:402::600/121
 ufw deny from 2603:1050:6:802::480/121
@@ -2734,6 +2874,8 @@ ufw deny from 2603:1050:301:2::580/123
 ufw deny from 2603:1050:301:2::600/120
 ufw deny from 2603:1050:301:4::5e0/123
 ufw deny from 2603:1050:301:5::6c0/123
+ufw deny from 2603:1050:301:6::200/119
+ufw deny from 2603:1050:301:6::600/119
 ufw deny from 2603:1050:400:2::1a/128
 ufw deny from 2603:1050:403::280/122
 ufw deny from 2603:1050:403:1::80/121
@@ -2744,6 +2886,8 @@ ufw deny from 2603:1050:403:5::/122
 ufw deny from 2603:1050:403:7::660/123
 ufw deny from 2603:1050:403:8::6f0/125
 ufw deny from 2603:1050:403:8::700/120
+ufw deny from 2603:1050:403:9::600/119
+ufw deny from 2603:1050:403:a::/119
 ufw deny from 2603:1050:403:400::580/121
 ufw deny from 2a01:111:f100:1000::9d37:d5f5/128
 ufw deny from 2a01:111:f100:1002::4134:d975/128

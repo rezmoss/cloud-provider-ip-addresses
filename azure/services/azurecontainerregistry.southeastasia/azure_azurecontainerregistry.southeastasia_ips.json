@@ -6,6 +6,12 @@
     "region": "southeastasia"
   },
   {
+    "ip_address": "4.145.224.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
     "ip_address": "13.67.8.120/29",
     "ip_type": "IPv4",
     "service": "AzureContainerRegistry.SoutheastAsia",

@@ -148,5 +148,17 @@
     "ip_type": "IPv6",
     "service": "AzureMonitor.IndonesiaCentral",
     "region": "indonesiacentral"
+  },
+  {
+    "ip_address": "2603:1040:1802:6::600/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.IndonesiaCentral",
+    "region": "indonesiacentral"
+  },
+  {
+    "ip_address": "2603:1040:1802:8::200/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.IndonesiaCentral",
+    "region": "indonesiacentral"
   }
 ]

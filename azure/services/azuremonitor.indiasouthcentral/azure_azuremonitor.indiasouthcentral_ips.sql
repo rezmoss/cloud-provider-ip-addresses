@@ -23,3 +23,4 @@ INSERT INTO `azure_azuremonitor.indiasouthcentral_ips` (`ip_address`, `ip_type`)
 INSERT INTO `azure_azuremonitor.indiasouthcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1904:3::180/121', 'IPv6');
 INSERT INTO `azure_azuremonitor.indiasouthcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1904:3::200/121', 'IPv6');
 INSERT INTO `azure_azuremonitor.indiasouthcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1904:5::100/123', 'IPv6');
+INSERT INTO `azure_azuremonitor.indiasouthcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1904:5::400/118', 'IPv6');

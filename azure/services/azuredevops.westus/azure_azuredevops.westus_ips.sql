@@ -7,6 +7,8 @@ CREATE TABLE IF NOT EXISTS `azure_azuredevops.westus_ips` (
 );
 
 INSERT INTO `azure_azuredevops.westus_ips` (`ip_address`, `ip_type`) VALUES ('40.82.252.0/24', 'IPv4');
+INSERT INTO `azure_azuredevops.westus_ips` (`ip_address`, `ip_type`) VALUES ('48.195.88.2/31', 'IPv4');
+INSERT INTO `azure_azuredevops.westus_ips` (`ip_address`, `ip_type`) VALUES ('48.195.88.48/30', 'IPv4');
 INSERT INTO `azure_azuredevops.westus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:a07:15::3d2/127', 'IPv6');
 INSERT INTO `azure_azuredevops.westus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:a07:15::3d8/125', 'IPv6');
 INSERT INTO `azure_azuredevops.westus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:a07:1e::26e/127', 'IPv6');
@@ -15,3 +17,4 @@ INSERT INTO `azure_azuredevops.westus_ips` (`ip_address`, `ip_type`) VALUES ('26
 INSERT INTO `azure_azuredevops.westus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:a07:1f::400/123', 'IPv6');
 INSERT INTO `azure_azuredevops.westus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:a07:1f::420/124', 'IPv6');
 INSERT INTO `azure_azuredevops.westus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:a07:1f::430/126', 'IPv6');
+INSERT INTO `azure_azuredevops.westus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:a07:1000::6/128', 'IPv6');

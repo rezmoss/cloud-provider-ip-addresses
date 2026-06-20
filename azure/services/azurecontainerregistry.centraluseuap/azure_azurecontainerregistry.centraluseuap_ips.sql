@@ -8,6 +8,7 @@ CREATE TABLE IF NOT EXISTS `azure_azurecontainerregistry.centraluseuap_ips` (
 
 INSERT INTO `azure_azurecontainerregistry.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('20.45.199.128/25', 'IPv4');
 INSERT INTO `azure_azurecontainerregistry.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('40.78.202.72/29', 'IPv4');
+INSERT INTO `azure_azurecontainerregistry.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('57.173.24.0/25', 'IPv4');
 INSERT INTO `azure_azurecontainerregistry.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('168.61.140.128/25', 'IPv4');
 INSERT INTO `azure_azurecontainerregistry.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('168.61.141.0/25', 'IPv4');
 INSERT INTO `azure_azurecontainerregistry.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('168.61.141.128/25', 'IPv4');

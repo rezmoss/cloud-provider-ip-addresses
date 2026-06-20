@@ -192,6 +192,18 @@
     "region": "ukwest"
   },
   {
+    "ip_address": "2603:1020:605:e::/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:e::400/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.UKWest",
+    "region": "ukwest"
+  },
+  {
     "ip_address": "2603:1020:605:402::500/121",
     "ip_type": "IPv6",
     "service": "AzureMonitor.UKWest",

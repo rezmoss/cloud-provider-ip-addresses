@@ -6,7 +6,25 @@
     "region": "eastus"
   },
   {
+    "ip_address": "57.169.128.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureDevOps.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "57.169.128.64/29",
+    "ip_type": "IPv4",
+    "service": "AzureDevOps.EastUS",
+    "region": "eastus"
+  },
+  {
     "ip_address": "2603:1030:210:2b::200/120",
+    "ip_type": "IPv6",
+    "service": "AzureDevOps.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "2603:1030:210:1000::a/128",
     "ip_type": "IPv6",
     "service": "AzureDevOps.EastUS",
     "region": "eastus"

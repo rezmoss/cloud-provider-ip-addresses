@@ -12,6 +12,18 @@
     "region": ""
   },
   {
+    "ip_address": "4.173.102.138/31",
+    "ip_type": "IPv4",
+    "service": "AzureFrontDoor.Frontend",
+    "region": ""
+  },
+  {
+    "ip_address": "4.173.103.144/29",
+    "ip_type": "IPv4",
+    "service": "AzureFrontDoor.Frontend",
+    "region": ""
+  },
+  {
     "ip_address": "4.188.10.28/30",
     "ip_type": "IPv4",
     "service": "AzureFrontDoor.Frontend",
@@ -25,6 +37,18 @@
   },
   {
     "ip_address": "4.191.92.24/29",
+    "ip_type": "IPv4",
+    "service": "AzureFrontDoor.Frontend",
+    "region": ""
+  },
+  {
+    "ip_address": "4.199.29.134/31",
+    "ip_type": "IPv4",
+    "service": "AzureFrontDoor.Frontend",
+    "region": ""
+  },
+  {
+    "ip_address": "4.199.29.184/29",
     "ip_type": "IPv4",
     "service": "AzureFrontDoor.Frontend",
     "region": ""
@@ -330,6 +354,18 @@
     "region": ""
   },
   {
+    "ip_address": "20.197.145.0/29",
+    "ip_type": "IPv4",
+    "service": "AzureFrontDoor.Frontend",
+    "region": ""
+  },
+  {
+    "ip_address": "20.197.145.8/31",
+    "ip_type": "IPv4",
+    "service": "AzureFrontDoor.Frontend",
+    "region": ""
+  },
+  {
     "ip_address": "20.210.70.68/30",
     "ip_type": "IPv4",
     "service": "AzureFrontDoor.Frontend",
@@ -409,6 +445,18 @@
   },
   {
     "ip_address": "48.192.88.240/30",
+    "ip_type": "IPv4",
+    "service": "AzureFrontDoor.Frontend",
+    "region": ""
+  },
+  {
+    "ip_address": "48.195.102.234/31",
+    "ip_type": "IPv4",
+    "service": "AzureFrontDoor.Frontend",
+    "region": ""
+  },
+  {
+    "ip_address": "48.195.103.72/29",
     "ip_type": "IPv4",
     "service": "AzureFrontDoor.Frontend",
     "region": ""
@@ -534,6 +582,18 @@
     "region": ""
   },
   {
+    "ip_address": "57.175.44.132/31",
+    "ip_type": "IPv4",
+    "service": "AzureFrontDoor.Frontend",
+    "region": ""
+  },
+  {
+    "ip_address": "57.175.48.144/29",
+    "ip_type": "IPv4",
+    "service": "AzureFrontDoor.Frontend",
+    "region": ""
+  },
+  {
     "ip_address": "68.210.172.152/29",
     "ip_type": "IPv4",
     "service": "AzureFrontDoor.Frontend",
@@ -541,6 +601,18 @@
   },
   {
     "ip_address": "68.221.92.24/29",
+    "ip_type": "IPv4",
+    "service": "AzureFrontDoor.Frontend",
+    "region": ""
+  },
+  {
+    "ip_address": "74.144.32.230/31",
+    "ip_type": "IPv4",
+    "service": "AzureFrontDoor.Frontend",
+    "region": ""
+  },
+  {
+    "ip_address": "74.144.33.0/29",
     "ip_type": "IPv4",
     "service": "AzureFrontDoor.Frontend",
     "region": ""
@@ -613,6 +685,30 @@
   },
   {
     "ip_address": "158.23.108.48/29",
+    "ip_type": "IPv4",
+    "service": "AzureFrontDoor.Frontend",
+    "region": ""
+  },
+  {
+    "ip_address": "172.186.128.134/31",
+    "ip_type": "IPv4",
+    "service": "AzureFrontDoor.Frontend",
+    "region": ""
+  },
+  {
+    "ip_address": "172.186.128.152/29",
+    "ip_type": "IPv4",
+    "service": "AzureFrontDoor.Frontend",
+    "region": ""
+  },
+  {
+    "ip_address": "172.192.205.92/31",
+    "ip_type": "IPv4",
+    "service": "AzureFrontDoor.Frontend",
+    "region": ""
+  },
+  {
+    "ip_address": "172.192.208.96/29",
     "ip_type": "IPv4",
     "service": "AzureFrontDoor.Frontend",
     "region": ""

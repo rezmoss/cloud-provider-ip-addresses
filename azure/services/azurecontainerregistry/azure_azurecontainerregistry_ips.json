@@ -6,6 +6,12 @@
     "region": ""
   },
   {
+    "ip_address": "4.145.224.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry",
+    "region": ""
+  },
+  {
     "ip_address": "4.150.255.0/24",
     "ip_type": "IPv4",
     "service": "AzureContainerRegistry",
@@ -2022,6 +2028,12 @@
     "region": ""
   },
   {
+    "ip_address": "48.223.120.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry",
+    "region": ""
+  },
+  {
     "ip_address": "51.4.143.0/26",
     "ip_type": "IPv4",
     "service": "AzureContainerRegistry",
@@ -2227,6 +2239,12 @@
   },
   {
     "ip_address": "51.53.188.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry",
+    "region": ""
+  },
+  {
+    "ip_address": "51.56.168.0/26",
     "ip_type": "IPv4",
     "service": "AzureContainerRegistry",
     "region": ""
@@ -2700,6 +2718,18 @@
     "region": ""
   },
   {
+    "ip_address": "57.173.24.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry",
+    "region": ""
+  },
+  {
+    "ip_address": "57.175.72.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry",
+    "region": ""
+  },
+  {
     "ip_address": "65.52.248.192/26",
     "ip_type": "IPv4",
     "service": "AzureContainerRegistry",
@@ -3001,6 +3031,12 @@
   },
   {
     "ip_address": "74.7.218.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry",
+    "region": ""
+  },
+  {
+    "ip_address": "74.145.160.0/27",
     "ip_type": "IPv4",
     "service": "AzureContainerRegistry",
     "region": ""

@@ -774,6 +774,12 @@
     "region": ""
   },
   {
+    "ip_address": "48.197.137.44/31",
+    "ip_type": "IPv4",
+    "service": "M365ManagementActivityApiWebhook",
+    "region": ""
+  },
+  {
     "ip_address": "48.199.208.204/30",
     "ip_type": "IPv4",
     "service": "M365ManagementActivityApiWebhook",

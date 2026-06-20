@@ -21,4 +21,5 @@ INSERT INTO `azure_storage.germanywestcentral_ips` (`ip_address`, `ip_type`) VAL
 INSERT INTO `azure_storage.germanywestcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.209.242.0/23', 'IPv4');
 INSERT INTO `azure_storage.germanywestcentral_ips` (`ip_address`, `ip_type`) VALUES ('57.150.218.0/23', 'IPv4');
 INSERT INTO `azure_storage.germanywestcentral_ips` (`ip_address`, `ip_type`) VALUES ('135.130.200.0/23', 'IPv4');
+INSERT INTO `azure_storage.germanywestcentral_ips` (`ip_address`, `ip_type`) VALUES ('145.190.184.0/24', 'IPv4');
 INSERT INTO `azure_storage.germanywestcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:c05::/48', 'IPv6');

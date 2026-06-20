@@ -1,6 +1,6 @@
 #!/bin/bash
 # Azure IP Ranges
-# Updated: 2026-06-14 03:21:35
+# Updated: 2026-06-20 03:19:13
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -14,7 +14,7 @@ iptables -A INPUT -s 20.20.38.0/25 -j DROP
 iptables -A INPUT -s 20.20.54.192/26 -j DROP
 iptables -A INPUT -s 20.20.106.0/27 -j DROP
 iptables -A INPUT -s 20.20.106.32/29 -j DROP
-iptables -A INPUT -s 20.20.106.40/31 -j DROP
+iptables -A INPUT -s 20.20.106.40/30 -j DROP
 iptables -A INPUT -s 20.38.19.0/24 -j DROP
 iptables -A INPUT -s 20.60.113.0/24 -j DROP
 iptables -A INPUT -s 20.60.113.0/24 -j DROP
@@ -197,6 +197,7 @@ iptables -A INPUT -s 70.157.170.64/28 -j DROP
 iptables -A INPUT -s 70.157.170.128/25 -j DROP
 iptables -A INPUT -s 70.157.171.128/25 -j DROP
 iptables -A INPUT -s 70.157.172.0/24 -j DROP
+iptables -A INPUT -s 70.157.184.128/26 -j DROP
 iptables -A INPUT -s 135.130.35.0/24 -j DROP
 iptables -A INPUT -s 135.130.35.0/24 -j DROP
 iptables -A INPUT -s 135.130.41.0/24 -j DROP
@@ -272,6 +273,7 @@ ip6tables -A INPUT -s 2603:1040:1302:7::180/124 -j DROP
 ip6tables -A INPUT -s 2603:1040:1302:7::190/126 -j DROP
 ip6tables -A INPUT -s 2603:1040:1302:7::194/128 -j DROP
 ip6tables -A INPUT -s 2603:1040:1302:7::500/122 -j DROP
+ip6tables -A INPUT -s 2603:1040:1302:8::400/118 -j DROP
 ip6tables -A INPUT -s 2603:1040:1302:400::40/125 -j DROP
 ip6tables -A INPUT -s 2603:1040:1302:400::48/125 -j DROP
 ip6tables -A INPUT -s 2603:1040:1302:400::58/125 -j DROP
@@ -305,6 +307,7 @@ ip6tables -A INPUT -s 2603:1046:a00:54::/63 -j DROP
 ip6tables -A INPUT -s 2603:1046:2000:c0::/59 -j DROP
 ip6tables -A INPUT -s 2603:1047:1:200::/59 -j DROP
 ip6tables -A INPUT -s 2603:1061:1005::/60 -j DROP
+ip6tables -A INPUT -s 2603:1061:1005:10::/64 -j DROP
 ip6tables -A INPUT -s 2603:1061:1005:18::/61 -j DROP
 ip6tables -A INPUT -s 2603:1061:1005:20::/59 -j DROP
 ip6tables -A INPUT -s 2603:1061:1005:40::/58 -j DROP

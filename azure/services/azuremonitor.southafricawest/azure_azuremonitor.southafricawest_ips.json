@@ -132,6 +132,18 @@
     "region": "southafricawest"
   },
   {
+    "ip_address": "2603:1000:4:8::600/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SouthAfricaWest",
+    "region": "southafricawest"
+  },
+  {
+    "ip_address": "2603:1000:4:9::200/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SouthAfricaWest",
+    "region": "southafricawest"
+  },
+  {
     "ip_address": "2603:1000:4:402::500/121",
     "ip_type": "IPv6",
     "service": "AzureMonitor.SouthAfricaWest",

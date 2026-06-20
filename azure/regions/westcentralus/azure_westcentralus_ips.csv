@@ -494,6 +494,8 @@ ip_address,ip_type,service,region
 57.157.81.112/29,IPv4,AzureCloud.westcentralus,westcentralus
 57.163.30.0/23,IPv4,AzureCloud.westcentralus,westcentralus
 57.163.30.0/23,IPv4,Storage.WestCentralUS,westcentralus
+57.163.50.0/23,IPv4,AzureCloud.westcentralus,westcentralus
+57.163.50.0/23,IPv4,Storage.WestCentralUS,westcentralus
 64.4.8.0/24,IPv4,AzureCloud.westcentralus,westcentralus
 64.4.54.0/24,IPv4,AzureCloud.westcentralus,westcentralus
 65.55.209.192/26,IPv4,AzureCloud.westcentralus,westcentralus
@@ -509,7 +511,9 @@ ip_address,ip_type,service,region
 128.24.231.160/27,IPv4,Sql.WestCentralUS,westcentralus
 128.24.231.192/26,IPv4,Sql.WestCentralUS,westcentralus
 128.24.232.0/29,IPv4,AppServiceManagement.WestCentralUS,westcentralus
+128.24.232.40/29,IPv4,AzureDevOps.WestCentralUS,westcentralus
 128.24.232.48/28,IPv4,DataFactory.WestCentralUS,westcentralus
+128.24.235.32/27,IPv4,AzureDevOps.WestCentralUS,westcentralus
 131.253.24.160/27,IPv4,AzureCloud.westcentralus,westcentralus
 131.253.40.160/28,IPv4,AzureCloud.westcentralus,westcentralus
 135.130.34.192/26,IPv4,AzureCloud.westcentralus,westcentralus
@@ -644,6 +648,8 @@ ip_address,ip_type,service,region
 2603:1030:b04:10::780/121,IPv6,AzureIoTHub.WestCentralUS,westcentralus
 2603:1030:b04:11::100/122,IPv6,AzureIoTHub.WestCentralUS,westcentralus
 2603:1030:b04:11::140/122,IPv6,AzureMonitor.WestCentralUS,westcentralus
+2603:1030:b04:12::200/119,IPv6,AzureMonitor.WestCentralUS,westcentralus
+2603:1030:b04:12::600/119,IPv6,AzureMonitor.WestCentralUS,westcentralus
 2603:1030:b04:400::/123,IPv6,Sql.WestCentralUS,westcentralus
 2603:1030:b04:402::80/125,IPv6,AzureKeyVault.WestCentralUS,westcentralus
 2603:1030:b04:402::88/125,IPv6,MicrosoftContainerRegistry.WestCentralUS,westcentralus
@@ -687,6 +693,7 @@ ip_address,ip_type,service,region
 2603:1030:b04:c00::40/123,IPv6,AzureIoTHub.WestCentralUS,westcentralus
 2603:1030:b04:c00::70/124,IPv6,DataFactory.WestCentralUS,westcentralus
 2603:1030:b04:c00::80/121,IPv6,AzureContainerRegistry.WestCentralUS,westcentralus
+2603:1030:b04:1000::a/128,IPv6,AzureDevOps.WestCentralUS,westcentralus
 2603:1030:b05::/48,IPv6,AzureCloud.westcentralus,westcentralus
 2603:1030:b06::/48,IPv6,AzureCloud.westcentralus,westcentralus
 2603:1030:b06::/49,IPv6,Storage.WestCentralUS,westcentralus

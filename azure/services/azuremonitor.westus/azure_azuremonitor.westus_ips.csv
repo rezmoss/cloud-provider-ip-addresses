@@ -45,6 +45,7 @@ ip_address,ip_type,service,region
 2603:1030:a07:22::220/123,IPv6,AzureMonitor.WestUS,westus
 2603:1030:a07:22::240/122,IPv6,AzureMonitor.WestUS,westus
 2603:1030:a07:28::e0/123,IPv6,AzureMonitor.WestUS,westus
+2603:1030:a07:29::/118,IPv6,AzureMonitor.WestUS,westus
 2603:1030:a07:402::380/121,IPv6,AzureMonitor.WestUS,westus
 2603:1030:a07:800::/121,IPv6,AzureMonitor.WestUS,westus
 2603:1030:a07:c00::300/121,IPv6,AzureMonitor.WestUS,westus

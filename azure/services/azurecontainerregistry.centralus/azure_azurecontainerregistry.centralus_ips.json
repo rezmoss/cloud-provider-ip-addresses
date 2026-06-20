@@ -60,6 +60,12 @@
     "region": "centralus"
   },
   {
+    "ip_address": "57.175.72.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.CentralUS",
+    "region": "centralus"
+  },
+  {
     "ip_address": "72.152.15.0/26",
     "ip_type": "IPv4",
     "service": "AzureContainerRegistry.CentralUS",

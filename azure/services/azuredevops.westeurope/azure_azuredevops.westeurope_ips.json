@@ -6,7 +6,25 @@
     "region": "westeurope"
   },
   {
+    "ip_address": "172.199.233.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureDevOps.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "172.199.233.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureDevOps.WestEurope",
+    "region": "westeurope"
+  },
+  {
     "ip_address": "2603:1020:206:20::600/119",
+    "ip_type": "IPv6",
+    "service": "AzureDevOps.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "2603:1020:206:1000::a/128",
     "ip_type": "IPv6",
     "service": "AzureDevOps.WestEurope",
     "region": "westeurope"

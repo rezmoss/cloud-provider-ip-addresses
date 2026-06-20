@@ -864,6 +864,18 @@
     "region": "southeastus"
   },
   {
+    "ip_address": "2603:1030:902:5::600/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1030:902:6::200/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
     "ip_address": "2603:1030:902:400::/125",
     "ip_type": "IPv6",
     "service": "MicrosoftContainerRegistry.SoutheastUS",

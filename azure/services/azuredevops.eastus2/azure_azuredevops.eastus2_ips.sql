@@ -7,4 +7,7 @@ CREATE TABLE IF NOT EXISTS `azure_azuredevops.eastus2_ips` (
 );
 
 INSERT INTO `azure_azuredevops.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('20.41.6.0/23', 'IPv4');
+INSERT INTO `azure_azuredevops.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('57.167.224.40/29', 'IPv4');
+INSERT INTO `azure_azuredevops.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('57.167.224.64/26', 'IPv4');
 INSERT INTO `azure_azuredevops.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:22::200/119', 'IPv6');
+INSERT INTO `azure_azuredevops.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:1800::2/128', 'IPv6');

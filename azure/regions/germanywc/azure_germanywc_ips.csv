@@ -438,6 +438,8 @@ ip_address,ip_type,service,region
 135.220.124.0/25,IPv4,PowerPlatformPlex.GermanyWestCentral,germanywc
 145.190.52.0/23,IPv4,AzureCloud.germanywc,germanywc
 145.190.54.0/24,IPv4,AzureCloud.germanywc,germanywc
+145.190.184.0/24,IPv4,AzureCloud.germanywc,germanywc
+145.190.184.0/24,IPv4,Storage.GermanyWestCentral,germanywc
 151.206.77.0/24,IPv4,AzureCloud.germanywc,germanywc
 151.206.78.0/24,IPv4,AzureCloud.germanywc,germanywc
 151.206.96.0/23,IPv4,AzureCloud.germanywc,germanywc
@@ -505,6 +507,7 @@ ip_address,ip_type,service,region
 2603:1020:c04:e::40/122,IPv6,AzureIoTHub.GermanyWestCentral,germanywc
 2603:1020:c04:e::80/121,IPv6,AzureIoTHub.GermanyWestCentral,germanywc
 2603:1020:c04:e::100/123,IPv6,AzureMonitor.GermanyWestCentral,germanywc
+2603:1020:c04:e::400/118,IPv6,AzureMonitor.GermanyWestCentral,germanywc
 2603:1020:c04:400::/123,IPv6,Sql.GermanyWestCentral,germanywc
 2603:1020:c04:401::/123,IPv6,Sql.GermanyWestCentral,germanywc
 2603:1020:c04:402::80/125,IPv6,AzureKeyVault.GermanyWestCentral,germanywc

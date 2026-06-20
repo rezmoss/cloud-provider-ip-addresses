@@ -1674,6 +1674,18 @@
     "region": "brazilse"
   },
   {
+    "ip_address": "2603:1050:403:9::600/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "2603:1050:403:a::/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
     "ip_address": "2603:1050:403:400::80/125",
     "ip_type": "IPv6",
     "service": "AzureKeyVault.BrazilSoutheast",

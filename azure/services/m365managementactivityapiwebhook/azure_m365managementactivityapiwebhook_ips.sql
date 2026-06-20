@@ -135,6 +135,7 @@ INSERT INTO `azure_m365managementactivityapiwebhook_ips` (`ip_address`, `ip_type
 INSERT INTO `azure_m365managementactivityapiwebhook_ips` (`ip_address`, `ip_type`) VALUES ('48.195.61.160/29', 'IPv4');
 INSERT INTO `azure_m365managementactivityapiwebhook_ips` (`ip_address`, `ip_type`) VALUES ('48.195.61.168/30', 'IPv4');
 INSERT INTO `azure_m365managementactivityapiwebhook_ips` (`ip_address`, `ip_type`) VALUES ('48.195.61.172/31', 'IPv4');
+INSERT INTO `azure_m365managementactivityapiwebhook_ips` (`ip_address`, `ip_type`) VALUES ('48.197.137.44/31', 'IPv4');
 INSERT INTO `azure_m365managementactivityapiwebhook_ips` (`ip_address`, `ip_type`) VALUES ('48.199.208.204/30', 'IPv4');
 INSERT INTO `azure_m365managementactivityapiwebhook_ips` (`ip_address`, `ip_type`) VALUES ('48.199.208.208/28', 'IPv4');
 INSERT INTO `azure_m365managementactivityapiwebhook_ips` (`ip_address`, `ip_type`) VALUES ('48.201.165.49/32', 'IPv4');

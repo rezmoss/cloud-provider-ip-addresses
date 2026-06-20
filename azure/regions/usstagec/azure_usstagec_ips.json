@@ -852,6 +852,12 @@
     "region": "usstagec"
   },
   {
+    "ip_address": "2603:1030:302:4::/118",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
     "ip_address": "2603:1030:302:402::80/123",
     "ip_type": "IPv6",
     "service": "AzureMonitor.SouthCentralUSSTG",

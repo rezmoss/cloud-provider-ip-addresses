@@ -6,7 +6,31 @@
     "region": "centralus"
   },
   {
+    "ip_address": "57.175.72.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureDevOps.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "57.175.72.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureDevOps.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "172.169.145.104/30",
+    "ip_type": "IPv4",
+    "service": "AzureDevOps.CentralUS",
+    "region": "centralus"
+  },
+  {
     "ip_address": "2603:1030:10:1c::600/119",
+    "ip_type": "IPv6",
+    "service": "AzureDevOps.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "2603:1030:10:1000::2/128",
     "ip_type": "IPv6",
     "service": "AzureDevOps.CentralUS",
     "region": "centralus"

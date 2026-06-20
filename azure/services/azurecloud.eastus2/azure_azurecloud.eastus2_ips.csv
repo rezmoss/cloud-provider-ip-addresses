@@ -406,7 +406,7 @@ ip_address,ip_type,service,region
 40.120.158.32/30,IPv4,AzureCloud.eastus2,eastus2
 40.120.158.36/31,IPv4,AzureCloud.eastus2,eastus2
 40.120.158.42/31,IPv4,AzureCloud.eastus2,eastus2
-40.120.158.44/31,IPv4,AzureCloud.eastus2,eastus2
+40.120.158.44/30,IPv4,AzureCloud.eastus2,eastus2
 40.120.158.48/28,IPv4,AzureCloud.eastus2,eastus2
 40.120.158.64/28,IPv4,AzureCloud.eastus2,eastus2
 40.120.158.80/30,IPv4,AzureCloud.eastus2,eastus2
@@ -1308,9 +1308,7 @@ ip_address,ip_type,service,region
 2603:1030:401:2a8::/63,IPv6,AzureCloud.eastus2,eastus2
 2603:1030:401:2ab::/64,IPv6,AzureCloud.eastus2,eastus2
 2603:1030:401:2ac::/62,IPv6,AzureCloud.eastus2,eastus2
-2603:1030:401:2b0::/62,IPv6,AzureCloud.eastus2,eastus2
-2603:1030:401:2b4::/63,IPv6,AzureCloud.eastus2,eastus2
-2603:1030:401:2b7::/64,IPv6,AzureCloud.eastus2,eastus2
+2603:1030:401:2b0::/61,IPv6,AzureCloud.eastus2,eastus2
 2603:1030:401:2b8::/62,IPv6,AzureCloud.eastus2,eastus2
 2603:1030:401:2bc::/64,IPv6,AzureCloud.eastus2,eastus2
 2603:1030:401:2bf::/64,IPv6,AzureCloud.eastus2,eastus2

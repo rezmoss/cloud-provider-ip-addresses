@@ -13,6 +13,7 @@ INSERT INTO `azure_azurecontainerregistry.eastus2euap_ips` (`ip_address`, `ip_ty
 INSERT INTO `azure_azurecontainerregistry.eastus2euap_ips` (`ip_address`, `ip_type`) VALUES ('40.75.34.32/29', 'IPv4');
 INSERT INTO `azure_azurecontainerregistry.eastus2euap_ips` (`ip_address`, `ip_type`) VALUES ('40.89.120.0/24', 'IPv4');
 INSERT INTO `azure_azurecontainerregistry.eastus2euap_ips` (`ip_address`, `ip_type`) VALUES ('40.89.121.0/25', 'IPv4');
+INSERT INTO `azure_azurecontainerregistry.eastus2euap_ips` (`ip_address`, `ip_type`) VALUES ('48.223.120.0/24', 'IPv4');
 INSERT INTO `azure_azurecontainerregistry.eastus2euap_ips` (`ip_address`, `ip_type`) VALUES ('52.138.90.32/29', 'IPv4');
 INSERT INTO `azure_azurecontainerregistry.eastus2euap_ips` (`ip_address`, `ip_type`) VALUES ('52.138.93.0/25', 'IPv4');
 INSERT INTO `azure_azurecontainerregistry.eastus2euap_ips` (`ip_address`, `ip_type`) VALUES ('52.138.93.128/25', 'IPv4');

@@ -31,3 +31,5 @@ INSERT INTO `azure_azuremonitor.chilecentral_ips` (`ip_address`, `ip_type`) VALU
 INSERT INTO `azure_azuremonitor.chilecentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:301:2::600/120', 'IPv6');
 INSERT INTO `azure_azuremonitor.chilecentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:301:4::5e0/123', 'IPv6');
 INSERT INTO `azure_azuremonitor.chilecentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:301:5::6c0/123', 'IPv6');
+INSERT INTO `azure_azuremonitor.chilecentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:301:6::200/119', 'IPv6');
+INSERT INTO `azure_azuremonitor.chilecentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:301:6::600/119', 'IPv6');

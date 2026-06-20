@@ -1770,6 +1770,18 @@
     "region": "westindia"
   },
   {
+    "ip_address": "2603:1040:806:9::200/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.WestIndia",
+    "region": "westindia"
+  },
+  {
+    "ip_address": "2603:1040:806:9::600/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.WestIndia",
+    "region": "westindia"
+  },
+  {
     "ip_address": "2603:1040:806:400::/123",
     "ip_type": "IPv6",
     "service": "Sql.WestIndia",

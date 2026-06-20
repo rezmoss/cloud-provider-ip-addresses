@@ -9,6 +9,7 @@ CREATE TABLE IF NOT EXISTS `azure_azuremonitor.newzealandnorth_ips` (
 INSERT INTO `azure_azuremonitor.newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('172.196.61.176/28', 'IPv4');
 INSERT INTO `azure_azuremonitor.newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('172.196.61.192/27', 'IPv4');
 INSERT INTO `azure_azuremonitor.newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('172.196.62.0/27', 'IPv4');
+INSERT INTO `azure_azuremonitor.newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('172.196.109.128/26', 'IPv4');
 INSERT INTO `azure_azuremonitor.newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('172.204.165.124/30', 'IPv4');
 INSERT INTO `azure_azuremonitor.newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('172.204.166.72/29', 'IPv4');
 INSERT INTO `azure_azuremonitor.newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('172.204.166.224/31', 'IPv4');
@@ -28,3 +29,4 @@ INSERT INTO `azure_azuremonitor.newzealandnorth_ips` (`ip_address`, `ip_type`) V
 INSERT INTO `azure_azuremonitor.newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:502:2::700/121', 'IPv6');
 INSERT INTO `azure_azuremonitor.newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:502:5::5a0/123', 'IPv6');
 INSERT INTO `azure_azuremonitor.newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:502:6::7e0/123', 'IPv6');
+INSERT INTO `azure_azuremonitor.newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:502:7::400/118', 'IPv6');

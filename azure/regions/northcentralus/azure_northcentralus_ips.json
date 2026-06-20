@@ -612,6 +612,12 @@
     "region": "northcentralus"
   },
   {
+    "ip_address": "20.66.210.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.NorthCentralUS",
+    "region": "northcentralus"
+  },
+  {
     "ip_address": "20.72.32.0/19",
     "ip_type": "IPv4",
     "service": "AzureCloud.northcentralus",
@@ -3300,6 +3306,12 @@
     "region": "northcentralus"
   },
   {
+    "ip_address": "130.213.112.120/30",
+    "ip_type": "IPv4",
+    "service": "AzureDevOps.NorthCentralUS",
+    "region": "northcentralus"
+  },
+  {
     "ip_address": "131.253.12.16/28",
     "ip_type": "IPv4",
     "service": "AzureCloud.northcentralus",
@@ -4530,6 +4542,18 @@
     "region": "northcentralus"
   },
   {
+    "ip_address": "2603:1030:608:17::600/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.NorthCentralUS",
+    "region": "northcentralus"
+  },
+  {
+    "ip_address": "2603:1030:608:18::400/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.NorthCentralUS",
+    "region": "northcentralus"
+  },
+  {
     "ip_address": "2603:1030:608:400::/123",
     "ip_type": "IPv6",
     "service": "Sql.NorthCentralUS",
@@ -4833,6 +4857,12 @@
     "ip_address": "2603:1030:608:c00::3a0/125",
     "ip_type": "IPv6",
     "service": "AzureKeyVault.NorthCentralUS",
+    "region": "northcentralus"
+  },
+  {
+    "ip_address": "2603:1030:608:1000::a/128",
+    "ip_type": "IPv6",
+    "service": "AzureDevOps.NorthCentralUS",
     "region": "northcentralus"
   },
   {

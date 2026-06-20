@@ -34,4 +34,6 @@ INSERT INTO `azure_azuremonitor.canadaeast_ips` (`ip_address`, `ip_type`) VALUES
 INSERT INTO `azure_azuremonitor.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005:b::700/120', 'IPv6');
 INSERT INTO `azure_azuremonitor.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005:c::180/123', 'IPv6');
 INSERT INTO `azure_azuremonitor.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005:d::7a0/123', 'IPv6');
+INSERT INTO `azure_azuremonitor.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005:e::200/119', 'IPv6');
+INSERT INTO `azure_azuremonitor.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005:e::600/119', 'IPv6');
 INSERT INTO `azure_azuremonitor.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005:402::500/121', 'IPv6');

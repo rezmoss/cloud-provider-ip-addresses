@@ -1,3 +1,5 @@
 ip_address,ip_type,service,region
 40.80.187.0/24,IPv4,AzureDevOps.NorthCentralUS,northcentralus
+130.213.112.120/30,IPv4,AzureDevOps.NorthCentralUS,northcentralus
 2603:1030:608:12::600/120,IPv6,AzureDevOps.NorthCentralUS,northcentralus
+2603:1030:608:1000::a/128,IPv6,AzureDevOps.NorthCentralUS,northcentralus

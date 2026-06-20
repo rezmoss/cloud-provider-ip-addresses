@@ -2574,6 +2574,18 @@
     "region": "norwaye"
   },
   {
+    "ip_address": "2603:1020:e04:d::600/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.NorwayEast",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "2603:1020:e04:e::200/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.NorwayEast",
+    "region": "norwaye"
+  },
+  {
     "ip_address": "2603:1020:e04:400::/123",
     "ip_type": "IPv6",
     "service": "Sql.NorwayEast",

@@ -1,3 +1,5 @@
 ip_address,ip_type,service,region
 20.125.155.0/24,IPv4,AzureDevOps.WestUS3,westus3
+172.182.17.64/27,IPv4,AzureDevOps.WestUS3,westus3
 2603:1030:504:13::500/120,IPv6,AzureDevOps.WestUS3,westus3
+2603:1030:504:1400::6/128,IPv6,AzureDevOps.WestUS3,westus3

@@ -132,6 +132,12 @@
     "region": "swedensouth"
   },
   {
+    "ip_address": "20.91.56.16/31",
+    "ip_type": "IPv4",
+    "service": "AzureDevOps.SwedenSouth",
+    "region": "swedensouth"
+  },
+  {
     "ip_address": "20.91.89.192/28",
     "ip_type": "IPv4",
     "service": "AzureMonitor.SwedenSouth",
@@ -1392,6 +1398,18 @@
     "region": "swedensouth"
   },
   {
+    "ip_address": "2603:1020:1104:9::200/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SwedenSouth",
+    "region": "swedensouth"
+  },
+  {
+    "ip_address": "2603:1020:1104:9::600/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SwedenSouth",
+    "region": "swedensouth"
+  },
+  {
     "ip_address": "2603:1020:1104:400::80/125",
     "ip_type": "IPv6",
     "service": "AzureKeyVault.SwedenSouth",
@@ -1551,6 +1569,12 @@
     "ip_address": "2603:1020:1104:402::/123",
     "ip_type": "IPv6",
     "service": "Sql.SwedenSouth",
+    "region": "swedensouth"
+  },
+  {
+    "ip_address": "2603:1020:1104:800::2/128",
+    "ip_type": "IPv6",
+    "service": "AzureDevOps.SwedenSouth",
     "region": "swedensouth"
   },
   {

@@ -1,3 +1,6 @@
 ip_address,ip_type,service,region
 40.74.28.0/23,IPv4,AzureDevOps.WestEurope,westeurope
+172.199.233.80/28,IPv4,AzureDevOps.WestEurope,westeurope
+172.199.233.128/26,IPv4,AzureDevOps.WestEurope,westeurope
 2603:1020:206:20::600/119,IPv6,AzureDevOps.WestEurope,westeurope
+2603:1020:206:1000::a/128,IPv6,AzureDevOps.WestEurope,westeurope

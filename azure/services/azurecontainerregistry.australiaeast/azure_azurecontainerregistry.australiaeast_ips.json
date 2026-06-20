@@ -66,6 +66,12 @@
     "region": "australiaeast"
   },
   {
+    "ip_address": "51.56.168.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
     "ip_address": "68.218.136.0/25",
     "ip_type": "IPv4",
     "service": "AzureContainerRegistry.AustraliaEast",

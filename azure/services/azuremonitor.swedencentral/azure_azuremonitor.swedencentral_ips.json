@@ -144,6 +144,12 @@
     "region": "swedencentral"
   },
   {
+    "ip_address": "172.160.153.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
     "ip_address": "172.160.223.224/27",
     "ip_type": "IPv4",
     "service": "AzureMonitor.SwedenCentral",
@@ -211,6 +217,18 @@
   },
   {
     "ip_address": "2603:1020:1004:10::2c0/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "2603:1020:1004:11::400/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "2603:1020:1004:12::/119",
     "ip_type": "IPv6",
     "service": "AzureMonitor.SwedenCentral",
     "region": "swedencentral"

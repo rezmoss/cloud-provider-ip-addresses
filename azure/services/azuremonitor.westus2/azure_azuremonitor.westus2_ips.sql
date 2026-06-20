@@ -75,6 +75,8 @@ INSERT INTO `azure_azuremonitor.westus2_ips` (`ip_address`, `ip_type`) VALUES ('
 INSERT INTO `azure_azuremonitor.westus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:c06:21::/120', 'IPv6');
 INSERT INTO `azure_azuremonitor.westus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:c06:21::300/122', 'IPv6');
 INSERT INTO `azure_azuremonitor.westus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:c06:26::160/123', 'IPv6');
+INSERT INTO `azure_azuremonitor.westus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:c06:27::600/119', 'IPv6');
+INSERT INTO `azure_azuremonitor.westus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:c06:28::400/119', 'IPv6');
 INSERT INTO `azure_azuremonitor.westus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:c06:400::d00/121', 'IPv6');
 INSERT INTO `azure_azuremonitor.westus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:c06:802::400/121', 'IPv6');
 INSERT INTO `azure_azuremonitor.westus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:c06:c02::480/121', 'IPv6');

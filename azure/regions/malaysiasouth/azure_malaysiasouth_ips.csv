@@ -230,6 +230,8 @@ ip_address,ip_type,service,region
 2603:1040:1503:6::b0/124,IPv6,LogicApps.MalaysiaSouth,malaysiasouth
 2603:1040:1503:6::1e0/123,IPv6,LogicApps.MalaysiaSouth,malaysiasouth
 2603:1040:1503:7::420/123,IPv6,AzureMonitor.MalaysiaSouth,malaysiasouth
+2603:1040:1503:7::600/119,IPv6,AzureMonitor.MalaysiaSouth,malaysiasouth
+2603:1040:1503:8::/119,IPv6,AzureMonitor.MalaysiaSouth,malaysiasouth
 2603:1040:1503:400::/122,IPv6,AzureCosmosDB.MalaysiaSouth,malaysiasouth
 2603:1040:1503:400::40/125,IPv6,MicrosoftContainerRegistry.MalaysiaSouth,malaysiasouth
 2603:1040:1503:400::48/125,IPv6,AzureContainerRegistry.MalaysiaSouth,malaysiasouth

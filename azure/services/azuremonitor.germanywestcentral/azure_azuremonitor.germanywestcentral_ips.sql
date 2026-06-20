@@ -42,6 +42,7 @@ INSERT INTO `azure_azuremonitor.germanywestcentral_ips` (`ip_address`, `ip_type`
 INSERT INTO `azure_azuremonitor.germanywestcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:c04:a::500/120', 'IPv6');
 INSERT INTO `azure_azuremonitor.germanywestcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:c04:b::20/123', 'IPv6');
 INSERT INTO `azure_azuremonitor.germanywestcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:c04:e::100/123', 'IPv6');
+INSERT INTO `azure_azuremonitor.germanywestcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:c04:e::400/118', 'IPv6');
 INSERT INTO `azure_azuremonitor.germanywestcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:c04:402::500/121', 'IPv6');
 INSERT INTO `azure_azuremonitor.germanywestcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:c04:800::100/121', 'IPv6');
 INSERT INTO `azure_azuremonitor.germanywestcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:c04:c02::480/121', 'IPv6');

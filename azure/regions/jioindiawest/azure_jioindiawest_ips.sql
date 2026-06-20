@@ -288,6 +288,8 @@ INSERT INTO `azure_jioindiawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:104
 INSERT INTO `azure_jioindiawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:d04:7::2e0/123', 'IPv6');
 INSERT INTO `azure_jioindiawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:d04:7::300/120', 'IPv6');
 INSERT INTO `azure_jioindiawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:d04:7::480/123', 'IPv6');
+INSERT INTO `azure_jioindiawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:d04:8::600/119', 'IPv6');
+INSERT INTO `azure_jioindiawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:d04:9::/119', 'IPv6');
 INSERT INTO `azure_jioindiawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:d04:400::80/125', 'IPv6');
 INSERT INTO `azure_jioindiawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:d04:400::88/125', 'IPv6');
 INSERT INTO `azure_jioindiawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:d04:400::90/125', 'IPv6');

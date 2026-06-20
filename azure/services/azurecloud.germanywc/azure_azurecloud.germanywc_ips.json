@@ -750,6 +750,12 @@
     "region": "germanywc"
   },
   {
+    "ip_address": "145.190.184.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.germanywc",
+    "region": "germanywc"
+  },
+  {
     "ip_address": "151.206.77.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.germanywc",

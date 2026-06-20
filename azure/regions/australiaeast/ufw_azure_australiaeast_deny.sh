@@ -1,6 +1,6 @@
 #!/bin/bash
 # Azure IP Ranges
-# Updated: 2026-06-14 03:21:34
+# Updated: 2026-06-20 03:19:11
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -42,6 +42,10 @@ ufw deny from 4.198.192.0/18
 ufw deny from 4.198.207.152/31
 ufw deny from 4.198.215.224/27
 ufw deny from 4.198.222.96/29
+ufw deny from 4.198.222.196/30
+ufw deny from 4.198.222.200/29
+ufw deny from 4.198.222.208/28
+ufw deny from 4.198.222.224/31
 ufw deny from 4.198.248.224/27
 ufw deny from 4.198.249.36/30
 ufw deny from 4.198.249.96/29
@@ -488,13 +492,7 @@ ufw deny from 40.100.73.0/26
 ufw deny from 40.107.39.0/24
 ufw deny from 40.107.40.0/23
 ufw deny from 40.112.37.128/26
-ufw deny from 40.120.176.0/28
-ufw deny from 40.120.176.16/29
-ufw deny from 40.120.176.26/31
-ufw deny from 40.120.176.28/30
-ufw deny from 40.120.176.32/27
-ufw deny from 40.120.176.64/26
-ufw deny from 40.120.176.128/25
+ufw deny from 40.120.176.0/24
 ufw deny from 40.120.177.0/26
 ufw deny from 40.120.177.64/28
 ufw deny from 40.120.177.80/30
@@ -502,7 +500,7 @@ ufw deny from 40.120.177.84/31
 ufw deny from 40.120.177.94/31
 ufw deny from 40.120.177.96/31
 ufw deny from 40.120.177.102/31
-ufw deny from 40.120.177.106/31
+ufw deny from 40.120.177.104/30
 ufw deny from 40.120.177.110/31
 ufw deny from 40.120.177.112/28
 ufw deny from 40.120.177.128/25
@@ -547,6 +545,8 @@ ufw deny from 51.56.143.100/30
 ufw deny from 51.56.158.64/26
 ufw deny from 51.56.158.128/27
 ufw deny from 51.56.158.176/28
+ufw deny from 51.56.168.0/26
+ufw deny from 51.56.204.128/25
 ufw deny from 52.101.149.0/24
 ufw deny from 52.101.150.0/24
 ufw deny from 52.102.200.0/24
@@ -725,6 +725,7 @@ ufw deny from 2603:1010:6:11::340/122
 ufw deny from 2603:1010:6:11::600/120
 ufw deny from 2603:1010:6:14::/123
 ufw deny from 2603:1010:6:14::20/123
+ufw deny from 2603:1010:6:15::/119
 ufw deny from 2603:1010:6:400::/123
 ufw deny from 2603:1010:6:401::/123
 ufw deny from 2603:1010:6:402::80/125
@@ -788,6 +789,7 @@ ufw deny from 2603:1010:6:c02::210/124
 ufw deny from 2603:1010:6:c02::240/123
 ufw deny from 2603:1010:6:c02::400/121
 ufw deny from 2603:1010:6:c02::480/121
+ufw deny from 2603:1010:6:1000::a/128
 ufw deny from 2603:1010:7::/48
 ufw deny from 2603:1010:8::/48
 ufw deny from 2603:1010:40::/48

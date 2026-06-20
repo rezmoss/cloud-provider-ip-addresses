@@ -42,7 +42,7 @@
     "region": "taiwannorth"
   },
   {
-    "ip_address": "20.20.106.40/31",
+    "ip_address": "20.20.106.40/30",
     "ip_type": "IPv4",
     "service": "AzureCloud.taiwannorth",
     "region": "taiwannorth"
@@ -415,6 +415,12 @@
   },
   {
     "ip_address": "2603:1061:1005::/60",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1061:1005:10::/64",
     "ip_type": "IPv6",
     "service": "AzureCloud.taiwannorth",
     "region": "taiwannorth"

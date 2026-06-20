@@ -91,6 +91,7 @@ ip_address,ip_type,service,region
 2603:1030:807:16::/120,IPv6,AzureMonitor.SouthCentralUS,southcentralus
 2603:1030:807:16::200/122,IPv6,AzureMonitor.SouthCentralUS,southcentralus
 2603:1030:807:1b::220/123,IPv6,AzureMonitor.SouthCentralUS,southcentralus
+2603:1030:807:1c::/118,IPv6,AzureMonitor.SouthCentralUS,southcentralus
 2603:1030:807:402::500/121,IPv6,AzureMonitor.SouthCentralUS,southcentralus
 2603:1030:807:802::480/121,IPv6,AzureMonitor.SouthCentralUS,southcentralus
 2603:1030:807:c02::480/121,IPv6,AzureMonitor.SouthCentralUS,southcentralus

@@ -168,31 +168,25 @@
     "region": "polandcentral"
   },
   {
-    "ip_address": "40.123.138.0/27",
+    "ip_address": "40.123.138.0/26",
     "ip_type": "IPv4",
     "service": "AzureCloud.polandcentral",
     "region": "polandcentral"
   },
   {
-    "ip_address": "40.123.138.32/28",
+    "ip_address": "40.123.138.64/27",
     "ip_type": "IPv4",
     "service": "AzureCloud.polandcentral",
     "region": "polandcentral"
   },
   {
-    "ip_address": "40.123.138.48/29",
+    "ip_address": "40.123.138.96/28",
     "ip_type": "IPv4",
     "service": "AzureCloud.polandcentral",
     "region": "polandcentral"
   },
   {
-    "ip_address": "40.123.138.56/30",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.polandcentral",
-    "region": "polandcentral"
-  },
-  {
-    "ip_address": "40.123.138.60/31",
+    "ip_address": "40.123.138.112/30",
     "ip_type": "IPv4",
     "service": "AzureCloud.polandcentral",
     "region": "polandcentral"
@@ -342,6 +336,12 @@
     "region": "polandcentral"
   },
   {
+    "ip_address": "74.153.0.0/17",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.polandcentral",
+    "region": "polandcentral"
+  },
+  {
     "ip_address": "74.248.0.0/16",
     "ip_type": "IPv4",
     "service": "AzureCloud.polandcentral",
@@ -438,25 +438,19 @@
     "region": "polandcentral"
   },
   {
-    "ip_address": "2603:1061:1006:100::/60",
+    "ip_address": "2603:1061:1006:100::/59",
     "ip_type": "IPv6",
     "service": "AzureCloud.polandcentral",
     "region": "polandcentral"
   },
   {
-    "ip_address": "2603:1061:1006:110::/62",
+    "ip_address": "2603:1061:1006:120::/60",
     "ip_type": "IPv6",
     "service": "AzureCloud.polandcentral",
     "region": "polandcentral"
   },
   {
-    "ip_address": "2603:1061:1006:114::/63",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.polandcentral",
-    "region": "polandcentral"
-  },
-  {
-    "ip_address": "2603:1061:1006:116::/64",
+    "ip_address": "2603:1061:1006:130::/63",
     "ip_type": "IPv6",
     "service": "AzureCloud.polandcentral",
     "region": "polandcentral"

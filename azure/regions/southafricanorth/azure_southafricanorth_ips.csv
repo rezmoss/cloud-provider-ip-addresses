@@ -476,6 +476,8 @@ ip_address,ip_type,service,region
 2603:1000:104:d::360/123,IPv6,AzureIoTHub.SouthAfricaNorth,southafricanorth
 2603:1000:104:d::380/122,IPv6,AzureIoTHub.SouthAfricaNorth,southafricanorth
 2603:1000:104:d::3c0/123,IPv6,AzureMonitor.SouthAfricaNorth,southafricanorth
+2603:1000:104:d::600/119,IPv6,AzureMonitor.SouthAfricaNorth,southafricanorth
+2603:1000:104:e::200/119,IPv6,AzureMonitor.SouthAfricaNorth,southafricanorth
 2603:1000:104:400::/123,IPv6,Sql.SouthAfricaNorth,southafricanorth
 2603:1000:104:400::20/125,IPv6,AzureKeyVault.SouthAfricaNorth,southafricanorth
 2603:1000:104:401::/123,IPv6,Sql.SouthAfricaNorth,southafricanorth

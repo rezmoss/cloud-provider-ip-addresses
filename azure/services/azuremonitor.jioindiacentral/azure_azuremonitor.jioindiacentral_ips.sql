@@ -26,4 +26,5 @@ INSERT INTO `azure_azuremonitor.jioindiacentral_ips` (`ip_address`, `ip_type`) V
 INSERT INTO `azure_azuremonitor.jioindiacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1104:5::240/122', 'IPv6');
 INSERT INTO `azure_azuremonitor.jioindiacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1104:6::640/123', 'IPv6');
 INSERT INTO `azure_azuremonitor.jioindiacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1104:7::3c0/123', 'IPv6');
+INSERT INTO `azure_azuremonitor.jioindiacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1104:8::/118', 'IPv6');
 INSERT INTO `azure_azuremonitor.jioindiacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1104:400::460/123', 'IPv6');

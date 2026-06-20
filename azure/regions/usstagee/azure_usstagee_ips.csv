@@ -240,6 +240,7 @@ ip_address,ip_type,service,region
 2603:1030:104:3::180/123,IPv6,AzureMonitor.EastUSSTG,usstagee
 2603:1030:104:3::1c0/122,IPv6,AzureMonitor.EastUSSTG,usstagee
 2603:1030:104:6::280/121,IPv6,AzureBackup.EastUSSTG,usstagee
+2603:1030:104:6::400/119,IPv6,AzureMonitor.EastUSSTG,usstagee
 2603:1030:104:400::/123,IPv6,Sql.EastUSSTG,usstagee
 2603:1030:104:401::/123,IPv6,Sql.EastUSSTG,usstagee
 2603:1030:104:402::80/125,IPv6,AzureKeyVault.EastUSSTG,usstagee

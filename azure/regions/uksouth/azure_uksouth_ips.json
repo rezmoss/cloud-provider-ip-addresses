@@ -4152,6 +4152,12 @@
     "region": "uksouth"
   },
   {
+    "ip_address": "145.133.35.96/27",
+    "ip_type": "IPv4",
+    "service": "AzureDevOps.UKSouth",
+    "region": "uksouth"
+  },
+  {
     "ip_address": "145.190.156.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.uksouth",
@@ -4191,6 +4197,18 @@
     "ip_address": "172.165.1.0/28",
     "ip_type": "IPv4",
     "service": "AzureMonitor.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "172.165.25.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "172.165.40.0/31",
+    "ip_type": "IPv4",
+    "service": "AzureDevOps.UKSouth",
     "region": "uksouth"
   },
   {
@@ -5280,6 +5298,12 @@
     "region": "uksouth"
   },
   {
+    "ip_address": "2603:1020:705:1b::/118",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.UKSouth",
+    "region": "uksouth"
+  },
+  {
     "ip_address": "2603:1020:705:400::/123",
     "ip_type": "IPv6",
     "service": "Sql.UKSouth",
@@ -5643,6 +5667,12 @@
     "ip_address": "2603:1020:705:c02::480/121",
     "ip_type": "IPv6",
     "service": "AzureMonitor.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "2603:1020:705:1000::2/128",
+    "ip_type": "IPv6",
+    "service": "AzureDevOps.UKSouth",
     "region": "uksouth"
   },
   {
