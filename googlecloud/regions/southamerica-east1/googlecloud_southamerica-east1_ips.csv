@@ -12,4 +12,5 @@ ip_address,ip_type,service,region
 35.235.0.0/20,IPv4,Google Cloud,southamerica-east1
 35.242.40.0/24,IPv4,Google Cloud,southamerica-east1
 35.247.192.0/18,IPv4,Google Cloud,southamerica-east1
+136.83.64.0/18,IPv4,Google Cloud,southamerica-east1
 2600:1900:40f0::/44,IPv6,Google Cloud,southamerica-east1

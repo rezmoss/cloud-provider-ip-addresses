@@ -1,7 +1,7 @@
 {
   "provider": "alibaba",
   "version": 2,
-  "generated_date": "2026-06-20",
+  "generated_date": "2026-06-21",
   "last_changed_date": "2026-06-19",
   "sources": [
     "BGP announced prefixes via RIPE NCC RIPEstat"

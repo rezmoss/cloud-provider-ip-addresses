@@ -26286,6 +26286,12 @@
     "region": "us-west-1"
   },
   {
+    "ip_address": "64.73.201.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "64.73.202.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",

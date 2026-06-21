@@ -50,6 +50,8 @@ INSERT INTO `googlecloud_europe-west1_ips` (`ip_address`, `ip_type`) VALUES ('10
 INSERT INTO `googlecloud_europe-west1_ips` (`ip_address`, `ip_type`) VALUES ('130.211.48.0/20', 'IPv4');
 INSERT INTO `googlecloud_europe-west1_ips` (`ip_address`, `ip_type`) VALUES ('130.211.64.0/19', 'IPv4');
 INSERT INTO `googlecloud_europe-west1_ips` (`ip_address`, `ip_type`) VALUES ('130.211.96.0/20', 'IPv4');
+INSERT INTO `googlecloud_europe-west1_ips` (`ip_address`, `ip_type`) VALUES ('136.84.0.0/16', 'IPv4');
+INSERT INTO `googlecloud_europe-west1_ips` (`ip_address`, `ip_type`) VALUES ('136.91.0.0/16', 'IPv4');
 INSERT INTO `googlecloud_europe-west1_ips` (`ip_address`, `ip_type`) VALUES ('146.148.2.0/23', 'IPv4');
 INSERT INTO `googlecloud_europe-west1_ips` (`ip_address`, `ip_type`) VALUES ('146.148.4.0/22', 'IPv4');
 INSERT INTO `googlecloud_europe-west1_ips` (`ip_address`, `ip_type`) VALUES ('146.148.8.0/21', 'IPv4');

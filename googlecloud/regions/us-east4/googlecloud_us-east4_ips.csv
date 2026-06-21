@@ -47,5 +47,6 @@ ip_address,ip_type,service,region
 136.23.64.0/18,IPv4,Google Cloud,us-east4
 136.70.64.0/18,IPv4,Google Cloud,us-east4
 136.70.128.0/17,IPv4,Google Cloud,us-east4
+136.90.0.0/16,IPv4,Google Cloud,us-east4
 136.107.0.0/16,IPv4,Google Cloud,us-east4
 2600:1900:4090::/44,IPv6,Google Cloud,us-east4

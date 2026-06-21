@@ -84,6 +84,12 @@
     "region": "us-east5"
   },
   {
+    "ip_address": "136.83.0.0/18",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "us-east5"
+  },
+  {
     "ip_address": "2600:1901:8130::/44",
     "ip_type": "IPv6",
     "service": "Google Cloud",

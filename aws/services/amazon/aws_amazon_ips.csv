@@ -4380,6 +4380,7 @@ ip_address,ip_type,service,region
 64.73.195.0/24,IPv4,AMAZON,us-west-1
 64.73.196.0/24,IPv4,AMAZON,us-west-1
 64.73.197.0/24,IPv4,AMAZON,us-west-1
+64.73.201.0/24,IPv4,AMAZON,us-east-1
 64.73.202.0/24,IPv4,AMAZON,us-east-1
 64.73.203.0/24,IPv4,AMAZON,us-west-2
 64.73.204.0/24,IPv4,AMAZON,us-west-2

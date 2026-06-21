@@ -3660,6 +3660,12 @@
     "region": "asia-south1"
   },
   {
+    "ip_address": "34.185.64.0/18",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "us-west3"
+  },
+  {
     "ip_address": "34.185.128.0/17",
     "ip_type": "IPv4",
     "service": "Google Cloud",
@@ -5410,6 +5416,102 @@
     "ip_type": "IPv4",
     "service": "Google Cloud",
     "region": "us-central1"
+  },
+  {
+    "ip_address": "136.80.0.0/16",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "us-central1"
+  },
+  {
+    "ip_address": "136.81.0.0/16",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "global"
+  },
+  {
+    "ip_address": "136.82.0.0/16",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "global"
+  },
+  {
+    "ip_address": "136.83.0.0/18",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "us-east5"
+  },
+  {
+    "ip_address": "136.83.64.0/18",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "southamerica-east1"
+  },
+  {
+    "ip_address": "136.83.128.0/17",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "asia-south1"
+  },
+  {
+    "ip_address": "136.84.0.0/16",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "europe-west1"
+  },
+  {
+    "ip_address": "136.85.0.0/17",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "asia-southeast1"
+  },
+  {
+    "ip_address": "136.85.128.0/17",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "us-west4"
+  },
+  {
+    "ip_address": "136.86.0.0/17",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "us-west3"
+  },
+  {
+    "ip_address": "136.86.128.0/17",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "us-west1"
+  },
+  {
+    "ip_address": "136.87.0.0/16",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "us-west1"
+  },
+  {
+    "ip_address": "136.88.0.0/15",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "us-central1"
+  },
+  {
+    "ip_address": "136.90.0.0/16",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "us-east4"
+  },
+  {
+    "ip_address": "136.91.0.0/16",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "europe-west1"
+  },
+  {
+    "ip_address": "136.92.0.0/17",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "europe-west3"
   },
   {
     "ip_address": "136.107.0.0/16",

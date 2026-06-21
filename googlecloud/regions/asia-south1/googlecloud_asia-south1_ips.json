@@ -180,6 +180,12 @@
     "region": "asia-south1"
   },
   {
+    "ip_address": "136.83.128.0/17",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "asia-south1"
+  },
+  {
     "ip_address": "2600:1900:40a0::/44",
     "ip_type": "IPv6",
     "service": "Google Cloud",

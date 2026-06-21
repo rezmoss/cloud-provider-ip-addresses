@@ -98,6 +98,8 @@ INSERT INTO `googlecloud_us-central1_ips` (`ip_address`, `ip_type`) VALUES ('130
 INSERT INTO `googlecloud_us-central1_ips` (`ip_address`, `ip_type`) VALUES ('130.211.224.0/20', 'IPv4');
 INSERT INTO `googlecloud_us-central1_ips` (`ip_address`, `ip_type`) VALUES ('136.64.0.0/15', 'IPv4');
 INSERT INTO `googlecloud_us-central1_ips` (`ip_address`, `ip_type`) VALUES ('136.71.0.0/16', 'IPv4');
+INSERT INTO `googlecloud_us-central1_ips` (`ip_address`, `ip_type`) VALUES ('136.80.0.0/16', 'IPv4');
+INSERT INTO `googlecloud_us-central1_ips` (`ip_address`, `ip_type`) VALUES ('136.88.0.0/15', 'IPv4');
 INSERT INTO `googlecloud_us-central1_ips` (`ip_address`, `ip_type`) VALUES ('136.111.0.0/16', 'IPv4');
 INSERT INTO `googlecloud_us-central1_ips` (`ip_address`, `ip_type`) VALUES ('136.112.0.0/14', 'IPv4');
 INSERT INTO `googlecloud_us-central1_ips` (`ip_address`, `ip_type`) VALUES ('136.116.0.0/16', 'IPv4');

@@ -300,6 +300,18 @@
     "region": "us-west1"
   },
   {
+    "ip_address": "136.86.128.0/17",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "us-west1"
+  },
+  {
+    "ip_address": "136.87.0.0/16",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "us-west1"
+  },
+  {
     "ip_address": "136.109.0.0/16",
     "ip_type": "IPv4",
     "service": "Google Cloud",
