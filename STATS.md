@@ -1,8 +1,8 @@
 # IP Range Statistics
 
-Generated: 2026-06-21T03:24:00.169841
+Generated: 2026-06-22T03:25:00.024667
 
-Total IPv4 addresses: 406,707,237
+Total IPv4 addresses: 406,707,239
 Total IPv6 addresses: 5,296,203,346,152,335,315,592,741,775,746,941
 IPv4 space coverage: 9.4694%
 
@@ -41,7 +41,7 @@ IPv4 space coverage: 9.4694%
 | teamcity | 11 | 0 | 11 | 11 | 2 | 1 |
 | telegram | 9 | 5 | 14 | 11,008 | 0 | 0 |
 | tencent | 3,318 | 73 | 3,391 | 14,791,680 | 2 | 1 |
-| tor | 1,235 | 0 | 1,235 | 1,235 | 1 | 1 |
+| tor | 1,237 | 0 | 1,237 | 1,237 | 1 | 1 |
 | uptimerobot | 116 | 116 | 232 | 116 | 1 | 4 |
 | vultr | 437 | 74 | 511 | 1,020,928 | 0 | 34 |
 | zoom | 57 | 3 | 60 | 542,224 | 3 | 0 |

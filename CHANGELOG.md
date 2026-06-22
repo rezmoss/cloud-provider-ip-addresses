@@ -2,6 +2,12 @@
 
 Daily IP range changes across all providers.
 
+## 2026-06-22
+
+### tor
+- Added: 7 CIDRs
+- Removed: 5 CIDRs
+
 ## 2026-06-21
 
 ### tor

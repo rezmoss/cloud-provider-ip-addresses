@@ -16,7 +16,7 @@
 
 ### Live Stats
 
-> Last updated: **2026-06-21** | Providers: **37** | Total CIDRs: **441,650** | IPv4 addresses: **406,707,237** | IPv4 space: **9.47%**
+> Last updated: **2026-06-22** | Providers: **37** | Total CIDRs: **441,652** | IPv4 addresses: **406,707,239** | IPv4 space: **9.47%**
 
 | Provider | IPv4 CIDRs | IPv6 CIDRs | Total CIDRs | IPv4 Addresses | Services | Regions |
 |----------|-----------|-----------|------------|---------------|----------|--------|
@@ -53,7 +53,7 @@
 | teamcity | 11 | 0 | 11 | 11 | 2 | 1 |
 | telegram | 9 | 5 | 14 | 11,008 | 0 | 0 |
 | tencent | 3,318 | 73 | 3,391 | 14,791,680 | 2 | 1 |
-| tor | 1,235 | 0 | 1,235 | 1,235 | 1 | 1 |
+| tor | 1,237 | 0 | 1,237 | 1,237 | 1 | 1 |
 | uptimerobot | 116 | 116 | 232 | 116 | 1 | 4 |
 | vultr | 437 | 74 | 511 | 1,020,928 | 0 | 34 |
 | zoom | 57 | 3 | 60 | 542,224 | 3 | 0 |

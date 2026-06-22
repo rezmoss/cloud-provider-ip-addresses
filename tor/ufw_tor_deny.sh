@@ -1,6 +1,6 @@
 #!/bin/bash
 # Tor IP Ranges
-# Updated: 2026-06-21 03:23:23
+# Updated: 2026-06-22 03:24:20
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -31,7 +31,6 @@ ufw deny from 5.255.119.76/32
 ufw deny from 5.255.123.158/32
 ufw deny from 5.255.123.164/32
 ufw deny from 5.255.125.196/32
-ufw deny from 5.255.127.222/32
 ufw deny from 8.211.148.167/32
 ufw deny from 8.215.52.126/32
 ufw deny from 23.94.148.16/32
@@ -374,6 +373,7 @@ ufw deny from 45.135.194.111/32
 ufw deny from 45.137.69.9/32
 ufw deny from 45.137.69.13/32
 ufw deny from 45.137.70.158/32
+ufw deny from 45.137.99.182/32
 ufw deny from 45.137.201.5/32
 ufw deny from 45.137.201.100/32
 ufw deny from 45.138.16.125/32
@@ -428,7 +428,6 @@ ufw deny from 69.163.77.166/32
 ufw deny from 71.19.144.106/32
 ufw deny from 72.5.43.62/32
 ufw deny from 72.211.49.235/32
-ufw deny from 74.50.118.26/32
 ufw deny from 74.82.47.194/32
 ufw deny from 77.48.28.193/32
 ufw deny from 77.48.28.204/32
@@ -576,7 +575,6 @@ ufw deny from 104.244.78.233/32
 ufw deny from 104.244.79.44/32
 ufw deny from 104.244.79.50/32
 ufw deny from 104.244.79.61/32
-ufw deny from 104.254.90.203/32
 ufw deny from 107.174.146.5/32
 ufw deny from 107.189.1.9/32
 ufw deny from 107.189.1.160/32
@@ -661,6 +659,7 @@ ufw deny from 136.244.111.163/32
 ufw deny from 138.59.18.110/32
 ufw deny from 139.99.8.57/32
 ufw deny from 139.99.172.11/32
+ufw deny from 139.162.208.30/32
 ufw deny from 141.98.11.62/32
 ufw deny from 141.239.158.222/32
 ufw deny from 142.249.174.12/32
@@ -668,18 +667,22 @@ ufw deny from 143.20.166.14/32
 ufw deny from 144.126.147.123/32
 ufw deny from 146.59.231.4/32
 ufw deny from 147.90.234.30/32
+ufw deny from 147.90.234.34/32
 ufw deny from 147.90.234.63/32
 ufw deny from 147.90.234.88/32
 ufw deny from 147.90.234.115/32
 ufw deny from 147.90.234.116/32
 ufw deny from 147.90.234.117/32
 ufw deny from 147.90.234.118/32
+ufw deny from 147.90.234.159/32
 ufw deny from 147.90.234.213/32
 ufw deny from 147.90.234.214/32
 ufw deny from 147.90.235.15/32
 ufw deny from 147.90.235.16/32
+ufw deny from 147.90.235.17/32
 ufw deny from 147.90.235.20/32
 ufw deny from 147.90.235.21/32
+ufw deny from 147.90.235.22/32
 ufw deny from 147.90.235.40/32
 ufw deny from 147.90.235.226/32
 ufw deny from 147.90.235.227/32
@@ -1184,7 +1187,7 @@ ufw deny from 198.98.61.60/32
 ufw deny from 198.98.62.158/32
 ufw deny from 198.167.206.158/32
 ufw deny from 198.167.206.184/32
-ufw deny from 198.167.206.228/32
+ufw deny from 198.167.206.212/32
 ufw deny from 199.195.248.168/32
 ufw deny from 199.195.251.119/32
 ufw deny from 199.195.253.124/32
@@ -1213,7 +1216,6 @@ ufw deny from 205.185.121.170/32
 ufw deny from 205.185.121.177/32
 ufw deny from 205.185.123.93/32
 ufw deny from 205.185.124.176/32
-ufw deny from 206.166.251.193/32
 ufw deny from 206.206.192.178/32
 ufw deny from 209.127.122.140/32
 ufw deny from 209.141.32.198/32
