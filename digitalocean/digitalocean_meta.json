@@ -1,7 +1,7 @@
 {
   "provider": "digitalocean",
   "version": 1,
-  "generated_date": "2026-06-22",
+  "generated_date": "2026-06-23",
   "last_changed_date": "2026-06-18",
   "sources": [
     "https://digitalocean.com/geo/google.csv"

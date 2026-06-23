@@ -1,6 +1,6 @@
 #!/bin/bash
 # Tor IP Ranges
-# Updated: 2026-06-22 03:24:20
+# Updated: 2026-06-23 03:21:01
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -418,6 +418,7 @@ ufw allow from 64.190.113.221/32
 ufw allow from 64.204.180.233/32
 ufw allow from 65.38.109.3/32
 ufw allow from 65.87.7.53/32
+ufw allow from 66.78.40.35/32
 ufw allow from 66.78.40.91/32
 ufw allow from 66.146.193.33/32
 ufw allow from 66.220.242.222/32
@@ -479,6 +480,7 @@ ufw allow from 88.80.26.3/32
 ufw allow from 88.80.26.4/32
 ufw allow from 89.58.26.216/32
 ufw allow from 89.58.41.156/32
+ufw allow from 89.125.153.39/32
 ufw allow from 89.147.108.90/32
 ufw allow from 89.147.110.82/32
 ufw allow from 89.147.110.118/32
@@ -614,7 +616,6 @@ ufw allow from 107.189.29.8/32
 ufw allow from 107.189.29.184/32
 ufw allow from 107.189.30.49/32
 ufw allow from 107.189.30.69/32
-ufw allow from 107.189.30.86/32
 ufw allow from 107.189.30.236/32
 ufw allow from 107.189.31.33/32
 ufw allow from 107.189.31.52/32
@@ -664,6 +665,7 @@ ufw allow from 141.98.11.62/32
 ufw allow from 141.239.158.222/32
 ufw allow from 142.249.174.12/32
 ufw allow from 143.20.166.14/32
+ufw allow from 144.6.236.131/32
 ufw allow from 144.126.147.123/32
 ufw allow from 146.59.231.4/32
 ufw allow from 147.90.234.30/32
@@ -1185,8 +1187,8 @@ ufw allow from 198.98.57.74/32
 ufw allow from 198.98.57.151/32
 ufw allow from 198.98.61.60/32
 ufw allow from 198.98.62.158/32
-ufw allow from 198.167.206.158/32
 ufw allow from 198.167.206.184/32
+ufw allow from 198.167.206.185/32
 ufw allow from 198.167.206.212/32
 ufw allow from 199.195.248.168/32
 ufw allow from 199.195.251.119/32
@@ -1241,6 +1243,7 @@ ufw allow from 216.73.159.75/32
 ufw allow from 216.73.159.101/32
 ufw allow from 216.239.90.19/32
 ufw allow from 217.12.221.131/32
+ufw allow from 217.60.78.198/32
 ufw allow from 217.60.195.54/32
 ufw allow from 217.156.49.33/32
 ufw allow from 220.135.36.173/32

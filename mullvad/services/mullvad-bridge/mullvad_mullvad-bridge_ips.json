@@ -12,12 +12,6 @@
     "region": "us"
   },
   {
-    "ip_address": "69.4.234.8/32",
-    "ip_type": "IPv4",
-    "service": "mullvad-bridge",
-    "region": "us"
-  },
-  {
     "ip_address": "103.125.233.210/32",
     "ip_type": "IPv4",
     "service": "mullvad-bridge",
@@ -94,12 +88,6 @@
     "ip_type": "IPv6",
     "service": "mullvad-bridge",
     "region": "jp"
-  },
-  {
-    "ip_address": "2607:fc98:0:8a::f001/128",
-    "ip_type": "IPv6",
-    "service": "mullvad-bridge",
-    "region": "us"
   },
   {
     "ip_address": "2a0d:5600:d:40::bb01/128",

@@ -1,6 +1,6 @@
 #!/bin/bash
 # Mullvad IP Ranges
-# Updated: 2026-06-14 03:22:30
+# Updated: 2026-06-23 03:21:01
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -141,7 +141,6 @@ ufw deny from 68.235.46.126/32
 ufw deny from 68.235.46.157/32
 ufw deny from 68.235.46.188/32
 ufw deny from 68.235.46.209/32
-ufw deny from 69.4.234.8/32
 ufw deny from 79.127.217.34/32
 ufw deny from 79.127.217.47/32
 ufw deny from 79.127.222.194/32
@@ -359,7 +358,6 @@ ufw deny from 2607:9000:a000:35::f001/128
 ufw deny from 2607:9000:a000:36::f001/128
 ufw deny from 2607:9000:a000:37::f001/128
 ufw deny from 2607:9000:a000:38::f001/128
-ufw deny from 2607:fc98:0:8a::f001/128
 ufw deny from 2a01:4740:1::f001/128
 ufw deny from 2a01:4740:1::f101/128
 ufw deny from 2a01:4740:1::f201/128

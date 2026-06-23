@@ -804,12 +804,6 @@
     "region": "us"
   },
   {
-    "ip_address": "69.4.234.8/32",
-    "ip_type": "IPv4",
-    "service": "mullvad-bridge",
-    "region": "us"
-  },
-  {
     "ip_address": "79.127.217.34/32",
     "ip_type": "IPv4",
     "service": "mullvad-wireguard",
@@ -2109,12 +2103,6 @@
     "ip_address": "2607:9000:a000:38::f001/128",
     "ip_type": "IPv6",
     "service": "mullvad-wireguard",
-    "region": "us"
-  },
-  {
-    "ip_address": "2607:fc98:0:8a::f001/128",
-    "ip_type": "IPv6",
-    "service": "mullvad-bridge",
     "region": "us"
   },
   {

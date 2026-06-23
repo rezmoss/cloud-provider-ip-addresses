@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-22T03:25:00.024667",
+  "generated": "2026-06-23T03:21:37.202952",
   "provider_count": 37,
-  "total_ipv4_addresses": 406707239,
-  "total_ipv6_addresses": 5296203346152335315592741775746941,
+  "total_ipv4_addresses": 406708008,
+  "total_ipv6_addresses": 5296203346153515907213459187050363,
   "ipv4_space_coverage_pct": 9.4694,
   "providers": {
     "cloudflare": {
@@ -16,10 +16,10 @@
     },
     "aws": {
       "ipv4_cidrs": 10407,
-      "ipv6_cidrs": 5767,
-      "total_cidrs": 16174,
+      "ipv6_cidrs": 5771,
+      "total_cidrs": 16178,
       "ipv4_addresses": 184680590,
-      "ipv6_addresses": 3303575484016000896238010499085,
+      "ipv6_addresses": 3303575485196592516955421802509,
       "services": 26,
       "regions": 43
     },
@@ -303,10 +303,10 @@
       "regions": 1
     },
     "ovhcloud": {
-      "ipv4_cidrs": 675,
+      "ipv4_cidrs": 678,
       "ipv6_cidrs": 42,
-      "total_cidrs": 717,
-      "ipv4_addresses": 4616448,
+      "total_cidrs": 720,
+      "ipv4_addresses": 4617216,
       "ipv6_addresses": 318191693574209628041014935552,
       "services": 1,
       "regions": 1
@@ -321,20 +321,20 @@
       "regions": 1
     },
     "tor": {
-      "ipv4_cidrs": 1237,
+      "ipv4_cidrs": 1240,
       "ipv6_cidrs": 0,
-      "total_cidrs": 1237,
-      "ipv4_addresses": 1237,
+      "total_cidrs": 1240,
+      "ipv4_addresses": 1240,
       "ipv6_addresses": 0,
       "services": 1,
       "regions": 1
     },
     "mullvad": {
-      "ipv4_cidrs": 571,
-      "ipv6_cidrs": 560,
-      "total_cidrs": 1131,
-      "ipv4_addresses": 571,
-      "ipv6_addresses": 560,
+      "ipv4_cidrs": 569,
+      "ipv6_cidrs": 558,
+      "total_cidrs": 1127,
+      "ipv4_addresses": 569,
+      "ipv6_addresses": 558,
       "services": 2,
       "regions": 50
     }

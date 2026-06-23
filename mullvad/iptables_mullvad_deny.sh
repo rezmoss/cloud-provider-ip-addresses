@@ -1,6 +1,6 @@
 #!/bin/bash
 # Mullvad IP Ranges
-# Updated: 2026-06-18 03:21:31
+# Updated: 2026-06-23 03:21:01
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -176,7 +176,6 @@ iptables -A INPUT -s 68.235.46.126/32 -j DROP
 iptables -A INPUT -s 68.235.46.157/32 -j DROP
 iptables -A INPUT -s 68.235.46.188/32 -j DROP
 iptables -A INPUT -s 68.235.46.209/32 -j DROP
-iptables -A INPUT -s 69.4.234.8/32 -j DROP
 iptables -A INPUT -s 77.243.184.2/32 -j DROP
 iptables -A INPUT -s 77.243.184.130/32 -j DROP
 iptables -A INPUT -s 79.127.149.130/32 -j DROP
@@ -218,7 +217,6 @@ iptables -A INPUT -s 103.102.246.3/32 -j DROP
 iptables -A INPUT -s 103.102.246.127/32 -j DROP
 iptables -A INPUT -s 103.102.247.3/32 -j DROP
 iptables -A INPUT -s 103.102.247.127/32 -j DROP
-iptables -A INPUT -s 103.108.229.66/32 -j DROP
 iptables -A INPUT -s 103.108.231.50/32 -j DROP
 iptables -A INPUT -s 103.108.231.66/32 -j DROP
 iptables -A INPUT -s 103.120.6.2/32 -j DROP
@@ -648,7 +646,6 @@ ip6tables -A INPUT -s 2404:f780:5:dec::c02f/128 -j DROP
 ip6tables -A INPUT -s 2404:f780:5:def::f201/128 -j DROP
 ip6tables -A INPUT -s 2404:f780:8:deb::a01f/128 -j DROP
 ip6tables -A INPUT -s 2404:f780:8:dec::f001/128 -j DROP
-ip6tables -A INPUT -s 2406:d501:f:dec::a02f/128 -j DROP
 ip6tables -A INPUT -s 2406:d501:f:dfa::f001/128 -j DROP
 ip6tables -A INPUT -s 2406:d501:f:dfb::f001/128 -j DROP
 ip6tables -A INPUT -s 2406:d501:f:dfc::f001/128 -j DROP
@@ -813,7 +810,6 @@ ip6tables -A INPUT -s 2607:9000:a000:35::f001/128 -j DROP
 ip6tables -A INPUT -s 2607:9000:a000:36::f001/128 -j DROP
 ip6tables -A INPUT -s 2607:9000:a000:37::f001/128 -j DROP
 ip6tables -A INPUT -s 2607:9000:a000:38::f001/128 -j DROP
-ip6tables -A INPUT -s 2607:fc98:0:8a::f001/128 -j DROP
 ip6tables -A INPUT -s 2a01:4740:1::f001/128 -j DROP
 ip6tables -A INPUT -s 2a01:4740:1::f101/128 -j DROP
 ip6tables -A INPUT -s 2a01:4740:1::f201/128 -j DROP

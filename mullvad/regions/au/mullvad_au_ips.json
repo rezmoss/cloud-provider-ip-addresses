@@ -1,11 +1,5 @@
 [
   {
-    "ip_address": "103.108.229.66/32",
-    "ip_type": "IPv4",
-    "service": "mullvad-wireguard",
-    "region": "au"
-  },
-  {
     "ip_address": "103.108.231.50/32",
     "ip_type": "IPv4",
     "service": "mullvad-wireguard",
@@ -205,12 +199,6 @@
   },
   {
     "ip_address": "2404:f780:8:dec::f001/128",
-    "ip_type": "IPv6",
-    "service": "mullvad-wireguard",
-    "region": "au"
-  },
-  {
-    "ip_address": "2406:d501:f:dec::a02f/128",
     "ip_type": "IPv6",
     "service": "mullvad-wireguard",
     "region": "au"
