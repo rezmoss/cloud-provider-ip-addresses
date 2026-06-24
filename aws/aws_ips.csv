@@ -5122,6 +5122,7 @@ ip_address,ip_type,service,region
 40.38.0.0/16,IPv4,EC2,us-gov-west-1
 40.38.204.0/23,IPv4,AMAZON,us-gov-west-1
 40.39.0.0/16,IPv4,AMAZON,us-gov-west-1
+40.39.0.0/16,IPv4,EC2,us-gov-west-1
 40.138.216.0/22,IPv4,AMAZON,eu-south-2
 40.143.64.0/21,IPv4,AMAZON,eu-south-2
 40.164.0.0/16,IPv4,AMAZON,us-west-1

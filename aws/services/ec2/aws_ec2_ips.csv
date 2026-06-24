@@ -923,6 +923,7 @@ ip_address,ip_type,service,region
 35.182.0.0/15,IPv4,EC2,ca-central-1
 37.203.157.0/24,IPv4,EC2,eu-central-1
 40.38.0.0/16,IPv4,EC2,us-gov-west-1
+40.39.0.0/16,IPv4,EC2,us-gov-west-1
 40.164.0.0/16,IPv4,EC2,us-west-1
 40.168.224.0/24,IPv4,EC2,GLOBAL
 40.168.225.0/24,IPv4,EC2,GLOBAL

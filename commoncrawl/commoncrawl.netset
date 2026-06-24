@@ -1,5 +1,5 @@
 # commoncrawl IP ranges - ipset restore format (hash:net)
-# Version: 1 | Generated: 2026-06-23 | Last changed: 2026-06-18
+# Version: 1 | Generated: 2026-06-24 | Last changed: 2026-06-18
 # IPv4: 5 merged subnets, 29 unique IPs
 # IPv6: 1 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses

@@ -30738,6 +30738,12 @@
     "region": "us-gov-west-1"
   },
   {
+    "ip_address": "40.39.0.0/16",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-gov-west-1"
+  },
+  {
     "ip_address": "40.138.216.0/22",
     "ip_type": "IPv4",
     "service": "AMAZON",
