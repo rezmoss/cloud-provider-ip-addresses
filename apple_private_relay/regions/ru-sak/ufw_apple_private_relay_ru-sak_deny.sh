@@ -1,28 +1,20 @@
 #!/bin/bash
 # Apple_private_relay IP Ranges
-# Updated: 2026-06-14 03:22:13
+# Updated: 2026-06-25 03:23:07
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
 # Updates daily at 02:00 UTC
 # UFW deny rules for apple_private_relay
 
-ufw deny from 104.28.68.132/32
-ufw deny from 104.28.68.133/32
-ufw deny from 104.28.71.132/32
-ufw deny from 104.28.71.133/32
-ufw deny from 104.28.72.28/32
-ufw deny from 104.28.72.29/32
-ufw deny from 104.28.84.114/32
-ufw deny from 104.28.84.115/32
-ufw deny from 104.28.100.110/32
-ufw deny from 104.28.100.111/32
-ufw deny from 104.28.102.110/32
-ufw deny from 104.28.102.111/32
-ufw deny from 104.28.119.104/32
-ufw deny from 104.28.119.105/32
-ufw deny from 104.28.122.104/32
-ufw deny from 104.28.122.105/32
+ufw deny from 104.28.68.132/31
+ufw deny from 104.28.71.132/31
+ufw deny from 104.28.72.28/31
+ufw deny from 104.28.84.114/31
+ufw deny from 104.28.100.110/31
+ufw deny from 104.28.102.110/31
+ufw deny from 104.28.119.104/31
+ufw deny from 104.28.122.104/31
 ufw deny from 2606:54c0:50e0::/45
 ufw deny from 2606:54c3:0:1954::/64
 ufw deny from 2a09:bac2:50e0::/45

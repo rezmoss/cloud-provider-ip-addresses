@@ -1,7 +1,7 @@
 # uptimerobot IP ranges - ipset restore format (hash:net)
-# Version: 1 | Generated: 2026-06-24 | Last changed: 2026-06-18
-# IPv4: 110 merged subnets, 116 unique IPs
-# IPv6: 107 merged subnets
+# Version: 2 | Generated: 2026-06-25 | Last changed: 2026-06-25
+# IPv4: 102 merged subnets, 103 unique IPs
+# IPv6: 103 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
 # Load with: sudo ipset restore -! < uptimerobot.netset
@@ -55,9 +55,6 @@ add uptimerobot_v4 54.249.170.27/32
 add uptimerobot_v4 63.178.84.147/32
 add uptimerobot_v4 64.225.81.248/32
 add uptimerobot_v4 64.225.82.147/32
-add uptimerobot_v4 69.162.124.227/32
-add uptimerobot_v4 69.162.124.235/32
-add uptimerobot_v4 69.162.124.238/32
 add uptimerobot_v4 78.46.190.63/32
 add uptimerobot_v4 78.46.215.1/32
 add uptimerobot_v4 78.47.98.55/32
@@ -111,13 +108,8 @@ add uptimerobot_v4 209.38.49.226/32
 add uptimerobot_v4 209.38.51.43/32
 add uptimerobot_v4 209.38.53.7/32
 add uptimerobot_v4 209.38.124.252/32
-add uptimerobot_v4 216.144.248.18/31
-add uptimerobot_v4 216.144.248.21/32
-add uptimerobot_v4 216.144.248.22/31
-add uptimerobot_v4 216.144.248.24/30
+add uptimerobot_v4 216.144.248.27/32
 add uptimerobot_v4 216.144.248.28/31
-add uptimerobot_v4 216.144.248.30/32
-add uptimerobot_v4 216.245.221.83/32
 create uptimerobot_v6 hash:net family inet6 hashsize 4096 maxelem 1048576 -exist
 flush uptimerobot_v6
 add uptimerobot_v6 2400:6180:10:200::56a0:b000/128
@@ -159,13 +151,9 @@ add uptimerobot_v6 2604:a880:800:14:0:1:68bb:c000/128
 add uptimerobot_v6 2604:a880:800:14:0:1:68bb:d000/128
 add uptimerobot_v6 2604:a880:800:14:0:1:68bb:e000/128
 add uptimerobot_v6 2604:a880:800:14:0:1:68bb:f000/128
-add uptimerobot_v6 2607:ff68:107::4/128
-add uptimerobot_v6 2607:ff68:107::14/128
 add uptimerobot_v6 2607:ff68:107::33/128
-add uptimerobot_v6 2607:ff68:107::48/127
-add uptimerobot_v6 2607:ff68:107::50/125
-add uptimerobot_v6 2607:ff68:107::58/127
-add uptimerobot_v6 2607:ff68:107::60/128
+add uptimerobot_v6 2607:ff68:107::57/128
+add uptimerobot_v6 2607:ff68:107::59/128
 add uptimerobot_v6 2a01:4f8:c0c:83fa::1/128
 add uptimerobot_v6 2a01:4f8:c17:42e4::1/128
 add uptimerobot_v6 2a01:4f8:c2c:9fc6::1/128

@@ -1,6 +1,6 @@
 #!/bin/bash
 # Apple_private_relay IP Ranges
-# Updated: 2026-06-14 03:22:14
+# Updated: 2026-06-25 03:23:15
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -9,23 +9,14 @@
 
 ip6tables -A INPUT -s 2606:54c0:52f0::/45 -j DROP
 ip6tables -A INPUT -s 2606:54c3:0:1434::/64 -j DROP
-ip6tables -A INPUT -s 2a02:26f7:f8c0:e61e::/64 -j DROP
-ip6tables -A INPUT -s 2a02:26f7:f8c0:e61f::/64 -j DROP
-ip6tables -A INPUT -s 2a02:26f7:f8c4:e61e::/64 -j DROP
-ip6tables -A INPUT -s 2a02:26f7:f8c4:e61f::/64 -j DROP
-ip6tables -A INPUT -s 2a02:26f7:f8c8:e61e::/64 -j DROP
-ip6tables -A INPUT -s 2a02:26f7:f8c8:e61f::/64 -j DROP
-ip6tables -A INPUT -s 2a02:26f7:f8cc:e61e::/64 -j DROP
-ip6tables -A INPUT -s 2a02:26f7:f8cc:e61f::/64 -j DROP
-ip6tables -A INPUT -s 2a02:26f7:f8d0:e61e::/64 -j DROP
-ip6tables -A INPUT -s 2a02:26f7:f8d0:e61f::/64 -j DROP
-ip6tables -A INPUT -s 2a02:26f7:f8d1:e61e::/64 -j DROP
-ip6tables -A INPUT -s 2a02:26f7:f8d1:e61f::/64 -j DROP
-ip6tables -A INPUT -s 2a02:26f7:f8d4:e61e::/64 -j DROP
-ip6tables -A INPUT -s 2a02:26f7:f8d4:e61f::/64 -j DROP
-ip6tables -A INPUT -s 2a02:26f7:f8e0:e61e::/64 -j DROP
-ip6tables -A INPUT -s 2a02:26f7:f8e0:e61f::/64 -j DROP
-ip6tables -A INPUT -s 2a02:26f7:f8e2:e61e::/64 -j DROP
-ip6tables -A INPUT -s 2a02:26f7:f8e2:e61f::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:f8c0:e61e::/63 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:f8c4:e61e::/63 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:f8c8:e61e::/63 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:f8cc:e61e::/63 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:f8d0:e61e::/63 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:f8d1:e61e::/63 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:f8d4:e61e::/63 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:f8e0:e61e::/63 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:f8e2:e61e::/63 -j DROP
 ip6tables -A INPUT -s 2a09:bac2:52f0::/45 -j DROP
 ip6tables -A INPUT -s 2a09:bac3:52f0::/45 -j DROP

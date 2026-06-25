@@ -1656,12 +1656,6 @@
     "region": "global"
   },
   {
-    "ip_address": "8.212.37.0/24",
-    "ip_type": "IPv4",
-    "service": "alibaba-as134963",
-    "region": "global"
-  },
-  {
     "ip_address": "8.212.64.0/18",
     "ip_type": "IPv4",
     "service": "alibaba-as45102",
@@ -11077,6 +11071,12 @@
   },
   {
     "ip_address": "170.33.0.0/24",
+    "ip_type": "IPv4",
+    "service": "alibaba-as134963",
+    "region": "global"
+  },
+  {
+    "ip_address": "170.33.1.0/24",
     "ip_type": "IPv4",
     "service": "alibaba-as134963",
     "region": "global"

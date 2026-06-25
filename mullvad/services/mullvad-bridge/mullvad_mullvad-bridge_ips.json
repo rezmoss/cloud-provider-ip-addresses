@@ -30,12 +30,6 @@
     "region": "au"
   },
   {
-    "ip_address": "146.70.183.34/32",
-    "ip_type": "IPv4",
-    "service": "mullvad-bridge",
-    "region": "us"
-  },
-  {
     "ip_address": "146.70.192.38/32",
     "ip_type": "IPv4",
     "service": "mullvad-bridge",

@@ -1,22 +1,17 @@
 #!/bin/bash
 # Apple_private_relay IP Ranges
-# Updated: 2026-06-14 03:22:12
+# Updated: 2026-06-25 03:23:05
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
 # Updates daily at 02:00 UTC
 # iptables deny rules for apple_private_relay
 
-iptables -A INPUT -s 104.28.60.0/32 -j DROP
-iptables -A INPUT -s 104.28.60.1/32 -j DROP
-iptables -A INPUT -s 104.28.80.10/32 -j DROP
-iptables -A INPUT -s 104.28.80.11/32 -j DROP
-iptables -A INPUT -s 104.28.98.0/32 -j DROP
-iptables -A INPUT -s 104.28.98.1/32 -j DROP
-iptables -A INPUT -s 104.28.106.10/32 -j DROP
-iptables -A INPUT -s 104.28.106.11/32 -j DROP
-iptables -A INPUT -s 104.28.130.0/32 -j DROP
-iptables -A INPUT -s 104.28.130.1/32 -j DROP
+iptables -A INPUT -s 104.28.60.0/31 -j DROP
+iptables -A INPUT -s 104.28.80.10/31 -j DROP
+iptables -A INPUT -s 104.28.98.0/31 -j DROP
+iptables -A INPUT -s 104.28.106.10/31 -j DROP
+iptables -A INPUT -s 104.28.130.0/31 -j DROP
 iptables -A INPUT -s 104.28.137.3/32 -j DROP
 iptables -A INPUT -s 104.28.149.134/32 -j DROP
 iptables -A INPUT -s 140.248.34.4/31 -j DROP

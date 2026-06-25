@@ -1,23 +1,23 @@
 {
   "provider": "uptimerobot",
-  "version": 1,
-  "generated_date": "2026-06-24",
-  "last_changed_date": "2026-06-18",
+  "version": 2,
+  "generated_date": "2026-06-25",
+  "last_changed_date": "2026-06-25",
   "sources": [
     "https://api.uptimerobot.com/meta/ips"
   ],
   "ipv4": {
-    "cidrs": 116,
-    "merged_cidrs": 110,
-    "addresses": 116
+    "cidrs": 103,
+    "merged_cidrs": 102,
+    "addresses": 103
   },
   "ipv6": {
-    "cidrs": 116,
-    "merged_cidrs": 107,
-    "addresses": 116
+    "cidrs": 103,
+    "merged_cidrs": 103,
+    "addresses": 103
   },
-  "total_entries": 232,
-  "content_sha256": "23fc1c075efe77b73056e020424eed104ecf21b62986f53ebd04ad57f3c8521d",
+  "total_entries": 206,
+  "content_sha256": "08fea8d4d436b45312ecae6e650a1efee026b998d5988a865d458caca1c7ff03",
   "license": "CC0-1.0",
   "license_url": "https://github.com/rezmoss/cloud-provider-ip-addresses/blob/main/LICENSE"
 }

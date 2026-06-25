@@ -1,6 +1,6 @@
 #!/bin/bash
 # Vultr IP Ranges
-# Updated: 2026-06-17 03:21:11
+# Updated: 2026-06-25 03:23:17
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -43,8 +43,7 @@ iptables -A INPUT -s 108.61.243.0/24 -j DROP
 iptables -A INPUT -s 108.61.245.0/24 -j DROP
 iptables -A INPUT -s 108.61.248.0/24 -j DROP
 iptables -A INPUT -s 140.82.0.0/20 -j DROP
-iptables -A INPUT -s 140.82.40.0/22 -j DROP
-iptables -A INPUT -s 140.82.44.0/22 -j DROP
+iptables -A INPUT -s 140.82.40.0/21 -j DROP
 iptables -A INPUT -s 140.82.60.0/22 -j DROP
 iptables -A INPUT -s 144.202.0.0/20 -j DROP
 iptables -A INPUT -s 149.28.32.0/19 -j DROP
@@ -53,13 +52,11 @@ iptables -A INPUT -s 173.199.83.0/24 -j DROP
 iptables -A INPUT -s 173.199.106.0/24 -j DROP
 iptables -A INPUT -s 173.199.114.0/23 -j DROP
 iptables -A INPUT -s 173.199.116.0/22 -j DROP
-iptables -A INPUT -s 173.199.120.0/22 -j DROP
-iptables -A INPUT -s 173.199.124.0/22 -j DROP
+iptables -A INPUT -s 173.199.120.0/21 -j DROP
 iptables -A INPUT -s 207.148.16.0/20 -j DROP
 iptables -A INPUT -s 207.246.80.0/20 -j DROP
 iptables -A INPUT -s 207.246.120.0/21 -j DROP
 iptables -A INPUT -s 208.167.224.0/19 -j DROP
-iptables -A INPUT -s 208.167.225.0/24 -j DROP
 iptables -A INPUT -s 209.222.0.0/20 -j DROP
 iptables -A INPUT -s 209.222.16.0/22 -j DROP
 iptables -A INPUT -s 209.222.20.0/23 -j DROP
@@ -67,9 +64,7 @@ iptables -A INPUT -s 209.222.23.0/24 -j DROP
 iptables -A INPUT -s 209.222.24.0/22 -j DROP
 iptables -A INPUT -s 216.155.128.0/19 -j DROP
 ip6tables -A INPUT -s 2001:19f0::/38 -j DROP
-ip6tables -A INPUT -s 2001:19f0:1000::/38 -j DROP
-ip6tables -A INPUT -s 2001:19f0:1400::/38 -j DROP
+ip6tables -A INPUT -s 2001:19f0:1000::/37 -j DROP
 ip6tables -A INPUT -s 2001:19f0:4000::/38 -j DROP
 ip6tables -A INPUT -s 2001:19f0:a800::/38 -j DROP
 ip6tables -A INPUT -s 2a05:f487:fc00::/38 -j DROP
-ip6tables -A INPUT -s 2a05:f487:fc00::/48 -j DROP

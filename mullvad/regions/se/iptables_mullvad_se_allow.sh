@@ -1,14 +1,13 @@
 #!/bin/bash
 # Mullvad IP Ranges
-# Updated: 2026-06-14 03:22:30
+# Updated: 2026-06-25 03:23:38
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
 # Updates daily at 02:00 UTC
 # iptables allow rules for mullvad
 
-iptables -A INPUT -s 45.83.220.68/32 -j ACCEPT
-iptables -A INPUT -s 45.83.220.69/32 -j ACCEPT
+iptables -A INPUT -s 45.83.220.68/31 -j ACCEPT
 iptables -A INPUT -s 45.83.220.70/32 -j ACCEPT
 iptables -A INPUT -s 45.129.59.19/32 -j ACCEPT
 iptables -A INPUT -s 45.129.59.129/32 -j ACCEPT
@@ -25,27 +24,19 @@ iptables -A INPUT -s 170.62.100.170/32 -j ACCEPT
 iptables -A INPUT -s 170.62.100.211/32 -j ACCEPT
 iptables -A INPUT -s 185.65.135.67/32 -j ACCEPT
 iptables -A INPUT -s 185.65.135.68/32 -j ACCEPT
-iptables -A INPUT -s 185.65.135.70/32 -j ACCEPT
-iptables -A INPUT -s 185.65.135.71/32 -j ACCEPT
-iptables -A INPUT -s 185.195.233.66/32 -j ACCEPT
-iptables -A INPUT -s 185.195.233.67/32 -j ACCEPT
-iptables -A INPUT -s 185.195.233.68/32 -j ACCEPT
-iptables -A INPUT -s 185.195.233.69/32 -j ACCEPT
-iptables -A INPUT -s 185.195.233.70/32 -j ACCEPT
-iptables -A INPUT -s 185.195.233.71/32 -j ACCEPT
+iptables -A INPUT -s 185.65.135.70/31 -j ACCEPT
+iptables -A INPUT -s 185.195.233.66/31 -j ACCEPT
+iptables -A INPUT -s 185.195.233.68/30 -j ACCEPT
 iptables -A INPUT -s 185.195.233.76/32 -j ACCEPT
 iptables -A INPUT -s 185.209.199.2/32 -j ACCEPT
 iptables -A INPUT -s 185.209.199.7/32 -j ACCEPT
 iptables -A INPUT -s 185.209.199.12/32 -j ACCEPT
 iptables -A INPUT -s 185.209.199.17/32 -j ACCEPT
-iptables -A INPUT -s 185.213.154.66/32 -j ACCEPT
-iptables -A INPUT -s 185.213.154.67/32 -j ACCEPT
-iptables -A INPUT -s 185.213.154.68/32 -j ACCEPT
-iptables -A INPUT -s 185.213.154.69/32 -j ACCEPT
+iptables -A INPUT -s 185.213.154.66/31 -j ACCEPT
+iptables -A INPUT -s 185.213.154.68/31 -j ACCEPT
 iptables -A INPUT -s 185.213.154.70/32 -j ACCEPT
 iptables -A INPUT -s 193.138.218.80/32 -j ACCEPT
-iptables -A INPUT -s 193.138.218.82/32 -j ACCEPT
-iptables -A INPUT -s 193.138.218.83/32 -j ACCEPT
+iptables -A INPUT -s 193.138.218.82/31 -j ACCEPT
 iptables -A INPUT -s 193.138.218.130/32 -j ACCEPT
 iptables -A INPUT -s 193.138.218.220/32 -j ACCEPT
 ip6tables -A INPUT -s 2a02:6ea0:1508:1::f001/128 -j ACCEPT

@@ -63,6 +63,10 @@ ip_address,ip_type,service,region
 56.113.0.0/16,IPv4,AMAZON,ca-west-1
 56.114.0.0/16,IPv4,AMAZON,ca-west-1
 56.115.0.0/16,IPv4,AMAZON,ca-west-1
+63.249.204.0/24,IPv4,AMAZON,ca-west-1
+63.249.204.0/24,IPv4,EC2,ca-west-1
+63.249.205.0/24,IPv4,AMAZON,ca-west-1
+63.249.205.0/24,IPv4,EC2,ca-west-1
 76.223.170.0/28,IPv4,AMAZON,ca-west-1
 99.151.168.0/21,IPv4,AMAZON,ca-west-1
 99.151.168.0/21,IPv4,EC2,ca-west-1

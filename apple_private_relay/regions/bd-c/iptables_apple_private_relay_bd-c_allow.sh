@@ -1,41 +1,23 @@
 #!/bin/bash
 # Apple_private_relay IP Ranges
-# Updated: 2026-06-14 03:22:09
+# Updated: 2026-06-25 03:22:44
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
 # Updates daily at 02:00 UTC
 # iptables allow rules for apple_private_relay
 
-iptables -A INPUT -s 104.28.37.12/32 -j ACCEPT
-iptables -A INPUT -s 104.28.37.13/32 -j ACCEPT
-iptables -A INPUT -s 104.28.37.14/32 -j ACCEPT
-iptables -A INPUT -s 104.28.37.15/32 -j ACCEPT
+iptables -A INPUT -s 104.28.37.12/30 -j ACCEPT
 iptables -A INPUT -s 104.28.37.16/32 -j ACCEPT
-iptables -A INPUT -s 104.28.43.4/32 -j ACCEPT
-iptables -A INPUT -s 104.28.43.5/32 -j ACCEPT
-iptables -A INPUT -s 104.28.43.6/32 -j ACCEPT
-iptables -A INPUT -s 104.28.43.7/32 -j ACCEPT
+iptables -A INPUT -s 104.28.43.4/30 -j ACCEPT
 iptables -A INPUT -s 104.28.43.8/32 -j ACCEPT
-iptables -A INPUT -s 104.28.66.0/32 -j ACCEPT
-iptables -A INPUT -s 104.28.66.1/32 -j ACCEPT
-iptables -A INPUT -s 104.28.66.2/32 -j ACCEPT
-iptables -A INPUT -s 104.28.66.3/32 -j ACCEPT
+iptables -A INPUT -s 104.28.66.0/30 -j ACCEPT
 iptables -A INPUT -s 104.28.66.4/32 -j ACCEPT
-iptables -A INPUT -s 104.28.69.0/32 -j ACCEPT
-iptables -A INPUT -s 104.28.69.1/32 -j ACCEPT
-iptables -A INPUT -s 104.28.69.2/32 -j ACCEPT
-iptables -A INPUT -s 104.28.69.3/32 -j ACCEPT
+iptables -A INPUT -s 104.28.69.0/30 -j ACCEPT
 iptables -A INPUT -s 104.28.69.4/32 -j ACCEPT
-iptables -A INPUT -s 104.28.117.0/32 -j ACCEPT
-iptables -A INPUT -s 104.28.117.1/32 -j ACCEPT
-iptables -A INPUT -s 104.28.117.2/32 -j ACCEPT
-iptables -A INPUT -s 104.28.117.3/32 -j ACCEPT
+iptables -A INPUT -s 104.28.117.0/30 -j ACCEPT
 iptables -A INPUT -s 104.28.117.4/32 -j ACCEPT
-iptables -A INPUT -s 104.28.120.0/32 -j ACCEPT
-iptables -A INPUT -s 104.28.120.1/32 -j ACCEPT
-iptables -A INPUT -s 104.28.120.2/32 -j ACCEPT
-iptables -A INPUT -s 104.28.120.3/32 -j ACCEPT
+iptables -A INPUT -s 104.28.120.0/30 -j ACCEPT
 iptables -A INPUT -s 104.28.120.4/32 -j ACCEPT
 iptables -A INPUT -s 140.248.8.32/31 -j ACCEPT
 iptables -A INPUT -s 140.248.38.32/31 -j ACCEPT

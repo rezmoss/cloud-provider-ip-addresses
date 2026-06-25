@@ -4,7 +4,6 @@ ip_address,ip_type,service,region
 103.125.233.210/32,IPv4,mullvad-bridge,hk
 141.98.252.66/32,IPv4,mullvad-bridge,gb
 146.70.141.154/32,IPv4,mullvad-bridge,au
-146.70.183.34/32,IPv4,mullvad-bridge,us
 146.70.192.38/32,IPv4,mullvad-bridge,sg
 185.65.134.116/32,IPv4,mullvad-bridge,nl
 185.242.4.34/32,IPv4,mullvad-bridge,jp

@@ -1,6 +1,6 @@
 #!/bin/bash
 # Apple_private_relay IP Ranges
-# Updated: 2026-06-14 03:22:04
+# Updated: 2026-06-25 03:22:18
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -8,15 +8,13 @@
 # UFW allow rules for apple_private_relay
 
 ufw allow from 104.28.29.46/32
-ufw allow from 104.28.125.86/32
-ufw allow from 104.28.125.87/32
+ufw allow from 104.28.125.86/31
 ufw allow from 140.248.20.18/31
 ufw allow from 146.75.136.18/31
 ufw allow from 146.75.190.20/31
 ufw allow from 146.75.213.2/31
 ufw allow from 172.225.60.96/28
-ufw allow from 172.225.62.64/27
-ufw allow from 172.225.62.96/27
+ufw allow from 172.225.62.64/26
 ufw allow from 172.225.156.112/28
 ufw allow from 172.225.156.208/28
 ufw allow from 172.225.231.16/28
@@ -25,28 +23,16 @@ ufw allow from 172.225.254.48/28
 ufw allow from 2606:54c0:4ec8::/45
 ufw allow from 2606:54c3:0:7b3::/64
 ufw allow from 2a02:26f7:e380:4000::/64
-ufw allow from 2a02:26f7:e380:cec0::/64
-ufw allow from 2a02:26f7:e380:cec1::/64
-ufw allow from 2a02:26f7:e380:cec2::/64
-ufw allow from 2a02:26f7:e380:cec3::/64
+ufw allow from 2a02:26f7:e380:cec0::/62
 ufw allow from 2a02:26f7:e381:4000::/64
 ufw allow from 2a02:26f7:e384:4000::/64
-ufw allow from 2a02:26f7:e384:cec0::/64
-ufw allow from 2a02:26f7:e384:cec1::/64
-ufw allow from 2a02:26f7:e384:cec2::/64
-ufw allow from 2a02:26f7:e384:cec3::/64
+ufw allow from 2a02:26f7:e384:cec0::/62
 ufw allow from 2a02:26f7:e385:4000::/64
 ufw allow from 2a02:26f7:e388:4000::/64
-ufw allow from 2a02:26f7:e388:cec0::/64
-ufw allow from 2a02:26f7:e388:cec1::/64
-ufw allow from 2a02:26f7:e388:cec2::/64
-ufw allow from 2a02:26f7:e388:cec3::/64
+ufw allow from 2a02:26f7:e388:cec0::/62
 ufw allow from 2a02:26f7:e389:4000::/64
 ufw allow from 2a02:26f7:e38c:4000::/64
-ufw allow from 2a02:26f7:e38c:cec0::/64
-ufw allow from 2a02:26f7:e38c:cec1::/64
-ufw allow from 2a02:26f7:e38c:cec2::/64
-ufw allow from 2a02:26f7:e38c:cec3::/64
+ufw allow from 2a02:26f7:e38c:cec0::/62
 ufw allow from 2a02:26f7:e38d:4000::/64
 ufw allow from 2a02:26f7:fb40:4000::/64
 ufw allow from 2a02:26f7:fb41:4000::/64

@@ -1,5 +1,5 @@
 # linode IP ranges - ipset restore format (hash:net)
-# Version: 1 | Generated: 2026-06-24 | Last changed: 2026-06-18
+# Version: 1 | Generated: 2026-06-25 | Last changed: 2026-06-18
 # IPv4: 241 merged subnets, 1351424 unique IPs
 # IPv6: 40 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses

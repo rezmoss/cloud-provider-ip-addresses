@@ -1,6 +1,6 @@
 #!/bin/bash
 # Datadog IP Ranges
-# Updated: 2026-06-14 03:22:17
+# Updated: 2026-06-25 03:23:22
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -31,14 +31,6 @@ iptables -A INPUT -s 3.210.147.169/32 -j ACCEPT
 iptables -A INPUT -s 3.220.254.141/32 -j ACCEPT
 iptables -A INPUT -s 3.227.186.226/32 -j ACCEPT
 iptables -A INPUT -s 3.229.242.89/32 -j ACCEPT
-iptables -A INPUT -s 3.233.144.0/20 -j ACCEPT
-iptables -A INPUT -s 3.233.144.0/20 -j ACCEPT
-iptables -A INPUT -s 3.233.144.0/20 -j ACCEPT
-iptables -A INPUT -s 3.233.144.0/20 -j ACCEPT
-iptables -A INPUT -s 3.233.144.0/20 -j ACCEPT
-iptables -A INPUT -s 3.233.144.0/20 -j ACCEPT
-iptables -A INPUT -s 3.233.144.0/20 -j ACCEPT
-iptables -A INPUT -s 3.233.144.0/20 -j ACCEPT
 iptables -A INPUT -s 3.233.144.0/20 -j ACCEPT
 iptables -A INPUT -s 5.60.130.112/29 -j ACCEPT
 iptables -A INPUT -s 13.48.150.244/32 -j ACCEPT
@@ -164,12 +156,4 @@ iptables -A INPUT -s 108.137.188.57/32 -j ACCEPT
 iptables -A INPUT -s 157.241.36.106/32 -j ACCEPT
 iptables -A INPUT -s 157.241.93.102/32 -j ACCEPT
 iptables -A INPUT -s 174.129.34.172/32 -j ACCEPT
-ip6tables -A INPUT -s 2600:1f18:24e6:b900::/56 -j ACCEPT
-ip6tables -A INPUT -s 2600:1f18:24e6:b900::/56 -j ACCEPT
-ip6tables -A INPUT -s 2600:1f18:24e6:b900::/56 -j ACCEPT
-ip6tables -A INPUT -s 2600:1f18:24e6:b900::/56 -j ACCEPT
-ip6tables -A INPUT -s 2600:1f18:24e6:b900::/56 -j ACCEPT
-ip6tables -A INPUT -s 2600:1f18:24e6:b900::/56 -j ACCEPT
-ip6tables -A INPUT -s 2600:1f18:24e6:b900::/56 -j ACCEPT
-ip6tables -A INPUT -s 2600:1f18:24e6:b900::/56 -j ACCEPT
 ip6tables -A INPUT -s 2600:1f18:24e6:b900::/56 -j ACCEPT

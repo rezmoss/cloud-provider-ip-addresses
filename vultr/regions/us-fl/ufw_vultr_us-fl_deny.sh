@@ -1,6 +1,6 @@
 #!/bin/bash
 # Vultr IP Ranges
-# Updated: 2026-06-17 03:21:11
+# Updated: 2026-06-25 03:23:17
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -18,8 +18,7 @@ ufw deny from 45.77.192.0/21
 ufw deny from 96.30.208.0/20
 ufw deny from 104.156.240.0/21
 ufw deny from 104.207.144.0/22
-ufw deny from 104.238.136.0/23
-ufw deny from 104.238.138.0/23
+ufw deny from 104.238.136.0/22
 ufw deny from 108.61.120.0/24
 ufw deny from 108.61.226.0/24
 ufw deny from 108.61.249.0/24

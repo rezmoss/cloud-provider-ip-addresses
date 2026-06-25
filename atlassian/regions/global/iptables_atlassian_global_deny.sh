@@ -1,6 +1,6 @@
 #!/bin/bash
 # Atlassian IP Ranges
-# Updated: 2026-06-14 03:22:17
+# Updated: 2026-06-25 03:23:21
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -31,12 +31,10 @@ iptables -A INPUT -s 54.187.228.111/32 -j DROP
 iptables -A INPUT -s 76.223.144.220/31 -j DROP
 iptables -A INPUT -s 76.223.147.128/25 -j DROP
 iptables -A INPUT -s 76.223.176.0/20 -j DROP
-iptables -A INPUT -s 104.192.138.0/24 -j DROP
-iptables -A INPUT -s 104.192.139.0/24 -j DROP
+iptables -A INPUT -s 104.192.138.0/23 -j DROP
 iptables -A INPUT -s 104.192.141.0/24 -j DROP
 iptables -A INPUT -s 167.89.0.0/17 -j DROP
 iptables -A INPUT -s 168.245.0.0/17 -j DROP
 iptables -A INPUT -s 216.221.175.128/25 -j DROP
 ip6tables -A INPUT -s 2401:1d80:32fd::/48 -j DROP
-ip6tables -A INPUT -s 2401:1d80:32fe::/48 -j DROP
-ip6tables -A INPUT -s 2401:1d80:32ff::/48 -j DROP
+ip6tables -A INPUT -s 2401:1d80:32fe::/47 -j DROP

@@ -1,82 +1,38 @@
 #!/bin/bash
 # Apple_private_relay IP Ranges
-# Updated: 2026-06-14 03:22:11
+# Updated: 2026-06-25 03:22:57
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
 # Updates daily at 02:00 UTC
 # iptables deny rules for apple_private_relay
 
-iptables -A INPUT -s 104.28.47.196/32 -j DROP
-iptables -A INPUT -s 104.28.47.197/32 -j DROP
-iptables -A INPUT -s 104.28.47.198/32 -j DROP
-iptables -A INPUT -s 104.28.47.199/32 -j DROP
-iptables -A INPUT -s 104.28.47.200/32 -j DROP
-iptables -A INPUT -s 104.28.47.201/32 -j DROP
-iptables -A INPUT -s 104.28.47.202/32 -j DROP
-iptables -A INPUT -s 104.28.47.203/32 -j DROP
-iptables -A INPUT -s 104.28.47.204/32 -j DROP
-iptables -A INPUT -s 104.28.47.205/32 -j DROP
-iptables -A INPUT -s 104.28.59.126/32 -j DROP
-iptables -A INPUT -s 104.28.59.127/32 -j DROP
-iptables -A INPUT -s 104.28.59.128/32 -j DROP
-iptables -A INPUT -s 104.28.59.129/32 -j DROP
-iptables -A INPUT -s 104.28.59.130/32 -j DROP
-iptables -A INPUT -s 104.28.59.131/32 -j DROP
-iptables -A INPUT -s 104.28.59.132/32 -j DROP
-iptables -A INPUT -s 104.28.59.133/32 -j DROP
-iptables -A INPUT -s 104.28.59.134/32 -j DROP
-iptables -A INPUT -s 104.28.59.135/32 -j DROP
+iptables -A INPUT -s 104.28.47.196/30 -j DROP
+iptables -A INPUT -s 104.28.47.200/30 -j DROP
+iptables -A INPUT -s 104.28.47.204/31 -j DROP
+iptables -A INPUT -s 104.28.59.126/31 -j DROP
+iptables -A INPUT -s 104.28.59.128/29 -j DROP
 iptables -A INPUT -s 104.28.63.193/32 -j DROP
-iptables -A INPUT -s 104.28.63.194/32 -j DROP
-iptables -A INPUT -s 104.28.63.195/32 -j DROP
-iptables -A INPUT -s 104.28.63.196/32 -j DROP
-iptables -A INPUT -s 104.28.63.197/32 -j DROP
-iptables -A INPUT -s 104.28.63.198/32 -j DROP
-iptables -A INPUT -s 104.28.63.199/32 -j DROP
-iptables -A INPUT -s 104.28.63.200/32 -j DROP
-iptables -A INPUT -s 104.28.63.201/32 -j DROP
+iptables -A INPUT -s 104.28.63.194/31 -j DROP
+iptables -A INPUT -s 104.28.63.196/30 -j DROP
+iptables -A INPUT -s 104.28.63.200/31 -j DROP
 iptables -A INPUT -s 104.28.63.202/32 -j DROP
-iptables -A INPUT -s 104.28.113.184/32 -j DROP
-iptables -A INPUT -s 104.28.113.185/32 -j DROP
-iptables -A INPUT -s 104.28.113.186/32 -j DROP
-iptables -A INPUT -s 104.28.113.187/32 -j DROP
-iptables -A INPUT -s 104.28.113.188/32 -j DROP
-iptables -A INPUT -s 104.28.113.189/32 -j DROP
-iptables -A INPUT -s 104.28.113.190/32 -j DROP
-iptables -A INPUT -s 104.28.113.191/32 -j DROP
-iptables -A INPUT -s 104.28.113.192/32 -j DROP
-iptables -A INPUT -s 104.28.113.193/32 -j DROP
-iptables -A INPUT -s 104.28.115.48/32 -j DROP
-iptables -A INPUT -s 104.28.115.49/32 -j DROP
-iptables -A INPUT -s 104.28.115.50/32 -j DROP
-iptables -A INPUT -s 104.28.115.51/32 -j DROP
-iptables -A INPUT -s 104.28.115.52/32 -j DROP
-iptables -A INPUT -s 104.28.115.53/32 -j DROP
-iptables -A INPUT -s 104.28.115.54/32 -j DROP
-iptables -A INPUT -s 104.28.115.55/32 -j DROP
-iptables -A INPUT -s 104.28.115.56/32 -j DROP
-iptables -A INPUT -s 104.28.115.57/32 -j DROP
+iptables -A INPUT -s 104.28.113.184/29 -j DROP
+iptables -A INPUT -s 104.28.113.192/31 -j DROP
+iptables -A INPUT -s 104.28.115.48/29 -j DROP
+iptables -A INPUT -s 104.28.115.56/31 -j DROP
 iptables -A INPUT -s 104.28.136.185/32 -j DROP
-iptables -A INPUT -s 104.28.136.186/32 -j DROP
-iptables -A INPUT -s 104.28.136.187/32 -j DROP
-iptables -A INPUT -s 104.28.136.188/32 -j DROP
-iptables -A INPUT -s 104.28.136.189/32 -j DROP
-iptables -A INPUT -s 104.28.138.32/32 -j DROP
-iptables -A INPUT -s 104.28.138.33/32 -j DROP
+iptables -A INPUT -s 104.28.136.186/31 -j DROP
+iptables -A INPUT -s 104.28.136.188/31 -j DROP
+iptables -A INPUT -s 104.28.138.32/31 -j DROP
 iptables -A INPUT -s 104.28.138.43/32 -j DROP
 iptables -A INPUT -s 104.28.142.15/32 -j DROP
 iptables -A INPUT -s 104.28.142.16/32 -j DROP
 iptables -A INPUT -s 104.28.143.66/32 -j DROP
 iptables -A INPUT -s 104.28.143.83/32 -j DROP
-iptables -A INPUT -s 104.28.144.2/32 -j DROP
-iptables -A INPUT -s 104.28.144.3/32 -j DROP
-iptables -A INPUT -s 104.28.144.4/32 -j DROP
-iptables -A INPUT -s 104.28.144.5/32 -j DROP
-iptables -A INPUT -s 104.28.144.6/32 -j DROP
-iptables -A INPUT -s 104.28.144.7/32 -j DROP
-iptables -A INPUT -s 104.28.144.8/32 -j DROP
-iptables -A INPUT -s 104.28.144.9/32 -j DROP
+iptables -A INPUT -s 104.28.144.2/31 -j DROP
+iptables -A INPUT -s 104.28.144.4/30 -j DROP
+iptables -A INPUT -s 104.28.144.8/31 -j DROP
 iptables -A INPUT -s 104.28.149.207/32 -j DROP
 iptables -A INPUT -s 104.28.149.208/32 -j DROP
 iptables -A INPUT -s 104.28.150.196/32 -j DROP

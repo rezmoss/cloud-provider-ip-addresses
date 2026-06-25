@@ -1,6 +1,6 @@
 #!/bin/bash
 # Apple_private_relay IP Ranges
-# Updated: 2026-06-14 03:22:09
+# Updated: 2026-06-25 03:22:45
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -19,10 +19,8 @@ ufw allow from 104.28.80.189/32
 ufw allow from 104.28.80.190/32
 ufw allow from 104.28.80.195/32
 ufw allow from 104.28.80.196/32
-ufw allow from 104.28.106.138/32
-ufw allow from 104.28.106.139/32
-ufw allow from 104.28.106.140/32
-ufw allow from 104.28.106.141/32
+ufw allow from 104.28.106.138/31
+ufw allow from 104.28.106.140/31
 ufw allow from 2606:54c0:4f58::/45
 ufw allow from 2606:54c0:4f60::/45
 ufw allow from 2606:54c3:0:51::/64

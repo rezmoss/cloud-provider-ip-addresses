@@ -1,6 +1,6 @@
 #!/bin/bash
 # Vultr IP Ranges
-# Updated: 2026-06-14 03:22:15
+# Updated: 2026-06-25 03:23:17
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -9,12 +9,10 @@
 
 iptables -A INPUT -s 43.224.32.0/22 -j ACCEPT
 iptables -A INPUT -s 45.32.8.0/21 -j ACCEPT
-iptables -A INPUT -s 45.32.16.0/21 -j ACCEPT
-iptables -A INPUT -s 45.32.24.0/21 -j ACCEPT
+iptables -A INPUT -s 45.32.16.0/20 -j ACCEPT
 iptables -A INPUT -s 45.32.32.0/19 -j ACCEPT
 iptables -A INPUT -s 45.32.248.0/21 -j ACCEPT
-iptables -A INPUT -s 45.63.120.0/22 -j ACCEPT
-iptables -A INPUT -s 45.63.124.0/22 -j ACCEPT
+iptables -A INPUT -s 45.63.120.0/21 -j ACCEPT
 iptables -A INPUT -s 45.76.48.0/21 -j ACCEPT
 iptables -A INPUT -s 45.76.96.0/20 -j ACCEPT
 iptables -A INPUT -s 45.76.192.0/19 -j ACCEPT
@@ -41,10 +39,8 @@ iptables -A INPUT -s 139.180.192.0/20 -j ACCEPT
 iptables -A INPUT -s 149.28.16.0/20 -j ACCEPT
 iptables -A INPUT -s 167.179.64.0/18 -j ACCEPT
 iptables -A INPUT -s 173.199.81.0/24 -j ACCEPT
-iptables -A INPUT -s 198.13.32.0/20 -j ACCEPT
-iptables -A INPUT -s 198.13.48.0/20 -j ACCEPT
-iptables -A INPUT -s 202.182.96.0/20 -j ACCEPT
-iptables -A INPUT -s 202.182.112.0/20 -j ACCEPT
+iptables -A INPUT -s 198.13.32.0/19 -j ACCEPT
+iptables -A INPUT -s 202.182.96.0/19 -j ACCEPT
 iptables -A INPUT -s 207.148.88.0/21 -j ACCEPT
 iptables -A INPUT -s 207.148.96.0/20 -j ACCEPT
 iptables -A INPUT -s 207.148.112.0/22 -j ACCEPT

@@ -1,6 +1,6 @@
 #!/bin/bash
 # Atlassian IP Ranges
-# Updated: 2026-06-18 03:21:15
+# Updated: 2026-06-25 03:23:21
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -23,7 +23,6 @@ iptables -A INPUT -s 44.199.3.254/32 -j ACCEPT
 iptables -A INPUT -s 44.199.45.64/32 -j ACCEPT
 iptables -A INPUT -s 44.199.127.226/32 -j ACCEPT
 iptables -A INPUT -s 44.220.40.128/25 -j ACCEPT
-iptables -A INPUT -s 44.220.40.160/28 -j ACCEPT
 iptables -A INPUT -s 52.54.90.98/32 -j ACCEPT
 iptables -A INPUT -s 52.72.137.240/32 -j ACCEPT
 iptables -A INPUT -s 52.202.195.162/32 -j ACCEPT
@@ -31,12 +30,8 @@ iptables -A INPUT -s 52.203.14.55/32 -j ACCEPT
 iptables -A INPUT -s 52.204.96.37/32 -j ACCEPT
 iptables -A INPUT -s 52.205.184.192/32 -j ACCEPT
 iptables -A INPUT -s 104.192.142.0/24 -j ACCEPT
-iptables -A INPUT -s 104.192.142.224/28 -j ACCEPT
-iptables -A INPUT -s 104.192.142.240/28 -j ACCEPT
 iptables -A INPUT -s 174.129.205.191/32 -j ACCEPT
 ip6tables -A INPUT -s 2401:1d80:321c:3::/64 -j ACCEPT
-ip6tables -A INPUT -s 2401:1d80:321c:4::/64 -j ACCEPT
-ip6tables -A INPUT -s 2401:1d80:321c:5::/64 -j ACCEPT
-ip6tables -A INPUT -s 2600:1f18:2146:e304::/64 -j ACCEPT
-ip6tables -A INPUT -s 2600:1f18:2146:e305::/64 -j ACCEPT
+ip6tables -A INPUT -s 2401:1d80:321c:4::/63 -j ACCEPT
+ip6tables -A INPUT -s 2600:1f18:2146:e304::/63 -j ACCEPT
 ip6tables -A INPUT -s 2600:1f18:2146:e306::/64 -j ACCEPT

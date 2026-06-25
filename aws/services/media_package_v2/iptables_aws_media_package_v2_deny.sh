@@ -1,56 +1,41 @@
 #!/bin/bash
 # Aws IP Ranges
-# Updated: 2026-06-14 03:20:57
+# Updated: 2026-06-25 03:18:33
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
 # Updates daily at 02:00 UTC
 # iptables deny rules for aws
 
-iptables -A INPUT -s 3.27.127.176/29 -j DROP
-iptables -A INPUT -s 3.27.127.184/29 -j DROP
-iptables -A INPUT -s 3.77.79.224/29 -j DROP
-iptables -A INPUT -s 3.77.79.232/29 -j DROP
-iptables -A INPUT -s 3.101.226.80/29 -j DROP
-iptables -A INPUT -s 3.101.226.88/29 -j DROP
-iptables -A INPUT -s 3.145.246.48/29 -j DROP
-iptables -A INPUT -s 3.145.246.56/29 -j DROP
+iptables -A INPUT -s 3.27.127.176/28 -j DROP
+iptables -A INPUT -s 3.77.79.224/28 -j DROP
+iptables -A INPUT -s 3.101.226.80/28 -j DROP
+iptables -A INPUT -s 3.145.246.48/28 -j DROP
 iptables -A INPUT -s 3.146.72.40/29 -j DROP
 iptables -A INPUT -s 3.149.13.208/29 -j DROP
-iptables -A INPUT -s 3.253.189.64/29 -j DROP
-iptables -A INPUT -s 3.253.189.72/29 -j DROP
-iptables -A INPUT -s 13.39.141.160/29 -j DROP
-iptables -A INPUT -s 13.39.141.168/29 -j DROP
-iptables -A INPUT -s 13.42.133.192/29 -j DROP
-iptables -A INPUT -s 13.42.133.200/29 -j DROP
+iptables -A INPUT -s 3.253.189.64/28 -j DROP
+iptables -A INPUT -s 13.39.141.160/28 -j DROP
+iptables -A INPUT -s 13.42.133.192/28 -j DROP
 iptables -A INPUT -s 13.50.179.168/29 -j DROP
 iptables -A INPUT -s 13.50.179.176/29 -j DROP
-iptables -A INPUT -s 13.200.7.128/29 -j DROP
-iptables -A INPUT -s 13.200.7.136/29 -j DROP
+iptables -A INPUT -s 13.200.7.128/28 -j DROP
 iptables -A INPUT -s 15.156.152.184/29 -j DROP
 iptables -A INPUT -s 15.156.152.192/29 -j DROP
-iptables -A INPUT -s 15.168.105.144/29 -j DROP
-iptables -A INPUT -s 15.168.105.152/29 -j DROP
-iptables -A INPUT -s 15.229.120.48/29 -j DROP
-iptables -A INPUT -s 15.229.120.56/29 -j DROP
+iptables -A INPUT -s 15.168.105.144/28 -j DROP
+iptables -A INPUT -s 15.229.120.48/28 -j DROP
 iptables -A INPUT -s 16.51.86.8/29 -j DROP
 iptables -A INPUT -s 16.51.86.16/29 -j DROP
-iptables -A INPUT -s 16.60.228.160/29 -j DROP
-iptables -A INPUT -s 16.60.228.168/29 -j DROP
-iptables -A INPUT -s 16.146.161.48/29 -j DROP
-iptables -A INPUT -s 16.146.161.56/29 -j DROP
-iptables -A INPUT -s 18.61.132.240/29 -j DROP
-iptables -A INPUT -s 18.61.132.248/29 -j DROP
+iptables -A INPUT -s 16.60.228.160/28 -j DROP
+iptables -A INPUT -s 16.146.161.48/28 -j DROP
+iptables -A INPUT -s 18.61.132.240/28 -j DROP
 iptables -A INPUT -s 18.143.206.152/29 -j DROP
 iptables -A INPUT -s 18.143.206.160/29 -j DROP
 iptables -A INPUT -s 18.246.107.8/29 -j DROP
 iptables -A INPUT -s 18.246.107.128/29 -j DROP
 iptables -A INPUT -s 32.192.104.24/29 -j DROP
 iptables -A INPUT -s 32.192.104.128/29 -j DROP
-iptables -A INPUT -s 35.159.219.240/29 -j DROP
-iptables -A INPUT -s 35.159.219.248/29 -j DROP
-iptables -A INPUT -s 40.172.11.96/29 -j DROP
-iptables -A INPUT -s 40.172.11.104/29 -j DROP
+iptables -A INPUT -s 35.159.219.240/28 -j DROP
+iptables -A INPUT -s 40.172.11.96/28 -j DROP
 iptables -A INPUT -s 43.201.155.152/29 -j DROP
 iptables -A INPUT -s 43.201.155.160/29 -j DROP
 iptables -A INPUT -s 43.207.179.168/29 -j DROP

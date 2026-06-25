@@ -1,56 +1,41 @@
 #!/bin/bash
 # Aws IP Ranges
-# Updated: 2026-06-14 03:20:57
+# Updated: 2026-06-25 03:18:33
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
 # Updates daily at 02:00 UTC
 # UFW allow rules for aws
 
-ufw allow from 3.27.127.176/29
-ufw allow from 3.27.127.184/29
-ufw allow from 3.77.79.224/29
-ufw allow from 3.77.79.232/29
-ufw allow from 3.101.226.80/29
-ufw allow from 3.101.226.88/29
-ufw allow from 3.145.246.48/29
-ufw allow from 3.145.246.56/29
+ufw allow from 3.27.127.176/28
+ufw allow from 3.77.79.224/28
+ufw allow from 3.101.226.80/28
+ufw allow from 3.145.246.48/28
 ufw allow from 3.146.72.40/29
 ufw allow from 3.149.13.208/29
-ufw allow from 3.253.189.64/29
-ufw allow from 3.253.189.72/29
-ufw allow from 13.39.141.160/29
-ufw allow from 13.39.141.168/29
-ufw allow from 13.42.133.192/29
-ufw allow from 13.42.133.200/29
+ufw allow from 3.253.189.64/28
+ufw allow from 13.39.141.160/28
+ufw allow from 13.42.133.192/28
 ufw allow from 13.50.179.168/29
 ufw allow from 13.50.179.176/29
-ufw allow from 13.200.7.128/29
-ufw allow from 13.200.7.136/29
+ufw allow from 13.200.7.128/28
 ufw allow from 15.156.152.184/29
 ufw allow from 15.156.152.192/29
-ufw allow from 15.168.105.144/29
-ufw allow from 15.168.105.152/29
-ufw allow from 15.229.120.48/29
-ufw allow from 15.229.120.56/29
+ufw allow from 15.168.105.144/28
+ufw allow from 15.229.120.48/28
 ufw allow from 16.51.86.8/29
 ufw allow from 16.51.86.16/29
-ufw allow from 16.60.228.160/29
-ufw allow from 16.60.228.168/29
-ufw allow from 16.146.161.48/29
-ufw allow from 16.146.161.56/29
-ufw allow from 18.61.132.240/29
-ufw allow from 18.61.132.248/29
+ufw allow from 16.60.228.160/28
+ufw allow from 16.146.161.48/28
+ufw allow from 18.61.132.240/28
 ufw allow from 18.143.206.152/29
 ufw allow from 18.143.206.160/29
 ufw allow from 18.246.107.8/29
 ufw allow from 18.246.107.128/29
 ufw allow from 32.192.104.24/29
 ufw allow from 32.192.104.128/29
-ufw allow from 35.159.219.240/29
-ufw allow from 35.159.219.248/29
-ufw allow from 40.172.11.96/29
-ufw allow from 40.172.11.104/29
+ufw allow from 35.159.219.240/28
+ufw allow from 40.172.11.96/28
 ufw allow from 43.201.155.152/29
 ufw allow from 43.201.155.160/29
 ufw allow from 43.207.179.168/29

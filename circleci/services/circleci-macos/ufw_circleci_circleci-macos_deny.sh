@@ -1,6 +1,6 @@
 #!/bin/bash
 # Circleci IP Ranges
-# Updated: 2026-06-14 03:22:17
+# Updated: 2026-06-25 03:23:21
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -8,15 +8,10 @@
 # UFW deny rules for circleci
 
 ufw deny from 18.97.4.0/24
-ufw deny from 18.97.6.0/24
-ufw deny from 18.97.7.0/24
+ufw deny from 18.97.6.0/23
 ufw deny from 38.23.41.0/24
-ufw deny from 38.23.42.0/24
-ufw deny from 38.23.43.0/24
-ufw deny from 38.23.48.0/24
-ufw deny from 38.23.49.0/24
-ufw deny from 38.23.50.0/24
-ufw deny from 38.23.51.0/24
+ufw deny from 38.23.42.0/23
+ufw deny from 38.23.48.0/22
 ufw deny from 38.23.52.0/24
 ufw deny from 98.80.165.0/24
 ufw deny from 100.27.248.128/25

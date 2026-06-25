@@ -1,42 +1,23 @@
 #!/bin/bash
 # Apple_private_relay IP Ranges
-# Updated: 2026-06-14 03:22:05
+# Updated: 2026-06-25 03:22:18
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
 # Updates daily at 02:00 UTC
 # UFW deny rules for apple_private_relay
 
-ufw deny from 104.28.30.0/32
-ufw deny from 104.28.30.1/32
-ufw deny from 104.28.30.2/32
-ufw deny from 104.28.30.3/32
-ufw deny from 104.28.30.10/32
-ufw deny from 104.28.30.11/32
-ufw deny from 104.28.40.0/32
-ufw deny from 104.28.40.1/32
-ufw deny from 104.28.40.2/32
-ufw deny from 104.28.40.3/32
-ufw deny from 104.28.40.10/32
-ufw deny from 104.28.40.11/32
-ufw deny from 104.28.42.2/32
-ufw deny from 104.28.42.3/32
-ufw deny from 104.28.42.4/32
-ufw deny from 104.28.42.5/32
-ufw deny from 104.28.42.12/32
-ufw deny from 104.28.42.13/32
-ufw deny from 104.28.54.0/32
-ufw deny from 104.28.54.1/32
-ufw deny from 104.28.54.2/32
-ufw deny from 104.28.54.3/32
-ufw deny from 104.28.54.10/32
-ufw deny from 104.28.54.11/32
-ufw deny from 104.28.62.0/32
-ufw deny from 104.28.62.1/32
-ufw deny from 104.28.86.0/32
-ufw deny from 104.28.86.1/32
-ufw deny from 104.28.86.2/32
-ufw deny from 104.28.86.3/32
+ufw deny from 104.28.30.0/30
+ufw deny from 104.28.30.10/31
+ufw deny from 104.28.40.0/30
+ufw deny from 104.28.40.10/31
+ufw deny from 104.28.42.2/31
+ufw deny from 104.28.42.4/31
+ufw deny from 104.28.42.12/31
+ufw deny from 104.28.54.0/30
+ufw deny from 104.28.54.10/31
+ufw deny from 104.28.62.0/31
+ufw deny from 104.28.86.0/30
 ufw deny from 172.225.188.240/31
 ufw deny from 172.225.190.96/27
 ufw deny from 172.225.229.32/31
@@ -44,16 +25,14 @@ ufw deny from 172.225.233.32/31
 ufw deny from 172.225.252.0/27
 ufw deny from 172.225.253.64/31
 ufw deny from 2606:54c0:4a8::/45
-ufw deny from 2606:54c0:4b0::/45
-ufw deny from 2606:54c0:4b8::/45
+ufw deny from 2606:54c0:4b0::/44
 ufw deny from 2606:54c3:0:347::/64
 ufw deny from 2606:54c3:0:b88::/64
 ufw deny from 2606:54c3:0:1a8b::/64
 ufw deny from 2a02:26f7:fb00::/54
 ufw deny from 2a02:26f7:fb00:500::/60
 ufw deny from 2a02:26f7:fb00:4000::/64
-ufw deny from 2a02:26f7:fb00:4140::/64
-ufw deny from 2a02:26f7:fb00:4141::/64
+ufw deny from 2a02:26f7:fb00:4140::/63
 ufw deny from 2a02:26f7:fb00:4145::/64
 ufw deny from 2a02:26f7:fb00:4149::/64
 ufw deny from 2a02:26f7:fb00:414a::/64
@@ -69,8 +48,7 @@ ufw deny from 2a02:26f7:fb00:4165::/64
 ufw deny from 2a02:26f7:fb00:4168::/64
 ufw deny from 2a02:26f7:fb01:4000::/64
 ufw deny from 2a02:26f7:fb02:500::/60
-ufw deny from 2a02:26f7:fb02:4140::/64
-ufw deny from 2a02:26f7:fb02:4141::/64
+ufw deny from 2a02:26f7:fb02:4140::/63
 ufw deny from 2a02:26f7:fb02:4145::/64
 ufw deny from 2a02:26f7:fb02:4149::/64
 ufw deny from 2a02:26f7:fb02:414a::/64
@@ -85,8 +63,7 @@ ufw deny from 2a02:26f7:fb02:4161::/64
 ufw deny from 2a02:26f7:fb02:4165::/64
 ufw deny from 2a02:26f7:fb02:4168::/64
 ufw deny from 2a02:26f7:fb04:500::/60
-ufw deny from 2a02:26f7:fb04:4140::/64
-ufw deny from 2a02:26f7:fb04:4141::/64
+ufw deny from 2a02:26f7:fb04:4140::/63
 ufw deny from 2a02:26f7:fb04:4145::/64
 ufw deny from 2a02:26f7:fb04:4149::/64
 ufw deny from 2a02:26f7:fb04:414a::/64
@@ -103,8 +80,7 @@ ufw deny from 2a02:26f7:fb04:4168::/64
 ufw deny from 2a02:26f7:fb08::/54
 ufw deny from 2a02:26f7:fb08:500::/60
 ufw deny from 2a02:26f7:fb08:4000::/64
-ufw deny from 2a02:26f7:fb08:4140::/64
-ufw deny from 2a02:26f7:fb08:4141::/64
+ufw deny from 2a02:26f7:fb08:4140::/63
 ufw deny from 2a02:26f7:fb08:4145::/64
 ufw deny from 2a02:26f7:fb08:4149::/64
 ufw deny from 2a02:26f7:fb08:414a::/64
@@ -120,8 +96,6 @@ ufw deny from 2a02:26f7:fb08:4165::/64
 ufw deny from 2a02:26f7:fb08:4168::/64
 ufw deny from 2a02:26f7:fb09:4000::/64
 ufw deny from 2a09:bac2:4a8::/45
-ufw deny from 2a09:bac2:4b0::/45
-ufw deny from 2a09:bac2:4b8::/45
+ufw deny from 2a09:bac2:4b0::/44
 ufw deny from 2a09:bac3:4a8::/45
-ufw deny from 2a09:bac3:4b0::/45
-ufw deny from 2a09:bac3:4b8::/45
+ufw deny from 2a09:bac3:4b0::/44

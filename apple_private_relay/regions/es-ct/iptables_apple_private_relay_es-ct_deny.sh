@@ -1,6 +1,6 @@
 #!/bin/bash
 # Apple_private_relay IP Ranges
-# Updated: 2026-06-14 03:22:08
+# Updated: 2026-06-25 03:22:43
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -8,29 +8,18 @@
 # iptables deny rules for apple_private_relay
 
 iptables -A INPUT -s 104.28.34.163/32 -j DROP
-iptables -A INPUT -s 104.28.34.164/32 -j DROP
-iptables -A INPUT -s 104.28.34.165/32 -j DROP
-iptables -A INPUT -s 104.28.34.166/32 -j DROP
-iptables -A INPUT -s 104.28.34.167/32 -j DROP
-iptables -A INPUT -s 104.28.60.194/32 -j DROP
-iptables -A INPUT -s 104.28.60.195/32 -j DROP
-iptables -A INPUT -s 104.28.60.196/32 -j DROP
-iptables -A INPUT -s 104.28.60.197/32 -j DROP
+iptables -A INPUT -s 104.28.34.164/30 -j DROP
+iptables -A INPUT -s 104.28.60.194/31 -j DROP
+iptables -A INPUT -s 104.28.60.196/31 -j DROP
 iptables -A INPUT -s 104.28.60.198/32 -j DROP
 iptables -A INPUT -s 104.28.88.125/32 -j DROP
-iptables -A INPUT -s 104.28.88.126/32 -j DROP
-iptables -A INPUT -s 104.28.88.127/32 -j DROP
-iptables -A INPUT -s 104.28.88.128/32 -j DROP
-iptables -A INPUT -s 104.28.88.129/32 -j DROP
+iptables -A INPUT -s 104.28.88.126/31 -j DROP
+iptables -A INPUT -s 104.28.88.128/31 -j DROP
 iptables -A INPUT -s 104.28.96.149/32 -j DROP
-iptables -A INPUT -s 104.28.96.150/32 -j DROP
-iptables -A INPUT -s 104.28.96.151/32 -j DROP
-iptables -A INPUT -s 104.28.96.152/32 -j DROP
-iptables -A INPUT -s 104.28.96.153/32 -j DROP
-iptables -A INPUT -s 104.28.98.86/32 -j DROP
-iptables -A INPUT -s 104.28.98.87/32 -j DROP
-iptables -A INPUT -s 104.28.98.88/32 -j DROP
-iptables -A INPUT -s 104.28.98.89/32 -j DROP
+iptables -A INPUT -s 104.28.96.150/31 -j DROP
+iptables -A INPUT -s 104.28.96.152/31 -j DROP
+iptables -A INPUT -s 104.28.98.86/31 -j DROP
+iptables -A INPUT -s 104.28.98.88/31 -j DROP
 iptables -A INPUT -s 104.28.98.90/32 -j DROP
 iptables -A INPUT -s 104.28.146.193/32 -j DROP
 iptables -A INPUT -s 104.28.151.93/32 -j DROP

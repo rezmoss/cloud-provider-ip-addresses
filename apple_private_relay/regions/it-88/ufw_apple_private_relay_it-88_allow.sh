@@ -1,22 +1,17 @@
 #!/bin/bash
 # Apple_private_relay IP Ranges
-# Updated: 2026-06-14 03:22:08
+# Updated: 2026-06-25 03:22:43
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
 # Updates daily at 02:00 UTC
 # UFW allow rules for apple_private_relay
 
-ufw allow from 104.28.34.64/32
-ufw allow from 104.28.34.65/32
-ufw allow from 104.28.60.86/32
-ufw allow from 104.28.60.87/32
-ufw allow from 104.28.96.52/32
-ufw allow from 104.28.96.53/32
-ufw allow from 104.28.98.54/32
-ufw allow from 104.28.98.55/32
-ufw allow from 104.28.135.54/32
-ufw allow from 104.28.135.55/32
+ufw allow from 104.28.34.64/31
+ufw allow from 104.28.60.86/31
+ufw allow from 104.28.96.52/31
+ufw allow from 104.28.98.54/31
+ufw allow from 104.28.135.54/31
 ufw allow from 172.225.94.74/31
 ufw allow from 172.225.96.218/31
 ufw allow from 172.225.116.240/31
@@ -32,10 +27,7 @@ ufw allow from 2a02:26f7:bcc0:5e23::/64
 ufw allow from 2a02:26f7:bcc0:5e39::/64
 ufw allow from 2a02:26f7:bcc0:5e8b::/64
 ufw allow from 2a02:26f7:bcc0:5ee2::/64
-ufw allow from 2a02:26f7:bcc0:5f14::/64
-ufw allow from 2a02:26f7:bcc0:5f15::/64
-ufw allow from 2a02:26f7:bcc0:5f16::/64
-ufw allow from 2a02:26f7:bcc0:5f17::/64
+ufw allow from 2a02:26f7:bcc0:5f14::/62
 ufw allow from 2a02:26f7:bcc0:5f39::/64
 ufw allow from 2a02:26f7:bcc0:5f4e::/64
 ufw allow from 2a02:26f7:bcc0:5f5f::/64
@@ -50,10 +42,7 @@ ufw allow from 2a02:26f7:bcc4:5e23::/64
 ufw allow from 2a02:26f7:bcc4:5e39::/64
 ufw allow from 2a02:26f7:bcc4:5e8b::/64
 ufw allow from 2a02:26f7:bcc4:5ee2::/64
-ufw allow from 2a02:26f7:bcc4:5f14::/64
-ufw allow from 2a02:26f7:bcc4:5f15::/64
-ufw allow from 2a02:26f7:bcc4:5f16::/64
-ufw allow from 2a02:26f7:bcc4:5f17::/64
+ufw allow from 2a02:26f7:bcc4:5f14::/62
 ufw allow from 2a02:26f7:bcc4:5f39::/64
 ufw allow from 2a02:26f7:bcc4:5f4e::/64
 ufw allow from 2a02:26f7:bcc4:5f5f::/64
@@ -68,10 +57,7 @@ ufw allow from 2a02:26f7:bcc8:5e23::/64
 ufw allow from 2a02:26f7:bcc8:5e39::/64
 ufw allow from 2a02:26f7:bcc8:5e8b::/64
 ufw allow from 2a02:26f7:bcc8:5ee2::/64
-ufw allow from 2a02:26f7:bcc8:5f14::/64
-ufw allow from 2a02:26f7:bcc8:5f15::/64
-ufw allow from 2a02:26f7:bcc8:5f16::/64
-ufw allow from 2a02:26f7:bcc8:5f17::/64
+ufw allow from 2a02:26f7:bcc8:5f14::/62
 ufw allow from 2a02:26f7:bcc8:5f39::/64
 ufw allow from 2a02:26f7:bcc8:5f4e::/64
 ufw allow from 2a02:26f7:bcc8:5f5f::/64
@@ -86,10 +72,7 @@ ufw allow from 2a02:26f7:bccc:5e23::/64
 ufw allow from 2a02:26f7:bccc:5e39::/64
 ufw allow from 2a02:26f7:bccc:5e8b::/64
 ufw allow from 2a02:26f7:bccc:5ee2::/64
-ufw allow from 2a02:26f7:bccc:5f14::/64
-ufw allow from 2a02:26f7:bccc:5f15::/64
-ufw allow from 2a02:26f7:bccc:5f16::/64
-ufw allow from 2a02:26f7:bccc:5f17::/64
+ufw allow from 2a02:26f7:bccc:5f14::/62
 ufw allow from 2a02:26f7:bccc:5f39::/64
 ufw allow from 2a02:26f7:bccc:5f4e::/64
 ufw allow from 2a02:26f7:bccc:5f5f::/64
@@ -104,10 +87,7 @@ ufw allow from 2a02:26f7:bcd0:5e23::/64
 ufw allow from 2a02:26f7:bcd0:5e39::/64
 ufw allow from 2a02:26f7:bcd0:5e8b::/64
 ufw allow from 2a02:26f7:bcd0:5ee2::/64
-ufw allow from 2a02:26f7:bcd0:5f14::/64
-ufw allow from 2a02:26f7:bcd0:5f15::/64
-ufw allow from 2a02:26f7:bcd0:5f16::/64
-ufw allow from 2a02:26f7:bcd0:5f17::/64
+ufw allow from 2a02:26f7:bcd0:5f14::/62
 ufw allow from 2a02:26f7:bcd0:5f39::/64
 ufw allow from 2a02:26f7:bcd0:5f4e::/64
 ufw allow from 2a02:26f7:bcd0:5f5f::/64
@@ -122,10 +102,7 @@ ufw allow from 2a02:26f7:bcd1:5e23::/64
 ufw allow from 2a02:26f7:bcd1:5e39::/64
 ufw allow from 2a02:26f7:bcd1:5e8b::/64
 ufw allow from 2a02:26f7:bcd1:5ee2::/64
-ufw allow from 2a02:26f7:bcd1:5f14::/64
-ufw allow from 2a02:26f7:bcd1:5f15::/64
-ufw allow from 2a02:26f7:bcd1:5f16::/64
-ufw allow from 2a02:26f7:bcd1:5f17::/64
+ufw allow from 2a02:26f7:bcd1:5f14::/62
 ufw allow from 2a02:26f7:bcd1:5f39::/64
 ufw allow from 2a02:26f7:bcd1:5f4e::/64
 ufw allow from 2a02:26f7:bcd1:5f5f::/64

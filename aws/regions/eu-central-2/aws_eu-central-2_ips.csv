@@ -67,6 +67,12 @@ ip_address,ip_type,service,region
 56.241.0.0/16,IPv4,AMAZON,eu-central-2
 56.242.0.0/16,IPv4,AMAZON,eu-central-2
 56.243.0.0/16,IPv4,AMAZON,eu-central-2
+63.249.213.0/24,IPv4,AMAZON,eu-central-2
+63.249.213.0/24,IPv4,EC2,eu-central-2
+63.249.214.0/24,IPv4,AMAZON,eu-central-2
+63.249.214.0/24,IPv4,EC2,eu-central-2
+63.249.215.0/24,IPv4,AMAZON,eu-central-2
+63.249.215.0/24,IPv4,EC2,eu-central-2
 66.47.0.0/16,IPv4,AMAZON,eu-central-2
 70.232.96.0/20,IPv4,AMAZON,eu-central-2
 70.232.112.0/21,IPv4,AMAZON,eu-central-2

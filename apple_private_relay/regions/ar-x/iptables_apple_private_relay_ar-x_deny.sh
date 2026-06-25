@@ -1,6 +1,6 @@
 #!/bin/bash
 # Apple_private_relay IP Ranges
-# Updated: 2026-06-14 03:22:11
+# Updated: 2026-06-25 03:22:55
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -21,12 +21,10 @@ iptables -A INPUT -s 104.28.137.55/32 -j DROP
 iptables -A INPUT -s 104.28.144.20/32 -j DROP
 ip6tables -A INPUT -s 2606:54c0:d0::/45 -j DROP
 ip6tables -A INPUT -s 2606:54c3:0:635::/64 -j DROP
-ip6tables -A INPUT -s 2a02:26f7:d980:4046::/64 -j DROP
-ip6tables -A INPUT -s 2a02:26f7:d980:4047::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:d980:4046::/63 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d980:4049::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d980:4051::/64 -j DROP
-ip6tables -A INPUT -s 2a02:26f7:d980:405a::/64 -j DROP
-ip6tables -A INPUT -s 2a02:26f7:d980:405b::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:d980:405a::/63 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d980:4061::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d980:4072::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d980:ec03::/64 -j DROP
@@ -36,8 +34,7 @@ ip6tables -A INPUT -s 2a02:26f7:d980:ec0f::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d980:ec13::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d980:ec17::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d980:ec18::/64 -j DROP
-ip6tables -A INPUT -s 2a02:26f7:d980:ec1a::/64 -j DROP
-ip6tables -A INPUT -s 2a02:26f7:d980:ec1b::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:d980:ec1a::/63 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d980:ec29::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d980:ec2d::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d980:ec38::/64 -j DROP
@@ -49,12 +46,10 @@ ip6tables -A INPUT -s 2a02:26f7:d980:ec5e::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d980:ec6a::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d980:ec6f::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d980:ec72::/64 -j DROP
-ip6tables -A INPUT -s 2a02:26f7:d980:ec74::/64 -j DROP
-ip6tables -A INPUT -s 2a02:26f7:d980:ec75::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:d980:ec74::/63 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d980:ec79::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d980:ec7a::/64 -j DROP
-ip6tables -A INPUT -s 2a02:26f7:d980:ec8a::/64 -j DROP
-ip6tables -A INPUT -s 2a02:26f7:d980:ec8b::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:d980:ec8a::/63 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d980:ec8c::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d980:ec9b::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d980:eca0::/64 -j DROP
@@ -83,12 +78,10 @@ ip6tables -A INPUT -s 2a02:26f7:d980:ed41::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d980:ed4b::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d980:ed4d::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d980:ed51::/64 -j DROP
-ip6tables -A INPUT -s 2a02:26f7:d984:4046::/64 -j DROP
-ip6tables -A INPUT -s 2a02:26f7:d984:4047::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:d984:4046::/63 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d984:4049::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d984:4051::/64 -j DROP
-ip6tables -A INPUT -s 2a02:26f7:d984:405a::/64 -j DROP
-ip6tables -A INPUT -s 2a02:26f7:d984:405b::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:d984:405a::/63 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d984:4061::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d984:4072::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d984:ec03::/64 -j DROP
@@ -98,8 +91,7 @@ ip6tables -A INPUT -s 2a02:26f7:d984:ec0f::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d984:ec13::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d984:ec17::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d984:ec18::/64 -j DROP
-ip6tables -A INPUT -s 2a02:26f7:d984:ec1a::/64 -j DROP
-ip6tables -A INPUT -s 2a02:26f7:d984:ec1b::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:d984:ec1a::/63 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d984:ec29::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d984:ec2d::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d984:ec38::/64 -j DROP
@@ -111,12 +103,10 @@ ip6tables -A INPUT -s 2a02:26f7:d984:ec5e::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d984:ec6a::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d984:ec6f::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d984:ec72::/64 -j DROP
-ip6tables -A INPUT -s 2a02:26f7:d984:ec74::/64 -j DROP
-ip6tables -A INPUT -s 2a02:26f7:d984:ec75::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:d984:ec74::/63 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d984:ec79::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d984:ec7a::/64 -j DROP
-ip6tables -A INPUT -s 2a02:26f7:d984:ec8a::/64 -j DROP
-ip6tables -A INPUT -s 2a02:26f7:d984:ec8b::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:d984:ec8a::/63 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d984:ec8c::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d984:ec9b::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d984:eca0::/64 -j DROP
@@ -145,12 +135,10 @@ ip6tables -A INPUT -s 2a02:26f7:d984:ed41::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d984:ed4b::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d984:ed4d::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d984:ed51::/64 -j DROP
-ip6tables -A INPUT -s 2a02:26f7:d988:4046::/64 -j DROP
-ip6tables -A INPUT -s 2a02:26f7:d988:4047::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:d988:4046::/63 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d988:4049::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d988:4051::/64 -j DROP
-ip6tables -A INPUT -s 2a02:26f7:d988:405a::/64 -j DROP
-ip6tables -A INPUT -s 2a02:26f7:d988:405b::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:d988:405a::/63 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d988:4061::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d988:4072::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d988:ec03::/64 -j DROP
@@ -160,8 +148,7 @@ ip6tables -A INPUT -s 2a02:26f7:d988:ec0f::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d988:ec13::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d988:ec17::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d988:ec18::/64 -j DROP
-ip6tables -A INPUT -s 2a02:26f7:d988:ec1a::/64 -j DROP
-ip6tables -A INPUT -s 2a02:26f7:d988:ec1b::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:d988:ec1a::/63 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d988:ec29::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d988:ec2d::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d988:ec38::/64 -j DROP
@@ -173,12 +160,10 @@ ip6tables -A INPUT -s 2a02:26f7:d988:ec5e::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d988:ec6a::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d988:ec6f::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d988:ec72::/64 -j DROP
-ip6tables -A INPUT -s 2a02:26f7:d988:ec74::/64 -j DROP
-ip6tables -A INPUT -s 2a02:26f7:d988:ec75::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:d988:ec74::/63 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d988:ec79::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d988:ec7a::/64 -j DROP
-ip6tables -A INPUT -s 2a02:26f7:d988:ec8a::/64 -j DROP
-ip6tables -A INPUT -s 2a02:26f7:d988:ec8b::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:d988:ec8a::/63 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d988:ec8c::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d988:ec9b::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d988:eca0::/64 -j DROP
@@ -207,12 +192,10 @@ ip6tables -A INPUT -s 2a02:26f7:d988:ed41::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d988:ed4b::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d988:ed4d::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d988:ed51::/64 -j DROP
-ip6tables -A INPUT -s 2a02:26f7:d98c:4046::/64 -j DROP
-ip6tables -A INPUT -s 2a02:26f7:d98c:4047::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:d98c:4046::/63 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d98c:4049::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d98c:4051::/64 -j DROP
-ip6tables -A INPUT -s 2a02:26f7:d98c:405a::/64 -j DROP
-ip6tables -A INPUT -s 2a02:26f7:d98c:405b::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:d98c:405a::/63 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d98c:4061::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d98c:4072::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d98c:ec03::/64 -j DROP
@@ -222,8 +205,7 @@ ip6tables -A INPUT -s 2a02:26f7:d98c:ec0f::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d98c:ec13::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d98c:ec17::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d98c:ec18::/64 -j DROP
-ip6tables -A INPUT -s 2a02:26f7:d98c:ec1a::/64 -j DROP
-ip6tables -A INPUT -s 2a02:26f7:d98c:ec1b::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:d98c:ec1a::/63 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d98c:ec29::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d98c:ec2d::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d98c:ec38::/64 -j DROP
@@ -235,12 +217,10 @@ ip6tables -A INPUT -s 2a02:26f7:d98c:ec5e::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d98c:ec6a::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d98c:ec6f::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d98c:ec72::/64 -j DROP
-ip6tables -A INPUT -s 2a02:26f7:d98c:ec74::/64 -j DROP
-ip6tables -A INPUT -s 2a02:26f7:d98c:ec75::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:d98c:ec74::/63 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d98c:ec79::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d98c:ec7a::/64 -j DROP
-ip6tables -A INPUT -s 2a02:26f7:d98c:ec8a::/64 -j DROP
-ip6tables -A INPUT -s 2a02:26f7:d98c:ec8b::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:d98c:ec8a::/63 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d98c:ec8c::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d98c:ec9b::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:d98c:eca0::/64 -j DROP

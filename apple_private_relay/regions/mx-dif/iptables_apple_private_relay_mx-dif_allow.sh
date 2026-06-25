@@ -1,56 +1,31 @@
 #!/bin/bash
 # Apple_private_relay IP Ranges
-# Updated: 2026-06-14 03:22:12
+# Updated: 2026-06-25 03:23:03
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
 # Updates daily at 02:00 UTC
 # iptables allow rules for apple_private_relay
 
-iptables -A INPUT -s 104.28.50.16/32 -j ACCEPT
-iptables -A INPUT -s 104.28.50.17/32 -j ACCEPT
-iptables -A INPUT -s 104.28.50.18/32 -j ACCEPT
-iptables -A INPUT -s 104.28.50.19/32 -j ACCEPT
-iptables -A INPUT -s 104.28.50.20/32 -j ACCEPT
-iptables -A INPUT -s 104.28.50.21/32 -j ACCEPT
+iptables -A INPUT -s 104.28.50.16/30 -j ACCEPT
+iptables -A INPUT -s 104.28.50.20/31 -j ACCEPT
 iptables -A INPUT -s 104.28.50.22/32 -j ACCEPT
-iptables -A INPUT -s 104.28.91.76/32 -j ACCEPT
-iptables -A INPUT -s 104.28.91.77/32 -j ACCEPT
-iptables -A INPUT -s 104.28.91.78/32 -j ACCEPT
-iptables -A INPUT -s 104.28.91.79/32 -j ACCEPT
-iptables -A INPUT -s 104.28.91.80/32 -j ACCEPT
-iptables -A INPUT -s 104.28.91.81/32 -j ACCEPT
+iptables -A INPUT -s 104.28.91.76/30 -j ACCEPT
+iptables -A INPUT -s 104.28.91.80/31 -j ACCEPT
 iptables -A INPUT -s 104.28.91.82/32 -j ACCEPT
 iptables -A INPUT -s 104.28.92.103/32 -j ACCEPT
-iptables -A INPUT -s 104.28.92.104/32 -j ACCEPT
-iptables -A INPUT -s 104.28.92.105/32 -j ACCEPT
-iptables -A INPUT -s 104.28.92.106/32 -j ACCEPT
-iptables -A INPUT -s 104.28.92.107/32 -j ACCEPT
-iptables -A INPUT -s 104.28.92.108/32 -j ACCEPT
-iptables -A INPUT -s 104.28.92.109/32 -j ACCEPT
+iptables -A INPUT -s 104.28.92.104/30 -j ACCEPT
+iptables -A INPUT -s 104.28.92.108/31 -j ACCEPT
 iptables -A INPUT -s 104.28.94.103/32 -j ACCEPT
-iptables -A INPUT -s 104.28.94.104/32 -j ACCEPT
-iptables -A INPUT -s 104.28.94.105/32 -j ACCEPT
-iptables -A INPUT -s 104.28.94.106/32 -j ACCEPT
-iptables -A INPUT -s 104.28.94.107/32 -j ACCEPT
-iptables -A INPUT -s 104.28.94.108/32 -j ACCEPT
-iptables -A INPUT -s 104.28.94.109/32 -j ACCEPT
+iptables -A INPUT -s 104.28.94.104/30 -j ACCEPT
+iptables -A INPUT -s 104.28.94.108/31 -j ACCEPT
 iptables -A INPUT -s 104.28.111.25/32 -j ACCEPT
-iptables -A INPUT -s 104.28.111.26/32 -j ACCEPT
-iptables -A INPUT -s 104.28.111.27/32 -j ACCEPT
-iptables -A INPUT -s 104.28.111.28/32 -j ACCEPT
-iptables -A INPUT -s 104.28.111.29/32 -j ACCEPT
-iptables -A INPUT -s 104.28.111.30/32 -j ACCEPT
-iptables -A INPUT -s 104.28.111.31/32 -j ACCEPT
+iptables -A INPUT -s 104.28.111.26/31 -j ACCEPT
+iptables -A INPUT -s 104.28.111.28/30 -j ACCEPT
 iptables -A INPUT -s 104.28.126.103/32 -j ACCEPT
-iptables -A INPUT -s 104.28.126.104/32 -j ACCEPT
-iptables -A INPUT -s 104.28.126.105/32 -j ACCEPT
-iptables -A INPUT -s 104.28.126.106/32 -j ACCEPT
-iptables -A INPUT -s 104.28.126.107/32 -j ACCEPT
-iptables -A INPUT -s 104.28.126.108/32 -j ACCEPT
-iptables -A INPUT -s 104.28.126.109/32 -j ACCEPT
-iptables -A INPUT -s 104.28.144.106/32 -j ACCEPT
-iptables -A INPUT -s 104.28.144.107/32 -j ACCEPT
+iptables -A INPUT -s 104.28.126.104/30 -j ACCEPT
+iptables -A INPUT -s 104.28.126.108/31 -j ACCEPT
+iptables -A INPUT -s 104.28.144.106/31 -j ACCEPT
 iptables -A INPUT -s 104.28.144.108/32 -j ACCEPT
 iptables -A INPUT -s 172.224.232.0/28 -j ACCEPT
 iptables -A INPUT -s 172.224.232.20/30 -j ACCEPT

@@ -1,6 +1,6 @@
 # tor IP ranges - ipset restore format (hash:net)
-# Version: 7 | Generated: 2026-06-24 | Last changed: 2026-06-24
-# IPv4: 777 merged subnets, 1246 unique IPs
+# Version: 8 | Generated: 2026-06-25 | Last changed: 2026-06-25
+# IPv4: 787 merged subnets, 1256 unique IPs
 # IPv6: 0 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
@@ -18,6 +18,7 @@ add tor_v4 5.79.66.19/32
 add tor_v4 5.83.143.18/32
 add tor_v4 5.104.84.183/32
 add tor_v4 5.104.86.6/32
+add tor_v4 5.175.169.81/32
 add tor_v4 5.252.154.89/32
 add tor_v4 5.253.247.27/32
 add tor_v4 5.255.101.10/32
@@ -30,6 +31,7 @@ add tor_v4 5.255.117.56/32
 add tor_v4 5.255.118.151/32
 add tor_v4 5.255.118.218/32
 add tor_v4 5.255.119.76/32
+add tor_v4 5.255.121.82/32
 add tor_v4 5.255.123.158/32
 add tor_v4 5.255.123.164/32
 add tor_v4 5.255.125.196/32
@@ -151,6 +153,8 @@ add tor_v4 45.95.169.32/32
 add tor_v4 45.95.169.104/32
 add tor_v4 45.95.169.119/32
 add tor_v4 45.128.133.242/32
+add tor_v4 45.131.64.237/32
+add tor_v4 45.131.64.238/32
 add tor_v4 45.133.73.6/31
 add tor_v4 45.133.74.53/32
 add tor_v4 45.135.194.111/32
@@ -197,6 +201,7 @@ add tor_v4 64.190.76.12/31
 add tor_v4 64.190.76.14/32
 add tor_v4 64.190.113.221/32
 add tor_v4 64.204.180.233/32
+add tor_v4 64.204.180.237/32
 add tor_v4 65.38.109.3/32
 add tor_v4 65.87.7.53/32
 add tor_v4 66.78.40.35/32
@@ -332,7 +337,10 @@ add tor_v4 103.109.101.105/32
 add tor_v4 103.109.187.71/32
 add tor_v4 103.146.203.11/32
 add tor_v4 103.146.203.14/32
+add tor_v4 103.146.203.120/32
 add tor_v4 103.164.54.199/32
+add tor_v4 103.193.179.22/32
+add tor_v4 103.193.179.213/32
 add tor_v4 103.193.179.233/32
 add tor_v4 103.253.24.18/32
 add tor_v4 104.167.241.4/32
@@ -447,6 +455,7 @@ add tor_v4 147.90.234.115/32
 add tor_v4 147.90.234.116/31
 add tor_v4 147.90.234.118/32
 add tor_v4 147.90.234.159/32
+add tor_v4 147.90.234.167/32
 add tor_v4 147.90.234.213/32
 add tor_v4 147.90.234.214/32
 add tor_v4 147.90.235.15/32
@@ -476,6 +485,7 @@ add tor_v4 154.210.143.32/32
 add tor_v4 155.94.163.175/32
 add tor_v4 158.174.210.97/32
 add tor_v4 158.220.112.15/32
+add tor_v4 159.195.137.114/32
 add tor_v4 160.119.249.240/32
 add tor_v4 160.187.148.71/32
 add tor_v4 161.97.160.86/32
@@ -523,6 +533,7 @@ add tor_v4 176.65.142.198/32
 add tor_v4 176.65.148.3/32
 add tor_v4 176.65.148.133/32
 add tor_v4 176.65.149.96/32
+add tor_v4 176.100.36.18/32
 add tor_v4 176.118.193.33/32
 add tor_v4 176.121.81.51/32
 add tor_v4 178.17.170.225/32
@@ -702,7 +713,6 @@ add tor_v4 194.32.107.14/32
 add tor_v4 194.32.107.172/32
 add tor_v4 194.32.107.231/32
 add tor_v4 194.53.137.42/32
-add tor_v4 194.53.137.102/32
 add tor_v4 194.53.137.156/32
 add tor_v4 194.55.167.14/32
 add tor_v4 194.156.89.134/32
@@ -711,7 +721,6 @@ add tor_v4 194.163.157.49/32
 add tor_v4 195.47.238.50/32
 add tor_v4 195.80.151.242/32
 add tor_v4 195.88.74.206/32
-add tor_v4 195.154.170.135/32
 add tor_v4 195.176.3.23/32
 add tor_v4 195.176.3.24/32
 add tor_v4 195.246.231.197/32
@@ -727,8 +736,8 @@ add tor_v4 198.98.57.74/32
 add tor_v4 198.98.57.151/32
 add tor_v4 198.98.61.60/32
 add tor_v4 198.98.62.158/32
+add tor_v4 198.167.206.168/32
 add tor_v4 198.167.206.185/32
-add tor_v4 198.167.206.212/32
 add tor_v4 198.167.206.222/32
 add tor_v4 199.195.248.168/32
 add tor_v4 199.195.251.119/32
@@ -781,6 +790,7 @@ add tor_v4 216.73.159.75/32
 add tor_v4 216.73.159.101/32
 add tor_v4 216.239.90.19/32
 add tor_v4 217.12.221.131/32
+add tor_v4 217.60.78.12/32
 add tor_v4 217.60.78.198/32
 add tor_v4 217.60.195.54/32
 add tor_v4 217.156.49.33/32

@@ -1,6 +1,6 @@
 #!/bin/bash
 # Pingdom IP Ranges
-# Updated: 2026-06-18 03:21:18
+# Updated: 2026-06-25 03:23:22
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -89,8 +89,7 @@ iptables -A INPUT -s 184.75.210.90/32 -j DROP
 iptables -A INPUT -s 184.75.210.226/32 -j DROP
 iptables -A INPUT -s 184.75.214.66/32 -j DROP
 iptables -A INPUT -s 184.75.214.98/32 -j DROP
-iptables -A INPUT -s 185.39.146.214/32 -j DROP
-iptables -A INPUT -s 185.39.146.215/32 -j DROP
+iptables -A INPUT -s 185.39.146.214/31 -j DROP
 iptables -A INPUT -s 185.70.76.23/32 -j DROP
 iptables -A INPUT -s 185.93.3.65/32 -j DROP
 iptables -A INPUT -s 185.136.156.82/32 -j DROP
@@ -108,8 +107,7 @@ iptables -A INPUT -s 209.58.139.193/32 -j DROP
 iptables -A INPUT -s 209.58.139.194/32 -j DROP
 ip6tables -A INPUT -s 2001:19f0:200:125d::426/128 -j DROP
 ip6tables -A INPUT -s 2001:19f0:200:40cf:225:90ff:fed5:9aea/128 -j DROP
-ip6tables -A INPUT -s 2001:1af8:4400:a056::4052/128 -j DROP
-ip6tables -A INPUT -s 2001:1af8:4400:a056::4053/128 -j DROP
+ip6tables -A INPUT -s 2001:1af8:4400:a056::4052/127 -j DROP
 ip6tables -A INPUT -s 2001:4ba0:ffa5:ed::4003/128 -j DROP
 ip6tables -A INPUT -s 2001:4ba0:ffa5:1d5::4004/128 -j DROP
 ip6tables -A INPUT -s 2001:4ba0:ffe2:22::1/128 -j DROP

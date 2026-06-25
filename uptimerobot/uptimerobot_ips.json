@@ -282,24 +282,6 @@
     "region": "EUROPE"
   },
   {
-    "ip_address": "69.162.124.227/32",
-    "ip_type": "IPv4",
-    "service": "checker",
-    "region": "NORTH-AMERICA"
-  },
-  {
-    "ip_address": "69.162.124.235/32",
-    "ip_type": "IPv4",
-    "service": "checker",
-    "region": "NORTH-AMERICA"
-  },
-  {
-    "ip_address": "69.162.124.238/32",
-    "ip_type": "IPv4",
-    "service": "checker",
-    "region": "NORTH-AMERICA"
-  },
-  {
     "ip_address": "78.46.190.63/32",
     "ip_type": "IPv4",
     "service": "checker",
@@ -618,54 +600,6 @@
     "region": "ASIA"
   },
   {
-    "ip_address": "216.144.248.18/32",
-    "ip_type": "IPv4",
-    "service": "checker",
-    "region": "NORTH-AMERICA"
-  },
-  {
-    "ip_address": "216.144.248.19/32",
-    "ip_type": "IPv4",
-    "service": "checker",
-    "region": "NORTH-AMERICA"
-  },
-  {
-    "ip_address": "216.144.248.21/32",
-    "ip_type": "IPv4",
-    "service": "checker",
-    "region": "NORTH-AMERICA"
-  },
-  {
-    "ip_address": "216.144.248.22/32",
-    "ip_type": "IPv4",
-    "service": "checker",
-    "region": "NORTH-AMERICA"
-  },
-  {
-    "ip_address": "216.144.248.23/32",
-    "ip_type": "IPv4",
-    "service": "checker",
-    "region": "NORTH-AMERICA"
-  },
-  {
-    "ip_address": "216.144.248.24/32",
-    "ip_type": "IPv4",
-    "service": "checker",
-    "region": "NORTH-AMERICA"
-  },
-  {
-    "ip_address": "216.144.248.25/32",
-    "ip_type": "IPv4",
-    "service": "checker",
-    "region": "NORTH-AMERICA"
-  },
-  {
-    "ip_address": "216.144.248.26/32",
-    "ip_type": "IPv4",
-    "service": "checker",
-    "region": "NORTH-AMERICA"
-  },
-  {
     "ip_address": "216.144.248.27/32",
     "ip_type": "IPv4",
     "service": "checker",
@@ -679,18 +613,6 @@
   },
   {
     "ip_address": "216.144.248.29/32",
-    "ip_type": "IPv4",
-    "service": "checker",
-    "region": "NORTH-AMERICA"
-  },
-  {
-    "ip_address": "216.144.248.30/32",
-    "ip_type": "IPv4",
-    "service": "checker",
-    "region": "NORTH-AMERICA"
-  },
-  {
-    "ip_address": "216.245.221.83/32",
     "ip_type": "IPv4",
     "service": "checker",
     "region": "NORTH-AMERICA"
@@ -930,73 +852,7 @@
     "region": "NORTH-AMERICA"
   },
   {
-    "ip_address": "2607:ff68:107::4/128",
-    "ip_type": "IPv6",
-    "service": "checker",
-    "region": "NORTH-AMERICA"
-  },
-  {
-    "ip_address": "2607:ff68:107::14/128",
-    "ip_type": "IPv6",
-    "service": "checker",
-    "region": "NORTH-AMERICA"
-  },
-  {
     "ip_address": "2607:ff68:107::33/128",
-    "ip_type": "IPv6",
-    "service": "checker",
-    "region": "NORTH-AMERICA"
-  },
-  {
-    "ip_address": "2607:ff68:107::48/128",
-    "ip_type": "IPv6",
-    "service": "checker",
-    "region": "NORTH-AMERICA"
-  },
-  {
-    "ip_address": "2607:ff68:107::49/128",
-    "ip_type": "IPv6",
-    "service": "checker",
-    "region": "NORTH-AMERICA"
-  },
-  {
-    "ip_address": "2607:ff68:107::50/128",
-    "ip_type": "IPv6",
-    "service": "checker",
-    "region": "NORTH-AMERICA"
-  },
-  {
-    "ip_address": "2607:ff68:107::51/128",
-    "ip_type": "IPv6",
-    "service": "checker",
-    "region": "NORTH-AMERICA"
-  },
-  {
-    "ip_address": "2607:ff68:107::52/128",
-    "ip_type": "IPv6",
-    "service": "checker",
-    "region": "NORTH-AMERICA"
-  },
-  {
-    "ip_address": "2607:ff68:107::53/128",
-    "ip_type": "IPv6",
-    "service": "checker",
-    "region": "NORTH-AMERICA"
-  },
-  {
-    "ip_address": "2607:ff68:107::54/128",
-    "ip_type": "IPv6",
-    "service": "checker",
-    "region": "NORTH-AMERICA"
-  },
-  {
-    "ip_address": "2607:ff68:107::55/128",
-    "ip_type": "IPv6",
-    "service": "checker",
-    "region": "NORTH-AMERICA"
-  },
-  {
-    "ip_address": "2607:ff68:107::56/128",
     "ip_type": "IPv6",
     "service": "checker",
     "region": "NORTH-AMERICA"
@@ -1008,19 +864,7 @@
     "region": "NORTH-AMERICA"
   },
   {
-    "ip_address": "2607:ff68:107::58/128",
-    "ip_type": "IPv6",
-    "service": "checker",
-    "region": "NORTH-AMERICA"
-  },
-  {
     "ip_address": "2607:ff68:107::59/128",
-    "ip_type": "IPv6",
-    "service": "checker",
-    "region": "NORTH-AMERICA"
-  },
-  {
-    "ip_address": "2607:ff68:107::60/128",
     "ip_type": "IPv6",
     "service": "checker",
     "region": "NORTH-AMERICA"

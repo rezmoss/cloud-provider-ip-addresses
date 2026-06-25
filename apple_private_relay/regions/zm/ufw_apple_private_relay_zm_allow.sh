@@ -1,20 +1,18 @@
 #!/bin/bash
 # Apple_private_relay IP Ranges
-# Updated: 2026-06-14 03:22:09
+# Updated: 2026-06-25 03:22:46
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
 # Updates daily at 02:00 UTC
 # UFW allow rules for apple_private_relay
 
-ufw allow from 104.28.38.216/32
-ufw allow from 104.28.38.217/32
+ufw allow from 104.28.38.216/31
 ufw allow from 104.28.46.99/32
 ufw allow from 104.28.46.100/32
 ufw allow from 104.28.60.253/32
 ufw allow from 104.28.60.254/32
-ufw allow from 104.28.81.94/32
-ufw allow from 104.28.81.95/32
+ufw allow from 104.28.81.94/31
 ufw allow from 104.28.82.111/32
 ufw allow from 104.28.82.112/32
 ufw allow from 104.28.146.199/32
@@ -30,44 +28,24 @@ ufw allow from 172.225.221.240/28
 ufw allow from 2606:54c0:d420::/45
 ufw allow from 2606:54c3:0:5::/64
 ufw allow from 2a02:26f7:d200:4000::/64
-ufw allow from 2a02:26f7:d200:d020::/64
-ufw allow from 2a02:26f7:d200:d021::/64
-ufw allow from 2a02:26f7:d200:d022::/64
-ufw allow from 2a02:26f7:d200:d023::/64
-ufw allow from 2a02:26f7:d200:d024::/64
-ufw allow from 2a02:26f7:d200:d025::/64
+ufw allow from 2a02:26f7:d200:d020::/62
+ufw allow from 2a02:26f7:d200:d024::/63
 ufw allow from 2a02:26f7:d201:4000::/64
 ufw allow from 2a02:26f7:d204:4000::/64
-ufw allow from 2a02:26f7:d204:d020::/64
-ufw allow from 2a02:26f7:d204:d021::/64
-ufw allow from 2a02:26f7:d204:d022::/64
-ufw allow from 2a02:26f7:d204:d023::/64
-ufw allow from 2a02:26f7:d204:d024::/64
-ufw allow from 2a02:26f7:d204:d025::/64
+ufw allow from 2a02:26f7:d204:d020::/62
+ufw allow from 2a02:26f7:d204:d024::/63
 ufw allow from 2a02:26f7:d205:4000::/64
 ufw allow from 2a02:26f7:d208:4000::/64
-ufw allow from 2a02:26f7:d208:d020::/64
-ufw allow from 2a02:26f7:d208:d021::/64
-ufw allow from 2a02:26f7:d208:d022::/64
-ufw allow from 2a02:26f7:d208:d023::/64
-ufw allow from 2a02:26f7:d208:d024::/64
-ufw allow from 2a02:26f7:d208:d025::/64
+ufw allow from 2a02:26f7:d208:d020::/62
+ufw allow from 2a02:26f7:d208:d024::/63
 ufw allow from 2a02:26f7:d209:4000::/64
 ufw allow from 2a02:26f7:d20c:4000::/64
-ufw allow from 2a02:26f7:d20c:d020::/64
-ufw allow from 2a02:26f7:d20c:d021::/64
-ufw allow from 2a02:26f7:d20c:d022::/64
-ufw allow from 2a02:26f7:d20c:d023::/64
-ufw allow from 2a02:26f7:d20c:d024::/64
-ufw allow from 2a02:26f7:d20c:d025::/64
+ufw allow from 2a02:26f7:d20c:d020::/62
+ufw allow from 2a02:26f7:d20c:d024::/63
 ufw allow from 2a02:26f7:d20d:4000::/64
 ufw allow from 2a02:26f7:d210:4000::/64
-ufw allow from 2a02:26f7:d210:d020::/64
-ufw allow from 2a02:26f7:d210:d021::/64
-ufw allow from 2a02:26f7:d210:d022::/64
-ufw allow from 2a02:26f7:d210:d023::/64
-ufw allow from 2a02:26f7:d210:d024::/64
-ufw allow from 2a02:26f7:d210:d025::/64
+ufw allow from 2a02:26f7:d210:d020::/62
+ufw allow from 2a02:26f7:d210:d024::/63
 ufw allow from 2a02:26f7:d211:4000::/64
 ufw allow from 2a04:4e41:12d2::/48
 ufw allow from 2a04:4e41:1330::/48

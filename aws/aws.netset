@@ -1,7 +1,7 @@
 # aws IP ranges - ipset restore format (hash:net)
-# Version: 5 | Generated: 2026-06-24 | Last changed: 2026-06-23
-# IPv4: 1777 merged subnets, 101797592 unique IPs
-# IPv6: 2020 merged subnets
+# Version: 6 | Generated: 2026-06-25 | Last changed: 2026-06-25
+# IPv4: 1789 merged subnets, 101802456 unique IPs
+# IPv6: 2022 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
 # Load with: sudo ipset restore -! < aws.netset
@@ -14,6 +14,7 @@ add aws_v4 1.178.8.0/22
 add aws_v4 1.178.16.0/20
 add aws_v4 1.178.64.0/23
 add aws_v4 1.178.72.0/21
+add aws_v4 1.178.86.0/24
 add aws_v4 1.178.88.0/21
 add aws_v4 1.178.100.0/22
 add aws_v4 1.178.172.0/23
@@ -1278,26 +1279,37 @@ add aws_v4 63.176.0.0/12
 add aws_v4 63.246.112.0/22
 add aws_v4 63.246.119.0/24
 add aws_v4 63.246.120.0/21
-add aws_v4 63.249.131.0/24
+add aws_v4 63.249.130.0/23
 add aws_v4 63.249.132.0/23
 add aws_v4 63.249.138.0/23
 add aws_v4 63.249.140.0/24
+add aws_v4 63.249.142.0/24
 add aws_v4 63.249.144.0/23
 add aws_v4 63.249.146.0/24
+add aws_v4 63.249.148.0/24
 add aws_v4 63.249.150.0/23
 add aws_v4 63.249.152.0/21
+add aws_v4 63.249.162.0/24
 add aws_v4 63.249.166.0/23
 add aws_v4 63.249.168.0/22
 add aws_v4 63.249.172.0/24
+add aws_v4 63.249.175.0/24
 add aws_v4 63.249.176.0/23
 add aws_v4 63.249.178.0/24
+add aws_v4 63.249.181.0/24
+add aws_v4 63.249.182.0/24
 add aws_v4 63.249.185.0/24
 add aws_v4 63.249.186.0/23
 add aws_v4 63.249.188.0/24
 add aws_v4 63.249.192.0/23
 add aws_v4 63.249.194.0/24
-add aws_v4 63.249.201.0/24
-add aws_v4 63.249.202.0/23
+add aws_v4 63.249.198.0/23
+add aws_v4 63.249.200.0/22
+add aws_v4 63.249.204.0/23
+add aws_v4 63.249.207.0/24
+add aws_v4 63.249.208.0/23
+add aws_v4 63.249.213.0/24
+add aws_v4 63.249.214.0/23
 add aws_v4 64.73.193.0/24
 add aws_v4 64.73.195.0/24
 add aws_v4 64.73.196.0/23
@@ -3018,6 +3030,7 @@ add aws_v6 2600:f0f0:1:fd00::/56
 add aws_v6 2600:f0f0:1:fe00::/55
 add aws_v6 2600:f0f0:2::/48
 add aws_v6 2600:f0f0:4::/47
+add aws_v6 2600:f0f0:7::/48
 add aws_v6 2600:f0f0:8::/48
 add aws_v6 2600:f0f0:a::/47
 add aws_v6 2600:f0f0:10::/47
@@ -3030,6 +3043,7 @@ add aws_v6 2600:f0f0:80::/45
 add aws_v6 2600:f0f0:90:1400::/56
 add aws_v6 2600:f0f0:91::/48
 add aws_v6 2600:f0f0:a0::/48
+add aws_v6 2600:f0f0:c0::/44
 add aws_v6 2600:f0f0:300:100::/56
 add aws_v6 2600:f0f0:30e::/47
 add aws_v6 2600:f0f0:310::/48

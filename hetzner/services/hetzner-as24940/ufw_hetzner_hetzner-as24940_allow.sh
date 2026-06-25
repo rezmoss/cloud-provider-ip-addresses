@@ -1,14 +1,13 @@
 #!/bin/bash
 # Hetzner IP Ranges
-# Updated: 2026-06-18 03:21:28
+# Updated: 2026-06-25 03:23:34
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
 # Updates daily at 02:00 UTC
 # UFW allow rules for hetzner
 
-ufw allow from 2.28.0.0/16
-ufw allow from 2.29.0.0/16
+ufw allow from 2.28.0.0/15
 ufw allow from 5.9.0.0/16
 ufw allow from 5.75.128.0/17
 ufw allow from 23.88.0.0/17
@@ -19,12 +18,10 @@ ufw allow from 45.145.227.0/24
 ufw allow from 46.4.0.0/16
 ufw allow from 46.62.128.0/17
 ufw allow from 46.224.0.0/15
-ufw allow from 49.12.0.0/16
-ufw allow from 49.13.0.0/16
+ufw allow from 49.12.0.0/15
 ufw allow from 62.238.0.0/17
 ufw allow from 65.21.0.0/16
-ufw allow from 65.108.0.0/16
-ufw allow from 65.109.0.0/16
+ufw allow from 65.108.0.0/15
 ufw allow from 77.42.0.0/17
 ufw allow from 78.46.0.0/15
 ufw allow from 78.138.62.0/24
@@ -32,15 +29,12 @@ ufw allow from 85.10.192.0/18
 ufw allow from 88.99.0.0/16
 ufw allow from 88.198.0.0/16
 ufw allow from 89.167.0.0/17
-ufw allow from 91.98.0.0/16
-ufw allow from 91.99.0.0/16
+ufw allow from 91.98.0.0/15
 ufw allow from 91.107.128.0/17
 ufw allow from 91.190.240.0/21
 ufw allow from 94.130.0.0/16
-ufw allow from 95.216.0.0/16
-ufw allow from 95.217.0.0/16
-ufw allow from 116.202.0.0/16
-ufw allow from 116.203.0.0/16
+ufw allow from 95.216.0.0/15
+ufw allow from 116.202.0.0/15
 ufw allow from 128.140.0.0/17
 ufw allow from 135.181.0.0/16
 ufw allow from 136.243.0.0/16
@@ -66,13 +60,9 @@ ufw allow from 185.50.120.0/23
 ufw allow from 185.107.52.0/22
 ufw allow from 185.126.28.0/22
 ufw allow from 185.157.83.0/24
-ufw allow from 185.157.176.0/23
-ufw allow from 185.157.178.0/23
+ufw allow from 185.157.176.0/22
 ufw allow from 185.171.224.0/22
-ufw allow from 185.189.228.0/24
-ufw allow from 185.189.229.0/24
-ufw allow from 185.189.230.0/24
-ufw allow from 185.189.231.0/24
+ufw allow from 185.189.228.0/22
 ufw allow from 185.213.45.0/24
 ufw allow from 185.216.237.0/24
 ufw allow from 185.226.99.0/24
@@ -96,8 +86,7 @@ ufw allow from 204.168.128.0/17
 ufw allow from 213.133.96.0/19
 ufw allow from 213.239.192.0/18
 ufw allow from 216.55.108.0/22
-ufw allow from 2a01:4f8::/32
-ufw allow from 2a01:4f9::/32
+ufw allow from 2a01:4f8::/31
 ufw allow from 2a01:4ff:ff01::/48
 ufw allow from 2a06:be80::/29
 ufw allow from 2a12:2240::/29

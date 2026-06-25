@@ -1,6 +1,6 @@
 #!/bin/bash
 # Vultr IP Ranges
-# Updated: 2026-06-17 03:21:11
+# Updated: 2026-06-25 03:23:17
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -43,8 +43,7 @@ ufw deny from 108.61.243.0/24
 ufw deny from 108.61.245.0/24
 ufw deny from 108.61.248.0/24
 ufw deny from 140.82.0.0/20
-ufw deny from 140.82.40.0/22
-ufw deny from 140.82.44.0/22
+ufw deny from 140.82.40.0/21
 ufw deny from 140.82.60.0/22
 ufw deny from 144.202.0.0/20
 ufw deny from 149.28.32.0/19
@@ -53,13 +52,11 @@ ufw deny from 173.199.83.0/24
 ufw deny from 173.199.106.0/24
 ufw deny from 173.199.114.0/23
 ufw deny from 173.199.116.0/22
-ufw deny from 173.199.120.0/22
-ufw deny from 173.199.124.0/22
+ufw deny from 173.199.120.0/21
 ufw deny from 207.148.16.0/20
 ufw deny from 207.246.80.0/20
 ufw deny from 207.246.120.0/21
 ufw deny from 208.167.224.0/19
-ufw deny from 208.167.225.0/24
 ufw deny from 209.222.0.0/20
 ufw deny from 209.222.16.0/22
 ufw deny from 209.222.20.0/23
@@ -67,9 +64,7 @@ ufw deny from 209.222.23.0/24
 ufw deny from 209.222.24.0/22
 ufw deny from 216.155.128.0/19
 ufw deny from 2001:19f0::/38
-ufw deny from 2001:19f0:1000::/38
-ufw deny from 2001:19f0:1400::/38
+ufw deny from 2001:19f0:1000::/37
 ufw deny from 2001:19f0:4000::/38
 ufw deny from 2001:19f0:a800::/38
 ufw deny from 2a05:f487:fc00::/38
-ufw deny from 2a05:f487:fc00::/48

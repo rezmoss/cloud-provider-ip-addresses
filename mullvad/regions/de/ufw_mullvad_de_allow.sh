@@ -1,6 +1,6 @@
 #!/bin/bash
 # Mullvad IP Ranges
-# Updated: 2026-06-14 03:22:30
+# Updated: 2026-06-25 03:23:38
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -15,25 +15,16 @@ ufw allow from 169.150.201.2/32
 ufw allow from 169.150.201.15/32
 ufw allow from 169.150.201.28/32
 ufw allow from 185.209.196.73/32
-ufw allow from 185.209.196.74/32
-ufw allow from 185.209.196.75/32
-ufw allow from 185.209.196.76/32
-ufw allow from 185.209.196.77/32
+ufw allow from 185.209.196.74/31
+ufw allow from 185.209.196.76/31
 ufw allow from 185.209.196.78/32
-ufw allow from 185.213.155.72/32
-ufw allow from 185.213.155.73/32
+ufw allow from 185.213.155.72/31
 ufw allow from 185.213.155.74/32
 ufw allow from 185.254.75.3/32
-ufw allow from 185.254.75.4/32
-ufw allow from 185.254.75.5/32
-ufw allow from 193.32.248.66/32
-ufw allow from 193.32.248.67/32
-ufw allow from 193.32.248.68/32
-ufw allow from 193.32.248.69/32
-ufw allow from 193.32.248.70/32
-ufw allow from 193.32.248.71/32
-ufw allow from 193.32.248.74/32
-ufw allow from 193.32.248.75/32
+ufw allow from 185.254.75.4/31
+ufw allow from 193.32.248.66/31
+ufw allow from 193.32.248.68/30
+ufw allow from 193.32.248.74/31
 ufw allow from 194.36.25.3/32
 ufw allow from 194.36.25.18/32
 ufw allow from 194.36.25.33/32

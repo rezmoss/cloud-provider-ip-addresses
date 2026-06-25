@@ -1,6 +1,6 @@
 #!/bin/bash
 # Apple_private_relay IP Ranges
-# Updated: 2026-06-14 03:22:08
+# Updated: 2026-06-25 03:22:43
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -9,40 +9,32 @@
 
 ufw allow from 104.28.34.157/32
 ufw allow from 104.28.34.158/32
-ufw allow from 104.28.34.180/32
-ufw allow from 104.28.34.181/32
-ufw allow from 104.28.42.94/32
-ufw allow from 104.28.42.95/32
+ufw allow from 104.28.34.180/31
+ufw allow from 104.28.42.94/31
 ufw allow from 104.28.87.101/32
 ufw allow from 104.28.87.102/32
 ufw allow from 104.28.87.117/32
 ufw allow from 104.28.87.118/32
 ufw allow from 104.28.88.119/32
 ufw allow from 104.28.88.120/32
-ufw allow from 104.28.88.142/32
-ufw allow from 104.28.88.143/32
+ufw allow from 104.28.88.142/31
 ufw allow from 104.28.96.145/32
 ufw allow from 104.28.96.146/32
-ufw allow from 104.28.96.166/32
-ufw allow from 104.28.96.167/32
-ufw allow from 104.28.98.84/32
-ufw allow from 104.28.98.85/32
+ufw allow from 104.28.96.166/31
+ufw allow from 104.28.98.84/31
 ufw allow from 172.225.163.36/31
 ufw allow from 172.225.163.40/31
-ufw allow from 172.225.163.44/31
-ufw allow from 172.225.163.46/31
+ufw allow from 172.225.163.44/30
 ufw allow from 172.225.229.56/31
 ufw allow from 172.225.229.60/31
-ufw allow from 172.225.229.64/31
-ufw allow from 172.225.229.66/31
+ufw allow from 172.225.229.64/30
 ufw allow from 172.225.233.44/31
 ufw allow from 172.225.233.62/31
 ufw allow from 172.225.233.114/31
 ufw allow from 172.225.233.118/31
 ufw allow from 172.225.243.116/31
 ufw allow from 172.225.243.120/31
-ufw allow from 172.225.243.124/31
-ufw allow from 172.225.243.126/31
+ufw allow from 172.225.243.124/30
 ufw allow from 172.226.116.32/31
 ufw allow from 172.226.116.40/31
 ufw allow from 172.226.116.44/31
@@ -62,8 +54,7 @@ ufw allow from 2a02:26f7:ef00:5908::/64
 ufw allow from 2a02:26f7:ef00:5913::/64
 ufw allow from 2a02:26f7:ef00:5917::/64
 ufw allow from 2a02:26f7:ef00:591d::/64
-ufw allow from 2a02:26f7:ef00:591e::/64
-ufw allow from 2a02:26f7:ef00:591f::/64
+ufw allow from 2a02:26f7:ef00:591e::/63
 ufw allow from 2a02:26f7:ef00:5927::/64
 ufw allow from 2a02:26f7:ef00:5928::/64
 ufw allow from 2a02:26f7:ef00:5934::/64
@@ -72,8 +63,7 @@ ufw allow from 2a02:26f7:ef00:594c::/64
 ufw allow from 2a02:26f7:ef00:5955::/64
 ufw allow from 2a02:26f7:ef00:595c::/64
 ufw allow from 2a02:26f7:ef00:5978::/64
-ufw allow from 2a02:26f7:ef00:597a::/64
-ufw allow from 2a02:26f7:ef00:597b::/64
+ufw allow from 2a02:26f7:ef00:597a::/63
 ufw allow from 2a02:26f7:ef00:5982::/64
 ufw allow from 2a02:26f7:ef00:5984::/64
 ufw allow from 2a02:26f7:ef00:598c::/64
@@ -95,8 +85,7 @@ ufw allow from 2a02:26f7:ef02:5908::/64
 ufw allow from 2a02:26f7:ef02:5913::/64
 ufw allow from 2a02:26f7:ef02:5917::/64
 ufw allow from 2a02:26f7:ef02:591d::/64
-ufw allow from 2a02:26f7:ef02:591e::/64
-ufw allow from 2a02:26f7:ef02:591f::/64
+ufw allow from 2a02:26f7:ef02:591e::/63
 ufw allow from 2a02:26f7:ef02:5927::/64
 ufw allow from 2a02:26f7:ef02:5928::/64
 ufw allow from 2a02:26f7:ef02:5934::/64
@@ -105,8 +94,7 @@ ufw allow from 2a02:26f7:ef02:594c::/64
 ufw allow from 2a02:26f7:ef02:5955::/64
 ufw allow from 2a02:26f7:ef02:595c::/64
 ufw allow from 2a02:26f7:ef02:5978::/64
-ufw allow from 2a02:26f7:ef02:597a::/64
-ufw allow from 2a02:26f7:ef02:597b::/64
+ufw allow from 2a02:26f7:ef02:597a::/63
 ufw allow from 2a02:26f7:ef02:5982::/64
 ufw allow from 2a02:26f7:ef02:5984::/64
 ufw allow from 2a02:26f7:ef02:598c::/64
@@ -128,8 +116,7 @@ ufw allow from 2a02:26f7:ef04:5908::/64
 ufw allow from 2a02:26f7:ef04:5913::/64
 ufw allow from 2a02:26f7:ef04:5917::/64
 ufw allow from 2a02:26f7:ef04:591d::/64
-ufw allow from 2a02:26f7:ef04:591e::/64
-ufw allow from 2a02:26f7:ef04:591f::/64
+ufw allow from 2a02:26f7:ef04:591e::/63
 ufw allow from 2a02:26f7:ef04:5927::/64
 ufw allow from 2a02:26f7:ef04:5928::/64
 ufw allow from 2a02:26f7:ef04:5934::/64
@@ -138,8 +125,7 @@ ufw allow from 2a02:26f7:ef04:594c::/64
 ufw allow from 2a02:26f7:ef04:5955::/64
 ufw allow from 2a02:26f7:ef04:595c::/64
 ufw allow from 2a02:26f7:ef04:5978::/64
-ufw allow from 2a02:26f7:ef04:597a::/64
-ufw allow from 2a02:26f7:ef04:597b::/64
+ufw allow from 2a02:26f7:ef04:597a::/63
 ufw allow from 2a02:26f7:ef04:5982::/64
 ufw allow from 2a02:26f7:ef04:5984::/64
 ufw allow from 2a02:26f7:ef04:598c::/64
@@ -161,8 +147,7 @@ ufw allow from 2a02:26f7:ef0c:5908::/64
 ufw allow from 2a02:26f7:ef0c:5913::/64
 ufw allow from 2a02:26f7:ef0c:5917::/64
 ufw allow from 2a02:26f7:ef0c:591d::/64
-ufw allow from 2a02:26f7:ef0c:591e::/64
-ufw allow from 2a02:26f7:ef0c:591f::/64
+ufw allow from 2a02:26f7:ef0c:591e::/63
 ufw allow from 2a02:26f7:ef0c:5927::/64
 ufw allow from 2a02:26f7:ef0c:5928::/64
 ufw allow from 2a02:26f7:ef0c:5934::/64
@@ -171,8 +156,7 @@ ufw allow from 2a02:26f7:ef0c:594c::/64
 ufw allow from 2a02:26f7:ef0c:5955::/64
 ufw allow from 2a02:26f7:ef0c:595c::/64
 ufw allow from 2a02:26f7:ef0c:5978::/64
-ufw allow from 2a02:26f7:ef0c:597a::/64
-ufw allow from 2a02:26f7:ef0c:597b::/64
+ufw allow from 2a02:26f7:ef0c:597a::/63
 ufw allow from 2a02:26f7:ef0c:5982::/64
 ufw allow from 2a02:26f7:ef0c:5984::/64
 ufw allow from 2a02:26f7:ef0c:598c::/64
@@ -194,8 +178,7 @@ ufw allow from 2a02:26f7:ef10:5908::/64
 ufw allow from 2a02:26f7:ef10:5913::/64
 ufw allow from 2a02:26f7:ef10:5917::/64
 ufw allow from 2a02:26f7:ef10:591d::/64
-ufw allow from 2a02:26f7:ef10:591e::/64
-ufw allow from 2a02:26f7:ef10:591f::/64
+ufw allow from 2a02:26f7:ef10:591e::/63
 ufw allow from 2a02:26f7:ef10:5927::/64
 ufw allow from 2a02:26f7:ef10:5928::/64
 ufw allow from 2a02:26f7:ef10:5934::/64
@@ -204,8 +187,7 @@ ufw allow from 2a02:26f7:ef10:594c::/64
 ufw allow from 2a02:26f7:ef10:5955::/64
 ufw allow from 2a02:26f7:ef10:595c::/64
 ufw allow from 2a02:26f7:ef10:5978::/64
-ufw allow from 2a02:26f7:ef10:597a::/64
-ufw allow from 2a02:26f7:ef10:597b::/64
+ufw allow from 2a02:26f7:ef10:597a::/63
 ufw allow from 2a02:26f7:ef10:5982::/64
 ufw allow from 2a02:26f7:ef10:5984::/64
 ufw allow from 2a02:26f7:ef10:598c::/64
@@ -227,8 +209,7 @@ ufw allow from 2a02:26f7:ef14:5908::/64
 ufw allow from 2a02:26f7:ef14:5913::/64
 ufw allow from 2a02:26f7:ef14:5917::/64
 ufw allow from 2a02:26f7:ef14:591d::/64
-ufw allow from 2a02:26f7:ef14:591e::/64
-ufw allow from 2a02:26f7:ef14:591f::/64
+ufw allow from 2a02:26f7:ef14:591e::/63
 ufw allow from 2a02:26f7:ef14:5927::/64
 ufw allow from 2a02:26f7:ef14:5928::/64
 ufw allow from 2a02:26f7:ef14:5934::/64
@@ -237,8 +218,7 @@ ufw allow from 2a02:26f7:ef14:594c::/64
 ufw allow from 2a02:26f7:ef14:5955::/64
 ufw allow from 2a02:26f7:ef14:595c::/64
 ufw allow from 2a02:26f7:ef14:5978::/64
-ufw allow from 2a02:26f7:ef14:597a::/64
-ufw allow from 2a02:26f7:ef14:597b::/64
+ufw allow from 2a02:26f7:ef14:597a::/63
 ufw allow from 2a02:26f7:ef14:5982::/64
 ufw allow from 2a02:26f7:ef14:5984::/64
 ufw allow from 2a02:26f7:ef14:598c::/64

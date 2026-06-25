@@ -11,7 +11,6 @@ INSERT INTO `mullvad_mullvad-bridge_ips` (`ip_address`, `ip_type`) VALUES ('62.1
 INSERT INTO `mullvad_mullvad-bridge_ips` (`ip_address`, `ip_type`) VALUES ('103.125.233.210/32', 'IPv4');
 INSERT INTO `mullvad_mullvad-bridge_ips` (`ip_address`, `ip_type`) VALUES ('141.98.252.66/32', 'IPv4');
 INSERT INTO `mullvad_mullvad-bridge_ips` (`ip_address`, `ip_type`) VALUES ('146.70.141.154/32', 'IPv4');
-INSERT INTO `mullvad_mullvad-bridge_ips` (`ip_address`, `ip_type`) VALUES ('146.70.183.34/32', 'IPv4');
 INSERT INTO `mullvad_mullvad-bridge_ips` (`ip_address`, `ip_type`) VALUES ('146.70.192.38/32', 'IPv4');
 INSERT INTO `mullvad_mullvad-bridge_ips` (`ip_address`, `ip_type`) VALUES ('185.65.134.116/32', 'IPv4');
 INSERT INTO `mullvad_mullvad-bridge_ips` (`ip_address`, `ip_type`) VALUES ('185.242.4.34/32', 'IPv4');

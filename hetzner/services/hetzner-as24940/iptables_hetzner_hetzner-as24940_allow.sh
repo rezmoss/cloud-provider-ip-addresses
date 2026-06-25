@@ -1,14 +1,13 @@
 #!/bin/bash
 # Hetzner IP Ranges
-# Updated: 2026-06-18 03:21:28
+# Updated: 2026-06-25 03:23:34
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
 # Updates daily at 02:00 UTC
 # iptables allow rules for hetzner
 
-iptables -A INPUT -s 2.28.0.0/16 -j ACCEPT
-iptables -A INPUT -s 2.29.0.0/16 -j ACCEPT
+iptables -A INPUT -s 2.28.0.0/15 -j ACCEPT
 iptables -A INPUT -s 5.9.0.0/16 -j ACCEPT
 iptables -A INPUT -s 5.75.128.0/17 -j ACCEPT
 iptables -A INPUT -s 23.88.0.0/17 -j ACCEPT
@@ -19,12 +18,10 @@ iptables -A INPUT -s 45.145.227.0/24 -j ACCEPT
 iptables -A INPUT -s 46.4.0.0/16 -j ACCEPT
 iptables -A INPUT -s 46.62.128.0/17 -j ACCEPT
 iptables -A INPUT -s 46.224.0.0/15 -j ACCEPT
-iptables -A INPUT -s 49.12.0.0/16 -j ACCEPT
-iptables -A INPUT -s 49.13.0.0/16 -j ACCEPT
+iptables -A INPUT -s 49.12.0.0/15 -j ACCEPT
 iptables -A INPUT -s 62.238.0.0/17 -j ACCEPT
 iptables -A INPUT -s 65.21.0.0/16 -j ACCEPT
-iptables -A INPUT -s 65.108.0.0/16 -j ACCEPT
-iptables -A INPUT -s 65.109.0.0/16 -j ACCEPT
+iptables -A INPUT -s 65.108.0.0/15 -j ACCEPT
 iptables -A INPUT -s 77.42.0.0/17 -j ACCEPT
 iptables -A INPUT -s 78.46.0.0/15 -j ACCEPT
 iptables -A INPUT -s 78.138.62.0/24 -j ACCEPT
@@ -32,15 +29,12 @@ iptables -A INPUT -s 85.10.192.0/18 -j ACCEPT
 iptables -A INPUT -s 88.99.0.0/16 -j ACCEPT
 iptables -A INPUT -s 88.198.0.0/16 -j ACCEPT
 iptables -A INPUT -s 89.167.0.0/17 -j ACCEPT
-iptables -A INPUT -s 91.98.0.0/16 -j ACCEPT
-iptables -A INPUT -s 91.99.0.0/16 -j ACCEPT
+iptables -A INPUT -s 91.98.0.0/15 -j ACCEPT
 iptables -A INPUT -s 91.107.128.0/17 -j ACCEPT
 iptables -A INPUT -s 91.190.240.0/21 -j ACCEPT
 iptables -A INPUT -s 94.130.0.0/16 -j ACCEPT
-iptables -A INPUT -s 95.216.0.0/16 -j ACCEPT
-iptables -A INPUT -s 95.217.0.0/16 -j ACCEPT
-iptables -A INPUT -s 116.202.0.0/16 -j ACCEPT
-iptables -A INPUT -s 116.203.0.0/16 -j ACCEPT
+iptables -A INPUT -s 95.216.0.0/15 -j ACCEPT
+iptables -A INPUT -s 116.202.0.0/15 -j ACCEPT
 iptables -A INPUT -s 128.140.0.0/17 -j ACCEPT
 iptables -A INPUT -s 135.181.0.0/16 -j ACCEPT
 iptables -A INPUT -s 136.243.0.0/16 -j ACCEPT
@@ -66,13 +60,9 @@ iptables -A INPUT -s 185.50.120.0/23 -j ACCEPT
 iptables -A INPUT -s 185.107.52.0/22 -j ACCEPT
 iptables -A INPUT -s 185.126.28.0/22 -j ACCEPT
 iptables -A INPUT -s 185.157.83.0/24 -j ACCEPT
-iptables -A INPUT -s 185.157.176.0/23 -j ACCEPT
-iptables -A INPUT -s 185.157.178.0/23 -j ACCEPT
+iptables -A INPUT -s 185.157.176.0/22 -j ACCEPT
 iptables -A INPUT -s 185.171.224.0/22 -j ACCEPT
-iptables -A INPUT -s 185.189.228.0/24 -j ACCEPT
-iptables -A INPUT -s 185.189.229.0/24 -j ACCEPT
-iptables -A INPUT -s 185.189.230.0/24 -j ACCEPT
-iptables -A INPUT -s 185.189.231.0/24 -j ACCEPT
+iptables -A INPUT -s 185.189.228.0/22 -j ACCEPT
 iptables -A INPUT -s 185.213.45.0/24 -j ACCEPT
 iptables -A INPUT -s 185.216.237.0/24 -j ACCEPT
 iptables -A INPUT -s 185.226.99.0/24 -j ACCEPT
@@ -96,8 +86,7 @@ iptables -A INPUT -s 204.168.128.0/17 -j ACCEPT
 iptables -A INPUT -s 213.133.96.0/19 -j ACCEPT
 iptables -A INPUT -s 213.239.192.0/18 -j ACCEPT
 iptables -A INPUT -s 216.55.108.0/22 -j ACCEPT
-ip6tables -A INPUT -s 2a01:4f8::/32 -j ACCEPT
-ip6tables -A INPUT -s 2a01:4f9::/32 -j ACCEPT
+ip6tables -A INPUT -s 2a01:4f8::/31 -j ACCEPT
 ip6tables -A INPUT -s 2a01:4ff:ff01::/48 -j ACCEPT
 ip6tables -A INPUT -s 2a06:be80::/29 -j ACCEPT
 ip6tables -A INPUT -s 2a12:2240::/29 -j ACCEPT

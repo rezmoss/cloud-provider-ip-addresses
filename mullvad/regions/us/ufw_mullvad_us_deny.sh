@@ -1,6 +1,6 @@
 #!/bin/bash
 # Mullvad IP Ranges
-# Updated: 2026-06-23 03:21:01
+# Updated: 2026-06-25 03:23:38
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -132,6 +132,7 @@ ufw deny from 45.134.140.143/32
 ufw deny from 45.134.142.193/32
 ufw deny from 45.134.142.206/32
 ufw deny from 45.134.142.219/32
+ufw deny from 45.153.102.3/32
 ufw deny from 62.133.44.202/32
 ufw deny from 68.235.46.2/32
 ufw deny from 68.235.46.33/32
@@ -189,11 +190,7 @@ ufw deny from 146.70.173.66/32
 ufw deny from 146.70.173.130/32
 ufw deny from 146.70.173.194/32
 ufw deny from 146.70.174.2/32
-ufw deny from 146.70.183.34/32
 ufw deny from 146.70.185.2/32
-ufw deny from 146.70.187.2/32
-ufw deny from 146.70.187.66/32
-ufw deny from 146.70.187.130/32
 ufw deny from 146.70.211.2/32
 ufw deny from 146.70.211.66/32
 ufw deny from 146.70.211.130/32
@@ -222,6 +219,7 @@ ufw deny from 185.156.46.143/32
 ufw deny from 185.156.46.156/32
 ufw deny from 185.213.193.3/32
 ufw deny from 185.213.193.127/32
+ufw deny from 194.126.179.3/32
 ufw deny from 212.103.48.226/32
 ufw deny from 2001:ac8:9a:75::2f/128
 ufw deny from 2001:ac8:9a:76::1f/128
@@ -406,15 +404,14 @@ ufw deny from 2a02:6ea0:f901::a01f/128
 ufw deny from 2a02:6ea0:f901:1::a02f/128
 ufw deny from 2a02:6ea0:fe00:1::f001/128
 ufw deny from 2a02:6ea0:fe00:2::f001/128
+ufw deny from 2a06:3040:9:610::f101/128
+ufw deny from 2a06:3040:9:610::f201/128
 ufw deny from 2a06:3040:11:610::f001/128
 ufw deny from 2a06:3040:11:610::f101/128
 ufw deny from 2a06:3040:12:610::a01f/128
 ufw deny from 2a06:3040:12:610::a02f/128
 ufw deny from 2a06:3040:22:620::f001/128
 ufw deny from 2a06:3040:22:620::f101/128
-ufw deny from 2a0d:5600:6:104::a01f/128
-ufw deny from 2a0d:5600:6:105::f001/128
-ufw deny from 2a0d:5600:6:106::f001/128
 ufw deny from 2a0d:5600:8:6::d2f/128
 ufw deny from 2a0d:5600:8:d::d3f/128
 ufw deny from 2a0d:5600:8:2f::f001/128

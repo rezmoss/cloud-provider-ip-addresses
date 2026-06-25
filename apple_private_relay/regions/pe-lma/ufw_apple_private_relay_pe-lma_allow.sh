@@ -1,60 +1,26 @@
 #!/bin/bash
 # Apple_private_relay IP Ranges
-# Updated: 2026-06-14 03:22:09
+# Updated: 2026-06-25 03:22:44
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
 # Updates daily at 02:00 UTC
 # UFW allow rules for apple_private_relay
 
-ufw allow from 104.28.36.128/32
-ufw allow from 104.28.36.129/32
-ufw allow from 104.28.36.130/32
-ufw allow from 104.28.36.131/32
-ufw allow from 104.28.36.132/32
-ufw allow from 104.28.36.133/32
-ufw allow from 104.28.36.134/32
-ufw allow from 104.28.36.135/32
-ufw allow from 104.28.36.136/32
-ufw allow from 104.28.36.137/32
-ufw allow from 104.28.47.230/32
-ufw allow from 104.28.47.231/32
-ufw allow from 104.28.47.232/32
-ufw allow from 104.28.47.233/32
-ufw allow from 104.28.47.234/32
-ufw allow from 104.28.47.235/32
-ufw allow from 104.28.47.236/32
-ufw allow from 104.28.47.237/32
-ufw allow from 104.28.47.238/32
-ufw allow from 104.28.47.239/32
-ufw allow from 104.28.59.154/32
-ufw allow from 104.28.59.155/32
-ufw allow from 104.28.59.156/32
-ufw allow from 104.28.59.157/32
-ufw allow from 104.28.59.158/32
-ufw allow from 104.28.59.159/32
-ufw allow from 104.28.59.160/32
-ufw allow from 104.28.59.161/32
-ufw allow from 104.28.59.162/32
-ufw allow from 104.28.59.163/32
-ufw allow from 104.28.115.84/32
-ufw allow from 104.28.115.85/32
-ufw allow from 104.28.115.86/32
-ufw allow from 104.28.115.87/32
-ufw allow from 104.28.115.88/32
-ufw allow from 104.28.115.89/32
-ufw allow from 104.28.115.90/32
-ufw allow from 104.28.115.91/32
-ufw allow from 104.28.115.92/32
-ufw allow from 104.28.115.93/32
+ufw allow from 104.28.36.128/29
+ufw allow from 104.28.36.136/31
+ufw allow from 104.28.47.230/31
+ufw allow from 104.28.47.232/29
+ufw allow from 104.28.59.154/31
+ufw allow from 104.28.59.156/30
+ufw allow from 104.28.59.160/30
+ufw allow from 104.28.115.84/30
+ufw allow from 104.28.115.88/30
+ufw allow from 104.28.115.92/31
 ufw allow from 104.28.137.95/32
 ufw allow from 104.28.142.81/32
-ufw allow from 104.28.144.66/32
-ufw allow from 104.28.144.67/32
-ufw allow from 104.28.144.68/32
-ufw allow from 104.28.144.69/32
-ufw allow from 104.28.144.70/32
-ufw allow from 104.28.144.71/32
+ufw allow from 104.28.144.66/31
+ufw allow from 104.28.144.68/30
 ufw allow from 104.28.144.72/32
 ufw allow from 140.248.25.12/31
 ufw allow from 140.248.32.12/31

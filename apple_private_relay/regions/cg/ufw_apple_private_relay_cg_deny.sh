@@ -1,6 +1,6 @@
 #!/bin/bash
 # Apple_private_relay IP Ranges
-# Updated: 2026-06-14 03:22:14
+# Updated: 2026-06-25 03:23:11
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -14,16 +14,13 @@ ufw deny from 172.224.231.208/28
 ufw deny from 172.225.98.160/27
 ufw deny from 172.225.242.80/28
 ufw deny from 2a02:26f7:f000:4000::/64
-ufw deny from 2a02:26f7:f000:caa0::/64
-ufw deny from 2a02:26f7:f000:caa1::/64
+ufw deny from 2a02:26f7:f000:caa0::/63
 ufw deny from 2a02:26f7:f001:4000::/64
 ufw deny from 2a02:26f7:f008:4000::/64
-ufw deny from 2a02:26f7:f008:caa0::/64
-ufw deny from 2a02:26f7:f008:caa1::/64
+ufw deny from 2a02:26f7:f008:caa0::/63
 ufw deny from 2a02:26f7:f009:4000::/64
 ufw deny from 2a02:26f7:f00c:4000::/64
-ufw deny from 2a02:26f7:f00c:caa0::/64
-ufw deny from 2a02:26f7:f00c:caa1::/64
+ufw deny from 2a02:26f7:f00c:caa0::/63
 ufw deny from 2a02:26f7:f00d:4000::/64
 ufw deny from 2a04:4e41:12c5::/48
 ufw deny from 2a04:4e41:130a::/48

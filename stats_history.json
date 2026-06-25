@@ -40,5 +40,11 @@
     "ipv4_addresses": 406889263,
     "ipv6_addresses": 5296203346153515907213459187050363,
     "providers": 37
+  },
+  {
+    "date": "2026-06-25",
+    "ipv4_addresses": 406899242,
+    "ipv6_addresses": 5296203367914180660276784331761517,
+    "providers": 37
   }
 ]

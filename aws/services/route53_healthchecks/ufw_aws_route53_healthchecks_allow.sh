@@ -1,6 +1,6 @@
 #!/bin/bash
 # Aws IP Ranges
-# Updated: 2026-06-14 03:20:57
+# Updated: 2026-06-25 03:18:33
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -9,16 +9,13 @@
 
 ufw allow from 15.177.0.0/18
 ufw allow from 15.177.108.0/24
-ufw allow from 18.253.167.0/25
-ufw allow from 18.253.167.128/25
+ufw allow from 18.253.167.0/24
 ufw allow from 18.253.168.0/25
 ufw allow from 51.0.252.0/24
-ufw allow from 52.80.197.0/25
-ufw allow from 52.80.197.128/25
+ufw allow from 52.80.197.0/24
 ufw allow from 52.80.198.0/25
 ufw allow from 52.83.34.128/25
-ufw allow from 52.83.35.0/25
-ufw allow from 52.83.35.128/25
+ufw allow from 52.83.35.0/24
 ufw allow from 54.183.255.128/26
 ufw allow from 54.228.16.0/26
 ufw allow from 54.232.40.64/26
@@ -33,17 +30,14 @@ ufw allow from 54.252.79.128/26
 ufw allow from 54.252.254.192/26
 ufw allow from 54.255.254.192/26
 ufw allow from 107.23.255.0/26
-ufw allow from 160.1.55.0/25
-ufw allow from 160.1.55.128/25
+ufw allow from 160.1.55.0/24
 ufw allow from 160.1.56.0/25
 ufw allow from 176.34.159.192/26
 ufw allow from 177.71.207.128/26
 ufw allow from 2001:3fc6:100::/48
-ufw allow from 2400:7fc0:83cc:cc00::/56
-ufw allow from 2400:7fc0:83cc:cd00::/56
+ufw allow from 2400:7fc0:83cc:cc00::/55
 ufw allow from 2400:7fc0:83cc:ce00::/56
-ufw allow from 2404:c2c0:83cc:cc00::/56
-ufw allow from 2404:c2c0:83cc:cd00::/56
+ufw allow from 2404:c2c0:83cc:cc00::/55
 ufw allow from 2404:c2c0:83cc:ce00::/56
 ufw allow from 2406:da14:7ff:f800::/56
 ufw allow from 2406:da14:fff:f800::/56
@@ -60,7 +54,6 @@ ufw allow from 2600:1f1c:fff:f800::/56
 ufw allow from 2600:1f1e:7ff:f800::/56
 ufw allow from 2600:1f1e:fff:f800::/56
 ufw allow from 2600:f0f0:300:100::/56
-ufw allow from 2600:f0f0:30e::/48
-ufw allow from 2600:f0f0:30f::/48
+ufw allow from 2600:f0f0:30e::/47
 ufw allow from 2a05:d018:7ff:f800::/56
 ufw allow from 2a05:d018:fff:f800::/56

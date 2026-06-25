@@ -56,7 +56,6 @@ INSERT INTO `gptbot_global_ips` (`ip_address`, `ip_type`) VALUES ('20.63.221.64/
 INSERT INTO `gptbot_global_ips` (`ip_address`, `ip_type`) VALUES ('20.79.59.112/28', 'IPv4');
 INSERT INTO `gptbot_global_ips` (`ip_address`, `ip_type`) VALUES ('20.97.189.96/28', 'IPv4');
 INSERT INTO `gptbot_global_ips` (`ip_address`, `ip_type`) VALUES ('20.102.212.144/28', 'IPv4');
-INSERT INTO `gptbot_global_ips` (`ip_address`, `ip_type`) VALUES ('20.113.218.16/28', 'IPv4');
 INSERT INTO `gptbot_global_ips` (`ip_address`, `ip_type`) VALUES ('20.113.225.112/28', 'IPv4');
 INSERT INTO `gptbot_global_ips` (`ip_address`, `ip_type`) VALUES ('20.125.66.80/28', 'IPv4');
 INSERT INTO `gptbot_global_ips` (`ip_address`, `ip_type`) VALUES ('20.125.112.224/28', 'IPv4');
@@ -87,6 +86,7 @@ INSERT INTO `gptbot_global_ips` (`ip_address`, `ip_type`) VALUES ('20.169.78.208
 INSERT INTO `gptbot_global_ips` (`ip_address`, `ip_type`) VALUES ('20.169.86.224/28', 'IPv4');
 INSERT INTO `gptbot_global_ips` (`ip_address`, `ip_type`) VALUES ('20.169.86.240/28', 'IPv4');
 INSERT INTO `gptbot_global_ips` (`ip_address`, `ip_type`) VALUES ('20.169.87.112/28', 'IPv4');
+INSERT INTO `gptbot_global_ips` (`ip_address`, `ip_type`) VALUES ('20.170.184.16/28', 'IPv4');
 INSERT INTO `gptbot_global_ips` (`ip_address`, `ip_type`) VALUES ('20.171.53.224/28', 'IPv4');
 INSERT INTO `gptbot_global_ips` (`ip_address`, `ip_type`) VALUES ('20.171.123.64/28', 'IPv4');
 INSERT INTO `gptbot_global_ips` (`ip_address`, `ip_type`) VALUES ('20.171.206.0/24', 'IPv4');

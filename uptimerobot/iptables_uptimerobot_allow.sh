@@ -1,6 +1,6 @@
 #!/bin/bash
 # Uptimerobot IP Ranges
-# Updated: 2026-06-14 03:22:18
+# Updated: 2026-06-25 03:23:22
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -54,9 +54,6 @@ iptables -A INPUT -s 54.249.170.27/32 -j ACCEPT
 iptables -A INPUT -s 63.178.84.147/32 -j ACCEPT
 iptables -A INPUT -s 64.225.81.248/32 -j ACCEPT
 iptables -A INPUT -s 64.225.82.147/32 -j ACCEPT
-iptables -A INPUT -s 69.162.124.227/32 -j ACCEPT
-iptables -A INPUT -s 69.162.124.235/32 -j ACCEPT
-iptables -A INPUT -s 69.162.124.238/32 -j ACCEPT
 iptables -A INPUT -s 78.46.190.63/32 -j ACCEPT
 iptables -A INPUT -s 78.46.215.1/32 -j ACCEPT
 iptables -A INPUT -s 78.47.98.55/32 -j ACCEPT
@@ -110,19 +107,8 @@ iptables -A INPUT -s 209.38.49.226/32 -j ACCEPT
 iptables -A INPUT -s 209.38.51.43/32 -j ACCEPT
 iptables -A INPUT -s 209.38.53.7/32 -j ACCEPT
 iptables -A INPUT -s 209.38.124.252/32 -j ACCEPT
-iptables -A INPUT -s 216.144.248.18/32 -j ACCEPT
-iptables -A INPUT -s 216.144.248.19/32 -j ACCEPT
-iptables -A INPUT -s 216.144.248.21/32 -j ACCEPT
-iptables -A INPUT -s 216.144.248.22/32 -j ACCEPT
-iptables -A INPUT -s 216.144.248.23/32 -j ACCEPT
-iptables -A INPUT -s 216.144.248.24/32 -j ACCEPT
-iptables -A INPUT -s 216.144.248.25/32 -j ACCEPT
-iptables -A INPUT -s 216.144.248.26/32 -j ACCEPT
 iptables -A INPUT -s 216.144.248.27/32 -j ACCEPT
-iptables -A INPUT -s 216.144.248.28/32 -j ACCEPT
-iptables -A INPUT -s 216.144.248.29/32 -j ACCEPT
-iptables -A INPUT -s 216.144.248.30/32 -j ACCEPT
-iptables -A INPUT -s 216.245.221.83/32 -j ACCEPT
+iptables -A INPUT -s 216.144.248.28/31 -j ACCEPT
 ip6tables -A INPUT -s 2400:6180:10:200::56a0:b000/128 -j ACCEPT
 ip6tables -A INPUT -s 2400:6180:10:200::56a0:c000/128 -j ACCEPT
 ip6tables -A INPUT -s 2400:6180:10:200::56a0:e000/128 -j ACCEPT
@@ -162,22 +148,9 @@ ip6tables -A INPUT -s 2604:a880:800:14:0:1:68bb:c000/128 -j ACCEPT
 ip6tables -A INPUT -s 2604:a880:800:14:0:1:68bb:d000/128 -j ACCEPT
 ip6tables -A INPUT -s 2604:a880:800:14:0:1:68bb:e000/128 -j ACCEPT
 ip6tables -A INPUT -s 2604:a880:800:14:0:1:68bb:f000/128 -j ACCEPT
-ip6tables -A INPUT -s 2607:ff68:107::4/128 -j ACCEPT
-ip6tables -A INPUT -s 2607:ff68:107::14/128 -j ACCEPT
 ip6tables -A INPUT -s 2607:ff68:107::33/128 -j ACCEPT
-ip6tables -A INPUT -s 2607:ff68:107::48/128 -j ACCEPT
-ip6tables -A INPUT -s 2607:ff68:107::49/128 -j ACCEPT
-ip6tables -A INPUT -s 2607:ff68:107::50/128 -j ACCEPT
-ip6tables -A INPUT -s 2607:ff68:107::51/128 -j ACCEPT
-ip6tables -A INPUT -s 2607:ff68:107::52/128 -j ACCEPT
-ip6tables -A INPUT -s 2607:ff68:107::53/128 -j ACCEPT
-ip6tables -A INPUT -s 2607:ff68:107::54/128 -j ACCEPT
-ip6tables -A INPUT -s 2607:ff68:107::55/128 -j ACCEPT
-ip6tables -A INPUT -s 2607:ff68:107::56/128 -j ACCEPT
 ip6tables -A INPUT -s 2607:ff68:107::57/128 -j ACCEPT
-ip6tables -A INPUT -s 2607:ff68:107::58/128 -j ACCEPT
 ip6tables -A INPUT -s 2607:ff68:107::59/128 -j ACCEPT
-ip6tables -A INPUT -s 2607:ff68:107::60/128 -j ACCEPT
 ip6tables -A INPUT -s 2a01:4f8:c0c:83fa::1/128 -j ACCEPT
 ip6tables -A INPUT -s 2a01:4f8:c17:42e4::1/128 -j ACCEPT
 ip6tables -A INPUT -s 2a01:4f8:c2c:9fc6::1/128 -j ACCEPT

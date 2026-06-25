@@ -1,6 +1,6 @@
 #!/bin/bash
 # Aws IP Ranges
-# Updated: 2026-06-14 03:20:57
+# Updated: 2026-06-25 03:18:33
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -9,21 +9,16 @@
 
 iptables -A INPUT -s 3.10.127.32/27 -j DROP
 iptables -A INPUT -s 3.10.201.64/27 -j DROP
-iptables -A INPUT -s 13.48.186.128/27 -j DROP
-iptables -A INPUT -s 13.48.186.160/27 -j DROP
+iptables -A INPUT -s 13.48.186.128/26 -j DROP
 iptables -A INPUT -s 13.52.232.224/27 -j DROP
-iptables -A INPUT -s 13.232.67.128/27 -j DROP
-iptables -A INPUT -s 13.232.67.160/27 -j DROP
+iptables -A INPUT -s 13.232.67.128/26 -j DROP
 iptables -A INPUT -s 13.236.82.96/27 -j DROP
 iptables -A INPUT -s 13.236.82.128/27 -j DROP
 iptables -A INPUT -s 13.245.155.128/27 -j DROP
 iptables -A INPUT -s 13.245.155.224/27 -j DROP
-iptables -A INPUT -s 13.250.186.128/27 -j DROP
-iptables -A INPUT -s 13.250.186.160/27 -j DROP
-iptables -A INPUT -s 15.152.24.0/27 -j DROP
-iptables -A INPUT -s 15.152.24.32/27 -j DROP
-iptables -A INPUT -s 15.161.135.64/27 -j DROP
-iptables -A INPUT -s 15.161.135.96/27 -j DROP
+iptables -A INPUT -s 13.250.186.128/26 -j DROP
+iptables -A INPUT -s 15.152.24.0/26 -j DROP
+iptables -A INPUT -s 15.161.135.64/26 -j DROP
 iptables -A INPUT -s 15.164.243.32/27 -j DROP
 iptables -A INPUT -s 15.164.243.192/27 -j DROP
 iptables -A INPUT -s 15.185.91.32/27 -j DROP
@@ -39,10 +34,8 @@ iptables -A INPUT -s 18.179.48.96/27 -j DROP
 iptables -A INPUT -s 18.179.48.128/27 -j DROP
 iptables -A INPUT -s 18.184.138.224/27 -j DROP
 iptables -A INPUT -s 18.184.203.128/27 -j DROP
-iptables -A INPUT -s 18.188.9.0/27 -j DROP
-iptables -A INPUT -s 18.188.9.32/27 -j DROP
-iptables -A INPUT -s 18.230.46.0/27 -j DROP
-iptables -A INPUT -s 18.230.46.32/27 -j DROP
+iptables -A INPUT -s 18.188.9.0/26 -j DROP
+iptables -A INPUT -s 18.230.46.0/26 -j DROP
 iptables -A INPUT -s 34.217.141.224/27 -j DROP
 iptables -A INPUT -s 34.218.119.32/27 -j DROP
 iptables -A INPUT -s 34.245.205.0/27 -j DROP

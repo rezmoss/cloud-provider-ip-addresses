@@ -1,6 +1,6 @@
 #!/bin/bash
 # Vultr IP Ranges
-# Updated: 2026-06-17 03:21:11
+# Updated: 2026-06-25 03:23:17
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -13,18 +13,12 @@ iptables -A INPUT -s 45.76.224.0/21 -j DROP
 iptables -A INPUT -s 64.177.112.0/20 -j DROP
 iptables -A INPUT -s 66.42.112.0/20 -j DROP
 iptables -A INPUT -s 68.232.167.0/24 -j DROP
-iptables -A INPUT -s 68.232.168.0/24 -j DROP
-iptables -A INPUT -s 68.232.169.0/24 -j DROP
-iptables -A INPUT -s 68.232.170.0/24 -j DROP
-iptables -A INPUT -s 68.232.171.0/24 -j DROP
-iptables -A INPUT -s 68.232.172.0/24 -j DROP
-iptables -A INPUT -s 68.232.173.0/24 -j DROP
+iptables -A INPUT -s 68.232.168.0/22 -j DROP
+iptables -A INPUT -s 68.232.172.0/23 -j DROP
 iptables -A INPUT -s 68.232.174.0/24 -j DROP
-iptables -A INPUT -s 68.232.176.0/24 -j DROP
-iptables -A INPUT -s 68.232.177.0/24 -j DROP
+iptables -A INPUT -s 68.232.176.0/23 -j DROP
 iptables -A INPUT -s 68.232.181.0/24 -j DROP
-iptables -A INPUT -s 68.232.182.0/24 -j DROP
-iptables -A INPUT -s 68.232.183.0/24 -j DROP
+iptables -A INPUT -s 68.232.182.0/23 -j DROP
 iptables -A INPUT -s 68.232.184.0/24 -j DROP
 iptables -A INPUT -s 104.156.234.0/23 -j DROP
 iptables -A INPUT -s 104.207.136.0/21 -j DROP

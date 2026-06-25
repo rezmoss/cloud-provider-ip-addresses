@@ -1,6 +1,6 @@
 #!/bin/bash
 # Uptimerobot IP Ranges
-# Updated: 2026-06-14 03:22:18
+# Updated: 2026-06-25 03:23:22
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -29,9 +29,6 @@ ufw allow from 52.22.236.30/32
 ufw allow from 52.87.72.16/32
 ufw allow from 54.87.112.51/32
 ufw allow from 54.167.223.174/32
-ufw allow from 69.162.124.227/32
-ufw allow from 69.162.124.235/32
-ufw allow from 69.162.124.238/32
 ufw allow from 129.212.132.140/32
 ufw allow from 134.199.240.137/32
 ufw allow from 138.197.53.117/32
@@ -52,19 +49,8 @@ ufw allow from 209.38.49.1/32
 ufw allow from 209.38.49.206/32
 ufw allow from 209.38.49.226/32
 ufw allow from 209.38.51.43/32
-ufw allow from 216.144.248.18/32
-ufw allow from 216.144.248.19/32
-ufw allow from 216.144.248.21/32
-ufw allow from 216.144.248.22/32
-ufw allow from 216.144.248.23/32
-ufw allow from 216.144.248.24/32
-ufw allow from 216.144.248.25/32
-ufw allow from 216.144.248.26/32
 ufw allow from 216.144.248.27/32
-ufw allow from 216.144.248.28/32
-ufw allow from 216.144.248.29/32
-ufw allow from 216.144.248.30/32
-ufw allow from 216.245.221.83/32
+ufw allow from 216.144.248.28/31
 ufw allow from 2600:1f16:775:3a00:ac3:c5eb:7081:942e/128
 ufw allow from 2600:1f16:775:3a00:37bf:6026:e54a:f03a/128
 ufw allow from 2600:1f16:775:3a00:3f24:5bb0:95d7:5a6b/128
@@ -92,22 +78,9 @@ ufw allow from 2604:a880:800:14:0:1:68bb:c000/128
 ufw allow from 2604:a880:800:14:0:1:68bb:d000/128
 ufw allow from 2604:a880:800:14:0:1:68bb:e000/128
 ufw allow from 2604:a880:800:14:0:1:68bb:f000/128
-ufw allow from 2607:ff68:107::4/128
-ufw allow from 2607:ff68:107::14/128
 ufw allow from 2607:ff68:107::33/128
-ufw allow from 2607:ff68:107::48/128
-ufw allow from 2607:ff68:107::49/128
-ufw allow from 2607:ff68:107::50/128
-ufw allow from 2607:ff68:107::51/128
-ufw allow from 2607:ff68:107::52/128
-ufw allow from 2607:ff68:107::53/128
-ufw allow from 2607:ff68:107::54/128
-ufw allow from 2607:ff68:107::55/128
-ufw allow from 2607:ff68:107::56/128
 ufw allow from 2607:ff68:107::57/128
-ufw allow from 2607:ff68:107::58/128
 ufw allow from 2607:ff68:107::59/128
-ufw allow from 2607:ff68:107::60/128
 ufw allow from 2a01:4ff:f0:bfd::1/128
 ufw allow from 2a01:4ff:f0:2219::1/128
 ufw allow from 2a01:4ff:f0:3e03::1/128
