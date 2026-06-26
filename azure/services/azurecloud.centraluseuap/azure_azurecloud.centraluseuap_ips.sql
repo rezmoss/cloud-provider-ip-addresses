@@ -126,6 +126,7 @@ INSERT INTO `azure_azurecloud.centraluseuap_ips` (`ip_address`, `ip_type`) VALUE
 INSERT INTO `azure_azurecloud.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('52.106.1.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('52.106.6.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('52.108.113.0/24', 'IPv4');
+INSERT INTO `azure_azurecloud.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('52.108.138.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('52.109.140.0/22', 'IPv4');
 INSERT INTO `azure_azurecloud.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('52.123.192.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('52.123.194.0/24', 'IPv4');

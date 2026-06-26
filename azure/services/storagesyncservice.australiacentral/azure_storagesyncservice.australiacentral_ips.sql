@@ -8,5 +8,6 @@ CREATE TABLE IF NOT EXISTS `azure_storagesyncservice.australiacentral_ips` (
 
 INSERT INTO `azure_storagesyncservice.australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('20.37.224.216/29', 'IPv4');
 INSERT INTO `azure_storagesyncservice.australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('20.53.1.80/29', 'IPv4');
+INSERT INTO `azure_storagesyncservice.australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('74.147.11.208/29', 'IPv4');
 INSERT INTO `azure_storagesyncservice.australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:304::340/123', 'IPv6');
 INSERT INTO `azure_storagesyncservice.australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:304:402::5e0/123', 'IPv6');

@@ -9,6 +9,8 @@ CREATE TABLE IF NOT EXISTS `azure_azuremonitor.norwayeast_ips` (
 INSERT INTO `azure_azuremonitor.norwayeast_ips` (`ip_address`, `ip_type`) VALUES ('4.177.29.144/28', 'IPv4');
 INSERT INTO `azure_azuremonitor.norwayeast_ips` (`ip_address`, `ip_type`) VALUES ('4.177.32.8/29', 'IPv4');
 INSERT INTO `azure_azuremonitor.norwayeast_ips` (`ip_address`, `ip_type`) VALUES ('4.177.34.0/24', 'IPv4');
+INSERT INTO `azure_azuremonitor.norwayeast_ips` (`ip_address`, `ip_type`) VALUES ('4.177.37.208/28', 'IPv4');
+INSERT INTO `azure_azuremonitor.norwayeast_ips` (`ip_address`, `ip_type`) VALUES ('4.177.44.0/26', 'IPv4');
 INSERT INTO `azure_azuremonitor.norwayeast_ips` (`ip_address`, `ip_type`) VALUES ('20.100.7.0/27', 'IPv4');
 INSERT INTO `azure_azuremonitor.norwayeast_ips` (`ip_address`, `ip_type`) VALUES ('20.100.7.48/28', 'IPv4');
 INSERT INTO `azure_azuremonitor.norwayeast_ips` (`ip_address`, `ip_type`) VALUES ('51.13.1.8/29', 'IPv4');

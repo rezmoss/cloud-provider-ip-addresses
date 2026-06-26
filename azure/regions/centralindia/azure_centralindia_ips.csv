@@ -6,6 +6,7 @@ ip_address,ip_type,service,region
 4.186.8.18/32,IPv4,LogicApps.CentralIndia,centralindia
 4.186.8.62/32,IPv4,LogicApps.CentralIndia,centralindia
 4.186.8.164/32,IPv4,LogicApps.CentralIndia,centralindia
+4.186.119.112/28,IPv4,AzureMonitor.CentralIndia,centralindia
 4.187.128.0/17,IPv4,AzureCloud.centralindia,centralindia
 4.188.0.0/16,IPv4,AzureCloud.centralindia,centralindia
 4.188.8.0/27,IPv4,AzureDevOps.CentralIndia,centralindia

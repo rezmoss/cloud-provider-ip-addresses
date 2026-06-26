@@ -150,6 +150,12 @@
     "region": "swedencentral"
   },
   {
+    "ip_address": "172.160.153.240/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
     "ip_address": "172.160.223.224/27",
     "ip_type": "IPv4",
     "service": "AzureMonitor.SwedenCentral",

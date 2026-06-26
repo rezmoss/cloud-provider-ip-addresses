@@ -218,6 +218,8 @@ INSERT INTO `azure_mexicocentral_ips` (`ip_address`, `ip_type`) VALUES ('172.195
 INSERT INTO `azure_mexicocentral_ips` (`ip_address`, `ip_type`) VALUES ('172.195.123.0/24', 'IPv4');
 INSERT INTO `azure_mexicocentral_ips` (`ip_address`, `ip_type`) VALUES ('172.195.128.0/21', 'IPv4');
 INSERT INTO `azure_mexicocentral_ips` (`ip_address`, `ip_type`) VALUES ('172.195.141.48/28', 'IPv4');
+INSERT INTO `azure_mexicocentral_ips` (`ip_address`, `ip_type`) VALUES ('172.195.144.248/29', 'IPv4');
+INSERT INTO `azure_mexicocentral_ips` (`ip_address`, `ip_type`) VALUES ('172.195.147.48/28', 'IPv4');
 INSERT INTO `azure_mexicocentral_ips` (`ip_address`, `ip_type`) VALUES ('216.220.208.0/24', 'IPv4');
 INSERT INTO `azure_mexicocentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:701::/48', 'IPv6');
 INSERT INTO `azure_mexicocentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:701:7::12/127', 'IPv6');

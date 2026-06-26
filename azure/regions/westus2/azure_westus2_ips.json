@@ -5328,6 +5328,12 @@
     "region": "westus2"
   },
   {
+    "ip_address": "74.146.151.160/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.WestUS2",
+    "region": "westus2"
+  },
+  {
     "ip_address": "74.179.0.0/17",
     "ip_type": "IPv4",
     "service": "AzureCloud.westus2",

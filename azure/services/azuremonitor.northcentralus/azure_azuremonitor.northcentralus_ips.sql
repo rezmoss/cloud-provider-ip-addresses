@@ -15,6 +15,7 @@ INSERT INTO `azure_azuremonitor.northcentralus_ips` (`ip_address`, `ip_type`) VA
 INSERT INTO `azure_azuremonitor.northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('20.51.7.0/27', 'IPv4');
 INSERT INTO `azure_azuremonitor.northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('20.59.214.64/26', 'IPv4');
 INSERT INTO `azure_azuremonitor.northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('20.66.210.0/26', 'IPv4');
+INSERT INTO `azure_azuremonitor.northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('20.66.210.160/27', 'IPv4');
 INSERT INTO `azure_azuremonitor.northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('20.125.171.200/29', 'IPv4');
 INSERT INTO `azure_azuremonitor.northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('20.125.203.200/29', 'IPv4');
 INSERT INTO `azure_azuremonitor.northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('20.125.205.224/28', 'IPv4');

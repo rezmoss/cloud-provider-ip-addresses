@@ -36,6 +36,12 @@
     "region": "koreasouth"
   },
   {
+    "ip_address": "4.243.13.64/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
     "ip_address": "4.243.24.48/29",
     "ip_type": "IPv4",
     "service": "AzureArcInfrastructure.KoreaSouth",

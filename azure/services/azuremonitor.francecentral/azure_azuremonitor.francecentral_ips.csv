@@ -6,6 +6,7 @@ ip_address,ip_type,service,region
 4.211.103.0/24,IPv4,AzureMonitor.FranceCentral,centralfrance
 4.211.136.96/28,IPv4,AzureMonitor.FranceCentral,centralfrance
 4.211.136.128/27,IPv4,AzureMonitor.FranceCentral,centralfrance
+4.211.199.0/28,IPv4,AzureMonitor.FranceCentral,centralfrance
 20.19.27.128/28,IPv4,AzureMonitor.FranceCentral,centralfrance
 20.40.137.91/32,IPv4,AzureMonitor.FranceCentral,centralfrance
 20.40.140.212/32,IPv4,AzureMonitor.FranceCentral,centralfrance

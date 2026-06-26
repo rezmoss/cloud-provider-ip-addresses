@@ -1920,6 +1920,12 @@
     "region": "westcentralus"
   },
   {
+    "ip_address": "48.194.237.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
     "ip_address": "48.208.45.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.westcentralus",

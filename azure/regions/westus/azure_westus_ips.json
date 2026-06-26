@@ -5478,6 +5478,12 @@
     "region": "westus"
   },
   {
+    "ip_address": "48.195.121.160/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.WestUS",
+    "region": "westus"
+  },
+  {
     "ip_address": "48.205.0.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.westus",

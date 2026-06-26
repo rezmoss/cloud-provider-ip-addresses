@@ -13,6 +13,7 @@ INSERT INTO `azure_azuremonitor.brazilsoutheast_ips` (`ip_address`, `ip_type`) V
 INSERT INTO `azure_azuremonitor.brazilsoutheast_ips` (`ip_address`, `ip_type`) VALUES ('20.206.0.196/31', 'IPv4');
 INSERT INTO `azure_azuremonitor.brazilsoutheast_ips` (`ip_address`, `ip_type`) VALUES ('20.206.5.40/29', 'IPv4');
 INSERT INTO `azure_azuremonitor.brazilsoutheast_ips` (`ip_address`, `ip_type`) VALUES ('20.206.35.112/28', 'IPv4');
+INSERT INTO `azure_azuremonitor.brazilsoutheast_ips` (`ip_address`, `ip_type`) VALUES ('20.206.49.64/28', 'IPv4');
 INSERT INTO `azure_azuremonitor.brazilsoutheast_ips` (`ip_address`, `ip_type`) VALUES ('108.140.6.64/27', 'IPv4');
 INSERT INTO `azure_azuremonitor.brazilsoutheast_ips` (`ip_address`, `ip_type`) VALUES ('108.140.25.128/26', 'IPv4');
 INSERT INTO `azure_azuremonitor.brazilsoutheast_ips` (`ip_address`, `ip_type`) VALUES ('191.233.15.128/27', 'IPv4');

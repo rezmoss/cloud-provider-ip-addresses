@@ -18,6 +18,12 @@
     "region": "jioindiawest"
   },
   {
+    "ip_address": "4.187.48.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
     "ip_address": "13.104.252.224/28",
     "ip_type": "IPv4",
     "service": "DataFactory.JioIndiaWest",

@@ -13,6 +13,7 @@ INSERT INTO `azure_centralindia_ips` (`ip_address`, `ip_type`) VALUES ('4.186.6.
 INSERT INTO `azure_centralindia_ips` (`ip_address`, `ip_type`) VALUES ('4.186.8.18/32', 'IPv4');
 INSERT INTO `azure_centralindia_ips` (`ip_address`, `ip_type`) VALUES ('4.186.8.62/32', 'IPv4');
 INSERT INTO `azure_centralindia_ips` (`ip_address`, `ip_type`) VALUES ('4.186.8.164/32', 'IPv4');
+INSERT INTO `azure_centralindia_ips` (`ip_address`, `ip_type`) VALUES ('4.186.119.112/28', 'IPv4');
 INSERT INTO `azure_centralindia_ips` (`ip_address`, `ip_type`) VALUES ('4.187.128.0/17', 'IPv4');
 INSERT INTO `azure_centralindia_ips` (`ip_address`, `ip_type`) VALUES ('4.188.0.0/16', 'IPv4');
 INSERT INTO `azure_centralindia_ips` (`ip_address`, `ip_type`) VALUES ('4.188.8.0/27', 'IPv4');

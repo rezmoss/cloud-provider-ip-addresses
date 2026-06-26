@@ -780,6 +780,12 @@
     "region": "southafricanorth"
   },
   {
+    "ip_address": "20.164.169.160/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
     "ip_address": "20.190.190.0/26",
     "ip_type": "IPv4",
     "service": "AzureCloud.southafricanorth",

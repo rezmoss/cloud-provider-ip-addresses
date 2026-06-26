@@ -60,6 +60,18 @@
     "region": "norwaye"
   },
   {
+    "ip_address": "4.177.37.208/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.NorwayEast",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "4.177.44.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.NorwayEast",
+    "region": "norwaye"
+  },
+  {
     "ip_address": "4.179.0.0/16",
     "ip_type": "IPv4",
     "service": "AzureCloud.norwaye",

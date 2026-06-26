@@ -13,6 +13,7 @@ INSERT INTO `azure_azuremonitor.southafricanorth_ips` (`ip_address`, `ip_type`) 
 INSERT INTO `azure_azuremonitor.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('20.87.86.208/28', 'IPv4');
 INSERT INTO `azure_azuremonitor.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('20.164.159.160/27', 'IPv4');
 INSERT INTO `azure_azuremonitor.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('20.164.159.192/26', 'IPv4');
+INSERT INTO `azure_azuremonitor.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('20.164.169.160/28', 'IPv4');
 INSERT INTO `azure_azuremonitor.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('102.37.72.240/29', 'IPv4');
 INSERT INTO `azure_azuremonitor.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('102.133.122.152/29', 'IPv4');
 INSERT INTO `azure_azuremonitor.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('102.133.123.240/29', 'IPv4');

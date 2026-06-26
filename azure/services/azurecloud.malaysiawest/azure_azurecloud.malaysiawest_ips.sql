@@ -53,6 +53,7 @@ INSERT INTO `azure_azurecloud.malaysiawest_ips` (`ip_address`, `ip_type`) VALUES
 INSERT INTO `azure_azurecloud.malaysiawest_ips` (`ip_address`, `ip_type`) VALUES ('57.150.94.0/23', 'IPv4');
 INSERT INTO `azure_azurecloud.malaysiawest_ips` (`ip_address`, `ip_type`) VALUES ('57.150.100.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.malaysiawest_ips` (`ip_address`, `ip_type`) VALUES ('70.152.224.0/24', 'IPv4');
+INSERT INTO `azure_azurecloud.malaysiawest_ips` (`ip_address`, `ip_type`) VALUES ('74.156.0.0/17', 'IPv4');
 INSERT INTO `azure_azurecloud.malaysiawest_ips` (`ip_address`, `ip_type`) VALUES ('85.211.128.0/17', 'IPv4');
 INSERT INTO `azure_azurecloud.malaysiawest_ips` (`ip_address`, `ip_type`) VALUES ('151.206.144.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.malaysiawest_ips` (`ip_address`, `ip_type`) VALUES ('151.206.170.0/24', 'IPv4');

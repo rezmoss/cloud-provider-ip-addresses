@@ -19,6 +19,7 @@ INSERT INTO `azure_azuremonitor.westeurope_ips` (`ip_address`, `ip_type`) VALUES
 INSERT INTO `azure_azuremonitor.westeurope_ips` (`ip_address`, `ip_type`) VALUES ('13.80.134.255/32', 'IPv4');
 INSERT INTO `azure_azuremonitor.westeurope_ips` (`ip_address`, `ip_type`) VALUES ('13.80.199.128/25', 'IPv4');
 INSERT INTO `azure_azuremonitor.westeurope_ips` (`ip_address`, `ip_type`) VALUES ('13.80.217.192/26', 'IPv4');
+INSERT INTO `azure_azuremonitor.westeurope_ips` (`ip_address`, `ip_type`) VALUES ('13.81.158.224/27', 'IPv4');
 INSERT INTO `azure_azuremonitor.westeurope_ips` (`ip_address`, `ip_type`) VALUES ('13.81.159.0/24', 'IPv4');
 INSERT INTO `azure_azuremonitor.westeurope_ips` (`ip_address`, `ip_type`) VALUES ('20.50.88.224/27', 'IPv4');
 INSERT INTO `azure_azuremonitor.westeurope_ips` (`ip_address`, `ip_type`) VALUES ('20.50.206.0/28', 'IPv4');

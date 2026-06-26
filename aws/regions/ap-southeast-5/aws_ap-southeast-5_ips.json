@@ -372,6 +372,18 @@
     "region": "ap-southeast-5"
   },
   {
+    "ip_address": "63.249.174.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-southeast-5"
+  },
+  {
+    "ip_address": "63.249.174.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "ap-southeast-5"
+  },
+  {
     "ip_address": "63.249.175.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",

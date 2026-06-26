@@ -887,6 +887,7 @@ ip_address,ip_type,service,region
 72.154.0.0/17,IPv4,AzureCloud.westus2,westus2
 72.154.50.32/27,IPv4,AzureSignalR.WestUS2,westus2
 74.146.128.0/17,IPv4,AzureCloud.westus2,westus2
+74.146.151.160/27,IPv4,AzureMonitor.WestUS2,westus2
 74.179.0.0/17,IPv4,AzureCloud.westus2,westus2
 74.179.37.192/27,IPv4,AzurePortal.WestUS2,westus2
 104.44.89.128/27,IPv4,AzureCloud.westus2,westus2

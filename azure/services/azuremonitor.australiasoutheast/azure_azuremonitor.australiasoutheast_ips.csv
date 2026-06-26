@@ -24,6 +24,7 @@ ip_address,ip_type,service,region
 48.215.146.112/28,IPv4,AzureMonitor.AustraliaSoutheast,australiasoutheast
 48.215.167.96/27,IPv4,AzureMonitor.AustraliaSoutheast,australiasoutheast
 48.215.167.128/26,IPv4,AzureMonitor.AustraliaSoutheast,australiasoutheast
+48.215.177.224/28,IPv4,AzureMonitor.AustraliaSoutheast,australiasoutheast
 68.218.181.128/27,IPv4,AzureMonitor.AustraliaSoutheast,australiasoutheast
 68.218.182.0/26,IPv4,AzureMonitor.AustraliaSoutheast,australiasoutheast
 104.46.162.64/27,IPv4,AzureMonitor.AustraliaSoutheast,australiasoutheast
@@ -33,6 +34,7 @@ ip_address,ip_type,service,region
 2603:1010:101:1::300/121,IPv6,AzureMonitor.AustraliaSoutheast,australiasoutheast
 2603:1010:101:2::5c0/123,IPv6,AzureMonitor.AustraliaSoutheast,australiasoutheast
 2603:1010:101:6::/122,IPv6,AzureMonitor.AustraliaSoutheast,australiasoutheast
+2603:1010:101:8::400/119,IPv6,AzureMonitor.AustraliaSoutheast,australiasoutheast
 2603:1010:101:402::500/121,IPv6,AzureMonitor.AustraliaSoutheast,australiasoutheast
 2603:1010:207:1::180/121,IPv6,AzureMonitor.AustraliaSoutheast,australiasoutheast
 2603:1010:207:4::/120,IPv6,AzureMonitor.AustraliaSoutheast,australiasoutheast

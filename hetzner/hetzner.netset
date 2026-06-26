@@ -1,5 +1,5 @@
 # hetzner IP ranges - ipset restore format (hash:net)
-# Version: 1 | Generated: 2026-06-25 | Last changed: 2026-06-18
+# Version: 1 | Generated: 2026-06-26 | Last changed: 2026-06-18
 # IPv4: 83 merged subnets, 3367936 unique IPs
 # IPv6: 5 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses

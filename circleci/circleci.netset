@@ -1,5 +1,5 @@
 # circleci IP ranges - ipset restore format (hash:net)
-# Version: 1 | Generated: 2026-06-25 | Last changed: 2026-06-18
+# Version: 1 | Generated: 2026-06-26 | Last changed: 2026-06-18
 # IPv4: 42 merged subnets, 3871 unique IPs
 # IPv6: 0 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses

@@ -8778,6 +8778,12 @@
     "region": "eastus"
   },
   {
+    "ip_address": "57.175.217.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.EastUS",
+    "region": "eastus"
+  },
+  {
     "ip_address": "65.54.19.128/27",
     "ip_type": "IPv4",
     "service": "AzureCloud.eastus",
@@ -8859,6 +8865,12 @@
     "ip_address": "72.152.254.0/24",
     "ip_type": "IPv4",
     "service": "SCCservice.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "74.151.128.0/17",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.eastus",
     "region": "eastus"
   },
   {

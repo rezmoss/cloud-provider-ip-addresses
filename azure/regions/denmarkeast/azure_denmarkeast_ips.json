@@ -594,6 +594,12 @@
     "region": "denmarkeast"
   },
   {
+    "ip_address": "9.205.210.184/29",
+    "ip_type": "IPv4",
+    "service": "StorageSyncService.DenmarkEast",
+    "region": "denmarkeast"
+  },
+  {
     "ip_address": "20.20.48.224/27",
     "ip_type": "IPv4",
     "service": "AzureCloud.denmarkeast",

@@ -168,6 +168,12 @@
     "region": "canadacentral"
   },
   {
+    "ip_address": "4.173.136.112/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
     "ip_address": "4.173.137.0/25",
     "ip_type": "IPv4",
     "service": "AzureMonitor.CanadaCentral",

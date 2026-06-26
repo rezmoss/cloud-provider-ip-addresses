@@ -2184,6 +2184,12 @@
     "region": "eastus2euap"
   },
   {
+    "ip_address": "40.120.159.76/31",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.eastus2euap",
+    "region": "eastus2euap"
+  },
+  {
     "ip_address": "40.120.159.98/31",
     "ip_type": "IPv4",
     "service": "AzureCloud.eastus2euap",
@@ -4056,6 +4062,12 @@
     "region": "eastus2euap"
   },
   {
+    "ip_address": "74.151.10.128/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
     "ip_address": "104.44.95.208/28",
     "ip_type": "IPv4",
     "service": "AzureCloud.eastus2euap",
@@ -4579,6 +4591,12 @@
   },
   {
     "ip_address": "2603:1030:401:2c6::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.eastus2euap",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "2603:1030:401:2d6::/64",
     "ip_type": "IPv6",
     "service": "AzureCloud.eastus2euap",
     "region": "eastus2euap"
@@ -5725,6 +5743,12 @@
   },
   {
     "ip_address": "2603:1030:40b:14::/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "2603:1030:40b:16::/119",
     "ip_type": "IPv6",
     "service": "AzureMonitor.EastUS2EUAP",
     "region": "eastus2euap"

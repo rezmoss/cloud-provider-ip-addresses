@@ -319,6 +319,7 @@ ip_address,ip_type,service,region
 48.194.207.152/29,IPv4,AzureIoTHub.WestCentralUS,westcentralus
 48.194.207.192/26,IPv4,AzureIoTHub.WestCentralUS,westcentralus
 48.194.208.0/25,IPv4,AzureIoTHub.WestCentralUS,westcentralus
+48.194.237.224/27,IPv4,AzureMonitor.WestCentralUS,westcentralus
 48.208.45.0/24,IPv4,AzureCloud.westcentralus,westcentralus
 48.208.88.0/24,IPv4,AzureCloud.westcentralus,westcentralus
 48.212.36.0/24,IPv4,AzureCloud.westcentralus,westcentralus

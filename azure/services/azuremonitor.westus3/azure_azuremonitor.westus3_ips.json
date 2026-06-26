@@ -156,6 +156,24 @@
     "region": "westus3"
   },
   {
+    "ip_address": "172.181.31.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.WestUS3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "172.181.31.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.WestUS3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "172.181.31.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.WestUS3",
+    "region": "westus3"
+  },
+  {
     "ip_address": "172.182.185.224/27",
     "ip_type": "IPv4",
     "service": "AzureMonitor.WestUS3",

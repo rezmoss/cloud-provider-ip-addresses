@@ -24,6 +24,7 @@ ip_address,ip_type,service,region
 135.116.175.0/26,IPv4,AzureMonitor.SwedenCentral,swedencentral
 135.225.42.192/26,IPv4,AzureMonitor.SwedenCentral,swedencentral
 172.160.153.128/26,IPv4,AzureMonitor.SwedenCentral,swedencentral
+172.160.153.240/28,IPv4,AzureMonitor.SwedenCentral,swedencentral
 172.160.223.224/27,IPv4,AzureMonitor.SwedenCentral,swedencentral
 2603:1020:1001:6::1/128,IPv6,AzureMonitor.SwedenCentral,swedencentral
 2603:1020:1004::280/122,IPv6,AzureMonitor.SwedenCentral,swedencentral

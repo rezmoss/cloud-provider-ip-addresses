@@ -30,6 +30,12 @@
     "region": "qatarcentral"
   },
   {
+    "ip_address": "4.170.10.240/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
     "ip_address": "4.171.24.0/25",
     "ip_type": "IPv4",
     "service": "Sql.QatarCentral",

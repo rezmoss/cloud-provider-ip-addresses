@@ -336,6 +336,12 @@
     "region": "northeurope"
   },
   {
+    "ip_address": "74.144.69.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.NorthEurope",
+    "region": "northeurope"
+  },
+  {
     "ip_address": "104.41.224.134/32",
     "ip_type": "IPv4",
     "service": "AzureMonitor.NorthEurope",

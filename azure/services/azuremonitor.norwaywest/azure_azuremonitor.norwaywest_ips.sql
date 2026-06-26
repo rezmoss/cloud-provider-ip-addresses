@@ -19,6 +19,7 @@ INSERT INTO `azure_azuremonitor.norwaywest_ips` (`ip_address`, `ip_type`) VALUES
 INSERT INTO `azure_azuremonitor.norwaywest_ips` (`ip_address`, `ip_type`) VALUES ('51.120.183.160/29', 'IPv4');
 INSERT INTO `azure_azuremonitor.norwaywest_ips` (`ip_address`, `ip_type`) VALUES ('51.120.219.208/28', 'IPv4');
 INSERT INTO `azure_azuremonitor.norwaywest_ips` (`ip_address`, `ip_type`) VALUES ('74.240.1.176/28', 'IPv4');
+INSERT INTO `azure_azuremonitor.norwaywest_ips` (`ip_address`, `ip_type`) VALUES ('74.240.7.96/28', 'IPv4');
 INSERT INTO `azure_azuremonitor.norwaywest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:f04::780/121', 'IPv6');
 INSERT INTO `azure_azuremonitor.norwaywest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:f04:1::280/123', 'IPv6');
 INSERT INTO `azure_azuremonitor.norwaywest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:f04:1::300/121', 'IPv6');

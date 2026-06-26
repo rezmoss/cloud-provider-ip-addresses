@@ -720,6 +720,12 @@
     "region": "centraluseuap"
   },
   {
+    "ip_address": "52.108.138.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.centraluseuap",
+    "region": "centraluseuap"
+  },
+  {
     "ip_address": "52.109.140.0/22",
     "ip_type": "IPv4",
     "service": "AzureCloud.centraluseuap",

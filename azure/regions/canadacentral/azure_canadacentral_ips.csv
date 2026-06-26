@@ -27,6 +27,7 @@ ip_address,ip_type,service,region
 4.173.101.160/27,IPv4,AzureIoTHub.CanadaCentral,canadacentral
 4.173.102.0/26,IPv4,AzureIoTHub.CanadaCentral,canadacentral
 4.173.102.64/28,IPv4,AzureMonitor.CanadaCentral,canadacentral
+4.173.136.112/28,IPv4,AzureMonitor.CanadaCentral,canadacentral
 4.173.137.0/25,IPv4,AzureMonitor.CanadaCentral,canadacentral
 4.174.0.0/16,IPv4,AzureCloud.canadacentral,canadacentral
 4.174.144.8/29,IPv4,PowerPlatformPlex.CanadaCentral,canadacentral

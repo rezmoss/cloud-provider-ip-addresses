@@ -119,6 +119,7 @@ ip_address,ip_type,service,region
 52.106.1.0/24,IPv4,AzureCloud.centraluseuap,centraluseuap
 52.106.6.0/24,IPv4,AzureCloud.centraluseuap,centraluseuap
 52.108.113.0/24,IPv4,AzureCloud.centraluseuap,centraluseuap
+52.108.138.0/24,IPv4,AzureCloud.centraluseuap,centraluseuap
 52.109.140.0/22,IPv4,AzureCloud.centraluseuap,centraluseuap
 52.123.192.0/24,IPv4,AzureCloud.centraluseuap,centraluseuap
 52.123.194.0/24,IPv4,AzureCloud.centraluseuap,centraluseuap

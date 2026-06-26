@@ -42,6 +42,12 @@
     "region": "centralfrance"
   },
   {
+    "ip_address": "4.211.199.0/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
     "ip_address": "20.19.27.128/28",
     "ip_type": "IPv4",
     "service": "AzureMonitor.FranceCentral",

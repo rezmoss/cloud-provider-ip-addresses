@@ -11,6 +11,7 @@ INSERT INTO `azure_azuremonitor.southeastasia_ips` (`ip_address`, `ip_type`) VAL
 INSERT INTO `azure_azuremonitor.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('4.145.79.224/27', 'IPv4');
 INSERT INTO `azure_azuremonitor.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('4.145.218.0/24', 'IPv4');
 INSERT INTO `azure_azuremonitor.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('4.145.220.240/28', 'IPv4');
+INSERT INTO `azure_azuremonitor.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('4.193.30.0/28', 'IPv4');
 INSERT INTO `azure_azuremonitor.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('13.67.9.192/28', 'IPv4');
 INSERT INTO `azure_azuremonitor.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('13.67.10.64/29', 'IPv4');
 INSERT INTO `azure_azuremonitor.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('13.67.10.92/30', 'IPv4');

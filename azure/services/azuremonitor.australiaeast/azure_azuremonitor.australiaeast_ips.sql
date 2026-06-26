@@ -45,6 +45,7 @@ INSERT INTO `azure_azuremonitor.australiaeast_ips` (`ip_address`, `ip_type`) VAL
 INSERT INTO `azure_azuremonitor.australiaeast_ips` (`ip_address`, `ip_type`) VALUES ('40.79.173.8/29', 'IPv4');
 INSERT INTO `azure_azuremonitor.australiaeast_ips` (`ip_address`, `ip_type`) VALUES ('40.126.246.183/32', 'IPv4');
 INSERT INTO `azure_azuremonitor.australiaeast_ips` (`ip_address`, `ip_type`) VALUES ('51.56.158.176/28', 'IPv4');
+INSERT INTO `azure_azuremonitor.australiaeast_ips` (`ip_address`, `ip_type`) VALUES ('51.56.204.64/28', 'IPv4');
 INSERT INTO `azure_azuremonitor.australiaeast_ips` (`ip_address`, `ip_type`) VALUES ('51.56.204.128/25', 'IPv4');
 INSERT INTO `azure_azuremonitor.australiaeast_ips` (`ip_address`, `ip_type`) VALUES ('52.156.168.82/32', 'IPv4');
 INSERT INTO `azure_azuremonitor.australiaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:2:3::c9/128', 'IPv6');

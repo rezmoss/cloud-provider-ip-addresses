@@ -108,6 +108,12 @@
     "region": "ukwest"
   },
   {
+    "ip_address": "172.186.133.224/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.UKWest",
+    "region": "ukwest"
+  },
+  {
     "ip_address": "172.187.35.160/27",
     "ip_type": "IPv4",
     "service": "AzureMonitor.UKWest",

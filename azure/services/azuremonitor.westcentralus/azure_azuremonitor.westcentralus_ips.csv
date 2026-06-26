@@ -16,6 +16,7 @@ ip_address,ip_type,service,region
 40.67.122.0/26,IPv4,AzureMonitor.WestCentralUS,westcentralus
 40.67.122.96/29,IPv4,AzureMonitor.WestCentralUS,westcentralus
 40.67.124.128/29,IPv4,AzureMonitor.WestCentralUS,westcentralus
+48.194.237.224/27,IPv4,AzureMonitor.WestCentralUS,westcentralus
 52.148.44.224/27,IPv4,AzureMonitor.WestCentralUS,westcentralus
 52.150.152.48/28,IPv4,AzureMonitor.WestCentralUS,westcentralus
 52.150.152.90/31,IPv4,AzureMonitor.WestCentralUS,westcentralus

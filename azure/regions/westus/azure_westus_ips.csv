@@ -912,6 +912,7 @@ ip_address,ip_type,service,region
 48.195.88.2/31,IPv4,AzureDevOps.WestUS,westus
 48.195.88.48/30,IPv4,AzureDevOps.WestUS,westus
 48.195.98.0/28,IPv4,AzureIoTHub.WestUS,westus
+48.195.121.160/27,IPv4,AzureMonitor.WestUS,westus
 48.205.0.0/24,IPv4,AzureCloud.westus,westus
 48.205.2.0/24,IPv4,AzureCloud.westus,westus
 48.205.4.0/24,IPv4,AzureCloud.westus,westus

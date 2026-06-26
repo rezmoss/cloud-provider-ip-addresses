@@ -214,6 +214,7 @@ INSERT INTO `azure_australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('74.1
 INSERT INTO `azure_australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('74.147.1.104/30', 'IPv4');
 INSERT INTO `azure_australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('74.147.2.0/26', 'IPv4');
 INSERT INTO `azure_australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('74.147.2.64/27', 'IPv4');
+INSERT INTO `azure_australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('74.147.11.208/29', 'IPv4');
 INSERT INTO `azure_australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:300::/47', 'IPv6');
 INSERT INTO `azure_australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:300::35/128', 'IPv6');
 INSERT INTO `azure_australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:300::88/128', 'IPv6');

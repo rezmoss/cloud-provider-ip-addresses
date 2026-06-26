@@ -102,6 +102,18 @@
     "region": "uaenorth"
   },
   {
+    "ip_address": "4.161.151.60/30",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.UAENorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "4.161.156.48/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.UAENorth",
+    "region": "uaenorth"
+  },
+  {
     "ip_address": "4.162.0.0/16",
     "ip_type": "IPv4",
     "service": "AzureCloud.uaenorth",

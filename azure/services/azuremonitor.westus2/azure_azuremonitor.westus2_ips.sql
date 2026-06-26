@@ -54,6 +54,7 @@ INSERT INTO `azure_azuremonitor.westus2_ips` (`ip_address`, `ip_type`) VALUES ('
 INSERT INTO `azure_azuremonitor.westus2_ips` (`ip_address`, `ip_type`) VALUES ('52.229.25.130/32', 'IPv4');
 INSERT INTO `azure_azuremonitor.westus2_ips` (`ip_address`, `ip_type`) VALUES ('52.229.37.75/32', 'IPv4');
 INSERT INTO `azure_azuremonitor.westus2_ips` (`ip_address`, `ip_type`) VALUES ('52.247.202.90/32', 'IPv4');
+INSERT INTO `azure_azuremonitor.westus2_ips` (`ip_address`, `ip_type`) VALUES ('74.146.151.160/27', 'IPv4');
 INSERT INTO `azure_azuremonitor.westus2_ips` (`ip_address`, `ip_type`) VALUES ('172.179.208.0/27', 'IPv4');
 INSERT INTO `azure_azuremonitor.westus2_ips` (`ip_address`, `ip_type`) VALUES ('172.179.208.64/26', 'IPv4');
 INSERT INTO `azure_azuremonitor.westus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:c02:2::285/128', 'IPv6');

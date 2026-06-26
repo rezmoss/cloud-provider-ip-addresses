@@ -525,6 +525,7 @@ INSERT INTO `azure_azurecloud.eastus_ips` (`ip_address`, `ip_type`) VALUES ('70.
 INSERT INTO `azure_azurecloud.eastus_ips` (`ip_address`, `ip_type`) VALUES ('70.152.120.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.eastus_ips` (`ip_address`, `ip_type`) VALUES ('70.152.233.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.eastus_ips` (`ip_address`, `ip_type`) VALUES ('72.152.128.0/17', 'IPv4');
+INSERT INTO `azure_azurecloud.eastus_ips` (`ip_address`, `ip_type`) VALUES ('74.151.128.0/17', 'IPv4');
 INSERT INTO `azure_azurecloud.eastus_ips` (`ip_address`, `ip_type`) VALUES ('74.179.128.0/17', 'IPv4');
 INSERT INTO `azure_azurecloud.eastus_ips` (`ip_address`, `ip_type`) VALUES ('74.235.0.0/16', 'IPv4');
 INSERT INTO `azure_azurecloud.eastus_ips` (`ip_address`, `ip_type`) VALUES ('104.41.128.0/19', 'IPv4');

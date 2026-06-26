@@ -131,6 +131,7 @@ ip_address,ip_type,service,region
 13.81.136.0/25,IPv4,AzureIoTHub.WestEurope,westeurope
 13.81.136.128/26,IPv4,AzureIoTHub.WestEurope,westeurope
 13.81.136.192/28,IPv4,AzureIoTHub.WestEurope,westeurope
+13.81.158.224/27,IPv4,AzureMonitor.WestEurope,westeurope
 13.81.159.0/24,IPv4,AzureMonitor.WestEurope,westeurope
 13.81.204.189/32,IPv4,MicrosoftCloudAppSecurity.WestEurope,westeurope
 13.81.209.46/32,IPv4,MicrosoftCloudAppSecurity.WestEurope,westeurope
@@ -1577,6 +1578,7 @@ ip_address,ip_type,service,region
 145.190.66.0/23,IPv4,AzureCloud.westeurope,westeurope
 145.190.68.0/24,IPv4,AzureCloud.westeurope,westeurope
 145.190.78.0/24,IPv4,AzureCloud.westeurope,westeurope
+145.190.81.0/24,IPv4,AzureCloud.westeurope,westeurope
 145.190.135.0/24,IPv4,AzureCloud.westeurope,westeurope
 145.190.135.0/24,IPv4,Storage.WestEurope,westeurope
 145.190.170.0/24,IPv4,AzureCloud.westeurope,westeurope

@@ -90,6 +90,7 @@ ip_address,ip_type,service,region
 74.160.2.224/27,IPv4,AzureIoTHub.SouthAfricaWest,southafricawest
 74.160.6.0/26,IPv4,AzureIoTHub.SouthAfricaWest,southafricawest
 74.160.6.64/28,IPv4,AzureMonitor.SouthAfricaWest,southafricawest
+74.160.9.96/28,IPv4,AzureMonitor.SouthAfricaWest,southafricawest
 102.37.26.0/27,IPv4,AzureCloud.southafricawest,southafricawest
 102.37.64.0/21,IPv4,AzureCloud.southafricawest,southafricawest
 102.37.64.0/27,IPv4,AzureConnectors.SouthAfricaWest,southafricawest

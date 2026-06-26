@@ -7,6 +7,7 @@ CREATE TABLE IF NOT EXISTS `azure_azuremonitor.centralindia_ips` (
 );
 
 INSERT INTO `azure_azuremonitor.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('4.186.1.0/24', 'IPv4');
+INSERT INTO `azure_azuremonitor.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('4.186.119.112/28', 'IPv4');
 INSERT INTO `azure_azuremonitor.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('4.188.8.112/28', 'IPv4');
 INSERT INTO `azure_azuremonitor.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('4.188.59.144/28', 'IPv4');
 INSERT INTO `azure_azuremonitor.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('4.188.60.0/24', 'IPv4');

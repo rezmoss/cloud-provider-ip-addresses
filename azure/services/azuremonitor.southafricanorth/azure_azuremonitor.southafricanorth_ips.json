@@ -42,6 +42,12 @@
     "region": "southafricanorth"
   },
   {
+    "ip_address": "20.164.169.160/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
     "ip_address": "102.37.72.240/29",
     "ip_type": "IPv4",
     "service": "AzureMonitor.SouthAfricaNorth",

@@ -7,6 +7,7 @@ CREATE TABLE IF NOT EXISTS `azure_azuremonitor.koreasouth_ips` (
 );
 
 INSERT INTO `azure_azuremonitor.koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('4.243.7.160/28', 'IPv4');
+INSERT INTO `azure_azuremonitor.koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('4.243.13.64/28', 'IPv4');
 INSERT INTO `azure_azuremonitor.koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('4.243.42.64/27', 'IPv4');
 INSERT INTO `azure_azuremonitor.koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('4.243.44.128/26', 'IPv4');
 INSERT INTO `azure_azuremonitor.koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('4.243.139.224/27', 'IPv4');

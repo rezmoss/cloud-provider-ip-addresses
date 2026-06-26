@@ -13,6 +13,7 @@ INSERT INTO `azure_azuremonitor.francecentral_ips` (`ip_address`, `ip_type`) VAL
 INSERT INTO `azure_azuremonitor.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('4.211.103.0/24', 'IPv4');
 INSERT INTO `azure_azuremonitor.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('4.211.136.96/28', 'IPv4');
 INSERT INTO `azure_azuremonitor.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('4.211.136.128/27', 'IPv4');
+INSERT INTO `azure_azuremonitor.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('4.211.199.0/28', 'IPv4');
 INSERT INTO `azure_azuremonitor.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('20.19.27.128/28', 'IPv4');
 INSERT INTO `azure_azuremonitor.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('20.40.137.91/32', 'IPv4');
 INSERT INTO `azure_azuremonitor.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('20.40.140.212/32', 'IPv4');

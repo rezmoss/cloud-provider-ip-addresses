@@ -211,6 +211,8 @@ ip_address,ip_type,service,region
 172.195.123.0/24,IPv4,PowerPlatformInfra.MexicoCentral,mexicocentral
 172.195.128.0/21,IPv4,AzureEventGrid.MexicoCentral,mexicocentral
 172.195.141.48/28,IPv4,AzureMonitor.MexicoCentral,mexicocentral
+172.195.144.248/29,IPv4,StorageSyncService.MexicoCentral,mexicocentral
+172.195.147.48/28,IPv4,AzureMonitor.MexicoCentral,mexicocentral
 216.220.208.0/24,IPv4,AzureCloud.mexicocentral,mexicocentral
 2603:1030:701::/48,IPv6,AzureCloud.mexicocentral,mexicocentral
 2603:1030:701:7::12/127,IPv6,AzureMonitor.MexicoCentral,mexicocentral

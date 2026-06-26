@@ -1674,6 +1674,7 @@ ip_address,ip_type,service,region
 74.145.28.0/24,IPv4,AzureIoTHub.EastUS2,eastus2
 74.145.29.0/27,IPv4,AzureIoTHub.EastUS2,eastus2
 74.145.58.0/25,IPv4,AzureMonitor.EastUS2,eastus2
+74.145.59.96/27,IPv4,AzureMonitor.EastUS2,eastus2
 74.249.0.0/17,IPv4,AzureCloud.eastus2,eastus2
 74.249.120.4/31,IPv4,AzureArcInfrastructure.EastUS2,eastus2
 74.249.120.64/26,IPv4,PowerBI.EastUS2,eastus2
@@ -2633,6 +2634,7 @@ ip_address,ip_type,service,region
 2603:1030:40c:31::100/123,IPv6,AzureIoTHub.EastUS2,eastus2
 2603:1030:40c:31::120/123,IPv6,AzureMonitor.EastUS2,eastus2
 2603:1030:40c:32::600/119,IPv6,AzureMonitor.EastUS2,eastus2
+2603:1030:40c:33::600/119,IPv6,AzureMonitor.EastUS2,eastus2
 2603:1030:40c:400::/123,IPv6,Sql.EastUS2,eastus2
 2603:1030:40c:401::/123,IPv6,Sql.EastUS2,eastus2
 2603:1030:40c:402::80/125,IPv6,AzureKeyVault.EastUS2,eastus2

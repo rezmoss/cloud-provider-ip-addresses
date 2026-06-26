@@ -6972,6 +6972,12 @@
     "region": "centralus"
   },
   {
+    "ip_address": "57.175.94.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.CentralUS",
+    "region": "centralus"
+  },
+  {
     "ip_address": "64.236.0.0/17",
     "ip_type": "IPv4",
     "service": "AzureCloud.centralus",
@@ -7513,6 +7519,12 @@
   },
   {
     "ip_address": "145.190.79.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.centralus",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "145.190.80.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.centralus",
     "region": "centralus"

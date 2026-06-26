@@ -102,6 +102,12 @@
     "region": "westcentralus"
   },
   {
+    "ip_address": "48.194.237.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
     "ip_address": "52.148.44.224/27",
     "ip_type": "IPv4",
     "service": "AzureMonitor.WestCentralUS",

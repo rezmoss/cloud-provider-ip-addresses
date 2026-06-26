@@ -6,6 +6,12 @@
     "region": "centralindia"
   },
   {
+    "ip_address": "4.186.119.112/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.CentralIndia",
+    "region": "centralindia"
+  },
+  {
     "ip_address": "4.188.8.112/28",
     "ip_type": "IPv4",
     "service": "AzureMonitor.CentralIndia",

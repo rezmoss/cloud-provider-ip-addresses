@@ -123,6 +123,7 @@ INSERT INTO `azure_eastasia_ips` (`ip_address`, `ip_type`) VALUES ('20.2.52.61/3
 INSERT INTO `azure_eastasia_ips` (`ip_address`, `ip_type`) VALUES ('20.2.105.64/28', 'IPv4');
 INSERT INTO `azure_eastasia_ips` (`ip_address`, `ip_type`) VALUES ('20.2.105.208/28', 'IPv4');
 INSERT INTO `azure_eastasia_ips` (`ip_address`, `ip_type`) VALUES ('20.2.105.224/30', 'IPv4');
+INSERT INTO `azure_eastasia_ips` (`ip_address`, `ip_type`) VALUES ('20.2.186.192/28', 'IPv4');
 INSERT INTO `azure_eastasia_ips` (`ip_address`, `ip_type`) VALUES ('20.6.128.0/17', 'IPv4');
 INSERT INTO `azure_eastasia_ips` (`ip_address`, `ip_type`) VALUES ('20.6.137.192/26', 'IPv4');
 INSERT INTO `azure_eastasia_ips` (`ip_address`, `ip_type`) VALUES ('20.6.139.0/25', 'IPv4');

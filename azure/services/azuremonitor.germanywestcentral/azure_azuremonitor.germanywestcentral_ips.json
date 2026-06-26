@@ -90,6 +90,12 @@
     "region": "germanywc"
   },
   {
+    "ip_address": "48.203.174.48/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
     "ip_address": "51.116.149.0/27",
     "ip_type": "IPv4",
     "service": "AzureMonitor.GermanyWestCentral",

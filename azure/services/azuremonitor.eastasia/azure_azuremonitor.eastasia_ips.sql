@@ -18,6 +18,7 @@ INSERT INTO `azure_azuremonitor.eastasia_ips` (`ip_address`, `ip_type`) VALUES (
 INSERT INTO `azure_azuremonitor.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('13.75.117.221/32', 'IPv4');
 INSERT INTO `azure_azuremonitor.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('13.75.119.169/32', 'IPv4');
 INSERT INTO `azure_azuremonitor.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('13.94.39.13/32', 'IPv4');
+INSERT INTO `azure_azuremonitor.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('20.2.186.192/28', 'IPv4');
 INSERT INTO `azure_azuremonitor.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('20.6.185.208/28', 'IPv4');
 INSERT INTO `azure_azuremonitor.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('20.187.197.192/27', 'IPv4');
 INSERT INTO `azure_azuremonitor.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('20.189.81.11/32', 'IPv4');

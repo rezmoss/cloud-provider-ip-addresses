@@ -504,6 +504,12 @@
     "region": "brazilse"
   },
   {
+    "ip_address": "20.206.49.64/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
     "ip_address": "20.209.210.0/23",
     "ip_type": "IPv4",
     "service": "AzureCloud.brazilse",

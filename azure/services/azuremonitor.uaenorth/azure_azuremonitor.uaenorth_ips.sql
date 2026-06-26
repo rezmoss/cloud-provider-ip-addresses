@@ -9,6 +9,8 @@ CREATE TABLE IF NOT EXISTS `azure_azuremonitor.uaenorth_ips` (
 INSERT INTO `azure_azuremonitor.uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('4.161.10.112/28', 'IPv4');
 INSERT INTO `azure_azuremonitor.uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('4.161.148.80/28', 'IPv4');
 INSERT INTO `azure_azuremonitor.uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('4.161.149.0/24', 'IPv4');
+INSERT INTO `azure_azuremonitor.uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('4.161.151.60/30', 'IPv4');
+INSERT INTO `azure_azuremonitor.uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('4.161.156.48/28', 'IPv4');
 INSERT INTO `azure_azuremonitor.uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('20.38.143.0/27', 'IPv4');
 INSERT INTO `azure_azuremonitor.uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('20.38.143.44/30', 'IPv4');
 INSERT INTO `azure_azuremonitor.uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('20.38.152.32/27', 'IPv4');

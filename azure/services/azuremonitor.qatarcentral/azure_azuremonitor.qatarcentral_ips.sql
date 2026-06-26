@@ -7,6 +7,7 @@ CREATE TABLE IF NOT EXISTS `azure_azuremonitor.qatarcentral_ips` (
 );
 
 INSERT INTO `azure_azuremonitor.qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('4.170.6.112/28', 'IPv4');
+INSERT INTO `azure_azuremonitor.qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('4.170.10.240/28', 'IPv4');
 INSERT INTO `azure_azuremonitor.qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('4.244.170.0/27', 'IPv4');
 INSERT INTO `azure_azuremonitor.qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('4.244.170.32/28', 'IPv4');
 INSERT INTO `azure_azuremonitor.qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('4.244.175.112/28', 'IPv4');

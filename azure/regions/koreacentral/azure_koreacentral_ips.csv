@@ -19,6 +19,7 @@ ip_address,ip_type,service,region
 4.183.0.0/16,IPv4,AzureCloud.koreacentral,koreacentral
 4.217.0.0/16,IPv4,AzureCloud.koreacentral,koreacentral
 4.217.136.64/29,IPv4,AppServiceManagement.KoreaCentral,koreacentral
+4.217.153.0/28,IPv4,AzureMonitor.KoreaCentral,koreacentral
 4.217.214.16/28,IPv4,AzureMonitor.KoreaCentral,koreacentral
 4.217.214.72/29,IPv4,AzureAttestation.KoreaCentral,koreacentral
 4.218.0.0/16,IPv4,AzureCloud.koreacentral,koreacentral
@@ -521,6 +522,7 @@ ip_address,ip_type,service,region
 2603:1040:f05:d::6e0/123,IPv6,AzureMonitor.KoreaCentral,koreacentral
 2603:1040:f05:e::/120,IPv6,AzureIoTHub.KoreaCentral,koreacentral
 2603:1040:f05:e::600/119,IPv6,AzureMonitor.KoreaCentral,koreacentral
+2603:1040:f05:10::/119,IPv6,AzureMonitor.KoreaCentral,koreacentral
 2603:1040:f05:400::/123,IPv6,Sql.KoreaCentral,koreacentral
 2603:1040:f05:401::/123,IPv6,Sql.KoreaCentral,koreacentral
 2603:1040:f05:402::80/125,IPv6,AzureKeyVault.KoreaCentral,koreacentral

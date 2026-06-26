@@ -109,6 +109,8 @@ ip_address,ip_type,service,region
 54.239.1.128/28,IPv4,AMAZON,af-south-1
 63.249.148.0/24,IPv4,AMAZON,af-south-1
 63.249.148.0/24,IPv4,EC2,af-south-1
+63.249.149.0/24,IPv4,AMAZON,af-south-1
+63.249.149.0/24,IPv4,EC2,af-south-1
 96.0.36.0/22,IPv4,AMAZON,af-south-1
 96.0.36.0/22,IPv4,EC2,af-south-1
 96.0.40.0/21,IPv4,AMAZON,af-south-1

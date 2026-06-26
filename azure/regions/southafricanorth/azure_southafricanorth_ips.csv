@@ -129,6 +129,7 @@ ip_address,ip_type,service,region
 20.164.166.18/32,IPv4,LogicApps.SouthAfricaNorth,southafricanorth
 20.164.167.181/32,IPv4,LogicApps.SouthAfricaNorth,southafricanorth
 20.164.167.236/32,IPv4,LogicApps.SouthAfricaNorth,southafricanorth
+20.164.169.160/28,IPv4,AzureMonitor.SouthAfricaNorth,southafricanorth
 20.190.190.0/26,IPv4,AzureCloud.southafricanorth,southafricanorth
 20.201.219.0/24,IPv4,AzureCloud.southafricanorth,southafricanorth
 20.202.71.0/24,IPv4,AzureCloud.southafricanorth,southafricanorth

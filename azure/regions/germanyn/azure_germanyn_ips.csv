@@ -332,6 +332,7 @@ ip_address,ip_type,service,region
 2603:1020:d04:a::740/123,IPv6,AzureIoTHub.GermanyNorth,germanyn
 2603:1020:d04:a::760/123,IPv6,AzureMonitor.GermanyNorth,germanyn
 2603:1020:d04:b::200/119,IPv6,AzureMonitor.GermanyNorth,germanyn
+2603:1020:d04:b::600/119,IPv6,AzureMonitor.GermanyNorth,germanyn
 2603:1020:d04:400::/123,IPv6,Sql.GermanyNorth,germanyn
 2603:1020:d04:402::80/125,IPv6,AzureKeyVault.GermanyNorth,germanyn
 2603:1020:d04:402::88/125,IPv6,MicrosoftContainerRegistry.GermanyNorth,germanyn

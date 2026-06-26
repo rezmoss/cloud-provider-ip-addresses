@@ -36,6 +36,12 @@
     "region": ""
   },
   {
+    "ip_address": "9.205.210.184/29",
+    "ip_type": "IPv4",
+    "service": "StorageSyncService",
+    "region": ""
+  },
+  {
     "ip_address": "13.73.248.112/29",
     "ip_type": "IPv4",
     "service": "StorageSyncService",
@@ -636,6 +642,12 @@
     "region": ""
   },
   {
+    "ip_address": "74.147.11.208/29",
+    "ip_type": "IPv4",
+    "service": "StorageSyncService",
+    "region": ""
+  },
+  {
     "ip_address": "74.248.175.152/29",
     "ip_type": "IPv4",
     "service": "StorageSyncService",
@@ -679,6 +691,12 @@
   },
   {
     "ip_address": "172.194.79.136/29",
+    "ip_type": "IPv4",
+    "service": "StorageSyncService",
+    "region": ""
+  },
+  {
+    "ip_address": "172.195.144.248/29",
     "ip_type": "IPv4",
     "service": "StorageSyncService",
     "region": ""

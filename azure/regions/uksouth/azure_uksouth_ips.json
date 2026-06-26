@@ -4206,6 +4206,12 @@
     "region": "uksouth"
   },
   {
+    "ip_address": "172.165.26.32/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.UKSouth",
+    "region": "uksouth"
+  },
+  {
     "ip_address": "172.165.40.0/31",
     "ip_type": "IPv4",
     "service": "AzureDevOps.UKSouth",

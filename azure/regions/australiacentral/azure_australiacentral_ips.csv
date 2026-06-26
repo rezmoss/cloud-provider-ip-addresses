@@ -207,6 +207,7 @@ ip_address,ip_type,service,region
 74.147.1.104/30,IPv4,AzureIoTHub.AustraliaCentral,australiacentral
 74.147.2.0/26,IPv4,AzureIoTHub.AustraliaCentral,australiacentral
 74.147.2.64/27,IPv4,AzureIoTHub.AustraliaCentral,australiacentral
+74.147.11.208/29,IPv4,StorageSyncService.AustraliaCentral,australiacentral
 2603:1010:300::/47,IPv6,AzureCloud.australiacentral,australiacentral
 2603:1010:300::35/128,IPv6,AzureMonitor.AustraliaCentral,australiacentral
 2603:1010:300::88/128,IPv6,AzureMonitor.AustraliaCentral,australiacentral

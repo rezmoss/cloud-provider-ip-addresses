@@ -1,6 +1,6 @@
 #!/bin/bash
 # Azure IP Ranges
-# Updated: 2026-06-20 03:18:59
+# Updated: 2026-06-26 03:20:00
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -563,6 +563,7 @@ ufw deny from 2603:1010:6:c02::480/121
 ufw deny from 2603:1010:101:1::280/123
 ufw deny from 2603:1010:101:1::300/121
 ufw deny from 2603:1010:101:2::5c0/123
+ufw deny from 2603:1010:101:8::400/119
 ufw deny from 2603:1010:101:402::500/121
 ufw deny from 2603:1010:207:4::/120
 ufw deny from 2603:1010:304:1::280/123
@@ -638,6 +639,7 @@ ufw deny from 2603:1020:a04:c02::480/121
 ufw deny from 2603:1020:b04:1::280/123
 ufw deny from 2603:1020:b04:1::300/121
 ufw deny from 2603:1020:b04:6::60/123
+ufw deny from 2603:1020:b04:b::200/119
 ufw deny from 2603:1020:b04:402::500/121
 ufw deny from 2603:1020:c04::360/123
 ufw deny from 2603:1020:c04::500/121
@@ -651,6 +653,7 @@ ufw deny from 2603:1020:d04:1::280/123
 ufw deny from 2603:1020:d04:1::300/121
 ufw deny from 2603:1020:d04:5::7c0/123
 ufw deny from 2603:1020:d04:9::400/120
+ufw deny from 2603:1020:d04:b::600/119
 ufw deny from 2603:1020:d04:402::500/121
 ufw deny from 2603:1020:e04::360/123
 ufw deny from 2603:1020:e04::500/121
@@ -689,6 +692,10 @@ ufw deny from 2603:1020:1302:2::80/121
 ufw deny from 2603:1020:1302:3::180/123
 ufw deny from 2603:1020:1302:5::600/120
 ufw deny from 2603:1020:1302:9::7c0/123
+ufw deny from 2603:1020:1302:b::500/120
+ufw deny from 2603:1020:1302:b::600/121
+ufw deny from 2603:1020:1302:b::680/122
+ufw deny from 2603:1020:1302:b::6c0/123
 ufw deny from 2603:1020:1403:2::/123
 ufw deny from 2603:1020:1403:2::400/121
 ufw deny from 2603:1020:1403:7::300/120
@@ -714,6 +721,7 @@ ufw deny from 2603:1030:10:c02::480/121
 ufw deny from 2603:1030:104::360/123
 ufw deny from 2603:1030:104::500/121
 ufw deny from 2603:1030:104:3::180/123
+ufw deny from 2603:1030:104:7::400/119
 ufw deny from 2603:1030:104:402::500/121
 ufw deny from 2603:1030:107:1::200/123
 ufw deny from 2603:1030:107:1::280/121
@@ -738,6 +746,7 @@ ufw deny from 2603:1030:40b:2::240/123
 ufw deny from 2603:1030:40b:2::300/121
 ufw deny from 2603:1030:40b:8::640/123
 ufw deny from 2603:1030:40b:10::500/120
+ufw deny from 2603:1030:40b:16::/119
 ufw deny from 2603:1030:40b:400::d00/121
 ufw deny from 2603:1030:40b:800::400/121
 ufw deny from 2603:1030:40b:c00::480/121
@@ -746,6 +755,7 @@ ufw deny from 2603:1030:40c::360/123
 ufw deny from 2603:1030:40c::500/121
 ufw deny from 2603:1030:40c:11::2c0/123
 ufw deny from 2603:1030:40c:24::200/120
+ufw deny from 2603:1030:40c:33::600/119
 ufw deny from 2603:1030:40c:402::500/121
 ufw deny from 2603:1030:40c:802::480/121
 ufw deny from 2603:1030:40c:c02::400/121
@@ -859,6 +869,7 @@ ufw deny from 2603:1040:606:1::280/123
 ufw deny from 2603:1040:606:1::300/121
 ufw deny from 2603:1040:606:3::540/123
 ufw deny from 2603:1040:606:b::400/120
+ufw deny from 2603:1040:606:10::/119
 ufw deny from 2603:1040:606:402::500/121
 ufw deny from 2603:1040:606:800::300/121
 ufw deny from 2603:1040:606:c00::/121
@@ -913,6 +924,7 @@ ufw deny from 2603:1040:f05::360/123
 ufw deny from 2603:1040:f05::500/121
 ufw deny from 2603:1040:f05:3::760/123
 ufw deny from 2603:1040:f05:c::100/120
+ufw deny from 2603:1040:f05:10::/119
 ufw deny from 2603:1040:f05:402::500/121
 ufw deny from 2603:1040:f05:802::480/121
 ufw deny from 2603:1040:f05:c02::480/121

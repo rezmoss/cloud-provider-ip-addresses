@@ -2,6 +2,7 @@ ip_address,ip_type,service,region
 4.187.0.0/18,IPv4,AzureCloud.jioindiawest,jioindiawest
 4.187.32.0/23,IPv4,AzureEventGrid.JioIndiaWest,jioindiawest
 4.187.39.32/28,IPv4,AzureMonitor.JioIndiaWest,jioindiawest
+4.187.48.80/28,IPv4,AzureMonitor.JioIndiaWest,jioindiawest
 13.104.252.224/28,IPv4,DataFactory.JioIndiaWest,jioindiawest
 13.105.75.48/28,IPv4,AzureCloud.jioindiawest,jioindiawest
 13.105.75.96/27,IPv4,AzureCloud.jioindiawest,jioindiawest

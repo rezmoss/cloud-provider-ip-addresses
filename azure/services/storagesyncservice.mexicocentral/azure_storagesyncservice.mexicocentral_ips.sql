@@ -7,4 +7,5 @@ CREATE TABLE IF NOT EXISTS `azure_storagesyncservice.mexicocentral_ips` (
 );
 
 INSERT INTO `azure_storagesyncservice.mexicocentral_ips` (`ip_address`, `ip_type`) VALUES ('158.23.11.176/29', 'IPv4');
+INSERT INTO `azure_storagesyncservice.mexicocentral_ips` (`ip_address`, `ip_type`) VALUES ('172.195.144.248/29', 'IPv4');
 INSERT INTO `azure_storagesyncservice.mexicocentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:702:400::1e0/123', 'IPv6');

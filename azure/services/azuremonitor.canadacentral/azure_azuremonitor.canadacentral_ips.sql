@@ -10,6 +10,7 @@ INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VAL
 INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.172.83.112/28', 'IPv4');
 INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.172.95.192/28', 'IPv4');
 INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.173.102.64/28', 'IPv4');
+INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.173.136.112/28', 'IPv4');
 INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.173.137.0/25', 'IPv4');
 INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.174.145.0/27', 'IPv4');
 INSERT INTO `azure_azuremonitor.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.174.145.64/26', 'IPv4');

@@ -150,6 +150,12 @@
     "region": "australiasoutheast"
   },
   {
+    "ip_address": "48.215.177.224/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  },
+  {
     "ip_address": "68.218.181.128/27",
     "ip_type": "IPv4",
     "service": "AzureMonitor.AustraliaSoutheast",
@@ -199,6 +205,12 @@
   },
   {
     "ip_address": "2603:1010:101:6::/122",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  },
+  {
+    "ip_address": "2603:1010:101:8::400/119",
     "ip_type": "IPv6",
     "service": "AzureMonitor.AustraliaSoutheast",
     "region": "australiasoutheast"

@@ -190,5 +190,29 @@
     "ip_type": "IPv6",
     "service": "AzureMonitor.PolandCentral",
     "region": "polandcentral"
+  },
+  {
+    "ip_address": "2603:1020:1302:b::500/120",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "2603:1020:1302:b::600/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "2603:1020:1302:b::680/122",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "2603:1020:1302:b::6c0/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.PolandCentral",
+    "region": "polandcentral"
   }
 ]

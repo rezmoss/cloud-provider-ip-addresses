@@ -21,6 +21,7 @@ INSERT INTO `azure_azuremonitor.germanywestcentral_ips` (`ip_address`, `ip_type`
 INSERT INTO `azure_azuremonitor.germanywestcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.218.184.192/27', 'IPv4');
 INSERT INTO `azure_azuremonitor.germanywestcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.218.185.16/28', 'IPv4');
 INSERT INTO `azure_azuremonitor.germanywestcentral_ips` (`ip_address`, `ip_type`) VALUES ('48.203.152.176/28', 'IPv4');
+INSERT INTO `azure_azuremonitor.germanywestcentral_ips` (`ip_address`, `ip_type`) VALUES ('48.203.174.48/28', 'IPv4');
 INSERT INTO `azure_azuremonitor.germanywestcentral_ips` (`ip_address`, `ip_type`) VALUES ('51.116.149.0/27', 'IPv4');
 INSERT INTO `azure_azuremonitor.germanywestcentral_ips` (`ip_address`, `ip_type`) VALUES ('51.116.155.240/28', 'IPv4');
 INSERT INTO `azure_azuremonitor.germanywestcentral_ips` (`ip_address`, `ip_type`) VALUES ('51.116.242.152/29', 'IPv4');

@@ -1,6 +1,7 @@
 ip_address,ip_type,service,region
 40.117.24.128/27,IPv4,AzureMonitor.SouthAfricaWest,southafricawest
 74.160.6.64/28,IPv4,AzureMonitor.SouthAfricaWest,southafricawest
+74.160.9.96/28,IPv4,AzureMonitor.SouthAfricaWest,southafricawest
 102.37.64.128/27,IPv4,AzureMonitor.SouthAfricaWest,southafricawest
 102.37.80.64/27,IPv4,AzureMonitor.SouthAfricaWest,southafricawest
 102.37.86.196/31,IPv4,AzureMonitor.SouthAfricaWest,southafricawest

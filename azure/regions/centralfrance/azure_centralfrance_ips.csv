@@ -31,6 +31,7 @@ ip_address,ip_type,service,region
 4.211.160.76/30,IPv4,AzureAttestation.FranceCentral,centralfrance
 4.211.160.80/29,IPv4,AzureAttestation.FranceCentral,centralfrance
 4.211.164.0/22,IPv4,AzureEventGrid.FranceCentral,centralfrance
+4.211.199.0/28,IPv4,AzureMonitor.FranceCentral,centralfrance
 4.211.203.169/32,IPv4,MicrosoftCloudAppSecurity.FranceCentral,centralfrance
 4.211.203.229/32,IPv4,MicrosoftCloudAppSecurity.FranceCentral,centralfrance
 4.211.205.90/32,IPv4,MicrosoftCloudAppSecurity.FranceCentral,centralfrance

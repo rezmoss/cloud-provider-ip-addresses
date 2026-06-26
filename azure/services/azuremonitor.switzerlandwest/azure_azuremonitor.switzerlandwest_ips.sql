@@ -19,6 +19,7 @@ INSERT INTO `azure_azuremonitor.switzerlandwest_ips` (`ip_address`, `ip_type`) V
 INSERT INTO `azure_azuremonitor.switzerlandwest_ips` (`ip_address`, `ip_type`) VALUES ('51.107.194.136/29', 'IPv4');
 INSERT INTO `azure_azuremonitor.switzerlandwest_ips` (`ip_address`, `ip_type`) VALUES ('51.107.250.0/27', 'IPv4');
 INSERT INTO `azure_azuremonitor.switzerlandwest_ips` (`ip_address`, `ip_type`) VALUES ('57.160.12.144/28', 'IPv4');
+INSERT INTO `azure_azuremonitor.switzerlandwest_ips` (`ip_address`, `ip_type`) VALUES ('57.160.22.32/28', 'IPv4');
 INSERT INTO `azure_azuremonitor.switzerlandwest_ips` (`ip_address`, `ip_type`) VALUES ('74.242.4.14/31', 'IPv4');
 INSERT INTO `azure_azuremonitor.switzerlandwest_ips` (`ip_address`, `ip_type`) VALUES ('74.242.36.96/27', 'IPv4');
 INSERT INTO `azure_azuremonitor.switzerlandwest_ips` (`ip_address`, `ip_type`) VALUES ('74.242.36.192/26', 'IPv4');
@@ -31,4 +32,5 @@ INSERT INTO `azure_azuremonitor.switzerlandwest_ips` (`ip_address`, `ip_type`) V
 INSERT INTO `azure_azuremonitor.switzerlandwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:b04:9::80/123', 'IPv6');
 INSERT INTO `azure_azuremonitor.switzerlandwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:b04:9::7a0/123', 'IPv6');
 INSERT INTO `azure_azuremonitor.switzerlandwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:b04:a::400/119', 'IPv6');
+INSERT INTO `azure_azuremonitor.switzerlandwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:b04:b::200/119', 'IPv6');
 INSERT INTO `azure_azuremonitor.switzerlandwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:b04:402::500/121', 'IPv6');

@@ -1704,6 +1704,12 @@
     "region": "southfrance"
   },
   {
+    "ip_address": "98.66.30.160/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.FranceSouth",
+    "region": "southfrance"
+  },
+  {
     "ip_address": "151.206.168.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.southfrance",

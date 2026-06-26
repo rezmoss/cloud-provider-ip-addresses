@@ -282,6 +282,12 @@
     "region": "centralus"
   },
   {
+    "ip_address": "57.175.94.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.CentralUS",
+    "region": "centralus"
+  },
+  {
     "ip_address": "104.208.18.64/29",
     "ip_type": "IPv4",
     "service": "AzureMonitor.CentralUS",

@@ -72,6 +72,12 @@
     "region": "eastasia"
   },
   {
+    "ip_address": "20.2.186.192/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.EastAsia",
+    "region": "eastasia"
+  },
+  {
     "ip_address": "20.6.185.208/28",
     "ip_type": "IPv4",
     "service": "AzureMonitor.EastAsia",

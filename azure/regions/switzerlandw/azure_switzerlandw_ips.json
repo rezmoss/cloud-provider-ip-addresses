@@ -1572,6 +1572,12 @@
     "region": "switzerlandw"
   },
   {
+    "ip_address": "57.160.22.32/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
     "ip_address": "70.152.30.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.switzerlandw",
@@ -2089,6 +2095,12 @@
   },
   {
     "ip_address": "2603:1020:b04:a::400/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "2603:1020:b04:b::200/119",
     "ip_type": "IPv6",
     "service": "AzureMonitor.SwitzerlandWest",
     "region": "switzerlandw"

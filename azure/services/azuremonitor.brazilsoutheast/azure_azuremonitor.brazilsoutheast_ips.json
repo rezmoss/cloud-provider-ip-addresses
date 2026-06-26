@@ -42,6 +42,12 @@
     "region": "brazilse"
   },
   {
+    "ip_address": "20.206.49.64/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
     "ip_address": "108.140.6.64/27",
     "ip_type": "IPv4",
     "service": "AzureMonitor.BrazilSoutheast",

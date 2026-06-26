@@ -38,6 +38,7 @@ INSERT INTO `azure_centralfrance_ips` (`ip_address`, `ip_type`) VALUES ('4.211.1
 INSERT INTO `azure_centralfrance_ips` (`ip_address`, `ip_type`) VALUES ('4.211.160.76/30', 'IPv4');
 INSERT INTO `azure_centralfrance_ips` (`ip_address`, `ip_type`) VALUES ('4.211.160.80/29', 'IPv4');
 INSERT INTO `azure_centralfrance_ips` (`ip_address`, `ip_type`) VALUES ('4.211.164.0/22', 'IPv4');
+INSERT INTO `azure_centralfrance_ips` (`ip_address`, `ip_type`) VALUES ('4.211.199.0/28', 'IPv4');
 INSERT INTO `azure_centralfrance_ips` (`ip_address`, `ip_type`) VALUES ('4.211.203.169/32', 'IPv4');
 INSERT INTO `azure_centralfrance_ips` (`ip_address`, `ip_type`) VALUES ('4.211.203.229/32', 'IPv4');
 INSERT INTO `azure_centralfrance_ips` (`ip_address`, `ip_type`) VALUES ('4.211.205.90/32', 'IPv4');

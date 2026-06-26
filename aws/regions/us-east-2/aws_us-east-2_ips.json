@@ -2832,6 +2832,18 @@
     "region": "us-east-2"
   },
   {
+    "ip_address": "64.66.136.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-east-2"
+  },
+  {
+    "ip_address": "64.66.136.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-east-2"
+  },
+  {
     "ip_address": "64.252.74.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",

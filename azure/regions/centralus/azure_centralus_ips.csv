@@ -1161,6 +1161,7 @@ ip_address,ip_type,service,region
 57.175.72.0/26,IPv4,AzureContainerRegistry.CentralUS,centralus
 57.175.72.64/26,IPv4,AzureDevOps.CentralUS,centralus
 57.175.72.128/27,IPv4,AzureDevOps.CentralUS,centralus
+57.175.94.0/27,IPv4,AzureMonitor.CentralUS,centralus
 64.236.0.0/17,IPv4,AzureCloud.centralus,centralus
 64.236.31.0/27,IPv4,SCCservice.CentralUS,centralus
 65.55.144.0/23,IPv4,AzureCloud.centralus,centralus
@@ -1252,6 +1253,7 @@ ip_address,ip_type,service,region
 145.190.0.0/23,IPv4,AzureCloud.centralus,centralus
 145.190.2.0/24,IPv4,AzureCloud.centralus,centralus
 145.190.79.0/24,IPv4,AzureCloud.centralus,centralus
+145.190.80.0/24,IPv4,AzureCloud.centralus,centralus
 145.190.145.0/24,IPv4,AzureCloud.centralus,centralus
 145.190.145.0/24,IPv4,Storage.CentralUS,centralus
 145.190.171.0/24,IPv4,AzureCloud.centralus,centralus

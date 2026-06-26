@@ -682,6 +682,7 @@ INSERT INTO `azure_azurecloud.centralus_ips` (`ip_address`, `ip_type`) VALUES ('
 INSERT INTO `azure_azurecloud.centralus_ips` (`ip_address`, `ip_type`) VALUES ('145.190.0.0/23', 'IPv4');
 INSERT INTO `azure_azurecloud.centralus_ips` (`ip_address`, `ip_type`) VALUES ('145.190.2.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.centralus_ips` (`ip_address`, `ip_type`) VALUES ('145.190.79.0/24', 'IPv4');
+INSERT INTO `azure_azurecloud.centralus_ips` (`ip_address`, `ip_type`) VALUES ('145.190.80.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.centralus_ips` (`ip_address`, `ip_type`) VALUES ('145.190.145.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.centralus_ips` (`ip_address`, `ip_type`) VALUES ('145.190.171.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.centralus_ips` (`ip_address`, `ip_type`) VALUES ('145.190.178.0/24', 'IPv4');
