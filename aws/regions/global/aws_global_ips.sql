@@ -244,6 +244,8 @@ INSERT INTO `aws_global_ips` (`ip_address`, `ip_type`) VALUES ('52.223.192.0/18'
 INSERT INTO `aws_global_ips` (`ip_address`, `ip_type`) VALUES ('52.223.192.0/18', 'IPv4');
 INSERT INTO `aws_global_ips` (`ip_address`, `ip_type`) VALUES ('54.25.32.0/19', 'IPv4');
 INSERT INTO `aws_global_ips` (`ip_address`, `ip_type`) VALUES ('54.25.32.0/19', 'IPv4');
+INSERT INTO `aws_global_ips` (`ip_address`, `ip_type`) VALUES ('54.115.0.0/16', 'IPv4');
+INSERT INTO `aws_global_ips` (`ip_address`, `ip_type`) VALUES ('54.115.0.0/16', 'IPv4');
 INSERT INTO `aws_global_ips` (`ip_address`, `ip_type`) VALUES ('54.182.0.0/16', 'IPv4');
 INSERT INTO `aws_global_ips` (`ip_address`, `ip_type`) VALUES ('54.182.0.0/16', 'IPv4');
 INSERT INTO `aws_global_ips` (`ip_address`, `ip_type`) VALUES ('54.182.128.0/20', 'IPv4');

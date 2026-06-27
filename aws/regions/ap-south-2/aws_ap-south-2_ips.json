@@ -438,6 +438,18 @@
     "region": "ap-south-2"
   },
   {
+    "ip_address": "63.249.163.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "63.249.163.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "ap-south-2"
+  },
+  {
     "ip_address": "63.249.164.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",

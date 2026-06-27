@@ -186,6 +186,8 @@ ip_address,ip_type,service,region
 56.8.0.0/16,IPv4,AMAZON,eu-south-1
 63.249.182.0/24,IPv4,AMAZON,eu-south-1
 63.249.182.0/24,IPv4,EC2,eu-south-1
+63.249.184.0/24,IPv4,AMAZON,eu-south-1
+63.249.184.0/24,IPv4,EC2,eu-south-1
 69.107.10.208/29,IPv4,AMAZON,eu-south-1
 69.107.10.216/29,IPv4,AMAZON,eu-south-1
 69.107.11.224/29,IPv4,AMAZON,eu-south-1

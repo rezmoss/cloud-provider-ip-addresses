@@ -137,6 +137,8 @@ ip_address,ip_type,service,region
 63.249.171.0/24,IPv4,EC2,ap-northeast-3
 63.249.172.0/24,IPv4,AMAZON,ap-northeast-3
 63.249.172.0/24,IPv4,EC2,ap-northeast-3
+64.66.133.0/24,IPv4,AMAZON,ap-northeast-3
+64.66.133.0/24,IPv4,EC2,ap-northeast-3
 69.107.6.200/29,IPv4,AMAZON,ap-northeast-3
 69.107.6.208/29,IPv4,AMAZON,ap-northeast-3
 69.107.9.176/29,IPv4,AMAZON,ap-northeast-3

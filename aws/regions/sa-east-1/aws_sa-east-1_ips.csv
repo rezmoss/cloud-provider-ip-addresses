@@ -436,6 +436,8 @@ ip_address,ip_type,service,region
 2606:f40:ffed::/48,IPv6,EC2,sa-east-1
 2606:7b40:10ff:40::/59,IPv6,AMAZON,sa-east-1
 2606:7b40:10ff:40::/59,IPv6,EC2,sa-east-1
+2606:7b40:1a49:340::/60,IPv6,AMAZON,sa-east-1
+2606:7b40:1a49:340::/60,IPv6,EC2,sa-east-1
 2606:7b40:1b09::/56,IPv6,AMAZON,sa-east-1
 2606:7b40:1b09::/56,IPv6,EC2,sa-east-1
 2606:7b40:1b09:100::/56,IPv6,AMAZON,sa-east-1

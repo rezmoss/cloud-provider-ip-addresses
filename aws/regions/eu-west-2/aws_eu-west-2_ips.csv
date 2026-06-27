@@ -443,6 +443,8 @@ ip_address,ip_type,service,region
 2606:f40:9400::/40,IPv6,EC2,eu-west-2
 2606:f40:ffe8::/48,IPv6,AMAZON,eu-west-2
 2606:f40:ffe8::/48,IPv6,EC2,eu-west-2
+2606:7b40:1a4d:8340::/60,IPv6,AMAZON,eu-west-2
+2606:7b40:1a4d:8340::/60,IPv6,EC2,eu-west-2
 2606:7b40:1b0d:8000::/56,IPv6,AMAZON,eu-west-2
 2606:7b40:1b0d:8000::/56,IPv6,EC2,eu-west-2
 2606:7b40:1b0d:8100::/56,IPv6,AMAZON,eu-west-2

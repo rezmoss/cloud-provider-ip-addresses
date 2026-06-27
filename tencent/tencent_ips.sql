@@ -94,7 +94,6 @@ INSERT INTO `tencent_ips` (`ip_address`, `ip_type`) VALUES ('43.130.54.0/24', 'I
 INSERT INTO `tencent_ips` (`ip_address`, `ip_type`) VALUES ('43.130.55.0/24', 'IPv4');
 INSERT INTO `tencent_ips` (`ip_address`, `ip_type`) VALUES ('43.130.64.0/18', 'IPv4');
 INSERT INTO `tencent_ips` (`ip_address`, `ip_type`) VALUES ('43.130.128.0/19', 'IPv4');
-INSERT INTO `tencent_ips` (`ip_address`, `ip_type`) VALUES ('43.130.130.0/23', 'IPv4');
 INSERT INTO `tencent_ips` (`ip_address`, `ip_type`) VALUES ('43.130.130.0/24', 'IPv4');
 INSERT INTO `tencent_ips` (`ip_address`, `ip_type`) VALUES ('43.130.160.0/19', 'IPv4');
 INSERT INTO `tencent_ips` (`ip_address`, `ip_type`) VALUES ('43.130.224.0/19', 'IPv4');
@@ -250,7 +249,9 @@ INSERT INTO `tencent_ips` (`ip_address`, `ip_type`) VALUES ('43.152.115.0/24', '
 INSERT INTO `tencent_ips` (`ip_address`, `ip_type`) VALUES ('43.152.116.0/22', 'IPv4');
 INSERT INTO `tencent_ips` (`ip_address`, `ip_type`) VALUES ('43.152.116.0/23', 'IPv4');
 INSERT INTO `tencent_ips` (`ip_address`, `ip_type`) VALUES ('43.152.118.0/23', 'IPv4');
+INSERT INTO `tencent_ips` (`ip_address`, `ip_type`) VALUES ('43.152.120.0/22', 'IPv4');
 INSERT INTO `tencent_ips` (`ip_address`, `ip_type`) VALUES ('43.152.120.0/23', 'IPv4');
+INSERT INTO `tencent_ips` (`ip_address`, `ip_type`) VALUES ('43.152.124.0/22', 'IPv4');
 INSERT INTO `tencent_ips` (`ip_address`, `ip_type`) VALUES ('43.152.124.0/23', 'IPv4');
 INSERT INTO `tencent_ips` (`ip_address`, `ip_type`) VALUES ('43.152.224.0/19', 'IPv4');
 INSERT INTO `tencent_ips` (`ip_address`, `ip_type`) VALUES ('43.153.0.0/18', 'IPv4');
