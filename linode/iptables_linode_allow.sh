@@ -1,6 +1,6 @@
 #!/bin/bash
 # Linode IP Ranges
-# Updated: 2026-06-25 03:20:12
+# Updated: 2026-06-28 03:21:03
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -275,13 +275,12 @@ ip6tables -A INPUT -s 2600:3c0f:48::/47 -j ACCEPT
 ip6tables -A INPUT -s 2600:3c0f:50::/46 -j ACCEPT
 ip6tables -A INPUT -s 2600:3c0f:55::/48 -j ACCEPT
 ip6tables -A INPUT -s 2600:3c0f:56::/47 -j ACCEPT
+ip6tables -A INPUT -s 2600:3c0f:58::/48 -j ACCEPT
 ip6tables -A INPUT -s 2600:3c12:100::/40 -j ACCEPT
 ip6tables -A INPUT -s 2600:3c12:300::/40 -j ACCEPT
 ip6tables -A INPUT -s 2600:3c12:400::/39 -j ACCEPT
 ip6tables -A INPUT -s 2600:3c12:700::/40 -j ACCEPT
-ip6tables -A INPUT -s 2600:3c12:800::/38 -j ACCEPT
-ip6tables -A INPUT -s 2600:3c12:c00::/39 -j ACCEPT
-ip6tables -A INPUT -s 2600:3c12:e00::/40 -j ACCEPT
+ip6tables -A INPUT -s 2600:3c12:800::/37 -j ACCEPT
 ip6tables -A INPUT -s 2600:3c13::/32 -j ACCEPT
 ip6tables -A INPUT -s 2600:3c14::/30 -j ACCEPT
 ip6tables -A INPUT -s 2600:3c18::/30 -j ACCEPT

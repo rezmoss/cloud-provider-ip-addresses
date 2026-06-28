@@ -325,6 +325,8 @@ ip_address,ip_type,service,region
 63.249.193.0/24,IPv4,EC2,ap-southeast-1
 63.249.194.0/24,IPv4,AMAZON,ap-southeast-1
 63.249.194.0/24,IPv4,EC2,ap-southeast-1
+64.66.143.0/24,IPv4,AMAZON,ap-southeast-1
+64.66.143.0/24,IPv4,EC2,ap-southeast-1
 64.252.102.0/24,IPv4,AMAZON,ap-southeast-1
 64.252.102.0/24,IPv4,EC2,ap-southeast-1
 64.252.103.0/24,IPv4,AMAZON,ap-southeast-1

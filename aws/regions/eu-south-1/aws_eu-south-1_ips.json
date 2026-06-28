@@ -1122,6 +1122,18 @@
     "region": "eu-south-1"
   },
   {
+    "ip_address": "63.249.183.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-south-1"
+  },
+  {
+    "ip_address": "63.249.183.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "eu-south-1"
+  },
+  {
     "ip_address": "63.249.184.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -1129,6 +1141,18 @@
   },
   {
     "ip_address": "63.249.184.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "eu-south-1"
+  },
+  {
+    "ip_address": "64.66.158.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-south-1"
+  },
+  {
+    "ip_address": "64.66.158.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "eu-south-1"

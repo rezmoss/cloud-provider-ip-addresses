@@ -90,6 +90,8 @@ ip_address,ip_type,service,region
 63.249.208.0/24,IPv4,EC2,eu-south-2
 63.249.209.0/24,IPv4,AMAZON,eu-south-2
 63.249.209.0/24,IPv4,EC2,eu-south-2
+64.66.147.0/24,IPv4,AMAZON,eu-south-2
+64.66.147.0/24,IPv4,EC2,eu-south-2
 89.60.0.0/15,IPv4,AMAZON,eu-south-2
 89.60.0.0/15,IPv4,EC2,eu-south-2
 99.77.28.0/22,IPv4,AMAZON,eu-south-2

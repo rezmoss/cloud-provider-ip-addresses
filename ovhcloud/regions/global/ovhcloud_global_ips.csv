@@ -279,6 +279,7 @@ ip_address,ip_type,service,region
 83.175.173.0/24,IPv4,ovhcloud-as16276,global
 84.19.167.0/24,IPv4,ovhcloud-as16276,global
 84.32.10.0/24,IPv4,ovhcloud-as16276,global
+84.75.33.0/24,IPv4,ovhcloud-as16276,global
 85.217.144.0/23,IPv4,ovhcloud-as16276,global
 86.54.26.0/24,IPv4,ovhcloud-as16276,global
 87.76.137.0/24,IPv4,ovhcloud-as16276,global

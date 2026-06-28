@@ -2430,6 +2430,18 @@
     "region": "eu-west-1"
   },
   {
+    "ip_address": "64.66.138.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-west-1"
+  },
+  {
+    "ip_address": "64.66.138.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "eu-west-1"
+  },
+  {
     "ip_address": "64.252.114.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",

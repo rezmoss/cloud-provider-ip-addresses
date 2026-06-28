@@ -26575,6 +26575,11 @@
     "region": "FR-13"
   },
   {
+    "ip_address": "2600:3c0f:58::/48",
+    "ip_type": "IPv6",
+    "region": "MX-QUE"
+  },
+  {
     "ip_address": "2600:3c12:0100::/40",
     "ip_type": "IPv6",
     "region": "DE-HH"
@@ -26633,6 +26638,11 @@
     "ip_address": "2600:3c12:e00::/40",
     "ip_type": "IPv6",
     "region": "FR-13"
+  },
+  {
+    "ip_address": "2600:3c12:f00::/40",
+    "ip_type": "IPv6",
+    "region": "MX-QUE"
   },
   {
     "ip_address": "2600:3c13::/32",

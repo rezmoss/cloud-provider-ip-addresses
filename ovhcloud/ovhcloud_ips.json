@@ -1680,6 +1680,12 @@
     "region": "global"
   },
   {
+    "ip_address": "84.75.33.0/24",
+    "ip_type": "IPv4",
+    "service": "ovhcloud-as16276",
+    "region": "global"
+  },
+  {
     "ip_address": "85.217.144.0/23",
     "ip_type": "IPv4",
     "service": "ovhcloud-as16276",

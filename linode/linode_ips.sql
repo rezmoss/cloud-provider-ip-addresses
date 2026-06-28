@@ -5321,6 +5321,7 @@ INSERT INTO `linode_ips` (`ip_address`, `ip_type`) VALUES ('2600:3c0f:53::/48', 
 INSERT INTO `linode_ips` (`ip_address`, `ip_type`) VALUES ('2600:3c0f:55::/48', 'IPv6');
 INSERT INTO `linode_ips` (`ip_address`, `ip_type`) VALUES ('2600:3c0f:56::/48', 'IPv6');
 INSERT INTO `linode_ips` (`ip_address`, `ip_type`) VALUES ('2600:3c0f:57::/48', 'IPv6');
+INSERT INTO `linode_ips` (`ip_address`, `ip_type`) VALUES ('2600:3c0f:58::/48', 'IPv6');
 INSERT INTO `linode_ips` (`ip_address`, `ip_type`) VALUES ('2600:3c12:0100::/40', 'IPv6');
 INSERT INTO `linode_ips` (`ip_address`, `ip_type`) VALUES ('2600:3c12:0300::/40', 'IPv6');
 INSERT INTO `linode_ips` (`ip_address`, `ip_type`) VALUES ('2600:3c12:0400::/40', 'IPv6');
@@ -5333,6 +5334,7 @@ INSERT INTO `linode_ips` (`ip_address`, `ip_type`) VALUES ('2600:3c12:0b00::/40'
 INSERT INTO `linode_ips` (`ip_address`, `ip_type`) VALUES ('2600:3c12:0c00::/40', 'IPv6');
 INSERT INTO `linode_ips` (`ip_address`, `ip_type`) VALUES ('2600:3c12:d00::/40', 'IPv6');
 INSERT INTO `linode_ips` (`ip_address`, `ip_type`) VALUES ('2600:3c12:e00::/40', 'IPv6');
+INSERT INTO `linode_ips` (`ip_address`, `ip_type`) VALUES ('2600:3c12:f00::/40', 'IPv6');
 INSERT INTO `linode_ips` (`ip_address`, `ip_type`) VALUES ('2600:3c13::/32', 'IPv6');
 INSERT INTO `linode_ips` (`ip_address`, `ip_type`) VALUES ('2600:3c14::/32', 'IPv6');
 INSERT INTO `linode_ips` (`ip_address`, `ip_type`) VALUES ('2600:3c15::/32', 'IPv6');

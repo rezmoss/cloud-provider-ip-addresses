@@ -337,6 +337,8 @@ ip_address,ip_type,service,region
 63.249.177.0/24,IPv4,EC2,eu-west-2
 63.249.178.0/24,IPv4,AMAZON,eu-west-2
 63.249.178.0/24,IPv4,EC2,eu-west-2
+64.66.160.0/24,IPv4,AMAZON,eu-west-2
+64.66.160.0/24,IPv4,EC2,eu-west-2
 64.252.82.0/24,IPv4,AMAZON,eu-west-2
 64.252.82.0/24,IPv4,EC2,eu-west-2
 64.252.83.0/24,IPv4,AMAZON,eu-west-2

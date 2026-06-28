@@ -1956,6 +1956,18 @@
     "region": "ap-southeast-1"
   },
   {
+    "ip_address": "64.66.143.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-southeast-1"
+  },
+  {
+    "ip_address": "64.66.143.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "ap-southeast-1"
+  },
+  {
     "ip_address": "64.252.102.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",

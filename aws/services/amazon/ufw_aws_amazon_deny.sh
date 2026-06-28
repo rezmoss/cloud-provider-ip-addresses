@@ -1,6 +1,6 @@
 #!/bin/bash
 # Aws IP Ranges
-# Updated: 2026-06-27 03:17:21
+# Updated: 2026-06-28 03:19:25
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -1282,28 +1282,20 @@ ufw deny from 63.246.120.0/21
 ufw deny from 63.249.128.0/22
 ufw deny from 63.249.132.0/23
 ufw deny from 63.249.138.0/23
-ufw deny from 63.249.140.0/24
-ufw deny from 63.249.142.0/23
+ufw deny from 63.249.140.0/22
 ufw deny from 63.249.144.0/20
-ufw deny from 63.249.160.0/20
-ufw deny from 63.249.176.0/22
-ufw deny from 63.249.181.0/24
-ufw deny from 63.249.182.0/24
-ufw deny from 63.249.184.0/22
-ufw deny from 63.249.188.0/23
-ufw deny from 63.249.190.0/24
-ufw deny from 63.249.192.0/23
-ufw deny from 63.249.194.0/24
-ufw deny from 63.249.198.0/23
-ufw deny from 63.249.200.0/21
+ufw deny from 63.249.160.0/19
+ufw deny from 63.249.192.0/20
 ufw deny from 63.249.208.0/23
 ufw deny from 63.249.213.0/24
 ufw deny from 63.249.214.0/23
 ufw deny from 64.66.128.0/22
 ufw deny from 64.66.133.0/24
 ufw deny from 64.66.134.0/23
-ufw deny from 64.66.136.0/23
-ufw deny from 64.66.145.0/24
+ufw deny from 64.66.136.0/21
+ufw deny from 64.66.144.0/20
+ufw deny from 64.66.160.0/23
+ufw deny from 64.66.162.0/24
 ufw deny from 64.73.193.0/24
 ufw deny from 64.73.195.0/24
 ufw deny from 64.73.196.0/23
