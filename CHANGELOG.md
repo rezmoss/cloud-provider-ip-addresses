@@ -2,6 +2,16 @@
 
 Daily IP range changes across all providers.
 
+## 2026-06-29
+
+### tor
+- Added: 6 CIDRs
+- Removed: 18 CIDRs
+
+### apple_private_relay
+- Added: 14 CIDRs
+- Removed: 0 CIDRs
+
 ## 2026-06-28
 
 ### aws

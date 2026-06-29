@@ -1,5 +1,5 @@
 # atlassian IP ranges - ipset restore format (hash:net)
-# Version: 1 | Generated: 2026-06-28 | Last changed: 2026-06-18
+# Version: 1 | Generated: 2026-06-29 | Last changed: 2026-06-18
 # IPv4: 69 merged subnets, 75566 unique IPs
 # IPv6: 14 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses

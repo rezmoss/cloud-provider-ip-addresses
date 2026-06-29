@@ -5,6 +5,11 @@
     "region": "DE-BB"
   },
   {
+    "ip_address": "104.28.137.111/32",
+    "ip_type": "IPv4",
+    "region": "DE-BB"
+  },
+  {
     "ip_address": "104.28.138.100/32",
     "ip_type": "IPv4",
     "region": "DE-BB"
