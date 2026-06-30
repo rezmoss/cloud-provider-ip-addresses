@@ -1,0 +1,39 @@
+name: Tests
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "generate_site.py"
+      - "lookup.py"
+      - "radix_lookup.py"
+      - "summary.json"
+      - "CHANGELOG.md"
+      - "tests/**"
+      - ".github/workflows/tests.yml"
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ["3.11", "3.12"]
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python ${{ matrix.python-version }}
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+
+      - name: Run unit tests
+        run: python3 -m unittest discover -s tests -v
+
+      - name: Verify site generates
+        run: python3 generate_site.py
