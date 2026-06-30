@@ -1,12 +1,13 @@
 """
 Unit tests for the data-path auto-detection and merged-file loading in
-lookup.py and radix_lookup.py.
+lookup.py.
 
 These tests verify the two fixes introduced in this PR:
 
 1.  **Data directory auto-detection.**  The old default ("data") does not
-    exist anywhere in this repo; the new ``_resolve_data_dir`` walks
-    backwards from the script location to find the real provider data.
+    exist anywhere in this repo; the new ``_resolve_data_dir`` checks
+    the script directory and current working directory to find the real
+    provider data.
 
 2.  **Merged-text fast path.**  When ``include_metadata`` is False the
     loaders should prefer the compact ``*_ips_merged_v4/v6.txt`` files
@@ -21,6 +22,7 @@ import sys
 import tempfile
 import unittest
 from pathlib import Path
+from unittest.mock import patch
 
 _REPO_ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(_REPO_ROOT))
@@ -57,21 +59,26 @@ class TestResolveDataDir(unittest.TestCase):
         """When no data root can be auto-detected, the original arg is
         returned unchanged so the caller can emit a clear error.
 
-        We can't easily simulate 'no repo anywhere' because the test itself
-        runs inside this repo (so the script dir / cwd always matches).
-        Instead we verify the contract directly: _looks_like_data_root
-        returns False for a truly empty path, so _resolve_data_dir would
-        have to return the original string.
+        We fake the 'no repo anywhere' case by pointing lookup.__file__
+        and the working directory at an empty temp directory, then assert
+        that _resolve_data_dir returns the original (bogus) argument.
         """
         bogus = "/nonexistent/xyz/12345"
-        self.assertFalse(lookup._looks_like_data_root(bogus))
+        empty = Path(tempfile.mkdtemp(prefix="cpia_empty_"))
+        try:
+            with patch.object(lookup, "__file__", str(empty / "lookup.py")), \
+                 patch("os.getcwd", return_value=str(empty)):
+                self.assertEqual(lookup._resolve_data_dir(bogus), bogus)
+        finally:
+            shutil.rmtree(empty, ignore_errors=True)
 
     def test_detects_repo_root(self):
         """When given the bogus "data" default, the resolver should fall
-        back to finding a real data root.  We simulate this by pointing
-        sys.path at our temp dir."""
-        # _looks_like_data_root must return True for our fabricated root.
-        self.assertTrue(lookup._looks_like_data_root(str(self.tmp)))
+        back to finding a real data root from the script location."""
+        with patch.object(lookup, "__file__", str(self.tmp / "lookup.py")), \
+             patch("os.getcwd", return_value=str(self.tmp)):
+            resolved = lookup._resolve_data_dir("data")
+        self.assertEqual(os.path.abspath(resolved), str(self.tmp))
 
     def test_empty_dir_not_detected(self):
         """A directory with no provider sub-dirs is not a data root."""
