@@ -2,6 +2,32 @@
 
 Daily IP range changes across all providers.
 
+## 2026-06-30
+
+### ovhcloud
+- Added: 6 CIDRs
+- Removed: 1 CIDRs
+
+### tor
+- Added: 9 CIDRs
+- Removed: 9 CIDRs
+
+### digitalocean
+- Added: 1 CIDRs
+- Removed: 0 CIDRs
+
+### alibaba
+- Added: 12 CIDRs
+- Removed: 2 CIDRs
+
+### aws
+- Added: 17 CIDRs
+- Removed: 2 CIDRs
+
+### github
+- Added: 46 CIDRs
+- Removed: 95 CIDRs
+
 ## 2026-06-29
 
 ### tor

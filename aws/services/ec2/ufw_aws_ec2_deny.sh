@@ -1,6 +1,6 @@
 #!/bin/bash
 # Aws IP Ranges
-# Updated: 2026-06-28 03:19:26
+# Updated: 2026-06-30 03:18:25
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -520,16 +520,9 @@ ufw deny from 63.32.0.0/14
 ufw deny from 63.176.0.0/12
 ufw deny from 63.246.112.0/23
 ufw deny from 63.246.119.0/24
-ufw deny from 63.249.128.0/22
-ufw deny from 63.249.132.0/23
-ufw deny from 63.249.138.0/23
-ufw deny from 63.249.140.0/22
-ufw deny from 63.249.144.0/20
-ufw deny from 63.249.160.0/19
+ufw deny from 63.249.128.0/18
 ufw deny from 63.249.192.0/20
-ufw deny from 63.249.208.0/23
-ufw deny from 63.249.213.0/24
-ufw deny from 63.249.214.0/23
+ufw deny from 63.249.208.0/21
 ufw deny from 64.66.128.0/22
 ufw deny from 64.66.133.0/24
 ufw deny from 64.66.134.0/23
@@ -537,7 +530,6 @@ ufw deny from 64.66.136.0/21
 ufw deny from 64.66.144.0/20
 ufw deny from 64.66.160.0/23
 ufw deny from 64.66.162.0/24
-ufw deny from 64.73.193.0/24
 ufw deny from 64.73.195.0/24
 ufw deny from 64.73.196.0/23
 ufw deny from 64.73.202.0/23
@@ -1981,10 +1973,12 @@ ufw deny from 2606:7b40:1a2f:c320::/59
 ufw deny from 2606:7b40:1a2f:c340::/60
 ufw deny from 2606:7b40:1a3c:330::/60
 ufw deny from 2606:7b40:1a3f:4200::/60
+ufw deny from 2606:7b40:1a3f:c000::/60
 ufw deny from 2606:7b40:1a3f:c200::/60
 ufw deny from 2606:7b40:1a3f:c310::/60
 ufw deny from 2606:7b40:1a3f:c320::/59
 ufw deny from 2606:7b40:1a3f:c340::/60
+ufw deny from 2606:7b40:1a45:c000::/60
 ufw deny from 2606:7b40:1a45:c340::/60
 ufw deny from 2606:7b40:1a47:4340::/60
 ufw deny from 2606:7b40:1a49:340::/60
@@ -1993,7 +1987,9 @@ ufw deny from 2606:7b40:1a4c:340::/60
 ufw deny from 2606:7b40:1a4d:4340::/60
 ufw deny from 2606:7b40:1a4d:8340::/60
 ufw deny from 2606:7b40:1a4d:c340::/60
+ufw deny from 2606:7b40:1a4e::/60
 ufw deny from 2606:7b40:1a4f:340::/60
+ufw deny from 2606:7b40:1a4f:4000::/60
 ufw deny from 2606:7b40:1a4f:4340::/60
 ufw deny from 2606:7b40:1a4f:c200::/60
 ufw deny from 2606:7b40:1a4f:c240::/60
@@ -2049,6 +2045,8 @@ ufw deny from 2606:7b40:3001::/48
 ufw deny from 2606:7b40:3002::/47
 ufw deny from 2606:7b40:3004::/46
 ufw deny from 2606:7b40:3008::/50
+ufw deny from 2606:7b40:3009:c000::/52
+ufw deny from 2606:7b40:300a::/56
 ufw deny from 2606:7b40:f000:1500::/56
 ufw deny from 2606:7b40:f000:1600::/55
 ufw deny from 2606:8140:100::/40
@@ -2071,7 +2069,6 @@ ufw deny from 2631:1:108::/48
 ufw deny from 2631:1:10b::/48
 ufw deny from 2631:1:10c::/47
 ufw deny from 2631:1:10f::/48
-ufw deny from 2631:1:200::/40
 ufw deny from 2804:800:ff00::/48
 ufw deny from 2a01:578:3::/48
 ufw deny from 2a01:578:13::/48

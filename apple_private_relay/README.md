@@ -1,6 +1,6 @@
 # Apple iCloud Private Relay IP Ranges (Auto-Updated Daily)
 
-> Last updated: **2026-06-29** · Total CIDRs: **286,946** · IPv4: **41,818** · IPv6: **245,128** · Regions: **1279**
+> Last updated: **2026-06-30** · Total CIDRs: **286,946** · IPv4: **41,818** · IPv6: **245,128** · Regions: **1279**
 
 Machine-readable, daily-updated, validated public IP ranges for **Apple iCloud Private Relay**.
 Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and Apache.

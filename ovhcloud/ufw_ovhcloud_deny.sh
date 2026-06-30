@@ -1,6 +1,6 @@
 #!/bin/bash
 # Ovhcloud IP Ranges
-# Updated: 2026-06-28 03:24:17
+# Updated: 2026-06-30 03:24:36
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -150,6 +150,7 @@ ufw deny from 77.81.138.0/24
 ufw deny from 77.83.244.0/24
 ufw deny from 77.87.123.0/24
 ufw deny from 77.107.88.0/24
+ufw deny from 78.111.138.0/24
 ufw deny from 79.99.146.0/24
 ufw deny from 79.110.61.0/24
 ufw deny from 79.137.0.0/17
@@ -268,6 +269,7 @@ ufw deny from 93.174.111.0/24
 ufw deny from 94.23.0.0/16
 ufw deny from 94.183.158.0/24
 ufw deny from 95.81.72.0/22
+ufw deny from 95.135.167.0/24
 ufw deny from 96.62.105.0/24
 ufw deny from 103.5.12.0/22
 ufw deny from 103.82.16.0/22
@@ -363,7 +365,7 @@ ufw deny from 143.20.215.0/24
 ufw deny from 144.2.32.0/19
 ufw deny from 144.31.149.0/24
 ufw deny from 144.217.0.0/16
-ufw deny from 144.225.112.0/24
+ufw deny from 144.225.52.0/24
 ufw deny from 144.225.123.0/24
 ufw deny from 144.225.162.0/24
 ufw deny from 144.225.178.0/24
@@ -386,6 +388,7 @@ ufw deny from 149.202.0.0/16
 ufw deny from 151.80.0.0/16
 ufw deny from 151.240.1.0/24
 ufw deny from 151.241.68.0/24
+ufw deny from 151.242.76.0/24
 ufw deny from 151.242.103.0/24
 ufw deny from 151.243.6.0/24
 ufw deny from 151.243.160.0/22
@@ -401,6 +404,7 @@ ufw deny from 151.247.192.0/24
 ufw deny from 151.247.205.0/24
 ufw deny from 151.247.217.0/24
 ufw deny from 152.228.128.0/17
+ufw deny from 153.52.116.0/24
 ufw deny from 155.117.5.0/24
 ufw deny from 155.117.6.0/24
 ufw deny from 155.117.13.0/24
@@ -418,6 +422,7 @@ ufw deny from 162.19.0.0/16
 ufw deny from 162.141.71.0/24
 ufw deny from 162.212.35.0/24
 ufw deny from 163.5.62.0/24
+ufw deny from 163.5.132.0/24
 ufw deny from 163.5.149.0/24
 ufw deny from 163.5.187.0/24
 ufw deny from 163.223.88.0/24

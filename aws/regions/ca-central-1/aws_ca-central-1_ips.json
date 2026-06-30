@@ -672,6 +672,12 @@
     "region": "ca-central-1"
   },
   {
+    "ip_address": "35.98.160.0/20",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ca-central-1"
+  },
+  {
     "ip_address": "35.182.0.0/15",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -1926,6 +1932,18 @@
     "region": "ca-central-1"
   },
   {
+    "ip_address": "2606:7b40:1a4e::/60",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ca-central-1"
+  },
+  {
+    "ip_address": "2606:7b40:1a4e::/60",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ca-central-1"
+  },
+  {
     "ip_address": "2606:7b40:1b0e::/56",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -1993,6 +2011,12 @@
   },
   {
     "ip_address": "2631:0:800::/39",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ca-central-1"
+  },
+  {
+    "ip_address": "2631:0:2800::/39",
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "ca-central-1"

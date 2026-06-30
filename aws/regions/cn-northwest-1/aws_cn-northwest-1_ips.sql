@@ -97,6 +97,12 @@ INSERT INTO `aws_cn-northwest-1_ips` (`ip_address`, `ip_type`) VALUES ('52.93.12
 INSERT INTO `aws_cn-northwest-1_ips` (`ip_address`, `ip_type`) VALUES ('52.93.127.104/32', 'IPv4');
 INSERT INTO `aws_cn-northwest-1_ips` (`ip_address`, `ip_type`) VALUES ('52.93.127.105/32', 'IPv4');
 INSERT INTO `aws_cn-northwest-1_ips` (`ip_address`, `ip_type`) VALUES ('54.239.0.176/28', 'IPv4');
+INSERT INTO `aws_cn-northwest-1_ips` (`ip_address`, `ip_type`) VALUES ('63.249.210.0/24', 'IPv4');
+INSERT INTO `aws_cn-northwest-1_ips` (`ip_address`, `ip_type`) VALUES ('63.249.210.0/24', 'IPv4');
+INSERT INTO `aws_cn-northwest-1_ips` (`ip_address`, `ip_type`) VALUES ('63.249.211.0/24', 'IPv4');
+INSERT INTO `aws_cn-northwest-1_ips` (`ip_address`, `ip_type`) VALUES ('63.249.211.0/24', 'IPv4');
+INSERT INTO `aws_cn-northwest-1_ips` (`ip_address`, `ip_type`) VALUES ('63.249.212.0/24', 'IPv4');
+INSERT INTO `aws_cn-northwest-1_ips` (`ip_address`, `ip_type`) VALUES ('63.249.212.0/24', 'IPv4');
 INSERT INTO `aws_cn-northwest-1_ips` (`ip_address`, `ip_type`) VALUES ('68.79.0.0/18', 'IPv4');
 INSERT INTO `aws_cn-northwest-1_ips` (`ip_address`, `ip_type`) VALUES ('68.79.0.0/18', 'IPv4');
 INSERT INTO `aws_cn-northwest-1_ips` (`ip_address`, `ip_type`) VALUES ('68.79.2.64/27', 'IPv4');

@@ -4125,6 +4125,11 @@
     "region": "GB-SLG"
   },
   {
+    "ip_address": "168.144.208.0/20",
+    "ip_type": "IPv4",
+    "region": "IN-KA"
+  },
+  {
     "ip_address": "170.64.128.0/18",
     "ip_type": "IPv4",
     "region": "AU-NSW"

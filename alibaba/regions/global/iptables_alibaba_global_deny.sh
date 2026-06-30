@@ -1,6 +1,6 @@
 #!/bin/bash
 # Alibaba IP Ranges
-# Updated: 2026-06-26 03:24:21
+# Updated: 2026-06-30 03:24:28
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -122,16 +122,7 @@ iptables -A INPUT -s 47.77.64.0/19 -j DROP
 iptables -A INPUT -s 47.77.96.0/20 -j DROP
 iptables -A INPUT -s 47.77.128.0/17 -j DROP
 iptables -A INPUT -s 47.78.0.0/15 -j DROP
-iptables -A INPUT -s 47.80.0.0/14 -j DROP
-iptables -A INPUT -s 47.84.0.0/15 -j DROP
-iptables -A INPUT -s 47.86.0.0/16 -j DROP
-iptables -A INPUT -s 47.87.0.0/17 -j DROP
-iptables -A INPUT -s 47.87.128.0/18 -j DROP
-iptables -A INPUT -s 47.87.192.0/19 -j DROP
-iptables -A INPUT -s 47.87.224.0/20 -j DROP
-iptables -A INPUT -s 47.87.240.0/21 -j DROP
-iptables -A INPUT -s 47.87.248.0/22 -j DROP
-iptables -A INPUT -s 47.87.252.0/23 -j DROP
+iptables -A INPUT -s 47.80.0.0/13 -j DROP
 iptables -A INPUT -s 47.88.0.0/16 -j DROP
 iptables -A INPUT -s 47.89.0.0/18 -j DROP
 iptables -A INPUT -s 47.89.72.0/21 -j DROP
@@ -294,6 +285,8 @@ iptables -A INPUT -s 203.107.72.0/21 -j DROP
 iptables -A INPUT -s 203.107.80.0/21 -j DROP
 iptables -A INPUT -s 203.107.96.0/23 -j DROP
 iptables -A INPUT -s 203.107.116.0/22 -j DROP
+iptables -A INPUT -s 203.107.120.0/22 -j DROP
+iptables -A INPUT -s 203.107.124.0/23 -j DROP
 iptables -A INPUT -s 203.119.128.0/19 -j DROP
 iptables -A INPUT -s 203.119.160.0/24 -j DROP
 iptables -A INPUT -s 203.119.168.0/21 -j DROP

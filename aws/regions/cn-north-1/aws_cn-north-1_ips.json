@@ -570,6 +570,54 @@
     "region": "cn-north-1"
   },
   {
+    "ip_address": "63.249.134.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "cn-north-1"
+  },
+  {
+    "ip_address": "63.249.134.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "cn-north-1"
+  },
+  {
+    "ip_address": "63.249.135.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "cn-north-1"
+  },
+  {
+    "ip_address": "63.249.135.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "cn-north-1"
+  },
+  {
+    "ip_address": "63.249.136.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "cn-north-1"
+  },
+  {
+    "ip_address": "63.249.136.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "cn-north-1"
+  },
+  {
+    "ip_address": "63.249.137.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "cn-north-1"
+  },
+  {
+    "ip_address": "63.249.137.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "cn-north-1"
+  },
+  {
     "ip_address": "71.131.192.0/18",
     "ip_type": "IPv4",
     "service": "AMAZON",
