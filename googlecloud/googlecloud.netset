@@ -1,6 +1,6 @@
 # googlecloud IP ranges - ipset restore format (hash:net)
-# Version: 2 | Generated: 2026-06-30 | Last changed: 2026-06-21
-# IPv4: 432 merged subnets, 18387840 unique IPs
+# Version: 3 | Generated: 2026-07-01 | Last changed: 2026-07-01
+# IPv4: 435 merged subnets, 19084672 unique IPs
 # IPv6: 20 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
@@ -115,7 +115,7 @@ add googlecloud_v4 34.106.0.0/15
 add googlecloud_v4 34.108.0.0/16
 add googlecloud_v4 34.110.128.0/17
 add googlecloud_v4 34.111.0.0/16
-add googlecloud_v4 34.112.0.0/16
+add googlecloud_v4 34.112.0.0/15
 add googlecloud_v4 34.116.0.0/21
 add googlecloud_v4 34.116.64.0/18
 add googlecloud_v4 34.116.128.0/17
@@ -274,8 +274,10 @@ add googlecloud_v4 34.183.66.0/23
 add googlecloud_v4 34.183.68.0/22
 add googlecloud_v4 34.183.72.0/21
 add googlecloud_v4 34.183.80.0/20
-add googlecloud_v4 34.183.96.0/21
-add googlecloud_v4 34.183.104.0/22
+add googlecloud_v4 34.183.96.0/20
+add googlecloud_v4 34.183.112.0/21
+add googlecloud_v4 34.183.120.0/22
+add googlecloud_v4 34.183.124.0/24
 add googlecloud_v4 34.184.0.0/21
 add googlecloud_v4 34.184.8.0/23
 add googlecloud_v4 34.184.12.0/22
@@ -288,9 +290,9 @@ add googlecloud_v4 34.184.40.0/21
 add googlecloud_v4 34.184.48.0/21
 add googlecloud_v4 34.184.56.0/22
 add googlecloud_v4 34.184.64.0/19
-add googlecloud_v4 34.184.96.0/21
-add googlecloud_v4 34.184.104.0/24
-add googlecloud_v4 34.184.106.0/23
+add googlecloud_v4 34.184.96.0/20
+add googlecloud_v4 34.184.112.0/21
+add googlecloud_v4 34.184.120.0/22
 add googlecloud_v4 34.185.64.0/18
 add googlecloud_v4 34.185.128.0/17
 add googlecloud_v4 34.186.0.0/15
@@ -420,9 +422,10 @@ add googlecloud_v4 130.211.64.0/18
 add googlecloud_v4 130.211.128.0/17
 add googlecloud_v4 136.23.64.0/18
 add googlecloud_v4 136.64.0.0/13
-add googlecloud_v4 136.80.0.0/13
-add googlecloud_v4 136.88.0.0/14
-add googlecloud_v4 136.92.0.0/17
+add googlecloud_v4 136.72.0.0/14
+add googlecloud_v4 136.77.0.0/16
+add googlecloud_v4 136.79.0.0/16
+add googlecloud_v4 136.80.0.0/12
 add googlecloud_v4 136.107.0.0/16
 add googlecloud_v4 136.108.0.0/14
 add googlecloud_v4 136.112.0.0/13

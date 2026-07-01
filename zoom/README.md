@@ -1,6 +1,6 @@
 # Zoom IP Ranges (Auto-Updated Daily)
 
-> Last updated: **2026-06-30** · Total CIDRs: **60** · IPv4: **57** · IPv6: **3** · Services: **3**
+> Last updated: **2026-07-01** · Total CIDRs: **60** · IPv4: **57** · IPv6: **3** · Services: **3**
 
 Machine-readable, daily-updated, validated public IP ranges for **Zoom**.
 Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and Apache.

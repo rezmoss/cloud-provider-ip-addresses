@@ -7,12 +7,14 @@ CREATE TABLE IF NOT EXISTS `mullvad_gb_ips` (
 );
 
 INSERT INTO `mullvad_gb_ips` (`ip_address`, `ip_type`) VALUES ('135.136.22.2/32', 'IPv4');
+INSERT INTO `mullvad_gb_ips` (`ip_address`, `ip_type`) VALUES ('135.136.58.130/32', 'IPv4');
 INSERT INTO `mullvad_gb_ips` (`ip_address`, `ip_type`) VALUES ('141.98.252.66/32', 'IPv4');
 INSERT INTO `mullvad_gb_ips` (`ip_address`, `ip_type`) VALUES ('141.98.252.130/32', 'IPv4');
 INSERT INTO `mullvad_gb_ips` (`ip_address`, `ip_type`) VALUES ('141.98.252.138/32', 'IPv4');
 INSERT INTO `mullvad_gb_ips` (`ip_address`, `ip_type`) VALUES ('141.98.252.222/32', 'IPv4');
 INSERT INTO `mullvad_gb_ips` (`ip_address`, `ip_type`) VALUES ('146.70.119.2/32', 'IPv4');
 INSERT INTO `mullvad_gb_ips` (`ip_address`, `ip_type`) VALUES ('146.70.119.66/32', 'IPv4');
+INSERT INTO `mullvad_gb_ips` (`ip_address`, `ip_type`) VALUES ('146.70.119.130/32', 'IPv4');
 INSERT INTO `mullvad_gb_ips` (`ip_address`, `ip_type`) VALUES ('146.70.119.162/32', 'IPv4');
 INSERT INTO `mullvad_gb_ips` (`ip_address`, `ip_type`) VALUES ('146.70.132.2/32', 'IPv4');
 INSERT INTO `mullvad_gb_ips` (`ip_address`, `ip_type`) VALUES ('167.160.13.3/32', 'IPv4');
@@ -43,6 +45,9 @@ INSERT INTO `mullvad_gb_ips` (`ip_address`, `ip_type`) VALUES ('2a03:1b20:7:f011
 INSERT INTO `mullvad_gb_ips` (`ip_address`, `ip_type`) VALUES ('2a03:1b20:7:f011::f801/128', 'IPv6');
 INSERT INTO `mullvad_gb_ips` (`ip_address`, `ip_type`) VALUES ('2a03:ee40:3304::f001/128', 'IPv6');
 INSERT INTO `mullvad_gb_ips` (`ip_address`, `ip_type`) VALUES ('2a03:ee40:3304::f101/128', 'IPv6');
+INSERT INTO `mullvad_gb_ips` (`ip_address`, `ip_type`) VALUES ('2a04:9dc0:18:70::f001/128', 'IPv6');
+INSERT INTO `mullvad_gb_ips` (`ip_address`, `ip_type`) VALUES ('2a04:9dc0:18:71::f001/128', 'IPv6');
+INSERT INTO `mullvad_gb_ips` (`ip_address`, `ip_type`) VALUES ('2a04:9dc0:18:73::f001/128', 'IPv6');
 INSERT INTO `mullvad_gb_ips` (`ip_address`, `ip_type`) VALUES ('2a06:3040:d:410::f001/128', 'IPv6');
 INSERT INTO `mullvad_gb_ips` (`ip_address`, `ip_type`) VALUES ('2a06:3040:d:410::f101/128', 'IPv6');
 INSERT INTO `mullvad_gb_ips` (`ip_address`, `ip_type`) VALUES ('2a0b:89c1:3::a33f/128', 'IPv6');

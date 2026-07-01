@@ -270,6 +270,12 @@
     "region": "us-east1"
   },
   {
+    "ip_address": "136.72.0.0/16",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "us-east1"
+  },
+  {
     "ip_address": "136.108.0.0/16",
     "ip_type": "IPv4",
     "service": "Google Cloud",

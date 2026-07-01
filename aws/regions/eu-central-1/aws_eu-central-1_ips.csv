@@ -675,6 +675,10 @@ ip_address,ip_type,service,region
 2605:b140:9900::/48,IPv6,EC2,eu-central-1
 2606:f40:1800::/40,IPv6,AMAZON,eu-central-1
 2606:f40:1800::/40,IPv6,EC2,eu-central-1
+2606:f40:4300::/40,IPv6,AMAZON,eu-central-1
+2606:f40:4300::/40,IPv6,EC2,eu-central-1
+2606:f40:4901::/48,IPv6,AMAZON,eu-central-1
+2606:f40:4901::/48,IPv6,EC2,eu-central-1
 2606:f40:5800::/40,IPv6,AMAZON,eu-central-1
 2606:f40:5800::/40,IPv6,EC2,eu-central-1
 2606:f40:9800::/40,IPv6,AMAZON,eu-central-1

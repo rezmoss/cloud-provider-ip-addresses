@@ -1,6 +1,6 @@
 #!/bin/bash
 # Linode IP Ranges
-# Updated: 2026-06-28 03:21:03
+# Updated: 2026-07-01 03:21:20
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -272,9 +272,7 @@ ip6tables -A INPUT -s 2600:3c0f:37::/48 -j DROP
 ip6tables -A INPUT -s 2600:3c0f:38::/48 -j DROP
 ip6tables -A INPUT -s 2600:3c0f:40::/45 -j DROP
 ip6tables -A INPUT -s 2600:3c0f:48::/47 -j DROP
-ip6tables -A INPUT -s 2600:3c0f:50::/46 -j DROP
-ip6tables -A INPUT -s 2600:3c0f:55::/48 -j DROP
-ip6tables -A INPUT -s 2600:3c0f:56::/47 -j DROP
+ip6tables -A INPUT -s 2600:3c0f:50::/45 -j DROP
 ip6tables -A INPUT -s 2600:3c0f:58::/48 -j DROP
 ip6tables -A INPUT -s 2600:3c12:100::/40 -j DROP
 ip6tables -A INPUT -s 2600:3c12:300::/40 -j DROP
@@ -285,5 +283,6 @@ ip6tables -A INPUT -s 2600:3c13::/32 -j DROP
 ip6tables -A INPUT -s 2600:3c14::/30 -j DROP
 ip6tables -A INPUT -s 2600:3c18::/30 -j DROP
 ip6tables -A INPUT -s 2600:3c1c::/32 -j DROP
+ip6tables -A INPUT -s 2600:3c1e::/32 -j DROP
 ip6tables -A INPUT -s 2a01:7e00::/30 -j DROP
 ip6tables -A INPUT -s 2a01:7e04::/32 -j DROP

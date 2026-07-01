@@ -7,6 +7,8 @@ CREATE TABLE IF NOT EXISTS `googlecloud_us-central2_ips` (
 );
 
 INSERT INTO `googlecloud_us-central2_ips` (`ip_address`, `ip_type`) VALUES ('34.22.0.0/19', 'IPv4');
+INSERT INTO `googlecloud_us-central2_ips` (`ip_address`, `ip_type`) VALUES ('34.183.115.0/24', 'IPv4');
+INSERT INTO `googlecloud_us-central2_ips` (`ip_address`, `ip_type`) VALUES ('34.184.116.0/24', 'IPv4');
 INSERT INTO `googlecloud_us-central2_ips` (`ip_address`, `ip_type`) VALUES ('35.186.0.0/17', 'IPv4');
 INSERT INTO `googlecloud_us-central2_ips` (`ip_address`, `ip_type`) VALUES ('35.186.128.0/20', 'IPv4');
 INSERT INTO `googlecloud_us-central2_ips` (`ip_address`, `ip_type`) VALUES ('35.206.32.0/19', 'IPv4');
@@ -14,5 +16,6 @@ INSERT INTO `googlecloud_us-central2_ips` (`ip_address`, `ip_type`) VALUES ('35.
 INSERT INTO `googlecloud_us-central2_ips` (`ip_address`, `ip_type`) VALUES ('35.242.46.0/24', 'IPv4');
 INSERT INTO `googlecloud_us-central2_ips` (`ip_address`, `ip_type`) VALUES ('107.167.160.0/20', 'IPv4');
 INSERT INTO `googlecloud_us-central2_ips` (`ip_address`, `ip_type`) VALUES ('108.59.88.0/21', 'IPv4');
+INSERT INTO `googlecloud_us-central2_ips` (`ip_address`, `ip_type`) VALUES ('136.73.0.0/16', 'IPv4');
 INSERT INTO `googlecloud_us-central2_ips` (`ip_address`, `ip_type`) VALUES ('173.255.120.0/21', 'IPv4');
 INSERT INTO `googlecloud_us-central2_ips` (`ip_address`, `ip_type`) VALUES ('2600:1900:4070::/44', 'IPv6');

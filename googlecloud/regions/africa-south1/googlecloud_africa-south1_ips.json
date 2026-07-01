@@ -24,6 +24,18 @@
     "region": "africa-south1"
   },
   {
+    "ip_address": "34.183.123.0/24",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "africa-south1"
+  },
+  {
+    "ip_address": "34.184.122.0/24",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "africa-south1"
+  },
+  {
     "ip_address": "2600:1900:8000::/44",
     "ip_type": "IPv6",
     "service": "Google Cloud",

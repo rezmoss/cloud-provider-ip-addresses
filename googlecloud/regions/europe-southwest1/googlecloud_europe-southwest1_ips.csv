@@ -6,4 +6,6 @@ ip_address,ip_type,service,region
 34.164.0.0/16,IPv4,Google Cloud,europe-southwest1
 34.175.0.0/16,IPv4,Google Cloud,europe-southwest1
 34.177.71.0/24,IPv4,Google Cloud,europe-southwest1
+34.183.112.0/24,IPv4,Google Cloud,europe-southwest1
+34.184.111.0/24,IPv4,Google Cloud,europe-southwest1
 2600:1901:8100::/44,IPv6,Google Cloud,europe-southwest1

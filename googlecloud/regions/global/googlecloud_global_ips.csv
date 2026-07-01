@@ -38,6 +38,7 @@ ip_address,ip_type,service,region
 130.211.32.0/20,IPv4,Google Cloud,global
 136.68.0.0/16,IPv4,Google Cloud,global
 136.69.0.0/17,IPv4,Google Cloud,global
+136.79.0.0/17,IPv4,Google Cloud,global
 136.81.0.0/16,IPv4,Google Cloud,global
 136.82.0.0/16,IPv4,Google Cloud,global
 136.110.128.0/17,IPv4,Google Cloud,global

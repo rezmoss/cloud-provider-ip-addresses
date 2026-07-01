@@ -16716,6 +16716,18 @@
     "region": "global"
   },
   {
+    "ip_address": "162.14.40.0/22",
+    "ip_type": "IPv4",
+    "service": "tencent-as45090",
+    "region": "global"
+  },
+  {
+    "ip_address": "162.14.44.0/22",
+    "ip_type": "IPv4",
+    "service": "tencent-as45090",
+    "region": "global"
+  },
+  {
     "ip_address": "162.14.44.0/24",
     "ip_type": "IPv4",
     "service": "tencent-as45090",

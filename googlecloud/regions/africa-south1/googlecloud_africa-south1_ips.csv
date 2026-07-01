@@ -3,4 +3,6 @@ ip_address,ip_type,service,region
 34.35.0.0/16,IPv4,Google Cloud,africa-south1
 34.152.86.0/23,IPv4,Google Cloud,africa-south1
 34.177.50.0/23,IPv4,Google Cloud,africa-south1
+34.183.123.0/24,IPv4,Google Cloud,africa-south1
+34.184.122.0/24,IPv4,Google Cloud,africa-south1
 2600:1900:8000::/44,IPv6,Google Cloud,africa-south1

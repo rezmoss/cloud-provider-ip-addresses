@@ -26560,6 +26560,11 @@
     "region": "FR-IDF"
   },
   {
+    "ip_address": "2600:3c0f:54::/48",
+    "ip_type": "IPv6",
+    "region": "AU-NSW"
+  },
+  {
     "ip_address": "2600:3c0f:55::/48",
     "ip_type": "IPv6",
     "region": "US-NV"
@@ -26693,6 +26698,11 @@
     "ip_address": "2600:3c1c::/32",
     "ip_type": "IPv6",
     "region": "US-NV"
+  },
+  {
+    "ip_address": "2600:3c1e::/32",
+    "ip_type": "IPv6",
+    "region": "AU-NSW"
   },
   {
     "ip_address": "2a01:7e00::/32",

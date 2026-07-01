@@ -1,7 +1,7 @@
 # aws IP ranges - ipset restore format (hash:net)
-# Version: 10 | Generated: 2026-06-30 | Last changed: 2026-06-30
-# IPv4: 1768 merged subnets, 101888216 unique IPs
-# IPv6: 2043 merged subnets
+# Version: 11 | Generated: 2026-07-01 | Last changed: 2026-07-01
+# IPv4: 1767 merged subnets, 101887960 unique IPs
+# IPv6: 2046 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
 # Load with: sudo ipset restore -! < aws.netset
@@ -14,7 +14,6 @@ add aws_v4 1.178.8.0/22
 add aws_v4 1.178.16.0/20
 add aws_v4 1.178.64.0/23
 add aws_v4 1.178.72.0/21
-add aws_v4 1.178.86.0/24
 add aws_v4 1.178.88.0/21
 add aws_v4 1.178.100.0/22
 add aws_v4 1.178.172.0/23
@@ -3155,7 +3154,11 @@ add aws_v6 2606:f40:2800::/40
 add aws_v6 2606:f40:2a00::/40
 add aws_v6 2606:f40:3200::/40
 add aws_v6 2606:f40:3e00::/40
+add aws_v6 2606:f40:4200::/39
 add aws_v6 2606:f40:4400::/39
+add aws_v6 2606:f40:4600::/40
+add aws_v6 2606:f40:4900::/47
+add aws_v6 2606:f40:4902::/48
 add aws_v6 2606:f40:5000::/39
 add aws_v6 2606:f40:5800::/40
 add aws_v6 2606:f40:6100::/40
@@ -3337,10 +3340,9 @@ add aws_v6 2606:7b40:1b40::/42
 add aws_v6 2606:7b40:1b80::/44
 add aws_v6 2606:7b40:1f00::/40
 add aws_v6 2606:7b40:3000::/49
-add aws_v6 2606:7b40:3000:c000::/50
-add aws_v6 2606:7b40:3001::/48
-add aws_v6 2606:7b40:3002::/47
-add aws_v6 2606:7b40:3004::/46
+add aws_v6 2606:7b40:3004:c000::/50
+add aws_v6 2606:7b40:3005::/48
+add aws_v6 2606:7b40:3006::/47
 add aws_v6 2606:7b40:3008::/50
 add aws_v6 2606:7b40:3009:c000::/52
 add aws_v6 2606:7b40:300a::/56

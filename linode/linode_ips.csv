@@ -5311,6 +5311,7 @@ ip_address,ip_type,region
 2600:3c0f:51::/48,IPv6,NO-03
 2600:3c0f:52::/48,IPv6,US-VA
 2600:3c0f:53::/48,IPv6,FR-IDF
+2600:3c0f:54::/48,IPv6,AU-NSW
 2600:3c0f:55::/48,IPv6,US-NV
 2600:3c0f:56::/48,IPv6,CO-DC
 2600:3c0f:57::/48,IPv6,FR-13
@@ -5338,6 +5339,7 @@ ip_address,ip_type,region
 2600:3c1a::/32,IPv6,FR-IDF
 2600:3c1b::/32,IPv6,US-VA
 2600:3c1c::/32,IPv6,US-NV
+2600:3c1e::/32,IPv6,AU-NSW
 2a01:7e00::/32,IPv6,GB-ENG
 2a01:7e01::/32,IPv6,DE-HE
 2a01:7e02::/32,IPv6,ES-MD

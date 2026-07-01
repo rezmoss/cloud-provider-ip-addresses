@@ -264,6 +264,12 @@
     "region": "europe-west1"
   },
   {
+    "ip_address": "136.77.0.0/17",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "europe-west1"
+  },
+  {
     "ip_address": "136.84.0.0/16",
     "ip_type": "IPv4",
     "service": "Google Cloud",
@@ -271,6 +277,12 @@
   },
   {
     "ip_address": "136.91.0.0/16",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "europe-west1"
+  },
+  {
+    "ip_address": "136.94.0.0/16",
     "ip_type": "IPv4",
     "service": "Google Cloud",
     "region": "europe-west1"
