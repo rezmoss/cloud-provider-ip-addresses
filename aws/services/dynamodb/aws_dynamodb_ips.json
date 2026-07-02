@@ -138,6 +138,12 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "35.71.92.0/24",
+    "ip_type": "IPv4",
+    "service": "DYNAMODB",
+    "region": "me-west-1"
+  },
+  {
     "ip_address": "35.71.93.0/24",
     "ip_type": "IPv4",
     "service": "DYNAMODB",

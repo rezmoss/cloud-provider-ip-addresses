@@ -1,5 +1,29 @@
 [
   {
+    "ip_address": "16.22.41.144/28",
+    "ip_type": "IPv4",
+    "service": "EFS",
+    "region": "eu-south-1"
+  },
+  {
+    "ip_address": "16.22.41.160/27",
+    "ip_type": "IPv4",
+    "service": "EFS",
+    "region": "eu-south-1"
+  },
+  {
+    "ip_address": "16.22.121.0/26",
+    "ip_type": "IPv4",
+    "service": "EFS",
+    "region": "eu-south-1"
+  },
+  {
+    "ip_address": "16.22.121.64/28",
+    "ip_type": "IPv4",
+    "service": "EFS",
+    "region": "eu-south-1"
+  },
+  {
     "ip_address": "100.59.224.0/25",
     "ip_type": "IPv4",
     "service": "EFS",
@@ -10,5 +34,11 @@
     "ip_type": "IPv6",
     "service": "EFS",
     "region": "us-east-1"
+  },
+  {
+    "ip_address": "2a05:d01a:eae:1b00::/56",
+    "ip_type": "IPv6",
+    "service": "EFS",
+    "region": "eu-south-1"
   }
 ]

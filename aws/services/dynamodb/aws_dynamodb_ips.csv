@@ -22,6 +22,7 @@ ip_address,ip_type,service,region
 35.71.68.0/22,IPv4,DYNAMODB,us-east-1
 35.71.72.0/22,IPv4,DYNAMODB,eu-west-1
 35.71.76.0/22,IPv4,DYNAMODB,us-east-1
+35.71.92.0/24,IPv4,DYNAMODB,me-west-1
 35.71.93.0/24,IPv4,DYNAMODB,ap-southeast-6
 35.71.94.0/24,IPv4,DYNAMODB,eusc-de-east-1
 35.71.96.0/24,IPv4,DYNAMODB,ap-southeast-3

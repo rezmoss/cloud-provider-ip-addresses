@@ -1,6 +1,8 @@
 ip_address,ip_type,service,region
 1.179.103.0/24,IPv4,AMAZON,us-south-1
 1.179.103.0/24,IPv4,EC2,us-south-1
+5.60.48.0/20,IPv4,AMAZON,us-south-1
+5.60.48.0/20,IPv4,EC2,us-south-1
 13.248.82.0/24,IPv4,AMAZON,us-south-1
 13.248.82.0/24,IPv4,DYNAMODB,us-south-1
 15.177.108.0/24,IPv4,AMAZON,us-south-1

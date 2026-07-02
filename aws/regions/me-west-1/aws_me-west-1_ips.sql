@@ -27,6 +27,9 @@ INSERT INTO `aws_me-west-1_ips` (`ip_address`, `ip_type`) VALUES ('23.254.16.0/2
 INSERT INTO `aws_me-west-1_ips` (`ip_address`, `ip_type`) VALUES ('23.254.16.0/21', 'IPv4');
 INSERT INTO `aws_me-west-1_ips` (`ip_address`, `ip_type`) VALUES ('35.52.0.0/15', 'IPv4');
 INSERT INTO `aws_me-west-1_ips` (`ip_address`, `ip_type`) VALUES ('35.56.0.0/15', 'IPv4');
+INSERT INTO `aws_me-west-1_ips` (`ip_address`, `ip_type`) VALUES ('35.71.92.0/24', 'IPv4');
+INSERT INTO `aws_me-west-1_ips` (`ip_address`, `ip_type`) VALUES ('35.71.92.0/24', 'IPv4');
+INSERT INTO `aws_me-west-1_ips` (`ip_address`, `ip_type`) VALUES ('35.71.92.0/24', 'IPv4');
 INSERT INTO `aws_me-west-1_ips` (`ip_address`, `ip_type`) VALUES ('51.168.0.0/15', 'IPv4');
 INSERT INTO `aws_me-west-1_ips` (`ip_address`, `ip_type`) VALUES ('51.168.0.0/15', 'IPv4');
 INSERT INTO `aws_me-west-1_ips` (`ip_address`, `ip_type`) VALUES ('51.204.0.0/15', 'IPv4');

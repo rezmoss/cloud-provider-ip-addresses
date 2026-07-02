@@ -2,6 +2,32 @@
 
 Daily IP range changes across all providers.
 
+## 2026-07-02
+
+### linode
+- Added: 64 CIDRs
+- Removed: 0 CIDRs
+
+### tor
+- Added: 94 CIDRs
+- Removed: 11 CIDRs
+
+### ovhcloud
+- Added: 1 CIDRs
+- Removed: 0 CIDRs
+
+### aws
+- Added: 21 CIDRs
+- Removed: 0 CIDRs
+
+### tencent
+- Added: 1 CIDRs
+- Removed: 2 CIDRs
+
+### alibaba
+- Added: 1 CIDRs
+- Removed: 1 CIDRs
+
 ## 2026-07-01
 
 ### tor

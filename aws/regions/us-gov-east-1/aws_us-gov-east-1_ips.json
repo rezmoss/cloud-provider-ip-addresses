@@ -492,6 +492,42 @@
     "region": "us-gov-east-1"
   },
   {
+    "ip_address": "64.73.198.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "64.73.198.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "64.73.199.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "64.73.199.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "64.73.200.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "64.73.200.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-gov-east-1"
+  },
+  {
     "ip_address": "99.77.183.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
