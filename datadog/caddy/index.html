@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>datadog IP ranges for Caddy — updated 2026-07-02</title>
+<meta name="description" content="Caddy remote_ip matcher snippet for datadog. 166 CIDRs, refreshed daily.">
+<link rel="canonical" href="https://cloudipdb.io/datadog/caddy/">
+<meta property="og:title" content="datadog IP ranges for Caddy — updated 2026-07-02">
+<meta property="og:description" content="Caddy remote_ip matcher snippet for datadog. 166 CIDRs, refreshed daily.">
+<meta property="og:url" content="https://cloudipdb.io/datadog/caddy/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Cloud Provider IP Addresses">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="datadog IP ranges for Caddy — updated 2026-07-02">
+<meta name="twitter:description" content="Caddy remote_ip matcher snippet for datadog. 166 CIDRs, refreshed daily.">
+<link rel="alternate" type="application/rss+xml" title="Cloud Provider IP Addresses changelog" href="/feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter+Tight:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/style.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cloudipdb.io/"},{"@type":"ListItem","position":2,"name":"datadog","item":"https://cloudipdb.io/datadog/"},{"@type":"ListItem","position":3,"name":"Caddy","item":"https://cloudipdb.io/datadog/caddy/"}]}</script>
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <a href="/" style="display:flex;align-items:center;gap:12px">
+      <div class="brand-mark"><span></span></div>
+      <div class="brand-name"><b>CLOUD</b>-IP <span style="color:var(--ink-4)">// v2026.07</span></div>
+    </a>
+  </div>
+  <nav class="nav"><a href="/">Dashboard</a><a href="/providers/">Providers</a><a href="/changelog/">Changelog</a><a href="/lookup/">Lookup</a><a href="/coverage/">Coverage</a><a href="/formats/">Formats</a><a href="/builder/">Tools</a></nav>
+  <div class="topbar-right">
+    <span class="topbar-stat">UPDATED <b>2026-07-02</b></span>
+    <span class="topbar-stat">PROVIDERS <b>37</b></span>
+    <span class="live-badge"><span class="pulse-dot"></span> LIVE</span>
+  </div>
+</header>
+<main>
+<section class="page active">
+  <div class="page-head">
+    <div>
+      <div class="crumbs">// <a href="/datadog/" style="color:inherit">DATADOG</a> / <b>CADDY</b></div>
+      <h1>datadog · Caddy</h1>
+      <p class="lede">Caddy remote_ip matcher snippet for datadog. 166 CIDRs, refreshed daily.</p>
+    </div>
+  </div>
+
+  <div class="grid" style="gap:18px"><div class="panel">
+  <div class="panel-head">
+    <h3>// caddy_datadog_allow.conf</h3>
+    <span class="meta">
+      <a href="https://raw.githubusercontent.com/rezmoss/cloud-provider-ip-addresses/main/datadog/caddy_datadog_allow.conf" style="color:var(--cyan)">DOWNLOAD ↓</a>
+      &nbsp;·&nbsp;
+      <button onclick="copyUrl('https://raw.githubusercontent.com/rezmoss/cloud-provider-ip-addresses/main/datadog/caddy_datadog_allow.conf', this)" style="background:transparent;border:0;color:var(--cyan);cursor:pointer;font-family:var(--mono);font-size:10px;letter-spacing:.06em">COPY</button>
+    </span>
+  </div>
+  <div class="panel-body">
+    <div class="code-block"><pre style="margin:0;font-family:var(--mono);font-size:11px;color:var(--ink-2);overflow-x:auto"># Datadog IP Ranges
+# Updated: 2026-06-25 03:23:22
+# Source: https://github.com/rezmoss/cloud-provider-ip-addresses
+# License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
+# This file is generated automatically. Do not edit it directly.
+# Updates daily at 02:00 UTC
+# Caddy remote_ip matcher for datadog
+# Usage: @datadog remote_ip &lt;cidrs&gt;
+
+@datadog {
+  remote_ip 3.1.36.99/32 3.1.219.207/32 3.18.172.189/32 3.18.188.104/32 3.18.197.0/32 3.35.66.96/32 3.36.177.119/32 3.40.2.64/29 3.40.134.72/29 3.41.0.88/29 3.41.176.48/29 3.42.136.80/29 3.44.192.120/29 3.45.0.40/29 3.90.129.171/32 3.92.150.182/32 3.96.7.126/32 3.120.223.25/32 3.121.24.234/32 3.208.6.150/32 3.210.147.169/32 3.220.254.141/32 3.227.186.226/32 3.229.242.89/32 3.233.144.0/20 5.60.130.112/29 13.48.150.244/32 13.48.239.118/32 13.48.254.37/32 13.54.169.48/32 13.114.211.96/32 13.115.46.213/32 13.126.169.175/32 13.208.126.217/32 13.208.133.55/32 13.208.142.17/32 13.208.255.200/32 13.209.118.42/32 13.209.230.111/32 13.234.54.8/32 13.236.246.161/32 13.238.14.57/32 13.244.85.86/32 13.244.188.203/32 13.245.194.43/32 13.245.200.254/32 13.246.172.210/32 13.247.164.9/32 15.152.238.192/32 15.161.86.71/32 15.165.240.116/32 15.168.188.85/32 15.184.139.182/32 15.185.189.82/32 15.188.202.64/32 15.188.240.172/32 15.188.243.248/32 16.24.38.13/32 16.24.60.114/32 16.162.136.62/32 16.163.153.45/32 18.96.16.112/29 18.96.130.96/29 18.96.227.72/29 18.97.147.8/29 18.98.67.176/29 18.98.96.240/29 18.98.131.24/29 18.98.196.216/29 18.99.4.112/29 18.99.34.208/29 18.99.99.232/29 18.99.147.8/29 18.99.209.96/29 18.99.224.56/29 18.102.80.189/32 18.130.113.168/32 18.139.52.173/32 18.163.21.55/32 18.163.59.106/32 18.166.19.255/32 18.195.155.52/32 18.200.120.237/32 18.215.84.107/32 18.229.28.50/32 18.229.36.120/32 20.62.248.141/32 20.83.144.189/32 23.20.66.169/32 23.20.198.65/32 23.23.216.60/32 34.48.76.208/29 34.94.234.88/29 34.145.82.128/29 34.146.154.144/29 34.159.50.128/29 34.174.98.16/29 34.196.179.210/32 34.202.253.27/32 34.203.1.9/32 34.204.83.4/32 34.206.254.214/32 34.208.32.189/32 34.233.140.66/32 34.234.13.225/32 34.237.4.239/32 35.152.76.8/32 35.154.93.182/32 35.172.85.248/32 35.172.176.208/32 35.176.195.46/32 35.177.43.250/32 40.76.107.170/32 43.198.123.228/32 43.203.72.233/32 43.218.5.202/32 44.192.28.0/25 44.208.124.66/32 52.1.33.14/32 52.1.61.69/32 52.9.13.199/32 52.9.139.134/32 52.35.61.232/32 52.44.179.207/32 52.55.56.26/32 52.60.189.53/32 52.67.95.251/32 52.89.221.151/32 52.186.167.216/29 52.192.175.207/32 54.87.25.183/32 54.92.248.81/32 54.152.215.16/32 54.157.36.5/32 54.158.196.235/32 54.177.155.33/32 54.204.118.171/32 54.226.163.166/32 54.243.237.18/32 63.34.100.178/32 63.35.33.198/32 99.79.87.237/32 100.28.212.0/22 107.21.25.247/32 108.137.133.223/32 108.137.188.57/32 157.241.36.106/32 157.241.93.102/32 174.129.34.172/32 2600:1f18:24e6:b900::/56
+}</pre></div>
+  </div>
+</div></div>
+</section>
+<div class="footer-bar">
+  <div>// GENERATED FROM <a href="https://github.com/rezmoss/cloud-provider-ip-addresses" target="_blank">rezmoss/cloud-provider-ip-addresses</a> · DAILY @ 06:00 UTC</div>
+  <div>// MIT · <a href="/embed/">EMBED</a> · <a href="/no-static-ips/">NO-STATIC-IPS</a> · <a href="/feed.xml">RSS</a> · <a href="/sitemap.xml">SITEMAP</a></div>
+</div>
+</main>
+<script>
+async function copyUrl(url, btn){
+  try{
+    const r = await fetch(url); const t = await r.text();
+    await navigator.clipboard.writeText(t);
+    const o = btn.textContent; btn.textContent='Copied'; btn.classList.add('ok');
+    setTimeout(()=>{btn.textContent=o; btn.classList.remove('ok')},1500);
+  }catch(e){ btn.textContent='Failed' }
+}
+</script>
+</body>
+</html>

@@ -1,0 +1,223 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>IP list builder — generate a custom firewall allowlist</title>
+<meta name="description" content="Free IP allowlist generator. Pick any combination of cloud providers and bots, choose nginx, iptables, Apache, or plain-CIDR output, and download the file in your browser.">
+<link rel="canonical" href="https://cloudipdb.io/builder/">
+<meta property="og:title" content="IP list builder — generate a custom firewall allowlist">
+<meta property="og:description" content="Free IP allowlist generator. Pick any combination of cloud providers and bots, choose nginx, iptables, Apache, or plain-CIDR output, and download the file in your browser.">
+<meta property="og:url" content="https://cloudipdb.io/builder/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Cloud Provider IP Addresses">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="IP list builder — generate a custom firewall allowlist">
+<meta name="twitter:description" content="Free IP allowlist generator. Pick any combination of cloud providers and bots, choose nginx, iptables, Apache, or plain-CIDR output, and download the file in your browser.">
+<link rel="alternate" type="application/rss+xml" title="Cloud Provider IP Addresses changelog" href="/feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter+Tight:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/style.css">
+
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <a href="/" style="display:flex;align-items:center;gap:12px">
+      <div class="brand-mark"><span></span></div>
+      <div class="brand-name"><b>CLOUD</b>-IP <span style="color:var(--ink-4)">// v2026.07</span></div>
+    </a>
+  </div>
+  <nav class="nav"><a href="/">Dashboard</a><a href="/providers/">Providers</a><a href="/changelog/">Changelog</a><a href="/lookup/">Lookup</a><a href="/coverage/">Coverage</a><a href="/formats/">Formats</a><a href="/builder/" class="active">Tools</a></nav>
+  <div class="topbar-right">
+    <span class="topbar-stat">UPDATED <b>2026-07-02</b></span>
+    <span class="topbar-stat">PROVIDERS <b>37</b></span>
+    <span class="live-badge"><span class="pulse-dot"></span> LIVE</span>
+  </div>
+</header>
+<main>
+<section class="page active">
+  <div class="page-head">
+    <div>
+      <div class="crumbs">// TOOLS / <b>LIST BUILDER</b></div>
+      <h1>Build a custom IP list</h1>
+      <p class="lede">Pick the providers, IP version, and output format. Everything is fetched from GitHub and assembled in your browser — no backend, no signups.</p>
+    </div>
+  </div>
+
+  <div class="grid cols-2">
+    <div class="panel">
+      <div class="panel-head"><h3>// 1. PROVIDERS</h3><span class="meta">
+        <button type="button" onclick="selAll(true)" style="background:transparent;border:0;color:var(--cyan);cursor:pointer;font-family:var(--mono);font-size:10px;letter-spacing:.06em">SELECT ALL</button>
+        ·
+        <button type="button" onclick="selAll(false)" style="background:transparent;border:0;color:var(--cyan);cursor:pointer;font-family:var(--mono);font-size:10px;letter-spacing:.06em">CLEAR</button>
+      </span></div>
+      <div class="panel-body"><div class="chk-grid"><label class="chk"><input type="checkbox" value="alibaba"> <span class="dot" style="width:8px;height:8px;border-radius:1px;background:#FF6A00;display:inline-block"></span> Alibaba</label>
+<label class="chk"><input type="checkbox" value="amazonbot"> <span class="dot" style="width:8px;height:8px;border-radius:1px;background:#FF9900;display:inline-block"></span> Amazonbot</label>
+<label class="chk"><input type="checkbox" value="apple_private_relay"> <span class="dot" style="width:8px;height:8px;border-radius:1px;background:#007AFF;display:inline-block"></span> Apple Private Relay</label>
+<label class="chk"><input type="checkbox" value="applebot"> <span class="dot" style="width:8px;height:8px;border-radius:1px;background:#888888;display:inline-block"></span> Applebot</label>
+<label class="chk"><input type="checkbox" value="atlassian"> <span class="dot" style="width:8px;height:8px;border-radius:1px;background:#0052CC;display:inline-block"></span> Atlassian</label>
+<label class="chk"><input type="checkbox" value="aws"> <span class="dot" style="width:8px;height:8px;border-radius:1px;background:#FF9900;display:inline-block"></span> AWS</label>
+<label class="chk"><input type="checkbox" value="azure"> <span class="dot" style="width:8px;height:8px;border-radius:1px;background:#0078D4;display:inline-block"></span> Azure</label>
+<label class="chk"><input type="checkbox" value="bingbot"> <span class="dot" style="width:8px;height:8px;border-radius:1px;background:#008373;display:inline-block"></span> Bingbot</label>
+<label class="chk"><input type="checkbox" value="circleci"> <span class="dot" style="width:8px;height:8px;border-radius:1px;background:#A0A0A0;display:inline-block"></span> CircleCI</label>
+<label class="chk"><input type="checkbox" value="cloudflare"> <span class="dot" style="width:8px;height:8px;border-radius:1px;background:#F38020;display:inline-block"></span> Cloudflare</label>
+<label class="chk"><input type="checkbox" value="commoncrawl"> <span class="dot" style="width:8px;height:8px;border-radius:1px;background:#A0A0A0;display:inline-block"></span> Common Crawl</label>
+<label class="chk"><input type="checkbox" value="datadog"> <span class="dot" style="width:8px;height:8px;border-radius:1px;background:#888888;display:inline-block"></span> datadog</label>
+<label class="chk"><input type="checkbox" value="digitalocean"> <span class="dot" style="width:8px;height:8px;border-radius:1px;background:#0080FF;display:inline-block"></span> DigitalOcean</label>
+<label class="chk"><input type="checkbox" value="duckduckbot"> <span class="dot" style="width:8px;height:8px;border-radius:1px;background:#DE5833;display:inline-block"></span> DuckDuckBot</label>
+<label class="chk"><input type="checkbox" value="fastly"> <span class="dot" style="width:8px;height:8px;border-radius:1px;background:#FF282D;display:inline-block"></span> Fastly</label>
+<label class="chk"><input type="checkbox" value="github"> <span class="dot" style="width:8px;height:8px;border-radius:1px;background:#6E7681;display:inline-block"></span> GitHub</label>
+<label class="chk"><input type="checkbox" value="googlebot"> <span class="dot" style="width:8px;height:8px;border-radius:1px;background:#4285F4;display:inline-block"></span> Googlebot</label>
+<label class="chk"><input type="checkbox" value="googlecloud"> <span class="dot" style="width:8px;height:8px;border-radius:1px;background:#4285F4;display:inline-block"></span> Google Cloud</label>
+<label class="chk"><input type="checkbox" value="gptbot"> <span class="dot" style="width:8px;height:8px;border-radius:1px;background:#10A37F;display:inline-block"></span> GPTBot</label>
+<label class="chk"><input type="checkbox" value="hetzner"> <span class="dot" style="width:8px;height:8px;border-radius:1px;background:#D50C2D;display:inline-block"></span> Hetzner</label>
+<label class="chk"><input type="checkbox" value="ibmcloud"> <span class="dot" style="width:8px;height:8px;border-radius:1px;background:#1261FE;display:inline-block"></span> IBM Cloud</label>
+<label class="chk"><input type="checkbox" value="linode"> <span class="dot" style="width:8px;height:8px;border-radius:1px;background:#00A95C;display:inline-block"></span> Linode</label>
+<label class="chk"><input type="checkbox" value="meta"> <span class="dot" style="width:8px;height:8px;border-radius:1px;background:#0866FF;display:inline-block"></span> Meta (Facebook)</label>
+<label class="chk"><input type="checkbox" value="mullvad"> <span class="dot" style="width:8px;height:8px;border-radius:1px;background:#294D73;display:inline-block"></span> Mullvad VPN</label>
+<label class="chk"><input type="checkbox" value="oracle"> <span class="dot" style="width:8px;height:8px;border-radius:1px;background:#C74634;display:inline-block"></span> Oracle Cloud</label>
+<label class="chk"><input type="checkbox" value="ovhcloud"> <span class="dot" style="width:8px;height:8px;border-radius:1px;background:#123F6D;display:inline-block"></span> OVHcloud</label>
+<label class="chk"><input type="checkbox" value="perplexitybot"> <span class="dot" style="width:8px;height:8px;border-radius:1px;background:#6F42C1;display:inline-block"></span> PerplexityBot</label>
+<label class="chk"><input type="checkbox" value="pingdom"> <span class="dot" style="width:8px;height:8px;border-radius:1px;background:#888888;display:inline-block"></span> pingdom</label>
+<label class="chk"><input type="checkbox" value="scaleway"> <span class="dot" style="width:8px;height:8px;border-radius:1px;background:#4F0599;display:inline-block"></span> Scaleway</label>
+<label class="chk"><input type="checkbox" value="statuscake"> <span class="dot" style="width:8px;height:8px;border-radius:1px;background:#888888;display:inline-block"></span> statuscake</label>
+<label class="chk"><input type="checkbox" value="teamcity"> <span class="dot" style="width:8px;height:8px;border-radius:1px;background:#909090;display:inline-block"></span> TeamCity</label>
+<label class="chk"><input type="checkbox" value="telegram"> <span class="dot" style="width:8px;height:8px;border-radius:1px;background:#229ED9;display:inline-block"></span> Telegram</label>
+<label class="chk"><input type="checkbox" value="tencent"> <span class="dot" style="width:8px;height:8px;border-radius:1px;background:#0052D9;display:inline-block"></span> Tencent</label>
+<label class="chk"><input type="checkbox" value="tor"> <span class="dot" style="width:8px;height:8px;border-radius:1px;background:#7D4698;display:inline-block"></span> Tor Exit Nodes</label>
+<label class="chk"><input type="checkbox" value="uptimerobot"> <span class="dot" style="width:8px;height:8px;border-radius:1px;background:#888888;display:inline-block"></span> uptimerobot</label>
+<label class="chk"><input type="checkbox" value="vultr"> <span class="dot" style="width:8px;height:8px;border-radius:1px;background:#007BFC;display:inline-block"></span> Vultr</label>
+<label class="chk"><input type="checkbox" value="zoom"> <span class="dot" style="width:8px;height:8px;border-radius:1px;background:#2D8CFF;display:inline-block"></span> Zoom</label></div></div>
+    </div>
+    <div class="panel">
+      <div class="panel-head"><h3>// 2. OPTIONS</h3><span class="meta">configure output</span></div>
+      <div class="panel-body">
+        <p style="margin:0 0 8px;font-family:var(--mono);font-size:10px;color:var(--ink-3);letter-spacing:.06em">IP VERSION</p>
+        <div class="chips" style="margin-bottom:18px">
+          <label class="chip active"><input type="radio" name="ver" value="both" checked style="display:none"> BOTH</label>
+          <label class="chip"><input type="radio" name="ver" value="v4" style="display:none"> IPv4</label>
+          <label class="chip"><input type="radio" name="ver" value="v6" style="display:none"> IPv6</label>
+        </div>
+        <p style="margin:0 0 8px;font-family:var(--mono);font-size:10px;color:var(--ink-3);letter-spacing:.06em">OUTPUT FORMAT</p>
+        <select id="fmt" class="input" style="max-width:none;width:100%">
+          <option value="txt">Plain CIDR list (one per line)</option>
+          <option value="csv">CSV (ip_address,ip_type)</option>
+          <option value="json">JSON array</option>
+          <option value="nginx-allow">Nginx allow</option>
+          <option value="nginx-deny">Nginx deny</option>
+          <option value="apache-allow">Apache Require ip</option>
+          <option value="iptables-allow">iptables ACCEPT</option>
+          <option value="iptables-deny">iptables DROP</option>
+          <option value="ufw-allow">UFW allow</option>
+          <option value="ufw-deny">UFW deny</option>
+          <option value="cloudflare-waf">Cloudflare WAF expression</option>
+        </select>
+        <div style="margin-top:18px;display:flex;gap:8px">
+          <button type="button" onclick="build()" class="lookup-box" style="background:var(--cyan);color:oklch(0.12 0.01 240);border:0;padding:10px 18px;font-family:var(--mono);font-size:11px;letter-spacing:.1em;text-transform:uppercase;font-weight:600;cursor:pointer">BUILD &amp; DOWNLOAD</button>
+          <button type="button" onclick="preview()" class="chip">PREVIEW</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="panel" style="margin-top:20px;display:none" id="preview-panel">
+    <div class="panel-head"><h3>// PREVIEW</h3><span class="meta">first 5KB</span></div>
+    <div class="panel-body"><pre id="out" style="margin:0;font-family:var(--mono);font-size:11px;color:var(--ink-2);max-height:400px;overflow:auto"></pre></div>
+  </div>
+</section>
+<script>
+const RAW = 'https://raw.githubusercontent.com/rezmoss/cloud-provider-ip-addresses/main';
+function selAll(on){ document.querySelectorAll('.chk-grid input').forEach(i=>i.checked=on); }
+function selected(){ return [...document.querySelectorAll('.chk-grid input:checked')].map(i=>i.value); }
+function version(){ return document.querySelector('input[name=ver]:checked').value; }
+async function fetchCidrs(){
+  const providers = selected();
+  const v = version();
+  if(!providers.length) throw new Error('Pick at least one provider.');
+  const files = [];
+  for(const p of providers){
+    if(v==='both' || v==='v4') files.push(`${RAW}/${p}/${p}_ips_v4.txt`);
+    if(v==='both' || v==='v6') files.push(`${RAW}/${p}/${p}_ips_v6.txt`);
+  }
+  const responses = await Promise.all(files.map(u=>fetch(u).then(r=>r.ok?r.text():'')));
+  const set = new Set();
+  for(const t of responses){
+    for(const line of t.split('\n')){
+      const c = line.trim();
+      if(c && !c.startsWith('#')) set.add(c);
+    }
+  }
+  return [...set];
+}
+function isV4(c){ return c.includes('.'); }
+function format(cidrs, fmt){
+  const v4 = cidrs.filter(isV4), v6 = cidrs.filter(c=>!isV4(c));
+  switch(fmt){
+    case 'txt': return cidrs.join('\n') + '\n';
+    case 'csv': return 'ip_address,ip_type\n' + v4.map(c=>c+',IPv4').join('\n') + (v4.length&&v6.length?'\n':'') + v6.map(c=>c+',IPv6').join('\n') + '\n';
+    case 'json': return JSON.stringify(cidrs.map(c=>({cidr:c, ip_version: isV4(c)?'IPv4':'IPv6'})), null, 2);
+    case 'nginx-allow': return cidrs.map(c=>`allow ${c};`).join('\n') + '\ndeny all;\n';
+    case 'nginx-deny':  return cidrs.map(c=>`deny ${c};`).join('\n') + '\n';
+    case 'apache-allow': return '<RequireAny>\n' + cidrs.map(c=>`  Require ip ${c}`).join('\n') + '\n</RequireAny>\n';
+    case 'iptables-allow': return '#!/bin/bash\n' + cidrs.map(c=>`iptables -A INPUT -s ${c} -j ACCEPT`).join('\n') + '\n';
+    case 'iptables-deny':  return '#!/bin/bash\n' + cidrs.map(c=>`iptables -A INPUT -s ${c} -j DROP`).join('\n') + '\n';
+    case 'ufw-allow': return '#!/bin/bash\n' + cidrs.map(c=>`ufw allow from ${c}`).join('\n') + '\n';
+    case 'ufw-deny':  return '#!/bin/bash\n' + cidrs.map(c=>`ufw deny from ${c}`).join('\n') + '\n';
+    case 'cloudflare-waf': return '(ip.src in {' + cidrs.join(' ') + '})';
+  }
+  return cidrs.join('\n');
+}
+const EXT = {txt:'txt',csv:'csv',json:'json','nginx-allow':'conf','nginx-deny':'conf','apache-allow':'conf','iptables-allow':'sh','iptables-deny':'sh','ufw-allow':'sh','ufw-deny':'sh','cloudflare-waf':'txt'};
+async function build(){
+  try{
+    const fmt = document.getElementById('fmt').value;
+    const cidrs = await fetchCidrs();
+    const out = format(cidrs, fmt);
+    const blob = new Blob([out], {type:'text/plain'});
+    const a = document.createElement('a');
+    a.href = URL.createObjectURL(blob);
+    a.download = `ip-list-${selected().join('-').slice(0,40)}.${EXT[fmt]}`;
+    a.click();
+  }catch(e){ alert(e.message); }
+}
+async function preview(){
+  try{
+    const fmt = document.getElementById('fmt').value;
+    const cidrs = await fetchCidrs();
+    const out = format(cidrs, fmt);
+    const panel = document.getElementById('preview-panel');
+    if(panel) panel.style.display = 'block';
+    const pre = document.getElementById('out');
+    pre.style.display = 'block';
+    pre.textContent = out.slice(0,5000) + (out.length>5000?'\n… (truncated)':'');
+  }catch(e){ alert(e.message); }
+}
+
+document.querySelectorAll('.chips label.chip').forEach(l=>{
+  l.addEventListener('click',()=>{
+    const grp = l.parentElement;
+    grp.querySelectorAll('.chip').forEach(c=>c.classList.remove('active'));
+    l.classList.add('active');
+    const r = l.querySelector('input'); if(r) r.checked = true;
+  });
+});
+</script>
+<div class="footer-bar">
+  <div>// GENERATED FROM <a href="https://github.com/rezmoss/cloud-provider-ip-addresses" target="_blank">rezmoss/cloud-provider-ip-addresses</a> · DAILY @ 06:00 UTC</div>
+  <div>// MIT · <a href="/embed/">EMBED</a> · <a href="/no-static-ips/">NO-STATIC-IPS</a> · <a href="/feed.xml">RSS</a> · <a href="/sitemap.xml">SITEMAP</a></div>
+</div>
+</main>
+<script>
+async function copyUrl(url, btn){
+  try{
+    const r = await fetch(url); const t = await r.text();
+    await navigator.clipboard.writeText(t);
+    const o = btn.textContent; btn.textContent='Copied'; btn.classList.add('ok');
+    setTimeout(()=>{btn.textContent=o; btn.classList.remove('ok')},1500);
+  }catch(e){ btn.textContent='Failed' }
+}
+</script>
+</body>
+</html>

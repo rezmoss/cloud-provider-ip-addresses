@@ -1,0 +1,300 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Cloud Provider IP Addresses — daily-updated CIDRs for AWS, Azure, Cloudflare, GCP &amp; more</title>
+<meta name="description" content="Daily-updated IP address ranges for 37 cloud providers (AWS, Azure, Cloudflare, GCP, GitHub, ...) and AI/search bots, in nginx, iptables, Apache, HAProxy, JSON, CSV, and SQL formats. 442,102 CIDRs as of 2026-07-02.">
+<link rel="canonical" href="https://cloudipdb.io/">
+<meta property="og:title" content="Cloud Provider IP Addresses — daily-updated CIDRs for AWS, Azure, Cloudflare, GCP &amp; more">
+<meta property="og:description" content="Daily-updated IP address ranges for 37 cloud providers (AWS, Azure, Cloudflare, GCP, GitHub, ...) and AI/search bots, in nginx, iptables, Apache, HAProxy, JSON, CSV, and SQL formats. 442,102 CIDRs as of 2026-07-02.">
+<meta property="og:url" content="https://cloudipdb.io/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Cloud Provider IP Addresses">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Cloud Provider IP Addresses — daily-updated CIDRs for AWS, Azure, Cloudflare, GCP &amp; more">
+<meta name="twitter:description" content="Daily-updated IP address ranges for 37 cloud providers (AWS, Azure, Cloudflare, GCP, GitHub, ...) and AI/search bots, in nginx, iptables, Apache, HAProxy, JSON, CSV, and SQL formats. 442,102 CIDRs as of 2026-07-02.">
+<link rel="alternate" type="application/rss+xml" title="Cloud Provider IP Addresses changelog" href="/feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter+Tight:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/style.css">
+
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <a href="/" style="display:flex;align-items:center;gap:12px">
+      <div class="brand-mark"><span></span></div>
+      <div class="brand-name"><b>CLOUD</b>-IP <span style="color:var(--ink-4)">// v2026.07</span></div>
+    </a>
+  </div>
+  <nav class="nav"><a href="/" class="active">Dashboard</a><a href="/providers/">Providers</a><a href="/changelog/">Changelog</a><a href="/lookup/">Lookup</a><a href="/coverage/">Coverage</a><a href="/formats/">Formats</a><a href="/builder/">Tools</a></nav>
+  <div class="topbar-right">
+    <span class="topbar-stat">UPDATED <b>2026-07-02</b></span>
+    <span class="topbar-stat">PROVIDERS <b>37</b></span>
+    <span class="live-badge"><span class="pulse-dot"></span> LIVE</span>
+  </div>
+</header>
+<main>
+<section class="page active">
+  <div class="page-head">
+    <div>
+      <div class="crumbs">// CLOUD INFRASTRUCTURE / <b>DAILY SNAPSHOT</b></div>
+      <h1>Global cloud IP intelligence</h1>
+      <p class="lede">Daily-refreshed CIDR ranges for 37 clouds, CDNs, SaaS platforms, and bots. Every list in 11 ready-to-paste formats. Built, indexed, and served from <code style="font-family:var(--mono);color:var(--cyan)">rezmoss/cloud-provider-ip-addresses</code>.</p>
+    </div>
+  </div>
+
+  <div class="kpi-row">
+    <div class="kpi">
+      <div class="kpi-label">TOTAL CIDRs TRACKED</div>
+      <div class="kpi-value">442,102</div>
+      <div class="kpi-sub">IPv4 <b style="color:var(--cyan)">158.8K</b> · IPv6 <b style="color:var(--cyan)">283.3K</b></div>
+    </div>
+    <div class="kpi">
+      <div class="kpi-label">IPv4 ADDRESSES</div>
+      <div class="kpi-value">408.2M</div>
+      <div class="kpi-sub">408,213,673 routable IPv4</div>
+    </div>
+    <div class="kpi">
+      <div class="kpi-label">IPv4 SPACE</div>
+      <div class="kpi-value">9.50<span style="font-size:24px;color:var(--ink-2)">%</span></div>
+      <div class="kpi-sub">of global IPv4 space tracked</div>
+    </div>
+    <div class="kpi">
+      <div class="kpi-label">PROVIDERS</div>
+      <div class="kpi-value">37</div>
+      <div class="kpi-sub">8 bot · 7 cloud · 7 saas · 7 asn · 4 other · 2 cdn · 2 vpn</div>
+    </div>
+  </div>
+
+  <div class="grid dash">
+    <div class="panel">
+      <div class="panel-head"><h3>// PROVIDER DISTRIBUTION</h3>
+        <div class="chips" id="tm-toggle">
+          <button class="chip active" data-tm="tm-addr">IPv4 address space</button>
+          <button class="chip" data-tm="tm-cidr">CIDR count</button>
+        </div>
+      </div>
+      <div class="treemap" id="tm-addr" style="grid-auto-rows:32px"><a class="tm-cell" href="/aws/" style="grid-column:1 / span 11;grid-row:1 / span 18;background:#FF9900">AWS<span class="tm-val">184.9M</span></a><a class="tm-cell" href="/azure/" style="grid-column:12 / span 13;grid-row:1 / span 8;background:#0078D4">Azure<span class="tm-val">103.4M</span></a><a class="tm-cell" href="/alibaba/" style="grid-column:12 / span 6;grid-row:9 / span 5;background:#FF6A00">Alibaba<span class="tm-val">31.1M</span></a><a class="tm-cell" href="/github/" style="grid-column:12 / span 6;grid-row:14 / span 5;background:#6E7681">GitHub<span class="tm-val">27.5M</span></a><a class="tm-cell" href="/googlecloud/" style="grid-column:18 / span 4;grid-row:9 / span 5;background:#4285F4">Google Cloud<span class="tm-val">19.1M</span></a><a class="tm-cell" href="/tencent/" style="grid-column:22 / span 3;grid-row:9 / span 5;background:#0052D9">Tencent<span class="tm-val">14.8M</span></a><a class="tm-cell" href="/ovhcloud/" style="grid-column:18 / span 2;grid-row:15 / span 2;background:#123F6D">OVHcloud<span class="tm-val">4.6M</span></a><a class="tm-cell" href="/oracle/" style="grid-column:18 / span 2;grid-row:17 / span 2;background:#C74634">Oracle Cloud<span class="tm-val">4.2M</span></a><a class="tm-cell" href="/ibmcloud/" style="grid-column:20 / span 2;grid-row:15 / span 2;background:#1261FE">IBM Cloud<span class="tm-val">3.8M</span></a><a class="tm-cell" href="/hetzner/" style="grid-column:20 / span 2;grid-row:17 / span 2;background:#D50C2D">Hetzner<span class="tm-val">3.5M</span></a><a class="tm-cell" href="/digitalocean/" style="grid-column:22 / span 2;grid-row:15 / span 2;background:#0080FF">DigitalOcean<span class="tm-val">3.1M</span></a><a class="tm-cell" href="/scaleway/" style="grid-column:24 / span 1;grid-row:15 / span 2;background:#4F0599">Scaleway<span class="tm-val">2.5M</span></a><a class="tm-cell" href="/cloudflare/" style="grid-column:22 / span 1;grid-row:17 / span 1;background:#F38020">Cloudflare<span class="tm-val">1.5M</span></a><a class="tm-cell" href="/linode/" style="grid-column:22 / span 1;grid-row:18 / span 1;background:#00A95C">Linode<span class="tm-val">1.4M</span></a><a class="tm-cell" href="/vultr/" style="grid-column:24 / span 1;grid-row:17 / span 1;background:#007BFC">Vultr<span class="tm-val">1.0M</span></a><a class="tm-cell" href="/meta/" style="grid-column:24 / span 1;grid-row:18 / span 1;background:#0866FF">Meta (Facebook)<span class="tm-val">574.7K</span></a><a class="tm-cell" href="/zoom/" style="grid-column:24 / span 1;grid-row:18 / span 1;background:#2D8CFF">Zoom<span class="tm-val">542.2K</span></a><a class="tm-cell" href="/fastly/" style="grid-column:24 / span 1;grid-row:19 / span 1;background:#FF282D">Fastly<span class="tm-val">304.1K</span></a><a class="tm-cell" href="/apple_private_relay/" style="grid-column:24 / span 1;grid-row:19 / span 1;background:#007AFF">Apple Private Relay<span class="tm-val">105.8K</span></a></div>
+      <div class="treemap" id="tm-cidr" style="grid-auto-rows:32px;display:none"><a class="tm-cell" href="/apple_private_relay/" style="grid-column:1 / span 16;grid-row:1 / span 18;background:#007AFF">Apple Private Relay<span class="tm-val">286.9K</span></a><a class="tm-cell" href="/azure/" style="grid-column:17 / span 8;grid-row:1 / span 12;background:#0078D4">Azure<span class="tm-val">107.0K</span></a><a class="tm-cell" href="/aws/" style="grid-column:17 / span 3;grid-row:13 / span 6;background:#FF9900">AWS<span class="tm-val">16.4K</span></a><a class="tm-cell" href="/github/" style="grid-column:19 / span 3;grid-row:13 / span 2;background:#6E7681">GitHub<span class="tm-val">7.5K</span></a><a class="tm-cell" href="/linode/" style="grid-column:23 / span 2;grid-row:13 / span 2;background:#00A95C">Linode<span class="tm-val">5.4K</span></a><a class="tm-cell" href="/tencent/" style="grid-column:19 / span 2;grid-row:16 / span 2;background:#0052D9">Tencent<span class="tm-val">3.4K</span></a><a class="tm-cell" href="/alibaba/" style="grid-column:19 / span 2;grid-row:18 / span 1;background:#FF6A00">Alibaba<span class="tm-val">2.4K</span></a><a class="tm-cell" href="/amazonbot/" style="grid-column:21 / span 1;grid-row:16 / span 1;background:#FF9900">Amazonbot<span class="tm-val">2.1K</span></a><a class="tm-cell" href="/tor/" style="grid-column:21 / span 1;grid-row:17 / span 1;background:#7D4698">Tor Exit Nodes<span class="tm-val">1.3K</span></a><a class="tm-cell" href="/digitalocean/" style="grid-column:21 / span 1;grid-row:18 / span 1;background:#0080FF">DigitalOcean<span class="tm-val">1.2K</span></a><a class="tm-cell" href="/mullvad/" style="grid-column:22 / span 1;grid-row:16 / span 1;background:#294D73">Mullvad VPN<span class="tm-val">1.1K</span></a><a class="tm-cell" href="/oracle/" style="grid-column:24 / span 1;grid-row:16 / span 1;background:#C74634">Oracle Cloud<span class="tm-val">1.1K</span></a><a class="tm-cell" href="/googlecloud/" style="grid-column:22 / span 1;grid-row:17 / span 1;background:#4285F4">Google Cloud<span class="tm-val">1.0K</span></a><a class="tm-cell" href="/meta/" style="grid-column:22 / span 1;grid-row:18 / span 1;background:#0866FF">Meta (Facebook)<span class="tm-val">753</span></a><a class="tm-cell" href="/ovhcloud/" style="grid-column:22 / span 1;grid-row:18 / span 1;background:#123F6D">OVHcloud<span class="tm-val">725</span></a><a class="tm-cell" href="/hetzner/" style="grid-column:23 / span 1;grid-row:17 / span 1;background:#D50C2D">Hetzner<span class="tm-val">689</span></a><a class="tm-cell" href="/vultr/" style="grid-column:24 / span 1;grid-row:17 / span 1;background:#007BFC">Vultr<span class="tm-val">511</span></a><a class="tm-cell" href="/ibmcloud/" style="grid-column:23 / span 1;grid-row:17 / span 1;background:#1261FE">IBM Cloud<span class="tm-val">411</span></a><a class="tm-cell" href="/duckduckbot/" style="grid-column:24 / span 1;grid-row:17 / span 1;background:#DE5833">DuckDuckBot<span class="tm-val">409</span></a><a class="tm-cell" href="/googlebot/" style="grid-column:23 / span 1;grid-row:18 / span 1;background:#4285F4">Googlebot<span class="tm-val">315</span></a><a class="tm-cell" href="/gptbot/" style="grid-column:23 / span 1;grid-row:18 / span 1;background:#10A37F">GPTBot<span class="tm-val">310</span></a><a class="tm-cell" href="/uptimerobot/" style="grid-column:24 / span 1;grid-row:18 / span 1;background:#888888">uptimerobot<span class="tm-val">206</span></a><a class="tm-cell" href="/atlassian/" style="grid-column:24 / span 1;grid-row:18 / span 1;background:#0052CC">Atlassian<span class="tm-val">166</span></a><a class="tm-cell" href="/datadog/" style="grid-column:24 / span 1;grid-row:19 / span 1;background:#888888">datadog<span class="tm-val">166</span></a><a class="tm-cell" href="/pingdom/" style="grid-column:24 / span 1;grid-row:18 / span 1;background:#888888">pingdom<span class="tm-val">156</span></a><a class="tm-cell" href="/scaleway/" style="grid-column:24 / span 1;grid-row:18 / span 1;background:#4F0599">Scaleway<span class="tm-val">61</span></a><a class="tm-cell" href="/zoom/" style="grid-column:24 / span 1;grid-row:19 / span 1;background:#2D8CFF">Zoom<span class="tm-val">60</span></a></div>
+      <script>
+      document.querySelectorAll('#tm-toggle .chip').forEach(function(btn) {
+        btn.addEventListener('click', function() {
+          document.querySelectorAll('#tm-toggle .chip').forEach(function(b) {
+            b.classList.toggle('active', b === btn);
+          });
+          ['tm-addr', 'tm-cidr'].forEach(function(id) {
+            document.getElementById(id).style.display = id === btn.dataset.tm ? '' : 'none';
+          });
+        });
+      });
+      </script>
+    </div>
+    <div class="panel">
+      <div class="panel-head"><h3>// RECENT ACTIVITY</h3><span class="meta">last 7 days</span></div>
+      <div><div class="rc-row">
+  <div class="rc-date">2026-07-02</div>
+  <div class="rc-bars"><span class="rc-added">+182</span><span class="rc-removed">-14</span></div>
+  <div class="rc-net" style="color:var(--green)">+168</div>
+</div><div class="rc-row">
+  <div class="rc-date">2026-07-01</div>
+  <div class="rc-bars"><span class="rc-added">+83</span><span class="rc-removed">-25</span></div>
+  <div class="rc-net" style="color:var(--green)">+58</div>
+</div><div class="rc-row">
+  <div class="rc-date">2026-06-30</div>
+  <div class="rc-bars"><span class="rc-added">+91</span><span class="rc-removed">-109</span></div>
+  <div class="rc-net" style="color:var(--red)">-18</div>
+</div><div class="rc-row">
+  <div class="rc-date">2026-06-29</div>
+  <div class="rc-bars"><span class="rc-added">+20</span><span class="rc-removed">-18</span></div>
+  <div class="rc-net" style="color:var(--green)">+2</div>
+</div><div class="rc-row">
+  <div class="rc-date">2026-06-28</div>
+  <div class="rc-bars"><span class="rc-added">+36</span><span class="rc-removed">-15</span></div>
+  <div class="rc-net" style="color:var(--green)">+21</div>
+</div><div class="rc-row">
+  <div class="rc-date">2026-06-27</div>
+  <div class="rc-bars"><span class="rc-added">+35</span><span class="rc-removed">-6</span></div>
+  <div class="rc-net" style="color:var(--green)">+29</div>
+</div><div class="rc-row">
+  <div class="rc-date">2026-06-26</div>
+  <div class="rc-bars"><span class="rc-added">+147</span><span class="rc-removed">-121</span></div>
+  <div class="rc-net" style="color:var(--green)">+26</div>
+</div></div>
+    </div>
+  </div>
+
+  <div class="grid dash">
+    <div class="panel">
+      <div class="panel-head">
+        <h3>// TOP PROVIDERS</h3>
+        <span class="meta"><a href="/providers/" style="color:var(--cyan)">view all 37 →</a></span>
+      </div>
+      <div class="panel-body flush">
+        <div class="provider-grid"><a class="provider-card" href="/apple_private_relay/" style="text-decoration:none">
+  <div class="pchip"><span class="dot" style="background:#007AFF"></span> apple_private_relay</div>
+  <svg class="spark" viewBox="0 0 60 22" preserveAspectRatio="none"><polyline fill="none" stroke="#007AFF" stroke-width="2" points="0.0,21.0 8.6,21.0 17.1,21.0 25.7,21.0 34.3,1.0 42.9,1.0 51.4,1.0 60.0,1.0"/></svg>
+  <div class="pname">Apple Private Relay</div>
+  <div class="pgroup">saas / saas</div>
+  <div class="pstats">
+    <div class="pstat"><div class="pstat-label">CIDRs</div><div class="pstat-value">286,946</div></div>
+    <div class="pstat"><div class="pstat-label">IPv4 addr</div><div class="pstat-value">105.8K</div></div>
+    <div class="pstat"><div class="pstat-label">Regions</div><div class="pstat-value">1,279</div></div>
+  </div>
+</a><a class="provider-card" href="/azure/" style="text-decoration:none">
+  <div class="pchip"><span class="dot" style="background:#0078D4"></span> azure</div>
+  <svg class="spark" viewBox="0 0 60 22" preserveAspectRatio="none"><polyline fill="none" stroke="#0078D4" stroke-width="2" points="0.0,21.0 8.6,1.0 17.1,1.0 25.7,1.0 34.3,1.0 42.9,1.0 51.4,1.0 60.0,1.0"/></svg>
+  <div class="pname">Azure</div>
+  <div class="pgroup">cloud / host</div>
+  <div class="pstats">
+    <div class="pstat"><div class="pstat-label">CIDRs</div><div class="pstat-value">106,976</div></div>
+    <div class="pstat"><div class="pstat-label">IPv4 addr</div><div class="pstat-value">103.4M</div></div>
+    <div class="pstat"><div class="pstat-label">Regions</div><div class="pstat-value">75</div></div>
+  </div>
+</a><a class="provider-card" href="/aws/" style="text-decoration:none">
+  <div class="pchip"><span class="dot" style="background:#FF9900"></span> aws</div>
+  <svg class="spark" viewBox="0 0 60 22" preserveAspectRatio="none"><polyline fill="none" stroke="#FF9900" stroke-width="2" points="0.0,21.0 8.6,18.1 17.1,12.4 25.7,6.1 34.3,6.1 42.9,3.0 51.4,5.3 60.0,1.0"/></svg>
+  <div class="pname">AWS</div>
+  <div class="pgroup">cloud / host</div>
+  <div class="pstats">
+    <div class="pstat"><div class="pstat-label">CIDRs</div><div class="pstat-value">16,406</div></div>
+    <div class="pstat"><div class="pstat-label">IPv4 addr</div><div class="pstat-value">184.9M</div></div>
+    <div class="pstat"><div class="pstat-label">Regions</div><div class="pstat-value">43</div></div>
+  </div>
+</a><a class="provider-card" href="/github/" style="text-decoration:none">
+  <div class="pchip"><span class="dot" style="background:#6E7681"></span> github</div>
+  <svg class="spark" viewBox="0 0 60 22" preserveAspectRatio="none"><polyline fill="none" stroke="#6E7681" stroke-width="2" points="0.0,1.0 8.6,1.0 17.1,1.0 25.7,1.0 34.3,1.0 42.9,21.0 51.4,21.0 60.0,21.0"/></svg>
+  <div class="pname">GitHub</div>
+  <div class="pgroup">saas / saas</div>
+  <div class="pstats">
+    <div class="pstat"><div class="pstat-label">CIDRs</div><div class="pstat-value">7,453</div></div>
+    <div class="pstat"><div class="pstat-label">IPv4 addr</div><div class="pstat-value">27.5M</div></div>
+    <div class="pstat"><div class="pstat-label">Regions</div><div class="pstat-value">—</div></div>
+  </div>
+</a><a class="provider-card" href="/linode/" style="text-decoration:none">
+  <div class="pchip"><span class="dot" style="background:#00A95C"></span> linode</div>
+  <svg class="spark" viewBox="0 0 60 22" preserveAspectRatio="none"><polyline fill="none" stroke="#00A95C" stroke-width="2" points="0.0,21.0 8.6,21.0 17.1,21.0 25.7,20.4 34.3,20.4 42.9,20.4 51.4,19.8 60.0,1.0"/></svg>
+  <div class="pname">Linode</div>
+  <div class="pgroup">cloud / host</div>
+  <div class="pstats">
+    <div class="pstat"><div class="pstat-label">CIDRs</div><div class="pstat-value">5,410</div></div>
+    <div class="pstat"><div class="pstat-label">IPv4 addr</div><div class="pstat-value">1.4M</div></div>
+    <div class="pstat"><div class="pstat-label">Regions</div><div class="pstat-value">38</div></div>
+  </div>
+</a><a class="provider-card" href="/tencent/" style="text-decoration:none">
+  <div class="pchip"><span class="dot" style="background:#0052D9"></span> tencent</div>
+  <svg class="spark" viewBox="0 0 60 22" preserveAspectRatio="none"><polyline fill="none" stroke="#0052D9" stroke-width="2" points="0.0,21.0 8.6,11.0 17.1,7.7 25.7,7.7 34.3,7.7 42.9,7.7 51.4,1.0 60.0,4.3"/></svg>
+  <div class="pname">Tencent</div>
+  <div class="pgroup">asn / asn</div>
+  <div class="pstats">
+    <div class="pstat"><div class="pstat-label">CIDRs</div><div class="pstat-value">3,397</div></div>
+    <div class="pstat"><div class="pstat-label">IPv4 addr</div><div class="pstat-value">14.8M</div></div>
+    <div class="pstat"><div class="pstat-label">Regions</div><div class="pstat-value">1</div></div>
+  </div>
+</a><a class="provider-card" href="/alibaba/" style="text-decoration:none">
+  <div class="pchip"><span class="dot" style="background:#FF6A00"></span> alibaba</div>
+  <svg class="spark" viewBox="0 0 60 22" preserveAspectRatio="none"><polyline fill="none" stroke="#FF6A00" stroke-width="2" points="0.0,21.0 8.6,15.4 17.1,15.4 25.7,15.4 34.3,15.4 42.9,4.3 51.4,1.0 60.0,1.0"/></svg>
+  <div class="pname">Alibaba</div>
+  <div class="pgroup">asn / asn</div>
+  <div class="pstats">
+    <div class="pstat"><div class="pstat-label">CIDRs</div><div class="pstat-value">2,355</div></div>
+    <div class="pstat"><div class="pstat-label">IPv4 addr</div><div class="pstat-value">31.1M</div></div>
+    <div class="pstat"><div class="pstat-label">Regions</div><div class="pstat-value">1</div></div>
+  </div>
+</a><a class="provider-card" href="/amazonbot/" style="text-decoration:none">
+  <div class="pchip"><span class="dot" style="background:#FF9900"></span> amazonbot</div>
+  <svg class="spark" viewBox="0 0 60 22" preserveAspectRatio="none"><polyline fill="none" stroke="#FF9900" stroke-width="2" points="0.0,21.0 8.6,21.0 17.1,21.0 25.7,21.0 34.3,21.0 42.9,21.0 51.4,21.0 60.0,21.0"/></svg>
+  <div class="pname">Amazonbot</div>
+  <div class="pgroup">bot / bot</div>
+  <div class="pstats">
+    <div class="pstat"><div class="pstat-label">CIDRs</div><div class="pstat-value">2,059</div></div>
+    <div class="pstat"><div class="pstat-label">IPv4 addr</div><div class="pstat-value">2.1K</div></div>
+    <div class="pstat"><div class="pstat-label">Regions</div><div class="pstat-value">—</div></div>
+  </div>
+</a><a class="provider-card" href="/tor/" style="text-decoration:none">
+  <div class="pchip"><span class="dot" style="background:#7D4698"></span> tor</div>
+  <svg class="spark" viewBox="0 0 60 22" preserveAspectRatio="none"><polyline fill="none" stroke="#7D4698" stroke-width="2" points="0.0,15.0 8.6,15.8 17.1,15.8 25.7,18.5 34.3,21.0 42.9,21.0 51.4,18.3 60.0,1.0"/></svg>
+  <div class="pname">Tor Exit Nodes</div>
+  <div class="pgroup">vpn / vpn</div>
+  <div class="pstats">
+    <div class="pstat"><div class="pstat-label">CIDRs</div><div class="pstat-value">1,323</div></div>
+    <div class="pstat"><div class="pstat-label">IPv4 addr</div><div class="pstat-value">1.3K</div></div>
+    <div class="pstat"><div class="pstat-label">Regions</div><div class="pstat-value">1</div></div>
+  </div>
+</a><a class="provider-card" href="/digitalocean/" style="text-decoration:none">
+  <div class="pchip"><span class="dot" style="background:#0080FF"></span> digitalocean</div>
+  <svg class="spark" viewBox="0 0 60 22" preserveAspectRatio="none"><polyline fill="none" stroke="#0080FF" stroke-width="2" points="0.0,21.0 8.6,21.0 17.1,21.0 25.7,21.0 34.3,21.0 42.9,1.0 51.4,1.0 60.0,1.0"/></svg>
+  <div class="pname">DigitalOcean</div>
+  <div class="pgroup">cloud / host</div>
+  <div class="pstats">
+    <div class="pstat"><div class="pstat-label">CIDRs</div><div class="pstat-value">1,226</div></div>
+    <div class="pstat"><div class="pstat-label">IPv4 addr</div><div class="pstat-value">3.1M</div></div>
+    <div class="pstat"><div class="pstat-label">Regions</div><div class="pstat-value">13</div></div>
+  </div>
+</a><a class="provider-card" href="/mullvad/" style="text-decoration:none">
+  <div class="pchip"><span class="dot" style="background:#294D73"></span> mullvad</div>
+  <svg class="spark" viewBox="0 0 60 22" preserveAspectRatio="none"><polyline fill="none" stroke="#294D73" stroke-width="2" points="0.0,21.0 8.6,21.0 17.1,21.0 25.7,21.0 34.3,21.0 42.9,21.0 51.4,1.0 60.0,1.0"/></svg>
+  <div class="pname">Mullvad VPN</div>
+  <div class="pgroup">vpn / vpn</div>
+  <div class="pstats">
+    <div class="pstat"><div class="pstat-label">CIDRs</div><div class="pstat-value">1,129</div></div>
+    <div class="pstat"><div class="pstat-label">IPv4 addr</div><div class="pstat-value">569</div></div>
+    <div class="pstat"><div class="pstat-label">Regions</div><div class="pstat-value">50</div></div>
+  </div>
+</a><a class="provider-card" href="/oracle/" style="text-decoration:none">
+  <div class="pchip"><span class="dot" style="background:#C74634"></span> oracle</div>
+  <svg class="spark" viewBox="0 0 60 22" preserveAspectRatio="none"><polyline fill="none" stroke="#C74634" stroke-width="2" points="0.0,21.0 8.6,21.0 17.1,21.0 25.7,21.0 34.3,21.0 42.9,21.0 51.4,21.0 60.0,21.0"/></svg>
+  <div class="pname">Oracle Cloud</div>
+  <div class="pgroup">cloud / host</div>
+  <div class="pstats">
+    <div class="pstat"><div class="pstat-label">CIDRs</div><div class="pstat-value">1,089</div></div>
+    <div class="pstat"><div class="pstat-label">IPv4 addr</div><div class="pstat-value">4.2M</div></div>
+    <div class="pstat"><div class="pstat-label">Regions</div><div class="pstat-value">55</div></div>
+  </div>
+</a></div>
+      </div>
+    </div>
+    <div class="panel">
+      <div class="panel-head"><h3>// TODAY'S DIFF</h3><span class="meta" style="color:var(--green)">●</span></div>
+      <div class="diff-list"><div class="diff-item added"><div class="sign">+</div><div class="cidr"><a href="/linode/" style="color:inherit">Linode</a></div><div class="meta">64 CIDRs</div></div><div class="diff-item added"><div class="sign">+</div><div class="cidr"><a href="/tor/" style="color:inherit">Tor Exit Nodes</a></div><div class="meta">94 CIDRs</div></div><div class="diff-item removed"><div class="sign">-</div><div class="cidr"><a href="/tor/" style="color:inherit">Tor Exit Nodes</a></div><div class="meta">11 CIDRs</div></div><div class="diff-item added"><div class="sign">+</div><div class="cidr"><a href="/ovhcloud/" style="color:inherit">OVHcloud</a></div><div class="meta">1 CIDRs</div></div><div class="diff-item added"><div class="sign">+</div><div class="cidr"><a href="/aws/" style="color:inherit">AWS</a></div><div class="meta">21 CIDRs</div></div><div class="diff-item added"><div class="sign">+</div><div class="cidr"><a href="/tencent/" style="color:inherit">Tencent</a></div><div class="meta">1 CIDRs</div></div><div class="diff-item removed"><div class="sign">-</div><div class="cidr"><a href="/tencent/" style="color:inherit">Tencent</a></div><div class="meta">2 CIDRs</div></div><div class="diff-item added"><div class="sign">+</div><div class="cidr"><a href="/alibaba/" style="color:inherit">Alibaba</a></div><div class="meta">1 CIDRs</div></div><div class="diff-item removed"><div class="sign">-</div><div class="cidr"><a href="/alibaba/" style="color:inherit">Alibaba</a></div><div class="meta">1 CIDRs</div></div></div>
+    </div>
+  </div>
+
+  <div class="grid dash" style="grid-template-columns:2fr 1fr">
+    <div class="panel">
+      <div class="panel-head"><h3>// AGGREGATED GROUPS</h3><span class="meta">combined CIDR sets</span></div>
+      <div class="panel-body"><div class="chips"><a class="chip active" href="/all-ai-crawlers/" style="text-transform:none">All AI crawlers · 5</a><a class="chip active" href="/all-search-bots/" style="text-transform:none">All search engine bots · 4</a><a class="chip active" href="/all-cdns/" style="text-transform:none">All CDNs · 2</a><a class="chip active" href="/all-clouds/" style="text-transform:none">All cloud providers · 7</a></div>
+        <p style="color:var(--ink-3);margin:14px 0 0;font-size:12px">Pre-merged CIDR lists for related providers. Each page exposes txt / v4 / v6 / csv / json downloads.</p>
+      </div>
+    </div>
+    <div class="panel">
+      <div class="panel-head"><h3>// TOOLS</h3><span class="meta">interactive</span></div>
+      <div class="panel-body"><div class="chips">
+      <a class="chip" href="/lookup/" style="text-transform:none">IP Lookup</a>
+      <a class="chip" href="/builder/" style="text-transform:none">List builder</a>
+      <a class="chip" href="/block-ai-bots/" style="text-transform:none">Block AI bots</a>
+      <a class="chip" href="/check/" style="text-transform:none">CIDR check</a>
+      <a class="chip" href="/coverage/" style="text-transform:none">IPv4 coverage</a></div></div>
+    </div>
+  </div>
+
+</section>
+<div class="footer-bar">
+  <div>// GENERATED FROM <a href="https://github.com/rezmoss/cloud-provider-ip-addresses" target="_blank">rezmoss/cloud-provider-ip-addresses</a> · DAILY @ 06:00 UTC</div>
+  <div>// MIT · <a href="/embed/">EMBED</a> · <a href="/no-static-ips/">NO-STATIC-IPS</a> · <a href="/feed.xml">RSS</a> · <a href="/sitemap.xml">SITEMAP</a></div>
+</div>
+</main>
+<script>
+async function copyUrl(url, btn){
+  try{
+    const r = await fetch(url); const t = await r.text();
+    await navigator.clipboard.writeText(t);
+    const o = btn.textContent; btn.textContent='Copied'; btn.classList.add('ok');
+    setTimeout(()=>{btn.textContent=o; btn.classList.remove('ok')},1500);
+  }catch(e){ btn.textContent='Failed' }
+}
+</script>
+</body>
+</html>

@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Cloudflare IP ranges for SQL — updated 2026-07-02</title>
+<meta name="description" content="SQL inserts to load Cloudflare CIDRs into a database table. 22 CIDRs, refreshed daily.">
+<link rel="canonical" href="https://cloudipdb.io/cloudflare/sql/">
+<meta property="og:title" content="Cloudflare IP ranges for SQL — updated 2026-07-02">
+<meta property="og:description" content="SQL inserts to load Cloudflare CIDRs into a database table. 22 CIDRs, refreshed daily.">
+<meta property="og:url" content="https://cloudipdb.io/cloudflare/sql/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Cloud Provider IP Addresses">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Cloudflare IP ranges for SQL — updated 2026-07-02">
+<meta name="twitter:description" content="SQL inserts to load Cloudflare CIDRs into a database table. 22 CIDRs, refreshed daily.">
+<link rel="alternate" type="application/rss+xml" title="Cloud Provider IP Addresses changelog" href="/feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter+Tight:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/style.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cloudipdb.io/"},{"@type":"ListItem","position":2,"name":"Cloudflare","item":"https://cloudipdb.io/cloudflare/"},{"@type":"ListItem","position":3,"name":"SQL","item":"https://cloudipdb.io/cloudflare/sql/"}]}</script>
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <a href="/" style="display:flex;align-items:center;gap:12px">
+      <div class="brand-mark"><span></span></div>
+      <div class="brand-name"><b>CLOUD</b>-IP <span style="color:var(--ink-4)">// v2026.07</span></div>
+    </a>
+  </div>
+  <nav class="nav"><a href="/">Dashboard</a><a href="/providers/" class="active">Providers</a><a href="/changelog/">Changelog</a><a href="/lookup/">Lookup</a><a href="/coverage/">Coverage</a><a href="/formats/">Formats</a><a href="/builder/">Tools</a></nav>
+  <div class="topbar-right">
+    <span class="topbar-stat">UPDATED <b>2026-07-02</b></span>
+    <span class="topbar-stat">PROVIDERS <b>37</b></span>
+    <span class="live-badge"><span class="pulse-dot"></span> LIVE</span>
+  </div>
+</header>
+<main>
+<section class="page active">
+  <div class="page-head">
+    <div>
+      <div class="crumbs">// <a href="/cloudflare/" style="color:inherit">CLOUDFLARE</a> / <b>SQL</b></div>
+      <h1>Cloudflare · SQL</h1>
+      <p class="lede">SQL inserts to load Cloudflare CIDRs into a database table. 22 CIDRs, refreshed daily.</p>
+    </div>
+  </div>
+
+  <div class="grid" style="gap:18px"><div class="panel">
+  <div class="panel-head">
+    <h3>// cloudflare_ips.sql</h3>
+    <span class="meta">
+      <a href="https://raw.githubusercontent.com/rezmoss/cloud-provider-ip-addresses/main/cloudflare/cloudflare_ips.sql" style="color:var(--cyan)">DOWNLOAD ↓</a>
+      &nbsp;·&nbsp;
+      <button onclick="copyUrl('https://raw.githubusercontent.com/rezmoss/cloud-provider-ip-addresses/main/cloudflare/cloudflare_ips.sql', this)" style="background:transparent;border:0;color:var(--cyan);cursor:pointer;font-family:var(--mono);font-size:10px;letter-spacing:.06em">COPY</button>
+    </span>
+  </div>
+  <div class="panel-body">
+    <div class="code-block"><pre style="margin:0;font-family:var(--mono);font-size:11px;color:var(--ink-2);overflow-x:auto">-- SQL script to create table `cloudflare_ips` and insert IP addresses
+
+CREATE TABLE IF NOT EXISTS `cloudflare_ips` (
+  `ip_address` VARCHAR(45) NOT NULL,
+  `ip_type` VARCHAR(10) NOT NULL,
+  PRIMARY KEY (`ip_address`)
+);
+
+INSERT INTO `cloudflare_ips` (`ip_address`, `ip_type`) VALUES (&#x27;103.21.244.0/22&#x27;, &#x27;IPv4&#x27;);
+INSERT INTO `cloudflare_ips` (`ip_address`, `ip_type`) VALUES (&#x27;103.22.200.0/22&#x27;, &#x27;IPv4&#x27;);
+INSERT INTO `cloudflare_ips` (`ip_address`, `ip_type`) VALUES (&#x27;103.31.4.0/22&#x27;, &#x27;IPv4&#x27;);
+INSERT INTO `cloudflare_ips` (`ip_address`, `ip_type`) VALUES (&#x27;104.16.0.0/13&#x27;, &#x27;IPv4&#x27;);
+INSERT INTO `cloudflare_ips` (`ip_address`, `ip_type`) VALUES (&#x27;104.24.0.0/14&#x27;, &#x27;IPv4&#x27;);
+INSERT INTO `cloudflare_ips` (`ip_address`, `ip_type`) VALUES (&#x27;108.162.192.0/18&#x27;, &#x27;IPv4&#x27;);
+INSERT INTO `cloudflare_ips` (`ip_address`, `ip_type`) VALUES (&#x27;131.0.72.0/22&#x27;, &#x27;IPv4&#x27;);
+INSERT INTO `cloudflare_ips` (`ip_address`, `ip_type`) VALUES (&#x27;141.101.64.0/18&#x27;, &#x27;IPv4&#x27;);
+INSERT INTO `cloudflare_ips` (`ip_address`, `ip_type`) VALUES (&#x27;162.158.0.0/15&#x27;, &#x27;IPv4&#x27;);
+INSERT INTO `cloudflare_ips` (`ip_address`, `ip_type`) VALUES (&#x27;172.64.0.0/13&#x27;, &#x27;IPv4&#x27;);
+INSERT INTO `cloudflare_ips` (`ip_address`, `ip_type`) VALUES (&#x27;173.245.48.0/20&#x27;, &#x27;IPv4&#x27;);
+INSERT INTO `cloudflare_ips` (`ip_address`, `ip_type`) VALUES (&#x27;188.114.96.0/20&#x27;, &#x27;IPv4&#x27;);
+INSERT INTO `cloudflare_ips` (`ip_address`, `ip_type`) VALUES (&#x27;190.93.240.0/20&#x27;, &#x27;IPv4&#x27;);
+INSERT INTO `cloudflare_ips` (`ip_address`, `ip_type`) VALUES (&#x27;197.234.240.0/22&#x27;, &#x27;IPv4&#x27;);
+INSERT INTO `cloudflare_ips` (`ip_address`, `ip_type`) VALUES (&#x27;198.41.128.0/17&#x27;, &#x27;IPv4&#x27;);
+INSERT INTO `cloudflare_ips` (`ip_address`, `ip_type`) VALUES (&#x27;2400:cb00::/32&#x27;, &#x27;IPv6&#x27;);
+INSERT INTO `cloudflare_ips` (`ip_address`, `ip_type`) VALUES (&#x27;2405:8100::/32&#x27;, &#x27;IPv6&#x27;);
+… (5 more lines)</pre></div>
+  </div>
+</div></div>
+</section>
+<div class="footer-bar">
+  <div>// GENERATED FROM <a href="https://github.com/rezmoss/cloud-provider-ip-addresses" target="_blank">rezmoss/cloud-provider-ip-addresses</a> · DAILY @ 06:00 UTC</div>
+  <div>// MIT · <a href="/embed/">EMBED</a> · <a href="/no-static-ips/">NO-STATIC-IPS</a> · <a href="/feed.xml">RSS</a> · <a href="/sitemap.xml">SITEMAP</a></div>
+</div>
+</main>
+<script>
+async function copyUrl(url, btn){
+  try{
+    const r = await fetch(url); const t = await r.text();
+    await navigator.clipboard.writeText(t);
+    const o = btn.textContent; btn.textContent='Copied'; btn.classList.add('ok');
+    setTimeout(()=>{btn.textContent=o; btn.classList.remove('ok')},1500);
+  }catch(e){ btn.textContent='Failed' }
+}
+</script>
+</body>
+</html>

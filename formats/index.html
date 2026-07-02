@@ -1,0 +1,138 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>11 output formats — Cloud Provider IP Addresses</title>
+<meta name="description" content="Every tracked cloud provider&#x27;s IP ranges are published in 11 formats: plain text, JSON, CSV, SQL, nginx, Apache, iptables, nftables, UFW, HAProxy, and Caddy.">
+<link rel="canonical" href="https://cloudipdb.io/formats/">
+<meta property="og:title" content="11 output formats — Cloud Provider IP Addresses">
+<meta property="og:description" content="Every tracked cloud provider&#x27;s IP ranges are published in 11 formats: plain text, JSON, CSV, SQL, nginx, Apache, iptables, nftables, UFW, HAProxy, and Caddy.">
+<meta property="og:url" content="https://cloudipdb.io/formats/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Cloud Provider IP Addresses">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="11 output formats — Cloud Provider IP Addresses">
+<meta name="twitter:description" content="Every tracked cloud provider&#x27;s IP ranges are published in 11 formats: plain text, JSON, CSV, SQL, nginx, Apache, iptables, nftables, UFW, HAProxy, and Caddy.">
+<link rel="alternate" type="application/rss+xml" title="Cloud Provider IP Addresses changelog" href="/feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter+Tight:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/style.css">
+
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <a href="/" style="display:flex;align-items:center;gap:12px">
+      <div class="brand-mark"><span></span></div>
+      <div class="brand-name"><b>CLOUD</b>-IP <span style="color:var(--ink-4)">// v2026.07</span></div>
+    </a>
+  </div>
+  <nav class="nav"><a href="/">Dashboard</a><a href="/providers/">Providers</a><a href="/changelog/">Changelog</a><a href="/lookup/">Lookup</a><a href="/coverage/">Coverage</a><a href="/formats/" class="active">Formats</a><a href="/builder/">Tools</a></nav>
+  <div class="topbar-right">
+    <span class="topbar-stat">UPDATED <b>2026-07-02</b></span>
+    <span class="topbar-stat">PROVIDERS <b>37</b></span>
+    <span class="live-badge"><span class="pulse-dot"></span> LIVE</span>
+  </div>
+</header>
+<main>
+<section class="page active">
+  <div class="page-head">
+    <div>
+      <div class="crumbs">// CONSUME / <b>OUTPUT FORMATS</b></div>
+      <h1>11 output formats</h1>
+      <p class="lede">Every provider is published in all 11 formats. Pick the one closest to your stack, drop it in, and forget about it. URLs are stable; daily updates land at the same path.</p>
+    </div>
+  </div>
+
+  <div class="panel">
+    <div class="panel-head"><h3>// ALL FORMATS</h3><span class="meta">click a card for a Cloudflare example</span></div>
+    <div class="format-grid"><div class="fmt-card">
+  <div class="fmt-head"><span class="fmt-name">Plain text</span><span class="fmt-ext">.txt</span></div>
+  <div class="fmt-desc">CIDR per line. The lowest-friction format — pipe into anything.</div>
+  <div class="fmt-files"><code>cloudflare_ips.txt</code><br><code>cloudflare_ips_v4.txt</code><br><code>cloudflare_ips_v6.txt</code><br><code>cloudflare_ips_merged*.txt</code></div>
+  <a class="chip" href="/cloudflare/txt/" style="text-transform:none;margin-top:8px">See example →</a>
+</div><div class="fmt-card">
+  <div class="fmt-head"><span class="fmt-name">CSV</span><span class="fmt-ext">.csv</span></div>
+  <div class="fmt-desc">Two columns: ip_address, ip_type. Open in Excel or grep --csv.</div>
+  <div class="fmt-files"><code>cloudflare_ips.csv</code></div>
+  <a class="chip" href="/cloudflare/csv/" style="text-transform:none;margin-top:8px">See example →</a>
+</div><div class="fmt-card">
+  <div class="fmt-head"><span class="fmt-name">JSON</span><span class="fmt-ext">.json</span></div>
+  <div class="fmt-desc">Array of objects with ip_address + ip_type. Ideal for fetch().</div>
+  <div class="fmt-files"><code>cloudflare_ips.json</code></div>
+  <a class="chip" href="/cloudflare/json/" style="text-transform:none;margin-top:8px">See example →</a>
+</div><div class="fmt-card">
+  <div class="fmt-head"><span class="fmt-name">SQL</span><span class="fmt-ext">.sql</span></div>
+  <div class="fmt-desc">INSERT statements to load a table named cloud_provider_ips.</div>
+  <div class="fmt-files"><code>cloudflare_ips.sql</code></div>
+  <a class="chip" href="/cloudflare/sql/" style="text-transform:none;margin-top:8px">See example →</a>
+</div><div class="fmt-card">
+  <div class="fmt-head"><span class="fmt-name">Nginx</span><span class="fmt-ext">.nginx</span></div>
+  <div class="fmt-desc">Drop-in include for an http or server block.</div>
+  <div class="fmt-files"><code>nginx_cloudflare_allow.conf</code><br><code>nginx_cloudflare_deny.conf</code></div>
+  <a class="chip" href="/cloudflare/nginx/" style="text-transform:none;margin-top:8px">See example →</a>
+</div><div class="fmt-card">
+  <div class="fmt-head"><span class="fmt-name">Apache</span><span class="fmt-ext">.apache</span></div>
+  <div class="fmt-desc">Require ip directives, wrapped in &lt;RequireAny&gt;.</div>
+  <div class="fmt-files"><code>apache_cloudflare_allow.conf</code><br><code>apache_cloudflare_deny.conf</code></div>
+  <a class="chip" href="/cloudflare/apache/" style="text-transform:none;margin-top:8px">See example →</a>
+</div><div class="fmt-card">
+  <div class="fmt-head"><span class="fmt-name">iptables</span><span class="fmt-ext">.iptables</span></div>
+  <div class="fmt-desc">Shell script of iptables commands. Run directly or wrap in a service.</div>
+  <div class="fmt-files"><code>iptables_cloudflare_allow.sh</code><br><code>iptables_cloudflare_deny.sh</code></div>
+  <a class="chip" href="/cloudflare/iptables/" style="text-transform:none;margin-top:8px">See example →</a>
+</div><div class="fmt-card">
+  <div class="fmt-head"><span class="fmt-name">nftables</span><span class="fmt-ext">.nftables</span></div>
+  <div class="fmt-desc">nftables ruleset fragment.</div>
+  <div class="fmt-files"><code>nftables_cloudflare_allow.conf</code><br><code>nftables_cloudflare_deny.conf</code></div>
+  <a class="chip" href="/cloudflare/nftables/" style="text-transform:none;margin-top:8px">See example →</a>
+</div><div class="fmt-card">
+  <div class="fmt-head"><span class="fmt-name">UFW</span><span class="fmt-ext">.ufw</span></div>
+  <div class="fmt-desc">Shell script using ufw allow/deny. Ubuntu and Debian-friendly.</div>
+  <div class="fmt-files"><code>ufw_cloudflare_allow.sh</code><br><code>ufw_cloudflare_deny.sh</code></div>
+  <a class="chip" href="/cloudflare/ufw/" style="text-transform:none;margin-top:8px">See example →</a>
+</div><div class="fmt-card">
+  <div class="fmt-head"><span class="fmt-name">HAProxy</span><span class="fmt-ext">.haproxy</span></div>
+  <div class="fmt-desc">ACL source list. Reference in your frontend.</div>
+  <div class="fmt-files"><code>haproxy_cloudflare_allow.conf</code></div>
+  <a class="chip" href="/cloudflare/haproxy/" style="text-transform:none;margin-top:8px">See example →</a>
+</div><div class="fmt-card">
+  <div class="fmt-head"><span class="fmt-name">Caddy</span><span class="fmt-ext">.caddy</span></div>
+  <div class="fmt-desc">remote_ip matcher block for Caddy v2.</div>
+  <div class="fmt-files"><code>caddy_cloudflare_allow.conf</code></div>
+  <a class="chip" href="/cloudflare/caddy/" style="text-transform:none;margin-top:8px">See example →</a>
+</div></div>
+  </div>
+
+  <div class="panel" style="margin-top:20px">
+    <div class="panel-head"><h3>// CURL ONE-LINERS</h3><span class="meta">stable URLs</span></div>
+    <div class="panel-body">
+      <div class="code-block"><span class="comment"># All Cloudflare CIDRs as plain text</span><br>
+<span class="prompt">$</span> curl -s https://raw.githubusercontent.com/rezmoss/cloud-provider-ip-addresses/main/cloudflare/cloudflare_ips.txt<br><br>
+<span class="comment"># GPTBot CIDRs as JSON</span><br>
+<span class="prompt">$</span> curl -s https://raw.githubusercontent.com/rezmoss/cloud-provider-ip-addresses/main/gptbot/gptbot_ips.json<br><br>
+<span class="comment"># Ready-to-include nginx allow file for AWS</span><br>
+<span class="prompt">$</span> curl -s https://raw.githubusercontent.com/rezmoss/cloud-provider-ip-addresses/main/aws/nginx_aws_allow.conf -o /etc/nginx/aws-allow.conf
+      </div>
+    </div>
+  </div>
+</section>
+<div class="footer-bar">
+  <div>// GENERATED FROM <a href="https://github.com/rezmoss/cloud-provider-ip-addresses" target="_blank">rezmoss/cloud-provider-ip-addresses</a> · DAILY @ 06:00 UTC</div>
+  <div>// MIT · <a href="/embed/">EMBED</a> · <a href="/no-static-ips/">NO-STATIC-IPS</a> · <a href="/feed.xml">RSS</a> · <a href="/sitemap.xml">SITEMAP</a></div>
+</div>
+</main>
+<script>
+async function copyUrl(url, btn){
+  try{
+    const r = await fetch(url); const t = await r.text();
+    await navigator.clipboard.writeText(t);
+    const o = btn.textContent; btn.textContent='Copied'; btn.classList.add('ok');
+    setTimeout(()=>{btn.textContent=o; btn.classList.remove('ok')},1500);
+  }catch(e){ btn.textContent='Failed' }
+}
+</script>
+</body>
+</html>

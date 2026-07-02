@@ -1,0 +1,141 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Oracle Cloud IP ranges for nftables — updated 2026-07-02</title>
+<meta name="description" content="nftables ruleset for Oracle Cloud CIDRs. 1,089 CIDRs, refreshed daily.">
+<link rel="canonical" href="https://cloudipdb.io/oracle/nftables/">
+<meta property="og:title" content="Oracle Cloud IP ranges for nftables — updated 2026-07-02">
+<meta property="og:description" content="nftables ruleset for Oracle Cloud CIDRs. 1,089 CIDRs, refreshed daily.">
+<meta property="og:url" content="https://cloudipdb.io/oracle/nftables/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Cloud Provider IP Addresses">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Oracle Cloud IP ranges for nftables — updated 2026-07-02">
+<meta name="twitter:description" content="nftables ruleset for Oracle Cloud CIDRs. 1,089 CIDRs, refreshed daily.">
+<link rel="alternate" type="application/rss+xml" title="Cloud Provider IP Addresses changelog" href="/feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter+Tight:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/style.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cloudipdb.io/"},{"@type":"ListItem","position":2,"name":"Oracle Cloud","item":"https://cloudipdb.io/oracle/"},{"@type":"ListItem","position":3,"name":"nftables","item":"https://cloudipdb.io/oracle/nftables/"}]}</script>
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <a href="/" style="display:flex;align-items:center;gap:12px">
+      <div class="brand-mark"><span></span></div>
+      <div class="brand-name"><b>CLOUD</b>-IP <span style="color:var(--ink-4)">// v2026.07</span></div>
+    </a>
+  </div>
+  <nav class="nav"><a href="/">Dashboard</a><a href="/providers/" class="active">Providers</a><a href="/changelog/">Changelog</a><a href="/lookup/">Lookup</a><a href="/coverage/">Coverage</a><a href="/formats/">Formats</a><a href="/builder/">Tools</a></nav>
+  <div class="topbar-right">
+    <span class="topbar-stat">UPDATED <b>2026-07-02</b></span>
+    <span class="topbar-stat">PROVIDERS <b>37</b></span>
+    <span class="live-badge"><span class="pulse-dot"></span> LIVE</span>
+  </div>
+</header>
+<main>
+<section class="page active">
+  <div class="page-head">
+    <div>
+      <div class="crumbs">// <a href="/oracle/" style="color:inherit">ORACLE CLOUD</a> / <b>NFTABLES</b></div>
+      <h1>Oracle Cloud · nftables</h1>
+      <p class="lede">nftables ruleset for Oracle Cloud CIDRs. 1,089 CIDRs, refreshed daily.</p>
+    </div>
+  </div>
+
+  <div class="grid" style="gap:18px"><div class="panel">
+  <div class="panel-head">
+    <h3>// nftables_oracle_allow.conf</h3>
+    <span class="meta">
+      <a href="https://raw.githubusercontent.com/rezmoss/cloud-provider-ip-addresses/main/oracle/nftables_oracle_allow.conf" style="color:var(--cyan)">DOWNLOAD ↓</a>
+      &nbsp;·&nbsp;
+      <button onclick="copyUrl('https://raw.githubusercontent.com/rezmoss/cloud-provider-ip-addresses/main/oracle/nftables_oracle_allow.conf', this)" style="background:transparent;border:0;color:var(--cyan);cursor:pointer;font-family:var(--mono);font-size:10px;letter-spacing:.06em">COPY</button>
+    </span>
+  </div>
+  <div class="panel-body">
+    <div class="code-block"><pre style="margin:0;font-family:var(--mono);font-size:11px;color:var(--ink-2);overflow-x:auto"># Oracle IP Ranges
+# Updated: 2026-06-25 03:20:07
+# Source: https://github.com/rezmoss/cloud-provider-ip-addresses
+# License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
+# This file is generated automatically. Do not edit it directly.
+# Updates daily at 02:00 UTC
+# nftables allow rules for oracle
+
+table inet filter_oracle_allow {
+  chain input {
+    type filter hook input priority 0; policy drop;
+    ip saddr 38.104.155.92/31 accept
+    ip saddr 40.233.0.0/19 accept
+    ip saddr 40.233.64.0/18 accept
+    ip saddr 51.170.32.0/19 accept
+    ip saddr 51.170.80.0/20 accept
+    ip saddr 51.170.128.0/20 accept
+    ip saddr 51.170.152.0/21 accept
+    ip saddr 62.115.179.220/31 accept
+    ip saddr 62.115.179.228/31 accept
+    ip saddr 64.110.64.0/18 accept
+    ip saddr 64.181.132.0/24 accept
+    ip saddr 64.181.136.0/22 accept
+    ip saddr 64.181.140.0/23 accept
+    ip saddr 64.181.144.0/22 accept
+… (769 more lines)</pre></div>
+  </div>
+</div><div class="panel">
+  <div class="panel-head">
+    <h3>// nftables_oracle_deny.conf</h3>
+    <span class="meta">
+      <a href="https://raw.githubusercontent.com/rezmoss/cloud-provider-ip-addresses/main/oracle/nftables_oracle_deny.conf" style="color:var(--cyan)">DOWNLOAD ↓</a>
+      &nbsp;·&nbsp;
+      <button onclick="copyUrl('https://raw.githubusercontent.com/rezmoss/cloud-provider-ip-addresses/main/oracle/nftables_oracle_deny.conf', this)" style="background:transparent;border:0;color:var(--cyan);cursor:pointer;font-family:var(--mono);font-size:10px;letter-spacing:.06em">COPY</button>
+    </span>
+  </div>
+  <div class="panel-body">
+    <div class="code-block"><pre style="margin:0;font-family:var(--mono);font-size:11px;color:var(--ink-2);overflow-x:auto"># Oracle IP Ranges
+# Updated: 2026-06-25 03:20:07
+# Source: https://github.com/rezmoss/cloud-provider-ip-addresses
+# License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
+# This file is generated automatically. Do not edit it directly.
+# Updates daily at 02:00 UTC
+# nftables deny rules for oracle
+
+table inet filter_oracle_deny {
+  chain input {
+    type filter hook input priority 0; policy accept;
+    ip saddr 38.104.155.92/31 drop
+    ip saddr 40.233.0.0/19 drop
+    ip saddr 40.233.64.0/18 drop
+    ip saddr 51.170.32.0/19 drop
+    ip saddr 51.170.80.0/20 drop
+    ip saddr 51.170.128.0/20 drop
+    ip saddr 51.170.152.0/21 drop
+    ip saddr 62.115.179.220/31 drop
+    ip saddr 62.115.179.228/31 drop
+    ip saddr 64.110.64.0/18 drop
+    ip saddr 64.181.132.0/24 drop
+    ip saddr 64.181.136.0/22 drop
+    ip saddr 64.181.140.0/23 drop
+    ip saddr 64.181.144.0/22 drop
+… (769 more lines)</pre></div>
+  </div>
+</div></div>
+</section>
+<div class="footer-bar">
+  <div>// GENERATED FROM <a href="https://github.com/rezmoss/cloud-provider-ip-addresses" target="_blank">rezmoss/cloud-provider-ip-addresses</a> · DAILY @ 06:00 UTC</div>
+  <div>// MIT · <a href="/embed/">EMBED</a> · <a href="/no-static-ips/">NO-STATIC-IPS</a> · <a href="/feed.xml">RSS</a> · <a href="/sitemap.xml">SITEMAP</a></div>
+</div>
+</main>
+<script>
+async function copyUrl(url, btn){
+  try{
+    const r = await fetch(url); const t = await r.text();
+    await navigator.clipboard.writeText(t);
+    const o = btn.textContent; btn.textContent='Copied'; btn.classList.add('ok');
+    setTimeout(()=>{btn.textContent=o; btn.classList.remove('ok')},1500);
+  }catch(e){ btn.textContent='Failed' }
+}
+</script>
+</body>
+</html>

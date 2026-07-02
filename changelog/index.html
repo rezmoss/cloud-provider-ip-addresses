@@ -1,0 +1,577 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Daily changelog — Cloud Provider IP Addresses</title>
+<meta name="description" content="Day-by-day diff of cloud provider and bot IP range additions and removals.">
+<link rel="canonical" href="https://cloudipdb.io/changelog/">
+<meta property="og:title" content="Daily changelog — Cloud Provider IP Addresses">
+<meta property="og:description" content="Day-by-day diff of cloud provider and bot IP range additions and removals.">
+<meta property="og:url" content="https://cloudipdb.io/changelog/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Cloud Provider IP Addresses">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Daily changelog — Cloud Provider IP Addresses">
+<meta name="twitter:description" content="Day-by-day diff of cloud provider and bot IP range additions and removals.">
+<link rel="alternate" type="application/rss+xml" title="Cloud Provider IP Addresses changelog" href="/feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter+Tight:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/style.css">
+
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <a href="/" style="display:flex;align-items:center;gap:12px">
+      <div class="brand-mark"><span></span></div>
+      <div class="brand-name"><b>CLOUD</b>-IP <span style="color:var(--ink-4)">// v2026.07</span></div>
+    </a>
+  </div>
+  <nav class="nav"><a href="/">Dashboard</a><a href="/providers/">Providers</a><a href="/changelog/" class="active">Changelog</a><a href="/lookup/">Lookup</a><a href="/coverage/">Coverage</a><a href="/formats/">Formats</a><a href="/builder/">Tools</a></nav>
+  <div class="topbar-right">
+    <span class="topbar-stat">UPDATED <b>2026-07-02</b></span>
+    <span class="topbar-stat">PROVIDERS <b>37</b></span>
+    <span class="live-badge"><span class="pulse-dot"></span> LIVE</span>
+  </div>
+</header>
+<main>
+<section class="page active">
+  <div class="page-head">
+    <div>
+      <div class="crumbs">// HISTORY / <b>DIFFS</b></div>
+      <h1>Changelog</h1>
+      <p class="lede">Daily delta of every CIDR added or removed across the dataset. Each cell below is one day; brighter cells mean more activity. <a href="/feed.xml" style="color:var(--cyan)">Subscribe via RSS →</a></p>
+    </div>
+  </div>
+
+  <div class="panel" style="margin-bottom:20px">
+    <div class="panel-head"><h3>// ACTIVITY — LAST 120 DAYS</h3><span class="meta">CIDRs added + removed per day</span></div>
+    <div class="heatmap">
+      <div class="hm-labels"><div>W-1</div><div>W-2</div><div>W-3</div><div>W-4</div></div>
+      <div class="hm-grid"><div class="hm-cell" data-v="1" title="2026-07-02: 196 changes"></div><div class="hm-cell" data-v="1" title="2026-07-01: 108 changes"></div><div class="hm-cell" data-v="1" title="2026-06-30: 200 changes"></div><div class="hm-cell" data-v="1" title="2026-06-29: 38 changes"></div><div class="hm-cell" data-v="1" title="2026-06-28: 51 changes"></div><div class="hm-cell" data-v="1" title="2026-06-27: 41 changes"></div><div class="hm-cell" data-v="1" title="2026-06-26: 268 changes"></div><div class="hm-cell" data-v="1" title="2026-06-25: 82 changes"></div><div class="hm-cell" data-v="1" title="2026-06-24: 47 changes"></div><div class="hm-cell" data-v="1" title="2026-06-23: 16 changes"></div><div class="hm-cell" data-v="1" title="2026-06-22: 12 changes"></div><div class="hm-cell" data-v="1" title="2026-06-21: 34 changes"></div><div class="hm-cell" data-v="1" title="2026-06-20: 560 changes"></div><div class="hm-cell" data-v="1" title="2026-06-19: 31 changes"></div><div class="hm-cell" data-v="1" title="2026-06-18: 468 changes"></div><div class="hm-cell" data-v="1" title="2026-06-17: 97 changes"></div><div class="hm-cell" data-v="1" title="2026-06-16: 52 changes"></div><div class="hm-cell" data-v="1" title="2026-06-15: 26 changes"></div><div class="hm-cell" data-v="3" title="2026-06-14: 2262 changes"></div><div class="hm-cell" data-v="1" title="2026-06-13: 44 changes"></div><div class="hm-cell" data-v="1" title="2026-06-12: 586 changes"></div><div class="hm-cell" data-v="8" title="2026-06-11: 8868 changes"></div><div class="hm-cell" data-v="1" title="2026-06-09: 2 changes"></div><div class="hm-cell" data-v="2" title="2026-06-09: 1360 changes"></div><div class="hm-cell" data-v="1" title="2026-06-06: 454 changes"></div><div class="hm-cell" data-v="1" title="2026-06-05: 4 changes"></div><div class="hm-cell" data-v="1" title="2026-06-04: 3 changes"></div><div class="hm-cell" data-v="1" title="2026-06-03: 15 changes"></div><div class="hm-cell" data-v="1" title="2026-06-02: 5 changes"></div><div class="hm-cell" data-v="1" title="2026-06-01: 9 changes"></div><div class="hm-cell" data-v="1" title="2026-05-30: 3 changes"></div><div class="hm-cell" data-v="1" title="2026-05-29: 37 changes"></div><div class="hm-cell" data-v="1" title="2026-05-28: 5 changes"></div><div class="hm-cell" data-v="2" title="2026-05-27: 2088 changes"></div><div class="hm-cell" data-v="1" title="2026-05-26: 25 changes"></div><div class="hm-cell" data-v="1" title="2026-05-25: 2 changes"></div><div class="hm-cell" data-v="1" title="2026-05-23: 79 changes"></div><div class="hm-cell" data-v="1" title="2026-05-22: 4 changes"></div><div class="hm-cell" data-v="1" title="2026-05-21: 182 changes"></div><div class="hm-cell" data-v="1" title="2026-05-20: 43 changes"></div><div class="hm-cell" data-v="1" title="2026-05-19: 17 changes"></div><div class="hm-cell" data-v="1" title="2026-05-18: 10 changes"></div><div class="hm-cell" data-v="1" title="2026-05-17: 10 changes"></div><div class="hm-cell" data-v="1" title="2026-05-16: 376 changes"></div><div class="hm-cell" data-v="1" title="2026-05-15: 11 changes"></div><div class="hm-cell" data-v="1" title="2026-05-14: 3 changes"></div><div class="hm-cell" data-v="1" title="2026-05-13: 7 changes"></div><div class="hm-cell" data-v="1" title="2026-05-12: 624 changes"></div><div class="hm-cell" data-v="1" title="2026-05-11: 23 changes"></div><div class="hm-cell" data-v="0" title=": 0 changes"></div><div class="hm-cell" data-v="0" title=": 0 changes"></div><div class="hm-cell" data-v="0" title=": 0 changes"></div><div class="hm-cell" data-v="0" title=": 0 changes"></div><div class="hm-cell" data-v="0" title=": 0 changes"></div><div class="hm-cell" data-v="0" title=": 0 changes"></div><div class="hm-cell" data-v="0" title=": 0 changes"></div><div class="hm-cell" data-v="0" title=": 0 changes"></div><div class="hm-cell" data-v="0" title=": 0 changes"></div><div class="hm-cell" data-v="0" title=": 0 changes"></div><div class="hm-cell" data-v="0" title=": 0 changes"></div><div class="hm-cell" data-v="0" title=": 0 changes"></div><div class="hm-cell" data-v="0" title=": 0 changes"></div><div class="hm-cell" data-v="0" title=": 0 changes"></div><div class="hm-cell" data-v="0" title=": 0 changes"></div><div class="hm-cell" data-v="0" title=": 0 changes"></div><div class="hm-cell" data-v="0" title=": 0 changes"></div><div class="hm-cell" data-v="0" title=": 0 changes"></div><div class="hm-cell" data-v="0" title=": 0 changes"></div><div class="hm-cell" data-v="0" title=": 0 changes"></div><div class="hm-cell" data-v="0" title=": 0 changes"></div><div class="hm-cell" data-v="0" title=": 0 changes"></div><div class="hm-cell" data-v="0" title=": 0 changes"></div><div class="hm-cell" data-v="0" title=": 0 changes"></div><div class="hm-cell" data-v="0" title=": 0 changes"></div><div class="hm-cell" data-v="0" title=": 0 changes"></div><div class="hm-cell" data-v="0" title=": 0 changes"></div><div class="hm-cell" data-v="0" title=": 0 changes"></div><div class="hm-cell" data-v="0" title=": 0 changes"></div><div class="hm-cell" data-v="0" title=": 0 changes"></div><div class="hm-cell" data-v="0" title=": 0 changes"></div><div class="hm-cell" data-v="0" title=": 0 changes"></div><div class="hm-cell" data-v="0" title=": 0 changes"></div><div class="hm-cell" data-v="0" title=": 0 changes"></div><div class="hm-cell" data-v="0" title=": 0 changes"></div><div class="hm-cell" data-v="0" title=": 0 changes"></div><div class="hm-cell" data-v="0" title=": 0 changes"></div><div class="hm-cell" data-v="0" title=": 0 changes"></div><div class="hm-cell" data-v="0" title=": 0 changes"></div><div class="hm-cell" data-v="0" title=": 0 changes"></div><div class="hm-cell" data-v="0" title=": 0 changes"></div><div class="hm-cell" data-v="0" title=": 0 changes"></div><div class="hm-cell" data-v="0" title=": 0 changes"></div><div class="hm-cell" data-v="0" title=": 0 changes"></div><div class="hm-cell" data-v="0" title=": 0 changes"></div><div class="hm-cell" data-v="0" title=": 0 changes"></div><div class="hm-cell" data-v="0" title=": 0 changes"></div><div class="hm-cell" data-v="0" title=": 0 changes"></div><div class="hm-cell" data-v="0" title=": 0 changes"></div><div class="hm-cell" data-v="0" title=": 0 changes"></div><div class="hm-cell" data-v="0" title=": 0 changes"></div><div class="hm-cell" data-v="0" title=": 0 changes"></div><div class="hm-cell" data-v="0" title=": 0 changes"></div><div class="hm-cell" data-v="0" title=": 0 changes"></div><div class="hm-cell" data-v="0" title=": 0 changes"></div><div class="hm-cell" data-v="0" title=": 0 changes"></div><div class="hm-cell" data-v="0" title=": 0 changes"></div><div class="hm-cell" data-v="0" title=": 0 changes"></div><div class="hm-cell" data-v="0" title=": 0 changes"></div><div class="hm-cell" data-v="0" title=": 0 changes"></div><div class="hm-cell" data-v="0" title=": 0 changes"></div><div class="hm-cell" data-v="0" title=": 0 changes"></div><div class="hm-cell" data-v="0" title=": 0 changes"></div><div class="hm-cell" data-v="0" title=": 0 changes"></div><div class="hm-cell" data-v="0" title=": 0 changes"></div><div class="hm-cell" data-v="0" title=": 0 changes"></div><div class="hm-cell" data-v="0" title=": 0 changes"></div><div class="hm-cell" data-v="0" title=": 0 changes"></div><div class="hm-cell" data-v="0" title=": 0 changes"></div><div class="hm-cell" data-v="0" title=": 0 changes"></div><div class="hm-cell" data-v="0" title=": 0 changes"></div></div>
+    </div>
+    <div class="hm-legend">
+      <span>Less</span>
+      <span class="swatch" style="background:var(--bg-2);border:1px solid var(--line)"></span>
+      <span class="swatch" style="background:oklch(0.82 0.16 200 / 0.3)"></span>
+      <span class="swatch" style="background:oklch(0.82 0.16 200 / 0.5)"></span>
+      <span class="swatch" style="background:var(--cyan)"></span>
+      <span class="swatch" style="background:var(--amber)"></span>
+      <span>More</span>
+    </div>
+  </div>
+
+  <div class="panel">
+    <div class="panel-head"><h3>// RECENT DIGEST</h3><span class="meta">net daily change</span></div>
+    <div class="cl-row" id="2026-07-02">
+  <div>
+    <div class="cl-date">2026-07-02</div>
+    <div class="cl-stats">
+      <span style="color:var(--green)">+182</span>
+      <span style="color:var(--red)">-14</span>
+      <span style="color:var(--green)">net +168</span>
+    </div>
+  </div>
+  <div class="cl-providers"><span class="cl-chip" style="border-color:#00A95C;color:#00A95C">Linode +64/-0</span> <span class="cl-chip" style="border-color:#7D4698;color:#7D4698">Tor Exit Nodes +94/-11</span> <span class="cl-chip" style="border-color:#123F6D;color:#123F6D">OVHcloud +1/-0</span> <span class="cl-chip" style="border-color:#FF9900;color:#FF9900">AWS +21/-0</span> <span class="cl-chip" style="border-color:#0052D9;color:#0052D9">Tencent +1/-2</span> <span class="cl-chip" style="border-color:#FF6A00;color:#FF6A00">Alibaba +1/-1</span></div>
+</div><div class="cl-row" id="2026-07-01">
+  <div>
+    <div class="cl-date">2026-07-01</div>
+    <div class="cl-stats">
+      <span style="color:var(--green)">+83</span>
+      <span style="color:var(--red)">-25</span>
+      <span style="color:var(--green)">net +58</span>
+    </div>
+  </div>
+  <div class="cl-providers"><span class="cl-chip" style="border-color:#7D4698;color:#7D4698">Tor Exit Nodes +20/-7</span> <span class="cl-chip" style="border-color:#00A95C;color:#00A95C">Linode +2/-0</span> <span class="cl-chip" style="border-color:#0866FF;color:#0866FF">Meta (Facebook) +1/-0</span> <span class="cl-chip" style="border-color:#123F6D;color:#123F6D">OVHcloud +1/-1</span> <span class="cl-chip" style="border-color:#FF6A00;color:#FF6A00">Alibaba +3/-0</span> <span class="cl-chip" style="border-color:#294D73;color:#294D73">Mullvad VPN +5/-0</span> <span class="cl-chip" style="border-color:#0052D9;color:#0052D9">Tencent +2/-0</span> <span class="cl-chip" style="border-color:#4285F4;color:#4285F4">Google Cloud +43/-0</span> <span class="cl-chip" style="border-color:#FF9900;color:#FF9900">AWS +6/-17</span></div>
+</div><div class="cl-row" id="2026-06-30">
+  <div>
+    <div class="cl-date">2026-06-30</div>
+    <div class="cl-stats">
+      <span style="color:var(--green)">+91</span>
+      <span style="color:var(--red)">-109</span>
+      <span style="color:var(--red)">net -18</span>
+    </div>
+  </div>
+  <div class="cl-providers"><span class="cl-chip" style="border-color:#123F6D;color:#123F6D">OVHcloud +6/-1</span> <span class="cl-chip" style="border-color:#7D4698;color:#7D4698">Tor Exit Nodes +9/-9</span> <span class="cl-chip" style="border-color:#0080FF;color:#0080FF">DigitalOcean +1/-0</span> <span class="cl-chip" style="border-color:#FF6A00;color:#FF6A00">Alibaba +12/-2</span> <span class="cl-chip" style="border-color:#FF9900;color:#FF9900">AWS +17/-2</span> <span class="cl-chip" style="border-color:#6E7681;color:#6E7681">GitHub +46/-95</span></div>
+</div><div class="cl-row" id="2026-06-29">
+  <div>
+    <div class="cl-date">2026-06-29</div>
+    <div class="cl-stats">
+      <span style="color:var(--green)">+20</span>
+      <span style="color:var(--red)">-18</span>
+      <span style="color:var(--green)">net +2</span>
+    </div>
+  </div>
+  <div class="cl-providers"><span class="cl-chip" style="border-color:#7D4698;color:#7D4698">Tor Exit Nodes +6/-18</span> <span class="cl-chip" style="border-color:#007AFF;color:#007AFF">Apple Private Relay +14/-0</span></div>
+</div><div class="cl-row" id="2026-06-28">
+  <div>
+    <div class="cl-date">2026-06-28</div>
+    <div class="cl-stats">
+      <span style="color:var(--green)">+36</span>
+      <span style="color:var(--red)">-15</span>
+      <span style="color:var(--green)">net +21</span>
+    </div>
+  </div>
+  <div class="cl-providers"><span class="cl-chip" style="border-color:#FF9900;color:#FF9900">AWS +31/-0</span> <span class="cl-chip" style="border-color:#00A95C;color:#00A95C">Linode +2/-0</span> <span class="cl-chip" style="border-color:#123F6D;color:#123F6D">OVHcloud +1/-0</span> <span class="cl-chip" style="border-color:#7D4698;color:#7D4698">Tor Exit Nodes +2/-15</span></div>
+</div><div class="cl-row" id="2026-06-27">
+  <div>
+    <div class="cl-date">2026-06-27</div>
+    <div class="cl-stats">
+      <span style="color:var(--green)">+35</span>
+      <span style="color:var(--red)">-6</span>
+      <span style="color:var(--green)">net +29</span>
+    </div>
+  </div>
+  <div class="cl-providers"><span class="cl-chip" style="border-color:#7D4698;color:#7D4698">Tor Exit Nodes +4/-4</span> <span class="cl-chip" style="border-color:#123F6D;color:#123F6D">OVHcloud +1/-1</span> <span class="cl-chip" style="border-color:#0052D9;color:#0052D9">Tencent +2/-1</span> <span class="cl-chip" style="border-color:#FF9900;color:#FF9900">AWS +28/-0</span></div>
+</div><div class="cl-row" id="2026-06-26">
+  <div>
+    <div class="cl-date">2026-06-26</div>
+    <div class="cl-stats">
+      <span style="color:var(--green)">+147</span>
+      <span style="color:var(--red)">-121</span>
+      <span style="color:var(--green)">net +26</span>
+    </div>
+  </div>
+  <div class="cl-providers"><span class="cl-chip" style="border-color:#7D4698;color:#7D4698">Tor Exit Nodes +4/-8</span> <span class="cl-chip" style="border-color:#0078D4;color:#0078D4">Azure +117/-110</span> <span class="cl-chip" style="border-color:#FF9900;color:#FF9900">AWS +15/-1</span> <span class="cl-chip" style="border-color:#123F6D;color:#123F6D">OVHcloud +2/-1</span> <span class="cl-chip" style="border-color:#FF6A00;color:#FF6A00">Alibaba +6/-1</span> <span class="cl-chip" style="border-color:#0052D9;color:#0052D9">Tencent +3/-0</span></div>
+</div><div class="cl-row" id="2026-06-25">
+  <div>
+    <div class="cl-date">2026-06-25</div>
+    <div class="cl-stats">
+      <span style="color:var(--green)">+42</span>
+      <span style="color:var(--red)">-40</span>
+      <span style="color:var(--green)">net +2</span>
+    </div>
+  </div>
+  <div class="cl-providers"><span class="cl-chip" style="border-color:#0052D9;color:#0052D9">Tencent +1/-0</span> <span class="cl-chip" style="border-color:#123F6D;color:#123F6D">OVHcloud +1/-2</span> <span class="cl-chip" style="border-color:#10A37F;color:#10A37F">GPTBot +1/-1</span> <span class="cl-chip" style="border-color:#FF6A00;color:#FF6A00">Alibaba +1/-1</span> <span class="cl-chip" style="border-color:#FF9900;color:#FF9900">AWS +21/-0</span> <span class="cl-chip" style="border-color:#888888;color:#888888">uptimerobot +0/-26</span> <span class="cl-chip" style="border-color:#294D73;color:#294D73">Mullvad VPN +4/-7</span> <span class="cl-chip" style="border-color:#7D4698;color:#7D4698">Tor Exit Nodes +13/-3</span></div>
+</div><div class="cl-row" id="2026-06-24">
+  <div>
+    <div class="cl-date">2026-06-24</div>
+    <div class="cl-stats">
+      <span style="color:var(--green)">+36</span>
+      <span style="color:var(--red)">-11</span>
+      <span style="color:var(--green)">net +25</span>
+    </div>
+  </div>
+  <div class="cl-providers"><span class="cl-chip" style="border-color:#123F6D;color:#123F6D">OVHcloud +3/-5</span> <span class="cl-chip" style="border-color:#FF6A00;color:#FF6A00">Alibaba +21/-1</span> <span class="cl-chip" style="border-color:#007AFF;color:#007AFF">Apple Private Relay +1/-0</span> <span class="cl-chip" style="border-color:#7D4698;color:#7D4698">Tor Exit Nodes +11/-5</span></div>
+</div><div class="cl-row" id="2026-06-23">
+  <div>
+    <div class="cl-date">2026-06-23</div>
+    <div class="cl-stats">
+      <span style="color:var(--green)">+10</span>
+      <span style="color:var(--red)">-6</span>
+      <span style="color:var(--green)">net +4</span>
+    </div>
+  </div>
+  <div class="cl-providers"><span class="cl-chip" style="border-color:#7D4698;color:#7D4698">Tor Exit Nodes +5/-2</span> <span class="cl-chip" style="border-color:#FF9900;color:#FF9900">AWS +2/-0</span> <span class="cl-chip" style="border-color:#294D73;color:#294D73">Mullvad VPN +0/-4</span> <span class="cl-chip" style="border-color:#123F6D;color:#123F6D">OVHcloud +3/-0</span></div>
+</div><div class="cl-row" id="2026-06-22">
+  <div>
+    <div class="cl-date">2026-06-22</div>
+    <div class="cl-stats">
+      <span style="color:var(--green)">+7</span>
+      <span style="color:var(--red)">-5</span>
+      <span style="color:var(--green)">net +2</span>
+    </div>
+  </div>
+  <div class="cl-providers"><span class="cl-chip" style="border-color:#7D4698;color:#7D4698">Tor Exit Nodes +7/-5</span></div>
+</div><div class="cl-row" id="2026-06-21">
+  <div>
+    <div class="cl-date">2026-06-21</div>
+    <div class="cl-stats">
+      <span style="color:var(--green)">+23</span>
+      <span style="color:var(--red)">-11</span>
+      <span style="color:var(--green)">net +12</span>
+    </div>
+  </div>
+  <div class="cl-providers"><span class="cl-chip" style="border-color:#7D4698;color:#7D4698">Tor Exit Nodes +5/-11</span> <span class="cl-chip" style="border-color:#4285F4;color:#4285F4">Google Cloud +17/-0</span> <span class="cl-chip" style="border-color:#FF9900;color:#FF9900">AWS +1/-0</span></div>
+</div><div class="cl-row" id="2026-06-20">
+  <div>
+    <div class="cl-date">2026-06-20</div>
+    <div class="cl-stats">
+      <span style="color:var(--green)">+463</span>
+      <span style="color:var(--red)">-97</span>
+      <span style="color:var(--green)">net +366</span>
+    </div>
+  </div>
+  <div class="cl-providers"><span class="cl-chip" style="border-color:#7D4698;color:#7D4698">Tor Exit Nodes +4/-4</span> <span class="cl-chip" style="border-color:#0052D9;color:#0052D9">Tencent +1/-0</span> <span class="cl-chip" style="border-color:#0866FF;color:#0866FF">Meta (Facebook) +0/-13</span> <span class="cl-chip" style="border-color:#FF9900;color:#FF9900">AWS +6/-0</span> <span class="cl-chip" style="border-color:#123F6D;color:#123F6D">OVHcloud +2/-0</span> <span class="cl-chip" style="border-color:#0078D4;color:#0078D4">Azure +450/-80</span></div>
+</div><div class="cl-row" id="2026-06-19">
+  <div>
+    <div class="cl-date">2026-06-19</div>
+    <div class="cl-stats">
+      <span style="color:var(--green)">+19</span>
+      <span style="color:var(--red)">-12</span>
+      <span style="color:var(--green)">net +7</span>
+    </div>
+  </div>
+  <div class="cl-providers"><span class="cl-chip" style="border-color:#0866FF;color:#0866FF">Meta (Facebook) +2/-0</span> <span class="cl-chip" style="border-color:#7D4698;color:#7D4698">Tor Exit Nodes +5/-6</span> <span class="cl-chip" style="border-color:#FF6A00;color:#FF6A00">Alibaba +3/-1</span> <span class="cl-chip" style="border-color:#123F6D;color:#123F6D">OVHcloud +0/-4</span> <span class="cl-chip" style="border-color:#FF9900;color:#FF9900">AWS +9/-1</span></div>
+</div><div class="cl-row" id="2026-06-18">
+  <div>
+    <div class="cl-date">2026-06-18</div>
+    <div class="cl-stats">
+      <span style="color:var(--green)">+373</span>
+      <span style="color:var(--red)">-95</span>
+      <span style="color:var(--green)">net +278</span>
+    </div>
+  </div>
+  <div class="cl-providers"><span class="cl-chip" style="border-color:#FF6A00;color:#FF6A00">Alibaba +12/-1</span> <span class="cl-chip" style="border-color:#294D73;color:#294D73">Mullvad VPN +2/-0</span> <span class="cl-chip" style="border-color:#0080FF;color:#0080FF">DigitalOcean +2/-0</span> <span class="cl-chip" style="border-color:#0052CC;color:#0052CC">Atlassian +0/-88</span> <span class="cl-chip" style="border-color:#888888;color:#888888">pingdom +156/-0</span> <span class="cl-chip" style="border-color:#888888;color:#888888">statuscake +183/-0</span> <span class="cl-chip" style="border-color:#123F6D;color:#123F6D">OVHcloud +1/-0</span> <span class="cl-chip" style="border-color:#D50C2D;color:#D50C2D">Hetzner +2/-0</span> <span class="cl-chip" style="border-color:#FF9900;color:#FF9900">AWS +11/-1</span> <span class="cl-chip" style="border-color:#7D4698;color:#7D4698">Tor Exit Nodes +4/-5</span></div>
+</div><div class="cl-row" id="2026-06-17">
+  <div>
+    <div class="cl-date">2026-06-17</div>
+    <div class="cl-stats">
+      <span style="color:var(--green)">+68</span>
+      <span style="color:var(--red)">-29</span>
+      <span style="color:var(--green)">net +39</span>
+    </div>
+  </div>
+  <div class="cl-providers"><span class="cl-chip" style="border-color:#7D4698;color:#7D4698">Tor Exit Nodes +4/-5</span> <span class="cl-chip" style="border-color:#0866FF;color:#0866FF">Meta (Facebook) +2/-0</span> <span class="cl-chip" style="border-color:#10A37F;color:#10A37F">GPTBot +1/-0</span> <span class="cl-chip" style="border-color:#0052D9;color:#0052D9">Tencent +1/-0</span> <span class="cl-chip" style="border-color:#294D73;color:#294D73">Mullvad VPN +6/-0</span> <span class="cl-chip" style="border-color:#FF9900;color:#FF9900">AWS +23/-6</span> <span class="cl-chip" style="border-color:#D50C2D;color:#D50C2D">Hetzner +1/-0</span> <span class="cl-chip" style="border-color:#6E7681;color:#6E7681">GitHub +10/-17</span> <span class="cl-chip" style="border-color:#123F6D;color:#123F6D">OVHcloud +3/-1</span> <span class="cl-chip" style="border-color:#007BFC;color:#007BFC">Vultr +17/-0</span></div>
+</div><div class="cl-row" id="2026-06-16">
+  <div>
+    <div class="cl-date">2026-06-16</div>
+    <div class="cl-stats">
+      <span style="color:var(--green)">+27</span>
+      <span style="color:var(--red)">-25</span>
+      <span style="color:var(--green)">net +2</span>
+    </div>
+  </div>
+  <div class="cl-providers"><span class="cl-chip" style="border-color:#007AFF;color:#007AFF">Apple Private Relay +3/-0</span> <span class="cl-chip" style="border-color:#7D4698;color:#7D4698">Tor Exit Nodes +8/-17</span> <span class="cl-chip" style="border-color:#FF9900;color:#FF9900">AWS +13/-2</span> <span class="cl-chip" style="border-color:#007BFC;color:#007BFC">Vultr +0/-1</span> <span class="cl-chip" style="border-color:#123F6D;color:#123F6D">OVHcloud +3/-1</span> <span class="cl-chip" style="border-color:#294D73;color:#294D73">Mullvad VPN +0/-4</span></div>
+</div><div class="cl-row" id="2026-06-15">
+  <div>
+    <div class="cl-date">2026-06-15</div>
+    <div class="cl-stats">
+      <span style="color:var(--green)">+10</span>
+      <span style="color:var(--red)">-16</span>
+      <span style="color:var(--red)">net -6</span>
+    </div>
+  </div>
+  <div class="cl-providers"><span class="cl-chip" style="border-color:#4285F4;color:#4285F4">Google Cloud +4/-1</span> <span class="cl-chip" style="border-color:#123F6D;color:#123F6D">OVHcloud +1/-3</span> <span class="cl-chip" style="border-color:#7D4698;color:#7D4698">Tor Exit Nodes +5/-12</span></div>
+</div><div class="cl-row" id="2026-06-14">
+  <div>
+    <div class="cl-date">2026-06-14</div>
+    <div class="cl-stats">
+      <span style="color:var(--green)">+2258</span>
+      <span style="color:var(--red)">-4</span>
+      <span style="color:var(--green)">net +2254</span>
+    </div>
+  </div>
+  <div class="cl-providers"><span class="cl-chip" style="border-color:#888888;color:#888888">datadog +150/-0</span> <span class="cl-chip" style="border-color:#4F0599;color:#4F0599">Scaleway +61/-0</span> <span class="cl-chip" style="border-color:#888888;color:#888888">uptimerobot +232/-0</span> <span class="cl-chip" style="border-color:#D50C2D;color:#D50C2D">Hetzner +686/-0</span> <span class="cl-chip" style="border-color:#1261FE;color:#1261FE">IBM Cloud +411/-0</span> <span class="cl-chip" style="border-color:#123F6D;color:#123F6D">OVHcloud +716/-0</span> <span class="cl-chip" style="border-color:#7D4698;color:#7D4698">Tor Exit Nodes +2/-4</span></div>
+</div><div class="cl-row" id="2026-06-13">
+  <div>
+    <div class="cl-date">2026-06-13</div>
+    <div class="cl-stats">
+      <span style="color:var(--green)">+27</span>
+      <span style="color:var(--red)">-17</span>
+      <span style="color:var(--green)">net +10</span>
+    </div>
+  </div>
+  <div class="cl-providers"><span class="cl-chip" style="border-color:#294D73;color:#294D73">Mullvad VPN +5/-5</span> <span class="cl-chip" style="border-color:#7D4698;color:#7D4698">Tor Exit Nodes +3/-5</span> <span class="cl-chip" style="border-color:#FF6A00;color:#FF6A00">Alibaba +0/-6</span> <span class="cl-chip" style="border-color:#DE5833;color:#DE5833">DuckDuckBot +14/-0</span> <span class="cl-chip" style="border-color:#0052D9;color:#0052D9">Tencent +1/-0</span> <span class="cl-chip" style="border-color:#FF9900;color:#FF9900">AWS +4/-1</span></div>
+</div><div class="cl-row" id="2026-06-12">
+  <div>
+    <div class="cl-date">2026-06-12</div>
+    <div class="cl-stats">
+      <span style="color:var(--green)">+557</span>
+      <span style="color:var(--red)">-29</span>
+      <span style="color:var(--green)">net +528</span>
+    </div>
+  </div>
+  <div class="cl-providers"><span class="cl-chip" style="border-color:#FF9900;color:#FF9900">AWS +5/-0</span> <span class="cl-chip" style="border-color:#DE5833;color:#DE5833">DuckDuckBot +36/-0</span> <span class="cl-chip" style="border-color:#7D4698;color:#7D4698">Tor Exit Nodes +5/-1</span> <span class="cl-chip" style="border-color:#0078D4;color:#0078D4">Azure +509/-28</span> <span class="cl-chip" style="border-color:#0052D9;color:#0052D9">Tencent +2/-0</span></div>
+</div><div class="cl-row" id="2026-06-11">
+  <div>
+    <div class="cl-date">2026-06-11</div>
+    <div class="cl-stats">
+      <span style="color:var(--green)">+8868</span>
+      <span style="color:var(--red)">-0</span>
+      <span style="color:var(--green)">net +8868</span>
+    </div>
+  </div>
+  <div class="cl-providers"><span class="cl-chip" style="border-color:#10A37F;color:#10A37F">GPTBot +6/-0</span> <span class="cl-chip" style="border-color:#7D4698;color:#7D4698">Tor Exit Nodes +1260/-0</span> <span class="cl-chip" style="border-color:#0866FF;color:#0866FF">Meta (Facebook) +761/-0</span> <span class="cl-chip" style="border-color:#294D73;color:#294D73">Mullvad VPN +1127/-0</span> <span class="cl-chip" style="border-color:#FF6A00;color:#FF6A00">Alibaba +2310/-0</span> <span class="cl-chip" style="border-color:#007BFC;color:#007BFC">Vultr +1/-0</span> <span class="cl-chip" style="border-color:#0052D9;color:#0052D9">Tencent +3386/-0</span> <span class="cl-chip" style="border-color:#FF9900;color:#FF9900">AWS +1/-0</span> <span class="cl-chip" style="border-color:#007AFF;color:#007AFF">Apple Private Relay +16/-0</span></div>
+</div><div class="cl-row" id="2026-06-09">
+  <div>
+    <div class="cl-date">2026-06-09</div>
+    <div class="cl-stats">
+      <span style="color:var(--green)">+2</span>
+      <span style="color:var(--red)">-0</span>
+      <span style="color:var(--green)">net +2</span>
+    </div>
+  </div>
+  <div class="cl-providers"><span class="cl-chip" style="border-color:#4285F4;color:#4285F4">Googlebot +2/-0</span></div>
+</div><div class="cl-row" id="2026-06-09">
+  <div>
+    <div class="cl-date">2026-06-09</div>
+    <div class="cl-stats">
+      <span style="color:var(--green)">+1070</span>
+      <span style="color:var(--red)">-290</span>
+      <span style="color:var(--green)">net +780</span>
+    </div>
+  </div>
+  <div class="cl-providers"><span class="cl-chip" style="border-color:#0080FF;color:#0080FF">DigitalOcean +1/-0</span> <span class="cl-chip" style="border-color:#FF9900;color:#FF9900">AWS +8/-2</span> <span class="cl-chip" style="border-color:#6E7681;color:#6E7681">GitHub +1061/-288</span></div>
+</div><div class="cl-row" id="2026-06-06">
+  <div>
+    <div class="cl-date">2026-06-06</div>
+    <div class="cl-stats">
+      <span style="color:var(--green)">+302</span>
+      <span style="color:var(--red)">-152</span>
+      <span style="color:var(--green)">net +150</span>
+    </div>
+  </div>
+  <div class="cl-providers"><span class="cl-chip" style="border-color:#0078D4;color:#0078D4">Azure +241/-152</span> <span class="cl-chip" style="border-color:#C74634;color:#C74634">Oracle Cloud +11/-0</span> <span class="cl-chip" style="border-color:#DE5833;color:#DE5833">DuckDuckBot +18/-0</span> <span class="cl-chip" style="border-color:#FF9900;color:#FF9900">AWS +32/-0</span></div>
+</div><div class="cl-row" id="2026-06-05">
+  <div>
+    <div class="cl-date">2026-06-05</div>
+    <div class="cl-stats">
+      <span style="color:var(--green)">+4</span>
+      <span style="color:var(--red)">-0</span>
+      <span style="color:var(--green)">net +4</span>
+    </div>
+  </div>
+  <div class="cl-providers"><span class="cl-chip" style="border-color:#FF9900;color:#FF9900">AWS +3/-0</span> <span class="cl-chip" style="border-color:#007BFC;color:#007BFC">Vultr +1/-0</span></div>
+</div><div class="cl-row" id="2026-06-04">
+  <div>
+    <div class="cl-date">2026-06-04</div>
+    <div class="cl-stats">
+      <span style="color:var(--green)">+3</span>
+      <span style="color:var(--red)">-0</span>
+      <span style="color:var(--green)">net +3</span>
+    </div>
+  </div>
+  <div class="cl-providers"><span class="cl-chip" style="border-color:#FF9900;color:#FF9900">AWS +3/-0</span></div>
+</div><div class="cl-row" id="2026-06-03">
+  <div>
+    <div class="cl-date">2026-06-03</div>
+    <div class="cl-stats">
+      <span style="color:var(--green)">+15</span>
+      <span style="color:var(--red)">-0</span>
+      <span style="color:var(--green)">net +15</span>
+    </div>
+  </div>
+  <div class="cl-providers"><span class="cl-chip" style="border-color:#FF9900;color:#FF9900">AWS +15/-0</span></div>
+</div><div class="cl-row" id="2026-06-02">
+  <div>
+    <div class="cl-date">2026-06-02</div>
+    <div class="cl-stats">
+      <span style="color:var(--green)">+4</span>
+      <span style="color:var(--red)">-1</span>
+      <span style="color:var(--green)">net +3</span>
+    </div>
+  </div>
+  <div class="cl-providers"><span class="cl-chip" style="border-color:#FF9900;color:#FF9900">AWS +4/-1</span></div>
+</div><div class="cl-row" id="2026-06-01">
+  <div>
+    <div class="cl-date">2026-06-01</div>
+    <div class="cl-stats">
+      <span style="color:var(--green)">+9</span>
+      <span style="color:var(--red)">-0</span>
+      <span style="color:var(--green)">net +9</span>
+    </div>
+  </div>
+  <div class="cl-providers"><span class="cl-chip" style="border-color:#4285F4;color:#4285F4">Google Cloud +9/-0</span></div>
+</div><div class="cl-row" id="2026-05-30">
+  <div>
+    <div class="cl-date">2026-05-30</div>
+    <div class="cl-stats">
+      <span style="color:var(--green)">+3</span>
+      <span style="color:var(--red)">-0</span>
+      <span style="color:var(--green)">net +3</span>
+    </div>
+  </div>
+  <div class="cl-providers"><span class="cl-chip" style="border-color:#0080FF;color:#0080FF">DigitalOcean +3/-0</span></div>
+</div><div class="cl-row" id="2026-05-29">
+  <div>
+    <div class="cl-date">2026-05-29</div>
+    <div class="cl-stats">
+      <span style="color:var(--green)">+37</span>
+      <span style="color:var(--red)">-0</span>
+      <span style="color:var(--green)">net +37</span>
+    </div>
+  </div>
+  <div class="cl-providers"><span class="cl-chip" style="border-color:#FF9900;color:#FF9900">AWS +36/-0</span> <span class="cl-chip" style="border-color:#007BFC;color:#007BFC">Vultr +1/-0</span></div>
+</div><div class="cl-row" id="2026-05-28">
+  <div>
+    <div class="cl-date">2026-05-28</div>
+    <div class="cl-stats">
+      <span style="color:var(--green)">+5</span>
+      <span style="color:var(--red)">-0</span>
+      <span style="color:var(--green)">net +5</span>
+    </div>
+  </div>
+  <div class="cl-providers"><span class="cl-chip" style="border-color:#007BFC;color:#007BFC">Vultr +1/-0</span> <span class="cl-chip" style="border-color:#4285F4;color:#4285F4">Googlebot +2/-0</span> <span class="cl-chip" style="border-color:#FF9900;color:#FF9900">AWS +2/-0</span></div>
+</div><div class="cl-row" id="2026-05-27">
+  <div>
+    <div class="cl-date">2026-05-27</div>
+    <div class="cl-stats">
+      <span style="color:var(--green)">+1587</span>
+      <span style="color:var(--red)">-501</span>
+      <span style="color:var(--green)">net +1086</span>
+    </div>
+  </div>
+  <div class="cl-providers"><span class="cl-chip" style="border-color:#DE5833;color:#DE5833">DuckDuckBot +5/-0</span> <span class="cl-chip" style="border-color:#0078D4;color:#0078D4">Azure +1577/-500</span> <span class="cl-chip" style="border-color:#FF9900;color:#FF9900">AWS +4/-1</span> <span class="cl-chip" style="border-color:#007BFC;color:#007BFC">Vultr +1/-0</span></div>
+</div><div class="cl-row" id="2026-05-26">
+  <div>
+    <div class="cl-date">2026-05-26</div>
+    <div class="cl-stats">
+      <span style="color:var(--green)">+25</span>
+      <span style="color:var(--red)">-0</span>
+      <span style="color:var(--green)">net +25</span>
+    </div>
+  </div>
+  <div class="cl-providers"><span class="cl-chip" style="border-color:#DE5833;color:#DE5833">DuckDuckBot +16/-0</span> <span class="cl-chip" style="border-color:#FF9900;color:#FF9900">AWS +9/-0</span></div>
+</div><div class="cl-row" id="2026-05-25">
+  <div>
+    <div class="cl-date">2026-05-25</div>
+    <div class="cl-stats">
+      <span style="color:var(--green)">+2</span>
+      <span style="color:var(--red)">-0</span>
+      <span style="color:var(--green)">net +2</span>
+    </div>
+  </div>
+  <div class="cl-providers"><span class="cl-chip" style="border-color:#007AFF;color:#007AFF">Apple Private Relay +2/-0</span></div>
+</div><div class="cl-row" id="2026-05-23">
+  <div>
+    <div class="cl-date">2026-05-23</div>
+    <div class="cl-stats">
+      <span style="color:var(--green)">+78</span>
+      <span style="color:var(--red)">-1</span>
+      <span style="color:var(--green)">net +77</span>
+    </div>
+  </div>
+  <div class="cl-providers"><span class="cl-chip" style="border-color:#FF9900;color:#FF9900">AWS +78/-1</span></div>
+</div><div class="cl-row" id="2026-05-22">
+  <div>
+    <div class="cl-date">2026-05-22</div>
+    <div class="cl-stats">
+      <span style="color:var(--green)">+4</span>
+      <span style="color:var(--red)">-0</span>
+      <span style="color:var(--green)">net +4</span>
+    </div>
+  </div>
+  <div class="cl-providers"><span class="cl-chip" style="border-color:#FF9900;color:#FF9900">AWS +4/-0</span></div>
+</div><div class="cl-row" id="2026-05-21">
+  <div>
+    <div class="cl-date">2026-05-21</div>
+    <div class="cl-stats">
+      <span style="color:var(--green)">+100</span>
+      <span style="color:var(--red)">-82</span>
+      <span style="color:var(--green)">net +18</span>
+    </div>
+  </div>
+  <div class="cl-providers"><span class="cl-chip" style="border-color:#10A37F;color:#10A37F">GPTBot +0/-3</span> <span class="cl-chip" style="border-color:#FF9900;color:#FF9900">AWS +2/-8</span> <span class="cl-chip" style="border-color:#007BFC;color:#007BFC">Vultr +1/-0</span> <span class="cl-chip" style="border-color:#6E7681;color:#6E7681">GitHub +97/-71</span></div>
+</div><div class="cl-row" id="2026-05-20">
+  <div>
+    <div class="cl-date">2026-05-20</div>
+    <div class="cl-stats">
+      <span style="color:var(--green)">+40</span>
+      <span style="color:var(--red)">-3</span>
+      <span style="color:var(--green)">net +37</span>
+    </div>
+  </div>
+  <div class="cl-providers"><span class="cl-chip" style="border-color:#0052CC;color:#0052CC">Atlassian +0/-1</span> <span class="cl-chip" style="border-color:#0080FF;color:#0080FF">DigitalOcean +1/-0</span> <span class="cl-chip" style="border-color:#007AFF;color:#007AFF">Apple Private Relay +5/-0</span> <span class="cl-chip" style="border-color:#FF9900;color:#FF9900">AWS +2/-1</span> <span class="cl-chip" style="border-color:#007BFC;color:#007BFC">Vultr +0/-1</span> <span class="cl-chip" style="border-color:#00A95C;color:#00A95C">Linode +32/-0</span></div>
+</div><div class="cl-row" id="2026-05-19">
+  <div>
+    <div class="cl-date">2026-05-19</div>
+    <div class="cl-stats">
+      <span style="color:var(--green)">+17</span>
+      <span style="color:var(--red)">-0</span>
+      <span style="color:var(--green)">net +17</span>
+    </div>
+  </div>
+  <div class="cl-providers"><span class="cl-chip" style="border-color:#4285F4;color:#4285F4">Google Cloud +17/-0</span></div>
+</div><div class="cl-row" id="2026-05-18">
+  <div>
+    <div class="cl-date">2026-05-18</div>
+    <div class="cl-stats">
+      <span style="color:var(--green)">+10</span>
+      <span style="color:var(--red)">-0</span>
+      <span style="color:var(--green)">net +10</span>
+    </div>
+  </div>
+  <div class="cl-providers"><span class="cl-chip" style="border-color:#10A37F;color:#10A37F">GPTBot +2/-0</span> <span class="cl-chip" style="border-color:#007AFF;color:#007AFF">Apple Private Relay +8/-0</span></div>
+</div><div class="cl-row" id="2026-05-17">
+  <div>
+    <div class="cl-date">2026-05-17</div>
+    <div class="cl-stats">
+      <span style="color:var(--green)">+10</span>
+      <span style="color:var(--red)">-0</span>
+      <span style="color:var(--green)">net +10</span>
+    </div>
+  </div>
+  <div class="cl-providers"><span class="cl-chip" style="border-color:#FF9900;color:#FF9900">AWS +1/-0</span> <span class="cl-chip" style="border-color:#4285F4;color:#4285F4">Google Cloud +9/-0</span></div>
+</div><div class="cl-row" id="2026-05-16">
+  <div>
+    <div class="cl-date">2026-05-16</div>
+    <div class="cl-stats">
+      <span style="color:var(--green)">+283</span>
+      <span style="color:var(--red)">-93</span>
+      <span style="color:var(--green)">net +190</span>
+    </div>
+  </div>
+  <div class="cl-providers"><span class="cl-chip" style="border-color:#FF9900;color:#FF9900">AWS +2/-0</span> <span class="cl-chip" style="border-color:#0078D4;color:#0078D4">Azure +272/-93</span> <span class="cl-chip" style="border-color:#A0A0A0;color:#A0A0A0">Common Crawl +1/-0</span> <span class="cl-chip" style="border-color:#10A37F;color:#10A37F">GPTBot +8/-0</span></div>
+</div><div class="cl-row" id="2026-05-15">
+  <div>
+    <div class="cl-date">2026-05-15</div>
+    <div class="cl-stats">
+      <span style="color:var(--green)">+7</span>
+      <span style="color:var(--red)">-4</span>
+      <span style="color:var(--green)">net +3</span>
+    </div>
+  </div>
+  <div class="cl-providers"><span class="cl-chip" style="border-color:#FF9900;color:#FF9900">Amazonbot +6/-0</span> <span class="cl-chip" style="border-color:#FF9900;color:#FF9900">AWS +1/-4</span></div>
+</div><div class="cl-row" id="2026-05-14">
+  <div>
+    <div class="cl-date">2026-05-14</div>
+    <div class="cl-stats">
+      <span style="color:var(--green)">+3</span>
+      <span style="color:var(--red)">-0</span>
+      <span style="color:var(--green)">net +3</span>
+    </div>
+  </div>
+  <div class="cl-providers"><span class="cl-chip" style="border-color:#FF9900;color:#FF9900">AWS +3/-0</span></div>
+</div><div class="cl-row" id="2026-05-13">
+  <div>
+    <div class="cl-date">2026-05-13</div>
+    <div class="cl-stats">
+      <span style="color:var(--green)">+7</span>
+      <span style="color:var(--red)">-0</span>
+      <span style="color:var(--green)">net +7</span>
+    </div>
+  </div>
+  <div class="cl-providers"><span class="cl-chip" style="border-color:#FF9900;color:#FF9900">AWS +6/-0</span> <span class="cl-chip" style="border-color:#DE5833;color:#DE5833">DuckDuckBot +1/-0</span></div>
+</div><div class="cl-row" id="2026-05-12">
+  <div>
+    <div class="cl-date">2026-05-12</div>
+    <div class="cl-stats">
+      <span style="color:var(--green)">+503</span>
+      <span style="color:var(--red)">-121</span>
+      <span style="color:var(--green)">net +382</span>
+    </div>
+  </div>
+  <div class="cl-providers"><span class="cl-chip" style="border-color:#FF9900;color:#FF9900">AWS +12/-0</span> <span class="cl-chip" style="border-color:#6E7681;color:#6E7681">GitHub +433/-121</span> <span class="cl-chip" style="border-color:#909090;color:#909090">TeamCity +11/-0</span> <span class="cl-chip" style="border-color:#A0A0A0;color:#A0A0A0">CircleCI +47/-0</span></div>
+</div><div class="cl-row" id="2026-05-11">
+  <div>
+    <div class="cl-date">2026-05-11</div>
+    <div class="cl-stats">
+      <span style="color:var(--green)">+23</span>
+      <span style="color:var(--red)">-0</span>
+      <span style="color:var(--green)">net +23</span>
+    </div>
+  </div>
+  <div class="cl-providers"><span class="cl-chip" style="border-color:#007AFF;color:#007AFF">Apple Private Relay +23/-0</span></div>
+</div>
+  </div>
+</section>
+<div class="footer-bar">
+  <div>// GENERATED FROM <a href="https://github.com/rezmoss/cloud-provider-ip-addresses" target="_blank">rezmoss/cloud-provider-ip-addresses</a> · DAILY @ 06:00 UTC</div>
+  <div>// MIT · <a href="/embed/">EMBED</a> · <a href="/no-static-ips/">NO-STATIC-IPS</a> · <a href="/feed.xml">RSS</a> · <a href="/sitemap.xml">SITEMAP</a></div>
+</div>
+</main>
+<script>
+async function copyUrl(url, btn){
+  try{
+    const r = await fetch(url); const t = await r.text();
+    await navigator.clipboard.writeText(t);
+    const o = btn.textContent; btn.textContent='Copied'; btn.classList.add('ok');
+    setTimeout(()=>{btn.textContent=o; btn.classList.remove('ok')},1500);
+  }catch(e){ btn.textContent='Failed' }
+}
+</script>
+</body>
+</html>
