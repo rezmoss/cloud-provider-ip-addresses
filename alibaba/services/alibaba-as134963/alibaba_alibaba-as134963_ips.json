@@ -234,6 +234,12 @@
     "region": "global"
   },
   {
+    "ip_address": "8.220.171.0/24",
+    "ip_type": "IPv4",
+    "service": "alibaba-as134963",
+    "region": "global"
+  },
+  {
     "ip_address": "8.220.236.0/24",
     "ip_type": "IPv4",
     "service": "alibaba-as134963",

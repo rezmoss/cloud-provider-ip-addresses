@@ -1,5 +1,5 @@
 # ovhcloud IP ranges - ipset restore format (hash:net)
-# Version: 12 | Generated: 2026-07-02 | Last changed: 2026-07-02
+# Version: 12 | Generated: 2026-07-03 | Last changed: 2026-07-02
 # IPv4: 582 merged subnets, 4580864 unique IPs
 # IPv6: 4 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses

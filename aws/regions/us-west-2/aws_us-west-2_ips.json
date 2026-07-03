@@ -7768,17 +7768,5 @@
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "us-west-2"
-  },
-  {
-    "ip_address": "2631:1:200::/40",
-    "ip_type": "IPv6",
-    "service": "AMAZON",
-    "region": "us-west-2"
-  },
-  {
-    "ip_address": "2631:1:200::/40",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "us-west-2"
   }
 ]

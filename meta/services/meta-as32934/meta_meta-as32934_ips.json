@@ -228,6 +228,12 @@
     "region": "global"
   },
   {
+    "ip_address": "57.141.22.0/24",
+    "ip_type": "IPv4",
+    "service": "meta-as32934",
+    "region": "global"
+  },
+  {
     "ip_address": "57.141.24.0/24",
     "ip_type": "IPv4",
     "service": "meta-as32934",
@@ -3235,6 +3241,12 @@
   },
   {
     "ip_address": "2a03:2880:f816::/48",
+    "ip_type": "IPv6",
+    "service": "meta-as32934",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a03:2880:f818::/48",
     "ip_type": "IPv6",
     "service": "meta-as32934",
     "region": "global"

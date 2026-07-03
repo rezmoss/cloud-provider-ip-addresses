@@ -1,6 +1,6 @@
 # ibmcloud IP ranges - ipset restore format (hash:net)
-# Version: 1 | Generated: 2026-07-02 | Last changed: 2026-06-18
-# IPv4: 180 merged subnets, 3624448 unique IPs
+# Version: 2 | Generated: 2026-07-03 | Last changed: 2026-07-03
+# IPv4: 181 merged subnets, 3624704 unique IPs
 # IPv6: 36 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
@@ -26,6 +26,7 @@ add ibmcloud_v4 50.97.16.0/23
 add ibmcloud_v4 50.97.32.0/19
 add ibmcloud_v4 52.116.0.0/15
 add ibmcloud_v4 52.118.0.0/16
+add ibmcloud_v4 62.84.171.0/24
 add ibmcloud_v4 64.5.32.0/20
 add ibmcloud_v4 64.5.48.0/21
 add ibmcloud_v4 66.37.96.0/24

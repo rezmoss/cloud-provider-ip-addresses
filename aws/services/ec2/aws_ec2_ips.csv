@@ -3377,6 +3377,7 @@ ip_address,ip_type,service,region
 2600:f0f3:f010:300::/56,IPv6,EC2,us-east-1
 2600:f0fb:8000::/40,IPv6,EC2,us-west-2
 2600:f0fb:c000::/48,IPv6,EC2,us-east-1
+2600:f0fb:c002::/56,IPv6,EC2,us-east-1
 2600:f0fb:e000::/40,IPv6,EC2,us-east-1
 2600:f0fb:e100::/40,IPv6,EC2,us-east-1
 2600:f0fb:e200::/40,IPv6,EC2,us-west-2
@@ -3779,7 +3780,6 @@ ip_address,ip_type,service,region
 2631:1:10c::/48,IPv6,EC2,ca-central-1
 2631:1:10d::/48,IPv6,EC2,eu-west-2
 2631:1:10f::/48,IPv6,EC2,eu-west-3
-2631:1:200::/40,IPv6,EC2,us-west-2
 2804:800:ff00::/48,IPv6,EC2,sa-east-1
 2a01:578:3::/48,IPv6,EC2,eu-west-1
 2a01:578:13::/48,IPv6,EC2,eu-central-1

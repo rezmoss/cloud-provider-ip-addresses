@@ -38,6 +38,7 @@ ip_address,ip_type,service,region
 8.220.168.0/24,IPv4,alibaba-as134963,global
 8.220.169.0/24,IPv4,alibaba-as134963,global
 8.220.170.0/24,IPv4,alibaba-as134963,global
+8.220.171.0/24,IPv4,alibaba-as134963,global
 8.220.236.0/24,IPv4,alibaba-as134963,global
 8.220.237.0/24,IPv4,alibaba-as134963,global
 8.220.238.0/24,IPv4,alibaba-as134963,global

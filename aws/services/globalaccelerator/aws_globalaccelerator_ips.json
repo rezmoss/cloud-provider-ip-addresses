@@ -444,6 +444,12 @@
     "region": "GLOBAL"
   },
   {
+    "ip_address": "35.34.96.0/24",
+    "ip_type": "IPv4",
+    "service": "GLOBALACCELERATOR",
+    "region": "eu-west-2"
+  },
+  {
     "ip_address": "35.34.98.0/24",
     "ip_type": "IPv4",
     "service": "GLOBALACCELERATOR",
