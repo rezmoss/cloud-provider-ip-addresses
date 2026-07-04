@@ -6,25 +6,7 @@
     "region": "eastus"
   },
   {
-    "ip_address": "20.85.194.70/32",
-    "ip_type": "IPv4",
-    "service": "ActionGroup.EastUS",
-    "region": "eastus"
-  },
-  {
-    "ip_address": "20.85.194.220/32",
-    "ip_type": "IPv4",
-    "service": "ActionGroup.EastUS",
-    "region": "eastus"
-  },
-  {
     "ip_address": "20.119.28.220/31",
-    "ip_type": "IPv4",
-    "service": "ActionGroup.EastUS",
-    "region": "eastus"
-  },
-  {
-    "ip_address": "40.121.67.30/32",
     "ip_type": "IPv4",
     "service": "ActionGroup.EastUS",
     "region": "eastus"

@@ -12,19 +12,7 @@
     "region": "northcentralus"
   },
   {
-    "ip_address": "20.125.199.59/32",
-    "ip_type": "IPv4",
-    "service": "ActionGroup.NorthCentralUS",
-    "region": "northcentralus"
-  },
-  {
     "ip_address": "20.135.70.51/32",
-    "ip_type": "IPv4",
-    "service": "ActionGroup.NorthCentralUS",
-    "region": "northcentralus"
-  },
-  {
-    "ip_address": "20.221.192.80/32",
     "ip_type": "IPv4",
     "service": "ActionGroup.NorthCentralUS",
     "region": "northcentralus"

@@ -1,4 +1,6 @@
 ip_address,ip_type,service,region
+9.129.54.64/26,IPv4,AzureCloud.malaysiawest,malaysiawest
+9.129.55.128/27,IPv4,AzureCloud.malaysiawest,malaysiawest
 20.17.80.0/20,IPv4,AzureCloud.malaysiawest,malaysiawest
 20.17.88.0/26,IPv4,AzureSignalR.MalaysiaWest,malaysiawest
 20.17.89.32/27,IPv4,DataFactory.MalaysiaWest,malaysiawest

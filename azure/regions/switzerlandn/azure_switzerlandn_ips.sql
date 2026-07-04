@@ -18,6 +18,8 @@ INSERT INTO `azure_switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('4.226.60
 INSERT INTO `azure_switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('4.226.64.0/23', 'IPv4');
 INSERT INTO `azure_switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('4.226.76.224/28', 'IPv4');
 INSERT INTO `azure_switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('4.226.77.128/29', 'IPv4');
+INSERT INTO `azure_switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('9.129.53.128/26', 'IPv4');
+INSERT INTO `azure_switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('9.129.55.192/27', 'IPv4');
 INSERT INTO `azure_switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('13.104.144.32/27', 'IPv4');
 INSERT INTO `azure_switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('13.104.211.192/26', 'IPv4');
 INSERT INTO `azure_switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('13.105.100.176/28', 'IPv4');

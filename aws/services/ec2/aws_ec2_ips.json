@@ -22512,6 +22512,12 @@
     "region": "us-west-2"
   },
   {
+    "ip_address": "2606:7b40:300b::/54",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-west-2"
+  },
+  {
     "ip_address": "2606:7b40:f000:1500::/56",
     "ip_type": "IPv6",
     "service": "EC2",

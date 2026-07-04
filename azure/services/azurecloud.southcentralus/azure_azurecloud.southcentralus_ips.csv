@@ -2,6 +2,11 @@ ip_address,ip_type,service,region
 4.149.96.0/19,IPv4,AzureCloud.southcentralus,southcentralus
 4.150.0.0/18,IPv4,AzureCloud.southcentralus,southcentralus
 4.151.0.0/16,IPv4,AzureCloud.southcentralus,southcentralus
+9.129.35.0/24,IPv4,AzureCloud.southcentralus,southcentralus
+9.129.44.0/25,IPv4,AzureCloud.southcentralus,southcentralus
+9.129.53.192/26,IPv4,AzureCloud.southcentralus,southcentralus
+9.129.57.96/27,IPv4,AzureCloud.southcentralus,southcentralus
+9.129.57.176/28,IPv4,AzureCloud.southcentralus,southcentralus
 13.65.0.0/16,IPv4,AzureCloud.southcentralus,southcentralus
 13.66.0.0/17,IPv4,AzureCloud.southcentralus,southcentralus
 13.73.240.0/20,IPv4,AzureCloud.southcentralus,southcentralus

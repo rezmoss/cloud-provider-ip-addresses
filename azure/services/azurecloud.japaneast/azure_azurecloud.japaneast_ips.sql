@@ -11,6 +11,9 @@ INSERT INTO `azure_azurecloud.japaneast_ips` (`ip_address`, `ip_type`) VALUES ('
 INSERT INTO `azure_azurecloud.japaneast_ips` (`ip_address`, `ip_type`) VALUES ('4.214.0.0/15', 'IPv4');
 INSERT INTO `azure_azurecloud.japaneast_ips` (`ip_address`, `ip_type`) VALUES ('4.216.0.0/16', 'IPv4');
 INSERT INTO `azure_azurecloud.japaneast_ips` (`ip_address`, `ip_type`) VALUES ('4.241.0.0/16', 'IPv4');
+INSERT INTO `azure_azurecloud.japaneast_ips` (`ip_address`, `ip_type`) VALUES ('9.129.46.0/25', 'IPv4');
+INSERT INTO `azure_azurecloud.japaneast_ips` (`ip_address`, `ip_type`) VALUES ('9.129.57.0/27', 'IPv4');
+INSERT INTO `azure_azurecloud.japaneast_ips` (`ip_address`, `ip_type`) VALUES ('9.129.58.80/28', 'IPv4');
 INSERT INTO `azure_azurecloud.japaneast_ips` (`ip_address`, `ip_type`) VALUES ('13.71.128.0/19', 'IPv4');
 INSERT INTO `azure_azurecloud.japaneast_ips` (`ip_address`, `ip_type`) VALUES ('13.73.0.0/19', 'IPv4');
 INSERT INTO `azure_azurecloud.japaneast_ips` (`ip_address`, `ip_type`) VALUES ('13.78.0.0/17', 'IPv4');

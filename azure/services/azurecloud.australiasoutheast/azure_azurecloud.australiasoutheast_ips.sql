@@ -10,6 +10,8 @@ INSERT INTO `azure_azurecloud.australiasoutheast_ips` (`ip_address`, `ip_type`) 
 INSERT INTO `azure_azurecloud.australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('4.198.128.0/19', 'IPv4');
 INSERT INTO `azure_azurecloud.australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('4.199.0.0/17', 'IPv4');
 INSERT INTO `azure_azurecloud.australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('4.200.128.0/17', 'IPv4');
+INSERT INTO `azure_azurecloud.australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('9.129.51.192/26', 'IPv4');
+INSERT INTO `azure_azurecloud.australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('9.129.56.0/27', 'IPv4');
 INSERT INTO `azure_azurecloud.australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('13.70.128.0/18', 'IPv4');
 INSERT INTO `azure_azurecloud.australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('13.73.96.0/19', 'IPv4');
 INSERT INTO `azure_azurecloud.australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('13.77.0.0/18', 'IPv4');

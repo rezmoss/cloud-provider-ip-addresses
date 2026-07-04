@@ -1284,6 +1284,12 @@
     "region": ""
   },
   {
+    "ip_address": "2603:1061:16::/50",
+    "ip_type": "IPv6",
+    "service": "AzureFrontDoor.Frontend",
+    "region": ""
+  },
+  {
     "ip_address": "2603:1062:10::/48",
     "ip_type": "IPv6",
     "service": "AzureFrontDoor.Frontend",

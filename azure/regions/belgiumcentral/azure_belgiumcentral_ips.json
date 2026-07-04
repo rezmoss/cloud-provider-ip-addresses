@@ -1,5 +1,17 @@
 [
   {
+    "ip_address": "9.129.51.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.belgiumcentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "9.129.54.192/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.belgiumcentral",
+    "region": "belgiumcentral"
+  },
+  {
     "ip_address": "9.160.0.0/17",
     "ip_type": "IPv4",
     "service": "AzureCloud.belgiumcentral",

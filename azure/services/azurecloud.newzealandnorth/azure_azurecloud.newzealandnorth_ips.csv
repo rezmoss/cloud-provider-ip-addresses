@@ -1,4 +1,7 @@
 ip_address,ip_type,service,region
+9.129.52.0/26,IPv4,AzureCloud.newzealandnorth,newzealandnorth
+9.129.55.224/27,IPv4,AzureCloud.newzealandnorth,newzealandnorth
+9.129.58.112/28,IPv4,AzureCloud.newzealandnorth,newzealandnorth
 20.20.40.0/24,IPv4,AzureCloud.newzealandnorth,newzealandnorth
 20.33.190.0/24,IPv4,AzureCloud.newzealandnorth,newzealandnorth
 20.33.196.0/24,IPv4,AzureCloud.newzealandnorth,newzealandnorth

@@ -9,6 +9,8 @@ CREATE TABLE IF NOT EXISTS `azure_azurecloud.switzerlandn_ips` (
 INSERT INTO `azure_azurecloud.switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('4.163.0.0/16', 'IPv4');
 INSERT INTO `azure_azurecloud.switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('4.164.0.0/16', 'IPv4');
 INSERT INTO `azure_azurecloud.switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('4.226.0.0/17', 'IPv4');
+INSERT INTO `azure_azurecloud.switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('9.129.53.128/26', 'IPv4');
+INSERT INTO `azure_azurecloud.switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('9.129.55.192/27', 'IPv4');
 INSERT INTO `azure_azurecloud.switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('13.104.144.32/27', 'IPv4');
 INSERT INTO `azure_azurecloud.switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('13.104.211.192/26', 'IPv4');
 INSERT INTO `azure_azurecloud.switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('13.105.100.176/28', 'IPv4');

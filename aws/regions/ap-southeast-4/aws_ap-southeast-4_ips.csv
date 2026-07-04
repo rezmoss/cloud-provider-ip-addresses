@@ -48,6 +48,7 @@ ip_address,ip_type,service,region
 18.99.192.0/20,IPv4,EC2,ap-southeast-4
 18.99.193.0/25,IPv4,AURORA_DSQL,ap-southeast-4
 35.34.104.0/24,IPv4,AMAZON,ap-southeast-4
+35.34.104.0/24,IPv4,GLOBALACCELERATOR,ap-southeast-4
 35.54.59.0/24,IPv4,AMAZON,ap-southeast-4
 35.54.59.0/24,IPv4,EC2,ap-southeast-4
 35.71.112.0/24,IPv4,AMAZON,ap-southeast-4

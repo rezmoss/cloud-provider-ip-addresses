@@ -132,6 +132,7 @@ ip_address,ip_type,service,region
 18.98.128.0/19,IPv4,EC2,ap-northeast-2
 18.98.132.128/25,IPv4,AURORA_DSQL,ap-northeast-2
 35.34.103.0/24,IPv4,AMAZON,ap-northeast-2
+35.34.103.0/24,IPv4,GLOBALACCELERATOR,ap-northeast-2
 35.50.237.0/24,IPv4,AMAZON,ap-northeast-2
 35.50.237.0/24,IPv4,EC2,ap-northeast-2
 35.50.237.0/24,IPv4,IVS_REALTIME,ap-northeast-2

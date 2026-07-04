@@ -6,7 +6,6 @@ CREATE TABLE IF NOT EXISTS `azure_actiongroup.swedencentral_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
-INSERT INTO `azure_actiongroup.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('20.240.1.100/31', 'IPv4');
 INSERT INTO `azure_actiongroup.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('51.12.101.172/30', 'IPv4');
 INSERT INTO `azure_actiongroup.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('172.160.216.24/30', 'IPv4');
 INSERT INTO `azure_actiongroup.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1004::130/126', 'IPv6');

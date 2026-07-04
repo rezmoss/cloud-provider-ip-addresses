@@ -1381,6 +1381,7 @@ ip_address,ip_type,service,region
 70.152.210.0/24,IPv4,AzureCloud.westeurope,westeurope
 72.145.128.0/18,IPv4,AzureCloud.westeurope,westeurope
 72.145.133.160/29,IPv4,AzureAttestation.WestEurope,westeurope
+74.144.128.0/17,IPv4,AzureCloud.westeurope,westeurope
 74.178.128.0/17,IPv4,AzureCloud.westeurope,westeurope
 74.178.240.160/28,IPv4,PowerBI.WestEurope,westeurope
 74.234.128.0/17,IPv4,AzureCloud.westeurope,westeurope

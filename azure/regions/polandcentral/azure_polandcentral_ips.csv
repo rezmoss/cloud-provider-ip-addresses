@@ -1,4 +1,8 @@
 ip_address,ip_type,service,region
+9.129.22.0/23,IPv4,AzureCloud.polandcentral,polandcentral
+9.129.49.128/25,IPv4,AzureCloud.polandcentral,polandcentral
+9.129.54.128/26,IPv4,AzureCloud.polandcentral,polandcentral
+9.129.57.208/28,IPv4,AzureCloud.polandcentral,polandcentral
 13.105.104.80/28,IPv4,AzureCloud.polandcentral,polandcentral
 13.105.104.128/26,IPv4,AzureCloud.polandcentral,polandcentral
 20.20.34.0/24,IPv4,AzureCloud.polandcentral,polandcentral

@@ -114,6 +114,24 @@
     "region": "westus"
   },
   {
+    "ip_address": "9.129.20.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.westus",
+    "region": "westus"
+  },
+  {
+    "ip_address": "9.129.40.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.westus",
+    "region": "westus"
+  },
+  {
+    "ip_address": "9.129.58.144/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.westus",
+    "region": "westus"
+  },
+  {
     "ip_address": "13.64.0.0/16",
     "ip_type": "IPv4",
     "service": "AzureCloud.westus",
@@ -4596,21 +4614,9 @@
     "region": "westus"
   },
   {
-    "ip_address": "40.83.170.64/32",
-    "ip_type": "IPv4",
-    "service": "ActionGroup.WestUS",
-    "region": "westus"
-  },
-  {
     "ip_address": "40.83.173.74/32",
     "ip_type": "IPv4",
     "service": "PowerPlatformInfra.WestUS",
-    "region": "westus"
-  },
-  {
-    "ip_address": "40.83.173.147/32",
-    "ip_type": "IPv4",
-    "service": "ActionGroup.WestUS",
     "region": "westus"
   },
   {
@@ -6741,12 +6747,6 @@
     "ip_address": "52.160.94.54/32",
     "ip_type": "IPv4",
     "service": "LogicApps.WestUS",
-    "region": "westus"
-  },
-  {
-    "ip_address": "52.160.97.65/32",
-    "ip_type": "IPv4",
-    "service": "ActionGroup.WestUS",
     "region": "westus"
   },
   {

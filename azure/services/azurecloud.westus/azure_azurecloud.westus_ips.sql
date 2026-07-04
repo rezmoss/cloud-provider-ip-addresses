@@ -7,6 +7,9 @@ CREATE TABLE IF NOT EXISTS `azure_azurecloud.westus_ips` (
 );
 
 INSERT INTO `azure_azurecloud.westus_ips` (`ip_address`, `ip_type`) VALUES ('4.150.224.0/19', 'IPv4');
+INSERT INTO `azure_azurecloud.westus_ips` (`ip_address`, `ip_type`) VALUES ('9.129.20.0/23', 'IPv4');
+INSERT INTO `azure_azurecloud.westus_ips` (`ip_address`, `ip_type`) VALUES ('9.129.40.0/24', 'IPv4');
+INSERT INTO `azure_azurecloud.westus_ips` (`ip_address`, `ip_type`) VALUES ('9.129.58.144/28', 'IPv4');
 INSERT INTO `azure_azurecloud.westus_ips` (`ip_address`, `ip_type`) VALUES ('13.64.0.0/16', 'IPv4');
 INSERT INTO `azure_azurecloud.westus_ips` (`ip_address`, `ip_type`) VALUES ('13.73.32.0/19', 'IPv4');
 INSERT INTO `azure_azurecloud.westus_ips` (`ip_address`, `ip_type`) VALUES ('13.83.0.0/16', 'IPv4');

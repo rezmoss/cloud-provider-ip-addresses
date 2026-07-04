@@ -1,4 +1,7 @@
 ip_address,ip_type,service,region
+9.129.34.0/24,IPv4,AzureCloud.ukwest,ukwest
+9.129.46.128/25,IPv4,AzureCloud.ukwest,ukwest
+9.129.56.64/27,IPv4,AzureCloud.ukwest,ukwest
 20.33.134.0/24,IPv4,AzureCloud.ukwest,ukwest
 20.33.134.0/24,IPv4,Storage.UKWest,ukwest
 20.33.166.0/24,IPv4,AzureCloud.ukwest,ukwest

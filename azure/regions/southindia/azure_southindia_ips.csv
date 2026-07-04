@@ -235,7 +235,6 @@ ip_address,ip_type,service,region
 52.172.16.80/28,IPv4,Storage.SouthIndia,southindia
 52.172.16.96/28,IPv4,Storage.SouthIndia,southindia
 52.172.16.128/27,IPv4,Storage.SouthIndia,southindia
-52.172.33.114/32,IPv4,ActionGroup.SouthIndia,southindia
 52.172.54.225/32,IPv4,AppService.SouthIndia,southindia
 52.172.80.0/26,IPv4,AzureConnectors.SouthIndia,southindia
 52.172.81.16/30,IPv4,PowerPlatformPlex.SouthIndia,southindia
@@ -350,7 +349,6 @@ ip_address,ip_type,service,region
 104.211.225.167/32,IPv4,AppService.SouthIndia,southindia
 104.211.227.84/32,IPv4,AzureCosmosDB.SouthIndia,southindia
 104.211.228.68/32,IPv4,ServiceFabric.SouthIndia,southindia
-104.211.231.103/32,IPv4,ActionGroup.SouthIndia,southindia
 104.211.232.16/28,IPv4,Storage.SouthIndia,southindia
 104.211.232.48/28,IPv4,Storage.SouthIndia,southindia
 104.211.232.80/28,IPv4,Storage.SouthIndia,southindia

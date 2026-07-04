@@ -81,7 +81,15 @@ INSERT INTO `aws_globalaccelerator_ips` (`ip_address`, `ip_type`) VALUES ('15.19
 INSERT INTO `aws_globalaccelerator_ips` (`ip_address`, `ip_type`) VALUES ('23.238.128.0/17', 'IPv4');
 INSERT INTO `aws_globalaccelerator_ips` (`ip_address`, `ip_type`) VALUES ('24.110.0.0/21', 'IPv4');
 INSERT INTO `aws_globalaccelerator_ips` (`ip_address`, `ip_type`) VALUES ('35.34.96.0/24', 'IPv4');
+INSERT INTO `aws_globalaccelerator_ips` (`ip_address`, `ip_type`) VALUES ('35.34.97.0/24', 'IPv4');
 INSERT INTO `aws_globalaccelerator_ips` (`ip_address`, `ip_type`) VALUES ('35.34.98.0/24', 'IPv4');
+INSERT INTO `aws_globalaccelerator_ips` (`ip_address`, `ip_type`) VALUES ('35.34.99.0/24', 'IPv4');
+INSERT INTO `aws_globalaccelerator_ips` (`ip_address`, `ip_type`) VALUES ('35.34.100.0/24', 'IPv4');
+INSERT INTO `aws_globalaccelerator_ips` (`ip_address`, `ip_type`) VALUES ('35.34.101.0/24', 'IPv4');
+INSERT INTO `aws_globalaccelerator_ips` (`ip_address`, `ip_type`) VALUES ('35.34.102.0/24', 'IPv4');
+INSERT INTO `aws_globalaccelerator_ips` (`ip_address`, `ip_type`) VALUES ('35.34.103.0/24', 'IPv4');
+INSERT INTO `aws_globalaccelerator_ips` (`ip_address`, `ip_type`) VALUES ('35.34.104.0/24', 'IPv4');
+INSERT INTO `aws_globalaccelerator_ips` (`ip_address`, `ip_type`) VALUES ('35.34.105.0/24', 'IPv4');
 INSERT INTO `aws_globalaccelerator_ips` (`ip_address`, `ip_type`) VALUES ('35.71.128.0/17', 'IPv4');
 INSERT INTO `aws_globalaccelerator_ips` (`ip_address`, `ip_type`) VALUES ('52.223.0.0/17', 'IPv4');
 INSERT INTO `aws_globalaccelerator_ips` (`ip_address`, `ip_type`) VALUES ('54.230.192.0/21', 'IPv4');
@@ -120,6 +128,11 @@ INSERT INTO `aws_globalaccelerator_ips` (`ip_address`, `ip_type`) VALUES ('99.83
 INSERT INTO `aws_globalaccelerator_ips` (`ip_address`, `ip_type`) VALUES ('99.83.102.0/24', 'IPv4');
 INSERT INTO `aws_globalaccelerator_ips` (`ip_address`, `ip_type`) VALUES ('99.83.103.0/24', 'IPv4');
 INSERT INTO `aws_globalaccelerator_ips` (`ip_address`, `ip_type`) VALUES ('99.83.104.0/24', 'IPv4');
+INSERT INTO `aws_globalaccelerator_ips` (`ip_address`, `ip_type`) VALUES ('99.83.105.0/24', 'IPv4');
+INSERT INTO `aws_globalaccelerator_ips` (`ip_address`, `ip_type`) VALUES ('99.83.106.0/24', 'IPv4');
+INSERT INTO `aws_globalaccelerator_ips` (`ip_address`, `ip_type`) VALUES ('99.83.107.0/24', 'IPv4');
+INSERT INTO `aws_globalaccelerator_ips` (`ip_address`, `ip_type`) VALUES ('99.83.108.0/24', 'IPv4');
+INSERT INTO `aws_globalaccelerator_ips` (`ip_address`, `ip_type`) VALUES ('99.83.109.0/24', 'IPv4');
 INSERT INTO `aws_globalaccelerator_ips` (`ip_address`, `ip_type`) VALUES ('99.83.128.0/17', 'IPv4');
 INSERT INTO `aws_globalaccelerator_ips` (`ip_address`, `ip_type`) VALUES ('159.248.133.0/24', 'IPv4');
 INSERT INTO `aws_globalaccelerator_ips` (`ip_address`, `ip_type`) VALUES ('166.117.0.0/16', 'IPv4');

@@ -50,6 +50,9 @@ INSERT INTO `azure_japaneast_ips` (`ip_address`, `ip_type`) VALUES ('4.216.205.1
 INSERT INTO `azure_japaneast_ips` (`ip_address`, `ip_type`) VALUES ('4.241.0.0/16', 'IPv4');
 INSERT INTO `azure_japaneast_ips` (`ip_address`, `ip_type`) VALUES ('4.241.51.23/32', 'IPv4');
 INSERT INTO `azure_japaneast_ips` (`ip_address`, `ip_type`) VALUES ('4.241.53.192/29', 'IPv4');
+INSERT INTO `azure_japaneast_ips` (`ip_address`, `ip_type`) VALUES ('9.129.46.0/25', 'IPv4');
+INSERT INTO `azure_japaneast_ips` (`ip_address`, `ip_type`) VALUES ('9.129.57.0/27', 'IPv4');
+INSERT INTO `azure_japaneast_ips` (`ip_address`, `ip_type`) VALUES ('9.129.58.80/28', 'IPv4');
 INSERT INTO `azure_japaneast_ips` (`ip_address`, `ip_type`) VALUES ('13.71.128.0/19', 'IPv4');
 INSERT INTO `azure_japaneast_ips` (`ip_address`, `ip_type`) VALUES ('13.71.128.159/32', 'IPv4');
 INSERT INTO `azure_japaneast_ips` (`ip_address`, `ip_type`) VALUES ('13.71.144.135/32', 'IPv4');

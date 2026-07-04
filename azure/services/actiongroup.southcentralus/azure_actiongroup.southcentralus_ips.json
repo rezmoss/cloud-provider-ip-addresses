@@ -30,18 +30,6 @@
     "region": "southcentralus"
   },
   {
-    "ip_address": "20.225.21.250/32",
-    "ip_type": "IPv4",
-    "service": "ActionGroup.SouthCentralUS",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "20.225.22.84/32",
-    "ip_type": "IPv4",
-    "service": "ActionGroup.SouthCentralUS",
-    "region": "southcentralus"
-  },
-  {
     "ip_address": "104.47.240.183/32",
     "ip_type": "IPv4",
     "service": "ActionGroup.SouthCentralUS",

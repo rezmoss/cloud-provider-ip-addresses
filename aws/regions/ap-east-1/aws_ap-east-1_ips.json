@@ -510,6 +510,12 @@
     "region": "ap-east-1"
   },
   {
+    "ip_address": "35.34.102.0/24",
+    "ip_type": "IPv4",
+    "service": "GLOBALACCELERATOR",
+    "region": "ap-east-1"
+  },
+  {
     "ip_address": "35.54.51.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",

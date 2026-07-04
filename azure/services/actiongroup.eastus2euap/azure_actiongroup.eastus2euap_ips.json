@@ -1,17 +1,5 @@
 [
   {
-    "ip_address": "20.47.194.50/32",
-    "ip_type": "IPv4",
-    "service": "ActionGroup.EastUS2EUAP",
-    "region": "eastus2euap"
-  },
-  {
-    "ip_address": "20.47.194.102/32",
-    "ip_type": "IPv4",
-    "service": "ActionGroup.EastUS2EUAP",
-    "region": "eastus2euap"
-  },
-  {
     "ip_address": "20.252.215.0/30",
     "ip_type": "IPv4",
     "service": "ActionGroup.EastUS2EUAP",

@@ -49,6 +49,8 @@ ip_address,ip_type,service,region
 4.200.251.88/29,IPv4,PowerPlatformPlex.AustraliaSoutheast,australiasoutheast
 4.200.251.160/27,IPv4,PowerPlatformPlex.AustraliaSoutheast,australiasoutheast
 4.200.254.128/26,IPv4,AzureContainerRegistry.AustraliaSoutheast,australiasoutheast
+9.129.51.192/26,IPv4,AzureCloud.australiasoutheast,australiasoutheast
+9.129.56.0/27,IPv4,AzureCloud.australiasoutheast,australiasoutheast
 13.70.128.0/18,IPv4,AzureCloud.australiasoutheast,australiasoutheast
 13.70.136.174/32,IPv4,AzureConnectors.AustraliaSoutheast,australiasoutheast
 13.70.146.110/32,IPv4,AppService.AustraliaSoutheast,australiasoutheast

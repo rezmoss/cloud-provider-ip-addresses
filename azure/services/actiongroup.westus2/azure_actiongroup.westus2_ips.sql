@@ -11,9 +11,6 @@ INSERT INTO `azure_actiongroup.westus2_ips` (`ip_address`, `ip_type`) VALUES ('1
 INSERT INTO `azure_actiongroup.westus2_ips` (`ip_address`, `ip_type`) VALUES ('13.106.57.181/32', 'IPv4');
 INSERT INTO `azure_actiongroup.westus2_ips` (`ip_address`, `ip_type`) VALUES ('13.106.57.196/31', 'IPv4');
 INSERT INTO `azure_actiongroup.westus2_ips` (`ip_address`, `ip_type`) VALUES ('20.125.4.168/31', 'IPv4');
-INSERT INTO `azure_actiongroup.westus2_ips` (`ip_address`, `ip_type`) VALUES ('40.65.72.174/32', 'IPv4');
-INSERT INTO `azure_actiongroup.westus2_ips` (`ip_address`, `ip_type`) VALUES ('40.65.72.253/32', 'IPv4');
-INSERT INTO `azure_actiongroup.westus2_ips` (`ip_address`, `ip_type`) VALUES ('52.183.31.0/32', 'IPv4');
 INSERT INTO `azure_actiongroup.westus2_ips` (`ip_address`, `ip_type`) VALUES ('104.47.217.71/32', 'IPv4');
 INSERT INTO `azure_actiongroup.westus2_ips` (`ip_address`, `ip_type`) VALUES ('104.47.217.87/32', 'IPv4');
 INSERT INTO `azure_actiongroup.westus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:c06:c::194/126', 'IPv6');

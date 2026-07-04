@@ -448,6 +448,7 @@ INSERT INTO `azure_azurecloud.westeurope_ips` (`ip_address`, `ip_type`) VALUES (
 INSERT INTO `azure_azurecloud.westeurope_ips` (`ip_address`, `ip_type`) VALUES ('70.152.208.0/23', 'IPv4');
 INSERT INTO `azure_azurecloud.westeurope_ips` (`ip_address`, `ip_type`) VALUES ('70.152.210.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.westeurope_ips` (`ip_address`, `ip_type`) VALUES ('72.145.128.0/18', 'IPv4');
+INSERT INTO `azure_azurecloud.westeurope_ips` (`ip_address`, `ip_type`) VALUES ('74.144.128.0/17', 'IPv4');
 INSERT INTO `azure_azurecloud.westeurope_ips` (`ip_address`, `ip_type`) VALUES ('74.178.128.0/17', 'IPv4');
 INSERT INTO `azure_azurecloud.westeurope_ips` (`ip_address`, `ip_type`) VALUES ('74.234.128.0/17', 'IPv4');
 INSERT INTO `azure_azurecloud.westeurope_ips` (`ip_address`, `ip_type`) VALUES ('98.64.0.0/16', 'IPv4');

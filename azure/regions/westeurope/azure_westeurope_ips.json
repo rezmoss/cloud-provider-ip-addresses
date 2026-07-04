@@ -8292,6 +8292,12 @@
     "region": "westeurope"
   },
   {
+    "ip_address": "74.144.128.0/17",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.westeurope",
+    "region": "westeurope"
+  },
+  {
     "ip_address": "74.178.128.0/17",
     "ip_type": "IPv4",
     "service": "AzureCloud.westeurope",

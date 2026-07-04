@@ -20,6 +20,8 @@ INSERT INTO `azure_azuremachinelearning.eastus_ips` (`ip_address`, `ip_type`) VA
 INSERT INTO `azure_azuremachinelearning.eastus_ips` (`ip_address`, `ip_type`) VALUES ('48.211.42.160/28', 'IPv4');
 INSERT INTO `azure_azuremachinelearning.eastus_ips` (`ip_address`, `ip_type`) VALUES ('52.255.214.109/32', 'IPv4');
 INSERT INTO `azure_azuremachinelearning.eastus_ips` (`ip_address`, `ip_type`) VALUES ('52.255.217.127/32', 'IPv4');
+INSERT INTO `azure_azuremachinelearning.eastus_ips` (`ip_address`, `ip_type`) VALUES ('57.175.219.64/26', 'IPv4');
+INSERT INTO `azure_azuremachinelearning.eastus_ips` (`ip_address`, `ip_type`) VALUES ('57.175.219.128/28', 'IPv4');
 INSERT INTO `azure_azuremachinelearning.eastus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:210:1::2c0/122', 'IPv6');
 INSERT INTO `azure_azuremachinelearning.eastus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:210:2e::45e/127', 'IPv6');
 INSERT INTO `azure_azuremachinelearning.eastus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:210:2e::7b0/124', 'IPv6');

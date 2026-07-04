@@ -14,12 +14,15 @@ INSERT INTO `azure_azurecloud.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES 
 INSERT INTO `azure_azurecloud.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('4.203.128.0/19', 'IPv4');
 INSERT INTO `azure_azurecloud.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('4.228.0.0/16', 'IPv4');
 INSERT INTO `azure_azurecloud.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('4.238.128.0/17', 'IPv4');
+INSERT INTO `azure_azurecloud.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('9.129.36.0/24', 'IPv4');
+INSERT INTO `azure_azurecloud.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('9.129.50.128/26', 'IPv4');
 INSERT INTO `azure_azurecloud.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('13.105.52.80/28', 'IPv4');
 INSERT INTO `azure_azurecloud.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('13.105.52.128/26', 'IPv4');
 INSERT INTO `azure_azurecloud.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('20.20.96.0/25', 'IPv4');
 INSERT INTO `azure_azurecloud.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('20.20.96.128/26', 'IPv4');
-INSERT INTO `azure_azurecloud.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('20.20.96.192/29', 'IPv4');
-INSERT INTO `azure_azurecloud.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('20.20.96.200/30', 'IPv4');
+INSERT INTO `azure_azurecloud.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('20.20.96.192/28', 'IPv4');
+INSERT INTO `azure_azurecloud.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('20.20.96.208/30', 'IPv4');
+INSERT INTO `azure_azurecloud.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('20.20.96.212/31', 'IPv4');
 INSERT INTO `azure_azurecloud.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('20.20.96.228/30', 'IPv4');
 INSERT INTO `azure_azurecloud.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('20.20.96.232/29', 'IPv4');
 INSERT INTO `azure_azurecloud.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('20.20.96.240/28', 'IPv4');

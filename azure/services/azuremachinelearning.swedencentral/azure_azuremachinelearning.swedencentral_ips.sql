@@ -17,6 +17,8 @@ INSERT INTO `azure_azuremachinelearning.swedencentral_ips` (`ip_address`, `ip_ty
 INSERT INTO `azure_azuremachinelearning.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('51.12.99.80/28', 'IPv4');
 INSERT INTO `azure_azuremachinelearning.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('51.12.227.64/28', 'IPv4');
 INSERT INTO `azure_azuremachinelearning.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('51.12.235.64/28', 'IPv4');
+INSERT INTO `azure_azuremachinelearning.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('172.160.154.16/28', 'IPv4');
+INSERT INTO `azure_azuremachinelearning.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('172.160.154.192/26', 'IPv4');
 INSERT INTO `azure_azuremachinelearning.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1004::2c0/122', 'IPv6');
 INSERT INTO `azure_azuremachinelearning.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1004:d::3d8/126', 'IPv6');
 INSERT INTO `azure_azuremachinelearning.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1004:d::3dc/127', 'IPv6');

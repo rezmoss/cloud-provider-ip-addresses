@@ -56,6 +56,8 @@ INSERT INTO `azure_australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('4.
 INSERT INTO `azure_australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('4.200.251.88/29', 'IPv4');
 INSERT INTO `azure_australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('4.200.251.160/27', 'IPv4');
 INSERT INTO `azure_australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('4.200.254.128/26', 'IPv4');
+INSERT INTO `azure_australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('9.129.51.192/26', 'IPv4');
+INSERT INTO `azure_australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('9.129.56.0/27', 'IPv4');
 INSERT INTO `azure_australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('13.70.128.0/18', 'IPv4');
 INSERT INTO `azure_australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('13.70.136.174/32', 'IPv4');
 INSERT INTO `azure_australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('13.70.146.110/32', 'IPv4');

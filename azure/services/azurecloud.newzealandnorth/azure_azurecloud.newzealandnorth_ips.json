@@ -1,5 +1,23 @@
 [
   {
+    "ip_address": "9.129.52.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "9.129.55.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "9.129.58.112/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
     "ip_address": "20.20.40.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.newzealandnorth",

@@ -121,6 +121,8 @@ INSERT INTO `azure_northeurope_ips` (`ip_address`, `ip_type`) VALUES ('4.231.242
 INSERT INTO `azure_northeurope_ips` (`ip_address`, `ip_type`) VALUES ('4.245.128.0/17', 'IPv4');
 INSERT INTO `azure_northeurope_ips` (`ip_address`, `ip_type`) VALUES ('4.245.184.192/32', 'IPv4');
 INSERT INTO `azure_northeurope_ips` (`ip_address`, `ip_type`) VALUES ('4.245.189.46/32', 'IPv4');
+INSERT INTO `azure_northeurope_ips` (`ip_address`, `ip_type`) VALUES ('9.129.54.0/26', 'IPv4');
+INSERT INTO `azure_northeurope_ips` (`ip_address`, `ip_type`) VALUES ('9.129.55.96/27', 'IPv4');
 INSERT INTO `azure_northeurope_ips` (`ip_address`, `ip_type`) VALUES ('13.69.128.0/17', 'IPv4');
 INSERT INTO `azure_northeurope_ips` (`ip_address`, `ip_type`) VALUES ('13.69.171.0/32', 'IPv4');
 INSERT INTO `azure_northeurope_ips` (`ip_address`, `ip_type`) VALUES ('13.69.186.152/32', 'IPv4');

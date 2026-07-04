@@ -24,6 +24,11 @@ INSERT INTO `azure_southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('4.151.
 INSERT INTO `azure_southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('4.151.99.20/31', 'IPv4');
 INSERT INTO `azure_southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('4.151.99.72/29', 'IPv4');
 INSERT INTO `azure_southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('4.151.103.92/30', 'IPv4');
+INSERT INTO `azure_southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('9.129.35.0/24', 'IPv4');
+INSERT INTO `azure_southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('9.129.44.0/25', 'IPv4');
+INSERT INTO `azure_southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('9.129.53.192/26', 'IPv4');
+INSERT INTO `azure_southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('9.129.57.96/27', 'IPv4');
+INSERT INTO `azure_southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('9.129.57.176/28', 'IPv4');
 INSERT INTO `azure_southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('13.65.0.0/16', 'IPv4');
 INSERT INTO `azure_southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('13.65.30.245/32', 'IPv4');
 INSERT INTO `azure_southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('13.65.37.122/32', 'IPv4');
@@ -477,8 +482,6 @@ INSERT INTO `azure_southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('20.209
 INSERT INTO `azure_southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('20.209.196.0/23', 'IPv4');
 INSERT INTO `azure_southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('20.209.196.0/23', 'IPv4');
 INSERT INTO `azure_southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('20.225.0.0/16', 'IPv4');
-INSERT INTO `azure_southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('20.225.21.250/32', 'IPv4');
-INSERT INTO `azure_southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('20.225.22.84/32', 'IPv4');
 INSERT INTO `azure_southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('20.236.128.0/18', 'IPv4');
 INSERT INTO `azure_southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('20.236.150.0/27', 'IPv4');
 INSERT INTO `azure_southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('20.236.151.0/26', 'IPv4');

@@ -18,24 +18,6 @@
     "region": "westus"
   },
   {
-    "ip_address": "40.83.170.64/32",
-    "ip_type": "IPv4",
-    "service": "ActionGroup.WestUS",
-    "region": "westus"
-  },
-  {
-    "ip_address": "40.83.173.147/32",
-    "ip_type": "IPv4",
-    "service": "ActionGroup.WestUS",
-    "region": "westus"
-  },
-  {
-    "ip_address": "52.160.97.65/32",
-    "ip_type": "IPv4",
-    "service": "ActionGroup.WestUS",
-    "region": "westus"
-  },
-  {
     "ip_address": "2603:1030:a07::138/126",
     "ip_type": "IPv6",
     "service": "ActionGroup.WestUS",

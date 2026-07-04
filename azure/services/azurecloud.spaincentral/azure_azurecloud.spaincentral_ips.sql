@@ -6,6 +6,8 @@ CREATE TABLE IF NOT EXISTS `azure_azurecloud.spaincentral_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_azurecloud.spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('9.129.43.128/25', 'IPv4');
+INSERT INTO `azure_azurecloud.spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('9.129.58.32/28', 'IPv4');
 INSERT INTO `azure_azurecloud.spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('13.105.111.96/27', 'IPv4');
 INSERT INTO `azure_azurecloud.spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('20.20.39.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('20.33.131.0/24', 'IPv4');

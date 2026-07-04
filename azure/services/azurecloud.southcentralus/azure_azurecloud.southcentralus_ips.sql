@@ -9,6 +9,11 @@ CREATE TABLE IF NOT EXISTS `azure_azurecloud.southcentralus_ips` (
 INSERT INTO `azure_azurecloud.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('4.149.96.0/19', 'IPv4');
 INSERT INTO `azure_azurecloud.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('4.150.0.0/18', 'IPv4');
 INSERT INTO `azure_azurecloud.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('4.151.0.0/16', 'IPv4');
+INSERT INTO `azure_azurecloud.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('9.129.35.0/24', 'IPv4');
+INSERT INTO `azure_azurecloud.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('9.129.44.0/25', 'IPv4');
+INSERT INTO `azure_azurecloud.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('9.129.53.192/26', 'IPv4');
+INSERT INTO `azure_azurecloud.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('9.129.57.96/27', 'IPv4');
+INSERT INTO `azure_azurecloud.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('9.129.57.176/28', 'IPv4');
 INSERT INTO `azure_azurecloud.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('13.65.0.0/16', 'IPv4');
 INSERT INTO `azure_azurecloud.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('13.66.0.0/17', 'IPv4');
 INSERT INTO `azure_azurecloud.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('13.73.240.0/20', 'IPv4');

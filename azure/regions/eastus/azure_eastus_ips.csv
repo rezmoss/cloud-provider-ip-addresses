@@ -33,6 +33,9 @@ ip_address,ip_type,service,region
 4.255.0.0/17,IPv4,AzureCloud.eastus,eastus
 4.255.28.232/32,IPv4,AzureCosmosDB.EastUS,eastus
 4.255.28.237/32,IPv4,AzureCosmosDB.EastUS,eastus
+9.129.32.0/23,IPv4,AzureCloud.eastus,eastus
+9.129.41.0/24,IPv4,AzureCloud.eastus,eastus
+9.129.56.96/27,IPv4,AzureCloud.eastus,eastus
 9.169.0.0/17,IPv4,AzureCloud.eastus,eastus
 9.169.0.224/30,IPv4,AzureMonitor.EastUS,eastus
 9.169.0.228/32,IPv4,AzureMonitor.EastUS,eastus
@@ -352,8 +355,6 @@ ip_address,ip_type,service,region
 20.85.132.139/32,IPv4,MicrosoftCloudAppSecurity.EastUS,eastus
 20.85.173.165/32,IPv4,PowerPlatformInfra.EastUS,eastus
 20.85.179.67/32,IPv4,PowerPlatformInfra.EastUS,eastus
-20.85.194.70/32,IPv4,ActionGroup.EastUS,eastus
-20.85.194.220/32,IPv4,ActionGroup.EastUS,eastus
 20.88.128.0/18,IPv4,AzureCloud.eastus,eastus
 20.88.153.0/26,IPv4,EventHub.EastUS,eastus
 20.88.153.64/26,IPv4,ServiceBus.EastUS,eastus
@@ -891,7 +892,6 @@ ip_address,ip_type,service,region
 40.121.35.221/32,IPv4,AppService.EastUS,eastus
 40.121.57.2/32,IPv4,AzureMonitor.EastUS,eastus
 40.121.61.208/32,IPv4,AzureMonitor.EastUS,eastus
-40.121.67.30/32,IPv4,ActionGroup.EastUS,eastus
 40.121.91.199/32,IPv4,AppService.EastUS,eastus
 40.121.134.1/32,IPv4,MicrosoftCloudAppSecurity.EastUS,eastus
 40.121.135.131/32,IPv4,AzureMonitor.EastUS,eastus
@@ -1463,6 +1463,8 @@ ip_address,ip_type,service,region
 57.175.167.128/25,IPv4,AzureIoTHub.EastUS,eastus
 57.175.184.0/23,IPv4,AzureIoTHub.EastUS,eastus
 57.175.217.224/27,IPv4,AzureMonitor.EastUS,eastus
+57.175.219.64/26,IPv4,AzureMachineLearning.EastUS,eastus
+57.175.219.128/28,IPv4,AzureMachineLearning.EastUS,eastus
 65.54.19.128/27,IPv4,AzureCloud.eastus,eastus
 68.220.88.0/21,IPv4,AzureCloud.eastus,eastus
 68.220.88.36/31,IPv4,PowerQueryOnline.EastUS,eastus

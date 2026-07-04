@@ -1,5 +1,17 @@
 [
   {
+    "ip_address": "9.129.54.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.malaysiawest",
+    "region": "malaysiawest"
+  },
+  {
+    "ip_address": "9.129.55.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.malaysiawest",
+    "region": "malaysiawest"
+  },
+  {
     "ip_address": "20.17.80.0/20",
     "ip_type": "IPv4",
     "service": "AzureCloud.malaysiawest",

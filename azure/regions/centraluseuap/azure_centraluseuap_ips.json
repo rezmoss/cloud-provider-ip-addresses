@@ -744,18 +744,6 @@
     "region": "centraluseuap"
   },
   {
-    "ip_address": "20.228.34.17/32",
-    "ip_type": "IPv4",
-    "service": "ActionGroup.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
-    "ip_address": "20.228.34.19/32",
-    "ip_type": "IPv4",
-    "service": "ActionGroup.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
     "ip_address": "20.228.37.79/32",
     "ip_type": "IPv4",
     "service": "AzureConnectors.CentralUSEUAP",

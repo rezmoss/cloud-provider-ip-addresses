@@ -145,6 +145,7 @@ ip_address,ip_type,service,region
 23.228.219.0/24,IPv4,AMAZON,us-west-1
 23.228.219.0/24,IPv4,EC2,us-west-1
 35.34.101.0/24,IPv4,AMAZON,us-west-1
+35.34.101.0/24,IPv4,GLOBALACCELERATOR,us-west-1
 35.71.117.0/24,IPv4,AMAZON,us-west-1
 35.71.117.0/24,IPv4,DYNAMODB,us-west-1
 35.71.117.0/24,IPv4,EC2,us-west-1

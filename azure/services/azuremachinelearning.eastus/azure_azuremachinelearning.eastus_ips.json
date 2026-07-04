@@ -84,6 +84,18 @@
     "region": "eastus"
   },
   {
+    "ip_address": "57.175.219.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "57.175.219.128/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.EastUS",
+    "region": "eastus"
+  },
+  {
     "ip_address": "2603:1030:210:1::2c0/122",
     "ip_type": "IPv6",
     "service": "AzureMachineLearning.EastUS",

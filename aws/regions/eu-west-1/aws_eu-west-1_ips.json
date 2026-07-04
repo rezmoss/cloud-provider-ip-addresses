@@ -2670,6 +2670,12 @@
     "region": "eu-west-1"
   },
   {
+    "ip_address": "99.83.105.0/24",
+    "ip_type": "IPv4",
+    "service": "GLOBALACCELERATOR",
+    "region": "eu-west-1"
+  },
+  {
     "ip_address": "99.87.32.0/22",
     "ip_type": "IPv4",
     "service": "AMAZON",

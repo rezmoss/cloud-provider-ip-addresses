@@ -29,6 +29,8 @@ INSERT INTO `azure_australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.19
 INSERT INTO `azure_australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.199.211.0/27', 'IPv4');
 INSERT INTO `azure_australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.199.215.160/29', 'IPv4');
 INSERT INTO `azure_australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.199.215.168/30', 'IPv4');
+INSERT INTO `azure_australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('9.129.51.128/26', 'IPv4');
+INSERT INTO `azure_australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('9.129.57.160/28', 'IPv4');
 INSERT INTO `azure_australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('13.104.155.128/26', 'IPv4');
 INSERT INTO `azure_australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('13.105.27.160/27', 'IPv4');
 INSERT INTO `azure_australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('20.28.0.0/17', 'IPv4');

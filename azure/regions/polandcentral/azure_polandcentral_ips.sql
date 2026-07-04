@@ -6,6 +6,10 @@ CREATE TABLE IF NOT EXISTS `azure_polandcentral_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('9.129.22.0/23', 'IPv4');
+INSERT INTO `azure_polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('9.129.49.128/25', 'IPv4');
+INSERT INTO `azure_polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('9.129.54.128/26', 'IPv4');
+INSERT INTO `azure_polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('9.129.57.208/28', 'IPv4');
 INSERT INTO `azure_polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('13.105.104.80/28', 'IPv4');
 INSERT INTO `azure_polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('13.105.104.128/26', 'IPv4');
 INSERT INTO `azure_polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.20.34.0/24', 'IPv4');

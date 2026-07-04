@@ -220,6 +220,7 @@ INSERT INTO `azure_azurefrontdoor.frontend_ips` (`ip_address`, `ip_type`) VALUES
 INSERT INTO `azure_azurefrontdoor.frontend_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:403::5a0/123', 'IPv6');
 INSERT INTO `azure_azurefrontdoor.frontend_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:11::/48', 'IPv6');
 INSERT INTO `azure_azurefrontdoor.frontend_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:14::/47', 'IPv6');
+INSERT INTO `azure_azurefrontdoor.frontend_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:16::/50', 'IPv6');
 INSERT INTO `azure_azurefrontdoor.frontend_ips` (`ip_address`, `ip_type`) VALUES ('2603:1062:10::/48', 'IPv6');
 INSERT INTO `azure_azurefrontdoor.frontend_ips` (`ip_address`, `ip_type`) VALUES ('2620:1ec:27::/48', 'IPv6');
 INSERT INTO `azure_azurefrontdoor.frontend_ips` (`ip_address`, `ip_type`) VALUES ('2620:1ec:29::/48', 'IPv6');

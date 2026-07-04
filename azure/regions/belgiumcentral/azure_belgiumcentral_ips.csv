@@ -1,4 +1,6 @@
 ip_address,ip_type,service,region
+9.129.51.0/26,IPv4,AzureCloud.belgiumcentral,belgiumcentral
+9.129.54.192/27,IPv4,AzureCloud.belgiumcentral,belgiumcentral
 9.160.0.0/17,IPv4,AzureCloud.belgiumcentral,belgiumcentral
 9.160.17.0/29,IPv4,AppServiceManagement.BelgiumCentral,belgiumcentral
 9.160.40.16/30,IPv4,AzureBotService.BelgiumCentral,belgiumcentral

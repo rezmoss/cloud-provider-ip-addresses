@@ -6,6 +6,12 @@
     "region": "germanyn"
   },
   {
+    "ip_address": "9.129.42.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
     "ip_address": "13.104.144.96/27",
     "ip_type": "IPv4",
     "service": "AzureCloud.germanyn",

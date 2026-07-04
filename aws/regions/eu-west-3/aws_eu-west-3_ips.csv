@@ -80,6 +80,7 @@ ip_address,ip_type,service,region
 18.98.66.128/25,IPv4,AURORA_DSQL,eu-west-3
 32.240.0.0/15,IPv4,AMAZON,eu-west-3
 35.34.105.0/24,IPv4,AMAZON,eu-west-3
+35.34.105.0/24,IPv4,GLOBALACCELERATOR,eu-west-3
 35.55.22.0/24,IPv4,AMAZON,eu-west-3
 35.55.22.0/24,IPv4,EC2,eu-west-3
 35.55.22.0/24,IPv4,IVS_REALTIME,eu-west-3

@@ -1416,12 +1416,6 @@
     "region": "southindia"
   },
   {
-    "ip_address": "52.172.33.114/32",
-    "ip_type": "IPv4",
-    "service": "ActionGroup.SouthIndia",
-    "region": "southindia"
-  },
-  {
     "ip_address": "52.172.54.225/32",
     "ip_type": "IPv4",
     "service": "AppService.SouthIndia",
@@ -2103,12 +2097,6 @@
     "ip_address": "104.211.228.68/32",
     "ip_type": "IPv4",
     "service": "ServiceFabric.SouthIndia",
-    "region": "southindia"
-  },
-  {
-    "ip_address": "104.211.231.103/32",
-    "ip_type": "IPv4",
-    "service": "ActionGroup.SouthIndia",
     "region": "southindia"
   },
   {

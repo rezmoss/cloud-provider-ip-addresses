@@ -7,6 +7,8 @@ CREATE TABLE IF NOT EXISTS `azure_azurecloud.japanwest_ips` (
 );
 
 INSERT INTO `azure_azurecloud.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('4.190.128.0/17', 'IPv4');
+INSERT INTO `azure_azurecloud.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('9.129.43.0/25', 'IPv4');
+INSERT INTO `azure_azurecloud.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('9.129.58.0/28', 'IPv4');
 INSERT INTO `azure_azurecloud.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('13.73.232.0/21', 'IPv4');
 INSERT INTO `azure_azurecloud.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('13.105.106.160/27', 'IPv4');
 INSERT INTO `azure_azurecloud.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('13.105.106.192/28', 'IPv4');

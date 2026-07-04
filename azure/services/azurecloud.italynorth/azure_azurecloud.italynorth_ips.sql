@@ -11,6 +11,10 @@ INSERT INTO `azure_azurecloud.italynorth_ips` (`ip_address`, `ip_type`) VALUES (
 INSERT INTO `azure_azurecloud.italynorth_ips` (`ip_address`, `ip_type`) VALUES ('4.232.192.0/21', 'IPv4');
 INSERT INTO `azure_azurecloud.italynorth_ips` (`ip_address`, `ip_type`) VALUES ('4.232.208.0/20', 'IPv4');
 INSERT INTO `azure_azurecloud.italynorth_ips` (`ip_address`, `ip_type`) VALUES ('4.232.224.0/19', 'IPv4');
+INSERT INTO `azure_azurecloud.italynorth_ips` (`ip_address`, `ip_type`) VALUES ('9.129.38.0/24', 'IPv4');
+INSERT INTO `azure_azurecloud.italynorth_ips` (`ip_address`, `ip_type`) VALUES ('9.129.42.128/25', 'IPv4');
+INSERT INTO `azure_azurecloud.italynorth_ips` (`ip_address`, `ip_type`) VALUES ('9.129.56.32/27', 'IPv4');
+INSERT INTO `azure_azurecloud.italynorth_ips` (`ip_address`, `ip_type`) VALUES ('9.129.57.192/28', 'IPv4');
 INSERT INTO `azure_azurecloud.italynorth_ips` (`ip_address`, `ip_type`) VALUES ('9.235.0.0/16', 'IPv4');
 INSERT INTO `azure_azurecloud.italynorth_ips` (`ip_address`, `ip_type`) VALUES ('13.105.105.144/28', 'IPv4');
 INSERT INTO `azure_azurecloud.italynorth_ips` (`ip_address`, `ip_type`) VALUES ('13.105.105.192/26', 'IPv4');

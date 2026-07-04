@@ -8,9 +8,7 @@ CREATE TABLE IF NOT EXISTS `azure_actiongroup.northcentralus_ips` (
 
 INSERT INTO `azure_actiongroup.northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('13.106.38.142/32', 'IPv4');
 INSERT INTO `azure_actiongroup.northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('13.106.38.148/32', 'IPv4');
-INSERT INTO `azure_actiongroup.northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('20.125.199.59/32', 'IPv4');
 INSERT INTO `azure_actiongroup.northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('20.135.70.51/32', 'IPv4');
-INSERT INTO `azure_actiongroup.northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('20.221.192.80/32', 'IPv4');
 INSERT INTO `azure_actiongroup.northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('52.240.244.140/30', 'IPv4');
 INSERT INTO `azure_actiongroup.northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('104.47.217.151/32', 'IPv4');
 INSERT INTO `azure_actiongroup.northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('104.47.240.167/32', 'IPv4');

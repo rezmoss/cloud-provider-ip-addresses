@@ -1953,6 +1953,8 @@ INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('170.33.139.0
 INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('170.33.144.0/24', 'IPv4');
 INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('170.33.152.0/24', 'IPv4');
 INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('170.33.160.0/24', 'IPv4');
+INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('170.33.168.0/24', 'IPv4');
+INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('170.33.169.0/24', 'IPv4');
 INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('170.33.200.0/24', 'IPv4');
 INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('170.33.201.0/24', 'IPv4');
 INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('170.33.202.0/24', 'IPv4');

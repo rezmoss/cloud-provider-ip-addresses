@@ -450,10 +450,58 @@
     "region": "eu-west-2"
   },
   {
+    "ip_address": "35.34.97.0/24",
+    "ip_type": "IPv4",
+    "service": "GLOBALACCELERATOR",
+    "region": "us-west-2"
+  },
+  {
     "ip_address": "35.34.98.0/24",
     "ip_type": "IPv4",
     "service": "GLOBALACCELERATOR",
     "region": "ap-south-1"
+  },
+  {
+    "ip_address": "35.34.99.0/24",
+    "ip_type": "IPv4",
+    "service": "GLOBALACCELERATOR",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "35.34.100.0/24",
+    "ip_type": "IPv4",
+    "service": "GLOBALACCELERATOR",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "35.34.101.0/24",
+    "ip_type": "IPv4",
+    "service": "GLOBALACCELERATOR",
+    "region": "us-west-1"
+  },
+  {
+    "ip_address": "35.34.102.0/24",
+    "ip_type": "IPv4",
+    "service": "GLOBALACCELERATOR",
+    "region": "ap-east-1"
+  },
+  {
+    "ip_address": "35.34.103.0/24",
+    "ip_type": "IPv4",
+    "service": "GLOBALACCELERATOR",
+    "region": "ap-northeast-2"
+  },
+  {
+    "ip_address": "35.34.104.0/24",
+    "ip_type": "IPv4",
+    "service": "GLOBALACCELERATOR",
+    "region": "ap-southeast-4"
+  },
+  {
+    "ip_address": "35.34.105.0/24",
+    "ip_type": "IPv4",
+    "service": "GLOBALACCELERATOR",
+    "region": "eu-west-3"
   },
   {
     "ip_address": "35.71.128.0/17",
@@ -682,6 +730,36 @@
     "ip_type": "IPv4",
     "service": "GLOBALACCELERATOR",
     "region": "ap-southeast-1"
+  },
+  {
+    "ip_address": "99.83.105.0/24",
+    "ip_type": "IPv4",
+    "service": "GLOBALACCELERATOR",
+    "region": "eu-west-1"
+  },
+  {
+    "ip_address": "99.83.106.0/24",
+    "ip_type": "IPv4",
+    "service": "GLOBALACCELERATOR",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "99.83.107.0/24",
+    "ip_type": "IPv4",
+    "service": "GLOBALACCELERATOR",
+    "region": "eu-south-1"
+  },
+  {
+    "ip_address": "99.83.108.0/24",
+    "ip_type": "IPv4",
+    "service": "GLOBALACCELERATOR",
+    "region": "eu-south-1"
+  },
+  {
+    "ip_address": "99.83.109.0/24",
+    "ip_type": "IPv4",
+    "service": "GLOBALACCELERATOR",
+    "region": "eu-south-1"
   },
   {
     "ip_address": "99.83.128.0/17",

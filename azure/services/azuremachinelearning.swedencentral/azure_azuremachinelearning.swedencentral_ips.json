@@ -66,6 +66,18 @@
     "region": "swedencentral"
   },
   {
+    "ip_address": "172.160.154.16/28",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "172.160.154.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
     "ip_address": "2603:1020:1004::2c0/122",
     "ip_type": "IPv6",
     "service": "AzureMachineLearning.SwedenCentral",

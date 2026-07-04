@@ -2976,9 +2976,21 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "35.34.99.0/24",
+    "ip_type": "IPv4",
+    "service": "GLOBALACCELERATOR",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "35.34.100.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "35.34.100.0/24",
+    "ip_type": "IPv4",
+    "service": "GLOBALACCELERATOR",
     "region": "us-east-1"
   },
   {
@@ -6633,6 +6645,12 @@
     "ip_address": "99.83.106.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "99.83.106.0/24",
+    "ip_type": "IPv4",
+    "service": "GLOBALACCELERATOR",
     "region": "us-east-1"
   },
   {

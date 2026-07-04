@@ -690,6 +690,18 @@
     "region": "northeurope"
   },
   {
+    "ip_address": "9.129.54.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.northeurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "9.129.55.96/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.northeurope",
+    "region": "northeurope"
+  },
+  {
     "ip_address": "13.69.128.0/17",
     "ip_type": "IPv4",
     "service": "AzureCloud.northeurope",

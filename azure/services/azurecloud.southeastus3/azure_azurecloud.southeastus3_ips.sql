@@ -6,6 +6,8 @@ CREATE TABLE IF NOT EXISTS `azure_azurecloud.southeastus3_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_azurecloud.southeastus3_ips` (`ip_address`, `ip_type`) VALUES ('9.129.45.0/25', 'IPv4');
+INSERT INTO `azure_azurecloud.southeastus3_ips` (`ip_address`, `ip_type`) VALUES ('9.129.58.96/28', 'IPv4');
 INSERT INTO `azure_azurecloud.southeastus3_ips` (`ip_address`, `ip_type`) VALUES ('20.20.52.128/27', 'IPv4');
 INSERT INTO `azure_azurecloud.southeastus3_ips` (`ip_address`, `ip_type`) VALUES ('20.33.119.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.southeastus3_ips` (`ip_address`, `ip_type`) VALUES ('20.38.51.0/24', 'IPv4');
@@ -22,6 +24,7 @@ INSERT INTO `azure_azurecloud.southeastus3_ips` (`ip_address`, `ip_type`) VALUES
 INSERT INTO `azure_azurecloud.southeastus3_ips` (`ip_address`, `ip_type`) VALUES ('57.157.17.0/27', 'IPv4');
 INSERT INTO `azure_azurecloud.southeastus3_ips` (`ip_address`, `ip_type`) VALUES ('57.157.17.32/28', 'IPv4');
 INSERT INTO `azure_azurecloud.southeastus3_ips` (`ip_address`, `ip_type`) VALUES ('57.157.17.48/30', 'IPv4');
+INSERT INTO `azure_azurecloud.southeastus3_ips` (`ip_address`, `ip_type`) VALUES ('57.157.17.52/31', 'IPv4');
 INSERT INTO `azure_azurecloud.southeastus3_ips` (`ip_address`, `ip_type`) VALUES ('74.7.0.0/17', 'IPv4');
 INSERT INTO `azure_azurecloud.southeastus3_ips` (`ip_address`, `ip_type`) VALUES ('135.130.124.0/23', 'IPv4');
 INSERT INTO `azure_azurecloud.southeastus3_ips` (`ip_address`, `ip_type`) VALUES ('135.130.144.0/23', 'IPv4');
@@ -37,6 +40,7 @@ INSERT INTO `azure_azurecloud.southeastus3_ips` (`ip_address`, `ip_type`) VALUES
 INSERT INTO `azure_azurecloud.southeastus3_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1018::/57', 'IPv6');
 INSERT INTO `azure_azurecloud.southeastus3_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1018:80::/60', 'IPv6');
 INSERT INTO `azure_azurecloud.southeastus3_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1018:90::/63', 'IPv6');
+INSERT INTO `azure_azurecloud.southeastus3_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1018:92::/64', 'IPv6');
 INSERT INTO `azure_azurecloud.southeastus3_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1312:5800::/54', 'IPv6');
 INSERT INTO `azure_azurecloud.southeastus3_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:174a::/63', 'IPv6');
 INSERT INTO `azure_azurecloud.southeastus3_ips` (`ip_address`, `ip_type`) VALUES ('2603:1063:2206:4c::/64', 'IPv6');

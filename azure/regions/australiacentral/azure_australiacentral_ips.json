@@ -138,6 +138,18 @@
     "region": "australiacentral"
   },
   {
+    "ip_address": "9.129.51.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.australiacentral",
+    "region": "australiacentral"
+  },
+  {
+    "ip_address": "9.129.57.160/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.australiacentral",
+    "region": "australiacentral"
+  },
+  {
     "ip_address": "13.104.155.128/26",
     "ip_type": "IPv4",
     "service": "AzureCloud.australiacentral",

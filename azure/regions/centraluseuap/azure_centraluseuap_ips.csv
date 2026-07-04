@@ -123,8 +123,6 @@ ip_address,ip_type,service,region
 20.228.6.128/25,IPv4,AzureCosmosDB.CentralUSEUAP,centraluseuap
 20.228.7.0/25,IPv4,DataFactory.CentralUSEUAP,centraluseuap
 20.228.7.128/26,IPv4,DataFactory.CentralUSEUAP,centraluseuap
-20.228.34.17/32,IPv4,ActionGroup.CentralUSEUAP,centraluseuap
-20.228.34.19/32,IPv4,ActionGroup.CentralUSEUAP,centraluseuap
 20.228.37.79/32,IPv4,AzureConnectors.CentralUSEUAP,centraluseuap
 40.64.175.0/25,IPv4,AzureCloud.centraluseuap,centraluseuap
 40.66.120.0/21,IPv4,AzureCloud.centraluseuap,centraluseuap

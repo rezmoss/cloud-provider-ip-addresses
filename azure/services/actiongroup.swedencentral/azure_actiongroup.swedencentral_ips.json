@@ -1,11 +1,5 @@
 [
   {
-    "ip_address": "20.240.1.100/31",
-    "ip_type": "IPv4",
-    "service": "ActionGroup.SwedenCentral",
-    "region": "swedencentral"
-  },
-  {
     "ip_address": "51.12.101.172/30",
     "ip_type": "IPv4",
     "service": "ActionGroup.SwedenCentral",

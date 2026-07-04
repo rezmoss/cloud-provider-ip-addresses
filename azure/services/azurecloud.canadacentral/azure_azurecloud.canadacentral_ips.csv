@@ -6,6 +6,9 @@ ip_address,ip_type,service,region
 4.229.128.0/17,IPv4,AzureCloud.canadacentral,canadacentral
 4.239.128.0/17,IPv4,AzureCloud.canadacentral,canadacentral
 4.248.128.0/17,IPv4,AzureCloud.canadacentral,canadacentral
+9.129.51.64/26,IPv4,AzureCloud.canadacentral,canadacentral
+9.129.55.64/27,IPv4,AzureCloud.canadacentral,canadacentral
+9.129.58.128/28,IPv4,AzureCloud.canadacentral,canadacentral
 13.71.160.0/19,IPv4,AzureCloud.canadacentral,canadacentral
 13.88.224.0/19,IPv4,AzureCloud.canadacentral,canadacentral
 13.104.151.192/26,IPv4,AzureCloud.canadacentral,canadacentral
