@@ -1,5 +1,5 @@
 # googlecloud IP ranges - ipset restore format (hash:net)
-# Version: 3 | Generated: 2026-07-04 | Last changed: 2026-07-01
+# Version: 3 | Generated: 2026-07-05 | Last changed: 2026-07-01
 # IPv4: 435 merged subnets, 19084672 unique IPs
 # IPv6: 20 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses

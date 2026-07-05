@@ -1,5 +1,5 @@
 # googlebot IP ranges - ipset restore format (hash:net)
-# Version: 1 | Generated: 2026-07-04 | Last changed: 2026-06-18
+# Version: 1 | Generated: 2026-07-05 | Last changed: 2026-06-18
 # IPv4: 41 merged subnets, 5056 unique IPs
 # IPv6: 24 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses

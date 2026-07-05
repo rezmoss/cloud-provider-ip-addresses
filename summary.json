@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-04T03:17:18.717108",
+  "generated": "2026-07-05T03:20:37.604888",
   "provider_count": 37,
-  "total_ipv4_addresses": 408454111,
+  "total_ipv4_addresses": 408454638,
   "total_ipv6_addresses": 5296287241332817640357798579035405,
   "ipv4_space_coverage_pct": 9.5101,
   "providers": {
@@ -15,10 +15,10 @@
       "regions": 0
     },
     "aws": {
-      "ipv4_cidrs": 10612,
+      "ipv4_cidrs": 10614,
       "ipv6_cidrs": 5812,
-      "total_cidrs": 16424,
-      "ipv4_addresses": 184943502,
+      "total_cidrs": 16426,
+      "ipv4_addresses": 184944014,
       "ipv6_addresses": 3307930291596930296562260639757,
       "services": 27,
       "regions": 43
@@ -321,10 +321,10 @@
       "regions": 1
     },
     "tor": {
-      "ipv4_cidrs": 1355,
+      "ipv4_cidrs": 1370,
       "ipv6_cidrs": 0,
-      "total_cidrs": 1355,
-      "ipv4_addresses": 1355,
+      "total_cidrs": 1370,
+      "ipv4_addresses": 1370,
       "ipv6_addresses": 0,
       "services": 1,
       "regions": 1

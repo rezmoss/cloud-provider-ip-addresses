@@ -1,7 +1,7 @@
 {
   "provider": "mullvad",
   "version": 5,
-  "generated_date": "2026-07-04",
+  "generated_date": "2026-07-05",
   "last_changed_date": "2026-07-03",
   "sources": [
     "https://api.mullvad.net/www/relays/all/"

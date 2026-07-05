@@ -1,7 +1,7 @@
 {
   "provider": "zoom",
   "version": 1,
-  "generated_date": "2026-07-04",
+  "generated_date": "2026-07-05",
   "last_changed_date": "2026-06-18",
   "sources": [
     "https://assets.zoom.us/docs/ipranges/Zoom.txt",
