@@ -77,6 +77,11 @@ INSERT INTO `apple_private_relay_au-nsw_ips` (`ip_address`, `ip_type`) VALUES ('
 INSERT INTO `apple_private_relay_au-nsw_ips` (`ip_address`, `ip_type`) VALUES ('104.28.125.29/32', 'IPv4');
 INSERT INTO `apple_private_relay_au-nsw_ips` (`ip_address`, `ip_type`) VALUES ('104.28.125.30/32', 'IPv4');
 INSERT INTO `apple_private_relay_au-nsw_ips` (`ip_address`, `ip_type`) VALUES ('104.28.137.110/32', 'IPv4');
+INSERT INTO `apple_private_relay_au-nsw_ips` (`ip_address`, `ip_type`) VALUES ('104.28.137.134/32', 'IPv4');
+INSERT INTO `apple_private_relay_au-nsw_ips` (`ip_address`, `ip_type`) VALUES ('104.28.137.135/32', 'IPv4');
+INSERT INTO `apple_private_relay_au-nsw_ips` (`ip_address`, `ip_type`) VALUES ('104.28.137.136/32', 'IPv4');
+INSERT INTO `apple_private_relay_au-nsw_ips` (`ip_address`, `ip_type`) VALUES ('104.28.137.137/32', 'IPv4');
+INSERT INTO `apple_private_relay_au-nsw_ips` (`ip_address`, `ip_type`) VALUES ('104.28.137.138/32', 'IPv4');
 INSERT INTO `apple_private_relay_au-nsw_ips` (`ip_address`, `ip_type`) VALUES ('104.28.143.68/32', 'IPv4');
 INSERT INTO `apple_private_relay_au-nsw_ips` (`ip_address`, `ip_type`) VALUES ('104.28.143.73/32', 'IPv4');
 INSERT INTO `apple_private_relay_au-nsw_ips` (`ip_address`, `ip_type`) VALUES ('104.28.144.92/32', 'IPv4');

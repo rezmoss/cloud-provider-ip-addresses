@@ -630,6 +630,31 @@
     "region": "US-VA"
   },
   {
+    "ip_address": "104.28.137.127/32",
+    "ip_type": "IPv4",
+    "region": "US-VA"
+  },
+  {
+    "ip_address": "104.28.137.128/32",
+    "ip_type": "IPv4",
+    "region": "US-VA"
+  },
+  {
+    "ip_address": "104.28.137.129/32",
+    "ip_type": "IPv4",
+    "region": "US-VA"
+  },
+  {
+    "ip_address": "104.28.137.130/32",
+    "ip_type": "IPv4",
+    "region": "US-VA"
+  },
+  {
+    "ip_address": "104.28.137.139/32",
+    "ip_type": "IPv4",
+    "region": "US-VA"
+  },
+  {
     "ip_address": "104.28.139.6/32",
     "ip_type": "IPv4",
     "region": "US-VA"

@@ -330,6 +330,11 @@
     "region": "CA-QC"
   },
   {
+    "ip_address": "104.28.137.132/32",
+    "ip_type": "IPv4",
+    "region": "CA-QC"
+  },
+  {
     "ip_address": "104.28.141.180/32",
     "ip_type": "IPv4",
     "region": "CA-QC"

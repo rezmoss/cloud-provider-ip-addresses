@@ -72,6 +72,7 @@ INSERT INTO `apple_private_relay_ca-qc_ips` (`ip_address`, `ip_type`) VALUES ('1
 INSERT INTO `apple_private_relay_ca-qc_ips` (`ip_address`, `ip_type`) VALUES ('104.28.133.46/32', 'IPv4');
 INSERT INTO `apple_private_relay_ca-qc_ips` (`ip_address`, `ip_type`) VALUES ('104.28.133.47/32', 'IPv4');
 INSERT INTO `apple_private_relay_ca-qc_ips` (`ip_address`, `ip_type`) VALUES ('104.28.133.48/32', 'IPv4');
+INSERT INTO `apple_private_relay_ca-qc_ips` (`ip_address`, `ip_type`) VALUES ('104.28.137.132/32', 'IPv4');
 INSERT INTO `apple_private_relay_ca-qc_ips` (`ip_address`, `ip_type`) VALUES ('104.28.141.180/32', 'IPv4');
 INSERT INTO `apple_private_relay_ca-qc_ips` (`ip_address`, `ip_type`) VALUES ('104.28.141.181/32', 'IPv4');
 INSERT INTO `apple_private_relay_ca-qc_ips` (`ip_address`, `ip_type`) VALUES ('104.28.141.182/32', 'IPv4');

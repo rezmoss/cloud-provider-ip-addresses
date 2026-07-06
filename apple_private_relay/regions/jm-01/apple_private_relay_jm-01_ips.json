@@ -70,6 +70,11 @@
     "region": "JM-01"
   },
   {
+    "ip_address": "104.28.137.133/32",
+    "ip_type": "IPv4",
+    "region": "JM-01"
+  },
+  {
     "ip_address": "104.28.150.239/32",
     "ip_type": "IPv4",
     "region": "JM-01"

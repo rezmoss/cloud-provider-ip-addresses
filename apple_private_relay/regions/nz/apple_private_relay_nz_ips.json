@@ -20,6 +20,11 @@
     "region": "NZ"
   },
   {
+    "ip_address": "104.28.137.131/32",
+    "ip_type": "IPv4",
+    "region": "NZ"
+  },
+  {
     "ip_address": "104.28.142.205/32",
     "ip_type": "IPv4",
     "region": "NZ"

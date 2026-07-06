@@ -10,6 +10,7 @@ INSERT INTO `apple_private_relay_nz_ips` (`ip_address`, `ip_type`) VALUES ('104.
 INSERT INTO `apple_private_relay_nz_ips` (`ip_address`, `ip_type`) VALUES ('104.28.125.84/32', 'IPv4');
 INSERT INTO `apple_private_relay_nz_ips` (`ip_address`, `ip_type`) VALUES ('104.28.125.85/32', 'IPv4');
 INSERT INTO `apple_private_relay_nz_ips` (`ip_address`, `ip_type`) VALUES ('104.28.136.220/32', 'IPv4');
+INSERT INTO `apple_private_relay_nz_ips` (`ip_address`, `ip_type`) VALUES ('104.28.137.131/32', 'IPv4');
 INSERT INTO `apple_private_relay_nz_ips` (`ip_address`, `ip_type`) VALUES ('104.28.142.205/32', 'IPv4');
 INSERT INTO `apple_private_relay_nz_ips` (`ip_address`, `ip_type`) VALUES ('104.28.146.182/32', 'IPv4');
 INSERT INTO `apple_private_relay_nz_ips` (`ip_address`, `ip_type`) VALUES ('104.28.146.183/32', 'IPv4');
