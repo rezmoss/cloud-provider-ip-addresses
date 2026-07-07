@@ -3564,6 +3564,18 @@
     "region": "GLOBAL"
   },
   {
+    "ip_address": "2600:f0f2:7400::/38",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "GLOBAL"
+  },
+  {
+    "ip_address": "2600:f0f2:7400::/38",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "GLOBAL"
+  },
+  {
     "ip_address": "2605:9cc0:1ff0:1000::/52",
     "ip_type": "IPv6",
     "service": "AMAZON",

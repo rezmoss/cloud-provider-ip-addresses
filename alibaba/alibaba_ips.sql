@@ -2275,6 +2275,7 @@ INSERT INTO `alibaba_ips` (`ip_address`, `ip_type`) VALUES ('2408:4011::/32', 'I
 INSERT INTO `alibaba_ips` (`ip_address`, `ip_type`) VALUES ('2408:4011::/33', 'IPv6');
 INSERT INTO `alibaba_ips` (`ip_address`, `ip_type`) VALUES ('2408:4011:8000::/33', 'IPv6');
 INSERT INTO `alibaba_ips` (`ip_address`, `ip_type`) VALUES ('2408:4015::/32', 'IPv6');
+INSERT INTO `alibaba_ips` (`ip_address`, `ip_type`) VALUES ('2408:4016::/48', 'IPv6');
 INSERT INTO `alibaba_ips` (`ip_address`, `ip_type`) VALUES ('2408:4016:3::/48', 'IPv6');
 INSERT INTO `alibaba_ips` (`ip_address`, `ip_type`) VALUES ('2408:4017::/32', 'IPv6');
 INSERT INTO `alibaba_ips` (`ip_address`, `ip_type`) VALUES ('2408:4017::/33', 'IPv6');

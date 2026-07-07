@@ -2,6 +2,40 @@
 
 Daily IP range changes across all providers.
 
+## 2026-07-07
+
+### aws
+- Added: 6 CIDRs
+- Removed: 0 CIDRs
+
+### gptbot
+- Added: 1 CIDRs
+- Removed: 1 CIDRs
+
+### duckduckbot
+- Added: 72 CIDRs
+- Removed: 0 CIDRs
+
+### meta
+- Added: 0 CIDRs
+- Removed: 3 CIDRs
+
+### alibaba
+- Added: 1 CIDRs
+- Removed: 0 CIDRs
+
+### tor
+- Added: 10 CIDRs
+- Removed: 6 CIDRs
+
+### ovhcloud
+- Added: 5 CIDRs
+- Removed: 0 CIDRs
+
+### github
+- Added: 103 CIDRs
+- Removed: 179 CIDRs
+
 ## 2026-07-06
 
 ### apple_private_relay

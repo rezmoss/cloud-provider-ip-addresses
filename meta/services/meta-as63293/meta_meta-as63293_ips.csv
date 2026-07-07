@@ -170,6 +170,5 @@ ip_address,ip_type,service,region
 2c0f:ef78:9::/48,IPv6,meta-as63293,global
 2c0f:ef78:c::/48,IPv6,meta-as63293,global
 2c0f:ef78:d::/48,IPv6,meta-as63293,global
-2c0f:ef78:e::/48,IPv6,meta-as63293,global
 2c0f:ef78:10::/48,IPv6,meta-as63293,global
 2c0f:ef78:11::/48,IPv6,meta-as63293,global

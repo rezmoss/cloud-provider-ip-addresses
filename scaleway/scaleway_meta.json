@@ -1,7 +1,7 @@
 {
   "provider": "scaleway",
   "version": 1,
-  "generated_date": "2026-07-06",
+  "generated_date": "2026-07-07",
   "last_changed_date": "2026-06-18",
   "sources": [
     "BGP announced prefixes via RIPE NCC RIPEstat"
