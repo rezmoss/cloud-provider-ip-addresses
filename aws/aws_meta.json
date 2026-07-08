@@ -1,23 +1,23 @@
 {
   "provider": "aws",
-  "version": 17,
-  "generated_date": "2026-07-07",
-  "last_changed_date": "2026-07-07",
+  "version": 18,
+  "generated_date": "2026-07-08",
+  "last_changed_date": "2026-07-08",
   "sources": [
     "https://ip-ranges.amazonaws.com/ip-ranges.json"
   ],
   "ipv4": {
-    "cidrs": 10617,
-    "merged_cidrs": 1764,
-    "addresses": 101898808
+    "cidrs": 10619,
+    "merged_cidrs": 1765,
+    "addresses": 101899064
   },
   "ipv6": {
-    "cidrs": 5816,
-    "merged_cidrs": 2053,
-    "addresses": 1626248412579687384096352239629
+    "cidrs": 5806,
+    "merged_cidrs": 2057,
+    "addresses": 1631279135426788968533566947341
   },
-  "total_entries": 16433,
-  "content_sha256": "259956442a43045531d11cb98dc8add8e7645c7ab1d5a28fc99bfca3f9b32924",
+  "total_entries": 16425,
+  "content_sha256": "0664d9aa26cb7cbb2df778db47984d21bda183f28a27b0b1bf69b76ff74e71b4",
   "license": "CC0-1.0",
   "license_url": "https://github.com/rezmoss/cloud-provider-ip-addresses/blob/main/LICENSE"
 }

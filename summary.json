@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-07T03:20:00.108331",
+  "generated": "2026-07-08T03:17:11.464087",
   "provider_count": 37,
-  "total_ipv4_addresses": 408531983,
-  "total_ipv6_addresses": 5296290334974949264885689548823821,
+  "total_ipv4_addresses": 408533013,
+  "total_ipv6_addresses": 5296300397629569287669193152945422,
   "ipv4_space_coverage_pct": 9.5119,
   "providers": {
     "cloudflare": {
@@ -15,11 +15,11 @@
       "regions": 0
     },
     "aws": {
-      "ipv4_cidrs": 10617,
-      "ipv6_cidrs": 5816,
-      "total_cidrs": 16433,
-      "ipv4_addresses": 184944622,
-      "ipv6_addresses": 3311025141695143747249508450317,
+      "ipv4_cidrs": 10619,
+      "ipv6_cidrs": 5806,
+      "total_cidrs": 16425,
+      "ipv4_addresses": 184945134,
+      "ipv6_addresses": 3321086587389346916123937865741,
       "services": 27,
       "regions": 43
     },
@@ -267,11 +267,11 @@
       "regions": 1
     },
     "alibaba": {
-      "ipv4_cidrs": 2121,
-      "ipv6_cidrs": 238,
-      "total_cidrs": 2359,
-      "ipv4_addresses": 31133696,
-      "ipv6_addresses": 87800547906753727369388895502336,
+      "ipv4_cidrs": 2122,
+      "ipv6_cidrs": 239,
+      "total_cidrs": 2361,
+      "ipv4_addresses": 31133952,
+      "ipv6_addresses": 87800549115679546984018070208512,
       "services": 3,
       "regions": 1
     },
@@ -303,10 +303,10 @@
       "regions": 1
     },
     "ovhcloud": {
-      "ipv4_cidrs": 687,
+      "ipv4_cidrs": 688,
       "ipv6_cidrs": 42,
-      "total_cidrs": 729,
-      "ipv4_addresses": 4619264,
+      "total_cidrs": 730,
+      "ipv4_addresses": 4619520,
       "ipv6_addresses": 318191693574209628041014935552,
       "services": 1,
       "regions": 1
@@ -321,20 +321,20 @@
       "regions": 1
     },
     "tor": {
-      "ipv4_cidrs": 1378,
+      "ipv4_cidrs": 1383,
       "ipv6_cidrs": 0,
-      "total_cidrs": 1378,
-      "ipv4_addresses": 1378,
+      "total_cidrs": 1383,
+      "ipv4_addresses": 1383,
       "ipv6_addresses": 0,
       "services": 1,
       "regions": 1
     },
     "mullvad": {
-      "ipv4_cidrs": 567,
-      "ipv6_cidrs": 557,
-      "total_cidrs": 1124,
-      "ipv4_addresses": 567,
-      "ipv6_addresses": 557,
+      "ipv4_cidrs": 568,
+      "ipv6_cidrs": 558,
+      "total_cidrs": 1126,
+      "ipv4_addresses": 568,
+      "ipv6_addresses": 558,
       "services": 2,
       "regions": 50
     }

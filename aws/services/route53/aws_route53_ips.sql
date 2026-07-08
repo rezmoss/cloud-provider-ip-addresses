@@ -33,7 +33,11 @@ INSERT INTO `aws_route53_ips` (`ip_address`, `ip_type`) VALUES ('2001:3fc6:8::/4
 INSERT INTO `aws_route53_ips` (`ip_address`, `ip_type`) VALUES ('2001:3fc6:a::/47', 'IPv6');
 INSERT INTO `aws_route53_ips` (`ip_address`, `ip_type`) VALUES ('2001:3fc6:c::/47', 'IPv6');
 INSERT INTO `aws_route53_ips` (`ip_address`, `ip_type`) VALUES ('2001:3fc6:e::/47', 'IPv6');
+INSERT INTO `aws_route53_ips` (`ip_address`, `ip_type`) VALUES ('2600:9000:de0::/43', 'IPv6');
+INSERT INTO `aws_route53_ips` (`ip_address`, `ip_type`) VALUES ('2600:9000:fc0::/43', 'IPv6');
+INSERT INTO `aws_route53_ips` (`ip_address`, `ip_type`) VALUES ('2600:9000:ff8::/46', 'IPv6');
 INSERT INTO `aws_route53_ips` (`ip_address`, `ip_type`) VALUES ('2600:9000:5300::/45', 'IPv6');
+INSERT INTO `aws_route53_ips` (`ip_address`, `ip_type`) VALUES ('2600:9000:7000::/36', 'IPv6');
 INSERT INTO `aws_route53_ips` (`ip_address`, `ip_type`) VALUES ('2600:9000:f530::/46', 'IPv6');
 INSERT INTO `aws_route53_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f0:400::/44', 'IPv6');
 INSERT INTO `aws_route53_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f2:7000::/44', 'IPv6');
