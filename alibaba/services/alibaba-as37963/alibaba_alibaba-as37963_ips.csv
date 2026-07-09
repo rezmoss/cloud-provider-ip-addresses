@@ -709,6 +709,10 @@ ip_address,ip_type,service,region
 203.107.86.0/24,IPv4,alibaba-as37963,global
 203.107.87.0/24,IPv4,alibaba-as37963,global
 203.107.96.0/23,IPv4,alibaba-as37963,global
+203.107.112.0/22,IPv4,alibaba-as37963,global
+203.107.112.0/23,IPv4,alibaba-as37963,global
+203.107.112.0/24,IPv4,alibaba-as37963,global
+203.107.114.0/23,IPv4,alibaba-as37963,global
 203.107.116.0/22,IPv4,alibaba-as37963,global
 203.107.116.0/23,IPv4,alibaba-as37963,global
 203.107.116.0/24,IPv4,alibaba-as37963,global

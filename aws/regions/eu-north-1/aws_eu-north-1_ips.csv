@@ -104,6 +104,7 @@ ip_address,ip_type,service,region
 16.171.80.0/22,IPv4,AMAZON,eu-north-1
 16.192.0.0/16,IPv4,AMAZON,eu-north-1
 16.192.0.0/16,IPv4,EC2,eu-north-1
+16.192.132.0/23,IPv4,AMAZON,eu-north-1
 16.193.0.0/16,IPv4,AMAZON,eu-north-1
 16.194.0.0/16,IPv4,AMAZON,eu-north-1
 16.195.0.0/16,IPv4,AMAZON,eu-north-1

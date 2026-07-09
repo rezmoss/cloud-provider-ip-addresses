@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "135.136.55.2/32",
+    "ip_type": "IPv4",
+    "service": "mullvad-wireguard",
+    "region": "jp"
+  },
+  {
     "ip_address": "138.199.21.226/32",
     "ip_type": "IPv4",
     "service": "mullvad-wireguard",
@@ -12,19 +18,13 @@
     "region": "jp"
   },
   {
-    "ip_address": "146.70.138.194/32",
-    "ip_type": "IPv4",
-    "service": "mullvad-wireguard",
-    "region": "jp"
-  },
-  {
     "ip_address": "146.70.201.2/32",
     "ip_type": "IPv4",
     "service": "mullvad-wireguard",
     "region": "jp"
   },
   {
-    "ip_address": "146.70.201.66/32",
+    "ip_address": "146.70.201.130/32",
     "ip_type": "IPv4",
     "service": "mullvad-wireguard",
     "region": "jp"
@@ -60,19 +60,19 @@
     "region": "jp"
   },
   {
-    "ip_address": "2001:ac8:40:11::b01f/128",
+    "ip_address": "2001:ac8:40:13::f001/128",
     "ip_type": "IPv6",
     "service": "mullvad-wireguard",
     "region": "jp"
   },
   {
-    "ip_address": "2001:ac8:40:13::b02f/128",
+    "ip_address": "2001:ac8:40:14::f001/128",
     "ip_type": "IPv6",
     "service": "mullvad-wireguard",
     "region": "jp"
   },
   {
-    "ip_address": "2001:ac8:40:14::b03f/128",
+    "ip_address": "2001:ac8:40:1d::f001/128",
     "ip_type": "IPv6",
     "service": "mullvad-wireguard",
     "region": "jp"

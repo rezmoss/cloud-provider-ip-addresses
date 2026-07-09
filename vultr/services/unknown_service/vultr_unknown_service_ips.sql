@@ -500,6 +500,7 @@ INSERT INTO `vultr_unknown_service_ips` (`ip_address`, `ip_type`) VALUES ('2a05:
 INSERT INTO `vultr_unknown_service_ips` (`ip_address`, `ip_type`) VALUES ('2a05:f487:fc00::/38', 'IPv6');
 INSERT INTO `vultr_unknown_service_ips` (`ip_address`, `ip_type`) VALUES ('2a05:f487:fc00::/48', 'IPv6');
 INSERT INTO `vultr_unknown_service_ips` (`ip_address`, `ip_type`) VALUES ('2a05:f487:fc01::/48', 'IPv6');
+INSERT INTO `vultr_unknown_service_ips` (`ip_address`, `ip_type`) VALUES ('2a05:f487:fc02::/48', 'IPv6');
 INSERT INTO `vultr_unknown_service_ips` (`ip_address`, `ip_type`) VALUES ('2a05:f487:fc03::/48', 'IPv6');
 INSERT INTO `vultr_unknown_service_ips` (`ip_address`, `ip_type`) VALUES ('2a05:f487:fc04::/48', 'IPv6');
 INSERT INTO `vultr_unknown_service_ips` (`ip_address`, `ip_type`) VALUES ('2a05:f487:fc05::/48', 'IPv6');

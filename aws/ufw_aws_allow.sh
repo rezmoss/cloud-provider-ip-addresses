@@ -1,6 +1,6 @@
 #!/bin/bash
 # Aws IP Ranges
-# Updated: 2026-07-08 03:11:18
+# Updated: 2026-07-09 03:13:51
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -13,7 +13,6 @@ ufw allow from 1.178.8.0/22
 ufw allow from 1.178.16.0/20
 ufw allow from 1.178.64.0/23
 ufw allow from 1.178.72.0/21
-ufw allow from 1.178.86.0/24
 ufw allow from 1.178.88.0/21
 ufw allow from 1.178.100.0/22
 ufw allow from 1.178.172.0/23
@@ -1289,10 +1288,7 @@ ufw allow from 64.66.136.0/21
 ufw allow from 64.66.144.0/20
 ufw allow from 64.66.160.0/23
 ufw allow from 64.66.162.0/24
-ufw allow from 64.73.192.0/21
-ufw allow from 64.73.200.0/24
-ufw allow from 64.73.202.0/23
-ufw allow from 64.73.204.0/22
+ufw allow from 64.73.192.0/20
 ufw allow from 64.73.208.0/21
 ufw allow from 64.73.216.0/24
 ufw allow from 64.187.128.0/20
@@ -3114,6 +3110,7 @@ ufw allow from 2600:f0f3:f010:200::/55
 ufw allow from 2600:f0fb:8000::/40
 ufw allow from 2600:f0fb:c000::/48
 ufw allow from 2600:f0fb:c002::/56
+ufw allow from 2600:f0fb:c800::/56
 ufw allow from 2600:f0fb:e000::/36
 ufw allow from 2600:f0fb:f000::/44
 ufw allow from 2600:f0fb:f020::/45
@@ -3267,6 +3264,7 @@ ufw allow from 2606:7b40:1a2c:330::/60
 ufw allow from 2606:7b40:1a2f::/60
 ufw allow from 2606:7b40:1a2f:c000::/60
 ufw allow from 2606:7b40:1a2f:c200::/60
+ufw allow from 2606:7b40:1a2f:c240::/60
 ufw allow from 2606:7b40:1a2f:c310::/60
 ufw allow from 2606:7b40:1a2f:c320::/59
 ufw allow from 2606:7b40:1a2f:c340::/60
@@ -3274,6 +3272,7 @@ ufw allow from 2606:7b40:1a3c:330::/60
 ufw allow from 2606:7b40:1a3f:4200::/60
 ufw allow from 2606:7b40:1a3f:c000::/60
 ufw allow from 2606:7b40:1a3f:c200::/60
+ufw allow from 2606:7b40:1a3f:c240::/60
 ufw allow from 2606:7b40:1a3f:c310::/60
 ufw allow from 2606:7b40:1a3f:c320::/59
 ufw allow from 2606:7b40:1a3f:c340::/60
@@ -3342,7 +3341,7 @@ ufw allow from 2606:7b40:1b20::/43
 ufw allow from 2606:7b40:1b40::/42
 ufw allow from 2606:7b40:1b80::/44
 ufw allow from 2606:7b40:1f00::/40
-ufw allow from 2606:7b40:3000::/49
+ufw allow from 2606:7b40:3000:4000::/50
 ufw allow from 2606:7b40:3001:c000::/52
 ufw allow from 2606:7b40:3002::/56
 ufw allow from 2606:7b40:3004:c000::/50

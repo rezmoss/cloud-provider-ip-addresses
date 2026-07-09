@@ -12,6 +12,12 @@
     "region": "gb"
   },
   {
+    "ip_address": "135.136.22.130/32",
+    "ip_type": "IPv4",
+    "service": "mullvad-wireguard",
+    "region": "gb"
+  },
+  {
     "ip_address": "135.136.58.130/32",
     "ip_type": "IPv4",
     "service": "mullvad-wireguard",
@@ -145,6 +151,12 @@
   },
   {
     "ip_address": "2001:ac8:8b:105::f001/128",
+    "ip_type": "IPv6",
+    "service": "mullvad-wireguard",
+    "region": "gb"
+  },
+  {
+    "ip_address": "2001:ac8:8b:106::f001/128",
     "ip_type": "IPv6",
     "service": "mullvad-wireguard",
     "region": "gb"

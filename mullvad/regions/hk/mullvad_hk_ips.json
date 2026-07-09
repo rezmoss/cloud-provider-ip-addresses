@@ -12,6 +12,12 @@
     "region": "hk"
   },
   {
+    "ip_address": "103.125.233.33/32",
+    "ip_type": "IPv4",
+    "service": "mullvad-wireguard",
+    "region": "hk"
+  },
+  {
     "ip_address": "103.125.233.210/32",
     "ip_type": "IPv4",
     "service": "mullvad-bridge",
@@ -61,6 +67,12 @@
   },
   {
     "ip_address": "2403:2c81:1000::a06f/128",
+    "ip_type": "IPv6",
+    "service": "mullvad-wireguard",
+    "region": "hk"
+  },
+  {
+    "ip_address": "2403:2c81:1000::f301/128",
     "ip_type": "IPv6",
     "service": "mullvad-wireguard",
     "region": "hk"

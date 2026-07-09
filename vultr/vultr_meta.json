@@ -1,8 +1,8 @@
 {
   "provider": "vultr",
-  "version": 2,
-  "generated_date": "2026-07-08",
-  "last_changed_date": "2026-07-03",
+  "version": 3,
+  "generated_date": "2026-07-09",
+  "last_changed_date": "2026-07-09",
   "sources": [
     "https://geofeed.constant.com/"
   ],
@@ -12,12 +12,12 @@
     "addresses": 1024768
   },
   "ipv6": {
-    "cidrs": 74,
+    "cidrs": 75,
     "merged_cidrs": 27,
     "addresses": 5193704397568420925517685808168960
   },
-  "total_entries": 512,
-  "content_sha256": "861cfaf3776a97b4d33b59339b93d29847352b1be4c6eb1cf4dcebd8bc76c62d",
+  "total_entries": 513,
+  "content_sha256": "3220388b1d4d0c3784ef91b465cad8e3015029b1769f771da604fd361b441dbc",
   "license": "CC0-1.0",
   "license_url": "https://github.com/rezmoss/cloud-provider-ip-addresses/blob/main/LICENSE"
 }

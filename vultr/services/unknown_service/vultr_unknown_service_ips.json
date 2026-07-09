@@ -2470,6 +2470,11 @@
     "region": "US-IL"
   },
   {
+    "ip_address": "2a05:f487:fc02::/48",
+    "ip_type": "IPv6",
+    "region": "GB-LND"
+  },
+  {
     "ip_address": "2a05:f487:fc03::/48",
     "ip_type": "IPv6",
     "region": "NL-NH"

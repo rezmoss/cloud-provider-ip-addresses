@@ -1,12 +1,15 @@
 #!/bin/bash
 # Mullvad IP Ranges
-# Updated: 2026-06-25 03:23:38
+# Updated: 2026-07-09 03:19:01
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
 # Updates daily at 02:00 UTC
 # UFW deny rules for mullvad
 
+ufw deny from 23.144.160.67/32
+ufw deny from 23.144.160.86/32
+ufw deny from 23.144.160.106/32
 ufw deny from 23.159.216.3/32
 ufw deny from 23.159.216.127/32
 ufw deny from 23.160.24.3/32
@@ -163,6 +166,7 @@ ufw deny from 103.251.27.3/32
 ufw deny from 103.251.27.127/32
 ufw deny from 104.36.50.3/32
 ufw deny from 104.36.50.33/32
+ufw deny from 135.136.36.2/32
 ufw deny from 138.199.43.65/32
 ufw deny from 138.199.43.78/32
 ufw deny from 138.199.43.91/32
@@ -191,6 +195,8 @@ ufw deny from 146.70.173.130/32
 ufw deny from 146.70.173.194/32
 ufw deny from 146.70.174.2/32
 ufw deny from 146.70.185.2/32
+ufw deny from 146.70.187.2/32
+ufw deny from 146.70.187.130/32
 ufw deny from 146.70.211.2/32
 ufw deny from 146.70.211.66/32
 ufw deny from 146.70.211.130/32
@@ -221,6 +227,7 @@ ufw deny from 185.213.193.3/32
 ufw deny from 185.213.193.127/32
 ufw deny from 194.126.179.3/32
 ufw deny from 212.103.48.226/32
+ufw deny from 2001:ac8:40:11::f001/128
 ufw deny from 2001:ac8:9a:75::2f/128
 ufw deny from 2001:ac8:9a:76::1f/128
 ufw deny from 2001:ac8:9a:78::3f/128
@@ -242,6 +249,9 @@ ufw deny from 2602:fed2:7e0a::f301/128
 ufw deny from 2602:fed2:7e0a::f401/128
 ufw deny from 2604:980:1002:11::f001/128
 ufw deny from 2604:980:1002:11::f101/128
+ufw deny from 2604:e8c0:6::f001/128
+ufw deny from 2604:e8c0:6::f101/128
+ufw deny from 2604:e8c0:6::f201/128
 ufw deny from 2604:e8c0:7::b68f/128
 ufw deny from 2604:e8c0:7::f001/128
 ufw deny from 2607:9000:0:101::f001/128
@@ -412,6 +422,8 @@ ufw deny from 2a06:3040:12:610::a01f/128
 ufw deny from 2a06:3040:12:610::a02f/128
 ufw deny from 2a06:3040:22:620::f001/128
 ufw deny from 2a06:3040:22:620::f101/128
+ufw deny from 2a0d:5600:6:105::f001/128
+ufw deny from 2a0d:5600:6:106::f001/128
 ufw deny from 2a0d:5600:8:6::d2f/128
 ufw deny from 2a0d:5600:8:d::d3f/128
 ufw deny from 2a0d:5600:8:2f::f001/128

@@ -1,12 +1,15 @@
 #!/bin/bash
 # Mullvad IP Ranges
-# Updated: 2026-07-08 03:16:33
+# Updated: 2026-07-09 03:19:00
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
 # Updates daily at 02:00 UTC
 # UFW allow rules for mullvad
 
+ufw allow from 23.144.160.67/32
+ufw allow from 23.144.160.86/32
+ufw allow from 23.144.160.106/32
 ufw allow from 23.159.216.3/32
 ufw allow from 23.159.216.127/32
 ufw allow from 23.160.24.3/32
@@ -224,6 +227,7 @@ ufw allow from 103.124.165.130/32
 ufw allow from 103.124.165.191/32
 ufw allow from 103.125.233.3/32
 ufw allow from 103.125.233.18/32
+ufw allow from 103.125.233.33/32
 ufw allow from 103.136.147.3/32
 ufw allow from 103.136.147.65/32
 ufw allow from 103.136.147.129/32
@@ -256,8 +260,11 @@ ufw allow from 135.136.19.2/32
 ufw allow from 135.136.19.130/32
 ufw allow from 135.136.21.2/32
 ufw allow from 135.136.22.2/32
+ufw allow from 135.136.22.130/32
+ufw allow from 135.136.36.2/32
 ufw allow from 135.136.51.2/32
 ufw allow from 135.136.51.130/32
+ufw allow from 135.136.55.2/32
 ufw allow from 135.136.58.130/32
 ufw allow from 138.199.6.194/32
 ufw allow from 138.199.6.207/32
@@ -300,7 +307,6 @@ ufw allow from 146.70.128.226/32
 ufw allow from 146.70.129.98/32
 ufw allow from 146.70.129.130/32
 ufw allow from 146.70.132.2/32
-ufw allow from 146.70.138.194/32
 ufw allow from 146.70.141.194/32
 ufw allow from 146.70.144.34/32
 ufw allow from 146.70.165.2/32
@@ -325,6 +331,8 @@ ufw allow from 146.70.174.2/32
 ufw allow from 146.70.184.2/32
 ufw allow from 146.70.184.130/32
 ufw allow from 146.70.185.2/32
+ufw allow from 146.70.187.2/32
+ufw allow from 146.70.187.130/32
 ufw allow from 146.70.188.130/32
 ufw allow from 146.70.188.194/32
 ufw allow from 146.70.189.2/32
@@ -343,7 +351,7 @@ ufw allow from 146.70.199.194/32
 ufw allow from 146.70.200.2/32
 ufw allow from 146.70.200.194/32
 ufw allow from 146.70.201.2/32
-ufw allow from 146.70.201.66/32
+ufw allow from 146.70.201.130/32
 ufw allow from 146.70.211.2/32
 ufw allow from 146.70.211.66/32
 ufw allow from 146.70.211.130/32
@@ -568,9 +576,10 @@ ufw allow from 2001:ac8:33:c::a01f/128
 ufw allow from 2001:ac8:33:d::a02f/128
 ufw allow from 2001:ac8:37:96::f001/128
 ufw allow from 2001:ac8:37:97::f001/128
-ufw allow from 2001:ac8:40:11::b01f/128
-ufw allow from 2001:ac8:40:13::b02f/128
-ufw allow from 2001:ac8:40:14::b03f/128
+ufw allow from 2001:ac8:40:11::f001/128
+ufw allow from 2001:ac8:40:13::f001/128
+ufw allow from 2001:ac8:40:14::f001/128
+ufw allow from 2001:ac8:40:1d::f001/128
 ufw allow from 2001:ac8:7d:37::a01f/128
 ufw allow from 2001:ac8:7d:38::a02f/128
 ufw allow from 2001:ac8:84:4::3f/128
@@ -581,12 +590,14 @@ ufw allow from 2001:ac8:88:108::f001/128
 ufw allow from 2001:ac8:88:109::f001/128
 ufw allow from 2001:ac8:8b:104::f001/128
 ufw allow from 2001:ac8:8b:105::f001/128
+ufw allow from 2001:ac8:8b:106::f001/128
 ufw allow from 2001:ac8:8b:107::f001/128
 ufw allow from 2001:ac8:9a:75::2f/128
 ufw allow from 2001:ac8:9a:76::1f/128
 ufw allow from 2001:ac8:9a:78::3f/128
 ufw allow from 2403:2c81:1000::a05f/128
 ufw allow from 2403:2c81:1000::a06f/128
+ufw allow from 2403:2c81:1000::f301/128
 ufw allow from 2403:fbc0:7000::f001/128
 ufw allow from 2403:fbc0:7000::f101/128
 ufw allow from 2403:fbc0:7000::f201/128
@@ -633,6 +644,9 @@ ufw allow from 2604:980:1002:11::f001/128
 ufw allow from 2604:980:1002:11::f101/128
 ufw allow from 2604:980:e007:100::f001/128
 ufw allow from 2604:980:e007:100::f101/128
+ufw allow from 2604:e8c0:6::f001/128
+ufw allow from 2604:e8c0:6::f101/128
+ufw allow from 2604:e8c0:6::f201/128
 ufw allow from 2604:e8c0:7::b68f/128
 ufw allow from 2604:e8c0:7::f001/128
 ufw allow from 2606:9580:103:e::f001/128
@@ -1058,6 +1072,8 @@ ufw allow from 2a0c:59c0:18::a22f/128
 ufw allow from 2a0c:f040:0:2790::a01f/128
 ufw allow from 2a0c:f040:0:2790::a02f/128
 ufw allow from 2a0c:f040:0:2790::a03f/128
+ufw allow from 2a0d:5600:6:105::f001/128
+ufw allow from 2a0d:5600:6:106::f001/128
 ufw allow from 2a0d:5600:8:6::d2f/128
 ufw allow from 2a0d:5600:8:d::d3f/128
 ufw allow from 2a0d:5600:8:2f::f001/128

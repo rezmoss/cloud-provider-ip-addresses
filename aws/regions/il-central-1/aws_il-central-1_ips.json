@@ -180,6 +180,12 @@
     "region": "il-central-1"
   },
   {
+    "ip_address": "16.164.136.0/25",
+    "ip_type": "IPv4",
+    "service": "EFS",
+    "region": "il-central-1"
+  },
+  {
     "ip_address": "16.165.0.0/16",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -663,6 +669,12 @@
     "ip_address": "2a05:d025:451:7d00::/56",
     "ip_type": "IPv6",
     "service": "EC2_INSTANCE_CONNECT",
+    "region": "il-central-1"
+  },
+  {
+    "ip_address": "2a05:d025:4c1:4700::/56",
+    "ip_type": "IPv6",
+    "service": "EFS",
     "region": "il-central-1"
   },
   {

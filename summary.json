@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-08T03:17:11.464087",
+  "generated": "2026-07-09T03:19:39.257184",
   "provider_count": 37,
-  "total_ipv4_addresses": 408533013,
-  "total_ipv6_addresses": 5296300397629569287669193152945422,
-  "ipv4_space_coverage_pct": 9.5119,
+  "total_ipv4_addresses": 408535641,
+  "total_ipv6_addresses": 5296300398249379888545834087243030,
+  "ipv4_space_coverage_pct": 9.512,
   "providers": {
     "cloudflare": {
       "ipv4_cidrs": 15,
@@ -15,11 +15,11 @@
       "regions": 0
     },
     "aws": {
-      "ipv4_cidrs": 10619,
-      "ipv6_cidrs": 5806,
-      "total_cidrs": 16425,
-      "ipv4_addresses": 184945134,
-      "ipv6_addresses": 3321086587389346916123937865741,
+      "ipv4_cidrs": 10621,
+      "ipv6_cidrs": 5811,
+      "total_cidrs": 16432,
+      "ipv4_addresses": 184945774,
+      "ipv6_addresses": 3321085998274128178135697457165,
       "services": 27,
       "regions": 43
     },
@@ -105,10 +105,10 @@
       "regions": 0
     },
     "gptbot": {
-      "ipv4_cidrs": 310,
+      "ipv4_cidrs": 322,
       "ipv6_cidrs": 0,
-      "total_cidrs": 310,
-      "ipv4_addresses": 42784,
+      "total_cidrs": 322,
+      "ipv4_addresses": 42976,
       "ipv6_addresses": 0,
       "services": 3,
       "regions": 0
@@ -142,10 +142,10 @@
     },
     "vultr": {
       "ipv4_cidrs": 438,
-      "ipv6_cidrs": 74,
-      "total_cidrs": 512,
+      "ipv6_cidrs": 75,
+      "total_cidrs": 513,
       "ipv4_addresses": 1025024,
-      "ipv6_addresses": 5193704422955863137424898476998656,
+      "ipv6_addresses": 5193704424164788957039527651704832,
       "services": 0,
       "regions": 34
     },
@@ -267,10 +267,10 @@
       "regions": 1
     },
     "alibaba": {
-      "ipv4_cidrs": 2122,
+      "ipv4_cidrs": 2124,
       "ipv6_cidrs": 239,
-      "total_cidrs": 2361,
-      "ipv4_addresses": 31133952,
+      "total_cidrs": 2363,
+      "ipv4_addresses": 31135744,
       "ipv6_addresses": 87800549115679546984018070208512,
       "services": 3,
       "regions": 1
@@ -321,20 +321,20 @@
       "regions": 1
     },
     "tor": {
-      "ipv4_cidrs": 1383,
+      "ipv4_cidrs": 1379,
       "ipv6_cidrs": 0,
-      "total_cidrs": 1383,
-      "ipv4_addresses": 1383,
+      "total_cidrs": 1379,
+      "ipv4_addresses": 1379,
       "ipv6_addresses": 0,
       "services": 1,
       "regions": 1
     },
     "mullvad": {
-      "ipv4_cidrs": 568,
-      "ipv6_cidrs": 558,
-      "total_cidrs": 1126,
-      "ipv4_addresses": 568,
-      "ipv6_addresses": 558,
+      "ipv4_cidrs": 576,
+      "ipv6_cidrs": 566,
+      "total_cidrs": 1142,
+      "ipv4_addresses": 576,
+      "ipv6_addresses": 566,
       "services": 2,
       "regions": 50
     }

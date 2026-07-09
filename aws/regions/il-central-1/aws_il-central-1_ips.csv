@@ -29,6 +29,7 @@ ip_address,ip_type,service,region
 16.164.0.0/16,IPv4,EC2,il-central-1
 16.164.22.0/31,IPv4,KINESIS_VIDEO_STREAMS,il-central-1
 16.164.22.4/30,IPv4,KINESIS_VIDEO_STREAMS,il-central-1
+16.164.136.0/25,IPv4,EFS,il-central-1
 16.165.0.0/16,IPv4,AMAZON,il-central-1
 18.96.160.0/19,IPv4,AMAZON,il-central-1
 18.96.160.0/19,IPv4,EC2,il-central-1
@@ -110,6 +111,7 @@ ip_address,ip_type,service,region
 2a05:d025::/36,IPv6,AMAZON,il-central-1
 2a05:d025::/36,IPv6,EC2,il-central-1
 2a05:d025:451:7d00::/56,IPv6,EC2_INSTANCE_CONNECT,il-central-1
+2a05:d025:4c1:4700::/56,IPv6,EFS,il-central-1
 2a05:d025:1000::/36,IPv6,AMAZON,il-central-1
 2a05:d025:1000::/36,IPv6,EC2,il-central-1
 2a05:d025:1000::/48,IPv6,WORKSPACES_GATEWAYS,il-central-1
