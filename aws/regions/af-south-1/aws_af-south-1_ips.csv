@@ -89,8 +89,6 @@ ip_address,ip_type,service,region
 35.71.103.0/24,IPv4,AMAZON,af-south-1
 35.71.103.0/24,IPv4,DYNAMODB,af-south-1
 35.71.103.0/24,IPv4,EC2,af-south-1
-35.96.40.0/24,IPv4,AMAZON,af-south-1
-35.96.40.0/24,IPv4,EC2,af-south-1
 52.93.57.0/24,IPv4,AMAZON,af-south-1
 52.93.126.146/32,IPv4,AMAZON,af-south-1
 52.93.126.147/32,IPv4,AMAZON,af-south-1

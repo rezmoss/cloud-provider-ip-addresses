@@ -1,7 +1,7 @@
 {
   "provider": "meta",
   "version": 6,
-  "generated_date": "2026-07-09",
+  "generated_date": "2026-07-10",
   "last_changed_date": "2026-07-07",
   "sources": [
     "BGP announced prefixes via RIPE NCC RIPEstat"

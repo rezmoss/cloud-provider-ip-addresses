@@ -1098,13 +1098,25 @@
     "region": "GLOBAL"
   },
   {
-    "ip_address": "35.97.0.0/20",
+    "ip_address": "35.97.15.64/27",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "GLOBAL"
   },
   {
-    "ip_address": "35.97.0.0/20",
+    "ip_address": "35.97.15.64/27",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "GLOBAL"
+  },
+  {
+    "ip_address": "35.97.15.128/27",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "GLOBAL"
+  },
+  {
+    "ip_address": "35.97.15.128/27",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "GLOBAL"

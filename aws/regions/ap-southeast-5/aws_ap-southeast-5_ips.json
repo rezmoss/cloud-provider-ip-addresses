@@ -348,6 +348,12 @@
     "region": "ap-southeast-5"
   },
   {
+    "ip_address": "56.69.91.128/25",
+    "ip_type": "IPv4",
+    "service": "EFS",
+    "region": "ap-southeast-5"
+  },
+  {
     "ip_address": "56.69.112.0/23",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -561,6 +567,12 @@
     "ip_address": "2406:da10:8000::/36",
     "ip_type": "IPv6",
     "service": "EC2",
+    "region": "ap-southeast-5"
+  },
+  {
+    "ip_address": "2406:da10:83d4:d000::/56",
+    "ip_type": "IPv6",
+    "service": "EFS",
     "region": "ap-southeast-5"
   },
   {

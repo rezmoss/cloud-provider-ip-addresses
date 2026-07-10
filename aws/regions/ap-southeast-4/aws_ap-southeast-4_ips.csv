@@ -19,6 +19,7 @@ ip_address,ip_type,service,region
 16.26.0.0/16,IPv4,EC2,ap-southeast-4
 16.27.0.0/16,IPv4,AMAZON,ap-southeast-4
 16.27.0.0/16,IPv4,EC2,ap-southeast-4
+16.27.92.0/25,IPv4,EFS,ap-southeast-4
 16.50.0.0/15,IPv4,AMAZON,ap-southeast-4
 16.50.0.0/15,IPv4,EC2,ap-southeast-4
 16.50.66.0/24,IPv4,API_GATEWAY,ap-southeast-4
@@ -99,6 +100,7 @@ ip_address,ip_type,service,region
 2406:da1f::/36,IPv6,AMAZON,ap-southeast-4
 2406:da1f::/36,IPv6,EC2,ap-southeast-4
 2406:da1f:51b:1a00::/56,IPv6,AURORA_DSQL,ap-southeast-4
+2406:da1f:b03:cb00::/56,IPv6,EFS,ap-southeast-4
 2406:da1f:b4f:4600::/56,IPv6,EC2_INSTANCE_CONNECT,ap-southeast-4
 2406:da2f::/36,IPv6,AMAZON,ap-southeast-4
 2406:da2f::/36,IPv6,EC2,ap-southeast-4

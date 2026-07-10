@@ -167,8 +167,6 @@ INSERT INTO `aws_ap-south-1_ips` (`ip_address`, `ip_type`) VALUES ('35.55.15.0/2
 INSERT INTO `aws_ap-south-1_ips` (`ip_address`, `ip_type`) VALUES ('35.71.100.0/24', 'IPv4');
 INSERT INTO `aws_ap-south-1_ips` (`ip_address`, `ip_type`) VALUES ('35.71.100.0/24', 'IPv4');
 INSERT INTO `aws_ap-south-1_ips` (`ip_address`, `ip_type`) VALUES ('35.71.100.0/24', 'IPv4');
-INSERT INTO `aws_ap-south-1_ips` (`ip_address`, `ip_type`) VALUES ('35.96.42.0/24', 'IPv4');
-INSERT INTO `aws_ap-south-1_ips` (`ip_address`, `ip_type`) VALUES ('35.96.42.0/24', 'IPv4');
 INSERT INTO `aws_ap-south-1_ips` (`ip_address`, `ip_type`) VALUES ('35.154.0.0/16', 'IPv4');
 INSERT INTO `aws_ap-south-1_ips` (`ip_address`, `ip_type`) VALUES ('35.154.0.0/16', 'IPv4');
 INSERT INTO `aws_ap-south-1_ips` (`ip_address`, `ip_type`) VALUES ('43.204.0.0/15', 'IPv4');

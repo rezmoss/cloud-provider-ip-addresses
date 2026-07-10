@@ -58,14 +58,13 @@ ip_address,ip_type,service,region
 35.42.0.0/16,IPv4,EC2,eu-south-2
 35.42.39.0/24,IPv4,API_GATEWAY,eu-south-2
 35.42.40.0/24,IPv4,API_GATEWAY,eu-south-2
+35.42.175.0/25,IPv4,EFS,eu-south-2
 35.43.0.0/16,IPv4,AMAZON,eu-south-2
 35.44.0.0/15,IPv4,AMAZON,eu-south-2
 35.44.0.0/15,IPv4,EC2,eu-south-2
 35.71.120.0/24,IPv4,AMAZON,eu-south-2
 35.71.120.0/24,IPv4,DYNAMODB,eu-south-2
 35.71.120.0/24,IPv4,EC2,eu-south-2
-35.96.37.0/24,IPv4,AMAZON,eu-south-2
-35.96.37.0/24,IPv4,EC2,eu-south-2
 40.138.216.0/22,IPv4,AMAZON,eu-south-2
 40.143.64.0/21,IPv4,AMAZON,eu-south-2
 51.48.0.0/15,IPv4,AMAZON,eu-south-2
@@ -183,6 +182,7 @@ ip_address,ip_type,service,region
 2a05:d011::/36,IPv6,EC2,eu-south-2
 2a05:d011:95f:c900::/56,IPv6,AURORA_DSQL,eu-south-2
 2a05:d011:cbe:f700::/56,IPv6,EC2_INSTANCE_CONNECT,eu-south-2
+2a05:d011:fbb:2500::/56,IPv6,EFS,eu-south-2
 2a05:d021::/36,IPv6,AMAZON,eu-south-2
 2a05:d021::/36,IPv6,EC2,eu-south-2
 2a05:d021:c::/48,IPv6,WORKSPACES_GATEWAYS,eu-south-2

@@ -270,6 +270,12 @@
     "region": "ap-southeast-7"
   },
   {
+    "ip_address": "43.210.244.128/25",
+    "ip_type": "IPv4",
+    "service": "EFS",
+    "region": "ap-southeast-7"
+  },
+  {
     "ip_address": "52.94.250.112/28",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -447,6 +453,12 @@
     "ip_address": "2406:da14:85c5:5b00::/56",
     "ip_type": "IPv6",
     "service": "EC2_INSTANCE_CONNECT",
+    "region": "ap-southeast-7"
+  },
+  {
+    "ip_address": "2406:da14:8ad5:f500::/56",
+    "ip_type": "IPv6",
+    "service": "EFS",
     "region": "ap-southeast-7"
   },
   {

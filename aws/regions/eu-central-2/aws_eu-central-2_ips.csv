@@ -18,6 +18,7 @@ ip_address,ip_type,service,region
 16.18.0.0/16,IPv4,AMAZON,eu-central-2
 16.18.0.0/16,IPv4,EC2,eu-central-2
 16.18.68.0/22,IPv4,WORKSPACES_GATEWAYS,eu-central-2
+16.18.95.128/25,IPv4,EFS,eu-central-2
 16.19.0.0/16,IPv4,AMAZON,eu-central-2
 16.19.0.0/16,IPv4,EC2,eu-central-2
 16.62.0.0/15,IPv4,AMAZON,eu-central-2
@@ -48,8 +49,6 @@ ip_address,ip_type,service,region
 35.71.121.0/24,IPv4,AMAZON,eu-central-2
 35.71.121.0/24,IPv4,DYNAMODB,eu-central-2
 35.71.121.0/24,IPv4,EC2,eu-central-2
-35.96.41.0/24,IPv4,AMAZON,eu-central-2
-35.96.41.0/24,IPv4,EC2,eu-central-2
 51.34.0.0/16,IPv4,AMAZON,eu-central-2
 51.34.0.0/16,IPv4,EC2,eu-central-2
 51.35.0.0/16,IPv4,AMAZON,eu-central-2
@@ -100,6 +99,7 @@ ip_address,ip_type,service,region
 2a05:d019::/36,IPv6,AMAZON,eu-central-2
 2a05:d019::/36,IPv6,EC2,eu-central-2
 2a05:d019:1d6:2100::/56,IPv6,EC2_INSTANCE_CONNECT,eu-central-2
+2a05:d019:84f:800::/56,IPv6,EFS,eu-central-2
 2a05:d029::/36,IPv6,AMAZON,eu-central-2
 2a05:d029::/36,IPv6,EC2,eu-central-2
 2a05:d029:4::/48,IPv6,WORKSPACES_GATEWAYS,eu-central-2

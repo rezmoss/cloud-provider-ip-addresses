@@ -126,6 +126,12 @@
     "region": "ap-south-2"
   },
   {
+    "ip_address": "16.112.252.128/25",
+    "ip_type": "IPv4",
+    "service": "EFS",
+    "region": "ap-south-2"
+  },
+  {
     "ip_address": "16.113.0.0/16",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -627,6 +633,12 @@
     "ip_address": "2406:da1b::/36",
     "ip_type": "IPv6",
     "service": "EC2",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "2406:da1b:9a2:5600::/56",
+    "ip_type": "IPv6",
+    "service": "EFS",
     "region": "ap-south-2"
   },
   {

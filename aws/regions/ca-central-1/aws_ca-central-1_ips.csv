@@ -106,10 +106,6 @@ ip_address,ip_type,service,region
 35.71.119.0/24,IPv4,AMAZON,ca-central-1
 35.71.119.0/24,IPv4,DYNAMODB,ca-central-1
 35.71.119.0/24,IPv4,EC2,ca-central-1
-35.96.22.0/23,IPv4,AMAZON,ca-central-1
-35.96.22.0/23,IPv4,EC2,ca-central-1
-35.96.252.0/24,IPv4,AMAZON,ca-central-1
-35.96.252.0/24,IPv4,EC2,ca-central-1
 35.98.32.0/20,IPv4,AMAZON,ca-central-1
 35.98.160.0/20,IPv4,AMAZON,ca-central-1
 35.182.0.0/15,IPv4,AMAZON,ca-central-1

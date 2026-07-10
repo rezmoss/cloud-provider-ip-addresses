@@ -1,5 +1,5 @@
 # uptimerobot IP ranges - ipset restore format (hash:net)
-# Version: 2 | Generated: 2026-07-09 | Last changed: 2026-06-25
+# Version: 2 | Generated: 2026-07-10 | Last changed: 2026-06-25
 # IPv4: 102 merged subnets, 103 unique IPs
 # IPv6: 103 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
