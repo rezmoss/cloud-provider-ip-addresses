@@ -1,5 +1,10 @@
 [
   {
+    "ip_address": "216.128.168.0/21",
+    "ip_type": "IPv4",
+    "region": "BR-SP"
+  },
+  {
     "ip_address": "216.238.96.0/19",
     "ip_type": "IPv4",
     "region": "BR-SP"

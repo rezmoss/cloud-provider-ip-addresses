@@ -25,6 +25,7 @@ ip_address,ip_type,service,region
 40.93.71.0/24,IPv4,AzureCloud.taiwannorthwest,taiwannorthwest
 40.93.72.0/24,IPv4,AzureCloud.taiwannorthwest,taiwannorthwest
 40.100.69.64/26,IPv4,AzureCloud.taiwannorthwest,taiwannorthwest
+40.100.80.192/26,IPv4,AzureCloud.taiwannorthwest,taiwannorthwest
 40.123.175.0/24,IPv4,AzureCloud.taiwannorthwest,taiwannorthwest
 48.212.57.0/24,IPv4,AzureCloud.taiwannorthwest,taiwannorthwest
 48.212.185.0/24,IPv4,AzureCloud.taiwannorthwest,taiwannorthwest
@@ -232,6 +233,7 @@ ip_address,ip_type,service,region
 2603:1040:1203::/48,IPv6,Storage.TaiwanNorthwest,taiwannorthwest
 2603:1040:1204::/48,IPv6,AzureCloud.taiwannorthwest,taiwannorthwest
 2603:1040:1206::/48,IPv6,AzureCloud.taiwannorthwest,taiwannorthwest
+2603:1046:a00:39::/64,IPv6,AzureCloud.taiwannorthwest,taiwannorthwest
 2603:1046:a00:5c::/64,IPv6,AzureCloud.taiwannorthwest,taiwannorthwest
 2603:1047:1:c0::/59,IPv6,AzureCloud.taiwannorthwest,taiwannorthwest
 2603:1061:1009::/58,IPv6,AzureCloud.taiwannorthwest,taiwannorthwest

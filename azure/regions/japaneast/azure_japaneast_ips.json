@@ -144,6 +144,12 @@
     "region": "japaneast"
   },
   {
+    "ip_address": "4.215.16.0/24",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.JapanEast",
+    "region": "japaneast"
+  },
+  {
     "ip_address": "4.216.0.0/16",
     "ip_type": "IPv4",
     "service": "AzureCloud.japaneast",
@@ -213,6 +219,36 @@
     "ip_address": "4.216.14.32/30",
     "ip_type": "IPv4",
     "service": "AzureAttestation.JapanEast",
+    "region": "japaneast"
+  },
+  {
+    "ip_address": "4.216.21.96/28",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.JapanEast",
+    "region": "japaneast"
+  },
+  {
+    "ip_address": "4.216.21.112/29",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.JapanEast",
+    "region": "japaneast"
+  },
+  {
+    "ip_address": "4.216.21.120/29",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.JapanEast",
+    "region": "japaneast"
+  },
+  {
+    "ip_address": "4.216.22.64/26",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.JapanEast",
+    "region": "japaneast"
+  },
+  {
+    "ip_address": "4.216.22.128/26",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.JapanEast",
     "region": "japaneast"
   },
   {

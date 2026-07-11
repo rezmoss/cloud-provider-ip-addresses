@@ -106,4 +106,16 @@ INSERT INTO `azure_azureactivedirectorydomainservices_ips` (`ip_address`, `ip_ty
 INSERT INTO `azure_azureactivedirectorydomainservices_ips` (`ip_address`, `ip_type`) VALUES ('104.46.178.128/27', 'IPv4');
 INSERT INTO `azure_azureactivedirectorydomainservices_ips` (`ip_address`, `ip_type`) VALUES ('104.211.147.160/27', 'IPv4');
 INSERT INTO `azure_azureactivedirectorydomainservices_ips` (`ip_address`, `ip_type`) VALUES ('191.233.204.160/27', 'IPv4');
+INSERT INTO `azure_azureactivedirectorydomainservices_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:6:16::310/124', 'IPv6');
+INSERT INTO `azure_azureactivedirectorydomainservices_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:207:7::720/124', 'IPv6');
+INSERT INTO `azure_azureactivedirectorydomainservices_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:5:25::120/124', 'IPv6');
+INSERT INTO `azure_azureactivedirectorydomainservices_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:206:2c::7a0/124', 'IPv6');
+INSERT INTO `azure_azureactivedirectorydomainservices_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f:12::640/124', 'IPv6');
 INSERT INTO `azure_azureactivedirectorydomainservices_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:107:2::100/121', 'IPv6');
+INSERT INTO `azure_azureactivedirectorydomainservices_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40b:15::260/124', 'IPv6');
+INSERT INTO `azure_azureactivedirectorydomainservices_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:a07:2b::7d0/124', 'IPv6');
+INSERT INTO `azure_azureactivedirectorydomainservices_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:b04:14::e0/124', 'IPv6');
+INSERT INTO `azure_azureactivedirectorydomainservices_ips` (`ip_address`, `ip_type`) VALUES ('2603:1036:3000:120::100/124', 'IPv6');
+INSERT INTO `azure_azureactivedirectorydomainservices_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:5:1d::550/124', 'IPv6');
+INSERT INTO `azure_azureactivedirectorydomainservices_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:407::820/124', 'IPv6');
+INSERT INTO `azure_azureactivedirectorydomainservices_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:606:10::240/124', 'IPv6');

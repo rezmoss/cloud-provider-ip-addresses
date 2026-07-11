@@ -18,13 +18,13 @@
     "region": "chilec"
   },
   {
-    "ip_address": "20.20.89.64/30",
+    "ip_address": "20.20.89.64/29",
     "ip_type": "IPv4",
     "service": "AzureCloud.chilec",
     "region": "chilec"
   },
   {
-    "ip_address": "20.20.89.68/31",
+    "ip_address": "20.20.89.72/31",
     "ip_type": "IPv4",
     "service": "AzureCloud.chilec",
     "region": "chilec"
@@ -1596,13 +1596,13 @@
     "region": "chilec"
   },
   {
-    "ip_address": "2603:1061:1013:98::/63",
+    "ip_address": "2603:1061:1013:98::/62",
     "ip_type": "IPv6",
     "service": "AzureCloud.chilec",
     "region": "chilec"
   },
   {
-    "ip_address": "2603:1061:1013:9a::/64",
+    "ip_address": "2603:1061:1013:9c::/64",
     "ip_type": "IPv6",
     "service": "AzureCloud.chilec",
     "region": "chilec"

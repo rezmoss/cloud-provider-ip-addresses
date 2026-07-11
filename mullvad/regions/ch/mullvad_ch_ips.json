@@ -114,13 +114,13 @@
     "region": "ch"
   },
   {
-    "ip_address": "2a02:29b8:dc01:1831::f002/128",
+    "ip_address": "2a02:29b8:dc01:1831::f101/128",
     "ip_type": "IPv6",
     "service": "mullvad-wireguard",
     "region": "ch"
   },
   {
-    "ip_address": "2a02:29b8:dc01:1832::a1f/128",
+    "ip_address": "2a02:29b8:dc01:1832::f001/128",
     "ip_type": "IPv6",
     "service": "mullvad-wireguard",
     "region": "ch"

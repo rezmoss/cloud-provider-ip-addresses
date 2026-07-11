@@ -1188,6 +1188,12 @@
     "region": "westus2"
   },
   {
+    "ip_address": "40.98.3.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.westus2",
+    "region": "westus2"
+  },
+  {
     "ip_address": "40.123.160.0/22",
     "ip_type": "IPv4",
     "service": "AzureCloud.westus2",

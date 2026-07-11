@@ -1,6 +1,6 @@
 #!/bin/bash
 # Mullvad IP Ranges
-# Updated: 2026-06-25 03:23:38
+# Updated: 2026-07-11 03:16:51
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -30,10 +30,10 @@ ip6tables -A INPUT -s 2a02:6ea0:dc05::a15f/128 -j ACCEPT
 ip6tables -A INPUT -s 2a02:6ea0:dc06::a16f/128 -j ACCEPT
 ip6tables -A INPUT -s 2a03:1b20:9:f011::3f/128 -j ACCEPT
 ip6tables -A INPUT -s 2a03:1b20:9:f011::a01f/128 -j ACCEPT
-ip6tables -A INPUT -s 2a03:1b20:9:f011::f001/128 -j ACCEPT
 ip6tables -A INPUT -s 2a03:1b20:9:f011::f101/128 -j ACCEPT
 ip6tables -A INPUT -s 2a03:1b20:9:f011::f201/128 -j ACCEPT
 ip6tables -A INPUT -s 2a03:1b20:9:f011::f301/128 -j ACCEPT
 ip6tables -A INPUT -s 2a03:1b20:9:f011::f401/128 -j ACCEPT
+ip6tables -A INPUT -s 2a03:1b20:9:f011::f501/128 -j ACCEPT
 ip6tables -A INPUT -s 2a06:3040:4:610::f001/128 -j ACCEPT
 ip6tables -A INPUT -s 2a06:3040:4:610::f101/128 -j ACCEPT

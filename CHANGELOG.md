@@ -2,6 +2,44 @@
 
 Daily IP range changes across all providers.
 
+## 2026-07-11
+
+### mullvad
+- Added: 6 CIDRs
+- Removed: 6 CIDRs
+
+### ovhcloud
+- Added: 2 CIDRs
+- Removed: 0 CIDRs
+
+### gptbot
+- Added: 4 CIDRs
+- Removed: 4 CIDRs
+
+### tor
+- Added: 14 CIDRs
+- Removed: 5 CIDRs
+
+### aws
+- Added: 5 CIDRs
+- Removed: 75 CIDRs
+
+### linode
+- Added: 1 CIDRs
+- Removed: 0 CIDRs
+
+### azure
+- Added: 168 CIDRs
+- Removed: 211 CIDRs
+
+### vultr
+- Added: 1 CIDRs
+- Removed: 0 CIDRs
+
+### meta
+- Added: 0 CIDRs
+- Removed: 1 CIDRs
+
 ## 2026-07-10
 
 ### ovhcloud

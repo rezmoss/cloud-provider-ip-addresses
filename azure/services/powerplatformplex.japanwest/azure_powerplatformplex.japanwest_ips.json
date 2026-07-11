@@ -60,6 +60,24 @@
     "region": "japanwest"
   },
   {
+    "ip_address": "172.192.222.184/29",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.JapanWest",
+    "region": "japanwest"
+  },
+  {
+    "ip_address": "172.192.222.224/28",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.JapanWest",
+    "region": "japanwest"
+  },
+  {
+    "ip_address": "172.192.223.0/26",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.JapanWest",
+    "region": "japanwest"
+  },
+  {
     "ip_address": "2603:1061:2004:3100::/57",
     "ip_type": "IPv6",
     "service": "PowerPlatformPlex.JapanWest",

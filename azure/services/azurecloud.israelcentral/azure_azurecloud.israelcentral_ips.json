@@ -54,13 +54,7 @@
     "region": "israelcentral"
   },
   {
-    "ip_address": "20.20.104.224/29",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.israelcentral",
-    "region": "israelcentral"
-  },
-  {
-    "ip_address": "20.20.104.232/31",
+    "ip_address": "20.20.104.224/28",
     "ip_type": "IPv4",
     "service": "AzureCloud.israelcentral",
     "region": "israelcentral"
@@ -486,19 +480,7 @@
     "region": "israelcentral"
   },
   {
-    "ip_address": "2603:1061:1007:e0::/61",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.israelcentral",
-    "region": "israelcentral"
-  },
-  {
-    "ip_address": "2603:1061:1007:e8::/62",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.israelcentral",
-    "region": "israelcentral"
-  },
-  {
-    "ip_address": "2603:1061:1007:ec::/64",
+    "ip_address": "2603:1061:1007:e0::/60",
     "ip_type": "IPv6",
     "service": "AzureCloud.israelcentral",
     "region": "israelcentral"

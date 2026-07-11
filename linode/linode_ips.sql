@@ -1087,6 +1087,7 @@ INSERT INTO `linode_ips` (`ip_address`, `ip_type`) VALUES ('104.66.220.0/24', 'I
 INSERT INTO `linode_ips` (`ip_address`, `ip_type`) VALUES ('104.66.221.0/24', 'IPv4');
 INSERT INTO `linode_ips` (`ip_address`, `ip_type`) VALUES ('104.66.222.0/24', 'IPv4');
 INSERT INTO `linode_ips` (`ip_address`, `ip_type`) VALUES ('104.66.223.0/24', 'IPv4');
+INSERT INTO `linode_ips` (`ip_address`, `ip_type`) VALUES ('104.66.224.0/24', 'IPv4');
 INSERT INTO `linode_ips` (`ip_address`, `ip_type`) VALUES ('104.67.0.0/24', 'IPv4');
 INSERT INTO `linode_ips` (`ip_address`, `ip_type`) VALUES ('104.67.1.0/24', 'IPv4');
 INSERT INTO `linode_ips` (`ip_address`, `ip_type`) VALUES ('104.67.2.0/24', 'IPv4');

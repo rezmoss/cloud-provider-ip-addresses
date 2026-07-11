@@ -57,6 +57,9 @@ INSERT INTO `azure_powerplatforminfra_ips` (`ip_address`, `ip_type`) VALUES ('4.
 INSERT INTO `azure_powerplatforminfra_ips` (`ip_address`, `ip_type`) VALUES ('4.213.29.192/26', 'IPv4');
 INSERT INTO `azure_powerplatforminfra_ips` (`ip_address`, `ip_type`) VALUES ('4.213.80.0/24', 'IPv4');
 INSERT INTO `azure_powerplatforminfra_ips` (`ip_address`, `ip_type`) VALUES ('4.213.81.0/26', 'IPv4');
+INSERT INTO `azure_powerplatforminfra_ips` (`ip_address`, `ip_type`) VALUES ('4.215.16.0/24', 'IPv4');
+INSERT INTO `azure_powerplatforminfra_ips` (`ip_address`, `ip_type`) VALUES ('4.216.21.120/29', 'IPv4');
+INSERT INTO `azure_powerplatforminfra_ips` (`ip_address`, `ip_type`) VALUES ('4.216.22.128/26', 'IPv4');
 INSERT INTO `azure_powerplatforminfra_ips` (`ip_address`, `ip_type`) VALUES ('4.220.153.0/26', 'IPv4');
 INSERT INTO `azure_powerplatforminfra_ips` (`ip_address`, `ip_type`) VALUES ('4.220.153.128/25', 'IPv4');
 INSERT INTO `azure_powerplatforminfra_ips` (`ip_address`, `ip_type`) VALUES ('4.222.196.192/26', 'IPv4');
@@ -1477,6 +1480,9 @@ INSERT INTO `azure_powerplatforminfra_ips` (`ip_address`, `ip_type`) VALUES ('17
 INSERT INTO `azure_powerplatforminfra_ips` (`ip_address`, `ip_type`) VALUES ('172.185.119.192/26', 'IPv4');
 INSERT INTO `azure_powerplatforminfra_ips` (`ip_address`, `ip_type`) VALUES ('172.187.37.224/30', 'IPv4');
 INSERT INTO `azure_powerplatforminfra_ips` (`ip_address`, `ip_type`) VALUES ('172.187.38.0/23', 'IPv4');
+INSERT INTO `azure_powerplatforminfra_ips` (`ip_address`, `ip_type`) VALUES ('172.192.222.240/29', 'IPv4');
+INSERT INTO `azure_powerplatforminfra_ips` (`ip_address`, `ip_type`) VALUES ('172.192.223.64/26', 'IPv4');
+INSERT INTO `azure_powerplatforminfra_ips` (`ip_address`, `ip_type`) VALUES ('172.192.224.0/24', 'IPv4');
 INSERT INTO `azure_powerplatforminfra_ips` (`ip_address`, `ip_type`) VALUES ('172.195.122.128/25', 'IPv4');
 INSERT INTO `azure_powerplatforminfra_ips` (`ip_address`, `ip_type`) VALUES ('172.195.123.0/24', 'IPv4');
 INSERT INTO `azure_powerplatforminfra_ips` (`ip_address`, `ip_type`) VALUES ('172.197.31.0/24', 'IPv4');

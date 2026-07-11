@@ -180,9 +180,6 @@ INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('35.55.27.0/24
 INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('35.71.106.0/24', 'IPv4');
 INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('35.71.106.0/24', 'IPv4');
 INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('35.71.106.0/24', 'IPv4');
-INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('35.97.176.0/20', 'IPv4');
-INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('35.98.96.0/20', 'IPv4');
-INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('35.98.112.0/20', 'IPv4');
 INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('45.33.160.0/24', 'IPv4');
 INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('52.46.172.0/22', 'IPv4');
 INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('52.67.0.0/16', 'IPv4');
@@ -457,11 +454,6 @@ INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2606:7b40:1b0
 INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2606:7b40:1b09:400::/56', 'IPv6');
 INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2606:7b40:1b09:500::/56', 'IPv6');
 INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2606:7b40:1b09:500::/56', 'IPv6');
-INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2631:0:1200::/39', 'IPv6');
-INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2631:0:2000::/39', 'IPv6');
-INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2631:0:2200::/39', 'IPv6');
-INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2631:1:106::/48', 'IPv6');
-INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2631:1:106::/48', 'IPv6');
 INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2804:800::/48', 'IPv6');
 INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2804:800:ff00::/48', 'IPv6');
 INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2804:800:ff00::/48', 'IPv6');

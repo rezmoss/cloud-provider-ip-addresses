@@ -1,6 +1,6 @@
 #!/bin/bash
 # Mullvad IP Ranges
-# Updated: 2026-06-25 03:23:38
+# Updated: 2026-07-11 03:16:51
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -53,12 +53,12 @@ ufw allow from 2a03:1b20:1:e011::a22f/128
 ufw allow from 2a03:1b20:1:e011::a23f/128
 ufw allow from 2a03:1b20:1:e011::f601/128
 ufw allow from 2a03:1b20:1:e011::f701/128
-ufw allow from 2a03:1b20:1:f410::a01f/128
 ufw allow from 2a03:1b20:1:f410::a15f/128
 ufw allow from 2a03:1b20:1:f410::a17f/128
 ufw allow from 2a03:1b20:1:f410::a18f/128
 ufw allow from 2a03:1b20:1:f410::f101/128
 ufw allow from 2a03:1b20:1:f410::f201/128
+ufw allow from 2a03:1b20:1:f410::fa01/128
 ufw allow from 2a03:1b20:1:f410:40::a04f/128
 ufw allow from 2a03:1b20:4:f011::999f/128
 ufw allow from 2a03:1b20:4:f011::a02f/128

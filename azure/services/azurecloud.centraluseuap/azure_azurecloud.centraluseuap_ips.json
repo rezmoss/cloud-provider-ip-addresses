@@ -384,6 +384,12 @@
     "region": "centraluseuap"
   },
   {
+    "ip_address": "40.98.4.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.centraluseuap",
+    "region": "centraluseuap"
+  },
+  {
     "ip_address": "40.120.164.0/31",
     "ip_type": "IPv4",
     "service": "AzureCloud.centraluseuap",
@@ -1447,6 +1453,12 @@
   },
   {
     "ip_address": "2603:1036:903:39::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.centraluseuap",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "2603:1036:90c:6::/64",
     "ip_type": "IPv6",
     "service": "AzureCloud.centraluseuap",
     "region": "centraluseuap"

@@ -1,6 +1,6 @@
 #!/bin/bash
 # Azure IP Ranges
-# Updated: 2026-07-04 03:13:51
+# Updated: 2026-07-11 03:12:17
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -97,6 +97,7 @@ iptables -A INPUT -s 20.136.2.0/24 -j DROP
 iptables -A INPUT -s 20.143.64.0/23 -j DROP
 iptables -A INPUT -s 20.143.114.0/23 -j DROP
 iptables -A INPUT -s 20.143.204.0/23 -j DROP
+iptables -A INPUT -s 20.143.216.0/23 -j DROP
 iptables -A INPUT -s 20.150.20.128/25 -j DROP
 iptables -A INPUT -s 20.150.38.0/23 -j DROP
 iptables -A INPUT -s 20.150.70.0/24 -j DROP
@@ -311,7 +312,7 @@ iptables -A INPUT -s 40.123.164.232/31 -j DROP
 iptables -A INPUT -s 40.123.164.246/31 -j DROP
 iptables -A INPUT -s 40.123.164.248/29 -j DROP
 iptables -A INPUT -s 40.123.165.4/30 -j DROP
-iptables -A INPUT -s 40.123.165.12/31 -j DROP
+iptables -A INPUT -s 40.123.165.12/30 -j DROP
 iptables -A INPUT -s 40.123.165.16/29 -j DROP
 iptables -A INPUT -s 40.123.165.24/30 -j DROP
 iptables -A INPUT -s 40.123.165.30/31 -j DROP
@@ -327,8 +328,7 @@ iptables -A INPUT -s 40.123.165.76/31 -j DROP
 iptables -A INPUT -s 40.123.165.82/31 -j DROP
 iptables -A INPUT -s 40.123.165.84/30 -j DROP
 iptables -A INPUT -s 40.123.165.88/29 -j DROP
-iptables -A INPUT -s 40.123.165.96/30 -j DROP
-iptables -A INPUT -s 40.123.165.100/31 -j DROP
+iptables -A INPUT -s 40.123.165.96/29 -j DROP
 iptables -A INPUT -s 40.123.165.104/30 -j DROP
 iptables -A INPUT -s 40.123.165.112/29 -j DROP
 iptables -A INPUT -s 40.123.165.120/31 -j DROP
@@ -580,10 +580,7 @@ ip6tables -A INPUT -s 2603:1030:804:5c::/62 -j DROP
 ip6tables -A INPUT -s 2603:1030:804:60::/62 -j DROP
 ip6tables -A INPUT -s 2603:1030:804:66::/63 -j DROP
 ip6tables -A INPUT -s 2603:1030:804:68::/61 -j DROP
-ip6tables -A INPUT -s 2603:1030:804:70::/62 -j DROP
-ip6tables -A INPUT -s 2603:1030:804:74::/64 -j DROP
-ip6tables -A INPUT -s 2603:1030:804:77::/64 -j DROP
-ip6tables -A INPUT -s 2603:1030:804:78::/61 -j DROP
+ip6tables -A INPUT -s 2603:1030:804:70::/60 -j DROP
 ip6tables -A INPUT -s 2603:1030:804:80::/59 -j DROP
 ip6tables -A INPUT -s 2603:1030:804:a0::/62 -j DROP
 ip6tables -A INPUT -s 2603:1030:804:a4::/64 -j DROP

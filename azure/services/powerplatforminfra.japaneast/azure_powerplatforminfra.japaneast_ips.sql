@@ -6,6 +6,9 @@ CREATE TABLE IF NOT EXISTS `azure_powerplatforminfra.japaneast_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_powerplatforminfra.japaneast_ips` (`ip_address`, `ip_type`) VALUES ('4.215.16.0/24', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.japaneast_ips` (`ip_address`, `ip_type`) VALUES ('4.216.21.120/29', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.japaneast_ips` (`ip_address`, `ip_type`) VALUES ('4.216.22.128/26', 'IPv4');
 INSERT INTO `azure_powerplatforminfra.japaneast_ips` (`ip_address`, `ip_type`) VALUES ('20.18.7.104/29', 'IPv4');
 INSERT INTO `azure_powerplatforminfra.japaneast_ips` (`ip_address`, `ip_type`) VALUES ('20.18.7.112/28', 'IPv4');
 INSERT INTO `azure_powerplatforminfra.japaneast_ips` (`ip_address`, `ip_type`) VALUES ('20.43.70.206/31', 'IPv4');

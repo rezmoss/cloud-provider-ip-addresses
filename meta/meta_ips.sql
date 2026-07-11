@@ -598,7 +598,6 @@ INSERT INTO `meta_ips` (`ip_address`, `ip_type`) VALUES ('2a03:2880:f340::/48', 
 INSERT INTO `meta_ips` (`ip_address`, `ip_type`) VALUES ('2a03:2880:f342::/48', 'IPv6');
 INSERT INTO `meta_ips` (`ip_address`, `ip_type`) VALUES ('2a03:2880:f343::/48', 'IPv6');
 INSERT INTO `meta_ips` (`ip_address`, `ip_type`) VALUES ('2a03:2880:f344::/48', 'IPv6');
-INSERT INTO `meta_ips` (`ip_address`, `ip_type`) VALUES ('2a03:2880:f345::/48', 'IPv6');
 INSERT INTO `meta_ips` (`ip_address`, `ip_type`) VALUES ('2a03:2880:f346::/48', 'IPv6');
 INSERT INTO `meta_ips` (`ip_address`, `ip_type`) VALUES ('2a03:2880:f347::/48', 'IPv6');
 INSERT INTO `meta_ips` (`ip_address`, `ip_type`) VALUES ('2a03:2880:f348::/48', 'IPv6');

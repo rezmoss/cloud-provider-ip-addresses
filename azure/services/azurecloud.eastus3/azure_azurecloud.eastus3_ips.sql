@@ -31,8 +31,8 @@ INSERT INTO `azure_azurecloud.eastus3_ips` (`ip_address`, `ip_type`) VALUES ('57
 INSERT INTO `azure_azurecloud.eastus3_ips` (`ip_address`, `ip_type`) VALUES ('57.157.24.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.eastus3_ips` (`ip_address`, `ip_type`) VALUES ('57.157.25.0/26', 'IPv4');
 INSERT INTO `azure_azurecloud.eastus3_ips` (`ip_address`, `ip_type`) VALUES ('57.157.25.64/27', 'IPv4');
-INSERT INTO `azure_azurecloud.eastus3_ips` (`ip_address`, `ip_type`) VALUES ('57.157.25.96/30', 'IPv4');
-INSERT INTO `azure_azurecloud.eastus3_ips` (`ip_address`, `ip_type`) VALUES ('57.157.25.100/31', 'IPv4');
+INSERT INTO `azure_azurecloud.eastus3_ips` (`ip_address`, `ip_type`) VALUES ('57.157.25.96/29', 'IPv4');
+INSERT INTO `azure_azurecloud.eastus3_ips` (`ip_address`, `ip_type`) VALUES ('57.157.25.104/31', 'IPv4');
 INSERT INTO `azure_azurecloud.eastus3_ips` (`ip_address`, `ip_type`) VALUES ('57.163.32.0/23', 'IPv4');
 INSERT INTO `azure_azurecloud.eastus3_ips` (`ip_address`, `ip_type`) VALUES ('134.138.0.0/17', 'IPv4');
 INSERT INTO `azure_azurecloud.eastus3_ips` (`ip_address`, `ip_type`) VALUES ('135.130.0.0/23', 'IPv4');
@@ -56,6 +56,7 @@ INSERT INTO `azure_azurecloud.eastus3_ips` (`ip_address`, `ip_type`) VALUES ('26
 INSERT INTO `azure_azurecloud.eastus3_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:101a::/57', 'IPv6');
 INSERT INTO `azure_azurecloud.eastus3_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:101a:80::/59', 'IPv6');
 INSERT INTO `azure_azurecloud.eastus3_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:101a:a0::/60', 'IPv6');
+INSERT INTO `azure_azurecloud.eastus3_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:101a:b0::/63', 'IPv6');
 INSERT INTO `azure_azurecloud.eastus3_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1312:4000::/54', 'IPv6');
 INSERT INTO `azure_azurecloud.eastus3_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:174c::/62', 'IPv6');
 INSERT INTO `azure_azurecloud.eastus3_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2011:47::/64', 'IPv6');

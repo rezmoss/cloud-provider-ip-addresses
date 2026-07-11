@@ -18,8 +18,8 @@ ip_address,ip_type,service,region
 2001:ac8:28:ab::f001/128,IPv6,mullvad-wireguard,ch
 2001:ac8:28:ac::f001/128,IPv6,mullvad-wireguard,ch
 2001:ac8:28:ad::f001/128,IPv6,mullvad-wireguard,ch
-2a02:29b8:dc01:1831::f002/128,IPv6,mullvad-wireguard,ch
-2a02:29b8:dc01:1832::a1f/128,IPv6,mullvad-wireguard,ch
+2a02:29b8:dc01:1831::f101/128,IPv6,mullvad-wireguard,ch
+2a02:29b8:dc01:1832::f001/128,IPv6,mullvad-wireguard,ch
 2a02:6ea0:d406:1::a18f/128,IPv6,mullvad-wireguard,ch
 2a02:6ea0:d406:2::a19f/128,IPv6,mullvad-wireguard,ch
 2a02:6ea0:d406:3::a20f/128,IPv6,mullvad-wireguard,ch

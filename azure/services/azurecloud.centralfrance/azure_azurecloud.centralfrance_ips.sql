@@ -37,6 +37,7 @@ INSERT INTO `azure_azurecloud.centralfrance_ips` (`ip_address`, `ip_type`) VALUE
 INSERT INTO `azure_azurecloud.centralfrance_ips` (`ip_address`, `ip_type`) VALUES ('20.111.0.0/18', 'IPv4');
 INSERT INTO `azure_azurecloud.centralfrance_ips` (`ip_address`, `ip_type`) VALUES ('20.135.146.0/23', 'IPv4');
 INSERT INTO `azure_azurecloud.centralfrance_ips` (`ip_address`, `ip_type`) VALUES ('20.135.148.0/22', 'IPv4');
+INSERT INTO `azure_azurecloud.centralfrance_ips` (`ip_address`, `ip_type`) VALUES ('20.143.214.0/23', 'IPv4');
 INSERT INTO `azure_azurecloud.centralfrance_ips` (`ip_address`, `ip_type`) VALUES ('20.150.61.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.centralfrance_ips` (`ip_address`, `ip_type`) VALUES ('20.153.109.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.centralfrance_ips` (`ip_address`, `ip_type`) VALUES ('20.153.191.0/24', 'IPv4');

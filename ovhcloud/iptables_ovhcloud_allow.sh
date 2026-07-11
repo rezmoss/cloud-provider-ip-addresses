@@ -1,6 +1,6 @@
 #!/bin/bash
 # Ovhcloud IP Ranges
-# Updated: 2026-07-10 03:17:24
+# Updated: 2026-07-11 03:16:47
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -311,7 +311,7 @@ iptables -A INPUT -s 117.18.104.0/24 -j ACCEPT
 iptables -A INPUT -s 123.100.227.0/24 -j ACCEPT
 iptables -A INPUT -s 128.0.118.0/24 -j ACCEPT
 iptables -A INPUT -s 132.243.197.0/24 -j ACCEPT
-iptables -A INPUT -s 134.195.148.0/24 -j ACCEPT
+iptables -A INPUT -s 134.195.148.0/23 -j ACCEPT
 iptables -A INPUT -s 135.125.0.0/16 -j ACCEPT
 iptables -A INPUT -s 135.148.0.0/16 -j ACCEPT
 iptables -A INPUT -s 136.0.95.0/24 -j ACCEPT
@@ -451,6 +451,7 @@ iptables -A INPUT -s 168.245.185.0/24 -j ACCEPT
 iptables -A INPUT -s 169.40.32.0/24 -j ACCEPT
 iptables -A INPUT -s 172.83.201.0/24 -j ACCEPT
 iptables -A INPUT -s 176.31.0.0/16 -j ACCEPT
+iptables -A INPUT -s 177.111.0.0/19 -j ACCEPT
 iptables -A INPUT -s 177.111.111.0/24 -j ACCEPT
 iptables -A INPUT -s 178.32.0.0/15 -j ACCEPT
 iptables -A INPUT -s 178.83.45.0/24 -j ACCEPT

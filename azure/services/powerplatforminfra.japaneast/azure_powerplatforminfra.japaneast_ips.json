@@ -1,5 +1,23 @@
 [
   {
+    "ip_address": "4.215.16.0/24",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.JapanEast",
+    "region": "japaneast"
+  },
+  {
+    "ip_address": "4.216.21.120/29",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.JapanEast",
+    "region": "japaneast"
+  },
+  {
+    "ip_address": "4.216.22.128/26",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.JapanEast",
+    "region": "japaneast"
+  },
+  {
     "ip_address": "20.18.7.104/29",
     "ip_type": "IPv4",
     "service": "PowerPlatformInfra.JapanEast",

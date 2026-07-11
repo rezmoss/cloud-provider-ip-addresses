@@ -6,5 +6,6 @@ CREATE TABLE IF NOT EXISTS `vultr_br-sp_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `vultr_br-sp_ips` (`ip_address`, `ip_type`) VALUES ('216.128.168.0/21', 'IPv4');
 INSERT INTO `vultr_br-sp_ips` (`ip_address`, `ip_type`) VALUES ('216.238.96.0/19', 'IPv4');
 INSERT INTO `vultr_br-sp_ips` (`ip_address`, `ip_type`) VALUES ('2001:19f0:b800::/38', 'IPv6');

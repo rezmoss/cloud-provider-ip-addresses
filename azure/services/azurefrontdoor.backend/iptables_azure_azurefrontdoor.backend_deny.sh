@@ -1,6 +1,6 @@
 #!/bin/bash
 # Azure IP Ranges
-# Updated: 2026-06-20 03:19:00
+# Updated: 2026-07-11 03:11:45
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -24,6 +24,7 @@ iptables -A INPUT -s 4.196.135.200/29 -j DROP
 iptables -A INPUT -s 4.196.135.208/28 -j DROP
 iptables -A INPUT -s 4.198.222.0/29 -j DROP
 iptables -A INPUT -s 4.199.29.180/31 -j DROP
+iptables -A INPUT -s 4.200.208.104/30 -j DROP
 iptables -A INPUT -s 4.207.187.39/32 -j DROP
 iptables -A INPUT -s 4.207.187.66/31 -j DROP
 iptables -A INPUT -s 4.208.117.112/28 -j DROP
@@ -32,6 +33,8 @@ iptables -A INPUT -s 4.213.81.64/29 -j DROP
 iptables -A INPUT -s 4.221.234.152/29 -j DROP
 iptables -A INPUT -s 4.223.184.164/30 -j DROP
 iptables -A INPUT -s 4.232.98.120/29 -j DROP
+iptables -A INPUT -s 4.247.38.149/32 -j DROP
+iptables -A INPUT -s 4.247.39.0/30 -j DROP
 iptables -A INPUT -s 13.73.248.16/29 -j DROP
 iptables -A INPUT -s 20.15.221.168/29 -j DROP
 iptables -A INPUT -s 20.17.126.64/29 -j DROP
@@ -93,6 +96,7 @@ iptables -A INPUT -s 48.194.215.232/29 -j DROP
 iptables -A INPUT -s 48.195.103.80/29 -j DROP
 iptables -A INPUT -s 48.195.103.88/31 -j DROP
 iptables -A INPUT -s 48.215.176.192/29 -j DROP
+iptables -A INPUT -s 48.215.177.209/32 -j DROP
 iptables -A INPUT -s 48.223.58.96/28 -j DROP
 iptables -A INPUT -s 51.12.41.8/29 -j DROP
 iptables -A INPUT -s 51.12.193.8/29 -j DROP
@@ -117,6 +121,8 @@ iptables -A INPUT -s 57.175.48.152/29 -j DROP
 iptables -A INPUT -s 68.210.172.176/29 -j DROP
 iptables -A INPUT -s 68.221.93.128/29 -j DROP
 iptables -A INPUT -s 69.15.0.0/16 -j DROP
+iptables -A INPUT -s 74.147.18.120/30 -j DROP
+iptables -A INPUT -s 74.147.18.124/32 -j DROP
 iptables -A INPUT -s 74.225.54.90/31 -j DROP
 iptables -A INPUT -s 74.225.55.96/29 -j DROP
 iptables -A INPUT -s 102.133.56.88/29 -j DROP
@@ -132,8 +138,12 @@ iptables -A INPUT -s 172.179.226.0/29 -j DROP
 iptables -A INPUT -s 172.179.226.8/31 -j DROP
 iptables -A INPUT -s 172.186.128.148/31 -j DROP
 iptables -A INPUT -s 172.186.129.160/29 -j DROP
+iptables -A INPUT -s 172.186.135.55/32 -j DROP
+iptables -A INPUT -s 172.186.135.168/30 -j DROP
 iptables -A INPUT -s 172.192.205.94/31 -j DROP
 iptables -A INPUT -s 172.192.208.104/29 -j DROP
+iptables -A INPUT -s 172.192.222.178/32 -j DROP
+iptables -A INPUT -s 172.192.222.180/30 -j DROP
 iptables -A INPUT -s 172.199.23.76/30 -j DROP
 iptables -A INPUT -s 172.199.23.80/29 -j DROP
 iptables -A INPUT -s 172.199.128.49/32 -j DROP

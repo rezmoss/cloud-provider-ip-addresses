@@ -14,6 +14,7 @@ ip_address,ip_type,service,region
 16.65.0.0/16,IPv4,EC2,us-gov-east-1
 16.65.74.0/23,IPv4,AMAZON,us-gov-east-1
 16.66.0.0/16,IPv4,AMAZON,us-gov-east-1
+16.66.0.0/16,IPv4,EC2,us-gov-east-1
 16.67.0.0/16,IPv4,AMAZON,us-gov-east-1
 16.152.0.0/16,IPv4,AMAZON,us-gov-east-1
 16.153.0.0/16,IPv4,AMAZON,us-gov-east-1
@@ -73,8 +74,6 @@ ip_address,ip_type,service,region
 35.71.115.0/24,IPv4,AMAZON,us-gov-east-1
 35.71.115.0/24,IPv4,DYNAMODB,us-gov-east-1
 35.71.115.0/24,IPv4,EC2,us-gov-east-1
-35.111.253.0/24,IPv4,AMAZON,us-gov-east-1
-35.111.253.0/24,IPv4,EC2,us-gov-east-1
 52.46.96.0/19,IPv4,AMAZON,us-gov-east-1
 52.94.22.0/24,IPv4,AMAZON,us-gov-east-1
 52.94.22.0/24,IPv4,DYNAMODB,us-gov-east-1

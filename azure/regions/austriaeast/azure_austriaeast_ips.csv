@@ -20,6 +20,7 @@ ip_address,ip_type,service,region
 40.80.28.0/22,IPv4,AzureCloud.austriaeast,austriaeast
 40.93.89.0/24,IPv4,AzureCloud.austriaeast,austriaeast
 40.98.18.0/24,IPv4,AzureCloud.austriaeast,austriaeast
+40.98.22.128/26,IPv4,AzureCloud.austriaeast,austriaeast
 40.100.4.128/25,IPv4,AzureCloud.austriaeast,austriaeast
 40.100.5.0/26,IPv4,AzureCloud.austriaeast,austriaeast
 40.101.116.0/25,IPv4,AzureCloud.austriaeast,austriaeast

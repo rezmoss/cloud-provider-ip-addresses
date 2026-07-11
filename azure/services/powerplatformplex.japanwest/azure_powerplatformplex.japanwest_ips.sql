@@ -16,4 +16,7 @@ INSERT INTO `azure_powerplatformplex.japanwest_ips` (`ip_address`, `ip_type`) VA
 INSERT INTO `azure_powerplatformplex.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('20.189.199.32/30', 'IPv4');
 INSERT INTO `azure_powerplatformplex.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('135.149.216.128/25', 'IPv4');
 INSERT INTO `azure_powerplatformplex.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('135.149.217.0/26', 'IPv4');
+INSERT INTO `azure_powerplatformplex.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('172.192.222.184/29', 'IPv4');
+INSERT INTO `azure_powerplatformplex.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('172.192.222.224/28', 'IPv4');
+INSERT INTO `azure_powerplatformplex.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('172.192.223.0/26', 'IPv4');
 INSERT INTO `azure_powerplatformplex.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2004:3100::/57', 'IPv6');

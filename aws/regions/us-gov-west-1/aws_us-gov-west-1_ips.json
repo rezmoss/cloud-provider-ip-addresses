@@ -330,18 +330,6 @@
     "region": "us-gov-west-1"
   },
   {
-    "ip_address": "35.111.252.0/24",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "us-gov-west-1"
-  },
-  {
-    "ip_address": "35.111.252.0/24",
-    "ip_type": "IPv4",
-    "service": "EC2",
-    "region": "us-gov-west-1"
-  },
-  {
     "ip_address": "40.38.0.0/16",
     "ip_type": "IPv4",
     "service": "AMAZON",

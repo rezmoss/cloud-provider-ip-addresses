@@ -750,6 +750,18 @@
     "region": "ap-south-1"
   },
   {
+    "ip_address": "15.252.46.0/23",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-south-1"
+  },
+  {
+    "ip_address": "15.252.48.0/23",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-south-1"
+  },
+  {
     "ip_address": "16.4.0.0/16",
     "ip_type": "IPv4",
     "service": "AMAZON",

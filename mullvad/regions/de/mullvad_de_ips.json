@@ -300,19 +300,19 @@
     "region": "de"
   },
   {
-    "ip_address": "2a03:1b20:b:f011::a04f/128",
-    "ip_type": "IPv6",
-    "service": "mullvad-wireguard",
-    "region": "de"
-  },
-  {
-    "ip_address": "2a03:1b20:b:f011::a05f/128",
-    "ip_type": "IPv6",
-    "service": "mullvad-wireguard",
-    "region": "de"
-  },
-  {
     "ip_address": "2a03:1b20:b:f011::a06f/128",
+    "ip_type": "IPv6",
+    "service": "mullvad-wireguard",
+    "region": "de"
+  },
+  {
+    "ip_address": "2a03:1b20:b:f011::f301/128",
+    "ip_type": "IPv6",
+    "service": "mullvad-wireguard",
+    "region": "de"
+  },
+  {
+    "ip_address": "2a03:1b20:b:f011::f401/128",
     "ip_type": "IPv6",
     "service": "mullvad-wireguard",
     "region": "de"

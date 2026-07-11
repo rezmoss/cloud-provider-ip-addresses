@@ -212,12 +212,8 @@ INSERT INTO `azure_azurecloud.centralus_ips` (`ip_address`, `ip_type`) VALUES ('
 INSERT INTO `azure_azurecloud.centralus_ips` (`ip_address`, `ip_type`) VALUES ('40.87.182.48/29', 'IPv4');
 INSERT INTO `azure_azurecloud.centralus_ips` (`ip_address`, `ip_type`) VALUES ('40.87.182.56/30', 'IPv4');
 INSERT INTO `azure_azurecloud.centralus_ips` (`ip_address`, `ip_type`) VALUES ('40.87.182.62/31', 'IPv4');
-INSERT INTO `azure_azurecloud.centralus_ips` (`ip_address`, `ip_type`) VALUES ('40.87.182.64/28', 'IPv4');
-INSERT INTO `azure_azurecloud.centralus_ips` (`ip_address`, `ip_type`) VALUES ('40.87.182.80/30', 'IPv4');
-INSERT INTO `azure_azurecloud.centralus_ips` (`ip_address`, `ip_type`) VALUES ('40.87.182.84/31', 'IPv4');
-INSERT INTO `azure_azurecloud.centralus_ips` (`ip_address`, `ip_type`) VALUES ('40.87.182.94/31', 'IPv4');
-INSERT INTO `azure_azurecloud.centralus_ips` (`ip_address`, `ip_type`) VALUES ('40.87.182.96/29', 'IPv4');
-INSERT INTO `azure_azurecloud.centralus_ips` (`ip_address`, `ip_type`) VALUES ('40.87.182.104/30', 'IPv4');
+INSERT INTO `azure_azurecloud.centralus_ips` (`ip_address`, `ip_type`) VALUES ('40.87.182.64/27', 'IPv4');
+INSERT INTO `azure_azurecloud.centralus_ips` (`ip_address`, `ip_type`) VALUES ('40.87.182.96/28', 'IPv4');
 INSERT INTO `azure_azurecloud.centralus_ips` (`ip_address`, `ip_type`) VALUES ('40.87.182.116/30', 'IPv4');
 INSERT INTO `azure_azurecloud.centralus_ips` (`ip_address`, `ip_type`) VALUES ('40.87.182.120/30', 'IPv4');
 INSERT INTO `azure_azurecloud.centralus_ips` (`ip_address`, `ip_type`) VALUES ('40.87.182.136/29', 'IPv4');
@@ -280,6 +276,7 @@ INSERT INTO `azure_azurecloud.centralus_ips` (`ip_address`, `ip_type`) VALUES ('
 INSERT INTO `azure_azurecloud.centralus_ips` (`ip_address`, `ip_type`) VALUES ('40.97.12.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.centralus_ips` (`ip_address`, `ip_type`) VALUES ('40.97.55.64/26', 'IPv4');
 INSERT INTO `azure_azurecloud.centralus_ips` (`ip_address`, `ip_type`) VALUES ('40.97.55.128/25', 'IPv4');
+INSERT INTO `azure_azurecloud.centralus_ips` (`ip_address`, `ip_type`) VALUES ('40.98.3.0/26', 'IPv4');
 INSERT INTO `azure_azurecloud.centralus_ips` (`ip_address`, `ip_type`) VALUES ('40.113.192.0/18', 'IPv4');
 INSERT INTO `azure_azurecloud.centralus_ips` (`ip_address`, `ip_type`) VALUES ('40.120.164.2/31', 'IPv4');
 INSERT INTO `azure_azurecloud.centralus_ips` (`ip_address`, `ip_type`) VALUES ('40.120.164.4/30', 'IPv4');
@@ -778,14 +775,7 @@ INSERT INTO `azure_azurecloud.centralus_ips` (`ip_address`, `ip_type`) VALUES ('
 INSERT INTO `azure_azurecloud.centralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:9:1db::/64', 'IPv6');
 INSERT INTO `azure_azurecloud.centralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:9:1dc::/62', 'IPv6');
 INSERT INTO `azure_azurecloud.centralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:9:1e0::/59', 'IPv6');
-INSERT INTO `azure_azurecloud.centralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:9:200::/58', 'IPv6');
-INSERT INTO `azure_azurecloud.centralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:9:240::/59', 'IPv6');
-INSERT INTO `azure_azurecloud.centralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:9:260::/60', 'IPv6');
-INSERT INTO `azure_azurecloud.centralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:9:270::/64', 'IPv6');
-INSERT INTO `azure_azurecloud.centralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:9:273::/64', 'IPv6');
-INSERT INTO `azure_azurecloud.centralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:9:274::/62', 'IPv6');
-INSERT INTO `azure_azurecloud.centralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:9:27b::/64', 'IPv6');
-INSERT INTO `azure_azurecloud.centralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:9:27c::/62', 'IPv6');
+INSERT INTO `azure_azurecloud.centralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:9:200::/57', 'IPv6');
 INSERT INTO `azure_azurecloud.centralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:9:280::/61', 'IPv6');
 INSERT INTO `azure_azurecloud.centralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:9:288::/62', 'IPv6');
 INSERT INTO `azure_azurecloud.centralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:9:28d::/64', 'IPv6');
@@ -793,6 +783,7 @@ INSERT INTO `azure_azurecloud.centralus_ips` (`ip_address`, `ip_type`) VALUES ('
 INSERT INTO `azure_azurecloud.centralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:9:290::/61', 'IPv6');
 INSERT INTO `azure_azurecloud.centralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:9:298::/62', 'IPv6');
 INSERT INTO `azure_azurecloud.centralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:9:29c::/64', 'IPv6');
+INSERT INTO `azure_azurecloud.centralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:9:29e::/64', 'IPv6');
 INSERT INTO `azure_azurecloud.centralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:9:2a0::/64', 'IPv6');
 INSERT INTO `azure_azurecloud.centralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:9:2a4::/64', 'IPv6');
 INSERT INTO `azure_azurecloud.centralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:9:2a8::/61', 'IPv6');

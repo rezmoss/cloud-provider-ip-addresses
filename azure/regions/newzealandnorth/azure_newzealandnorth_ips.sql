@@ -43,7 +43,8 @@ INSERT INTO `azure_newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('40.12
 INSERT INTO `azure_newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('40.120.174.0/24', 'IPv4');
 INSERT INTO `azure_newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('40.120.175.0/28', 'IPv4');
 INSERT INTO `azure_newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('40.120.175.16/29', 'IPv4');
-INSERT INTO `azure_newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('40.120.175.24/31', 'IPv4');
+INSERT INTO `azure_newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('40.120.175.24/30', 'IPv4');
+INSERT INTO `azure_newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('40.120.175.28/31', 'IPv4');
 INSERT INTO `azure_newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('48.212.21.0/24', 'IPv4');
 INSERT INTO `azure_newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('48.212.149.0/24', 'IPv4');
 INSERT INTO `azure_newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('48.213.21.0/24', 'IPv4');
@@ -306,7 +307,8 @@ INSERT INTO `azure_newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:
 INSERT INTO `azure_newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:100e::/56', 'IPv6');
 INSERT INTO `azure_newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:100e:100::/57', 'IPv6');
 INSERT INTO `azure_newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:100e:180::/62', 'IPv6');
-INSERT INTO `azure_newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:100e:184::/64', 'IPv6');
+INSERT INTO `azure_newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:100e:184::/63', 'IPv6');
+INSERT INTO `azure_newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:100e:186::/64', 'IPv6');
 INSERT INTO `azure_newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1314:1000::/54', 'IPv6');
 INSERT INTO `azure_newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1739::/48', 'IPv6');
 INSERT INTO `azure_newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2002:b000::/57', 'IPv6');

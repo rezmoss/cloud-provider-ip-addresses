@@ -306,6 +306,24 @@
     "region": ""
   },
   {
+    "ip_address": "4.215.16.0/24",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra",
+    "region": ""
+  },
+  {
+    "ip_address": "4.216.21.120/29",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra",
+    "region": ""
+  },
+  {
+    "ip_address": "4.216.22.128/26",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra",
+    "region": ""
+  },
+  {
     "ip_address": "4.220.153.0/26",
     "ip_type": "IPv4",
     "service": "PowerPlatformInfra",
@@ -8821,6 +8839,24 @@
   },
   {
     "ip_address": "172.187.38.0/23",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra",
+    "region": ""
+  },
+  {
+    "ip_address": "172.192.222.240/29",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra",
+    "region": ""
+  },
+  {
+    "ip_address": "172.192.223.64/26",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra",
+    "region": ""
+  },
+  {
+    "ip_address": "172.192.224.0/24",
     "ip_type": "IPv4",
     "service": "PowerPlatformInfra",
     "region": ""

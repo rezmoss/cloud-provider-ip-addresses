@@ -20,7 +20,8 @@ INSERT INTO `azure_indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('20.2
 INSERT INTO `azure_indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('20.20.66.128/26', 'IPv4');
 INSERT INTO `azure_indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('20.20.66.192/27', 'IPv4');
 INSERT INTO `azure_indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('20.20.66.224/28', 'IPv4');
-INSERT INTO `azure_indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('20.20.66.240/31', 'IPv4');
+INSERT INTO `azure_indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('20.20.66.240/30', 'IPv4');
+INSERT INTO `azure_indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('20.20.66.244/31', 'IPv4');
 INSERT INTO `azure_indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('20.33.210.0/24', 'IPv4');
 INSERT INTO `azure_indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('20.33.210.0/24', 'IPv4');
 INSERT INTO `azure_indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('20.33.219.0/24', 'IPv4');
@@ -310,7 +311,8 @@ INSERT INTO `azure_indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603
 INSERT INTO `azure_indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1010:100::/58', 'IPv6');
 INSERT INTO `azure_indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1010:140::/59', 'IPv6');
 INSERT INTO `azure_indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1010:160::/60', 'IPv6');
-INSERT INTO `azure_indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1010:170::/64', 'IPv6');
+INSERT INTO `azure_indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1010:170::/63', 'IPv6');
+INSERT INTO `azure_indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1010:172::/64', 'IPv6');
 INSERT INTO `azure_indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1310:5800::/54', 'IPv6');
 INSERT INTO `azure_indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1743::/48', 'IPv6');
 INSERT INTO `azure_indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2000:660::/62', 'IPv6');

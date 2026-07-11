@@ -439,6 +439,7 @@ INSERT INTO `vultr_unknown_service_ips` (`ip_address`, `ip_type`) VALUES ('209.2
 INSERT INTO `vultr_unknown_service_ips` (`ip_address`, `ip_type`) VALUES ('216.128.128.0/20', 'IPv4');
 INSERT INTO `vultr_unknown_service_ips` (`ip_address`, `ip_type`) VALUES ('216.128.144.0/20', 'IPv4');
 INSERT INTO `vultr_unknown_service_ips` (`ip_address`, `ip_type`) VALUES ('216.128.160.0/21', 'IPv4');
+INSERT INTO `vultr_unknown_service_ips` (`ip_address`, `ip_type`) VALUES ('216.128.168.0/21', 'IPv4');
 INSERT INTO `vultr_unknown_service_ips` (`ip_address`, `ip_type`) VALUES ('216.128.176.0/20', 'IPv4');
 INSERT INTO `vultr_unknown_service_ips` (`ip_address`, `ip_type`) VALUES ('216.155.128.0/19', 'IPv4');
 INSERT INTO `vultr_unknown_service_ips` (`ip_address`, `ip_type`) VALUES ('216.238.64.0/19', 'IPv4');

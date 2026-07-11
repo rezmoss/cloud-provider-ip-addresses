@@ -132,6 +132,18 @@
     "region": "belgiumcentral"
   },
   {
+    "ip_address": "40.98.23.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.belgiumcentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "40.98.23.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.belgiumcentral",
+    "region": "belgiumcentral"
+  },
+  {
     "ip_address": "40.101.113.192/26",
     "ip_type": "IPv4",
     "service": "AzureCloud.belgiumcentral",
@@ -253,6 +265,18 @@
   },
   {
     "ip_address": "2603:1026:900:42::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.belgiumcentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1026:900:50::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.belgiumcentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1026:900:52::/63",
     "ip_type": "IPv6",
     "service": "AzureCloud.belgiumcentral",
     "region": "belgiumcentral"

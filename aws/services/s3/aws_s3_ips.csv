@@ -756,6 +756,7 @@ ip_address,ip_type,service,region
 2600:9000:a211::/48,IPv6,S3,GLOBAL
 2600:9000:a310::/48,IPv6,S3,GLOBAL
 2600:9000:a311::/48,IPv6,S3,GLOBAL
+2600:f0f0:4200::/40,IPv6,S3,us-east-2
 2600:f0f0:6100::/48,IPv6,S3,us-east-1
 2600:f0f0:6101::/48,IPv6,S3,us-east-1
 2600:f0f0:6102::/48,IPv6,S3,ap-northeast-1

@@ -46,6 +46,9 @@ INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('4.2
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('4.209.232.0/23', 'IPv4');
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('4.209.234.0/25', 'IPv4');
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('4.213.28.0/29', 'IPv4');
+INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('4.216.21.96/28', 'IPv4');
+INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('4.216.21.112/29', 'IPv4');
+INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('4.216.22.64/26', 'IPv4');
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('4.216.203.208/28', 'IPv4');
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('4.216.204.192/29', 'IPv4');
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('4.218.236.128/28', 'IPv4');
@@ -397,6 +400,9 @@ INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('172
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('172.191.253.128/25', 'IPv4');
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('172.192.80.128/25', 'IPv4');
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('172.192.81.0/26', 'IPv4');
+INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('172.192.222.184/29', 'IPv4');
+INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('172.192.222.224/28', 'IPv4');
+INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('172.192.223.0/26', 'IPv4');
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('172.195.121.128/25', 'IPv4');
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('172.197.30.0/25', 'IPv4');
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('172.197.133.128/25', 'IPv4');

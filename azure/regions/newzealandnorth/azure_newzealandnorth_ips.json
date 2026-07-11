@@ -222,7 +222,13 @@
     "region": "newzealandnorth"
   },
   {
-    "ip_address": "40.120.175.24/31",
+    "ip_address": "40.120.175.24/30",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "40.120.175.28/31",
     "ip_type": "IPv4",
     "service": "AzureCloud.newzealandnorth",
     "region": "newzealandnorth"
@@ -1800,7 +1806,13 @@
     "region": "newzealandnorth"
   },
   {
-    "ip_address": "2603:1061:100e:184::/64",
+    "ip_address": "2603:1061:100e:184::/63",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.newzealandnorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1061:100e:186::/64",
     "ip_type": "IPv6",
     "service": "AzureCloud.newzealandnorth",
     "region": "newzealandnorth"

@@ -172,7 +172,6 @@ ip_address,ip_type,service,region
 35.71.97.0/24,IPv4,AMAZON,ap-southeast-2
 35.71.97.0/24,IPv4,DYNAMODB,ap-southeast-2
 35.71.97.0/24,IPv4,EC2,ap-southeast-2
-35.98.144.0/20,IPv4,AMAZON,ap-southeast-2
 40.32.0.0/16,IPv4,AMAZON,ap-southeast-2
 40.35.0.0/16,IPv4,AMAZON,ap-southeast-2
 40.238.0.0/16,IPv4,AMAZON,ap-southeast-2
@@ -467,6 +466,3 @@ ip_address,ip_type,service,region
 2606:7b40:1b07:4100::/56,IPv6,EC2,ap-southeast-2
 2606:7b40:1b07:4200::/56,IPv6,AMAZON,ap-southeast-2
 2606:7b40:1b07:4200::/56,IPv6,EC2,ap-southeast-2
-2631:0:2600::/39,IPv6,AMAZON,ap-southeast-2
-2631:1:107::/48,IPv6,AMAZON,ap-southeast-2
-2631:1:107::/48,IPv6,EC2,ap-southeast-2

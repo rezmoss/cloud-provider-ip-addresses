@@ -330,12 +330,6 @@
     "region": "se"
   },
   {
-    "ip_address": "2a03:1b20:1:f410::a01f/128",
-    "ip_type": "IPv6",
-    "service": "mullvad-wireguard",
-    "region": "se"
-  },
-  {
     "ip_address": "2a03:1b20:1:f410::a15f/128",
     "ip_type": "IPv6",
     "service": "mullvad-wireguard",
@@ -361,6 +355,12 @@
   },
   {
     "ip_address": "2a03:1b20:1:f410::f201/128",
+    "ip_type": "IPv6",
+    "service": "mullvad-wireguard",
+    "region": "se"
+  },
+  {
+    "ip_address": "2a03:1b20:1:f410::fa01/128",
     "ip_type": "IPv6",
     "service": "mullvad-wireguard",
     "region": "se"

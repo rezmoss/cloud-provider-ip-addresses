@@ -72,6 +72,18 @@
     "region": "us-south-1"
   },
   {
+    "ip_address": "23.254.28.0/23",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-south-1"
+  },
+  {
+    "ip_address": "23.254.28.0/23",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-south-1"
+  },
+  {
     "ip_address": "23.254.32.0/21",
     "ip_type": "IPv4",
     "service": "AMAZON",

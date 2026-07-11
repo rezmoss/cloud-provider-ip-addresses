@@ -11,6 +11,8 @@ ip_address,ip_type,service,region
 15.190.176.0/20,IPv4,AMAZON,us-south-1
 15.190.224.0/22,IPv4,AMAZON,us-south-1
 15.248.176.0/21,IPv4,AMAZON,us-south-1
+23.254.28.0/23,IPv4,AMAZON,us-south-1
+23.254.28.0/23,IPv4,EC2,us-south-1
 23.254.32.0/21,IPv4,AMAZON,us-south-1
 23.254.32.0/21,IPv4,EC2,us-south-1
 46.168.0.0/15,IPv4,AMAZON,us-south-1
