@@ -1,0 +1,35 @@
+# gocache IP ranges - ipset restore format (hash:net)
+# Version: 1 | Generated: 2026-07-12 | Last changed: 2026-07-12
+# IPv4: 25 merged subnets, 600 unique IPs
+# IPv6: 0 merged subnets
+# Source: https://github.com/rezmoss/cloud-provider-ip-addresses
+# License: CC0-1.0 | Updated daily at 02:00 UTC
+# Load with: sudo ipset restore -! < gocache.netset
+#
+create gocache_v4 hash:net family inet hashsize 4096 maxelem 1048576 -exist
+flush gocache_v4
+add gocache_v4 34.95.148.131/32
+add gocache_v4 34.95.164.249/32
+add gocache_v4 34.95.168.58/32
+add gocache_v4 34.95.209.169/32
+add gocache_v4 34.95.213.225/32
+add gocache_v4 34.95.253.129/32
+add gocache_v4 35.247.222.78/32
+add gocache_v4 38.224.134.0/24
+add gocache_v4 45.77.97.241/32
+add gocache_v4 52.67.255.165/32
+add gocache_v4 129.159.48.87/32
+add gocache_v4 140.82.27.226/32
+add gocache_v4 144.22.216.139/32
+add gocache_v4 150.230.84.126/32
+add gocache_v4 170.82.175.0/24
+add gocache_v4 170.84.29.208/29
+add gocache_v4 186.211.161.0/29
+add gocache_v4 186.211.188.192/28
+add gocache_v4 187.16.245.192/29
+add gocache_v4 187.85.159.176/29
+add gocache_v4 200.98.28.70/32
+add gocache_v4 200.189.173.48/28
+add gocache_v4 207.148.26.195/32
+add gocache_v4 207.246.123.237/32
+add gocache_v4 208.89.72.56/29

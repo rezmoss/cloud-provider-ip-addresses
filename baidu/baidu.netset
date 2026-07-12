@@ -1,0 +1,61 @@
+# baidu IP ranges - ipset restore format (hash:net)
+# Version: 1 | Generated: 2026-07-12 | Last changed: 2026-07-12
+# IPv4: 45 merged subnets, 379136 unique IPs
+# IPv6: 4 merged subnets
+# Source: https://github.com/rezmoss/cloud-provider-ip-addresses
+# License: CC0-1.0 | Updated daily at 02:00 UTC
+# Load with: sudo ipset restore -! < baidu.netset
+#
+create baidu_v4 hash:net family inet hashsize 4096 maxelem 1048576 -exist
+flush baidu_v4
+add baidu_v4 42.199.240.0/22
+add baidu_v4 45.113.192.0/23
+add baidu_v4 45.113.194.0/24
+add baidu_v4 103.235.44.0/22
+add baidu_v4 104.193.88.0/23
+add baidu_v4 104.193.90.0/24
+add baidu_v4 106.12.0.0/17
+add baidu_v4 106.12.128.0/18
+add baidu_v4 106.12.192.0/19
+add baidu_v4 106.12.224.0/20
+add baidu_v4 106.12.240.0/21
+add baidu_v4 106.13.0.0/17
+add baidu_v4 106.13.128.0/18
+add baidu_v4 106.13.192.0/19
+add baidu_v4 106.13.224.0/20
+add baidu_v4 106.13.240.0/22
+add baidu_v4 119.75.208.0/20
+add baidu_v4 120.48.0.0/16
+add baidu_v4 120.49.0.0/17
+add baidu_v4 120.49.192.0/18
+add baidu_v4 150.242.120.0/22
+add baidu_v4 154.85.32.0/21
+add baidu_v4 154.85.40.0/22
+add baidu_v4 154.85.44.0/23
+add baidu_v4 154.85.48.0/20
+add baidu_v4 156.240.112.0/20
+add baidu_v4 180.76.0.0/17
+add baidu_v4 180.76.128.0/18
+add baidu_v4 180.76.192.0/22
+add baidu_v4 180.76.196.0/23
+add baidu_v4 180.76.200.0/21
+add baidu_v4 180.76.208.0/20
+add baidu_v4 180.76.224.0/19
+add baidu_v4 182.61.0.0/18
+add baidu_v4 182.61.130.0/23
+add baidu_v4 182.61.132.0/22
+add baidu_v4 182.61.136.0/21
+add baidu_v4 182.61.144.0/20
+add baidu_v4 182.61.160.0/19
+add baidu_v4 182.61.200.0/21
+add baidu_v4 182.61.208.0/20
+add baidu_v4 182.61.224.0/19
+add baidu_v4 185.10.104.0/24
+add baidu_v4 202.46.48.0/20
+add baidu_v4 202.181.120.0/21
+create baidu_v6 hash:net family inet6 hashsize 4096 maxelem 1048576 -exist
+flush baidu_v6
+add baidu_v6 2400:da00::/32
+add baidu_v6 2402:2b40:7000::/36
+add baidu_v6 2402:2b40:8000::/36
+add baidu_v6 240c:4000::/22

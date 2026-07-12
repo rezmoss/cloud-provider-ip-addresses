@@ -4,6 +4,76 @@ Daily IP range changes across all providers.
 
 ## 2026-07-12
 
+### gocache
+- Added: 25 CIDRs
+- Removed: 0 CIDRs
+
+### quiccloud
+- Added: 153 CIDRs
+- Removed: 0 CIDRs
+
+### microsoft365
+- Added: 93 CIDRs
+- Removed: 0 CIDRs
+
+### sucuri
+- Added: 30 CIDRs
+- Removed: 0 CIDRs
+
+### zoho
+- Added: 179 CIDRs
+- Removed: 0 CIDRs
+
+### hostway
+- Added: 174 CIDRs
+- Removed: 0 CIDRs
+
+### bunny
+- Added: 47 CIDRs
+- Removed: 0 CIDRs
+
+### backblaze
+- Added: 59 CIDRs
+- Removed: 0 CIDRs
+
+### gabia
+- Added: 97 CIDRs
+- Removed: 0 CIDRs
+
+### stormwall
+- Added: 24 CIDRs
+- Removed: 0 CIDRs
+
+### gcore
+- Added: 1834 CIDRs
+- Removed: 0 CIDRs
+
+### wasabi
+- Added: 20 CIDRs
+- Removed: 0 CIDRs
+
+### upcloud
+- Added: 107 CIDRs
+- Removed: 0 CIDRs
+
+### baidu
+- Added: 195 CIDRs
+- Removed: 0 CIDRs
+
+### imperva
+- Added: 12 CIDRs
+- Removed: 0 CIDRs
+
+### cachefly
+- Added: 16 CIDRs
+- Removed: 0 CIDRs
+
+### nhncloud
+- Added: 372 CIDRs
+- Removed: 0 CIDRs
+
+## 2026-07-12
+
 ### googleservices
 - Added: 340 CIDRs
 - Removed: 0 CIDRs

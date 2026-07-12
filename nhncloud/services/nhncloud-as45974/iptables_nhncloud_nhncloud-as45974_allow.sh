@@ -1,0 +1,98 @@
+#!/bin/bash
+# Nhncloud IP Ranges
+# Updated: 2026-07-12 03:46:27
+# Source: https://github.com/rezmoss/cloud-provider-ip-addresses
+# License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
+# This file is generated automatically. Do not edit it directly.
+# Updates daily at 02:00 UTC
+# iptables allow rules for nhncloud
+
+iptables -A INPUT -s 1.209.199.0/24 -j ACCEPT
+iptables -A INPUT -s 43.227.116.0/22 -j ACCEPT
+iptables -A INPUT -s 43.254.244.0/24 -j ACCEPT
+iptables -A INPUT -s 45.125.232.0/22 -j ACCEPT
+iptables -A INPUT -s 45.249.160.0/22 -j ACCEPT
+iptables -A INPUT -s 61.42.226.0/24 -j ACCEPT
+iptables -A INPUT -s 61.111.36.0/22 -j ACCEPT
+iptables -A INPUT -s 101.79.68.0/22 -j ACCEPT
+iptables -A INPUT -s 101.79.80.0/21 -j ACCEPT
+iptables -A INPUT -s 101.79.92.0/22 -j ACCEPT
+iptables -A INPUT -s 103.87.116.0/22 -j ACCEPT
+iptables -A INPUT -s 103.132.32.0/22 -j ACCEPT
+iptables -A INPUT -s 103.194.108.0/22 -j ACCEPT
+iptables -A INPUT -s 103.218.156.0/22 -j ACCEPT
+iptables -A INPUT -s 103.243.201.0/24 -j ACCEPT
+iptables -A INPUT -s 103.243.202.0/23 -j ACCEPT
+iptables -A INPUT -s 106.249.18.0/23 -j ACCEPT
+iptables -A INPUT -s 106.249.20.0/22 -j ACCEPT
+iptables -A INPUT -s 106.249.24.0/21 -j ACCEPT
+iptables -A INPUT -s 106.249.32.0/23 -j ACCEPT
+iptables -A INPUT -s 110.45.212.0/22 -j ACCEPT
+iptables -A INPUT -s 114.110.128.0/21 -j ACCEPT
+iptables -A INPUT -s 114.110.136.0/22 -j ACCEPT
+iptables -A INPUT -s 114.110.140.0/23 -j ACCEPT
+iptables -A INPUT -s 114.110.143.0/24 -j ACCEPT
+iptables -A INPUT -s 114.110.144.0/22 -j ACCEPT
+iptables -A INPUT -s 114.110.150.0/24 -j ACCEPT
+iptables -A INPUT -s 114.110.152.0/24 -j ACCEPT
+iptables -A INPUT -s 114.110.154.0/24 -j ACCEPT
+iptables -A INPUT -s 114.110.156.0/22 -j ACCEPT
+iptables -A INPUT -s 114.110.160.0/22 -j ACCEPT
+iptables -A INPUT -s 114.110.164.0/24 -j ACCEPT
+iptables -A INPUT -s 114.110.166.0/24 -j ACCEPT
+iptables -A INPUT -s 114.110.177.0/24 -j ACCEPT
+iptables -A INPUT -s 114.110.178.0/24 -j ACCEPT
+iptables -A INPUT -s 114.110.180.0/22 -j ACCEPT
+iptables -A INPUT -s 114.110.184.0/21 -j ACCEPT
+iptables -A INPUT -s 115.88.123.0/24 -j ACCEPT
+iptables -A INPUT -s 115.88.132.0/24 -j ACCEPT
+iptables -A INPUT -s 115.89.67.0/24 -j ACCEPT
+iptables -A INPUT -s 115.89.74.0/24 -j ACCEPT
+iptables -A INPUT -s 115.89.203.0/24 -j ACCEPT
+iptables -A INPUT -s 115.92.64.0/24 -j ACCEPT
+iptables -A INPUT -s 117.52.5.0/24 -j ACCEPT
+iptables -A INPUT -s 117.52.20.0/24 -j ACCEPT
+iptables -A INPUT -s 117.52.122.0/23 -j ACCEPT
+iptables -A INPUT -s 117.52.154.0/23 -j ACCEPT
+iptables -A INPUT -s 121.254.219.0/24 -j ACCEPT
+iptables -A INPUT -s 125.6.32.0/24 -j ACCEPT
+iptables -A INPUT -s 125.6.36.0/22 -j ACCEPT
+iptables -A INPUT -s 125.6.40.0/21 -j ACCEPT
+iptables -A INPUT -s 125.6.48.0/21 -j ACCEPT
+iptables -A INPUT -s 125.6.57.0/24 -j ACCEPT
+iptables -A INPUT -s 125.6.58.0/23 -j ACCEPT
+iptables -A INPUT -s 125.6.60.0/24 -j ACCEPT
+iptables -A INPUT -s 133.186.128.0/17 -j ACCEPT
+iptables -A INPUT -s 180.210.64.0/22 -j ACCEPT
+iptables -A INPUT -s 180.210.68.0/24 -j ACCEPT
+iptables -A INPUT -s 180.210.70.0/23 -j ACCEPT
+iptables -A INPUT -s 180.210.74.0/23 -j ACCEPT
+iptables -A INPUT -s 180.210.76.0/22 -j ACCEPT
+iptables -A INPUT -s 180.210.80.0/22 -j ACCEPT
+iptables -A INPUT -s 180.210.84.0/24 -j ACCEPT
+iptables -A INPUT -s 180.210.87.0/24 -j ACCEPT
+iptables -A INPUT -s 180.210.88.0/22 -j ACCEPT
+iptables -A INPUT -s 180.210.92.0/24 -j ACCEPT
+iptables -A INPUT -s 180.210.95.0/24 -j ACCEPT
+iptables -A INPUT -s 180.210.96.0/24 -j ACCEPT
+iptables -A INPUT -s 180.210.100.0/22 -j ACCEPT
+iptables -A INPUT -s 180.210.104.0/21 -j ACCEPT
+iptables -A INPUT -s 180.210.112.0/20 -j ACCEPT
+iptables -A INPUT -s 210.124.216.0/24 -j ACCEPT
+iptables -A INPUT -s 210.206.88.0/24 -j ACCEPT
+iptables -A INPUT -s 211.32.155.0/24 -j ACCEPT
+iptables -A INPUT -s 211.50.32.0/24 -j ACCEPT
+iptables -A INPUT -s 211.50.58.0/24 -j ACCEPT
+iptables -A INPUT -s 211.56.0.0/21 -j ACCEPT
+iptables -A INPUT -s 211.168.237.0/24 -j ACCEPT
+iptables -A INPUT -s 211.170.184.0/24 -j ACCEPT
+iptables -A INPUT -s 211.172.144.0/23 -j ACCEPT
+iptables -A INPUT -s 211.180.235.0/24 -j ACCEPT
+iptables -A INPUT -s 211.188.96.0/22 -j ACCEPT
+iptables -A INPUT -s 211.188.100.0/23 -j ACCEPT
+iptables -A INPUT -s 211.188.103.0/24 -j ACCEPT
+iptables -A INPUT -s 211.255.136.0/21 -j ACCEPT
+iptables -A INPUT -s 223.255.200.0/23 -j ACCEPT
+iptables -A INPUT -s 223.255.202.0/24 -j ACCEPT
+iptables -A INPUT -s 223.255.204.0/23 -j ACCEPT
+iptables -A INPUT -s 223.255.207.0/24 -j ACCEPT

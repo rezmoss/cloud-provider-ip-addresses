@@ -1,0 +1,8 @@
+[
+  {
+    "ip_address": "103.243.200.0/24",
+    "ip_type": "IPv4",
+    "service": "nhncloud-as10038",
+    "region": "global"
+  }
+]

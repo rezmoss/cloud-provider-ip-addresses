@@ -1,0 +1,50 @@
+[
+  {
+    "ip_address": "147.124.12.0/23",
+    "ip_type": "IPv4",
+    "service": "zoho-as135102",
+    "region": "global"
+  },
+  {
+    "ip_address": "147.124.14.0/23",
+    "ip_type": "IPv4",
+    "service": "zoho-as135102",
+    "region": "global"
+  },
+  {
+    "ip_address": "160.25.254.0/23",
+    "ip_type": "IPv4",
+    "service": "zoho-as135102",
+    "region": "global"
+  },
+  {
+    "ip_address": "167.254.236.0/23",
+    "ip_type": "IPv4",
+    "service": "zoho-as135102",
+    "region": "global"
+  },
+  {
+    "ip_address": "167.254.238.0/23",
+    "ip_type": "IPv4",
+    "service": "zoho-as135102",
+    "region": "global"
+  },
+  {
+    "ip_address": "192.65.2.0/23",
+    "ip_type": "IPv4",
+    "service": "zoho-as135102",
+    "region": "global"
+  },
+  {
+    "ip_address": "2401:9ce0::/47",
+    "ip_type": "IPv6",
+    "service": "zoho-as135102",
+    "region": "global"
+  },
+  {
+    "ip_address": "2401:9ce0::/48",
+    "ip_type": "IPv6",
+    "service": "zoho-as135102",
+    "region": "global"
+  }
+]

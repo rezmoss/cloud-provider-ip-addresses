@@ -1,0 +1,104 @@
+[
+  {
+    "ip_address": "8.33.38.0/24",
+    "ip_type": "IPv4",
+    "service": "zoho-as397849",
+    "region": "global"
+  },
+  {
+    "ip_address": "8.33.39.0/24",
+    "ip_type": "IPv4",
+    "service": "zoho-as397849",
+    "region": "global"
+  },
+  {
+    "ip_address": "8.47.10.0/24",
+    "ip_type": "IPv4",
+    "service": "zoho-as397849",
+    "region": "global"
+  },
+  {
+    "ip_address": "8.47.11.0/24",
+    "ip_type": "IPv4",
+    "service": "zoho-as397849",
+    "region": "global"
+  },
+  {
+    "ip_address": "136.143.172.0/24",
+    "ip_type": "IPv4",
+    "service": "zoho-as397849",
+    "region": "global"
+  },
+  {
+    "ip_address": "136.143.173.0/24",
+    "ip_type": "IPv4",
+    "service": "zoho-as397849",
+    "region": "global"
+  },
+  {
+    "ip_address": "136.143.174.0/24",
+    "ip_type": "IPv4",
+    "service": "zoho-as397849",
+    "region": "global"
+  },
+  {
+    "ip_address": "160.32.128.0/19",
+    "ip_type": "IPv4",
+    "service": "zoho-as397849",
+    "region": "global"
+  },
+  {
+    "ip_address": "160.32.160.0/20",
+    "ip_type": "IPv4",
+    "service": "zoho-as397849",
+    "region": "global"
+  },
+  {
+    "ip_address": "160.32.176.0/21",
+    "ip_type": "IPv4",
+    "service": "zoho-as397849",
+    "region": "global"
+  },
+  {
+    "ip_address": "169.148.151.0/24",
+    "ip_type": "IPv4",
+    "service": "zoho-as397849",
+    "region": "global"
+  },
+  {
+    "ip_address": "169.148.152.0/23",
+    "ip_type": "IPv4",
+    "service": "zoho-as397849",
+    "region": "global"
+  },
+  {
+    "ip_address": "169.148.154.0/23",
+    "ip_type": "IPv4",
+    "service": "zoho-as397849",
+    "region": "global"
+  },
+  {
+    "ip_address": "169.148.156.0/24",
+    "ip_type": "IPv4",
+    "service": "zoho-as397849",
+    "region": "global"
+  },
+  {
+    "ip_address": "169.148.160.0/24",
+    "ip_type": "IPv4",
+    "service": "zoho-as397849",
+    "region": "global"
+  },
+  {
+    "ip_address": "169.148.162.0/23",
+    "ip_type": "IPv4",
+    "service": "zoho-as397849",
+    "region": "global"
+  },
+  {
+    "ip_address": "2602:801:c00d::/48",
+    "ip_type": "IPv6",
+    "service": "zoho-as397849",
+    "region": "global"
+  }
+]

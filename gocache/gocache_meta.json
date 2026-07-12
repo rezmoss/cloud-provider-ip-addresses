@@ -1,0 +1,23 @@
+{
+  "provider": "gocache",
+  "version": 1,
+  "generated_date": "2026-07-12",
+  "last_changed_date": "2026-07-12",
+  "sources": [
+    "https://gocache.com.br/ips"
+  ],
+  "ipv4": {
+    "cidrs": 25,
+    "merged_cidrs": 25,
+    "addresses": 600
+  },
+  "ipv6": {
+    "cidrs": 0,
+    "merged_cidrs": 0,
+    "addresses": 0
+  },
+  "total_entries": 25,
+  "content_sha256": "a9a60346697550355f29a374379561708b6e98d3cd003f46288acad7ac0e9110",
+  "license": "CC0-1.0",
+  "license_url": "https://github.com/rezmoss/cloud-provider-ip-addresses/blob/main/LICENSE"
+}

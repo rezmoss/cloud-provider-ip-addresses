@@ -1,0 +1,356 @@
+[
+  {
+    "ip_address": "23.144.80.0/24",
+    "ip_type": "IPv4",
+    "service": "backblaze-as396865",
+    "region": "global"
+  },
+  {
+    "ip_address": "45.11.36.0/24",
+    "ip_type": "IPv4",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "45.11.37.0/24",
+    "ip_type": "IPv4",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "45.11.38.0/24",
+    "ip_type": "IPv4",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "45.11.39.0/24",
+    "ip_type": "IPv4",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "104.153.232.0/23",
+    "ip_type": "IPv4",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "104.153.234.0/24",
+    "ip_type": "IPv4",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "104.153.235.0/24",
+    "ip_type": "IPv4",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "104.153.236.0/24",
+    "ip_type": "IPv4",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "104.153.237.0/24",
+    "ip_type": "IPv4",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "104.153.238.0/24",
+    "ip_type": "IPv4",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "149.137.128.0/23",
+    "ip_type": "IPv4",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "149.137.130.0/23",
+    "ip_type": "IPv4",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "149.137.132.0/23",
+    "ip_type": "IPv4",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "149.137.134.0/23",
+    "ip_type": "IPv4",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "149.137.136.0/24",
+    "ip_type": "IPv4",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "149.137.137.0/24",
+    "ip_type": "IPv4",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "149.137.138.0/23",
+    "ip_type": "IPv4",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "149.137.140.0/24",
+    "ip_type": "IPv4",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "149.137.141.0/24",
+    "ip_type": "IPv4",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "149.137.142.0/24",
+    "ip_type": "IPv4",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "206.190.208.0/22",
+    "ip_type": "IPv4",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "206.190.212.0/23",
+    "ip_type": "IPv4",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "206.190.214.0/23",
+    "ip_type": "IPv4",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "2605:72c0:100::/45",
+    "ip_type": "IPv6",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "2605:72c0:1fc::/48",
+    "ip_type": "IPv6",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "2605:72c0:1fd::/48",
+    "ip_type": "IPv6",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "2605:72c0:1fe::/48",
+    "ip_type": "IPv6",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "2605:72c0:1ff::/48",
+    "ip_type": "IPv6",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "2605:72c0:200::/45",
+    "ip_type": "IPv6",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "2605:72c0:208::/48",
+    "ip_type": "IPv6",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "2605:72c0:209::/48",
+    "ip_type": "IPv6",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "2605:72c0:20a::/48",
+    "ip_type": "IPv6",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "2605:72c0:2fc::/48",
+    "ip_type": "IPv6",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "2605:72c0:2fd::/48",
+    "ip_type": "IPv6",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "2605:72c0:2fe::/48",
+    "ip_type": "IPv6",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "2605:72c0:2ff::/48",
+    "ip_type": "IPv6",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "2605:72c0:400::/45",
+    "ip_type": "IPv6",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "2605:72c0:4fc::/48",
+    "ip_type": "IPv6",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "2605:72c0:4fd::/48",
+    "ip_type": "IPv6",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "2605:72c0:4fe::/48",
+    "ip_type": "IPv6",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "2605:72c0:4ff::/48",
+    "ip_type": "IPv6",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "2605:72c0:500::/45",
+    "ip_type": "IPv6",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "2605:72c0:5fc::/48",
+    "ip_type": "IPv6",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "2605:72c0:5fd::/48",
+    "ip_type": "IPv6",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "2605:72c0:5fe::/48",
+    "ip_type": "IPv6",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "2605:72c0:5ff::/48",
+    "ip_type": "IPv6",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "2605:72c0:600::/45",
+    "ip_type": "IPv6",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "2605:72c0:6fc::/48",
+    "ip_type": "IPv6",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "2605:72c0:6fd::/48",
+    "ip_type": "IPv6",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "2605:72c0:6fe::/48",
+    "ip_type": "IPv6",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "2605:72c0:6ff::/48",
+    "ip_type": "IPv6",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "2605:72c0:700::/45",
+    "ip_type": "IPv6",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "2605:72c0:800::/45",
+    "ip_type": "IPv6",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "2605:72c0:8fc::/48",
+    "ip_type": "IPv6",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "2605:72c0:8fd::/48",
+    "ip_type": "IPv6",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "2605:72c0:8fe::/48",
+    "ip_type": "IPv6",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "2605:72c0:8ff::/48",
+    "ip_type": "IPv6",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "2605:72c0:a000::/36",
+    "ip_type": "IPv6",
+    "service": "backblaze-as396865",
+    "region": "global"
+  }
+]

@@ -1,0 +1,53 @@
+# hostway IP ranges - ipset restore format (hash:net)
+# Version: 1 | Generated: 2026-07-12 | Last changed: 2026-07-12
+# IPv4: 43 merged subnets, 47616 unique IPs
+# IPv6: 0 merged subnets
+# Source: https://github.com/rezmoss/cloud-provider-ip-addresses
+# License: CC0-1.0 | Updated daily at 02:00 UTC
+# Load with: sudo ipset restore -! < hostway.netset
+#
+create hostway_v4 hash:net family inet hashsize 4096 maxelem 1048576 -exist
+flush hostway_v4
+add hostway_v4 61.100.0.0/20
+add hostway_v4 61.100.180.0/22
+add hostway_v4 61.100.184.0/22
+add hostway_v4 61.100.188.0/24
+add hostway_v4 61.100.191.0/24
+add hostway_v4 61.109.244.0/22
+add hostway_v4 61.109.250.0/24
+add hostway_v4 61.109.252.0/22
+add hostway_v4 61.250.84.0/22
+add hostway_v4 61.250.88.0/24
+add hostway_v4 61.250.91.0/24
+add hostway_v4 61.250.92.0/23
+add hostway_v4 64.23.67.0/24
+add hostway_v4 64.23.68.0/24
+add hostway_v4 64.23.71.0/24
+add hostway_v4 66.232.136.0/21
+add hostway_v4 66.232.144.0/22
+add hostway_v4 103.24.8.0/22
+add hostway_v4 150.107.68.0/22
+add hostway_v4 203.248.16.0/20
+add hostway_v4 210.109.96.0/21
+add hostway_v4 210.122.0.0/23
+add hostway_v4 210.122.6.0/24
+add hostway_v4 210.122.9.0/24
+add hostway_v4 210.122.40.0/24
+add hostway_v4 211.43.176.0/20
+add hostway_v4 211.115.202.0/23
+add hostway_v4 211.115.204.0/22
+add hostway_v4 211.115.208.0/22
+add hostway_v4 211.115.212.0/23
+add hostway_v4 211.115.214.0/24
+add hostway_v4 211.115.216.0/21
+add hostway_v4 211.238.0.0/23
+add hostway_v4 211.238.3.0/24
+add hostway_v4 211.238.5.0/24
+add hostway_v4 211.238.6.0/23
+add hostway_v4 211.238.8.0/21
+add hostway_v4 211.239.112.0/20
+add hostway_v4 211.239.150.0/23
+add hostway_v4 211.239.152.0/21
+add hostway_v4 211.239.160.0/21
+add hostway_v4 211.239.168.0/22
+add hostway_v4 211.239.172.0/23

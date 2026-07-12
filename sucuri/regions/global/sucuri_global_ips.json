@@ -1,0 +1,182 @@
+[
+  {
+    "ip_address": "66.248.201.0/24",
+    "ip_type": "IPv4",
+    "service": "sucuri-as30148",
+    "region": "global"
+  },
+  {
+    "ip_address": "66.248.202.0/24",
+    "ip_type": "IPv4",
+    "service": "sucuri-as30148",
+    "region": "global"
+  },
+  {
+    "ip_address": "66.248.203.0/24",
+    "ip_type": "IPv4",
+    "service": "sucuri-as30148",
+    "region": "global"
+  },
+  {
+    "ip_address": "72.167.12.0/22",
+    "ip_type": "IPv4",
+    "service": "sucuri-as30148",
+    "region": "global"
+  },
+  {
+    "ip_address": "185.93.228.0/24",
+    "ip_type": "IPv4",
+    "service": "sucuri-as30148",
+    "region": "global"
+  },
+  {
+    "ip_address": "185.93.230.0/24",
+    "ip_type": "IPv4",
+    "service": "sucuri-as30148",
+    "region": "global"
+  },
+  {
+    "ip_address": "192.88.134.0/24",
+    "ip_type": "IPv4",
+    "service": "sucuri-as30148",
+    "region": "global"
+  },
+  {
+    "ip_address": "192.88.135.0/24",
+    "ip_type": "IPv4",
+    "service": "sucuri-as30148",
+    "region": "global"
+  },
+  {
+    "ip_address": "192.124.249.0/24",
+    "ip_type": "IPv4",
+    "service": "sucuri-as30148",
+    "region": "global"
+  },
+  {
+    "ip_address": "192.161.0.0/24",
+    "ip_type": "IPv4",
+    "service": "sucuri-as30148",
+    "region": "global"
+  },
+  {
+    "ip_address": "193.19.225.0/24",
+    "ip_type": "IPv4",
+    "service": "sucuri-as30148",
+    "region": "global"
+  },
+  {
+    "ip_address": "208.109.0.0/24",
+    "ip_type": "IPv4",
+    "service": "sucuri-as30148",
+    "region": "global"
+  },
+  {
+    "ip_address": "208.109.1.0/24",
+    "ip_type": "IPv4",
+    "service": "sucuri-as30148",
+    "region": "global"
+  },
+  {
+    "ip_address": "208.109.2.0/24",
+    "ip_type": "IPv4",
+    "service": "sucuri-as30148",
+    "region": "global"
+  },
+  {
+    "ip_address": "208.109.3.0/24",
+    "ip_type": "IPv4",
+    "service": "sucuri-as30148",
+    "region": "global"
+  },
+  {
+    "ip_address": "208.109.4.0/22",
+    "ip_type": "IPv4",
+    "service": "sucuri-as30148",
+    "region": "global"
+  },
+  {
+    "ip_address": "208.109.80.0/24",
+    "ip_type": "IPv4",
+    "service": "sucuri-as30148",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a02:fe80:11::/48",
+    "ip_type": "IPv6",
+    "service": "sucuri-as30148",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a02:fe80:12::/48",
+    "ip_type": "IPv6",
+    "service": "sucuri-as30148",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a02:fe80:14::/48",
+    "ip_type": "IPv6",
+    "service": "sucuri-as30148",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a02:fe80:15::/48",
+    "ip_type": "IPv6",
+    "service": "sucuri-as30148",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a02:fe80:16::/48",
+    "ip_type": "IPv6",
+    "service": "sucuri-as30148",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a02:fe80:17::/48",
+    "ip_type": "IPv6",
+    "service": "sucuri-as30148",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a02:fe80:18::/48",
+    "ip_type": "IPv6",
+    "service": "sucuri-as30148",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a02:fe80:20::/48",
+    "ip_type": "IPv6",
+    "service": "sucuri-as30148",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a02:fe80:21::/48",
+    "ip_type": "IPv6",
+    "service": "sucuri-as30148",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a02:fe80:22::/48",
+    "ip_type": "IPv6",
+    "service": "sucuri-as30148",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a02:fe80:1010::/48",
+    "ip_type": "IPv6",
+    "service": "sucuri-as30148",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a02:fe80:2010::/48",
+    "ip_type": "IPv6",
+    "service": "sucuri-as30148",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a02:fe81::/45",
+    "ip_type": "IPv6",
+    "service": "sucuri-as30148",
+    "region": "global"
+  }
+]

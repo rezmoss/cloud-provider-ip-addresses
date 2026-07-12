@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "160.32.184.0/23",
+    "ip_type": "IPv4",
+    "service": "zoho-as214227",
+    "region": "global"
+  },
+  {
+    "ip_address": "160.32.186.0/23",
+    "ip_type": "IPv4",
+    "service": "zoho-as214227",
+    "region": "global"
+  },
+  {
+    "ip_address": "160.32.188.0/23",
+    "ip_type": "IPv4",
+    "service": "zoho-as214227",
+    "region": "global"
+  }
+]

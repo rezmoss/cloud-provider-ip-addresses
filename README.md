@@ -5,18 +5,18 @@
 [![GitHub stars](https://img.shields.io/github/stars/rezmoss/cloud-provider-ip-addresses)](https://github.com/rezmoss/cloud-provider-ip-addresses/stargazers)
 [![GitHub license](https://img.shields.io/github/license/rezmoss/cloud-provider-ip-addresses)](https://github.com/rezmoss/cloud-provider-ip-addresses/blob/main/LICENSE)
 ![Last Updated](https://img.shields.io/github/last-commit/rezmoss/cloud-provider-ip-addresses)
-![Providers](https://img.shields.io/badge/providers-45-blue)
+![Providers](https://img.shields.io/badge/providers-62-blue)
 ![Formats](https://img.shields.io/badge/formats-13+-green)
 ![Update](https://img.shields.io/badge/updated-daily%2002%3A00%20UTC-brightgreen)
 
-> **45 providers** | **13+ output formats** | **Merged/optimized CIDRs** | **Firewall-ready configs** | **Unified cross-provider dataset** | **Daily changelog** | **IP lookup tool** | **Go & JS client libraries**
+> **62 providers** | **13+ output formats** | **Merged/optimized CIDRs** | **Firewall-ready configs** | **Unified cross-provider dataset** | **Daily changelog** | **IP lookup tool** | **Go & JS client libraries**
 
 <!-- STATS_START -->
 <!-- This section is auto-updated by app.py on each run. Do not edit manually. -->
 
 ### Live Stats
 
-> Last updated: **2026-07-12** | Providers: **45** | Total CIDRs: **457,627** | IPv4 addresses: **441,884,339** | IPv4 space: **10.29%**
+> Last updated: **2026-07-12** | Providers: **62** | Total CIDRs: **461,065** | IPv4 addresses: **445,789,580** | IPv4 space: **10.38%**
 
 | Provider | IPv4 CIDRs | IPv6 CIDRs | Total CIDRs | IPv4 Addresses | Services | Regions |
 |----------|-----------|-----------|------------|---------------|----------|--------|
@@ -28,7 +28,11 @@
 | atlassian | 106 | 60 | 166 | 79,038 | 11 | 17 |
 | aws | 10,482 | 5,777 | 16,259 | 184,865,390 | 27 | 43 |
 | azure | 78,517 | 28,370 | 106,887 | 103,842,839 | 3234 | 75 |
+| backblaze | 24 | 35 | 59 | 8,960 | 2 | 1 |
+| baidu | 181 | 14 | 195 | 657,664 | 2 | 1 |
 | bingbot | 28 | 0 | 28 | 4,736 | 1 | 0 |
+| bunny | 14 | 33 | 47 | 4,096 | 1 | 1 |
+| cachefly | 16 | 0 | 16 | 4,096 | 0 | 0 |
 | circleci | 47 | 0 | 47 | 3,871 | 3 | 1 |
 | cloudflare | 15 | 7 | 22 | 1,524,736 | 0 | 0 |
 | commoncrawl | 5 | 1 | 6 | 29 | 1 | 0 |
@@ -36,33 +40,46 @@
 | digitalocean | 1,078 | 148 | 1,226 | 3,112,320 | 0 | 13 |
 | duckduckbot | 481 | 0 | 481 | 481 | 1 | 0 |
 | fastly | 19 | 2 | 21 | 304,128 | 0 | 0 |
+| gabia | 97 | 0 | 97 | 40,704 | 1 | 1 |
+| gcore | 987 | 848 | 1,835 | 987 | 0 | 0 |
 | github | 5,742 | 1,635 | 7,377 | 27,617,619 | 11 | 0 |
+| gocache | 25 | 0 | 25 | 600 | 0 | 0 |
 | googlebot | 169 | 146 | 315 | 5,056 | 1 | 0 |
 | googlecloud | 991 | 48 | 1,039 | 19,084,672 | 1 | 48 |
 | googleservices | 256 | 84 | 340 | 3,029,376 | 1 | 1 |
 | gptbot | 322 | 0 | 322 | 42,976 | 3 | 0 |
 | hetzner | 682 | 7 | 689 | 3,524,608 | 3 | 1 |
+| hostway | 174 | 0 | 174 | 74,752 | 1 | 1 |
 | huawei | 565 | 94 | 659 | 1,163,776 | 6 | 1 |
 | ibmcloud | 340 | 73 | 413 | 3,754,496 | 2 | 1 |
+| imperva | 11 | 1 | 12 | 261,120 | 0 | 0 |
 | leaseweb | 1,705 | 324 | 2,029 | 2,413,568 | 18 | 1 |
 | linode | 5,313 | 98 | 5,411 | 1,368,064 | 0 | 38 |
 | meta | 338 | 414 | 752 | 574,464 | 3 | 1 |
+| microsoft365 | 34 | 59 | 93 | 2,514,957 | 0 | 0 |
 | mullvad | 576 | 566 | 1,142 | 576 | 2 | 50 |
+| nhncloud | 372 | 0 | 372 | 136,448 | 3 | 1 |
 | oracle | 1,089 | 0 | 1,089 | 4,190,346 | 3 | 55 |
 | ovhcloud | 691 | 42 | 733 | 4,628,224 | 1 | 1 |
 | perplexitybot | 12 | 0 | 12 | 32 | 2 | 0 |
 | pingdom | 99 | 57 | 156 | 99 | 0 | 0 |
+| quiccloud | 153 | 0 | 153 | 153 | 0 | 0 |
 | rackspace | 311 | 14 | 325 | 2,298,624 | 16 | 1 |
 | salesforce | 57 | 5 | 62 | 963,584 | 5 | 1 |
 | scaleway | 40 | 21 | 61 | 2,482,432 | 2 | 1 |
 | statuscake | 183 | 0 | 183 | 183 | 0 | 0 |
+| stormwall | 16 | 8 | 24 | 4,096 | 1 | 1 |
+| sucuri | 17 | 13 | 30 | 5,888 | 1 | 1 |
 | teamcity | 11 | 0 | 11 | 11 | 2 | 1 |
 | telegram | 9 | 5 | 14 | 11,008 | 0 | 0 |
 | tencent | 3,324 | 73 | 3,397 | 14,797,056 | 2 | 1 |
 | tor | 1,386 | 0 | 1,386 | 1,386 | 1 | 1 |
+| upcloud | 87 | 20 | 107 | 100,352 | 2 | 1 |
 | uptimerobot | 103 | 103 | 206 | 103 | 1 | 4 |
 | vultr | 439 | 75 | 514 | 1,027,072 | 0 | 34 |
+| wasabi | 20 | 0 | 20 | 5,120 | 1 | 1 |
 | yandex | 113 | 29 | 142 | 440,064 | 6 | 1 |
+| zoho | 157 | 22 | 179 | 85,248 | 9 | 1 |
 | zoom | 57 | 3 | 60 | 542,224 | 3 | 0 |
 | zscaler | 865 | 81 | 946 | 1,054,208 | 4 | 1 |
 
@@ -121,9 +138,10 @@ There are other cloud IP range repos out there. Here's what makes this one diffe
 
 | Feature | This Repo | Others |
 |---------|-----------|--------|
-| Cloud providers | 10 (AWS, Azure, GCP, Cloudflare, DigitalOcean, Oracle, Fastly, GitHub, Linode, Vultr) + Apple Private Relay, Telegram | Varies |
+| Cloud providers | AWS, Azure, GCP, Cloudflare, DigitalOcean, Oracle, Fastly, GitHub, Linode, Vultr, UpCloud, NHN Cloud, Hostway, Gabia + Apple Private Relay, Telegram | Varies |
+| CDN / storage / WAF | G-Core Labs, CacheFly, GoCache, Quic.cloud, Bunny CDN, Wasabi, Backblaze, Imperva, Sucuri, StormWall | Rare |
 | Bot/crawler IPs | GoogleBot, BingBot, GPTBot/ChatGPT, AppleBot, PerplexityBot, DuckDuckBot, Amazonbot, Common Crawl | Rare |
-| SaaS / Collaboration | Zoom, Atlassian (Jira, Confluence, Bitbucket, Trello, ...) | Very rare |
+| SaaS / Collaboration | Microsoft 365, Zoom, Atlassian (Jira, Confluence, Bitbucket, Trello, ...) | Very rare |
 | Output formats | 13+ (TXT, JSON, CSV, SQL, Nginx, Apache, iptables, nftables, UFW, HAProxy, Caddy, ipset, merged CIDRs) | Usually 1-3 |
 | Merged/optimized CIDRs | Per-provider and combined | Rare |
 | Unified cross-provider file | `all_providers.json` / `.csv` with normalized schema | Rare |
@@ -240,6 +258,11 @@ curl -sLO https://github.com/rezmoss/cloud-provider-ip-addresses/releases/downlo
 | **Apple (iCloud Private Relay)** | IPv4 + IPv6 | — | Apple published egress ranges |
 | **Vultr** | IPv4 + IPv6 | Per-region | Vultr public geofeed |
 | **Telegram** | IPv4 + IPv6 | — | Telegram official CIDR list |
+| **Imperva** | IPv4 + IPv6 | — | Imperva cloud WAF / CDN IP feed |
+| **G-Core Labs** | IPv4 + IPv6 | — | G-Core CDN public IP list |
+| **CacheFly** | IPv4 + IPv6 | — | CacheFly edge IP list |
+| **GoCache** | IPv4 + IPv6 | — | GoCache CDN IP list |
+| **Quic.cloud** | IPv4 + IPv6 | — | QUIC.cloud CDN IP list |
 
 ### SaaS / Collaboration
 
@@ -247,6 +270,7 @@ curl -sLO https://github.com/rezmoss/cloud-provider-ip-addresses/releases/downlo
 |----------|-----|----------|--------|
 | **Zoom** | IPv4 + IPv6 | Per-service (zoom, zoom-phone, zoom-contact-center, zoom-cdn) | Zoom published IP ranges |
 | **Atlassian** | IPv4 + IPv6 | Per-product (Jira, Confluence, Bitbucket, Trello, ...) | Atlassian published IP ranges |
+| **Microsoft 365** | IPv4 + IPv6 | — | Microsoft 365 worldwide endpoints API |
 
 ### CI/CD & Monitoring
 
@@ -288,17 +312,28 @@ curl -sLO https://github.com/rezmoss/cloud-provider-ip-addresses/releases/downlo
 |----------|-----|------|--------|
 | **Akamai** | IPv4 + IPv6 | AS12222, AS16625, AS16702, AS17204, AS17334, AS18680, AS18717, AS20189, AS20940, AS21342, AS21357, AS21399, AS22207, AS22452, AS23454, AS23455, AS23903, AS24319, AS26008, AS30675, AS31107, AS31108, AS31109, AS31110, AS31377, AS31984, AS32787, AS33047, AS33905, AS34164, AS34850, AS35204, AS35993, AS35994, AS36029, AS36183, AS39836, AS43639, AS45757, AS48163, AS49249, AS49846, AS55409, AS55770, AS63949, AS133103, AS200005, AS213120, AS393234, AS393560 | BGP announcements via public BGP data |
 | **Alibaba (Alibaba Cloud / Alibaba Group)** | IPv4 + IPv6 | AS37963, AS45102, AS134963 | BGP announcements via public BGP data |
+| **Backblaze** | IPv4 + IPv6 | AS40401, AS396865 | BGP announcements via public BGP data |
+| **Baidu** | IPv4 + IPv6 | AS38365, AS55967 | BGP announcements via public BGP data |
+| **Bunny CDN** | IPv4 + IPv6 | AS200325 | BGP announcements via public BGP data |
+| **Gabia** | IPv4 + IPv6 | AS17589 | BGP announcements via public BGP data |
 | **Hetzner** | IPv4 + IPv6 | AS24940, AS212317, AS213230 | BGP announcements via public BGP data |
+| **Hostway** | IPv4 + IPv6 | AS9952 | BGP announcements via public BGP data |
 | **Huawei Cloud** | IPv4 + IPv6 | AS131444, AS136907, AS141180, AS149167, AS151610, AS200756, AS206204, AS206798 | BGP announcements via public BGP data |
 | **IBM Cloud (SoftLayer)** | IPv4 + IPv6 | AS13749, AS13884, AS19765, AS21844, AS30315, AS36351, AS36420, AS46702, AS46703, AS46704 | BGP announcements via public BGP data |
 | **Leaseweb** | IPv4 + IPv6 | AS7203, AS15003, AS16265, AS19148, AS25847, AS27411, AS28753, AS30633, AS32613, AS32804, AS38930, AS40699, AS59253, AS60626, AS60781, AS133752, AS134351, AS136988, AS202134, AS203774, AS203928, AS205544, AS393886, AS394380, AS395954, AS396190, AS396362 | BGP announcements via public BGP data |
 | **Meta (Facebook / Instagram / WhatsApp)** | IPv4 + IPv6 | AS32934, AS54115, AS63293 | BGP announcements via public BGP data |
+| **NHN Cloud** | IPv4 + IPv6 | AS10038, AS45974, AS152291 | BGP announcements via public BGP data |
 | **OVHcloud** | IPv4 + IPv6 | AS16276 | BGP announcements via public BGP data |
 | **Rackspace** | IPv4 + IPv6 | AS10532, AS12200, AS15395, AS19994, AS22720, AS24778, AS24867, AS27357, AS33070, AS33439, AS36248, AS39921, AS44009, AS44716, AS45187, AS54636, AS58683, AS198220, AS213735, AS213740, AS397485 | BGP announcements via public BGP data |
 | **Salesforce** | IPv4 + IPv6 | AS14340, AS22606, AS32542, AS32870, AS45422, AS133869, AS133942, AS393517, AS394808, AS396417 | BGP announcements via public BGP data |
 | **Scaleway** | IPv4 + IPv6 | AS12876, AS29447 | BGP announcements via public BGP data |
+| **StormWall** | IPv4 + IPv6 | AS51558, AS59796 | BGP announcements via public BGP data |
+| **Sucuri** | IPv4 + IPv6 | AS30148 | BGP announcements via public BGP data |
 | **Tencent (Tencent Cloud / Tencent Group)** | IPv4 + IPv6 | AS45090, AS132203 | BGP announcements via public BGP data |
+| **UpCloud** | IPv4 + IPv6 | AS25697, AS202053 | BGP announcements via public BGP data |
+| **Wasabi** | IPv4 + IPv6 | AS140642, AS395717 | BGP announcements via public BGP data |
 | **Yandex** | IPv4 + IPv6 | AS13238, AS44534, AS200350, AS202611, AS210656, AS213952, AS215013, AS215109 | BGP announcements via public BGP data |
+| **Zoho** | IPv4 + IPv6 | AS2639, AS56201, AS135102, AS139006, AS141757, AS205111, AS214227, AS397849, AS400780, AS401636 | BGP announcements via public BGP data |
 | **Zscaler** | IPv4 + IPv6 | AS22616, AS32921, AS40384, AS53444, AS53813, AS55242, AS62907 | BGP announcements via public BGP data |
 <!-- ASN_TABLE_END -->
 
@@ -319,7 +354,11 @@ Each provider has its own page with quick-use snippets, sample CIDRs, and links 
 | **Atlassian** | [`atlassian/`](./atlassian/) |
 | **Amazon Web Services** | [`aws/`](./aws/) |
 | **Microsoft Azure** | [`azure/`](./azure/) |
+| **Backblaze** | [`backblaze/`](./backblaze/) |
+| **Baidu** | [`baidu/`](./baidu/) |
 | **Bingbot** | [`bingbot/`](./bingbot/) |
+| **Bunny CDN** | [`bunny/`](./bunny/) |
+| **CacheFly** | [`cachefly/`](./cachefly/) |
 | **CircleCI** | [`circleci/`](./circleci/) |
 | **Cloudflare** | [`cloudflare/`](./cloudflare/) |
 | **Common Crawl (CCBot)** | [`commoncrawl/`](./commoncrawl/) |
@@ -327,33 +366,46 @@ Each provider has its own page with quick-use snippets, sample CIDRs, and links 
 | **DigitalOcean** | [`digitalocean/`](./digitalocean/) |
 | **DuckDuckBot** | [`duckduckbot/`](./duckduckbot/) |
 | **Fastly** | [`fastly/`](./fastly/) |
+| **Gabia** | [`gabia/`](./gabia/) |
+| **G-Core Labs** | [`gcore/`](./gcore/) |
 | **GitHub** | [`github/`](./github/) |
+| **GoCache** | [`gocache/`](./gocache/) |
 | **Googlebot** | [`googlebot/`](./googlebot/) |
 | **Google Cloud Platform** | [`googlecloud/`](./googlecloud/) |
 | **Google Services** | [`googleservices/`](./googleservices/) |
 | **OpenAI GPTBot / ChatGPT-User / SearchBot** | [`gptbot/`](./gptbot/) |
 | **Hetzner** | [`hetzner/`](./hetzner/) |
+| **Hostway** | [`hostway/`](./hostway/) |
 | **Huawei Cloud** | [`huawei/`](./huawei/) |
 | **IBM Cloud (SoftLayer)** | [`ibmcloud/`](./ibmcloud/) |
+| **Imperva** | [`imperva/`](./imperva/) |
 | **Leaseweb** | [`leaseweb/`](./leaseweb/) |
 | **Linode (Akamai)** | [`linode/`](./linode/) |
 | **Meta (Facebook / Instagram / WhatsApp)** | [`meta/`](./meta/) |
+| **Microsoft 365** | [`microsoft365/`](./microsoft365/) |
 | **Mullvad VPN** | [`mullvad/`](./mullvad/) |
+| **NHN Cloud** | [`nhncloud/`](./nhncloud/) |
 | **Oracle Cloud Infrastructure** | [`oracle/`](./oracle/) |
 | **OVHcloud** | [`ovhcloud/`](./ovhcloud/) |
 | **PerplexityBot** | [`perplexitybot/`](./perplexitybot/) |
 | **Pingdom** | [`pingdom/`](./pingdom/) |
+| **Quic.cloud** | [`quiccloud/`](./quiccloud/) |
 | **Rackspace** | [`rackspace/`](./rackspace/) |
 | **Salesforce** | [`salesforce/`](./salesforce/) |
 | **Scaleway** | [`scaleway/`](./scaleway/) |
 | **StatusCake** | [`statuscake/`](./statuscake/) |
+| **StormWall** | [`stormwall/`](./stormwall/) |
+| **Sucuri** | [`sucuri/`](./sucuri/) |
 | **TeamCity Cloud** | [`teamcity/`](./teamcity/) |
 | **Telegram** | [`telegram/`](./telegram/) |
 | **Tencent (Tencent Cloud / Tencent Group)** | [`tencent/`](./tencent/) |
 | **Tor Exit Nodes** | [`tor/`](./tor/) |
+| **UpCloud** | [`upcloud/`](./upcloud/) |
 | **UptimeRobot** | [`uptimerobot/`](./uptimerobot/) |
 | **Vultr** | [`vultr/`](./vultr/) |
+| **Wasabi** | [`wasabi/`](./wasabi/) |
 | **Yandex** | [`yandex/`](./yandex/) |
+| **Zoho** | [`zoho/`](./zoho/) |
 | **Zoom** | [`zoom/`](./zoom/) |
 | **Zscaler** | [`zscaler/`](./zscaler/) |
 
@@ -670,6 +722,23 @@ cloud-provider-ip-addresses/
 ├── huawei/               (all formats + services; BGP/ASN-derived)
 ├── tor/                  (all formats; official Tor Project exit list)
 ├── mullvad/              (all formats + services + regions)
+├── microsoft365/         (all formats; official Microsoft 365 endpoints feed)
+├── imperva/              (all formats; official Imperva WAF/CDN feed)
+├── gcore/                (all formats; official G-Core Labs CDN feed)
+├── cachefly/             (all formats; official CacheFly edge list)
+├── gocache/              (all formats; official GoCache CDN feed)
+├── quiccloud/            (all formats; official QUIC.cloud CDN list)
+├── zoho/                 (all formats + services; BGP/ASN-derived)
+├── wasabi/               (all formats + services; BGP/ASN-derived)
+├── upcloud/              (all formats + services; BGP/ASN-derived)
+├── sucuri/               (all formats + services; BGP/ASN-derived)
+├── stormwall/            (all formats + services; BGP/ASN-derived)
+├── baidu/                (all formats + services; BGP/ASN-derived)
+├── backblaze/            (all formats + services; BGP/ASN-derived)
+├── nhncloud/             (all formats + services; BGP/ASN-derived)
+├── hostway/              (all formats + services; BGP/ASN-derived)
+├── gabia/                (all formats + services; BGP/ASN-derived)
+├── bunny/                (all formats + services; BGP/ASN-derived)
 ├── all_providers/
 │   ├── all_providers.json / .csv
 │   ├── all_providers_ips.txt
@@ -796,6 +865,7 @@ curl -sL https://raw.githubusercontent.com/rezmoss/cloud-provider-ip-addresses/m
 | AWS | Y | Y | Y | Y | Y | Y |
 | Azure | Y | Y | Y | Y | Y | Y |
 | Google Cloud | Y | Y | Y | Y | Y | Y |
+| Google Services | Y | Y | — | — | Y | Y |
 | Oracle | Y | Y | Y | Y | Y | Y |
 | Cloudflare | Y | Y | — | — | Y | Y |
 | DigitalOcean | Y | Y | — | — | Y | Y |
@@ -837,6 +907,23 @@ curl -sL https://raw.githubusercontent.com/rezmoss/cloud-provider-ip-addresses/m
 | Zscaler | Y | Y | Y | — | Y | Y |
 | Yandex | Y | Y | Y | — | Y | Y |
 | Huawei Cloud | Y | Y | Y | — | Y | Y |
+| Microsoft 365 | Y | Y | — | — | Y | Y |
+| Imperva | Y | Y | — | — | Y | Y |
+| G-Core Labs | Y | Y | — | — | Y | Y |
+| CacheFly | Y | — | — | — | Y | Y |
+| GoCache | Y | — | — | — | Y | Y |
+| Quic.cloud | Y | — | — | — | Y | Y |
+| Zoho | Y | Y | Y | — | Y | Y |
+| Wasabi | Y | — | Y | — | Y | Y |
+| UpCloud | Y | Y | Y | — | Y | Y |
+| Sucuri | Y | Y | Y | — | Y | Y |
+| StormWall | Y | Y | Y | — | Y | Y |
+| Baidu | Y | Y | Y | — | Y | Y |
+| Backblaze | Y | Y | Y | — | Y | Y |
+| NHN Cloud | Y | — | Y | — | Y | Y |
+| Hostway | Y | — | Y | — | Y | Y |
+| Gabia | Y | — | Y | — | Y | Y |
+| Bunny CDN | Y | Y | Y | — | Y | Y |
 
 ---
 

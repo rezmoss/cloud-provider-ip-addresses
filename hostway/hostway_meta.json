@@ -1,0 +1,23 @@
+{
+  "provider": "hostway",
+  "version": 1,
+  "generated_date": "2026-07-12",
+  "last_changed_date": "2026-07-12",
+  "sources": [
+    "BGP announced prefixes via RIPE NCC RIPEstat"
+  ],
+  "ipv4": {
+    "cidrs": 174,
+    "merged_cidrs": 43,
+    "addresses": 47616
+  },
+  "ipv6": {
+    "cidrs": 0,
+    "merged_cidrs": 0,
+    "addresses": 0
+  },
+  "total_entries": 174,
+  "content_sha256": "015b22a79e29611704239e78dcaf23afecb1a183163bd65e40292ef01635c717",
+  "license": "CC0-1.0",
+  "license_url": "https://github.com/rezmoss/cloud-provider-ip-addresses/blob/main/LICENSE"
+}

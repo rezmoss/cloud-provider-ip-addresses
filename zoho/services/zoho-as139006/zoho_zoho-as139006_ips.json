@@ -1,0 +1,98 @@
+[
+  {
+    "ip_address": "101.97.36.0/24",
+    "ip_type": "IPv4",
+    "service": "zoho-as139006",
+    "region": "global"
+  },
+  {
+    "ip_address": "103.91.166.0/24",
+    "ip_type": "IPv4",
+    "service": "zoho-as139006",
+    "region": "global"
+  },
+  {
+    "ip_address": "103.138.128.0/23",
+    "ip_type": "IPv4",
+    "service": "zoho-as139006",
+    "region": "global"
+  },
+  {
+    "ip_address": "103.138.129.0/24",
+    "ip_type": "IPv4",
+    "service": "zoho-as139006",
+    "region": "global"
+  },
+  {
+    "ip_address": "165.173.160.0/23",
+    "ip_type": "IPv4",
+    "service": "zoho-as139006",
+    "region": "global"
+  },
+  {
+    "ip_address": "165.173.190.0/24",
+    "ip_type": "IPv4",
+    "service": "zoho-as139006",
+    "region": "global"
+  },
+  {
+    "ip_address": "165.173.191.0/24",
+    "ip_type": "IPv4",
+    "service": "zoho-as139006",
+    "region": "global"
+  },
+  {
+    "ip_address": "169.148.168.0/23",
+    "ip_type": "IPv4",
+    "service": "zoho-as139006",
+    "region": "global"
+  },
+  {
+    "ip_address": "169.148.170.0/23",
+    "ip_type": "IPv4",
+    "service": "zoho-as139006",
+    "region": "global"
+  },
+  {
+    "ip_address": "199.67.70.0/24",
+    "ip_type": "IPv4",
+    "service": "zoho-as139006",
+    "region": "global"
+  },
+  {
+    "ip_address": "2400:5a20:4::/47",
+    "ip_type": "IPv6",
+    "service": "zoho-as139006",
+    "region": "global"
+  },
+  {
+    "ip_address": "2400:5a20:6::/47",
+    "ip_type": "IPv6",
+    "service": "zoho-as139006",
+    "region": "global"
+  },
+  {
+    "ip_address": "2400:5a20:a::/47",
+    "ip_type": "IPv6",
+    "service": "zoho-as139006",
+    "region": "global"
+  },
+  {
+    "ip_address": "2602:801:c00a::/48",
+    "ip_type": "IPv6",
+    "service": "zoho-as139006",
+    "region": "global"
+  },
+  {
+    "ip_address": "2602:801:c00b::/48",
+    "ip_type": "IPv6",
+    "service": "zoho-as139006",
+    "region": "global"
+  },
+  {
+    "ip_address": "2602:801:c00c::/48",
+    "ip_type": "IPv6",
+    "service": "zoho-as139006",
+    "region": "global"
+  }
+]

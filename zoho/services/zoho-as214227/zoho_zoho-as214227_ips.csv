@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+160.32.184.0/23,IPv4,zoho-as214227,global
+160.32.186.0/23,IPv4,zoho-as214227,global
+160.32.188.0/23,IPv4,zoho-as214227,global

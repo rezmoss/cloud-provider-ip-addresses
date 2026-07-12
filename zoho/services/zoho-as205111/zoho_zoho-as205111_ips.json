@@ -1,0 +1,170 @@
+[
+  {
+    "ip_address": "94.31.54.0/23",
+    "ip_type": "IPv4",
+    "service": "zoho-as205111",
+    "region": "global"
+  },
+  {
+    "ip_address": "136.143.170.0/24",
+    "ip_type": "IPv4",
+    "service": "zoho-as205111",
+    "region": "global"
+  },
+  {
+    "ip_address": "136.143.171.0/24",
+    "ip_type": "IPv4",
+    "service": "zoho-as205111",
+    "region": "global"
+  },
+  {
+    "ip_address": "144.89.64.0/23",
+    "ip_type": "IPv4",
+    "service": "zoho-as205111",
+    "region": "global"
+  },
+  {
+    "ip_address": "144.89.66.0/23",
+    "ip_type": "IPv4",
+    "service": "zoho-as205111",
+    "region": "global"
+  },
+  {
+    "ip_address": "169.148.128.0/24",
+    "ip_type": "IPv4",
+    "service": "zoho-as205111",
+    "region": "global"
+  },
+  {
+    "ip_address": "169.148.129.0/24",
+    "ip_type": "IPv4",
+    "service": "zoho-as205111",
+    "region": "global"
+  },
+  {
+    "ip_address": "169.148.130.0/24",
+    "ip_type": "IPv4",
+    "service": "zoho-as205111",
+    "region": "global"
+  },
+  {
+    "ip_address": "169.148.131.0/24",
+    "ip_type": "IPv4",
+    "service": "zoho-as205111",
+    "region": "global"
+  },
+  {
+    "ip_address": "169.148.188.0/24",
+    "ip_type": "IPv4",
+    "service": "zoho-as205111",
+    "region": "global"
+  },
+  {
+    "ip_address": "169.148.189.0/24",
+    "ip_type": "IPv4",
+    "service": "zoho-as205111",
+    "region": "global"
+  },
+  {
+    "ip_address": "185.230.212.0/23",
+    "ip_type": "IPv4",
+    "service": "zoho-as205111",
+    "region": "global"
+  },
+  {
+    "ip_address": "185.230.212.0/24",
+    "ip_type": "IPv4",
+    "service": "zoho-as205111",
+    "region": "global"
+  },
+  {
+    "ip_address": "185.230.213.0/24",
+    "ip_type": "IPv4",
+    "service": "zoho-as205111",
+    "region": "global"
+  },
+  {
+    "ip_address": "185.230.214.0/23",
+    "ip_type": "IPv4",
+    "service": "zoho-as205111",
+    "region": "global"
+  },
+  {
+    "ip_address": "199.67.72.0/23",
+    "ip_type": "IPv4",
+    "service": "zoho-as205111",
+    "region": "global"
+  },
+  {
+    "ip_address": "199.67.74.0/23",
+    "ip_type": "IPv4",
+    "service": "zoho-as205111",
+    "region": "global"
+  },
+  {
+    "ip_address": "199.67.74.0/24",
+    "ip_type": "IPv4",
+    "service": "zoho-as205111",
+    "region": "global"
+  },
+  {
+    "ip_address": "199.67.75.0/24",
+    "ip_type": "IPv4",
+    "service": "zoho-as205111",
+    "region": "global"
+  },
+  {
+    "ip_address": "199.67.80.0/23",
+    "ip_type": "IPv4",
+    "service": "zoho-as205111",
+    "region": "global"
+  },
+  {
+    "ip_address": "199.67.80.0/24",
+    "ip_type": "IPv4",
+    "service": "zoho-as205111",
+    "region": "global"
+  },
+  {
+    "ip_address": "199.67.81.0/24",
+    "ip_type": "IPv4",
+    "service": "zoho-as205111",
+    "region": "global"
+  },
+  {
+    "ip_address": "199.67.82.0/23",
+    "ip_type": "IPv4",
+    "service": "zoho-as205111",
+    "region": "global"
+  },
+  {
+    "ip_address": "199.67.82.0/24",
+    "ip_type": "IPv4",
+    "service": "zoho-as205111",
+    "region": "global"
+  },
+  {
+    "ip_address": "199.67.83.0/24",
+    "ip_type": "IPv4",
+    "service": "zoho-as205111",
+    "region": "global"
+  },
+  {
+    "ip_address": "199.67.88.0/23",
+    "ip_type": "IPv4",
+    "service": "zoho-as205111",
+    "region": "global"
+  },
+  {
+    "ip_address": "199.67.90.0/23",
+    "ip_type": "IPv4",
+    "service": "zoho-as205111",
+    "region": "global"
+  },
+  {
+    "ip_address": "213.161.74.0/23",
+    "ip_type": "IPv4",
+    "service": "zoho-as205111",
+    "region": "global"
+  }
+]

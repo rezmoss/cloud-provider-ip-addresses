@@ -1,0 +1,236 @@
+[
+  {
+    "ip_address": "45.113.192.0/24",
+    "ip_type": "IPv4",
+    "service": "baidu-as55967",
+    "region": "global"
+  },
+  {
+    "ip_address": "45.113.193.0/24",
+    "ip_type": "IPv4",
+    "service": "baidu-as55967",
+    "region": "global"
+  },
+  {
+    "ip_address": "45.113.194.0/24",
+    "ip_type": "IPv4",
+    "service": "baidu-as55967",
+    "region": "global"
+  },
+  {
+    "ip_address": "103.235.44.0/22",
+    "ip_type": "IPv4",
+    "service": "baidu-as55967",
+    "region": "global"
+  },
+  {
+    "ip_address": "103.235.45.0/24",
+    "ip_type": "IPv4",
+    "service": "baidu-as55967",
+    "region": "global"
+  },
+  {
+    "ip_address": "103.235.46.0/24",
+    "ip_type": "IPv4",
+    "service": "baidu-as55967",
+    "region": "global"
+  },
+  {
+    "ip_address": "103.235.47.0/24",
+    "ip_type": "IPv4",
+    "service": "baidu-as55967",
+    "region": "global"
+  },
+  {
+    "ip_address": "104.193.88.0/24",
+    "ip_type": "IPv4",
+    "service": "baidu-as55967",
+    "region": "global"
+  },
+  {
+    "ip_address": "104.193.89.0/24",
+    "ip_type": "IPv4",
+    "service": "baidu-as55967",
+    "region": "global"
+  },
+  {
+    "ip_address": "104.193.90.0/24",
+    "ip_type": "IPv4",
+    "service": "baidu-as55967",
+    "region": "global"
+  },
+  {
+    "ip_address": "154.85.32.0/21",
+    "ip_type": "IPv4",
+    "service": "baidu-as55967",
+    "region": "global"
+  },
+  {
+    "ip_address": "154.85.33.0/24",
+    "ip_type": "IPv4",
+    "service": "baidu-as55967",
+    "region": "global"
+  },
+  {
+    "ip_address": "154.85.34.0/24",
+    "ip_type": "IPv4",
+    "service": "baidu-as55967",
+    "region": "global"
+  },
+  {
+    "ip_address": "154.85.36.0/24",
+    "ip_type": "IPv4",
+    "service": "baidu-as55967",
+    "region": "global"
+  },
+  {
+    "ip_address": "154.85.37.0/24",
+    "ip_type": "IPv4",
+    "service": "baidu-as55967",
+    "region": "global"
+  },
+  {
+    "ip_address": "154.85.40.0/22",
+    "ip_type": "IPv4",
+    "service": "baidu-as55967",
+    "region": "global"
+  },
+  {
+    "ip_address": "154.85.44.0/23",
+    "ip_type": "IPv4",
+    "service": "baidu-as55967",
+    "region": "global"
+  },
+  {
+    "ip_address": "154.85.48.0/21",
+    "ip_type": "IPv4",
+    "service": "baidu-as55967",
+    "region": "global"
+  },
+  {
+    "ip_address": "154.85.56.0/21",
+    "ip_type": "IPv4",
+    "service": "baidu-as55967",
+    "region": "global"
+  },
+  {
+    "ip_address": "156.240.112.0/21",
+    "ip_type": "IPv4",
+    "service": "baidu-as55967",
+    "region": "global"
+  },
+  {
+    "ip_address": "156.240.118.0/24",
+    "ip_type": "IPv4",
+    "service": "baidu-as55967",
+    "region": "global"
+  },
+  {
+    "ip_address": "156.240.119.0/24",
+    "ip_type": "IPv4",
+    "service": "baidu-as55967",
+    "region": "global"
+  },
+  {
+    "ip_address": "156.240.120.0/21",
+    "ip_type": "IPv4",
+    "service": "baidu-as55967",
+    "region": "global"
+  },
+  {
+    "ip_address": "180.76.0.0/20",
+    "ip_type": "IPv4",
+    "service": "baidu-as55967",
+    "region": "global"
+  },
+  {
+    "ip_address": "180.76.0.0/24",
+    "ip_type": "IPv4",
+    "service": "baidu-as55967",
+    "region": "global"
+  },
+  {
+    "ip_address": "180.76.1.0/24",
+    "ip_type": "IPv4",
+    "service": "baidu-as55967",
+    "region": "global"
+  },
+  {
+    "ip_address": "180.76.5.0/24",
+    "ip_type": "IPv4",
+    "service": "baidu-as55967",
+    "region": "global"
+  },
+  {
+    "ip_address": "180.76.8.0/24",
+    "ip_type": "IPv4",
+    "service": "baidu-as55967",
+    "region": "global"
+  },
+  {
+    "ip_address": "180.76.9.0/24",
+    "ip_type": "IPv4",
+    "service": "baidu-as55967",
+    "region": "global"
+  },
+  {
+    "ip_address": "180.76.11.0/24",
+    "ip_type": "IPv4",
+    "service": "baidu-as55967",
+    "region": "global"
+  },
+  {
+    "ip_address": "180.76.12.0/24",
+    "ip_type": "IPv4",
+    "service": "baidu-as55967",
+    "region": "global"
+  },
+  {
+    "ip_address": "182.61.160.0/19",
+    "ip_type": "IPv4",
+    "service": "baidu-as55967",
+    "region": "global"
+  },
+  {
+    "ip_address": "185.10.104.0/24",
+    "ip_type": "IPv4",
+    "service": "baidu-as55967",
+    "region": "global"
+  },
+  {
+    "ip_address": "202.46.48.0/20",
+    "ip_type": "IPv4",
+    "service": "baidu-as55967",
+    "region": "global"
+  },
+  {
+    "ip_address": "202.46.61.0/24",
+    "ip_type": "IPv4",
+    "service": "baidu-as55967",
+    "region": "global"
+  },
+  {
+    "ip_address": "202.46.62.0/24",
+    "ip_type": "IPv4",
+    "service": "baidu-as55967",
+    "region": "global"
+  },
+  {
+    "ip_address": "202.46.63.0/24",
+    "ip_type": "IPv4",
+    "service": "baidu-as55967",
+    "region": "global"
+  },
+  {
+    "ip_address": "2402:2b40:7000::/36",
+    "ip_type": "IPv6",
+    "service": "baidu-as55967",
+    "region": "global"
+  },
+  {
+    "ip_address": "2402:2b40:8000::/36",
+    "ip_type": "IPv6",
+    "service": "baidu-as55967",
+    "region": "global"
+  }
+]

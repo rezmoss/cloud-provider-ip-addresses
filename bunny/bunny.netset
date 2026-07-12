@@ -1,0 +1,39 @@
+# bunny IP ranges - ipset restore format (hash:net)
+# Version: 1 | Generated: 2026-07-12 | Last changed: 2026-07-12
+# IPv4: 11 merged subnets, 4096 unique IPs
+# IPv6: 16 merged subnets
+# Source: https://github.com/rezmoss/cloud-provider-ip-addresses
+# License: CC0-1.0 | Updated daily at 02:00 UTC
+# Load with: sudo ipset restore -! < bunny.netset
+#
+create bunny_v4 hash:net family inet hashsize 4096 maxelem 1048576 -exist
+flush bunny_v4
+add bunny_v4 38.92.173.0/24
+add bunny_v4 91.200.176.0/24
+add bunny_v4 103.180.114.0/23
+add bunny_v4 107.150.176.0/24
+add bunny_v4 109.104.146.0/23
+add bunny_v4 109.224.228.0/22
+add bunny_v4 157.53.226.0/24
+add bunny_v4 185.190.83.0/24
+add bunny_v4 193.162.131.0/24
+add bunny_v4 194.156.156.0/24
+add bunny_v4 212.104.158.0/24
+create bunny_v6 hash:net family inet6 hashsize 4096 maxelem 1048576 -exist
+flush bunny_v6
+add bunny_v6 2400:52e0:1::/48
+add bunny_v6 2400:52e0:2::/48
+add bunny_v6 2400:52e0:1500::/47
+add bunny_v6 2400:52e0:1502::/48
+add bunny_v6 2400:52e0:1690::/48
+add bunny_v6 2400:52e0:1a00::/45
+add bunny_v6 2400:52e0:1a08::/47
+add bunny_v6 2400:52e0:1e01::/48
+add bunny_v6 2400:52e0:1e02::/47
+add bunny_v6 2400:52e0:1e04::/46
+add bunny_v6 2400:52e0:1e08::/47
+add bunny_v6 2400:52e0:1e10::/48
+add bunny_v6 2400:52e0:2a00::/48
+add bunny_v6 2400:52e0:4000::/48
+add bunny_v6 2400:52e0:fff0::/46
+add bunny_v6 2607:f740:e00c::/48

@@ -1,0 +1,32 @@
+# sucuri IP ranges - ipset restore format (hash:net)
+# Version: 1 | Generated: 2026-07-12 | Last changed: 2026-07-12
+# IPv4: 11 merged subnets, 5888 unique IPs
+# IPv6: 9 merged subnets
+# Source: https://github.com/rezmoss/cloud-provider-ip-addresses
+# License: CC0-1.0 | Updated daily at 02:00 UTC
+# Load with: sudo ipset restore -! < sucuri.netset
+#
+create sucuri_v4 hash:net family inet hashsize 4096 maxelem 1048576 -exist
+flush sucuri_v4
+add sucuri_v4 66.248.201.0/24
+add sucuri_v4 66.248.202.0/23
+add sucuri_v4 72.167.12.0/22
+add sucuri_v4 185.93.228.0/24
+add sucuri_v4 185.93.230.0/24
+add sucuri_v4 192.88.134.0/23
+add sucuri_v4 192.124.249.0/24
+add sucuri_v4 192.161.0.0/24
+add sucuri_v4 193.19.225.0/24
+add sucuri_v4 208.109.0.0/21
+add sucuri_v4 208.109.80.0/24
+create sucuri_v6 hash:net family inet6 hashsize 4096 maxelem 1048576 -exist
+flush sucuri_v6
+add sucuri_v6 2a02:fe80:11::/48
+add sucuri_v6 2a02:fe80:12::/48
+add sucuri_v6 2a02:fe80:14::/46
+add sucuri_v6 2a02:fe80:18::/48
+add sucuri_v6 2a02:fe80:20::/47
+add sucuri_v6 2a02:fe80:22::/48
+add sucuri_v6 2a02:fe80:1010::/48
+add sucuri_v6 2a02:fe80:2010::/48
+add sucuri_v6 2a02:fe81::/45

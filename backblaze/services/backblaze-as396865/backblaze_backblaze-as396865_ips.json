@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "23.144.80.0/24",
+    "ip_type": "IPv4",
+    "service": "backblaze-as396865",
+    "region": "global"
+  },
+  {
+    "ip_address": "2605:72c0:a000::/36",
+    "ip_type": "IPv6",
+    "service": "backblaze-as396865",
+    "region": "global"
+  }
+]

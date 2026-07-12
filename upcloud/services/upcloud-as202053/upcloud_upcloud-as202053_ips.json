@@ -1,0 +1,482 @@
+[
+  {
+    "ip_address": "5.22.208.0/22",
+    "ip_type": "IPv4",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "5.22.212.0/22",
+    "ip_type": "IPv4",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "5.22.216.0/22",
+    "ip_type": "IPv4",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "5.22.220.0/22",
+    "ip_type": "IPv4",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "5.253.32.0/22",
+    "ip_type": "IPv4",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "77.81.0.0/24",
+    "ip_type": "IPv4",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "80.69.172.0/22",
+    "ip_type": "IPv4",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "81.27.96.0/22",
+    "ip_type": "IPv4",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "81.27.100.0/22",
+    "ip_type": "IPv4",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "81.27.104.0/23",
+    "ip_type": "IPv4",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "81.27.106.0/23",
+    "ip_type": "IPv4",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "81.27.108.0/22",
+    "ip_type": "IPv4",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "83.136.248.0/21",
+    "ip_type": "IPv4",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "85.9.200.0/21",
+    "ip_type": "IPv4",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "85.9.208.0/21",
+    "ip_type": "IPv4",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "85.9.216.0/22",
+    "ip_type": "IPv4",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "85.9.220.0/22",
+    "ip_type": "IPv4",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "87.58.144.0/22",
+    "ip_type": "IPv4",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "87.58.148.0/22",
+    "ip_type": "IPv4",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "87.58.152.0/22",
+    "ip_type": "IPv4",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "87.58.156.0/23",
+    "ip_type": "IPv4",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "87.58.158.0/23",
+    "ip_type": "IPv4",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "94.237.0.0/24",
+    "ip_type": "IPv4",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "94.237.1.0/24",
+    "ip_type": "IPv4",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "94.237.2.0/23",
+    "ip_type": "IPv4",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "94.237.4.0/22",
+    "ip_type": "IPv4",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "94.237.8.0/21",
+    "ip_type": "IPv4",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "94.237.16.0/21",
+    "ip_type": "IPv4",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "94.237.24.0/21",
+    "ip_type": "IPv4",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "94.237.32.0/21",
+    "ip_type": "IPv4",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "94.237.40.0/21",
+    "ip_type": "IPv4",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "94.237.48.0/20",
+    "ip_type": "IPv4",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "94.237.64.0/20",
+    "ip_type": "IPv4",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "94.237.80.0/20",
+    "ip_type": "IPv4",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "94.237.96.0/21",
+    "ip_type": "IPv4",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "94.237.104.0/22",
+    "ip_type": "IPv4",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "94.237.108.0/22",
+    "ip_type": "IPv4",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "94.237.112.0/21",
+    "ip_type": "IPv4",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "94.237.120.0/22",
+    "ip_type": "IPv4",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "94.237.124.0/23",
+    "ip_type": "IPv4",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "94.237.126.0/24",
+    "ip_type": "IPv4",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "95.111.192.0/21",
+    "ip_type": "IPv4",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "95.111.200.0/22",
+    "ip_type": "IPv4",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "95.111.204.0/22",
+    "ip_type": "IPv4",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "95.111.208.0/22",
+    "ip_type": "IPv4",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "95.111.216.0/21",
+    "ip_type": "IPv4",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "109.71.54.0/24",
+    "ip_type": "IPv4",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "109.71.55.0/24",
+    "ip_type": "IPv4",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "185.20.136.0/22",
+    "ip_type": "IPv4",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "185.26.48.0/22",
+    "ip_type": "IPv4",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "185.70.196.0/22",
+    "ip_type": "IPv4",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "194.39.109.0/24",
+    "ip_type": "IPv4",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "194.62.96.0/22",
+    "ip_type": "IPv4",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "194.107.180.0/24",
+    "ip_type": "IPv4",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "212.147.224.0/22",
+    "ip_type": "IPv4",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "212.147.228.0/22",
+    "ip_type": "IPv4",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "212.147.232.0/22",
+    "ip_type": "IPv4",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "212.147.236.0/22",
+    "ip_type": "IPv4",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "212.147.240.0/22",
+    "ip_type": "IPv4",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "212.147.244.0/22",
+    "ip_type": "IPv4",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "212.147.248.0/23",
+    "ip_type": "IPv4",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "212.147.250.0/23",
+    "ip_type": "IPv4",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "212.147.252.0/22",
+    "ip_type": "IPv4",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "213.163.192.0/20",
+    "ip_type": "IPv4",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a03:3b00:1::/48",
+    "ip_type": "IPv6",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a03:3b00:2::/48",
+    "ip_type": "IPv6",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a04:3540::/32",
+    "ip_type": "IPv6",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a04:3541::/32",
+    "ip_type": "IPv6",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a04:3541:8000::/34",
+    "ip_type": "IPv6",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a04:3542::/32",
+    "ip_type": "IPv6",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a04:3542:8000::/34",
+    "ip_type": "IPv6",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a04:3543::/32",
+    "ip_type": "IPv6",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a04:3544::/32",
+    "ip_type": "IPv6",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a04:3544:8000::/34",
+    "ip_type": "IPv6",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a04:3545::/32",
+    "ip_type": "IPv6",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a04:3545:4000::/34",
+    "ip_type": "IPv6",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a04:3545:8000::/34",
+    "ip_type": "IPv6",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a04:3546::/32",
+    "ip_type": "IPv6",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a09:51c0::/29",
+    "ip_type": "IPv6",
+    "service": "upcloud-as202053",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a0d:7980:2::/48",
+    "ip_type": "IPv6",
+    "service": "upcloud-as202053",
+    "region": "global"
+  }
+]

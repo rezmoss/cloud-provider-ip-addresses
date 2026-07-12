@@ -1,0 +1,23 @@
+{
+  "provider": "imperva",
+  "version": 1,
+  "generated_date": "2026-07-12",
+  "last_changed_date": "2026-07-12",
+  "sources": [
+    "https://my.imperva.com/api/integration/v1/ips"
+  ],
+  "ipv4": {
+    "cidrs": 11,
+    "merged_cidrs": 11,
+    "addresses": 261120
+  },
+  "ipv6": {
+    "cidrs": 1,
+    "merged_cidrs": 1,
+    "addresses": 633825300114114700748351602688
+  },
+  "total_entries": 12,
+  "content_sha256": "f63cb54f357875b5cf1a46e27547ce92f0621d031f6a1cefa33a7cd08abd27e9",
+  "license": "CC0-1.0",
+  "license_url": "https://github.com/rezmoss/cloud-provider-ip-addresses/blob/main/LICENSE"
+}

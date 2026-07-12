@@ -1,0 +1,29 @@
+# wasabi IP ranges - ipset restore format (hash:net)
+# Version: 1 | Generated: 2026-07-12 | Last changed: 2026-07-12
+# IPv4: 19 merged subnets, 5120 unique IPs
+# IPv6: 0 merged subnets
+# Source: https://github.com/rezmoss/cloud-provider-ip-addresses
+# License: CC0-1.0 | Updated daily at 02:00 UTC
+# Load with: sudo ipset restore -! < wasabi.netset
+#
+create wasabi_v4 hash:net family inet hashsize 4096 maxelem 1048576 -exist
+flush wasabi_v4
+add wasabi_v4 27.131.254.0/24
+add wasabi_v4 38.27.106.0/24
+add wasabi_v4 38.73.225.0/24
+add wasabi_v4 38.91.42.0/24
+add wasabi_v4 38.126.68.0/24
+add wasabi_v4 38.143.146.0/24
+add wasabi_v4 38.146.40.0/24
+add wasabi_v4 38.146.208.0/23
+add wasabi_v4 38.242.13.0/24
+add wasabi_v4 103.151.85.0/24
+add wasabi_v4 130.117.185.0/24
+add wasabi_v4 130.117.252.0/24
+add wasabi_v4 149.5.241.0/24
+add wasabi_v4 149.13.185.0/24
+add wasabi_v4 154.18.200.0/24
+add wasabi_v4 154.49.215.0/24
+add wasabi_v4 154.56.213.0/24
+add wasabi_v4 154.61.149.0/24
+add wasabi_v4 206.148.5.0/24

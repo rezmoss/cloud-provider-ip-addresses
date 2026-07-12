@@ -1,0 +1,24 @@
+# imperva IP ranges - ipset restore format (hash:net)
+# Version: 1 | Generated: 2026-07-12 | Last changed: 2026-07-12
+# IPv4: 11 merged subnets, 261120 unique IPs
+# IPv6: 1 merged subnets
+# Source: https://github.com/rezmoss/cloud-provider-ip-addresses
+# License: CC0-1.0 | Updated daily at 02:00 UTC
+# Load with: sudo ipset restore -! < imperva.netset
+#
+create imperva_v4 hash:net family inet hashsize 4096 maxelem 1048576 -exist
+flush imperva_v4
+add imperva_v4 45.60.0.0/16
+add imperva_v4 45.64.64.0/22
+add imperva_v4 45.223.0.0/16
+add imperva_v4 103.28.248.0/22
+add imperva_v4 107.154.0.0/16
+add imperva_v4 131.125.128.0/17
+add imperva_v4 149.126.72.0/21
+add imperva_v4 185.11.124.0/22
+add imperva_v4 192.230.64.0/18
+add imperva_v4 198.143.32.0/19
+add imperva_v4 199.83.128.0/21
+create imperva_v6 hash:net family inet6 hashsize 4096 maxelem 1048576 -exist
+flush imperva_v6
+add imperva_v6 2a02:e980::/29

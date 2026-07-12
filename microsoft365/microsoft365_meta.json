@@ -1,0 +1,23 @@
+{
+  "provider": "microsoft365",
+  "version": 1,
+  "generated_date": "2026-07-12",
+  "last_changed_date": "2026-07-12",
+  "sources": [
+    "https://endpoints.office.com/endpoints/worldwide?clientrequestid=b10c5ed1-bad1-445f-b386-b919946339a7"
+  ],
+  "ipv4": {
+    "cidrs": 34,
+    "merged_cidrs": 31,
+    "addresses": 2514957
+  },
+  "ipv6": {
+    "cidrs": 59,
+    "merged_cidrs": 51,
+    "addresses": 39734973839093631714242592786
+  },
+  "total_entries": 93,
+  "content_sha256": "4e80bf38e9abacf2b2fcf1127753dae31fbb1ec64b643c1cd29391cc4f1de643",
+  "license": "CC0-1.0",
+  "license_url": "https://github.com/rezmoss/cloud-provider-ip-addresses/blob/main/LICENSE"
+}

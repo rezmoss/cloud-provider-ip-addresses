@@ -1,0 +1,23 @@
+{
+  "provider": "bunny",
+  "version": 1,
+  "generated_date": "2026-07-12",
+  "last_changed_date": "2026-07-12",
+  "sources": [
+    "BGP announced prefixes via RIPE NCC RIPEstat"
+  ],
+  "ipv4": {
+    "cidrs": 14,
+    "merged_cidrs": 11,
+    "addresses": 4096
+  },
+  "ipv6": {
+    "cidrs": 33,
+    "merged_cidrs": 16,
+    "addresses": 39894552047282762765303808
+  },
+  "total_entries": 47,
+  "content_sha256": "1c86212fe68ef37547d66c6ba958b896efcbe7e15525817554ea5583cc7bd58c",
+  "license": "CC0-1.0",
+  "license_url": "https://github.com/rezmoss/cloud-provider-ip-addresses/blob/main/LICENSE"
+}
