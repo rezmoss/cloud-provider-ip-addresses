@@ -1,0 +1,8 @@
+[
+  {
+    "ip_address": "199.182.60.0/23",
+    "ip_type": "IPv4",
+    "service": "rackspace-as54636",
+    "region": "global"
+  }
+]

@@ -1,0 +1,854 @@
+[
+  {
+    "ip_address": "5.45.192.0/18",
+    "ip_type": "IPv4",
+    "service": "yandex-as13238",
+    "region": "global"
+  },
+  {
+    "ip_address": "5.45.202.0/24",
+    "ip_type": "IPv4",
+    "service": "yandex-as13238",
+    "region": "global"
+  },
+  {
+    "ip_address": "5.45.205.0/24",
+    "ip_type": "IPv4",
+    "service": "yandex-as13238",
+    "region": "global"
+  },
+  {
+    "ip_address": "5.45.214.0/24",
+    "ip_type": "IPv4",
+    "service": "yandex-as44534",
+    "region": "global"
+  },
+  {
+    "ip_address": "5.45.215.0/24",
+    "ip_type": "IPv4",
+    "service": "yandex-as13238",
+    "region": "global"
+  },
+  {
+    "ip_address": "5.45.219.0/24",
+    "ip_type": "IPv4",
+    "service": "yandex-as44534",
+    "region": "global"
+  },
+  {
+    "ip_address": "5.45.241.0/24",
+    "ip_type": "IPv4",
+    "service": "yandex-as44534",
+    "region": "global"
+  },
+  {
+    "ip_address": "5.45.243.0/24",
+    "ip_type": "IPv4",
+    "service": "yandex-as44534",
+    "region": "global"
+  },
+  {
+    "ip_address": "5.45.252.0/22",
+    "ip_type": "IPv4",
+    "service": "yandex-as44534",
+    "region": "global"
+  },
+  {
+    "ip_address": "5.255.192.0/18",
+    "ip_type": "IPv4",
+    "service": "yandex-as13238",
+    "region": "global"
+  },
+  {
+    "ip_address": "5.255.197.0/24",
+    "ip_type": "IPv4",
+    "service": "yandex-as13238",
+    "region": "global"
+  },
+  {
+    "ip_address": "5.255.205.0/24",
+    "ip_type": "IPv4",
+    "service": "yandex-as44534",
+    "region": "global"
+  },
+  {
+    "ip_address": "5.255.255.0/24",
+    "ip_type": "IPv4",
+    "service": "yandex-as13238",
+    "region": "global"
+  },
+  {
+    "ip_address": "31.44.8.0/21",
+    "ip_type": "IPv4",
+    "service": "yandex-as200350",
+    "region": "global"
+  },
+  {
+    "ip_address": "31.44.9.0/24",
+    "ip_type": "IPv4",
+    "service": "yandex-as200350",
+    "region": "global"
+  },
+  {
+    "ip_address": "37.9.64.0/18",
+    "ip_type": "IPv4",
+    "service": "yandex-as13238",
+    "region": "global"
+  },
+  {
+    "ip_address": "37.9.64.0/24",
+    "ip_type": "IPv4",
+    "service": "yandex-as13238",
+    "region": "global"
+  },
+  {
+    "ip_address": "37.9.75.0/24",
+    "ip_type": "IPv4",
+    "service": "yandex-as44534",
+    "region": "global"
+  },
+  {
+    "ip_address": "37.9.86.0/24",
+    "ip_type": "IPv4",
+    "service": "yandex-as44534",
+    "region": "global"
+  },
+  {
+    "ip_address": "37.9.87.0/24",
+    "ip_type": "IPv4",
+    "service": "yandex-as13238",
+    "region": "global"
+  },
+  {
+    "ip_address": "37.9.98.0/24",
+    "ip_type": "IPv4",
+    "service": "yandex-as44534",
+    "region": "global"
+  },
+  {
+    "ip_address": "37.9.112.0/24",
+    "ip_type": "IPv4",
+    "service": "yandex-as13238",
+    "region": "global"
+  },
+  {
+    "ip_address": "37.140.128.0/18",
+    "ip_type": "IPv4",
+    "service": "yandex-as13238",
+    "region": "global"
+  },
+  {
+    "ip_address": "37.230.168.0/23",
+    "ip_type": "IPv4",
+    "service": "yandex-as200350",
+    "region": "global"
+  },
+  {
+    "ip_address": "37.230.172.0/22",
+    "ip_type": "IPv4",
+    "service": "yandex-as200350",
+    "region": "global"
+  },
+  {
+    "ip_address": "46.21.244.0/22",
+    "ip_type": "IPv4",
+    "service": "yandex-as200350",
+    "region": "global"
+  },
+  {
+    "ip_address": "46.243.209.0/24",
+    "ip_type": "IPv4",
+    "service": "yandex-as200350",
+    "region": "global"
+  },
+  {
+    "ip_address": "46.243.210.0/23",
+    "ip_type": "IPv4",
+    "service": "yandex-as200350",
+    "region": "global"
+  },
+  {
+    "ip_address": "51.250.0.0/17",
+    "ip_type": "IPv4",
+    "service": "yandex-as200350",
+    "region": "global"
+  },
+  {
+    "ip_address": "51.250.48.0/24",
+    "ip_type": "IPv4",
+    "service": "yandex-as200350",
+    "region": "global"
+  },
+  {
+    "ip_address": "51.250.50.0/23",
+    "ip_type": "IPv4",
+    "service": "yandex-as200350",
+    "region": "global"
+  },
+  {
+    "ip_address": "51.250.54.0/23",
+    "ip_type": "IPv4",
+    "service": "yandex-as200350",
+    "region": "global"
+  },
+  {
+    "ip_address": "51.250.112.0/21",
+    "ip_type": "IPv4",
+    "service": "yandex-as200350",
+    "region": "global"
+  },
+  {
+    "ip_address": "51.250.120.0/22",
+    "ip_type": "IPv4",
+    "service": "yandex-as200350",
+    "region": "global"
+  },
+  {
+    "ip_address": "51.250.126.0/24",
+    "ip_type": "IPv4",
+    "service": "yandex-as200350",
+    "region": "global"
+  },
+  {
+    "ip_address": "62.84.112.0/20",
+    "ip_type": "IPv4",
+    "service": "yandex-as200350",
+    "region": "global"
+  },
+  {
+    "ip_address": "77.88.0.0/18",
+    "ip_type": "IPv4",
+    "service": "yandex-as13238",
+    "region": "global"
+  },
+  {
+    "ip_address": "77.88.6.0/24",
+    "ip_type": "IPv4",
+    "service": "yandex-as44534",
+    "region": "global"
+  },
+  {
+    "ip_address": "77.88.8.0/24",
+    "ip_type": "IPv4",
+    "service": "yandex-as13238",
+    "region": "global"
+  },
+  {
+    "ip_address": "77.88.12.0/23",
+    "ip_type": "IPv4",
+    "service": "yandex-as44534",
+    "region": "global"
+  },
+  {
+    "ip_address": "77.88.44.0/24",
+    "ip_type": "IPv4",
+    "service": "yandex-as13238",
+    "region": "global"
+  },
+  {
+    "ip_address": "77.88.55.0/24",
+    "ip_type": "IPv4",
+    "service": "yandex-as13238",
+    "region": "global"
+  },
+  {
+    "ip_address": "81.26.176.0/20",
+    "ip_type": "IPv4",
+    "service": "yandex-as200350",
+    "region": "global"
+  },
+  {
+    "ip_address": "84.201.128.0/18",
+    "ip_type": "IPv4",
+    "service": "yandex-as200350",
+    "region": "global"
+  },
+  {
+    "ip_address": "84.201.184.0/22",
+    "ip_type": "IPv4",
+    "service": "yandex-as200350",
+    "region": "global"
+  },
+  {
+    "ip_address": "84.201.188.0/23",
+    "ip_type": "IPv4",
+    "service": "yandex-as200350",
+    "region": "global"
+  },
+  {
+    "ip_address": "84.252.128.0/20",
+    "ip_type": "IPv4",
+    "service": "yandex-as200350",
+    "region": "global"
+  },
+  {
+    "ip_address": "84.252.160.0/19",
+    "ip_type": "IPv4",
+    "service": "yandex-as13238",
+    "region": "global"
+  },
+  {
+    "ip_address": "84.252.160.0/20",
+    "ip_type": "IPv4",
+    "service": "yandex-as44534",
+    "region": "global"
+  },
+  {
+    "ip_address": "87.250.224.0/19",
+    "ip_type": "IPv4",
+    "service": "yandex-as13238",
+    "region": "global"
+  },
+  {
+    "ip_address": "87.250.240.0/24",
+    "ip_type": "IPv4",
+    "service": "yandex-as44534",
+    "region": "global"
+  },
+  {
+    "ip_address": "87.250.247.0/24",
+    "ip_type": "IPv4",
+    "service": "yandex-as13238",
+    "region": "global"
+  },
+  {
+    "ip_address": "87.250.255.0/24",
+    "ip_type": "IPv4",
+    "service": "yandex-as13238",
+    "region": "global"
+  },
+  {
+    "ip_address": "89.104.112.0/23",
+    "ip_type": "IPv4",
+    "service": "yandex-as200350",
+    "region": "global"
+  },
+  {
+    "ip_address": "89.169.128.0/18",
+    "ip_type": "IPv4",
+    "service": "yandex-as200350",
+    "region": "global"
+  },
+  {
+    "ip_address": "89.223.9.0/24",
+    "ip_type": "IPv4",
+    "service": "yandex-as215013",
+    "region": "global"
+  },
+  {
+    "ip_address": "89.223.20.0/24",
+    "ip_type": "IPv4",
+    "service": "yandex-as210656",
+    "region": "global"
+  },
+  {
+    "ip_address": "89.232.188.0/24",
+    "ip_type": "IPv4",
+    "service": "yandex-as200350",
+    "region": "global"
+  },
+  {
+    "ip_address": "89.232.189.0/24",
+    "ip_type": "IPv4",
+    "service": "yandex-as200350",
+    "region": "global"
+  },
+  {
+    "ip_address": "91.107.80.0/22",
+    "ip_type": "IPv4",
+    "service": "yandex-as202611",
+    "region": "global"
+  },
+  {
+    "ip_address": "92.255.1.0/24",
+    "ip_type": "IPv4",
+    "service": "yandex-as200350",
+    "region": "global"
+  },
+  {
+    "ip_address": "92.255.3.0/24",
+    "ip_type": "IPv4",
+    "service": "yandex-as200350",
+    "region": "global"
+  },
+  {
+    "ip_address": "92.255.13.0/24",
+    "ip_type": "IPv4",
+    "service": "yandex-as200350",
+    "region": "global"
+  },
+  {
+    "ip_address": "92.255.15.0/24",
+    "ip_type": "IPv4",
+    "service": "yandex-as200350",
+    "region": "global"
+  },
+  {
+    "ip_address": "92.255.16.0/24",
+    "ip_type": "IPv4",
+    "service": "yandex-as210656",
+    "region": "global"
+  },
+  {
+    "ip_address": "92.255.58.0/23",
+    "ip_type": "IPv4",
+    "service": "yandex-as210656",
+    "region": "global"
+  },
+  {
+    "ip_address": "92.255.112.0/20",
+    "ip_type": "IPv4",
+    "service": "yandex-as13238",
+    "region": "global"
+  },
+  {
+    "ip_address": "93.77.160.0/19",
+    "ip_type": "IPv4",
+    "service": "yandex-as200350",
+    "region": "global"
+  },
+  {
+    "ip_address": "93.77.168.0/22",
+    "ip_type": "IPv4",
+    "service": "yandex-as200350",
+    "region": "global"
+  },
+  {
+    "ip_address": "93.158.128.0/18",
+    "ip_type": "IPv4",
+    "service": "yandex-as13238",
+    "region": "global"
+  },
+  {
+    "ip_address": "93.158.144.0/22",
+    "ip_type": "IPv4",
+    "service": "yandex-as44534",
+    "region": "global"
+  },
+  {
+    "ip_address": "93.158.168.0/22",
+    "ip_type": "IPv4",
+    "service": "yandex-as44534",
+    "region": "global"
+  },
+  {
+    "ip_address": "93.158.184.0/21",
+    "ip_type": "IPv4",
+    "service": "yandex-as44534",
+    "region": "global"
+  },
+  {
+    "ip_address": "94.126.204.0/22",
+    "ip_type": "IPv4",
+    "service": "yandex-as210656",
+    "region": "global"
+  },
+  {
+    "ip_address": "94.131.190.0/24",
+    "ip_type": "IPv4",
+    "service": "yandex-as215013",
+    "region": "global"
+  },
+  {
+    "ip_address": "94.131.191.0/24",
+    "ip_type": "IPv4",
+    "service": "yandex-as215013",
+    "region": "global"
+  },
+  {
+    "ip_address": "94.139.248.0/22",
+    "ip_type": "IPv4",
+    "service": "yandex-as210656",
+    "region": "global"
+  },
+  {
+    "ip_address": "95.108.128.0/17",
+    "ip_type": "IPv4",
+    "service": "yandex-as13238",
+    "region": "global"
+  },
+  {
+    "ip_address": "103.76.52.0/22",
+    "ip_type": "IPv4",
+    "service": "yandex-as200350",
+    "region": "global"
+  },
+  {
+    "ip_address": "111.88.144.0/20",
+    "ip_type": "IPv4",
+    "service": "yandex-as200350",
+    "region": "global"
+  },
+  {
+    "ip_address": "111.88.240.0/20",
+    "ip_type": "IPv4",
+    "service": "yandex-as200350",
+    "region": "global"
+  },
+  {
+    "ip_address": "130.193.32.0/19",
+    "ip_type": "IPv4",
+    "service": "yandex-as200350",
+    "region": "global"
+  },
+  {
+    "ip_address": "130.193.62.0/24",
+    "ip_type": "IPv4",
+    "service": "yandex-as200350",
+    "region": "global"
+  },
+  {
+    "ip_address": "141.8.128.0/18",
+    "ip_type": "IPv4",
+    "service": "yandex-as13238",
+    "region": "global"
+  },
+  {
+    "ip_address": "158.160.0.0/16",
+    "ip_type": "IPv4",
+    "service": "yandex-as200350",
+    "region": "global"
+  },
+  {
+    "ip_address": "178.154.128.0/19",
+    "ip_type": "IPv4",
+    "service": "yandex-as13238",
+    "region": "global"
+  },
+  {
+    "ip_address": "178.154.131.0/24",
+    "ip_type": "IPv4",
+    "service": "yandex-as13238",
+    "region": "global"
+  },
+  {
+    "ip_address": "178.154.160.0/19",
+    "ip_type": "IPv4",
+    "service": "yandex-as13238",
+    "region": "global"
+  },
+  {
+    "ip_address": "178.154.192.0/19",
+    "ip_type": "IPv4",
+    "service": "yandex-as200350",
+    "region": "global"
+  },
+  {
+    "ip_address": "178.154.224.0/19",
+    "ip_type": "IPv4",
+    "service": "yandex-as200350",
+    "region": "global"
+  },
+  {
+    "ip_address": "178.154.243.0/24",
+    "ip_type": "IPv4",
+    "service": "yandex-as200350",
+    "region": "global"
+  },
+  {
+    "ip_address": "178.154.244.0/24",
+    "ip_type": "IPv4",
+    "service": "yandex-as200350",
+    "region": "global"
+  },
+  {
+    "ip_address": "178.154.245.0/24",
+    "ip_type": "IPv4",
+    "service": "yandex-as200350",
+    "region": "global"
+  },
+  {
+    "ip_address": "185.32.184.0/23",
+    "ip_type": "IPv4",
+    "service": "yandex-as202611",
+    "region": "global"
+  },
+  {
+    "ip_address": "185.32.187.0/24",
+    "ip_type": "IPv4",
+    "service": "yandex-as13238",
+    "region": "global"
+  },
+  {
+    "ip_address": "185.184.128.0/22",
+    "ip_type": "IPv4",
+    "service": "yandex-as210656",
+    "region": "global"
+  },
+  {
+    "ip_address": "185.206.164.0/22",
+    "ip_type": "IPv4",
+    "service": "yandex-as200350",
+    "region": "global"
+  },
+  {
+    "ip_address": "185.216.194.0/23",
+    "ip_type": "IPv4",
+    "service": "yandex-as210656",
+    "region": "global"
+  },
+  {
+    "ip_address": "188.72.103.0/24",
+    "ip_type": "IPv4",
+    "service": "yandex-as215013",
+    "region": "global"
+  },
+  {
+    "ip_address": "188.72.110.0/24",
+    "ip_type": "IPv4",
+    "service": "yandex-as215013",
+    "region": "global"
+  },
+  {
+    "ip_address": "188.72.111.0/24",
+    "ip_type": "IPv4",
+    "service": "yandex-as215013",
+    "region": "global"
+  },
+  {
+    "ip_address": "188.72.113.0/24",
+    "ip_type": "IPv4",
+    "service": "yandex-as215013",
+    "region": "global"
+  },
+  {
+    "ip_address": "193.32.216.0/22",
+    "ip_type": "IPv4",
+    "service": "yandex-as200350",
+    "region": "global"
+  },
+  {
+    "ip_address": "193.32.216.0/24",
+    "ip_type": "IPv4",
+    "service": "yandex-as200350",
+    "region": "global"
+  },
+  {
+    "ip_address": "194.247.51.0/24",
+    "ip_type": "IPv4",
+    "service": "yandex-as200350",
+    "region": "global"
+  },
+  {
+    "ip_address": "213.130.80.0/21",
+    "ip_type": "IPv4",
+    "service": "yandex-as200350",
+    "region": "global"
+  },
+  {
+    "ip_address": "213.165.192.0/19",
+    "ip_type": "IPv4",
+    "service": "yandex-as200350",
+    "region": "global"
+  },
+  {
+    "ip_address": "213.165.196.0/22",
+    "ip_type": "IPv4",
+    "service": "yandex-as200350",
+    "region": "global"
+  },
+  {
+    "ip_address": "213.165.200.0/21",
+    "ip_type": "IPv4",
+    "service": "yandex-as200350",
+    "region": "global"
+  },
+  {
+    "ip_address": "213.180.192.0/19",
+    "ip_type": "IPv4",
+    "service": "yandex-as13238",
+    "region": "global"
+  },
+  {
+    "ip_address": "213.180.199.0/24",
+    "ip_type": "IPv4",
+    "service": "yandex-as13238",
+    "region": "global"
+  },
+  {
+    "ip_address": "217.28.224.0/20",
+    "ip_type": "IPv4",
+    "service": "yandex-as200350",
+    "region": "global"
+  },
+  {
+    "ip_address": "217.198.168.0/21",
+    "ip_type": "IPv4",
+    "service": "yandex-as200350",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a02:6b8::/29",
+    "ip_type": "IPv6",
+    "service": "yandex-as13238",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a02:6b8::/32",
+    "ip_type": "IPv6",
+    "service": "yandex-as13238",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a02:6b8:4::/48",
+    "ip_type": "IPv6",
+    "service": "yandex-as13238",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a02:6b8:5::/48",
+    "ip_type": "IPv6",
+    "service": "yandex-as13238",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a02:6b8:6::/48",
+    "ip_type": "IPv6",
+    "service": "yandex-as13238",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a02:6b8:8::/48",
+    "ip_type": "IPv6",
+    "service": "yandex-as13238",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a02:6b8:a::/48",
+    "ip_type": "IPv6",
+    "service": "yandex-as13238",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a02:6b8:b::/48",
+    "ip_type": "IPv6",
+    "service": "yandex-as13238",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a02:6b8:c::/48",
+    "ip_type": "IPv6",
+    "service": "yandex-as13238",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a02:6b8:d::/48",
+    "ip_type": "IPv6",
+    "service": "yandex-as13238",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a02:6b8:e::/48",
+    "ip_type": "IPv6",
+    "service": "yandex-as13238",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a02:6b8:20::/48",
+    "ip_type": "IPv6",
+    "service": "yandex-as13238",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a02:6b8:21::/48",
+    "ip_type": "IPv6",
+    "service": "yandex-as13238",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a02:6b8:22::/48",
+    "ip_type": "IPv6",
+    "service": "yandex-as13238",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a02:6b8:23::/48",
+    "ip_type": "IPv6",
+    "service": "yandex-as13238",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a02:6b8:215::/48",
+    "ip_type": "IPv6",
+    "service": "yandex-as13238",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a02:6bf:8000::/34",
+    "ip_type": "IPv6",
+    "service": "yandex-as44534",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a02:6bf:8000::/35",
+    "ip_type": "IPv6",
+    "service": "yandex-as44534",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a02:6bf:8005::/48",
+    "ip_type": "IPv6",
+    "service": "yandex-as44534",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a02:6bf:8006::/48",
+    "ip_type": "IPv6",
+    "service": "yandex-as44534",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a02:6bf:a000::/35",
+    "ip_type": "IPv6",
+    "service": "yandex-as44534",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a02:6bf:a005::/48",
+    "ip_type": "IPv6",
+    "service": "yandex-as44534",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a02:6bf:a008::/48",
+    "ip_type": "IPv6",
+    "service": "yandex-as44534",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a0b:1440::/32",
+    "ip_type": "IPv6",
+    "service": "yandex-as202611",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a0b:1447:20::/44",
+    "ip_type": "IPv6",
+    "service": "yandex-as200350",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a0d:d6c0::/32",
+    "ip_type": "IPv6",
+    "service": "yandex-as200350",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a0d:d6c1::/32",
+    "ip_type": "IPv6",
+    "service": "yandex-as200350",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a0d:d6c7:14::/48",
+    "ip_type": "IPv6",
+    "service": "yandex-as215013",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a0d:d6c7:15::/48",
+    "ip_type": "IPv6",
+    "service": "yandex-as215013",
+    "region": "global"
+  }
+]

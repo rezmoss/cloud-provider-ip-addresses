@@ -1,0 +1,92 @@
+[
+  {
+    "ip_address": "66.70.1.0/24",
+    "ip_type": "IPv4",
+    "service": "rackspace-as45187",
+    "region": "global"
+  },
+  {
+    "ip_address": "66.70.92.0/22",
+    "ip_type": "IPv4",
+    "service": "rackspace-as45187",
+    "region": "global"
+  },
+  {
+    "ip_address": "66.70.94.0/23",
+    "ip_type": "IPv4",
+    "service": "rackspace-as45187",
+    "region": "global"
+  },
+  {
+    "ip_address": "66.70.107.0/24",
+    "ip_type": "IPv4",
+    "service": "rackspace-as45187",
+    "region": "global"
+  },
+  {
+    "ip_address": "103.4.112.0/23",
+    "ip_type": "IPv4",
+    "service": "rackspace-as45187",
+    "region": "global"
+  },
+  {
+    "ip_address": "119.9.64.0/19",
+    "ip_type": "IPv4",
+    "service": "rackspace-as45187",
+    "region": "global"
+  },
+  {
+    "ip_address": "119.9.96.0/19",
+    "ip_type": "IPv4",
+    "service": "rackspace-as45187",
+    "region": "global"
+  },
+  {
+    "ip_address": "120.136.32.0/20",
+    "ip_type": "IPv4",
+    "service": "rackspace-as45187",
+    "region": "global"
+  },
+  {
+    "ip_address": "122.200.132.0/22",
+    "ip_type": "IPv4",
+    "service": "rackspace-as45187",
+    "region": "global"
+  },
+  {
+    "ip_address": "134.8.1.0/24",
+    "ip_type": "IPv4",
+    "service": "rackspace-as45187",
+    "region": "global"
+  },
+  {
+    "ip_address": "180.150.128.0/19",
+    "ip_type": "IPv4",
+    "service": "rackspace-as45187",
+    "region": "global"
+  },
+  {
+    "ip_address": "202.168.208.0/21",
+    "ip_type": "IPv4",
+    "service": "rackspace-as45187",
+    "region": "global"
+  },
+  {
+    "ip_address": "203.60.0.0/17",
+    "ip_type": "IPv4",
+    "service": "rackspace-as45187",
+    "region": "global"
+  },
+  {
+    "ip_address": "2401:1800::/32",
+    "ip_type": "IPv6",
+    "service": "rackspace-as45187",
+    "region": "global"
+  },
+  {
+    "ip_address": "2407:fa00::/32",
+    "ip_type": "IPv6",
+    "service": "rackspace-as45187",
+    "region": "global"
+  }
+]

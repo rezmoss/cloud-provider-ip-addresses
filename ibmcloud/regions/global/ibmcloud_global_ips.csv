@@ -325,6 +325,7 @@ ip_address,ip_type,service,region
 207.231.152.0/23,IPv4,ibmcloud-as36351,global
 207.231.156.0/23,IPv4,ibmcloud-as36351,global
 207.231.158.0/23,IPv4,ibmcloud-as36351,global
+207.255.252.0/24,IPv4,ibmcloud-as19765,global
 208.43.0.0/18,IPv4,ibmcloud-as36351,global
 208.43.128.0/18,IPv4,ibmcloud-as36351,global
 208.43.192.0/19,IPv4,ibmcloud-as36351,global

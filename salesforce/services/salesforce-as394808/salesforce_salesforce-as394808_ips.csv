@@ -1,0 +1,8 @@
+ip_address,ip_type,service,region
+104.161.232.0/24,IPv4,salesforce-as394808,global
+104.161.233.0/24,IPv4,salesforce-as394808,global
+104.161.234.0/24,IPv4,salesforce-as394808,global
+104.161.235.0/24,IPv4,salesforce-as394808,global
+104.161.252.0/24,IPv4,salesforce-as394808,global
+104.161.253.0/24,IPv4,salesforce-as394808,global
+104.161.255.0/24,IPv4,salesforce-as394808,global

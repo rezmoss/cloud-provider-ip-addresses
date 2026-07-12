@@ -1,5 +1,5 @@
 # datadog IP ranges - ipset restore format (hash:net)
-# Version: 1 | Generated: 2026-07-11 | Last changed: 2026-06-18
+# Version: 1 | Generated: 2026-07-12 | Last changed: 2026-06-18
 # IPv4: 149 merged subnets, 5597 unique IPs
 # IPv6: 1 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses

@@ -2,6 +2,56 @@
 
 Daily IP range changes across all providers.
 
+## 2026-07-12
+
+### googleservices
+- Added: 340 CIDRs
+- Removed: 0 CIDRs
+
+### leaseweb
+- Added: 2029 CIDRs
+- Removed: 0 CIDRs
+
+### zscaler
+- Added: 946 CIDRs
+- Removed: 0 CIDRs
+
+### akamai
+- Added: 11134 CIDRs
+- Removed: 0 CIDRs
+
+### yandex
+- Added: 142 CIDRs
+- Removed: 0 CIDRs
+
+### ibmcloud
+- Added: 1 CIDRs
+- Removed: 0 CIDRs
+
+### huawei
+- Added: 659 CIDRs
+- Removed: 0 CIDRs
+
+### salesforce
+- Added: 62 CIDRs
+- Removed: 0 CIDRs
+
+### tor
+- Added: 11 CIDRs
+- Removed: 14 CIDRs
+
+### ovhcloud
+- Added: 0 CIDRs
+- Removed: 2 CIDRs
+
+### meta
+- Added: 1 CIDRs
+- Removed: 0 CIDRs
+
+### rackspace
+- Added: 325 CIDRs
+- Removed: 0 CIDRs
+
 ## 2026-07-11
 
 ### mullvad

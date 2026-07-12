@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "93.191.175.0/24",
+    "ip_type": "IPv4",
+    "service": "akamai-as49846",
+    "region": "global"
+  },
+  {
+    "ip_address": "2606:6c00:6001::/48",
+    "ip_type": "IPv6",
+    "service": "akamai-as49846",
+    "region": "global"
+  }
+]

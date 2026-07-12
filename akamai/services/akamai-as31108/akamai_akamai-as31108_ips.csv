@@ -1,0 +1,8 @@
+ip_address,ip_type,service,region
+88.221.82.0/24,IPv4,akamai-as31108,global
+88.221.86.0/24,IPv4,akamai-as31108,global
+96.16.4.0/23,IPv4,akamai-as31108,global
+195.245.126.0/24,IPv4,akamai-as31108,global
+2a02:26f0:1c::/48,IPv6,akamai-as31108,global
+2a02:26f0:36::/48,IPv6,akamai-as31108,global
+2a02:26f0:3d::/48,IPv6,akamai-as31108,global

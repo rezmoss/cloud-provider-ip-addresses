@@ -1,0 +1,43 @@
+#!/bin/bash
+# Yandex IP Ranges
+# Updated: 2026-07-12 03:18:07
+# Source: https://github.com/rezmoss/cloud-provider-ip-addresses
+# License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
+# This file is generated automatically. Do not edit it directly.
+# Updates daily at 02:00 UTC
+# UFW deny rules for yandex
+
+ufw deny from 31.44.8.0/21
+ufw deny from 37.230.168.0/23
+ufw deny from 37.230.172.0/22
+ufw deny from 46.21.244.0/22
+ufw deny from 46.243.209.0/24
+ufw deny from 46.243.210.0/23
+ufw deny from 51.250.0.0/17
+ufw deny from 62.84.112.0/20
+ufw deny from 81.26.176.0/20
+ufw deny from 84.201.128.0/18
+ufw deny from 84.252.128.0/20
+ufw deny from 89.104.112.0/23
+ufw deny from 89.169.128.0/18
+ufw deny from 89.232.188.0/23
+ufw deny from 92.255.1.0/24
+ufw deny from 92.255.3.0/24
+ufw deny from 92.255.13.0/24
+ufw deny from 92.255.15.0/24
+ufw deny from 93.77.160.0/19
+ufw deny from 103.76.52.0/22
+ufw deny from 111.88.144.0/20
+ufw deny from 111.88.240.0/20
+ufw deny from 130.193.32.0/19
+ufw deny from 158.160.0.0/16
+ufw deny from 178.154.192.0/18
+ufw deny from 185.206.164.0/22
+ufw deny from 193.32.216.0/22
+ufw deny from 194.247.51.0/24
+ufw deny from 213.130.80.0/21
+ufw deny from 213.165.192.0/19
+ufw deny from 217.28.224.0/20
+ufw deny from 217.198.168.0/21
+ufw deny from 2a0b:1447:20::/44
+ufw deny from 2a0d:d6c0::/31

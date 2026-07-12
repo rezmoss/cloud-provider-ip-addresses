@@ -1,0 +1,10 @@
+ip_address,ip_type,service,region
+89.223.9.0/24,IPv4,yandex-as215013,global
+94.131.190.0/24,IPv4,yandex-as215013,global
+94.131.191.0/24,IPv4,yandex-as215013,global
+188.72.103.0/24,IPv4,yandex-as215013,global
+188.72.110.0/24,IPv4,yandex-as215013,global
+188.72.111.0/24,IPv4,yandex-as215013,global
+188.72.113.0/24,IPv4,yandex-as215013,global
+2a0d:d6c7:14::/48,IPv6,yandex-as215013,global
+2a0d:d6c7:15::/48,IPv6,yandex-as215013,global

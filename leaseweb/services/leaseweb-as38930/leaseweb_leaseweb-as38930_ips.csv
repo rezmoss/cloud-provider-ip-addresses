@@ -1,0 +1,9 @@
+ip_address,ip_type,service,region
+87.255.32.0/19,IPv4,leaseweb-as38930,global
+87.255.33.0/24,IPv4,leaseweb-as38930,global
+87.255.62.0/23,IPv4,leaseweb-as38930,global
+185.175.4.0/22,IPv4,leaseweb-as38930,global
+217.194.16.0/24,IPv4,leaseweb-as38930,global
+217.194.20.0/24,IPv4,leaseweb-as38930,global
+2a00:ec8::/32,IPv6,leaseweb-as38930,global
+2a00:ec8:c00::/44,IPv6,leaseweb-as38930,global

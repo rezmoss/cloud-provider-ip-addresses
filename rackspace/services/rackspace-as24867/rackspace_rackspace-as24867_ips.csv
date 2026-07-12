@@ -1,0 +1,15 @@
+ip_address,ip_type,service,region
+62.140.192.0/19,IPv4,rackspace-as24867,global
+62.140.218.0/24,IPv4,rackspace-as24867,global
+78.40.152.0/21,IPv4,rackspace-as24867,global
+80.83.144.0/20,IPv4,rackspace-as24867,global
+82.211.64.0/18,IPv4,rackspace-as24867,global
+83.217.96.0/19,IPv4,rackspace-as24867,global
+85.133.0.0/17,IPv4,rackspace-as24867,global
+91.208.242.0/24,IPv4,rackspace-as24867,global
+164.138.224.0/21,IPv4,rackspace-as24867,global
+185.180.216.0/22,IPv4,rackspace-as24867,global
+188.65.56.0/21,IPv4,rackspace-as24867,global
+195.5.122.0/23,IPv4,rackspace-as24867,global
+195.50.109.0/24,IPv4,rackspace-as24867,global
+217.150.96.0/19,IPv4,rackspace-as24867,global

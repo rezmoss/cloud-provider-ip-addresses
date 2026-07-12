@@ -1,0 +1,3 @@
+ip_address,ip_type,service,region
+166.86.128.0/22,IPv4,rackspace-as44009,global
+2a00:11b8::/32,IPv6,rackspace-as44009,global

@@ -1,0 +1,62 @@
+[
+  {
+    "ip_address": "72.21.36.0/22",
+    "ip_type": "IPv4",
+    "service": "rackspace-as39921",
+    "region": "global"
+  },
+  {
+    "ip_address": "147.75.24.0/22",
+    "ip_type": "IPv4",
+    "service": "rackspace-as39921",
+    "region": "global"
+  },
+  {
+    "ip_address": "159.135.80.0/20",
+    "ip_type": "IPv4",
+    "service": "rackspace-as39921",
+    "region": "global"
+  },
+  {
+    "ip_address": "159.135.128.0/19",
+    "ip_type": "IPv4",
+    "service": "rackspace-as39921",
+    "region": "global"
+  },
+  {
+    "ip_address": "159.135.160.0/19",
+    "ip_type": "IPv4",
+    "service": "rackspace-as39921",
+    "region": "global"
+  },
+  {
+    "ip_address": "185.16.216.0/22",
+    "ip_type": "IPv4",
+    "service": "rackspace-as39921",
+    "region": "global"
+  },
+  {
+    "ip_address": "185.205.104.0/22",
+    "ip_type": "IPv4",
+    "service": "rackspace-as39921",
+    "region": "global"
+  },
+  {
+    "ip_address": "192.68.42.0/24",
+    "ip_type": "IPv4",
+    "service": "rackspace-as39921",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a0b:440::/32",
+    "ip_type": "IPv6",
+    "service": "rackspace-as39921",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a0b:440:860::/43",
+    "ip_type": "IPv6",
+    "service": "rackspace-as39921",
+    "region": "global"
+  }
+]

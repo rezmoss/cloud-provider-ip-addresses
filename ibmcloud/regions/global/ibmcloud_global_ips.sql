@@ -332,6 +332,7 @@ INSERT INTO `ibmcloud_global_ips` (`ip_address`, `ip_type`) VALUES ('207.231.148
 INSERT INTO `ibmcloud_global_ips` (`ip_address`, `ip_type`) VALUES ('207.231.152.0/23', 'IPv4');
 INSERT INTO `ibmcloud_global_ips` (`ip_address`, `ip_type`) VALUES ('207.231.156.0/23', 'IPv4');
 INSERT INTO `ibmcloud_global_ips` (`ip_address`, `ip_type`) VALUES ('207.231.158.0/23', 'IPv4');
+INSERT INTO `ibmcloud_global_ips` (`ip_address`, `ip_type`) VALUES ('207.255.252.0/24', 'IPv4');
 INSERT INTO `ibmcloud_global_ips` (`ip_address`, `ip_type`) VALUES ('208.43.0.0/18', 'IPv4');
 INSERT INTO `ibmcloud_global_ips` (`ip_address`, `ip_type`) VALUES ('208.43.128.0/18', 'IPv4');
 INSERT INTO `ibmcloud_global_ips` (`ip_address`, `ip_type`) VALUES ('208.43.192.0/19', 'IPv4');

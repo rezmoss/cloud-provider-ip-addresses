@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "154.194.39.0/24",
+    "ip_type": "IPv4",
+    "service": "huawei-as151610",
+    "region": "global"
+  },
+  {
+    "ip_address": "154.194.40.0/24",
+    "ip_type": "IPv4",
+    "service": "huawei-as151610",
+    "region": "global"
+  }
+]

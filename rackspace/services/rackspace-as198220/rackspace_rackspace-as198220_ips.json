@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "164.40.128.0/19",
+    "ip_type": "IPv4",
+    "service": "rackspace-as198220",
+    "region": "global"
+  },
+  {
+    "ip_address": "173.1.184.0/21",
+    "ip_type": "IPv4",
+    "service": "rackspace-as198220",
+    "region": "global"
+  }
+]

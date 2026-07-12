@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "8.25.203.0/24",
+    "ip_type": "IPv4",
+    "service": "zscaler-as53444",
+    "region": "global"
+  },
+  {
+    "ip_address": "199.168.148.0/24",
+    "ip_type": "IPv4",
+    "service": "zscaler-as53444",
+    "region": "global"
+  }
+]

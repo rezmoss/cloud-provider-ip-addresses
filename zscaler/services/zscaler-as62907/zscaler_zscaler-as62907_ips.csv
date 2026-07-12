@@ -1,0 +1,7 @@
+ip_address,ip_type,service,region
+199.168.149.0/24,IPv4,zscaler-as62907,global
+199.168.150.0/24,IPv4,zscaler-as62907,global
+2605:4300:fe00::/48,IPv6,zscaler-as62907,global
+2605:4300:fe01::/48,IPv6,zscaler-as62907,global
+2605:4300:ff00::/40,IPv6,zscaler-as62907,global
+2605:4300:ff00::/48,IPv6,zscaler-as62907,global

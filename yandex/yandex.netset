@@ -1,0 +1,76 @@
+# yandex IP ranges - ipset restore format (hash:net)
+# Version: 1 | Generated: 2026-07-12 | Last changed: 2026-07-12
+# IPv4: 59 merged subnets, 412160 unique IPs
+# IPv6: 5 merged subnets
+# Source: https://github.com/rezmoss/cloud-provider-ip-addresses
+# License: CC0-1.0 | Updated daily at 02:00 UTC
+# Load with: sudo ipset restore -! < yandex.netset
+#
+create yandex_v4 hash:net family inet hashsize 4096 maxelem 1048576 -exist
+flush yandex_v4
+add yandex_v4 5.45.192.0/18
+add yandex_v4 5.255.192.0/18
+add yandex_v4 31.44.8.0/21
+add yandex_v4 37.9.64.0/18
+add yandex_v4 37.140.128.0/18
+add yandex_v4 37.230.168.0/23
+add yandex_v4 37.230.172.0/22
+add yandex_v4 46.21.244.0/22
+add yandex_v4 46.243.209.0/24
+add yandex_v4 46.243.210.0/23
+add yandex_v4 51.250.0.0/17
+add yandex_v4 62.84.112.0/20
+add yandex_v4 77.88.0.0/18
+add yandex_v4 81.26.176.0/20
+add yandex_v4 84.201.128.0/18
+add yandex_v4 84.252.128.0/20
+add yandex_v4 84.252.160.0/19
+add yandex_v4 87.250.224.0/19
+add yandex_v4 89.104.112.0/23
+add yandex_v4 89.169.128.0/18
+add yandex_v4 89.223.9.0/24
+add yandex_v4 89.223.20.0/24
+add yandex_v4 89.232.188.0/23
+add yandex_v4 91.107.80.0/22
+add yandex_v4 92.255.1.0/24
+add yandex_v4 92.255.3.0/24
+add yandex_v4 92.255.13.0/24
+add yandex_v4 92.255.15.0/24
+add yandex_v4 92.255.16.0/24
+add yandex_v4 92.255.58.0/23
+add yandex_v4 92.255.112.0/20
+add yandex_v4 93.77.160.0/19
+add yandex_v4 93.158.128.0/18
+add yandex_v4 94.126.204.0/22
+add yandex_v4 94.131.190.0/23
+add yandex_v4 94.139.248.0/22
+add yandex_v4 95.108.128.0/17
+add yandex_v4 103.76.52.0/22
+add yandex_v4 111.88.144.0/20
+add yandex_v4 111.88.240.0/20
+add yandex_v4 130.193.32.0/19
+add yandex_v4 141.8.128.0/18
+add yandex_v4 158.160.0.0/16
+add yandex_v4 178.154.128.0/17
+add yandex_v4 185.32.184.0/23
+add yandex_v4 185.32.187.0/24
+add yandex_v4 185.184.128.0/22
+add yandex_v4 185.206.164.0/22
+add yandex_v4 185.216.194.0/23
+add yandex_v4 188.72.103.0/24
+add yandex_v4 188.72.110.0/23
+add yandex_v4 188.72.113.0/24
+add yandex_v4 193.32.216.0/22
+add yandex_v4 194.247.51.0/24
+add yandex_v4 213.130.80.0/21
+add yandex_v4 213.165.192.0/19
+add yandex_v4 213.180.192.0/19
+add yandex_v4 217.28.224.0/20
+add yandex_v4 217.198.168.0/21
+create yandex_v6 hash:net family inet6 hashsize 4096 maxelem 1048576 -exist
+flush yandex_v6
+add yandex_v6 2a02:6b8::/29
+add yandex_v6 2a0b:1440::/32
+add yandex_v6 2a0b:1447:20::/44
+add yandex_v6 2a0d:d6c0::/31
+add yandex_v6 2a0d:d6c7:14::/47

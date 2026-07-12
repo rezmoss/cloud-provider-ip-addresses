@@ -1,0 +1,2 @@
+ip_address,ip_type,service,region
+207.255.252.0/24,IPv4,ibmcloud-as19765,global

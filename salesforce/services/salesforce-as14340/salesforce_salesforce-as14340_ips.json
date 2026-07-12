@@ -1,0 +1,260 @@
+[
+  {
+    "ip_address": "13.108.0.0/15",
+    "ip_type": "IPv4",
+    "service": "salesforce-as14340",
+    "region": "global"
+  },
+  {
+    "ip_address": "13.110.0.0/16",
+    "ip_type": "IPv4",
+    "service": "salesforce-as14340",
+    "region": "global"
+  },
+  {
+    "ip_address": "13.111.0.0/16",
+    "ip_type": "IPv4",
+    "service": "salesforce-as14340",
+    "region": "global"
+  },
+  {
+    "ip_address": "66.231.80.0/20",
+    "ip_type": "IPv4",
+    "service": "salesforce-as14340",
+    "region": "global"
+  },
+  {
+    "ip_address": "68.232.192.0/20",
+    "ip_type": "IPv4",
+    "service": "salesforce-as14340",
+    "region": "global"
+  },
+  {
+    "ip_address": "85.222.128.0/19",
+    "ip_type": "IPv4",
+    "service": "salesforce-as14340",
+    "region": "global"
+  },
+  {
+    "ip_address": "96.43.144.0/20",
+    "ip_type": "IPv4",
+    "service": "salesforce-as14340",
+    "region": "global"
+  },
+  {
+    "ip_address": "101.53.160.0/19",
+    "ip_type": "IPv4",
+    "service": "salesforce-as14340",
+    "region": "global"
+  },
+  {
+    "ip_address": "104.161.128.0/18",
+    "ip_type": "IPv4",
+    "service": "salesforce-as14340",
+    "region": "global"
+  },
+  {
+    "ip_address": "104.161.248.0/23",
+    "ip_type": "IPv4",
+    "service": "salesforce-as14340",
+    "region": "global"
+  },
+  {
+    "ip_address": "128.17.0.0/16",
+    "ip_type": "IPv4",
+    "service": "salesforce-as14340",
+    "region": "global"
+  },
+  {
+    "ip_address": "128.245.0.0/16",
+    "ip_type": "IPv4",
+    "service": "salesforce-as14340",
+    "region": "global"
+  },
+  {
+    "ip_address": "129.77.16.0/20",
+    "ip_type": "IPv4",
+    "service": "salesforce-as14340",
+    "region": "global"
+  },
+  {
+    "ip_address": "136.146.0.0/16",
+    "ip_type": "IPv4",
+    "service": "salesforce-as14340",
+    "region": "global"
+  },
+  {
+    "ip_address": "136.147.0.0/16",
+    "ip_type": "IPv4",
+    "service": "salesforce-as14340",
+    "region": "global"
+  },
+  {
+    "ip_address": "136.147.0.0/17",
+    "ip_type": "IPv4",
+    "service": "salesforce-as14340",
+    "region": "global"
+  },
+  {
+    "ip_address": "136.147.128.0/20",
+    "ip_type": "IPv4",
+    "service": "salesforce-as14340",
+    "region": "global"
+  },
+  {
+    "ip_address": "136.147.176.0/20",
+    "ip_type": "IPv4",
+    "service": "salesforce-as14340",
+    "region": "global"
+  },
+  {
+    "ip_address": "136.147.208.0/20",
+    "ip_type": "IPv4",
+    "service": "salesforce-as14340",
+    "region": "global"
+  },
+  {
+    "ip_address": "151.106.128.0/20",
+    "ip_type": "IPv4",
+    "service": "salesforce-as14340",
+    "region": "global"
+  },
+  {
+    "ip_address": "151.106.144.0/20",
+    "ip_type": "IPv4",
+    "service": "salesforce-as14340",
+    "region": "global"
+  },
+  {
+    "ip_address": "151.106.216.0/22",
+    "ip_type": "IPv4",
+    "service": "salesforce-as14340",
+    "region": "global"
+  },
+  {
+    "ip_address": "151.106.220.0/22",
+    "ip_type": "IPv4",
+    "service": "salesforce-as14340",
+    "region": "global"
+  },
+  {
+    "ip_address": "159.92.0.0/16",
+    "ip_type": "IPv4",
+    "service": "salesforce-as14340",
+    "region": "global"
+  },
+  {
+    "ip_address": "160.8.0.0/16",
+    "ip_type": "IPv4",
+    "service": "salesforce-as14340",
+    "region": "global"
+  },
+  {
+    "ip_address": "161.32.64.0/18",
+    "ip_type": "IPv4",
+    "service": "salesforce-as14340",
+    "region": "global"
+  },
+  {
+    "ip_address": "161.32.128.0/17",
+    "ip_type": "IPv4",
+    "service": "salesforce-as14340",
+    "region": "global"
+  },
+  {
+    "ip_address": "161.71.0.0/17",
+    "ip_type": "IPv4",
+    "service": "salesforce-as14340",
+    "region": "global"
+  },
+  {
+    "ip_address": "161.71.128.0/17",
+    "ip_type": "IPv4",
+    "service": "salesforce-as14340",
+    "region": "global"
+  },
+  {
+    "ip_address": "163.76.128.0/17",
+    "ip_type": "IPv4",
+    "service": "salesforce-as14340",
+    "region": "global"
+  },
+  {
+    "ip_address": "163.79.128.0/17",
+    "ip_type": "IPv4",
+    "service": "salesforce-as14340",
+    "region": "global"
+  },
+  {
+    "ip_address": "182.50.76.0/22",
+    "ip_type": "IPv4",
+    "service": "salesforce-as14340",
+    "region": "global"
+  },
+  {
+    "ip_address": "185.79.140.0/22",
+    "ip_type": "IPv4",
+    "service": "salesforce-as14340",
+    "region": "global"
+  },
+  {
+    "ip_address": "194.145.0.0/20",
+    "ip_type": "IPv4",
+    "service": "salesforce-as14340",
+    "region": "global"
+  },
+  {
+    "ip_address": "194.145.16.0/21",
+    "ip_type": "IPv4",
+    "service": "salesforce-as14340",
+    "region": "global"
+  },
+  {
+    "ip_address": "198.245.80.0/20",
+    "ip_type": "IPv4",
+    "service": "salesforce-as14340",
+    "region": "global"
+  },
+  {
+    "ip_address": "199.122.120.0/21",
+    "ip_type": "IPv4",
+    "service": "salesforce-as14340",
+    "region": "global"
+  },
+  {
+    "ip_address": "202.129.242.0/23",
+    "ip_type": "IPv4",
+    "service": "salesforce-as14340",
+    "region": "global"
+  },
+  {
+    "ip_address": "204.14.232.0/21",
+    "ip_type": "IPv4",
+    "service": "salesforce-as14340",
+    "region": "global"
+  },
+  {
+    "ip_address": "204.14.232.0/22",
+    "ip_type": "IPv4",
+    "service": "salesforce-as14340",
+    "region": "global"
+  },
+  {
+    "ip_address": "2401:ce80::/32",
+    "ip_type": "IPv6",
+    "service": "salesforce-as14340",
+    "region": "global"
+  },
+  {
+    "ip_address": "2605:6180::/32",
+    "ip_type": "IPv6",
+    "service": "salesforce-as14340",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a03:5d60::/32",
+    "ip_type": "IPv6",
+    "service": "salesforce-as14340",
+    "region": "global"
+  }
+]

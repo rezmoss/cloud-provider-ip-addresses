@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+91.107.80.0/22,IPv4,yandex-as202611,global
+185.32.184.0/23,IPv4,yandex-as202611,global
+2a0b:1440::/32,IPv6,yandex-as202611,global

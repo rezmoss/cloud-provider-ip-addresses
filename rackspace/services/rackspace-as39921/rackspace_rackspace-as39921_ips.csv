@@ -1,0 +1,11 @@
+ip_address,ip_type,service,region
+72.21.36.0/22,IPv4,rackspace-as39921,global
+147.75.24.0/22,IPv4,rackspace-as39921,global
+159.135.80.0/20,IPv4,rackspace-as39921,global
+159.135.128.0/19,IPv4,rackspace-as39921,global
+159.135.160.0/19,IPv4,rackspace-as39921,global
+185.16.216.0/22,IPv4,rackspace-as39921,global
+185.205.104.0/22,IPv4,rackspace-as39921,global
+192.68.42.0/24,IPv4,rackspace-as39921,global
+2a0b:440::/32,IPv6,rackspace-as39921,global
+2a0b:440:860::/43,IPv6,rackspace-as39921,global

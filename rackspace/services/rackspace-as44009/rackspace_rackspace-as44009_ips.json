@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "166.86.128.0/22",
+    "ip_type": "IPv4",
+    "service": "rackspace-as44009",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a00:11b8::/32",
+    "ip_type": "IPv6",
+    "service": "rackspace-as44009",
+    "region": "global"
+  }
+]

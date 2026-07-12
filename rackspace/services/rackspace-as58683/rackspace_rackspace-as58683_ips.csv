@@ -1,0 +1,6 @@
+ip_address,ip_type,service,region
+119.9.0.0/18,IPv4,rackspace-as58683,global
+119.9.128.0/18,IPv4,rackspace-as58683,global
+119.9.160.0/21,IPv4,rackspace-as58683,global
+2401:1801::/32,IPv6,rackspace-as58683,global
+2401:1801:f000::/36,IPv6,rackspace-as58683,global

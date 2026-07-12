@@ -1,0 +1,3 @@
+ip_address,ip_type,service,region
+154.194.39.0/24,IPv4,huawei-as151610,global
+154.194.40.0/24,IPv4,huawei-as151610,global

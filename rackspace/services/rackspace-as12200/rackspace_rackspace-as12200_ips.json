@@ -1,0 +1,98 @@
+[
+  {
+    "ip_address": "66.70.24.0/24",
+    "ip_type": "IPv4",
+    "service": "rackspace-as12200",
+    "region": "global"
+  },
+  {
+    "ip_address": "146.20.220.0/22",
+    "ip_type": "IPv4",
+    "service": "rackspace-as12200",
+    "region": "global"
+  },
+  {
+    "ip_address": "146.177.20.0/24",
+    "ip_type": "IPv4",
+    "service": "rackspace-as12200",
+    "region": "global"
+  },
+  {
+    "ip_address": "146.177.21.0/24",
+    "ip_type": "IPv4",
+    "service": "rackspace-as12200",
+    "region": "global"
+  },
+  {
+    "ip_address": "146.177.56.0/24",
+    "ip_type": "IPv4",
+    "service": "rackspace-as12200",
+    "region": "global"
+  },
+  {
+    "ip_address": "146.177.74.0/24",
+    "ip_type": "IPv4",
+    "service": "rackspace-as12200",
+    "region": "global"
+  },
+  {
+    "ip_address": "166.86.0.0/22",
+    "ip_type": "IPv4",
+    "service": "rackspace-as12200",
+    "region": "global"
+  },
+  {
+    "ip_address": "171.33.145.0/24",
+    "ip_type": "IPv4",
+    "service": "rackspace-as12200",
+    "region": "global"
+  },
+  {
+    "ip_address": "174.143.80.0/24",
+    "ip_type": "IPv4",
+    "service": "rackspace-as12200",
+    "region": "global"
+  },
+  {
+    "ip_address": "192.65.36.0/24",
+    "ip_type": "IPv4",
+    "service": "rackspace-as12200",
+    "region": "global"
+  },
+  {
+    "ip_address": "199.253.202.0/23",
+    "ip_type": "IPv4",
+    "service": "rackspace-as12200",
+    "region": "global"
+  },
+  {
+    "ip_address": "199.253.204.0/23",
+    "ip_type": "IPv4",
+    "service": "rackspace-as12200",
+    "region": "global"
+  },
+  {
+    "ip_address": "204.9.96.0/24",
+    "ip_type": "IPv4",
+    "service": "rackspace-as12200",
+    "region": "global"
+  },
+  {
+    "ip_address": "205.143.66.0/24",
+    "ip_type": "IPv4",
+    "service": "rackspace-as12200",
+    "region": "global"
+  },
+  {
+    "ip_address": "208.95.152.0/22",
+    "ip_type": "IPv4",
+    "service": "rackspace-as12200",
+    "region": "global"
+  },
+  {
+    "ip_address": "2607:e3c0:a042::/48",
+    "ip_type": "IPv6",
+    "service": "rackspace-as12200",
+    "region": "global"
+  }
+]

@@ -1,6 +1,6 @@
 # IBM Cloud (SoftLayer) IP Ranges (Auto-Updated Daily)
 
-> Last updated: **2026-07-11** · Total CIDRs: **412** · IPv4: **339** · IPv6: **73** · Services: **1** · Regions: **1**
+> Last updated: **2026-07-12** · Total CIDRs: **413** · IPv4: **340** · IPv6: **73** · Services: **2** · Regions: **1**
 
 Machine-readable, daily-updated, validated public IP ranges for **IBM Cloud (SoftLayer)**.
 Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and Apache.
@@ -41,6 +41,7 @@ Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and
 
 This provider ships per-service files under [`./services/`](./services/). Examples:
 
+- [`./services/ibmcloud-as19765/`](./services/ibmcloud-as19765/)
 - [`./services/ibmcloud-as36351/`](./services/ibmcloud-as36351/)
 
 ## Why these ranges change

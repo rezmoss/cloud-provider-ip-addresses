@@ -23,6 +23,7 @@ PROVIDER_META = {
     "aws":                 {"name": "AWS",                  "group": "cloud", "color": "#FF9900"},
     "azure":               {"name": "Azure",                "group": "cloud", "color": "#0078D4"},
     "googlecloud":         {"name": "Google Cloud",         "group": "cloud", "color": "#4285F4"},
+    "googleservices":      {"name": "Google Services",      "group": "cloud", "color": "#34A853"},
     "digitalocean":        {"name": "DigitalOcean",         "group": "cloud", "color": "#0080FF"},
     "oracle":              {"name": "Oracle Cloud",         "group": "cloud", "color": "#C74634"},
     "linode":              {"name": "Linode",               "group": "cloud", "color": "#00A95C"},

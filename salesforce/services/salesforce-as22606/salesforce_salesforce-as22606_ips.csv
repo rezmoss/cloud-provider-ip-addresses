@@ -1,0 +1,6 @@
+ip_address,ip_type,service,region
+64.132.88.0/24,IPv4,salesforce-as22606,global
+64.132.89.0/24,IPv4,salesforce-as22606,global
+64.132.92.0/24,IPv4,salesforce-as22606,global
+207.67.38.0/24,IPv4,salesforce-as22606,global
+207.250.68.0/24,IPv4,salesforce-as22606,global

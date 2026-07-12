@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+64.89.224.0/20,IPv4,akamai-as17204,global
+199.119.220.0/22,IPv4,akamai-as17204,global
+2620:0:b60::/48,IPv6,akamai-as17204,global

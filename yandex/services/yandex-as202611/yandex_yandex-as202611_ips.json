@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "91.107.80.0/22",
+    "ip_type": "IPv4",
+    "service": "yandex-as202611",
+    "region": "global"
+  },
+  {
+    "ip_address": "185.32.184.0/23",
+    "ip_type": "IPv4",
+    "service": "yandex-as202611",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a0b:1440::/32",
+    "ip_type": "IPv6",
+    "service": "yandex-as202611",
+    "region": "global"
+  }
+]

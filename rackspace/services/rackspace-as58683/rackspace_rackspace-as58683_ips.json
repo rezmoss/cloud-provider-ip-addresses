@@ -1,0 +1,32 @@
+[
+  {
+    "ip_address": "119.9.0.0/18",
+    "ip_type": "IPv4",
+    "service": "rackspace-as58683",
+    "region": "global"
+  },
+  {
+    "ip_address": "119.9.128.0/18",
+    "ip_type": "IPv4",
+    "service": "rackspace-as58683",
+    "region": "global"
+  },
+  {
+    "ip_address": "119.9.160.0/21",
+    "ip_type": "IPv4",
+    "service": "rackspace-as58683",
+    "region": "global"
+  },
+  {
+    "ip_address": "2401:1801::/32",
+    "ip_type": "IPv6",
+    "service": "rackspace-as58683",
+    "region": "global"
+  },
+  {
+    "ip_address": "2401:1801:f000::/36",
+    "ip_type": "IPv6",
+    "service": "rackspace-as58683",
+    "region": "global"
+  }
+]

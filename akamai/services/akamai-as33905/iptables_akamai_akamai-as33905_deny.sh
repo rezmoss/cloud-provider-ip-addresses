@@ -1,0 +1,41 @@
+#!/bin/bash
+# Akamai IP Ranges
+# Updated: 2026-07-12 03:17:51
+# Source: https://github.com/rezmoss/cloud-provider-ip-addresses
+# License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
+# This file is generated automatically. Do not edit it directly.
+# Updates daily at 02:00 UTC
+# iptables deny rules for akamai
+
+iptables -A INPUT -s 2.18.48.0/21 -j DROP
+iptables -A INPUT -s 23.1.35.0/24 -j DROP
+iptables -A INPUT -s 23.1.99.0/24 -j DROP
+iptables -A INPUT -s 23.1.106.0/24 -j DROP
+iptables -A INPUT -s 23.7.244.0/24 -j DROP
+iptables -A INPUT -s 23.11.32.0/21 -j DROP
+iptables -A INPUT -s 23.11.40.0/23 -j DROP
+iptables -A INPUT -s 23.40.100.0/24 -j DROP
+iptables -A INPUT -s 23.40.244.0/24 -j DROP
+iptables -A INPUT -s 23.53.5.0/24 -j DROP
+iptables -A INPUT -s 23.206.56.0/21 -j DROP
+iptables -A INPUT -s 104.94.220.0/22 -j DROP
+iptables -A INPUT -s 104.96.176.0/22 -j DROP
+iptables -A INPUT -s 104.96.180.0/23 -j DROP
+iptables -A INPUT -s 104.109.10.0/23 -j DROP
+iptables -A INPUT -s 104.109.12.0/24 -j DROP
+iptables -A INPUT -s 184.25.103.0/24 -j DROP
+iptables -A INPUT -s 184.25.179.0/24 -j DROP
+iptables -A INPUT -s 184.31.3.0/24 -j DROP
+iptables -A INPUT -s 184.31.10.0/24 -j DROP
+ip6tables -A INPUT -s 2600:1480:1000::/40 -j DROP
+ip6tables -A INPUT -s 2600:1480:2000::/40 -j DROP
+ip6tables -A INPUT -s 2600:1480:3000::/40 -j DROP
+ip6tables -A INPUT -s 2600:1480:4000::/40 -j DROP
+ip6tables -A INPUT -s 2600:1480:5000::/40 -j DROP
+ip6tables -A INPUT -s 2600:1480:6000::/40 -j DROP
+ip6tables -A INPUT -s 2600:1480:8000::/40 -j DROP
+ip6tables -A INPUT -s 2600:1480:a000::/40 -j DROP
+ip6tables -A INPUT -s 2600:1480:c000::/40 -j DROP
+ip6tables -A INPUT -s 2600:1480:e000::/40 -j DROP
+ip6tables -A INPUT -s 2600:14e1::/43 -j DROP
+ip6tables -A INPUT -s 2600:14e1:20::/45 -j DROP

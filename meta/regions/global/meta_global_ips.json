@@ -4212,6 +4212,12 @@
     "region": "global"
   },
   {
+    "ip_address": "2a03:2887:ff3e::/48",
+    "ip_type": "IPv6",
+    "service": "meta-as63293",
+    "region": "global"
+  },
+  {
     "ip_address": "2a03:2887:ff3f::/48",
     "ip_type": "IPv6",
     "service": "meta-as63293",

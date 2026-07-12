@@ -1,0 +1,56 @@
+[
+  {
+    "ip_address": "87.225.128.0/17",
+    "ip_type": "IPv4",
+    "service": "rackspace-as44716",
+    "region": "global"
+  },
+  {
+    "ip_address": "212.21.64.0/19",
+    "ip_type": "IPv4",
+    "service": "rackspace-as44716",
+    "region": "global"
+  },
+  {
+    "ip_address": "212.42.224.0/19",
+    "ip_type": "IPv4",
+    "service": "rackspace-as44716",
+    "region": "global"
+  },
+  {
+    "ip_address": "212.42.225.0/24",
+    "ip_type": "IPv4",
+    "service": "rackspace-as44716",
+    "region": "global"
+  },
+  {
+    "ip_address": "212.42.226.0/24",
+    "ip_type": "IPv4",
+    "service": "rackspace-as44716",
+    "region": "global"
+  },
+  {
+    "ip_address": "212.42.231.0/24",
+    "ip_type": "IPv4",
+    "service": "rackspace-as44716",
+    "region": "global"
+  },
+  {
+    "ip_address": "212.42.232.0/24",
+    "ip_type": "IPv4",
+    "service": "rackspace-as44716",
+    "region": "global"
+  },
+  {
+    "ip_address": "212.42.244.0/24",
+    "ip_type": "IPv4",
+    "service": "rackspace-as44716",
+    "region": "global"
+  },
+  {
+    "ip_address": "212.42.247.0/24",
+    "ip_type": "IPv4",
+    "service": "rackspace-as44716",
+    "region": "global"
+  }
+]

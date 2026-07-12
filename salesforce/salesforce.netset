@@ -1,0 +1,54 @@
+# salesforce IP ranges - ipset restore format (hash:net)
+# Version: 1 | Generated: 2026-07-12 | Last changed: 2026-07-12
+# IPv4: 39 merged subnets, 917504 unique IPs
+# IPv6: 3 merged subnets
+# Source: https://github.com/rezmoss/cloud-provider-ip-addresses
+# License: CC0-1.0 | Updated daily at 02:00 UTC
+# Load with: sudo ipset restore -! < salesforce.netset
+#
+create salesforce_v4 hash:net family inet hashsize 4096 maxelem 1048576 -exist
+flush salesforce_v4
+add salesforce_v4 13.108.0.0/14
+add salesforce_v4 64.132.88.0/23
+add salesforce_v4 64.132.92.0/24
+add salesforce_v4 66.203.114.0/23
+add salesforce_v4 66.231.80.0/20
+add salesforce_v4 68.232.192.0/20
+add salesforce_v4 85.222.128.0/19
+add salesforce_v4 96.43.144.0/20
+add salesforce_v4 101.53.160.0/19
+add salesforce_v4 104.161.128.0/18
+add salesforce_v4 104.161.232.0/22
+add salesforce_v4 104.161.242.0/23
+add salesforce_v4 104.161.244.0/22
+add salesforce_v4 104.161.248.0/23
+add salesforce_v4 104.161.252.0/23
+add salesforce_v4 104.161.255.0/24
+add salesforce_v4 128.17.0.0/16
+add salesforce_v4 128.245.0.0/16
+add salesforce_v4 129.77.16.0/20
+add salesforce_v4 136.146.0.0/15
+add salesforce_v4 151.106.128.0/19
+add salesforce_v4 151.106.216.0/21
+add salesforce_v4 159.92.0.0/16
+add salesforce_v4 160.8.0.0/16
+add salesforce_v4 161.32.64.0/18
+add salesforce_v4 161.32.128.0/17
+add salesforce_v4 161.71.0.0/16
+add salesforce_v4 163.76.128.0/17
+add salesforce_v4 163.79.128.0/17
+add salesforce_v4 182.50.76.0/22
+add salesforce_v4 185.79.140.0/22
+add salesforce_v4 194.145.0.0/20
+add salesforce_v4 194.145.16.0/21
+add salesforce_v4 198.245.80.0/20
+add salesforce_v4 199.122.120.0/21
+add salesforce_v4 202.129.242.0/23
+add salesforce_v4 204.14.232.0/21
+add salesforce_v4 207.67.38.0/24
+add salesforce_v4 207.250.68.0/24
+create salesforce_v6 hash:net family inet6 hashsize 4096 maxelem 1048576 -exist
+flush salesforce_v6
+add salesforce_v6 2401:ce80::/32
+add salesforce_v6 2605:6180::/32
+add salesforce_v6 2a03:5d60::/32

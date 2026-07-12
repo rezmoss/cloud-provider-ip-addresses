@@ -1,0 +1,422 @@
+[
+  {
+    "ip_address": "23.26.32.0/24",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as32613",
+    "region": "global"
+  },
+  {
+    "ip_address": "23.27.253.0/24",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as32613",
+    "region": "global"
+  },
+  {
+    "ip_address": "40.27.13.0/24",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as32613",
+    "region": "global"
+  },
+  {
+    "ip_address": "45.13.188.0/24",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as32613",
+    "region": "global"
+  },
+  {
+    "ip_address": "50.114.40.0/24",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as32613",
+    "region": "global"
+  },
+  {
+    "ip_address": "64.15.128.0/19",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as32613",
+    "region": "global"
+  },
+  {
+    "ip_address": "64.188.100.0/22",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as32613",
+    "region": "global"
+  },
+  {
+    "ip_address": "64.188.120.0/22",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as32613",
+    "region": "global"
+  },
+  {
+    "ip_address": "67.205.64.0/18",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as32613",
+    "region": "global"
+  },
+  {
+    "ip_address": "67.208.44.0/23",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as32613",
+    "region": "global"
+  },
+  {
+    "ip_address": "70.38.0.0/17",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as32613",
+    "region": "global"
+  },
+  {
+    "ip_address": "72.55.128.0/18",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as32613",
+    "region": "global"
+  },
+  {
+    "ip_address": "82.21.232.0/24",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as32613",
+    "region": "global"
+  },
+  {
+    "ip_address": "82.22.228.0/24",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as32613",
+    "region": "global"
+  },
+  {
+    "ip_address": "82.23.176.0/24",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as32613",
+    "region": "global"
+  },
+  {
+    "ip_address": "82.23.179.0/24",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as32613",
+    "region": "global"
+  },
+  {
+    "ip_address": "82.23.180.0/24",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as32613",
+    "region": "global"
+  },
+  {
+    "ip_address": "82.23.182.0/24",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as32613",
+    "region": "global"
+  },
+  {
+    "ip_address": "82.23.213.0/24",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as32613",
+    "region": "global"
+  },
+  {
+    "ip_address": "82.23.220.0/24",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as32613",
+    "region": "global"
+  },
+  {
+    "ip_address": "82.25.221.0/24",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as32613",
+    "region": "global"
+  },
+  {
+    "ip_address": "82.26.209.0/24",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as32613",
+    "region": "global"
+  },
+  {
+    "ip_address": "82.26.215.0/24",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as32613",
+    "region": "global"
+  },
+  {
+    "ip_address": "82.26.227.0/24",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as32613",
+    "region": "global"
+  },
+  {
+    "ip_address": "82.27.209.0/24",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as32613",
+    "region": "global"
+  },
+  {
+    "ip_address": "82.27.211.0/24",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as32613",
+    "region": "global"
+  },
+  {
+    "ip_address": "82.27.224.0/24",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as32613",
+    "region": "global"
+  },
+  {
+    "ip_address": "82.29.232.0/24",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as32613",
+    "region": "global"
+  },
+  {
+    "ip_address": "107.161.64.0/20",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as32613",
+    "region": "global"
+  },
+  {
+    "ip_address": "108.163.128.0/18",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as32613",
+    "region": "global"
+  },
+  {
+    "ip_address": "108.163.178.0/24",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as32613",
+    "region": "global"
+  },
+  {
+    "ip_address": "108.165.37.0/24",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as32613",
+    "region": "global"
+  },
+  {
+    "ip_address": "141.11.118.0/24",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as32613",
+    "region": "global"
+  },
+  {
+    "ip_address": "154.27.210.0/24",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as32613",
+    "region": "global"
+  },
+  {
+    "ip_address": "154.27.211.0/24",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as32613",
+    "region": "global"
+  },
+  {
+    "ip_address": "166.0.98.0/24",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as32613",
+    "region": "global"
+  },
+  {
+    "ip_address": "174.141.228.0/22",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as32613",
+    "region": "global"
+  },
+  {
+    "ip_address": "174.141.232.0/23",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as32613",
+    "region": "global"
+  },
+  {
+    "ip_address": "174.142.0.0/16",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as32613",
+    "region": "global"
+  },
+  {
+    "ip_address": "178.93.238.0/24",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as32613",
+    "region": "global"
+  },
+  {
+    "ip_address": "184.107.0.0/16",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as32613",
+    "region": "global"
+  },
+  {
+    "ip_address": "184.107.228.0/22",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as32613",
+    "region": "global"
+  },
+  {
+    "ip_address": "184.107.245.0/24",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as32613",
+    "region": "global"
+  },
+  {
+    "ip_address": "184.107.246.0/23",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as32613",
+    "region": "global"
+  },
+  {
+    "ip_address": "184.107.248.0/21",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as32613",
+    "region": "global"
+  },
+  {
+    "ip_address": "184.107.255.0/24",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as32613",
+    "region": "global"
+  },
+  {
+    "ip_address": "185.248.51.0/24",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as32613",
+    "region": "global"
+  },
+  {
+    "ip_address": "188.116.4.0/23",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as32613",
+    "region": "global"
+  },
+  {
+    "ip_address": "189.85.38.0/24",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as32613",
+    "region": "global"
+  },
+  {
+    "ip_address": "189.85.39.0/24",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as32613",
+    "region": "global"
+  },
+  {
+    "ip_address": "192.175.96.0/19",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as32613",
+    "region": "global"
+  },
+  {
+    "ip_address": "192.196.223.0/24",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as32613",
+    "region": "global"
+  },
+  {
+    "ip_address": "198.50.96.0/19",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as32613",
+    "region": "global"
+  },
+  {
+    "ip_address": "198.50.105.0/24",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as32613",
+    "region": "global"
+  },
+  {
+    "ip_address": "198.72.96.0/19",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as32613",
+    "region": "global"
+  },
+  {
+    "ip_address": "199.47.243.0/24",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as32613",
+    "region": "global"
+  },
+  {
+    "ip_address": "199.175.162.0/24",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as32613",
+    "region": "global"
+  },
+  {
+    "ip_address": "203.167.7.0/24",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as32613",
+    "region": "global"
+  },
+  {
+    "ip_address": "204.19.134.0/24",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as32613",
+    "region": "global"
+  },
+  {
+    "ip_address": "205.210.146.0/24",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as32613",
+    "region": "global"
+  },
+  {
+    "ip_address": "205.236.34.0/24",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as32613",
+    "region": "global"
+  },
+  {
+    "ip_address": "209.172.32.0/19",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as32613",
+    "region": "global"
+  },
+  {
+    "ip_address": "2606:5d80::/32",
+    "ip_type": "IPv6",
+    "service": "leaseweb-as32613",
+    "region": "global"
+  },
+  {
+    "ip_address": "2607:f748::/32",
+    "ip_type": "IPv6",
+    "service": "leaseweb-as32613",
+    "region": "global"
+  },
+  {
+    "ip_address": "2607:f748:5000::/40",
+    "ip_type": "IPv6",
+    "service": "leaseweb-as32613",
+    "region": "global"
+  },
+  {
+    "ip_address": "2607:f748:5901::/48",
+    "ip_type": "IPv6",
+    "service": "leaseweb-as32613",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a0c:9240::/29",
+    "ip_type": "IPv6",
+    "service": "leaseweb-as32613",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a0d:2ac0::/29",
+    "ip_type": "IPv6",
+    "service": "leaseweb-as32613",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a0e:5800::/29",
+    "ip_type": "IPv6",
+    "service": "leaseweb-as32613",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a0f:e8c0::/29",
+    "ip_type": "IPv6",
+    "service": "leaseweb-as32613",
+    "region": "global"
+  }
+]
