@@ -1,6 +1,6 @@
 # IBM Cloud (SoftLayer) IP Ranges (Auto-Updated Daily)
 
-> Last updated: **2026-07-12** · Total CIDRs: **413** · IPv4: **340** · IPv6: **73** · Services: **2** · Regions: **1**
+> Last updated: **2026-07-13** · Total CIDRs: **414** · IPv4: **341** · IPv6: **73** · Services: **2** · Regions: **1**
 
 Machine-readable, daily-updated, validated public IP ranges for **IBM Cloud (SoftLayer)**.
 Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and Apache.

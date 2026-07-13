@@ -16,14 +16,14 @@
 
 ### Live Stats
 
-> Last updated: **2026-07-12** | Providers: **62** | Total CIDRs: **461,065** | IPv4 addresses: **445,789,580** | IPv4 space: **10.38%**
+> Last updated: **2026-07-13** | Providers: **62** | Total CIDRs: **461,038** | IPv4 addresses: **445,790,866** | IPv4 space: **10.38%**
 
 | Provider | IPv4 CIDRs | IPv6 CIDRs | Total CIDRs | IPv4 Addresses | Services | Regions |
 |----------|-----------|-----------|------------|---------------|----------|--------|
 | akamai | 8,095 | 3,039 | 11,134 | 21,846,481 | 19 | 1 |
 | alibaba | 2,124 | 239 | 2,363 | 31,135,744 | 3 | 1 |
 | amazonbot | 2,059 | 0 | 2,059 | 2,059 | 3 | 0 |
-| apple_private_relay | 41,837 | 245,128 | 286,965 | 105,815 | 0 | 1279 |
+| apple_private_relay | 41,838 | 245,093 | 286,931 | 105,816 | 0 | 1279 |
 | applebot | 12 | 0 | 12 | 2,400 | 1 | 0 |
 | atlassian | 106 | 60 | 166 | 79,038 | 11 | 17 |
 | aws | 10,482 | 5,777 | 16,259 | 184,865,390 | 27 | 43 |
@@ -51,7 +51,7 @@
 | hetzner | 682 | 7 | 689 | 3,524,608 | 3 | 1 |
 | hostway | 174 | 0 | 174 | 74,752 | 1 | 1 |
 | huawei | 565 | 94 | 659 | 1,163,776 | 6 | 1 |
-| ibmcloud | 340 | 73 | 413 | 3,754,496 | 2 | 1 |
+| ibmcloud | 341 | 73 | 414 | 3,755,520 | 2 | 1 |
 | imperva | 11 | 1 | 12 | 261,120 | 0 | 0 |
 | leaseweb | 1,705 | 324 | 2,029 | 2,413,568 | 18 | 1 |
 | linode | 5,313 | 98 | 5,411 | 1,368,064 | 0 | 38 |
@@ -73,13 +73,13 @@
 | teamcity | 11 | 0 | 11 | 11 | 2 | 1 |
 | telegram | 9 | 5 | 14 | 11,008 | 0 | 0 |
 | tencent | 3,324 | 73 | 3,397 | 14,797,056 | 2 | 1 |
-| tor | 1,386 | 0 | 1,386 | 1,386 | 1 | 1 |
+| tor | 1,391 | 0 | 1,391 | 1,391 | 1 | 1 |
 | upcloud | 87 | 20 | 107 | 100,352 | 2 | 1 |
 | uptimerobot | 103 | 103 | 206 | 103 | 1 | 4 |
 | vultr | 439 | 75 | 514 | 1,027,072 | 0 | 34 |
 | wasabi | 20 | 0 | 20 | 5,120 | 1 | 1 |
 | yandex | 113 | 29 | 142 | 440,064 | 6 | 1 |
-| zoho | 157 | 22 | 179 | 85,248 | 9 | 1 |
+| zoho | 158 | 22 | 180 | 85,504 | 9 | 1 |
 | zoom | 57 | 3 | 60 | 542,224 | 3 | 0 |
 | zscaler | 865 | 81 | 946 | 1,054,208 | 4 | 1 |
 
@@ -308,33 +308,33 @@ curl -sLO https://github.com/rezmoss/cloud-provider-ip-addresses/releases/downlo
 > **These entities publish no official IP range feed.** Their ranges are derived from live BGP announcements of their officially registered ASNs, observed via public BGP data sources. They cover **all** address space the entity originates (not only cloud/customer ranges) and may miss space routed through partner networks. The table below lists the exact ASNs used.
 
 <!-- ASN_TABLE_START -->
-| Provider | IPs | ASNs | Source |
-|----------|-----|------|--------|
-| **Akamai** | IPv4 + IPv6 | AS12222, AS16625, AS16702, AS17204, AS17334, AS18680, AS18717, AS20189, AS20940, AS21342, AS21357, AS21399, AS22207, AS22452, AS23454, AS23455, AS23903, AS24319, AS26008, AS30675, AS31107, AS31108, AS31109, AS31110, AS31377, AS31984, AS32787, AS33047, AS33905, AS34164, AS34850, AS35204, AS35993, AS35994, AS36029, AS36183, AS39836, AS43639, AS45757, AS48163, AS49249, AS49846, AS55409, AS55770, AS63949, AS133103, AS200005, AS213120, AS393234, AS393560 | BGP announcements via public BGP data |
-| **Alibaba (Alibaba Cloud / Alibaba Group)** | IPv4 + IPv6 | AS37963, AS45102, AS134963 | BGP announcements via public BGP data |
-| **Backblaze** | IPv4 + IPv6 | AS40401, AS396865 | BGP announcements via public BGP data |
-| **Baidu** | IPv4 + IPv6 | AS38365, AS55967 | BGP announcements via public BGP data |
-| **Bunny CDN** | IPv4 + IPv6 | AS200325 | BGP announcements via public BGP data |
-| **Gabia** | IPv4 + IPv6 | AS17589 | BGP announcements via public BGP data |
-| **Hetzner** | IPv4 + IPv6 | AS24940, AS212317, AS213230 | BGP announcements via public BGP data |
-| **Hostway** | IPv4 + IPv6 | AS9952 | BGP announcements via public BGP data |
-| **Huawei Cloud** | IPv4 + IPv6 | AS131444, AS136907, AS141180, AS149167, AS151610, AS200756, AS206204, AS206798 | BGP announcements via public BGP data |
-| **IBM Cloud (SoftLayer)** | IPv4 + IPv6 | AS13749, AS13884, AS19765, AS21844, AS30315, AS36351, AS36420, AS46702, AS46703, AS46704 | BGP announcements via public BGP data |
-| **Leaseweb** | IPv4 + IPv6 | AS7203, AS15003, AS16265, AS19148, AS25847, AS27411, AS28753, AS30633, AS32613, AS32804, AS38930, AS40699, AS59253, AS60626, AS60781, AS133752, AS134351, AS136988, AS202134, AS203774, AS203928, AS205544, AS393886, AS394380, AS395954, AS396190, AS396362 | BGP announcements via public BGP data |
-| **Meta (Facebook / Instagram / WhatsApp)** | IPv4 + IPv6 | AS32934, AS54115, AS63293 | BGP announcements via public BGP data |
-| **NHN Cloud** | IPv4 + IPv6 | AS10038, AS45974, AS152291 | BGP announcements via public BGP data |
-| **OVHcloud** | IPv4 + IPv6 | AS16276 | BGP announcements via public BGP data |
-| **Rackspace** | IPv4 + IPv6 | AS10532, AS12200, AS15395, AS19994, AS22720, AS24778, AS24867, AS27357, AS33070, AS33439, AS36248, AS39921, AS44009, AS44716, AS45187, AS54636, AS58683, AS198220, AS213735, AS213740, AS397485 | BGP announcements via public BGP data |
-| **Salesforce** | IPv4 + IPv6 | AS14340, AS22606, AS32542, AS32870, AS45422, AS133869, AS133942, AS393517, AS394808, AS396417 | BGP announcements via public BGP data |
-| **Scaleway** | IPv4 + IPv6 | AS12876, AS29447 | BGP announcements via public BGP data |
-| **StormWall** | IPv4 + IPv6 | AS51558, AS59796 | BGP announcements via public BGP data |
-| **Sucuri** | IPv4 + IPv6 | AS30148 | BGP announcements via public BGP data |
-| **Tencent (Tencent Cloud / Tencent Group)** | IPv4 + IPv6 | AS45090, AS132203 | BGP announcements via public BGP data |
-| **UpCloud** | IPv4 + IPv6 | AS25697, AS202053 | BGP announcements via public BGP data |
-| **Wasabi** | IPv4 + IPv6 | AS140642, AS395717 | BGP announcements via public BGP data |
-| **Yandex** | IPv4 + IPv6 | AS13238, AS44534, AS200350, AS202611, AS210656, AS213952, AS215013, AS215109 | BGP announcements via public BGP data |
-| **Zoho** | IPv4 + IPv6 | AS2639, AS56201, AS135102, AS139006, AS141757, AS205111, AS214227, AS397849, AS400780, AS401636 | BGP announcements via public BGP data |
-| **Zscaler** | IPv4 + IPv6 | AS22616, AS32921, AS40384, AS53444, AS53813, AS55242, AS62907 | BGP announcements via public BGP data |
+| Provider | IPs | Source |
+|----------|-----|--------|
+| **Akamai** | IPv4 + IPv6 | BGP announcements via public BGP data |
+| **Alibaba (Alibaba Cloud / Alibaba Group)** | IPv4 + IPv6 | BGP announcements via public BGP data |
+| **Backblaze** | IPv4 + IPv6 | BGP announcements via public BGP data |
+| **Baidu** | IPv4 + IPv6 | BGP announcements via public BGP data |
+| **Bunny CDN** | IPv4 + IPv6 | BGP announcements via public BGP data |
+| **Gabia** | IPv4 + IPv6 | BGP announcements via public BGP data |
+| **Hetzner** | IPv4 + IPv6 | BGP announcements via public BGP data |
+| **Hostway** | IPv4 + IPv6 | BGP announcements via public BGP data |
+| **Huawei Cloud** | IPv4 + IPv6 | BGP announcements via public BGP data |
+| **IBM Cloud (SoftLayer)** | IPv4 + IPv6 | BGP announcements via public BGP data |
+| **Leaseweb** | IPv4 + IPv6 | BGP announcements via public BGP data |
+| **Meta (Facebook / Instagram / WhatsApp)** | IPv4 + IPv6 | BGP announcements via public BGP data |
+| **NHN Cloud** | IPv4 + IPv6 | BGP announcements via public BGP data |
+| **OVHcloud** | IPv4 + IPv6 | BGP announcements via public BGP data |
+| **Rackspace** | IPv4 + IPv6 | BGP announcements via public BGP data |
+| **Salesforce** | IPv4 + IPv6 | BGP announcements via public BGP data |
+| **Scaleway** | IPv4 + IPv6 | BGP announcements via public BGP data |
+| **StormWall** | IPv4 + IPv6 | BGP announcements via public BGP data |
+| **Sucuri** | IPv4 + IPv6 | BGP announcements via public BGP data |
+| **Tencent (Tencent Cloud / Tencent Group)** | IPv4 + IPv6 | BGP announcements via public BGP data |
+| **UpCloud** | IPv4 + IPv6 | BGP announcements via public BGP data |
+| **Wasabi** | IPv4 + IPv6 | BGP announcements via public BGP data |
+| **Yandex** | IPv4 + IPv6 | BGP announcements via public BGP data |
+| **Zoho** | IPv4 + IPv6 | BGP announcements via public BGP data |
+| **Zscaler** | IPv4 + IPv6 | BGP announcements via public BGP data |
 <!-- ASN_TABLE_END -->
 
 ### Per-Provider Pages

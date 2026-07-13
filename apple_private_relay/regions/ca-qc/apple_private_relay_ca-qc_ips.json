@@ -5075,21 +5075,6 @@
     "region": "CA-QC"
   },
   {
-    "ip_address": "2a04:4e41:003b:001e::/64",
-    "ip_type": "IPv6",
-    "region": "CA-QC"
-  },
-  {
-    "ip_address": "2a04:4e41:003b:001f::/64",
-    "ip_type": "IPv6",
-    "region": "CA-QC"
-  },
-  {
-    "ip_address": "2a04:4e41:003b:0020::/64",
-    "ip_type": "IPv6",
-    "region": "CA-QC"
-  },
-  {
     "ip_address": "2a04:4e41:4ce1:c000::/52",
     "ip_type": "IPv6",
     "region": "CA-QC"

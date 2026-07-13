@@ -1,6 +1,6 @@
 # Google Services IP Ranges (Auto-Updated Daily)
 
-> Last updated: **2026-07-12** · Total CIDRs: **340** · IPv4: **256** · IPv6: **84** · Services: **1** · Regions: **1**
+> Last updated: **2026-07-13** · Total CIDRs: **340** · IPv4: **256** · IPv6: **84** · Services: **1** · Regions: **1**
 
 Machine-readable, daily-updated, validated public IP ranges for **Google Services**.
 Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and Apache.

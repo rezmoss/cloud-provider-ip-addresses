@@ -123,6 +123,7 @@ ip_address,ip_type,service,region
 185.230.212.0/24,IPv4,zoho-as205111,global
 185.230.213.0/24,IPv4,zoho-as205111,global
 185.230.214.0/23,IPv4,zoho-as205111,global
+185.230.214.0/24,IPv4,zoho-as205111,global
 192.65.2.0/23,IPv4,zoho-as135102,global
 193.118.160.0/24,IPv4,zoho-as141757,global
 193.118.161.0/24,IPv4,zoho-as141757,global

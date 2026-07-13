@@ -744,6 +744,12 @@
     "region": "global"
   },
   {
+    "ip_address": "185.230.214.0/24",
+    "ip_type": "IPv4",
+    "service": "zoho-as205111",
+    "region": "global"
+  },
+  {
     "ip_address": "192.65.2.0/23",
     "ip_type": "IPv4",
     "service": "zoho-as135102",

@@ -89,8 +89,6 @@ ip_address,ip_type,region
 2a02:26f7:bc08:50cb::/64,IPv6,CA-NB
 2a02:26f7:bc08:50cc::/64,IPv6,CA-NB
 2a02:26f7:bc08:50cd::/64,IPv6,CA-NB
-2a04:4e41:003b:000c::/64,IPv6,CA-NB
-2a04:4e41:003b:000d::/64,IPv6,CA-NB
 2a04:4e41:4ce0:a000::/52,IPv6,CA-NB
 2a04:4e41:4ce0:b000::/52,IPv6,CA-NB
 2a04:4e41:6900:a000::/52,IPv6,CA-NB

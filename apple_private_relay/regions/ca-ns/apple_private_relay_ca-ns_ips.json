@@ -610,11 +610,6 @@
     "region": "CA-NS"
   },
   {
-    "ip_address": "2a04:4e41:003b:000f::/64",
-    "ip_type": "IPv6",
-    "region": "CA-NS"
-  },
-  {
     "ip_address": "2a04:4e41:4ce0:d000::/52",
     "ip_type": "IPv6",
     "region": "CA-NS"

@@ -2420,16 +2420,6 @@
     "region": "CA-AB"
   },
   {
-    "ip_address": "2a04:4e41:003b:0002::/64",
-    "ip_type": "IPv6",
-    "region": "CA-AB"
-  },
-  {
-    "ip_address": "2a04:4e41:003b:0003::/64",
-    "ip_type": "IPv6",
-    "region": "CA-AB"
-  },
-  {
     "ip_address": "2a04:4e41:4ce0::/52",
     "ip_type": "IPv6",
     "region": "CA-AB"

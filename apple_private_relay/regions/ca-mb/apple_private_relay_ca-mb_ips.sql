@@ -146,7 +146,6 @@ INSERT INTO `apple_private_relay_ca-mb_ips` (`ip_address`, `ip_type`) VALUES ('2
 INSERT INTO `apple_private_relay_ca-mb_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:bbc8:4210::/64', 'IPv6');
 INSERT INTO `apple_private_relay_ca-mb_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:bbc8:4211::/64', 'IPv6');
 INSERT INTO `apple_private_relay_ca-mb_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:bbc9:4000::/64', 'IPv6');
-INSERT INTO `apple_private_relay_ca-mb_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:003b:000b::/64', 'IPv6');
 INSERT INTO `apple_private_relay_ca-mb_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:4ce0:9000::/52', 'IPv6');
 INSERT INTO `apple_private_relay_ca-mb_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:6900:9000::/52', 'IPv6');
 INSERT INTO `apple_private_relay_ca-mb_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:6920:9000::/52', 'IPv6');

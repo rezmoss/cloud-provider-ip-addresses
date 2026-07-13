@@ -95,11 +95,6 @@
     "region": "CA-NL"
   },
   {
-    "ip_address": "2a04:4e41:003b:000e::/64",
-    "ip_type": "IPv6",
-    "region": "CA-NL"
-  },
-  {
     "ip_address": "2a04:4e41:4ce0:c000::/52",
     "ip_type": "IPv6",
     "region": "CA-NL"

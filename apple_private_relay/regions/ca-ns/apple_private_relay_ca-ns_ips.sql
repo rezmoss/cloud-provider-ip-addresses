@@ -128,7 +128,6 @@ INSERT INTO `apple_private_relay_ca-ns_ips` (`ip_address`, `ip_type`) VALUES ('2
 INSERT INTO `apple_private_relay_ca-ns_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:bc08:50da::/64', 'IPv6');
 INSERT INTO `apple_private_relay_ca-ns_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:bc08:50db::/64', 'IPv6');
 INSERT INTO `apple_private_relay_ca-ns_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:bc09:4000::/64', 'IPv6');
-INSERT INTO `apple_private_relay_ca-ns_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:003b:000f::/64', 'IPv6');
 INSERT INTO `apple_private_relay_ca-ns_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:4ce0:d000::/52', 'IPv6');
 INSERT INTO `apple_private_relay_ca-ns_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:6900:d000::/52', 'IPv6');
 INSERT INTO `apple_private_relay_ca-ns_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:6920:d000::/52', 'IPv6');

@@ -1021,9 +1021,6 @@ INSERT INTO `apple_private_relay_ca-qc_ips` (`ip_address`, `ip_type`) VALUES ('2
 INSERT INTO `apple_private_relay_ca-qc_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:bc08:50df::/64', 'IPv6');
 INSERT INTO `apple_private_relay_ca-qc_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:bc08:50e0::/64', 'IPv6');
 INSERT INTO `apple_private_relay_ca-qc_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:bc08:50e1::/64', 'IPv6');
-INSERT INTO `apple_private_relay_ca-qc_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:003b:001e::/64', 'IPv6');
-INSERT INTO `apple_private_relay_ca-qc_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:003b:001f::/64', 'IPv6');
-INSERT INTO `apple_private_relay_ca-qc_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:003b:0020::/64', 'IPv6');
 INSERT INTO `apple_private_relay_ca-qc_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:4ce1:c000::/52', 'IPv6');
 INSERT INTO `apple_private_relay_ca-qc_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:4ce1:d000::/52', 'IPv6');
 INSERT INTO `apple_private_relay_ca-qc_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:4ce1:e000::/52', 'IPv6');

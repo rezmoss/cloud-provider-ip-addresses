@@ -745,16 +745,6 @@
     "region": "CA-SK"
   },
   {
-    "ip_address": "2a04:4e41:003b:0021::/64",
-    "ip_type": "IPv6",
-    "region": "CA-SK"
-  },
-  {
-    "ip_address": "2a04:4e41:003b:0022::/64",
-    "ip_type": "IPv6",
-    "region": "CA-SK"
-  },
-  {
     "ip_address": "2a04:4e41:4ce1:f000::/52",
     "ip_type": "IPv6",
     "region": "CA-SK"

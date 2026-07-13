@@ -1,7 +1,7 @@
 # apple_private_relay IP ranges - ipset restore format (hash:net)
-# Version: 4 | Generated: 2026-07-12 | Last changed: 2026-07-06
-# IPv4: 3270 merged subnets, 105815 unique IPs
-# IPv6: 10315 merged subnets
+# Version: 5 | Generated: 2026-07-13 | Last changed: 2026-07-13
+# IPv4: 3271 merged subnets, 105816 unique IPs
+# IPv6: 10312 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
 # Load with: sudo ipset restore -! < apple_private_relay.netset
@@ -1740,6 +1740,7 @@ add apple_private_relay_v4 104.28.137.16/28
 add apple_private_relay_v4 104.28.137.32/27
 add apple_private_relay_v4 104.28.137.64/26
 add apple_private_relay_v4 104.28.137.128/28
+add apple_private_relay_v4 104.28.137.144/32
 add apple_private_relay_v4 104.28.138.1/32
 add apple_private_relay_v4 104.28.138.2/31
 add apple_private_relay_v4 104.28.138.4/30
@@ -12918,9 +12919,6 @@ add apple_private_relay_v6 2a02:26f7:fc14:4fc0::/61
 add apple_private_relay_v6 2a02:26f7:fc14:4fc8::/62
 add apple_private_relay_v6 2a02:26f7:fc14:4fcc::/63
 add apple_private_relay_v6 2a02:26f7:fc15:4000::/64
-add apple_private_relay_v6 2a04:4e41:3b::/59
-add apple_private_relay_v6 2a04:4e41:3b:20::/63
-add apple_private_relay_v6 2a04:4e41:3b:22::/64
 add apple_private_relay_v6 2a04:4e41:100::/52
 add apple_private_relay_v6 2a04:4e41:101::/48
 add apple_private_relay_v6 2a04:4e41:120::/50

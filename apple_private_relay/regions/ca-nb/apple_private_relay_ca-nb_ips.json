@@ -450,16 +450,6 @@
     "region": "CA-NB"
   },
   {
-    "ip_address": "2a04:4e41:003b:000c::/64",
-    "ip_type": "IPv6",
-    "region": "CA-NB"
-  },
-  {
-    "ip_address": "2a04:4e41:003b:000d::/64",
-    "ip_type": "IPv6",
-    "region": "CA-NB"
-  },
-  {
     "ip_address": "2a04:4e41:4ce0:a000::/52",
     "ip_type": "IPv6",
     "region": "CA-NB"

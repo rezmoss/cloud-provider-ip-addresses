@@ -40,7 +40,6 @@ INSERT INTO `apple_private_relay_as_ips` (`ip_address`, `ip_type`) VALUES ('2a02
 INSERT INTO `apple_private_relay_as_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f688:4000::/64', 'IPv6');
 INSERT INTO `apple_private_relay_as_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f688:c060::/64', 'IPv6');
 INSERT INTO `apple_private_relay_as_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f689:4000::/64', 'IPv6');
-INSERT INTO `apple_private_relay_as_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:003b:0000::/64', 'IPv6');
 INSERT INTO `apple_private_relay_as_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:2608::/48', 'IPv6');
 INSERT INTO `apple_private_relay_as_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:4208::/48', 'IPv6');
 INSERT INTO `apple_private_relay_as_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:4ce3::/48', 'IPv6');

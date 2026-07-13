@@ -170,11 +170,6 @@
     "region": "AS"
   },
   {
-    "ip_address": "2a04:4e41:003b:0000::/64",
-    "ip_type": "IPv6",
-    "region": "AS"
-  },
-  {
     "ip_address": "2a04:4e41:2608::/48",
     "ip_type": "IPv6",
     "region": "AS"

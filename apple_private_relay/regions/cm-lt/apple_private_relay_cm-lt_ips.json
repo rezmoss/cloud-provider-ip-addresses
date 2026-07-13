@@ -50,6 +50,11 @@
     "region": "CM-LT"
   },
   {
+    "ip_address": "104.28.137.144/32",
+    "ip_type": "IPv4",
+    "region": "CM-LT"
+  },
+  {
     "ip_address": "2606:54c0:1eb0::/45",
     "ip_type": "IPv6",
     "region": "CM-LT"
