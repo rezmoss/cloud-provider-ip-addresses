@@ -5,6 +5,7 @@ ip_address,ip_type,service,region
 72.167.12.0/22,IPv4,sucuri-as30148,global
 185.93.228.0/24,IPv4,sucuri-as30148,global
 185.93.230.0/24,IPv4,sucuri-as30148,global
+185.93.231.0/24,IPv4,sucuri-as30148,global
 192.88.134.0/24,IPv4,sucuri-as30148,global
 192.88.135.0/24,IPv4,sucuri-as30148,global
 192.124.249.0/24,IPv4,sucuri-as30148,global

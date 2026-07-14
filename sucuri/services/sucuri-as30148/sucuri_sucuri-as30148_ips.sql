@@ -12,6 +12,7 @@ INSERT INTO `sucuri_sucuri-as30148_ips` (`ip_address`, `ip_type`) VALUES ('66.24
 INSERT INTO `sucuri_sucuri-as30148_ips` (`ip_address`, `ip_type`) VALUES ('72.167.12.0/22', 'IPv4');
 INSERT INTO `sucuri_sucuri-as30148_ips` (`ip_address`, `ip_type`) VALUES ('185.93.228.0/24', 'IPv4');
 INSERT INTO `sucuri_sucuri-as30148_ips` (`ip_address`, `ip_type`) VALUES ('185.93.230.0/24', 'IPv4');
+INSERT INTO `sucuri_sucuri-as30148_ips` (`ip_address`, `ip_type`) VALUES ('185.93.231.0/24', 'IPv4');
 INSERT INTO `sucuri_sucuri-as30148_ips` (`ip_address`, `ip_type`) VALUES ('192.88.134.0/24', 'IPv4');
 INSERT INTO `sucuri_sucuri-as30148_ips` (`ip_address`, `ip_type`) VALUES ('192.88.135.0/24', 'IPv4');
 INSERT INTO `sucuri_sucuri-as30148_ips` (`ip_address`, `ip_type`) VALUES ('192.124.249.0/24', 'IPv4');

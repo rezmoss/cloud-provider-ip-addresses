@@ -900,6 +900,12 @@
     "region": "global"
   },
   {
+    "ip_address": "96.6.79.0/24",
+    "ip_type": "IPv4",
+    "service": "akamai-as32787",
+    "region": "global"
+  },
+  {
     "ip_address": "96.6.80.0/24",
     "ip_type": "IPv4",
     "service": "akamai-as32787",

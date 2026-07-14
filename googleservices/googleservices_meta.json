@@ -1,24 +1,24 @@
 {
   "provider": "googleservices",
-  "version": 1,
-  "generated_date": "2026-07-13",
-  "last_changed_date": "2026-07-12",
+  "version": 2,
+  "generated_date": "2026-07-14",
+  "last_changed_date": "2026-07-14",
   "sources": [
     "https://www.gstatic.com/ipranges/goog.json",
     "https://www.gstatic.com/ipranges/cloud.json"
   ],
   "ipv4": {
-    "cidrs": 256,
-    "merged_cidrs": 256,
-    "addresses": 3029376
+    "cidrs": 260,
+    "merged_cidrs": 260,
+    "addresses": 3022208
   },
   "ipv6": {
     "cidrs": 84,
     "merged_cidrs": 84,
     "addresses": 2059950359553314902049116127232
   },
-  "total_entries": 340,
-  "content_sha256": "a6b15b2a061d7f99d73e4d53d0380173814841f657d3516ea8403ce041de20f1",
+  "total_entries": 344,
+  "content_sha256": "010b073a856841a1364e53f81dbbd1b21cf7f4899150ce23bf42ea30f3073f24",
   "license": "CC0-1.0",
   "license_url": "https://github.com/rezmoss/cloud-provider-ip-addresses/blob/main/LICENSE"
 }

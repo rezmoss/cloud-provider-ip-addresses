@@ -46,6 +46,7 @@ INSERT INTO `bunny_bunny-as200325_ips` (`ip_address`, `ip_type`) VALUES ('2400:5
 INSERT INTO `bunny_bunny-as200325_ips` (`ip_address`, `ip_type`) VALUES ('2400:52e0:1e08::/48', 'IPv6');
 INSERT INTO `bunny_bunny-as200325_ips` (`ip_address`, `ip_type`) VALUES ('2400:52e0:1e09::/48', 'IPv6');
 INSERT INTO `bunny_bunny-as200325_ips` (`ip_address`, `ip_type`) VALUES ('2400:52e0:1e10::/48', 'IPv6');
+INSERT INTO `bunny_bunny-as200325_ips` (`ip_address`, `ip_type`) VALUES ('2400:52e0:1e11::/48', 'IPv6');
 INSERT INTO `bunny_bunny-as200325_ips` (`ip_address`, `ip_type`) VALUES ('2400:52e0:2a00::/48', 'IPv6');
 INSERT INTO `bunny_bunny-as200325_ips` (`ip_address`, `ip_type`) VALUES ('2400:52e0:4000::/48', 'IPv6');
 INSERT INTO `bunny_bunny-as200325_ips` (`ip_address`, `ip_type`) VALUES ('2400:52e0:fff0::/48', 'IPv6');

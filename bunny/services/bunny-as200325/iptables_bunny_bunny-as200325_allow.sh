@@ -1,6 +1,6 @@
 #!/bin/bash
 # Bunny IP Ranges
-# Updated: 2026-07-12 03:46:28
+# Updated: 2026-07-14 03:17:15
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -29,7 +29,7 @@ ip6tables -A INPUT -s 2400:52e0:1e01::/48 -j ACCEPT
 ip6tables -A INPUT -s 2400:52e0:1e02::/47 -j ACCEPT
 ip6tables -A INPUT -s 2400:52e0:1e04::/46 -j ACCEPT
 ip6tables -A INPUT -s 2400:52e0:1e08::/47 -j ACCEPT
-ip6tables -A INPUT -s 2400:52e0:1e10::/48 -j ACCEPT
+ip6tables -A INPUT -s 2400:52e0:1e10::/47 -j ACCEPT
 ip6tables -A INPUT -s 2400:52e0:2a00::/48 -j ACCEPT
 ip6tables -A INPUT -s 2400:52e0:4000::/48 -j ACCEPT
 ip6tables -A INPUT -s 2400:52e0:fff0::/46 -j ACCEPT

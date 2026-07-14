@@ -462,6 +462,12 @@
     "region": "af-south-1"
   },
   {
+    "ip_address": "15.241.0.0/16",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "af-south-1"
+  },
+  {
     "ip_address": "16.6.0.0/16",
     "ip_type": "IPv4",
     "service": "AMAZON",

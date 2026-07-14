@@ -1,6 +1,6 @@
 #!/bin/bash
 # Ibmcloud IP Ranges
-# Updated: 2026-07-13 03:18:43
+# Updated: 2026-07-14 03:16:02
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -38,7 +38,7 @@ ufw deny from 67.214.212.0/24
 ufw deny from 67.214.223.0/24
 ufw deny from 67.228.0.0/16
 ufw deny from 69.57.132.0/22
-ufw deny from 69.57.140.0/22
+ufw deny from 69.57.136.0/21
 ufw deny from 69.57.144.0/22
 ufw deny from 74.86.0.0/16
 ufw deny from 75.126.0.0/16

@@ -1,6 +1,6 @@
 # googleservices IP ranges - ipset restore format (hash:net)
-# Version: 1 | Generated: 2026-07-13 | Last changed: 2026-07-12
-# IPv4: 256 merged subnets, 3029376 unique IPs
+# Version: 2 | Generated: 2026-07-14 | Last changed: 2026-07-14
+# IPv4: 260 merged subnets, 3022208 unique IPs
 # IPv6: 84 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
@@ -15,8 +15,6 @@ add googleservices_v4 8.230.128.0/17
 add googleservices_v4 8.231.0.0/19
 add googleservices_v4 8.234.0.0/23
 add googleservices_v4 8.234.18.0/23
-add googleservices_v4 8.234.20.0/22
-add googleservices_v4 8.234.24.0/21
 add googleservices_v4 8.236.0.0/15
 add googleservices_v4 34.0.228.0/22
 add googleservices_v4 34.0.232.0/21
@@ -99,7 +97,9 @@ add googleservices_v4 34.127.176.0/24
 add googleservices_v4 34.127.181.0/24
 add googleservices_v4 34.127.182.0/23
 add googleservices_v4 34.127.192.0/18
-add googleservices_v4 34.128.0.0/19
+add googleservices_v4 34.128.0.0/22
+add googleservices_v4 34.128.8.0/21
+add googleservices_v4 34.128.16.0/20
 add googleservices_v4 34.128.38.0/23
 add googleservices_v4 34.128.40.0/23
 add googleservices_v4 34.128.50.0/23
@@ -112,7 +112,8 @@ add googleservices_v4 34.143.80.0/20
 add googleservices_v4 34.143.96.0/19
 add googleservices_v4 34.144.0.0/17
 add googleservices_v4 34.144.128.0/19
-add googleservices_v4 34.144.160.0/20
+add googleservices_v4 34.144.160.0/21
+add googleservices_v4 34.144.168.0/22
 add googleservices_v4 34.152.70.0/23
 add googleservices_v4 34.152.82.0/23
 add googleservices_v4 34.152.88.0/21
@@ -144,7 +145,7 @@ add googleservices_v4 34.177.38.0/23
 add googleservices_v4 34.177.56.0/21
 add googleservices_v4 34.177.67.0/24
 add googleservices_v4 34.177.78.128/25
-add googleservices_v4 34.177.120.0/21
+add googleservices_v4 34.177.124.0/22
 add googleservices_v4 34.177.128.0/17
 add googleservices_v4 34.180.128.0/17
 add googleservices_v4 34.183.10.0/23
@@ -193,7 +194,10 @@ add googleservices_v4 35.220.30.0/24
 add googleservices_v4 35.229.0.0/20
 add googleservices_v4 35.230.192.0/19
 add googleservices_v4 35.230.224.0/20
-add googleservices_v4 35.235.128.0/18
+add googleservices_v4 35.235.128.0/19
+add googleservices_v4 35.235.160.0/21
+add googleservices_v4 35.235.168.0/22
+add googleservices_v4 35.235.176.0/20
 add googleservices_v4 35.235.192.0/20
 add googleservices_v4 35.235.208.0/21
 add googleservices_v4 35.235.224.0/19

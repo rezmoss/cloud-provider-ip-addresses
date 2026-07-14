@@ -1,6 +1,6 @@
 # sucuri IP ranges - ipset restore format (hash:net)
-# Version: 1 | Generated: 2026-07-13 | Last changed: 2026-07-12
-# IPv4: 11 merged subnets, 5888 unique IPs
+# Version: 2 | Generated: 2026-07-14 | Last changed: 2026-07-14
+# IPv4: 11 merged subnets, 6144 unique IPs
 # IPv6: 9 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
@@ -12,7 +12,7 @@ add sucuri_v4 66.248.201.0/24
 add sucuri_v4 66.248.202.0/23
 add sucuri_v4 72.167.12.0/22
 add sucuri_v4 185.93.228.0/24
-add sucuri_v4 185.93.230.0/24
+add sucuri_v4 185.93.230.0/23
 add sucuri_v4 192.88.134.0/23
 add sucuri_v4 192.124.249.0/24
 add sucuri_v4 192.161.0.0/24

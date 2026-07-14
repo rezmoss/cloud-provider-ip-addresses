@@ -342,6 +342,12 @@
     "region": "global"
   },
   {
+    "ip_address": "69.57.136.0/22",
+    "ip_type": "IPv4",
+    "service": "ibmcloud-as36351",
+    "region": "global"
+  },
+  {
     "ip_address": "69.57.140.0/22",
     "ip_type": "IPv4",
     "service": "ibmcloud-as36351",

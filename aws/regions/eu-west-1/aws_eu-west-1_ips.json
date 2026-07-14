@@ -3570,6 +3570,30 @@
     "region": "eu-west-1"
   },
   {
+    "ip_address": "2606:f40:4904::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eu-west-1"
+  },
+  {
+    "ip_address": "2606:f40:4904::/48",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eu-west-1"
+  },
+  {
+    "ip_address": "2606:f40:4b00::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eu-west-1"
+  },
+  {
+    "ip_address": "2606:f40:4b00::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eu-west-1"
+  },
+  {
     "ip_address": "2606:f40:5000::/39",
     "ip_type": "IPv6",
     "service": "AMAZON",

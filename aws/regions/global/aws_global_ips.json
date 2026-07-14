@@ -3510,18 +3510,6 @@
     "region": "GLOBAL"
   },
   {
-    "ip_address": "2600:f0f0:92::/48",
-    "ip_type": "IPv6",
-    "service": "AMAZON",
-    "region": "GLOBAL"
-  },
-  {
-    "ip_address": "2600:f0f0:92::/48",
-    "ip_type": "IPv6",
-    "service": "CLOUDFRONT",
-    "region": "GLOBAL"
-  },
-  {
     "ip_address": "2600:f0f0:c0::/44",
     "ip_type": "IPv6",
     "service": "AMAZON",

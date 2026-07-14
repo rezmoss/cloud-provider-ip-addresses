@@ -1,6 +1,6 @@
 #!/bin/bash
 # Gcore IP Ranges
-# Updated: 2026-07-12 03:46:19
+# Updated: 2026-07-14 03:17:05
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -137,8 +137,6 @@ ufw deny from 80.15.251.15/32
 ufw deny from 80.15.251.21/32
 ufw deny from 80.15.251.23/32
 ufw deny from 80.15.251.25/32
-ufw deny from 80.15.251.29/32
-ufw deny from 80.15.251.31/32
 ufw deny from 80.15.252.17/32
 ufw deny from 80.15.252.19/32
 ufw deny from 80.15.252.21/32
@@ -247,6 +245,8 @@ ufw deny from 91.243.87.4/31
 ufw deny from 92.38.142.21/32
 ufw deny from 92.38.142.25/32
 ufw deny from 92.38.159.4/30
+ufw deny from 92.38.159.12/31
+ufw deny from 92.38.159.16/31
 ufw deny from 92.38.168.5/32
 ufw deny from 92.38.168.6/31
 ufw deny from 92.38.170.6/31
@@ -295,10 +295,9 @@ ufw deny from 92.223.78.24/30
 ufw deny from 92.223.78.28/32
 ufw deny from 92.223.107.36/32
 ufw deny from 92.223.107.38/31
-ufw deny from 92.223.107.43/32
 ufw deny from 92.223.107.44/30
 ufw deny from 92.223.107.48/29
-ufw deny from 92.223.107.56/31
+ufw deny from 92.223.107.57/32
 ufw deny from 92.223.107.58/32
 ufw deny from 92.223.107.132/30
 ufw deny from 92.223.107.136/29
@@ -512,7 +511,7 @@ ufw deny from 193.57.88.222/32
 ufw deny from 193.57.89.4/31
 ufw deny from 193.143.1.97/32
 ufw deny from 193.169.239.75/32
-ufw deny from 193.169.250.4/31
+ufw deny from 193.169.250.5/32
 ufw deny from 193.169.250.7/32
 ufw deny from 193.169.251.4/30
 ufw deny from 193.169.251.8/31
@@ -642,8 +641,6 @@ ufw deny from 2a01:c9c0:c004:100::7/128
 ufw deny from 2a01:c9c0:c004:200::1/128
 ufw deny from 2a01:c9c0:c004:200::3/128
 ufw deny from 2a01:c9c0:c004:200::5/128
-ufw deny from 2a01:c9c0:c004:300::1/128
-ufw deny from 2a01:c9c0:c004:300::3/128
 ufw deny from 2a01:c9c0:c006:200::1/128
 ufw deny from 2a01:c9c0:c006:200::3/128
 ufw deny from 2a01:c9c0:c006:200::5/128
@@ -767,7 +764,7 @@ ufw deny from 2a03:90c0:41:2801::40/125
 ufw deny from 2a03:90c0:41:2801::48/127
 ufw deny from 2a03:90c0:41:2801::50/125
 ufw deny from 2a03:90c0:41:2801::58/128
-ufw deny from 2a03:90c0:51:2801::4/127
+ufw deny from 2a03:90c0:51:2801::5/128
 ufw deny from 2a03:90c0:51:2801::7/128
 ufw deny from 2a03:90c0:62::68/127
 ufw deny from 2a03:90c0:62::70/127
@@ -784,10 +781,11 @@ ufw deny from 2a03:90c0:b1:2801::4/126
 ufw deny from 2a03:90c0:b1:2801::8/128
 ufw deny from 2a03:90c0:c1:2801::36/128
 ufw deny from 2a03:90c0:c1:2801::38/127
-ufw deny from 2a03:90c0:c1:2801::43/128
 ufw deny from 2a03:90c0:c1:2801::44/126
 ufw deny from 2a03:90c0:c1:2801::48/127
-ufw deny from 2a03:90c0:c1:2801::50/125
+ufw deny from 2a03:90c0:c1:2801::50/126
+ufw deny from 2a03:90c0:c1:2801::54/127
+ufw deny from 2a03:90c0:c1:2801::57/128
 ufw deny from 2a03:90c0:c1:2801::58/128
 ufw deny from 2a03:90c0:c1:2801::132/127
 ufw deny from 2a03:90c0:c1:2801::134/126
@@ -843,6 +841,8 @@ ufw deny from 2a03:90c0:1f1:2801::6/128
 ufw deny from 2a03:90c0:1f1:2801::10/127
 ufw deny from 2a03:90c0:1f1:2801::13/128
 ufw deny from 2a03:90c0:211:2801::4/126
+ufw deny from 2a03:90c0:211:2801::12/127
+ufw deny from 2a03:90c0:211:2801::16/127
 ufw deny from 2a03:90c0:221:2801::4/126
 ufw deny from 2a03:90c0:221:2801::8/127
 ufw deny from 2a03:90c0:221:2801::10/127

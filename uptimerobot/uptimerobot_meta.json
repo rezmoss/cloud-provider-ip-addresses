@@ -1,7 +1,7 @@
 {
   "provider": "uptimerobot",
   "version": 2,
-  "generated_date": "2026-07-13",
+  "generated_date": "2026-07-14",
   "last_changed_date": "2026-06-25",
   "sources": [
     "https://api.uptimerobot.com/meta/ips"

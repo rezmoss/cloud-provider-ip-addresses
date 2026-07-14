@@ -36,6 +36,12 @@
     "region": "global"
   },
   {
+    "ip_address": "185.93.231.0/24",
+    "ip_type": "IPv4",
+    "service": "sucuri-as30148",
+    "region": "global"
+  },
+  {
     "ip_address": "192.88.134.0/24",
     "ip_type": "IPv4",
     "service": "sucuri-as30148",

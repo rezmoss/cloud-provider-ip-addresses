@@ -42,18 +42,6 @@
     "region": "global"
   },
   {
-    "ip_address": "8.234.20.0/22",
-    "ip_type": "IPv4",
-    "service": "google-services",
-    "region": "global"
-  },
-  {
-    "ip_address": "8.234.24.0/21",
-    "ip_type": "IPv4",
-    "service": "google-services",
-    "region": "global"
-  },
-  {
     "ip_address": "8.236.0.0/15",
     "ip_type": "IPv4",
     "service": "google-services",
@@ -546,7 +534,19 @@
     "region": "global"
   },
   {
-    "ip_address": "34.128.0.0/19",
+    "ip_address": "34.128.0.0/22",
+    "ip_type": "IPv4",
+    "service": "google-services",
+    "region": "global"
+  },
+  {
+    "ip_address": "34.128.8.0/21",
+    "ip_type": "IPv4",
+    "service": "google-services",
+    "region": "global"
+  },
+  {
+    "ip_address": "34.128.16.0/20",
     "ip_type": "IPv4",
     "service": "google-services",
     "region": "global"
@@ -624,7 +624,13 @@
     "region": "global"
   },
   {
-    "ip_address": "34.144.160.0/20",
+    "ip_address": "34.144.160.0/21",
+    "ip_type": "IPv4",
+    "service": "google-services",
+    "region": "global"
+  },
+  {
+    "ip_address": "34.144.168.0/22",
     "ip_type": "IPv4",
     "service": "google-services",
     "region": "global"
@@ -816,7 +822,7 @@
     "region": "global"
   },
   {
-    "ip_address": "34.177.120.0/21",
+    "ip_address": "34.177.124.0/22",
     "ip_type": "IPv4",
     "service": "google-services",
     "region": "global"
@@ -1110,7 +1116,25 @@
     "region": "global"
   },
   {
-    "ip_address": "35.235.128.0/18",
+    "ip_address": "35.235.128.0/19",
+    "ip_type": "IPv4",
+    "service": "google-services",
+    "region": "global"
+  },
+  {
+    "ip_address": "35.235.160.0/21",
+    "ip_type": "IPv4",
+    "service": "google-services",
+    "region": "global"
+  },
+  {
+    "ip_address": "35.235.168.0/22",
+    "ip_type": "IPv4",
+    "service": "google-services",
+    "region": "global"
+  },
+  {
+    "ip_address": "35.235.176.0/20",
     "ip_type": "IPv4",
     "service": "google-services",
     "region": "global"

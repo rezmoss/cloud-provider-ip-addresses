@@ -1,6 +1,6 @@
 # Rackspace IP Ranges (Auto-Updated Daily)
 
-> Last updated: **2026-07-13** · Total CIDRs: **325** · IPv4: **311** · IPv6: **14** · Services: **16** · Regions: **1**
+> Last updated: **2026-07-14** · Total CIDRs: **325** · IPv4: **311** · IPv6: **14** · Services: **16** · Regions: **1**
 
 Machine-readable, daily-updated, validated public IP ranges for **Rackspace**.
 Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and Apache.

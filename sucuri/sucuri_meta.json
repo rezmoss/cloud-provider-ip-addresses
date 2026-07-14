@@ -1,23 +1,23 @@
 {
   "provider": "sucuri",
-  "version": 1,
-  "generated_date": "2026-07-13",
-  "last_changed_date": "2026-07-12",
+  "version": 2,
+  "generated_date": "2026-07-14",
+  "last_changed_date": "2026-07-14",
   "sources": [
     "BGP announced prefixes via RIPE NCC RIPEstat"
   ],
   "ipv4": {
-    "cidrs": 17,
+    "cidrs": 18,
     "merged_cidrs": 11,
-    "addresses": 5888
+    "addresses": 6144
   },
   "ipv6": {
     "cidrs": 13,
     "merged_cidrs": 9,
     "addresses": 24178516392292583494123520
   },
-  "total_entries": 30,
-  "content_sha256": "961ebbf0f0dcbae4dfa9d34332e0385358dcaddf5856d172e1c078e761616175",
+  "total_entries": 31,
+  "content_sha256": "4e3072570fa2b1a02c6746a4b832303aef5ae319787bb6fe7f6acc0134f75cfe",
   "license": "CC0-1.0",
   "license_url": "https://github.com/rezmoss/cloud-provider-ip-addresses/blob/main/LICENSE"
 }

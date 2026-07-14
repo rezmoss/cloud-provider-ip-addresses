@@ -1,6 +1,6 @@
 #!/bin/bash
 # Googlecloud IP Ranges
-# Updated: 2026-07-01 03:19:43
+# Updated: 2026-07-14 03:10:33
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -19,6 +19,8 @@ iptables -A INPUT -s 8.234.2.0/23 -j ACCEPT
 iptables -A INPUT -s 8.234.4.0/22 -j ACCEPT
 iptables -A INPUT -s 8.234.8.0/21 -j ACCEPT
 iptables -A INPUT -s 8.234.16.0/23 -j ACCEPT
+iptables -A INPUT -s 8.234.20.0/22 -j ACCEPT
+iptables -A INPUT -s 8.234.24.0/21 -j ACCEPT
 iptables -A INPUT -s 8.234.32.0/19 -j ACCEPT
 iptables -A INPUT -s 8.234.64.0/18 -j ACCEPT
 iptables -A INPUT -s 8.234.128.0/17 -j ACCEPT
@@ -138,6 +140,7 @@ iptables -A INPUT -s 34.127.177.0/24 -j ACCEPT
 iptables -A INPUT -s 34.127.178.0/23 -j ACCEPT
 iptables -A INPUT -s 34.127.180.0/24 -j ACCEPT
 iptables -A INPUT -s 34.127.184.0/21 -j ACCEPT
+iptables -A INPUT -s 34.128.4.0/22 -j ACCEPT
 iptables -A INPUT -s 34.128.32.0/22 -j ACCEPT
 iptables -A INPUT -s 34.128.36.0/23 -j ACCEPT
 iptables -A INPUT -s 34.128.42.0/23 -j ACCEPT
@@ -158,6 +161,7 @@ iptables -A INPUT -s 34.140.0.0/15 -j ACCEPT
 iptables -A INPUT -s 34.142.0.0/16 -j ACCEPT
 iptables -A INPUT -s 34.143.64.0/21 -j ACCEPT
 iptables -A INPUT -s 34.143.128.0/17 -j ACCEPT
+iptables -A INPUT -s 34.144.172.0/22 -j ACCEPT
 iptables -A INPUT -s 34.144.176.0/20 -j ACCEPT
 iptables -A INPUT -s 34.144.192.0/18 -j ACCEPT
 iptables -A INPUT -s 34.145.0.0/16 -j ACCEPT
@@ -250,6 +254,7 @@ iptables -A INPUT -s 34.177.79.0/24 -j ACCEPT
 iptables -A INPUT -s 34.177.80.0/20 -j ACCEPT
 iptables -A INPUT -s 34.177.96.0/20 -j ACCEPT
 iptables -A INPUT -s 34.177.112.0/21 -j ACCEPT
+iptables -A INPUT -s 34.177.120.0/22 -j ACCEPT
 iptables -A INPUT -s 34.178.0.0/15 -j ACCEPT
 iptables -A INPUT -s 34.180.0.0/17 -j ACCEPT
 iptables -A INPUT -s 34.181.0.0/16 -j ACCEPT
@@ -359,6 +364,7 @@ iptables -A INPUT -s 35.231.0.0/16 -j ACCEPT
 iptables -A INPUT -s 35.232.0.0/15 -j ACCEPT
 iptables -A INPUT -s 35.234.0.0/16 -j ACCEPT
 iptables -A INPUT -s 35.235.0.0/17 -j ACCEPT
+iptables -A INPUT -s 35.235.172.0/22 -j ACCEPT
 iptables -A INPUT -s 35.235.216.0/21 -j ACCEPT
 iptables -A INPUT -s 35.236.0.0/14 -j ACCEPT
 iptables -A INPUT -s 35.240.0.0/15 -j ACCEPT

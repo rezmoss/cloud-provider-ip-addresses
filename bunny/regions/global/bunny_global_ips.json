@@ -240,6 +240,12 @@
     "region": "global"
   },
   {
+    "ip_address": "2400:52e0:1e11::/48",
+    "ip_type": "IPv6",
+    "service": "bunny-as200325",
+    "region": "global"
+  },
+  {
     "ip_address": "2400:52e0:2a00::/48",
     "ip_type": "IPv6",
     "service": "bunny-as200325",
