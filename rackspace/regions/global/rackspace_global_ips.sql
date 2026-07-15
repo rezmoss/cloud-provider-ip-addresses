@@ -243,6 +243,7 @@ INSERT INTO `rackspace_global_ips` (`ip_address`, `ip_type`) VALUES ('192.237.19
 INSERT INTO `rackspace_global_ips` (`ip_address`, `ip_type`) VALUES ('192.237.224.0/19', 'IPv4');
 INSERT INTO `rackspace_global_ips` (`ip_address`, `ip_type`) VALUES ('193.138.122.0/24', 'IPv4');
 INSERT INTO `rackspace_global_ips` (`ip_address`, `ip_type`) VALUES ('193.142.244.0/24', 'IPv4');
+INSERT INTO `rackspace_global_ips` (`ip_address`, `ip_type`) VALUES ('194.39.184.0/24', 'IPv4');
 INSERT INTO `rackspace_global_ips` (`ip_address`, `ip_type`) VALUES ('195.5.122.0/23', 'IPv4');
 INSERT INTO `rackspace_global_ips` (`ip_address`, `ip_type`) VALUES ('195.50.109.0/24', 'IPv4');
 INSERT INTO `rackspace_global_ips` (`ip_address`, `ip_type`) VALUES ('198.61.128.0/18', 'IPv4');

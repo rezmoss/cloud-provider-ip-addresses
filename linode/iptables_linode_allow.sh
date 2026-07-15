@@ -1,6 +1,6 @@
 #!/bin/bash
 # Linode IP Ranges
-# Updated: 2026-07-11 03:12:32
+# Updated: 2026-07-15 03:12:24
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -176,12 +176,7 @@ iptables -A INPUT -s 172.234.16.0/20 -j ACCEPT
 iptables -A INPUT -s 172.234.32.0/19 -j ACCEPT
 iptables -A INPUT -s 172.234.64.0/18 -j ACCEPT
 iptables -A INPUT -s 172.234.128.0/17 -j ACCEPT
-iptables -A INPUT -s 172.235.0.0/20 -j ACCEPT
-iptables -A INPUT -s 172.235.16.0/21 -j ACCEPT
-iptables -A INPUT -s 172.235.24.0/22 -j ACCEPT
-iptables -A INPUT -s 172.235.28.0/23 -j ACCEPT
-iptables -A INPUT -s 172.235.30.0/24 -j ACCEPT
-iptables -A INPUT -s 172.235.32.0/19 -j ACCEPT
+iptables -A INPUT -s 172.235.0.0/18 -j ACCEPT
 iptables -A INPUT -s 172.235.96.0/22 -j ACCEPT
 iptables -A INPUT -s 172.235.102.0/23 -j ACCEPT
 iptables -A INPUT -s 172.235.104.0/23 -j ACCEPT

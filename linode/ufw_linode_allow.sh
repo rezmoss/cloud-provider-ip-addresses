@@ -1,6 +1,6 @@
 #!/bin/bash
 # Linode IP Ranges
-# Updated: 2026-07-11 03:12:33
+# Updated: 2026-07-15 03:12:24
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -176,12 +176,7 @@ ufw allow from 172.234.16.0/20
 ufw allow from 172.234.32.0/19
 ufw allow from 172.234.64.0/18
 ufw allow from 172.234.128.0/17
-ufw allow from 172.235.0.0/20
-ufw allow from 172.235.16.0/21
-ufw allow from 172.235.24.0/22
-ufw allow from 172.235.28.0/23
-ufw allow from 172.235.30.0/24
-ufw allow from 172.235.32.0/19
+ufw allow from 172.235.0.0/18
 ufw allow from 172.235.96.0/22
 ufw allow from 172.235.102.0/23
 ufw allow from 172.235.104.0/23

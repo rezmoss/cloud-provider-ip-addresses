@@ -1,5 +1,5 @@
 # imperva IP ranges - ipset restore format (hash:net)
-# Version: 1 | Generated: 2026-07-14 | Last changed: 2026-07-12
+# Version: 1 | Generated: 2026-07-15 | Last changed: 2026-07-12
 # IPv4: 11 merged subnets, 261120 unique IPs
 # IPv6: 1 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses

@@ -2,6 +2,72 @@
 
 Daily IP range changes across all providers.
 
+## 2026-07-15
+
+### rackspace
+- Added: 1 CIDRs
+- Removed: 0 CIDRs
+
+### alibaba
+- Added: 10 CIDRs
+- Removed: 5 CIDRs
+
+### huawei
+- Added: 1 CIDRs
+- Removed: 0 CIDRs
+
+### backblaze
+- Added: 2 CIDRs
+- Removed: 0 CIDRs
+
+### meta
+- Added: 3 CIDRs
+- Removed: 0 CIDRs
+
+### googleservices
+- Added: 1 CIDRs
+- Removed: 0 CIDRs
+
+### gptbot
+- Added: 3 CIDRs
+- Removed: 3 CIDRs
+
+### linode
+- Added: 1 CIDRs
+- Removed: 0 CIDRs
+
+### gcore
+- Added: 8 CIDRs
+- Removed: 15 CIDRs
+
+### akamai
+- Added: 3 CIDRs
+- Removed: 2 CIDRs
+
+### mullvad
+- Added: 6 CIDRs
+- Removed: 0 CIDRs
+
+### aws
+- Added: 5 CIDRs
+- Removed: 0 CIDRs
+
+### leaseweb
+- Added: 0 CIDRs
+- Removed: 1 CIDRs
+
+### tor
+- Added: 13 CIDRs
+- Removed: 12 CIDRs
+
+### zoho
+- Added: 1 CIDRs
+- Removed: 2 CIDRs
+
+### ovhcloud
+- Added: 1 CIDRs
+- Removed: 3 CIDRs
+
 ## 2026-07-14
 
 ### googlecloud

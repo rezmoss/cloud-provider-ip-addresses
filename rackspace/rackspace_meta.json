@@ -1,23 +1,23 @@
 {
   "provider": "rackspace",
-  "version": 1,
-  "generated_date": "2026-07-14",
-  "last_changed_date": "2026-07-12",
+  "version": 2,
+  "generated_date": "2026-07-15",
+  "last_changed_date": "2026-07-15",
   "sources": [
     "BGP announced prefixes via RIPE NCC RIPEstat"
   ],
   "ipv4": {
-    "cidrs": 311,
-    "merged_cidrs": 183,
-    "addresses": 2286080
+    "cidrs": 312,
+    "merged_cidrs": 184,
+    "addresses": 2286336
   },
   "ipv6": {
     "cidrs": 14,
     "merged_cidrs": 9,
     "addresses": 871510996582727328158158159872
   },
-  "total_entries": 325,
-  "content_sha256": "3b5e07bf3339499022c742fd163b88c5a98b0fc8b16dc385b49a7a85c33cc6f6",
+  "total_entries": 326,
+  "content_sha256": "f6c91a247bea367a70ae47f6cfde9c4af48b07b73a512d571dc61bb51580b7f1",
   "license": "CC0-1.0",
   "license_url": "https://github.com/rezmoss/cloud-provider-ip-addresses/blob/main/LICENSE"
 }

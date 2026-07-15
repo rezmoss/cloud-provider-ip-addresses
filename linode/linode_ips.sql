@@ -3672,6 +3672,7 @@ INSERT INTO `linode_ips` (`ip_address`, `ip_type`) VALUES ('172.235.27.0/24', 'I
 INSERT INTO `linode_ips` (`ip_address`, `ip_type`) VALUES ('172.235.28.0/24', 'IPv4');
 INSERT INTO `linode_ips` (`ip_address`, `ip_type`) VALUES ('172.235.29.0/24', 'IPv4');
 INSERT INTO `linode_ips` (`ip_address`, `ip_type`) VALUES ('172.235.30.0/24', 'IPv4');
+INSERT INTO `linode_ips` (`ip_address`, `ip_type`) VALUES ('172.235.31.0/24', 'IPv4');
 INSERT INTO `linode_ips` (`ip_address`, `ip_type`) VALUES ('172.235.32.0/24', 'IPv4');
 INSERT INTO `linode_ips` (`ip_address`, `ip_type`) VALUES ('172.235.33.0/24', 'IPv4');
 INSERT INTO `linode_ips` (`ip_address`, `ip_type`) VALUES ('172.235.34.0/24', 'IPv4');

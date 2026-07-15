@@ -7,6 +7,7 @@ CREATE TABLE IF NOT EXISTS `rackspace_rackspace-as44716_ips` (
 );
 
 INSERT INTO `rackspace_rackspace-as44716_ips` (`ip_address`, `ip_type`) VALUES ('87.225.128.0/17', 'IPv4');
+INSERT INTO `rackspace_rackspace-as44716_ips` (`ip_address`, `ip_type`) VALUES ('194.39.184.0/24', 'IPv4');
 INSERT INTO `rackspace_rackspace-as44716_ips` (`ip_address`, `ip_type`) VALUES ('212.21.64.0/19', 'IPv4');
 INSERT INTO `rackspace_rackspace-as44716_ips` (`ip_address`, `ip_type`) VALUES ('212.42.224.0/19', 'IPv4');
 INSERT INTO `rackspace_rackspace-as44716_ips` (`ip_address`, `ip_type`) VALUES ('212.42.225.0/24', 'IPv4');

@@ -1500,6 +1500,12 @@
     "region": "global"
   },
   {
+    "ip_address": "200.226.0.0/16",
+    "ip_type": "IPv4",
+    "service": "google-services",
+    "region": "global"
+  },
+  {
     "ip_address": "207.223.160.0/20",
     "ip_type": "IPv4",
     "service": "google-services",

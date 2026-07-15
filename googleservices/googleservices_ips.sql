@@ -256,6 +256,7 @@ INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('199.192.112.
 INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('199.192.114.0/24', 'IPv4');
 INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('199.223.237.0/24', 'IPv4');
 INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('199.223.238.0/23', 'IPv4');
+INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('200.226.0.0/16', 'IPv4');
 INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('207.223.160.0/20', 'IPv4');
 INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('208.65.152.0/22', 'IPv4');
 INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('208.68.108.0/22', 'IPv4');

@@ -6,6 +6,12 @@
     "region": "global"
   },
   {
+    "ip_address": "194.39.184.0/24",
+    "ip_type": "IPv4",
+    "service": "rackspace-as44716",
+    "region": "global"
+  },
+  {
     "ip_address": "212.21.64.0/19",
     "ip_type": "IPv4",
     "service": "rackspace-as44716",

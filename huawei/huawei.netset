@@ -1,6 +1,6 @@
 # huawei IP ranges - ipset restore format (hash:net)
-# Version: 2 | Generated: 2026-07-14 | Last changed: 2026-07-14
-# IPv4: 185 merged subnets, 1145344 unique IPs
+# Version: 3 | Generated: 2026-07-15 | Last changed: 2026-07-15
+# IPv4: 186 merged subnets, 1145600 unique IPs
 # IPv6: 33 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
@@ -161,6 +161,7 @@ add huawei_v4 180.87.192.0/18
 add huawei_v4 182.160.0.0/19
 add huawei_v4 182.160.36.0/22
 add huawei_v4 182.160.43.0/24
+add huawei_v4 182.160.44.0/24
 add huawei_v4 182.160.51.0/24
 add huawei_v4 182.160.52.0/22
 add huawei_v4 182.160.56.0/21

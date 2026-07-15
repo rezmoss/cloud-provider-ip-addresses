@@ -1,5 +1,5 @@
 # applebot IP ranges - ipset restore format (hash:net)
-# Version: 1 | Generated: 2026-07-14 | Last changed: 2026-06-18
+# Version: 1 | Generated: 2026-07-15 | Last changed: 2026-06-18
 # IPv4: 12 merged subnets, 2400 unique IPs
 # IPv6: 0 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses

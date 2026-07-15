@@ -1,6 +1,6 @@
 #!/bin/bash
 # Gptbot IP Ranges
-# Updated: 2026-07-11 03:12:34
+# Updated: 2026-07-15 03:12:25
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -20,7 +20,7 @@ ufw allow from 4.197.64.48/28
 ufw allow from 4.197.64.64/28
 ufw allow from 4.197.115.112/28
 ufw allow from 4.198.72.16/28
-ufw allow from 4.201.232.64/28
+ufw allow from 4.201.232.64/27
 ufw allow from 4.205.128.176/28
 ufw allow from 4.226.226.32/28
 ufw allow from 4.227.36.0/25
@@ -90,7 +90,6 @@ ufw allow from 20.198.67.96/28
 ufw allow from 20.199.211.160/28
 ufw allow from 20.203.245.32/28
 ufw allow from 20.204.24.240/28
-ufw allow from 20.206.107.192/28
 ufw allow from 20.210.154.128/28
 ufw allow from 20.210.174.208/28
 ufw allow from 20.210.211.192/28
@@ -122,6 +121,7 @@ ufw allow from 23.102.141.32/28
 ufw allow from 40.67.175.0/25
 ufw allow from 40.67.183.160/27
 ufw allow from 40.75.14.224/28
+ufw allow from 40.78.161.48/28
 ufw allow from 40.81.134.128/27
 ufw allow from 40.81.234.144/28
 ufw allow from 40.84.181.32/28
@@ -139,6 +139,7 @@ ufw allow from 51.8.155.64/27
 ufw allow from 51.56.40.80/28
 ufw allow from 51.57.0.96/28
 ufw allow from 51.59.24.64/27
+ufw allow from 51.59.40.80/28
 ufw allow from 51.59.48.80/28
 ufw allow from 51.59.48.96/28
 ufw allow from 51.107.70.192/28
@@ -155,7 +156,6 @@ ufw allow from 52.165.212.16/28
 ufw allow from 52.165.212.32/27
 ufw allow from 52.172.129.160/28
 ufw allow from 52.172.251.112/28
-ufw allow from 52.173.123.0/28
 ufw allow from 52.173.219.96/27
 ufw allow from 52.173.221.16/28
 ufw allow from 52.173.221.176/28
@@ -272,7 +272,6 @@ ufw allow from 172.215.215.32/28
 ufw allow from 172.215.218.96/28
 ufw allow from 191.233.1.112/28
 ufw allow from 191.233.1.128/28
-ufw allow from 191.233.1.224/28
 ufw allow from 191.233.2.0/28
 ufw allow from 191.233.194.32/28
 ufw allow from 191.233.196.112/28
