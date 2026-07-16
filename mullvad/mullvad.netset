@@ -1,7 +1,7 @@
 # mullvad IP ranges - ipset restore format (hash:net)
-# Version: 9 | Generated: 2026-07-15 | Last changed: 2026-07-15
-# IPv4: 552 merged subnets, 579 unique IPs
-# IPv6: 569 merged subnets
+# Version: 10 | Generated: 2026-07-16 | Last changed: 2026-07-16
+# IPv4: 555 merged subnets, 582 unique IPs
+# IPv6: 572 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
 # Load with: sudo ipset restore -! < mullvad.netset
@@ -548,6 +548,9 @@ add mullvad_v4 194.114.136.34/32
 add mullvad_v4 194.114.136.65/32
 add mullvad_v4 194.114.136.96/32
 add mullvad_v4 194.126.179.3/32
+add mullvad_v4 194.127.166.2/32
+add mullvad_v4 194.127.166.81/32
+add mullvad_v4 194.127.166.161/32
 add mullvad_v4 194.127.167.67/32
 add mullvad_v4 194.127.167.87/32
 add mullvad_v4 194.127.167.107/32
@@ -1078,6 +1081,9 @@ add mullvad_v6 2a06:3040:22:620::f101/128
 add mullvad_v6 2a07:d880:2::a01f/128
 add mullvad_v6 2a07:d880:2::a02f/128
 add mullvad_v6 2a07:d880:2::a03f/128
+add mullvad_v6 2a07:d883:600:1::f001/128
+add mullvad_v6 2a07:d883:600:2::f001/128
+add mullvad_v6 2a07:d883:600:3::f001/128
 add mullvad_v6 2a07:d883:700:1::f001/128
 add mullvad_v6 2a07:d883:700:2::f001/128
 add mullvad_v6 2a07:d883:700:3::f001/128

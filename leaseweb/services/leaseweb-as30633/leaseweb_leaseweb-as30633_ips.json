@@ -408,12 +408,6 @@
     "region": "global"
   },
   {
-    "ip_address": "185.164.59.0/24",
-    "ip_type": "IPv4",
-    "service": "leaseweb-as30633",
-    "region": "global"
-  },
-  {
     "ip_address": "192.96.200.0/21",
     "ip_type": "IPv4",
     "service": "leaseweb-as30633",

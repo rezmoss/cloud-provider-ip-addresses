@@ -1,5 +1,5 @@
 # bunny IP ranges - ipset restore format (hash:net)
-# Version: 2 | Generated: 2026-07-15 | Last changed: 2026-07-14
+# Version: 2 | Generated: 2026-07-16 | Last changed: 2026-07-14
 # IPv4: 11 merged subnets, 4096 unique IPs
 # IPv6: 16 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses

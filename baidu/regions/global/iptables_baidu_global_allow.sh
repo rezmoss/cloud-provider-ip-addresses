@@ -1,6 +1,6 @@
 #!/bin/bash
 # Baidu IP Ranges
-# Updated: 2026-07-12 03:46:25
+# Updated: 2026-07-16 03:16:39
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -23,6 +23,7 @@ iptables -A INPUT -s 106.13.128.0/18 -j ACCEPT
 iptables -A INPUT -s 106.13.192.0/19 -j ACCEPT
 iptables -A INPUT -s 106.13.224.0/20 -j ACCEPT
 iptables -A INPUT -s 106.13.240.0/22 -j ACCEPT
+iptables -A INPUT -s 119.63.192.0/21 -j ACCEPT
 iptables -A INPUT -s 119.75.208.0/20 -j ACCEPT
 iptables -A INPUT -s 120.48.0.0/16 -j ACCEPT
 iptables -A INPUT -s 120.49.0.0/17 -j ACCEPT

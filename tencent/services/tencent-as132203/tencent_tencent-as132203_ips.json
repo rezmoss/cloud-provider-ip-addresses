@@ -1566,12 +1566,6 @@
     "region": "global"
   },
   {
-    "ip_address": "43.163.175.0/24",
-    "ip_type": "IPv4",
-    "service": "tencent-as132203",
-    "region": "global"
-  },
-  {
     "ip_address": "43.163.192.0/19",
     "ip_type": "IPv4",
     "service": "tencent-as132203",

@@ -575,6 +575,7 @@ ip_address,ip_type,service,region
 2600:1f01:48a0::/47,IPv6,AMAZON,us-west-1
 2600:1f01:48a0::/47,IPv6,GLOBALACCELERATOR,us-west-1
 2600:1f01:4904::/47,IPv6,AMAZON,us-west-1
+2600:1f01:4930::/47,IPv6,AMAZON,us-west-1
 2600:1f1c::/36,IPv6,AMAZON,us-west-1
 2600:1f1c::/36,IPv6,EC2,us-west-1
 2600:1f1c:12d:e900::/56,IPv6,EC2_INSTANCE_CONNECT,us-west-1

@@ -3456,6 +3456,12 @@
     "region": "us-west-1"
   },
   {
+    "ip_address": "2600:1f01:4930::/47",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-west-1"
+  },
+  {
     "ip_address": "2600:1f1c::/36",
     "ip_type": "IPv6",
     "service": "AMAZON",

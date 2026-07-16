@@ -16,6 +16,7 @@ INSERT INTO `baidu_baidu-as55967_ips` (`ip_address`, `ip_type`) VALUES ('103.235
 INSERT INTO `baidu_baidu-as55967_ips` (`ip_address`, `ip_type`) VALUES ('104.193.88.0/24', 'IPv4');
 INSERT INTO `baidu_baidu-as55967_ips` (`ip_address`, `ip_type`) VALUES ('104.193.89.0/24', 'IPv4');
 INSERT INTO `baidu_baidu-as55967_ips` (`ip_address`, `ip_type`) VALUES ('104.193.90.0/24', 'IPv4');
+INSERT INTO `baidu_baidu-as55967_ips` (`ip_address`, `ip_type`) VALUES ('119.63.192.0/21', 'IPv4');
 INSERT INTO `baidu_baidu-as55967_ips` (`ip_address`, `ip_type`) VALUES ('154.85.32.0/21', 'IPv4');
 INSERT INTO `baidu_baidu-as55967_ips` (`ip_address`, `ip_type`) VALUES ('154.85.33.0/24', 'IPv4');
 INSERT INTO `baidu_baidu-as55967_ips` (`ip_address`, `ip_type`) VALUES ('154.85.34.0/24', 'IPv4');

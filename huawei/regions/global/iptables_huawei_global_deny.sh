@@ -1,6 +1,6 @@
 #!/bin/bash
 # Huawei IP Ranges
-# Updated: 2026-07-15 03:17:44
+# Updated: 2026-07-16 03:16:30
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -62,7 +62,8 @@ iptables -A INPUT -s 87.119.17.0/24 -j DROP
 iptables -A INPUT -s 87.119.18.0/23 -j DROP
 iptables -A INPUT -s 87.119.32.0/23 -j DROP
 iptables -A INPUT -s 87.119.34.0/24 -j DROP
-iptables -A INPUT -s 89.150.192.0/18 -j DROP
+iptables -A INPUT -s 89.150.192.0/19 -j DROP
+iptables -A INPUT -s 89.150.240.0/20 -j DROP
 iptables -A INPUT -s 94.45.160.0/19 -j DROP
 iptables -A INPUT -s 94.74.64.0/18 -j DROP
 iptables -A INPUT -s 94.244.128.0/18 -j DROP
@@ -126,8 +127,8 @@ iptables -A INPUT -s 148.145.128.0/19 -j DROP
 iptables -A INPUT -s 148.145.160.0/20 -j DROP
 iptables -A INPUT -s 148.145.182.0/23 -j DROP
 iptables -A INPUT -s 148.145.192.0/19 -j DROP
-iptables -A INPUT -s 148.145.224.0/21 -j DROP
-iptables -A INPUT -s 148.145.232.0/22 -j DROP
+iptables -A INPUT -s 148.145.224.0/22 -j DROP
+iptables -A INPUT -s 148.145.234.0/23 -j DROP
 iptables -A INPUT -s 148.145.236.0/23 -j DROP
 iptables -A INPUT -s 148.145.240.0/23 -j DROP
 iptables -A INPUT -s 148.145.254.0/23 -j DROP
@@ -143,7 +144,11 @@ iptables -A INPUT -s 156.230.64.0/18 -j DROP
 iptables -A INPUT -s 156.232.16.0/20 -j DROP
 iptables -A INPUT -s 156.240.128.0/18 -j DROP
 iptables -A INPUT -s 156.253.16.0/20 -j DROP
-iptables -A INPUT -s 159.138.0.0/17 -j DROP
+iptables -A INPUT -s 159.138.0.0/18 -j DROP
+iptables -A INPUT -s 159.138.64.0/21 -j DROP
+iptables -A INPUT -s 159.138.76.0/22 -j DROP
+iptables -A INPUT -s 159.138.80.0/20 -j DROP
+iptables -A INPUT -s 159.138.96.0/19 -j DROP
 iptables -A INPUT -s 159.138.128.0/19 -j DROP
 iptables -A INPUT -s 159.138.160.0/20 -j DROP
 iptables -A INPUT -s 159.138.176.0/21 -j DROP

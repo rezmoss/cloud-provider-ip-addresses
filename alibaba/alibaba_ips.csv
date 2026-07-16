@@ -1301,7 +1301,6 @@ ip_address,ip_type,service,region
 47.240.0.0/16,IPv4,alibaba-as45102,global
 47.240.0.0/17,IPv4,alibaba-as45102,global
 47.240.128.0/17,IPv4,alibaba-as45102,global
-47.240.232.0/24,IPv4,alibaba-as45102,global
 47.241.0.0/16,IPv4,alibaba-as45102,global
 47.241.0.0/17,IPv4,alibaba-as45102,global
 47.241.128.0/17,IPv4,alibaba-as45102,global

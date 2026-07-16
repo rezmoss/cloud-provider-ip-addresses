@@ -1,6 +1,6 @@
 #!/bin/bash
 # Akamai IP Ranges
-# Updated: 2026-07-14 03:16:29
+# Updated: 2026-07-16 03:16:05
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -242,6 +242,7 @@ ufw allow from 23.32.160.0/20
 ufw allow from 23.32.188.0/22
 ufw allow from 23.32.192.0/20
 ufw allow from 23.32.208.0/22
+ufw allow from 23.32.242.0/23
 ufw allow from 23.32.250.0/23
 ufw allow from 23.32.252.0/22
 ufw allow from 23.33.34.0/23
@@ -375,6 +376,7 @@ ufw allow from 23.41.64.0/19
 ufw allow from 23.41.120.0/22
 ufw allow from 23.41.128.0/19
 ufw allow from 23.41.172.0/22
+ufw allow from 23.41.180.0/23
 ufw allow from 23.41.188.0/22
 ufw allow from 23.41.240.0/22
 ufw allow from 23.41.250.0/23
@@ -418,6 +420,7 @@ ufw allow from 23.45.8.0/22
 ufw allow from 23.45.24.0/21
 ufw allow from 23.45.32.0/22
 ufw allow from 23.45.72.0/22
+ufw allow from 23.45.96.0/20
 ufw allow from 23.45.132.0/22
 ufw allow from 23.45.136.0/21
 ufw allow from 23.45.144.0/22
@@ -428,6 +431,7 @@ ufw allow from 23.45.192.0/21
 ufw allow from 23.45.200.0/22
 ufw allow from 23.45.208.0/20
 ufw allow from 23.45.224.0/21
+ufw allow from 23.45.236.0/22
 ufw allow from 23.45.240.0/20
 ufw allow from 23.46.0.0/22
 ufw allow from 23.46.6.0/23
@@ -542,7 +546,6 @@ ufw allow from 23.52.224.0/19
 ufw allow from 23.53.52.0/22
 ufw allow from 23.53.56.0/21
 ufw allow from 23.53.64.0/20
-ufw allow from 23.53.112.0/22
 ufw allow from 23.53.128.0/19
 ufw allow from 23.53.168.0/21
 ufw allow from 23.53.176.0/20
@@ -584,7 +587,7 @@ ufw allow from 23.56.144.0/20
 ufw allow from 23.56.162.0/23
 ufw allow from 23.56.176.0/22
 ufw allow from 23.56.188.0/22
-ufw allow from 23.56.192.0/21
+ufw allow from 23.56.192.0/20
 ufw allow from 23.56.210.0/23
 ufw allow from 23.56.212.0/22
 ufw allow from 23.56.216.0/22
@@ -716,6 +719,7 @@ ufw allow from 23.66.204.0/22
 ufw allow from 23.66.208.0/20
 ufw allow from 23.66.224.0/22
 ufw allow from 23.67.16.0/20
+ufw allow from 23.67.128.0/20
 ufw allow from 23.67.160.0/20
 ufw allow from 23.74.6.0/23
 ufw allow from 23.75.64.0/22
@@ -822,7 +826,7 @@ ufw allow from 23.197.82.0/23
 ufw allow from 23.197.88.0/21
 ufw allow from 23.197.108.0/22
 ufw allow from 23.197.112.0/20
-ufw allow from 23.197.144.0/20
+ufw allow from 23.197.128.0/19
 ufw allow from 23.197.160.0/20
 ufw allow from 23.197.192.0/21
 ufw allow from 23.197.220.0/22
@@ -902,7 +906,7 @@ ufw allow from 23.203.136.0/22
 ufw allow from 23.203.176.0/20
 ufw allow from 23.203.192.0/19
 ufw allow from 23.203.224.0/20
-ufw allow from 23.203.240.0/21
+ufw allow from 23.203.240.0/22
 ufw allow from 23.203.250.0/23
 ufw allow from 23.204.0.0/18
 ufw allow from 23.204.76.0/22
@@ -948,8 +952,7 @@ ufw allow from 23.206.244.0/22
 ufw allow from 23.206.252.0/22
 ufw allow from 23.207.0.0/19
 ufw allow from 23.207.44.0/22
-ufw allow from 23.207.48.0/21
-ufw allow from 23.207.56.0/22
+ufw allow from 23.207.48.0/22
 ufw allow from 23.207.64.0/20
 ufw allow from 23.207.96.0/19
 ufw allow from 23.207.128.0/19
@@ -1005,7 +1008,6 @@ ufw allow from 23.211.96.0/21
 ufw allow from 23.211.128.0/22
 ufw allow from 23.211.144.0/20
 ufw allow from 23.211.160.0/20
-ufw allow from 23.211.184.0/22
 ufw allow from 23.211.196.0/22
 ufw allow from 23.211.204.0/22
 ufw allow from 23.211.212.0/22
@@ -1580,7 +1582,7 @@ ufw allow from 173.223.144.0/20
 ufw allow from 173.223.172.0/22
 ufw allow from 173.223.228.0/22
 ufw allow from 184.24.0.0/19
-ufw allow from 184.24.32.0/21
+ufw allow from 184.24.32.0/22
 ufw allow from 184.24.48.0/20
 ufw allow from 184.24.64.0/21
 ufw allow from 184.24.80.0/20
@@ -1604,7 +1606,6 @@ ufw allow from 184.25.120.0/23
 ufw allow from 184.25.124.0/23
 ufw allow from 184.25.128.0/20
 ufw allow from 184.25.158.0/23
-ufw allow from 184.25.164.0/22
 ufw allow from 184.25.168.0/23
 ufw allow from 184.25.188.0/22
 ufw allow from 184.25.192.0/21

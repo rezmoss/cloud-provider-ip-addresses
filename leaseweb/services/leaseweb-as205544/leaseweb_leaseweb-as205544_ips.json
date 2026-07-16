@@ -354,6 +354,12 @@
     "region": "global"
   },
   {
+    "ip_address": "212.24.127.0/24",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as205544",
+    "region": "global"
+  },
+  {
     "ip_address": "212.135.128.0/24",
     "ip_type": "IPv4",
     "service": "leaseweb-as205544",
