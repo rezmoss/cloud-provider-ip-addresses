@@ -1296,6 +1296,12 @@
     "region": "eu-west-1"
   },
   {
+    "ip_address": "45.33.182.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-west-1"
+  },
+  {
     "ip_address": "46.51.128.0/18",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -3151,6 +3157,12 @@
   },
   {
     "ip_address": "2600:1f01:4916::/47",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eu-west-1"
+  },
+  {
+    "ip_address": "2600:1f01:4934::/47",
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "eu-west-1"

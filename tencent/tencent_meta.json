@@ -1,13 +1,13 @@
 {
   "provider": "tencent",
-  "version": 8,
-  "generated_date": "2026-07-16",
-  "last_changed_date": "2026-07-16",
+  "version": 9,
+  "generated_date": "2026-07-17",
+  "last_changed_date": "2026-07-17",
   "sources": [
     "BGP announced prefixes via RIPE NCC RIPEstat"
   ],
   "ipv4": {
-    "cidrs": 3323,
+    "cidrs": 3324,
     "merged_cidrs": 235,
     "addresses": 8221696
   },
@@ -16,8 +16,8 @@
     "merged_cidrs": 18,
     "addresses": 99370075594863674273323548672
   },
-  "total_entries": 3396,
-  "content_sha256": "100f39adad210ba4b27dc63a4e90286cac8a4b7cdbedd5e3bbaf5a45a45b1cbf",
+  "total_entries": 3397,
+  "content_sha256": "84850b0fa4dcbc5ade732ea5803a170cafcda1689262e94f90a216de8d2b217e",
   "license": "CC0-1.0",
   "license_url": "https://github.com/rezmoss/cloud-provider-ip-addresses/blob/main/LICENSE"
 }

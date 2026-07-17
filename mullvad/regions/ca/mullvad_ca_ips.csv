@@ -31,8 +31,8 @@ ip_address,ip_type,service,region
 217.138.213.18/32,IPv4,mullvad-bridge,ca
 2606:9580:103:e::f001/128,IPv6,mullvad-wireguard,ca
 2606:9580:103:f::f001/128,IPv6,mullvad-wireguard,ca
-2606:9580:438:32::b01f/128,IPv6,mullvad-wireguard,ca
-2606:9580:438:64::b02f/128,IPv6,mullvad-wireguard,ca
+2606:9580:438:32::f001/128,IPv6,mullvad-wireguard,ca
+2606:9580:438:64::f001/128,IPv6,mullvad-wireguard,ca
 2607:9000:600:31::f001/128,IPv6,mullvad-wireguard,ca
 2607:9000:600:32::f001/128,IPv6,mullvad-wireguard,ca
 2607:9000:600:33::f001/128,IPv6,mullvad-wireguard,ca

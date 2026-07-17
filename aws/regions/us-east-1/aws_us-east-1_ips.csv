@@ -1149,6 +1149,8 @@ ip_address,ip_type,service,region
 104.255.56.66/32,IPv4,AMAZON,us-east-1
 104.255.56.67/32,IPv4,AMAZON,us-east-1
 104.255.56.68/32,IPv4,AMAZON,us-east-1
+104.255.56.69/32,IPv4,AMAZON,us-east-1
+104.255.56.70/32,IPv4,AMAZON,us-east-1
 107.20.0.0/14,IPv4,AMAZON,us-east-1
 107.20.0.0/14,IPv4,EC2,us-east-1
 107.23.255.0/26,IPv4,ROUTE53_HEALTHCHECKS,us-east-1

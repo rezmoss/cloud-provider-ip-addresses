@@ -798,6 +798,8 @@ INSERT INTO `gcore_ips` (`ip_address`, `ip_type`) VALUES ('103.103.194.23/32', '
 INSERT INTO `gcore_ips` (`ip_address`, `ip_type`) VALUES ('103.151.135.4/32', 'IPv4');
 INSERT INTO `gcore_ips` (`ip_address`, `ip_type`) VALUES ('103.151.135.5/32', 'IPv4');
 INSERT INTO `gcore_ips` (`ip_address`, `ip_type`) VALUES ('103.151.135.6/32', 'IPv4');
+INSERT INTO `gcore_ips` (`ip_address`, `ip_type`) VALUES ('105.235.250.129/32', 'IPv4');
+INSERT INTO `gcore_ips` (`ip_address`, `ip_type`) VALUES ('105.235.250.131/32', 'IPv4');
 INSERT INTO `gcore_ips` (`ip_address`, `ip_type`) VALUES ('109.61.39.50/32', 'IPv4');
 INSERT INTO `gcore_ips` (`ip_address`, `ip_type`) VALUES ('109.61.39.82/32', 'IPv4');
 INSERT INTO `gcore_ips` (`ip_address`, `ip_type`) VALUES ('109.61.39.85/32', 'IPv4');

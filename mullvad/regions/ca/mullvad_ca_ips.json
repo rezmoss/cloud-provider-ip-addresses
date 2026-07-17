@@ -192,13 +192,13 @@
     "region": "ca"
   },
   {
-    "ip_address": "2606:9580:438:32::b01f/128",
+    "ip_address": "2606:9580:438:32::f001/128",
     "ip_type": "IPv6",
     "service": "mullvad-wireguard",
     "region": "ca"
   },
   {
-    "ip_address": "2606:9580:438:64::b02f/128",
+    "ip_address": "2606:9580:438:64::f001/128",
     "ip_type": "IPv6",
     "service": "mullvad-wireguard",
     "region": "ca"

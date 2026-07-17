@@ -379,6 +379,7 @@ ip_address,ip_type,service,region
 2600:1f01:4800::/47,IPv6,AMAZON,ap-south-1
 2600:1f01:4800::/47,IPv6,GLOBALACCELERATOR,ap-south-1
 2600:1f01:4912::/47,IPv6,AMAZON,ap-south-1
+2600:1f01:4936::/47,IPv6,AMAZON,ap-south-1
 2600:1ffd:8285::/48,IPv6,AMAZON,ap-south-1
 2600:1ffd:8285::/48,IPv6,EC2,ap-south-1
 2600:1ffd:82be::/48,IPv6,AMAZON,ap-south-1

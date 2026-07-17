@@ -215,6 +215,7 @@ ip_address,ip_type,service,region
 35.71.72.0/22,IPv4,EC2,eu-west-1
 40.180.0.0/15,IPv4,AMAZON,eu-west-1
 45.33.172.0/24,IPv4,AMAZON,eu-west-1
+45.33.182.0/24,IPv4,AMAZON,eu-west-1
 46.51.128.0/18,IPv4,AMAZON,eu-west-1
 46.51.128.0/18,IPv4,EC2,eu-west-1
 46.51.192.0/20,IPv4,AMAZON,eu-west-1
@@ -525,6 +526,7 @@ ip_address,ip_type,service,region
 2600:1f01:4820::/47,IPv6,GLOBALACCELERATOR,eu-west-1
 2600:1f01:4822::/56,IPv6,AMAZON,eu-west-1
 2600:1f01:4916::/47,IPv6,AMAZON,eu-west-1
+2600:1f01:4934::/47,IPv6,AMAZON,eu-west-1
 2600:1ffd:838e::/48,IPv6,AMAZON,eu-west-1
 2600:1ffd:838e::/48,IPv6,EC2,eu-west-1
 2600:1ffd:83ad::/48,IPv6,AMAZON,eu-west-1

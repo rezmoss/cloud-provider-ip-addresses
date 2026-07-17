@@ -1901,7 +1901,7 @@ ip_address,ip_type,service,region
 2a0f:2700:1::/48,IPv6,leaseweb-as60781,global
 2a0f:2700:2::/48,IPv6,leaseweb-as60781,global
 2a0f:2705::/32,IPv6,leaseweb-as60781,global
-2a0f:2707::/32,IPv6,leaseweb-as27411,global
+2a0f:2707::/32,IPv6,leaseweb-as60781,global
 2a0f:2840::/29,IPv6,leaseweb-as205544,global
 2a0f:2940::/29,IPv6,leaseweb-as205544,global
 2a0f:2a40::/29,IPv6,leaseweb-as205544,global
@@ -1941,7 +1941,7 @@ ip_address,ip_type,service,region
 2a0f:e1c7:44::/48,IPv6,leaseweb-as60781,global
 2a0f:e200::/48,IPv6,leaseweb-as60781,global
 2a0f:e200:33::/48,IPv6,leaseweb-as60781,global
-2a0f:e204::/32,IPv6,leaseweb-as27411,global
+2a0f:e204::/32,IPv6,leaseweb-as60781,global
 2a0f:e440::/29,IPv6,leaseweb-as205544,global
 2a0f:e600::/29,IPv6,leaseweb-as60781,global
 2a0f:e6c2:10::/48,IPv6,leaseweb-as60781,global
@@ -1992,8 +1992,8 @@ ip_address,ip_type,service,region
 2a12:fd00::/36,IPv6,leaseweb-as60781,global
 2a13:d40:1::/48,IPv6,leaseweb-as60781,global
 2a13:d40:2::/48,IPv6,leaseweb-as60781,global
-2a13:d45::/32,IPv6,leaseweb-as27411,global
-2a13:d46::/32,IPv6,leaseweb-as27411,global
+2a13:d45::/32,IPv6,leaseweb-as60781,global
+2a13:d46::/32,IPv6,leaseweb-as60781,global
 2a13:1380::/29,IPv6,leaseweb-as28753,global
 2a13:18c0:1::/48,IPv6,leaseweb-as30633,global
 2a13:18c6:a::/48,IPv6,leaseweb-as60781,global
@@ -2018,7 +2018,7 @@ ip_address,ip_type,service,region
 2a13:c900:44::/48,IPv6,leaseweb-as30633,global
 2a13:c905::/32,IPv6,leaseweb-as60781,global
 2a13:c906::/32,IPv6,leaseweb-as60781,global
-2a13:c907::/32,IPv6,leaseweb-as27411,global
+2a13:c907::/32,IPv6,leaseweb-as60781,global
 2a13:d100::/29,IPv6,leaseweb-as28753,global
 2a13:d700::/29,IPv6,leaseweb-as28753,global
 2a13:d900::/29,IPv6,leaseweb-as28753,global

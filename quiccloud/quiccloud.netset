@@ -1,5 +1,5 @@
 # quiccloud IP ranges - ipset restore format (hash:net)
-# Version: 1 | Generated: 2026-07-16 | Last changed: 2026-07-12
+# Version: 1 | Generated: 2026-07-17 | Last changed: 2026-07-12
 # IPv4: 153 merged subnets, 153 unique IPs
 # IPv6: 0 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses

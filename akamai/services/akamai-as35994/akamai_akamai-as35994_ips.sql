@@ -10,7 +10,6 @@ INSERT INTO `akamai_akamai-as35994_ips` (`ip_address`, `ip_type`) VALUES ('23.1.
 INSERT INTO `akamai_akamai-as35994_ips` (`ip_address`, `ip_type`) VALUES ('23.2.12.0/24', 'IPv4');
 INSERT INTO `akamai_akamai-as35994_ips` (`ip_address`, `ip_type`) VALUES ('23.14.128.0/24', 'IPv4');
 INSERT INTO `akamai_akamai-as35994_ips` (`ip_address`, `ip_type`) VALUES ('23.32.2.0/24', 'IPv4');
-INSERT INTO `akamai_akamai-as35994_ips` (`ip_address`, `ip_type`) VALUES ('23.32.4.0/24', 'IPv4');
 INSERT INTO `akamai_akamai-as35994_ips` (`ip_address`, `ip_type`) VALUES ('23.32.18.0/23', 'IPv4');
 INSERT INTO `akamai_akamai-as35994_ips` (`ip_address`, `ip_type`) VALUES ('23.32.36.0/24', 'IPv4');
 INSERT INTO `akamai_akamai-as35994_ips` (`ip_address`, `ip_type`) VALUES ('23.32.37.0/24', 'IPv4');

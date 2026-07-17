@@ -2280,6 +2280,12 @@
     "region": "ap-south-1"
   },
   {
+    "ip_address": "2600:1f01:4936::/47",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-south-1"
+  },
+  {
     "ip_address": "2600:1ffd:8285::/48",
     "ip_type": "IPv6",
     "service": "AMAZON",

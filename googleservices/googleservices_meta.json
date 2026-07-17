@@ -1,7 +1,7 @@
 {
   "provider": "googleservices",
   "version": 3,
-  "generated_date": "2026-07-16",
+  "generated_date": "2026-07-17",
   "last_changed_date": "2026-07-15",
   "sources": [
     "https://www.gstatic.com/ipranges/goog.json",

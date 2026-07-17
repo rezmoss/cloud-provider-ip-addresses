@@ -697,8 +697,8 @@ INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('2604:e8c0:7::b68f/1
 INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('2604:e8c0:7::f001/128', 'IPv6');
 INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('2606:9580:103:e::f001/128', 'IPv6');
 INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('2606:9580:103:f::f001/128', 'IPv6');
-INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('2606:9580:438:32::b01f/128', 'IPv6');
-INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('2606:9580:438:64::b02f/128', 'IPv6');
+INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('2606:9580:438:32::f001/128', 'IPv6');
+INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('2606:9580:438:64::f001/128', 'IPv6');
 INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('2607:9000:0:101::f001/128', 'IPv6');
 INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('2607:9000:0:102::f001/128', 'IPv6');
 INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('2607:9000:0:103::f001/128', 'IPv6');
