@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "48.219.212.72/29",
+    "ip_type": "IPv4",
+    "service": "StorageSyncService.SouthwestUS",
+    "region": "southwestus"
+  },
+  {
+    "ip_address": "48.219.232.48/29",
+    "ip_type": "IPv4",
+    "service": "StorageSyncService.SouthwestUS",
+    "region": "southwestus"
+  },
+  {
+    "ip_address": "2603:1030:1202:4::80/123",
+    "ip_type": "IPv6",
+    "service": "StorageSyncService.SouthwestUS",
+    "region": "southwestus"
+  },
+  {
+    "ip_address": "2603:1030:1202:400::120/123",
+    "ip_type": "IPv6",
+    "service": "StorageSyncService.SouthwestUS",
+    "region": "southwestus"
+  }
+]

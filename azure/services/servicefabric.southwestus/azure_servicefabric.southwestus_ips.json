@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "48.219.232.12/30",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.SouthwestUS",
+    "region": "southwestus"
+  },
+  {
+    "ip_address": "2603:1030:1202:400::18/125",
+    "ip_type": "IPv6",
+    "service": "ServiceFabric.SouthwestUS",
+    "region": "southwestus"
+  }
+]

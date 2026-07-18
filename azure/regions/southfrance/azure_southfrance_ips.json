@@ -1710,6 +1710,12 @@
     "region": "southfrance"
   },
   {
+    "ip_address": "98.66.37.192/27",
+    "ip_type": "IPv4",
+    "service": "Dynamics365ForMarketingEmail.FranceSouth",
+    "region": "southfrance"
+  },
+  {
     "ip_address": "151.206.168.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.southfrance",

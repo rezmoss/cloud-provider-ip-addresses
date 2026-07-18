@@ -1,0 +1,3 @@
+ip_address,ip_type,service,region
+48.219.193.128/25,IPv4,AzureEventGrid.SouthwestUS,southwestus
+2603:1030:1202::280/121,IPv6,AzureEventGrid.SouthwestUS,southwestus

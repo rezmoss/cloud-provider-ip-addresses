@@ -1,0 +1,11 @@
+ip_address,ip_type,service,region
+20.153.39.0/24,IPv4,Storage.SoutheastUS5,southeastus5
+20.153.60.0/24,IPv4,Storage.SoutheastUS5,southeastus5
+20.153.62.0/24,IPv4,Storage.SoutheastUS5,southeastus5
+20.153.93.0/24,IPv4,Storage.SoutheastUS5,southeastus5
+57.150.246.0/23,IPv4,Storage.SoutheastUS5,southeastus5
+57.150.248.0/24,IPv4,Storage.SoutheastUS5,southeastus5
+135.130.8.0/23,IPv4,Storage.SoutheastUS5,southeastus5
+135.130.14.0/23,IPv4,Storage.SoutheastUS5,southeastus5
+135.130.76.0/23,IPv4,Storage.SoutheastUS5,southeastus5
+2603:1030:1503::/48,IPv6,Storage.SoutheastUS5,southeastus5

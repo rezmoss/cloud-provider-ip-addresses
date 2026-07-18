@@ -404,6 +404,7 @@ ip_address,ip_type,service,region
 2600:1f01:4870::/47,IPv6,AMAZON,eu-west-2
 2600:1f01:4870::/47,IPv6,GLOBALACCELERATOR,eu-west-2
 2600:1f01:491c::/47,IPv6,AMAZON,eu-west-2
+2600:1f01:493a::/47,IPv6,AMAZON,eu-west-2
 2600:1ffd:8492::/48,IPv6,AMAZON,eu-west-2
 2600:1ffd:8492::/48,IPv6,EC2,eu-west-2
 2600:1ffd:84af::/48,IPv6,AMAZON,eu-west-2

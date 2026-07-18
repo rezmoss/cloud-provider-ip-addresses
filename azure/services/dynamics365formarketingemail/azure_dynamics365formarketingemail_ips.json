@@ -18,6 +18,24 @@
     "region": ""
   },
   {
+    "ip_address": "4.243.180.160/27",
+    "ip_type": "IPv4",
+    "service": "Dynamics365ForMarketingEmail",
+    "region": ""
+  },
+  {
+    "ip_address": "4.247.39.32/27",
+    "ip_type": "IPv4",
+    "service": "Dynamics365ForMarketingEmail",
+    "region": ""
+  },
+  {
+    "ip_address": "9.235.245.32/27",
+    "ip_type": "IPv4",
+    "service": "Dynamics365ForMarketingEmail",
+    "region": ""
+  },
+  {
     "ip_address": "13.66.138.128/25",
     "ip_type": "IPv4",
     "service": "Dynamics365ForMarketingEmail",
@@ -90,6 +108,12 @@
     "region": ""
   },
   {
+    "ip_address": "51.56.214.0/27",
+    "ip_type": "IPv4",
+    "service": "Dynamics365ForMarketingEmail",
+    "region": ""
+  },
+  {
     "ip_address": "51.107.129.64/27",
     "ip_type": "IPv4",
     "service": "Dynamics365ForMarketingEmail",
@@ -108,7 +132,61 @@
     "region": ""
   },
   {
+    "ip_address": "57.160.28.160/27",
+    "ip_type": "IPv4",
+    "service": "Dynamics365ForMarketingEmail",
+    "region": ""
+  },
+  {
+    "ip_address": "57.168.255.32/27",
+    "ip_type": "IPv4",
+    "service": "Dynamics365ForMarketingEmail",
+    "region": ""
+  },
+  {
     "ip_address": "65.52.252.128/27",
+    "ip_type": "IPv4",
+    "service": "Dynamics365ForMarketingEmail",
+    "region": ""
+  },
+  {
+    "ip_address": "74.146.24.32/27",
+    "ip_type": "IPv4",
+    "service": "Dynamics365ForMarketingEmail",
+    "region": ""
+  },
+  {
+    "ip_address": "74.150.12.64/27",
+    "ip_type": "IPv4",
+    "service": "Dynamics365ForMarketingEmail",
+    "region": ""
+  },
+  {
+    "ip_address": "74.153.1.160/27",
+    "ip_type": "IPv4",
+    "service": "Dynamics365ForMarketingEmail",
+    "region": ""
+  },
+  {
+    "ip_address": "74.160.11.224/27",
+    "ip_type": "IPv4",
+    "service": "Dynamics365ForMarketingEmail",
+    "region": ""
+  },
+  {
+    "ip_address": "74.240.14.64/27",
+    "ip_type": "IPv4",
+    "service": "Dynamics365ForMarketingEmail",
+    "region": ""
+  },
+  {
+    "ip_address": "98.66.37.192/27",
+    "ip_type": "IPv4",
+    "service": "Dynamics365ForMarketingEmail",
+    "region": ""
+  },
+  {
+    "ip_address": "98.67.21.224/27",
     "ip_type": "IPv4",
     "service": "Dynamics365ForMarketingEmail",
     "region": ""
@@ -121,6 +199,30 @@
   },
   {
     "ip_address": "104.211.80.0/24",
+    "ip_type": "IPv4",
+    "service": "Dynamics365ForMarketingEmail",
+    "region": ""
+  },
+  {
+    "ip_address": "145.191.155.192/27",
+    "ip_type": "IPv4",
+    "service": "Dynamics365ForMarketingEmail",
+    "region": ""
+  },
+  {
+    "ip_address": "172.186.142.160/27",
+    "ip_type": "IPv4",
+    "service": "Dynamics365ForMarketingEmail",
+    "region": ""
+  },
+  {
+    "ip_address": "172.192.223.224/27",
+    "ip_type": "IPv4",
+    "service": "Dynamics365ForMarketingEmail",
+    "region": ""
+  },
+  {
+    "ip_address": "172.196.116.96/27",
     "ip_type": "IPv4",
     "service": "Dynamics365ForMarketingEmail",
     "region": ""

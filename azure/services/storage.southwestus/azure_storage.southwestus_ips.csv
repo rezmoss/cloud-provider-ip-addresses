@@ -1,0 +1,9 @@
+ip_address,ip_type,service,region
+20.153.11.0/24,IPv4,Storage.SouthwestUS,southwestus
+20.153.45.0/24,IPv4,Storage.SouthwestUS,southwestus
+57.150.174.0/23,IPv4,Storage.SouthwestUS,southwestus
+57.150.176.0/24,IPv4,Storage.SouthwestUS,southwestus
+57.150.254.0/23,IPv4,Storage.SouthwestUS,southwestus
+135.130.210.0/23,IPv4,Storage.SouthwestUS,southwestus
+145.190.146.0/23,IPv4,Storage.SouthwestUS,southwestus
+2603:1030:1203::/48,IPv6,Storage.SouthwestUS,southwestus

@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "48.219.196.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.SouthwestUS",
+    "region": "southwestus"
+  },
+  {
+    "ip_address": "48.219.209.192/28",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.SouthwestUS",
+    "region": "southwestus"
+  },
+  {
+    "ip_address": "2603:1030:1202::600/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.SouthwestUS",
+    "region": "southwestus"
+  }
+]

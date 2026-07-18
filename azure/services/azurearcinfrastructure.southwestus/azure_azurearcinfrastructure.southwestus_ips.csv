@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+48.219.203.208/30,IPv4,AzureArcInfrastructure.SouthwestUS,southwestus
+48.219.217.192/32,IPv4,AzureArcInfrastructure.SouthwestUS,southwestus
+48.219.232.56/32,IPv4,AzureArcInfrastructure.SouthwestUS,southwestus
+2603:1030:1202:2::20/124,IPv6,AzureArcInfrastructure.SouthwestUS,southwestus

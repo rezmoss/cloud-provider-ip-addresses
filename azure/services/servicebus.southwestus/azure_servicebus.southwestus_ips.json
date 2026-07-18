@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "48.219.198.0/25",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.SouthwestUS",
+    "region": "southwestus"
+  },
+  {
+    "ip_address": "48.219.232.16/29",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.SouthwestUS",
+    "region": "southwestus"
+  },
+  {
+    "ip_address": "48.219.232.32/28",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.SouthwestUS",
+    "region": "southwestus"
+  },
+  {
+    "ip_address": "2603:1030:1202::780/121",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.SouthwestUS",
+    "region": "southwestus"
+  }
+]

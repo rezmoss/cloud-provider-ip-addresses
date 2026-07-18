@@ -1,0 +1,74 @@
+[
+  {
+    "ip_address": "48.219.203.242/31",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SouthwestUS",
+    "region": "southwestus"
+  },
+  {
+    "ip_address": "48.219.205.208/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SouthwestUS",
+    "region": "southwestus"
+  },
+  {
+    "ip_address": "48.219.205.216/30",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SouthwestUS",
+    "region": "southwestus"
+  },
+  {
+    "ip_address": "48.219.208.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SouthwestUS",
+    "region": "southwestus"
+  },
+  {
+    "ip_address": "48.219.210.0/30",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SouthwestUS",
+    "region": "southwestus"
+  },
+  {
+    "ip_address": "48.219.221.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SouthwestUS",
+    "region": "southwestus"
+  },
+  {
+    "ip_address": "48.219.236.48/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SouthwestUS",
+    "region": "southwestus"
+  },
+  {
+    "ip_address": "48.219.236.96/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SouthwestUS",
+    "region": "southwestus"
+  },
+  {
+    "ip_address": "2603:1030:1202:2::480/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SouthwestUS",
+    "region": "southwestus"
+  },
+  {
+    "ip_address": "2603:1030:1202:2::500/120",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SouthwestUS",
+    "region": "southwestus"
+  },
+  {
+    "ip_address": "2603:1030:1202:5::400/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SouthwestUS",
+    "region": "southwestus"
+  },
+  {
+    "ip_address": "2603:1030:1202:6::/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SouthwestUS",
+    "region": "southwestus"
+  }
+]

@@ -1,0 +1,6 @@
+ip_address,ip_type,service,region
+48.219.199.24/30,IPv4,AzureKeyVault.SouthwestUS,southwestus
+48.219.211.208/29,IPv4,AzureKeyVault.SouthwestUS,southwestus
+48.219.232.60/30,IPv4,AzureKeyVault.SouthwestUS,southwestus
+2603:1030:1202:1::1c8/125,IPv6,AzureKeyVault.SouthwestUS,southwestus
+2603:1030:1202:400::48/125,IPv6,AzureKeyVault.SouthwestUS,southwestus

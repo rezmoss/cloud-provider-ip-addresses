@@ -641,6 +641,8 @@ INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('135.233.95.96
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('135.233.95.208/28', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('145.132.126.160/27', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('145.132.193.64/27', 'IPv4');
+INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('150.171.113.0/24', 'IPv4');
+INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('150.171.114.0/23', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('158.23.109.128/31', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('158.23.109.132/30', 'IPv4');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('158.23.109.136/29', 'IPv4');

@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+74.7.194.64/28,IPv4,LogicApps.SoutheastUS5,southeastus5
+74.7.194.96/27,IPv4,LogicApps.SoutheastUS5,southeastus5
+2603:1030:1502:3::110/124,IPv6,LogicApps.SoutheastUS5,southeastus5
+2603:1030:1502:3::200/123,IPv6,LogicApps.SoutheastUS5,southeastus5

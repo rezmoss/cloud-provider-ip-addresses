@@ -1,0 +1,6 @@
+ip_address,ip_type,service,region
+48.219.203.240/31,IPv4,PowerBI.SouthwestUS,southwestus
+48.219.203.244/30,IPv4,PowerBI.SouthwestUS,southwestus
+48.219.203.248/29,IPv4,PowerBI.SouthwestUS,southwestus
+2603:1030:1202:2::1a0/123,IPv6,PowerBI.SouthwestUS,southwestus
+2603:1030:1202:2::300/122,IPv6,PowerBI.SouthwestUS,southwestus

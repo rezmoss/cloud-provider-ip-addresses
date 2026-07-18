@@ -3810,6 +3810,18 @@
     "region": ""
   },
   {
+    "ip_address": "150.171.113.0/24",
+    "ip_type": "IPv4",
+    "service": "PowerBI",
+    "region": ""
+  },
+  {
+    "ip_address": "150.171.114.0/23",
+    "ip_type": "IPv4",
+    "service": "PowerBI",
+    "region": ""
+  },
+  {
     "ip_address": "158.23.109.128/31",
     "ip_type": "IPv4",
     "service": "PowerBI",

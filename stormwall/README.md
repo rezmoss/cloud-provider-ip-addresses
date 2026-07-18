@@ -1,6 +1,6 @@
 # StormWall IP Ranges (Auto-Updated Daily)
 
-> Last updated: **2026-07-17** · Total CIDRs: **24** · IPv4: **16** · IPv6: **8** · Services: **1** · Regions: **1**
+> Last updated: **2026-07-18** · Total CIDRs: **24** · IPv4: **16** · IPv6: **8** · Services: **1** · Regions: **1**
 
 Machine-readable, daily-updated, validated public IP ranges for **StormWall**.
 Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and Apache.

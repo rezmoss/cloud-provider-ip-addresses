@@ -882,6 +882,12 @@
     "region": "malaysiawest"
   },
   {
+    "ip_address": "52.123.94.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.malaysiawest",
+    "region": "malaysiawest"
+  },
+  {
     "ip_address": "57.150.94.0/23",
     "ip_type": "IPv4",
     "service": "AzureCloud.malaysiawest",

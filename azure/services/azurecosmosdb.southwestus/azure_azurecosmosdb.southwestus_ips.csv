@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+48.219.195.0/26,IPv4,AzureCosmosDB.SouthwestUS,southwestus
+48.219.209.160/27,IPv4,AzureCosmosDB.SouthwestUS,southwestus
+2603:1030:1202::1e0/123,IPv6,AzureCosmosDB.SouthwestUS,southwestus

@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "48.219.232.0/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry.SouthwestUS",
+    "region": "southwestus"
+  },
+  {
+    "ip_address": "2603:1030:1202:400::/125",
+    "ip_type": "IPv6",
+    "service": "MicrosoftContainerRegistry.SouthwestUS",
+    "region": "southwestus"
+  }
+]

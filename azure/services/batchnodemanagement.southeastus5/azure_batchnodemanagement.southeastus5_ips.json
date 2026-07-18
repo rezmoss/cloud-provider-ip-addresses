@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "74.7.178.0/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.SoutheastUS5",
+    "region": "southeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1502::500/122",
+    "ip_type": "IPv6",
+    "service": "BatchNodeManagement.SoutheastUS5",
+    "region": "southeastus5"
+  }
+]

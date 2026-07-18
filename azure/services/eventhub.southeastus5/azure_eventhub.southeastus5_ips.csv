@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+74.7.182.0/24,IPv4,EventHub.SoutheastUS5,southeastus5
+74.7.216.128/26,IPv4,EventHub.SoutheastUS5,southeastus5
+2603:1030:1502:1::200/120,IPv6,EventHub.SoutheastUS5,southeastus5

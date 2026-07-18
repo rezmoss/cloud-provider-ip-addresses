@@ -1626,6 +1626,12 @@
     "region": "germanyn"
   },
   {
+    "ip_address": "98.67.21.224/27",
+    "ip_type": "IPv4",
+    "service": "Dynamics365ForMarketingEmail.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
     "ip_address": "98.67.64.0/21",
     "ip_type": "IPv4",
     "service": "AzureCloud.germanyn",

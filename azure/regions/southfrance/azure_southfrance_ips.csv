@@ -284,6 +284,7 @@ ip_address,ip_type,service,region
 98.66.23.192/26,IPv4,AzureIoTHub.FranceSouth,southfrance
 98.66.25.0/25,IPv4,AzureIoTHub.FranceSouth,southfrance
 98.66.30.160/27,IPv4,AzureMonitor.FranceSouth,southfrance
+98.66.37.192/27,IPv4,Dynamics365ForMarketingEmail.FranceSouth,southfrance
 151.206.168.0/24,IPv4,AzureCloud.southfrance,southfrance
 151.206.194.0/24,IPv4,AzureCloud.southfrance,southfrance
 2603:1020:900::/47,IPv6,AzureCloud.southfrance,southfrance

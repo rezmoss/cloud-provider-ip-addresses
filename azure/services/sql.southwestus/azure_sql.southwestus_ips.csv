@@ -1,0 +1,8 @@
+ip_address,ip_type,service,region
+48.219.208.96/27,IPv4,Sql.SouthwestUS,southwestus
+48.219.208.128/26,IPv4,Sql.SouthwestUS,southwestus
+48.219.210.32/27,IPv4,Sql.SouthwestUS,southwestus
+48.219.234.136/29,IPv4,Sql.SouthwestUS,southwestus
+48.219.234.160/27,IPv4,Sql.SouthwestUS,southwestus
+2603:1030:1202:2::620/123,IPv6,Sql.SouthwestUS,southwestus
+2603:1030:1202:2::680/121,IPv6,Sql.SouthwestUS,southwestus

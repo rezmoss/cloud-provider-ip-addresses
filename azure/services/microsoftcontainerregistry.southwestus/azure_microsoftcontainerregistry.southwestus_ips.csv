@@ -1,0 +1,3 @@
+ip_address,ip_type,service,region
+48.219.232.0/29,IPv4,MicrosoftContainerRegistry.SouthwestUS,southwestus
+2603:1030:1202:400::/125,IPv6,MicrosoftContainerRegistry.SouthwestUS,southwestus

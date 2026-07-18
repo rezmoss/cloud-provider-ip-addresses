@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+48.219.212.72/29,IPv4,StorageSyncService.SouthwestUS,southwestus
+48.219.232.48/29,IPv4,StorageSyncService.SouthwestUS,southwestus
+2603:1030:1202:4::80/123,IPv6,StorageSyncService.SouthwestUS,southwestus
+2603:1030:1202:400::120/123,IPv6,StorageSyncService.SouthwestUS,southwestus

@@ -538,6 +538,7 @@ ip_address,ip_type,service,region
 51.56.168.0/26,IPv4,AzureContainerRegistry.AustraliaEast,australiaeast
 51.56.204.64/28,IPv4,AzureMonitor.AustraliaEast,australiaeast
 51.56.204.128/25,IPv4,AzureMonitor.AustraliaEast,australiaeast
+51.56.214.0/27,IPv4,Dynamics365ForMarketingEmail.AustraliaEast,australiaeast
 52.101.149.0/24,IPv4,AzureCloud.australiaeast,australiaeast
 52.101.150.0/24,IPv4,AzureCloud.australiaeast,australiaeast
 52.102.200.0/24,IPv4,AzureCloud.australiaeast,australiaeast

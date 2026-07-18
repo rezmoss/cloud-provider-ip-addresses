@@ -150,6 +150,30 @@
     "region": "global"
   },
   {
+    "ip_address": "2605:72c0:100::/48",
+    "ip_type": "IPv6",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "2605:72c0:103::/48",
+    "ip_type": "IPv6",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "2605:72c0:104::/48",
+    "ip_type": "IPv6",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "2605:72c0:105::/48",
+    "ip_type": "IPv6",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
     "ip_address": "2605:72c0:1fc::/48",
     "ip_type": "IPv6",
     "service": "backblaze-as40401",
@@ -175,6 +199,30 @@
   },
   {
     "ip_address": "2605:72c0:200::/45",
+    "ip_type": "IPv6",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "2605:72c0:200::/48",
+    "ip_type": "IPv6",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "2605:72c0:203::/48",
+    "ip_type": "IPv6",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "2605:72c0:205::/48",
+    "ip_type": "IPv6",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "2605:72c0:207::/48",
     "ip_type": "IPv6",
     "service": "backblaze-as40401",
     "region": "global"
@@ -228,6 +276,30 @@
     "region": "global"
   },
   {
+    "ip_address": "2605:72c0:400::/48",
+    "ip_type": "IPv6",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "2605:72c0:403::/48",
+    "ip_type": "IPv6",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "2605:72c0:404::/48",
+    "ip_type": "IPv6",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "2605:72c0:405::/48",
+    "ip_type": "IPv6",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
     "ip_address": "2605:72c0:4fc::/48",
     "ip_type": "IPv6",
     "service": "backblaze-as40401",
@@ -258,6 +330,30 @@
     "region": "global"
   },
   {
+    "ip_address": "2605:72c0:500::/48",
+    "ip_type": "IPv6",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "2605:72c0:503::/48",
+    "ip_type": "IPv6",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "2605:72c0:504::/48",
+    "ip_type": "IPv6",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "2605:72c0:505::/48",
+    "ip_type": "IPv6",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
     "ip_address": "2605:72c0:5fc::/48",
     "ip_type": "IPv6",
     "service": "backblaze-as40401",
@@ -283,6 +379,30 @@
   },
   {
     "ip_address": "2605:72c0:600::/45",
+    "ip_type": "IPv6",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "2605:72c0:600::/48",
+    "ip_type": "IPv6",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "2605:72c0:603::/48",
+    "ip_type": "IPv6",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "2605:72c0:604::/48",
+    "ip_type": "IPv6",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "2605:72c0:605::/48",
     "ip_type": "IPv6",
     "service": "backblaze-as40401",
     "region": "global"
@@ -331,6 +451,30 @@
   },
   {
     "ip_address": "2605:72c0:800::/45",
+    "ip_type": "IPv6",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "2605:72c0:800::/48",
+    "ip_type": "IPv6",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "2605:72c0:803::/48",
+    "ip_type": "IPv6",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "2605:72c0:804::/48",
+    "ip_type": "IPv6",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "2605:72c0:805::/48",
     "ip_type": "IPv6",
     "service": "backblaze-as40401",
     "region": "global"

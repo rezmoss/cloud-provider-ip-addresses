@@ -519,6 +519,7 @@ ip_address,ip_type,service,region
 172.186.128.32/27,IPv4,AzureIoTHub.UKWest,ukwest
 172.186.128.64/26,IPv4,AzureIoTHub.UKWest,ukwest
 172.186.133.224/28,IPv4,AzureMonitor.UKWest,ukwest
+172.186.142.160/27,IPv4,Dynamics365ForMarketingEmail.UKWest,ukwest
 172.187.0.0/18,IPv4,AzureCloud.ukwest,ukwest
 172.187.0.16/29,IPv4,AzureArcInfrastructure.UKWest,ukwest
 172.187.0.24/31,IPv4,AzureArcInfrastructure.UKWest,ukwest

@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "48.219.198.192/28",
+    "ip_type": "IPv4",
+    "service": "AzureDataExplorerManagement.SouthwestUS",
+    "region": "southwestus"
+  },
+  {
+    "ip_address": "2603:1030:1202:1::1e0/123",
+    "ip_type": "IPv6",
+    "service": "AzureDataExplorerManagement.SouthwestUS",
+    "region": "southwestus"
+  }
+]

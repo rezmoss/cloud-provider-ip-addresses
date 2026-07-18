@@ -1,6 +1,6 @@
 # NHN Cloud IP Ranges (Auto-Updated Daily)
 
-> Last updated: **2026-07-17** · Total CIDRs: **372** · IPv4: **372** · IPv6: **0** · Services: **3** · Regions: **1**
+> Last updated: **2026-07-18** · Total CIDRs: **372** · IPv4: **372** · IPv6: **0** · Services: **3** · Regions: **1**
 
 Machine-readable, daily-updated, validated public IP ranges for **NHN Cloud**.
 Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and Apache.

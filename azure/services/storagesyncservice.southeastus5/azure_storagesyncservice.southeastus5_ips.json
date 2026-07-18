@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "74.7.194.224/29",
+    "ip_type": "IPv4",
+    "service": "StorageSyncService.SoutheastUS5",
+    "region": "southeastus5"
+  },
+  {
+    "ip_address": "74.7.216.48/29",
+    "ip_type": "IPv4",
+    "service": "StorageSyncService.SoutheastUS5",
+    "region": "southeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1502:3::2c0/123",
+    "ip_type": "IPv6",
+    "service": "StorageSyncService.SoutheastUS5",
+    "region": "southeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1502:400::120/123",
+    "ip_type": "IPv6",
+    "service": "StorageSyncService.SoutheastUS5",
+    "region": "southeastus5"
+  }
+]

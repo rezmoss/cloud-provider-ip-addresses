@@ -1248,6 +1248,12 @@
     "region": "polandcentral"
   },
   {
+    "ip_address": "74.153.1.160/27",
+    "ip_type": "IPv4",
+    "service": "Dynamics365ForMarketingEmail.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
     "ip_address": "74.248.0.0/16",
     "ip_type": "IPv4",
     "service": "AzureCloud.polandcentral",

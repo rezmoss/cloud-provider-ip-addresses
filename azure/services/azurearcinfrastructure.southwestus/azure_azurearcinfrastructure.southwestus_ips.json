@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "48.219.203.208/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.SouthwestUS",
+    "region": "southwestus"
+  },
+  {
+    "ip_address": "48.219.217.192/32",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.SouthwestUS",
+    "region": "southwestus"
+  },
+  {
+    "ip_address": "48.219.232.56/32",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.SouthwestUS",
+    "region": "southwestus"
+  },
+  {
+    "ip_address": "2603:1030:1202:2::20/124",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.SouthwestUS",
+    "region": "southwestus"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "74.7.180.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.SoutheastUS5",
+    "region": "southeastus5"
+  },
+  {
+    "ip_address": "74.7.180.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.SoutheastUS5",
+    "region": "southeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1502:1::/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.SoutheastUS5",
+    "region": "southeastus5"
+  }
+]

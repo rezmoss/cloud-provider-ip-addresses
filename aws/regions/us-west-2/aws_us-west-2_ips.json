@@ -2430,6 +2430,12 @@
     "region": "us-west-2"
   },
   {
+    "ip_address": "45.33.183.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-west-2"
+  },
+  {
     "ip_address": "50.112.0.0/16",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -3895,6 +3901,12 @@
   },
   {
     "ip_address": "2600:1f01:491a::/47",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "2600:1f01:493c::/47",
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "us-west-2"

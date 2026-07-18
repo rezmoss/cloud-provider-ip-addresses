@@ -7,6 +7,7 @@ CREATE TABLE IF NOT EXISTS `azure_southindia_ips` (
 );
 
 INSERT INTO `azure_southindia_ips` (`ip_address`, `ip_type`) VALUES ('4.247.0.0/17', 'IPv4');
+INSERT INTO `azure_southindia_ips` (`ip_address`, `ip_type`) VALUES ('4.247.39.32/27', 'IPv4');
 INSERT INTO `azure_southindia_ips` (`ip_address`, `ip_type`) VALUES ('13.71.64.0/18', 'IPv4');
 INSERT INTO `azure_southindia_ips` (`ip_address`, `ip_type`) VALUES ('13.71.84.34/32', 'IPv4');
 INSERT INTO `azure_southindia_ips` (`ip_address`, `ip_type`) VALUES ('13.71.113.127/32', 'IPv4');
@@ -298,6 +299,7 @@ INSERT INTO `azure_southindia_ips` (`ip_address`, `ip_type`) VALUES ('57.150.17.
 INSERT INTO `azure_southindia_ips` (`ip_address`, `ip_type`) VALUES ('57.150.17.0/24', 'IPv4');
 INSERT INTO `azure_southindia_ips` (`ip_address`, `ip_type`) VALUES ('57.171.16.0/24', 'IPv4');
 INSERT INTO `azure_southindia_ips` (`ip_address`, `ip_type`) VALUES ('57.171.18.0/24', 'IPv4');
+INSERT INTO `azure_southindia_ips` (`ip_address`, `ip_type`) VALUES ('57.171.21.0/24', 'IPv4');
 INSERT INTO `azure_southindia_ips` (`ip_address`, `ip_type`) VALUES ('70.152.25.0/24', 'IPv4');
 INSERT INTO `azure_southindia_ips` (`ip_address`, `ip_type`) VALUES ('70.152.58.0/23', 'IPv4');
 INSERT INTO `azure_southindia_ips` (`ip_address`, `ip_type`) VALUES ('70.152.60.0/24', 'IPv4');

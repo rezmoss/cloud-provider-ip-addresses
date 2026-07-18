@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "48.219.195.192/27",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.SouthwestUS",
+    "region": "southwestus"
+  },
+  {
+    "ip_address": "48.219.208.240/29",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.SouthwestUS",
+    "region": "southwestus"
+  },
+  {
+    "ip_address": "2603:1030:1202::580/121",
+    "ip_type": "IPv6",
+    "service": "AzureDigitalTwins.SouthwestUS",
+    "region": "southwestus"
+  }
+]

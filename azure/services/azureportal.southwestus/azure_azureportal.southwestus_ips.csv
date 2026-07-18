@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+48.219.205.224/27,IPv4,AzurePortal.SouthwestUS,southwestus
+48.219.209.212/30,IPv4,AzurePortal.SouthwestUS,southwestus
+2603:1030:1202:2::400/121,IPv6,AzurePortal.SouthwestUS,southwestus

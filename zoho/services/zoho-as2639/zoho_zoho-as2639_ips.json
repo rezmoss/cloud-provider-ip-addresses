@@ -66,12 +66,6 @@
     "region": "global"
   },
   {
-    "ip_address": "136.143.180.0/24",
-    "ip_type": "IPv4",
-    "service": "zoho-as2639",
-    "region": "global"
-  },
-  {
     "ip_address": "136.143.182.0/23",
     "ip_type": "IPv4",
     "service": "zoho-as2639",
@@ -91,12 +85,6 @@
   },
   {
     "ip_address": "136.143.186.0/23",
-    "ip_type": "IPv4",
-    "service": "zoho-as2639",
-    "region": "global"
-  },
-  {
-    "ip_address": "136.143.186.0/24",
     "ip_type": "IPv4",
     "service": "zoho-as2639",
     "region": "global"

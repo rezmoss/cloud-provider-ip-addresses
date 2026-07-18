@@ -6,6 +6,12 @@
     "region": "southindia"
   },
   {
+    "ip_address": "4.247.39.32/27",
+    "ip_type": "IPv4",
+    "service": "Dynamics365ForMarketingEmail.SouthIndia",
+    "region": "southindia"
+  },
+  {
     "ip_address": "13.71.64.0/18",
     "ip_type": "IPv4",
     "service": "AzureCloud.southindia",
@@ -1747,6 +1753,12 @@
   },
   {
     "ip_address": "57.171.18.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southindia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "57.171.21.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.southindia",
     "region": "southindia"

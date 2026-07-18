@@ -288,6 +288,18 @@
     "region": "brazilse"
   },
   {
+    "ip_address": "57.171.20.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "57.171.22.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.brazilse",
+    "region": "brazilse"
+  },
+  {
     "ip_address": "70.152.3.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.brazilse",

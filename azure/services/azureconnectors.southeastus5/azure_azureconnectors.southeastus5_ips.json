@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "74.7.186.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.SoutheastUS5",
+    "region": "southeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1502:1::780/122",
+    "ip_type": "IPv6",
+    "service": "AzureConnectors.SoutheastUS5",
+    "region": "southeastus5"
+  }
+]

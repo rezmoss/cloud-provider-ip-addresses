@@ -3120,6 +3120,12 @@
     "region": "ukwest"
   },
   {
+    "ip_address": "172.186.142.160/27",
+    "ip_type": "IPv4",
+    "service": "Dynamics365ForMarketingEmail.UKWest",
+    "region": "ukwest"
+  },
+  {
     "ip_address": "172.187.0.0/18",
     "ip_type": "IPv4",
     "service": "AzureCloud.ukwest",

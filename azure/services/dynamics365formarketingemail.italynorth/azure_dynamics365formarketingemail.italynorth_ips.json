@@ -1,0 +1,8 @@
+[
+  {
+    "ip_address": "9.235.245.32/27",
+    "ip_type": "IPv4",
+    "service": "Dynamics365ForMarketingEmail.ItalyNorth",
+    "region": "italynorth"
+  }
+]

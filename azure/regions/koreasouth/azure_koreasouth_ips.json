@@ -264,6 +264,12 @@
     "region": "koreasouth"
   },
   {
+    "ip_address": "4.243.180.160/27",
+    "ip_type": "IPv4",
+    "service": "Dynamics365ForMarketingEmail.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
     "ip_address": "13.104.157.0/25",
     "ip_type": "IPv4",
     "service": "AzureCloud.koreasouth",

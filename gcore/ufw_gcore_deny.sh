@@ -1,6 +1,6 @@
 #!/bin/bash
 # Gcore IP Ranges
-# Updated: 2026-07-17 03:18:32
+# Updated: 2026-07-18 03:16:16
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -177,7 +177,7 @@ ufw deny from 80.240.124.8/30
 ufw deny from 82.97.205.4/30
 ufw deny from 82.97.205.9/32
 ufw deny from 82.97.205.10/31
-ufw deny from 82.97.205.13/32
+ufw deny from 82.97.205.12/31
 ufw deny from 82.117.226.107/32
 ufw deny from 82.117.226.126/32
 ufw deny from 82.117.226.240/32
@@ -246,6 +246,8 @@ ufw deny from 91.243.87.4/31
 ufw deny from 92.38.142.21/32
 ufw deny from 92.38.142.25/32
 ufw deny from 92.38.159.4/30
+ufw deny from 92.38.159.8/32
+ufw deny from 92.38.159.11/32
 ufw deny from 92.38.159.12/31
 ufw deny from 92.38.159.15/32
 ufw deny from 92.38.159.16/31
@@ -273,7 +275,6 @@ ufw deny from 92.223.47.8/32
 ufw deny from 92.223.47.10/31
 ufw deny from 92.223.47.12/32
 ufw deny from 92.223.61.21/32
-ufw deny from 92.223.61.25/32
 ufw deny from 92.223.63.4/30
 ufw deny from 92.223.63.8/30
 ufw deny from 92.223.63.21/32
@@ -810,7 +811,6 @@ ufw deny from 2a03:90c0:111:2801::22/127
 ufw deny from 2a03:90c0:111:2801::24/126
 ufw deny from 2a03:90c0:111:2801::28/127
 ufw deny from 2a03:90c0:121:2801::21/128
-ufw deny from 2a03:90c0:121:2801::25/128
 ufw deny from 2a03:90c0:151:2801::4/127
 ufw deny from 2a03:90c0:161:2801::21/128
 ufw deny from 2a03:90c0:161:2801::25/128
@@ -838,6 +838,8 @@ ufw deny from 2a03:90c0:1f1:2801::6/128
 ufw deny from 2a03:90c0:1f1:2801::10/127
 ufw deny from 2a03:90c0:1f1:2801::13/128
 ufw deny from 2a03:90c0:211:2801::4/126
+ufw deny from 2a03:90c0:211:2801::8/128
+ufw deny from 2a03:90c0:211:2801::11/128
 ufw deny from 2a03:90c0:211:2801::12/127
 ufw deny from 2a03:90c0:211:2801::15/128
 ufw deny from 2a03:90c0:211:2801::16/127
@@ -918,8 +920,7 @@ ufw deny from 2a03:90c0:4d1:2801::14/128
 ufw deny from 2a03:90c0:4e1:2801::9/128
 ufw deny from 2a03:90c0:4f1:2801::4/126
 ufw deny from 2a03:90c0:4f1:2801::9/128
-ufw deny from 2a03:90c0:4f1:2801::10/127
-ufw deny from 2a03:90c0:4f1:2801::13/128
+ufw deny from 2a03:90c0:4f1:2801::10/126
 ufw deny from 2a03:90c0:501:2801::4/126
 ufw deny from 2a03:90c0:501:2801::8/127
 ufw deny from 2a03:90c0:521:2801::4/126

@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+74.7.176.20/30,IPv4,AzureAttestation.SoutheastUS5,southeastus5
+74.7.205.112/29,IPv4,AzureAttestation.SoutheastUS5,southeastus5
+74.7.205.120/30,IPv4,AzureAttestation.SoutheastUS5,southeastus5
+2603:1030:1502::760/124,IPv6,AzureAttestation.SoutheastUS5,southeastus5

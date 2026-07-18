@@ -54,6 +54,8 @@ INSERT INTO `azure_azurecloud.brazilse_ips` (`ip_address`, `ip_type`) VALUES ('5
 INSERT INTO `azure_azurecloud.brazilse_ips` (`ip_address`, `ip_type`) VALUES ('52.123.29.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.brazilse_ips` (`ip_address`, `ip_type`) VALUES ('52.123.182.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.brazilse_ips` (`ip_address`, `ip_type`) VALUES ('52.253.197.0/24', 'IPv4');
+INSERT INTO `azure_azurecloud.brazilse_ips` (`ip_address`, `ip_type`) VALUES ('57.171.20.0/24', 'IPv4');
+INSERT INTO `azure_azurecloud.brazilse_ips` (`ip_address`, `ip_type`) VALUES ('57.171.22.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.brazilse_ips` (`ip_address`, `ip_type`) VALUES ('70.152.3.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.brazilse_ips` (`ip_address`, `ip_type`) VALUES ('70.152.234.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.brazilse_ips` (`ip_address`, `ip_type`) VALUES ('108.140.0.0/16', 'IPv4');

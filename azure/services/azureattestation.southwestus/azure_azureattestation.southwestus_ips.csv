@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+48.219.81.176/29,IPv4,AzureAttestation.SouthwestUS,southwestus
+48.219.192.20/30,IPv4,AzureAttestation.SouthwestUS,southwestus
+48.219.221.52/30,IPv4,AzureAttestation.SouthwestUS,southwestus
+2603:1030:1202::540/124,IPv6,AzureAttestation.SouthwestUS,southwestus

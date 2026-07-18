@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "74.7.178.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.SoutheastUS5",
+    "region": "southeastus5"
+  },
+  {
+    "ip_address": "74.7.178.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.SoutheastUS5",
+    "region": "southeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1502::5c0/123",
+    "ip_type": "IPv6",
+    "service": "AzureCosmosDB.SoutheastUS5",
+    "region": "southeastus5"
+  }
+]

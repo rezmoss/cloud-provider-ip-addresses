@@ -1,0 +1,14 @@
+ip_address,ip_type,service,region
+74.7.192.128/28,IPv4,AzureMonitor.SoutheastUS5,southeastus5
+74.7.192.144/31,IPv4,AzureMonitor.SoutheastUS5,southeastus5
+74.7.192.160/27,IPv4,AzureMonitor.SoutheastUS5,southeastus5
+74.7.192.192/27,IPv4,AzureMonitor.SoutheastUS5,southeastus5
+74.7.201.192/26,IPv4,AzureMonitor.SoutheastUS5,southeastus5
+74.7.218.224/29,IPv4,AzureMonitor.SoutheastUS5,southeastus5
+74.7.218.240/28,IPv4,AzureMonitor.SoutheastUS5,southeastus5
+2603:1030:1502:2::520/123,IPv6,AzureMonitor.SoutheastUS5,southeastus5
+2603:1030:1502:2::680/122,IPv6,AzureMonitor.SoutheastUS5,southeastus5
+2603:1030:1502:2::6c0/123,IPv6,AzureMonitor.SoutheastUS5,southeastus5
+2603:1030:1502:2::700/120,IPv6,AzureMonitor.SoutheastUS5,southeastus5
+2603:1030:1502:5::400/119,IPv6,AzureMonitor.SoutheastUS5,southeastus5
+2603:1030:1502:6::/119,IPv6,AzureMonitor.SoutheastUS5,southeastus5

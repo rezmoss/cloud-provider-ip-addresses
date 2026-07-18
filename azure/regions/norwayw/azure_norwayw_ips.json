@@ -1464,6 +1464,12 @@
     "region": "norwayw"
   },
   {
+    "ip_address": "74.240.14.64/27",
+    "ip_type": "IPv4",
+    "service": "Dynamics365ForMarketingEmail.NorwayWest",
+    "region": "norwayw"
+  },
+  {
     "ip_address": "74.240.128.0/21",
     "ip_type": "IPv4",
     "service": "AzureCloud.norwayw",

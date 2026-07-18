@@ -1,0 +1,68 @@
+[
+  {
+    "ip_address": "48.219.195.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.SouthwestUS",
+    "region": "southwestus"
+  },
+  {
+    "ip_address": "48.219.213.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.SouthwestUS",
+    "region": "southwestus"
+  },
+  {
+    "ip_address": "48.219.232.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.SouthwestUS",
+    "region": "southwestus"
+  },
+  {
+    "ip_address": "48.219.234.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.SouthwestUS",
+    "region": "southwestus"
+  },
+  {
+    "ip_address": "2603:1030:1202::3e0/125",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.SouthwestUS",
+    "region": "southwestus"
+  },
+  {
+    "ip_address": "2603:1030:1202:4::180/121",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.SouthwestUS",
+    "region": "southwestus"
+  },
+  {
+    "ip_address": "2603:1030:1202:4::580/123",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.SouthwestUS",
+    "region": "southwestus"
+  },
+  {
+    "ip_address": "2603:1030:1202:4::5a0/124",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.SouthwestUS",
+    "region": "southwestus"
+  },
+  {
+    "ip_address": "2603:1030:1202:4::5b0/125",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.SouthwestUS",
+    "region": "southwestus"
+  },
+  {
+    "ip_address": "2603:1030:1202:400::8/125",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.SouthwestUS",
+    "region": "southwestus"
+  },
+  {
+    "ip_address": "2603:1030:1202:400::80/121",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.SouthwestUS",
+    "region": "southwestus"
+  }
+]

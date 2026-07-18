@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "74.7.180.16/28",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.SoutheastUS5",
+    "region": "southeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1502::740/124",
+    "ip_type": "IPv6",
+    "service": "ApiManagement.SoutheastUS5",
+    "region": "southeastus5"
+  }
+]

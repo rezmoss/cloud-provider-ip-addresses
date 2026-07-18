@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+74.7.194.224/29,IPv4,StorageSyncService.SoutheastUS5,southeastus5
+74.7.216.48/29,IPv4,StorageSyncService.SoutheastUS5,southeastus5
+2603:1030:1502:3::2c0/123,IPv6,StorageSyncService.SoutheastUS5,southeastus5
+2603:1030:1502:400::120/123,IPv6,StorageSyncService.SoutheastUS5,southeastus5

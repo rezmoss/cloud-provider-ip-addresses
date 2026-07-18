@@ -499,6 +499,7 @@ ip_address,ip_type,service,region
 172.192.222.240/29,IPv4,PowerPlatformInfra.JapanWest,japanwest
 172.192.223.0/26,IPv4,PowerPlatformPlex.JapanWest,japanwest
 172.192.223.64/26,IPv4,PowerPlatformInfra.JapanWest,japanwest
+172.192.223.224/27,IPv4,Dynamics365ForMarketingEmail.JapanWest,japanwest
 172.192.224.0/24,IPv4,PowerPlatformInfra.JapanWest,japanwest
 191.233.32.0/20,IPv4,AzureCloud.japanwest,japanwest
 191.237.236.0/24,IPv4,AzureCloud.japanwest,japanwest

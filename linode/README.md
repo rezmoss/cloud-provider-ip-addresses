@@ -1,6 +1,6 @@
 # Linode (Akamai) IP Ranges (Auto-Updated Daily)
 
-> Last updated: **2026-07-17** · Total CIDRs: **5,444** · IPv4: **5,346** · IPv6: **98** · Regions: **38**
+> Last updated: **2026-07-18** · Total CIDRs: **5,444** · IPv4: **5,346** · IPv6: **98** · Regions: **38**
 
 Machine-readable, daily-updated, validated public IP ranges for **Linode (Akamai)**.
 Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and Apache.

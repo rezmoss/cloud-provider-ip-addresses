@@ -151,6 +151,7 @@ ip_address,ip_type,service,region
 64.4.54.0/24,IPv4,AzureCloud.westcentralus,westcentralus
 65.55.209.192/26,IPv4,AzureCloud.westcentralus,westcentralus
 70.152.35.0/24,IPv4,AzureCloud.westcentralus,westcentralus
+74.159.0.0/17,IPv4,AzureCloud.westcentralus,westcentralus
 104.44.89.96/27,IPv4,AzureCloud.westcentralus,westcentralus
 104.47.224.0/20,IPv4,AzureCloud.westcentralus,westcentralus
 128.24.128.0/17,IPv4,AzureCloud.westcentralus,westcentralus

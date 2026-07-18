@@ -2430,6 +2430,12 @@
     "region": "eu-west-2"
   },
   {
+    "ip_address": "2600:1f01:493a::/47",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eu-west-2"
+  },
+  {
     "ip_address": "2600:1ffd:8492::/48",
     "ip_type": "IPv6",
     "service": "AMAZON",

@@ -207,6 +207,7 @@ ip_address,ip_type,service,region
 57.150.76.0/23,IPv4,Storage.PolandCentral,polandcentral
 70.152.17.0/24,IPv4,AzureCloud.polandcentral,polandcentral
 74.153.0.0/17,IPv4,AzureCloud.polandcentral,polandcentral
+74.153.1.160/27,IPv4,Dynamics365ForMarketingEmail.PolandCentral,polandcentral
 74.248.0.0/16,IPv4,AzureCloud.polandcentral,polandcentral
 74.248.81.46/32,IPv4,LogicApps.PolandCentral,polandcentral
 74.248.81.64/32,IPv4,LogicApps.PolandCentral,polandcentral

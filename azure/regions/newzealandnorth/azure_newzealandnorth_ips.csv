@@ -82,6 +82,7 @@ ip_address,ip_type,service,region
 172.196.92.0/22,IPv4,AzureEventGrid.NewZealandNorth,newzealandnorth
 172.196.96.0/23,IPv4,AzureEventGrid.NewZealandNorth,newzealandnorth
 172.196.109.128/26,IPv4,AzureMonitor.NewZealandNorth,newzealandnorth
+172.196.116.96/27,IPv4,Dynamics365ForMarketingEmail.NewZealandNorth,newzealandnorth
 172.204.0.0/16,IPv4,AzureCloud.newzealandnorth,newzealandnorth
 172.204.56.121/32,IPv4,LogicApps.NewZealandNorth,newzealandnorth
 172.204.58.185/32,IPv4,LogicApps.NewZealandNorth,newzealandnorth

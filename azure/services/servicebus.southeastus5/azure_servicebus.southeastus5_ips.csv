@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+74.7.181.128/25,IPv4,ServiceBus.SoutheastUS5,southeastus5
+74.7.216.16/29,IPv4,ServiceBus.SoutheastUS5,southeastus5
+74.7.216.32/28,IPv4,ServiceBus.SoutheastUS5,southeastus5
+2603:1030:1502:1::180/121,IPv6,ServiceBus.SoutheastUS5,southeastus5

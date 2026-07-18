@@ -357,10 +357,8 @@ ip_address,ip_type,service,region
 57.157.68.0/23,IPv4,AzureCloud.swedencentral,swedencentral
 57.157.70.0/25,IPv4,AzureCloud.swedencentral,swedencentral
 57.157.70.128/26,IPv4,AzureCloud.swedencentral,swedencentral
-57.157.70.192/28,IPv4,AzureCloud.swedencentral,swedencentral
-57.157.70.208/29,IPv4,AzureCloud.swedencentral,swedencentral
-57.157.70.216/30,IPv4,AzureCloud.swedencentral,swedencentral
-57.157.70.220/31,IPv4,AzureCloud.swedencentral,swedencentral
+57.157.70.192/27,IPv4,AzureCloud.swedencentral,swedencentral
+57.157.70.224/29,IPv4,AzureCloud.swedencentral,swedencentral
 57.163.6.0/23,IPv4,AzureCloud.swedencentral,swedencentral
 57.163.6.0/23,IPv4,Storage.SwedenCentral,swedencentral
 57.174.0.0/16,IPv4,AzureCloud.swedencentral,swedencentral
@@ -387,6 +385,7 @@ ip_address,ip_type,service,region
 74.241.227.192/26,IPv4,PowerPlatformInfra.SwedenCentral,swedencentral
 74.241.228.0/25,IPv4,PowerPlatformInfra.SwedenCentral,swedencentral
 132.245.230.0/23,IPv4,AzureCloud.swedencentral,swedencentral
+134.170.176.0/24,IPv4,AzureCloud.swedencentral,swedencentral
 135.116.0.0/16,IPv4,AzureCloud.swedencentral,swedencentral
 135.116.77.192/26,IPv4,PowerPlatformPlex.SwedenCentral,swedencentral
 135.116.173.100/30,IPv4,Sql.SwedenCentral,swedencentral

@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "48.219.205.224/27",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.SouthwestUS",
+    "region": "southwestus"
+  },
+  {
+    "ip_address": "48.219.209.212/30",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.SouthwestUS",
+    "region": "southwestus"
+  },
+  {
+    "ip_address": "2603:1030:1202:2::400/121",
+    "ip_type": "IPv6",
+    "service": "AzurePortal.SouthwestUS",
+    "region": "southwestus"
+  }
+]

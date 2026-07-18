@@ -7530,6 +7530,12 @@
     "region": "westus"
   },
   {
+    "ip_address": "74.146.24.32/27",
+    "ip_type": "IPv4",
+    "service": "Dynamics365ForMarketingEmail.WestUS",
+    "region": "westus"
+  },
+  {
     "ip_address": "104.40.0.0/17",
     "ip_type": "IPv4",
     "service": "AzureCloud.westus",

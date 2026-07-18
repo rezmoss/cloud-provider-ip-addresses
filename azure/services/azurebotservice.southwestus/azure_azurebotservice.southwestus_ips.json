@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "48.219.192.16/30",
+    "ip_type": "IPv4",
+    "service": "AzureBotService.SouthwestUS",
+    "region": "southwestus"
+  },
+  {
+    "ip_address": "2603:1030:1202::20/123",
+    "ip_type": "IPv6",
+    "service": "AzureBotService.SouthwestUS",
+    "region": "southwestus"
+  }
+]

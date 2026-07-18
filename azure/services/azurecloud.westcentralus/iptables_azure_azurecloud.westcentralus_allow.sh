@@ -1,6 +1,6 @@
 #!/bin/bash
 # Azure IP Ranges
-# Updated: 2026-07-04 03:13:32
+# Updated: 2026-07-18 03:10:44
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -159,6 +159,7 @@ iptables -A INPUT -s 64.4.8.0/24 -j ACCEPT
 iptables -A INPUT -s 64.4.54.0/24 -j ACCEPT
 iptables -A INPUT -s 65.55.209.192/26 -j ACCEPT
 iptables -A INPUT -s 70.152.35.0/24 -j ACCEPT
+iptables -A INPUT -s 74.159.0.0/17 -j ACCEPT
 iptables -A INPUT -s 104.44.89.96/27 -j ACCEPT
 iptables -A INPUT -s 104.47.224.0/20 -j ACCEPT
 iptables -A INPUT -s 128.24.128.0/17 -j ACCEPT

@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+74.7.178.32/27,IPv4,AzureCosmosDB.SoutheastUS5,southeastus5
+74.7.178.64/26,IPv4,AzureCosmosDB.SoutheastUS5,southeastus5
+2603:1030:1502::5c0/123,IPv6,AzureCosmosDB.SoutheastUS5,southeastus5

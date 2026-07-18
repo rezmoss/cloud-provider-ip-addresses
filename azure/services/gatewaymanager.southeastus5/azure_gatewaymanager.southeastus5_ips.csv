@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+74.7.176.64/26,IPv4,GatewayManager.SoutheastUS5,southeastus5
+74.7.202.176/28,IPv4,GatewayManager.SoutheastUS5,southeastus5
+2603:1030:1502::40/122,IPv6,GatewayManager.SoutheastUS5,southeastus5

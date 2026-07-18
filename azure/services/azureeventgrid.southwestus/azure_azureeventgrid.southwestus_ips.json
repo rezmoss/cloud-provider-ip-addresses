@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "48.219.193.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.SouthwestUS",
+    "region": "southwestus"
+  },
+  {
+    "ip_address": "2603:1030:1202::280/121",
+    "ip_type": "IPv6",
+    "service": "AzureEventGrid.SouthwestUS",
+    "region": "southwestus"
+  }
+]

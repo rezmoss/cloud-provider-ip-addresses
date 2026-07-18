@@ -1,0 +1,44 @@
+[
+  {
+    "ip_address": "48.219.208.96/27",
+    "ip_type": "IPv4",
+    "service": "Sql.SouthwestUS",
+    "region": "southwestus"
+  },
+  {
+    "ip_address": "48.219.208.128/26",
+    "ip_type": "IPv4",
+    "service": "Sql.SouthwestUS",
+    "region": "southwestus"
+  },
+  {
+    "ip_address": "48.219.210.32/27",
+    "ip_type": "IPv4",
+    "service": "Sql.SouthwestUS",
+    "region": "southwestus"
+  },
+  {
+    "ip_address": "48.219.234.136/29",
+    "ip_type": "IPv4",
+    "service": "Sql.SouthwestUS",
+    "region": "southwestus"
+  },
+  {
+    "ip_address": "48.219.234.160/27",
+    "ip_type": "IPv4",
+    "service": "Sql.SouthwestUS",
+    "region": "southwestus"
+  },
+  {
+    "ip_address": "2603:1030:1202:2::620/123",
+    "ip_type": "IPv6",
+    "service": "Sql.SouthwestUS",
+    "region": "southwestus"
+  },
+  {
+    "ip_address": "2603:1030:1202:2::680/121",
+    "ip_type": "IPv6",
+    "service": "Sql.SouthwestUS",
+    "region": "southwestus"
+  }
+]

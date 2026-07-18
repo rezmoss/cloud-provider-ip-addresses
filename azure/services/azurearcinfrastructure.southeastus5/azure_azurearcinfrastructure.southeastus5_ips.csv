@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+74.7.188.68/30,IPv4,AzureArcInfrastructure.SoutheastUS5,southeastus5
+74.7.194.94/32,IPv4,AzureArcInfrastructure.SoutheastUS5,southeastus5
+74.7.216.60/32,IPv4,AzureArcInfrastructure.SoutheastUS5,southeastus5
+2603:1030:1502:2::300/124,IPv6,AzureArcInfrastructure.SoutheastUS5,southeastus5

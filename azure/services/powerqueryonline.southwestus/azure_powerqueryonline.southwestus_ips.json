@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "48.219.192.40/29",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.SouthwestUS",
+    "region": "southwestus"
+  },
+  {
+    "ip_address": "2603:1030:1202::1c0/123",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.SouthwestUS",
+    "region": "southwestus"
+  }
+]

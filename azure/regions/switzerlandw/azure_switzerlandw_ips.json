@@ -1590,6 +1590,12 @@
     "region": "switzerlandw"
   },
   {
+    "ip_address": "57.160.28.160/27",
+    "ip_type": "IPv4",
+    "service": "Dynamics365ForMarketingEmail.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
     "ip_address": "70.152.30.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.switzerlandw",

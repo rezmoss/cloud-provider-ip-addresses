@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "48.219.204.128/26",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.SouthwestUS",
+    "region": "southwestus"
+  },
+  {
+    "ip_address": "2603:1030:1202:2::40/122",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.SouthwestUS",
+    "region": "southwestus"
+  }
+]

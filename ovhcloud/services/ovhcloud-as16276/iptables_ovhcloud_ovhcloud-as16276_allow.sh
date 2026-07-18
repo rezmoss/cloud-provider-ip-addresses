@@ -1,6 +1,6 @@
 #!/bin/bash
 # Ovhcloud IP Ranges
-# Updated: 2026-07-17 03:16:33
+# Updated: 2026-07-18 03:14:38
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -173,7 +173,6 @@ iptables -A INPUT -s 82.26.81.0/24 -j ACCEPT
 iptables -A INPUT -s 82.26.176.0/20 -j ACCEPT
 iptables -A INPUT -s 82.29.126.0/24 -j ACCEPT
 iptables -A INPUT -s 82.38.2.0/24 -j ACCEPT
-iptables -A INPUT -s 82.38.32.0/24 -j ACCEPT
 iptables -A INPUT -s 82.38.35.0/24 -j ACCEPT
 iptables -A INPUT -s 82.38.82.0/24 -j ACCEPT
 iptables -A INPUT -s 82.38.124.0/22 -j ACCEPT
@@ -500,6 +499,7 @@ iptables -A INPUT -s 191.96.140.0/23 -j ACCEPT
 iptables -A INPUT -s 191.101.150.0/24 -j ACCEPT
 iptables -A INPUT -s 191.101.218.0/24 -j ACCEPT
 iptables -A INPUT -s 192.30.124.0/24 -j ACCEPT
+iptables -A INPUT -s 192.65.20.0/22 -j ACCEPT
 iptables -A INPUT -s 192.70.246.0/23 -j ACCEPT
 iptables -A INPUT -s 192.95.0.0/18 -j ACCEPT
 iptables -A INPUT -s 192.99.0.0/16 -j ACCEPT
@@ -528,6 +528,7 @@ iptables -A INPUT -s 194.76.173.0/24 -j ACCEPT
 iptables -A INPUT -s 194.77.220.0/24 -j ACCEPT
 iptables -A INPUT -s 194.87.205.0/24 -j ACCEPT
 iptables -A INPUT -s 194.88.232.0/24 -j ACCEPT
+iptables -A INPUT -s 194.110.171.0/24 -j ACCEPT
 iptables -A INPUT -s 194.147.159.0/24 -j ACCEPT
 iptables -A INPUT -s 194.156.227.0/24 -j ACCEPT
 iptables -A INPUT -s 194.164.230.0/24 -j ACCEPT
