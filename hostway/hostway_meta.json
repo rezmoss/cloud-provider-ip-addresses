@@ -1,7 +1,7 @@
 {
   "provider": "hostway",
   "version": 1,
-  "generated_date": "2026-07-18",
+  "generated_date": "2026-07-19",
   "last_changed_date": "2026-07-12",
   "sources": [
     "BGP announced prefixes via RIPE NCC RIPEstat"

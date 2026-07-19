@@ -1,7 +1,7 @@
 {
   "provider": "zscaler",
   "version": 2,
-  "generated_date": "2026-07-18",
+  "generated_date": "2026-07-19",
   "last_changed_date": "2026-07-14",
   "sources": [
     "BGP announced prefixes via RIPE NCC RIPEstat"

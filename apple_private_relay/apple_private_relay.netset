@@ -1,5 +1,5 @@
 # apple_private_relay IP ranges - ipset restore format (hash:net)
-# Version: 5 | Generated: 2026-07-18 | Last changed: 2026-07-13
+# Version: 5 | Generated: 2026-07-19 | Last changed: 2026-07-13
 # IPv4: 3271 merged subnets, 105816 unique IPs
 # IPv6: 10312 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses

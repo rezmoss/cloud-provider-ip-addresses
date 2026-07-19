@@ -1,6 +1,6 @@
 #!/bin/bash
 # Tor IP Ranges
-# Updated: 2026-07-18 03:16:13
+# Updated: 2026-07-19 03:18:10
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -14,7 +14,6 @@ ufw allow from 5.44.252.164/32
 ufw allow from 5.45.98.162/32
 ufw allow from 5.45.102.93/32
 ufw allow from 5.45.104.176/32
-ufw allow from 5.79.66.19/32
 ufw allow from 5.83.143.18/32
 ufw allow from 5.104.84.183/32
 ufw allow from 5.104.86.6/32
@@ -113,7 +112,6 @@ ufw allow from 45.9.148.50/32
 ufw allow from 45.9.148.122/32
 ufw allow from 45.9.148.165/32
 ufw allow from 45.9.148.188/32
-ufw allow from 45.9.149.34/32
 ufw allow from 45.9.156.22/32
 ufw allow from 45.9.156.110/32
 ufw allow from 45.9.156.131/32
@@ -206,6 +204,7 @@ ufw allow from 54.36.108.162/32
 ufw allow from 57.129.91.235/32
 ufw allow from 61.220.100.193/32
 ufw allow from 62.72.47.105/32
+ufw allow from 62.84.176.89/32
 ufw allow from 62.133.45.2/32
 ufw allow from 62.171.137.169/32
 ufw allow from 62.182.80.112/32
@@ -232,7 +231,6 @@ ufw allow from 69.12.83.15/32
 ufw allow from 69.62.120.155/32
 ufw allow from 69.163.77.166/32
 ufw allow from 71.19.144.106/32
-ufw allow from 72.5.43.62/32
 ufw allow from 72.211.49.235/32
 ufw allow from 74.82.47.194/32
 ufw allow from 77.48.28.193/32
@@ -508,10 +506,13 @@ ufw allow from 149.102.153.38/32
 ufw allow from 149.202.79.101/32
 ufw allow from 149.202.79.129/32
 ufw allow from 150.40.117.43/32
+ufw allow from 150.40.126.103/32
+ufw allow from 150.40.126.115/32
 ufw allow from 150.40.127.65/32
 ufw allow from 150.40.127.237/32
 ufw allow from 150.129.10.50/32
 ufw allow from 150.129.10.151/32
+ufw allow from 151.216.96.93/32
 ufw allow from 151.216.96.225/32
 ufw allow from 151.242.30.113/32
 ufw allow from 151.242.242.45/32
@@ -525,7 +526,6 @@ ufw allow from 153.75.89.191/32
 ufw allow from 154.26.159.157/32
 ufw allow from 154.53.58.161/32
 ufw allow from 155.94.163.175/32
-ufw allow from 157.230.29.185/32
 ufw allow from 158.174.210.97/32
 ufw allow from 159.195.137.114/32
 ufw allow from 160.119.249.240/32
@@ -589,6 +589,7 @@ ufw allow from 178.79.154.219/32
 ufw allow from 178.85.139.57/32
 ufw allow from 178.104.130.209/32
 ufw allow from 178.162.175.5/32
+ufw allow from 178.170.25.112/32
 ufw allow from 178.170.114.117/32
 ufw allow from 178.175.148.155/32
 ufw allow from 178.218.144.18/32
@@ -800,8 +801,8 @@ ufw allow from 198.98.60.231/32
 ufw allow from 198.98.61.60/32
 ufw allow from 198.98.62.158/32
 ufw allow from 198.167.206.172/32
+ufw allow from 198.167.206.178/32
 ufw allow from 198.167.206.190/32
-ufw allow from 198.167.206.193/32
 ufw allow from 199.195.248.168/32
 ufw allow from 199.195.251.119/32
 ufw allow from 199.195.253.124/32

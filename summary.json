@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-18T03:16:54.714687",
+  "generated": "2026-07-19T03:19:02.189885",
   "provider_count": 62,
-  "total_ipv4_addresses": 446891066,
+  "total_ipv4_addresses": 446892346,
   "total_ipv6_addresses": 5471574185053916745110183770358838,
   "ipv4_space_coverage_pct": 10.405,
   "providers": {
@@ -15,10 +15,10 @@
       "regions": 0
     },
     "aws": {
-      "ipv4_cidrs": 10512,
+      "ipv4_cidrs": 10510,
       "ipv6_cidrs": 5824,
-      "total_cidrs": 16336,
-      "ipv4_addresses": 184967870,
+      "total_cidrs": 16334,
+      "ipv4_addresses": 184967358,
       "ipv6_addresses": 3322655522227487302342804504589,
       "services": 27,
       "regions": 43
@@ -312,10 +312,10 @@
       "regions": 1
     },
     "ovhcloud": {
-      "ipv4_cidrs": 689,
+      "ipv4_cidrs": 697,
       "ipv6_cidrs": 42,
-      "total_cidrs": 731,
-      "ipv4_addresses": 4629248,
+      "total_cidrs": 739,
+      "ipv4_addresses": 4631296,
       "ipv6_addresses": 318191693574209628041014935552,
       "services": 1,
       "regions": 1
@@ -393,10 +393,10 @@
       "regions": 1
     },
     "tor": {
-      "ipv4_cidrs": 1421,
+      "ipv4_cidrs": 1422,
       "ipv6_cidrs": 0,
-      "total_cidrs": 1421,
-      "ipv4_addresses": 1421,
+      "total_cidrs": 1422,
+      "ipv4_addresses": 1422,
       "ipv6_addresses": 0,
       "services": 1,
       "regions": 1
@@ -429,10 +429,10 @@
       "regions": 0
     },
     "gcore": {
-      "ipv4_cidrs": 989,
+      "ipv4_cidrs": 988,
       "ipv6_cidrs": 848,
-      "total_cidrs": 1837,
-      "ipv4_addresses": 989,
+      "total_cidrs": 1836,
+      "ipv4_addresses": 988,
       "ipv6_addresses": 848,
       "services": 0,
       "regions": 0
@@ -465,10 +465,10 @@
       "regions": 0
     },
     "zoho": {
-      "ipv4_cidrs": 154,
+      "ipv4_cidrs": 153,
       "ipv6_cidrs": 22,
-      "total_cidrs": 176,
-      "ipv4_addresses": 83712,
+      "total_cidrs": 175,
+      "ipv4_addresses": 83456,
       "ipv6_addresses": 79270474917950849614658666496,
       "services": 9,
       "regions": 1
