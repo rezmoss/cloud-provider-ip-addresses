@@ -325,6 +325,11 @@
     "region": "CO-DC"
   },
   {
+    "ip_address": "104.28.137.153/32",
+    "ip_type": "IPv4",
+    "region": "CO-DC"
+  },
+  {
     "ip_address": "104.28.139.27/32",
     "ip_type": "IPv4",
     "region": "CO-DC"

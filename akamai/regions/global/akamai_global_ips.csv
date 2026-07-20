@@ -5130,6 +5130,7 @@ ip_address,ip_type,service,region
 62.86.26.0/24,IPv4,akamai-as32787,global
 62.255.142.0/24,IPv4,akamai-as32787,global
 64.74.113.0/24,IPv4,akamai-as32787,global
+64.86.217.0/24,IPv4,akamai-as20940,global
 64.89.224.0/20,IPv4,akamai-as17204,global
 64.124.167.0/24,IPv4,akamai-as20940,global
 64.254.26.0/24,IPv4,akamai-as32787,global

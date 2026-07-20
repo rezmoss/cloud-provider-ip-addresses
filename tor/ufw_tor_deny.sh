@@ -1,6 +1,6 @@
 #!/bin/bash
 # Tor IP Ranges
-# Updated: 2026-07-19 03:18:10
+# Updated: 2026-07-20 03:19:52
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -195,6 +195,7 @@ ufw deny from 51.15.15.81/32
 ufw deny from 51.15.16.14/32
 ufw deny from 51.15.18.73/32
 ufw deny from 51.15.59.15/32
+ufw deny from 51.15.95.30/32
 ufw deny from 51.81.222.62/32
 ufw deny from 51.91.18.151/32
 ufw deny from 51.158.147.105/32
@@ -209,7 +210,6 @@ ufw deny from 62.133.45.2/32
 ufw deny from 62.171.137.169/32
 ufw deny from 62.182.80.112/32
 ufw deny from 62.182.84.146/32
-ufw deny from 64.94.85.248/32
 ufw deny from 64.188.93.178/32
 ufw deny from 64.190.76.2/31
 ufw deny from 64.190.76.4/32
@@ -513,7 +513,9 @@ ufw deny from 150.40.127.237/32
 ufw deny from 150.129.10.50/32
 ufw deny from 150.129.10.151/32
 ufw deny from 151.216.96.93/32
+ufw deny from 151.216.96.152/32
 ufw deny from 151.216.96.225/32
+ufw deny from 151.216.97.11/32
 ufw deny from 151.242.30.113/32
 ufw deny from 151.242.242.45/32
 ufw deny from 152.42.210.90/32
@@ -693,7 +695,6 @@ ufw deny from 185.225.226.62/31
 ufw deny from 185.227.68.78/32
 ufw deny from 185.227.134.106/32
 ufw deny from 185.231.33.38/32
-ufw deny from 185.231.102.5/32
 ufw deny from 185.233.100.23/32
 ufw deny from 185.235.146.29/32
 ufw deny from 185.243.218.225/32
@@ -800,9 +801,8 @@ ufw deny from 198.98.57.151/32
 ufw deny from 198.98.60.231/32
 ufw deny from 198.98.61.60/32
 ufw deny from 198.98.62.158/32
-ufw deny from 198.167.206.172/32
 ufw deny from 198.167.206.178/32
-ufw deny from 198.167.206.190/32
+ufw deny from 198.167.206.190/31
 ufw deny from 199.195.248.168/32
 ufw deny from 199.195.251.119/32
 ufw deny from 199.195.253.124/32

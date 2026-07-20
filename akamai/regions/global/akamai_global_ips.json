@@ -30786,6 +30786,12 @@
     "region": "global"
   },
   {
+    "ip_address": "64.86.217.0/24",
+    "ip_type": "IPv4",
+    "service": "akamai-as20940",
+    "region": "global"
+  },
+  {
     "ip_address": "64.89.224.0/20",
     "ip_type": "IPv4",
     "service": "akamai-as17204",

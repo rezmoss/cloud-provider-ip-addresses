@@ -90,6 +90,8 @@ INSERT INTO `apple_private_relay_in-tn_ips` (`ip_address`, `ip_type`) VALUES ('1
 INSERT INTO `apple_private_relay_in-tn_ips` (`ip_address`, `ip_type`) VALUES ('104.28.121.40/32', 'IPv4');
 INSERT INTO `apple_private_relay_in-tn_ips` (`ip_address`, `ip_type`) VALUES ('104.28.121.45/32', 'IPv4');
 INSERT INTO `apple_private_relay_in-tn_ips` (`ip_address`, `ip_type`) VALUES ('104.28.121.46/32', 'IPv4');
+INSERT INTO `apple_private_relay_in-tn_ips` (`ip_address`, `ip_type`) VALUES ('104.28.137.151/32', 'IPv4');
+INSERT INTO `apple_private_relay_in-tn_ips` (`ip_address`, `ip_type`) VALUES ('104.28.137.152/32', 'IPv4');
 INSERT INTO `apple_private_relay_in-tn_ips` (`ip_address`, `ip_type`) VALUES ('104.28.138.86/32', 'IPv4');
 INSERT INTO `apple_private_relay_in-tn_ips` (`ip_address`, `ip_type`) VALUES ('104.28.138.96/32', 'IPv4');
 INSERT INTO `apple_private_relay_in-tn_ips` (`ip_address`, `ip_type`) VALUES ('104.28.140.224/32', 'IPv4');

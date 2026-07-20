@@ -1,7 +1,7 @@
 {
   "provider": "imperva",
   "version": 1,
-  "generated_date": "2026-07-19",
+  "generated_date": "2026-07-20",
   "last_changed_date": "2026-07-12",
   "sources": [
     "https://my.imperva.com/api/integration/v1/ips"

@@ -1,7 +1,7 @@
 {
   "provider": "gcore",
   "version": 7,
-  "generated_date": "2026-07-19",
+  "generated_date": "2026-07-20",
   "last_changed_date": "2026-07-19",
   "sources": [
     "https://api.gcore.com/cdn/public-ip-list"

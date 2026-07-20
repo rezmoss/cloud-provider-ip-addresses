@@ -3066,6 +3066,7 @@ ip_address,ip_type,service,region
 60.254.148.0/24,IPv4,akamai-as20940,global
 60.254.173.0/24,IPv4,akamai-as20940,global
 61.19.12.0/24,IPv4,akamai-as20940,global
+64.86.217.0/24,IPv4,akamai-as20940,global
 64.124.167.0/24,IPv4,akamai-as20940,global
 66.198.8.0/24,IPv4,akamai-as20940,global
 69.22.150.0/23,IPv4,akamai-as20940,global

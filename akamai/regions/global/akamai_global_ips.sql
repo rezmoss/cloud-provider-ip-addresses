@@ -5137,6 +5137,7 @@ INSERT INTO `akamai_global_ips` (`ip_address`, `ip_type`) VALUES ('62.67.204.0/2
 INSERT INTO `akamai_global_ips` (`ip_address`, `ip_type`) VALUES ('62.86.26.0/24', 'IPv4');
 INSERT INTO `akamai_global_ips` (`ip_address`, `ip_type`) VALUES ('62.255.142.0/24', 'IPv4');
 INSERT INTO `akamai_global_ips` (`ip_address`, `ip_type`) VALUES ('64.74.113.0/24', 'IPv4');
+INSERT INTO `akamai_global_ips` (`ip_address`, `ip_type`) VALUES ('64.86.217.0/24', 'IPv4');
 INSERT INTO `akamai_global_ips` (`ip_address`, `ip_type`) VALUES ('64.89.224.0/20', 'IPv4');
 INSERT INTO `akamai_global_ips` (`ip_address`, `ip_type`) VALUES ('64.124.167.0/24', 'IPv4');
 INSERT INTO `akamai_global_ips` (`ip_address`, `ip_type`) VALUES ('64.254.26.0/24', 'IPv4');
