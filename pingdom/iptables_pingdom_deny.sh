@@ -1,6 +1,6 @@
 #!/bin/bash
 # Pingdom IP Ranges
-# Updated: 2026-06-25 03:23:22
+# Updated: 2026-07-21 03:16:32
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -122,7 +122,7 @@ ip6tables -A INPUT -s 2604:4500:5:a::4005/128 -j DROP
 ip6tables -A INPUT -s 2604:4500:5:a0::4033/128 -j DROP
 ip6tables -A INPUT -s 2604:4500:8:120::4032/128 -j DROP
 ip6tables -A INPUT -s 2604:4500:9:5d::4031/128 -j DROP
-ip6tables -A INPUT -s 2604:6600:fdc0:12::4066/128 -j DROP
+ip6tables -A INPUT -s 2604:6600:fdc0:1::122/128 -j DROP
 ip6tables -A INPUT -s 2604:86c0:4001:b::4067/128 -j DROP
 ip6tables -A INPUT -s 2604:b480:fff9::444/128 -j DROP
 ip6tables -A INPUT -s 2604:b480:fffa::4015/128 -j DROP

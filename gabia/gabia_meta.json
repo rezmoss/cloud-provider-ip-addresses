@@ -1,7 +1,7 @@
 {
   "provider": "gabia",
   "version": 1,
-  "generated_date": "2026-07-20",
+  "generated_date": "2026-07-21",
   "last_changed_date": "2026-07-12",
   "sources": [
     "BGP announced prefixes via RIPE NCC RIPEstat"

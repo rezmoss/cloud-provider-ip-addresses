@@ -32,6 +32,7 @@ ip_address,ip_type,service,region
 165.173.189.0/24,IPv4,zoho-as2639,global
 199.67.64.0/23,IPv4,zoho-as2639,global
 204.141.32.0/23,IPv4,zoho-as2639,global
+204.141.33.0/24,IPv4,zoho-as2639,global
 204.141.42.0/23,IPv4,zoho-as2639,global
 204.141.160.0/24,IPv4,zoho-as2639,global
 2602:801:c000::/47,IPv6,zoho-as2639,global

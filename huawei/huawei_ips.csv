@@ -489,6 +489,9 @@ ip_address,ip_type,service,region
 182.160.43.0/24,IPv4,huawei-as136907,global
 182.160.44.0/24,IPv4,huawei-as136907,global
 182.160.45.0/24,IPv4,huawei-as136907,global
+182.160.46.0/24,IPv4,huawei-as136907,global
+182.160.47.0/24,IPv4,huawei-as136907,global
+182.160.48.0/24,IPv4,huawei-as136907,global
 182.160.51.0/24,IPv4,huawei-as136907,global
 182.160.52.0/22,IPv4,huawei-as136907,global
 182.160.56.0/21,IPv4,huawei-as136907,global

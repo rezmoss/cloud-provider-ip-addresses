@@ -1,5 +1,17 @@
 [
   {
+    "ip_address": "155.103.236.0/24",
+    "ip_type": "IPv4",
+    "service": "zoho-as401636",
+    "region": "global"
+  },
+  {
+    "ip_address": "155.103.237.0/24",
+    "ip_type": "IPv4",
+    "service": "zoho-as401636",
+    "region": "global"
+  },
+  {
     "ip_address": "155.103.238.0/24",
     "ip_type": "IPv4",
     "service": "zoho-as401636",

@@ -54,6 +54,7 @@ ip_address,ip_type,service,region
 87.250.255.0/24,IPv4,yandex-as13238,global
 89.104.112.0/23,IPv4,yandex-as200350,global
 89.169.128.0/18,IPv4,yandex-as200350,global
+89.223.6.0/23,IPv4,yandex-as210656,global
 89.223.9.0/24,IPv4,yandex-as215013,global
 89.223.20.0/24,IPv4,yandex-as210656,global
 89.232.188.0/24,IPv4,yandex-as200350,global

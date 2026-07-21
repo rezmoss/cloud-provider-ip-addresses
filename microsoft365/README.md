@@ -1,6 +1,6 @@
 # Microsoft 365 IP Ranges (Auto-Updated Daily)
 
-> Last updated: **2026-07-20** · Total CIDRs: **93** · IPv4: **34** · IPv6: **59**
+> Last updated: **2026-07-21** · Total CIDRs: **93** · IPv4: **34** · IPv6: **59**
 
 Machine-readable, daily-updated, validated public IP ranges for **Microsoft 365**.
 Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and Apache.

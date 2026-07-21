@@ -123,7 +123,7 @@ INSERT INTO `pingdom_ips` (`ip_address`, `ip_type`) VALUES ('2604:4500:5:a::4005
 INSERT INTO `pingdom_ips` (`ip_address`, `ip_type`) VALUES ('2604:4500:5:a0::4033/128', 'IPv6');
 INSERT INTO `pingdom_ips` (`ip_address`, `ip_type`) VALUES ('2604:4500:8:120::4032/128', 'IPv6');
 INSERT INTO `pingdom_ips` (`ip_address`, `ip_type`) VALUES ('2604:4500:9:5d::4031/128', 'IPv6');
-INSERT INTO `pingdom_ips` (`ip_address`, `ip_type`) VALUES ('2604:6600:fdc0:12::4066/128', 'IPv6');
+INSERT INTO `pingdom_ips` (`ip_address`, `ip_type`) VALUES ('2604:6600:fdc0:1::122/128', 'IPv6');
 INSERT INTO `pingdom_ips` (`ip_address`, `ip_type`) VALUES ('2604:86c0:4001:b::4067/128', 'IPv6');
 INSERT INTO `pingdom_ips` (`ip_address`, `ip_type`) VALUES ('2604:b480:fff9::444/128', 'IPv6');
 INSERT INTO `pingdom_ips` (`ip_address`, `ip_type`) VALUES ('2604:b480:fffa::4015/128', 'IPv6');

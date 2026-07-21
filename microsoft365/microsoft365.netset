@@ -1,5 +1,5 @@
 # microsoft365 IP ranges - ipset restore format (hash:net)
-# Version: 1 | Generated: 2026-07-20 | Last changed: 2026-07-12
+# Version: 1 | Generated: 2026-07-21 | Last changed: 2026-07-12
 # IPv4: 31 merged subnets, 2514957 unique IPs
 # IPv6: 51 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses

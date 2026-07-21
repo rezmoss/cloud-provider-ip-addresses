@@ -1,6 +1,6 @@
 # GoCache IP Ranges (Auto-Updated Daily)
 
-> Last updated: **2026-07-20** · Total CIDRs: **25** · IPv4: **25** · IPv6: **0**
+> Last updated: **2026-07-21** · Total CIDRs: **25** · IPv4: **25** · IPv6: **0**
 
 Machine-readable, daily-updated, validated public IP ranges for **GoCache**.
 Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and Apache.

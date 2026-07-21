@@ -248,6 +248,10 @@
     "ip_type": "IPv4"
   },
   {
+    "ip_address": "41.210.189.22/32",
+    "ip_type": "IPv4"
+  },
+  {
     "ip_address": "41.216.70.58/32",
     "ip_type": "IPv4"
   },
@@ -1517,22 +1521,6 @@
   },
   {
     "ip_address": "92.38.142.25/32",
-    "ip_type": "IPv4"
-  },
-  {
-    "ip_address": "92.38.159.4/32",
-    "ip_type": "IPv4"
-  },
-  {
-    "ip_address": "92.38.159.5/32",
-    "ip_type": "IPv4"
-  },
-  {
-    "ip_address": "92.38.159.6/32",
-    "ip_type": "IPv4"
-  },
-  {
-    "ip_address": "92.38.159.7/32",
     "ip_type": "IPv4"
   },
   {
@@ -3808,10 +3796,6 @@
     "ip_type": "IPv4"
   },
   {
-    "ip_address": "202.78.162.6/32",
-    "ip_type": "IPv4"
-  },
-  {
     "ip_address": "202.129.236.162/32",
     "ip_type": "IPv4"
   },
@@ -5720,22 +5704,6 @@
     "ip_type": "IPv6"
   },
   {
-    "ip_address": "2a03:90c0:211:2801::4/128",
-    "ip_type": "IPv6"
-  },
-  {
-    "ip_address": "2a03:90c0:211:2801::5/128",
-    "ip_type": "IPv6"
-  },
-  {
-    "ip_address": "2a03:90c0:211:2801::6/128",
-    "ip_type": "IPv6"
-  },
-  {
-    "ip_address": "2a03:90c0:211:2801::7/128",
-    "ip_type": "IPv6"
-  },
-  {
     "ip_address": "2a03:90c0:211:2801::8/128",
     "ip_type": "IPv6"
   },
@@ -5793,10 +5761,6 @@
   },
   {
     "ip_address": "2a03:90c0:221:2801::11/128",
-    "ip_type": "IPv6"
-  },
-  {
-    "ip_address": "2a03:90c0:231:2801::6/128",
     "ip_type": "IPv6"
   },
   {
@@ -7337,6 +7301,10 @@
   },
   {
     "ip_address": "2c0f:f828:2::114/128",
+    "ip_type": "IPv6"
+  },
+  {
+    "ip_address": "2c0f:fe10::22/128",
     "ip_type": "IPv6"
   },
   {

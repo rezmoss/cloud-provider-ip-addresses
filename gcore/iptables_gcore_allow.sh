@@ -1,6 +1,6 @@
 #!/bin/bash
 # Gcore IP Ranges
-# Updated: 2026-07-19 03:18:13
+# Updated: 2026-07-21 03:17:41
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -44,6 +44,7 @@ iptables -A INPUT -s 37.110.209.228/32 -j ACCEPT
 iptables -A INPUT -s 37.156.224.13/32 -j ACCEPT
 iptables -A INPUT -s 37.156.224.15/32 -j ACCEPT
 iptables -A INPUT -s 37.239.145.2/32 -j ACCEPT
+iptables -A INPUT -s 41.210.189.22/32 -j ACCEPT
 iptables -A INPUT -s 41.216.70.58/32 -j ACCEPT
 iptables -A INPUT -s 41.226.6.202/32 -j ACCEPT
 iptables -A INPUT -s 45.68.4.2/32 -j ACCEPT
@@ -244,7 +245,6 @@ iptables -A INPUT -s 91.243.81.199/32 -j ACCEPT
 iptables -A INPUT -s 91.243.87.4/31 -j ACCEPT
 iptables -A INPUT -s 92.38.142.21/32 -j ACCEPT
 iptables -A INPUT -s 92.38.142.25/32 -j ACCEPT
-iptables -A INPUT -s 92.38.159.4/30 -j ACCEPT
 iptables -A INPUT -s 92.38.159.8/32 -j ACCEPT
 iptables -A INPUT -s 92.38.159.11/32 -j ACCEPT
 iptables -A INPUT -s 92.38.159.12/31 -j ACCEPT
@@ -535,7 +535,6 @@ iptables -A INPUT -s 197.242.183.195/32 -j ACCEPT
 iptables -A INPUT -s 200.10.177.54/32 -j ACCEPT
 iptables -A INPUT -s 200.24.129.98/31 -j ACCEPT
 iptables -A INPUT -s 200.24.129.100/32 -j ACCEPT
-iptables -A INPUT -s 202.78.162.6/32 -j ACCEPT
 iptables -A INPUT -s 202.129.236.162/32 -j ACCEPT
 iptables -A INPUT -s 212.47.156.34/31 -j ACCEPT
 iptables -A INPUT -s 212.47.156.36/32 -j ACCEPT
@@ -836,7 +835,6 @@ ip6tables -A INPUT -s 2a03:90c0:1f1:2801::4/127 -j ACCEPT
 ip6tables -A INPUT -s 2a03:90c0:1f1:2801::6/128 -j ACCEPT
 ip6tables -A INPUT -s 2a03:90c0:1f1:2801::10/127 -j ACCEPT
 ip6tables -A INPUT -s 2a03:90c0:1f1:2801::13/128 -j ACCEPT
-ip6tables -A INPUT -s 2a03:90c0:211:2801::4/126 -j ACCEPT
 ip6tables -A INPUT -s 2a03:90c0:211:2801::8/128 -j ACCEPT
 ip6tables -A INPUT -s 2a03:90c0:211:2801::11/128 -j ACCEPT
 ip6tables -A INPUT -s 2a03:90c0:211:2801::12/127 -j ACCEPT
@@ -845,7 +843,6 @@ ip6tables -A INPUT -s 2a03:90c0:211:2801::16/127 -j ACCEPT
 ip6tables -A INPUT -s 2a03:90c0:221:2801::4/126 -j ACCEPT
 ip6tables -A INPUT -s 2a03:90c0:221:2801::8/127 -j ACCEPT
 ip6tables -A INPUT -s 2a03:90c0:221:2801::10/127 -j ACCEPT
-ip6tables -A INPUT -s 2a03:90c0:231:2801::6/128 -j ACCEPT
 ip6tables -A INPUT -s 2a03:90c0:251:2801::4/127 -j ACCEPT
 ip6tables -A INPUT -s 2a03:90c0:251:2801::6/128 -j ACCEPT
 ip6tables -A INPUT -s 2a03:90c0:251:2801::10/127 -j ACCEPT
@@ -1012,4 +1009,5 @@ ip6tables -A INPUT -s 2c0f:4280:6400:2::202/128 -j ACCEPT
 ip6tables -A INPUT -s 2c0f:ee00:1:c0eb::50/128 -j ACCEPT
 ip6tables -A INPUT -s 2c0f:f578:0:c::106/128 -j ACCEPT
 ip6tables -A INPUT -s 2c0f:f828:2::114/128 -j ACCEPT
+ip6tables -A INPUT -s 2c0f:fe10::22/128 -j ACCEPT
 ip6tables -A INPUT -s 2c0f:fe38:7:50::2/128 -j ACCEPT

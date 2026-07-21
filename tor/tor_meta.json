@@ -1,23 +1,23 @@
 {
   "provider": "tor",
-  "version": 33,
-  "generated_date": "2026-07-20",
-  "last_changed_date": "2026-07-20",
+  "version": 34,
+  "generated_date": "2026-07-21",
+  "last_changed_date": "2026-07-21",
   "sources": [
     "https://check.torproject.org/torbulkexitlist"
   ],
   "ipv4": {
-    "cidrs": 1423,
-    "merged_cidrs": 867,
-    "addresses": 1423
+    "cidrs": 1425,
+    "merged_cidrs": 856,
+    "addresses": 1425
   },
   "ipv6": {
     "cidrs": 0,
     "merged_cidrs": 0,
     "addresses": 0
   },
-  "total_entries": 1423,
-  "content_sha256": "9f5dbb63d6d487fbb9b6477c7b13367a9e12a180fc7b4f06ce9796e086c791df",
+  "total_entries": 1425,
+  "content_sha256": "706897859c622007a5da507e07f43fcd1154170658d1674ae92ebf9f439be1a9",
   "license": "CC0-1.0",
   "license_url": "https://github.com/rezmoss/cloud-provider-ip-addresses/blob/main/LICENSE"
 }

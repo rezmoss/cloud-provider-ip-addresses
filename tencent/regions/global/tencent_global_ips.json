@@ -2904,6 +2904,12 @@
     "region": "global"
   },
   {
+    "ip_address": "49.51.53.0/24",
+    "ip_type": "IPv4",
+    "service": "tencent-as132203",
+    "region": "global"
+  },
+  {
     "ip_address": "49.51.64.0/21",
     "ip_type": "IPv4",
     "service": "tencent-as132203",
@@ -15486,6 +15492,18 @@
     "region": "global"
   },
   {
+    "ip_address": "142.86.0.0/18",
+    "ip_type": "IPv4",
+    "service": "tencent-as132203",
+    "region": "global"
+  },
+  {
+    "ip_address": "142.86.64.0/18",
+    "ip_type": "IPv4",
+    "service": "tencent-as132203",
+    "region": "global"
+  },
+  {
     "ip_address": "146.56.192.0/18",
     "ip_type": "IPv4",
     "service": "tencent-as45090",
@@ -16611,6 +16629,18 @@
     "ip_address": "159.75.192.0/18",
     "ip_type": "IPv4",
     "service": "tencent-as45090",
+    "region": "global"
+  },
+  {
+    "ip_address": "161.120.0.0/18",
+    "ip_type": "IPv4",
+    "service": "tencent-as132203",
+    "region": "global"
+  },
+  {
+    "ip_address": "161.120.64.0/18",
+    "ip_type": "IPv4",
+    "service": "tencent-as132203",
     "region": "global"
   },
   {

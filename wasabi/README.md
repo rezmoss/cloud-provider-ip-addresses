@@ -1,6 +1,6 @@
 # Wasabi IP Ranges (Auto-Updated Daily)
 
-> Last updated: **2026-07-20** · Total CIDRs: **20** · IPv4: **20** · IPv6: **0** · Services: **1** · Regions: **1**
+> Last updated: **2026-07-21** · Total CIDRs: **20** · IPv4: **20** · IPv6: **0** · Services: **1** · Regions: **1**
 
 Machine-readable, daily-updated, validated public IP ranges for **Wasabi**.
 Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and Apache.
