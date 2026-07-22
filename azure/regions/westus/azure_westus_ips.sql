@@ -1261,6 +1261,9 @@ INSERT INTO `azure_westus_ips` (`ip_address`, `ip_type`) VALUES ('72.153.253.128
 INSERT INTO `azure_westus_ips` (`ip_address`, `ip_type`) VALUES ('72.153.253.192/27', 'IPv4');
 INSERT INTO `azure_westus_ips` (`ip_address`, `ip_type`) VALUES ('72.153.253.224/30', 'IPv4');
 INSERT INTO `azure_westus_ips` (`ip_address`, `ip_type`) VALUES ('74.146.0.0/17', 'IPv4');
+INSERT INTO `azure_westus_ips` (`ip_address`, `ip_type`) VALUES ('74.146.6.230/31', 'IPv4');
+INSERT INTO `azure_westus_ips` (`ip_address`, `ip_type`) VALUES ('74.146.24.4/30', 'IPv4');
+INSERT INTO `azure_westus_ips` (`ip_address`, `ip_type`) VALUES ('74.146.24.8/29', 'IPv4');
 INSERT INTO `azure_westus_ips` (`ip_address`, `ip_type`) VALUES ('74.146.24.32/27', 'IPv4');
 INSERT INTO `azure_westus_ips` (`ip_address`, `ip_type`) VALUES ('104.40.0.0/17', 'IPv4');
 INSERT INTO `azure_westus_ips` (`ip_address`, `ip_type`) VALUES ('104.40.3.53/32', 'IPv4');

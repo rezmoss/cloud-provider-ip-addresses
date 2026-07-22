@@ -7,6 +7,9 @@ CREATE TABLE IF NOT EXISTS `azure_apimanagement.germanywestcentral_ips` (
 );
 
 INSERT INTO `azure_apimanagement.germanywestcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.52.94.112/31', 'IPv4');
+INSERT INTO `azure_apimanagement.germanywestcentral_ips` (`ip_address`, `ip_type`) VALUES ('48.203.190.186/31', 'IPv4');
+INSERT INTO `azure_apimanagement.germanywestcentral_ips` (`ip_address`, `ip_type`) VALUES ('48.203.191.104/29', 'IPv4');
+INSERT INTO `azure_apimanagement.germanywestcentral_ips` (`ip_address`, `ip_type`) VALUES ('48.203.191.128/30', 'IPv4');
 INSERT INTO `azure_apimanagement.germanywestcentral_ips` (`ip_address`, `ip_type`) VALUES ('51.116.96.0/32', 'IPv4');
 INSERT INTO `azure_apimanagement.germanywestcentral_ips` (`ip_address`, `ip_type`) VALUES ('51.116.155.64/28', 'IPv4');
 INSERT INTO `azure_apimanagement.germanywestcentral_ips` (`ip_address`, `ip_type`) VALUES ('135.220.92.104/31', 'IPv4');

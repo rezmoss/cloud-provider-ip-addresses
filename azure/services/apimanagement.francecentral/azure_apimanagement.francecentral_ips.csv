@@ -1,4 +1,7 @@
 ip_address,ip_type,service,region
+4.212.6.194/31,IPv4,ApiManagement.FranceCentral,centralfrance
+4.212.7.120/29,IPv4,ApiManagement.FranceCentral,centralfrance
+4.212.7.192/30,IPv4,ApiManagement.FranceCentral,centralfrance
 40.66.60.111/32,IPv4,ApiManagement.FranceCentral,centralfrance
 40.79.130.44/31,IPv4,ApiManagement.FranceCentral,centralfrance
 40.79.131.192/28,IPv4,ApiManagement.FranceCentral,centralfrance

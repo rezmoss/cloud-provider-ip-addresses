@@ -30,6 +30,24 @@
     "region": "eastus2"
   },
   {
+    "ip_address": "74.157.84.10/31",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.EastUS2",
+    "region": "eastus2"
+  },
+  {
+    "ip_address": "74.157.84.12/30",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.EastUS2",
+    "region": "eastus2"
+  },
+  {
+    "ip_address": "74.157.84.16/29",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.EastUS2",
+    "region": "eastus2"
+  },
+  {
     "ip_address": "2603:1030:40c:29::5c0/124",
     "ip_type": "IPv6",
     "service": "ApiManagement.EastUS2",

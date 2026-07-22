@@ -42,6 +42,24 @@
     "region": "westus"
   },
   {
+    "ip_address": "74.146.6.230/31",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.WestUS",
+    "region": "westus"
+  },
+  {
+    "ip_address": "74.146.24.4/30",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.WestUS",
+    "region": "westus"
+  },
+  {
+    "ip_address": "74.146.24.8/29",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.WestUS",
+    "region": "westus"
+  },
+  {
     "ip_address": "2603:1030:a07:9::70/124",
     "ip_type": "IPv6",
     "service": "ApiManagement.WestUS",

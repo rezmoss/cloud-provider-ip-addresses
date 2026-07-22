@@ -168,6 +168,24 @@
     "region": "centralindia"
   },
   {
+    "ip_address": "4.188.129.68/30",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "4.188.129.72/29",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.CentralIndia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "4.188.129.80/31",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.CentralIndia",
+    "region": "centralindia"
+  },
+  {
     "ip_address": "4.188.185.15/32",
     "ip_type": "IPv4",
     "service": "LogicApps.CentralIndia",

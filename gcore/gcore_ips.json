@@ -4,6 +4,10 @@
     "ip_type": "IPv4"
   },
   {
+    "ip_address": "2.78.47.38/32",
+    "ip_type": "IPv4"
+  },
+  {
     "ip_address": "5.1.107.249/32",
     "ip_type": "IPv4"
   },
@@ -645,10 +649,6 @@
   },
   {
     "ip_address": "80.15.246.15/32",
-    "ip_type": "IPv4"
-  },
-  {
-    "ip_address": "80.15.246.17/32",
     "ip_type": "IPv4"
   },
   {
@@ -2588,10 +2588,6 @@
     "ip_type": "IPv4"
   },
   {
-    "ip_address": "92.223.126.43/32",
-    "ip_type": "IPv4"
-  },
-  {
     "ip_address": "93.114.56.29/32",
     "ip_type": "IPv4"
   },
@@ -2832,15 +2828,7 @@
     "ip_type": "IPv4"
   },
   {
-    "ip_address": "93.123.17.183/32",
-    "ip_type": "IPv4"
-  },
-  {
     "ip_address": "93.123.17.184/32",
-    "ip_type": "IPv4"
-  },
-  {
-    "ip_address": "93.123.17.185/32",
     "ip_type": "IPv4"
   },
   {
@@ -3573,14 +3561,6 @@
   },
   {
     "ip_address": "192.108.172.33/32",
-    "ip_type": "IPv4"
-  },
-  {
-    "ip_address": "193.36.180.5/32",
-    "ip_type": "IPv4"
-  },
-  {
-    "ip_address": "193.36.180.6/32",
     "ip_type": "IPv4"
   },
   {
@@ -4376,10 +4356,6 @@
     "ip_type": "IPv6"
   },
   {
-    "ip_address": "2a01:c9c0:c018:100::5/128",
-    "ip_type": "IPv6"
-  },
-  {
     "ip_address": "2a01:c9c0:c01a::5/128",
     "ip_type": "IPv6"
   },
@@ -4528,10 +4504,6 @@
     "ip_type": "IPv6"
   },
   {
-    "ip_address": "2a03:90c0:11:2801::43/128",
-    "ip_type": "IPv6"
-  },
-  {
     "ip_address": "2a03:90c0:11:2801::132/128",
     "ip_type": "IPv6"
   },
@@ -4660,15 +4632,7 @@
     "ip_type": "IPv6"
   },
   {
-    "ip_address": "2a03:90c0:11:2801::183/128",
-    "ip_type": "IPv6"
-  },
-  {
     "ip_address": "2a03:90c0:11:2801::184/128",
-    "ip_type": "IPv6"
-  },
-  {
-    "ip_address": "2a03:90c0:11:2801::185/128",
     "ip_type": "IPv6"
   },
   {
@@ -5165,14 +5129,6 @@
   },
   {
     "ip_address": "2a03:90c0:70:2801::5/128",
-    "ip_type": "IPv6"
-  },
-  {
-    "ip_address": "2a03:90c0:a1:2801::5/128",
-    "ip_type": "IPv6"
-  },
-  {
-    "ip_address": "2a03:90c0:a1:2801::6/128",
     "ip_type": "IPv6"
   },
   {

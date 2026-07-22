@@ -1480,6 +1480,9 @@ ip_address,ip_type,service,region
 72.152.228.64/26,IPv4,AzureMonitor.EastUS,eastus
 72.152.254.0/24,IPv4,SCCservice.EastUS,eastus
 74.151.128.0/17,IPv4,AzureCloud.eastus,eastus
+74.151.220.116/30,IPv4,ApiManagement.EastUS,eastus
+74.151.220.120/29,IPv4,ApiManagement.EastUS,eastus
+74.151.221.224/31,IPv4,ApiManagement.EastUS,eastus
 74.179.128.0/17,IPv4,AzureCloud.eastus,eastus
 74.179.172.0/26,IPv4,PowerBI.EastUS,eastus
 74.235.0.0/16,IPv4,AzureCloud.eastus,eastus

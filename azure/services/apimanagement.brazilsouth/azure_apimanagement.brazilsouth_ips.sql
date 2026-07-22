@@ -6,6 +6,9 @@ CREATE TABLE IF NOT EXISTS `azure_apimanagement.brazilsouth_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_apimanagement.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('20.197.175.106/31', 'IPv4');
+INSERT INTO `azure_apimanagement.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('20.226.148.112/29', 'IPv4');
+INSERT INTO `azure_apimanagement.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('20.226.148.120/30', 'IPv4');
 INSERT INTO `azure_apimanagement.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('74.163.143.250/31', 'IPv4');
 INSERT INTO `azure_apimanagement.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('191.233.24.179/32', 'IPv4');
 INSERT INTO `azure_apimanagement.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('191.233.203.28/31', 'IPv4');

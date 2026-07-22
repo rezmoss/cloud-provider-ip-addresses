@@ -42,6 +42,24 @@
     "region": "eastus"
   },
   {
+    "ip_address": "74.151.220.116/30",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "74.151.220.120/29",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "74.151.221.224/31",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.EastUS",
+    "region": "eastus"
+  },
+  {
     "ip_address": "135.222.50.218/31",
     "ip_type": "IPv4",
     "service": "ApiManagement.EastUS",

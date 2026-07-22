@@ -1640,6 +1640,9 @@ ip_address,ip_type,service,region
 74.145.69.128/28,IPv4,AzureMachineLearning.EastUS2,eastus2
 74.155.128.0/17,IPv4,AzureCloud.eastus2,eastus2
 74.157.0.0/16,IPv4,AzureCloud.eastus2,eastus2
+74.157.84.10/31,IPv4,ApiManagement.EastUS2,eastus2
+74.157.84.12/30,IPv4,ApiManagement.EastUS2,eastus2
+74.157.84.16/29,IPv4,ApiManagement.EastUS2,eastus2
 74.249.0.0/17,IPv4,AzureCloud.eastus2,eastus2
 74.249.120.4/31,IPv4,AzureArcInfrastructure.EastUS2,eastus2
 74.249.120.64/26,IPv4,PowerBI.EastUS2,eastus2

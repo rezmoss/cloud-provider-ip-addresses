@@ -2004,6 +2004,18 @@
     "region": "uaenorth"
   },
   {
+    "ip_address": "57.163.54.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uaenorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "57.163.54.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.UAENorth",
+    "region": "uaenorth"
+  },
+  {
     "ip_address": "65.52.248.0/21",
     "ip_type": "IPv4",
     "service": "AzureCloud.uaenorth",

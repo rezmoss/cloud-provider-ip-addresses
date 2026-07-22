@@ -527,6 +527,9 @@ INSERT INTO `azure_ukwest_ips` (`ip_address`, `ip_type`) VALUES ('172.186.128.32
 INSERT INTO `azure_ukwest_ips` (`ip_address`, `ip_type`) VALUES ('172.186.128.64/26', 'IPv4');
 INSERT INTO `azure_ukwest_ips` (`ip_address`, `ip_type`) VALUES ('172.186.133.224/28', 'IPv4');
 INSERT INTO `azure_ukwest_ips` (`ip_address`, `ip_type`) VALUES ('172.186.142.160/27', 'IPv4');
+INSERT INTO `azure_ukwest_ips` (`ip_address`, `ip_type`) VALUES ('172.186.142.222/31', 'IPv4');
+INSERT INTO `azure_ukwest_ips` (`ip_address`, `ip_type`) VALUES ('172.186.143.96/29', 'IPv4');
+INSERT INTO `azure_ukwest_ips` (`ip_address`, `ip_type`) VALUES ('172.186.143.104/30', 'IPv4');
 INSERT INTO `azure_ukwest_ips` (`ip_address`, `ip_type`) VALUES ('172.187.0.0/18', 'IPv4');
 INSERT INTO `azure_ukwest_ips` (`ip_address`, `ip_type`) VALUES ('172.187.0.16/29', 'IPv4');
 INSERT INTO `azure_ukwest_ips` (`ip_address`, `ip_type`) VALUES ('172.187.0.24/31', 'IPv4');

@@ -30,6 +30,24 @@
     "region": "southcentralus"
   },
   {
+    "ip_address": "74.145.188.190/31",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "74.145.198.220/30",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "74.145.199.88/29",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
     "ip_address": "104.214.18.172/31",
     "ip_type": "IPv4",
     "service": "ApiManagement.SouthCentralUS",

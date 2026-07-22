@@ -1,6 +1,6 @@
 #!/bin/bash
 # Azure IP Ranges
-# Updated: 2026-07-18 03:10:25
+# Updated: 2026-07-22 03:12:12
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -795,18 +795,14 @@ ufw deny from 40.87.179.224/28
 ufw deny from 40.87.179.240/29
 ufw deny from 40.87.179.248/31
 ufw deny from 40.87.180.0/23
-ufw deny from 40.87.182.0/26
-ufw deny from 40.87.182.64/27
-ufw deny from 40.87.182.96/28
-ufw deny from 40.87.182.112/31
-ufw deny from 40.87.182.116/30
-ufw deny from 40.87.182.120/30
+ufw deny from 40.87.182.0/25
 ufw deny from 40.87.182.136/29
 ufw deny from 40.87.182.144/28
 ufw deny from 40.87.182.160/27
 ufw deny from 40.87.182.192/27
 ufw deny from 40.87.182.224/28
 ufw deny from 40.87.182.240/31
+ufw deny from 40.87.182.244/31
 ufw deny from 40.87.182.254/31
 ufw deny from 40.87.183.0/26
 ufw deny from 40.87.183.64/28
@@ -1081,13 +1077,7 @@ ufw deny from 40.123.138.128/26
 ufw deny from 40.123.138.192/29
 ufw deny from 40.123.138.200/30
 ufw deny from 40.123.140.0/22
-ufw deny from 40.123.144.0/25
-ufw deny from 40.123.144.128/29
-ufw deny from 40.123.144.138/31
-ufw deny from 40.123.144.140/30
-ufw deny from 40.123.144.144/28
-ufw deny from 40.123.144.160/27
-ufw deny from 40.123.144.192/26
+ufw deny from 40.123.144.0/24
 ufw deny from 40.123.145.0/25
 ufw deny from 40.123.145.128/26
 ufw deny from 40.123.145.192/29
@@ -1162,9 +1152,7 @@ ufw deny from 40.123.165.84/30
 ufw deny from 40.123.165.88/29
 ufw deny from 40.123.165.96/29
 ufw deny from 40.123.165.104/30
-ufw deny from 40.123.165.112/29
-ufw deny from 40.123.165.120/31
-ufw deny from 40.123.165.124/30
+ufw deny from 40.123.165.112/28
 ufw deny from 40.123.165.128/29
 ufw deny from 40.123.165.136/31
 ufw deny from 40.123.165.140/30
@@ -1945,8 +1933,8 @@ ufw deny from 57.157.21.60/31
 ufw deny from 57.157.24.0/24
 ufw deny from 57.157.25.0/26
 ufw deny from 57.157.25.64/27
-ufw deny from 57.157.25.96/29
-ufw deny from 57.157.25.104/31
+ufw deny from 57.157.25.96/28
+ufw deny from 57.157.25.112/31
 ufw deny from 57.157.28.0/25
 ufw deny from 57.157.28.128/26
 ufw deny from 57.157.28.192/29
@@ -2002,13 +1990,13 @@ ufw deny from 57.157.57.32/28
 ufw deny from 57.157.57.48/30
 ufw deny from 57.157.60.0/24
 ufw deny from 57.157.61.0/27
-ufw deny from 57.157.61.32/30
+ufw deny from 57.157.61.32/29
 ufw deny from 57.157.64.0/24
 ufw deny from 57.157.65.0/25
 ufw deny from 57.157.65.128/26
-ufw deny from 57.157.65.192/29
-ufw deny from 57.157.65.200/30
-ufw deny from 57.157.65.204/31
+ufw deny from 57.157.65.192/28
+ufw deny from 57.157.65.208/30
+ufw deny from 57.157.65.212/31
 ufw deny from 57.157.68.0/23
 ufw deny from 57.157.70.0/25
 ufw deny from 57.157.70.128/26
@@ -2035,6 +2023,8 @@ ufw deny from 57.157.88.240/29
 ufw deny from 57.157.92.0/25
 ufw deny from 57.157.92.128/27
 ufw deny from 57.157.92.160/29
+ufw deny from 57.157.92.168/30
+ufw deny from 57.157.92.172/31
 ufw deny from 57.157.96.0/25
 ufw deny from 57.157.96.128/26
 ufw deny from 57.157.96.192/27
@@ -2175,7 +2165,7 @@ ufw deny from 74.153.0.0/17
 ufw deny from 74.154.0.0/15
 ufw deny from 74.156.0.0/17
 ufw deny from 74.157.0.0/16
-ufw deny from 74.158.0.0/17
+ufw deny from 74.158.0.0/16
 ufw deny from 74.159.0.0/17
 ufw deny from 74.160.0.0/17
 ufw deny from 74.161.0.0/16
@@ -2479,6 +2469,7 @@ ufw deny from 145.190.80.0/22
 ufw deny from 145.190.128.0/17
 ufw deny from 145.191.0.0/16
 ufw deny from 147.243.0.0/16
+ufw deny from 150.171.1.16/28
 ufw deny from 150.171.22.0/23
 ufw deny from 150.171.24.0/22
 ufw deny from 150.171.28.0/23
@@ -2618,11 +2609,7 @@ ufw deny from 172.188.0.0/16
 ufw deny from 172.189.0.0/17
 ufw deny from 172.189.128.0/18
 ufw deny from 172.190.0.0/15
-ufw deny from 172.192.0.0/14
-ufw deny from 172.196.0.0/17
-ufw deny from 172.197.0.0/16
-ufw deny from 172.198.0.0/15
-ufw deny from 172.200.0.0/13
+ufw deny from 172.192.0.0/12
 ufw deny from 172.208.0.0/14
 ufw deny from 172.212.0.0/16
 ufw deny from 172.213.0.0/19
@@ -2954,12 +2941,8 @@ ufw deny from 2603:1030:9:d8::/61
 ufw deny from 2603:1030:9:e0::/59
 ufw deny from 2603:1030:9:100::/56
 ufw deny from 2603:1030:9:200::/57
-ufw deny from 2603:1030:9:280::/60
-ufw deny from 2603:1030:9:290::/61
-ufw deny from 2603:1030:9:298::/62
-ufw deny from 2603:1030:9:29c::/63
-ufw deny from 2603:1030:9:29e::/64
-ufw deny from 2603:1030:9:2a0::/64
+ufw deny from 2603:1030:9:280::/59
+ufw deny from 2603:1030:9:2a0::/62
 ufw deny from 2603:1030:9:2a4::/64
 ufw deny from 2603:1030:9:2a8::/61
 ufw deny from 2603:1030:9:2b0::/60
@@ -3216,8 +3199,7 @@ ufw deny from 2603:1030:401:536::/63
 ufw deny from 2603:1030:401:538::/62
 ufw deny from 2603:1030:401:53c::/63
 ufw deny from 2603:1030:401:540::/61
-ufw deny from 2603:1030:401:549::/64
-ufw deny from 2603:1030:401:54a::/63
+ufw deny from 2603:1030:401:548::/62
 ufw deny from 2603:1030:401:54c::/64
 ufw deny from 2603:1030:401:54e::/63
 ufw deny from 2603:1030:401:550::/63
@@ -3403,7 +3385,7 @@ ufw deny from 2603:1030:804:c2::/63
 ufw deny from 2603:1030:804:c4::/62
 ufw deny from 2603:1030:804:c8::/61
 ufw deny from 2603:1030:804:d0::/60
-ufw deny from 2603:1030:804:e0::/64
+ufw deny from 2603:1030:804:e0::/63
 ufw deny from 2603:1030:804:e3::/64
 ufw deny from 2603:1030:804:e4::/62
 ufw deny from 2603:1030:804:e8::/61
@@ -3893,10 +3875,12 @@ ufw deny from 2603:1061:1019:96::/64
 ufw deny from 2603:1061:101a::/57
 ufw deny from 2603:1061:101a:80::/59
 ufw deny from 2603:1061:101a:a0::/60
-ufw deny from 2603:1061:101a:b0::/63
+ufw deny from 2603:1061:101a:b0::/62
+ufw deny from 2603:1061:101a:b4::/63
 ufw deny from 2603:1061:101b::/58
 ufw deny from 2603:1061:101b:40::/60
-ufw deny from 2603:1061:101b:50::/63
+ufw deny from 2603:1061:101b:50::/62
+ufw deny from 2603:1061:101b:54::/64
 ufw deny from 2603:1061:101c::/58
 ufw deny from 2603:1061:101c:40::/59
 ufw deny from 2603:1061:101c:60::/61

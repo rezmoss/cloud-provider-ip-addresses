@@ -222,6 +222,24 @@
     "region": "centralfrance"
   },
   {
+    "ip_address": "4.212.6.194/31",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "4.212.7.120/29",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "4.212.7.192/30",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
     "ip_address": "4.233.0.0/16",
     "ip_type": "IPv4",
     "service": "AzureCloud.centralfrance",

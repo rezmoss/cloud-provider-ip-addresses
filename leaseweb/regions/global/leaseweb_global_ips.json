@@ -6966,12 +6966,6 @@
     "region": "global"
   },
   {
-    "ip_address": "154.16.104.0/24",
-    "ip_type": "IPv4",
-    "service": "leaseweb-as60781",
-    "region": "global"
-  },
-  {
     "ip_address": "154.17.148.0/24",
     "ip_type": "IPv4",
     "service": "leaseweb-as28753",

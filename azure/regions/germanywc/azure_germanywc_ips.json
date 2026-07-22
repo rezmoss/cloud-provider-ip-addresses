@@ -1302,6 +1302,24 @@
     "region": "germanywc"
   },
   {
+    "ip_address": "48.203.190.186/31",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "48.203.191.104/29",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "48.203.191.128/30",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
     "ip_address": "48.208.31.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.germanywc",
@@ -2364,7 +2382,7 @@
     "region": "germanywc"
   },
   {
-    "ip_address": "57.157.61.32/30",
+    "ip_address": "57.157.61.32/29",
     "ip_type": "IPv4",
     "service": "AzureCloud.germanywc",
     "region": "germanywc"

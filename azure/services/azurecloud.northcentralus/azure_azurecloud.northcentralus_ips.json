@@ -1092,19 +1092,19 @@
     "region": "northcentralus"
   },
   {
-    "ip_address": "57.157.65.192/29",
+    "ip_address": "57.157.65.192/28",
     "ip_type": "IPv4",
     "service": "AzureCloud.northcentralus",
     "region": "northcentralus"
   },
   {
-    "ip_address": "57.157.65.200/30",
+    "ip_address": "57.157.65.208/30",
     "ip_type": "IPv4",
     "service": "AzureCloud.northcentralus",
     "region": "northcentralus"
   },
   {
-    "ip_address": "57.157.65.204/31",
+    "ip_address": "57.157.65.212/31",
     "ip_type": "IPv4",
     "service": "AzureCloud.northcentralus",
     "region": "northcentralus"

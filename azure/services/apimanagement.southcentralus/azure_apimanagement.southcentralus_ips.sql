@@ -11,6 +11,9 @@ INSERT INTO `azure_apimanagement.southcentralus_ips` (`ip_address`, `ip_type`) V
 INSERT INTO `azure_apimanagement.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('20.97.32.190/31', 'IPv4');
 INSERT INTO `azure_apimanagement.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('20.188.77.119/32', 'IPv4');
 INSERT INTO `azure_apimanagement.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('48.221.128.2/31', 'IPv4');
+INSERT INTO `azure_apimanagement.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('74.145.188.190/31', 'IPv4');
+INSERT INTO `azure_apimanagement.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('74.145.198.220/30', 'IPv4');
+INSERT INTO `azure_apimanagement.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('74.145.199.88/29', 'IPv4');
 INSERT INTO `azure_apimanagement.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('104.214.18.172/31', 'IPv4');
 INSERT INTO `azure_apimanagement.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('104.214.19.224/28', 'IPv4');
 INSERT INTO `azure_apimanagement.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('191.238.241.97/32', 'IPv4');

@@ -1152,6 +1152,24 @@
     "region": "westindia"
   },
   {
+    "ip_address": "57.159.196.118/31",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.WestIndia",
+    "region": "westindia"
+  },
+  {
+    "ip_address": "57.159.196.248/29",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.WestIndia",
+    "region": "westindia"
+  },
+  {
+    "ip_address": "57.159.197.96/30",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.WestIndia",
+    "region": "westindia"
+  },
+  {
     "ip_address": "70.152.37.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.westindia",

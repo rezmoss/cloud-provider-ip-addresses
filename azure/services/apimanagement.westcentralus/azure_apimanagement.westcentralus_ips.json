@@ -18,6 +18,24 @@
     "region": "westcentralus"
   },
   {
+    "ip_address": "74.159.0.60/30",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "74.159.0.232/29",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "74.159.0.240/31",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
     "ip_address": "128.24.200.144/28",
     "ip_type": "IPv4",
     "service": "ApiManagement.WestCentralUS",

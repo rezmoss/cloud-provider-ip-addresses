@@ -7,6 +7,9 @@ CREATE TABLE IF NOT EXISTS `azure_apimanagement.australiasoutheast_ips` (
 );
 
 INSERT INTO `azure_apimanagement.australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('4.199.83.96/28', 'IPv4');
+INSERT INTO `azure_apimanagement.australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('4.200.209.92/30', 'IPv4');
+INSERT INTO `azure_apimanagement.australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('4.200.209.192/29', 'IPv4');
+INSERT INTO `azure_apimanagement.australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('4.200.209.200/31', 'IPv4');
 INSERT INTO `azure_apimanagement.australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('13.77.50.68/31', 'IPv4');
 INSERT INTO `azure_apimanagement.australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('13.77.52.224/28', 'IPv4');
 INSERT INTO `azure_apimanagement.australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('20.40.160.107/32', 'IPv4');

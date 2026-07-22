@@ -43,7 +43,10 @@ ip_address,ip_type,service,region
 4.243.164.96/30,IPv4,AzureAttestation.KoreaSouth,koreasouth
 4.243.170.0/23,IPv4,AzureEventGrid.KoreaSouth,koreasouth
 4.243.172.0/22,IPv4,AzureEventGrid.KoreaSouth,koreasouth
+4.243.180.132/30,IPv4,ApiManagement.KoreaSouth,koreasouth
+4.243.180.136/29,IPv4,ApiManagement.KoreaSouth,koreasouth
 4.243.180.160/27,IPv4,Dynamics365ForMarketingEmail.KoreaSouth,koreasouth
+4.243.180.192/31,IPv4,ApiManagement.KoreaSouth,koreasouth
 13.104.157.0/25,IPv4,AzureCloud.koreasouth,koreasouth
 20.39.168.0/21,IPv4,AzureCloud.koreasouth,koreasouth
 20.39.168.21/32,IPv4,AzureCosmosDB.KoreaSouth,koreasouth

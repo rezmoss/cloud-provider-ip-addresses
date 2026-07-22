@@ -19,6 +19,9 @@ ip_address,ip_type,service,region
 4.221.250.0/23,IPv4,AzureEventGrid.SouthAfricaNorth,southafricanorth
 4.221.252.0/22,IPv4,AzureEventGrid.SouthAfricaNorth,southafricanorth
 4.222.0.0/16,IPv4,AzureCloud.southafricanorth,southafricanorth
+4.222.0.38/31,IPv4,ApiManagement.SouthAfricaNorth,southafricanorth
+4.222.1.20/30,IPv4,ApiManagement.SouthAfricaNorth,southafricanorth
+4.222.1.24/29,IPv4,ApiManagement.SouthAfricaNorth,southafricanorth
 4.222.192.112/28,IPv4,LogicApps.SouthAfricaNorth,southafricanorth
 4.222.193.128/28,IPv4,AzureDataExplorerManagement.SouthAfricaNorth,southafricanorth
 4.222.193.144/29,IPv4,PowerPlatformPlex.SouthAfricaNorth,southafricanorth

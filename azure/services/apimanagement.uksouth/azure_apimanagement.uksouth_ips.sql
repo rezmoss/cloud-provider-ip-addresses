@@ -11,4 +11,7 @@ INSERT INTO `azure_apimanagement.uksouth_ips` (`ip_address`, `ip_type`) VALUES (
 INSERT INTO `azure_apimanagement.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('51.140.149.0/28', 'IPv4');
 INSERT INTO `azure_apimanagement.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('51.145.56.125/32', 'IPv4');
 INSERT INTO `azure_apimanagement.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('131.145.110.138/31', 'IPv4');
+INSERT INTO `azure_apimanagement.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('172.165.36.182/31', 'IPv4');
+INSERT INTO `azure_apimanagement.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('172.165.36.184/29', 'IPv4');
+INSERT INTO `azure_apimanagement.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('172.165.36.208/30', 'IPv4');
 INSERT INTO `azure_apimanagement.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:705:402::140/124', 'IPv6');

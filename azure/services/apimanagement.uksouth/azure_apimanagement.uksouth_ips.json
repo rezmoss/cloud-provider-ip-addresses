@@ -30,6 +30,24 @@
     "region": "uksouth"
   },
   {
+    "ip_address": "172.165.36.182/31",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "172.165.36.184/29",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "172.165.36.208/30",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.UKSouth",
+    "region": "uksouth"
+  },
+  {
     "ip_address": "2603:1020:705:402::140/124",
     "ip_type": "IPv6",
     "service": "ApiManagement.UKSouth",

@@ -1,5 +1,23 @@
 [
   {
+    "ip_address": "4.216.20.126/31",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.JapanEast",
+    "region": "japaneast"
+  },
+  {
+    "ip_address": "4.216.23.160/29",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.JapanEast",
+    "region": "japaneast"
+  },
+  {
+    "ip_address": "4.216.23.168/30",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.JapanEast",
+    "region": "japaneast"
+  },
+  {
     "ip_address": "13.78.106.92/31",
     "ip_type": "IPv4",
     "service": "ApiManagement.JapanEast",

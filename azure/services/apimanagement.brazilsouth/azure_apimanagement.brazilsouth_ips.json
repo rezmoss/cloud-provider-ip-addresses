@@ -1,5 +1,23 @@
 [
   {
+    "ip_address": "20.197.175.106/31",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "20.226.148.112/29",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "20.226.148.120/30",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
     "ip_address": "74.163.143.250/31",
     "ip_type": "IPv4",
     "service": "ApiManagement.BrazilSouth",

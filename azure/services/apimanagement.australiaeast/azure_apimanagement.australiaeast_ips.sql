@@ -13,4 +13,7 @@ INSERT INTO `azure_apimanagement.australiaeast_ips` (`ip_address`, `ip_type`) VA
 INSERT INTO `azure_apimanagement.australiaeast_ips` (`ip_address`, `ip_type`) VALUES ('13.75.221.78/32', 'IPv4');
 INSERT INTO `azure_apimanagement.australiaeast_ips` (`ip_address`, `ip_type`) VALUES ('20.40.125.155/32', 'IPv4');
 INSERT INTO `azure_apimanagement.australiaeast_ips` (`ip_address`, `ip_type`) VALUES ('20.70.220.182/31', 'IPv4');
+INSERT INTO `azure_apimanagement.australiaeast_ips` (`ip_address`, `ip_type`) VALUES ('51.56.213.240/29', 'IPv4');
+INSERT INTO `azure_apimanagement.australiaeast_ips` (`ip_address`, `ip_type`) VALUES ('51.56.213.248/30', 'IPv4');
+INSERT INTO `azure_apimanagement.australiaeast_ips` (`ip_address`, `ip_type`) VALUES ('51.56.213.252/31', 'IPv4');
 INSERT INTO `azure_apimanagement.australiaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:6:402::140/124', 'IPv6');

@@ -324,7 +324,7 @@
     "region": "newzealandnorth"
   },
   {
-    "ip_address": "172.196.0.0/17",
+    "ip_address": "172.196.0.0/16",
     "ip_type": "IPv4",
     "service": "AzureCloud.newzealandnorth",
     "region": "newzealandnorth"

@@ -8,6 +8,9 @@ CREATE TABLE IF NOT EXISTS `azure_apimanagement.westindia_ips` (
 
 INSERT INTO `azure_apimanagement.westindia_ips` (`ip_address`, `ip_type`) VALUES ('20.207.174.224/28', 'IPv4');
 INSERT INTO `azure_apimanagement.westindia_ips` (`ip_address`, `ip_type`) VALUES ('40.81.89.24/32', 'IPv4');
+INSERT INTO `azure_apimanagement.westindia_ips` (`ip_address`, `ip_type`) VALUES ('57.159.196.118/31', 'IPv4');
+INSERT INTO `azure_apimanagement.westindia_ips` (`ip_address`, `ip_type`) VALUES ('57.159.196.248/29', 'IPv4');
+INSERT INTO `azure_apimanagement.westindia_ips` (`ip_address`, `ip_type`) VALUES ('57.159.197.96/30', 'IPv4');
 INSERT INTO `azure_apimanagement.westindia_ips` (`ip_address`, `ip_type`) VALUES ('104.211.146.68/31', 'IPv4');
 INSERT INTO `azure_apimanagement.westindia_ips` (`ip_address`, `ip_type`) VALUES ('104.211.147.144/28', 'IPv4');
 INSERT INTO `azure_apimanagement.westindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:806:3::1d0/124', 'IPv6');

@@ -11,5 +11,8 @@ INSERT INTO `azure_apimanagement.eastus2_ips` (`ip_address`, `ip_type`) VALUES (
 INSERT INTO `azure_apimanagement.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('40.70.146.76/31', 'IPv4');
 INSERT INTO `azure_apimanagement.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('40.70.148.16/28', 'IPv4');
 INSERT INTO `azure_apimanagement.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('57.167.184.176/28', 'IPv4');
+INSERT INTO `azure_apimanagement.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('74.157.84.10/31', 'IPv4');
+INSERT INTO `azure_apimanagement.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('74.157.84.12/30', 'IPv4');
+INSERT INTO `azure_apimanagement.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('74.157.84.16/29', 'IPv4');
 INSERT INTO `azure_apimanagement.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:29::5c0/124', 'IPv6');
 INSERT INTO `azure_apimanagement.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:402::140/124', 'IPv6');

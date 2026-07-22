@@ -24,6 +24,24 @@
     "region": "centraluseuap"
   },
   {
+    "ip_address": "57.173.52.2/31",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "57.173.52.64/29",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
+    "ip_address": "57.173.52.72/30",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
     "ip_address": "2603:1030:f:2::490/124",
     "ip_type": "IPv6",
     "service": "ApiManagement.CentralUSEUAP",

@@ -36,6 +36,24 @@
     "region": "centralus"
   },
   {
+    "ip_address": "57.175.109.252/30",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "57.175.110.232/29",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "57.175.110.240/31",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.CentralUS",
+    "region": "centralus"
+  },
+  {
     "ip_address": "2603:1030:10:402::140/124",
     "ip_type": "IPv6",
     "service": "ApiManagement.CentralUS",

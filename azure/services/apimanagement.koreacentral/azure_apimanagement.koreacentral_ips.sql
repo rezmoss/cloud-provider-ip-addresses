@@ -6,6 +6,9 @@ CREATE TABLE IF NOT EXISTS `azure_apimanagement.koreacentral_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_apimanagement.koreacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.230.208.236/30', 'IPv4');
+INSERT INTO `azure_apimanagement.koreacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.230.208.248/29', 'IPv4');
+INSERT INTO `azure_apimanagement.koreacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.230.209.64/31', 'IPv4');
 INSERT INTO `azure_apimanagement.koreacentral_ips` (`ip_address`, `ip_type`) VALUES ('20.194.74.240/28', 'IPv4');
 INSERT INTO `azure_apimanagement.koreacentral_ips` (`ip_address`, `ip_type`) VALUES ('40.82.157.167/32', 'IPv4');
 INSERT INTO `azure_apimanagement.koreacentral_ips` (`ip_address`, `ip_type`) VALUES ('52.231.18.44/31', 'IPv4');

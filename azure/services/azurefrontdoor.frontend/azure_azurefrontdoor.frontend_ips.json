@@ -642,6 +642,12 @@
     "region": ""
   },
   {
+    "ip_address": "150.171.1.16/28",
+    "ip_type": "IPv4",
+    "service": "AzureFrontDoor.Frontend",
+    "region": ""
+  },
+  {
     "ip_address": "150.171.22.0/23",
     "ip_type": "IPv4",
     "service": "AzureFrontDoor.Frontend",

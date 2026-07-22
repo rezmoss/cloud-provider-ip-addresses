@@ -12,6 +12,24 @@
     "region": "southindia"
   },
   {
+    "ip_address": "4.247.39.148/30",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "4.247.39.152/29",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "4.247.40.32/31",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.SouthIndia",
+    "region": "southindia"
+  },
+  {
     "ip_address": "13.71.64.0/18",
     "ip_type": "IPv4",
     "service": "AzureCloud.southindia",

@@ -36,6 +36,9 @@ ip_address,ip_type,service,region
 4.145.220.240/28,IPv4,AzureMonitor.SoutheastAsia,southeastasia
 4.145.224.0/25,IPv4,AzureContainerRegistry.SoutheastAsia,southeastasia
 4.146.0.0/16,IPv4,AzureCloud.southeastasia,southeastasia
+4.146.0.14/31,IPv4,ApiManagement.SoutheastAsia,southeastasia
+4.146.0.232/29,IPv4,ApiManagement.SoutheastAsia,southeastasia
+4.146.0.240/30,IPv4,ApiManagement.SoutheastAsia,southeastasia
 4.193.0.0/16,IPv4,AzureCloud.southeastasia,southeastasia
 4.193.1.232/29,IPv4,AzureAttestation.SoutheastAsia,southeastasia
 4.193.2.0/30,IPv4,AzureAttestation.SoutheastAsia,southeastasia

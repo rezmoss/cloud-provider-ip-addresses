@@ -1,4 +1,7 @@
 ip_address,ip_type,service,region
+4.247.39.148/30,IPv4,ApiManagement.SouthIndia,southindia
+4.247.39.152/29,IPv4,ApiManagement.SouthIndia,southindia
+4.247.40.32/31,IPv4,ApiManagement.SouthIndia,southindia
 20.44.33.246/32,IPv4,ApiManagement.SouthIndia,southindia
 40.78.194.68/31,IPv4,ApiManagement.SouthIndia,southindia
 40.78.195.224/28,IPv4,ApiManagement.SouthIndia,southindia

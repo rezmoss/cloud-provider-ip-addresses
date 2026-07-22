@@ -1074,6 +1074,12 @@
     "region": "westus3"
   },
   {
+    "ip_address": "145.190.186.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.westus3",
+    "region": "westus3"
+  },
+  {
     "ip_address": "151.206.160.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.westus3",

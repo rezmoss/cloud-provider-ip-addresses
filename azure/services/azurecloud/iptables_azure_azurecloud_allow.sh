@@ -1,6 +1,6 @@
 #!/bin/bash
 # Azure IP Ranges
-# Updated: 2026-07-18 03:10:31
+# Updated: 2026-07-22 03:12:19
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -730,18 +730,14 @@ iptables -A INPUT -s 40.87.179.224/28 -j ACCEPT
 iptables -A INPUT -s 40.87.179.240/29 -j ACCEPT
 iptables -A INPUT -s 40.87.179.248/31 -j ACCEPT
 iptables -A INPUT -s 40.87.180.0/23 -j ACCEPT
-iptables -A INPUT -s 40.87.182.0/26 -j ACCEPT
-iptables -A INPUT -s 40.87.182.64/27 -j ACCEPT
-iptables -A INPUT -s 40.87.182.96/28 -j ACCEPT
-iptables -A INPUT -s 40.87.182.112/31 -j ACCEPT
-iptables -A INPUT -s 40.87.182.116/30 -j ACCEPT
-iptables -A INPUT -s 40.87.182.120/30 -j ACCEPT
+iptables -A INPUT -s 40.87.182.0/25 -j ACCEPT
 iptables -A INPUT -s 40.87.182.136/29 -j ACCEPT
 iptables -A INPUT -s 40.87.182.144/28 -j ACCEPT
 iptables -A INPUT -s 40.87.182.160/27 -j ACCEPT
 iptables -A INPUT -s 40.87.182.192/27 -j ACCEPT
 iptables -A INPUT -s 40.87.182.224/28 -j ACCEPT
 iptables -A INPUT -s 40.87.182.240/31 -j ACCEPT
+iptables -A INPUT -s 40.87.182.244/31 -j ACCEPT
 iptables -A INPUT -s 40.87.182.254/31 -j ACCEPT
 iptables -A INPUT -s 40.87.183.0/26 -j ACCEPT
 iptables -A INPUT -s 40.87.183.64/28 -j ACCEPT
@@ -1054,13 +1050,7 @@ iptables -A INPUT -s 40.123.138.128/26 -j ACCEPT
 iptables -A INPUT -s 40.123.138.192/29 -j ACCEPT
 iptables -A INPUT -s 40.123.138.200/30 -j ACCEPT
 iptables -A INPUT -s 40.123.140.0/22 -j ACCEPT
-iptables -A INPUT -s 40.123.144.0/25 -j ACCEPT
-iptables -A INPUT -s 40.123.144.128/29 -j ACCEPT
-iptables -A INPUT -s 40.123.144.138/31 -j ACCEPT
-iptables -A INPUT -s 40.123.144.140/30 -j ACCEPT
-iptables -A INPUT -s 40.123.144.144/28 -j ACCEPT
-iptables -A INPUT -s 40.123.144.160/27 -j ACCEPT
-iptables -A INPUT -s 40.123.144.192/26 -j ACCEPT
+iptables -A INPUT -s 40.123.144.0/24 -j ACCEPT
 iptables -A INPUT -s 40.123.145.0/25 -j ACCEPT
 iptables -A INPUT -s 40.123.145.128/26 -j ACCEPT
 iptables -A INPUT -s 40.123.145.192/29 -j ACCEPT
@@ -1135,9 +1125,7 @@ iptables -A INPUT -s 40.123.165.84/30 -j ACCEPT
 iptables -A INPUT -s 40.123.165.88/29 -j ACCEPT
 iptables -A INPUT -s 40.123.165.96/29 -j ACCEPT
 iptables -A INPUT -s 40.123.165.104/30 -j ACCEPT
-iptables -A INPUT -s 40.123.165.112/29 -j ACCEPT
-iptables -A INPUT -s 40.123.165.120/31 -j ACCEPT
-iptables -A INPUT -s 40.123.165.124/30 -j ACCEPT
+iptables -A INPUT -s 40.123.165.112/28 -j ACCEPT
 iptables -A INPUT -s 40.123.165.128/29 -j ACCEPT
 iptables -A INPUT -s 40.123.165.136/31 -j ACCEPT
 iptables -A INPUT -s 40.123.165.140/30 -j ACCEPT
@@ -1998,8 +1986,8 @@ iptables -A INPUT -s 57.157.21.60/31 -j ACCEPT
 iptables -A INPUT -s 57.157.24.0/24 -j ACCEPT
 iptables -A INPUT -s 57.157.25.0/26 -j ACCEPT
 iptables -A INPUT -s 57.157.25.64/27 -j ACCEPT
-iptables -A INPUT -s 57.157.25.96/29 -j ACCEPT
-iptables -A INPUT -s 57.157.25.104/31 -j ACCEPT
+iptables -A INPUT -s 57.157.25.96/28 -j ACCEPT
+iptables -A INPUT -s 57.157.25.112/31 -j ACCEPT
 iptables -A INPUT -s 57.157.28.0/25 -j ACCEPT
 iptables -A INPUT -s 57.157.28.128/26 -j ACCEPT
 iptables -A INPUT -s 57.157.28.192/29 -j ACCEPT
@@ -2055,13 +2043,13 @@ iptables -A INPUT -s 57.157.57.32/28 -j ACCEPT
 iptables -A INPUT -s 57.157.57.48/30 -j ACCEPT
 iptables -A INPUT -s 57.157.60.0/24 -j ACCEPT
 iptables -A INPUT -s 57.157.61.0/27 -j ACCEPT
-iptables -A INPUT -s 57.157.61.32/30 -j ACCEPT
+iptables -A INPUT -s 57.157.61.32/29 -j ACCEPT
 iptables -A INPUT -s 57.157.64.0/24 -j ACCEPT
 iptables -A INPUT -s 57.157.65.0/25 -j ACCEPT
 iptables -A INPUT -s 57.157.65.128/26 -j ACCEPT
-iptables -A INPUT -s 57.157.65.192/29 -j ACCEPT
-iptables -A INPUT -s 57.157.65.200/30 -j ACCEPT
-iptables -A INPUT -s 57.157.65.204/31 -j ACCEPT
+iptables -A INPUT -s 57.157.65.192/28 -j ACCEPT
+iptables -A INPUT -s 57.157.65.208/30 -j ACCEPT
+iptables -A INPUT -s 57.157.65.212/31 -j ACCEPT
 iptables -A INPUT -s 57.157.68.0/23 -j ACCEPT
 iptables -A INPUT -s 57.157.70.0/25 -j ACCEPT
 iptables -A INPUT -s 57.157.70.128/26 -j ACCEPT
@@ -2088,6 +2076,8 @@ iptables -A INPUT -s 57.157.88.240/29 -j ACCEPT
 iptables -A INPUT -s 57.157.92.0/25 -j ACCEPT
 iptables -A INPUT -s 57.157.92.128/27 -j ACCEPT
 iptables -A INPUT -s 57.157.92.160/29 -j ACCEPT
+iptables -A INPUT -s 57.157.92.168/30 -j ACCEPT
+iptables -A INPUT -s 57.157.92.172/31 -j ACCEPT
 iptables -A INPUT -s 57.157.96.0/25 -j ACCEPT
 iptables -A INPUT -s 57.157.96.128/26 -j ACCEPT
 iptables -A INPUT -s 57.157.96.192/27 -j ACCEPT
@@ -2122,8 +2112,7 @@ iptables -A INPUT -s 57.160.0.0/17 -j ACCEPT
 iptables -A INPUT -s 57.162.0.0/16 -j ACCEPT
 iptables -A INPUT -s 57.163.0.0/19 -j ACCEPT
 iptables -A INPUT -s 57.163.32.0/20 -j ACCEPT
-iptables -A INPUT -s 57.163.48.0/22 -j ACCEPT
-iptables -A INPUT -s 57.163.52.0/23 -j ACCEPT
+iptables -A INPUT -s 57.163.48.0/21 -j ACCEPT
 iptables -A INPUT -s 57.165.0.0/16 -j ACCEPT
 iptables -A INPUT -s 57.166.0.0/15 -j ACCEPT
 iptables -A INPUT -s 57.168.0.0/15 -j ACCEPT
@@ -2231,7 +2220,7 @@ iptables -A INPUT -s 74.153.0.0/17 -j ACCEPT
 iptables -A INPUT -s 74.154.0.0/15 -j ACCEPT
 iptables -A INPUT -s 74.156.0.0/17 -j ACCEPT
 iptables -A INPUT -s 74.157.0.0/16 -j ACCEPT
-iptables -A INPUT -s 74.158.0.0/17 -j ACCEPT
+iptables -A INPUT -s 74.158.0.0/16 -j ACCEPT
 iptables -A INPUT -s 74.159.0.0/17 -j ACCEPT
 iptables -A INPUT -s 74.160.0.0/17 -j ACCEPT
 iptables -A INPUT -s 74.161.0.0/16 -j ACCEPT
@@ -2451,6 +2440,7 @@ iptables -A INPUT -s 145.190.128.0/19 -j ACCEPT
 iptables -A INPUT -s 145.190.160.0/20 -j ACCEPT
 iptables -A INPUT -s 145.190.176.0/21 -j ACCEPT
 iptables -A INPUT -s 145.190.184.0/23 -j ACCEPT
+iptables -A INPUT -s 145.190.186.0/24 -j ACCEPT
 iptables -A INPUT -s 145.191.0.0/16 -j ACCEPT
 iptables -A INPUT -s 151.206.64.0/19 -j ACCEPT
 iptables -A INPUT -s 151.206.96.0/20 -j ACCEPT
@@ -2573,11 +2563,7 @@ iptables -A INPUT -s 172.188.0.0/16 -j ACCEPT
 iptables -A INPUT -s 172.189.0.0/17 -j ACCEPT
 iptables -A INPUT -s 172.189.128.0/18 -j ACCEPT
 iptables -A INPUT -s 172.190.0.0/15 -j ACCEPT
-iptables -A INPUT -s 172.192.0.0/14 -j ACCEPT
-iptables -A INPUT -s 172.196.0.0/17 -j ACCEPT
-iptables -A INPUT -s 172.197.0.0/16 -j ACCEPT
-iptables -A INPUT -s 172.198.0.0/15 -j ACCEPT
-iptables -A INPUT -s 172.200.0.0/13 -j ACCEPT
+iptables -A INPUT -s 172.192.0.0/12 -j ACCEPT
 iptables -A INPUT -s 172.208.0.0/14 -j ACCEPT
 iptables -A INPUT -s 172.212.0.0/16 -j ACCEPT
 iptables -A INPUT -s 172.213.0.0/19 -j ACCEPT
@@ -2916,12 +2902,8 @@ ip6tables -A INPUT -s 2603:1030:9:d8::/61 -j ACCEPT
 ip6tables -A INPUT -s 2603:1030:9:e0::/59 -j ACCEPT
 ip6tables -A INPUT -s 2603:1030:9:100::/56 -j ACCEPT
 ip6tables -A INPUT -s 2603:1030:9:200::/57 -j ACCEPT
-ip6tables -A INPUT -s 2603:1030:9:280::/60 -j ACCEPT
-ip6tables -A INPUT -s 2603:1030:9:290::/61 -j ACCEPT
-ip6tables -A INPUT -s 2603:1030:9:298::/62 -j ACCEPT
-ip6tables -A INPUT -s 2603:1030:9:29c::/63 -j ACCEPT
-ip6tables -A INPUT -s 2603:1030:9:29e::/64 -j ACCEPT
-ip6tables -A INPUT -s 2603:1030:9:2a0::/64 -j ACCEPT
+ip6tables -A INPUT -s 2603:1030:9:280::/59 -j ACCEPT
+ip6tables -A INPUT -s 2603:1030:9:2a0::/62 -j ACCEPT
 ip6tables -A INPUT -s 2603:1030:9:2a4::/64 -j ACCEPT
 ip6tables -A INPUT -s 2603:1030:9:2a8::/61 -j ACCEPT
 ip6tables -A INPUT -s 2603:1030:9:2b0::/60 -j ACCEPT
@@ -3178,8 +3160,7 @@ ip6tables -A INPUT -s 2603:1030:401:536::/63 -j ACCEPT
 ip6tables -A INPUT -s 2603:1030:401:538::/62 -j ACCEPT
 ip6tables -A INPUT -s 2603:1030:401:53c::/63 -j ACCEPT
 ip6tables -A INPUT -s 2603:1030:401:540::/61 -j ACCEPT
-ip6tables -A INPUT -s 2603:1030:401:549::/64 -j ACCEPT
-ip6tables -A INPUT -s 2603:1030:401:54a::/63 -j ACCEPT
+ip6tables -A INPUT -s 2603:1030:401:548::/62 -j ACCEPT
 ip6tables -A INPUT -s 2603:1030:401:54c::/64 -j ACCEPT
 ip6tables -A INPUT -s 2603:1030:401:54e::/63 -j ACCEPT
 ip6tables -A INPUT -s 2603:1030:401:550::/63 -j ACCEPT
@@ -3365,7 +3346,7 @@ ip6tables -A INPUT -s 2603:1030:804:c2::/63 -j ACCEPT
 ip6tables -A INPUT -s 2603:1030:804:c4::/62 -j ACCEPT
 ip6tables -A INPUT -s 2603:1030:804:c8::/61 -j ACCEPT
 ip6tables -A INPUT -s 2603:1030:804:d0::/60 -j ACCEPT
-ip6tables -A INPUT -s 2603:1030:804:e0::/64 -j ACCEPT
+ip6tables -A INPUT -s 2603:1030:804:e0::/63 -j ACCEPT
 ip6tables -A INPUT -s 2603:1030:804:e3::/64 -j ACCEPT
 ip6tables -A INPUT -s 2603:1030:804:e4::/62 -j ACCEPT
 ip6tables -A INPUT -s 2603:1030:804:e8::/61 -j ACCEPT
@@ -3861,10 +3842,12 @@ ip6tables -A INPUT -s 2603:1061:1019:96::/64 -j ACCEPT
 ip6tables -A INPUT -s 2603:1061:101a::/57 -j ACCEPT
 ip6tables -A INPUT -s 2603:1061:101a:80::/59 -j ACCEPT
 ip6tables -A INPUT -s 2603:1061:101a:a0::/60 -j ACCEPT
-ip6tables -A INPUT -s 2603:1061:101a:b0::/63 -j ACCEPT
+ip6tables -A INPUT -s 2603:1061:101a:b0::/62 -j ACCEPT
+ip6tables -A INPUT -s 2603:1061:101a:b4::/63 -j ACCEPT
 ip6tables -A INPUT -s 2603:1061:101b::/58 -j ACCEPT
 ip6tables -A INPUT -s 2603:1061:101b:40::/60 -j ACCEPT
-ip6tables -A INPUT -s 2603:1061:101b:50::/63 -j ACCEPT
+ip6tables -A INPUT -s 2603:1061:101b:50::/62 -j ACCEPT
+ip6tables -A INPUT -s 2603:1061:101b:54::/64 -j ACCEPT
 ip6tables -A INPUT -s 2603:1061:101c::/58 -j ACCEPT
 ip6tables -A INPUT -s 2603:1061:101c:40::/59 -j ACCEPT
 ip6tables -A INPUT -s 2603:1061:101c:60::/61 -j ACCEPT

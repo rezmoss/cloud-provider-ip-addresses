@@ -1,5 +1,23 @@
 [
   {
+    "ip_address": "4.173.153.160/29",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "4.173.153.168/30",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "4.173.153.172/31",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
     "ip_address": "13.71.170.44/31",
     "ip_type": "IPv4",
     "service": "ApiManagement.CanadaCentral",

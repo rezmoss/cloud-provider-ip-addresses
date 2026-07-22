@@ -222,6 +222,12 @@
     "region": "japaneast"
   },
   {
+    "ip_address": "4.216.20.126/31",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.JapanEast",
+    "region": "japaneast"
+  },
+  {
     "ip_address": "4.216.21.96/28",
     "ip_type": "IPv4",
     "service": "PowerPlatformPlex.JapanEast",
@@ -249,6 +255,18 @@
     "ip_address": "4.216.22.128/26",
     "ip_type": "IPv4",
     "service": "PowerPlatformInfra.JapanEast",
+    "region": "japaneast"
+  },
+  {
+    "ip_address": "4.216.23.160/29",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.JapanEast",
+    "region": "japaneast"
+  },
+  {
+    "ip_address": "4.216.23.168/30",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.JapanEast",
     "region": "japaneast"
   },
   {

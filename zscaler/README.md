@@ -1,6 +1,6 @@
 # Zscaler IP Ranges (Auto-Updated Daily)
 
-> Last updated: **2026-07-21** · Total CIDRs: **947** · IPv4: **866** · IPv6: **81** · Services: **4** · Regions: **1**
+> Last updated: **2026-07-22** · Total CIDRs: **947** · IPv4: **866** · IPv6: **81** · Services: **4** · Regions: **1**
 
 Machine-readable, daily-updated, validated public IP ranges for **Zscaler**.
 Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and Apache.

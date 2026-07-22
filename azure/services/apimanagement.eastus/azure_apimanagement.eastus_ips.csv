@@ -6,5 +6,8 @@ ip_address,ip_type,service,region
 40.117.134.189/32,IPv4,ApiManagement.EastUS,eastus
 40.121.13.26/32,IPv4,ApiManagement.EastUS,eastus
 52.224.186.99/32,IPv4,ApiManagement.EastUS,eastus
+74.151.220.116/30,IPv4,ApiManagement.EastUS,eastus
+74.151.220.120/29,IPv4,ApiManagement.EastUS,eastus
+74.151.221.224/31,IPv4,ApiManagement.EastUS,eastus
 135.222.50.218/31,IPv4,ApiManagement.EastUS,eastus
 2603:1030:210:402::140/124,IPv6,ApiManagement.EastUS,eastus

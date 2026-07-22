@@ -1,6 +1,6 @@
 #!/bin/bash
 # Github IP Ranges
-# Updated: 2026-07-16 03:11:57
+# Updated: 2026-07-22 03:13:13
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -1446,6 +1446,7 @@ iptables -A INPUT -s 40.87.182.56/30 -j DROP
 iptables -A INPUT -s 40.87.182.62/31 -j DROP
 iptables -A INPUT -s 40.87.182.64/27 -j DROP
 iptables -A INPUT -s 40.87.182.96/28 -j DROP
+iptables -A INPUT -s 40.87.182.112/31 -j DROP
 iptables -A INPUT -s 40.87.182.116/30 -j DROP
 iptables -A INPUT -s 40.87.182.120/30 -j DROP
 iptables -A INPUT -s 40.87.182.136/29 -j DROP
@@ -1851,19 +1852,14 @@ iptables -A INPUT -s 40.123.140.0/22 -j DROP
 iptables -A INPUT -s 40.123.144.0/30 -j DROP
 iptables -A INPUT -s 40.123.144.6/31 -j DROP
 iptables -A INPUT -s 40.123.144.8/29 -j DROP
-iptables -A INPUT -s 40.123.144.16/29 -j DROP
-iptables -A INPUT -s 40.123.144.24/31 -j DROP
-iptables -A INPUT -s 40.123.144.30/31 -j DROP
+iptables -A INPUT -s 40.123.144.16/28 -j DROP
 iptables -A INPUT -s 40.123.144.32/27 -j DROP
 iptables -A INPUT -s 40.123.144.64/29 -j DROP
 iptables -A INPUT -s 40.123.144.82/31 -j DROP
 iptables -A INPUT -s 40.123.144.86/31 -j DROP
 iptables -A INPUT -s 40.123.144.104/29 -j DROP
-iptables -A INPUT -s 40.123.144.112/31 -j DROP
-iptables -A INPUT -s 40.123.144.118/31 -j DROP
-iptables -A INPUT -s 40.123.144.120/29 -j DROP
-iptables -A INPUT -s 40.123.144.128/30 -j DROP
-iptables -A INPUT -s 40.123.144.132/31 -j DROP
+iptables -A INPUT -s 40.123.144.112/28 -j DROP
+iptables -A INPUT -s 40.123.144.128/29 -j DROP
 iptables -A INPUT -s 40.123.144.138/31 -j DROP
 iptables -A INPUT -s 40.123.144.140/30 -j DROP
 iptables -A INPUT -s 40.123.144.144/29 -j DROP
@@ -3476,6 +3472,7 @@ iptables -A INPUT -s 74.146.0.0/16 -j DROP
 iptables -A INPUT -s 74.151.128.0/17 -j DROP
 iptables -A INPUT -s 74.155.0.0/16 -j DROP
 iptables -A INPUT -s 74.157.0.0/16 -j DROP
+iptables -A INPUT -s 74.159.0.0/17 -j DROP
 iptables -A INPUT -s 74.178.0.0/15 -j DROP
 iptables -A INPUT -s 74.234.0.0/15 -j DROP
 iptables -A INPUT -s 74.249.0.0/16 -j DROP
@@ -4007,7 +4004,7 @@ ip6tables -A INPUT -s 2603:1030:9:28d::/64 -j DROP
 ip6tables -A INPUT -s 2603:1030:9:28e::/63 -j DROP
 ip6tables -A INPUT -s 2603:1030:9:290::/61 -j DROP
 ip6tables -A INPUT -s 2603:1030:9:298::/62 -j DROP
-ip6tables -A INPUT -s 2603:1030:9:29c::/64 -j DROP
+ip6tables -A INPUT -s 2603:1030:9:29c::/63 -j DROP
 ip6tables -A INPUT -s 2603:1030:9:29e::/64 -j DROP
 ip6tables -A INPUT -s 2603:1030:9:2a0::/64 -j DROP
 ip6tables -A INPUT -s 2603:1030:9:2a4::/64 -j DROP
@@ -4483,20 +4480,14 @@ ip6tables -A INPUT -s 2603:1030:401:518::/64 -j DROP
 ip6tables -A INPUT -s 2603:1030:401:51b::/64 -j DROP
 ip6tables -A INPUT -s 2603:1030:401:51c::/62 -j DROP
 ip6tables -A INPUT -s 2603:1030:401:521::/64 -j DROP
-ip6tables -A INPUT -s 2603:1030:401:522::/64 -j DROP
-ip6tables -A INPUT -s 2603:1030:401:524::/64 -j DROP
-ip6tables -A INPUT -s 2603:1030:401:526::/63 -j DROP
-ip6tables -A INPUT -s 2603:1030:401:528::/62 -j DROP
-ip6tables -A INPUT -s 2603:1030:401:52d::/64 -j DROP
-ip6tables -A INPUT -s 2603:1030:401:52e::/63 -j DROP
+ip6tables -A INPUT -s 2603:1030:401:522::/63 -j DROP
+ip6tables -A INPUT -s 2603:1030:401:524::/62 -j DROP
+ip6tables -A INPUT -s 2603:1030:401:528::/61 -j DROP
 ip6tables -A INPUT -s 2603:1030:401:532::/63 -j DROP
 ip6tables -A INPUT -s 2603:1030:401:536::/63 -j DROP
-ip6tables -A INPUT -s 2603:1030:401:538::/63 -j DROP
-ip6tables -A INPUT -s 2603:1030:401:53b::/64 -j DROP
+ip6tables -A INPUT -s 2603:1030:401:538::/62 -j DROP
 ip6tables -A INPUT -s 2603:1030:401:53c::/63 -j DROP
-ip6tables -A INPUT -s 2603:1030:401:540::/63 -j DROP
-ip6tables -A INPUT -s 2603:1030:401:543::/64 -j DROP
-ip6tables -A INPUT -s 2603:1030:401:544::/62 -j DROP
+ip6tables -A INPUT -s 2603:1030:401:540::/61 -j DROP
 ip6tables -A INPUT -s 2603:1030:401:549::/64 -j DROP
 ip6tables -A INPUT -s 2603:1030:401:54a::/63 -j DROP
 ip6tables -A INPUT -s 2603:1030:401:54c::/64 -j DROP

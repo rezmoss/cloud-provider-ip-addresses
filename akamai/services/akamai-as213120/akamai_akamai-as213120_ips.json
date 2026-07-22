@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "2.21.122.0/24",
+    "ip_type": "IPv4",
+    "service": "akamai-as213120",
+    "region": "global"
+  },
+  {
     "ip_address": "23.57.98.0/24",
     "ip_type": "IPv4",
     "service": "akamai-as213120",

@@ -24,6 +24,24 @@
     "region": "ukwest"
   },
   {
+    "ip_address": "172.186.142.222/31",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "172.186.143.96/29",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "172.186.143.104/30",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.UKWest",
+    "region": "ukwest"
+  },
+  {
     "ip_address": "2603:1020:605:3::3b0/124",
     "ip_type": "IPv6",
     "service": "ApiManagement.UKWest",

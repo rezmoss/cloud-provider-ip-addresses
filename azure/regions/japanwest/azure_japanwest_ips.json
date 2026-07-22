@@ -3000,6 +3000,12 @@
     "region": "japanwest"
   },
   {
+    "ip_address": "172.192.223.216/29",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.JapanWest",
+    "region": "japanwest"
+  },
+  {
     "ip_address": "172.192.223.224/27",
     "ip_type": "IPv4",
     "service": "Dynamics365ForMarketingEmail.JapanWest",
@@ -3009,6 +3015,18 @@
     "ip_address": "172.192.224.0/24",
     "ip_type": "IPv4",
     "service": "PowerPlatformInfra.JapanWest",
+    "region": "japanwest"
+  },
+  {
+    "ip_address": "172.192.225.96/30",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.JapanWest",
+    "region": "japanwest"
+  },
+  {
+    "ip_address": "172.192.225.100/31",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.JapanWest",
     "region": "japanwest"
   },
   {

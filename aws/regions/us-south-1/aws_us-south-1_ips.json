@@ -108,6 +108,18 @@
     "region": "us-south-1"
   },
   {
+    "ip_address": "40.235.128.0/18",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-south-1"
+  },
+  {
+    "ip_address": "40.235.128.0/18",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-south-1"
+  },
+  {
     "ip_address": "46.168.0.0/15",
     "ip_type": "IPv4",
     "service": "AMAZON",

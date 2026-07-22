@@ -90,6 +90,12 @@
     "region": "us-east-2"
   },
   {
+    "ip_address": "35.50.145.0/24",
+    "ip_type": "IPv4",
+    "service": "IVS_REALTIME",
+    "region": "us-west-2"
+  },
+  {
     "ip_address": "35.50.160.0/24",
     "ip_type": "IPv4",
     "service": "IVS_REALTIME",
@@ -1216,6 +1222,12 @@
     "ip_type": "IPv6",
     "service": "IVS_REALTIME",
     "region": "ap-southeast-2"
+  },
+  {
+    "ip_address": "2600:f0f0:5409::/48",
+    "ip_type": "IPv6",
+    "service": "IVS_REALTIME",
+    "region": "us-west-2"
   },
   {
     "ip_address": "2600:f0f0:5510::/48",

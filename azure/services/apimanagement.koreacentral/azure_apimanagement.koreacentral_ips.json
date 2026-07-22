@@ -1,5 +1,23 @@
 [
   {
+    "ip_address": "4.230.208.236/30",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "4.230.208.248/29",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "4.230.209.64/31",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
     "ip_address": "20.194.74.240/28",
     "ip_type": "IPv4",
     "service": "ApiManagement.KoreaCentral",

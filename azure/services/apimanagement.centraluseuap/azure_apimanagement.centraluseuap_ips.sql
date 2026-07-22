@@ -10,5 +10,8 @@ INSERT INTO `azure_apimanagement.centraluseuap_ips` (`ip_address`, `ip_type`) VA
 INSERT INTO `azure_apimanagement.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('40.78.202.128/31', 'IPv4');
 INSERT INTO `azure_apimanagement.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('40.78.203.160/28', 'IPv4');
 INSERT INTO `azure_apimanagement.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('52.253.159.160/32', 'IPv4');
+INSERT INTO `azure_apimanagement.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('57.173.52.2/31', 'IPv4');
+INSERT INTO `azure_apimanagement.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('57.173.52.64/29', 'IPv4');
+INSERT INTO `azure_apimanagement.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('57.173.52.72/30', 'IPv4');
 INSERT INTO `azure_apimanagement.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f:2::490/124', 'IPv6');
 INSERT INTO `azure_apimanagement.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f:400::940/124', 'IPv6');

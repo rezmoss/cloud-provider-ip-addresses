@@ -1710,9 +1710,27 @@
     "region": "southfrance"
   },
   {
+    "ip_address": "98.66.37.152/29",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.FranceSouth",
+    "region": "southfrance"
+  },
+  {
     "ip_address": "98.66.37.192/27",
     "ip_type": "IPv4",
     "service": "Dynamics365ForMarketingEmail.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "98.66.37.224/30",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "98.66.37.228/31",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.FranceSouth",
     "region": "southfrance"
   },
   {

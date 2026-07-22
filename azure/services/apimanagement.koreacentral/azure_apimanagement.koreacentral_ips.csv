@@ -1,4 +1,7 @@
 ip_address,ip_type,service,region
+4.230.208.236/30,IPv4,ApiManagement.KoreaCentral,koreacentral
+4.230.208.248/29,IPv4,ApiManagement.KoreaCentral,koreacentral
+4.230.209.64/31,IPv4,ApiManagement.KoreaCentral,koreacentral
 20.194.74.240/28,IPv4,ApiManagement.KoreaCentral,koreacentral
 40.82.157.167/32,IPv4,ApiManagement.KoreaCentral,koreacentral
 52.231.18.44/31,IPv4,ApiManagement.KoreaCentral,koreacentral

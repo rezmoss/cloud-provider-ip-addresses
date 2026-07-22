@@ -6,6 +6,7 @@ CREATE TABLE IF NOT EXISTS `akamai_akamai-as213120_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `akamai_akamai-as213120_ips` (`ip_address`, `ip_type`) VALUES ('2.21.122.0/24', 'IPv4');
 INSERT INTO `akamai_akamai-as213120_ips` (`ip_address`, `ip_type`) VALUES ('23.57.98.0/24', 'IPv4');
 INSERT INTO `akamai_akamai-as213120_ips` (`ip_address`, `ip_type`) VALUES ('72.52.4.0/24', 'IPv4');
 INSERT INTO `akamai_akamai-as213120_ips` (`ip_address`, `ip_type`) VALUES ('72.52.5.0/24', 'IPv4');

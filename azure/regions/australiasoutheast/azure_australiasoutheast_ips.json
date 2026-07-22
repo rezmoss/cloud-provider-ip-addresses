@@ -270,6 +270,24 @@
     "region": "australiasoutheast"
   },
   {
+    "ip_address": "4.200.209.92/30",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  },
+  {
+    "ip_address": "4.200.209.192/29",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  },
+  {
+    "ip_address": "4.200.209.200/31",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  },
+  {
     "ip_address": "4.200.250.192/31",
     "ip_type": "IPv4",
     "service": "AzureArcInfrastructure.AustraliaSoutheast",
