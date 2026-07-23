@@ -193,20 +193,5 @@
     "ip_address": "2001:19f0:ac00::/38",
     "ip_type": "IPv6",
     "region": "US-CA"
-  },
-  {
-    "ip_address": "2a05:f487:fc07::/48",
-    "ip_type": "IPv6",
-    "region": "US-CA"
-  },
-  {
-    "ip_address": "2a05:f487:fc08::/48",
-    "ip_type": "IPv6",
-    "region": "US-CA"
-  },
-  {
-    "ip_address": "2a05:f487:fc11::/48",
-    "ip_type": "IPv6",
-    "region": "US-CA"
   }
 ]

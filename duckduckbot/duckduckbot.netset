@@ -1,5 +1,5 @@
 # duckduckbot IP ranges - ipset restore format (hash:net)
-# Version: 2 | Generated: 2026-07-22 | Last changed: 2026-07-07
+# Version: 2 | Generated: 2026-07-23 | Last changed: 2026-07-07
 # IPv4: 479 merged subnets, 481 unique IPs
 # IPv6: 0 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses

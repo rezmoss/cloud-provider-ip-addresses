@@ -238,6 +238,8 @@ ip_address,ip_type,service,region
 2600:f0fb:f107::/48,IPv6,EC2,eu-south-1
 2605:b140:9903::/48,IPv6,AMAZON,eu-south-1
 2605:b140:9903::/48,IPv6,EC2,eu-south-1
+2606:7b40:1a4c:c000::/60,IPv6,AMAZON,eu-south-1
+2606:7b40:1a4c:c000::/60,IPv6,EC2,eu-south-1
 2606:7b40:1b0c:c000::/56,IPv6,AMAZON,eu-south-1
 2606:7b40:1b0c:c000::/56,IPv6,EC2,eu-south-1
 2606:7b40:1b0c:c100::/56,IPv6,AMAZON,eu-south-1

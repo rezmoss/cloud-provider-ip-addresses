@@ -1,7 +1,7 @@
 # vultr IP ranges - ipset restore format (hash:net)
-# Version: 4 | Generated: 2026-07-22 | Last changed: 2026-07-11
+# Version: 5 | Generated: 2026-07-23 | Last changed: 2026-07-23
 # IPv4: 124 merged subnets, 1026816 unique IPs
-# IPv6: 27 merged subnets
+# IPv6: 26 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
 # Load with: sudo ipset restore -! < vultr.netset
@@ -160,4 +160,3 @@ add vultr_v6 2a05:f480:1000::/36
 add vultr_v6 2a05:f480:2000::/36
 add vultr_v6 2a05:f480:3000::/37
 add vultr_v6 2a05:f480:3800::/38
-add vultr_v6 2a05:f487:fc00::/38

@@ -163,10 +163,5 @@
     "ip_address": "2a05:f480:1400::/38",
     "ip_type": "IPv6",
     "region": "NL-NH"
-  },
-  {
-    "ip_address": "2a05:f487:fc03::/48",
-    "ip_type": "IPv6",
-    "region": "NL-NH"
   }
 ]

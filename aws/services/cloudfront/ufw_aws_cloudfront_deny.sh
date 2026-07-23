@@ -1,13 +1,12 @@
 #!/bin/bash
 # Aws IP Ranges
-# Updated: 2026-07-22 03:11:31
+# Updated: 2026-07-23 03:11:26
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
 # Updates daily at 02:00 UTC
 # UFW deny rules for aws
 
-ufw deny from 1.178.168.0/24
 ufw deny from 3.10.17.128/25
 ufw deny from 3.11.53.0/24
 ufw deny from 3.29.40.64/26

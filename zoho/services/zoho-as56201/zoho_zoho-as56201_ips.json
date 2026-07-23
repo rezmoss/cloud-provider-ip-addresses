@@ -54,6 +54,12 @@
     "region": "global"
   },
   {
+    "ip_address": "103.89.74.0/24",
+    "ip_type": "IPv4",
+    "service": "zoho-as56201",
+    "region": "global"
+  },
+  {
     "ip_address": "103.103.196.0/23",
     "ip_type": "IPv4",
     "service": "zoho-as56201",

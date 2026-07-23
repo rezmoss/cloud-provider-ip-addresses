@@ -39,4 +39,3 @@ INSERT INTO `vultr_nl-nh_ips` (`ip_address`, `ip_type`) VALUES ('209.250.240.0/2
 INSERT INTO `vultr_nl-nh_ips` (`ip_address`, `ip_type`) VALUES ('209.250.248.0/21', 'IPv4');
 INSERT INTO `vultr_nl-nh_ips` (`ip_address`, `ip_type`) VALUES ('2001:19f0:5000::/38', 'IPv6');
 INSERT INTO `vultr_nl-nh_ips` (`ip_address`, `ip_type`) VALUES ('2a05:f480:1400::/38', 'IPv6');
-INSERT INTO `vultr_nl-nh_ips` (`ip_address`, `ip_type`) VALUES ('2a05:f487:fc03::/48', 'IPv6');

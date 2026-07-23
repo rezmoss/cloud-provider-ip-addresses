@@ -1,5 +1,5 @@
 # ibmcloud IP ranges - ipset restore format (hash:net)
-# Version: 5 | Generated: 2026-07-22 | Last changed: 2026-07-14
+# Version: 5 | Generated: 2026-07-23 | Last changed: 2026-07-14
 # IPv4: 183 merged subnets, 3627008 unique IPs
 # IPv6: 36 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses

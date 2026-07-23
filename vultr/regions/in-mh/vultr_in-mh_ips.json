@@ -8,10 +8,5 @@
     "ip_address": "2401:c080:2400::/38",
     "ip_type": "IPv6",
     "region": "IN-MH"
-  },
-  {
-    "ip_address": "2a05:f487:fc19::/48",
-    "ip_type": "IPv6",
-    "region": "IN-MH"
   }
 ]

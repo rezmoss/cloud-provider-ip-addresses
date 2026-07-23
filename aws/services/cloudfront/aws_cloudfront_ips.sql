@@ -6,7 +6,6 @@ CREATE TABLE IF NOT EXISTS `aws_cloudfront_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
-INSERT INTO `aws_cloudfront_ips` (`ip_address`, `ip_type`) VALUES ('1.178.168.0/24', 'IPv4');
 INSERT INTO `aws_cloudfront_ips` (`ip_address`, `ip_type`) VALUES ('3.10.17.128/25', 'IPv4');
 INSERT INTO `aws_cloudfront_ips` (`ip_address`, `ip_type`) VALUES ('3.11.53.0/24', 'IPv4');
 INSERT INTO `aws_cloudfront_ips` (`ip_address`, `ip_type`) VALUES ('3.29.40.64/26', 'IPv4');

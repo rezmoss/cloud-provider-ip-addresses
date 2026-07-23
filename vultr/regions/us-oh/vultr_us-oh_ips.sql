@@ -15,4 +15,3 @@ INSERT INTO `vultr_us-oh_ips` (`ip_address`, `ip_type`) VALUES ('2001:10::/28', 
 INSERT INTO `vultr_us-oh_ips` (`ip_address`, `ip_type`) VALUES ('2001:db8::/32', 'IPv6');
 INSERT INTO `vultr_us-oh_ips` (`ip_address`, `ip_type`) VALUES ('2001:19f0:9c00::/38', 'IPv6');
 INSERT INTO `vultr_us-oh_ips` (`ip_address`, `ip_type`) VALUES ('2002::/16', 'IPv6');
-INSERT INTO `vultr_us-oh_ips` (`ip_address`, `ip_type`) VALUES ('2a05:f487:fc36::/48', 'IPv6');

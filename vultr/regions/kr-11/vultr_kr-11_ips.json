@@ -18,10 +18,5 @@
     "ip_address": "2401:c080:1c00::/38",
     "ip_type": "IPv6",
     "region": "KR-11"
-  },
-  {
-    "ip_address": "2a05:f487:fc12::/48",
-    "ip_type": "IPv6",
-    "region": "KR-11"
   }
 ]

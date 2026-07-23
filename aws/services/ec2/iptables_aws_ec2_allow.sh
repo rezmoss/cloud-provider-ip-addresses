@@ -1,6 +1,6 @@
 #!/bin/bash
 # Aws IP Ranges
-# Updated: 2026-07-22 03:11:30
+# Updated: 2026-07-23 03:11:25
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -12,6 +12,7 @@ iptables -A INPUT -s 1.178.4.0/22 -j ACCEPT
 iptables -A INPUT -s 1.178.8.0/22 -j ACCEPT
 iptables -A INPUT -s 1.178.16.0/20 -j ACCEPT
 iptables -A INPUT -s 1.178.64.0/23 -j ACCEPT
+iptables -A INPUT -s 1.178.86.0/24 -j ACCEPT
 iptables -A INPUT -s 1.178.88.0/21 -j ACCEPT
 iptables -A INPUT -s 1.178.100.0/22 -j ACCEPT
 iptables -A INPUT -s 1.178.174.0/24 -j ACCEPT
@@ -1271,6 +1272,7 @@ ip6tables -A INPUT -s 2600:1f1b:4000::/36 -j ACCEPT
 ip6tables -A INPUT -s 2600:1f1b:8000::/36 -j ACCEPT
 ip6tables -A INPUT -s 2600:1f1b:c000::/36 -j ACCEPT
 ip6tables -A INPUT -s 2600:1f1c::/36 -j ACCEPT
+ip6tables -A INPUT -s 2600:1f1c:2000::/36 -j ACCEPT
 ip6tables -A INPUT -s 2600:1f1c:4000::/36 -j ACCEPT
 ip6tables -A INPUT -s 2600:1f1c:8000::/36 -j ACCEPT
 ip6tables -A INPUT -s 2600:1f1c:c000::/36 -j ACCEPT
@@ -1803,8 +1805,9 @@ ip6tables -A INPUT -s 2600:f0f2:7400::/38 -j ACCEPT
 ip6tables -A INPUT -s 2600:f0f3:f000::/44 -j ACCEPT
 ip6tables -A INPUT -s 2600:f0f3:f010::/56 -j ACCEPT
 ip6tables -A INPUT -s 2600:f0f3:f010:200::/55 -j ACCEPT
+ip6tables -A INPUT -s 2600:f0f3:f010:3400::/63 -j ACCEPT
+ip6tables -A INPUT -s 2600:f0f3:f010:3800::/63 -j ACCEPT
 ip6tables -A INPUT -s 2600:f0fb:8000::/40 -j ACCEPT
-ip6tables -A INPUT -s 2600:f0fb:c000::/48 -j ACCEPT
 ip6tables -A INPUT -s 2600:f0fb:c001::/56 -j ACCEPT
 ip6tables -A INPUT -s 2600:f0fb:c002::/56 -j ACCEPT
 ip6tables -A INPUT -s 2600:f0fb:c800::/56 -j ACCEPT
@@ -1905,6 +1908,7 @@ ip6tables -A INPUT -s 2606:7b40:a3e:3000::/52 -j ACCEPT
 ip6tables -A INPUT -s 2606:7b40:1000:2000::/55 -j ACCEPT
 ip6tables -A INPUT -s 2606:7b40:1000:2270::/60 -j ACCEPT
 ip6tables -A INPUT -s 2606:7b40:1000:3000::/56 -j ACCEPT
+ip6tables -A INPUT -s 2606:7b40:1000:6200::/60 -j ACCEPT
 ip6tables -A INPUT -s 2606:7b40:1000:6240::/60 -j ACCEPT
 ip6tables -A INPUT -s 2606:7b40:1000:6280::/60 -j ACCEPT
 ip6tables -A INPUT -s 2606:7b40:1000:62a0::/60 -j ACCEPT
@@ -1978,19 +1982,35 @@ ip6tables -A INPUT -s 2606:7b40:1a3f:c320::/59 -j ACCEPT
 ip6tables -A INPUT -s 2606:7b40:1a3f:c340::/60 -j ACCEPT
 ip6tables -A INPUT -s 2606:7b40:1a45:c000::/60 -j ACCEPT
 ip6tables -A INPUT -s 2606:7b40:1a45:c340::/60 -j ACCEPT
+ip6tables -A INPUT -s 2606:7b40:1a46:8000::/60 -j ACCEPT
+ip6tables -A INPUT -s 2606:7b40:1a46:c000::/60 -j ACCEPT
+ip6tables -A INPUT -s 2606:7b40:1a47:4000::/60 -j ACCEPT
 ip6tables -A INPUT -s 2606:7b40:1a47:4340::/60 -j ACCEPT
+ip6tables -A INPUT -s 2606:7b40:1a47:c000::/60 -j ACCEPT
+ip6tables -A INPUT -s 2606:7b40:1a49::/60 -j ACCEPT
 ip6tables -A INPUT -s 2606:7b40:1a49:340::/60 -j ACCEPT
+ip6tables -A INPUT -s 2606:7b40:1a4c::/60 -j ACCEPT
 ip6tables -A INPUT -s 2606:7b40:1a4c:330::/60 -j ACCEPT
 ip6tables -A INPUT -s 2606:7b40:1a4c:340::/60 -j ACCEPT
+ip6tables -A INPUT -s 2606:7b40:1a4c:c000::/60 -j ACCEPT
+ip6tables -A INPUT -s 2606:7b40:1a4d::/60 -j ACCEPT
+ip6tables -A INPUT -s 2606:7b40:1a4d:4000::/60 -j ACCEPT
 ip6tables -A INPUT -s 2606:7b40:1a4d:4340::/60 -j ACCEPT
+ip6tables -A INPUT -s 2606:7b40:1a4d:8000::/60 -j ACCEPT
 ip6tables -A INPUT -s 2606:7b40:1a4d:8340::/60 -j ACCEPT
+ip6tables -A INPUT -s 2606:7b40:1a4d:c000::/60 -j ACCEPT
 ip6tables -A INPUT -s 2606:7b40:1a4d:c340::/60 -j ACCEPT
 ip6tables -A INPUT -s 2606:7b40:1a4e::/60 -j ACCEPT
 ip6tables -A INPUT -s 2606:7b40:1a4e:340::/60 -j ACCEPT
+ip6tables -A INPUT -s 2606:7b40:1a4e:4000::/60 -j ACCEPT
+ip6tables -A INPUT -s 2606:7b40:1a4f::/60 -j ACCEPT
 ip6tables -A INPUT -s 2606:7b40:1a4f:340::/60 -j ACCEPT
 ip6tables -A INPUT -s 2606:7b40:1a4f:4000::/60 -j ACCEPT
+ip6tables -A INPUT -s 2606:7b40:1a4f:4200::/60 -j ACCEPT
 ip6tables -A INPUT -s 2606:7b40:1a4f:4240::/60 -j ACCEPT
 ip6tables -A INPUT -s 2606:7b40:1a4f:4340::/60 -j ACCEPT
+ip6tables -A INPUT -s 2606:7b40:1a4f:8000::/60 -j ACCEPT
+ip6tables -A INPUT -s 2606:7b40:1a4f:c000::/60 -j ACCEPT
 ip6tables -A INPUT -s 2606:7b40:1a4f:c200::/60 -j ACCEPT
 ip6tables -A INPUT -s 2606:7b40:1a4f:c240::/60 -j ACCEPT
 ip6tables -A INPUT -s 2606:7b40:1a4f:c310::/60 -j ACCEPT

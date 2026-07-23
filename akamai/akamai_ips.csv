@@ -5342,6 +5342,7 @@ ip_address,ip_type,service,region
 88.221.32.0/22,IPv4,akamai-as16625,global
 88.221.36.0/22,IPv4,akamai-as16625,global
 88.221.44.0/22,IPv4,akamai-as16625,global
+88.221.54.0/23,IPv4,akamai-as34164,global
 88.221.56.0/24,IPv4,akamai-as34164,global
 88.221.57.0/24,IPv4,akamai-as20940,global
 88.221.60.0/22,IPv4,akamai-as16625,global

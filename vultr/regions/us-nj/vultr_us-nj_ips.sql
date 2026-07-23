@@ -70,5 +70,3 @@ INSERT INTO `vultr_us-nj_ips` (`ip_address`, `ip_type`) VALUES ('2001:19f0:1000:
 INSERT INTO `vultr_us-nj_ips` (`ip_address`, `ip_type`) VALUES ('2001:19f0:1400::/38', 'IPv6');
 INSERT INTO `vultr_us-nj_ips` (`ip_address`, `ip_type`) VALUES ('2001:19f0:4000::/38', 'IPv6');
 INSERT INTO `vultr_us-nj_ips` (`ip_address`, `ip_type`) VALUES ('2001:19f0:a800::/38', 'IPv6');
-INSERT INTO `vultr_us-nj_ips` (`ip_address`, `ip_type`) VALUES ('2a05:f487:fc00::/38', 'IPv6');
-INSERT INTO `vultr_us-nj_ips` (`ip_address`, `ip_type`) VALUES ('2a05:f487:fc00::/48', 'IPv6');

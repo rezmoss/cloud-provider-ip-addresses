@@ -31,5 +31,3 @@ INSERT INTO `vultr_gb-lnd_ips` (`ip_address`, `ip_type`) VALUES ('209.222.30.0/2
 INSERT INTO `vultr_gb-lnd_ips` (`ip_address`, `ip_type`) VALUES ('209.250.224.0/21', 'IPv4');
 INSERT INTO `vultr_gb-lnd_ips` (`ip_address`, `ip_type`) VALUES ('2001:19f0:7400::/38', 'IPv6');
 INSERT INTO `vultr_gb-lnd_ips` (`ip_address`, `ip_type`) VALUES ('2a05:f480:1000::/38', 'IPv6');
-INSERT INTO `vultr_gb-lnd_ips` (`ip_address`, `ip_type`) VALUES ('2a05:f487:fc02::/48', 'IPv6');
-INSERT INTO `vultr_gb-lnd_ips` (`ip_address`, `ip_type`) VALUES ('2a05:f487:fc33::/48', 'IPv6');

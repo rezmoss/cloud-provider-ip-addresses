@@ -26,4 +26,3 @@ INSERT INTO `vultr_fr-93_ips` (`ip_address`, `ip_type`) VALUES ('199.247.8.0/21'
 INSERT INTO `vultr_fr-93_ips` (`ip_address`, `ip_type`) VALUES ('217.69.0.0/20', 'IPv4');
 INSERT INTO `vultr_fr-93_ips` (`ip_address`, `ip_type`) VALUES ('2001:19f0:6800::/38', 'IPv6');
 INSERT INTO `vultr_fr-93_ips` (`ip_address`, `ip_type`) VALUES ('2a05:f480:1c00::/38', 'IPv6');
-INSERT INTO `vultr_fr-93_ips` (`ip_address`, `ip_type`) VALUES ('2a05:f487:fc04::/48', 'IPv6');

@@ -24,6 +24,7 @@ INSERT INTO `zoho_ips` (`ip_address`, `ip_type`) VALUES ('103.84.216.0/23', 'IPv
 INSERT INTO `zoho_ips` (`ip_address`, `ip_type`) VALUES ('103.84.216.0/24', 'IPv4');
 INSERT INTO `zoho_ips` (`ip_address`, `ip_type`) VALUES ('103.84.218.0/23', 'IPv4');
 INSERT INTO `zoho_ips` (`ip_address`, `ip_type`) VALUES ('103.89.74.0/23', 'IPv4');
+INSERT INTO `zoho_ips` (`ip_address`, `ip_type`) VALUES ('103.89.74.0/24', 'IPv4');
 INSERT INTO `zoho_ips` (`ip_address`, `ip_type`) VALUES ('103.91.166.0/24', 'IPv4');
 INSERT INTO `zoho_ips` (`ip_address`, `ip_type`) VALUES ('103.103.196.0/23', 'IPv4');
 INSERT INTO `zoho_ips` (`ip_address`, `ip_type`) VALUES ('103.103.198.0/23', 'IPv4');

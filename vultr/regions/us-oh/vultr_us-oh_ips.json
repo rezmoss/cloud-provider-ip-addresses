@@ -43,10 +43,5 @@
     "ip_address": "2002::/16",
     "ip_type": "IPv6",
     "region": "US-OH"
-  },
-  {
-    "ip_address": "2a05:f487:fc36::/48",
-    "ip_type": "IPv6",
-    "region": "US-OH"
   }
 ]

@@ -108,10 +108,5 @@
     "ip_address": "2001:19f0:9000::/38",
     "ip_type": "IPv6",
     "region": "US-FL"
-  },
-  {
-    "ip_address": "2a05:f487:fc05::/48",
-    "ip_type": "IPv6",
-    "region": "US-FL"
   }
 ]

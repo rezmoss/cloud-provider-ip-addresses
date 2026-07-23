@@ -21,4 +21,3 @@ ip_address,ip_type,region
 207.246.64.0/20,IPv4,US-FL
 207.246.112.0/21,IPv4,US-FL
 2001:19f0:9000::/38,IPv6,US-FL
-2a05:f487:fc05::/48,IPv6,US-FL

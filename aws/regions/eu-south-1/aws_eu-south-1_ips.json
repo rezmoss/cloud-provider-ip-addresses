@@ -1434,6 +1434,18 @@
     "region": "eu-south-1"
   },
   {
+    "ip_address": "2606:7b40:1a4c:c000::/60",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eu-south-1"
+  },
+  {
+    "ip_address": "2606:7b40:1a4c:c000::/60",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eu-south-1"
+  },
+  {
     "ip_address": "2606:7b40:1b0c:c000::/56",
     "ip_type": "IPv6",
     "service": "AMAZON",

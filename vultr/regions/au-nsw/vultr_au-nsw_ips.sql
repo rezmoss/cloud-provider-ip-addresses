@@ -26,4 +26,3 @@ INSERT INTO `vultr_au-nsw_ips` (`ip_address`, `ip_type`) VALUES ('149.28.160.0/1
 INSERT INTO `vultr_au-nsw_ips` (`ip_address`, `ip_type`) VALUES ('207.148.80.0/21', 'IPv4');
 INSERT INTO `vultr_au-nsw_ips` (`ip_address`, `ip_type`) VALUES ('2001:19f0:5800::/38', 'IPv6');
 INSERT INTO `vultr_au-nsw_ips` (`ip_address`, `ip_type`) VALUES ('2401:c080:1800::/38', 'IPv6');
-INSERT INTO `vultr_au-nsw_ips` (`ip_address`, `ip_type`) VALUES ('2a05:f487:fc06::/48', 'IPv6');

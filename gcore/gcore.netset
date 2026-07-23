@@ -1,7 +1,7 @@
 # gcore IP ranges - ipset restore format (hash:net)
-# Version: 9 | Generated: 2026-07-22 | Last changed: 2026-07-22
-# IPv4: 551 merged subnets, 978 unique IPs
-# IPv6: 454 merged subnets
+# Version: 10 | Generated: 2026-07-23 | Last changed: 2026-07-23
+# IPv4: 554 merged subnets, 982 unique IPs
+# IPv6: 456 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
 # Load with: sudo ipset restore -! < gcore.netset
@@ -116,6 +116,7 @@ add gcore_v4 80.15.244.5/32
 add gcore_v4 80.15.244.17/32
 add gcore_v4 80.15.245.1/32
 add gcore_v4 80.15.245.3/32
+add gcore_v4 80.15.245.5/32
 add gcore_v4 80.15.245.13/32
 add gcore_v4 80.15.245.15/32
 add gcore_v4 80.15.246.1/32
@@ -138,6 +139,7 @@ add gcore_v4 80.15.251.15/32
 add gcore_v4 80.15.251.21/32
 add gcore_v4 80.15.251.23/32
 add gcore_v4 80.15.251.25/32
+add gcore_v4 80.15.251.29/32
 add gcore_v4 80.15.252.17/32
 add gcore_v4 80.15.252.19/32
 add gcore_v4 80.15.252.21/32
@@ -465,7 +467,9 @@ add gcore_v4 150.107.126.4/31
 add gcore_v4 151.248.104.69/32
 add gcore_v4 151.248.104.91/32
 add gcore_v4 154.120.250.210/32
-add gcore_v4 168.232.103.194/32
+add gcore_v4 168.232.103.194/31
+add gcore_v4 169.239.157.98/32
+add gcore_v4 169.239.158.154/32
 add gcore_v4 170.238.234.217/32
 add gcore_v4 176.222.187.180/32
 add gcore_v4 176.222.189.242/32
@@ -541,7 +545,6 @@ add gcore_v4 200.24.129.100/32
 add gcore_v4 202.129.236.162/32
 add gcore_v4 212.47.156.34/31
 add gcore_v4 212.47.156.36/32
-add gcore_v4 212.47.156.52/32
 add gcore_v4 212.65.33.11/32
 add gcore_v4 212.96.94.58/32
 add gcore_v4 212.232.103.11/32
@@ -587,7 +590,7 @@ add gcore_v6 2803:2540:f:13::98/127
 add gcore_v6 2803:2540:f:13::100/128
 add gcore_v6 2803:8100:3201:7::10/128
 add gcore_v6 2803:c800:0:9a::2/128
-add gcore_v6 2803:d700:0:c013::1002/128
+add gcore_v6 2803:d700:0:c013::1002/127
 add gcore_v6 2804:3674::400:42/128
 add gcore_v6 2a00:f46:120::2/128
 add gcore_v6 2a00:f46:12b::2/128
@@ -641,6 +644,7 @@ add gcore_v6 2a01:c9c0:c004:100::7/128
 add gcore_v6 2a01:c9c0:c004:200::1/128
 add gcore_v6 2a01:c9c0:c004:200::3/128
 add gcore_v6 2a01:c9c0:c004:200::5/128
+add gcore_v6 2a01:c9c0:c004:300::1/128
 add gcore_v6 2a01:c9c0:c006:200::1/128
 add gcore_v6 2a01:c9c0:c006:200::3/128
 add gcore_v6 2a01:c9c0:c006:200::5/128
@@ -661,6 +665,7 @@ add gcore_v6 2a01:c9c0:c014::5/128
 add gcore_v6 2a01:c9c0:c014:100::5/128
 add gcore_v6 2a01:c9c0:c016::1/128
 add gcore_v6 2a01:c9c0:c016::3/128
+add gcore_v6 2a01:c9c0:c016::5/128
 add gcore_v6 2a01:c9c0:c016:100::1/128
 add gcore_v6 2a01:c9c0:c016:100::3/128
 add gcore_v6 2a01:c9c0:c018::1/128

@@ -35,4 +35,3 @@ INSERT INTO `vultr_us-tx_ips` (`ip_address`, `ip_type`) VALUES ('173.199.97.0/24
 INSERT INTO `vultr_us-tx_ips` (`ip_address`, `ip_type`) VALUES ('207.148.0.0/21', 'IPv4');
 INSERT INTO `vultr_us-tx_ips` (`ip_address`, `ip_type`) VALUES ('216.128.128.0/20', 'IPv4');
 INSERT INTO `vultr_us-tx_ips` (`ip_address`, `ip_type`) VALUES ('2001:19f0:6400::/38', 'IPv6');
-INSERT INTO `vultr_us-tx_ips` (`ip_address`, `ip_type`) VALUES ('2a05:f487:fc0c::/48', 'IPv6');
