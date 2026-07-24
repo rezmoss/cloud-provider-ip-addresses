@@ -1,6 +1,6 @@
 #!/bin/bash
 # Leaseweb IP Ranges
-# Updated: 2026-07-22 03:17:17
+# Updated: 2026-07-24 03:16:38
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -443,7 +443,6 @@ ufw deny from 82.38.198.0/24
 ufw deny from 82.41.197.0/24
 ufw deny from 82.113.64.0/19
 ufw deny from 82.150.152.0/24
-ufw deny from 82.153.246.0/24
 ufw deny from 82.192.64.0/19
 ufw deny from 83.149.64.0/18
 ufw deny from 83.223.34.0/24
@@ -520,7 +519,7 @@ ufw deny from 103.74.76.0/22
 ufw deny from 103.75.117.0/24
 ufw deny from 103.78.188.0/22
 ufw deny from 103.101.128.0/22
-ufw deny from 103.119.218.0/24
+ufw deny from 103.119.218.0/23
 ufw deny from 103.133.190.0/24
 ufw deny from 103.138.32.0/24
 ufw deny from 103.139.48.0/23
@@ -740,7 +739,6 @@ ufw deny from 154.30.8.0/24
 ufw deny from 154.36.92.0/23
 ufw deny from 154.36.110.0/24
 ufw deny from 154.37.92.0/23
-ufw deny from 157.254.156.0/24
 ufw deny from 159.255.192.0/22
 ufw deny from 160.202.133.0/24
 ufw deny from 162.210.192.0/21
@@ -1214,6 +1212,7 @@ ufw deny from 2a0d:2ac0::/29
 ufw deny from 2a0d:3000::/30
 ufw deny from 2a0d:3004::/32
 ufw deny from 2a0d:6100::/29
+ufw deny from 2a0d:d907::/32
 ufw deny from 2a0e:15c0:11::/48
 ufw deny from 2a0e:15c5:acab::/48
 ufw deny from 2a0e:15c7:b::/48

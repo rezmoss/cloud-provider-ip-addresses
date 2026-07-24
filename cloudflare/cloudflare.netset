@@ -1,5 +1,5 @@
 # cloudflare IP ranges - ipset restore format (hash:net)
-# Version: 1 | Generated: 2026-07-23 | Last changed: 2026-06-18
+# Version: 1 | Generated: 2026-07-24 | Last changed: 2026-06-18
 # IPv4: 15 merged subnets, 1524736 unique IPs
 # IPv6: 7 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses

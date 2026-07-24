@@ -1,6 +1,6 @@
 #!/bin/bash
 # Mullvad IP Ranges
-# Updated: 2026-07-23 03:17:37
+# Updated: 2026-07-24 03:16:55
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -21,8 +21,7 @@ ufw deny from 185.213.155.74/32
 ufw deny from 185.254.75.3/32
 ufw deny from 185.254.75.4/31
 ufw deny from 193.32.248.66/31
-ufw deny from 193.32.248.68/30
-ufw deny from 193.32.248.74/31
+ufw deny from 193.32.248.68/31
 ufw deny from 194.36.25.3/32
 ufw deny from 194.36.25.18/32
 ufw deny from 194.36.25.33/32
@@ -41,12 +40,8 @@ ufw deny from 2a03:1b20:6:f011::f301/128
 ufw deny from 2a03:1b20:6:f011::f401/128
 ufw deny from 2a03:1b20:b:f011::a01f/128
 ufw deny from 2a03:1b20:b:f011::a02f/128
-ufw deny from 2a03:1b20:b:f011::a03f/128
-ufw deny from 2a03:1b20:b:f011::a06f/128
+ufw deny from 2a03:1b20:b:f011::f201/128
 ufw deny from 2a03:1b20:b:f011::f301/128
-ufw deny from 2a03:1b20:b:f011::f401/128
-ufw deny from 2a03:1b20:b:f011::f701/128
-ufw deny from 2a03:1b20:b:f011::f801/128
 ufw deny from 2a03:d9c0:3000::a20f/128
 ufw deny from 2a03:d9c0:3000::a21f/128
 ufw deny from 2a03:d9c0:3000::a22f/128

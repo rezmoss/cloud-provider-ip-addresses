@@ -1,6 +1,6 @@
 # Backblaze IP Ranges (Auto-Updated Daily)
 
-> Last updated: **2026-07-23** · Total CIDRs: **85** · IPv4: **24** · IPv6: **61** · Services: **2** · Regions: **1**
+> Last updated: **2026-07-24** · Total CIDRs: **85** · IPv4: **24** · IPv6: **61** · Services: **2** · Regions: **1**
 
 Machine-readable, daily-updated, validated public IP ranges for **Backblaze**.
 Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and Apache.

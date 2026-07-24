@@ -1,7 +1,7 @@
 # aws IP ranges - ipset restore format (hash:net)
-# Version: 29 | Generated: 2026-07-23 | Last changed: 2026-07-23
-# IPv4: 1745 merged subnets, 101821612 unique IPs
-# IPv6: 2066 merged subnets
+# Version: 30 | Generated: 2026-07-24 | Last changed: 2026-07-24
+# IPv4: 1747 merged subnets, 101822380 unique IPs
+# IPv6: 2060 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
 # Load with: sudo ipset restore -! < aws.netset
@@ -1259,6 +1259,7 @@ add aws_v4 63.246.120.0/21
 add aws_v4 63.249.128.0/18
 add aws_v4 63.249.192.0/20
 add aws_v4 63.249.208.0/21
+add aws_v4 63.249.216.0/24
 add aws_v4 64.66.128.0/22
 add aws_v4 64.66.133.0/24
 add aws_v4 64.66.134.0/23
@@ -1341,7 +1342,8 @@ add aws_v4 76.223.172.0/22
 add aws_v4 77.112.0.0/14
 add aws_v4 78.12.0.0/14
 add aws_v4 79.125.0.0/17
-add aws_v4 80.126.0.0/24
+add aws_v4 80.126.0.0/23
+add aws_v4 80.126.2.0/24
 add aws_v4 83.118.240.0/21
 add aws_v4 83.119.64.0/18
 add aws_v4 83.119.128.0/18
@@ -3098,8 +3100,8 @@ add aws_v6 2600:f0f2:7400::/38
 add aws_v6 2600:f0f3:f000::/44
 add aws_v6 2600:f0f3:f010::/56
 add aws_v6 2600:f0f3:f010:200::/55
-add aws_v6 2600:f0f3:f010:3400::/63
-add aws_v6 2600:f0f3:f010:3800::/63
+add aws_v6 2600:f0f3:f010:3400::/56
+add aws_v6 2600:f0f3:f010:3800::/56
 add aws_v6 2600:f0fb:8000::/40
 add aws_v6 2600:f0fb:c001::/56
 add aws_v6 2600:f0fb:c002::/56
@@ -3194,10 +3196,6 @@ add aws_v6 2606:7b40:9fc::/47
 add aws_v6 2606:7b40:a3e:200::/60
 add aws_v6 2606:7b40:a3e:270::/60
 add aws_v6 2606:7b40:a3e:280::/60
-add aws_v6 2606:7b40:a3e:400::/54
-add aws_v6 2606:7b40:a3e:c00::/54
-add aws_v6 2606:7b40:a3e:1000::/54
-add aws_v6 2606:7b40:a3e:3000::/52
 add aws_v6 2606:7b40:1000:2000::/55
 add aws_v6 2606:7b40:1000:2270::/60
 add aws_v6 2606:7b40:1000:3000::/56
@@ -3358,9 +3356,7 @@ add aws_v6 2606:7b40:1b80::/44
 add aws_v6 2606:7b40:1f00::/40
 add aws_v6 2606:7b40:3000:8000::/52
 add aws_v6 2606:7b40:3001:8000::/52
-add aws_v6 2606:7b40:3001:c000::/52
 add aws_v6 2606:7b40:3002::/56
-add aws_v6 2606:7b40:3009:c000::/52
 add aws_v6 2606:7b40:300a::/56
 add aws_v6 2606:7b40:300b::/54
 add aws_v6 2606:7b40:f000:1500::/56

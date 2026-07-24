@@ -403,7 +403,6 @@ INSERT INTO `huawei_ips` (`ip_address`, `ip_type`) VALUES ('146.174.176.0/20', '
 INSERT INTO `huawei_ips` (`ip_address`, `ip_type`) VALUES ('148.145.128.0/20', 'IPv4');
 INSERT INTO `huawei_ips` (`ip_address`, `ip_type`) VALUES ('148.145.144.0/20', 'IPv4');
 INSERT INTO `huawei_ips` (`ip_address`, `ip_type`) VALUES ('148.145.160.0/20', 'IPv4');
-INSERT INTO `huawei_ips` (`ip_address`, `ip_type`) VALUES ('148.145.182.0/23', 'IPv4');
 INSERT INTO `huawei_ips` (`ip_address`, `ip_type`) VALUES ('148.145.192.0/20', 'IPv4');
 INSERT INTO `huawei_ips` (`ip_address`, `ip_type`) VALUES ('148.145.208.0/20', 'IPv4');
 INSERT INTO `huawei_ips` (`ip_address`, `ip_type`) VALUES ('148.145.224.0/23', 'IPv4');

@@ -1,6 +1,6 @@
 # StatusCake IP Ranges (Auto-Updated Daily)
 
-> Last updated: **2026-07-23** · Total CIDRs: **183** · IPv4: **183** · IPv6: **0**
+> Last updated: **2026-07-24** · Total CIDRs: **183** · IPv4: **183** · IPv6: **0**
 
 Machine-readable, daily-updated, validated public IP ranges for **StatusCake**.
 Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and Apache.

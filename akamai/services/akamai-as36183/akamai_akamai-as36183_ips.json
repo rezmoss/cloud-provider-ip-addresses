@@ -150,12 +150,6 @@
     "region": "global"
   },
   {
-    "ip_address": "172.224.33.0/24",
-    "ip_type": "IPv4",
-    "service": "akamai-as36183",
-    "region": "global"
-  },
-  {
     "ip_address": "172.224.34.0/24",
     "ip_type": "IPv4",
     "service": "akamai-as36183",
@@ -3043,12 +3037,6 @@
   },
   {
     "ip_address": "2a02:26f7:22::/48",
-    "ip_type": "IPv6",
-    "service": "akamai-as36183",
-    "region": "global"
-  },
-  {
-    "ip_address": "2a02:26f7:24::/48",
     "ip_type": "IPv6",
     "service": "akamai-as36183",
     "region": "global"

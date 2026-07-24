@@ -1,5 +1,5 @@
 # yandex IP ranges - ipset restore format (hash:net)
-# Version: 3 | Generated: 2026-07-23 | Last changed: 2026-07-23
+# Version: 3 | Generated: 2026-07-24 | Last changed: 2026-07-23
 # IPv4: 61 merged subnets, 420864 unique IPs
 # IPv6: 5 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses

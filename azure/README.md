@@ -1,6 +1,6 @@
 # Microsoft Azure IP Ranges (Auto-Updated Daily)
 
-> Last updated: **2026-07-23** · Total CIDRs: **107,588** · IPv4: **79,032** · IPv6: **28,556** · Services: **3321** · Regions: **77**
+> Last updated: **2026-07-24** · Total CIDRs: **107,588** · IPv4: **79,032** · IPv6: **28,556** · Services: **3321** · Regions: **77**
 
 Machine-readable, daily-updated, validated public IP ranges for **Microsoft Azure**.
 Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and Apache.
