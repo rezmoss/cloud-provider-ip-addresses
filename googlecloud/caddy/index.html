@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Google Cloud IP ranges for Caddy — updated 2026-07-24</title>
+<meta name="description" content="Caddy remote_ip matcher snippet for Google Cloud. 1,045 CIDRs, refreshed daily.">
+<link rel="canonical" href="https://cloudipdb.io/googlecloud/caddy/">
+<meta property="og:title" content="Google Cloud IP ranges for Caddy — updated 2026-07-24">
+<meta property="og:description" content="Caddy remote_ip matcher snippet for Google Cloud. 1,045 CIDRs, refreshed daily.">
+<meta property="og:url" content="https://cloudipdb.io/googlecloud/caddy/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Cloud Provider IP Addresses">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Google Cloud IP ranges for Caddy — updated 2026-07-24">
+<meta name="twitter:description" content="Caddy remote_ip matcher snippet for Google Cloud. 1,045 CIDRs, refreshed daily.">
+<link rel="alternate" type="application/rss+xml" title="Cloud Provider IP Addresses changelog" href="/feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter+Tight:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/style.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cloudipdb.io/"},{"@type":"ListItem","position":2,"name":"Google Cloud","item":"https://cloudipdb.io/googlecloud/"},{"@type":"ListItem","position":3,"name":"Caddy","item":"https://cloudipdb.io/googlecloud/caddy/"}]}</script>
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <a href="/" style="display:flex;align-items:center;gap:12px">
+      <div class="brand-mark"><span></span></div>
+      <div class="brand-name"><b>CLOUD</b>-IP <span style="color:var(--ink-4)">// v2026.07</span></div>
+    </a>
+  </div>
+  <nav class="nav"><a href="/">Dashboard</a><a href="/providers/" class="active">Providers</a><a href="/changelog/">Changelog</a><a href="/lookup/">Lookup</a><a href="/coverage/">Coverage</a><a href="/formats/">Formats</a><a href="/builder/">Tools</a></nav>
+  <div class="topbar-right">
+    <span class="topbar-stat">UPDATED <b>2026-07-24</b></span>
+    <span class="topbar-stat">PROVIDERS <b>62</b></span>
+    <span class="live-badge"><span class="pulse-dot"></span> LIVE</span>
+  </div>
+</header>
+<main>
+<section class="page active">
+  <div class="page-head">
+    <div>
+      <div class="crumbs">// <a href="/googlecloud/" style="color:inherit">GOOGLE CLOUD</a> / <b>CADDY</b></div>
+      <h1>Google Cloud · Caddy</h1>
+      <p class="lede">Caddy remote_ip matcher snippet for Google Cloud. 1,045 CIDRs, refreshed daily.</p>
+    </div>
+  </div>
+
+  <div class="grid" style="gap:18px"><div class="panel">
+  <div class="panel-head">
+    <h3>// caddy_googlecloud_allow.conf</h3>
+    <span class="meta">
+      <a href="https://raw.githubusercontent.com/rezmoss/cloud-provider-ip-addresses/main/googlecloud/caddy_googlecloud_allow.conf" style="color:var(--cyan)">DOWNLOAD ↓</a>
+      &nbsp;·&nbsp;
+      <button onclick="copyUrl('https://raw.githubusercontent.com/rezmoss/cloud-provider-ip-addresses/main/googlecloud/caddy_googlecloud_allow.conf', this)" style="background:transparent;border:0;color:var(--cyan);cursor:pointer;font-family:var(--mono);font-size:10px;letter-spacing:.06em">COPY</button>
+    </span>
+  </div>
+  <div class="panel-body">
+    <div class="code-block"><pre style="margin:0;font-family:var(--mono);font-size:11px;color:var(--ink-2);overflow-x:auto"># Googlecloud IP Ranges
+# Updated: 2026-07-14 03:10:33
+# Source: https://github.com/rezmoss/cloud-provider-ip-addresses
+# License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
+# This file is generated automatically. Do not edit it directly.
+# Updates daily at 02:00 UTC
+# Caddy remote_ip matcher for googlecloud
+# Usage: @googlecloud remote_ip &lt;cidrs&gt;
+
+@googlecloud {
+  remote_ip 8.34.208.0/20 8.35.192.0/21 8.228.0.0/15 8.230.0.0/17 8.231.32.0/19 8.231.64.0/18 8.231.128.0/17 8.232.0.0/15 8.234.2.0/23 8.234.4.0/22 8.234.8.0/21 8.234.16.0/23 8.234.20.0/22 8.234.24.0/21 8.234.32.0/19 8.234.64.0/18 8.234.128.0/17 8.235.0.0/16 23.236.48.0/20 23.251.128.0/19 34.0.0.0/17 34.0.128.0/18 34.0.192.0/19 34.0.224.0/22 34.0.240.0/20 34.1.0.0/18 34.1.128.0/17 34.2.0.0/18 34.2.76.0/23 34.2.96.0/20 34.2.128.0/17 34.3.32.0/20 34.3.76.0/22 34.3.80.0/20 34.3.96.0/20 34.4.16.0/22 34.4.24.0/21 34.4.32.0/19 34.4.64.0/19 34.4.96.0/22 34.4.102.0/23 34.4.104.0/21 34.4.128.0/18 34.4.192.0/24 34.6.0.0/15 34.8.0.0/14 34.12.0.0/16 34.13.0.0/18 34.13.68.0/22 34.13.72.0/21 34.13.112.0/20 34.13.128.0/17 34.14.0.0/17 34.14.128.0/18 34.14.192.0/19 34.15.0.0/16 34.16.0.0/12 34.32.0.0/15 34.34.0.0/17 34.34.128.0/18 34.34.216.0/21 34.35.0.0/16 34.36.0.0/14 34.40.0.0/15 34.42.0.0/16 34.44.0.0/14 34.48.0.0/15 34.50.0.0/17 34.50.144.0/20 34.50.160.0/19 34.50.192.0/18 34.51.0.0/16 34.52.128.0/17 34.53.0.0/16 34.54.0.0/15 34.56.0.0/13 34.64.32.0/19 34.64.64.0/18 34.64.128.0/17 34.65.0.0/16 34.66.0.0/15 34.68.0.0/14 34.72.0.0/13 34.80.0.0/12 34.96.64.0/18 34.96.128.0/17 34.97.0.0/16 34.98.64.0/18 34.98.128.0/21 34.100.128.0/17 34.101.18.0/24 34.101.20.0/22 34.101.24.0/22 34.101.32.0/19 34.101.64.0/18 34.101.128.0/17 34.102.0.0/16 34.104.27.0/24 34.104.49.0/24 34.104.50.0/23 34.104.52.0/24 34.104.56.0/21 34.104.64.0/18 34.104.128.0/17 34.105.0.0/16 34.106.0.0/15 34.108.0.0/16 34.110.128.0/17 34.111.0.0/16 34.112.0.0/15 34.116.0.0/21 34.116.64.0/18 34.116.128.0/17 34.117.0.0/16 34.118.0.0/17 34.118.128.0/18 34.118.192.0/20 34.118.240.0/20 34.120.0.0/14 34.124.0.0/18 34.124.112.0/20 34.124.128.0/17 34.125.0.0/16 34.126.64.0/18 34.126.128.0/18 34.126.192.0/19 34.127.0.0/17 34.127.156.0/22 34.127.160.0/20 34.127.177.0/24 34.127.178.0/23 34.127.180.0/24 34.127.184.0/21 34.128.4.0/22 34.128.32.0/22 34.128.36.0/23 34.128.42.0/23 34.128.44.0/22 34.128.48.0/23 34.128.52.0/22 34.128.58.0/23 34.128.60.0/22 34.128.64.0/18 34.128.128.0/18 34.128.208.0/20 34.128.224.0/20 34.129.0.0/16 34.130.0.0/15 34.132.0.0/14 34.136.0.0/14 34.140.0.0/15 34.142.0.0/16 34.143.64.0/21 34.143.128.0/17 34.144.172.0/22 34.144.176.0/20 34.144.192.0/18 34.145.0.0/16 34.146.0.0/15 34.148.0.0/14 34.152.0.0/18 34.152.64.0/22 34.152.68.0/23 34.152.72.0/21 34.152.80.0/23 34.152.84.0/22 34.152.96.0/23 34.152.98.0/24 34.152.100.0/22 34.152.104.0/21 34.152.112.0/20 34.153.16.0/20 34.153.32.0/23 34.153.38.0/24 34.153.40.0/21 34.153.48.0/21 34.153.58.0/23 34.153.62.0/23 34.153.128.0/18 34.153.192.0/19 34.153.224.0/23 34.153.230.0/24 34.153.232.0/21 34.153.240.0/21 34.153.250.0/23 34.153.252.0/22 34.154.0.0/15 34.156.0.0/16 34.157.0.0/21 34.157.8.0/23 34.157.12.0/22 34.157.16.0/20 34.157.32.0/19 34.157.64.0/20 34.157.80.0/22 34.157.84.0/23 34.157.87.0/24 34.157.88.0/21 34.157.96.0/20 34.157.112.0/21 34.157.121.0/24 34.157.122.0/24 34.157.123.0/25 34.157.124.0/22 34.157.128.0/21 34.157.136.0/23 34.157.140.0/22 34.157.144.0/20 34.157.160.0/19 34.157.192.0/20 34.157.208.0/22 34.157.212.0/23 34.157.215.0/24 34.157.216.0/21 34.157.224.0/20 34.157.240.0/21 34.157.249.0/24 34.157.250.0/23 34.157.252.0/22 34.158.8.0/21 34.158.16.0/20 34.158.32.0/19 34.158.64.0/18 34.158.128.0/18 34.158.192.0/19 34.158.224.0/20 34.158.240.0/21 34.159.0.0/16 34.160.0.0/14 34.164.0.0/15 34.166.0.0/16 34.168.0.0/13 34.176.0.0/16 34.177.32.0/22 34.177.36.0/23 34.177.40.0/21 34.177.48.0/21 34.177.64.0/23 34.177.66.0/24 34.177.68.0/22 34.177.72.0/22 34.177.76.0/23 34.177.78.0/25 34.177.79.0/24 34.177.80.0/20 34.177.96.0/20 34.177.112.0/21 34.177.120.0/22 34.178.0.0/15 34.180.0.0/17 34.181.0.0/16 34.182.0.0/16 34.183.0.0/21 34.183.8.0/23 34.183.12.0/22 34.183.16.0/22 34.183.20.128/25 34.183.21.0/24 34.183.24.0/22 34.183.28.0/23 34.183.32.0/22 34.183.36.0/23 34.183.40.0/21 34.183.50.0/23 34.183.52.0/22 34.183.56.0/22 34.183.60.0/23 34.183.66.0/23 34.183.68.0/22 34.183.72.0/21 34.183.80.0/20 34.183.96.0/20 34.183.112.0/21 34.183.120.0/22 34.183.124.0/24 34.184.0.0/21 34.184.8.0/23 34.184.12.0/22 34.184.16.0/22 34.184.22.0/23 34.184.24.0/22 34.184.30.0/23 34.184.32.0/22 34.184.40.0/21 34.184.48.0/21 34.184.56.0/22 34.184.64.0/19 34.184.96.0/20 34.184.112.0/21 34.184.120.0/22 34.185.64.0/18 34.185.128.0/17 34.186.0.0/15 35.184.0.0/15 35.186.0.0/16 35.187.0.0/17 35.187.144.0/20 35.187.160.0/19 35.187.192.0/18 35.188.0.0/15 35.190.0.0/18 35.190.64.0/19 35.190.112.0/20 35.190.128.0/18 35.190.192.0/19 35.190.224.0/20 35.192.0.0/14 35.196.0.0/15 35.198.0.0/16 35.199.0.0/17 35.199.144.0/20 35.199.160.0/19 35.200.0.0/16 35.201.0.0/19 35.201.41.0/24 35.201.64.0/18 35.201.128.0/17 35.202.0.0/16 35.203.0.0/17 35.203.128.0/18 35.203.210.0/23 35.203.212.0/22 35.203.216.0/22 35.203.232.0/21 35.204.0.0/15 35.206.10.0/23 35.206.32.0/19 35.206.64.0/18 35.206.128.0/17 35.207.0.0/16 35.208.0.0/13 35.216.0.0/15 35.219.0.0/17 35.219.128.0/18 35.219.224.0/19 35.220.0.0/20 35.220.16.0/21 35.220.24.0/22 35.220.31.0/24 35.220.32.0/19 35.220.64.0/18 35.220.128.0/17 35.221.0.0/16 35.222.0.0/15 35.224.0.0/14 35.228.0.0/16 35.229.16.0/20 35.229.32.0/19 35.229.64.0/18 35.229.128.0/17 35.230.0.0/17 35.230.128.0/18 35.230.240.0/20 35.231.0.0/16 35.232.0.0/15 35.234.0.0/16 35.235.0.0/17 35.235.172.0/22 35.235.216.0/21 35.236.0.0/14 35.240.0.0/15 35.242.0.0/20 35.242.16.0/21 35.242.24.0/22 35.242.31.0/24 35.242.32.0/19 35.242.64.0/18 35.242.128.0/17 35.243.0.0/20 35.243.32.0/20 35.243.56.0/21 35.243.64.0/18 35.243.128.0/17 35.244.0.0/14 35.252.0.0/14 104.154.16.0/20 104.154.32.0/19 104.154.64.0/19 104.154.96.0/20 104.154.113.0/24 104.154.114.0/23 104.154.116.0/22 104.154.120.0/23 104.154.128.0/17 104.155.0.0/17 104.155.128.0/18 104.155.192.0/19 104.155.224.0/20 104.196.0.0/18 104.196.65.0/24 104.196.66.0/23 104.196.68.0/22 104.196.96.0/19 104.196.128.0/17 104.197.0.0/16 104.198.0.0/16 104.199.0.0/18 104.199.66.0/23 104.199.68.0/22 104.199.72.0/21 104.199.80.0/20 104.199.96.0/19 104.199.128.0/18 104.199.192.0/19 104.199.224.0/20 104.199.242.0/23 104.199.244.0/22 104.199.248.0/21 107.167.160.0/19 107.178.208.0/20 107.178.240.0/20 108.59.80.0/20 130.211.4.0/22 130.211.8.0/21 130.211.16.0/20 130.211.32.0/19 130.211.64.0/18 130.211.128.0/17 136.23.64.0/18 136.64.0.0/13 136.72.0.0/14 136.77.0.0/16 136.79.0.0/16 136.80.0.0/12 136.107.0.0/16 136.108.0.0/14 136.112.0.0/13 146.148.2.0/23 146.148.4.0/22 146.148.8.0/21 146.148.16.0/20 146.148.32.0/19 146.148.64.0/18 162.216.148.0/22 162.222.176.0/21 173.255.112.0/20 192.158.28.0/22 199.192.115.0/24 199.223.232.0/22 199.223.236.0/24 207.175.0.0/16 2600:1900:4000::/40 2600:1900:4120::/44 2600:1900:4140::/42 2600:1900:4180::/44 2600:1900:41a0::/43 2600:1900:41c0::/43 2600:1900:41e0::/44 2600:1900:4280::/43 2600:1900:42a0::/44 2600:1900:42c0::/44 2600:1900:42e0::/44 2600:1900:5400::/44 2600:1900:8000::/44 2600:1901::/48 2600:1901:4010::/44 2600:1901:8100::/41 2600:1901:8180::/44 2600:1901:81b0::/44 2600:1901:81c0::/44 2600:1901:81f0::/44
+}</pre></div>
+  </div>
+</div></div>
+</section>
+<div class="footer-bar">
+  <div>// GENERATED FROM <a href="https://github.com/rezmoss/cloud-provider-ip-addresses" target="_blank">rezmoss/cloud-provider-ip-addresses</a> · DAILY @ 06:00 UTC</div>
+  <div>// MIT · <a href="/embed/">EMBED</a> · <a href="/no-static-ips/">NO-STATIC-IPS</a> · <a href="/feed.xml">RSS</a> · <a href="/sitemap.xml">SITEMAP</a></div>
+</div>
+</main>
+<script>
+async function copyUrl(url, btn){
+  try{
+    const r = await fetch(url); const t = await r.text();
+    await navigator.clipboard.writeText(t);
+    const o = btn.textContent; btn.textContent='Copied'; btn.classList.add('ok');
+    setTimeout(()=>{btn.textContent=o; btn.classList.remove('ok')},1500);
+  }catch(e){ btn.textContent='Failed' }
+}
+</script>
+</body>
+</html>

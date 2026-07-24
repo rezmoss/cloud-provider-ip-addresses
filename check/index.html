@@ -1,0 +1,263 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>CIDR overlap and merge checker</title>
+<meta name="description" content="Free online tool to detect duplicate, overlapping, and contained CIDR ranges in a list, output a minimal merged set, and cross-reference with major cloud provider IP ranges.">
+<link rel="canonical" href="https://cloudipdb.io/check/">
+<meta property="og:title" content="CIDR overlap and merge checker">
+<meta property="og:description" content="Free online tool to detect duplicate, overlapping, and contained CIDR ranges in a list, output a minimal merged set, and cross-reference with major cloud provider IP ranges.">
+<meta property="og:url" content="https://cloudipdb.io/check/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Cloud Provider IP Addresses">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="CIDR overlap and merge checker">
+<meta name="twitter:description" content="Free online tool to detect duplicate, overlapping, and contained CIDR ranges in a list, output a minimal merged set, and cross-reference with major cloud provider IP ranges.">
+<link rel="alternate" type="application/rss+xml" title="Cloud Provider IP Addresses changelog" href="/feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter+Tight:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/style.css">
+
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <a href="/" style="display:flex;align-items:center;gap:12px">
+      <div class="brand-mark"><span></span></div>
+      <div class="brand-name"><b>CLOUD</b>-IP <span style="color:var(--ink-4)">// v2026.07</span></div>
+    </a>
+  </div>
+  <nav class="nav"><a href="/">Dashboard</a><a href="/providers/">Providers</a><a href="/changelog/">Changelog</a><a href="/lookup/">Lookup</a><a href="/coverage/">Coverage</a><a href="/formats/">Formats</a><a href="/builder/" class="active">Tools</a></nav>
+  <div class="topbar-right">
+    <span class="topbar-stat">UPDATED <b>2026-07-24</b></span>
+    <span class="topbar-stat">PROVIDERS <b>62</b></span>
+    <span class="live-badge"><span class="pulse-dot"></span> LIVE</span>
+  </div>
+</header>
+<main>
+<section class="page active">
+  <div class="page-head">
+    <div>
+      <div class="crumbs">// TOOLS / <b>CIDR CHECK</b></div>
+      <h1>CIDR overlap &amp; merge checker</h1>
+      <p class="lede">Paste a list of CIDRs — finds duplicates, contained ranges, and invalid entries; emits the minimal merged set; cross-references each entry with tracked providers.</p>
+    </div>
+  </div>
+
+  <div class="panel" style="margin-bottom:20px">
+    <div class="panel-head"><h3>// INPUT</h3><span class="meta">one CIDR per line</span></div>
+    <div class="panel-body">
+      <textarea id="in" rows="10" placeholder="10.0.0.0/8&#10;10.1.0.0/16&#10;192.168.0.0/24&#10;192.168.1.0/24&#10;173.245.48.0/20&#10;2606:4700::/32" class="input" style="width:100%;max-width:none;font-family:var(--mono);font-size:12px;padding:12px"></textarea>
+      <div style="margin-top:14px;display:flex;gap:12px;align-items:center">
+        <button type="button" onclick="checkCidrs()" style="background:var(--cyan);color:oklch(0.12 0.01 240);border:0;padding:10px 18px;font-family:var(--mono);font-size:11px;letter-spacing:.1em;text-transform:uppercase;font-weight:600;cursor:pointer;border-radius:2px">CHECK</button>
+        <label class="chip" style="cursor:pointer"><input type="checkbox" id="xref" checked style="margin-right:6px"> CROSS-REF PROVIDERS</label>
+      </div>
+    </div>
+  </div>
+
+  <div id="out"></div>
+</section>
+<script>
+function ipv4ToInt(s){
+  const p = s.split('.'); if(p.length!==4) return null;
+  let n = 0;
+  for(const x of p){ const v = parseInt(x,10); if(isNaN(v)||v<0||v>255||String(v)!==x) return null; n = (n*256)+v; }
+  return n>>>0;
+}
+function expandV6(s){
+  if(!s.includes(':')) return null;
+  let head=s, tail='';
+  if(s.includes('::')){ const parts = s.split('::'); head=parts[0]; tail=parts[1]; }
+  const hp = head?head.split(':'):[]; const tp = tail?tail.split(':'):[];
+  const missing = 8 - hp.length - tp.length;
+  if(missing<0) return null;
+  const all = [...hp, ...Array(Math.max(0,missing)).fill('0'), ...tp];
+  if(all.length!==8) return null;
+  let n = 0n;
+  for(const g of all){ if(!/^[0-9a-fA-F]{0,4}$/.test(g)) return null; n = (n<<16n) + BigInt(parseInt(g||'0',16)); }
+  return n;
+}
+function parseCidr(line){
+  const s = line.trim();
+  if(!s) return null;
+  const [ip, bitsStr] = s.split('/');
+  if(!ip || !bitsStr) return null;
+  const bits = parseInt(bitsStr,10);
+  if(isNaN(bits)) return null;
+  const v4 = ipv4ToInt(ip);
+  if(v4 !== null){
+    if(bits<0||bits>32) return null;
+    const mask = bits===0 ? 0n : (((1n<<BigInt(bits))-1n) << BigInt(32-bits));
+    const start = BigInt(v4) & mask;
+    const end = start + (1n << BigInt(32-bits)) - 1n;
+    return {raw: s, version: 4, bits, start, end, norm: int4ToStr(start) + '/' + bits};
+  }
+  const v6 = expandV6(ip);
+  if(v6 !== null){
+    if(bits<0||bits>128) return null;
+    const mask = bits===0 ? 0n : (((1n<<BigInt(bits))-1n) << BigInt(128-bits));
+    const start = v6 & mask;
+    const end = start + (1n << BigInt(128-bits)) - 1n;
+    return {raw: s, version: 6, bits, start, end, norm: int6ToStr(start) + '/' + bits};
+  }
+  return null;
+}
+function int4ToStr(n){
+  const x = Number(n);
+  return [(x>>>24)&255, (x>>>16)&255, (x>>>8)&255, x&255].join('.');
+}
+function int6ToStr(n){
+  const parts = [];
+  for(let i=7; i>=0; i--){
+    parts.unshift(((n >> BigInt(i*16)) & 0xffffn).toString(16));
+  }
+  // simple :: compression of longest run of zeros
+  const s = parts.join(':');
+  return s.replace(/(^|:)(0:){2,}/, '::').replace(/^0::/, '::').replace(/::0$/, '::');
+}
+// Merge a sorted list of {start, end, bits, version}. Sort first by start asc, then end desc (largest first).
+function dedupeAndContain(entries){
+  // sort: start asc, end desc
+  entries.sort((a,b)=>{
+    if(a.start < b.start) return -1; if(a.start > b.start) return 1;
+    if(a.end > b.end) return -1; if(a.end < b.end) return 1;
+    return 0;
+  });
+  const dups = [], contained = [], kept = [];
+  const seen = new Map();
+  for(const e of entries){
+    const key = e.version + '|' + e.norm;
+    if(seen.has(key)){ dups.push({entry: e, other: seen.get(key)}); continue; }
+    seen.set(key, e);
+    // check if any kept entry contains this one
+    const container = kept.find(k => k.version===e.version && k.start <= e.start && k.end >= e.end);
+    if(container){ contained.push({entry: e, container}); continue; }
+    kept.push(e);
+  }
+  return {dups, contained, kept};
+}
+function mergeAdjacent(kept){
+  // greedy merge sibling pairs into supernets while possible
+  let changed = true;
+  let arr = kept.slice();
+  while(changed){
+    changed = false;
+    const out = [];
+    let i = 0;
+    while(i < arr.length){
+      const a = arr[i], b = arr[i+1];
+      if(b && a.version===b.version && a.bits===b.bits && a.bits>0){
+        const size = b.start - a.start;
+        const blockSize = 1n << BigInt((a.version===4?32:128) - a.bits);
+        // siblings if b.start === a.start + blockSize AND a.start aligned to 2*blockSize
+        if(size === blockSize && (a.start % (blockSize*2n)) === 0n){
+          out.push({
+            version: a.version, bits: a.bits - 1,
+            start: a.start, end: b.end,
+            norm: (a.version===4?int4ToStr(a.start):int6ToStr(a.start)) + '/' + (a.bits - 1),
+          });
+          i += 2; changed = true; continue;
+        }
+      }
+      out.push(a); i += 1;
+    }
+    arr = out;
+  }
+  return arr;
+}
+let XREF_V4 = null, XREF_V6 = null, PROVS = null;
+async function loadXref(){
+  if(PROVS) return;
+  const [p, v4, v6] = await Promise.all([
+    fetch('/lookup-providers.json').then(r=>r.json()),
+    fetch('/lookup-v4.txt').then(r=>r.text()),
+    fetch('/lookup-v6.txt').then(r=>r.text()),
+  ]);
+  PROVS = p;
+  XREF_V4 = []; XREF_V6 = [];
+  for(const line of v4.split('\n')){
+    if(!line) continue;
+    const [c, idx] = line.split('\t');
+    const e = parseCidr(c); if(e) XREF_V4.push({...e, idx: parseInt(idx,10)});
+  }
+  for(const line of v6.split('\n')){
+    if(!line) continue;
+    const [c, idx] = line.split('\t');
+    const e = parseCidr(c); if(e) XREF_V6.push({...e, idx: parseInt(idx,10)});
+  }
+}
+function findProviders(entry){
+  const src = entry.version === 4 ? XREF_V4 : XREF_V6;
+  const hits = new Set();
+  for(const r of src){
+    if(r.start <= entry.end && r.end >= entry.start) hits.add(PROVS[r.idx]);
+  }
+  return [...hits];
+}
+function esc(s){ return s.replace(/[&<>]/g, c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c])); }
+async function checkCidrs(){
+  const lines = document.getElementById('in').value.split('\n');
+  const out = document.getElementById('out');
+  const xrefOn = document.getElementById('xref').checked;
+  const valid = [], invalid = [];
+  for(const line of lines){
+    if(!line.trim()) continue;
+    const e = parseCidr(line); if(e) valid.push(e); else invalid.push(line);
+  }
+  if(!valid.length && !invalid.length){ out.innerHTML = '<p style="color:#8b949e">Paste some CIDRs above.</p>'; return; }
+  const {dups, contained, kept} = dedupeAndContain(valid);
+  const merged = mergeAdjacent(kept);
+  let providerHits = null;
+  if(xrefOn){
+    out.innerHTML = '<p>Loading provider index…</p>';
+    await loadXref();
+    providerHits = kept.map(e=>({entry: e, providers: findProviders(e)}));
+  }
+  const sections = [];
+  sections.push(`<div class="stats" style="margin-top:1.5rem">
+    <div class="stat"><div class="v">${valid.length}</div><div class="l">Valid</div></div>
+    <div class="stat"><div class="v">${invalid.length}</div><div class="l">Invalid</div></div>
+    <div class="stat"><div class="v">${dups.length}</div><div class="l">Duplicates</div></div>
+    <div class="stat"><div class="v">${contained.length}</div><div class="l">Contained</div></div>
+    <div class="stat"><div class="v">${merged.length}</div><div class="l">After merge</div></div>
+  </div>`);
+  if(invalid.length){
+    sections.push('<h2>Invalid entries</h2><pre>' + esc(invalid.join('\n')) + '</pre>');
+  }
+  if(dups.length){
+    sections.push('<h2>Duplicates</h2><pre>' + esc(dups.map(d=>d.entry.raw + '  (same as ' + d.other.raw + ')').join('\n')) + '</pre>');
+  }
+  if(contained.length){
+    sections.push('<h2>Contained by a larger CIDR in your list</h2><pre>' + esc(contained.map(c=>c.entry.raw + '  ⊂  ' + c.container.norm).join('\n')) + '</pre>');
+  }
+  sections.push('<h2>Minimal merged set</h2><pre>' + esc(merged.map(e=>e.norm).join('\n')) + '</pre>');
+  if(providerHits){
+    const rows = providerHits.filter(h=>h.providers.length).map(h=>esc(h.entry.norm) + '  →  ' + h.providers.join(', '));
+    if(rows.length){
+      sections.push('<h2>Matches tracked providers</h2><pre>' + rows.join('\n') + '</pre>');
+    } else {
+      sections.push('<h2>Matches tracked providers</h2><p style="color:#8b949e">No entries overlap a tracked provider range.</p>');
+    }
+  }
+  out.innerHTML = sections.join('');
+}
+</script>
+<div class="footer-bar">
+  <div>// GENERATED FROM <a href="https://github.com/rezmoss/cloud-provider-ip-addresses" target="_blank">rezmoss/cloud-provider-ip-addresses</a> · DAILY @ 06:00 UTC</div>
+  <div>// MIT · <a href="/embed/">EMBED</a> · <a href="/no-static-ips/">NO-STATIC-IPS</a> · <a href="/feed.xml">RSS</a> · <a href="/sitemap.xml">SITEMAP</a></div>
+</div>
+</main>
+<script>
+async function copyUrl(url, btn){
+  try{
+    const r = await fetch(url); const t = await r.text();
+    await navigator.clipboard.writeText(t);
+    const o = btn.textContent; btn.textContent='Copied'; btn.classList.add('ok');
+    setTimeout(()=>{btn.textContent=o; btn.classList.remove('ok')},1500);
+  }catch(e){ btn.textContent='Failed' }
+}
+</script>
+</body>
+</html>

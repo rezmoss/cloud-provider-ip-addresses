@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Hetzner IP ranges for Caddy — updated 2026-07-24</title>
+<meta name="description" content="Caddy remote_ip matcher snippet for Hetzner. 689 CIDRs, refreshed daily.">
+<link rel="canonical" href="https://cloudipdb.io/hetzner/caddy/">
+<meta property="og:title" content="Hetzner IP ranges for Caddy — updated 2026-07-24">
+<meta property="og:description" content="Caddy remote_ip matcher snippet for Hetzner. 689 CIDRs, refreshed daily.">
+<meta property="og:url" content="https://cloudipdb.io/hetzner/caddy/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Cloud Provider IP Addresses">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Hetzner IP ranges for Caddy — updated 2026-07-24">
+<meta name="twitter:description" content="Caddy remote_ip matcher snippet for Hetzner. 689 CIDRs, refreshed daily.">
+<link rel="alternate" type="application/rss+xml" title="Cloud Provider IP Addresses changelog" href="/feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter+Tight:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/style.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cloudipdb.io/"},{"@type":"ListItem","position":2,"name":"Hetzner","item":"https://cloudipdb.io/hetzner/"},{"@type":"ListItem","position":3,"name":"Caddy","item":"https://cloudipdb.io/hetzner/caddy/"}]}</script>
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <a href="/" style="display:flex;align-items:center;gap:12px">
+      <div class="brand-mark"><span></span></div>
+      <div class="brand-name"><b>CLOUD</b>-IP <span style="color:var(--ink-4)">// v2026.07</span></div>
+    </a>
+  </div>
+  <nav class="nav"><a href="/">Dashboard</a><a href="/providers/" class="active">Providers</a><a href="/changelog/">Changelog</a><a href="/lookup/">Lookup</a><a href="/coverage/">Coverage</a><a href="/formats/">Formats</a><a href="/builder/">Tools</a></nav>
+  <div class="topbar-right">
+    <span class="topbar-stat">UPDATED <b>2026-07-24</b></span>
+    <span class="topbar-stat">PROVIDERS <b>62</b></span>
+    <span class="live-badge"><span class="pulse-dot"></span> LIVE</span>
+  </div>
+</header>
+<main>
+<section class="page active">
+  <div class="page-head">
+    <div>
+      <div class="crumbs">// <a href="/hetzner/" style="color:inherit">HETZNER</a> / <b>CADDY</b></div>
+      <h1>Hetzner · Caddy</h1>
+      <p class="lede">Caddy remote_ip matcher snippet for Hetzner. 689 CIDRs, refreshed daily.</p>
+    </div>
+  </div>
+
+  <div class="grid" style="gap:18px"><div class="panel">
+  <div class="panel-head">
+    <h3>// caddy_hetzner_allow.conf</h3>
+    <span class="meta">
+      <a href="https://raw.githubusercontent.com/rezmoss/cloud-provider-ip-addresses/main/hetzner/caddy_hetzner_allow.conf" style="color:var(--cyan)">DOWNLOAD ↓</a>
+      &nbsp;·&nbsp;
+      <button onclick="copyUrl('https://raw.githubusercontent.com/rezmoss/cloud-provider-ip-addresses/main/hetzner/caddy_hetzner_allow.conf', this)" style="background:transparent;border:0;color:var(--cyan);cursor:pointer;font-family:var(--mono);font-size:10px;letter-spacing:.06em">COPY</button>
+    </span>
+  </div>
+  <div class="panel-body">
+    <div class="code-block"><pre style="margin:0;font-family:var(--mono);font-size:11px;color:var(--ink-2);overflow-x:auto"># Hetzner IP Ranges
+# Updated: 2026-06-25 03:23:34
+# Source: https://github.com/rezmoss/cloud-provider-ip-addresses
+# License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
+# This file is generated automatically. Do not edit it directly.
+# Updates daily at 02:00 UTC
+# Caddy remote_ip matcher for hetzner
+# Usage: @hetzner remote_ip &lt;cidrs&gt;
+
+@hetzner {
+  remote_ip 2.28.0.0/15 5.9.0.0/16 5.75.128.0/17 5.78.0.0/16 5.161.0.0/16 23.88.0.0/17 31.58.88.0/24 37.27.0.0/16 45.15.99.0/24 45.145.227.0/24 46.4.0.0/16 46.62.128.0/17 46.224.0.0/15 49.12.0.0/15 62.238.0.0/17 65.21.0.0/16 65.108.0.0/15 77.42.0.0/17 78.46.0.0/15 78.138.62.0/24 85.10.192.0/18 87.99.128.0/17 88.99.0.0/16 88.198.0.0/16 89.167.0.0/17 91.98.0.0/15 91.107.128.0/17 91.190.240.0/21 94.130.0.0/16 95.216.0.0/15 116.202.0.0/15 128.140.0.0/17 135.181.0.0/16 136.243.0.0/16 138.199.128.0/17 138.201.0.0/16 142.132.128.0/17 144.76.0.0/16 148.251.0.0/16 157.90.0.0/16 157.180.0.0/17 159.69.0.0/16 162.55.0.0/16 167.233.0.0/16 167.235.0.0/16 168.119.0.0/16 171.25.225.0/24 176.9.0.0/16 178.63.0.0/16 178.104.0.0/15 178.156.128.0/17 178.212.75.0/24 185.12.65.0/24 185.50.120.0/23 185.107.52.0/22 185.126.28.0/22 185.157.83.0/24 185.157.176.0/22 185.171.224.0/22 185.189.228.0/22 185.213.45.0/24 185.216.237.0/24 185.226.99.0/24 185.228.8.0/23 188.34.128.0/17 188.40.0.0/16 188.245.0.0/16 193.105.82.0/24 193.110.6.0/23 193.163.198.0/24 194.42.180.0/22 194.42.184.0/22 194.62.106.0/24 195.60.226.0/24 195.201.0.0/16 195.248.224.0/24 197.242.84.0/22 201.131.3.0/24 204.29.146.0/24 204.168.128.0/17 213.133.96.0/19 213.239.192.0/18 216.55.108.0/22 2a01:4f8::/31 2a01:4ff::/39 2a01:4ff:ff01::/48 2a06:be80::/29 2a12:2240::/29
+}</pre></div>
+  </div>
+</div></div>
+</section>
+<div class="footer-bar">
+  <div>// GENERATED FROM <a href="https://github.com/rezmoss/cloud-provider-ip-addresses" target="_blank">rezmoss/cloud-provider-ip-addresses</a> · DAILY @ 06:00 UTC</div>
+  <div>// MIT · <a href="/embed/">EMBED</a> · <a href="/no-static-ips/">NO-STATIC-IPS</a> · <a href="/feed.xml">RSS</a> · <a href="/sitemap.xml">SITEMAP</a></div>
+</div>
+</main>
+<script>
+async function copyUrl(url, btn){
+  try{
+    const r = await fetch(url); const t = await r.text();
+    await navigator.clipboard.writeText(t);
+    const o = btn.textContent; btn.textContent='Copied'; btn.classList.add('ok');
+    setTimeout(()=>{btn.textContent=o; btn.classList.remove('ok')},1500);
+  }catch(e){ btn.textContent='Failed' }
+}
+</script>
+</body>
+</html>

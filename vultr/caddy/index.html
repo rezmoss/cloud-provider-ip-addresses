@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Vultr IP ranges for Caddy — updated 2026-07-24</title>
+<meta name="description" content="Caddy remote_ip matcher snippet for Vultr. 492 CIDRs, refreshed daily.">
+<link rel="canonical" href="https://cloudipdb.io/vultr/caddy/">
+<meta property="og:title" content="Vultr IP ranges for Caddy — updated 2026-07-24">
+<meta property="og:description" content="Caddy remote_ip matcher snippet for Vultr. 492 CIDRs, refreshed daily.">
+<meta property="og:url" content="https://cloudipdb.io/vultr/caddy/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Cloud Provider IP Addresses">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Vultr IP ranges for Caddy — updated 2026-07-24">
+<meta name="twitter:description" content="Caddy remote_ip matcher snippet for Vultr. 492 CIDRs, refreshed daily.">
+<link rel="alternate" type="application/rss+xml" title="Cloud Provider IP Addresses changelog" href="/feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter+Tight:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/style.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cloudipdb.io/"},{"@type":"ListItem","position":2,"name":"Vultr","item":"https://cloudipdb.io/vultr/"},{"@type":"ListItem","position":3,"name":"Caddy","item":"https://cloudipdb.io/vultr/caddy/"}]}</script>
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <a href="/" style="display:flex;align-items:center;gap:12px">
+      <div class="brand-mark"><span></span></div>
+      <div class="brand-name"><b>CLOUD</b>-IP <span style="color:var(--ink-4)">// v2026.07</span></div>
+    </a>
+  </div>
+  <nav class="nav"><a href="/">Dashboard</a><a href="/providers/" class="active">Providers</a><a href="/changelog/">Changelog</a><a href="/lookup/">Lookup</a><a href="/coverage/">Coverage</a><a href="/formats/">Formats</a><a href="/builder/">Tools</a></nav>
+  <div class="topbar-right">
+    <span class="topbar-stat">UPDATED <b>2026-07-24</b></span>
+    <span class="topbar-stat">PROVIDERS <b>62</b></span>
+    <span class="live-badge"><span class="pulse-dot"></span> LIVE</span>
+  </div>
+</header>
+<main>
+<section class="page active">
+  <div class="page-head">
+    <div>
+      <div class="crumbs">// <a href="/vultr/" style="color:inherit">VULTR</a> / <b>CADDY</b></div>
+      <h1>Vultr · Caddy</h1>
+      <p class="lede">Caddy remote_ip matcher snippet for Vultr. 492 CIDRs, refreshed daily.</p>
+    </div>
+  </div>
+
+  <div class="grid" style="gap:18px"><div class="panel">
+  <div class="panel-head">
+    <h3>// caddy_vultr_allow.conf</h3>
+    <span class="meta">
+      <a href="https://raw.githubusercontent.com/rezmoss/cloud-provider-ip-addresses/main/vultr/caddy_vultr_allow.conf" style="color:var(--cyan)">DOWNLOAD ↓</a>
+      &nbsp;·&nbsp;
+      <button onclick="copyUrl('https://raw.githubusercontent.com/rezmoss/cloud-provider-ip-addresses/main/vultr/caddy_vultr_allow.conf', this)" style="background:transparent;border:0;color:var(--cyan);cursor:pointer;font-family:var(--mono);font-size:10px;letter-spacing:.06em">COPY</button>
+    </span>
+  </div>
+  <div class="panel-body">
+    <div class="code-block"><pre style="margin:0;font-family:var(--mono);font-size:11px;color:var(--ink-2);overflow-x:auto"># Vultr IP Ranges
+# Updated: 2026-07-23 03:16:29
+# Source: https://github.com/rezmoss/cloud-provider-ip-addresses
+# License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
+# This file is generated automatically. Do not edit it directly.
+# Updates daily at 02:00 UTC
+# Caddy remote_ip matcher for vultr
+# Usage: @vultr remote_ip &lt;cidrs&gt;
+
+@vultr {
+  remote_ip 43.224.32.0/22 45.32.0.0/16 45.63.0.0/19 45.63.32.0/21 45.63.40.0/22 45.63.44.0/24 45.63.46.0/23 45.63.48.0/20 45.63.64.0/18 45.76.0.0/15 64.176.0.0/17 64.176.160.0/19 64.176.192.0/18 64.177.64.0/20 64.177.80.0/21 64.177.96.0/19 64.237.32.0/19 65.20.64.0/18 66.42.32.0/19 66.42.64.0/18 66.55.128.0/19 66.135.0.0/19 66.245.192.0/20 66.245.208.0/23 66.245.212.0/22 66.245.216.0/21 67.219.96.0/20 68.232.160.0/20 68.232.176.0/21 68.232.184.0/22 68.232.188.0/23 70.34.192.0/19 70.34.240.0/20 78.141.192.0/18 80.240.16.0/20 95.179.128.0/17 96.30.192.0/19 103.43.72.0/22 104.156.224.0/19 104.207.128.0/19 104.238.128.0/18 107.191.32.0/19 108.61.0.0/18 108.61.64.0/19 108.61.96.0/22 108.61.100.0/23 108.61.103.0/24 108.61.104.0/23 108.61.108.0/22 108.61.112.0/21 108.61.120.0/24 108.61.122.0/23 108.61.125.0/24 108.61.126.0/23 108.61.128.0/18 108.61.192.0/19 108.61.224.0/23 108.61.226.0/24 108.61.228.0/22 108.61.232.0/24 108.61.234.0/24 108.61.236.0/22 108.61.241.0/24 108.61.242.0/23 108.61.245.0/24 108.61.246.0/23 108.61.248.0/21 108.160.128.0/20 136.244.64.0/18 137.220.32.0/19 139.84.128.0/17 139.180.128.0/18 139.180.192.0/19 140.82.0.0/18 141.164.32.0/19 144.202.0.0/17 149.28.8.0/21 149.28.16.0/20 149.28.32.0/19 149.28.64.0/18 149.28.128.0/17 149.248.0.0/18 155.138.128.0/17 158.247.192.0/18 167.179.64.0/18 173.199.64.0/23 173.199.66.0/24 173.199.70.0/23 173.199.72.0/21 173.199.80.0/23 173.199.83.0/24 173.199.84.0/22 173.199.88.0/21 173.199.97.0/24 173.199.104.0/23 173.199.106.0/24 173.199.108.0/22 173.199.112.0/20 185.92.220.0/22 192.0.2.0/24 192.248.128.0/18 198.13.32.0/19 198.51.100.0/24 199.247.0.0/19 202.182.96.0/19 203.0.113.0/24 207.148.0.0/19 207.148.64.0/18 207.246.64.0/18 208.72.152.0/22 208.76.220.0/22 208.83.232.0/21 208.85.16.0/21 208.167.224.0/19 209.222.0.0/20 209.222.16.0/22 209.222.20.0/23 209.222.23.0/24 209.222.24.0/21 209.250.224.0/19 216.128.128.0/18 216.155.128.0/19 216.238.64.0/18 217.69.0.0/20 2001:2::/48 2001:10::/28 2001:db8::/32 2001:19f0::/38 2001:19f0:1000::/37 2001:19f0:4000::/37 2001:19f0:5000::/36 2001:19f0:6000::/36 2001:19f0:7000::/37 2001:19f0:8000::/38 2001:19f0:8800::/38 2001:19f0:9000::/36 2001:19f0:a800::/37 2001:19f0:b000::/37 2001:19f0:b800::/38 2001:19f0:c000::/38 2001:19f0:c800::/38 2002::/16 2401:c080:1000::/36 2401:c080:2000::/37 2401:c080:3000::/37 2401:c080:3800::/38 2a05:f480:1000::/36 2a05:f480:2000::/36 2a05:f480:3000::/37 2a05:f480:3800::/38
+}</pre></div>
+  </div>
+</div></div>
+</section>
+<div class="footer-bar">
+  <div>// GENERATED FROM <a href="https://github.com/rezmoss/cloud-provider-ip-addresses" target="_blank">rezmoss/cloud-provider-ip-addresses</a> · DAILY @ 06:00 UTC</div>
+  <div>// MIT · <a href="/embed/">EMBED</a> · <a href="/no-static-ips/">NO-STATIC-IPS</a> · <a href="/feed.xml">RSS</a> · <a href="/sitemap.xml">SITEMAP</a></div>
+</div>
+</main>
+<script>
+async function copyUrl(url, btn){
+  try{
+    const r = await fetch(url); const t = await r.text();
+    await navigator.clipboard.writeText(t);
+    const o = btn.textContent; btn.textContent='Copied'; btn.classList.add('ok');
+    setTimeout(()=>{btn.textContent=o; btn.classList.remove('ok')},1500);
+  }catch(e){ btn.textContent='Failed' }
+}
+</script>
+</body>
+</html>

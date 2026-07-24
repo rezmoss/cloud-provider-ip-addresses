@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Block AI crawlers (GPTBot, etc.) — config generator</title>
+<meta name="description" content="Free generator for blocking AI training bots — GPTBot, Amazonbot, Applebot, PerplexityBot, Common Crawl. Outputs nginx, iptables, Cloudflare WAF, and robots.txt configs.">
+<link rel="canonical" href="https://cloudipdb.io/block-ai-bots/">
+<meta property="og:title" content="Block AI crawlers (GPTBot, etc.) — config generator">
+<meta property="og:description" content="Free generator for blocking AI training bots — GPTBot, Amazonbot, Applebot, PerplexityBot, Common Crawl. Outputs nginx, iptables, Cloudflare WAF, and robots.txt configs.">
+<meta property="og:url" content="https://cloudipdb.io/block-ai-bots/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Cloud Provider IP Addresses">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Block AI crawlers (GPTBot, etc.) — config generator">
+<meta name="twitter:description" content="Free generator for blocking AI training bots — GPTBot, Amazonbot, Applebot, PerplexityBot, Common Crawl. Outputs nginx, iptables, Cloudflare WAF, and robots.txt configs.">
+<link rel="alternate" type="application/rss+xml" title="Cloud Provider IP Addresses changelog" href="/feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter+Tight:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/style.css">
+
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <a href="/" style="display:flex;align-items:center;gap:12px">
+      <div class="brand-mark"><span></span></div>
+      <div class="brand-name"><b>CLOUD</b>-IP <span style="color:var(--ink-4)">// v2026.07</span></div>
+    </a>
+  </div>
+  <nav class="nav"><a href="/">Dashboard</a><a href="/providers/">Providers</a><a href="/changelog/">Changelog</a><a href="/lookup/">Lookup</a><a href="/coverage/">Coverage</a><a href="/formats/">Formats</a><a href="/builder/" class="active">Tools</a></nav>
+  <div class="topbar-right">
+    <span class="topbar-stat">UPDATED <b>2026-07-24</b></span>
+    <span class="topbar-stat">PROVIDERS <b>62</b></span>
+    <span class="live-badge"><span class="pulse-dot"></span> LIVE</span>
+  </div>
+</header>
+<main>
+<section class="page active">
+  <div class="page-head">
+    <div>
+      <div class="crumbs">// TOOLS / <b>BLOCK AI CRAWLERS</b></div>
+      <h1>Block AI crawlers</h1>
+      <p class="lede">Generate a ready-to-paste block-list for AI/LLM training bots in nginx, iptables, robots.txt, or a Cloudflare WAF expression.</p>
+    </div>
+  </div>
+
+  <div class="panel" style="margin-bottom:20px">
+    <div class="panel-head"><h3>// 1. CRAWLERS TO BLOCK</h3><span class="meta">5 available</span></div>
+    <div class="panel-body"><div class="chk-grid"><label class="chk"><input type="checkbox" value="gptbot" checked> <span class="dot" style="width:8px;height:8px;border-radius:1px;background:#10A37F;display:inline-block"></span> GPTBot <span style="color:var(--ink-4);font-size:11px">(342 CIDRs)</span></label>
+<label class="chk"><input type="checkbox" value="amazonbot" checked> <span class="dot" style="width:8px;height:8px;border-radius:1px;background:#FF9900;display:inline-block"></span> Amazonbot <span style="color:var(--ink-4);font-size:11px">(2,059 CIDRs)</span></label>
+<label class="chk"><input type="checkbox" value="applebot" checked> <span class="dot" style="width:8px;height:8px;border-radius:1px;background:#888888;display:inline-block"></span> Applebot <span style="color:var(--ink-4);font-size:11px">(12 CIDRs)</span></label>
+<label class="chk"><input type="checkbox" value="perplexitybot" checked> <span class="dot" style="width:8px;height:8px;border-radius:1px;background:#6F42C1;display:inline-block"></span> PerplexityBot <span style="color:var(--ink-4);font-size:11px">(12 CIDRs)</span></label>
+<label class="chk"><input type="checkbox" value="commoncrawl" checked> <span class="dot" style="width:8px;height:8px;border-radius:1px;background:#A0A0A0;display:inline-block"></span> Common Crawl <span style="color:var(--ink-4);font-size:11px">(6 CIDRs)</span></label></div></div>
+  </div>
+
+  <div class="panel" style="margin-bottom:20px">
+    <div class="panel-head"><h3>// 2. OUTPUT FORMAT</h3><span class="meta">click a tab</span></div>
+    <div class="panel-body">
+      <div class="chips" style="margin-bottom:12px">
+        <button onclick="setTab('nginx', this)" class="chip active">NGINX</button>
+        <button onclick="setTab('iptables', this)" class="chip">IPTABLES</button>
+        <button onclick="setTab('cf-waf', this)" class="chip">CLOUDFLARE WAF</button>
+        <button onclick="setTab('robots', this)" class="chip">ROBOTS.TXT</button>
+      </div>
+      <div style="display:flex;gap:8px">
+        <button type="button" onclick="renderBlock()" style="background:var(--cyan);color:oklch(0.12 0.01 240);border:0;padding:10px 18px;font-family:var(--mono);font-size:11px;letter-spacing:.1em;text-transform:uppercase;font-weight:600;cursor:pointer;border-radius:2px">GENERATE</button>
+        <button type="button" onclick="copyOutput(this)" class="chip">COPY OUTPUT</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="panel">
+    <div class="panel-head"><h3>// OUTPUT</h3><span class="meta">paste into your config</span></div>
+    <div class="panel-body"><pre id="out" style="margin:0;font-family:var(--mono);font-size:11px;color:var(--ink-2);max-height:500px;overflow:auto">Click GENERATE to produce the snippet.</pre></div>
+  </div>
+</section>
+<script>
+const RAW = 'https://raw.githubusercontent.com/rezmoss/cloud-provider-ip-addresses/main';
+const UA_MAP = {
+  gptbot: ['GPTBot','OAI-SearchBot','ChatGPT-User'],
+  amazonbot: ['Amazonbot'],
+  applebot: ['Applebot','Applebot-Extended'],
+  perplexitybot: ['PerplexityBot','Perplexity-User'],
+  commoncrawl: ['CCBot'],
+};
+let TAB = 'nginx';
+function setTab(t, el){ TAB = t; document.querySelectorAll('.tab').forEach(b=>b.classList.remove('active')); el.classList.add('active'); }
+function selectedBots(){ return [...document.querySelectorAll('.chk-grid input:checked')].map(i=>i.value); }
+async function fetchAllCidrs(bots){
+  const urls = bots.flatMap(p=>[`${RAW}/${p}/${p}_ips_v4.txt`, `${RAW}/${p}/${p}_ips_v6.txt`]);
+  const texts = await Promise.all(urls.map(u=>fetch(u).then(r=>r.ok?r.text():'')));
+  const set = new Set();
+  for(const t of texts){ for(const line of t.split('\n')){ const c=line.trim(); if(c && !c.startsWith('#')) set.add(c); } }
+  return [...set];
+}
+async function renderBlock(){
+  const bots = selectedBots();
+  const pre = document.getElementById('out');
+  if(!bots.length){ pre.textContent = 'Select at least one bot.'; return; }
+  pre.textContent = 'Fetching CIDRs…';
+  let out = '';
+  if(TAB === 'robots'){
+    const lines = [];
+    for(const b of bots){
+      for(const ua of (UA_MAP[b]||[])){
+        lines.push(`User-agent: ${ua}`); lines.push('Disallow: /'); lines.push('');
+      }
+    }
+    out = lines.join('\n');
+  } else {
+    const cidrs = await fetchAllCidrs(bots);
+    if(TAB === 'nginx') out = cidrs.map(c=>`deny ${c};`).join('\n') + '\n';
+    else if(TAB === 'iptables') out = '#!/bin/bash\n' + cidrs.map(c=>`iptables -A INPUT -s ${c} -j DROP`).join('\n') + '\n';
+    else if(TAB === 'cf-waf') out = '(ip.src in {' + cidrs.join(' ') + '})';
+  }
+  pre.textContent = out;
+}
+function copyOutput(btn){
+  const t = document.getElementById('out').textContent;
+  navigator.clipboard.writeText(t).then(()=>{
+    const o = btn.textContent; btn.textContent='Copied'; btn.classList.add('ok');
+    setTimeout(()=>{btn.textContent=o; btn.classList.remove('ok')},1500);
+  });
+}
+</script>
+<div class="footer-bar">
+  <div>// GENERATED FROM <a href="https://github.com/rezmoss/cloud-provider-ip-addresses" target="_blank">rezmoss/cloud-provider-ip-addresses</a> · DAILY @ 06:00 UTC</div>
+  <div>// MIT · <a href="/embed/">EMBED</a> · <a href="/no-static-ips/">NO-STATIC-IPS</a> · <a href="/feed.xml">RSS</a> · <a href="/sitemap.xml">SITEMAP</a></div>
+</div>
+</main>
+<script>
+async function copyUrl(url, btn){
+  try{
+    const r = await fetch(url); const t = await r.text();
+    await navigator.clipboard.writeText(t);
+    const o = btn.textContent; btn.textContent='Copied'; btn.classList.add('ok');
+    setTimeout(()=>{btn.textContent=o; btn.classList.remove('ok')},1500);
+  }catch(e){ btn.textContent='Failed' }
+}
+</script>
+</body>
+</html>

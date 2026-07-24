@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>DigitalOcean IP ranges for Caddy — updated 2026-07-24</title>
+<meta name="description" content="Caddy remote_ip matcher snippet for DigitalOcean. 1,226 CIDRs, refreshed daily.">
+<link rel="canonical" href="https://cloudipdb.io/digitalocean/caddy/">
+<meta property="og:title" content="DigitalOcean IP ranges for Caddy — updated 2026-07-24">
+<meta property="og:description" content="Caddy remote_ip matcher snippet for DigitalOcean. 1,226 CIDRs, refreshed daily.">
+<meta property="og:url" content="https://cloudipdb.io/digitalocean/caddy/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Cloud Provider IP Addresses">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="DigitalOcean IP ranges for Caddy — updated 2026-07-24">
+<meta name="twitter:description" content="Caddy remote_ip matcher snippet for DigitalOcean. 1,226 CIDRs, refreshed daily.">
+<link rel="alternate" type="application/rss+xml" title="Cloud Provider IP Addresses changelog" href="/feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter+Tight:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/style.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cloudipdb.io/"},{"@type":"ListItem","position":2,"name":"DigitalOcean","item":"https://cloudipdb.io/digitalocean/"},{"@type":"ListItem","position":3,"name":"Caddy","item":"https://cloudipdb.io/digitalocean/caddy/"}]}</script>
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <a href="/" style="display:flex;align-items:center;gap:12px">
+      <div class="brand-mark"><span></span></div>
+      <div class="brand-name"><b>CLOUD</b>-IP <span style="color:var(--ink-4)">// v2026.07</span></div>
+    </a>
+  </div>
+  <nav class="nav"><a href="/">Dashboard</a><a href="/providers/" class="active">Providers</a><a href="/changelog/">Changelog</a><a href="/lookup/">Lookup</a><a href="/coverage/">Coverage</a><a href="/formats/">Formats</a><a href="/builder/">Tools</a></nav>
+  <div class="topbar-right">
+    <span class="topbar-stat">UPDATED <b>2026-07-24</b></span>
+    <span class="topbar-stat">PROVIDERS <b>62</b></span>
+    <span class="live-badge"><span class="pulse-dot"></span> LIVE</span>
+  </div>
+</header>
+<main>
+<section class="page active">
+  <div class="page-head">
+    <div>
+      <div class="crumbs">// <a href="/digitalocean/" style="color:inherit">DIGITALOCEAN</a> / <b>CADDY</b></div>
+      <h1>DigitalOcean · Caddy</h1>
+      <p class="lede">Caddy remote_ip matcher snippet for DigitalOcean. 1,226 CIDRs, refreshed daily.</p>
+    </div>
+  </div>
+
+  <div class="grid" style="gap:18px"><div class="panel">
+  <div class="panel-head">
+    <h3>// caddy_digitalocean_allow.conf</h3>
+    <span class="meta">
+      <a href="https://raw.githubusercontent.com/rezmoss/cloud-provider-ip-addresses/main/digitalocean/caddy_digitalocean_allow.conf" style="color:var(--cyan)">DOWNLOAD ↓</a>
+      &nbsp;·&nbsp;
+      <button onclick="copyUrl('https://raw.githubusercontent.com/rezmoss/cloud-provider-ip-addresses/main/digitalocean/caddy_digitalocean_allow.conf', this)" style="background:transparent;border:0;color:var(--cyan);cursor:pointer;font-family:var(--mono);font-size:10px;letter-spacing:.06em">COPY</button>
+    </span>
+  </div>
+  <div class="panel-body">
+    <div class="code-block"><pre style="margin:0;font-family:var(--mono);font-size:11px;color:var(--ink-2);overflow-x:auto"># Digitalocean IP Ranges
+# Updated: 2026-06-30 03:20:02
+# Source: https://github.com/rezmoss/cloud-provider-ip-addresses
+# License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
+# This file is generated automatically. Do not edit it directly.
+# Updates daily at 02:00 UTC
+# Caddy remote_ip matcher for digitalocean
+# Usage: @digitalocean remote_ip &lt;cidrs&gt;
+
+@digitalocean {
+  remote_ip 5.101.96.0/21 5.101.104.0/22 24.144.64.0/21 24.144.74.0/23 24.144.76.0/22 24.144.80.0/20 24.144.96.0/19 24.199.64.0/18 37.139.0.0/19 45.55.0.0/16 46.101.0.0/16 64.23.128.0/17 64.225.0.0/17 64.226.64.0/18 64.227.0.0/17 64.227.128.0/18 67.205.128.0/18 67.207.68.0/22 67.207.72.0/21 67.207.80.0/20 68.183.0.0/16 69.55.48.0/22 69.55.54.0/23 69.55.58.0/23 69.55.60.0/22 80.240.128.0/20 82.196.0.0/20 95.85.1.0/24 95.85.2.0/23 95.85.4.0/22 95.85.8.0/21 95.85.16.0/20 95.85.32.0/19 103.253.145.0/24 103.253.146.0/23 104.131.0.0/16 104.236.0.0/16 104.248.0.0/16 107.170.0.0/16 128.199.0.0/16 129.212.132.0/22 129.212.136.0/21 129.212.144.0/20 129.212.160.0/21 129.212.168.0/22 129.212.172.0/23 129.212.176.0/20 129.212.192.0/18 134.122.0.0/17 134.199.130.0/23 134.199.132.0/22 134.199.136.0/21 134.199.144.0/20 134.199.160.0/19 134.199.192.0/18 134.209.0.0/16 137.184.0.0/17 137.184.128.0/18 137.184.192.0/19 137.184.224.0/20 137.184.240.0/21 137.184.248.0/22 137.184.254.0/23 138.68.0.0/19 138.68.36.0/22 138.68.40.0/21 138.68.48.0/20 138.68.64.0/18 138.68.128.0/17 138.197.0.0/17 138.197.128.0/18 138.197.192.0/19 138.197.224.0/20 138.197.240.0/22 138.197.252.0/22 139.59.0.0/16 141.0.169.0/24 141.0.170.0/24 142.93.0.0/16 143.110.128.0/17 143.198.0.0/17 143.198.128.0/18 143.198.192.0/19 143.198.224.0/20 143.198.240.0/21 143.198.248.0/22 143.244.128.0/18 143.244.196.0/22 143.244.200.0/21 143.244.208.0/21 143.244.218.0/24 143.244.220.0/22 144.126.192.0/18 146.185.128.0/18 146.190.0.0/17 146.190.128.0/19 146.190.160.0/20 146.190.176.0/22 146.190.184.0/21 146.190.192.0/18 147.182.128.0/17 152.42.128.0/17 157.230.0.0/16 157.245.0.0/16 159.65.0.0/16 159.89.0.0/19 159.89.32.0/20 159.89.48.0/21 159.89.64.0/18 159.89.128.0/17 159.203.0.0/16 159.223.0.0/17 159.223.128.0/18 159.223.192.0/19 159.223.224.0/20 159.223.240.0/21 159.223.248.0/22 161.35.0.0/16 162.243.0.0/17 162.243.128.0/19 162.243.160.0/20 162.243.177.0/24 162.243.184.0/22 162.243.192.0/18 163.47.8.0/22 164.90.128.0/18 164.90.192.0/19 164.90.224.0/20 164.90.240.0/21 164.90.252.0/22 164.92.64.0/18 164.92.128.0/17 165.22.0.0/16 165.227.0.0/16 165.232.32.0/19 165.232.64.0/18 165.232.128.0/18 165.245.128.0/17 167.71.0.0/16 167.99.0.0/16 167.172.0.0/16 168.144.0.0/17 168.144.128.0/18 168.144.192.0/22 168.144.208.0/20 170.64.128.0/17 174.138.0.0/17 178.62.0.0/16 178.128.0.0/16 185.14.184.0/22 188.166.0.0/16 188.226.128.0/17 192.34.56.0/21 192.81.208.0/20 192.241.128.0/19 192.241.160.0/22 192.241.165.0/24 192.241.166.0/23 192.241.168.0/21 192.241.176.0/20 192.241.192.0/18 198.199.64.0/19 198.199.96.0/23 198.199.98.0/24 198.199.100.0/22 198.199.104.0/21 198.199.112.0/20 198.211.96.0/21 198.211.104.0/22 198.211.108.0/23 198.211.110.0/24 198.211.112.0/20 204.48.16.0/20 206.81.0.0/19 206.189.0.0/16 207.154.192.0/18 208.68.36.0/22 209.38.0.0/16 209.97.128.0/18 2400:6180:0:d0::/62 2400:6180:10:200::/64 2400:6180:100:d0::/64 2604:a880:0:1010::/61 2604:a880:0:1018::/63 2604:a880:0:1020::/61 2604:a880:0:1028::/63 2604:a880:0:2010::/61 2604:a880:0:2018::/63 2604:a880:0:2020::/61 2604:a880:0:2028::/63 2604:a880:0:202a::/64 2604:a880:1:20::/64 2604:a880:1:4a::/64 2604:a880:2:d0::/63 2604:a880:4:1d0::/64 2604:a880:5:1::/64 2604:a880:6:7::/64 2604:a880:7:7::/64 2604:a880:8:7::/64 2604:a880:400:d0::/63 2604:a880:800:10::/62 2604:a880:800:14::/64 2604:a880:800:a1::/64 2604:a880:800:c1::/64 2604:a880:803::/48 2604:a880:cad:d0::/64 2a03:b0c0:0:108::/64 2a03:b0c0:0:126::/63 2a03:b0c0:0:128::/63 2a03:b0c0:0:130::/61 2a03:b0c0:0:138::/63 2a03:b0c0:0:140::/61 2a03:b0c0:0:148::/63 2a03:b0c0:0:150::/62 2a03:b0c0:0:154::/63 2a03:b0c0:0:1010::/61 2a03:b0c0:0:1018::/63 2a03:b0c0:0:1020::/61 2a03:b0c0:0:1028::/63 2a03:b0c0:0:1030::/61 2a03:b0c0:0:1038::/63 2a03:b0c0:0:1040::/61 2a03:b0c0:0:1048::/63 2a03:b0c0:0:1050::/63 2a03:b0c0:1:a1::/64 2a03:b0c0:1:d0::/64 2a03:b0c0:1:e0::/64 2a03:b0c0:2:d0::/64 2a03:b0c0:2:f0::/64 2a03:b0c0:3:d0::/64 2a03:b0c0:3:e0::/64 2a03:b0c0:3:f0::/64
+}</pre></div>
+  </div>
+</div></div>
+</section>
+<div class="footer-bar">
+  <div>// GENERATED FROM <a href="https://github.com/rezmoss/cloud-provider-ip-addresses" target="_blank">rezmoss/cloud-provider-ip-addresses</a> · DAILY @ 06:00 UTC</div>
+  <div>// MIT · <a href="/embed/">EMBED</a> · <a href="/no-static-ips/">NO-STATIC-IPS</a> · <a href="/feed.xml">RSS</a> · <a href="/sitemap.xml">SITEMAP</a></div>
+</div>
+</main>
+<script>
+async function copyUrl(url, btn){
+  try{
+    const r = await fetch(url); const t = await r.text();
+    await navigator.clipboard.writeText(t);
+    const o = btn.textContent; btn.textContent='Copied'; btn.classList.add('ok');
+    setTimeout(()=>{btn.textContent=o; btn.classList.remove('ok')},1500);
+  }catch(e){ btn.textContent='Failed' }
+}
+</script>
+</body>
+</html>
