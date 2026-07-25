@@ -2466,6 +2466,12 @@
     "region": "global"
   },
   {
+    "ip_address": "2600:3c0f:55::/48",
+    "ip_type": "IPv6",
+    "service": "akamai-as63949",
+    "region": "global"
+  },
+  {
     "ip_address": "2600:3c0f:56::/48",
     "ip_type": "IPv6",
     "service": "akamai-as63949",

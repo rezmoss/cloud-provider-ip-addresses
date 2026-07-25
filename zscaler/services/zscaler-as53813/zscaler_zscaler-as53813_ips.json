@@ -1806,6 +1806,12 @@
     "region": "global"
   },
   {
+    "ip_address": "175.107.180.0/23",
+    "ip_type": "IPv4",
+    "service": "zscaler-as53813",
+    "region": "global"
+  },
+  {
     "ip_address": "175.107.184.0/23",
     "ip_type": "IPv4",
     "service": "zscaler-as53813",

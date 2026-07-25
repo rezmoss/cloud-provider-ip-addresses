@@ -5142,6 +5142,12 @@
     "region": "global"
   },
   {
+    "ip_address": "161.120.191.0/24",
+    "ip_type": "IPv4",
+    "service": "tencent-as132203",
+    "region": "global"
+  },
+  {
     "ip_address": "161.120.192.0/19",
     "ip_type": "IPv4",
     "service": "tencent-as132203",
@@ -6559,6 +6565,12 @@
   },
   {
     "ip_address": "240d:c010:30::/48",
+    "ip_type": "IPv6",
+    "service": "tencent-as132203",
+    "region": "global"
+  },
+  {
+    "ip_address": "240d:c010:31::/48",
     "ip_type": "IPv6",
     "service": "tencent-as132203",
     "region": "global"

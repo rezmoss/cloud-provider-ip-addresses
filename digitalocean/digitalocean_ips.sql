@@ -832,6 +832,7 @@ INSERT INTO `digitalocean_ips` (`ip_address`, `ip_type`) VALUES ('168.144.160.0/
 INSERT INTO `digitalocean_ips` (`ip_address`, `ip_type`) VALUES ('168.144.176.0/20', 'IPv4');
 INSERT INTO `digitalocean_ips` (`ip_address`, `ip_type`) VALUES ('168.144.192.0/22', 'IPv4');
 INSERT INTO `digitalocean_ips` (`ip_address`, `ip_type`) VALUES ('168.144.208.0/20', 'IPv4');
+INSERT INTO `digitalocean_ips` (`ip_address`, `ip_type`) VALUES ('168.144.240.0/20', 'IPv4');
 INSERT INTO `digitalocean_ips` (`ip_address`, `ip_type`) VALUES ('170.64.128.0/18', 'IPv4');
 INSERT INTO `digitalocean_ips` (`ip_address`, `ip_type`) VALUES ('170.64.192.0/19', 'IPv4');
 INSERT INTO `digitalocean_ips` (`ip_address`, `ip_type`) VALUES ('170.64.224.0/20', 'IPv4');
@@ -1029,6 +1030,7 @@ INSERT INTO `digitalocean_ips` (`ip_address`, `ip_type`) VALUES ('198.211.112.0/
 INSERT INTO `digitalocean_ips` (`ip_address`, `ip_type`) VALUES ('198.211.116.0/23', 'IPv4');
 INSERT INTO `digitalocean_ips` (`ip_address`, `ip_type`) VALUES ('198.211.118.0/23', 'IPv4');
 INSERT INTO `digitalocean_ips` (`ip_address`, `ip_type`) VALUES ('198.211.120.0/21', 'IPv4');
+INSERT INTO `digitalocean_ips` (`ip_address`, `ip_type`) VALUES ('201.79.0.0/20', 'IPv4');
 INSERT INTO `digitalocean_ips` (`ip_address`, `ip_type`) VALUES ('204.48.16.0/20', 'IPv4');
 INSERT INTO `digitalocean_ips` (`ip_address`, `ip_type`) VALUES ('206.81.0.0/20', 'IPv4');
 INSERT INTO `digitalocean_ips` (`ip_address`, `ip_type`) VALUES ('206.81.16.0/20', 'IPv4');

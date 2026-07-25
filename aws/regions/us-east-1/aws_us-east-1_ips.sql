@@ -1414,6 +1414,7 @@ INSERT INTO `aws_us-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f01:480
 INSERT INTO `aws_us-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f01:4806::/47', 'IPv6');
 INSERT INTO `aws_us-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f01:4806::/47', 'IPv6');
 INSERT INTO `aws_us-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f01:480c::/47', 'IPv6');
+INSERT INTO `aws_us-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f01:480c::/47', 'IPv6');
 INSERT INTO `aws_us-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f01:4850::/47', 'IPv6');
 INSERT INTO `aws_us-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f01:4850::/47', 'IPv6');
 INSERT INTO `aws_us-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f01:4890::/47', 'IPv6');

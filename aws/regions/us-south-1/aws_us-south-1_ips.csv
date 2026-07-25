@@ -33,6 +33,8 @@ ip_address,ip_type,service,region
 2600:1f10:8000::/36,IPv6,EC2,us-south-1
 2600:1f12:2000::/36,IPv6,AMAZON,us-south-1
 2600:1f12:2000::/36,IPv6,EC2,us-south-1
+2600:1f1a:2000::/36,IPv6,AMAZON,us-south-1
+2600:1f1a:2000::/36,IPv6,EC2,us-south-1
 2600:1f20:8000::/36,IPv6,AMAZON,us-south-1
 2600:1f20:8000::/36,IPv6,EC2,us-south-1
 2600:1f30:800::/40,IPv6,AMAZON,us-south-1

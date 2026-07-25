@@ -228,6 +228,7 @@ INSERT INTO `aws_eu-south-1_ips` (`ip_address`, `ip_type`) VALUES ('173.83.208.0
 INSERT INTO `aws_eu-south-1_ips` (`ip_address`, `ip_type`) VALUES ('216.198.212.0/23', 'IPv4');
 INSERT INTO `aws_eu-south-1_ips` (`ip_address`, `ip_type`) VALUES ('216.198.212.0/23', 'IPv4');
 INSERT INTO `aws_eu-south-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f01:4808::/47', 'IPv6');
+INSERT INTO `aws_eu-south-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f01:4808::/47', 'IPv6');
 INSERT INTO `aws_eu-south-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f01:4918::/47', 'IPv6');
 INSERT INTO `aws_eu-south-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f0:4145::/48', 'IPv6');
 INSERT INTO `aws_eu-south-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f0:4145::/48', 'IPv6');

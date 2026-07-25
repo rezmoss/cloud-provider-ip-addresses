@@ -235,6 +235,7 @@ INSERT INTO `huawei_ips` (`ip_address`, `ip_type`) VALUES ('103.40.102.0/23', 'I
 INSERT INTO `huawei_ips` (`ip_address`, `ip_type`) VALUES ('103.215.0.0/24', 'IPv4');
 INSERT INTO `huawei_ips` (`ip_address`, `ip_type`) VALUES ('103.215.1.0/24', 'IPv4');
 INSERT INTO `huawei_ips` (`ip_address`, `ip_type`) VALUES ('103.215.3.0/24', 'IPv4');
+INSERT INTO `huawei_ips` (`ip_address`, `ip_type`) VALUES ('103.239.72.0/23', 'IPv4');
 INSERT INTO `huawei_ips` (`ip_address`, `ip_type`) VALUES ('103.240.156.0/22', 'IPv4');
 INSERT INTO `huawei_ips` (`ip_address`, `ip_type`) VALUES ('103.240.157.0/24', 'IPv4');
 INSERT INTO `huawei_ips` (`ip_address`, `ip_type`) VALUES ('103.255.60.0/22', 'IPv4');

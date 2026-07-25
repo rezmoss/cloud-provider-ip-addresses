@@ -5410,6 +5410,11 @@
     "region": "MX-QUE"
   },
   {
+    "ip_address": "104.66.225.0/24",
+    "ip_type": "IPv4",
+    "region": "MX-QUE"
+  },
+  {
     "ip_address": "104.67.0.0/24",
     "ip_type": "IPv4",
     "region": "AU-NSW"

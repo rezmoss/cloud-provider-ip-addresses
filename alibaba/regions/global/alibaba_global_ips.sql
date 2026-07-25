@@ -544,6 +544,8 @@ INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('43.96.33.0/2
 INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('43.96.34.0/24', 'IPv4');
 INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('43.96.35.0/24', 'IPv4');
 INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('43.96.40.0/24', 'IPv4');
+INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('43.96.44.0/24', 'IPv4');
+INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('43.96.45.0/24', 'IPv4');
 INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('43.96.48.0/24', 'IPv4');
 INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('43.96.49.0/24', 'IPv4');
 INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('43.96.50.0/24', 'IPv4');

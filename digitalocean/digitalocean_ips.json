@@ -4130,6 +4130,11 @@
     "region": "IN-KA"
   },
   {
+    "ip_address": "168.144.240.0/20",
+    "ip_type": "IPv4",
+    "region": "SG-05"
+  },
+  {
     "ip_address": "170.64.128.0/18",
     "ip_type": "IPv4",
     "region": "AU-NSW"
@@ -5113,6 +5118,11 @@
     "ip_address": "198.211.120.0/21",
     "ip_type": "IPv4",
     "region": "NL-NH"
+  },
+  {
+    "ip_address": "201.79.0.0/20",
+    "ip_type": "IPv4",
+    "region": "DE-HE"
   },
   {
     "ip_address": "204.48.16.0/20",

@@ -720,6 +720,7 @@ INSERT INTO `zscaler_global_ips` (`ip_address`, `ip_type`) VALUES ('175.107.160.
 INSERT INTO `zscaler_global_ips` (`ip_address`, `ip_type`) VALUES ('175.107.162.0/23', 'IPv4');
 INSERT INTO `zscaler_global_ips` (`ip_address`, `ip_type`) VALUES ('175.107.164.0/23', 'IPv4');
 INSERT INTO `zscaler_global_ips` (`ip_address`, `ip_type`) VALUES ('175.107.166.0/23', 'IPv4');
+INSERT INTO `zscaler_global_ips` (`ip_address`, `ip_type`) VALUES ('175.107.180.0/23', 'IPv4');
 INSERT INTO `zscaler_global_ips` (`ip_address`, `ip_type`) VALUES ('175.107.184.0/23', 'IPv4');
 INSERT INTO `zscaler_global_ips` (`ip_address`, `ip_type`) VALUES ('175.107.186.0/23', 'IPv4');
 INSERT INTO `zscaler_global_ips` (`ip_address`, `ip_type`) VALUES ('198.14.64.0/18', 'IPv4');

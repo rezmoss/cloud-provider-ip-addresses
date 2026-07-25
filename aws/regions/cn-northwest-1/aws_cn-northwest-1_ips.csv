@@ -90,12 +90,6 @@ ip_address,ip_type,service,region
 52.93.127.104/32,IPv4,AMAZON,cn-northwest-1
 52.93.127.105/32,IPv4,AMAZON,cn-northwest-1
 54.239.0.176/28,IPv4,AMAZON,cn-northwest-1
-63.249.210.0/24,IPv4,AMAZON,cn-northwest-1
-63.249.210.0/24,IPv4,EC2,cn-northwest-1
-63.249.211.0/24,IPv4,AMAZON,cn-northwest-1
-63.249.211.0/24,IPv4,EC2,cn-northwest-1
-63.249.212.0/24,IPv4,AMAZON,cn-northwest-1
-63.249.212.0/24,IPv4,EC2,cn-northwest-1
 68.79.0.0/18,IPv4,AMAZON,cn-northwest-1
 68.79.0.0/18,IPv4,EC2,cn-northwest-1
 68.79.2.64/27,IPv4,ROUTE53_RESOLVER,cn-northwest-1
@@ -133,6 +127,10 @@ ip_address,ip_type,service,region
 2404:c2c0::/40,IPv6,EC2,cn-northwest-1
 2404:c2c0:110::/48,IPv6,AMAZON,cn-northwest-1
 2404:c2c0:110::/48,IPv6,EC2,cn-northwest-1
+2404:c2c0:111::/48,IPv6,AMAZON,cn-northwest-1
+2404:c2c0:111::/48,IPv6,EC2,cn-northwest-1
+2404:c2c0:112::/48,IPv6,AMAZON,cn-northwest-1
+2404:c2c0:112::/48,IPv6,EC2,cn-northwest-1
 2404:c2c0:200::/40,IPv6,AMAZON,cn-northwest-1
 2404:c2c0:200::/40,IPv6,S3,cn-northwest-1
 2404:c2c0:2100::/40,IPv6,AMAZON,cn-northwest-1

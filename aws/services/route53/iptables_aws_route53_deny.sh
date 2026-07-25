@@ -1,12 +1,14 @@
 #!/bin/bash
 # Aws IP Ranges
-# Updated: 2026-07-08 03:11:22
+# Updated: 2026-07-25 03:10:04
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
 # Updates daily at 02:00 UTC
 # iptables deny rules for aws
 
+iptables -A INPUT -s 1.179.52.0/22 -j DROP
+iptables -A INPUT -s 1.179.56.0/22 -j DROP
 iptables -A INPUT -s 3.4.24.0/22 -j DROP
 iptables -A INPUT -s 3.4.32.0/20 -j DROP
 iptables -A INPUT -s 18.196.222.0/23 -j DROP
@@ -19,6 +21,7 @@ iptables -A INPUT -s 52.82.176.0/21 -j DROP
 iptables -A INPUT -s 52.95.110.0/24 -j DROP
 iptables -A INPUT -s 54.222.32.0/21 -j DROP
 iptables -A INPUT -s 63.246.114.0/23 -j DROP
+iptables -A INPUT -s 64.91.192.0/19 -j DROP
 iptables -A INPUT -s 96.127.116.0/23 -j DROP
 iptables -A INPUT -s 205.251.192.0/21 -j DROP
 iptables -A INPUT -s 205.251.200.0/23 -j DROP

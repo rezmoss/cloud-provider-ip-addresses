@@ -141,7 +141,12 @@ INSERT INTO `aws_globalaccelerator_ips` (`ip_address`, `ip_type`) VALUES ('2600:
 INSERT INTO `aws_globalaccelerator_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f01:4802::/47', 'IPv6');
 INSERT INTO `aws_globalaccelerator_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f01:4804::/47', 'IPv6');
 INSERT INTO `aws_globalaccelerator_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f01:4806::/47', 'IPv6');
+INSERT INTO `aws_globalaccelerator_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f01:4808::/47', 'IPv6');
+INSERT INTO `aws_globalaccelerator_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f01:480a::/47', 'IPv6');
+INSERT INTO `aws_globalaccelerator_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f01:480c::/47', 'IPv6');
+INSERT INTO `aws_globalaccelerator_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f01:480e::/47', 'IPv6');
 INSERT INTO `aws_globalaccelerator_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f01:4810::/47', 'IPv6');
+INSERT INTO `aws_globalaccelerator_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f01:4812::/47', 'IPv6');
 INSERT INTO `aws_globalaccelerator_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f01:4814::/47', 'IPv6');
 INSERT INTO `aws_globalaccelerator_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f01:481a::/47', 'IPv6');
 INSERT INTO `aws_globalaccelerator_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f01:4820::/47', 'IPv6');

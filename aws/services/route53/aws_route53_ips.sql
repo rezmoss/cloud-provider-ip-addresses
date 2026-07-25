@@ -6,6 +6,8 @@ CREATE TABLE IF NOT EXISTS `aws_route53_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `aws_route53_ips` (`ip_address`, `ip_type`) VALUES ('1.179.52.0/22', 'IPv4');
+INSERT INTO `aws_route53_ips` (`ip_address`, `ip_type`) VALUES ('1.179.56.0/22', 'IPv4');
 INSERT INTO `aws_route53_ips` (`ip_address`, `ip_type`) VALUES ('3.4.24.0/23', 'IPv4');
 INSERT INTO `aws_route53_ips` (`ip_address`, `ip_type`) VALUES ('3.4.26.0/23', 'IPv4');
 INSERT INTO `aws_route53_ips` (`ip_address`, `ip_type`) VALUES ('3.4.32.0/20', 'IPv4');
@@ -26,6 +28,7 @@ INSERT INTO `aws_route53_ips` (`ip_address`, `ip_type`) VALUES ('52.95.110.0/24'
 INSERT INTO `aws_route53_ips` (`ip_address`, `ip_type`) VALUES ('54.222.32.0/22', 'IPv4');
 INSERT INTO `aws_route53_ips` (`ip_address`, `ip_type`) VALUES ('54.222.36.0/22', 'IPv4');
 INSERT INTO `aws_route53_ips` (`ip_address`, `ip_type`) VALUES ('63.246.114.0/23', 'IPv4');
+INSERT INTO `aws_route53_ips` (`ip_address`, `ip_type`) VALUES ('64.91.192.0/19', 'IPv4');
 INSERT INTO `aws_route53_ips` (`ip_address`, `ip_type`) VALUES ('96.127.116.0/23', 'IPv4');
 INSERT INTO `aws_route53_ips` (`ip_address`, `ip_type`) VALUES ('205.251.192.0/21', 'IPv4');
 INSERT INTO `aws_route53_ips` (`ip_address`, `ip_type`) VALUES ('205.251.200.0/23', 'IPv4');

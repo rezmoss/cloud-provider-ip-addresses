@@ -1,6 +1,6 @@
 #!/bin/bash
 # Huawei IP Ranges
-# Updated: 2026-07-24 03:16:53
+# Updated: 2026-07-25 03:18:02
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -65,6 +65,7 @@ iptables -A INPUT -s 101.46.128.0/17 -j DROP
 iptables -A INPUT -s 103.40.100.0/22 -j DROP
 iptables -A INPUT -s 103.215.0.0/23 -j DROP
 iptables -A INPUT -s 103.215.3.0/24 -j DROP
+iptables -A INPUT -s 103.239.72.0/23 -j DROP
 iptables -A INPUT -s 103.240.156.0/22 -j DROP
 iptables -A INPUT -s 103.255.60.0/22 -j DROP
 iptables -A INPUT -s 110.41.208.0/23 -j DROP

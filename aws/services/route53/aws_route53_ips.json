@@ -1,5 +1,17 @@
 [
   {
+    "ip_address": "1.179.52.0/22",
+    "ip_type": "IPv4",
+    "service": "ROUTE53",
+    "region": "GLOBAL"
+  },
+  {
+    "ip_address": "1.179.56.0/22",
+    "ip_type": "IPv4",
+    "service": "ROUTE53",
+    "region": "GLOBAL"
+  },
+  {
     "ip_address": "3.4.24.0/23",
     "ip_type": "IPv4",
     "service": "ROUTE53",
@@ -115,6 +127,12 @@
   },
   {
     "ip_address": "63.246.114.0/23",
+    "ip_type": "IPv4",
+    "service": "ROUTE53",
+    "region": "GLOBAL"
+  },
+  {
+    "ip_address": "64.91.192.0/19",
     "ip_type": "IPv4",
     "service": "ROUTE53",
     "region": "GLOBAL"
