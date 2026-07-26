@@ -774,12 +774,6 @@
     "region": "global"
   },
   {
-    "ip_address": "139.162.208.112/32",
-    "ip_type": "IPv4",
-    "service": "akamai-as63949",
-    "region": "global"
-  },
-  {
     "ip_address": "139.162.224.0/19",
     "ip_type": "IPv4",
     "service": "akamai-as63949",

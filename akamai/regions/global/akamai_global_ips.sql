@@ -6486,7 +6486,6 @@ INSERT INTO `akamai_global_ips` (`ip_address`, `ip_type`) VALUES ('139.162.96.0/
 INSERT INTO `akamai_global_ips` (`ip_address`, `ip_type`) VALUES ('139.162.128.0/19', 'IPv4');
 INSERT INTO `akamai_global_ips` (`ip_address`, `ip_type`) VALUES ('139.162.160.0/19', 'IPv4');
 INSERT INTO `akamai_global_ips` (`ip_address`, `ip_type`) VALUES ('139.162.192.0/19', 'IPv4');
-INSERT INTO `akamai_global_ips` (`ip_address`, `ip_type`) VALUES ('139.162.208.112/32', 'IPv4');
 INSERT INTO `akamai_global_ips` (`ip_address`, `ip_type`) VALUES ('139.162.224.0/19', 'IPv4');
 INSERT INTO `akamai_global_ips` (`ip_address`, `ip_type`) VALUES ('139.177.176.0/21', 'IPv4');
 INSERT INTO `akamai_global_ips` (`ip_address`, `ip_type`) VALUES ('139.177.184.0/21', 'IPv4');
