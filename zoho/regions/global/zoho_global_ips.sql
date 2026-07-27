@@ -27,6 +27,7 @@ INSERT INTO `zoho_global_ips` (`ip_address`, `ip_type`) VALUES ('103.89.74.0/23'
 INSERT INTO `zoho_global_ips` (`ip_address`, `ip_type`) VALUES ('103.89.74.0/24', 'IPv4');
 INSERT INTO `zoho_global_ips` (`ip_address`, `ip_type`) VALUES ('103.91.166.0/24', 'IPv4');
 INSERT INTO `zoho_global_ips` (`ip_address`, `ip_type`) VALUES ('103.103.196.0/23', 'IPv4');
+INSERT INTO `zoho_global_ips` (`ip_address`, `ip_type`) VALUES ('103.103.197.0/24', 'IPv4');
 INSERT INTO `zoho_global_ips` (`ip_address`, `ip_type`) VALUES ('103.103.198.0/23', 'IPv4');
 INSERT INTO `zoho_global_ips` (`ip_address`, `ip_type`) VALUES ('103.117.158.0/23', 'IPv4');
 INSERT INTO `zoho_global_ips` (`ip_address`, `ip_type`) VALUES ('103.138.128.0/23', 'IPv4');

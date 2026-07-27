@@ -1,0 +1,42 @@
+[
+  {
+    "ip_address": "2a02:26f7:d240:d614::/64",
+    "ip_type": "IPv6",
+    "region": "ZA-NC"
+  },
+  {
+    "ip_address": "2a02:26f7:d242:d614::/64",
+    "ip_type": "IPv6",
+    "region": "ZA-NC"
+  },
+  {
+    "ip_address": "2a02:26f7:d244:d614::/64",
+    "ip_type": "IPv6",
+    "region": "ZA-NC"
+  },
+  {
+    "ip_address": "2a02:26f7:d248:d614::/64",
+    "ip_type": "IPv6",
+    "region": "ZA-NC"
+  },
+  {
+    "ip_address": "2a02:26f7:d24c:d614::/64",
+    "ip_type": "IPv6",
+    "region": "ZA-NC"
+  },
+  {
+    "ip_address": "2a02:26f7:d250:d614::/64",
+    "ip_type": "IPv6",
+    "region": "ZA-NC"
+  },
+  {
+    "ip_address": "2a02:26f7:d254:d614::/64",
+    "ip_type": "IPv6",
+    "region": "ZA-NC"
+  },
+  {
+    "ip_address": "2a02:26f7:d258:d614::/64",
+    "ip_type": "IPv6",
+    "region": "ZA-NC"
+  }
+]
