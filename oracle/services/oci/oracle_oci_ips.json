@@ -174,12 +174,6 @@
     "region": "me-jeddah-1"
   },
   {
-    "ip_address": "81.208.192.0/19",
-    "ip_type": "IPv4",
-    "service": "OCI",
-    "region": "eu-jovanovac-1"
-  },
-  {
     "ip_address": "82.70.32.0/19",
     "ip_type": "IPv4",
     "service": "OCI",
@@ -274,6 +268,12 @@
     "ip_type": "IPv4",
     "service": "OCI",
     "region": "eu-paris-1"
+  },
+  {
+    "ip_address": "88.96.64.0/18",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "uk-london-1"
   },
   {
     "ip_address": "89.168.0.0/21",
@@ -774,6 +774,24 @@
     "region": "us-ashburn-1"
   },
   {
+    "ip_address": "129.225.0.0/20",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-batam-1"
+  },
+  {
+    "ip_address": "129.225.32.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-batam-1"
+  },
+  {
+    "ip_address": "129.225.128.0/17",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-osaka-1"
+  },
+  {
     "ip_address": "130.61.8.0/21",
     "ip_type": "IPv4",
     "service": "OCI",
@@ -892,6 +910,12 @@
     "ip_type": "IPv4",
     "service": "OCI",
     "region": "eu-frankfurt-1"
+  },
+  {
+    "ip_address": "130.210.0.0/17",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-mumbai-1"
   },
   {
     "ip_address": "131.186.0.0/21",
@@ -1144,6 +1168,12 @@
     "ip_type": "IPv4",
     "service": "OCI",
     "region": "ap-sydney-1"
+  },
+  {
+    "ip_address": "137.23.32.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-mumbai-1"
   },
   {
     "ip_address": "137.131.0.0/18",
@@ -1894,6 +1924,12 @@
     "ip_type": "IPv4",
     "service": "OCI",
     "region": "us-phoenix-1"
+  },
+  {
+    "ip_address": "148.116.0.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "us-sanantonio-1"
   },
   {
     "ip_address": "148.116.64.0/19",
@@ -3148,12 +3184,6 @@
     "ip_type": "IPv4",
     "service": "OCI",
     "region": "us-ashburn-1"
-  },
-  {
-    "ip_address": "207.127.82.0/23",
-    "ip_type": "IPv4",
-    "service": "OCI",
-    "region": "eu-jovanovac-1"
   },
   {
     "ip_address": "207.127.88.0/21",

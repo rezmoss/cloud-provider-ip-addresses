@@ -10,8 +10,10 @@ INSERT INTO `oracle_ap-mumbai-1_ips` (`ip_address`, `ip_type`) VALUES ('80.225.1
 INSERT INTO `oracle_ap-mumbai-1_ips` (`ip_address`, `ip_type`) VALUES ('92.4.64.0/19', 'IPv4');
 INSERT INTO `oracle_ap-mumbai-1_ips` (`ip_address`, `ip_type`) VALUES ('129.151.40.0/21', 'IPv4');
 INSERT INTO `oracle_ap-mumbai-1_ips` (`ip_address`, `ip_type`) VALUES ('129.154.224.0/19', 'IPv4');
+INSERT INTO `oracle_ap-mumbai-1_ips` (`ip_address`, `ip_type`) VALUES ('130.210.0.0/17', 'IPv4');
 INSERT INTO `oracle_ap-mumbai-1_ips` (`ip_address`, `ip_type`) VALUES ('132.226.184.0/21', 'IPv4');
 INSERT INTO `oracle_ap-mumbai-1_ips` (`ip_address`, `ip_type`) VALUES ('134.70.76.0/22', 'IPv4');
+INSERT INTO `oracle_ap-mumbai-1_ips` (`ip_address`, `ip_type`) VALUES ('137.23.32.0/19', 'IPv4');
 INSERT INTO `oracle_ap-mumbai-1_ips` (`ip_address`, `ip_type`) VALUES ('140.91.30.0/23', 'IPv4');
 INSERT INTO `oracle_ap-mumbai-1_ips` (`ip_address`, `ip_type`) VALUES ('140.204.4.128/25', 'IPv4');
 INSERT INTO `oracle_ap-mumbai-1_ips` (`ip_address`, `ip_type`) VALUES ('140.238.160.0/21', 'IPv4');

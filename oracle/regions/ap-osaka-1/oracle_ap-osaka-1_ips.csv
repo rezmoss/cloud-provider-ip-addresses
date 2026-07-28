@@ -2,6 +2,7 @@ ip_address,ip_type,service,region
 64.110.96.0/20,IPv4,OCI,ap-osaka-1
 64.110.112.0/21,IPv4,OCI,ap-osaka-1
 129.149.63.192/26,IPv4,OSN,ap-osaka-1
+129.225.128.0/17,IPv4,OCI,ap-osaka-1
 134.70.112.0/22,IPv4,"OSN,OBJECT_STORAGE",ap-osaka-1
 138.2.32.0/19,IPv4,OCI,ap-osaka-1
 140.83.48.0/20,IPv4,OCI,ap-osaka-1

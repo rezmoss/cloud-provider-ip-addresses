@@ -63,6 +63,7 @@ INSERT INTO `oracle_osn_object_storage_ips` (`ip_address`, `ip_type`) VALUES ('1
 INSERT INTO `oracle_osn_object_storage_ips` (`ip_address`, `ip_type`) VALUES ('134.70.224.0/23', 'IPv4');
 INSERT INTO `oracle_osn_object_storage_ips` (`ip_address`, `ip_type`) VALUES ('134.70.230.0/23', 'IPv4');
 INSERT INTO `oracle_osn_object_storage_ips` (`ip_address`, `ip_type`) VALUES ('134.70.232.0/23', 'IPv4');
+INSERT INTO `oracle_osn_object_storage_ips` (`ip_address`, `ip_type`) VALUES ('148.116.40.0/22', 'IPv4');
 INSERT INTO `oracle_osn_object_storage_ips` (`ip_address`, `ip_type`) VALUES ('157.137.40.0/22', 'IPv4');
 INSERT INTO `oracle_osn_object_storage_ips` (`ip_address`, `ip_type`) VALUES ('158.247.104.0/22', 'IPv4');
 INSERT INTO `oracle_osn_object_storage_ips` (`ip_address`, `ip_type`) VALUES ('165.1.104.0/22', 'IPv4');

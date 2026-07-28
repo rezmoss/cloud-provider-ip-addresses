@@ -24,6 +24,12 @@
     "region": "ap-mumbai-1"
   },
   {
+    "ip_address": "130.210.0.0/17",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-mumbai-1"
+  },
+  {
     "ip_address": "132.226.184.0/21",
     "ip_type": "IPv4",
     "service": "OCI",
@@ -33,6 +39,12 @@
     "ip_address": "134.70.76.0/22",
     "ip_type": "IPv4",
     "service": "OSN,OBJECT_STORAGE",
+    "region": "ap-mumbai-1"
+  },
+  {
+    "ip_address": "137.23.32.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
     "region": "ap-mumbai-1"
   },
   {

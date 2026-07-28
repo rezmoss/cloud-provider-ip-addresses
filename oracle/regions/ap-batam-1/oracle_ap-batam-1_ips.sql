@@ -6,6 +6,8 @@ CREATE TABLE IF NOT EXISTS `oracle_ap-batam-1_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `oracle_ap-batam-1_ips` (`ip_address`, `ip_type`) VALUES ('129.225.0.0/20', 'IPv4');
+INSERT INTO `oracle_ap-batam-1_ips` (`ip_address`, `ip_type`) VALUES ('129.225.32.0/19', 'IPv4');
 INSERT INTO `oracle_ap-batam-1_ips` (`ip_address`, `ip_type`) VALUES ('134.70.210.0/23', 'IPv4');
 INSERT INTO `oracle_ap-batam-1_ips` (`ip_address`, `ip_type`) VALUES ('134.70.212.0/23', 'IPv4');
 INSERT INTO `oracle_ap-batam-1_ips` (`ip_address`, `ip_type`) VALUES ('140.91.98.0/23', 'IPv4');

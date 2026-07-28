@@ -1983,6 +1983,7 @@ ip_address,ip_type,service,region
 184.28.240.0/22,IPv4,akamai-as16625,global
 184.28.244.0/23,IPv4,akamai-as16625,global
 184.28.246.0/23,IPv4,akamai-as16625,global
+184.28.252.0/22,IPv4,akamai-as16625,global
 184.29.2.0/23,IPv4,akamai-as16625,global
 184.29.4.0/23,IPv4,akamai-as16625,global
 184.29.6.0/23,IPv4,akamai-as16625,global

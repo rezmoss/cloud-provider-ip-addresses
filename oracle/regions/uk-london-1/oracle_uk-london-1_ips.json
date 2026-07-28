@@ -12,6 +12,12 @@
     "region": "uk-london-1"
   },
   {
+    "ip_address": "88.96.64.0/18",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "uk-london-1"
+  },
+  {
     "ip_address": "92.4.176.0/20",
     "ip_type": "IPv4",
     "service": "OSN",

@@ -1752,6 +1752,48 @@
     "region": "ap-hyderabad-1"
   },
   {
+    "ip_address": "148.116.32.0/26",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-sanantonio-1"
+  },
+  {
+    "ip_address": "148.116.32.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-sanantonio-1"
+  },
+  {
+    "ip_address": "148.116.33.192/26",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-sanantonio-1"
+  },
+  {
+    "ip_address": "148.116.34.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-sanantonio-1"
+  },
+  {
+    "ip_address": "148.116.36.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-sanantonio-1"
+  },
+  {
+    "ip_address": "148.116.44.128/25",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-sanantonio-1"
+  },
+  {
+    "ip_address": "148.116.48.0/23",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-sanantonio-1"
+  },
+  {
     "ip_address": "149.118.92.0/22",
     "ip_type": "IPv4",
     "service": "OSN",

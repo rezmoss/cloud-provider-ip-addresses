@@ -1,17 +1,16 @@
 #!/bin/bash
 # Oracle IP Ranges
-# Updated: 2026-06-25 03:20:07
+# Updated: 2026-07-28 03:12:24
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
 # Updates daily at 02:00 UTC
 # iptables allow rules for oracle
 
-iptables -A INPUT -s 81.208.192.0/19 -j ACCEPT
 iptables -A INPUT -s 130.110.31.0/24 -j ACCEPT
 iptables -A INPUT -s 164.152.96.0/22 -j ACCEPT
 iptables -A INPUT -s 207.127.66.128/25 -j ACCEPT
 iptables -A INPUT -s 207.127.68.0/22 -j ACCEPT
-iptables -A INPUT -s 207.127.80.0/22 -j ACCEPT
+iptables -A INPUT -s 207.127.80.0/23 -j ACCEPT
 iptables -A INPUT -s 207.127.84.0/23 -j ACCEPT
 iptables -A INPUT -s 207.127.86.0/25 -j ACCEPT

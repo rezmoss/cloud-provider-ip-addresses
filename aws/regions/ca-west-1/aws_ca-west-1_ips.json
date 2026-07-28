@@ -450,6 +450,18 @@
     "region": "ca-west-1"
   },
   {
+    "ip_address": "173.83.232.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ca-west-1"
+  },
+  {
+    "ip_address": "173.83.232.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "ca-west-1"
+  },
+  {
     "ip_address": "2600:1f00:a400::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",

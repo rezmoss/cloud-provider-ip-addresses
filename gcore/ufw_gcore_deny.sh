@@ -1,6 +1,6 @@
 #!/bin/bash
 # Gcore IP Ranges
-# Updated: 2026-07-26 03:18:23
+# Updated: 2026-07-28 03:16:07
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -186,7 +186,8 @@ ufw deny from 82.117.226.126/32
 ufw deny from 82.117.226.240/32
 ufw deny from 82.148.98.42/32
 ufw deny from 82.158.112.4/30
-ufw deny from 82.158.113.4/30
+ufw deny from 82.158.113.4/31
+ufw deny from 82.158.113.6/32
 ufw deny from 82.158.113.8/32
 ufw deny from 82.158.113.10/31
 ufw deny from 82.158.113.12/30
@@ -351,7 +352,9 @@ ufw deny from 92.223.124.32/32
 ufw deny from 92.223.124.34/32
 ufw deny from 92.223.124.36/30
 ufw deny from 92.223.124.40/29
-ufw deny from 92.223.124.48/29
+ufw deny from 92.223.124.48/32
+ufw deny from 92.223.124.50/31
+ufw deny from 92.223.124.52/30
 ufw deny from 92.223.124.56/31
 ufw deny from 92.223.124.58/32
 ufw deny from 93.114.56.29/32
@@ -768,7 +771,7 @@ ufw deny from 2a03:90c0:41:2801::34/128
 ufw deny from 2a03:90c0:41:2801::36/127
 ufw deny from 2a03:90c0:41:2801::38/127
 ufw deny from 2a03:90c0:41:2801::40/125
-ufw deny from 2a03:90c0:41:2801::48/127
+ufw deny from 2a03:90c0:41:2801::48/128
 ufw deny from 2a03:90c0:41:2801::50/125
 ufw deny from 2a03:90c0:41:2801::58/128
 ufw deny from 2a03:90c0:51:2801::4/127
@@ -965,7 +968,8 @@ ufw deny from 2a03:90c0:611:2801::24/127
 ufw deny from 2a03:90c0:661:2801::4/126
 ufw deny from 2a03:90c0:661:2801::8/128
 ufw deny from 2a03:90c0:691:2801::4/127
-ufw deny from 2a03:90c0:6a1:2801::4/126
+ufw deny from 2a03:90c0:6a1:2801::4/127
+ufw deny from 2a03:90c0:6a1:2801::6/128
 ufw deny from 2a03:90c0:6a1:2801::8/128
 ufw deny from 2a03:90c0:6a1:2801::10/126
 ufw deny from 2a03:90c0:6a1:2801::14/127

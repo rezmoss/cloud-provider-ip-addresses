@@ -342,6 +342,12 @@
     "region": "ap-delhi-1"
   },
   {
+    "ip_address": "148.116.40.0/22",
+    "ip_type": "IPv4",
+    "service": "OSN,OBJECT_STORAGE",
+    "region": "us-sanantonio-1"
+  },
+  {
     "ip_address": "157.137.40.0/22",
     "ip_type": "IPv4",
     "service": "OSN,OBJECT_STORAGE",

@@ -53,7 +53,6 @@ ip_address,ip_type,service,region
 80.225.192.0/18,IPv4,OCI,ap-mumbai-1
 81.208.160.0/20,IPv4,OCI,me-jeddah-1
 81.208.188.0/22,IPv4,OCI,me-jeddah-1
-81.208.192.0/19,IPv4,OCI,eu-jovanovac-1
 82.70.32.0/19,IPv4,OCI,eu-stockholm-1
 82.70.64.0/19,IPv4,OCI,eu-madrid-3
 82.70.208.0/20,IPv4,OCI,il-jerusalem-1
@@ -83,6 +82,7 @@ ip_address,ip_type,service,region
 84.235.240.0/20,IPv4,OCI,me-dubai-1
 88.96.0.0/19,IPv4,OCI,uk-cardiff-1
 88.96.32.0/19,IPv4,OCI,eu-paris-1
+88.96.64.0/18,IPv4,OCI,uk-london-1
 89.168.0.0/21,IPv4,OCI,eu-madrid-1
 89.168.16.0/20,IPv4,OCI,eu-milan-1
 89.168.32.0/19,IPv4,OCI,eu-paris-1
@@ -233,6 +233,9 @@ ip_address,ip_type,service,region
 129.213.128.0/18,IPv4,OCI,us-ashburn-1
 129.213.192.0/20,IPv4,OCI,us-ashburn-1
 129.213.208.0/21,IPv4,OCI,us-ashburn-1
+129.225.0.0/20,IPv4,OCI,ap-batam-1
+129.225.32.0/19,IPv4,OCI,ap-batam-1
+129.225.128.0/17,IPv4,OCI,ap-osaka-1
 130.35.0.0/22,IPv4,OSN,us-phoenix-1
 130.35.16.0/22,IPv4,OSN,us-ashburn-1
 130.35.96.0/21,IPv4,OSN,us-ashburn-1
@@ -270,6 +273,7 @@ ip_address,ip_type,service,region
 130.162.192.0/21,IPv4,OCI,ap-melbourne-1
 130.162.208.0/20,IPv4,OCI,eu-frankfurt-1
 130.162.224.0/19,IPv4,OCI,eu-frankfurt-1
+130.210.0.0/17,IPv4,OCI,ap-mumbai-1
 131.186.0.0/21,IPv4,OCI,us-chicago-1
 131.186.8.0/22,IPv4,OSN,us-chicago-1
 131.186.12.0/25,IPv4,OSN,us-chicago-1
@@ -392,6 +396,7 @@ ip_address,ip_type,service,region
 136.248.236.0/22,IPv4,OSN,ap-kulai-1
 136.248.240.0/21,IPv4,OCI,sa-santiago-1
 137.23.0.0/19,IPv4,OCI,ap-sydney-1
+137.23.32.0/19,IPv4,OCI,ap-mumbai-1
 137.131.0.0/18,IPv4,OCI,us-phoenix-1
 137.131.128.0/17,IPv4,OCI,sa-saopaulo-1
 138.1.0.0/22,IPv4,OSN,eu-frankfurt-1
@@ -664,6 +669,15 @@ ip_address,ip_type,service,region
 147.224.192.0/19,IPv4,OCI,us-chicago-1
 147.224.224.0/20,IPv4,OCI,sa-valparaiso-1
 147.224.240.0/20,IPv4,OCI,us-phoenix-1
+148.116.0.0/19,IPv4,OCI,us-sanantonio-1
+148.116.32.0/26,IPv4,OSN,us-sanantonio-1
+148.116.32.128/25,IPv4,OSN,us-sanantonio-1
+148.116.33.192/26,IPv4,OSN,us-sanantonio-1
+148.116.34.0/23,IPv4,OSN,us-sanantonio-1
+148.116.36.0/22,IPv4,OSN,us-sanantonio-1
+148.116.40.0/22,IPv4,"OSN,OBJECT_STORAGE",us-sanantonio-1
+148.116.44.128/25,IPv4,OSN,us-sanantonio-1
+148.116.48.0/23,IPv4,OSN,us-sanantonio-1
 148.116.64.0/19,IPv4,OCI,ca-montreal-1
 148.116.104.0/21,IPv4,OCI,sa-valparaiso-1
 148.116.112.0/22,IPv4,OCI,sa-santiago-1
@@ -1049,7 +1063,6 @@ ip_address,ip_type,service,region
 207.127.68.0/22,IPv4,"OSN,OBJECT_STORAGE",eu-jovanovac-1
 207.127.72.0/22,IPv4,OSN,me-abudhabi-1
 207.127.80.0/23,IPv4,OSN,eu-jovanovac-1
-207.127.82.0/23,IPv4,OCI,eu-jovanovac-1
 207.127.84.0/23,IPv4,OSN,eu-jovanovac-1
 207.127.86.0/25,IPv4,OSN,eu-jovanovac-1
 207.127.88.0/21,IPv4,OCI,eu-stockholm-1

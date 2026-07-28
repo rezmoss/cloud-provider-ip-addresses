@@ -292,7 +292,6 @@ ip_address,ip_type,service,region
 212.119.74.0/24,IPv4,akamai-as32787,global
 212.239.17.0/24,IPv4,akamai-as32787,global
 213.62.24.0/23,IPv4,akamai-as32787,global
-213.210.216.0/24,IPv4,akamai-as32787,global
 216.9.58.0/24,IPv4,akamai-as32787,global
 216.9.61.0/24,IPv4,akamai-as32787,global
 217.163.58.0/24,IPv4,akamai-as32787,global
