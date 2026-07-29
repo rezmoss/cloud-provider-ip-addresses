@@ -241,6 +241,8 @@ INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('70.152.218
 INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('74.150.0.0/17', 'IPv4');
 INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('74.150.12.64/27', 'IPv4');
 INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('74.150.12.112/30', 'IPv4');
+INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('74.150.12.116/30', 'IPv4');
+INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('74.150.12.120/29', 'IPv4');
 INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('74.243.0.0/17', 'IPv4');
 INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('74.243.3.192/27', 'IPv4');
 INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('74.243.3.224/28', 'IPv4');

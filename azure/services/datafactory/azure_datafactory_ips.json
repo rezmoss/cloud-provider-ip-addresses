@@ -1872,12 +1872,6 @@
     "region": ""
   },
   {
-    "ip_address": "40.122.0.16/28",
-    "ip_type": "IPv4",
-    "service": "DataFactory",
-    "region": ""
-  },
-  {
     "ip_address": "48.196.97.224/28",
     "ip_type": "IPv4",
     "service": "DataFactory",

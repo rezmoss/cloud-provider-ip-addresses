@@ -237,6 +237,8 @@ INSERT INTO `azure_israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('51.58.8
 INSERT INTO `azure_israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('51.58.84.0/22', 'IPv4');
 INSERT INTO `azure_israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('51.58.88.0/23', 'IPv4');
 INSERT INTO `azure_israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('51.58.96.0/24', 'IPv4');
+INSERT INTO `azure_israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('51.58.109.124/30', 'IPv4');
+INSERT INTO `azure_israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('51.58.110.48/29', 'IPv4');
 INSERT INTO `azure_israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('52.101.172.0/22', 'IPv4');
 INSERT INTO `azure_israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('52.102.177.0/24', 'IPv4');
 INSERT INTO `azure_israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('52.102.178.0/24', 'IPv4');

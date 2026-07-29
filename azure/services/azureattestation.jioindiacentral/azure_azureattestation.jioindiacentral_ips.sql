@@ -6,6 +6,8 @@ CREATE TABLE IF NOT EXISTS `azure_azureattestation.jioindiacentral_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_azureattestation.jioindiacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.240.196.92/30', 'IPv4');
+INSERT INTO `azure_azureattestation.jioindiacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.240.196.208/29', 'IPv4');
 INSERT INTO `azure_azureattestation.jioindiacentral_ips` (`ip_address`, `ip_type`) VALUES ('20.192.231.240/30', 'IPv4');
 INSERT INTO `azure_azureattestation.jioindiacentral_ips` (`ip_address`, `ip_type`) VALUES ('20.192.238.188/30', 'IPv4');
 INSERT INTO `azure_azureattestation.jioindiacentral_ips` (`ip_address`, `ip_type`) VALUES ('20.207.24.148/30', 'IPv4');

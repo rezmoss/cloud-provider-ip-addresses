@@ -189,6 +189,7 @@ INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('79.127.217.34/32', 
 INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('79.127.217.47/32', 'IPv4');
 INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('79.127.222.194/32', 'IPv4');
 INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('79.127.222.207/32', 'IPv4');
+INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('85.195.233.76/32', 'IPv4');
 INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('87.249.134.1/32', 'IPv4');
 INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('87.249.134.14/32', 'IPv4');
 INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('87.249.134.27/32', 'IPv4');
@@ -196,6 +197,7 @@ INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('89.37.63.10/32', 'I
 INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('89.37.63.66/32', 'IPv4');
 INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('89.37.63.129/32', 'IPv4');
 INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('89.37.63.190/32', 'IPv4');
+INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('89.45.4.130/32', 'IPv4');
 INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('91.90.123.2/32', 'IPv4');
 INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('92.60.40.194/32', 'IPv4');
 INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('92.60.40.209/32', 'IPv4');
@@ -327,12 +329,9 @@ INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('146.70.168.194/32',
 INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('146.70.171.66/32', 'IPv4');
 INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('146.70.171.130/32', 'IPv4');
 INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('146.70.172.2/32', 'IPv4');
-INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('146.70.172.66/32', 'IPv4');
 INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('146.70.172.130/32', 'IPv4');
-INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('146.70.172.194/32', 'IPv4');
-INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('146.70.173.66/32', 'IPv4');
+INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('146.70.173.2/32', 'IPv4');
 INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('146.70.173.130/32', 'IPv4');
-INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('146.70.173.194/32', 'IPv4');
 INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('146.70.174.2/32', 'IPv4');
 INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('146.70.184.2/32', 'IPv4');
 INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('146.70.184.130/32', 'IPv4');
@@ -392,6 +391,9 @@ INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('149.102.240.66/32',
 INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('149.102.240.79/32', 'IPv4');
 INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('149.102.246.2/32', 'IPv4');
 INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('149.102.246.15/32', 'IPv4');
+INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('152.233.51.3/32', 'IPv4');
+INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('152.233.51.33/32', 'IPv4');
+INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('152.233.51.63/32', 'IPv4');
 INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('154.47.16.34/32', 'IPv4');
 INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('154.47.16.47/32', 'IPv4');
 INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('154.47.29.2/32', 'IPv4');
@@ -487,7 +489,6 @@ INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('185.195.233.68/32',
 INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('185.195.233.69/32', 'IPv4');
 INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('185.195.233.70/32', 'IPv4');
 INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('185.195.233.71/32', 'IPv4');
-INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('185.195.233.76/32', 'IPv4');
 INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('185.201.188.3/32', 'IPv4');
 INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('185.201.188.33/32', 'IPv4');
 INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('185.204.1.203/32', 'IPv4');
@@ -872,6 +873,9 @@ INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('2a02:6ea0:5500:1::f
 INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('2a02:6ea0:5500:2::f001/128', 'IPv6');
 INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('2a02:6ea0:5700:1::f001/128', 'IPv6');
 INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('2a02:6ea0:5700:2::f001/128', 'IPv6');
+INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('2a02:6ea0:5e03:3::f001/128', 'IPv6');
+INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('2a02:6ea0:5e03:4::f001/128', 'IPv6');
+INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('2a02:6ea0:5e03:5::f001/128', 'IPv6');
 INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('2a02:6ea0:c034:1::a30f/128', 'IPv6');
 INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('2a02:6ea0:c034:2::a31f/128', 'IPv6');
 INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('2a02:6ea0:c034:3::a32f/128', 'IPv6');
@@ -1112,14 +1116,12 @@ INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('2a0c:f040:0:2790::a
 INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('2a0c:f040:0:2790::a03f/128', 'IPv6');
 INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('2a0d:5600:6:105::f001/128', 'IPv6');
 INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('2a0d:5600:6:106::f001/128', 'IPv6');
-INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('2a0d:5600:8:6::d2f/128', 'IPv6');
-INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('2a0d:5600:8:d::d3f/128', 'IPv6');
+INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('2a0d:5600:8:4::f001/128', 'IPv6');
+INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('2a0d:5600:8:6::f001/128', 'IPv6');
+INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('2a0d:5600:8:d::f001/128', 'IPv6');
 INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('2a0d:5600:8:2f::f001/128', 'IPv6');
 INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('2a0d:5600:8:37::f001/128', 'IPv6');
 INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('2a0d:5600:8:38::f001/128', 'IPv6');
-INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('2a0d:5600:8:39::f001/128', 'IPv6');
-INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('2a0d:5600:8:3a::f001/128', 'IPv6');
-INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('2a0d:5600:8:3b::f001/128', 'IPv6');
 INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('2a0d:5600:9:c::f001/128', 'IPv6');
 INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('2a0d:5600:9:d::f001/128', 'IPv6');
 INSERT INTO `mullvad_ips` (`ip_address`, `ip_type`) VALUES ('2a0d:5600:9:e::a02f/128', 'IPv6');

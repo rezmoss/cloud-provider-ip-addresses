@@ -226,6 +226,8 @@ INSERT INTO `azure_germanywc_ips` (`ip_address`, `ip_type`) VALUES ('48.203.174.
 INSERT INTO `azure_germanywc_ips` (`ip_address`, `ip_type`) VALUES ('48.203.190.186/31', 'IPv4');
 INSERT INTO `azure_germanywc_ips` (`ip_address`, `ip_type`) VALUES ('48.203.191.104/29', 'IPv4');
 INSERT INTO `azure_germanywc_ips` (`ip_address`, `ip_type`) VALUES ('48.203.191.128/30', 'IPv4');
+INSERT INTO `azure_germanywc_ips` (`ip_address`, `ip_type`) VALUES ('48.203.191.132/30', 'IPv4');
+INSERT INTO `azure_germanywc_ips` (`ip_address`, `ip_type`) VALUES ('48.203.191.136/29', 'IPv4');
 INSERT INTO `azure_germanywc_ips` (`ip_address`, `ip_type`) VALUES ('48.208.31.0/24', 'IPv4');
 INSERT INTO `azure_germanywc_ips` (`ip_address`, `ip_type`) VALUES ('48.212.28.0/24', 'IPv4');
 INSERT INTO `azure_germanywc_ips` (`ip_address`, `ip_type`) VALUES ('48.212.154.0/24', 'IPv4');

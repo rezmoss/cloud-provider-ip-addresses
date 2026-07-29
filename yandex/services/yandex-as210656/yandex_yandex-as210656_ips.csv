@@ -7,3 +7,4 @@ ip_address,ip_type,service,region
 94.139.248.0/22,IPv4,yandex-as210656,global
 185.184.128.0/22,IPv4,yandex-as210656,global
 185.216.194.0/23,IPv4,yandex-as210656,global
+201.50.118.0/24,IPv4,yandex-as210656,global

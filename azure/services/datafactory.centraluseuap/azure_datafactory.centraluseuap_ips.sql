@@ -10,7 +10,6 @@ INSERT INTO `azure_datafactory.centraluseuap_ips` (`ip_address`, `ip_type`) VALU
 INSERT INTO `azure_datafactory.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('20.228.5.112/28', 'IPv4');
 INSERT INTO `azure_datafactory.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('20.228.7.0/25', 'IPv4');
 INSERT INTO `azure_datafactory.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('20.228.7.128/26', 'IPv4');
-INSERT INTO `azure_datafactory.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('40.122.0.16/28', 'IPv4');
 INSERT INTO `azure_datafactory.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('52.176.232.16/28', 'IPv4');
 INSERT INTO `azure_datafactory.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('168.61.229.72/29', 'IPv4');
 INSERT INTO `azure_datafactory.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('168.61.229.160/29', 'IPv4');

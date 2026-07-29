@@ -1258,6 +1258,8 @@ ip_address,ip_type,service,region
 74.146.24.4/30,IPv4,ApiManagement.WestUS,westus
 74.146.24.8/29,IPv4,ApiManagement.WestUS,westus
 74.146.24.32/27,IPv4,Dynamics365ForMarketingEmail.WestUS,westus
+74.146.25.236/30,IPv4,AzureAttestation.WestUS,westus
+74.146.28.8/29,IPv4,AzureAttestation.WestUS,westus
 104.40.0.0/17,IPv4,AzureCloud.westus,westus
 104.40.3.53/32,IPv4,AppService.WestUS,westus
 104.40.8.78/32,IPv4,AzureCosmosDB.WestUS,westus

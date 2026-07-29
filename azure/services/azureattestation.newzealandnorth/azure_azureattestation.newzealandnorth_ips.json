@@ -12,6 +12,18 @@
     "region": "newzealandnorth"
   },
   {
+    "ip_address": "172.196.116.72/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "172.196.117.32/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
     "ip_address": "172.204.152.20/30",
     "ip_type": "IPv4",
     "service": "AzureAttestation.NewZealandNorth",

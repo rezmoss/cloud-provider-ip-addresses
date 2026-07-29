@@ -18,6 +18,18 @@
     "region": "indiasouthcentral"
   },
   {
+    "ip_address": "172.198.239.88/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "172.198.239.160/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
     "ip_address": "2603:1040:1904::760/124",
     "ip_type": "IPv6",
     "service": "AzureAttestation.IndiaSouthCentral",

@@ -492,6 +492,18 @@
     "region": "southcentralus2"
   },
   {
+    "ip_address": "48.219.46.208/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.SouthCentralUS2",
+    "region": "southcentralus2"
+  },
+  {
+    "ip_address": "48.219.46.216/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.SouthCentralUS2",
+    "region": "southcentralus2"
+  },
+  {
     "ip_address": "48.219.128.0/20",
     "ip_type": "IPv4",
     "service": "AzureCloud.southcentralus2",
@@ -843,6 +855,12 @@
     "ip_address": "2603:1030:1102:6::/119",
     "ip_type": "IPv6",
     "service": "AzureMonitor.SouthCentralUS2",
+    "region": "southcentralus2"
+  },
+  {
+    "ip_address": "2603:1030:1102:6::2d0/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.SouthCentralUS2",
     "region": "southcentralus2"
   },
   {

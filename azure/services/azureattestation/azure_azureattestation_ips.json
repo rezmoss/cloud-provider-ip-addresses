@@ -12,6 +12,18 @@
     "region": ""
   },
   {
+    "ip_address": "4.146.1.68/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "4.146.1.96/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
     "ip_address": "4.148.214.196/30",
     "ip_type": "IPv4",
     "service": "AzureAttestation",
@@ -42,6 +54,30 @@
     "region": ""
   },
   {
+    "ip_address": "4.161.165.40/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "4.161.165.80/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "4.170.15.188/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "4.170.28.32/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
     "ip_address": "4.172.85.24/29",
     "ip_type": "IPv4",
     "service": "AzureAttestation",
@@ -60,6 +96,18 @@
     "region": ""
   },
   {
+    "ip_address": "4.173.153.216/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "4.173.153.240/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
     "ip_address": "4.176.24.176/29",
     "ip_type": "IPv4",
     "service": "AzureAttestation",
@@ -72,7 +120,31 @@
     "region": ""
   },
   {
+    "ip_address": "4.177.57.140/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "4.177.57.176/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
     "ip_address": "4.185.224.248/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "4.187.48.236/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "4.187.49.80/29",
     "ip_type": "IPv4",
     "service": "AzureAttestation",
     "region": ""
@@ -85,6 +157,18 @@
   },
   {
     "ip_address": "4.188.30.184/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "4.188.132.24/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "4.188.132.32/30",
     "ip_type": "IPv4",
     "service": "AzureAttestation",
     "region": ""
@@ -144,6 +228,18 @@
     "region": ""
   },
   {
+    "ip_address": "4.200.209.204/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "4.200.209.240/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
     "ip_address": "4.209.98.40/29",
     "ip_type": "IPv4",
     "service": "AzureAttestation",
@@ -174,6 +270,24 @@
     "region": ""
   },
   {
+    "ip_address": "4.212.7.196/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "4.212.7.200/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "4.215.17.0/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
     "ip_address": "4.216.14.24/29",
     "ip_type": "IPv4",
     "service": "AzureAttestation",
@@ -181,6 +295,12 @@
   },
   {
     "ip_address": "4.216.14.32/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "4.216.23.248/29",
     "ip_type": "IPv4",
     "service": "AzureAttestation",
     "region": ""
@@ -240,6 +360,18 @@
     "region": ""
   },
   {
+    "ip_address": "4.222.1.64/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "4.222.1.72/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
     "ip_address": "4.223.182.184/29",
     "ip_type": "IPv4",
     "service": "AzureAttestation",
@@ -294,6 +426,18 @@
     "region": ""
   },
   {
+    "ip_address": "4.230.209.68/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "4.230.209.72/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
     "ip_address": "4.232.28.24/30",
     "ip_type": "IPv4",
     "service": "AzureAttestation",
@@ -318,6 +462,18 @@
     "region": ""
   },
   {
+    "ip_address": "4.238.32.4/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "4.238.32.8/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
     "ip_address": "4.239.0.248/29",
     "ip_type": "IPv4",
     "service": "AzureAttestation",
@@ -325,6 +481,18 @@
   },
   {
     "ip_address": "4.239.1.96/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "4.240.196.92/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "4.240.196.208/29",
     "ip_type": "IPv4",
     "service": "AzureAttestation",
     "region": ""
@@ -349,6 +517,30 @@
   },
   {
     "ip_address": "4.243.164.96/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "4.243.180.196/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "4.243.180.200/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "4.247.40.40/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "4.247.40.64/30",
     "ip_type": "IPv4",
     "service": "AzureAttestation",
     "region": ""
@@ -408,6 +600,18 @@
     "region": ""
   },
   {
+    "ip_address": "9.205.217.12/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "9.205.217.48/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
     "ip_address": "9.235.70.112/29",
     "ip_type": "IPv4",
     "service": "AzureAttestation",
@@ -421,6 +625,18 @@
   },
   {
     "ip_address": "9.235.190.232/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "9.235.245.180/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "9.235.245.184/29",
     "ip_type": "IPv4",
     "service": "AzureAttestation",
     "region": ""
@@ -469,6 +685,18 @@
   },
   {
     "ip_address": "13.86.223.192/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "20.6.204.120/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "20.6.204.128/30",
     "ip_type": "IPv4",
     "service": "AzureAttestation",
     "region": ""
@@ -720,6 +948,18 @@
     "region": ""
   },
   {
+    "ip_address": "20.66.224.32/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "20.66.224.40/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
     "ip_address": "20.72.21.144/30",
     "ip_type": "IPv4",
     "service": "AzureAttestation",
@@ -774,6 +1014,18 @@
     "region": ""
   },
   {
+    "ip_address": "20.99.39.52/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "20.99.39.56/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
     "ip_address": "20.111.117.248/29",
     "ip_type": "IPv4",
     "service": "AzureAttestation",
@@ -805,6 +1057,18 @@
   },
   {
     "ip_address": "20.167.225.168/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "20.167.247.88/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "20.167.247.128/30",
     "ip_type": "IPv4",
     "service": "AzureAttestation",
     "region": ""
@@ -948,6 +1212,18 @@
     "region": ""
   },
   {
+    "ip_address": "20.226.148.196/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "20.226.148.200/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
     "ip_address": "20.244.215.80/29",
     "ip_type": "IPv4",
     "service": "AzureAttestation",
@@ -1062,6 +1338,18 @@
     "region": ""
   },
   {
+    "ip_address": "48.193.109.152/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "48.193.109.192/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
     "ip_address": "48.194.162.248/29",
     "ip_type": "IPv4",
     "service": "AzureAttestation",
@@ -1098,6 +1386,18 @@
     "region": ""
   },
   {
+    "ip_address": "48.196.110.120/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "48.196.144.192/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
     "ip_address": "48.197.72.20/30",
     "ip_type": "IPv4",
     "service": "AzureAttestation",
@@ -1111,6 +1411,18 @@
   },
   {
     "ip_address": "48.197.100.80/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "48.197.139.168/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "48.197.139.176/30",
     "ip_type": "IPv4",
     "service": "AzureAttestation",
     "region": ""
@@ -1134,6 +1446,18 @@
     "region": ""
   },
   {
+    "ip_address": "48.198.153.240/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "48.198.153.248/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
     "ip_address": "48.199.12.8/29",
     "ip_type": "IPv4",
     "service": "AzureAttestation",
@@ -1146,6 +1470,18 @@
     "region": ""
   },
   {
+    "ip_address": "48.200.134.132/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "48.200.134.136/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
     "ip_address": "48.203.101.80/29",
     "ip_type": "IPv4",
     "service": "AzureAttestation",
@@ -1153,6 +1489,18 @@
   },
   {
     "ip_address": "48.203.101.88/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "48.203.191.132/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "48.203.191.136/29",
     "ip_type": "IPv4",
     "service": "AzureAttestation",
     "region": ""
@@ -1176,7 +1524,31 @@
     "region": ""
   },
   {
+    "ip_address": "48.219.46.208/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "48.219.46.216/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
     "ip_address": "48.219.81.176/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "48.219.89.92/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "48.219.90.24/29",
     "ip_type": "IPv4",
     "service": "AzureAttestation",
     "region": ""
@@ -1260,6 +1632,18 @@
     "region": ""
   },
   {
+    "ip_address": "51.56.214.240/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "51.56.214.248/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
     "ip_address": "51.57.143.200/29",
     "ip_type": "IPv4",
     "service": "AzureAttestation",
@@ -1284,6 +1668,18 @@
     "region": ""
   },
   {
+    "ip_address": "51.57.199.0/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "51.57.199.8/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
     "ip_address": "51.58.49.24/29",
     "ip_type": "IPv4",
     "service": "AzureAttestation",
@@ -1297,6 +1693,30 @@
   },
   {
     "ip_address": "51.58.78.88/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "51.58.109.124/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "51.58.110.48/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "51.58.166.96/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "51.58.166.104/30",
     "ip_type": "IPv4",
     "service": "AzureAttestation",
     "region": ""
@@ -1470,6 +1890,18 @@
     "region": ""
   },
   {
+    "ip_address": "57.152.172.124/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "57.152.172.224/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
     "ip_address": "57.156.97.52/30",
     "ip_type": "IPv4",
     "service": "AzureAttestation",
@@ -1500,6 +1932,18 @@
     "region": ""
   },
   {
+    "ip_address": "57.159.197.100/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "57.159.197.104/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
     "ip_address": "57.160.5.108/30",
     "ip_type": "IPv4",
     "service": "AzureAttestation",
@@ -1507,6 +1951,18 @@
   },
   {
     "ip_address": "57.160.5.160/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "57.160.28.156/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "57.160.28.200/29",
     "ip_type": "IPv4",
     "service": "AzureAttestation",
     "region": ""
@@ -1566,6 +2022,48 @@
     "region": ""
   },
   {
+    "ip_address": "57.170.14.240/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "57.170.14.248/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "57.173.52.76/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "57.174.126.24/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "57.174.126.32/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "57.175.115.20/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "57.175.115.24/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
     "ip_address": "68.154.163.100/30",
     "ip_type": "IPv4",
     "service": "AzureAttestation",
@@ -1573,6 +2071,18 @@
   },
   {
     "ip_address": "68.154.163.104/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "68.154.176.196/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "68.154.176.200/29",
     "ip_type": "IPv4",
     "service": "AzureAttestation",
     "region": ""
@@ -1620,6 +2130,18 @@
     "region": ""
   },
   {
+    "ip_address": "68.211.204.36/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "68.211.204.40/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
     "ip_address": "68.221.84.152/30",
     "ip_type": "IPv4",
     "service": "AzureAttestation",
@@ -1656,6 +2178,18 @@
     "region": ""
   },
   {
+    "ip_address": "70.157.192.32/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "70.157.192.40/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
     "ip_address": "72.145.133.160/29",
     "ip_type": "IPv4",
     "service": "AzureAttestation",
@@ -1680,6 +2214,18 @@
     "region": ""
   },
   {
+    "ip_address": "74.7.113.168/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "74.7.114.16/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
     "ip_address": "74.7.176.20/30",
     "ip_type": "IPv4",
     "service": "AzureAttestation",
@@ -1693,6 +2239,210 @@
   },
   {
     "ip_address": "74.7.205.120/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "74.144.85.112/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "74.144.85.120/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "74.144.136.56/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "74.144.136.128/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "74.146.25.236/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "74.146.28.8/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "74.146.190.244/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "74.146.191.88/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "74.147.19.128/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "74.147.19.136/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "74.148.13.36/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "74.148.13.40/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "74.149.5.108/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "74.149.6.40/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "74.149.129.236/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "74.149.131.144/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "74.150.12.116/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "74.150.12.120/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "74.151.25.88/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "74.151.25.96/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "74.151.230.0/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "74.151.230.8/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "74.152.8.124/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "74.152.8.160/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "74.153.1.244/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "74.153.1.248/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "74.155.16.148/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "74.155.16.152/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "74.157.87.96/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "74.157.87.104/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "74.159.0.252/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "74.159.1.80/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "74.160.11.204/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "74.160.16.104/29",
     "ip_type": "IPv4",
     "service": "AzureAttestation",
     "region": ""
@@ -1717,6 +2467,30 @@
   },
   {
     "ip_address": "74.225.110.136/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "74.240.13.228/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "74.240.13.232/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "74.241.69.100/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "74.241.69.104/29",
     "ip_type": "IPv4",
     "service": "AzureAttestation",
     "region": ""
@@ -1770,6 +2544,18 @@
     "region": ""
   },
   {
+    "ip_address": "98.66.37.232/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "98.66.38.0/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
     "ip_address": "98.67.0.252/30",
     "ip_type": "IPv4",
     "service": "AzureAttestation",
@@ -1777,6 +2563,18 @@
   },
   {
     "ip_address": "98.67.2.112/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "98.67.21.204/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "98.67.22.32/29",
     "ip_type": "IPv4",
     "service": "AzureAttestation",
     "region": ""
@@ -1860,6 +2658,18 @@
     "region": ""
   },
   {
+    "ip_address": "145.191.155.244/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "145.191.155.248/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
     "ip_address": "158.23.100.152/30",
     "ip_type": "IPv4",
     "service": "AzureAttestation",
@@ -1878,6 +2688,18 @@
     "region": ""
   },
   {
+    "ip_address": "158.158.214.140/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "158.158.214.240/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
     "ip_address": "167.105.220.112/29",
     "ip_type": "IPv4",
     "service": "AzureAttestation",
@@ -1891,6 +2713,30 @@
   },
   {
     "ip_address": "168.61.140.108/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "172.161.230.124/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "172.161.230.224/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "172.165.36.212/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "172.165.36.216/29",
     "ip_type": "IPv4",
     "service": "AzureAttestation",
     "region": ""
@@ -1920,6 +2766,18 @@
     "region": ""
   },
   {
+    "ip_address": "172.182.41.228/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "172.182.44.40/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
     "ip_address": "172.186.116.228/30",
     "ip_type": "IPv4",
     "service": "AzureAttestation",
@@ -1932,6 +2790,18 @@
     "region": ""
   },
   {
+    "ip_address": "172.186.143.108/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "172.186.143.128/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
     "ip_address": "172.192.194.4/30",
     "ip_type": "IPv4",
     "service": "AzureAttestation",
@@ -1939,6 +2809,18 @@
   },
   {
     "ip_address": "172.192.194.16/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "172.192.225.104/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "172.192.225.144/30",
     "ip_type": "IPv4",
     "service": "AzureAttestation",
     "region": ""
@@ -1980,6 +2862,18 @@
     "region": ""
   },
   {
+    "ip_address": "172.195.152.164/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "172.195.152.168/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
     "ip_address": "172.196.77.104/29",
     "ip_type": "IPv4",
     "service": "AzureAttestation",
@@ -1987,6 +2881,18 @@
   },
   {
     "ip_address": "172.196.77.112/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "172.196.116.72/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "172.196.117.32/30",
     "ip_type": "IPv4",
     "service": "AzureAttestation",
     "region": ""
@@ -2004,6 +2910,18 @@
     "region": ""
   },
   {
+    "ip_address": "172.197.52.24/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "172.197.52.144/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
     "ip_address": "172.197.132.136/29",
     "ip_type": "IPv4",
     "service": "AzureAttestation",
@@ -2011,6 +2929,18 @@
   },
   {
     "ip_address": "172.197.132.144/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "172.197.225.148/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "172.197.225.224/29",
     "ip_type": "IPv4",
     "service": "AzureAttestation",
     "region": ""
@@ -2029,6 +2959,18 @@
   },
   {
     "ip_address": "172.198.110.16/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "172.198.239.88/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "172.198.239.160/30",
     "ip_type": "IPv4",
     "service": "AzureAttestation",
     "region": ""
@@ -2113,6 +3055,12 @@
   },
   {
     "ip_address": "2603:1020:104:4::420/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:104:9::1b0/124",
     "ip_type": "IPv6",
     "service": "AzureAttestation",
     "region": ""
@@ -2214,6 +3162,18 @@
     "region": ""
   },
   {
+    "ip_address": "2603:1030:104:6::350/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:107:5::290/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
     "ip_address": "2603:1030:40c:29::5e0/124",
     "ip_type": "IPv6",
     "service": "AzureAttestation",
@@ -2244,6 +3204,12 @@
     "region": ""
   },
   {
+    "ip_address": "2603:1030:902:6::160/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
     "ip_address": "2603:1030:a07:9::90/124",
     "ip_type": "IPv6",
     "service": "AzureAttestation",
@@ -2262,13 +3228,31 @@
     "region": ""
   },
   {
+    "ip_address": "2603:1030:1102:6::2d0/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
     "ip_address": "2603:1030:1202::540/124",
     "ip_type": "IPv6",
     "service": "AzureAttestation",
     "region": ""
   },
   {
+    "ip_address": "2603:1030:1202:5::7b0/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
     "ip_address": "2603:1030:1302::540/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:1302:5::540/124",
     "ip_type": "IPv6",
     "service": "AzureAttestation",
     "region": ""
@@ -2286,7 +3270,19 @@
     "region": ""
   },
   {
+    "ip_address": "2603:1030:1502:5::710/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
     "ip_address": "2603:1030:1602::7a0/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:1602:5::530/124",
     "ip_type": "IPv6",
     "service": "AzureAttestation",
     "region": ""
@@ -2382,7 +3378,19 @@
     "region": ""
   },
   {
+    "ip_address": "2603:1040:1202:7::3a0/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
     "ip_address": "2603:1040:1302::600/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1040:1302:9::a0/124",
     "ip_type": "IPv6",
     "service": "AzureAttestation",
     "region": ""
@@ -2400,6 +3408,12 @@
     "region": ""
   },
   {
+    "ip_address": "2603:1040:1503:8::2d0/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
     "ip_address": "2603:1040:1602::5c0/124",
     "ip_type": "IPv6",
     "service": "AzureAttestation",
@@ -2407,6 +3421,12 @@
   },
   {
     "ip_address": "2603:1040:1702::540/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1040:1702:7::410/124",
     "ip_type": "IPv6",
     "service": "AzureAttestation",
     "region": ""
@@ -2431,6 +3451,12 @@
   },
   {
     "ip_address": "2603:1040:1b02::760/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1040:1b02:5::320/124",
     "ip_type": "IPv6",
     "service": "AzureAttestation",
     "region": ""

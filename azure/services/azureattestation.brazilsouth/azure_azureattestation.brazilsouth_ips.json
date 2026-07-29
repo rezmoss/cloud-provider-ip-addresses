@@ -12,6 +12,18 @@
     "region": "brazilsouth"
   },
   {
+    "ip_address": "20.226.148.196/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "20.226.148.200/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
     "ip_address": "51.59.56.192/29",
     "ip_type": "IPv4",
     "service": "AzureAttestation.BrazilSouth",

@@ -150,6 +150,12 @@
     "region": "japaneast"
   },
   {
+    "ip_address": "4.215.17.0/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.JapanEast",
+    "region": "japaneast"
+  },
+  {
     "ip_address": "4.216.0.0/16",
     "ip_type": "IPv4",
     "service": "AzureCloud.japaneast",
@@ -267,6 +273,12 @@
     "ip_address": "4.216.23.168/30",
     "ip_type": "IPv4",
     "service": "ApiManagement.JapanEast",
+    "region": "japaneast"
+  },
+  {
+    "ip_address": "4.216.23.248/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.JapanEast",
     "region": "japaneast"
   },
   {

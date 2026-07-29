@@ -89,9 +89,7 @@ INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('34.124.96.0/
 INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('34.126.0.0/18', 'IPv4');
 INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('34.126.224.0/19', 'IPv4');
 INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('34.127.128.0/20', 'IPv4');
-INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('34.127.144.0/24', 'IPv4');
-INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('34.127.147.0/24', 'IPv4');
-INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('34.127.148.0/22', 'IPv4');
+INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('34.127.144.0/21', 'IPv4');
 INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('34.127.152.0/22', 'IPv4');
 INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('34.127.176.0/24', 'IPv4');
 INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('34.127.181.0/24', 'IPv4');

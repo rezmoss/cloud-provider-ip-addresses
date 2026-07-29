@@ -46,5 +46,11 @@
     "ip_type": "IPv4",
     "service": "yandex-as210656",
     "region": "global"
+  },
+  {
+    "ip_address": "201.50.118.0/24",
+    "ip_type": "IPv4",
+    "service": "yandex-as210656",
+    "region": "global"
   }
 ]

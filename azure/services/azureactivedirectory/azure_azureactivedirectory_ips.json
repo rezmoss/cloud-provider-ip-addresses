@@ -1338,6 +1338,12 @@
     "region": ""
   },
   {
+    "ip_address": "57.170.15.96/28",
+    "ip_type": "IPv4",
+    "service": "AzureActiveDirectory",
+    "region": ""
+  },
+  {
     "ip_address": "57.173.52.16/28",
     "ip_type": "IPv4",
     "service": "AzureActiveDirectory",
@@ -1405,6 +1411,12 @@
   },
   {
     "ip_address": "68.220.90.176/28",
+    "ip_type": "IPv4",
+    "service": "AzureActiveDirectory",
+    "region": ""
+  },
+  {
+    "ip_address": "70.157.192.48/28",
     "ip_type": "IPv4",
     "service": "AzureActiveDirectory",
     "region": ""
@@ -2329,6 +2341,18 @@
   },
   {
     "ip_address": "2603:1040:1104:9::40/122",
+    "ip_type": "IPv6",
+    "service": "AzureActiveDirectory",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1040:1202:7::3c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureActiveDirectory",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1040:1302:9::c0/122",
     "ip_type": "IPv6",
     "service": "AzureActiveDirectory",
     "region": ""

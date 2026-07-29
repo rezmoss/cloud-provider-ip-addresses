@@ -6294,6 +6294,18 @@
     "region": "southcentralus"
   },
   {
+    "ip_address": "74.155.16.148/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "74.155.16.152/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
     "ip_address": "104.44.89.0/27",
     "ip_type": "IPv4",
     "service": "AzureCloud.southcentralus",

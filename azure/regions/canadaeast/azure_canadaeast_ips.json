@@ -2400,6 +2400,18 @@
     "region": "canadaeast"
   },
   {
+    "ip_address": "145.191.155.244/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "145.191.155.248/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
     "ip_address": "151.206.107.0/25",
     "ip_type": "IPv4",
     "service": "AzureCloud.canadaeast",

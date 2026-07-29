@@ -169,6 +169,8 @@ INSERT INTO `azure_italynorth_ips` (`ip_address`, `ip_type`) VALUES ('9.235.200.
 INSERT INTO `azure_italynorth_ips` (`ip_address`, `ip_type`) VALUES ('9.235.213.96/28', 'IPv4');
 INSERT INTO `azure_italynorth_ips` (`ip_address`, `ip_type`) VALUES ('9.235.226.48/28', 'IPv4');
 INSERT INTO `azure_italynorth_ips` (`ip_address`, `ip_type`) VALUES ('9.235.245.32/27', 'IPv4');
+INSERT INTO `azure_italynorth_ips` (`ip_address`, `ip_type`) VALUES ('9.235.245.180/30', 'IPv4');
+INSERT INTO `azure_italynorth_ips` (`ip_address`, `ip_type`) VALUES ('9.235.245.184/29', 'IPv4');
 INSERT INTO `azure_italynorth_ips` (`ip_address`, `ip_type`) VALUES ('13.105.105.144/28', 'IPv4');
 INSERT INTO `azure_italynorth_ips` (`ip_address`, `ip_type`) VALUES ('13.105.105.192/26', 'IPv4');
 INSERT INTO `azure_italynorth_ips` (`ip_address`, `ip_type`) VALUES ('13.105.107.64/27', 'IPv4');

@@ -229,6 +229,7 @@ INSERT INTO `azure_azureactivedirectory_ips` (`ip_address`, `ip_type`) VALUES ('
 INSERT INTO `azure_azureactivedirectory_ips` (`ip_address`, `ip_type`) VALUES ('57.168.251.112/28', 'IPv4');
 INSERT INTO `azure_azureactivedirectory_ips` (`ip_address`, `ip_type`) VALUES ('57.168.255.64/26', 'IPv4');
 INSERT INTO `azure_azureactivedirectory_ips` (`ip_address`, `ip_type`) VALUES ('57.168.255.128/25', 'IPv4');
+INSERT INTO `azure_azureactivedirectory_ips` (`ip_address`, `ip_type`) VALUES ('57.170.15.96/28', 'IPv4');
 INSERT INTO `azure_azureactivedirectory_ips` (`ip_address`, `ip_type`) VALUES ('57.173.52.16/28', 'IPv4');
 INSERT INTO `azure_azureactivedirectory_ips` (`ip_address`, `ip_type`) VALUES ('57.174.123.0/26', 'IPv4');
 INSERT INTO `azure_azureactivedirectory_ips` (`ip_address`, `ip_type`) VALUES ('57.174.123.128/25', 'IPv4');
@@ -241,6 +242,7 @@ INSERT INTO `azure_azureactivedirectory_ips` (`ip_address`, `ip_type`) VALUES ('
 INSERT INTO `azure_azureactivedirectory_ips` (`ip_address`, `ip_type`) VALUES ('68.211.204.48/28', 'IPv4');
 INSERT INTO `azure_azureactivedirectory_ips` (`ip_address`, `ip_type`) VALUES ('68.218.170.224/27', 'IPv4');
 INSERT INTO `azure_azureactivedirectory_ips` (`ip_address`, `ip_type`) VALUES ('68.220.90.176/28', 'IPv4');
+INSERT INTO `azure_azureactivedirectory_ips` (`ip_address`, `ip_type`) VALUES ('70.157.192.48/28', 'IPv4');
 INSERT INTO `azure_azureactivedirectory_ips` (`ip_address`, `ip_type`) VALUES ('74.7.113.176/28', 'IPv4');
 INSERT INTO `azure_azureactivedirectory_ips` (`ip_address`, `ip_type`) VALUES ('74.144.83.0/28', 'IPv4');
 INSERT INTO `azure_azureactivedirectory_ips` (`ip_address`, `ip_type`) VALUES ('74.144.83.192/26', 'IPv4');
@@ -395,6 +397,8 @@ INSERT INTO `azure_azureactivedirectory_ips` (`ip_address`, `ip_type`) VALUES ('
 INSERT INTO `azure_azureactivedirectory_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:f05:10::500/120', 'IPv6');
 INSERT INTO `azure_azureactivedirectory_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1002:c::40/122', 'IPv6');
 INSERT INTO `azure_azureactivedirectory_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1104:9::40/122', 'IPv6');
+INSERT INTO `azure_azureactivedirectory_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1202:7::3c0/122', 'IPv6');
+INSERT INTO `azure_azureactivedirectory_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1302:9::c0/122', 'IPv6');
 INSERT INTO `azure_azureactivedirectory_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1402:a::700/122', 'IPv6');
 INSERT INTO `azure_azureactivedirectory_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1503:8::280/122', 'IPv6');
 INSERT INTO `azure_azureactivedirectory_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1802:8::1c0/122', 'IPv6');

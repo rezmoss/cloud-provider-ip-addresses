@@ -1368,6 +1368,18 @@
     "region": "spaincentral"
   },
   {
+    "ip_address": "158.158.214.140/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "158.158.214.240/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
     "ip_address": "209.199.16.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.spaincentral",

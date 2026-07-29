@@ -10,4 +10,7 @@ INSERT INTO `azure_azureattestation.malaysiasouth_ips` (`ip_address`, `ip_type`)
 INSERT INTO `azure_azureattestation.malaysiasouth_ips` (`ip_address`, `ip_type`) VALUES ('85.211.94.232/29', 'IPv4');
 INSERT INTO `azure_azureattestation.malaysiasouth_ips` (`ip_address`, `ip_type`) VALUES ('172.197.29.36/30', 'IPv4');
 INSERT INTO `azure_azureattestation.malaysiasouth_ips` (`ip_address`, `ip_type`) VALUES ('172.197.29.40/29', 'IPv4');
+INSERT INTO `azure_azureattestation.malaysiasouth_ips` (`ip_address`, `ip_type`) VALUES ('172.197.52.24/29', 'IPv4');
+INSERT INTO `azure_azureattestation.malaysiasouth_ips` (`ip_address`, `ip_type`) VALUES ('172.197.52.144/30', 'IPv4');
 INSERT INTO `azure_azureattestation.malaysiasouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1503::620/124', 'IPv6');
+INSERT INTO `azure_azureattestation.malaysiasouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1503:8::2d0/124', 'IPv6');

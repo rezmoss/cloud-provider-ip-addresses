@@ -24,6 +24,24 @@
     "region": "de"
   },
   {
+    "ip_address": "152.233.51.3/32",
+    "ip_type": "IPv4",
+    "service": "mullvad-wireguard",
+    "region": "de"
+  },
+  {
+    "ip_address": "152.233.51.33/32",
+    "ip_type": "IPv4",
+    "service": "mullvad-wireguard",
+    "region": "de"
+  },
+  {
+    "ip_address": "152.233.51.63/32",
+    "ip_type": "IPv4",
+    "service": "mullvad-wireguard",
+    "region": "de"
+  },
+  {
     "ip_address": "169.150.201.2/32",
     "ip_type": "IPv4",
     "service": "mullvad-wireguard",
@@ -157,6 +175,24 @@
   },
   {
     "ip_address": "2001:ac8:20:272::f001/128",
+    "ip_type": "IPv6",
+    "service": "mullvad-wireguard",
+    "region": "de"
+  },
+  {
+    "ip_address": "2a02:6ea0:5e03:3::f001/128",
+    "ip_type": "IPv6",
+    "service": "mullvad-wireguard",
+    "region": "de"
+  },
+  {
+    "ip_address": "2a02:6ea0:5e03:4::f001/128",
+    "ip_type": "IPv6",
+    "service": "mullvad-wireguard",
+    "region": "de"
+  },
+  {
+    "ip_address": "2a02:6ea0:5e03:5::f001/128",
     "ip_type": "IPv6",
     "service": "mullvad-wireguard",
     "region": "de"

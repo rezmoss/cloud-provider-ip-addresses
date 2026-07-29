@@ -9,5 +9,7 @@ CREATE TABLE IF NOT EXISTS `azure_azureattestation.southafricanorth_ips` (
 INSERT INTO `azure_azureattestation.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('4.221.45.232/29', 'IPv4');
 INSERT INTO `azure_azureattestation.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('4.221.237.84/30', 'IPv4');
 INSERT INTO `azure_azureattestation.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('4.221.238.152/29', 'IPv4');
+INSERT INTO `azure_azureattestation.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('4.222.1.64/29', 'IPv4');
+INSERT INTO `azure_azureattestation.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('4.222.1.72/30', 'IPv4');
 INSERT INTO `azure_azureattestation.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('102.133.126.132/30', 'IPv4');
 INSERT INTO `azure_azureattestation.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('102.133.221.196/30', 'IPv4');

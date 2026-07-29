@@ -10,4 +10,6 @@ INSERT INTO `azure_azureattestation.spaincentral_ips` (`ip_address`, `ip_type`) 
 INSERT INTO `azure_azureattestation.spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('70.156.172.240/29', 'IPv4');
 INSERT INTO `azure_azureattestation.spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('158.158.139.48/29', 'IPv4');
 INSERT INTO `azure_azureattestation.spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('158.158.139.56/30', 'IPv4');
+INSERT INTO `azure_azureattestation.spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('158.158.214.140/30', 'IPv4');
+INSERT INTO `azure_azureattestation.spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('158.158.214.240/29', 'IPv4');
 INSERT INTO `azure_azureattestation.spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1403::5e0/124', 'IPv6');

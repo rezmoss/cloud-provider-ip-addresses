@@ -9,4 +9,7 @@ CREATE TABLE IF NOT EXISTS `azure_azureattestation.israelnorthwest_ips` (
 INSERT INTO `azure_azureattestation.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('20.217.248.20/30', 'IPv4');
 INSERT INTO `azure_azureattestation.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('51.4.158.244/30', 'IPv4');
 INSERT INTO `azure_azureattestation.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('51.4.158.248/29', 'IPv4');
+INSERT INTO `azure_azureattestation.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('51.58.166.96/29', 'IPv4');
+INSERT INTO `azure_azureattestation.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('51.58.166.104/30', 'IPv4');
 INSERT INTO `azure_azureattestation.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1702::540/124', 'IPv6');
+INSERT INTO `azure_azureattestation.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1702:7::410/124', 'IPv6');

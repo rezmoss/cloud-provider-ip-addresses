@@ -11,3 +11,5 @@ INSERT INTO `azure_azureattestation.eastus_ips` (`ip_address`, `ip_type`) VALUES
 INSERT INTO `azure_azureattestation.eastus_ips` (`ip_address`, `ip_type`) VALUES ('48.195.234.216/29', 'IPv4');
 INSERT INTO `azure_azureattestation.eastus_ips` (`ip_address`, `ip_type`) VALUES ('57.162.213.168/29', 'IPv4');
 INSERT INTO `azure_azureattestation.eastus_ips` (`ip_address`, `ip_type`) VALUES ('57.162.213.176/30', 'IPv4');
+INSERT INTO `azure_azureattestation.eastus_ips` (`ip_address`, `ip_type`) VALUES ('74.151.230.0/29', 'IPv4');
+INSERT INTO `azure_azureattestation.eastus_ips` (`ip_address`, `ip_type`) VALUES ('74.151.230.8/30', 'IPv4');

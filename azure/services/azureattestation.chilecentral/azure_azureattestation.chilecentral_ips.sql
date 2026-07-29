@@ -10,4 +10,6 @@ INSERT INTO `azure_azureattestation.chilecentral_ips` (`ip_address`, `ip_type`) 
 INSERT INTO `azure_azureattestation.chilecentral_ips` (`ip_address`, `ip_type`) VALUES ('57.156.97.192/29', 'IPv4');
 INSERT INTO `azure_azureattestation.chilecentral_ips` (`ip_address`, `ip_type`) VALUES ('68.211.19.184/30', 'IPv4');
 INSERT INTO `azure_azureattestation.chilecentral_ips` (`ip_address`, `ip_type`) VALUES ('68.211.31.176/29', 'IPv4');
+INSERT INTO `azure_azureattestation.chilecentral_ips` (`ip_address`, `ip_type`) VALUES ('68.211.204.36/30', 'IPv4');
+INSERT INTO `azure_azureattestation.chilecentral_ips` (`ip_address`, `ip_type`) VALUES ('68.211.204.40/29', 'IPv4');
 INSERT INTO `azure_azureattestation.chilecentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:301::540/124', 'IPv6');

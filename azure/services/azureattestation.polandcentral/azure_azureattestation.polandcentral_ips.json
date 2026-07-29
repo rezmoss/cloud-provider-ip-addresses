@@ -12,6 +12,18 @@
     "region": "polandcentral"
   },
   {
+    "ip_address": "74.153.1.244/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "74.153.1.248/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
     "ip_address": "134.112.195.40/29",
     "ip_type": "IPv4",
     "service": "AzureAttestation.PolandCentral",

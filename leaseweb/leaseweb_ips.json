@@ -1964,19 +1964,19 @@
   {
     "ip_address": "45.85.161.0/24",
     "ip_type": "IPv4",
-    "service": "leaseweb-as60781",
+    "service": "leaseweb-as393886",
     "region": "global"
   },
   {
     "ip_address": "45.85.162.0/24",
     "ip_type": "IPv4",
-    "service": "leaseweb-as60781",
+    "service": "leaseweb-as393886",
     "region": "global"
   },
   {
     "ip_address": "45.85.163.0/24",
     "ip_type": "IPv4",
-    "service": "leaseweb-as60781",
+    "service": "leaseweb-as393886",
     "region": "global"
   },
   {
@@ -1994,7 +1994,7 @@
   {
     "ip_address": "45.87.241.0/24",
     "ip_type": "IPv4",
-    "service": "leaseweb-as60781",
+    "service": "leaseweb-as393886",
     "region": "global"
   },
   {
@@ -2138,7 +2138,7 @@
   {
     "ip_address": "45.130.126.0/24",
     "ip_type": "IPv4",
-    "service": "leaseweb-as60781",
+    "service": "leaseweb-as394380",
     "region": "global"
   },
   {
@@ -2546,7 +2546,7 @@
   {
     "ip_address": "45.154.59.0/24",
     "ip_type": "IPv4",
-    "service": "leaseweb-as60781",
+    "service": "leaseweb-as394380",
     "region": "global"
   },
   {
@@ -8208,6 +8208,12 @@
     "region": "global"
   },
   {
+    "ip_address": "177.28.2.0/24",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as395954",
+    "region": "global"
+  },
+  {
     "ip_address": "178.16.235.0/24",
     "ip_type": "IPv4",
     "service": "leaseweb-as133752",
@@ -9026,7 +9032,7 @@
   {
     "ip_address": "192.166.81.0/24",
     "ip_type": "IPv4",
-    "service": "leaseweb-as60781",
+    "service": "leaseweb-as394380",
     "region": "global"
   },
   {
@@ -9110,7 +9116,7 @@
   {
     "ip_address": "193.8.234.0/24",
     "ip_type": "IPv4",
-    "service": "leaseweb-as60781",
+    "service": "leaseweb-as394380",
     "region": "global"
   },
   {
@@ -9175,12 +9181,6 @@
   },
   {
     "ip_address": "193.41.38.0/24",
-    "ip_type": "IPv4",
-    "service": "leaseweb-as60781",
-    "region": "global"
-  },
-  {
-    "ip_address": "193.41.39.0/24",
     "ip_type": "IPv4",
     "service": "leaseweb-as60781",
     "region": "global"

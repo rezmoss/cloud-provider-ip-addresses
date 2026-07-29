@@ -24,6 +24,18 @@
     "region": "swedencentral"
   },
   {
+    "ip_address": "57.174.126.24/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "57.174.126.32/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
     "ip_address": "2603:1020:1004:1::720/123",
     "ip_type": "IPv6",
     "service": "AzureAttestation.SwedenCentral",

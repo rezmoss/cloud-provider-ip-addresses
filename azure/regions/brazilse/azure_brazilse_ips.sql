@@ -18,6 +18,8 @@ INSERT INTO `azure_brazilse_ips` (`ip_address`, `ip_type`) VALUES ('4.238.25.128
 INSERT INTO `azure_brazilse_ips` (`ip_address`, `ip_type`) VALUES ('4.238.27.136/30', 'IPv4');
 INSERT INTO `azure_brazilse_ips` (`ip_address`, `ip_type`) VALUES ('4.238.27.192/27', 'IPv4');
 INSERT INTO `azure_brazilse_ips` (`ip_address`, `ip_type`) VALUES ('4.238.30.0/23', 'IPv4');
+INSERT INTO `azure_brazilse_ips` (`ip_address`, `ip_type`) VALUES ('4.238.32.4/30', 'IPv4');
+INSERT INTO `azure_brazilse_ips` (`ip_address`, `ip_type`) VALUES ('4.238.32.8/29', 'IPv4');
 INSERT INTO `azure_brazilse_ips` (`ip_address`, `ip_type`) VALUES ('13.105.27.128/27', 'IPv4');
 INSERT INTO `azure_brazilse_ips` (`ip_address`, `ip_type`) VALUES ('13.105.36.48/28', 'IPv4');
 INSERT INTO `azure_brazilse_ips` (`ip_address`, `ip_type`) VALUES ('13.105.36.96/27', 'IPv4');

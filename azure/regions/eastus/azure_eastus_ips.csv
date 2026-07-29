@@ -1483,6 +1483,8 @@ ip_address,ip_type,service,region
 74.151.220.116/30,IPv4,ApiManagement.EastUS,eastus
 74.151.220.120/29,IPv4,ApiManagement.EastUS,eastus
 74.151.221.224/31,IPv4,ApiManagement.EastUS,eastus
+74.151.230.0/29,IPv4,AzureAttestation.EastUS,eastus
+74.151.230.8/30,IPv4,AzureAttestation.EastUS,eastus
 74.179.128.0/17,IPv4,AzureCloud.eastus,eastus
 74.179.172.0/26,IPv4,PowerBI.EastUS,eastus
 74.235.0.0/16,IPv4,AzureCloud.eastus,eastus

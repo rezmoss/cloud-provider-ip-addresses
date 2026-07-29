@@ -28038,6 +28038,18 @@
     "region": "eu-central-1"
   },
   {
+    "ip_address": "69.107.13.48/29",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-west-1"
+  },
+  {
+    "ip_address": "69.107.13.56/29",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-west-1"
+  },
+  {
     "ip_address": "69.230.192.0/18",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -29428,12 +29440,6 @@
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "me-south-1"
-  },
-  {
-    "ip_address": "99.78.220.96/27",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "eu-central-1"
   },
   {
     "ip_address": "99.78.220.128/27",

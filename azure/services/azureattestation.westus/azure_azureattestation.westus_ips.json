@@ -30,6 +30,18 @@
     "region": "westus"
   },
   {
+    "ip_address": "74.146.25.236/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.WestUS",
+    "region": "westus"
+  },
+  {
+    "ip_address": "74.146.28.8/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.WestUS",
+    "region": "westus"
+  },
+  {
     "ip_address": "2603:1030:a07:9::90/124",
     "ip_type": "IPv6",
     "service": "AzureAttestation.WestUS",

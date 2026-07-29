@@ -1098,6 +1098,18 @@
     "region": "malaysiasouth"
   },
   {
+    "ip_address": "172.197.52.24/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.MalaysiaSouth",
+    "region": "malaysiasouth"
+  },
+  {
+    "ip_address": "172.197.52.144/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.MalaysiaSouth",
+    "region": "malaysiasouth"
+  },
+  {
     "ip_address": "2603:1040:1502::/47",
     "ip_type": "IPv6",
     "service": "AzureCloud.malaysiasouth",
@@ -1395,6 +1407,12 @@
     "ip_address": "2603:1040:1503:8::/119",
     "ip_type": "IPv6",
     "service": "AzureMonitor.MalaysiaSouth",
+    "region": "malaysiasouth"
+  },
+  {
+    "ip_address": "2603:1040:1503:8::2d0/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.MalaysiaSouth",
     "region": "malaysiasouth"
   },
   {

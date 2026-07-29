@@ -6,6 +6,18 @@
     "region": "southeastasia"
   },
   {
+    "ip_address": "4.146.1.68/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "4.146.1.96/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
     "ip_address": "4.193.1.232/29",
     "ip_type": "IPv4",
     "service": "AzureAttestation.SoutheastAsia",

@@ -1140,6 +1140,18 @@
     "region": "malaysiawest"
   },
   {
+    "ip_address": "172.197.225.148/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.MalaysiaWest",
+    "region": "malaysiawest"
+  },
+  {
+    "ip_address": "172.197.225.224/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.MalaysiaWest",
+    "region": "malaysiawest"
+  },
+  {
     "ip_address": "209.199.22.128/27",
     "ip_type": "IPv4",
     "service": "AzureCloud.malaysiawest",

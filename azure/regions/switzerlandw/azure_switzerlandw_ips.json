@@ -1590,9 +1590,21 @@
     "region": "switzerlandw"
   },
   {
+    "ip_address": "57.160.28.156/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
     "ip_address": "57.160.28.160/27",
     "ip_type": "IPv4",
     "service": "Dynamics365ForMarketingEmail.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "57.160.28.200/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.SwitzerlandWest",
     "region": "switzerlandw"
   },
   {

@@ -1,4 +1,6 @@
 ip_address,ip_type,service,region
+4.240.196.92/30,IPv4,AzureAttestation.JioIndiaCentral,jioindiacentral
+4.240.196.208/29,IPv4,AzureAttestation.JioIndiaCentral,jioindiacentral
 20.192.231.240/30,IPv4,AzureAttestation.JioIndiaCentral,jioindiacentral
 20.192.238.188/30,IPv4,AzureAttestation.JioIndiaCentral,jioindiacentral
 20.207.24.148/30,IPv4,AzureAttestation.JioIndiaCentral,jioindiacentral

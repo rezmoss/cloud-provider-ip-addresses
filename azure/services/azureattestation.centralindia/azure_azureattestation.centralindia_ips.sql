@@ -8,6 +8,8 @@ CREATE TABLE IF NOT EXISTS `azure_azureattestation.centralindia_ips` (
 
 INSERT INTO `azure_azureattestation.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('4.188.30.180/30', 'IPv4');
 INSERT INTO `azure_azureattestation.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('4.188.30.184/29', 'IPv4');
+INSERT INTO `azure_azureattestation.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('4.188.132.24/29', 'IPv4');
+INSERT INTO `azure_azureattestation.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('4.188.132.32/30', 'IPv4');
 INSERT INTO `azure_azureattestation.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('4.247.186.56/29', 'IPv4');
 INSERT INTO `azure_azureattestation.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('20.43.123.196/30', 'IPv4');
 INSERT INTO `azure_azureattestation.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('20.192.43.76/30', 'IPv4');

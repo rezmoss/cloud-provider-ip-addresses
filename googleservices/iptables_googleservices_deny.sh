@@ -1,6 +1,6 @@
 #!/bin/bash
 # Googleservices IP Ranges
-# Updated: 2026-07-26 03:12:03
+# Updated: 2026-07-29 03:09:43
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -90,9 +90,7 @@ iptables -A INPUT -s 34.124.96.0/20 -j DROP
 iptables -A INPUT -s 34.126.0.0/18 -j DROP
 iptables -A INPUT -s 34.126.224.0/19 -j DROP
 iptables -A INPUT -s 34.127.128.0/20 -j DROP
-iptables -A INPUT -s 34.127.144.0/24 -j DROP
-iptables -A INPUT -s 34.127.147.0/24 -j DROP
-iptables -A INPUT -s 34.127.148.0/22 -j DROP
+iptables -A INPUT -s 34.127.144.0/21 -j DROP
 iptables -A INPUT -s 34.127.152.0/22 -j DROP
 iptables -A INPUT -s 34.127.176.0/24 -j DROP
 iptables -A INPUT -s 34.127.181.0/24 -j DROP

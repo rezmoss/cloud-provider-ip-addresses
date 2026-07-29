@@ -4248,6 +4248,18 @@
     "region": "uksouth"
   },
   {
+    "ip_address": "172.165.36.212/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "172.165.36.216/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.UKSouth",
+    "region": "uksouth"
+  },
+  {
     "ip_address": "172.165.40.0/31",
     "ip_type": "IPv4",
     "service": "AzureDevOps.UKSouth",

@@ -24,6 +24,18 @@
     "region": "eastus3"
   },
   {
+    "ip_address": "51.57.199.0/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.EastUS3",
+    "region": "eastus3"
+  },
+  {
+    "ip_address": "51.57.199.8/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.EastUS3",
+    "region": "eastus3"
+  },
+  {
     "ip_address": "134.138.64.20/30",
     "ip_type": "IPv4",
     "service": "AzureAttestation.EastUS3",

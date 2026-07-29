@@ -654,6 +654,18 @@
     "region": "northcentralus"
   },
   {
+    "ip_address": "20.66.224.32/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.NorthCentralUS",
+    "region": "northcentralus"
+  },
+  {
+    "ip_address": "20.66.224.40/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.NorthCentralUS",
+    "region": "northcentralus"
+  },
+  {
     "ip_address": "20.72.32.0/19",
     "ip_type": "IPv4",
     "service": "AzureCloud.northcentralus",

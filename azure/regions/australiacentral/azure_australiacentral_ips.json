@@ -1266,6 +1266,18 @@
     "region": "australiacentral"
   },
   {
+    "ip_address": "74.147.19.128/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.AustraliaCentral",
+    "region": "australiacentral"
+  },
+  {
+    "ip_address": "74.147.19.136/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.AustraliaCentral",
+    "region": "australiacentral"
+  },
+  {
     "ip_address": "2603:1010:300::/47",
     "ip_type": "IPv6",
     "service": "AzureCloud.australiacentral",

@@ -24,12 +24,6 @@
     "region": "centraluseuap"
   },
   {
-    "ip_address": "40.122.0.16/28",
-    "ip_type": "IPv4",
-    "service": "DataFactory.CentralUSEUAP",
-    "region": "centraluseuap"
-  },
-  {
     "ip_address": "52.176.232.16/28",
     "ip_type": "IPv4",
     "service": "DataFactory.CentralUSEUAP",

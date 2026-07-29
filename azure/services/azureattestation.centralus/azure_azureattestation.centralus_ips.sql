@@ -10,4 +10,6 @@ INSERT INTO `azure_azureattestation.centralus_ips` (`ip_address`, `ip_type`) VAL
 INSERT INTO `azure_azureattestation.centralus_ips` (`ip_address`, `ip_type`) VALUES ('20.44.12.140/30', 'IPv4');
 INSERT INTO `azure_azureattestation.centralus_ips` (`ip_address`, `ip_type`) VALUES ('57.167.118.28/30', 'IPv4');
 INSERT INTO `azure_azureattestation.centralus_ips` (`ip_address`, `ip_type`) VALUES ('57.167.118.32/29', 'IPv4');
+INSERT INTO `azure_azureattestation.centralus_ips` (`ip_address`, `ip_type`) VALUES ('57.175.115.20/30', 'IPv4');
+INSERT INTO `azure_azureattestation.centralus_ips` (`ip_address`, `ip_type`) VALUES ('57.175.115.24/29', 'IPv4');
 INSERT INTO `azure_azureattestation.centralus_ips` (`ip_address`, `ip_type`) VALUES ('172.170.180.48/29', 'IPv4');

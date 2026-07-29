@@ -138,6 +138,18 @@
     "region": "southafricanorth"
   },
   {
+    "ip_address": "4.222.1.64/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "4.222.1.72/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
     "ip_address": "4.222.192.112/28",
     "ip_type": "IPv4",
     "service": "LogicApps.SouthAfricaNorth",

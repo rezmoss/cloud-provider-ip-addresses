@@ -30,6 +30,18 @@
     "region": "southindia"
   },
   {
+    "ip_address": "4.247.40.40/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "4.247.40.64/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.SouthIndia",
+    "region": "southindia"
+  },
+  {
     "ip_address": "13.71.64.0/18",
     "ip_type": "IPv4",
     "service": "AzureCloud.southindia",

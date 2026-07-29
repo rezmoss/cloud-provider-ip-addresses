@@ -96,6 +96,24 @@
     "region": "northeastus5"
   },
   {
+    "ip_address": "74.149.5.108/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "74.149.6.40/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "74.149.6.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
     "ip_address": "135.130.98.0/23",
     "ip_type": "IPv4",
     "service": "AzureCloud.northeastus5",
@@ -865,6 +883,18 @@
   },
   {
     "ip_address": "2603:1030:1602:5::200/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1602:5::530/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1602:5::5c0/122",
     "ip_type": "IPv6",
     "service": "AzureMonitor.NortheastUS5",
     "region": "northeastus5"

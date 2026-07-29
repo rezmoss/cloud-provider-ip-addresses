@@ -4,3 +4,5 @@ ip_address,ip_type,service,region
 48.195.234.216/29,IPv4,AzureAttestation.EastUS,eastus
 57.162.213.168/29,IPv4,AzureAttestation.EastUS,eastus
 57.162.213.176/30,IPv4,AzureAttestation.EastUS,eastus
+74.151.230.0/29,IPv4,AzureAttestation.EastUS,eastus
+74.151.230.8/30,IPv4,AzureAttestation.EastUS,eastus

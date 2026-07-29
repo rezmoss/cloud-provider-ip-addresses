@@ -1,4 +1,6 @@
 ip_address,ip_type,service,region
+4.170.15.188/30,IPv4,AzureAttestation.QatarCentral,qatarcentral
+4.170.28.32/29,IPv4,AzureAttestation.QatarCentral,qatarcentral
 20.21.32.44/30,IPv4,AzureAttestation.QatarCentral,qatarcentral
 20.173.219.236/30,IPv4,AzureAttestation.QatarCentral,qatarcentral
 20.173.220.40/29,IPv4,AzureAttestation.QatarCentral,qatarcentral

@@ -18,6 +18,18 @@
     "region": "centralfrance"
   },
   {
+    "ip_address": "4.212.7.196/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "4.212.7.200/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
     "ip_address": "40.79.141.132/30",
     "ip_type": "IPv4",
     "service": "AzureAttestation.FranceCentral",

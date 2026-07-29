@@ -544,6 +544,7 @@ ip_address,ip_type,service,region
 16.170.0.0/15,IPv4,EC2,eu-north-1
 16.174.0.0/16,IPv4,EC2,ca-west-1
 16.176.0.0/16,IPv4,EC2,ap-southeast-2
+16.178.0.0/15,IPv4,EC2,ap-southeast-2
 16.180.0.0/16,IPv4,EC2,me-south-1
 16.184.0.0/18,IPv4,EC2,ap-northeast-2
 16.192.0.0/16,IPv4,EC2,eu-north-1

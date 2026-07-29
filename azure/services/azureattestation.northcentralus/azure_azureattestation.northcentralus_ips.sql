@@ -10,5 +10,7 @@ INSERT INTO `azure_azureattestation.northcentralus_ips` (`ip_address`, `ip_type`
 INSERT INTO `azure_azureattestation.northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('20.59.214.128/29', 'IPv4');
 INSERT INTO `azure_azureattestation.northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('20.66.143.200/29', 'IPv4');
 INSERT INTO `azure_azureattestation.northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('20.66.143.208/30', 'IPv4');
+INSERT INTO `azure_azureattestation.northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('20.66.224.32/29', 'IPv4');
+INSERT INTO `azure_azureattestation.northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('20.66.224.40/30', 'IPv4');
 INSERT INTO `azure_azureattestation.northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('52.162.111.140/30', 'IPv4');
 INSERT INTO `azure_azureattestation.northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:608:3::650/124', 'IPv6');

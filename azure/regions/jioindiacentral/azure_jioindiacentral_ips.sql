@@ -21,6 +21,8 @@ INSERT INTO `azure_jioindiacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.240
 INSERT INTO `azure_jioindiacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.240.184.0/22', 'IPv4');
 INSERT INTO `azure_jioindiacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.240.188.0/24', 'IPv4');
 INSERT INTO `azure_jioindiacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.240.189.0/27', 'IPv4');
+INSERT INTO `azure_jioindiacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.240.196.92/30', 'IPv4');
+INSERT INTO `azure_jioindiacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.240.196.208/29', 'IPv4');
 INSERT INTO `azure_jioindiacentral_ips` (`ip_address`, `ip_type`) VALUES ('20.60.170.0/23', 'IPv4');
 INSERT INTO `azure_jioindiacentral_ips` (`ip_address`, `ip_type`) VALUES ('20.60.170.0/23', 'IPv4');
 INSERT INTO `azure_jioindiacentral_ips` (`ip_address`, `ip_type`) VALUES ('20.135.38.0/23', 'IPv4');

@@ -1,6 +1,6 @@
 #!/bin/bash
 # Gcore IP Ranges
-# Updated: 2026-07-28 03:16:07
+# Updated: 2026-07-29 03:15:45
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -467,7 +467,6 @@ iptables -A INPUT -s 139.28.7.5/32 -j DROP
 iptables -A INPUT -s 139.28.7.6/32 -j DROP
 iptables -A INPUT -s 139.28.7.8/32 -j DROP
 iptables -A INPUT -s 143.137.230.226/32 -j DROP
-iptables -A INPUT -s 149.3.216.66/32 -j DROP
 iptables -A INPUT -s 150.107.126.4/31 -j DROP
 iptables -A INPUT -s 151.248.104.69/32 -j DROP
 iptables -A INPUT -s 151.248.104.91/32 -j DROP
@@ -549,7 +548,8 @@ iptables -A INPUT -s 200.24.129.98/31 -j DROP
 iptables -A INPUT -s 200.24.129.100/32 -j DROP
 iptables -A INPUT -s 202.129.236.162/32 -j DROP
 iptables -A INPUT -s 212.47.156.34/31 -j DROP
-iptables -A INPUT -s 212.47.156.36/32 -j DROP
+iptables -A INPUT -s 212.47.156.36/30 -j DROP
+iptables -A INPUT -s 212.47.156.40/31 -j DROP
 iptables -A INPUT -s 212.65.33.11/32 -j DROP
 iptables -A INPUT -s 212.96.94.58/32 -j DROP
 iptables -A INPUT -s 212.232.103.11/32 -j DROP
@@ -1013,8 +1013,8 @@ ip6tables -A INPUT -s 2a03:90c0:7e1:2801::4/126 -j DROP
 ip6tables -A INPUT -s 2a03:90c0:801:2801::4/126 -j DROP
 ip6tables -A INPUT -s 2a03:c343:1::12/128 -j DROP
 ip6tables -A INPUT -s 2a04:2e80:5:7::162/127 -j DROP
-ip6tables -A INPUT -s 2a05:8200::34/127 -j DROP
-ip6tables -A INPUT -s 2a05:8200::36/128 -j DROP
+ip6tables -A INPUT -s 2a05:8200::34/126 -j DROP
+ip6tables -A INPUT -s 2a05:8200::38/126 -j DROP
 ip6tables -A INPUT -s 2a0b:1880:7::102/128 -j DROP
 ip6tables -A INPUT -s 2a0b:6200:60:f::229/128 -j DROP
 ip6tables -A INPUT -s 2a0b:6200:60:f::231/128 -j DROP

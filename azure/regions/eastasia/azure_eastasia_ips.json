@@ -816,6 +816,18 @@
     "region": "eastasia"
   },
   {
+    "ip_address": "20.6.204.120/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.6.204.128/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.EastAsia",
+    "region": "eastasia"
+  },
+  {
     "ip_address": "20.6.243.0/26",
     "ip_type": "IPv4",
     "service": "PowerBI.EastAsia",

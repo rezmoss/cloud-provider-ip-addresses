@@ -552,9 +552,21 @@
     "region": "southafricawest"
   },
   {
+    "ip_address": "74.160.11.204/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.SouthAfricaWest",
+    "region": "southafricawest"
+  },
+  {
     "ip_address": "74.160.11.224/27",
     "ip_type": "IPv4",
     "service": "Dynamics365ForMarketingEmail.SouthAfricaWest",
+    "region": "southafricawest"
+  },
+  {
+    "ip_address": "74.160.16.104/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.SouthAfricaWest",
     "region": "southafricawest"
   },
   {

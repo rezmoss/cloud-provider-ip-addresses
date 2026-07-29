@@ -42,6 +42,7 @@ ip_address,ip_type,service,region
 104.96.179.0/24,IPv4,akamai-as33905,global
 104.96.180.0/24,IPv4,akamai-as33905,global
 104.96.181.0/24,IPv4,akamai-as33905,global
+104.107.211.0/24,IPv4,akamai-as33905,global
 104.109.10.0/24,IPv4,akamai-as33905,global
 104.109.11.0/24,IPv4,akamai-as33905,global
 104.109.12.0/24,IPv4,akamai-as33905,global

@@ -28,5 +28,17 @@
     "ip_type": "IPv4",
     "service": "AzureAttestation.WestCentralUS",
     "region": "westcentralus"
+  },
+  {
+    "ip_address": "74.159.0.252/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "74.159.1.80/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.WestCentralUS",
+    "region": "westcentralus"
   }
 ]

@@ -1998,6 +1998,12 @@
     "region": "eastus2"
   },
   {
+    "ip_address": "20.143.222.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.eastus2",
+    "region": "eastus2"
+  },
+  {
     "ip_address": "20.150.29.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.eastus2",
@@ -9861,6 +9867,24 @@
     "ip_address": "74.157.84.16/29",
     "ip_type": "IPv4",
     "service": "ApiManagement.EastUS2",
+    "region": "eastus2"
+  },
+  {
+    "ip_address": "74.157.87.96/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.EastUS2",
+    "region": "eastus2"
+  },
+  {
+    "ip_address": "74.157.87.104/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.EastUS2",
+    "region": "eastus2"
+  },
+  {
+    "ip_address": "74.159.128.0/17",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.eastus2",
     "region": "eastus2"
   },
   {

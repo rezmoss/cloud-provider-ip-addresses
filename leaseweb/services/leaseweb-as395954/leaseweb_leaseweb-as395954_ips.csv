@@ -173,6 +173,7 @@ ip_address,ip_type,service,region
 174.34.140.0/23,IPv4,leaseweb-as395954,global
 174.34.142.0/23,IPv4,leaseweb-as395954,global
 174.34.182.0/23,IPv4,leaseweb-as395954,global
+177.28.2.0/24,IPv4,leaseweb-as395954,global
 185.202.175.0/24,IPv4,leaseweb-as395954,global
 188.93.138.0/24,IPv4,leaseweb-as395954,global
 191.96.117.0/24,IPv4,leaseweb-as395954,global

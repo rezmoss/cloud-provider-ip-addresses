@@ -42,6 +42,18 @@
     "region": "global"
   },
   {
+    "ip_address": "45.130.126.0/24",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as394380",
+    "region": "global"
+  },
+  {
+    "ip_address": "45.154.59.0/24",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as394380",
+    "region": "global"
+  },
+  {
     "ip_address": "46.202.227.0/24",
     "ip_type": "IPv4",
     "service": "leaseweb-as394380",
@@ -283,6 +295,18 @@
   },
   {
     "ip_address": "174.34.132.0/22",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as394380",
+    "region": "global"
+  },
+  {
+    "ip_address": "192.166.81.0/24",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as394380",
+    "region": "global"
+  },
+  {
+    "ip_address": "193.8.234.0/24",
     "ip_type": "IPv4",
     "service": "leaseweb-as394380",
     "region": "global"

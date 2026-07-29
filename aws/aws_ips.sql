@@ -3617,6 +3617,7 @@ INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('16.176.35.128/25', 'IPv
 INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('16.176.69.0/25', 'IPv4');
 INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('16.177.0.0/16', 'IPv4');
 INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('16.178.0.0/15', 'IPv4');
+INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('16.178.0.0/15', 'IPv4');
 INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('16.180.0.0/16', 'IPv4');
 INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('16.180.0.0/16', 'IPv4');
 INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('16.181.0.0/16', 'IPv4');
@@ -8469,6 +8470,8 @@ INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('69.107.13.16/29', 'IPv4
 INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('69.107.13.24/29', 'IPv4');
 INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('69.107.13.32/29', 'IPv4');
 INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('69.107.13.40/29', 'IPv4');
+INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('69.107.13.48/29', 'IPv4');
+INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('69.107.13.56/29', 'IPv4');
 INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('69.230.192.0/18', 'IPv4');
 INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('69.230.192.0/18', 'IPv4');
 INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('69.230.219.0/24', 'IPv4');
@@ -8940,7 +8943,6 @@ INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('99.78.220.0/27', 'IPv4'
 INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('99.78.220.32/27', 'IPv4');
 INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('99.78.220.65/32', 'IPv4');
 INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('99.78.220.66/32', 'IPv4');
-INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('99.78.220.96/27', 'IPv4');
 INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('99.78.220.128/27', 'IPv4');
 INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('99.78.220.160/27', 'IPv4');
 INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('99.78.228.0/22', 'IPv4');

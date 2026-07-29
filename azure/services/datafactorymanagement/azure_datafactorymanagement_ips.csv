@@ -201,7 +201,6 @@ ip_address,ip_type,service,region
 40.120.9.192/28,IPv4,DataFactoryManagement,
 40.120.64.112/28,IPv4,DataFactoryManagement,
 40.120.75.112/28,IPv4,DataFactoryManagement,
-40.122.0.16/28,IPv4,DataFactoryManagement,
 48.196.97.224/28,IPv4,DataFactoryManagement,
 48.196.98.128/27,IPv4,DataFactoryManagement,
 48.197.89.112/28,IPv4,DataFactoryManagement,

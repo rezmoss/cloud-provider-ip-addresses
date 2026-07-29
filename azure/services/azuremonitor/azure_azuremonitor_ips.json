@@ -6312,6 +6312,12 @@
     "region": ""
   },
   {
+    "ip_address": "48.197.144.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor",
+    "region": ""
+  },
+  {
     "ip_address": "48.198.101.192/28",
     "ip_type": "IPv4",
     "service": "AzureMonitor",
@@ -6331,6 +6337,12 @@
   },
   {
     "ip_address": "48.198.102.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor",
+    "region": ""
+  },
+  {
+    "ip_address": "48.198.154.128/26",
     "ip_type": "IPv4",
     "service": "AzureMonitor",
     "region": ""
@@ -9378,6 +9390,12 @@
     "region": ""
   },
   {
+    "ip_address": "74.149.6.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor",
+    "region": ""
+  },
+  {
     "ip_address": "74.151.8.0/26",
     "ip_type": "IPv4",
     "service": "AzureMonitor",
@@ -10843,6 +10861,18 @@
   },
   {
     "ip_address": "172.198.239.96/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor",
+    "region": ""
+  },
+  {
+    "ip_address": "172.198.239.176/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor",
+    "region": ""
+  },
+  {
+    "ip_address": "172.198.244.96/27",
     "ip_type": "IPv4",
     "service": "AzureMonitor",
     "region": ""
@@ -15636,6 +15666,12 @@
     "region": ""
   },
   {
+    "ip_address": "2603:1030:1602:5::5c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor",
+    "region": ""
+  },
+  {
     "ip_address": "2603:1030:1602:5::600/119",
     "ip_type": "IPv6",
     "service": "AzureMonitor",
@@ -17358,6 +17394,12 @@
     "region": ""
   },
   {
+    "ip_address": "2603:1040:1a02:5::680/122",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor",
+    "region": ""
+  },
+  {
     "ip_address": "2603:1040:1b02:3::2c0/122",
     "ip_type": "IPv6",
     "service": "AzureMonitor",
@@ -17377,6 +17419,12 @@
   },
   {
     "ip_address": "2603:1040:1b02:5::/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1040:1b02:5::340/122",
     "ip_type": "IPv6",
     "service": "AzureMonitor",
     "region": ""

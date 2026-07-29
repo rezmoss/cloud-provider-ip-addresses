@@ -1,5 +1,17 @@
 [
   {
+    "ip_address": "4.170.15.188/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
+    "ip_address": "4.170.28.32/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
     "ip_address": "20.21.32.44/30",
     "ip_type": "IPv4",
     "service": "AzureAttestation.QatarCentral",

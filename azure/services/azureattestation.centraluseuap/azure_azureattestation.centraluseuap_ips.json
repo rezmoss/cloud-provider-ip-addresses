@@ -6,6 +6,12 @@
     "region": "centraluseuap"
   },
   {
+    "ip_address": "57.173.52.76/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.CentralUSEUAP",
+    "region": "centraluseuap"
+  },
+  {
     "ip_address": "134.138.246.140/30",
     "ip_type": "IPv4",
     "service": "AzureAttestation.CentralUSEUAP",

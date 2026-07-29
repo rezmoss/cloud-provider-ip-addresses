@@ -6,6 +6,18 @@
     "region": "southwestus"
   },
   {
+    "ip_address": "48.219.89.92/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.SouthwestUS",
+    "region": "southwestus"
+  },
+  {
+    "ip_address": "48.219.90.24/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.SouthwestUS",
+    "region": "southwestus"
+  },
+  {
     "ip_address": "48.219.192.20/30",
     "ip_type": "IPv4",
     "service": "AzureAttestation.SouthwestUS",
@@ -19,6 +31,12 @@
   },
   {
     "ip_address": "2603:1030:1202::540/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.SouthwestUS",
+    "region": "southwestus"
+  },
+  {
+    "ip_address": "2603:1030:1202:5::7b0/124",
     "ip_type": "IPv6",
     "service": "AzureAttestation.SouthwestUS",
     "region": "southwestus"

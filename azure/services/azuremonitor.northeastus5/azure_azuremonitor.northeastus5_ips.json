@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "74.149.6.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
     "ip_address": "172.194.81.104/29",
     "ip_type": "IPv4",
     "service": "AzureMonitor.NortheastUS5",
@@ -67,6 +73,12 @@
   },
   {
     "ip_address": "2603:1030:1602:5::200/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.NortheastUS5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1030:1602:5::5c0/122",
     "ip_type": "IPv6",
     "service": "AzureMonitor.NortheastUS5",
     "region": "northeastus5"

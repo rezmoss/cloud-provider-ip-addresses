@@ -11,4 +11,6 @@ INSERT INTO `azure_azureattestation.westus3_ips` (`ip_address`, `ip_type`) VALUE
 INSERT INTO `azure_azureattestation.westus3_ips` (`ip_address`, `ip_type`) VALUES ('20.150.174.132/30', 'IPv4');
 INSERT INTO `azure_azureattestation.westus3_ips` (`ip_address`, `ip_type`) VALUES ('20.150.244.32/30', 'IPv4');
 INSERT INTO `azure_azureattestation.westus3_ips` (`ip_address`, `ip_type`) VALUES ('20.172.72.240/29', 'IPv4');
+INSERT INTO `azure_azureattestation.westus3_ips` (`ip_address`, `ip_type`) VALUES ('172.182.41.228/30', 'IPv4');
+INSERT INTO `azure_azureattestation.westus3_ips` (`ip_address`, `ip_type`) VALUES ('172.182.44.40/29', 'IPv4');
 INSERT INTO `azure_azureattestation.westus3_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:504:2::a0/123', 'IPv6');

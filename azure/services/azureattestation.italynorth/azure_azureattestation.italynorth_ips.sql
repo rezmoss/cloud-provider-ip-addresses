@@ -10,4 +10,6 @@ INSERT INTO `azure_azureattestation.italynorth_ips` (`ip_address`, `ip_type`) VA
 INSERT INTO `azure_azureattestation.italynorth_ips` (`ip_address`, `ip_type`) VALUES ('9.235.70.112/29', 'IPv4');
 INSERT INTO `azure_azureattestation.italynorth_ips` (`ip_address`, `ip_type`) VALUES ('9.235.188.108/30', 'IPv4');
 INSERT INTO `azure_azureattestation.italynorth_ips` (`ip_address`, `ip_type`) VALUES ('9.235.190.232/29', 'IPv4');
+INSERT INTO `azure_azureattestation.italynorth_ips` (`ip_address`, `ip_type`) VALUES ('9.235.245.180/30', 'IPv4');
+INSERT INTO `azure_azureattestation.italynorth_ips` (`ip_address`, `ip_type`) VALUES ('9.235.245.184/29', 'IPv4');
 INSERT INTO `azure_azureattestation.italynorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1204::5e0/124', 'IPv6');

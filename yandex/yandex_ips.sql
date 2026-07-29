@@ -114,6 +114,7 @@ INSERT INTO `yandex_ips` (`ip_address`, `ip_type`) VALUES ('188.72.113.0/24', 'I
 INSERT INTO `yandex_ips` (`ip_address`, `ip_type`) VALUES ('193.32.216.0/22', 'IPv4');
 INSERT INTO `yandex_ips` (`ip_address`, `ip_type`) VALUES ('193.32.216.0/24', 'IPv4');
 INSERT INTO `yandex_ips` (`ip_address`, `ip_type`) VALUES ('194.247.51.0/24', 'IPv4');
+INSERT INTO `yandex_ips` (`ip_address`, `ip_type`) VALUES ('201.50.118.0/24', 'IPv4');
 INSERT INTO `yandex_ips` (`ip_address`, `ip_type`) VALUES ('213.130.80.0/21', 'IPv4');
 INSERT INTO `yandex_ips` (`ip_address`, `ip_type`) VALUES ('213.165.192.0/19', 'IPv4');
 INSERT INTO `yandex_ips` (`ip_address`, `ip_type`) VALUES ('213.165.196.0/22', 'IPv4');

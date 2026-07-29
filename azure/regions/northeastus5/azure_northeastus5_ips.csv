@@ -15,6 +15,9 @@ ip_address,ip_type,service,region
 57.163.4.0/23,IPv4,AzureCloud.northeastus5,northeastus5
 57.163.4.0/23,IPv4,Storage.NortheastUS5,northeastus5
 74.149.0.0/17,IPv4,AzureCloud.northeastus5,northeastus5
+74.149.5.108/30,IPv4,AzureAttestation.NortheastUS5,northeastus5
+74.149.6.40/29,IPv4,AzureAttestation.NortheastUS5,northeastus5
+74.149.6.192/26,IPv4,AzureMonitor.NortheastUS5,northeastus5
 135.130.98.0/23,IPv4,AzureCloud.northeastus5,northeastus5
 135.130.98.0/23,IPv4,Storage.NortheastUS5,northeastus5
 135.130.100.0/24,IPv4,AzureCloud.northeastus5,northeastus5
@@ -144,6 +147,8 @@ ip_address,ip_type,service,region
 2603:1030:1602:3::620/123,IPv6,LogicApps.NortheastUS5,northeastus5
 2603:1030:1602:3::6c0/122,IPv6,PowerQueryOnline.NortheastUS5,northeastus5
 2603:1030:1602:5::200/119,IPv6,AzureMonitor.NortheastUS5,northeastus5
+2603:1030:1602:5::530/124,IPv6,AzureAttestation.NortheastUS5,northeastus5
+2603:1030:1602:5::5c0/122,IPv6,AzureMonitor.NortheastUS5,northeastus5
 2603:1030:1602:5::600/119,IPv6,AzureMonitor.NortheastUS5,northeastus5
 2603:1030:1602:400::/125,IPv6,AzureContainerRegistry.NortheastUS5,northeastus5
 2603:1030:1602:400::8/125,IPv6,AzureKeyVault.NortheastUS5,northeastus5

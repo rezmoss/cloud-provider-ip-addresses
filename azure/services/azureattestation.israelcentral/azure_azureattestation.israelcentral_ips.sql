@@ -10,4 +10,6 @@ INSERT INTO `azure_azureattestation.israelcentral_ips` (`ip_address`, `ip_type`)
 INSERT INTO `azure_azureattestation.israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('51.58.49.24/29', 'IPv4');
 INSERT INTO `azure_azureattestation.israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('51.58.78.80/29', 'IPv4');
 INSERT INTO `azure_azureattestation.israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('51.58.78.88/30', 'IPv4');
+INSERT INTO `azure_azureattestation.israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('51.58.109.124/30', 'IPv4');
+INSERT INTO `azure_azureattestation.israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('51.58.110.48/29', 'IPv4');
 INSERT INTO `azure_azureattestation.israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1402::620/124', 'IPv6');

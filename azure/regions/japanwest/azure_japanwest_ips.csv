@@ -504,6 +504,8 @@ ip_address,ip_type,service,region
 172.192.224.0/24,IPv4,PowerPlatformInfra.JapanWest,japanwest
 172.192.225.96/30,IPv4,ApiManagement.JapanWest,japanwest
 172.192.225.100/31,IPv4,ApiManagement.JapanWest,japanwest
+172.192.225.104/29,IPv4,AzureAttestation.JapanWest,japanwest
+172.192.225.144/30,IPv4,AzureAttestation.JapanWest,japanwest
 191.233.32.0/20,IPv4,AzureCloud.japanwest,japanwest
 191.237.236.0/24,IPv4,AzureCloud.japanwest,japanwest
 191.238.68.0/24,IPv4,AzureCloud.japanwest,japanwest

@@ -6,6 +6,7 @@ CREATE TABLE IF NOT EXISTS `azure_azuremonitor.northeastus5_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_azuremonitor.northeastus5_ips` (`ip_address`, `ip_type`) VALUES ('74.149.6.192/26', 'IPv4');
 INSERT INTO `azure_azuremonitor.northeastus5_ips` (`ip_address`, `ip_type`) VALUES ('172.194.81.104/29', 'IPv4');
 INSERT INTO `azure_azuremonitor.northeastus5_ips` (`ip_address`, `ip_type`) VALUES ('172.194.82.224/29', 'IPv4');
 INSERT INTO `azure_azuremonitor.northeastus5_ips` (`ip_address`, `ip_type`) VALUES ('172.194.82.232/31', 'IPv4');
@@ -18,4 +19,5 @@ INSERT INTO `azure_azuremonitor.northeastus5_ips` (`ip_address`, `ip_type`) VALU
 INSERT INTO `azure_azuremonitor.northeastus5_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1602:3::280/121', 'IPv6');
 INSERT INTO `azure_azuremonitor.northeastus5_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1602:3::300/121', 'IPv6');
 INSERT INTO `azure_azuremonitor.northeastus5_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1602:5::200/119', 'IPv6');
+INSERT INTO `azure_azuremonitor.northeastus5_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1602:5::5c0/122', 'IPv6');
 INSERT INTO `azure_azuremonitor.northeastus5_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1602:5::600/119', 'IPv6');

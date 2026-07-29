@@ -107,6 +107,7 @@ ip_address,ip_type,service,region
 193.32.216.0/22,IPv4,yandex-as200350,global
 193.32.216.0/24,IPv4,yandex-as200350,global
 194.247.51.0/24,IPv4,yandex-as200350,global
+201.50.118.0/24,IPv4,yandex-as210656,global
 213.130.80.0/21,IPv4,yandex-as200350,global
 213.165.192.0/19,IPv4,yandex-as200350,global
 213.165.196.0/22,IPv4,yandex-as200350,global

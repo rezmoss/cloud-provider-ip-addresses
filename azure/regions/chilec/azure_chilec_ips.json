@@ -1050,6 +1050,18 @@
     "region": "chilec"
   },
   {
+    "ip_address": "68.211.204.36/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.ChileCentral",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "68.211.204.40/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.ChileCentral",
+    "region": "chilec"
+  },
+  {
     "ip_address": "70.152.213.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.chilec",

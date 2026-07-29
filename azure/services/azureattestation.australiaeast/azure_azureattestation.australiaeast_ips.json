@@ -28,5 +28,17 @@
     "ip_type": "IPv4",
     "service": "AzureAttestation.AustraliaEast",
     "region": "australiaeast"
+  },
+  {
+    "ip_address": "51.56.214.240/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "51.56.214.248/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.AustraliaEast",
+    "region": "australiaeast"
   }
 ]

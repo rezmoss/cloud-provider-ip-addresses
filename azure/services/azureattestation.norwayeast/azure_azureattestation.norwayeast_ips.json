@@ -6,6 +6,18 @@
     "region": "norwaye"
   },
   {
+    "ip_address": "4.177.57.140/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.NorwayEast",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "4.177.57.176/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.NorwayEast",
+    "region": "norwaye"
+  },
+  {
     "ip_address": "4.219.29.176/29",
     "ip_type": "IPv4",
     "service": "AzureAttestation.NorwayEast",

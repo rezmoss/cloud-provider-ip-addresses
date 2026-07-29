@@ -72,6 +72,18 @@
     "region": "brazilse"
   },
   {
+    "ip_address": "4.238.32.4/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
+    "ip_address": "4.238.32.8/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.BrazilSoutheast",
+    "region": "brazilse"
+  },
+  {
     "ip_address": "13.105.27.128/27",
     "ip_type": "IPv4",
     "service": "AzureCloud.brazilse",

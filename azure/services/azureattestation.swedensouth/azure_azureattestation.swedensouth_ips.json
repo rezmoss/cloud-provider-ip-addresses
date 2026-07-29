@@ -24,6 +24,18 @@
     "region": "swedensouth"
   },
   {
+    "ip_address": "74.241.69.100/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.SwedenSouth",
+    "region": "swedensouth"
+  },
+  {
+    "ip_address": "74.241.69.104/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.SwedenSouth",
+    "region": "swedensouth"
+  },
+  {
     "ip_address": "2603:1020:1104:1::3e0/123",
     "ip_type": "IPv6",
     "service": "AzureAttestation.SwedenSouth",

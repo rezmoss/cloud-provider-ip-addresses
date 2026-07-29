@@ -11,4 +11,6 @@ INSERT INTO `azure_azureattestation.francesouth_ips` (`ip_address`, `ip_type`) V
 INSERT INTO `azure_azureattestation.francesouth_ips` (`ip_address`, `ip_type`) VALUES ('52.136.184.232/30', 'IPv4');
 INSERT INTO `azure_azureattestation.francesouth_ips` (`ip_address`, `ip_type`) VALUES ('98.66.8.88/29', 'IPv4');
 INSERT INTO `azure_azureattestation.francesouth_ips` (`ip_address`, `ip_type`) VALUES ('98.66.8.160/30', 'IPv4');
+INSERT INTO `azure_azureattestation.francesouth_ips` (`ip_address`, `ip_type`) VALUES ('98.66.37.232/29', 'IPv4');
+INSERT INTO `azure_azureattestation.francesouth_ips` (`ip_address`, `ip_type`) VALUES ('98.66.38.0/30', 'IPv4');
 INSERT INTO `azure_azureattestation.francesouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:905:2::760/124', 'IPv6');

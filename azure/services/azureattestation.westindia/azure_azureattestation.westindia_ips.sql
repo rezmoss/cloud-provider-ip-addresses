@@ -11,4 +11,6 @@ INSERT INTO `azure_azureattestation.westindia_ips` (`ip_address`, `ip_type`) VAL
 INSERT INTO `azure_azureattestation.westindia_ips` (`ip_address`, `ip_type`) VALUES ('57.159.150.128/29', 'IPv4');
 INSERT INTO `azure_azureattestation.westindia_ips` (`ip_address`, `ip_type`) VALUES ('57.159.158.32/29', 'IPv4');
 INSERT INTO `azure_azureattestation.westindia_ips` (`ip_address`, `ip_type`) VALUES ('57.159.172.4/30', 'IPv4');
+INSERT INTO `azure_azureattestation.westindia_ips` (`ip_address`, `ip_type`) VALUES ('57.159.197.100/30', 'IPv4');
+INSERT INTO `azure_azureattestation.westindia_ips` (`ip_address`, `ip_type`) VALUES ('57.159.197.104/29', 'IPv4');
 INSERT INTO `azure_azureattestation.westindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:806:3::1f0/124', 'IPv6');

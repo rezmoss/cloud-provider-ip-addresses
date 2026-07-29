@@ -22,5 +22,17 @@
     "ip_type": "IPv4",
     "service": "AzureAttestation.SouthCentralUSSTG",
     "region": "usstagec"
+  },
+  {
+    "ip_address": "57.152.172.124/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.SouthCentralUSSTG",
+    "region": "usstagec"
+  },
+  {
+    "ip_address": "57.152.172.224/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.SouthCentralUSSTG",
+    "region": "usstagec"
   }
 ]

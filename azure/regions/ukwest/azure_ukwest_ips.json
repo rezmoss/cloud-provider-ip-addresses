@@ -3144,6 +3144,18 @@
     "region": "ukwest"
   },
   {
+    "ip_address": "172.186.143.108/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "172.186.143.128/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.UKWest",
+    "region": "ukwest"
+  },
+  {
     "ip_address": "172.187.0.0/18",
     "ip_type": "IPv4",
     "service": "AzureCloud.ukwest",

@@ -28,5 +28,17 @@
     "ip_type": "IPv4",
     "service": "AzureAttestation.NorthEurope",
     "region": "northeurope"
+  },
+  {
+    "ip_address": "74.144.85.112/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "74.144.85.120/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.NorthEurope",
+    "region": "northeurope"
   }
 ]

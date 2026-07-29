@@ -9,4 +9,6 @@ CREATE TABLE IF NOT EXISTS `azure_azureattestation.indiasouthcentral_ips` (
 INSERT INTO `azure_azureattestation.indiasouthcentral_ips` (`ip_address`, `ip_type`) VALUES ('172.198.80.20/30', 'IPv4');
 INSERT INTO `azure_azureattestation.indiasouthcentral_ips` (`ip_address`, `ip_type`) VALUES ('172.198.109.200/29', 'IPv4');
 INSERT INTO `azure_azureattestation.indiasouthcentral_ips` (`ip_address`, `ip_type`) VALUES ('172.198.110.16/30', 'IPv4');
+INSERT INTO `azure_azureattestation.indiasouthcentral_ips` (`ip_address`, `ip_type`) VALUES ('172.198.239.88/29', 'IPv4');
+INSERT INTO `azure_azureattestation.indiasouthcentral_ips` (`ip_address`, `ip_type`) VALUES ('172.198.239.160/30', 'IPv4');
 INSERT INTO `azure_azureattestation.indiasouthcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1904::760/124', 'IPv6');

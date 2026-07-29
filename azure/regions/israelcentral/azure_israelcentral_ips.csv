@@ -230,6 +230,8 @@ ip_address,ip_type,service,region
 51.58.84.0/22,IPv4,AzureEventGrid.IsraelCentral,israelcentral
 51.58.88.0/23,IPv4,AzureEventGrid.IsraelCentral,israelcentral
 51.58.96.0/24,IPv4,AzureMonitor.IsraelCentral,israelcentral
+51.58.109.124/30,IPv4,AzureAttestation.IsraelCentral,israelcentral
+51.58.110.48/29,IPv4,AzureAttestation.IsraelCentral,israelcentral
 52.101.172.0/22,IPv4,AzureCloud.israelcentral,israelcentral
 52.102.177.0/24,IPv4,AzureCloud.israelcentral,israelcentral
 52.102.178.0/24,IPv4,AzureCloud.israelcentral,israelcentral

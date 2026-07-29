@@ -135,6 +135,8 @@ ip_address,ip_type,service,region
 20.6.203.30/31,IPv4,ApiManagement.EastAsia,eastasia
 20.6.204.12/30,IPv4,ApiManagement.EastAsia,eastasia
 20.6.204.32/29,IPv4,ApiManagement.EastAsia,eastasia
+20.6.204.120/29,IPv4,AzureAttestation.EastAsia,eastasia
+20.6.204.128/30,IPv4,AzureAttestation.EastAsia,eastasia
 20.6.243.0/26,IPv4,PowerBI.EastAsia,eastasia
 20.6.243.112/29,IPv4,AzureAttestation.EastAsia,eastasia
 20.6.243.120/30,IPv4,AzureAttestation.EastAsia,eastasia

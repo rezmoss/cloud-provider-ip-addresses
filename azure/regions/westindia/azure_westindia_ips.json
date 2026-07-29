@@ -1170,6 +1170,18 @@
     "region": "westindia"
   },
   {
+    "ip_address": "57.159.197.100/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.WestIndia",
+    "region": "westindia"
+  },
+  {
+    "ip_address": "57.159.197.104/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.WestIndia",
+    "region": "westindia"
+  },
+  {
     "ip_address": "70.152.37.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.westindia",

@@ -6,6 +6,8 @@ CREATE TABLE IF NOT EXISTS `azure_azureattestation.qatarcentral_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_azureattestation.qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('4.170.15.188/30', 'IPv4');
+INSERT INTO `azure_azureattestation.qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('4.170.28.32/29', 'IPv4');
 INSERT INTO `azure_azureattestation.qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.21.32.44/30', 'IPv4');
 INSERT INTO `azure_azureattestation.qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.173.219.236/30', 'IPv4');
 INSERT INTO `azure_azureattestation.qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.173.220.40/29', 'IPv4');

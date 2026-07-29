@@ -912,6 +912,12 @@
     "region": "westeurope"
   },
   {
+    "ip_address": "20.201.241.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.westeurope",
+    "region": "westeurope"
+  },
+  {
     "ip_address": "20.202.2.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.westeurope",

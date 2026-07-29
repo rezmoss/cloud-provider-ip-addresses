@@ -106,6 +106,8 @@ INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('9.205.192
 INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('9.205.206.16/28', 'IPv4');
 INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('9.205.206.32/28', 'IPv4');
 INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('9.205.210.184/29', 'IPv4');
+INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('9.205.217.12/30', 'IPv4');
+INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('9.205.217.48/29', 'IPv4');
 INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('20.20.48.224/27', 'IPv4');
 INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('20.20.52.0/27', 'IPv4');
 INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('20.20.55.128/27', 'IPv4');

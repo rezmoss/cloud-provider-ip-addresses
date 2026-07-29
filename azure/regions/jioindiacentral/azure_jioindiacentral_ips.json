@@ -90,6 +90,18 @@
     "region": "jioindiacentral"
   },
   {
+    "ip_address": "4.240.196.92/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.JioIndiaCentral",
+    "region": "jioindiacentral"
+  },
+  {
+    "ip_address": "4.240.196.208/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.JioIndiaCentral",
+    "region": "jioindiacentral"
+  },
+  {
     "ip_address": "20.60.170.0/23",
     "ip_type": "IPv4",
     "service": "AzureCloud.jioindiacentral",

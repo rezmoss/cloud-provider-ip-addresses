@@ -768,6 +768,18 @@
     "region": "taiwannorthwest"
   },
   {
+    "ip_address": "57.170.14.240/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.TaiwanNorthwest",
+    "region": "taiwannorthwest"
+  },
+  {
+    "ip_address": "57.170.14.248/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.TaiwanNorthwest",
+    "region": "taiwannorthwest"
+  },
+  {
     "ip_address": "70.152.229.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.taiwannorthwest",
@@ -1281,6 +1293,12 @@
     "ip_address": "2603:1040:1202:7::/119",
     "ip_type": "IPv6",
     "service": "AzureMonitor.TaiwanNorthwest",
+    "region": "taiwannorthwest"
+  },
+  {
+    "ip_address": "2603:1040:1202:7::3a0/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.TaiwanNorthwest",
     "region": "taiwannorthwest"
   },
   {

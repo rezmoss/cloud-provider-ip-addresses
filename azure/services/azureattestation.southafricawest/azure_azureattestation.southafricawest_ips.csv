@@ -1,4 +1,6 @@
 ip_address,ip_type,service,region
+74.160.11.204/30,IPv4,AzureAttestation.SouthAfricaWest,southafricawest
+74.160.16.104/29,IPv4,AzureAttestation.SouthAfricaWest,southafricawest
 102.37.64.120/30,IPv4,AzureAttestation.SouthAfricaWest,southafricawest
 102.37.80.52/30,IPv4,AzureAttestation.SouthAfricaWest,southafricawest
 172.209.100.136/29,IPv4,AzureAttestation.SouthAfricaWest,southafricawest

@@ -10,4 +10,6 @@ INSERT INTO `azure_azureattestation.swedencentral_ips` (`ip_address`, `ip_type`)
 INSERT INTO `azure_azureattestation.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('4.223.199.84/30', 'IPv4');
 INSERT INTO `azure_azureattestation.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('4.223.199.88/29', 'IPv4');
 INSERT INTO `azure_azureattestation.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('51.12.46.224/30', 'IPv4');
+INSERT INTO `azure_azureattestation.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('57.174.126.24/29', 'IPv4');
+INSERT INTO `azure_azureattestation.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('57.174.126.32/30', 'IPv4');
 INSERT INTO `azure_azureattestation.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1004:1::720/123', 'IPv6');

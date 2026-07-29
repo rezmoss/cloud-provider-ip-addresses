@@ -1,5 +1,7 @@
 ip_address,ip_type,service,region
 4.177.29.184/29,IPv4,AzureAttestation.NorwayEast,norwaye
+4.177.57.140/30,IPv4,AzureAttestation.NorwayEast,norwaye
+4.177.57.176/29,IPv4,AzureAttestation.NorwayEast,norwaye
 4.219.29.176/29,IPv4,AzureAttestation.NorwayEast,norwaye
 4.219.29.184/30,IPv4,AzureAttestation.NorwayEast,norwaye
 51.120.100.244/30,IPv4,AzureAttestation.NorwayEast,norwaye

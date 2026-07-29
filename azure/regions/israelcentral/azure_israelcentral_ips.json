@@ -1386,6 +1386,18 @@
     "region": "israelcentral"
   },
   {
+    "ip_address": "51.58.109.124/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.IsraelCentral",
+    "region": "israelcentral"
+  },
+  {
+    "ip_address": "51.58.110.48/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.IsraelCentral",
+    "region": "israelcentral"
+  },
+  {
     "ip_address": "52.101.172.0/22",
     "ip_type": "IPv4",
     "service": "AzureCloud.israelcentral",

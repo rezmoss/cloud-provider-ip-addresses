@@ -1080,6 +1080,18 @@
     "region": "brazilsouth"
   },
   {
+    "ip_address": "20.226.148.196/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "20.226.148.200/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
     "ip_address": "20.226.208.0/26",
     "ip_type": "IPv4",
     "service": "AzureCosmosDB.BrazilSouth",

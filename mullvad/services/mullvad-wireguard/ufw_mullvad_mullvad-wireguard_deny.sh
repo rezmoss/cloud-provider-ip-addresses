@@ -1,6 +1,6 @@
 #!/bin/bash
 # Mullvad IP Ranges
-# Updated: 2026-07-24 03:16:55
+# Updated: 2026-07-29 03:15:44
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -187,6 +187,7 @@ ufw deny from 79.127.217.34/32
 ufw deny from 79.127.217.47/32
 ufw deny from 79.127.222.194/32
 ufw deny from 79.127.222.207/32
+ufw deny from 85.195.233.76/32
 ufw deny from 87.249.134.1/32
 ufw deny from 87.249.134.14/32
 ufw deny from 87.249.134.27/32
@@ -194,6 +195,7 @@ ufw deny from 89.37.63.10/32
 ufw deny from 89.37.63.66/32
 ufw deny from 89.37.63.129/32
 ufw deny from 89.37.63.190/32
+ufw deny from 89.45.4.130/32
 ufw deny from 91.90.123.2/32
 ufw deny from 92.60.40.194/32
 ufw deny from 92.60.40.209/32
@@ -322,12 +324,9 @@ ufw deny from 146.70.168.194/32
 ufw deny from 146.70.171.66/32
 ufw deny from 146.70.171.130/32
 ufw deny from 146.70.172.2/32
-ufw deny from 146.70.172.66/32
 ufw deny from 146.70.172.130/32
-ufw deny from 146.70.172.194/32
-ufw deny from 146.70.173.66/32
+ufw deny from 146.70.173.2/32
 ufw deny from 146.70.173.130/32
-ufw deny from 146.70.173.194/32
 ufw deny from 146.70.174.2/32
 ufw deny from 146.70.184.2/32
 ufw deny from 146.70.184.130/32
@@ -385,6 +384,9 @@ ufw deny from 149.102.240.66/32
 ufw deny from 149.102.240.79/32
 ufw deny from 149.102.246.2/32
 ufw deny from 149.102.246.15/32
+ufw deny from 152.233.51.3/32
+ufw deny from 152.233.51.33/32
+ufw deny from 152.233.51.63/32
 ufw deny from 154.47.16.34/32
 ufw deny from 154.47.16.47/32
 ufw deny from 154.47.29.2/32
@@ -470,7 +472,6 @@ ufw deny from 185.195.232.68/31
 ufw deny from 185.195.232.70/32
 ufw deny from 185.195.233.66/31
 ufw deny from 185.195.233.68/30
-ufw deny from 185.195.233.76/32
 ufw deny from 185.201.188.3/32
 ufw deny from 185.201.188.33/32
 ufw deny from 185.204.1.203/32
@@ -837,6 +838,9 @@ ufw deny from 2a02:6ea0:5500:1::f001/128
 ufw deny from 2a02:6ea0:5500:2::f001/128
 ufw deny from 2a02:6ea0:5700:1::f001/128
 ufw deny from 2a02:6ea0:5700:2::f001/128
+ufw deny from 2a02:6ea0:5e03:3::f001/128
+ufw deny from 2a02:6ea0:5e03:4::f001/128
+ufw deny from 2a02:6ea0:5e03:5::f001/128
 ufw deny from 2a02:6ea0:c034:1::a30f/128
 ufw deny from 2a02:6ea0:c034:2::a31f/128
 ufw deny from 2a02:6ea0:c034:3::a32f/128
@@ -1077,14 +1081,12 @@ ufw deny from 2a0c:f040:0:2790::a02f/128
 ufw deny from 2a0c:f040:0:2790::a03f/128
 ufw deny from 2a0d:5600:6:105::f001/128
 ufw deny from 2a0d:5600:6:106::f001/128
-ufw deny from 2a0d:5600:8:6::d2f/128
-ufw deny from 2a0d:5600:8:d::d3f/128
+ufw deny from 2a0d:5600:8:4::f001/128
+ufw deny from 2a0d:5600:8:6::f001/128
+ufw deny from 2a0d:5600:8:d::f001/128
 ufw deny from 2a0d:5600:8:2f::f001/128
 ufw deny from 2a0d:5600:8:37::f001/128
 ufw deny from 2a0d:5600:8:38::f001/128
-ufw deny from 2a0d:5600:8:39::f001/128
-ufw deny from 2a0d:5600:8:3a::f001/128
-ufw deny from 2a0d:5600:8:3b::f001/128
 ufw deny from 2a0d:5600:9:c::f001/128
 ufw deny from 2a0d:5600:9:d::f001/128
 ufw deny from 2a0d:5600:9:e::a02f/128

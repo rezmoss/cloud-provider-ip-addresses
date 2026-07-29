@@ -2928,13 +2928,13 @@
     "region": "westus3"
   },
   {
-    "ip_address": "57.157.10.16/30",
+    "ip_address": "57.157.10.16/29",
     "ip_type": "IPv4",
     "service": "AzureCloud.westus3",
     "region": "westus3"
   },
   {
-    "ip_address": "57.157.10.20/31",
+    "ip_address": "57.157.10.24/31",
     "ip_type": "IPv4",
     "service": "AzureCloud.westus3",
     "region": "westus3"
@@ -3375,6 +3375,18 @@
     "ip_address": "172.182.31.238/31",
     "ip_type": "IPv4",
     "service": "AzureMachineLearning.WestUS3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "172.182.41.228/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.WestUS3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "172.182.44.40/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.WestUS3",
     "region": "westus3"
   },
   {

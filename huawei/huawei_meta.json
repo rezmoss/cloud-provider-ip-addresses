@@ -1,23 +1,23 @@
 {
   "provider": "huawei",
-  "version": 12,
-  "generated_date": "2026-07-28",
-  "last_changed_date": "2026-07-28",
+  "version": 13,
+  "generated_date": "2026-07-29",
+  "last_changed_date": "2026-07-29",
   "sources": [
     "BGP announced prefixes via RIPE NCC RIPEstat"
   ],
   "ipv4": {
-    "cidrs": 569,
-    "merged_cidrs": 193,
-    "addresses": 1141760
+    "cidrs": 567,
+    "merged_cidrs": 191,
+    "addresses": 1140736
   },
   "ipv6": {
     "cidrs": 94,
     "merged_cidrs": 33,
     "addresses": 10879123450712047943180877824
   },
-  "total_entries": 663,
-  "content_sha256": "27ee1760fd2bccbc977b8e2d1e9594892ec3251c2b401cf69e647f431996e0ef",
+  "total_entries": 661,
+  "content_sha256": "6103f44b78e442fc4c59693254c0855c935675f17e708c774ce7879de9159527",
   "license": "CC0-1.0",
   "license_url": "https://github.com/rezmoss/cloud-provider-ip-addresses/blob/main/LICENSE"
 }

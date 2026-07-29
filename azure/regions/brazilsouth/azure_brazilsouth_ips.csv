@@ -179,6 +179,8 @@ ip_address,ip_type,service,region
 20.226.65.185/32,IPv4,MicrosoftCloudAppSecurity.BrazilSouth,brazilsouth
 20.226.148.112/29,IPv4,ApiManagement.BrazilSouth,brazilsouth
 20.226.148.120/30,IPv4,ApiManagement.BrazilSouth,brazilsouth
+20.226.148.196/30,IPv4,AzureAttestation.BrazilSouth,brazilsouth
+20.226.148.200/29,IPv4,AzureAttestation.BrazilSouth,brazilsouth
 20.226.208.0/26,IPv4,AzureCosmosDB.BrazilSouth,brazilsouth
 20.226.208.128/27,IPv4,Sql.BrazilSouth,brazilsouth
 20.226.209.128/25,IPv4,Sql.BrazilSouth,brazilsouth

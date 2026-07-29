@@ -507,6 +507,8 @@ ip_address,ip_type,service,region
 74.159.0.60/30,IPv4,ApiManagement.WestCentralUS,westcentralus
 74.159.0.232/29,IPv4,ApiManagement.WestCentralUS,westcentralus
 74.159.0.240/31,IPv4,ApiManagement.WestCentralUS,westcentralus
+74.159.0.252/30,IPv4,AzureAttestation.WestCentralUS,westcentralus
+74.159.1.80/29,IPv4,AzureAttestation.WestCentralUS,westcentralus
 104.44.89.96/27,IPv4,AzureCloud.westcentralus,westcentralus
 104.47.224.0/20,IPv4,AzureCloud.westcentralus,westcentralus
 128.24.128.0/17,IPv4,AzureCloud.westcentralus,westcentralus

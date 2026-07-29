@@ -144,6 +144,8 @@ ip_address,ip_type,service,region
 57.163.14.0/23,IPv4,AzureCloud.belgiumcentral,belgiumcentral
 57.163.14.0/23,IPv4,Storage.BelgiumCentral,belgiumcentral
 74.152.0.0/17,IPv4,AzureCloud.belgiumcentral,belgiumcentral
+74.152.8.124/30,IPv4,AzureAttestation.BelgiumCentral,belgiumcentral
+74.152.8.160/29,IPv4,AzureAttestation.BelgiumCentral,belgiumcentral
 145.190.157.0/24,IPv4,AzureCloud.belgiumcentral,belgiumcentral
 145.190.157.0/24,IPv4,Storage.BelgiumCentral,belgiumcentral
 209.199.27.32/27,IPv4,AzureCloud.belgiumcentral,belgiumcentral

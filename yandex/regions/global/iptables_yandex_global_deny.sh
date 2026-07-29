@@ -1,6 +1,6 @@
 #!/bin/bash
 # Yandex IP Ranges
-# Updated: 2026-07-23 03:17:32
+# Updated: 2026-07-29 03:15:39
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -63,6 +63,7 @@ iptables -A INPUT -s 188.72.110.0/23 -j DROP
 iptables -A INPUT -s 188.72.113.0/24 -j DROP
 iptables -A INPUT -s 193.32.216.0/22 -j DROP
 iptables -A INPUT -s 194.247.51.0/24 -j DROP
+iptables -A INPUT -s 201.50.118.0/24 -j DROP
 iptables -A INPUT -s 213.130.80.0/21 -j DROP
 iptables -A INPUT -s 213.165.192.0/19 -j DROP
 iptables -A INPUT -s 213.180.192.0/19 -j DROP

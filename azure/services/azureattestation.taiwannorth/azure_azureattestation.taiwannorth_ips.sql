@@ -10,4 +10,7 @@ INSERT INTO `azure_azureattestation.taiwannorth_ips` (`ip_address`, `ip_type`) V
 INSERT INTO `azure_azureattestation.taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('70.157.78.240/29', 'IPv4');
 INSERT INTO `azure_azureattestation.taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('70.157.169.56/29', 'IPv4');
 INSERT INTO `azure_azureattestation.taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('70.157.169.96/30', 'IPv4');
+INSERT INTO `azure_azureattestation.taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('70.157.192.32/29', 'IPv4');
+INSERT INTO `azure_azureattestation.taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('70.157.192.40/30', 'IPv4');
 INSERT INTO `azure_azureattestation.taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1302::600/124', 'IPv6');
+INSERT INTO `azure_azureattestation.taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1302:9::a0/124', 'IPv6');

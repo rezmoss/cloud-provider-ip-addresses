@@ -39,6 +39,8 @@ ip_address,ip_type,service,region
 4.212.6.194/31,IPv4,ApiManagement.FranceCentral,centralfrance
 4.212.7.120/29,IPv4,ApiManagement.FranceCentral,centralfrance
 4.212.7.192/30,IPv4,ApiManagement.FranceCentral,centralfrance
+4.212.7.196/30,IPv4,AzureAttestation.FranceCentral,centralfrance
+4.212.7.200/29,IPv4,AzureAttestation.FranceCentral,centralfrance
 4.233.0.0/16,IPv4,AzureCloud.centralfrance,centralfrance
 4.251.0.0/17,IPv4,AzureCloud.centralfrance,centralfrance
 4.251.0.64/29,IPv4,AppServiceManagement.FranceCentral,centralfrance

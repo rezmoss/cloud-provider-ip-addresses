@@ -2742,12 +2742,6 @@
     "region": "eu-central-1"
   },
   {
-    "ip_address": "99.78.220.96/27",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "eu-central-1"
-  },
-  {
     "ip_address": "99.82.163.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",

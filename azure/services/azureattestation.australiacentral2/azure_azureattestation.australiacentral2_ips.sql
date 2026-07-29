@@ -10,5 +10,7 @@ INSERT INTO `azure_azureattestation.australiacentral2_ips` (`ip_address`, `ip_ty
 INSERT INTO `azure_azureattestation.australiacentral2_ips` (`ip_address`, `ip_type`) VALUES ('20.167.183.152/29', 'IPv4');
 INSERT INTO `azure_azureattestation.australiacentral2_ips` (`ip_address`, `ip_type`) VALUES ('20.167.225.164/30', 'IPv4');
 INSERT INTO `azure_azureattestation.australiacentral2_ips` (`ip_address`, `ip_type`) VALUES ('20.167.225.168/29', 'IPv4');
+INSERT INTO `azure_azureattestation.australiacentral2_ips` (`ip_address`, `ip_type`) VALUES ('20.167.247.88/29', 'IPv4');
+INSERT INTO `azure_azureattestation.australiacentral2_ips` (`ip_address`, `ip_type`) VALUES ('20.167.247.128/30', 'IPv4');
 INSERT INTO `azure_azureattestation.australiacentral2_ips` (`ip_address`, `ip_type`) VALUES ('20.193.96.12/30', 'IPv4');
 INSERT INTO `azure_azureattestation.australiacentral2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:404:2::740/124', 'IPv6');

@@ -3030,6 +3030,18 @@
     "region": "japanwest"
   },
   {
+    "ip_address": "172.192.225.104/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.JapanWest",
+    "region": "japanwest"
+  },
+  {
+    "ip_address": "172.192.225.144/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.JapanWest",
+    "region": "japanwest"
+  },
+  {
     "ip_address": "191.233.32.0/20",
     "ip_type": "IPv4",
     "service": "AzureCloud.japanwest",
