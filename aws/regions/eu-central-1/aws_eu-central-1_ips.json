@@ -1818,6 +1818,18 @@
     "region": "eu-central-1"
   },
   {
+    "ip_address": "23.254.30.0/23",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-central-1"
+  },
+  {
+    "ip_address": "23.254.30.0/23",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "eu-central-1"
+  },
+  {
     "ip_address": "35.50.192.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -2031,6 +2043,18 @@
     "ip_address": "45.33.182.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
+    "region": "eu-central-1"
+  },
+  {
+    "ip_address": "51.0.64.0/18",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-central-1"
+  },
+  {
+    "ip_address": "51.0.64.0/18",
+    "ip_type": "IPv4",
+    "service": "EC2",
     "region": "eu-central-1"
   },
   {
@@ -4377,6 +4401,18 @@
     "ip_address": "2a05:d024:18::/48",
     "ip_type": "IPv6",
     "service": "WORKSPACES_GATEWAYS",
+    "region": "eu-central-1"
+  },
+  {
+    "ip_address": "2a05:d024:8000::/36",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eu-central-1"
+  },
+  {
+    "ip_address": "2a05:d024:8000::/36",
+    "ip_type": "IPv6",
+    "service": "EC2",
     "region": "eu-central-1"
   },
   {

@@ -1098,12 +1098,6 @@
     "region": "us"
   },
   {
-    "ip_address": "85.195.233.76/32",
-    "ip_type": "IPv4",
-    "service": "mullvad-wireguard",
-    "region": "se"
-  },
-  {
     "ip_address": "87.249.134.1/32",
     "ip_type": "IPv4",
     "service": "mullvad-wireguard",
@@ -2893,6 +2887,12 @@
   },
   {
     "ip_address": "185.195.233.71/32",
+    "ip_type": "IPv4",
+    "service": "mullvad-wireguard",
+    "region": "se"
+  },
+  {
+    "ip_address": "185.195.233.76/32",
     "ip_type": "IPv4",
     "service": "mullvad-wireguard",
     "region": "se"

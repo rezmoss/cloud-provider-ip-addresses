@@ -402,12 +402,6 @@
     "region": "global"
   },
   {
-    "ip_address": "120.49.192.0/22",
-    "ip_type": "IPv4",
-    "service": "baidu-as38365",
-    "region": "global"
-  },
-  {
     "ip_address": "120.49.192.0/24",
     "ip_type": "IPv4",
     "service": "baidu-as38365",

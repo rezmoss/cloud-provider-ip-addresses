@@ -4872,6 +4872,18 @@
     "region": "us-east-2"
   },
   {
+    "ip_address": "2606:7b40:1000:62d0::/60",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-east-2"
+  },
+  {
+    "ip_address": "2606:7b40:1000:62d0::/60",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-east-2"
+  },
+  {
     "ip_address": "2606:7b40:10f4:3200::/60",
     "ip_type": "IPv6",
     "service": "AMAZON",

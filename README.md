@@ -5,35 +5,36 @@
 [![GitHub stars](https://img.shields.io/github/stars/rezmoss/cloud-provider-ip-addresses)](https://github.com/rezmoss/cloud-provider-ip-addresses/stargazers)
 [![GitHub license](https://img.shields.io/github/license/rezmoss/cloud-provider-ip-addresses)](https://github.com/rezmoss/cloud-provider-ip-addresses/blob/main/LICENSE)
 ![Last Updated](https://img.shields.io/github/last-commit/rezmoss/cloud-provider-ip-addresses)
-![Providers](https://img.shields.io/badge/providers-62-blue)
+![Providers](https://img.shields.io/badge/providers-63-blue)
 ![Formats](https://img.shields.io/badge/formats-13+-green)
 ![Update](https://img.shields.io/badge/updated-daily%2002%3A00%20UTC-brightgreen)
 
-> **62 providers** | **13+ output formats** | **Merged/optimized CIDRs** | **Firewall-ready configs** | **Unified cross-provider dataset** | **Daily changelog** | **IP lookup tool** | **Go & JS client libraries**
+> **63 providers** | **13+ output formats** | **Merged/optimized CIDRs** | **Firewall-ready configs** | **Unified cross-provider dataset** | **Daily changelog** | **IP lookup tool** | **Go & JS client libraries**
 
 <!-- STATS_START -->
 <!-- This section is auto-updated by app.py on each run. Do not edit manually. -->
 
 ### Live Stats
 
-> Last updated: **2026-07-29** | Providers: **62** | Total CIDRs: **462,427** | IPv4 addresses: **448,784,709** | IPv4 space: **10.45%**
+> Last updated: **2026-07-30** | Providers: **63** | Total CIDRs: **462,438** | IPv4 addresses: **448,788,820** | IPv4 space: **10.45%**
 
 | Provider | IPv4 CIDRs | IPv6 CIDRs | Total CIDRs | IPv4 Addresses | Services | Regions |
 |----------|-----------|-----------|------------|---------------|----------|--------|
-| akamai | 8,044 | 3,038 | 11,082 | 21,813,712 | 18 | 1 |
-| alibaba | 2,140 | 241 | 2,381 | 32,881,152 | 3 | 1 |
+| akamai | 8,037 | 3,038 | 11,075 | 21,804,240 | 18 | 1 |
+| alibaba | 2,139 | 241 | 2,380 | 32,880,896 | 3 | 1 |
 | amazonbot | 2,059 | 0 | 2,059 | 2,059 | 3 | 0 |
 | apple_private_relay | 41,857 | 245,093 | 286,950 | 105,835 | 0 | 1284 |
 | applebot | 12 | 0 | 12 | 2,400 | 1 | 0 |
 | atlassian | 106 | 60 | 166 | 79,038 | 11 | 17 |
-| aws | 10,544 | 5,879 | 16,423 | 185,124,844 | 27 | 43 |
+| aws | 10,538 | 5,884 | 16,422 | 185,138,156 | 27 | 43 |
 | azure | 79,339 | 28,595 | 107,934 | 104,248,453 | 3321 | 77 |
 | backblaze | 24 | 61 | 85 | 8,960 | 2 | 1 |
-| baidu | 186 | 14 | 200 | 660,736 | 2 | 1 |
+| baidu | 185 | 14 | 199 | 659,712 | 2 | 1 |
 | bingbot | 28 | 0 | 28 | 4,736 | 1 | 0 |
 | bunny | 14 | 34 | 48 | 4,096 | 1 | 1 |
 | cachefly | 16 | 0 | 16 | 4,096 | 0 | 0 |
 | circleci | 47 | 0 | 47 | 3,871 | 3 | 1 |
+| claudebot | 20 | 0 | 20 | 1,043 | 1 | 0 |
 | cloudflare | 15 | 7 | 22 | 1,524,736 | 0 | 0 |
 | commoncrawl | 5 | 1 | 6 | 29 | 1 | 0 |
 | datadog | 157 | 9 | 166 | 38,365 | 11 | 0 |
@@ -41,12 +42,12 @@
 | duckduckbot | 481 | 0 | 481 | 481 | 1 | 0 |
 | fastly | 19 | 2 | 21 | 304,128 | 0 | 0 |
 | gabia | 97 | 0 | 97 | 40,704 | 1 | 1 |
-| gcore | 986 | 845 | 1,831 | 986 | 0 | 0 |
+| gcore | 985 | 844 | 1,829 | 985 | 0 | 0 |
 | github | 5,803 | 1,655 | 7,458 | 27,963,989 | 11 | 0 |
 | gocache | 25 | 0 | 25 | 600 | 0 | 0 |
 | googlebot | 169 | 146 | 315 | 5,056 | 1 | 0 |
-| googlecloud | 997 | 48 | 1,045 | 19,091,840 | 1 | 48 |
-| googleservices | 262 | 84 | 346 | 3,088,000 | 1 | 1 |
+| googlecloud | 999 | 48 | 1,047 | 19,092,352 | 1 | 48 |
+| googleservices | 264 | 84 | 348 | 3,087,488 | 1 | 1 |
 | gptbot | 342 | 0 | 342 | 43,296 | 3 | 0 |
 | hetzner | 682 | 7 | 689 | 3,524,608 | 3 | 1 |
 | hostway | 174 | 0 | 174 | 74,752 | 1 | 1 |
@@ -60,7 +61,7 @@
 | mullvad | 576 | 566 | 1,142 | 576 | 2 | 50 |
 | nhncloud | 372 | 0 | 372 | 136,448 | 3 | 1 |
 | oracle | 1,102 | 0 | 1,102 | 4,295,690 | 3 | 56 |
-| ovhcloud | 703 | 42 | 745 | 4,633,600 | 1 | 1 |
+| ovhcloud | 707 | 42 | 749 | 4,634,624 | 1 | 1 |
 | perplexitybot | 12 | 0 | 12 | 32 | 2 | 0 |
 | pingdom | 99 | 57 | 156 | 99 | 0 | 0 |
 | quiccloud | 153 | 0 | 153 | 153 | 0 | 0 |
@@ -69,11 +70,11 @@
 | scaleway | 40 | 21 | 61 | 2,482,432 | 2 | 1 |
 | statuscake | 183 | 0 | 183 | 183 | 0 | 0 |
 | stormwall | 16 | 8 | 24 | 4,096 | 1 | 1 |
-| sucuri | 18 | 13 | 31 | 6,144 | 1 | 1 |
+| sucuri | 17 | 13 | 30 | 5,888 | 1 | 1 |
 | teamcity | 11 | 0 | 11 | 11 | 2 | 1 |
 | telegram | 9 | 5 | 14 | 11,008 | 0 | 0 |
-| tencent | 3,331 | 74 | 3,405 | 14,863,360 | 2 | 1 |
-| tor | 1,379 | 0 | 1,379 | 1,379 | 1 | 1 |
+| tencent | 3,330 | 74 | 3,404 | 14,863,104 | 2 | 1 |
+| tor | 1,376 | 0 | 1,376 | 1,376 | 1 | 1 |
 | upcloud | 87 | 20 | 107 | 100,352 | 2 | 1 |
 | uptimerobot | 103 | 103 | 206 | 103 | 1 | 4 |
 | vultr | 439 | 53 | 492 | 1,027,072 | 0 | 34 |
@@ -140,7 +141,7 @@ There are other cloud IP range repos out there. Here's what makes this one diffe
 |---------|-----------|--------|
 | Cloud providers | AWS, Azure, GCP, Cloudflare, DigitalOcean, Oracle, Fastly, GitHub, Linode, Vultr, UpCloud, NHN Cloud, Hostway, Gabia + Apple Private Relay, Telegram | Varies |
 | CDN / storage / WAF | G-Core Labs, CacheFly, GoCache, Quic.cloud, Bunny CDN, Wasabi, Backblaze, Imperva, Sucuri, StormWall | Rare |
-| Bot/crawler IPs | GoogleBot, BingBot, GPTBot/ChatGPT, AppleBot, PerplexityBot, DuckDuckBot, Amazonbot, Common Crawl | Rare |
+| Bot/crawler IPs | GoogleBot, BingBot, GPTBot/ChatGPT, ClaudeBot, AppleBot, PerplexityBot, DuckDuckBot, Amazonbot, Common Crawl | Rare |
 | SaaS / Collaboration | Microsoft 365, Zoom, Atlassian (Jira, Confluence, Bitbucket, Trello, ...) | Very rare |
 | Output formats | 13+ (TXT, JSON, CSV, SQL, Nginx, Apache, iptables, nftables, UFW, HAProxy, Caddy, ipset, merged CIDRs) | Usually 1-3 |
 | Merged/optimized CIDRs | Per-provider and combined | Rare |
@@ -290,6 +291,7 @@ curl -sLO https://github.com/rezmoss/cloud-provider-ip-addresses/releases/downlo
 | **GoogleBot** | IPv4 + IPv6 | googlebot | Google published crawler ranges |
 | **BingBot** | IPv4 + IPv6 | bingbot | Microsoft published crawler ranges |
 | **GPTBot / ChatGPT / SearchBot** | IPv4 | Per-service (gptbot, chatgpt-user, searchbot) | OpenAI published bot ranges |
+| **ClaudeBot / Claude-User / Claude-SearchBot** | IPv4 | claudebot | Anthropic published crawler ranges |
 | **AppleBot** | IPv4 | applebot | Apple published crawler ranges |
 | **PerplexityBot** | IPv4 + IPv6 | Per-service (perplexitybot, perplexity-user) | Perplexity published bot ranges |
 | **DuckDuckBot** | IPv4 + IPv6 | duckduckbot | DuckDuckGo published crawler ranges |
@@ -360,6 +362,7 @@ Each provider has its own page with quick-use snippets, sample CIDRs, and links 
 | **Bunny CDN** | [`bunny/`](./bunny/) |
 | **CacheFly** | [`cachefly/`](./cachefly/) |
 | **CircleCI** | [`circleci/`](./circleci/) |
+| **ClaudeBot** | [`claudebot/`](./claudebot/) |
 | **Cloudflare** | [`cloudflare/`](./cloudflare/) |
 | **Common Crawl (CCBot)** | [`commoncrawl/`](./commoncrawl/) |
 | **Datadog** | [`datadog/`](./datadog/) |
@@ -690,6 +693,7 @@ cloud-provider-ip-addresses/
 ├── googlebot/            (all formats)
 ├── bingbot/              (all formats)
 ├── gptbot/               (all formats + services)
+├── claudebot/            (all formats)
 ├── applebot/             (all formats)
 ├── apple_private_relay/  (all formats + regions)
 ├── telegram/             (all formats)
@@ -875,6 +879,7 @@ curl -sL https://raw.githubusercontent.com/rezmoss/cloud-provider-ip-addresses/m
 | GoogleBot | Y | Y | — | — | Y | Y |
 | BingBot | Y | Y | — | — | Y | Y |
 | GPTBot | Y | — | Y | — | Y | Y |
+| ClaudeBot | Y | — | — | — | Y | Y |
 | AppleBot | Y | — | — | — | Y | Y |
 | Apple Private Relay | Y | Y | — | Y | Y | Y |
 | Telegram | Y | Y | — | — | Y | Y |

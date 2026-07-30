@@ -1,7 +1,7 @@
 # aws IP ranges - ipset restore format (hash:net)
-# Version: 35 | Generated: 2026-07-29 | Last changed: 2026-07-29
-# IPv4: 1762 merged subnets, 101817782 unique IPs
-# IPv6: 2067 merged subnets
+# Version: 36 | Generated: 2026-07-30 | Last changed: 2026-07-30
+# IPv4: 1757 merged subnets, 101824438 unique IPs
+# IPv6: 2070 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
 # Load with: sudo ipset restore -! < aws.netset
@@ -546,10 +546,7 @@ add aws_v4 23.228.246.0/23
 add aws_v4 23.228.248.0/22
 add aws_v4 23.234.192.0/18
 add aws_v4 23.238.128.0/17
-add aws_v4 23.254.0.0/20
-add aws_v4 23.254.16.0/21
-add aws_v4 23.254.24.0/22
-add aws_v4 23.254.28.0/23
+add aws_v4 23.254.0.0/19
 add aws_v4 23.254.32.0/21
 add aws_v4 23.254.120.0/21
 add aws_v4 24.110.0.0/21
@@ -683,9 +680,7 @@ add aws_v4 51.0.28.0/24
 add aws_v4 51.0.29.0/28
 add aws_v4 51.0.29.128/28
 add aws_v4 51.0.31.0/24
-add aws_v4 51.0.80.0/20
-add aws_v4 51.0.96.0/20
-add aws_v4 51.0.112.0/21
+add aws_v4 51.0.64.0/18
 add aws_v4 51.0.128.0/20
 add aws_v4 51.0.250.0/30
 add aws_v4 51.0.251.0/24
@@ -3225,6 +3220,7 @@ add aws_v6 2606:7b40:1000:6220::/60
 add aws_v6 2606:7b40:1000:6240::/60
 add aws_v6 2606:7b40:1000:6280::/60
 add aws_v6 2606:7b40:1000:62a0::/60
+add aws_v6 2606:7b40:1000:62d0::/60
 add aws_v6 2606:7b40:1000:7000::/56
 add aws_v6 2606:7b40:1000:7200::/59
 add aws_v6 2606:7b40:1000:7220::/60
@@ -3420,6 +3416,7 @@ add aws_v6 2620:107:4000:8004::/64
 add aws_v6 2620:107:4000:8300::/56
 add aws_v6 2620:107:4000:8400::/54
 add aws_v6 2620:107:4000:8800::/55
+add aws_v6 2620:107:4000:8a00::/56
 add aws_v6 2620:107:4000:9000::/62
 add aws_v6 2620:107:4000:9005::/64
 add aws_v6 2620:107:4000:9006::/64
@@ -3492,6 +3489,7 @@ add aws_v6 2a05:d020:8000::/36
 add aws_v6 2a05:d021::/36
 add aws_v6 2a05:d022::/36
 add aws_v6 2a05:d024::/36
+add aws_v6 2a05:d024:8000::/36
 add aws_v6 2a05:d025::/35
 add aws_v6 2a05:d026::/36
 add aws_v6 2a05:d027::/36

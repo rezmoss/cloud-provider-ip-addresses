@@ -1506,12 +1506,6 @@
     "region": "global"
   },
   {
-    "ip_address": "43.96.102.0/24",
-    "ip_type": "IPv4",
-    "service": "alibaba-as45102",
-    "region": "global"
-  },
-  {
     "ip_address": "43.96.103.0/24",
     "ip_type": "IPv4",
     "service": "alibaba-as45102",

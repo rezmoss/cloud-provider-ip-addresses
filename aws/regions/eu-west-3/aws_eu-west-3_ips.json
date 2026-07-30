@@ -756,18 +756,6 @@
     "region": "eu-west-3"
   },
   {
-    "ip_address": "51.0.96.0/21",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "eu-west-3"
-  },
-  {
-    "ip_address": "51.0.96.0/21",
-    "ip_type": "IPv4",
-    "service": "EC2",
-    "region": "eu-west-3"
-  },
-  {
     "ip_address": "51.44.0.0/16",
     "ip_type": "IPv4",
     "service": "AMAZON",

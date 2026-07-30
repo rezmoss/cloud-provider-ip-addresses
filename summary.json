@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-29T03:16:33.099523",
-  "provider_count": 62,
-  "total_ipv4_addresses": 448784709,
-  "total_ipv6_addresses": 5474920348597329590037374133904525,
-  "ipv4_space_coverage_pct": 10.4491,
+  "generated": "2026-07-30T03:18:30.652649",
+  "provider_count": 63,
+  "total_ipv4_addresses": 448788820,
+  "total_ipv6_addresses": 5474930252122956535372801677763724,
+  "ipv4_space_coverage_pct": 10.4492,
   "providers": {
     "cloudflare": {
       "ipv4_cidrs": 15,
@@ -15,28 +15,28 @@
       "regions": 0
     },
     "aws": {
-      "ipv4_cidrs": 10544,
-      "ipv6_cidrs": 5879,
-      "total_cidrs": 16423,
-      "ipv4_addresses": 185124844,
-      "ipv6_addresses": 3342489831091397561232322985997,
+      "ipv4_cidrs": 10538,
+      "ipv6_cidrs": 5884,
+      "total_cidrs": 16422,
+      "ipv4_addresses": 185138156,
+      "ipv6_addresses": 3352393356718342896659866845197,
       "services": 27,
       "regions": 43
     },
     "googlecloud": {
-      "ipv4_cidrs": 997,
+      "ipv4_cidrs": 999,
       "ipv6_cidrs": 48,
-      "total_cidrs": 1045,
-      "ipv4_addresses": 19091840,
+      "total_cidrs": 1047,
+      "ipv4_addresses": 19092352,
       "ipv6_addresses": 910321142169815768553750528,
       "services": 1,
       "regions": 48
     },
     "googleservices": {
-      "ipv4_cidrs": 262,
+      "ipv4_cidrs": 264,
       "ipv6_cidrs": 84,
-      "total_cidrs": 346,
-      "ipv4_addresses": 3088000,
+      "total_cidrs": 348,
+      "ipv4_addresses": 3087488,
       "ipv6_addresses": 2059950359553314902049116127232,
       "services": 1,
       "regions": 1
@@ -120,6 +120,15 @@
       "ipv4_addresses": 43296,
       "ipv6_addresses": 0,
       "services": 3,
+      "regions": 0
+    },
+    "claudebot": {
+      "ipv4_cidrs": 20,
+      "ipv6_cidrs": 0,
+      "total_cidrs": 20,
+      "ipv4_addresses": 1043,
+      "ipv6_addresses": 0,
+      "services": 1,
       "regions": 0
     },
     "applebot": {
@@ -276,19 +285,19 @@
       "regions": 1
     },
     "alibaba": {
-      "ipv4_cidrs": 2140,
+      "ipv4_cidrs": 2139,
       "ipv6_cidrs": 241,
-      "total_cidrs": 2381,
-      "ipv4_addresses": 32881152,
+      "total_cidrs": 2380,
+      "ipv4_addresses": 32880896,
       "ipv6_addresses": 87879777278193811321611614158848,
       "services": 3,
       "regions": 1
     },
     "tencent": {
-      "ipv4_cidrs": 3331,
+      "ipv4_cidrs": 3330,
       "ipv6_cidrs": 74,
-      "total_cidrs": 3405,
-      "ipv4_addresses": 14863360,
+      "total_cidrs": 3404,
+      "ipv4_addresses": 14863104,
       "ipv6_addresses": 192298994422820604303812591616,
       "services": 2,
       "regions": 1
@@ -312,10 +321,10 @@
       "regions": 1
     },
     "ovhcloud": {
-      "ipv4_cidrs": 703,
+      "ipv4_cidrs": 707,
       "ipv6_cidrs": 42,
-      "total_cidrs": 745,
-      "ipv4_addresses": 4633600,
+      "total_cidrs": 749,
+      "ipv4_addresses": 4634624,
       "ipv6_addresses": 318191693574209628041014935552,
       "services": 1,
       "regions": 1
@@ -330,10 +339,10 @@
       "regions": 1
     },
     "akamai": {
-      "ipv4_cidrs": 8044,
+      "ipv4_cidrs": 8037,
       "ipv6_cidrs": 3038,
-      "total_cidrs": 11082,
-      "ipv4_addresses": 21813712,
+      "total_cidrs": 11075,
+      "ipv4_addresses": 21804240,
       "ipv6_addresses": 23779625287833205414129374855168,
       "services": 18,
       "regions": 1
@@ -393,10 +402,10 @@
       "regions": 1
     },
     "tor": {
-      "ipv4_cidrs": 1379,
+      "ipv4_cidrs": 1376,
       "ipv6_cidrs": 0,
-      "total_cidrs": 1379,
-      "ipv4_addresses": 1379,
+      "total_cidrs": 1376,
+      "ipv4_addresses": 1376,
       "ipv6_addresses": 0,
       "services": 1,
       "regions": 1
@@ -429,11 +438,11 @@
       "regions": 0
     },
     "gcore": {
-      "ipv4_cidrs": 986,
-      "ipv6_cidrs": 845,
-      "total_cidrs": 1831,
-      "ipv4_addresses": 986,
-      "ipv6_addresses": 845,
+      "ipv4_cidrs": 985,
+      "ipv6_cidrs": 844,
+      "total_cidrs": 1829,
+      "ipv4_addresses": 985,
+      "ipv6_addresses": 844,
       "services": 0,
       "regions": 0
     },
@@ -492,10 +501,10 @@
       "regions": 1
     },
     "sucuri": {
-      "ipv4_cidrs": 18,
+      "ipv4_cidrs": 17,
       "ipv6_cidrs": 13,
-      "total_cidrs": 31,
-      "ipv4_addresses": 6144,
+      "total_cidrs": 30,
+      "ipv4_addresses": 5888,
       "ipv6_addresses": 24178516392292583494123520,
       "services": 1,
       "regions": 1
@@ -510,10 +519,10 @@
       "regions": 1
     },
     "baidu": {
-      "ipv4_cidrs": 186,
+      "ipv4_cidrs": 185,
       "ipv6_cidrs": 14,
-      "total_cidrs": 200,
-      "ipv4_addresses": 660736,
+      "total_cidrs": 199,
+      "ipv4_addresses": 659712,
       "ipv6_addresses": 81619872341570249201682455986176,
       "services": 2,
       "regions": 1

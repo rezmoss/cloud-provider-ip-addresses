@@ -57,10 +57,6 @@ ip_address,ip_type,service,region
 40.172.11.104/29,IPv4,MEDIA_PACKAGE_V2,me-central-1
 40.173.0.0/16,IPv4,AMAZON,me-central-1
 40.174.0.0/15,IPv4,AMAZON,me-central-1
-51.0.80.0/21,IPv4,AMAZON,me-central-1
-51.0.80.0/21,IPv4,EC2,me-central-1
-51.0.88.0/21,IPv4,AMAZON,me-central-1
-51.0.88.0/21,IPv4,EC2,me-central-1
 51.112.0.0/16,IPv4,AMAZON,me-central-1
 51.112.0.0/16,IPv4,EC2,me-central-1
 51.112.11.64/28,IPv4,S3,me-central-1
