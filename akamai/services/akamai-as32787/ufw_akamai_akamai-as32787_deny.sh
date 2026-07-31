@@ -1,6 +1,6 @@
 #!/bin/bash
 # Akamai IP Ranges
-# Updated: 2026-07-30 03:17:02
+# Updated: 2026-07-31 03:18:41
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -80,6 +80,7 @@ ufw deny from 95.100.212.0/22
 ufw deny from 95.100.253.0/24
 ufw deny from 95.101.117.0/24
 ufw deny from 95.101.118.0/24
+ufw deny from 96.6.69.0/24
 ufw deny from 96.6.79.0/24
 ufw deny from 96.6.80.0/23
 ufw deny from 96.6.84.0/24

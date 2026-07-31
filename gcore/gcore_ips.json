@@ -4128,6 +4128,14 @@
     "ip_type": "IPv6"
   },
   {
+    "ip_address": "2a01:68c0:0:1:ffff::21/128",
+    "ip_type": "IPv6"
+  },
+  {
+    "ip_address": "2a01:68c0:0:1:ffff::22/128",
+    "ip_type": "IPv6"
+  },
+  {
     "ip_address": "2a01:9c80:ada:5::202/128",
     "ip_type": "IPv6"
   },

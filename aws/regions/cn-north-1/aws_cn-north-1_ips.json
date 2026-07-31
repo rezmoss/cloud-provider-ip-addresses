@@ -120,6 +120,12 @@
     "region": "cn-north-1"
   },
   {
+    "ip_address": "43.196.168.0/25",
+    "ip_type": "IPv4",
+    "service": "EFS",
+    "region": "cn-north-1"
+  },
+  {
     "ip_address": "52.80.0.0/16",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -1053,6 +1059,12 @@
     "ip_address": "2400:7fc0:83cc:ce00::/56",
     "ip_type": "IPv6",
     "service": "ROUTE53_HEALTHCHECKS",
+    "region": "cn-north-1"
+  },
+  {
+    "ip_address": "2400:7fc0:86dd:2300::/56",
+    "ip_type": "IPv6",
+    "service": "EFS",
     "region": "cn-north-1"
   },
   {

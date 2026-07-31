@@ -170,7 +170,6 @@ ip_address,ip_type,service,region
 159.135.80.0/20,IPv4,rackspace-as39921,global
 159.135.128.0/19,IPv4,rackspace-as39921,global
 159.135.160.0/19,IPv4,rackspace-as39921,global
-159.135.241.0/24,IPv4,rackspace-as33439,global
 159.135.254.0/24,IPv4,rackspace-as27357,global
 161.47.0.0/18,IPv4,rackspace-as19994,global
 161.47.64.0/18,IPv4,rackspace-as19994,global

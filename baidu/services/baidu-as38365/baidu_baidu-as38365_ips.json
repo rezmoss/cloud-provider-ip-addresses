@@ -456,30 +456,6 @@
     "region": "global"
   },
   {
-    "ip_address": "150.242.120.0/24",
-    "ip_type": "IPv4",
-    "service": "baidu-as38365",
-    "region": "global"
-  },
-  {
-    "ip_address": "150.242.121.0/24",
-    "ip_type": "IPv4",
-    "service": "baidu-as38365",
-    "region": "global"
-  },
-  {
-    "ip_address": "150.242.122.0/24",
-    "ip_type": "IPv4",
-    "service": "baidu-as38365",
-    "region": "global"
-  },
-  {
-    "ip_address": "150.242.123.0/24",
-    "ip_type": "IPv4",
-    "service": "baidu-as38365",
-    "region": "global"
-  },
-  {
     "ip_address": "180.76.16.0/20",
     "ip_type": "IPv4",
     "service": "baidu-as38365",

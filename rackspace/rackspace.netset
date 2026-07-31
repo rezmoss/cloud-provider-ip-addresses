@@ -1,6 +1,6 @@
 # rackspace IP ranges - ipset restore format (hash:net)
-# Version: 2 | Generated: 2026-07-30 | Last changed: 2026-07-15
-# IPv4: 184 merged subnets, 2286336 unique IPs
+# Version: 3 | Generated: 2026-07-31 | Last changed: 2026-07-31
+# IPv4: 183 merged subnets, 2286080 unique IPs
 # IPv6: 9 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
@@ -101,7 +101,6 @@ add rackspace_v4 151.106.224.0/22
 add rackspace_v4 156.43.59.0/24
 add rackspace_v4 159.135.64.0/19
 add rackspace_v4 159.135.128.0/18
-add rackspace_v4 159.135.241.0/24
 add rackspace_v4 159.135.254.0/24
 add rackspace_v4 161.47.0.0/16
 add rackspace_v4 162.13.0.0/16

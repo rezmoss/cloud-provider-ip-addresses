@@ -522,30 +522,6 @@
     "region": "global"
   },
   {
-    "ip_address": "150.242.120.0/24",
-    "ip_type": "IPv4",
-    "service": "baidu-as38365",
-    "region": "global"
-  },
-  {
-    "ip_address": "150.242.121.0/24",
-    "ip_type": "IPv4",
-    "service": "baidu-as38365",
-    "region": "global"
-  },
-  {
-    "ip_address": "150.242.122.0/24",
-    "ip_type": "IPv4",
-    "service": "baidu-as38365",
-    "region": "global"
-  },
-  {
-    "ip_address": "150.242.123.0/24",
-    "ip_type": "IPv4",
-    "service": "baidu-as38365",
-    "region": "global"
-  },
-  {
     "ip_address": "154.85.32.0/21",
     "ip_type": "IPv4",
     "service": "baidu-as55967",

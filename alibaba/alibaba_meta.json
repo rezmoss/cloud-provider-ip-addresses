@@ -1,23 +1,23 @@
 {
   "provider": "alibaba",
-  "version": 23,
-  "generated_date": "2026-07-30",
-  "last_changed_date": "2026-07-30",
+  "version": 24,
+  "generated_date": "2026-07-31",
+  "last_changed_date": "2026-07-31",
   "sources": [
     "BGP announced prefixes via RIPE NCC RIPEstat"
   ],
   "ipv4": {
-    "cidrs": 2139,
+    "cidrs": 2138,
     "merged_cidrs": 301,
     "addresses": 15228416
   },
   "ipv6": {
-    "cidrs": 241,
+    "cidrs": 240,
     "merged_cidrs": 30,
     "addresses": 83447133494772270833521473355776
   },
-  "total_entries": 2380,
-  "content_sha256": "eb4171dee6607780872fe41ac57bfc895e7e9c59827d0be2cf1e4f01c65f3adc",
+  "total_entries": 2378,
+  "content_sha256": "4946a3819cc5a75d682527fe9fbc98f25cf1392ac00a09c5deb01b7a6bf38ea5",
   "license": "CC0-1.0",
   "license_url": "https://github.com/rezmoss/cloud-provider-ip-addresses/blob/main/LICENSE"
 }

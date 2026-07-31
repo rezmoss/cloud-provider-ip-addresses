@@ -84,6 +84,12 @@
     "region": "us-gov-east-1"
   },
   {
+    "ip_address": "16.65.98.128/25",
+    "ip_type": "IPv4",
+    "service": "EFS",
+    "region": "us-gov-east-1"
+  },
+  {
     "ip_address": "16.66.0.0/16",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -621,6 +627,12 @@
     "ip_address": "2600:1f15::/36",
     "ip_type": "IPv6",
     "service": "EC2",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "2600:1f15:46b:6e00::/56",
+    "ip_type": "IPv6",
+    "service": "EFS",
     "region": "us-gov-east-1"
   },
   {

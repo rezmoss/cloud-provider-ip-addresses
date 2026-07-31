@@ -96,12 +96,6 @@
     "region": "global"
   },
   {
-    "ip_address": "96.6.69.0/24",
-    "ip_type": "IPv4",
-    "service": "akamai-as213120",
-    "region": "global"
-  },
-  {
     "ip_address": "103.41.68.0/22",
     "ip_type": "IPv4",
     "service": "akamai-as213120",

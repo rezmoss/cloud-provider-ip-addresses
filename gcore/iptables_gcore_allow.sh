@@ -1,6 +1,6 @@
 #!/bin/bash
 # Gcore IP Ranges
-# Updated: 2026-07-30 03:17:40
+# Updated: 2026-07-31 03:19:18
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -607,6 +607,8 @@ ip6tables -A INPUT -s 2a01:410:1:5024::1/128 -j ACCEPT
 ip6tables -A INPUT -s 2a01:4b40:1:19::2/128 -j ACCEPT
 ip6tables -A INPUT -s 2a01:4b40:1001:c::3/128 -j ACCEPT
 ip6tables -A INPUT -s 2a01:68c0:0:1:ffff::12/127 -j ACCEPT
+ip6tables -A INPUT -s 2a01:68c0:0:1:ffff::21/128 -j ACCEPT
+ip6tables -A INPUT -s 2a01:68c0:0:1:ffff::22/128 -j ACCEPT
 ip6tables -A INPUT -s 2a01:9c80:ada:5::202/128 -j ACCEPT
 ip6tables -A INPUT -s 2a01:c500:1:6::d4e8:670b/128 -j ACCEPT
 ip6tables -A INPUT -s 2a01:c500:1:6::d4e8:6749/128 -j ACCEPT

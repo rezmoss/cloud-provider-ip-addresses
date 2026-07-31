@@ -1,6 +1,6 @@
 #!/bin/bash
 # Huawei IP Ranges
-# Updated: 2026-07-29 03:15:42
+# Updated: 2026-07-31 03:19:15
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -209,7 +209,7 @@ ip6tables -A INPUT -s 2405:f080:a00::/39 -j DROP
 ip6tables -A INPUT -s 2405:f080:e02::/47 -j DROP
 ip6tables -A INPUT -s 2405:f080:e04::/46 -j DROP
 ip6tables -A INPUT -s 2405:f080:e0e::/47 -j DROP
-ip6tables -A INPUT -s 2405:f080:e10::/47 -j DROP
+ip6tables -A INPUT -s 2405:f080:e10::/46 -j DROP
 ip6tables -A INPUT -s 2405:f080:1000::/38 -j DROP
 ip6tables -A INPUT -s 2405:f080:1400::/46 -j DROP
 ip6tables -A INPUT -s 2405:f080:1500::/40 -j DROP

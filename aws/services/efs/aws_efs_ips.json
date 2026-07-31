@@ -36,10 +36,22 @@
     "region": "eu-south-1"
   },
   {
+    "ip_address": "16.22.152.0/22",
+    "ip_type": "IPv4",
+    "service": "EFS",
+    "region": "eu-south-1"
+  },
+  {
     "ip_address": "16.27.92.0/25",
     "ip_type": "IPv4",
     "service": "EFS",
     "region": "ap-southeast-4"
+  },
+  {
+    "ip_address": "16.65.98.128/25",
+    "ip_type": "IPv4",
+    "service": "EFS",
+    "region": "us-gov-east-1"
   },
   {
     "ip_address": "16.112.252.128/25",
@@ -70,6 +82,24 @@
     "ip_type": "IPv4",
     "service": "EFS",
     "region": "eu-south-2"
+  },
+  {
+    "ip_address": "40.38.87.128/25",
+    "ip_type": "IPv4",
+    "service": "EFS",
+    "region": "us-gov-west-1"
+  },
+  {
+    "ip_address": "43.192.222.0/25",
+    "ip_type": "IPv4",
+    "service": "EFS",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "43.196.168.0/25",
+    "ip_type": "IPv4",
+    "service": "EFS",
+    "region": "cn-north-1"
   },
   {
     "ip_address": "43.210.244.128/25",
@@ -118,6 +148,24 @@
     "ip_type": "IPv4",
     "service": "EFS",
     "region": "eu-west-1"
+  },
+  {
+    "ip_address": "108.133.136.0/22",
+    "ip_type": "IPv4",
+    "service": "EFS",
+    "region": "eu-west-1"
+  },
+  {
+    "ip_address": "2400:7fc0:86dd:2300::/56",
+    "ip_type": "IPv6",
+    "service": "EFS",
+    "region": "cn-north-1"
+  },
+  {
+    "ip_address": "2404:c2c0:8b03:e600::/56",
+    "ip_type": "IPv6",
+    "service": "EFS",
+    "region": "cn-northwest-1"
   },
   {
     "ip_address": "2406:da10:83d4:d000::/56",
@@ -174,6 +222,18 @@
     "region": "ap-southeast-4"
   },
   {
+    "ip_address": "2600:1f12:824:e00::/56",
+    "ip_type": "IPv6",
+    "service": "EFS",
+    "region": "us-gov-west-1"
+  },
+  {
+    "ip_address": "2600:1f15:46b:6e00::/56",
+    "ip_type": "IPv6",
+    "service": "EFS",
+    "region": "us-gov-east-1"
+  },
+  {
     "ip_address": "2600:1f17:4ce9:6400::/56",
     "ip_type": "IPv6",
     "service": "EFS",
@@ -204,10 +264,22 @@
     "region": "eu-west-1"
   },
   {
+    "ip_address": "2a05:d018:1944:bd00::/56",
+    "ip_type": "IPv6",
+    "service": "EFS",
+    "region": "eu-west-1"
+  },
+  {
     "ip_address": "2a05:d019:84f:800::/56",
     "ip_type": "IPv6",
     "service": "EFS",
     "region": "eu-central-2"
+  },
+  {
+    "ip_address": "2a05:d01a:5d:8900::/56",
+    "ip_type": "IPv6",
+    "service": "EFS",
+    "region": "eu-south-1"
   },
   {
     "ip_address": "2a05:d01a:eae:1b00::/56",

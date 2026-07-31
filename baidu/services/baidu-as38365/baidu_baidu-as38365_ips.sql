@@ -82,10 +82,6 @@ INSERT INTO `baidu_baidu-as38365_ips` (`ip_address`, `ip_type`) VALUES ('120.49.
 INSERT INTO `baidu_baidu-as38365_ips` (`ip_address`, `ip_type`) VALUES ('120.49.197.0/24', 'IPv4');
 INSERT INTO `baidu_baidu-as38365_ips` (`ip_address`, `ip_type`) VALUES ('120.49.198.0/24', 'IPv4');
 INSERT INTO `baidu_baidu-as38365_ips` (`ip_address`, `ip_type`) VALUES ('120.49.199.0/24', 'IPv4');
-INSERT INTO `baidu_baidu-as38365_ips` (`ip_address`, `ip_type`) VALUES ('150.242.120.0/24', 'IPv4');
-INSERT INTO `baidu_baidu-as38365_ips` (`ip_address`, `ip_type`) VALUES ('150.242.121.0/24', 'IPv4');
-INSERT INTO `baidu_baidu-as38365_ips` (`ip_address`, `ip_type`) VALUES ('150.242.122.0/24', 'IPv4');
-INSERT INTO `baidu_baidu-as38365_ips` (`ip_address`, `ip_type`) VALUES ('150.242.123.0/24', 'IPv4');
 INSERT INTO `baidu_baidu-as38365_ips` (`ip_address`, `ip_type`) VALUES ('180.76.16.0/20', 'IPv4');
 INSERT INTO `baidu_baidu-as38365_ips` (`ip_address`, `ip_type`) VALUES ('180.76.32.0/20', 'IPv4');
 INSERT INTO `baidu_baidu-as38365_ips` (`ip_address`, `ip_type`) VALUES ('180.76.36.0/22', 'IPv4');

@@ -19,6 +19,7 @@ ip_address,ip_type,service,region
 43.196.20.176/30,IPv4,EBS,cn-north-1
 43.196.24.4/31,IPv4,KINESIS_VIDEO_STREAMS,cn-north-1
 43.196.24.8/30,IPv4,KINESIS_VIDEO_STREAMS,cn-north-1
+43.196.168.0/25,IPv4,EFS,cn-north-1
 52.80.0.0/16,IPv4,AMAZON,cn-north-1
 52.80.0.0/16,IPv4,EC2,cn-north-1
 52.80.51.200/29,IPv4,ROUTE53_RESOLVER,cn-north-1
@@ -175,6 +176,7 @@ ip_address,ip_type,service,region
 2400:7fc0:83cc:cc00::/56,IPv6,ROUTE53_HEALTHCHECKS,cn-north-1
 2400:7fc0:83cc:cd00::/56,IPv6,ROUTE53_HEALTHCHECKS,cn-north-1
 2400:7fc0:83cc:ce00::/56,IPv6,ROUTE53_HEALTHCHECKS,cn-north-1
+2400:7fc0:86dd:2300::/56,IPv6,EFS,cn-north-1
 2400:7fc0:86fd:e00::/56,IPv6,EC2_INSTANCE_CONNECT,cn-north-1
 2400:7fc0:a000::/36,IPv6,AMAZON,cn-north-1
 2400:7fc0:a000::/36,IPv6,EC2,cn-north-1
