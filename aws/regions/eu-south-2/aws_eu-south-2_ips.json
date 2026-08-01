@@ -360,6 +360,12 @@
     "region": "eu-south-2"
   },
   {
+    "ip_address": "35.42.228.0/22",
+    "ip_type": "IPv4",
+    "service": "EFS",
+    "region": "eu-south-2"
+  },
+  {
     "ip_address": "35.43.0.0/16",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -1125,6 +1131,12 @@
     "ip_address": "2a05:d011:95f:c900::/56",
     "ip_type": "IPv6",
     "service": "AURORA_DSQL",
+    "region": "eu-south-2"
+  },
+  {
+    "ip_address": "2a05:d011:ab7:bb00::/56",
+    "ip_type": "IPv6",
+    "service": "EFS",
     "region": "eu-south-2"
   },
   {

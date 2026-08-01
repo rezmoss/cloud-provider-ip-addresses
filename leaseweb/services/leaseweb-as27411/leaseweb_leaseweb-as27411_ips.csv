@@ -104,4 +104,14 @@ ip_address,ip_type,service,region
 2a0f:3043::/32,IPv6,leaseweb-as27411,global
 2a10:67c7::/32,IPv6,leaseweb-as27411,global
 2a10:68c6::/32,IPv6,leaseweb-as27411,global
+2a11:ac40::/29,IPv6,leaseweb-as27411,global
+2a11:d840::/29,IPv6,leaseweb-as27411,global
+2a12:3300::/29,IPv6,leaseweb-as27411,global
+2a12:4000::/29,IPv6,leaseweb-as27411,global
+2a12:4c80::/29,IPv6,leaseweb-as27411,global
+2a12:4f00::/29,IPv6,leaseweb-as27411,global
+2a12:5280::/29,IPv6,leaseweb-as27411,global
+2a12:5600::/29,IPv6,leaseweb-as27411,global
+2a12:6200::/29,IPv6,leaseweb-as27411,global
+2a12:f300::/29,IPv6,leaseweb-as27411,global
 2a13:9280::/32,IPv6,leaseweb-as27411,global

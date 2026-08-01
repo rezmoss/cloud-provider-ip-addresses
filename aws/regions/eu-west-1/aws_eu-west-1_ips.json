@@ -2712,6 +2712,36 @@
     "region": "eu-west-1"
   },
   {
+    "ip_address": "108.133.140.0/22",
+    "ip_type": "IPv4",
+    "service": "EFS",
+    "region": "eu-west-1"
+  },
+  {
+    "ip_address": "108.133.144.0/22",
+    "ip_type": "IPv4",
+    "service": "EFS",
+    "region": "eu-west-1"
+  },
+  {
+    "ip_address": "108.133.148.0/22",
+    "ip_type": "IPv4",
+    "service": "EFS",
+    "region": "eu-west-1"
+  },
+  {
+    "ip_address": "108.133.152.0/22",
+    "ip_type": "IPv4",
+    "service": "EFS",
+    "region": "eu-west-1"
+  },
+  {
+    "ip_address": "108.133.156.0/22",
+    "ip_type": "IPv4",
+    "service": "EFS",
+    "region": "eu-west-1"
+  },
+  {
     "ip_address": "150.102.0.0/16",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -3834,6 +3864,12 @@
     "region": "eu-west-1"
   },
   {
+    "ip_address": "2a05:d018:931:1500::/56",
+    "ip_type": "IPv6",
+    "service": "EFS",
+    "region": "eu-west-1"
+  },
+  {
     "ip_address": "2a05:d018:b3d:8200::/56",
     "ip_type": "IPv6",
     "service": "AURORA_DSQL",
@@ -3846,7 +3882,31 @@
     "region": "eu-west-1"
   },
   {
+    "ip_address": "2a05:d018:12e5:5a00::/56",
+    "ip_type": "IPv6",
+    "service": "EFS",
+    "region": "eu-west-1"
+  },
+  {
+    "ip_address": "2a05:d018:1505:aa00::/56",
+    "ip_type": "IPv6",
+    "service": "EFS",
+    "region": "eu-west-1"
+  },
+  {
+    "ip_address": "2a05:d018:1813:9a00::/56",
+    "ip_type": "IPv6",
+    "service": "EFS",
+    "region": "eu-west-1"
+  },
+  {
     "ip_address": "2a05:d018:1944:bd00::/56",
+    "ip_type": "IPv6",
+    "service": "EFS",
+    "region": "eu-west-1"
+  },
+  {
+    "ip_address": "2a05:d018:1f0f:6e00::/56",
     "ip_type": "IPv6",
     "service": "EFS",
     "region": "eu-west-1"

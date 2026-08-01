@@ -1266,6 +1266,12 @@
     "region": "sa-east-1"
   },
   {
+    "ip_address": "54.20.104.0/22",
+    "ip_type": "IPv4",
+    "service": "EFS",
+    "region": "sa-east-1"
+  },
+  {
     "ip_address": "54.94.0.0/16",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -1845,6 +1851,12 @@
     "ip_address": "2600:1f1e:d1d:e700::/56",
     "ip_type": "IPv6",
     "service": "EC2_INSTANCE_CONNECT",
+    "region": "sa-east-1"
+  },
+  {
+    "ip_address": "2600:1f1e:fa8:6400::/56",
+    "ip_type": "IPv6",
+    "service": "EFS",
     "region": "sa-east-1"
   },
   {

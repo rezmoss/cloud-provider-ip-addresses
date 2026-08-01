@@ -10,6 +10,7 @@ INSERT INTO `github_api_ips` (`ip_address`, `ip_type`) VALUES ('4.208.26.200/32'
 INSERT INTO `github_api_ips` (`ip_address`, `ip_type`) VALUES ('4.225.11.201/32', 'IPv4');
 INSERT INTO `github_api_ips` (`ip_address`, `ip_type`) VALUES ('4.228.31.149/32', 'IPv4');
 INSERT INTO `github_api_ips` (`ip_address`, `ip_type`) VALUES ('4.237.22.34/32', 'IPv4');
+INSERT INTO `github_api_ips` (`ip_address`, `ip_type`) VALUES ('4.249.131.166/32', 'IPv4');
 INSERT INTO `github_api_ips` (`ip_address`, `ip_type`) VALUES ('20.26.156.210/32', 'IPv4');
 INSERT INTO `github_api_ips` (`ip_address`, `ip_type`) VALUES ('20.27.177.116/32', 'IPv4');
 INSERT INTO `github_api_ips` (`ip_address`, `ip_type`) VALUES ('20.29.134.17/32', 'IPv4');
@@ -22,8 +23,11 @@ INSERT INTO `github_api_ips` (`ip_address`, `ip_type`) VALUES ('20.205.243.168/3
 INSERT INTO `github_api_ips` (`ip_address`, `ip_type`) VALUES ('20.207.73.85/32', 'IPv4');
 INSERT INTO `github_api_ips` (`ip_address`, `ip_type`) VALUES ('20.217.135.0/32', 'IPv4');
 INSERT INTO `github_api_ips` (`ip_address`, `ip_type`) VALUES ('20.233.83.146/32', 'IPv4');
+INSERT INTO `github_api_ips` (`ip_address`, `ip_type`) VALUES ('48.202.248.39/32', 'IPv4');
+INSERT INTO `github_api_ips` (`ip_address`, `ip_type`) VALUES ('48.204.201.2/32', 'IPv4');
 INSERT INTO `github_api_ips` (`ip_address`, `ip_type`) VALUES ('140.82.112.0/20', 'IPv4');
 INSERT INTO `github_api_ips` (`ip_address`, `ip_type`) VALUES ('143.55.64.0/20', 'IPv4');
+INSERT INTO `github_api_ips` (`ip_address`, `ip_type`) VALUES ('172.182.252.137/32', 'IPv4');
 INSERT INTO `github_api_ips` (`ip_address`, `ip_type`) VALUES ('185.199.108.0/22', 'IPv4');
 INSERT INTO `github_api_ips` (`ip_address`, `ip_type`) VALUES ('192.30.252.0/22', 'IPv4');
 INSERT INTO `github_api_ips` (`ip_address`, `ip_type`) VALUES ('2606:50c0::/32', 'IPv6');

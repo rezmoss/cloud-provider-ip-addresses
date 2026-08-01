@@ -312,6 +312,12 @@
     "region": "ap-east-2"
   },
   {
+    "ip_address": "54.54.36.0/22",
+    "ip_type": "IPv4",
+    "service": "EFS",
+    "region": "ap-east-2"
+  },
+  {
     "ip_address": "54.55.0.0/16",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -459,6 +465,12 @@
     "ip_address": "2406:da1c:8000::/36",
     "ip_type": "IPv6",
     "service": "EC2",
+    "region": "ap-east-2"
+  },
+  {
+    "ip_address": "2406:da1c:80d4:8600::/56",
+    "ip_type": "IPv6",
+    "service": "EFS",
     "region": "ap-east-2"
   },
   {

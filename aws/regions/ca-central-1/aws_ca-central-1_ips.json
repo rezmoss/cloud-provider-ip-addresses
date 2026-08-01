@@ -360,6 +360,12 @@
     "region": "ca-central-1"
   },
   {
+    "ip_address": "15.175.48.0/22",
+    "ip_type": "IPv4",
+    "service": "EFS",
+    "region": "ca-central-1"
+  },
+  {
     "ip_address": "15.177.84.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -1233,6 +1239,12 @@
     "ip_address": "2600:1f11:ae3:700::/56",
     "ip_type": "IPv6",
     "service": "EC2_INSTANCE_CONNECT",
+    "region": "ca-central-1"
+  },
+  {
+    "ip_address": "2600:1f11:c0a:c700::/56",
+    "ip_type": "IPv6",
+    "service": "EFS",
     "region": "ca-central-1"
   },
   {

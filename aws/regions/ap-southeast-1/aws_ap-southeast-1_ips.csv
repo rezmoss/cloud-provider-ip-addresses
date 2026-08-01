@@ -317,6 +317,8 @@ ip_address,ip_type,service,region
 54.255.254.192/26,IPv4,ROUTE53_HEALTHCHECKS,ap-southeast-1
 56.10.0.0/16,IPv4,AMAZON,ap-southeast-1
 56.10.0.0/16,IPv4,EC2,ap-southeast-1
+56.10.72.0/22,IPv4,EFS,ap-southeast-1
+56.10.76.0/22,IPv4,EFS,ap-southeast-1
 56.11.0.0/16,IPv4,AMAZON,ap-southeast-1
 56.11.0.0/16,IPv4,EC2,ap-southeast-1
 63.249.192.0/24,IPv4,AMAZON,ap-southeast-1
@@ -422,6 +424,8 @@ ip_address,ip_type,service,region
 2406:da18:7ff:f800::/56,IPv6,ROUTE53_HEALTHCHECKS,ap-southeast-1
 2406:da18:fff:f800::/56,IPv6,ROUTE53_HEALTHCHECKS,ap-southeast-1
 2406:da18:1580:b00::/56,IPv6,AURORA_DSQL,ap-southeast-1
+2406:da18:15a1:c700::/56,IPv6,EFS,ap-southeast-1
+2406:da18:197a:ce00::/56,IPv6,EFS,ap-southeast-1
 2406:da18:8000::/36,IPv6,AMAZON,ap-southeast-1
 2406:da18:8000::/36,IPv6,EC2,ap-southeast-1
 2406:da1a:8000::/36,IPv6,AMAZON,ap-southeast-1

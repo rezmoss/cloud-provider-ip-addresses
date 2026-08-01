@@ -1563,6 +1563,9 @@ INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('106.11.40.0/
 INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('106.11.48.0/21', 'IPv4');
 INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('106.11.56.0/21', 'IPv4');
 INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('106.11.64.0/19', 'IPv4');
+INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('106.11.96.0/21', 'IPv4');
+INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('106.11.96.0/22', 'IPv4');
+INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('106.11.100.0/22', 'IPv4');
 INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('106.11.128.0/20', 'IPv4');
 INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('106.11.144.0/20', 'IPv4');
 INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('106.11.160.0/20', 'IPv4');

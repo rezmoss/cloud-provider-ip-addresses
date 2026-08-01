@@ -636,6 +636,12 @@
     "region": "eu-north-1"
   },
   {
+    "ip_address": "16.192.180.0/22",
+    "ip_type": "IPv4",
+    "service": "EFS",
+    "region": "eu-north-1"
+  },
+  {
     "ip_address": "16.193.0.0/16",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -1485,6 +1491,12 @@
     "ip_address": "2a05:d016::/36",
     "ip_type": "IPv6",
     "service": "EC2",
+    "region": "eu-north-1"
+  },
+  {
+    "ip_address": "2a05:d016:107:8100::/56",
+    "ip_type": "IPv6",
+    "service": "EFS",
     "region": "eu-north-1"
   },
   {

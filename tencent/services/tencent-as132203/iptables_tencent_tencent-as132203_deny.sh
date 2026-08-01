@@ -1,6 +1,6 @@
 #!/bin/bash
 # Tencent IP Ranges
-# Updated: 2026-07-25 03:14:54
+# Updated: 2026-08-01 03:14:48
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -98,7 +98,7 @@ iptables -A INPUT -s 103.7.28.0/22 -j DROP
 iptables -A INPUT -s 103.205.121.0/24 -j DROP
 iptables -A INPUT -s 103.205.122.0/23 -j DROP
 iptables -A INPUT -s 103.238.16.0/23 -j DROP
-iptables -A INPUT -s 103.242.0.0/23 -j DROP
+iptables -A INPUT -s 103.242.1.0/24 -j DROP
 iptables -A INPUT -s 119.28.0.0/17 -j DROP
 iptables -A INPUT -s 119.28.128.0/18 -j DROP
 iptables -A INPUT -s 119.28.192.0/19 -j DROP

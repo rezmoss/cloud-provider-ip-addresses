@@ -762,6 +762,12 @@
     "region": "ap-south-1"
   },
   {
+    "ip_address": "15.252.132.0/22",
+    "ip_type": "IPv4",
+    "service": "EFS",
+    "region": "ap-south-1"
+  },
+  {
     "ip_address": "16.4.0.0/16",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -1845,6 +1851,12 @@
     "ip_address": "2406:da1a:9d0:b800::/56",
     "ip_type": "IPv6",
     "service": "AURORA_DSQL",
+    "region": "ap-south-1"
+  },
+  {
+    "ip_address": "2406:da1a:a1a:5100::/56",
+    "ip_type": "IPv6",
+    "service": "EFS",
     "region": "ap-south-1"
   },
   {

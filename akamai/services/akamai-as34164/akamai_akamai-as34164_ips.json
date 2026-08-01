@@ -168,12 +168,6 @@
     "region": "global"
   },
   {
-    "ip_address": "2.18.241.0/24",
-    "ip_type": "IPv4",
-    "service": "akamai-as34164",
-    "region": "global"
-  },
-  {
     "ip_address": "2.18.246.0/24",
     "ip_type": "IPv4",
     "service": "akamai-as34164",

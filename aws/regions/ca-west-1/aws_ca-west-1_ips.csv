@@ -25,6 +25,7 @@ ip_address,ip_type,service,region
 16.174.54.0/23,IPv4,AMAZON,ca-west-1
 16.174.56.0/22,IPv4,WORKSPACES_GATEWAYS,ca-west-1
 16.174.90.128/25,IPv4,EFS,ca-west-1
+16.174.136.0/22,IPv4,EFS,ca-west-1
 16.175.0.0/16,IPv4,AMAZON,ca-west-1
 18.99.128.0/20,IPv4,AMAZON,ca-west-1
 18.99.128.0/20,IPv4,EC2,ca-west-1
@@ -81,6 +82,7 @@ ip_address,ip_type,service,region
 2600:1f1a:4000::/36,IPv6,AMAZON,ca-west-1
 2600:1f1a:4000::/36,IPv6,EC2,ca-west-1
 2600:1f1a:4040:b100::/56,IPv6,AURORA_DSQL,ca-west-1
+2600:1f1a:41c6:700::/56,IPv6,EFS,ca-west-1
 2600:1f1a:4bd9:d100::/56,IPv6,EFS,ca-west-1
 2600:1f1a:4ff6:d500::/56,IPv6,EC2_INSTANCE_CONNECT,ca-west-1
 2600:1f2a:4000::/36,IPv6,AMAZON,ca-west-1

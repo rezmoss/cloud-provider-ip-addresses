@@ -27,7 +27,6 @@ ip_address,ip_type,service,region
 2.18.208.0/24,IPv4,akamai-as34164,global
 2.18.209.0/24,IPv4,akamai-as34164,global
 2.18.210.0/23,IPv4,akamai-as34164,global
-2.18.241.0/24,IPv4,akamai-as34164,global
 2.18.246.0/24,IPv4,akamai-as34164,global
 2.18.249.0/24,IPv4,akamai-as34164,global
 2.19.48.0/24,IPv4,akamai-as34164,global

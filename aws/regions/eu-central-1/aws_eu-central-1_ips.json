@@ -2550,6 +2550,24 @@
     "region": "eu-central-1"
   },
   {
+    "ip_address": "63.187.12.0/22",
+    "ip_type": "IPv4",
+    "service": "EFS",
+    "region": "eu-central-1"
+  },
+  {
+    "ip_address": "63.187.16.0/22",
+    "ip_type": "IPv4",
+    "service": "EFS",
+    "region": "eu-central-1"
+  },
+  {
+    "ip_address": "63.187.20.0/22",
+    "ip_type": "IPv4",
+    "service": "EFS",
+    "region": "eu-central-1"
+  },
+  {
     "ip_address": "63.249.154.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -4338,6 +4356,18 @@
     "region": "eu-central-1"
   },
   {
+    "ip_address": "2a05:d014:102e:7e00::/56",
+    "ip_type": "IPv6",
+    "service": "EFS",
+    "region": "eu-central-1"
+  },
+  {
+    "ip_address": "2a05:d014:1338:dd00::/56",
+    "ip_type": "IPv6",
+    "service": "EFS",
+    "region": "eu-central-1"
+  },
+  {
     "ip_address": "2a05:d014:15a0:7500::/56",
     "ip_type": "IPv6",
     "service": "AURORA_DSQL",
@@ -4347,6 +4377,12 @@
     "ip_address": "2a05:d014:17a8:8b00::/56",
     "ip_type": "IPv6",
     "service": "EC2_INSTANCE_CONNECT",
+    "region": "eu-central-1"
+  },
+  {
+    "ip_address": "2a05:d014:1cde:6300::/56",
+    "ip_type": "IPv6",
+    "service": "EFS",
     "region": "eu-central-1"
   },
   {

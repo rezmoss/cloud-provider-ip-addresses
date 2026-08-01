@@ -2880,6 +2880,24 @@
     "region": "us-east-2"
   },
   {
+    "ip_address": "77.112.4.0/22",
+    "ip_type": "IPv4",
+    "service": "EFS",
+    "region": "us-east-2"
+  },
+  {
+    "ip_address": "77.112.8.0/22",
+    "ip_type": "IPv4",
+    "service": "EFS",
+    "region": "us-east-2"
+  },
+  {
+    "ip_address": "77.112.12.0/22",
+    "ip_type": "IPv4",
+    "service": "EFS",
+    "region": "us-east-2"
+  },
+  {
     "ip_address": "99.77.131.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -3711,6 +3729,24 @@
     "ip_address": "2600:1f16::/34",
     "ip_type": "IPv6",
     "service": "EC2",
+    "region": "us-east-2"
+  },
+  {
+    "ip_address": "2600:1f16:663:5300::/56",
+    "ip_type": "IPv6",
+    "service": "EFS",
+    "region": "us-east-2"
+  },
+  {
+    "ip_address": "2600:1f16:acd:3a00::/56",
+    "ip_type": "IPv6",
+    "service": "EFS",
+    "region": "us-east-2"
+  },
+  {
+    "ip_address": "2600:1f16:1119:8600::/56",
+    "ip_type": "IPv6",
+    "service": "EFS",
     "region": "us-east-2"
   },
   {

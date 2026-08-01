@@ -1092,6 +1092,18 @@
     "region": "eu-west-2"
   },
   {
+    "ip_address": "51.24.164.0/22",
+    "ip_type": "IPv4",
+    "service": "EFS",
+    "region": "eu-west-2"
+  },
+  {
+    "ip_address": "51.24.168.0/22",
+    "ip_type": "IPv4",
+    "service": "EFS",
+    "region": "eu-west-2"
+  },
+  {
     "ip_address": "51.200.0.0/15",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -2787,6 +2799,18 @@
     "ip_address": "2a05:d01c::/35",
     "ip_type": "IPv6",
     "service": "EC2",
+    "region": "eu-west-2"
+  },
+  {
+    "ip_address": "2a05:d01c:a6:3400::/56",
+    "ip_type": "IPv6",
+    "service": "EFS",
+    "region": "eu-west-2"
+  },
+  {
+    "ip_address": "2a05:d01c:47d:5300::/56",
+    "ip_type": "IPv6",
+    "service": "EFS",
     "region": "eu-west-2"
   },
   {

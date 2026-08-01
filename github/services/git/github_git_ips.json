@@ -40,6 +40,16 @@
     "service": "git"
   },
   {
+    "ip_address": "4.249.131.163/32",
+    "ip_type": "IPv4",
+    "service": "git"
+  },
+  {
+    "ip_address": "4.249.131.164/32",
+    "ip_type": "IPv4",
+    "service": "git"
+  },
+  {
     "ip_address": "20.26.156.214/32",
     "ip_type": "IPv4",
     "service": "git"
@@ -160,12 +170,42 @@
     "service": "git"
   },
   {
+    "ip_address": "48.202.248.38/32",
+    "ip_type": "IPv4",
+    "service": "git"
+  },
+  {
+    "ip_address": "48.202.248.40/32",
+    "ip_type": "IPv4",
+    "service": "git"
+  },
+  {
+    "ip_address": "48.204.201.5/32",
+    "ip_type": "IPv4",
+    "service": "git"
+  },
+  {
+    "ip_address": "48.204.201.6/32",
+    "ip_type": "IPv4",
+    "service": "git"
+  },
+  {
     "ip_address": "140.82.112.0/20",
     "ip_type": "IPv4",
     "service": "git"
   },
   {
     "ip_address": "143.55.64.0/20",
+    "ip_type": "IPv4",
+    "service": "git"
+  },
+  {
+    "ip_address": "172.182.252.133/32",
+    "ip_type": "IPv4",
+    "service": "git"
+  },
+  {
+    "ip_address": "172.182.252.135/32",
     "ip_type": "IPv4",
     "service": "git"
   },

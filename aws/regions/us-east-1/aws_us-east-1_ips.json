@@ -6720,6 +6720,78 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "100.62.24.0/22",
+    "ip_type": "IPv4",
+    "service": "EFS",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "100.62.28.0/22",
+    "ip_type": "IPv4",
+    "service": "EFS",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "100.62.32.0/22",
+    "ip_type": "IPv4",
+    "service": "EFS",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "100.62.36.0/22",
+    "ip_type": "IPv4",
+    "service": "EFS",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "100.62.40.0/22",
+    "ip_type": "IPv4",
+    "service": "EFS",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "100.62.44.0/22",
+    "ip_type": "IPv4",
+    "service": "EFS",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "100.62.48.0/22",
+    "ip_type": "IPv4",
+    "service": "EFS",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "100.62.52.0/22",
+    "ip_type": "IPv4",
+    "service": "EFS",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "100.62.56.0/22",
+    "ip_type": "IPv4",
+    "service": "EFS",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "100.62.60.0/22",
+    "ip_type": "IPv4",
+    "service": "EFS",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "100.62.64.0/22",
+    "ip_type": "IPv4",
+    "service": "EFS",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "100.62.68.0/22",
+    "ip_type": "IPv4",
+    "service": "EFS",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "104.153.112.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -8568,6 +8640,18 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "2600:1f10:4a47:1300::/56",
+    "ip_type": "IPv6",
+    "service": "EFS",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "2600:1f10:4d24:2400::/56",
+    "ip_type": "IPv6",
+    "service": "EFS",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "2600:1f10:c000::/36",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -8721,6 +8805,12 @@
     "ip_address": "2600:1f18::/33",
     "ip_type": "IPv6",
     "service": "EC2",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "2600:1f18:1738:ca00::/56",
+    "ip_type": "IPv6",
+    "service": "EFS",
     "region": "us-east-1"
   },
   {
@@ -8730,9 +8820,51 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "2600:1f18:25ad:5700::/56",
+    "ip_type": "IPv6",
+    "service": "EFS",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "2600:1f18:2c35:a300::/56",
+    "ip_type": "IPv6",
+    "service": "EFS",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "2600:1f18:3201:bd00::/56",
+    "ip_type": "IPv6",
+    "service": "EFS",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "2600:1f18:3a66:d400::/56",
+    "ip_type": "IPv6",
+    "service": "EFS",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "2600:1f18:3fff:f800::/56",
     "ip_type": "IPv6",
     "service": "ROUTE53_HEALTHCHECKS",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "2600:1f18:468e:ba00::/56",
+    "ip_type": "IPv6",
+    "service": "EFS",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "2600:1f18:54fd:f300::/56",
+    "ip_type": "IPv6",
+    "service": "EFS",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "2600:1f18:5914:9100::/56",
+    "ip_type": "IPv6",
+    "service": "EFS",
     "region": "us-east-1"
   },
   {
@@ -8745,6 +8877,18 @@
     "ip_address": "2600:1f18:6fe3:8c00::/56",
     "ip_type": "IPv6",
     "service": "EC2_INSTANCE_CONNECT",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "2600:1f18:759e:7a00::/56",
+    "ip_type": "IPv6",
+    "service": "EFS",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "2600:1f18:7a7b:c400::/56",
+    "ip_type": "IPv6",
+    "service": "EFS",
     "region": "us-east-1"
   },
   {

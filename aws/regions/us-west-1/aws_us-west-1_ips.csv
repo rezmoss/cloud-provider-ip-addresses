@@ -152,6 +152,7 @@ ip_address,ip_type,service,region
 40.164.0.0/16,IPv4,AMAZON,us-west-1
 40.164.0.0/16,IPv4,EC2,us-west-1
 40.164.2.0/23,IPv4,AMAZON,us-west-1
+40.164.4.0/22,IPv4,EFS,us-west-1
 40.165.0.0/16,IPv4,AMAZON,us-west-1
 40.166.0.0/16,IPv4,AMAZON,us-west-1
 40.167.0.0/16,IPv4,AMAZON,us-west-1
@@ -589,6 +590,7 @@ ip_address,ip_type,service,region
 2600:1f1c::/36,IPv6,EC2,us-west-1
 2600:1f1c:12d:e900::/56,IPv6,EC2_INSTANCE_CONNECT,us-west-1
 2600:1f1c:7ff:f800::/56,IPv6,ROUTE53_HEALTHCHECKS,us-west-1
+2600:1f1c:f8e:5d00::/56,IPv6,EFS,us-west-1
 2600:1f1c:fff:f800::/56,IPv6,ROUTE53_HEALTHCHECKS,us-west-1
 2600:1f2c::/36,IPv6,AMAZON,us-west-1
 2600:1f2c::/36,IPv6,EC2,us-west-1

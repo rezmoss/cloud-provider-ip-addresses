@@ -431,6 +431,9 @@ INSERT INTO `aws_eu-central-1_ips` (`ip_address`, `ip_type`) VALUES ('63.184.0.0
 INSERT INTO `aws_eu-central-1_ips` (`ip_address`, `ip_type`) VALUES ('63.184.0.0/13', 'IPv4');
 INSERT INTO `aws_eu-central-1_ips` (`ip_address`, `ip_type`) VALUES ('63.185.196.0/23', 'IPv4');
 INSERT INTO `aws_eu-central-1_ips` (`ip_address`, `ip_type`) VALUES ('63.186.244.0/23', 'IPv4');
+INSERT INTO `aws_eu-central-1_ips` (`ip_address`, `ip_type`) VALUES ('63.187.12.0/22', 'IPv4');
+INSERT INTO `aws_eu-central-1_ips` (`ip_address`, `ip_type`) VALUES ('63.187.16.0/22', 'IPv4');
+INSERT INTO `aws_eu-central-1_ips` (`ip_address`, `ip_type`) VALUES ('63.187.20.0/22', 'IPv4');
 INSERT INTO `aws_eu-central-1_ips` (`ip_address`, `ip_type`) VALUES ('63.249.154.0/24', 'IPv4');
 INSERT INTO `aws_eu-central-1_ips` (`ip_address`, `ip_type`) VALUES ('63.249.154.0/24', 'IPv4');
 INSERT INTO `aws_eu-central-1_ips` (`ip_address`, `ip_type`) VALUES ('63.249.155.0/24', 'IPv4');
@@ -729,8 +732,11 @@ INSERT INTO `aws_eu-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d000:
 INSERT INTO `aws_eu-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d000:4000::/40', 'IPv6');
 INSERT INTO `aws_eu-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d014::/35', 'IPv6');
 INSERT INTO `aws_eu-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d014::/35', 'IPv6');
+INSERT INTO `aws_eu-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d014:102e:7e00::/56', 'IPv6');
+INSERT INTO `aws_eu-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d014:1338:dd00::/56', 'IPv6');
 INSERT INTO `aws_eu-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d014:15a0:7500::/56', 'IPv6');
 INSERT INTO `aws_eu-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d014:17a8:8b00::/56', 'IPv6');
+INSERT INTO `aws_eu-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d014:1cde:6300::/56', 'IPv6');
 INSERT INTO `aws_eu-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d01b::/36', 'IPv6');
 INSERT INTO `aws_eu-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d01b::/36', 'IPv6');
 INSERT INTO `aws_eu-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d01d::/36', 'IPv6');

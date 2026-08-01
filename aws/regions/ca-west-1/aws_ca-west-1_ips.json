@@ -156,6 +156,12 @@
     "region": "ca-west-1"
   },
   {
+    "ip_address": "16.174.136.0/22",
+    "ip_type": "IPv4",
+    "service": "EFS",
+    "region": "ca-west-1"
+  },
+  {
     "ip_address": "16.175.0.0/16",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -489,6 +495,12 @@
     "ip_address": "2600:1f1a:4040:b100::/56",
     "ip_type": "IPv6",
     "service": "AURORA_DSQL",
+    "region": "ca-west-1"
+  },
+  {
+    "ip_address": "2600:1f1a:41c6:700::/56",
+    "ip_type": "IPv6",
+    "service": "EFS",
     "region": "ca-west-1"
   },
   {
