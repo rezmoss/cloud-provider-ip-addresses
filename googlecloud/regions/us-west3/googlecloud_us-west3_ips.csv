@@ -5,7 +5,6 @@ ip_address,ip_type,service,region
 34.22.32.0/19,IPv4,Google Cloud,us-west3
 34.104.52.0/24,IPv4,Google Cloud,us-west3
 34.106.0.0/16,IPv4,Google Cloud,us-west3
-34.127.145.0/24,IPv4,Google Cloud,us-west3
 34.127.180.0/24,IPv4,Google Cloud,us-west3
 34.152.111.0/24,IPv4,Google Cloud,us-west3
 34.177.79.0/24,IPv4,Google Cloud,us-west3

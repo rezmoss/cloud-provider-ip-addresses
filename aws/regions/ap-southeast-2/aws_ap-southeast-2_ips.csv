@@ -472,6 +472,8 @@ ip_address,ip_type,service,region
 2600:f0f0:c005::/48,IPv6,EC2,ap-southeast-2
 2600:f0f0:c049::/48,IPv6,AMAZON,ap-southeast-2
 2600:f0f0:c049::/48,IPv6,EC2,ap-southeast-2
+2600:f0f0:c145::/48,IPv6,AMAZON,ap-southeast-2
+2600:f0f0:c145::/48,IPv6,EC2,ap-southeast-2
 2600:f0f1:4540::/42,IPv6,AMAZON,ap-southeast-2
 2600:f0f1:4540::/42,IPv6,EC2,ap-southeast-2
 2600:f0f2:7019::/48,IPv6,AMAZON,ap-southeast-2

@@ -1,6 +1,6 @@
 [
   {
-    "ip_address": "64.177.80.0/21",
+    "ip_address": "64.177.80.0/20",
     "ip_type": "IPv4",
     "region": "MX-CMX"
   },
