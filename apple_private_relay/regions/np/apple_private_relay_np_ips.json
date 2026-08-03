@@ -205,6 +205,11 @@
     "region": "NP"
   },
   {
+    "ip_address": "172.225.170.16/28",
+    "ip_type": "IPv4",
+    "region": "NP"
+  },
+  {
     "ip_address": "172.225.201.128/28",
     "ip_type": "IPv4",
     "region": "NP"
@@ -291,6 +296,66 @@
   },
   {
     "ip_address": "2a02:26f7:d401:4000::/64",
+    "ip_type": "IPv6",
+    "region": "NP"
+  },
+  {
+    "ip_address": "2a02:26f7:d402:4000::/64",
+    "ip_type": "IPv6",
+    "region": "NP"
+  },
+  {
+    "ip_address": "2a02:26f7:d402:d1e0::/64",
+    "ip_type": "IPv6",
+    "region": "NP"
+  },
+  {
+    "ip_address": "2a02:26f7:d402:d1e1::/64",
+    "ip_type": "IPv6",
+    "region": "NP"
+  },
+  {
+    "ip_address": "2a02:26f7:d402:d1e2::/64",
+    "ip_type": "IPv6",
+    "region": "NP"
+  },
+  {
+    "ip_address": "2a02:26f7:d402:d1e3::/64",
+    "ip_type": "IPv6",
+    "region": "NP"
+  },
+  {
+    "ip_address": "2a02:26f7:d402:d1e4::/64",
+    "ip_type": "IPv6",
+    "region": "NP"
+  },
+  {
+    "ip_address": "2a02:26f7:d402:d1e5::/64",
+    "ip_type": "IPv6",
+    "region": "NP"
+  },
+  {
+    "ip_address": "2a02:26f7:d402:d1e6::/64",
+    "ip_type": "IPv6",
+    "region": "NP"
+  },
+  {
+    "ip_address": "2a02:26f7:d402:d1e7::/64",
+    "ip_type": "IPv6",
+    "region": "NP"
+  },
+  {
+    "ip_address": "2a02:26f7:d402:d1e8::/64",
+    "ip_type": "IPv6",
+    "region": "NP"
+  },
+  {
+    "ip_address": "2a02:26f7:d402:d1e9::/64",
+    "ip_type": "IPv6",
+    "region": "NP"
+  },
+  {
+    "ip_address": "2a02:26f7:d403:4000::/64",
     "ip_type": "IPv6",
     "region": "NP"
   },

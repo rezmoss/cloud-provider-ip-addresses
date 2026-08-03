@@ -395,6 +395,11 @@
     "region": "SA"
   },
   {
+    "ip_address": "172.225.170.32/27",
+    "ip_type": "IPv4",
+    "region": "SA"
+  },
+  {
     "ip_address": "172.225.200.192/27",
     "ip_type": "IPv4",
     "region": "SA"
@@ -581,6 +586,126 @@
   },
   {
     "ip_address": "2a02:26f7:f941:4000::/64",
+    "ip_type": "IPv6",
+    "region": "SA"
+  },
+  {
+    "ip_address": "2a02:26f7:f942::/54",
+    "ip_type": "IPv6",
+    "region": "SA"
+  },
+  {
+    "ip_address": "2a02:26f7:f942:400::/60",
+    "ip_type": "IPv6",
+    "region": "SA"
+  },
+  {
+    "ip_address": "2a02:26f7:f942:4000::/64",
+    "ip_type": "IPv6",
+    "region": "SA"
+  },
+  {
+    "ip_address": "2a02:26f7:f942:d340::/64",
+    "ip_type": "IPv6",
+    "region": "SA"
+  },
+  {
+    "ip_address": "2a02:26f7:f942:d341::/64",
+    "ip_type": "IPv6",
+    "region": "SA"
+  },
+  {
+    "ip_address": "2a02:26f7:f942:d342::/64",
+    "ip_type": "IPv6",
+    "region": "SA"
+  },
+  {
+    "ip_address": "2a02:26f7:f942:d343::/64",
+    "ip_type": "IPv6",
+    "region": "SA"
+  },
+  {
+    "ip_address": "2a02:26f7:f942:d344::/64",
+    "ip_type": "IPv6",
+    "region": "SA"
+  },
+  {
+    "ip_address": "2a02:26f7:f942:d345::/64",
+    "ip_type": "IPv6",
+    "region": "SA"
+  },
+  {
+    "ip_address": "2a02:26f7:f942:d346::/64",
+    "ip_type": "IPv6",
+    "region": "SA"
+  },
+  {
+    "ip_address": "2a02:26f7:f942:d347::/64",
+    "ip_type": "IPv6",
+    "region": "SA"
+  },
+  {
+    "ip_address": "2a02:26f7:f942:d348::/64",
+    "ip_type": "IPv6",
+    "region": "SA"
+  },
+  {
+    "ip_address": "2a02:26f7:f942:d349::/64",
+    "ip_type": "IPv6",
+    "region": "SA"
+  },
+  {
+    "ip_address": "2a02:26f7:f942:d34a::/64",
+    "ip_type": "IPv6",
+    "region": "SA"
+  },
+  {
+    "ip_address": "2a02:26f7:f942:d34b::/64",
+    "ip_type": "IPv6",
+    "region": "SA"
+  },
+  {
+    "ip_address": "2a02:26f7:f942:d34c::/64",
+    "ip_type": "IPv6",
+    "region": "SA"
+  },
+  {
+    "ip_address": "2a02:26f7:f942:d34d::/64",
+    "ip_type": "IPv6",
+    "region": "SA"
+  },
+  {
+    "ip_address": "2a02:26f7:f942:d34e::/64",
+    "ip_type": "IPv6",
+    "region": "SA"
+  },
+  {
+    "ip_address": "2a02:26f7:f942:d34f::/64",
+    "ip_type": "IPv6",
+    "region": "SA"
+  },
+  {
+    "ip_address": "2a02:26f7:f942:d350::/64",
+    "ip_type": "IPv6",
+    "region": "SA"
+  },
+  {
+    "ip_address": "2a02:26f7:f942:d351::/64",
+    "ip_type": "IPv6",
+    "region": "SA"
+  },
+  {
+    "ip_address": "2a02:26f7:f942:d352::/64",
+    "ip_type": "IPv6",
+    "region": "SA"
+  },
+  {
+    "ip_address": "2a02:26f7:f942:d353::/64",
+    "ip_type": "IPv6",
+    "region": "SA"
+  },
+  {
+    "ip_address": "2a02:26f7:f943:4000::/64",
     "ip_type": "IPv6",
     "region": "SA"
   },

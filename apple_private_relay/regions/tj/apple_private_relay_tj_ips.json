@@ -20,6 +20,11 @@
     "region": "TJ"
   },
   {
+    "ip_address": "172.225.170.64/28",
+    "ip_type": "IPv4",
+    "region": "TJ"
+  },
+  {
     "ip_address": "172.225.172.224/28",
     "ip_type": "IPv4",
     "region": "TJ"
@@ -51,6 +56,26 @@
   },
   {
     "ip_address": "2a02:26f7:da81:4000::/64",
+    "ip_type": "IPv6",
+    "region": "TJ"
+  },
+  {
+    "ip_address": "2a02:26f7:da82:4000::/64",
+    "ip_type": "IPv6",
+    "region": "TJ"
+  },
+  {
+    "ip_address": "2a02:26f7:da82:cca0::/64",
+    "ip_type": "IPv6",
+    "region": "TJ"
+  },
+  {
+    "ip_address": "2a02:26f7:da82:cca1::/64",
+    "ip_type": "IPv6",
+    "region": "TJ"
+  },
+  {
+    "ip_address": "2a02:26f7:da83:4000::/64",
     "ip_type": "IPv6",
     "region": "TJ"
   },

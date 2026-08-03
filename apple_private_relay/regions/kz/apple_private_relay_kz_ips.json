@@ -1,5 +1,10 @@
 [
   {
+    "ip_address": "104.28.137.165/32",
+    "ip_type": "IPv4",
+    "region": "KZ"
+  },
+  {
     "ip_address": "104.28.142.156/32",
     "ip_type": "IPv4",
     "region": "KZ"
@@ -36,6 +41,16 @@
   },
   {
     "ip_address": "172.225.172.80/28",
+    "ip_type": "IPv4",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "172.225.174.160/28",
+    "ip_type": "IPv4",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "172.225.174.176/28",
     "ip_type": "IPv4",
     "region": "KZ"
   },
@@ -141,6 +156,81 @@
   },
   {
     "ip_address": "2a02:26f7:ce01:4000::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:ce02:4000::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:ce02:d2c0::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:ce02:d2c1::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:ce02:d2c2::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:ce02:d2c3::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:ce02:d2c4::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:ce02:d2c6::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:ce02:d2c7::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:ce02:d2c8::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:ce02:d2c9::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:ce02:d2ca::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:ce02:d2cb::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:ce02:d2cc::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:ce02:d2cd::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:ce03:4000::/64",
     "ip_type": "IPv6",
     "region": "KZ"
   },
@@ -696,6 +786,336 @@
   },
   {
     "ip_address": "2a02:26f7:de81:4000::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:de82:4000::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:de82:d680::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:de82:d681::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:de82:d682::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:de82:d683::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:de82:d684::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:de82:d685::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:de82:d686::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:de82:d688::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:de82:d689::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:de82:d68a::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:de82:d68b::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:de82:d68c::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:de82:d68d::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:de82:d68e::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:de82:d68f::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:de82:d690::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:de82:d691::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:de82:d692::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:de82:d693::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:de82:d694::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:de82:d695::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:de82:d696::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:de82:d697::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:de82:d698::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:de82:d699::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:de82:d69a::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:de82:d69b::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:de82:d69c::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:de82:d69d::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:de82:d69e::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:de82:d69f::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:de82:d6a0::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:de82:d6a1::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:de82:d6a2::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:de82:d6a3::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:de82:d6a4::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:de82:d6a5::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:de82:d6a6::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:de82:d6a7::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:de82:d6a8::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:de82:d6a9::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:de82:d6aa::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:de82:d6ab::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:de82:d6ac::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:de82:d6ad::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:de82:d6ae::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:de82:d6af::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:de82:d6b0::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:de82:d6b1::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:de82:d6b2::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:de82:d6b3::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:de82:d6b4::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:de82:d6b5::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:de82:d6b6::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:de82:d6b7::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:de82:d6b8::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:de82:d6b9::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:de82:d6ba::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:de82:d6bb::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:de82:d6bc::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:de82:d6bd::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:de82:d6be::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:de82:d6bf::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:de82:d6c0::/64",
+    "ip_type": "IPv6",
+    "region": "KZ"
+  },
+  {
+    "ip_address": "2a02:26f7:de83:4000::/64",
     "ip_type": "IPv6",
     "region": "KZ"
   },

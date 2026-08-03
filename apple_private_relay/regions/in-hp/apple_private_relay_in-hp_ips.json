@@ -160,6 +160,41 @@
     "region": "IN-HP"
   },
   {
+    "ip_address": "2a02:26f7:d6c8:685f::/64",
+    "ip_type": "IPv6",
+    "region": "IN-HP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6860::/64",
+    "ip_type": "IPv6",
+    "region": "IN-HP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6861::/64",
+    "ip_type": "IPv6",
+    "region": "IN-HP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6862::/64",
+    "ip_type": "IPv6",
+    "region": "IN-HP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6863::/64",
+    "ip_type": "IPv6",
+    "region": "IN-HP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6864::/64",
+    "ip_type": "IPv6",
+    "region": "IN-HP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6865::/64",
+    "ip_type": "IPv6",
+    "region": "IN-HP"
+  },
+  {
     "ip_address": "2a02:26f7:d6cc:685f::/64",
     "ip_type": "IPv6",
     "region": "IN-HP"

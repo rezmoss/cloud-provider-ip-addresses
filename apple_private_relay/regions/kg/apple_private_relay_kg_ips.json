@@ -20,6 +20,11 @@
     "region": "KG"
   },
   {
+    "ip_address": "172.225.174.128/28",
+    "ip_type": "IPv4",
+    "region": "KG"
+  },
+  {
     "ip_address": "172.225.182.160/27",
     "ip_type": "IPv4",
     "region": "KG"
@@ -71,6 +76,51 @@
   },
   {
     "ip_address": "2a02:26f7:ce41:4000::/64",
+    "ip_type": "IPv6",
+    "region": "KG"
+  },
+  {
+    "ip_address": "2a02:26f7:ce42:4000::/64",
+    "ip_type": "IPv6",
+    "region": "KG"
+  },
+  {
+    "ip_address": "2a02:26f7:ce42:d060::/64",
+    "ip_type": "IPv6",
+    "region": "KG"
+  },
+  {
+    "ip_address": "2a02:26f7:ce42:d061::/64",
+    "ip_type": "IPv6",
+    "region": "KG"
+  },
+  {
+    "ip_address": "2a02:26f7:ce42:d062::/64",
+    "ip_type": "IPv6",
+    "region": "KG"
+  },
+  {
+    "ip_address": "2a02:26f7:ce42:d063::/64",
+    "ip_type": "IPv6",
+    "region": "KG"
+  },
+  {
+    "ip_address": "2a02:26f7:ce42:d064::/64",
+    "ip_type": "IPv6",
+    "region": "KG"
+  },
+  {
+    "ip_address": "2a02:26f7:ce42:d065::/64",
+    "ip_type": "IPv6",
+    "region": "KG"
+  },
+  {
+    "ip_address": "2a02:26f7:ce42:d066::/64",
+    "ip_type": "IPv6",
+    "region": "KG"
+  },
+  {
+    "ip_address": "2a02:26f7:ce43:4000::/64",
     "ip_type": "IPv6",
     "region": "KG"
   },

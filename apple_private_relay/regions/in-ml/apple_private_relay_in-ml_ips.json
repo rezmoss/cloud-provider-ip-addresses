@@ -30,6 +30,11 @@
     "region": "IN-ML"
   },
   {
+    "ip_address": "2a02:26f7:d6c8:68c7::/64",
+    "ip_type": "IPv6",
+    "region": "IN-ML"
+  },
+  {
     "ip_address": "2a02:26f7:d6cc:68c7::/64",
     "ip_type": "IPv6",
     "region": "IN-ML"

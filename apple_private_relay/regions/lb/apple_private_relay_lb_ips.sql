@@ -6,6 +6,7 @@ CREATE TABLE IF NOT EXISTS `apple_private_relay_lb_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `apple_private_relay_lb_ips` (`ip_address`, `ip_type`) VALUES ('104.28.137.174/32', 'IPv4');
 INSERT INTO `apple_private_relay_lb_ips` (`ip_address`, `ip_type`) VALUES ('104.28.146.255/32', 'IPv4');
 INSERT INTO `apple_private_relay_lb_ips` (`ip_address`, `ip_type`) VALUES ('140.248.24.76/31', 'IPv4');
 INSERT INTO `apple_private_relay_lb_ips` (`ip_address`, `ip_type`) VALUES ('140.248.36.166/31', 'IPv4');

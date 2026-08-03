@@ -105,6 +105,11 @@
     "region": "MM"
   },
   {
+    "ip_address": "172.225.170.0/28",
+    "ip_type": "IPv4",
+    "region": "MM"
+  },
+  {
     "ip_address": "172.225.200.160/28",
     "ip_type": "IPv4",
     "region": "MM"
@@ -191,6 +196,56 @@
   },
   {
     "ip_address": "2a02:26f7:d501:4000::/64",
+    "ip_type": "IPv6",
+    "region": "MM"
+  },
+  {
+    "ip_address": "2a02:26f7:d502:4000::/64",
+    "ip_type": "IPv6",
+    "region": "MM"
+  },
+  {
+    "ip_address": "2a02:26f7:d502:d0c0::/64",
+    "ip_type": "IPv6",
+    "region": "MM"
+  },
+  {
+    "ip_address": "2a02:26f7:d502:d0c1::/64",
+    "ip_type": "IPv6",
+    "region": "MM"
+  },
+  {
+    "ip_address": "2a02:26f7:d502:d0c2::/64",
+    "ip_type": "IPv6",
+    "region": "MM"
+  },
+  {
+    "ip_address": "2a02:26f7:d502:d0c3::/64",
+    "ip_type": "IPv6",
+    "region": "MM"
+  },
+  {
+    "ip_address": "2a02:26f7:d502:d0c4::/64",
+    "ip_type": "IPv6",
+    "region": "MM"
+  },
+  {
+    "ip_address": "2a02:26f7:d502:d0c5::/64",
+    "ip_type": "IPv6",
+    "region": "MM"
+  },
+  {
+    "ip_address": "2a02:26f7:d502:d0c6::/64",
+    "ip_type": "IPv6",
+    "region": "MM"
+  },
+  {
+    "ip_address": "2a02:26f7:d502:d0c7::/64",
+    "ip_type": "IPv6",
+    "region": "MM"
+  },
+  {
+    "ip_address": "2a02:26f7:d503:4000::/64",
     "ip_type": "IPv6",
     "region": "MM"
   },

@@ -250,6 +250,21 @@
     "region": "KR"
   },
   {
+    "ip_address": "172.225.174.116/31",
+    "ip_type": "IPv4",
+    "region": "KR"
+  },
+  {
+    "ip_address": "172.225.174.144/28",
+    "ip_type": "IPv4",
+    "region": "KR"
+  },
+  {
+    "ip_address": "172.225.174.192/26",
+    "ip_type": "IPv4",
+    "region": "KR"
+  },
+  {
     "ip_address": "172.225.201.38/31",
     "ip_type": "IPv4",
     "region": "KR"
@@ -606,6 +621,286 @@
   },
   {
     "ip_address": "2a02:26f7:c3c1:4000::/64",
+    "ip_type": "IPv6",
+    "region": "KR"
+  },
+  {
+    "ip_address": "2a02:26f7:c3c2::/54",
+    "ip_type": "IPv6",
+    "region": "KR"
+  },
+  {
+    "ip_address": "2a02:26f7:c3c2:400::/54",
+    "ip_type": "IPv6",
+    "region": "KR"
+  },
+  {
+    "ip_address": "2a02:26f7:c3c2:800::/56",
+    "ip_type": "IPv6",
+    "region": "KR"
+  },
+  {
+    "ip_address": "2a02:26f7:c3c2:4000::/64",
+    "ip_type": "IPv6",
+    "region": "KR"
+  },
+  {
+    "ip_address": "2a02:26f7:c3c2:5000::/64",
+    "ip_type": "IPv6",
+    "region": "KR"
+  },
+  {
+    "ip_address": "2a02:26f7:c3c2:5001::/64",
+    "ip_type": "IPv6",
+    "region": "KR"
+  },
+  {
+    "ip_address": "2a02:26f7:c3c2:5002::/64",
+    "ip_type": "IPv6",
+    "region": "KR"
+  },
+  {
+    "ip_address": "2a02:26f7:c3c2:5003::/64",
+    "ip_type": "IPv6",
+    "region": "KR"
+  },
+  {
+    "ip_address": "2a02:26f7:c3c2:5004::/64",
+    "ip_type": "IPv6",
+    "region": "KR"
+  },
+  {
+    "ip_address": "2a02:26f7:c3c2:5005::/64",
+    "ip_type": "IPv6",
+    "region": "KR"
+  },
+  {
+    "ip_address": "2a02:26f7:c3c2:5006::/64",
+    "ip_type": "IPv6",
+    "region": "KR"
+  },
+  {
+    "ip_address": "2a02:26f7:c3c2:5007::/64",
+    "ip_type": "IPv6",
+    "region": "KR"
+  },
+  {
+    "ip_address": "2a02:26f7:c3c2:5008::/64",
+    "ip_type": "IPv6",
+    "region": "KR"
+  },
+  {
+    "ip_address": "2a02:26f7:c3c2:5009::/64",
+    "ip_type": "IPv6",
+    "region": "KR"
+  },
+  {
+    "ip_address": "2a02:26f7:c3c2:500a::/64",
+    "ip_type": "IPv6",
+    "region": "KR"
+  },
+  {
+    "ip_address": "2a02:26f7:c3c2:500b::/64",
+    "ip_type": "IPv6",
+    "region": "KR"
+  },
+  {
+    "ip_address": "2a02:26f7:c3c2:500c::/64",
+    "ip_type": "IPv6",
+    "region": "KR"
+  },
+  {
+    "ip_address": "2a02:26f7:c3c2:500d::/64",
+    "ip_type": "IPv6",
+    "region": "KR"
+  },
+  {
+    "ip_address": "2a02:26f7:c3c2:500e::/64",
+    "ip_type": "IPv6",
+    "region": "KR"
+  },
+  {
+    "ip_address": "2a02:26f7:c3c2:500f::/64",
+    "ip_type": "IPv6",
+    "region": "KR"
+  },
+  {
+    "ip_address": "2a02:26f7:c3c2:5010::/64",
+    "ip_type": "IPv6",
+    "region": "KR"
+  },
+  {
+    "ip_address": "2a02:26f7:c3c2:5011::/64",
+    "ip_type": "IPv6",
+    "region": "KR"
+  },
+  {
+    "ip_address": "2a02:26f7:c3c2:5012::/64",
+    "ip_type": "IPv6",
+    "region": "KR"
+  },
+  {
+    "ip_address": "2a02:26f7:c3c2:5013::/64",
+    "ip_type": "IPv6",
+    "region": "KR"
+  },
+  {
+    "ip_address": "2a02:26f7:c3c2:5014::/64",
+    "ip_type": "IPv6",
+    "region": "KR"
+  },
+  {
+    "ip_address": "2a02:26f7:c3c2:5015::/64",
+    "ip_type": "IPv6",
+    "region": "KR"
+  },
+  {
+    "ip_address": "2a02:26f7:c3c2:5016::/64",
+    "ip_type": "IPv6",
+    "region": "KR"
+  },
+  {
+    "ip_address": "2a02:26f7:c3c2:5017::/64",
+    "ip_type": "IPv6",
+    "region": "KR"
+  },
+  {
+    "ip_address": "2a02:26f7:c3c2:5018::/64",
+    "ip_type": "IPv6",
+    "region": "KR"
+  },
+  {
+    "ip_address": "2a02:26f7:c3c2:5019::/64",
+    "ip_type": "IPv6",
+    "region": "KR"
+  },
+  {
+    "ip_address": "2a02:26f7:c3c2:501a::/64",
+    "ip_type": "IPv6",
+    "region": "KR"
+  },
+  {
+    "ip_address": "2a02:26f7:c3c2:501b::/64",
+    "ip_type": "IPv6",
+    "region": "KR"
+  },
+  {
+    "ip_address": "2a02:26f7:c3c2:501c::/64",
+    "ip_type": "IPv6",
+    "region": "KR"
+  },
+  {
+    "ip_address": "2a02:26f7:c3c2:501d::/64",
+    "ip_type": "IPv6",
+    "region": "KR"
+  },
+  {
+    "ip_address": "2a02:26f7:c3c2:501e::/64",
+    "ip_type": "IPv6",
+    "region": "KR"
+  },
+  {
+    "ip_address": "2a02:26f7:c3c2:501f::/64",
+    "ip_type": "IPv6",
+    "region": "KR"
+  },
+  {
+    "ip_address": "2a02:26f7:c3c2:5020::/64",
+    "ip_type": "IPv6",
+    "region": "KR"
+  },
+  {
+    "ip_address": "2a02:26f7:c3c2:5021::/64",
+    "ip_type": "IPv6",
+    "region": "KR"
+  },
+  {
+    "ip_address": "2a02:26f7:c3c2:5022::/64",
+    "ip_type": "IPv6",
+    "region": "KR"
+  },
+  {
+    "ip_address": "2a02:26f7:c3c2:5023::/64",
+    "ip_type": "IPv6",
+    "region": "KR"
+  },
+  {
+    "ip_address": "2a02:26f7:c3c2:5024::/64",
+    "ip_type": "IPv6",
+    "region": "KR"
+  },
+  {
+    "ip_address": "2a02:26f7:c3c2:5025::/64",
+    "ip_type": "IPv6",
+    "region": "KR"
+  },
+  {
+    "ip_address": "2a02:26f7:c3c2:5026::/64",
+    "ip_type": "IPv6",
+    "region": "KR"
+  },
+  {
+    "ip_address": "2a02:26f7:c3c2:5027::/64",
+    "ip_type": "IPv6",
+    "region": "KR"
+  },
+  {
+    "ip_address": "2a02:26f7:c3c2:5028::/64",
+    "ip_type": "IPv6",
+    "region": "KR"
+  },
+  {
+    "ip_address": "2a02:26f7:c3c2:5029::/64",
+    "ip_type": "IPv6",
+    "region": "KR"
+  },
+  {
+    "ip_address": "2a02:26f7:c3c2:502a::/64",
+    "ip_type": "IPv6",
+    "region": "KR"
+  },
+  {
+    "ip_address": "2a02:26f7:c3c2:502b::/64",
+    "ip_type": "IPv6",
+    "region": "KR"
+  },
+  {
+    "ip_address": "2a02:26f7:c3c2:502c::/64",
+    "ip_type": "IPv6",
+    "region": "KR"
+  },
+  {
+    "ip_address": "2a02:26f7:c3c2:502d::/64",
+    "ip_type": "IPv6",
+    "region": "KR"
+  },
+  {
+    "ip_address": "2a02:26f7:c3c2:502e::/64",
+    "ip_type": "IPv6",
+    "region": "KR"
+  },
+  {
+    "ip_address": "2a02:26f7:c3c2:502f::/64",
+    "ip_type": "IPv6",
+    "region": "KR"
+  },
+  {
+    "ip_address": "2a02:26f7:c3c2:5030::/64",
+    "ip_type": "IPv6",
+    "region": "KR"
+  },
+  {
+    "ip_address": "2a02:26f7:c3c2:5031::/64",
+    "ip_type": "IPv6",
+    "region": "KR"
+  },
+  {
+    "ip_address": "2a02:26f7:c3c2:5032::/64",
+    "ip_type": "IPv6",
+    "region": "KR"
+  },
+  {
+    "ip_address": "2a02:26f7:c3c3:4000::/64",
     "ip_type": "IPv6",
     "region": "KR"
   },

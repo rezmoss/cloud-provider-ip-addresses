@@ -40,6 +40,16 @@
     "region": "IN-DD"
   },
   {
+    "ip_address": "2a02:26f7:d6c8:6842::/64",
+    "ip_type": "IPv6",
+    "region": "IN-DD"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6843::/64",
+    "ip_type": "IPv6",
+    "region": "IN-DD"
+  },
+  {
     "ip_address": "2a02:26f7:d6cc:6842::/64",
     "ip_type": "IPv6",
     "region": "IN-DD"

@@ -228,6 +228,12 @@
     "region": "global"
   },
   {
+    "ip_address": "8.134.251.0/24",
+    "ip_type": "IPv4",
+    "service": "alibaba-as37963",
+    "region": "global"
+  },
+  {
     "ip_address": "8.135.0.0/16",
     "ip_type": "IPv4",
     "service": "alibaba-as37963",

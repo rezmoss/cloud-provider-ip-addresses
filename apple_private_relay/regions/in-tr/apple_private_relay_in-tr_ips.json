@@ -30,6 +30,11 @@
     "region": "IN-TR"
   },
   {
+    "ip_address": "2a02:26f7:d6c8:6951::/64",
+    "ip_type": "IPv6",
+    "region": "IN-TR"
+  },
+  {
     "ip_address": "2a02:26f7:d6cc:6951::/64",
     "ip_type": "IPv6",
     "region": "IN-TR"

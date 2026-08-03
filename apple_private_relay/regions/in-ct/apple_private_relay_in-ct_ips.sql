@@ -64,6 +64,13 @@ INSERT INTO `apple_private_relay_in-ct_ips` (`ip_address`, `ip_type`) VALUES ('2
 INSERT INTO `apple_private_relay_in-ct_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d6c6:683f::/64', 'IPv6');
 INSERT INTO `apple_private_relay_in-ct_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d6c6:6840::/64', 'IPv6');
 INSERT INTO `apple_private_relay_in-ct_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d6c6:6841::/64', 'IPv6');
+INSERT INTO `apple_private_relay_in-ct_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d6c8:683b::/64', 'IPv6');
+INSERT INTO `apple_private_relay_in-ct_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d6c8:683c::/64', 'IPv6');
+INSERT INTO `apple_private_relay_in-ct_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d6c8:683d::/64', 'IPv6');
+INSERT INTO `apple_private_relay_in-ct_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d6c8:683e::/64', 'IPv6');
+INSERT INTO `apple_private_relay_in-ct_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d6c8:683f::/64', 'IPv6');
+INSERT INTO `apple_private_relay_in-ct_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d6c8:6840::/64', 'IPv6');
+INSERT INTO `apple_private_relay_in-ct_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d6c8:6841::/64', 'IPv6');
 INSERT INTO `apple_private_relay_in-ct_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d6cc:683b::/64', 'IPv6');
 INSERT INTO `apple_private_relay_in-ct_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d6cc:683c::/64', 'IPv6');
 INSERT INTO `apple_private_relay_in-ct_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d6cc:683d::/64', 'IPv6');

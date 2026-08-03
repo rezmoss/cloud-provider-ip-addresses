@@ -10,6 +10,10 @@ INSERT INTO `apple_private_relay_nz-wko_ips` (`ip_address`, `ip_type`) VALUES ('
 INSERT INTO `apple_private_relay_nz-wko_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f400:5308::/64', 'IPv6');
 INSERT INTO `apple_private_relay_nz-wko_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f400:530a::/64', 'IPv6');
 INSERT INTO `apple_private_relay_nz-wko_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f400:531a::/64', 'IPv6');
+INSERT INTO `apple_private_relay_nz-wko_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f402:590::/60', 'IPv6');
+INSERT INTO `apple_private_relay_nz-wko_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f402:5308::/64', 'IPv6');
+INSERT INTO `apple_private_relay_nz-wko_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f402:530a::/64', 'IPv6');
+INSERT INTO `apple_private_relay_nz-wko_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f402:531a::/64', 'IPv6');
 INSERT INTO `apple_private_relay_nz-wko_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f404:590::/60', 'IPv6');
 INSERT INTO `apple_private_relay_nz-wko_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f404:5308::/64', 'IPv6');
 INSERT INTO `apple_private_relay_nz-wko_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f404:530a::/64', 'IPv6');

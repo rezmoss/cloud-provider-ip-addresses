@@ -20,6 +20,26 @@
     "region": "NZ-WKO"
   },
   {
+    "ip_address": "2a02:26f7:f402:590::/60",
+    "ip_type": "IPv6",
+    "region": "NZ-WKO"
+  },
+  {
+    "ip_address": "2a02:26f7:f402:5308::/64",
+    "ip_type": "IPv6",
+    "region": "NZ-WKO"
+  },
+  {
+    "ip_address": "2a02:26f7:f402:530a::/64",
+    "ip_type": "IPv6",
+    "region": "NZ-WKO"
+  },
+  {
+    "ip_address": "2a02:26f7:f402:531a::/64",
+    "ip_type": "IPv6",
+    "region": "NZ-WKO"
+  },
+  {
     "ip_address": "2a02:26f7:f404:590::/60",
     "ip_type": "IPv6",
     "region": "NZ-WKO"

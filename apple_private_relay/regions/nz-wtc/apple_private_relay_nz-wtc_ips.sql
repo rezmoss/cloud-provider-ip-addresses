@@ -7,6 +7,7 @@ CREATE TABLE IF NOT EXISTS `apple_private_relay_nz-wtc_ips` (
 );
 
 INSERT INTO `apple_private_relay_nz-wtc_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f400:531f::/64', 'IPv6');
+INSERT INTO `apple_private_relay_nz-wtc_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f402:531f::/64', 'IPv6');
 INSERT INTO `apple_private_relay_nz-wtc_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f404:531f::/64', 'IPv6');
 INSERT INTO `apple_private_relay_nz-wtc_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f408:531f::/64', 'IPv6');
 INSERT INTO `apple_private_relay_nz-wtc_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f40c:531f::/64', 'IPv6');

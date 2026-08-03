@@ -330,6 +330,16 @@
     "region": "IN-GJ"
   },
   {
+    "ip_address": "104.28.137.166/32",
+    "ip_type": "IPv4",
+    "region": "IN-GJ"
+  },
+  {
+    "ip_address": "104.28.137.167/32",
+    "ip_type": "IPv4",
+    "region": "IN-GJ"
+  },
+  {
     "ip_address": "104.28.147.82/32",
     "ip_type": "IPv4",
     "region": "IN-GJ"
@@ -386,6 +396,16 @@
   },
   {
     "ip_address": "172.225.137.224/31",
+    "ip_type": "IPv4",
+    "region": "IN-GJ"
+  },
+  {
+    "ip_address": "172.225.174.104/31",
+    "ip_type": "IPv4",
+    "region": "IN-GJ"
+  },
+  {
+    "ip_address": "172.225.174.114/31",
     "ip_type": "IPv4",
     "region": "IN-GJ"
   },
@@ -1130,6 +1150,151 @@
     "region": "IN-GJ"
   },
   {
+    "ip_address": "2a02:26f7:d6c8:e40::/58",
+    "ip_type": "IPv6",
+    "region": "IN-GJ"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6803::/64",
+    "ip_type": "IPv6",
+    "region": "IN-GJ"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6804::/64",
+    "ip_type": "IPv6",
+    "region": "IN-GJ"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6845::/64",
+    "ip_type": "IPv6",
+    "region": "IN-GJ"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6846::/64",
+    "ip_type": "IPv6",
+    "region": "IN-GJ"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6847::/64",
+    "ip_type": "IPv6",
+    "region": "IN-GJ"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6848::/64",
+    "ip_type": "IPv6",
+    "region": "IN-GJ"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6849::/64",
+    "ip_type": "IPv6",
+    "region": "IN-GJ"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:684a::/64",
+    "ip_type": "IPv6",
+    "region": "IN-GJ"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:684b::/64",
+    "ip_type": "IPv6",
+    "region": "IN-GJ"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:684c::/64",
+    "ip_type": "IPv6",
+    "region": "IN-GJ"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:684d::/64",
+    "ip_type": "IPv6",
+    "region": "IN-GJ"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:684e::/64",
+    "ip_type": "IPv6",
+    "region": "IN-GJ"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:684f::/64",
+    "ip_type": "IPv6",
+    "region": "IN-GJ"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6850::/64",
+    "ip_type": "IPv6",
+    "region": "IN-GJ"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6851::/64",
+    "ip_type": "IPv6",
+    "region": "IN-GJ"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6852::/64",
+    "ip_type": "IPv6",
+    "region": "IN-GJ"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6853::/64",
+    "ip_type": "IPv6",
+    "region": "IN-GJ"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6854::/64",
+    "ip_type": "IPv6",
+    "region": "IN-GJ"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6855::/64",
+    "ip_type": "IPv6",
+    "region": "IN-GJ"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6856::/64",
+    "ip_type": "IPv6",
+    "region": "IN-GJ"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6857::/64",
+    "ip_type": "IPv6",
+    "region": "IN-GJ"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6858::/64",
+    "ip_type": "IPv6",
+    "region": "IN-GJ"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6859::/64",
+    "ip_type": "IPv6",
+    "region": "IN-GJ"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:685a::/64",
+    "ip_type": "IPv6",
+    "region": "IN-GJ"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:685b::/64",
+    "ip_type": "IPv6",
+    "region": "IN-GJ"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:685c::/64",
+    "ip_type": "IPv6",
+    "region": "IN-GJ"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:685d::/64",
+    "ip_type": "IPv6",
+    "region": "IN-GJ"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:685e::/64",
+    "ip_type": "IPv6",
+    "region": "IN-GJ"
+  },
+  {
     "ip_address": "2a02:26f7:d6cc:e40::/58",
     "ip_type": "IPv6",
     "region": "IN-GJ"
@@ -1510,6 +1675,11 @@
     "region": "IN-GJ"
   },
   {
+    "ip_address": "2a09:bac2:d578::/45",
+    "ip_type": "IPv6",
+    "region": "IN-GJ"
+  },
+  {
     "ip_address": "2a09:bac3:3ba8::/45",
     "ip_type": "IPv6",
     "region": "IN-GJ"
@@ -1561,6 +1731,11 @@
   },
   {
     "ip_address": "2a09:bac3:3bf8::/45",
+    "ip_type": "IPv6",
+    "region": "IN-GJ"
+  },
+  {
+    "ip_address": "2a09:bac3:d578::/45",
     "ip_type": "IPv6",
     "region": "IN-GJ"
   }

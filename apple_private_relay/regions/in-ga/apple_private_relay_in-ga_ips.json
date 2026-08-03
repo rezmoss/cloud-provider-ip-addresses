@@ -5,6 +5,11 @@
     "region": "IN-GA"
   },
   {
+    "ip_address": "172.225.174.106/31",
+    "ip_type": "IPv4",
+    "region": "IN-GA"
+  },
+  {
     "ip_address": "172.225.181.184/31",
     "ip_type": "IPv4",
     "region": "IN-GA"
@@ -46,6 +51,11 @@
   },
   {
     "ip_address": "2a02:26f7:d6c6:6802::/64",
+    "ip_type": "IPv6",
+    "region": "IN-GA"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6802::/64",
     "ip_type": "IPv6",
     "region": "IN-GA"
   },

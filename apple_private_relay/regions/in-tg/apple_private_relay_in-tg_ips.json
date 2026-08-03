@@ -300,6 +300,11 @@
     "region": "IN-TG"
   },
   {
+    "ip_address": "172.225.174.54/31",
+    "ip_type": "IPv4",
+    "region": "IN-TG"
+  },
+  {
     "ip_address": "172.225.181.110/31",
     "ip_type": "IPv4",
     "region": "IN-TG"
@@ -721,6 +726,86 @@
   },
   {
     "ip_address": "2a02:26f7:d6c6:6929::/64",
+    "ip_type": "IPv6",
+    "region": "IN-TG"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:e80::/58",
+    "ip_type": "IPv6",
+    "region": "IN-TG"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:680c::/64",
+    "ip_type": "IPv6",
+    "region": "IN-TG"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6812::/64",
+    "ip_type": "IPv6",
+    "region": "IN-TG"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:681a::/64",
+    "ip_type": "IPv6",
+    "region": "IN-TG"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:681d::/64",
+    "ip_type": "IPv6",
+    "region": "IN-TG"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:681e::/64",
+    "ip_type": "IPv6",
+    "region": "IN-TG"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6824::/64",
+    "ip_type": "IPv6",
+    "region": "IN-TG"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6920::/64",
+    "ip_type": "IPv6",
+    "region": "IN-TG"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6921::/64",
+    "ip_type": "IPv6",
+    "region": "IN-TG"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6923::/64",
+    "ip_type": "IPv6",
+    "region": "IN-TG"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6924::/64",
+    "ip_type": "IPv6",
+    "region": "IN-TG"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6925::/64",
+    "ip_type": "IPv6",
+    "region": "IN-TG"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6926::/64",
+    "ip_type": "IPv6",
+    "region": "IN-TG"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6927::/64",
+    "ip_type": "IPv6",
+    "region": "IN-TG"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6928::/64",
+    "ip_type": "IPv6",
+    "region": "IN-TG"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6929::/64",
     "ip_type": "IPv6",
     "region": "IN-TG"
   },

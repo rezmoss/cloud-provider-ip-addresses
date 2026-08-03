@@ -10,6 +10,16 @@
     "region": "NZ-GIS"
   },
   {
+    "ip_address": "2a02:26f7:f402:5307::/64",
+    "ip_type": "IPv6",
+    "region": "NZ-GIS"
+  },
+  {
+    "ip_address": "2a02:26f7:f402:531d::/64",
+    "ip_type": "IPv6",
+    "region": "NZ-GIS"
+  },
+  {
     "ip_address": "2a02:26f7:f404:5307::/64",
     "ip_type": "IPv6",
     "region": "NZ-GIS"

@@ -13,9 +13,12 @@ INSERT INTO `apple_private_relay_nz-ota_ips` (`ip_address`, `ip_type`) VALUES ('
 INSERT INTO `apple_private_relay_nz-ota_ips` (`ip_address`, `ip_type`) VALUES ('172.225.60.206/31', 'IPv4');
 INSERT INTO `apple_private_relay_nz-ota_ips` (`ip_address`, `ip_type`) VALUES ('172.225.63.92/31', 'IPv4');
 INSERT INTO `apple_private_relay_nz-ota_ips` (`ip_address`, `ip_type`) VALUES ('172.225.156.178/31', 'IPv4');
+INSERT INTO `apple_private_relay_nz-ota_ips` (`ip_address`, `ip_type`) VALUES ('172.225.175.16/31', 'IPv4');
 INSERT INTO `apple_private_relay_nz-ota_ips` (`ip_address`, `ip_type`) VALUES ('172.225.245.104/31', 'IPv4');
 INSERT INTO `apple_private_relay_nz-ota_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f400:5302::/64', 'IPv6');
 INSERT INTO `apple_private_relay_nz-ota_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f400:5317::/64', 'IPv6');
+INSERT INTO `apple_private_relay_nz-ota_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f402:5302::/64', 'IPv6');
+INSERT INTO `apple_private_relay_nz-ota_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f402:5317::/64', 'IPv6');
 INSERT INTO `apple_private_relay_nz-ota_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f404:5302::/64', 'IPv6');
 INSERT INTO `apple_private_relay_nz-ota_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f404:5317::/64', 'IPv6');
 INSERT INTO `apple_private_relay_nz-ota_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f408:5302::/64', 'IPv6');

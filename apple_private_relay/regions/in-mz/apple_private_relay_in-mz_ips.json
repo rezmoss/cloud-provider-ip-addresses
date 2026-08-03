@@ -60,6 +60,16 @@
     "region": "IN-MZ"
   },
   {
+    "ip_address": "2a02:26f7:d6c8:68dd::/64",
+    "ip_type": "IPv6",
+    "region": "IN-MZ"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:68de::/64",
+    "ip_type": "IPv6",
+    "region": "IN-MZ"
+  },
+  {
     "ip_address": "2a02:26f7:d6cc:68dd::/64",
     "ip_type": "IPv6",
     "region": "IN-MZ"

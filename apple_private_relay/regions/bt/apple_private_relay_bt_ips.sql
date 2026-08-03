@@ -15,6 +15,7 @@ INSERT INTO `apple_private_relay_bt_ips` (`ip_address`, `ip_type`) VALUES ('146.
 INSERT INTO `apple_private_relay_bt_ips` (`ip_address`, `ip_type`) VALUES ('146.75.214.44/31', 'IPv4');
 INSERT INTO `apple_private_relay_bt_ips` (`ip_address`, `ip_type`) VALUES ('172.224.241.128/26', 'IPv4');
 INSERT INTO `apple_private_relay_bt_ips` (`ip_address`, `ip_type`) VALUES ('172.225.78.128/27', 'IPv4');
+INSERT INTO `apple_private_relay_bt_ips` (`ip_address`, `ip_type`) VALUES ('172.225.174.16/28', 'IPv4');
 INSERT INTO `apple_private_relay_bt_ips` (`ip_address`, `ip_type`) VALUES ('172.225.200.16/28', 'IPv4');
 INSERT INTO `apple_private_relay_bt_ips` (`ip_address`, `ip_type`) VALUES ('172.225.218.128/28', 'IPv4');
 INSERT INTO `apple_private_relay_bt_ips` (`ip_address`, `ip_type`) VALUES ('172.226.156.96/27', 'IPv4');
@@ -25,6 +26,13 @@ INSERT INTO `apple_private_relay_bt_ips` (`ip_address`, `ip_type`) VALUES ('2a02
 INSERT INTO `apple_private_relay_bt_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:cec0:cf03::/64', 'IPv6');
 INSERT INTO `apple_private_relay_bt_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:cec0:cf04::/64', 'IPv6');
 INSERT INTO `apple_private_relay_bt_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:cec1:4000::/64', 'IPv6');
+INSERT INTO `apple_private_relay_bt_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:cec2:4000::/64', 'IPv6');
+INSERT INTO `apple_private_relay_bt_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:cec2:cf00::/64', 'IPv6');
+INSERT INTO `apple_private_relay_bt_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:cec2:cf01::/64', 'IPv6');
+INSERT INTO `apple_private_relay_bt_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:cec2:cf02::/64', 'IPv6');
+INSERT INTO `apple_private_relay_bt_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:cec2:cf03::/64', 'IPv6');
+INSERT INTO `apple_private_relay_bt_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:cec2:cf04::/64', 'IPv6');
+INSERT INTO `apple_private_relay_bt_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:cec3:4000::/64', 'IPv6');
 INSERT INTO `apple_private_relay_bt_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:cec8:4000::/64', 'IPv6');
 INSERT INTO `apple_private_relay_bt_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:cec8:cf00::/64', 'IPv6');
 INSERT INTO `apple_private_relay_bt_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:cec8:cf01::/64', 'IPv6');

@@ -77,6 +77,7 @@ INSERT INTO `apple_private_relay_hk_ips` (`ip_address`, `ip_type`) VALUES ('104.
 INSERT INTO `apple_private_relay_hk_ips` (`ip_address`, `ip_type`) VALUES ('104.28.136.165/32', 'IPv4');
 INSERT INTO `apple_private_relay_hk_ips` (`ip_address`, `ip_type`) VALUES ('104.28.136.166/32', 'IPv4');
 INSERT INTO `apple_private_relay_hk_ips` (`ip_address`, `ip_type`) VALUES ('104.28.136.167/32', 'IPv4');
+INSERT INTO `apple_private_relay_hk_ips` (`ip_address`, `ip_type`) VALUES ('104.28.137.168/32', 'IPv4');
 INSERT INTO `apple_private_relay_hk_ips` (`ip_address`, `ip_type`) VALUES ('104.28.139.160/32', 'IPv4');
 INSERT INTO `apple_private_relay_hk_ips` (`ip_address`, `ip_type`) VALUES ('104.28.141.23/32', 'IPv4');
 INSERT INTO `apple_private_relay_hk_ips` (`ip_address`, `ip_type`) VALUES ('104.28.141.24/32', 'IPv4');

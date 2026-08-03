@@ -8,6 +8,8 @@ CREATE TABLE IF NOT EXISTS `apple_private_relay_nz-gis_ips` (
 
 INSERT INTO `apple_private_relay_nz-gis_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f400:5307::/64', 'IPv6');
 INSERT INTO `apple_private_relay_nz-gis_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f400:531d::/64', 'IPv6');
+INSERT INTO `apple_private_relay_nz-gis_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f402:5307::/64', 'IPv6');
+INSERT INTO `apple_private_relay_nz-gis_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f402:531d::/64', 'IPv6');
 INSERT INTO `apple_private_relay_nz-gis_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f404:5307::/64', 'IPv6');
 INSERT INTO `apple_private_relay_nz-gis_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f404:531d::/64', 'IPv6');
 INSERT INTO `apple_private_relay_nz-gis_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f408:5307::/64', 'IPv6');

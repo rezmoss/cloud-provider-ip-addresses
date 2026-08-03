@@ -50,6 +50,16 @@
     "region": "IN-NL"
   },
   {
+    "ip_address": "2a02:26f7:d6c8:682d::/64",
+    "ip_type": "IPv6",
+    "region": "IN-NL"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:68df::/64",
+    "ip_type": "IPv6",
+    "region": "IN-NL"
+  },
+  {
     "ip_address": "2a02:26f7:d6cc:682d::/64",
     "ip_type": "IPv6",
     "region": "IN-NL"

@@ -20,6 +20,11 @@
     "region": "TM"
   },
   {
+    "ip_address": "172.225.170.80/28",
+    "ip_type": "IPv4",
+    "region": "TM"
+  },
+  {
     "ip_address": "172.225.200.224/28",
     "ip_type": "IPv4",
     "region": "TM"
@@ -46,6 +51,26 @@
   },
   {
     "ip_address": "2a02:26f7:da41:4000::/64",
+    "ip_type": "IPv6",
+    "region": "TM"
+  },
+  {
+    "ip_address": "2a02:26f7:da42:4000::/64",
+    "ip_type": "IPv6",
+    "region": "TM"
+  },
+  {
+    "ip_address": "2a02:26f7:da42:ccc0::/64",
+    "ip_type": "IPv6",
+    "region": "TM"
+  },
+  {
+    "ip_address": "2a02:26f7:da42:ccc1::/64",
+    "ip_type": "IPv6",
+    "region": "TM"
+  },
+  {
+    "ip_address": "2a02:26f7:da43:4000::/64",
     "ip_type": "IPv6",
     "region": "TM"
   },

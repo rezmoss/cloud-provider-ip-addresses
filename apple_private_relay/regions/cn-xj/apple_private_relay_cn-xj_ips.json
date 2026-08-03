@@ -5,6 +5,11 @@
     "region": "CN-XJ"
   },
   {
+    "ip_address": "172.225.174.32/28",
+    "ip_type": "IPv4",
+    "region": "CN-XJ"
+  },
+  {
     "ip_address": "172.225.200.32/28",
     "ip_type": "IPv4",
     "region": "CN-XJ"
@@ -56,6 +61,51 @@
   },
   {
     "ip_address": "2a02:26f7:ce81:4000::/64",
+    "ip_type": "IPv6",
+    "region": "CN-XJ"
+  },
+  {
+    "ip_address": "2a02:26f7:ce82:4000::/64",
+    "ip_type": "IPv6",
+    "region": "CN-XJ"
+  },
+  {
+    "ip_address": "2a02:26f7:ce82:d040::/64",
+    "ip_type": "IPv6",
+    "region": "CN-XJ"
+  },
+  {
+    "ip_address": "2a02:26f7:ce82:d041::/64",
+    "ip_type": "IPv6",
+    "region": "CN-XJ"
+  },
+  {
+    "ip_address": "2a02:26f7:ce82:d042::/64",
+    "ip_type": "IPv6",
+    "region": "CN-XJ"
+  },
+  {
+    "ip_address": "2a02:26f7:ce82:d043::/64",
+    "ip_type": "IPv6",
+    "region": "CN-XJ"
+  },
+  {
+    "ip_address": "2a02:26f7:ce82:d044::/64",
+    "ip_type": "IPv6",
+    "region": "CN-XJ"
+  },
+  {
+    "ip_address": "2a02:26f7:ce82:d045::/64",
+    "ip_type": "IPv6",
+    "region": "CN-XJ"
+  },
+  {
+    "ip_address": "2a02:26f7:ce82:d046::/64",
+    "ip_type": "IPv6",
+    "region": "CN-XJ"
+  },
+  {
+    "ip_address": "2a02:26f7:ce83:4000::/64",
     "ip_type": "IPv6",
     "region": "CN-XJ"
   },

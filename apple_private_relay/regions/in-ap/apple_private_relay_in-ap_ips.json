@@ -720,6 +720,121 @@
     "region": "IN-AP"
   },
   {
+    "ip_address": "2a02:26f7:d6c8:f00::/60",
+    "ip_type": "IPv6",
+    "region": "IN-AP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6810::/64",
+    "ip_type": "IPv6",
+    "region": "IN-AP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6811::/64",
+    "ip_type": "IPv6",
+    "region": "IN-AP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6813::/64",
+    "ip_type": "IPv6",
+    "region": "IN-AP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6814::/64",
+    "ip_type": "IPv6",
+    "region": "IN-AP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6815::/64",
+    "ip_type": "IPv6",
+    "region": "IN-AP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6816::/64",
+    "ip_type": "IPv6",
+    "region": "IN-AP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6817::/64",
+    "ip_type": "IPv6",
+    "region": "IN-AP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6818::/64",
+    "ip_type": "IPv6",
+    "region": "IN-AP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6819::/64",
+    "ip_type": "IPv6",
+    "region": "IN-AP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:681b::/64",
+    "ip_type": "IPv6",
+    "region": "IN-AP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:681c::/64",
+    "ip_type": "IPv6",
+    "region": "IN-AP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:681f::/64",
+    "ip_type": "IPv6",
+    "region": "IN-AP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6820::/64",
+    "ip_type": "IPv6",
+    "region": "IN-AP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6821::/64",
+    "ip_type": "IPv6",
+    "region": "IN-AP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6822::/64",
+    "ip_type": "IPv6",
+    "region": "IN-AP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6823::/64",
+    "ip_type": "IPv6",
+    "region": "IN-AP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6825::/64",
+    "ip_type": "IPv6",
+    "region": "IN-AP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6826::/64",
+    "ip_type": "IPv6",
+    "region": "IN-AP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6827::/64",
+    "ip_type": "IPv6",
+    "region": "IN-AP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6828::/64",
+    "ip_type": "IPv6",
+    "region": "IN-AP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6829::/64",
+    "ip_type": "IPv6",
+    "region": "IN-AP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6922::/64",
+    "ip_type": "IPv6",
+    "region": "IN-AP"
+  },
+  {
     "ip_address": "2a02:26f7:d6cc:f00::/60",
     "ip_type": "IPv6",
     "region": "IN-AP"

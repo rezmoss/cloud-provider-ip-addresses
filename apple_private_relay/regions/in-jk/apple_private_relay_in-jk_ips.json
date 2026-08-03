@@ -170,6 +170,31 @@
     "region": "IN-JK"
   },
   {
+    "ip_address": "2a02:26f7:d6c8:687b::/64",
+    "ip_type": "IPv6",
+    "region": "IN-JK"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:687c::/64",
+    "ip_type": "IPv6",
+    "region": "IN-JK"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:687d::/64",
+    "ip_type": "IPv6",
+    "region": "IN-JK"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:687e::/64",
+    "ip_type": "IPv6",
+    "region": "IN-JK"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:687f::/64",
+    "ip_type": "IPv6",
+    "region": "IN-JK"
+  },
+  {
     "ip_address": "2a02:26f7:d6cc:687b::/64",
     "ip_type": "IPv6",
     "region": "IN-JK"

@@ -210,6 +210,26 @@
     "region": "SG"
   },
   {
+    "ip_address": "104.28.137.170/32",
+    "ip_type": "IPv4",
+    "region": "SG"
+  },
+  {
+    "ip_address": "104.28.137.171/32",
+    "ip_type": "IPv4",
+    "region": "SG"
+  },
+  {
+    "ip_address": "104.28.137.172/32",
+    "ip_type": "IPv4",
+    "region": "SG"
+  },
+  {
+    "ip_address": "104.28.137.182/32",
+    "ip_type": "IPv4",
+    "region": "SG"
+  },
+  {
     "ip_address": "104.28.139.168/32",
     "ip_type": "IPv4",
     "region": "SG"

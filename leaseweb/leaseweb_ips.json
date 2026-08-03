@@ -6270,12 +6270,6 @@
     "region": "global"
   },
   {
-    "ip_address": "144.225.127.0/24",
-    "ip_type": "IPv4",
-    "service": "leaseweb-as27411",
-    "region": "global"
-  },
-  {
     "ip_address": "145.223.42.0/24",
     "ip_type": "IPv4",
     "service": "leaseweb-as60781",

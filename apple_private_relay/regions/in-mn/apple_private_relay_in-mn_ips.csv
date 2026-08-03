@@ -9,6 +9,8 @@ ip_address,ip_type,region
 2a02:26f7:d6c4:68c9::/64,IPv6,IN-MN
 2a02:26f7:d6c6:68c8::/64,IPv6,IN-MN
 2a02:26f7:d6c6:68c9::/64,IPv6,IN-MN
+2a02:26f7:d6c8:68c8::/64,IPv6,IN-MN
+2a02:26f7:d6c8:68c9::/64,IPv6,IN-MN
 2a02:26f7:d6cc:68c8::/64,IPv6,IN-MN
 2a02:26f7:d6cc:68c9::/64,IPv6,IN-MN
 2a02:26f7:d6d0:68c8::/64,IPv6,IN-MN

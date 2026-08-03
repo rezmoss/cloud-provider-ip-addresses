@@ -160,6 +160,26 @@
     "region": "IN-BR"
   },
   {
+    "ip_address": "2a02:26f7:d6c8:6837::/64",
+    "ip_type": "IPv6",
+    "region": "IN-BR"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6838::/64",
+    "ip_type": "IPv6",
+    "region": "IN-BR"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6839::/64",
+    "ip_type": "IPv6",
+    "region": "IN-BR"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:683a::/64",
+    "ip_type": "IPv6",
+    "region": "IN-BR"
+  },
+  {
     "ip_address": "2a02:26f7:d6cc:6837::/64",
     "ip_type": "IPv6",
     "region": "IN-BR"

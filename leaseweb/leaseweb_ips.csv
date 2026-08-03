@@ -1044,7 +1044,6 @@ ip_address,ip_type,service,region
 142.234.252.0/22,IPv4,leaseweb-as395954,global
 144.225.42.0/24,IPv4,leaseweb-as60781,global
 144.225.43.0/24,IPv4,leaseweb-as60781,global
-144.225.127.0/24,IPv4,leaseweb-as27411,global
 145.223.42.0/24,IPv4,leaseweb-as60781,global
 145.223.45.0/24,IPv4,leaseweb-as60781,global
 145.223.51.0/24,IPv4,leaseweb-as60781,global

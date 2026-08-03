@@ -48,6 +48,10 @@ INSERT INTO `apple_private_relay_sg_ips` (`ip_address`, `ip_type`) VALUES ('104.
 INSERT INTO `apple_private_relay_sg_ips` (`ip_address`, `ip_type`) VALUES ('104.28.136.229/32', 'IPv4');
 INSERT INTO `apple_private_relay_sg_ips` (`ip_address`, `ip_type`) VALUES ('104.28.136.230/32', 'IPv4');
 INSERT INTO `apple_private_relay_sg_ips` (`ip_address`, `ip_type`) VALUES ('104.28.136.231/32', 'IPv4');
+INSERT INTO `apple_private_relay_sg_ips` (`ip_address`, `ip_type`) VALUES ('104.28.137.170/32', 'IPv4');
+INSERT INTO `apple_private_relay_sg_ips` (`ip_address`, `ip_type`) VALUES ('104.28.137.171/32', 'IPv4');
+INSERT INTO `apple_private_relay_sg_ips` (`ip_address`, `ip_type`) VALUES ('104.28.137.172/32', 'IPv4');
+INSERT INTO `apple_private_relay_sg_ips` (`ip_address`, `ip_type`) VALUES ('104.28.137.182/32', 'IPv4');
 INSERT INTO `apple_private_relay_sg_ips` (`ip_address`, `ip_type`) VALUES ('104.28.139.168/32', 'IPv4');
 INSERT INTO `apple_private_relay_sg_ips` (`ip_address`, `ip_type`) VALUES ('104.28.139.169/32', 'IPv4');
 INSERT INTO `apple_private_relay_sg_ips` (`ip_address`, `ip_type`) VALUES ('104.28.139.170/32', 'IPv4');

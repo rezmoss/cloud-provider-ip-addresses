@@ -90,6 +90,11 @@
     "region": "IN-OR"
   },
   {
+    "ip_address": "172.225.174.96/31",
+    "ip_type": "IPv4",
+    "region": "IN-OR"
+  },
+  {
     "ip_address": "172.225.181.164/31",
     "ip_type": "IPv4",
     "region": "IN-OR"
@@ -541,6 +546,96 @@
   },
   {
     "ip_address": "2a02:26f7:d6c6:68f0::/64",
+    "ip_type": "IPv6",
+    "region": "IN-OR"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:680a::/64",
+    "ip_type": "IPv6",
+    "region": "IN-OR"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:68e0::/64",
+    "ip_type": "IPv6",
+    "region": "IN-OR"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:68e1::/64",
+    "ip_type": "IPv6",
+    "region": "IN-OR"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:68e2::/64",
+    "ip_type": "IPv6",
+    "region": "IN-OR"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:68e3::/64",
+    "ip_type": "IPv6",
+    "region": "IN-OR"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:68e4::/64",
+    "ip_type": "IPv6",
+    "region": "IN-OR"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:68e5::/64",
+    "ip_type": "IPv6",
+    "region": "IN-OR"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:68e6::/64",
+    "ip_type": "IPv6",
+    "region": "IN-OR"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:68e7::/64",
+    "ip_type": "IPv6",
+    "region": "IN-OR"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:68e8::/64",
+    "ip_type": "IPv6",
+    "region": "IN-OR"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:68e9::/64",
+    "ip_type": "IPv6",
+    "region": "IN-OR"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:68ea::/64",
+    "ip_type": "IPv6",
+    "region": "IN-OR"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:68eb::/64",
+    "ip_type": "IPv6",
+    "region": "IN-OR"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:68ec::/64",
+    "ip_type": "IPv6",
+    "region": "IN-OR"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:68ed::/64",
+    "ip_type": "IPv6",
+    "region": "IN-OR"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:68ee::/64",
+    "ip_type": "IPv6",
+    "region": "IN-OR"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:68ef::/64",
+    "ip_type": "IPv6",
+    "region": "IN-OR"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:68f0::/64",
     "ip_type": "IPv6",
     "region": "IN-OR"
   },

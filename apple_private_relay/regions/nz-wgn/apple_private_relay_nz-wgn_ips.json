@@ -85,6 +85,11 @@
     "region": "NZ-WGN"
   },
   {
+    "ip_address": "172.225.175.18/31",
+    "ip_type": "IPv4",
+    "region": "NZ-WGN"
+  },
+  {
     "ip_address": "172.225.245.98/31",
     "ip_type": "IPv4",
     "region": "NZ-WGN"
@@ -111,6 +116,21 @@
   },
   {
     "ip_address": "2a02:26f7:f400:530f::/64",
+    "ip_type": "IPv6",
+    "region": "NZ-WGN"
+  },
+  {
+    "ip_address": "2a02:26f7:f402:540::/58",
+    "ip_type": "IPv6",
+    "region": "NZ-WGN"
+  },
+  {
+    "ip_address": "2a02:26f7:f402:5303::/64",
+    "ip_type": "IPv6",
+    "region": "NZ-WGN"
+  },
+  {
+    "ip_address": "2a02:26f7:f402:530f::/64",
     "ip_type": "IPv6",
     "region": "NZ-WGN"
   },

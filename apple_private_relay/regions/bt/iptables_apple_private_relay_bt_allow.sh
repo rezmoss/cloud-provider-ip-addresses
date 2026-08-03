@@ -1,6 +1,6 @@
 #!/bin/bash
 # Apple_private_relay IP Ranges
-# Updated: 2026-06-25 03:23:10
+# Updated: 2026-08-03 03:17:33
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -16,6 +16,7 @@ iptables -A INPUT -s 146.75.160.14/31 -j ACCEPT
 iptables -A INPUT -s 146.75.214.44/31 -j ACCEPT
 iptables -A INPUT -s 172.224.241.128/26 -j ACCEPT
 iptables -A INPUT -s 172.225.78.128/27 -j ACCEPT
+iptables -A INPUT -s 172.225.174.16/28 -j ACCEPT
 iptables -A INPUT -s 172.225.200.16/28 -j ACCEPT
 iptables -A INPUT -s 172.225.218.128/28 -j ACCEPT
 iptables -A INPUT -s 172.226.156.96/27 -j ACCEPT
@@ -23,6 +24,10 @@ ip6tables -A INPUT -s 2a02:26f7:cec0:4000::/64 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:cec0:cf00::/62 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:cec0:cf04::/64 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:cec1:4000::/64 -j ACCEPT
+ip6tables -A INPUT -s 2a02:26f7:cec2:4000::/64 -j ACCEPT
+ip6tables -A INPUT -s 2a02:26f7:cec2:cf00::/62 -j ACCEPT
+ip6tables -A INPUT -s 2a02:26f7:cec2:cf04::/64 -j ACCEPT
+ip6tables -A INPUT -s 2a02:26f7:cec3:4000::/64 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:cec8:4000::/64 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:cec8:cf00::/62 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:cec8:cf04::/64 -j ACCEPT

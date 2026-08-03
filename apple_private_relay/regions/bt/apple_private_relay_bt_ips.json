@@ -45,6 +45,11 @@
     "region": "BT"
   },
   {
+    "ip_address": "172.225.174.16/28",
+    "ip_type": "IPv4",
+    "region": "BT"
+  },
+  {
     "ip_address": "172.225.200.16/28",
     "ip_type": "IPv4",
     "region": "BT"
@@ -91,6 +96,41 @@
   },
   {
     "ip_address": "2a02:26f7:cec1:4000::/64",
+    "ip_type": "IPv6",
+    "region": "BT"
+  },
+  {
+    "ip_address": "2a02:26f7:cec2:4000::/64",
+    "ip_type": "IPv6",
+    "region": "BT"
+  },
+  {
+    "ip_address": "2a02:26f7:cec2:cf00::/64",
+    "ip_type": "IPv6",
+    "region": "BT"
+  },
+  {
+    "ip_address": "2a02:26f7:cec2:cf01::/64",
+    "ip_type": "IPv6",
+    "region": "BT"
+  },
+  {
+    "ip_address": "2a02:26f7:cec2:cf02::/64",
+    "ip_type": "IPv6",
+    "region": "BT"
+  },
+  {
+    "ip_address": "2a02:26f7:cec2:cf03::/64",
+    "ip_type": "IPv6",
+    "region": "BT"
+  },
+  {
+    "ip_address": "2a02:26f7:cec2:cf04::/64",
+    "ip_type": "IPv6",
+    "region": "BT"
+  },
+  {
+    "ip_address": "2a02:26f7:cec3:4000::/64",
     "ip_type": "IPv6",
     "region": "BT"
   },

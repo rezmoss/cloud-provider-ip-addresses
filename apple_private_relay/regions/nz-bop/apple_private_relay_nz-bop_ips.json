@@ -15,6 +15,21 @@
     "region": "NZ-BOP"
   },
   {
+    "ip_address": "2a02:26f7:f402:5319::/64",
+    "ip_type": "IPv6",
+    "region": "NZ-BOP"
+  },
+  {
+    "ip_address": "2a02:26f7:f402:531b::/64",
+    "ip_type": "IPv6",
+    "region": "NZ-BOP"
+  },
+  {
+    "ip_address": "2a02:26f7:f402:5320::/64",
+    "ip_type": "IPv6",
+    "region": "NZ-BOP"
+  },
+  {
     "ip_address": "2a02:26f7:f404:5319::/64",
     "ip_type": "IPv6",
     "region": "NZ-BOP"

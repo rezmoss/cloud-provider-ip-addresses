@@ -330,6 +330,36 @@
     "region": "IN-JH"
   },
   {
+    "ip_address": "2a02:26f7:d6c8:6875::/64",
+    "ip_type": "IPv6",
+    "region": "IN-JH"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6876::/64",
+    "ip_type": "IPv6",
+    "region": "IN-JH"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6877::/64",
+    "ip_type": "IPv6",
+    "region": "IN-JH"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6878::/64",
+    "ip_type": "IPv6",
+    "region": "IN-JH"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6879::/64",
+    "ip_type": "IPv6",
+    "region": "IN-JH"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:687a::/64",
+    "ip_type": "IPv6",
+    "region": "IN-JH"
+  },
+  {
     "ip_address": "2a02:26f7:d6cc:6875::/64",
     "ip_type": "IPv6",
     "region": "IN-JH"

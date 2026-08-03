@@ -14,6 +14,8 @@ INSERT INTO `apple_private_relay_in-dd_ips` (`ip_address`, `ip_type`) VALUES ('2
 INSERT INTO `apple_private_relay_in-dd_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d6c4:6843::/64', 'IPv6');
 INSERT INTO `apple_private_relay_in-dd_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d6c6:6842::/64', 'IPv6');
 INSERT INTO `apple_private_relay_in-dd_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d6c6:6843::/64', 'IPv6');
+INSERT INTO `apple_private_relay_in-dd_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d6c8:6842::/64', 'IPv6');
+INSERT INTO `apple_private_relay_in-dd_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d6c8:6843::/64', 'IPv6');
 INSERT INTO `apple_private_relay_in-dd_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d6cc:6842::/64', 'IPv6');
 INSERT INTO `apple_private_relay_in-dd_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d6cc:6843::/64', 'IPv6');
 INSERT INTO `apple_private_relay_in-dd_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d6d0:6842::/64', 'IPv6');

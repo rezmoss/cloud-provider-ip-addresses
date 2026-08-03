@@ -9,6 +9,9 @@ CREATE TABLE IF NOT EXISTS `apple_private_relay_nz-mwt_ips` (
 INSERT INTO `apple_private_relay_nz-mwt_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f400:530c::/64', 'IPv6');
 INSERT INTO `apple_private_relay_nz-mwt_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f400:5314::/64', 'IPv6');
 INSERT INTO `apple_private_relay_nz-mwt_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f400:531e::/64', 'IPv6');
+INSERT INTO `apple_private_relay_nz-mwt_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f402:530c::/64', 'IPv6');
+INSERT INTO `apple_private_relay_nz-mwt_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f402:5314::/64', 'IPv6');
+INSERT INTO `apple_private_relay_nz-mwt_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f402:531e::/64', 'IPv6');
 INSERT INTO `apple_private_relay_nz-mwt_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f404:530c::/64', 'IPv6');
 INSERT INTO `apple_private_relay_nz-mwt_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f404:5314::/64', 'IPv6');
 INSERT INTO `apple_private_relay_nz-mwt_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f404:531e::/64', 'IPv6');

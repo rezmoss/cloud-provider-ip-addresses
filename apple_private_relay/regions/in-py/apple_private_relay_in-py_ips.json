@@ -20,6 +20,11 @@
     "region": "IN-PY"
   },
   {
+    "ip_address": "2a02:26f7:d6c8:6900::/64",
+    "ip_type": "IPv6",
+    "region": "IN-PY"
+  },
+  {
     "ip_address": "2a02:26f7:d6cc:6900::/64",
     "ip_type": "IPv6",
     "region": "IN-PY"

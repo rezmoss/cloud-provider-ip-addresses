@@ -12,6 +12,7 @@ INSERT INTO `apple_private_relay_in-ml_ips` (`ip_address`, `ip_type`) VALUES ('2
 INSERT INTO `apple_private_relay_in-ml_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d6c1:68c7::/64', 'IPv6');
 INSERT INTO `apple_private_relay_in-ml_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d6c4:68c7::/64', 'IPv6');
 INSERT INTO `apple_private_relay_in-ml_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d6c6:68c7::/64', 'IPv6');
+INSERT INTO `apple_private_relay_in-ml_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d6c8:68c7::/64', 'IPv6');
 INSERT INTO `apple_private_relay_in-ml_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d6cc:68c7::/64', 'IPv6');
 INSERT INTO `apple_private_relay_in-ml_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d6d0:68c7::/64', 'IPv6');
 INSERT INTO `apple_private_relay_in-ml_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:3dc8::/45', 'IPv6');

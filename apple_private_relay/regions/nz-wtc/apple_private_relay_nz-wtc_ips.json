@@ -5,6 +5,11 @@
     "region": "NZ-WTC"
   },
   {
+    "ip_address": "2a02:26f7:f402:531f::/64",
+    "ip_type": "IPv6",
+    "region": "NZ-WTC"
+  },
+  {
     "ip_address": "2a02:26f7:f404:531f::/64",
     "ip_type": "IPv6",
     "region": "NZ-WTC"

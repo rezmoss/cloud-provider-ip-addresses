@@ -460,6 +460,86 @@
     "region": "IN-HR"
   },
   {
+    "ip_address": "2a02:26f7:d6c8:f10::/60",
+    "ip_type": "IPv6",
+    "region": "IN-HR"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6866::/64",
+    "ip_type": "IPv6",
+    "region": "IN-HR"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6867::/64",
+    "ip_type": "IPv6",
+    "region": "IN-HR"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6868::/64",
+    "ip_type": "IPv6",
+    "region": "IN-HR"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6869::/64",
+    "ip_type": "IPv6",
+    "region": "IN-HR"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:686a::/64",
+    "ip_type": "IPv6",
+    "region": "IN-HR"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:686b::/64",
+    "ip_type": "IPv6",
+    "region": "IN-HR"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:686c::/64",
+    "ip_type": "IPv6",
+    "region": "IN-HR"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:686d::/64",
+    "ip_type": "IPv6",
+    "region": "IN-HR"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:686e::/64",
+    "ip_type": "IPv6",
+    "region": "IN-HR"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:686f::/64",
+    "ip_type": "IPv6",
+    "region": "IN-HR"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6870::/64",
+    "ip_type": "IPv6",
+    "region": "IN-HR"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6871::/64",
+    "ip_type": "IPv6",
+    "region": "IN-HR"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6872::/64",
+    "ip_type": "IPv6",
+    "region": "IN-HR"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6873::/64",
+    "ip_type": "IPv6",
+    "region": "IN-HR"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6874::/64",
+    "ip_type": "IPv6",
+    "region": "IN-HR"
+  },
+  {
     "ip_address": "2a02:26f7:d6cc:f10::/60",
     "ip_type": "IPv6",
     "region": "IN-HR"

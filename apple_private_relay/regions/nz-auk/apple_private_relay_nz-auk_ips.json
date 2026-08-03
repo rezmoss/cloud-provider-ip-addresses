@@ -100,6 +100,16 @@
     "region": "NZ-AUK"
   },
   {
+    "ip_address": "172.225.175.0/28",
+    "ip_type": "IPv4",
+    "region": "NZ-AUK"
+  },
+  {
+    "ip_address": "172.225.175.20/30",
+    "ip_type": "IPv4",
+    "region": "NZ-AUK"
+  },
+  {
     "ip_address": "172.225.244.176/28",
     "ip_type": "IPv4",
     "region": "NZ-AUK"
@@ -166,6 +176,56 @@
   },
   {
     "ip_address": "2a02:26f7:f401:4000::/64",
+    "ip_type": "IPv6",
+    "region": "NZ-AUK"
+  },
+  {
+    "ip_address": "2a02:26f7:f402::/54",
+    "ip_type": "IPv6",
+    "region": "NZ-AUK"
+  },
+  {
+    "ip_address": "2a02:26f7:f402:400::/56",
+    "ip_type": "IPv6",
+    "region": "NZ-AUK"
+  },
+  {
+    "ip_address": "2a02:26f7:f402:580::/60",
+    "ip_type": "IPv6",
+    "region": "NZ-AUK"
+  },
+  {
+    "ip_address": "2a02:26f7:f402:4000::/64",
+    "ip_type": "IPv6",
+    "region": "NZ-AUK"
+  },
+  {
+    "ip_address": "2a02:26f7:f402:5300::/64",
+    "ip_type": "IPv6",
+    "region": "NZ-AUK"
+  },
+  {
+    "ip_address": "2a02:26f7:f402:5304::/64",
+    "ip_type": "IPv6",
+    "region": "NZ-AUK"
+  },
+  {
+    "ip_address": "2a02:26f7:f402:530e::/64",
+    "ip_type": "IPv6",
+    "region": "NZ-AUK"
+  },
+  {
+    "ip_address": "2a02:26f7:f402:5310::/64",
+    "ip_type": "IPv6",
+    "region": "NZ-AUK"
+  },
+  {
+    "ip_address": "2a02:26f7:f402:5315::/64",
+    "ip_type": "IPv6",
+    "region": "NZ-AUK"
+  },
+  {
+    "ip_address": "2a02:26f7:f403:4000::/64",
     "ip_type": "IPv6",
     "region": "NZ-AUK"
   },

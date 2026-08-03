@@ -1,5 +1,5 @@
 # zoho IP ranges - ipset restore format (hash:net)
-# Version: 12 | Generated: 2026-08-02 | Last changed: 2026-08-01
+# Version: 13 | Generated: 2026-08-03 | Last changed: 2026-08-03
 # IPv4: 60 merged subnets, 78592 unique IPs
 # IPv6: 14 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses

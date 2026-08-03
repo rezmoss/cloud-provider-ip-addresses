@@ -18,6 +18,8 @@ INSERT INTO `apple_private_relay_in-mz_ips` (`ip_address`, `ip_type`) VALUES ('2
 INSERT INTO `apple_private_relay_in-mz_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d6c4:68de::/64', 'IPv6');
 INSERT INTO `apple_private_relay_in-mz_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d6c6:68dd::/64', 'IPv6');
 INSERT INTO `apple_private_relay_in-mz_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d6c6:68de::/64', 'IPv6');
+INSERT INTO `apple_private_relay_in-mz_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d6c8:68dd::/64', 'IPv6');
+INSERT INTO `apple_private_relay_in-mz_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d6c8:68de::/64', 'IPv6');
 INSERT INTO `apple_private_relay_in-mz_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d6cc:68dd::/64', 'IPv6');
 INSERT INTO `apple_private_relay_in-mz_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d6cc:68de::/64', 'IPv6');
 INSERT INTO `apple_private_relay_in-mz_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d6d0:68dd::/64', 'IPv6');

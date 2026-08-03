@@ -1,6 +1,6 @@
 #!/bin/bash
 # Apple_private_relay IP Ranges
-# Updated: 2026-06-14 03:22:14
+# Updated: 2026-08-03 03:17:34
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -14,11 +14,15 @@ iptables -A INPUT -s 146.75.160.162/31 -j ACCEPT
 iptables -A INPUT -s 146.75.169.238/31 -j ACCEPT
 iptables -A INPUT -s 172.225.69.32/27 -j ACCEPT
 iptables -A INPUT -s 172.225.158.32/28 -j ACCEPT
+iptables -A INPUT -s 172.225.170.96/28 -j ACCEPT
 iptables -A INPUT -s 172.225.172.240/28 -j ACCEPT
 iptables -A INPUT -s 172.225.200.240/28 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:cdc0:4000::/64 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:cdc0:c900::/64 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:cdc1:4000::/64 -j ACCEPT
+ip6tables -A INPUT -s 2a02:26f7:cdc2:4000::/64 -j ACCEPT
+ip6tables -A INPUT -s 2a02:26f7:cdc2:c900::/64 -j ACCEPT
+ip6tables -A INPUT -s 2a02:26f7:cdc3:4000::/64 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:cdc4:4000::/64 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:cdc4:c900::/64 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:cdc5:4000::/64 -j ACCEPT

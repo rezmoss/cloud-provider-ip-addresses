@@ -1,6 +1,6 @@
 #!/bin/bash
 # Apple_private_relay IP Ranges
-# Updated: 2026-06-25 03:22:18
+# Updated: 2026-08-03 03:16:41
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -24,6 +24,8 @@ iptables -A INPUT -s 172.225.63.112/29 -j DROP
 iptables -A INPUT -s 172.225.65.224/27 -j DROP
 iptables -A INPUT -s 172.225.156.96/28 -j DROP
 iptables -A INPUT -s 172.225.156.156/30 -j DROP
+iptables -A INPUT -s 172.225.175.0/28 -j DROP
+iptables -A INPUT -s 172.225.175.20/30 -j DROP
 iptables -A INPUT -s 172.225.244.176/28 -j DROP
 iptables -A INPUT -s 172.225.245.100/30 -j DROP
 ip6tables -A INPUT -s 2606:54c0:4e10::/45 -j DROP
@@ -38,6 +40,16 @@ ip6tables -A INPUT -s 2a02:26f7:f400:530e::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:f400:5310::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:f400:5315::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:f401:4000::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:f402::/54 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:f402:400::/56 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:f402:580::/60 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:f402:4000::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:f402:5300::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:f402:5304::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:f402:530e::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:f402:5310::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:f402:5315::/64 -j DROP
+ip6tables -A INPUT -s 2a02:26f7:f403:4000::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:f404::/54 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:f404:400::/56 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:f404:580::/60 -j DROP

@@ -67,7 +67,6 @@ ip_address,ip_type,service,region
 142.111.123.0/24,IPv4,leaseweb-as27411,global
 142.111.124.0/24,IPv4,leaseweb-as27411,global
 142.111.161.0/24,IPv4,leaseweb-as27411,global
-144.225.127.0/24,IPv4,leaseweb-as27411,global
 148.135.144.0/24,IPv4,leaseweb-as27411,global
 152.163.24.0/22,IPv4,leaseweb-as27411,global
 152.163.36.0/22,IPv4,leaseweb-as27411,global

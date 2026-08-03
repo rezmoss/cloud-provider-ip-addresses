@@ -70,6 +70,11 @@
     "region": "PR"
   },
   {
+    "ip_address": "104.28.137.164/32",
+    "ip_type": "IPv4",
+    "region": "PR"
+  },
+  {
     "ip_address": "104.28.141.170/32",
     "ip_type": "IPv4",
     "region": "PR"

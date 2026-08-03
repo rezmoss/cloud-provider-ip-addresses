@@ -1980,6 +1980,12 @@
     "region": "global"
   },
   {
+    "ip_address": "95.135.166.0/24",
+    "ip_type": "IPv4",
+    "service": "ovhcloud-as16276",
+    "region": "global"
+  },
+  {
     "ip_address": "95.135.167.0/24",
     "ip_type": "IPv4",
     "service": "ovhcloud-as16276",

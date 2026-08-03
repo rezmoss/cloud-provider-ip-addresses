@@ -710,6 +710,11 @@
     "region": "IN-UP"
   },
   {
+    "ip_address": "172.225.174.112/31",
+    "ip_type": "IPv4",
+    "region": "IN-UP"
+  },
+  {
     "ip_address": "172.225.181.186/31",
     "ip_type": "IPv4",
     "region": "IN-UP"
@@ -1831,6 +1836,236 @@
   },
   {
     "ip_address": "2a02:26f7:d6c6:698b::/64",
+    "ip_type": "IPv6",
+    "region": "IN-UP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:f90::/60",
+    "ip_type": "IPv6",
+    "region": "IN-UP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:680e::/64",
+    "ip_type": "IPv6",
+    "region": "IN-UP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6960::/64",
+    "ip_type": "IPv6",
+    "region": "IN-UP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6961::/64",
+    "ip_type": "IPv6",
+    "region": "IN-UP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6962::/64",
+    "ip_type": "IPv6",
+    "region": "IN-UP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6963::/64",
+    "ip_type": "IPv6",
+    "region": "IN-UP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6964::/64",
+    "ip_type": "IPv6",
+    "region": "IN-UP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6965::/64",
+    "ip_type": "IPv6",
+    "region": "IN-UP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6966::/64",
+    "ip_type": "IPv6",
+    "region": "IN-UP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6967::/64",
+    "ip_type": "IPv6",
+    "region": "IN-UP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6968::/64",
+    "ip_type": "IPv6",
+    "region": "IN-UP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6969::/64",
+    "ip_type": "IPv6",
+    "region": "IN-UP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:696a::/64",
+    "ip_type": "IPv6",
+    "region": "IN-UP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:696b::/64",
+    "ip_type": "IPv6",
+    "region": "IN-UP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:696c::/64",
+    "ip_type": "IPv6",
+    "region": "IN-UP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:696d::/64",
+    "ip_type": "IPv6",
+    "region": "IN-UP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:696e::/64",
+    "ip_type": "IPv6",
+    "region": "IN-UP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:696f::/64",
+    "ip_type": "IPv6",
+    "region": "IN-UP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6970::/64",
+    "ip_type": "IPv6",
+    "region": "IN-UP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6971::/64",
+    "ip_type": "IPv6",
+    "region": "IN-UP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6972::/64",
+    "ip_type": "IPv6",
+    "region": "IN-UP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6973::/64",
+    "ip_type": "IPv6",
+    "region": "IN-UP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6974::/64",
+    "ip_type": "IPv6",
+    "region": "IN-UP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6975::/64",
+    "ip_type": "IPv6",
+    "region": "IN-UP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6976::/64",
+    "ip_type": "IPv6",
+    "region": "IN-UP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6977::/64",
+    "ip_type": "IPv6",
+    "region": "IN-UP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6978::/64",
+    "ip_type": "IPv6",
+    "region": "IN-UP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6979::/64",
+    "ip_type": "IPv6",
+    "region": "IN-UP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:697a::/64",
+    "ip_type": "IPv6",
+    "region": "IN-UP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:697b::/64",
+    "ip_type": "IPv6",
+    "region": "IN-UP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:697c::/64",
+    "ip_type": "IPv6",
+    "region": "IN-UP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:697d::/64",
+    "ip_type": "IPv6",
+    "region": "IN-UP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:697e::/64",
+    "ip_type": "IPv6",
+    "region": "IN-UP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:697f::/64",
+    "ip_type": "IPv6",
+    "region": "IN-UP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6980::/64",
+    "ip_type": "IPv6",
+    "region": "IN-UP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6981::/64",
+    "ip_type": "IPv6",
+    "region": "IN-UP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6982::/64",
+    "ip_type": "IPv6",
+    "region": "IN-UP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6983::/64",
+    "ip_type": "IPv6",
+    "region": "IN-UP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6984::/64",
+    "ip_type": "IPv6",
+    "region": "IN-UP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6985::/64",
+    "ip_type": "IPv6",
+    "region": "IN-UP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6986::/64",
+    "ip_type": "IPv6",
+    "region": "IN-UP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6987::/64",
+    "ip_type": "IPv6",
+    "region": "IN-UP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6988::/64",
+    "ip_type": "IPv6",
+    "region": "IN-UP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6989::/64",
+    "ip_type": "IPv6",
+    "region": "IN-UP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:698a::/64",
+    "ip_type": "IPv6",
+    "region": "IN-UP"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:698b::/64",
     "ip_type": "IPv6",
     "region": "IN-UP"
   },

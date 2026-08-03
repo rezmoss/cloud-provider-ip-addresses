@@ -120,6 +120,11 @@
     "region": "IN-CH"
   },
   {
+    "ip_address": "172.225.174.52/31",
+    "ip_type": "IPv4",
+    "region": "IN-CH"
+  },
+  {
     "ip_address": "172.225.181.108/31",
     "ip_type": "IPv4",
     "region": "IN-CH"
@@ -191,6 +196,16 @@
   },
   {
     "ip_address": "2a02:26f7:d6c6:6800::/64",
+    "ip_type": "IPv6",
+    "region": "IN-CH"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:e00::/58",
+    "ip_type": "IPv6",
+    "region": "IN-CH"
+  },
+  {
+    "ip_address": "2a02:26f7:d6c8:6800::/64",
     "ip_type": "IPv6",
     "region": "IN-CH"
   },
