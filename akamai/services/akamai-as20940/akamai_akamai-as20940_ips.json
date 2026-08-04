@@ -6768,12 +6768,6 @@
     "region": "global"
   },
   {
-    "ip_address": "23.46.154.0/24",
-    "ip_type": "IPv4",
-    "service": "akamai-as20940",
-    "region": "global"
-  },
-  {
     "ip_address": "23.46.155.0/24",
     "ip_type": "IPv4",
     "service": "akamai-as20940",

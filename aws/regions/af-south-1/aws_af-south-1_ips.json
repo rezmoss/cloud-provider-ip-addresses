@@ -378,6 +378,18 @@
     "region": "af-south-1"
   },
   {
+    "ip_address": "15.129.79.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "af-south-1"
+  },
+  {
+    "ip_address": "15.129.79.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "af-south-1"
+  },
+  {
     "ip_address": "15.177.91.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",

@@ -1,6 +1,6 @@
 # zscaler IP ranges - ipset restore format (hash:net)
-# Version: 3 | Generated: 2026-08-03 | Last changed: 2026-07-25
-# IPv4: 111 merged subnets, 809472 unique IPs
+# Version: 4 | Generated: 2026-08-04 | Last changed: 2026-08-04
+# IPv4: 112 merged subnets, 809728 unique IPs
 # IPv6: 37 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
@@ -68,6 +68,7 @@ add zscaler_v4 161.151.234.0/23
 add zscaler_v4 161.151.240.0/23
 add zscaler_v4 162.82.254.0/24
 add zscaler_v4 164.137.0.0/16
+add zscaler_v4 164.157.252.0/24
 add zscaler_v4 165.225.0.0/17
 add zscaler_v4 165.225.192.0/18
 add zscaler_v4 167.73.110.0/24

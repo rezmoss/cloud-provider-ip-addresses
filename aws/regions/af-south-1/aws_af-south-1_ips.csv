@@ -62,6 +62,8 @@ ip_address,ip_type,service,region
 13.247.76.100/30,IPv4,KINESIS_VIDEO_STREAMS,af-south-1
 15.103.0.0/16,IPv4,AMAZON,af-south-1
 15.103.0.0/16,IPv4,EC2,af-south-1
+15.129.79.0/24,IPv4,AMAZON,af-south-1
+15.129.79.0/24,IPv4,EC2,af-south-1
 15.177.91.0/24,IPv4,AMAZON,af-south-1
 15.177.91.0/24,IPv4,EC2,af-south-1
 15.177.91.0/24,IPv4,ROUTE53_HEALTHCHECKS_PUBLISHING,af-south-1

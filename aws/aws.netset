@@ -1,6 +1,6 @@
 # aws IP ranges - ipset restore format (hash:net)
-# Version: 39 | Generated: 2026-08-03 | Last changed: 2026-08-02
-# IPv4: 1758 merged subnets, 101824694 unique IPs
+# Version: 40 | Generated: 2026-08-04 | Last changed: 2026-08-04
+# IPv4: 1758 merged subnets, 101826230 unique IPs
 # IPv6: 2072 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
@@ -166,10 +166,9 @@ add aws_v4 13.250.0.0/15
 add aws_v4 15.103.0.0/16
 add aws_v4 15.128.0.0/16
 add aws_v4 15.129.0.0/18
-add aws_v4 15.129.64.0/21
-add aws_v4 15.129.72.0/22
-add aws_v4 15.129.76.0/23
+add aws_v4 15.129.64.0/20
 add aws_v4 15.129.80.0/22
+add aws_v4 15.129.84.0/23
 add aws_v4 15.129.96.0/22
 add aws_v4 15.134.0.0/15
 add aws_v4 15.143.0.0/16
@@ -1297,6 +1296,7 @@ add aws_v4 65.9.0.0/17
 add aws_v4 65.9.128.0/18
 add aws_v4 65.176.0.0/14
 add aws_v4 66.7.0.0/21
+add aws_v4 66.36.0.0/24
 add aws_v4 66.36.10.0/24
 add aws_v4 66.47.0.0/16
 add aws_v4 66.182.96.0/20
@@ -1693,7 +1693,7 @@ add aws_v4 172.96.110.0/24
 add aws_v4 172.106.0.0/15
 add aws_v4 173.83.192.0/19
 add aws_v4 173.83.224.0/21
-add aws_v4 173.83.232.0/24
+add aws_v4 173.83.232.0/23
 add aws_v4 174.129.0.0/16
 add aws_v4 175.41.128.0/17
 add aws_v4 176.32.64.0/19

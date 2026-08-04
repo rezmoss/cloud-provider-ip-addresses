@@ -1140,6 +1140,12 @@
     "region": "global"
   },
   {
+    "ip_address": "137.31.156.0/24",
+    "ip_type": "IPv4",
+    "service": "zscaler-as53813",
+    "region": "global"
+  },
+  {
     "ip_address": "137.83.131.0/24",
     "ip_type": "IPv4",
     "service": "zscaler-as22616",
@@ -2361,6 +2367,12 @@
     "ip_address": "164.137.192.0/24",
     "ip_type": "IPv4",
     "service": "zscaler-as53813",
+    "region": "global"
+  },
+  {
+    "ip_address": "164.157.252.0/24",
+    "ip_type": "IPv4",
+    "service": "zscaler-as22616",
     "region": "global"
   },
   {

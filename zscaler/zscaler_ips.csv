@@ -189,6 +189,7 @@ ip_address,ip_type,service,region
 137.31.126.0/23,IPv4,zscaler-as22616,global
 137.31.128.0/23,IPv4,zscaler-as22616,global
 137.31.132.0/24,IPv4,zscaler-as53813,global
+137.31.156.0/24,IPv4,zscaler-as53813,global
 137.83.131.0/24,IPv4,zscaler-as22616,global
 137.83.132.0/24,IPv4,zscaler-as22616,global
 137.83.133.0/24,IPv4,zscaler-as22616,global
@@ -393,6 +394,7 @@ ip_address,ip_type,service,region
 164.137.190.0/24,IPv4,zscaler-as53813,global
 164.137.191.0/24,IPv4,zscaler-as53813,global
 164.137.192.0/24,IPv4,zscaler-as53813,global
+164.157.252.0/24,IPv4,zscaler-as22616,global
 165.225.0.0/17,IPv4,zscaler-as22616,global
 165.225.0.0/23,IPv4,zscaler-as22616,global
 165.225.2.0/24,IPv4,zscaler-as22616,global

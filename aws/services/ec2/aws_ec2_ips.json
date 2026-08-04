@@ -1776,10 +1776,28 @@
     "region": "sa-east-1"
   },
   {
+    "ip_address": "15.129.78.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "eu-west-3"
+  },
+  {
+    "ip_address": "15.129.79.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "af-south-1"
+  },
+  {
     "ip_address": "15.129.80.0/22",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "eu-west-1"
+  },
+  {
+    "ip_address": "15.129.84.0/23",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-west-2"
   },
   {
     "ip_address": "15.129.96.0/23",
@@ -8592,6 +8610,12 @@
     "region": "us-west-2"
   },
   {
+    "ip_address": "66.36.0.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "66.36.10.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -10726,6 +10750,12 @@
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "ca-west-1"
+  },
+  {
+    "ip_address": "173.83.233.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-east-1"
   },
   {
     "ip_address": "174.129.0.0/16",

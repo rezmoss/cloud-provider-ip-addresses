@@ -1,6 +1,6 @@
 #!/bin/bash
 # Zscaler IP Ranges
-# Updated: 2026-07-14 03:16:55
+# Updated: 2026-08-04 03:16:56
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -54,6 +54,7 @@ ufw deny from 161.107.92.0/22
 ufw deny from 161.151.200.0/22
 ufw deny from 162.82.254.0/24
 ufw deny from 164.137.0.0/16
+ufw deny from 164.157.252.0/24
 ufw deny from 165.225.0.0/17
 ufw deny from 165.225.192.0/18
 ufw deny from 167.73.110.0/24

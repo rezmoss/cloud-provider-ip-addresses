@@ -1163,7 +1163,6 @@ ip_address,ip_type,service,region
 23.209.48.0/21,IPv4,akamai-as16625,global
 23.209.56.0/22,IPv4,akamai-as16625,global
 23.209.70.0/23,IPv4,akamai-as16625,global
-23.209.80.0/23,IPv4,akamai-as16625,global
 23.209.108.0/22,IPv4,akamai-as16625,global
 23.209.184.0/22,IPv4,akamai-as16625,global
 23.209.204.0/22,IPv4,akamai-as16625,global
