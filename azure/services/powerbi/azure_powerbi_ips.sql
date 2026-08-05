@@ -923,3 +923,4 @@ INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:301
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:301:2::3c0/123', 'IPv6');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:403::5e0/123', 'IPv6');
 INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:403::600/122', 'IPv6');
+INSERT INTO `azure_powerbi_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:17::/48', 'IPv6');

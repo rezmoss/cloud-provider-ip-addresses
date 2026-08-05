@@ -54,6 +54,18 @@
     "region": "italynorth"
   },
   {
+    "ip_address": "9.129.67.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.italynorth",
+    "region": "italynorth"
+  },
+  {
+    "ip_address": "9.129.67.96/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.italynorth",
+    "region": "italynorth"
+  },
+  {
     "ip_address": "9.235.0.0/16",
     "ip_type": "IPv4",
     "service": "AzureCloud.italynorth",
@@ -294,7 +306,19 @@
     "region": "italynorth"
   },
   {
-    "ip_address": "40.120.135.0/27",
+    "ip_address": "40.120.135.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.italynorth",
+    "region": "italynorth"
+  },
+  {
+    "ip_address": "40.120.135.64/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.italynorth",
+    "region": "italynorth"
+  },
+  {
+    "ip_address": "40.120.135.80/31",
     "ip_type": "IPv4",
     "service": "AzureCloud.italynorth",
     "region": "italynorth"
@@ -576,7 +600,13 @@
     "region": "italynorth"
   },
   {
-    "ip_address": "2603:1061:100b:180::/61",
+    "ip_address": "2603:1061:100b:180::/59",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.italynorth",
+    "region": "italynorth"
+  },
+  {
+    "ip_address": "2603:1061:100b:1a0::/64",
     "ip_type": "IPv6",
     "service": "AzureCloud.italynorth",
     "region": "italynorth"

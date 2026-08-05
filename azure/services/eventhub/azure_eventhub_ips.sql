@@ -361,6 +361,7 @@ INSERT INTO `azure_eventhub_ips` (`ip_address`, `ip_type`) VALUES ('158.23.102.0
 INSERT INTO `azure_eventhub_ips` (`ip_address`, `ip_type`) VALUES ('158.23.123.64/26', 'IPv4');
 INSERT INTO `azure_eventhub_ips` (`ip_address`, `ip_type`) VALUES ('158.23.195.64/26', 'IPv4');
 INSERT INTO `azure_eventhub_ips` (`ip_address`, `ip_type`) VALUES ('168.61.143.128/26', 'IPv4');
+INSERT INTO `azure_eventhub_ips` (`ip_address`, `ip_type`) VALUES ('172.129.80.0/24', 'IPv4');
 INSERT INTO `azure_eventhub_ips` (`ip_address`, `ip_type`) VALUES ('172.170.168.0/25', 'IPv4');
 INSERT INTO `azure_eventhub_ips` (`ip_address`, `ip_type`) VALUES ('172.175.14.128/25', 'IPv4');
 INSERT INTO `azure_eventhub_ips` (`ip_address`, `ip_type`) VALUES ('172.175.104.0/23', 'IPv4');
@@ -488,6 +489,7 @@ INSERT INTO `azure_eventhub_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:13
 INSERT INTO `azure_eventhub_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1403:1::/120', 'IPv6');
 INSERT INTO `azure_eventhub_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1502:1::/120', 'IPv6');
 INSERT INTO `azure_eventhub_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1602:1::/120', 'IPv6');
+INSERT INTO `azure_eventhub_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1701:1::200/120', 'IPv6');
 INSERT INTO `azure_eventhub_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f:1::240/122', 'IPv6');
 INSERT INTO `azure_eventhub_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f:3::200/122', 'IPv6');
 INSERT INTO `azure_eventhub_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f:3::400/120', 'IPv6');

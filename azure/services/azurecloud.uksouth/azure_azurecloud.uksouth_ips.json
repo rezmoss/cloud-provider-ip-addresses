@@ -36,6 +36,12 @@
     "region": "uksouth"
   },
   {
+    "ip_address": "9.129.64.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
     "ip_address": "13.87.64.0/19",
     "ip_type": "IPv4",
     "service": "AzureCloud.uksouth",

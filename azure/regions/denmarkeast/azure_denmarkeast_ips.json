@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "9.129.59.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.denmarkeast",
+    "region": "denmarkeast"
+  },
+  {
     "ip_address": "9.205.0.0/16",
     "ip_type": "IPv4",
     "service": "AzureCloud.denmarkeast",
@@ -1185,6 +1191,12 @@
     "ip_address": "2603:1020:1602:6::600/119",
     "ip_type": "IPv6",
     "service": "AzureMonitor.DenmarkEast",
+    "region": "denmarkeast"
+  },
+  {
+    "ip_address": "2603:1020:1602:7::440/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.DenmarkEast",
     "region": "denmarkeast"
   },
   {

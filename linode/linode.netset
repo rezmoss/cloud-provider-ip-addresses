@@ -1,7 +1,7 @@
 # linode IP ranges - ipset restore format (hash:net)
-# Version: 8 | Generated: 2026-08-04 | Last changed: 2026-07-25
-# IPv4: 239 merged subnets, 1376768 unique IPs
-# IPv6: 38 merged subnets
+# Version: 9 | Generated: 2026-08-05 | Last changed: 2026-08-05
+# IPv4: 239 merged subnets, 1376256 unique IPs
+# IPv6: 39 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
 # Load with: sudo ipset restore -! < linode.netset
@@ -182,7 +182,7 @@ add linode_v4 172.235.0.0/18
 add linode_v4 172.235.96.0/22
 add linode_v4 172.235.102.0/23
 add linode_v4 172.235.104.0/23
-add linode_v4 172.235.108.0/22
+add linode_v4 172.235.110.0/23
 add linode_v4 172.235.112.0/20
 add linode_v4 172.235.128.0/18
 add linode_v4 172.235.192.0/20
@@ -271,14 +271,15 @@ add linode_v6 2600:3c0f:32::/48
 add linode_v6 2600:3c0f:34::/47
 add linode_v6 2600:3c0f:37::/48
 add linode_v6 2600:3c0f:38::/48
-add linode_v6 2600:3c0f:40::/45
+add linode_v6 2600:3c0f:41::/48
+add linode_v6 2600:3c0f:42::/47
+add linode_v6 2600:3c0f:44::/46
 add linode_v6 2600:3c0f:48::/47
 add linode_v6 2600:3c0f:50::/45
 add linode_v6 2600:3c0f:58::/48
 add linode_v6 2600:3c12:100::/40
 add linode_v6 2600:3c12:300::/40
 add linode_v6 2600:3c12:400::/39
-add linode_v6 2600:3c12:700::/40
 add linode_v6 2600:3c12:800::/37
 add linode_v6 2600:3c13::/32
 add linode_v6 2600:3c14::/30

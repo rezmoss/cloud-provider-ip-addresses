@@ -46,7 +46,6 @@ INSERT INTO `azure_azurecloud.southafricawest_ips` (`ip_address`, `ip_type`) VAL
 INSERT INTO `azure_azurecloud.southafricawest_ips` (`ip_address`, `ip_type`) VALUES ('52.109.152.0/23', 'IPv4');
 INSERT INTO `azure_azurecloud.southafricawest_ips` (`ip_address`, `ip_type`) VALUES ('52.111.238.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.southafricawest_ips` (`ip_address`, `ip_type`) VALUES ('52.114.52.0/24', 'IPv4');
-INSERT INTO `azure_azurecloud.southafricawest_ips` (`ip_address`, `ip_type`) VALUES ('52.114.228.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.southafricawest_ips` (`ip_address`, `ip_type`) VALUES ('52.123.47.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.southafricawest_ips` (`ip_address`, `ip_type`) VALUES ('52.123.152.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.southafricawest_ips` (`ip_address`, `ip_type`) VALUES ('52.143.203.0/24', 'IPv4');

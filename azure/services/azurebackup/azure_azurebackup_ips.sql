@@ -350,6 +350,8 @@ INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('134.138.7
 INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('158.23.100.192/26', 'IPv4');
 INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('158.158.138.202/31', 'IPv4');
 INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('158.158.139.0/28', 'IPv4');
+INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('172.129.78.64/28', 'IPv4');
+INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('172.129.78.128/26', 'IPv4');
 INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('172.192.193.164/30', 'IPv4');
 INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('172.192.193.224/28', 'IPv4');
 INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('172.194.70.64/28', 'IPv4');
@@ -445,6 +447,7 @@ INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020
 INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1403:400::80/121', 'IPv6');
 INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1502::600/121', 'IPv6');
 INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1602::600/121', 'IPv6');
+INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1701:1::/121', 'IPv6');
 INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f:2::580/121', 'IPv6');
 INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f:400::a00/121', 'IPv6');
 INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:10:20::300/121', 'IPv6');

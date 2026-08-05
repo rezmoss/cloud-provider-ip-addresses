@@ -13,6 +13,7 @@ INSERT INTO `azure_azurecloud.northeurope_ips` (`ip_address`, `ip_type`) VALUES 
 INSERT INTO `azure_azurecloud.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('4.245.128.0/17', 'IPv4');
 INSERT INTO `azure_azurecloud.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('9.129.54.0/26', 'IPv4');
 INSERT INTO `azure_azurecloud.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('9.129.55.96/27', 'IPv4');
+INSERT INTO `azure_azurecloud.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('9.129.64.192/26', 'IPv4');
 INSERT INTO `azure_azurecloud.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('13.69.128.0/17', 'IPv4');
 INSERT INTO `azure_azurecloud.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('13.70.192.0/18', 'IPv4');
 INSERT INTO `azure_azurecloud.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('13.74.0.0/16', 'IPv4');

@@ -40,5 +40,11 @@
     "ip_type": "IPv4",
     "service": "AzureAttestation.SoutheastAsia",
     "region": "southeastasia"
+  },
+  {
+    "ip_address": "2603:1040:5:1e::40/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.SoutheastAsia",
+    "region": "southeastasia"
   }
 ]

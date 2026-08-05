@@ -2946,18 +2946,6 @@
     "region": "eastasia"
   },
   {
-    "ip_address": "52.113.100.0/24",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.eastasia",
-    "region": "eastasia"
-  },
-  {
-    "ip_address": "52.113.104.0/24",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.eastasia",
-    "region": "eastasia"
-  },
-  {
     "ip_address": "52.114.4.0/22",
     "ip_type": "IPv4",
     "service": "AzureCloud.eastasia",
@@ -3930,12 +3918,6 @@
     "region": "eastasia"
   },
   {
-    "ip_address": "204.231.197.0/24",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.eastasia",
-    "region": "eastasia"
-  },
-  {
     "ip_address": "207.46.72.0/27",
     "ip_type": "IPv4",
     "service": "AzureCloud.eastasia",
@@ -4407,6 +4389,12 @@
     "ip_address": "2603:1040:207:14::600/119",
     "ip_type": "IPv6",
     "service": "AzureMonitor.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "2603:1040:207:15::3e0/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.EastAsia",
     "region": "eastasia"
   },
   {

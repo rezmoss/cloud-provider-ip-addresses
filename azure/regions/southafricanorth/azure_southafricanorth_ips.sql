@@ -490,6 +490,7 @@ INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('2603
 INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1000:104:d::380/122', 'IPv6');
 INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1000:104:d::3c0/123', 'IPv6');
 INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1000:104:d::600/119', 'IPv6');
+INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1000:104:e::1c0/124', 'IPv6');
 INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1000:104:e::200/119', 'IPv6');
 INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1000:104:400::/123', 'IPv6');
 INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1000:104:400::20/125', 'IPv6');

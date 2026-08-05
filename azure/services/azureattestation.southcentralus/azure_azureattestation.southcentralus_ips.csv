@@ -6,3 +6,4 @@ ip_address,ip_type,service,region
 48.192.143.112/29,IPv4,AzureAttestation.SouthCentralUS,southcentralus
 74.155.16.148/30,IPv4,AzureAttestation.SouthCentralUS,southcentralus
 74.155.16.152/29,IPv4,AzureAttestation.SouthCentralUS,southcentralus
+2603:1030:807:1f::340/124,IPv6,AzureAttestation.SouthCentralUS,southcentralus

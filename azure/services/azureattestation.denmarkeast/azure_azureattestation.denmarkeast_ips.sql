@@ -12,3 +12,4 @@ INSERT INTO `azure_azureattestation.denmarkeast_ips` (`ip_address`, `ip_type`) V
 INSERT INTO `azure_azureattestation.denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('9.205.217.12/30', 'IPv4');
 INSERT INTO `azure_azureattestation.denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('9.205.217.48/29', 'IPv4');
 INSERT INTO `azure_azureattestation.denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1602::540/124', 'IPv6');
+INSERT INTO `azure_azureattestation.denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1602:7::440/124', 'IPv6');

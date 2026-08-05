@@ -687,6 +687,7 @@ INSERT INTO `azure_canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:10
 INSERT INTO `azure_canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f05:11::160/123', 'IPv6');
 INSERT INTO `azure_canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f05:11::600/119', 'IPv6');
 INSERT INTO `azure_canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f05:12::/119', 'IPv6');
+INSERT INTO `azure_canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f05:14::120/124', 'IPv6');
 INSERT INTO `azure_canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f05:400::/123', 'IPv6');
 INSERT INTO `azure_canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f05:401::/123', 'IPv6');
 INSERT INTO `azure_canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f05:402::80/125', 'IPv6');

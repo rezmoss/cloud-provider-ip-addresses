@@ -528,6 +528,18 @@
     "region": "eu-central-2"
   },
   {
+    "ip_address": "2600:f0f0:c129::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eu-central-2"
+  },
+  {
+    "ip_address": "2600:f0f0:c129::/48",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eu-central-2"
+  },
+  {
     "ip_address": "2600:f0f1:8b::/48",
     "ip_type": "IPv6",
     "service": "AMAZON",

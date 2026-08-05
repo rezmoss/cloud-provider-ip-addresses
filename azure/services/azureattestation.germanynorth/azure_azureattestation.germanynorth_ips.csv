@@ -7,3 +7,4 @@ ip_address,ip_type,service,region
 98.67.21.204/30,IPv4,AzureAttestation.GermanyNorth,germanyn
 98.67.22.32/29,IPv4,AzureAttestation.GermanyNorth,germanyn
 2603:1020:d04:2::650/124,IPv6,AzureAttestation.GermanyNorth,germanyn
+2603:1020:d04:c::400/124,IPv6,AzureAttestation.GermanyNorth,germanyn

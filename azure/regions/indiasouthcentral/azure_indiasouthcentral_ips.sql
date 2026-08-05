@@ -6,6 +6,8 @@ CREATE TABLE IF NOT EXISTS `azure_indiasouthcentral_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_indiasouthcentral_ips` (`ip_address`, `ip_type`) VALUES ('9.129.117.64/26', 'IPv4');
+INSERT INTO `azure_indiasouthcentral_ips` (`ip_address`, `ip_type`) VALUES ('9.129.118.128/27', 'IPv4');
 INSERT INTO `azure_indiasouthcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.20.55.32/27', 'IPv4');
 INSERT INTO `azure_indiasouthcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.20.55.64/26', 'IPv4');
 INSERT INTO `azure_indiasouthcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.38.54.0/24', 'IPv4');
@@ -28,6 +30,7 @@ INSERT INTO `azure_indiasouthcentral_ips` (`ip_address`, `ip_type`) VALUES ('57.
 INSERT INTO `azure_indiasouthcentral_ips` (`ip_address`, `ip_type`) VALUES ('57.157.92.128/26', 'IPv4');
 INSERT INTO `azure_indiasouthcentral_ips` (`ip_address`, `ip_type`) VALUES ('57.157.92.192/28', 'IPv4');
 INSERT INTO `azure_indiasouthcentral_ips` (`ip_address`, `ip_type`) VALUES ('57.157.92.208/29', 'IPv4');
+INSERT INTO `azure_indiasouthcentral_ips` (`ip_address`, `ip_type`) VALUES ('57.157.92.216/31', 'IPv4');
 INSERT INTO `azure_indiasouthcentral_ips` (`ip_address`, `ip_type`) VALUES ('57.163.2.0/23', 'IPv4');
 INSERT INTO `azure_indiasouthcentral_ips` (`ip_address`, `ip_type`) VALUES ('57.163.2.0/23', 'IPv4');
 INSERT INTO `azure_indiasouthcentral_ips` (`ip_address`, `ip_type`) VALUES ('135.130.87.0/24', 'IPv4');
@@ -39,6 +42,7 @@ INSERT INTO `azure_indiasouthcentral_ips` (`ip_address`, `ip_type`) VALUES ('135
 INSERT INTO `azure_indiasouthcentral_ips` (`ip_address`, `ip_type`) VALUES ('145.190.60.0/24', 'IPv4');
 INSERT INTO `azure_indiasouthcentral_ips` (`ip_address`, `ip_type`) VALUES ('145.190.154.0/24', 'IPv4');
 INSERT INTO `azure_indiasouthcentral_ips` (`ip_address`, `ip_type`) VALUES ('145.190.154.0/24', 'IPv4');
+INSERT INTO `azure_indiasouthcentral_ips` (`ip_address`, `ip_type`) VALUES ('172.128.0.0/17', 'IPv4');
 INSERT INTO `azure_indiasouthcentral_ips` (`ip_address`, `ip_type`) VALUES ('172.198.0.0/16', 'IPv4');
 INSERT INTO `azure_indiasouthcentral_ips` (`ip_address`, `ip_type`) VALUES ('172.198.80.16/30', 'IPv4');
 INSERT INTO `azure_indiasouthcentral_ips` (`ip_address`, `ip_type`) VALUES ('172.198.80.20/30', 'IPv4');
@@ -180,6 +184,7 @@ INSERT INTO `azure_indiasouthcentral_ips` (`ip_address`, `ip_type`) VALUES ('260
 INSERT INTO `azure_indiasouthcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1904:4::436/128', 'IPv6');
 INSERT INTO `azure_indiasouthcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1904:5::100/123', 'IPv6');
 INSERT INTO `azure_indiasouthcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1904:5::400/118', 'IPv6');
+INSERT INTO `azure_indiasouthcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1904:6::200/124', 'IPv6');
 INSERT INTO `azure_indiasouthcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1904:400::/125', 'IPv6');
 INSERT INTO `azure_indiasouthcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1904:400::8/125', 'IPv6');
 INSERT INTO `azure_indiasouthcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1904:400::10/125', 'IPv6');
@@ -201,6 +206,7 @@ INSERT INTO `azure_indiasouthcentral_ips` (`ip_address`, `ip_type`) VALUES ('260
 INSERT INTO `azure_indiasouthcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:101b:40::/59', 'IPv6');
 INSERT INTO `azure_indiasouthcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:101b:60::/61', 'IPv6');
 INSERT INTO `azure_indiasouthcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:101b:68::/63', 'IPv6');
+INSERT INTO `azure_indiasouthcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:101b:6a::/64', 'IPv6');
 INSERT INTO `azure_indiasouthcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1310:5400::/54', 'IPv6');
 INSERT INTO `azure_indiasouthcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1741::/48', 'IPv6');
 INSERT INTO `azure_indiasouthcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2010:41::/64', 'IPv6');

@@ -40,5 +40,11 @@
     "ip_type": "IPv6",
     "service": "AzureAttestation.NewZealandNorth",
     "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1010:502:8::b0/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.NewZealandNorth",
+    "region": "newzealandnorth"
   }
 ]

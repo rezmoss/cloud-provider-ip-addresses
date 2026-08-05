@@ -42,6 +42,12 @@
     "region": "australiasoutheast"
   },
   {
+    "ip_address": "2603:1010:101:8::750/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  },
+  {
     "ip_address": "2603:1010:207::3e0/124",
     "ip_type": "IPv6",
     "service": "AzureAttestation.AustraliaSoutheast",

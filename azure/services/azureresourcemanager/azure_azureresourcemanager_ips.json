@@ -1236,6 +1236,12 @@
     "region": ""
   },
   {
+    "ip_address": "172.129.82.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager",
+    "region": ""
+  },
+  {
     "ip_address": "172.169.142.0/23",
     "ip_type": "IPv4",
     "service": "AzureResourceManager",
@@ -1657,6 +1663,12 @@
   },
   {
     "ip_address": "2603:1020:1602:1::300/120",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:1701:1::500/120",
     "ip_type": "IPv6",
     "service": "AzureResourceManager",
     "region": ""

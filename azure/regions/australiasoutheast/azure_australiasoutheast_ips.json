@@ -342,6 +342,18 @@
     "region": "australiasoutheast"
   },
   {
+    "ip_address": "9.129.63.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.australiasoutheast",
+    "region": "australiasoutheast"
+  },
+  {
+    "ip_address": "9.129.66.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.australiasoutheast",
+    "region": "australiasoutheast"
+  },
+  {
     "ip_address": "13.70.128.0/18",
     "ip_type": "IPv4",
     "service": "AzureCloud.australiasoutheast",
@@ -2556,12 +2568,6 @@
     "region": "australiasoutheast"
   },
   {
-    "ip_address": "52.113.13.0/24",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.australiasoutheast",
-    "region": "australiasoutheast"
-  },
-  {
     "ip_address": "52.113.76.0/23",
     "ip_type": "IPv4",
     "service": "AzureCloud.australiasoutheast",
@@ -2574,7 +2580,7 @@
     "region": "australiasoutheast"
   },
   {
-    "ip_address": "52.114.60.0/23",
+    "ip_address": "52.114.61.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.australiasoutheast",
     "region": "australiasoutheast"
@@ -2850,15 +2856,27 @@
     "region": "australiasoutheast"
   },
   {
-    "ip_address": "57.157.168.32/29",
+    "ip_address": "57.157.168.32/28",
     "ip_type": "IPv4",
     "service": "AzureCloud.australiasoutheast",
     "region": "australiasoutheast"
   },
   {
-    "ip_address": "57.157.168.40/30",
+    "ip_address": "57.157.168.48/31",
     "ip_type": "IPv4",
     "service": "AzureCloud.australiasoutheast",
+    "region": "australiasoutheast"
+  },
+  {
+    "ip_address": "57.163.56.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.australiasoutheast",
+    "region": "australiasoutheast"
+  },
+  {
+    "ip_address": "57.163.56.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.AustraliaSoutheast",
     "region": "australiasoutheast"
   },
   {
@@ -3639,6 +3657,12 @@
     "ip_address": "2603:1010:101:8::400/119",
     "ip_type": "IPv6",
     "service": "AzureMonitor.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  },
+  {
+    "ip_address": "2603:1010:101:8::750/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.AustraliaSoutheast",
     "region": "australiasoutheast"
   },
   {

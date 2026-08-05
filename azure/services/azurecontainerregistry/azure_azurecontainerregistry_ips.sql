@@ -561,6 +561,8 @@ INSERT INTO `azure_azurecontainerregistry_ips` (`ip_address`, `ip_type`) VALUES 
 INSERT INTO `azure_azurecontainerregistry_ips` (`ip_address`, `ip_type`) VALUES ('168.61.140.128/25', 'IPv4');
 INSERT INTO `azure_azurecontainerregistry_ips` (`ip_address`, `ip_type`) VALUES ('168.61.141.0/24', 'IPv4');
 INSERT INTO `azure_azurecontainerregistry_ips` (`ip_address`, `ip_type`) VALUES ('168.61.142.192/26', 'IPv4');
+INSERT INTO `azure_azurecontainerregistry_ips` (`ip_address`, `ip_type`) VALUES ('172.129.76.192/26', 'IPv4');
+INSERT INTO `azure_azurecontainerregistry_ips` (`ip_address`, `ip_type`) VALUES ('172.129.88.128/26', 'IPv4');
 INSERT INTO `azure_azurecontainerregistry_ips` (`ip_address`, `ip_type`) VALUES ('172.160.222.128/26', 'IPv4');
 INSERT INTO `azure_azurecontainerregistry_ips` (`ip_address`, `ip_type`) VALUES ('172.164.212.64/26', 'IPv4');
 INSERT INTO `azure_azurecontainerregistry_ips` (`ip_address`, `ip_type`) VALUES ('172.183.232.0/24', 'IPv4');
@@ -824,6 +826,8 @@ INSERT INTO `azure_azurecontainerregistry_ips` (`ip_address`, `ip_type`) VALUES 
 INSERT INTO `azure_azurecontainerregistry_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1602:800::80/121', 'IPv6');
 INSERT INTO `azure_azurecontainerregistry_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1602:c00::8/125', 'IPv6');
 INSERT INTO `azure_azurecontainerregistry_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1602:c00::80/121', 'IPv6');
+INSERT INTO `azure_azurecontainerregistry_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1701::5e0/125', 'IPv6');
+INSERT INTO `azure_azurecontainerregistry_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1701:2::500/121', 'IPv6');
 INSERT INTO `azure_azurecontainerregistry_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f:1::2a8/125', 'IPv6');
 INSERT INTO `azure_azurecontainerregistry_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f:8::580/122', 'IPv6');
 INSERT INTO `azure_azurecontainerregistry_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f:400::890/125', 'IPv6');

@@ -15,6 +15,7 @@ ip_address,ip_type,service,region
 20.215.158.128/29,IPv4,AzureMonitor.PolandCentral,polandcentral
 20.215.158.144/28,IPv4,AzureMonitor.PolandCentral,polandcentral
 20.215.168.224/27,IPv4,AzureMonitor.PolandCentral,polandcentral
+74.153.3.64/26,IPv4,AzureMonitor.PolandCentral,polandcentral
 134.112.76.112/28,IPv4,AzureMonitor.PolandCentral,polandcentral
 134.112.77.0/27,IPv4,AzureMonitor.PolandCentral,polandcentral
 134.112.226.128/27,IPv4,AzureMonitor.PolandCentral,polandcentral

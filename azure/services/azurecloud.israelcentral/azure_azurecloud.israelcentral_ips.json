@@ -372,12 +372,6 @@
     "region": "israelcentral"
   },
   {
-    "ip_address": "52.112.52.0/24",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.israelcentral",
-    "region": "israelcentral"
-  },
-  {
     "ip_address": "52.123.36.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.israelcentral",

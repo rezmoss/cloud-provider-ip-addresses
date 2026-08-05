@@ -36,12 +36,6 @@
     "region": "us-west3"
   },
   {
-    "ip_address": "34.127.145.0/24",
-    "ip_type": "IPv4",
-    "service": "Google Cloud",
-    "region": "us-west3"
-  },
-  {
     "ip_address": "34.127.180.0/24",
     "ip_type": "IPv4",
     "service": "Google Cloud",
@@ -91,6 +85,12 @@
   },
   {
     "ip_address": "2600:1900:4170::/44",
+    "ip_type": "IPv6",
+    "service": "Google Cloud",
+    "region": "us-west3"
+  },
+  {
+    "ip_address": "2600:1902:2b0::/44",
     "ip_type": "IPv6",
     "service": "Google Cloud",
     "region": "us-west3"

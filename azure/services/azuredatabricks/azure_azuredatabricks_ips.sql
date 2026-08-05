@@ -526,6 +526,7 @@ INSERT INTO `azure_azuredatabricks_ips` (`ip_address`, `ip_type`) VALUES ('158.2
 INSERT INTO `azure_azuredatabricks_ips` (`ip_address`, `ip_type`) VALUES ('158.23.197.176/29', 'IPv4');
 INSERT INTO `azure_azuredatabricks_ips` (`ip_address`, `ip_type`) VALUES ('167.105.151.40/29', 'IPv4');
 INSERT INTO `azure_azuredatabricks_ips` (`ip_address`, `ip_type`) VALUES ('167.105.182.64/28', 'IPv4');
+INSERT INTO `azure_azuredatabricks_ips` (`ip_address`, `ip_type`) VALUES ('172.129.73.0/26', 'IPv4');
 INSERT INTO `azure_azuredatabricks_ips` (`ip_address`, `ip_type`) VALUES ('172.160.244.40/29', 'IPv4');
 INSERT INTO `azure_azuredatabricks_ips` (`ip_address`, `ip_type`) VALUES ('172.173.10.120/29', 'IPv4');
 INSERT INTO `azure_azuredatabricks_ips` (`ip_address`, `ip_type`) VALUES ('172.173.16.208/29', 'IPv4');
@@ -598,6 +599,7 @@ INSERT INTO `azure_azuredatabricks_ips` (`ip_address`, `ip_type`) VALUES ('2603:
 INSERT INTO `azure_azuredatabricks_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1502::1a0/123', 'IPv6');
 INSERT INTO `azure_azuredatabricks_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1602::1a0/123', 'IPv6');
 INSERT INTO `azure_azuredatabricks_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1602:3::500/122', 'IPv6');
+INSERT INTO `azure_azuredatabricks_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1701::1c0/122', 'IPv6');
 INSERT INTO `azure_azuredatabricks_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f:1::160/123', 'IPv6');
 INSERT INTO `azure_azuredatabricks_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:10:1::160/123', 'IPv6');
 INSERT INTO `azure_azuredatabricks_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:104:1::160/123', 'IPv6');

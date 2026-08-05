@@ -108,6 +108,12 @@
     "region": "australiasoutheast"
   },
   {
+    "ip_address": "57.163.56.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  },
+  {
     "ip_address": "135.130.3.0/24",
     "ip_type": "IPv4",
     "service": "Storage.AustraliaSoutheast",

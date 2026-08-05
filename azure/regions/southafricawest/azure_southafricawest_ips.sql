@@ -85,7 +85,6 @@ INSERT INTO `azure_southafricawest_ips` (`ip_address`, `ip_type`) VALUES ('52.10
 INSERT INTO `azure_southafricawest_ips` (`ip_address`, `ip_type`) VALUES ('52.109.152.0/23', 'IPv4');
 INSERT INTO `azure_southafricawest_ips` (`ip_address`, `ip_type`) VALUES ('52.111.238.0/24', 'IPv4');
 INSERT INTO `azure_southafricawest_ips` (`ip_address`, `ip_type`) VALUES ('52.114.52.0/24', 'IPv4');
-INSERT INTO `azure_southafricawest_ips` (`ip_address`, `ip_type`) VALUES ('52.114.228.0/24', 'IPv4');
 INSERT INTO `azure_southafricawest_ips` (`ip_address`, `ip_type`) VALUES ('52.123.47.0/24', 'IPv4');
 INSERT INTO `azure_southafricawest_ips` (`ip_address`, `ip_type`) VALUES ('52.123.152.0/24', 'IPv4');
 INSERT INTO `azure_southafricawest_ips` (`ip_address`, `ip_type`) VALUES ('52.143.203.0/24', 'IPv4');
@@ -321,6 +320,7 @@ INSERT INTO `azure_southafricawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:
 INSERT INTO `azure_southafricawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1000:4:8::400/123', 'IPv6');
 INSERT INTO `azure_southafricawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1000:4:8::420/123', 'IPv6');
 INSERT INTO `azure_southafricawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1000:4:8::600/119', 'IPv6');
+INSERT INTO `azure_southafricawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1000:4:9::1b0/124', 'IPv6');
 INSERT INTO `azure_southafricawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1000:4:9::200/119', 'IPv6');
 INSERT INTO `azure_southafricawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1000:4:400::/123', 'IPv6');
 INSERT INTO `azure_southafricawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1000:4:401::/123', 'IPv6');

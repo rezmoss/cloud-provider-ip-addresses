@@ -1020,6 +1020,12 @@
     "region": ""
   },
   {
+    "ip_address": "172.129.81.128/28",
+    "ip_type": "IPv4",
+    "service": "AzureDataExplorerManagement",
+    "region": ""
+  },
+  {
     "ip_address": "172.173.40.32/28",
     "ip_type": "IPv4",
     "service": "AzureDataExplorerManagement",
@@ -1387,6 +1393,12 @@
   },
   {
     "ip_address": "2603:1020:1602:1::1e0/123",
+    "ip_type": "IPv6",
+    "service": "AzureDataExplorerManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:1701:1::420/123",
     "ip_type": "IPv6",
     "service": "AzureDataExplorerManagement",
     "region": ""

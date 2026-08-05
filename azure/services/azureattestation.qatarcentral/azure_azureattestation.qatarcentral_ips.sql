@@ -12,3 +12,4 @@ INSERT INTO `azure_azureattestation.qatarcentral_ips` (`ip_address`, `ip_type`) 
 INSERT INTO `azure_azureattestation.qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.173.219.236/30', 'IPv4');
 INSERT INTO `azure_azureattestation.qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.173.220.40/29', 'IPv4');
 INSERT INTO `azure_azureattestation.qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1002:1::80/124', 'IPv6');
+INSERT INTO `azure_azureattestation.qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1002:c::20/124', 'IPv6');

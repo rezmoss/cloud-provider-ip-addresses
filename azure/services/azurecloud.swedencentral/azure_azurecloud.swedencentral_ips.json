@@ -804,7 +804,7 @@
     "region": "swedencentral"
   },
   {
-    "ip_address": "57.157.71.0/31",
+    "ip_address": "57.157.71.0/28",
     "ip_type": "IPv4",
     "service": "AzureCloud.swedencentral",
     "region": "swedencentral"

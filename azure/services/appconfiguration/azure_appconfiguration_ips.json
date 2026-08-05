@@ -2778,6 +2778,12 @@
     "region": ""
   },
   {
+    "ip_address": "172.129.84.0/26",
+    "ip_type": "IPv4",
+    "service": "AppConfiguration",
+    "region": ""
+  },
+  {
     "ip_address": "172.194.76.0/26",
     "ip_type": "IPv4",
     "service": "AppConfiguration",
@@ -3457,6 +3463,12 @@
   },
   {
     "ip_address": "2603:1020:1602:c00::20/123",
+    "ip_type": "IPv6",
+    "service": "AppConfiguration",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:1701:1::4c0/122",
     "ip_type": "IPv6",
     "service": "AppConfiguration",
     "region": ""

@@ -3144,6 +3144,12 @@
     "region": ""
   },
   {
+    "ip_address": "2603:1020:1702::/48",
+    "ip_type": "IPv6",
+    "service": "Storage",
+    "region": ""
+  },
+  {
     "ip_address": "2603:1030:11::/48",
     "ip_type": "IPv6",
     "service": "Storage",

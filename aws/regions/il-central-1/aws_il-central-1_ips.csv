@@ -99,6 +99,8 @@ ip_address,ip_type,service,region
 2600:f0f0:611f::/48,IPv6,AMAZON,il-central-1
 2600:f0f0:611f::/48,IPv6,EC2,il-central-1
 2600:f0f0:611f::/48,IPv6,S3,il-central-1
+2600:f0f0:c124::/48,IPv6,AMAZON,il-central-1
+2600:f0f0:c124::/48,IPv6,EC2,il-central-1
 2600:f0f1:8f::/48,IPv6,AMAZON,il-central-1
 2600:f0f1:8f::/48,IPv6,EC2,il-central-1
 2600:f0f1:8f::/48,IPv6,S3,il-central-1

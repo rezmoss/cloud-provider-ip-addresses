@@ -1578,6 +1578,18 @@
     "region": "austriaeast"
   },
   {
+    "ip_address": "2603:1061:2002:c800::/57",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.austriaeast",
+    "region": "austriaeast"
+  },
+  {
+    "ip_address": "2603:1061:2002:c800::/57",
+    "ip_type": "IPv6",
+    "service": "PowerPlatformInfra.AustriaEast",
+    "region": "austriaeast"
+  },
+  {
     "ip_address": "2603:1061:2010:3d::/64",
     "ip_type": "IPv6",
     "service": "AzureCloud.austriaeast",

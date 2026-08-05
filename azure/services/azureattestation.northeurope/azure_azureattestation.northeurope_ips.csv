@@ -6,3 +6,4 @@ ip_address,ip_type,service,region
 52.146.132.244/30,IPv4,AzureAttestation.NorthEurope,northeurope
 74.144.85.112/29,IPv4,AzureAttestation.NorthEurope,northeurope
 74.144.85.120/30,IPv4,AzureAttestation.NorthEurope,northeurope
+2603:1020:5:25::7b0/124,IPv6,AzureAttestation.NorthEurope,northeurope

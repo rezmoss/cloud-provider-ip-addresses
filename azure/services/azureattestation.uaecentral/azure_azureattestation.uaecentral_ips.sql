@@ -14,3 +14,4 @@ INSERT INTO `azure_azureattestation.uaecentral_ips` (`ip_address`, `ip_type`) VA
 INSERT INTO `azure_azureattestation.uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('74.243.146.184/29', 'IPv4');
 INSERT INTO `azure_azureattestation.uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('74.243.172.232/29', 'IPv4');
 INSERT INTO `azure_azureattestation.uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:b04:2::6b0/124', 'IPv6');
+INSERT INTO `azure_azureattestation.uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:b04:a::490/124', 'IPv6');

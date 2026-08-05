@@ -154,5 +154,11 @@
     "ip_type": "IPv6",
     "service": "Google Cloud",
     "region": "asia-northeast1"
+  },
+  {
+    "ip_address": "2600:1902:40::/44",
+    "ip_type": "IPv6",
+    "service": "Google Cloud",
+    "region": "asia-northeast1"
   }
 ]

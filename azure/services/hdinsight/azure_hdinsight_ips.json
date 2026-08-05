@@ -1080,6 +1080,12 @@
     "region": ""
   },
   {
+    "ip_address": "172.129.81.200/29",
+    "ip_type": "IPv4",
+    "service": "HDInsight",
+    "region": ""
+  },
+  {
     "ip_address": "172.182.175.168/29",
     "ip_type": "IPv4",
     "service": "HDInsight",
@@ -1381,6 +1387,12 @@
   },
   {
     "ip_address": "2603:1020:1602:1::2c0/124",
+    "ip_type": "IPv6",
+    "service": "HDInsight",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:1701:1::4b0/124",
     "ip_type": "IPv6",
     "service": "HDInsight",
     "region": ""

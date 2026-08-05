@@ -1086,6 +1086,12 @@
     "region": ""
   },
   {
+    "ip_address": "172.129.88.16/30",
+    "ip_type": "IPv4",
+    "service": "SerialConsole",
+    "region": ""
+  },
+  {
     "ip_address": "172.160.216.6/32",
     "ip_type": "IPv4",
     "service": "SerialConsole",
@@ -1189,6 +1195,12 @@
   },
   {
     "ip_address": "2603:1020:1602:3::570/124",
+    "ip_type": "IPv6",
+    "service": "SerialConsole",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:1701:2::390/124",
     "ip_type": "IPv6",
     "service": "SerialConsole",
     "region": ""

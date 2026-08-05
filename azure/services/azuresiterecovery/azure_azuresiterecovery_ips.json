@@ -2442,6 +2442,12 @@
     "region": ""
   },
   {
+    "ip_address": "172.129.72.0/28",
+    "ip_type": "IPv4",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
     "ip_address": "172.164.238.0/29",
     "ip_type": "IPv4",
     "service": "AzureSiteRecovery",
@@ -3625,6 +3631,12 @@
   },
   {
     "ip_address": "2603:1020:1602:1000::8/127",
+    "ip_type": "IPv6",
+    "service": "AzureSiteRecovery",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:1701::/123",
     "ip_type": "IPv6",
     "service": "AzureSiteRecovery",
     "region": ""

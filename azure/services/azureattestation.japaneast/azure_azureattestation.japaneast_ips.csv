@@ -6,3 +6,4 @@ ip_address,ip_type,service,region
 4.241.53.192/29,IPv4,AzureAttestation.JapanEast,japaneast
 20.191.161.220/30,IPv4,AzureAttestation.JapanEast,japaneast
 40.79.189.116/30,IPv4,AzureAttestation.JapanEast,japaneast
+2603:1040:407:14::e0/124,IPv6,AzureAttestation.JapanEast,japaneast

@@ -34,5 +34,11 @@
     "ip_type": "IPv6",
     "service": "AzureAttestation.IndiaSouthCentral",
     "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1040:1904:6::200/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.IndiaSouthCentral",
+    "region": "indiasouthcentral"
   }
 ]

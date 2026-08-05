@@ -1908,6 +1908,12 @@
     "region": ""
   },
   {
+    "ip_address": "172.129.78.16/28",
+    "ip_type": "IPv4",
+    "service": "ApiManagement",
+    "region": ""
+  },
+  {
     "ip_address": "172.165.36.182/31",
     "ip_type": "IPv4",
     "service": "ApiManagement",
@@ -2287,6 +2293,12 @@
   },
   {
     "ip_address": "2603:1020:1602::520/124",
+    "ip_type": "IPv6",
+    "service": "ApiManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:1701::720/124",
     "ip_type": "IPv6",
     "service": "ApiManagement",
     "region": ""

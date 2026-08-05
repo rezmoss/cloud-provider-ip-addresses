@@ -34,5 +34,11 @@
     "ip_type": "IPv6",
     "service": "AzureAttestation.DenmarkEast",
     "region": "denmarkeast"
+  },
+  {
+    "ip_address": "2603:1020:1602:7::440/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.DenmarkEast",
+    "region": "denmarkeast"
   }
 ]

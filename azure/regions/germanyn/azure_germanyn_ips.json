@@ -54,6 +54,18 @@
     "region": "germanyn"
   },
   {
+    "ip_address": "9.129.58.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "9.129.66.192/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
     "ip_address": "13.104.144.96/27",
     "ip_type": "IPv4",
     "service": "AzureCloud.germanyn",
@@ -2025,6 +2037,12 @@
     "ip_address": "2603:1020:d04:b::600/119",
     "ip_type": "IPv6",
     "service": "AzureMonitor.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:c::400/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.GermanyNorth",
     "region": "germanyn"
   },
   {

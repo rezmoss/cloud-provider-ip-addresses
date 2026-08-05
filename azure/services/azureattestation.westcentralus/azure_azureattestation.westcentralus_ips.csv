@@ -6,3 +6,4 @@ ip_address,ip_type,service,region
 52.150.157.172/30,IPv4,AzureAttestation.WestCentralUS,westcentralus
 74.159.0.252/30,IPv4,AzureAttestation.WestCentralUS,westcentralus
 74.159.1.80/29,IPv4,AzureAttestation.WestCentralUS,westcentralus
+2603:1030:b04:14::1d0/124,IPv6,AzureAttestation.WestCentralUS,westcentralus

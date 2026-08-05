@@ -176,6 +176,8 @@ ip_address,ip_type,service,region
 2600:f0f0:611a::/48,IPv6,AMAZON,ap-south-2
 2600:f0f0:611a::/48,IPv6,EC2,ap-south-2
 2600:f0f0:611a::/48,IPv6,S3,ap-south-2
+2600:f0f0:c114::/48,IPv6,AMAZON,ap-south-2
+2600:f0f0:c114::/48,IPv6,EC2,ap-south-2
 2600:f0f1:8d::/48,IPv6,AMAZON,ap-south-2
 2600:f0f1:8d::/48,IPv6,EC2,ap-south-2
 2600:f0f1:8d::/48,IPv6,S3,ap-south-2

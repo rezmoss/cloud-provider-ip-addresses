@@ -335,6 +335,7 @@ ip_address,ip_type,service,region
 57.173.52.64/29,IPv4,ApiManagement.CentralUSEUAP,centraluseuap
 57.173.52.72/30,IPv4,ApiManagement.CentralUSEUAP,centraluseuap
 57.173.52.76/30,IPv4,AzureAttestation.CentralUSEUAP,centraluseuap
+57.173.53.144/29,IPv4,AzureAttestation.CentralUSEUAP,centraluseuap
 104.208.48.0/20,IPv4,AzureCloud.centraluseuap,centraluseuap
 104.208.48.107/32,IPv4,AppService.CentralUSEUAP,centraluseuap
 104.208.54.11/32,IPv4,AppServiceManagement.CentralUSEUAP,centraluseuap
@@ -528,6 +529,7 @@ ip_address,ip_type,service,region
 2603:1030:f:11::100/122,IPv6,AzureIoTHub.CentralUSEUAP,centraluseuap
 2603:1030:f:11::400/119,IPv6,AzureMonitor.CentralUSEUAP,centraluseuap
 2603:1030:f:12::/119,IPv6,AzureMonitor.CentralUSEUAP,centraluseuap
+2603:1030:f:12::780/124,IPv6,AzureAttestation.CentralUSEUAP,centraluseuap
 2603:1030:f:400::880/125,IPv6,AzureKeyVault.CentralUSEUAP,centraluseuap
 2603:1030:f:400::888/125,IPv6,MicrosoftContainerRegistry.CentralUSEUAP,centraluseuap
 2603:1030:f:400::890/125,IPv6,AzureContainerRegistry.CentralUSEUAP,centraluseuap

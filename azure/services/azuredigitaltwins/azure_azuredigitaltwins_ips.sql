@@ -275,6 +275,8 @@ INSERT INTO `azure_azuredigitaltwins_ips` (`ip_address`, `ip_type`) VALUES ('134
 INSERT INTO `azure_azuredigitaltwins_ips` (`ip_address`, `ip_type`) VALUES ('157.55.90.48/29', 'IPv4');
 INSERT INTO `azure_azuredigitaltwins_ips` (`ip_address`, `ip_type`) VALUES ('157.55.90.56/31', 'IPv4');
 INSERT INTO `azure_azuredigitaltwins_ips` (`ip_address`, `ip_type`) VALUES ('158.23.100.96/27', 'IPv4');
+INSERT INTO `azure_azuredigitaltwins_ips` (`ip_address`, `ip_type`) VALUES ('172.129.78.0/29', 'IPv4');
+INSERT INTO `azure_azuredigitaltwins_ips` (`ip_address`, `ip_type`) VALUES ('172.129.78.32/27', 'IPv4');
 INSERT INTO `azure_azuredigitaltwins_ips` (`ip_address`, `ip_type`) VALUES ('172.173.44.192/27', 'IPv4');
 INSERT INTO `azure_azuredigitaltwins_ips` (`ip_address`, `ip_type`) VALUES ('172.179.35.128/29', 'IPv4');
 INSERT INTO `azure_azuredigitaltwins_ips` (`ip_address`, `ip_type`) VALUES ('172.179.207.224/27', 'IPv4');
@@ -320,6 +322,7 @@ INSERT INTO `azure_azuredigitaltwins_ips` (`ip_address`, `ip_type`) VALUES ('260
 INSERT INTO `azure_azuredigitaltwins_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1403::600/121', 'IPv6');
 INSERT INTO `azure_azuredigitaltwins_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1502::580/121', 'IPv6');
 INSERT INTO `azure_azuredigitaltwins_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1602::580/121', 'IPv6');
+INSERT INTO `azure_azuredigitaltwins_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1701::780/121', 'IPv6');
 INSERT INTO `azure_azuredigitaltwins_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f:2::500/121', 'IPv6');
 INSERT INTO `azure_azuredigitaltwins_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:104::700/121', 'IPv6');
 INSERT INTO `azure_azuredigitaltwins_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:107::5c0/122', 'IPv6');

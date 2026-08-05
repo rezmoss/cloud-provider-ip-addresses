@@ -11,6 +11,7 @@ INSERT INTO `azure_azurecloud.switzerlandn_ips` (`ip_address`, `ip_type`) VALUES
 INSERT INTO `azure_azurecloud.switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('4.226.0.0/17', 'IPv4');
 INSERT INTO `azure_azurecloud.switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('9.129.53.128/26', 'IPv4');
 INSERT INTO `azure_azurecloud.switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('9.129.55.192/27', 'IPv4');
+INSERT INTO `azure_azurecloud.switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('9.129.66.160/27', 'IPv4');
 INSERT INTO `azure_azurecloud.switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('13.104.144.32/27', 'IPv4');
 INSERT INTO `azure_azurecloud.switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('13.104.211.192/26', 'IPv4');
 INSERT INTO `azure_azurecloud.switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('13.105.100.176/28', 'IPv4');
@@ -71,7 +72,9 @@ INSERT INTO `azure_azurecloud.switzerlandn_ips` (`ip_address`, `ip_type`) VALUES
 INSERT INTO `azure_azurecloud.switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('51.103.200.0/21', 'IPv4');
 INSERT INTO `azure_azurecloud.switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('51.103.208.0/20', 'IPv4');
 INSERT INTO `azure_azurecloud.switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('51.103.224.0/19', 'IPv4');
-INSERT INTO `azure_azurecloud.switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('51.107.0.0/18', 'IPv4');
+INSERT INTO `azure_azurecloud.switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('51.107.0.0/19', 'IPv4');
+INSERT INTO `azure_azurecloud.switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('51.107.40.0/21', 'IPv4');
+INSERT INTO `azure_azurecloud.switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('51.107.48.0/20', 'IPv4');
 INSERT INTO `azure_azurecloud.switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('51.107.64.0/19', 'IPv4');
 INSERT INTO `azure_azurecloud.switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('51.107.128.0/21', 'IPv4');
 INSERT INTO `azure_azurecloud.switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('51.107.200.0/21', 'IPv4');

@@ -4014,6 +4014,12 @@
     "region": "centralfrance"
   },
   {
+    "ip_address": "2603:1020:805:12::4f0/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
     "ip_address": "2603:1020:805:400::/123",
     "ip_type": "IPv6",
     "service": "Sql.FranceCentral",

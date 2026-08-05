@@ -46,5 +46,11 @@
     "ip_type": "IPv6",
     "service": "AzureAttestation.FranceSouth",
     "region": "southfrance"
+  },
+  {
+    "ip_address": "2603:1020:905:b::5d0/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.FranceSouth",
+    "region": "southfrance"
   }
 ]

@@ -85,6 +85,7 @@ INSERT INTO `azure_azurecognitivesearch_ips` (`ip_address`, `ip_type`) VALUES ('
 INSERT INTO `azure_azurecognitivesearch_ips` (`ip_address`, `ip_type`) VALUES ('102.133.217.128/26', 'IPv4');
 INSERT INTO `azure_azurecognitivesearch_ips` (`ip_address`, `ip_type`) VALUES ('134.138.64.192/26', 'IPv4');
 INSERT INTO `azure_azurecognitivesearch_ips` (`ip_address`, `ip_type`) VALUES ('158.23.96.192/26', 'IPv4');
+INSERT INTO `azure_azurecognitivesearch_ips` (`ip_address`, `ip_type`) VALUES ('172.129.72.192/26', 'IPv4');
 INSERT INTO `azure_azurecognitivesearch_ips` (`ip_address`, `ip_type`) VALUES ('172.193.3.128/25', 'IPv4');
 INSERT INTO `azure_azurecognitivesearch_ips` (`ip_address`, `ip_type`) VALUES ('172.194.64.192/26', 'IPv4');
 INSERT INTO `azure_azurecognitivesearch_ips` (`ip_address`, `ip_type`) VALUES ('172.198.80.192/26', 'IPv4');
@@ -120,6 +121,7 @@ INSERT INTO `azure_azurecognitivesearch_ips` (`ip_address`, `ip_type`) VALUES ('
 INSERT INTO `azure_azurecognitivesearch_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1403::100/121', 'IPv6');
 INSERT INTO `azure_azurecognitivesearch_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1502::100/121', 'IPv6');
 INSERT INTO `azure_azurecognitivesearch_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1602::100/121', 'IPv6');
+INSERT INTO `azure_azurecognitivesearch_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1701::100/121', 'IPv6');
 INSERT INTO `azure_azurecognitivesearch_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f:1::180/121', 'IPv6');
 INSERT INTO `azure_azurecognitivesearch_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:10:1::180/121', 'IPv6');
 INSERT INTO `azure_azurecognitivesearch_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:104:1::180/121', 'IPv6');

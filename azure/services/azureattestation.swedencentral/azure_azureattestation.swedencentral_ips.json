@@ -40,5 +40,11 @@
     "ip_type": "IPv6",
     "service": "AzureAttestation.SwedenCentral",
     "region": "swedencentral"
+  },
+  {
+    "ip_address": "2603:1020:1004:14::110/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.SwedenCentral",
+    "region": "swedencentral"
   }
 ]

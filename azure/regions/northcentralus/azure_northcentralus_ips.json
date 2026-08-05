@@ -12,6 +12,48 @@
     "region": "northcentralus"
   },
   {
+    "ip_address": "9.129.67.144/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.northcentralus",
+    "region": "northcentralus"
+  },
+  {
+    "ip_address": "9.129.68.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.northcentralus",
+    "region": "northcentralus"
+  },
+  {
+    "ip_address": "9.129.72.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.northcentralus",
+    "region": "northcentralus"
+  },
+  {
+    "ip_address": "9.129.112.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.northcentralus",
+    "region": "northcentralus"
+  },
+  {
+    "ip_address": "9.129.116.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.northcentralus",
+    "region": "northcentralus"
+  },
+  {
+    "ip_address": "9.129.116.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.northcentralus",
+    "region": "northcentralus"
+  },
+  {
+    "ip_address": "9.129.119.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.northcentralus",
+    "region": "northcentralus"
+  },
+  {
     "ip_address": "13.105.26.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.northcentralus",
@@ -3048,13 +3090,7 @@
     "region": "northcentralus"
   },
   {
-    "ip_address": "57.157.65.208/30",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.northcentralus",
-    "region": "northcentralus"
-  },
-  {
-    "ip_address": "57.157.65.212/31",
+    "ip_address": "57.157.65.208/29",
     "ip_type": "IPv4",
     "service": "AzureCloud.northcentralus",
     "region": "northcentralus"
@@ -4611,6 +4647,12 @@
     "ip_address": "2603:1030:608:18::400/119",
     "ip_type": "IPv6",
     "service": "AzureMonitor.NorthCentralUS",
+    "region": "northcentralus"
+  },
+  {
+    "ip_address": "2603:1030:608:19::2b0/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.NorthCentralUS",
     "region": "northcentralus"
   },
   {

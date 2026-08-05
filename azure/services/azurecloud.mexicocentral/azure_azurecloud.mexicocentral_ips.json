@@ -354,7 +354,7 @@
     "region": "mexicocentral"
   },
   {
-    "ip_address": "151.206.158.0/24",
+    "ip_address": "145.190.84.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.mexicocentral",
     "region": "mexicocentral"

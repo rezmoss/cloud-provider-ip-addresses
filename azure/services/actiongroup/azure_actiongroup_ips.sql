@@ -150,6 +150,7 @@ INSERT INTO `azure_actiongroup_ips` (`ip_address`, `ip_type`) VALUES ('158.23.10
 INSERT INTO `azure_actiongroup_ips` (`ip_address`, `ip_type`) VALUES ('158.23.119.232/30', 'IPv4');
 INSERT INTO `azure_actiongroup_ips` (`ip_address`, `ip_type`) VALUES ('168.61.142.52/30', 'IPv4');
 INSERT INTO `azure_actiongroup_ips` (`ip_address`, `ip_type`) VALUES ('168.61.239.12/30', 'IPv4');
+INSERT INTO `azure_actiongroup_ips` (`ip_address`, `ip_type`) VALUES ('172.129.89.44/30', 'IPv4');
 INSERT INTO `azure_actiongroup_ips` (`ip_address`, `ip_type`) VALUES ('172.160.216.24/30', 'IPv4');
 INSERT INTO `azure_actiongroup_ips` (`ip_address`, `ip_type`) VALUES ('172.164.208.220/30', 'IPv4');
 INSERT INTO `azure_actiongroup_ips` (`ip_address`, `ip_type`) VALUES ('172.182.164.108/30', 'IPv4');
@@ -220,6 +221,7 @@ INSERT INTO `azure_actiongroup_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020
 INSERT INTO `azure_actiongroup_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1403:400::100/125', 'IPv6');
 INSERT INTO `azure_actiongroup_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1502:400::40/125', 'IPv6');
 INSERT INTO `azure_actiongroup_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1602:400::1c8/125', 'IPv6');
+INSERT INTO `azure_actiongroup_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1701:2::650/125', 'IPv6');
 INSERT INTO `azure_actiongroup_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f:4::39c/126', 'IPv6');
 INSERT INTO `azure_actiongroup_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f:400::978/125', 'IPv6');
 INSERT INTO `azure_actiongroup_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:10:1::118/126', 'IPv6');

@@ -258,12 +258,6 @@
     "region": "swedensouth"
   },
   {
-    "ip_address": "52.112.121.0/24",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.swedensouth",
-    "region": "swedensouth"
-  },
-  {
     "ip_address": "52.112.129.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.swedensouth",

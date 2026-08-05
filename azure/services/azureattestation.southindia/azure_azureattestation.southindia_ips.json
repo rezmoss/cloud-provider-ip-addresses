@@ -46,5 +46,11 @@
     "ip_type": "IPv6",
     "service": "AzureAttestation.SouthIndia",
     "region": "southindia"
+  },
+  {
+    "ip_address": "2603:1040:c06:e::2f0/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.SouthIndia",
+    "region": "southindia"
   }
 ]

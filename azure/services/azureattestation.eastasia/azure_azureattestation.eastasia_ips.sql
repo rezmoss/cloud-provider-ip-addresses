@@ -14,3 +14,4 @@ INSERT INTO `azure_azureattestation.eastasia_ips` (`ip_address`, `ip_type`) VALU
 INSERT INTO `azure_azureattestation.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('20.187.197.228/30', 'IPv4');
 INSERT INTO `azure_azureattestation.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('104.214.164.108/30', 'IPv4');
 INSERT INTO `azure_azureattestation.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:207:1::4c0/124', 'IPv6');
+INSERT INTO `azure_azureattestation.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:207:15::3e0/124', 'IPv6');

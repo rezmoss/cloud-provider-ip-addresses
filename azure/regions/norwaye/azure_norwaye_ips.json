@@ -1014,7 +1014,7 @@
     "region": "norwaye"
   },
   {
-    "ip_address": "51.120.0.0/17",
+    "ip_address": "51.120.0.0/19",
     "ip_type": "IPv4",
     "service": "AzureCloud.norwaye",
     "region": "norwaye"
@@ -1029,6 +1029,12 @@
     "ip_address": "51.120.4.0/27",
     "ip_type": "IPv4",
     "service": "AzureEventGrid.NorwayEast",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "51.120.40.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwaye",
     "region": "norwaye"
   },
   {
@@ -1191,6 +1197,18 @@
     "ip_address": "51.120.46.0/23",
     "ip_type": "IPv4",
     "service": "AzureResourceManager.NorwayEast",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "51.120.48.0/20",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwaye",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "51.120.64.0/18",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwaye",
     "region": "norwaye"
   },
   {
@@ -2607,6 +2625,12 @@
     "ip_address": "2603:1020:e04:e::200/119",
     "ip_type": "IPv6",
     "service": "AzureMonitor.NorwayEast",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "2603:1020:e04:f::60/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.NorwayEast",
     "region": "norwaye"
   },
   {

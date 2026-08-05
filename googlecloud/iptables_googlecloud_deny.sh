@@ -1,6 +1,6 @@
 #!/bin/bash
 # Googlecloud IP Ranges
-# Updated: 2026-08-04 03:11:06
+# Updated: 2026-08-05 03:11:05
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -134,8 +134,6 @@ iptables -A INPUT -s 34.126.64.0/18 -j DROP
 iptables -A INPUT -s 34.126.128.0/18 -j DROP
 iptables -A INPUT -s 34.126.192.0/19 -j DROP
 iptables -A INPUT -s 34.127.0.0/17 -j DROP
-iptables -A INPUT -s 34.127.145.0/24 -j DROP
-iptables -A INPUT -s 34.127.146.0/24 -j DROP
 iptables -A INPUT -s 34.127.156.0/22 -j DROP
 iptables -A INPUT -s 34.127.160.0/20 -j DROP
 iptables -A INPUT -s 34.127.177.0/24 -j DROP
@@ -470,3 +468,10 @@ ip6tables -A INPUT -s 2600:1901:8180::/44 -j DROP
 ip6tables -A INPUT -s 2600:1901:81b0::/44 -j DROP
 ip6tables -A INPUT -s 2600:1901:81c0::/44 -j DROP
 ip6tables -A INPUT -s 2600:1901:81f0::/44 -j DROP
+ip6tables -A INPUT -s 2600:1902::/39 -j DROP
+ip6tables -A INPUT -s 2600:1902:200::/42 -j DROP
+ip6tables -A INPUT -s 2600:1902:250::/44 -j DROP
+ip6tables -A INPUT -s 2600:1902:260::/43 -j DROP
+ip6tables -A INPUT -s 2600:1902:280::/42 -j DROP
+ip6tables -A INPUT -s 2600:1902:2c0::/43 -j DROP
+ip6tables -A INPUT -s 2600:1902:2e0::/44 -j DROP

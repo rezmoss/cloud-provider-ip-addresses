@@ -40,5 +40,11 @@
     "ip_type": "IPv6",
     "service": "AzureAttestation.SpainCentral",
     "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:9::520/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.SpainCentral",
+    "region": "spaincentral"
   }
 ]

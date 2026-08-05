@@ -6,3 +6,4 @@ ip_address,ip_type,service,region
 4.238.32.8/29,IPv4,AzureAttestation.BrazilSoutheast,brazilse
 20.195.146.64/30,IPv4,AzureAttestation.BrazilSoutheast,brazilse
 191.233.51.220/30,IPv4,AzureAttestation.BrazilSoutheast,brazilse
+2603:1050:403:9::4c0/124,IPv6,AzureAttestation.BrazilSoutheast,brazilse

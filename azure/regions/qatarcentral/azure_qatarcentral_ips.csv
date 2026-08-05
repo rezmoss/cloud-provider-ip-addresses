@@ -315,6 +315,7 @@ ip_address,ip_type,service,region
 2603:1040:1002:9::780/123,IPv6,AzureIoTHub.QatarCentral,qatarcentral
 2603:1040:1002:9::7a0/123,IPv6,AzureMonitor.QatarCentral,qatarcentral
 2603:1040:1002:a::400/118,IPv6,AzureMonitor.QatarCentral,qatarcentral
+2603:1040:1002:c::20/124,IPv6,AzureAttestation.QatarCentral,qatarcentral
 2603:1040:1002:400::/122,IPv6,AzureCosmosDB.QatarCentral,qatarcentral
 2603:1040:1002:400::40/125,IPv6,MicrosoftContainerRegistry.QatarCentral,qatarcentral
 2603:1040:1002:400::48/125,IPv6,AzureContainerRegistry.QatarCentral,qatarcentral

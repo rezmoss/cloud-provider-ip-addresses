@@ -40,5 +40,11 @@
     "ip_type": "IPv6",
     "service": "AzureAttestation.MexicoCentral",
     "region": "mexicocentral"
+  },
+  {
+    "ip_address": "2603:1030:702:9::3b0/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.MexicoCentral",
+    "region": "mexicocentral"
   }
 ]

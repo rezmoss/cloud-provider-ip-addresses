@@ -500,6 +500,7 @@ INSERT INTO `azure_azureeventgrid_ips` (`ip_address`, `ip_type`) VALUES ('158.23
 INSERT INTO `azure_azureeventgrid_ips` (`ip_address`, `ip_type`) VALUES ('167.105.174.128/32', 'IPv4');
 INSERT INTO `azure_azureeventgrid_ips` (`ip_address`, `ip_type`) VALUES ('167.105.174.255/32', 'IPv4');
 INSERT INTO `azure_azureeventgrid_ips` (`ip_address`, `ip_type`) VALUES ('167.105.175.108/32', 'IPv4');
+INSERT INTO `azure_azureeventgrid_ips` (`ip_address`, `ip_type`) VALUES ('172.129.73.128/25', 'IPv4');
 INSERT INTO `azure_azureeventgrid_ips` (`ip_address`, `ip_type`) VALUES ('172.170.112.22/32', 'IPv4');
 INSERT INTO `azure_azureeventgrid_ips` (`ip_address`, `ip_type`) VALUES ('172.192.198.0/23', 'IPv4');
 INSERT INTO `azure_azureeventgrid_ips` (`ip_address`, `ip_type`) VALUES ('172.194.65.128/25', 'IPv4');
@@ -559,6 +560,7 @@ INSERT INTO `azure_azureeventgrid_ips` (`ip_address`, `ip_type`) VALUES ('2603:1
 INSERT INTO `azure_azureeventgrid_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1403::280/121', 'IPv6');
 INSERT INTO `azure_azureeventgrid_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1502::280/121', 'IPv6');
 INSERT INTO `azure_azureeventgrid_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1602::280/121', 'IPv6');
+INSERT INTO `azure_azureeventgrid_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1701::480/121', 'IPv6');
 INSERT INTO `azure_azureeventgrid_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f:1::380/121', 'IPv6');
 INSERT INTO `azure_azureeventgrid_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:10:1::380/121', 'IPv6');
 INSERT INTO `azure_azureeventgrid_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:104:1::380/121', 'IPv6');

@@ -90,6 +90,7 @@ INSERT INTO `azure_kustoanalytics_ips` (`ip_address`, `ip_type`) VALUES ('74.7.1
 INSERT INTO `azure_kustoanalytics_ips` (`ip_address`, `ip_type`) VALUES ('74.241.227.0/26', 'IPv4');
 INSERT INTO `azure_kustoanalytics_ips` (`ip_address`, `ip_type`) VALUES ('134.138.78.64/27', 'IPv4');
 INSERT INTO `azure_kustoanalytics_ips` (`ip_address`, `ip_type`) VALUES ('158.23.113.128/27', 'IPv4');
+INSERT INTO `azure_kustoanalytics_ips` (`ip_address`, `ip_type`) VALUES ('172.129.86.64/27', 'IPv4');
 INSERT INTO `azure_kustoanalytics_ips` (`ip_address`, `ip_type`) VALUES ('172.194.76.160/27', 'IPv4');
 INSERT INTO `azure_kustoanalytics_ips` (`ip_address`, `ip_type`) VALUES ('172.198.92.160/27', 'IPv4');
 INSERT INTO `azure_kustoanalytics_ips` (`ip_address`, `ip_type`) VALUES ('172.204.160.224/27', 'IPv4');
@@ -123,6 +124,7 @@ INSERT INTO `azure_kustoanalytics_ips` (`ip_address`, `ip_type`) VALUES ('2603:1
 INSERT INTO `azure_kustoanalytics_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1403:2::700/121', 'IPv6');
 INSERT INTO `azure_kustoanalytics_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1502:1::780/121', 'IPv6');
 INSERT INTO `azure_kustoanalytics_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1602:1::780/121', 'IPv6');
+INSERT INTO `azure_kustoanalytics_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1701:2::180/121', 'IPv6');
 INSERT INTO `azure_kustoanalytics_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f:8::/121', 'IPv6');
 INSERT INTO `azure_kustoanalytics_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:10:4::480/121', 'IPv6');
 INSERT INTO `azure_kustoanalytics_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:104:2::780/121', 'IPv6');

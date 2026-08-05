@@ -71,6 +71,7 @@ INSERT INTO `azure_azurecloud.austriaeast_ips` (`ip_address`, `ip_type`) VALUES 
 INSERT INTO `azure_azurecloud.austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1003::/48', 'IPv6');
 INSERT INTO `azure_azurecloud.austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1311::/54', 'IPv6');
 INSERT INTO `azure_azurecloud.austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:173d::/48', 'IPv6');
+INSERT INTO `azure_azurecloud.austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2002:c800::/57', 'IPv6');
 INSERT INTO `azure_azurecloud.austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2010:3d::/64', 'IPv6');
 INSERT INTO `azure_azurecloud.austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2011:3d::/64', 'IPv6');
 INSERT INTO `azure_azurecloud.austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1063:13a::/56', 'IPv6');

@@ -1,23 +1,23 @@
 {
   "provider": "linode",
-  "version": 8,
-  "generated_date": "2026-08-04",
-  "last_changed_date": "2026-07-25",
+  "version": 9,
+  "generated_date": "2026-08-05",
+  "last_changed_date": "2026-08-05",
   "sources": [
     "https://geoip.linode.com/"
   ],
   "ipv4": {
-    "cidrs": 5347,
+    "cidrs": 5345,
     "merged_cidrs": 239,
-    "addresses": 1376768
+    "addresses": 1376256
   },
   "ipv6": {
-    "cidrs": 98,
-    "merged_cidrs": 38,
-    "addresses": 2856296393006354756090564968448
+    "cidrs": 96,
+    "merged_cidrs": 39,
+    "addresses": 2855985699070713796392665481216
   },
-  "total_entries": 5445,
-  "content_sha256": "41553292ba44b254b4bc5102731289433e1ad599f2ecca75e4071264cc5afab1",
+  "total_entries": 5441,
+  "content_sha256": "978193da10fdc33f76acc9168a9de562513f3e7e18a435dd47627330cfdc7478",
   "license": "CC0-1.0",
   "license_url": "https://github.com/rezmoss/cloud-provider-ip-addresses/blob/main/LICENSE"
 }

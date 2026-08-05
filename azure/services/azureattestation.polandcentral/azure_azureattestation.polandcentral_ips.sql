@@ -13,3 +13,4 @@ INSERT INTO `azure_azureattestation.polandcentral_ips` (`ip_address`, `ip_type`)
 INSERT INTO `azure_azureattestation.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('134.112.195.40/29', 'IPv4');
 INSERT INTO `azure_azureattestation.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('134.112.195.48/30', 'IPv4');
 INSERT INTO `azure_azureattestation.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1302::620/124', 'IPv6');
+INSERT INTO `azure_azureattestation.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1302:b::780/124', 'IPv6');

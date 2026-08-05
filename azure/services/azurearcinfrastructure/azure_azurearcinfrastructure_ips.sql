@@ -449,6 +449,7 @@ INSERT INTO `azure_azurearcinfrastructure_ips` (`ip_address`, `ip_type`) VALUES 
 INSERT INTO `azure_azurearcinfrastructure_ips` (`ip_address`, `ip_type`) VALUES ('158.158.133.70/32', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure_ips` (`ip_address`, `ip_type`) VALUES ('168.61.233.50/31', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure_ips` (`ip_address`, `ip_type`) VALUES ('168.61.233.56/29', 'IPv4');
+INSERT INTO `azure_azurearcinfrastructure_ips` (`ip_address`, `ip_type`) VALUES ('172.129.87.16/28', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure_ips` (`ip_address`, `ip_type`) VALUES ('172.167.234.102/31', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure_ips` (`ip_address`, `ip_type`) VALUES ('172.167.236.56/29', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure_ips` (`ip_address`, `ip_type`) VALUES ('172.172.252.64/29', 'IPv4');

@@ -467,6 +467,7 @@ INSERT INTO `azure_azuremachinelearning_ips` (`ip_address`, `ip_type`) VALUES ('
 INSERT INTO `azure_azuremachinelearning_ips` (`ip_address`, `ip_type`) VALUES ('158.158.134.202/32', 'IPv4');
 INSERT INTO `azure_azuremachinelearning_ips` (`ip_address`, `ip_type`) VALUES ('158.158.134.208/28', 'IPv4');
 INSERT INTO `azure_azuremachinelearning_ips` (`ip_address`, `ip_type`) VALUES ('158.158.134.224/27', 'IPv4');
+INSERT INTO `azure_azuremachinelearning_ips` (`ip_address`, `ip_type`) VALUES ('172.129.73.64/27', 'IPv4');
 INSERT INTO `azure_azuremachinelearning_ips` (`ip_address`, `ip_type`) VALUES ('172.160.154.16/28', 'IPv4');
 INSERT INTO `azure_azuremachinelearning_ips` (`ip_address`, `ip_type`) VALUES ('172.160.154.192/26', 'IPv4');
 INSERT INTO `azure_azuremachinelearning_ips` (`ip_address`, `ip_type`) VALUES ('172.166.5.219/32', 'IPv4');
@@ -627,6 +628,7 @@ INSERT INTO `azure_azuremachinelearning_ips` (`ip_address`, `ip_type`) VALUES ('
 INSERT INTO `azure_azuremachinelearning_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1403:7::580/123', 'IPv6');
 INSERT INTO `azure_azuremachinelearning_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1502::200/122', 'IPv6');
 INSERT INTO `azure_azuremachinelearning_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1602::200/122', 'IPv6');
+INSERT INTO `azure_azuremachinelearning_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1701::440/122', 'IPv6');
 INSERT INTO `azure_azuremachinelearning_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f:1::300/122', 'IPv6');
 INSERT INTO `azure_azuremachinelearning_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:10:1::2c0/122', 'IPv6');
 INSERT INTO `azure_azuremachinelearning_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:10:1f::7ad/128', 'IPv6');

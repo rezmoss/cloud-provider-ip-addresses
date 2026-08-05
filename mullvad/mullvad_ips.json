@@ -810,6 +810,12 @@
     "region": "us"
   },
   {
+    "ip_address": "37.120.246.130/32",
+    "ip_type": "IPv4",
+    "service": "mullvad-wireguard",
+    "region": "ro"
+  },
+  {
     "ip_address": "38.132.121.146/32",
     "ip_type": "IPv4",
     "service": "mullvad-bridge",
@@ -982,6 +988,12 @@
     "ip_type": "IPv4",
     "service": "mullvad-wireguard",
     "region": "ca"
+  },
+  {
+    "ip_address": "62.101.160.3/32",
+    "ip_type": "IPv4",
+    "service": "mullvad-wireguard",
+    "region": "nl"
   },
   {
     "ip_address": "62.133.44.202/32",
@@ -1494,6 +1506,12 @@
     "region": "ca"
   },
   {
+    "ip_address": "109.104.134.3/32",
+    "ip_type": "IPv4",
+    "service": "mullvad-wireguard",
+    "region": "nl"
+  },
+  {
     "ip_address": "129.227.46.130/32",
     "ip_type": "IPv4",
     "service": "mullvad-wireguard",
@@ -1594,6 +1612,18 @@
     "ip_type": "IPv4",
     "service": "mullvad-wireguard",
     "region": "gb"
+  },
+  {
+    "ip_address": "135.136.63.2/32",
+    "ip_type": "IPv4",
+    "service": "mullvad-wireguard",
+    "region": "ro"
+  },
+  {
+    "ip_address": "135.136.63.130/32",
+    "ip_type": "IPv4",
+    "service": "mullvad-wireguard",
+    "region": "ro"
   },
   {
     "ip_address": "138.199.6.194/32",
@@ -6312,7 +6342,19 @@
     "region": "ro"
   },
   {
+    "ip_address": "2a04:9dc0:0:134::f001/128",
+    "ip_type": "IPv6",
+    "service": "mullvad-wireguard",
+    "region": "ro"
+  },
+  {
     "ip_address": "2a04:9dc0:0:135::f001/128",
+    "ip_type": "IPv6",
+    "service": "mullvad-wireguard",
+    "region": "ro"
+  },
+  {
+    "ip_address": "2a04:9dc0:0:136::f001/128",
     "ip_type": "IPv6",
     "service": "mullvad-wireguard",
     "region": "ro"
@@ -6508,6 +6550,18 @@
     "ip_type": "IPv6",
     "service": "mullvad-wireguard",
     "region": "us"
+  },
+  {
+    "ip_address": "2a06:3040:31:601::f001/128",
+    "ip_type": "IPv6",
+    "service": "mullvad-wireguard",
+    "region": "nl"
+  },
+  {
+    "ip_address": "2a06:3040:31:601::f101/128",
+    "ip_type": "IPv6",
+    "service": "mullvad-wireguard",
+    "region": "nl"
   },
   {
     "ip_address": "2a07:d880:2::a01f/128",

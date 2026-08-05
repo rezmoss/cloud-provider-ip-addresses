@@ -21,6 +21,8 @@ ip_address,ip_type,service,region
 4.161.165.40/29,IPv4,AzureAttestation.UAENorth,uaenorth
 4.161.165.80/30,IPv4,AzureAttestation.UAENorth,uaenorth
 4.162.0.0/16,IPv4,AzureCloud.uaenorth,uaenorth
+9.129.65.128/26,IPv4,AzureCloud.uaenorth,uaenorth
+9.129.67.0/27,IPv4,AzureCloud.uaenorth,uaenorth
 13.104.151.64/26,IPv4,AzureCloud.uaenorth,uaenorth
 13.104.151.128/26,IPv4,AzureCloud.uaenorth,uaenorth
 13.105.61.16/28,IPv4,AzureCloud.uaenorth,uaenorth
@@ -481,6 +483,7 @@ ip_address,ip_type,service,region
 2603:1040:904:b::480/123,IPv6,AzureMonitor.UAENorth,uaenorth
 2603:1040:904:c::/119,IPv6,AzureMonitor.UAENorth,uaenorth
 2603:1040:904:c::400/119,IPv6,AzureMonitor.UAENorth,uaenorth
+2603:1040:904:c::630/124,IPv6,AzureAttestation.UAENorth,uaenorth
 2603:1040:904:400::/123,IPv6,Sql.UAENorth,uaenorth
 2603:1040:904:401::/123,IPv6,Sql.UAENorth,uaenorth
 2603:1040:904:402::80/125,IPv6,AzureKeyVault.UAENorth,uaenorth

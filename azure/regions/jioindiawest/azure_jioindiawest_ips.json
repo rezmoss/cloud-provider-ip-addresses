@@ -1722,6 +1722,12 @@
     "region": "jioindiawest"
   },
   {
+    "ip_address": "2603:1040:d04:9::220/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.JioIndiaWest",
+    "region": "jioindiawest"
+  },
+  {
     "ip_address": "2603:1040:d04:400::80/125",
     "ip_type": "IPv6",
     "service": "AzureKeyVault.JioIndiaWest",

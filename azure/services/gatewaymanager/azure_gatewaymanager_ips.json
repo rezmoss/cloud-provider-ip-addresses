@@ -1710,6 +1710,12 @@
     "region": ""
   },
   {
+    "ip_address": "172.129.72.64/26",
+    "ip_type": "IPv4",
+    "service": "GatewayManager",
+    "region": ""
+  },
+  {
     "ip_address": "172.166.7.192/26",
     "ip_type": "IPv4",
     "service": "GatewayManager",
@@ -1975,6 +1981,12 @@
   },
   {
     "ip_address": "2603:1020:1602::40/122",
+    "ip_type": "IPv6",
+    "service": "GatewayManager",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:1701::40/122",
     "ip_type": "IPv6",
     "service": "GatewayManager",
     "region": ""

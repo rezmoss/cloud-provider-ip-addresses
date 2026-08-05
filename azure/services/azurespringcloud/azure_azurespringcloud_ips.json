@@ -1056,6 +1056,12 @@
     "region": ""
   },
   {
+    "ip_address": "172.129.77.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureSpringCloud",
+    "region": ""
+  },
+  {
     "ip_address": "172.194.69.0/24",
     "ip_type": "IPv4",
     "service": "AzureSpringCloud",
@@ -1279,6 +1285,12 @@
   },
   {
     "ip_address": "2603:1020:1602::400/120",
+    "ip_type": "IPv6",
+    "service": "AzureSpringCloud",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:1701::600/120",
     "ip_type": "IPv6",
     "service": "AzureSpringCloud",
     "region": ""

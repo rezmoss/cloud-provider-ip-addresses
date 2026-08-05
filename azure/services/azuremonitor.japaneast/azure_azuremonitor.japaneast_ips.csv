@@ -1,6 +1,7 @@
 ip_address,ip_type,service,region
 4.189.204.0/24,IPv4,AzureMonitor.JapanEast,japaneast
 4.214.241.192/27,IPv4,AzureMonitor.JapanEast,japaneast
+4.215.17.240/28,IPv4,AzureMonitor.JapanEast,japaneast
 4.216.1.176/28,IPv4,AzureMonitor.JapanEast,japaneast
 4.216.2.16/28,IPv4,AzureMonitor.JapanEast,japaneast
 13.73.26.213/32,IPv4,AzureMonitor.JapanEast,japaneast

@@ -7,3 +7,4 @@ ip_address,ip_type,service,region
 172.192.225.104/29,IPv4,AzureAttestation.JapanWest,japanwest
 172.192.225.144/30,IPv4,AzureAttestation.JapanWest,japanwest
 2603:1040:606:3::e0/124,IPv6,AzureAttestation.JapanWest,japanwest
+2603:1040:606:10::480/124,IPv6,AzureAttestation.JapanWest,japanwest

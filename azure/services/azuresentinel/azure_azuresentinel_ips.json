@@ -2160,6 +2160,12 @@
     "region": ""
   },
   {
+    "ip_address": "172.129.84.72/29",
+    "ip_type": "IPv4",
+    "service": "AzureSentinel",
+    "region": ""
+  },
+  {
     "ip_address": "172.170.198.64/27",
     "ip_type": "IPv4",
     "service": "AzureSentinel",
@@ -2551,6 +2557,12 @@
   },
   {
     "ip_address": "2603:1020:1602:1::2d0/124",
+    "ip_type": "IPv6",
+    "service": "AzureSentinel",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:1701:2::100/124",
     "ip_type": "IPv6",
     "service": "AzureSentinel",
     "region": ""

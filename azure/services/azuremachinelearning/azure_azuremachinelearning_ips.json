@@ -2766,6 +2766,12 @@
     "region": ""
   },
   {
+    "ip_address": "172.129.73.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning",
+    "region": ""
+  },
+  {
     "ip_address": "172.160.154.16/28",
     "ip_type": "IPv4",
     "service": "AzureMachineLearning",
@@ -3721,6 +3727,12 @@
   },
   {
     "ip_address": "2603:1020:1602::200/122",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:1701::440/122",
     "ip_type": "IPv6",
     "service": "AzureMachineLearning",
     "region": ""

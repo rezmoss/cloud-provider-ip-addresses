@@ -12,6 +12,24 @@
     "region": "indonesiacentral"
   },
   {
+    "ip_address": "9.129.114.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.indonesiacentral",
+    "region": "indonesiacentral"
+  },
+  {
+    "ip_address": "9.129.118.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.indonesiacentral",
+    "region": "indonesiacentral"
+  },
+  {
+    "ip_address": "9.129.119.96/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.indonesiacentral",
+    "region": "indonesiacentral"
+  },
+  {
     "ip_address": "13.105.30.192/26",
     "ip_type": "IPv4",
     "service": "AzureCloud.indonesiacentral",

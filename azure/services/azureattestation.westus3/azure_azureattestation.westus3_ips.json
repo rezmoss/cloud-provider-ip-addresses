@@ -46,5 +46,11 @@
     "ip_type": "IPv6",
     "service": "AzureAttestation.WestUS3",
     "region": "westus3"
+  },
+  {
+    "ip_address": "2603:1030:504:1d::70/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.WestUS3",
+    "region": "westus3"
   }
 ]

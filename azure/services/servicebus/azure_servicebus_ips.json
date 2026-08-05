@@ -2514,6 +2514,12 @@
     "region": ""
   },
   {
+    "ip_address": "172.129.79.128/25",
+    "ip_type": "IPv4",
+    "service": "ServiceBus",
+    "region": ""
+  },
+  {
     "ip_address": "172.164.234.128/25",
     "ip_type": "IPv4",
     "service": "ServiceBus",
@@ -3289,6 +3295,12 @@
   },
   {
     "ip_address": "2603:1020:1602::780/121",
+    "ip_type": "IPv6",
+    "service": "ServiceBus",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:1701:1::180/121",
     "ip_type": "IPv6",
     "service": "ServiceBus",
     "region": ""

@@ -6,3 +6,4 @@ ip_address,ip_type,service,region
 134.112.195.40/29,IPv4,AzureAttestation.PolandCentral,polandcentral
 134.112.195.48/30,IPv4,AzureAttestation.PolandCentral,polandcentral
 2603:1020:1302::620/124,IPv6,AzureAttestation.PolandCentral,polandcentral
+2603:1020:1302:b::780/124,IPv6,AzureAttestation.PolandCentral,polandcentral

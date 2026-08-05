@@ -1,6 +1,6 @@
 #!/bin/bash
 # Aws IP Ranges
-# Updated: 2026-08-04 03:11:01
+# Updated: 2026-08-05 03:11:01
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -1692,7 +1692,7 @@ ufw deny from 172.96.110.0/24
 ufw deny from 172.106.0.0/15
 ufw deny from 173.83.192.0/19
 ufw deny from 173.83.224.0/21
-ufw deny from 173.83.232.0/23
+ufw deny from 173.83.232.0/22
 ufw deny from 174.129.0.0/16
 ufw deny from 175.41.128.0/17
 ufw deny from 176.32.64.0/19
@@ -3088,8 +3088,29 @@ ufw deny from 2600:f0f0:c004::/47
 ufw deny from 2600:f0f0:c040::/45
 ufw deny from 2600:f0f0:c048::/47
 ufw deny from 2600:f0f0:c102::/48
-ufw deny from 2600:f0f0:c121::/48
-ufw deny from 2600:f0f0:c145::/48
+ufw deny from 2600:f0f0:c106::/47
+ufw deny from 2600:f0f0:c109::/48
+ufw deny from 2600:f0f0:c10a::/47
+ufw deny from 2600:f0f0:c10c::/46
+ufw deny from 2600:f0f0:c111::/48
+ufw deny from 2600:f0f0:c112::/47
+ufw deny from 2600:f0f0:c114::/46
+ufw deny from 2600:f0f0:c118::/46
+ufw deny from 2600:f0f0:c11c::/48
+ufw deny from 2600:f0f0:c11f::/48
+ufw deny from 2600:f0f0:c120::/45
+ufw deny from 2600:f0f0:c128::/46
+ufw deny from 2600:f0f0:c12d::/48
+ufw deny from 2600:f0f0:c12e::/47
+ufw deny from 2600:f0f0:c130::/46
+ufw deny from 2600:f0f0:c135::/48
+ufw deny from 2600:f0f0:c136::/47
+ufw deny from 2600:f0f0:c138::/45
+ufw deny from 2600:f0f0:c140::/48
+ufw deny from 2600:f0f0:c143::/48
+ufw deny from 2600:f0f0:c144::/46
+ufw deny from 2600:f0f0:c148::/46
+ufw deny from 2600:f0f0:c14c::/47
 ufw deny from 2600:f0f1:10::/45
 ufw deny from 2600:f0f1:18::/46
 ufw deny from 2600:f0f1:80::/44
@@ -3121,6 +3142,8 @@ ufw deny from 2600:f0fb:8000::/40
 ufw deny from 2600:f0fb:c001::/56
 ufw deny from 2600:f0fb:c002::/56
 ufw deny from 2600:f0fb:c800::/56
+ufw deny from 2600:f0fb:c900::/52
+ufw deny from 2600:f0fb:ca00::/52
 ufw deny from 2600:f0fb:e000::/36
 ufw deny from 2600:f0fb:f000::/44
 ufw deny from 2600:f0fb:f020::/45

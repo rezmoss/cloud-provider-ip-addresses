@@ -46,5 +46,11 @@
     "ip_type": "IPv6",
     "service": "AzureAttestation.NorthCentralUS",
     "region": "northcentralus"
+  },
+  {
+    "ip_address": "2603:1030:608:19::2b0/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.NorthCentralUS",
+    "region": "northcentralus"
   }
 ]

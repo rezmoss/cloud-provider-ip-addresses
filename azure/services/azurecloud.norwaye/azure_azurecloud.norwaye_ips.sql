@@ -59,7 +59,10 @@ INSERT INTO `azure_azurecloud.norwaye_ips` (`ip_address`, `ip_type`) VALUES ('51
 INSERT INTO `azure_azurecloud.norwaye_ips` (`ip_address`, `ip_type`) VALUES ('51.13.0.0/17', 'IPv4');
 INSERT INTO `azure_azurecloud.norwaye_ips` (`ip_address`, `ip_type`) VALUES ('51.13.160.0/19', 'IPv4');
 INSERT INTO `azure_azurecloud.norwaye_ips` (`ip_address`, `ip_type`) VALUES ('51.107.208.0/20', 'IPv4');
-INSERT INTO `azure_azurecloud.norwaye_ips` (`ip_address`, `ip_type`) VALUES ('51.120.0.0/17', 'IPv4');
+INSERT INTO `azure_azurecloud.norwaye_ips` (`ip_address`, `ip_type`) VALUES ('51.120.0.0/19', 'IPv4');
+INSERT INTO `azure_azurecloud.norwaye_ips` (`ip_address`, `ip_type`) VALUES ('51.120.40.0/21', 'IPv4');
+INSERT INTO `azure_azurecloud.norwaye_ips` (`ip_address`, `ip_type`) VALUES ('51.120.48.0/20', 'IPv4');
+INSERT INTO `azure_azurecloud.norwaye_ips` (`ip_address`, `ip_type`) VALUES ('51.120.64.0/18', 'IPv4');
 INSERT INTO `azure_azurecloud.norwaye_ips` (`ip_address`, `ip_type`) VALUES ('51.120.208.0/21', 'IPv4');
 INSERT INTO `azure_azurecloud.norwaye_ips` (`ip_address`, `ip_type`) VALUES ('51.120.232.0/21', 'IPv4');
 INSERT INTO `azure_azurecloud.norwaye_ips` (`ip_address`, `ip_type`) VALUES ('51.120.240.0/20', 'IPv4');

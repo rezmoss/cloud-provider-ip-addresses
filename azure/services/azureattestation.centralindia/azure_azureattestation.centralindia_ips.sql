@@ -14,3 +14,4 @@ INSERT INTO `azure_azureattestation.centralindia_ips` (`ip_address`, `ip_type`) 
 INSERT INTO `azure_azureattestation.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('20.43.123.196/30', 'IPv4');
 INSERT INTO `azure_azureattestation.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('20.192.43.76/30', 'IPv4');
 INSERT INTO `azure_azureattestation.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:a06:2::2a0/123', 'IPv6');
+INSERT INTO `azure_azureattestation.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:a06:11::440/124', 'IPv6');

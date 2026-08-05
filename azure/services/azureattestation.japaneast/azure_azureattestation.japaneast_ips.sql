@@ -13,3 +13,4 @@ INSERT INTO `azure_azureattestation.japaneast_ips` (`ip_address`, `ip_type`) VAL
 INSERT INTO `azure_azureattestation.japaneast_ips` (`ip_address`, `ip_type`) VALUES ('4.241.53.192/29', 'IPv4');
 INSERT INTO `azure_azureattestation.japaneast_ips` (`ip_address`, `ip_type`) VALUES ('20.191.161.220/30', 'IPv4');
 INSERT INTO `azure_azureattestation.japaneast_ips` (`ip_address`, `ip_type`) VALUES ('40.79.189.116/30', 'IPv4');
+INSERT INTO `azure_azureattestation.japaneast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:407:14::e0/124', 'IPv6');

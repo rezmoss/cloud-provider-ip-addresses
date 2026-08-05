@@ -413,6 +413,7 @@ INSERT INTO `azure_azuresiterecovery_ips` (`ip_address`, `ip_type`) VALUES ('167
 INSERT INTO `azure_azuresiterecovery_ips` (`ip_address`, `ip_type`) VALUES ('167.105.228.16/28', 'IPv4');
 INSERT INTO `azure_azuresiterecovery_ips` (`ip_address`, `ip_type`) VALUES ('167.105.253.96/27', 'IPv4');
 INSERT INTO `azure_azuresiterecovery_ips` (`ip_address`, `ip_type`) VALUES ('168.61.229.80/28', 'IPv4');
+INSERT INTO `azure_azuresiterecovery_ips` (`ip_address`, `ip_type`) VALUES ('172.129.72.0/28', 'IPv4');
 INSERT INTO `azure_azuresiterecovery_ips` (`ip_address`, `ip_type`) VALUES ('172.164.238.0/29', 'IPv4');
 INSERT INTO `azure_azuresiterecovery_ips` (`ip_address`, `ip_type`) VALUES ('172.166.246.192/27', 'IPv4');
 INSERT INTO `azure_azuresiterecovery_ips` (`ip_address`, `ip_type`) VALUES ('172.169.145.80/28', 'IPv4');
@@ -611,6 +612,7 @@ INSERT INTO `azure_azuresiterecovery_ips` (`ip_address`, `ip_type`) VALUES ('260
 INSERT INTO `azure_azuresiterecovery_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1602:5::120/123', 'IPv6');
 INSERT INTO `azure_azuresiterecovery_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1602:1000::/125', 'IPv6');
 INSERT INTO `azure_azuresiterecovery_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1602:1000::8/127', 'IPv6');
+INSERT INTO `azure_azuresiterecovery_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1701::/123', 'IPv6');
 INSERT INTO `azure_azuresiterecovery_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f:1::/123', 'IPv6');
 INSERT INTO `azure_azuresiterecovery_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f:10::140/122', 'IPv6');
 INSERT INTO `azure_azuresiterecovery_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f:400::ad0/125', 'IPv6');

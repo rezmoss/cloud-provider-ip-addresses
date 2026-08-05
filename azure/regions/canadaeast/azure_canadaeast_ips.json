@@ -2814,6 +2814,12 @@
     "region": "canadaeast"
   },
   {
+    "ip_address": "2603:1030:1005:f::3f0/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
     "ip_address": "2603:1030:1005:400::/123",
     "ip_type": "IPv6",
     "service": "Sql.CanadaEast",

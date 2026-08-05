@@ -14,3 +14,4 @@ INSERT INTO `azure_azureattestation.switzerlandnorth_ips` (`ip_address`, `ip_typ
 INSERT INTO `azure_azureattestation.switzerlandnorth_ips` (`ip_address`, `ip_type`) VALUES ('172.161.230.124/30', 'IPv4');
 INSERT INTO `azure_azureattestation.switzerlandnorth_ips` (`ip_address`, `ip_type`) VALUES ('172.161.230.224/29', 'IPv4');
 INSERT INTO `azure_azureattestation.switzerlandnorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:a04:2::530/124', 'IPv6');
+INSERT INTO `azure_azureattestation.switzerlandnorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:a04:f::180/124', 'IPv6');

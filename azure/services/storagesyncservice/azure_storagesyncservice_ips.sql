@@ -121,6 +121,7 @@ INSERT INTO `azure_storagesyncservice_ips` (`ip_address`, `ip_type`) VALUES ('10
 INSERT INTO `azure_storagesyncservice_ips` (`ip_address`, `ip_type`) VALUES ('104.214.165.88/29', 'IPv4');
 INSERT INTO `azure_storagesyncservice_ips` (`ip_address`, `ip_type`) VALUES ('134.138.79.88/29', 'IPv4');
 INSERT INTO `azure_storagesyncservice_ips` (`ip_address`, `ip_type`) VALUES ('158.23.11.176/29', 'IPv4');
+INSERT INTO `azure_storagesyncservice_ips` (`ip_address`, `ip_type`) VALUES ('172.129.87.56/29', 'IPv4');
 INSERT INTO `azure_storagesyncservice_ips` (`ip_address`, `ip_type`) VALUES ('172.194.79.136/29', 'IPv4');
 INSERT INTO `azure_storagesyncservice_ips` (`ip_address`, `ip_type`) VALUES ('172.195.144.248/29', 'IPv4');
 INSERT INTO `azure_storagesyncservice_ips` (`ip_address`, `ip_type`) VALUES ('172.198.95.144/29', 'IPv4');
@@ -166,6 +167,7 @@ INSERT INTO `azure_storagesyncservice_ips` (`ip_address`, `ip_type`) VALUES ('26
 INSERT INTO `azure_storagesyncservice_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1502:400::120/123', 'IPv6');
 INSERT INTO `azure_storagesyncservice_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1602:4::/123', 'IPv6');
 INSERT INTO `azure_storagesyncservice_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1602:400::220/123', 'IPv6');
+INSERT INTO `azure_storagesyncservice_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1701:2::3a0/123', 'IPv6');
 INSERT INTO `azure_storagesyncservice_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f:1::340/123', 'IPv6');
 INSERT INTO `azure_storagesyncservice_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f:400::dc0/123', 'IPv6');
 INSERT INTO `azure_storagesyncservice_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:10:1::300/123', 'IPv6');

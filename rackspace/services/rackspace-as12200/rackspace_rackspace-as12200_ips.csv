@@ -1,5 +1,6 @@
 ip_address,ip_type,service,region
 66.70.24.0/24,IPv4,rackspace-as12200,global
+81.168.7.0/24,IPv4,rackspace-as12200,global
 146.20.220.0/22,IPv4,rackspace-as12200,global
 146.177.20.0/24,IPv4,rackspace-as12200,global
 146.177.21.0/24,IPv4,rackspace-as12200,global

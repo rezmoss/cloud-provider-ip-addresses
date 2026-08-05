@@ -2064,6 +2064,18 @@
     "region": ""
   },
   {
+    "ip_address": "172.129.78.64/28",
+    "ip_type": "IPv4",
+    "service": "AzureBackup",
+    "region": ""
+  },
+  {
+    "ip_address": "172.129.78.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup",
+    "region": ""
+  },
+  {
     "ip_address": "172.192.193.164/30",
     "ip_type": "IPv4",
     "service": "AzureBackup",
@@ -2629,6 +2641,12 @@
   },
   {
     "ip_address": "2603:1020:1602::600/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:1701:1::/121",
     "ip_type": "IPv6",
     "service": "AzureBackup",
     "region": ""

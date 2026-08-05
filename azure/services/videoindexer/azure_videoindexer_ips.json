@@ -978,6 +978,12 @@
     "region": ""
   },
   {
+    "ip_address": "172.129.81.60/30",
+    "ip_type": "IPv4",
+    "service": "VideoIndexer",
+    "region": ""
+  },
+  {
     "ip_address": "172.160.222.50/31",
     "ip_type": "IPv4",
     "service": "VideoIndexer",
@@ -1183,6 +1189,12 @@
   },
   {
     "ip_address": "2603:1020:1602:1::1d0/124",
+    "ip_type": "IPv6",
+    "service": "VideoIndexer",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:1701:1::410/124",
     "ip_type": "IPv6",
     "service": "VideoIndexer",
     "region": ""

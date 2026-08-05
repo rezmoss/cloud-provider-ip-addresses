@@ -12,6 +12,18 @@
     "region": "spaincentral"
   },
   {
+    "ip_address": "9.129.67.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "9.129.118.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
     "ip_address": "13.105.111.96/27",
     "ip_type": "IPv4",
     "service": "AzureCloud.spaincentral",

@@ -6,3 +6,4 @@ ip_address,ip_type,service,region
 48.203.191.136/29,IPv4,AzureAttestation.GermanyWestCentral,germanywc
 51.116.149.224/30,IPv4,AzureAttestation.GermanyWestCentral,germanywc
 51.116.246.16/30,IPv4,AzureAttestation.GermanyWestCentral,germanywc
+2603:1020:c04:11::80/124,IPv6,AzureAttestation.GermanyWestCentral,germanywc

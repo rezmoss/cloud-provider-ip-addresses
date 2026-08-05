@@ -1560,6 +1560,12 @@
     "region": ""
   },
   {
+    "ip_address": "172.129.89.160/29",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric",
+    "region": ""
+  },
+  {
     "ip_address": "172.194.86.224/29",
     "ip_type": "IPv4",
     "service": "ServiceFabric",
@@ -2047,6 +2053,12 @@
   },
   {
     "ip_address": "2603:1020:1602:c00::10/125",
+    "ip_type": "IPv6",
+    "service": "ServiceFabric",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:1701:2::658/125",
     "ip_type": "IPv6",
     "service": "ServiceFabric",
     "region": ""

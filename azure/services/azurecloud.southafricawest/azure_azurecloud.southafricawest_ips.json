@@ -240,12 +240,6 @@
     "region": "southafricawest"
   },
   {
-    "ip_address": "52.114.228.0/24",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southafricawest",
-    "region": "southafricawest"
-  },
-  {
     "ip_address": "52.123.47.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.southafricawest",

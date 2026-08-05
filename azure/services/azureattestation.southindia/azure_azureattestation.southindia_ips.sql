@@ -14,3 +14,4 @@ INSERT INTO `azure_azureattestation.southindia_ips` (`ip_address`, `ip_type`) VA
 INSERT INTO `azure_azureattestation.southindia_ips` (`ip_address`, `ip_type`) VALUES ('74.224.224.216/30', 'IPv4');
 INSERT INTO `azure_azureattestation.southindia_ips` (`ip_address`, `ip_type`) VALUES ('74.225.41.64/29', 'IPv4');
 INSERT INTO `azure_azureattestation.southindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:c06:3::390/124', 'IPv6');
+INSERT INTO `azure_azureattestation.southindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:c06:e::2f0/124', 'IPv6');

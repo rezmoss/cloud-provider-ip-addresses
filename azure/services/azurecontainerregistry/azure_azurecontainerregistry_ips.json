@@ -3330,6 +3330,18 @@
     "region": ""
   },
   {
+    "ip_address": "172.129.76.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry",
+    "region": ""
+  },
+  {
+    "ip_address": "172.129.88.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry",
+    "region": ""
+  },
+  {
     "ip_address": "172.160.222.128/26",
     "ip_type": "IPv4",
     "service": "AzureContainerRegistry",
@@ -4903,6 +4915,18 @@
   },
   {
     "ip_address": "2603:1020:1602:c00::80/121",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:1701::5e0/125",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:1701:2::500/121",
     "ip_type": "IPv6",
     "service": "AzureContainerRegistry",
     "region": ""

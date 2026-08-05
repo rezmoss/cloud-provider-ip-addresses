@@ -40,5 +40,11 @@
     "ip_type": "IPv6",
     "service": "AzureAttestation.ItalyNorth",
     "region": "italynorth"
+  },
+  {
+    "ip_address": "2603:1020:1204:a::380/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.ItalyNorth",
+    "region": "italynorth"
   }
 ]

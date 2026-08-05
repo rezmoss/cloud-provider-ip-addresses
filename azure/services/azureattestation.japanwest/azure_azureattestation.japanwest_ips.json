@@ -46,5 +46,11 @@
     "ip_type": "IPv6",
     "service": "AzureAttestation.JapanWest",
     "region": "japanwest"
+  },
+  {
+    "ip_address": "2603:1040:606:10::480/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.JapanWest",
+    "region": "japanwest"
   }
 ]

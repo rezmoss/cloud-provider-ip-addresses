@@ -34,5 +34,11 @@
     "ip_type": "IPv6",
     "service": "AzureAttestation.IndonesiaCentral",
     "region": "indonesiacentral"
+  },
+  {
+    "ip_address": "2603:1040:1802:9::10/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.IndonesiaCentral",
+    "region": "indonesiacentral"
   }
 ]

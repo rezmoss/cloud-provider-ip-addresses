@@ -425,6 +425,7 @@ INSERT INTO `azure_servicebus_ips` (`ip_address`, `ip_type`) VALUES ('158.23.194
 INSERT INTO `azure_servicebus_ips` (`ip_address`, `ip_type`) VALUES ('158.23.194.96/28', 'IPv4');
 INSERT INTO `azure_servicebus_ips` (`ip_address`, `ip_type`) VALUES ('168.61.142.56/29', 'IPv4');
 INSERT INTO `azure_servicebus_ips` (`ip_address`, `ip_type`) VALUES ('168.61.245.192/26', 'IPv4');
+INSERT INTO `azure_servicebus_ips` (`ip_address`, `ip_type`) VALUES ('172.129.79.128/25', 'IPv4');
 INSERT INTO `azure_servicebus_ips` (`ip_address`, `ip_type`) VALUES ('172.164.234.128/25', 'IPv4');
 INSERT INTO `azure_servicebus_ips` (`ip_address`, `ip_type`) VALUES ('172.173.40.192/26', 'IPv4');
 INSERT INTO `azure_servicebus_ips` (`ip_address`, `ip_type`) VALUES ('172.179.209.64/26', 'IPv4');
@@ -555,6 +556,7 @@ INSERT INTO `azure_servicebus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:
 INSERT INTO `azure_servicebus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1403:1::100/121', 'IPv6');
 INSERT INTO `azure_servicebus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1502::780/121', 'IPv6');
 INSERT INTO `azure_servicebus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1602::780/121', 'IPv6');
+INSERT INTO `azure_servicebus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1701:1::180/121', 'IPv6');
 INSERT INTO `azure_servicebus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f:1::220/123', 'IPv6');
 INSERT INTO `azure_servicebus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f:3::240/122', 'IPv6');
 INSERT INTO `azure_servicebus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f:3::300/120', 'IPv6');

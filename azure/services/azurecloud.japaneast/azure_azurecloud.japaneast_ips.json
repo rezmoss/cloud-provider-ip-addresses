@@ -48,6 +48,18 @@
     "region": "japaneast"
   },
   {
+    "ip_address": "9.129.119.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.japaneast",
+    "region": "japaneast"
+  },
+  {
+    "ip_address": "9.129.120.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.japaneast",
+    "region": "japaneast"
+  },
+  {
     "ip_address": "13.71.128.0/19",
     "ip_type": "IPv4",
     "service": "AzureCloud.japaneast",

@@ -7,3 +7,4 @@ ip_address,ip_type,service,region
 74.147.19.128/29,IPv4,AzureAttestation.AustraliaCentral,australiacentral
 74.147.19.136/30,IPv4,AzureAttestation.AustraliaCentral,australiacentral
 2603:1010:304:2::6b0/124,IPv6,AzureAttestation.AustraliaCentral,australiacentral
+2603:1010:304:e::420/124,IPv6,AzureAttestation.AustraliaCentral,australiacentral

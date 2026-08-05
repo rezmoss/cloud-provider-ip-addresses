@@ -2106,6 +2106,12 @@
     "region": ""
   },
   {
+    "ip_address": "172.129.73.96/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement",
+    "region": ""
+  },
+  {
     "ip_address": "172.194.68.0/27",
     "ip_type": "IPv4",
     "service": "BatchNodeManagement",
@@ -2419,6 +2425,12 @@
   },
   {
     "ip_address": "2603:1020:1602::300/122",
+    "ip_type": "IPv6",
+    "service": "BatchNodeManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:1701::500/122",
     "ip_type": "IPv6",
     "service": "BatchNodeManagement",
     "region": ""

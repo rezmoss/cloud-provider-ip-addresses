@@ -954,7 +954,7 @@
     "region": "global"
   },
   {
-    "ip_address": "204.141.33.0/24",
+    "ip_address": "204.141.32.0/24",
     "ip_type": "IPv4",
     "service": "zoho-as2639",
     "region": "global"

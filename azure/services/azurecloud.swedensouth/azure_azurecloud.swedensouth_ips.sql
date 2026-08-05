@@ -49,7 +49,6 @@ INSERT INTO `azure_azurecloud.swedensouth_ips` (`ip_address`, `ip_type`) VALUES 
 INSERT INTO `azure_azurecloud.swedensouth_ips` (`ip_address`, `ip_type`) VALUES ('52.109.173.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.swedensouth_ips` (`ip_address`, `ip_type`) VALUES ('52.111.210.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.swedensouth_ips` (`ip_address`, `ip_type`) VALUES ('52.112.119.0/24', 'IPv4');
-INSERT INTO `azure_azurecloud.swedensouth_ips` (`ip_address`, `ip_type`) VALUES ('52.112.121.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.swedensouth_ips` (`ip_address`, `ip_type`) VALUES ('52.112.129.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.swedensouth_ips` (`ip_address`, `ip_type`) VALUES ('52.123.51.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.swedensouth_ips` (`ip_address`, `ip_type`) VALUES ('52.123.223.0/24', 'IPv4');

@@ -1,6 +1,6 @@
 #!/bin/bash
 # Googleservices IP Ranges
-# Updated: 2026-08-04 03:11:07
+# Updated: 2026-08-05 03:11:06
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -90,9 +90,7 @@ iptables -A INPUT -s 34.124.96.0/20 -j ACCEPT
 iptables -A INPUT -s 34.126.0.0/18 -j ACCEPT
 iptables -A INPUT -s 34.126.224.0/19 -j ACCEPT
 iptables -A INPUT -s 34.127.128.0/20 -j ACCEPT
-iptables -A INPUT -s 34.127.144.0/24 -j ACCEPT
-iptables -A INPUT -s 34.127.147.0/24 -j ACCEPT
-iptables -A INPUT -s 34.127.148.0/22 -j ACCEPT
+iptables -A INPUT -s 34.127.144.0/21 -j ACCEPT
 iptables -A INPUT -s 34.127.152.0/22 -j ACCEPT
 iptables -A INPUT -s 34.127.176.0/24 -j ACCEPT
 iptables -A INPUT -s 34.127.181.0/24 -j ACCEPT
@@ -341,7 +339,16 @@ ip6tables -A INPUT -s 2600:1901:8800::/37 -j ACCEPT
 ip6tables -A INPUT -s 2600:1901:9000::/36 -j ACCEPT
 ip6tables -A INPUT -s 2600:1901:a000::/35 -j ACCEPT
 ip6tables -A INPUT -s 2600:1901:c000::/34 -j ACCEPT
-ip6tables -A INPUT -s 2600:1902::/31 -j ACCEPT
+ip6tables -A INPUT -s 2600:1902:240::/44 -j ACCEPT
+ip6tables -A INPUT -s 2600:1902:2f0::/44 -j ACCEPT
+ip6tables -A INPUT -s 2600:1902:300::/40 -j ACCEPT
+ip6tables -A INPUT -s 2600:1902:400::/38 -j ACCEPT
+ip6tables -A INPUT -s 2600:1902:800::/37 -j ACCEPT
+ip6tables -A INPUT -s 2600:1902:1000::/36 -j ACCEPT
+ip6tables -A INPUT -s 2600:1902:2000::/35 -j ACCEPT
+ip6tables -A INPUT -s 2600:1902:4000::/34 -j ACCEPT
+ip6tables -A INPUT -s 2600:1902:8000::/33 -j ACCEPT
+ip6tables -A INPUT -s 2600:1903::/32 -j ACCEPT
 ip6tables -A INPUT -s 2600:1904::/30 -j ACCEPT
 ip6tables -A INPUT -s 2600:1908::/29 -j ACCEPT
 ip6tables -A INPUT -s 2605:ef80::/32 -j ACCEPT

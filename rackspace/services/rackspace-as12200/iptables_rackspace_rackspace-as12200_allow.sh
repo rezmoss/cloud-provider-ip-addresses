@@ -1,6 +1,6 @@
 #!/bin/bash
 # Rackspace IP Ranges
-# Updated: 2026-07-12 03:18:02
+# Updated: 2026-08-05 03:16:26
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -8,6 +8,7 @@
 # iptables allow rules for rackspace
 
 iptables -A INPUT -s 66.70.24.0/24 -j ACCEPT
+iptables -A INPUT -s 81.168.7.0/24 -j ACCEPT
 iptables -A INPUT -s 146.20.220.0/22 -j ACCEPT
 iptables -A INPUT -s 146.177.20.0/23 -j ACCEPT
 iptables -A INPUT -s 146.177.56.0/24 -j ACCEPT

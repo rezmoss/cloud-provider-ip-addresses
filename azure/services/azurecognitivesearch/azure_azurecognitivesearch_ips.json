@@ -474,6 +474,12 @@
     "region": ""
   },
   {
+    "ip_address": "172.129.72.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureCognitiveSearch",
+    "region": ""
+  },
+  {
     "ip_address": "172.193.3.128/25",
     "ip_type": "IPv4",
     "service": "AzureCognitiveSearch",
@@ -679,6 +685,12 @@
   },
   {
     "ip_address": "2603:1020:1602::100/121",
+    "ip_type": "IPv6",
+    "service": "AzureCognitiveSearch",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:1701::100/121",
     "ip_type": "IPv6",
     "service": "AzureCognitiveSearch",
     "region": ""

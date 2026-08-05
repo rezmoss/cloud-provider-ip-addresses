@@ -13,3 +13,4 @@ INSERT INTO `azure_azureattestation.southafricanorth_ips` (`ip_address`, `ip_typ
 INSERT INTO `azure_azureattestation.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('4.222.1.72/30', 'IPv4');
 INSERT INTO `azure_azureattestation.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('102.133.126.132/30', 'IPv4');
 INSERT INTO `azure_azureattestation.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('102.133.221.196/30', 'IPv4');
+INSERT INTO `azure_azureattestation.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1000:104:e::1c0/124', 'IPv6');

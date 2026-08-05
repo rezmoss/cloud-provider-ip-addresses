@@ -293,6 +293,7 @@ INSERT INTO `azure_azurehealthcareapis_ips` (`ip_address`, `ip_type`) VALUES ('1
 INSERT INTO `azure_azurehealthcareapis_ips` (`ip_address`, `ip_type`) VALUES ('134.138.71.32/27', 'IPv4');
 INSERT INTO `azure_azurehealthcareapis_ips` (`ip_address`, `ip_type`) VALUES ('145.191.108.6/31', 'IPv4');
 INSERT INTO `azure_azurehealthcareapis_ips` (`ip_address`, `ip_type`) VALUES ('158.23.101.32/27', 'IPv4');
+INSERT INTO `azure_azurehealthcareapis_ips` (`ip_address`, `ip_type`) VALUES ('172.129.79.32/27', 'IPv4');
 INSERT INTO `azure_azurehealthcareapis_ips` (`ip_address`, `ip_type`) VALUES ('172.166.4.134/31', 'IPv4');
 INSERT INTO `azure_azurehealthcareapis_ips` (`ip_address`, `ip_type`) VALUES ('172.170.23.64/28', 'IPv4');
 INSERT INTO `azure_azurehealthcareapis_ips` (`ip_address`, `ip_type`) VALUES ('172.186.105.151/32', 'IPv4');
@@ -336,6 +337,7 @@ INSERT INTO `azure_azurehealthcareapis_ips` (`ip_address`, `ip_type`) VALUES ('2
 INSERT INTO `azure_azurehealthcareapis_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1403::720/123', 'IPv6');
 INSERT INTO `azure_azurehealthcareapis_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1502::6a0/123', 'IPv6');
 INSERT INTO `azure_azurehealthcareapis_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1602::6a0/123', 'IPv6');
+INSERT INTO `azure_azurehealthcareapis_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1701:1::a0/123', 'IPv6');
 INSERT INTO `azure_azurehealthcareapis_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f:2::4e0/123', 'IPv6');
 INSERT INTO `azure_azurehealthcareapis_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:10:4::320/123', 'IPv6');
 INSERT INTO `azure_azurehealthcareapis_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:104::7c0/123', 'IPv6');

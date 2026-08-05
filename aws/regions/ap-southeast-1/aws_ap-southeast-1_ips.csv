@@ -628,6 +628,14 @@ ip_address,ip_type,service,region
 2600:f0f0:810a::/48,IPv6,EC2,ap-southeast-1
 2600:f0f0:c048::/48,IPv6,AMAZON,ap-southeast-1
 2600:f0f0:c048::/48,IPv6,EC2,ap-southeast-1
+2600:f0f0:c122::/48,IPv6,AMAZON,ap-southeast-1
+2600:f0f0:c122::/48,IPv6,EC2,ap-southeast-1
+2600:f0f0:c13f::/48,IPv6,AMAZON,ap-southeast-1
+2600:f0f0:c13f::/48,IPv6,EC2,ap-southeast-1
+2600:f0f0:c140::/48,IPv6,AMAZON,ap-southeast-1
+2600:f0f0:c140::/48,IPv6,EC2,ap-southeast-1
+2600:f0f0:c143::/48,IPv6,AMAZON,ap-southeast-1
+2600:f0f0:c143::/48,IPv6,EC2,ap-southeast-1
 2600:f0f1:4500::/42,IPv6,AMAZON,ap-southeast-1
 2600:f0f1:4500::/42,IPv6,EC2,ap-southeast-1
 2600:f0f2:701b::/48,IPv6,AMAZON,ap-southeast-1

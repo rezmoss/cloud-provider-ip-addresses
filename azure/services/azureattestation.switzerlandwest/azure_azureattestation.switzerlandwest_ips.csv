@@ -7,3 +7,4 @@ ip_address,ip_type,service,region
 57.160.28.156/30,IPv4,AzureAttestation.SwitzerlandWest,switzerlandw
 57.160.28.200/29,IPv4,AzureAttestation.SwitzerlandWest,switzerlandw
 2603:1020:b04:5::b0/124,IPv6,AzureAttestation.SwitzerlandWest,switzerlandw
+2603:1020:b04:c::20/124,IPv6,AzureAttestation.SwitzerlandWest,switzerlandw

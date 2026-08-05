@@ -46,5 +46,11 @@
     "ip_type": "IPv6",
     "service": "AzureAttestation.EastAsia",
     "region": "eastasia"
+  },
+  {
+    "ip_address": "2603:1040:207:15::3e0/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.EastAsia",
+    "region": "eastasia"
   }
 ]

@@ -1,7 +1,7 @@
 # googleservices IP ranges - ipset restore format (hash:net)
-# Version: 9 | Generated: 2026-08-04 | Last changed: 2026-08-04
-# IPv4: 264 merged subnets, 3087488 unique IPs
-# IPv6: 84 merged subnets
+# Version: 10 | Generated: 2026-08-05 | Last changed: 2026-08-05
+# IPv4: 262 merged subnets, 3088000 unique IPs
+# IPv6: 93 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
 # Load with: sudo ipset restore -! < googleservices.netset
@@ -91,9 +91,7 @@ add googleservices_v4 34.124.96.0/20
 add googleservices_v4 34.126.0.0/18
 add googleservices_v4 34.126.224.0/19
 add googleservices_v4 34.127.128.0/20
-add googleservices_v4 34.127.144.0/24
-add googleservices_v4 34.127.147.0/24
-add googleservices_v4 34.127.148.0/22
+add googleservices_v4 34.127.144.0/21
 add googleservices_v4 34.127.152.0/22
 add googleservices_v4 34.127.176.0/24
 add googleservices_v4 34.127.181.0/24
@@ -344,7 +342,16 @@ add googleservices_v6 2600:1901:8800::/37
 add googleservices_v6 2600:1901:9000::/36
 add googleservices_v6 2600:1901:a000::/35
 add googleservices_v6 2600:1901:c000::/34
-add googleservices_v6 2600:1902::/31
+add googleservices_v6 2600:1902:240::/44
+add googleservices_v6 2600:1902:2f0::/44
+add googleservices_v6 2600:1902:300::/40
+add googleservices_v6 2600:1902:400::/38
+add googleservices_v6 2600:1902:800::/37
+add googleservices_v6 2600:1902:1000::/36
+add googleservices_v6 2600:1902:2000::/35
+add googleservices_v6 2600:1902:4000::/34
+add googleservices_v6 2600:1902:8000::/33
+add googleservices_v6 2600:1903::/32
 add googleservices_v6 2600:1904::/30
 add googleservices_v6 2600:1908::/29
 add googleservices_v6 2605:ef80::/32

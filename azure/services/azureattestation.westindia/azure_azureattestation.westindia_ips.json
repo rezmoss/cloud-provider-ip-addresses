@@ -46,5 +46,11 @@
     "ip_type": "IPv6",
     "service": "AzureAttestation.WestIndia",
     "region": "westindia"
+  },
+  {
+    "ip_address": "2603:1040:806:a::500/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.WestIndia",
+    "region": "westindia"
   }
 ]

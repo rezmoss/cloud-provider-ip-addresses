@@ -2142,7 +2142,7 @@
     "region": "swedencentral"
   },
   {
-    "ip_address": "57.157.71.0/31",
+    "ip_address": "57.157.71.0/28",
     "ip_type": "IPv4",
     "service": "AzureCloud.swedencentral",
     "region": "swedencentral"
@@ -2937,6 +2937,12 @@
     "ip_address": "2603:1020:1004:12::/119",
     "ip_type": "IPv6",
     "service": "AzureMonitor.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "2603:1020:1004:14::110/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.SwedenCentral",
     "region": "swedencentral"
   },
   {

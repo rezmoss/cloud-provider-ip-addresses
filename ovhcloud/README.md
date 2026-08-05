@@ -1,6 +1,6 @@
 # OVHcloud IP Ranges (Auto-Updated Daily)
 
-> Last updated: **2026-08-04** · Total CIDRs: **751** · IPv4: **709** · IPv6: **42** · Services: **1** · Regions: **1**
+> Last updated: **2026-08-05** · Total CIDRs: **752** · IPv4: **710** · IPv6: **42** · Services: **1** · Regions: **1**
 
 Machine-readable, daily-updated, validated public IP ranges for **OVHcloud**.
 Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and Apache.

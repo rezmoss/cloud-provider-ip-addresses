@@ -16,6 +16,7 @@ ip_address,ip_type,service,region
 4.210.151.239/32,IPv4,MicrosoftCloudAppSecurity.WestEurope,westeurope
 4.231.0.0/17,IPv4,AzureCloud.westeurope,westeurope
 4.245.0.0/17,IPv4,AzureCloud.westeurope,westeurope
+9.129.63.0/25,IPv4,AzureCloud.westeurope,westeurope
 9.163.0.0/16,IPv4,AzureCloud.westeurope,westeurope
 13.69.0.0/17,IPv4,AzureCloud.westeurope,westeurope
 13.69.40.16/28,IPv4,Storage.WestEurope,westeurope
@@ -565,6 +566,7 @@ ip_address,ip_type,service,region
 20.190.160.0/24,IPv4,AzureCloud.westeurope,westeurope
 20.201.216.0/24,IPv4,AzureCloud.westeurope,westeurope
 20.201.241.0/24,IPv4,AzureCloud.westeurope,westeurope
+20.201.242.0/24,IPv4,AzureCloud.westeurope,westeurope
 20.202.2.0/24,IPv4,AzureCloud.westeurope,westeurope
 20.202.12.0/22,IPv4,AzureCloud.westeurope,westeurope
 20.202.16.0/22,IPv4,AzureCloud.westeurope,westeurope
@@ -1760,6 +1762,7 @@ ip_address,ip_type,service,region
 2603:1020:206:2b::1a0/123,IPv6,AzureMonitor.WestEurope,westeurope
 2603:1020:206:2b::600/119,IPv6,AzureMonitor.WestEurope,westeurope
 2603:1020:206:2c::400/119,IPv6,AzureMonitor.WestEurope,westeurope
+2603:1020:206:2e::390/124,IPv6,AzureAttestation.WestEurope,westeurope
 2603:1020:206:400::/123,IPv6,Sql.WestEurope,westeurope
 2603:1020:206:401::/123,IPv6,Sql.WestEurope,westeurope
 2603:1020:206:402::80/125,IPv6,AzureKeyVault.WestEurope,westeurope

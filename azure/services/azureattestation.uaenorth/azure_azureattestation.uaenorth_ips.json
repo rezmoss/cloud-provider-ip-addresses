@@ -46,5 +46,11 @@
     "ip_type": "IPv6",
     "service": "AzureAttestation.UAENorth",
     "region": "uaenorth"
+  },
+  {
+    "ip_address": "2603:1040:904:c::630/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.UAENorth",
+    "region": "uaenorth"
   }
 ]

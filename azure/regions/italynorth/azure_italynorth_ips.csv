@@ -130,6 +130,8 @@ ip_address,ip_type,service,region
 9.129.42.128/25,IPv4,AzureCloud.italynorth,italynorth
 9.129.56.32/27,IPv4,AzureCloud.italynorth,italynorth
 9.129.57.192/28,IPv4,AzureCloud.italynorth,italynorth
+9.129.67.32/27,IPv4,AzureCloud.italynorth,italynorth
+9.129.67.96/28,IPv4,AzureCloud.italynorth,italynorth
 9.235.0.0/16,IPv4,AzureCloud.italynorth,italynorth
 9.235.18.0/26,IPv4,PowerPlatformPlex.ItalyNorth,italynorth
 9.235.22.224/27,IPv4,AzureMonitor.ItalyNorth,italynorth
@@ -212,7 +214,9 @@ ip_address,ip_type,service,region
 40.107.164.0/23,IPv4,AzureCloud.italynorth,italynorth
 40.120.132.0/23,IPv4,AzureCloud.italynorth,italynorth
 40.120.134.0/24,IPv4,AzureCloud.italynorth,italynorth
-40.120.135.0/27,IPv4,AzureCloud.italynorth,italynorth
+40.120.135.0/26,IPv4,AzureCloud.italynorth,italynorth
+40.120.135.64/28,IPv4,AzureCloud.italynorth,italynorth
+40.120.135.80/31,IPv4,AzureCloud.italynorth,italynorth
 48.212.19.0/24,IPv4,AzureCloud.italynorth,italynorth
 48.212.147.0/24,IPv4,AzureCloud.italynorth,italynorth
 48.213.19.0/24,IPv4,AzureCloud.italynorth,italynorth
@@ -326,6 +330,7 @@ ip_address,ip_type,service,region
 2603:1020:1204:8::40/124,IPv6,AzureMachineLearning.ItalyNorth,italynorth
 2603:1020:1204:9::470/125,IPv6,AzureMonitor.ItalyNorth,italynorth
 2603:1020:1204:9::600/119,IPv6,AzureMonitor.ItalyNorth,italynorth
+2603:1020:1204:a::380/124,IPv6,AzureAttestation.ItalyNorth,italynorth
 2603:1020:1204:a::400/119,IPv6,AzureMonitor.ItalyNorth,italynorth
 2603:1020:1204:400::40/125,IPv6,MicrosoftContainerRegistry.ItalyNorth,italynorth
 2603:1020:1204:400::48/125,IPv6,AzureContainerRegistry.ItalyNorth,italynorth
@@ -375,7 +380,8 @@ ip_address,ip_type,service,region
 2603:1026:3000:240::/59,IPv6,AzureCloud.italynorth,italynorth
 2603:1061:100b::/56,IPv6,AzureCloud.italynorth,italynorth
 2603:1061:100b:100::/57,IPv6,AzureCloud.italynorth,italynorth
-2603:1061:100b:180::/61,IPv6,AzureCloud.italynorth,italynorth
+2603:1061:100b:180::/59,IPv6,AzureCloud.italynorth,italynorth
+2603:1061:100b:1a0::/64,IPv6,AzureCloud.italynorth,italynorth
 2603:1061:1311:1c00::/54,IPv6,AzureCloud.italynorth,italynorth
 2603:1061:173b::/48,IPv6,AzureCloud.italynorth,italynorth
 2603:1061:2000:760::/62,IPv6,AzureCloud.italynorth,italynorth

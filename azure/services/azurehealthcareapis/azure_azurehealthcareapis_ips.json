@@ -1722,6 +1722,12 @@
     "region": ""
   },
   {
+    "ip_address": "172.129.79.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
     "ip_address": "172.166.4.134/31",
     "ip_type": "IPv4",
     "service": "AzureHealthcareAPIs",
@@ -1975,6 +1981,12 @@
   },
   {
     "ip_address": "2603:1020:1602::6a0/123",
+    "ip_type": "IPv6",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:1701:1::a0/123",
     "ip_type": "IPv6",
     "service": "AzureHealthcareAPIs",
     "region": ""

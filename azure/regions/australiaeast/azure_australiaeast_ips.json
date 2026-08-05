@@ -402,6 +402,12 @@
     "region": "australiaeast"
   },
   {
+    "ip_address": "9.129.66.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.australiaeast",
+    "region": "australiaeast"
+  },
+  {
     "ip_address": "13.70.64.0/18",
     "ip_type": "IPv4",
     "service": "AzureCloud.australiaeast",
@@ -4341,6 +4347,12 @@
     "ip_address": "2603:1010:6:15::/119",
     "ip_type": "IPv6",
     "service": "AzureMonitor.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "2603:1010:6:16::370/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.AustraliaEast",
     "region": "australiaeast"
   },
   {

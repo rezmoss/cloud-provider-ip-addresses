@@ -14,3 +14,4 @@ INSERT INTO `azure_azureattestation.norwayeast_ips` (`ip_address`, `ip_type`) VA
 INSERT INTO `azure_azureattestation.norwayeast_ips` (`ip_address`, `ip_type`) VALUES ('51.120.100.244/30', 'IPv4');
 INSERT INTO `azure_azureattestation.norwayeast_ips` (`ip_address`, `ip_type`) VALUES ('51.120.233.128/30', 'IPv4');
 INSERT INTO `azure_azureattestation.norwayeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:e04::7a0/123', 'IPv6');
+INSERT INTO `azure_azureattestation.norwayeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:e04:f::60/124', 'IPv6');

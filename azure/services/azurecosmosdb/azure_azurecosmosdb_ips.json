@@ -3540,6 +3540,18 @@
     "region": ""
   },
   {
+    "ip_address": "172.129.76.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB",
+    "region": ""
+  },
+  {
+    "ip_address": "172.129.76.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB",
+    "region": ""
+  },
+  {
     "ip_address": "172.167.232.0/25",
     "ip_type": "IPv4",
     "service": "AzureCosmosDB",
@@ -4045,6 +4057,12 @@
   },
   {
     "ip_address": "2603:1020:1602::1e0/123",
+    "ip_type": "IPv6",
+    "service": "AzureCosmosDB",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:1701::1a0/123",
     "ip_type": "IPv6",
     "service": "AzureCosmosDB",
     "region": ""

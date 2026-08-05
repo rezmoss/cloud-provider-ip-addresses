@@ -1896,6 +1896,18 @@
     "region": ""
   },
   {
+    "ip_address": "172.129.81.208/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault",
+    "region": ""
+  },
+  {
+    "ip_address": "172.129.81.216/29",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault",
+    "region": ""
+  },
+  {
     "ip_address": "172.194.73.208/30",
     "ip_type": "IPv4",
     "service": "AzureKeyVault",
@@ -2887,6 +2899,12 @@
   },
   {
     "ip_address": "2603:1020:1602:c00::18/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:1701:1::408/125",
     "ip_type": "IPv6",
     "service": "AzureKeyVault",
     "region": ""

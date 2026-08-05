@@ -20,6 +20,7 @@ INSERT INTO `azure_switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('4.226.76
 INSERT INTO `azure_switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('4.226.77.128/29', 'IPv4');
 INSERT INTO `azure_switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('9.129.53.128/26', 'IPv4');
 INSERT INTO `azure_switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('9.129.55.192/27', 'IPv4');
+INSERT INTO `azure_switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('9.129.66.160/27', 'IPv4');
 INSERT INTO `azure_switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('13.104.144.32/27', 'IPv4');
 INSERT INTO `azure_switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('13.104.211.192/26', 'IPv4');
 INSERT INTO `azure_switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('13.105.100.176/28', 'IPv4');
@@ -197,7 +198,7 @@ INSERT INTO `azure_switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('51.103.2
 INSERT INTO `azure_switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('51.103.205.176/28', 'IPv4');
 INSERT INTO `azure_switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('51.103.208.0/20', 'IPv4');
 INSERT INTO `azure_switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('51.103.224.0/19', 'IPv4');
-INSERT INTO `azure_switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('51.107.0.0/18', 'IPv4');
+INSERT INTO `azure_switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('51.107.0.0/19', 'IPv4');
 INSERT INTO `azure_switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('51.107.0.91/32', 'IPv4');
 INSERT INTO `azure_switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('51.107.4.128/27', 'IPv4');
 INSERT INTO `azure_switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('51.107.7.186/32', 'IPv4');
@@ -208,8 +209,10 @@ INSERT INTO `azure_switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('51.107.9
 INSERT INTO `azure_switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('51.107.10.143/32', 'IPv4');
 INSERT INTO `azure_switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('51.107.11.68/30', 'IPv4');
 INSERT INTO `azure_switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('51.107.11.80/30', 'IPv4');
+INSERT INTO `azure_switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('51.107.40.0/21', 'IPv4');
 INSERT INTO `azure_switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('51.107.41.120/32', 'IPv4');
 INSERT INTO `azure_switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('51.107.45.66/32', 'IPv4');
+INSERT INTO `azure_switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('51.107.48.0/20', 'IPv4');
 INSERT INTO `azure_switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('51.107.48.64/30', 'IPv4');
 INSERT INTO `azure_switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('51.107.48.68/31', 'IPv4');
 INSERT INTO `azure_switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('51.107.48.70/31', 'IPv4');
@@ -469,6 +472,7 @@ INSERT INTO `azure_switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('2603:102
 INSERT INTO `azure_switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:a04:d::560/123', 'IPv6');
 INSERT INTO `azure_switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:a04:e::/119', 'IPv6');
 INSERT INTO `azure_switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:a04:e::400/119', 'IPv6');
+INSERT INTO `azure_switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:a04:f::180/124', 'IPv6');
 INSERT INTO `azure_switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:a04:400::/123', 'IPv6');
 INSERT INTO `azure_switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:a04:401::/123', 'IPv6');
 INSERT INTO `azure_switzerlandn_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:a04:402::80/125', 'IPv6');

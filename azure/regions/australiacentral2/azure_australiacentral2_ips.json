@@ -1434,6 +1434,12 @@
     "region": "australiacentral2"
   },
   {
+    "ip_address": "2603:1010:404:a::200/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.AustraliaCentral2",
+    "region": "australiacentral2"
+  },
+  {
     "ip_address": "2603:1010:404:400::/123",
     "ip_type": "IPv6",
     "service": "Sql.AustraliaCentral2",

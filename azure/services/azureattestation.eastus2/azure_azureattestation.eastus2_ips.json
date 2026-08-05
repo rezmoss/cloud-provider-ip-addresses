@@ -46,5 +46,11 @@
     "ip_type": "IPv6",
     "service": "AzureAttestation.EastUS2",
     "region": "eastus2"
+  },
+  {
+    "ip_address": "2603:1030:40c:34::580/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.EastUS2",
+    "region": "eastus2"
   }
 ]

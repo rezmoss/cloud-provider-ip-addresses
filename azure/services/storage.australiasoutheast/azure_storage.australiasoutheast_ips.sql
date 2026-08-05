@@ -24,6 +24,7 @@ INSERT INTO `azure_storage.australiasoutheast_ips` (`ip_address`, `ip_type`) VAL
 INSERT INTO `azure_storage.australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('20.209.204.0/23', 'IPv4');
 INSERT INTO `azure_storage.australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('52.239.132.0/23', 'IPv4');
 INSERT INTO `azure_storage.australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('52.239.225.0/24', 'IPv4');
+INSERT INTO `azure_storage.australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('57.163.56.0/23', 'IPv4');
 INSERT INTO `azure_storage.australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('135.130.3.0/24', 'IPv4');
 INSERT INTO `azure_storage.australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('135.130.40.0/24', 'IPv4');
 INSERT INTO `azure_storage.australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('145.190.182.0/24', 'IPv4');

@@ -40,5 +40,11 @@
     "ip_type": "IPv6",
     "service": "AzureAttestation.ChileCentral",
     "region": "chilec"
+  },
+  {
+    "ip_address": "2603:1050:301:7::430/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.ChileCentral",
+    "region": "chilec"
   }
 ]

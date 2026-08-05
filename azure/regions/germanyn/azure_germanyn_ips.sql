@@ -15,6 +15,8 @@ INSERT INTO `azure_germanyn_ips` (`ip_address`, `ip_type`) VALUES ('4.184.3.0/26
 INSERT INTO `azure_germanyn_ips` (`ip_address`, `ip_type`) VALUES ('4.184.3.128/25', 'IPv4');
 INSERT INTO `azure_germanyn_ips` (`ip_address`, `ip_type`) VALUES ('4.184.4.0/26', 'IPv4');
 INSERT INTO `azure_germanyn_ips` (`ip_address`, `ip_type`) VALUES ('9.129.42.0/25', 'IPv4');
+INSERT INTO `azure_germanyn_ips` (`ip_address`, `ip_type`) VALUES ('9.129.58.192/26', 'IPv4');
+INSERT INTO `azure_germanyn_ips` (`ip_address`, `ip_type`) VALUES ('9.129.66.192/27', 'IPv4');
 INSERT INTO `azure_germanyn_ips` (`ip_address`, `ip_type`) VALUES ('13.104.144.96/27', 'IPv4');
 INSERT INTO `azure_germanyn_ips` (`ip_address`, `ip_type`) VALUES ('13.104.212.64/26', 'IPv4');
 INSERT INTO `azure_germanyn_ips` (`ip_address`, `ip_type`) VALUES ('20.38.115.0/24', 'IPv4');
@@ -344,6 +346,7 @@ INSERT INTO `azure_germanyn_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:d0
 INSERT INTO `azure_germanyn_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:d04:a::760/123', 'IPv6');
 INSERT INTO `azure_germanyn_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:d04:b::200/119', 'IPv6');
 INSERT INTO `azure_germanyn_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:d04:b::600/119', 'IPv6');
+INSERT INTO `azure_germanyn_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:d04:c::400/124', 'IPv6');
 INSERT INTO `azure_germanyn_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:d04:400::/123', 'IPv6');
 INSERT INTO `azure_germanyn_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:d04:402::80/125', 'IPv6');
 INSERT INTO `azure_germanyn_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:d04:402::88/125', 'IPv6');

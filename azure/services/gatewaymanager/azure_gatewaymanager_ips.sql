@@ -291,6 +291,7 @@ INSERT INTO `azure_gatewaymanager_ips` (`ip_address`, `ip_type`) VALUES ('145.19
 INSERT INTO `azure_gatewaymanager_ips` (`ip_address`, `ip_type`) VALUES ('158.23.96.64/26', 'IPv4');
 INSERT INTO `azure_gatewaymanager_ips` (`ip_address`, `ip_type`) VALUES ('158.158.133.112/28', 'IPv4');
 INSERT INTO `azure_gatewaymanager_ips` (`ip_address`, `ip_type`) VALUES ('167.105.251.240/28', 'IPv4');
+INSERT INTO `azure_gatewaymanager_ips` (`ip_address`, `ip_type`) VALUES ('172.129.72.64/26', 'IPv4');
 INSERT INTO `azure_gatewaymanager_ips` (`ip_address`, `ip_type`) VALUES ('172.166.7.192/26', 'IPv4');
 INSERT INTO `azure_gatewaymanager_ips` (`ip_address`, `ip_type`) VALUES ('172.170.121.128/27', 'IPv4');
 INSERT INTO `azure_gatewaymanager_ips` (`ip_address`, `ip_type`) VALUES ('172.186.108.128/27', 'IPv4');
@@ -336,6 +337,7 @@ INSERT INTO `azure_gatewaymanager_ips` (`ip_address`, `ip_type`) VALUES ('2603:1
 INSERT INTO `azure_gatewaymanager_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1403::40/122', 'IPv6');
 INSERT INTO `azure_gatewaymanager_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1502::40/122', 'IPv6');
 INSERT INTO `azure_gatewaymanager_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1602::40/122', 'IPv6');
+INSERT INTO `azure_gatewaymanager_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1701::40/122', 'IPv6');
 INSERT INTO `azure_gatewaymanager_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f:1::40/122', 'IPv6');
 INSERT INTO `azure_gatewaymanager_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:10:1::40/122', 'IPv6');
 INSERT INTO `azure_gatewaymanager_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:104:1::40/122', 'IPv6');

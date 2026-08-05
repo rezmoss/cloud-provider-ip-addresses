@@ -1,6 +1,6 @@
 #!/bin/bash
 # Azure IP Ranges
-# Updated: 2026-07-04 03:13:27
+# Updated: 2026-08-05 03:11:58
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -15,6 +15,7 @@ ufw allow from 4.255.0.0/17
 ufw allow from 9.129.32.0/23
 ufw allow from 9.129.41.0/24
 ufw allow from 9.129.56.96/27
+ufw allow from 9.129.119.128/27
 ufw allow from 9.169.0.0/17
 ufw allow from 13.68.128.0/17
 ufw allow from 13.72.64.0/18
@@ -287,35 +288,7 @@ ufw allow from 40.114.0.0/17
 ufw allow from 40.117.32.0/19
 ufw allow from 40.117.64.0/18
 ufw allow from 40.117.128.0/17
-ufw allow from 40.120.148.0/26
-ufw allow from 40.120.148.64/27
-ufw allow from 40.120.148.96/28
-ufw allow from 40.120.148.114/31
-ufw allow from 40.120.148.116/30
-ufw allow from 40.120.148.120/29
-ufw allow from 40.120.148.128/27
-ufw allow from 40.120.148.160/29
-ufw allow from 40.120.148.168/30
-ufw allow from 40.120.148.172/31
-ufw allow from 40.120.148.176/28
-ufw allow from 40.120.148.192/26
-ufw allow from 40.120.149.0/24
-ufw allow from 40.120.150.0/24
-ufw allow from 40.120.151.0/26
-ufw allow from 40.120.151.64/30
-ufw allow from 40.120.151.68/31
-ufw allow from 40.120.151.72/29
-ufw allow from 40.120.151.80/28
-ufw allow from 40.120.151.96/28
-ufw allow from 40.120.151.114/31
-ufw allow from 40.120.151.116/30
-ufw allow from 40.120.151.120/29
-ufw allow from 40.120.151.128/26
-ufw allow from 40.120.151.192/27
-ufw allow from 40.120.151.224/28
-ufw allow from 40.120.151.240/31
-ufw allow from 40.120.151.244/30
-ufw allow from 40.120.151.248/29
+ufw allow from 40.120.148.0/22
 ufw allow from 40.121.0.0/16
 ufw allow from 40.123.132.0/22
 ufw allow from 40.123.176.0/22
@@ -419,7 +392,6 @@ ufw allow from 52.115.28.0/24
 ufw allow from 52.115.30.0/24
 ufw allow from 52.115.50.0/24
 ufw allow from 52.115.52.0/24
-ufw allow from 52.115.54.0/24
 ufw allow from 52.115.56.0/24
 ufw allow from 52.115.59.0/24
 ufw allow from 52.115.61.0/24

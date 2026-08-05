@@ -1482,6 +1482,12 @@
     "region": "global"
   },
   {
+    "ip_address": "164.157.253.0/24",
+    "ip_type": "IPv4",
+    "service": "zscaler-as22616",
+    "region": "global"
+  },
+  {
     "ip_address": "165.225.0.0/17",
     "ip_type": "IPv4",
     "service": "zscaler-as22616",

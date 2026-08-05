@@ -336,6 +336,12 @@
     "region": "koreacentral"
   },
   {
+    "ip_address": "9.129.120.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreacentral",
+    "region": "koreacentral"
+  },
+  {
     "ip_address": "13.104.129.192/26",
     "ip_type": "IPv4",
     "service": "AzureCloud.koreacentral",
@@ -3189,6 +3195,12 @@
     "ip_address": "2603:1040:f05:10::/119",
     "ip_type": "IPv6",
     "service": "AzureMonitor.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "2603:1040:f05:10::460/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.KoreaCentral",
     "region": "koreacentral"
   },
   {

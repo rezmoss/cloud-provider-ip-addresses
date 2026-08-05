@@ -12,3 +12,4 @@ INSERT INTO `azure_azureattestation.indonesiacentral_ips` (`ip_address`, `ip_typ
 INSERT INTO `azure_azureattestation.indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('48.193.109.192/30', 'IPv4');
 INSERT INTO `azure_azureattestation.indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('70.153.152.20/30', 'IPv4');
 INSERT INTO `azure_azureattestation.indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1802::2e0/124', 'IPv6');
+INSERT INTO `azure_azureattestation.indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1802:9::10/124', 'IPv6');

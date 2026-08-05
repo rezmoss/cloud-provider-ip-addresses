@@ -13,3 +13,4 @@ INSERT INTO `googlecloud_africa-south1_ips` (`ip_address`, `ip_type`) VALUES ('3
 INSERT INTO `googlecloud_africa-south1_ips` (`ip_address`, `ip_type`) VALUES ('34.183.123.0/24', 'IPv4');
 INSERT INTO `googlecloud_africa-south1_ips` (`ip_address`, `ip_type`) VALUES ('34.184.122.0/24', 'IPv4');
 INSERT INTO `googlecloud_africa-south1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1900:8000::/44', 'IPv6');
+INSERT INTO `googlecloud_africa-south1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1902:10::/44', 'IPv6');

@@ -708,6 +708,12 @@
     "region": ""
   },
   {
+    "ip_address": "172.129.72.16/30",
+    "ip_type": "IPv4",
+    "service": "AzureBotService",
+    "region": ""
+  },
+  {
     "ip_address": "172.194.64.16/30",
     "ip_type": "IPv4",
     "service": "AzureBotService",
@@ -913,6 +919,12 @@
   },
   {
     "ip_address": "2603:1020:1602::20/123",
+    "ip_type": "IPv6",
+    "service": "AzureBotService",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:1701::20/123",
     "ip_type": "IPv6",
     "service": "AzureBotService",
     "region": ""

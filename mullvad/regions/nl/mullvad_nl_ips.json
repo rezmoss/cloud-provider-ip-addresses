@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "62.101.160.3/32",
+    "ip_type": "IPv4",
+    "service": "mullvad-wireguard",
+    "region": "nl"
+  },
+  {
     "ip_address": "92.60.40.194/32",
     "ip_type": "IPv4",
     "service": "mullvad-wireguard",
@@ -13,6 +19,12 @@
   },
   {
     "ip_address": "92.60.40.224/32",
+    "ip_type": "IPv4",
+    "service": "mullvad-wireguard",
+    "region": "nl"
+  },
+  {
+    "ip_address": "109.104.134.3/32",
     "ip_type": "IPv4",
     "service": "mullvad-wireguard",
     "region": "nl"
@@ -169,6 +181,18 @@
   },
   {
     "ip_address": "2a03:1b20:3:f011::f801/128",
+    "ip_type": "IPv6",
+    "service": "mullvad-wireguard",
+    "region": "nl"
+  },
+  {
+    "ip_address": "2a06:3040:31:601::f001/128",
+    "ip_type": "IPv6",
+    "service": "mullvad-wireguard",
+    "region": "nl"
+  },
+  {
+    "ip_address": "2a06:3040:31:601::f101/128",
     "ip_type": "IPv6",
     "service": "mullvad-wireguard",
     "region": "nl"

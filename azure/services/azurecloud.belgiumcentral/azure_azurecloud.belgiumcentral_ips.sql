@@ -8,6 +8,7 @@ CREATE TABLE IF NOT EXISTS `azure_azurecloud.belgiumcentral_ips` (
 
 INSERT INTO `azure_azurecloud.belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('9.129.51.0/26', 'IPv4');
 INSERT INTO `azure_azurecloud.belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('9.129.54.192/27', 'IPv4');
+INSERT INTO `azure_azurecloud.belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('9.129.64.0/25', 'IPv4');
 INSERT INTO `azure_azurecloud.belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('9.160.0.0/17', 'IPv4');
 INSERT INTO `azure_azurecloud.belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('9.160.128.0/18', 'IPv4');
 INSERT INTO `azure_azurecloud.belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('9.160.192.0/19', 'IPv4');

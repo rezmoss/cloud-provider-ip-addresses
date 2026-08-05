@@ -444,6 +444,12 @@
     "region": ""
   },
   {
+    "ip_address": "172.129.76.24/29",
+    "ip_type": "IPv4",
+    "service": "WindowsAdminCenter",
+    "region": ""
+  },
+  {
     "ip_address": "172.194.64.40/29",
     "ip_type": "IPv4",
     "service": "WindowsAdminCenter",
@@ -583,6 +589,12 @@
   },
   {
     "ip_address": "2603:1020:1602::3e8/125",
+    "ip_type": "IPv6",
+    "service": "WindowsAdminCenter",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:1701::5e8/125",
     "ip_type": "IPv6",
     "service": "WindowsAdminCenter",
     "region": ""

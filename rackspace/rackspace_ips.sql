@@ -90,6 +90,7 @@ INSERT INTO `rackspace_ips` (`ip_address`, `ip_type`) VALUES ('77.246.32.0/20', 
 INSERT INTO `rackspace_ips` (`ip_address`, `ip_type`) VALUES ('78.40.152.0/21', 'IPv4');
 INSERT INTO `rackspace_ips` (`ip_address`, `ip_type`) VALUES ('78.136.0.0/18', 'IPv4');
 INSERT INTO `rackspace_ips` (`ip_address`, `ip_type`) VALUES ('80.83.144.0/20', 'IPv4');
+INSERT INTO `rackspace_ips` (`ip_address`, `ip_type`) VALUES ('81.168.7.0/24', 'IPv4');
 INSERT INTO `rackspace_ips` (`ip_address`, `ip_type`) VALUES ('82.211.64.0/18', 'IPv4');
 INSERT INTO `rackspace_ips` (`ip_address`, `ip_type`) VALUES ('82.211.66.0/23', 'IPv4');
 INSERT INTO `rackspace_ips` (`ip_address`, `ip_type`) VALUES ('83.138.128.0/18', 'IPv4');

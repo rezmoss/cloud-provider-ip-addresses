@@ -14,3 +14,4 @@ INSERT INTO `googlecloud_europe-west9_ips` (`ip_address`, `ip_type`) VALUES ('34
 INSERT INTO `googlecloud_europe-west9_ips` (`ip_address`, `ip_type`) VALUES ('34.183.73.0/24', 'IPv4');
 INSERT INTO `googlecloud_europe-west9_ips` (`ip_address`, `ip_type`) VALUES ('34.184.72.0/24', 'IPv4');
 INSERT INTO `googlecloud_europe-west9_ips` (`ip_address`, `ip_type`) VALUES ('2600:1901:8120::/44', 'IPv6');
+INSERT INTO `googlecloud_europe-west9_ips` (`ip_address`, `ip_type`) VALUES ('2600:1902:190::/44', 'IPv6');

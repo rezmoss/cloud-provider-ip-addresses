@@ -521,6 +521,7 @@ INSERT INTO `azure_guestandhybridmanagement_ips` (`ip_address`, `ip_type`) VALUE
 INSERT INTO `azure_guestandhybridmanagement_ips` (`ip_address`, `ip_type`) VALUES ('168.61.140.48/28', 'IPv4');
 INSERT INTO `azure_guestandhybridmanagement_ips` (`ip_address`, `ip_type`) VALUES ('168.61.240.252/30', 'IPv4');
 INSERT INTO `azure_guestandhybridmanagement_ips` (`ip_address`, `ip_type`) VALUES ('168.61.245.82/31', 'IPv4');
+INSERT INTO `azure_guestandhybridmanagement_ips` (`ip_address`, `ip_type`) VALUES ('172.129.78.96/27', 'IPv4');
 INSERT INTO `azure_guestandhybridmanagement_ips` (`ip_address`, `ip_type`) VALUES ('172.160.223.202/31', 'IPv4');
 INSERT INTO `azure_guestandhybridmanagement_ips` (`ip_address`, `ip_type`) VALUES ('172.179.35.136/31', 'IPv4');
 INSERT INTO `azure_guestandhybridmanagement_ips` (`ip_address`, `ip_type`) VALUES ('172.179.35.192/27', 'IPv4');
@@ -692,6 +693,7 @@ INSERT INTO `azure_guestandhybridmanagement_ips` (`ip_address`, `ip_type`) VALUE
 INSERT INTO `azure_guestandhybridmanagement_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1403::700/123', 'IPv6');
 INSERT INTO `azure_guestandhybridmanagement_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1502::560/123', 'IPv6');
 INSERT INTO `azure_guestandhybridmanagement_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1602::560/123', 'IPv6');
+INSERT INTO `azure_guestandhybridmanagement_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1701::760/123', 'IPv6');
 INSERT INTO `azure_guestandhybridmanagement_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f:3::2a0/123', 'IPv6');
 INSERT INTO `azure_guestandhybridmanagement_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f:a::210/124', 'IPv6');
 INSERT INTO `azure_guestandhybridmanagement_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f:a::240/122', 'IPv6');

@@ -348,6 +348,7 @@ INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:
 INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:b04:9::3e0/126', 'IPv6');
 INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:b04:9::500/123', 'IPv6');
 INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:b04:a::/118', 'IPv6');
+INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:b04:a::490/124', 'IPv6');
 INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:b04:400::/123', 'IPv6');
 INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:b04:402::80/125', 'IPv6');
 INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:b04:402::88/125', 'IPv6');

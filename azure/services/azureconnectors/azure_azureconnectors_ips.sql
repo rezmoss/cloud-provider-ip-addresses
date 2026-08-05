@@ -499,6 +499,7 @@ INSERT INTO `azure_azureconnectors_ips` (`ip_address`, `ip_type`) VALUES ('137.1
 INSERT INTO `azure_azureconnectors_ips` (`ip_address`, `ip_type`) VALUES ('158.23.108.64/26', 'IPv4');
 INSERT INTO `azure_azureconnectors_ips` (`ip_address`, `ip_type`) VALUES ('168.61.140.0/27', 'IPv4');
 INSERT INTO `azure_azureconnectors_ips` (`ip_address`, `ip_type`) VALUES ('168.61.143.64/26', 'IPv4');
+INSERT INTO `azure_azureconnectors_ips` (`ip_address`, `ip_type`) VALUES ('172.129.84.128/26', 'IPv4');
 INSERT INTO `azure_azureconnectors_ips` (`ip_address`, `ip_type`) VALUES ('172.194.76.192/26', 'IPv4');
 INSERT INTO `azure_azureconnectors_ips` (`ip_address`, `ip_type`) VALUES ('172.198.92.192/26', 'IPv4');
 INSERT INTO `azure_azureconnectors_ips` (`ip_address`, `ip_type`) VALUES ('172.204.164.128/26', 'IPv4');
@@ -549,6 +550,7 @@ INSERT INTO `azure_azureconnectors_ips` (`ip_address`, `ip_type`) VALUES ('2603:
 INSERT INTO `azure_azureconnectors_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1403:2::80/122', 'IPv6');
 INSERT INTO `azure_azureconnectors_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1502:1::5c0/122', 'IPv6');
 INSERT INTO `azure_azureconnectors_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1602:1::5c0/122', 'IPv6');
+INSERT INTO `azure_azureconnectors_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1701:1::7c0/122', 'IPv6');
 INSERT INTO `azure_azureconnectors_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f:400::980/122', 'IPv6');
 INSERT INTO `azure_azureconnectors_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:10:402::180/122', 'IPv6');
 INSERT INTO `azure_azureconnectors_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:104:402::180/122', 'IPv6');

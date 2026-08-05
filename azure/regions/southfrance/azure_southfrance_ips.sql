@@ -356,6 +356,7 @@ INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020
 INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:905:a::680/121', 'IPv6');
 INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:905:a::700/123', 'IPv6');
 INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:905:b::200/119', 'IPv6');
+INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:905:b::5d0/124', 'IPv6');
 INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:905:b::600/119', 'IPv6');
 INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:905:400::/123', 'IPv6');
 INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:905:402::80/125', 'IPv6');

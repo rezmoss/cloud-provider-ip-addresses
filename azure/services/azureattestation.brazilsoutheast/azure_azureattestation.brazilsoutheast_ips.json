@@ -40,5 +40,11 @@
     "ip_type": "IPv4",
     "service": "AzureAttestation.BrazilSoutheast",
     "region": "brazilse"
+  },
+  {
+    "ip_address": "2603:1050:403:9::4c0/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.BrazilSoutheast",
+    "region": "brazilse"
   }
 ]

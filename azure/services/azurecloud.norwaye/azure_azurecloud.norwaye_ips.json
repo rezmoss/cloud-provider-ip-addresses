@@ -318,7 +318,25 @@
     "region": "norwaye"
   },
   {
-    "ip_address": "51.120.0.0/17",
+    "ip_address": "51.120.0.0/19",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwaye",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "51.120.40.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwaye",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "51.120.48.0/20",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwaye",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "51.120.64.0/18",
     "ip_type": "IPv4",
     "service": "AzureCloud.norwaye",
     "region": "norwaye"

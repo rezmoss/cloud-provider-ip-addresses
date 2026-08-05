@@ -341,6 +341,7 @@ ip_address,ip_type,service,region
 2603:1040:b04:9::3e0/126,IPv6,AzureIoTHub.UAECentral,uaecentral
 2603:1040:b04:9::500/123,IPv6,AzureMonitor.UAECentral,uaecentral
 2603:1040:b04:a::/118,IPv6,AzureMonitor.UAECentral,uaecentral
+2603:1040:b04:a::490/124,IPv6,AzureAttestation.UAECentral,uaecentral
 2603:1040:b04:400::/123,IPv6,Sql.UAECentral,uaecentral
 2603:1040:b04:402::80/125,IPv6,AzureKeyVault.UAECentral,uaecentral
 2603:1040:b04:402::88/125,IPv6,MicrosoftContainerRegistry.UAECentral,uaecentral

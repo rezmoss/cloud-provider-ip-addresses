@@ -124,6 +124,7 @@ INSERT INTO `azure_azurebotservice_ips` (`ip_address`, `ip_type`) VALUES ('102.1
 INSERT INTO `azure_azurebotservice_ips` (`ip_address`, `ip_type`) VALUES ('102.133.216.64/30', 'IPv4');
 INSERT INTO `azure_azurebotservice_ips` (`ip_address`, `ip_type`) VALUES ('134.138.64.16/30', 'IPv4');
 INSERT INTO `azure_azurebotservice_ips` (`ip_address`, `ip_type`) VALUES ('158.23.96.16/30', 'IPv4');
+INSERT INTO `azure_azurebotservice_ips` (`ip_address`, `ip_type`) VALUES ('172.129.72.16/30', 'IPv4');
 INSERT INTO `azure_azurebotservice_ips` (`ip_address`, `ip_type`) VALUES ('172.194.64.16/30', 'IPv4');
 INSERT INTO `azure_azurebotservice_ips` (`ip_address`, `ip_type`) VALUES ('172.198.80.16/30', 'IPv4');
 INSERT INTO `azure_azurebotservice_ips` (`ip_address`, `ip_type`) VALUES ('172.204.152.16/30', 'IPv4');
@@ -159,6 +160,7 @@ INSERT INTO `azure_azurebotservice_ips` (`ip_address`, `ip_type`) VALUES ('2603:
 INSERT INTO `azure_azurebotservice_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1403::20/123', 'IPv6');
 INSERT INTO `azure_azurebotservice_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1502::20/123', 'IPv6');
 INSERT INTO `azure_azurebotservice_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1602::20/123', 'IPv6');
+INSERT INTO `azure_azurebotservice_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1701::20/123', 'IPv6');
 INSERT INTO `azure_azurebotservice_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f:1::20/123', 'IPv6');
 INSERT INTO `azure_azurebotservice_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:10:1::20/123', 'IPv6');
 INSERT INTO `azure_azurebotservice_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:104:1::20/123', 'IPv6');

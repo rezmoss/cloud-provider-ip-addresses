@@ -46,5 +46,11 @@
     "ip_type": "IPv6",
     "service": "AzureAttestation.BelgiumCentral",
     "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "2603:1020:1502:7::80/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.BelgiumCentral",
+    "region": "belgiumcentral"
   }
 ]

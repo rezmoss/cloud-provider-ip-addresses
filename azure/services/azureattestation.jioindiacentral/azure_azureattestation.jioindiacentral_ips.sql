@@ -14,4 +14,5 @@ INSERT INTO `azure_azureattestation.jioindiacentral_ips` (`ip_address`, `ip_type
 INSERT INTO `azure_azureattestation.jioindiacentral_ips` (`ip_address`, `ip_type`) VALUES ('20.207.25.184/29', 'IPv4');
 INSERT INTO `azure_azureattestation.jioindiacentral_ips` (`ip_address`, `ip_type`) VALUES ('74.225.110.136/29', 'IPv4');
 INSERT INTO `azure_azureattestation.jioindiacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1104:1::420/123', 'IPv6');
+INSERT INTO `azure_azureattestation.jioindiacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1104:9::20/124', 'IPv6');
 INSERT INTO `azure_azureattestation.jioindiacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1104:400::420/123', 'IPv6');

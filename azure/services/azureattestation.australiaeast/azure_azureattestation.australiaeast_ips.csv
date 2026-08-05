@@ -6,3 +6,4 @@ ip_address,ip_type,service,region
 20.53.47.64/30,IPv4,AzureAttestation.AustraliaEast,australiaeast
 51.56.214.240/29,IPv4,AzureAttestation.AustraliaEast,australiaeast
 51.56.214.248/30,IPv4,AzureAttestation.AustraliaEast,australiaeast
+2603:1010:6:16::370/124,IPv6,AzureAttestation.AustraliaEast,australiaeast

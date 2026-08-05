@@ -13,3 +13,4 @@ INSERT INTO `azure_azureattestation.canadacentral_ips` (`ip_address`, `ip_type`)
 INSERT INTO `azure_azureattestation.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.173.153.240/30', 'IPv4');
 INSERT INTO `azure_azureattestation.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('13.71.175.208/30', 'IPv4');
 INSERT INTO `azure_azureattestation.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('20.48.193.180/30', 'IPv4');
+INSERT INTO `azure_azureattestation.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f05:14::120/124', 'IPv6');

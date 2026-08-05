@@ -46,5 +46,11 @@
     "ip_type": "IPv6",
     "service": "AzureAttestation.CentralIndia",
     "region": "centralindia"
+  },
+  {
+    "ip_address": "2603:1040:a06:11::440/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.CentralIndia",
+    "region": "centralindia"
   }
 ]

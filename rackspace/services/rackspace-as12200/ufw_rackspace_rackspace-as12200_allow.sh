@@ -1,6 +1,6 @@
 #!/bin/bash
 # Rackspace IP Ranges
-# Updated: 2026-07-12 03:18:02
+# Updated: 2026-08-05 03:16:26
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -8,6 +8,7 @@
 # UFW allow rules for rackspace
 
 ufw allow from 66.70.24.0/24
+ufw allow from 81.168.7.0/24
 ufw allow from 146.20.220.0/22
 ufw allow from 146.177.20.0/23
 ufw allow from 146.177.56.0/24

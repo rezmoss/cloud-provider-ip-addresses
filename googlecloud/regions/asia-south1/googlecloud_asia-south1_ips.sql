@@ -39,3 +39,4 @@ INSERT INTO `googlecloud_asia-south1_ips` (`ip_address`, `ip_type`) VALUES ('35.
 INSERT INTO `googlecloud_asia-south1_ips` (`ip_address`, `ip_type`) VALUES ('136.83.128.0/17', 'IPv4');
 INSERT INTO `googlecloud_asia-south1_ips` (`ip_address`, `ip_type`) VALUES ('136.95.0.0/16', 'IPv4');
 INSERT INTO `googlecloud_asia-south1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1900:40a0::/44', 'IPv6');
+INSERT INTO `googlecloud_asia-south1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1902:70::/44', 'IPv6');

@@ -322,6 +322,8 @@ INSERT INTO `azure_azurekeyvault_ips` (`ip_address`, `ip_type`) VALUES ('158.23.
 INSERT INTO `azure_azurekeyvault_ips` (`ip_address`, `ip_type`) VALUES ('158.23.122.76/30', 'IPv4');
 INSERT INTO `azure_azurekeyvault_ips` (`ip_address`, `ip_type`) VALUES ('158.23.194.76/30', 'IPv4');
 INSERT INTO `azure_azurekeyvault_ips` (`ip_address`, `ip_type`) VALUES ('167.105.104.12/30', 'IPv4');
+INSERT INTO `azure_azurekeyvault_ips` (`ip_address`, `ip_type`) VALUES ('172.129.81.208/30', 'IPv4');
+INSERT INTO `azure_azurekeyvault_ips` (`ip_address`, `ip_type`) VALUES ('172.129.81.216/29', 'IPv4');
 INSERT INTO `azure_azurekeyvault_ips` (`ip_address`, `ip_type`) VALUES ('172.194.73.208/30', 'IPv4');
 INSERT INTO `azure_azurekeyvault_ips` (`ip_address`, `ip_type`) VALUES ('172.194.73.216/29', 'IPv4');
 INSERT INTO `azure_azurekeyvault_ips` (`ip_address`, `ip_type`) VALUES ('172.194.112.96/30', 'IPv4');
@@ -488,6 +490,7 @@ INSERT INTO `azure_azurekeyvault_ips` (`ip_address`, `ip_type`) VALUES ('2603:10
 INSERT INTO `azure_azurekeyvault_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1602:400::18/125', 'IPv6');
 INSERT INTO `azure_azurekeyvault_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1602:800::18/125', 'IPv6');
 INSERT INTO `azure_azurekeyvault_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1602:c00::18/125', 'IPv6');
+INSERT INTO `azure_azurekeyvault_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1701:1::408/125', 'IPv6');
 INSERT INTO `azure_azurekeyvault_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f:1::100/124', 'IPv6');
 INSERT INTO `azure_azurekeyvault_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f:1::110/125', 'IPv6');
 INSERT INTO `azure_azurekeyvault_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f:1::2a0/125', 'IPv6');

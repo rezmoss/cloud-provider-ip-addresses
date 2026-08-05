@@ -1,3 +1,4 @@
 ip_address,ip_type,service,region
 68.210.247.0/24,IPv4,PowerPlatformInfra.AustriaEast,austriaeast
 68.210.248.0/25,IPv4,PowerPlatformInfra.AustriaEast,austriaeast
+2603:1061:2002:c800::/57,IPv6,PowerPlatformInfra.AustriaEast,austriaeast

@@ -4086,6 +4086,12 @@
     "region": "canadacentral"
   },
   {
+    "ip_address": "2603:1030:f05:14::120/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
     "ip_address": "2603:1030:f05:400::/123",
     "ip_type": "IPv6",
     "service": "Sql.CanadaCentral",

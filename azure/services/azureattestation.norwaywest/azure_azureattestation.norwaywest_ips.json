@@ -46,5 +46,11 @@
     "ip_type": "IPv6",
     "service": "AzureAttestation.NorwayWest",
     "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04:b::380/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.NorwayWest",
+    "region": "norwayw"
   }
 ]

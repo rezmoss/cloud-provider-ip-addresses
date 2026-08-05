@@ -99,6 +99,7 @@ INSERT INTO `azure_azureadvancedthreatprotection_ips` (`ip_address`, `ip_type`) 
 INSERT INTO `azure_azureadvancedthreatprotection_ips` (`ip_address`, `ip_type`) VALUES ('134.138.64.24/29', 'IPv4');
 INSERT INTO `azure_azureadvancedthreatprotection_ips` (`ip_address`, `ip_type`) VALUES ('135.18.128.96/32', 'IPv4');
 INSERT INTO `azure_azureadvancedthreatprotection_ips` (`ip_address`, `ip_type`) VALUES ('158.23.96.24/29', 'IPv4');
+INSERT INTO `azure_azureadvancedthreatprotection_ips` (`ip_address`, `ip_type`) VALUES ('172.129.72.24/29', 'IPv4');
 INSERT INTO `azure_azureadvancedthreatprotection_ips` (`ip_address`, `ip_type`) VALUES ('172.186.108.172/30', 'IPv4');
 INSERT INTO `azure_azureadvancedthreatprotection_ips` (`ip_address`, `ip_type`) VALUES ('172.186.108.176/32', 'IPv4');
 INSERT INTO `azure_azureadvancedthreatprotection_ips` (`ip_address`, `ip_type`) VALUES ('172.194.64.24/29', 'IPv4');
@@ -135,6 +136,7 @@ INSERT INTO `azure_azureadvancedthreatprotection_ips` (`ip_address`, `ip_type`) 
 INSERT INTO `azure_azureadvancedthreatprotection_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1403::180/123', 'IPv6');
 INSERT INTO `azure_azureadvancedthreatprotection_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1502::180/123', 'IPv6');
 INSERT INTO `azure_azureadvancedthreatprotection_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1602::180/123', 'IPv6');
+INSERT INTO `azure_azureadvancedthreatprotection_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1701::180/123', 'IPv6');
 INSERT INTO `azure_azureadvancedthreatprotection_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f:1::140/123', 'IPv6');
 INSERT INTO `azure_azureadvancedthreatprotection_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:10:1::140/123', 'IPv6');
 INSERT INTO `azure_azureadvancedthreatprotection_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:104:1::140/123', 'IPv6');

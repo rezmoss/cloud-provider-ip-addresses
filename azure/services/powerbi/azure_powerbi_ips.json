@@ -5500,5 +5500,11 @@
     "ip_type": "IPv6",
     "service": "PowerBI",
     "region": ""
+  },
+  {
+    "ip_address": "2603:1061:17::/48",
+    "ip_type": "IPv6",
+    "service": "PowerBI",
+    "region": ""
   }
 ]

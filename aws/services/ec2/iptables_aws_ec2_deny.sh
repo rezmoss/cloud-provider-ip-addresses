@@ -1,6 +1,6 @@
 #!/bin/bash
 # Aws IP Ranges
-# Updated: 2026-08-04 03:11:02
+# Updated: 2026-08-05 03:11:02
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -683,7 +683,7 @@ iptables -A INPUT -s 162.250.236.0/22 -j DROP
 iptables -A INPUT -s 168.185.4.0/22 -j DROP
 iptables -A INPUT -s 173.83.192.0/19 -j DROP
 iptables -A INPUT -s 173.83.224.0/21 -j DROP
-iptables -A INPUT -s 173.83.232.0/23 -j DROP
+iptables -A INPUT -s 173.83.232.0/22 -j DROP
 iptables -A INPUT -s 174.129.0.0/16 -j DROP
 iptables -A INPUT -s 175.41.128.0/17 -j DROP
 iptables -A INPUT -s 176.32.64.0/19 -j DROP
@@ -1789,8 +1789,29 @@ ip6tables -A INPUT -s 2600:f0f0:c004::/47 -j DROP
 ip6tables -A INPUT -s 2600:f0f0:c040::/45 -j DROP
 ip6tables -A INPUT -s 2600:f0f0:c048::/47 -j DROP
 ip6tables -A INPUT -s 2600:f0f0:c102::/48 -j DROP
-ip6tables -A INPUT -s 2600:f0f0:c121::/48 -j DROP
-ip6tables -A INPUT -s 2600:f0f0:c145::/48 -j DROP
+ip6tables -A INPUT -s 2600:f0f0:c106::/47 -j DROP
+ip6tables -A INPUT -s 2600:f0f0:c109::/48 -j DROP
+ip6tables -A INPUT -s 2600:f0f0:c10a::/47 -j DROP
+ip6tables -A INPUT -s 2600:f0f0:c10c::/46 -j DROP
+ip6tables -A INPUT -s 2600:f0f0:c111::/48 -j DROP
+ip6tables -A INPUT -s 2600:f0f0:c112::/47 -j DROP
+ip6tables -A INPUT -s 2600:f0f0:c114::/46 -j DROP
+ip6tables -A INPUT -s 2600:f0f0:c118::/46 -j DROP
+ip6tables -A INPUT -s 2600:f0f0:c11c::/48 -j DROP
+ip6tables -A INPUT -s 2600:f0f0:c11f::/48 -j DROP
+ip6tables -A INPUT -s 2600:f0f0:c120::/45 -j DROP
+ip6tables -A INPUT -s 2600:f0f0:c128::/46 -j DROP
+ip6tables -A INPUT -s 2600:f0f0:c12d::/48 -j DROP
+ip6tables -A INPUT -s 2600:f0f0:c12e::/47 -j DROP
+ip6tables -A INPUT -s 2600:f0f0:c130::/46 -j DROP
+ip6tables -A INPUT -s 2600:f0f0:c135::/48 -j DROP
+ip6tables -A INPUT -s 2600:f0f0:c136::/47 -j DROP
+ip6tables -A INPUT -s 2600:f0f0:c138::/45 -j DROP
+ip6tables -A INPUT -s 2600:f0f0:c140::/48 -j DROP
+ip6tables -A INPUT -s 2600:f0f0:c143::/48 -j DROP
+ip6tables -A INPUT -s 2600:f0f0:c144::/46 -j DROP
+ip6tables -A INPUT -s 2600:f0f0:c148::/46 -j DROP
+ip6tables -A INPUT -s 2600:f0f0:c14c::/47 -j DROP
 ip6tables -A INPUT -s 2600:f0f1:10::/45 -j DROP
 ip6tables -A INPUT -s 2600:f0f1:18::/46 -j DROP
 ip6tables -A INPUT -s 2600:f0f1:80::/44 -j DROP
@@ -1825,6 +1846,8 @@ ip6tables -A INPUT -s 2600:f0fb:8000::/40 -j DROP
 ip6tables -A INPUT -s 2600:f0fb:c001::/56 -j DROP
 ip6tables -A INPUT -s 2600:f0fb:c002::/56 -j DROP
 ip6tables -A INPUT -s 2600:f0fb:c800::/56 -j DROP
+ip6tables -A INPUT -s 2600:f0fb:c900::/52 -j DROP
+ip6tables -A INPUT -s 2600:f0fb:ca00::/52 -j DROP
 ip6tables -A INPUT -s 2600:f0fb:e000::/36 -j DROP
 ip6tables -A INPUT -s 2600:f0fb:f000::/44 -j DROP
 ip6tables -A INPUT -s 2600:f0fb:f020::/45 -j DROP

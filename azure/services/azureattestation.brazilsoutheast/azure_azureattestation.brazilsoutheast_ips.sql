@@ -13,3 +13,4 @@ INSERT INTO `azure_azureattestation.brazilsoutheast_ips` (`ip_address`, `ip_type
 INSERT INTO `azure_azureattestation.brazilsoutheast_ips` (`ip_address`, `ip_type`) VALUES ('4.238.32.8/29', 'IPv4');
 INSERT INTO `azure_azureattestation.brazilsoutheast_ips` (`ip_address`, `ip_type`) VALUES ('20.195.146.64/30', 'IPv4');
 INSERT INTO `azure_azureattestation.brazilsoutheast_ips` (`ip_address`, `ip_type`) VALUES ('191.233.51.220/30', 'IPv4');
+INSERT INTO `azure_azureattestation.brazilsoutheast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:403:9::4c0/124', 'IPv6');

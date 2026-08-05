@@ -40,5 +40,11 @@
     "ip_type": "IPv6",
     "service": "AzureAttestation.IsraelCentral",
     "region": "israelcentral"
+  },
+  {
+    "ip_address": "2603:1040:1402:a::750/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.IsraelCentral",
+    "region": "israelcentral"
   }
 ]

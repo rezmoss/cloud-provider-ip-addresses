@@ -3090,6 +3090,12 @@
     "region": ""
   },
   {
+    "ip_address": "172.129.78.96/27",
+    "ip_type": "IPv4",
+    "service": "GuestAndHybridManagement",
+    "region": ""
+  },
+  {
     "ip_address": "172.160.223.202/31",
     "ip_type": "IPv4",
     "service": "GuestAndHybridManagement",
@@ -4111,6 +4117,12 @@
   },
   {
     "ip_address": "2603:1020:1602::560/123",
+    "ip_type": "IPv6",
+    "service": "GuestAndHybridManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:1701::760/123",
     "ip_type": "IPv6",
     "service": "GuestAndHybridManagement",
     "region": ""

@@ -40,5 +40,11 @@
     "ip_type": "IPv4",
     "service": "AzureAttestation.SouthAfricaWest",
     "region": "southafricawest"
+  },
+  {
+    "ip_address": "2603:1000:4:9::1b0/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.SouthAfricaWest",
+    "region": "southafricawest"
   }
 ]

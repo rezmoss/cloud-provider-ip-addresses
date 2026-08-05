@@ -1176,6 +1176,18 @@
     "region": "ap-southeast-3"
   },
   {
+    "ip_address": "2600:f0f0:c10c::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-southeast-3"
+  },
+  {
+    "ip_address": "2600:f0f0:c10c::/48",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-southeast-3"
+  },
+  {
     "ip_address": "2600:f0f1:89::/48",
     "ip_type": "IPv6",
     "service": "AMAZON",

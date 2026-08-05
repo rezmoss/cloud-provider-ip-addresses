@@ -1614,6 +1614,18 @@
     "region": ""
   },
   {
+    "ip_address": "172.129.78.0/29",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins",
+    "region": ""
+  },
+  {
+    "ip_address": "172.129.78.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins",
+    "region": ""
+  },
+  {
     "ip_address": "172.173.44.192/27",
     "ip_type": "IPv4",
     "service": "AzureDigitalTwins",
@@ -1879,6 +1891,12 @@
   },
   {
     "ip_address": "2603:1020:1602::580/121",
+    "ip_type": "IPv6",
+    "service": "AzureDigitalTwins",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:1701::780/121",
     "ip_type": "IPv6",
     "service": "AzureDigitalTwins",
     "region": ""

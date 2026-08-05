@@ -2220,6 +2220,12 @@
     "region": "koreasouth"
   },
   {
+    "ip_address": "2603:1040:e05:c::3a0/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
     "ip_address": "2603:1040:e05:c::400/119",
     "ip_type": "IPv6",
     "service": "AzureMonitor.KoreaSouth",

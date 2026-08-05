@@ -834,6 +834,12 @@
     "region": ""
   },
   {
+    "ip_address": "48.197.139.180/30",
+    "ip_type": "IPv4",
+    "service": "M365ManagementActivityApi",
+    "region": ""
+  },
+  {
     "ip_address": "48.201.165.36/30",
     "ip_type": "IPv4",
     "service": "M365ManagementActivityApi",
@@ -2491,6 +2497,12 @@
   },
   {
     "ip_address": "2603:1040:1802:7::dc/126",
+    "ip_type": "IPv6",
+    "service": "M365ManagementActivityApi",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1040:1a02:5::6c0/126",
     "ip_type": "IPv6",
     "service": "M365ManagementActivityApi",
     "region": ""

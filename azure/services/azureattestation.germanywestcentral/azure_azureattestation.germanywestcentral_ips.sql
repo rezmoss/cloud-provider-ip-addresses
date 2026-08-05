@@ -13,3 +13,4 @@ INSERT INTO `azure_azureattestation.germanywestcentral_ips` (`ip_address`, `ip_t
 INSERT INTO `azure_azureattestation.germanywestcentral_ips` (`ip_address`, `ip_type`) VALUES ('48.203.191.136/29', 'IPv4');
 INSERT INTO `azure_azureattestation.germanywestcentral_ips` (`ip_address`, `ip_type`) VALUES ('51.116.149.224/30', 'IPv4');
 INSERT INTO `azure_azureattestation.germanywestcentral_ips` (`ip_address`, `ip_type`) VALUES ('51.116.246.16/30', 'IPv4');
+INSERT INTO `azure_azureattestation.germanywestcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:c04:11::80/124', 'IPv6');

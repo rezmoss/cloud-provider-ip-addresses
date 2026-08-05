@@ -1002,6 +1002,12 @@
     "region": ""
   },
   {
+    "ip_address": "172.129.89.96/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry",
+    "region": ""
+  },
+  {
     "ip_address": "172.194.86.160/29",
     "ip_type": "IPv4",
     "service": "MicrosoftContainerRegistry",
@@ -1483,6 +1489,12 @@
   },
   {
     "ip_address": "2603:1020:1602:c00::/125",
+    "ip_type": "IPv6",
+    "service": "MicrosoftContainerRegistry",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:1701:2::628/125",
     "ip_type": "IPv6",
     "service": "MicrosoftContainerRegistry",
     "region": ""

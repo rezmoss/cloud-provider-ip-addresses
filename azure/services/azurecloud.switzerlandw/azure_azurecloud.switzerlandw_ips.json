@@ -18,6 +18,12 @@
     "region": "switzerlandw"
   },
   {
+    "ip_address": "9.129.65.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.switzerlandw",
+    "region": "switzerlandw"
+  },
+  {
     "ip_address": "13.104.144.0/27",
     "ip_type": "IPv4",
     "service": "AzureCloud.switzerlandw",

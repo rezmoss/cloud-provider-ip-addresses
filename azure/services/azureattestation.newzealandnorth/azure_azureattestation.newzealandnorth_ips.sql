@@ -13,3 +13,4 @@ INSERT INTO `azure_azureattestation.newzealandnorth_ips` (`ip_address`, `ip_type
 INSERT INTO `azure_azureattestation.newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('172.204.152.20/30', 'IPv4');
 INSERT INTO `azure_azureattestation.newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('172.204.255.208/29', 'IPv4');
 INSERT INTO `azure_azureattestation.newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:502::5c0/124', 'IPv6');
+INSERT INTO `azure_azureattestation.newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:502:8::b0/124', 'IPv6');

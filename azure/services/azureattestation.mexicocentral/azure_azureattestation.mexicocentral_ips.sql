@@ -13,3 +13,4 @@ INSERT INTO `azure_azureattestation.mexicocentral_ips` (`ip_address`, `ip_type`)
 INSERT INTO `azure_azureattestation.mexicocentral_ips` (`ip_address`, `ip_type`) VALUES ('172.195.152.164/30', 'IPv4');
 INSERT INTO `azure_azureattestation.mexicocentral_ips` (`ip_address`, `ip_type`) VALUES ('172.195.152.168/29', 'IPv4');
 INSERT INTO `azure_azureattestation.mexicocentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:702::5e0/124', 'IPv6');
+INSERT INTO `azure_azureattestation.mexicocentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:702:9::3b0/124', 'IPv6');

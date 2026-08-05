@@ -6,3 +6,4 @@ ip_address,ip_type,service,region
 74.241.69.100/30,IPv4,AzureAttestation.SwedenSouth,swedensouth
 74.241.69.104/29,IPv4,AzureAttestation.SwedenSouth,swedensouth
 2603:1020:1104:1::3e0/123,IPv6,AzureAttestation.SwedenSouth,swedensouth
+2603:1020:1104:9::5d0/124,IPv6,AzureAttestation.SwedenSouth,swedensouth

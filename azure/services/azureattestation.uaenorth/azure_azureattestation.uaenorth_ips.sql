@@ -14,3 +14,4 @@ INSERT INTO `azure_azureattestation.uaenorth_ips` (`ip_address`, `ip_type`) VALU
 INSERT INTO `azure_azureattestation.uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('20.174.245.112/29', 'IPv4');
 INSERT INTO `azure_azureattestation.uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('40.120.75.60/30', 'IPv4');
 INSERT INTO `azure_azureattestation.uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:904:2::6b0/124', 'IPv6');
+INSERT INTO `azure_azureattestation.uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:904:c::630/124', 'IPv6');

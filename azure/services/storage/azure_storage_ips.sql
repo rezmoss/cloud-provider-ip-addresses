@@ -530,6 +530,7 @@ INSERT INTO `azure_storage_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:130
 INSERT INTO `azure_storage_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1404::/48', 'IPv6');
 INSERT INTO `azure_storage_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1503::/48', 'IPv6');
 INSERT INTO `azure_storage_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1603::/48', 'IPv6');
+INSERT INTO `azure_storage_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1702::/48', 'IPv6');
 INSERT INTO `azure_storage_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:11::/48', 'IPv6');
 INSERT INTO `azure_storage_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:12::/48', 'IPv6');
 INSERT INTO `azure_storage_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:108::/47', 'IPv6');

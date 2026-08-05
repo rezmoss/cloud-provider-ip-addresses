@@ -34,5 +34,11 @@
     "ip_type": "IPv4",
     "service": "AzureAttestation.SouthCentralUSSTG",
     "region": "usstagec"
+  },
+  {
+    "ip_address": "2603:1030:302:1::6d0/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.SouthCentralUSSTG",
+    "region": "usstagec"
   }
 ]

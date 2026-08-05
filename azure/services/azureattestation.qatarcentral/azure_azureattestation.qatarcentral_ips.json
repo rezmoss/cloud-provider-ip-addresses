@@ -34,5 +34,11 @@
     "ip_type": "IPv6",
     "service": "AzureAttestation.QatarCentral",
     "region": "qatarcentral"
+  },
+  {
+    "ip_address": "2603:1040:1002:c::20/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.QatarCentral",
+    "region": "qatarcentral"
   }
 ]

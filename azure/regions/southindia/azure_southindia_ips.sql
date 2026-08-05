@@ -13,6 +13,8 @@ INSERT INTO `azure_southindia_ips` (`ip_address`, `ip_type`) VALUES ('4.247.39.1
 INSERT INTO `azure_southindia_ips` (`ip_address`, `ip_type`) VALUES ('4.247.40.32/31', 'IPv4');
 INSERT INTO `azure_southindia_ips` (`ip_address`, `ip_type`) VALUES ('4.247.40.40/29', 'IPv4');
 INSERT INTO `azure_southindia_ips` (`ip_address`, `ip_type`) VALUES ('4.247.40.64/30', 'IPv4');
+INSERT INTO `azure_southindia_ips` (`ip_address`, `ip_type`) VALUES ('9.129.65.0/26', 'IPv4');
+INSERT INTO `azure_southindia_ips` (`ip_address`, `ip_type`) VALUES ('9.129.66.224/27', 'IPv4');
 INSERT INTO `azure_southindia_ips` (`ip_address`, `ip_type`) VALUES ('13.71.64.0/18', 'IPv4');
 INSERT INTO `azure_southindia_ips` (`ip_address`, `ip_type`) VALUES ('13.71.84.34/32', 'IPv4');
 INSERT INTO `azure_southindia_ips` (`ip_address`, `ip_type`) VALUES ('13.71.113.127/32', 'IPv4');
@@ -124,9 +126,7 @@ INSERT INTO `azure_southindia_ips` (`ip_address`, `ip_type`) VALUES ('20.192.184
 INSERT INTO `azure_southindia_ips` (`ip_address`, `ip_type`) VALUES ('20.192.184.216/29', 'IPv4');
 INSERT INTO `azure_southindia_ips` (`ip_address`, `ip_type`) VALUES ('20.192.185.64/26', 'IPv4');
 INSERT INTO `azure_southindia_ips` (`ip_address`, `ip_type`) VALUES ('20.202.170.0/24', 'IPv4');
-INSERT INTO `azure_southindia_ips` (`ip_address`, `ip_type`) VALUES ('20.202.245.0/24', 'IPv4');
 INSERT INTO `azure_southindia_ips` (`ip_address`, `ip_type`) VALUES ('20.202.246.0/23', 'IPv4');
-INSERT INTO `azure_southindia_ips` (`ip_address`, `ip_type`) VALUES ('20.202.253.0/24', 'IPv4');
 INSERT INTO `azure_southindia_ips` (`ip_address`, `ip_type`) VALUES ('20.207.208.0/20', 'IPv4');
 INSERT INTO `azure_southindia_ips` (`ip_address`, `ip_type`) VALUES ('20.207.217.32/27', 'IPv4');
 INSERT INTO `azure_southindia_ips` (`ip_address`, `ip_type`) VALUES ('20.207.217.64/26', 'IPv4');
@@ -224,7 +224,6 @@ INSERT INTO `azure_southindia_ips` (`ip_address`, `ip_type`) VALUES ('52.108.230
 INSERT INTO `azure_southindia_ips` (`ip_address`, `ip_type`) VALUES ('52.109.60.0/22', 'IPv4');
 INSERT INTO `azure_southindia_ips` (`ip_address`, `ip_type`) VALUES ('52.111.241.0/24', 'IPv4');
 INSERT INTO `azure_southindia_ips` (`ip_address`, `ip_type`) VALUES ('52.112.162.0/24', 'IPv4');
-INSERT INTO `azure_southindia_ips` (`ip_address`, `ip_type`) VALUES ('52.113.15.0/24', 'IPv4');
 INSERT INTO `azure_southindia_ips` (`ip_address`, `ip_type`) VALUES ('52.114.24.0/22', 'IPv4');
 INSERT INTO `azure_southindia_ips` (`ip_address`, `ip_type`) VALUES ('52.115.244.0/23', 'IPv4');
 INSERT INTO `azure_southindia_ips` (`ip_address`, `ip_type`) VALUES ('52.115.246.0/24', 'IPv4');
@@ -445,6 +444,7 @@ INSERT INTO `azure_southindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:
 INSERT INTO `azure_southindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:c06:d::260/123', 'IPv6');
 INSERT INTO `azure_southindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:c06:d::400/119', 'IPv6');
 INSERT INTO `azure_southindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:c06:e::/119', 'IPv6');
+INSERT INTO `azure_southindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:c06:e::2f0/124', 'IPv6');
 INSERT INTO `azure_southindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:c06:400::/123', 'IPv6');
 INSERT INTO `azure_southindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:c06:401::/123', 'IPv6');
 INSERT INTO `azure_southindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:c06:402::80/125', 'IPv6');

@@ -357,6 +357,7 @@ INSERT INTO `azure_batchnodemanagement_ips` (`ip_address`, `ip_type`) VALUES ('1
 INSERT INTO `azure_batchnodemanagement_ips` (`ip_address`, `ip_type`) VALUES ('168.63.36.126/32', 'IPv4');
 INSERT INTO `azure_batchnodemanagement_ips` (`ip_address`, `ip_type`) VALUES ('168.63.133.23/32', 'IPv4');
 INSERT INTO `azure_batchnodemanagement_ips` (`ip_address`, `ip_type`) VALUES ('168.63.208.148/32', 'IPv4');
+INSERT INTO `azure_batchnodemanagement_ips` (`ip_address`, `ip_type`) VALUES ('172.129.73.96/27', 'IPv4');
 INSERT INTO `azure_batchnodemanagement_ips` (`ip_address`, `ip_type`) VALUES ('172.194.68.0/27', 'IPv4');
 INSERT INTO `azure_batchnodemanagement_ips` (`ip_address`, `ip_type`) VALUES ('172.198.84.0/27', 'IPv4');
 INSERT INTO `azure_batchnodemanagement_ips` (`ip_address`, `ip_type`) VALUES ('172.204.153.64/27', 'IPv4');
@@ -410,6 +411,7 @@ INSERT INTO `azure_batchnodemanagement_ips` (`ip_address`, `ip_type`) VALUES ('2
 INSERT INTO `azure_batchnodemanagement_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1403::300/122', 'IPv6');
 INSERT INTO `azure_batchnodemanagement_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1502::300/122', 'IPv6');
 INSERT INTO `azure_batchnodemanagement_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1602::300/122', 'IPv6');
+INSERT INTO `azure_batchnodemanagement_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1701::500/122', 'IPv6');
 INSERT INTO `azure_batchnodemanagement_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f:1::400/122', 'IPv6');
 INSERT INTO `azure_batchnodemanagement_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:10:1::340/122', 'IPv6');
 INSERT INTO `azure_batchnodemanagement_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:104:1::340/122', 'IPv6');

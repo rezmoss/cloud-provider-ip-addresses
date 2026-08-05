@@ -22,6 +22,7 @@ INSERT INTO `azure_azuremonitor.polandcentral_ips` (`ip_address`, `ip_type`) VAL
 INSERT INTO `azure_azuremonitor.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.215.158.128/29', 'IPv4');
 INSERT INTO `azure_azuremonitor.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.215.158.144/28', 'IPv4');
 INSERT INTO `azure_azuremonitor.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.215.168.224/27', 'IPv4');
+INSERT INTO `azure_azuremonitor.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('74.153.3.64/26', 'IPv4');
 INSERT INTO `azure_azuremonitor.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('134.112.76.112/28', 'IPv4');
 INSERT INTO `azure_azuremonitor.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('134.112.77.0/27', 'IPv4');
 INSERT INTO `azure_azuremonitor.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('134.112.226.128/27', 'IPv4');

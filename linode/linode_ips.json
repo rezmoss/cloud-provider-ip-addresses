@@ -18700,16 +18700,6 @@
     "region": "MY-14"
   },
   {
-    "ip_address": "172.235.108.0/24",
-    "ip_type": "IPv4",
-    "region": "CO-DC"
-  },
-  {
-    "ip_address": "172.235.109.0/24",
-    "ip_type": "IPv4",
-    "region": "CO-DC"
-  },
-  {
     "ip_address": "172.235.110.0/24",
     "ip_type": "IPv4",
     "region": "MX-QUE"
@@ -26985,11 +26975,6 @@
     "region": "MY-14"
   },
   {
-    "ip_address": "2600:3c0f:40::/48",
-    "ip_type": "IPv6",
-    "region": "CO-DC"
-  },
-  {
     "ip_address": "2600:3c0f:41::/48",
     "ip_type": "IPv6",
     "region": "MX-QUE"
@@ -27098,11 +27083,6 @@
     "ip_address": "2600:3c12:0500::/40",
     "ip_type": "IPv6",
     "region": "MY-14"
-  },
-  {
-    "ip_address": "2600:3c12:0700::/40",
-    "ip_type": "IPv6",
-    "region": "CO-DC"
   },
   {
     "ip_address": "2600:3c12:0800::/40",

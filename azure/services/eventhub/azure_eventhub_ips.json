@@ -2130,6 +2130,12 @@
     "region": ""
   },
   {
+    "ip_address": "172.129.80.0/24",
+    "ip_type": "IPv4",
+    "service": "EventHub",
+    "region": ""
+  },
+  {
     "ip_address": "172.170.168.0/25",
     "ip_type": "IPv4",
     "service": "EventHub",
@@ -2887,6 +2893,12 @@
   },
   {
     "ip_address": "2603:1020:1602:1::/120",
+    "ip_type": "IPv6",
+    "service": "EventHub",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:1701:1::200/120",
     "ip_type": "IPv6",
     "service": "EventHub",
     "region": ""

@@ -1053,6 +1053,7 @@ INSERT INTO `azure_appservice_ips` (`ip_address`, `ip_type`) VALUES ('168.62.225
 INSERT INTO `azure_appservice_ips` (`ip_address`, `ip_type`) VALUES ('168.63.5.231/32', 'IPv4');
 INSERT INTO `azure_appservice_ips` (`ip_address`, `ip_type`) VALUES ('168.63.53.239/32', 'IPv4');
 INSERT INTO `azure_appservice_ips` (`ip_address`, `ip_type`) VALUES ('168.63.107.5/32', 'IPv4');
+INSERT INTO `azure_appservice_ips` (`ip_address`, `ip_type`) VALUES ('172.129.85.0/24', 'IPv4');
 INSERT INTO `azure_appservice_ips` (`ip_address`, `ip_type`) VALUES ('172.194.77.0/24', 'IPv4');
 INSERT INTO `azure_appservice_ips` (`ip_address`, `ip_type`) VALUES ('172.198.93.0/24', 'IPv4');
 INSERT INTO `azure_appservice_ips` (`ip_address`, `ip_type`) VALUES ('172.204.161.0/24', 'IPv4');
@@ -1175,6 +1176,7 @@ INSERT INTO `azure_appservice_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:
 INSERT INTO `azure_appservice_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1403:1::700/120', 'IPv6');
 INSERT INTO `azure_appservice_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1502:1::600/120', 'IPv6');
 INSERT INTO `azure_appservice_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1602:1::600/120', 'IPv6');
+INSERT INTO `azure_appservice_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1701:2::/120', 'IPv6');
 INSERT INTO `azure_appservice_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f:4::/119', 'IPv6');
 INSERT INTO `azure_appservice_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f:400::8a0/123', 'IPv6');
 INSERT INTO `azure_appservice_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:10:5::/117', 'IPv6');

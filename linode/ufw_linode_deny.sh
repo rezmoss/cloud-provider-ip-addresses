@@ -1,6 +1,6 @@
 #!/bin/bash
 # Linode IP Ranges
-# Updated: 2026-07-25 03:11:40
+# Updated: 2026-08-05 03:12:36
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -181,7 +181,7 @@ ufw deny from 172.235.0.0/18
 ufw deny from 172.235.96.0/22
 ufw deny from 172.235.102.0/23
 ufw deny from 172.235.104.0/23
-ufw deny from 172.235.108.0/22
+ufw deny from 172.235.110.0/23
 ufw deny from 172.235.112.0/20
 ufw deny from 172.235.128.0/18
 ufw deny from 172.235.192.0/20
@@ -268,14 +268,15 @@ ufw deny from 2600:3c0f:32::/48
 ufw deny from 2600:3c0f:34::/47
 ufw deny from 2600:3c0f:37::/48
 ufw deny from 2600:3c0f:38::/48
-ufw deny from 2600:3c0f:40::/45
+ufw deny from 2600:3c0f:41::/48
+ufw deny from 2600:3c0f:42::/47
+ufw deny from 2600:3c0f:44::/46
 ufw deny from 2600:3c0f:48::/47
 ufw deny from 2600:3c0f:50::/45
 ufw deny from 2600:3c0f:58::/48
 ufw deny from 2600:3c12:100::/40
 ufw deny from 2600:3c12:300::/40
 ufw deny from 2600:3c12:400::/39
-ufw deny from 2600:3c12:700::/40
 ufw deny from 2600:3c12:800::/37
 ufw deny from 2600:3c13::/32
 ufw deny from 2600:3c14::/30
