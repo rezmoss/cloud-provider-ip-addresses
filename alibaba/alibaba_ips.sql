@@ -524,6 +524,7 @@ INSERT INTO `alibaba_ips` (`ip_address`, `ip_type`) VALUES ('43.91.128.0/17', 'I
 INSERT INTO `alibaba_ips` (`ip_address`, `ip_type`) VALUES ('43.92.0.0/17', 'IPv4');
 INSERT INTO `alibaba_ips` (`ip_address`, `ip_type`) VALUES ('43.92.0.0/18', 'IPv4');
 INSERT INTO `alibaba_ips` (`ip_address`, `ip_type`) VALUES ('43.92.64.0/18', 'IPv4');
+INSERT INTO `alibaba_ips` (`ip_address`, `ip_type`) VALUES ('43.96.0.0/24', 'IPv4');
 INSERT INTO `alibaba_ips` (`ip_address`, `ip_type`) VALUES ('43.96.3.0/24', 'IPv4');
 INSERT INTO `alibaba_ips` (`ip_address`, `ip_type`) VALUES ('43.96.4.0/24', 'IPv4');
 INSERT INTO `alibaba_ips` (`ip_address`, `ip_type`) VALUES ('43.96.5.0/24', 'IPv4');
@@ -533,11 +534,13 @@ INSERT INTO `alibaba_ips` (`ip_address`, `ip_type`) VALUES ('43.96.8.0/24', 'IPv
 INSERT INTO `alibaba_ips` (`ip_address`, `ip_type`) VALUES ('43.96.9.0/24', 'IPv4');
 INSERT INTO `alibaba_ips` (`ip_address`, `ip_type`) VALUES ('43.96.10.0/24', 'IPv4');
 INSERT INTO `alibaba_ips` (`ip_address`, `ip_type`) VALUES ('43.96.11.0/24', 'IPv4');
+INSERT INTO `alibaba_ips` (`ip_address`, `ip_type`) VALUES ('43.96.18.0/24', 'IPv4');
 INSERT INTO `alibaba_ips` (`ip_address`, `ip_type`) VALUES ('43.96.20.0/24', 'IPv4');
 INSERT INTO `alibaba_ips` (`ip_address`, `ip_type`) VALUES ('43.96.21.0/24', 'IPv4');
 INSERT INTO `alibaba_ips` (`ip_address`, `ip_type`) VALUES ('43.96.23.0/24', 'IPv4');
 INSERT INTO `alibaba_ips` (`ip_address`, `ip_type`) VALUES ('43.96.24.0/24', 'IPv4');
 INSERT INTO `alibaba_ips` (`ip_address`, `ip_type`) VALUES ('43.96.25.0/24', 'IPv4');
+INSERT INTO `alibaba_ips` (`ip_address`, `ip_type`) VALUES ('43.96.26.0/24', 'IPv4');
 INSERT INTO `alibaba_ips` (`ip_address`, `ip_type`) VALUES ('43.96.32.0/24', 'IPv4');
 INSERT INTO `alibaba_ips` (`ip_address`, `ip_type`) VALUES ('43.96.33.0/24', 'IPv4');
 INSERT INTO `alibaba_ips` (`ip_address`, `ip_type`) VALUES ('43.96.34.0/24', 'IPv4');
@@ -1813,6 +1816,7 @@ INSERT INTO `alibaba_ips` (`ip_address`, `ip_type`) VALUES ('139.95.134.0/23', '
 INSERT INTO `alibaba_ips` (`ip_address`, `ip_type`) VALUES ('139.95.144.0/20', 'IPv4');
 INSERT INTO `alibaba_ips` (`ip_address`, `ip_type`) VALUES ('139.95.144.0/21', 'IPv4');
 INSERT INTO `alibaba_ips` (`ip_address`, `ip_type`) VALUES ('139.95.152.0/21', 'IPv4');
+INSERT INTO `alibaba_ips` (`ip_address`, `ip_type`) VALUES ('139.95.160.0/19', 'IPv4');
 INSERT INTO `alibaba_ips` (`ip_address`, `ip_type`) VALUES ('139.95.192.0/18', 'IPv4');
 INSERT INTO `alibaba_ips` (`ip_address`, `ip_type`) VALUES ('139.95.192.0/19', 'IPv4');
 INSERT INTO `alibaba_ips` (`ip_address`, `ip_type`) VALUES ('139.95.224.0/19', 'IPv4');
@@ -1949,6 +1953,7 @@ INSERT INTO `alibaba_ips` (`ip_address`, `ip_type`) VALUES ('170.33.96.0/24', 'I
 INSERT INTO `alibaba_ips` (`ip_address`, `ip_type`) VALUES ('170.33.97.0/24', 'IPv4');
 INSERT INTO `alibaba_ips` (`ip_address`, `ip_type`) VALUES ('170.33.98.0/24', 'IPv4');
 INSERT INTO `alibaba_ips` (`ip_address`, `ip_type`) VALUES ('170.33.99.0/24', 'IPv4');
+INSERT INTO `alibaba_ips` (`ip_address`, `ip_type`) VALUES ('170.33.101.0/24', 'IPv4');
 INSERT INTO `alibaba_ips` (`ip_address`, `ip_type`) VALUES ('170.33.103.0/24', 'IPv4');
 INSERT INTO `alibaba_ips` (`ip_address`, `ip_type`) VALUES ('170.33.104.0/24', 'IPv4');
 INSERT INTO `alibaba_ips` (`ip_address`, `ip_type`) VALUES ('170.33.105.0/24', 'IPv4');
@@ -2378,7 +2383,6 @@ INSERT INTO `alibaba_ips` (`ip_address`, `ip_type`) VALUES ('240b:4019::/32', 'I
 INSERT INTO `alibaba_ips` (`ip_address`, `ip_type`) VALUES ('240b:401a::/32', 'IPv6');
 INSERT INTO `alibaba_ips` (`ip_address`, `ip_type`) VALUES ('240b:401a::/33', 'IPv6');
 INSERT INTO `alibaba_ips` (`ip_address`, `ip_type`) VALUES ('240b:401a:8000::/33', 'IPv6');
-INSERT INTO `alibaba_ips` (`ip_address`, `ip_type`) VALUES ('240b:401a:fffe::/48', 'IPv6');
 INSERT INTO `alibaba_ips` (`ip_address`, `ip_type`) VALUES ('240b:401a:ffff::/48', 'IPv6');
 INSERT INTO `alibaba_ips` (`ip_address`, `ip_type`) VALUES ('240b:401b::/32', 'IPv6');
 INSERT INTO `alibaba_ips` (`ip_address`, `ip_type`) VALUES ('240b:401b::/33', 'IPv6');

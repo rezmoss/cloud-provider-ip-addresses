@@ -125,6 +125,7 @@ INSERT INTO `zscaler_zscaler-as22616_ips` (`ip_address`, `ip_type`) VALUES ('137
 INSERT INTO `zscaler_zscaler-as22616_ips` (`ip_address`, `ip_type`) VALUES ('137.31.124.0/23', 'IPv4');
 INSERT INTO `zscaler_zscaler-as22616_ips` (`ip_address`, `ip_type`) VALUES ('137.31.126.0/23', 'IPv4');
 INSERT INTO `zscaler_zscaler-as22616_ips` (`ip_address`, `ip_type`) VALUES ('137.31.128.0/23', 'IPv4');
+INSERT INTO `zscaler_zscaler-as22616_ips` (`ip_address`, `ip_type`) VALUES ('137.31.158.0/24', 'IPv4');
 INSERT INTO `zscaler_zscaler-as22616_ips` (`ip_address`, `ip_type`) VALUES ('137.83.131.0/24', 'IPv4');
 INSERT INTO `zscaler_zscaler-as22616_ips` (`ip_address`, `ip_type`) VALUES ('137.83.132.0/24', 'IPv4');
 INSERT INTO `zscaler_zscaler-as22616_ips` (`ip_address`, `ip_type`) VALUES ('137.83.133.0/24', 'IPv4');

@@ -1,6 +1,6 @@
 #!/bin/bash
 # Alibaba IP Ranges
-# Updated: 2026-07-30 03:16:25
+# Updated: 2026-08-06 03:15:19
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -63,12 +63,15 @@ ufw deny from 42.120.0.0/15
 ufw deny from 42.156.128.0/17
 ufw deny from 43.90.0.0/15
 ufw deny from 43.92.0.0/17
+ufw deny from 43.96.0.0/24
 ufw deny from 43.96.3.0/24
 ufw deny from 43.96.4.0/22
 ufw deny from 43.96.8.0/22
+ufw deny from 43.96.18.0/24
 ufw deny from 43.96.20.0/23
 ufw deny from 43.96.23.0/24
 ufw deny from 43.96.24.0/23
+ufw deny from 43.96.26.0/24
 ufw deny from 43.96.32.0/22
 ufw deny from 43.96.40.0/24
 ufw deny from 43.96.44.0/23
@@ -226,6 +229,7 @@ ufw deny from 139.95.64.0/22
 ufw deny from 139.95.96.0/22
 ufw deny from 139.95.128.0/21
 ufw deny from 139.95.144.0/20
+ufw deny from 139.95.160.0/19
 ufw deny from 139.95.192.0/18
 ufw deny from 139.129.0.0/16
 ufw deny from 139.196.0.0/16
@@ -263,6 +267,7 @@ ufw deny from 170.33.88.0/22
 ufw deny from 170.33.92.0/23
 ufw deny from 170.33.94.0/24
 ufw deny from 170.33.96.0/22
+ufw deny from 170.33.101.0/24
 ufw deny from 170.33.103.0/24
 ufw deny from 170.33.104.0/22
 ufw deny from 170.33.112.0/23

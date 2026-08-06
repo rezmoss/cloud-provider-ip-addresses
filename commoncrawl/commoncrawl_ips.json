@@ -25,7 +25,7 @@
     "service": "ccbot"
   },
   {
-    "ip_address": "2600:1f28:365:80b0::/60",
+    "ip_address": "2600:1f28:365:8000::/56",
     "ip_type": "IPv6",
     "service": "ccbot"
   }

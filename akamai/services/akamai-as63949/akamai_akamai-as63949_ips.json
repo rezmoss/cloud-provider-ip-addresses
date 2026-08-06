@@ -552,6 +552,18 @@
     "region": "global"
   },
   {
+    "ip_address": "104.111.0.0/19",
+    "ip_type": "IPv4",
+    "service": "akamai-as63949",
+    "region": "global"
+  },
+  {
+    "ip_address": "104.111.32.0/19",
+    "ip_type": "IPv4",
+    "service": "akamai-as63949",
+    "region": "global"
+  },
+  {
     "ip_address": "104.200.16.0/21",
     "ip_type": "IPv4",
     "service": "akamai-as63949",

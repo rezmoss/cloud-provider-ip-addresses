@@ -1,6 +1,6 @@
 #!/bin/bash
 # Gptbot IP Ranges
-# Updated: 2026-08-05 03:12:38
+# Updated: 2026-08-06 03:11:55
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -21,7 +21,6 @@ ufw allow from 4.197.115.112/28
 ufw allow from 4.198.72.16/28
 ufw allow from 4.198.96.112/28
 ufw allow from 4.201.232.64/27
-ufw allow from 4.203.96.80/28
 ufw allow from 4.205.128.176/28
 ufw allow from 4.218.24.64/28
 ufw allow from 4.226.200.16/28
@@ -44,10 +43,8 @@ ufw allow from 9.223.181.208/28
 ufw allow from 9.234.96.192/28
 ufw allow from 9.234.97.96/28
 ufw allow from 9.234.97.128/28
-ufw allow from 9.235.40.32/28
-ufw allow from 13.65.138.96/27
+ufw allow from 13.65.138.112/28
 ufw allow from 13.67.72.16/28
-ufw allow from 13.70.107.160/28
 ufw allow from 13.71.2.208/28
 ufw allow from 13.76.32.208/28
 ufw allow from 13.76.116.80/28
@@ -70,16 +67,13 @@ ufw allow from 20.125.144.144/28
 ufw allow from 20.161.75.208/28
 ufw allow from 20.168.7.192/28
 ufw allow from 20.168.7.240/28
-ufw allow from 20.169.72.112/28
 ufw allow from 20.169.73.32/28
 ufw allow from 20.169.73.64/28
-ufw allow from 20.169.73.176/28
 ufw allow from 20.169.78.48/28
 ufw allow from 20.169.78.64/26
 ufw allow from 20.169.78.128/26
-ufw allow from 20.169.78.192/27
+ufw allow from 20.169.78.192/28
 ufw allow from 20.169.86.224/27
-ufw allow from 20.169.87.112/28
 ufw allow from 20.170.184.16/28
 ufw allow from 20.170.184.32/27
 ufw allow from 20.170.184.64/27
@@ -96,8 +90,6 @@ ufw allow from 20.210.154.128/28
 ufw allow from 20.210.174.208/28
 ufw allow from 20.210.211.192/28
 ufw allow from 20.215.187.208/28
-ufw allow from 20.215.188.192/28
-ufw allow from 20.215.214.16/28
 ufw allow from 20.215.219.128/28
 ufw allow from 20.215.219.160/28
 ufw allow from 20.215.219.208/28
@@ -115,19 +107,16 @@ ufw allow from 20.249.63.208/28
 ufw allow from 20.250.6.128/28
 ufw allow from 20.250.136.64/28
 ufw allow from 23.98.142.176/28
-ufw allow from 23.98.179.16/28
 ufw allow from 23.98.186.64/28
 ufw allow from 23.98.186.96/28
 ufw allow from 23.98.186.176/28
 ufw allow from 23.98.186.192/28
 ufw allow from 23.102.140.144/28
 ufw allow from 23.102.141.32/28
-ufw allow from 40.67.183.160/27
 ufw allow from 40.74.200.208/28
 ufw allow from 40.78.161.48/28
 ufw allow from 40.81.67.96/28
 ufw allow from 40.81.234.144/28
-ufw allow from 40.84.181.32/28
 ufw allow from 40.84.221.208/28
 ufw allow from 40.84.221.224/28
 ufw allow from 40.116.73.208/28
@@ -154,8 +143,7 @@ ufw allow from 52.156.77.144/28
 ufw allow from 52.159.227.32/28
 ufw allow from 52.159.249.96/28
 ufw allow from 52.161.49.96/28
-ufw allow from 52.165.212.16/28
-ufw allow from 52.165.212.32/27
+ufw allow from 52.165.212.48/28
 ufw allow from 52.172.129.160/28
 ufw allow from 52.172.251.112/28
 ufw allow from 52.173.219.96/27
@@ -166,7 +154,6 @@ ufw allow from 52.173.234.16/28
 ufw allow from 52.173.234.80/28
 ufw allow from 52.173.235.80/28
 ufw allow from 52.183.217.240/28
-ufw allow from 52.187.246.128/28
 ufw allow from 52.190.137.16/28
 ufw allow from 52.190.137.144/28
 ufw allow from 52.190.139.48/28
@@ -190,7 +177,6 @@ ufw allow from 52.255.109.128/27
 ufw allow from 52.255.111.0/28
 ufw allow from 52.255.111.32/27
 ufw allow from 52.255.111.80/28
-ufw allow from 52.255.111.112/28
 ufw allow from 57.154.174.112/28
 ufw allow from 57.154.175.0/28
 ufw allow from 57.154.187.32/28
@@ -248,20 +234,17 @@ ufw allow from 172.197.161.208/28
 ufw allow from 172.197.170.80/28
 ufw allow from 172.197.203.16/28
 ufw allow from 172.199.137.80/28
-ufw allow from 172.204.27.16/28
 ufw allow from 172.204.28.224/28
-ufw allow from 172.204.96.32/27
+ufw allow from 172.204.96.48/28
 ufw allow from 172.204.96.80/28
 ufw allow from 172.205.189.192/28
 ufw allow from 172.207.1.32/28
 ufw allow from 172.208.128.32/27
 ufw allow from 172.212.159.64/28
 ufw allow from 172.212.172.160/28
-ufw allow from 172.213.21.16/28
 ufw allow from 172.215.215.32/28
 ufw allow from 172.215.218.96/28
 ufw allow from 191.233.1.112/28
-ufw allow from 191.233.194.32/28
 ufw allow from 191.233.196.112/28
 ufw allow from 191.233.199.160/28
 ufw allow from 191.235.66.16/28

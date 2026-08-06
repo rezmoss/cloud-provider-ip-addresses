@@ -1819,10 +1819,10 @@ ip_address,ip_type,service,region
 2600:f0f3:f010:3400::/56,IPv6,EC2,us-east-1
 2600:f0f3:f010:3800::/56,IPv6,AMAZON,us-east-1
 2600:f0f3:f010:3800::/56,IPv6,EC2,us-east-1
-2600:f0fb:c001::/56,IPv6,AMAZON,us-east-1
-2600:f0fb:c001::/56,IPv6,EC2,us-east-1
 2600:f0fb:c002::/56,IPv6,AMAZON,us-east-1
 2600:f0fb:c002::/56,IPv6,EC2,us-east-1
+2600:f0fb:c0ff::/56,IPv6,AMAZON,us-east-1
+2600:f0fb:c0ff::/56,IPv6,EC2,us-east-1
 2600:f0fb:c800::/56,IPv6,AMAZON,us-east-1
 2600:f0fb:c800::/56,IPv6,EC2,us-east-1
 2600:f0fb:c900::/52,IPv6,AMAZON,us-east-1

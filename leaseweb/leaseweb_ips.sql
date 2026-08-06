@@ -1171,6 +1171,7 @@ INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('154.30.8.0/24', 'I
 INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('154.36.92.0/23', 'IPv4');
 INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('154.36.110.0/24', 'IPv4');
 INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('154.37.92.0/23', 'IPv4');
+INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('157.254.3.0/24', 'IPv4');
 INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('159.255.192.0/22', 'IPv4');
 INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('160.202.133.0/24', 'IPv4');
 INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('162.210.192.0/21', 'IPv4');
@@ -1195,6 +1196,7 @@ INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('171.22.62.0/23', '
 INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('171.22.191.0/24', 'IPv4');
 INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('172.84.179.0/24', 'IPv4');
 INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('172.85.108.0/24', 'IPv4');
+INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('172.93.209.0/24', 'IPv4');
 INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('172.93.218.0/23', 'IPv4');
 INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('172.96.185.0/24', 'IPv4');
 INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('172.96.190.0/23', 'IPv4');

@@ -1818,12 +1818,6 @@
     "region": "global"
   },
   {
-    "ip_address": "2404:4e00:4::/48",
-    "ip_type": "IPv6",
-    "service": "akamai-as32787",
-    "region": "global"
-  },
-  {
     "ip_address": "2404:4e00:5::/48",
     "ip_type": "IPv6",
     "service": "akamai-as32787",
