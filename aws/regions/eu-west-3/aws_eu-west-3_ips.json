@@ -438,6 +438,12 @@
     "region": "eu-west-3"
   },
   {
+    "ip_address": "15.224.178.0/23",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-west-3"
+  },
+  {
     "ip_address": "15.224.180.0/22",
     "ip_type": "IPv4",
     "service": "EFS",

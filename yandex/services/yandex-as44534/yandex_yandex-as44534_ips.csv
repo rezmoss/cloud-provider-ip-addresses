@@ -11,10 +11,14 @@ ip_address,ip_type,service,region
 77.88.6.0/24,IPv4,yandex-as44534,global
 77.88.12.0/23,IPv4,yandex-as44534,global
 84.252.160.0/20,IPv4,yandex-as44534,global
+84.252.160.0/24,IPv4,yandex-as44534,global
 87.250.240.0/24,IPv4,yandex-as44534,global
 93.158.144.0/22,IPv4,yandex-as44534,global
 93.158.168.0/22,IPv4,yandex-as44534,global
 93.158.184.0/21,IPv4,yandex-as44534,global
+93.158.184.0/24,IPv4,yandex-as44534,global
+93.158.186.0/24,IPv4,yandex-as44534,global
+93.158.187.0/24,IPv4,yandex-as44534,global
 2a02:6bf:8000::/34,IPv6,yandex-as44534,global
 2a02:6bf:8000::/35,IPv6,yandex-as44534,global
 2a02:6bf:8005::/48,IPv6,yandex-as44534,global

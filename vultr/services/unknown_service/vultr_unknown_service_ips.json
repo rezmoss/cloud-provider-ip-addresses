@@ -2240,6 +2240,11 @@
     "region": "SG-05"
   },
   {
+    "ip_address": "2001:19f0:4800::/38",
+    "ip_type": "IPv6",
+    "region": "US-US-MN"
+  },
+  {
     "ip_address": "2001:19f0:5000::/38",
     "ip_type": "IPv6",
     "region": "NL-NH"

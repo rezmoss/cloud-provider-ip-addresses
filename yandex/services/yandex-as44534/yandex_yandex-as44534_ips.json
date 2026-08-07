@@ -72,6 +72,12 @@
     "region": "global"
   },
   {
+    "ip_address": "84.252.160.0/24",
+    "ip_type": "IPv4",
+    "service": "yandex-as44534",
+    "region": "global"
+  },
+  {
     "ip_address": "87.250.240.0/24",
     "ip_type": "IPv4",
     "service": "yandex-as44534",
@@ -91,6 +97,24 @@
   },
   {
     "ip_address": "93.158.184.0/21",
+    "ip_type": "IPv4",
+    "service": "yandex-as44534",
+    "region": "global"
+  },
+  {
+    "ip_address": "93.158.184.0/24",
+    "ip_type": "IPv4",
+    "service": "yandex-as44534",
+    "region": "global"
+  },
+  {
+    "ip_address": "93.158.186.0/24",
+    "ip_type": "IPv4",
+    "service": "yandex-as44534",
+    "region": "global"
+  },
+  {
+    "ip_address": "93.158.187.0/24",
     "ip_type": "IPv4",
     "service": "yandex-as44534",
     "region": "global"

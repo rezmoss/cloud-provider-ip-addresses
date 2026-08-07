@@ -1,6 +1,6 @@
 # aws IP ranges - ipset restore format (hash:net)
-# Version: 42 | Generated: 2026-08-06 | Last changed: 2026-08-06
-# IPv4: 1758 merged subnets, 101826742 unique IPs
+# Version: 43 | Generated: 2026-08-07 | Last changed: 2026-08-07
+# IPv4: 1750 merged subnets, 101826736 unique IPs
 # IPv6: 2095 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
@@ -400,16 +400,10 @@ add aws_v4 15.248.80.0/20
 add aws_v4 15.248.104.0/24
 add aws_v4 15.248.106.0/23
 add aws_v4 15.248.112.0/20
-add aws_v4 15.248.128.0/21
-add aws_v4 15.248.136.0/23
-add aws_v4 15.248.138.0/24
-add aws_v4 15.248.140.0/22
-add aws_v4 15.248.144.0/20
+add aws_v4 15.248.128.0/19
 add aws_v4 15.248.160.0/23
 add aws_v4 15.248.162.0/24
-add aws_v4 15.248.164.0/24
-add aws_v4 15.248.165.0/30
-add aws_v4 15.248.165.4/31
+add aws_v4 15.248.164.0/23
 add aws_v4 15.248.167.0/28
 add aws_v4 15.248.167.16/29
 add aws_v4 15.248.168.0/21
@@ -1296,8 +1290,6 @@ add aws_v4 65.9.0.0/17
 add aws_v4 65.9.128.0/18
 add aws_v4 65.176.0.0/14
 add aws_v4 66.7.0.0/21
-add aws_v4 66.36.0.0/24
-add aws_v4 66.36.10.0/24
 add aws_v4 66.47.0.0/16
 add aws_v4 66.182.96.0/20
 add aws_v4 67.202.0.0/18
@@ -3144,7 +3136,7 @@ add aws_v6 2600:f0f3:f010:3800::/56
 add aws_v6 2600:f0fb:8000::/40
 add aws_v6 2600:f0fb:c002::/56
 add aws_v6 2600:f0fb:c0ff::/56
-add aws_v6 2600:f0fb:c800::/56
+add aws_v6 2600:f0fb:c800::/47
 add aws_v6 2600:f0fb:c900::/52
 add aws_v6 2600:f0fb:ca00::/52
 add aws_v6 2600:f0fb:e000::/36

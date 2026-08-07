@@ -1,6 +1,6 @@
 #!/bin/bash
 # Mullvad IP Ranges
-# Updated: 2026-07-29 03:15:44
+# Updated: 2026-08-07 03:13:46
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -15,8 +15,6 @@ ufw deny from 23.159.216.127/32
 ufw deny from 23.160.24.3/32
 ufw deny from 23.160.24.127/32
 ufw deny from 23.162.8.3/32
-ufw deny from 23.162.8.67/32
-ufw deny from 23.162.8.130/32
 ufw deny from 23.162.40.3/32
 ufw deny from 23.162.40.127/32
 ufw deny from 23.168.216.3/32
@@ -225,7 +223,6 @@ ufw deny from 185.213.193.3/32
 ufw deny from 185.213.193.127/32
 ufw deny from 194.126.179.3/32
 ufw deny from 212.103.48.226/32
-ufw deny from 2001:ac8:40:11::f001/128
 ufw deny from 2001:ac8:9a:75::2f/128
 ufw deny from 2001:ac8:9a:76::1f/128
 ufw deny from 2001:ac8:9a:78::3f/128
@@ -234,8 +231,6 @@ ufw deny from 2602:f99d::f101/128
 ufw deny from 2602:fa19::f001/128
 ufw deny from 2602:fa19::f101/128
 ufw deny from 2602:fa1f:1::f001/128
-ufw deny from 2602:fa1f:1::f033/128
-ufw deny from 2602:fa1f:1:3::f001/128
 ufw deny from 2602:fa45::f001/128
 ufw deny from 2602:fa45::f101/128
 ufw deny from 2602:fa47::f001/128
@@ -420,6 +415,7 @@ ufw deny from 2a06:3040:12:610::a01f/128
 ufw deny from 2a06:3040:12:610::a02f/128
 ufw deny from 2a06:3040:22:620::f001/128
 ufw deny from 2a06:3040:22:620::f101/128
+ufw deny from 2a0d:5600:6:104::f001/128
 ufw deny from 2a0d:5600:6:105::f001/128
 ufw deny from 2a0d:5600:6:106::f001/128
 ufw deny from 2a0d:5600:8:4::f001/128

@@ -1109,7 +1109,6 @@ ip_address,ip_type,service,region
 23.46.14.0/24,IPv4,akamai-as20940,global
 23.46.15.0/24,IPv4,akamai-as20940,global
 23.46.16.0/24,IPv4,akamai-as20940,global
-23.46.17.0/24,IPv4,akamai-as20940,global
 23.46.18.0/24,IPv4,akamai-as20940,global
 23.46.22.0/24,IPv4,akamai-as20940,global
 23.46.23.0/24,IPv4,akamai-as20940,global
@@ -1507,6 +1506,7 @@ ip_address,ip_type,service,region
 23.56.108.0/24,IPv4,akamai-as20940,global
 23.56.109.0/24,IPv4,akamai-as20940,global
 23.56.110.0/24,IPv4,akamai-as20940,global
+23.56.111.0/24,IPv4,akamai-as20940,global
 23.56.128.0/20,IPv4,akamai-as20940,global
 23.56.128.0/24,IPv4,akamai-as20940,global
 23.56.129.0/24,IPv4,akamai-as20940,global
@@ -2789,7 +2789,6 @@ ip_address,ip_type,service,region
 23.217.119.0/24,IPv4,akamai-as20940,global
 23.217.120.0/22,IPv4,akamai-as20940,global
 23.217.128.0/24,IPv4,akamai-as20940,global
-23.217.129.0/24,IPv4,akamai-as20940,global
 23.217.136.0/24,IPv4,akamai-as20940,global
 23.217.137.0/24,IPv4,akamai-as20940,global
 23.217.138.0/24,IPv4,akamai-as20940,global
@@ -3919,7 +3918,6 @@ ip_address,ip_type,service,region
 193.108.152.0/22,IPv4,akamai-as20940,global
 193.108.153.0/24,IPv4,akamai-as20940,global
 195.245.124.0/22,IPv4,akamai-as20940,global
-198.47.116.0/24,IPv4,akamai-as20940,global
 198.87.182.0/25,IPv4,akamai-as20940,global
 198.173.160.0/23,IPv4,akamai-as20940,global
 200.60.136.0/24,IPv4,akamai-as20940,global
@@ -3944,7 +3942,6 @@ ip_address,ip_type,service,region
 204.10.28.0/22,IPv4,akamai-as20940,global
 204.93.48.0/24,IPv4,akamai-as20940,global
 204.201.160.0/24,IPv4,akamai-as20940,global
-204.237.142.0/23,IPv4,akamai-as20940,global
 204.237.186.0/23,IPv4,akamai-as20940,global
 204.237.188.0/24,IPv4,akamai-as20940,global
 208.185.115.0/24,IPv4,akamai-as20940,global
@@ -4134,7 +4131,6 @@ ip_address,ip_type,service,region
 2600:1408:600::/48,IPv6,akamai-as20940,global
 2600:1408:1c00::/48,IPv6,akamai-as20940,global
 2600:1408:2000::/48,IPv6,akamai-as20940,global
-2600:1408:4800::/48,IPv6,akamai-as20940,global
 2600:1408:5400::/48,IPv6,akamai-as20940,global
 2600:1408:6400::/48,IPv6,akamai-as20940,global
 2600:1408:7400::/48,IPv6,akamai-as20940,global

@@ -1968,6 +1968,7 @@ ip_address,ip_type,service,region
 2a10:67c7::/32,IPv6,leaseweb-as27411,global
 2a10:68c0::/32,IPv6,leaseweb-as60781,global
 2a10:68c6::/32,IPv6,leaseweb-as27411,global
+2a10:68c7::/32,IPv6,leaseweb-as60781,global
 2a10:6d40::/29,IPv6,leaseweb-as30633,global
 2a10:b5c1::/32,IPv6,leaseweb-as60781,global
 2a10:fdc0::/29,IPv6,leaseweb-as396190,global

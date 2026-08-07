@@ -1608,37 +1608,7 @@
     "region": "us-east-2"
   },
   {
-    "ip_address": "15.248.165.0/32",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "us-east-2"
-  },
-  {
-    "ip_address": "15.248.165.1/32",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "us-east-2"
-  },
-  {
-    "ip_address": "15.248.165.2/32",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "us-east-2"
-  },
-  {
-    "ip_address": "15.248.165.3/32",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "us-east-2"
-  },
-  {
-    "ip_address": "15.248.165.4/32",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "us-east-2"
-  },
-  {
-    "ip_address": "15.248.165.5/32",
+    "ip_address": "15.248.165.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "us-east-2"

@@ -132,6 +132,12 @@
     "region": "global"
   },
   {
+    "ip_address": "93.158.171.0/24",
+    "ip_type": "IPv4",
+    "service": "yandex-as13238",
+    "region": "global"
+  },
+  {
     "ip_address": "95.108.128.0/17",
     "ip_type": "IPv4",
     "service": "yandex-as13238",

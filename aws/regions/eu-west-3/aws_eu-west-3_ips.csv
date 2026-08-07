@@ -72,6 +72,7 @@ ip_address,ip_type,service,region
 15.221.50.0/24,IPv4,AMAZON,eu-west-3
 15.224.0.0/16,IPv4,AMAZON,eu-west-3
 15.224.0.0/16,IPv4,EC2,eu-west-3
+15.224.178.0/23,IPv4,AMAZON,eu-west-3
 15.224.180.0/22,IPv4,EFS,eu-west-3
 15.225.0.0/16,IPv4,AMAZON,eu-west-3
 15.230.70.192/26,IPv4,AMAZON,eu-west-3

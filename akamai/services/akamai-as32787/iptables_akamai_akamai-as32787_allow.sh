@@ -1,6 +1,6 @@
 #!/bin/bash
 # Akamai IP Ranges
-# Updated: 2026-08-06 03:15:56
+# Updated: 2026-08-07 03:13:15
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -37,7 +37,6 @@ iptables -A INPUT -s 23.53.116.0/24 -j ACCEPT
 iptables -A INPUT -s 23.57.100.0/23 -j ACCEPT
 iptables -A INPUT -s 23.57.102.0/24 -j ACCEPT
 iptables -A INPUT -s 23.57.106.0/23 -j ACCEPT
-iptables -A INPUT -s 23.57.108.0/24 -j ACCEPT
 iptables -A INPUT -s 23.57.110.0/23 -j ACCEPT
 iptables -A INPUT -s 23.58.136.0/22 -j ACCEPT
 iptables -A INPUT -s 23.193.47.0/24 -j ACCEPT
@@ -159,7 +158,7 @@ iptables -A INPUT -s 219.113.26.0/24 -j ACCEPT
 ip6tables -A INPUT -s 2001:df4:4c40::/48 -j ACCEPT
 ip6tables -A INPUT -s 2001:4c08:2026::/48 -j ACCEPT
 ip6tables -A INPUT -s 2404:4e00:5::/48 -j ACCEPT
-ip6tables -A INPUT -s 2404:4e00:6::/47 -j ACCEPT
+ip6tables -A INPUT -s 2404:4e00:7::/48 -j ACCEPT
 ip6tables -A INPUT -s 2404:4e00:101::/48 -j ACCEPT
 ip6tables -A INPUT -s 2404:4e00:102::/48 -j ACCEPT
 ip6tables -A INPUT -s 2404:4e00:104::/47 -j ACCEPT

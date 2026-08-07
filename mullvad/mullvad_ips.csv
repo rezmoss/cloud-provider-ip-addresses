@@ -7,8 +7,6 @@ ip_address,ip_type,service,region
 23.160.24.3/32,IPv4,mullvad-wireguard,us
 23.160.24.127/32,IPv4,mullvad-wireguard,us
 23.162.8.3/32,IPv4,mullvad-wireguard,us
-23.162.8.67/32,IPv4,mullvad-wireguard,us
-23.162.8.130/32,IPv4,mullvad-wireguard,us
 23.162.40.3/32,IPv4,mullvad-wireguard,us
 23.162.40.127/32,IPv4,mullvad-wireguard,us
 23.168.216.3/32,IPv4,mullvad-wireguard,us
@@ -306,8 +304,6 @@ ip_address,ip_type,service,region
 146.70.117.130/32,IPv4,mullvad-wireguard,de
 146.70.119.2/32,IPv4,mullvad-wireguard,gb
 146.70.119.130/32,IPv4,mullvad-wireguard,gb
-146.70.124.130/32,IPv4,mullvad-wireguard,ro
-146.70.124.194/32,IPv4,mullvad-wireguard,ro
 146.70.129.98/32,IPv4,mullvad-wireguard,cz
 146.70.129.130/32,IPv4,mullvad-wireguard,cz
 146.70.132.2/32,IPv4,mullvad-wireguard,gb
@@ -363,6 +359,8 @@ ip_address,ip_type,service,region
 146.70.224.196/32,IPv4,mullvad-wireguard,hk
 146.70.225.2/32,IPv4,mullvad-wireguard,it
 146.70.225.66/32,IPv4,mullvad-wireguard,it
+147.78.240.3/32,IPv4,mullvad-wireguard,de
+147.78.240.190/32,IPv4,mullvad-wireguard,de
 149.22.81.194/32,IPv4,mullvad-wireguard,ca
 149.22.81.207/32,IPv4,mullvad-wireguard,ca
 149.22.83.2/32,IPv4,mullvad-wireguard,ar
@@ -438,6 +436,7 @@ ip_address,ip_type,service,region
 173.249.254.127/32,IPv4,mullvad-wireguard,us
 173.249.255.2/32,IPv4,mullvad-wireguard,us
 173.249.255.127/32,IPv4,mullvad-wireguard,us
+176.119.150.3/32,IPv4,mullvad-wireguard,de
 176.125.235.71/32,IPv4,mullvad-wireguard,no
 176.125.235.72/32,IPv4,mullvad-wireguard,no
 176.125.235.73/32,IPv4,mullvad-wireguard,no
@@ -614,7 +613,6 @@ ip_address,ip_type,service,region
 2001:ac8:33:d::a02f/128,IPv6,mullvad-wireguard,cz
 2001:ac8:37:96::f001/128,IPv6,mullvad-wireguard,dk
 2001:ac8:37:97::f001/128,IPv6,mullvad-wireguard,dk
-2001:ac8:40:11::f001/128,IPv6,mullvad-wireguard,us
 2001:ac8:40:13::f001/128,IPv6,mullvad-wireguard,jp
 2001:ac8:40:14::f001/128,IPv6,mullvad-wireguard,jp
 2001:ac8:40:1d::f001/128,IPv6,mullvad-wireguard,jp
@@ -660,8 +658,6 @@ ip_address,ip_type,service,region
 2602:fa19::f001/128,IPv6,mullvad-wireguard,us
 2602:fa19::f101/128,IPv6,mullvad-wireguard,us
 2602:fa1f:1::f001/128,IPv6,mullvad-wireguard,us
-2602:fa1f:1::f033/128,IPv6,mullvad-wireguard,us
-2602:fa1f:1:3::f001/128,IPv6,mullvad-wireguard,us
 2602:fa45::f001/128,IPv6,mullvad-wireguard,us
 2602:fa45::f101/128,IPv6,mullvad-wireguard,us
 2602:fa47::f001/128,IPv6,mullvad-wireguard,us
@@ -1055,7 +1051,6 @@ ip_address,ip_type,service,region
 2a04:27c0:0:c::f001/128,IPv6,mullvad-wireguard,al
 2a04:27c0:0:d::f001/128,IPv6,mullvad-wireguard,al
 2a04:27c0:0:e::f001/128,IPv6,mullvad-wireguard,al
-2a04:9dc0:0:133::a01f/128,IPv6,mullvad-wireguard,ro
 2a04:9dc0:0:134::f001/128,IPv6,mullvad-wireguard,ro
 2a04:9dc0:0:135::f001/128,IPv6,mullvad-wireguard,ro
 2a04:9dc0:0:136::f001/128,IPv6,mullvad-wireguard,ro
@@ -1102,6 +1097,9 @@ ip_address,ip_type,service,region
 2a07:d883:700:1::f001/128,IPv6,mullvad-wireguard,nl
 2a07:d883:700:2::f001/128,IPv6,mullvad-wireguard,nl
 2a07:d883:700:3::f001/128,IPv6,mullvad-wireguard,nl
+2a07:d883:702:1::f001/128,IPv6,mullvad-wireguard,de
+2a07:d883:702:2::f001/128,IPv6,mullvad-wireguard,de
+2a07:d883:702:3::f001/128,IPv6,mullvad-wireguard,de
 2a07:fe00:1::a23f/128,IPv6,mullvad-wireguard,de
 2a07:fe00:1::a24f/128,IPv6,mullvad-wireguard,de
 2a07:fe00:1::a25f/128,IPv6,mullvad-wireguard,de
@@ -1116,6 +1114,7 @@ ip_address,ip_type,service,region
 2a0c:f040:0:2790::a01f/128,IPv6,mullvad-wireguard,fi
 2a0c:f040:0:2790::a02f/128,IPv6,mullvad-wireguard,fi
 2a0c:f040:0:2790::a03f/128,IPv6,mullvad-wireguard,fi
+2a0d:5600:6:104::f001/128,IPv6,mullvad-wireguard,us
 2a0d:5600:6:105::f001/128,IPv6,mullvad-wireguard,us
 2a0d:5600:6:106::f001/128,IPv6,mullvad-wireguard,us
 2a0d:5600:8:4::f001/128,IPv6,mullvad-wireguard,us

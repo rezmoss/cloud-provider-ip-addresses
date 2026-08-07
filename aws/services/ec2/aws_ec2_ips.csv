@@ -1434,8 +1434,6 @@ ip_address,ip_type,service,region
 64.252.126.0/24,IPv4,EC2,eu-west-3
 65.0.0.0/14,IPv4,EC2,ap-south-1
 66.7.0.0/21,IPv4,EC2,us-west-2
-66.36.0.0/24,IPv4,EC2,us-east-1
-66.36.10.0/24,IPv4,EC2,us-east-1
 67.202.0.0/18,IPv4,EC2,us-east-1
 68.66.112.0/20,IPv4,EC2,us-east-1
 68.79.0.0/18,IPv4,EC2,cn-northwest-1
@@ -3399,7 +3397,8 @@ ip_address,ip_type,service,region
 2600:f0fb:8000::/40,IPv6,EC2,us-west-2
 2600:f0fb:c002::/56,IPv6,EC2,us-east-1
 2600:f0fb:c0ff::/56,IPv6,EC2,us-east-1
-2600:f0fb:c800::/56,IPv6,EC2,us-east-1
+2600:f0fb:c800::/48,IPv6,EC2,us-east-1
+2600:f0fb:c801::/48,IPv6,EC2,us-east-1
 2600:f0fb:c900::/52,IPv6,EC2,us-east-1
 2600:f0fb:ca00::/52,IPv6,EC2,us-east-1
 2600:f0fb:e000::/40,IPv6,EC2,us-east-1

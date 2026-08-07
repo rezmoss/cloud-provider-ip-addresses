@@ -1,6 +1,6 @@
 #!/bin/bash
 # Akamai IP Ranges
-# Updated: 2026-08-06 03:15:57
+# Updated: 2026-08-07 03:13:16
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -97,7 +97,6 @@ iptables -A INPUT -s 92.122.0.0/15 -j ACCEPT
 iptables -A INPUT -s 93.191.168.0/24 -j ACCEPT
 iptables -A INPUT -s 93.191.170.0/24 -j ACCEPT
 iptables -A INPUT -s 93.191.172.0/24 -j ACCEPT
-iptables -A INPUT -s 93.191.175.0/24 -j ACCEPT
 iptables -A INPUT -s 95.100.0.0/15 -j ACCEPT
 iptables -A INPUT -s 96.6.0.0/15 -j ACCEPT
 iptables -A INPUT -s 96.16.0.0/15 -j ACCEPT
@@ -282,7 +281,6 @@ iptables -A INPUT -s 194.196.38.0/23 -j ACCEPT
 iptables -A INPUT -s 194.233.160.0/20 -j ACCEPT
 iptables -A INPUT -s 195.95.192.0/22 -j ACCEPT
 iptables -A INPUT -s 195.245.124.0/22 -j ACCEPT
-iptables -A INPUT -s 198.47.116.0/24 -j ACCEPT
 iptables -A INPUT -s 198.58.96.0/19 -j ACCEPT
 iptables -A INPUT -s 198.74.48.0/20 -j ACCEPT
 iptables -A INPUT -s 198.87.182.0/25 -j ACCEPT
@@ -319,7 +317,6 @@ iptables -A INPUT -s 204.10.28.0/22 -j ACCEPT
 iptables -A INPUT -s 204.93.48.0/24 -j ACCEPT
 iptables -A INPUT -s 204.201.160.0/24 -j ACCEPT
 iptables -A INPUT -s 204.209.72.0/24 -j ACCEPT
-iptables -A INPUT -s 204.237.142.0/23 -j ACCEPT
 iptables -A INPUT -s 204.237.186.0/23 -j ACCEPT
 iptables -A INPUT -s 204.237.188.0/24 -j ACCEPT
 iptables -A INPUT -s 205.167.188.0/23 -j ACCEPT
@@ -503,7 +500,7 @@ ip6tables -A INPUT -s 2400:8907::/32 -j ACCEPT
 ip6tables -A INPUT -s 2401:fdc0:a000::/48 -j ACCEPT
 ip6tables -A INPUT -s 2403:c780:7203::/48 -j ACCEPT
 ip6tables -A INPUT -s 2404:4e00:5::/48 -j ACCEPT
-ip6tables -A INPUT -s 2404:4e00:6::/47 -j ACCEPT
+ip6tables -A INPUT -s 2404:4e00:7::/48 -j ACCEPT
 ip6tables -A INPUT -s 2404:4e00:101::/48 -j ACCEPT
 ip6tables -A INPUT -s 2404:4e00:102::/48 -j ACCEPT
 ip6tables -A INPUT -s 2404:4e00:104::/47 -j ACCEPT
@@ -569,7 +566,6 @@ ip6tables -A INPUT -s 2606:6c00:200::/44 -j ACCEPT
 ip6tables -A INPUT -s 2606:6c00:210::/48 -j ACCEPT
 ip6tables -A INPUT -s 2606:6c00:2000::/48 -j ACCEPT
 ip6tables -A INPUT -s 2606:6c00:4000::/48 -j ACCEPT
-ip6tables -A INPUT -s 2606:6c00:6001::/48 -j ACCEPT
 ip6tables -A INPUT -s 2606:6c00:8000::/48 -j ACCEPT
 ip6tables -A INPUT -s 2606:6c00:c000::/48 -j ACCEPT
 ip6tables -A INPUT -s 2606:6c00:fffe::/47 -j ACCEPT

@@ -564,6 +564,12 @@
     "region": "global"
   },
   {
+    "ip_address": "114.110.149.0/24",
+    "ip_type": "IPv4",
+    "service": "nhncloud-as45974",
+    "region": "global"
+  },
+  {
     "ip_address": "114.110.150.0/24",
     "ip_type": "IPv4",
     "service": "nhncloud-as45974",

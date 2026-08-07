@@ -55,6 +55,7 @@ INSERT INTO `yandex_ips` (`ip_address`, `ip_type`) VALUES ('84.201.188.0/23', 'I
 INSERT INTO `yandex_ips` (`ip_address`, `ip_type`) VALUES ('84.252.128.0/20', 'IPv4');
 INSERT INTO `yandex_ips` (`ip_address`, `ip_type`) VALUES ('84.252.160.0/19', 'IPv4');
 INSERT INTO `yandex_ips` (`ip_address`, `ip_type`) VALUES ('84.252.160.0/20', 'IPv4');
+INSERT INTO `yandex_ips` (`ip_address`, `ip_type`) VALUES ('84.252.160.0/24', 'IPv4');
 INSERT INTO `yandex_ips` (`ip_address`, `ip_type`) VALUES ('87.250.224.0/19', 'IPv4');
 INSERT INTO `yandex_ips` (`ip_address`, `ip_type`) VALUES ('87.250.240.0/24', 'IPv4');
 INSERT INTO `yandex_ips` (`ip_address`, `ip_type`) VALUES ('87.250.247.0/24', 'IPv4');
@@ -79,7 +80,11 @@ INSERT INTO `yandex_ips` (`ip_address`, `ip_type`) VALUES ('93.77.168.0/22', 'IP
 INSERT INTO `yandex_ips` (`ip_address`, `ip_type`) VALUES ('93.158.128.0/18', 'IPv4');
 INSERT INTO `yandex_ips` (`ip_address`, `ip_type`) VALUES ('93.158.144.0/22', 'IPv4');
 INSERT INTO `yandex_ips` (`ip_address`, `ip_type`) VALUES ('93.158.168.0/22', 'IPv4');
+INSERT INTO `yandex_ips` (`ip_address`, `ip_type`) VALUES ('93.158.171.0/24', 'IPv4');
 INSERT INTO `yandex_ips` (`ip_address`, `ip_type`) VALUES ('93.158.184.0/21', 'IPv4');
+INSERT INTO `yandex_ips` (`ip_address`, `ip_type`) VALUES ('93.158.184.0/24', 'IPv4');
+INSERT INTO `yandex_ips` (`ip_address`, `ip_type`) VALUES ('93.158.186.0/24', 'IPv4');
+INSERT INTO `yandex_ips` (`ip_address`, `ip_type`) VALUES ('93.158.187.0/24', 'IPv4');
 INSERT INTO `yandex_ips` (`ip_address`, `ip_type`) VALUES ('94.126.204.0/22', 'IPv4');
 INSERT INTO `yandex_ips` (`ip_address`, `ip_type`) VALUES ('94.131.190.0/24', 'IPv4');
 INSERT INTO `yandex_ips` (`ip_address`, `ip_type`) VALUES ('94.131.191.0/24', 'IPv4');
