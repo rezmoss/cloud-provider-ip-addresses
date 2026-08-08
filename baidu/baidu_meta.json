@@ -1,7 +1,7 @@
 {
   "provider": "baidu",
   "version": 6,
-  "generated_date": "2026-08-07",
+  "generated_date": "2026-08-08",
   "last_changed_date": "2026-08-01",
   "sources": [
     "BGP announced prefixes via RIPE NCC RIPEstat"

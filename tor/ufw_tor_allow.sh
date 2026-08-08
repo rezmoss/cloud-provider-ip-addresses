@@ -1,6 +1,6 @@
 #!/bin/bash
 # Tor IP Ranges
-# Updated: 2026-08-07 03:13:44
+# Updated: 2026-08-08 02:50:38
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -25,6 +25,7 @@ ufw allow from 5.255.101.10/32
 ufw allow from 5.255.102.26/32
 ufw allow from 5.255.104.202/32
 ufw allow from 5.255.105.87/32
+ufw allow from 5.255.105.182/32
 ufw allow from 5.255.110.120/32
 ufw allow from 5.255.111.52/32
 ufw allow from 5.255.115.58/32
@@ -38,6 +39,7 @@ ufw allow from 5.255.127.222/32
 ufw allow from 8.211.148.167/32
 ufw allow from 8.215.52.126/32
 ufw allow from 23.95.117.249/32
+ufw allow from 23.95.192.178/32
 ufw allow from 23.128.248.160/29
 ufw allow from 23.128.248.168/30
 ufw allow from 23.128.248.172/31
@@ -71,6 +73,7 @@ ufw allow from 23.191.200.112/29
 ufw allow from 23.191.200.120/30
 ufw allow from 23.191.200.124/32
 ufw allow from 23.238.70.236/32
+ufw allow from 31.14.40.92/32
 ufw allow from 31.25.11.143/32
 ufw allow from 31.40.204.151/32
 ufw allow from 31.56.53.39/32
@@ -93,8 +96,11 @@ ufw allow from 37.228.129.162/32
 ufw allow from 37.228.129.168/32
 ufw allow from 37.228.129.189/32
 ufw allow from 37.228.129.241/32
+ufw allow from 38.126.208.215/32
 ufw allow from 44.30.4.69/32
 ufw allow from 45.9.148.50/32
+ufw allow from 45.9.148.165/32
+ufw allow from 45.9.148.188/32
 ufw allow from 45.9.149.34/32
 ufw allow from 45.9.156.22/32
 ufw allow from 45.9.156.110/32
@@ -158,6 +164,7 @@ ufw allow from 45.141.119.80/32
 ufw allow from 45.148.10.111/32
 ufw allow from 45.154.96.18/32
 ufw allow from 46.165.243.36/32
+ufw allow from 46.183.216.217/32
 ufw allow from 46.232.251.191/32
 ufw allow from 46.250.243.29/32
 ufw allow from 47.84.7.211/32
@@ -168,7 +175,6 @@ ufw allow from 51.15.15.81/32
 ufw allow from 51.15.16.14/32
 ufw allow from 51.15.18.73/32
 ufw allow from 51.15.59.15/32
-ufw allow from 51.75.35.120/32
 ufw allow from 51.81.222.62/32
 ufw allow from 51.91.18.151/32
 ufw allow from 51.158.151.177/32
@@ -188,6 +194,8 @@ ufw allow from 64.190.76.10/31
 ufw allow from 64.190.76.12/31
 ufw allow from 64.190.76.14/32
 ufw allow from 64.190.113.221/32
+ufw allow from 65.87.223.26/32
+ufw allow from 66.63.168.120/32
 ufw allow from 66.146.193.33/32
 ufw allow from 66.220.242.222/32
 ufw allow from 67.215.234.141/32
@@ -227,6 +235,7 @@ ufw allow from 80.67.172.162/32
 ufw allow from 80.94.92.92/32
 ufw allow from 80.94.92.99/32
 ufw allow from 80.241.60.207/32
+ufw allow from 80.251.153.113/32
 ufw allow from 81.16.33.42/32
 ufw allow from 81.17.18.50/32
 ufw allow from 81.17.28.95/32
@@ -263,6 +272,7 @@ ufw allow from 87.118.116.90/32
 ufw allow from 87.118.116.103/32
 ufw allow from 87.118.122.30/32
 ufw allow from 87.118.122.51/32
+ufw allow from 87.121.52.101/32
 ufw allow from 88.80.20.86/32
 ufw allow from 88.80.26.2/31
 ufw allow from 88.80.26.4/32
@@ -298,6 +308,7 @@ ufw allow from 91.208.75.156/32
 ufw allow from 91.208.75.178/32
 ufw allow from 91.208.75.239/32
 ufw allow from 91.219.236.101/32
+ufw allow from 91.235.142.133/32
 ufw allow from 92.119.164.131/32
 ufw allow from 92.119.164.208/32
 ufw allow from 92.119.165.34/32
@@ -335,8 +346,8 @@ ufw allow from 102.211.56.20/32
 ufw allow from 102.211.56.112/32
 ufw allow from 103.20.241.102/32
 ufw allow from 103.28.52.93/32
-ufw allow from 103.83.86.180/32
 ufw allow from 103.91.65.44/32
+ufw allow from 103.109.100.162/32
 ufw allow from 103.109.101.105/32
 ufw allow from 103.109.187.71/32
 ufw allow from 103.146.203.11/32
@@ -349,6 +360,7 @@ ufw allow from 103.253.24.18/32
 ufw allow from 104.167.241.4/32
 ufw allow from 104.167.242.117/32
 ufw allow from 104.167.242.118/32
+ufw allow from 104.192.1.50/32
 ufw allow from 104.192.3.74/32
 ufw allow from 104.219.236.100/32
 ufw allow from 104.223.84.84/32
@@ -428,7 +440,6 @@ ufw allow from 109.228.160.190/32
 ufw allow from 109.237.27.11/32
 ufw allow from 114.35.245.150/32
 ufw allow from 118.163.74.160/32
-ufw allow from 121.127.34.40/32
 ufw allow from 123.253.35.32/32
 ufw allow from 125.212.241.131/32
 ufw allow from 128.31.0.13/32
@@ -484,11 +495,12 @@ ufw allow from 150.40.127.100/32
 ufw allow from 150.40.127.161/32
 ufw allow from 150.40.127.237/32
 ufw allow from 150.40.127.243/32
+ufw allow from 150.129.10.50/32
+ufw allow from 150.129.10.151/32
 ufw allow from 151.240.100.189/32
 ufw allow from 151.240.100.190/32
 ufw allow from 151.242.30.113/32
 ufw allow from 151.242.242.45/32
-ufw allow from 152.42.210.90/32
 ufw allow from 152.53.32.167/32
 ufw allow from 152.53.150.12/32
 ufw allow from 152.53.157.69/32
@@ -529,6 +541,7 @@ ufw allow from 171.25.193.132/32
 ufw allow from 171.25.193.234/31
 ufw allow from 172.81.131.139/32
 ufw allow from 172.81.132.94/32
+ufw allow from 172.86.91.90/32
 ufw allow from 172.104.182.84/32
 ufw allow from 172.104.186.73/32
 ufw allow from 172.105.20.12/32
@@ -537,6 +550,7 @@ ufw allow from 172.232.219.78/32
 ufw allow from 172.234.92.148/32
 ufw allow from 172.234.228.174/32
 ufw allow from 173.237.206.68/32
+ufw allow from 173.254.240.151/32
 ufw allow from 173.255.198.243/32
 ufw allow from 176.65.134.8/32
 ufw allow from 176.65.148.3/32
@@ -586,6 +600,7 @@ ufw allow from 185.100.87.250/32
 ufw allow from 185.106.102.102/32
 ufw allow from 185.112.144.11/32
 ufw allow from 185.112.146.167/32
+ufw allow from 185.117.74.72/32
 ufw allow from 185.121.170.60/31
 ufw allow from 185.125.169.75/32
 ufw allow from 185.129.61.129/32
@@ -598,15 +613,14 @@ ufw allow from 185.132.53.37/32
 ufw allow from 185.132.53.45/32
 ufw allow from 185.132.53.46/31
 ufw allow from 185.132.53.58/32
-ufw allow from 185.132.53.121/32
 ufw allow from 185.141.216.29/32
 ufw allow from 185.141.216.30/32
+ufw allow from 185.145.245.130/32
 ufw allow from 185.150.28.13/32
 ufw allow from 185.154.110.16/31
 ufw allow from 185.154.110.142/32
 ufw allow from 185.165.169.239/32
 ufw allow from 185.165.171.84/32
-ufw allow from 185.170.114.25/32
 ufw allow from 185.181.60.204/32
 ufw allow from 185.181.61.201/32
 ufw allow from 185.181.61.203/32
@@ -614,6 +628,7 @@ ufw allow from 185.183.157.214/32
 ufw allow from 185.191.204.254/32
 ufw allow from 185.193.52.180/32
 ufw allow from 185.195.71.244/32
+ufw allow from 185.198.56.217/32
 ufw allow from 185.207.107.130/32
 ufw allow from 185.207.107.216/32
 ufw allow from 185.220.100.240/28
@@ -636,7 +651,8 @@ ufw allow from 185.225.69.187/32
 ufw allow from 185.225.69.203/32
 ufw allow from 185.225.69.222/32
 ufw allow from 185.225.69.225/32
-ufw allow from 185.225.69.232/32
+ufw allow from 185.225.114.26/32
+ufw allow from 185.225.226.62/31
 ufw allow from 185.227.68.78/32
 ufw allow from 185.227.134.106/32
 ufw allow from 185.231.33.38/32
@@ -695,8 +711,10 @@ ufw allow from 192.108.48.150/32
 ufw allow from 192.121.44.26/31
 ufw allow from 192.121.44.33/32
 ufw allow from 192.121.44.34/32
+ufw allow from 192.159.99.180/32
 ufw allow from 192.227.183.149/32
 ufw allow from 192.236.157.54/32
+ufw allow from 192.253.248.96/32
 ufw allow from 192.255.201.6/32
 ufw allow from 193.32.162.86/32
 ufw allow from 193.36.132.21/32
@@ -736,7 +754,6 @@ ufw allow from 198.46.166.157/32
 ufw allow from 198.46.168.17/32
 ufw allow from 198.58.107.53/32
 ufw allow from 198.96.155.3/32
-ufw allow from 198.98.48.33/32
 ufw allow from 198.98.50.199/32
 ufw allow from 198.98.51.189/32
 ufw allow from 198.98.51.249/32
@@ -815,12 +832,16 @@ ufw allow from 212.21.66.6/32
 ufw allow from 212.38.189.186/32
 ufw allow from 212.69.167.80/32
 ufw allow from 212.73.134.204/32
+ufw allow from 212.86.116.26/32
 ufw allow from 212.95.50.77/32
 ufw allow from 212.95.50.243/32
 ufw allow from 212.192.15.177/32
 ufw allow from 213.95.149.22/32
+ufw allow from 213.111.147.9/32
+ufw allow from 213.202.233.140/32
 ufw allow from 216.73.159.75/32
 ufw allow from 216.73.159.101/32
+ufw allow from 216.239.90.19/32
 ufw allow from 217.12.221.131/32
 ufw allow from 217.60.78.198/32
 ufw allow from 217.60.195.54/32

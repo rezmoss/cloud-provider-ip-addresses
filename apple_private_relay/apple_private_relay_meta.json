@@ -1,7 +1,7 @@
 {
   "provider": "apple_private_relay",
   "version": 8,
-  "generated_date": "2026-08-07",
+  "generated_date": "2026-08-08",
   "last_changed_date": "2026-08-03",
   "sources": [
     "https://mask-api.icloud.com/egress-ip-ranges.csv"

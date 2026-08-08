@@ -1,6 +1,6 @@
 #!/bin/bash
 # Aws IP Ranges
-# Updated: 2026-08-07 03:07:22
+# Updated: 2026-08-08 02:44:15
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -3131,7 +3131,9 @@ ip6tables -A INPUT -s 2600:f0f3:f010:200::/55 -j ACCEPT
 ip6tables -A INPUT -s 2600:f0f3:f010:3400::/56 -j ACCEPT
 ip6tables -A INPUT -s 2600:f0f3:f010:3800::/56 -j ACCEPT
 ip6tables -A INPUT -s 2600:f0fb:8000::/40 -j ACCEPT
+ip6tables -A INPUT -s 2600:f0fb:c000::/47 -j ACCEPT
 ip6tables -A INPUT -s 2600:f0fb:c002::/56 -j ACCEPT
+ip6tables -A INPUT -s 2600:f0fb:c003::/48 -j ACCEPT
 ip6tables -A INPUT -s 2600:f0fb:c0ff::/56 -j ACCEPT
 ip6tables -A INPUT -s 2600:f0fb:c800::/47 -j ACCEPT
 ip6tables -A INPUT -s 2600:f0fb:c900::/52 -j ACCEPT
