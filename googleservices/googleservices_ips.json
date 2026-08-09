@@ -1644,7 +1644,49 @@
     "region": "global"
   },
   {
-    "ip_address": "2600:1900:4300::/40",
+    "ip_address": "2600:1900:4300::/43",
+    "ip_type": "IPv6",
+    "service": "google-services",
+    "region": "global"
+  },
+  {
+    "ip_address": "2600:1900:4320::/44",
+    "ip_type": "IPv6",
+    "service": "google-services",
+    "region": "global"
+  },
+  {
+    "ip_address": "2600:1900:4330::/46",
+    "ip_type": "IPv6",
+    "service": "google-services",
+    "region": "global"
+  },
+  {
+    "ip_address": "2600:1900:4344::/46",
+    "ip_type": "IPv6",
+    "service": "google-services",
+    "region": "global"
+  },
+  {
+    "ip_address": "2600:1900:4348::/45",
+    "ip_type": "IPv6",
+    "service": "google-services",
+    "region": "global"
+  },
+  {
+    "ip_address": "2600:1900:4350::/44",
+    "ip_type": "IPv6",
+    "service": "google-services",
+    "region": "global"
+  },
+  {
+    "ip_address": "2600:1900:4360::/43",
+    "ip_type": "IPv6",
+    "service": "google-services",
+    "region": "global"
+  },
+  {
+    "ip_address": "2600:1900:4380::/41",
     "ip_type": "IPv6",
     "service": "google-services",
     "region": "global"

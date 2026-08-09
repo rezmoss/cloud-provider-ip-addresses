@@ -23,3 +23,4 @@ ip_address,ip_type,service,region
 2a06:a180:60::/48,IPv6,stormwall-as59796,global
 2a06:a180:70::/48,IPv6,stormwall-as59796,global
 2a06:a180:a0::/48,IPv6,stormwall-as59796,global
+2a06:a180:b0::/48,IPv6,stormwall-as59796,global

@@ -1,9 +1,9 @@
 # IP Range Statistics
 
-Generated: 2026-08-08T02:51:31.873516
+Generated: 2026-08-09T02:56:44.424029
 
-Total IPv4 addresses: 447,382,064
-Total IPv6 addresses: 5,506,701,867,973,081,155,515,310,514,158,732
+Total IPv4 addresses: 447,382,066
+Total IPv6 addresses: 5,506,701,869,182,006,975,129,939,688,864,908
 IPv4 space coverage: 10.4164%
 
 | Provider | IPv4 CIDRs | IPv6 CIDRs | Total CIDRs | IPv4 Addresses | Services | Regions |
@@ -34,8 +34,8 @@ IPv4 space coverage: 10.4164%
 | github | 5,823 | 1,655 | 7,478 | 27,964,009 | 11 | 0 |
 | gocache | 25 | 0 | 25 | 600 | 0 | 0 |
 | googlebot | 169 | 146 | 315 | 5,056 | 1 | 0 |
-| googlecloud | 997 | 94 | 1,091 | 19,091,840 | 1 | 48 |
-| googleservices | 262 | 93 | 355 | 3,088,000 | 1 | 1 |
+| googlecloud | 997 | 97 | 1,094 | 19,091,840 | 1 | 48 |
+| googleservices | 262 | 100 | 362 | 3,088,000 | 1 | 1 |
 | gptbot | 314 | 0 | 314 | 42,848 | 3 | 0 |
 | hetzner | 682 | 7 | 689 | 3,524,608 | 3 | 1 |
 | hostway | 174 | 0 | 174 | 74,752 | 1 | 1 |
@@ -57,12 +57,12 @@ IPv4 space coverage: 10.4164%
 | salesforce | 57 | 5 | 62 | 963,584 | 5 | 1 |
 | scaleway | 40 | 21 | 61 | 2,482,432 | 2 | 1 |
 | statuscake | 183 | 0 | 183 | 183 | 0 | 0 |
-| stormwall | 16 | 8 | 24 | 4,096 | 1 | 1 |
+| stormwall | 16 | 9 | 25 | 4,096 | 1 | 1 |
 | sucuri | 17 | 13 | 30 | 5,888 | 1 | 1 |
 | teamcity | 11 | 0 | 11 | 11 | 2 | 1 |
 | telegram | 9 | 5 | 14 | 11,008 | 0 | 0 |
 | tencent | 3,329 | 74 | 3,403 | 14,866,432 | 2 | 1 |
-| tor | 1,413 | 0 | 1,413 | 1,413 | 1 | 1 |
+| tor | 1,415 | 0 | 1,415 | 1,415 | 1 | 1 |
 | upcloud | 87 | 20 | 107 | 100,352 | 2 | 1 |
 | uptimerobot | 103 | 103 | 206 | 103 | 1 | 4 |
 | vultr | 440 | 54 | 494 | 1,031,168 | 0 | 35 |

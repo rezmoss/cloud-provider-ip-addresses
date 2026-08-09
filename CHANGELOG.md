@@ -2,6 +2,24 @@
 
 Daily IP range changes across all providers.
 
+## 2026-08-09
+
+### tor
+- Added: 9 CIDRs
+- Removed: 7 CIDRs
+
+### googlecloud
+- Added: 3 CIDRs
+- Removed: 0 CIDRs
+
+### googleservices
+- Added: 8 CIDRs
+- Removed: 1 CIDRs
+
+### stormwall
+- Added: 1 CIDRs
+- Removed: 0 CIDRs
+
 ## 2026-08-08
 
 ### leaseweb

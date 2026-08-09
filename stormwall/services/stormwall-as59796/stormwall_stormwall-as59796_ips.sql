@@ -30,3 +30,4 @@ INSERT INTO `stormwall_stormwall-as59796_ips` (`ip_address`, `ip_type`) VALUES (
 INSERT INTO `stormwall_stormwall-as59796_ips` (`ip_address`, `ip_type`) VALUES ('2a06:a180:60::/48', 'IPv6');
 INSERT INTO `stormwall_stormwall-as59796_ips` (`ip_address`, `ip_type`) VALUES ('2a06:a180:70::/48', 'IPv6');
 INSERT INTO `stormwall_stormwall-as59796_ips` (`ip_address`, `ip_type`) VALUES ('2a06:a180:a0::/48', 'IPv6');
+INSERT INTO `stormwall_stormwall-as59796_ips` (`ip_address`, `ip_type`) VALUES ('2a06:a180:b0::/48', 'IPv6');

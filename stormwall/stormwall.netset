@@ -1,7 +1,7 @@
 # stormwall IP ranges - ipset restore format (hash:net)
-# Version: 1 | Generated: 2026-08-08 | Last changed: 2026-07-12
+# Version: 2 | Generated: 2026-08-09 | Last changed: 2026-08-09
 # IPv4: 9 merged subnets, 4096 unique IPs
-# IPv6: 8 merged subnets
+# IPv6: 9 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
 # Load with: sudo ipset restore -! < stormwall.netset
@@ -27,3 +27,4 @@ add stormwall_v6 2a06:a180:5f::/48
 add stormwall_v6 2a06:a180:60::/48
 add stormwall_v6 2a06:a180:70::/48
 add stormwall_v6 2a06:a180:a0::/48
+add stormwall_v6 2a06:a180:b0::/48

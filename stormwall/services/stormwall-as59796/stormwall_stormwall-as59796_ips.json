@@ -142,5 +142,11 @@
     "ip_type": "IPv6",
     "service": "stormwall-as59796",
     "region": "global"
+  },
+  {
+    "ip_address": "2a06:a180:b0::/48",
+    "ip_type": "IPv6",
+    "service": "stormwall-as59796",
+    "region": "global"
   }
 ]

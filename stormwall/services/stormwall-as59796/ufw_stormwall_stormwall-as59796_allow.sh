@@ -1,6 +1,6 @@
 #!/bin/bash
 # Stormwall IP Ranges
-# Updated: 2026-07-12 03:46:25
+# Updated: 2026-08-09 02:55:57
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -24,3 +24,4 @@ ufw allow from 2a06:a180:5f::/48
 ufw allow from 2a06:a180:60::/48
 ufw allow from 2a06:a180:70::/48
 ufw allow from 2a06:a180:a0::/48
+ufw allow from 2a06:a180:b0::/48

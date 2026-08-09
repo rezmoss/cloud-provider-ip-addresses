@@ -186,6 +186,12 @@
     "region": "global"
   },
   {
+    "ip_address": "23.94.148.16/32",
+    "ip_type": "IPv4",
+    "service": "tor-exit",
+    "region": "global"
+  },
+  {
     "ip_address": "23.95.117.249/32",
     "ip_type": "IPv4",
     "service": "tor-exit",
@@ -2280,6 +2286,24 @@
     "region": "global"
   },
   {
+    "ip_address": "45.133.73.14/32",
+    "ip_type": "IPv4",
+    "service": "tor-exit",
+    "region": "global"
+  },
+  {
+    "ip_address": "45.133.73.35/32",
+    "ip_type": "IPv4",
+    "service": "tor-exit",
+    "region": "global"
+  },
+  {
+    "ip_address": "45.133.73.184/32",
+    "ip_type": "IPv4",
+    "service": "tor-exit",
+    "region": "global"
+  },
+  {
     "ip_address": "45.133.74.53/32",
     "ip_type": "IPv4",
     "service": "tor-exit",
@@ -2760,12 +2784,6 @@
     "region": "global"
   },
   {
-    "ip_address": "78.141.219.102/32",
-    "ip_type": "IPv4",
-    "service": "tor-exit",
-    "region": "global"
-  },
-  {
     "ip_address": "80.67.167.81/32",
     "ip_type": "IPv4",
     "service": "tor-exit",
@@ -2773,6 +2791,12 @@
   },
   {
     "ip_address": "80.67.172.162/32",
+    "ip_type": "IPv4",
+    "service": "tor-exit",
+    "region": "global"
+  },
+  {
+    "ip_address": "80.67.176.91/32",
     "ip_type": "IPv4",
     "service": "tor-exit",
     "region": "global"
@@ -2803,12 +2827,6 @@
   },
   {
     "ip_address": "81.16.33.42/32",
-    "ip_type": "IPv4",
-    "service": "tor-exit",
-    "region": "global"
-  },
-  {
-    "ip_address": "81.17.18.50/32",
     "ip_type": "IPv4",
     "service": "tor-exit",
     "region": "global"
@@ -3408,12 +3426,6 @@
     "region": "global"
   },
   {
-    "ip_address": "95.143.193.125/32",
-    "ip_type": "IPv4",
-    "service": "tor-exit",
-    "region": "global"
-  },
-  {
     "ip_address": "95.155.151.200/32",
     "ip_type": "IPv4",
     "service": "tor-exit",
@@ -3972,6 +3984,12 @@
     "region": "global"
   },
   {
+    "ip_address": "108.61.158.41/32",
+    "ip_type": "IPv4",
+    "service": "tor-exit",
+    "region": "global"
+  },
+  {
     "ip_address": "108.61.189.136/32",
     "ip_type": "IPv4",
     "service": "tor-exit",
@@ -4512,12 +4530,6 @@
     "region": "global"
   },
   {
-    "ip_address": "152.53.32.167/32",
-    "ip_type": "IPv4",
-    "service": "tor-exit",
-    "region": "global"
-  },
-  {
     "ip_address": "152.53.150.12/32",
     "ip_type": "IPv4",
     "service": "tor-exit",
@@ -4986,12 +4998,6 @@
     "region": "global"
   },
   {
-    "ip_address": "179.43.159.202/32",
-    "ip_type": "IPv4",
-    "service": "tor-exit",
-    "region": "global"
-  },
-  {
     "ip_address": "179.43.182.58/32",
     "ip_type": "IPv4",
     "service": "tor-exit",
@@ -5286,12 +5292,6 @@
     "region": "global"
   },
   {
-    "ip_address": "185.165.169.239/32",
-    "ip_type": "IPv4",
-    "service": "tor-exit",
-    "region": "global"
-  },
-  {
     "ip_address": "185.165.171.84/32",
     "ip_type": "IPv4",
     "service": "tor-exit",
@@ -5353,6 +5353,12 @@
   },
   {
     "ip_address": "185.207.107.216/32",
+    "ip_type": "IPv4",
+    "service": "tor-exit",
+    "region": "global"
+  },
+  {
+    "ip_address": "185.212.226.76/32",
     "ip_type": "IPv4",
     "service": "tor-exit",
     "region": "global"
@@ -6312,6 +6318,12 @@
     "region": "global"
   },
   {
+    "ip_address": "185.225.69.214/32",
+    "ip_type": "IPv4",
+    "service": "tor-exit",
+    "region": "global"
+  },
+  {
     "ip_address": "185.225.69.222/32",
     "ip_type": "IPv4",
     "service": "tor-exit",
@@ -6319,6 +6331,12 @@
   },
   {
     "ip_address": "185.225.69.225/32",
+    "ip_type": "IPv4",
+    "service": "tor-exit",
+    "region": "global"
+  },
+  {
+    "ip_address": "185.225.69.232/32",
     "ip_type": "IPv4",
     "service": "tor-exit",
     "region": "global"
@@ -8461,12 +8479,6 @@
   },
   {
     "ip_address": "217.60.195.54/32",
-    "ip_type": "IPv4",
-    "service": "tor-exit",
-    "region": "global"
-  },
-  {
-    "ip_address": "217.156.49.33/32",
     "ip_type": "IPv4",
     "service": "tor-exit",
     "region": "global"
