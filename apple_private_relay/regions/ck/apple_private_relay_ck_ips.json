@@ -80,6 +80,11 @@
     "region": "CK"
   },
   {
+    "ip_address": "172.225.175.48/28",
+    "ip_type": "IPv4",
+    "region": "CK"
+  },
+  {
     "ip_address": "172.225.230.80/28",
     "ip_type": "IPv4",
     "region": "CK"
@@ -146,6 +151,21 @@
   },
   {
     "ip_address": "2a02:26f7:f645:4000::/64",
+    "ip_type": "IPv6",
+    "region": "CK"
+  },
+  {
+    "ip_address": "2a02:26f7:f646:4000::/64",
+    "ip_type": "IPv6",
+    "region": "CK"
+  },
+  {
+    "ip_address": "2a02:26f7:f646:c160::/64",
+    "ip_type": "IPv6",
+    "region": "CK"
+  },
+  {
+    "ip_address": "2a02:26f7:f647:4000::/64",
     "ip_type": "IPv6",
     "region": "CK"
   },

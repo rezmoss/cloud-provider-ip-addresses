@@ -85,6 +85,11 @@
     "region": "AS"
   },
   {
+    "ip_address": "172.225.175.32/28",
+    "ip_type": "IPv4",
+    "region": "AS"
+  },
+  {
     "ip_address": "172.225.230.0/28",
     "ip_type": "IPv4",
     "region": "AS"
@@ -151,6 +156,21 @@
   },
   {
     "ip_address": "2a02:26f7:f685:4000::/64",
+    "ip_type": "IPv6",
+    "region": "AS"
+  },
+  {
+    "ip_address": "2a02:26f7:f686:4000::/64",
+    "ip_type": "IPv6",
+    "region": "AS"
+  },
+  {
+    "ip_address": "2a02:26f7:f686:c060::/64",
+    "ip_type": "IPv6",
+    "region": "AS"
+  },
+  {
+    "ip_address": "2a02:26f7:f687:4000::/64",
     "ip_type": "IPv6",
     "region": "AS"
   },

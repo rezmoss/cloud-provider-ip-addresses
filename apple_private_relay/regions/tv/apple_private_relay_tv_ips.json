@@ -30,6 +30,11 @@
     "region": "TV"
   },
   {
+    "ip_address": "172.225.157.48/28",
+    "ip_type": "IPv4",
+    "region": "TV"
+  },
+  {
     "ip_address": "172.225.231.96/28",
     "ip_type": "IPv4",
     "region": "TV"
@@ -51,6 +56,21 @@
   },
   {
     "ip_address": "2a02:26f7:f241:4000::/64",
+    "ip_type": "IPv6",
+    "region": "TV"
+  },
+  {
+    "ip_address": "2a02:26f7:f242:4000::/64",
+    "ip_type": "IPv6",
+    "region": "TV"
+  },
+  {
+    "ip_address": "2a02:26f7:f242:c8e0::/64",
+    "ip_type": "IPv6",
+    "region": "TV"
+  },
+  {
+    "ip_address": "2a02:26f7:f243:4000::/64",
     "ip_type": "IPv6",
     "region": "TV"
   },

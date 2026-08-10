@@ -30,6 +30,11 @@
     "region": "TO"
   },
   {
+    "ip_address": "172.225.157.32/28",
+    "ip_type": "IPv4",
+    "region": "TO"
+  },
+  {
     "ip_address": "172.225.231.80/28",
     "ip_type": "IPv4",
     "region": "TO"
@@ -51,6 +56,21 @@
   },
   {
     "ip_address": "2a02:26f7:f281:4000::/64",
+    "ip_type": "IPv6",
+    "region": "TO"
+  },
+  {
+    "ip_address": "2a02:26f7:f282:4000::/64",
+    "ip_type": "IPv6",
+    "region": "TO"
+  },
+  {
+    "ip_address": "2a02:26f7:f282:c8c0::/64",
+    "ip_type": "IPv6",
+    "region": "TO"
+  },
+  {
+    "ip_address": "2a02:26f7:f283:4000::/64",
     "ip_type": "IPv6",
     "region": "TO"
   },

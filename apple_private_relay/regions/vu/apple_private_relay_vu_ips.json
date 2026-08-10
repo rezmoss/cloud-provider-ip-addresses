@@ -25,6 +25,11 @@
     "region": "VU"
   },
   {
+    "ip_address": "172.225.157.64/28",
+    "ip_type": "IPv4",
+    "region": "VU"
+  },
+  {
     "ip_address": "172.225.231.112/28",
     "ip_type": "IPv4",
     "region": "VU"
@@ -46,6 +51,21 @@
   },
   {
     "ip_address": "2a02:26f7:f201:4000::/64",
+    "ip_type": "IPv6",
+    "region": "VU"
+  },
+  {
+    "ip_address": "2a02:26f7:f202:4000::/64",
+    "ip_type": "IPv6",
+    "region": "VU"
+  },
+  {
+    "ip_address": "2a02:26f7:f202:c940::/64",
+    "ip_type": "IPv6",
+    "region": "VU"
+  },
+  {
+    "ip_address": "2a02:26f7:f203:4000::/64",
     "ip_type": "IPv6",
     "region": "VU"
   },

@@ -5,6 +5,11 @@
     "region": "NZ-NTL"
   },
   {
+    "ip_address": "172.225.175.192/28",
+    "ip_type": "IPv4",
+    "region": "NZ-NTL"
+  },
+  {
     "ip_address": "172.225.230.224/28",
     "ip_type": "IPv4",
     "region": "NZ-NTL"
@@ -46,6 +51,16 @@
   },
   {
     "ip_address": "2a02:26f7:f441:4000::/64",
+    "ip_type": "IPv6",
+    "region": "NZ-NTL"
+  },
+  {
+    "ip_address": "2a02:26f7:f442:4000::/64",
+    "ip_type": "IPv6",
+    "region": "NZ-NTL"
+  },
+  {
+    "ip_address": "2a02:26f7:f443:4000::/64",
     "ip_type": "IPv6",
     "region": "NZ-NTL"
   },

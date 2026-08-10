@@ -95,6 +95,11 @@
     "region": "FJ"
   },
   {
+    "ip_address": "172.225.175.64/28",
+    "ip_type": "IPv4",
+    "region": "FJ"
+  },
+  {
     "ip_address": "172.225.244.32/28",
     "ip_type": "IPv4",
     "region": "FJ"
@@ -121,6 +126,21 @@
   },
   {
     "ip_address": "2a02:26f7:f601:4000::/64",
+    "ip_type": "IPv6",
+    "region": "FJ"
+  },
+  {
+    "ip_address": "2a02:26f7:f602:4000::/64",
+    "ip_type": "IPv6",
+    "region": "FJ"
+  },
+  {
+    "ip_address": "2a02:26f7:f602:c220::/64",
+    "ip_type": "IPv6",
+    "region": "FJ"
+  },
+  {
+    "ip_address": "2a02:26f7:f603:4000::/64",
     "ip_type": "IPv6",
     "region": "FJ"
   },

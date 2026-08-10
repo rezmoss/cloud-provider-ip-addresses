@@ -180,6 +180,16 @@
     "region": "IN-RJ"
   },
   {
+    "ip_address": "104.28.137.186/32",
+    "ip_type": "IPv4",
+    "region": "IN-RJ"
+  },
+  {
+    "ip_address": "104.28.137.187/32",
+    "ip_type": "IPv4",
+    "region": "IN-RJ"
+  },
+  {
     "ip_address": "172.225.137.198/31",
     "ip_type": "IPv4",
     "region": "IN-RJ"

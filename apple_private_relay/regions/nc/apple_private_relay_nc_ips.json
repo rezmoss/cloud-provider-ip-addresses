@@ -55,6 +55,11 @@
     "region": "NC"
   },
   {
+    "ip_address": "172.225.175.128/28",
+    "ip_type": "IPv4",
+    "region": "NC"
+  },
+  {
     "ip_address": "172.225.231.224/28",
     "ip_type": "IPv4",
     "region": "NC"
@@ -101,6 +106,21 @@
   },
   {
     "ip_address": "2a02:26f7:fb81:4000::/64",
+    "ip_type": "IPv6",
+    "region": "NC"
+  },
+  {
+    "ip_address": "2a02:26f7:fb82:4000::/64",
+    "ip_type": "IPv6",
+    "region": "NC"
+  },
+  {
+    "ip_address": "2a02:26f7:fb82:c5e0::/64",
+    "ip_type": "IPv6",
+    "region": "NC"
+  },
+  {
+    "ip_address": "2a02:26f7:fb83:4000::/64",
     "ip_type": "IPv6",
     "region": "NC"
   },

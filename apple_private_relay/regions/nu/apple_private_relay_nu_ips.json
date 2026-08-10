@@ -75,6 +75,11 @@
     "region": "NU"
   },
   {
+    "ip_address": "172.225.175.176/28",
+    "ip_type": "IPv4",
+    "region": "NU"
+  },
+  {
     "ip_address": "172.225.230.208/28",
     "ip_type": "IPv4",
     "region": "NU"
@@ -106,6 +111,21 @@
   },
   {
     "ip_address": "2a02:26f7:f481:4000::/64",
+    "ip_type": "IPv6",
+    "region": "NU"
+  },
+  {
+    "ip_address": "2a02:26f7:f482:4000::/64",
+    "ip_type": "IPv6",
+    "region": "NU"
+  },
+  {
+    "ip_address": "2a02:26f7:f482:c660::/64",
+    "ip_type": "IPv6",
+    "region": "NU"
+  },
+  {
+    "ip_address": "2a02:26f7:f483:4000::/64",
     "ip_type": "IPv6",
     "region": "NU"
   },

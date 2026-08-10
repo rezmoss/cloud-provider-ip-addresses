@@ -525,6 +525,11 @@
     "region": "US-US-MN"
   },
   {
+    "ip_address": "64.177.8.0/21",
+    "ip_type": "IPv4",
+    "region": "US-IL"
+  },
+  {
     "ip_address": "64.177.64.0/20",
     "ip_type": "IPv4",
     "region": "IL-Tel Aviv"

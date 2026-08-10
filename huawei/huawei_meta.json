@@ -1,7 +1,7 @@
 {
   "provider": "huawei",
   "version": 19,
-  "generated_date": "2026-08-09",
+  "generated_date": "2026-08-10",
   "last_changed_date": "2026-08-07",
   "sources": [
     "BGP announced prefixes via RIPE NCC RIPEstat"

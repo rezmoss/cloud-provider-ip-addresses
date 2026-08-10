@@ -30,6 +30,11 @@
     "region": "WS"
   },
   {
+    "ip_address": "172.225.157.96/28",
+    "ip_type": "IPv4",
+    "region": "WS"
+  },
+  {
     "ip_address": "172.225.231.144/28",
     "ip_type": "IPv4",
     "region": "WS"
@@ -86,6 +91,21 @@
   },
   {
     "ip_address": "2a02:26f7:f185:4000::/64",
+    "ip_type": "IPv6",
+    "region": "WS"
+  },
+  {
+    "ip_address": "2a02:26f7:f186:4000::/64",
+    "ip_type": "IPv6",
+    "region": "WS"
+  },
+  {
+    "ip_address": "2a02:26f7:f186:c980::/64",
+    "ip_type": "IPv6",
+    "region": "WS"
+  },
+  {
+    "ip_address": "2a02:26f7:f187:4000::/64",
     "ip_type": "IPv6",
     "region": "WS"
   },

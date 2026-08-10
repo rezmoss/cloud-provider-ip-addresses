@@ -40,6 +40,11 @@
     "region": "NR"
   },
   {
+    "ip_address": "172.225.175.160/28",
+    "ip_type": "IPv4",
+    "region": "NR"
+  },
+  {
     "ip_address": "172.225.230.192/28",
     "ip_type": "IPv4",
     "region": "NR"
@@ -71,6 +76,21 @@
   },
   {
     "ip_address": "2a02:26f7:f4c1:4000::/64",
+    "ip_type": "IPv6",
+    "region": "NR"
+  },
+  {
+    "ip_address": "2a02:26f7:f4c2:4000::/64",
+    "ip_type": "IPv6",
+    "region": "NR"
+  },
+  {
+    "ip_address": "2a02:26f7:f4c2:c640::/64",
+    "ip_type": "IPv6",
+    "region": "NR"
+  },
+  {
+    "ip_address": "2a02:26f7:f4c3:4000::/64",
     "ip_type": "IPv6",
     "region": "NR"
   },

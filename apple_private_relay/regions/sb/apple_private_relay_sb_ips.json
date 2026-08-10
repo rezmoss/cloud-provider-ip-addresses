@@ -25,6 +25,11 @@
     "region": "SB"
   },
   {
+    "ip_address": "172.225.157.0/28",
+    "ip_type": "IPv4",
+    "region": "SB"
+  },
+  {
     "ip_address": "172.225.231.48/28",
     "ip_type": "IPv4",
     "region": "SB"
@@ -46,6 +51,21 @@
   },
   {
     "ip_address": "2a02:26f7:f301:4000::/64",
+    "ip_type": "IPv6",
+    "region": "SB"
+  },
+  {
+    "ip_address": "2a02:26f7:f302:4000::/64",
+    "ip_type": "IPv6",
+    "region": "SB"
+  },
+  {
+    "ip_address": "2a02:26f7:f302:c720::/64",
+    "ip_type": "IPv6",
+    "region": "SB"
+  },
+  {
+    "ip_address": "2a02:26f7:f303:4000::/64",
     "ip_type": "IPv6",
     "region": "SB"
   },

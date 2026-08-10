@@ -75,6 +75,11 @@
     "region": "NF"
   },
   {
+    "ip_address": "172.225.175.144/28",
+    "ip_type": "IPv4",
+    "region": "NF"
+  },
+  {
     "ip_address": "172.225.230.176/28",
     "ip_type": "IPv4",
     "region": "NF"
@@ -106,6 +111,21 @@
   },
   {
     "ip_address": "2a02:26f7:f501:4000::/64",
+    "ip_type": "IPv6",
+    "region": "NF"
+  },
+  {
+    "ip_address": "2a02:26f7:f502:4000::/64",
+    "ip_type": "IPv6",
+    "region": "NF"
+  },
+  {
+    "ip_address": "2a02:26f7:f502:c620::/64",
+    "ip_type": "IPv6",
+    "region": "NF"
+  },
+  {
+    "ip_address": "2a02:26f7:f503:4000::/64",
     "ip_type": "IPv6",
     "region": "NF"
   },
