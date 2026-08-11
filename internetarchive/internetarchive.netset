@@ -1,0 +1,17 @@
+# internetarchive IP ranges - ipset restore format (hash:net)
+# Version: 1 | Generated: 2026-08-11 | Last changed: 2026-08-11
+# IPv4: 4 merged subnets, 7168 unique IPs
+# IPv6: 1 merged subnets
+# Source: https://github.com/rezmoss/cloud-provider-ip-addresses
+# License: CC0-1.0 | Updated daily at 02:00 UTC
+# Load with: sudo ipset restore -! < internetarchive.netset
+#
+create internetarchive_v4 hash:net family inet hashsize 4096 maxelem 1048576 -exist
+flush internetarchive_v4
+add internetarchive_v4 204.62.246.0/23
+add internetarchive_v4 204.62.248.0/23
+add internetarchive_v4 207.241.224.0/20
+add internetarchive_v4 208.70.24.0/21
+create internetarchive_v6 hash:net family inet6 hashsize 4096 maxelem 1048576 -exist
+flush internetarchive_v6
+add internetarchive_v6 2620:0:9c0::/48

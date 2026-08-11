@@ -1,0 +1,44 @@
+[
+  {
+    "ip_address": "207.241.224.0/20",
+    "ip_type": "IPv4",
+    "service": "internetarchive-as7941",
+    "region": "global"
+  },
+  {
+    "ip_address": "207.241.224.0/24",
+    "ip_type": "IPv4",
+    "service": "internetarchive-as7941",
+    "region": "global"
+  },
+  {
+    "ip_address": "207.241.231.0/24",
+    "ip_type": "IPv4",
+    "service": "internetarchive-as7941",
+    "region": "global"
+  },
+  {
+    "ip_address": "207.241.234.0/24",
+    "ip_type": "IPv4",
+    "service": "internetarchive-as7941",
+    "region": "global"
+  },
+  {
+    "ip_address": "207.241.237.0/24",
+    "ip_type": "IPv4",
+    "service": "internetarchive-as7941",
+    "region": "global"
+  },
+  {
+    "ip_address": "208.70.24.0/21",
+    "ip_type": "IPv4",
+    "service": "internetarchive-as7941",
+    "region": "global"
+  },
+  {
+    "ip_address": "2620:0:9c0::/48",
+    "ip_type": "IPv6",
+    "service": "internetarchive-as7941",
+    "region": "global"
+  }
+]

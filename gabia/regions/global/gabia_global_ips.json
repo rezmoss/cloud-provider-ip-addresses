@@ -12,6 +12,12 @@
     "region": "global"
   },
   {
+    "ip_address": "1.201.227.0/24",
+    "ip_type": "IPv4",
+    "service": "gabia-as17589",
+    "region": "global"
+  },
+  {
     "ip_address": "103.240.48.0/22",
     "ip_type": "IPv4",
     "service": "gabia-as17589",

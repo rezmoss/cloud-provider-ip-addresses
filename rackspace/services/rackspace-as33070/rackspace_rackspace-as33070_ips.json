@@ -534,12 +534,6 @@
     "region": "global"
   },
   {
-    "ip_address": "199.253.207.0/24",
-    "ip_type": "IPv4",
-    "service": "rackspace-as33070",
-    "region": "global"
-  },
-  {
     "ip_address": "204.107.168.0/24",
     "ip_type": "IPv4",
     "service": "rackspace-as33070",

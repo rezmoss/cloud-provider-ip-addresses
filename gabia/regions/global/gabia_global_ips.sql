@@ -8,6 +8,7 @@ CREATE TABLE IF NOT EXISTS `gabia_global_ips` (
 
 INSERT INTO `gabia_global_ips` (`ip_address`, `ip_type`) VALUES ('1.201.224.0/24', 'IPv4');
 INSERT INTO `gabia_global_ips` (`ip_address`, `ip_type`) VALUES ('1.201.225.0/24', 'IPv4');
+INSERT INTO `gabia_global_ips` (`ip_address`, `ip_type`) VALUES ('1.201.227.0/24', 'IPv4');
 INSERT INTO `gabia_global_ips` (`ip_address`, `ip_type`) VALUES ('103.240.48.0/22', 'IPv4');
 INSERT INTO `gabia_global_ips` (`ip_address`, `ip_type`) VALUES ('121.78.79.0/24', 'IPv4');
 INSERT INTO `gabia_global_ips` (`ip_address`, `ip_type`) VALUES ('121.78.87.0/24', 'IPv4');

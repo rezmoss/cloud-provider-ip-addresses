@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-10T03:00:15.194637",
-  "provider_count": 63,
-  "total_ipv4_addresses": 447384951,
-  "total_ipv6_addresses": 5506701869183058439542141133307020,
-  "ipv4_space_coverage_pct": 10.4165,
+  "generated": "2026-08-11T02:55:47.130668",
+  "provider_count": 64,
+  "total_ipv4_addresses": 447653195,
+  "total_ipv6_addresses": 5506701869183058439542141133307023,
+  "ipv4_space_coverage_pct": 10.4227,
   "providers": {
     "cloudflare": {
       "ipv4_cidrs": 15,
@@ -15,10 +15,10 @@
       "regions": 0
     },
     "aws": {
-      "ipv4_cidrs": 10612,
+      "ipv4_cidrs": 10614,
       "ipv6_cidrs": 6091,
-      "total_cidrs": 16703,
-      "ipv4_addresses": 185207782,
+      "total_cidrs": 16705,
+      "ipv4_addresses": 185469926,
       "ipv6_addresses": 3352560797666726005670208864269,
       "services": 27,
       "regions": 43
@@ -114,10 +114,10 @@
       "regions": 0
     },
     "gptbot": {
-      "ipv4_cidrs": 314,
+      "ipv4_cidrs": 312,
       "ipv6_cidrs": 0,
-      "total_cidrs": 314,
-      "ipv4_addresses": 42848,
+      "total_cidrs": 312,
+      "ipv4_addresses": 42816,
       "ipv6_addresses": 0,
       "services": 3,
       "regions": 0
@@ -339,28 +339,28 @@
       "regions": 1
     },
     "akamai": {
-      "ipv4_cidrs": 8010,
-      "ipv6_cidrs": 3031,
-      "total_cidrs": 11041,
-      "ipv4_addresses": 21801424,
-      "ipv6_addresses": 23779616825352468111725151911936,
+      "ipv4_cidrs": 8004,
+      "ipv6_cidrs": 3030,
+      "total_cidrs": 11034,
+      "ipv4_addresses": 21799632,
+      "ipv6_addresses": 23779615616426648497095977205760,
       "services": 17,
       "regions": 1
     },
     "leaseweb": {
-      "ipv4_cidrs": 1700,
+      "ipv4_cidrs": 1698,
       "ipv6_cidrs": 382,
-      "total_cidrs": 2082,
-      "ipv4_addresses": 2411776,
+      "total_cidrs": 2080,
+      "ipv4_addresses": 2411264,
       "ipv6_addresses": 98471884814367871693908799913984,
       "services": 18,
       "regions": 1
     },
     "rackspace": {
-      "ipv4_cidrs": 312,
+      "ipv4_cidrs": 311,
       "ipv6_cidrs": 14,
-      "total_cidrs": 326,
-      "ipv4_addresses": 2298880,
+      "total_cidrs": 325,
+      "ipv4_addresses": 2298624,
       "ipv6_addresses": 876501442366096517391345254400,
       "services": 15,
       "regions": 1
@@ -402,20 +402,20 @@
       "regions": 1
     },
     "tor": {
-      "ipv4_cidrs": 1399,
+      "ipv4_cidrs": 1384,
       "ipv6_cidrs": 0,
-      "total_cidrs": 1399,
-      "ipv4_addresses": 1399,
+      "total_cidrs": 1384,
+      "ipv4_addresses": 1384,
       "ipv6_addresses": 0,
       "services": 1,
       "regions": 1
     },
     "mullvad": {
-      "ipv4_cidrs": 580,
-      "ipv6_cidrs": 570,
-      "total_cidrs": 1150,
-      "ipv4_addresses": 580,
-      "ipv6_addresses": 570,
+      "ipv4_cidrs": 583,
+      "ipv6_cidrs": 573,
+      "total_cidrs": 1156,
+      "ipv4_addresses": 583,
+      "ipv6_addresses": 573,
       "services": 2,
       "regions": 50
     },
@@ -474,10 +474,10 @@
       "regions": 0
     },
     "zoho": {
-      "ipv4_cidrs": 163,
+      "ipv4_cidrs": 164,
       "ipv6_cidrs": 22,
-      "total_cidrs": 185,
-      "ipv4_addresses": 86528,
+      "total_cidrs": 186,
+      "ipv4_addresses": 86784,
       "ipv6_addresses": 79270474917950849614658666496,
       "services": 9,
       "regions": 1
@@ -555,10 +555,10 @@
       "regions": 1
     },
     "gabia": {
-      "ipv4_cidrs": 97,
+      "ipv4_cidrs": 98,
       "ipv6_cidrs": 0,
-      "total_cidrs": 97,
-      "ipv4_addresses": 40704,
+      "total_cidrs": 98,
+      "ipv4_addresses": 40960,
       "ipv6_addresses": 0,
       "services": 1,
       "regions": 1
@@ -570,6 +570,15 @@
       "ipv4_addresses": 4096,
       "ipv6_addresses": 41103477866897391940009984,
       "services": 1,
+      "regions": 1
+    },
+    "internetarchive": {
+      "ipv4_cidrs": 8,
+      "ipv6_cidrs": 1,
+      "total_cidrs": 9,
+      "ipv4_addresses": 8192,
+      "ipv6_addresses": 1208925819614629174706176,
+      "services": 2,
       "regions": 1
     }
   }

@@ -1116,6 +1116,12 @@
     "region": "eu-north-1"
   },
   {
+    "ip_address": "86.112.0.0/15",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "eu-north-1"
+  },
+  {
     "ip_address": "96.0.24.0/21",
     "ip_type": "IPv4",
     "service": "AMAZON",

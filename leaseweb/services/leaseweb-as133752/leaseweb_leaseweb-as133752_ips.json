@@ -102,12 +102,6 @@
     "region": "global"
   },
   {
-    "ip_address": "103.133.190.0/24",
-    "ip_type": "IPv4",
-    "service": "leaseweb-as133752",
-    "region": "global"
-  },
-  {
     "ip_address": "103.138.32.0/24",
     "ip_type": "IPv4",
     "service": "leaseweb-as133752",

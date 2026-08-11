@@ -402,24 +402,6 @@
     "region": "global"
   },
   {
-    "ip_address": "2a0c:9240::/29",
-    "ip_type": "IPv6",
-    "service": "leaseweb-as32613",
-    "region": "global"
-  },
-  {
-    "ip_address": "2a0d:2ac0::/29",
-    "ip_type": "IPv6",
-    "service": "leaseweb-as32613",
-    "region": "global"
-  },
-  {
-    "ip_address": "2a0e:5800::/29",
-    "ip_type": "IPv6",
-    "service": "leaseweb-as32613",
-    "region": "global"
-  },
-  {
     "ip_address": "2a0f:e8c0::/29",
     "ip_type": "IPv6",
     "service": "leaseweb-as32613",

@@ -1,0 +1,10 @@
+ip_address,ip_type,service,region
+204.62.246.0/23,IPv4,internetarchive-as399784,global
+204.62.248.0/23,IPv4,internetarchive-as399784,global
+207.241.224.0/20,IPv4,internetarchive-as7941,global
+207.241.224.0/24,IPv4,internetarchive-as7941,global
+207.241.231.0/24,IPv4,internetarchive-as7941,global
+207.241.234.0/24,IPv4,internetarchive-as7941,global
+207.241.237.0/24,IPv4,internetarchive-as7941,global
+208.70.24.0/21,IPv4,internetarchive-as7941,global
+2620:0:9c0::/48,IPv6,internetarchive-as7941,global

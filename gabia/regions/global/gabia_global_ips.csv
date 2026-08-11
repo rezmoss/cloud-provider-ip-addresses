@@ -1,6 +1,7 @@
 ip_address,ip_type,service,region
 1.201.224.0/24,IPv4,gabia-as17589,global
 1.201.225.0/24,IPv4,gabia-as17589,global
+1.201.227.0/24,IPv4,gabia-as17589,global
 103.240.48.0/22,IPv4,gabia-as17589,global
 121.78.79.0/24,IPv4,gabia-as17589,global
 121.78.87.0/24,IPv4,gabia-as17589,global
