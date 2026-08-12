@@ -3840,6 +3840,12 @@
     "region": "us-west-2"
   },
   {
+    "ip_address": "184.40.0.0/13",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-west-2"
+  },
+  {
     "ip_address": "198.41.105.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",

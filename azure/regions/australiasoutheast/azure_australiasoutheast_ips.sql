@@ -483,7 +483,7 @@ INSERT INTO `azure_australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('52
 INSERT INTO `azure_australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('52.255.58.221/32', 'IPv4');
 INSERT INTO `azure_australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('57.157.168.0/27', 'IPv4');
 INSERT INTO `azure_australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('57.157.168.32/28', 'IPv4');
-INSERT INTO `azure_australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('57.157.168.48/31', 'IPv4');
+INSERT INTO `azure_australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('57.157.168.48/30', 'IPv4');
 INSERT INTO `azure_australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('57.163.56.0/23', 'IPv4');
 INSERT INTO `azure_australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('57.163.56.0/23', 'IPv4');
 INSERT INTO `azure_australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('68.218.160.0/19', 'IPv4');

@@ -4002,7 +4002,7 @@
     "region": "centralus"
   },
   {
-    "ip_address": "40.120.167.100/31",
+    "ip_address": "40.120.167.100/30",
     "ip_type": "IPv4",
     "service": "AzureCloud.centralus",
     "region": "centralus"
@@ -7758,6 +7758,12 @@
     "region": "centralus"
   },
   {
+    "ip_address": "172.131.0.0/17",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.centralus",
+    "region": "centralus"
+  },
+  {
     "ip_address": "172.168.0.0/15",
     "ip_type": "IPv4",
     "service": "AzureCloud.centralus",
@@ -9066,7 +9072,7 @@
     "region": "centralus"
   },
   {
-    "ip_address": "2603:1030:9:348::/64",
+    "ip_address": "2603:1030:9:348::/63",
     "ip_type": "IPv6",
     "service": "AzureCloud.centralus",
     "region": "centralus"

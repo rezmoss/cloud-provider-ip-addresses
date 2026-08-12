@@ -166,7 +166,6 @@ ip_address,ip_type,service,region
 2600:140b:e800::/48,IPv6,akamai-as24319,global
 2600:140e:2::/48,IPv6,akamai-as24319,global
 2600:140f:f800::/48,IPv6,akamai-as24319,global
-2600:1411:1::/48,IPv6,akamai-as24319,global
 2600:1413:1000::/48,IPv6,akamai-as24319,global
 2600:1413:3000::/48,IPv6,akamai-as24319,global
 2600:1413:8000::/48,IPv6,akamai-as24319,global

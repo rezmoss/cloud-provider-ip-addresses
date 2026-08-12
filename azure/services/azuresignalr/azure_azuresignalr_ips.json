@@ -702,6 +702,12 @@
     "region": ""
   },
   {
+    "ip_address": "172.129.95.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureSignalR",
+    "region": ""
+  },
+  {
     "ip_address": "172.184.37.192/27",
     "ip_type": "IPv4",
     "service": "AzureSignalR",
@@ -901,6 +907,12 @@
   },
   {
     "ip_address": "2603:1020:1502:4::380/122",
+    "ip_type": "IPv6",
+    "service": "AzureSignalR",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:1701:4::480/122",
     "ip_type": "IPv6",
     "service": "AzureSignalR",
     "region": ""

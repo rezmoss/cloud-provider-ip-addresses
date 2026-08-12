@@ -5633,7 +5633,7 @@ INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('40.120.167
 INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('40.120.167.80/28', 'IPv4');
 INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('40.120.167.96/31', 'IPv4');
 INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('40.120.167.98/31', 'IPv4');
-INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('40.120.167.100/31', 'IPv4');
+INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('40.120.167.100/30', 'IPv4');
 INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('40.120.167.106/31', 'IPv4');
 INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('40.120.167.108/30', 'IPv4');
 INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('40.120.167.112/28', 'IPv4');
@@ -5773,7 +5773,7 @@ INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('40.123.145
 INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('40.123.145.244/30', 'IPv4');
 INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('40.123.145.248/29', 'IPv4');
 INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('40.123.146.0/29', 'IPv4');
-INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('40.123.146.8/31', 'IPv4');
+INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('40.123.146.8/30', 'IPv4');
 INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('40.123.146.14/31', 'IPv4');
 INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('40.123.146.16/29', 'IPv4');
 INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('40.123.146.24/31', 'IPv4');
@@ -9551,6 +9551,7 @@ INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('57.157.24.
 INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('57.157.25.0/25', 'IPv4');
 INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('57.157.25.128/28', 'IPv4');
 INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('57.157.25.144/30', 'IPv4');
+INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('57.157.25.148/31', 'IPv4');
 INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('57.157.28.0/25', 'IPv4');
 INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('57.157.28.128/26', 'IPv4');
 INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('57.157.28.192/29', 'IPv4');
@@ -9669,6 +9670,7 @@ INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('57.157.65.
 INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('57.157.65.128/26', 'IPv4');
 INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('57.157.65.192/28', 'IPv4');
 INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('57.157.65.208/29', 'IPv4');
+INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('57.157.65.216/31', 'IPv4');
 INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('57.157.68.0/23', 'IPv4');
 INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('57.157.70.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('57.157.71.0/28', 'IPv4');
@@ -9725,7 +9727,7 @@ INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('57.157.156
 INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('57.157.156.48/31', 'IPv4');
 INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('57.157.168.0/27', 'IPv4');
 INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('57.157.168.32/28', 'IPv4');
-INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('57.157.168.48/31', 'IPv4');
+INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('57.157.168.48/30', 'IPv4');
 INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('57.158.0.0/17', 'IPv4');
 INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('57.158.128.0/18', 'IPv4');
 INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('57.159.0.0/17', 'IPv4');
@@ -10995,6 +10997,9 @@ INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('168.63.192
 INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('168.63.224.0/19', 'IPv4');
 INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('172.128.0.0/17', 'IPv4');
 INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('172.129.0.0/17', 'IPv4');
+INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('172.129.128.0/17', 'IPv4');
+INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('172.130.0.0/17', 'IPv4');
+INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('172.131.0.0/17', 'IPv4');
 INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('172.160.0.0/16', 'IPv4');
 INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('172.161.0.0/16', 'IPv4');
 INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('172.162.0.0/16', 'IPv4');
@@ -11780,7 +11785,7 @@ INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:
 INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:9:33c::/64', 'IPv6');
 INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:9:345::/64', 'IPv6');
 INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:9:346::/63', 'IPv6');
-INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:9:348::/64', 'IPv6');
+INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:9:348::/63', 'IPv6');
 INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:9:34b::/64', 'IPv6');
 INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:9:34c::/62', 'IPv6');
 INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:9:350::/64', 'IPv6');
@@ -12461,7 +12466,7 @@ INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:
 INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:401:580::/61', 'IPv6');
 INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:401:588::/64', 'IPv6');
 INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:401:58b::/64', 'IPv6');
-INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:401:58c::/64', 'IPv6');
+INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:401:58c::/63', 'IPv6');
 INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:401:58e::/64', 'IPv6');
 INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:401:590::/64', 'IPv6');
 INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:401:592::/64', 'IPv6');
@@ -13640,9 +13645,7 @@ INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:
 INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1019:d8::/64', 'IPv6');
 INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:101a::/57', 'IPv6');
 INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:101a:80::/58', 'IPv6');
-INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:101a:c0::/62', 'IPv6');
-INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:101a:c4::/63', 'IPv6');
-INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:101a:c6::/64', 'IPv6');
+INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:101a:c0::/61', 'IPv6');
 INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:101b::/58', 'IPv6');
 INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:101b:40::/59', 'IPv6');
 INSERT INTO `azure_azurecloud_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:101b:60::/61', 'IPv6');

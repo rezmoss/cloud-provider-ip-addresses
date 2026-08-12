@@ -11,7 +11,6 @@ INSERT INTO `meta_ips` (`ip_address`, `ip_type`) VALUES ('31.13.64.0/18', 'IPv4'
 INSERT INTO `meta_ips` (`ip_address`, `ip_type`) VALUES ('31.13.64.0/24', 'IPv4');
 INSERT INTO `meta_ips` (`ip_address`, `ip_type`) VALUES ('31.13.66.0/24', 'IPv4');
 INSERT INTO `meta_ips` (`ip_address`, `ip_type`) VALUES ('31.13.69.0/24', 'IPv4');
-INSERT INTO `meta_ips` (`ip_address`, `ip_type`) VALUES ('31.13.70.0/24', 'IPv4');
 INSERT INTO `meta_ips` (`ip_address`, `ip_type`) VALUES ('31.13.71.0/24', 'IPv4');
 INSERT INTO `meta_ips` (`ip_address`, `ip_type`) VALUES ('31.13.72.0/24', 'IPv4');
 INSERT INTO `meta_ips` (`ip_address`, `ip_type`) VALUES ('31.13.73.0/24', 'IPv4');
@@ -236,7 +235,6 @@ INSERT INTO `meta_ips` (`ip_address`, `ip_type`) VALUES ('129.134.190.0/24', 'IP
 INSERT INTO `meta_ips` (`ip_address`, `ip_type`) VALUES ('129.134.191.0/24', 'IPv4');
 INSERT INTO `meta_ips` (`ip_address`, `ip_type`) VALUES ('129.134.194.0/24', 'IPv4');
 INSERT INTO `meta_ips` (`ip_address`, `ip_type`) VALUES ('129.134.195.0/24', 'IPv4');
-INSERT INTO `meta_ips` (`ip_address`, `ip_type`) VALUES ('129.134.196.0/24', 'IPv4');
 INSERT INTO `meta_ips` (`ip_address`, `ip_type`) VALUES ('129.134.197.0/24', 'IPv4');
 INSERT INTO `meta_ips` (`ip_address`, `ip_type`) VALUES ('157.240.0.0/17', 'IPv4');
 INSERT INTO `meta_ips` (`ip_address`, `ip_type`) VALUES ('157.240.0.0/24', 'IPv4');
@@ -763,7 +761,6 @@ INSERT INTO `meta_ips` (`ip_address`, `ip_type`) VALUES ('2a03:2887:ff6f::/48', 
 INSERT INTO `meta_ips` (`ip_address`, `ip_type`) VALUES ('2a03:2887:ff70::/48', 'IPv6');
 INSERT INTO `meta_ips` (`ip_address`, `ip_type`) VALUES ('2a03:2887:ff71::/48', 'IPv6');
 INSERT INTO `meta_ips` (`ip_address`, `ip_type`) VALUES ('2a03:2887:ff72::/48', 'IPv6');
-INSERT INTO `meta_ips` (`ip_address`, `ip_type`) VALUES ('2a03:2887:ff73::/48', 'IPv6');
 INSERT INTO `meta_ips` (`ip_address`, `ip_type`) VALUES ('2c0f:ef78:3::/48', 'IPv6');
 INSERT INTO `meta_ips` (`ip_address`, `ip_type`) VALUES ('2c0f:ef78:5::/48', 'IPv6');
 INSERT INTO `meta_ips` (`ip_address`, `ip_type`) VALUES ('2c0f:ef78:9::/48', 'IPv6');

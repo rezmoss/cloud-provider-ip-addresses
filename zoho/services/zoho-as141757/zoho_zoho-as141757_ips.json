@@ -36,6 +36,12 @@
     "region": "global"
   },
   {
+    "ip_address": "199.67.71.0/24",
+    "ip_type": "IPv4",
+    "service": "zoho-as141757",
+    "region": "global"
+  },
+  {
     "ip_address": "2400:b3e0:2::/47",
     "ip_type": "IPv6",
     "service": "zoho-as141757",

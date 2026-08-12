@@ -11,7 +11,6 @@ INSERT INTO `meta_meta-as32934_ips` (`ip_address`, `ip_type`) VALUES ('31.13.64.
 INSERT INTO `meta_meta-as32934_ips` (`ip_address`, `ip_type`) VALUES ('31.13.64.0/24', 'IPv4');
 INSERT INTO `meta_meta-as32934_ips` (`ip_address`, `ip_type`) VALUES ('31.13.66.0/24', 'IPv4');
 INSERT INTO `meta_meta-as32934_ips` (`ip_address`, `ip_type`) VALUES ('31.13.69.0/24', 'IPv4');
-INSERT INTO `meta_meta-as32934_ips` (`ip_address`, `ip_type`) VALUES ('31.13.70.0/24', 'IPv4');
 INSERT INTO `meta_meta-as32934_ips` (`ip_address`, `ip_type`) VALUES ('31.13.71.0/24', 'IPv4');
 INSERT INTO `meta_meta-as32934_ips` (`ip_address`, `ip_type`) VALUES ('31.13.72.0/24', 'IPv4');
 INSERT INTO `meta_meta-as32934_ips` (`ip_address`, `ip_type`) VALUES ('31.13.73.0/24', 'IPv4');

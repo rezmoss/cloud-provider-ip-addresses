@@ -6,6 +6,9 @@ CREATE TABLE IF NOT EXISTS `azure_azuredeviceupdate_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('4.182.154.160/28', 'IPv4');
+INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('4.229.82.144/28', 'IPv4');
+INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('4.248.140.192/27', 'IPv4');
 INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('20.37.71.192/28', 'IPv4');
 INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('20.38.143.224/28', 'IPv4');
 INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('20.40.229.32/28', 'IPv4');
@@ -15,6 +18,7 @@ INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('20.
 INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('20.47.236.192/26', 'IPv4');
 INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('20.47.237.128/26', 'IPv4');
 INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('20.48.196.112/28', 'IPv4');
+INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('20.48.197.192/28', 'IPv4');
 INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('20.49.119.192/28', 'IPv4');
 INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('20.51.7.64/26', 'IPv4');
 INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('20.51.12.64/26', 'IPv4');
@@ -77,9 +81,12 @@ INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('20.
 INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('20.205.67.192/26', 'IPv4');
 INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('20.211.71.192/26', 'IPv4');
 INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('20.212.79.64/26', 'IPv4');
+INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('20.218.48.224/28', 'IPv4');
 INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('20.223.64.64/26', 'IPv4');
 INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('20.228.1.0/26', 'IPv4');
 INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('40.67.53.144/28', 'IPv4');
+INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('48.210.103.32/27', 'IPv4');
+INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('48.210.112.80/28', 'IPv4');
 INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('51.12.46.112/28', 'IPv4');
 INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('51.12.74.192/26', 'IPv4');
 INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('51.12.198.96/28', 'IPv4');
@@ -87,6 +94,7 @@ INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('51.
 INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('51.107.242.112/28', 'IPv4');
 INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('51.107.250.224/28', 'IPv4');
 INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('51.116.54.160/28', 'IPv4');
+INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('51.116.55.192/27', 'IPv4');
 INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('51.116.149.192/28', 'IPv4');
 INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('51.120.233.80/28', 'IPv4');
 INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('51.138.210.80/28', 'IPv4');
@@ -97,9 +105,13 @@ INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('52.
 INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('52.146.141.64/26', 'IPv4');
 INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('52.147.112.192/28', 'IPv4');
 INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('52.172.113.176/28', 'IPv4');
+INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('72.144.227.32/27', 'IPv4');
 INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('102.37.80.176/28', 'IPv4');
 INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('102.37.160.128/28', 'IPv4');
 INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('104.46.179.224/28', 'IPv4');
+INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('145.191.168.224/27', 'IPv4');
+INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('172.192.226.48/28', 'IPv4');
+INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('172.192.227.96/27', 'IPv4');
 INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('191.233.15.240/28', 'IPv4');
 INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('191.234.142.240/28', 'IPv4');
 INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('2603:1000:4:2::5d0/124', 'IPv6');

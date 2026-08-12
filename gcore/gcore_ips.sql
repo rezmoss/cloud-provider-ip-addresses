@@ -740,6 +740,7 @@ INSERT INTO `gcore_ips` (`ip_address`, `ip_type`) VALUES ('93.174.165.11/32', 'I
 INSERT INTO `gcore_ips` (`ip_address`, `ip_type`) VALUES ('93.174.165.12/32', 'IPv4');
 INSERT INTO `gcore_ips` (`ip_address`, `ip_type`) VALUES ('93.174.165.13/32', 'IPv4');
 INSERT INTO `gcore_ips` (`ip_address`, `ip_type`) VALUES ('93.174.165.14/32', 'IPv4');
+INSERT INTO `gcore_ips` (`ip_address`, `ip_type`) VALUES ('93.174.165.15/32', 'IPv4');
 INSERT INTO `gcore_ips` (`ip_address`, `ip_type`) VALUES ('93.174.165.16/32', 'IPv4');
 INSERT INTO `gcore_ips` (`ip_address`, `ip_type`) VALUES ('93.174.165.17/32', 'IPv4');
 INSERT INTO `gcore_ips` (`ip_address`, `ip_type`) VALUES ('93.174.165.18/32', 'IPv4');
@@ -849,6 +850,7 @@ INSERT INTO `gcore_ips` (`ip_address`, `ip_type`) VALUES ('168.232.103.194/32', 
 INSERT INTO `gcore_ips` (`ip_address`, `ip_type`) VALUES ('168.232.103.195/32', 'IPv4');
 INSERT INTO `gcore_ips` (`ip_address`, `ip_type`) VALUES ('169.239.158.154/32', 'IPv4');
 INSERT INTO `gcore_ips` (`ip_address`, `ip_type`) VALUES ('170.238.234.217/32', 'IPv4');
+INSERT INTO `gcore_ips` (`ip_address`, `ip_type`) VALUES ('176.222.182.186/32', 'IPv4');
 INSERT INTO `gcore_ips` (`ip_address`, `ip_type`) VALUES ('176.222.187.180/32', 'IPv4');
 INSERT INTO `gcore_ips` (`ip_address`, `ip_type`) VALUES ('176.222.189.242/32', 'IPv4');
 INSERT INTO `gcore_ips` (`ip_address`, `ip_type`) VALUES ('179.51.50.82/32', 'IPv4');
@@ -1041,6 +1043,7 @@ INSERT INTO `gcore_ips` (`ip_address`, `ip_type`) VALUES ('2a00:f500:c:3::34/128
 INSERT INTO `gcore_ips` (`ip_address`, `ip_type`) VALUES ('2a00:fc00:1:1055::2/128', 'IPv6');
 INSERT INTO `gcore_ips` (`ip_address`, `ip_type`) VALUES ('2a01:410:1:5024::1/128', 'IPv6');
 INSERT INTO `gcore_ips` (`ip_address`, `ip_type`) VALUES ('2a01:4b40:1:19::2/128', 'IPv6');
+INSERT INTO `gcore_ips` (`ip_address`, `ip_type`) VALUES ('2a01:4b40:801:19::2/128', 'IPv6');
 INSERT INTO `gcore_ips` (`ip_address`, `ip_type`) VALUES ('2a01:4b40:1001:c::3/128', 'IPv6');
 INSERT INTO `gcore_ips` (`ip_address`, `ip_type`) VALUES ('2a01:68c0:0:1:ffff::21/128', 'IPv6');
 INSERT INTO `gcore_ips` (`ip_address`, `ip_type`) VALUES ('2a01:68c0:0:1:ffff::22/128', 'IPv6');
@@ -1810,6 +1813,7 @@ INSERT INTO `gcore_ips` (`ip_address`, `ip_type`) VALUES ('2a03:90c0:781:2801::1
 INSERT INTO `gcore_ips` (`ip_address`, `ip_type`) VALUES ('2a03:90c0:781:2801::12/128', 'IPv6');
 INSERT INTO `gcore_ips` (`ip_address`, `ip_type`) VALUES ('2a03:90c0:781:2801::13/128', 'IPv6');
 INSERT INTO `gcore_ips` (`ip_address`, `ip_type`) VALUES ('2a03:90c0:781:2801::14/128', 'IPv6');
+INSERT INTO `gcore_ips` (`ip_address`, `ip_type`) VALUES ('2a03:90c0:781:2801::15/128', 'IPv6');
 INSERT INTO `gcore_ips` (`ip_address`, `ip_type`) VALUES ('2a03:90c0:781:2801::16/128', 'IPv6');
 INSERT INTO `gcore_ips` (`ip_address`, `ip_type`) VALUES ('2a03:90c0:781:2801::17/128', 'IPv6');
 INSERT INTO `gcore_ips` (`ip_address`, `ip_type`) VALUES ('2a03:90c0:781:2801::18/128', 'IPv6');

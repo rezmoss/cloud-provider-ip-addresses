@@ -30,12 +30,6 @@
     "region": "global"
   },
   {
-    "ip_address": "31.13.70.0/24",
-    "ip_type": "IPv4",
-    "service": "meta-as32934",
-    "region": "global"
-  },
-  {
     "ip_address": "31.13.71.0/24",
     "ip_type": "IPv4",
     "service": "meta-as32934",

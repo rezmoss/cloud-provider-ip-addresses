@@ -1096,6 +1096,7 @@ ip_address,ip_type,service,region
 4.182.141.176/28,IPv4,DataFactoryManagement,
 4.182.146.64/27,IPv4,SystemServiceAzureSpringAppsResourceProvider,
 4.182.146.248/30,IPv4,MicrosoftPurviewPolicyDistribution,
+4.182.154.160/28,IPv4,AzureDeviceUpdate,
 4.183.0.0/16,IPv4,AzureCloud,
 4.183.0.0/16,IPv4,AzureCloud.koreacentral,koreacentral
 4.184.0.0/20,IPv4,AzureCloud,
@@ -3121,6 +3122,7 @@ ip_address,ip_type,service,region
 4.229.81.128/27,IPv4,SCCservice,
 4.229.81.128/27,IPv4,SCCservice.CanadaEast,canadaeast
 4.229.82.128/30,IPv4,M365ManagementActivityApiWebhook,
+4.229.82.144/28,IPv4,AzureDeviceUpdate,
 4.229.89.40/29,IPv4,AzureDatabricks,
 4.229.91.0/25,IPv4,AzureContainerRegistry,
 4.229.91.0/25,IPv4,AzureContainerRegistry.CanadaEast,canadaeast
@@ -4178,6 +4180,7 @@ ip_address,ip_type,service,region
 4.248.139.152/32,IPv4,AzureHealthcareAPIs,
 4.248.139.192/27,IPv4,SCCservice,
 4.248.139.192/27,IPv4,SCCservice.CanadaCentral,canadacentral
+4.248.140.192/27,IPv4,AzureDeviceUpdate,
 4.248.140.224/28,IPv4,AzureHealthcareAPIs,
 4.249.0.0/17,IPv4,AzureCloud,
 4.249.0.0/17,IPv4,AzureCloud.westus3,westus3
@@ -16416,6 +16419,7 @@ ip_address,ip_type,service,region
 20.48.197.124/30,IPv4,PowerBI.CanadaCentral,canadacentral
 20.48.197.128/27,IPv4,AzureWebPubSub,
 20.48.197.160/28,IPv4,AzureHealthcareAPIs,
+20.48.197.192/28,IPv4,AzureDeviceUpdate,
 20.48.197.240/28,IPv4,AzureMachineLearning,
 20.48.197.240/28,IPv4,AzureMachineLearning.CanadaCentral,canadacentral
 20.48.199.8/29,IPv4,MicrosoftAzureFluidRelay,
@@ -31341,6 +31345,7 @@ ip_address,ip_type,service,region
 20.218.41.177/32,IPv4,LogicApps,
 20.218.41.177/32,IPv4,LogicApps.GermanyNorth,germanyn
 20.218.48.128/29,IPv4,AzureDatabricks,
+20.218.48.224/28,IPv4,AzureDeviceUpdate,
 20.218.50.4/31,IPv4,AzureSentinel,
 20.218.50.32/27,IPv4,AzureSecurityCenter,
 20.218.50.32/27,IPv4,AzureSecurityCenter.GermanyNorth,germanyn
@@ -42512,8 +42517,8 @@ ip_address,ip_type,service,region
 40.120.167.96/31,IPv4,AzureCloud.centraluseuap,centraluseuap
 40.120.167.98/31,IPv4,AzureCloud,
 40.120.167.98/31,IPv4,AzureCloud.centralus,centralus
-40.120.167.100/31,IPv4,AzureCloud,
-40.120.167.100/31,IPv4,AzureCloud.centralus,centralus
+40.120.167.100/30,IPv4,AzureCloud,
+40.120.167.100/30,IPv4,AzureCloud.centralus,centralus
 40.120.167.106/31,IPv4,AzureCloud,
 40.120.167.106/31,IPv4,AzureCloud.centraluseuap,centraluseuap
 40.120.167.108/30,IPv4,AzureCloud,
@@ -42853,8 +42858,8 @@ ip_address,ip_type,service,region
 40.123.145.248/29,IPv4,AzureCloud.eastus2,eastus2
 40.123.146.0/29,IPv4,AzureCloud,
 40.123.146.0/29,IPv4,AzureCloud.eastus2,eastus2
-40.123.146.8/31,IPv4,AzureCloud,
-40.123.146.8/31,IPv4,AzureCloud.eastus2,eastus2
+40.123.146.8/30,IPv4,AzureCloud,
+40.123.146.8/30,IPv4,AzureCloud.eastus2,eastus2
 40.123.146.14/31,IPv4,AzureCloud,
 40.123.146.14/31,IPv4,AzureCloud.eastus2,eastus2
 40.123.146.16/29,IPv4,AzureCloud,
@@ -46173,6 +46178,8 @@ ip_address,ip_type,service,region
 48.210.98.160/27,IPv4,SCCservice.JapanEast,japaneast
 48.210.102.64/27,IPv4,SystemServiceAzureSpringAppsResourceProvider,
 48.210.102.236/30,IPv4,MicrosoftPurviewPolicyDistribution,
+48.210.103.32/27,IPv4,AzureDeviceUpdate,
+48.210.112.80/28,IPv4,AzureDeviceUpdate,
 48.210.191.80/28,IPv4,AzureDatabricks,
 48.210.191.96/29,IPv4,AzureDatabricks,
 48.211.0.0/17,IPv4,AzureCloud,
@@ -50594,6 +50601,7 @@ ip_address,ip_type,service,region
 51.116.55.168/30,IPv4,PowerBI,
 51.116.55.168/30,IPv4,PowerBI.GermanyNorth,germanyn
 51.116.55.174/31,IPv4,GuestAndHybridManagement,
+51.116.55.192/27,IPv4,AzureDeviceUpdate,
 51.116.55.240/28,IPv4,AzureConnectors,
 51.116.55.240/28,IPv4,AzureConnectors.GermanyNorth,germanyn
 51.116.56.0/27,IPv4,Sql,
@@ -63659,6 +63667,8 @@ ip_address,ip_type,service,region
 57.157.25.128/28,IPv4,AzureCloud.eastus3,eastus3
 57.157.25.144/30,IPv4,AzureCloud,
 57.157.25.144/30,IPv4,AzureCloud.eastus3,eastus3
+57.157.25.148/31,IPv4,AzureCloud,
+57.157.25.148/31,IPv4,AzureCloud.eastus3,eastus3
 57.157.28.0/25,IPv4,AzureCloud,
 57.157.28.0/25,IPv4,AzureCloud.northeurope,northeurope
 57.157.28.128/26,IPv4,AzureCloud,
@@ -63895,6 +63905,8 @@ ip_address,ip_type,service,region
 57.157.65.192/28,IPv4,AzureCloud.northcentralus,northcentralus
 57.157.65.208/29,IPv4,AzureCloud,
 57.157.65.208/29,IPv4,AzureCloud.northcentralus,northcentralus
+57.157.65.216/31,IPv4,AzureCloud,
+57.157.65.216/31,IPv4,AzureCloud.northcentralus,northcentralus
 57.157.68.0/23,IPv4,AzureCloud,
 57.157.68.0/23,IPv4,AzureCloud.swedencentral,swedencentral
 57.157.70.0/24,IPv4,AzureCloud,
@@ -63993,8 +64005,8 @@ ip_address,ip_type,service,region
 57.157.168.0/27,IPv4,AzureCloud.australiasoutheast,australiasoutheast
 57.157.168.32/28,IPv4,AzureCloud,
 57.157.168.32/28,IPv4,AzureCloud.australiasoutheast,australiasoutheast
-57.157.168.48/31,IPv4,AzureCloud,
-57.157.168.48/31,IPv4,AzureCloud.australiasoutheast,australiasoutheast
+57.157.168.48/30,IPv4,AzureCloud,
+57.157.168.48/30,IPv4,AzureCloud.australiasoutheast,australiasoutheast
 57.158.0.0/17,IPv4,AzureCloud,
 57.158.0.0/17,IPv4,AzureCloud.eastasia,eastasia
 57.158.5.128/27,IPv4,PowerBI,
@@ -66924,6 +66936,7 @@ ip_address,ip_type,service,region
 72.144.226.160/27,IPv4,AzureSignalR,
 72.144.226.160/27,IPv4,AzureSignalR.GermanyWestCentral,germanywc
 72.144.226.192/27,IPv4,AzureWebPubSub,
+72.144.227.32/27,IPv4,AzureDeviceUpdate,
 72.144.227.116/31,IPv4,AzureSentinel,
 72.145.0.0/17,IPv4,AzureCloud,
 72.145.0.0/17,IPv4,AzureCloud.northeurope,northeurope
@@ -73871,6 +73884,7 @@ ip_address,ip_type,service,region
 145.191.155.248/29,IPv4,AzureAttestation,
 145.191.155.248/29,IPv4,AzureAttestation.CanadaEast,canadaeast
 145.191.168.32/28,IPv4,AzureActiveDirectory,
+145.191.168.224/27,IPv4,AzureDeviceUpdate,
 147.243.0.0/16,IPv4,AzureFrontDoor.Backend,
 150.171.1.16/28,IPv4,AzureFrontDoor.Frontend,
 150.171.22.0/23,IPv4,AzureFrontDoor.Frontend,
@@ -75239,7 +75253,15 @@ ip_address,ip_type,service,region
 172.129.91.16/28,IPv4,AzureManagedGrafana,
 172.129.91.32/29,IPv4,AzureAttestation,
 172.129.91.128/25,IPv4,AzureMachineLearningInference,
+172.129.95.64/26,IPv4,AzureSignalR,
 172.129.96.0/27,IPv4,AzureMonitor.Core,
+172.129.100.32/28,IPv4,MicrosoftDefenderForEndpoint,
+172.129.128.0/17,IPv4,AzureCloud,
+172.129.128.0/17,IPv4,AzureCloud.northeurope,northeurope
+172.130.0.0/17,IPv4,AzureCloud,
+172.130.0.0/17,IPv4,AzureCloud.swedencentral,swedencentral
+172.131.0.0/17,IPv4,AzureCloud,
+172.131.0.0/17,IPv4,AzureCloud.centralus,centralus
 172.160.0.0/16,IPv4,AzureCloud,
 172.160.0.0/16,IPv4,AzureCloud.swedencentral,swedencentral
 172.160.153.128/26,IPv4,AzureMonitor,
@@ -76492,6 +76514,8 @@ ip_address,ip_type,service,region
 172.192.225.104/29,IPv4,AzureAttestation.JapanWest,japanwest
 172.192.225.144/30,IPv4,AzureAttestation,
 172.192.225.144/30,IPv4,AzureAttestation.JapanWest,japanwest
+172.192.226.48/28,IPv4,AzureDeviceUpdate,
+172.192.227.96/27,IPv4,AzureDeviceUpdate,
 172.193.0.0/17,IPv4,AzureCloud,
 172.193.0.0/17,IPv4,AzureCloud.eastus2,eastus2
 172.193.3.128/25,IPv4,AzureCognitiveSearch,
@@ -87131,6 +87155,7 @@ ip_address,ip_type,service,region
 2603:1020:1701:2::740/123,IPv6,AzureManagedGrafana,
 2603:1020:1701:2::780/122,IPv6,AzureMachineLearningInference,
 2603:1020:1701:3::400/121,IPv6,AzureMonitor.Core,
+2603:1020:1701:4::480/122,IPv6,AzureSignalR,
 2603:1020:1702::/48,IPv6,AzureCloud,
 2603:1020:1702::/48,IPv6,Storage,
 2603:1020:1703::/48,IPv6,AzureCloud,
@@ -87915,8 +87940,8 @@ ip_address,ip_type,service,region
 2603:1030:9:345::/64,IPv6,AzureCloud.centraluseuap,centraluseuap
 2603:1030:9:346::/63,IPv6,AzureCloud,
 2603:1030:9:346::/63,IPv6,AzureCloud.centraluseuap,centraluseuap
-2603:1030:9:348::/64,IPv6,AzureCloud,
-2603:1030:9:348::/64,IPv6,AzureCloud.centralus,centralus
+2603:1030:9:348::/63,IPv6,AzureCloud,
+2603:1030:9:348::/63,IPv6,AzureCloud.centralus,centralus
 2603:1030:9:34b::/64,IPv6,AzureCloud,
 2603:1030:9:34b::/64,IPv6,AzureCloud.centralus,centralus
 2603:1030:9:34c::/62,IPv6,AzureCloud,
@@ -90596,8 +90621,8 @@ ip_address,ip_type,service,region
 2603:1030:401:588::/64,IPv6,AzureCloud.eastus2,eastus2
 2603:1030:401:58b::/64,IPv6,AzureCloud,
 2603:1030:401:58b::/64,IPv6,AzureCloud.eastus2,eastus2
-2603:1030:401:58c::/64,IPv6,AzureCloud,
-2603:1030:401:58c::/64,IPv6,AzureCloud.eastus2,eastus2
+2603:1030:401:58c::/63,IPv6,AzureCloud,
+2603:1030:401:58c::/63,IPv6,AzureCloud.eastus2,eastus2
 2603:1030:401:58e::/64,IPv6,AzureCloud,
 2603:1030:401:58e::/64,IPv6,AzureCloud.eastus2,eastus2
 2603:1030:401:590::/64,IPv6,AzureCloud,
@@ -104247,12 +104272,8 @@ ip_address,ip_type,service,region
 2603:1061:101a::/57,IPv6,AzureCloud.eastus3,eastus3
 2603:1061:101a:80::/58,IPv6,AzureCloud,
 2603:1061:101a:80::/58,IPv6,AzureCloud.eastus3,eastus3
-2603:1061:101a:c0::/62,IPv6,AzureCloud,
-2603:1061:101a:c0::/62,IPv6,AzureCloud.eastus3,eastus3
-2603:1061:101a:c4::/63,IPv6,AzureCloud,
-2603:1061:101a:c4::/63,IPv6,AzureCloud.eastus3,eastus3
-2603:1061:101a:c6::/64,IPv6,AzureCloud,
-2603:1061:101a:c6::/64,IPv6,AzureCloud.eastus3,eastus3
+2603:1061:101a:c0::/61,IPv6,AzureCloud,
+2603:1061:101a:c0::/61,IPv6,AzureCloud.eastus3,eastus3
 2603:1061:101b::/58,IPv6,AzureCloud,
 2603:1061:101b::/58,IPv6,AzureCloud.indiasouthcentral,indiasouthcentral
 2603:1061:101b:40::/59,IPv6,AzureCloud,

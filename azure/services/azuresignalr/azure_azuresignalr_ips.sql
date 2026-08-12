@@ -123,6 +123,7 @@ INSERT INTO `azure_azuresignalr_ips` (`ip_address`, `ip_type`) VALUES ('135.225.
 INSERT INTO `azure_azuresignalr_ips` (`ip_address`, `ip_type`) VALUES ('135.233.94.160/27', 'IPv4');
 INSERT INTO `azure_azuresignalr_ips` (`ip_address`, `ip_type`) VALUES ('135.233.94.192/26', 'IPv4');
 INSERT INTO `azure_azuresignalr_ips` (`ip_address`, `ip_type`) VALUES ('135.235.2.192/27', 'IPv4');
+INSERT INTO `azure_azuresignalr_ips` (`ip_address`, `ip_type`) VALUES ('172.129.95.64/26', 'IPv4');
 INSERT INTO `azure_azuresignalr_ips` (`ip_address`, `ip_type`) VALUES ('172.184.37.192/27', 'IPv4');
 INSERT INTO `azure_azuresignalr_ips` (`ip_address`, `ip_type`) VALUES ('172.184.38.0/25', 'IPv4');
 INSERT INTO `azure_azuresignalr_ips` (`ip_address`, `ip_type`) VALUES ('172.188.178.64/27', 'IPv4');
@@ -157,6 +158,7 @@ INSERT INTO `azure_azuresignalr_ips` (`ip_address`, `ip_type`) VALUES ('2603:102
 INSERT INTO `azure_azuresignalr_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1302:3::140/122', 'IPv6');
 INSERT INTO `azure_azuresignalr_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1403:3::6c0/122', 'IPv6');
 INSERT INTO `azure_azuresignalr_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1502:4::380/122', 'IPv6');
+INSERT INTO `azure_azuresignalr_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1701:4::480/122', 'IPv6');
 INSERT INTO `azure_azuresignalr_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f:3::500/120', 'IPv6');
 INSERT INTO `azure_azuresignalr_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:10:4::/120', 'IPv6');
 INSERT INTO `azure_azuresignalr_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:104:2::400/120', 'IPv6');

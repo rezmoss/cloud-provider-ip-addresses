@@ -24,5 +24,6 @@ INSERT INTO `claudebot_ips` (`ip_address`, `ip_type`) VALUES ('34.186.108.163/32
 INSERT INTO `claudebot_ips` (`ip_address`, `ip_type`) VALUES ('35.221.29.174/32', 'IPv4');
 INSERT INTO `claudebot_ips` (`ip_address`, `ip_type`) VALUES ('35.245.89.239/32', 'IPv4');
 INSERT INTO `claudebot_ips` (`ip_address`, `ip_type`) VALUES ('35.245.175.129/32', 'IPv4');
+INSERT INTO `claudebot_ips` (`ip_address`, `ip_type`) VALUES ('40.124.101.48/28', 'IPv4');
 INSERT INTO `claudebot_ips` (`ip_address`, `ip_type`) VALUES ('136.107.176.208/32', 'IPv4');
 INSERT INTO `claudebot_ips` (`ip_address`, `ip_type`) VALUES ('216.73.216.0/22', 'IPv4');

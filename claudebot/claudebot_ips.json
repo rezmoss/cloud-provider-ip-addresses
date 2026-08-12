@@ -90,6 +90,11 @@
     "service": "claudebot"
   },
   {
+    "ip_address": "40.124.101.48/28",
+    "ip_type": "IPv4",
+    "service": "claudebot"
+  },
+  {
     "ip_address": "136.107.176.208/32",
     "ip_type": "IPv4",
     "service": "claudebot"

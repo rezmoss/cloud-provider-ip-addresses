@@ -178,5 +178,11 @@
     "ip_type": "IPv4",
     "service": "MicrosoftDefenderForEndpoint",
     "region": ""
+  },
+  {
+    "ip_address": "172.129.100.32/28",
+    "ip_type": "IPv4",
+    "service": "MicrosoftDefenderForEndpoint",
+    "region": ""
   }
 ]

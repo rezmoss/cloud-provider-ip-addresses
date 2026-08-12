@@ -20,6 +20,7 @@ INSERT INTO `zoho_zoho-as205111_ips` (`ip_address`, `ip_type`) VALUES ('169.148.
 INSERT INTO `zoho_zoho-as205111_ips` (`ip_address`, `ip_type`) VALUES ('169.148.188.0/24', 'IPv4');
 INSERT INTO `zoho_zoho-as205111_ips` (`ip_address`, `ip_type`) VALUES ('169.148.189.0/24', 'IPv4');
 INSERT INTO `zoho_zoho-as205111_ips` (`ip_address`, `ip_type`) VALUES ('185.230.212.0/23', 'IPv4');
+INSERT INTO `zoho_zoho-as205111_ips` (`ip_address`, `ip_type`) VALUES ('185.230.212.0/24', 'IPv4');
 INSERT INTO `zoho_zoho-as205111_ips` (`ip_address`, `ip_type`) VALUES ('185.230.213.0/24', 'IPv4');
 INSERT INTO `zoho_zoho-as205111_ips` (`ip_address`, `ip_type`) VALUES ('185.230.214.0/23', 'IPv4');
 INSERT INTO `zoho_zoho-as205111_ips` (`ip_address`, `ip_type`) VALUES ('185.230.214.0/24', 'IPv4');

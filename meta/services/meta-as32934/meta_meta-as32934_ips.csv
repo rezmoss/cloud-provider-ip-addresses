@@ -4,7 +4,6 @@ ip_address,ip_type,service,region
 31.13.64.0/24,IPv4,meta-as32934,global
 31.13.66.0/24,IPv4,meta-as32934,global
 31.13.69.0/24,IPv4,meta-as32934,global
-31.13.70.0/24,IPv4,meta-as32934,global
 31.13.71.0/24,IPv4,meta-as32934,global
 31.13.72.0/24,IPv4,meta-as32934,global
 31.13.73.0/24,IPv4,meta-as32934,global

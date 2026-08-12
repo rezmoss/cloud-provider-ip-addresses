@@ -39,6 +39,7 @@ ip_address,ip_type,service,region
 16.12.8.0/24,IPv4,AMAZON,ap-east-1
 16.12.8.0/24,IPv4,S3,ap-east-1
 16.106.0.0/16,IPv4,AMAZON,ap-east-1
+16.106.0.0/16,IPv4,EC2,ap-east-1
 16.107.0.0/16,IPv4,AMAZON,ap-east-1
 16.162.0.0/15,IPv4,AMAZON,ap-east-1
 16.162.0.0/15,IPv4,EC2,ap-east-1

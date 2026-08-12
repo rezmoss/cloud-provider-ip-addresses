@@ -4176,6 +4176,12 @@
     "region": ""
   },
   {
+    "ip_address": "4.182.154.160/28",
+    "ip_type": "IPv4",
+    "service": "AzureDeviceUpdate",
+    "region": ""
+  },
+  {
     "ip_address": "4.183.0.0/16",
     "ip_type": "IPv4",
     "service": "AzureCloud",
@@ -11790,6 +11796,12 @@
     "region": ""
   },
   {
+    "ip_address": "4.229.82.144/28",
+    "ip_type": "IPv4",
+    "service": "AzureDeviceUpdate",
+    "region": ""
+  },
+  {
     "ip_address": "4.229.89.40/29",
     "ip_type": "IPv4",
     "service": "AzureDatabricks",
@@ -15645,6 +15657,12 @@
     "ip_address": "4.248.139.192/27",
     "ip_type": "IPv4",
     "service": "SCCservice",
+    "region": ""
+  },
+  {
+    "ip_address": "4.248.140.192/27",
+    "ip_type": "IPv4",
+    "service": "AzureDeviceUpdate",
     "region": ""
   },
   {
@@ -57537,6 +57555,12 @@
     "ip_address": "20.48.197.160/28",
     "ip_type": "IPv4",
     "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "20.48.197.192/28",
+    "ip_type": "IPv4",
+    "service": "AzureDeviceUpdate",
     "region": ""
   },
   {
@@ -109266,6 +109290,12 @@
     "region": ""
   },
   {
+    "ip_address": "20.218.48.224/28",
+    "ip_type": "IPv4",
+    "service": "AzureDeviceUpdate",
+    "region": ""
+  },
+  {
     "ip_address": "20.218.50.4/31",
     "ip_type": "IPv4",
     "service": "AzureSentinel",
@@ -146382,7 +146412,7 @@
     "region": ""
   },
   {
-    "ip_address": "40.120.167.100/31",
+    "ip_address": "40.120.167.100/30",
     "ip_type": "IPv4",
     "service": "AzureCloud",
     "region": ""
@@ -147408,7 +147438,7 @@
     "region": ""
   },
   {
-    "ip_address": "40.123.146.8/31",
+    "ip_address": "40.123.146.8/30",
     "ip_type": "IPv4",
     "service": "AzureCloud",
     "region": ""
@@ -159771,6 +159801,18 @@
     "ip_address": "48.210.102.236/30",
     "ip_type": "IPv4",
     "service": "MicrosoftPurviewPolicyDistribution",
+    "region": ""
+  },
+  {
+    "ip_address": "48.210.103.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureDeviceUpdate",
+    "region": ""
+  },
+  {
+    "ip_address": "48.210.112.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureDeviceUpdate",
     "region": ""
   },
   {
@@ -175425,6 +175467,12 @@
     "ip_address": "51.116.55.174/31",
     "ip_type": "IPv4",
     "service": "GuestAndHybridManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "51.116.55.192/27",
+    "ip_type": "IPv4",
+    "service": "AzureDeviceUpdate",
     "region": ""
   },
   {
@@ -217446,6 +217494,12 @@
     "region": ""
   },
   {
+    "ip_address": "57.157.25.148/31",
+    "ip_type": "IPv4",
+    "service": "AzureCloud",
+    "region": ""
+  },
+  {
     "ip_address": "57.157.28.0/25",
     "ip_type": "IPv4",
     "service": "AzureCloud",
@@ -218154,6 +218208,12 @@
     "region": ""
   },
   {
+    "ip_address": "57.157.65.216/31",
+    "ip_type": "IPv4",
+    "service": "AzureCloud",
+    "region": ""
+  },
+  {
     "ip_address": "57.157.68.0/23",
     "ip_type": "IPv4",
     "service": "AzureCloud",
@@ -218490,7 +218550,7 @@
     "region": ""
   },
   {
-    "ip_address": "57.157.168.48/31",
+    "ip_address": "57.157.168.48/30",
     "ip_type": "IPv4",
     "service": "AzureCloud",
     "region": ""
@@ -228645,6 +228705,12 @@
     "ip_address": "72.144.226.192/27",
     "ip_type": "IPv4",
     "service": "AzureWebPubSub",
+    "region": ""
+  },
+  {
+    "ip_address": "72.144.227.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureDeviceUpdate",
     "region": ""
   },
   {
@@ -252612,6 +252678,12 @@
     "region": ""
   },
   {
+    "ip_address": "145.191.168.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureDeviceUpdate",
+    "region": ""
+  },
+  {
     "ip_address": "147.243.0.0/16",
     "ip_type": "IPv4",
     "service": "AzureFrontDoor.Backend",
@@ -257364,9 +257436,39 @@
     "region": ""
   },
   {
+    "ip_address": "172.129.95.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureSignalR",
+    "region": ""
+  },
+  {
     "ip_address": "172.129.96.0/27",
     "ip_type": "IPv4",
     "service": "AzureMonitor.Core",
+    "region": ""
+  },
+  {
+    "ip_address": "172.129.100.32/28",
+    "ip_type": "IPv4",
+    "service": "MicrosoftDefenderForEndpoint",
+    "region": ""
+  },
+  {
+    "ip_address": "172.129.128.0/17",
+    "ip_type": "IPv4",
+    "service": "AzureCloud",
+    "region": ""
+  },
+  {
+    "ip_address": "172.130.0.0/17",
+    "ip_type": "IPv4",
+    "service": "AzureCloud",
+    "region": ""
+  },
+  {
+    "ip_address": "172.131.0.0/17",
+    "ip_type": "IPv4",
+    "service": "AzureCloud",
     "region": ""
   },
   {
@@ -261951,6 +262053,18 @@
     "ip_address": "172.192.225.144/30",
     "ip_type": "IPv4",
     "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "172.192.226.48/28",
+    "ip_type": "IPv4",
+    "service": "AzureDeviceUpdate",
+    "region": ""
+  },
+  {
+    "ip_address": "172.192.227.96/27",
+    "ip_type": "IPv4",
+    "service": "AzureDeviceUpdate",
     "region": ""
   },
   {
@@ -300756,6 +300870,12 @@
     "region": ""
   },
   {
+    "ip_address": "2603:1020:1701:4::480/122",
+    "ip_type": "IPv6",
+    "service": "AzureSignalR",
+    "region": ""
+  },
+  {
     "ip_address": "2603:1020:1702::/48",
     "ip_type": "IPv6",
     "service": "AzureCloud",
@@ -303618,7 +303738,7 @@
     "region": ""
   },
   {
-    "ip_address": "2603:1030:9:348::/64",
+    "ip_address": "2603:1030:9:348::/63",
     "ip_type": "IPv6",
     "service": "AzureCloud",
     "region": ""
@@ -312702,7 +312822,7 @@
     "region": ""
   },
   {
-    "ip_address": "2603:1030:401:58c::/64",
+    "ip_address": "2603:1030:401:58c::/63",
     "ip_type": "IPv6",
     "service": "AzureCloud",
     "region": ""
@@ -362376,19 +362496,7 @@
     "region": ""
   },
   {
-    "ip_address": "2603:1061:101a:c0::/62",
-    "ip_type": "IPv6",
-    "service": "AzureCloud",
-    "region": ""
-  },
-  {
-    "ip_address": "2603:1061:101a:c4::/63",
-    "ip_type": "IPv6",
-    "service": "AzureCloud",
-    "region": ""
-  },
-  {
-    "ip_address": "2603:1061:101a:c6::/64",
+    "ip_address": "2603:1061:101a:c0::/61",
     "ip_type": "IPv6",
     "service": "AzureCloud",
     "region": ""

@@ -1,7 +1,7 @@
 # azure IP ranges - ipset restore format (hash:net)
-# Version: 9 | Generated: 2026-08-11 | Last changed: 2026-08-05
-# IPv4: 2717 merged subnets, 51141874 unique IPs
-# IPv6: 1816 merged subnets
+# Version: 10 | Generated: 2026-08-12 | Last changed: 2026-08-12
+# IPv4: 2720 merged subnets, 51240188 unique IPs
+# IPv6: 1814 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
 # Load with: sudo ipset restore -! < azure.netset
@@ -984,8 +984,7 @@ add azure_v4 40.120.164.0/23
 add azure_v4 40.120.166.0/24
 add azure_v4 40.120.167.0/26
 add azure_v4 40.120.167.64/27
-add azure_v4 40.120.167.96/30
-add azure_v4 40.120.167.100/31
+add azure_v4 40.120.167.96/29
 add azure_v4 40.120.167.106/31
 add azure_v4 40.120.167.108/30
 add azure_v4 40.120.167.112/28
@@ -1040,7 +1039,7 @@ add azure_v4 40.123.138.200/30
 add azure_v4 40.123.140.0/22
 add azure_v4 40.123.144.0/23
 add azure_v4 40.123.146.0/29
-add azure_v4 40.123.146.8/31
+add azure_v4 40.123.146.8/30
 add azure_v4 40.123.146.14/31
 add azure_v4 40.123.146.16/29
 add azure_v4 40.123.146.24/31
@@ -1913,6 +1912,7 @@ add azure_v4 57.157.24.0/24
 add azure_v4 57.157.25.0/25
 add azure_v4 57.157.25.128/28
 add azure_v4 57.157.25.144/30
+add azure_v4 57.157.25.148/31
 add azure_v4 57.157.28.0/25
 add azure_v4 57.157.28.128/26
 add azure_v4 57.157.28.192/29
@@ -1974,6 +1974,7 @@ add azure_v4 57.157.65.0/25
 add azure_v4 57.157.65.128/26
 add azure_v4 57.157.65.192/28
 add azure_v4 57.157.65.208/29
+add azure_v4 57.157.65.216/31
 add azure_v4 57.157.68.0/23
 add azure_v4 57.157.70.0/24
 add azure_v4 57.157.71.0/28
@@ -2030,7 +2031,7 @@ add azure_v4 57.157.156.32/28
 add azure_v4 57.157.156.48/31
 add azure_v4 57.157.168.0/27
 add azure_v4 57.157.168.32/28
-add azure_v4 57.157.168.48/31
+add azure_v4 57.157.168.48/30
 add azure_v4 57.158.0.0/17
 add azure_v4 57.158.128.0/18
 add azure_v4 57.159.0.0/16
@@ -2586,7 +2587,9 @@ add azure_v4 168.63.156.0/24
 add azure_v4 168.63.160.0/19
 add azure_v4 168.63.192.0/18
 add azure_v4 172.128.0.0/17
-add azure_v4 172.129.0.0/17
+add azure_v4 172.129.0.0/16
+add azure_v4 172.130.0.0/17
+add azure_v4 172.131.0.0/17
 add azure_v4 172.160.0.0/12
 add azure_v4 172.176.0.0/13
 add azure_v4 172.184.0.0/14
@@ -2944,7 +2947,7 @@ add azure_v6 2603:1030:9:338::/62
 add azure_v6 2603:1030:9:33c::/64
 add azure_v6 2603:1030:9:345::/64
 add azure_v6 2603:1030:9:346::/63
-add azure_v6 2603:1030:9:348::/64
+add azure_v6 2603:1030:9:348::/63
 add azure_v6 2603:1030:9:34b::/64
 add azure_v6 2603:1030:9:34c::/62
 add azure_v6 2603:1030:9:350::/60
@@ -3198,7 +3201,7 @@ add azure_v6 2603:1030:401:57c::/63
 add azure_v6 2603:1030:401:580::/61
 add azure_v6 2603:1030:401:588::/64
 add azure_v6 2603:1030:401:58b::/64
-add azure_v6 2603:1030:401:58c::/64
+add azure_v6 2603:1030:401:58c::/63
 add azure_v6 2603:1030:401:58e::/64
 add azure_v6 2603:1030:401:590::/64
 add azure_v6 2603:1030:401:592::/64
@@ -3849,9 +3852,7 @@ add azure_v6 2603:1061:1019:d0::/61
 add azure_v6 2603:1061:1019:d8::/64
 add azure_v6 2603:1061:101a::/57
 add azure_v6 2603:1061:101a:80::/58
-add azure_v6 2603:1061:101a:c0::/62
-add azure_v6 2603:1061:101a:c4::/63
-add azure_v6 2603:1061:101a:c6::/64
+add azure_v6 2603:1061:101a:c0::/61
 add azure_v6 2603:1061:101b::/58
 add azure_v6 2603:1061:101b:40::/59
 add azure_v6 2603:1061:101b:60::/61

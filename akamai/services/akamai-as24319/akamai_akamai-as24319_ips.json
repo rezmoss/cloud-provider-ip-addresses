@@ -1002,12 +1002,6 @@
     "region": "global"
   },
   {
-    "ip_address": "2600:1411:1::/48",
-    "ip_type": "IPv6",
-    "service": "akamai-as24319",
-    "region": "global"
-  },
-  {
     "ip_address": "2600:1413:1000::/48",
     "ip_type": "IPv6",
     "service": "akamai-as24319",
