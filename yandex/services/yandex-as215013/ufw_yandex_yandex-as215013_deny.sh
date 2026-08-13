@@ -1,6 +1,6 @@
 #!/bin/bash
 # Yandex IP Ranges
-# Updated: 2026-07-12 03:18:07
+# Updated: 2026-08-13 03:06:55
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -10,6 +10,7 @@
 ufw deny from 89.223.9.0/24
 ufw deny from 94.131.190.0/23
 ufw deny from 188.72.103.0/24
+ufw deny from 188.72.105.0/24
 ufw deny from 188.72.110.0/23
 ufw deny from 188.72.113.0/24
 ufw deny from 2a0d:d6c7:14::/47

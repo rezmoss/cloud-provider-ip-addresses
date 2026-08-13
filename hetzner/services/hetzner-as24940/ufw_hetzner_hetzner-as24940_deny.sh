@@ -1,6 +1,6 @@
 #!/bin/bash
 # Hetzner IP Ranges
-# Updated: 2026-06-25 03:23:34
+# Updated: 2026-08-13 03:06:12
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -26,6 +26,7 @@ ufw deny from 77.42.0.0/17
 ufw deny from 78.46.0.0/15
 ufw deny from 78.138.62.0/24
 ufw deny from 85.10.192.0/18
+ufw deny from 85.93.20.0/24
 ufw deny from 88.99.0.0/16
 ufw deny from 88.198.0.0/16
 ufw deny from 89.167.0.0/17

@@ -465,6 +465,8 @@ ip_address,ip_type,service,region
 64.252.76.0/24,IPv4,EC2,us-east-2
 64.252.77.0/24,IPv4,AMAZON,us-east-2
 64.252.77.0/24,IPv4,EC2,us-east-2
+66.36.1.0/24,IPv4,AMAZON,us-east-2
+66.36.1.0/24,IPv4,EC2,us-east-2
 69.107.7.48/29,IPv4,AMAZON,us-east-2
 69.107.7.56/29,IPv4,AMAZON,us-east-2
 69.107.13.0/29,IPv4,AMAZON,us-east-2

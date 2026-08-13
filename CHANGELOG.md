@@ -2,6 +2,60 @@
 
 Daily IP range changes across all providers.
 
+## 2026-08-13
+
+### yandex
+- Added: 1 CIDRs
+- Removed: 0 CIDRs
+
+### meta
+- Added: 2 CIDRs
+- Removed: 0 CIDRs
+
+### mullvad
+- Added: 2 CIDRs
+- Removed: 0 CIDRs
+
+### hetzner
+- Added: 1 CIDRs
+- Removed: 0 CIDRs
+
+### gcore
+- Added: 2 CIDRs
+- Removed: 2 CIDRs
+
+### gptbot
+- Added: 0 CIDRs
+- Removed: 18 CIDRs
+
+### akamai
+- Added: 6 CIDRs
+- Removed: 1 CIDRs
+
+### github
+- Added: 57 CIDRs
+- Removed: 74 CIDRs
+
+### alibaba
+- Added: 4 CIDRs
+- Removed: 0 CIDRs
+
+### leaseweb
+- Added: 0 CIDRs
+- Removed: 1 CIDRs
+
+### aws
+- Added: 16 CIDRs
+- Removed: 0 CIDRs
+
+### ovhcloud
+- Added: 2 CIDRs
+- Removed: 0 CIDRs
+
+### tor
+- Added: 12 CIDRs
+- Removed: 38 CIDRs
+
 ## 2026-08-12
 
 ### aws

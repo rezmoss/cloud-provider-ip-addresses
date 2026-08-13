@@ -1,6 +1,6 @@
 #!/bin/bash
 # Aws IP Ranges
-# Updated: 2026-07-11 03:10:47
+# Updated: 2026-08-13 03:00:52
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -383,6 +383,7 @@ ufw deny from 2600:1f60:7400::/40
 ufw deny from 2600:1f60:8000::/39
 ufw deny from 2600:1f60:a400::/40
 ufw deny from 2600:1f60:c000::/40
+ufw deny from 2600:1f60:c200::/40
 ufw deny from 2600:1f60:e000::/40
 ufw deny from 2600:1f60:ec00::/40
 ufw deny from 2600:1f61:800::/40
@@ -444,6 +445,7 @@ ufw deny from 2600:1ff0:7400::/40
 ufw deny from 2600:1ff0:8000::/39
 ufw deny from 2600:1ff0:a400::/40
 ufw deny from 2600:1ff0:c000::/40
+ufw deny from 2600:1ff0:c200::/40
 ufw deny from 2600:1ff0:e000::/40
 ufw deny from 2600:1ff0:ec00::/40
 ufw deny from 2600:1ff4:800::/40
@@ -518,6 +520,7 @@ ufw deny from 2a05:d030:4000::/40
 ufw deny from 2a05:d030:5000::/40
 ufw deny from 2a05:d030:6000::/40
 ufw deny from 2a05:d030:8000::/40
+ufw deny from 2a05:d030:8800::/40
 ufw deny from 2a05:d030:9000::/40
 ufw deny from 2a05:d030:a000::/40
 ufw deny from 2a05:d030:b000::/40
@@ -579,6 +582,7 @@ ufw deny from 2a05:d070:4000::/40
 ufw deny from 2a05:d070:5000::/40
 ufw deny from 2a05:d070:6000::/40
 ufw deny from 2a05:d070:8000::/40
+ufw deny from 2a05:d070:8800::/40
 ufw deny from 2a05:d070:9000::/40
 ufw deny from 2a05:d070:a000::/40
 ufw deny from 2a05:d070:b000::/40

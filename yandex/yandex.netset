@@ -1,6 +1,6 @@
 # yandex IP ranges - ipset restore format (hash:net)
-# Version: 6 | Generated: 2026-08-12 | Last changed: 2026-08-08
-# IPv4: 61 merged subnets, 420608 unique IPs
+# Version: 7 | Generated: 2026-08-13 | Last changed: 2026-08-13
+# IPv4: 62 merged subnets, 420864 unique IPs
 # IPv6: 5 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
@@ -59,6 +59,7 @@ add yandex_v4 185.184.128.0/22
 add yandex_v4 185.206.164.0/22
 add yandex_v4 185.216.194.0/23
 add yandex_v4 188.72.103.0/24
+add yandex_v4 188.72.105.0/24
 add yandex_v4 188.72.110.0/23
 add yandex_v4 188.72.113.0/24
 add yandex_v4 193.32.216.0/22

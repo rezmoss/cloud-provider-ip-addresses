@@ -21,6 +21,7 @@ ip_address,ip_type,service,region
 78.46.0.0/15,IPv4,hetzner-as24940,global
 78.138.62.0/24,IPv4,hetzner-as24940,global
 85.10.192.0/18,IPv4,hetzner-as24940,global
+85.93.20.0/24,IPv4,hetzner-as24940,global
 88.99.0.0/16,IPv4,hetzner-as24940,global
 88.198.0.0/16,IPv4,hetzner-as24940,global
 89.167.0.0/17,IPv4,hetzner-as24940,global

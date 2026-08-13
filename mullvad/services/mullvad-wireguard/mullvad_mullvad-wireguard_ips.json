@@ -978,6 +978,12 @@
     "region": "nl"
   },
   {
+    "ip_address": "62.101.165.2/32",
+    "ip_type": "IPv4",
+    "service": "mullvad-wireguard",
+    "region": "al"
+  },
+  {
     "ip_address": "68.235.46.2/32",
     "ip_type": "IPv4",
     "service": "mullvad-wireguard",
@@ -6259,6 +6265,12 @@
   },
   {
     "ip_address": "2a04:27c0:0:e::f001/128",
+    "ip_type": "IPv6",
+    "service": "mullvad-wireguard",
+    "region": "al"
+  },
+  {
+    "ip_address": "2a04:27c0:0:f::f001/128",
     "ip_type": "IPv6",
     "service": "mullvad-wireguard",
     "region": "al"

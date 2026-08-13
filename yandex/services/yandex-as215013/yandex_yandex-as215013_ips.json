@@ -24,6 +24,12 @@
     "region": "global"
   },
   {
+    "ip_address": "188.72.105.0/24",
+    "ip_type": "IPv4",
+    "service": "yandex-as215013",
+    "region": "global"
+  },
+  {
     "ip_address": "188.72.110.0/24",
     "ip_type": "IPv4",
     "service": "yandex-as215013",

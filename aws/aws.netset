@@ -1,7 +1,7 @@
 # aws IP ranges - ipset restore format (hash:net)
-# Version: 45 | Generated: 2026-08-12 | Last changed: 2026-08-12
-# IPv4: 1747 merged subnets, 101826176 unique IPs
-# IPv6: 2097 merged subnets
+# Version: 46 | Generated: 2026-08-13 | Last changed: 2026-08-13
+# IPv4: 1751 merged subnets, 101829248 unique IPs
+# IPv6: 2101 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
 # Load with: sudo ipset restore -! < aws.netset
@@ -14,6 +14,7 @@ add aws_v4 1.178.8.0/22
 add aws_v4 1.178.16.0/20
 add aws_v4 1.178.64.0/23
 add aws_v4 1.178.72.0/21
+add aws_v4 1.178.86.0/24
 add aws_v4 1.178.88.0/21
 add aws_v4 1.178.100.0/22
 add aws_v4 1.178.172.0/23
@@ -1290,6 +1291,9 @@ add aws_v4 65.9.0.0/17
 add aws_v4 65.9.128.0/18
 add aws_v4 65.176.0.0/14
 add aws_v4 66.7.0.0/21
+add aws_v4 66.36.0.0/21
+add aws_v4 66.36.8.0/23
+add aws_v4 66.36.10.0/24
 add aws_v4 66.47.0.0/16
 add aws_v4 66.182.96.0/20
 add aws_v4 67.202.0.0/18
@@ -2634,6 +2638,7 @@ add aws_v6 2600:1f60:7400::/40
 add aws_v6 2600:1f60:8000::/39
 add aws_v6 2600:1f60:a400::/40
 add aws_v6 2600:1f60:c000::/40
+add aws_v6 2600:1f60:c200::/40
 add aws_v6 2600:1f60:e000::/40
 add aws_v6 2600:1f60:ec00::/40
 add aws_v6 2600:1f61:800::/40
@@ -2781,6 +2786,7 @@ add aws_v6 2600:1ff0:7400::/40
 add aws_v6 2600:1ff0:8000::/39
 add aws_v6 2600:1ff0:a400::/40
 add aws_v6 2600:1ff0:c000::/40
+add aws_v6 2600:1ff0:c200::/40
 add aws_v6 2600:1ff0:e000::/40
 add aws_v6 2600:1ff0:ec00::/40
 add aws_v6 2600:1ff2:800::/40
@@ -3526,6 +3532,7 @@ add aws_v6 2a05:d030:4000::/40
 add aws_v6 2a05:d030:5000::/40
 add aws_v6 2a05:d030:6000::/40
 add aws_v6 2a05:d030:8000::/40
+add aws_v6 2a05:d030:8800::/40
 add aws_v6 2a05:d030:9000::/40
 add aws_v6 2a05:d030:a000::/40
 add aws_v6 2a05:d030:b000::/40
@@ -3719,6 +3726,7 @@ add aws_v6 2a05:d070:4000::/40
 add aws_v6 2a05:d070:5000::/40
 add aws_v6 2a05:d070:6000::/40
 add aws_v6 2a05:d070:8000::/40
+add aws_v6 2a05:d070:8800::/40
 add aws_v6 2a05:d070:9000::/40
 add aws_v6 2a05:d070:a000::/40
 add aws_v6 2a05:d070:b000::/40
