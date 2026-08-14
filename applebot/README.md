@@ -1,6 +1,6 @@
 # Applebot IP Ranges (Auto-Updated Daily)
 
-> Last updated: **2026-08-13** · Total CIDRs: **12** · IPv4: **12** · IPv6: **0** · Services: **1**
+> Last updated: **2026-08-14** · Total CIDRs: **33** · IPv4: **33** · IPv6: **0** · Services: **1**
 
 Machine-readable, daily-updated, validated public IP ranges for **Applebot**.
 Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and Apache.
@@ -28,11 +28,11 @@ Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and
 ### Sample (first 5 CIDRs, sorted)
 
 ```
-17.22.237.0/24
-17.22.245.0/24
-17.22.253.0/24
-17.241.193.160/27
-17.241.200.160/27
+17.166.150.0/24
+17.166.151.0/24
+17.166.152.0/24
+17.166.153.0/24
+17.166.154.0/24
 ```
 
 ## Why these ranges change

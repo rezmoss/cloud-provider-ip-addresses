@@ -1,12 +1,14 @@
 #!/bin/bash
 # Claudebot IP Ranges
-# Updated: 2026-08-12 03:00:45
+# Updated: 2026-08-14 03:02:24
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
 # Updates daily at 02:00 UTC
 # iptables allow rules for claudebot
 
+iptables -A INPUT -s 20.64.57.208/28 -j ACCEPT
+iptables -A INPUT -s 20.102.46.224/28 -j ACCEPT
 iptables -A INPUT -s 34.11.34.31/32 -j ACCEPT
 iptables -A INPUT -s 34.85.172.162/32 -j ACCEPT
 iptables -A INPUT -s 34.150.241.79/32 -j ACCEPT

@@ -1195,7 +1195,10 @@ ip_address,ip_type,service,region
 240b:4011::/32,IPv6,alibaba-as45102,global
 240b:4011::/33,IPv6,alibaba-as45102,global
 240b:4011:8000::/33,IPv6,alibaba-as45102,global
+240b:4012::/32,IPv6,alibaba-as45102,global
+240b:4012::/33,IPv6,alibaba-as45102,global
 240b:4012::/48,IPv6,alibaba-as45102,global
+240b:4012:8000::/33,IPv6,alibaba-as45102,global
 240b:4013::/32,IPv6,alibaba-as45102,global
 240b:4013::/33,IPv6,alibaba-as45102,global
 240b:4013:8000::/33,IPv6,alibaba-as45102,global

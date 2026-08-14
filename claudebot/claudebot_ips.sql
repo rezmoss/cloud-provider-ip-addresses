@@ -6,6 +6,8 @@ CREATE TABLE IF NOT EXISTS `claudebot_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `claudebot_ips` (`ip_address`, `ip_type`) VALUES ('20.64.57.208/28', 'IPv4');
+INSERT INTO `claudebot_ips` (`ip_address`, `ip_type`) VALUES ('20.102.46.224/28', 'IPv4');
 INSERT INTO `claudebot_ips` (`ip_address`, `ip_type`) VALUES ('34.11.34.31/32', 'IPv4');
 INSERT INTO `claudebot_ips` (`ip_address`, `ip_type`) VALUES ('34.85.172.162/32', 'IPv4');
 INSERT INTO `claudebot_ips` (`ip_address`, `ip_type`) VALUES ('34.150.241.79/32', 'IPv4');

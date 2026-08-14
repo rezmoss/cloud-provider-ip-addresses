@@ -6876,6 +6876,12 @@
     "region": "global"
   },
   {
+    "ip_address": "23.209.128.0/19",
+    "ip_type": "IPv4",
+    "service": "akamai-as16625",
+    "region": "global"
+  },
+  {
     "ip_address": "23.209.184.0/22",
     "ip_type": "IPv4",
     "service": "akamai-as16625",

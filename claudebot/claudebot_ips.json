@@ -1,5 +1,15 @@
 [
   {
+    "ip_address": "20.64.57.208/28",
+    "ip_type": "IPv4",
+    "service": "claudebot"
+  },
+  {
+    "ip_address": "20.102.46.224/28",
+    "ip_type": "IPv4",
+    "service": "claudebot"
+  },
+  {
     "ip_address": "34.11.34.31/32",
     "ip_type": "IPv4",
     "service": "claudebot"

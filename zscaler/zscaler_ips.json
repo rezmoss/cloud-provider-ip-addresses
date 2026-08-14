@@ -4506,6 +4506,24 @@
     "region": "global"
   },
   {
+    "ip_address": "198.14.115.0/24",
+    "ip_type": "IPv4",
+    "service": "zscaler-as22616",
+    "region": "global"
+  },
+  {
+    "ip_address": "198.14.116.0/22",
+    "ip_type": "IPv4",
+    "service": "zscaler-as22616",
+    "region": "global"
+  },
+  {
+    "ip_address": "198.14.120.0/24",
+    "ip_type": "IPv4",
+    "service": "zscaler-as22616",
+    "region": "global"
+  },
+  {
     "ip_address": "199.168.148.0/24",
     "ip_type": "IPv4",
     "service": "zscaler-as53444",

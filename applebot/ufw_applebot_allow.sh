@@ -1,6 +1,6 @@
 #!/bin/bash
 # Applebot IP Ranges
-# Updated: 2026-06-14 03:21:38
+# Updated: 2026-08-14 03:02:24
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -10,6 +10,15 @@
 ufw allow from 17.22.237.0/24
 ufw allow from 17.22.245.0/24
 ufw allow from 17.22.253.0/24
+ufw allow from 17.166.20.0/22
+ufw allow from 17.166.24.0/23
+ufw allow from 17.166.150.0/23
+ufw allow from 17.166.152.0/22
+ufw allow from 17.166.192.48/28
+ufw allow from 17.166.232.0/22
+ufw allow from 17.166.236.0/23
+ufw allow from 17.166.240.48/28
+ufw allow from 17.166.248.48/28
 ufw allow from 17.241.75.0/24
 ufw allow from 17.241.193.160/27
 ufw allow from 17.241.200.160/27

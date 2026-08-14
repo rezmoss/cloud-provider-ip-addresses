@@ -1,23 +1,23 @@
 {
   "provider": "akamai",
-  "version": 26,
-  "generated_date": "2026-08-13",
-  "last_changed_date": "2026-08-13",
+  "version": 27,
+  "generated_date": "2026-08-14",
+  "last_changed_date": "2026-08-14",
   "sources": [
     "BGP announced prefixes via RIPE NCC RIPEstat"
   ],
   "ipv4": {
-    "cidrs": 7990,
+    "cidrs": 7992,
     "merged_cidrs": 345,
     "addresses": 14650576
   },
   "ipv6": {
-    "cidrs": 3035,
-    "merged_cidrs": 251,
-    "addresses": 23772965315492948422005918531584
+    "cidrs": 3036,
+    "merged_cidrs": 250,
+    "addresses": 23772966524418768036635093237760
   },
-  "total_entries": 11025,
-  "content_sha256": "c4254ee126eab7a6c296bbce2e912801bddb07b2faff2eba319cba3526d79edd",
+  "total_entries": 11028,
+  "content_sha256": "0dde5c05f111c8e68dd1c50e930a573081e21964a2d5eafd384be9aad7f683f5",
   "license": "CC0-1.0",
   "license_url": "https://github.com/rezmoss/cloud-provider-ip-addresses/blob/main/LICENSE"
 }

@@ -1,6 +1,6 @@
 # Baidu IP Ranges (Auto-Updated Daily)
 
-> Last updated: **2026-08-13** · Total CIDRs: **211** · IPv4: **197** · IPv6: **14** · Services: **2** · Regions: **1**
+> Last updated: **2026-08-14** · Total CIDRs: **207** · IPv4: **193** · IPv6: **14** · Services: **2** · Regions: **1**
 
 Machine-readable, daily-updated, validated public IP ranges for **Baidu**.
 Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and Apache.
