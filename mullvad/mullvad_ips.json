@@ -834,6 +834,24 @@
     "region": "us"
   },
   {
+    "ip_address": "45.66.219.3/32",
+    "ip_type": "IPv4",
+    "service": "mullvad-wireguard",
+    "region": "gb"
+  },
+  {
+    "ip_address": "45.66.219.166/32",
+    "ip_type": "IPv4",
+    "service": "mullvad-wireguard",
+    "region": "gb"
+  },
+  {
+    "ip_address": "45.66.219.209/32",
+    "ip_type": "IPv4",
+    "service": "mullvad-wireguard",
+    "region": "gb"
+  },
+  {
     "ip_address": "45.83.220.68/32",
     "ip_type": "IPv4",
     "service": "mullvad-wireguard",
@@ -1870,6 +1888,12 @@
     "ip_type": "IPv4",
     "service": "mullvad-wireguard",
     "region": "gb"
+  },
+  {
+    "ip_address": "146.70.134.2/32",
+    "ip_type": "IPv4",
+    "service": "mullvad-wireguard",
+    "region": "ch"
   },
   {
     "ip_address": "146.70.141.154/32",
@@ -3384,30 +3408,6 @@
     "region": "be"
   },
   {
-    "ip_address": "194.114.136.3/32",
-    "ip_type": "IPv4",
-    "service": "mullvad-wireguard",
-    "region": "jp"
-  },
-  {
-    "ip_address": "194.114.136.34/32",
-    "ip_type": "IPv4",
-    "service": "mullvad-wireguard",
-    "region": "jp"
-  },
-  {
-    "ip_address": "194.114.136.65/32",
-    "ip_type": "IPv4",
-    "service": "mullvad-wireguard",
-    "region": "jp"
-  },
-  {
-    "ip_address": "194.114.136.96/32",
-    "ip_type": "IPv4",
-    "service": "mullvad-wireguard",
-    "region": "jp"
-  },
-  {
     "ip_address": "194.126.179.3/32",
     "ip_type": "IPv4",
     "service": "mullvad-wireguard",
@@ -3654,6 +3654,12 @@
     "region": "be"
   },
   {
+    "ip_address": "2001:ac8:28:aa::f001/128",
+    "ip_type": "IPv6",
+    "service": "mullvad-wireguard",
+    "region": "ch"
+  },
+  {
     "ip_address": "2001:ac8:28:ab::f001/128",
     "ip_type": "IPv6",
     "service": "mullvad-wireguard",
@@ -3856,30 +3862,6 @@
     "ip_type": "IPv6",
     "service": "mullvad-wireguard",
     "region": "hk"
-  },
-  {
-    "ip_address": "2403:fbc0:7000::f001/128",
-    "ip_type": "IPv6",
-    "service": "mullvad-wireguard",
-    "region": "jp"
-  },
-  {
-    "ip_address": "2403:fbc0:7000::f101/128",
-    "ip_type": "IPv6",
-    "service": "mullvad-wireguard",
-    "region": "jp"
-  },
-  {
-    "ip_address": "2403:fbc0:7000::f201/128",
-    "ip_type": "IPv6",
-    "service": "mullvad-wireguard",
-    "region": "jp"
-  },
-  {
-    "ip_address": "2403:fbc0:7000::f301/128",
-    "ip_type": "IPv6",
-    "service": "mullvad-wireguard",
-    "region": "jp"
   },
   {
     "ip_address": "2404:f780:0:deb::c1f/128",
@@ -6634,6 +6616,24 @@
     "ip_type": "IPv6",
     "service": "mullvad-wireguard",
     "region": "nl"
+  },
+  {
+    "ip_address": "2a07:d883:701:1::f001/128",
+    "ip_type": "IPv6",
+    "service": "mullvad-wireguard",
+    "region": "gb"
+  },
+  {
+    "ip_address": "2a07:d883:701:2::f001/128",
+    "ip_type": "IPv6",
+    "service": "mullvad-wireguard",
+    "region": "gb"
+  },
+  {
+    "ip_address": "2a07:d883:701:3::f001/128",
+    "ip_type": "IPv6",
+    "service": "mullvad-wireguard",
+    "region": "gb"
   },
   {
     "ip_address": "2a07:d883:702:1::f001/128",

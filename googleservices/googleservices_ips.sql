@@ -283,10 +283,8 @@ INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('2600:1900:42
 INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('2600:1900:4300::/43', 'IPv6');
 INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('2600:1900:4320::/44', 'IPv6');
 INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('2600:1900:4330::/46', 'IPv6');
-INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('2600:1900:4344::/46', 'IPv6');
-INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('2600:1900:4348::/45', 'IPv6');
-INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('2600:1900:4350::/44', 'IPv6');
-INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('2600:1900:4360::/43', 'IPv6');
+INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('2600:1900:4338::/45', 'IPv6');
+INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('2600:1900:4340::/42', 'IPv6');
 INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('2600:1900:4380::/41', 'IPv6');
 INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('2600:1900:4400::/38', 'IPv6');
 INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('2600:1900:4800::/37', 'IPv6');

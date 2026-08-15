@@ -1,12 +1,13 @@
 #!/bin/bash
 # Vultr IP Ranges
-# Updated: 2026-06-14 03:22:15
+# Updated: 2026-08-15 02:32:43
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
 # Updates daily at 02:00 UTC
 # iptables allow rules for vultr
 
+iptables -A INPUT -s 64.177.32.0/21 -j ACCEPT
 iptables -A INPUT -s 65.20.96.0/20 -j ACCEPT
 iptables -A INPUT -s 108.61.97.0/24 -j ACCEPT
 iptables -A INPUT -s 208.76.220.0/22 -j ACCEPT

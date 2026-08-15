@@ -165,6 +165,7 @@ INSERT INTO `huawei_global_ips` (`ip_address`, `ip_type`) VALUES ('87.119.33.0/2
 INSERT INTO `huawei_global_ips` (`ip_address`, `ip_type`) VALUES ('87.119.34.0/24', 'IPv4');
 INSERT INTO `huawei_global_ips` (`ip_address`, `ip_type`) VALUES ('89.150.192.0/20', 'IPv4');
 INSERT INTO `huawei_global_ips` (`ip_address`, `ip_type`) VALUES ('89.150.208.0/20', 'IPv4');
+INSERT INTO `huawei_global_ips` (`ip_address`, `ip_type`) VALUES ('89.150.224.0/20', 'IPv4');
 INSERT INTO `huawei_global_ips` (`ip_address`, `ip_type`) VALUES ('89.150.240.0/20', 'IPv4');
 INSERT INTO `huawei_global_ips` (`ip_address`, `ip_type`) VALUES ('94.45.160.0/19', 'IPv4');
 INSERT INTO `huawei_global_ips` (`ip_address`, `ip_type`) VALUES ('94.45.160.0/24', 'IPv4');

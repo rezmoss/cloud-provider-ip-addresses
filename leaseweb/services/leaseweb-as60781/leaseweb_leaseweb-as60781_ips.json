@@ -2148,12 +2148,6 @@
     "region": "global"
   },
   {
-    "ip_address": "193.58.108.0/24",
-    "ip_type": "IPv4",
-    "service": "leaseweb-as60781",
-    "region": "global"
-  },
-  {
     "ip_address": "193.58.109.0/24",
     "ip_type": "IPv4",
     "service": "leaseweb-as60781",

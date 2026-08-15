@@ -183,6 +183,7 @@ ip_address,ip_type,service,region
 51.24.162.0/23,IPv4,AMAZON,eu-west-2
 51.24.164.0/22,IPv4,EFS,eu-west-2
 51.24.168.0/22,IPv4,EFS,eu-west-2
+51.24.198.0/23,IPv4,AMAZON,eu-west-2
 51.200.0.0/15,IPv4,AMAZON,eu-west-2
 51.200.0.0/15,IPv4,EC2,eu-west-2
 51.202.0.0/15,IPv4,AMAZON,eu-west-2

@@ -1,7 +1,7 @@
 {
   "provider": "claudebot",
   "version": 3,
-  "generated_date": "2026-08-14",
+  "generated_date": "2026-08-15",
   "last_changed_date": "2026-08-14",
   "sources": [
     "https://claude.com/crawling/bots.json"

@@ -6,6 +6,9 @@ CREATE TABLE IF NOT EXISTS `mullvad_gb_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `mullvad_gb_ips` (`ip_address`, `ip_type`) VALUES ('45.66.219.3/32', 'IPv4');
+INSERT INTO `mullvad_gb_ips` (`ip_address`, `ip_type`) VALUES ('45.66.219.166/32', 'IPv4');
+INSERT INTO `mullvad_gb_ips` (`ip_address`, `ip_type`) VALUES ('45.66.219.209/32', 'IPv4');
 INSERT INTO `mullvad_gb_ips` (`ip_address`, `ip_type`) VALUES ('135.136.21.2/32', 'IPv4');
 INSERT INTO `mullvad_gb_ips` (`ip_address`, `ip_type`) VALUES ('135.136.22.2/32', 'IPv4');
 INSERT INTO `mullvad_gb_ips` (`ip_address`, `ip_type`) VALUES ('135.136.22.130/32', 'IPv4');
@@ -49,6 +52,9 @@ INSERT INTO `mullvad_gb_ips` (`ip_address`, `ip_type`) VALUES ('2a04:9dc0:18:71:
 INSERT INTO `mullvad_gb_ips` (`ip_address`, `ip_type`) VALUES ('2a04:9dc0:18:73::f001/128', 'IPv6');
 INSERT INTO `mullvad_gb_ips` (`ip_address`, `ip_type`) VALUES ('2a06:3040:d:410::f001/128', 'IPv6');
 INSERT INTO `mullvad_gb_ips` (`ip_address`, `ip_type`) VALUES ('2a06:3040:d:410::f101/128', 'IPv6');
+INSERT INTO `mullvad_gb_ips` (`ip_address`, `ip_type`) VALUES ('2a07:d883:701:1::f001/128', 'IPv6');
+INSERT INTO `mullvad_gb_ips` (`ip_address`, `ip_type`) VALUES ('2a07:d883:701:2::f001/128', 'IPv6');
+INSERT INTO `mullvad_gb_ips` (`ip_address`, `ip_type`) VALUES ('2a07:d883:701:3::f001/128', 'IPv6');
 INSERT INTO `mullvad_gb_ips` (`ip_address`, `ip_type`) VALUES ('2a0b:89c1:3::a33f/128', 'IPv6');
 INSERT INTO `mullvad_gb_ips` (`ip_address`, `ip_type`) VALUES ('2a0b:89c1:3::a34f/128', 'IPv6');
 INSERT INTO `mullvad_gb_ips` (`ip_address`, `ip_type`) VALUES ('2a0b:89c1:3::a35f/128', 'IPv6');

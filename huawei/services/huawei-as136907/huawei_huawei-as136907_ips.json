@@ -858,6 +858,12 @@
     "region": "global"
   },
   {
+    "ip_address": "89.150.224.0/20",
+    "ip_type": "IPv4",
+    "service": "huawei-as136907",
+    "region": "global"
+  },
+  {
     "ip_address": "89.150.240.0/20",
     "ip_type": "IPv4",
     "service": "huawei-as136907",

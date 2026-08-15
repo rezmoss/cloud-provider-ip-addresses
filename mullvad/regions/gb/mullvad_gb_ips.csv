@@ -1,4 +1,7 @@
 ip_address,ip_type,service,region
+45.66.219.3/32,IPv4,mullvad-wireguard,gb
+45.66.219.166/32,IPv4,mullvad-wireguard,gb
+45.66.219.209/32,IPv4,mullvad-wireguard,gb
 135.136.21.2/32,IPv4,mullvad-wireguard,gb
 135.136.22.2/32,IPv4,mullvad-wireguard,gb
 135.136.22.130/32,IPv4,mullvad-wireguard,gb
@@ -42,6 +45,9 @@ ip_address,ip_type,service,region
 2a04:9dc0:18:73::f001/128,IPv6,mullvad-wireguard,gb
 2a06:3040:d:410::f001/128,IPv6,mullvad-wireguard,gb
 2a06:3040:d:410::f101/128,IPv6,mullvad-wireguard,gb
+2a07:d883:701:1::f001/128,IPv6,mullvad-wireguard,gb
+2a07:d883:701:2::f001/128,IPv6,mullvad-wireguard,gb
+2a07:d883:701:3::f001/128,IPv6,mullvad-wireguard,gb
 2a0b:89c1:3::a33f/128,IPv6,mullvad-wireguard,gb
 2a0b:89c1:3::a34f/128,IPv6,mullvad-wireguard,gb
 2a0b:89c1:3::a35f/128,IPv6,mullvad-wireguard,gb

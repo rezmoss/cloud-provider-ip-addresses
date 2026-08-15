@@ -78,6 +78,7 @@ ip_address,ip_type,service,region
 15.240.0.0/16,IPv4,AMAZON,af-south-1
 15.240.0.0/16,IPv4,EC2,af-south-1
 15.240.196.0/22,IPv4,EFS,af-south-1
+15.240.204.0/23,IPv4,AMAZON,af-south-1
 15.241.0.0/16,IPv4,AMAZON,af-south-1
 15.241.0.0/16,IPv4,EC2,af-south-1
 16.6.0.0/16,IPv4,AMAZON,af-south-1

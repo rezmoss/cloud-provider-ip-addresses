@@ -1036,8 +1036,6 @@ INSERT INTO `googlecloud_ips` (`ip_address`, `ip_type`) VALUES ('2600:1900:42a0:
 INSERT INTO `googlecloud_ips` (`ip_address`, `ip_type`) VALUES ('2600:1900:42c0::/44', 'IPv6');
 INSERT INTO `googlecloud_ips` (`ip_address`, `ip_type`) VALUES ('2600:1900:42e0::/44', 'IPv6');
 INSERT INTO `googlecloud_ips` (`ip_address`, `ip_type`) VALUES ('2600:1900:4334::/46', 'IPv6');
-INSERT INTO `googlecloud_ips` (`ip_address`, `ip_type`) VALUES ('2600:1900:4338::/45', 'IPv6');
-INSERT INTO `googlecloud_ips` (`ip_address`, `ip_type`) VALUES ('2600:1900:4340::/46', 'IPv6');
 INSERT INTO `googlecloud_ips` (`ip_address`, `ip_type`) VALUES ('2600:1900:5400::/44', 'IPv6');
 INSERT INTO `googlecloud_ips` (`ip_address`, `ip_type`) VALUES ('2600:1900:8000::/44', 'IPv6');
 INSERT INTO `googlecloud_ips` (`ip_address`, `ip_type`) VALUES ('2600:1901::/48', 'IPv6');

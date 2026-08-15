@@ -1,5 +1,5 @@
 # baidu IP ranges - ipset restore format (hash:net)
-# Version: 7 | Generated: 2026-08-14 | Last changed: 2026-08-14
+# Version: 7 | Generated: 2026-08-15 | Last changed: 2026-08-14
 # IPv4: 45 merged subnets, 380160 unique IPs
 # IPv6: 4 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
