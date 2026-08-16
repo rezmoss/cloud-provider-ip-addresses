@@ -1,6 +1,6 @@
 #!/bin/bash
 # Tencent IP Ranges
-# Updated: 2026-08-14 03:05:46
+# Updated: 2026-08-16 02:38:33
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -252,7 +252,7 @@ ip6tables -A INPUT -s 240d:c000:f000::/44 -j ACCEPT
 ip6tables -A INPUT -s 240d:c000:f020::/43 -j ACCEPT
 ip6tables -A INPUT -s 240d:c000:f040::/42 -j ACCEPT
 ip6tables -A INPUT -s 240d:c000:f0c0::/42 -j ACCEPT
-ip6tables -A INPUT -s 240d:c000:f1c0::/44 -j ACCEPT
+ip6tables -A INPUT -s 240d:c000:f1c0::/43 -j ACCEPT
 ip6tables -A INPUT -s 240d:c000:f1f0::/44 -j ACCEPT
 ip6tables -A INPUT -s 240d:c010:16::/48 -j ACCEPT
 ip6tables -A INPUT -s 240d:c010:20::/44 -j ACCEPT

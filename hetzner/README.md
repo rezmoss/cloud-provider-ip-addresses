@@ -1,6 +1,6 @@
 # Hetzner IP Ranges (Auto-Updated Daily)
 
-> Last updated: **2026-08-15** · Total CIDRs: **690** · IPv4: **683** · IPv6: **7** · Services: **3** · Regions: **1**
+> Last updated: **2026-08-16** · Total CIDRs: **690** · IPv4: **683** · IPv6: **7** · Services: **3** · Regions: **1**
 
 Machine-readable, daily-updated, validated public IP ranges for **Hetzner**.
 Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and Apache.

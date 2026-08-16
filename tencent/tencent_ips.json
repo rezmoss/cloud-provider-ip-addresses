@@ -20376,6 +20376,12 @@
     "region": "global"
   },
   {
+    "ip_address": "240d:c000:f1d0::/44",
+    "ip_type": "IPv6",
+    "service": "tencent-as132203",
+    "region": "global"
+  },
+  {
     "ip_address": "240d:c000:f1f0::/44",
     "ip_type": "IPv6",
     "service": "tencent-as132203",

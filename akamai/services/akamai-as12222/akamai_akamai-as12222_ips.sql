@@ -9,6 +9,7 @@ CREATE TABLE IF NOT EXISTS `akamai_akamai-as12222_ips` (
 INSERT INTO `akamai_akamai-as12222_ips` (`ip_address`, `ip_type`) VALUES ('2.16.36.0/24', 'IPv4');
 INSERT INTO `akamai_akamai-as12222_ips` (`ip_address`, `ip_type`) VALUES ('2.16.37.0/24', 'IPv4');
 INSERT INTO `akamai_akamai-as12222_ips` (`ip_address`, `ip_type`) VALUES ('2.22.226.0/24', 'IPv4');
+INSERT INTO `akamai_akamai-as12222_ips` (`ip_address`, `ip_type`) VALUES ('23.15.11.0/24', 'IPv4');
 INSERT INTO `akamai_akamai-as12222_ips` (`ip_address`, `ip_type`) VALUES ('23.15.12.0/24', 'IPv4');
 INSERT INTO `akamai_akamai-as12222_ips` (`ip_address`, `ip_type`) VALUES ('23.56.209.0/24', 'IPv4');
 INSERT INTO `akamai_akamai-as12222_ips` (`ip_address`, `ip_type`) VALUES ('23.62.225.0/24', 'IPv4');

@@ -564,6 +564,7 @@ ip_address,ip_type,service,region
 184.174.96.0/24,IPv4,ovhcloud-as16276,global
 184.174.97.0/24,IPv4,ovhcloud-as16276,global
 185.2.49.0/24,IPv4,ovhcloud-as16276,global
+185.3.73.0/24,IPv4,ovhcloud-as16276,global
 185.5.39.0/24,IPv4,ovhcloud-as16276,global
 185.6.28.0/24,IPv4,ovhcloud-as16276,global
 185.10.200.0/22,IPv4,ovhcloud-as16276,global

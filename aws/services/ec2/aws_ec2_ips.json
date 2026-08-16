@@ -162,12 +162,6 @@
     "region": "us-west-2"
   },
   {
-    "ip_address": "1.178.86.0/24",
-    "ip_type": "IPv4",
-    "service": "EC2",
-    "region": "ap-southeast-3"
-  },
-  {
     "ip_address": "1.178.88.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -17862,6 +17856,12 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "2600:f0f0:702::/48",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ca-central-1"
+  },
+  {
     "ip_address": "2600:f0f0:720::/48",
     "ip_type": "IPv6",
     "service": "EC2",
@@ -20518,6 +20518,12 @@
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "ap-southeast-1"
+  },
+  {
+    "ip_address": "2600:f0f3:f010:2c00::/56",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eusc-de-east-1"
   },
   {
     "ip_address": "2600:f0f3:f010:3400::/56",

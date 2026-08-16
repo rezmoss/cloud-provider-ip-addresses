@@ -2,6 +2,7 @@ ip_address,ip_type,service,region
 2.16.36.0/24,IPv4,akamai-as12222,global
 2.16.37.0/24,IPv4,akamai-as12222,global
 2.22.226.0/24,IPv4,akamai-as12222,global
+23.15.11.0/24,IPv4,akamai-as12222,global
 23.15.12.0/24,IPv4,akamai-as12222,global
 23.56.209.0/24,IPv4,akamai-as12222,global
 23.62.225.0/24,IPv4,akamai-as12222,global

@@ -1,13 +1,13 @@
 {
   "provider": "baidu",
-  "version": 7,
-  "generated_date": "2026-08-15",
-  "last_changed_date": "2026-08-14",
+  "version": 8,
+  "generated_date": "2026-08-16",
+  "last_changed_date": "2026-08-16",
   "sources": [
     "BGP announced prefixes via RIPE NCC RIPEstat"
   ],
   "ipv4": {
-    "cidrs": 193,
+    "cidrs": 177,
     "merged_cidrs": 45,
     "addresses": 380160
   },
@@ -16,8 +16,8 @@
     "merged_cidrs": 4,
     "addresses": 81218770097435229075581742088192
   },
-  "total_entries": 207,
-  "content_sha256": "a77948c5387dc7ccab03974a072ed6163665784413537a58dc5ab7772cb780e7",
+  "total_entries": 191,
+  "content_sha256": "66181ab233df9ccd7d2fb41877de838fc7e7c6af4f1de50ee6ea513d536db3ef",
   "license": "CC0-1.0",
   "license_url": "https://github.com/rezmoss/cloud-provider-ip-addresses/blob/main/LICENSE"
 }

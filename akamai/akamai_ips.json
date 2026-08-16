@@ -6144,6 +6144,12 @@
     "region": "global"
   },
   {
+    "ip_address": "23.15.11.0/24",
+    "ip_type": "IPv4",
+    "service": "akamai-as12222",
+    "region": "global"
+  },
+  {
     "ip_address": "23.15.12.0/24",
     "ip_type": "IPv4",
     "service": "akamai-as12222",
