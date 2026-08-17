@@ -150,6 +150,21 @@
     "region": "IN-PB"
   },
   {
+    "ip_address": "104.28.137.194/32",
+    "ip_type": "IPv4",
+    "region": "IN-PB"
+  },
+  {
+    "ip_address": "104.28.137.195/32",
+    "ip_type": "IPv4",
+    "region": "IN-PB"
+  },
+  {
+    "ip_address": "104.28.137.196/32",
+    "ip_type": "IPv4",
+    "region": "IN-PB"
+  },
+  {
     "ip_address": "2606:54c0:3e68::/45",
     "ip_type": "IPv6",
     "region": "IN-PB"

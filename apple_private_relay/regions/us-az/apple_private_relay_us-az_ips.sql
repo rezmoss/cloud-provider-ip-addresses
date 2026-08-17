@@ -156,6 +156,7 @@ INSERT INTO `apple_private_relay_us-az_ips` (`ip_address`, `ip_type`) VALUES ('1
 INSERT INTO `apple_private_relay_us-az_ips` (`ip_address`, `ip_type`) VALUES ('104.28.124.202/32', 'IPv4');
 INSERT INTO `apple_private_relay_us-az_ips` (`ip_address`, `ip_type`) VALUES ('104.28.124.212/32', 'IPv4');
 INSERT INTO `apple_private_relay_us-az_ips` (`ip_address`, `ip_type`) VALUES ('104.28.124.213/32', 'IPv4');
+INSERT INTO `apple_private_relay_us-az_ips` (`ip_address`, `ip_type`) VALUES ('104.28.137.190/32', 'IPv4');
 INSERT INTO `apple_private_relay_us-az_ips` (`ip_address`, `ip_type`) VALUES ('104.28.144.190/32', 'IPv4');
 INSERT INTO `apple_private_relay_us-az_ips` (`ip_address`, `ip_type`) VALUES ('104.28.144.191/32', 'IPv4');
 INSERT INTO `apple_private_relay_us-az_ips` (`ip_address`, `ip_type`) VALUES ('104.28.144.192/32', 'IPv4');

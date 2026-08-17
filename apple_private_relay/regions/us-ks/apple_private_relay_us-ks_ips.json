@@ -120,6 +120,11 @@
     "region": "US-KS"
   },
   {
+    "ip_address": "104.28.137.192/32",
+    "ip_type": "IPv4",
+    "region": "US-KS"
+  },
+  {
     "ip_address": "104.28.139.78/32",
     "ip_type": "IPv4",
     "region": "US-KS"

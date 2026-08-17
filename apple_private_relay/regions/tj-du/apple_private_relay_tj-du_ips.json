@@ -40,6 +40,11 @@
     "region": "TJ-DU"
   },
   {
+    "ip_address": "104.28.137.191/32",
+    "ip_type": "IPv4",
+    "region": "TJ-DU"
+  },
+  {
     "ip_address": "2606:54c0:5778::/45",
     "ip_type": "IPv6",
     "region": "TJ-DU"

@@ -2,6 +2,28 @@
 
 Daily IP range changes across all providers.
 
+## 2026-08-17
+
+### ovhcloud
+- Added: 0 CIDRs
+- Removed: 1 CIDRs
+
+### akamai
+- Added: 1 CIDRs
+- Removed: 0 CIDRs
+
+### leaseweb
+- Added: 1 CIDRs
+- Removed: 0 CIDRs
+
+### tor
+- Added: 90 CIDRs
+- Removed: 18 CIDRs
+
+### apple_private_relay
+- Added: 8 CIDRs
+- Removed: 0 CIDRs
+
 ## 2026-08-16
 
 ### tencent

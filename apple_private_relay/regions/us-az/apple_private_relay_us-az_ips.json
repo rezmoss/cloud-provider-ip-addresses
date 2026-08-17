@@ -750,6 +750,11 @@
     "region": "US-AZ"
   },
   {
+    "ip_address": "104.28.137.190/32",
+    "ip_type": "IPv4",
+    "region": "US-AZ"
+  },
+  {
     "ip_address": "104.28.144.190/32",
     "ip_type": "IPv4",
     "region": "US-AZ"

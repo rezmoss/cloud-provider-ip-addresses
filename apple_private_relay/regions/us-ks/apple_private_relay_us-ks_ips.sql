@@ -30,6 +30,7 @@ INSERT INTO `apple_private_relay_us-ks_ips` (`ip_address`, `ip_type`) VALUES ('1
 INSERT INTO `apple_private_relay_us-ks_ips` (`ip_address`, `ip_type`) VALUES ('104.28.104.54/32', 'IPv4');
 INSERT INTO `apple_private_relay_us-ks_ips` (`ip_address`, `ip_type`) VALUES ('104.28.104.86/32', 'IPv4');
 INSERT INTO `apple_private_relay_us-ks_ips` (`ip_address`, `ip_type`) VALUES ('104.28.104.87/32', 'IPv4');
+INSERT INTO `apple_private_relay_us-ks_ips` (`ip_address`, `ip_type`) VALUES ('104.28.137.192/32', 'IPv4');
 INSERT INTO `apple_private_relay_us-ks_ips` (`ip_address`, `ip_type`) VALUES ('104.28.139.78/32', 'IPv4');
 INSERT INTO `apple_private_relay_us-ks_ips` (`ip_address`, `ip_type`) VALUES ('104.28.139.79/32', 'IPv4');
 INSERT INTO `apple_private_relay_us-ks_ips` (`ip_address`, `ip_type`) VALUES ('104.28.139.80/32', 'IPv4');

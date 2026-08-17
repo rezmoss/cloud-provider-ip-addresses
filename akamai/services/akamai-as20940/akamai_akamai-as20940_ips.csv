@@ -246,6 +246,7 @@ ip_address,ip_type,service,region
 2.18.248.0/24,IPv4,akamai-as20940,global
 2.18.250.0/24,IPv4,akamai-as20940,global
 2.18.251.0/24,IPv4,akamai-as20940,global
+2.18.252.0/24,IPv4,akamai-as20940,global
 2.18.254.0/24,IPv4,akamai-as20940,global
 2.18.255.0/24,IPv4,akamai-as20940,global
 2.19.8.0/24,IPv4,akamai-as20940,global

@@ -14,6 +14,7 @@ INSERT INTO `apple_private_relay_tj-du_ips` (`ip_address`, `ip_type`) VALUES ('1
 INSERT INTO `apple_private_relay_tj-du_ips` (`ip_address`, `ip_type`) VALUES ('104.28.81.6/32', 'IPv4');
 INSERT INTO `apple_private_relay_tj-du_ips` (`ip_address`, `ip_type`) VALUES ('104.28.106.219/32', 'IPv4');
 INSERT INTO `apple_private_relay_tj-du_ips` (`ip_address`, `ip_type`) VALUES ('104.28.106.220/32', 'IPv4');
+INSERT INTO `apple_private_relay_tj-du_ips` (`ip_address`, `ip_type`) VALUES ('104.28.137.191/32', 'IPv4');
 INSERT INTO `apple_private_relay_tj-du_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:5778::/45', 'IPv6');
 INSERT INTO `apple_private_relay_tj-du_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:12f8::/64', 'IPv6');
 INSERT INTO `apple_private_relay_tj-du_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:5778::/45', 'IPv6');

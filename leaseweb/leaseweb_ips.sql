@@ -1959,6 +1959,7 @@ INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('2a0f:e6c2:10::/48'
 INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('2a0f:e6c6:33::/48', 'IPv6');
 INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('2a0f:e6c6:66::/48', 'IPv6');
 INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('2a0f:e6c6:77::/48', 'IPv6');
+INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('2a0f:e7c1::/32', 'IPv6');
 INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('2a0f:e7c2::/32', 'IPv6');
 INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('2a0f:e7c4:33::/48', 'IPv6');
 INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('2a0f:e844:11::/48', 'IPv6');
