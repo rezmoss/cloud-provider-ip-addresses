@@ -949,6 +949,7 @@ ip_address,ip_type,service,region
 3.103.138.0/23,IPv4,AMAZON,ap-southeast-6
 3.103.180.128/25,IPv4,EFS,ap-southeast-6
 3.103.244.0/22,IPv4,EFS,ap-southeast-6
+3.103.254.0/23,IPv4,AMAZON,ap-southeast-6
 3.104.0.0/14,IPv4,AMAZON,ap-southeast-2
 3.104.0.0/14,IPv4,EC2,ap-southeast-2
 3.104.82.0/23,IPv4,AMAZON,ap-southeast-2
@@ -8789,6 +8790,7 @@ ip_address,ip_type,service,region
 98.88.0.0/13,IPv4,EC2,us-east-1
 98.88.14.0/23,IPv4,AMAZON,us-east-1
 98.90.62.0/23,IPv4,AMAZON,us-east-1
+98.95.231.76/30,IPv4,EBS,us-east-1
 98.130.0.0/16,IPv4,AMAZON,ap-south-2
 98.130.0.0/16,IPv4,EC2,ap-south-2
 98.130.12.0/23,IPv4,AMAZON,ap-south-2

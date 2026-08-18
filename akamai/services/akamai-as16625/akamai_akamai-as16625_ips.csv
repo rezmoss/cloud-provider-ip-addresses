@@ -514,7 +514,6 @@ ip_address,ip_type,service,region
 23.46.200.0/22,IPv4,akamai-as16625,global
 23.46.218.0/23,IPv4,akamai-as16625,global
 23.46.224.0/22,IPv4,akamai-as16625,global
-23.46.236.0/23,IPv4,akamai-as16625,global
 23.46.240.0/22,IPv4,akamai-as16625,global
 23.46.244.0/22,IPv4,akamai-as16625,global
 23.47.8.0/21,IPv4,akamai-as16625,global
@@ -527,7 +526,6 @@ ip_address,ip_type,service,region
 23.47.112.0/22,IPv4,akamai-as16625,global
 23.47.128.0/20,IPv4,akamai-as16625,global
 23.47.146.0/23,IPv4,akamai-as16625,global
-23.47.150.0/23,IPv4,akamai-as16625,global
 23.47.156.0/23,IPv4,akamai-as16625,global
 23.47.164.0/23,IPv4,akamai-as16625,global
 23.47.166.0/23,IPv4,akamai-as16625,global
@@ -1007,7 +1005,6 @@ ip_address,ip_type,service,region
 23.199.248.0/22,IPv4,akamai-as16625,global
 23.200.48.0/22,IPv4,akamai-as16625,global
 23.200.52.0/23,IPv4,akamai-as16625,global
-23.200.60.0/22,IPv4,akamai-as16625,global
 23.200.96.0/20,IPv4,akamai-as16625,global
 23.200.158.0/23,IPv4,akamai-as16625,global
 23.200.168.0/21,IPv4,akamai-as16625,global

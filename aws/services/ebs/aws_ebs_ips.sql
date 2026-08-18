@@ -106,5 +106,6 @@ INSERT INTO `aws_ebs_ips` (`ip_address`, `ip_type`) VALUES ('65.1.103.192/29', '
 INSERT INTO `aws_ebs_ips` (`ip_address`, `ip_type`) VALUES ('65.1.103.200/30', 'IPv4');
 INSERT INTO `aws_ebs_ips` (`ip_address`, `ip_type`) VALUES ('68.79.2.244/30', 'IPv4');
 INSERT INTO `aws_ebs_ips` (`ip_address`, `ip_type`) VALUES ('68.79.2.248/29', 'IPv4');
+INSERT INTO `aws_ebs_ips` (`ip_address`, `ip_type`) VALUES ('98.95.231.76/30', 'IPv4');
 INSERT INTO `aws_ebs_ips` (`ip_address`, `ip_type`) VALUES ('140.179.58.88/29', 'IPv4');
 INSERT INTO `aws_ebs_ips` (`ip_address`, `ip_type`) VALUES ('140.179.79.244/30', 'IPv4');
