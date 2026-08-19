@@ -207,6 +207,7 @@ ip_address,ip_type,service,region
 2a05:d032:1000::/40,IPv6,EC2,eu-south-2
 2a05:d033:1000::/40,IPv6,AMAZON,eu-south-2
 2a05:d033:1000::/40,IPv6,EC2,eu-south-2
+2a05:d033:1000::/40,IPv6,IOT_CORE,eu-south-2
 2a05:d036:1000::/40,IPv6,AMAZON,eu-south-2
 2a05:d036:1000::/40,IPv6,EC2,eu-south-2
 2a05:d038:1000::/40,IPv6,AMAZON,eu-south-2

@@ -702,7 +702,7 @@
     "region": ""
   },
   {
-    "ip_address": "172.129.95.64/26",
+    "ip_address": "172.129.103.0/26",
     "ip_type": "IPv4",
     "service": "AzureSignalR",
     "region": ""

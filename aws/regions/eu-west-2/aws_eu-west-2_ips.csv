@@ -498,6 +498,7 @@ ip_address,ip_type,service,region
 2a05:d032:c000::/40,IPv6,WORKSPACES_GATEWAYS,eu-west-2
 2a05:d033:c000::/40,IPv6,AMAZON,eu-west-2
 2a05:d033:c000::/40,IPv6,EC2,eu-west-2
+2a05:d033:c000::/40,IPv6,IOT_CORE,eu-west-2
 2a05:d036:c000::/40,IPv6,AMAZON,eu-west-2
 2a05:d036:c000::/40,IPv6,EC2,eu-west-2
 2a05:d038:c000::/40,IPv6,AMAZON,eu-west-2

@@ -1818,6 +1818,12 @@
     "region": "southindia"
   },
   {
+    "ip_address": "74.224.37.216/30",
+    "ip_type": "IPv4",
+    "service": "PowerBI.SouthIndia",
+    "region": "southindia"
+  },
+  {
     "ip_address": "74.224.83.96/27",
     "ip_type": "IPv4",
     "service": "AzureSecurityCenter.SouthIndia",

@@ -1,6 +1,6 @@
 #!/bin/bash
 # Circleci IP Ranges
-# Updated: 2026-06-25 03:23:21
+# Updated: 2026-08-19 02:36:05
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -25,6 +25,8 @@ iptables -A INPUT -s 38.23.41.0/24 -j ACCEPT
 iptables -A INPUT -s 38.23.42.0/23 -j ACCEPT
 iptables -A INPUT -s 38.23.48.0/22 -j ACCEPT
 iptables -A INPUT -s 38.23.52.0/24 -j ACCEPT
+iptables -A INPUT -s 38.39.178.0/25 -j ACCEPT
+iptables -A INPUT -s 38.39.178.128/27 -j ACCEPT
 iptables -A INPUT -s 52.3.128.216/32 -j ACCEPT
 iptables -A INPUT -s 52.4.195.249/32 -j ACCEPT
 iptables -A INPUT -s 52.5.58.121/32 -j ACCEPT

@@ -80,6 +80,8 @@ INSERT INTO `azure_azurecloud.taiwannorth_ips` (`ip_address`, `ip_type`) VALUES 
 INSERT INTO `azure_azurecloud.taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1005:b8::/62', 'IPv6');
 INSERT INTO `azure_azurecloud.taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1310:3400::/54', 'IPv6');
 INSERT INTO `azure_azurecloud.taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1734::/48', 'IPv6');
+INSERT INTO `azure_azurecloud.taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2002:e000::/57', 'IPv6');
+INSERT INTO `azure_azurecloud.taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2004:dc00::/57', 'IPv6');
 INSERT INTO `azure_azurecloud.taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2010:34::/64', 'IPv6');
 INSERT INTO `azure_azurecloud.taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2011:34::/64', 'IPv6');
 INSERT INTO `azure_azurecloud.taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1063:4b::/55', 'IPv6');

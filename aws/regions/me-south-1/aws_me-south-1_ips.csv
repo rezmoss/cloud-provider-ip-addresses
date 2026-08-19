@@ -245,6 +245,7 @@ ip_address,ip_type,service,region
 2a05:d032:e000::/40,IPv6,EC2,me-south-1
 2a05:d033:e000::/40,IPv6,AMAZON,me-south-1
 2a05:d033:e000::/40,IPv6,EC2,me-south-1
+2a05:d033:e000::/40,IPv6,IOT_CORE,me-south-1
 2a05:d036:e000::/40,IPv6,AMAZON,me-south-1
 2a05:d036:e000::/40,IPv6,EC2,me-south-1
 2a05:d038:e000::/40,IPv6,AMAZON,me-south-1

@@ -438,6 +438,12 @@
     "region": "eastus"
   },
   {
+    "ip_address": "72.152.138.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.EastUS",
+    "region": "eastus"
+  },
+  {
     "ip_address": "72.152.228.64/26",
     "ip_type": "IPv4",
     "service": "AzureMonitor.EastUS",

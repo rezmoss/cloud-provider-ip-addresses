@@ -379,6 +379,7 @@ INSERT INTO `azure_powerqueryonline_ips` (`ip_address`, `ip_type`) VALUES ('167.
 INSERT INTO `azure_powerqueryonline_ips` (`ip_address`, `ip_type`) VALUES ('167.105.144.240/29', 'IPv4');
 INSERT INTO `azure_powerqueryonline_ips` (`ip_address`, `ip_type`) VALUES ('168.61.245.0/29', 'IPv4');
 INSERT INTO `azure_powerqueryonline_ips` (`ip_address`, `ip_type`) VALUES ('172.129.72.32/27', 'IPv4');
+INSERT INTO `azure_powerqueryonline_ips` (`ip_address`, `ip_type`) VALUES ('172.129.100.48/28', 'IPv4');
 INSERT INTO `azure_powerqueryonline_ips` (`ip_address`, `ip_type`) VALUES ('172.164.215.112/28', 'IPv4');
 INSERT INTO `azure_powerqueryonline_ips` (`ip_address`, `ip_type`) VALUES ('172.164.238.8/29', 'IPv4');
 INSERT INTO `azure_powerqueryonline_ips` (`ip_address`, `ip_type`) VALUES ('172.173.0.50/31', 'IPv4');

@@ -1,3 +1,4 @@
 ip_address,ip_type,service,region
 172.197.134.128/25,IPv4,PowerPlatformInfra.MalaysiaWest,malaysiawest
 172.197.135.0/24,IPv4,PowerPlatformInfra.MalaysiaWest,malaysiawest
+2603:1061:2002:d880::/57,IPv6,PowerPlatformInfra.MalaysiaWest,malaysiawest

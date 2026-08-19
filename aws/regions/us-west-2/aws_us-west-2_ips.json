@@ -4428,6 +4428,12 @@
     "region": "us-west-2"
   },
   {
+    "ip_address": "2600:1f33:4000::/39",
+    "ip_type": "IPv6",
+    "service": "IOT_CORE",
+    "region": "us-west-2"
+  },
+  {
     "ip_address": "2600:1f36:4000::/39",
     "ip_type": "IPv6",
     "service": "AMAZON",

@@ -87,6 +87,7 @@ ip_address,ip_type,service,region
 2406:da32:4800::/40,IPv6,EC2,ap-southeast-7
 2406:da33:4800::/40,IPv6,AMAZON,ap-southeast-7
 2406:da33:4800::/40,IPv6,EC2,ap-southeast-7
+2406:da33:4800::/40,IPv6,IOT_CORE,ap-southeast-7
 2406:da36:4800::/40,IPv6,AMAZON,ap-southeast-7
 2406:da36:4800::/40,IPv6,EC2,ap-southeast-7
 2406:da38:4800::/40,IPv6,AMAZON,ap-southeast-7

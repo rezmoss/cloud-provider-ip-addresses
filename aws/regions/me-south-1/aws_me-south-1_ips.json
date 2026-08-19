@@ -1476,6 +1476,12 @@
     "region": "me-south-1"
   },
   {
+    "ip_address": "2a05:d033:e000::/40",
+    "ip_type": "IPv6",
+    "service": "IOT_CORE",
+    "region": "me-south-1"
+  },
+  {
     "ip_address": "2a05:d036:e000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",

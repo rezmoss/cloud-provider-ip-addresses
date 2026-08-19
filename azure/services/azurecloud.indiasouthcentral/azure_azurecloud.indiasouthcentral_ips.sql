@@ -26,9 +26,8 @@ INSERT INTO `azure_azurecloud.indiasouthcentral_ips` (`ip_address`, `ip_type`) V
 INSERT INTO `azure_azurecloud.indiasouthcentral_ips` (`ip_address`, `ip_type`) VALUES ('52.123.22.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.indiasouthcentral_ips` (`ip_address`, `ip_type`) VALUES ('57.157.92.0/25', 'IPv4');
 INSERT INTO `azure_azurecloud.indiasouthcentral_ips` (`ip_address`, `ip_type`) VALUES ('57.157.92.128/26', 'IPv4');
-INSERT INTO `azure_azurecloud.indiasouthcentral_ips` (`ip_address`, `ip_type`) VALUES ('57.157.92.192/28', 'IPv4');
-INSERT INTO `azure_azurecloud.indiasouthcentral_ips` (`ip_address`, `ip_type`) VALUES ('57.157.92.208/29', 'IPv4');
-INSERT INTO `azure_azurecloud.indiasouthcentral_ips` (`ip_address`, `ip_type`) VALUES ('57.157.92.216/31', 'IPv4');
+INSERT INTO `azure_azurecloud.indiasouthcentral_ips` (`ip_address`, `ip_type`) VALUES ('57.157.92.192/27', 'IPv4');
+INSERT INTO `azure_azurecloud.indiasouthcentral_ips` (`ip_address`, `ip_type`) VALUES ('57.157.92.224/31', 'IPv4');
 INSERT INTO `azure_azurecloud.indiasouthcentral_ips` (`ip_address`, `ip_type`) VALUES ('57.163.2.0/23', 'IPv4');
 INSERT INTO `azure_azurecloud.indiasouthcentral_ips` (`ip_address`, `ip_type`) VALUES ('135.130.87.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.indiasouthcentral_ips` (`ip_address`, `ip_type`) VALUES ('135.130.94.0/23', 'IPv4');
@@ -55,8 +54,9 @@ INSERT INTO `azure_azurecloud.indiasouthcentral_ips` (`ip_address`, `ip_type`) V
 INSERT INTO `azure_azurecloud.indiasouthcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:101b::/58', 'IPv6');
 INSERT INTO `azure_azurecloud.indiasouthcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:101b:40::/59', 'IPv6');
 INSERT INTO `azure_azurecloud.indiasouthcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:101b:60::/61', 'IPv6');
-INSERT INTO `azure_azurecloud.indiasouthcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:101b:68::/63', 'IPv6');
-INSERT INTO `azure_azurecloud.indiasouthcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:101b:6a::/64', 'IPv6');
+INSERT INTO `azure_azurecloud.indiasouthcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:101b:68::/62', 'IPv6');
+INSERT INTO `azure_azurecloud.indiasouthcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:101b:6c::/63', 'IPv6');
+INSERT INTO `azure_azurecloud.indiasouthcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:101b:6e::/64', 'IPv6');
 INSERT INTO `azure_azurecloud.indiasouthcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1310:5400::/54', 'IPv6');
 INSERT INTO `azure_azurecloud.indiasouthcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1741::/48', 'IPv6');
 INSERT INTO `azure_azurecloud.indiasouthcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2010:41::/64', 'IPv6');

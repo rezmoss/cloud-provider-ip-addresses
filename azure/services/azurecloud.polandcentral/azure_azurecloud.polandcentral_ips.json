@@ -420,6 +420,12 @@
     "region": "polandcentral"
   },
   {
+    "ip_address": "151.206.118.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.polandcentral",
+    "region": "polandcentral"
+  },
+  {
     "ip_address": "151.206.155.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.polandcentral",

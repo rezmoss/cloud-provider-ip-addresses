@@ -72,6 +72,7 @@ ip_address,ip_type,service,region
 57.152.116.224/27,IPv4,AzureMonitor.EastUS,eastus
 57.175.217.224/27,IPv4,AzureMonitor.EastUS,eastus
 68.220.88.120/29,IPv4,AzureMonitor.EastUS,eastus
+72.152.138.0/26,IPv4,AzureMonitor.EastUS,eastus
 72.152.228.64/26,IPv4,AzureMonitor.EastUS,eastus
 74.151.232.128/26,IPv4,AzureMonitor.EastUS,eastus
 104.41.152.101/32,IPv4,AzureMonitor.EastUS,eastus

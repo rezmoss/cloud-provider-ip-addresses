@@ -1842,6 +1842,30 @@
     "region": "taiwannorth"
   },
   {
+    "ip_address": "2603:1061:2002:e000::/57",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1061:2002:e000::/57",
+    "ip_type": "IPv6",
+    "service": "PowerPlatformInfra.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1061:2004:dc00::/57",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.taiwannorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1061:2004:dc00::/57",
+    "ip_type": "IPv6",
+    "service": "PowerPlatformPlex.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
     "ip_address": "2603:1061:2010:34::/64",
     "ip_type": "IPv6",
     "service": "AzureCloud.taiwannorth",

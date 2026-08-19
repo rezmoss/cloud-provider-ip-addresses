@@ -72,6 +72,18 @@
     "region": "eastus2"
   },
   {
+    "ip_address": "20.49.98.24/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.EastUS2",
+    "region": "eastus2"
+  },
+  {
+    "ip_address": "20.49.98.96/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.EastUS2",
+    "region": "eastus2"
+  },
+  {
     "ip_address": "20.49.99.44/31",
     "ip_type": "IPv4",
     "service": "AzureMonitor.EastUS2",

@@ -300,6 +300,12 @@
     "region": "swedencentral"
   },
   {
+    "ip_address": "40.98.27.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.swedencentral",
+    "region": "swedencentral"
+  },
+  {
     "ip_address": "40.101.1.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.swedencentral",
@@ -985,6 +991,12 @@
   },
   {
     "ip_address": "2603:1026:900:38::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.swedencentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "2603:1026:900:58::/64",
     "ip_type": "IPv6",
     "service": "AzureCloud.swedencentral",
     "region": "swedencentral"

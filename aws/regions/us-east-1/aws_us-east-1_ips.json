@@ -9402,6 +9402,12 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "2600:1f33:8000::/39",
+    "ip_type": "IPv6",
+    "service": "IOT_CORE",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "2600:1f36:8000::/39",
     "ip_type": "IPv6",
     "service": "AMAZON",

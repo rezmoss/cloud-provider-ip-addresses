@@ -156,6 +156,7 @@ ip_address,ip_type,service,region
 2406:da32:1000::/40,IPv6,WORKSPACES_GATEWAYS,af-south-1
 2406:da33:1000::/40,IPv6,AMAZON,af-south-1
 2406:da33:1000::/40,IPv6,EC2,af-south-1
+2406:da33:1000::/40,IPv6,IOT_CORE,af-south-1
 2406:da36:1000::/40,IPv6,AMAZON,af-south-1
 2406:da36:1000::/40,IPv6,EC2,af-south-1
 2406:da38:1000::/40,IPv6,AMAZON,af-south-1

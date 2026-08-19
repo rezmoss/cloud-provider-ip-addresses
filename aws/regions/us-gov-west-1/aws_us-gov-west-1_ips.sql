@@ -154,6 +154,7 @@ INSERT INTO `aws_us-gov-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f32
 INSERT INTO `aws_us-gov-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f32:2000::/40', 'IPv6');
 INSERT INTO `aws_us-gov-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f33:2000::/40', 'IPv6');
 INSERT INTO `aws_us-gov-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f33:2000::/40', 'IPv6');
+INSERT INTO `aws_us-gov-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f33:2000::/40', 'IPv6');
 INSERT INTO `aws_us-gov-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f36:2000::/40', 'IPv6');
 INSERT INTO `aws_us-gov-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f36:2000::/40', 'IPv6');
 INSERT INTO `aws_us-gov-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f38:2000::/40', 'IPv6');

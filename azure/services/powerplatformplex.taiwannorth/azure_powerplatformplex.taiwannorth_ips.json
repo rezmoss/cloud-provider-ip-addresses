@@ -4,5 +4,11 @@
     "ip_type": "IPv4",
     "service": "PowerPlatformPlex.TaiwanNorth",
     "region": "taiwannorth"
+  },
+  {
+    "ip_address": "2603:1061:2004:dc00::/57",
+    "ip_type": "IPv6",
+    "service": "PowerPlatformPlex.TaiwanNorth",
+    "region": "taiwannorth"
   }
 ]

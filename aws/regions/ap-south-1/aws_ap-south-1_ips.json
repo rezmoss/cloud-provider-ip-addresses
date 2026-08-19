@@ -1926,6 +1926,12 @@
     "region": "ap-south-1"
   },
   {
+    "ip_address": "2406:da33:a000::/40",
+    "ip_type": "IPv6",
+    "service": "IOT_CORE",
+    "region": "ap-south-1"
+  },
+  {
     "ip_address": "2406:da36:a000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",

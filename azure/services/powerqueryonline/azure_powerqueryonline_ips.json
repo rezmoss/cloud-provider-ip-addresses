@@ -2238,6 +2238,12 @@
     "region": ""
   },
   {
+    "ip_address": "172.129.100.48/28",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline",
+    "region": ""
+  },
+  {
     "ip_address": "172.164.215.112/28",
     "ip_type": "IPv4",
     "service": "PowerQueryOnline",

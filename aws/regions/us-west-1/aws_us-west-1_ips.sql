@@ -607,6 +607,7 @@ INSERT INTO `aws_us-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f32:c00
 INSERT INTO `aws_us-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f32:c000::/40', 'IPv6');
 INSERT INTO `aws_us-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f33:c000::/40', 'IPv6');
 INSERT INTO `aws_us-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f33:c000::/40', 'IPv6');
+INSERT INTO `aws_us-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f33:c000::/40', 'IPv6');
 INSERT INTO `aws_us-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f36:c000::/40', 'IPv6');
 INSERT INTO `aws_us-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f36:c000::/40', 'IPv6');
 INSERT INTO `aws_us-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f38:c000::/40', 'IPv6');

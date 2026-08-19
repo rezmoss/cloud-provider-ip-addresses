@@ -320,6 +320,7 @@ ip_address,ip_type,service,region
 2406:da32:a000::/40,IPv6,WORKSPACES_GATEWAYS,ap-south-1
 2406:da33:a000::/40,IPv6,AMAZON,ap-south-1
 2406:da33:a000::/40,IPv6,EC2,ap-south-1
+2406:da33:a000::/40,IPv6,IOT_CORE,ap-south-1
 2406:da36:a000::/40,IPv6,AMAZON,ap-south-1
 2406:da36:a000::/40,IPv6,EC2,ap-south-1
 2406:da38:a000::/40,IPv6,AMAZON,ap-south-1

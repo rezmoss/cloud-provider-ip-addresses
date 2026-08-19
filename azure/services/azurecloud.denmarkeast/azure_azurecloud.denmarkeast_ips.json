@@ -354,6 +354,18 @@
     "region": "denmarkeast"
   },
   {
+    "ip_address": "2603:1061:2002:d400::/57",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.denmarkeast",
+    "region": "denmarkeast"
+  },
+  {
+    "ip_address": "2603:1061:2004:d000::/57",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.denmarkeast",
+    "region": "denmarkeast"
+  },
+  {
     "ip_address": "2603:1061:2010:45::/64",
     "ip_type": "IPv6",
     "service": "AzureCloud.denmarkeast",

@@ -132,6 +132,12 @@
     "region": "austriaeast"
   },
   {
+    "ip_address": "40.98.24.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.austriaeast",
+    "region": "austriaeast"
+  },
+  {
     "ip_address": "40.100.4.128/25",
     "ip_type": "IPv4",
     "service": "AzureCloud.austriaeast",
@@ -1014,6 +1020,12 @@
     "region": "austriaeast"
   },
   {
+    "ip_address": "151.206.116.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.austriaeast",
+    "region": "austriaeast"
+  },
+  {
     "ip_address": "151.206.153.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.austriaeast",
@@ -1530,6 +1542,12 @@
     "region": "austriaeast"
   },
   {
+    "ip_address": "2603:1026:900:55::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.austriaeast",
+    "region": "austriaeast"
+  },
+  {
     "ip_address": "2603:1026:2410::/48",
     "ip_type": "IPv6",
     "service": "AzureCloud.austriaeast",
@@ -1587,6 +1605,18 @@
     "ip_address": "2603:1061:2002:c800::/57",
     "ip_type": "IPv6",
     "service": "PowerPlatformInfra.AustriaEast",
+    "region": "austriaeast"
+  },
+  {
+    "ip_address": "2603:1061:2004:c800::/57",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.austriaeast",
+    "region": "austriaeast"
+  },
+  {
+    "ip_address": "2603:1061:2004:c800::/57",
+    "ip_type": "IPv6",
+    "service": "PowerPlatformPlex.AustriaEast",
     "region": "austriaeast"
   },
   {

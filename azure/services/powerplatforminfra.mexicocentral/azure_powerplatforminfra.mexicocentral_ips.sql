@@ -8,3 +8,4 @@ CREATE TABLE IF NOT EXISTS `azure_powerplatforminfra.mexicocentral_ips` (
 
 INSERT INTO `azure_powerplatforminfra.mexicocentral_ips` (`ip_address`, `ip_type`) VALUES ('172.195.122.128/25', 'IPv4');
 INSERT INTO `azure_powerplatforminfra.mexicocentral_ips` (`ip_address`, `ip_type`) VALUES ('172.195.123.0/24', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.mexicocentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2002:dc00::/57', 'IPv6');

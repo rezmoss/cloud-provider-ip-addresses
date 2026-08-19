@@ -52,6 +52,7 @@ ip_address,ip_type,service,region
 2a05:d032:800::/40,IPv6,EC2,me-west-1
 2a05:d033:800::/40,IPv6,AMAZON,me-west-1
 2a05:d033:800::/40,IPv6,EC2,me-west-1
+2a05:d033:800::/40,IPv6,IOT_CORE,me-west-1
 2a05:d036:800::/40,IPv6,AMAZON,me-west-1
 2a05:d036:800::/40,IPv6,EC2,me-west-1
 2a05:d038:800::/40,IPv6,AMAZON,me-west-1

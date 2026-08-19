@@ -4,5 +4,11 @@
     "ip_type": "IPv4",
     "service": "PowerPlatformPlex.AustriaEast",
     "region": "austriaeast"
+  },
+  {
+    "ip_address": "2603:1061:2004:c800::/57",
+    "ip_type": "IPv6",
+    "service": "PowerPlatformPlex.AustriaEast",
+    "region": "austriaeast"
   }
 ]

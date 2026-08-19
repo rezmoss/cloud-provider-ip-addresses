@@ -138,6 +138,36 @@
     "region": "global"
   },
   {
+    "ip_address": "38.39.178.0/27",
+    "ip_type": "IPv4",
+    "service": "circleci-macos",
+    "region": "global"
+  },
+  {
+    "ip_address": "38.39.178.32/27",
+    "ip_type": "IPv4",
+    "service": "circleci-macos",
+    "region": "global"
+  },
+  {
+    "ip_address": "38.39.178.64/27",
+    "ip_type": "IPv4",
+    "service": "circleci-macos",
+    "region": "global"
+  },
+  {
+    "ip_address": "38.39.178.96/27",
+    "ip_type": "IPv4",
+    "service": "circleci-macos",
+    "region": "global"
+  },
+  {
+    "ip_address": "38.39.178.128/27",
+    "ip_type": "IPv4",
+    "service": "circleci-macos",
+    "region": "global"
+  },
+  {
     "ip_address": "52.3.128.216/32",
     "ip_type": "IPv4",
     "service": "circleci-jobs",

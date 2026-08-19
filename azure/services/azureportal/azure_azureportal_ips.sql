@@ -244,6 +244,8 @@ INSERT INTO `azure_azureportal_ips` (`ip_address`, `ip_type`) VALUES ('134.138.8
 INSERT INTO `azure_azureportal_ips` (`ip_address`, `ip_type`) VALUES ('134.138.82.160/27', 'IPv4');
 INSERT INTO `azure_azureportal_ips` (`ip_address`, `ip_type`) VALUES ('135.224.40.0/27', 'IPv4');
 INSERT INTO `azure_azureportal_ips` (`ip_address`, `ip_type`) VALUES ('158.23.112.0/27', 'IPv4');
+INSERT INTO `azure_azureportal_ips` (`ip_address`, `ip_type`) VALUES ('172.129.91.44/30', 'IPv4');
+INSERT INTO `azure_azureportal_ips` (`ip_address`, `ip_type`) VALUES ('172.129.95.192/27', 'IPv4');
 INSERT INTO `azure_azureportal_ips` (`ip_address`, `ip_type`) VALUES ('172.194.81.60/30', 'IPv4');
 INSERT INTO `azure_azureportal_ips` (`ip_address`, `ip_type`) VALUES ('172.194.82.192/27', 'IPv4');
 INSERT INTO `azure_azureportal_ips` (`ip_address`, `ip_type`) VALUES ('172.198.95.156/30', 'IPv4');
@@ -294,6 +296,7 @@ INSERT INTO `azure_azureportal_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020
 INSERT INTO `azure_azureportal_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1403:2::300/121', 'IPv6');
 INSERT INTO `azure_azureportal_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1502:2::400/121', 'IPv6');
 INSERT INTO `azure_azureportal_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1602:2::400/121', 'IPv6');
+INSERT INTO `azure_azureportal_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1701:3::300/121', 'IPv6');
 INSERT INTO `azure_azureportal_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f:1::700/121', 'IPv6');
 INSERT INTO `azure_azureportal_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:10::100/121', 'IPv6');
 INSERT INTO `azure_azureportal_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:10:1::680/121', 'IPv6');

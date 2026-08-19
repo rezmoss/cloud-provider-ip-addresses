@@ -222,13 +222,19 @@
     "region": "spaincentral"
   },
   {
-    "ip_address": "40.120.146.0/26",
+    "ip_address": "40.120.146.0/25",
     "ip_type": "IPv4",
     "service": "AzureCloud.spaincentral",
     "region": "spaincentral"
   },
   {
-    "ip_address": "40.120.146.64/27",
+    "ip_address": "40.120.146.128/29",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "40.120.146.136/30",
     "ip_type": "IPv4",
     "service": "AzureCloud.spaincentral",
     "region": "spaincentral"
@@ -1248,6 +1254,12 @@
     "region": "spaincentral"
   },
   {
+    "ip_address": "151.206.120.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
     "ip_address": "151.206.167.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.spaincentral",
@@ -2034,7 +2046,25 @@
     "region": "spaincentral"
   },
   {
-    "ip_address": "2603:1061:1008:120::/61",
+    "ip_address": "2603:1061:1008:120::/60",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1061:1008:130::/61",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1061:1008:138::/62",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.spaincentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1061:1008:13c::/63",
     "ip_type": "IPv6",
     "service": "AzureCloud.spaincentral",
     "region": "spaincentral"

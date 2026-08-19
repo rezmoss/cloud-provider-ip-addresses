@@ -180,6 +180,7 @@ ip_address,ip_type,service,region
 2406:da32:6000::/40,IPv6,EC2,ap-northeast-3
 2406:da33:6000::/40,IPv6,AMAZON,ap-northeast-3
 2406:da33:6000::/40,IPv6,EC2,ap-northeast-3
+2406:da33:6000::/40,IPv6,IOT_CORE,ap-northeast-3
 2406:da36:6000::/40,IPv6,AMAZON,ap-northeast-3
 2406:da36:6000::/40,IPv6,EC2,ap-northeast-3
 2406:da38:6000::/40,IPv6,AMAZON,ap-northeast-3

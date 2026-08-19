@@ -10,6 +10,11 @@ ip_address,ip_type,service,region
 38.23.50.0/24,IPv4,circleci-macos,global
 38.23.51.0/24,IPv4,circleci-macos,global
 38.23.52.0/24,IPv4,circleci-macos,global
+38.39.178.0/27,IPv4,circleci-macos,global
+38.39.178.32/27,IPv4,circleci-macos,global
+38.39.178.64/27,IPv4,circleci-macos,global
+38.39.178.96/27,IPv4,circleci-macos,global
+38.39.178.128/27,IPv4,circleci-macos,global
 98.80.165.0/24,IPv4,circleci-macos,global
 100.27.248.128/25,IPv4,circleci-macos,global
 100.29.139.128/25,IPv4,circleci-macos,global

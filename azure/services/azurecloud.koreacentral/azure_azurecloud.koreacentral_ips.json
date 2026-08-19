@@ -708,31 +708,19 @@
     "region": "koreacentral"
   },
   {
-    "ip_address": "57.157.88.0/25",
+    "ip_address": "57.157.88.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.koreacentral",
     "region": "koreacentral"
   },
   {
-    "ip_address": "57.157.88.128/26",
+    "ip_address": "57.157.89.0/27",
     "ip_type": "IPv4",
     "service": "AzureCloud.koreacentral",
     "region": "koreacentral"
   },
   {
-    "ip_address": "57.157.88.192/27",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.koreacentral",
-    "region": "koreacentral"
-  },
-  {
-    "ip_address": "57.157.88.224/28",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.koreacentral",
-    "region": "koreacentral"
-  },
-  {
-    "ip_address": "57.157.88.240/29",
+    "ip_address": "57.157.89.32/30",
     "ip_type": "IPv4",
     "service": "AzureCloud.koreacentral",
     "region": "koreacentral"
@@ -763,6 +751,12 @@
   },
   {
     "ip_address": "135.130.106.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreacentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "151.206.121.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.koreacentral",
     "region": "koreacentral"

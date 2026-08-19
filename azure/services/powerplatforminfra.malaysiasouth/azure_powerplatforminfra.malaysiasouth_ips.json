@@ -10,5 +10,11 @@
     "ip_type": "IPv4",
     "service": "PowerPlatformInfra.MalaysiaSouth",
     "region": "malaysiasouth"
+  },
+  {
+    "ip_address": "2603:1061:2002:d800::/57",
+    "ip_type": "IPv6",
+    "service": "PowerPlatformInfra.MalaysiaSouth",
+    "region": "malaysiasouth"
   }
 ]

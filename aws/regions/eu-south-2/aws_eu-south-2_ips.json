@@ -1248,6 +1248,12 @@
     "region": "eu-south-2"
   },
   {
+    "ip_address": "2a05:d033:1000::/40",
+    "ip_type": "IPv6",
+    "service": "IOT_CORE",
+    "region": "eu-south-2"
+  },
+  {
     "ip_address": "2a05:d036:1000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",

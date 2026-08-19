@@ -1922,7 +1922,7 @@
   {
     "ip_address": "192.0.2.0/24",
     "ip_type": "IPv4",
-    "region": "US-US-MN"
+    "region": "US-IL"
   },
   {
     "ip_address": "192.248.128.0/20",
@@ -1957,7 +1957,7 @@
   {
     "ip_address": "198.51.100.0/24",
     "ip_type": "IPv4",
-    "region": "US-US-MN"
+    "region": "US-IL"
   },
   {
     "ip_address": "199.247.0.0/21",
@@ -1992,7 +1992,7 @@
   {
     "ip_address": "203.0.113.0/24",
     "ip_type": "IPv4",
-    "region": "US-US-MN"
+    "region": "US-IL"
   },
   {
     "ip_address": "207.148.0.0/21",
@@ -2337,7 +2337,7 @@
   {
     "ip_address": "2001:19f0:9c00::/38",
     "ip_type": "IPv6",
-    "region": "US-OH"
+    "region": "US-US-MN"
   },
   {
     "ip_address": "2001:19f0:a800::/38",

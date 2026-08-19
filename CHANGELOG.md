@@ -2,6 +2,48 @@
 
 Daily IP range changes across all providers.
 
+## 2026-08-19
+
+### ovhcloud
+- Added: 4 CIDRs
+- Removed: 0 CIDRs
+
+### alibaba
+- Added: 3 CIDRs
+- Removed: 0 CIDRs
+
+### circleci
+- Added: 5 CIDRs
+- Removed: 0 CIDRs
+
+### gcore
+- Added: 5 CIDRs
+- Removed: 0 CIDRs
+
+### akamai
+- Added: 1 CIDRs
+- Removed: 29 CIDRs
+
+### huawei
+- Added: 2 CIDRs
+- Removed: 3 CIDRs
+
+### tor
+- Added: 16 CIDRs
+- Removed: 6 CIDRs
+
+### tencent
+- Added: 2 CIDRs
+- Removed: 1 CIDRs
+
+### aws
+- Added: 2 CIDRs
+- Removed: 0 CIDRs
+
+### azure
+- Added: 639 CIDRs
+- Removed: 132 CIDRs
+
 ## 2026-08-18
 
 ### akamai

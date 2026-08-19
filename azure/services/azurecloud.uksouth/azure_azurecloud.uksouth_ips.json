@@ -1062,19 +1062,31 @@
     "region": "uksouth"
   },
   {
-    "ip_address": "57.157.40.64/28",
+    "ip_address": "57.157.40.64/27",
     "ip_type": "IPv4",
     "service": "AzureCloud.uksouth",
     "region": "uksouth"
   },
   {
-    "ip_address": "57.157.40.80/29",
+    "ip_address": "57.157.40.96/28",
     "ip_type": "IPv4",
     "service": "AzureCloud.uksouth",
     "region": "uksouth"
   },
   {
-    "ip_address": "57.157.40.88/30",
+    "ip_address": "57.157.40.112/29",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "57.157.40.120/30",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "57.163.64.0/23",
     "ip_type": "IPv4",
     "service": "AzureCloud.uksouth",
     "region": "uksouth"

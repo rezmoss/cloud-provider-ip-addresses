@@ -65,6 +65,8 @@ INSERT INTO `azure_azurecloud.denmarkeast_ips` (`ip_address`, `ip_type`) VALUES 
 INSERT INTO `azure_azurecloud.denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1017:138::/64', 'IPv6');
 INSERT INTO `azure_azurecloud.denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1311:5c00::/54', 'IPv6');
 INSERT INTO `azure_azurecloud.denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1745::/48', 'IPv6');
+INSERT INTO `azure_azurecloud.denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2002:d400::/57', 'IPv6');
+INSERT INTO `azure_azurecloud.denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2004:d000::/57', 'IPv6');
 INSERT INTO `azure_azurecloud.denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2010:45::/64', 'IPv6');
 INSERT INTO `azure_azurecloud.denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2011:45::/64', 'IPv6');
 INSERT INTO `azure_azurecloud.denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1063:47::/48', 'IPv6');

@@ -348,6 +348,18 @@
     "region": "taiwannorthwest"
   },
   {
+    "ip_address": "2603:1061:2002:e080::/57",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.taiwannorthwest",
+    "region": "taiwannorthwest"
+  },
+  {
+    "ip_address": "2603:1061:2004:dc80::/57",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.taiwannorthwest",
+    "region": "taiwannorthwest"
+  },
+  {
     "ip_address": "2603:1061:2010:3e::/64",
     "ip_type": "IPv6",
     "service": "AzureCloud.taiwannorthwest",

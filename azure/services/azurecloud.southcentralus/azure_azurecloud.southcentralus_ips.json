@@ -1710,6 +1710,12 @@
     "region": "southcentralus"
   },
   {
+    "ip_address": "40.98.5.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southcentralus",
+    "region": "southcentralus"
+  },
+  {
     "ip_address": "40.119.0.0/18",
     "ip_type": "IPv4",
     "service": "AzureCloud.southcentralus",
@@ -1956,19 +1962,13 @@
     "region": "southcentralus"
   },
   {
-    "ip_address": "40.123.165.160/30",
+    "ip_address": "40.123.165.160/29",
     "ip_type": "IPv4",
     "service": "AzureCloud.southcentralus",
     "region": "southcentralus"
   },
   {
-    "ip_address": "40.123.165.166/31",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southcentralus",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "40.123.165.168/31",
+    "ip_address": "40.123.165.168/30",
     "ip_type": "IPv4",
     "service": "AzureCloud.southcentralus",
     "region": "southcentralus"
@@ -1980,7 +1980,7 @@
     "region": "southcentralus"
   },
   {
-    "ip_address": "40.123.165.184/31",
+    "ip_address": "40.123.165.184/30",
     "ip_type": "IPv4",
     "service": "AzureCloud.southcentralus",
     "region": "southcentralus"
@@ -2004,7 +2004,7 @@
     "region": "southcentralus"
   },
   {
-    "ip_address": "40.123.165.206/31",
+    "ip_address": "40.123.165.204/30",
     "ip_type": "IPv4",
     "service": "AzureCloud.southcentralus",
     "region": "southcentralus"
@@ -2034,7 +2034,7 @@
     "region": "southcentralus"
   },
   {
-    "ip_address": "40.123.165.254/31",
+    "ip_address": "40.123.165.252/30",
     "ip_type": "IPv4",
     "service": "AzureCloud.southcentralus",
     "region": "southcentralus"
@@ -2064,13 +2064,7 @@
     "region": "southcentralus"
   },
   {
-    "ip_address": "40.123.166.32/30",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southcentralus",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "40.123.166.36/31",
+    "ip_address": "40.123.166.32/29",
     "ip_type": "IPv4",
     "service": "AzureCloud.southcentralus",
     "region": "southcentralus"
@@ -2100,7 +2094,7 @@
     "region": "southcentralus"
   },
   {
-    "ip_address": "40.123.166.80/31",
+    "ip_address": "40.123.166.80/30",
     "ip_type": "IPv4",
     "service": "AzureCloud.southcentralus",
     "region": "southcentralus"
@@ -2826,6 +2820,12 @@
     "region": "southcentralus"
   },
   {
+    "ip_address": "57.163.68.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southcentralus",
+    "region": "southcentralus"
+  },
+  {
     "ip_address": "57.171.7.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.southcentralus",
@@ -3486,31 +3486,7 @@
     "region": "southcentralus"
   },
   {
-    "ip_address": "2603:1030:804:e0::/60",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.southcentralus",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "2603:1030:804:f0::/61",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.southcentralus",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "2603:1030:804:f8::/62",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.southcentralus",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "2603:1030:804:fc::/63",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.southcentralus",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "2603:1030:804:ff::/64",
+    "ip_address": "2603:1030:804:e0::/59",
     "ip_type": "IPv6",
     "service": "AzureCloud.southcentralus",
     "region": "southcentralus"
@@ -3642,67 +3618,19 @@
     "region": "southcentralus"
   },
   {
-    "ip_address": "2603:1030:804:16e::/64",
+    "ip_address": "2603:1030:804:16e::/63",
     "ip_type": "IPv6",
     "service": "AzureCloud.southcentralus",
     "region": "southcentralus"
   },
   {
-    "ip_address": "2603:1030:804:171::/64",
+    "ip_address": "2603:1030:804:170::/60",
     "ip_type": "IPv6",
     "service": "AzureCloud.southcentralus",
     "region": "southcentralus"
   },
   {
-    "ip_address": "2603:1030:804:172::/63",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.southcentralus",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "2603:1030:804:174::/62",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.southcentralus",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "2603:1030:804:178::/61",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.southcentralus",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "2603:1030:804:180::/63",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.southcentralus",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "2603:1030:804:182::/64",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.southcentralus",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "2603:1030:804:185::/64",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.southcentralus",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "2603:1030:804:186::/63",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.southcentralus",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "2603:1030:804:188::/61",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.southcentralus",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "2603:1030:804:190::/60",
+    "ip_address": "2603:1030:804:180::/59",
     "ip_type": "IPv6",
     "service": "AzureCloud.southcentralus",
     "region": "southcentralus"
@@ -3768,13 +3696,7 @@
     "region": "southcentralus"
   },
   {
-    "ip_address": "2603:1030:804:1e0::/64",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.southcentralus",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "2603:1030:804:1e3::/64",
+    "ip_address": "2603:1030:804:1e0::/62",
     "ip_type": "IPv6",
     "service": "AzureCloud.southcentralus",
     "region": "southcentralus"
@@ -4519,6 +4441,12 @@
   },
   {
     "ip_address": "2603:1036:90c::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.southcentralus",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "2603:1036:90c:7::/64",
     "ip_type": "IPv6",
     "service": "AzureCloud.southcentralus",
     "region": "southcentralus"

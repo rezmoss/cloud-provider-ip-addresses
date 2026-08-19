@@ -649,6 +649,7 @@ ip_address,ip_type,service,region
 2600:1f32:6000::/40,IPv6,EC2,us-east-2
 2600:1f33:6000::/40,IPv6,AMAZON,us-east-2
 2600:1f33:6000::/40,IPv6,EC2,us-east-2
+2600:1f33:6000::/40,IPv6,IOT_CORE,us-east-2
 2600:1f36:6000::/40,IPv6,AMAZON,us-east-2
 2600:1f36:6000::/40,IPv6,EC2,us-east-2
 2600:1f38:6000::/40,IPv6,AMAZON,us-east-2

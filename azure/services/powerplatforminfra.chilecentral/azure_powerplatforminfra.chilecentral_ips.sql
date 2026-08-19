@@ -8,3 +8,4 @@ CREATE TABLE IF NOT EXISTS `azure_powerplatforminfra.chilecentral_ips` (
 
 INSERT INTO `azure_powerplatforminfra.chilecentral_ips` (`ip_address`, `ip_type`) VALUES ('57.156.99.128/25', 'IPv4');
 INSERT INTO `azure_powerplatforminfra.chilecentral_ips` (`ip_address`, `ip_type`) VALUES ('57.156.100.0/24', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.chilecentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2002:d000::/57', 'IPv6');

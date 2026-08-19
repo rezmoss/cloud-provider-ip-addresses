@@ -300,6 +300,10 @@ ip_address,ip_type,service,region
 2603:1061:100d:10e::/64,IPv6,AzureCloud.malaysiawest,malaysiawest
 2603:1061:1310:2400::/54,IPv6,AzureCloud.malaysiawest,malaysiawest
 2603:1061:173a::/48,IPv6,AzureCloud.malaysiawest,malaysiawest
+2603:1061:2002:d880::/57,IPv6,AzureCloud.malaysiawest,malaysiawest
+2603:1061:2002:d880::/57,IPv6,PowerPlatformInfra.MalaysiaWest,malaysiawest
+2603:1061:2004:d480::/57,IPv6,AzureCloud.malaysiawest,malaysiawest
+2603:1061:2004:d480::/57,IPv6,PowerPlatformPlex.MalaysiaWest,malaysiawest
 2603:1061:2010:3a::/64,IPv6,AzureCloud.malaysiawest,malaysiawest
 2603:1061:2010:3a::/117,IPv6,WindowsVirtualDesktop.MalaysiaWest,malaysiawest
 2603:1061:2011:3a::/64,IPv6,AzureCloud.malaysiawest,malaysiawest

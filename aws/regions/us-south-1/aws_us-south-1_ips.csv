@@ -67,6 +67,7 @@ ip_address,ip_type,service,region
 2600:1f32:800::/40,IPv6,EC2,us-south-1
 2600:1f33:800::/40,IPv6,AMAZON,us-south-1
 2600:1f33:800::/40,IPv6,EC2,us-south-1
+2600:1f33:800::/40,IPv6,IOT_CORE,us-south-1
 2600:1f36:800::/40,IPv6,AMAZON,us-south-1
 2600:1f36:800::/40,IPv6,EC2,us-south-1
 2600:1f38:800::/40,IPv6,AMAZON,us-south-1

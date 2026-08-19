@@ -1,6 +1,6 @@
 #!/bin/bash
 # Azure IP Ranges
-# Updated: 2026-08-05 03:11:59
+# Updated: 2026-08-19 02:32:03
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -228,6 +228,7 @@ ufw deny from 40.90.159.0/24
 ufw deny from 40.91.28.0/22
 ufw deny from 40.91.192.0/18
 ufw deny from 40.93.65.0/24
+ufw deny from 40.98.26.0/24
 ufw deny from 40.101.2.192/26
 ufw deny from 40.101.3.0/25
 ufw deny from 40.101.20.64/26
@@ -405,36 +406,14 @@ ufw deny from 57.150.150.0/23
 ufw deny from 57.150.166.0/23
 ufw deny from 57.150.224.0/23
 ufw deny from 57.153.0.0/16
-ufw deny from 57.157.12.0/26
-ufw deny from 57.157.12.64/31
-ufw deny from 57.157.12.68/30
-ufw deny from 57.157.12.72/29
-ufw deny from 57.157.12.80/28
-ufw deny from 57.157.12.96/27
-ufw deny from 57.157.12.128/25
+ufw deny from 57.157.12.0/24
 ufw deny from 57.157.13.0/25
-ufw deny from 57.157.13.128/29
-ufw deny from 57.157.13.136/31
-ufw deny from 57.157.13.140/30
-ufw deny from 57.157.13.144/30
-ufw deny from 57.157.13.148/31
+ufw deny from 57.157.13.128/28
+ufw deny from 57.157.13.144/29
 ufw deny from 57.157.13.170/31
-ufw deny from 57.157.13.174/31
-ufw deny from 57.157.13.178/31
-ufw deny from 57.157.13.182/31
-ufw deny from 57.157.13.186/31
-ufw deny from 57.157.13.190/31
-ufw deny from 57.157.13.194/31
-ufw deny from 57.157.13.198/31
-ufw deny from 57.157.13.202/31
-ufw deny from 57.157.13.206/31
-ufw deny from 57.157.13.210/31
-ufw deny from 57.157.13.214/31
-ufw deny from 57.157.13.216/29
-ufw deny from 57.157.13.224/30
-ufw deny from 57.157.13.228/31
-ufw deny from 57.157.13.232/29
-ufw deny from 57.157.13.240/28
+ufw deny from 57.157.13.172/30
+ufw deny from 57.157.13.176/28
+ufw deny from 57.157.13.192/26
 ufw deny from 57.157.14.0/23
 ufw deny from 57.157.56.0/24
 ufw deny from 57.157.57.0/27
@@ -520,6 +499,7 @@ ufw deny from 2603:1026:900:7::/64
 ufw deny from 2603:1026:900:8::/63
 ufw deny from 2603:1026:900:1a::/63
 ufw deny from 2603:1026:900:1c::/64
+ufw deny from 2603:1026:900:57::/64
 ufw deny from 2603:1026:2405::/48
 ufw deny from 2603:1026:2500:24::/64
 ufw deny from 2603:1026:3000:140::/59

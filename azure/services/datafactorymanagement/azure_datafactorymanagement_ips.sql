@@ -354,6 +354,8 @@ INSERT INTO `azure_datafactorymanagement_ips` (`ip_address`, `ip_type`) VALUES (
 INSERT INTO `azure_datafactorymanagement_ips` (`ip_address`, `ip_type`) VALUES ('167.105.182.128/27', 'IPv4');
 INSERT INTO `azure_datafactorymanagement_ips` (`ip_address`, `ip_type`) VALUES ('167.105.183.224/27', 'IPv4');
 INSERT INTO `azure_datafactorymanagement_ips` (`ip_address`, `ip_type`) VALUES ('168.61.229.72/29', 'IPv4');
+INSERT INTO `azure_datafactorymanagement_ips` (`ip_address`, `ip_type`) VALUES ('172.129.91.48/28', 'IPv4');
+INSERT INTO `azure_datafactorymanagement_ips` (`ip_address`, `ip_type`) VALUES ('172.129.91.96/27', 'IPv4');
 INSERT INTO `azure_datafactorymanagement_ips` (`ip_address`, `ip_type`) VALUES ('172.164.238.216/29', 'IPv4');
 INSERT INTO `azure_datafactorymanagement_ips` (`ip_address`, `ip_type`) VALUES ('172.164.238.224/28', 'IPv4');
 INSERT INTO `azure_datafactorymanagement_ips` (`ip_address`, `ip_type`) VALUES ('172.173.46.160/27', 'IPv4');
@@ -497,6 +499,7 @@ INSERT INTO `azure_datafactorymanagement_ips` (`ip_address`, `ip_type`) VALUES (
 INSERT INTO `azure_datafactorymanagement_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1602:400::50/124', 'IPv6');
 INSERT INTO `azure_datafactorymanagement_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1602:800::50/124', 'IPv6');
 INSERT INTO `azure_datafactorymanagement_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1602:c00::50/124', 'IPv6');
+INSERT INTO `azure_datafactorymanagement_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1701:3::180/121', 'IPv6');
 INSERT INTO `azure_datafactorymanagement_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f:1::440/122', 'IPv6');
 INSERT INTO `azure_datafactorymanagement_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f:400::b30/124', 'IPv6');
 INSERT INTO `azure_datafactorymanagement_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f:800::40/126', 'IPv6');

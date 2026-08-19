@@ -205,6 +205,7 @@ INSERT INTO `azure_scuba_ips` (`ip_address`, `ip_type`) VALUES ('135.171.138.48/
 INSERT INTO `azure_scuba_ips` (`ip_address`, `ip_type`) VALUES ('145.191.2.72/30', 'IPv4');
 INSERT INTO `azure_scuba_ips` (`ip_address`, `ip_type`) VALUES ('145.191.2.76/31', 'IPv4');
 INSERT INTO `azure_scuba_ips` (`ip_address`, `ip_type`) VALUES ('168.61.240.128/29', 'IPv4');
+INSERT INTO `azure_scuba_ips` (`ip_address`, `ip_type`) VALUES ('172.129.96.192/29', 'IPv4');
 INSERT INTO `azure_scuba_ips` (`ip_address`, `ip_type`) VALUES ('172.165.73.64/29', 'IPv4');
 INSERT INTO `azure_scuba_ips` (`ip_address`, `ip_type`) VALUES ('172.165.73.72/30', 'IPv4');
 INSERT INTO `azure_scuba_ips` (`ip_address`, `ip_type`) VALUES ('172.165.84.120/29', 'IPv4');
@@ -247,6 +248,7 @@ INSERT INTO `azure_scuba_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:905:5
 INSERT INTO `azure_scuba_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:b04:5::5f0/124', 'IPv6');
 INSERT INTO `azure_scuba_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1502:2::640/124', 'IPv6');
 INSERT INTO `azure_scuba_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1602:2::640/124', 'IPv6');
+INSERT INTO `azure_scuba_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1701:2::6f0/124', 'IPv6');
 INSERT INTO `azure_scuba_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:2b::350/124', 'IPv6');
 INSERT INTO `azure_scuba_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:902:2::660/124', 'IPv6');
 INSERT INTO `azure_scuba_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1102:2::5e0/124', 'IPv6');

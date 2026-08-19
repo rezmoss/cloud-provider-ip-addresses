@@ -29,6 +29,11 @@ INSERT INTO `circleci_ips` (`ip_address`, `ip_type`) VALUES ('38.23.49.0/24', 'I
 INSERT INTO `circleci_ips` (`ip_address`, `ip_type`) VALUES ('38.23.50.0/24', 'IPv4');
 INSERT INTO `circleci_ips` (`ip_address`, `ip_type`) VALUES ('38.23.51.0/24', 'IPv4');
 INSERT INTO `circleci_ips` (`ip_address`, `ip_type`) VALUES ('38.23.52.0/24', 'IPv4');
+INSERT INTO `circleci_ips` (`ip_address`, `ip_type`) VALUES ('38.39.178.0/27', 'IPv4');
+INSERT INTO `circleci_ips` (`ip_address`, `ip_type`) VALUES ('38.39.178.32/27', 'IPv4');
+INSERT INTO `circleci_ips` (`ip_address`, `ip_type`) VALUES ('38.39.178.64/27', 'IPv4');
+INSERT INTO `circleci_ips` (`ip_address`, `ip_type`) VALUES ('38.39.178.96/27', 'IPv4');
+INSERT INTO `circleci_ips` (`ip_address`, `ip_type`) VALUES ('38.39.178.128/27', 'IPv4');
 INSERT INTO `circleci_ips` (`ip_address`, `ip_type`) VALUES ('52.3.128.216/32', 'IPv4');
 INSERT INTO `circleci_ips` (`ip_address`, `ip_type`) VALUES ('52.4.195.249/32', 'IPv4');
 INSERT INTO `circleci_ips` (`ip_address`, `ip_type`) VALUES ('52.5.58.121/32', 'IPv4');

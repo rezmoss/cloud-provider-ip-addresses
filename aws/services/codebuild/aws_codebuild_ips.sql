@@ -55,6 +55,7 @@ INSERT INTO `aws_codebuild_ips` (`ip_address`, `ip_type`) VALUES ('44.192.245.16
 INSERT INTO `aws_codebuild_ips` (`ip_address`, `ip_type`) VALUES ('44.192.255.128/28', 'IPv4');
 INSERT INTO `aws_codebuild_ips` (`ip_address`, `ip_type`) VALUES ('44.242.161.24/29', 'IPv4');
 INSERT INTO `aws_codebuild_ips` (`ip_address`, `ip_type`) VALUES ('51.16.103.16/28', 'IPv4');
+INSERT INTO `aws_codebuild_ips` (`ip_address`, `ip_type`) VALUES ('51.72.26.64/28', 'IPv4');
 INSERT INTO `aws_codebuild_ips` (`ip_address`, `ip_type`) VALUES ('52.15.247.208/29', 'IPv4');
 INSERT INTO `aws_codebuild_ips` (`ip_address`, `ip_type`) VALUES ('52.43.76.88/29', 'IPv4');
 INSERT INTO `aws_codebuild_ips` (`ip_address`, `ip_type`) VALUES ('52.47.73.72/29', 'IPv4');

@@ -120,6 +120,12 @@
     "region": ""
   },
   {
+    "ip_address": "4.232.40.32/27",
+    "ip_type": "IPv4",
+    "service": "CognitiveServicesManagement",
+    "region": ""
+  },
+  {
     "ip_address": "4.232.98.176/28",
     "ip_type": "IPv4",
     "service": "CognitiveServicesManagement",
@@ -253,6 +259,12 @@
   },
   {
     "ip_address": "9.235.185.192/26",
+    "ip_type": "IPv4",
+    "service": "CognitiveServicesManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "9.235.248.80/28",
     "ip_type": "IPv4",
     "service": "CognitiveServicesManagement",
     "region": ""
@@ -6324,6 +6336,12 @@
     "region": ""
   },
   {
+    "ip_address": "74.153.3.32/27",
+    "ip_type": "IPv4",
+    "service": "CognitiveServicesManagement",
+    "region": ""
+  },
+  {
     "ip_address": "74.161.84.205/32",
     "ip_type": "IPv4",
     "service": "CognitiveServicesManagement",
@@ -6445,6 +6463,12 @@
   },
   {
     "ip_address": "74.226.124.96/28",
+    "ip_type": "IPv4",
+    "service": "CognitiveServicesManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "74.248.174.64/28",
     "ip_type": "IPv4",
     "service": "CognitiveServicesManagement",
     "region": ""
@@ -7272,6 +7296,36 @@
     "region": ""
   },
   {
+    "ip_address": "172.129.95.16/28",
+    "ip_type": "IPv4",
+    "service": "CognitiveServicesManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "172.129.95.32/27",
+    "ip_type": "IPv4",
+    "service": "CognitiveServicesManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "172.129.95.64/26",
+    "ip_type": "IPv4",
+    "service": "CognitiveServicesManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "172.129.95.128/26",
+    "ip_type": "IPv4",
+    "service": "CognitiveServicesManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "172.129.95.232/29",
+    "ip_type": "IPv4",
+    "service": "CognitiveServicesManagement",
+    "region": ""
+  },
+  {
     "ip_address": "172.182.152.128/28",
     "ip_type": "IPv4",
     "service": "CognitiveServicesManagement",
@@ -8071,6 +8125,24 @@
   },
   {
     "ip_address": "2603:1020:1602:2::380/121",
+    "ip_type": "IPv6",
+    "service": "CognitiveServicesManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:1701:2::6e8/125",
+    "ip_type": "IPv6",
+    "service": "CognitiveServicesManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:1701:3::240/122",
+    "ip_type": "IPv6",
+    "service": "CognitiveServicesManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:1701:3::280/121",
     "ip_type": "IPv6",
     "service": "CognitiveServicesManagement",
     "region": ""

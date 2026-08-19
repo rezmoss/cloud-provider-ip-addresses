@@ -1428,6 +1428,18 @@
     "region": ""
   },
   {
+    "ip_address": "172.129.91.44/30",
+    "ip_type": "IPv4",
+    "service": "AzurePortal",
+    "region": ""
+  },
+  {
+    "ip_address": "172.129.95.192/27",
+    "ip_type": "IPv4",
+    "service": "AzurePortal",
+    "region": ""
+  },
+  {
     "ip_address": "172.194.81.60/30",
     "ip_type": "IPv4",
     "service": "AzurePortal",
@@ -1723,6 +1735,12 @@
   },
   {
     "ip_address": "2603:1020:1602:2::400/121",
+    "ip_type": "IPv6",
+    "service": "AzurePortal",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:1701:3::300/121",
     "ip_type": "IPv6",
     "service": "AzurePortal",
     "region": ""

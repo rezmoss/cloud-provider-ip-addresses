@@ -163,6 +163,7 @@ INSERT INTO `aws_af-south-1_ips` (`ip_address`, `ip_type`) VALUES ('2406:da32:10
 INSERT INTO `aws_af-south-1_ips` (`ip_address`, `ip_type`) VALUES ('2406:da32:1000::/40', 'IPv6');
 INSERT INTO `aws_af-south-1_ips` (`ip_address`, `ip_type`) VALUES ('2406:da33:1000::/40', 'IPv6');
 INSERT INTO `aws_af-south-1_ips` (`ip_address`, `ip_type`) VALUES ('2406:da33:1000::/40', 'IPv6');
+INSERT INTO `aws_af-south-1_ips` (`ip_address`, `ip_type`) VALUES ('2406:da33:1000::/40', 'IPv6');
 INSERT INTO `aws_af-south-1_ips` (`ip_address`, `ip_type`) VALUES ('2406:da36:1000::/40', 'IPv6');
 INSERT INTO `aws_af-south-1_ips` (`ip_address`, `ip_type`) VALUES ('2406:da36:1000::/40', 'IPv6');
 INSERT INTO `aws_af-south-1_ips` (`ip_address`, `ip_type`) VALUES ('2406:da38:1000::/40', 'IPv6');

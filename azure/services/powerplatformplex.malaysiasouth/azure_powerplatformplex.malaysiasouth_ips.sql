@@ -7,3 +7,4 @@ CREATE TABLE IF NOT EXISTS `azure_powerplatformplex.malaysiasouth_ips` (
 );
 
 INSERT INTO `azure_powerplatformplex.malaysiasouth_ips` (`ip_address`, `ip_type`) VALUES ('172.197.30.0/25', 'IPv4');
+INSERT INTO `azure_powerplatformplex.malaysiasouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2004:d400::/57', 'IPv6');

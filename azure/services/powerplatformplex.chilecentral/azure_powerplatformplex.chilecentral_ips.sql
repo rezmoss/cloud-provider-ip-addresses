@@ -7,3 +7,4 @@ CREATE TABLE IF NOT EXISTS `azure_powerplatformplex.chilecentral_ips` (
 );
 
 INSERT INTO `azure_powerplatformplex.chilecentral_ips` (`ip_address`, `ip_type`) VALUES ('57.156.98.128/25', 'IPv4');
+INSERT INTO `azure_powerplatformplex.chilecentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2004:cc00::/57', 'IPv6');

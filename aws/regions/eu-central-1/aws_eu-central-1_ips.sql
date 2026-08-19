@@ -785,6 +785,8 @@ INSERT INTO `aws_eu-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d032:
 INSERT INTO `aws_eu-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d032:b000::/40', 'IPv6');
 INSERT INTO `aws_eu-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d033:4000::/40', 'IPv6');
 INSERT INTO `aws_eu-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d033:4000::/40', 'IPv6');
+INSERT INTO `aws_eu-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d033:4000::/40', 'IPv6');
+INSERT INTO `aws_eu-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d033:b000::/40', 'IPv6');
 INSERT INTO `aws_eu-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d033:b000::/40', 'IPv6');
 INSERT INTO `aws_eu-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d033:b000::/40', 'IPv6');
 INSERT INTO `aws_eu-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d036:4000::/40', 'IPv6');

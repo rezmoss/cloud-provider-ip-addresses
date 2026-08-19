@@ -17,6 +17,11 @@ INSERT INTO `circleci_circleci-macos_ips` (`ip_address`, `ip_type`) VALUES ('38.
 INSERT INTO `circleci_circleci-macos_ips` (`ip_address`, `ip_type`) VALUES ('38.23.50.0/24', 'IPv4');
 INSERT INTO `circleci_circleci-macos_ips` (`ip_address`, `ip_type`) VALUES ('38.23.51.0/24', 'IPv4');
 INSERT INTO `circleci_circleci-macos_ips` (`ip_address`, `ip_type`) VALUES ('38.23.52.0/24', 'IPv4');
+INSERT INTO `circleci_circleci-macos_ips` (`ip_address`, `ip_type`) VALUES ('38.39.178.0/27', 'IPv4');
+INSERT INTO `circleci_circleci-macos_ips` (`ip_address`, `ip_type`) VALUES ('38.39.178.32/27', 'IPv4');
+INSERT INTO `circleci_circleci-macos_ips` (`ip_address`, `ip_type`) VALUES ('38.39.178.64/27', 'IPv4');
+INSERT INTO `circleci_circleci-macos_ips` (`ip_address`, `ip_type`) VALUES ('38.39.178.96/27', 'IPv4');
+INSERT INTO `circleci_circleci-macos_ips` (`ip_address`, `ip_type`) VALUES ('38.39.178.128/27', 'IPv4');
 INSERT INTO `circleci_circleci-macos_ips` (`ip_address`, `ip_type`) VALUES ('98.80.165.0/24', 'IPv4');
 INSERT INTO `circleci_circleci-macos_ips` (`ip_address`, `ip_type`) VALUES ('100.27.248.128/25', 'IPv4');
 INSERT INTO `circleci_circleci-macos_ips` (`ip_address`, `ip_type`) VALUES ('100.29.139.128/25', 'IPv4');

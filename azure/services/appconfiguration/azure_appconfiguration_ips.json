@@ -2784,6 +2784,12 @@
     "region": ""
   },
   {
+    "ip_address": "172.129.101.32/27",
+    "ip_type": "IPv4",
+    "service": "AppConfiguration",
+    "region": ""
+  },
+  {
     "ip_address": "172.194.76.0/26",
     "ip_type": "IPv4",
     "service": "AppConfiguration",

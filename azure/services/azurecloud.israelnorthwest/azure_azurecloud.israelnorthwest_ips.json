@@ -306,6 +306,18 @@
     "region": "israelnorthwest"
   },
   {
+    "ip_address": "2603:1061:2002:9100::/57",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.israelnorthwest",
+    "region": "israelnorthwest"
+  },
+  {
+    "ip_address": "2603:1061:2004:a100::/57",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.israelnorthwest",
+    "region": "israelnorthwest"
+  },
+  {
     "ip_address": "2603:1061:2010:44::/64",
     "ip_type": "IPv6",
     "service": "AzureCloud.israelnorthwest",

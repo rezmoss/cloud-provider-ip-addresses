@@ -677,6 +677,7 @@ ip_address,ip_type,service,region
 2a05:d032:8000::/40,IPv6,WORKSPACES_GATEWAYS,eu-west-1
 2a05:d033:8000::/40,IPv6,AMAZON,eu-west-1
 2a05:d033:8000::/40,IPv6,EC2,eu-west-1
+2a05:d033:8000::/40,IPv6,IOT_CORE,eu-west-1
 2a05:d036:8000::/40,IPv6,AMAZON,eu-west-1
 2a05:d036:8000::/40,IPv6,EC2,eu-west-1
 2a05:d038:8000::/40,IPv6,AMAZON,eu-west-1

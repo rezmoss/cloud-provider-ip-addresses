@@ -1,3 +1,4 @@
 ip_address,ip_type,service,region
 70.157.171.128/25,IPv4,PowerPlatformInfra.TaiwanNorth,taiwannorth
 70.157.172.0/24,IPv4,PowerPlatformInfra.TaiwanNorth,taiwannorth
+2603:1061:2002:e000::/57,IPv6,PowerPlatformInfra.TaiwanNorth,taiwannorth

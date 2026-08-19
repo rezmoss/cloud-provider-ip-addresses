@@ -318,6 +318,12 @@
     "region": "me-west-1"
   },
   {
+    "ip_address": "2a05:d033:800::/40",
+    "ip_type": "IPv6",
+    "service": "IOT_CORE",
+    "region": "me-west-1"
+  },
+  {
     "ip_address": "2a05:d036:800::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",

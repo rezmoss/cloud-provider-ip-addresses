@@ -147,6 +147,7 @@ ip_address,ip_type,service,region
 2600:1f32:2000::/40,IPv6,WORKSPACES_GATEWAYS,us-gov-west-1
 2600:1f33:2000::/40,IPv6,AMAZON,us-gov-west-1
 2600:1f33:2000::/40,IPv6,EC2,us-gov-west-1
+2600:1f33:2000::/40,IPv6,IOT_CORE,us-gov-west-1
 2600:1f36:2000::/40,IPv6,AMAZON,us-gov-west-1
 2600:1f36:2000::/40,IPv6,EC2,us-gov-west-1
 2600:1f38:2000::/40,IPv6,AMAZON,us-gov-west-1

@@ -302,6 +302,7 @@ ip_address,ip_type,service,region
 70.152.60.0/24,IPv4,AzureCloud.southindia,southindia
 74.224.0.0/16,IPv4,AzureCloud.southindia,southindia
 74.224.33.160/27,IPv4,DataFactory.SouthIndia,southindia
+74.224.37.216/30,IPv4,PowerBI.SouthIndia,southindia
 74.224.83.96/27,IPv4,AzureSecurityCenter.SouthIndia,southindia
 74.224.84.0/22,IPv4,AzureSecurityCenter.SouthIndia,southindia
 74.224.104.0/23,IPv4,AzureSecurityCenter.SouthIndia,southindia

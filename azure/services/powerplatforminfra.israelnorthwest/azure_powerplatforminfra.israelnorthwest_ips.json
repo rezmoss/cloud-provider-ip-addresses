@@ -10,5 +10,11 @@
     "ip_type": "IPv4",
     "service": "PowerPlatformInfra.IsraelNorthwest",
     "region": "israelnorthwest"
+  },
+  {
+    "ip_address": "2603:1061:2002:9100::/57",
+    "ip_type": "IPv6",
+    "service": "PowerPlatformInfra.IsraelNorthwest",
+    "region": "israelnorthwest"
   }
 ]

@@ -168,6 +168,12 @@
     "region": "germanyn"
   },
   {
+    "ip_address": "40.98.28.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
     "ip_address": "40.101.24.192/26",
     "ip_type": "IPv4",
     "service": "AzureCloud.germanyn",
@@ -355,6 +361,12 @@
   },
   {
     "ip_address": "98.67.64.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "151.206.115.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.germanyn",
     "region": "germanyn"

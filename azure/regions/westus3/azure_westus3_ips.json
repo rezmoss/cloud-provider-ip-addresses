@@ -2496,6 +2496,12 @@
     "region": "westus3"
   },
   {
+    "ip_address": "40.98.8.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.westus3",
+    "region": "westus3"
+  },
+  {
     "ip_address": "40.107.208.0/23",
     "ip_type": "IPv4",
     "service": "AzureCloud.westus3",
@@ -2940,37 +2946,7 @@
     "region": "westus3"
   },
   {
-    "ip_address": "57.157.10.0/28",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.westus3",
-    "region": "westus3"
-  },
-  {
-    "ip_address": "57.157.10.16/29",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.westus3",
-    "region": "westus3"
-  },
-  {
-    "ip_address": "57.157.10.24/30",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.westus3",
-    "region": "westus3"
-  },
-  {
-    "ip_address": "57.157.10.48/28",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.westus3",
-    "region": "westus3"
-  },
-  {
-    "ip_address": "57.157.10.64/26",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.westus3",
-    "region": "westus3"
-  },
-  {
-    "ip_address": "57.157.10.128/25",
+    "ip_address": "57.157.10.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.westus3",
     "region": "westus3"
@@ -2982,7 +2958,13 @@
     "region": "westus3"
   },
   {
-    "ip_address": "57.157.11.32/30",
+    "ip_address": "57.157.11.32/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.westus3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "57.157.11.48/29",
     "ip_type": "IPv4",
     "service": "AzureCloud.westus3",
     "region": "westus3"
@@ -3030,7 +3012,7 @@
     "region": "westus3"
   },
   {
-    "ip_address": "57.157.129.192/29",
+    "ip_address": "57.157.129.192/28",
     "ip_type": "IPv4",
     "service": "AzureCloud.westus3",
     "region": "westus3"
@@ -4537,6 +4519,12 @@
   },
   {
     "ip_address": "2603:1036:903:48::/63",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.westus3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "2603:1036:90c:a::/64",
     "ip_type": "IPv6",
     "service": "AzureCloud.westus3",
     "region": "westus3"

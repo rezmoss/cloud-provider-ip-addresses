@@ -1806,6 +1806,30 @@
     "region": "malaysiawest"
   },
   {
+    "ip_address": "2603:1061:2002:d880::/57",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.malaysiawest",
+    "region": "malaysiawest"
+  },
+  {
+    "ip_address": "2603:1061:2002:d880::/57",
+    "ip_type": "IPv6",
+    "service": "PowerPlatformInfra.MalaysiaWest",
+    "region": "malaysiawest"
+  },
+  {
+    "ip_address": "2603:1061:2004:d480::/57",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.malaysiawest",
+    "region": "malaysiawest"
+  },
+  {
+    "ip_address": "2603:1061:2004:d480::/57",
+    "ip_type": "IPv6",
+    "service": "PowerPlatformPlex.MalaysiaWest",
+    "region": "malaysiawest"
+  },
+  {
     "ip_address": "2603:1061:2010:3a::/64",
     "ip_type": "IPv6",
     "service": "AzureCloud.malaysiawest",

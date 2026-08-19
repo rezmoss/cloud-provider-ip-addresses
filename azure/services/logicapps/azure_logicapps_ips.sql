@@ -1645,6 +1645,8 @@ INSERT INTO `azure_logicapps_ips` (`ip_address`, `ip_type`) VALUES ('167.105.175
 INSERT INTO `azure_logicapps_ips` (`ip_address`, `ip_type`) VALUES ('168.62.9.74/32', 'IPv4');
 INSERT INTO `azure_logicapps_ips` (`ip_address`, `ip_type`) VALUES ('168.62.9.100/32', 'IPv4');
 INSERT INTO `azure_logicapps_ips` (`ip_address`, `ip_type`) VALUES ('168.62.28.191/32', 'IPv4');
+INSERT INTO `azure_logicapps_ips` (`ip_address`, `ip_type`) VALUES ('172.129.97.96/28', 'IPv4');
+INSERT INTO `azure_logicapps_ips` (`ip_address`, `ip_type`) VALUES ('172.129.97.128/27', 'IPv4');
 INSERT INTO `azure_logicapps_ips` (`ip_address`, `ip_type`) VALUES ('172.160.223.208/28', 'IPv4');
 INSERT INTO `azure_logicapps_ips` (`ip_address`, `ip_type`) VALUES ('172.164.215.96/28', 'IPv4');
 INSERT INTO `azure_logicapps_ips` (`ip_address`, `ip_type`) VALUES ('172.165.88.82/32', 'IPv4');
@@ -1796,6 +1798,8 @@ INSERT INTO `azure_logicapps_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1
 INSERT INTO `azure_logicapps_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1502:3::460/123', 'IPv6');
 INSERT INTO `azure_logicapps_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1602:3::440/124', 'IPv6');
 INSERT INTO `azure_logicapps_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1602:3::460/123', 'IPv6');
+INSERT INTO `azure_logicapps_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1701:3::710/124', 'IPv6');
+INSERT INTO `azure_logicapps_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1701:3::780/123', 'IPv6');
 INSERT INTO `azure_logicapps_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f:400::bc0/124', 'IPv6');
 INSERT INTO `azure_logicapps_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f:400::be0/123', 'IPv6');
 INSERT INTO `azure_logicapps_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:10:402::3c0/124', 'IPv6');

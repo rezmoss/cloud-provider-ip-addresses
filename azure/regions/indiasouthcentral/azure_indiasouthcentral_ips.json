@@ -132,19 +132,13 @@
     "region": "indiasouthcentral"
   },
   {
-    "ip_address": "57.157.92.192/28",
+    "ip_address": "57.157.92.192/27",
     "ip_type": "IPv4",
     "service": "AzureCloud.indiasouthcentral",
     "region": "indiasouthcentral"
   },
   {
-    "ip_address": "57.157.92.208/29",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.indiasouthcentral",
-    "region": "indiasouthcentral"
-  },
-  {
-    "ip_address": "57.157.92.216/31",
+    "ip_address": "57.157.92.224/31",
     "ip_type": "IPv4",
     "service": "AzureCloud.indiasouthcentral",
     "region": "indiasouthcentral"
@@ -1194,13 +1188,19 @@
     "region": "indiasouthcentral"
   },
   {
-    "ip_address": "2603:1061:101b:68::/63",
+    "ip_address": "2603:1061:101b:68::/62",
     "ip_type": "IPv6",
     "service": "AzureCloud.indiasouthcentral",
     "region": "indiasouthcentral"
   },
   {
-    "ip_address": "2603:1061:101b:6a::/64",
+    "ip_address": "2603:1061:101b:6c::/63",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.indiasouthcentral",
+    "region": "indiasouthcentral"
+  },
+  {
+    "ip_address": "2603:1061:101b:6e::/64",
     "ip_type": "IPv6",
     "service": "AzureCloud.indiasouthcentral",
     "region": "indiasouthcentral"

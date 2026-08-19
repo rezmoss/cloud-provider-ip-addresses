@@ -53,6 +53,7 @@ INSERT INTO `aws_sa-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f32:ec0
 INSERT INTO `aws_sa-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f32:ec00::/40', 'IPv6');
 INSERT INTO `aws_sa-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f33:ec00::/40', 'IPv6');
 INSERT INTO `aws_sa-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f33:ec00::/40', 'IPv6');
+INSERT INTO `aws_sa-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f33:ec00::/40', 'IPv6');
 INSERT INTO `aws_sa-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f36:ec00::/40', 'IPv6');
 INSERT INTO `aws_sa-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f36:ec00::/40', 'IPv6');
 INSERT INTO `aws_sa-west-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f38:ec00::/40', 'IPv6');

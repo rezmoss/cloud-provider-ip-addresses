@@ -1,2 +1,3 @@
 ip_address,ip_type,service,region
 9.205.179.128/25,IPv4,PowerPlatformPlex.DenmarkEast,denmarkeast
+2603:1061:2004:d000::/57,IPv6,PowerPlatformPlex.DenmarkEast,denmarkeast

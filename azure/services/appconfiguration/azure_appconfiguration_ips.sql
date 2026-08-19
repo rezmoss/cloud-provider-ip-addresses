@@ -470,6 +470,7 @@ INSERT INTO `azure_appconfiguration_ips` (`ip_address`, `ip_type`) VALUES ('158.
 INSERT INTO `azure_appconfiguration_ips` (`ip_address`, `ip_type`) VALUES ('167.105.104.192/27', 'IPv4');
 INSERT INTO `azure_appconfiguration_ips` (`ip_address`, `ip_type`) VALUES ('168.61.142.96/27', 'IPv4');
 INSERT INTO `azure_appconfiguration_ips` (`ip_address`, `ip_type`) VALUES ('172.129.84.0/26', 'IPv4');
+INSERT INTO `azure_appconfiguration_ips` (`ip_address`, `ip_type`) VALUES ('172.129.101.32/27', 'IPv4');
 INSERT INTO `azure_appconfiguration_ips` (`ip_address`, `ip_type`) VALUES ('172.194.76.0/26', 'IPv4');
 INSERT INTO `azure_appconfiguration_ips` (`ip_address`, `ip_type`) VALUES ('172.194.112.64/27', 'IPv4');
 INSERT INTO `azure_appconfiguration_ips` (`ip_address`, `ip_type`) VALUES ('172.198.92.0/26', 'IPv4');

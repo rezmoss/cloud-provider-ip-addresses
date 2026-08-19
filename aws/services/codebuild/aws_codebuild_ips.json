@@ -294,6 +294,12 @@
     "region": "il-central-1"
   },
   {
+    "ip_address": "51.72.26.64/28",
+    "ip_type": "IPv4",
+    "service": "CODEBUILD",
+    "region": "eusc-de-east-1"
+  },
+  {
     "ip_address": "52.15.247.208/29",
     "ip_type": "IPv4",
     "service": "CODEBUILD",

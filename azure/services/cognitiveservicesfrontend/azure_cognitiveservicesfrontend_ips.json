@@ -426,6 +426,12 @@
     "region": ""
   },
   {
+    "ip_address": "172.129.95.240/28",
+    "ip_type": "IPv4",
+    "service": "CognitiveServicesFrontend",
+    "region": ""
+  },
+  {
     "ip_address": "172.194.84.80/28",
     "ip_type": "IPv4",
     "service": "CognitiveServicesFrontend",
@@ -595,6 +601,12 @@
   },
   {
     "ip_address": "2603:1020:1602:2::700/121",
+    "ip_type": "IPv6",
+    "service": "CognitiveServicesFrontend",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:1701:3::600/121",
     "ip_type": "IPv6",
     "service": "CognitiveServicesFrontend",
     "region": ""

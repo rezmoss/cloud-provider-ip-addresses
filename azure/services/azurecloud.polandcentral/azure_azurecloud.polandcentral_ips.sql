@@ -76,6 +76,7 @@ INSERT INTO `azure_azurecloud.polandcentral_ips` (`ip_address`, `ip_type`) VALUE
 INSERT INTO `azure_azurecloud.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('134.112.0.0/16', 'IPv4');
 INSERT INTO `azure_azurecloud.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('135.130.208.0/23', 'IPv4');
 INSERT INTO `azure_azurecloud.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('145.190.74.0/24', 'IPv4');
+INSERT INTO `azure_azurecloud.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('151.206.118.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('151.206.155.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('151.206.181.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1300::/47', 'IPv6');

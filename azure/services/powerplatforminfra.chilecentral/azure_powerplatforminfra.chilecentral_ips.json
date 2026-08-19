@@ -10,5 +10,11 @@
     "ip_type": "IPv4",
     "service": "PowerPlatformInfra.ChileCentral",
     "region": "chilec"
+  },
+  {
+    "ip_address": "2603:1061:2002:d000::/57",
+    "ip_type": "IPv6",
+    "service": "PowerPlatformInfra.ChileCentral",
+    "region": "chilec"
   }
 ]

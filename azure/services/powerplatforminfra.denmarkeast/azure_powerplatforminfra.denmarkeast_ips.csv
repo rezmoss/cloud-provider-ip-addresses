@@ -1,3 +1,4 @@
 ip_address,ip_type,service,region
 9.205.180.128/25,IPv4,PowerPlatformInfra.DenmarkEast,denmarkeast
 9.205.181.0/24,IPv4,PowerPlatformInfra.DenmarkEast,denmarkeast
+2603:1061:2002:d400::/57,IPv6,PowerPlatformInfra.DenmarkEast,denmarkeast

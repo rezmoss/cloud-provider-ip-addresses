@@ -36,8 +36,9 @@ ip_address,ip_type,service,region
 40.102.17.128/25,IPv4,AzureCloud.spaincentral,spaincentral
 40.102.18.0/26,IPv4,AzureCloud.spaincentral,spaincentral
 40.120.144.0/23,IPv4,AzureCloud.spaincentral,spaincentral
-40.120.146.0/26,IPv4,AzureCloud.spaincentral,spaincentral
-40.120.146.64/27,IPv4,AzureCloud.spaincentral,spaincentral
+40.120.146.0/25,IPv4,AzureCloud.spaincentral,spaincentral
+40.120.146.128/29,IPv4,AzureCloud.spaincentral,spaincentral
+40.120.146.136/30,IPv4,AzureCloud.spaincentral,spaincentral
 48.208.40.0/24,IPv4,AzureCloud.spaincentral,spaincentral
 48.212.43.0/24,IPv4,AzureCloud.spaincentral,spaincentral
 48.212.170.0/24,IPv4,AzureCloud.spaincentral,spaincentral
@@ -207,6 +208,7 @@ ip_address,ip_type,service,region
 135.130.58.0/23,IPv4,AzureCloud.spaincentral,spaincentral
 135.130.58.0/23,IPv4,Storage.SpainCentral,spaincentral
 145.190.71.0/24,IPv4,AzureCloud.spaincentral,spaincentral
+151.206.120.0/24,IPv4,AzureCloud.spaincentral,spaincentral
 151.206.167.0/24,IPv4,AzureCloud.spaincentral,spaincentral
 151.206.193.0/24,IPv4,AzureCloud.spaincentral,spaincentral
 158.158.0.0/16,IPv4,AzureCloud.spaincentral,spaincentral
@@ -338,7 +340,10 @@ ip_address,ip_type,service,region
 2603:1061:1008:b8::/62,IPv6,AzureCloud.spaincentral,spaincentral
 2603:1061:1008:c0::/58,IPv6,AzureCloud.spaincentral,spaincentral
 2603:1061:1008:100::/59,IPv6,AzureCloud.spaincentral,spaincentral
-2603:1061:1008:120::/61,IPv6,AzureCloud.spaincentral,spaincentral
+2603:1061:1008:120::/60,IPv6,AzureCloud.spaincentral,spaincentral
+2603:1061:1008:130::/61,IPv6,AzureCloud.spaincentral,spaincentral
+2603:1061:1008:138::/62,IPv6,AzureCloud.spaincentral,spaincentral
+2603:1061:1008:13c::/63,IPv6,AzureCloud.spaincentral,spaincentral
 2603:1061:1311:3400::/54,IPv6,AzureCloud.spaincentral,spaincentral
 2603:1061:1738::/48,IPv6,AzureCloud.spaincentral,spaincentral
 2603:1061:2000:5e0::/62,IPv6,AzureCloud.spaincentral,spaincentral

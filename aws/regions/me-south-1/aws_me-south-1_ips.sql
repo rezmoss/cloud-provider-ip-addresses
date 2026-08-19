@@ -252,6 +252,7 @@ INSERT INTO `aws_me-south-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d032:e0
 INSERT INTO `aws_me-south-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d032:e000::/40', 'IPv6');
 INSERT INTO `aws_me-south-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d033:e000::/40', 'IPv6');
 INSERT INTO `aws_me-south-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d033:e000::/40', 'IPv6');
+INSERT INTO `aws_me-south-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d033:e000::/40', 'IPv6');
 INSERT INTO `aws_me-south-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d036:e000::/40', 'IPv6');
 INSERT INTO `aws_me-south-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d036:e000::/40', 'IPv6');
 INSERT INTO `aws_me-south-1_ips` (`ip_address`, `ip_type`) VALUES ('2a05:d038:e000::/40', 'IPv6');

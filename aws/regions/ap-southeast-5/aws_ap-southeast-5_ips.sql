@@ -114,6 +114,7 @@ INSERT INTO `aws_ap-southeast-5_ips` (`ip_address`, `ip_type`) VALUES ('2406:da3
 INSERT INTO `aws_ap-southeast-5_ips` (`ip_address`, `ip_type`) VALUES ('2406:da32:800::/40', 'IPv6');
 INSERT INTO `aws_ap-southeast-5_ips` (`ip_address`, `ip_type`) VALUES ('2406:da33:800::/40', 'IPv6');
 INSERT INTO `aws_ap-southeast-5_ips` (`ip_address`, `ip_type`) VALUES ('2406:da33:800::/40', 'IPv6');
+INSERT INTO `aws_ap-southeast-5_ips` (`ip_address`, `ip_type`) VALUES ('2406:da33:800::/40', 'IPv6');
 INSERT INTO `aws_ap-southeast-5_ips` (`ip_address`, `ip_type`) VALUES ('2406:da36:800::/40', 'IPv6');
 INSERT INTO `aws_ap-southeast-5_ips` (`ip_address`, `ip_type`) VALUES ('2406:da36:800::/40', 'IPv6');
 INSERT INTO `aws_ap-southeast-5_ips` (`ip_address`, `ip_type`) VALUES ('2406:da38:800::/40', 'IPv6');

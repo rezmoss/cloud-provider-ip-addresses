@@ -666,6 +666,18 @@
     "region": "malaysiasouth"
   },
   {
+    "ip_address": "2603:1061:2002:d800::/57",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.malaysiasouth",
+    "region": "malaysiasouth"
+  },
+  {
+    "ip_address": "2603:1061:2004:d400::/57",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.malaysiasouth",
+    "region": "malaysiasouth"
+  },
+  {
     "ip_address": "2603:1061:2010:40::/64",
     "ip_type": "IPv6",
     "service": "AzureCloud.malaysiasouth",

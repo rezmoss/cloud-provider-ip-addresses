@@ -34,6 +34,7 @@ INSERT INTO `azure_azurecloud.germanyn_ips` (`ip_address`, `ip_type`) VALUES ('4
 INSERT INTO `azure_azurecloud.germanyn_ips` (`ip_address`, `ip_type`) VALUES ('40.90.31.0/27', 'IPv4');
 INSERT INTO `azure_azurecloud.germanyn_ips` (`ip_address`, `ip_type`) VALUES ('40.90.128.240/28', 'IPv4');
 INSERT INTO `azure_azurecloud.germanyn_ips` (`ip_address`, `ip_type`) VALUES ('40.93.77.0/24', 'IPv4');
+INSERT INTO `azure_azurecloud.germanyn_ips` (`ip_address`, `ip_type`) VALUES ('40.98.28.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.germanyn_ips` (`ip_address`, `ip_type`) VALUES ('40.101.24.192/26', 'IPv4');
 INSERT INTO `azure_azurecloud.germanyn_ips` (`ip_address`, `ip_type`) VALUES ('40.107.138.0/23', 'IPv4');
 INSERT INTO `azure_azurecloud.germanyn_ips` (`ip_address`, `ip_type`) VALUES ('40.107.140.0/24', 'IPv4');
@@ -66,6 +67,7 @@ INSERT INTO `azure_azurecloud.germanyn_ips` (`ip_address`, `ip_type`) VALUES ('5
 INSERT INTO `azure_azurecloud.germanyn_ips` (`ip_address`, `ip_type`) VALUES ('70.152.41.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.germanyn_ips` (`ip_address`, `ip_type`) VALUES ('98.67.0.0/18', 'IPv4');
 INSERT INTO `azure_azurecloud.germanyn_ips` (`ip_address`, `ip_type`) VALUES ('98.67.64.0/21', 'IPv4');
+INSERT INTO `azure_azurecloud.germanyn_ips` (`ip_address`, `ip_type`) VALUES ('151.206.115.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.germanyn_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:d00::/47', 'IPv6');
 INSERT INTO `azure_azurecloud.germanyn_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:d03::/48', 'IPv6');
 INSERT INTO `azure_azurecloud.germanyn_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:d04::/47', 'IPv6');

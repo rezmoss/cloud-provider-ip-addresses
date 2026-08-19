@@ -77,6 +77,7 @@ INSERT INTO `azure_cognitiveservicesfrontend_ips` (`ip_address`, `ip_type`) VALU
 INSERT INTO `azure_cognitiveservicesfrontend_ips` (`ip_address`, `ip_type`) VALUES ('102.37.85.240/28', 'IPv4');
 INSERT INTO `azure_cognitiveservicesfrontend_ips` (`ip_address`, `ip_type`) VALUES ('134.138.83.96/28', 'IPv4');
 INSERT INTO `azure_cognitiveservicesfrontend_ips` (`ip_address`, `ip_type`) VALUES ('158.23.112.144/28', 'IPv4');
+INSERT INTO `azure_cognitiveservicesfrontend_ips` (`ip_address`, `ip_type`) VALUES ('172.129.95.240/28', 'IPv4');
 INSERT INTO `azure_cognitiveservicesfrontend_ips` (`ip_address`, `ip_type`) VALUES ('172.194.84.80/28', 'IPv4');
 INSERT INTO `azure_cognitiveservicesfrontend_ips` (`ip_address`, `ip_type`) VALUES ('172.198.99.16/28', 'IPv4');
 INSERT INTO `azure_cognitiveservicesfrontend_ips` (`ip_address`, `ip_type`) VALUES ('172.204.167.96/28', 'IPv4');
@@ -106,6 +107,7 @@ INSERT INTO `azure_cognitiveservicesfrontend_ips` (`ip_address`, `ip_type`) VALU
 INSERT INTO `azure_cognitiveservicesfrontend_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1403:2::600/121', 'IPv6');
 INSERT INTO `azure_cognitiveservicesfrontend_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1502:2::700/121', 'IPv6');
 INSERT INTO `azure_cognitiveservicesfrontend_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1602:2::700/121', 'IPv6');
+INSERT INTO `azure_cognitiveservicesfrontend_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1701:3::600/121', 'IPv6');
 INSERT INTO `azure_cognitiveservicesfrontend_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f:3::780/121', 'IPv6');
 INSERT INTO `azure_cognitiveservicesfrontend_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:10:4::200/121', 'IPv6');
 INSERT INTO `azure_cognitiveservicesfrontend_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:210:5::200/121', 'IPv6');

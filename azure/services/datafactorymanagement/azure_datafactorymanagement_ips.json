@@ -2088,6 +2088,18 @@
     "region": ""
   },
   {
+    "ip_address": "172.129.91.48/28",
+    "ip_type": "IPv4",
+    "service": "DataFactoryManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "172.129.91.96/27",
+    "ip_type": "IPv4",
+    "service": "DataFactoryManagement",
+    "region": ""
+  },
+  {
     "ip_address": "172.164.238.216/29",
     "ip_type": "IPv4",
     "service": "DataFactoryManagement",
@@ -2941,6 +2953,12 @@
   },
   {
     "ip_address": "2603:1020:1602:c00::50/124",
+    "ip_type": "IPv6",
+    "service": "DataFactoryManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:1701:3::180/121",
     "ip_type": "IPv6",
     "service": "DataFactoryManagement",
     "region": ""

@@ -720,6 +720,12 @@
     "region": ""
   },
   {
+    "ip_address": "172.129.103.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureWebPubSub",
+    "region": ""
+  },
+  {
     "ip_address": "172.204.250.0/26",
     "ip_type": "IPv4",
     "service": "AzureWebPubSub",
@@ -913,6 +919,12 @@
   },
   {
     "ip_address": "2603:1020:1502:4::3c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureWebPubSub",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:1701:4::540/122",
     "ip_type": "IPv6",
     "service": "AzureWebPubSub",
     "region": ""

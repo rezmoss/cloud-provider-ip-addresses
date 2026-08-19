@@ -10,5 +10,11 @@
     "ip_type": "IPv4",
     "service": "PowerPlatformInfra.DenmarkEast",
     "region": "denmarkeast"
+  },
+  {
+    "ip_address": "2603:1061:2002:d400::/57",
+    "ip_type": "IPv6",
+    "service": "PowerPlatformInfra.DenmarkEast",
+    "region": "denmarkeast"
   }
 ]

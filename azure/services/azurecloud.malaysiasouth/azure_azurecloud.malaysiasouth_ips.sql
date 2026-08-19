@@ -117,6 +117,8 @@ INSERT INTO `azure_azurecloud.malaysiasouth_ips` (`ip_address`, `ip_type`) VALUE
 INSERT INTO `azure_azurecloud.malaysiasouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:100a:4e::/64', 'IPv6');
 INSERT INTO `azure_azurecloud.malaysiasouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1310:5c00::/54', 'IPv6');
 INSERT INTO `azure_azurecloud.malaysiasouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1740::/48', 'IPv6');
+INSERT INTO `azure_azurecloud.malaysiasouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2002:d800::/57', 'IPv6');
+INSERT INTO `azure_azurecloud.malaysiasouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2004:d400::/57', 'IPv6');
 INSERT INTO `azure_azurecloud.malaysiasouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2010:40::/64', 'IPv6');
 INSERT INTO `azure_azurecloud.malaysiasouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2011:40::/64', 'IPv6');
 INSERT INTO `azure_azurecloud.malaysiasouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1063:37::/64', 'IPv6');

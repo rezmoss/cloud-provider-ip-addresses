@@ -708,6 +708,12 @@
     "region": "ap-south-2"
   },
   {
+    "ip_address": "2406:da33:b000::/40",
+    "ip_type": "IPv6",
+    "service": "IOT_CORE",
+    "region": "ap-south-2"
+  },
+  {
     "ip_address": "2406:da36:b000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",

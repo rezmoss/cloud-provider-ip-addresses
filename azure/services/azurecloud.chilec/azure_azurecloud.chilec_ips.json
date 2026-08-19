@@ -18,19 +18,13 @@
     "region": "chilec"
   },
   {
-    "ip_address": "20.20.89.64/29",
+    "ip_address": "20.20.89.64/28",
     "ip_type": "IPv4",
     "service": "AzureCloud.chilec",
     "region": "chilec"
   },
   {
-    "ip_address": "20.20.89.72/30",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.chilec",
-    "region": "chilec"
-  },
-  {
-    "ip_address": "20.20.89.76/31",
+    "ip_address": "20.20.89.80/31",
     "ip_type": "IPv4",
     "service": "AzureCloud.chilec",
     "region": "chilec"
@@ -264,7 +258,7 @@
     "region": "chilec"
   },
   {
-    "ip_address": "57.156.0.0/17",
+    "ip_address": "57.156.0.0/16",
     "ip_type": "IPv4",
     "service": "AzureCloud.chilec",
     "region": "chilec"
@@ -289,6 +283,12 @@
   },
   {
     "ip_address": "70.152.213.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.chilec",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "151.206.123.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.chilec",
     "region": "chilec"
@@ -384,31 +384,13 @@
     "region": "chilec"
   },
   {
-    "ip_address": "2603:1061:1013:80::/60",
+    "ip_address": "2603:1061:1013:80::/59",
     "ip_type": "IPv6",
     "service": "AzureCloud.chilec",
     "region": "chilec"
   },
   {
-    "ip_address": "2603:1061:1013:90::/61",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.chilec",
-    "region": "chilec"
-  },
-  {
-    "ip_address": "2603:1061:1013:98::/62",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.chilec",
-    "region": "chilec"
-  },
-  {
-    "ip_address": "2603:1061:1013:9c::/63",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.chilec",
-    "region": "chilec"
-  },
-  {
-    "ip_address": "2603:1061:1013:9e::/64",
+    "ip_address": "2603:1061:1013:a0::/64",
     "ip_type": "IPv6",
     "service": "AzureCloud.chilec",
     "region": "chilec"
@@ -421,6 +403,18 @@
   },
   {
     "ip_address": "2603:1061:170b::/48",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.chilec",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "2603:1061:2002:d000::/57",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.chilec",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "2603:1061:2004:cc00::/57",
     "ip_type": "IPv6",
     "service": "AzureCloud.chilec",
     "region": "chilec"

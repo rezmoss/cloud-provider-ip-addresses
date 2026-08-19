@@ -8,3 +8,4 @@ CREATE TABLE IF NOT EXISTS `azure_powerplatforminfra.israelnorthwest_ips` (
 
 INSERT INTO `azure_powerplatforminfra.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('51.4.231.0/24', 'IPv4');
 INSERT INTO `azure_powerplatforminfra.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('51.58.144.0/25', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2002:9100::/57', 'IPv6');

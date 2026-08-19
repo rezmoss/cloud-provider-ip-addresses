@@ -39,6 +39,7 @@ INSERT INTO `azure_storage.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('51.14
 INSERT INTO `azure_storage.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('52.239.187.0/25', 'IPv4');
 INSERT INTO `azure_storage.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('52.239.231.0/24', 'IPv4');
 INSERT INTO `azure_storage.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('57.150.236.0/23', 'IPv4');
+INSERT INTO `azure_storage.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('57.163.64.0/23', 'IPv4');
 INSERT INTO `azure_storage.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('135.130.130.0/23', 'IPv4');
 INSERT INTO `azure_storage.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('145.190.156.0/24', 'IPv4');
 INSERT INTO `azure_storage.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:706::/48', 'IPv6');

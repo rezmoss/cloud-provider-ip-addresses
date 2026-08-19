@@ -225,6 +225,7 @@ INSERT INTO `azure_southafricawest_ips` (`ip_address`, `ip_type`) VALUES ('102.1
 INSERT INTO `azure_southafricawest_ips` (`ip_address`, `ip_type`) VALUES ('102.133.98.91/32', 'IPv4');
 INSERT INTO `azure_southafricawest_ips` (`ip_address`, `ip_type`) VALUES ('102.133.101.220/32', 'IPv4');
 INSERT INTO `azure_southafricawest_ips` (`ip_address`, `ip_type`) VALUES ('102.133.112.0/28', 'IPv4');
+INSERT INTO `azure_southafricawest_ips` (`ip_address`, `ip_type`) VALUES ('151.206.114.0/24', 'IPv4');
 INSERT INTO `azure_southafricawest_ips` (`ip_address`, `ip_type`) VALUES ('151.206.166.0/24', 'IPv4');
 INSERT INTO `azure_southafricawest_ips` (`ip_address`, `ip_type`) VALUES ('151.206.192.0/24', 'IPv4');
 INSERT INTO `azure_southafricawest_ips` (`ip_address`, `ip_type`) VALUES ('172.209.0.0/17', 'IPv4');

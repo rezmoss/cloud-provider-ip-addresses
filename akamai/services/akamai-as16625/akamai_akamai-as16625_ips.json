@@ -726,12 +726,6 @@
     "region": "global"
   },
   {
-    "ip_address": "2.23.196.0/22",
-    "ip_type": "IPv4",
-    "service": "akamai-as16625",
-    "region": "global"
-  },
-  {
     "ip_address": "2.23.220.0/22",
     "ip_type": "IPv4",
     "service": "akamai-as16625",
@@ -1195,12 +1189,6 @@
   },
   {
     "ip_address": "23.8.240.0/20",
-    "ip_type": "IPv4",
-    "service": "akamai-as16625",
-    "region": "global"
-  },
-  {
-    "ip_address": "23.9.16.0/20",
     "ip_type": "IPv4",
     "service": "akamai-as16625",
     "region": "global"
@@ -1878,12 +1866,6 @@
     "region": "global"
   },
   {
-    "ip_address": "23.35.80.0/20",
-    "ip_type": "IPv4",
-    "service": "akamai-as16625",
-    "region": "global"
-  },
-  {
     "ip_address": "23.35.100.0/22",
     "ip_type": "IPv4",
     "service": "akamai-as16625",
@@ -1950,18 +1932,6 @@
     "region": "global"
   },
   {
-    "ip_address": "23.35.228.0/22",
-    "ip_type": "IPv4",
-    "service": "akamai-as16625",
-    "region": "global"
-  },
-  {
-    "ip_address": "23.35.236.0/22",
-    "ip_type": "IPv4",
-    "service": "akamai-as16625",
-    "region": "global"
-  },
-  {
     "ip_address": "23.36.8.0/22",
     "ip_type": "IPv4",
     "service": "akamai-as16625",
@@ -1993,12 +1963,6 @@
   },
   {
     "ip_address": "23.36.62.0/23",
-    "ip_type": "IPv4",
-    "service": "akamai-as16625",
-    "region": "global"
-  },
-  {
-    "ip_address": "23.36.68.0/22",
     "ip_type": "IPv4",
     "service": "akamai-as16625",
     "region": "global"
@@ -6498,12 +6462,6 @@
     "region": "global"
   },
   {
-    "ip_address": "23.205.250.0/23",
-    "ip_type": "IPv4",
-    "service": "akamai-as16625",
-    "region": "global"
-  },
-  {
     "ip_address": "23.206.8.0/23",
     "ip_type": "IPv4",
     "service": "akamai-as16625",
@@ -6601,12 +6559,6 @@
   },
   {
     "ip_address": "23.206.200.0/23",
-    "ip_type": "IPv4",
-    "service": "akamai-as16625",
-    "region": "global"
-  },
-  {
-    "ip_address": "23.206.208.0/22",
     "ip_type": "IPv4",
     "service": "akamai-as16625",
     "region": "global"
@@ -7273,12 +7225,6 @@
   },
   {
     "ip_address": "23.213.192.0/23",
-    "ip_type": "IPv4",
-    "service": "akamai-as16625",
-    "region": "global"
-  },
-  {
-    "ip_address": "23.213.208.0/21",
     "ip_type": "IPv4",
     "service": "akamai-as16625",
     "region": "global"
@@ -8346,12 +8292,6 @@
     "region": "global"
   },
   {
-    "ip_address": "69.192.160.0/22",
-    "ip_type": "IPv4",
-    "service": "akamai-as16625",
-    "region": "global"
-  },
-  {
     "ip_address": "72.246.28.0/22",
     "ip_type": "IPv4",
     "service": "akamai-as16625",
@@ -8917,12 +8857,6 @@
   },
   {
     "ip_address": "95.101.200.0/22",
-    "ip_type": "IPv4",
-    "service": "akamai-as16625",
-    "region": "global"
-  },
-  {
-    "ip_address": "95.101.224.0/22",
     "ip_type": "IPv4",
     "service": "akamai-as16625",
     "region": "global"
@@ -10602,12 +10536,6 @@
     "region": "global"
   },
   {
-    "ip_address": "118.214.96.0/20",
-    "ip_type": "IPv4",
-    "service": "akamai-as16625",
-    "region": "global"
-  },
-  {
     "ip_address": "118.214.128.0/20",
     "ip_type": "IPv4",
     "service": "akamai-as16625",
@@ -10789,12 +10717,6 @@
   },
   {
     "ip_address": "173.223.36.0/22",
-    "ip_type": "IPv4",
-    "service": "akamai-as16625",
-    "region": "global"
-  },
-  {
-    "ip_address": "173.223.48.0/22",
     "ip_type": "IPv4",
     "service": "akamai-as16625",
     "region": "global"
@@ -11634,12 +11556,6 @@
     "region": "global"
   },
   {
-    "ip_address": "184.29.10.0/23",
-    "ip_type": "IPv4",
-    "service": "akamai-as16625",
-    "region": "global"
-  },
-  {
     "ip_address": "184.29.20.0/22",
     "ip_type": "IPv4",
     "service": "akamai-as16625",
@@ -12067,12 +11983,6 @@
   },
   {
     "ip_address": "184.84.80.0/20",
-    "ip_type": "IPv4",
-    "service": "akamai-as16625",
-    "region": "global"
-  },
-  {
-    "ip_address": "184.84.128.0/22",
     "ip_type": "IPv4",
     "service": "akamai-as16625",
     "region": "global"

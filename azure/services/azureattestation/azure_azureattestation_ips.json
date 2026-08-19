@@ -3330,6 +3330,18 @@
     "region": ""
   },
   {
+    "ip_address": "2603:1020:1701:4::468/126",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:1701:4::470/125",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
     "ip_address": "2603:1030:f:2::4c0/123",
     "ip_type": "IPv6",
     "service": "AzureAttestation",

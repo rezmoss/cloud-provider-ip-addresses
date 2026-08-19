@@ -450,8 +450,10 @@ ip_address,ip_type,service,region
 2406:da32:8800::/40,IPv6,EC2,ap-southeast-1
 2406:da33:8000::/40,IPv6,AMAZON,ap-southeast-1
 2406:da33:8000::/40,IPv6,EC2,ap-southeast-1
+2406:da33:8000::/40,IPv6,IOT_CORE,ap-southeast-1
 2406:da33:8800::/40,IPv6,AMAZON,ap-southeast-1
 2406:da33:8800::/40,IPv6,EC2,ap-southeast-1
+2406:da33:8800::/40,IPv6,IOT_CORE,ap-southeast-1
 2406:da36:8000::/40,IPv6,AMAZON,ap-southeast-1
 2406:da36:8000::/40,IPv6,EC2,ap-southeast-1
 2406:da36:8800::/40,IPv6,AMAZON,ap-southeast-1

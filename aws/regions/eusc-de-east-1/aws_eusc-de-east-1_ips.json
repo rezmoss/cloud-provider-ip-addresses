@@ -222,6 +222,12 @@
     "region": "eusc-de-east-1"
   },
   {
+    "ip_address": "51.72.26.64/28",
+    "ip_type": "IPv4",
+    "service": "CODEBUILD",
+    "region": "eusc-de-east-1"
+  },
+  {
     "ip_address": "51.74.0.0/20",
     "ip_type": "IPv4",
     "service": "AMAZON",

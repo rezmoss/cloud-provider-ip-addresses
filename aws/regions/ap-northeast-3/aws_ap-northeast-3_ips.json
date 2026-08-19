@@ -1086,6 +1086,12 @@
     "region": "ap-northeast-3"
   },
   {
+    "ip_address": "2406:da33:6000::/40",
+    "ip_type": "IPv6",
+    "service": "IOT_CORE",
+    "region": "ap-northeast-3"
+  },
+  {
     "ip_address": "2406:da36:6000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",

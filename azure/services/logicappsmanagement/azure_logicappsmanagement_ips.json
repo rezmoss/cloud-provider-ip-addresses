@@ -4062,6 +4062,12 @@
     "region": ""
   },
   {
+    "ip_address": "172.129.97.96/28",
+    "ip_type": "IPv4",
+    "service": "LogicAppsManagement",
+    "region": ""
+  },
+  {
     "ip_address": "172.160.223.208/28",
     "ip_type": "IPv4",
     "service": "LogicAppsManagement",
@@ -4549,6 +4555,12 @@
   },
   {
     "ip_address": "2603:1020:1602:3::440/124",
+    "ip_type": "IPv6",
+    "service": "LogicAppsManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:1701:3::710/124",
     "ip_type": "IPv6",
     "service": "LogicAppsManagement",
     "region": ""

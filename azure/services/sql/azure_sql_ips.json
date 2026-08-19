@@ -6300,6 +6300,18 @@
     "region": ""
   },
   {
+    "ip_address": "172.129.96.64/26",
+    "ip_type": "IPv4",
+    "service": "Sql",
+    "region": ""
+  },
+  {
+    "ip_address": "172.129.96.128/26",
+    "ip_type": "IPv4",
+    "service": "Sql",
+    "region": ""
+  },
+  {
     "ip_address": "172.169.140.184/30",
     "ip_type": "IPv4",
     "service": "Sql",
@@ -7579,6 +7591,18 @@
   },
   {
     "ip_address": "2603:1020:1602:2::680/121",
+    "ip_type": "IPv6",
+    "service": "Sql",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:1701:3::500/123",
+    "ip_type": "IPv6",
+    "service": "Sql",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1020:1701:3::580/121",
     "ip_type": "IPv6",
     "service": "Sql",
     "region": ""

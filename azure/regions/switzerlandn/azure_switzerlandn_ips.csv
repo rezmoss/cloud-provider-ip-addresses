@@ -385,6 +385,7 @@ ip_address,ip_type,service,region
 135.130.42.0/23,IPv4,Storage.SwitzerlandNorth,switzerlandn
 145.190.70.0/24,IPv4,AzureCloud.switzerlandn,switzerlandn
 145.190.73.0/24,IPv4,AzureCloud.switzerlandn,switzerlandn
+151.206.117.0/24,IPv4,AzureCloud.switzerlandn,switzerlandn
 151.206.149.0/24,IPv4,AzureCloud.switzerlandn,switzerlandn
 151.206.175.0/24,IPv4,AzureCloud.switzerlandn,switzerlandn
 172.161.0.0/16,IPv4,AzureCloud.switzerlandn,switzerlandn

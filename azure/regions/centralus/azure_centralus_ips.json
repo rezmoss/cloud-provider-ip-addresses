@@ -3600,6 +3600,12 @@
     "region": "centralus"
   },
   {
+    "ip_address": "40.98.9.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.centralus",
+    "region": "centralus"
+  },
+  {
     "ip_address": "40.113.192.0/18",
     "ip_type": "IPv4",
     "service": "AzureCloud.centralus",
@@ -4008,6 +4014,12 @@
     "region": "centralus"
   },
   {
+    "ip_address": "40.120.167.104/31",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.centralus",
+    "region": "centralus"
+  },
+  {
     "ip_address": "40.120.167.108/30",
     "ip_type": "IPv4",
     "service": "AzureCloud.centralus",
@@ -4147,6 +4159,12 @@
   },
   {
     "ip_address": "40.123.168.192/30",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.centralus",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "40.123.168.196/31",
     "ip_type": "IPv4",
     "service": "AzureCloud.centralus",
     "region": "centralus"
@@ -9072,19 +9090,7 @@
     "region": "centralus"
   },
   {
-    "ip_address": "2603:1030:9:348::/63",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.centralus",
-    "region": "centralus"
-  },
-  {
-    "ip_address": "2603:1030:9:34b::/64",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.centralus",
-    "region": "centralus"
-  },
-  {
-    "ip_address": "2603:1030:9:34c::/62",
+    "ip_address": "2603:1030:9:348::/61",
     "ip_type": "IPv6",
     "service": "AzureCloud.centralus",
     "region": "centralus"
@@ -9175,6 +9181,12 @@
   },
   {
     "ip_address": "2603:1030:9:3b8::/63",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.centralus",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "2603:1030:9:3ba::/64",
     "ip_type": "IPv6",
     "service": "AzureCloud.centralus",
     "region": "centralus"
@@ -10825,6 +10837,12 @@
   },
   {
     "ip_address": "2603:1036:903:38::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.centralus",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "2603:1036:90c:b::/64",
     "ip_type": "IPv6",
     "service": "AzureCloud.centralus",
     "region": "centralus"

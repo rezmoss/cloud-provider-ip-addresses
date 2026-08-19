@@ -460,6 +460,7 @@ ip_address,ip_type,service,region
 2406:da32:4000::/40,IPv6,WORKSPACES_GATEWAYS,ap-northeast-1
 2406:da33:4000::/40,IPv6,AMAZON,ap-northeast-1
 2406:da33:4000::/40,IPv6,EC2,ap-northeast-1
+2406:da33:4000::/40,IPv6,IOT_CORE,ap-northeast-1
 2406:da36:4000::/40,IPv6,AMAZON,ap-northeast-1
 2406:da36:4000::/40,IPv6,EC2,ap-northeast-1
 2406:da38:4000::/40,IPv6,AMAZON,ap-northeast-1

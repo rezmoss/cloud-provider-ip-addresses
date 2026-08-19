@@ -288,6 +288,7 @@ ip_address,ip_type,service,region
 2406:da32:2000::/40,IPv6,WORKSPACES_GATEWAYS,ap-northeast-2
 2406:da33:2000::/40,IPv6,AMAZON,ap-northeast-2
 2406:da33:2000::/40,IPv6,EC2,ap-northeast-2
+2406:da33:2000::/40,IPv6,IOT_CORE,ap-northeast-2
 2406:da36:2000::/40,IPv6,AMAZON,ap-northeast-2
 2406:da36:2000::/40,IPv6,EC2,ap-northeast-2
 2406:da38:2000::/40,IPv6,AMAZON,ap-northeast-2

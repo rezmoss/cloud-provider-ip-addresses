@@ -1,6 +1,6 @@
 #!/bin/bash
 # Gcore IP Ranges
-# Updated: 2026-08-13 03:07:00
+# Updated: 2026-08-19 02:40:48
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -48,6 +48,7 @@ ufw allow from 37.239.145.2/32
 ufw allow from 41.210.189.22/32
 ufw allow from 41.216.70.58/32
 ufw allow from 41.226.6.202/32
+ufw allow from 45.32.212.15/32
 ufw allow from 45.68.4.2/32
 ufw allow from 45.68.52.66/32
 ufw allow from 45.80.213.4/30
@@ -78,6 +79,7 @@ ufw allow from 62.112.222.143/32
 ufw allow from 62.112.222.229/32
 ufw allow from 62.112.223.4/31
 ufw allow from 62.209.27.232/32
+ufw allow from 65.20.85.192/32
 ufw allow from 78.111.103.4/31
 ufw allow from 78.111.110.4/31
 ufw allow from 78.111.110.6/32
@@ -475,6 +477,7 @@ ufw allow from 150.107.126.4/31
 ufw allow from 151.248.104.69/32
 ufw allow from 151.248.104.91/32
 ufw allow from 154.120.250.210/32
+ufw allow from 154.160.40.3/32
 ufw allow from 168.232.103.194/31
 ufw allow from 169.239.158.154/32
 ufw allow from 170.238.234.217/32
@@ -575,6 +578,7 @@ ufw allow from 2001:67c:2700:c001::2/128
 ufw allow from 2001:fe0:4775::147/128
 ufw allow from 2001:1670::130:0:0:e2/128
 ufw allow from 2001:1670::130:0:0:107/128
+ufw allow from 2001:19f0:5400:312d:5400:6ff:fe48:3e9b/128
 ufw allow from 2001:1a10:cd:9c01::2/128
 ufw allow from 2001:4290:c:d::26/128
 ufw allow from 2400:adc0:60::202/128
@@ -1032,5 +1036,6 @@ ufw allow from 2c0e:0:22::1/128
 ufw allow from 2c0f:4280:6400:2::202/128
 ufw allow from 2c0f:ee00:1:c0eb::50/128
 ufw allow from 2c0f:f578:0:c::106/128
+ufw allow from 2c0f:f7c0:3800:10::bc3/128
 ufw allow from 2c0f:f828:2::114/128
 ufw allow from 2c0f:fe38:7:50::2/128
