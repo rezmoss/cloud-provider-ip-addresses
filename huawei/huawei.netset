@@ -1,6 +1,6 @@
 # huawei IP ranges - ipset restore format (hash:net)
-# Version: 21 | Generated: 2026-08-19 | Last changed: 2026-08-19
-# IPv4: 191 merged subnets, 1148416 unique IPs
+# Version: 22 | Generated: 2026-08-20 | Last changed: 2026-08-20
+# IPv4: 191 merged subnets, 1148160 unique IPs
 # IPv6: 33 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
@@ -78,7 +78,6 @@ add huawei_v4 101.46.128.0/17
 add huawei_v4 103.40.100.0/22
 add huawei_v4 103.215.0.0/23
 add huawei_v4 103.215.3.0/24
-add huawei_v4 103.239.72.0/23
 add huawei_v4 103.240.156.0/22
 add huawei_v4 103.255.60.0/22
 add huawei_v4 110.41.208.0/23
@@ -168,6 +167,7 @@ add huawei_v4 182.160.36.0/22
 add huawei_v4 182.160.43.0/24
 add huawei_v4 182.160.44.0/22
 add huawei_v4 182.160.48.0/23
+add huawei_v4 182.160.50.0/24
 add huawei_v4 182.160.52.0/22
 add huawei_v4 182.160.56.0/21
 add huawei_v4 183.87.32.0/19
@@ -212,7 +212,7 @@ add huawei_v6 2405:f080:a00::/39
 add huawei_v6 2405:f080:e02::/47
 add huawei_v6 2405:f080:e04::/46
 add huawei_v6 2405:f080:e0e::/47
-add huawei_v6 2405:f080:e10::/46
+add huawei_v6 2405:f080:e10::/47
 add huawei_v6 2405:f080:1000::/38
 add huawei_v6 2405:f080:1400::/46
 add huawei_v6 2405:f080:1500::/40

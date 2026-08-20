@@ -100,5 +100,7 @@ ip_address,ip_type,service,region
 68.79.2.244/30,IPv4,EBS,cn-northwest-1
 68.79.2.248/29,IPv4,EBS,cn-northwest-1
 98.95.231.76/30,IPv4,EBS,us-east-1
+100.29.192.216/30,IPv4,EBS,us-east-1
+100.29.192.220/30,IPv4,EBS,us-east-1
 140.179.58.88/29,IPv4,EBS,cn-north-1
 140.179.79.244/30,IPv4,EBS,cn-north-1

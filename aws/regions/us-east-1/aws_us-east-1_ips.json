@@ -6690,6 +6690,18 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "100.29.192.216/30",
+    "ip_type": "IPv4",
+    "service": "EBS",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "100.29.192.220/30",
+    "ip_type": "IPv4",
+    "service": "EBS",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "100.48.0.0/12",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -7027,6 +7039,18 @@
   },
   {
     "ip_address": "104.255.56.70/32",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "104.255.56.71/32",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "104.255.56.72/32",
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "us-east-1"

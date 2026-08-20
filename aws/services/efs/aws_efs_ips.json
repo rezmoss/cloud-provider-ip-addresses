@@ -120,6 +120,12 @@
     "region": "us-gov-east-1"
   },
   {
+    "ip_address": "16.66.4.0/22",
+    "ip_type": "IPv4",
+    "service": "EFS",
+    "region": "us-gov-east-1"
+  },
+  {
     "ip_address": "16.112.252.128/25",
     "ip_type": "IPv4",
     "service": "EFS",
@@ -241,6 +247,12 @@
   },
   {
     "ip_address": "40.38.87.128/25",
+    "ip_type": "IPv4",
+    "service": "EFS",
+    "region": "us-gov-west-1"
+  },
+  {
+    "ip_address": "40.39.44.0/22",
     "ip_type": "IPv4",
     "service": "EFS",
     "region": "us-gov-west-1"
@@ -726,6 +738,12 @@
     "region": "us-gov-west-1"
   },
   {
+    "ip_address": "2600:1f12:ece:5300::/56",
+    "ip_type": "IPv6",
+    "service": "EFS",
+    "region": "us-gov-west-1"
+  },
+  {
     "ip_address": "2600:1f14:52f:7200::/56",
     "ip_type": "IPv6",
     "service": "EFS",
@@ -769,6 +787,12 @@
   },
   {
     "ip_address": "2600:1f15:46b:6e00::/56",
+    "ip_type": "IPv6",
+    "service": "EFS",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "2600:1f15:563:5d00::/56",
     "ip_type": "IPv6",
     "service": "EFS",
     "region": "us-gov-east-1"

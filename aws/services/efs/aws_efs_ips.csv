@@ -19,6 +19,7 @@ ip_address,ip_type,service,region
 16.27.92.0/25,IPv4,EFS,ap-southeast-4
 16.27.108.0/22,IPv4,EFS,ap-southeast-4
 16.65.98.128/25,IPv4,EFS,us-gov-east-1
+16.66.4.0/22,IPv4,EFS,us-gov-east-1
 16.112.252.128/25,IPv4,EFS,ap-south-2
 16.113.80.0/22,IPv4,EFS,ap-south-2
 16.164.136.0/25,IPv4,EFS,il-central-1
@@ -40,6 +41,7 @@ ip_address,ip_type,service,region
 35.42.175.0/25,IPv4,EFS,eu-south-2
 35.42.228.0/22,IPv4,EFS,eu-south-2
 40.38.87.128/25,IPv4,EFS,us-gov-west-1
+40.39.44.0/22,IPv4,EFS,us-gov-west-1
 40.164.4.0/22,IPv4,EFS,us-west-1
 43.192.222.0/25,IPv4,EFS,cn-northwest-1
 43.196.168.0/25,IPv4,EFS,cn-north-1
@@ -120,6 +122,7 @@ ip_address,ip_type,service,region
 2600:1f10:4d24:2400::/56,IPv6,EFS,us-east-1
 2600:1f11:c0a:c700::/56,IPv6,EFS,ca-central-1
 2600:1f12:824:e00::/56,IPv6,EFS,us-gov-west-1
+2600:1f12:ece:5300::/56,IPv6,EFS,us-gov-west-1
 2600:1f14:52f:7200::/56,IPv6,EFS,us-west-2
 2600:1f14:bc1:200::/56,IPv6,EFS,us-west-2
 2600:1f14:f0c:fa00::/56,IPv6,EFS,us-west-2
@@ -128,6 +131,7 @@ ip_address,ip_type,service,region
 2600:1f14:331b:1900::/56,IPv6,EFS,us-west-2
 2600:1f14:3e95:cb00::/56,IPv6,EFS,us-west-2
 2600:1f15:46b:6e00::/56,IPv6,EFS,us-gov-east-1
+2600:1f15:563:5d00::/56,IPv6,EFS,us-gov-east-1
 2600:1f16:663:5300::/56,IPv6,EFS,us-east-2
 2600:1f16:acd:3a00::/56,IPv6,EFS,us-east-2
 2600:1f16:1119:8600::/56,IPv6,EFS,us-east-2

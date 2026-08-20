@@ -1758,19 +1758,19 @@
     "region": "gb"
   },
   {
-    "ip_address": "141.98.252.130/32",
+    "ip_address": "141.98.252.67/32",
+    "ip_type": "IPv4",
+    "service": "mullvad-wireguard",
+    "region": "gb"
+  },
+  {
+    "ip_address": "141.98.252.68/32",
     "ip_type": "IPv4",
     "service": "mullvad-wireguard",
     "region": "gb"
   },
   {
     "ip_address": "141.98.252.138/32",
-    "ip_type": "IPv4",
-    "service": "mullvad-wireguard",
-    "region": "gb"
-  },
-  {
-    "ip_address": "141.98.252.222/32",
     "ip_type": "IPv4",
     "service": "mullvad-wireguard",
     "region": "gb"

@@ -1,12 +1,15 @@
 #!/bin/bash
 # Claudebot IP Ranges
-# Updated: 2026-08-14 03:02:24
+# Updated: 2026-08-20 02:31:51
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
 # Updates daily at 02:00 UTC
 # UFW deny rules for claudebot
 
+ufw deny from 16.58.26.69/32
+ufw deny from 18.225.238.228/32
+ufw deny from 18.227.226.255/32
 ufw deny from 20.64.57.208/28
 ufw deny from 20.102.46.224/28
 ufw deny from 34.11.34.31/32

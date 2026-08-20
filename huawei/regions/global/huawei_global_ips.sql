@@ -244,7 +244,6 @@ INSERT INTO `huawei_global_ips` (`ip_address`, `ip_type`) VALUES ('103.40.102.0/
 INSERT INTO `huawei_global_ips` (`ip_address`, `ip_type`) VALUES ('103.215.0.0/24', 'IPv4');
 INSERT INTO `huawei_global_ips` (`ip_address`, `ip_type`) VALUES ('103.215.1.0/24', 'IPv4');
 INSERT INTO `huawei_global_ips` (`ip_address`, `ip_type`) VALUES ('103.215.3.0/24', 'IPv4');
-INSERT INTO `huawei_global_ips` (`ip_address`, `ip_type`) VALUES ('103.239.72.0/23', 'IPv4');
 INSERT INTO `huawei_global_ips` (`ip_address`, `ip_type`) VALUES ('103.240.156.0/22', 'IPv4');
 INSERT INTO `huawei_global_ips` (`ip_address`, `ip_type`) VALUES ('103.240.157.0/24', 'IPv4');
 INSERT INTO `huawei_global_ips` (`ip_address`, `ip_type`) VALUES ('103.255.60.0/22', 'IPv4');
@@ -514,6 +513,7 @@ INSERT INTO `huawei_global_ips` (`ip_address`, `ip_type`) VALUES ('182.160.46.0/
 INSERT INTO `huawei_global_ips` (`ip_address`, `ip_type`) VALUES ('182.160.47.0/24', 'IPv4');
 INSERT INTO `huawei_global_ips` (`ip_address`, `ip_type`) VALUES ('182.160.48.0/24', 'IPv4');
 INSERT INTO `huawei_global_ips` (`ip_address`, `ip_type`) VALUES ('182.160.49.0/24', 'IPv4');
+INSERT INTO `huawei_global_ips` (`ip_address`, `ip_type`) VALUES ('182.160.50.0/24', 'IPv4');
 INSERT INTO `huawei_global_ips` (`ip_address`, `ip_type`) VALUES ('182.160.52.0/22', 'IPv4');
 INSERT INTO `huawei_global_ips` (`ip_address`, `ip_type`) VALUES ('182.160.56.0/21', 'IPv4');
 INSERT INTO `huawei_global_ips` (`ip_address`, `ip_type`) VALUES ('182.160.56.0/24', 'IPv4');
@@ -607,7 +607,6 @@ INSERT INTO `huawei_global_ips` (`ip_address`, `ip_type`) VALUES ('2405:f080:e06
 INSERT INTO `huawei_global_ips` (`ip_address`, `ip_type`) VALUES ('2405:f080:e07::/48', 'IPv6');
 INSERT INTO `huawei_global_ips` (`ip_address`, `ip_type`) VALUES ('2405:f080:e0e::/47', 'IPv6');
 INSERT INTO `huawei_global_ips` (`ip_address`, `ip_type`) VALUES ('2405:f080:e10::/47', 'IPv6');
-INSERT INTO `huawei_global_ips` (`ip_address`, `ip_type`) VALUES ('2405:f080:e12::/47', 'IPv6');
 INSERT INTO `huawei_global_ips` (`ip_address`, `ip_type`) VALUES ('2405:f080:1000::/39', 'IPv6');
 INSERT INTO `huawei_global_ips` (`ip_address`, `ip_type`) VALUES ('2405:f080:1200::/39', 'IPv6');
 INSERT INTO `huawei_global_ips` (`ip_address`, `ip_type`) VALUES ('2405:f080:1400::/48', 'IPv6');

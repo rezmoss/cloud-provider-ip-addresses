@@ -1,6 +1,6 @@
 # claudebot IP ranges - ipset restore format (hash:net)
-# Version: 3 | Generated: 2026-08-19 | Last changed: 2026-08-14
-# IPv4: 23 merged subnets, 1091 unique IPs
+# Version: 4 | Generated: 2026-08-20 | Last changed: 2026-08-20
+# IPv4: 26 merged subnets, 1094 unique IPs
 # IPv6: 0 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
@@ -8,6 +8,9 @@
 #
 create claudebot_v4 hash:net family inet hashsize 4096 maxelem 1048576 -exist
 flush claudebot_v4
+add claudebot_v4 16.58.26.69/32
+add claudebot_v4 18.225.238.228/32
+add claudebot_v4 18.227.226.255/32
 add claudebot_v4 20.64.57.208/28
 add claudebot_v4 20.102.46.224/28
 add claudebot_v4 34.11.34.31/32

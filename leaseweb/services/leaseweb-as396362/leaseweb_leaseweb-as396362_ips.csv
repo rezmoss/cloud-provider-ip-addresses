@@ -70,4 +70,5 @@ ip_address,ip_type,service,region
 2607:f5b3::/32,IPv6,leaseweb-as396362,global
 2a0f:1e80:1::/48,IPv6,leaseweb-as396362,global
 2a0f:3d87::/32,IPv6,leaseweb-as396362,global
+2a0f:e6c5::/32,IPv6,leaseweb-as396362,global
 2a0f:ea82::/32,IPv6,leaseweb-as396362,global

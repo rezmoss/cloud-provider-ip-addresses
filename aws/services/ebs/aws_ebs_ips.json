@@ -606,6 +606,18 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "100.29.192.216/30",
+    "ip_type": "IPv4",
+    "service": "EBS",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "100.29.192.220/30",
+    "ip_type": "IPv4",
+    "service": "EBS",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "140.179.58.88/29",
     "ip_type": "IPv4",
     "service": "EBS",

@@ -1,6 +1,6 @@
 #!/bin/bash
 # Huawei IP Ranges
-# Updated: 2026-08-19 02:40:43
+# Updated: 2026-08-20 02:36:07
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -77,7 +77,6 @@ iptables -A INPUT -s 101.46.128.0/17 -j DROP
 iptables -A INPUT -s 103.40.100.0/22 -j DROP
 iptables -A INPUT -s 103.215.0.0/23 -j DROP
 iptables -A INPUT -s 103.215.3.0/24 -j DROP
-iptables -A INPUT -s 103.239.72.0/23 -j DROP
 iptables -A INPUT -s 103.240.156.0/22 -j DROP
 iptables -A INPUT -s 103.255.60.0/22 -j DROP
 iptables -A INPUT -s 110.41.208.0/23 -j DROP
@@ -167,6 +166,7 @@ iptables -A INPUT -s 182.160.36.0/22 -j DROP
 iptables -A INPUT -s 182.160.43.0/24 -j DROP
 iptables -A INPUT -s 182.160.44.0/22 -j DROP
 iptables -A INPUT -s 182.160.48.0/23 -j DROP
+iptables -A INPUT -s 182.160.50.0/24 -j DROP
 iptables -A INPUT -s 182.160.52.0/22 -j DROP
 iptables -A INPUT -s 182.160.56.0/21 -j DROP
 iptables -A INPUT -s 183.87.32.0/19 -j DROP
@@ -209,7 +209,7 @@ ip6tables -A INPUT -s 2405:f080:a00::/39 -j DROP
 ip6tables -A INPUT -s 2405:f080:e02::/47 -j DROP
 ip6tables -A INPUT -s 2405:f080:e04::/46 -j DROP
 ip6tables -A INPUT -s 2405:f080:e0e::/47 -j DROP
-ip6tables -A INPUT -s 2405:f080:e10::/46 -j DROP
+ip6tables -A INPUT -s 2405:f080:e10::/47 -j DROP
 ip6tables -A INPUT -s 2405:f080:1000::/38 -j DROP
 ip6tables -A INPUT -s 2405:f080:1400::/46 -j DROP
 ip6tables -A INPUT -s 2405:f080:1500::/40 -j DROP
