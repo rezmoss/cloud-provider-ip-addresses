@@ -1,6 +1,6 @@
 #!/bin/bash
 # Ovhcloud IP Ranges
-# Updated: 2026-08-20 02:34:49
+# Updated: 2026-08-21 02:40:00
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -140,7 +140,6 @@ iptables -A INPUT -s 66.92.168.0/24 -j DROP
 iptables -A INPUT -s 66.179.218.0/23 -j DROP
 iptables -A INPUT -s 68.65.214.0/24 -j DROP
 iptables -A INPUT -s 68.232.108.0/24 -j DROP
-iptables -A INPUT -s 69.17.37.0/24 -j DROP
 iptables -A INPUT -s 69.72.31.0/24 -j DROP
 iptables -A INPUT -s 72.11.139.0/24 -j DROP
 iptables -A INPUT -s 72.244.230.0/24 -j DROP
@@ -299,9 +298,11 @@ iptables -A INPUT -s 104.167.16.0/24 -j DROP
 iptables -A INPUT -s 104.222.182.0/24 -j DROP
 iptables -A INPUT -s 104.225.253.0/24 -j DROP
 iptables -A INPUT -s 104.234.50.0/24 -j DROP
-iptables -A INPUT -s 104.234.94.0/24 -j DROP
+iptables -A INPUT -s 104.234.60.0/24 -j DROP
+iptables -A INPUT -s 104.234.94.0/23 -j DROP
 iptables -A INPUT -s 104.234.135.0/24 -j DROP
 iptables -A INPUT -s 104.234.168.0/24 -j DROP
+iptables -A INPUT -s 104.234.198.0/24 -j DROP
 iptables -A INPUT -s 104.239.79.0/24 -j DROP
 iptables -A INPUT -s 107.189.64.0/18 -j DROP
 iptables -A INPUT -s 108.174.65.0/24 -j DROP
@@ -442,7 +443,6 @@ iptables -A INPUT -s 162.141.71.0/24 -j DROP
 iptables -A INPUT -s 162.212.35.0/24 -j DROP
 iptables -A INPUT -s 162.223.195.0/24 -j DROP
 iptables -A INPUT -s 163.5.62.0/24 -j DROP
-iptables -A INPUT -s 163.5.71.0/24 -j DROP
 iptables -A INPUT -s 163.5.132.0/24 -j DROP
 iptables -A INPUT -s 163.5.149.0/24 -j DROP
 iptables -A INPUT -s 163.5.187.0/24 -j DROP
@@ -608,7 +608,6 @@ iptables -A INPUT -s 212.69.8.0/24 -j DROP
 iptables -A INPUT -s 212.74.39.0/24 -j DROP
 iptables -A INPUT -s 212.100.171.0/24 -j DROP
 iptables -A INPUT -s 212.134.90.0/24 -j DROP
-iptables -A INPUT -s 212.135.160.0/24 -j DROP
 iptables -A INPUT -s 212.192.253.0/24 -j DROP
 iptables -A INPUT -s 213.32.0.0/17 -j DROP
 iptables -A INPUT -s 213.130.130.0/24 -j DROP

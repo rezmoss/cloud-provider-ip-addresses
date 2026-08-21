@@ -1,6 +1,6 @@
 #!/bin/bash
 # Salesforce IP Ranges
-# Updated: 2026-07-12 03:18:04
+# Updated: 2026-08-21 02:41:56
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -31,7 +31,6 @@ ufw deny from 151.106.128.0/19
 ufw deny from 151.106.216.0/21
 ufw deny from 159.92.0.0/16
 ufw deny from 160.8.0.0/16
-ufw deny from 161.32.64.0/18
 ufw deny from 161.32.128.0/17
 ufw deny from 161.71.0.0/16
 ufw deny from 163.76.128.0/17

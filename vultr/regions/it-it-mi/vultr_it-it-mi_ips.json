@@ -10,21 +10,6 @@
     "region": "IT-IT-MI"
   },
   {
-    "ip_address": "192.0.2.0/24",
-    "ip_type": "IPv4",
-    "region": "IT-IT-MI"
-  },
-  {
-    "ip_address": "198.51.100.0/24",
-    "ip_type": "IPv4",
-    "region": "IT-IT-MI"
-  },
-  {
-    "ip_address": "203.0.113.0/24",
-    "ip_type": "IPv4",
-    "region": "IT-IT-MI"
-  },
-  {
     "ip_address": "2a05:f480:3800::/38",
     "ip_type": "IPv6",
     "region": "IT-IT-MI"

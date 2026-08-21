@@ -1,13 +1,13 @@
 {
   "provider": "zoho",
-  "version": 23,
-  "generated_date": "2026-08-20",
-  "last_changed_date": "2026-08-20",
+  "version": 24,
+  "generated_date": "2026-08-21",
+  "last_changed_date": "2026-08-21",
   "sources": [
     "BGP announced prefixes via RIPE NCC RIPEstat"
   ],
   "ipv4": {
-    "cidrs": 169,
+    "cidrs": 167,
     "merged_cidrs": 60,
     "addresses": 78848
   },
@@ -16,8 +16,8 @@
     "merged_cidrs": 14,
     "addresses": 79268057066311620356309254144
   },
-  "total_entries": 191,
-  "content_sha256": "31df300670674ba04bdd30ec770a56d0f54c52690d37b57282b5fa82f29d820d",
+  "total_entries": 189,
+  "content_sha256": "9464f187710448ef6badac26a18515d163ab406fc4350745393c814bc731c1ee",
   "license": "CC0-1.0",
   "license_url": "https://github.com/rezmoss/cloud-provider-ip-addresses/blob/main/LICENSE"
 }

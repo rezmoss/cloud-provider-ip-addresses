@@ -3300,6 +3300,24 @@
     "region": "global"
   },
   {
+    "ip_address": "47.77.112.0/23",
+    "ip_type": "IPv4",
+    "service": "alibaba-as45102",
+    "region": "global"
+  },
+  {
+    "ip_address": "47.77.112.0/24",
+    "ip_type": "IPv4",
+    "service": "alibaba-as45102",
+    "region": "global"
+  },
+  {
+    "ip_address": "47.77.113.0/24",
+    "ip_type": "IPv4",
+    "service": "alibaba-as45102",
+    "region": "global"
+  },
+  {
     "ip_address": "47.77.128.0/17",
     "ip_type": "IPv4",
     "service": "alibaba-as45102",

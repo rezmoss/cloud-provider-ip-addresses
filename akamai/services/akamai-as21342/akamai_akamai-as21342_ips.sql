@@ -34,8 +34,6 @@ INSERT INTO `akamai_akamai-as21342_ips` (`ip_address`, `ip_type`) VALUES ('23.59
 INSERT INTO `akamai_akamai-as21342_ips` (`ip_address`, `ip_type`) VALUES ('23.61.199.0/24', 'IPv4');
 INSERT INTO `akamai_akamai-as21342_ips` (`ip_address`, `ip_type`) VALUES ('23.61.245.0/24', 'IPv4');
 INSERT INTO `akamai_akamai-as21342_ips` (`ip_address`, `ip_type`) VALUES ('23.63.29.0/24', 'IPv4');
-INSERT INTO `akamai_akamai-as21342_ips` (`ip_address`, `ip_type`) VALUES ('23.63.98.0/24', 'IPv4');
-INSERT INTO `akamai_akamai-as21342_ips` (`ip_address`, `ip_type`) VALUES ('23.63.99.0/24', 'IPv4');
 INSERT INTO `akamai_akamai-as21342_ips` (`ip_address`, `ip_type`) VALUES ('23.67.52.0/24', 'IPv4');
 INSERT INTO `akamai_akamai-as21342_ips` (`ip_address`, `ip_type`) VALUES ('23.74.25.0/24', 'IPv4');
 INSERT INTO `akamai_akamai-as21342_ips` (`ip_address`, `ip_type`) VALUES ('23.77.195.0/24', 'IPv4');
@@ -168,10 +166,8 @@ INSERT INTO `akamai_akamai-as21342_ips` (`ip_address`, `ip_type`) VALUES ('2600:
 INSERT INTO `akamai_akamai-as21342_ips` (`ip_address`, `ip_type`) VALUES ('2600:14c0:1::/48', 'IPv6');
 INSERT INTO `akamai_akamai-as21342_ips` (`ip_address`, `ip_type`) VALUES ('2600:14c0:2::/48', 'IPv6');
 INSERT INTO `akamai_akamai-as21342_ips` (`ip_address`, `ip_type`) VALUES ('2600:14c0:3::/48', 'IPv6');
-INSERT INTO `akamai_akamai-as21342_ips` (`ip_address`, `ip_type`) VALUES ('2600:14c0:4::/48', 'IPv6');
 INSERT INTO `akamai_akamai-as21342_ips` (`ip_address`, `ip_type`) VALUES ('2600:14c0:6::/48', 'IPv6');
 INSERT INTO `akamai_akamai-as21342_ips` (`ip_address`, `ip_type`) VALUES ('2600:14c0:7::/48', 'IPv6');
-INSERT INTO `akamai_akamai-as21342_ips` (`ip_address`, `ip_type`) VALUES ('2600:14c0:8::/48', 'IPv6');
 INSERT INTO `akamai_akamai-as21342_ips` (`ip_address`, `ip_type`) VALUES ('2600:14c0:a::/48', 'IPv6');
 INSERT INTO `akamai_akamai-as21342_ips` (`ip_address`, `ip_type`) VALUES ('2600:14c0:b::/48', 'IPv6');
 INSERT INTO `akamai_akamai-as21342_ips` (`ip_address`, `ip_type`) VALUES ('2600:14c0:e::/48', 'IPv6');

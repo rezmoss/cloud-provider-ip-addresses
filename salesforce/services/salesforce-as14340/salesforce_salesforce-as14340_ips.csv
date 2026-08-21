@@ -24,7 +24,6 @@ ip_address,ip_type,service,region
 151.106.220.0/22,IPv4,salesforce-as14340,global
 159.92.0.0/16,IPv4,salesforce-as14340,global
 160.8.0.0/16,IPv4,salesforce-as14340,global
-161.32.64.0/18,IPv4,salesforce-as14340,global
 161.32.128.0/17,IPv4,salesforce-as14340,global
 161.71.0.0/17,IPv4,salesforce-as14340,global
 161.71.128.0/17,IPv4,salesforce-as14340,global

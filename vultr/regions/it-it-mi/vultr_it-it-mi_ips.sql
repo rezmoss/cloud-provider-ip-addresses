@@ -8,7 +8,4 @@ CREATE TABLE IF NOT EXISTS `vultr_it-it-mi_ips` (
 
 INSERT INTO `vultr_it-it-mi_ips` (`ip_address`, `ip_type`) VALUES ('66.245.200.0/21', 'IPv4');
 INSERT INTO `vultr_it-it-mi_ips` (`ip_address`, `ip_type`) VALUES ('66.245.212.0/22', 'IPv4');
-INSERT INTO `vultr_it-it-mi_ips` (`ip_address`, `ip_type`) VALUES ('192.0.2.0/24', 'IPv4');
-INSERT INTO `vultr_it-it-mi_ips` (`ip_address`, `ip_type`) VALUES ('198.51.100.0/24', 'IPv4');
-INSERT INTO `vultr_it-it-mi_ips` (`ip_address`, `ip_type`) VALUES ('203.0.113.0/24', 'IPv4');
 INSERT INTO `vultr_it-it-mi_ips` (`ip_address`, `ip_type`) VALUES ('2a05:f480:3800::/38', 'IPv6');

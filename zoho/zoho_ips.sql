@@ -98,7 +98,6 @@ INSERT INTO `zoho_ips` (`ip_address`, `ip_type`) VALUES ('165.173.189.0/24', 'IP
 INSERT INTO `zoho_ips` (`ip_address`, `ip_type`) VALUES ('165.173.190.0/24', 'IPv4');
 INSERT INTO `zoho_ips` (`ip_address`, `ip_type`) VALUES ('165.173.191.0/24', 'IPv4');
 INSERT INTO `zoho_ips` (`ip_address`, `ip_type`) VALUES ('167.254.236.0/23', 'IPv4');
-INSERT INTO `zoho_ips` (`ip_address`, `ip_type`) VALUES ('167.254.236.0/24', 'IPv4');
 INSERT INTO `zoho_ips` (`ip_address`, `ip_type`) VALUES ('167.254.238.0/23', 'IPv4');
 INSERT INTO `zoho_ips` (`ip_address`, `ip_type`) VALUES ('169.148.128.0/24', 'IPv4');
 INSERT INTO `zoho_ips` (`ip_address`, `ip_type`) VALUES ('169.148.129.0/24', 'IPv4');
@@ -171,7 +170,6 @@ INSERT INTO `zoho_ips` (`ip_address`, `ip_type`) VALUES ('199.67.93.0/24', 'IPv4
 INSERT INTO `zoho_ips` (`ip_address`, `ip_type`) VALUES ('199.67.94.0/23', 'IPv4');
 INSERT INTO `zoho_ips` (`ip_address`, `ip_type`) VALUES ('199.67.94.0/24', 'IPv4');
 INSERT INTO `zoho_ips` (`ip_address`, `ip_type`) VALUES ('204.141.32.0/23', 'IPv4');
-INSERT INTO `zoho_ips` (`ip_address`, `ip_type`) VALUES ('204.141.32.0/24', 'IPv4');
 INSERT INTO `zoho_ips` (`ip_address`, `ip_type`) VALUES ('204.141.42.0/23', 'IPv4');
 INSERT INTO `zoho_ips` (`ip_address`, `ip_type`) VALUES ('204.141.160.0/24', 'IPv4');
 INSERT INTO `zoho_ips` (`ip_address`, `ip_type`) VALUES ('213.161.74.0/23', 'IPv4');

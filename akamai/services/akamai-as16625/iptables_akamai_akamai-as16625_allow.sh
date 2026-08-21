@@ -1,6 +1,6 @@
 #!/bin/bash
 # Akamai IP Ranges
-# Updated: 2026-08-20 02:35:13
+# Updated: 2026-08-21 02:40:44
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -49,6 +49,7 @@ iptables -A INPUT -s 2.18.224.0/22 -j ACCEPT
 iptables -A INPUT -s 2.18.236.0/22 -j ACCEPT
 iptables -A INPUT -s 2.19.0.0/22 -j ACCEPT
 iptables -A INPUT -s 2.19.12.0/22 -j ACCEPT
+iptables -A INPUT -s 2.19.16.0/20 -j ACCEPT
 iptables -A INPUT -s 2.19.36.0/22 -j ACCEPT
 iptables -A INPUT -s 2.19.44.0/22 -j ACCEPT
 iptables -A INPUT -s 2.19.60.0/22 -j ACCEPT
@@ -112,6 +113,7 @@ iptables -A INPUT -s 2.23.232.0/22 -j ACCEPT
 iptables -A INPUT -s 2.23.244.0/22 -j ACCEPT
 iptables -A INPUT -s 2.23.252.0/22 -j ACCEPT
 iptables -A INPUT -s 23.0.16.0/20 -j ACCEPT
+iptables -A INPUT -s 23.0.64.0/20 -j ACCEPT
 iptables -A INPUT -s 23.0.88.0/21 -j ACCEPT
 iptables -A INPUT -s 23.0.128.0/20 -j ACCEPT
 iptables -A INPUT -s 23.0.168.0/22 -j ACCEPT
@@ -446,7 +448,7 @@ iptables -A INPUT -s 23.47.128.0/20 -j ACCEPT
 iptables -A INPUT -s 23.47.146.0/23 -j ACCEPT
 iptables -A INPUT -s 23.47.156.0/23 -j ACCEPT
 iptables -A INPUT -s 23.47.164.0/22 -j ACCEPT
-iptables -A INPUT -s 23.47.168.0/21 -j ACCEPT
+iptables -A INPUT -s 23.47.168.0/22 -j ACCEPT
 iptables -A INPUT -s 23.47.180.0/22 -j ACCEPT
 iptables -A INPUT -s 23.47.200.0/22 -j ACCEPT
 iptables -A INPUT -s 23.47.208.0/21 -j ACCEPT
@@ -462,7 +464,6 @@ iptables -A INPUT -s 23.48.64.0/20 -j ACCEPT
 iptables -A INPUT -s 23.48.80.0/22 -j ACCEPT
 iptables -A INPUT -s 23.48.84.0/23 -j ACCEPT
 iptables -A INPUT -s 23.48.88.0/22 -j ACCEPT
-iptables -A INPUT -s 23.48.120.0/22 -j ACCEPT
 iptables -A INPUT -s 23.48.128.0/20 -j ACCEPT
 iptables -A INPUT -s 23.48.176.0/20 -j ACCEPT
 iptables -A INPUT -s 23.48.192.0/22 -j ACCEPT
@@ -496,7 +497,6 @@ iptables -A INPUT -s 23.50.208.0/22 -j ACCEPT
 iptables -A INPUT -s 23.50.226.0/23 -j ACCEPT
 iptables -A INPUT -s 23.51.8.0/22 -j ACCEPT
 iptables -A INPUT -s 23.51.32.0/20 -j ACCEPT
-iptables -A INPUT -s 23.51.48.0/22 -j ACCEPT
 iptables -A INPUT -s 23.51.56.0/21 -j ACCEPT
 iptables -A INPUT -s 23.51.64.0/18 -j ACCEPT
 iptables -A INPUT -s 23.51.128.0/18 -j ACCEPT
@@ -519,7 +519,6 @@ iptables -A INPUT -s 23.52.144.0/20 -j ACCEPT
 iptables -A INPUT -s 23.52.176.0/21 -j ACCEPT
 iptables -A INPUT -s 23.52.188.0/22 -j ACCEPT
 iptables -A INPUT -s 23.52.192.0/21 -j ACCEPT
-iptables -A INPUT -s 23.52.204.0/22 -j ACCEPT
 iptables -A INPUT -s 23.52.208.0/20 -j ACCEPT
 iptables -A INPUT -s 23.52.224.0/19 -j ACCEPT
 iptables -A INPUT -s 23.53.52.0/22 -j ACCEPT
@@ -549,7 +548,7 @@ iptables -A INPUT -s 23.55.116.0/22 -j ACCEPT
 iptables -A INPUT -s 23.55.130.0/23 -j ACCEPT
 iptables -A INPUT -s 23.55.136.0/22 -j ACCEPT
 iptables -A INPUT -s 23.55.144.0/20 -j ACCEPT
-iptables -A INPUT -s 23.55.192.0/21 -j ACCEPT
+iptables -A INPUT -s 23.55.196.0/22 -j ACCEPT
 iptables -A INPUT -s 23.55.204.0/22 -j ACCEPT
 iptables -A INPUT -s 23.55.208.0/22 -j ACCEPT
 iptables -A INPUT -s 23.55.212.0/23 -j ACCEPT
@@ -570,7 +569,6 @@ iptables -A INPUT -s 23.56.212.0/22 -j ACCEPT
 iptables -A INPUT -s 23.56.216.0/22 -j ACCEPT
 iptables -A INPUT -s 23.56.224.0/23 -j ACCEPT
 iptables -A INPUT -s 23.56.228.0/22 -j ACCEPT
-iptables -A INPUT -s 23.56.248.0/22 -j ACCEPT
 iptables -A INPUT -s 23.57.0.0/22 -j ACCEPT
 iptables -A INPUT -s 23.57.16.0/20 -j ACCEPT
 iptables -A INPUT -s 23.57.32.0/19 -j ACCEPT
@@ -799,8 +797,7 @@ iptables -A INPUT -s 23.197.128.0/19 -j ACCEPT
 iptables -A INPUT -s 23.197.160.0/20 -j ACCEPT
 iptables -A INPUT -s 23.197.192.0/21 -j ACCEPT
 iptables -A INPUT -s 23.197.220.0/22 -j ACCEPT
-iptables -A INPUT -s 23.197.224.0/21 -j ACCEPT
-iptables -A INPUT -s 23.197.232.0/22 -j ACCEPT
+iptables -A INPUT -s 23.197.224.0/22 -j ACCEPT
 iptables -A INPUT -s 23.197.244.0/22 -j ACCEPT
 iptables -A INPUT -s 23.197.252.0/22 -j ACCEPT
 iptables -A INPUT -s 23.198.0.0/22 -j ACCEPT
@@ -829,7 +826,6 @@ iptables -A INPUT -s 23.199.92.0/22 -j ACCEPT
 iptables -A INPUT -s 23.199.128.0/18 -j ACCEPT
 iptables -A INPUT -s 23.199.192.0/19 -j ACCEPT
 iptables -A INPUT -s 23.199.224.0/22 -j ACCEPT
-iptables -A INPUT -s 23.199.248.0/22 -j ACCEPT
 iptables -A INPUT -s 23.200.48.0/22 -j ACCEPT
 iptables -A INPUT -s 23.200.52.0/23 -j ACCEPT
 iptables -A INPUT -s 23.200.96.0/20 -j ACCEPT
@@ -914,7 +910,7 @@ iptables -A INPUT -s 23.206.244.0/22 -j ACCEPT
 iptables -A INPUT -s 23.206.252.0/22 -j ACCEPT
 iptables -A INPUT -s 23.207.0.0/19 -j ACCEPT
 iptables -A INPUT -s 23.207.44.0/22 -j ACCEPT
-iptables -A INPUT -s 23.207.64.0/21 -j ACCEPT
+iptables -A INPUT -s 23.207.64.0/22 -j ACCEPT
 iptables -A INPUT -s 23.207.96.0/19 -j ACCEPT
 iptables -A INPUT -s 23.207.128.0/19 -j ACCEPT
 iptables -A INPUT -s 23.207.176.0/22 -j ACCEPT
@@ -960,7 +956,6 @@ iptables -A INPUT -s 23.210.252.0/22 -j ACCEPT
 iptables -A INPUT -s 23.211.16.0/20 -j ACCEPT
 iptables -A INPUT -s 23.211.32.0/20 -j ACCEPT
 iptables -A INPUT -s 23.211.48.0/21 -j ACCEPT
-iptables -A INPUT -s 23.211.56.0/22 -j ACCEPT
 iptables -A INPUT -s 23.211.64.0/19 -j ACCEPT
 iptables -A INPUT -s 23.211.96.0/22 -j ACCEPT
 iptables -A INPUT -s 23.211.128.0/22 -j ACCEPT
@@ -1226,7 +1221,6 @@ iptables -A INPUT -s 95.101.148.0/22 -j ACCEPT
 iptables -A INPUT -s 95.101.152.0/22 -j ACCEPT
 iptables -A INPUT -s 95.101.160.0/21 -j ACCEPT
 iptables -A INPUT -s 95.101.176.0/22 -j ACCEPT
-iptables -A INPUT -s 95.101.184.0/22 -j ACCEPT
 iptables -A INPUT -s 95.101.192.0/22 -j ACCEPT
 iptables -A INPUT -s 95.101.200.0/22 -j ACCEPT
 iptables -A INPUT -s 95.101.240.0/20 -j ACCEPT
@@ -1540,10 +1534,8 @@ iptables -A INPUT -s 184.25.120.0/23 -j ACCEPT
 iptables -A INPUT -s 184.25.124.0/23 -j ACCEPT
 iptables -A INPUT -s 184.25.128.0/20 -j ACCEPT
 iptables -A INPUT -s 184.25.158.0/23 -j ACCEPT
-iptables -A INPUT -s 184.25.168.0/23 -j ACCEPT
 iptables -A INPUT -s 184.25.188.0/22 -j ACCEPT
 iptables -A INPUT -s 184.25.192.0/21 -j ACCEPT
-iptables -A INPUT -s 184.25.206.0/23 -j ACCEPT
 iptables -A INPUT -s 184.25.208.0/21 -j ACCEPT
 iptables -A INPUT -s 184.25.216.0/22 -j ACCEPT
 iptables -A INPUT -s 184.25.228.0/22 -j ACCEPT
@@ -1644,7 +1636,7 @@ iptables -A INPUT -s 184.30.128.0/20 -j ACCEPT
 iptables -A INPUT -s 184.30.152.0/21 -j ACCEPT
 iptables -A INPUT -s 184.30.160.0/19 -j ACCEPT
 iptables -A INPUT -s 184.30.192.0/19 -j ACCEPT
-iptables -A INPUT -s 184.30.232.0/21 -j ACCEPT
+iptables -A INPUT -s 184.30.236.0/22 -j ACCEPT
 iptables -A INPUT -s 184.30.240.0/21 -j ACCEPT
 iptables -A INPUT -s 184.30.252.0/22 -j ACCEPT
 iptables -A INPUT -s 184.31.16.0/20 -j ACCEPT
