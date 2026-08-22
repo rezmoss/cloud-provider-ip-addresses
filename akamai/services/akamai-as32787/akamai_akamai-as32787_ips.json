@@ -108,6 +108,12 @@
     "region": "global"
   },
   {
+    "ip_address": "2.21.122.0/24",
+    "ip_type": "IPv4",
+    "service": "akamai-as32787",
+    "region": "global"
+  },
+  {
     "ip_address": "2.21.123.0/24",
     "ip_type": "IPv4",
     "service": "akamai-as32787",

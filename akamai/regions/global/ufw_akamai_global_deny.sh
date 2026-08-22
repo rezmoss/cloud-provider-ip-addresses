@@ -1,6 +1,6 @@
 #!/bin/bash
 # Akamai IP Ranges
-# Updated: 2026-08-19 02:39:43
+# Updated: 2026-08-22 02:33:54
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -235,7 +235,11 @@ ufw deny from 185.3.92.0/22
 ufw deny from 185.123.168.0/22
 ufw deny from 185.145.100.0/24
 ufw deny from 185.225.250.0/24
+ufw deny from 189.247.167.0/24
 ufw deny from 189.247.204.0/22
+ufw deny from 189.247.210.0/24
+ufw deny from 189.247.212.0/24
+ufw deny from 189.247.214.0/24
 ufw deny from 189.247.216.0/24
 ufw deny from 189.247.220.0/24
 ufw deny from 190.94.188.0/24
@@ -365,6 +369,7 @@ ufw deny from 2001:4450:40::/48
 ufw deny from 2001:4457:ff0::/48
 ufw deny from 2001:4546:1003::/48
 ufw deny from 2001:4878:7::/48
+ufw deny from 2001:4878:8::/48
 ufw deny from 2001:4878:31::/48
 ufw deny from 2001:4878:37::/48
 ufw deny from 2001:4878:39::/48
@@ -386,6 +391,7 @@ ufw deny from 2001:4878:321::/48
 ufw deny from 2001:4878:322::/47
 ufw deny from 2001:4878:347::/48
 ufw deny from 2001:4878:2007::/48
+ufw deny from 2001:4878:2008::/48
 ufw deny from 2001:4878:2031::/48
 ufw deny from 2001:4878:2037::/48
 ufw deny from 2001:4878:2048::/48
@@ -424,6 +430,7 @@ ufw deny from 2001:4878:4321::/48
 ufw deny from 2001:4878:4322::/47
 ufw deny from 2001:4878:4347::/48
 ufw deny from 2001:4878:8007::/48
+ufw deny from 2001:4878:8008::/48
 ufw deny from 2001:4878:8031::/48
 ufw deny from 2001:4878:8037::/48
 ufw deny from 2001:4878:8048::/48
@@ -445,6 +452,7 @@ ufw deny from 2001:4878:8321::/48
 ufw deny from 2001:4878:8322::/47
 ufw deny from 2001:4878:8347::/48
 ufw deny from 2001:4878:a007::/48
+ufw deny from 2001:4878:a008::/48
 ufw deny from 2001:4878:a031::/48
 ufw deny from 2001:4878:a037::/48
 ufw deny from 2001:4878:a048::/48
@@ -461,6 +469,7 @@ ufw deny from 2001:4878:a321::/48
 ufw deny from 2001:4878:a322::/47
 ufw deny from 2001:4878:a347::/48
 ufw deny from 2001:4878:b007::/48
+ufw deny from 2001:4878:b008::/48
 ufw deny from 2001:4878:b031::/48
 ufw deny from 2001:4878:b037::/48
 ufw deny from 2001:4878:b048::/48

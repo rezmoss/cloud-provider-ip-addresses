@@ -594,6 +594,7 @@ INSERT INTO `ovhcloud_global_ips` (`ip_address`, `ip_type`) VALUES ('185.135.188
 INSERT INTO `ovhcloud_global_ips` (`ip_address`, `ip_type`) VALUES ('185.137.181.0/24', 'IPv4');
 INSERT INTO `ovhcloud_global_ips` (`ip_address`, `ip_type`) VALUES ('185.146.195.0/24', 'IPv4');
 INSERT INTO `ovhcloud_global_ips` (`ip_address`, `ip_type`) VALUES ('185.155.218.0/24', 'IPv4');
+INSERT INTO `ovhcloud_global_ips` (`ip_address`, `ip_type`) VALUES ('185.162.233.0/24', 'IPv4');
 INSERT INTO `ovhcloud_global_ips` (`ip_address`, `ip_type`) VALUES ('185.170.155.0/24', 'IPv4');
 INSERT INTO `ovhcloud_global_ips` (`ip_address`, `ip_type`) VALUES ('185.196.221.0/24', 'IPv4');
 INSERT INTO `ovhcloud_global_ips` (`ip_address`, `ip_type`) VALUES ('185.207.132.0/24', 'IPv4');

@@ -850,7 +850,6 @@ ip_address,ip_type,service,region
 23.79.36.0/22,IPv4,akamai-as16625,global
 23.79.48.0/20,IPv4,akamai-as16625,global
 23.79.176.0/20,IPv4,akamai-as16625,global
-23.192.16.0/22,IPv4,akamai-as16625,global
 23.192.20.0/22,IPv4,akamai-as16625,global
 23.192.24.0/22,IPv4,akamai-as16625,global
 23.192.38.0/23,IPv4,akamai-as16625,global

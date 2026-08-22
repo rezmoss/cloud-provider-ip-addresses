@@ -1,6 +1,6 @@
 #!/bin/bash
 # Akamai IP Ranges
-# Updated: 2026-08-16 02:40:28
+# Updated: 2026-08-22 02:33:53
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -28,7 +28,7 @@ iptables -A INPUT -s 72.246.199.0/24 -j DROP
 iptables -A INPUT -s 72.247.44.0/23 -j DROP
 iptables -A INPUT -s 72.247.47.0/24 -j DROP
 iptables -A INPUT -s 72.247.150.0/24 -j DROP
-iptables -A INPUT -s 80.67.65.0/24 -j DROP
+iptables -A INPUT -s 80.67.64.0/23 -j DROP
 iptables -A INPUT -s 80.67.70.0/24 -j DROP
 iptables -A INPUT -s 80.67.73.0/24 -j DROP
 iptables -A INPUT -s 88.221.208.0/23 -j DROP
@@ -36,6 +36,7 @@ iptables -A INPUT -s 104.101.221.0/24 -j DROP
 iptables -A INPUT -s 184.51.33.0/24 -j DROP
 iptables -A INPUT -s 184.51.125.0/24 -j DROP
 ip6tables -A INPUT -s 2001:4878:7::/48 -j DROP
+ip6tables -A INPUT -s 2001:4878:8::/48 -j DROP
 ip6tables -A INPUT -s 2001:4878:31::/48 -j DROP
 ip6tables -A INPUT -s 2001:4878:37::/48 -j DROP
 ip6tables -A INPUT -s 2001:4878:39::/48 -j DROP
@@ -56,6 +57,7 @@ ip6tables -A INPUT -s 2001:4878:321::/48 -j DROP
 ip6tables -A INPUT -s 2001:4878:322::/47 -j DROP
 ip6tables -A INPUT -s 2001:4878:347::/48 -j DROP
 ip6tables -A INPUT -s 2001:4878:2007::/48 -j DROP
+ip6tables -A INPUT -s 2001:4878:2008::/48 -j DROP
 ip6tables -A INPUT -s 2001:4878:2031::/48 -j DROP
 ip6tables -A INPUT -s 2001:4878:2037::/48 -j DROP
 ip6tables -A INPUT -s 2001:4878:2048::/48 -j DROP
@@ -88,6 +90,7 @@ ip6tables -A INPUT -s 2001:4878:4321::/48 -j DROP
 ip6tables -A INPUT -s 2001:4878:4322::/47 -j DROP
 ip6tables -A INPUT -s 2001:4878:4347::/48 -j DROP
 ip6tables -A INPUT -s 2001:4878:8007::/48 -j DROP
+ip6tables -A INPUT -s 2001:4878:8008::/48 -j DROP
 ip6tables -A INPUT -s 2001:4878:8031::/48 -j DROP
 ip6tables -A INPUT -s 2001:4878:8037::/48 -j DROP
 ip6tables -A INPUT -s 2001:4878:8048::/48 -j DROP
@@ -108,6 +111,7 @@ ip6tables -A INPUT -s 2001:4878:8321::/48 -j DROP
 ip6tables -A INPUT -s 2001:4878:8322::/47 -j DROP
 ip6tables -A INPUT -s 2001:4878:8347::/48 -j DROP
 ip6tables -A INPUT -s 2001:4878:a007::/48 -j DROP
+ip6tables -A INPUT -s 2001:4878:a008::/48 -j DROP
 ip6tables -A INPUT -s 2001:4878:a031::/48 -j DROP
 ip6tables -A INPUT -s 2001:4878:a037::/48 -j DROP
 ip6tables -A INPUT -s 2001:4878:a048::/48 -j DROP
@@ -124,6 +128,7 @@ ip6tables -A INPUT -s 2001:4878:a321::/48 -j DROP
 ip6tables -A INPUT -s 2001:4878:a322::/47 -j DROP
 ip6tables -A INPUT -s 2001:4878:a347::/48 -j DROP
 ip6tables -A INPUT -s 2001:4878:b007::/48 -j DROP
+ip6tables -A INPUT -s 2001:4878:b008::/48 -j DROP
 ip6tables -A INPUT -s 2001:4878:b031::/48 -j DROP
 ip6tables -A INPUT -s 2001:4878:b037::/48 -j DROP
 ip6tables -A INPUT -s 2001:4878:b048::/48 -j DROP

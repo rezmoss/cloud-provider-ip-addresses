@@ -8,6 +8,8 @@ CREATE TABLE IF NOT EXISTS `leaseweb_leaseweb-as136988_ips` (
 
 INSERT INTO `leaseweb_leaseweb-as136988_ips` (`ip_address`, `ip_type`) VALUES ('23.106.240.0/21', 'IPv4');
 INSERT INTO `leaseweb_leaseweb-as136988_ips` (`ip_address`, `ip_type`) VALUES ('23.106.242.0/24', 'IPv4');
+INSERT INTO `leaseweb_leaseweb-as136988_ips` (`ip_address`, `ip_type`) VALUES ('23.106.245.0/24', 'IPv4');
+INSERT INTO `leaseweb_leaseweb-as136988_ips` (`ip_address`, `ip_type`) VALUES ('23.106.246.0/24', 'IPv4');
 INSERT INTO `leaseweb_leaseweb-as136988_ips` (`ip_address`, `ip_type`) VALUES ('31.186.38.0/23', 'IPv4');
 INSERT INTO `leaseweb_leaseweb-as136988_ips` (`ip_address`, `ip_type`) VALUES ('31.186.38.0/24', 'IPv4');
 INSERT INTO `leaseweb_leaseweb-as136988_ips` (`ip_address`, `ip_type`) VALUES ('31.186.39.0/24', 'IPv4');
@@ -20,6 +22,7 @@ INSERT INTO `leaseweb_leaseweb-as136988_ips` (`ip_address`, `ip_type`) VALUES ('
 INSERT INTO `leaseweb_leaseweb-as136988_ips` (`ip_address`, `ip_type`) VALUES ('154.30.8.0/24', 'IPv4');
 INSERT INTO `leaseweb_leaseweb-as136988_ips` (`ip_address`, `ip_type`) VALUES ('173.234.104.0/21', 'IPv4');
 INSERT INTO `leaseweb_leaseweb-as136988_ips` (`ip_address`, `ip_type`) VALUES ('173.234.106.0/23', 'IPv4');
+INSERT INTO `leaseweb_leaseweb-as136988_ips` (`ip_address`, `ip_type`) VALUES ('173.234.106.0/24', 'IPv4');
 INSERT INTO `leaseweb_leaseweb-as136988_ips` (`ip_address`, `ip_type`) VALUES ('173.234.108.0/23', 'IPv4');
 INSERT INTO `leaseweb_leaseweb-as136988_ips` (`ip_address`, `ip_type`) VALUES ('173.234.111.0/24', 'IPv4');
 INSERT INTO `leaseweb_leaseweb-as136988_ips` (`ip_address`, `ip_type`) VALUES ('204.217.133.0/24', 'IPv4');

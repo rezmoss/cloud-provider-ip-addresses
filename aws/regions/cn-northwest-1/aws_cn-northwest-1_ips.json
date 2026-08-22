@@ -60,6 +60,12 @@
     "region": "cn-northwest-1"
   },
   {
+    "ip_address": "43.192.232.0/22",
+    "ip_type": "IPv4",
+    "service": "EFS",
+    "region": "cn-northwest-1"
+  },
+  {
     "ip_address": "43.193.0.0/18",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -1041,6 +1047,12 @@
     "ip_address": "2404:c2c0:87aa:4800::/56",
     "ip_type": "IPv6",
     "service": "EC2_INSTANCE_CONNECT",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "2404:c2c0:8834:a400::/56",
+    "ip_type": "IPv6",
+    "service": "EFS",
     "region": "cn-northwest-1"
   },
   {

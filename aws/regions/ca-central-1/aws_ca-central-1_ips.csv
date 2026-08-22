@@ -102,6 +102,8 @@ ip_address,ip_type,service,region
 18.99.0.0/19,IPv4,AMAZON,ca-central-1
 18.99.0.0/19,IPv4,EC2,ca-central-1
 18.99.4.128/25,IPv4,AURORA_DSQL,ca-central-1
+23.254.40.0/23,IPv4,AMAZON,ca-central-1
+23.254.40.0/23,IPv4,EC2,ca-central-1
 35.54.53.0/24,IPv4,AMAZON,ca-central-1
 35.54.53.0/24,IPv4,EC2,ca-central-1
 35.71.119.0/24,IPv4,AMAZON,ca-central-1
@@ -167,6 +169,8 @@ ip_address,ip_type,service,region
 63.249.202.0/24,IPv4,EC2,ca-central-1
 63.249.203.0/24,IPv4,AMAZON,ca-central-1
 63.249.203.0/24,IPv4,EC2,ca-central-1
+64.23.0.0/18,IPv4,AMAZON,ca-central-1
+64.23.0.0/18,IPv4,EC2,ca-central-1
 64.66.149.0/24,IPv4,AMAZON,ca-central-1
 64.66.149.0/24,IPv4,EC2,ca-central-1
 64.252.124.0/24,IPv4,AMAZON,ca-central-1

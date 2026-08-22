@@ -774,6 +774,24 @@
     "region": "global"
   },
   {
+    "ip_address": "8.150.24.0/21",
+    "ip_type": "IPv4",
+    "service": "alibaba-as37963",
+    "region": "global"
+  },
+  {
+    "ip_address": "8.150.24.0/22",
+    "ip_type": "IPv4",
+    "service": "alibaba-as37963",
+    "region": "global"
+  },
+  {
+    "ip_address": "8.150.28.0/22",
+    "ip_type": "IPv4",
+    "service": "alibaba-as37963",
+    "region": "global"
+  },
+  {
     "ip_address": "8.150.32.0/21",
     "ip_type": "IPv4",
     "service": "alibaba-as37963",

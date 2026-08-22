@@ -372,6 +372,12 @@
     "region": "us-gov-west-1"
   },
   {
+    "ip_address": "40.39.100.0/22",
+    "ip_type": "IPv4",
+    "service": "EFS",
+    "region": "us-gov-west-1"
+  },
+  {
     "ip_address": "52.46.176.0/22",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -823,6 +829,12 @@
   },
   {
     "ip_address": "2600:1f12:824:e00::/56",
+    "ip_type": "IPv6",
+    "service": "EFS",
+    "region": "us-gov-west-1"
+  },
+  {
+    "ip_address": "2600:1f12:d63:d100::/56",
     "ip_type": "IPv6",
     "service": "EFS",
     "region": "us-gov-west-1"

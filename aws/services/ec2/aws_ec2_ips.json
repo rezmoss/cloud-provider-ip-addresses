@@ -4128,6 +4128,12 @@
     "region": "us-south-1"
   },
   {
+    "ip_address": "23.254.40.0/23",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "ca-central-1"
+  },
+  {
     "ip_address": "23.254.120.0/21",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -7978,6 +7984,12 @@
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "eu-central-1"
+  },
+  {
+    "ip_address": "64.23.0.0/18",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "ca-central-1"
   },
   {
     "ip_address": "64.66.128.0/24",

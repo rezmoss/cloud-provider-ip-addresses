@@ -312,12 +312,6 @@
     "region": "global"
   },
   {
-    "ip_address": "95.101.76.0/24",
-    "ip_type": "IPv4",
-    "service": "akamai-as21342",
-    "region": "global"
-  },
-  {
     "ip_address": "96.7.49.0/24",
     "ip_type": "IPv4",
     "service": "akamai-as21342",

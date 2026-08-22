@@ -51,6 +51,7 @@ INSERT INTO `meta_meta-as32934_ips` (`ip_address`, `ip_type`) VALUES ('57.144.4.
 INSERT INTO `meta_meta-as32934_ips` (`ip_address`, `ip_type`) VALUES ('57.144.8.0/23', 'IPv4');
 INSERT INTO `meta_meta-as32934_ips` (`ip_address`, `ip_type`) VALUES ('57.144.14.0/23', 'IPv4');
 INSERT INTO `meta_meta-as32934_ips` (`ip_address`, `ip_type`) VALUES ('57.144.16.0/23', 'IPv4');
+INSERT INTO `meta_meta-as32934_ips` (`ip_address`, `ip_type`) VALUES ('57.144.18.0/23', 'IPv4');
 INSERT INTO `meta_meta-as32934_ips` (`ip_address`, `ip_type`) VALUES ('57.144.20.0/23', 'IPv4');
 INSERT INTO `meta_meta-as32934_ips` (`ip_address`, `ip_type`) VALUES ('57.144.22.0/23', 'IPv4');
 INSERT INTO `meta_meta-as32934_ips` (`ip_address`, `ip_type`) VALUES ('57.144.36.0/23', 'IPv4');
@@ -453,6 +454,7 @@ INSERT INTO `meta_meta-as32934_ips` (`ip_address`, `ip_type`) VALUES ('2a03:2880
 INSERT INTO `meta_meta-as32934_ips` (`ip_address`, `ip_type`) VALUES ('2a03:2880:f302::/48', 'IPv6');
 INSERT INTO `meta_meta-as32934_ips` (`ip_address`, `ip_type`) VALUES ('2a03:2880:f304::/48', 'IPv6');
 INSERT INTO `meta_meta-as32934_ips` (`ip_address`, `ip_type`) VALUES ('2a03:2880:f307::/48', 'IPv6');
+INSERT INTO `meta_meta-as32934_ips` (`ip_address`, `ip_type`) VALUES ('2a03:2880:f308::/48', 'IPv6');
 INSERT INTO `meta_meta-as32934_ips` (`ip_address`, `ip_type`) VALUES ('2a03:2880:f309::/48', 'IPv6');
 INSERT INTO `meta_meta-as32934_ips` (`ip_address`, `ip_type`) VALUES ('2a03:2880:f30f::/48', 'IPv6');
 INSERT INTO `meta_meta-as32934_ips` (`ip_address`, `ip_type`) VALUES ('2a03:2880:f310::/48', 'IPv6');

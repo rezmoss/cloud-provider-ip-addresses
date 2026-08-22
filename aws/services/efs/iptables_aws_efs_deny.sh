@@ -1,6 +1,6 @@
 #!/bin/bash
 # Aws IP Ranges
-# Updated: 2026-08-21 02:34:27
+# Updated: 2026-08-22 02:28:42
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -46,14 +46,17 @@ iptables -A INPUT -s 35.42.175.0/25 -j DROP
 iptables -A INPUT -s 35.42.228.0/22 -j DROP
 iptables -A INPUT -s 40.38.87.128/25 -j DROP
 iptables -A INPUT -s 40.39.44.0/22 -j DROP
+iptables -A INPUT -s 40.39.100.0/22 -j DROP
 iptables -A INPUT -s 40.164.4.0/22 -j DROP
 iptables -A INPUT -s 43.192.222.0/25 -j DROP
+iptables -A INPUT -s 43.192.232.0/22 -j DROP
 iptables -A INPUT -s 43.196.168.0/25 -j DROP
 iptables -A INPUT -s 43.196.172.0/22 -j DROP
 iptables -A INPUT -s 43.210.244.128/25 -j DROP
 iptables -A INPUT -s 43.211.44.0/22 -j DROP
 iptables -A INPUT -s 51.24.164.0/22 -j DROP
 iptables -A INPUT -s 51.24.168.0/22 -j DROP
+iptables -A INPUT -s 51.72.26.128/25 -j DROP
 iptables -A INPUT -s 54.20.104.0/22 -j DROP
 iptables -A INPUT -s 54.54.30.0/25 -j DROP
 iptables -A INPUT -s 54.54.36.0/22 -j DROP
@@ -79,6 +82,7 @@ iptables -A INPUT -s 108.133.136.0/21 -j DROP
 iptables -A INPUT -s 108.133.144.0/20 -j DROP
 ip6tables -A INPUT -s 2400:7fc0:833b:f400::/56 -j DROP
 ip6tables -A INPUT -s 2400:7fc0:86dd:2300::/56 -j DROP
+ip6tables -A INPUT -s 2404:c2c0:8834:a400::/56 -j DROP
 ip6tables -A INPUT -s 2404:c2c0:8b03:e600::/56 -j DROP
 ip6tables -A INPUT -s 2406:da10:83d4:d000::/56 -j DROP
 ip6tables -A INPUT -s 2406:da10:8649:1d00::/56 -j DROP
@@ -112,6 +116,7 @@ ip6tables -A INPUT -s 2600:1f10:4a47:1300::/56 -j DROP
 ip6tables -A INPUT -s 2600:1f10:4d24:2400::/56 -j DROP
 ip6tables -A INPUT -s 2600:1f11:c0a:c700::/56 -j DROP
 ip6tables -A INPUT -s 2600:1f12:824:e00::/56 -j DROP
+ip6tables -A INPUT -s 2600:1f12:d63:d100::/56 -j DROP
 ip6tables -A INPUT -s 2600:1f12:ece:5300::/56 -j DROP
 ip6tables -A INPUT -s 2600:1f14:52f:7200::/56 -j DROP
 ip6tables -A INPUT -s 2600:1f14:bc1:200::/56 -j DROP

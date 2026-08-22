@@ -258,6 +258,12 @@
     "region": "us-gov-west-1"
   },
   {
+    "ip_address": "40.39.100.0/22",
+    "ip_type": "IPv4",
+    "service": "EFS",
+    "region": "us-gov-west-1"
+  },
+  {
     "ip_address": "40.164.4.0/22",
     "ip_type": "IPv4",
     "service": "EFS",
@@ -265,6 +271,12 @@
   },
   {
     "ip_address": "43.192.222.0/25",
+    "ip_type": "IPv4",
+    "service": "EFS",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "43.192.232.0/22",
     "ip_type": "IPv4",
     "service": "EFS",
     "region": "cn-northwest-1"
@@ -304,6 +316,12 @@
     "ip_type": "IPv4",
     "service": "EFS",
     "region": "eu-west-2"
+  },
+  {
+    "ip_address": "51.72.26.128/25",
+    "ip_type": "IPv4",
+    "service": "EFS",
+    "region": "eusc-de-east-1"
   },
   {
     "ip_address": "54.20.104.0/22",
@@ -552,6 +570,12 @@
     "region": "cn-north-1"
   },
   {
+    "ip_address": "2404:c2c0:8834:a400::/56",
+    "ip_type": "IPv6",
+    "service": "EFS",
+    "region": "cn-northwest-1"
+  },
+  {
     "ip_address": "2404:c2c0:8b03:e600::/56",
     "ip_type": "IPv6",
     "service": "EFS",
@@ -745,6 +769,12 @@
   },
   {
     "ip_address": "2600:1f12:824:e00::/56",
+    "ip_type": "IPv6",
+    "service": "EFS",
+    "region": "us-gov-west-1"
+  },
+  {
+    "ip_address": "2600:1f12:d63:d100::/56",
     "ip_type": "IPv6",
     "service": "EFS",
     "region": "us-gov-west-1"

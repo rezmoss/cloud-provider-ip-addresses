@@ -1,5 +1,5 @@
 # azure IP ranges - ipset restore format (hash:net)
-# Version: 11 | Generated: 2026-08-21 | Last changed: 2026-08-19
+# Version: 11 | Generated: 2026-08-22 | Last changed: 2026-08-19
 # IPv4: 2671 merged subnets, 51280274 unique IPs
 # IPv6: 1799 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses

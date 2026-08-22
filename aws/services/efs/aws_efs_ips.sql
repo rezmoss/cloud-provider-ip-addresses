@@ -49,14 +49,17 @@ INSERT INTO `aws_efs_ips` (`ip_address`, `ip_type`) VALUES ('35.42.175.0/25', 'I
 INSERT INTO `aws_efs_ips` (`ip_address`, `ip_type`) VALUES ('35.42.228.0/22', 'IPv4');
 INSERT INTO `aws_efs_ips` (`ip_address`, `ip_type`) VALUES ('40.38.87.128/25', 'IPv4');
 INSERT INTO `aws_efs_ips` (`ip_address`, `ip_type`) VALUES ('40.39.44.0/22', 'IPv4');
+INSERT INTO `aws_efs_ips` (`ip_address`, `ip_type`) VALUES ('40.39.100.0/22', 'IPv4');
 INSERT INTO `aws_efs_ips` (`ip_address`, `ip_type`) VALUES ('40.164.4.0/22', 'IPv4');
 INSERT INTO `aws_efs_ips` (`ip_address`, `ip_type`) VALUES ('43.192.222.0/25', 'IPv4');
+INSERT INTO `aws_efs_ips` (`ip_address`, `ip_type`) VALUES ('43.192.232.0/22', 'IPv4');
 INSERT INTO `aws_efs_ips` (`ip_address`, `ip_type`) VALUES ('43.196.168.0/25', 'IPv4');
 INSERT INTO `aws_efs_ips` (`ip_address`, `ip_type`) VALUES ('43.196.172.0/22', 'IPv4');
 INSERT INTO `aws_efs_ips` (`ip_address`, `ip_type`) VALUES ('43.210.244.128/25', 'IPv4');
 INSERT INTO `aws_efs_ips` (`ip_address`, `ip_type`) VALUES ('43.211.44.0/22', 'IPv4');
 INSERT INTO `aws_efs_ips` (`ip_address`, `ip_type`) VALUES ('51.24.164.0/22', 'IPv4');
 INSERT INTO `aws_efs_ips` (`ip_address`, `ip_type`) VALUES ('51.24.168.0/22', 'IPv4');
+INSERT INTO `aws_efs_ips` (`ip_address`, `ip_type`) VALUES ('51.72.26.128/25', 'IPv4');
 INSERT INTO `aws_efs_ips` (`ip_address`, `ip_type`) VALUES ('54.20.104.0/22', 'IPv4');
 INSERT INTO `aws_efs_ips` (`ip_address`, `ip_type`) VALUES ('54.54.30.0/25', 'IPv4');
 INSERT INTO `aws_efs_ips` (`ip_address`, `ip_type`) VALUES ('54.54.36.0/22', 'IPv4');
@@ -98,6 +101,7 @@ INSERT INTO `aws_efs_ips` (`ip_address`, `ip_type`) VALUES ('108.133.152.0/22', 
 INSERT INTO `aws_efs_ips` (`ip_address`, `ip_type`) VALUES ('108.133.156.0/22', 'IPv4');
 INSERT INTO `aws_efs_ips` (`ip_address`, `ip_type`) VALUES ('2400:7fc0:833b:f400::/56', 'IPv6');
 INSERT INTO `aws_efs_ips` (`ip_address`, `ip_type`) VALUES ('2400:7fc0:86dd:2300::/56', 'IPv6');
+INSERT INTO `aws_efs_ips` (`ip_address`, `ip_type`) VALUES ('2404:c2c0:8834:a400::/56', 'IPv6');
 INSERT INTO `aws_efs_ips` (`ip_address`, `ip_type`) VALUES ('2404:c2c0:8b03:e600::/56', 'IPv6');
 INSERT INTO `aws_efs_ips` (`ip_address`, `ip_type`) VALUES ('2406:da10:83d4:d000::/56', 'IPv6');
 INSERT INTO `aws_efs_ips` (`ip_address`, `ip_type`) VALUES ('2406:da10:8649:1d00::/56', 'IPv6');
@@ -131,6 +135,7 @@ INSERT INTO `aws_efs_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f10:4a47:1300
 INSERT INTO `aws_efs_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f10:4d24:2400::/56', 'IPv6');
 INSERT INTO `aws_efs_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f11:c0a:c700::/56', 'IPv6');
 INSERT INTO `aws_efs_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f12:824:e00::/56', 'IPv6');
+INSERT INTO `aws_efs_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f12:d63:d100::/56', 'IPv6');
 INSERT INTO `aws_efs_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f12:ece:5300::/56', 'IPv6');
 INSERT INTO `aws_efs_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f14:52f:7200::/56', 'IPv6');
 INSERT INTO `aws_efs_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f14:bc1:200::/56', 'IPv6');
