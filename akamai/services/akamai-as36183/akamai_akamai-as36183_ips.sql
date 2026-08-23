@@ -504,6 +504,7 @@ INSERT INTO `akamai_akamai-as36183_ips` (`ip_address`, `ip_type`) VALUES ('2a02:
 INSERT INTO `akamai_akamai-as36183_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:4::/48', 'IPv6');
 INSERT INTO `akamai_akamai-as36183_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:5::/48', 'IPv6');
 INSERT INTO `akamai_akamai-as36183_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:6::/48', 'IPv6');
+INSERT INTO `akamai_akamai-as36183_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:7::/48', 'IPv6');
 INSERT INTO `akamai_akamai-as36183_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:10::/48', 'IPv6');
 INSERT INTO `akamai_akamai-as36183_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:12::/48', 'IPv6');
 INSERT INTO `akamai_akamai-as36183_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:16::/48', 'IPv6');

@@ -4,5 +4,4 @@ ip_address,ip_type,region
 2001:10::/28,IPv6,US-US-MN
 2001:db8::/32,IPv6,US-US-MN
 2001:19f0:4800::/38,IPv6,US-US-MN
-2001:19f0:9c00::/38,IPv6,US-US-MN
 2002::/16,IPv6,US-US-MN

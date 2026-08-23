@@ -1,6 +1,6 @@
 #!/bin/bash
 # Leaseweb IP Ranges
-# Updated: 2026-08-21 02:41:45
+# Updated: 2026-08-23 02:42:58
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -371,15 +371,17 @@ iptables -A INPUT -s 72.63.64.0/22 -j ACCEPT
 iptables -A INPUT -s 72.63.152.0/22 -j ACCEPT
 iptables -A INPUT -s 72.244.1.0/24 -j ACCEPT
 iptables -A INPUT -s 77.72.81.0/24 -j ACCEPT
-iptables -A INPUT -s 77.235.33.0/24 -j ACCEPT
 iptables -A INPUT -s 77.235.34.0/24 -j ACCEPT
-iptables -A INPUT -s 77.235.36.0/22 -j ACCEPT
+iptables -A INPUT -s 77.235.37.0/24 -j ACCEPT
+iptables -A INPUT -s 77.235.38.0/24 -j ACCEPT
 iptables -A INPUT -s 77.235.40.0/21 -j ACCEPT
 iptables -A INPUT -s 77.235.48.0/24 -j ACCEPT
-iptables -A INPUT -s 77.235.50.0/23 -j ACCEPT
+iptables -A INPUT -s 77.235.50.0/24 -j ACCEPT
 iptables -A INPUT -s 77.235.53.0/24 -j ACCEPT
-iptables -A INPUT -s 77.235.54.0/23 -j ACCEPT
-iptables -A INPUT -s 77.235.56.0/21 -j ACCEPT
+iptables -A INPUT -s 77.235.54.0/24 -j ACCEPT
+iptables -A INPUT -s 77.235.56.0/23 -j ACCEPT
+iptables -A INPUT -s 77.235.58.0/24 -j ACCEPT
+iptables -A INPUT -s 77.235.60.0/22 -j ACCEPT
 iptables -A INPUT -s 78.159.96.0/19 -j ACCEPT
 iptables -A INPUT -s 79.170.241.0/24 -j ACCEPT
 iptables -A INPUT -s 79.170.242.0/24 -j ACCEPT
@@ -912,7 +914,7 @@ iptables -A INPUT -s 185.125.51.0/24 -j ACCEPT
 iptables -A INPUT -s 185.129.121.0/24 -j ACCEPT
 iptables -A INPUT -s 185.129.122.0/23 -j ACCEPT
 iptables -A INPUT -s 185.131.24.0/22 -j ACCEPT
-iptables -A INPUT -s 185.140.164.0/23 -j ACCEPT
+iptables -A INPUT -s 185.140.164.0/24 -j ACCEPT
 iptables -A INPUT -s 185.145.60.0/22 -j ACCEPT
 iptables -A INPUT -s 185.155.52.0/24 -j ACCEPT
 iptables -A INPUT -s 185.155.201.0/24 -j ACCEPT

@@ -25,11 +25,6 @@
     "region": "US-US-MN"
   },
   {
-    "ip_address": "2001:19f0:9c00::/38",
-    "ip_type": "IPv6",
-    "region": "US-US-MN"
-  },
-  {
     "ip_address": "2002::/16",
     "ip_type": "IPv6",
     "region": "US-US-MN"

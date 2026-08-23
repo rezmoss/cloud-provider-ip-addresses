@@ -1,6 +1,6 @@
 #!/bin/bash
 # Leaseweb IP Ranges
-# Updated: 2026-08-21 02:41:45
+# Updated: 2026-08-23 02:42:58
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -90,15 +90,17 @@ ufw deny from 62.212.64.0/19
 ufw deny from 64.226.54.0/23
 ufw deny from 64.226.157.0/24
 ufw deny from 64.226.158.0/23
-ufw deny from 77.235.33.0/24
 ufw deny from 77.235.34.0/24
-ufw deny from 77.235.36.0/22
+ufw deny from 77.235.37.0/24
+ufw deny from 77.235.38.0/24
 ufw deny from 77.235.40.0/21
 ufw deny from 77.235.48.0/24
-ufw deny from 77.235.50.0/23
+ufw deny from 77.235.50.0/24
 ufw deny from 77.235.53.0/24
-ufw deny from 77.235.54.0/23
-ufw deny from 77.235.56.0/21
+ufw deny from 77.235.54.0/24
+ufw deny from 77.235.56.0/23
+ufw deny from 77.235.58.0/24
+ufw deny from 77.235.60.0/22
 ufw deny from 79.170.241.0/24
 ufw deny from 79.170.242.0/24
 ufw deny from 79.170.244.0/22
@@ -229,7 +231,7 @@ ufw deny from 185.122.170.0/24
 ufw deny from 185.123.60.0/24
 ufw deny from 185.129.121.0/24
 ufw deny from 185.131.24.0/22
-ufw deny from 185.140.164.0/23
+ufw deny from 185.140.164.0/24
 ufw deny from 185.145.60.0/22
 ufw deny from 185.155.52.0/24
 ufw deny from 185.155.201.0/24

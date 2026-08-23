@@ -497,6 +497,7 @@ ip_address,ip_type,service,region
 2a02:26f7:4::/48,IPv6,akamai-as36183,global
 2a02:26f7:5::/48,IPv6,akamai-as36183,global
 2a02:26f7:6::/48,IPv6,akamai-as36183,global
+2a02:26f7:7::/48,IPv6,akamai-as36183,global
 2a02:26f7:10::/48,IPv6,akamai-as36183,global
 2a02:26f7:12::/48,IPv6,akamai-as36183,global
 2a02:26f7:16::/48,IPv6,akamai-as36183,global

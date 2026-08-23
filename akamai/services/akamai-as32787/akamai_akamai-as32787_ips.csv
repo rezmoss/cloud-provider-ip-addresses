@@ -167,6 +167,7 @@ ip_address,ip_type,service,region
 103.37.90.0/24,IPv4,akamai-as32787,global
 103.93.157.0/24,IPv4,akamai-as32787,global
 103.114.130.0/24,IPv4,akamai-as32787,global
+103.114.131.0/24,IPv4,akamai-as32787,global
 104.74.16.0/22,IPv4,akamai-as32787,global
 104.86.64.0/24,IPv4,akamai-as32787,global
 104.86.65.0/24,IPv4,akamai-as32787,global
