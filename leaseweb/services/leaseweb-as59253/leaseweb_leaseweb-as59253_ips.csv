@@ -80,6 +80,7 @@ ip_address,ip_type,service,region
 173.234.8.0/22,IPv4,leaseweb-as59253,global
 173.234.12.0/23,IPv4,leaseweb-as59253,global
 173.234.14.0/23,IPv4,leaseweb-as59253,global
+178.94.30.0/24,IPv4,leaseweb-as59253,global
 185.129.122.0/24,IPv4,leaseweb-as59253,global
 194.127.192.0/23,IPv4,leaseweb-as59253,global
 195.85.19.0/24,IPv4,leaseweb-as59253,global

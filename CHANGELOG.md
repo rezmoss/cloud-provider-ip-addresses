@@ -2,6 +2,28 @@
 
 Daily IP range changes across all providers.
 
+## 2026-08-24
+
+### apple_private_relay
+- Added: 9 CIDRs
+- Removed: 0 CIDRs
+
+### akamai
+- Added: 1 CIDRs
+- Removed: 0 CIDRs
+
+### aws
+- Added: 0 CIDRs
+- Removed: 1 CIDRs
+
+### tor
+- Added: 39 CIDRs
+- Removed: 12 CIDRs
+
+### leaseweb
+- Added: 1 CIDRs
+- Removed: 0 CIDRs
+
 ## 2026-08-23
 
 ### zscaler

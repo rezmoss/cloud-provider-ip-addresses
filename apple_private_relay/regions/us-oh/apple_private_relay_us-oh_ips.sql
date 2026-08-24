@@ -197,6 +197,7 @@ INSERT INTO `apple_private_relay_us-oh_ips` (`ip_address`, `ip_type`) VALUES ('1
 INSERT INTO `apple_private_relay_us-oh_ips` (`ip_address`, `ip_type`) VALUES ('104.28.137.45/32', 'IPv4');
 INSERT INTO `apple_private_relay_us-oh_ips` (`ip_address`, `ip_type`) VALUES ('104.28.137.46/32', 'IPv4');
 INSERT INTO `apple_private_relay_us-oh_ips` (`ip_address`, `ip_type`) VALUES ('104.28.137.108/32', 'IPv4');
+INSERT INTO `apple_private_relay_us-oh_ips` (`ip_address`, `ip_type`) VALUES ('104.28.137.202/32', 'IPv4');
 INSERT INTO `apple_private_relay_us-oh_ips` (`ip_address`, `ip_type`) VALUES ('104.28.138.7/32', 'IPv4');
 INSERT INTO `apple_private_relay_us-oh_ips` (`ip_address`, `ip_type`) VALUES ('104.28.138.12/32', 'IPv4');
 INSERT INTO `apple_private_relay_us-oh_ips` (`ip_address`, `ip_type`) VALUES ('104.28.138.13/32', 'IPv4');
