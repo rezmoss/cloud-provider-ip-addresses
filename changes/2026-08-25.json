@@ -1,0 +1,125 @@
+{
+  "date": "2026-08-25",
+  "changes": {
+    "akamai": {
+      "added": [
+        "2600:1407:20::/48",
+        "93.191.175.0/24"
+      ],
+      "removed": [],
+      "added_count": 2,
+      "removed_count": 0
+    },
+    "aws": {
+      "added": [
+        "1.178.86.0/24",
+        "64.37.64.0/18"
+      ],
+      "removed": [],
+      "added_count": 2,
+      "removed_count": 0
+    },
+    "gcore": {
+      "added": [
+        "2a03:90c0:611:2801::23/128",
+        "2c0f:f7c0:3800:10::be2/128",
+        "2c0f:f7c0:3800:10::be3/128",
+        "94.176.183.23/32"
+      ],
+      "removed": [],
+      "added_count": 4,
+      "removed_count": 0
+    },
+    "tencent": {
+      "added": [
+        "142.86.128.0/18",
+        "142.86.128.0/19",
+        "142.86.160.0/19"
+      ],
+      "removed": [],
+      "added_count": 3,
+      "removed_count": 0
+    },
+    "meta": {
+      "added": [],
+      "removed": [
+        "129.134.138.0/24",
+        "2a03:2887:ff39::/48"
+      ],
+      "added_count": 0,
+      "removed_count": 2
+    },
+    "commoncrawl": {
+      "added": [],
+      "removed": [
+        "98.85.178.216/32"
+      ],
+      "added_count": 0,
+      "removed_count": 1
+    },
+    "alibaba": {
+      "added": [
+        "139.95.136.0/21",
+        "139.95.136.0/22",
+        "139.95.140.0/22",
+        "43.96.42.0/24",
+        "43.96.46.0/24"
+      ],
+      "removed": [],
+      "added_count": 5,
+      "removed_count": 0
+    },
+    "ovhcloud": {
+      "added": [
+        "151.247.145.0/24"
+      ],
+      "removed": [],
+      "added_count": 1,
+      "removed_count": 0
+    },
+    "zscaler": {
+      "added": [
+        "137.31.174.0/24"
+      ],
+      "removed": [],
+      "added_count": 1,
+      "removed_count": 0
+    },
+    "huawei": {
+      "added": [
+        "159.138.184.0/24"
+      ],
+      "removed": [],
+      "added_count": 1,
+      "removed_count": 0
+    },
+    "tor": {
+      "added": [
+        "103.225.161.156/32",
+        "176.121.81.51/32",
+        "176.65.149.105/32",
+        "185.11.139.198/32"
+      ],
+      "removed": [
+        "103.255.66.69/32",
+        "104.171.114.22/32",
+        "172.81.131.156/32",
+        "185.132.53.46/32",
+        "192.108.48.150/32",
+        "45.9.149.34/32",
+        "94.16.116.81/32"
+      ],
+      "added_count": 4,
+      "removed_count": 7
+    },
+    "leaseweb": {
+      "added": [
+        "185.135.202.0/24",
+        "202.157.153.0/24"
+      ],
+      "removed": [],
+      "added_count": 2,
+      "removed_count": 0
+    }
+  }
+}

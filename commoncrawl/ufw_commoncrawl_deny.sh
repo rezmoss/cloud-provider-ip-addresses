@@ -1,6 +1,6 @@
 #!/bin/bash
 # Commoncrawl IP Ranges
-# Updated: 2026-08-06 03:15:10
+# Updated: 2026-08-25 02:35:47
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -11,5 +11,4 @@ ufw deny from 3.41.188.32/29
 ufw deny from 18.97.9.168/29
 ufw deny from 18.97.14.80/29
 ufw deny from 18.97.14.88/30
-ufw deny from 98.85.178.216/32
 ufw deny from 2600:1f28:365:8000::/56

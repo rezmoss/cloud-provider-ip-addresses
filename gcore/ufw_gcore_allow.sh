@@ -1,6 +1,6 @@
 #!/bin/bash
 # Gcore IP Ranges
-# Updated: 2026-08-22 02:35:35
+# Updated: 2026-08-25 02:38:36
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -409,9 +409,7 @@ ufw allow from 94.176.183.8/32
 ufw allow from 94.176.183.10/32
 ufw allow from 94.176.183.13/32
 ufw allow from 94.176.183.14/31
-ufw allow from 94.176.183.16/30
-ufw allow from 94.176.183.20/31
-ufw allow from 94.176.183.22/32
+ufw allow from 94.176.183.16/29
 ufw allow from 94.176.183.24/31
 ufw allow from 94.177.131.25/32
 ufw allow from 94.177.131.57/32
@@ -974,8 +972,7 @@ ufw allow from 2a03:90c0:611:2801::10/128
 ufw allow from 2a03:90c0:611:2801::13/128
 ufw allow from 2a03:90c0:611:2801::14/126
 ufw allow from 2a03:90c0:611:2801::18/127
-ufw allow from 2a03:90c0:611:2801::20/127
-ufw allow from 2a03:90c0:611:2801::22/128
+ufw allow from 2a03:90c0:611:2801::20/126
 ufw allow from 2a03:90c0:611:2801::24/127
 ufw allow from 2a03:90c0:661:2801::4/126
 ufw allow from 2a03:90c0:661:2801::8/128
@@ -1035,5 +1032,6 @@ ufw allow from 2c0f:4280:6400:2::202/128
 ufw allow from 2c0f:ee00:1:c0eb::50/128
 ufw allow from 2c0f:f578:0:c::106/128
 ufw allow from 2c0f:f7c0:3800:10::bc2/127
+ufw allow from 2c0f:f7c0:3800:10::be2/127
 ufw allow from 2c0f:f828:2::114/128
 ufw allow from 2c0f:fe38:7:50::2/128

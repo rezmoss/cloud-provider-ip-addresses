@@ -1,6 +1,6 @@
 #!/bin/bash
 # Meta IP Ranges
-# Updated: 2026-08-12 03:03:57
+# Updated: 2026-08-25 02:35:52
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -42,7 +42,8 @@ iptables -A INPUT -s 129.134.0.0/17 -j ACCEPT
 iptables -A INPUT -s 129.134.130.0/24 -j ACCEPT
 iptables -A INPUT -s 129.134.132.0/24 -j ACCEPT
 iptables -A INPUT -s 129.134.135.0/24 -j ACCEPT
-iptables -A INPUT -s 129.134.136.0/22 -j ACCEPT
+iptables -A INPUT -s 129.134.136.0/23 -j ACCEPT
+iptables -A INPUT -s 129.134.139.0/24 -j ACCEPT
 iptables -A INPUT -s 129.134.140.0/24 -j ACCEPT
 iptables -A INPUT -s 129.134.143.0/24 -j ACCEPT
 iptables -A INPUT -s 129.134.144.0/24 -j ACCEPT
@@ -102,7 +103,8 @@ ip6tables -A INPUT -s 2a03:2887:ff2e::/47 -j ACCEPT
 ip6tables -A INPUT -s 2a03:2887:ff30::/48 -j ACCEPT
 ip6tables -A INPUT -s 2a03:2887:ff33::/48 -j ACCEPT
 ip6tables -A INPUT -s 2a03:2887:ff37::/48 -j ACCEPT
-ip6tables -A INPUT -s 2a03:2887:ff38::/46 -j ACCEPT
+ip6tables -A INPUT -s 2a03:2887:ff38::/48 -j ACCEPT
+ip6tables -A INPUT -s 2a03:2887:ff3a::/47 -j ACCEPT
 ip6tables -A INPUT -s 2a03:2887:ff3e::/47 -j ACCEPT
 ip6tables -A INPUT -s 2a03:2887:ff40::/46 -j ACCEPT
 ip6tables -A INPUT -s 2a03:2887:ff44::/47 -j ACCEPT

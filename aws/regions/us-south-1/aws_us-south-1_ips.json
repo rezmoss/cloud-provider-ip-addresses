@@ -288,6 +288,18 @@
     "region": "us-south-1"
   },
   {
+    "ip_address": "64.37.64.0/18",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-south-1"
+  },
+  {
+    "ip_address": "64.37.64.0/18",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-south-1"
+  },
+  {
     "ip_address": "76.223.170.144/28",
     "ip_type": "IPv4",
     "service": "AMAZON",

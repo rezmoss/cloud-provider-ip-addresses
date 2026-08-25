@@ -2982,6 +2982,12 @@
     "region": "global"
   },
   {
+    "ip_address": "151.247.145.0/24",
+    "ip_type": "IPv4",
+    "service": "ovhcloud-as16276",
+    "region": "global"
+  },
+  {
     "ip_address": "151.247.192.0/24",
     "ip_type": "IPv4",
     "service": "ovhcloud-as16276",

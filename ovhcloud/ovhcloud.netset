@@ -1,6 +1,6 @@
 # ovhcloud IP ranges - ipset restore format (hash:net)
-# Version: 58 | Generated: 2026-08-24 | Last changed: 2026-08-23
-# IPv4: 619 merged subnets, 4600320 unique IPs
+# Version: 59 | Generated: 2026-08-25 | Last changed: 2026-08-25
+# IPv4: 620 merged subnets, 4600576 unique IPs
 # IPv6: 4 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
@@ -418,6 +418,7 @@ add ovhcloud_v4 151.245.238.0/24
 add ovhcloud_v4 151.246.177.0/24
 add ovhcloud_v4 151.246.190.0/24
 add ovhcloud_v4 151.247.37.0/24
+add ovhcloud_v4 151.247.145.0/24
 add ovhcloud_v4 151.247.192.0/24
 add ovhcloud_v4 151.247.205.0/24
 add ovhcloud_v4 151.247.217.0/24

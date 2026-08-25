@@ -2778,6 +2778,12 @@
     "region": "global"
   },
   {
+    "ip_address": "159.138.184.0/24",
+    "ip_type": "IPv4",
+    "service": "huawei-as136907",
+    "region": "global"
+  },
+  {
     "ip_address": "159.138.185.0/24",
     "ip_type": "IPv4",
     "service": "huawei-as136907",

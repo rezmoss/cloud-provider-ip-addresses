@@ -20,11 +20,6 @@
     "service": "ccbot"
   },
   {
-    "ip_address": "98.85.178.216/32",
-    "ip_type": "IPv4",
-    "service": "ccbot"
-  },
-  {
     "ip_address": "2600:1f28:365:8000::/56",
     "ip_type": "IPv6",
     "service": "ccbot"

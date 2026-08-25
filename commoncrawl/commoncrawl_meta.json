@@ -1,23 +1,23 @@
 {
   "provider": "commoncrawl",
-  "version": 2,
-  "generated_date": "2026-08-24",
-  "last_changed_date": "2026-08-06",
+  "version": 3,
+  "generated_date": "2026-08-25",
+  "last_changed_date": "2026-08-25",
   "sources": [
     "https://index.commoncrawl.org/ccbot.json"
   ],
   "ipv4": {
-    "cidrs": 5,
-    "merged_cidrs": 5,
-    "addresses": 29
+    "cidrs": 4,
+    "merged_cidrs": 4,
+    "addresses": 28
   },
   "ipv6": {
     "cidrs": 1,
     "merged_cidrs": 1,
     "addresses": 4722366482869645213696
   },
-  "total_entries": 6,
-  "content_sha256": "2c284f735f6ebd8e8d6bb2562d64c97eb9fe23372bdf4756abdb8f09ac197e25",
+  "total_entries": 5,
+  "content_sha256": "2ce2b8433e34e1c6cc34f2d2bb54715d41edfeeb347738d51da62ce8dd27f783",
   "license": "CC0-1.0",
   "license_url": "https://github.com/rezmoss/cloud-provider-ip-addresses/blob/main/LICENSE"
 }
