@@ -9,6 +9,8 @@ CREATE TABLE IF NOT EXISTS `oracle_sa-valparaiso-1_ips` (
 INSERT INTO `oracle_sa-valparaiso-1_ips` (`ip_address`, `ip_type`) VALUES ('147.224.224.0/20', 'IPv4');
 INSERT INTO `oracle_sa-valparaiso-1_ips` (`ip_address`, `ip_type`) VALUES ('148.116.104.0/21', 'IPv4');
 INSERT INTO `oracle_sa-valparaiso-1_ips` (`ip_address`, `ip_type`) VALUES ('149.130.224.0/19', 'IPv4');
+INSERT INTO `oracle_sa-valparaiso-1_ips` (`ip_address`, `ip_type`) VALUES ('155.181.4.0/22', 'IPv4');
+INSERT INTO `oracle_sa-valparaiso-1_ips` (`ip_address`, `ip_type`) VALUES ('155.181.32.0/20', 'IPv4');
 INSERT INTO `oracle_sa-valparaiso-1_ips` (`ip_address`, `ip_type`) VALUES ('165.1.96.0/22', 'IPv4');
 INSERT INTO `oracle_sa-valparaiso-1_ips` (`ip_address`, `ip_type`) VALUES ('165.1.100.0/25', 'IPv4');
 INSERT INTO `oracle_sa-valparaiso-1_ips` (`ip_address`, `ip_type`) VALUES ('165.1.104.0/22', 'IPv4');

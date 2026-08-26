@@ -42,6 +42,12 @@
     "region": "me-riyadh-1"
   },
   {
+    "ip_address": "84.13.128.0/18",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "me-riyadh-1"
+  },
+  {
     "ip_address": "130.110.224.0/21",
     "ip_type": "IPv4",
     "service": "OSN",

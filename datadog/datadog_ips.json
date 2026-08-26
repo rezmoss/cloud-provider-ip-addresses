@@ -300,16 +300,6 @@
     "service": "synthetics"
   },
   {
-    "ip_address": "15.184.139.182/32",
-    "ip_type": "IPv4",
-    "service": "synthetics"
-  },
-  {
-    "ip_address": "15.185.189.82/32",
-    "ip_type": "IPv4",
-    "service": "synthetics"
-  },
-  {
     "ip_address": "15.188.202.64/32",
     "ip_type": "IPv4",
     "service": "synthetics"
@@ -321,16 +311,6 @@
   },
   {
     "ip_address": "15.188.243.248/32",
-    "ip_type": "IPv4",
-    "service": "synthetics"
-  },
-  {
-    "ip_address": "16.24.38.13/32",
-    "ip_type": "IPv4",
-    "service": "synthetics"
-  },
-  {
-    "ip_address": "16.24.60.114/32",
     "ip_type": "IPv4",
     "service": "synthetics"
   },
@@ -545,6 +525,11 @@
     "service": "webhooks"
   },
   {
+    "ip_address": "34.206.151.68/32",
+    "ip_type": "IPv4",
+    "service": "webhooks"
+  },
+  {
     "ip_address": "34.206.254.214/32",
     "ip_type": "IPv4",
     "service": "webhooks"
@@ -655,6 +640,11 @@
     "service": "synthetics"
   },
   {
+    "ip_address": "52.44.165.215/32",
+    "ip_type": "IPv4",
+    "service": "webhooks"
+  },
+  {
     "ip_address": "52.44.179.207/32",
     "ip_type": "IPv4",
     "service": "webhooks"
@@ -688,6 +678,11 @@
     "ip_address": "52.192.175.207/32",
     "ip_type": "IPv4",
     "service": "synthetics"
+  },
+  {
+    "ip_address": "54.82.178.194/32",
+    "ip_type": "IPv4",
+    "service": "webhooks"
   },
   {
     "ip_address": "54.87.25.183/32",
@@ -770,16 +765,6 @@
     "service": "synthetics"
   },
   {
-    "ip_address": "157.241.36.106/32",
-    "ip_type": "IPv4",
-    "service": "synthetics"
-  },
-  {
-    "ip_address": "157.241.93.102/32",
-    "ip_type": "IPv4",
-    "service": "synthetics"
-  },
-  {
     "ip_address": "174.129.34.172/32",
     "ip_type": "IPv4",
     "service": "webhooks"
@@ -828,5 +813,10 @@
     "ip_address": "2600:1f18:24e6:b900::/56",
     "ip_type": "IPv6",
     "service": "synthetics-private-locations"
+  },
+  {
+    "ip_address": "2607:4240:4000::/34",
+    "ip_type": "IPv6",
+    "service": "synthetics"
   }
 ]

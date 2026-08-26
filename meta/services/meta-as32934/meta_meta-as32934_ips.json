@@ -1152,12 +1152,6 @@
     "region": "global"
   },
   {
-    "ip_address": "157.240.202.0/24",
-    "ip_type": "IPv4",
-    "service": "meta-as32934",
-    "region": "global"
-  },
-  {
     "ip_address": "157.240.203.0/24",
     "ip_type": "IPv4",
     "service": "meta-as32934",

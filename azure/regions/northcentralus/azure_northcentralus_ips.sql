@@ -519,7 +519,9 @@ INSERT INTO `azure_northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('57.150
 INSERT INTO `azure_northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('57.150.102.0/23', 'IPv4');
 INSERT INTO `azure_northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('57.150.102.0/23', 'IPv4');
 INSERT INTO `azure_northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('57.157.64.0/23', 'IPv4');
-INSERT INTO `azure_northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('57.157.66.0/29', 'IPv4');
+INSERT INTO `azure_northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('57.157.66.0/27', 'IPv4');
+INSERT INTO `azure_northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('57.157.66.32/28', 'IPv4');
+INSERT INTO `azure_northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('57.157.66.48/30', 'IPv4');
 INSERT INTO `azure_northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('64.236.128.0/17', 'IPv4');
 INSERT INTO `azure_northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('65.52.0.0/19', 'IPv4');
 INSERT INTO `azure_northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('65.52.2.145/32', 'IPv4');

@@ -5358,6 +5358,12 @@
     "region": "global"
   },
   {
+    "ip_address": "108.165.151.0/24",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as30633",
+    "region": "global"
+  },
+  {
     "ip_address": "108.165.180.0/23",
     "ip_type": "IPv4",
     "service": "leaseweb-as134351",

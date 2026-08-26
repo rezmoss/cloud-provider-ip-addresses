@@ -1,6 +1,6 @@
 #!/bin/bash
 # Datadog IP Ranges
-# Updated: 2026-06-25 03:23:22
+# Updated: 2026-08-26 02:39:23
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -59,13 +59,9 @@ ufw allow from 15.152.238.192/32
 ufw allow from 15.161.86.71/32
 ufw allow from 15.165.240.116/32
 ufw allow from 15.168.188.85/32
-ufw allow from 15.184.139.182/32
-ufw allow from 15.185.189.82/32
 ufw allow from 15.188.202.64/32
 ufw allow from 15.188.240.172/32
 ufw allow from 15.188.243.248/32
-ufw allow from 16.24.38.13/32
-ufw allow from 16.24.60.114/32
 ufw allow from 16.162.136.62/32
 ufw allow from 16.163.153.45/32
 ufw allow from 18.96.16.112/29
@@ -108,6 +104,7 @@ ufw allow from 34.196.179.210/32
 ufw allow from 34.202.253.27/32
 ufw allow from 34.203.1.9/32
 ufw allow from 34.204.83.4/32
+ufw allow from 34.206.151.68/32
 ufw allow from 34.206.254.214/32
 ufw allow from 34.208.32.189/32
 ufw allow from 34.233.140.66/32
@@ -130,6 +127,7 @@ ufw allow from 52.1.61.69/32
 ufw allow from 52.9.13.199/32
 ufw allow from 52.9.139.134/32
 ufw allow from 52.35.61.232/32
+ufw allow from 52.44.165.215/32
 ufw allow from 52.44.179.207/32
 ufw allow from 52.55.56.26/32
 ufw allow from 52.60.189.53/32
@@ -137,6 +135,7 @@ ufw allow from 52.67.95.251/32
 ufw allow from 52.89.221.151/32
 ufw allow from 52.186.167.216/29
 ufw allow from 52.192.175.207/32
+ufw allow from 54.82.178.194/32
 ufw allow from 54.87.25.183/32
 ufw allow from 54.92.248.81/32
 ufw allow from 54.152.215.16/32
@@ -153,7 +152,6 @@ ufw allow from 100.28.212.0/22
 ufw allow from 107.21.25.247/32
 ufw allow from 108.137.133.223/32
 ufw allow from 108.137.188.57/32
-ufw allow from 157.241.36.106/32
-ufw allow from 157.241.93.102/32
 ufw allow from 174.129.34.172/32
 ufw allow from 2600:1f18:24e6:b900::/56
+ufw allow from 2607:4240:4000::/34

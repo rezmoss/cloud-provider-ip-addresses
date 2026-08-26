@@ -672,7 +672,13 @@
     "region": "australiasoutheast"
   },
   {
-    "ip_address": "57.157.168.48/30",
+    "ip_address": "57.157.168.48/29",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.australiasoutheast",
+    "region": "australiasoutheast"
+  },
+  {
+    "ip_address": "57.157.168.56/31",
     "ip_type": "IPv4",
     "service": "AzureCloud.australiasoutheast",
     "region": "australiasoutheast"

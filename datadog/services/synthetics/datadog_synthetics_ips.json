@@ -225,16 +225,6 @@
     "service": "synthetics"
   },
   {
-    "ip_address": "15.184.139.182/32",
-    "ip_type": "IPv4",
-    "service": "synthetics"
-  },
-  {
-    "ip_address": "15.185.189.82/32",
-    "ip_type": "IPv4",
-    "service": "synthetics"
-  },
-  {
     "ip_address": "15.188.202.64/32",
     "ip_type": "IPv4",
     "service": "synthetics"
@@ -246,16 +236,6 @@
   },
   {
     "ip_address": "15.188.243.248/32",
-    "ip_type": "IPv4",
-    "service": "synthetics"
-  },
-  {
-    "ip_address": "16.24.38.13/32",
-    "ip_type": "IPv4",
-    "service": "synthetics"
-  },
-  {
-    "ip_address": "16.24.60.114/32",
     "ip_type": "IPv4",
     "service": "synthetics"
   },
@@ -555,13 +535,8 @@
     "service": "synthetics"
   },
   {
-    "ip_address": "157.241.36.106/32",
-    "ip_type": "IPv4",
-    "service": "synthetics"
-  },
-  {
-    "ip_address": "157.241.93.102/32",
-    "ip_type": "IPv4",
+    "ip_address": "2607:4240:4000::/34",
+    "ip_type": "IPv6",
     "service": "synthetics"
   }
 ]

@@ -14,6 +14,7 @@ INSERT INTO `oracle_ap-hyderabad-1_ips` (`ip_address`, `ip_type`) VALUES ('129.1
 INSERT INTO `oracle_ap-hyderabad-1_ips` (`ip_address`, `ip_type`) VALUES ('129.154.32.0/20', 'IPv4');
 INSERT INTO `oracle_ap-hyderabad-1_ips` (`ip_address`, `ip_type`) VALUES ('129.159.16.0/21', 'IPv4');
 INSERT INTO `oracle_ap-hyderabad-1_ips` (`ip_address`, `ip_type`) VALUES ('129.159.224.0/20', 'IPv4');
+INSERT INTO `oracle_ap-hyderabad-1_ips` (`ip_address`, `ip_type`) VALUES ('129.225.64.0/18', 'IPv4');
 INSERT INTO `oracle_ap-hyderabad-1_ips` (`ip_address`, `ip_type`) VALUES ('132.226.176.0/21', 'IPv4');
 INSERT INTO `oracle_ap-hyderabad-1_ips` (`ip_address`, `ip_type`) VALUES ('134.70.120.0/22', 'IPv4');
 INSERT INTO `oracle_ap-hyderabad-1_ips` (`ip_address`, `ip_type`) VALUES ('134.185.76.0/24', 'IPv4');

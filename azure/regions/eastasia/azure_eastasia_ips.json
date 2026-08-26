@@ -858,19 +858,7 @@
     "region": "eastasia"
   },
   {
-    "ip_address": "20.20.80.0/29",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.eastasia",
-    "region": "eastasia"
-  },
-  {
-    "ip_address": "20.20.80.8/30",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.eastasia",
-    "region": "eastasia"
-  },
-  {
-    "ip_address": "20.20.80.12/31",
+    "ip_address": "20.20.80.0/28",
     "ip_type": "IPv4",
     "service": "AzureCloud.eastasia",
     "region": "eastasia"

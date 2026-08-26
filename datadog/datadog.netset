@@ -1,7 +1,7 @@
 # datadog IP ranges - ipset restore format (hash:net)
-# Version: 1 | Generated: 2026-08-25 | Last changed: 2026-06-18
-# IPv4: 149 merged subnets, 5597 unique IPs
-# IPv6: 1 merged subnets
+# Version: 2 | Generated: 2026-08-26 | Last changed: 2026-08-26
+# IPv4: 146 merged subnets, 5594 unique IPs
+# IPv6: 2 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
 # Load with: sudo ipset restore -! < datadog.netset
@@ -60,13 +60,9 @@ add datadog_v4 15.152.238.192/32
 add datadog_v4 15.161.86.71/32
 add datadog_v4 15.165.240.116/32
 add datadog_v4 15.168.188.85/32
-add datadog_v4 15.184.139.182/32
-add datadog_v4 15.185.189.82/32
 add datadog_v4 15.188.202.64/32
 add datadog_v4 15.188.240.172/32
 add datadog_v4 15.188.243.248/32
-add datadog_v4 16.24.38.13/32
-add datadog_v4 16.24.60.114/32
 add datadog_v4 16.162.136.62/32
 add datadog_v4 16.163.153.45/32
 add datadog_v4 18.96.16.112/29
@@ -109,6 +105,7 @@ add datadog_v4 34.196.179.210/32
 add datadog_v4 34.202.253.27/32
 add datadog_v4 34.203.1.9/32
 add datadog_v4 34.204.83.4/32
+add datadog_v4 34.206.151.68/32
 add datadog_v4 34.206.254.214/32
 add datadog_v4 34.208.32.189/32
 add datadog_v4 34.233.140.66/32
@@ -131,6 +128,7 @@ add datadog_v4 52.1.61.69/32
 add datadog_v4 52.9.13.199/32
 add datadog_v4 52.9.139.134/32
 add datadog_v4 52.35.61.232/32
+add datadog_v4 52.44.165.215/32
 add datadog_v4 52.44.179.207/32
 add datadog_v4 52.55.56.26/32
 add datadog_v4 52.60.189.53/32
@@ -138,6 +136,7 @@ add datadog_v4 52.67.95.251/32
 add datadog_v4 52.89.221.151/32
 add datadog_v4 52.186.167.216/29
 add datadog_v4 52.192.175.207/32
+add datadog_v4 54.82.178.194/32
 add datadog_v4 54.87.25.183/32
 add datadog_v4 54.92.248.81/32
 add datadog_v4 54.152.215.16/32
@@ -154,9 +153,8 @@ add datadog_v4 100.28.212.0/22
 add datadog_v4 107.21.25.247/32
 add datadog_v4 108.137.133.223/32
 add datadog_v4 108.137.188.57/32
-add datadog_v4 157.241.36.106/32
-add datadog_v4 157.241.93.102/32
 add datadog_v4 174.129.34.172/32
 create datadog_v6 hash:net family inet6 hashsize 4096 maxelem 1048576 -exist
 flush datadog_v6
 add datadog_v6 2600:1f18:24e6:b900::/56
+add datadog_v6 2607:4240:4000::/34

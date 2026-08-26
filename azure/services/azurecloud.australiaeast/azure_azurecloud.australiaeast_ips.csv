@@ -122,7 +122,7 @@ ip_address,ip_type,service,region
 40.120.177.0/26,IPv4,AzureCloud.australiaeast,australiaeast
 40.120.177.64/28,IPv4,AzureCloud.australiaeast,australiaeast
 40.120.177.80/29,IPv4,AzureCloud.australiaeast,australiaeast
-40.120.177.88/31,IPv4,AzureCloud.australiaeast,australiaeast
+40.120.177.88/30,IPv4,AzureCloud.australiaeast,australiaeast
 40.120.177.94/31,IPv4,AzureCloud.australiaeast,australiaeast
 40.120.177.96/27,IPv4,AzureCloud.australiaeast,australiaeast
 40.120.177.128/25,IPv4,AzureCloud.australiaeast,australiaeast

@@ -18,6 +18,18 @@
     "region": "sa-valparaiso-1"
   },
   {
+    "ip_address": "155.181.4.0/22",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "sa-valparaiso-1"
+  },
+  {
+    "ip_address": "155.181.32.0/20",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "sa-valparaiso-1"
+  },
+  {
     "ip_address": "165.1.96.0/22",
     "ip_type": "IPv4",
     "service": "OSN",

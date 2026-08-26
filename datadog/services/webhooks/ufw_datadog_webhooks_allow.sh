@@ -1,6 +1,6 @@
 #!/bin/bash
 # Datadog IP Ranges
-# Updated: 2026-06-14 03:22:17
+# Updated: 2026-08-26 02:39:23
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -21,6 +21,7 @@ ufw allow from 34.196.179.210/32
 ufw allow from 34.202.253.27/32
 ufw allow from 34.203.1.9/32
 ufw allow from 34.204.83.4/32
+ufw allow from 34.206.151.68/32
 ufw allow from 34.206.254.214/32
 ufw allow from 34.233.140.66/32
 ufw allow from 34.234.13.225/32
@@ -31,7 +32,9 @@ ufw allow from 44.192.28.0/25
 ufw allow from 44.208.124.66/32
 ufw allow from 52.1.33.14/32
 ufw allow from 52.1.61.69/32
+ufw allow from 52.44.165.215/32
 ufw allow from 52.44.179.207/32
+ufw allow from 54.82.178.194/32
 ufw allow from 54.87.25.183/32
 ufw allow from 54.92.248.81/32
 ufw allow from 54.152.215.16/32

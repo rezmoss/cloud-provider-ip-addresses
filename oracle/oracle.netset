@@ -1,6 +1,6 @@
 # oracle IP ranges - ipset restore format (hash:net)
-# Version: 2 | Generated: 2026-08-25 | Last changed: 2026-07-28
-# IPv4: 793 merged subnets, 4295690 unique IPs
+# Version: 3 | Generated: 2026-08-26 | Last changed: 2026-08-26
+# IPv4: 798 merged subnets, 4349962 unique IPs
 # IPv6: 0 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
@@ -73,6 +73,8 @@ add oracle_v4 84.8.200.0/22
 add oracle_v4 84.8.208.0/23
 add oracle_v4 84.8.210.128/25
 add oracle_v4 84.8.216.0/21
+add oracle_v4 84.13.64.0/18
+add oracle_v4 84.13.128.0/18
 add oracle_v4 84.235.160.0/19
 add oracle_v4 84.235.192.0/23
 add oracle_v4 84.235.208.0/20
@@ -197,6 +199,7 @@ add oracle_v4 129.213.192.0/20
 add oracle_v4 129.213.208.0/21
 add oracle_v4 129.225.0.0/20
 add oracle_v4 129.225.32.0/19
+add oracle_v4 129.225.64.0/18
 add oracle_v4 129.225.128.0/17
 add oracle_v4 130.35.0.0/22
 add oracle_v4 130.35.16.0/22
@@ -513,6 +516,8 @@ add oracle_v4 152.69.160.0/19
 add oracle_v4 152.69.192.0/19
 add oracle_v4 152.69.224.0/20
 add oracle_v4 152.70.0.0/16
+add oracle_v4 155.181.4.0/22
+add oracle_v4 155.181.32.0/20
 add oracle_v4 155.248.128.0/22
 add oracle_v4 155.248.132.0/23
 add oracle_v4 155.248.135.128/25

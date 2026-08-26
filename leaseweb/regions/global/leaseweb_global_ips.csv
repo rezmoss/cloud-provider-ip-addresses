@@ -892,6 +892,7 @@ ip_address,ip_type,service,region
 108.165.82.0/24,IPv4,leaseweb-as134351,global
 108.165.83.0/24,IPv4,leaseweb-as134351,global
 108.165.87.0/24,IPv4,leaseweb-as134351,global
+108.165.151.0/24,IPv4,leaseweb-as30633,global
 108.165.180.0/23,IPv4,leaseweb-as134351,global
 108.177.128.0/22,IPv4,leaseweb-as396190,global
 108.177.136.0/21,IPv4,leaseweb-as393886,global

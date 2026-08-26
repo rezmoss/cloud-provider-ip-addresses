@@ -66,13 +66,9 @@ INSERT INTO `datadog_global_ips` (`ip_address`, `ip_type`) VALUES ('15.152.238.1
 INSERT INTO `datadog_global_ips` (`ip_address`, `ip_type`) VALUES ('15.161.86.71/32', 'IPv4');
 INSERT INTO `datadog_global_ips` (`ip_address`, `ip_type`) VALUES ('15.165.240.116/32', 'IPv4');
 INSERT INTO `datadog_global_ips` (`ip_address`, `ip_type`) VALUES ('15.168.188.85/32', 'IPv4');
-INSERT INTO `datadog_global_ips` (`ip_address`, `ip_type`) VALUES ('15.184.139.182/32', 'IPv4');
-INSERT INTO `datadog_global_ips` (`ip_address`, `ip_type`) VALUES ('15.185.189.82/32', 'IPv4');
 INSERT INTO `datadog_global_ips` (`ip_address`, `ip_type`) VALUES ('15.188.202.64/32', 'IPv4');
 INSERT INTO `datadog_global_ips` (`ip_address`, `ip_type`) VALUES ('15.188.240.172/32', 'IPv4');
 INSERT INTO `datadog_global_ips` (`ip_address`, `ip_type`) VALUES ('15.188.243.248/32', 'IPv4');
-INSERT INTO `datadog_global_ips` (`ip_address`, `ip_type`) VALUES ('16.24.38.13/32', 'IPv4');
-INSERT INTO `datadog_global_ips` (`ip_address`, `ip_type`) VALUES ('16.24.60.114/32', 'IPv4');
 INSERT INTO `datadog_global_ips` (`ip_address`, `ip_type`) VALUES ('16.162.136.62/32', 'IPv4');
 INSERT INTO `datadog_global_ips` (`ip_address`, `ip_type`) VALUES ('16.163.153.45/32', 'IPv4');
 INSERT INTO `datadog_global_ips` (`ip_address`, `ip_type`) VALUES ('18.96.16.112/29', 'IPv4');
@@ -115,6 +111,7 @@ INSERT INTO `datadog_global_ips` (`ip_address`, `ip_type`) VALUES ('34.196.179.2
 INSERT INTO `datadog_global_ips` (`ip_address`, `ip_type`) VALUES ('34.202.253.27/32', 'IPv4');
 INSERT INTO `datadog_global_ips` (`ip_address`, `ip_type`) VALUES ('34.203.1.9/32', 'IPv4');
 INSERT INTO `datadog_global_ips` (`ip_address`, `ip_type`) VALUES ('34.204.83.4/32', 'IPv4');
+INSERT INTO `datadog_global_ips` (`ip_address`, `ip_type`) VALUES ('34.206.151.68/32', 'IPv4');
 INSERT INTO `datadog_global_ips` (`ip_address`, `ip_type`) VALUES ('34.206.254.214/32', 'IPv4');
 INSERT INTO `datadog_global_ips` (`ip_address`, `ip_type`) VALUES ('34.208.32.189/32', 'IPv4');
 INSERT INTO `datadog_global_ips` (`ip_address`, `ip_type`) VALUES ('34.233.140.66/32', 'IPv4');
@@ -137,6 +134,7 @@ INSERT INTO `datadog_global_ips` (`ip_address`, `ip_type`) VALUES ('52.1.61.69/3
 INSERT INTO `datadog_global_ips` (`ip_address`, `ip_type`) VALUES ('52.9.13.199/32', 'IPv4');
 INSERT INTO `datadog_global_ips` (`ip_address`, `ip_type`) VALUES ('52.9.139.134/32', 'IPv4');
 INSERT INTO `datadog_global_ips` (`ip_address`, `ip_type`) VALUES ('52.35.61.232/32', 'IPv4');
+INSERT INTO `datadog_global_ips` (`ip_address`, `ip_type`) VALUES ('52.44.165.215/32', 'IPv4');
 INSERT INTO `datadog_global_ips` (`ip_address`, `ip_type`) VALUES ('52.44.179.207/32', 'IPv4');
 INSERT INTO `datadog_global_ips` (`ip_address`, `ip_type`) VALUES ('52.55.56.26/32', 'IPv4');
 INSERT INTO `datadog_global_ips` (`ip_address`, `ip_type`) VALUES ('52.60.189.53/32', 'IPv4');
@@ -144,6 +142,7 @@ INSERT INTO `datadog_global_ips` (`ip_address`, `ip_type`) VALUES ('52.67.95.251
 INSERT INTO `datadog_global_ips` (`ip_address`, `ip_type`) VALUES ('52.89.221.151/32', 'IPv4');
 INSERT INTO `datadog_global_ips` (`ip_address`, `ip_type`) VALUES ('52.186.167.216/29', 'IPv4');
 INSERT INTO `datadog_global_ips` (`ip_address`, `ip_type`) VALUES ('52.192.175.207/32', 'IPv4');
+INSERT INTO `datadog_global_ips` (`ip_address`, `ip_type`) VALUES ('54.82.178.194/32', 'IPv4');
 INSERT INTO `datadog_global_ips` (`ip_address`, `ip_type`) VALUES ('54.87.25.183/32', 'IPv4');
 INSERT INTO `datadog_global_ips` (`ip_address`, `ip_type`) VALUES ('54.92.248.81/32', 'IPv4');
 INSERT INTO `datadog_global_ips` (`ip_address`, `ip_type`) VALUES ('54.152.215.16/32', 'IPv4');
@@ -160,8 +159,6 @@ INSERT INTO `datadog_global_ips` (`ip_address`, `ip_type`) VALUES ('100.28.212.0
 INSERT INTO `datadog_global_ips` (`ip_address`, `ip_type`) VALUES ('107.21.25.247/32', 'IPv4');
 INSERT INTO `datadog_global_ips` (`ip_address`, `ip_type`) VALUES ('108.137.133.223/32', 'IPv4');
 INSERT INTO `datadog_global_ips` (`ip_address`, `ip_type`) VALUES ('108.137.188.57/32', 'IPv4');
-INSERT INTO `datadog_global_ips` (`ip_address`, `ip_type`) VALUES ('157.241.36.106/32', 'IPv4');
-INSERT INTO `datadog_global_ips` (`ip_address`, `ip_type`) VALUES ('157.241.93.102/32', 'IPv4');
 INSERT INTO `datadog_global_ips` (`ip_address`, `ip_type`) VALUES ('174.129.34.172/32', 'IPv4');
 INSERT INTO `datadog_global_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f18:24e6:b900::/56', 'IPv6');
 INSERT INTO `datadog_global_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f18:24e6:b900::/56', 'IPv6');
@@ -172,3 +169,4 @@ INSERT INTO `datadog_global_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f18:24
 INSERT INTO `datadog_global_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f18:24e6:b900::/56', 'IPv6');
 INSERT INTO `datadog_global_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f18:24e6:b900::/56', 'IPv6');
 INSERT INTO `datadog_global_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f18:24e6:b900::/56', 'IPv6');
+INSERT INTO `datadog_global_ips` (`ip_address`, `ip_type`) VALUES ('2607:4240:4000::/34', 'IPv6');

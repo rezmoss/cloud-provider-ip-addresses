@@ -1,6 +1,6 @@
 # salesforce IP ranges - ipset restore format (hash:net)
-# Version: 2 | Generated: 2026-08-25 | Last changed: 2026-08-21
-# IPv4: 38 merged subnets, 901120 unique IPs
+# Version: 3 | Generated: 2026-08-26 | Last changed: 2026-08-26
+# IPv4: 36 merged subnets, 835584 unique IPs
 # IPv6: 3 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
@@ -34,8 +34,6 @@ add salesforce_v4 159.92.0.0/16
 add salesforce_v4 160.8.0.0/16
 add salesforce_v4 161.32.128.0/17
 add salesforce_v4 161.71.0.0/16
-add salesforce_v4 163.76.128.0/17
-add salesforce_v4 163.79.128.0/17
 add salesforce_v4 182.50.76.0/22
 add salesforce_v4 185.79.140.0/22
 add salesforce_v4 194.145.0.0/20

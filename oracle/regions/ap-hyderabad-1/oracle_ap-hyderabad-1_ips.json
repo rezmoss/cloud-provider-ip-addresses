@@ -48,6 +48,12 @@
     "region": "ap-hyderabad-1"
   },
   {
+    "ip_address": "129.225.64.0/18",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-hyderabad-1"
+  },
+  {
     "ip_address": "132.226.176.0/21",
     "ip_type": "IPv4",
     "service": "OCI",

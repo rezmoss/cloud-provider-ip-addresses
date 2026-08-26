@@ -1,5 +1,5 @@
 # tencent IP ranges - ipset restore format (hash:net)
-# Version: 23 | Generated: 2026-08-25 | Last changed: 2026-08-25
+# Version: 24 | Generated: 2026-08-26 | Last changed: 2026-08-26
 # IPv4: 235 merged subnets, 8310272 unique IPs
 # IPv6: 18 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses

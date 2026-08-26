@@ -1,23 +1,23 @@
 {
   "provider": "salesforce",
-  "version": 2,
-  "generated_date": "2026-08-25",
-  "last_changed_date": "2026-08-21",
+  "version": 3,
+  "generated_date": "2026-08-26",
+  "last_changed_date": "2026-08-26",
   "sources": [
     "BGP announced prefixes via RIPE NCC RIPEstat"
   ],
   "ipv4": {
-    "cidrs": 56,
-    "merged_cidrs": 38,
-    "addresses": 901120
+    "cidrs": 54,
+    "merged_cidrs": 36,
+    "addresses": 835584
   },
   "ipv6": {
     "cidrs": 5,
     "merged_cidrs": 3,
     "addresses": 237684487542793012780631851008
   },
-  "total_entries": 61,
-  "content_sha256": "51eac65668b4ceaf94e8fa165a50f696572f45832bd86347ce133b00a1acc1e7",
+  "total_entries": 59,
+  "content_sha256": "84ba79e61f3471cefa62249766a1e64a71c7d8ce7c0459d269931a861d736bc7",
   "license": "CC0-1.0",
   "license_url": "https://github.com/rezmoss/cloud-provider-ip-addresses/blob/main/LICENSE"
 }

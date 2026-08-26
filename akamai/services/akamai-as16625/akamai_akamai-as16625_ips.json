@@ -8976,12 +8976,6 @@
     "region": "global"
   },
   {
-    "ip_address": "96.17.76.0/22",
-    "ip_type": "IPv4",
-    "service": "akamai-as16625",
-    "region": "global"
-  },
-  {
     "ip_address": "96.17.80.0/21",
     "ip_type": "IPv4",
     "service": "akamai-as16625",

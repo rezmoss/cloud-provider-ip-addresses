@@ -48,6 +48,8 @@ ip_address,ip_type,service,region
 57.157.25.192/31,IPv4,AzureCloud.eastus3,eastus3
 57.163.32.0/23,IPv4,AzureCloud.eastus3,eastus3
 57.163.32.0/23,IPv4,Storage.EastUS3,eastus3
+57.163.70.0/23,IPv4,AzureCloud.eastus3,eastus3
+57.163.70.0/23,IPv4,Storage.EastUS3,eastus3
 134.138.0.0/17,IPv4,AzureCloud.eastus3,eastus3
 134.138.64.16/30,IPv4,AzureBotService.EastUS3,eastus3
 134.138.64.20/30,IPv4,AzureAttestation.EastUS3,eastus3

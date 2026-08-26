@@ -13,6 +13,7 @@ INSERT INTO `oracle_me-riyadh-1_ips` (`ip_address`, `ip_type`) VALUES ('84.8.68.
 INSERT INTO `oracle_me-riyadh-1_ips` (`ip_address`, `ip_type`) VALUES ('84.8.72.0/22', 'IPv4');
 INSERT INTO `oracle_me-riyadh-1_ips` (`ip_address`, `ip_type`) VALUES ('84.8.88.128/25', 'IPv4');
 INSERT INTO `oracle_me-riyadh-1_ips` (`ip_address`, `ip_type`) VALUES ('84.8.96.0/19', 'IPv4');
+INSERT INTO `oracle_me-riyadh-1_ips` (`ip_address`, `ip_type`) VALUES ('84.13.128.0/18', 'IPv4');
 INSERT INTO `oracle_me-riyadh-1_ips` (`ip_address`, `ip_type`) VALUES ('130.110.224.0/21', 'IPv4');
 INSERT INTO `oracle_me-riyadh-1_ips` (`ip_address`, `ip_type`) VALUES ('141.253.212.0/23', 'IPv4');
 INSERT INTO `oracle_me-riyadh-1_ips` (`ip_address`, `ip_type`) VALUES ('145.241.104.0/21', 'IPv4');

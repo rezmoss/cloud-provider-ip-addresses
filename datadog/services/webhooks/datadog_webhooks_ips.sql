@@ -20,6 +20,7 @@ INSERT INTO `datadog_webhooks_ips` (`ip_address`, `ip_type`) VALUES ('34.196.179
 INSERT INTO `datadog_webhooks_ips` (`ip_address`, `ip_type`) VALUES ('34.202.253.27/32', 'IPv4');
 INSERT INTO `datadog_webhooks_ips` (`ip_address`, `ip_type`) VALUES ('34.203.1.9/32', 'IPv4');
 INSERT INTO `datadog_webhooks_ips` (`ip_address`, `ip_type`) VALUES ('34.204.83.4/32', 'IPv4');
+INSERT INTO `datadog_webhooks_ips` (`ip_address`, `ip_type`) VALUES ('34.206.151.68/32', 'IPv4');
 INSERT INTO `datadog_webhooks_ips` (`ip_address`, `ip_type`) VALUES ('34.206.254.214/32', 'IPv4');
 INSERT INTO `datadog_webhooks_ips` (`ip_address`, `ip_type`) VALUES ('34.233.140.66/32', 'IPv4');
 INSERT INTO `datadog_webhooks_ips` (`ip_address`, `ip_type`) VALUES ('34.234.13.225/32', 'IPv4');
@@ -30,7 +31,9 @@ INSERT INTO `datadog_webhooks_ips` (`ip_address`, `ip_type`) VALUES ('44.192.28.
 INSERT INTO `datadog_webhooks_ips` (`ip_address`, `ip_type`) VALUES ('44.208.124.66/32', 'IPv4');
 INSERT INTO `datadog_webhooks_ips` (`ip_address`, `ip_type`) VALUES ('52.1.33.14/32', 'IPv4');
 INSERT INTO `datadog_webhooks_ips` (`ip_address`, `ip_type`) VALUES ('52.1.61.69/32', 'IPv4');
+INSERT INTO `datadog_webhooks_ips` (`ip_address`, `ip_type`) VALUES ('52.44.165.215/32', 'IPv4');
 INSERT INTO `datadog_webhooks_ips` (`ip_address`, `ip_type`) VALUES ('52.44.179.207/32', 'IPv4');
+INSERT INTO `datadog_webhooks_ips` (`ip_address`, `ip_type`) VALUES ('54.82.178.194/32', 'IPv4');
 INSERT INTO `datadog_webhooks_ips` (`ip_address`, `ip_type`) VALUES ('54.87.25.183/32', 'IPv4');
 INSERT INTO `datadog_webhooks_ips` (`ip_address`, `ip_type`) VALUES ('54.92.248.81/32', 'IPv4');
 INSERT INTO `datadog_webhooks_ips` (`ip_address`, `ip_type`) VALUES ('54.152.215.16/32', 'IPv4');

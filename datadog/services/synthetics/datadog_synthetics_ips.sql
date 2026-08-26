@@ -51,13 +51,9 @@ INSERT INTO `datadog_synthetics_ips` (`ip_address`, `ip_type`) VALUES ('15.152.2
 INSERT INTO `datadog_synthetics_ips` (`ip_address`, `ip_type`) VALUES ('15.161.86.71/32', 'IPv4');
 INSERT INTO `datadog_synthetics_ips` (`ip_address`, `ip_type`) VALUES ('15.165.240.116/32', 'IPv4');
 INSERT INTO `datadog_synthetics_ips` (`ip_address`, `ip_type`) VALUES ('15.168.188.85/32', 'IPv4');
-INSERT INTO `datadog_synthetics_ips` (`ip_address`, `ip_type`) VALUES ('15.184.139.182/32', 'IPv4');
-INSERT INTO `datadog_synthetics_ips` (`ip_address`, `ip_type`) VALUES ('15.185.189.82/32', 'IPv4');
 INSERT INTO `datadog_synthetics_ips` (`ip_address`, `ip_type`) VALUES ('15.188.202.64/32', 'IPv4');
 INSERT INTO `datadog_synthetics_ips` (`ip_address`, `ip_type`) VALUES ('15.188.240.172/32', 'IPv4');
 INSERT INTO `datadog_synthetics_ips` (`ip_address`, `ip_type`) VALUES ('15.188.243.248/32', 'IPv4');
-INSERT INTO `datadog_synthetics_ips` (`ip_address`, `ip_type`) VALUES ('16.24.38.13/32', 'IPv4');
-INSERT INTO `datadog_synthetics_ips` (`ip_address`, `ip_type`) VALUES ('16.24.60.114/32', 'IPv4');
 INSERT INTO `datadog_synthetics_ips` (`ip_address`, `ip_type`) VALUES ('16.162.136.62/32', 'IPv4');
 INSERT INTO `datadog_synthetics_ips` (`ip_address`, `ip_type`) VALUES ('16.163.153.45/32', 'IPv4');
 INSERT INTO `datadog_synthetics_ips` (`ip_address`, `ip_type`) VALUES ('18.96.16.112/29', 'IPv4');
@@ -117,5 +113,4 @@ INSERT INTO `datadog_synthetics_ips` (`ip_address`, `ip_type`) VALUES ('99.79.87
 INSERT INTO `datadog_synthetics_ips` (`ip_address`, `ip_type`) VALUES ('107.21.25.247/32', 'IPv4');
 INSERT INTO `datadog_synthetics_ips` (`ip_address`, `ip_type`) VALUES ('108.137.133.223/32', 'IPv4');
 INSERT INTO `datadog_synthetics_ips` (`ip_address`, `ip_type`) VALUES ('108.137.188.57/32', 'IPv4');
-INSERT INTO `datadog_synthetics_ips` (`ip_address`, `ip_type`) VALUES ('157.241.36.106/32', 'IPv4');
-INSERT INTO `datadog_synthetics_ips` (`ip_address`, `ip_type`) VALUES ('157.241.93.102/32', 'IPv4');
+INSERT INTO `datadog_synthetics_ips` (`ip_address`, `ip_type`) VALUES ('2607:4240:4000::/34', 'IPv6');

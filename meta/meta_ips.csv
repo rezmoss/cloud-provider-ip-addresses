@@ -285,7 +285,6 @@ ip_address,ip_type,service,region
 157.240.196.0/24,IPv4,meta-as32934,global
 157.240.197.0/24,IPv4,meta-as32934,global
 157.240.200.0/24,IPv4,meta-as32934,global
-157.240.202.0/24,IPv4,meta-as32934,global
 157.240.203.0/24,IPv4,meta-as32934,global
 157.240.205.0/24,IPv4,meta-as32934,global
 157.240.209.0/24,IPv4,meta-as32934,global

@@ -7866,6 +7866,12 @@
     "region": "global"
   },
   {
+    "ip_address": "23.50.225.0/24",
+    "ip_type": "IPv4",
+    "service": "akamai-as20940",
+    "region": "global"
+  },
+  {
     "ip_address": "23.50.232.0/24",
     "ip_type": "IPv4",
     "service": "akamai-as20940",

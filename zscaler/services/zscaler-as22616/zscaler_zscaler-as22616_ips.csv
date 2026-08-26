@@ -153,6 +153,7 @@ ip_address,ip_type,service,region
 140.232.190.0/24,IPv4,zscaler-as22616,global
 142.195.110.0/24,IPv4,zscaler-as22616,global
 142.195.111.0/24,IPv4,zscaler-as22616,global
+146.203.254.0/24,IPv4,zscaler-as22616,global
 147.161.128.0/17,IPv4,zscaler-as22616,global
 147.161.128.0/23,IPv4,zscaler-as22616,global
 149.117.100.0/24,IPv4,zscaler-as22616,global

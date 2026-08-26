@@ -1,6 +1,6 @@
 #!/bin/bash
 # Ovhcloud IP Ranges
-# Updated: 2026-08-25 02:36:14
+# Updated: 2026-08-26 02:39:47
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -177,7 +177,6 @@ iptables -A INPUT -s 82.26.81.0/24 -j DROP
 iptables -A INPUT -s 82.26.176.0/20 -j DROP
 iptables -A INPUT -s 82.29.93.0/24 -j DROP
 iptables -A INPUT -s 82.29.126.0/24 -j DROP
-iptables -A INPUT -s 82.38.35.0/24 -j DROP
 iptables -A INPUT -s 82.38.82.0/24 -j DROP
 iptables -A INPUT -s 82.38.124.0/22 -j DROP
 iptables -A INPUT -s 82.38.140.0/22 -j DROP
@@ -257,13 +256,13 @@ iptables -A INPUT -s 89.40.83.0/24 -j DROP
 iptables -A INPUT -s 89.125.172.0/24 -j DROP
 iptables -A INPUT -s 89.126.233.0/24 -j DROP
 iptables -A INPUT -s 89.213.67.0/24 -j DROP
+iptables -A INPUT -s 89.213.119.0/24 -j DROP
 iptables -A INPUT -s 91.90.88.0/21 -j DROP
 iptables -A INPUT -s 91.121.0.0/16 -j DROP
 iptables -A INPUT -s 91.134.0.0/16 -j DROP
 iptables -A INPUT -s 91.198.19.0/24 -j DROP
 iptables -A INPUT -s 91.199.32.0/24 -j DROP
 iptables -A INPUT -s 91.199.83.0/24 -j DROP
-iptables -A INPUT -s 91.209.58.0/24 -j DROP
 iptables -A INPUT -s 91.213.192.0/24 -j DROP
 iptables -A INPUT -s 91.224.117.0/24 -j DROP
 iptables -A INPUT -s 91.246.38.0/24 -j DROP
@@ -477,6 +476,7 @@ iptables -A INPUT -s 178.92.111.0/24 -j DROP
 iptables -A INPUT -s 178.92.120.0/24 -j DROP
 iptables -A INPUT -s 178.93.247.0/24 -j DROP
 iptables -A INPUT -s 178.95.83.0/24 -j DROP
+iptables -A INPUT -s 178.95.157.0/24 -j DROP
 iptables -A INPUT -s 180.131.145.0/24 -j DROP
 iptables -A INPUT -s 181.41.194.0/24 -j DROP
 iptables -A INPUT -s 184.174.96.0/23 -j DROP
@@ -530,7 +530,6 @@ iptables -A INPUT -s 191.101.150.0/24 -j DROP
 iptables -A INPUT -s 191.101.210.0/24 -j DROP
 iptables -A INPUT -s 191.101.218.0/24 -j DROP
 iptables -A INPUT -s 192.30.124.0/24 -j DROP
-iptables -A INPUT -s 192.48.205.0/24 -j DROP
 iptables -A INPUT -s 192.65.20.0/22 -j DROP
 iptables -A INPUT -s 192.70.246.0/23 -j DROP
 iptables -A INPUT -s 192.95.0.0/18 -j DROP

@@ -292,7 +292,6 @@ INSERT INTO `meta_global_ips` (`ip_address`, `ip_type`) VALUES ('157.240.192.0/1
 INSERT INTO `meta_global_ips` (`ip_address`, `ip_type`) VALUES ('157.240.196.0/24', 'IPv4');
 INSERT INTO `meta_global_ips` (`ip_address`, `ip_type`) VALUES ('157.240.197.0/24', 'IPv4');
 INSERT INTO `meta_global_ips` (`ip_address`, `ip_type`) VALUES ('157.240.200.0/24', 'IPv4');
-INSERT INTO `meta_global_ips` (`ip_address`, `ip_type`) VALUES ('157.240.202.0/24', 'IPv4');
 INSERT INTO `meta_global_ips` (`ip_address`, `ip_type`) VALUES ('157.240.203.0/24', 'IPv4');
 INSERT INTO `meta_global_ips` (`ip_address`, `ip_type`) VALUES ('157.240.205.0/24', 'IPv4');
 INSERT INTO `meta_global_ips` (`ip_address`, `ip_type`) VALUES ('157.240.209.0/24', 'IPv4');

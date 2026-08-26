@@ -2058,7 +2058,7 @@
     "region": "switzerlandn"
   },
   {
-    "ip_address": "57.157.156.48/31",
+    "ip_address": "57.157.156.48/30",
     "ip_type": "IPv4",
     "service": "AzureCloud.switzerlandn",
     "region": "switzerlandn"

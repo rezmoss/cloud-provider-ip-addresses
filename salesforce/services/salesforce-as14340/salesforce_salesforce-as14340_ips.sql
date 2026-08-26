@@ -34,8 +34,6 @@ INSERT INTO `salesforce_salesforce-as14340_ips` (`ip_address`, `ip_type`) VALUES
 INSERT INTO `salesforce_salesforce-as14340_ips` (`ip_address`, `ip_type`) VALUES ('161.32.128.0/17', 'IPv4');
 INSERT INTO `salesforce_salesforce-as14340_ips` (`ip_address`, `ip_type`) VALUES ('161.71.0.0/17', 'IPv4');
 INSERT INTO `salesforce_salesforce-as14340_ips` (`ip_address`, `ip_type`) VALUES ('161.71.128.0/17', 'IPv4');
-INSERT INTO `salesforce_salesforce-as14340_ips` (`ip_address`, `ip_type`) VALUES ('163.76.128.0/17', 'IPv4');
-INSERT INTO `salesforce_salesforce-as14340_ips` (`ip_address`, `ip_type`) VALUES ('163.79.128.0/17', 'IPv4');
 INSERT INTO `salesforce_salesforce-as14340_ips` (`ip_address`, `ip_type`) VALUES ('182.50.76.0/22', 'IPv4');
 INSERT INTO `salesforce_salesforce-as14340_ips` (`ip_address`, `ip_type`) VALUES ('185.79.140.0/22', 'IPv4');
 INSERT INTO `salesforce_salesforce-as14340_ips` (`ip_address`, `ip_type`) VALUES ('194.145.0.0/20', 'IPv4');

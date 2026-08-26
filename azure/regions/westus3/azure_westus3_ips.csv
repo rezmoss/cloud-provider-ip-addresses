@@ -494,6 +494,7 @@ ip_address,ip_type,service,region
 57.157.11.0/27,IPv4,AzureCloud.westus3,westus3
 57.157.11.32/28,IPv4,AzureCloud.westus3,westus3
 57.157.11.48/29,IPv4,AzureCloud.westus3,westus3
+57.157.11.56/31,IPv4,AzureCloud.westus3,westus3
 57.157.11.72/29,IPv4,AzureCloud.westus3,westus3
 57.157.11.80/28,IPv4,AzureCloud.westus3,westus3
 57.157.11.96/27,IPv4,AzureCloud.westus3,westus3

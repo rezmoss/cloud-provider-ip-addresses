@@ -1,6 +1,6 @@
 #!/bin/bash
 # Oracle IP Ranges
-# Updated: 2026-07-28 03:12:24
+# Updated: 2026-08-26 02:36:53
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -40,6 +40,8 @@ iptables -A INPUT -s 82.70.248.0/21 -j ACCEPT
 iptables -A INPUT -s 84.8.96.0/19 -j ACCEPT
 iptables -A INPUT -s 84.8.128.0/19 -j ACCEPT
 iptables -A INPUT -s 84.8.216.0/21 -j ACCEPT
+iptables -A INPUT -s 84.13.64.0/18 -j ACCEPT
+iptables -A INPUT -s 84.13.128.0/18 -j ACCEPT
 iptables -A INPUT -s 84.235.160.0/19 -j ACCEPT
 iptables -A INPUT -s 84.235.208.0/20 -j ACCEPT
 iptables -A INPUT -s 84.235.224.0/19 -j ACCEPT
@@ -103,6 +105,7 @@ iptables -A INPUT -s 129.213.192.0/20 -j ACCEPT
 iptables -A INPUT -s 129.213.208.0/21 -j ACCEPT
 iptables -A INPUT -s 129.225.0.0/20 -j ACCEPT
 iptables -A INPUT -s 129.225.32.0/19 -j ACCEPT
+iptables -A INPUT -s 129.225.64.0/18 -j ACCEPT
 iptables -A INPUT -s 129.225.128.0/17 -j ACCEPT
 iptables -A INPUT -s 130.61.8.0/21 -j ACCEPT
 iptables -A INPUT -s 130.61.16.0/20 -j ACCEPT
@@ -256,6 +259,8 @@ iptables -A INPUT -s 152.69.160.0/19 -j ACCEPT
 iptables -A INPUT -s 152.69.192.0/19 -j ACCEPT
 iptables -A INPUT -s 152.69.224.0/20 -j ACCEPT
 iptables -A INPUT -s 152.70.0.0/16 -j ACCEPT
+iptables -A INPUT -s 155.181.4.0/22 -j ACCEPT
+iptables -A INPUT -s 155.181.32.0/20 -j ACCEPT
 iptables -A INPUT -s 155.248.160.0/19 -j ACCEPT
 iptables -A INPUT -s 155.248.192.0/18 -j ACCEPT
 iptables -A INPUT -s 157.137.0.0/19 -j ACCEPT

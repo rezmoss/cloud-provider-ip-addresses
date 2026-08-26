@@ -2,6 +2,64 @@
 
 Daily IP range changes across all providers.
 
+## 2026-08-26
+
+### oracle
+- Added: 5 CIDRs
+- Removed: 0 CIDRs
+
+### tor
+- Added: 18 CIDRs
+- Removed: 10 CIDRs
+
+### azure
+- Added: 654 CIDRs
+- Removed: 475 CIDRs
+
+### akamai
+- Added: 1 CIDRs
+- Removed: 1 CIDRs
+
+### zscaler
+- Added: 3 CIDRs
+- Removed: 0 CIDRs
+
+### zoho
+- Added: 2 CIDRs
+- Removed: 0 CIDRs
+
+### datadog
+- Added: 4 CIDRs
+- Removed: 6 CIDRs
+
+### aws
+- Added: 2 CIDRs
+- Removed: 1 CIDRs
+
+### gcore
+- Added: 2 CIDRs
+- Removed: 3 CIDRs
+
+### meta
+- Added: 0 CIDRs
+- Removed: 1 CIDRs
+
+### salesforce
+- Added: 0 CIDRs
+- Removed: 2 CIDRs
+
+### ovhcloud
+- Added: 2 CIDRs
+- Removed: 3 CIDRs
+
+### tencent
+- Added: 1 CIDRs
+- Removed: 0 CIDRs
+
+### leaseweb
+- Added: 1 CIDRs
+- Removed: 0 CIDRs
+
 ## 2026-08-25
 
 ### akamai

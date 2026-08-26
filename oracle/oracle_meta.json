@@ -1,23 +1,23 @@
 {
   "provider": "oracle",
-  "version": 2,
-  "generated_date": "2026-08-25",
-  "last_changed_date": "2026-07-28",
+  "version": 3,
+  "generated_date": "2026-08-26",
+  "last_changed_date": "2026-08-26",
   "sources": [
     "https://docs.oracle.com/iaas/tools/public_ip_ranges.json"
   ],
   "ipv4": {
-    "cidrs": 1102,
-    "merged_cidrs": 793,
-    "addresses": 4295690
+    "cidrs": 1107,
+    "merged_cidrs": 798,
+    "addresses": 4349962
   },
   "ipv6": {
     "cidrs": 0,
     "merged_cidrs": 0,
     "addresses": 0
   },
-  "total_entries": 1102,
-  "content_sha256": "d93bde22bed4dc875c6acdf641c158f6baf0195332d848f58e9030bb39d79f69",
+  "total_entries": 1107,
+  "content_sha256": "8e5d147d24fab0b3b50d0dc949e68ca9e6e8e2b4059237270132d47ec74069a5",
   "license": "CC0-1.0",
   "license_url": "https://github.com/rezmoss/cloud-provider-ip-addresses/blob/main/LICENSE"
 }
