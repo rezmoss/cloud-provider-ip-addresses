@@ -1734,6 +1734,30 @@
     "region": "GLOBAL"
   },
   {
+    "ip_address": "63.249.128.0/18",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "GLOBAL"
+  },
+  {
+    "ip_address": "63.249.128.0/18",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "GLOBAL"
+  },
+  {
+    "ip_address": "63.249.192.0/19",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "GLOBAL"
+  },
+  {
+    "ip_address": "63.249.192.0/19",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "GLOBAL"
+  },
+  {
     "ip_address": "64.91.192.0/19",
     "ip_type": "IPv4",
     "service": "AMAZON",

@@ -60,6 +60,7 @@ INSERT INTO `aws_efs_ips` (`ip_address`, `ip_type`) VALUES ('43.211.44.0/22', 'I
 INSERT INTO `aws_efs_ips` (`ip_address`, `ip_type`) VALUES ('51.24.164.0/22', 'IPv4');
 INSERT INTO `aws_efs_ips` (`ip_address`, `ip_type`) VALUES ('51.24.168.0/22', 'IPv4');
 INSERT INTO `aws_efs_ips` (`ip_address`, `ip_type`) VALUES ('51.72.26.128/25', 'IPv4');
+INSERT INTO `aws_efs_ips` (`ip_address`, `ip_type`) VALUES ('51.72.56.0/22', 'IPv4');
 INSERT INTO `aws_efs_ips` (`ip_address`, `ip_type`) VALUES ('54.20.104.0/22', 'IPv4');
 INSERT INTO `aws_efs_ips` (`ip_address`, `ip_type`) VALUES ('54.54.30.0/25', 'IPv4');
 INSERT INTO `aws_efs_ips` (`ip_address`, `ip_type`) VALUES ('54.54.36.0/22', 'IPv4');

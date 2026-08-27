@@ -24,12 +24,6 @@
     "region": "global"
   },
   {
-    "ip_address": "23.104.232.0/21",
-    "ip_type": "IPv4",
-    "service": "leaseweb-as394380",
-    "region": "global"
-  },
-  {
     "ip_address": "23.105.32.0/24",
     "ip_type": "IPv4",
     "service": "leaseweb-as394380",

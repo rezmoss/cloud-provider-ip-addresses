@@ -111,7 +111,6 @@ ip_address,ip_type,service,region
 169.148.144.0/24,IPv4,zoho-as56201,global
 169.148.146.0/23,IPv4,zoho-as56201,global
 169.148.148.0/23,IPv4,zoho-as56201,global
-169.148.149.0/24,IPv4,zoho-as56201,global
 169.148.150.0/24,IPv4,zoho-as56201,global
 169.148.151.0/24,IPv4,zoho-as397849,global
 169.148.152.0/23,IPv4,zoho-as397849,global
@@ -131,7 +130,6 @@ ip_address,ip_type,service,region
 169.148.188.0/24,IPv4,zoho-as205111,global
 169.148.189.0/24,IPv4,zoho-as205111,global
 185.230.212.0/23,IPv4,zoho-as205111,global
-185.230.212.0/24,IPv4,zoho-as205111,global
 185.230.213.0/24,IPv4,zoho-as205111,global
 185.230.214.0/23,IPv4,zoho-as205111,global
 185.230.214.0/24,IPv4,zoho-as205111,global

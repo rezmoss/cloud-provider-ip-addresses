@@ -1,6 +1,98 @@
 [
   {
+    "ip_address": "3.10.222.182/32",
+    "ip_type": "IPv4"
+  },
+  {
+    "ip_address": "3.11.131.95/32",
+    "ip_type": "IPv4"
+  },
+  {
+    "ip_address": "3.66.99.59/32",
+    "ip_type": "IPv4"
+  },
+  {
+    "ip_address": "3.120.200.34/32",
+    "ip_type": "IPv4"
+  },
+  {
+    "ip_address": "3.121.108.101/32",
+    "ip_type": "IPv4"
+  },
+  {
+    "ip_address": "3.125.198.20/32",
+    "ip_type": "IPv4"
+  },
+  {
+    "ip_address": "3.127.78.190/32",
+    "ip_type": "IPv4"
+  },
+  {
+    "ip_address": "3.219.128.11/32",
+    "ip_type": "IPv4"
+  },
+  {
+    "ip_address": "3.234.196.132/32",
+    "ip_type": "IPv4"
+  },
+  {
+    "ip_address": "13.41.140.26/32",
+    "ip_type": "IPv4"
+  },
+  {
+    "ip_address": "13.41.156.80/32",
+    "ip_type": "IPv4"
+  },
+  {
+    "ip_address": "13.48.152.99/32",
+    "ip_type": "IPv4"
+  },
+  {
+    "ip_address": "13.49.128.195/32",
+    "ip_type": "IPv4"
+  },
+  {
     "ip_address": "13.232.220.164/32",
+    "ip_type": "IPv4"
+  },
+  {
+    "ip_address": "13.238.73.96/32",
+    "ip_type": "IPv4"
+  },
+  {
+    "ip_address": "13.238.127.47/32",
+    "ip_type": "IPv4"
+  },
+  {
+    "ip_address": "15.157.158.165/32",
+    "ip_type": "IPv4"
+  },
+  {
+    "ip_address": "15.157.248.148/32",
+    "ip_type": "IPv4"
+  },
+  {
+    "ip_address": "18.133.153.87/32",
+    "ip_type": "IPv4"
+  },
+  {
+    "ip_address": "18.159.29.185/32",
+    "ip_type": "IPv4"
+  },
+  {
+    "ip_address": "18.169.231.220/32",
+    "ip_type": "IPv4"
+  },
+  {
+    "ip_address": "18.176.175.170/32",
+    "ip_type": "IPv4"
+  },
+  {
+    "ip_address": "18.228.82.35/32",
+    "ip_type": "IPv4"
+  },
+  {
+    "ip_address": "18.230.158.101/32",
     "ip_type": "IPv4"
   },
   {
@@ -28,11 +120,39 @@
     "ip_type": "IPv4"
   },
   {
+    "ip_address": "35.75.240.83/32",
+    "ip_type": "IPv4"
+  },
+  {
+    "ip_address": "35.76.210.156/32",
+    "ip_type": "IPv4"
+  },
+  {
+    "ip_address": "35.79.242.196/32",
+    "ip_type": "IPv4"
+  },
+  {
+    "ip_address": "35.85.117.184/32",
+    "ip_type": "IPv4"
+  },
+  {
     "ip_address": "43.225.198.122/32",
     "ip_type": "IPv4"
   },
   {
     "ip_address": "43.229.84.12/32",
+    "ip_type": "IPv4"
+  },
+  {
+    "ip_address": "44.194.39.17/32",
+    "ip_type": "IPv4"
+  },
+  {
+    "ip_address": "44.226.213.159/32",
+    "ip_type": "IPv4"
+  },
+  {
+    "ip_address": "44.240.34.6/32",
     "ip_type": "IPv4"
   },
   {
@@ -48,11 +168,39 @@
     "ip_type": "IPv4"
   },
   {
+    "ip_address": "51.20.199.140/32",
+    "ip_type": "IPv4"
+  },
+  {
+    "ip_address": "51.21.185.148/32",
+    "ip_type": "IPv4"
+  },
+  {
     "ip_address": "52.0.204.16/32",
     "ip_type": "IPv4"
   },
   {
+    "ip_address": "52.5.245.15/32",
+    "ip_type": "IPv4"
+  },
+  {
+    "ip_address": "52.13.171.123/32",
+    "ip_type": "IPv4"
+  },
+  {
+    "ip_address": "52.21.31.140/32",
+    "ip_type": "IPv4"
+  },
+  {
     "ip_address": "52.24.42.103/32",
+    "ip_type": "IPv4"
+  },
+  {
+    "ip_address": "52.34.250.64/32",
+    "ip_type": "IPv4"
+  },
+  {
+    "ip_address": "52.37.65.41/32",
     "ip_type": "IPv4"
   },
   {
@@ -84,6 +232,14 @@
     "ip_type": "IPv4"
   },
   {
+    "ip_address": "52.60.62.239/32",
+    "ip_type": "IPv4"
+  },
+  {
+    "ip_address": "52.60.154.13/32",
+    "ip_type": "IPv4"
+  },
+  {
     "ip_address": "52.62.12.49/32",
     "ip_type": "IPv4"
   },
@@ -97,6 +253,10 @@
   },
   {
     "ip_address": "52.63.167.55/32",
+    "ip_type": "IPv4"
+  },
+  {
+    "ip_address": "52.65.247.85/32",
     "ip_type": "IPv4"
   },
   {
@@ -144,6 +304,10 @@
     "ip_type": "IPv4"
   },
   {
+    "ip_address": "54.65.106.94/32",
+    "ip_type": "IPv4"
+  },
+  {
     "ip_address": "54.68.48.199/32",
     "ip_type": "IPv4"
   },
@@ -152,7 +316,31 @@
     "ip_type": "IPv4"
   },
   {
+    "ip_address": "54.79.157.219/32",
+    "ip_type": "IPv4"
+  },
+  {
+    "ip_address": "54.79.202.123/32",
+    "ip_type": "IPv4"
+  },
+  {
+    "ip_address": "54.94.28.109/32",
+    "ip_type": "IPv4"
+  },
+  {
+    "ip_address": "54.94.182.182/32",
+    "ip_type": "IPv4"
+  },
+  {
     "ip_address": "54.94.206.111/32",
+    "ip_type": "IPv4"
+  },
+  {
+    "ip_address": "54.94.238.198/32",
+    "ip_type": "IPv4"
+  },
+  {
+    "ip_address": "54.153.170.200/32",
     "ip_type": "IPv4"
   },
   {
@@ -177,6 +365,10 @@
   },
   {
     "ip_address": "72.46.131.10/32",
+    "ip_type": "IPv4"
+  },
+  {
+    "ip_address": "75.101.131.114/32",
     "ip_type": "IPv4"
   },
   {
@@ -300,7 +492,15 @@
     "ip_type": "IPv4"
   },
   {
+    "ip_address": "176.34.7.155/32",
+    "ip_type": "IPv4"
+  },
+  {
     "ip_address": "177.47.99.26/32",
+    "ip_type": "IPv4"
+  },
+  {
+    "ip_address": "177.71.158.135/32",
     "ip_type": "IPv4"
   },
   {

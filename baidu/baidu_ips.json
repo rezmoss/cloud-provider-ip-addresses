@@ -582,6 +582,12 @@
     "region": "global"
   },
   {
+    "ip_address": "156.246.32.0/19",
+    "ip_type": "IPv4",
+    "service": "baidu-as55967",
+    "region": "global"
+  },
+  {
     "ip_address": "180.76.0.0/20",
     "ip_type": "IPv4",
     "service": "baidu-as55967",

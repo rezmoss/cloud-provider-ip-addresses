@@ -1,6 +1,6 @@
 #!/bin/bash
 # Googleservices IP Ranges
-# Updated: 2026-08-15 02:27:48
+# Updated: 2026-08-27 03:54:48
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -244,11 +244,42 @@ iptables -A INPUT -s 136.121.8.0/21 -j ACCEPT
 iptables -A INPUT -s 136.124.0.0/15 -j ACCEPT
 iptables -A INPUT -s 142.250.0.0/15 -j ACCEPT
 iptables -A INPUT -s 146.148.0.0/23 -j ACCEPT
+iptables -A INPUT -s 152.238.0.0/16 -j ACCEPT
+iptables -A INPUT -s 152.239.128.0/17 -j ACCEPT
 iptables -A INPUT -s 162.120.128.0/17 -j ACCEPT
 iptables -A INPUT -s 172.110.32.0/21 -j ACCEPT
 iptables -A INPUT -s 172.217.0.0/16 -j ACCEPT
 iptables -A INPUT -s 172.253.0.0/16 -j ACCEPT
 iptables -A INPUT -s 173.194.0.0/16 -j ACCEPT
+iptables -A INPUT -s 177.176.0.0/16 -j ACCEPT
+iptables -A INPUT -s 177.178.0.0/15 -j ACCEPT
+iptables -A INPUT -s 177.208.0.0/15 -j ACCEPT
+iptables -A INPUT -s 179.67.0.0/17 -j ACCEPT
+iptables -A INPUT -s 179.69.128.0/17 -j ACCEPT
+iptables -A INPUT -s 179.193.128.0/17 -j ACCEPT
+iptables -A INPUT -s 179.199.0.0/17 -j ACCEPT
+iptables -A INPUT -s 186.242.0.0/17 -j ACCEPT
+iptables -A INPUT -s 186.245.0.0/16 -j ACCEPT
+iptables -A INPUT -s 187.78.0.0/17 -j ACCEPT
+iptables -A INPUT -s 187.79.0.0/17 -j ACCEPT
+iptables -A INPUT -s 187.126.128.0/17 -j ACCEPT
+iptables -A INPUT -s 189.24.128.0/17 -j ACCEPT
+iptables -A INPUT -s 189.48.0.0/16 -j ACCEPT
+iptables -A INPUT -s 189.49.128.0/17 -j ACCEPT
+iptables -A INPUT -s 189.70.0.0/15 -j ACCEPT
+iptables -A INPUT -s 189.82.0.0/15 -j ACCEPT
+iptables -A INPUT -s 189.105.128.0/17 -j ACCEPT
+iptables -A INPUT -s 189.106.0.0/15 -j ACCEPT
+iptables -A INPUT -s 191.0.128.0/17 -j ACCEPT
+iptables -A INPUT -s 191.2.0.0/15 -j ACCEPT
+iptables -A INPUT -s 191.40.128.0/17 -j ACCEPT
+iptables -A INPUT -s 191.44.128.0/17 -j ACCEPT
+iptables -A INPUT -s 191.45.128.0/17 -j ACCEPT
+iptables -A INPUT -s 191.46.0.0/15 -j ACCEPT
+iptables -A INPUT -s 191.212.0.0/15 -j ACCEPT
+iptables -A INPUT -s 191.216.128.0/17 -j ACCEPT
+iptables -A INPUT -s 191.218.0.0/17 -j ACCEPT
+iptables -A INPUT -s 191.220.0.0/15 -j ACCEPT
 iptables -A INPUT -s 192.104.160.0/23 -j ACCEPT
 iptables -A INPUT -s 192.178.0.0/15 -j ACCEPT
 iptables -A INPUT -s 193.186.4.0/24 -j ACCEPT

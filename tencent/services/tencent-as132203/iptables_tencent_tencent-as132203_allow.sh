@@ -1,6 +1,6 @@
 #!/bin/bash
 # Tencent IP Ranges
-# Updated: 2026-08-25 02:36:04
+# Updated: 2026-08-27 03:59:50
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -19,7 +19,6 @@ iptables -A INPUT -s 43.130.224.0/19 -j ACCEPT
 iptables -A INPUT -s 43.131.0.0/18 -j ACCEPT
 iptables -A INPUT -s 43.131.224.0/19 -j ACCEPT
 iptables -A INPUT -s 43.132.0.0/18 -j ACCEPT
-iptables -A INPUT -s 43.132.68.0/24 -j ACCEPT
 iptables -A INPUT -s 43.132.96.0/19 -j ACCEPT
 iptables -A INPUT -s 43.132.128.0/17 -j ACCEPT
 iptables -A INPUT -s 43.133.0.0/16 -j ACCEPT
@@ -147,6 +146,7 @@ iptables -A INPUT -s 162.62.244.0/22 -j ACCEPT
 iptables -A INPUT -s 162.62.248.0/23 -j ACCEPT
 iptables -A INPUT -s 162.62.250.0/24 -j ACCEPT
 iptables -A INPUT -s 162.62.252.0/23 -j ACCEPT
+iptables -A INPUT -s 162.62.254.0/24 -j ACCEPT
 iptables -A INPUT -s 170.106.0.0/17 -j ACCEPT
 iptables -A INPUT -s 170.106.128.0/18 -j ACCEPT
 iptables -A INPUT -s 170.106.192.0/20 -j ACCEPT
@@ -183,7 +183,7 @@ ip6tables -A INPUT -s 240d:c000:f1c0::/43 -j ACCEPT
 ip6tables -A INPUT -s 240d:c000:f1f0::/44 -j ACCEPT
 ip6tables -A INPUT -s 240d:c010:16::/48 -j ACCEPT
 ip6tables -A INPUT -s 240d:c010:20::/44 -j ACCEPT
-ip6tables -A INPUT -s 240d:c010:30::/47 -j ACCEPT
+ip6tables -A INPUT -s 240d:c010:31::/48 -j ACCEPT
 ip6tables -A INPUT -s 240d:c010:58::/48 -j ACCEPT
 ip6tables -A INPUT -s 240d:c010:5c::/48 -j ACCEPT
 ip6tables -A INPUT -s 240d:c010:68::/48 -j ACCEPT

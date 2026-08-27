@@ -1,6 +1,6 @@
 # Meta (Facebook / Instagram / WhatsApp) IP Ranges (Auto-Updated Daily)
 
-> Last updated: **2026-08-26** · Total CIDRs: **766** · IPv4: **342** · IPv6: **424** · Services: **3** · Regions: **1**
+> Last updated: **2026-08-27** · Total CIDRs: **768** · IPv4: **343** · IPv6: **425** · Services: **3** · Regions: **1**
 
 Machine-readable, daily-updated, validated public IP ranges for **Meta (Facebook / Instagram / WhatsApp)**.
 Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and Apache.

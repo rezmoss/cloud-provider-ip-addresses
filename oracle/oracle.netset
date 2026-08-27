@@ -1,5 +1,5 @@
 # oracle IP ranges - ipset restore format (hash:net)
-# Version: 3 | Generated: 2026-08-26 | Last changed: 2026-08-26
+# Version: 3 | Generated: 2026-08-27 | Last changed: 2026-08-26
 # IPv4: 798 merged subnets, 4349962 unique IPs
 # IPv6: 0 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses

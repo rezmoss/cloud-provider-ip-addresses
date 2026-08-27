@@ -1,6 +1,6 @@
 #!/bin/bash
 # Googleservices IP Ranges
-# Updated: 2026-08-15 02:27:48
+# Updated: 2026-08-27 03:54:48
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -244,11 +244,42 @@ ufw allow from 136.121.8.0/21
 ufw allow from 136.124.0.0/15
 ufw allow from 142.250.0.0/15
 ufw allow from 146.148.0.0/23
+ufw allow from 152.238.0.0/16
+ufw allow from 152.239.128.0/17
 ufw allow from 162.120.128.0/17
 ufw allow from 172.110.32.0/21
 ufw allow from 172.217.0.0/16
 ufw allow from 172.253.0.0/16
 ufw allow from 173.194.0.0/16
+ufw allow from 177.176.0.0/16
+ufw allow from 177.178.0.0/15
+ufw allow from 177.208.0.0/15
+ufw allow from 179.67.0.0/17
+ufw allow from 179.69.128.0/17
+ufw allow from 179.193.128.0/17
+ufw allow from 179.199.0.0/17
+ufw allow from 186.242.0.0/17
+ufw allow from 186.245.0.0/16
+ufw allow from 187.78.0.0/17
+ufw allow from 187.79.0.0/17
+ufw allow from 187.126.128.0/17
+ufw allow from 189.24.128.0/17
+ufw allow from 189.48.0.0/16
+ufw allow from 189.49.128.0/17
+ufw allow from 189.70.0.0/15
+ufw allow from 189.82.0.0/15
+ufw allow from 189.105.128.0/17
+ufw allow from 189.106.0.0/15
+ufw allow from 191.0.128.0/17
+ufw allow from 191.2.0.0/15
+ufw allow from 191.40.128.0/17
+ufw allow from 191.44.128.0/17
+ufw allow from 191.45.128.0/17
+ufw allow from 191.46.0.0/15
+ufw allow from 191.212.0.0/15
+ufw allow from 191.216.128.0/17
+ufw allow from 191.218.0.0/17
+ufw allow from 191.220.0.0/15
 ufw allow from 192.104.160.0/23
 ufw allow from 192.178.0.0/15
 ufw allow from 193.186.4.0/24

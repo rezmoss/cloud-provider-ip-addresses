@@ -123,7 +123,6 @@ INSERT INTO `tencent_ips` (`ip_address`, `ip_type`) VALUES ('43.132.48.0/22', 'I
 INSERT INTO `tencent_ips` (`ip_address`, `ip_type`) VALUES ('43.132.52.0/22', 'IPv4');
 INSERT INTO `tencent_ips` (`ip_address`, `ip_type`) VALUES ('43.132.56.0/22', 'IPv4');
 INSERT INTO `tencent_ips` (`ip_address`, `ip_type`) VALUES ('43.132.60.0/22', 'IPv4');
-INSERT INTO `tencent_ips` (`ip_address`, `ip_type`) VALUES ('43.132.68.0/24', 'IPv4');
 INSERT INTO `tencent_ips` (`ip_address`, `ip_type`) VALUES ('43.132.96.0/19', 'IPv4');
 INSERT INTO `tencent_ips` (`ip_address`, `ip_type`) VALUES ('43.132.105.0/24', 'IPv4');
 INSERT INTO `tencent_ips` (`ip_address`, `ip_type`) VALUES ('43.132.128.0/18', 'IPv4');
@@ -2913,6 +2912,7 @@ INSERT INTO `tencent_ips` (`ip_address`, `ip_type`) VALUES ('162.62.249.0/24', '
 INSERT INTO `tencent_ips` (`ip_address`, `ip_type`) VALUES ('162.62.250.0/24', 'IPv4');
 INSERT INTO `tencent_ips` (`ip_address`, `ip_type`) VALUES ('162.62.252.0/24', 'IPv4');
 INSERT INTO `tencent_ips` (`ip_address`, `ip_type`) VALUES ('162.62.253.0/24', 'IPv4');
+INSERT INTO `tencent_ips` (`ip_address`, `ip_type`) VALUES ('162.62.254.0/24', 'IPv4');
 INSERT INTO `tencent_ips` (`ip_address`, `ip_type`) VALUES ('170.106.0.0/19', 'IPv4');
 INSERT INTO `tencent_ips` (`ip_address`, `ip_type`) VALUES ('170.106.0.0/23', 'IPv4');
 INSERT INTO `tencent_ips` (`ip_address`, `ip_type`) VALUES ('170.106.2.0/23', 'IPv4');
@@ -3431,7 +3431,6 @@ INSERT INTO `tencent_ips` (`ip_address`, `ip_type`) VALUES ('240d:c000:f1d0::/44
 INSERT INTO `tencent_ips` (`ip_address`, `ip_type`) VALUES ('240d:c000:f1f0::/44', 'IPv6');
 INSERT INTO `tencent_ips` (`ip_address`, `ip_type`) VALUES ('240d:c010:16::/48', 'IPv6');
 INSERT INTO `tencent_ips` (`ip_address`, `ip_type`) VALUES ('240d:c010:20::/44', 'IPv6');
-INSERT INTO `tencent_ips` (`ip_address`, `ip_type`) VALUES ('240d:c010:30::/48', 'IPv6');
 INSERT INTO `tencent_ips` (`ip_address`, `ip_type`) VALUES ('240d:c010:31::/48', 'IPv6');
 INSERT INTO `tencent_ips` (`ip_address`, `ip_type`) VALUES ('240d:c010:58::/48', 'IPv6');
 INSERT INTO `tencent_ips` (`ip_address`, `ip_type`) VALUES ('240d:c010:5c::/48', 'IPv6');

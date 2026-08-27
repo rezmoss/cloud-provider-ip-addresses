@@ -64,6 +64,8 @@ INSERT INTO `aws_us-south-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f00:80
 INSERT INTO `aws_us-south-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f00:800::/64', 'IPv6');
 INSERT INTO `aws_us-south-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f10:8000::/36', 'IPv6');
 INSERT INTO `aws_us-south-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f10:8000::/36', 'IPv6');
+INSERT INTO `aws_us-south-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f11:2000::/36', 'IPv6');
+INSERT INTO `aws_us-south-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f11:2000::/36', 'IPv6');
 INSERT INTO `aws_us-south-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f12:2000::/36', 'IPv6');
 INSERT INTO `aws_us-south-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f12:2000::/36', 'IPv6');
 INSERT INTO `aws_us-south-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f1a:2000::/36', 'IPv6');

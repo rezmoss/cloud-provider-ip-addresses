@@ -170,12 +170,6 @@ INSERT INTO `aws_ca-central-1_ips` (`ip_address`, `ip_type`) VALUES ('52.144.199
 INSERT INTO `aws_ca-central-1_ips` (`ip_address`, `ip_type`) VALUES ('52.144.201.64/26', 'IPv4');
 INSERT INTO `aws_ca-central-1_ips` (`ip_address`, `ip_type`) VALUES ('52.144.201.128/26', 'IPv4');
 INSERT INTO `aws_ca-central-1_ips` (`ip_address`, `ip_type`) VALUES ('54.239.1.0/28', 'IPv4');
-INSERT INTO `aws_ca-central-1_ips` (`ip_address`, `ip_type`) VALUES ('63.249.201.0/24', 'IPv4');
-INSERT INTO `aws_ca-central-1_ips` (`ip_address`, `ip_type`) VALUES ('63.249.201.0/24', 'IPv4');
-INSERT INTO `aws_ca-central-1_ips` (`ip_address`, `ip_type`) VALUES ('63.249.202.0/24', 'IPv4');
-INSERT INTO `aws_ca-central-1_ips` (`ip_address`, `ip_type`) VALUES ('63.249.202.0/24', 'IPv4');
-INSERT INTO `aws_ca-central-1_ips` (`ip_address`, `ip_type`) VALUES ('63.249.203.0/24', 'IPv4');
-INSERT INTO `aws_ca-central-1_ips` (`ip_address`, `ip_type`) VALUES ('63.249.203.0/24', 'IPv4');
 INSERT INTO `aws_ca-central-1_ips` (`ip_address`, `ip_type`) VALUES ('64.23.0.0/18', 'IPv4');
 INSERT INTO `aws_ca-central-1_ips` (`ip_address`, `ip_type`) VALUES ('64.23.0.0/18', 'IPv4');
 INSERT INTO `aws_ca-central-1_ips` (`ip_address`, `ip_type`) VALUES ('64.66.149.0/24', 'IPv4');
@@ -219,6 +213,8 @@ INSERT INTO `aws_ca-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f11:
 INSERT INTO `aws_ca-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f11:ae3:700::/56', 'IPv6');
 INSERT INTO `aws_ca-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f11:c0a:c700::/56', 'IPv6');
 INSERT INTO `aws_ca-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f11:e4a:df00::/56', 'IPv6');
+INSERT INTO `aws_ca-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f1e:2000::/36', 'IPv6');
+INSERT INTO `aws_ca-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f1e:2000::/36', 'IPv6');
 INSERT INTO `aws_ca-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f1e:4000::/36', 'IPv6');
 INSERT INTO `aws_ca-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f1e:4000::/36', 'IPv6');
 INSERT INTO `aws_ca-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f21::/36', 'IPv6');

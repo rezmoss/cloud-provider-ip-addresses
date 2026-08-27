@@ -1998,42 +1998,6 @@
     "region": "eu-west-2"
   },
   {
-    "ip_address": "63.249.176.0/24",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "eu-west-2"
-  },
-  {
-    "ip_address": "63.249.176.0/24",
-    "ip_type": "IPv4",
-    "service": "EC2",
-    "region": "eu-west-2"
-  },
-  {
-    "ip_address": "63.249.177.0/24",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "eu-west-2"
-  },
-  {
-    "ip_address": "63.249.177.0/24",
-    "ip_type": "IPv4",
-    "service": "EC2",
-    "region": "eu-west-2"
-  },
-  {
-    "ip_address": "63.249.178.0/24",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "eu-west-2"
-  },
-  {
-    "ip_address": "63.249.178.0/24",
-    "ip_type": "IPv4",
-    "service": "EC2",
-    "region": "eu-west-2"
-  },
-  {
     "ip_address": "64.66.160.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",

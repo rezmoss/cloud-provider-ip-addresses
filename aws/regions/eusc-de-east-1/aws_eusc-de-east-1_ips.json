@@ -234,6 +234,12 @@
     "region": "eusc-de-east-1"
   },
   {
+    "ip_address": "51.72.56.0/22",
+    "ip_type": "IPv4",
+    "service": "EFS",
+    "region": "eusc-de-east-1"
+  },
+  {
     "ip_address": "51.74.0.0/20",
     "ip_type": "IPv4",
     "service": "AMAZON",
