@@ -1,6 +1,6 @@
 #!/bin/bash
 # Zscaler IP Ranges
-# Updated: 2026-08-26 02:42:17
+# Updated: 2026-08-28 04:57:50
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -145,8 +145,10 @@ ip6tables -A INPUT -s 2605:4300:3700::/40 -j ACCEPT
 ip6tables -A INPUT -s 2605:4300:3800::/40 -j ACCEPT
 ip6tables -A INPUT -s 2605:4300:3a00::/40 -j ACCEPT
 ip6tables -A INPUT -s 2605:4300:3c01::/48 -j ACCEPT
+ip6tables -A INPUT -s 2605:4300:3d00::/40 -j ACCEPT
 ip6tables -A INPUT -s 2605:4300:e200::/39 -j ACCEPT
 ip6tables -A INPUT -s 2605:4300:e400::/39 -j ACCEPT
+ip6tables -A INPUT -s 2605:4300:e700::/40 -j ACCEPT
 ip6tables -A INPUT -s 2605:4300:fe00::/47 -j ACCEPT
 ip6tables -A INPUT -s 2605:4300:ff00::/40 -j ACCEPT
 ip6tables -A INPUT -s 2a03:eec0:3210::/46 -j ACCEPT

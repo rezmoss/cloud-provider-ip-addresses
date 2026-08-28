@@ -1,6 +1,6 @@
 # backblaze IP ranges - ipset restore format (hash:net)
-# Version: 3 | Generated: 2026-08-27 | Last changed: 2026-07-18
-# IPv4: 10 merged subnets, 8960 unique IPs
+# Version: 4 | Generated: 2026-08-28 | Last changed: 2026-08-28
+# IPv4: 8 merged subnets, 9216 unique IPs
 # IPv6: 16 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
@@ -10,9 +10,7 @@ create backblaze_v4 hash:net family inet hashsize 4096 maxelem 1048576 -exist
 flush backblaze_v4
 add backblaze_v4 23.144.80.0/24
 add backblaze_v4 45.11.36.0/22
-add backblaze_v4 104.153.232.0/22
-add backblaze_v4 104.153.236.0/23
-add backblaze_v4 104.153.238.0/24
+add backblaze_v4 104.153.232.0/21
 add backblaze_v4 149.137.128.0/21
 add backblaze_v4 149.137.136.0/22
 add backblaze_v4 149.137.140.0/23

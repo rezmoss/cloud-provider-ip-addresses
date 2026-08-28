@@ -9,6 +9,7 @@ ip_address,ip_type,service,region
 104.153.236.0/24,IPv4,backblaze-as40401,global
 104.153.237.0/24,IPv4,backblaze-as40401,global
 104.153.238.0/24,IPv4,backblaze-as40401,global
+104.153.239.0/24,IPv4,backblaze-as40401,global
 149.137.128.0/23,IPv4,backblaze-as40401,global
 149.137.130.0/23,IPv4,backblaze-as40401,global
 149.137.132.0/23,IPv4,backblaze-as40401,global

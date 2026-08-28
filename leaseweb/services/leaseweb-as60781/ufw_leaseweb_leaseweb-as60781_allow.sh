@@ -1,6 +1,6 @@
 #!/bin/bash
 # Leaseweb IP Ranges
-# Updated: 2026-08-25 02:37:41
+# Updated: 2026-08-28 04:57:40
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -337,7 +337,6 @@ ufw allow from 2a04:88c0::/30
 ufw allow from 2a05:35c0::/29
 ufw allow from 2a05:3f40::/29
 ufw allow from 2a06:1180:2::/48
-ufw allow from 2a06:1180:100::/48
 ufw allow from 2a06:1181:11::/48
 ufw allow from 2a06:1184:66::/48
 ufw allow from 2a06:1184:acab::/48
@@ -346,7 +345,6 @@ ufw allow from 2a06:a5c0::/29
 ufw allow from 2a06:ab00::/32
 ufw allow from 2a09:17c0:33::/48
 ufw allow from 2a09:17c0:acab::/48
-ufw allow from 2a09:17c1:1::/48
 ufw allow from 2a09:17c1:22::/48
 ufw allow from 2a09:17c1:33::/48
 ufw allow from 2a09:7300::/29
@@ -362,7 +360,6 @@ ufw allow from 2a0a:2d06:88::/48
 ufw allow from 2a0b:b740::/29
 ufw allow from 2a0c:7881:1312::/48
 ufw allow from 2a0c:7881:aa23::/48
-ufw allow from 2a0c:7883:1::/48
 ufw allow from 2a0c:7885:1::/48
 ufw allow from 2a0c:7886:44::/48
 ufw allow from 2a0c:7887::/32
@@ -386,10 +383,8 @@ ufw allow from 2a0e:f603:b::/48
 ufw allow from 2a0f:1206:22::/48
 ufw allow from 2a0f:19c0::/29
 ufw allow from 2a0f:1ac0::/29
-ufw allow from 2a0f:1e06::/32
 ufw allow from 2a0f:2700:1::/48
 ufw allow from 2a0f:2700:2::/48
-ufw allow from 2a0f:2705::/32
 ufw allow from 2a0f:2707::/32
 ufw allow from 2a0f:3d86:22::/48
 ufw allow from 2a0f:3d86:66::/48
@@ -429,7 +424,6 @@ ufw allow from 2a10:68c0::/32
 ufw allow from 2a10:68c7::/32
 ufw allow from 2a10:b5c1::/32
 ufw allow from 2a11:1c40::/29
-ufw allow from 2a12:ac43:1::/48
 ufw allow from 2a12:ac43:11::/48
 ufw allow from 2a12:ac46:33::/48
 ufw allow from 2a12:ac46:66::/48
@@ -442,7 +436,6 @@ ufw allow from 2a13:d40:1::/48
 ufw allow from 2a13:d40:2::/48
 ufw allow from 2a13:d45::/32
 ufw allow from 2a13:d46::/32
-ufw allow from 2a13:18c5:1::/48
 ufw allow from 2a13:18c6:a::/48
 ufw allow from 2a13:18c6:11::/48
 ufw allow from 2a13:2fc0::/29
@@ -451,7 +444,6 @@ ufw allow from 2a13:8c86:33::/48
 ufw allow from 2a13:8c86:44::/48
 ufw allow from 2a13:8c86:55::/48
 ufw allow from 2a13:8c86:66::/48
-ufw allow from 2a13:c900:24f::/48
 ufw allow from 2a13:c905::/32
 ufw allow from 2a13:c906::/31
 ufw allow from 2a13:e107:a::/48

@@ -17,6 +17,7 @@ INSERT INTO `backblaze_global_ips` (`ip_address`, `ip_type`) VALUES ('104.153.23
 INSERT INTO `backblaze_global_ips` (`ip_address`, `ip_type`) VALUES ('104.153.236.0/24', 'IPv4');
 INSERT INTO `backblaze_global_ips` (`ip_address`, `ip_type`) VALUES ('104.153.237.0/24', 'IPv4');
 INSERT INTO `backblaze_global_ips` (`ip_address`, `ip_type`) VALUES ('104.153.238.0/24', 'IPv4');
+INSERT INTO `backblaze_global_ips` (`ip_address`, `ip_type`) VALUES ('104.153.239.0/24', 'IPv4');
 INSERT INTO `backblaze_global_ips` (`ip_address`, `ip_type`) VALUES ('149.137.128.0/23', 'IPv4');
 INSERT INTO `backblaze_global_ips` (`ip_address`, `ip_type`) VALUES ('149.137.130.0/23', 'IPv4');
 INSERT INTO `backblaze_global_ips` (`ip_address`, `ip_type`) VALUES ('149.137.132.0/23', 'IPv4');

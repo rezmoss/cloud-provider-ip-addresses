@@ -654,6 +654,8 @@ ip_address,ip_type,service,region
 2600:1f61:6000::/40,IPv6,AMAZON,us-east-2
 2600:1f61:6000::/40,IPv6,EC2,us-east-2
 2600:1f61:6000::/40,IPv6,S3,us-east-2
+2600:1f6a:4c00::/46,IPv6,AMAZON,us-east-2
+2600:1f6a:4c00::/46,IPv6,EC2,us-east-2
 2600:1f70:6000::/40,IPv6,AMAZON,us-east-2
 2600:1f70:6000::/40,IPv6,EC2,us-east-2
 2600:1f70:6000::/56,IPv6,AMAZON,us-east-2

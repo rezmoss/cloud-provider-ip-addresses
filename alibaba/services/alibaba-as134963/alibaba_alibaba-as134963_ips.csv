@@ -245,5 +245,4 @@ ip_address,ip_type,service,region
 209.146.119.0/24,IPv4,alibaba-as134963,global
 2401:8680:4004::/46,IPv6,alibaba-as134963,global
 2401:8680:4101::/48,IPv6,alibaba-as134963,global
-2401:8680:4102::/48,IPv6,alibaba-as134963,global
 240b:4002:1010::/48,IPv6,alibaba-as134963,global

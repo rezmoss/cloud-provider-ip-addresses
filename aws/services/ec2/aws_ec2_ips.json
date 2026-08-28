@@ -516,6 +516,12 @@
     "region": "ap-southeast-6"
   },
   {
+    "ip_address": "3.2.103.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "3.3.2.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -15394,6 +15400,12 @@
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "sa-west-1"
+  },
+  {
+    "ip_address": "2600:1f6a:4c00::/46",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-east-2"
   },
   {
     "ip_address": "2600:1f70:800::/40",

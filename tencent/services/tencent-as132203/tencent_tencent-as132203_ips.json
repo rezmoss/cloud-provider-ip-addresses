@@ -6732,12 +6732,6 @@
     "region": "global"
   },
   {
-    "ip_address": "240d:c010:31::/48",
-    "ip_type": "IPv6",
-    "service": "tencent-as132203",
-    "region": "global"
-  },
-  {
     "ip_address": "240d:c010:58::/48",
     "ip_type": "IPv6",
     "service": "tencent-as132203",

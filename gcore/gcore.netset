@@ -1,7 +1,7 @@
 # gcore IP ranges - ipset restore format (hash:net)
-# Version: 30 | Generated: 2026-08-27 | Last changed: 2026-08-26
-# IPv4: 564 merged subnets, 982 unique IPs
-# IPv6: 465 merged subnets
+# Version: 31 | Generated: 2026-08-28 | Last changed: 2026-08-28
+# IPv4: 560 merged subnets, 978 unique IPs
+# IPv6: 461 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
 # Load with: sudo ipset restore -! < gcore.netset
@@ -120,10 +120,6 @@ add gcore_v4 80.15.245.3/32
 add gcore_v4 80.15.245.5/32
 add gcore_v4 80.15.245.13/32
 add gcore_v4 80.15.245.15/32
-add gcore_v4 80.15.246.1/32
-add gcore_v4 80.15.246.3/32
-add gcore_v4 80.15.246.13/32
-add gcore_v4 80.15.246.15/32
 add gcore_v4 80.15.247.5/32
 add gcore_v4 80.15.247.17/32
 add gcore_v4 80.15.248.1/32
@@ -686,10 +682,6 @@ add gcore_v6 2a01:c9c0:c016::3/128
 add gcore_v6 2a01:c9c0:c016::5/128
 add gcore_v6 2a01:c9c0:c016:100::1/128
 add gcore_v6 2a01:c9c0:c016:100::3/128
-add gcore_v6 2a01:c9c0:c018::1/128
-add gcore_v6 2a01:c9c0:c018::3/128
-add gcore_v6 2a01:c9c0:c018:100::1/128
-add gcore_v6 2a01:c9c0:c018:100::3/128
 add gcore_v6 2a01:c9c0:c01a::5/128
 add gcore_v6 2a01:c9c0:c01c::1/128
 add gcore_v6 2a01:c9c0:c01c::3/128

@@ -1,13 +1,13 @@
 {
   "provider": "yandex",
-  "version": 7,
-  "generated_date": "2026-08-27",
-  "last_changed_date": "2026-08-13",
+  "version": 8,
+  "generated_date": "2026-08-28",
+  "last_changed_date": "2026-08-28",
   "sources": [
     "BGP announced prefixes via RIPE NCC RIPEstat"
   ],
   "ipv4": {
-    "cidrs": 122,
+    "cidrs": 121,
     "merged_cidrs": 62,
     "addresses": 420864
   },
@@ -16,8 +16,8 @@
     "merged_cidrs": 5,
     "addresses": 871531548321660776854128164864
   },
-  "total_entries": 151,
-  "content_sha256": "352300f529fd1f499b7f81b5bbb4aac316015c09f3e7db8b5ed81081b3e702e2",
+  "total_entries": 150,
+  "content_sha256": "8fa1dbb6f24cb7316386d88422f88a81a03fc6a383cf3e4fb81c02e9a2eafca9",
   "license": "CC0-1.0",
   "license_url": "https://github.com/rezmoss/cloud-provider-ip-addresses/blob/main/LICENSE"
 }

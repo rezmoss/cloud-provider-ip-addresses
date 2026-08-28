@@ -11,6 +11,7 @@ INSERT INTO `vultr_us-ga_ips` (`ip_address`, `ip_type`) VALUES ('45.63.44.0/24',
 INSERT INTO `vultr_us-ga_ips` (`ip_address`, `ip_type`) VALUES ('45.63.46.0/23', 'IPv4');
 INSERT INTO `vultr_us-ga_ips` (`ip_address`, `ip_type`) VALUES ('45.76.60.0/22', 'IPv4');
 INSERT INTO `vultr_us-ga_ips` (`ip_address`, `ip_type`) VALUES ('45.76.248.0/21', 'IPv4');
+INSERT INTO `vultr_us-ga_ips` (`ip_address`, `ip_type`) VALUES ('64.177.40.0/21', 'IPv4');
 INSERT INTO `vultr_us-ga_ips` (`ip_address`, `ip_type`) VALUES ('66.42.80.0/20', 'IPv4');
 INSERT INTO `vultr_us-ga_ips` (`ip_address`, `ip_type`) VALUES ('68.232.178.0/23', 'IPv4');
 INSERT INTO `vultr_us-ga_ips` (`ip_address`, `ip_type`) VALUES ('96.30.192.0/20', 'IPv4');

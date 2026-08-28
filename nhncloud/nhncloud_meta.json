@@ -1,7 +1,7 @@
 {
   "provider": "nhncloud",
   "version": 2,
-  "generated_date": "2026-08-27",
+  "generated_date": "2026-08-28",
   "last_changed_date": "2026-08-07",
   "sources": [
     "BGP announced prefixes via RIPE NCC RIPEstat"

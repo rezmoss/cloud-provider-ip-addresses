@@ -59,7 +59,6 @@ INSERT INTO `yandex_global_ips` (`ip_address`, `ip_type`) VALUES ('84.252.160.0/
 INSERT INTO `yandex_global_ips` (`ip_address`, `ip_type`) VALUES ('87.250.224.0/19', 'IPv4');
 INSERT INTO `yandex_global_ips` (`ip_address`, `ip_type`) VALUES ('87.250.240.0/24', 'IPv4');
 INSERT INTO `yandex_global_ips` (`ip_address`, `ip_type`) VALUES ('87.250.247.0/24', 'IPv4');
-INSERT INTO `yandex_global_ips` (`ip_address`, `ip_type`) VALUES ('87.250.255.0/24', 'IPv4');
 INSERT INTO `yandex_global_ips` (`ip_address`, `ip_type`) VALUES ('89.104.112.0/23', 'IPv4');
 INSERT INTO `yandex_global_ips` (`ip_address`, `ip_type`) VALUES ('89.169.128.0/18', 'IPv4');
 INSERT INTO `yandex_global_ips` (`ip_address`, `ip_type`) VALUES ('89.223.9.0/24', 'IPv4');

@@ -1,6 +1,6 @@
 #!/bin/bash
 # Backblaze IP Ranges
-# Updated: 2026-07-12 03:46:26
+# Updated: 2026-08-28 04:58:06
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -9,9 +9,7 @@
 
 iptables -A INPUT -s 23.144.80.0/24 -j ACCEPT
 iptables -A INPUT -s 45.11.36.0/22 -j ACCEPT
-iptables -A INPUT -s 104.153.232.0/22 -j ACCEPT
-iptables -A INPUT -s 104.153.236.0/23 -j ACCEPT
-iptables -A INPUT -s 104.153.238.0/24 -j ACCEPT
+iptables -A INPUT -s 104.153.232.0/21 -j ACCEPT
 iptables -A INPUT -s 149.137.128.0/21 -j ACCEPT
 iptables -A INPUT -s 149.137.136.0/22 -j ACCEPT
 iptables -A INPUT -s 149.137.140.0/23 -j ACCEPT

@@ -1,7 +1,7 @@
 {
   "provider": "commoncrawl",
   "version": 3,
-  "generated_date": "2026-08-27",
+  "generated_date": "2026-08-28",
   "last_changed_date": "2026-08-25",
   "sources": [
     "https://index.commoncrawl.org/ccbot.json"

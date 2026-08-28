@@ -535,6 +535,11 @@
     "region": "ES-M"
   },
   {
+    "ip_address": "64.177.40.0/21",
+    "ip_type": "IPv4",
+    "region": "US-GA"
+  },
+  {
     "ip_address": "64.177.64.0/20",
     "ip_type": "IPv4",
     "region": "IL-Tel Aviv"
