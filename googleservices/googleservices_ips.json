@@ -888,19 +888,43 @@
     "region": "global"
   },
   {
-    "ip_address": "34.183.125.0/24",
-    "ip_type": "IPv4",
-    "service": "google-services",
-    "region": "global"
-  },
-  {
     "ip_address": "34.183.126.0/23",
     "ip_type": "IPv4",
     "service": "google-services",
     "region": "global"
   },
   {
-    "ip_address": "34.183.128.0/17",
+    "ip_address": "34.183.130.0/23",
+    "ip_type": "IPv4",
+    "service": "google-services",
+    "region": "global"
+  },
+  {
+    "ip_address": "34.183.132.0/22",
+    "ip_type": "IPv4",
+    "service": "google-services",
+    "region": "global"
+  },
+  {
+    "ip_address": "34.183.136.0/21",
+    "ip_type": "IPv4",
+    "service": "google-services",
+    "region": "global"
+  },
+  {
+    "ip_address": "34.183.144.0/20",
+    "ip_type": "IPv4",
+    "service": "google-services",
+    "region": "global"
+  },
+  {
+    "ip_address": "34.183.160.0/19",
+    "ip_type": "IPv4",
+    "service": "google-services",
+    "region": "global"
+  },
+  {
+    "ip_address": "34.183.192.0/18",
     "ip_type": "IPv4",
     "service": "google-services",
     "region": "global"
@@ -936,13 +960,49 @@
     "region": "global"
   },
   {
-    "ip_address": "34.184.124.0/22",
+    "ip_address": "34.184.124.0/23",
     "ip_type": "IPv4",
     "service": "google-services",
     "region": "global"
   },
   {
-    "ip_address": "34.184.128.0/17",
+    "ip_address": "34.184.129.0/24",
+    "ip_type": "IPv4",
+    "service": "google-services",
+    "region": "global"
+  },
+  {
+    "ip_address": "34.184.130.0/23",
+    "ip_type": "IPv4",
+    "service": "google-services",
+    "region": "global"
+  },
+  {
+    "ip_address": "34.184.132.0/22",
+    "ip_type": "IPv4",
+    "service": "google-services",
+    "region": "global"
+  },
+  {
+    "ip_address": "34.184.136.0/21",
+    "ip_type": "IPv4",
+    "service": "google-services",
+    "region": "global"
+  },
+  {
+    "ip_address": "34.184.144.0/20",
+    "ip_type": "IPv4",
+    "service": "google-services",
+    "region": "global"
+  },
+  {
+    "ip_address": "34.184.160.0/19",
+    "ip_type": "IPv4",
+    "service": "google-services",
+    "region": "global"
+  },
+  {
+    "ip_address": "34.184.192.0/18",
     "ip_type": "IPv4",
     "service": "google-services",
     "region": "global"

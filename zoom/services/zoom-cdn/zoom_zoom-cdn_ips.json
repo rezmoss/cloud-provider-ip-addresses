@@ -15,12 +15,7 @@
     "service": "zoom-cdn"
   },
   {
-    "ip_address": "2407:30c0:180::/48",
-    "ip_type": "IPv6",
-    "service": "zoom-cdn"
-  },
-  {
-    "ip_address": "2407:30c0:181::/48",
+    "ip_address": "2407:30c0:180::/47",
     "ip_type": "IPv6",
     "service": "zoom-cdn"
   },

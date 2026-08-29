@@ -9,6 +9,5 @@ CREATE TABLE IF NOT EXISTS `zoom_zoom-cdn_ips` (
 INSERT INTO `zoom_zoom-cdn_ips` (`ip_address`, `ip_type`) VALUES ('52.84.151.0/24', 'IPv4');
 INSERT INTO `zoom_zoom-cdn_ips` (`ip_address`, `ip_type`) VALUES ('170.114.45.0/24', 'IPv4');
 INSERT INTO `zoom_zoom-cdn_ips` (`ip_address`, `ip_type`) VALUES ('170.114.46.0/24', 'IPv4');
-INSERT INTO `zoom_zoom-cdn_ips` (`ip_address`, `ip_type`) VALUES ('2407:30c0:180::/48', 'IPv6');
-INSERT INTO `zoom_zoom-cdn_ips` (`ip_address`, `ip_type`) VALUES ('2407:30c0:181::/48', 'IPv6');
+INSERT INTO `zoom_zoom-cdn_ips` (`ip_address`, `ip_type`) VALUES ('2407:30c0:180::/47', 'IPv6');
 INSERT INTO `zoom_zoom-cdn_ips` (`ip_address`, `ip_type`) VALUES ('2600:9000:2600::/48', 'IPv6');

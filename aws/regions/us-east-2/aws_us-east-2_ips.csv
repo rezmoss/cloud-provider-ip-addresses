@@ -474,6 +474,7 @@ ip_address,ip_type,service,region
 77.112.4.0/22,IPv4,EFS,us-east-2
 77.112.8.0/22,IPv4,EFS,us-east-2
 77.112.12.0/22,IPv4,EFS,us-east-2
+77.112.112.0/22,IPv4,EFS,us-east-2
 99.77.131.0/24,IPv4,AMAZON,us-east-2
 99.77.131.0/24,IPv4,EC2,us-east-2
 99.77.153.0/24,IPv4,AMAZON,us-east-2

@@ -69,6 +69,7 @@ ip_address,ip_type,service,region
 77.112.4.0/22,IPv4,EFS,us-east-2
 77.112.8.0/22,IPv4,EFS,us-east-2
 77.112.12.0/22,IPv4,EFS,us-east-2
+77.112.112.0/22,IPv4,EFS,us-east-2
 78.14.149.0/25,IPv4,EFS,mx-central-1
 78.14.176.0/22,IPv4,EFS,mx-central-1
 95.40.214.128/25,IPv4,EFS,ap-east-1

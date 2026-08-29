@@ -104,9 +104,11 @@ ip_address,ip_type,service,region
 185.206.164.0/22,IPv4,yandex-as200350,global
 185.216.194.0/23,IPv4,yandex-as210656,global
 188.72.103.0/24,IPv4,yandex-as215013,global
+188.72.104.0/24,IPv4,yandex-as215013,global
 188.72.105.0/24,IPv4,yandex-as215013,global
 188.72.110.0/24,IPv4,yandex-as215013,global
 188.72.111.0/24,IPv4,yandex-as215013,global
+188.72.112.0/24,IPv4,yandex-as215013,global
 188.72.113.0/24,IPv4,yandex-as215013,global
 193.32.216.0/22,IPv4,yandex-as200350,global
 193.32.216.0/24,IPv4,yandex-as200350,global

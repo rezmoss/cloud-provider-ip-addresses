@@ -63,6 +63,5 @@ INSERT INTO `zoom_global_ips` (`ip_address`, `ip_type`) VALUES ('221.122.88.64/2
 INSERT INTO `zoom_global_ips` (`ip_address`, `ip_type`) VALUES ('221.122.88.128/25', 'IPv4');
 INSERT INTO `zoom_global_ips` (`ip_address`, `ip_type`) VALUES ('221.122.89.128/25', 'IPv4');
 INSERT INTO `zoom_global_ips` (`ip_address`, `ip_type`) VALUES ('221.123.139.192/27', 'IPv4');
-INSERT INTO `zoom_global_ips` (`ip_address`, `ip_type`) VALUES ('2407:30c0:180::/48', 'IPv6');
-INSERT INTO `zoom_global_ips` (`ip_address`, `ip_type`) VALUES ('2407:30c0:181::/48', 'IPv6');
+INSERT INTO `zoom_global_ips` (`ip_address`, `ip_type`) VALUES ('2407:30c0:180::/47', 'IPv6');
 INSERT INTO `zoom_global_ips` (`ip_address`, `ip_type`) VALUES ('2600:9000:2600::/48', 'IPv6');

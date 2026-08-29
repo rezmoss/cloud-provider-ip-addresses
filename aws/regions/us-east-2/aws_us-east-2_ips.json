@@ -2850,6 +2850,12 @@
     "region": "us-east-2"
   },
   {
+    "ip_address": "77.112.112.0/22",
+    "ip_type": "IPv4",
+    "service": "EFS",
+    "region": "us-east-2"
+  },
+  {
     "ip_address": "99.77.131.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
