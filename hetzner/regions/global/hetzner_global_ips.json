@@ -3066,6 +3066,12 @@
     "region": "global"
   },
   {
+    "ip_address": "162.55.80.0/24",
+    "ip_type": "IPv4",
+    "service": "hetzner-as24940",
+    "region": "global"
+  },
+  {
     "ip_address": "167.233.0.0/16",
     "ip_type": "IPv4",
     "service": "hetzner-as24940",

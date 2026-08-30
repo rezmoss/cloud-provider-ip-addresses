@@ -1,6 +1,6 @@
 #!/bin/bash
 # Zoom IP Ranges
-# Updated: 2026-06-14 03:22:16
+# Updated: 2026-08-30 02:28:22
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -45,7 +45,7 @@ iptables -A INPUT -s 166.108.64.0/18 -j ACCEPT
 iptables -A INPUT -s 168.140.0.0/17 -j ACCEPT
 iptables -A INPUT -s 170.114.0.0/16 -j ACCEPT
 iptables -A INPUT -s 173.231.80.0/20 -j ACCEPT
-iptables -A INPUT -s 192.204.12.0/22 -j ACCEPT
+iptables -A INPUT -s 192.204.12.0/23 -j ACCEPT
 iptables -A INPUT -s 198.251.128.0/17 -j ACCEPT
 iptables -A INPUT -s 203.200.219.128/27 -j ACCEPT
 iptables -A INPUT -s 204.80.104.0/21 -j ACCEPT

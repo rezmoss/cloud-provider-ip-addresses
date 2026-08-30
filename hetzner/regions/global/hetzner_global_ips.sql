@@ -517,6 +517,7 @@ INSERT INTO `hetzner_global_ips` (`ip_address`, `ip_type`) VALUES ('157.90.0.0/1
 INSERT INTO `hetzner_global_ips` (`ip_address`, `ip_type`) VALUES ('157.180.0.0/17', 'IPv4');
 INSERT INTO `hetzner_global_ips` (`ip_address`, `ip_type`) VALUES ('159.69.0.0/16', 'IPv4');
 INSERT INTO `hetzner_global_ips` (`ip_address`, `ip_type`) VALUES ('162.55.0.0/16', 'IPv4');
+INSERT INTO `hetzner_global_ips` (`ip_address`, `ip_type`) VALUES ('162.55.80.0/24', 'IPv4');
 INSERT INTO `hetzner_global_ips` (`ip_address`, `ip_type`) VALUES ('167.233.0.0/16', 'IPv4');
 INSERT INTO `hetzner_global_ips` (`ip_address`, `ip_type`) VALUES ('167.235.0.0/16', 'IPv4');
 INSERT INTO `hetzner_global_ips` (`ip_address`, `ip_type`) VALUES ('168.119.0.0/16', 'IPv4');

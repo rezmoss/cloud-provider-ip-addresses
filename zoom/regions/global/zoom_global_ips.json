@@ -220,17 +220,7 @@
     "service": "zoom"
   },
   {
-    "ip_address": "173.231.92.0/24",
-    "ip_type": "IPv4",
-    "service": "zoom-phone"
-  },
-  {
-    "ip_address": "173.231.94.0/24",
-    "ip_type": "IPv4",
-    "service": "zoom-phone"
-  },
-  {
-    "ip_address": "192.204.12.0/22",
+    "ip_address": "192.204.12.0/23",
     "ip_type": "IPv4",
     "service": "zoom"
   },

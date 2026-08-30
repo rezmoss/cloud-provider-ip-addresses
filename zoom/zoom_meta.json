@@ -1,8 +1,8 @@
 {
   "provider": "zoom",
-  "version": 2,
-  "generated_date": "2026-08-29",
-  "last_changed_date": "2026-08-29",
+  "version": 3,
+  "generated_date": "2026-08-30",
+  "last_changed_date": "2026-08-30",
   "sources": [
     "https://assets.zoom.us/docs/ipranges/Zoom.txt",
     "https://assets.zoom.us/docs/ipranges/ZoomPhone.txt",
@@ -11,17 +11,17 @@
     "https://assets.zoom.us/docs/ipranges/ZoomCDN-IPv6.txt"
   ],
   "ipv4": {
-    "cidrs": 57,
+    "cidrs": 55,
     "merged_cidrs": 53,
-    "addresses": 541200
+    "addresses": 540688
   },
   "ipv6": {
     "cidrs": 2,
     "merged_cidrs": 2,
     "addresses": 3626777458843887524118528
   },
-  "total_entries": 59,
-  "content_sha256": "7a3898cf1f46d4928397f6e06247f369cbcaadbade965a8d38fc8121ce4db446",
+  "total_entries": 57,
+  "content_sha256": "e927308ec76778ec5e03702f009a18a7d8606516b10669bdfca9c337b16ee50a",
   "license": "CC0-1.0",
   "license_url": "https://github.com/rezmoss/cloud-provider-ip-addresses/blob/main/LICENSE"
 }

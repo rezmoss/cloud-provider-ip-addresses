@@ -50,9 +50,7 @@ INSERT INTO `zoom_ips` (`ip_address`, `ip_type`) VALUES ('170.114.0.0/16', 'IPv4
 INSERT INTO `zoom_ips` (`ip_address`, `ip_type`) VALUES ('170.114.45.0/24', 'IPv4');
 INSERT INTO `zoom_ips` (`ip_address`, `ip_type`) VALUES ('170.114.46.0/24', 'IPv4');
 INSERT INTO `zoom_ips` (`ip_address`, `ip_type`) VALUES ('173.231.80.0/20', 'IPv4');
-INSERT INTO `zoom_ips` (`ip_address`, `ip_type`) VALUES ('173.231.92.0/24', 'IPv4');
-INSERT INTO `zoom_ips` (`ip_address`, `ip_type`) VALUES ('173.231.94.0/24', 'IPv4');
-INSERT INTO `zoom_ips` (`ip_address`, `ip_type`) VALUES ('192.204.12.0/22', 'IPv4');
+INSERT INTO `zoom_ips` (`ip_address`, `ip_type`) VALUES ('192.204.12.0/23', 'IPv4');
 INSERT INTO `zoom_ips` (`ip_address`, `ip_type`) VALUES ('198.251.128.0/17', 'IPv4');
 INSERT INTO `zoom_ips` (`ip_address`, `ip_type`) VALUES ('203.200.219.128/27', 'IPv4');
 INSERT INTO `zoom_ips` (`ip_address`, `ip_type`) VALUES ('204.80.104.0/21', 'IPv4');

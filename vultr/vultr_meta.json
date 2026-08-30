@@ -1,7 +1,7 @@
 {
   "provider": "vultr",
   "version": 11,
-  "generated_date": "2026-08-29",
+  "generated_date": "2026-08-30",
   "last_changed_date": "2026-08-28",
   "sources": [
     "https://geofeed.constant.com/"

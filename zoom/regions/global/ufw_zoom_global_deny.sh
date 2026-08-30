@@ -1,6 +1,6 @@
 #!/bin/bash
 # Zoom IP Ranges
-# Updated: 2026-06-25 03:23:20
+# Updated: 2026-08-30 02:28:22
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -49,7 +49,7 @@ ufw deny from 166.108.64.0/18
 ufw deny from 168.140.0.0/17
 ufw deny from 170.114.0.0/16
 ufw deny from 173.231.80.0/20
-ufw deny from 192.204.12.0/22
+ufw deny from 192.204.12.0/23
 ufw deny from 198.251.128.0/17
 ufw deny from 203.200.219.128/27
 ufw deny from 204.80.104.0/21

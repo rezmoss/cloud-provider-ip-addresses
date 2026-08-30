@@ -33,6 +33,7 @@ INSERT INTO `salesforce_global_ips` (`ip_address`, `ip_type`) VALUES ('104.161.2
 INSERT INTO `salesforce_global_ips` (`ip_address`, `ip_type`) VALUES ('104.161.255.0/24', 'IPv4');
 INSERT INTO `salesforce_global_ips` (`ip_address`, `ip_type`) VALUES ('128.17.0.0/16', 'IPv4');
 INSERT INTO `salesforce_global_ips` (`ip_address`, `ip_type`) VALUES ('128.245.0.0/16', 'IPv4');
+INSERT INTO `salesforce_global_ips` (`ip_address`, `ip_type`) VALUES ('128.245.50.0/24', 'IPv4');
 INSERT INTO `salesforce_global_ips` (`ip_address`, `ip_type`) VALUES ('129.77.16.0/20', 'IPv4');
 INSERT INTO `salesforce_global_ips` (`ip_address`, `ip_type`) VALUES ('136.146.0.0/16', 'IPv4');
 INSERT INTO `salesforce_global_ips` (`ip_address`, `ip_type`) VALUES ('136.147.0.0/16', 'IPv4');

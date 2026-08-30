@@ -162,6 +162,12 @@
     "region": "global"
   },
   {
+    "ip_address": "128.245.50.0/24",
+    "ip_type": "IPv4",
+    "service": "salesforce-as14340",
+    "region": "global"
+  },
+  {
     "ip_address": "129.77.16.0/20",
     "ip_type": "IPv4",
     "service": "salesforce-as14340",

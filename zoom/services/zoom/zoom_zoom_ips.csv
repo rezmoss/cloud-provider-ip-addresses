@@ -37,7 +37,7 @@ ip_address,ip_type,service
 168.140.0.0/17,IPv4,zoom
 170.114.0.0/16,IPv4,zoom
 173.231.80.0/20,IPv4,zoom
-192.204.12.0/22,IPv4,zoom
+192.204.12.0/23,IPv4,zoom
 198.251.128.0/17,IPv4,zoom
 203.200.219.128/27,IPv4,zoom
 204.80.104.0/21,IPv4,zoom

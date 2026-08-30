@@ -2,6 +2,36 @@
 
 Daily IP range changes across all providers.
 
+## 2026-08-30
+
+### hetzner
+- Added: 1 CIDRs
+- Removed: 0 CIDRs
+
+### zoom
+- Added: 1 CIDRs
+- Removed: 3 CIDRs
+
+### ovhcloud
+- Added: 0 CIDRs
+- Removed: 2 CIDRs
+
+### salesforce
+- Added: 1 CIDRs
+- Removed: 0 CIDRs
+
+### zoho
+- Added: 0 CIDRs
+- Removed: 3 CIDRs
+
+### tor
+- Added: 30 CIDRs
+- Removed: 5 CIDRs
+
+### tencent
+- Added: 1 CIDRs
+- Removed: 0 CIDRs
+
 ## 2026-08-29
 
 ### tor
