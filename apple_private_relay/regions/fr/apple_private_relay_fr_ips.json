@@ -240,6 +240,16 @@
     "region": "FR"
   },
   {
+    "ip_address": "104.28.137.207/32",
+    "ip_type": "IPv4",
+    "region": "FR"
+  },
+  {
+    "ip_address": "104.28.137.208/32",
+    "ip_type": "IPv4",
+    "region": "FR"
+  },
+  {
     "ip_address": "104.28.140.146/32",
     "ip_type": "IPv4",
     "region": "FR"

@@ -2,6 +2,16 @@
 
 Daily IP range changes across all providers.
 
+## 2026-08-31
+
+### apple_private_relay
+- Added: 14 CIDRs
+- Removed: 0 CIDRs
+
+### tor
+- Added: 14 CIDRs
+- Removed: 19 CIDRs
+
 ## 2026-08-30
 
 ### hetzner

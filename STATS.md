@@ -1,9 +1,9 @@
 # IP Range Statistics
 
-Generated: 2026-08-30T02:30:00.398257
+Generated: 2026-08-31T02:33:05.737765
 
-Total IPv4 addresses: 456,762,052
-Total IPv6 addresses: 5,506,927,067,348,729,210,115,026,958,538,935
+Total IPv4 addresses: 456,762,059
+Total IPv6 addresses: 5,506,927,086,691,542,323,949,093,753,837,751
 IPv4 space coverage: 10.6348%
 
 | Provider | IPv4 CIDRs | IPv6 CIDRs | Total CIDRs | IPv4 Addresses | Services | Regions |
@@ -11,7 +11,7 @@ IPv4 space coverage: 10.6348%
 | akamai | 7,968 | 3,039 | 11,007 | 21,796,304 | 18 | 1 |
 | alibaba | 2,164 | 240 | 2,404 | 31,336,192 | 3 | 1 |
 | amazonbot | 2,059 | 0 | 2,059 | 2,059 | 3 | 0 |
-| apple_private_relay | 41,958 | 245,858 | 287,816 | 106,598 | 0 | 1284 |
+| apple_private_relay | 41,970 | 245,860 | 287,830 | 106,610 | 0 | 1284 |
 | applebot | 33 | 0 | 33 | 7,056 | 1 | 0 |
 | atlassian | 106 | 60 | 166 | 79,038 | 11 | 17 |
 | aws | 10,520 | 6,168 | 16,688 | 188,149,208 | 28 | 43 |
@@ -63,7 +63,7 @@ IPv4 space coverage: 10.6348%
 | teamcity | 11 | 0 | 11 | 11 | 2 | 1 |
 | telegram | 9 | 5 | 14 | 11,008 | 0 | 0 |
 | tencent | 3,358 | 73 | 3,431 | 14,920,448 | 2 | 1 |
-| tor | 1,431 | 0 | 1,431 | 1,431 | 1 | 1 |
+| tor | 1,426 | 0 | 1,426 | 1,426 | 1 | 1 |
 | upcloud | 88 | 20 | 108 | 100,864 | 2 | 1 |
 | uptimerobot | 103 | 103 | 206 | 103 | 1 | 4 |
 | vultr | 443 | 54 | 497 | 1,037,312 | 0 | 35 |
