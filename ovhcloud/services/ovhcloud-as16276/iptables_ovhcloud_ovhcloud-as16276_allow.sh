@@ -1,6 +1,6 @@
 #!/bin/bash
 # Ovhcloud IP Ranges
-# Updated: 2026-08-30 02:28:39
+# Updated: 2026-09-01 02:31:40
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -59,7 +59,6 @@ iptables -A INPUT -s 31.99.205.0/24 -j ACCEPT
 iptables -A INPUT -s 37.59.0.0/16 -j ACCEPT
 iptables -A INPUT -s 37.60.48.0/20 -j ACCEPT
 iptables -A INPUT -s 37.98.145.0/24 -j ACCEPT
-iptables -A INPUT -s 37.139.130.0/24 -j ACCEPT
 iptables -A INPUT -s 37.187.0.0/16 -j ACCEPT
 iptables -A INPUT -s 40.27.29.0/24 -j ACCEPT
 iptables -A INPUT -s 40.160.0.0/17 -j ACCEPT
@@ -454,7 +453,6 @@ iptables -A INPUT -s 167.148.125.0/24 -j ACCEPT
 iptables -A INPUT -s 167.148.193.0/24 -j ACCEPT
 iptables -A INPUT -s 167.234.38.0/24 -j ACCEPT
 iptables -A INPUT -s 167.253.62.0/24 -j ACCEPT
-iptables -A INPUT -s 168.100.142.0/23 -j ACCEPT
 iptables -A INPUT -s 168.222.43.0/24 -j ACCEPT
 iptables -A INPUT -s 168.222.49.0/24 -j ACCEPT
 iptables -A INPUT -s 168.222.183.0/24 -j ACCEPT
@@ -477,7 +475,6 @@ iptables -A INPUT -s 178.95.157.0/24 -j ACCEPT
 iptables -A INPUT -s 180.131.145.0/24 -j ACCEPT
 iptables -A INPUT -s 181.41.194.0/24 -j ACCEPT
 iptables -A INPUT -s 184.174.96.0/23 -j ACCEPT
-iptables -A INPUT -s 185.2.49.0/24 -j ACCEPT
 iptables -A INPUT -s 185.3.73.0/24 -j ACCEPT
 iptables -A INPUT -s 185.5.39.0/24 -j ACCEPT
 iptables -A INPUT -s 185.6.28.0/24 -j ACCEPT
@@ -521,7 +518,6 @@ iptables -A INPUT -s 188.220.38.0/24 -j ACCEPT
 iptables -A INPUT -s 188.220.150.0/24 -j ACCEPT
 iptables -A INPUT -s 188.255.193.0/24 -j ACCEPT
 iptables -A INPUT -s 191.44.99.0/24 -j ACCEPT
-iptables -A INPUT -s 191.44.124.0/24 -j ACCEPT
 iptables -A INPUT -s 191.96.140.0/23 -j ACCEPT
 iptables -A INPUT -s 191.101.150.0/24 -j ACCEPT
 iptables -A INPUT -s 191.101.210.0/24 -j ACCEPT
@@ -591,7 +587,6 @@ iptables -A INPUT -s 206.206.126.0/24 -j ACCEPT
 iptables -A INPUT -s 207.166.205.0/24 -j ACCEPT
 iptables -A INPUT -s 207.166.206.0/24 -j ACCEPT
 iptables -A INPUT -s 207.180.13.0/24 -j ACCEPT
-iptables -A INPUT -s 207.180.21.0/24 -j ACCEPT
 iptables -A INPUT -s 207.230.127.0/24 -j ACCEPT
 iptables -A INPUT -s 207.244.209.0/24 -j ACCEPT
 iptables -A INPUT -s 208.64.136.0/21 -j ACCEPT

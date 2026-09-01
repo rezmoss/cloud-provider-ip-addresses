@@ -1,5 +1,5 @@
 # pingdom IP ranges - ipset restore format (hash:net)
-# Version: 3 | Generated: 2026-08-31 | Last changed: 2026-08-27
+# Version: 3 | Generated: 2026-09-01 | Last changed: 2026-08-27
 # IPv4: 148 merged subnets, 149 unique IPs
 # IPv6: 56 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses

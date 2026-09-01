@@ -797,6 +797,7 @@ ip_address,ip_type,service,region
 2600:f0f0:6124::/48,IPv6,S3,us-gov-east-1
 2600:f0f0:6125::/48,IPv6,S3,ap-east-2
 2600:f0f0:6126::/48,IPv6,S3,ap-southeast-6
+2600:f0f0:6127::/48,IPv6,S3,us-east-1
 2600:f0f1:80::/48,IPv6,S3,eu-west-2
 2600:f0f1:81::/48,IPv6,S3,sa-east-1
 2600:f0f1:82::/48,IPv6,S3,us-west-1
