@@ -285,6 +285,11 @@
     "service": "googlebot"
   },
   {
+    "ip_address": "66.249.68.224/27",
+    "ip_type": "IPv4",
+    "service": "googlebot"
+  },
+  {
     "ip_address": "66.249.69.0/27",
     "ip_type": "IPv4",
     "service": "googlebot"
@@ -1111,6 +1116,11 @@
   },
   {
     "ip_address": "2001:4860:4801:42::/64",
+    "ip_type": "IPv6",
+    "service": "googlebot"
+  },
+  {
+    "ip_address": "2001:4860:4801:43::/64",
     "ip_type": "IPv6",
     "service": "googlebot"
   },

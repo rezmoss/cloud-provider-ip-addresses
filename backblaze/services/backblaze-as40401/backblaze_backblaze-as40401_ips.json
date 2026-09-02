@@ -408,6 +408,18 @@
     "region": "global"
   },
   {
+    "ip_address": "2605:72c0:607::/48",
+    "ip_type": "IPv6",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
+    "ip_address": "2605:72c0:608::/48",
+    "ip_type": "IPv6",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
     "ip_address": "2605:72c0:6fc::/48",
     "ip_type": "IPv6",
     "service": "backblaze-as40401",

@@ -1,9 +1,9 @@
 {
-  "generated": "2026-09-01T02:34:50.242271",
+  "generated": "2026-09-02T03:04:52.899128",
   "provider_count": 64,
-  "total_ipv4_addresses": 456761793,
-  "total_ipv6_addresses": 5506927090629995970662377862060212,
-  "ipv4_space_coverage_pct": 10.6348,
+  "total_ipv4_addresses": 456753642,
+  "total_ipv6_addresses": 5506927402891775730678871682046132,
+  "ipv4_space_coverage_pct": 10.6346,
   "providers": {
     "cloudflare": {
       "ipv4_cidrs": 15,
@@ -16,10 +16,10 @@
     },
     "aws": {
       "ipv4_cidrs": 10522,
-      "ipv6_cidrs": 6237,
-      "total_cidrs": 16759,
+      "ipv6_cidrs": 6255,
+      "total_cidrs": 16777,
       "ipv4_addresses": 188149976,
-      "ipv6_addresses": 3389990718312400203380613447693,
+      "ipv6_addresses": 3390610047231895591611099250701,
       "services": 28,
       "regions": 43
     },
@@ -96,11 +96,11 @@
       "regions": 38
     },
     "googlebot": {
-      "ipv4_cidrs": 169,
-      "ipv6_cidrs": 146,
-      "total_cidrs": 315,
-      "ipv4_addresses": 5056,
-      "ipv6_addresses": 2693224634761594535936,
+      "ipv4_cidrs": 170,
+      "ipv6_cidrs": 147,
+      "total_cidrs": 317,
+      "ipv4_addresses": 5088,
+      "ipv6_addresses": 2711671378835304087552,
       "services": 1,
       "regions": 0
     },
@@ -159,10 +159,10 @@
       "regions": 0
     },
     "vultr": {
-      "ipv4_cidrs": 443,
+      "ipv4_cidrs": 444,
       "ipv6_cidrs": 54,
-      "total_cidrs": 497,
-      "ipv4_addresses": 1037312,
+      "total_cidrs": 498,
+      "ipv4_addresses": 1037568,
       "ipv6_addresses": 5193704398777346745132314982875136,
       "services": 0,
       "regions": 35
@@ -177,10 +177,10 @@
       "regions": 0
     },
     "duckduckbot": {
-      "ipv4_cidrs": 481,
+      "ipv4_cidrs": 486,
       "ipv6_cidrs": 0,
-      "total_cidrs": 481,
-      "ipv4_addresses": 481,
+      "total_cidrs": 486,
+      "ipv4_addresses": 486,
       "ipv6_addresses": 0,
       "services": 1,
       "regions": 0
@@ -321,10 +321,10 @@
       "regions": 1
     },
     "ovhcloud": {
-      "ipv4_cidrs": 714,
+      "ipv4_cidrs": 716,
       "ipv6_cidrs": 42,
-      "total_cidrs": 756,
-      "ipv4_addresses": 4634624,
+      "total_cidrs": 758,
+      "ipv4_addresses": 4635136,
       "ipv6_addresses": 318191693574209628041014935552,
       "services": 1,
       "regions": 1
@@ -339,11 +339,11 @@
       "regions": 1
     },
     "akamai": {
-      "ipv4_cidrs": 7968,
-      "ipv6_cidrs": 3039,
-      "total_cidrs": 11007,
-      "ipv4_addresses": 21796304,
-      "ipv6_addresses": 23779626496759025028758549561344,
+      "ipv4_cidrs": 7960,
+      "ipv6_cidrs": 3038,
+      "total_cidrs": 10998,
+      "ipv4_addresses": 21787856,
+      "ipv6_addresses": 23779317011749203683689824780288,
       "services": 18,
       "regions": 1
     },
@@ -351,7 +351,7 @@
       "ipv4_cidrs": 1691,
       "ipv6_cidrs": 381,
       "total_cidrs": 2072,
-      "ipv4_addresses": 2407680,
+      "ipv4_addresses": 2407424,
       "ipv6_addresses": 98471883605442052079279625207808,
       "services": 18,
       "regions": 1
@@ -402,10 +402,10 @@
       "regions": 1
     },
     "tor": {
-      "ipv4_cidrs": 1417,
+      "ipv4_cidrs": 1421,
       "ipv6_cidrs": 0,
-      "total_cidrs": 1417,
-      "ipv4_addresses": 1417,
+      "total_cidrs": 1421,
+      "ipv4_addresses": 1421,
       "ipv6_addresses": 0,
       "services": 1,
       "regions": 1
@@ -474,10 +474,10 @@
       "regions": 0
     },
     "zoho": {
-      "ipv4_cidrs": 164,
+      "ipv4_cidrs": 163,
       "ipv6_cidrs": 22,
-      "total_cidrs": 186,
-      "ipv4_addresses": 87040,
+      "total_cidrs": 185,
+      "ipv4_addresses": 86784,
       "ipv6_addresses": 79270474917950849614658666496,
       "services": 9,
       "regions": 1
@@ -529,10 +529,10 @@
     },
     "backblaze": {
       "ipv4_cidrs": 25,
-      "ipv6_cidrs": 61,
-      "total_cidrs": 86,
+      "ipv6_cidrs": 63,
+      "total_cidrs": 88,
       "ipv4_addresses": 9216,
-      "ipv6_addresses": 5083533071479515679639470080,
+      "ipv6_addresses": 5085950923118744937988882432,
       "services": 2,
       "regions": 1
     },

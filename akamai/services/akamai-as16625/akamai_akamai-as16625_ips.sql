@@ -878,7 +878,6 @@ INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.19
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.192.166.0/23', 'IPv4');
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.192.172.0/22', 'IPv4');
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.192.196.0/22', 'IPv4');
-INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.192.204.0/22', 'IPv4');
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.192.224.0/22', 'IPv4');
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.192.234.0/23', 'IPv4');
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.192.240.0/20', 'IPv4');
@@ -990,7 +989,6 @@ INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.19
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.198.220.0/22', 'IPv4');
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.199.0.0/22', 'IPv4');
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.199.4.0/22', 'IPv4');
-INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.199.12.0/22', 'IPv4');
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.199.16.0/22', 'IPv4');
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.199.20.0/22', 'IPv4');
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.199.32.0/23', 'IPv4');
@@ -1016,7 +1014,6 @@ INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.20
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.201.22.0/23', 'IPv4');
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.201.32.0/23', 'IPv4');
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.201.88.0/22', 'IPv4');
-INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.201.92.0/22', 'IPv4');
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.201.112.0/20', 'IPv4');
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.201.128.0/21', 'IPv4');
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.201.136.0/21', 'IPv4');
@@ -1053,7 +1050,6 @@ INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.20
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.203.64.0/21', 'IPv4');
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.203.72.0/21', 'IPv4');
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.203.80.0/20', 'IPv4');
-INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.203.112.0/22', 'IPv4');
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.203.136.0/22', 'IPv4');
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.203.176.0/20', 'IPv4');
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.203.192.0/20', 'IPv4');
@@ -1063,7 +1059,6 @@ INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.20
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.203.250.0/23', 'IPv4');
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.204.0.0/19', 'IPv4');
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.204.32.0/19', 'IPv4');
-INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.204.76.0/22', 'IPv4');
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.204.100.0/23', 'IPv4');
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.204.106.0/23', 'IPv4');
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.204.148.0/22', 'IPv4');
@@ -1092,7 +1087,6 @@ INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.20
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.206.16.0/21', 'IPv4');
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.206.24.0/21', 'IPv4');
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.206.32.0/20', 'IPv4');
-INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.206.52.0/22', 'IPv4');
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.206.64.0/21', 'IPv4');
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.206.72.0/21', 'IPv4');
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.206.80.0/21', 'IPv4');
@@ -1118,7 +1112,6 @@ INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.20
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.207.192.0/22', 'IPv4');
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.207.212.0/22', 'IPv4');
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.207.218.0/23', 'IPv4');
-INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.207.220.0/22', 'IPv4');
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.208.18.0/23', 'IPv4');
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.208.32.0/19', 'IPv4');
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.208.68.0/22', 'IPv4');
@@ -1207,7 +1200,6 @@ INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.21
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.213.112.0/20', 'IPv4');
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.213.132.0/23', 'IPv4');
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.213.136.0/23', 'IPv4');
-INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.213.140.0/22', 'IPv4');
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.213.144.0/22', 'IPv4');
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.213.152.0/22', 'IPv4');
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.213.188.0/22', 'IPv4');

@@ -1,23 +1,23 @@
 {
   "provider": "duckduckbot",
-  "version": 2,
-  "generated_date": "2026-09-01",
-  "last_changed_date": "2026-07-07",
+  "version": 3,
+  "generated_date": "2026-09-02",
+  "last_changed_date": "2026-09-02",
   "sources": [
     "https://duckduckgo.com/duckduckbot.json"
   ],
   "ipv4": {
-    "cidrs": 481,
-    "merged_cidrs": 479,
-    "addresses": 481
+    "cidrs": 486,
+    "merged_cidrs": 484,
+    "addresses": 486
   },
   "ipv6": {
     "cidrs": 0,
     "merged_cidrs": 0,
     "addresses": 0
   },
-  "total_entries": 481,
-  "content_sha256": "93097ca27b67c15cd0585ac6dcfae270622612652c4fe4917573a5d963bc38ed",
+  "total_entries": 486,
+  "content_sha256": "95724a6037200581d27e3c364e46e9b610c04a14d04b84377a1cda86dfe7edf1",
   "license": "CC0-1.0",
   "license_url": "https://github.com/rezmoss/cloud-provider-ip-addresses/blob/main/LICENSE"
 }

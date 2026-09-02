@@ -1915,6 +1915,11 @@
     "region": "US-NJ"
   },
   {
+    "ip_address": "178.95.40.0/24",
+    "ip_type": "IPv4",
+    "region": "BR-SP"
+  },
+  {
     "ip_address": "185.92.220.0/23",
     "ip_type": "IPv4",
     "region": "NL-NH"

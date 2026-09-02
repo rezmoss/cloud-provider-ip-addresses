@@ -1,6 +1,6 @@
 # Datadog IP Ranges (Auto-Updated Daily)
 
-> Last updated: **2026-09-01** · Total CIDRs: **164** · IPv4: **154** · IPv6: **10** · Services: **11**
+> Last updated: **2026-09-02** · Total CIDRs: **164** · IPv4: **154** · IPv6: **10** · Services: **11**
 
 Machine-readable, daily-updated, validated public IP ranges for **Datadog**.
 Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and Apache.

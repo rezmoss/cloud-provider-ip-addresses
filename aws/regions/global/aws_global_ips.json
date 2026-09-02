@@ -3978,6 +3978,42 @@
     "region": "GLOBAL"
   },
   {
+    "ip_address": "2600:f0f0:cf8::/56",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "GLOBAL"
+  },
+  {
+    "ip_address": "2600:f0f0:cf8::/56",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "GLOBAL"
+  },
+  {
+    "ip_address": "2600:f0f0:cf8:800::/56",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "GLOBAL"
+  },
+  {
+    "ip_address": "2600:f0f0:cf8:800::/56",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "GLOBAL"
+  },
+  {
+    "ip_address": "2600:f0f0:cf8:900::/56",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "GLOBAL"
+  },
+  {
+    "ip_address": "2600:f0f0:cf8:900::/56",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "GLOBAL"
+  },
+  {
     "ip_address": "2600:f0f0:cf8:c00::/56",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -4009,6 +4045,42 @@
   },
   {
     "ip_address": "2600:f0f0:cf8:e00::/56",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "GLOBAL"
+  },
+  {
+    "ip_address": "2600:f0f0:cf9:c00::/56",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "GLOBAL"
+  },
+  {
+    "ip_address": "2600:f0f0:cf9:c00::/56",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "GLOBAL"
+  },
+  {
+    "ip_address": "2600:f0f0:cf9:d00::/56",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "GLOBAL"
+  },
+  {
+    "ip_address": "2600:f0f0:cf9:d00::/56",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "GLOBAL"
+  },
+  {
+    "ip_address": "2600:f0f0:cf9:e00::/56",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "GLOBAL"
+  },
+  {
+    "ip_address": "2600:f0f0:cf9:e00::/56",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "GLOBAL"

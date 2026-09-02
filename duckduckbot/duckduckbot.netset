@@ -1,6 +1,6 @@
 # duckduckbot IP ranges - ipset restore format (hash:net)
-# Version: 2 | Generated: 2026-09-01 | Last changed: 2026-07-07
-# IPv4: 479 merged subnets, 481 unique IPs
+# Version: 3 | Generated: 2026-09-02 | Last changed: 2026-09-02
+# IPv4: 484 merged subnets, 486 unique IPs
 # IPv6: 0 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
@@ -8,7 +8,10 @@
 #
 create duckduckbot_v4 hash:net family inet hashsize 4096 maxelem 1048576 -exist
 flush duckduckbot_v4
+add duckduckbot_v4 4.144.148.23/32
 add duckduckbot_v4 4.144.182.50/32
+add duckduckbot_v4 4.144.227.142/32
+add duckduckbot_v4 4.144.251.39/32
 add duckduckbot_v4 4.149.142.7/32
 add duckduckbot_v4 4.149.159.71/32
 add duckduckbot_v4 4.149.159.102/32
@@ -443,6 +446,7 @@ add duckduckbot_v4 132.164.209.198/32
 add duckduckbot_v4 132.196.106.146/32
 add duckduckbot_v4 132.220.1.71/32
 add duckduckbot_v4 134.33.207.189/32
+add duckduckbot_v4 135.171.251.169/32
 add duckduckbot_v4 135.233.63.237/32
 add duckduckbot_v4 135.234.221.112/32
 add duckduckbot_v4 135.235.183.95/32
@@ -473,6 +477,7 @@ add duckduckbot_v4 172.169.181.237/32
 add duckduckbot_v4 172.171.37.221/32
 add duckduckbot_v4 172.179.105.87/32
 add duckduckbot_v4 172.179.128.118/32
+add duckduckbot_v4 172.188.250.220/32
 add duckduckbot_v4 172.189.40.18/32
 add duckduckbot_v4 172.193.184.42/32
 add duckduckbot_v4 172.193.197.146/32

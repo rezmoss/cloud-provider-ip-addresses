@@ -1,6 +1,6 @@
 #!/bin/bash
 # Akamai IP Ranges
-# Updated: 2026-08-13 03:06:35
+# Updated: 2026-09-02 03:02:45
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -107,7 +107,8 @@ ufw allow from 172.234.0.0/16
 ufw allow from 172.235.0.0/18
 ufw allow from 172.235.96.0/22
 ufw allow from 172.235.102.0/23
-ufw allow from 172.235.104.0/21
+ufw allow from 172.235.104.0/22
+ufw allow from 172.235.110.0/23
 ufw allow from 172.235.112.0/21
 ufw allow from 172.235.120.0/22
 ufw allow from 172.235.124.0/23
@@ -160,14 +161,17 @@ ufw allow from 2600:3c0f:32::/48
 ufw allow from 2600:3c0f:34::/47
 ufw allow from 2600:3c0f:37::/48
 ufw allow from 2600:3c0f:38::/48
-ufw allow from 2600:3c0f:40::/45
+ufw allow from 2600:3c0f:41::/48
+ufw allow from 2600:3c0f:42::/47
+ufw allow from 2600:3c0f:44::/46
 ufw allow from 2600:3c0f:48::/47
 ufw allow from 2600:3c0f:50::/46
 ufw allow from 2600:3c0f:55::/48
 ufw allow from 2600:3c0f:56::/47
 ufw allow from 2600:3c12:100::/40
 ufw allow from 2600:3c12:300::/40
-ufw allow from 2600:3c12:400::/38
+ufw allow from 2600:3c12:400::/39
+ufw allow from 2600:3c12:600::/40
 ufw allow from 2600:3c12:800::/38
 ufw allow from 2600:3c12:c00::/39
 ufw allow from 2600:3c12:e00::/40

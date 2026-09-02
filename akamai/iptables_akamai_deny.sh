@@ -1,6 +1,6 @@
 #!/bin/bash
 # Akamai IP Ranges
-# Updated: 2026-08-28 04:57:28
+# Updated: 2026-09-02 03:02:43
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -539,7 +539,9 @@ ip6tables -A INPUT -s 2600:3c0f:32::/48 -j DROP
 ip6tables -A INPUT -s 2600:3c0f:34::/47 -j DROP
 ip6tables -A INPUT -s 2600:3c0f:37::/48 -j DROP
 ip6tables -A INPUT -s 2600:3c0f:38::/48 -j DROP
-ip6tables -A INPUT -s 2600:3c0f:40::/45 -j DROP
+ip6tables -A INPUT -s 2600:3c0f:41::/48 -j DROP
+ip6tables -A INPUT -s 2600:3c0f:42::/47 -j DROP
+ip6tables -A INPUT -s 2600:3c0f:44::/46 -j DROP
 ip6tables -A INPUT -s 2600:3c0f:48::/47 -j DROP
 ip6tables -A INPUT -s 2600:3c0f:50::/46 -j DROP
 ip6tables -A INPUT -s 2600:3c0f:55::/48 -j DROP
@@ -547,7 +549,8 @@ ip6tables -A INPUT -s 2600:3c0f:56::/47 -j DROP
 ip6tables -A INPUT -s 2600:3c11::/32 -j DROP
 ip6tables -A INPUT -s 2600:3c12:100::/40 -j DROP
 ip6tables -A INPUT -s 2600:3c12:300::/40 -j DROP
-ip6tables -A INPUT -s 2600:3c12:400::/38 -j DROP
+ip6tables -A INPUT -s 2600:3c12:400::/39 -j DROP
+ip6tables -A INPUT -s 2600:3c12:600::/40 -j DROP
 ip6tables -A INPUT -s 2600:3c12:800::/38 -j DROP
 ip6tables -A INPUT -s 2600:3c12:c00::/39 -j DROP
 ip6tables -A INPUT -s 2600:3c12:e00::/40 -j DROP

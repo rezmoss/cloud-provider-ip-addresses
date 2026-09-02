@@ -1,6 +1,6 @@
 #!/bin/bash
 # Akamai IP Ranges
-# Updated: 2026-08-29 02:27:51
+# Updated: 2026-09-02 03:02:45
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -723,7 +723,6 @@ iptables -A INPUT -s 23.192.162.0/23 -j DROP
 iptables -A INPUT -s 23.192.166.0/23 -j DROP
 iptables -A INPUT -s 23.192.172.0/22 -j DROP
 iptables -A INPUT -s 23.192.196.0/22 -j DROP
-iptables -A INPUT -s 23.192.204.0/22 -j DROP
 iptables -A INPUT -s 23.192.224.0/22 -j DROP
 iptables -A INPUT -s 23.192.234.0/23 -j DROP
 iptables -A INPUT -s 23.192.240.0/20 -j DROP
@@ -818,7 +817,6 @@ iptables -A INPUT -s 23.198.208.0/22 -j DROP
 iptables -A INPUT -s 23.198.212.0/23 -j DROP
 iptables -A INPUT -s 23.198.220.0/22 -j DROP
 iptables -A INPUT -s 23.199.0.0/21 -j DROP
-iptables -A INPUT -s 23.199.12.0/22 -j DROP
 iptables -A INPUT -s 23.199.16.0/21 -j DROP
 iptables -A INPUT -s 23.199.32.0/23 -j DROP
 iptables -A INPUT -s 23.199.36.0/22 -j DROP
@@ -839,7 +837,7 @@ iptables -A INPUT -s 23.200.240.0/20 -j DROP
 iptables -A INPUT -s 23.201.0.0/20 -j DROP
 iptables -A INPUT -s 23.201.22.0/23 -j DROP
 iptables -A INPUT -s 23.201.32.0/23 -j DROP
-iptables -A INPUT -s 23.201.88.0/21 -j DROP
+iptables -A INPUT -s 23.201.88.0/22 -j DROP
 iptables -A INPUT -s 23.201.112.0/20 -j DROP
 iptables -A INPUT -s 23.201.128.0/20 -j DROP
 iptables -A INPUT -s 23.201.160.0/19 -j DROP
@@ -864,7 +862,6 @@ iptables -A INPUT -s 23.202.224.0/22 -j DROP
 iptables -A INPUT -s 23.202.240.0/20 -j DROP
 iptables -A INPUT -s 23.203.56.0/22 -j DROP
 iptables -A INPUT -s 23.203.64.0/19 -j DROP
-iptables -A INPUT -s 23.203.112.0/22 -j DROP
 iptables -A INPUT -s 23.203.136.0/22 -j DROP
 iptables -A INPUT -s 23.203.176.0/20 -j DROP
 iptables -A INPUT -s 23.203.192.0/19 -j DROP
@@ -872,7 +869,6 @@ iptables -A INPUT -s 23.203.224.0/20 -j DROP
 iptables -A INPUT -s 23.203.240.0/22 -j DROP
 iptables -A INPUT -s 23.203.250.0/23 -j DROP
 iptables -A INPUT -s 23.204.0.0/18 -j DROP
-iptables -A INPUT -s 23.204.76.0/22 -j DROP
 iptables -A INPUT -s 23.204.100.0/23 -j DROP
 iptables -A INPUT -s 23.204.106.0/23 -j DROP
 iptables -A INPUT -s 23.204.148.0/22 -j DROP
@@ -896,7 +892,6 @@ iptables -A INPUT -s 23.205.250.0/23 -j DROP
 iptables -A INPUT -s 23.206.8.0/21 -j DROP
 iptables -A INPUT -s 23.206.16.0/20 -j DROP
 iptables -A INPUT -s 23.206.32.0/20 -j DROP
-iptables -A INPUT -s 23.206.52.0/22 -j DROP
 iptables -A INPUT -s 23.206.64.0/19 -j DROP
 iptables -A INPUT -s 23.206.96.0/20 -j DROP
 iptables -A INPUT -s 23.206.116.0/23 -j DROP
@@ -918,7 +913,6 @@ iptables -A INPUT -s 23.207.176.0/22 -j DROP
 iptables -A INPUT -s 23.207.192.0/22 -j DROP
 iptables -A INPUT -s 23.207.212.0/22 -j DROP
 iptables -A INPUT -s 23.207.218.0/23 -j DROP
-iptables -A INPUT -s 23.207.220.0/22 -j DROP
 iptables -A INPUT -s 23.208.18.0/23 -j DROP
 iptables -A INPUT -s 23.208.32.0/19 -j DROP
 iptables -A INPUT -s 23.208.68.0/22 -j DROP
@@ -989,7 +983,6 @@ iptables -A INPUT -s 23.213.48.0/22 -j DROP
 iptables -A INPUT -s 23.213.64.0/18 -j DROP
 iptables -A INPUT -s 23.213.132.0/23 -j DROP
 iptables -A INPUT -s 23.213.136.0/23 -j DROP
-iptables -A INPUT -s 23.213.140.0/22 -j DROP
 iptables -A INPUT -s 23.213.144.0/22 -j DROP
 iptables -A INPUT -s 23.213.152.0/22 -j DROP
 iptables -A INPUT -s 23.213.188.0/22 -j DROP

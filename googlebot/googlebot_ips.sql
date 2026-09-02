@@ -63,6 +63,7 @@ INSERT INTO `googlebot_ips` (`ip_address`, `ip_type`) VALUES ('66.249.68.96/27',
 INSERT INTO `googlebot_ips` (`ip_address`, `ip_type`) VALUES ('66.249.68.128/27', 'IPv4');
 INSERT INTO `googlebot_ips` (`ip_address`, `ip_type`) VALUES ('66.249.68.160/27', 'IPv4');
 INSERT INTO `googlebot_ips` (`ip_address`, `ip_type`) VALUES ('66.249.68.192/27', 'IPv4');
+INSERT INTO `googlebot_ips` (`ip_address`, `ip_type`) VALUES ('66.249.68.224/27', 'IPv4');
 INSERT INTO `googlebot_ips` (`ip_address`, `ip_type`) VALUES ('66.249.69.0/27', 'IPv4');
 INSERT INTO `googlebot_ips` (`ip_address`, `ip_type`) VALUES ('66.249.69.32/27', 'IPv4');
 INSERT INTO `googlebot_ips` (`ip_address`, `ip_type`) VALUES ('66.249.69.64/27', 'IPv4');
@@ -229,6 +230,7 @@ INSERT INTO `googlebot_ips` (`ip_address`, `ip_type`) VALUES ('2001:4860:4801:3f
 INSERT INTO `googlebot_ips` (`ip_address`, `ip_type`) VALUES ('2001:4860:4801:40::/64', 'IPv6');
 INSERT INTO `googlebot_ips` (`ip_address`, `ip_type`) VALUES ('2001:4860:4801:41::/64', 'IPv6');
 INSERT INTO `googlebot_ips` (`ip_address`, `ip_type`) VALUES ('2001:4860:4801:42::/64', 'IPv6');
+INSERT INTO `googlebot_ips` (`ip_address`, `ip_type`) VALUES ('2001:4860:4801:43::/64', 'IPv6');
 INSERT INTO `googlebot_ips` (`ip_address`, `ip_type`) VALUES ('2001:4860:4801:44::/64', 'IPv6');
 INSERT INTO `googlebot_ips` (`ip_address`, `ip_type`) VALUES ('2001:4860:4801:45::/64', 'IPv6');
 INSERT INTO `googlebot_ips` (`ip_address`, `ip_type`) VALUES ('2001:4860:4801:46::/64', 'IPv6');

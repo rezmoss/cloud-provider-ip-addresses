@@ -1,7 +1,7 @@
 {
   "provider": "yandex",
   "version": 9,
-  "generated_date": "2026-09-01",
+  "generated_date": "2026-09-02",
   "last_changed_date": "2026-08-29",
   "sources": [
     "BGP announced prefixes via RIPE NCC RIPEstat"

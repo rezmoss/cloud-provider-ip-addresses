@@ -1,6 +1,6 @@
 #!/bin/bash
 # Googlebot IP Ranges
-# Updated: 2026-06-25 03:20:13
+# Updated: 2026-09-02 02:41:41
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -34,11 +34,7 @@ iptables -A INPUT -s 66.249.64.0/23 -j DROP
 iptables -A INPUT -s 66.249.66.0/24 -j DROP
 iptables -A INPUT -s 66.249.67.0/26 -j DROP
 iptables -A INPUT -s 66.249.67.64/27 -j DROP
-iptables -A INPUT -s 66.249.68.0/25 -j DROP
-iptables -A INPUT -s 66.249.68.128/26 -j DROP
-iptables -A INPUT -s 66.249.68.192/27 -j DROP
-iptables -A INPUT -s 66.249.69.0/24 -j DROP
-iptables -A INPUT -s 66.249.70.0/23 -j DROP
+iptables -A INPUT -s 66.249.68.0/22 -j DROP
 iptables -A INPUT -s 66.249.72.0/22 -j DROP
 iptables -A INPUT -s 66.249.76.0/23 -j DROP
 iptables -A INPUT -s 66.249.78.0/24 -j DROP
@@ -53,9 +49,7 @@ ip6tables -A INPUT -s 2001:4860:4801:c::/64 -j DROP
 ip6tables -A INPUT -s 2001:4860:4801:f::/64 -j DROP
 ip6tables -A INPUT -s 2001:4860:4801:10::/60 -j DROP
 ip6tables -A INPUT -s 2001:4860:4801:20::/59 -j DROP
-ip6tables -A INPUT -s 2001:4860:4801:40::/63 -j DROP
-ip6tables -A INPUT -s 2001:4860:4801:42::/64 -j DROP
-ip6tables -A INPUT -s 2001:4860:4801:44::/62 -j DROP
+ip6tables -A INPUT -s 2001:4860:4801:40::/61 -j DROP
 ip6tables -A INPUT -s 2001:4860:4801:48::/62 -j DROP
 ip6tables -A INPUT -s 2001:4860:4801:4c::/63 -j DROP
 ip6tables -A INPUT -s 2001:4860:4801:4e::/64 -j DROP
