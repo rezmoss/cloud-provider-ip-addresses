@@ -114,6 +114,12 @@
     "region": "global"
   },
   {
+    "ip_address": "129.134.138.0/24",
+    "ip_type": "IPv4",
+    "service": "meta-as63293",
+    "region": "global"
+  },
+  {
     "ip_address": "129.134.139.0/24",
     "ip_type": "IPv4",
     "service": "meta-as63293",
@@ -715,6 +721,12 @@
   },
   {
     "ip_address": "2a03:2887:ff38::/48",
+    "ip_type": "IPv6",
+    "service": "meta-as63293",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a03:2887:ff39::/48",
     "ip_type": "IPv6",
     "service": "meta-as63293",
     "region": "global"

@@ -205,6 +205,7 @@ INSERT INTO `rackspace_global_ips` (`ip_address`, `ip_type`) VALUES ('166.86.0.0
 INSERT INTO `rackspace_global_ips` (`ip_address`, `ip_type`) VALUES ('166.86.4.0/22', 'IPv4');
 INSERT INTO `rackspace_global_ips` (`ip_address`, `ip_type`) VALUES ('166.86.128.0/22', 'IPv4');
 INSERT INTO `rackspace_global_ips` (`ip_address`, `ip_type`) VALUES ('166.86.192.0/22', 'IPv4');
+INSERT INTO `rackspace_global_ips` (`ip_address`, `ip_type`) VALUES ('166.86.194.0/24', 'IPv4');
 INSERT INTO `rackspace_global_ips` (`ip_address`, `ip_type`) VALUES ('166.86.196.0/22', 'IPv4');
 INSERT INTO `rackspace_global_ips` (`ip_address`, `ip_type`) VALUES ('166.86.204.0/22', 'IPv4');
 INSERT INTO `rackspace_global_ips` (`ip_address`, `ip_type`) VALUES ('171.33.145.0/24', 'IPv4');

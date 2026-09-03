@@ -5,27 +5,7 @@
     "region": "US-US-MN"
   },
   {
-    "ip_address": "2001:2::/48",
-    "ip_type": "IPv6",
-    "region": "US-US-MN"
-  },
-  {
-    "ip_address": "2001:10::/28",
-    "ip_type": "IPv6",
-    "region": "US-US-MN"
-  },
-  {
-    "ip_address": "2001:db8::/32",
-    "ip_type": "IPv6",
-    "region": "US-US-MN"
-  },
-  {
     "ip_address": "2001:19f0:4800::/38",
-    "ip_type": "IPv6",
-    "region": "US-US-MN"
-  },
-  {
-    "ip_address": "2002::/16",
     "ip_type": "IPv6",
     "region": "US-US-MN"
   }

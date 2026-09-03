@@ -2160,6 +2160,12 @@
     "region": "global"
   },
   {
+    "ip_address": "2600:1406:401::/48",
+    "ip_type": "IPv6",
+    "service": "akamai-as35994",
+    "region": "global"
+  },
+  {
     "ip_address": "2600:1406:600::/48",
     "ip_type": "IPv6",
     "service": "akamai-as35994",

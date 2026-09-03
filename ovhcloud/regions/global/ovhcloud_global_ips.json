@@ -3336,7 +3336,7 @@
     "region": "global"
   },
   {
-    "ip_address": "178.95.83.0/24",
+    "ip_address": "178.94.22.0/24",
     "ip_type": "IPv4",
     "service": "ovhcloud-as16276",
     "region": "global"

@@ -1,6 +1,6 @@
 #!/bin/bash
 # Akamai IP Ranges
-# Updated: 2026-09-02 03:02:45
+# Updated: 2026-09-03 03:06:26
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -583,7 +583,7 @@ ufw deny from 23.58.80.0/23
 ufw deny from 23.58.86.0/23
 ufw deny from 23.58.90.0/23
 ufw deny from 23.58.104.0/22
-ufw deny from 23.58.112.0/21
+ufw deny from 23.58.112.0/22
 ufw deny from 23.58.140.0/22
 ufw deny from 23.58.148.0/22
 ufw deny from 23.58.160.0/19
@@ -709,7 +709,6 @@ ufw deny from 23.79.36.0/22
 ufw deny from 23.79.48.0/20
 ufw deny from 23.79.176.0/20
 ufw deny from 23.192.20.0/22
-ufw deny from 23.192.24.0/22
 ufw deny from 23.192.38.0/23
 ufw deny from 23.192.48.0/21
 ufw deny from 23.192.56.0/22
@@ -819,7 +818,6 @@ ufw deny from 23.198.220.0/22
 ufw deny from 23.199.0.0/21
 ufw deny from 23.199.16.0/21
 ufw deny from 23.199.32.0/23
-ufw deny from 23.199.36.0/22
 ufw deny from 23.199.84.0/22
 ufw deny from 23.199.92.0/22
 ufw deny from 23.199.128.0/18
@@ -1107,7 +1105,6 @@ ufw deny from 23.222.128.0/18
 ufw deny from 23.222.196.0/22
 ufw deny from 23.222.200.0/21
 ufw deny from 23.222.208.0/20
-ufw deny from 23.222.224.0/22
 ufw deny from 23.222.244.0/22
 ufw deny from 23.222.248.0/23
 ufw deny from 23.223.0.0/20
@@ -1556,7 +1553,6 @@ ufw deny from 184.27.120.0/23
 ufw deny from 184.27.124.0/23
 ufw deny from 184.27.144.0/20
 ufw deny from 184.27.160.0/20
-ufw deny from 184.27.200.0/22
 ufw deny from 184.27.208.0/22
 ufw deny from 184.27.220.0/22
 ufw deny from 184.27.224.0/20

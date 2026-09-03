@@ -28,5 +28,12 @@ INSERT INTO `vultr_us-ga_ips` (`ip_address`, `ip_type`) VALUES ('155.138.192.0/1
 INSERT INTO `vultr_us-ga_ips` (`ip_address`, `ip_type`) VALUES ('155.138.224.0/20', 'IPv4');
 INSERT INTO `vultr_us-ga_ips` (`ip_address`, `ip_type`) VALUES ('173.199.104.0/24', 'IPv4');
 INSERT INTO `vultr_us-ga_ips` (`ip_address`, `ip_type`) VALUES ('173.199.108.0/23', 'IPv4');
+INSERT INTO `vultr_us-ga_ips` (`ip_address`, `ip_type`) VALUES ('192.0.2.0/24', 'IPv4');
+INSERT INTO `vultr_us-ga_ips` (`ip_address`, `ip_type`) VALUES ('198.51.100.0/24', 'IPv4');
+INSERT INTO `vultr_us-ga_ips` (`ip_address`, `ip_type`) VALUES ('203.0.113.0/24', 'IPv4');
+INSERT INTO `vultr_us-ga_ips` (`ip_address`, `ip_type`) VALUES ('2001:2::/48', 'IPv6');
+INSERT INTO `vultr_us-ga_ips` (`ip_address`, `ip_type`) VALUES ('2001:10::/28', 'IPv6');
+INSERT INTO `vultr_us-ga_ips` (`ip_address`, `ip_type`) VALUES ('2001:db8::/32', 'IPv6');
 INSERT INTO `vultr_us-ga_ips` (`ip_address`, `ip_type`) VALUES ('2001:19f0:5400::/38', 'IPv6');
 INSERT INTO `vultr_us-ga_ips` (`ip_address`, `ip_type`) VALUES ('2001:19f0:5404::/48', 'IPv6');
+INSERT INTO `vultr_us-ga_ips` (`ip_address`, `ip_type`) VALUES ('2002::/16', 'IPv6');

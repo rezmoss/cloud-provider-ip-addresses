@@ -1,6 +1,6 @@
 #!/bin/bash
 # Alibaba IP Ranges
-# Updated: 2026-08-28 04:56:59
+# Updated: 2026-09-03 03:05:35
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -21,17 +21,14 @@ iptables -A INPUT -s 8.220.168.0/22 -j DROP
 iptables -A INPUT -s 8.220.236.0/22 -j DROP
 iptables -A INPUT -s 8.220.248.0/21 -j DROP
 iptables -A INPUT -s 8.221.152.0/22 -j DROP
-iptables -A INPUT -s 38.47.128.0/21 -j DROP
+iptables -A INPUT -s 38.47.128.0/23 -j DROP
+iptables -A INPUT -s 38.47.131.0/24 -j DROP
+iptables -A INPUT -s 38.47.132.0/22 -j DROP
 iptables -A INPUT -s 38.47.136.0/22 -j DROP
 iptables -A INPUT -s 38.47.140.0/23 -j DROP
 iptables -A INPUT -s 38.47.142.0/24 -j DROP
-iptables -A INPUT -s 38.47.144.0/23 -j DROP
-iptables -A INPUT -s 38.47.146.0/24 -j DROP
-iptables -A INPUT -s 38.47.148.0/23 -j DROP
-iptables -A INPUT -s 38.47.150.0/24 -j DROP
-iptables -A INPUT -s 38.47.152.0/21 -j DROP
-iptables -A INPUT -s 45.194.56.0/22 -j DROP
-iptables -A INPUT -s 45.194.61.0/24 -j DROP
+iptables -A INPUT -s 38.47.144.0/24 -j DROP
+iptables -A INPUT -s 45.194.58.0/23 -j DROP
 iptables -A INPUT -s 45.194.63.0/24 -j DROP
 iptables -A INPUT -s 47.57.197.0/24 -j DROP
 iptables -A INPUT -s 47.87.24.0/21 -j DROP
@@ -54,7 +51,6 @@ iptables -A INPUT -s 47.250.104.0/22 -j DROP
 iptables -A INPUT -s 47.251.128.0/22 -j DROP
 iptables -A INPUT -s 47.251.192.0/22 -j DROP
 iptables -A INPUT -s 47.253.124.0/22 -j DROP
-iptables -A INPUT -s 103.173.12.0/23 -j DROP
 iptables -A INPUT -s 103.206.40.0/22 -j DROP
 iptables -A INPUT -s 139.95.66.0/23 -j DROP
 iptables -A INPUT -s 147.139.252.0/22 -j DROP
@@ -91,10 +87,10 @@ iptables -A INPUT -s 170.33.192.0/23 -j DROP
 iptables -A INPUT -s 170.33.200.0/22 -j DROP
 iptables -A INPUT -s 170.33.216.0/22 -j DROP
 iptables -A INPUT -s 198.11.144.0/24 -j DROP
-iptables -A INPUT -s 205.198.40.0/23 -j DROP
 iptables -A INPUT -s 205.198.43.0/24 -j DROP
-iptables -A INPUT -s 205.198.44.0/22 -j DROP
-iptables -A INPUT -s 209.146.118.0/23 -j DROP
+iptables -A INPUT -s 205.198.45.0/24 -j DROP
+iptables -A INPUT -s 205.198.46.0/23 -j DROP
+iptables -A INPUT -s 209.146.118.0/24 -j DROP
 ip6tables -A INPUT -s 2401:8680:4004::/46 -j DROP
 ip6tables -A INPUT -s 2401:8680:4101::/48 -j DROP
 ip6tables -A INPUT -s 240b:4002:1010::/48 -j DROP

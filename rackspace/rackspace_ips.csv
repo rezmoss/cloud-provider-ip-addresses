@@ -198,6 +198,7 @@ ip_address,ip_type,service,region
 166.86.4.0/22,IPv4,rackspace-as33070,global
 166.86.128.0/22,IPv4,rackspace-as44009,global
 166.86.192.0/22,IPv4,rackspace-as213740,global
+166.86.194.0/24,IPv4,rackspace-as213735,global
 166.86.196.0/22,IPv4,rackspace-as213735,global
 166.86.204.0/22,IPv4,rackspace-as213740,global
 171.33.145.0/24,IPv4,rackspace-as12200,global

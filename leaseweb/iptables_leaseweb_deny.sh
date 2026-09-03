@@ -1,6 +1,6 @@
 #!/bin/bash
 # Leaseweb IP Ranges
-# Updated: 2026-09-02 03:03:35
+# Updated: 2026-09-03 03:06:35
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -1049,6 +1049,7 @@ iptables -A INPUT -s 198.252.101.0/24 -j DROP
 iptables -A INPUT -s 198.252.103.0/24 -j DROP
 iptables -A INPUT -s 198.252.107.0/24 -j DROP
 iptables -A INPUT -s 198.252.110.0/24 -j DROP
+iptables -A INPUT -s 199.34.64.0/24 -j DROP
 iptables -A INPUT -s 199.38.112.0/21 -j DROP
 iptables -A INPUT -s 199.47.241.0/24 -j DROP
 iptables -A INPUT -s 199.47.242.0/23 -j DROP

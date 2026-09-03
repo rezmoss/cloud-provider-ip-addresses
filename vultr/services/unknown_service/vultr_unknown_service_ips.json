@@ -1915,11 +1915,6 @@
     "region": "US-NJ"
   },
   {
-    "ip_address": "178.95.40.0/24",
-    "ip_type": "IPv4",
-    "region": "BR-SP"
-  },
-  {
     "ip_address": "185.92.220.0/23",
     "ip_type": "IPv4",
     "region": "NL-NH"
@@ -1932,7 +1927,7 @@
   {
     "ip_address": "192.0.2.0/24",
     "ip_type": "IPv4",
-    "region": "US-OH"
+    "region": "US-GA"
   },
   {
     "ip_address": "192.248.128.0/20",
@@ -1967,7 +1962,7 @@
   {
     "ip_address": "198.51.100.0/24",
     "ip_type": "IPv4",
-    "region": "US-OH"
+    "region": "US-GA"
   },
   {
     "ip_address": "199.247.0.0/21",
@@ -2002,7 +1997,7 @@
   {
     "ip_address": "203.0.113.0/24",
     "ip_type": "IPv4",
-    "region": "US-OH"
+    "region": "US-GA"
   },
   {
     "ip_address": "207.148.0.0/21",
@@ -2222,17 +2217,17 @@
   {
     "ip_address": "2001:2::/48",
     "ip_type": "IPv6",
-    "region": "US-US-MN"
+    "region": "US-GA"
   },
   {
     "ip_address": "2001:10::/28",
     "ip_type": "IPv6",
-    "region": "US-US-MN"
+    "region": "US-GA"
   },
   {
     "ip_address": "2001:db8::/32",
     "ip_type": "IPv6",
-    "region": "US-US-MN"
+    "region": "US-GA"
   },
   {
     "ip_address": "2001:19f0::/38",
@@ -2387,7 +2382,7 @@
   {
     "ip_address": "2002::/16",
     "ip_type": "IPv6",
-    "region": "US-US-MN"
+    "region": "US-GA"
   },
   {
     "ip_address": "2401:c080:1000::/38",
