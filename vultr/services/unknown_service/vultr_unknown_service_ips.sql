@@ -370,6 +370,7 @@ INSERT INTO `vultr_unknown_service_ips` (`ip_address`, `ip_type`) VALUES ('167.1
 INSERT INTO `vultr_unknown_service_ips` (`ip_address`, `ip_type`) VALUES ('173.199.64.0/24', 'IPv4');
 INSERT INTO `vultr_unknown_service_ips` (`ip_address`, `ip_type`) VALUES ('173.199.65.0/24', 'IPv4');
 INSERT INTO `vultr_unknown_service_ips` (`ip_address`, `ip_type`) VALUES ('173.199.66.0/24', 'IPv4');
+INSERT INTO `vultr_unknown_service_ips` (`ip_address`, `ip_type`) VALUES ('173.199.68.0/24', 'IPv4');
 INSERT INTO `vultr_unknown_service_ips` (`ip_address`, `ip_type`) VALUES ('173.199.70.0/23', 'IPv4');
 INSERT INTO `vultr_unknown_service_ips` (`ip_address`, `ip_type`) VALUES ('173.199.72.0/21', 'IPv4');
 INSERT INTO `vultr_unknown_service_ips` (`ip_address`, `ip_type`) VALUES ('173.199.80.0/24', 'IPv4');
@@ -463,6 +464,7 @@ INSERT INTO `vultr_unknown_service_ips` (`ip_address`, `ip_type`) VALUES ('2001:
 INSERT INTO `vultr_unknown_service_ips` (`ip_address`, `ip_type`) VALUES ('2001:19f0:5404::/48', 'IPv6');
 INSERT INTO `vultr_unknown_service_ips` (`ip_address`, `ip_type`) VALUES ('2001:19f0:5800::/38', 'IPv6');
 INSERT INTO `vultr_unknown_service_ips` (`ip_address`, `ip_type`) VALUES ('2001:19f0:5c00::/38', 'IPv6');
+INSERT INTO `vultr_unknown_service_ips` (`ip_address`, `ip_type`) VALUES ('2001:19f0:5c03::/48', 'IPv6');
 INSERT INTO `vultr_unknown_service_ips` (`ip_address`, `ip_type`) VALUES ('2001:19f0:6000::/38', 'IPv6');
 INSERT INTO `vultr_unknown_service_ips` (`ip_address`, `ip_type`) VALUES ('2001:19f0:6400::/38', 'IPv6');
 INSERT INTO `vultr_unknown_service_ips` (`ip_address`, `ip_type`) VALUES ('2001:19f0:6800::/38', 'IPv6');

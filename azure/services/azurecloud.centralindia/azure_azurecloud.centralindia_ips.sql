@@ -196,6 +196,9 @@ INSERT INTO `azure_azurecloud.centralindia_ips` (`ip_address`, `ip_type`) VALUES
 INSERT INTO `azure_azurecloud.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1046:1500:8::/64', 'IPv6');
 INSERT INTO `azure_azurecloud.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1046:2000:80::/59', 'IPv6');
 INSERT INTO `azure_azurecloud.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1047:1:80::/59', 'IPv6');
+INSERT INTO `azure_azurecloud.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:104c:0:4200::/63', 'IPv6');
+INSERT INTO `azure_azurecloud.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:104c:0:8200::/55', 'IPv6');
+INSERT INTO `azure_azurecloud.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:104c:0:c200::/55', 'IPv6');
 INSERT INTO `azure_azurecloud.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1310::/54', 'IPv6');
 INSERT INTO `azure_azurecloud.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1709::/48', 'IPv6');
 INSERT INTO `azure_azurecloud.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2000:608::/62', 'IPv6');

@@ -216,7 +216,7 @@
     "region": "indonesiacentral"
   },
   {
-    "ip_address": "48.193.0.0/17",
+    "ip_address": "48.193.0.0/16",
     "ip_type": "IPv4",
     "service": "AzureCloud.indonesiacentral",
     "region": "indonesiacentral"

@@ -858,6 +858,30 @@
     "region": "koreacentral"
   },
   {
+    "ip_address": "2603:104c:7:200::/55",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.koreacentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "2603:104c:7:4200::/55",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.koreacentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "2603:104c:7:8200::/55",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.koreacentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "2603:104c:7:c200::/55",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.koreacentral",
+    "region": "koreacentral"
+  },
+  {
     "ip_address": "2603:1061:1310:1c00::/54",
     "ip_type": "IPv6",
     "service": "AzureCloud.koreacentral",

@@ -974,6 +974,10 @@ INSERT INTO `azure_southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('2603:10
 INSERT INTO `azure_southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1046:1500:28::/64', 'IPv6');
 INSERT INTO `azure_southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1046:2000:180::/59', 'IPv6');
 INSERT INTO `azure_southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1047:1:180::/59', 'IPv6');
+INSERT INTO `azure_southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('2603:104c:4:200::/55', 'IPv6');
+INSERT INTO `azure_southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('2603:104c:4:4200::/55', 'IPv6');
+INSERT INTO `azure_southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('2603:104c:4:8200::/55', 'IPv6');
+INSERT INTO `azure_southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('2603:104c:4:c200::/55', 'IPv6');
 INSERT INTO `azure_southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1310:3000::/54', 'IPv6');
 INSERT INTO `azure_southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1718::/48', 'IPv6');
 INSERT INTO `azure_southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2000:440::/62', 'IPv6');

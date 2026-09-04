@@ -9396,6 +9396,12 @@
     "region": "westeurope"
   },
   {
+    "ip_address": "145.190.86.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.westeurope",
+    "region": "westeurope"
+  },
+  {
     "ip_address": "145.190.135.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.westeurope",
@@ -10969,6 +10975,30 @@
   },
   {
     "ip_address": "2603:1027:1:140::/59",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.westeurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "2603:102c:1:200::/55",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.westeurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "2603:102c:1:4200::/55",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.westeurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "2603:102c:1:8200::/55",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.westeurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "2603:102c:1:c200::/55",
     "ip_type": "IPv6",
     "service": "AzureCloud.westeurope",
     "region": "westeurope"

@@ -5,6 +5,9 @@ ip_address,ip_type,service,region
 3.2.95.0/24,IPv4,AMAZON,il-central-1
 3.2.95.0/24,IPv4,EC2,il-central-1
 3.2.95.0/24,IPv4,S3,il-central-1
+3.2.127.0/24,IPv4,AMAZON,il-central-1
+3.2.127.0/24,IPv4,EC2,il-central-1
+3.2.127.0/24,IPv4,S3,il-central-1
 3.5.56.0/22,IPv4,AMAZON,il-central-1
 3.5.56.0/22,IPv4,EC2,il-central-1
 3.5.56.0/22,IPv4,S3,il-central-1
@@ -93,6 +96,9 @@ ip_address,ip_type,service,region
 2600:f0f0:611f::/48,IPv6,AMAZON,il-central-1
 2600:f0f0:611f::/48,IPv6,EC2,il-central-1
 2600:f0f0:611f::/48,IPv6,S3,il-central-1
+2600:f0f0:613f::/48,IPv6,AMAZON,il-central-1
+2600:f0f0:613f::/48,IPv6,EC2,il-central-1
+2600:f0f0:613f::/48,IPv6,S3,il-central-1
 2600:f0f0:c124::/48,IPv6,AMAZON,il-central-1
 2600:f0f0:c124::/48,IPv6,EC2,il-central-1
 2600:f0f1:8f::/48,IPv6,AMAZON,il-central-1

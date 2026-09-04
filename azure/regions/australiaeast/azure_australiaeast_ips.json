@@ -4794,6 +4794,30 @@
     "region": "australiaeast"
   },
   {
+    "ip_address": "2603:101c:2:200::/55",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.australiaeast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "2603:101c:2:4200::/55",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.australiaeast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "2603:101c:2:8200::/55",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.australiaeast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "2603:101c:2:c200::/55",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.australiaeast",
+    "region": "australiaeast"
+  },
+  {
     "ip_address": "2603:1046:a00:8::/63",
     "ip_type": "IPv6",
     "service": "AzureCloud.australiaeast",

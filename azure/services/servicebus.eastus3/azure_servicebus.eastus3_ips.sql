@@ -7,4 +7,5 @@ CREATE TABLE IF NOT EXISTS `azure_servicebus.eastus3_ips` (
 );
 
 INSERT INTO `azure_servicebus.eastus3_ips` (`ip_address`, `ip_type`) VALUES ('134.138.71.128/25', 'IPv4');
+INSERT INTO `azure_servicebus.eastus3_ips` (`ip_address`, `ip_type`) VALUES ('134.138.96.16/29', 'IPv4');
 INSERT INTO `azure_servicebus.eastus3_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1402:1::180/121', 'IPv6');

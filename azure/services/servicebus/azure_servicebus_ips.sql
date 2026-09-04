@@ -413,6 +413,7 @@ INSERT INTO `azure_servicebus_ips` (`ip_address`, `ip_type`) VALUES ('104.214.18
 INSERT INTO `azure_servicebus_ips` (`ip_address`, `ip_type`) VALUES ('104.214.165.72/29', 'IPv4');
 INSERT INTO `azure_servicebus_ips` (`ip_address`, `ip_type`) VALUES ('108.140.24.0/25', 'IPv4');
 INSERT INTO `azure_servicebus_ips` (`ip_address`, `ip_type`) VALUES ('134.138.71.128/25', 'IPv4');
+INSERT INTO `azure_servicebus_ips` (`ip_address`, `ip_type`) VALUES ('134.138.96.16/29', 'IPv4');
 INSERT INTO `azure_servicebus_ips` (`ip_address`, `ip_type`) VALUES ('135.224.35.0/24', 'IPv4');
 INSERT INTO `azure_servicebus_ips` (`ip_address`, `ip_type`) VALUES ('135.224.36.0/25', 'IPv4');
 INSERT INTO `azure_servicebus_ips` (`ip_address`, `ip_type`) VALUES ('135.224.36.128/26', 'IPv4');

@@ -648,6 +648,12 @@
     "region": "global"
   },
   {
+    "ip_address": "64.120.109.0/24",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as60781",
+    "region": "global"
+  },
+  {
     "ip_address": "64.226.54.0/24",
     "ip_type": "IPv4",
     "service": "leaseweb-as60781",

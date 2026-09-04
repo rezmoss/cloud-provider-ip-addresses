@@ -1,6 +1,6 @@
 #!/bin/bash
 # Gcore IP Ranges
-# Updated: 2026-09-03 03:06:53
+# Updated: 2026-09-04 02:32:50
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -30,7 +30,8 @@ ufw allow from 5.188.133.6/32
 ufw allow from 5.188.133.10/31
 ufw allow from 5.188.133.13/32
 ufw allow from 5.189.207.4/31
-ufw allow from 31.184.207.4/30
+ufw allow from 31.184.207.4/32
+ufw allow from 31.184.207.6/31
 ufw allow from 31.184.207.8/30
 ufw allow from 31.184.207.12/32
 ufw allow from 37.9.33.122/32
@@ -46,6 +47,7 @@ ufw allow from 37.156.224.13/32
 ufw allow from 37.156.224.15/32
 ufw allow from 37.239.145.2/32
 ufw allow from 41.210.189.22/32
+ufw allow from 41.216.70.58/32
 ufw allow from 41.226.6.202/32
 ufw allow from 45.32.212.15/32
 ufw allow from 45.68.4.2/32
@@ -82,7 +84,7 @@ ufw allow from 65.20.85.192/32
 ufw allow from 78.111.103.4/31
 ufw allow from 78.111.110.4/31
 ufw allow from 78.111.110.6/32
-ufw allow from 79.133.108.4/30
+ufw allow from 79.133.108.6/31
 ufw allow from 79.133.108.13/32
 ufw allow from 79.133.108.14/31
 ufw allow from 79.133.108.16/31
@@ -869,7 +871,7 @@ ufw allow from 2a03:90c0:251:2801::14/126
 ufw allow from 2a03:90c0:251:2801::18/127
 ufw allow from 2a03:90c0:251:2801::23/128
 ufw allow from 2a03:90c0:251:2801::24/126
-ufw allow from 2a03:90c0:271:2801:1::4/126
+ufw allow from 2a03:90c0:271:2801:1::6/127
 ufw allow from 2a03:90c0:271:2801:1::13/128
 ufw allow from 2a03:90c0:271:2801:1::14/126
 ufw allow from 2a03:90c0:271:2801:1::23/128
@@ -915,7 +917,8 @@ ufw allow from 2a03:90c0:3d1:2801::6/128
 ufw allow from 2a03:90c0:3f1:2801::4/126
 ufw allow from 2a03:90c0:3f1:2801::8/128
 ufw allow from 2a03:90c0:421:2801::4/127
-ufw allow from 2a03:90c0:460:2801::4/126
+ufw allow from 2a03:90c0:460:2801::4/128
+ufw allow from 2a03:90c0:460:2801::6/127
 ufw allow from 2a03:90c0:460:2801::8/127
 ufw allow from 2a03:90c0:460:2801::10/127
 ufw allow from 2a03:90c0:460:2801::12/128

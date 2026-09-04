@@ -126,6 +126,18 @@
     "region": ""
   },
   {
+    "ip_address": "20.66.231.192/26",
+    "ip_type": "IPv4",
+    "service": "KustoAnalytics",
+    "region": ""
+  },
+  {
+    "ip_address": "20.66.232.0/26",
+    "ip_type": "IPv4",
+    "service": "KustoAnalytics",
+    "region": ""
+  },
+  {
     "ip_address": "20.87.87.192/26",
     "ip_type": "IPv4",
     "service": "KustoAnalytics",
@@ -444,6 +456,12 @@
     "region": ""
   },
   {
+    "ip_address": "57.174.143.128/26",
+    "ip_type": "IPv4",
+    "service": "KustoAnalytics",
+    "region": ""
+  },
+  {
     "ip_address": "68.210.170.160/27",
     "ip_type": "IPv4",
     "service": "KustoAnalytics",
@@ -481,6 +499,12 @@
   },
   {
     "ip_address": "74.7.188.0/27",
+    "ip_type": "IPv4",
+    "service": "KustoAnalytics",
+    "region": ""
+  },
+  {
+    "ip_address": "74.159.63.0/25",
     "ip_type": "IPv4",
     "service": "KustoAnalytics",
     "region": ""

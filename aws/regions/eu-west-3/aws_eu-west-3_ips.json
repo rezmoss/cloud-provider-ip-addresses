@@ -48,6 +48,24 @@
     "region": "eu-west-3"
   },
   {
+    "ip_address": "3.2.111.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-west-3"
+  },
+  {
+    "ip_address": "3.2.111.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "eu-west-3"
+  },
+  {
+    "ip_address": "3.2.111.0/24",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "eu-west-3"
+  },
+  {
     "ip_address": "3.4.12.75/32",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -1395,6 +1413,24 @@
     "ip_address": "2600:f0f0:6118::/48",
     "ip_type": "IPv6",
     "service": "EC2",
+    "region": "eu-west-3"
+  },
+  {
+    "ip_address": "2600:f0f0:612f::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eu-west-3"
+  },
+  {
+    "ip_address": "2600:f0f0:612f::/48",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eu-west-3"
+  },
+  {
+    "ip_address": "2600:f0f0:612f::/48",
+    "ip_type": "IPv6",
+    "service": "S3",
     "region": "eu-west-3"
   },
   {

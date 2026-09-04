@@ -1650,6 +1650,30 @@
     "region": "swedensouth"
   },
   {
+    "ip_address": "2603:102c:c:200::/55",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.swedensouth",
+    "region": "swedensouth"
+  },
+  {
+    "ip_address": "2603:102c:c:4200::/55",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.swedensouth",
+    "region": "swedensouth"
+  },
+  {
+    "ip_address": "2603:102c:c:8200::/55",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.swedensouth",
+    "region": "swedensouth"
+  },
+  {
+    "ip_address": "2603:102c:c:c200::/55",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.swedensouth",
+    "region": "swedensouth"
+  },
+  {
     "ip_address": "2603:1061:1311:3c00::/54",
     "ip_type": "IPv6",
     "service": "AzureCloud.swedensouth",

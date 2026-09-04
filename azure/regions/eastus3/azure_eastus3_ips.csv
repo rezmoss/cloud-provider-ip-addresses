@@ -103,6 +103,7 @@ ip_address,ip_type,service,region
 134.138.96.0/29,IPv4,MicrosoftContainerRegistry.EastUS3,eastus3
 134.138.96.8/30,IPv4,ServiceFabric.EastUS3,eastus3
 134.138.96.12/30,IPv4,AzureKeyVault.EastUS3,eastus3
+134.138.96.16/29,IPv4,ServiceBus.EastUS3,eastus3
 134.138.96.48/29,IPv4,Sql.EastUS3,eastus3
 134.138.96.64/26,IPv4,AzureContainerRegistry.EastUS3,eastus3
 134.138.96.224/27,IPv4,Sql.EastUS3,eastus3
@@ -124,6 +125,8 @@ ip_address,ip_type,service,region
 145.190.167.0/24,IPv4,Storage.EastUS3,eastus3
 145.190.176.0/24,IPv4,AzureCloud.eastus3,eastus3
 145.190.176.0/24,IPv4,Storage.EastUS3,eastus3
+145.190.189.0/24,IPv4,AzureCloud.eastus3,eastus3
+145.190.189.0/24,IPv4,Storage.EastUS3,eastus3
 209.199.33.224/28,IPv4,AzureCloud.eastus3,eastus3
 209.199.35.0/25,IPv4,AzureCloud.eastus3,eastus3
 209.199.45.96/27,IPv4,AzureCloud.eastus3,eastus3

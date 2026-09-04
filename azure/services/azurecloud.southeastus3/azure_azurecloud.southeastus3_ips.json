@@ -90,25 +90,19 @@
     "region": "southeastus3"
   },
   {
-    "ip_address": "57.157.17.0/27",
+    "ip_address": "57.157.17.0/26",
     "ip_type": "IPv4",
     "service": "AzureCloud.southeastus3",
     "region": "southeastus3"
   },
   {
-    "ip_address": "57.157.17.32/28",
+    "ip_address": "57.157.17.64/27",
     "ip_type": "IPv4",
     "service": "AzureCloud.southeastus3",
     "region": "southeastus3"
   },
   {
-    "ip_address": "57.157.17.48/30",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southeastus3",
-    "region": "southeastus3"
-  },
-  {
-    "ip_address": "57.157.17.52/31",
+    "ip_address": "57.157.17.96/31",
     "ip_type": "IPv4",
     "service": "AzureCloud.southeastus3",
     "region": "southeastus3"
@@ -127,6 +121,12 @@
   },
   {
     "ip_address": "135.130.144.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastus3",
+    "region": "southeastus3"
+  },
+  {
+    "ip_address": "172.132.128.0/17",
     "ip_type": "IPv4",
     "service": "AzureCloud.southeastus3",
     "region": "southeastus3"
@@ -192,19 +192,19 @@
     "region": "southeastus3"
   },
   {
-    "ip_address": "2603:1061:1018:80::/60",
+    "ip_address": "2603:1061:1018:80::/59",
     "ip_type": "IPv6",
     "service": "AzureCloud.southeastus3",
     "region": "southeastus3"
   },
   {
-    "ip_address": "2603:1061:1018:90::/63",
+    "ip_address": "2603:1061:1018:a0::/61",
     "ip_type": "IPv6",
     "service": "AzureCloud.southeastus3",
     "region": "southeastus3"
   },
   {
-    "ip_address": "2603:1061:1018:92::/64",
+    "ip_address": "2603:1061:1018:a8::/64",
     "ip_type": "IPv6",
     "service": "AzureCloud.southeastus3",
     "region": "southeastus3"

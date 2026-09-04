@@ -110,6 +110,7 @@ INSERT INTO `azure_eastus3_ips` (`ip_address`, `ip_type`) VALUES ('134.138.95.22
 INSERT INTO `azure_eastus3_ips` (`ip_address`, `ip_type`) VALUES ('134.138.96.0/29', 'IPv4');
 INSERT INTO `azure_eastus3_ips` (`ip_address`, `ip_type`) VALUES ('134.138.96.8/30', 'IPv4');
 INSERT INTO `azure_eastus3_ips` (`ip_address`, `ip_type`) VALUES ('134.138.96.12/30', 'IPv4');
+INSERT INTO `azure_eastus3_ips` (`ip_address`, `ip_type`) VALUES ('134.138.96.16/29', 'IPv4');
 INSERT INTO `azure_eastus3_ips` (`ip_address`, `ip_type`) VALUES ('134.138.96.48/29', 'IPv4');
 INSERT INTO `azure_eastus3_ips` (`ip_address`, `ip_type`) VALUES ('134.138.96.64/26', 'IPv4');
 INSERT INTO `azure_eastus3_ips` (`ip_address`, `ip_type`) VALUES ('134.138.96.224/27', 'IPv4');
@@ -131,6 +132,8 @@ INSERT INTO `azure_eastus3_ips` (`ip_address`, `ip_type`) VALUES ('145.190.167.0
 INSERT INTO `azure_eastus3_ips` (`ip_address`, `ip_type`) VALUES ('145.190.167.0/24', 'IPv4');
 INSERT INTO `azure_eastus3_ips` (`ip_address`, `ip_type`) VALUES ('145.190.176.0/24', 'IPv4');
 INSERT INTO `azure_eastus3_ips` (`ip_address`, `ip_type`) VALUES ('145.190.176.0/24', 'IPv4');
+INSERT INTO `azure_eastus3_ips` (`ip_address`, `ip_type`) VALUES ('145.190.189.0/24', 'IPv4');
+INSERT INTO `azure_eastus3_ips` (`ip_address`, `ip_type`) VALUES ('145.190.189.0/24', 'IPv4');
 INSERT INTO `azure_eastus3_ips` (`ip_address`, `ip_type`) VALUES ('209.199.33.224/28', 'IPv4');
 INSERT INTO `azure_eastus3_ips` (`ip_address`, `ip_type`) VALUES ('209.199.35.0/25', 'IPv4');
 INSERT INTO `azure_eastus3_ips` (`ip_address`, `ip_type`) VALUES ('209.199.45.96/27', 'IPv4');

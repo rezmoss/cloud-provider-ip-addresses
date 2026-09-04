@@ -426,6 +426,30 @@
     "region": "germanyn"
   },
   {
+    "ip_address": "2603:102c:4:200::/55",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:102c:4:4200::/55",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:102c:4:8200::/55",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:102c:4:c200::/55",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
     "ip_address": "2603:1061:1311:1400::/54",
     "ip_type": "IPv6",
     "service": "AzureCloud.germanyn",

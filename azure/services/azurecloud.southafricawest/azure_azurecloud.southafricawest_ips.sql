@@ -73,6 +73,10 @@ INSERT INTO `azure_azurecloud.southafricawest_ips` (`ip_address`, `ip_type`) VAL
 INSERT INTO `azure_azurecloud.southafricawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1006:1500::/64', 'IPv6');
 INSERT INTO `azure_azurecloud.southafricawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1006:2000:20::/59', 'IPv6');
 INSERT INTO `azure_azurecloud.southafricawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1007:200:20::/59', 'IPv6');
+INSERT INTO `azure_azurecloud.southafricawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:100c:1:200::/55', 'IPv6');
+INSERT INTO `azure_azurecloud.southafricawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:100c:1:4200::/55', 'IPv6');
+INSERT INTO `azure_azurecloud.southafricawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:100c:1:8200::/55', 'IPv6');
+INSERT INTO `azure_azurecloud.southafricawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:100c:1:c200::/55', 'IPv6');
 INSERT INTO `azure_azurecloud.southafricawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1046:a00:3e::/64', 'IPv6');
 INSERT INTO `azure_azurecloud.southafricawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1313:400::/54', 'IPv6');
 INSERT INTO `azure_azurecloud.southafricawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1721::/48', 'IPv6');

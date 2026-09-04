@@ -651,6 +651,10 @@ INSERT INTO `azure_ukwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1026:900:
 INSERT INTO `azure_ukwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1026:2407::/48', 'IPv6');
 INSERT INTO `azure_ukwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1026:3000:200::/59', 'IPv6');
 INSERT INTO `azure_ukwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1027:1:200::/59', 'IPv6');
+INSERT INTO `azure_ukwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:102c:10:200::/55', 'IPv6');
+INSERT INTO `azure_ukwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:102c:10:4200::/55', 'IPv6');
+INSERT INTO `azure_ukwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:102c:10:8200::/55', 'IPv6');
+INSERT INTO `azure_ukwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:102c:10:c200::/55', 'IPv6');
 INSERT INTO `azure_ukwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1311:5400::/54', 'IPv6');
 INSERT INTO `azure_ukwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:171b::/48', 'IPv6');
 INSERT INTO `azure_ukwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2000:588::/62', 'IPv6');

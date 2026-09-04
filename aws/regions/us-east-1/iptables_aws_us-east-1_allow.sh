@@ -1,6 +1,6 @@
 #!/bin/bash
 # Aws IP Ranges
-# Updated: 2026-09-02 02:40:18
+# Updated: 2026-09-04 02:24:47
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -17,6 +17,7 @@ iptables -A INPUT -s 3.2.58.0/24 -j ACCEPT
 iptables -A INPUT -s 3.2.64.0/23 -j ACCEPT
 iptables -A INPUT -s 3.2.74.0/24 -j ACCEPT
 iptables -A INPUT -s 3.2.103.0/24 -j ACCEPT
+iptables -A INPUT -s 3.2.104.0/24 -j ACCEPT
 iptables -A INPUT -s 3.3.2.0/24 -j ACCEPT
 iptables -A INPUT -s 3.3.5.0/24 -j ACCEPT
 iptables -A INPUT -s 3.3.16.0/21 -j ACCEPT
@@ -654,6 +655,7 @@ ip6tables -A INPUT -s 2600:f0f0:6000::/43 -j ACCEPT
 ip6tables -A INPUT -s 2600:f0f0:6100::/47 -j ACCEPT
 ip6tables -A INPUT -s 2600:f0f0:610a::/48 -j ACCEPT
 ip6tables -A INPUT -s 2600:f0f0:6127::/48 -j ACCEPT
+ip6tables -A INPUT -s 2600:f0f0:6128::/48 -j ACCEPT
 ip6tables -A INPUT -s 2600:f0f0:8101::/48 -j ACCEPT
 ip6tables -A INPUT -s 2600:f0f0:8180::/48 -j ACCEPT
 ip6tables -A INPUT -s 2600:f0f0:c000::/48 -j ACCEPT
@@ -681,7 +683,9 @@ ip6tables -A INPUT -s 2600:f0fb:c003::/48 -j ACCEPT
 ip6tables -A INPUT -s 2600:f0fb:c0ff::/56 -j ACCEPT
 ip6tables -A INPUT -s 2600:f0fb:c800::/48 -j ACCEPT
 ip6tables -A INPUT -s 2600:f0fb:c900::/51 -j ACCEPT
+ip6tables -A INPUT -s 2600:f0fb:c900:2000::/52 -j ACCEPT
 ip6tables -A INPUT -s 2600:f0fb:ca00::/51 -j ACCEPT
+ip6tables -A INPUT -s 2600:f0fb:ca00:2000::/52 -j ACCEPT
 ip6tables -A INPUT -s 2600:f0fb:e000::/39 -j ACCEPT
 ip6tables -A INPUT -s 2600:f0fb:e300::/40 -j ACCEPT
 ip6tables -A INPUT -s 2600:f0fb:e500::/40 -j ACCEPT

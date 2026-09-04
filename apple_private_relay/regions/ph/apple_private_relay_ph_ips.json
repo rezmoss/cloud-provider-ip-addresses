@@ -300,6 +300,16 @@
     "region": "PH"
   },
   {
+    "ip_address": "104.28.137.227/32",
+    "ip_type": "IPv4",
+    "region": "PH"
+  },
+  {
+    "ip_address": "104.28.137.228/32",
+    "ip_type": "IPv4",
+    "region": "PH"
+  },
+  {
     "ip_address": "104.28.139.89/32",
     "ip_type": "IPv4",
     "region": "PH"

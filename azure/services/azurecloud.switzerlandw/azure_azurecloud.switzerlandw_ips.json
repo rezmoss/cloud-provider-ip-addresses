@@ -444,6 +444,30 @@
     "region": "switzerlandw"
   },
   {
+    "ip_address": "2603:102c:e:200::/55",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.switzerlandw",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "2603:102c:e:4200::/55",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.switzerlandw",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "2603:102c:e:8200::/55",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.switzerlandw",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "2603:102c:e:c200::/55",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.switzerlandw",
+    "region": "switzerlandw"
+  },
+  {
     "ip_address": "2603:1061:1311:4400::/54",
     "ip_type": "IPv6",
     "service": "AzureCloud.switzerlandw",

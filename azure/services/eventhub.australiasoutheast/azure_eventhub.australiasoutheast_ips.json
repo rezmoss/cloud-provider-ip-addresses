@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "4.199.88.128/26",
+    "ip_type": "IPv4",
+    "service": "EventHub.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  },
+  {
     "ip_address": "13.77.50.32/27",
     "ip_type": "IPv4",
     "service": "EventHub.AustraliaSoutheast",

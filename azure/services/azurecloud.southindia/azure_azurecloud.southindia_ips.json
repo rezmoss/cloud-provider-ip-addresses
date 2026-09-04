@@ -642,6 +642,30 @@
     "region": "southindia"
   },
   {
+    "ip_address": "2603:104c:1:200::/55",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.southindia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "2603:104c:1:4200::/55",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.southindia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "2603:104c:1:8200::/55",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.southindia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "2603:104c:1:c200::/55",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.southindia",
+    "region": "southindia"
+  },
+  {
     "ip_address": "2603:1061:1310:2c00::/54",
     "ip_type": "IPv6",
     "service": "AzureCloud.southindia",

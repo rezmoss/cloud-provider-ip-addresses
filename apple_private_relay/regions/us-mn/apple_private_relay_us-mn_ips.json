@@ -240,6 +240,16 @@
     "region": "US-MN"
   },
   {
+    "ip_address": "104.28.137.222/32",
+    "ip_type": "IPv4",
+    "region": "US-MN"
+  },
+  {
+    "ip_address": "104.28.137.223/32",
+    "ip_type": "IPv4",
+    "region": "US-MN"
+  },
+  {
     "ip_address": "104.28.139.98/32",
     "ip_type": "IPv4",
     "region": "US-MN"

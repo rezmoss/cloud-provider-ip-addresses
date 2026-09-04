@@ -1878,6 +1878,10 @@ INSERT INTO `azure_eastus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1036:2500
 INSERT INTO `azure_eastus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1036:2500:48::/64', 'IPv6');
 INSERT INTO `azure_eastus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1036:3000:120::/59', 'IPv6');
 INSERT INTO `azure_eastus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1037:1:120::/59', 'IPv6');
+INSERT INTO `azure_eastus_ips` (`ip_address`, `ip_type`) VALUES ('2603:103c:3:200::/55', 'IPv6');
+INSERT INTO `azure_eastus_ips` (`ip_address`, `ip_type`) VALUES ('2603:103c:3:4200::/55', 'IPv6');
+INSERT INTO `azure_eastus_ips` (`ip_address`, `ip_type`) VALUES ('2603:103c:3:8200::/55', 'IPv6');
+INSERT INTO `azure_eastus_ips` (`ip_address`, `ip_type`) VALUES ('2603:103c:3:c200::/55', 'IPv6');
 INSERT INTO `azure_eastus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1312:c00::/54', 'IPv6');
 INSERT INTO `azure_eastus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1312:3800::/54', 'IPv6');
 INSERT INTO `azure_eastus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:170d::/48', 'IPv6');

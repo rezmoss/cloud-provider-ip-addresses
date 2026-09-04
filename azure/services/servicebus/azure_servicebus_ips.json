@@ -2442,6 +2442,12 @@
     "region": ""
   },
   {
+    "ip_address": "134.138.96.16/29",
+    "ip_type": "IPv4",
+    "service": "ServiceBus",
+    "region": ""
+  },
+  {
     "ip_address": "135.224.35.0/24",
     "ip_type": "IPv4",
     "service": "ServiceBus",

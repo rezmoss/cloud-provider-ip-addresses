@@ -678,7 +678,13 @@
     "region": "australiasoutheast"
   },
   {
-    "ip_address": "57.157.168.56/31",
+    "ip_address": "57.157.168.56/30",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.australiasoutheast",
+    "region": "australiasoutheast"
+  },
+  {
+    "ip_address": "57.157.168.60/31",
     "ip_type": "IPv4",
     "service": "AzureCloud.australiasoutheast",
     "region": "australiasoutheast"
@@ -763,6 +769,12 @@
   },
   {
     "ip_address": "145.190.182.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.australiasoutheast",
+    "region": "australiasoutheast"
+  },
+  {
+    "ip_address": "145.190.190.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.australiasoutheast",
     "region": "australiasoutheast"
@@ -889,6 +901,30 @@
   },
   {
     "ip_address": "2603:1017:0:a0::/59",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.australiasoutheast",
+    "region": "australiasoutheast"
+  },
+  {
+    "ip_address": "2603:101c:3:200::/55",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.australiasoutheast",
+    "region": "australiasoutheast"
+  },
+  {
+    "ip_address": "2603:101c:3:4200::/55",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.australiasoutheast",
+    "region": "australiasoutheast"
+  },
+  {
+    "ip_address": "2603:101c:3:8200::/55",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.australiasoutheast",
+    "region": "australiasoutheast"
+  },
+  {
+    "ip_address": "2603:101c:3:c200::/55",
     "ip_type": "IPv6",
     "service": "AzureCloud.australiasoutheast",
     "region": "australiasoutheast"

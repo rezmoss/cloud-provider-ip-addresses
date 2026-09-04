@@ -85,6 +85,10 @@ INSERT INTO `azure_azurecloud.westindia_ips` (`ip_address`, `ip_type`) VALUES ('
 INSERT INTO `azure_azurecloud.westindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1046:1500::/64', 'IPv6');
 INSERT INTO `azure_azurecloud.westindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1046:2000:20::/59', 'IPv6');
 INSERT INTO `azure_azurecloud.westindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1047:1:20::/59', 'IPv6');
+INSERT INTO `azure_azurecloud.westindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:104c:2:200::/55', 'IPv6');
+INSERT INTO `azure_azurecloud.westindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:104c:2:4200::/55', 'IPv6');
+INSERT INTO `azure_azurecloud.westindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:104c:2:8200::/55', 'IPv6');
+INSERT INTO `azure_azurecloud.westindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:104c:2:c200::/55', 'IPv6');
 INSERT INTO `azure_azurecloud.westindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1310:4400::/54', 'IPv6');
 INSERT INTO `azure_azurecloud.westindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:171e::/48', 'IPv6');
 INSERT INTO `azure_azurecloud.westindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2010:1a::/64', 'IPv6');

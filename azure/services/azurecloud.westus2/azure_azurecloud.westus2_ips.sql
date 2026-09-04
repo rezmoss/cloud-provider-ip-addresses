@@ -301,6 +301,7 @@ INSERT INTO `azure_azurecloud.westus2_ips` (`ip_address`, `ip_type`) VALUES ('57
 INSERT INTO `azure_azurecloud.westus2_ips` (`ip_address`, `ip_type`) VALUES ('57.157.73.64/28', 'IPv4');
 INSERT INTO `azure_azurecloud.westus2_ips` (`ip_address`, `ip_type`) VALUES ('57.157.73.80/30', 'IPv4');
 INSERT INTO `azure_azurecloud.westus2_ips` (`ip_address`, `ip_type`) VALUES ('57.163.44.0/23', 'IPv4');
+INSERT INTO `azure_azurecloud.westus2_ips` (`ip_address`, `ip_type`) VALUES ('57.163.72.0/23', 'IPv4');
 INSERT INTO `azure_azurecloud.westus2_ips` (`ip_address`, `ip_type`) VALUES ('57.166.0.0/17', 'IPv4');
 INSERT INTO `azure_azurecloud.westus2_ips` (`ip_address`, `ip_type`) VALUES ('57.173.128.0/17', 'IPv4');
 INSERT INTO `azure_azurecloud.westus2_ips` (`ip_address`, `ip_type`) VALUES ('65.52.111.0/24', 'IPv4');
@@ -414,6 +415,10 @@ INSERT INTO `azure_azurecloud.westus2_ips` (`ip_address`, `ip_type`) VALUES ('26
 INSERT INTO `azure_azurecloud.westus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1036:2500:14::/64', 'IPv6');
 INSERT INTO `azure_azurecloud.westus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1036:3000:c0::/59', 'IPv6');
 INSERT INTO `azure_azurecloud.westus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1037:1:c0::/59', 'IPv6');
+INSERT INTO `azure_azurecloud.westus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:103c:9:200::/55', 'IPv6');
+INSERT INTO `azure_azurecloud.westus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:103c:9:4200::/55', 'IPv6');
+INSERT INTO `azure_azurecloud.westus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:103c:9:8200::/55', 'IPv6');
+INSERT INTO `azure_azurecloud.westus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:103c:9:c200::/55', 'IPv6');
 INSERT INTO `azure_azurecloud.westus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1312:2800::/54', 'IPv6');
 INSERT INTO `azure_azurecloud.westus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1720::/48', 'IPv6');
 INSERT INTO `azure_azurecloud.westus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2002:500::/57', 'IPv6');

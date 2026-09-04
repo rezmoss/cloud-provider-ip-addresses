@@ -770,6 +770,10 @@ INSERT INTO `azure_westus3_ips` (`ip_address`, `ip_type`) VALUES ('2603:1036:300
 INSERT INTO `azure_westus3_ips` (`ip_address`, `ip_type`) VALUES ('2603:1036:3000:2e0::/59', 'IPv6');
 INSERT INTO `azure_westus3_ips` (`ip_address`, `ip_type`) VALUES ('2603:1037:1:e0::/59', 'IPv6');
 INSERT INTO `azure_westus3_ips` (`ip_address`, `ip_type`) VALUES ('2603:1037:1:300::/59', 'IPv6');
+INSERT INTO `azure_westus3_ips` (`ip_address`, `ip_type`) VALUES ('2603:103c:a:200::/55', 'IPv6');
+INSERT INTO `azure_westus3_ips` (`ip_address`, `ip_type`) VALUES ('2603:103c:a:4200::/55', 'IPv6');
+INSERT INTO `azure_westus3_ips` (`ip_address`, `ip_type`) VALUES ('2603:103c:a:8200::/55', 'IPv6');
+INSERT INTO `azure_westus3_ips` (`ip_address`, `ip_type`) VALUES ('2603:103c:a:c200::/55', 'IPv6');
 INSERT INTO `azure_westus3_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1312:2c00::/54', 'IPv6');
 INSERT INTO `azure_westus3_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1730::/48', 'IPv6');
 INSERT INTO `azure_westus3_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2000:140::/60', 'IPv6');

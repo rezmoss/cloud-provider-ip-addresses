@@ -6,6 +6,7 @@ CREATE TABLE IF NOT EXISTS `azure_eventhub.australiasoutheast_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_eventhub.australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('4.199.88.128/26', 'IPv4');
 INSERT INTO `azure_eventhub.australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('13.77.50.32/27', 'IPv4');
 INSERT INTO `azure_eventhub.australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('20.92.2.0/24', 'IPv4');
 INSERT INTO `azure_eventhub.australiasoutheast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:101::240/122', 'IPv6');

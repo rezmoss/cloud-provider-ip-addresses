@@ -65,6 +65,10 @@ INSERT INTO `azure_azurecloud.swedensouth_ips` (`ip_address`, `ip_type`) VALUES 
 INSERT INTO `azure_azurecloud.swedensouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1026:2500::/64', 'IPv6');
 INSERT INTO `azure_azurecloud.swedensouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1026:3000::/59', 'IPv6');
 INSERT INTO `azure_azurecloud.swedensouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1027:1::/59', 'IPv6');
+INSERT INTO `azure_azurecloud.swedensouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:102c:c:200::/55', 'IPv6');
+INSERT INTO `azure_azurecloud.swedensouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:102c:c:4200::/55', 'IPv6');
+INSERT INTO `azure_azurecloud.swedensouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:102c:c:8200::/55', 'IPv6');
+INSERT INTO `azure_azurecloud.swedensouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:102c:c:c200::/55', 'IPv6');
 INSERT INTO `azure_azurecloud.swedensouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1311:3c00::/54', 'IPv6');
 INSERT INTO `azure_azurecloud.swedensouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:172d::/48', 'IPv6');
 INSERT INTO `azure_azurecloud.swedensouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2010:2d::/64', 'IPv6');

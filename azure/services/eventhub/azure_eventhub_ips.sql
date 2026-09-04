@@ -12,6 +12,7 @@ INSERT INTO `azure_eventhub_ips` (`ip_address`, `ip_type`) VALUES ('4.177.24.0/2
 INSERT INTO `azure_eventhub_ips` (`ip_address`, `ip_type`) VALUES ('4.177.25.0/26', 'IPv4');
 INSERT INTO `azure_eventhub_ips` (`ip_address`, `ip_type`) VALUES ('4.186.6.64/26', 'IPv4');
 INSERT INTO `azure_eventhub_ips` (`ip_address`, `ip_type`) VALUES ('4.190.144.128/26', 'IPv4');
+INSERT INTO `azure_eventhub_ips` (`ip_address`, `ip_type`) VALUES ('4.199.88.128/26', 'IPv4');
 INSERT INTO `azure_eventhub_ips` (`ip_address`, `ip_type`) VALUES ('4.206.228.192/26', 'IPv4');
 INSERT INTO `azure_eventhub_ips` (`ip_address`, `ip_type`) VALUES ('4.232.29.0/24', 'IPv4');
 INSERT INTO `azure_eventhub_ips` (`ip_address`, `ip_type`) VALUES ('4.232.107.64/26', 'IPv4');

@@ -1160,6 +1160,11 @@
     "region": "CA-ON"
   },
   {
+    "ip_address": "104.28.137.226/32",
+    "ip_type": "IPv4",
+    "region": "CA-ON"
+  },
+  {
     "ip_address": "104.28.138.123/32",
     "ip_type": "IPv4",
     "region": "CA-ON"

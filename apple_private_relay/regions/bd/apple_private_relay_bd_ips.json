@@ -25,6 +25,11 @@
     "region": "BD"
   },
   {
+    "ip_address": "104.28.137.219/32",
+    "ip_type": "IPv4",
+    "region": "BD"
+  },
+  {
     "ip_address": "104.28.138.47/32",
     "ip_type": "IPv4",
     "region": "BD"

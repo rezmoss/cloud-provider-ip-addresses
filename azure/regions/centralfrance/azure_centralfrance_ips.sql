@@ -747,6 +747,10 @@ INSERT INTO `azure_centralfrance_ips` (`ip_address`, `ip_type`) VALUES ('2603:10
 INSERT INTO `azure_centralfrance_ips` (`ip_address`, `ip_type`) VALUES ('2603:1026:2500:1c::/64', 'IPv6');
 INSERT INTO `azure_centralfrance_ips` (`ip_address`, `ip_type`) VALUES ('2603:1026:3000:100::/59', 'IPv6');
 INSERT INTO `azure_centralfrance_ips` (`ip_address`, `ip_type`) VALUES ('2603:1027:1:100::/59', 'IPv6');
+INSERT INTO `azure_centralfrance_ips` (`ip_address`, `ip_type`) VALUES ('2603:102c:2:200::/55', 'IPv6');
+INSERT INTO `azure_centralfrance_ips` (`ip_address`, `ip_type`) VALUES ('2603:102c:2:4200::/55', 'IPv6');
+INSERT INTO `azure_centralfrance_ips` (`ip_address`, `ip_type`) VALUES ('2603:102c:2:8200::/55', 'IPv6');
+INSERT INTO `azure_centralfrance_ips` (`ip_address`, `ip_type`) VALUES ('2603:102c:2:c200::/55', 'IPv6');
 INSERT INTO `azure_centralfrance_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1311:c00::/54', 'IPv6');
 INSERT INTO `azure_centralfrance_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:170f::/48', 'IPv6');
 INSERT INTO `azure_centralfrance_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2000:640::/62', 'IPv6');

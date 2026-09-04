@@ -2022,6 +2022,30 @@
     "region": "westindia"
   },
   {
+    "ip_address": "2603:104c:2:200::/55",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.westindia",
+    "region": "westindia"
+  },
+  {
+    "ip_address": "2603:104c:2:4200::/55",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.westindia",
+    "region": "westindia"
+  },
+  {
+    "ip_address": "2603:104c:2:8200::/55",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.westindia",
+    "region": "westindia"
+  },
+  {
+    "ip_address": "2603:104c:2:c200::/55",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.westindia",
+    "region": "westindia"
+  },
+  {
     "ip_address": "2603:1061:1310:4400::/54",
     "ip_type": "IPv6",
     "service": "AzureCloud.westindia",

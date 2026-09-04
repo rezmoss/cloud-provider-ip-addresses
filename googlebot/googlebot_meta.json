@@ -1,7 +1,7 @@
 {
   "provider": "googlebot",
   "version": 2,
-  "generated_date": "2026-09-03",
+  "generated_date": "2026-09-04",
   "last_changed_date": "2026-09-02",
   "sources": [
     "https://developers.google.com/static/crawling/ipranges/common-crawlers.json"

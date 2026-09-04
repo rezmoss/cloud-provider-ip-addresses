@@ -185,6 +185,10 @@ INSERT INTO `azure_azurecloud.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES 
 INSERT INTO `azure_azurecloud.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1056:1500::/64', 'IPv6');
 INSERT INTO `azure_azurecloud.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1056:2000:20::/59', 'IPv6');
 INSERT INTO `azure_azurecloud.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1057:2:20::/59', 'IPv6');
+INSERT INTO `azure_azurecloud.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:105c:0:200::/55', 'IPv6');
+INSERT INTO `azure_azurecloud.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:105c:0:4200::/55', 'IPv6');
+INSERT INTO `azure_azurecloud.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:105c:0:8200::/55', 'IPv6');
+INSERT INTO `azure_azurecloud.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:105c:0:c200::/55', 'IPv6');
 INSERT INTO `azure_azurecloud.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1315:400::/54', 'IPv6');
 INSERT INTO `azure_azurecloud.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1706::/48', 'IPv6');
 INSERT INTO `azure_azurecloud.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2000:408::/62', 'IPv6');

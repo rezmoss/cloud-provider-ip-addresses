@@ -35,7 +35,7 @@ ip_address,ip_type,service,region
 40.93.143.0/24,IPv4,AzureCloud.indonesiacentral,indonesiacentral
 40.100.70.128/25,IPv4,AzureCloud.indonesiacentral,indonesiacentral
 40.100.71.0/26,IPv4,AzureCloud.indonesiacentral,indonesiacentral
-48.193.0.0/17,IPv4,AzureCloud.indonesiacentral,indonesiacentral
+48.193.0.0/16,IPv4,AzureCloud.indonesiacentral,indonesiacentral
 48.212.52.0/24,IPv4,AzureCloud.indonesiacentral,indonesiacentral
 48.212.180.0/24,IPv4,AzureCloud.indonesiacentral,indonesiacentral
 48.213.52.0/24,IPv4,AzureCloud.indonesiacentral,indonesiacentral

@@ -1638,6 +1638,30 @@
     "region": "australiacentral2"
   },
   {
+    "ip_address": "2603:101c:1:200::/55",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.australiacentral2",
+    "region": "australiacentral2"
+  },
+  {
+    "ip_address": "2603:101c:1:4200::/55",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.australiacentral2",
+    "region": "australiacentral2"
+  },
+  {
+    "ip_address": "2603:101c:1:8200::/55",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.australiacentral2",
+    "region": "australiacentral2"
+  },
+  {
+    "ip_address": "2603:101c:1:c200::/55",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.australiacentral2",
+    "region": "australiacentral2"
+  },
+  {
     "ip_address": "2603:1061:1314:400::/54",
     "ip_type": "IPv6",
     "service": "AzureCloud.australiacentral2",

@@ -36,6 +36,24 @@
     "region": "ca-central-1"
   },
   {
+    "ip_address": "3.2.108.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ca-central-1"
+  },
+  {
+    "ip_address": "3.2.108.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "ca-central-1"
+  },
+  {
+    "ip_address": "3.2.108.0/24",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "ca-central-1"
+  },
+  {
     "ip_address": "3.5.252.0/22",
     "ip_type": "IPv4",
     "service": "AMAZON",

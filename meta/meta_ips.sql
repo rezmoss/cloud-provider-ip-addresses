@@ -370,6 +370,7 @@ INSERT INTO `meta_ips` (`ip_address`, `ip_type`) VALUES ('2a03:2880::/36', 'IPv6
 INSERT INTO `meta_ips` (`ip_address`, `ip_type`) VALUES ('2a03:2880:1000::/36', 'IPv6');
 INSERT INTO `meta_ips` (`ip_address`, `ip_type`) VALUES ('2a03:2880:2000::/36', 'IPv6');
 INSERT INTO `meta_ips` (`ip_address`, `ip_type`) VALUES ('2a03:2880:3000::/36', 'IPv6');
+INSERT INTO `meta_ips` (`ip_address`, `ip_type`) VALUES ('2a03:2880:4000::/36', 'IPv6');
 INSERT INTO `meta_ips` (`ip_address`, `ip_type`) VALUES ('2a03:2880:5000::/36', 'IPv6');
 INSERT INTO `meta_ips` (`ip_address`, `ip_type`) VALUES ('2a03:2880:7000::/36', 'IPv6');
 INSERT INTO `meta_ips` (`ip_address`, `ip_type`) VALUES ('2a03:2880:f001::/48', 'IPv6');

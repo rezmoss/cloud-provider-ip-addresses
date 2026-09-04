@@ -1140,6 +1140,24 @@
     "region": "centralindia"
   },
   {
+    "ip_address": "2603:104c:0:4200::/63",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.centralindia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "2603:104c:0:8200::/55",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.centralindia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "2603:104c:0:c200::/55",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.centralindia",
+    "region": "centralindia"
+  },
+  {
     "ip_address": "2603:1061:1310::/54",
     "ip_type": "IPv6",
     "service": "AzureCloud.centralindia",

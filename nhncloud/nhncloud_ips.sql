@@ -110,6 +110,7 @@ INSERT INTO `nhncloud_ips` (`ip_address`, `ip_type`) VALUES ('114.110.147.0/24',
 INSERT INTO `nhncloud_ips` (`ip_address`, `ip_type`) VALUES ('114.110.149.0/24', 'IPv4');
 INSERT INTO `nhncloud_ips` (`ip_address`, `ip_type`) VALUES ('114.110.150.0/24', 'IPv4');
 INSERT INTO `nhncloud_ips` (`ip_address`, `ip_type`) VALUES ('114.110.152.0/24', 'IPv4');
+INSERT INTO `nhncloud_ips` (`ip_address`, `ip_type`) VALUES ('114.110.153.0/24', 'IPv4');
 INSERT INTO `nhncloud_ips` (`ip_address`, `ip_type`) VALUES ('114.110.154.0/24', 'IPv4');
 INSERT INTO `nhncloud_ips` (`ip_address`, `ip_type`) VALUES ('114.110.156.0/24', 'IPv4');
 INSERT INTO `nhncloud_ips` (`ip_address`, `ip_type`) VALUES ('114.110.157.0/24', 'IPv4');

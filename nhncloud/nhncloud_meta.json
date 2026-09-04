@@ -1,23 +1,23 @@
 {
   "provider": "nhncloud",
-  "version": 2,
-  "generated_date": "2026-09-03",
-  "last_changed_date": "2026-08-07",
+  "version": 3,
+  "generated_date": "2026-09-04",
+  "last_changed_date": "2026-09-04",
   "sources": [
     "BGP announced prefixes via RIPE NCC RIPEstat"
   ],
   "ipv4": {
-    "cidrs": 373,
+    "cidrs": 374,
     "merged_cidrs": 91,
-    "addresses": 99072
+    "addresses": 99328
   },
   "ipv6": {
     "cidrs": 0,
     "merged_cidrs": 0,
     "addresses": 0
   },
-  "total_entries": 373,
-  "content_sha256": "d9f4639c14cd4c150ec8235dbdcf3639b732fdf6b504754371ceaedf3d87e1bb",
+  "total_entries": 374,
+  "content_sha256": "e2a06b5712728aef8352d1bb5ea13b491e9a219e139e6b95de37678386d48ebf",
   "license": "CC0-1.0",
   "license_url": "https://github.com/rezmoss/cloud-provider-ip-addresses/blob/main/LICENSE"
 }

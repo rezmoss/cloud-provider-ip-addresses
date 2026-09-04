@@ -895,6 +895,11 @@
     "region": "US-IL"
   },
   {
+    "ip_address": "104.28.137.220/32",
+    "ip_type": "IPv4",
+    "region": "US-IL"
+  },
+  {
     "ip_address": "104.28.139.172/32",
     "ip_type": "IPv4",
     "region": "US-IL"

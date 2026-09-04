@@ -163,7 +163,7 @@ INSERT INTO `azure_azurecloud.swedencentral_ips` (`ip_address`, `ip_type`) VALUE
 INSERT INTO `azure_azurecloud.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('145.190.164.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('151.206.112.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('151.206.128.0/24', 'IPv4');
-INSERT INTO `azure_azurecloud.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('172.130.0.0/17', 'IPv4');
+INSERT INTO `azure_azurecloud.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('172.130.0.0/16', 'IPv4');
 INSERT INTO `azure_azurecloud.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('172.160.0.0/16', 'IPv4');
 INSERT INTO `azure_azurecloud.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1000::/47', 'IPv6');
 INSERT INTO `azure_azurecloud.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1003::/48', 'IPv6');
@@ -179,6 +179,10 @@ INSERT INTO `azure_azurecloud.swedencentral_ips` (`ip_address`, `ip_type`) VALUE
 INSERT INTO `azure_azurecloud.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1026:2500:4::/64', 'IPv6');
 INSERT INTO `azure_azurecloud.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1026:3000:20::/59', 'IPv6');
 INSERT INTO `azure_azurecloud.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1027:1:20::/59', 'IPv6');
+INSERT INTO `azure_azurecloud.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:102c:b:200::/55', 'IPv6');
+INSERT INTO `azure_azurecloud.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:102c:b:4200::/55', 'IPv6');
+INSERT INTO `azure_azurecloud.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:102c:b:8200::/55', 'IPv6');
+INSERT INTO `azure_azurecloud.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:102c:b:c200::/55', 'IPv6');
 INSERT INTO `azure_azurecloud.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1311:3800::/54', 'IPv6');
 INSERT INTO `azure_azurecloud.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:172e::/48', 'IPv6');
 INSERT INTO `azure_azurecloud.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2000:7a0::/62', 'IPv6');

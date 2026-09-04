@@ -2184,6 +2184,12 @@
     "region": "global"
   },
   {
+    "ip_address": "2a03:2880:4000::/36",
+    "ip_type": "IPv6",
+    "service": "meta-as32934",
+    "region": "global"
+  },
+  {
     "ip_address": "2a03:2880:5000::/36",
     "ip_type": "IPv6",
     "service": "meta-as32934",

@@ -425,6 +425,10 @@ ip_address,ip_type,service,region
 2603:1026:2404::/48,IPv6,AzureCloud.northeurope,northeurope
 2603:1026:3000:c0::/59,IPv6,AzureCloud.northeurope,northeurope
 2603:1027:1:c0::/59,IPv6,AzureCloud.northeurope,northeurope
+2603:102c:0:200::/55,IPv6,AzureCloud.northeurope,northeurope
+2603:102c:0:4200::/55,IPv6,AzureCloud.northeurope,northeurope
+2603:102c:0:8200::/55,IPv6,AzureCloud.northeurope,northeurope
+2603:102c:0:c200::/55,IPv6,AzureCloud.northeurope,northeurope
 2603:1061:1311:2000::/54,IPv6,AzureCloud.northeurope,northeurope
 2603:1061:1716::/48,IPv6,AzureCloud.northeurope,northeurope
 2603:1061:2000:688::/62,IPv6,AzureCloud.northeurope,northeurope

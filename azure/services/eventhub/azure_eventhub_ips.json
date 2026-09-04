@@ -36,6 +36,12 @@
     "region": ""
   },
   {
+    "ip_address": "4.199.88.128/26",
+    "ip_type": "IPv4",
+    "service": "EventHub",
+    "region": ""
+  },
+  {
     "ip_address": "4.206.228.192/26",
     "ip_type": "IPv4",
     "service": "EventHub",

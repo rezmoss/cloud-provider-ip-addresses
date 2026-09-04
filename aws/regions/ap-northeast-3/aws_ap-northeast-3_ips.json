@@ -36,6 +36,24 @@
     "region": "ap-northeast-3"
   },
   {
+    "ip_address": "3.2.120.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-northeast-3"
+  },
+  {
+    "ip_address": "3.2.120.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "ap-northeast-3"
+  },
+  {
+    "ip_address": "3.2.120.0/24",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "ap-northeast-3"
+  },
+  {
     "ip_address": "3.5.240.0/22",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -1537,6 +1555,24 @@
   },
   {
     "ip_address": "2600:f0f0:6114::/48",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "ap-northeast-3"
+  },
+  {
+    "ip_address": "2600:f0f0:6138::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-northeast-3"
+  },
+  {
+    "ip_address": "2600:f0f0:6138::/48",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-northeast-3"
+  },
+  {
+    "ip_address": "2600:f0f0:6138::/48",
     "ip_type": "IPv6",
     "service": "S3",
     "region": "ap-northeast-3"

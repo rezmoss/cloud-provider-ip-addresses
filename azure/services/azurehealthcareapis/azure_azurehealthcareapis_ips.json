@@ -1596,6 +1596,12 @@
     "region": ""
   },
   {
+    "ip_address": "74.151.33.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
     "ip_address": "74.163.50.4/31",
     "ip_type": "IPv4",
     "service": "AzureHealthcareAPIs",

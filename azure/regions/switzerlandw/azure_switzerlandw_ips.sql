@@ -398,6 +398,10 @@ INSERT INTO `azure_switzerlandw_ips` (`ip_address`, `ip_type`) VALUES ('2603:102
 INSERT INTO `azure_switzerlandw_ips` (`ip_address`, `ip_type`) VALUES ('2603:1026:2500:20::/64', 'IPv6');
 INSERT INTO `azure_switzerlandw_ips` (`ip_address`, `ip_type`) VALUES ('2603:1026:3000:120::/59', 'IPv6');
 INSERT INTO `azure_switzerlandw_ips` (`ip_address`, `ip_type`) VALUES ('2603:1027:1:120::/59', 'IPv6');
+INSERT INTO `azure_switzerlandw_ips` (`ip_address`, `ip_type`) VALUES ('2603:102c:e:200::/55', 'IPv6');
+INSERT INTO `azure_switzerlandw_ips` (`ip_address`, `ip_type`) VALUES ('2603:102c:e:4200::/55', 'IPv6');
+INSERT INTO `azure_switzerlandw_ips` (`ip_address`, `ip_type`) VALUES ('2603:102c:e:8200::/55', 'IPv6');
+INSERT INTO `azure_switzerlandw_ips` (`ip_address`, `ip_type`) VALUES ('2603:102c:e:c200::/55', 'IPv6');
 INSERT INTO `azure_switzerlandw_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1311:4400::/54', 'IPv6');
 INSERT INTO `azure_switzerlandw_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1727::/48', 'IPv6');
 INSERT INTO `azure_switzerlandw_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2000:708::/62', 'IPv6');

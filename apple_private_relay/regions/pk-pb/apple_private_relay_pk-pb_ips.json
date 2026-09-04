@@ -285,6 +285,11 @@
     "region": "PK-PB"
   },
   {
+    "ip_address": "104.28.137.221/32",
+    "ip_type": "IPv4",
+    "region": "PK-PB"
+  },
+  {
     "ip_address": "104.28.139.90/32",
     "ip_type": "IPv4",
     "region": "PK-PB"

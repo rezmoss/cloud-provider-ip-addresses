@@ -1,7 +1,7 @@
 # gcore IP ranges - ipset restore format (hash:net)
-# Version: 33 | Generated: 2026-09-03 | Last changed: 2026-09-03
-# IPv4: 563 merged subnets, 982 unique IPs
-# IPv6: 463 merged subnets
+# Version: 34 | Generated: 2026-09-04 | Last changed: 2026-09-04
+# IPv4: 565 merged subnets, 980 unique IPs
+# IPv6: 464 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
 # Load with: sudo ipset restore -! < gcore.netset
@@ -31,7 +31,8 @@ add gcore_v4 5.188.133.6/32
 add gcore_v4 5.188.133.10/31
 add gcore_v4 5.188.133.13/32
 add gcore_v4 5.189.207.4/31
-add gcore_v4 31.184.207.4/30
+add gcore_v4 31.184.207.4/32
+add gcore_v4 31.184.207.6/31
 add gcore_v4 31.184.207.8/30
 add gcore_v4 31.184.207.12/32
 add gcore_v4 37.9.33.122/32
@@ -47,6 +48,7 @@ add gcore_v4 37.156.224.13/32
 add gcore_v4 37.156.224.15/32
 add gcore_v4 37.239.145.2/32
 add gcore_v4 41.210.189.22/32
+add gcore_v4 41.216.70.58/32
 add gcore_v4 41.226.6.202/32
 add gcore_v4 45.32.212.15/32
 add gcore_v4 45.68.4.2/32
@@ -83,7 +85,7 @@ add gcore_v4 65.20.85.192/32
 add gcore_v4 78.111.103.4/31
 add gcore_v4 78.111.110.4/31
 add gcore_v4 78.111.110.6/32
-add gcore_v4 79.133.108.4/30
+add gcore_v4 79.133.108.6/31
 add gcore_v4 79.133.108.13/32
 add gcore_v4 79.133.108.14/31
 add gcore_v4 79.133.108.16/31
@@ -872,7 +874,7 @@ add gcore_v6 2a03:90c0:251:2801::14/126
 add gcore_v6 2a03:90c0:251:2801::18/127
 add gcore_v6 2a03:90c0:251:2801::23/128
 add gcore_v6 2a03:90c0:251:2801::24/126
-add gcore_v6 2a03:90c0:271:2801:1::4/126
+add gcore_v6 2a03:90c0:271:2801:1::6/127
 add gcore_v6 2a03:90c0:271:2801:1::13/128
 add gcore_v6 2a03:90c0:271:2801:1::14/126
 add gcore_v6 2a03:90c0:271:2801:1::23/128
@@ -918,7 +920,8 @@ add gcore_v6 2a03:90c0:3d1:2801::6/128
 add gcore_v6 2a03:90c0:3f1:2801::4/126
 add gcore_v6 2a03:90c0:3f1:2801::8/128
 add gcore_v6 2a03:90c0:421:2801::4/127
-add gcore_v6 2a03:90c0:460:2801::4/126
+add gcore_v6 2a03:90c0:460:2801::4/128
+add gcore_v6 2a03:90c0:460:2801::6/127
 add gcore_v6 2a03:90c0:460:2801::8/127
 add gcore_v6 2a03:90c0:460:2801::10/127
 add gcore_v6 2a03:90c0:460:2801::12/128

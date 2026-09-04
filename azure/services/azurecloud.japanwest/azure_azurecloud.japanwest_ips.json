@@ -1158,6 +1158,30 @@
     "region": "japanwest"
   },
   {
+    "ip_address": "2603:104c:6:200::/55",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.japanwest",
+    "region": "japanwest"
+  },
+  {
+    "ip_address": "2603:104c:6:4200::/55",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.japanwest",
+    "region": "japanwest"
+  },
+  {
+    "ip_address": "2603:104c:6:8200::/55",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.japanwest",
+    "region": "japanwest"
+  },
+  {
+    "ip_address": "2603:104c:6:c200::/55",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.japanwest",
+    "region": "japanwest"
+  },
+  {
     "ip_address": "2603:1061:1310:1000::/54",
     "ip_type": "IPv6",
     "service": "AzureCloud.japanwest",

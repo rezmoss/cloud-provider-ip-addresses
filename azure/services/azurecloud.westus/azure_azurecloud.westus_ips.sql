@@ -456,6 +456,10 @@ INSERT INTO `azure_azurecloud.westus_ips` (`ip_address`, `ip_type`) VALUES ('260
 INSERT INTO `azure_azurecloud.westus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1036:2500:68::/64', 'IPv6');
 INSERT INTO `azure_azurecloud.westus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1036:3000:1c0::/59', 'IPv6');
 INSERT INTO `azure_azurecloud.westus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1037:1:1c0::/59', 'IPv6');
+INSERT INTO `azure_azurecloud.westus_ips` (`ip_address`, `ip_type`) VALUES ('2603:103c:8:200::/55', 'IPv6');
+INSERT INTO `azure_azurecloud.westus_ips` (`ip_address`, `ip_type`) VALUES ('2603:103c:8:4200::/55', 'IPv6');
+INSERT INTO `azure_azurecloud.westus_ips` (`ip_address`, `ip_type`) VALUES ('2603:103c:8:8200::/55', 'IPv6');
+INSERT INTO `azure_azurecloud.westus_ips` (`ip_address`, `ip_type`) VALUES ('2603:103c:8:c200::/55', 'IPv6');
 INSERT INTO `azure_azurecloud.westus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1312:2400::/54', 'IPv6');
 INSERT INTO `azure_azurecloud.westus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:171f::/48', 'IPv6');
 INSERT INTO `azure_azurecloud.westus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2000:1::/64', 'IPv6');

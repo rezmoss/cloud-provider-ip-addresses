@@ -521,7 +521,7 @@ INSERT INTO `azure_northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('57.150
 INSERT INTO `azure_northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('57.157.64.0/23', 'IPv4');
 INSERT INTO `azure_northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('57.157.66.0/27', 'IPv4');
 INSERT INTO `azure_northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('57.157.66.32/28', 'IPv4');
-INSERT INTO `azure_northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('57.157.66.48/30', 'IPv4');
+INSERT INTO `azure_northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('57.157.66.48/29', 'IPv4');
 INSERT INTO `azure_northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('64.236.128.0/17', 'IPv4');
 INSERT INTO `azure_northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('65.52.0.0/19', 'IPv4');
 INSERT INTO `azure_northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('65.52.2.145/32', 'IPv4');
@@ -850,6 +850,10 @@ INSERT INTO `azure_northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1
 INSERT INTO `azure_northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1036:3000:2c0::/59', 'IPv6');
 INSERT INTO `azure_northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1037:1:60::/59', 'IPv6');
 INSERT INTO `azure_northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1037:1:2c0::/59', 'IPv6');
+INSERT INTO `azure_northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:103c:5:200::/55', 'IPv6');
+INSERT INTO `azure_northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:103c:5:4200::/55', 'IPv6');
+INSERT INTO `azure_northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:103c:5:8200::/55', 'IPv6');
+INSERT INTO `azure_northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:103c:5:c200::/55', 'IPv6');
 INSERT INTO `azure_northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1312:1800::/54', 'IPv6');
 INSERT INTO `azure_northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1715::/48', 'IPv6');
 INSERT INTO `azure_northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2010:11::/64', 'IPv6');

@@ -375,6 +375,11 @@
     "region": "FR-IDF"
   },
   {
+    "ip_address": "104.28.137.225/32",
+    "ip_type": "IPv4",
+    "region": "FR-IDF"
+  },
+  {
     "ip_address": "104.28.138.8/32",
     "ip_type": "IPv4",
     "region": "FR-IDF"

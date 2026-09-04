@@ -350,6 +350,10 @@ INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('2603:1026:240
 INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('2603:1026:2500:10::/64', 'IPv6');
 INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('2603:1026:3000:80::/59', 'IPv6');
 INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('2603:1027:1:80::/59', 'IPv6');
+INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('2603:102c:8:200::/55', 'IPv6');
+INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('2603:102c:8:4200::/55', 'IPv6');
+INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('2603:102c:8:8200::/55', 'IPv6');
+INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('2603:102c:8:c200::/55', 'IPv6');
 INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1311:2c00::/54', 'IPv6');
 INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:172b::/48', 'IPv6');
 INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2000:488::/62', 'IPv6');

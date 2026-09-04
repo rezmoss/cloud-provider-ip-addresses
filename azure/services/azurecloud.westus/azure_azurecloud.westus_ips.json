@@ -2700,6 +2700,30 @@
     "region": "westus"
   },
   {
+    "ip_address": "2603:103c:8:200::/55",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.westus",
+    "region": "westus"
+  },
+  {
+    "ip_address": "2603:103c:8:4200::/55",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.westus",
+    "region": "westus"
+  },
+  {
+    "ip_address": "2603:103c:8:8200::/55",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.westus",
+    "region": "westus"
+  },
+  {
+    "ip_address": "2603:103c:8:c200::/55",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.westus",
+    "region": "westus"
+  },
+  {
     "ip_address": "2603:1061:1312:2400::/54",
     "ip_type": "IPv6",
     "service": "AzureCloud.westus",

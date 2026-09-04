@@ -1820,6 +1820,11 @@
     "region": "US-TX"
   },
   {
+    "ip_address": "173.199.68.0/24",
+    "ip_type": "IPv4",
+    "region": "US-IL"
+  },
+  {
     "ip_address": "173.199.70.0/23",
     "ip_type": "IPv4",
     "region": "FR-93"
@@ -2281,6 +2286,11 @@
   },
   {
     "ip_address": "2001:19f0:5c00::/38",
+    "ip_type": "IPv6",
+    "region": "US-IL"
+  },
+  {
+    "ip_address": "2001:19f0:5c03::/48",
     "ip_type": "IPv6",
     "region": "US-IL"
   },

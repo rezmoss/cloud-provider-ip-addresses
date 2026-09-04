@@ -378,6 +378,30 @@
     "region": "norwayw"
   },
   {
+    "ip_address": "2603:102c:8:200::/55",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:102c:8:4200::/55",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:102c:8:8200::/55",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:102c:8:c200::/55",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.norwayw",
+    "region": "norwayw"
+  },
+  {
     "ip_address": "2603:1061:1311:2c00::/54",
     "ip_type": "IPv6",
     "service": "AzureCloud.norwayw",

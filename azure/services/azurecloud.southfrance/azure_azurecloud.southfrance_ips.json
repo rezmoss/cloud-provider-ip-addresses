@@ -462,6 +462,30 @@
     "region": "southfrance"
   },
   {
+    "ip_address": "2603:102c:3:200::/55",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.southfrance",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "2603:102c:3:4200::/55",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.southfrance",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "2603:102c:3:8200::/55",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.southfrance",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "2603:102c:3:c200::/55",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.southfrance",
+    "region": "southfrance"
+  },
+  {
     "ip_address": "2603:1061:1311:1000::/54",
     "ip_type": "IPv6",
     "service": "AzureCloud.southfrance",

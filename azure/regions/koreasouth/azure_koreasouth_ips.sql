@@ -400,6 +400,10 @@ INSERT INTO `azure_koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1046:
 INSERT INTO `azure_koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1046:1500:1c::/64', 'IPv6');
 INSERT INTO `azure_koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1046:2000:e0::/59', 'IPv6');
 INSERT INTO `azure_koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1047:1:e0::/59', 'IPv6');
+INSERT INTO `azure_koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:104c:8:200::/55', 'IPv6');
+INSERT INTO `azure_koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:104c:8:4200::/55', 'IPv6');
+INSERT INTO `azure_koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:104c:8:8200::/55', 'IPv6');
+INSERT INTO `azure_koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:104c:8:c200::/55', 'IPv6');
 INSERT INTO `azure_koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1310:2000::/54', 'IPv6');
 INSERT INTO `azure_koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1714::/48', 'IPv6');
 INSERT INTO `azure_koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2000:4c8::/62', 'IPv6');

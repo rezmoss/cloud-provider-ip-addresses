@@ -102,6 +102,10 @@ INSERT INTO `azure_azurecloud.canadaeast_ips` (`ip_address`, `ip_type`) VALUES (
 INSERT INTO `azure_azurecloud.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1036:2500:34::/64', 'IPv6');
 INSERT INTO `azure_azurecloud.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1036:3000:80::/59', 'IPv6');
 INSERT INTO `azure_azurecloud.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1037:1:80::/59', 'IPv6');
+INSERT INTO `azure_azurecloud.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:103c:1:200::/55', 'IPv6');
+INSERT INTO `azure_azurecloud.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:103c:1:4200::/55', 'IPv6');
+INSERT INTO `azure_azurecloud.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:103c:1:8200::/55', 'IPv6');
+INSERT INTO `azure_azurecloud.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:103c:1:c200::/55', 'IPv6');
 INSERT INTO `azure_azurecloud.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1312:400::/54', 'IPv6');
 INSERT INTO `azure_azurecloud.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1708::/48', 'IPv6');
 INSERT INTO `azure_azurecloud.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2000:748::/62', 'IPv6');

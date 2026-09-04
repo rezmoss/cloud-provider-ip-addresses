@@ -503,6 +503,7 @@ ip_address,ip_type,service,region
 64.120.100.0/22,IPv4,leaseweb-as395954,global
 64.120.106.0/24,IPv4,leaseweb-as396190,global
 64.120.108.0/24,IPv4,leaseweb-as30633,global
+64.120.109.0/24,IPv4,leaseweb-as60781,global
 64.120.110.0/23,IPv4,leaseweb-as59253,global
 64.120.110.0/24,IPv4,leaseweb-as59253,global
 64.120.111.0/24,IPv4,leaseweb-as59253,global

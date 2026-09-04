@@ -781,6 +781,10 @@ INSERT INTO `azure_japaneast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1046:1
 INSERT INTO `azure_japaneast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1046:1500:18::/64', 'IPv6');
 INSERT INTO `azure_japaneast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1046:2000:140::/59', 'IPv6');
 INSERT INTO `azure_japaneast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1047:1:140::/59', 'IPv6');
+INSERT INTO `azure_japaneast_ips` (`ip_address`, `ip_type`) VALUES ('2603:104c:5:200::/55', 'IPv6');
+INSERT INTO `azure_japaneast_ips` (`ip_address`, `ip_type`) VALUES ('2603:104c:5:4200::/55', 'IPv6');
+INSERT INTO `azure_japaneast_ips` (`ip_address`, `ip_type`) VALUES ('2603:104c:5:8200::/55', 'IPv6');
+INSERT INTO `azure_japaneast_ips` (`ip_address`, `ip_type`) VALUES ('2603:104c:5:c200::/55', 'IPv6');
 INSERT INTO `azure_japaneast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1310:c00::/54', 'IPv6');
 INSERT INTO `azure_japaneast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1711::/48', 'IPv6');
 INSERT INTO `azure_japaneast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2000:5c0::/62', 'IPv6');

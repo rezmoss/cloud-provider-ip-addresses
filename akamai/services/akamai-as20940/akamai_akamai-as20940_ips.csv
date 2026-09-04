@@ -3800,6 +3800,7 @@ ip_address,ip_type,service,region
 184.28.175.0/24,IPv4,akamai-as20940,global
 184.28.192.0/24,IPv4,akamai-as20940,global
 184.28.193.0/24,IPv4,akamai-as20940,global
+184.28.194.0/24,IPv4,akamai-as20940,global
 184.28.195.0/24,IPv4,akamai-as20940,global
 184.28.203.0/24,IPv4,akamai-as20940,global
 184.28.220.0/24,IPv4,akamai-as20940,global
