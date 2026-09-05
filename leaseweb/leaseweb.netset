@@ -1,7 +1,7 @@
 # leaseweb IP ranges - ipset restore format (hash:net)
-# Version: 34 | Generated: 2026-09-04 | Last changed: 2026-09-04
-# IPv4: 1118 merged subnets, 2353664 unique IPs
-# IPv6: 318 merged subnets
+# Version: 35 | Generated: 2026-09-05 | Last changed: 2026-09-05
+# IPv4: 1137 merged subnets, 2362880 unique IPs
+# IPv6: 319 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
 # Load with: sudo ipset restore -! < leaseweb.netset
@@ -13,8 +13,7 @@ add leaseweb_v4 2.57.20.0/23
 add leaseweb_v4 2.59.20.0/24
 add leaseweb_v4 5.61.32.0/20
 add leaseweb_v4 5.79.64.0/18
-add leaseweb_v4 5.181.40.0/23
-add leaseweb_v4 5.181.42.0/24
+add leaseweb_v4 5.181.40.0/22
 add leaseweb_v4 5.188.222.0/24
 add leaseweb_v4 23.19.0.0/19
 add leaseweb_v4 23.19.32.0/21
@@ -166,8 +165,8 @@ add leaseweb_v4 40.27.21.0/24
 add leaseweb_v4 40.27.232.0/21
 add leaseweb_v4 43.246.113.0/24
 add leaseweb_v4 43.249.36.0/22
-add leaseweb_v4 45.9.121.0/24
-add leaseweb_v4 45.9.123.0/24
+add leaseweb_v4 45.9.119.0/24
+add leaseweb_v4 45.9.120.0/22
 add leaseweb_v4 45.13.84.0/22
 add leaseweb_v4 45.13.184.0/24
 add leaseweb_v4 45.13.187.0/24
@@ -188,7 +187,8 @@ add leaseweb_v4 45.83.185.0/24
 add leaseweb_v4 45.85.161.0/24
 add leaseweb_v4 45.85.162.0/23
 add leaseweb_v4 45.86.13.0/24
-add leaseweb_v4 45.86.246.0/24
+add leaseweb_v4 45.86.15.0/24
+add leaseweb_v4 45.86.246.0/23
 add leaseweb_v4 45.87.241.0/24
 add leaseweb_v4 45.87.242.0/24
 add leaseweb_v4 45.87.250.0/24
@@ -197,13 +197,15 @@ add leaseweb_v4 45.91.209.0/24
 add leaseweb_v4 45.91.210.0/24
 add leaseweb_v4 45.92.20.0/22
 add leaseweb_v4 45.92.77.0/24
+add leaseweb_v4 45.92.169.0/24
 add leaseweb_v4 45.92.244.0/23
 add leaseweb_v4 45.92.246.0/24
 add leaseweb_v4 45.93.68.0/22
 add leaseweb_v4 45.94.25.0/24
+add leaseweb_v4 45.94.39.0/24
 add leaseweb_v4 45.94.44.0/23
 add leaseweb_v4 45.117.55.0/24
-add leaseweb_v4 45.118.250.0/23
+add leaseweb_v4 45.118.248.0/22
 add leaseweb_v4 45.123.146.0/23
 add leaseweb_v4 45.128.27.0/24
 add leaseweb_v4 45.128.77.0/24
@@ -216,26 +218,34 @@ add leaseweb_v4 45.130.130.0/23
 add leaseweb_v4 45.130.252.0/23
 add leaseweb_v4 45.131.181.0/24
 add leaseweb_v4 45.132.76.0/22
+add leaseweb_v4 45.133.208.0/24
 add leaseweb_v4 45.133.211.0/24
+add leaseweb_v4 45.134.186.0/24
 add leaseweb_v4 45.135.37.0/24
+add leaseweb_v4 45.135.38.0/24
 add leaseweb_v4 45.135.136.0/24
 add leaseweb_v4 45.136.229.0/24
 add leaseweb_v4 45.136.230.0/23
 add leaseweb_v4 45.137.61.0/24
 add leaseweb_v4 45.137.80.0/24
 add leaseweb_v4 45.137.82.0/23
+add leaseweb_v4 45.137.84.0/24
 add leaseweb_v4 45.137.87.0/24
 add leaseweb_v4 45.138.72.0/24
 add leaseweb_v4 45.139.84.0/22
 add leaseweb_v4 45.140.12.0/24
 add leaseweb_v4 45.140.15.0/24
 add leaseweb_v4 45.140.248.0/22
+add leaseweb_v4 45.141.176.0/24
 add leaseweb_v4 45.141.179.0/24
 add leaseweb_v4 45.142.29.0/24
 add leaseweb_v4 45.142.116.0/22
 add leaseweb_v4 45.145.15.0/24
 add leaseweb_v4 45.145.57.0/24
 add leaseweb_v4 45.145.58.0/24
+add leaseweb_v4 45.146.89.0/24
+add leaseweb_v4 45.146.90.0/23
+add leaseweb_v4 45.146.180.0/24
 add leaseweb_v4 45.146.182.0/23
 add leaseweb_v4 45.146.220.0/24
 add leaseweb_v4 45.147.29.0/24
@@ -243,19 +253,21 @@ add leaseweb_v4 45.147.30.0/24
 add leaseweb_v4 45.147.60.0/24
 add leaseweb_v4 45.147.100.0/22
 add leaseweb_v4 45.147.180.0/22
+add leaseweb_v4 45.151.100.0/24
 add leaseweb_v4 45.151.103.0/24
-add leaseweb_v4 45.151.105.0/24
+add leaseweb_v4 45.151.104.0/23
 add leaseweb_v4 45.151.107.0/24
 add leaseweb_v4 45.152.197.0/24
 add leaseweb_v4 45.152.199.0/24
 add leaseweb_v4 45.152.200.0/23
+add leaseweb_v4 45.152.202.0/24
 add leaseweb_v4 45.152.209.0/24
 add leaseweb_v4 45.152.210.0/23
 add leaseweb_v4 45.153.20.0/23
 add leaseweb_v4 45.153.23.0/24
 add leaseweb_v4 45.153.216.0/23
 add leaseweb_v4 45.153.218.0/24
-add leaseweb_v4 45.154.59.0/24
+add leaseweb_v4 45.154.58.0/23
 add leaseweb_v4 45.154.84.0/22
 add leaseweb_v4 45.154.229.0/24
 add leaseweb_v4 45.154.230.0/23
@@ -264,6 +276,7 @@ add leaseweb_v4 45.155.200.0/22
 add leaseweb_v4 45.157.36.0/24
 add leaseweb_v4 45.157.38.0/23
 add leaseweb_v4 45.157.120.0/22
+add leaseweb_v4 45.158.185.0/24
 add leaseweb_v4 45.158.186.0/24
 add leaseweb_v4 45.159.144.0/22
 add leaseweb_v4 45.159.204.0/22
@@ -464,6 +477,7 @@ add leaseweb_v4 84.75.194.0/24
 add leaseweb_v4 85.17.0.0/16
 add leaseweb_v4 85.113.71.0/24
 add leaseweb_v4 85.155.97.0/24
+add leaseweb_v4 85.209.128.0/24
 add leaseweb_v4 85.209.131.0/24
 add leaseweb_v4 85.234.224.0/20
 add leaseweb_v4 87.236.96.0/21
@@ -482,8 +496,10 @@ add leaseweb_v4 91.198.29.0/24
 add leaseweb_v4 91.198.95.0/24
 add leaseweb_v4 91.199.58.0/24
 add leaseweb_v4 91.201.140.0/23
+add leaseweb_v4 91.212.100.0/24
 add leaseweb_v4 91.212.107.0/24
 add leaseweb_v4 91.212.120.0/24
+add leaseweb_v4 91.212.123.0/24
 add leaseweb_v4 91.214.108.0/24
 add leaseweb_v4 91.229.118.0/24
 add leaseweb_v4 91.232.255.0/24
@@ -523,6 +539,7 @@ add leaseweb_v4 103.64.18.0/23
 add leaseweb_v4 103.74.76.0/22
 add leaseweb_v4 103.75.117.0/24
 add leaseweb_v4 103.78.188.0/22
+add leaseweb_v4 103.91.146.0/24
 add leaseweb_v4 103.101.128.0/22
 add leaseweb_v4 103.119.218.0/23
 add leaseweb_v4 103.138.32.0/24
@@ -541,8 +558,7 @@ add leaseweb_v4 103.198.77.0/24
 add leaseweb_v4 103.209.230.0/24
 add leaseweb_v4 103.227.85.0/24
 add leaseweb_v4 103.227.86.0/24
-add leaseweb_v4 103.229.29.0/24
-add leaseweb_v4 103.229.30.0/23
+add leaseweb_v4 103.229.28.0/22
 add leaseweb_v4 103.247.27.0/24
 add leaseweb_v4 103.254.61.0/24
 add leaseweb_v4 103.254.152.0/22
@@ -978,6 +994,7 @@ add leaseweb_v4 193.8.127.0/24
 add leaseweb_v4 193.8.138.0/24
 add leaseweb_v4 193.8.234.0/24
 add leaseweb_v4 193.9.249.0/24
+add leaseweb_v4 193.23.245.0/24
 add leaseweb_v4 193.23.249.0/24
 add leaseweb_v4 193.23.250.0/24
 add leaseweb_v4 193.25.167.0/24
@@ -986,15 +1003,16 @@ add leaseweb_v4 193.27.72.0/23
 add leaseweb_v4 193.32.2.0/24
 add leaseweb_v4 193.32.16.0/24
 add leaseweb_v4 193.32.23.0/24
-add leaseweb_v4 193.39.142.0/24
+add leaseweb_v4 193.39.142.0/23
+add leaseweb_v4 193.39.209.0/24
+add leaseweb_v4 193.39.245.0/24
 add leaseweb_v4 193.41.38.0/24
 add leaseweb_v4 193.41.69.0/24
-add leaseweb_v4 193.41.87.0/24
+add leaseweb_v4 193.41.86.0/23
 add leaseweb_v4 193.41.114.0/23
 add leaseweb_v4 193.41.122.0/23
 add leaseweb_v4 193.43.92.0/24
-add leaseweb_v4 193.58.109.0/24
-add leaseweb_v4 193.58.110.0/23
+add leaseweb_v4 193.58.108.0/22
 add leaseweb_v4 193.104.219.0/24
 add leaseweb_v4 193.160.76.0/22
 add leaseweb_v4 193.160.152.0/24
@@ -1030,6 +1048,7 @@ add leaseweb_v4 195.40.70.0/23
 add leaseweb_v4 195.40.120.0/22
 add leaseweb_v4 195.40.160.0/23
 add leaseweb_v4 195.54.32.0/23
+add leaseweb_v4 195.66.26.0/24
 add leaseweb_v4 195.85.19.0/24
 add leaseweb_v4 195.93.238.0/23
 add leaseweb_v4 195.144.10.0/24
@@ -1212,6 +1231,7 @@ add leaseweb_v6 2a0a:2d06:55::/48
 add leaseweb_v6 2a0a:2d06:77::/48
 add leaseweb_v6 2a0a:2d06:88::/48
 add leaseweb_v6 2a0a:2d06:99::/48
+add leaseweb_v6 2a0a:2d07:b3::/48
 add leaseweb_v6 2a0a:7d00::/29
 add leaseweb_v6 2a0b:b740::/29
 add leaseweb_v6 2a0c:4880::/29

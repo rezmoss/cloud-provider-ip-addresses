@@ -1,6 +1,6 @@
 # Googlebot IP Ranges (Auto-Updated Daily)
 
-> Last updated: **2026-09-04** · Total CIDRs: **317** · IPv4: **170** · IPv6: **147** · Services: **1**
+> Last updated: **2026-09-05** · Total CIDRs: **317** · IPv4: **170** · IPv6: **147** · Services: **1**
 
 Machine-readable, daily-updated, validated public IP ranges for **Googlebot**.
 Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and Apache.

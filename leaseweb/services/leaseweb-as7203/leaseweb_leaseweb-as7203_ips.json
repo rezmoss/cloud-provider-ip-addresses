@@ -954,19 +954,13 @@
     "region": "global"
   },
   {
-    "ip_address": "2607:f5b5::/48",
-    "ip_type": "IPv6",
-    "service": "leaseweb-as7203",
-    "region": "global"
-  },
-  {
-    "ip_address": "2607:f5b5:1::/48",
-    "ip_type": "IPv6",
-    "service": "leaseweb-as7203",
-    "region": "global"
-  },
-  {
     "ip_address": "2a09:30c0::/29",
+    "ip_type": "IPv6",
+    "service": "leaseweb-as7203",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a0a:2d07:b3::/48",
     "ip_type": "IPv6",
     "service": "leaseweb-as7203",
     "region": "global"

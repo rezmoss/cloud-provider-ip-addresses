@@ -1,6 +1,6 @@
 # Sucuri IP Ranges (Auto-Updated Daily)
 
-> Last updated: **2026-09-04** · Total CIDRs: **30** · IPv4: **17** · IPv6: **13** · Services: **1** · Regions: **1**
+> Last updated: **2026-09-05** · Total CIDRs: **29** · IPv4: **16** · IPv6: **13** · Services: **1** · Regions: **1**
 
 Machine-readable, daily-updated, validated public IP ranges for **Sucuri**.
 Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and Apache.
@@ -34,7 +34,7 @@ Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and
 185.93.231.0/24
 192.124.249.0/24
 192.161.0.0/24
-192.88.134.0/24
+192.88.135.0/24
 ```
 
 ## Per-service breakdown

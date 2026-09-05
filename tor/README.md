@@ -1,6 +1,6 @@
 # Tor Exit Nodes IP Ranges (Auto-Updated Daily)
 
-> Last updated: **2026-09-04** · Total CIDRs: **1,396** · IPv4: **1,396** · IPv6: **0** · Services: **1** · Regions: **1**
+> Last updated: **2026-09-05** · Total CIDRs: **1,339** · IPv4: **1,339** · IPv6: **0** · Services: **1** · Regions: **1**
 
 Machine-readable, daily-updated, validated public IP ranges for **Tor Exit Nodes**.
 Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and Apache.

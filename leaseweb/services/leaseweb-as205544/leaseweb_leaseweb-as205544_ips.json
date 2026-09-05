@@ -384,6 +384,12 @@
     "region": "global"
   },
   {
+    "ip_address": "2a04:88c6::/32",
+    "ip_type": "IPv6",
+    "service": "leaseweb-as205544",
+    "region": "global"
+  },
+  {
     "ip_address": "2a0d:3000::/32",
     "ip_type": "IPv6",
     "service": "leaseweb-as205544",

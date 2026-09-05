@@ -158,7 +158,6 @@ ip_address,ip_type,service
 52.242.132.240/28,IPv4,chatgpt-user
 52.255.109.80/28,IPv4,chatgpt-user
 52.255.109.96/28,IPv4,chatgpt-user
-52.255.109.112/28,IPv4,chatgpt-user
 52.255.109.144/28,IPv4,chatgpt-user
 52.255.111.0/28,IPv4,chatgpt-user
 52.255.111.80/28,IPv4,chatgpt-user
@@ -257,5 +256,9 @@ ip_address,ip_type,service
 172.207.1.32/28,IPv4,chatgpt-user
 172.212.172.160/28,IPv4,chatgpt-user
 172.215.215.32/28,IPv4,chatgpt-user
+191.232.238.96/28,IPv4,chatgpt-user
+191.233.197.0/28,IPv4,chatgpt-user
 191.233.199.160/28,IPv4,chatgpt-user
+191.234.167.144/28,IPv4,chatgpt-user
+191.235.99.160/28,IPv4,chatgpt-user
 191.237.249.64/28,IPv4,chatgpt-user

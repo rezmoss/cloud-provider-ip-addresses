@@ -1,6 +1,6 @@
 #!/bin/bash
 # Rackspace IP Ranges
-# Updated: 2026-08-11 02:54:44
+# Updated: 2026-09-05 02:29:12
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -144,7 +144,6 @@ iptables -A INPUT -s 192.68.42.0/24 -j DROP
 iptables -A INPUT -s 192.237.128.0/17 -j DROP
 iptables -A INPUT -s 193.138.122.0/24 -j DROP
 iptables -A INPUT -s 193.142.244.0/24 -j DROP
-iptables -A INPUT -s 194.39.184.0/24 -j DROP
 iptables -A INPUT -s 195.5.122.0/23 -j DROP
 iptables -A INPUT -s 195.50.109.0/24 -j DROP
 iptables -A INPUT -s 198.61.128.0/17 -j DROP

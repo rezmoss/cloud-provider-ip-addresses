@@ -2,6 +2,56 @@
 
 Daily IP range changes across all providers.
 
+## 2026-09-05
+
+### huawei
+- Added: 3 CIDRs
+- Removed: 0 CIDRs
+
+### sucuri
+- Added: 0 CIDRs
+- Removed: 1 CIDRs
+
+### akamai
+- Added: 2 CIDRs
+- Removed: 11 CIDRs
+
+### ovhcloud
+- Added: 1 CIDRs
+- Removed: 0 CIDRs
+
+### leaseweb
+- Added: 38 CIDRs
+- Removed: 0 CIDRs
+
+### zscaler
+- Added: 1 CIDRs
+- Removed: 0 CIDRs
+
+### stormwall
+- Added: 0 CIDRs
+- Removed: 1 CIDRs
+
+### zoho
+- Added: 2 CIDRs
+- Removed: 1 CIDRs
+
+### tor
+- Added: 10 CIDRs
+- Removed: 67 CIDRs
+
+### nhncloud
+- Added: 1 CIDRs
+- Removed: 0 CIDRs
+
+### gptbot
+- Added: 4 CIDRs
+- Removed: 1 CIDRs
+
+### rackspace
+- Added: 0 CIDRs
+- Removed: 1 CIDRs
+
 ## 2026-09-04
 
 ### apple_private_relay

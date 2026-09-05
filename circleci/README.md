@@ -1,6 +1,6 @@
 # CircleCI IP Ranges (Auto-Updated Daily)
 
-> Last updated: **2026-09-04** · Total CIDRs: **52** · IPv4: **52** · IPv6: **0** · Services: **3** · Regions: **1**
+> Last updated: **2026-09-05** · Total CIDRs: **52** · IPv4: **52** · IPv6: **0** · Services: **3** · Regions: **1**
 
 Machine-readable, daily-updated, validated public IP ranges for **CircleCI**.
 Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and Apache.

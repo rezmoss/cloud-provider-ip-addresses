@@ -1,23 +1,23 @@
 {
   "provider": "ovhcloud",
-  "version": 65,
-  "generated_date": "2026-09-04",
-  "last_changed_date": "2026-09-03",
+  "version": 66,
+  "generated_date": "2026-09-05",
+  "last_changed_date": "2026-09-05",
   "sources": [
     "BGP announced prefixes via RIPE NCC RIPEstat"
   ],
   "ipv4": {
-    "cidrs": 716,
-    "merged_cidrs": 614,
-    "addresses": 4597760
+    "cidrs": 717,
+    "merged_cidrs": 615,
+    "addresses": 4598016
   },
   "ipv6": {
     "cidrs": 42,
     "merged_cidrs": 4,
     "addresses": 316912650057057350374175801344
   },
-  "total_entries": 758,
-  "content_sha256": "c815499b3c55cb23c4d68971d97e26d476cebf39158a3c624627641a945ee523",
+  "total_entries": 759,
+  "content_sha256": "a9fedbc3d0d0effe607236cccfc961d121f4bbf453070f9e0ab7ff751cba7b76",
   "license": "CC0-1.0",
   "license_url": "https://github.com/rezmoss/cloud-provider-ip-addresses/blob/main/LICENSE"
 }

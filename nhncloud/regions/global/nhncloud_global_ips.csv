@@ -102,6 +102,7 @@ ip_address,ip_type,service,region
 114.110.147.0/24,IPv4,nhncloud-as45974,global
 114.110.149.0/24,IPv4,nhncloud-as45974,global
 114.110.150.0/24,IPv4,nhncloud-as45974,global
+114.110.151.0/24,IPv4,nhncloud-as45974,global
 114.110.152.0/24,IPv4,nhncloud-as45974,global
 114.110.153.0/24,IPv4,nhncloud-as45974,global
 114.110.154.0/24,IPv4,nhncloud-as45974,global
