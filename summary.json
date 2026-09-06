@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-05T02:30:10.705401",
+  "generated": "2026-09-06T02:33:27.786519",
   "provider_count": 64,
-  "total_ipv4_addresses": 457000688,
+  "total_ipv4_addresses": 457001969,
   "total_ipv6_addresses": 5507011668849268286323744048797877,
   "ipv4_space_coverage_pct": 10.6404,
   "providers": {
@@ -321,10 +321,10 @@
       "regions": 1
     },
     "ovhcloud": {
-      "ipv4_cidrs": 717,
+      "ipv4_cidrs": 718,
       "ipv6_cidrs": 42,
-      "total_cidrs": 759,
-      "ipv4_addresses": 4635392,
+      "total_cidrs": 760,
+      "ipv4_addresses": 4635648,
       "ipv6_addresses": 318191693574209628041014935552,
       "services": 1,
       "regions": 1
@@ -375,10 +375,10 @@
       "regions": 1
     },
     "zscaler": {
-      "ipv4_cidrs": 907,
+      "ipv4_cidrs": 908,
       "ipv6_cidrs": 83,
-      "total_cidrs": 990,
-      "ipv4_addresses": 1070336,
+      "total_cidrs": 991,
+      "ipv4_addresses": 1070592,
       "ipv6_addresses": 19521734135137031913155330048,
       "services": 4,
       "regions": 1
@@ -402,10 +402,10 @@
       "regions": 1
     },
     "tor": {
-      "ipv4_cidrs": 1339,
+      "ipv4_cidrs": 1340,
       "ipv6_cidrs": 0,
-      "total_cidrs": 1339,
-      "ipv4_addresses": 1339,
+      "total_cidrs": 1340,
+      "ipv4_addresses": 1340,
       "ipv6_addresses": 0,
       "services": 1,
       "regions": 1
@@ -474,10 +474,10 @@
       "regions": 0
     },
     "zoho": {
-      "ipv4_cidrs": 164,
+      "ipv4_cidrs": 166,
       "ipv6_cidrs": 22,
-      "total_cidrs": 186,
-      "ipv4_addresses": 87040,
+      "total_cidrs": 188,
+      "ipv4_addresses": 87808,
       "ipv6_addresses": 79270474917950849614658666496,
       "services": 9,
       "regions": 1

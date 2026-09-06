@@ -2,6 +2,24 @@
 
 Daily IP range changes across all providers.
 
+## 2026-09-06
+
+### ovhcloud
+- Added: 1 CIDRs
+- Removed: 0 CIDRs
+
+### tor
+- Added: 5 CIDRs
+- Removed: 4 CIDRs
+
+### zscaler
+- Added: 1 CIDRs
+- Removed: 0 CIDRs
+
+### zoho
+- Added: 2 CIDRs
+- Removed: 0 CIDRs
+
 ## 2026-09-05
 
 ### huawei
