@@ -1,9 +1,11 @@
 # Google Cloud Platform IP Ranges (Auto-Updated Daily)
 
-> Last updated: **2026-09-06** · Total CIDRs: **1,098** · IPv4: **1,003** · IPv6: **95** · Services: **1** · Regions: **48**
+> Last updated: **2026-09-07** · Total CIDRs: **1,102** · IPv4: **1,007** · IPv6: **95** · Services: **1** · Regions: **48**
 
 Machine-readable, daily-updated, validated public IP ranges for **Google Cloud Platform**.
 Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and Apache.
+
+> **Scope note:** This list covers **GCP customer compute ranges only** (Google's published `cloud.json`). These addresses are multi-tenant: they are released and reassigned between unrelated customers quickly, and blocks are occasionally reclaimed into Google's own service pool. Long-lived per-IP bans against these ranges will outlive the tenant that triggered them — prefer short ban TTLs here. Google's own consumer services (Search, YouTube, Gmail, Public DNS) are **not** in this list; they are published separately in [`../googleservices/`](../googleservices/).
 
 ## Quick use
 

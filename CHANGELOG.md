@@ -2,6 +2,32 @@
 
 Daily IP range changes across all providers.
 
+## 2026-09-07
+
+### zoho
+- Added: 2 CIDRs
+- Removed: 0 CIDRs
+
+### googlecloud
+- Added: 4 CIDRs
+- Removed: 0 CIDRs
+
+### googleservices
+- Added: 5 CIDRs
+- Removed: 2 CIDRs
+
+### akamai
+- Added: 0 CIDRs
+- Removed: 1 CIDRs
+
+### tor
+- Added: 6 CIDRs
+- Removed: 6 CIDRs
+
+### ovhcloud
+- Added: 1 CIDRs
+- Removed: 0 CIDRs
+
 ## 2026-09-06
 
 ### ovhcloud

@@ -1,7 +1,7 @@
 {
   "provider": "gptbot",
   "version": 21,
-  "generated_date": "2026-09-06",
+  "generated_date": "2026-09-07",
   "last_changed_date": "2026-09-05",
   "sources": [
     "https://openai.com/gptbot.json",

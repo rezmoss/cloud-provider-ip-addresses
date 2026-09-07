@@ -13,7 +13,11 @@ INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('8.230.128.0/
 INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('8.231.0.0/19', 'IPv4');
 INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('8.234.0.0/23', 'IPv4');
 INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('8.234.18.0/23', 'IPv4');
-INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('8.236.0.0/15', 'IPv4');
+INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('8.236.0.0/17', 'IPv4');
+INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('8.236.128.0/20', 'IPv4');
+INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('8.236.160.0/19', 'IPv4');
+INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('8.237.64.0/18', 'IPv4');
+INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('8.237.128.0/17', 'IPv4');
 INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('34.0.228.0/22', 'IPv4');
 INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('34.0.232.0/21', 'IPv4');
 INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('34.1.64.0/18', 'IPv4');
@@ -39,7 +43,6 @@ INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('34.4.193.0/2
 INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('34.4.194.0/23', 'IPv4');
 INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('34.4.196.0/22', 'IPv4');
 INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('34.4.200.0/21', 'IPv4');
-INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('34.4.208.0/20', 'IPv4');
 INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('34.4.224.0/19', 'IPv4');
 INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('34.5.0.0/16', 'IPv4');
 INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('34.13.64.0/22', 'IPv4');

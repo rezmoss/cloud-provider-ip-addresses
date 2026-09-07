@@ -42,6 +42,12 @@
     "region": "us-west1"
   },
   {
+    "ip_address": "34.4.208.0/20",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "us-west1"
+  },
+  {
     "ip_address": "34.11.128.0/17",
     "ip_type": "IPv4",
     "service": "Google Cloud",

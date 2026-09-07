@@ -1,6 +1,6 @@
 #!/bin/bash
 # Googleservices IP Ranges
-# Updated: 2026-08-29 02:21:39
+# Updated: 2026-09-07 02:26:21
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -14,7 +14,11 @@ iptables -A INPUT -s 8.230.128.0/17 -j ACCEPT
 iptables -A INPUT -s 8.231.0.0/19 -j ACCEPT
 iptables -A INPUT -s 8.234.0.0/23 -j ACCEPT
 iptables -A INPUT -s 8.234.18.0/23 -j ACCEPT
-iptables -A INPUT -s 8.236.0.0/15 -j ACCEPT
+iptables -A INPUT -s 8.236.0.0/17 -j ACCEPT
+iptables -A INPUT -s 8.236.128.0/20 -j ACCEPT
+iptables -A INPUT -s 8.236.160.0/19 -j ACCEPT
+iptables -A INPUT -s 8.237.64.0/18 -j ACCEPT
+iptables -A INPUT -s 8.237.128.0/17 -j ACCEPT
 iptables -A INPUT -s 34.0.228.0/22 -j ACCEPT
 iptables -A INPUT -s 34.0.232.0/21 -j ACCEPT
 iptables -A INPUT -s 34.1.64.0/18 -j ACCEPT
@@ -40,7 +44,6 @@ iptables -A INPUT -s 34.4.193.0/24 -j ACCEPT
 iptables -A INPUT -s 34.4.194.0/23 -j ACCEPT
 iptables -A INPUT -s 34.4.196.0/22 -j ACCEPT
 iptables -A INPUT -s 34.4.200.0/21 -j ACCEPT
-iptables -A INPUT -s 34.4.208.0/20 -j ACCEPT
 iptables -A INPUT -s 34.4.224.0/19 -j ACCEPT
 iptables -A INPUT -s 34.5.0.0/16 -j ACCEPT
 iptables -A INPUT -s 34.13.64.0/22 -j ACCEPT

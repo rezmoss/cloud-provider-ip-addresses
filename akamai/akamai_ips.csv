@@ -5735,7 +5735,6 @@ ip_address,ip_type,service,region
 103.93.157.0/24,IPv4,akamai-as32787,global
 103.95.84.0/22,IPv4,akamai-as16625,global
 103.114.130.0/24,IPv4,akamai-as32787,global
-103.114.131.0/24,IPv4,akamai-as32787,global
 103.238.148.0/22,IPv4,akamai-as20940,global
 103.238.150.0/23,IPv4,akamai-as16625,global
 104.64.0.0/10,IPv4,akamai-as20940,global

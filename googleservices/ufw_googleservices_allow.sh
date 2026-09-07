@@ -1,6 +1,6 @@
 #!/bin/bash
 # Googleservices IP Ranges
-# Updated: 2026-08-29 02:21:40
+# Updated: 2026-09-07 02:26:21
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -14,7 +14,11 @@ ufw allow from 8.230.128.0/17
 ufw allow from 8.231.0.0/19
 ufw allow from 8.234.0.0/23
 ufw allow from 8.234.18.0/23
-ufw allow from 8.236.0.0/15
+ufw allow from 8.236.0.0/17
+ufw allow from 8.236.128.0/20
+ufw allow from 8.236.160.0/19
+ufw allow from 8.237.64.0/18
+ufw allow from 8.237.128.0/17
 ufw allow from 34.0.228.0/22
 ufw allow from 34.0.232.0/21
 ufw allow from 34.1.64.0/18
@@ -40,7 +44,6 @@ ufw allow from 34.4.193.0/24
 ufw allow from 34.4.194.0/23
 ufw allow from 34.4.196.0/22
 ufw allow from 34.4.200.0/21
-ufw allow from 34.4.208.0/20
 ufw allow from 34.4.224.0/19
 ufw allow from 34.5.0.0/16
 ufw allow from 34.13.64.0/22

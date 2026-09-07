@@ -1,9 +1,11 @@
 # Google Services IP Ranges (Auto-Updated Daily)
 
-> Last updated: **2026-09-06** · Total CIDRs: **401** · IPv4: **303** · IPv6: **98** · Services: **1** · Regions: **1**
+> Last updated: **2026-09-07** · Total CIDRs: **404** · IPv4: **306** · IPv6: **98** · Services: **1** · Regions: **1**
 
 Machine-readable, daily-updated, validated public IP ranges for **Google Services**.
 Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and Apache.
+
+> **Scope note:** This list covers **Google-owned service infrastructure** — the difference between Google's full published range list (`goog.json`) and its GCP customer ranges (`cloud.json`). It includes the edges serving Search, YouTube, Gmail, Public DNS, and Google's load-balancer front ends. Deny-listing or long-banning these ranges blocks core Google services. Multi-tenant GCP customer compute lives separately in [`../googlecloud/`](../googlecloud/).
 
 ## Quick use
 

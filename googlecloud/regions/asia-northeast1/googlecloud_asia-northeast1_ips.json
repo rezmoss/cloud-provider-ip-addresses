@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "8.237.0.0/18",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "asia-northeast1"
+  },
+  {
     "ip_address": "34.84.0.0/16",
     "ip_type": "IPv4",
     "service": "Google Cloud",

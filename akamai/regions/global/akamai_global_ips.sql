@@ -5742,7 +5742,6 @@ INSERT INTO `akamai_global_ips` (`ip_address`, `ip_type`) VALUES ('103.41.68.0/2
 INSERT INTO `akamai_global_ips` (`ip_address`, `ip_type`) VALUES ('103.93.157.0/24', 'IPv4');
 INSERT INTO `akamai_global_ips` (`ip_address`, `ip_type`) VALUES ('103.95.84.0/22', 'IPv4');
 INSERT INTO `akamai_global_ips` (`ip_address`, `ip_type`) VALUES ('103.114.130.0/24', 'IPv4');
-INSERT INTO `akamai_global_ips` (`ip_address`, `ip_type`) VALUES ('103.114.131.0/24', 'IPv4');
 INSERT INTO `akamai_global_ips` (`ip_address`, `ip_type`) VALUES ('103.238.148.0/22', 'IPv4');
 INSERT INTO `akamai_global_ips` (`ip_address`, `ip_type`) VALUES ('103.238.150.0/23', 'IPv4');
 INSERT INTO `akamai_global_ips` (`ip_address`, `ip_type`) VALUES ('104.64.0.0/10', 'IPv4');
