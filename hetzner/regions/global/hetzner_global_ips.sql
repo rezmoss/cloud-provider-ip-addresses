@@ -149,6 +149,10 @@ INSERT INTO `hetzner_global_ips` (`ip_address`, `ip_type`) VALUES ('5.78.157.0/2
 INSERT INTO `hetzner_global_ips` (`ip_address`, `ip_type`) VALUES ('5.78.158.0/24', 'IPv4');
 INSERT INTO `hetzner_global_ips` (`ip_address`, `ip_type`) VALUES ('5.78.159.0/24', 'IPv4');
 INSERT INTO `hetzner_global_ips` (`ip_address`, `ip_type`) VALUES ('5.78.160.0/22', 'IPv4');
+INSERT INTO `hetzner_global_ips` (`ip_address`, `ip_type`) VALUES ('5.78.160.0/24', 'IPv4');
+INSERT INTO `hetzner_global_ips` (`ip_address`, `ip_type`) VALUES ('5.78.161.0/24', 'IPv4');
+INSERT INTO `hetzner_global_ips` (`ip_address`, `ip_type`) VALUES ('5.78.162.0/24', 'IPv4');
+INSERT INTO `hetzner_global_ips` (`ip_address`, `ip_type`) VALUES ('5.78.163.0/24', 'IPv4');
 INSERT INTO `hetzner_global_ips` (`ip_address`, `ip_type`) VALUES ('5.78.176.0/24', 'IPv4');
 INSERT INTO `hetzner_global_ips` (`ip_address`, `ip_type`) VALUES ('5.78.177.0/24', 'IPv4');
 INSERT INTO `hetzner_global_ips` (`ip_address`, `ip_type`) VALUES ('5.78.178.0/24', 'IPv4');

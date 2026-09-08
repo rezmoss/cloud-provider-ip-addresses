@@ -39,7 +39,6 @@ ip_address,ip_type,service,region
 95.168.186.0/24,IPv4,leaseweb-as205544,global
 95.168.187.0/24,IPv4,leaseweb-as205544,global
 95.168.188.0/22,IPv4,leaseweb-as205544,global
-103.173.197.0/24,IPv4,leaseweb-as205544,global
 173.208.48.0/21,IPv4,leaseweb-as205544,global
 173.234.16.0/21,IPv4,leaseweb-as205544,global
 173.234.16.0/24,IPv4,leaseweb-as205544,global

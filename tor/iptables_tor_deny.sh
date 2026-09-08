@@ -1,6 +1,6 @@
 #!/bin/bash
 # Tor IP Ranges
-# Updated: 2026-09-07 02:34:41
+# Updated: 2026-09-08 02:34:53
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -629,6 +629,7 @@ iptables -A INPUT -s 185.247.224.89/32 -j DROP
 iptables -A INPUT -s 185.247.226.95/32 -j DROP
 iptables -A INPUT -s 185.252.232.218/32 -j DROP
 iptables -A INPUT -s 185.254.196.141/32 -j DROP
+iptables -A INPUT -s 186.240.149.160/32 -j DROP
 iptables -A INPUT -s 188.68.41.191/32 -j DROP
 iptables -A INPUT -s 188.68.49.235/32 -j DROP
 iptables -A INPUT -s 188.68.52.231/32 -j DROP
@@ -703,9 +704,8 @@ iptables -A INPUT -s 198.98.51.189/32 -j DROP
 iptables -A INPUT -s 198.98.51.249/32 -j DROP
 iptables -A INPUT -s 198.98.60.231/32 -j DROP
 iptables -A INPUT -s 198.98.61.60/32 -j DROP
+iptables -A INPUT -s 198.167.206.152/32 -j DROP
 iptables -A INPUT -s 198.167.206.179/32 -j DROP
-iptables -A INPUT -s 198.167.206.201/32 -j DROP
-iptables -A INPUT -s 198.167.206.224/32 -j DROP
 iptables -A INPUT -s 198.167.206.234/32 -j DROP
 iptables -A INPUT -s 199.195.251.119/32 -j DROP
 iptables -A INPUT -s 199.195.253.124/32 -j DROP

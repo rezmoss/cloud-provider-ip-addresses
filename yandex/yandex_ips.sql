@@ -81,6 +81,7 @@ INSERT INTO `yandex_ips` (`ip_address`, `ip_type`) VALUES ('93.158.168.0/22', 'I
 INSERT INTO `yandex_ips` (`ip_address`, `ip_type`) VALUES ('93.158.171.0/24', 'IPv4');
 INSERT INTO `yandex_ips` (`ip_address`, `ip_type`) VALUES ('93.158.184.0/21', 'IPv4');
 INSERT INTO `yandex_ips` (`ip_address`, `ip_type`) VALUES ('93.158.184.0/24', 'IPv4');
+INSERT INTO `yandex_ips` (`ip_address`, `ip_type`) VALUES ('93.158.185.0/24', 'IPv4');
 INSERT INTO `yandex_ips` (`ip_address`, `ip_type`) VALUES ('93.158.186.0/24', 'IPv4');
 INSERT INTO `yandex_ips` (`ip_address`, `ip_type`) VALUES ('93.158.187.0/24', 'IPv4');
 INSERT INTO `yandex_ips` (`ip_address`, `ip_type`) VALUES ('94.126.204.0/22', 'IPv4');

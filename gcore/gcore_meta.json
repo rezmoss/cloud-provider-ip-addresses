@@ -1,23 +1,23 @@
 {
   "provider": "gcore",
-  "version": 34,
-  "generated_date": "2026-09-07",
-  "last_changed_date": "2026-09-04",
+  "version": 35,
+  "generated_date": "2026-09-08",
+  "last_changed_date": "2026-09-08",
   "sources": [
     "https://api.gcore.com/cdn/public-ip-list"
   ],
   "ipv4": {
-    "cidrs": 981,
-    "merged_cidrs": 565,
-    "addresses": 980
+    "cidrs": 980,
+    "merged_cidrs": 564,
+    "addresses": 979
   },
   "ipv6": {
-    "cidrs": 840,
-    "merged_cidrs": 464,
-    "addresses": 840
+    "cidrs": 841,
+    "merged_cidrs": 463,
+    "addresses": 841
   },
   "total_entries": 1821,
-  "content_sha256": "f9b68fe5a8928fe608dbf744c036b3d51e1ca50fe884a031bf67a8db50b4ae88",
+  "content_sha256": "232b3cd270414a4ad4b0ea06b3ba0586027042a049818e146ec3a81242f14f46",
   "license": "CC0-1.0",
   "license_url": "https://github.com/rezmoss/cloud-provider-ip-addresses/blob/main/LICENSE"
 }
