@@ -257,6 +257,7 @@ INSERT INTO `azure_actiongroup_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030
 INSERT INTO `azure_actiongroup_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f05:1::120/126', 'IPv6');
 INSERT INTO `azure_actiongroup_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f05:402::178/125', 'IPv6');
 INSERT INTO `azure_actiongroup_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005::10c/126', 'IPv6');
+INSERT INTO `azure_actiongroup_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005:12::650/125', 'IPv6');
 INSERT INTO `azure_actiongroup_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005:402::178/125', 'IPv6');
 INSERT INTO `azure_actiongroup_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1102:400::40/125', 'IPv6');
 INSERT INTO `azure_actiongroup_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1202:400::40/125', 'IPv6');

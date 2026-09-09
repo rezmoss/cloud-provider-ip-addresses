@@ -13,6 +13,7 @@ INSERT INTO `azure_azurecontainerregistry.canadaeast_ips` (`ip_address`, `ip_typ
 INSERT INTO `azure_azurecontainerregistry.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('40.89.23.64/26', 'IPv4');
 INSERT INTO `azure_azurecontainerregistry.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005:3::180/125', 'IPv6');
 INSERT INTO `azure_azurecontainerregistry.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005:6::40/122', 'IPv6');
+INSERT INTO `azure_azurecontainerregistry.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005:12::580/121', 'IPv6');
 INSERT INTO `azure_azurecontainerregistry.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005:402::90/125', 'IPv6');
 INSERT INTO `azure_azurecontainerregistry.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005:402::340/122', 'IPv6');
 INSERT INTO `azure_azurecontainerregistry.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005:402::580/122', 'IPv6');

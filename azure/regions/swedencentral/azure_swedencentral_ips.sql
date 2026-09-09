@@ -364,9 +364,9 @@ INSERT INTO `azure_swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('57.150.
 INSERT INTO `azure_swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('57.150.58.0/23', 'IPv4');
 INSERT INTO `azure_swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('57.157.68.0/23', 'IPv4');
 INSERT INTO `azure_swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('57.157.70.0/24', 'IPv4');
-INSERT INTO `azure_swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('57.157.71.0/28', 'IPv4');
-INSERT INTO `azure_swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('57.157.71.16/29', 'IPv4');
-INSERT INTO `azure_swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('57.157.71.24/31', 'IPv4');
+INSERT INTO `azure_swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('57.157.71.0/26', 'IPv4');
+INSERT INTO `azure_swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('57.157.71.64/28', 'IPv4');
+INSERT INTO `azure_swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('57.157.71.80/31', 'IPv4');
 INSERT INTO `azure_swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('57.163.6.0/23', 'IPv4');
 INSERT INTO `azure_swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('57.163.6.0/23', 'IPv4');
 INSERT INTO `azure_swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('57.174.0.0/16', 'IPv4');
@@ -422,6 +422,7 @@ INSERT INTO `azure_swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('145.190
 INSERT INTO `azure_swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('151.206.112.0/24', 'IPv4');
 INSERT INTO `azure_swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('151.206.128.0/24', 'IPv4');
 INSERT INTO `azure_swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('172.130.0.0/16', 'IPv4');
+INSERT INTO `azure_swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('172.135.0.0/17', 'IPv4');
 INSERT INTO `azure_swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('172.160.0.0/16', 'IPv4');
 INSERT INTO `azure_swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('172.160.153.128/26', 'IPv4');
 INSERT INTO `azure_swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('172.160.153.240/28', 'IPv4');

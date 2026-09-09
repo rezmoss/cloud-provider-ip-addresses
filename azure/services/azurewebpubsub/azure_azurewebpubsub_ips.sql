@@ -74,6 +74,7 @@ INSERT INTO `azure_azurewebpubsub_ips` (`ip_address`, `ip_type`) VALUES ('40.79.
 INSERT INTO `azure_azurewebpubsub_ips` (`ip_address`, `ip_type`) VALUES ('40.84.76.128/26', 'IPv4');
 INSERT INTO `azure_azurewebpubsub_ips` (`ip_address`, `ip_type`) VALUES ('40.120.77.128/27', 'IPv4');
 INSERT INTO `azure_azurewebpubsub_ips` (`ip_address`, `ip_type`) VALUES ('40.120.82.128/27', 'IPv4');
+INSERT INTO `azure_azurewebpubsub_ips` (`ip_address`, `ip_type`) VALUES ('48.196.155.192/26', 'IPv4');
 INSERT INTO `azure_azurewebpubsub_ips` (`ip_address`, `ip_type`) VALUES ('48.215.89.32/27', 'IPv4');
 INSERT INTO `azure_azurewebpubsub_ips` (`ip_address`, `ip_type`) VALUES ('51.12.20.0/27', 'IPv4');
 INSERT INTO `azure_azurewebpubsub_ips` (`ip_address`, `ip_type`) VALUES ('51.12.28.0/27', 'IPv4');
@@ -125,6 +126,7 @@ INSERT INTO `azure_azurewebpubsub_ips` (`ip_address`, `ip_type`) VALUES ('104.21
 INSERT INTO `azure_azurewebpubsub_ips` (`ip_address`, `ip_type`) VALUES ('135.225.177.64/27', 'IPv4');
 INSERT INTO `azure_azurewebpubsub_ips` (`ip_address`, `ip_type`) VALUES ('135.232.159.192/27', 'IPv4');
 INSERT INTO `azure_azurewebpubsub_ips` (`ip_address`, `ip_type`) VALUES ('135.235.2.224/27', 'IPv4');
+INSERT INTO `azure_azurewebpubsub_ips` (`ip_address`, `ip_type`) VALUES ('145.191.180.192/26', 'IPv4');
 INSERT INTO `azure_azurewebpubsub_ips` (`ip_address`, `ip_type`) VALUES ('168.61.142.64/27', 'IPv4');
 INSERT INTO `azure_azurewebpubsub_ips` (`ip_address`, `ip_type`) VALUES ('172.129.103.64/26', 'IPv4');
 INSERT INTO `azure_azurewebpubsub_ips` (`ip_address`, `ip_type`) VALUES ('172.204.250.0/26', 'IPv4');
@@ -178,6 +180,7 @@ INSERT INTO `azure_azurewebpubsub_ips` (`ip_address`, `ip_type`) VALUES ('2603:1
 INSERT INTO `azure_azurewebpubsub_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:c06:5::/120', 'IPv6');
 INSERT INTO `azure_azurewebpubsub_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f05:2::600/120', 'IPv6');
 INSERT INTO `azure_azurewebpubsub_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005:2::200/120', 'IPv6');
+INSERT INTO `azure_azurewebpubsub_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1702:7::80/122', 'IPv6');
 INSERT INTO `azure_azurewebpubsub_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:5:3::100/120', 'IPv6');
 INSERT INTO `azure_azurewebpubsub_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:207:2::700/120', 'IPv6');
 INSERT INTO `azure_azurewebpubsub_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:407:2::400/120', 'IPv6');

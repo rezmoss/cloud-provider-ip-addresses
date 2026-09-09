@@ -496,6 +496,7 @@ INSERT INTO `azure_azureconnectors_ips` (`ip_address`, `ip_type`) VALUES ('104.2
 INSERT INTO `azure_azureconnectors_ips` (`ip_address`, `ip_type`) VALUES ('104.215.61.248/32', 'IPv4');
 INSERT INTO `azure_azureconnectors_ips` (`ip_address`, `ip_type`) VALUES ('134.138.76.128/26', 'IPv4');
 INSERT INTO `azure_azureconnectors_ips` (`ip_address`, `ip_type`) VALUES ('137.117.161.181/32', 'IPv4');
+INSERT INTO `azure_azureconnectors_ips` (`ip_address`, `ip_type`) VALUES ('145.191.174.192/26', 'IPv4');
 INSERT INTO `azure_azureconnectors_ips` (`ip_address`, `ip_type`) VALUES ('158.23.108.64/26', 'IPv4');
 INSERT INTO `azure_azureconnectors_ips` (`ip_address`, `ip_type`) VALUES ('168.61.140.0/27', 'IPv4');
 INSERT INTO `azure_azureconnectors_ips` (`ip_address`, `ip_type`) VALUES ('168.61.143.64/26', 'IPv4');

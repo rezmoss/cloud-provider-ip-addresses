@@ -5,4 +5,5 @@ ip_address,ip_type,service,region
 52.139.87.129/32,IPv4,GatewayManager.CanadaEast,canadaeast
 52.139.87.150/32,IPv4,GatewayManager.CanadaEast,canadaeast
 52.242.44.0/27,IPv4,GatewayManager.CanadaEast,canadaeast
+145.191.173.128/26,IPv4,GatewayManager.CanadaEast,canadaeast
 2603:1030:1005::40/122,IPv6,GatewayManager.CanadaEast,canadaeast

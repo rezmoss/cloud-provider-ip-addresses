@@ -12,6 +12,30 @@
     "region": "eastus3"
   },
   {
+    "ip_address": "51.57.209.224/27",
+    "ip_type": "IPv4",
+    "service": "DataFactory.EastUS3",
+    "region": "eastus3"
+  },
+  {
+    "ip_address": "51.57.210.0/25",
+    "ip_type": "IPv4",
+    "service": "DataFactory.EastUS3",
+    "region": "eastus3"
+  },
+  {
+    "ip_address": "51.57.210.128/26",
+    "ip_type": "IPv4",
+    "service": "DataFactory.EastUS3",
+    "region": "eastus3"
+  },
+  {
+    "ip_address": "51.57.210.192/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.EastUS3",
+    "region": "eastus3"
+  },
+  {
     "ip_address": "134.138.80.0/23",
     "ip_type": "IPv4",
     "service": "DataFactory.EastUS3",
@@ -31,6 +55,18 @@
   },
   {
     "ip_address": "2603:1030:1402:5::80/121",
+    "ip_type": "IPv6",
+    "service": "DataFactory.EastUS3",
+    "region": "eastus3"
+  },
+  {
+    "ip_address": "2603:1030:1402:9::5b8/125",
+    "ip_type": "IPv6",
+    "service": "DataFactory.EastUS3",
+    "region": "eastus3"
+  },
+  {
+    "ip_address": "2603:1030:1402:9::5c0/124",
     "ip_type": "IPv6",
     "service": "DataFactory.EastUS3",
     "region": "eastus3"

@@ -21,6 +21,7 @@ INSERT INTO `azure_azurecloud.canadaeast_ips` (`ip_address`, `ip_type`) VALUES (
 INSERT INTO `azure_azurecloud.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('20.95.49.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('20.104.128.0/18', 'IPv4');
 INSERT INTO `azure_azurecloud.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('20.135.66.0/23', 'IPv4');
+INSERT INTO `azure_azurecloud.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('20.143.232.0/22', 'IPv4');
 INSERT INTO `azure_azurecloud.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('20.150.1.0/25', 'IPv4');
 INSERT INTO `azure_azurecloud.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('20.150.40.128/25', 'IPv4');
 INSERT INTO `azure_azurecloud.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('20.150.113.0/24', 'IPv4');
@@ -83,6 +84,11 @@ INSERT INTO `azure_azurecloud.canadaeast_ips` (`ip_address`, `ip_type`) VALUES (
 INSERT INTO `azure_azurecloud.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('52.239.190.0/25', 'IPv4');
 INSERT INTO `azure_azurecloud.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('52.242.0.0/18', 'IPv4');
 INSERT INTO `azure_azurecloud.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('52.245.32.0/22', 'IPv4');
+INSERT INTO `azure_azurecloud.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('52.251.130.0/23', 'IPv4');
+INSERT INTO `azure_azurecloud.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('57.163.75.0/24', 'IPv4');
+INSERT INTO `azure_azurecloud.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('57.163.76.0/23', 'IPv4');
+INSERT INTO `azure_azurecloud.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('57.163.79.0/24', 'IPv4');
+INSERT INTO `azure_azurecloud.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('57.163.81.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('70.152.5.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('104.44.93.64/27', 'IPv4');
 INSERT INTO `azure_azurecloud.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('104.44.95.32/28', 'IPv4');
@@ -95,6 +101,8 @@ INSERT INTO `azure_azurecloud.canadaeast_ips` (`ip_address`, `ip_type`) VALUES (
 INSERT INTO `azure_azurecloud.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1004::/48', 'IPv6');
 INSERT INTO `azure_azurecloud.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005::/48', 'IPv6');
 INSERT INTO `azure_azurecloud.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1006::/47', 'IPv6');
+INSERT INTO `azure_azurecloud.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1008::/62', 'IPv6');
+INSERT INTO `azure_azurecloud.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1008:4::/64', 'IPv6');
 INSERT INTO `azure_azurecloud.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1036:903:19::/64', 'IPv6');
 INSERT INTO `azure_azurecloud.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1036:903:3d::/64', 'IPv6');
 INSERT INTO `azure_azurecloud.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1036:903:3e::/63', 'IPv6');

@@ -161,6 +161,7 @@ ip_address,ip_type,service,region
 104.208.199.24/29,IPv4,VideoIndexer,
 104.208.199.48/31,IPv4,VideoIndexer,
 134.138.71.120/30,IPv4,VideoIndexer,
+145.191.173.20/30,IPv4,VideoIndexer,
 158.23.103.36/30,IPv4,VideoIndexer,
 172.129.81.60/30,IPv4,VideoIndexer,
 172.160.222.50/31,IPv4,VideoIndexer,

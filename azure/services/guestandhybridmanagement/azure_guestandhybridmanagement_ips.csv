@@ -507,6 +507,7 @@ ip_address,ip_type,service,region
 130.131.132.216/29,IPv4,GuestAndHybridManagement,
 134.138.70.96/27,IPv4,GuestAndHybridManagement,
 135.225.41.32/27,IPv4,GuestAndHybridManagement,
+145.191.174.0/27,IPv4,GuestAndHybridManagement,
 157.55.90.60/30,IPv4,GuestAndHybridManagement,
 157.55.90.96/27,IPv4,GuestAndHybridManagement,
 157.55.90.192/29,IPv4,GuestAndHybridManagement,

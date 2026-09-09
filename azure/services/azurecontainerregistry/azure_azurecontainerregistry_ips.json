@@ -5772,6 +5772,12 @@
     "region": ""
   },
   {
+    "ip_address": "2603:1030:1005:12::580/121",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry",
+    "region": ""
+  },
+  {
     "ip_address": "2603:1030:1005:402::90/125",
     "ip_type": "IPv6",
     "service": "AzureContainerRegistry",

@@ -6,6 +6,18 @@
     "region": "canadaeast"
   },
   {
+    "ip_address": "145.191.175.96/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:12::648/125",
+    "ip_type": "IPv6",
+    "service": "MicrosoftContainerRegistry.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
     "ip_address": "2603:1030:1005:402::88/125",
     "ip_type": "IPv6",
     "service": "MicrosoftContainerRegistry.CanadaEast",

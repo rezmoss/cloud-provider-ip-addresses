@@ -996,6 +996,12 @@
     "region": "westcentralus"
   },
   {
+    "ip_address": "145.190.88.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.westcentralus",
+    "region": "westcentralus"
+  },
+  {
     "ip_address": "145.190.137.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.westcentralus",

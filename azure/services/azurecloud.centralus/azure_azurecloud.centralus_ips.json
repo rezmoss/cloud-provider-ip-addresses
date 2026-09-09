@@ -1266,19 +1266,7 @@
     "region": "centralus"
   },
   {
-    "ip_address": "40.87.182.136/29",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.centralus",
-    "region": "centralus"
-  },
-  {
-    "ip_address": "40.87.182.144/28",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.centralus",
-    "region": "centralus"
-  },
-  {
-    "ip_address": "40.87.182.160/27",
+    "ip_address": "40.87.182.128/26",
     "ip_type": "IPv4",
     "service": "AzureCloud.centralus",
     "region": "centralus"
@@ -1374,25 +1362,19 @@
     "region": "centralus"
   },
   {
-    "ip_address": "40.87.183.64/28",
+    "ip_address": "40.87.183.64/27",
     "ip_type": "IPv4",
     "service": "AzureCloud.centralus",
     "region": "centralus"
   },
   {
-    "ip_address": "40.87.183.92/30",
+    "ip_address": "40.87.183.96/28",
     "ip_type": "IPv4",
     "service": "AzureCloud.centralus",
     "region": "centralus"
   },
   {
-    "ip_address": "40.87.183.96/29",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.centralus",
-    "region": "centralus"
-  },
-  {
-    "ip_address": "40.87.183.104/30",
+    "ip_address": "40.87.183.112/31",
     "ip_type": "IPv4",
     "service": "AzureCloud.centralus",
     "region": "centralus"
@@ -3924,6 +3906,12 @@
     "region": "centralus"
   },
   {
+    "ip_address": "172.134.0.0/17",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.centralus",
+    "region": "centralus"
+  },
+  {
     "ip_address": "172.168.0.0/15",
     "ip_type": "IPv4",
     "service": "AzureCloud.centralus",
@@ -4026,85 +4014,19 @@
     "region": "centralus"
   },
   {
-    "ip_address": "2603:1030:9:40::/60",
+    "ip_address": "2603:1030:9:40::/58",
     "ip_type": "IPv6",
     "service": "AzureCloud.centralus",
     "region": "centralus"
   },
   {
-    "ip_address": "2603:1030:9:51::/64",
+    "ip_address": "2603:1030:9:80::/59",
     "ip_type": "IPv6",
     "service": "AzureCloud.centralus",
     "region": "centralus"
   },
   {
-    "ip_address": "2603:1030:9:52::/63",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.centralus",
-    "region": "centralus"
-  },
-  {
-    "ip_address": "2603:1030:9:54::/62",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.centralus",
-    "region": "centralus"
-  },
-  {
-    "ip_address": "2603:1030:9:58::/61",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.centralus",
-    "region": "centralus"
-  },
-  {
-    "ip_address": "2603:1030:9:60::/59",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.centralus",
-    "region": "centralus"
-  },
-  {
-    "ip_address": "2603:1030:9:80::/60",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.centralus",
-    "region": "centralus"
-  },
-  {
-    "ip_address": "2603:1030:9:90::/61",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.centralus",
-    "region": "centralus"
-  },
-  {
-    "ip_address": "2603:1030:9:98::/63",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.centralus",
-    "region": "centralus"
-  },
-  {
-    "ip_address": "2603:1030:9:9a::/64",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.centralus",
-    "region": "centralus"
-  },
-  {
-    "ip_address": "2603:1030:9:a1::/64",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.centralus",
-    "region": "centralus"
-  },
-  {
-    "ip_address": "2603:1030:9:a2::/63",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.centralus",
-    "region": "centralus"
-  },
-  {
-    "ip_address": "2603:1030:9:a4::/62",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.centralus",
-    "region": "centralus"
-  },
-  {
-    "ip_address": "2603:1030:9:a8::/61",
+    "ip_address": "2603:1030:9:a0::/60",
     "ip_type": "IPv6",
     "service": "AzureCloud.centralus",
     "region": "centralus"
@@ -4152,13 +4074,7 @@
     "region": "centralus"
   },
   {
-    "ip_address": "2603:1030:9:c0::/63",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.centralus",
-    "region": "centralus"
-  },
-  {
-    "ip_address": "2603:1030:9:c8::/61",
+    "ip_address": "2603:1030:9:c0::/60",
     "ip_type": "IPv6",
     "service": "AzureCloud.centralus",
     "region": "centralus"

@@ -12,4 +12,5 @@ INSERT INTO `azure_gatewaymanager.canadaeast_ips` (`ip_address`, `ip_type`) VALU
 INSERT INTO `azure_gatewaymanager.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('52.139.87.129/32', 'IPv4');
 INSERT INTO `azure_gatewaymanager.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('52.139.87.150/32', 'IPv4');
 INSERT INTO `azure_gatewaymanager.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('52.242.44.0/27', 'IPv4');
+INSERT INTO `azure_gatewaymanager.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('145.191.173.128/26', 'IPv4');
 INSERT INTO `azure_gatewaymanager.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005::40/122', 'IPv6');

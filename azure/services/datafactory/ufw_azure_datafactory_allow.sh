@@ -1,6 +1,6 @@
 #!/bin/bash
 # Azure IP Ranges
-# Updated: 2026-08-19 02:32:01
+# Updated: 2026-09-09 02:25:00
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -322,12 +322,24 @@ ufw allow from 40.120.86.64/26
 ufw allow from 48.196.97.224/28
 ufw allow from 48.196.98.128/27
 ufw allow from 48.196.99.0/24
+ufw allow from 48.196.158.0/25
+ufw allow from 48.196.158.128/26
+ufw allow from 48.196.158.192/27
+ufw allow from 48.196.158.224/28
 ufw allow from 48.197.89.112/28
 ufw allow from 48.197.89.160/27
 ufw allow from 48.197.91.0/24
+ufw allow from 48.197.149.112/28
+ufw allow from 48.197.149.128/25
+ufw allow from 48.197.150.0/26
+ufw allow from 48.197.150.64/27
 ufw allow from 48.198.97.224/28
 ufw allow from 48.198.100.0/24
 ufw allow from 48.198.101.0/27
+ufw allow from 48.198.193.208/28
+ufw allow from 48.198.193.224/27
+ufw allow from 48.198.194.0/25
+ufw allow from 48.198.194.128/26
 ufw allow from 48.209.130.96/28
 ufw allow from 48.209.130.112/29
 ufw allow from 48.210.4.0/27
@@ -364,6 +376,10 @@ ufw allow from 51.53.176.0/23
 ufw allow from 51.53.191.64/28
 ufw allow from 51.57.137.192/28
 ufw allow from 51.57.137.224/27
+ufw allow from 51.57.209.224/27
+ufw allow from 51.57.210.0/25
+ufw allow from 51.57.210.128/26
+ufw allow from 51.57.210.192/28
 ufw allow from 51.103.203.208/28
 ufw allow from 51.104.9.32/28
 ufw allow from 51.104.24.128/25
@@ -519,6 +535,7 @@ ufw allow from 134.138.98.224/28
 ufw allow from 135.224.39.224/27
 ufw allow from 135.225.43.96/27
 ufw allow from 135.225.43.128/29
+ufw allow from 145.191.177.0/24
 ufw allow from 158.23.15.0/28
 ufw allow from 158.23.108.208/28
 ufw allow from 158.23.110.0/23
@@ -826,6 +843,7 @@ ufw allow from 2603:1030:f05:802::210/124
 ufw allow from 2603:1030:f05:c02::210/124
 ufw allow from 2603:1030:1005::440/122
 ufw allow from 2603:1030:1005::500/121
+ufw allow from 2603:1030:1005:13::100/121
 ufw allow from 2603:1030:1005:402::330/124
 ufw allow from 2603:1030:1102:2::300/121
 ufw allow from 2603:1030:1102:400::150/124
@@ -835,6 +853,8 @@ ufw allow from 2603:1030:1302:2::280/121
 ufw allow from 2603:1030:1302:400::220/124
 ufw allow from 2603:1030:1402:2::500/121
 ufw allow from 2603:1030:1402:5::80/121
+ufw allow from 2603:1030:1402:9::5b8/125
+ufw allow from 2603:1030:1402:9::5c0/124
 ufw allow from 2603:1030:1402:400::200/124
 ufw allow from 2603:1030:1502:2::480/121
 ufw allow from 2603:1030:1502:3::2f8/125
@@ -843,6 +863,8 @@ ufw allow from 2603:1030:1502:400::160/124
 ufw allow from 2603:1030:1602:3::/120
 ufw allow from 2603:1030:1702:3::80/121
 ufw allow from 2603:1030:1702:3::100/121
+ufw allow from 2603:1030:1702:7::18/125
+ufw allow from 2603:1030:1702:7::20/124
 ufw allow from 2603:1040:5::/121
 ufw allow from 2603:1040:5::80/122
 ufw allow from 2603:1040:5:1::480/121
@@ -957,7 +979,11 @@ ufw allow from 2603:1040:1802:800::70/124
 ufw allow from 2603:1040:1802:c00::70/124
 ufw allow from 2603:1040:1904:2::600/120
 ufw allow from 2603:1040:1a02:3::/120
+ufw allow from 2603:1040:1a02:7::298/125
+ufw allow from 2603:1040:1a02:7::2a0/124
 ufw allow from 2603:1040:1b02:3::100/120
+ufw allow from 2603:1040:1b02:6::530/124
+ufw allow from 2603:1040:1b02:6::540/125
 ufw allow from 2603:1050:6:1::480/121
 ufw allow from 2603:1050:6:1::500/122
 ufw allow from 2603:1050:6:1::700/121

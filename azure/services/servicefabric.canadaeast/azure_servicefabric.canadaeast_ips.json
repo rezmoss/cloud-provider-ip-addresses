@@ -12,6 +12,18 @@
     "region": "canadaeast"
   },
   {
+    "ip_address": "145.191.175.104/29",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:12::658/125",
+    "ip_type": "IPv6",
+    "service": "ServiceFabric.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
     "ip_address": "2603:1030:1005:402::98/125",
     "ip_type": "IPv6",
     "service": "ServiceFabric.CanadaEast",

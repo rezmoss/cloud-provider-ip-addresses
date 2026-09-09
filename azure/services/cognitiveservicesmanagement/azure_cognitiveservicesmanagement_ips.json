@@ -4182,6 +4182,12 @@
     "region": ""
   },
   {
+    "ip_address": "48.196.153.192/26",
+    "ip_type": "IPv4",
+    "service": "CognitiveServicesManagement",
+    "region": ""
+  },
+  {
     "ip_address": "48.197.89.208/28",
     "ip_type": "IPv4",
     "service": "CognitiveServicesManagement",

@@ -22,6 +22,7 @@ ip_address,ip_type,service,region
 20.242.181.0/24,IPv4,MicrosoftDefenderForEndpoint,
 20.254.173.48/28,IPv4,MicrosoftDefenderForEndpoint,
 40.80.103.192/28,IPv4,MicrosoftDefenderForEndpoint,
+48.196.155.32/28,IPv4,MicrosoftDefenderForEndpoint,
 51.4.226.144/28,IPv4,MicrosoftDefenderForEndpoint,
 51.57.176.192/28,IPv4,MicrosoftDefenderForEndpoint,
 52.172.85.0/28,IPv4,MicrosoftDefenderForEndpoint,

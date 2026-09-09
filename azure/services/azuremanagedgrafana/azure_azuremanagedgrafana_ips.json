@@ -2178,6 +2178,12 @@
     "region": ""
   },
   {
+    "ip_address": "2603:1030:1005:12::720/123",
+    "ip_type": "IPv6",
+    "service": "AzureManagedGrafana",
+    "region": ""
+  },
+  {
     "ip_address": "2603:1030:1102:4::570/124",
     "ip_type": "IPv6",
     "service": "AzureManagedGrafana",

@@ -1584,6 +1584,12 @@
     "region": ""
   },
   {
+    "ip_address": "145.191.175.0/26",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement",
+    "region": ""
+  },
+  {
     "ip_address": "157.55.208.185/32",
     "ip_type": "IPv4",
     "service": "AppServiceManagement",
@@ -2593,6 +2599,12 @@
   },
   {
     "ip_address": "2603:1030:1005:1::4a0/123",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:1005:12::340/122",
     "ip_type": "IPv6",
     "service": "AppServiceManagement",
     "region": ""

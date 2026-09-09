@@ -9,5 +9,7 @@ CREATE TABLE IF NOT EXISTS `azure_appservicemanagement.canadaeast_ips` (
 INSERT INTO `azure_appservicemanagement.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('40.69.106.128/26', 'IPv4');
 INSERT INTO `azure_appservicemanagement.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('40.86.229.100/32', 'IPv4');
 INSERT INTO `azure_appservicemanagement.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('52.242.40.112/28', 'IPv4');
+INSERT INTO `azure_appservicemanagement.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('145.191.175.0/26', 'IPv4');
 INSERT INTO `azure_appservicemanagement.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005:1::4a0/123', 'IPv6');
+INSERT INTO `azure_appservicemanagement.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005:12::340/122', 'IPv6');
 INSERT INTO `azure_appservicemanagement.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005:402::100/122', 'IPv6');

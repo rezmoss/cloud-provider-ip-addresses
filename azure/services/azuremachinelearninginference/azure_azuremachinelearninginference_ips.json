@@ -1458,6 +1458,12 @@
     "region": ""
   },
   {
+    "ip_address": "48.196.154.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearningInference",
+    "region": ""
+  },
+  {
     "ip_address": "48.197.73.96/27",
     "ip_type": "IPv4",
     "service": "AzureMachineLearningInference",
@@ -2095,6 +2101,12 @@
   },
   {
     "ip_address": "145.191.111.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearningInference",
+    "region": ""
+  },
+  {
+    "ip_address": "145.191.176.0/25",
     "ip_type": "IPv4",
     "service": "AzureMachineLearningInference",
     "region": ""

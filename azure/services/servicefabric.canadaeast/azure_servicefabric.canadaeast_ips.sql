@@ -8,4 +8,6 @@ CREATE TABLE IF NOT EXISTS `azure_servicefabric.canadaeast_ips` (
 
 INSERT INTO `azure_servicefabric.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('40.69.107.0/29', 'IPv4');
 INSERT INTO `azure_servicefabric.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('40.86.230.174/32', 'IPv4');
+INSERT INTO `azure_servicefabric.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('145.191.175.104/29', 'IPv4');
+INSERT INTO `azure_servicefabric.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005:12::658/125', 'IPv6');
 INSERT INTO `azure_servicefabric.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005:402::98/125', 'IPv6');

@@ -70,6 +70,7 @@ ip_address,ip_type,service,region
 20.95.110.0/24,IPv4,AzureCloud.ukwest,ukwest
 20.117.0.0/18,IPv4,AzureCloud.ukwest,ukwest
 20.135.64.0/23,IPv4,AzureCloud.ukwest,ukwest
+20.143.240.0/23,IPv4,AzureCloud.ukwest,ukwest
 20.150.2.0/23,IPv4,AzureCloud.ukwest,ukwest
 20.150.2.0/23,IPv4,Storage.UKWest,ukwest
 20.150.52.0/24,IPv4,AzureCloud.ukwest,ukwest
@@ -476,6 +477,7 @@ ip_address,ip_type,service,region
 70.152.227.0/24,IPv4,AzureCloud.ukwest,ukwest
 104.44.90.0/27,IPv4,AzureCloud.ukwest,ukwest
 145.190.72.0/24,IPv4,AzureCloud.ukwest,ukwest
+145.190.87.0/24,IPv4,AzureCloud.ukwest,ukwest
 172.186.0.0/16,IPv4,AzureCloud.ukwest,ukwest
 172.186.0.0/25,IPv4,ServiceBus.UKWest,ukwest
 172.186.6.128/29,IPv4,PowerQueryOnline.UKWest,ukwest

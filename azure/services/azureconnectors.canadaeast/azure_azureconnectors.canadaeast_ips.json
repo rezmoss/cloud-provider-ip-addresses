@@ -54,6 +54,12 @@
     "region": "canadaeast"
   },
   {
+    "ip_address": "145.191.174.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
     "ip_address": "2603:1030:1005:3::640/122",
     "ip_type": "IPv6",
     "service": "AzureConnectors.CanadaEast",

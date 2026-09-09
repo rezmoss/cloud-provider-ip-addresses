@@ -559,6 +559,8 @@ INSERT INTO `aws_us-west-1_ips` (`ip_address`, `ip_type`) VALUES ('173.83.209.0/
 INSERT INTO `aws_us-west-1_ips` (`ip_address`, `ip_type`) VALUES ('173.83.209.0/24', 'IPv4');
 INSERT INTO `aws_us-west-1_ips` (`ip_address`, `ip_type`) VALUES ('173.83.221.0/24', 'IPv4');
 INSERT INTO `aws_us-west-1_ips` (`ip_address`, `ip_type`) VALUES ('173.83.221.0/24', 'IPv4');
+INSERT INTO `aws_us-west-1_ips` (`ip_address`, `ip_type`) VALUES ('173.83.236.0/24', 'IPv4');
+INSERT INTO `aws_us-west-1_ips` (`ip_address`, `ip_type`) VALUES ('173.83.236.0/24', 'IPv4');
 INSERT INTO `aws_us-west-1_ips` (`ip_address`, `ip_type`) VALUES ('176.32.112.0/21', 'IPv4');
 INSERT INTO `aws_us-west-1_ips` (`ip_address`, `ip_type`) VALUES ('184.72.0.0/18', 'IPv4');
 INSERT INTO `aws_us-west-1_ips` (`ip_address`, `ip_type`) VALUES ('184.72.0.0/18', 'IPv4');

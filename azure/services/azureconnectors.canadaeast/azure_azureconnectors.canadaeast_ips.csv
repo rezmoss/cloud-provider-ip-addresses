@@ -8,5 +8,6 @@ ip_address,ip_type,service,region
 52.242.30.112/32,IPv4,AzureConnectors.CanadaEast,canadaeast
 52.242.35.152/32,IPv4,AzureConnectors.CanadaEast,canadaeast
 52.242.36.40/32,IPv4,AzureConnectors.CanadaEast,canadaeast
+145.191.174.192/26,IPv4,AzureConnectors.CanadaEast,canadaeast
 2603:1030:1005:3::640/122,IPv6,AzureConnectors.CanadaEast,canadaeast
 2603:1030:1005:402::180/122,IPv6,AzureConnectors.CanadaEast,canadaeast

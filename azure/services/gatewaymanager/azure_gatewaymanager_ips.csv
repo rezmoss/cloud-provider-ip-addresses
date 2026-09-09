@@ -281,6 +281,7 @@ ip_address,ip_type,service,region
 134.112.169.240/28,IPv4,GatewayManager,
 134.138.64.64/26,IPv4,GatewayManager,
 145.191.111.64/27,IPv4,GatewayManager,
+145.191.173.128/26,IPv4,GatewayManager,
 158.23.96.64/26,IPv4,GatewayManager,
 158.158.133.112/28,IPv4,GatewayManager,
 167.105.251.240/28,IPv4,GatewayManager,

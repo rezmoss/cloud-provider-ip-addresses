@@ -2940,6 +2940,12 @@
     "region": ""
   },
   {
+    "ip_address": "145.191.174.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors",
+    "region": ""
+  },
+  {
     "ip_address": "158.23.108.64/26",
     "ip_type": "IPv4",
     "service": "AzureConnectors",

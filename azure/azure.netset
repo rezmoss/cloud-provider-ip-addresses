@@ -1,7 +1,7 @@
 # azure IP ranges - ipset restore format (hash:net)
-# Version: 13 | Generated: 2026-09-08 | Last changed: 2026-09-04
-# IPv4: 1095 merged subnets, 54930543 unique IPs
-# IPv6: 1240 merged subnets
+# Version: 14 | Generated: 2026-09-09 | Last changed: 2026-09-09
+# IPv4: 1095 merged subnets, 54931055 unique IPs
+# IPv6: 1243 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
 # Load with: sudo ipset restore -! < azure.netset
@@ -596,7 +596,7 @@ add azure_v4 52.249.64.0/19
 add azure_v4 52.249.128.0/17
 add azure_v4 52.250.0.0/16
 add azure_v4 52.251.0.0/17
-add azure_v4 52.251.128.0/23
+add azure_v4 52.251.128.0/22
 add azure_v4 52.252.0.0/16
 add azure_v4 52.253.0.0/17
 add azure_v4 52.253.128.0/20
@@ -1448,6 +1448,8 @@ add azure_v6 2603:1030:f08::/47
 add azure_v6 2603:1030:1000::/47
 add azure_v6 2603:1030:1002::/48
 add azure_v6 2603:1030:1004::/46
+add azure_v6 2603:1030:1008::/62
+add azure_v6 2603:1030:1008:4::/64
 add azure_v6 2603:1030:1101::/48
 add azure_v6 2603:1030:1102::/47
 add azure_v6 2603:1030:1104::/47
@@ -1470,6 +1472,7 @@ add azure_v6 2603:1030:1604::/47
 add azure_v6 2603:1030:1701::/48
 add azure_v6 2603:1030:1702::/47
 add azure_v6 2603:1030:1704::/47
+add azure_v6 2603:1030:1706::/48
 add azure_v6 2603:1036:903::/62
 add azure_v6 2603:1036:903:4::/64
 add azure_v6 2603:1036:903:6::/63

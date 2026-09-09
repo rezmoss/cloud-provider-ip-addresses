@@ -50,6 +50,9 @@ INSERT INTO `aws_us-south-1_ips` (`ip_address`, `ip_type`) VALUES ('23.254.28.0/
 INSERT INTO `aws_us-south-1_ips` (`ip_address`, `ip_type`) VALUES ('23.254.28.0/23', 'IPv4');
 INSERT INTO `aws_us-south-1_ips` (`ip_address`, `ip_type`) VALUES ('23.254.32.0/21', 'IPv4');
 INSERT INTO `aws_us-south-1_ips` (`ip_address`, `ip_type`) VALUES ('23.254.32.0/21', 'IPv4');
+INSERT INTO `aws_us-south-1_ips` (`ip_address`, `ip_type`) VALUES ('35.71.90.0/24', 'IPv4');
+INSERT INTO `aws_us-south-1_ips` (`ip_address`, `ip_type`) VALUES ('35.71.90.0/24', 'IPv4');
+INSERT INTO `aws_us-south-1_ips` (`ip_address`, `ip_type`) VALUES ('35.71.90.0/24', 'IPv4');
 INSERT INTO `aws_us-south-1_ips` (`ip_address`, `ip_type`) VALUES ('35.128.128.0/18', 'IPv4');
 INSERT INTO `aws_us-south-1_ips` (`ip_address`, `ip_type`) VALUES ('35.128.128.0/18', 'IPv4');
 INSERT INTO `aws_us-south-1_ips` (`ip_address`, `ip_type`) VALUES ('40.235.128.0/18', 'IPv4');

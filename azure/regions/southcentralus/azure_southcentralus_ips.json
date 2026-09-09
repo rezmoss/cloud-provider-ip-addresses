@@ -3612,31 +3612,7 @@
     "region": "southcentralus"
   },
   {
-    "ip_address": "40.87.178.64/28",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southcentralus",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "40.87.178.80/31",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southcentralus",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "40.87.178.84/31",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southcentralus",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "40.87.178.90/31",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southcentralus",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "40.87.178.92/30",
+    "ip_address": "40.87.178.64/27",
     "ip_type": "IPv4",
     "service": "AzureCloud.southcentralus",
     "region": "southcentralus"
@@ -3678,73 +3654,13 @@
     "region": "southcentralus"
   },
   {
-    "ip_address": "40.87.178.192/27",
+    "ip_address": "40.87.178.192/26",
     "ip_type": "IPv4",
     "service": "AzureCloud.southcentralus",
     "region": "southcentralus"
   },
   {
-    "ip_address": "40.87.178.224/29",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southcentralus",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "40.87.178.232/31",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southcentralus",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "40.87.178.242/31",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southcentralus",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "40.87.178.244/30",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southcentralus",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "40.87.178.248/29",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southcentralus",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "40.87.179.0/31",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southcentralus",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "40.87.179.10/31",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southcentralus",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "40.87.179.12/30",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southcentralus",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "40.87.179.16/28",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southcentralus",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "40.87.179.32/27",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southcentralus",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "40.87.179.64/26",
+    "ip_address": "40.87.179.0/25",
     "ip_type": "IPv4",
     "service": "AzureCloud.southcentralus",
     "region": "southcentralus"
@@ -3817,6 +3733,12 @@
   },
   {
     "ip_address": "40.87.179.248/30",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southcentralus",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "40.87.179.252/31",
     "ip_type": "IPv4",
     "service": "AzureCloud.southcentralus",
     "region": "southcentralus"
@@ -7596,43 +7518,7 @@
     "region": "southcentralus"
   },
   {
-    "ip_address": "2603:1030:804:140::/59",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.southcentralus",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "2603:1030:804:160::/61",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.southcentralus",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "2603:1030:804:168::/64",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.southcentralus",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "2603:1030:804:16a::/64",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.southcentralus",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "2603:1030:804:16d::/64",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.southcentralus",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "2603:1030:804:16e::/63",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.southcentralus",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "2603:1030:804:170::/60",
+    "ip_address": "2603:1030:804:140::/58",
     "ip_type": "IPv6",
     "service": "AzureCloud.southcentralus",
     "region": "southcentralus"
@@ -7704,25 +7590,7 @@
     "region": "southcentralus"
   },
   {
-    "ip_address": "2603:1030:804:1e0::/62",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.southcentralus",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "2603:1030:804:1e4::/64",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.southcentralus",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "2603:1030:804:1e8::/61",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.southcentralus",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "2603:1030:804:1f0::/60",
+    "ip_address": "2603:1030:804:1e0::/59",
     "ip_type": "IPv6",
     "service": "AzureCloud.southcentralus",
     "region": "southcentralus"
@@ -7752,25 +7620,7 @@
     "region": "southcentralus"
   },
   {
-    "ip_address": "2603:1030:804:230::/61",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.southcentralus",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "2603:1030:804:238::/63",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.southcentralus",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "2603:1030:804:23a::/64",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.southcentralus",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "2603:1030:804:23f::/64",
+    "ip_address": "2603:1030:804:230::/60",
     "ip_type": "IPv6",
     "service": "AzureCloud.southcentralus",
     "region": "southcentralus"
@@ -7794,13 +7644,7 @@
     "region": "southcentralus"
   },
   {
-    "ip_address": "2603:1030:804:250::/63",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.southcentralus",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "2603:1030:804:254::/62",
+    "ip_address": "2603:1030:804:250::/61",
     "ip_type": "IPv6",
     "service": "AzureCloud.southcentralus",
     "region": "southcentralus"

@@ -102,6 +102,30 @@
     "region": "canadaeast"
   },
   {
+    "ip_address": "57.163.75.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "57.163.76.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "57.163.79.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "57.163.81.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
     "ip_address": "135.130.50.0/23",
     "ip_type": "IPv4",
     "service": "Storage.CanadaEast",

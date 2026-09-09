@@ -23,6 +23,10 @@ INSERT INTO `azure_storage.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('40
 INSERT INTO `azure_storage.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('52.229.80.64/27', 'IPv4');
 INSERT INTO `azure_storage.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('52.239.164.128/26', 'IPv4');
 INSERT INTO `azure_storage.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('52.239.190.0/25', 'IPv4');
+INSERT INTO `azure_storage.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('57.163.75.0/24', 'IPv4');
+INSERT INTO `azure_storage.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('57.163.76.0/23', 'IPv4');
+INSERT INTO `azure_storage.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('57.163.79.0/24', 'IPv4');
+INSERT INTO `azure_storage.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('57.163.81.0/24', 'IPv4');
 INSERT INTO `azure_storage.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('135.130.50.0/23', 'IPv4');
 INSERT INTO `azure_storage.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('145.190.159.0/24', 'IPv4');
 INSERT INTO `azure_storage.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1006::/48', 'IPv6');

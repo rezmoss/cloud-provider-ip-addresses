@@ -2148,19 +2148,19 @@
     "region": "swedencentral"
   },
   {
-    "ip_address": "57.157.71.0/28",
+    "ip_address": "57.157.71.0/26",
     "ip_type": "IPv4",
     "service": "AzureCloud.swedencentral",
     "region": "swedencentral"
   },
   {
-    "ip_address": "57.157.71.16/29",
+    "ip_address": "57.157.71.64/28",
     "ip_type": "IPv4",
     "service": "AzureCloud.swedencentral",
     "region": "swedencentral"
   },
   {
-    "ip_address": "57.157.71.24/31",
+    "ip_address": "57.157.71.80/31",
     "ip_type": "IPv4",
     "service": "AzureCloud.swedencentral",
     "region": "swedencentral"
@@ -2491,6 +2491,12 @@
   },
   {
     "ip_address": "172.130.0.0/16",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.swedencentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "172.135.0.0/17",
     "ip_type": "IPv4",
     "service": "AzureCloud.swedencentral",
     "region": "swedencentral"

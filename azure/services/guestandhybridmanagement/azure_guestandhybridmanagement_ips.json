@@ -3048,6 +3048,12 @@
     "region": ""
   },
   {
+    "ip_address": "145.191.174.0/27",
+    "ip_type": "IPv4",
+    "service": "GuestAndHybridManagement",
+    "region": ""
+  },
+  {
     "ip_address": "157.55.90.60/30",
     "ip_type": "IPv4",
     "service": "GuestAndHybridManagement",

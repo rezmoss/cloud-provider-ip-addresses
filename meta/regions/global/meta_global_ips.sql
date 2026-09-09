@@ -472,7 +472,6 @@ INSERT INTO `meta_global_ips` (`ip_address`, `ip_type`) VALUES ('2a03:2880:f142:
 INSERT INTO `meta_global_ips` (`ip_address`, `ip_type`) VALUES ('2a03:2880:f143::/48', 'IPv6');
 INSERT INTO `meta_global_ips` (`ip_address`, `ip_type`) VALUES ('2a03:2880:f148::/48', 'IPv6');
 INSERT INTO `meta_global_ips` (`ip_address`, `ip_type`) VALUES ('2a03:2880:f14a::/48', 'IPv6');
-INSERT INTO `meta_global_ips` (`ip_address`, `ip_type`) VALUES ('2a03:2880:f14d::/48', 'IPv6');
 INSERT INTO `meta_global_ips` (`ip_address`, `ip_type`) VALUES ('2a03:2880:f14e::/48', 'IPv6');
 INSERT INTO `meta_global_ips` (`ip_address`, `ip_type`) VALUES ('2a03:2880:f150::/48', 'IPv6');
 INSERT INTO `meta_global_ips` (`ip_address`, `ip_type`) VALUES ('2a03:2880:f152::/48', 'IPv6');
@@ -538,7 +537,6 @@ INSERT INTO `meta_global_ips` (`ip_address`, `ip_type`) VALUES ('2a03:2880:f242:
 INSERT INTO `meta_global_ips` (`ip_address`, `ip_type`) VALUES ('2a03:2880:f243::/48', 'IPv6');
 INSERT INTO `meta_global_ips` (`ip_address`, `ip_type`) VALUES ('2a03:2880:f248::/48', 'IPv6');
 INSERT INTO `meta_global_ips` (`ip_address`, `ip_type`) VALUES ('2a03:2880:f24a::/48', 'IPv6');
-INSERT INTO `meta_global_ips` (`ip_address`, `ip_type`) VALUES ('2a03:2880:f24d::/48', 'IPv6');
 INSERT INTO `meta_global_ips` (`ip_address`, `ip_type`) VALUES ('2a03:2880:f24e::/48', 'IPv6');
 INSERT INTO `meta_global_ips` (`ip_address`, `ip_type`) VALUES ('2a03:2880:f250::/48', 'IPv6');
 INSERT INTO `meta_global_ips` (`ip_address`, `ip_type`) VALUES ('2a03:2880:f252::/48', 'IPv6');

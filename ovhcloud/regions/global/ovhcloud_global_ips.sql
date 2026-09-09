@@ -205,6 +205,7 @@ INSERT INTO `ovhcloud_global_ips` (`ip_address`, `ip_type`) VALUES ('80.87.206.0
 INSERT INTO `ovhcloud_global_ips` (`ip_address`, `ip_type`) VALUES ('80.240.94.0/24', 'IPv4');
 INSERT INTO `ovhcloud_global_ips` (`ip_address`, `ip_type`) VALUES ('81.168.32.0/24', 'IPv4');
 INSERT INTO `ovhcloud_global_ips` (`ip_address`, `ip_type`) VALUES ('81.168.80.0/24', 'IPv4');
+INSERT INTO `ovhcloud_global_ips` (`ip_address`, `ip_type`) VALUES ('81.201.183.0/24', 'IPv4');
 INSERT INTO `ovhcloud_global_ips` (`ip_address`, `ip_type`) VALUES ('82.21.139.0/24', 'IPv4');
 INSERT INTO `ovhcloud_global_ips` (`ip_address`, `ip_type`) VALUES ('82.22.15.0/24', 'IPv4');
 INSERT INTO `ovhcloud_global_ips` (`ip_address`, `ip_type`) VALUES ('82.22.25.0/24', 'IPv4');
@@ -503,7 +504,6 @@ INSERT INTO `ovhcloud_global_ips` (`ip_address`, `ip_type`) VALUES ('151.245.238
 INSERT INTO `ovhcloud_global_ips` (`ip_address`, `ip_type`) VALUES ('151.246.177.0/24', 'IPv4');
 INSERT INTO `ovhcloud_global_ips` (`ip_address`, `ip_type`) VALUES ('151.246.190.0/24', 'IPv4');
 INSERT INTO `ovhcloud_global_ips` (`ip_address`, `ip_type`) VALUES ('151.247.37.0/24', 'IPv4');
-INSERT INTO `ovhcloud_global_ips` (`ip_address`, `ip_type`) VALUES ('151.247.145.0/24', 'IPv4');
 INSERT INTO `ovhcloud_global_ips` (`ip_address`, `ip_type`) VALUES ('151.247.192.0/24', 'IPv4');
 INSERT INTO `ovhcloud_global_ips` (`ip_address`, `ip_type`) VALUES ('151.247.205.0/24', 'IPv4');
 INSERT INTO `ovhcloud_global_ips` (`ip_address`, `ip_type`) VALUES ('151.247.217.0/24', 'IPv4');

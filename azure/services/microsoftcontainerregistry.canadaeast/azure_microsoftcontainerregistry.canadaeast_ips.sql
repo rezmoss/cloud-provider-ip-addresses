@@ -7,4 +7,6 @@ CREATE TABLE IF NOT EXISTS `azure_microsoftcontainerregistry.canadaeast_ips` (
 );
 
 INSERT INTO `azure_microsoftcontainerregistry.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('40.69.106.72/29', 'IPv4');
+INSERT INTO `azure_microsoftcontainerregistry.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('145.191.175.96/29', 'IPv4');
+INSERT INTO `azure_microsoftcontainerregistry.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005:12::648/125', 'IPv6');
 INSERT INTO `azure_microsoftcontainerregistry.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005:402::88/125', 'IPv6');

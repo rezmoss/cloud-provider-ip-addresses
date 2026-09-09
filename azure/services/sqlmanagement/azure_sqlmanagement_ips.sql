@@ -526,6 +526,7 @@ INSERT INTO `azure_sqlmanagement_ips` (`ip_address`, `ip_type`) VALUES ('104.215
 INSERT INTO `azure_sqlmanagement_ips` (`ip_address`, `ip_type`) VALUES ('134.138.83.16/28', 'IPv4');
 INSERT INTO `azure_sqlmanagement_ips` (`ip_address`, `ip_type`) VALUES ('134.138.98.160/27', 'IPv4');
 INSERT INTO `azure_sqlmanagement_ips` (`ip_address`, `ip_type`) VALUES ('134.138.98.192/27', 'IPv4');
+INSERT INTO `azure_sqlmanagement_ips` (`ip_address`, `ip_type`) VALUES ('145.191.180.32/27', 'IPv4');
 INSERT INTO `azure_sqlmanagement_ips` (`ip_address`, `ip_type`) VALUES ('158.23.12.64/26', 'IPv4');
 INSERT INTO `azure_sqlmanagement_ips` (`ip_address`, `ip_type`) VALUES ('158.23.24.71/32', 'IPv4');
 INSERT INTO `azure_sqlmanagement_ips` (`ip_address`, `ip_type`) VALUES ('158.23.112.128/28', 'IPv4');
@@ -743,6 +744,7 @@ INSERT INTO `azure_sqlmanagement_ips` (`ip_address`, `ip_type`) VALUES ('2603:10
 INSERT INTO `azure_sqlmanagement_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f05:c02::260/123', 'IPv6');
 INSERT INTO `azure_sqlmanagement_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f05:c02::280/123', 'IPv6');
 INSERT INTO `azure_sqlmanagement_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005:6::20/123', 'IPv6');
+INSERT INTO `azure_sqlmanagement_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005:13::200/123', 'IPv6');
 INSERT INTO `azure_sqlmanagement_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005:402::380/122', 'IPv6');
 INSERT INTO `azure_sqlmanagement_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1102:2::5a0/123', 'IPv6');
 INSERT INTO `azure_sqlmanagement_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1102:400::300/122', 'IPv6');

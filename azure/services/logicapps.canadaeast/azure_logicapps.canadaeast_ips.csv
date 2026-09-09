@@ -34,5 +34,8 @@ ip_address,ip_type,service,region
 52.229.126.142/32,IPv4,LogicApps.CanadaEast,canadaeast
 52.242.44.48/28,IPv4,LogicApps.CanadaEast,canadaeast
 52.242.44.160/28,IPv4,LogicApps.CanadaEast,canadaeast
+145.191.180.0/27,IPv4,LogicApps.CanadaEast,canadaeast
+2603:1030:1005:13::1c0/124,IPv6,LogicApps.CanadaEast,canadaeast
+2603:1030:1005:13::1e0/123,IPv6,LogicApps.CanadaEast,canadaeast
 2603:1030:1005:402::3c0/124,IPv6,LogicApps.CanadaEast,canadaeast
 2603:1030:1005:402::3e0/123,IPv6,LogicApps.CanadaEast,canadaeast

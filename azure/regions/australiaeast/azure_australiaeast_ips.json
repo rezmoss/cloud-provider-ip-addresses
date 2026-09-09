@@ -3810,6 +3810,12 @@
     "region": "australiaeast"
   },
   {
+    "ip_address": "74.147.128.0/17",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.australiaeast",
+    "region": "australiaeast"
+  },
+  {
     "ip_address": "104.44.90.64/26",
     "ip_type": "IPv4",
     "service": "AzureCloud.australiaeast",

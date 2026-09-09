@@ -29,6 +29,7 @@ INSERT INTO `azure_microsoftdefenderforendpoint_ips` (`ip_address`, `ip_type`) V
 INSERT INTO `azure_microsoftdefenderforendpoint_ips` (`ip_address`, `ip_type`) VALUES ('20.242.181.0/24', 'IPv4');
 INSERT INTO `azure_microsoftdefenderforendpoint_ips` (`ip_address`, `ip_type`) VALUES ('20.254.173.48/28', 'IPv4');
 INSERT INTO `azure_microsoftdefenderforendpoint_ips` (`ip_address`, `ip_type`) VALUES ('40.80.103.192/28', 'IPv4');
+INSERT INTO `azure_microsoftdefenderforendpoint_ips` (`ip_address`, `ip_type`) VALUES ('48.196.155.32/28', 'IPv4');
 INSERT INTO `azure_microsoftdefenderforendpoint_ips` (`ip_address`, `ip_type`) VALUES ('51.4.226.144/28', 'IPv4');
 INSERT INTO `azure_microsoftdefenderforendpoint_ips` (`ip_address`, `ip_type`) VALUES ('51.57.176.192/28', 'IPv4');
 INSERT INTO `azure_microsoftdefenderforendpoint_ips` (`ip_address`, `ip_type`) VALUES ('52.172.85.0/28', 'IPv4');

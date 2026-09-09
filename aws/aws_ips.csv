@@ -4928,6 +4928,12 @@ ip_address,ip_type,service,region
 35.71.76.0/22,IPv4,AMAZON,us-east-1
 35.71.76.0/22,IPv4,DYNAMODB,us-east-1
 35.71.76.0/22,IPv4,EC2,us-east-1
+35.71.90.0/24,IPv4,AMAZON,us-south-1
+35.71.90.0/24,IPv4,DYNAMODB,us-south-1
+35.71.90.0/24,IPv4,EC2,us-south-1
+35.71.91.0/24,IPv4,AMAZON,sa-west-1
+35.71.91.0/24,IPv4,DYNAMODB,sa-west-1
+35.71.91.0/24,IPv4,EC2,sa-west-1
 35.71.92.0/24,IPv4,AMAZON,me-west-1
 35.71.92.0/24,IPv4,DYNAMODB,me-west-1
 35.71.92.0/24,IPv4,EC2,me-west-1
@@ -10231,6 +10237,8 @@ ip_address,ip_type,service,region
 173.83.233.0/24,IPv4,EC2,us-east-1
 173.83.234.0/23,IPv4,AMAZON,us-east-1
 173.83.234.0/23,IPv4,EC2,us-east-1
+173.83.236.0/24,IPv4,AMAZON,us-west-1
+173.83.236.0/24,IPv4,EC2,us-west-1
 174.129.0.0/16,IPv4,AMAZON,us-east-1
 174.129.0.0/16,IPv4,EC2,us-east-1
 175.41.128.0/18,IPv4,AMAZON,ap-southeast-1

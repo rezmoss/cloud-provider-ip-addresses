@@ -961,6 +961,7 @@ ip_address,ip_type,service,region
 2603:1030:f05:c02::400/121,IPv6,AzureContainerRegistry,
 2603:1030:1005:3::180/125,IPv6,AzureContainerRegistry,
 2603:1030:1005:6::40/122,IPv6,AzureContainerRegistry,
+2603:1030:1005:12::580/121,IPv6,AzureContainerRegistry,
 2603:1030:1005:402::90/125,IPv6,AzureContainerRegistry,
 2603:1030:1005:402::340/122,IPv6,AzureContainerRegistry,
 2603:1030:1005:402::580/122,IPv6,AzureContainerRegistry,

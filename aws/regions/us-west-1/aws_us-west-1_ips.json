@@ -3318,6 +3318,18 @@
     "region": "us-west-1"
   },
   {
+    "ip_address": "173.83.236.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-west-1"
+  },
+  {
+    "ip_address": "173.83.236.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-west-1"
+  },
+  {
     "ip_address": "176.32.112.0/21",
     "ip_type": "IPv4",
     "service": "AMAZON",

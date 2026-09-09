@@ -9,4 +9,5 @@ CREATE TABLE IF NOT EXISTS `azure_actiongroup.canadaeast_ips` (
 INSERT INTO `azure_actiongroup.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('4.248.83.192/30', 'IPv4');
 INSERT INTO `azure_actiongroup.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('40.69.111.196/30', 'IPv4');
 INSERT INTO `azure_actiongroup.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005::10c/126', 'IPv6');
+INSERT INTO `azure_actiongroup.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005:12::650/125', 'IPv6');
 INSERT INTO `azure_actiongroup.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005:402::178/125', 'IPv6');

@@ -18,6 +18,12 @@
     "region": "canadaeast"
   },
   {
+    "ip_address": "145.191.180.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureSignalR.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
     "ip_address": "2603:1030:1005:2::100/120",
     "ip_type": "IPv6",
     "service": "AzureSignalR.CanadaEast",

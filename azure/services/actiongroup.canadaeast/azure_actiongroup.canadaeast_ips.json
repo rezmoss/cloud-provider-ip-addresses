@@ -18,6 +18,12 @@
     "region": "canadaeast"
   },
   {
+    "ip_address": "2603:1030:1005:12::650/125",
+    "ip_type": "IPv6",
+    "service": "ActionGroup.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
     "ip_address": "2603:1030:1005:402::178/125",
     "ip_type": "IPv6",
     "service": "ActionGroup.CanadaEast",

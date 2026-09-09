@@ -786,6 +786,7 @@ INSERT INTO `azure_logicappsmanagement_ips` (`ip_address`, `ip_type`) VALUES ('2
 INSERT INTO `azure_logicappsmanagement_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:b04:801::c0/124', 'IPv6');
 INSERT INTO `azure_logicappsmanagement_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:c06:400::bc0/124', 'IPv6');
 INSERT INTO `azure_logicappsmanagement_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f05:402::3c0/124', 'IPv6');
+INSERT INTO `azure_logicappsmanagement_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005:13::1c0/124', 'IPv6');
 INSERT INTO `azure_logicappsmanagement_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005:402::3c0/124', 'IPv6');
 INSERT INTO `azure_logicappsmanagement_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1102:3::6f0/124', 'IPv6');
 INSERT INTO `azure_logicappsmanagement_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1102:400::340/124', 'IPv6');

@@ -1110,13 +1110,19 @@
     "region": "polandcentral"
   },
   {
-    "ip_address": "40.123.138.192/29",
+    "ip_address": "40.123.138.192/27",
     "ip_type": "IPv4",
     "service": "AzureCloud.polandcentral",
     "region": "polandcentral"
   },
   {
-    "ip_address": "40.123.138.200/30",
+    "ip_address": "40.123.138.224/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.polandcentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "40.123.138.240/29",
     "ip_type": "IPv4",
     "service": "AzureCloud.polandcentral",
     "region": "polandcentral"
@@ -2298,25 +2304,19 @@
     "region": "polandcentral"
   },
   {
-    "ip_address": "2603:1061:1006:140::/60",
+    "ip_address": "2603:1061:1006:140::/59",
     "ip_type": "IPv6",
     "service": "AzureCloud.polandcentral",
     "region": "polandcentral"
   },
   {
-    "ip_address": "2603:1061:1006:150::/61",
+    "ip_address": "2603:1061:1006:160::/60",
     "ip_type": "IPv6",
     "service": "AzureCloud.polandcentral",
     "region": "polandcentral"
   },
   {
-    "ip_address": "2603:1061:1006:158::/62",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.polandcentral",
-    "region": "polandcentral"
-  },
-  {
-    "ip_address": "2603:1061:1006:15c::/63",
+    "ip_address": "2603:1061:1006:170::/62",
     "ip_type": "IPv6",
     "service": "AzureCloud.polandcentral",
     "region": "polandcentral"

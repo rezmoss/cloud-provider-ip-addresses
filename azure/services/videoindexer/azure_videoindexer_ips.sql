@@ -168,6 +168,7 @@ INSERT INTO `azure_videoindexer_ips` (`ip_address`, `ip_type`) VALUES ('102.37.8
 INSERT INTO `azure_videoindexer_ips` (`ip_address`, `ip_type`) VALUES ('104.208.199.24/29', 'IPv4');
 INSERT INTO `azure_videoindexer_ips` (`ip_address`, `ip_type`) VALUES ('104.208.199.48/31', 'IPv4');
 INSERT INTO `azure_videoindexer_ips` (`ip_address`, `ip_type`) VALUES ('134.138.71.120/30', 'IPv4');
+INSERT INTO `azure_videoindexer_ips` (`ip_address`, `ip_type`) VALUES ('145.191.173.20/30', 'IPv4');
 INSERT INTO `azure_videoindexer_ips` (`ip_address`, `ip_type`) VALUES ('158.23.103.36/30', 'IPv4');
 INSERT INTO `azure_videoindexer_ips` (`ip_address`, `ip_type`) VALUES ('172.129.81.60/30', 'IPv4');
 INSERT INTO `azure_videoindexer_ips` (`ip_address`, `ip_type`) VALUES ('172.160.222.50/31', 'IPv4');

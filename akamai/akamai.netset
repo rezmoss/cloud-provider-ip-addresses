@@ -1,7 +1,7 @@
 # akamai IP ranges - ipset restore format (hash:net)
-# Version: 47 | Generated: 2026-09-08 | Last changed: 2026-09-08
-# IPv4: 345 merged subnets, 14649296 unique IPs
-# IPv6: 252 merged subnets
+# Version: 48 | Generated: 2026-09-09 | Last changed: 2026-09-09
+# IPv4: 345 merged subnets, 14649040 unique IPs
+# IPv6: 246 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
 # Load with: sudo ipset restore -! < akamai.netset
@@ -187,7 +187,7 @@ add akamai_v4 165.254.238.128/25
 add akamai_v4 165.254.247.128/25
 add akamai_v4 167.140.240.0/23
 add akamai_v4 168.143.242.0/23
-add akamai_v4 168.143.254.0/23
+add akamai_v4 168.143.255.0/24
 add akamai_v4 170.74.16.0/24
 add akamai_v4 170.187.128.0/23
 add akamai_v4 170.187.131.0/24
@@ -389,7 +389,6 @@ add akamai_v6 2001:4878:173::/48
 add akamai_v6 2001:4878:1e0::/44
 add akamai_v6 2001:4878:202::/48
 add akamai_v6 2001:4878:204::/48
-add akamai_v6 2001:4878:215::/48
 add akamai_v6 2001:4878:225::/48
 add akamai_v6 2001:4878:228::/48
 add akamai_v6 2001:4878:242::/48
@@ -411,7 +410,6 @@ add akamai_v6 2001:4878:2173::/48
 add akamai_v6 2001:4878:21e0::/44
 add akamai_v6 2001:4878:2202::/48
 add akamai_v6 2001:4878:2204::/48
-add akamai_v6 2001:4878:2215::/48
 add akamai_v6 2001:4878:2216::/48
 add akamai_v6 2001:4878:2225::/48
 add akamai_v6 2001:4878:2228::/48
@@ -430,7 +428,6 @@ add akamai_v6 2001:4878:4062::/47
 add akamai_v6 2001:4878:4164::/48
 add akamai_v6 2001:4878:4173::/48
 add akamai_v6 2001:4878:41e0::/44
-add akamai_v6 2001:4878:4215::/48
 add akamai_v6 2001:4878:4225::/48
 add akamai_v6 2001:4878:4321::/48
 add akamai_v6 2001:4878:4322::/47
@@ -449,7 +446,6 @@ add akamai_v6 2001:4878:8173::/48
 add akamai_v6 2001:4878:81e0::/44
 add akamai_v6 2001:4878:8202::/48
 add akamai_v6 2001:4878:8204::/48
-add akamai_v6 2001:4878:8215::/48
 add akamai_v6 2001:4878:8216::/48
 add akamai_v6 2001:4878:8225::/48
 add akamai_v6 2001:4878:8228::/48
@@ -466,7 +462,6 @@ add akamai_v6 2001:4878:a062::/48
 add akamai_v6 2001:4878:a151::/48
 add akamai_v6 2001:4878:a166::/48
 add akamai_v6 2001:4878:a202::/48
-add akamai_v6 2001:4878:a215::/48
 add akamai_v6 2001:4878:a216::/48
 add akamai_v6 2001:4878:a225::/48
 add akamai_v6 2001:4878:a228::/48
@@ -494,7 +489,6 @@ add akamai_v6 2001:4878:c062::/47
 add akamai_v6 2001:4878:c164::/48
 add akamai_v6 2001:4878:c1e0::/44
 add akamai_v6 2001:4878:c204::/48
-add akamai_v6 2001:4878:c215::/48
 add akamai_v6 2001:4878:c225::/48
 add akamai_v6 2001:4878:c228::/48
 add akamai_v6 2001:4878:c254::/48

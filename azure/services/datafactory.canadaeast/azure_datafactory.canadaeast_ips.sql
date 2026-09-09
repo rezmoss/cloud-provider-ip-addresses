@@ -14,6 +14,8 @@ INSERT INTO `azure_datafactory.canadaeast_ips` (`ip_address`, `ip_type`) VALUES 
 INSERT INTO `azure_datafactory.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('40.89.20.224/29', 'IPv4');
 INSERT INTO `azure_datafactory.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('52.139.111.64/26', 'IPv4');
 INSERT INTO `azure_datafactory.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('52.242.45.56/29', 'IPv4');
+INSERT INTO `azure_datafactory.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('145.191.177.0/24', 'IPv4');
 INSERT INTO `azure_datafactory.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005::440/122', 'IPv6');
 INSERT INTO `azure_datafactory.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005::500/121', 'IPv6');
+INSERT INTO `azure_datafactory.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005:13::100/121', 'IPv6');
 INSERT INTO `azure_datafactory.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005:402::330/124', 'IPv6');

@@ -6,12 +6,6 @@
     "region": "global"
   },
   {
-    "ip_address": "2.16.37.0/24",
-    "ip_type": "IPv4",
-    "service": "akamai-as12222",
-    "region": "global"
-  },
-  {
     "ip_address": "2.22.226.0/24",
     "ip_type": "IPv4",
     "service": "akamai-as12222",
@@ -133,6 +127,12 @@
   },
   {
     "ip_address": "72.247.150.0/24",
+    "ip_type": "IPv4",
+    "service": "akamai-as12222",
+    "region": "global"
+  },
+  {
+    "ip_address": "72.247.151.0/24",
     "ip_type": "IPv4",
     "service": "akamai-as12222",
     "region": "global"
@@ -282,12 +282,6 @@
     "region": "global"
   },
   {
-    "ip_address": "2001:4878:215::/48",
-    "ip_type": "IPv6",
-    "service": "akamai-as12222",
-    "region": "global"
-  },
-  {
     "ip_address": "2001:4878:225::/48",
     "ip_type": "IPv6",
     "service": "akamai-as12222",
@@ -414,12 +408,6 @@
     "region": "global"
   },
   {
-    "ip_address": "2001:4878:2215::/48",
-    "ip_type": "IPv6",
-    "service": "akamai-as12222",
-    "region": "global"
-  },
-  {
     "ip_address": "2001:4878:2216::/48",
     "ip_type": "IPv6",
     "service": "akamai-as12222",
@@ -511,12 +499,6 @@
   },
   {
     "ip_address": "2001:4878:4173::/48",
-    "ip_type": "IPv6",
-    "service": "akamai-as12222",
-    "region": "global"
-  },
-  {
-    "ip_address": "2001:4878:4215::/48",
     "ip_type": "IPv6",
     "service": "akamai-as12222",
     "region": "global"
@@ -636,12 +618,6 @@
     "region": "global"
   },
   {
-    "ip_address": "2001:4878:8215::/48",
-    "ip_type": "IPv6",
-    "service": "akamai-as12222",
-    "region": "global"
-  },
-  {
     "ip_address": "2001:4878:8216::/48",
     "ip_type": "IPv6",
     "service": "akamai-as12222",
@@ -739,12 +715,6 @@
   },
   {
     "ip_address": "2001:4878:a202::/48",
-    "ip_type": "IPv6",
-    "service": "akamai-as12222",
-    "region": "global"
-  },
-  {
-    "ip_address": "2001:4878:a215::/48",
     "ip_type": "IPv6",
     "service": "akamai-as12222",
     "region": "global"
@@ -913,12 +883,6 @@
   },
   {
     "ip_address": "2001:4878:c204::/48",
-    "ip_type": "IPv6",
-    "service": "akamai-as12222",
-    "region": "global"
-  },
-  {
-    "ip_address": "2001:4878:c215::/48",
     "ip_type": "IPv6",
     "service": "akamai-as12222",
     "region": "global"

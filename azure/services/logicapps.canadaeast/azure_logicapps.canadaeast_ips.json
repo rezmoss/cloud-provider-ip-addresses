@@ -210,6 +210,24 @@
     "region": "canadaeast"
   },
   {
+    "ip_address": "145.191.180.0/27",
+    "ip_type": "IPv4",
+    "service": "LogicApps.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:13::1c0/124",
+    "ip_type": "IPv6",
+    "service": "LogicApps.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:13::1e0/123",
+    "ip_type": "IPv6",
+    "service": "LogicApps.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
     "ip_address": "2603:1030:1005:402::3c0/124",
     "ip_type": "IPv6",
     "service": "LogicApps.CanadaEast",

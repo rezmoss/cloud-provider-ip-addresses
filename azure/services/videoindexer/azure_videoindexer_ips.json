@@ -972,6 +972,12 @@
     "region": ""
   },
   {
+    "ip_address": "145.191.173.20/30",
+    "ip_type": "IPv4",
+    "service": "VideoIndexer",
+    "region": ""
+  },
+  {
     "ip_address": "158.23.103.36/30",
     "ip_type": "IPv4",
     "service": "VideoIndexer",

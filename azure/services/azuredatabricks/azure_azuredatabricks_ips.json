@@ -3054,6 +3054,12 @@
     "region": ""
   },
   {
+    "ip_address": "145.191.173.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
     "ip_address": "158.23.11.224/29",
     "ip_type": "IPv4",
     "service": "AzureDatabricks",
@@ -3673,6 +3679,12 @@
   },
   {
     "ip_address": "2603:1030:1005::160/123",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:1005:11::740/122",
     "ip_type": "IPv6",
     "service": "AzureDatabricks",
     "region": ""

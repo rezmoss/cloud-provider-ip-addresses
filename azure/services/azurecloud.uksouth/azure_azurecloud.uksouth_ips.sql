@@ -184,6 +184,8 @@ INSERT INTO `azure_azurecloud.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('52
 INSERT INTO `azure_azurecloud.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('57.150.236.0/23', 'IPv4');
 INSERT INTO `azure_azurecloud.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('57.157.40.0/25', 'IPv4');
 INSERT INTO `azure_azurecloud.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('57.157.40.128/28', 'IPv4');
+INSERT INTO `azure_azurecloud.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('57.157.40.144/30', 'IPv4');
+INSERT INTO `azure_azurecloud.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('57.157.40.148/31', 'IPv4');
 INSERT INTO `azure_azurecloud.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('57.163.64.0/23', 'IPv4');
 INSERT INTO `azure_azurecloud.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('70.152.33.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('70.152.237.0/24', 'IPv4');

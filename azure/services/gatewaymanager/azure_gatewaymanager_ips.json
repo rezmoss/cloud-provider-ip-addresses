@@ -1692,6 +1692,12 @@
     "region": ""
   },
   {
+    "ip_address": "145.191.173.128/26",
+    "ip_type": "IPv4",
+    "service": "GatewayManager",
+    "region": ""
+  },
+  {
     "ip_address": "158.23.96.64/26",
     "ip_type": "IPv4",
     "service": "GatewayManager",

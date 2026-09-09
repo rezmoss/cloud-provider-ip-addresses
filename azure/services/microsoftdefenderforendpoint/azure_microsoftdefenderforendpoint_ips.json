@@ -138,6 +138,12 @@
     "region": ""
   },
   {
+    "ip_address": "48.196.155.32/28",
+    "ip_type": "IPv4",
+    "service": "MicrosoftDefenderForEndpoint",
+    "region": ""
+  },
+  {
     "ip_address": "51.4.226.144/28",
     "ip_type": "IPv4",
     "service": "MicrosoftDefenderForEndpoint",

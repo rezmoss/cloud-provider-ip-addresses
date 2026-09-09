@@ -62274,7 +62274,13 @@
     "region": "belgiumcentral"
   },
   {
-    "ip_address": "20.20.121.192/30",
+    "ip_address": "20.20.121.192/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.belgiumcentral",
+    "region": "belgiumcentral"
+  },
+  {
+    "ip_address": "20.20.121.224/28",
     "ip_type": "IPv4",
     "service": "AzureCloud.belgiumcentral",
     "region": "belgiumcentral"
@@ -123034,6 +123040,30 @@
     "ip_type": "IPv4",
     "service": "AzureCloud.spaincentral",
     "region": "spaincentral"
+  },
+  {
+    "ip_address": "20.143.232.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadaeast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "20.143.236.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southcentralus2",
+    "region": "southcentralus2"
+  },
+  {
+    "ip_address": "20.143.238.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.australiasoutheast",
+    "region": "australiasoutheast"
+  },
+  {
+    "ip_address": "20.143.240.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
   },
   {
     "ip_address": "20.150.0.0/15",
@@ -208698,31 +208728,7 @@
     "region": "southcentralus"
   },
   {
-    "ip_address": "40.87.178.64/28",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southcentralus",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "40.87.178.80/31",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southcentralus",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "40.87.178.84/31",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southcentralus",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "40.87.178.90/31",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southcentralus",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "40.87.178.92/30",
+    "ip_address": "40.87.178.64/27",
     "ip_type": "IPv4",
     "service": "AzureCloud.southcentralus",
     "region": "southcentralus"
@@ -208764,73 +208770,13 @@
     "region": "southcentralus"
   },
   {
-    "ip_address": "40.87.178.192/27",
+    "ip_address": "40.87.178.192/26",
     "ip_type": "IPv4",
     "service": "AzureCloud.southcentralus",
     "region": "southcentralus"
   },
   {
-    "ip_address": "40.87.178.224/29",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southcentralus",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "40.87.178.232/31",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southcentralus",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "40.87.178.242/31",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southcentralus",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "40.87.178.244/30",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southcentralus",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "40.87.178.248/29",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southcentralus",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "40.87.179.0/31",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southcentralus",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "40.87.179.10/31",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southcentralus",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "40.87.179.12/30",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southcentralus",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "40.87.179.16/28",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southcentralus",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "40.87.179.32/27",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southcentralus",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "40.87.179.64/26",
+    "ip_address": "40.87.179.0/25",
     "ip_type": "IPv4",
     "service": "AzureCloud.southcentralus",
     "region": "southcentralus"
@@ -208909,6 +208855,12 @@
   },
   {
     "ip_address": "40.87.179.248/30",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southcentralus",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "40.87.179.252/31",
     "ip_type": "IPv4",
     "service": "AzureCloud.southcentralus",
     "region": "southcentralus"
@@ -209256,19 +209208,7 @@
     "region": "centralus"
   },
   {
-    "ip_address": "40.87.182.136/29",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.centralus",
-    "region": "centralus"
-  },
-  {
-    "ip_address": "40.87.182.144/28",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.centralus",
-    "region": "centralus"
-  },
-  {
-    "ip_address": "40.87.182.160/27",
+    "ip_address": "40.87.182.128/26",
     "ip_type": "IPv4",
     "service": "AzureCloud.centralus",
     "region": "centralus"
@@ -209388,25 +209328,19 @@
     "region": "centralus"
   },
   {
-    "ip_address": "40.87.183.64/28",
+    "ip_address": "40.87.183.64/27",
     "ip_type": "IPv4",
     "service": "AzureCloud.centralus",
     "region": "centralus"
   },
   {
-    "ip_address": "40.87.183.92/30",
+    "ip_address": "40.87.183.96/28",
     "ip_type": "IPv4",
     "service": "AzureCloud.centralus",
     "region": "centralus"
   },
   {
-    "ip_address": "40.87.183.96/29",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.centralus",
-    "region": "centralus"
-  },
-  {
-    "ip_address": "40.87.183.104/30",
+    "ip_address": "40.87.183.112/31",
     "ip_type": "IPv4",
     "service": "AzureCloud.centralus",
     "region": "centralus"
@@ -223656,13 +223590,19 @@
     "region": "polandcentral"
   },
   {
-    "ip_address": "40.123.138.192/29",
+    "ip_address": "40.123.138.192/27",
     "ip_type": "IPv4",
     "service": "AzureCloud.polandcentral",
     "region": "polandcentral"
   },
   {
-    "ip_address": "40.123.138.200/30",
+    "ip_address": "40.123.138.224/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.polandcentral",
+    "region": "polandcentral"
+  },
+  {
+    "ip_address": "40.123.138.240/29",
     "ip_type": "IPv4",
     "service": "AzureCloud.polandcentral",
     "region": "polandcentral"
@@ -226110,43 +226050,13 @@
     "region": "eastus2"
   },
   {
-    "ip_address": "40.123.187.64/27",
+    "ip_address": "40.123.187.64/26",
     "ip_type": "IPv4",
     "service": "AzureCloud.eastus2",
     "region": "eastus2"
   },
   {
-    "ip_address": "40.123.187.100/30",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.eastus2",
-    "region": "eastus2"
-  },
-  {
-    "ip_address": "40.123.187.104/29",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.eastus2",
-    "region": "eastus2"
-  },
-  {
-    "ip_address": "40.123.187.112/28",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.eastus2",
-    "region": "eastus2"
-  },
-  {
-    "ip_address": "40.123.187.134/31",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.eastus2",
-    "region": "eastus2"
-  },
-  {
-    "ip_address": "40.123.187.136/29",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.eastus2",
-    "region": "eastus2"
-  },
-  {
-    "ip_address": "40.123.187.144/28",
+    "ip_address": "40.123.187.128/27",
     "ip_type": "IPv4",
     "service": "AzureCloud.eastus2",
     "region": "eastus2"
@@ -226218,13 +226128,13 @@
     "region": "eastus2euap"
   },
   {
-    "ip_address": "40.123.187.212/30",
+    "ip_address": "40.123.187.204/30",
     "ip_type": "IPv4",
     "service": "AzureCloud.eastus2",
     "region": "eastus2"
   },
   {
-    "ip_address": "40.123.187.216/29",
+    "ip_address": "40.123.187.208/28",
     "ip_type": "IPv4",
     "service": "AzureCloud.eastus2",
     "region": "eastus2"
@@ -232488,6 +232398,84 @@
     "region": ""
   },
   {
+    "ip_address": "48.196.152.104/30",
+    "ip_type": "IPv4",
+    "service": "SerialConsole",
+    "region": ""
+  },
+  {
+    "ip_address": "48.196.153.96/28",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure",
+    "region": ""
+  },
+  {
+    "ip_address": "48.196.153.192/26",
+    "ip_type": "IPv4",
+    "service": "CognitiveServicesManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "48.196.154.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearningInference",
+    "region": ""
+  },
+  {
+    "ip_address": "48.196.155.32/28",
+    "ip_type": "IPv4",
+    "service": "MicrosoftDefenderForEndpoint",
+    "region": ""
+  },
+  {
+    "ip_address": "48.196.155.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureSignalR",
+    "region": ""
+  },
+  {
+    "ip_address": "48.196.155.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureWebPubSub",
+    "region": ""
+  },
+  {
+    "ip_address": "48.196.158.0/25",
+    "ip_type": "IPv4",
+    "service": "DataFactory",
+    "region": ""
+  },
+  {
+    "ip_address": "48.196.158.128/26",
+    "ip_type": "IPv4",
+    "service": "DataFactory",
+    "region": ""
+  },
+  {
+    "ip_address": "48.196.158.192/27",
+    "ip_type": "IPv4",
+    "service": "DataFactory",
+    "region": ""
+  },
+  {
+    "ip_address": "48.196.158.192/27",
+    "ip_type": "IPv4",
+    "service": "DataFactoryManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "48.196.158.224/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory",
+    "region": ""
+  },
+  {
+    "ip_address": "48.196.158.224/28",
+    "ip_type": "IPv4",
+    "service": "DataFactoryManagement",
+    "region": ""
+  },
+  {
     "ip_address": "48.197.72.0/28",
     "ip_type": "IPv4",
     "service": "AzureSiteRecovery",
@@ -233040,6 +233028,42 @@
     "region": ""
   },
   {
+    "ip_address": "48.197.149.112/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory",
+    "region": ""
+  },
+  {
+    "ip_address": "48.197.149.112/28",
+    "ip_type": "IPv4",
+    "service": "DataFactoryManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "48.197.149.128/25",
+    "ip_type": "IPv4",
+    "service": "DataFactory",
+    "region": ""
+  },
+  {
+    "ip_address": "48.197.150.0/26",
+    "ip_type": "IPv4",
+    "service": "DataFactory",
+    "region": ""
+  },
+  {
+    "ip_address": "48.197.150.64/27",
+    "ip_type": "IPv4",
+    "service": "DataFactory",
+    "region": ""
+  },
+  {
+    "ip_address": "48.197.150.64/27",
+    "ip_type": "IPv4",
+    "service": "DataFactoryManagement",
+    "region": ""
+  },
+  {
     "ip_address": "48.198.80.0/28",
     "ip_type": "IPv4",
     "service": "AzureSiteRecovery",
@@ -233553,6 +233577,42 @@
     "ip_address": "48.198.154.128/26",
     "ip_type": "IPv4",
     "service": "AzureMonitor.Core",
+    "region": ""
+  },
+  {
+    "ip_address": "48.198.193.208/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory",
+    "region": ""
+  },
+  {
+    "ip_address": "48.198.193.208/28",
+    "ip_type": "IPv4",
+    "service": "DataFactoryManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "48.198.193.224/27",
+    "ip_type": "IPv4",
+    "service": "DataFactory",
+    "region": ""
+  },
+  {
+    "ip_address": "48.198.193.224/27",
+    "ip_type": "IPv4",
+    "service": "DataFactoryManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "48.198.194.0/25",
+    "ip_type": "IPv4",
+    "service": "DataFactory",
+    "region": ""
+  },
+  {
+    "ip_address": "48.198.194.128/26",
+    "ip_type": "IPv4",
+    "service": "DataFactory",
     "region": ""
   },
   {
@@ -252916,6 +252976,66 @@
     "ip_type": "IPv4",
     "service": "AzureAttestation.EastUS3",
     "region": "eastus3"
+  },
+  {
+    "ip_address": "51.57.209.224/27",
+    "ip_type": "IPv4",
+    "service": "DataFactory",
+    "region": ""
+  },
+  {
+    "ip_address": "51.57.209.224/27",
+    "ip_type": "IPv4",
+    "service": "DataFactory.EastUS3",
+    "region": "eastus3"
+  },
+  {
+    "ip_address": "51.57.209.224/27",
+    "ip_type": "IPv4",
+    "service": "DataFactoryManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "51.57.210.0/25",
+    "ip_type": "IPv4",
+    "service": "DataFactory",
+    "region": ""
+  },
+  {
+    "ip_address": "51.57.210.0/25",
+    "ip_type": "IPv4",
+    "service": "DataFactory.EastUS3",
+    "region": "eastus3"
+  },
+  {
+    "ip_address": "51.57.210.128/26",
+    "ip_type": "IPv4",
+    "service": "DataFactory",
+    "region": ""
+  },
+  {
+    "ip_address": "51.57.210.128/26",
+    "ip_type": "IPv4",
+    "service": "DataFactory.EastUS3",
+    "region": "eastus3"
+  },
+  {
+    "ip_address": "51.57.210.192/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory",
+    "region": ""
+  },
+  {
+    "ip_address": "51.57.210.192/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.EastUS3",
+    "region": "eastus3"
+  },
+  {
+    "ip_address": "51.57.210.192/28",
+    "ip_type": "IPv4",
+    "service": "DataFactoryManagement",
+    "region": ""
   },
   {
     "ip_address": "51.58.0.0/17",
@@ -319674,7 +319794,7 @@
     "region": ""
   },
   {
-    "ip_address": "52.251.128.0/23",
+    "ip_address": "52.251.128.0/22",
     "ip_type": "IPv4",
     "service": "AzureCloud",
     "region": ""
@@ -319684,6 +319804,12 @@
     "ip_type": "IPv4",
     "service": "AzureCloud.israelnorthwest",
     "region": "israelnorthwest"
+  },
+  {
+    "ip_address": "52.251.130.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadaeast",
+    "region": "canadaeast"
   },
   {
     "ip_address": "52.252.0.0/16",
@@ -326082,25 +326208,7 @@
     "region": "eastus2"
   },
   {
-    "ip_address": "57.157.0.128/30",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.eastus2",
-    "region": "eastus2"
-  },
-  {
-    "ip_address": "57.157.0.136/29",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.eastus2",
-    "region": "eastus2"
-  },
-  {
-    "ip_address": "57.157.0.144/28",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.eastus2",
-    "region": "eastus2"
-  },
-  {
-    "ip_address": "57.157.0.160/27",
+    "ip_address": "57.157.0.128/26",
     "ip_type": "IPv4",
     "service": "AzureCloud.eastus2",
     "region": "eastus2"
@@ -326286,13 +326394,7 @@
     "region": "eastus2"
   },
   {
-    "ip_address": "57.157.2.0/30",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.eastus2",
-    "region": "eastus2"
-  },
-  {
-    "ip_address": "57.157.2.4/31",
+    "ip_address": "57.157.2.0/29",
     "ip_type": "IPv4",
     "service": "AzureCloud.eastus2",
     "region": "eastus2"
@@ -326628,61 +326730,7 @@
     "region": "centralus"
   },
   {
-    "ip_address": "57.157.8.0/23",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.westus3",
-    "region": "westus3"
-  },
-  {
-    "ip_address": "57.157.10.0/24",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.westus3",
-    "region": "westus3"
-  },
-  {
-    "ip_address": "57.157.11.0/27",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.westus3",
-    "region": "westus3"
-  },
-  {
-    "ip_address": "57.157.11.32/28",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.westus3",
-    "region": "westus3"
-  },
-  {
-    "ip_address": "57.157.11.48/29",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.westus3",
-    "region": "westus3"
-  },
-  {
-    "ip_address": "57.157.11.56/31",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.westus3",
-    "region": "westus3"
-  },
-  {
-    "ip_address": "57.157.11.72/29",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.westus3",
-    "region": "westus3"
-  },
-  {
-    "ip_address": "57.157.11.80/28",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.westus3",
-    "region": "westus3"
-  },
-  {
-    "ip_address": "57.157.11.96/27",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.westus3",
-    "region": "westus3"
-  },
-  {
-    "ip_address": "57.157.11.128/25",
+    "ip_address": "57.157.8.0/22",
     "ip_type": "IPv4",
     "service": "AzureCloud.westus3",
     "region": "westus3"
@@ -327019,6 +327067,18 @@
   },
   {
     "ip_address": "57.157.40.128/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "57.157.40.144/30",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "57.157.40.148/31",
     "ip_type": "IPv4",
     "service": "AzureCloud.uksouth",
     "region": "uksouth"
@@ -327492,19 +327552,31 @@
     "region": "northcentralus"
   },
   {
-    "ip_address": "57.157.66.0/27",
+    "ip_address": "57.157.66.0/26",
     "ip_type": "IPv4",
     "service": "AzureCloud.northcentralus",
     "region": "northcentralus"
   },
   {
-    "ip_address": "57.157.66.32/28",
+    "ip_address": "57.157.66.64/27",
     "ip_type": "IPv4",
     "service": "AzureCloud.northcentralus",
     "region": "northcentralus"
   },
   {
-    "ip_address": "57.157.66.48/29",
+    "ip_address": "57.157.66.96/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.northcentralus",
+    "region": "northcentralus"
+  },
+  {
+    "ip_address": "57.157.66.112/29",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.northcentralus",
+    "region": "northcentralus"
+  },
+  {
+    "ip_address": "57.157.66.120/30",
     "ip_type": "IPv4",
     "service": "AzureCloud.northcentralus",
     "region": "northcentralus"
@@ -327522,19 +327594,19 @@
     "region": "swedencentral"
   },
   {
-    "ip_address": "57.157.71.0/28",
+    "ip_address": "57.157.71.0/26",
     "ip_type": "IPv4",
     "service": "AzureCloud.swedencentral",
     "region": "swedencentral"
   },
   {
-    "ip_address": "57.157.71.16/29",
+    "ip_address": "57.157.71.64/28",
     "ip_type": "IPv4",
     "service": "AzureCloud.swedencentral",
     "region": "swedencentral"
   },
   {
-    "ip_address": "57.157.71.24/31",
+    "ip_address": "57.157.71.80/31",
     "ip_type": "IPv4",
     "service": "AzureCloud.swedencentral",
     "region": "swedencentral"
@@ -327558,7 +327630,7 @@
     "region": "westus2"
   },
   {
-    "ip_address": "57.157.73.80/30",
+    "ip_address": "57.157.73.80/29",
     "ip_type": "IPv4",
     "service": "AzureCloud.westus2",
     "region": "westus2"
@@ -327672,25 +327744,31 @@
     "region": "uaenorth"
   },
   {
-    "ip_address": "57.157.128.0/24",
+    "ip_address": "57.157.128.0/23",
     "ip_type": "IPv4",
     "service": "AzureCloud.westus3",
     "region": "westus3"
   },
   {
-    "ip_address": "57.157.129.0/25",
+    "ip_address": "57.157.130.0/27",
     "ip_type": "IPv4",
     "service": "AzureCloud.westus3",
     "region": "westus3"
   },
   {
-    "ip_address": "57.157.129.128/26",
+    "ip_address": "57.157.130.32/28",
     "ip_type": "IPv4",
     "service": "AzureCloud.westus3",
     "region": "westus3"
   },
   {
-    "ip_address": "57.157.129.192/28",
+    "ip_address": "57.157.130.48/29",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.westus3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "57.157.130.56/31",
     "ip_type": "IPv4",
     "service": "AzureCloud.westus3",
     "region": "westus3"
@@ -329380,6 +329458,54 @@
     "ip_type": "IPv4",
     "service": "Storage.WestUS2",
     "region": "westus2"
+  },
+  {
+    "ip_address": "57.163.75.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadaeast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "57.163.75.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "57.163.76.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadaeast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "57.163.76.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "57.163.79.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadaeast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "57.163.79.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "57.163.81.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadaeast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "57.163.81.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.CanadaEast",
+    "region": "canadaeast"
   },
   {
     "ip_address": "57.164.0.0/17",
@@ -347518,6 +347644,12 @@
     "ip_type": "IPv4",
     "service": "AzureAttestation.AustraliaCentral",
     "region": "australiacentral"
+  },
+  {
+    "ip_address": "74.147.128.0/17",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.australiaeast",
+    "region": "australiaeast"
   },
   {
     "ip_address": "74.148.0.0/17",
@@ -381234,6 +381366,18 @@
     "region": "westeurope"
   },
   {
+    "ip_address": "145.190.87.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "145.190.88.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.westcentralus",
+    "region": "westcentralus"
+  },
+  {
     "ip_address": "145.190.128.0/17",
     "ip_type": "IPv4",
     "service": "Storage",
@@ -382179,6 +382323,174 @@
     "ip_address": "145.191.168.224/27",
     "ip_type": "IPv4",
     "service": "AzureDeviceUpdate",
+    "region": ""
+  },
+  {
+    "ip_address": "145.191.173.20/30",
+    "ip_type": "IPv4",
+    "service": "VideoIndexer",
+    "region": ""
+  },
+  {
+    "ip_address": "145.191.173.32/27",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline",
+    "region": ""
+  },
+  {
+    "ip_address": "145.191.173.32/27",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "145.191.173.128/26",
+    "ip_type": "IPv4",
+    "service": "GatewayManager",
+    "region": ""
+  },
+  {
+    "ip_address": "145.191.173.128/26",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "145.191.173.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "145.191.174.0/27",
+    "ip_type": "IPv4",
+    "service": "GuestAndHybridManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "145.191.174.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureHealthcareAPIs",
+    "region": ""
+  },
+  {
+    "ip_address": "145.191.174.144/28",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure",
+    "region": ""
+  },
+  {
+    "ip_address": "145.191.174.144/28",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "145.191.174.168/30",
+    "ip_type": "IPv4",
+    "service": "SerialConsole",
+    "region": ""
+  },
+  {
+    "ip_address": "145.191.174.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors",
+    "region": ""
+  },
+  {
+    "ip_address": "145.191.174.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "145.191.175.0/26",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "145.191.175.0/26",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "145.191.175.96/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry",
+    "region": ""
+  },
+  {
+    "ip_address": "145.191.175.96/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "145.191.175.104/29",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric",
+    "region": ""
+  },
+  {
+    "ip_address": "145.191.175.104/29",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "145.191.176.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearningInference",
+    "region": ""
+  },
+  {
+    "ip_address": "145.191.177.0/24",
+    "ip_type": "IPv4",
+    "service": "DataFactory",
+    "region": ""
+  },
+  {
+    "ip_address": "145.191.177.0/24",
+    "ip_type": "IPv4",
+    "service": "DataFactory.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "145.191.180.0/27",
+    "ip_type": "IPv4",
+    "service": "LogicApps",
+    "region": ""
+  },
+  {
+    "ip_address": "145.191.180.0/27",
+    "ip_type": "IPv4",
+    "service": "LogicApps.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "145.191.180.32/27",
+    "ip_type": "IPv4",
+    "service": "SqlManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "145.191.180.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureSignalR",
+    "region": ""
+  },
+  {
+    "ip_address": "145.191.180.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureSignalR.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "145.191.180.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureWebPubSub",
     "region": ""
   },
   {
@@ -389704,6 +390016,18 @@
     "ip_type": "IPv4",
     "service": "AzureCloud.italynorth",
     "region": "italynorth"
+  },
+  {
+    "ip_address": "172.134.0.0/17",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.centralus",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "172.135.0.0/17",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.swedencentral",
+    "region": "swedencentral"
   },
   {
     "ip_address": "172.160.0.0/16",
@@ -464316,85 +464640,19 @@
     "region": "centralus"
   },
   {
-    "ip_address": "2603:1030:9:40::/60",
+    "ip_address": "2603:1030:9:40::/58",
     "ip_type": "IPv6",
     "service": "AzureCloud.centralus",
     "region": "centralus"
   },
   {
-    "ip_address": "2603:1030:9:51::/64",
+    "ip_address": "2603:1030:9:80::/59",
     "ip_type": "IPv6",
     "service": "AzureCloud.centralus",
     "region": "centralus"
   },
   {
-    "ip_address": "2603:1030:9:52::/63",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.centralus",
-    "region": "centralus"
-  },
-  {
-    "ip_address": "2603:1030:9:54::/62",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.centralus",
-    "region": "centralus"
-  },
-  {
-    "ip_address": "2603:1030:9:58::/61",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.centralus",
-    "region": "centralus"
-  },
-  {
-    "ip_address": "2603:1030:9:60::/59",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.centralus",
-    "region": "centralus"
-  },
-  {
-    "ip_address": "2603:1030:9:80::/60",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.centralus",
-    "region": "centralus"
-  },
-  {
-    "ip_address": "2603:1030:9:90::/61",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.centralus",
-    "region": "centralus"
-  },
-  {
-    "ip_address": "2603:1030:9:98::/63",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.centralus",
-    "region": "centralus"
-  },
-  {
-    "ip_address": "2603:1030:9:9a::/64",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.centralus",
-    "region": "centralus"
-  },
-  {
-    "ip_address": "2603:1030:9:a1::/64",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.centralus",
-    "region": "centralus"
-  },
-  {
-    "ip_address": "2603:1030:9:a2::/63",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.centralus",
-    "region": "centralus"
-  },
-  {
-    "ip_address": "2603:1030:9:a4::/62",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.centralus",
-    "region": "centralus"
-  },
-  {
-    "ip_address": "2603:1030:9:a8::/61",
+    "ip_address": "2603:1030:9:a0::/60",
     "ip_type": "IPv6",
     "service": "AzureCloud.centralus",
     "region": "centralus"
@@ -464460,13 +464718,7 @@
     "region": "centralus"
   },
   {
-    "ip_address": "2603:1030:9:c0::/63",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.centralus",
-    "region": "centralus"
-  },
-  {
-    "ip_address": "2603:1030:9:c8::/61",
+    "ip_address": "2603:1030:9:c0::/60",
     "ip_type": "IPv6",
     "service": "AzureCloud.centralus",
     "region": "centralus"
@@ -476850,13 +477102,7 @@
     "region": "eastus2"
   },
   {
-    "ip_address": "2603:1030:401:598::/64",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.eastus2",
-    "region": "eastus2"
-  },
-  {
-    "ip_address": "2603:1030:401:59c::/62",
+    "ip_address": "2603:1030:401:598::/61",
     "ip_type": "IPv6",
     "service": "AzureCloud.eastus2",
     "region": "eastus2"
@@ -476946,13 +477192,13 @@
     "region": "eastus2euap"
   },
   {
-    "ip_address": "2603:1030:401:5c3::/64",
+    "ip_address": "2603:1030:401:5bf::/64",
     "ip_type": "IPv6",
     "service": "AzureCloud.eastus2",
     "region": "eastus2"
   },
   {
-    "ip_address": "2603:1030:401:5c4::/62",
+    "ip_address": "2603:1030:401:5c0::/61",
     "ip_type": "IPv6",
     "service": "AzureCloud.eastus2",
     "region": "eastus2"
@@ -477180,37 +477426,7 @@
     "region": "eastus2"
   },
   {
-    "ip_address": "2603:1030:401:680::/58",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.eastus2",
-    "region": "eastus2"
-  },
-  {
-    "ip_address": "2603:1030:401:6c0::/59",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.eastus2",
-    "region": "eastus2"
-  },
-  {
-    "ip_address": "2603:1030:401:6e0::/61",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.eastus2",
-    "region": "eastus2"
-  },
-  {
-    "ip_address": "2603:1030:401:6e8::/62",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.eastus2",
-    "region": "eastus2"
-  },
-  {
-    "ip_address": "2603:1030:401:6ee::/63",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.eastus2",
-    "region": "eastus2"
-  },
-  {
-    "ip_address": "2603:1030:401:6f0::/60",
+    "ip_address": "2603:1030:401:680::/57",
     "ip_type": "IPv6",
     "service": "AzureCloud.eastus2",
     "region": "eastus2"
@@ -477600,31 +477816,7 @@
     "region": "eastus2"
   },
   {
-    "ip_address": "2603:1030:401:800::/59",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.eastus2",
-    "region": "eastus2"
-  },
-  {
-    "ip_address": "2603:1030:401:820::/61",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.eastus2",
-    "region": "eastus2"
-  },
-  {
-    "ip_address": "2603:1030:401:828::/63",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.eastus2",
-    "region": "eastus2"
-  },
-  {
-    "ip_address": "2603:1030:401:82c::/62",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.eastus2",
-    "region": "eastus2"
-  },
-  {
-    "ip_address": "2603:1030:401:830::/60",
+    "ip_address": "2603:1030:401:800::/58",
     "ip_type": "IPv6",
     "service": "AzureCloud.eastus2",
     "region": "eastus2"
@@ -477822,13 +478014,7 @@
     "region": "eastus2"
   },
   {
-    "ip_address": "2603:1030:401:8e8::/63",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.eastus2",
-    "region": "eastus2"
-  },
-  {
-    "ip_address": "2603:1030:401:8ea::/64",
+    "ip_address": "2603:1030:401:8e8::/62",
     "ip_type": "IPv6",
     "service": "AzureCloud.eastus2",
     "region": "eastus2"
@@ -489714,43 +489900,7 @@
     "region": "southcentralus"
   },
   {
-    "ip_address": "2603:1030:804:140::/59",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.southcentralus",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "2603:1030:804:160::/61",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.southcentralus",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "2603:1030:804:168::/64",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.southcentralus",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "2603:1030:804:16a::/64",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.southcentralus",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "2603:1030:804:16d::/64",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.southcentralus",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "2603:1030:804:16e::/63",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.southcentralus",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "2603:1030:804:170::/60",
+    "ip_address": "2603:1030:804:140::/58",
     "ip_type": "IPv6",
     "service": "AzureCloud.southcentralus",
     "region": "southcentralus"
@@ -489828,25 +489978,7 @@
     "region": "southcentralus"
   },
   {
-    "ip_address": "2603:1030:804:1e0::/62",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.southcentralus",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "2603:1030:804:1e4::/64",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.southcentralus",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "2603:1030:804:1e8::/61",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.southcentralus",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "2603:1030:804:1f0::/60",
+    "ip_address": "2603:1030:804:1e0::/59",
     "ip_type": "IPv6",
     "service": "AzureCloud.southcentralus",
     "region": "southcentralus"
@@ -489888,25 +490020,7 @@
     "region": "usstagec"
   },
   {
-    "ip_address": "2603:1030:804:230::/61",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.southcentralus",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "2603:1030:804:238::/63",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.southcentralus",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "2603:1030:804:23a::/64",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.southcentralus",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "2603:1030:804:23f::/64",
+    "ip_address": "2603:1030:804:230::/60",
     "ip_type": "IPv6",
     "service": "AzureCloud.southcentralus",
     "region": "southcentralus"
@@ -489930,13 +490044,7 @@
     "region": "southcentralus"
   },
   {
-    "ip_address": "2603:1030:804:250::/63",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.southcentralus",
-    "region": "southcentralus"
-  },
-  {
-    "ip_address": "2603:1030:804:254::/62",
+    "ip_address": "2603:1030:804:250::/61",
     "ip_type": "IPv6",
     "service": "AzureCloud.southcentralus",
     "region": "southcentralus"
@@ -503070,6 +503178,156 @@
     "region": ""
   },
   {
+    "ip_address": "2603:1030:1005:11::740/122",
+    "ip_type": "IPv6",
+    "service": "AzureDatabricks",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:1005:12::200/122",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:1005:12::200/122",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:12::340/122",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:1005:12::340/122",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:12::490/124",
+    "ip_type": "IPv6",
+    "service": "SerialConsole",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:1005:12::580/121",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:1005:12::580/121",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:12::648/125",
+    "ip_type": "IPv6",
+    "service": "MicrosoftContainerRegistry",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:1005:12::648/125",
+    "ip_type": "IPv6",
+    "service": "MicrosoftContainerRegistry.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:12::650/125",
+    "ip_type": "IPv6",
+    "service": "ActionGroup",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:1005:12::650/125",
+    "ip_type": "IPv6",
+    "service": "ActionGroup.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:12::658/125",
+    "ip_type": "IPv6",
+    "service": "ServiceFabric",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:1005:12::658/125",
+    "ip_type": "IPv6",
+    "service": "ServiceFabric.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:12::720/123",
+    "ip_type": "IPv6",
+    "service": "AzureManagedGrafana",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:1005:13::70/124",
+    "ip_type": "IPv6",
+    "service": "Scuba",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:1005:13::100/121",
+    "ip_type": "IPv6",
+    "service": "DataFactory",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:1005:13::100/121",
+    "ip_type": "IPv6",
+    "service": "DataFactory.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:13::100/121",
+    "ip_type": "IPv6",
+    "service": "DataFactoryManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:1005:13::1c0/124",
+    "ip_type": "IPv6",
+    "service": "LogicApps",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:1005:13::1c0/124",
+    "ip_type": "IPv6",
+    "service": "LogicApps.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:13::1c0/124",
+    "ip_type": "IPv6",
+    "service": "LogicAppsManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:1005:13::1e0/123",
+    "ip_type": "IPv6",
+    "service": "LogicApps",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:1005:13::1e0/123",
+    "ip_type": "IPv6",
+    "service": "LogicApps.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:13::200/123",
+    "ip_type": "IPv6",
+    "service": "SqlManagement",
+    "region": ""
+  },
+  {
     "ip_address": "2603:1030:1005:400::/123",
     "ip_type": "IPv6",
     "service": "Sql",
@@ -503481,6 +503739,30 @@
     "ip_address": "2603:1030:1006::/48",
     "ip_type": "IPv6",
     "service": "Storage.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1008::/62",
+    "ip_type": "IPv6",
+    "service": "AzureCloud",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:1008::/62",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.canadaeast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1008:4::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:1008:4::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.canadaeast",
     "region": "canadaeast"
   },
   {
@@ -506982,6 +507264,42 @@
     "region": ""
   },
   {
+    "ip_address": "2603:1030:1402:9::5b8/125",
+    "ip_type": "IPv6",
+    "service": "DataFactory",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:1402:9::5b8/125",
+    "ip_type": "IPv6",
+    "service": "DataFactory.EastUS3",
+    "region": "eastus3"
+  },
+  {
+    "ip_address": "2603:1030:1402:9::5b8/125",
+    "ip_type": "IPv6",
+    "service": "DataFactoryManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:1402:9::5c0/124",
+    "ip_type": "IPv6",
+    "service": "DataFactory",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:1402:9::5c0/124",
+    "ip_type": "IPv6",
+    "service": "DataFactory.EastUS3",
+    "region": "eastus3"
+  },
+  {
+    "ip_address": "2603:1030:1402:9::5c0/124",
+    "ip_type": "IPv6",
+    "service": "DataFactoryManagement",
+    "region": ""
+  },
+  {
     "ip_address": "2603:1030:1402:400::/125",
     "ip_type": "IPv6",
     "service": "MicrosoftContainerRegistry",
@@ -509370,6 +509688,42 @@
     "region": ""
   },
   {
+    "ip_address": "2603:1030:1702:7::18/125",
+    "ip_type": "IPv6",
+    "service": "DataFactory",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:1702:7::18/125",
+    "ip_type": "IPv6",
+    "service": "DataFactoryManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:1702:7::20/124",
+    "ip_type": "IPv6",
+    "service": "DataFactory",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:1702:7::20/124",
+    "ip_type": "IPv6",
+    "service": "DataFactoryManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:1702:7::40/122",
+    "ip_type": "IPv6",
+    "service": "AzureSignalR",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:1702:7::80/122",
+    "ip_type": "IPv6",
+    "service": "AzureWebPubSub",
+    "region": ""
+  },
+  {
     "ip_address": "2603:1030:1703::/48",
     "ip_type": "IPv6",
     "service": "Storage",
@@ -509383,6 +509737,12 @@
   },
   {
     "ip_address": "2603:1030:1705::/48",
+    "ip_type": "IPv6",
+    "service": "AzureCloud",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:1706::/48",
     "ip_type": "IPv6",
     "service": "AzureCloud",
     "region": ""
@@ -547266,6 +547626,30 @@
     "region": ""
   },
   {
+    "ip_address": "2603:1040:1a02:7::298/125",
+    "ip_type": "IPv6",
+    "service": "DataFactory",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1040:1a02:7::298/125",
+    "ip_type": "IPv6",
+    "service": "DataFactoryManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1040:1a02:7::2a0/124",
+    "ip_type": "IPv6",
+    "service": "DataFactory",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1040:1a02:7::2a0/124",
+    "ip_type": "IPv6",
+    "service": "DataFactoryManagement",
+    "region": ""
+  },
+  {
     "ip_address": "2603:1040:1a02:400::/125",
     "ip_type": "IPv6",
     "service": "MicrosoftContainerRegistry",
@@ -547767,6 +548151,30 @@
     "ip_address": "2603:1040:1b02:5::400/119",
     "ip_type": "IPv6",
     "service": "AzureMonitor",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1040:1b02:6::530/124",
+    "ip_type": "IPv6",
+    "service": "DataFactory",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1040:1b02:6::530/124",
+    "ip_type": "IPv6",
+    "service": "DataFactoryManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1040:1b02:6::540/125",
+    "ip_type": "IPv6",
+    "service": "DataFactory",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1040:1b02:6::540/125",
+    "ip_type": "IPv6",
+    "service": "DataFactoryManagement",
     "region": ""
   },
   {
@@ -555162,25 +555570,19 @@
     "region": "polandcentral"
   },
   {
-    "ip_address": "2603:1061:1006:140::/60",
+    "ip_address": "2603:1061:1006:140::/59",
     "ip_type": "IPv6",
     "service": "AzureCloud.polandcentral",
     "region": "polandcentral"
   },
   {
-    "ip_address": "2603:1061:1006:150::/61",
+    "ip_address": "2603:1061:1006:160::/60",
     "ip_type": "IPv6",
     "service": "AzureCloud.polandcentral",
     "region": "polandcentral"
   },
   {
-    "ip_address": "2603:1061:1006:158::/62",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.polandcentral",
-    "region": "polandcentral"
-  },
-  {
-    "ip_address": "2603:1061:1006:15c::/63",
+    "ip_address": "2603:1061:1006:170::/62",
     "ip_type": "IPv6",
     "service": "AzureCloud.polandcentral",
     "region": "polandcentral"
@@ -555636,19 +556038,13 @@
     "region": "belgiumcentral"
   },
   {
-    "ip_address": "2603:1061:1016:c0::/60",
+    "ip_address": "2603:1061:1016:c0::/59",
     "ip_type": "IPv6",
     "service": "AzureCloud.belgiumcentral",
     "region": "belgiumcentral"
   },
   {
-    "ip_address": "2603:1061:1016:d0::/61",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.belgiumcentral",
-    "region": "belgiumcentral"
-  },
-  {
-    "ip_address": "2603:1061:1016:d8::/63",
+    "ip_address": "2603:1061:1016:e0::/60",
     "ip_type": "IPv6",
     "service": "AzureCloud.belgiumcentral",
     "region": "belgiumcentral"

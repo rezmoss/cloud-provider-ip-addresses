@@ -1470,6 +1470,12 @@
     "region": ""
   },
   {
+    "ip_address": "2603:1030:1005:13::70/124",
+    "ip_type": "IPv6",
+    "service": "Scuba",
+    "region": ""
+  },
+  {
     "ip_address": "2603:1030:1102:2::5e0/124",
     "ip_type": "IPv6",
     "service": "Scuba",

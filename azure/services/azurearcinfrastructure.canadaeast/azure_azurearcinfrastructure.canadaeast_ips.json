@@ -48,6 +48,12 @@
     "region": "canadaeast"
   },
   {
+    "ip_address": "145.191.174.144/28",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
     "ip_address": "2603:1030:1005:c::2d1/128",
     "ip_type": "IPv6",
     "service": "AzureArcInfrastructure.CanadaEast",

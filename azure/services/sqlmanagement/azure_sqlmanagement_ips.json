@@ -3120,6 +3120,12 @@
     "region": ""
   },
   {
+    "ip_address": "145.191.180.32/27",
+    "ip_type": "IPv4",
+    "service": "SqlManagement",
+    "region": ""
+  },
+  {
     "ip_address": "158.23.12.64/26",
     "ip_type": "IPv4",
     "service": "SqlManagement",
@@ -4417,6 +4423,12 @@
   },
   {
     "ip_address": "2603:1030:1005:6::20/123",
+    "ip_type": "IPv6",
+    "service": "SqlManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:1005:13::200/123",
     "ip_type": "IPv6",
     "service": "SqlManagement",
     "region": ""

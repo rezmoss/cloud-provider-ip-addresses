@@ -2796,12 +2796,6 @@
     "region": "global"
   },
   {
-    "ip_address": "2a03:2880:f14d::/48",
-    "ip_type": "IPv6",
-    "service": "meta-as32934",
-    "region": "global"
-  },
-  {
     "ip_address": "2a03:2880:f14e::/48",
     "ip_type": "IPv6",
     "service": "meta-as32934",
@@ -3187,12 +3181,6 @@
   },
   {
     "ip_address": "2a03:2880:f24a::/48",
-    "ip_type": "IPv6",
-    "service": "meta-as32934",
-    "region": "global"
-  },
-  {
-    "ip_address": "2a03:2880:f24d::/48",
     "ip_type": "IPv6",
     "service": "meta-as32934",
     "region": "global"
