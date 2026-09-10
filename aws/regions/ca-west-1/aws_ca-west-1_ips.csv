@@ -99,6 +99,9 @@ ip_address,ip_type,service,region
 2600:1f61:a400::/40,IPv6,AMAZON,ca-west-1
 2600:1f61:a400::/40,IPv6,EC2,ca-west-1
 2600:1f61:a400::/40,IPv6,S3,ca-west-1
+2600:1f62:a400::/40,IPv6,AMAZON,ca-west-1
+2600:1f62:a400::/40,IPv6,EC2,ca-west-1
+2600:1f62:a400::/40,IPv6,S3,ca-west-1
 2600:1f70:a400::/40,IPv6,AMAZON,ca-west-1
 2600:1f70:a400::/40,IPv6,EC2,ca-west-1
 2600:1fa0:a400::/40,IPv6,AMAZON,ca-west-1
@@ -110,6 +113,9 @@ ip_address,ip_type,service,region
 2600:1fba:a400::/40,IPv6,EC2,ca-west-1
 2600:1fbb:a400::/40,IPv6,AMAZON,ca-west-1
 2600:1fbb:a400::/40,IPv6,EC2,ca-west-1
+2600:1fe7:a400::/40,IPv6,AMAZON,ca-west-1
+2600:1fe7:a400::/40,IPv6,EC2,ca-west-1
+2600:1fe7:a400::/40,IPv6,S3,ca-west-1
 2600:1fe8:a400::/40,IPv6,AMAZON,ca-west-1
 2600:1fe8:a400::/40,IPv6,EC2,ca-west-1
 2600:1fe9:a400::/40,IPv6,AMAZON,ca-west-1

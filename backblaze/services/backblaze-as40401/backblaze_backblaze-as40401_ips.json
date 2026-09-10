@@ -144,6 +144,12 @@
     "region": "global"
   },
   {
+    "ip_address": "207.166.148.0/24",
+    "ip_type": "IPv4",
+    "service": "backblaze-as40401",
+    "region": "global"
+  },
+  {
     "ip_address": "2605:72c0:100::/45",
     "ip_type": "IPv6",
     "service": "backblaze-as40401",

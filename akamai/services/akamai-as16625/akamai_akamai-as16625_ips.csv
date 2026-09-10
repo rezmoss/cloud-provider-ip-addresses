@@ -424,7 +424,6 @@ ip_address,ip_type,service,region
 23.41.144.0/20,IPv4,akamai-as16625,global
 23.41.172.0/22,IPv4,akamai-as16625,global
 23.41.180.0/23,IPv4,akamai-as16625,global
-23.41.188.0/22,IPv4,akamai-as16625,global
 23.41.250.0/23,IPv4,akamai-as16625,global
 23.41.252.0/23,IPv4,akamai-as16625,global
 23.42.0.0/20,IPv4,akamai-as16625,global

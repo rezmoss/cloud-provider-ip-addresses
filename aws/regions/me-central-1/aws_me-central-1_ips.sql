@@ -117,6 +117,9 @@ INSERT INTO `aws_me-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2406:da60:
 INSERT INTO `aws_me-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2406:da61:7000::/40', 'IPv6');
 INSERT INTO `aws_me-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2406:da61:7000::/40', 'IPv6');
 INSERT INTO `aws_me-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2406:da61:7000::/40', 'IPv6');
+INSERT INTO `aws_me-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2406:da62:7000::/40', 'IPv6');
+INSERT INTO `aws_me-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2406:da62:7000::/40', 'IPv6');
+INSERT INTO `aws_me-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2406:da62:7000::/40', 'IPv6');
 INSERT INTO `aws_me-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2406:da70:7000::/40', 'IPv6');
 INSERT INTO `aws_me-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2406:da70:7000::/40', 'IPv6');
 INSERT INTO `aws_me-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2406:daa0:7000::/40', 'IPv6');
@@ -128,6 +131,9 @@ INSERT INTO `aws_me-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2406:daba:
 INSERT INTO `aws_me-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2406:daba:7000::/40', 'IPv6');
 INSERT INTO `aws_me-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2406:dabb:7000::/40', 'IPv6');
 INSERT INTO `aws_me-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2406:dabb:7000::/40', 'IPv6');
+INSERT INTO `aws_me-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2406:dae7:7000::/40', 'IPv6');
+INSERT INTO `aws_me-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2406:dae7:7000::/40', 'IPv6');
+INSERT INTO `aws_me-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2406:dae7:7000::/40', 'IPv6');
 INSERT INTO `aws_me-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2406:dae8:7000::/40', 'IPv6');
 INSERT INTO `aws_me-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2406:dae8:7000::/40', 'IPv6');
 INSERT INTO `aws_me-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2406:dae9:7000::/40', 'IPv6');

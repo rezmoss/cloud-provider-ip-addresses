@@ -1,6 +1,6 @@
 # Google Cloud Platform IP Ranges (Auto-Updated Daily)
 
-> Last updated: **2026-09-09** · Total CIDRs: **1,102** · IPv4: **1,007** · IPv6: **95** · Services: **1** · Regions: **48**
+> Last updated: **2026-09-10** · Total CIDRs: **1,102** · IPv4: **1,007** · IPv6: **95** · Services: **1** · Regions: **48**
 
 Machine-readable, daily-updated, validated public IP ranges for **Google Cloud Platform**.
 Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and Apache.

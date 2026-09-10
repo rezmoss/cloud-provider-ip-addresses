@@ -471,6 +471,12 @@ ip_address,ip_type,service,region
 2406:da61:8800::/40,IPv6,AMAZON,ap-southeast-1
 2406:da61:8800::/40,IPv6,EC2,ap-southeast-1
 2406:da61:8800::/40,IPv6,S3,ap-southeast-1
+2406:da62:8000::/40,IPv6,AMAZON,ap-southeast-1
+2406:da62:8000::/40,IPv6,EC2,ap-southeast-1
+2406:da62:8000::/40,IPv6,S3,ap-southeast-1
+2406:da62:8800::/40,IPv6,AMAZON,ap-southeast-1
+2406:da62:8800::/40,IPv6,EC2,ap-southeast-1
+2406:da62:8800::/40,IPv6,S3,ap-southeast-1
 2406:da70:8000::/40,IPv6,AMAZON,ap-southeast-1
 2406:da70:8000::/40,IPv6,EC2,ap-southeast-1
 2406:da70:8000::/56,IPv6,AMAZON,ap-southeast-1
@@ -500,6 +506,12 @@ ip_address,ip_type,service,region
 2406:dabb:8000::/40,IPv6,EC2,ap-southeast-1
 2406:dabb:8800::/40,IPv6,AMAZON,ap-southeast-1
 2406:dabb:8800::/40,IPv6,EC2,ap-southeast-1
+2406:dae7:8000::/40,IPv6,AMAZON,ap-southeast-1
+2406:dae7:8000::/40,IPv6,EC2,ap-southeast-1
+2406:dae7:8000::/40,IPv6,S3,ap-southeast-1
+2406:dae7:8800::/40,IPv6,AMAZON,ap-southeast-1
+2406:dae7:8800::/40,IPv6,EC2,ap-southeast-1
+2406:dae7:8800::/40,IPv6,S3,ap-southeast-1
 2406:dae8:8000::/40,IPv6,AMAZON,ap-southeast-1
 2406:dae8:8000::/40,IPv6,EC2,ap-southeast-1
 2406:dae8:8800::/40,IPv6,AMAZON,ap-southeast-1

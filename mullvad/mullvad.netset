@@ -1,7 +1,7 @@
 # mullvad IP ranges - ipset restore format (hash:net)
-# Version: 25 | Generated: 2026-09-09 | Last changed: 2026-08-28
-# IPv4: 547 merged subnets, 569 unique IPs
-# IPv6: 559 merged subnets
+# Version: 26 | Generated: 2026-09-10 | Last changed: 2026-09-10
+# IPv4: 545 merged subnets, 563 unique IPs
+# IPv6: 553 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
 # Load with: sudo ipset restore -! < mullvad.netset
@@ -484,8 +484,8 @@ add mullvad_v4 185.188.61.225/32
 add mullvad_v4 185.195.232.66/31
 add mullvad_v4 185.195.232.68/31
 add mullvad_v4 185.195.232.70/32
-add mullvad_v4 185.195.233.66/31
-add mullvad_v4 185.195.233.68/30
+add mullvad_v4 185.195.233.69/32
+add mullvad_v4 185.195.233.70/31
 add mullvad_v4 185.195.233.76/32
 add mullvad_v4 185.201.188.3/32
 add mullvad_v4 185.201.188.33/32
@@ -518,9 +518,7 @@ add mullvad_v4 193.32.126.70/32
 add mullvad_v4 193.32.126.83/32
 add mullvad_v4 193.32.126.84/32
 add mullvad_v4 193.32.127.66/31
-add mullvad_v4 193.32.127.68/31
-add mullvad_v4 193.32.127.70/32
-add mullvad_v4 193.32.127.84/32
+add mullvad_v4 193.32.127.68/32
 add mullvad_v4 193.32.127.117/32
 add mullvad_v4 193.32.248.66/31
 add mullvad_v4 193.32.248.68/31
@@ -964,9 +962,6 @@ add mullvad_v6 2a03:1b20:4:f011::a11f/128
 add mullvad_v6 2a03:1b20:4:f011::b07f/128
 add mullvad_v6 2a03:1b20:4:f011::f201/128
 add mullvad_v6 2a03:1b20:4:f011::f701/128
-add mullvad_v6 2a03:1b20:4:f011::fb01/128
-add mullvad_v6 2a03:1b20:4:f011::fd01/128
-add mullvad_v6 2a03:1b20:4:f011::fe01/128
 add mullvad_v6 2a03:1b20:5:f011::a05f/128
 add mullvad_v6 2a03:1b20:5:f011::a09f/128
 add mullvad_v6 2a03:1b20:5:f011::a10f/128
@@ -1001,9 +996,6 @@ add mullvad_v6 2a03:1b20:9:f011::f501/128
 add mullvad_v6 2a03:1b20:a:f011::f001/128
 add mullvad_v6 2a03:1b20:a:f011::f101/128
 add mullvad_v6 2a03:1b20:a:f011::f201/128
-add mullvad_v6 2a03:1b20:a:f011::f301/128
-add mullvad_v6 2a03:1b20:a:f011::f401/128
-add mullvad_v6 2a03:1b20:a:f011::f601/128
 add mullvad_v6 2a03:1b20:b:f011::a01f/128
 add mullvad_v6 2a03:1b20:b:f011::a02f/128
 add mullvad_v6 2a03:1b20:b:f011::f201/128

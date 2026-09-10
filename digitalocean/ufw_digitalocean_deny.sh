@@ -1,6 +1,6 @@
 #!/bin/bash
 # Digitalocean IP Ranges
-# Updated: 2026-07-25 03:11:34
+# Updated: 2026-09-10 02:27:49
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -180,7 +180,7 @@ ufw deny from 198.211.104.0/22
 ufw deny from 198.211.108.0/23
 ufw deny from 198.211.110.0/24
 ufw deny from 198.211.112.0/20
-ufw deny from 201.79.0.0/20
+ufw deny from 201.79.0.0/19
 ufw deny from 204.48.16.0/20
 ufw deny from 206.81.0.0/19
 ufw deny from 206.189.0.0/16

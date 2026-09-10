@@ -17,7 +17,6 @@ ip_address,ip_type,service,region
 31.13.89.0/24,IPv4,meta-as32934,global
 31.13.91.0/24,IPv4,meta-as32934,global
 31.13.94.0/24,IPv4,meta-as32934,global
-31.13.95.0/24,IPv4,meta-as32934,global
 31.13.96.0/19,IPv4,meta-as32934,global
 45.64.40.0/22,IPv4,meta-as32934,global
 57.141.0.0/24,IPv4,meta-as32934,global
@@ -398,7 +397,6 @@ ip_address,ip_type,service,region
 2a03:2880:f043::/48,IPv6,meta-as32934,global
 2a03:2880:f048::/48,IPv6,meta-as32934,global
 2a03:2880:f04a::/48,IPv6,meta-as32934,global
-2a03:2880:f04d::/48,IPv6,meta-as32934,global
 2a03:2880:f04e::/48,IPv6,meta-as32934,global
 2a03:2880:f050::/48,IPv6,meta-as32934,global
 2a03:2880:f052::/48,IPv6,meta-as32934,global

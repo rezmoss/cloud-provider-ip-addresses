@@ -122,6 +122,9 @@ INSERT INTO `aws_ap-southeast-5_ips` (`ip_address`, `ip_type`) VALUES ('2406:da6
 INSERT INTO `aws_ap-southeast-5_ips` (`ip_address`, `ip_type`) VALUES ('2406:da61:800::/40', 'IPv6');
 INSERT INTO `aws_ap-southeast-5_ips` (`ip_address`, `ip_type`) VALUES ('2406:da61:800::/40', 'IPv6');
 INSERT INTO `aws_ap-southeast-5_ips` (`ip_address`, `ip_type`) VALUES ('2406:da61:800::/40', 'IPv6');
+INSERT INTO `aws_ap-southeast-5_ips` (`ip_address`, `ip_type`) VALUES ('2406:da62:800::/40', 'IPv6');
+INSERT INTO `aws_ap-southeast-5_ips` (`ip_address`, `ip_type`) VALUES ('2406:da62:800::/40', 'IPv6');
+INSERT INTO `aws_ap-southeast-5_ips` (`ip_address`, `ip_type`) VALUES ('2406:da62:800::/40', 'IPv6');
 INSERT INTO `aws_ap-southeast-5_ips` (`ip_address`, `ip_type`) VALUES ('2406:da70:800::/40', 'IPv6');
 INSERT INTO `aws_ap-southeast-5_ips` (`ip_address`, `ip_type`) VALUES ('2406:da70:800::/40', 'IPv6');
 INSERT INTO `aws_ap-southeast-5_ips` (`ip_address`, `ip_type`) VALUES ('2406:daa0:800::/40', 'IPv6');
@@ -133,6 +136,9 @@ INSERT INTO `aws_ap-southeast-5_ips` (`ip_address`, `ip_type`) VALUES ('2406:dab
 INSERT INTO `aws_ap-southeast-5_ips` (`ip_address`, `ip_type`) VALUES ('2406:daba:800::/40', 'IPv6');
 INSERT INTO `aws_ap-southeast-5_ips` (`ip_address`, `ip_type`) VALUES ('2406:dabb:800::/40', 'IPv6');
 INSERT INTO `aws_ap-southeast-5_ips` (`ip_address`, `ip_type`) VALUES ('2406:dabb:800::/40', 'IPv6');
+INSERT INTO `aws_ap-southeast-5_ips` (`ip_address`, `ip_type`) VALUES ('2406:dae7:800::/40', 'IPv6');
+INSERT INTO `aws_ap-southeast-5_ips` (`ip_address`, `ip_type`) VALUES ('2406:dae7:800::/40', 'IPv6');
+INSERT INTO `aws_ap-southeast-5_ips` (`ip_address`, `ip_type`) VALUES ('2406:dae7:800::/40', 'IPv6');
 INSERT INTO `aws_ap-southeast-5_ips` (`ip_address`, `ip_type`) VALUES ('2406:dae8:800::/40', 'IPv6');
 INSERT INTO `aws_ap-southeast-5_ips` (`ip_address`, `ip_type`) VALUES ('2406:dae8:800::/40', 'IPv6');
 INSERT INTO `aws_ap-southeast-5_ips` (`ip_address`, `ip_type`) VALUES ('2406:dae9:800::/40', 'IPv6');

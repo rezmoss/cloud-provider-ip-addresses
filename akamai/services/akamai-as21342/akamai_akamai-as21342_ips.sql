@@ -58,6 +58,7 @@ INSERT INTO `akamai_akamai-as21342_ips` (`ip_address`, `ip_type`) VALUES ('95.10
 INSERT INTO `akamai_akamai-as21342_ips` (`ip_address`, `ip_type`) VALUES ('95.100.174.0/24', 'IPv4');
 INSERT INTO `akamai_akamai-as21342_ips` (`ip_address`, `ip_type`) VALUES ('95.100.175.0/24', 'IPv4');
 INSERT INTO `akamai_akamai-as21342_ips` (`ip_address`, `ip_type`) VALUES ('95.101.36.0/24', 'IPv4');
+INSERT INTO `akamai_akamai-as21342_ips` (`ip_address`, `ip_type`) VALUES ('95.101.76.0/24', 'IPv4');
 INSERT INTO `akamai_akamai-as21342_ips` (`ip_address`, `ip_type`) VALUES ('96.7.49.0/24', 'IPv4');
 INSERT INTO `akamai_akamai-as21342_ips` (`ip_address`, `ip_type`) VALUES ('96.7.50.0/24', 'IPv4');
 INSERT INTO `akamai_akamai-as21342_ips` (`ip_address`, `ip_type`) VALUES ('96.7.136.0/24', 'IPv4');
@@ -137,6 +138,7 @@ INSERT INTO `akamai_akamai-as21342_ips` (`ip_address`, `ip_type`) VALUES ('2600:
 INSERT INTO `akamai_akamai-as21342_ips` (`ip_address`, `ip_type`) VALUES ('2600:1480:4800::/48', 'IPv6');
 INSERT INTO `akamai_akamai-as21342_ips` (`ip_address`, `ip_type`) VALUES ('2600:1480:5801::/48', 'IPv6');
 INSERT INTO `akamai_akamai-as21342_ips` (`ip_address`, `ip_type`) VALUES ('2600:1480:5802::/48', 'IPv6');
+INSERT INTO `akamai_akamai-as21342_ips` (`ip_address`, `ip_type`) VALUES ('2600:1480:5804::/48', 'IPv6');
 INSERT INTO `akamai_akamai-as21342_ips` (`ip_address`, `ip_type`) VALUES ('2600:1480:5805::/48', 'IPv6');
 INSERT INTO `akamai_akamai-as21342_ips` (`ip_address`, `ip_type`) VALUES ('2600:1480:5809::/48', 'IPv6');
 INSERT INTO `akamai_akamai-as21342_ips` (`ip_address`, `ip_type`) VALUES ('2600:1480:580b::/48', 'IPv6');

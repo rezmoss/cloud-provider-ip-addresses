@@ -108,6 +108,9 @@ INSERT INTO `aws_ap-southeast-7_ips` (`ip_address`, `ip_type`) VALUES ('2406:da6
 INSERT INTO `aws_ap-southeast-7_ips` (`ip_address`, `ip_type`) VALUES ('2406:da61:4800::/40', 'IPv6');
 INSERT INTO `aws_ap-southeast-7_ips` (`ip_address`, `ip_type`) VALUES ('2406:da61:4800::/40', 'IPv6');
 INSERT INTO `aws_ap-southeast-7_ips` (`ip_address`, `ip_type`) VALUES ('2406:da61:4800::/40', 'IPv6');
+INSERT INTO `aws_ap-southeast-7_ips` (`ip_address`, `ip_type`) VALUES ('2406:da62:4800::/40', 'IPv6');
+INSERT INTO `aws_ap-southeast-7_ips` (`ip_address`, `ip_type`) VALUES ('2406:da62:4800::/40', 'IPv6');
+INSERT INTO `aws_ap-southeast-7_ips` (`ip_address`, `ip_type`) VALUES ('2406:da62:4800::/40', 'IPv6');
 INSERT INTO `aws_ap-southeast-7_ips` (`ip_address`, `ip_type`) VALUES ('2406:da70:4800::/40', 'IPv6');
 INSERT INTO `aws_ap-southeast-7_ips` (`ip_address`, `ip_type`) VALUES ('2406:da70:4800::/40', 'IPv6');
 INSERT INTO `aws_ap-southeast-7_ips` (`ip_address`, `ip_type`) VALUES ('2406:daa0:4800::/40', 'IPv6');
@@ -119,6 +122,9 @@ INSERT INTO `aws_ap-southeast-7_ips` (`ip_address`, `ip_type`) VALUES ('2406:dab
 INSERT INTO `aws_ap-southeast-7_ips` (`ip_address`, `ip_type`) VALUES ('2406:daba:4800::/40', 'IPv6');
 INSERT INTO `aws_ap-southeast-7_ips` (`ip_address`, `ip_type`) VALUES ('2406:dabb:4800::/40', 'IPv6');
 INSERT INTO `aws_ap-southeast-7_ips` (`ip_address`, `ip_type`) VALUES ('2406:dabb:4800::/40', 'IPv6');
+INSERT INTO `aws_ap-southeast-7_ips` (`ip_address`, `ip_type`) VALUES ('2406:dae7:4800::/40', 'IPv6');
+INSERT INTO `aws_ap-southeast-7_ips` (`ip_address`, `ip_type`) VALUES ('2406:dae7:4800::/40', 'IPv6');
+INSERT INTO `aws_ap-southeast-7_ips` (`ip_address`, `ip_type`) VALUES ('2406:dae7:4800::/40', 'IPv6');
 INSERT INTO `aws_ap-southeast-7_ips` (`ip_address`, `ip_type`) VALUES ('2406:dae8:4800::/40', 'IPv6');
 INSERT INTO `aws_ap-southeast-7_ips` (`ip_address`, `ip_type`) VALUES ('2406:dae8:4800::/40', 'IPv6');
 INSERT INTO `aws_ap-southeast-7_ips` (`ip_address`, `ip_type`) VALUES ('2406:dae9:4800::/40', 'IPv6');

@@ -1,5 +1,5 @@
 # gptbot IP ranges - ipset restore format (hash:net)
-# Version: 22 | Generated: 2026-09-09 | Last changed: 2026-09-09
+# Version: 22 | Generated: 2026-09-10 | Last changed: 2026-09-09
 # IPv4: 238 merged subnets, 41280 unique IPs
 # IPv6: 0 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses

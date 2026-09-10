@@ -1,23 +1,23 @@
 {
   "provider": "digitalocean",
-  "version": 3,
-  "generated_date": "2026-09-09",
-  "last_changed_date": "2026-07-25",
+  "version": 4,
+  "generated_date": "2026-09-10",
+  "last_changed_date": "2026-09-10",
   "sources": [
     "https://digitalocean.com/geo/google.csv"
   ],
   "ipv4": {
-    "cidrs": 1080,
+    "cidrs": 1081,
     "merged_cidrs": 181,
-    "addresses": 3119872
+    "addresses": 3123968
   },
   "ipv6": {
     "cidrs": 148,
     "merged_cidrs": 53,
     "addresses": 1211637490993464478793728
   },
-  "total_entries": 1228,
-  "content_sha256": "550c796bb77e6dcd74b2e01145544492714c906cb5ce55bcf2173df5f9d9aedb",
+  "total_entries": 1229,
+  "content_sha256": "a2a399d669b0d8971b1aa003665460ae3a4384bc0ecd3e8c8bfa44194026efc7",
   "license": "CC0-1.0",
   "license_url": "https://github.com/rezmoss/cloud-provider-ip-addresses/blob/main/LICENSE"
 }

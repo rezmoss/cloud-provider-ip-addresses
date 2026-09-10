@@ -1134,6 +1134,24 @@
     "region": "ap-northeast-3"
   },
   {
+    "ip_address": "2406:da62:6000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-northeast-3"
+  },
+  {
+    "ip_address": "2406:da62:6000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-northeast-3"
+  },
+  {
+    "ip_address": "2406:da62:6000::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "ap-northeast-3"
+  },
+  {
     "ip_address": "2406:da70:6000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -1203,6 +1221,24 @@
     "ip_address": "2406:dabb:6000::/40",
     "ip_type": "IPv6",
     "service": "EC2",
+    "region": "ap-northeast-3"
+  },
+  {
+    "ip_address": "2406:dae7:6000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-northeast-3"
+  },
+  {
+    "ip_address": "2406:dae7:6000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-northeast-3"
+  },
+  {
+    "ip_address": "2406:dae7:6000::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
     "region": "ap-northeast-3"
   },
   {

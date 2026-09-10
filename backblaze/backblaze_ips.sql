@@ -31,6 +31,7 @@ INSERT INTO `backblaze_ips` (`ip_address`, `ip_type`) VALUES ('149.137.142.0/24'
 INSERT INTO `backblaze_ips` (`ip_address`, `ip_type`) VALUES ('206.190.208.0/22', 'IPv4');
 INSERT INTO `backblaze_ips` (`ip_address`, `ip_type`) VALUES ('206.190.212.0/23', 'IPv4');
 INSERT INTO `backblaze_ips` (`ip_address`, `ip_type`) VALUES ('206.190.214.0/23', 'IPv4');
+INSERT INTO `backblaze_ips` (`ip_address`, `ip_type`) VALUES ('207.166.148.0/24', 'IPv4');
 INSERT INTO `backblaze_ips` (`ip_address`, `ip_type`) VALUES ('2605:72c0:100::/45', 'IPv6');
 INSERT INTO `backblaze_ips` (`ip_address`, `ip_type`) VALUES ('2605:72c0:100::/48', 'IPv6');
 INSERT INTO `backblaze_ips` (`ip_address`, `ip_type`) VALUES ('2605:72c0:103::/48', 'IPv6');

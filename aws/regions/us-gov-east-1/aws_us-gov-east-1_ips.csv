@@ -129,6 +129,9 @@ ip_address,ip_type,service,region
 2600:1f61:5000::/40,IPv6,AMAZON,us-gov-east-1
 2600:1f61:5000::/40,IPv6,EC2,us-gov-east-1
 2600:1f61:5000::/40,IPv6,S3,us-gov-east-1
+2600:1f62:5000::/40,IPv6,AMAZON,us-gov-east-1
+2600:1f62:5000::/40,IPv6,EC2,us-gov-east-1
+2600:1f62:5000::/40,IPv6,S3,us-gov-east-1
 2600:1f70:5000::/40,IPv6,AMAZON,us-gov-east-1
 2600:1f70:5000::/40,IPv6,EC2,us-gov-east-1
 2600:1fa0:5000::/40,IPv6,AMAZON,us-gov-east-1
@@ -140,6 +143,9 @@ ip_address,ip_type,service,region
 2600:1fba:5000::/40,IPv6,EC2,us-gov-east-1
 2600:1fbb:5000::/40,IPv6,AMAZON,us-gov-east-1
 2600:1fbb:5000::/40,IPv6,EC2,us-gov-east-1
+2600:1fe7:5000::/40,IPv6,AMAZON,us-gov-east-1
+2600:1fe7:5000::/40,IPv6,EC2,us-gov-east-1
+2600:1fe7:5000::/40,IPv6,S3,us-gov-east-1
 2600:1fe8:5000::/40,IPv6,AMAZON,us-gov-east-1
 2600:1fe8:5000::/40,IPv6,EC2,us-gov-east-1
 2600:1fe9:5000::/40,IPv6,AMAZON,us-gov-east-1

@@ -517,6 +517,9 @@ INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('43.92.64.0/1
 INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('43.92.128.0/17', 'IPv4');
 INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('43.92.128.0/18', 'IPv4');
 INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('43.92.192.0/18', 'IPv4');
+INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('43.93.0.0/17', 'IPv4');
+INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('43.93.0.0/18', 'IPv4');
+INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('43.93.64.0/18', 'IPv4');
 INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('43.96.0.0/24', 'IPv4');
 INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('43.96.3.0/24', 'IPv4');
 INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('43.96.4.0/24', 'IPv4');
@@ -1426,6 +1429,9 @@ INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('47.246.206.0
 INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('47.246.208.0/23', 'IPv4');
 INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('47.246.208.0/24', 'IPv4');
 INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('47.246.209.0/24', 'IPv4');
+INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('47.246.212.0/22', 'IPv4');
+INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('47.246.212.0/23', 'IPv4');
+INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('47.246.214.0/23', 'IPv4');
 INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('47.250.0.0/17', 'IPv4');
 INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('47.250.0.0/18', 'IPv4');
 INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('47.250.64.0/18', 'IPv4');
@@ -1943,9 +1949,7 @@ INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('170.33.84.0/
 INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('170.33.86.0/24', 'IPv4');
 INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('170.33.87.0/24', 'IPv4');
 INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('170.33.88.0/24', 'IPv4');
-INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('170.33.89.0/24', 'IPv4');
 INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('170.33.90.0/24', 'IPv4');
-INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('170.33.91.0/24', 'IPv4');
 INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('170.33.92.0/24', 'IPv4');
 INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('170.33.93.0/24', 'IPv4');
 INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('170.33.94.0/24', 'IPv4');

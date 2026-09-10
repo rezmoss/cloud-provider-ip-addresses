@@ -116,6 +116,9 @@ ip_address,ip_type,service,region
 2a05:d036:9000::/40,IPv6,EC2,eu-central-2
 2a05:d038:9000::/40,IPv6,AMAZON,eu-central-2
 2a05:d038:9000::/40,IPv6,EC2,eu-central-2
+2a05:d039:9000::/40,IPv6,AMAZON,eu-central-2
+2a05:d039:9000::/40,IPv6,EC2,eu-central-2
+2a05:d039:9000::/40,IPv6,S3,eu-central-2
 2a05:d03a:9000::/40,IPv6,AMAZON,eu-central-2
 2a05:d03a:9000::/40,IPv6,EC2,eu-central-2
 2a05:d040:9000::/40,IPv6,AMAZON,eu-central-2
@@ -131,6 +134,9 @@ ip_address,ip_type,service,region
 2a05:d05b:9000::/40,IPv6,EC2,eu-central-2
 2a05:d068:9000::/40,IPv6,AMAZON,eu-central-2
 2a05:d068:9000::/40,IPv6,EC2,eu-central-2
+2a05:d069:9000::/40,IPv6,AMAZON,eu-central-2
+2a05:d069:9000::/40,IPv6,EC2,eu-central-2
+2a05:d069:9000::/40,IPv6,S3,eu-central-2
 2a05:d06a:9000::/40,IPv6,AMAZON,eu-central-2
 2a05:d06a:9000::/40,IPv6,EC2,eu-central-2
 2a05:d06b:9000::/40,IPv6,AMAZON,eu-central-2

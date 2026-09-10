@@ -23,6 +23,7 @@ ip_address,ip_type,service,region
 206.190.208.0/22,IPv4,backblaze-as40401,global
 206.190.212.0/23,IPv4,backblaze-as40401,global
 206.190.214.0/23,IPv4,backblaze-as40401,global
+207.166.148.0/24,IPv4,backblaze-as40401,global
 2605:72c0:100::/45,IPv6,backblaze-as40401,global
 2605:72c0:100::/48,IPv6,backblaze-as40401,global
 2605:72c0:103::/48,IPv6,backblaze-as40401,global

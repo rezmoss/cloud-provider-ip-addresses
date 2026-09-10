@@ -1,6 +1,6 @@
 #!/bin/bash
 # Aws IP Ranges
-# Updated: 2026-08-29 02:21:36
+# Updated: 2026-09-10 02:26:18
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -8,7 +8,6 @@
 # iptables deny rules for aws
 
 iptables -A INPUT -s 1.178.19.0/24 -j DROP
-iptables -A INPUT -s 1.178.86.0/24 -j DROP
 iptables -A INPUT -s 3.2.98.0/24 -j DROP
 iptables -A INPUT -s 3.5.36.0/22 -j DROP
 iptables -A INPUT -s 13.248.71.0/24 -j DROP
@@ -63,11 +62,13 @@ ip6tables -A INPUT -s 2406:da36:9000::/40 -j DROP
 ip6tables -A INPUT -s 2406:da38:9000::/40 -j DROP
 ip6tables -A INPUT -s 2406:da60:9000::/40 -j DROP
 ip6tables -A INPUT -s 2406:da61:9000::/40 -j DROP
+ip6tables -A INPUT -s 2406:da62:9000::/40 -j DROP
 ip6tables -A INPUT -s 2406:da70:9000::/40 -j DROP
 ip6tables -A INPUT -s 2406:daa0:9000::/40 -j DROP
 ip6tables -A INPUT -s 2406:dab9:9000::/40 -j DROP
 ip6tables -A INPUT -s 2406:daba:9000::/40 -j DROP
 ip6tables -A INPUT -s 2406:dabb:9000::/40 -j DROP
+ip6tables -A INPUT -s 2406:dae7:9000::/40 -j DROP
 ip6tables -A INPUT -s 2406:dae8:9000::/40 -j DROP
 ip6tables -A INPUT -s 2406:dae9:9000::/40 -j DROP
 ip6tables -A INPUT -s 2406:daea:9000::/40 -j DROP

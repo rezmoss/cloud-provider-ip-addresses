@@ -702,6 +702,24 @@
     "region": "eu-central-2"
   },
   {
+    "ip_address": "2a05:d039:9000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eu-central-2"
+  },
+  {
+    "ip_address": "2a05:d039:9000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eu-central-2"
+  },
+  {
+    "ip_address": "2a05:d039:9000::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "eu-central-2"
+  },
+  {
     "ip_address": "2a05:d03a:9000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -789,6 +807,24 @@
     "ip_address": "2a05:d068:9000::/40",
     "ip_type": "IPv6",
     "service": "EC2",
+    "region": "eu-central-2"
+  },
+  {
+    "ip_address": "2a05:d069:9000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eu-central-2"
+  },
+  {
+    "ip_address": "2a05:d069:9000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eu-central-2"
+  },
+  {
+    "ip_address": "2a05:d069:9000::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
     "region": "eu-central-2"
   },
   {

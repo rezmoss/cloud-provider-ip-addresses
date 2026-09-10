@@ -162,10 +162,22 @@
     "region": "us-west-1"
   },
   {
+    "ip_address": "2600:1f33:c200::/40",
+    "ip_type": "IPv6",
+    "service": "IOT_CORE",
+    "region": "us-west-2"
+  },
+  {
     "ip_address": "2600:1f33:e000::/40",
     "ip_type": "IPv6",
     "service": "IOT_CORE",
     "region": "sa-east-1"
+  },
+  {
+    "ip_address": "2600:1f33:e200::/40",
+    "ip_type": "IPv6",
+    "service": "IOT_CORE",
+    "region": "ca-central-1"
   },
   {
     "ip_address": "2600:1f33:ec00::/40",
@@ -198,6 +210,12 @@
     "region": "eu-central-1"
   },
   {
+    "ip_address": "2a05:d033:4800::/40",
+    "ip_type": "IPv6",
+    "service": "IOT_CORE",
+    "region": "eu-central-1"
+  },
+  {
     "ip_address": "2a05:d033:5000::/40",
     "ip_type": "IPv6",
     "service": "IOT_CORE",
@@ -214,6 +232,12 @@
     "ip_type": "IPv6",
     "service": "IOT_CORE",
     "region": "eu-west-1"
+  },
+  {
+    "ip_address": "2a05:d033:8800::/40",
+    "ip_type": "IPv6",
+    "service": "IOT_CORE",
+    "region": "eu-north-1"
   },
   {
     "ip_address": "2a05:d033:9000::/40",
