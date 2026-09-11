@@ -3378,6 +3378,12 @@
     "region": "global"
   },
   {
+    "ip_address": "2a11:bb40::/29",
+    "ip_type": "IPv6",
+    "service": "leaseweb-as60781",
+    "region": "global"
+  },
+  {
     "ip_address": "2a12:ac43:11::/48",
     "ip_type": "IPv6",
     "service": "leaseweb-as60781",

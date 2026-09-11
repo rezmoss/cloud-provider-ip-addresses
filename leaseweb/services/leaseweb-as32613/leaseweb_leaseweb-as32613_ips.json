@@ -360,12 +360,6 @@
     "region": "global"
   },
   {
-    "ip_address": "205.210.146.0/24",
-    "ip_type": "IPv4",
-    "service": "leaseweb-as32613",
-    "region": "global"
-  },
-  {
     "ip_address": "205.236.34.0/24",
     "ip_type": "IPv4",
     "service": "leaseweb-as32613",

@@ -468,6 +468,12 @@
     "region": "global"
   },
   {
+    "ip_address": "2.16.148.0/22",
+    "ip_type": "IPv4",
+    "service": "akamai-as20940",
+    "region": "global"
+  },
+  {
     "ip_address": "2.16.152.0/24",
     "ip_type": "IPv4",
     "service": "akamai-as20940",
@@ -1105,6 +1111,12 @@
   },
   {
     "ip_address": "2.17.251.0/24",
+    "ip_type": "IPv4",
+    "service": "akamai-as20940",
+    "region": "global"
+  },
+  {
+    "ip_address": "2.17.252.0/22",
     "ip_type": "IPv4",
     "service": "akamai-as20940",
     "region": "global"

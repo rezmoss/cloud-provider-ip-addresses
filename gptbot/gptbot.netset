@@ -1,6 +1,6 @@
 # gptbot IP ranges - ipset restore format (hash:net)
-# Version: 22 | Generated: 2026-09-10 | Last changed: 2026-09-09
-# IPv4: 238 merged subnets, 41280 unique IPs
+# Version: 23 | Generated: 2026-09-11 | Last changed: 2026-09-11
+# IPv4: 242 merged subnets, 41344 unique IPs
 # IPv6: 0 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
@@ -41,6 +41,7 @@ add gptbot_v4 9.223.181.208/28
 add gptbot_v4 9.234.96.192/28
 add gptbot_v4 9.234.97.96/28
 add gptbot_v4 13.65.138.112/28
+add gptbot_v4 13.66.216.176/28
 add gptbot_v4 13.67.72.16/28
 add gptbot_v4 13.71.2.208/28
 add gptbot_v4 13.76.32.208/28
@@ -108,6 +109,7 @@ add gptbot_v4 23.98.186.176/28
 add gptbot_v4 23.98.186.192/28
 add gptbot_v4 23.102.140.144/28
 add gptbot_v4 23.102.141.32/28
+add gptbot_v4 23.102.145.48/28
 add gptbot_v4 40.67.175.0/25
 add gptbot_v4 40.74.200.208/28
 add gptbot_v4 40.81.67.96/28
@@ -233,6 +235,8 @@ add gptbot_v4 172.192.112.208/28
 add gptbot_v4 172.197.160.192/28
 add gptbot_v4 172.197.203.16/28
 add gptbot_v4 172.199.137.80/28
+add gptbot_v4 172.203.190.80/28
+add gptbot_v4 172.203.190.112/28
 add gptbot_v4 172.203.190.128/28
 add gptbot_v4 172.204.28.224/28
 add gptbot_v4 172.204.96.80/28

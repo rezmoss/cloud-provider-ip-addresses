@@ -1941,10 +1941,6 @@ ip_address,ip_type,service,region
 170.33.84.0/24,IPv4,alibaba-as45102,global
 170.33.86.0/24,IPv4,alibaba-as134963,global
 170.33.87.0/24,IPv4,alibaba-as134963,global
-170.33.88.0/24,IPv4,alibaba-as45102,global
-170.33.90.0/24,IPv4,alibaba-as45102,global
-170.33.92.0/24,IPv4,alibaba-as45102,global
-170.33.93.0/24,IPv4,alibaba-as45102,global
 170.33.94.0/24,IPv4,alibaba-as134963,global
 170.33.96.0/24,IPv4,alibaba-as134963,global
 170.33.97.0/24,IPv4,alibaba-as134963,global
@@ -2000,6 +1996,7 @@ ip_address,ip_type,service,region
 203.107.3.0/24,IPv4,alibaba-as45102,global
 203.107.6.0/24,IPv4,alibaba-as37963,global
 203.107.13.0/24,IPv4,alibaba-as37963,global
+203.107.14.0/24,IPv4,alibaba-as37963,global
 203.107.20.0/24,IPv4,alibaba-as37963,global
 203.107.21.0/24,IPv4,alibaba-as37963,global
 203.107.22.0/24,IPv4,alibaba-as37963,global
@@ -2178,7 +2175,7 @@ ip_address,ip_type,service,region
 2401:2e00:200::/41,IPv6,alibaba-as37963,global
 2401:2e00:280::/41,IPv6,alibaba-as37963,global
 2401:8680:4004::/46,IPv6,alibaba-as134963,global
-2401:8680:4100::/48,IPv6,alibaba-as45102,global
+2401:8680:4100::/48,IPv6,alibaba-as134963,global
 2401:8680:4101::/48,IPv6,alibaba-as134963,global
 2401:8680:4102::/48,IPv6,alibaba-as45102,global
 2401:b180::/32,IPv6,alibaba-as37963,global

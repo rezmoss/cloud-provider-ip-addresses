@@ -306,12 +306,6 @@
     "region": "global"
   },
   {
-    "ip_address": "109.71.54.0/23",
-    "ip_type": "IPv4",
-    "service": "upcloud-as202053",
-    "region": "global"
-  },
-  {
     "ip_address": "109.71.54.0/24",
     "ip_type": "IPv4",
     "service": "upcloud-as202053",

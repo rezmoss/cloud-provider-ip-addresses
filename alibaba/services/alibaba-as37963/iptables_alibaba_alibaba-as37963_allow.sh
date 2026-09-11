@@ -1,6 +1,6 @@
 #!/bin/bash
 # Alibaba IP Ranges
-# Updated: 2026-08-22 02:31:53
+# Updated: 2026-09-11 02:29:58
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -87,6 +87,7 @@ iptables -A INPUT -s 182.92.0.0/16 -j ACCEPT
 iptables -A INPUT -s 203.107.1.0/24 -j ACCEPT
 iptables -A INPUT -s 203.107.6.0/24 -j ACCEPT
 iptables -A INPUT -s 203.107.13.0/24 -j ACCEPT
+iptables -A INPUT -s 203.107.14.0/24 -j ACCEPT
 iptables -A INPUT -s 203.107.20.0/22 -j ACCEPT
 iptables -A INPUT -s 203.107.26.0/23 -j ACCEPT
 iptables -A INPUT -s 203.107.28.0/22 -j ACCEPT

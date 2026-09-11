@@ -5,6 +5,11 @@
     "service": "searchbot"
   },
   {
+    "ip_address": "13.66.216.176/28",
+    "ip_type": "IPv4",
+    "service": "searchbot"
+  },
+  {
     "ip_address": "20.14.99.96/28",
     "ip_type": "IPv4",
     "service": "searchbot"
@@ -46,6 +51,11 @@
   },
   {
     "ip_address": "20.171.123.64/28",
+    "ip_type": "IPv4",
+    "service": "searchbot"
+  },
+  {
+    "ip_address": "23.102.145.48/28",
     "ip_type": "IPv4",
     "service": "searchbot"
   },
@@ -166,6 +176,16 @@
   },
   {
     "ip_address": "172.182.224.0/28",
+    "ip_type": "IPv4",
+    "service": "searchbot"
+  },
+  {
+    "ip_address": "172.203.190.80/28",
+    "ip_type": "IPv4",
+    "service": "searchbot"
+  },
+  {
+    "ip_address": "172.203.190.112/28",
     "ip_type": "IPv4",
     "service": "searchbot"
   },

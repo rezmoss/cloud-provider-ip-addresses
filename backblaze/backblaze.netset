@@ -1,5 +1,5 @@
 # backblaze IP ranges - ipset restore format (hash:net)
-# Version: 6 | Generated: 2026-09-10 | Last changed: 2026-09-10
+# Version: 6 | Generated: 2026-09-11 | Last changed: 2026-09-10
 # IPv4: 9 merged subnets, 9472 unique IPs
 # IPv6: 17 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses

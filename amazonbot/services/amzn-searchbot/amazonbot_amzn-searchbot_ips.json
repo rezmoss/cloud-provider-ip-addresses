@@ -20,6 +20,11 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "3.86.74.89/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "3.89.17.222/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
@@ -40,7 +45,27 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "3.91.142.95/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "3.91.164.253/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "3.92.140.162/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "3.93.116.95/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "3.93.120.17/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
@@ -50,12 +75,32 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "3.208.37.94/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "3.208.113.39/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "3.209.57.4/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "3.209.71.33/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "3.209.162.193/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "3.210.17.17/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
@@ -85,6 +130,16 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "3.211.158.39/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "3.211.227.132/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "3.212.138.251/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
@@ -95,12 +150,32 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "3.213.103.242/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "3.213.110.122/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "3.213.117.114/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "3.213.253.252/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
   {
     "ip_address": "3.214.51.149/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "3.214.131.136/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
@@ -125,12 +200,57 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "3.216.26.183/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "3.216.221.144/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "3.216.244.57/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "3.216.253.252/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "3.217.20.26/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "3.217.34.58/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "3.217.34.183/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "3.217.63.43/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "3.217.66.30/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "3.217.161.64/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "3.218.2.114/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
@@ -150,6 +270,26 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "3.219.192.12/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "3.219.223.95/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "3.220.71.23/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "3.221.35.158/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "3.221.56.120/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
@@ -165,7 +305,22 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "3.221.121.46/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "3.221.167.25/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "3.221.254.28/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "3.222.16.22/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
@@ -185,6 +340,11 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "3.222.252.213/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "3.223.42.33/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
@@ -196,6 +356,11 @@
   },
   {
     "ip_address": "3.223.139.87/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "3.223.155.74/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
@@ -220,6 +385,16 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "3.224.159.71/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "3.224.205.7/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "3.224.216.148/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
@@ -230,7 +405,17 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "3.225.136.217/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "3.225.200.77/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "3.225.209.122/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
@@ -255,6 +440,11 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "3.226.229.153/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "3.227.142.177/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
@@ -265,7 +455,17 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "3.228.117.65/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "3.228.151.92/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "3.228.206.225/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
@@ -290,12 +490,52 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "3.230.179.91/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "3.230.230.154/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "3.230.250.35/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "3.230.253.54/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
   {
     "ip_address": "3.231.178.162/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "3.231.188.44/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "3.232.18.244/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "3.232.204.221/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "3.232.253.211/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "3.233.175.168/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
@@ -320,6 +560,11 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "13.216.24.101/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "13.216.102.104/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
@@ -340,7 +585,17 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "13.219.152.101/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "13.219.170.211/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "13.219.196.61/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
@@ -380,6 +635,11 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "18.205.44.190/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "18.205.140.254/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
@@ -395,6 +655,11 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "18.206.66.34/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "18.206.69.92/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
@@ -405,7 +670,17 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "18.207.88.6/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "18.208.43.113/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "18.208.95.0/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
@@ -425,12 +700,27 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "18.210.45.73/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "18.210.115.131/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
   {
     "ip_address": "18.210.225.20/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "18.211.141.154/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "18.213.84.33/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
@@ -460,6 +750,11 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "18.214.186.114/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "18.214.206.100/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
@@ -480,6 +775,11 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "18.215.215.162/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "18.233.44.129/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
@@ -495,12 +795,22 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "18.234.249.23/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "18.235.234.69/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
   {
     "ip_address": "23.20.194.146/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "23.21.30.253/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
@@ -520,6 +830,11 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "23.21.236.157/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "23.21.254.26/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
@@ -535,7 +850,17 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "23.22.246.84/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "23.23.97.185/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "23.23.138.175/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
@@ -560,6 +885,51 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "32.193.207.248/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "32.193.230.132/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "32.194.42.66/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "32.196.238.12/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "32.197.85.247/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "32.197.106.56/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "32.198.161.214/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "32.199.114.136/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "32.199.225.217/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "34.192.94.60/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
@@ -580,6 +950,11 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "34.193.137.18/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "34.193.176.214/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
@@ -595,12 +970,22 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "34.194.165.188/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "34.194.196.150/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
   {
     "ip_address": "34.194.236.194/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "34.194.237.29/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
@@ -616,6 +1001,11 @@
   },
   {
     "ip_address": "34.195.194.181/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "34.196.22.75/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
@@ -640,12 +1030,27 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "34.197.154.32/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "34.197.240.80/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
   {
     "ip_address": "34.197.246.201/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "34.198.33.203/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "34.198.41.184/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
@@ -660,12 +1065,32 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "34.199.0.168/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "34.199.2.135/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
   {
     "ip_address": "34.199.111.130/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "34.199.134.92/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "34.200.55.56/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "34.200.59.71/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
@@ -690,6 +1115,11 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "34.201.230.145/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "34.203.29.230/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
@@ -710,12 +1140,22 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "34.204.145.175/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "34.204.234.171/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
   {
     "ip_address": "34.206.13.250/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "34.206.127.169/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
@@ -745,6 +1185,11 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "34.224.43.52/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "34.224.104.19/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
@@ -755,12 +1200,27 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "34.224.242.232/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "34.225.204.15/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "34.225.220.51/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "34.225.241.157/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "34.226.77.125/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
@@ -771,6 +1231,11 @@
   },
   {
     "ip_address": "34.226.176.13/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "34.227.89.68/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
@@ -795,7 +1260,27 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "34.229.27.119/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "34.229.55.190/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "34.230.225.128/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "34.231.91.210/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "34.231.191.101/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
@@ -810,7 +1295,22 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "34.233.138.154/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "34.233.177.9/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "34.233.191.178/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "34.233.249.54/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
@@ -825,7 +1325,22 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "34.234.182.15/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "34.234.221.209/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "34.235.6.168/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "34.235.19.146/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
@@ -835,12 +1350,27 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "34.235.227.102/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "34.236.65.219/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "34.236.66.23/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "34.236.163.131/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "34.237.22.79/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
@@ -865,7 +1395,17 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "34.238.75.183/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "34.238.132.4/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "34.239.77.160/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
@@ -881,6 +1421,11 @@
   },
   {
     "ip_address": "34.239.253.240/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "35.153.187.89/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
@@ -915,7 +1460,22 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "35.169.2.149/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "35.169.74.227/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "35.169.106.154/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "35.169.110.137/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
@@ -925,12 +1485,52 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "35.170.105.219/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "35.170.123.50/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "35.170.123.152/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "35.171.37.0/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "35.171.77.201/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "35.171.190.227/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "35.171.199.44/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "35.171.200.29/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "35.172.15.28/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "35.172.125.46/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
@@ -945,7 +1545,17 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "35.173.123.161/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "35.174.28.56/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "35.175.65.253/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
@@ -960,7 +1570,17 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "44.193.96.92/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "44.194.47.12/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "44.194.84.22/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
@@ -975,12 +1595,42 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "44.195.71.32/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "44.195.217.176/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "44.196.9.78/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "44.196.83.48/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "44.196.116.215/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "44.196.118.139/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "44.196.235.241/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "44.197.4.190/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
@@ -1015,6 +1665,11 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "44.205.173.56/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "44.205.208.84/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
@@ -1040,6 +1695,16 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "44.208.55.64/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "44.208.90.52/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "44.208.239.245/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
@@ -1051,6 +1716,16 @@
   },
   {
     "ip_address": "44.209.167.138/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "44.209.243.164/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "44.210.22.203/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
@@ -1090,12 +1765,47 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "44.212.202.62/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "44.212.207.23/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "44.212.241.192/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "44.212.251.138/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "44.213.56.230/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "44.213.206.151/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "44.213.211.166/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "44.213.228.74/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "44.213.241.45/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
@@ -1110,7 +1820,22 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "44.215.159.243/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "44.215.171.38/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "44.216.105.237/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "44.216.173.42/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
@@ -1120,7 +1845,22 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "44.216.239.225/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "44.217.43.241/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "44.217.64.212/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "44.217.156.115/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
@@ -1140,7 +1880,17 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "44.217.223.236/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "44.217.237.69/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "44.217.251.254/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
@@ -1151,6 +1901,21 @@
   },
   {
     "ip_address": "44.218.61.226/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "44.218.248.140/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "44.218.253.125/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "44.219.149.9/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
@@ -1180,6 +1945,11 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "44.221.244.76/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "44.223.253.120/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
@@ -1190,7 +1960,17 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "50.19.98.34/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "50.19.173.230/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "52.0.114.157/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
@@ -1200,7 +1980,42 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "52.0.236.109/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "52.1.97.122/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "52.1.233.104/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "52.2.191.37/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "52.3.17.185/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "52.3.30.234/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "52.3.62.173/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "52.3.91.235/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
@@ -1235,6 +2050,11 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "52.5.45.215/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "52.5.113.11/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
@@ -1250,6 +2070,11 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "52.6.57.17/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "52.6.171.10/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
@@ -1261,6 +2086,11 @@
   },
   {
     "ip_address": "52.6.231.0/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "52.7.48.229/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
@@ -1300,7 +2130,17 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "52.20.124.247/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "52.20.158.171/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "52.20.234.254/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
@@ -1325,7 +2165,27 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "52.22.75.143/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "52.22.233.217/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "52.23.69.1/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "52.44.115.134/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "52.44.199.164/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
@@ -1340,7 +2200,22 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "52.45.211.110/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "52.54.130.150/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "52.55.107.99/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "52.70.16.42/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
@@ -1365,6 +2240,21 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "52.71.72.39/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "52.71.144.112/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "52.71.159.156/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "52.71.205.86/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
@@ -1385,12 +2275,37 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "52.87.75.190/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "52.87.216.218/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "52.200.64.94/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "52.200.125.80/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "52.200.198.83/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "52.200.202.121/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "52.200.244.204/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
@@ -1401,6 +2316,21 @@
   },
   {
     "ip_address": "52.201.77.2/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "52.201.114.98/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "52.201.149.75/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "52.202.15.97/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
@@ -1420,6 +2350,11 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "52.202.234.14/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "52.203.139.107/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
@@ -1431,6 +2366,11 @@
   },
   {
     "ip_address": "52.204.1.121/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "52.204.203.171/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
@@ -1470,6 +2410,16 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "52.207.43.63/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "54.80.143.10/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "54.81.2.245/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
@@ -1495,6 +2445,11 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "54.83.18.137/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "54.83.58.194/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
@@ -1515,7 +2470,17 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "54.84.83.113/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "54.84.160.219/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "54.84.185.230/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
@@ -1530,7 +2495,22 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "54.85.178.213/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "54.87.216.234/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "54.87.255.90/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "54.88.60.135/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
@@ -1575,7 +2555,17 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "54.91.249.2/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "54.92.148.34/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "54.92.203.235/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
@@ -1591,6 +2581,21 @@
   },
   {
     "ip_address": "54.146.71.85/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "54.147.14.240/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "54.147.66.130/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "54.147.119.34/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
@@ -1620,7 +2625,17 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "54.158.154.192/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "54.159.237.70/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "54.160.45.52/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
@@ -1640,7 +2655,17 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "54.162.153.212/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "54.163.22.228/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "54.163.82.179/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
@@ -1661,6 +2686,11 @@
   },
   {
     "ip_address": "54.165.202.67/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "54.165.205.16/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
@@ -1695,12 +2725,22 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "54.172.50.210/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "54.172.92.66/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
   {
     "ip_address": "54.172.176.34/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "54.173.156.58/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
@@ -1715,12 +2755,37 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "54.174.127.227/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "54.174.161.242/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "54.175.167.28/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "54.196.187.118/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "54.204.10.196/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "54.204.14.125/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "54.204.105.49/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
@@ -1750,12 +2815,27 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "54.208.186.113/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "54.208.229.84/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "54.209.33.199/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
   {
     "ip_address": "54.209.59.28/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "54.209.67.252/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
@@ -1770,12 +2850,32 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "54.210.47.231/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "54.210.51.122/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "54.221.233.6/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "54.224.159.224/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "54.225.210.250/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "54.225.211.168/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
@@ -1800,7 +2900,17 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "54.227.250.126/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "54.234.109.91/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "54.234.156.138/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
@@ -1820,7 +2930,27 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "54.236.77.176/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "54.236.90.239/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "54.236.146.97/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "54.236.180.98/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "54.236.184.238/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
@@ -1865,12 +2995,22 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "54.243.211.63/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "72.44.45.175/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
   {
     "ip_address": "75.101.144.251/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "98.80.36.221/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
@@ -1890,12 +3030,37 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "98.82.78.131/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "98.82.83.103/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "98.82.193.30/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "98.82.238.39/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
   {
     "ip_address": "98.83.194.21/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "98.83.194.176/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "98.84.79.84/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
@@ -1925,6 +3090,11 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "98.85.194.38/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "98.86.33.14/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
@@ -1936,6 +3106,16 @@
   },
   {
     "ip_address": "98.86.69.65/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "98.86.83.164/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "98.86.93.251/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
@@ -1955,6 +3135,11 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "98.87.182.1/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "98.87.203.235/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
@@ -1966,6 +3151,11 @@
   },
   {
     "ip_address": "98.88.3.219/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "98.88.4.13/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
@@ -1995,7 +3185,22 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "98.88.180.222/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "98.88.186.79/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "98.88.219.59/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "98.88.224.25/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
@@ -2115,6 +3320,11 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "98.91.9.192/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "98.91.81.246/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
@@ -2155,6 +3365,16 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "98.91.171.8/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "98.94.116.10/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "98.94.126.135/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
@@ -2186,6 +3406,11 @@
   },
   {
     "ip_address": "98.94.174.228/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "98.94.180.226/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
@@ -2240,12 +3465,22 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "98.94.225.207/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "98.94.228.253/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
   {
     "ip_address": "98.94.237.222/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "98.94.240.137/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
@@ -2420,6 +3655,11 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "98.95.159.241/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "98.95.161.76/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
@@ -2470,6 +3710,11 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "100.25.199.161/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "100.26.122.24/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
@@ -2485,6 +3730,11 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "100.28.177.247/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "100.29.59.194/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
@@ -2495,7 +3745,182 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "100.31.22.225/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "100.31.34.200/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "100.48.0.143/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "100.48.137.73/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "100.48.162.26/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "100.49.196.199/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "100.50.44.58/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "100.50.76.106/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "100.50.108.84/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "100.50.153.151/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "100.51.22.85/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "100.51.81.206/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "100.51.156.79/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "100.52.70.176/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "100.55.111.152/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "100.55.191.83/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "100.56.25.168/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "100.57.68.185/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "100.58.26.90/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "100.58.39.170/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "100.58.52.102/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "100.58.57.149/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "100.58.58.209/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "100.59.72.83/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "100.59.254.242/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "100.60.14.30/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "100.60.123.70/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "100.60.141.252/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "100.60.170.171/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "100.60.204.184/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "100.60.204.250/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "100.61.92.1/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "100.62.13.116/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "100.62.157.123/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "100.62.179.212/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "100.62.186.188/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
@@ -2535,12 +3960,27 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "107.22.6.189/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "107.22.145.162/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "107.22.199.65/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "107.23.25.176/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "107.23.41.220/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   },
@@ -2555,7 +3995,87 @@
     "service": "amzn-searchbot"
   },
   {
+    "ip_address": "184.73.10.164/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
     "ip_address": "184.73.154.145/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "184.192.3.139/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "184.192.68.254/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "184.192.125.80/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "184.192.132.1/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "184.192.160.224/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "184.192.172.115/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "184.192.201.21/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "184.192.207.91/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "184.192.211.188/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "184.192.212.181/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "184.192.213.86/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "184.192.213.200/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "184.192.214.49/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "184.192.214.62/32",
+    "ip_type": "IPv4",
+    "service": "amzn-searchbot"
+  },
+  {
+    "ip_address": "184.192.215.194/32",
     "ip_type": "IPv4",
     "service": "amzn-searchbot"
   }

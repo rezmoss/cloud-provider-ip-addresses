@@ -996,6 +996,12 @@
     "region": "global"
   },
   {
+    "ip_address": "148.62.86.0/24",
+    "ip_type": "IPv4",
+    "service": "rackspace-as15395",
+    "region": "global"
+  },
+  {
     "ip_address": "151.106.224.0/22",
     "ip_type": "IPv4",
     "service": "rackspace-as33070",

@@ -1326,6 +1326,12 @@
     "region": "global"
   },
   {
+    "ip_address": "2401:8680:4100::/48",
+    "ip_type": "IPv6",
+    "service": "alibaba-as134963",
+    "region": "global"
+  },
+  {
     "ip_address": "2401:8680:4101::/48",
     "ip_type": "IPv6",
     "service": "alibaba-as134963",

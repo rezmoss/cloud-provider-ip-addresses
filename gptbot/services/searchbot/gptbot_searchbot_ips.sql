@@ -7,6 +7,7 @@ CREATE TABLE IF NOT EXISTS `gptbot_searchbot_ips` (
 );
 
 INSERT INTO `gptbot_searchbot_ips` (`ip_address`, `ip_type`) VALUES ('4.227.36.0/25', 'IPv4');
+INSERT INTO `gptbot_searchbot_ips` (`ip_address`, `ip_type`) VALUES ('13.66.216.176/28', 'IPv4');
 INSERT INTO `gptbot_searchbot_ips` (`ip_address`, `ip_type`) VALUES ('20.14.99.96/28', 'IPv4');
 INSERT INTO `gptbot_searchbot_ips` (`ip_address`, `ip_type`) VALUES ('20.25.151.224/28', 'IPv4');
 INSERT INTO `gptbot_searchbot_ips` (`ip_address`, `ip_type`) VALUES ('20.42.10.176/28', 'IPv4');
@@ -16,6 +17,7 @@ INSERT INTO `gptbot_searchbot_ips` (`ip_address`, `ip_type`) VALUES ('20.169.7.4
 INSERT INTO `gptbot_searchbot_ips` (`ip_address`, `ip_type`) VALUES ('20.169.77.0/25', 'IPv4');
 INSERT INTO `gptbot_searchbot_ips` (`ip_address`, `ip_type`) VALUES ('20.171.53.224/28', 'IPv4');
 INSERT INTO `gptbot_searchbot_ips` (`ip_address`, `ip_type`) VALUES ('20.171.123.64/28', 'IPv4');
+INSERT INTO `gptbot_searchbot_ips` (`ip_address`, `ip_type`) VALUES ('23.102.145.48/28', 'IPv4');
 INSERT INTO `gptbot_searchbot_ips` (`ip_address`, `ip_type`) VALUES ('40.67.175.0/25', 'IPv4');
 INSERT INTO `gptbot_searchbot_ips` (`ip_address`, `ip_type`) VALUES ('40.90.214.16/28', 'IPv4');
 INSERT INTO `gptbot_searchbot_ips` (`ip_address`, `ip_type`) VALUES ('51.8.102.0/24', 'IPv4');
@@ -40,4 +42,6 @@ INSERT INTO `gptbot_searchbot_ips` (`ip_address`, `ip_type`) VALUES ('172.182.20
 INSERT INTO `gptbot_searchbot_ips` (`ip_address`, `ip_type`) VALUES ('172.182.211.192/28', 'IPv4');
 INSERT INTO `gptbot_searchbot_ips` (`ip_address`, `ip_type`) VALUES ('172.182.213.192/28', 'IPv4');
 INSERT INTO `gptbot_searchbot_ips` (`ip_address`, `ip_type`) VALUES ('172.182.224.0/28', 'IPv4');
+INSERT INTO `gptbot_searchbot_ips` (`ip_address`, `ip_type`) VALUES ('172.203.190.80/28', 'IPv4');
+INSERT INTO `gptbot_searchbot_ips` (`ip_address`, `ip_type`) VALUES ('172.203.190.112/28', 'IPv4');
 INSERT INTO `gptbot_searchbot_ips` (`ip_address`, `ip_type`) VALUES ('172.203.190.128/28', 'IPv4');

@@ -1,6 +1,6 @@
 # Amazonbot IP Ranges (Auto-Updated Daily)
 
-> Last updated: **2026-09-10** · Total CIDRs: **2,059** · IPv4: **2,059** · IPv6: **0** · Services: **3**
+> Last updated: **2026-09-11** · Total CIDRs: **3,131** · IPv4: **3,131** · IPv6: **0** · Services: **3**
 
 Machine-readable, daily-updated, validated public IP ranges for **Amazonbot**.
 Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and Apache.
@@ -28,11 +28,11 @@ Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and
 ### Sample (first 5 CIDRs, sorted)
 
 ```
+100.24.134.117/32
 100.24.149.244/32
 100.24.167.60/32
 100.24.190.202/32
 100.24.86.21/32
-100.24.94.158/32
 ```
 
 ## Per-service breakdown

@@ -1,25 +1,25 @@
 {
   "provider": "amazonbot",
-  "version": 1,
-  "generated_date": "2026-09-10",
-  "last_changed_date": "2026-06-18",
+  "version": 2,
+  "generated_date": "2026-09-11",
+  "last_changed_date": "2026-09-11",
   "sources": [
     "https://developer.amazon.com/amazonbot/ip-addresses/",
     "https://developer.amazon.com/amazonbot/searchbot-ip-addresses/",
     "https://developer.amazon.com/amazonbot/live-ip-addresses/"
   ],
   "ipv4": {
-    "cidrs": 2059,
-    "merged_cidrs": 2059,
-    "addresses": 2059
+    "cidrs": 3131,
+    "merged_cidrs": 3131,
+    "addresses": 3131
   },
   "ipv6": {
     "cidrs": 0,
     "merged_cidrs": 0,
     "addresses": 0
   },
-  "total_entries": 2059,
-  "content_sha256": "d1fd28112a32f6102af45a8eaafd87985cebee28669b1341d5e44975827fcde9",
+  "total_entries": 3131,
+  "content_sha256": "42ba0857de70494eaee1736aa1ba291b4cdec488676d16af7b9ca364ad15ea46",
   "license": "CC0-1.0",
   "license_url": "https://github.com/rezmoss/cloud-provider-ip-addresses/blob/main/LICENSE"
 }

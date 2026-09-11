@@ -29,6 +29,7 @@ INSERT INTO `rackspace_rackspace-as15395_ips` (`ip_address`, `ip_type`) VALUES (
 INSERT INTO `rackspace_rackspace-as15395_ips` (`ip_address`, `ip_type`) VALUES ('134.213.0.0/16', 'IPv4');
 INSERT INTO `rackspace_rackspace-as15395_ips` (`ip_address`, `ip_type`) VALUES ('146.177.0.0/16', 'IPv4');
 INSERT INTO `rackspace_rackspace-as15395_ips` (`ip_address`, `ip_type`) VALUES ('147.75.20.0/22', 'IPv4');
+INSERT INTO `rackspace_rackspace-as15395_ips` (`ip_address`, `ip_type`) VALUES ('148.62.86.0/24', 'IPv4');
 INSERT INTO `rackspace_rackspace-as15395_ips` (`ip_address`, `ip_type`) VALUES ('162.13.0.0/16', 'IPv4');
 INSERT INTO `rackspace_rackspace-as15395_ips` (`ip_address`, `ip_type`) VALUES ('164.138.226.0/24', 'IPv4');
 INSERT INTO `rackspace_rackspace-as15395_ips` (`ip_address`, `ip_type`) VALUES ('164.177.128.0/19', 'IPv4');
