@@ -1380,42 +1380,6 @@
     "region": "ap-south-1"
   },
   {
-    "ip_address": "64.73.214.0/24",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "ap-south-1"
-  },
-  {
-    "ip_address": "64.73.214.0/24",
-    "ip_type": "IPv4",
-    "service": "EC2",
-    "region": "ap-south-1"
-  },
-  {
-    "ip_address": "64.73.215.0/24",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "ap-south-1"
-  },
-  {
-    "ip_address": "64.73.215.0/24",
-    "ip_type": "IPv4",
-    "service": "EC2",
-    "region": "ap-south-1"
-  },
-  {
-    "ip_address": "64.73.216.0/24",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "ap-south-1"
-  },
-  {
-    "ip_address": "64.73.216.0/24",
-    "ip_type": "IPv4",
-    "service": "EC2",
-    "region": "ap-south-1"
-  },
-  {
     "ip_address": "64.252.98.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",

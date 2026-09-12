@@ -260,6 +260,11 @@
     "service": "chatgpt-user"
   },
   {
+    "ip_address": "20.78.130.48/28",
+    "ip_type": "IPv4",
+    "service": "chatgpt-user"
+  },
+  {
     "ip_address": "20.83.243.176/28",
     "ip_type": "IPv4",
     "service": "chatgpt-user"
@@ -440,6 +445,11 @@
     "service": "chatgpt-user"
   },
   {
+    "ip_address": "20.206.101.192/28",
+    "ip_type": "IPv4",
+    "service": "chatgpt-user"
+  },
+  {
     "ip_address": "20.210.211.192/28",
     "ip_type": "IPv4",
     "service": "chatgpt-user"
@@ -471,6 +481,11 @@
   },
   {
     "ip_address": "20.219.71.192/28",
+    "ip_type": "IPv4",
+    "service": "chatgpt-user"
+  },
+  {
+    "ip_address": "20.219.184.96/28",
     "ip_type": "IPv4",
     "service": "chatgpt-user"
   },
@@ -531,6 +546,11 @@
   },
   {
     "ip_address": "23.98.186.192/28",
+    "ip_type": "IPv4",
+    "service": "chatgpt-user"
+  },
+  {
+    "ip_address": "23.101.217.176/28",
     "ip_type": "IPv4",
     "service": "chatgpt-user"
   },
@@ -1011,6 +1031,11 @@
   },
   {
     "ip_address": "74.226.253.160/28",
+    "ip_type": "IPv4",
+    "service": "chatgpt-user"
+  },
+  {
+    "ip_address": "74.248.37.160/28",
     "ip_type": "IPv4",
     "service": "chatgpt-user"
   },

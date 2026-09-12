@@ -817,13 +817,11 @@ INSERT INTO `zscaler_ips` (`ip_address`, `ip_type`) VALUES ('205.220.46.0/23', '
 INSERT INTO `zscaler_ips` (`ip_address`, `ip_type`) VALUES ('205.220.48.0/23', 'IPv4');
 INSERT INTO `zscaler_ips` (`ip_address`, `ip_type`) VALUES ('205.220.50.0/23', 'IPv4');
 INSERT INTO `zscaler_ips` (`ip_address`, `ip_type`) VALUES ('205.220.52.0/22', 'IPv4');
-INSERT INTO `zscaler_ips` (`ip_address`, `ip_type`) VALUES ('205.220.57.0/24', 'IPv4');
 INSERT INTO `zscaler_ips` (`ip_address`, `ip_type`) VALUES ('205.220.58.0/23', 'IPv4');
 INSERT INTO `zscaler_ips` (`ip_address`, `ip_type`) VALUES ('205.220.60.0/23', 'IPv4');
 INSERT INTO `zscaler_ips` (`ip_address`, `ip_type`) VALUES ('205.220.62.0/23', 'IPv4');
 INSERT INTO `zscaler_ips` (`ip_address`, `ip_type`) VALUES ('205.220.64.0/23', 'IPv4');
 INSERT INTO `zscaler_ips` (`ip_address`, `ip_type`) VALUES ('205.220.66.0/23', 'IPv4');
-INSERT INTO `zscaler_ips` (`ip_address`, `ip_type`) VALUES ('205.220.68.0/24', 'IPv4');
 INSERT INTO `zscaler_ips` (`ip_address`, `ip_type`) VALUES ('205.220.70.0/23', 'IPv4');
 INSERT INTO `zscaler_ips` (`ip_address`, `ip_type`) VALUES ('205.220.72.0/23', 'IPv4');
 INSERT INTO `zscaler_ips` (`ip_address`, `ip_type`) VALUES ('205.220.74.0/23', 'IPv4');

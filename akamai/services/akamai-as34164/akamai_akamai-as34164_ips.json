@@ -726,12 +726,6 @@
     "region": "global"
   },
   {
-    "ip_address": "184.51.254.0/24",
-    "ip_type": "IPv4",
-    "service": "akamai-as34164",
-    "region": "global"
-  },
-  {
     "ip_address": "184.51.255.0/24",
     "ip_type": "IPv4",
     "service": "akamai-as34164",

@@ -3084,6 +3084,10 @@
     "ip_type": "IPv4"
   },
   {
+    "ip_address": "103.75.239.44/32",
+    "ip_type": "IPv4"
+  },
+  {
     "ip_address": "103.75.239.45/32",
     "ip_type": "IPv4"
   },
@@ -4016,6 +4020,10 @@
     "ip_type": "IPv6"
   },
   {
+    "ip_address": "2405:1500:0:46::44/128",
+    "ip_type": "IPv6"
+  },
+  {
     "ip_address": "2405:1500:0:46::45/128",
     "ip_type": "IPv6"
   },
@@ -4033,6 +4041,10 @@
   },
   {
     "ip_address": "2800:2a0:ffff:1b::a/128",
+    "ip_type": "IPv6"
+  },
+  {
+    "ip_address": "2800:2a0:ffff:1b::23/128",
     "ip_type": "IPv6"
   },
   {

@@ -3186,66 +3186,6 @@
     "region": "us-west-2"
   },
   {
-    "ip_address": "64.73.203.0/24",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "us-west-2"
-  },
-  {
-    "ip_address": "64.73.203.0/24",
-    "ip_type": "IPv4",
-    "service": "EC2",
-    "region": "us-west-2"
-  },
-  {
-    "ip_address": "64.73.204.0/24",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "us-west-2"
-  },
-  {
-    "ip_address": "64.73.204.0/24",
-    "ip_type": "IPv4",
-    "service": "EC2",
-    "region": "us-west-2"
-  },
-  {
-    "ip_address": "64.73.205.0/24",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "us-west-2"
-  },
-  {
-    "ip_address": "64.73.205.0/24",
-    "ip_type": "IPv4",
-    "service": "EC2",
-    "region": "us-west-2"
-  },
-  {
-    "ip_address": "64.73.206.0/24",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "us-west-2"
-  },
-  {
-    "ip_address": "64.73.206.0/24",
-    "ip_type": "IPv4",
-    "service": "EC2",
-    "region": "us-west-2"
-  },
-  {
-    "ip_address": "64.73.213.0/24",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "us-west-2"
-  },
-  {
-    "ip_address": "64.73.213.0/24",
-    "ip_type": "IPv4",
-    "service": "EC2",
-    "region": "us-west-2"
-  },
-  {
     "ip_address": "64.252.65.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -5595,6 +5535,30 @@
     "ip_address": "2600:f0f0:30e::/48",
     "ip_type": "IPv6",
     "service": "ROUTE53_HEALTHCHECKS",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "2600:f0f0:704::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "2600:f0f0:704::/48",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "2600:f0f0:705::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "2600:f0f0:705::/48",
+    "ip_type": "IPv6",
+    "service": "EC2",
     "region": "us-west-2"
   },
   {

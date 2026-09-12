@@ -60,12 +60,6 @@
     "region": "global"
   },
   {
-    "ip_address": "8.237.64.0/18",
-    "ip_type": "IPv4",
-    "service": "google-services",
-    "region": "global"
-  },
-  {
     "ip_address": "8.237.128.0/17",
     "ip_type": "IPv4",
     "service": "google-services",

@@ -1,5 +1,5 @@
 # zscaler IP ranges - ipset restore format (hash:net)
-# Version: 21 | Generated: 2026-09-11 | Last changed: 2026-09-10
+# Version: 22 | Generated: 2026-09-12 | Last changed: 2026-09-12
 # IPv4: 113 merged subnets, 810240 unique IPs
 # IPv6: 39 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses

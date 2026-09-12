@@ -1,5 +1,5 @@
 # alibaba IP ranges - ipset restore format (hash:net)
-# Version: 44 | Generated: 2026-09-11 | Last changed: 2026-09-11
+# Version: 44 | Generated: 2026-09-12 | Last changed: 2026-09-11
 # IPv4: 309 merged subnets, 15044352 unique IPs
 # IPv6: 29 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses

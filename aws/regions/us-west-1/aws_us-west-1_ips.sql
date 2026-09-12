@@ -405,12 +405,6 @@ INSERT INTO `aws_us-west-1_ips` (`ip_address`, `ip_type`) VALUES ('54.241.0.0/16
 INSERT INTO `aws_us-west-1_ips` (`ip_address`, `ip_type`) VALUES ('54.241.32.64/26', 'IPv4');
 INSERT INTO `aws_us-west-1_ips` (`ip_address`, `ip_type`) VALUES ('64.66.137.0/24', 'IPv4');
 INSERT INTO `aws_us-west-1_ips` (`ip_address`, `ip_type`) VALUES ('64.66.137.0/24', 'IPv4');
-INSERT INTO `aws_us-west-1_ips` (`ip_address`, `ip_type`) VALUES ('64.73.195.0/24', 'IPv4');
-INSERT INTO `aws_us-west-1_ips` (`ip_address`, `ip_type`) VALUES ('64.73.195.0/24', 'IPv4');
-INSERT INTO `aws_us-west-1_ips` (`ip_address`, `ip_type`) VALUES ('64.73.196.0/24', 'IPv4');
-INSERT INTO `aws_us-west-1_ips` (`ip_address`, `ip_type`) VALUES ('64.73.196.0/24', 'IPv4');
-INSERT INTO `aws_us-west-1_ips` (`ip_address`, `ip_type`) VALUES ('64.73.197.0/24', 'IPv4');
-INSERT INTO `aws_us-west-1_ips` (`ip_address`, `ip_type`) VALUES ('64.73.197.0/24', 'IPv4');
 INSERT INTO `aws_us-west-1_ips` (`ip_address`, `ip_type`) VALUES ('64.252.118.0/24', 'IPv4');
 INSERT INTO `aws_us-west-1_ips` (`ip_address`, `ip_type`) VALUES ('64.252.118.0/24', 'IPv4');
 INSERT INTO `aws_us-west-1_ips` (`ip_address`, `ip_type`) VALUES ('64.252.119.0/24', 'IPv4');

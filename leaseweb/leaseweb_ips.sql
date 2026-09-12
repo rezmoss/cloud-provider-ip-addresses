@@ -553,6 +553,7 @@ INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('64.226.158.0/24', 
 INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('64.226.159.0/24', 'IPv4');
 INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('65.86.32.0/24', 'IPv4');
 INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('66.59.204.0/24', 'IPv4');
+INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('66.78.59.0/24', 'IPv4');
 INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('66.92.92.0/22', 'IPv4');
 INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('66.93.36.0/22', 'IPv4');
 INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('66.93.58.0/24', 'IPv4');

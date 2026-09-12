@@ -24,6 +24,12 @@
     "region": "us-south1"
   },
   {
+    "ip_address": "8.237.64.0/18",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "us-south1"
+  },
+  {
     "ip_address": "34.0.128.0/19",
     "ip_type": "IPv4",
     "service": "Google Cloud",

@@ -120,7 +120,6 @@ ip_address,ip_type,service,region
 173.223.5.0/24,IPv4,akamai-as34164,global
 173.223.6.0/24,IPv4,akamai-as34164,global
 184.51.254.0/23,IPv4,akamai-as34164,global
-184.51.254.0/24,IPv4,akamai-as34164,global
 184.51.255.0/24,IPv4,akamai-as34164,global
 193.108.152.0/24,IPv4,akamai-as34164,global
 2001:4878:c254::/48,IPv6,akamai-as34164,global

@@ -530,16 +530,6 @@ ip_address,ip_type,service,region
 64.66.130.0/24,IPv4,EC2,us-west-2
 64.66.134.0/24,IPv4,AMAZON,us-west-2
 64.66.134.0/24,IPv4,EC2,us-west-2
-64.73.203.0/24,IPv4,AMAZON,us-west-2
-64.73.203.0/24,IPv4,EC2,us-west-2
-64.73.204.0/24,IPv4,AMAZON,us-west-2
-64.73.204.0/24,IPv4,EC2,us-west-2
-64.73.205.0/24,IPv4,AMAZON,us-west-2
-64.73.205.0/24,IPv4,EC2,us-west-2
-64.73.206.0/24,IPv4,AMAZON,us-west-2
-64.73.206.0/24,IPv4,EC2,us-west-2
-64.73.213.0/24,IPv4,AMAZON,us-west-2
-64.73.213.0/24,IPv4,EC2,us-west-2
 64.252.65.0/24,IPv4,AMAZON,us-west-2
 64.252.65.0/24,IPv4,EC2,us-west-2
 64.252.70.0/24,IPv4,AMAZON,us-west-2
@@ -932,6 +922,10 @@ ip_address,ip_type,service,region
 2600:f0f0:30e::/48,IPv6,AMAZON,us-west-2
 2600:f0f0:30e::/48,IPv6,EC2,us-west-2
 2600:f0f0:30e::/48,IPv6,ROUTE53_HEALTHCHECKS,us-west-2
+2600:f0f0:704::/48,IPv6,AMAZON,us-west-2
+2600:f0f0:704::/48,IPv6,EC2,us-west-2
+2600:f0f0:705::/48,IPv6,AMAZON,us-west-2
+2600:f0f0:705::/48,IPv6,EC2,us-west-2
 2600:f0f0:cfc::/48,IPv6,AMAZON,us-west-2
 2600:f0f0:cfc::/48,IPv6,EC2,us-west-2
 2600:f0f0:e00::/48,IPv6,AMAZON,us-west-2

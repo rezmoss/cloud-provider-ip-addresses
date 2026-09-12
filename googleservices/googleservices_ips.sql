@@ -16,7 +16,6 @@ INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('8.234.18.0/2
 INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('8.236.0.0/17', 'IPv4');
 INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('8.236.128.0/20', 'IPv4');
 INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('8.236.160.0/19', 'IPv4');
-INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('8.237.64.0/18', 'IPv4');
 INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('8.237.128.0/17', 'IPv4');
 INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('34.0.228.0/22', 'IPv4');
 INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('34.0.232.0/21', 'IPv4');

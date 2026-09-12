@@ -47,6 +47,7 @@ INSERT INTO `googlecloud_ips` (`ip_address`, `ip_type`) VALUES ('8.235.128.0/17'
 INSERT INTO `googlecloud_ips` (`ip_address`, `ip_type`) VALUES ('8.236.144.0/20', 'IPv4');
 INSERT INTO `googlecloud_ips` (`ip_address`, `ip_type`) VALUES ('8.236.192.0/18', 'IPv4');
 INSERT INTO `googlecloud_ips` (`ip_address`, `ip_type`) VALUES ('8.237.0.0/18', 'IPv4');
+INSERT INTO `googlecloud_ips` (`ip_address`, `ip_type`) VALUES ('8.237.64.0/18', 'IPv4');
 INSERT INTO `googlecloud_ips` (`ip_address`, `ip_type`) VALUES ('23.236.48.0/20', 'IPv4');
 INSERT INTO `googlecloud_ips` (`ip_address`, `ip_type`) VALUES ('23.251.128.0/20', 'IPv4');
 INSERT INTO `googlecloud_ips` (`ip_address`, `ip_type`) VALUES ('23.251.144.0/20', 'IPv4');
