@@ -1,9 +1,9 @@
 {
-  "generated": "2026-09-12T02:29:31.968146",
+  "generated": "2026-09-13T02:33:21.990634",
   "provider_count": 64,
-  "total_ipv4_addresses": 457207055,
+  "total_ipv4_addresses": 457201412,
   "total_ipv6_addresses": 5507948546960747610608617607782096,
-  "ipv4_space_coverage_pct": 10.6452,
+  "ipv4_space_coverage_pct": 10.645,
   "providers": {
     "cloudflare": {
       "ipv4_cidrs": 15,
@@ -303,10 +303,10 @@
       "regions": 1
     },
     "ibmcloud": {
-      "ipv4_cidrs": 342,
+      "ipv4_cidrs": 339,
       "ipv6_cidrs": 73,
-      "total_cidrs": 415,
-      "ipv4_addresses": 3756544,
+      "total_cidrs": 412,
+      "ipv4_addresses": 3750400,
       "ipv6_addresses": 105862007264640977015205265408,
       "services": 2,
       "regions": 1
@@ -366,19 +366,19 @@
       "regions": 1
     },
     "salesforce": {
-      "ipv4_cidrs": 55,
+      "ipv4_cidrs": 54,
       "ipv6_cidrs": 5,
-      "total_cidrs": 60,
-      "ipv4_addresses": 881920,
+      "total_cidrs": 59,
+      "ipv4_addresses": 881664,
       "ipv6_addresses": 237686905394432242038981263360,
       "services": 5,
       "regions": 1
     },
     "zscaler": {
-      "ipv4_cidrs": 907,
+      "ipv4_cidrs": 908,
       "ipv6_cidrs": 83,
-      "total_cidrs": 990,
-      "ipv4_addresses": 1070336,
+      "total_cidrs": 991,
+      "ipv4_addresses": 1070592,
       "ipv6_addresses": 19521734135137031913155330048,
       "services": 4,
       "regions": 1
@@ -402,10 +402,10 @@
       "regions": 1
     },
     "tor": {
-      "ipv4_cidrs": 1339,
+      "ipv4_cidrs": 1328,
       "ipv6_cidrs": 0,
-      "total_cidrs": 1339,
-      "ipv4_addresses": 1339,
+      "total_cidrs": 1328,
+      "ipv4_addresses": 1328,
       "ipv6_addresses": 0,
       "services": 1,
       "regions": 1
@@ -474,10 +474,10 @@
       "regions": 0
     },
     "zoho": {
-      "ipv4_cidrs": 173,
+      "ipv4_cidrs": 174,
       "ipv6_cidrs": 22,
-      "total_cidrs": 195,
-      "ipv4_addresses": 90112,
+      "total_cidrs": 196,
+      "ipv4_addresses": 90624,
       "ipv6_addresses": 79270474917950849614658666496,
       "services": 9,
       "regions": 1

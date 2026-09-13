@@ -2,6 +2,28 @@
 
 Daily IP range changes across all providers.
 
+## 2026-09-13
+
+### zscaler
+- Added: 1 CIDRs
+- Removed: 0 CIDRs
+
+### ibmcloud
+- Added: 0 CIDRs
+- Removed: 3 CIDRs
+
+### salesforce
+- Added: 0 CIDRs
+- Removed: 1 CIDRs
+
+### zoho
+- Added: 1 CIDRs
+- Removed: 0 CIDRs
+
+### tor
+- Added: 2 CIDRs
+- Removed: 13 CIDRs
+
 ## 2026-09-12
 
 ### github

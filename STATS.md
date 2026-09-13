@@ -1,10 +1,10 @@
 # IP Range Statistics
 
-Generated: 2026-09-12T02:29:31.968146
+Generated: 2026-09-13T02:33:21.990634
 
-Total IPv4 addresses: 457,207,055
+Total IPv4 addresses: 457,201,412
 Total IPv6 addresses: 5,507,948,546,960,747,610,608,617,607,782,096
-IPv4 space coverage: 10.6452%
+IPv4 space coverage: 10.6450%
 
 | Provider | IPv4 CIDRs | IPv6 CIDRs | Total CIDRs | IPv4 Addresses | Services | Regions |
 |----------|-----------|-----------|------------|---------------|----------|--------|
@@ -40,7 +40,7 @@ IPv4 space coverage: 10.6452%
 | hetzner | 688 | 7 | 695 | 3,526,144 | 3 | 1 |
 | hostway | 174 | 0 | 174 | 74,752 | 1 | 1 |
 | huawei | 587 | 94 | 681 | 1,168,128 | 6 | 1 |
-| ibmcloud | 342 | 73 | 415 | 3,756,544 | 2 | 1 |
+| ibmcloud | 339 | 73 | 412 | 3,750,400 | 2 | 1 |
 | imperva | 11 | 1 | 12 | 261,120 | 0 | 0 |
 | internetarchive | 8 | 1 | 9 | 8,192 | 2 | 1 |
 | leaseweb | 1,720 | 384 | 2,104 | 2,414,848 | 18 | 1 |
@@ -55,7 +55,7 @@ IPv4 space coverage: 10.6452%
 | pingdom | 149 | 57 | 206 | 149 | 0 | 0 |
 | quiccloud | 153 | 0 | 153 | 153 | 0 | 0 |
 | rackspace | 312 | 14 | 326 | 2,298,880 | 15 | 1 |
-| salesforce | 55 | 5 | 60 | 881,920 | 5 | 1 |
+| salesforce | 54 | 5 | 59 | 881,664 | 5 | 1 |
 | scaleway | 40 | 21 | 61 | 2,482,432 | 2 | 1 |
 | statuscake | 183 | 0 | 183 | 183 | 0 | 0 |
 | stormwall | 16 | 8 | 24 | 4,096 | 1 | 1 |
@@ -63,14 +63,14 @@ IPv4 space coverage: 10.6452%
 | teamcity | 11 | 0 | 11 | 11 | 2 | 1 |
 | telegram | 9 | 5 | 14 | 11,008 | 0 | 0 |
 | tencent | 3,355 | 73 | 3,428 | 14,919,424 | 2 | 1 |
-| tor | 1,339 | 0 | 1,339 | 1,339 | 1 | 1 |
+| tor | 1,328 | 0 | 1,328 | 1,328 | 1 | 1 |
 | upcloud | 87 | 20 | 107 | 100,352 | 2 | 1 |
 | uptimerobot | 103 | 103 | 206 | 103 | 1 | 4 |
 | vultr | 444 | 55 | 499 | 1,037,568 | 0 | 35 |
 | wasabi | 20 | 0 | 20 | 5,120 | 1 | 1 |
 | yandex | 124 | 29 | 153 | 451,072 | 6 | 1 |
-| zoho | 173 | 22 | 195 | 90,112 | 9 | 1 |
+| zoho | 174 | 22 | 196 | 90,624 | 9 | 1 |
 | zoom | 55 | 2 | 57 | 541,200 | 3 | 0 |
-| zscaler | 907 | 83 | 990 | 1,070,336 | 4 | 1 |
+| zscaler | 908 | 83 | 991 | 1,070,592 | 4 | 1 |
 
 *64 providers tracked*

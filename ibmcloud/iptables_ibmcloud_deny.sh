@@ -1,6 +1,6 @@
 #!/bin/bash
 # Ibmcloud IP Ranges
-# Updated: 2026-07-14 03:16:01
+# Updated: 2026-09-13 02:30:55
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -19,8 +19,6 @@ iptables -A INPUT -s 50.22.0.0/19 -j DROP
 iptables -A INPUT -s 50.22.32.0/20 -j DROP
 iptables -A INPUT -s 50.22.64.0/20 -j DROP
 iptables -A INPUT -s 50.22.128.0/18 -j DROP
-iptables -A INPUT -s 50.22.192.0/20 -j DROP
-iptables -A INPUT -s 50.22.208.0/21 -j DROP
 iptables -A INPUT -s 50.97.16.0/23 -j DROP
 iptables -A INPUT -s 50.97.32.0/19 -j DROP
 iptables -A INPUT -s 52.116.0.0/15 -j DROP

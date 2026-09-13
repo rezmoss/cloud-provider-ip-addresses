@@ -23,9 +23,6 @@ INSERT INTO `ibmcloud_global_ips` (`ip_address`, `ip_type`) VALUES ('50.22.32.0/
 INSERT INTO `ibmcloud_global_ips` (`ip_address`, `ip_type`) VALUES ('50.22.40.0/21', 'IPv4');
 INSERT INTO `ibmcloud_global_ips` (`ip_address`, `ip_type`) VALUES ('50.22.64.0/20', 'IPv4');
 INSERT INTO `ibmcloud_global_ips` (`ip_address`, `ip_type`) VALUES ('50.22.128.0/18', 'IPv4');
-INSERT INTO `ibmcloud_global_ips` (`ip_address`, `ip_type`) VALUES ('50.22.192.0/21', 'IPv4');
-INSERT INTO `ibmcloud_global_ips` (`ip_address`, `ip_type`) VALUES ('50.22.200.0/21', 'IPv4');
-INSERT INTO `ibmcloud_global_ips` (`ip_address`, `ip_type`) VALUES ('50.22.208.0/21', 'IPv4');
 INSERT INTO `ibmcloud_global_ips` (`ip_address`, `ip_type`) VALUES ('50.97.16.0/23', 'IPv4');
 INSERT INTO `ibmcloud_global_ips` (`ip_address`, `ip_type`) VALUES ('50.97.32.0/19', 'IPv4');
 INSERT INTO `ibmcloud_global_ips` (`ip_address`, `ip_type`) VALUES ('52.116.0.0/18', 'IPv4');
