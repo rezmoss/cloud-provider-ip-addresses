@@ -1,7 +1,7 @@
 {
   "provider": "leaseweb",
   "version": 39,
-  "generated_date": "2026-09-13",
+  "generated_date": "2026-09-14",
   "last_changed_date": "2026-09-12",
   "sources": [
     "BGP announced prefixes via RIPE NCC RIPEstat"

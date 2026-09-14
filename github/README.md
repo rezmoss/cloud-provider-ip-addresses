@@ -1,6 +1,6 @@
 # GitHub IP Ranges (Auto-Updated Daily)
 
-> Last updated: **2026-09-13** · Total CIDRs: **7,181** · IPv4: **5,621** · IPv6: **1,560** · Services: **11**
+> Last updated: **2026-09-14** · Total CIDRs: **7,181** · IPv4: **5,621** · IPv6: **1,560** · Services: **11**
 
 Machine-readable, daily-updated, validated public IP ranges for **GitHub**.
 Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and Apache.

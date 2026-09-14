@@ -1032,6 +1032,7 @@ INSERT INTO `digitalocean_ips` (`ip_address`, `ip_type`) VALUES ('198.211.118.0/
 INSERT INTO `digitalocean_ips` (`ip_address`, `ip_type`) VALUES ('198.211.120.0/21', 'IPv4');
 INSERT INTO `digitalocean_ips` (`ip_address`, `ip_type`) VALUES ('201.79.0.0/20', 'IPv4');
 INSERT INTO `digitalocean_ips` (`ip_address`, `ip_type`) VALUES ('201.79.16.0/20', 'IPv4');
+INSERT INTO `digitalocean_ips` (`ip_address`, `ip_type`) VALUES ('201.79.32.0/20', 'IPv4');
 INSERT INTO `digitalocean_ips` (`ip_address`, `ip_type`) VALUES ('204.48.16.0/20', 'IPv4');
 INSERT INTO `digitalocean_ips` (`ip_address`, `ip_type`) VALUES ('206.81.0.0/20', 'IPv4');
 INSERT INTO `digitalocean_ips` (`ip_address`, `ip_type`) VALUES ('206.81.16.0/20', 'IPv4');

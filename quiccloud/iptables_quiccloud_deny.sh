@@ -1,6 +1,6 @@
 #!/bin/bash
 # Quiccloud IP Ranges
-# Updated: 2026-08-08 02:50:43
+# Updated: 2026-09-14 02:35:46
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -68,7 +68,6 @@ iptables -A INPUT -s 81.31.156.246/32 -j DROP
 iptables -A INPUT -s 83.138.12.246/32 -j DROP
 iptables -A INPUT -s 86.105.14.231/32 -j DROP
 iptables -A INPUT -s 86.105.14.232/32 -j DROP
-iptables -A INPUT -s 89.58.38.4/32 -j DROP
 iptables -A INPUT -s 91.148.135.53/32 -j DROP
 iptables -A INPUT -s 91.201.67.121/32 -j DROP
 iptables -A INPUT -s 91.228.7.67/32 -j DROP

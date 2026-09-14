@@ -1,23 +1,23 @@
 {
   "provider": "quiccloud",
-  "version": 2,
-  "generated_date": "2026-09-13",
-  "last_changed_date": "2026-08-08",
+  "version": 3,
+  "generated_date": "2026-09-14",
+  "last_changed_date": "2026-09-14",
   "sources": [
     "https://quic.cloud/ips"
   ],
   "ipv4": {
-    "cidrs": 153,
-    "merged_cidrs": 153,
-    "addresses": 153
+    "cidrs": 152,
+    "merged_cidrs": 152,
+    "addresses": 152
   },
   "ipv6": {
     "cidrs": 0,
     "merged_cidrs": 0,
     "addresses": 0
   },
-  "total_entries": 153,
-  "content_sha256": "4e899002b2b72359fcfbfc6a70eeb533fac581c3838890559e6ee562409e8e2d",
+  "total_entries": 152,
+  "content_sha256": "f1cb09425a41eedc6a9e0ff8def0880b934e22242c0783dc86a3c25543cb849e",
   "license": "CC0-1.0",
   "license_url": "https://github.com/rezmoss/cloud-provider-ip-addresses/blob/main/LICENSE"
 }

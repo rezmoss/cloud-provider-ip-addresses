@@ -5130,6 +5130,11 @@
     "region": "US-MEM"
   },
   {
+    "ip_address": "201.79.32.0/20",
+    "ip_type": "IPv4",
+    "region": "US-MO"
+  },
+  {
     "ip_address": "204.48.16.0/20",
     "ip_type": "IPv4",
     "region": "US-NJ"
