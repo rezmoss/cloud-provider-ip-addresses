@@ -69,6 +69,7 @@ ip_address,ip_type,service,region
 2600:1f00:7400::/40,IPv6,EC2,mx-central-1
 2600:1f17:4000::/36,IPv6,AMAZON,mx-central-1
 2600:1f17:4000::/36,IPv6,EC2,mx-central-1
+2600:1f17:4356:f100::/56,IPv6,CLOUDFRONT_ORIGIN_FACING,mx-central-1
 2600:1f17:4cae:a000::/56,IPv6,EFS,mx-central-1
 2600:1f17:4ce9:6400::/56,IPv6,EFS,mx-central-1
 2600:1f17:4ee0:b800::/56,IPv6,EC2_INSTANCE_CONNECT,mx-central-1

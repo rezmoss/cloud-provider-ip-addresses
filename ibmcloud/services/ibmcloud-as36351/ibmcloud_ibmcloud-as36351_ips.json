@@ -2238,12 +2238,6 @@
     "region": "global"
   },
   {
-    "ip_address": "2607:f0d0:1c00::/40",
-    "ip_type": "IPv6",
-    "service": "ibmcloud-as36351",
-    "region": "global"
-  },
-  {
     "ip_address": "2607:f0d0:1d00::/40",
     "ip_type": "IPv6",
     "service": "ibmcloud-as36351",

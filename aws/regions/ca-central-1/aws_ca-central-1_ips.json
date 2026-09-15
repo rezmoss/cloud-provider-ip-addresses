@@ -2310,6 +2310,24 @@
     "region": "ca-central-1"
   },
   {
+    "ip_address": "2600:f0f0:612c::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ca-central-1"
+  },
+  {
+    "ip_address": "2600:f0f0:612c::/48",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ca-central-1"
+  },
+  {
+    "ip_address": "2600:f0f0:612c::/48",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "ca-central-1"
+  },
+  {
     "ip_address": "2600:f0f0:8160::/48",
     "ip_type": "IPv6",
     "service": "AMAZON",

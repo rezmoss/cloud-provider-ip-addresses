@@ -110,6 +110,16 @@
     "service": "actions"
   },
   {
+    "ip_address": "4.208.26.193/32",
+    "ip_type": "IPv4",
+    "service": "git"
+  },
+  {
+    "ip_address": "4.208.26.193/32",
+    "ip_type": "IPv4",
+    "service": "web"
+  },
+  {
     "ip_address": "4.208.26.196/32",
     "ip_type": "IPv4",
     "service": "packages"
@@ -2513,6 +2523,16 @@
     "ip_address": "20.29.134.19/32",
     "ip_type": "IPv4",
     "service": "git"
+  },
+  {
+    "ip_address": "20.29.134.22/32",
+    "ip_type": "IPv4",
+    "service": "git"
+  },
+  {
+    "ip_address": "20.29.134.22/32",
+    "ip_type": "IPv4",
+    "service": "web"
   },
   {
     "ip_address": "20.29.134.23/32",
@@ -8322,7 +8342,17 @@
   {
     "ip_address": "20.217.135.1/32",
     "ip_type": "IPv4",
+    "service": "git"
+  },
+  {
+    "ip_address": "20.217.135.1/32",
+    "ip_type": "IPv4",
     "service": "packages"
+  },
+  {
+    "ip_address": "20.217.135.1/32",
+    "ip_type": "IPv4",
+    "service": "web"
   },
   {
     "ip_address": "20.217.135.4/32",
@@ -27423,6 +27453,16 @@
     "ip_address": "172.182.0.0/16",
     "ip_type": "IPv4",
     "service": "actions"
+  },
+  {
+    "ip_address": "172.182.252.130/32",
+    "ip_type": "IPv4",
+    "service": "git"
+  },
+  {
+    "ip_address": "172.182.252.130/32",
+    "ip_type": "IPv4",
+    "service": "web"
   },
   {
     "ip_address": "172.182.252.133/32",

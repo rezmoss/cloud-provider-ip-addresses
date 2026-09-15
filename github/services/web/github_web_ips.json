@@ -1,5 +1,10 @@
 [
   {
+    "ip_address": "4.208.26.193/32",
+    "ip_type": "IPv4",
+    "service": "web"
+  },
+  {
     "ip_address": "4.208.26.197/32",
     "ip_type": "IPv4",
     "service": "web"
@@ -56,6 +61,11 @@
   },
   {
     "ip_address": "20.27.177.119/32",
+    "ip_type": "IPv4",
+    "service": "web"
+  },
+  {
+    "ip_address": "20.29.134.22/32",
     "ip_type": "IPv4",
     "service": "web"
   },
@@ -120,6 +130,11 @@
     "service": "web"
   },
   {
+    "ip_address": "20.217.135.1/32",
+    "ip_type": "IPv4",
+    "service": "web"
+  },
+  {
     "ip_address": "20.217.135.5/32",
     "ip_type": "IPv4",
     "service": "web"
@@ -151,6 +166,11 @@
   },
   {
     "ip_address": "143.55.64.0/20",
+    "ip_type": "IPv4",
+    "service": "web"
+  },
+  {
+    "ip_address": "172.182.252.130/32",
     "ip_type": "IPv4",
     "service": "web"
   },

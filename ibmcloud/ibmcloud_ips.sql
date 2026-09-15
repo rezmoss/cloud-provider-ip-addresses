@@ -380,7 +380,6 @@ INSERT INTO `ibmcloud_ips` (`ip_address`, `ip_type`) VALUES ('2607:f0d0:1100::/4
 INSERT INTO `ibmcloud_ips` (`ip_address`, `ip_type`) VALUES ('2607:f0d0:1900::/40', 'IPv6');
 INSERT INTO `ibmcloud_ips` (`ip_address`, `ip_type`) VALUES ('2607:f0d0:1a00::/40', 'IPv6');
 INSERT INTO `ibmcloud_ips` (`ip_address`, `ip_type`) VALUES ('2607:f0d0:1b00::/40', 'IPv6');
-INSERT INTO `ibmcloud_ips` (`ip_address`, `ip_type`) VALUES ('2607:f0d0:1c00::/40', 'IPv6');
 INSERT INTO `ibmcloud_ips` (`ip_address`, `ip_type`) VALUES ('2607:f0d0:1d00::/40', 'IPv6');
 INSERT INTO `ibmcloud_ips` (`ip_address`, `ip_type`) VALUES ('2607:f0d0:1e00::/40', 'IPv6');
 INSERT INTO `ibmcloud_ips` (`ip_address`, `ip_type`) VALUES ('2607:f0d0:1f00::/40', 'IPv6');

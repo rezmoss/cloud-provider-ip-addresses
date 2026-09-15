@@ -1,6 +1,6 @@
 # Salesforce IP Ranges (Auto-Updated Daily)
 
-> Last updated: **2026-09-14** · Total CIDRs: **59** · IPv4: **54** · IPv6: **5** · Services: **5** · Regions: **1**
+> Last updated: **2026-09-15** · Total CIDRs: **59** · IPv4: **54** · IPv6: **5** · Services: **5** · Regions: **1**
 
 Machine-readable, daily-updated, validated public IP ranges for **Salesforce**.
 Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and Apache.

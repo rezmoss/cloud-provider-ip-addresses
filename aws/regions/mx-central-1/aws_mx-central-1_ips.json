@@ -420,6 +420,12 @@
     "region": "mx-central-1"
   },
   {
+    "ip_address": "2600:1f17:4356:f100::/56",
+    "ip_type": "IPv6",
+    "service": "CLOUDFRONT_ORIGIN_FACING",
+    "region": "mx-central-1"
+  },
+  {
     "ip_address": "2600:1f17:4cae:a000::/56",
     "ip_type": "IPv6",
     "service": "EFS",

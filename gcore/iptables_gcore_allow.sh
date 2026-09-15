@@ -1,6 +1,6 @@
 #!/bin/bash
 # Gcore IP Ranges
-# Updated: 2026-09-12 02:28:57
+# Updated: 2026-09-15 02:32:55
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -120,6 +120,10 @@ iptables -A INPUT -s 80.15.245.3/32 -j ACCEPT
 iptables -A INPUT -s 80.15.245.5/32 -j ACCEPT
 iptables -A INPUT -s 80.15.245.13/32 -j ACCEPT
 iptables -A INPUT -s 80.15.245.15/32 -j ACCEPT
+iptables -A INPUT -s 80.15.246.1/32 -j ACCEPT
+iptables -A INPUT -s 80.15.246.3/32 -j ACCEPT
+iptables -A INPUT -s 80.15.246.13/32 -j ACCEPT
+iptables -A INPUT -s 80.15.246.15/32 -j ACCEPT
 iptables -A INPUT -s 80.15.247.5/32 -j ACCEPT
 iptables -A INPUT -s 80.15.247.17/32 -j ACCEPT
 iptables -A INPUT -s 80.15.248.1/32 -j ACCEPT
@@ -692,6 +696,10 @@ ip6tables -A INPUT -s 2a01:c9c0:c016::3/128 -j ACCEPT
 ip6tables -A INPUT -s 2a01:c9c0:c016::5/128 -j ACCEPT
 ip6tables -A INPUT -s 2a01:c9c0:c016:100::1/128 -j ACCEPT
 ip6tables -A INPUT -s 2a01:c9c0:c016:100::3/128 -j ACCEPT
+ip6tables -A INPUT -s 2a01:c9c0:c018::1/128 -j ACCEPT
+ip6tables -A INPUT -s 2a01:c9c0:c018::3/128 -j ACCEPT
+ip6tables -A INPUT -s 2a01:c9c0:c018:100::1/128 -j ACCEPT
+ip6tables -A INPUT -s 2a01:c9c0:c018:100::3/128 -j ACCEPT
 ip6tables -A INPUT -s 2a01:c9c0:c01a::5/128 -j ACCEPT
 ip6tables -A INPUT -s 2a01:c9c0:c01c::1/128 -j ACCEPT
 ip6tables -A INPUT -s 2a01:c9c0:c01c::3/128 -j ACCEPT

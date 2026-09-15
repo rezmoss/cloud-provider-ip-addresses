@@ -21,6 +21,8 @@ ip_address,ip_type,service
 4.206.0.0/16,IPv4,actions
 4.207.0.0/16,IPv4,actions
 4.208.0.0/15,IPv4,actions
+4.208.26.193/32,IPv4,git
+4.208.26.193/32,IPv4,web
 4.208.26.196/32,IPv4,packages
 4.208.26.197/32,IPv4,git
 4.208.26.197/32,IPv4,web
@@ -502,6 +504,8 @@ ip_address,ip_type,service
 20.29.134.17/32,IPv4,api
 20.29.134.18/32,IPv4,packages
 20.29.134.19/32,IPv4,git
+20.29.134.22/32,IPv4,git
+20.29.134.22/32,IPv4,web
 20.29.134.23/32,IPv4,git
 20.29.134.23/32,IPv4,web
 20.31.0.0/16,IPv4,actions
@@ -1663,7 +1667,9 @@ ip_address,ip_type,service
 20.209.230.0/23,IPv4,actions
 20.209.244.0/23,IPv4,actions
 20.217.135.0/32,IPv4,api
+20.217.135.1/32,IPv4,git
 20.217.135.1/32,IPv4,packages
+20.217.135.1/32,IPv4,web
 20.217.135.4/32,IPv4,git
 20.217.135.5/32,IPv4,git
 20.217.135.5/32,IPv4,web
@@ -5484,6 +5490,8 @@ ip_address,ip_type,service
 172.179.0.0/16,IPv4,actions
 172.180.0.0/15,IPv4,actions
 172.182.0.0/16,IPv4,actions
+172.182.252.130/32,IPv4,git
+172.182.252.130/32,IPv4,web
 172.182.252.133/32,IPv4,git
 172.182.252.133/32,IPv4,web
 172.182.252.135/32,IPv4,git

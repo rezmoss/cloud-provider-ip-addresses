@@ -6,6 +6,7 @@ CREATE TABLE IF NOT EXISTS `github_web_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `github_web_ips` (`ip_address`, `ip_type`) VALUES ('4.208.26.193/32', 'IPv4');
 INSERT INTO `github_web_ips` (`ip_address`, `ip_type`) VALUES ('4.208.26.197/32', 'IPv4');
 INSERT INTO `github_web_ips` (`ip_address`, `ip_type`) VALUES ('4.225.11.194/32', 'IPv4');
 INSERT INTO `github_web_ips` (`ip_address`, `ip_type`) VALUES ('4.225.11.199/32', 'IPv4');
@@ -18,6 +19,7 @@ INSERT INTO `github_web_ips` (`ip_address`, `ip_type`) VALUES ('20.26.156.213/32
 INSERT INTO `github_web_ips` (`ip_address`, `ip_type`) VALUES ('20.26.156.215/32', 'IPv4');
 INSERT INTO `github_web_ips` (`ip_address`, `ip_type`) VALUES ('20.27.177.113/32', 'IPv4');
 INSERT INTO `github_web_ips` (`ip_address`, `ip_type`) VALUES ('20.27.177.119/32', 'IPv4');
+INSERT INTO `github_web_ips` (`ip_address`, `ip_type`) VALUES ('20.29.134.22/32', 'IPv4');
 INSERT INTO `github_web_ips` (`ip_address`, `ip_type`) VALUES ('20.29.134.23/32', 'IPv4');
 INSERT INTO `github_web_ips` (`ip_address`, `ip_type`) VALUES ('20.87.245.0/32', 'IPv4');
 INSERT INTO `github_web_ips` (`ip_address`, `ip_type`) VALUES ('20.87.245.2/32', 'IPv4');
@@ -30,6 +32,7 @@ INSERT INTO `github_web_ips` (`ip_address`, `ip_type`) VALUES ('20.205.243.161/3
 INSERT INTO `github_web_ips` (`ip_address`, `ip_type`) VALUES ('20.205.243.166/32', 'IPv4');
 INSERT INTO `github_web_ips` (`ip_address`, `ip_type`) VALUES ('20.207.73.81/32', 'IPv4');
 INSERT INTO `github_web_ips` (`ip_address`, `ip_type`) VALUES ('20.207.73.82/32', 'IPv4');
+INSERT INTO `github_web_ips` (`ip_address`, `ip_type`) VALUES ('20.217.135.1/32', 'IPv4');
 INSERT INTO `github_web_ips` (`ip_address`, `ip_type`) VALUES ('20.217.135.5/32', 'IPv4');
 INSERT INTO `github_web_ips` (`ip_address`, `ip_type`) VALUES ('20.233.83.145/32', 'IPv4');
 INSERT INTO `github_web_ips` (`ip_address`, `ip_type`) VALUES ('20.233.83.148/32', 'IPv4');
@@ -37,6 +40,7 @@ INSERT INTO `github_web_ips` (`ip_address`, `ip_type`) VALUES ('48.202.248.40/32
 INSERT INTO `github_web_ips` (`ip_address`, `ip_type`) VALUES ('48.204.201.5/32', 'IPv4');
 INSERT INTO `github_web_ips` (`ip_address`, `ip_type`) VALUES ('140.82.112.0/20', 'IPv4');
 INSERT INTO `github_web_ips` (`ip_address`, `ip_type`) VALUES ('143.55.64.0/20', 'IPv4');
+INSERT INTO `github_web_ips` (`ip_address`, `ip_type`) VALUES ('172.182.252.130/32', 'IPv4');
 INSERT INTO `github_web_ips` (`ip_address`, `ip_type`) VALUES ('172.182.252.133/32', 'IPv4');
 INSERT INTO `github_web_ips` (`ip_address`, `ip_type`) VALUES ('185.199.108.0/22', 'IPv4');
 INSERT INTO `github_web_ips` (`ip_address`, `ip_type`) VALUES ('192.30.252.0/22', 'IPv4');

@@ -637,6 +637,9 @@ ip_address,ip_type,service,region
 2600:f0f0:610e::/48,IPv6,AMAZON,ap-southeast-1
 2600:f0f0:610e::/48,IPv6,EC2,ap-southeast-1
 2600:f0f0:610e::/48,IPv6,S3,ap-southeast-1
+2600:f0f0:6139::/48,IPv6,AMAZON,ap-southeast-1
+2600:f0f0:6139::/48,IPv6,EC2,ap-southeast-1
+2600:f0f0:6139::/48,IPv6,S3,ap-southeast-1
 2600:f0f0:810a::/48,IPv6,AMAZON,ap-southeast-1
 2600:f0f0:810a::/48,IPv6,EC2,ap-southeast-1
 2600:f0f0:c048::/48,IPv6,AMAZON,ap-southeast-1

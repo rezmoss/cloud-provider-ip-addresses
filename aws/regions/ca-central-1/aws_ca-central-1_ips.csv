@@ -384,6 +384,9 @@ ip_address,ip_type,service,region
 2600:f0f0:6110::/48,IPv6,AMAZON,ca-central-1
 2600:f0f0:6110::/48,IPv6,EC2,ca-central-1
 2600:f0f0:6110::/48,IPv6,S3,ca-central-1
+2600:f0f0:612c::/48,IPv6,AMAZON,ca-central-1
+2600:f0f0:612c::/48,IPv6,EC2,ca-central-1
+2600:f0f0:612c::/48,IPv6,S3,ca-central-1
 2600:f0f0:8160::/48,IPv6,AMAZON,ca-central-1
 2600:f0f0:8160::/48,IPv6,EC2,ca-central-1
 2600:f0f0:c042::/48,IPv6,AMAZON,ca-central-1
