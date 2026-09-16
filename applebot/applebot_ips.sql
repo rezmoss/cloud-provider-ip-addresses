@@ -6,9 +6,6 @@ CREATE TABLE IF NOT EXISTS `applebot_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
-INSERT INTO `applebot_ips` (`ip_address`, `ip_type`) VALUES ('17.22.237.0/24', 'IPv4');
-INSERT INTO `applebot_ips` (`ip_address`, `ip_type`) VALUES ('17.22.245.0/24', 'IPv4');
-INSERT INTO `applebot_ips` (`ip_address`, `ip_type`) VALUES ('17.22.253.0/24', 'IPv4');
 INSERT INTO `applebot_ips` (`ip_address`, `ip_type`) VALUES ('17.166.20.0/24', 'IPv4');
 INSERT INTO `applebot_ips` (`ip_address`, `ip_type`) VALUES ('17.166.21.0/24', 'IPv4');
 INSERT INTO `applebot_ips` (`ip_address`, `ip_type`) VALUES ('17.166.22.0/24', 'IPv4');
@@ -30,12 +27,6 @@ INSERT INTO `applebot_ips` (`ip_address`, `ip_type`) VALUES ('17.166.236.0/24', 
 INSERT INTO `applebot_ips` (`ip_address`, `ip_type`) VALUES ('17.166.237.0/24', 'IPv4');
 INSERT INTO `applebot_ips` (`ip_address`, `ip_type`) VALUES ('17.166.240.48/28', 'IPv4');
 INSERT INTO `applebot_ips` (`ip_address`, `ip_type`) VALUES ('17.166.248.48/28', 'IPv4');
-INSERT INTO `applebot_ips` (`ip_address`, `ip_type`) VALUES ('17.241.75.0/24', 'IPv4');
 INSERT INTO `applebot_ips` (`ip_address`, `ip_type`) VALUES ('17.241.193.160/27', 'IPv4');
 INSERT INTO `applebot_ips` (`ip_address`, `ip_type`) VALUES ('17.241.200.160/27', 'IPv4');
 INSERT INTO `applebot_ips` (`ip_address`, `ip_type`) VALUES ('17.241.208.160/27', 'IPv4');
-INSERT INTO `applebot_ips` (`ip_address`, `ip_type`) VALUES ('17.241.219.0/24', 'IPv4');
-INSERT INTO `applebot_ips` (`ip_address`, `ip_type`) VALUES ('17.241.227.0/24', 'IPv4');
-INSERT INTO `applebot_ips` (`ip_address`, `ip_type`) VALUES ('17.246.15.0/24', 'IPv4');
-INSERT INTO `applebot_ips` (`ip_address`, `ip_type`) VALUES ('17.246.19.0/24', 'IPv4');
-INSERT INTO `applebot_ips` (`ip_address`, `ip_type`) VALUES ('17.246.23.0/24', 'IPv4');

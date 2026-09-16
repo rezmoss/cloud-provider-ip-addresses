@@ -1,12 +1,60 @@
 [
   {
+    "ip_address": "4.160.3.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup",
+    "region": ""
+  },
+  {
+    "ip_address": "4.161.180.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup",
+    "region": ""
+  },
+  {
     "ip_address": "4.166.35.241/32",
     "ip_type": "IPv4",
     "service": "AzureBackup",
     "region": ""
   },
   {
+    "ip_address": "4.170.31.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup",
+    "region": ""
+  },
+  {
     "ip_address": "4.172.96.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup",
+    "region": ""
+  },
+  {
+    "ip_address": "4.173.163.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup",
+    "region": ""
+  },
+  {
+    "ip_address": "4.177.63.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup",
+    "region": ""
+  },
+  {
+    "ip_address": "4.188.125.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup",
+    "region": ""
+  },
+  {
+    "ip_address": "4.212.251.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup",
+    "region": ""
+  },
+  {
+    "ip_address": "4.215.24.192/26",
     "ip_type": "IPv4",
     "service": "AzureBackup",
     "region": ""
@@ -37,6 +85,12 @@
   },
   {
     "ip_address": "4.221.237.112/28",
+    "ip_type": "IPv4",
+    "service": "AzureBackup",
+    "region": ""
+  },
+  {
+    "ip_address": "4.222.6.128/26",
     "ip_type": "IPv4",
     "service": "AzureBackup",
     "region": ""
@@ -73,6 +127,12 @@
   },
   {
     "ip_address": "4.230.165.136/29",
+    "ip_type": "IPv4",
+    "service": "AzureBackup",
+    "region": ""
+  },
+  {
+    "ip_address": "4.230.216.64/26",
     "ip_type": "IPv4",
     "service": "AzureBackup",
     "region": ""
@@ -139,6 +199,12 @@
   },
   {
     "ip_address": "9.235.190.160/28",
+    "ip_type": "IPv4",
+    "service": "AzureBackup",
+    "region": ""
+  },
+  {
+    "ip_address": "9.235.252.192/26",
     "ip_type": "IPv4",
     "service": "AzureBackup",
     "region": ""
@@ -1254,6 +1320,12 @@
     "region": ""
   },
   {
+    "ip_address": "48.193.116.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup",
+    "region": ""
+  },
+  {
     "ip_address": "48.196.86.80/28",
     "ip_type": "IPv4",
     "service": "AzureBackup",
@@ -1285,6 +1357,12 @@
   },
   {
     "ip_address": "48.198.86.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup",
+    "region": ""
+  },
+  {
+    "ip_address": "48.203.201.0/26",
     "ip_type": "IPv4",
     "service": "AzureBackup",
     "region": ""
@@ -1393,6 +1471,12 @@
   },
   {
     "ip_address": "51.53.187.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup",
+    "region": ""
+  },
+  {
+    "ip_address": "51.58.116.0/26",
     "ip_type": "IPv4",
     "service": "AzureBackup",
     "region": ""
@@ -1872,6 +1956,12 @@
     "region": ""
   },
   {
+    "ip_address": "70.157.193.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup",
+    "region": ""
+  },
+  {
     "ip_address": "74.7.44.16/28",
     "ip_type": "IPv4",
     "service": "AzureBackup",
@@ -1891,6 +1981,36 @@
   },
   {
     "ip_address": "74.7.180.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup",
+    "region": ""
+  },
+  {
+    "ip_address": "74.146.222.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup",
+    "region": ""
+  },
+  {
+    "ip_address": "74.153.12.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup",
+    "region": ""
+  },
+  {
+    "ip_address": "74.155.31.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup",
+    "region": ""
+  },
+  {
+    "ip_address": "74.158.64.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup",
+    "region": ""
+  },
+  {
+    "ip_address": "74.161.250.0/26",
     "ip_type": "IPv4",
     "service": "AzureBackup",
     "region": ""
@@ -2064,6 +2184,12 @@
     "region": ""
   },
   {
+    "ip_address": "158.158.227.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup",
+    "region": ""
+  },
+  {
     "ip_address": "172.129.78.64/28",
     "ip_type": "IPv4",
     "service": "AzureBackup",
@@ -2071,6 +2197,12 @@
   },
   {
     "ip_address": "172.129.78.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup",
+    "region": ""
+  },
+  {
+    "ip_address": "172.182.53.0/26",
     "ip_type": "IPv4",
     "service": "AzureBackup",
     "region": ""
@@ -2088,6 +2220,12 @@
     "region": ""
   },
   {
+    "ip_address": "172.192.234.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup",
+    "region": ""
+  },
+  {
     "ip_address": "172.194.70.64/28",
     "ip_type": "IPv4",
     "service": "AzureBackup",
@@ -2095,6 +2233,18 @@
   },
   {
     "ip_address": "172.194.70.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup",
+    "region": ""
+  },
+  {
+    "ip_address": "172.195.161.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup",
+    "region": ""
+  },
+  {
+    "ip_address": "172.196.125.64/26",
     "ip_type": "IPv4",
     "service": "AzureBackup",
     "region": ""

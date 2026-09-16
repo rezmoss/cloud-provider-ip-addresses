@@ -6,7 +6,21 @@ CREATE TABLE IF NOT EXISTS `azure_azurecloud.australiacentral_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
-INSERT INTO `azure_azurecloud.australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.199.128.0/17', 'IPv4');
+INSERT INTO `azure_azurecloud.australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.199.128.0/18', 'IPv4');
+INSERT INTO `azure_azurecloud.australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.199.192.0/20', 'IPv4');
+INSERT INTO `azure_azurecloud.australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.199.208.0/22', 'IPv4');
+INSERT INTO `azure_azurecloud.australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.199.212.0/23', 'IPv4');
+INSERT INTO `azure_azurecloud.australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.199.214.0/24', 'IPv4');
+INSERT INTO `azure_azurecloud.australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.199.215.0/25', 'IPv4');
+INSERT INTO `azure_azurecloud.australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.199.215.128/27', 'IPv4');
+INSERT INTO `azure_azurecloud.australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.199.215.160/29', 'IPv4');
+INSERT INTO `azure_azurecloud.australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.199.215.168/30', 'IPv4');
+INSERT INTO `azure_azurecloud.australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.199.215.172/31', 'IPv4');
+INSERT INTO `azure_azurecloud.australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.199.215.175/32', 'IPv4');
+INSERT INTO `azure_azurecloud.australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.199.215.176/28', 'IPv4');
+INSERT INTO `azure_azurecloud.australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.199.215.192/26', 'IPv4');
+INSERT INTO `azure_azurecloud.australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.199.216.0/21', 'IPv4');
+INSERT INTO `azure_azurecloud.australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.199.224.0/19', 'IPv4');
 INSERT INTO `azure_azurecloud.australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('9.129.51.128/26', 'IPv4');
 INSERT INTO `azure_azurecloud.australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('9.129.57.160/28', 'IPv4');
 INSERT INTO `azure_azurecloud.australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('13.104.155.128/26', 'IPv4');

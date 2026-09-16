@@ -834,6 +834,12 @@
     "region": "af-south-1"
   },
   {
+    "ip_address": "2406:da11:438:2300::/56",
+    "ip_type": "IPv6",
+    "service": "CLOUDFRONT_ORIGIN_FACING",
+    "region": "af-south-1"
+  },
+  {
     "ip_address": "2406:da11:6ba:7e00::/56",
     "ip_type": "IPv6",
     "service": "EFS",

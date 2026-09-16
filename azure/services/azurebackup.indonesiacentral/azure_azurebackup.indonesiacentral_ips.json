@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "48.193.116.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.IndonesiaCentral",
+    "region": "indonesiacentral"
+  },
+  {
     "ip_address": "70.153.156.64/26",
     "ip_type": "IPv4",
     "service": "AzureBackup.IndonesiaCentral",

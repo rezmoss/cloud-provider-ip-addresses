@@ -666,6 +666,7 @@ ip_address,ip_type,service,region
 2600:1f12:8000::/36,IPv6,EC2,us-west-2
 2600:1f13::/36,IPv6,AMAZON,us-west-2
 2600:1f13::/36,IPv6,EC2,us-west-2
+2600:1f13:417:4d00::/56,IPv6,CLOUDFRONT_ORIGIN_FACING,us-west-2
 2600:1f13:a0d:a700::/56,IPv6,EC2_INSTANCE_CONNECT,us-west-2
 2600:1f14::/34,IPv6,AMAZON,us-west-2
 2600:1f14::/34,IPv6,EC2,us-west-2

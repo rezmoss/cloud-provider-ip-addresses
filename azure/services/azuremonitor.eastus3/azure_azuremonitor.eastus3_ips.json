@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "51.57.210.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.EastUS3",
+    "region": "eastus3"
+  },
+  {
     "ip_address": "134.138.82.12/30",
     "ip_type": "IPv4",
     "service": "AzureMonitor.EastUS3",

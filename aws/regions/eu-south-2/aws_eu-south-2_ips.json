@@ -1146,6 +1146,12 @@
     "region": "eu-south-2"
   },
   {
+    "ip_address": "2a05:d011:531:1800::/56",
+    "ip_type": "IPv6",
+    "service": "CLOUDFRONT_ORIGIN_FACING",
+    "region": "eu-south-2"
+  },
+  {
     "ip_address": "2a05:d011:95f:c900::/56",
     "ip_type": "IPv6",
     "service": "AURORA_DSQL",

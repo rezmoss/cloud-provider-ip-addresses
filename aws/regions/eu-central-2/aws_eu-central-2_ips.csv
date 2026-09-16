@@ -97,6 +97,7 @@ ip_address,ip_type,service,region
 2a05:d019::/36,IPv6,EC2,eu-central-2
 2a05:d019:1d6:2100::/56,IPv6,EC2_INSTANCE_CONNECT,eu-central-2
 2a05:d019:5aa:1200::/56,IPv6,EFS,eu-central-2
+2a05:d019:80b:e300::/56,IPv6,CLOUDFRONT_ORIGIN_FACING,eu-central-2
 2a05:d019:84f:800::/56,IPv6,EFS,eu-central-2
 2a05:d029::/36,IPv6,AMAZON,eu-central-2
 2a05:d029::/36,IPv6,EC2,eu-central-2

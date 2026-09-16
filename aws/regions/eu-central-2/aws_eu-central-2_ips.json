@@ -588,6 +588,12 @@
     "region": "eu-central-2"
   },
   {
+    "ip_address": "2a05:d019:80b:e300::/56",
+    "ip_type": "IPv6",
+    "service": "CLOUDFRONT_ORIGIN_FACING",
+    "region": "eu-central-2"
+  },
+  {
     "ip_address": "2a05:d019:84f:800::/56",
     "ip_type": "IPv6",
     "service": "EFS",

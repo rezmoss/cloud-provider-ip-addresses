@@ -1146,6 +1146,12 @@
     "region": "taiwannorth"
   },
   {
+    "ip_address": "70.157.193.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
     "ip_address": "135.130.35.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.taiwannorth",

@@ -10,6 +10,7 @@ INSERT INTO `azure_azurebackup.israelcentral_ips` (`ip_address`, `ip_type`) VALU
 INSERT INTO `azure_azurebackup.israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.217.59.64/26', 'IPv4');
 INSERT INTO `azure_azurebackup.israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.217.75.0/26', 'IPv4');
 INSERT INTO `azure_azurebackup.israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.217.91.0/26', 'IPv4');
+INSERT INTO `azure_azurebackup.israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('51.58.116.0/26', 'IPv4');
 INSERT INTO `azure_azurebackup.israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1402::680/121', 'IPv6');
 INSERT INTO `azure_azurebackup.israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1402:400::100/121', 'IPv6');
 INSERT INTO `azure_azurebackup.israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1402:800::100/121', 'IPv6');

@@ -6,6 +6,7 @@ CREATE TABLE IF NOT EXISTS `azure_azuremonitor.southwestus_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_azuremonitor.southwestus_ips` (`ip_address`, `ip_type`) VALUES ('48.219.91.224/27', 'IPv4');
 INSERT INTO `azure_azuremonitor.southwestus_ips` (`ip_address`, `ip_type`) VALUES ('48.219.203.242/31', 'IPv4');
 INSERT INTO `azure_azuremonitor.southwestus_ips` (`ip_address`, `ip_type`) VALUES ('48.219.205.208/29', 'IPv4');
 INSERT INTO `azure_azuremonitor.southwestus_ips` (`ip_address`, `ip_type`) VALUES ('48.219.205.216/30', 'IPv4');

@@ -1,6 +1,6 @@
 [
   {
-    "ip_address": "4.158.0.0/15",
+    "ip_address": "4.158.0.0/17",
     "ip_type": "IPv4",
     "service": "AzureCloud.uksouth",
     "region": "uksouth"
@@ -21,6 +21,12 @@
     "ip_address": "4.158.106.183/32",
     "ip_type": "IPv4",
     "service": "LogicApps.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "4.158.128.0/19",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
     "region": "uksouth"
   },
   {
@@ -57,6 +63,150 @@
     "ip_address": "4.158.138.59/32",
     "ip_type": "IPv4",
     "service": "LogicApps.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "4.158.160.0/20",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "4.158.176.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "4.158.177.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "4.158.177.120/29",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "4.158.177.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "4.158.177.192/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "4.158.177.224/29",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "4.158.178.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "4.158.178.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "4.158.178.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "4.158.179.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "4.158.180.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "4.158.180.64/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "4.158.180.80/29",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "4.158.180.98/31",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "4.158.180.100/30",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "4.158.180.104/29",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "4.158.180.112/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "4.158.180.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "4.158.181.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "4.158.182.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "4.158.184.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "4.158.192.0/18",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "4.159.0.0/16",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
     "region": "uksouth"
   },
   {
@@ -366,7 +516,7 @@
     "region": "uksouth"
   },
   {
-    "ip_address": "4.250.0.0/16",
+    "ip_address": "4.250.0.0/20",
     "ip_type": "IPv4",
     "service": "AzureCloud.uksouth",
     "region": "uksouth"
@@ -381,6 +531,168 @@
     "ip_address": "4.250.1.104/29",
     "ip_type": "IPv4",
     "service": "AzureMonitor.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "4.250.16.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "4.250.18.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "4.250.18.144/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "4.250.18.160/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "4.250.18.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "4.250.19.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "4.250.19.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "4.250.19.96/29",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "4.250.19.108/30",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "4.250.19.112/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "4.250.19.144/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "4.250.19.160/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "4.250.19.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "4.250.20.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "4.250.24.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "4.250.32.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "4.250.40.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "4.250.44.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "4.250.46.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "4.250.47.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "4.250.47.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "4.250.47.192/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "4.250.47.224/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "4.250.47.240/32",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "4.250.47.242/31",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "4.250.47.248/29",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "4.250.48.0/20",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
     "region": "uksouth"
   },
   {
@@ -414,6 +726,12 @@
     "region": "uksouth"
   },
   {
+    "ip_address": "4.250.64.0/18",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
     "ip_address": "4.250.82.111/32",
     "ip_type": "IPv4",
     "service": "LogicApps.UKSouth",
@@ -423,6 +741,12 @@
     "ip_address": "4.250.87.43/32",
     "ip_type": "IPv4",
     "service": "LogicApps.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "4.250.128.0/17",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
     "region": "uksouth"
   },
   {
@@ -3834,19 +4158,13 @@
     "region": "uksouth"
   },
   {
-    "ip_address": "57.157.40.128/28",
+    "ip_address": "57.157.40.128/26",
     "ip_type": "IPv4",
     "service": "AzureCloud.uksouth",
     "region": "uksouth"
   },
   {
-    "ip_address": "57.157.40.144/30",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.uksouth",
-    "region": "uksouth"
-  },
-  {
-    "ip_address": "57.157.40.148/31",
+    "ip_address": "57.157.40.192/29",
     "ip_type": "IPv4",
     "service": "AzureCloud.uksouth",
     "region": "uksouth"
@@ -3882,7 +4200,13 @@
     "region": "uksouth"
   },
   {
-    "ip_address": "74.177.0.0/16",
+    "ip_address": "74.177.0.0/18",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "74.177.64.0/20",
     "ip_type": "IPv4",
     "service": "AzureCloud.uksouth",
     "region": "uksouth"
@@ -3894,9 +4218,93 @@
     "region": "uksouth"
   },
   {
+    "ip_address": "74.177.80.0/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "74.177.80.16/30",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "74.177.80.21/32",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "74.177.80.22/31",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "74.177.80.24/29",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "74.177.80.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "74.177.80.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "74.177.80.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
     "ip_address": "74.177.80.160/27",
     "ip_type": "IPv4",
     "service": "AzureSignalR.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "74.177.81.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "74.177.82.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "74.177.84.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "74.177.88.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "74.177.96.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "74.177.104.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
     "region": "uksouth"
   },
   {
@@ -3912,9 +4320,129 @@
     "region": "uksouth"
   },
   {
+    "ip_address": "74.177.108.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
     "ip_address": "74.177.108.64/26",
     "ip_type": "IPv4",
     "service": "PowerBI.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "74.177.109.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "74.177.109.129/32",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "74.177.109.130/31",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "74.177.109.132/30",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "74.177.109.136/29",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "74.177.109.144/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "74.177.109.160/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "74.177.109.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "74.177.110.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "74.177.112.0/20",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "74.177.128.0/18",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "74.177.192.0/19",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "74.177.224.0/20",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "74.177.240.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "74.177.248.0/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "74.177.248.16/29",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "74.177.248.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "74.177.248.96/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "74.177.248.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
     "region": "uksouth"
   },
   {
@@ -3924,9 +4452,27 @@
     "region": "uksouth"
   },
   {
+    "ip_address": "74.177.249.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "74.177.250.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
     "ip_address": "74.177.250.0/23",
     "ip_type": "IPv4",
     "service": "AzureSecurityCenter.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "74.177.252.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
     "region": "uksouth"
   },
   {
@@ -4122,7 +4668,91 @@
     "region": "uksouth"
   },
   {
-    "ip_address": "131.145.0.0/17",
+    "ip_address": "131.145.0.0/18",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "131.145.64.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "131.145.68.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "131.145.70.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "131.145.70.128/32",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "131.145.70.130/31",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "131.145.70.132/30",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "131.145.70.136/29",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "131.145.70.144/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "131.145.70.160/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "131.145.70.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "131.145.71.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "131.145.72.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "131.145.80.0/20",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "131.145.96.0/19",
     "ip_type": "IPv4",
     "service": "AzureCloud.uksouth",
     "region": "uksouth"
@@ -4134,7 +4764,7 @@
     "region": "uksouth"
   },
   {
-    "ip_address": "131.145.128.0/18",
+    "ip_address": "131.145.128.0/22",
     "ip_type": "IPv4",
     "service": "AzureCloud.uksouth",
     "region": "uksouth"
@@ -4143,6 +4773,48 @@
     "ip_address": "131.145.129.192/26",
     "ip_type": "IPv4",
     "service": "PowerPlatformInfra.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "131.145.132.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "131.145.132.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "131.145.132.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "131.145.133.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "131.145.134.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "131.145.136.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "131.145.144.0/20",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
     "region": "uksouth"
   },
   {
@@ -4161,6 +4833,12 @@
     "ip_address": "131.145.145.192/27",
     "ip_type": "IPv4",
     "service": "PowerBI.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "131.145.160.0/19",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
     "region": "uksouth"
   },
   {
@@ -4218,7 +4896,7 @@
     "region": "uksouth"
   },
   {
-    "ip_address": "172.165.0.0/16",
+    "ip_address": "172.165.0.0/17",
     "ip_type": "IPv4",
     "service": "AzureCloud.uksouth",
     "region": "uksouth"
@@ -4302,13 +4980,79 @@
     "region": "uksouth"
   },
   {
+    "ip_address": "172.165.128.0/18",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
     "ip_address": "172.165.146.40/32",
     "ip_type": "IPv4",
     "service": "MicrosoftCloudAppSecurity.UKSouth",
     "region": "uksouth"
   },
   {
-    "ip_address": "172.166.0.0/15",
+    "ip_address": "172.165.192.0/19",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "172.165.224.0/20",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "172.165.240.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "172.165.244.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "172.165.246.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "172.165.246.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "172.165.246.120/29",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "172.165.246.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "172.165.247.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "172.165.248.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "172.166.0.0/20",
     "ip_type": "IPv4",
     "service": "AzureCloud.uksouth",
     "region": "uksouth"
@@ -4323,6 +5067,96 @@
     "ip_address": "172.166.7.192/26",
     "ip_type": "IPv4",
     "service": "GatewayManager.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "172.166.16.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "172.166.16.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "172.166.16.192/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "172.166.16.224/30",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "172.166.16.228/31",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "172.166.16.231/32",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "172.166.16.232/29",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "172.166.16.246/31",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "172.166.16.248/29",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "172.166.17.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "172.166.18.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "172.166.20.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "172.166.24.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "172.166.32.0/19",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "172.166.64.0/18",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
     "region": "uksouth"
   },
   {
@@ -4383,6 +5217,12 @@
     "ip_address": "172.166.112.244/32",
     "ip_type": "IPv4",
     "service": "MicrosoftCloudAppSecurity.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "172.166.128.0/17",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
     "region": "uksouth"
   },
   {
@@ -4473,6 +5313,12 @@
     "ip_address": "172.166.255.255/32",
     "ip_type": "IPv4",
     "service": "MicrosoftCloudAppSecurity.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "172.167.0.0/16",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uksouth",
     "region": "uksouth"
   },
   {

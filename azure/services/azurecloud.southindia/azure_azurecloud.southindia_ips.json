@@ -522,7 +522,85 @@
     "region": "southindia"
   },
   {
-    "ip_address": "74.224.0.0/16",
+    "ip_address": "74.224.0.0/17",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southindia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "74.224.128.0/18",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southindia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "74.224.192.0/19",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southindia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "74.224.224.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southindia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "74.224.228.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southindia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "74.224.228.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southindia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "74.224.228.192/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southindia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "74.224.228.208/29",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southindia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "74.224.228.222/31",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southindia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "74.224.228.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southindia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "74.224.229.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southindia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "74.224.230.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southindia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "74.224.232.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southindia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "74.224.240.0/20",
     "ip_type": "IPv4",
     "service": "AzureCloud.southindia",
     "region": "southindia"

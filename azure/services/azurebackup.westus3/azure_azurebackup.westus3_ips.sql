@@ -15,6 +15,7 @@ INSERT INTO `azure_azurebackup.westus3_ips` (`ip_address`, `ip_type`) VALUES ('2
 INSERT INTO `azure_azurebackup.westus3_ips` (`ip_address`, `ip_type`) VALUES ('20.150.187.128/26', 'IPv4');
 INSERT INTO `azure_azurebackup.westus3_ips` (`ip_address`, `ip_type`) VALUES ('20.150.190.0/27', 'IPv4');
 INSERT INTO `azure_azurebackup.westus3_ips` (`ip_address`, `ip_type`) VALUES ('20.150.244.64/26', 'IPv4');
+INSERT INTO `azure_azurebackup.westus3_ips` (`ip_address`, `ip_type`) VALUES ('172.182.53.0/26', 'IPv4');
 INSERT INTO `azure_azurebackup.westus3_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:504:2::100/121', 'IPv6');
 INSERT INTO `azure_azurebackup.westus3_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:504:402::100/121', 'IPv6');
 INSERT INTO `azure_azurebackup.westus3_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:504:402::300/121', 'IPv6');

@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "4.161.180.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.UAENorth",
+    "region": "uaenorth"
+  },
+  {
     "ip_address": "20.38.155.64/26",
     "ip_type": "IPv4",
     "service": "AzureBackup.UAENorth",

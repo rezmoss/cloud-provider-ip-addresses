@@ -1,6 +1,90 @@
 [
   {
-    "ip_address": "4.199.128.0/17",
+    "ip_address": "4.199.128.0/18",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.australiacentral",
+    "region": "australiacentral"
+  },
+  {
+    "ip_address": "4.199.192.0/20",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.australiacentral",
+    "region": "australiacentral"
+  },
+  {
+    "ip_address": "4.199.208.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.australiacentral",
+    "region": "australiacentral"
+  },
+  {
+    "ip_address": "4.199.212.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.australiacentral",
+    "region": "australiacentral"
+  },
+  {
+    "ip_address": "4.199.214.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.australiacentral",
+    "region": "australiacentral"
+  },
+  {
+    "ip_address": "4.199.215.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.australiacentral",
+    "region": "australiacentral"
+  },
+  {
+    "ip_address": "4.199.215.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.australiacentral",
+    "region": "australiacentral"
+  },
+  {
+    "ip_address": "4.199.215.160/29",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.australiacentral",
+    "region": "australiacentral"
+  },
+  {
+    "ip_address": "4.199.215.168/30",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.australiacentral",
+    "region": "australiacentral"
+  },
+  {
+    "ip_address": "4.199.215.172/31",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.australiacentral",
+    "region": "australiacentral"
+  },
+  {
+    "ip_address": "4.199.215.175/32",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.australiacentral",
+    "region": "australiacentral"
+  },
+  {
+    "ip_address": "4.199.215.176/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.australiacentral",
+    "region": "australiacentral"
+  },
+  {
+    "ip_address": "4.199.215.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.australiacentral",
+    "region": "australiacentral"
+  },
+  {
+    "ip_address": "4.199.216.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.australiacentral",
+    "region": "australiacentral"
+  },
+  {
+    "ip_address": "4.199.224.0/19",
     "ip_type": "IPv4",
     "service": "AzureCloud.australiacentral",
     "region": "australiacentral"

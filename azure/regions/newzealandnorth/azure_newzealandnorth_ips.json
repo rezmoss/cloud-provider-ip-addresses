@@ -522,6 +522,12 @@
     "region": "newzealandnorth"
   },
   {
+    "ip_address": "172.196.125.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
     "ip_address": "172.204.0.0/16",
     "ip_type": "IPv4",
     "service": "AzureCloud.newzealandnorth",

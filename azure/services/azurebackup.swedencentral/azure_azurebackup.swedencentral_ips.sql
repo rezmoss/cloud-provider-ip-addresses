@@ -16,6 +16,7 @@ INSERT INTO `azure_azurebackup.swedencentral_ips` (`ip_address`, `ip_type`) VALU
 INSERT INTO `azure_azurebackup.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('51.12.227.128/26', 'IPv4');
 INSERT INTO `azure_azurebackup.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('51.12.235.80/28', 'IPv4');
 INSERT INTO `azure_azurebackup.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('51.12.235.128/26', 'IPv4');
+INSERT INTO `azure_azurebackup.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('74.158.64.192/26', 'IPv4');
 INSERT INTO `azure_azurebackup.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1004:1::780/121', 'IPv6');
 INSERT INTO `azure_azurebackup.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1004:400::100/121', 'IPv6');
 INSERT INTO `azure_azurebackup.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1004:400::300/121', 'IPv6');

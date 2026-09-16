@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "48.200.141.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SoutheastUS5",
+    "region": "southeastus5"
+  },
+  {
     "ip_address": "74.7.192.128/28",
     "ip_type": "IPv4",
     "service": "AzureMonitor.SoutheastUS5",

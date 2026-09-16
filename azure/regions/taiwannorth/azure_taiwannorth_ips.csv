@@ -190,6 +190,7 @@ ip_address,ip_type,service,region
 70.157.184.128/26,IPv4,AzureMonitor.TaiwanNorth,taiwannorth
 70.157.192.32/29,IPv4,AzureAttestation.TaiwanNorth,taiwannorth
 70.157.192.40/30,IPv4,AzureAttestation.TaiwanNorth,taiwannorth
+70.157.193.0/26,IPv4,AzureBackup.TaiwanNorth,taiwannorth
 135.130.35.0/24,IPv4,AzureCloud.taiwannorth,taiwannorth
 135.130.35.0/24,IPv4,Storage.TaiwanNorth,taiwannorth
 135.130.41.0/24,IPv4,AzureCloud.taiwannorth,taiwannorth

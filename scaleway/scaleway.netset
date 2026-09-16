@@ -1,6 +1,6 @@
 # scaleway IP ranges - ipset restore format (hash:net)
-# Version: 1 | Generated: 2026-09-15 | Last changed: 2026-06-18
-# IPv4: 18 merged subnets, 1487104 unique IPs
+# Version: 2 | Generated: 2026-09-16 | Last changed: 2026-09-16
+# IPv4: 19 merged subnets, 1519872 unique IPs
 # IPv6: 3 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
@@ -14,6 +14,7 @@ add scaleway_v4 51.158.0.0/15
 add scaleway_v4 62.4.0.0/19
 add scaleway_v4 62.210.0.0/16
 add scaleway_v4 78.208.0.0/13
+add scaleway_v4 78.232.0.0/17
 add scaleway_v4 81.56.0.0/15
 add scaleway_v4 83.158.0.0/16
 add scaleway_v4 151.115.0.0/17

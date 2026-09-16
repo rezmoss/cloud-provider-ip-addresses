@@ -4,6 +4,7 @@ ip_address,ip_type,service,region
 51.107.59.64/26,IPv4,AzureBackup.SwitzerlandNorth,switzerlandn
 51.107.59.128/27,IPv4,AzureBackup.SwitzerlandNorth,switzerlandn
 51.107.243.0/26,IPv4,AzureBackup.SwitzerlandNorth,switzerlandn
+74.161.250.0/26,IPv4,AzureBackup.SwitzerlandNorth,switzerlandn
 74.242.176.248/29,IPv4,AzureBackup.SwitzerlandNorth,switzerlandn
 74.242.177.80/30,IPv4,AzureBackup.SwitzerlandNorth,switzerlandn
 74.242.177.84/32,IPv4,AzureBackup.SwitzerlandNorth,switzerlandn

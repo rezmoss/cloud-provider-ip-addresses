@@ -24,6 +24,7 @@ INSERT INTO `azure_southeastus5_ips` (`ip_address`, `ip_type`) VALUES ('20.231.1
 INSERT INTO `azure_southeastus5_ips` (`ip_address`, `ip_type`) VALUES ('48.200.128.0/17', 'IPv4');
 INSERT INTO `azure_southeastus5_ips` (`ip_address`, `ip_type`) VALUES ('48.200.134.132/30', 'IPv4');
 INSERT INTO `azure_southeastus5_ips` (`ip_address`, `ip_type`) VALUES ('48.200.134.136/29', 'IPv4');
+INSERT INTO `azure_southeastus5_ips` (`ip_address`, `ip_type`) VALUES ('48.200.141.64/27', 'IPv4');
 INSERT INTO `azure_southeastus5_ips` (`ip_address`, `ip_type`) VALUES ('52.106.121.192/27', 'IPv4');
 INSERT INTO `azure_southeastus5_ips` (`ip_address`, `ip_type`) VALUES ('57.150.246.0/23', 'IPv4');
 INSERT INTO `azure_southeastus5_ips` (`ip_address`, `ip_type`) VALUES ('57.150.246.0/23', 'IPv4');

@@ -6,7 +6,7 @@ CREATE TABLE IF NOT EXISTS `azure_norwayw_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
-INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('4.220.128.0/17', 'IPv4');
+INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('4.220.128.0/18', 'IPv4');
 INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('4.220.129.64/29', 'IPv4');
 INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('4.220.136.0/24', 'IPv4');
 INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('4.220.137.8/29', 'IPv4');
@@ -26,9 +26,12 @@ INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('4.220.176.128
 INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('4.220.177.0/24', 'IPv4');
 INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('4.220.178.0/23', 'IPv4');
 INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('4.220.180.0/22', 'IPv4');
+INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('4.220.192.0/19', 'IPv4');
 INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('4.220.213.0/25', 'IPv4');
+INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('4.220.224.0/20', 'IPv4');
 INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('4.220.236.224/28', 'IPv4');
 INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('4.220.236.240/29', 'IPv4');
+INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('4.220.240.0/22', 'IPv4');
 INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('4.220.240.16/28', 'IPv4');
 INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('4.220.241.41/32', 'IPv4');
 INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('4.220.241.138/31', 'IPv4');
@@ -36,8 +39,17 @@ INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('4.220.241.140
 INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('4.220.241.144/28', 'IPv4');
 INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('4.220.241.160/27', 'IPv4');
 INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('4.220.241.192/27', 'IPv4');
+INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('4.220.244.0/23', 'IPv4');
 INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('4.220.245.132/30', 'IPv4');
 INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('4.220.245.184/29', 'IPv4');
+INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('4.220.246.0/24', 'IPv4');
+INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('4.220.247.0/27', 'IPv4');
+INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('4.220.247.32/28', 'IPv4');
+INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('4.220.247.48/31', 'IPv4');
+INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('4.220.247.56/29', 'IPv4');
+INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('4.220.247.64/26', 'IPv4');
+INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('4.220.247.128/25', 'IPv4');
+INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('4.220.248.0/21', 'IPv4');
 INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('4.220.248.0/21', 'IPv4');
 INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('13.104.153.48/28', 'IPv4');
 INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('13.104.153.96/27', 'IPv4');

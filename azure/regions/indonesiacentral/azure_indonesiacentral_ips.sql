@@ -75,6 +75,7 @@ INSERT INTO `azure_indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('48.1
 INSERT INTO `azure_indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('48.193.88.0/23', 'IPv4');
 INSERT INTO `azure_indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('48.193.109.152/29', 'IPv4');
 INSERT INTO `azure_indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('48.193.109.192/30', 'IPv4');
+INSERT INTO `azure_indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('48.193.116.64/26', 'IPv4');
 INSERT INTO `azure_indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('48.212.52.0/24', 'IPv4');
 INSERT INTO `azure_indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('48.212.180.0/24', 'IPv4');
 INSERT INTO `azure_indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('48.213.52.0/24', 'IPv4');

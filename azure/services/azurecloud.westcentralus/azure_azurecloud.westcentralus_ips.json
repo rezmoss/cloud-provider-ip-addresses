@@ -888,6 +888,12 @@
     "region": "westcentralus"
   },
   {
+    "ip_address": "57.157.81.128/31",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.westcentralus",
+    "region": "westcentralus"
+  },
+  {
     "ip_address": "57.163.30.0/23",
     "ip_type": "IPv4",
     "service": "AzureCloud.westcentralus",
@@ -1009,6 +1015,12 @@
   },
   {
     "ip_address": "145.190.177.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.westcentralus",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "145.190.192.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.westcentralus",
     "region": "westcentralus"

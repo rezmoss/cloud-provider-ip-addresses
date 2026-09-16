@@ -2640,6 +2640,12 @@
     "region": "ap-northeast-1"
   },
   {
+    "ip_address": "2406:da14:17bd:2f00::/56",
+    "ip_type": "IPv6",
+    "service": "CLOUDFRONT_ORIGIN_FACING",
+    "region": "ap-northeast-1"
+  },
+  {
     "ip_address": "2406:da14:1964:d500::/56",
     "ip_type": "IPv6",
     "service": "EFS",

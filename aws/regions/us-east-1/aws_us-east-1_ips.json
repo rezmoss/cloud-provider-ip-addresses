@@ -8988,6 +8988,12 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "2600:1f18:7530:7200::/56",
+    "ip_type": "IPv6",
+    "service": "CLOUDFRONT_ORIGIN_FACING",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "2600:1f18:759e:7a00::/56",
     "ip_type": "IPv6",
     "service": "EFS",

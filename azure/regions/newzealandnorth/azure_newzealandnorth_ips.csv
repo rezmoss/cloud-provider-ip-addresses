@@ -86,6 +86,7 @@ ip_address,ip_type,service,region
 172.196.116.72/29,IPv4,AzureAttestation.NewZealandNorth,newzealandnorth
 172.196.116.96/27,IPv4,Dynamics365ForMarketingEmail.NewZealandNorth,newzealandnorth
 172.196.117.32/30,IPv4,AzureAttestation.NewZealandNorth,newzealandnorth
+172.196.125.64/26,IPv4,AzureBackup.NewZealandNorth,newzealandnorth
 172.204.0.0/16,IPv4,AzureCloud.newzealandnorth,newzealandnorth
 172.204.56.121/32,IPv4,LogicApps.NewZealandNorth,newzealandnorth
 172.204.58.185/32,IPv4,LogicApps.NewZealandNorth,newzealandnorth

@@ -9,6 +9,7 @@ ip_address,ip_type,service,region
 51.12.227.128/26,IPv4,AzureBackup.SwedenCentral,swedencentral
 51.12.235.80/28,IPv4,AzureBackup.SwedenCentral,swedencentral
 51.12.235.128/26,IPv4,AzureBackup.SwedenCentral,swedencentral
+74.158.64.192/26,IPv4,AzureBackup.SwedenCentral,swedencentral
 2603:1020:1004:1::780/121,IPv6,AzureBackup.SwedenCentral,swedencentral
 2603:1020:1004:400::100/121,IPv6,AzureBackup.SwedenCentral,swedencentral
 2603:1020:1004:400::300/121,IPv6,AzureBackup.SwedenCentral,swedencentral

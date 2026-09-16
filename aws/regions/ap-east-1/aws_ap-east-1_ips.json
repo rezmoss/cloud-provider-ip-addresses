@@ -1008,6 +1008,12 @@
     "region": "ap-east-1"
   },
   {
+    "ip_address": "2406:da1e:705:1600::/56",
+    "ip_type": "IPv6",
+    "service": "CLOUDFRONT_ORIGIN_FACING",
+    "region": "ap-east-1"
+  },
+  {
     "ip_address": "2406:da1e:da1:3c00::/56",
     "ip_type": "IPv6",
     "service": "EC2_INSTANCE_CONNECT",

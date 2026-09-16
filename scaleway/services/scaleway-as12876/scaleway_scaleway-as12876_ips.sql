@@ -13,6 +13,7 @@ INSERT INTO `scaleway_scaleway-as12876_ips` (`ip_address`, `ip_type`) VALUES ('5
 INSERT INTO `scaleway_scaleway-as12876_ips` (`ip_address`, `ip_type`) VALUES ('51.159.224.0/19', 'IPv4');
 INSERT INTO `scaleway_scaleway-as12876_ips` (`ip_address`, `ip_type`) VALUES ('62.4.0.0/19', 'IPv4');
 INSERT INTO `scaleway_scaleway-as12876_ips` (`ip_address`, `ip_type`) VALUES ('62.210.0.0/16', 'IPv4');
+INSERT INTO `scaleway_scaleway-as12876_ips` (`ip_address`, `ip_type`) VALUES ('78.232.0.0/17', 'IPv4');
 INSERT INTO `scaleway_scaleway-as12876_ips` (`ip_address`, `ip_type`) VALUES ('151.115.0.0/17', 'IPv4');
 INSERT INTO `scaleway_scaleway-as12876_ips` (`ip_address`, `ip_type`) VALUES ('151.115.128.0/19', 'IPv4');
 INSERT INTO `scaleway_scaleway-as12876_ips` (`ip_address`, `ip_type`) VALUES ('151.115.160.0/19', 'IPv4');

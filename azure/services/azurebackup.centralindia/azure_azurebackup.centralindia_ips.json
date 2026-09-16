@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "4.188.125.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.CentralIndia",
+    "region": "centralindia"
+  },
+  {
     "ip_address": "20.192.44.128/26",
     "ip_type": "IPv4",
     "service": "AzureBackup.CentralIndia",

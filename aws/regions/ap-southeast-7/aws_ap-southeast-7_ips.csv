@@ -73,6 +73,7 @@ ip_address,ip_type,service,region
 2406:da00:4800::/40,IPv6,EC2,ap-southeast-7
 2406:da14:8000::/36,IPv6,AMAZON,ap-southeast-7
 2406:da14:8000::/36,IPv6,EC2,ap-southeast-7
+2406:da14:80bb:ea00::/56,IPv6,CLOUDFRONT_ORIGIN_FACING,ap-southeast-7
 2406:da14:85c5:5b00::/56,IPv6,EC2_INSTANCE_CONNECT,ap-southeast-7
 2406:da14:8634:e600::/56,IPv6,EFS,ap-southeast-7
 2406:da14:8ad5:f500::/56,IPv6,EFS,ap-southeast-7

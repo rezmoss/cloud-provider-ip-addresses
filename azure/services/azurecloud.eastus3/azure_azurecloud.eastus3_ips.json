@@ -168,7 +168,7 @@
     "region": "eastus3"
   },
   {
-    "ip_address": "57.157.25.192/31",
+    "ip_address": "57.157.25.192/29",
     "ip_type": "IPv4",
     "service": "AzureCloud.eastus3",
     "region": "eastus3"
@@ -324,25 +324,13 @@
     "region": "eastus3"
   },
   {
-    "ip_address": "2603:1061:101a:c0::/60",
+    "ip_address": "2603:1061:101a:c0::/59",
     "ip_type": "IPv6",
     "service": "AzureCloud.eastus3",
     "region": "eastus3"
   },
   {
-    "ip_address": "2603:1061:101a:d0::/61",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.eastus3",
-    "region": "eastus3"
-  },
-  {
-    "ip_address": "2603:1061:101a:d8::/62",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.eastus3",
-    "region": "eastus3"
-  },
-  {
-    "ip_address": "2603:1061:101a:dc::/63",
+    "ip_address": "2603:1061:101a:e0::/64",
     "ip_type": "IPv6",
     "service": "AzureCloud.eastus3",
     "region": "eastus3"

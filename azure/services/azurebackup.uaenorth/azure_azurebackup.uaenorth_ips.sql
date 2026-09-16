@@ -6,6 +6,7 @@ CREATE TABLE IF NOT EXISTS `azure_azurebackup.uaenorth_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_azurebackup.uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('4.161.180.64/26', 'IPv4');
 INSERT INTO `azure_azurebackup.uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('20.38.155.64/26', 'IPv4');
 INSERT INTO `azure_azurebackup.uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('40.120.74.192/26', 'IPv4');
 INSERT INTO `azure_azurebackup.uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('40.120.75.0/27', 'IPv4');

@@ -450,6 +450,12 @@
     "region": "ap-east-2"
   },
   {
+    "ip_address": "2406:da1c:8d8c:4600::/56",
+    "ip_type": "IPv6",
+    "service": "CLOUDFRONT_ORIGIN_FACING",
+    "region": "ap-east-2"
+  },
+  {
     "ip_address": "2406:da2c:8000::/36",
     "ip_type": "IPv6",
     "service": "AMAZON",

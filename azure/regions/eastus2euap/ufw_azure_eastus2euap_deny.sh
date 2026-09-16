@@ -1,6 +1,6 @@
 #!/bin/bash
 # Azure IP Ranges
-# Updated: 2026-09-04 02:26:16
+# Updated: 2026-09-16 02:25:57
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -255,7 +255,21 @@ ufw deny from 48.208.66.0/24
 ufw deny from 48.212.48.0/24
 ufw deny from 48.212.176.0/24
 ufw deny from 48.213.48.0/24
-ufw deny from 48.223.0.0/17
+ufw deny from 48.223.0.0/18
+ufw deny from 48.223.64.0/20
+ufw deny from 48.223.80.0/22
+ufw deny from 48.223.84.0/23
+ufw deny from 48.223.86.0/25
+ufw deny from 48.223.86.128/27
+ufw deny from 48.223.86.160/28
+ufw deny from 48.223.86.176/29
+ufw deny from 48.223.86.184/31
+ufw deny from 48.223.86.187/32
+ufw deny from 48.223.86.188/30
+ufw deny from 48.223.86.192/26
+ufw deny from 48.223.87.0/24
+ufw deny from 48.223.88.0/21
+ufw deny from 48.223.96.0/19
 ufw deny from 51.5.54.0/24
 ufw deny from 52.102.142.0/24
 ufw deny from 52.103.16.0/24
@@ -314,6 +328,7 @@ ufw deny from 57.157.1.132/30
 ufw deny from 57.157.1.136/31
 ufw deny from 57.157.1.156/30
 ufw deny from 57.157.1.160/30
+ufw deny from 57.157.2.8/30
 ufw deny from 57.157.2.76/31
 ufw deny from 57.157.2.124/31
 ufw deny from 57.157.3.190/31
@@ -334,7 +349,22 @@ ufw deny from 57.157.50.94/31
 ufw deny from 68.220.64.0/20
 ufw deny from 68.220.80.0/21
 ufw deny from 68.220.96.0/19
-ufw deny from 72.147.0.0/17
+ufw deny from 72.147.0.0/21
+ufw deny from 72.147.8.0/22
+ufw deny from 72.147.12.0/23
+ufw deny from 72.147.14.0/26
+ufw deny from 72.147.14.64/27
+ufw deny from 72.147.14.96/28
+ufw deny from 72.147.14.112/29
+ufw deny from 72.147.14.120/30
+ufw deny from 72.147.14.124/31
+ufw deny from 72.147.14.128/27
+ufw deny from 72.147.14.160/28
+ufw deny from 72.147.14.224/27
+ufw deny from 72.147.15.0/24
+ufw deny from 72.147.16.0/20
+ufw deny from 72.147.32.0/19
+ufw deny from 72.147.64.0/18
 ufw deny from 74.151.0.0/17
 ufw deny from 104.44.95.208/28
 ufw deny from 135.18.0.0/17
@@ -531,6 +561,7 @@ ufw deny from 2603:1030:401:8aa::/63
 ufw deny from 2603:1030:401:8ac::/64
 ufw deny from 2603:1030:401:8b6::/63
 ufw deny from 2603:1030:401:8b8::/63
+ufw deny from 2603:1030:401:8ec::/63
 ufw deny from 2603:1030:401:90e::/64
 ufw deny from 2603:1030:401:926::/64
 ufw deny from 2603:1030:401:9c7::/64

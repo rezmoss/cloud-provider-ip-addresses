@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "4.212.251.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
     "ip_address": "40.79.131.0/26",
     "ip_type": "IPv4",
     "service": "AzureBackup.FranceCentral",

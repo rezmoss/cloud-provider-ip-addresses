@@ -6,5 +6,6 @@ CREATE TABLE IF NOT EXISTS `azure_azurebackup.indonesiacentral_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_azurebackup.indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('48.193.116.64/26', 'IPv4');
 INSERT INTO `azure_azurebackup.indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('70.153.156.64/26', 'IPv4');
 INSERT INTO `azure_azurebackup.indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1802::380/121', 'IPv6');

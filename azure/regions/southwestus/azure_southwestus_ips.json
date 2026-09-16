@@ -114,6 +114,12 @@
     "region": "southwestus"
   },
   {
+    "ip_address": "48.219.91.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SouthwestUS",
+    "region": "southwestus"
+  },
+  {
     "ip_address": "48.219.152.0/21",
     "ip_type": "IPv4",
     "service": "AzureCloud.southwestus",

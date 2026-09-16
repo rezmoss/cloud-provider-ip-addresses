@@ -1,6 +1,6 @@
 #!/bin/bash
 # Alibaba IP Ranges
-# Updated: 2026-09-15 02:31:12
+# Updated: 2026-09-16 02:32:22
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -192,6 +192,7 @@ ufw allow from 59.82.0.0/17
 ufw allow from 59.82.128.0/19
 ufw allow from 59.110.0.0/16
 ufw allow from 60.205.0.0/16
+ufw allow from 62.182.190.0/23
 ufw allow from 101.37.0.0/16
 ufw allow from 101.132.0.0/15
 ufw allow from 101.200.0.0/15

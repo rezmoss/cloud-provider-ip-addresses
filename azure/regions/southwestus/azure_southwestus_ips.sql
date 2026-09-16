@@ -25,6 +25,7 @@ INSERT INTO `azure_southwestus_ips` (`ip_address`, `ip_type`) VALUES ('48.219.64
 INSERT INTO `azure_southwestus_ips` (`ip_address`, `ip_type`) VALUES ('48.219.81.176/29', 'IPv4');
 INSERT INTO `azure_southwestus_ips` (`ip_address`, `ip_type`) VALUES ('48.219.89.92/30', 'IPv4');
 INSERT INTO `azure_southwestus_ips` (`ip_address`, `ip_type`) VALUES ('48.219.90.24/29', 'IPv4');
+INSERT INTO `azure_southwestus_ips` (`ip_address`, `ip_type`) VALUES ('48.219.91.224/27', 'IPv4');
 INSERT INTO `azure_southwestus_ips` (`ip_address`, `ip_type`) VALUES ('48.219.152.0/21', 'IPv4');
 INSERT INTO `azure_southwestus_ips` (`ip_address`, `ip_type`) VALUES ('48.219.160.0/19', 'IPv4');
 INSERT INTO `azure_southwestus_ips` (`ip_address`, `ip_type`) VALUES ('48.219.192.0/19', 'IPv4');

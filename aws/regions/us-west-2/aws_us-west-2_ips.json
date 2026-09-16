@@ -4002,6 +4002,12 @@
     "region": "us-west-2"
   },
   {
+    "ip_address": "2600:1f13:417:4d00::/56",
+    "ip_type": "IPv6",
+    "service": "CLOUDFRONT_ORIGIN_FACING",
+    "region": "us-west-2"
+  },
+  {
     "ip_address": "2600:1f13:a0d:a700::/56",
     "ip_type": "IPv6",
     "service": "EC2_INSTANCE_CONNECT",

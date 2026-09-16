@@ -7,7 +7,18 @@ CREATE TABLE IF NOT EXISTS `azure_azurecloud.eastasia_ips` (
 );
 
 INSERT INTO `azure_azurecloud.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('4.144.0.0/17', 'IPv4');
-INSERT INTO `azure_azurecloud.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('4.191.0.0/16', 'IPv4');
+INSERT INTO `azure_azurecloud.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('4.191.0.0/18', 'IPv4');
+INSERT INTO `azure_azurecloud.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('4.191.64.0/19', 'IPv4');
+INSERT INTO `azure_azurecloud.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('4.191.96.0/24', 'IPv4');
+INSERT INTO `azure_azurecloud.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('4.191.97.0/27', 'IPv4');
+INSERT INTO `azure_azurecloud.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('4.191.97.48/28', 'IPv4');
+INSERT INTO `azure_azurecloud.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('4.191.97.64/26', 'IPv4');
+INSERT INTO `azure_azurecloud.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('4.191.97.128/25', 'IPv4');
+INSERT INTO `azure_azurecloud.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('4.191.98.0/23', 'IPv4');
+INSERT INTO `azure_azurecloud.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('4.191.100.0/22', 'IPv4');
+INSERT INTO `azure_azurecloud.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('4.191.104.0/21', 'IPv4');
+INSERT INTO `azure_azurecloud.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('4.191.112.0/20', 'IPv4');
+INSERT INTO `azure_azurecloud.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('4.191.128.0/17', 'IPv4');
 INSERT INTO `azure_azurecloud.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('4.192.0.0/16', 'IPv4');
 INSERT INTO `azure_azurecloud.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('4.252.0.0/16', 'IPv4');
 INSERT INTO `azure_azurecloud.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('13.70.0.0/18', 'IPv4');

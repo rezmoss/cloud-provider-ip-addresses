@@ -1,15 +1,12 @@
 #!/bin/bash
 # Applebot IP Ranges
-# Updated: 2026-08-14 03:02:24
+# Updated: 2026-09-16 02:26:04
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
 # Updates daily at 02:00 UTC
 # iptables allow rules for applebot
 
-iptables -A INPUT -s 17.22.237.0/24 -j ACCEPT
-iptables -A INPUT -s 17.22.245.0/24 -j ACCEPT
-iptables -A INPUT -s 17.22.253.0/24 -j ACCEPT
 iptables -A INPUT -s 17.166.20.0/22 -j ACCEPT
 iptables -A INPUT -s 17.166.24.0/23 -j ACCEPT
 iptables -A INPUT -s 17.166.150.0/23 -j ACCEPT
@@ -19,12 +16,6 @@ iptables -A INPUT -s 17.166.232.0/22 -j ACCEPT
 iptables -A INPUT -s 17.166.236.0/23 -j ACCEPT
 iptables -A INPUT -s 17.166.240.48/28 -j ACCEPT
 iptables -A INPUT -s 17.166.248.48/28 -j ACCEPT
-iptables -A INPUT -s 17.241.75.0/24 -j ACCEPT
 iptables -A INPUT -s 17.241.193.160/27 -j ACCEPT
 iptables -A INPUT -s 17.241.200.160/27 -j ACCEPT
 iptables -A INPUT -s 17.241.208.160/27 -j ACCEPT
-iptables -A INPUT -s 17.241.219.0/24 -j ACCEPT
-iptables -A INPUT -s 17.241.227.0/24 -j ACCEPT
-iptables -A INPUT -s 17.246.15.0/24 -j ACCEPT
-iptables -A INPUT -s 17.246.19.0/24 -j ACCEPT
-iptables -A INPUT -s 17.246.23.0/24 -j ACCEPT

@@ -444,6 +444,12 @@
     "region": "ap-southeast-7"
   },
   {
+    "ip_address": "2406:da14:80bb:ea00::/56",
+    "ip_type": "IPv6",
+    "service": "CLOUDFRONT_ORIGIN_FACING",
+    "region": "ap-southeast-7"
+  },
+  {
     "ip_address": "2406:da14:85c5:5b00::/56",
     "ip_type": "IPv6",
     "service": "EC2_INSTANCE_CONNECT",

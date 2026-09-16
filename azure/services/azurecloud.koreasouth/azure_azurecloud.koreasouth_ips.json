@@ -1,6 +1,84 @@
 [
   {
-    "ip_address": "4.243.0.0/16",
+    "ip_address": "4.243.0.0/17",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "4.243.128.0/19",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "4.243.160.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "4.243.168.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "4.243.168.32/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "4.243.168.54/31",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "4.243.168.56/29",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "4.243.168.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "4.243.168.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "4.243.169.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "4.243.170.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "4.243.172.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "4.243.176.0/20",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreasouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "4.243.192.0/18",
     "ip_type": "IPv4",
     "service": "AzureCloud.koreasouth",
     "region": "koreasouth"

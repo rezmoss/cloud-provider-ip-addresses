@@ -17,6 +17,7 @@ ip_address,ip_type,service,region
 48.200.128.0/17,IPv4,AzureCloud.southeastus5,southeastus5
 48.200.134.132/30,IPv4,AzureAttestation.SoutheastUS5,southeastus5
 48.200.134.136/29,IPv4,AzureAttestation.SoutheastUS5,southeastus5
+48.200.141.64/27,IPv4,AzureMonitor.SoutheastUS5,southeastus5
 52.106.121.192/27,IPv4,AzureCloud.southeastus5,southeastus5
 57.150.246.0/23,IPv4,AzureCloud.southeastus5,southeastus5
 57.150.246.0/23,IPv4,Storage.SoutheastUS5,southeastus5

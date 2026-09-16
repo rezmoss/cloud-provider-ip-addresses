@@ -1542,6 +1542,12 @@
     "region": "eu-south-1"
   },
   {
+    "ip_address": "2a05:d01a:8a9:be00::/56",
+    "ip_type": "IPv6",
+    "service": "CLOUDFRONT_ORIGIN_FACING",
+    "region": "eu-south-1"
+  },
+  {
     "ip_address": "2a05:d01a:c03:4a00::/56",
     "ip_type": "IPv6",
     "service": "EC2_INSTANCE_CONNECT",

@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "4.170.31.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
     "ip_address": "20.21.36.128/26",
     "ip_type": "IPv4",
     "service": "AzureBackup.QatarCentral",

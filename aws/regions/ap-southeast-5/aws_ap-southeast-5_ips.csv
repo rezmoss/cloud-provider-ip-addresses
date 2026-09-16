@@ -93,6 +93,7 @@ ip_address,ip_type,service,region
 2406:da10:8000::/36,IPv6,AMAZON,ap-southeast-5
 2406:da10:8000::/36,IPv6,EC2,ap-southeast-5
 2406:da10:83d4:d000::/56,IPv6,EFS,ap-southeast-5
+2406:da10:847f:a100::/56,IPv6,CLOUDFRONT_ORIGIN_FACING,ap-southeast-5
 2406:da10:84f9:9e00::/56,IPv6,EC2_INSTANCE_CONNECT,ap-southeast-5
 2406:da10:8649:1d00::/56,IPv6,EFS,ap-southeast-5
 2406:da20:8000::/36,IPv6,AMAZON,ap-southeast-5

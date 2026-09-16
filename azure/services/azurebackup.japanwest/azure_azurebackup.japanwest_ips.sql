@@ -12,6 +12,7 @@ INSERT INTO `azure_azurebackup.japanwest_ips` (`ip_address`, `ip_type`) VALUES (
 INSERT INTO `azure_azurebackup.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('40.74.98.128/27', 'IPv4');
 INSERT INTO `azure_azurebackup.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('172.192.193.164/30', 'IPv4');
 INSERT INTO `azure_azurebackup.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('172.192.193.224/28', 'IPv4');
+INSERT INTO `azure_azurebackup.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('172.192.234.128/26', 'IPv4');
 INSERT INTO `azure_azurebackup.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:606:3::180/121', 'IPv6');
 INSERT INTO `azure_azurebackup.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:606:402::200/121', 'IPv6');
 INSERT INTO `azure_azurebackup.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:606:800::80/121', 'IPv6');

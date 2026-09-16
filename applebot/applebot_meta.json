@@ -1,23 +1,23 @@
 {
   "provider": "applebot",
-  "version": 2,
-  "generated_date": "2026-09-15",
-  "last_changed_date": "2026-08-14",
+  "version": 3,
+  "generated_date": "2026-09-16",
+  "last_changed_date": "2026-09-16",
   "sources": [
     "https://search.developer.apple.com/applebot.json"
   ],
   "ipv4": {
-    "cidrs": 33,
-    "merged_cidrs": 21,
-    "addresses": 7056
+    "cidrs": 24,
+    "merged_cidrs": 12,
+    "addresses": 4752
   },
   "ipv6": {
     "cidrs": 0,
     "merged_cidrs": 0,
     "addresses": 0
   },
-  "total_entries": 33,
-  "content_sha256": "369d18408608490d76eed6c3cdca61322e4ab95cfed2438430d9f6cac87944b9",
+  "total_entries": 24,
+  "content_sha256": "5c433cf0735a27fa5c23d405ed457f2702af4b068b01ef889443ebadb0e10918",
   "license": "CC0-1.0",
   "license_url": "https://github.com/rezmoss/cloud-provider-ip-addresses/blob/main/LICENSE"
 }

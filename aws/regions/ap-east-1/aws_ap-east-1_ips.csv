@@ -167,6 +167,7 @@ ip_address,ip_type,service,region
 2406:da1e:10e:a00::/56,IPv6,AURORA_DSQL,ap-east-1
 2406:da1e:32b:4500::/56,IPv6,EFS,ap-east-1
 2406:da1e:5ac:e700::/56,IPv6,EFS,ap-east-1
+2406:da1e:705:1600::/56,IPv6,CLOUDFRONT_ORIGIN_FACING,ap-east-1
 2406:da1e:da1:3c00::/56,IPv6,EC2_INSTANCE_CONNECT,ap-east-1
 2406:da2e::/36,IPv6,AMAZON,ap-east-1
 2406:da2e::/36,IPv6,EC2,ap-east-1

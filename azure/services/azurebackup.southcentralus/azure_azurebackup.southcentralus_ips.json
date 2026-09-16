@@ -48,6 +48,12 @@
     "region": "southcentralus"
   },
   {
+    "ip_address": "74.155.31.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
     "ip_address": "104.214.19.96/27",
     "ip_type": "IPv4",
     "service": "AzureBackup.SouthCentralUS",

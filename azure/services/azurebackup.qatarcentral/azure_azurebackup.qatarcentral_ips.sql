@@ -6,6 +6,7 @@ CREATE TABLE IF NOT EXISTS `azure_azurebackup.qatarcentral_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_azurebackup.qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('4.170.31.0/26', 'IPv4');
 INSERT INTO `azure_azurebackup.qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.21.36.128/26', 'IPv4');
 INSERT INTO `azure_azurebackup.qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.21.43.64/26', 'IPv4');
 INSERT INTO `azure_azurebackup.qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.21.67.0/26', 'IPv4');

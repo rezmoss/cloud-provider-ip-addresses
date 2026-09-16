@@ -77,6 +77,7 @@ ip_address,ip_type,service,region
 2600:1f1a:4000::/36,IPv6,EC2,ca-west-1
 2600:1f1a:4040:b100::/56,IPv6,AURORA_DSQL,ca-west-1
 2600:1f1a:41c6:700::/56,IPv6,EFS,ca-west-1
+2600:1f1a:4568:b500::/56,IPv6,CLOUDFRONT_ORIGIN_FACING,ca-west-1
 2600:1f1a:4bd9:d100::/56,IPv6,EFS,ca-west-1
 2600:1f1a:4ff6:d500::/56,IPv6,EC2_INSTANCE_CONNECT,ca-west-1
 2600:1f2a:4000::/36,IPv6,AMAZON,ca-west-1

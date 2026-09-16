@@ -24,6 +24,12 @@
     "region": "israelcentral"
   },
   {
+    "ip_address": "51.58.116.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.IsraelCentral",
+    "region": "israelcentral"
+  },
+  {
     "ip_address": "2603:1040:1402::680/121",
     "ip_type": "IPv6",
     "service": "AzureBackup.IsraelCentral",

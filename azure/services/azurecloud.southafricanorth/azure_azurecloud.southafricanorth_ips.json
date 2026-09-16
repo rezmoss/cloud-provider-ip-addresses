@@ -12,7 +12,85 @@
     "region": "southafricanorth"
   },
   {
-    "ip_address": "4.221.0.0/16",
+    "ip_address": "4.221.0.0/17",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southafricanorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "4.221.128.0/18",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southafricanorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "4.221.192.0/19",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southafricanorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "4.221.224.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southafricanorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "4.221.232.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southafricanorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "4.221.236.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southafricanorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "4.221.238.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southafricanorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "4.221.239.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southafricanorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "4.221.239.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southafricanorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "4.221.239.192/29",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southafricanorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "4.221.239.200/31",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southafricanorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "4.221.239.208/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southafricanorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "4.221.239.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southafricanorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "4.221.240.0/20",
     "ip_type": "IPv4",
     "service": "AzureCloud.southafricanorth",
     "region": "southafricanorth"
