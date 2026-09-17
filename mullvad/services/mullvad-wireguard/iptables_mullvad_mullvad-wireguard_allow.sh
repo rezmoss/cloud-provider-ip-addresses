@@ -1,6 +1,6 @@
 #!/bin/bash
 # Mullvad IP Ranges
-# Updated: 2026-09-16 02:33:54
+# Updated: 2026-09-17 02:29:54
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -277,6 +277,7 @@ iptables -A INPUT -s 135.136.55.2/32 -j ACCEPT
 iptables -A INPUT -s 135.136.58.130/32 -j ACCEPT
 iptables -A INPUT -s 135.136.63.2/32 -j ACCEPT
 iptables -A INPUT -s 135.136.63.130/32 -j ACCEPT
+iptables -A INPUT -s 135.136.98.130/32 -j ACCEPT
 iptables -A INPUT -s 138.199.6.194/32 -j ACCEPT
 iptables -A INPUT -s 138.199.6.207/32 -j ACCEPT
 iptables -A INPUT -s 138.199.6.220/32 -j ACCEPT
@@ -350,8 +351,8 @@ iptables -A INPUT -s 146.70.197.194/32 -j ACCEPT
 iptables -A INPUT -s 146.70.198.66/32 -j ACCEPT
 iptables -A INPUT -s 146.70.198.130/32 -j ACCEPT
 iptables -A INPUT -s 146.70.198.194/32 -j ACCEPT
+iptables -A INPUT -s 146.70.199.2/32 -j ACCEPT
 iptables -A INPUT -s 146.70.199.130/32 -j ACCEPT
-iptables -A INPUT -s 146.70.199.194/32 -j ACCEPT
 iptables -A INPUT -s 146.70.200.2/32 -j ACCEPT
 iptables -A INPUT -s 146.70.200.194/32 -j ACCEPT
 iptables -A INPUT -s 146.70.201.2/32 -j ACCEPT
@@ -509,8 +510,8 @@ iptables -A INPUT -s 193.32.126.68/31 -j ACCEPT
 iptables -A INPUT -s 193.32.126.70/32 -j ACCEPT
 iptables -A INPUT -s 193.32.126.83/32 -j ACCEPT
 iptables -A INPUT -s 193.32.126.84/32 -j ACCEPT
-iptables -A INPUT -s 193.32.127.67/32 -j ACCEPT
 iptables -A INPUT -s 193.32.127.69/32 -j ACCEPT
+iptables -A INPUT -s 193.32.127.70/31 -j ACCEPT
 iptables -A INPUT -s 193.32.127.72/32 -j ACCEPT
 iptables -A INPUT -s 193.32.248.66/31 -j ACCEPT
 iptables -A INPUT -s 193.32.248.68/31 -j ACCEPT
@@ -978,8 +979,9 @@ ip6tables -A INPUT -s 2a03:1b20:9:f011::f201/128 -j ACCEPT
 ip6tables -A INPUT -s 2a03:1b20:9:f011::f301/128 -j ACCEPT
 ip6tables -A INPUT -s 2a03:1b20:9:f011::f401/128 -j ACCEPT
 ip6tables -A INPUT -s 2a03:1b20:9:f011::f501/128 -j ACCEPT
-ip6tables -A INPUT -s 2a03:1b20:a:f011::f101/128 -j ACCEPT
 ip6tables -A INPUT -s 2a03:1b20:a:f011:4::f001/128 -j ACCEPT
+ip6tables -A INPUT -s 2a03:1b20:a:f011:5::f001/128 -j ACCEPT
+ip6tables -A INPUT -s 2a03:1b20:a:f011:6::f001/128 -j ACCEPT
 ip6tables -A INPUT -s 2a03:1b20:a:f011:7::f001/128 -j ACCEPT
 ip6tables -A INPUT -s 2a03:1b20:b:f011::a01f/128 -j ACCEPT
 ip6tables -A INPUT -s 2a03:1b20:b:f011::a02f/128 -j ACCEPT
@@ -1071,8 +1073,9 @@ ip6tables -A INPUT -s 2a0d:5600:9:c::f001/128 -j ACCEPT
 ip6tables -A INPUT -s 2a0d:5600:9:d::f001/128 -j ACCEPT
 ip6tables -A INPUT -s 2a0d:5600:9:e::a02f/128 -j ACCEPT
 ip6tables -A INPUT -s 2a0d:5600:9:16::f001/128 -j ACCEPT
-ip6tables -A INPUT -s 2a0d:5600:d:43::a02f/128 -j ACCEPT
-ip6tables -A INPUT -s 2a0d:5600:d:44::a01f/128 -j ACCEPT
+ip6tables -A INPUT -s 2a0d:5600:d:41::f001/128 -j ACCEPT
+ip6tables -A INPUT -s 2a0d:5600:d:42::f001/128 -j ACCEPT
+ip6tables -A INPUT -s 2a0d:5600:d:43::f001/128 -j ACCEPT
 ip6tables -A INPUT -s 2a0d:5600:13:67::a01f/128 -j ACCEPT
 ip6tables -A INPUT -s 2a0d:5600:13:c47::a02f/128 -j ACCEPT
 ip6tables -A INPUT -s 2a0d:5600:24:2b6::f001/128 -j ACCEPT

@@ -138,6 +138,12 @@
     "region": "global"
   },
   {
+    "ip_address": "78.232.0.0/16",
+    "ip_type": "IPv4",
+    "service": "scaleway-as12876",
+    "region": "global"
+  },
+  {
     "ip_address": "78.232.0.0/17",
     "ip_type": "IPv4",
     "service": "scaleway-as12876",

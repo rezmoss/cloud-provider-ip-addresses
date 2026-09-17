@@ -29,6 +29,7 @@ INSERT INTO `scaleway_ips` (`ip_address`, `ip_type`) VALUES ('78.210.0.0/17', 'I
 INSERT INTO `scaleway_ips` (`ip_address`, `ip_type`) VALUES ('78.210.128.0/17', 'IPv4');
 INSERT INTO `scaleway_ips` (`ip_address`, `ip_type`) VALUES ('78.211.0.0/17', 'IPv4');
 INSERT INTO `scaleway_ips` (`ip_address`, `ip_type`) VALUES ('78.211.128.0/17', 'IPv4');
+INSERT INTO `scaleway_ips` (`ip_address`, `ip_type`) VALUES ('78.232.0.0/16', 'IPv4');
 INSERT INTO `scaleway_ips` (`ip_address`, `ip_type`) VALUES ('78.232.0.0/17', 'IPv4');
 INSERT INTO `scaleway_ips` (`ip_address`, `ip_type`) VALUES ('81.56.0.0/15', 'IPv4');
 INSERT INTO `scaleway_ips` (`ip_address`, `ip_type`) VALUES ('81.56.0.0/16', 'IPv4');

@@ -1080,6 +1080,18 @@
     "region": "ap-southeast-4"
   },
   {
+    "ip_address": "2600:f0f3:f010:2000::/56",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-southeast-4"
+  },
+  {
+    "ip_address": "2600:f0f3:f010:2000::/56",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-southeast-4"
+  },
+  {
     "ip_address": "2600:f0fb:f10e::/48",
     "ip_type": "IPv6",
     "service": "AMAZON",

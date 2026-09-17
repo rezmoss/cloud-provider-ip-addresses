@@ -156,6 +156,8 @@ ip_address,ip_type,service,region
 2600:f0f2:7020::/48,IPv6,AMAZON,ca-west-1
 2600:f0f2:7020::/48,IPv6,EC2,ca-west-1
 2600:f0f2:7020::/48,IPv6,S3,ca-west-1
+2600:f0f3:f010:3000::/56,IPv6,AMAZON,ca-west-1
+2600:f0f3:f010:3000::/56,IPv6,EC2,ca-west-1
 2600:f0fb:f10c::/48,IPv6,AMAZON,ca-west-1
 2600:f0fb:f10c::/48,IPv6,EC2,ca-west-1
 2605:b140:9805::/48,IPv6,AMAZON,ca-west-1

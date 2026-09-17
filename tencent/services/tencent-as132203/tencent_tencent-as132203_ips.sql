@@ -1128,6 +1128,5 @@ INSERT INTO `tencent_tencent-as132203_ips` (`ip_address`, `ip_type`) VALUES ('24
 INSERT INTO `tencent_tencent-as132203_ips` (`ip_address`, `ip_type`) VALUES ('240d:c010:20::/44', 'IPv6');
 INSERT INTO `tencent_tencent-as132203_ips` (`ip_address`, `ip_type`) VALUES ('240d:c010:58::/48', 'IPv6');
 INSERT INTO `tencent_tencent-as132203_ips` (`ip_address`, `ip_type`) VALUES ('240d:c010:5c::/48', 'IPv6');
-INSERT INTO `tencent_tencent-as132203_ips` (`ip_address`, `ip_type`) VALUES ('240d:c010:68::/48', 'IPv6');
 INSERT INTO `tencent_tencent-as132203_ips` (`ip_address`, `ip_type`) VALUES ('240d:c040::/44', 'IPv6');
 INSERT INTO `tencent_tencent-as132203_ips` (`ip_address`, `ip_type`) VALUES ('240d:c040:10::/44', 'IPv6');

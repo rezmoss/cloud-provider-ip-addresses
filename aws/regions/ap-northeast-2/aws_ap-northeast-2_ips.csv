@@ -265,6 +265,7 @@ ip_address,ip_type,service,region
 2406:da00:2000::/40,IPv6,EC2,ap-northeast-2
 2406:da12::/36,IPv6,AMAZON,ap-northeast-2
 2406:da12::/36,IPv6,EC2,ap-northeast-2
+2406:da12:4b:c200::/56,IPv6,CLOUDFRONT_ORIGIN_FACING,ap-northeast-2
 2406:da12:1e1:d900::/56,IPv6,EC2_INSTANCE_CONNECT,ap-northeast-2
 2406:da12:8f1:3d00::/56,IPv6,AURORA_DSQL,ap-northeast-2
 2406:da12:a2e:9b00::/56,IPv6,EFS,ap-northeast-2

@@ -2028,6 +2028,12 @@
     "region": "ap-southeast-2"
   },
   {
+    "ip_address": "2406:da1c:787:2b00::/56",
+    "ip_type": "IPv6",
+    "service": "CLOUDFRONT_ORIGIN_FACING",
+    "region": "ap-southeast-2"
+  },
+  {
     "ip_address": "2406:da1c:7ff:f800::/56",
     "ip_type": "IPv6",
     "service": "ROUTE53_HEALTHCHECKS",
@@ -2977,6 +2983,18 @@
   },
   {
     "ip_address": "2600:f0f2:7105::/48",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-southeast-2"
+  },
+  {
+    "ip_address": "2600:f0f3:f010:2b00::/56",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-southeast-2"
+  },
+  {
+    "ip_address": "2600:f0f3:f010:2b00::/56",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "ap-southeast-2"

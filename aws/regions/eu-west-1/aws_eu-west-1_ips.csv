@@ -609,6 +609,8 @@ ip_address,ip_type,service,region
 2600:f0f2:7015::/48,IPv6,AMAZON,eu-west-1
 2600:f0f2:7015::/48,IPv6,EC2,eu-west-1
 2600:f0f2:7015::/48,IPv6,S3,eu-west-1
+2600:f0f3:f010:1300::/56,IPv6,AMAZON,eu-west-1
+2600:f0f3:f010:1300::/56,IPv6,EC2,eu-west-1
 2600:f0fb:f022::/48,IPv6,AMAZON,eu-west-1
 2600:f0fb:f022::/48,IPv6,EC2,eu-west-1
 2600:f0fb:f102::/48,IPv6,AMAZON,eu-west-1
@@ -660,6 +662,7 @@ ip_address,ip_type,service,region
 2a05:d018:1505:aa00::/56,IPv6,EFS,eu-west-1
 2a05:d018:1813:9a00::/56,IPv6,EFS,eu-west-1
 2a05:d018:1944:bd00::/56,IPv6,EFS,eu-west-1
+2a05:d018:1a3a:2d00::/56,IPv6,CLOUDFRONT_ORIGIN_FACING,eu-west-1
 2a05:d018:1f0f:6e00::/56,IPv6,EFS,eu-west-1
 2a05:d028::/36,IPv6,AMAZON,eu-west-1
 2a05:d028::/36,IPv6,EC2,eu-west-1

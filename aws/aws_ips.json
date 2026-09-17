@@ -64848,6 +64848,12 @@
     "region": "ap-northeast-2"
   },
   {
+    "ip_address": "2406:da12:4b:c200::/56",
+    "ip_type": "IPv6",
+    "service": "CLOUDFRONT_ORIGIN_FACING",
+    "region": "ap-northeast-2"
+  },
+  {
     "ip_address": "2406:da12:1e1:d900::/56",
     "ip_type": "IPv6",
     "service": "EC2_INSTANCE_CONNECT",
@@ -65052,6 +65058,12 @@
     "region": "ap-northeast-3"
   },
   {
+    "ip_address": "2406:da16:c01:c200::/56",
+    "ip_type": "IPv6",
+    "service": "CLOUDFRONT_ORIGIN_FACING",
+    "region": "ap-northeast-3"
+  },
+  {
     "ip_address": "2406:da16:c46:6600::/56",
     "ip_type": "IPv6",
     "service": "AURORA_DSQL",
@@ -65097,6 +65109,12 @@
     "ip_address": "2406:da18:7ff:f800::/56",
     "ip_type": "IPv6",
     "service": "ROUTE53_HEALTHCHECKS",
+    "region": "ap-southeast-1"
+  },
+  {
+    "ip_address": "2406:da18:9fa:1b00::/56",
+    "ip_type": "IPv6",
+    "service": "CLOUDFRONT_ORIGIN_FACING",
     "region": "ap-southeast-1"
   },
   {
@@ -65175,6 +65193,12 @@
     "ip_address": "2406:da1a::/35",
     "ip_type": "IPv6",
     "service": "EC2",
+    "region": "ap-south-1"
+  },
+  {
+    "ip_address": "2406:da1a:6df:6c00::/56",
+    "ip_type": "IPv6",
+    "service": "CLOUDFRONT_ORIGIN_FACING",
     "region": "ap-south-1"
   },
   {
@@ -65259,6 +65283,12 @@
     "ip_address": "2406:da1c:410:4900::/56",
     "ip_type": "IPv6",
     "service": "EFS",
+    "region": "ap-southeast-2"
+  },
+  {
+    "ip_address": "2406:da1c:787:2b00::/56",
+    "ip_type": "IPv6",
+    "service": "CLOUDFRONT_ORIGIN_FACING",
     "region": "ap-southeast-2"
   },
   {
@@ -73962,6 +73992,12 @@
     "region": "ca-central-1"
   },
   {
+    "ip_address": "2600:1f11:e79:a800::/56",
+    "ip_type": "IPv6",
+    "service": "CLOUDFRONT_ORIGIN_FACING",
+    "region": "ca-central-1"
+  },
+  {
     "ip_address": "2600:1f11:2000::/36",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -74352,6 +74388,12 @@
     "region": "us-east-2"
   },
   {
+    "ip_address": "2600:1f16:1923:3000::/56",
+    "ip_type": "IPv6",
+    "service": "CLOUDFRONT_ORIGIN_FACING",
+    "region": "us-east-2"
+  },
+  {
     "ip_address": "2600:1f16:1ccb:8100::/56",
     "ip_type": "IPv6",
     "service": "AURORA_DSQL",
@@ -74736,6 +74778,12 @@
     "region": "us-west-1"
   },
   {
+    "ip_address": "2600:1f1c:da:600::/56",
+    "ip_type": "IPv6",
+    "service": "CLOUDFRONT_ORIGIN_FACING",
+    "region": "us-west-1"
+  },
+  {
     "ip_address": "2600:1f1c:12d:e900::/56",
     "ip_type": "IPv6",
     "service": "EC2_INSTANCE_CONNECT",
@@ -74853,6 +74901,12 @@
     "ip_address": "2600:1f1e::/36",
     "ip_type": "IPv6",
     "service": "EC2",
+    "region": "sa-east-1"
+  },
+  {
+    "ip_address": "2600:1f1e:a7:2300::/56",
+    "ip_type": "IPv6",
+    "service": "CLOUDFRONT_ORIGIN_FACING",
     "region": "sa-east-1"
   },
   {
@@ -92322,6 +92376,198 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "2600:f0f3:f010:800::/56",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eu-north-1"
+  },
+  {
+    "ip_address": "2600:f0f3:f010:800::/56",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eu-north-1"
+  },
+  {
+    "ip_address": "2600:f0f3:f010:c00::/56",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-south-1"
+  },
+  {
+    "ip_address": "2600:f0f3:f010:c00::/56",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-south-1"
+  },
+  {
+    "ip_address": "2600:f0f3:f010:d00::/56",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eu-west-3"
+  },
+  {
+    "ip_address": "2600:f0f3:f010:d00::/56",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eu-west-3"
+  },
+  {
+    "ip_address": "2600:f0f3:f010:e00::/56",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-southeast-3"
+  },
+  {
+    "ip_address": "2600:f0f3:f010:e00::/56",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-southeast-3"
+  },
+  {
+    "ip_address": "2600:f0f3:f010:1300::/56",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eu-west-1"
+  },
+  {
+    "ip_address": "2600:f0f3:f010:1300::/56",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eu-west-1"
+  },
+  {
+    "ip_address": "2600:f0f3:f010:1600::/56",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eu-central-1"
+  },
+  {
+    "ip_address": "2600:f0f3:f010:1600::/56",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eu-central-1"
+  },
+  {
+    "ip_address": "2600:f0f3:f010:1700::/56",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "sa-east-1"
+  },
+  {
+    "ip_address": "2600:f0f3:f010:1700::/56",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "sa-east-1"
+  },
+  {
+    "ip_address": "2600:f0f3:f010:1800::/56",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-east-1"
+  },
+  {
+    "ip_address": "2600:f0f3:f010:1800::/56",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-east-1"
+  },
+  {
+    "ip_address": "2600:f0f3:f010:1900::/56",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "2600:f0f3:f010:1900::/56",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-south-2"
+  },
+  {
+    "ip_address": "2600:f0f3:f010:1b00::/56",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-northeast-3"
+  },
+  {
+    "ip_address": "2600:f0f3:f010:1b00::/56",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-northeast-3"
+  },
+  {
+    "ip_address": "2600:f0f3:f010:1c00::/56",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-southeast-5"
+  },
+  {
+    "ip_address": "2600:f0f3:f010:1c00::/56",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-southeast-5"
+  },
+  {
+    "ip_address": "2600:f0f3:f010:2000::/56",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-southeast-4"
+  },
+  {
+    "ip_address": "2600:f0f3:f010:2000::/56",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-southeast-4"
+  },
+  {
+    "ip_address": "2600:f0f3:f010:2100::/56",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eu-south-1"
+  },
+  {
+    "ip_address": "2600:f0f3:f010:2100::/56",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eu-south-1"
+  },
+  {
+    "ip_address": "2600:f0f3:f010:2300::/56",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-northeast-1"
+  },
+  {
+    "ip_address": "2600:f0f3:f010:2300::/56",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-northeast-1"
+  },
+  {
+    "ip_address": "2600:f0f3:f010:2600::/56",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "2600:f0f3:f010:2600::/56",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "2600:f0f3:f010:2700::/56",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "mx-central-1"
+  },
+  {
+    "ip_address": "2600:f0f3:f010:2700::/56",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "mx-central-1"
+  },
+  {
     "ip_address": "2600:f0f3:f010:2a00::/56",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -92334,6 +92580,18 @@
     "region": "ap-southeast-1"
   },
   {
+    "ip_address": "2600:f0f3:f010:2b00::/56",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-southeast-2"
+  },
+  {
+    "ip_address": "2600:f0f3:f010:2b00::/56",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-southeast-2"
+  },
+  {
     "ip_address": "2600:f0f3:f010:2c00::/56",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -92344,6 +92602,66 @@
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2600:f0f3:f010:2d00::/56",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "il-central-1"
+  },
+  {
+    "ip_address": "2600:f0f3:f010:2d00::/56",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "il-central-1"
+  },
+  {
+    "ip_address": "2600:f0f3:f010:2f00::/56",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ca-central-1"
+  },
+  {
+    "ip_address": "2600:f0f3:f010:2f00::/56",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ca-central-1"
+  },
+  {
+    "ip_address": "2600:f0f3:f010:3000::/56",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ca-west-1"
+  },
+  {
+    "ip_address": "2600:f0f3:f010:3000::/56",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ca-west-1"
+  },
+  {
+    "ip_address": "2600:f0f3:f010:3100::/56",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eu-south-2"
+  },
+  {
+    "ip_address": "2600:f0f3:f010:3100::/56",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eu-south-2"
+  },
+  {
+    "ip_address": "2600:f0f3:f010:3300::/56",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eu-central-2"
+  },
+  {
+    "ip_address": "2600:f0f3:f010:3300::/56",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eu-central-2"
   },
   {
     "ip_address": "2600:f0f3:f010:3400::/56",
@@ -98322,6 +98640,12 @@
     "region": "eu-west-3"
   },
   {
+    "ip_address": "2a05:d012:581:b400::/56",
+    "ip_type": "IPv6",
+    "service": "CLOUDFRONT_ORIGIN_FACING",
+    "region": "eu-west-3"
+  },
+  {
     "ip_address": "2a05:d012:610:d500::/56",
     "ip_type": "IPv6",
     "service": "AURORA_DSQL",
@@ -98355,6 +98679,12 @@
     "ip_address": "2a05:d014:1338:dd00::/56",
     "ip_type": "IPv6",
     "service": "EFS",
+    "region": "eu-central-1"
+  },
+  {
+    "ip_address": "2a05:d014:1362:b000::/56",
+    "ip_type": "IPv6",
+    "service": "CLOUDFRONT_ORIGIN_FACING",
     "region": "eu-central-1"
   },
   {
@@ -98427,6 +98757,12 @@
     "ip_address": "2a05:d016:494:f00::/56",
     "ip_type": "IPv6",
     "service": "EC2_INSTANCE_CONNECT",
+    "region": "eu-north-1"
+  },
+  {
+    "ip_address": "2a05:d016:9ed:de00::/56",
+    "ip_type": "IPv6",
+    "service": "CLOUDFRONT_ORIGIN_FACING",
     "region": "eu-north-1"
   },
   {
@@ -98511,6 +98847,12 @@
     "ip_address": "2a05:d018:1944:bd00::/56",
     "ip_type": "IPv6",
     "service": "EFS",
+    "region": "eu-west-1"
+  },
+  {
+    "ip_address": "2a05:d018:1a3a:2d00::/56",
+    "ip_type": "IPv6",
+    "service": "CLOUDFRONT_ORIGIN_FACING",
     "region": "eu-west-1"
   },
   {
@@ -98631,6 +98973,12 @@
     "ip_address": "2a05:d01c:a6:3400::/56",
     "ip_type": "IPv6",
     "service": "EFS",
+    "region": "eu-west-2"
+  },
+  {
+    "ip_address": "2a05:d01c:343:c300::/56",
+    "ip_type": "IPv6",
+    "service": "CLOUDFRONT_ORIGIN_FACING",
     "region": "eu-west-2"
   },
   {

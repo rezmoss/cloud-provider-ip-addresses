@@ -6264,6 +6264,18 @@
     "region": "us-west-2"
   },
   {
+    "ip_address": "2600:f0f3:f010:2600::/56",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "2600:f0f3:f010:2600::/56",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-west-2"
+  },
+  {
     "ip_address": "2600:f0fb:8000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",

@@ -1008,6 +1008,12 @@
     "region": "ap-northeast-3"
   },
   {
+    "ip_address": "2406:da16:c01:c200::/56",
+    "ip_type": "IPv6",
+    "service": "CLOUDFRONT_ORIGIN_FACING",
+    "region": "ap-northeast-3"
+  },
+  {
     "ip_address": "2406:da16:c46:6600::/56",
     "ip_type": "IPv6",
     "service": "AURORA_DSQL",
@@ -1681,6 +1687,18 @@
   },
   {
     "ip_address": "2600:f0f2:710a::/48",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-northeast-3"
+  },
+  {
+    "ip_address": "2600:f0f3:f010:1b00::/56",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-northeast-3"
+  },
+  {
+    "ip_address": "2600:f0f3:f010:1b00::/56",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "ap-northeast-3"

@@ -1078,5 +1078,17 @@
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "ap-southeast-5"
+  },
+  {
+    "ip_address": "2600:f0f3:f010:1c00::/56",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-southeast-5"
+  },
+  {
+    "ip_address": "2600:f0f3:f010:1c00::/56",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-southeast-5"
   }
 ]

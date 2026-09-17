@@ -1644,6 +1644,12 @@
     "region": "ro"
   },
   {
+    "ip_address": "135.136.98.130/32",
+    "ip_type": "IPv4",
+    "service": "mullvad-wireguard",
+    "region": "sg"
+  },
+  {
     "ip_address": "138.199.6.194/32",
     "ip_type": "IPv4",
     "service": "mullvad-wireguard",
@@ -2100,13 +2106,13 @@
     "region": "ca"
   },
   {
-    "ip_address": "146.70.199.130/32",
+    "ip_address": "146.70.199.2/32",
     "ip_type": "IPv4",
     "service": "mullvad-wireguard",
     "region": "sg"
   },
   {
-    "ip_address": "146.70.199.194/32",
+    "ip_address": "146.70.199.130/32",
     "ip_type": "IPv4",
     "service": "mullvad-wireguard",
     "region": "sg"
@@ -3138,13 +3144,19 @@
     "region": "fr"
   },
   {
-    "ip_address": "193.32.127.67/32",
+    "ip_address": "193.32.127.69/32",
     "ip_type": "IPv4",
     "service": "mullvad-wireguard",
     "region": "ch"
   },
   {
-    "ip_address": "193.32.127.69/32",
+    "ip_address": "193.32.127.70/32",
+    "ip_type": "IPv4",
+    "service": "mullvad-wireguard",
+    "region": "ch"
+  },
+  {
+    "ip_address": "193.32.127.71/32",
     "ip_type": "IPv4",
     "service": "mullvad-wireguard",
     "region": "ch"
@@ -6006,13 +6018,19 @@
     "region": "fr"
   },
   {
-    "ip_address": "2a03:1b20:a:f011::f101/128",
+    "ip_address": "2a03:1b20:a:f011:4::f001/128",
     "ip_type": "IPv6",
     "service": "mullvad-wireguard",
     "region": "ch"
   },
   {
-    "ip_address": "2a03:1b20:a:f011:4::f001/128",
+    "ip_address": "2a03:1b20:a:f011:5::f001/128",
+    "ip_type": "IPv6",
+    "service": "mullvad-wireguard",
+    "region": "ch"
+  },
+  {
+    "ip_address": "2a03:1b20:a:f011:6::f001/128",
     "ip_type": "IPv6",
     "service": "mullvad-wireguard",
     "region": "ch"
@@ -6570,13 +6588,19 @@
     "region": "sg"
   },
   {
-    "ip_address": "2a0d:5600:d:43::a02f/128",
+    "ip_address": "2a0d:5600:d:41::f001/128",
     "ip_type": "IPv6",
     "service": "mullvad-wireguard",
     "region": "sg"
   },
   {
-    "ip_address": "2a0d:5600:d:44::a01f/128",
+    "ip_address": "2a0d:5600:d:42::f001/128",
+    "ip_type": "IPv6",
+    "service": "mullvad-wireguard",
+    "region": "sg"
+  },
+  {
+    "ip_address": "2a0d:5600:d:43::f001/128",
     "ip_type": "IPv6",
     "service": "mullvad-wireguard",
     "region": "sg"

@@ -894,6 +894,18 @@
     "region": "mx-central-1"
   },
   {
+    "ip_address": "2600:f0f3:f010:2700::/56",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "mx-central-1"
+  },
+  {
+    "ip_address": "2600:f0f3:f010:2700::/56",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "mx-central-1"
+  },
+  {
     "ip_address": "2620:107:4000:8400::/56",
     "ip_type": "IPv6",
     "service": "AMAZON",

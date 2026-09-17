@@ -100,7 +100,6 @@ INSERT INTO `leaseweb_leaseweb-as30633_ips` (`ip_address`, `ip_type`) VALUES ('2
 INSERT INTO `leaseweb_leaseweb-as30633_ips` (`ip_address`, `ip_type`) VALUES ('2a06:1184:77::/48', 'IPv6');
 INSERT INTO `leaseweb_leaseweb-as30633_ips` (`ip_address`, `ip_type`) VALUES ('2a06:35c0:2123::/48', 'IPv6');
 INSERT INTO `leaseweb_leaseweb-as30633_ips` (`ip_address`, `ip_type`) VALUES ('2a06:35c2::/32', 'IPv6');
-INSERT INTO `leaseweb_leaseweb-as30633_ips` (`ip_address`, `ip_type`) VALUES ('2a0a:2d06:55::/48', 'IPv6');
 INSERT INTO `leaseweb_leaseweb-as30633_ips` (`ip_address`, `ip_type`) VALUES ('2a0a:2d06:99::/48', 'IPv6');
 INSERT INTO `leaseweb_leaseweb-as30633_ips` (`ip_address`, `ip_type`) VALUES ('2a0c:7886:66::/48', 'IPv6');
 INSERT INTO `leaseweb_leaseweb-as30633_ips` (`ip_address`, `ip_type`) VALUES ('2a0e:15c7:55::/48', 'IPv6');

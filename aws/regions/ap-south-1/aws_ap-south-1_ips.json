@@ -1836,6 +1836,12 @@
     "region": "ap-south-1"
   },
   {
+    "ip_address": "2406:da1a:6df:6c00::/56",
+    "ip_type": "IPv6",
+    "service": "CLOUDFRONT_ORIGIN_FACING",
+    "region": "ap-south-1"
+  },
+  {
     "ip_address": "2406:da1a:74a:4b00::/56",
     "ip_type": "IPv6",
     "service": "EC2_INSTANCE_CONNECT",
@@ -2695,6 +2701,18 @@
   },
   {
     "ip_address": "2600:f0f2:7109::/48",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-south-1"
+  },
+  {
+    "ip_address": "2600:f0f3:f010:c00::/56",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-south-1"
+  },
+  {
+    "ip_address": "2600:f0f3:f010:c00::/56",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "ap-south-1"

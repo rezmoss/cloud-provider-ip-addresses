@@ -587,6 +587,7 @@ ip_address,ip_type,service,region
 2600:1f01:4930::/47,IPv6,AMAZON,us-west-1
 2600:1f1c::/36,IPv6,AMAZON,us-west-1
 2600:1f1c::/36,IPv6,EC2,us-west-1
+2600:1f1c:da:600::/56,IPv6,CLOUDFRONT_ORIGIN_FACING,us-west-1
 2600:1f1c:12d:e900::/56,IPv6,EC2_INSTANCE_CONNECT,us-west-1
 2600:1f1c:7ff:f800::/56,IPv6,ROUTE53_HEALTHCHECKS,us-west-1
 2600:1f1c:f8e:5d00::/56,IPv6,EFS,us-west-1

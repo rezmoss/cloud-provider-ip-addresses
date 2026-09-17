@@ -1812,6 +1812,12 @@
     "region": "sa-east-1"
   },
   {
+    "ip_address": "2600:1f1e:a7:2300::/56",
+    "ip_type": "IPv6",
+    "service": "CLOUDFRONT_ORIGIN_FACING",
+    "region": "sa-east-1"
+  },
+  {
     "ip_address": "2600:1f1e:7ff:f800::/56",
     "ip_type": "IPv6",
     "service": "ROUTE53_HEALTHCHECKS",
@@ -2647,6 +2653,18 @@
   },
   {
     "ip_address": "2600:f0f1:4240::/42",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "sa-east-1"
+  },
+  {
+    "ip_address": "2600:f0f3:f010:1700::/56",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "sa-east-1"
+  },
+  {
+    "ip_address": "2600:f0f3:f010:1700::/56",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "sa-east-1"

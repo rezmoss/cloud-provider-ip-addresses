@@ -1596,6 +1596,12 @@
     "region": "ap-northeast-2"
   },
   {
+    "ip_address": "2406:da12:4b:c200::/56",
+    "ip_type": "IPv6",
+    "service": "CLOUDFRONT_ORIGIN_FACING",
+    "region": "ap-northeast-2"
+  },
+  {
     "ip_address": "2406:da12:1e1:d900::/56",
     "ip_type": "IPv6",
     "service": "EC2_INSTANCE_CONNECT",

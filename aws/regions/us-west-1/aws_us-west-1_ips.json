@@ -3528,6 +3528,12 @@
     "region": "us-west-1"
   },
   {
+    "ip_address": "2600:1f1c:da:600::/56",
+    "ip_type": "IPv6",
+    "service": "CLOUDFRONT_ORIGIN_FACING",
+    "region": "us-west-1"
+  },
+  {
     "ip_address": "2600:1f1c:12d:e900::/56",
     "ip_type": "IPv6",
     "service": "EC2_INSTANCE_CONNECT",

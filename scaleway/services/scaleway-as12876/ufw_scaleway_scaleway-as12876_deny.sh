@@ -1,6 +1,6 @@
 #!/bin/bash
 # Scaleway IP Ranges
-# Updated: 2026-09-16 02:32:37
+# Updated: 2026-09-17 02:29:01
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -11,7 +11,7 @@ ufw deny from 51.15.0.0/16
 ufw deny from 51.158.0.0/15
 ufw deny from 62.4.0.0/19
 ufw deny from 62.210.0.0/16
-ufw deny from 78.232.0.0/17
+ufw deny from 78.232.0.0/16
 ufw deny from 151.115.0.0/17
 ufw deny from 151.115.128.0/18
 ufw deny from 151.115.192.0/24

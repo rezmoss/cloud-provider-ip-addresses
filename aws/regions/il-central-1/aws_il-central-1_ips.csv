@@ -104,6 +104,8 @@ ip_address,ip_type,service,region
 2600:f0f1:8f::/48,IPv6,AMAZON,il-central-1
 2600:f0f1:8f::/48,IPv6,EC2,il-central-1
 2600:f0f1:8f::/48,IPv6,S3,il-central-1
+2600:f0f3:f010:2d00::/56,IPv6,AMAZON,il-central-1
+2600:f0f3:f010:2d00::/56,IPv6,EC2,il-central-1
 2600:f0fb:f10f::/48,IPv6,AMAZON,il-central-1
 2600:f0fb:f10f::/48,IPv6,EC2,il-central-1
 2a01:578:0:7700::/56,IPv6,AMAZON,il-central-1

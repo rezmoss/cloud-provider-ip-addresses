@@ -22,6 +22,7 @@ ip_address,ip_type,service,region
 78.210.128.0/17,IPv4,scaleway-as29447,global
 78.211.0.0/17,IPv4,scaleway-as29447,global
 78.211.128.0/17,IPv4,scaleway-as29447,global
+78.232.0.0/16,IPv4,scaleway-as12876,global
 78.232.0.0/17,IPv4,scaleway-as12876,global
 81.56.0.0/15,IPv4,scaleway-as29447,global
 81.56.0.0/16,IPv4,scaleway-as29447,global

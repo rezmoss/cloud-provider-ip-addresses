@@ -630,6 +630,18 @@
     "region": "il-central-1"
   },
   {
+    "ip_address": "2600:f0f3:f010:2d00::/56",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "il-central-1"
+  },
+  {
+    "ip_address": "2600:f0f3:f010:2d00::/56",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "il-central-1"
+  },
+  {
     "ip_address": "2600:f0fb:f10f::/48",
     "ip_type": "IPv6",
     "service": "AMAZON",

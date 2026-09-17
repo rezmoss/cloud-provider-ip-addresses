@@ -20550,12 +20550,6 @@
     "region": "global"
   },
   {
-    "ip_address": "240d:c010:68::/48",
-    "ip_type": "IPv6",
-    "service": "tencent-as132203",
-    "region": "global"
-  },
-  {
     "ip_address": "240d:c040::/44",
     "ip_type": "IPv6",
     "service": "tencent-as132203",

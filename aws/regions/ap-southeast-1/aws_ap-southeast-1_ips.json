@@ -2532,6 +2532,12 @@
     "region": "ap-southeast-1"
   },
   {
+    "ip_address": "2406:da18:9fa:1b00::/56",
+    "ip_type": "IPv6",
+    "service": "CLOUDFRONT_ORIGIN_FACING",
+    "region": "ap-southeast-1"
+  },
+  {
     "ip_address": "2406:da18:fff:f800::/56",
     "ip_type": "IPv6",
     "service": "ROUTE53_HEALTHCHECKS",

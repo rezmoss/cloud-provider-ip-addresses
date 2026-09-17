@@ -34,7 +34,6 @@ INSERT INTO `backblaze_backblaze-as40401_ips` (`ip_address`, `ip_type`) VALUES (
 INSERT INTO `backblaze_backblaze-as40401_ips` (`ip_address`, `ip_type`) VALUES ('2605:72c0:100::/45', 'IPv6');
 INSERT INTO `backblaze_backblaze-as40401_ips` (`ip_address`, `ip_type`) VALUES ('2605:72c0:100::/48', 'IPv6');
 INSERT INTO `backblaze_backblaze-as40401_ips` (`ip_address`, `ip_type`) VALUES ('2605:72c0:103::/48', 'IPv6');
-INSERT INTO `backblaze_backblaze-as40401_ips` (`ip_address`, `ip_type`) VALUES ('2605:72c0:104::/48', 'IPv6');
 INSERT INTO `backblaze_backblaze-as40401_ips` (`ip_address`, `ip_type`) VALUES ('2605:72c0:105::/48', 'IPv6');
 INSERT INTO `backblaze_backblaze-as40401_ips` (`ip_address`, `ip_type`) VALUES ('2605:72c0:1fc::/48', 'IPv6');
 INSERT INTO `backblaze_backblaze-as40401_ips` (`ip_address`, `ip_type`) VALUES ('2605:72c0:1fd::/48', 'IPv6');
@@ -55,7 +54,6 @@ INSERT INTO `backblaze_backblaze-as40401_ips` (`ip_address`, `ip_type`) VALUES (
 INSERT INTO `backblaze_backblaze-as40401_ips` (`ip_address`, `ip_type`) VALUES ('2605:72c0:400::/45', 'IPv6');
 INSERT INTO `backblaze_backblaze-as40401_ips` (`ip_address`, `ip_type`) VALUES ('2605:72c0:400::/48', 'IPv6');
 INSERT INTO `backblaze_backblaze-as40401_ips` (`ip_address`, `ip_type`) VALUES ('2605:72c0:403::/48', 'IPv6');
-INSERT INTO `backblaze_backblaze-as40401_ips` (`ip_address`, `ip_type`) VALUES ('2605:72c0:404::/48', 'IPv6');
 INSERT INTO `backblaze_backblaze-as40401_ips` (`ip_address`, `ip_type`) VALUES ('2605:72c0:405::/48', 'IPv6');
 INSERT INTO `backblaze_backblaze-as40401_ips` (`ip_address`, `ip_type`) VALUES ('2605:72c0:4fc::/48', 'IPv6');
 INSERT INTO `backblaze_backblaze-as40401_ips` (`ip_address`, `ip_type`) VALUES ('2605:72c0:4fd::/48', 'IPv6');
@@ -64,7 +62,6 @@ INSERT INTO `backblaze_backblaze-as40401_ips` (`ip_address`, `ip_type`) VALUES (
 INSERT INTO `backblaze_backblaze-as40401_ips` (`ip_address`, `ip_type`) VALUES ('2605:72c0:500::/45', 'IPv6');
 INSERT INTO `backblaze_backblaze-as40401_ips` (`ip_address`, `ip_type`) VALUES ('2605:72c0:500::/48', 'IPv6');
 INSERT INTO `backblaze_backblaze-as40401_ips` (`ip_address`, `ip_type`) VALUES ('2605:72c0:503::/48', 'IPv6');
-INSERT INTO `backblaze_backblaze-as40401_ips` (`ip_address`, `ip_type`) VALUES ('2605:72c0:504::/48', 'IPv6');
 INSERT INTO `backblaze_backblaze-as40401_ips` (`ip_address`, `ip_type`) VALUES ('2605:72c0:505::/48', 'IPv6');
 INSERT INTO `backblaze_backblaze-as40401_ips` (`ip_address`, `ip_type`) VALUES ('2605:72c0:5fc::/48', 'IPv6');
 INSERT INTO `backblaze_backblaze-as40401_ips` (`ip_address`, `ip_type`) VALUES ('2605:72c0:5fd::/48', 'IPv6');
@@ -73,7 +70,6 @@ INSERT INTO `backblaze_backblaze-as40401_ips` (`ip_address`, `ip_type`) VALUES (
 INSERT INTO `backblaze_backblaze-as40401_ips` (`ip_address`, `ip_type`) VALUES ('2605:72c0:600::/45', 'IPv6');
 INSERT INTO `backblaze_backblaze-as40401_ips` (`ip_address`, `ip_type`) VALUES ('2605:72c0:600::/48', 'IPv6');
 INSERT INTO `backblaze_backblaze-as40401_ips` (`ip_address`, `ip_type`) VALUES ('2605:72c0:603::/48', 'IPv6');
-INSERT INTO `backblaze_backblaze-as40401_ips` (`ip_address`, `ip_type`) VALUES ('2605:72c0:604::/48', 'IPv6');
 INSERT INTO `backblaze_backblaze-as40401_ips` (`ip_address`, `ip_type`) VALUES ('2605:72c0:605::/48', 'IPv6');
 INSERT INTO `backblaze_backblaze-as40401_ips` (`ip_address`, `ip_type`) VALUES ('2605:72c0:607::/48', 'IPv6');
 INSERT INTO `backblaze_backblaze-as40401_ips` (`ip_address`, `ip_type`) VALUES ('2605:72c0:608::/48', 'IPv6');

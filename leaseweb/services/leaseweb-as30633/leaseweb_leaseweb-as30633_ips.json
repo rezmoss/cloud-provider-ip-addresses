@@ -564,12 +564,6 @@
     "region": "global"
   },
   {
-    "ip_address": "2a0a:2d06:55::/48",
-    "ip_type": "IPv6",
-    "service": "leaseweb-as30633",
-    "region": "global"
-  },
-  {
     "ip_address": "2a0a:2d06:99::/48",
     "ip_type": "IPv6",
     "service": "leaseweb-as30633",
