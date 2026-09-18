@@ -1,6 +1,6 @@
 #!/bin/bash
 # Quiccloud IP Ranges
-# Updated: 2026-09-14 02:35:46
+# Updated: 2026-09-18 02:33:02
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -18,7 +18,6 @@ ufw allow from 31.22.115.186/32
 ufw allow from 31.40.212.152/32
 ufw allow from 31.131.4.244/32
 ufw allow from 37.120.163.165/32
-ufw allow from 38.54.30.228/32
 ufw allow from 38.54.79.187/32
 ufw allow from 38.60.253.237/32
 ufw allow from 38.114.121.40/32
@@ -103,6 +102,7 @@ ufw allow from 147.78.3.161/32
 ufw allow from 149.28.47.113/32
 ufw allow from 149.28.85.239/32
 ufw allow from 149.28.136.245/32
+ufw allow from 149.104.83.47/32
 ufw allow from 152.53.36.14/32
 ufw allow from 152.53.38.14/32
 ufw allow from 152.53.162.246/32

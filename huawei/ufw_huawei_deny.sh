@@ -1,6 +1,6 @@
 #!/bin/bash
 # Huawei IP Ranges
-# Updated: 2026-09-16 02:33:52
+# Updated: 2026-09-18 02:32:56
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -76,6 +76,7 @@ ufw deny from 101.46.128.0/17
 ufw deny from 103.40.100.0/22
 ufw deny from 103.215.0.0/23
 ufw deny from 103.215.3.0/24
+ufw deny from 103.239.73.0/24
 ufw deny from 103.240.156.0/22
 ufw deny from 103.255.60.0/22
 ufw deny from 110.41.208.0/23

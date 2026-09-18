@@ -1,5 +1,5 @@
 # quiccloud IP ranges - ipset restore format (hash:net)
-# Version: 3 | Generated: 2026-09-17 | Last changed: 2026-09-14
+# Version: 4 | Generated: 2026-09-18 | Last changed: 2026-09-18
 # IPv4: 152 merged subnets, 152 unique IPs
 # IPv6: 0 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
@@ -19,7 +19,6 @@ add quiccloud_v4 31.22.115.186/32
 add quiccloud_v4 31.40.212.152/32
 add quiccloud_v4 31.131.4.244/32
 add quiccloud_v4 37.120.163.165/32
-add quiccloud_v4 38.54.30.228/32
 add quiccloud_v4 38.54.79.187/32
 add quiccloud_v4 38.60.253.237/32
 add quiccloud_v4 38.114.121.40/32
@@ -104,6 +103,7 @@ add quiccloud_v4 147.78.3.161/32
 add quiccloud_v4 149.28.47.113/32
 add quiccloud_v4 149.28.85.239/32
 add quiccloud_v4 149.28.136.245/32
+add quiccloud_v4 149.104.83.47/32
 add quiccloud_v4 152.53.36.14/32
 add quiccloud_v4 152.53.38.14/32
 add quiccloud_v4 152.53.162.246/32

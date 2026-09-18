@@ -6,7 +6,9 @@ CREATE TABLE IF NOT EXISTS `mullvad_bg_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `mullvad_bg_ips` (`ip_address`, `ip_type`) VALUES ('135.136.38.2/32', 'IPv4');
+INSERT INTO `mullvad_bg_ips` (`ip_address`, `ip_type`) VALUES ('146.70.188.2/32', 'IPv4');
 INSERT INTO `mullvad_bg_ips` (`ip_address`, `ip_type`) VALUES ('146.70.188.130/32', 'IPv4');
-INSERT INTO `mullvad_bg_ips` (`ip_address`, `ip_type`) VALUES ('146.70.188.194/32', 'IPv4');
+INSERT INTO `mullvad_bg_ips` (`ip_address`, `ip_type`) VALUES ('2001:ac8:30:54::f001/128', 'IPv6');
+INSERT INTO `mullvad_bg_ips` (`ip_address`, `ip_type`) VALUES ('2001:ac8:30:55::f001/128', 'IPv6');
 INSERT INTO `mullvad_bg_ips` (`ip_address`, `ip_type`) VALUES ('2001:ac8:30:56::f001/128', 'IPv6');
-INSERT INTO `mullvad_bg_ips` (`ip_address`, `ip_type`) VALUES ('2001:ac8:30:57::f001/128', 'IPv6');

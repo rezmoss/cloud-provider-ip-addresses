@@ -1,8 +1,8 @@
 {
   "provider": "quiccloud",
-  "version": 3,
-  "generated_date": "2026-09-17",
-  "last_changed_date": "2026-09-14",
+  "version": 4,
+  "generated_date": "2026-09-18",
+  "last_changed_date": "2026-09-18",
   "sources": [
     "https://quic.cloud/ips"
   ],
@@ -17,7 +17,7 @@
     "addresses": 0
   },
   "total_entries": 152,
-  "content_sha256": "f1cb09425a41eedc6a9e0ff8def0880b934e22242c0783dc86a3c25543cb849e",
+  "content_sha256": "a5f16c124bcd912801bb1aa5f6490be71eee24815d22494e04bb2b0648b0020f",
   "license": "CC0-1.0",
   "license_url": "https://github.com/rezmoss/cloud-provider-ip-addresses/blob/main/LICENSE"
 }

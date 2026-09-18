@@ -1,6 +1,6 @@
 #!/bin/bash
 # Mullvad IP Ranges
-# Updated: 2026-09-17 02:29:54
+# Updated: 2026-09-18 02:32:59
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -271,6 +271,7 @@ ufw allow from 135.136.21.2/32
 ufw allow from 135.136.22.2/32
 ufw allow from 135.136.22.130/32
 ufw allow from 135.136.36.2/32
+ufw allow from 135.136.38.2/32
 ufw allow from 135.136.51.2/32
 ufw allow from 135.136.51.130/32
 ufw allow from 135.136.55.2/32
@@ -338,8 +339,8 @@ ufw allow from 146.70.184.130/32
 ufw allow from 146.70.185.2/32
 ufw allow from 146.70.187.2/32
 ufw allow from 146.70.187.130/32
+ufw allow from 146.70.188.2/32
 ufw allow from 146.70.188.130/32
-ufw allow from 146.70.188.194/32
 ufw allow from 146.70.189.2/32
 ufw allow from 146.70.189.130/32
 ufw allow from 146.70.193.2/32
@@ -507,9 +508,6 @@ ufw allow from 193.19.207.195/32
 ufw allow from 193.19.207.225/32
 ufw allow from 193.32.126.66/31
 ufw allow from 193.32.126.68/31
-ufw allow from 193.32.126.70/32
-ufw allow from 193.32.126.83/32
-ufw allow from 193.32.126.84/32
 ufw allow from 193.32.127.69/32
 ufw allow from 193.32.127.70/31
 ufw allow from 193.32.127.72/32
@@ -571,8 +569,9 @@ ufw allow from 2001:ac8:28:ad::f001/128
 ufw allow from 2001:ac8:29:b3::f001/128
 ufw allow from 2001:ac8:29:b4::f001/128
 ufw allow from 2001:ac8:29:b5::f001/128
+ufw allow from 2001:ac8:30:54::f001/128
+ufw allow from 2001:ac8:30:55::f001/128
 ufw allow from 2001:ac8:30:56::f001/128
-ufw allow from 2001:ac8:30:57::f001/128
 ufw allow from 2001:ac8:33:c::a01f/128
 ufw allow from 2001:ac8:33:d::a02f/128
 ufw allow from 2001:ac8:37:96::f001/128
@@ -972,13 +971,10 @@ ufw allow from 2a03:1b20:7:f011::a15f/128
 ufw allow from 2a03:1b20:7:f011::f801/128
 ufw allow from 2a03:1b20:8:f011::f001/128
 ufw allow from 2a03:1b20:8:f011::f101/128
-ufw allow from 2a03:1b20:9:f011::3f/128
 ufw allow from 2a03:1b20:9:f011::a01f/128
 ufw allow from 2a03:1b20:9:f011::f101/128
 ufw allow from 2a03:1b20:9:f011::f201/128
 ufw allow from 2a03:1b20:9:f011::f301/128
-ufw allow from 2a03:1b20:9:f011::f401/128
-ufw allow from 2a03:1b20:9:f011::f501/128
 ufw allow from 2a03:1b20:a:f011:4::f001/128
 ufw allow from 2a03:1b20:a:f011:5::f001/128
 ufw allow from 2a03:1b20:a:f011:6::f001/128

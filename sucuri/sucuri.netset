@@ -1,5 +1,5 @@
 # sucuri IP ranges - ipset restore format (hash:net)
-# Version: 4 | Generated: 2026-09-17 | Last changed: 2026-09-05
+# Version: 5 | Generated: 2026-09-18 | Last changed: 2026-09-18
 # IPv4: 11 merged subnets, 5632 unique IPs
 # IPv6: 9 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
@@ -24,7 +24,7 @@ flush sucuri_v6
 add sucuri_v6 2a02:fe80:11::/48
 add sucuri_v6 2a02:fe80:12::/48
 add sucuri_v6 2a02:fe80:14::/46
-add sucuri_v6 2a02:fe80:18::/48
+add sucuri_v6 2a02:fe80:18::/47
 add sucuri_v6 2a02:fe80:20::/47
 add sucuri_v6 2a02:fe80:22::/48
 add sucuri_v6 2a02:fe80:1010::/48

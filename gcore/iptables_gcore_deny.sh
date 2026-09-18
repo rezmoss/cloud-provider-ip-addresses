@@ -1,6 +1,6 @@
 #!/bin/bash
 # Gcore IP Ranges
-# Updated: 2026-09-16 02:33:56
+# Updated: 2026-09-18 02:33:00
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -470,7 +470,7 @@ iptables -A INPUT -s 120.28.10.46/32 -j DROP
 iptables -A INPUT -s 125.214.171.164/32 -j DROP
 iptables -A INPUT -s 128.75.231.2/31 -j DROP
 iptables -A INPUT -s 128.75.231.4/30 -j DROP
-iptables -A INPUT -s 128.75.231.8/30 -j DROP
+iptables -A INPUT -s 128.75.231.8/32 -j DROP
 iptables -A INPUT -s 130.193.166.2/32 -j DROP
 iptables -A INPUT -s 134.0.219.26/32 -j DROP
 iptables -A INPUT -s 134.0.219.37/32 -j DROP

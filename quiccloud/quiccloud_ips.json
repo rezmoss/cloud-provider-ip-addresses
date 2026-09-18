@@ -44,10 +44,6 @@
     "ip_type": "IPv4"
   },
   {
-    "ip_address": "38.54.30.228",
-    "ip_type": "IPv4"
-  },
-  {
     "ip_address": "38.54.79.187",
     "ip_type": "IPv4"
   },
@@ -381,6 +377,10 @@
   },
   {
     "ip_address": "149.28.136.245",
+    "ip_type": "IPv4"
+  },
+  {
+    "ip_address": "149.104.83.47",
     "ip_type": "IPv4"
   },
   {

@@ -3260,18 +3260,6 @@
     "ip_type": "IPv4"
   },
   {
-    "ip_address": "128.75.231.9/32",
-    "ip_type": "IPv4"
-  },
-  {
-    "ip_address": "128.75.231.10/32",
-    "ip_type": "IPv4"
-  },
-  {
-    "ip_address": "128.75.231.11/32",
-    "ip_type": "IPv4"
-  },
-  {
     "ip_address": "130.193.166.2/32",
     "ip_type": "IPv4"
   },

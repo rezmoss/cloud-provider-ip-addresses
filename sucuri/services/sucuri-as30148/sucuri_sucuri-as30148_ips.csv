@@ -22,6 +22,7 @@ ip_address,ip_type,service,region
 2a02:fe80:16::/48,IPv6,sucuri-as30148,global
 2a02:fe80:17::/48,IPv6,sucuri-as30148,global
 2a02:fe80:18::/48,IPv6,sucuri-as30148,global
+2a02:fe80:19::/48,IPv6,sucuri-as30148,global
 2a02:fe80:20::/48,IPv6,sucuri-as30148,global
 2a02:fe80:21::/48,IPv6,sucuri-as30148,global
 2a02:fe80:22::/48,IPv6,sucuri-as30148,global

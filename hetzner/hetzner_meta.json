@@ -1,13 +1,13 @@
 {
   "provider": "hetzner",
-  "version": 4,
-  "generated_date": "2026-09-17",
-  "last_changed_date": "2026-09-08",
+  "version": 5,
+  "generated_date": "2026-09-18",
+  "last_changed_date": "2026-09-18",
   "sources": [
     "BGP announced prefixes via RIPE NCC RIPEstat"
   ],
   "ipv4": {
-    "cidrs": 688,
+    "cidrs": 687,
     "merged_cidrs": 84,
     "addresses": 3368192
   },
@@ -16,8 +16,8 @@
     "merged_cidrs": 5,
     "addresses": 1426727104202220381450415374336
   },
-  "total_entries": 695,
-  "content_sha256": "ea12b1859bc2fa58a9b7c0b181551310a5c91e671c37f15f78575165650b52d6",
+  "total_entries": 694,
+  "content_sha256": "9c0d5829f41de06c5125e188316ba6e9899708a6a1923300fa123b0feb01c7b0",
   "license": "CC0-1.0",
   "license_url": "https://github.com/rezmoss/cloud-provider-ip-addresses/blob/main/LICENSE"
 }

@@ -1,4 +1,5 @@
 ip_address,ip_type,service,region
+89.223.6.0/23,IPv4,yandex-as210656,global
 89.223.20.0/24,IPv4,yandex-as210656,global
 92.255.16.0/24,IPv4,yandex-as210656,global
 92.255.58.0/23,IPv4,yandex-as210656,global

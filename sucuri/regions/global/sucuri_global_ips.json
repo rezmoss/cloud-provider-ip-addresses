@@ -138,6 +138,12 @@
     "region": "global"
   },
   {
+    "ip_address": "2a02:fe80:19::/48",
+    "ip_type": "IPv6",
+    "service": "sucuri-as30148",
+    "region": "global"
+  },
+  {
     "ip_address": "2a02:fe80:20::/48",
     "ip_type": "IPv6",
     "service": "sucuri-as30148",

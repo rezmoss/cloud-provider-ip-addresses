@@ -6618,6 +6618,12 @@
     "region": "global"
   },
   {
+    "ip_address": "23.45.125.0/24",
+    "ip_type": "IPv4",
+    "service": "akamai-as20940",
+    "region": "global"
+  },
+  {
     "ip_address": "23.45.126.0/24",
     "ip_type": "IPv4",
     "service": "akamai-as20940",
@@ -6925,6 +6931,12 @@
   },
   {
     "ip_address": "23.46.157.0/24",
+    "ip_type": "IPv4",
+    "service": "akamai-as20940",
+    "region": "global"
+  },
+  {
+    "ip_address": "23.46.159.0/24",
     "ip_type": "IPv4",
     "service": "akamai-as20940",
     "region": "global"
@@ -7602,6 +7614,12 @@
     "region": "global"
   },
   {
+    "ip_address": "23.48.248.0/24",
+    "ip_type": "IPv4",
+    "service": "akamai-as20940",
+    "region": "global"
+  },
+  {
     "ip_address": "23.48.249.0/24",
     "ip_type": "IPv4",
     "service": "akamai-as20940",
@@ -7951,12 +7969,6 @@
   },
   {
     "ip_address": "23.50.224.0/24",
-    "ip_type": "IPv4",
-    "service": "akamai-as20940",
-    "region": "global"
-  },
-  {
-    "ip_address": "23.50.225.0/24",
     "ip_type": "IPv4",
     "service": "akamai-as20940",
     "region": "global"
@@ -23569,6 +23581,12 @@
   },
   {
     "ip_address": "203.69.141.0/24",
+    "ip_type": "IPv4",
+    "service": "akamai-as20940",
+    "region": "global"
+  },
+  {
+    "ip_address": "203.74.95.0/24",
     "ip_type": "IPv4",
     "service": "akamai-as20940",
     "region": "global"
