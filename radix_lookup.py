@@ -9,7 +9,14 @@ Usage:
     python radix_lookup.py 13.32.0.1
     python radix_lookup.py 13.32.0.1 2600:1f18::1
     python radix_lookup.py --file ips.txt
+    python radix_lookup.py --json 8.8.8.8
     python radix_lookup.py --data-dir /path/to/data 8.8.8.8
+
+By default the script loads the pre-merged *_ips_merged_v4/v6.txt files when
+available — these are ~80% smaller than the raw JSON lists, so the radix tree
+builds faster and uses less memory.  Pass --include-metadata (or request --json)
+to load the richer JSON data that carries the per-range `service` and `region`
+fields.
 
 Requires: pip3 install pysubnettree
 """
@@ -29,17 +36,106 @@ except ImportError:
     sys.exit(1)
 
 
-def load_provider_data(data_dir):
-    """Load all provider JSON files into a radix tree for fast lookups."""
+def _resolve_data_dir(data_dir: str) -> str:
+    """Return a valid data directory, falling back to the repo root.
+
+    Historically --data-dir defaulted to "data", but that directory is never
+    created in this repo — the per-provider folders live at the repository
+    root.  This helper keeps --data-dir overrides working (power users) but
+    makes the documented "clone & run" path work out of the box.
+    """
+    if os.path.isdir(data_dir) and _looks_like_data_root(data_dir):
+        return data_dir
+
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    for candidate in (script_dir, os.getcwd()):
+        if _looks_like_data_root(candidate):
+            return candidate
+
+    return data_dir
+
+
+def _looks_like_data_root(path: str) -> bool:
+    """True if *path* contains at least one provider directory with data."""
+    try:
+        for name in os.listdir(path):
+            sub = os.path.join(path, name)
+            if not os.path.isdir(sub):
+                continue
+            if (
+                os.path.exists(os.path.join(sub, f"{name}_ips.json"))
+                or os.path.exists(os.path.join(sub, f"{name}_ips_merged_v4.txt"))
+            ):
+                return True
+    except OSError:
+        pass
+    return False
+
+
+def load_merged_data(data_dir):
+    """Load the compact *_ips_merged_v4/v6.txt files into the radix tree.
+
+    These files are the output of ipaddress.collapse_addresses(), so they are
+    already de-duplicated and minimal — ~80% fewer entries than the raw JSON.
+    """
+    tree = SubnetTree.SubnetTree()
+    details = {}  # cidr -> list of (provider, service, region)
+
+    count = 0
+    for provider_name in os.listdir(data_dir):
+        provider_dir = os.path.join(data_dir, provider_name)
+        if not os.path.isdir(provider_dir):
+            continue
+        for suffix in ("_ips_merged_v4.txt", "_ips_merged_v6.txt"):
+            txt_file = os.path.join(provider_dir, f"{provider_name}{suffix}")
+            if not os.path.exists(txt_file):
+                continue
+            try:
+                with open(txt_file, "r") as f:
+                    for raw in f:
+                        line = raw.strip()
+                        if not line or line.startswith("#"):
+                            continue
+                        try:
+                            tree[line] = line
+                            details.setdefault(line, []).append(
+                                (provider_name, "", "")
+                            )
+                            count += 1
+                        except (ValueError, KeyError):
+                            continue
+            except IOError:
+                continue
+
+    return tree, details, count
+
+
+def load_provider_data(data_dir, include_metadata=False):
+    """Load all provider data into a radix tree for fast lookups.
+
+    When *include_metadata* is False (default) we prefer the compact merged
+    text files for faster startup.  When True we load the full JSON with
+    service/region fields.
+    """
+    data_dir = _resolve_data_dir(data_dir)
+
+    if not include_metadata:
+        if os.path.isdir(data_dir):
+            tree, details, count = load_merged_data(data_dir)
+            if count:
+                print(
+                    f"Loaded {count} network entries (radix tree, merged-text)",
+                    file=sys.stderr,
+                )
+                return tree, details
+
     tree = SubnetTree.SubnetTree()
     details = {}  # cidr -> list of (provider, service, region)
 
     if not os.path.isdir(data_dir):
         print(f"Error: Data directory '{data_dir}' not found.", file=sys.stderr)
-        print(
-            "Run 'python app.py' first to generate data, or specify --data-dir.",
-            file=sys.stderr,
-        )
+        print("Clone the repo next to this script, or specify --data-dir.",
+              file=sys.stderr)
         sys.exit(1)
 
     count = 0
@@ -70,7 +166,7 @@ def load_provider_data(data_dir):
         except (json.JSONDecodeError, IOError):
             continue
 
-    print(f"Loaded {count} network entries (radix tree)", file=sys.stderr)
+    print(f"Loaded {count} network entries (radix tree, JSON)", file=sys.stderr)
     return tree, details
 
 
@@ -133,17 +229,25 @@ def main():
         "--data-dir",
         "-d",
         default="data",
-        help="Path to data directory (default: data)",
+        help="Path to data directory (default: auto-detect repo root)",
     )
     parser.add_argument("--json", "-j", action="store_true", help="Output as JSON")
+    parser.add_argument(
+        "--include-metadata",
+        action="store_true",
+        help="Load full JSON data (includes service/region fields). "
+        "Slower but returns richer results.",
+    )
     args = parser.parse_args()
 
     if not args.ips and not args.file:
         parser.print_help()
         sys.exit(1)
 
+    use_json = args.json or args.include_metadata
+
     print("Loading provider data...", file=sys.stderr)
-    tree, details = load_provider_data(args.data_dir)
+    tree, details = load_provider_data(args.data_dir, include_metadata=use_json)
 
     ips_to_check = list(args.ips) if args.ips else []
     if args.file:
