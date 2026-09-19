@@ -913,6 +913,7 @@ ip_address,ip_type,service,region
 108.163.178.0/24,IPv4,leaseweb-as32613,global
 108.165.37.0/24,IPv4,leaseweb-as32613,global
 108.165.81.0/24,IPv4,leaseweb-as134351,global
+108.165.82.0/23,IPv4,leaseweb-as134351,global
 108.165.82.0/24,IPv4,leaseweb-as134351,global
 108.165.83.0/24,IPv4,leaseweb-as134351,global
 108.165.87.0/24,IPv4,leaseweb-as134351,global
@@ -1929,7 +1930,6 @@ ip_address,ip_type,service,region
 2a0f:2dc0::/29,IPv6,leaseweb-as205544,global
 2a0f:2e40::/29,IPv6,leaseweb-as205544,global
 2a0f:2e80::/29,IPv6,leaseweb-as30633,global
-2a0f:3043::/32,IPv6,leaseweb-as27411,global
 2a0f:30c0::/29,IPv6,leaseweb-as205544,global
 2a0f:3140::/29,IPv6,leaseweb-as205544,global
 2a0f:3540::/29,IPv6,leaseweb-as205544,global

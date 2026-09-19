@@ -1,6 +1,6 @@
 #!/bin/bash
 # Zoho IP Ranges
-# Updated: 2026-07-12 03:46:22
+# Updated: 2026-09-19 02:30:07
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -16,5 +16,3 @@ ufw deny from 169.148.168.0/22
 ufw deny from 199.67.70.0/24
 ufw deny from 2400:5a20:4::/46
 ufw deny from 2400:5a20:a::/47
-ufw deny from 2602:801:c00a::/47
-ufw deny from 2602:801:c00c::/48

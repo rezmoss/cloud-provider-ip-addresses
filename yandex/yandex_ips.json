@@ -432,12 +432,6 @@
     "region": "global"
   },
   {
-    "ip_address": "93.158.168.0/22",
-    "ip_type": "IPv4",
-    "service": "yandex-as44534",
-    "region": "global"
-  },
-  {
     "ip_address": "93.158.171.0/24",
     "ip_type": "IPv4",
     "service": "yandex-as13238",

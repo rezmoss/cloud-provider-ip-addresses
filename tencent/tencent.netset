@@ -1,6 +1,6 @@
 # tencent IP ranges - ipset restore format (hash:net)
-# Version: 30 | Generated: 2026-09-18 | Last changed: 2026-09-18
-# IPv4: 237 merged subnets, 8343040 unique IPs
+# Version: 31 | Generated: 2026-09-19 | Last changed: 2026-09-19
+# IPv4: 236 merged subnets, 8342528 unique IPs
 # IPv6: 16 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
@@ -101,7 +101,6 @@ add tencent_v4 101.32.192.0/19
 add tencent_v4 101.32.224.0/22
 add tencent_v4 101.32.238.0/23
 add tencent_v4 101.32.240.0/20
-add tencent_v4 101.33.4.0/23
 add tencent_v4 101.33.17.0/24
 add tencent_v4 101.33.32.0/21
 add tencent_v4 101.33.41.0/24

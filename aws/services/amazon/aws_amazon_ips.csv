@@ -4017,6 +4017,7 @@ ip_address,ip_type,service,region
 54.115.0.0/16,IPv4,AMAZON,GLOBAL
 54.116.0.0/15,IPv4,AMAZON,ap-northeast-2
 54.116.70.0/23,IPv4,AMAZON,ap-northeast-2
+54.117.38.0/23,IPv4,AMAZON,ap-northeast-2
 54.136.0.0/16,IPv4,AMAZON,me-central-1
 54.137.0.0/16,IPv4,AMAZON,me-central-1
 54.144.0.0/14,IPv4,AMAZON,us-east-1

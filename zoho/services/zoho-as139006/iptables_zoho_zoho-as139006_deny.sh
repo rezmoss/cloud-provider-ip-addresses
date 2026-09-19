@@ -1,6 +1,6 @@
 #!/bin/bash
 # Zoho IP Ranges
-# Updated: 2026-07-12 03:46:22
+# Updated: 2026-09-19 02:30:07
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -16,5 +16,3 @@ iptables -A INPUT -s 169.148.168.0/22 -j DROP
 iptables -A INPUT -s 199.67.70.0/24 -j DROP
 ip6tables -A INPUT -s 2400:5a20:4::/46 -j DROP
 ip6tables -A INPUT -s 2400:5a20:a::/47 -j DROP
-ip6tables -A INPUT -s 2602:801:c00a::/47 -j DROP
-ip6tables -A INPUT -s 2602:801:c00c::/48 -j DROP
