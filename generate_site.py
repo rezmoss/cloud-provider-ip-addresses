@@ -34,6 +34,7 @@ PROVIDER_META = {
     "atlassian":           {"name": "Atlassian",            "group": "saas",  "color": "#0052CC"},
     "zoom":                {"name": "Zoom",                 "group": "saas",  "color": "#2D8CFF"},
     "telegram":            {"name": "Telegram",             "group": "saas",  "color": "#229ED9"},
+    "discord":             {"name": "Discord",              "group": "saas",  "color": "#5865F2"},
     "circleci":            {"name": "CircleCI",             "group": "saas",  "color": "#A0A0A0"},
     "teamcity":            {"name": "TeamCity",             "group": "saas",  "color": "#909090"},
     "apple_private_relay": {"name": "Apple Private Relay",  "group": "saas",  "color": "#007AFF"},

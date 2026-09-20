@@ -5,23 +5,23 @@
 [![GitHub stars](https://img.shields.io/github/stars/rezmoss/cloud-provider-ip-addresses)](https://github.com/rezmoss/cloud-provider-ip-addresses/stargazers)
 [![GitHub license](https://img.shields.io/github/license/rezmoss/cloud-provider-ip-addresses)](https://github.com/rezmoss/cloud-provider-ip-addresses/blob/main/LICENSE)
 ![Last Updated](https://img.shields.io/github/last-commit/rezmoss/cloud-provider-ip-addresses)
-![Providers](https://img.shields.io/badge/providers-63-blue)
+![Providers](https://img.shields.io/badge/providers-65-blue)
 ![Formats](https://img.shields.io/badge/formats-13+-green)
 ![Update](https://img.shields.io/badge/updated-daily%2002%3A00%20UTC-brightgreen)
 
-> **63 providers** | **13+ output formats** | **Merged/optimized CIDRs** | **Firewall-ready configs** | **Unified cross-provider dataset** | **Daily changelog** | **IP lookup tool** | **Go & JS client libraries**
+> **65 providers** | **13+ output formats** | **Merged/optimized CIDRs** | **Firewall-ready configs** | **Unified cross-provider dataset** | **Daily changelog** | **IP lookup tool** | **Go & JS client libraries**
 
 <!-- STATS_START -->
 <!-- This section is auto-updated by app.py on each run. Do not edit manually. -->
 
 ### Live Stats
 
-> Last updated: **2026-09-19** | Providers: **64** | Total CIDRs: **455,598** | IPv4 addresses: **457,484,961** | IPv4 space: **10.65%**
+> Last updated: **2026-09-20** | Providers: **65** | Total CIDRs: **455,612** | IPv4 addresses: **457,493,169** | IPv4 space: **10.65%**
 
 | Provider | IPv4 CIDRs | IPv6 CIDRs | Total CIDRs | IPv4 Addresses | Services | Regions |
 |----------|-----------|-----------|------------|---------------|----------|--------|
-| akamai | 7,859 | 3,030 | 10,889 | 21,707,216 | 18 | 1 |
-| alibaba | 2,145 | 243 | 2,388 | 31,396,608 | 3 | 1 |
+| akamai | 7,859 | 3,030 | 10,889 | 21,705,680 | 18 | 1 |
+| alibaba | 2,147 | 243 | 2,390 | 31,397,120 | 3 | 1 |
 | amazonbot | 3,131 | 0 | 3,131 | 3,131 | 3 | 0 |
 | apple_private_relay | 41,981 | 245,860 | 287,841 | 106,621 | 0 | 1284 |
 | applebot | 24 | 0 | 24 | 4,752 | 1 | 0 |
@@ -39,6 +39,7 @@
 | commoncrawl | 4 | 1 | 5 | 28 | 1 | 0 |
 | datadog | 154 | 10 | 164 | 38,362 | 11 | 0 |
 | digitalocean | 1,082 | 148 | 1,230 | 3,128,704 | 0 | 13 |
+| discord | 20 | 0 | 20 | 20 | 2 | 0 |
 | duckduckbot | 486 | 0 | 486 | 486 | 1 | 0 |
 | fastly | 19 | 2 | 21 | 304,128 | 0 | 0 |
 | gabia | 98 | 0 | 98 | 40,960 | 1 | 1 |
@@ -47,12 +48,12 @@
 | gocache | 25 | 0 | 25 | 600 | 0 | 0 |
 | googlebot | 170 | 147 | 317 | 5,088 | 1 | 0 |
 | googlecloud | 1,008 | 95 | 1,103 | 19,150,720 | 1 | 48 |
-| googleservices | 305 | 98 | 403 | 5,060,736 | 1 | 1 |
+| googleservices | 305 | 97 | 402 | 5,060,736 | 1 | 1 |
 | gptbot | 279 | 0 | 279 | 42,288 | 3 | 0 |
 | hetzner | 687 | 7 | 694 | 3,525,888 | 3 | 1 |
 | hostway | 174 | 0 | 174 | 74,752 | 1 | 1 |
 | huawei | 586 | 94 | 680 | 1,167,872 | 6 | 1 |
-| ibmcloud | 339 | 72 | 411 | 3,750,400 | 2 | 1 |
+| ibmcloud | 341 | 73 | 414 | 3,756,288 | 2 | 1 |
 | imperva | 11 | 1 | 12 | 261,120 | 0 | 0 |
 | internetarchive | 8 | 1 | 9 | 8,192 | 2 | 1 |
 | leaseweb | 1,719 | 382 | 2,101 | 2,414,848 | 18 | 1 |
@@ -75,10 +76,10 @@
 | teamcity | 11 | 0 | 11 | 11 | 2 | 1 |
 | telegram | 9 | 5 | 14 | 11,008 | 0 | 0 |
 | tencent | 3,360 | 72 | 3,432 | 14,981,632 | 2 | 1 |
-| tor | 1,363 | 0 | 1,363 | 1,363 | 1 | 1 |
+| tor | 1,359 | 0 | 1,359 | 1,359 | 1 | 1 |
 | upcloud | 87 | 20 | 107 | 100,352 | 2 | 1 |
 | uptimerobot | 103 | 103 | 206 | 103 | 1 | 4 |
-| vultr | 444 | 55 | 499 | 1,037,568 | 0 | 35 |
+| vultr | 442 | 51 | 493 | 1,040,896 | 0 | 35 |
 | wasabi | 20 | 0 | 20 | 5,120 | 1 | 1 |
 | yandex | 124 | 29 | 153 | 450,560 | 6 | 1 |
 | zoho | 168 | 19 | 187 | 77,824 | 9 | 1 |
@@ -273,6 +274,7 @@ curl -sLO https://github.com/rezmoss/cloud-provider-ip-addresses/releases/downlo
 | **Zoom** | IPv4 + IPv6 | Per-service (zoom, zoom-phone, zoom-contact-center, zoom-cdn) | Zoom published IP ranges |
 | **Atlassian** | IPv4 + IPv6 | Per-product (Jira, Confluence, Bitbucket, Trello, ...) | Atlassian published IP ranges |
 | **Microsoft 365** | IPv4 + IPv6 | — | Microsoft 365 worldwide endpoints API |
+| **Discord** | IPv4 | Per-service (api, media) | Discord published egress IP list (incl. Discordbot link previews) |
 
 ### CI/CD & Monitoring
 
@@ -369,6 +371,7 @@ Each provider has its own page with quick-use snippets, sample CIDRs, and links 
 | **Common Crawl (CCBot)** | [`commoncrawl/`](./commoncrawl/) |
 | **Datadog** | [`datadog/`](./datadog/) |
 | **DigitalOcean** | [`digitalocean/`](./digitalocean/) |
+| **Discord** | [`discord/`](./discord/) |
 | **DuckDuckBot** | [`duckduckbot/`](./duckduckbot/) |
 | **Fastly** | [`fastly/`](./fastly/) |
 | **Gabia** | [`gabia/`](./gabia/) |
@@ -747,6 +750,7 @@ cloud-provider-ip-addresses/
 ├── gabia/                (all formats + services; BGP/ASN-derived)
 ├── bunny/                (all formats + services; BGP/ASN-derived)
 ├── internetarchive/      (all formats + services; BGP/ASN-derived)
+├── discord/              (all formats + services; official Discord egress list)
 ├── all_providers/
 │   ├── all_providers.json / .csv
 │   ├── all_providers_ips.txt
@@ -933,6 +937,7 @@ curl -sL https://raw.githubusercontent.com/rezmoss/cloud-provider-ip-addresses/m
 | Hostway | Y | — | Y | — | Y | Y |
 | Gabia | Y | — | Y | — | Y | Y |
 | Bunny CDN | Y | Y | Y | — | Y | Y |
+| Discord | Y | — | Y | — | Y | Y |
 
 ---
 
@@ -991,6 +996,7 @@ All IP range data is sourced from the official, publicly available endpoints pro
 - **Google Cloud Platform** — for providing structured cloud IP range information
 - **Cloudflare** — for openly sharing their IPv4 and IPv6 edge network ranges
 - **DigitalOcean** — for publishing their IP allocations via their public geofeed
+- **Discord** — for publishing their egress IP addresses, including the Discordbot crawler, as a public JSON list
 - **Oracle Cloud Infrastructure** — for making their public IP ranges available in machine-readable format
 - **Fastly** — for providing their edge network IP list through their public API
 - **GitHub** — for exposing service-level IP ranges through their meta API

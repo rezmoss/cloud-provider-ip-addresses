@@ -23,6 +23,9 @@ INSERT INTO `ibmcloud_ips` (`ip_address`, `ip_type`) VALUES ('50.22.32.0/21', 'I
 INSERT INTO `ibmcloud_ips` (`ip_address`, `ip_type`) VALUES ('50.22.40.0/21', 'IPv4');
 INSERT INTO `ibmcloud_ips` (`ip_address`, `ip_type`) VALUES ('50.22.64.0/20', 'IPv4');
 INSERT INTO `ibmcloud_ips` (`ip_address`, `ip_type`) VALUES ('50.22.128.0/18', 'IPv4');
+INSERT INTO `ibmcloud_ips` (`ip_address`, `ip_type`) VALUES ('50.22.192.0/21', 'IPv4');
+INSERT INTO `ibmcloud_ips` (`ip_address`, `ip_type`) VALUES ('50.22.200.0/21', 'IPv4');
+INSERT INTO `ibmcloud_ips` (`ip_address`, `ip_type`) VALUES ('50.22.208.0/21', 'IPv4');
 INSERT INTO `ibmcloud_ips` (`ip_address`, `ip_type`) VALUES ('50.97.16.0/23', 'IPv4');
 INSERT INTO `ibmcloud_ips` (`ip_address`, `ip_type`) VALUES ('50.97.32.0/19', 'IPv4');
 INSERT INTO `ibmcloud_ips` (`ip_address`, `ip_type`) VALUES ('52.116.0.0/18', 'IPv4');
@@ -337,7 +340,6 @@ INSERT INTO `ibmcloud_ips` (`ip_address`, `ip_type`) VALUES ('208.43.128.0/18', 
 INSERT INTO `ibmcloud_ips` (`ip_address`, `ip_type`) VALUES ('208.43.192.0/19', 'IPv4');
 INSERT INTO `ibmcloud_ips` (`ip_address`, `ip_type`) VALUES ('208.101.0.0/18', 'IPv4');
 INSERT INTO `ibmcloud_ips` (`ip_address`, `ip_type`) VALUES ('209.85.0.0/17', 'IPv4');
-INSERT INTO `ibmcloud_ips` (`ip_address`, `ip_type`) VALUES ('209.90.46.0/24', 'IPv4');
 INSERT INTO `ibmcloud_ips` (`ip_address`, `ip_type`) VALUES ('216.12.192.0/19', 'IPv4');
 INSERT INTO `ibmcloud_ips` (`ip_address`, `ip_type`) VALUES ('216.12.217.0/24', 'IPv4');
 INSERT INTO `ibmcloud_ips` (`ip_address`, `ip_type`) VALUES ('216.127.64.0/19', 'IPv4');
@@ -380,6 +382,7 @@ INSERT INTO `ibmcloud_ips` (`ip_address`, `ip_type`) VALUES ('2607:f0d0:1100::/4
 INSERT INTO `ibmcloud_ips` (`ip_address`, `ip_type`) VALUES ('2607:f0d0:1900::/40', 'IPv6');
 INSERT INTO `ibmcloud_ips` (`ip_address`, `ip_type`) VALUES ('2607:f0d0:1a00::/40', 'IPv6');
 INSERT INTO `ibmcloud_ips` (`ip_address`, `ip_type`) VALUES ('2607:f0d0:1b00::/40', 'IPv6');
+INSERT INTO `ibmcloud_ips` (`ip_address`, `ip_type`) VALUES ('2607:f0d0:1c00::/40', 'IPv6');
 INSERT INTO `ibmcloud_ips` (`ip_address`, `ip_type`) VALUES ('2607:f0d0:1d00::/40', 'IPv6');
 INSERT INTO `ibmcloud_ips` (`ip_address`, `ip_type`) VALUES ('2607:f0d0:1e00::/40', 'IPv6');
 INSERT INTO `ibmcloud_ips` (`ip_address`, `ip_type`) VALUES ('2607:f0d0:1f00::/40', 'IPv6');

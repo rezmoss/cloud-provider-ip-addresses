@@ -1,6 +1,6 @@
 #!/bin/bash
 # Googleservices IP Ranges
-# Updated: 2026-09-12 02:24:19
+# Updated: 2026-09-20 02:25:10
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -398,7 +398,6 @@ ufw allow from 2600:1902:4000::/34
 ufw allow from 2600:1902:8000::/33
 ufw allow from 2600:1903::/32
 ufw allow from 2600:1904::/30
-ufw allow from 2600:1908::/29
 ufw allow from 2605:ef80::/32
 ufw allow from 2606:40::/32
 ufw allow from 2606:73c0::/32

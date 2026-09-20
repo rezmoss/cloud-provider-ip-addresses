@@ -397,7 +397,6 @@ INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('2600:1902:40
 INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('2600:1902:8000::/33', 'IPv6');
 INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('2600:1903::/32', 'IPv6');
 INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('2600:1904::/30', 'IPv6');
-INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('2600:1908::/29', 'IPv6');
 INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('2605:ef80::/32', 'IPv6');
 INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('2606:40::/32', 'IPv6');
 INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('2606:73c0::/32', 'IPv6');

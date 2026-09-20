@@ -2,6 +2,40 @@
 
 Daily IP range changes across all providers.
 
+## 2026-09-20
+
+### gcore
+- Added: 2 CIDRs
+- Removed: 2 CIDRs
+
+### discord
+- Added: 20 CIDRs
+- Removed: 0 CIDRs
+
+### alibaba
+- Added: 2 CIDRs
+- Removed: 0 CIDRs
+
+### vultr
+- Added: 1 CIDRs
+- Removed: 7 CIDRs
+
+### tor
+- Added: 7 CIDRs
+- Removed: 11 CIDRs
+
+### ibmcloud
+- Added: 4 CIDRs
+- Removed: 1 CIDRs
+
+### googleservices
+- Added: 0 CIDRs
+- Removed: 1 CIDRs
+
+### akamai
+- Added: 4 CIDRs
+- Removed: 4 CIDRs
+
 ## 2026-09-19
 
 ### zscaler

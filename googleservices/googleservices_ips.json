@@ -2346,12 +2346,6 @@
     "region": "global"
   },
   {
-    "ip_address": "2600:1908::/29",
-    "ip_type": "IPv6",
-    "service": "google-services",
-    "region": "global"
-  },
-  {
     "ip_address": "2605:ef80::/32",
     "ip_type": "IPv6",
     "service": "google-services",

@@ -1,6 +1,6 @@
 #!/bin/bash
 # Vultr IP Ranges
-# Updated: 2026-09-04 02:29:31
+# Updated: 2026-09-20 02:30:05
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -21,7 +21,7 @@ ufw allow from 64.176.0.0/17
 ufw allow from 64.176.160.0/19
 ufw allow from 64.176.192.0/18
 ufw allow from 64.177.0.0/20
-ufw allow from 64.177.32.0/20
+ufw allow from 64.177.32.0/19
 ufw allow from 64.177.64.0/18
 ufw allow from 64.237.32.0/19
 ufw allow from 65.20.64.0/18
@@ -107,13 +107,10 @@ ufw allow from 173.199.106.0/24
 ufw allow from 173.199.108.0/22
 ufw allow from 173.199.112.0/20
 ufw allow from 185.92.220.0/22
-ufw allow from 192.0.2.0/24
 ufw allow from 192.248.128.0/18
 ufw allow from 198.13.32.0/19
-ufw allow from 198.51.100.0/24
 ufw allow from 199.247.0.0/19
 ufw allow from 202.182.96.0/19
-ufw allow from 203.0.113.0/24
 ufw allow from 207.148.0.0/19
 ufw allow from 207.148.64.0/18
 ufw allow from 207.246.64.0/18
@@ -132,9 +129,6 @@ ufw allow from 216.128.128.0/18
 ufw allow from 216.155.128.0/19
 ufw allow from 216.238.64.0/18
 ufw allow from 217.69.0.0/20
-ufw allow from 2001:2::/48
-ufw allow from 2001:10::/28
-ufw allow from 2001:db8::/32
 ufw allow from 2001:19f0::/38
 ufw allow from 2001:19f0:1000::/37
 ufw allow from 2001:19f0:4000::/37
@@ -150,7 +144,6 @@ ufw allow from 2001:19f0:b000::/37
 ufw allow from 2001:19f0:b800::/38
 ufw allow from 2001:19f0:c000::/38
 ufw allow from 2001:19f0:c800::/38
-ufw allow from 2002::/16
 ufw allow from 2401:c080:1000::/36
 ufw allow from 2401:c080:2000::/37
 ufw allow from 2401:c080:3000::/37

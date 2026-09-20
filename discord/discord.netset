@@ -1,0 +1,30 @@
+# discord IP ranges - ipset restore format (hash:net)
+# Version: 1 | Generated: 2026-09-20 | Last changed: 2026-09-20
+# IPv4: 20 merged subnets, 20 unique IPs
+# IPv6: 0 merged subnets
+# Source: https://github.com/rezmoss/cloud-provider-ip-addresses
+# License: CC0-1.0 | Updated daily at 02:00 UTC
+# Load with: sudo ipset restore -! < discord.netset
+#
+create discord_v4 hash:net family inet hashsize 4096 maxelem 1048576 -exist
+flush discord_v4
+add discord_v4 34.73.62.161/32
+add discord_v4 34.74.100.84/32
+add discord_v4 34.74.113.139/32
+add discord_v4 34.75.19.245/32
+add discord_v4 34.138.20.118/32
+add discord_v4 34.138.218.50/32
+add discord_v4 34.139.115.226/32
+add discord_v4 34.148.171.212/32
+add discord_v4 35.190.130.193/32
+add discord_v4 35.196.132.85/32
+add discord_v4 35.227.34.53/32
+add discord_v4 35.227.62.178/32
+add discord_v4 35.231.24.24/32
+add discord_v4 35.231.179.220/32
+add discord_v4 35.237.4.214/32
+add discord_v4 35.237.58.227/32
+add discord_v4 35.237.169.55/32
+add discord_v4 35.243.226.206/32
+add discord_v4 104.196.23.152/32
+add discord_v4 104.196.222.45/32

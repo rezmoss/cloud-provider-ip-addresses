@@ -1,6 +1,6 @@
 #!/bin/bash
 # Vultr IP Ranges
-# Updated: 2026-09-04 02:29:31
+# Updated: 2026-09-20 02:30:04
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -21,7 +21,7 @@ iptables -A INPUT -s 64.176.0.0/17 -j ACCEPT
 iptables -A INPUT -s 64.176.160.0/19 -j ACCEPT
 iptables -A INPUT -s 64.176.192.0/18 -j ACCEPT
 iptables -A INPUT -s 64.177.0.0/20 -j ACCEPT
-iptables -A INPUT -s 64.177.32.0/20 -j ACCEPT
+iptables -A INPUT -s 64.177.32.0/19 -j ACCEPT
 iptables -A INPUT -s 64.177.64.0/18 -j ACCEPT
 iptables -A INPUT -s 64.237.32.0/19 -j ACCEPT
 iptables -A INPUT -s 65.20.64.0/18 -j ACCEPT
@@ -107,13 +107,10 @@ iptables -A INPUT -s 173.199.106.0/24 -j ACCEPT
 iptables -A INPUT -s 173.199.108.0/22 -j ACCEPT
 iptables -A INPUT -s 173.199.112.0/20 -j ACCEPT
 iptables -A INPUT -s 185.92.220.0/22 -j ACCEPT
-iptables -A INPUT -s 192.0.2.0/24 -j ACCEPT
 iptables -A INPUT -s 192.248.128.0/18 -j ACCEPT
 iptables -A INPUT -s 198.13.32.0/19 -j ACCEPT
-iptables -A INPUT -s 198.51.100.0/24 -j ACCEPT
 iptables -A INPUT -s 199.247.0.0/19 -j ACCEPT
 iptables -A INPUT -s 202.182.96.0/19 -j ACCEPT
-iptables -A INPUT -s 203.0.113.0/24 -j ACCEPT
 iptables -A INPUT -s 207.148.0.0/19 -j ACCEPT
 iptables -A INPUT -s 207.148.64.0/18 -j ACCEPT
 iptables -A INPUT -s 207.246.64.0/18 -j ACCEPT
@@ -132,9 +129,6 @@ iptables -A INPUT -s 216.128.128.0/18 -j ACCEPT
 iptables -A INPUT -s 216.155.128.0/19 -j ACCEPT
 iptables -A INPUT -s 216.238.64.0/18 -j ACCEPT
 iptables -A INPUT -s 217.69.0.0/20 -j ACCEPT
-ip6tables -A INPUT -s 2001:2::/48 -j ACCEPT
-ip6tables -A INPUT -s 2001:10::/28 -j ACCEPT
-ip6tables -A INPUT -s 2001:db8::/32 -j ACCEPT
 ip6tables -A INPUT -s 2001:19f0::/38 -j ACCEPT
 ip6tables -A INPUT -s 2001:19f0:1000::/37 -j ACCEPT
 ip6tables -A INPUT -s 2001:19f0:4000::/37 -j ACCEPT
@@ -150,7 +144,6 @@ ip6tables -A INPUT -s 2001:19f0:b000::/37 -j ACCEPT
 ip6tables -A INPUT -s 2001:19f0:b800::/38 -j ACCEPT
 ip6tables -A INPUT -s 2001:19f0:c000::/38 -j ACCEPT
 ip6tables -A INPUT -s 2001:19f0:c800::/38 -j ACCEPT
-ip6tables -A INPUT -s 2002::/16 -j ACCEPT
 ip6tables -A INPUT -s 2401:c080:1000::/36 -j ACCEPT
 ip6tables -A INPUT -s 2401:c080:2000::/37 -j ACCEPT
 ip6tables -A INPUT -s 2401:c080:3000::/37 -j ACCEPT

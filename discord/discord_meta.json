@@ -1,0 +1,23 @@
+{
+  "provider": "discord",
+  "version": 1,
+  "generated_date": "2026-09-20",
+  "last_changed_date": "2026-09-20",
+  "sources": [
+    "https://cdn.discordapp.com/ipranges/discord.json"
+  ],
+  "ipv4": {
+    "cidrs": 20,
+    "merged_cidrs": 20,
+    "addresses": 20
+  },
+  "ipv6": {
+    "cidrs": 0,
+    "merged_cidrs": 0,
+    "addresses": 0
+  },
+  "total_entries": 20,
+  "content_sha256": "1ae9cf9aafded79496907af44ade7440581ac0e337475794117515ce2a51ae19",
+  "license": "CC0-1.0",
+  "license_url": "https://github.com/rezmoss/cloud-provider-ip-addresses/blob/main/LICENSE"
+}

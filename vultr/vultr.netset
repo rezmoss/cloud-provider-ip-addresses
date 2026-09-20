@@ -1,7 +1,7 @@
 # vultr IP ranges - ipset restore format (hash:net)
-# Version: 14 | Generated: 2026-09-19 | Last changed: 2026-09-04
-# IPv4: 125 merged subnets, 1037312 unique IPs
-# IPv6: 27 merged subnets
+# Version: 15 | Generated: 2026-09-20 | Last changed: 2026-09-20
+# IPv4: 122 merged subnets, 1040640 unique IPs
+# IPv6: 23 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
 # Load with: sudo ipset restore -! < vultr.netset
@@ -22,7 +22,7 @@ add vultr_v4 64.176.0.0/17
 add vultr_v4 64.176.160.0/19
 add vultr_v4 64.176.192.0/18
 add vultr_v4 64.177.0.0/20
-add vultr_v4 64.177.32.0/20
+add vultr_v4 64.177.32.0/19
 add vultr_v4 64.177.64.0/18
 add vultr_v4 64.237.32.0/19
 add vultr_v4 65.20.64.0/18
@@ -108,13 +108,10 @@ add vultr_v4 173.199.106.0/24
 add vultr_v4 173.199.108.0/22
 add vultr_v4 173.199.112.0/20
 add vultr_v4 185.92.220.0/22
-add vultr_v4 192.0.2.0/24
 add vultr_v4 192.248.128.0/18
 add vultr_v4 198.13.32.0/19
-add vultr_v4 198.51.100.0/24
 add vultr_v4 199.247.0.0/19
 add vultr_v4 202.182.96.0/19
-add vultr_v4 203.0.113.0/24
 add vultr_v4 207.148.0.0/19
 add vultr_v4 207.148.64.0/18
 add vultr_v4 207.246.64.0/18
@@ -135,9 +132,6 @@ add vultr_v4 216.238.64.0/18
 add vultr_v4 217.69.0.0/20
 create vultr_v6 hash:net family inet6 hashsize 4096 maxelem 1048576 -exist
 flush vultr_v6
-add vultr_v6 2001:2::/48
-add vultr_v6 2001:10::/28
-add vultr_v6 2001:db8::/32
 add vultr_v6 2001:19f0::/38
 add vultr_v6 2001:19f0:1000::/37
 add vultr_v6 2001:19f0:4000::/37
@@ -153,7 +147,6 @@ add vultr_v6 2001:19f0:b000::/37
 add vultr_v6 2001:19f0:b800::/38
 add vultr_v6 2001:19f0:c000::/38
 add vultr_v6 2001:19f0:c800::/38
-add vultr_v6 2002::/16
 add vultr_v6 2401:c080:1000::/36
 add vultr_v6 2401:c080:2000::/37
 add vultr_v6 2401:c080:3000::/37

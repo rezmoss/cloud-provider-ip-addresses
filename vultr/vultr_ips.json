@@ -540,6 +540,11 @@
     "region": "US-GA"
   },
   {
+    "ip_address": "64.177.48.0/20",
+    "ip_type": "IPv4",
+    "region": "US-GA"
+  },
+  {
     "ip_address": "64.177.64.0/20",
     "ip_type": "IPv4",
     "region": "IL-Tel Aviv"
@@ -1930,11 +1935,6 @@
     "region": "NL-NH"
   },
   {
-    "ip_address": "192.0.2.0/24",
-    "ip_type": "IPv4",
-    "region": "US-GA"
-  },
-  {
     "ip_address": "192.248.128.0/20",
     "ip_type": "IPv4",
     "region": "NL-NH"
@@ -1965,11 +1965,6 @@
     "region": "JP-13"
   },
   {
-    "ip_address": "198.51.100.0/24",
-    "ip_type": "IPv4",
-    "region": "US-GA"
-  },
-  {
     "ip_address": "199.247.0.0/21",
     "ip_type": "IPv4",
     "region": "DE-HE"
@@ -1998,11 +1993,6 @@
     "ip_address": "202.182.112.0/20",
     "ip_type": "IPv4",
     "region": "JP-13"
-  },
-  {
-    "ip_address": "203.0.113.0/24",
-    "ip_type": "IPv4",
-    "region": "US-GA"
   },
   {
     "ip_address": "207.148.0.0/21",
@@ -2220,21 +2210,6 @@
     "region": "FR-93"
   },
   {
-    "ip_address": "2001:2::/48",
-    "ip_type": "IPv6",
-    "region": "US-GA"
-  },
-  {
-    "ip_address": "2001:10::/28",
-    "ip_type": "IPv6",
-    "region": "US-GA"
-  },
-  {
-    "ip_address": "2001:db8::/32",
-    "ip_type": "IPv6",
-    "region": "US-GA"
-  },
-  {
     "ip_address": "2001:19f0::/38",
     "ip_type": "IPv6",
     "region": "US-NJ"
@@ -2388,11 +2363,6 @@
     "ip_address": "2001:19f0:c800::/38",
     "ip_type": "IPv6",
     "region": "CL-RM"
-  },
-  {
-    "ip_address": "2002::/16",
-    "ip_type": "IPv6",
-    "region": "US-GA"
   },
   {
     "ip_address": "2401:c080:1000::/38",

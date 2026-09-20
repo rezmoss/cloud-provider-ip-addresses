@@ -390,7 +390,6 @@ ip_address,ip_type,service,region
 2600:1902:8000::/33,IPv6,google-services,global
 2600:1903::/32,IPv6,google-services,global
 2600:1904::/30,IPv6,google-services,global
-2600:1908::/29,IPv6,google-services,global
 2605:ef80::/32,IPv6,google-services,global
 2606:40::/32,IPv6,google-services,global
 2606:73c0::/32,IPv6,google-services,global

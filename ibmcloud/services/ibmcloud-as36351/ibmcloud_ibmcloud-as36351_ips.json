@@ -102,6 +102,24 @@
     "region": "global"
   },
   {
+    "ip_address": "50.22.192.0/21",
+    "ip_type": "IPv4",
+    "service": "ibmcloud-as36351",
+    "region": "global"
+  },
+  {
+    "ip_address": "50.22.200.0/21",
+    "ip_type": "IPv4",
+    "service": "ibmcloud-as36351",
+    "region": "global"
+  },
+  {
+    "ip_address": "50.22.208.0/21",
+    "ip_type": "IPv4",
+    "service": "ibmcloud-as36351",
+    "region": "global"
+  },
+  {
     "ip_address": "50.97.16.0/23",
     "ip_type": "IPv4",
     "service": "ibmcloud-as36351",
@@ -1980,12 +1998,6 @@
     "region": "global"
   },
   {
-    "ip_address": "209.90.46.0/24",
-    "ip_type": "IPv4",
-    "service": "ibmcloud-as36351",
-    "region": "global"
-  },
-  {
     "ip_address": "216.12.192.0/19",
     "ip_type": "IPv4",
     "service": "ibmcloud-as36351",
@@ -2233,6 +2245,12 @@
   },
   {
     "ip_address": "2607:f0d0:1b00::/40",
+    "ip_type": "IPv6",
+    "service": "ibmcloud-as36351",
+    "region": "global"
+  },
+  {
+    "ip_address": "2607:f0d0:1c00::/40",
     "ip_type": "IPv6",
     "service": "ibmcloud-as36351",
     "region": "global"
