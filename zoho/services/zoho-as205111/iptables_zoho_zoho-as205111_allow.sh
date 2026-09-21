@@ -1,6 +1,6 @@
 #!/bin/bash
 # Zoho IP Ranges
-# Updated: 2026-07-31 03:19:23
+# Updated: 2026-09-21 02:34:03
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -8,7 +8,7 @@
 # iptables allow rules for zoho
 
 iptables -A INPUT -s 94.31.54.0/23 -j ACCEPT
-iptables -A INPUT -s 136.143.170.0/23 -j ACCEPT
+iptables -A INPUT -s 136.143.168.0/22 -j ACCEPT
 iptables -A INPUT -s 144.89.64.0/21 -j ACCEPT
 iptables -A INPUT -s 169.148.128.0/22 -j ACCEPT
 iptables -A INPUT -s 169.148.188.0/23 -j ACCEPT

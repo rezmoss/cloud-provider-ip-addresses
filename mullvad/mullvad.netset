@@ -1,5 +1,5 @@
 # mullvad IP ranges - ipset restore format (hash:net)
-# Version: 29 | Generated: 2026-09-20 | Last changed: 2026-09-18
+# Version: 29 | Generated: 2026-09-21 | Last changed: 2026-09-18
 # IPv4: 545 merged subnets, 563 unique IPs
 # IPv6: 553 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses

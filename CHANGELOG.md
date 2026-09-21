@@ -2,6 +2,24 @@
 
 Daily IP range changes across all providers.
 
+## 2026-09-21
+
+### tencent
+- Added: 2 CIDRs
+- Removed: 0 CIDRs
+
+### tor
+- Added: 19 CIDRs
+- Removed: 4 CIDRs
+
+### zoho
+- Added: 2 CIDRs
+- Removed: 0 CIDRs
+
+### alibaba
+- Added: 7 CIDRs
+- Removed: 0 CIDRs
+
 ## 2026-09-20
 
 ### gcore
