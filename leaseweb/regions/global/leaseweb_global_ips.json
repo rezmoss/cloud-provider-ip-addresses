@@ -1632,12 +1632,6 @@
     "region": "global"
   },
   {
-    "ip_address": "37.75.152.0/21",
-    "ip_type": "IPv4",
-    "service": "leaseweb-as60781",
-    "region": "global"
-  },
-  {
     "ip_address": "38.180.165.0/24",
     "ip_type": "IPv4",
     "service": "leaseweb-as28753",

@@ -135,11 +135,6 @@
     "region": "ZA-WC"
   },
   {
-    "ip_address": "2a02:26f7:d240:d61e::/64",
-    "ip_type": "IPv6",
-    "region": "ZA-WC"
-  },
-  {
     "ip_address": "2a02:26f7:d240:d61f::/64",
     "ip_type": "IPv6",
     "region": "ZA-WC"
@@ -191,11 +186,6 @@
   },
   {
     "ip_address": "2a02:26f7:d242:d61c::/64",
-    "ip_type": "IPv6",
-    "region": "ZA-WC"
-  },
-  {
-    "ip_address": "2a02:26f7:d242:d61e::/64",
     "ip_type": "IPv6",
     "region": "ZA-WC"
   },
@@ -255,11 +245,6 @@
     "region": "ZA-WC"
   },
   {
-    "ip_address": "2a02:26f7:d244:d61e::/64",
-    "ip_type": "IPv6",
-    "region": "ZA-WC"
-  },
-  {
     "ip_address": "2a02:26f7:d244:d61f::/64",
     "ip_type": "IPv6",
     "region": "ZA-WC"
@@ -311,11 +296,6 @@
   },
   {
     "ip_address": "2a02:26f7:d248:d61c::/64",
-    "ip_type": "IPv6",
-    "region": "ZA-WC"
-  },
-  {
-    "ip_address": "2a02:26f7:d248:d61e::/64",
     "ip_type": "IPv6",
     "region": "ZA-WC"
   },
@@ -375,11 +355,6 @@
     "region": "ZA-WC"
   },
   {
-    "ip_address": "2a02:26f7:d24c:d61e::/64",
-    "ip_type": "IPv6",
-    "region": "ZA-WC"
-  },
-  {
     "ip_address": "2a02:26f7:d24c:d61f::/64",
     "ip_type": "IPv6",
     "region": "ZA-WC"
@@ -431,11 +406,6 @@
   },
   {
     "ip_address": "2a02:26f7:d250:d61c::/64",
-    "ip_type": "IPv6",
-    "region": "ZA-WC"
-  },
-  {
-    "ip_address": "2a02:26f7:d250:d61e::/64",
     "ip_type": "IPv6",
     "region": "ZA-WC"
   },
@@ -495,11 +465,6 @@
     "region": "ZA-WC"
   },
   {
-    "ip_address": "2a02:26f7:d254:d61e::/64",
-    "ip_type": "IPv6",
-    "region": "ZA-WC"
-  },
-  {
     "ip_address": "2a02:26f7:d254:d61f::/64",
     "ip_type": "IPv6",
     "region": "ZA-WC"
@@ -551,11 +516,6 @@
   },
   {
     "ip_address": "2a02:26f7:d258:d61c::/64",
-    "ip_type": "IPv6",
-    "region": "ZA-WC"
-  },
-  {
-    "ip_address": "2a02:26f7:d258:d61e::/64",
     "ip_type": "IPv6",
     "region": "ZA-WC"
   },

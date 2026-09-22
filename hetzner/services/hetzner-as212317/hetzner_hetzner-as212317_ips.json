@@ -828,12 +828,6 @@
     "region": "global"
   },
   {
-    "ip_address": "5.78.160.0/22",
-    "ip_type": "IPv4",
-    "service": "hetzner-as212317",
-    "region": "global"
-  },
-  {
     "ip_address": "5.78.160.0/24",
     "ip_type": "IPv4",
     "service": "hetzner-as212317",

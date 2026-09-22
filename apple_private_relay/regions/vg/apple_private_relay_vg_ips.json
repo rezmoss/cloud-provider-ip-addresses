@@ -120,16 +120,6 @@
     "region": "VG"
   },
   {
-    "ip_address": "172.226.13.124/31",
-    "ip_type": "IPv4",
-    "region": "VG"
-  },
-  {
-    "ip_address": "172.226.84.128/28",
-    "ip_type": "IPv4",
-    "region": "VG"
-  },
-  {
     "ip_address": "172.226.166.160/27",
     "ip_type": "IPv4",
     "region": "VG"
@@ -191,21 +181,6 @@
   },
   {
     "ip_address": "2a02:26f7:e6c9:4000::/64",
-    "ip_type": "IPv6",
-    "region": "VG"
-  },
-  {
-    "ip_address": "2a02:26f7:e6cc:4000::/64",
-    "ip_type": "IPv6",
-    "region": "VG"
-  },
-  {
-    "ip_address": "2a02:26f7:e6cc:4f00::/64",
-    "ip_type": "IPv6",
-    "region": "VG"
-  },
-  {
-    "ip_address": "2a02:26f7:e6cd:4000::/64",
     "ip_type": "IPv6",
     "region": "VG"
   },

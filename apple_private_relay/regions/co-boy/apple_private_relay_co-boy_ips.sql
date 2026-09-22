@@ -34,13 +34,6 @@ INSERT INTO `apple_private_relay_co-boy_ips` (`ip_address`, `ip_type`) VALUES ('
 INSERT INTO `apple_private_relay_co-boy_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7cc:e172::/64', 'IPv6');
 INSERT INTO `apple_private_relay_co-boy_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7cc:e173::/64', 'IPv6');
 INSERT INTO `apple_private_relay_co-boy_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7cc:e17b::/64', 'IPv6');
-INSERT INTO `apple_private_relay_co-boy_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7d0:e125::/64', 'IPv6');
-INSERT INTO `apple_private_relay_co-boy_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7d0:e12d::/64', 'IPv6');
-INSERT INTO `apple_private_relay_co-boy_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7d0:e15e::/64', 'IPv6');
-INSERT INTO `apple_private_relay_co-boy_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7d0:e166::/64', 'IPv6');
-INSERT INTO `apple_private_relay_co-boy_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7d0:e172::/64', 'IPv6');
-INSERT INTO `apple_private_relay_co-boy_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7d0:e173::/64', 'IPv6');
-INSERT INTO `apple_private_relay_co-boy_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7d0:e17b::/64', 'IPv6');
 INSERT INTO `apple_private_relay_co-boy_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7d4:e125::/64', 'IPv6');
 INSERT INTO `apple_private_relay_co-boy_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7d4:e12d::/64', 'IPv6');
 INSERT INTO `apple_private_relay_co-boy_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7d4:e15e::/64', 'IPv6');

@@ -1,6 +1,6 @@
 #!/bin/bash
 # Akamai IP Ranges
-# Updated: 2026-09-16 02:33:14
+# Updated: 2026-09-22 02:33:00
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -16,8 +16,7 @@ ufw allow from 2.21.112.0/20
 ufw allow from 2.21.175.0/24
 ufw allow from 2.23.128.0/21
 ufw allow from 14.136.149.0/24
-ufw allow from 23.0.224.0/24
-ufw allow from 23.0.226.0/23
+ufw allow from 23.0.224.0/22
 ufw allow from 23.0.228.0/24
 ufw allow from 23.0.230.0/24
 ufw allow from 23.12.32.0/21
@@ -84,6 +83,7 @@ ufw allow from 96.6.80.0/23
 ufw allow from 96.6.83.0/24
 ufw allow from 96.6.84.0/24
 ufw allow from 96.6.86.0/24
+ufw allow from 96.6.93.0/24
 ufw allow from 96.6.144.0/21
 ufw allow from 103.37.90.0/24
 ufw allow from 103.93.157.0/24
@@ -92,6 +92,7 @@ ufw allow from 104.74.16.0/22
 ufw allow from 104.86.64.0/21
 ufw allow from 114.141.74.0/23
 ufw allow from 114.141.76.0/22
+ufw allow from 139.60.113.0/24
 ufw allow from 142.146.32.0/24
 ufw allow from 142.146.38.0/24
 ufw allow from 142.146.60.0/24
@@ -151,6 +152,7 @@ ufw allow from 212.239.17.0/24
 ufw allow from 213.62.24.0/23
 ufw allow from 216.9.58.0/24
 ufw allow from 216.9.61.0/24
+ufw allow from 216.117.105.0/24
 ufw allow from 217.163.58.0/24
 ufw allow from 219.113.26.0/24
 ufw allow from 2001:df4:4c40::/48

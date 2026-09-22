@@ -75,6 +75,11 @@
     "region": "ZM"
   },
   {
+    "ip_address": "146.75.224.38/31",
+    "ip_type": "IPv4",
+    "region": "ZM"
+  },
+  {
     "ip_address": "172.224.231.144/28",
     "ip_type": "IPv4",
     "region": "ZM"
@@ -306,6 +311,11 @@
   },
   {
     "ip_address": "2a02:26f7:d211:4000::/64",
+    "ip_type": "IPv6",
+    "region": "ZM"
+  },
+  {
+    "ip_address": "2a04:4e41:1f3::/48",
     "ip_type": "IPv6",
     "region": "ZM"
   },

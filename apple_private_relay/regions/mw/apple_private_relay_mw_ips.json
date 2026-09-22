@@ -20,6 +20,11 @@
     "region": "MW"
   },
   {
+    "ip_address": "146.75.224.22/31",
+    "ip_type": "IPv4",
+    "region": "MW"
+  },
+  {
     "ip_address": "172.224.230.208/28",
     "ip_type": "IPv4",
     "region": "MW"
@@ -91,6 +96,11 @@
   },
   {
     "ip_address": "2a02:26f7:d48d:4000::/64",
+    "ip_type": "IPv6",
+    "region": "MW"
+  },
+  {
+    "ip_address": "2a04:4e41:1eb::/48",
     "ip_type": "IPv6",
     "region": "MW"
   },

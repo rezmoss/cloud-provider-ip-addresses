@@ -1,6 +1,6 @@
 #!/bin/bash
 # Apple_private_relay IP Ranges
-# Updated: 2026-08-31 02:29:47
+# Updated: 2026-09-22 02:29:23
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -69,6 +69,7 @@ ufw deny from 104.28.136.248/30
 ufw deny from 104.28.136.252/31
 ufw deny from 104.28.137.142/31
 ufw deny from 104.28.137.209/32
+ufw deny from 104.28.137.236/30
 ufw deny from 104.28.138.16/30
 ufw deny from 104.28.138.20/31
 ufw deny from 104.28.138.124/32
@@ -328,17 +329,6 @@ ufw deny from 172.226.9.142/31
 ufw deny from 172.226.9.152/31
 ufw deny from 172.226.9.168/30
 ufw deny from 172.226.9.242/31
-ufw deny from 172.226.11.196/31
-ufw deny from 172.226.12.128/31
-ufw deny from 172.226.12.136/31
-ufw deny from 172.226.12.196/31
-ufw deny from 172.226.12.220/31
-ufw deny from 172.226.12.254/31
-ufw deny from 172.226.13.2/31
-ufw deny from 172.226.13.10/31
-ufw deny from 172.226.13.20/31
-ufw deny from 172.226.13.36/30
-ufw deny from 172.226.13.110/31
 ufw deny from 172.226.18.110/31
 ufw deny from 172.226.18.170/31
 ufw deny from 172.226.18.178/31
@@ -1131,20 +1121,6 @@ ufw deny from 2a02:26f7:f6e8:a160::/59
 ufw deny from 2a02:26f7:f6e8:a180::/58
 ufw deny from 2a02:26f7:f6e8:a1c0::/60
 ufw deny from 2a02:26f7:f6e8:a1d0::/61
-ufw deny from 2a02:26f7:f6e9:400::/54
-ufw deny from 2a02:26f7:f6e9:1c00::/57
-ufw deny from 2a02:26f7:f6e9:a019::/64
-ufw deny from 2a02:26f7:f6e9:a01a::/63
-ufw deny from 2a02:26f7:f6e9:a01c::/62
-ufw deny from 2a02:26f7:f6e9:a020::/62
-ufw deny from 2a02:26f7:f6e9:a145::/64
-ufw deny from 2a02:26f7:f6e9:a146::/63
-ufw deny from 2a02:26f7:f6e9:a148::/61
-ufw deny from 2a02:26f7:f6e9:a150::/60
-ufw deny from 2a02:26f7:f6e9:a160::/59
-ufw deny from 2a02:26f7:f6e9:a180::/58
-ufw deny from 2a02:26f7:f6e9:a1c0::/60
-ufw deny from 2a02:26f7:f6e9:a1d0::/61
 ufw deny from 2a02:26f7:f6ec:400::/54
 ufw deny from 2a02:26f7:f6ec:1c00::/57
 ufw deny from 2a02:26f7:f6ec:a019::/64

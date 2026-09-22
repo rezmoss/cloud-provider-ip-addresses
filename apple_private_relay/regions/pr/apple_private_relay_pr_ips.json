@@ -150,16 +150,6 @@
     "region": "PR"
   },
   {
-    "ip_address": "172.226.11.88/29",
-    "ip_type": "IPv4",
-    "region": "PR"
-  },
-  {
-    "ip_address": "172.226.11.96/28",
-    "ip_type": "IPv4",
-    "region": "PR"
-  },
-  {
     "ip_address": "172.226.67.232/29",
     "ip_type": "IPv4",
     "region": "PR"
@@ -626,91 +616,6 @@
   },
   {
     "ip_address": "2a02:26f7:e7cd:4000::/64",
-    "ip_type": "IPv6",
-    "region": "PR"
-  },
-  {
-    "ip_address": "2a02:26f7:e7d0:4000::/64",
-    "ip_type": "IPv6",
-    "region": "PR"
-  },
-  {
-    "ip_address": "2a02:26f7:e7d0:4b80::/64",
-    "ip_type": "IPv6",
-    "region": "PR"
-  },
-  {
-    "ip_address": "2a02:26f7:e7d0:4b81::/64",
-    "ip_type": "IPv6",
-    "region": "PR"
-  },
-  {
-    "ip_address": "2a02:26f7:e7d0:4b82::/64",
-    "ip_type": "IPv6",
-    "region": "PR"
-  },
-  {
-    "ip_address": "2a02:26f7:e7d0:4b83::/64",
-    "ip_type": "IPv6",
-    "region": "PR"
-  },
-  {
-    "ip_address": "2a02:26f7:e7d0:4b84::/64",
-    "ip_type": "IPv6",
-    "region": "PR"
-  },
-  {
-    "ip_address": "2a02:26f7:e7d0:4b85::/64",
-    "ip_type": "IPv6",
-    "region": "PR"
-  },
-  {
-    "ip_address": "2a02:26f7:e7d0:4b86::/64",
-    "ip_type": "IPv6",
-    "region": "PR"
-  },
-  {
-    "ip_address": "2a02:26f7:e7d0:4b87::/64",
-    "ip_type": "IPv6",
-    "region": "PR"
-  },
-  {
-    "ip_address": "2a02:26f7:e7d0:4b88::/64",
-    "ip_type": "IPv6",
-    "region": "PR"
-  },
-  {
-    "ip_address": "2a02:26f7:e7d0:4b89::/64",
-    "ip_type": "IPv6",
-    "region": "PR"
-  },
-  {
-    "ip_address": "2a02:26f7:e7d0:4b8a::/64",
-    "ip_type": "IPv6",
-    "region": "PR"
-  },
-  {
-    "ip_address": "2a02:26f7:e7d0:4b8b::/64",
-    "ip_type": "IPv6",
-    "region": "PR"
-  },
-  {
-    "ip_address": "2a02:26f7:e7d0:4b8c::/64",
-    "ip_type": "IPv6",
-    "region": "PR"
-  },
-  {
-    "ip_address": "2a02:26f7:e7d0:4b8d::/64",
-    "ip_type": "IPv6",
-    "region": "PR"
-  },
-  {
-    "ip_address": "2a02:26f7:e7d0:4b8e::/64",
-    "ip_type": "IPv6",
-    "region": "PR"
-  },
-  {
-    "ip_address": "2a02:26f7:e7d1:4000::/64",
     "ip_type": "IPv6",
     "region": "PR"
   },

@@ -1,6 +1,6 @@
 #!/bin/bash
 # Apple_private_relay IP Ranges
-# Updated: 2026-06-25 03:22:48
+# Updated: 2026-09-22 02:29:36
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -107,6 +107,8 @@ ufw allow from 104.28.133.58/31
 ufw allow from 104.28.133.60/30
 ufw allow from 104.28.133.64/32
 ufw allow from 104.28.136.97/32
+ufw allow from 104.28.137.242/32
+ufw allow from 104.28.137.245/32
 ufw allow from 104.28.138.74/31
 ufw allow from 104.28.138.76/30
 ufw allow from 104.28.138.80/30
@@ -472,24 +474,6 @@ ufw allow from 172.226.9.172/31
 ufw allow from 172.226.9.178/31
 ufw allow from 172.226.9.218/31
 ufw allow from 172.226.9.220/31
-ufw allow from 172.226.11.138/31
-ufw allow from 172.226.11.188/30
-ufw allow from 172.226.11.200/31
-ufw allow from 172.226.11.204/31
-ufw allow from 172.226.11.216/31
-ufw allow from 172.226.11.252/31
-ufw allow from 172.226.12.130/31
-ufw allow from 172.226.12.144/31
-ufw allow from 172.226.12.148/31
-ufw allow from 172.226.12.158/31
-ufw allow from 172.226.12.188/31
-ufw allow from 172.226.12.202/31
-ufw allow from 172.226.12.208/31
-ufw allow from 172.226.13.34/31
-ufw allow from 172.226.13.40/31
-ufw allow from 172.226.13.46/31
-ufw allow from 172.226.13.86/31
-ufw allow from 172.226.13.88/31
 ufw allow from 172.226.18.0/26
 ufw allow from 172.226.18.70/31
 ufw allow from 172.226.18.102/31
@@ -1632,29 +1616,6 @@ ufw allow from 2a02:26f7:f6e8:a508::/62
 ufw allow from 2a02:26f7:f6e8:a50c::/63
 ufw allow from 2a02:26f7:f6e8:a50e::/64
 ufw allow from 2a02:26f7:f6e8:a771::/64
-ufw allow from 2a02:26f7:f6e9:800::/54
-ufw allow from 2a02:26f7:f6e9:1300::/56
-ufw allow from 2a02:26f7:f6e9:1800::/57
-ufw allow from 2a02:26f7:f6e9:1880::/58
-ufw allow from 2a02:26f7:f6e9:1f70::/60
-ufw allow from 2a02:26f7:f6e9:1f80::/57
-ufw allow from 2a02:26f7:f6e9:2000::/58
-ufw allow from 2a02:26f7:f6e9:2040::/59
-ufw allow from 2a02:26f7:f6e9:a060::/60
-ufw allow from 2a02:26f7:f6e9:a070::/63
-ufw allow from 2a02:26f7:f6e9:a47c::/62
-ufw allow from 2a02:26f7:f6e9:a480::/58
-ufw allow from 2a02:26f7:f6e9:a4c0::/59
-ufw allow from 2a02:26f7:f6e9:a4e0::/62
-ufw allow from 2a02:26f7:f6e9:a4e4::/63
-ufw allow from 2a02:26f7:f6e9:a4e7::/64
-ufw allow from 2a02:26f7:f6e9:a4e8::/61
-ufw allow from 2a02:26f7:f6e9:a4f0::/60
-ufw allow from 2a02:26f7:f6e9:a500::/61
-ufw allow from 2a02:26f7:f6e9:a508::/62
-ufw allow from 2a02:26f7:f6e9:a50c::/63
-ufw allow from 2a02:26f7:f6e9:a50e::/64
-ufw allow from 2a02:26f7:f6e9:a771::/64
 ufw allow from 2a02:26f7:f6ec::/54
 ufw allow from 2a02:26f7:f6ec:800::/54
 ufw allow from 2a02:26f7:f6ec:1300::/56

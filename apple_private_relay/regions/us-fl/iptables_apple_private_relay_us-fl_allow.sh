@@ -1,6 +1,6 @@
 #!/bin/bash
 # Apple_private_relay IP Ranges
-# Updated: 2026-08-03 03:17:00
+# Updated: 2026-09-22 02:29:25
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -538,26 +538,6 @@ iptables -A INPUT -s 172.226.9.154/31 -j ACCEPT
 iptables -A INPUT -s 172.226.9.186/31 -j ACCEPT
 iptables -A INPUT -s 172.226.9.210/31 -j ACCEPT
 iptables -A INPUT -s 172.226.9.226/31 -j ACCEPT
-iptables -A INPUT -s 172.226.11.160/31 -j ACCEPT
-iptables -A INPUT -s 172.226.11.164/31 -j ACCEPT
-iptables -A INPUT -s 172.226.11.186/31 -j ACCEPT
-iptables -A INPUT -s 172.226.11.222/31 -j ACCEPT
-iptables -A INPUT -s 172.226.12.0/25 -j ACCEPT
-iptables -A INPUT -s 172.226.12.142/31 -j ACCEPT
-iptables -A INPUT -s 172.226.12.146/31 -j ACCEPT
-iptables -A INPUT -s 172.226.12.162/31 -j ACCEPT
-iptables -A INPUT -s 172.226.12.184/31 -j ACCEPT
-iptables -A INPUT -s 172.226.12.198/31 -j ACCEPT
-iptables -A INPUT -s 172.226.12.224/31 -j ACCEPT
-iptables -A INPUT -s 172.226.12.240/31 -j ACCEPT
-iptables -A INPUT -s 172.226.12.246/31 -j ACCEPT
-iptables -A INPUT -s 172.226.12.248/31 -j ACCEPT
-iptables -A INPUT -s 172.226.12.252/31 -j ACCEPT
-iptables -A INPUT -s 172.226.13.14/31 -j ACCEPT
-iptables -A INPUT -s 172.226.13.22/31 -j ACCEPT
-iptables -A INPUT -s 172.226.13.54/31 -j ACCEPT
-iptables -A INPUT -s 172.226.13.78/31 -j ACCEPT
-iptables -A INPUT -s 172.226.13.94/31 -j ACCEPT
 iptables -A INPUT -s 172.226.18.76/31 -j ACCEPT
 iptables -A INPUT -s 172.226.18.80/31 -j ACCEPT
 iptables -A INPUT -s 172.226.18.104/31 -j ACCEPT
@@ -1141,10 +1121,6 @@ ip6tables -A INPUT -s 2a02:26f7:b25c:4000::/64 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:b25d:4000::/64 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:b25e:4000::/64 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:b25f:4000::/64 -j ACCEPT
-ip6tables -A INPUT -s 2a02:26f7:b260:4000::/64 -j ACCEPT
-ip6tables -A INPUT -s 2a02:26f7:b261:4000::/64 -j ACCEPT
-ip6tables -A INPUT -s 2a02:26f7:b262:4000::/64 -j ACCEPT
-ip6tables -A INPUT -s 2a02:26f7:b263:4000::/64 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:b380:d00::/56 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:b380:e00::/55 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:b380:1000::/56 -j ACCEPT
@@ -1800,30 +1776,7 @@ ip6tables -A INPUT -s 2a02:26f7:f6e8:a140::/62 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:f6e8:a144::/64 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:f6e8:a76a::/64 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:f6e8:fff0::/64 -j ACCEPT
-ip6tables -A INPUT -s 2a02:26f7:f6e9::/54 -j ACCEPT
-ip6tables -A INPUT -s 2a02:26f7:f6e9:d00::/56 -j ACCEPT
-ip6tables -A INPUT -s 2a02:26f7:f6e9:e00::/55 -j ACCEPT
-ip6tables -A INPUT -s 2a02:26f7:f6e9:1000::/56 -j ACCEPT
-ip6tables -A INPUT -s 2a02:26f7:f6e9:1580::/57 -j ACCEPT
-ip6tables -A INPUT -s 2a02:26f7:f6e9:1b30::/60 -j ACCEPT
-ip6tables -A INPUT -s 2a02:26f7:f6e9:1b40::/58 -j ACCEPT
-ip6tables -A INPUT -s 2a02:26f7:f6e9:1b80::/57 -j ACCEPT
-ip6tables -A INPUT -s 2a02:26f7:f6e9:4000::/64 -j ACCEPT
-ip6tables -A INPUT -s 2a02:26f7:f6e9:a006::/63 -j ACCEPT
-ip6tables -A INPUT -s 2a02:26f7:f6e9:a008::/61 -j ACCEPT
-ip6tables -A INPUT -s 2a02:26f7:f6e9:a010::/61 -j ACCEPT
-ip6tables -A INPUT -s 2a02:26f7:f6e9:a018::/64 -j ACCEPT
-ip6tables -A INPUT -s 2a02:26f7:f6e9:a0cd::/64 -j ACCEPT
-ip6tables -A INPUT -s 2a02:26f7:f6e9:a0ce::/63 -j ACCEPT
-ip6tables -A INPUT -s 2a02:26f7:f6e9:a0d0::/60 -j ACCEPT
-ip6tables -A INPUT -s 2a02:26f7:f6e9:a0e0::/59 -j ACCEPT
-ip6tables -A INPUT -s 2a02:26f7:f6e9:a100::/58 -j ACCEPT
-ip6tables -A INPUT -s 2a02:26f7:f6e9:a140::/62 -j ACCEPT
-ip6tables -A INPUT -s 2a02:26f7:f6e9:a144::/64 -j ACCEPT
-ip6tables -A INPUT -s 2a02:26f7:f6e9:a76a::/64 -j ACCEPT
-ip6tables -A INPUT -s 2a02:26f7:f6e9:fff0::/64 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:f6ea:4000::/64 -j ACCEPT
-ip6tables -A INPUT -s 2a02:26f7:f6eb:4000::/64 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:f6ec:d00::/56 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:f6ec:e00::/55 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:f6ec:1000::/56 -j ACCEPT

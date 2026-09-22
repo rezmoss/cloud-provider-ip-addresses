@@ -29,10 +29,6 @@ ip_address,ip_type,region
 2a02:26f7:f7cc:e139::/64,IPv6,CO-NAR
 2a02:26f7:f7cc:e154::/64,IPv6,CO-NAR
 2a02:26f7:f7cc:e17a::/64,IPv6,CO-NAR
-2a02:26f7:f7d0:e12f::/64,IPv6,CO-NAR
-2a02:26f7:f7d0:e139::/64,IPv6,CO-NAR
-2a02:26f7:f7d0:e154::/64,IPv6,CO-NAR
-2a02:26f7:f7d0:e17a::/64,IPv6,CO-NAR
 2a02:26f7:f7d4:e12f::/64,IPv6,CO-NAR
 2a02:26f7:f7d4:e139::/64,IPv6,CO-NAR
 2a02:26f7:f7d4:e154::/64,IPv6,CO-NAR

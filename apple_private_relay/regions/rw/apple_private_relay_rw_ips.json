@@ -20,6 +20,11 @@
     "region": "RW"
   },
   {
+    "ip_address": "146.75.224.28/31",
+    "ip_type": "IPv4",
+    "region": "RW"
+  },
+  {
     "ip_address": "172.224.230.240/28",
     "ip_type": "IPv4",
     "region": "RW"
@@ -96,6 +101,11 @@
   },
   {
     "ip_address": "2a02:26f7:db8d:4000::/64",
+    "ip_type": "IPv6",
+    "region": "RW"
+  },
+  {
+    "ip_address": "2a04:4e41:1ee::/48",
     "ip_type": "IPv6",
     "region": "RW"
   },

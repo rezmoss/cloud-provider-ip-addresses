@@ -30,8 +30,6 @@ INSERT INTO `apple_private_relay_vg_ips` (`ip_address`, `ip_type`) VALUES ('172.
 INSERT INTO `apple_private_relay_vg_ips` (`ip_address`, `ip_type`) VALUES ('172.225.171.84/31', 'IPv4');
 INSERT INTO `apple_private_relay_vg_ips` (`ip_address`, `ip_type`) VALUES ('172.225.239.144/28', 'IPv4');
 INSERT INTO `apple_private_relay_vg_ips` (`ip_address`, `ip_type`) VALUES ('172.225.239.180/31', 'IPv4');
-INSERT INTO `apple_private_relay_vg_ips` (`ip_address`, `ip_type`) VALUES ('172.226.13.124/31', 'IPv4');
-INSERT INTO `apple_private_relay_vg_ips` (`ip_address`, `ip_type`) VALUES ('172.226.84.128/28', 'IPv4');
 INSERT INTO `apple_private_relay_vg_ips` (`ip_address`, `ip_type`) VALUES ('172.226.166.160/27', 'IPv4');
 INSERT INTO `apple_private_relay_vg_ips` (`ip_address`, `ip_type`) VALUES ('172.226.166.192/31', 'IPv4');
 INSERT INTO `apple_private_relay_vg_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:d2e8::/45', 'IPv6');
@@ -45,9 +43,6 @@ INSERT INTO `apple_private_relay_vg_ips` (`ip_address`, `ip_type`) VALUES ('2a02
 INSERT INTO `apple_private_relay_vg_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:e6c8:4000::/64', 'IPv6');
 INSERT INTO `apple_private_relay_vg_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:e6c8:4f00::/64', 'IPv6');
 INSERT INTO `apple_private_relay_vg_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:e6c9:4000::/64', 'IPv6');
-INSERT INTO `apple_private_relay_vg_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:e6cc:4000::/64', 'IPv6');
-INSERT INTO `apple_private_relay_vg_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:e6cc:4f00::/64', 'IPv6');
-INSERT INTO `apple_private_relay_vg_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:e6cd:4000::/64', 'IPv6');
 INSERT INTO `apple_private_relay_vg_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:e6d0:4000::/64', 'IPv6');
 INSERT INTO `apple_private_relay_vg_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:e6d0:4f00::/64', 'IPv6');
 INSERT INTO `apple_private_relay_vg_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:e6d1:4000::/64', 'IPv6');

@@ -6,6 +6,7 @@ CREATE TABLE IF NOT EXISTS `gabia_global_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `gabia_global_ips` (`ip_address`, `ip_type`) VALUES ('1.201.99.0/24', 'IPv4');
 INSERT INTO `gabia_global_ips` (`ip_address`, `ip_type`) VALUES ('1.201.224.0/24', 'IPv4');
 INSERT INTO `gabia_global_ips` (`ip_address`, `ip_type`) VALUES ('1.201.225.0/24', 'IPv4');
 INSERT INTO `gabia_global_ips` (`ip_address`, `ip_type`) VALUES ('1.201.227.0/24', 'IPv4');

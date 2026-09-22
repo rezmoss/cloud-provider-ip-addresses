@@ -85,6 +85,11 @@
     "region": "MG"
   },
   {
+    "ip_address": "146.75.224.16/31",
+    "ip_type": "IPv4",
+    "region": "MG"
+  },
+  {
     "ip_address": "172.224.230.176/28",
     "ip_type": "IPv4",
     "region": "MG"
@@ -216,6 +221,11 @@
   },
   {
     "ip_address": "2a02:26f7:d551:4000::/64",
+    "ip_type": "IPv6",
+    "region": "MG"
+  },
+  {
+    "ip_address": "2a04:4e41:1e9::/48",
     "ip_type": "IPv6",
     "region": "MG"
   },

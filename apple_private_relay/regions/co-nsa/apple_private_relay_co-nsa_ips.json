@@ -170,31 +170,6 @@
     "region": "CO-NSA"
   },
   {
-    "ip_address": "2a02:26f7:f7d0:e101::/64",
-    "ip_type": "IPv6",
-    "region": "CO-NSA"
-  },
-  {
-    "ip_address": "2a02:26f7:f7d0:e124::/64",
-    "ip_type": "IPv6",
-    "region": "CO-NSA"
-  },
-  {
-    "ip_address": "2a02:26f7:f7d0:e129::/64",
-    "ip_type": "IPv6",
-    "region": "CO-NSA"
-  },
-  {
-    "ip_address": "2a02:26f7:f7d0:e152::/64",
-    "ip_type": "IPv6",
-    "region": "CO-NSA"
-  },
-  {
-    "ip_address": "2a02:26f7:f7d0:e182::/64",
-    "ip_type": "IPv6",
-    "region": "CO-NSA"
-  },
-  {
     "ip_address": "2a02:26f7:f7d4:e101::/64",
     "ip_type": "IPv6",
     "region": "CO-NSA"

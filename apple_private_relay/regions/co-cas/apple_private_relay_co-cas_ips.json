@@ -100,31 +100,6 @@
     "region": "CO-CAS"
   },
   {
-    "ip_address": "2a02:26f7:f7d0:e104::/64",
-    "ip_type": "IPv6",
-    "region": "CO-CAS"
-  },
-  {
-    "ip_address": "2a02:26f7:f7d0:e10d::/64",
-    "ip_type": "IPv6",
-    "region": "CO-CAS"
-  },
-  {
-    "ip_address": "2a02:26f7:f7d0:e146::/64",
-    "ip_type": "IPv6",
-    "region": "CO-CAS"
-  },
-  {
-    "ip_address": "2a02:26f7:f7d0:e175::/64",
-    "ip_type": "IPv6",
-    "region": "CO-CAS"
-  },
-  {
-    "ip_address": "2a02:26f7:f7d0:e186::/64",
-    "ip_type": "IPv6",
-    "region": "CO-CAS"
-  },
-  {
     "ip_address": "2a02:26f7:f7d4:e104::/64",
     "ip_type": "IPv6",
     "region": "CO-CAS"

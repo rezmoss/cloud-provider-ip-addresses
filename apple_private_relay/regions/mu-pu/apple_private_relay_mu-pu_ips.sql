@@ -10,6 +10,8 @@ INSERT INTO `apple_private_relay_mu-pu_ips` (`ip_address`, `ip_type`) VALUES ('1
 INSERT INTO `apple_private_relay_mu-pu_ips` (`ip_address`, `ip_type`) VALUES ('146.75.168.144/31', 'IPv4');
 INSERT INTO `apple_private_relay_mu-pu_ips` (`ip_address`, `ip_type`) VALUES ('146.75.185.144/31', 'IPv4');
 INSERT INTO `apple_private_relay_mu-pu_ips` (`ip_address`, `ip_type`) VALUES ('146.75.198.16/31', 'IPv4');
+INSERT INTO `apple_private_relay_mu-pu_ips` (`ip_address`, `ip_type`) VALUES ('146.75.224.20/31', 'IPv4');
+INSERT INTO `apple_private_relay_mu-pu_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:1e2::/52', 'IPv6');
 INSERT INTO `apple_private_relay_mu-pu_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:12c0::/52', 'IPv6');
 INSERT INTO `apple_private_relay_mu-pu_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:1303:3000::/52', 'IPv6');
 INSERT INTO `apple_private_relay_mu-pu_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e41:1603:4000::/52', 'IPv6');

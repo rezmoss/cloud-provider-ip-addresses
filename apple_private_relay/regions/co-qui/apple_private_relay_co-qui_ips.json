@@ -40,16 +40,6 @@
     "region": "CO-QUI"
   },
   {
-    "ip_address": "2a02:26f7:f7d0:e10c::/64",
-    "ip_type": "IPv6",
-    "region": "CO-QUI"
-  },
-  {
-    "ip_address": "2a02:26f7:f7d0:e176::/64",
-    "ip_type": "IPv6",
-    "region": "CO-QUI"
-  },
-  {
     "ip_address": "2a02:26f7:f7d4:e10c::/64",
     "ip_type": "IPv6",
     "region": "CO-QUI"

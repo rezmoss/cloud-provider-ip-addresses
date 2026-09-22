@@ -55,11 +55,6 @@
     "region": "BL"
   },
   {
-    "ip_address": "172.226.13.176/28",
-    "ip_type": "IPv4",
-    "region": "BL"
-  },
-  {
     "ip_address": "172.226.78.0/28",
     "ip_type": "IPv4",
     "region": "BL"
@@ -131,21 +126,6 @@
   },
   {
     "ip_address": "2a02:26f7:eb4d:4000::/64",
-    "ip_type": "IPv6",
-    "region": "BL"
-  },
-  {
-    "ip_address": "2a02:26f7:eb50:4000::/64",
-    "ip_type": "IPv6",
-    "region": "BL"
-  },
-  {
-    "ip_address": "2a02:26f7:eb50:c100::/64",
-    "ip_type": "IPv6",
-    "region": "BL"
-  },
-  {
-    "ip_address": "2a02:26f7:eb51:4000::/64",
     "ip_type": "IPv6",
     "region": "BL"
   },

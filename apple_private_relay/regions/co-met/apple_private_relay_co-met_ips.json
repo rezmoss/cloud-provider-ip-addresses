@@ -190,36 +190,6 @@
     "region": "CO-MET"
   },
   {
-    "ip_address": "2a02:26f7:f7d0:e102::/64",
-    "ip_type": "IPv6",
-    "region": "CO-MET"
-  },
-  {
-    "ip_address": "2a02:26f7:f7d0:e11f::/64",
-    "ip_type": "IPv6",
-    "region": "CO-MET"
-  },
-  {
-    "ip_address": "2a02:26f7:f7d0:e12a::/64",
-    "ip_type": "IPv6",
-    "region": "CO-MET"
-  },
-  {
-    "ip_address": "2a02:26f7:f7d0:e13d::/64",
-    "ip_type": "IPv6",
-    "region": "CO-MET"
-  },
-  {
-    "ip_address": "2a02:26f7:f7d0:e169::/64",
-    "ip_type": "IPv6",
-    "region": "CO-MET"
-  },
-  {
-    "ip_address": "2a02:26f7:f7d0:e184::/64",
-    "ip_type": "IPv6",
-    "region": "CO-MET"
-  },
-  {
     "ip_address": "2a02:26f7:f7d4:e102::/64",
     "ip_type": "IPv6",
     "region": "CO-MET"

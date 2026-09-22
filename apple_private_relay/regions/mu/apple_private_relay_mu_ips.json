@@ -20,6 +20,11 @@
     "region": "MU"
   },
   {
+    "ip_address": "146.75.224.18/31",
+    "ip_type": "IPv4",
+    "region": "MU"
+  },
+  {
     "ip_address": "172.224.230.192/28",
     "ip_type": "IPv4",
     "region": "MU"
@@ -136,6 +141,11 @@
   },
   {
     "ip_address": "2a02:26f7:d4d1:4000::/64",
+    "ip_type": "IPv6",
+    "region": "MU"
+  },
+  {
+    "ip_address": "2a04:4e41:1ea::/48",
     "ip_type": "IPv6",
     "region": "MU"
   },

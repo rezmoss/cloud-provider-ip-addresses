@@ -150,11 +150,6 @@
     "region": "US-DE"
   },
   {
-    "ip_address": "172.226.11.206/31",
-    "ip_type": "IPv4",
-    "region": "US-DE"
-  },
-  {
     "ip_address": "172.226.18.120/31",
     "ip_type": "IPv4",
     "region": "US-DE"
@@ -2306,81 +2301,6 @@
   },
   {
     "ip_address": "2a02:26f7:f6e8:a0cc::/64",
-    "ip_type": "IPv6",
-    "region": "US-DE"
-  },
-  {
-    "ip_address": "2a02:26f7:f6e9:1b10::/60",
-    "ip_type": "IPv6",
-    "region": "US-DE"
-  },
-  {
-    "ip_address": "2a02:26f7:f6e9:1b20::/60",
-    "ip_type": "IPv6",
-    "region": "US-DE"
-  },
-  {
-    "ip_address": "2a02:26f7:f6e9:a005::/64",
-    "ip_type": "IPv6",
-    "region": "US-DE"
-  },
-  {
-    "ip_address": "2a02:26f7:f6e9:a0c1::/64",
-    "ip_type": "IPv6",
-    "region": "US-DE"
-  },
-  {
-    "ip_address": "2a02:26f7:f6e9:a0c2::/64",
-    "ip_type": "IPv6",
-    "region": "US-DE"
-  },
-  {
-    "ip_address": "2a02:26f7:f6e9:a0c3::/64",
-    "ip_type": "IPv6",
-    "region": "US-DE"
-  },
-  {
-    "ip_address": "2a02:26f7:f6e9:a0c4::/64",
-    "ip_type": "IPv6",
-    "region": "US-DE"
-  },
-  {
-    "ip_address": "2a02:26f7:f6e9:a0c5::/64",
-    "ip_type": "IPv6",
-    "region": "US-DE"
-  },
-  {
-    "ip_address": "2a02:26f7:f6e9:a0c6::/64",
-    "ip_type": "IPv6",
-    "region": "US-DE"
-  },
-  {
-    "ip_address": "2a02:26f7:f6e9:a0c7::/64",
-    "ip_type": "IPv6",
-    "region": "US-DE"
-  },
-  {
-    "ip_address": "2a02:26f7:f6e9:a0c8::/64",
-    "ip_type": "IPv6",
-    "region": "US-DE"
-  },
-  {
-    "ip_address": "2a02:26f7:f6e9:a0c9::/64",
-    "ip_type": "IPv6",
-    "region": "US-DE"
-  },
-  {
-    "ip_address": "2a02:26f7:f6e9:a0ca::/64",
-    "ip_type": "IPv6",
-    "region": "US-DE"
-  },
-  {
-    "ip_address": "2a02:26f7:f6e9:a0cb::/64",
-    "ip_type": "IPv6",
-    "region": "US-DE"
-  },
-  {
-    "ip_address": "2a02:26f7:f6e9:a0cc::/64",
     "ip_type": "IPv6",
     "region": "US-DE"
   },

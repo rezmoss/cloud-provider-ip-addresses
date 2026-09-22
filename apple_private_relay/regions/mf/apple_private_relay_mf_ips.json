@@ -60,11 +60,6 @@
     "region": "MF"
   },
   {
-    "ip_address": "172.226.84.48/28",
-    "ip_type": "IPv4",
-    "region": "MF"
-  },
-  {
     "ip_address": "2606:54c0:4850::/45",
     "ip_type": "IPv6",
     "region": "MF"
@@ -131,21 +126,6 @@
   },
   {
     "ip_address": "2a02:26f7:bd8d:4000::/64",
-    "ip_type": "IPv6",
-    "region": "MF"
-  },
-  {
-    "ip_address": "2a02:26f7:bd90:4000::/64",
-    "ip_type": "IPv6",
-    "region": "MF"
-  },
-  {
-    "ip_address": "2a02:26f7:bd90:c4e0::/64",
-    "ip_type": "IPv6",
-    "region": "MF"
-  },
-  {
-    "ip_address": "2a02:26f7:bd91:4000::/64",
     "ip_type": "IPv6",
     "region": "MF"
   },

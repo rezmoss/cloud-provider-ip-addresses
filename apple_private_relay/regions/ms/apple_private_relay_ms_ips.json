@@ -55,11 +55,6 @@
     "region": "MS"
   },
   {
-    "ip_address": "172.226.84.80/28",
-    "ip_type": "IPv4",
-    "region": "MS"
-  },
-  {
     "ip_address": "172.226.86.0/28",
     "ip_type": "IPv4",
     "region": "MS"
@@ -136,21 +131,6 @@
   },
   {
     "ip_address": "2a02:26f7:e849:4000::/64",
-    "ip_type": "IPv6",
-    "region": "MS"
-  },
-  {
-    "ip_address": "2a02:26f7:e84c:4000::/64",
-    "ip_type": "IPv6",
-    "region": "MS"
-  },
-  {
-    "ip_address": "2a02:26f7:e84c:c580::/64",
-    "ip_type": "IPv6",
-    "region": "MS"
-  },
-  {
-    "ip_address": "2a02:26f7:e84d:4000::/64",
     "ip_type": "IPv6",
     "region": "MS"
   },

@@ -60,16 +60,6 @@
     "region": "JM"
   },
   {
-    "ip_address": "172.226.11.16/28",
-    "ip_type": "IPv4",
-    "region": "JM"
-  },
-  {
-    "ip_address": "172.226.11.32/29",
-    "ip_type": "IPv4",
-    "region": "JM"
-  },
-  {
     "ip_address": "172.226.69.232/29",
     "ip_type": "IPv4",
     "region": "JM"
@@ -276,41 +266,6 @@
   },
   {
     "ip_address": "2a02:26f7:bdca:4000::/64",
-    "ip_type": "IPv6",
-    "region": "JM"
-  },
-  {
-    "ip_address": "2a02:26f7:bdcc:4000::/64",
-    "ip_type": "IPv6",
-    "region": "JM"
-  },
-  {
-    "ip_address": "2a02:26f7:bdcc:4800::/64",
-    "ip_type": "IPv6",
-    "region": "JM"
-  },
-  {
-    "ip_address": "2a02:26f7:bdcc:4801::/64",
-    "ip_type": "IPv6",
-    "region": "JM"
-  },
-  {
-    "ip_address": "2a02:26f7:bdcc:4802::/64",
-    "ip_type": "IPv6",
-    "region": "JM"
-  },
-  {
-    "ip_address": "2a02:26f7:bdcc:4803::/64",
-    "ip_type": "IPv6",
-    "region": "JM"
-  },
-  {
-    "ip_address": "2a02:26f7:bdcc:4804::/64",
-    "ip_type": "IPv6",
-    "region": "JM"
-  },
-  {
-    "ip_address": "2a02:26f7:bdcd:4000::/64",
     "ip_type": "IPv6",
     "region": "JM"
   },

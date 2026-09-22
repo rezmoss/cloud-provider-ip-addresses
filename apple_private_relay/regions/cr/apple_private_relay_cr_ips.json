@@ -60,16 +60,6 @@
     "region": "CR"
   },
   {
-    "ip_address": "172.226.13.216/29",
-    "ip_type": "IPv4",
-    "region": "CR"
-  },
-  {
-    "ip_address": "172.226.13.240/28",
-    "ip_type": "IPv4",
-    "region": "CR"
-  },
-  {
     "ip_address": "172.226.78.16/28",
     "ip_type": "IPv4",
     "region": "CR"
@@ -506,91 +496,6 @@
   },
   {
     "ip_address": "2a02:26f7:becd:4000::/64",
-    "ip_type": "IPv6",
-    "region": "CR"
-  },
-  {
-    "ip_address": "2a02:26f7:bed0:4000::/64",
-    "ip_type": "IPv6",
-    "region": "CR"
-  },
-  {
-    "ip_address": "2a02:26f7:bed0:42c0::/64",
-    "ip_type": "IPv6",
-    "region": "CR"
-  },
-  {
-    "ip_address": "2a02:26f7:bed0:42c1::/64",
-    "ip_type": "IPv6",
-    "region": "CR"
-  },
-  {
-    "ip_address": "2a02:26f7:bed0:42c2::/64",
-    "ip_type": "IPv6",
-    "region": "CR"
-  },
-  {
-    "ip_address": "2a02:26f7:bed0:42c3::/64",
-    "ip_type": "IPv6",
-    "region": "CR"
-  },
-  {
-    "ip_address": "2a02:26f7:bed0:42c4::/64",
-    "ip_type": "IPv6",
-    "region": "CR"
-  },
-  {
-    "ip_address": "2a02:26f7:bed0:42c5::/64",
-    "ip_type": "IPv6",
-    "region": "CR"
-  },
-  {
-    "ip_address": "2a02:26f7:bed0:42c6::/64",
-    "ip_type": "IPv6",
-    "region": "CR"
-  },
-  {
-    "ip_address": "2a02:26f7:bed0:42c7::/64",
-    "ip_type": "IPv6",
-    "region": "CR"
-  },
-  {
-    "ip_address": "2a02:26f7:bed0:42c8::/64",
-    "ip_type": "IPv6",
-    "region": "CR"
-  },
-  {
-    "ip_address": "2a02:26f7:bed0:42c9::/64",
-    "ip_type": "IPv6",
-    "region": "CR"
-  },
-  {
-    "ip_address": "2a02:26f7:bed0:42ca::/64",
-    "ip_type": "IPv6",
-    "region": "CR"
-  },
-  {
-    "ip_address": "2a02:26f7:bed0:42cb::/64",
-    "ip_type": "IPv6",
-    "region": "CR"
-  },
-  {
-    "ip_address": "2a02:26f7:bed0:42cc::/64",
-    "ip_type": "IPv6",
-    "region": "CR"
-  },
-  {
-    "ip_address": "2a02:26f7:bed0:42cd::/64",
-    "ip_type": "IPv6",
-    "region": "CR"
-  },
-  {
-    "ip_address": "2a02:26f7:bed0:42ce::/64",
-    "ip_type": "IPv6",
-    "region": "CR"
-  },
-  {
-    "ip_address": "2a02:26f7:bed1:4000::/64",
     "ip_type": "IPv6",
     "region": "CR"
   },

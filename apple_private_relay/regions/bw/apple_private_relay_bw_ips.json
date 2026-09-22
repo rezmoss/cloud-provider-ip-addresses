@@ -20,6 +20,11 @@
     "region": "BW"
   },
   {
+    "ip_address": "146.75.224.8/31",
+    "ip_type": "IPv4",
+    "region": "BW"
+  },
+  {
     "ip_address": "172.224.230.32/28",
     "ip_type": "IPv4",
     "region": "BW"
@@ -116,6 +121,11 @@
   },
   {
     "ip_address": "2a02:26f7:d78d:4000::/64",
+    "ip_type": "IPv6",
+    "region": "BW"
+  },
+  {
+    "ip_address": "2a04:4e41:1e5::/48",
     "ip_type": "IPv6",
     "region": "BW"
   },

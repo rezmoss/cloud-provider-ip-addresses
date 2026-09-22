@@ -170,31 +170,6 @@
     "region": "CO-BOL"
   },
   {
-    "ip_address": "2a02:26f7:f7d0:e10b::/64",
-    "ip_type": "IPv6",
-    "region": "CO-BOL"
-  },
-  {
-    "ip_address": "2a02:26f7:f7d0:e11d::/64",
-    "ip_type": "IPv6",
-    "region": "CO-BOL"
-  },
-  {
-    "ip_address": "2a02:26f7:f7d0:e140::/64",
-    "ip_type": "IPv6",
-    "region": "CO-BOL"
-  },
-  {
-    "ip_address": "2a02:26f7:f7d0:e143::/64",
-    "ip_type": "IPv6",
-    "region": "CO-BOL"
-  },
-  {
-    "ip_address": "2a02:26f7:f7d0:e16c::/64",
-    "ip_type": "IPv6",
-    "region": "CO-BOL"
-  },
-  {
     "ip_address": "2a02:26f7:f7d4:e10b::/64",
     "ip_type": "IPv6",
     "region": "CO-BOL"

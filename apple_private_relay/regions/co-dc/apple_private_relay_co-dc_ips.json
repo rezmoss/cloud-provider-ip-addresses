@@ -330,6 +330,16 @@
     "region": "CO-DC"
   },
   {
+    "ip_address": "104.28.137.233/32",
+    "ip_type": "IPv4",
+    "region": "CO-DC"
+  },
+  {
+    "ip_address": "104.28.137.235/32",
+    "ip_type": "IPv4",
+    "region": "CO-DC"
+  },
+  {
     "ip_address": "104.28.139.27/32",
     "ip_type": "IPv4",
     "region": "CO-DC"
@@ -376,11 +386,6 @@
   },
   {
     "ip_address": "172.225.250.96/27",
-    "ip_type": "IPv4",
-    "region": "CO-DC"
-  },
-  {
-    "ip_address": "172.226.13.224/28",
     "ip_type": "IPv4",
     "region": "CO-DC"
   },
@@ -501,31 +506,6 @@
   },
   {
     "ip_address": "2a02:26f7:f7cd:4000::/64",
-    "ip_type": "IPv6",
-    "region": "CO-DC"
-  },
-  {
-    "ip_address": "2a02:26f7:f7d0::/54",
-    "ip_type": "IPv6",
-    "region": "CO-DC"
-  },
-  {
-    "ip_address": "2a02:26f7:f7d0:400::/56",
-    "ip_type": "IPv6",
-    "region": "CO-DC"
-  },
-  {
-    "ip_address": "2a02:26f7:f7d0:4000::/64",
-    "ip_type": "IPv6",
-    "region": "CO-DC"
-  },
-  {
-    "ip_address": "2a02:26f7:f7d0:e111::/64",
-    "ip_type": "IPv6",
-    "region": "CO-DC"
-  },
-  {
-    "ip_address": "2a02:26f7:f7d1:4000::/64",
     "ip_type": "IPv6",
     "region": "CO-DC"
   },

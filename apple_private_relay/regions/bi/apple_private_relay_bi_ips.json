@@ -20,6 +20,11 @@
     "region": "BI"
   },
   {
+    "ip_address": "146.75.224.6/31",
+    "ip_type": "IPv4",
+    "region": "BI"
+  },
+  {
     "ip_address": "172.224.230.16/28",
     "ip_type": "IPv4",
     "region": "BI"
@@ -96,6 +101,11 @@
   },
   {
     "ip_address": "2a02:26f7:e14d:4000::/64",
+    "ip_type": "IPv6",
+    "region": "BI"
+  },
+  {
+    "ip_address": "2a04:4e41:1e4::/48",
     "ip_type": "IPv6",
     "region": "BI"
   },

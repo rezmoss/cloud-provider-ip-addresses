@@ -47,6 +47,7 @@ INSERT INTO `akamai_akamai-as63949_ips` (`ip_address`, `ip_type`) VALUES ('45.79
 INSERT INTO `akamai_akamai-as63949_ips` (`ip_address`, `ip_type`) VALUES ('45.79.176.0/20', 'IPv4');
 INSERT INTO `akamai_akamai-as63949_ips` (`ip_address`, `ip_type`) VALUES ('45.79.192.0/19', 'IPv4');
 INSERT INTO `akamai_akamai-as63949_ips` (`ip_address`, `ip_type`) VALUES ('45.79.224.0/21', 'IPv4');
+INSERT INTO `akamai_akamai-as63949_ips` (`ip_address`, `ip_type`) VALUES ('45.79.234.0/24', 'IPv4');
 INSERT INTO `akamai_akamai-as63949_ips` (`ip_address`, `ip_type`) VALUES ('45.79.236.0/22', 'IPv4');
 INSERT INTO `akamai_akamai-as63949_ips` (`ip_address`, `ip_type`) VALUES ('45.79.236.0/24', 'IPv4');
 INSERT INTO `akamai_akamai-as63949_ips` (`ip_address`, `ip_type`) VALUES ('45.79.237.0/24', 'IPv4');

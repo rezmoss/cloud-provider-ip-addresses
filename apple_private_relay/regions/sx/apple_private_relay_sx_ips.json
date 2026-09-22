@@ -70,11 +70,6 @@
     "region": "SX"
   },
   {
-    "ip_address": "172.226.13.128/28",
-    "ip_type": "IPv4",
-    "region": "SX"
-  },
-  {
     "ip_address": "172.226.86.32/28",
     "ip_type": "IPv4",
     "region": "SX"
@@ -121,16 +116,6 @@
   },
   {
     "ip_address": "2a02:26f7:b4c5:4000::/64",
-    "ip_type": "IPv6",
-    "region": "SX"
-  },
-  {
-    "ip_address": "2a02:26f7:b4c8:4000::/64",
-    "ip_type": "IPv6",
-    "region": "SX"
-  },
-  {
-    "ip_address": "2a02:26f7:b4c9:4000::/64",
     "ip_type": "IPv6",
     "region": "SX"
   },

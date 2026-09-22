@@ -20,6 +20,11 @@
     "region": "ZW"
   },
   {
+    "ip_address": "146.75.224.40/31",
+    "ip_type": "IPv4",
+    "region": "ZW"
+  },
+  {
     "ip_address": "172.224.231.160/28",
     "ip_type": "IPv4",
     "region": "ZW"
@@ -316,6 +321,11 @@
   },
   {
     "ip_address": "2a02:26f7:d1cd:4000::/64",
+    "ip_type": "IPv6",
+    "region": "ZW"
+  },
+  {
+    "ip_address": "2a04:4e41:1f4::/48",
     "ip_type": "IPv6",
     "region": "ZW"
   },

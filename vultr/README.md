@@ -1,6 +1,6 @@
 # Vultr IP Ranges (Auto-Updated Daily)
 
-> Last updated: **2026-09-21** · Total CIDRs: **493** · IPv4: **442** · IPv6: **51** · Regions: **35**
+> Last updated: **2026-09-22** · Total CIDRs: **493** · IPv4: **442** · IPv6: **51** · Regions: **35**
 
 Machine-readable, daily-updated, validated public IP ranges for **Vultr**.
 Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and Apache.

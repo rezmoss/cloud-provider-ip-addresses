@@ -64,17 +64,6 @@ INSERT INTO `apple_private_relay_co-ces_ips` (`ip_address`, `ip_type`) VALUES ('
 INSERT INTO `apple_private_relay_co-ces_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7cc:e15d::/64', 'IPv6');
 INSERT INTO `apple_private_relay_co-ces_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7cc:e167::/64', 'IPv6');
 INSERT INTO `apple_private_relay_co-ces_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7cc:e180::/64', 'IPv6');
-INSERT INTO `apple_private_relay_co-ces_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7d0:e103::/64', 'IPv6');
-INSERT INTO `apple_private_relay_co-ces_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7d0:e10a::/64', 'IPv6');
-INSERT INTO `apple_private_relay_co-ces_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7d0:e112::/64', 'IPv6');
-INSERT INTO `apple_private_relay_co-ces_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7d0:e126::/64', 'IPv6');
-INSERT INTO `apple_private_relay_co-ces_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7d0:e12b::/64', 'IPv6');
-INSERT INTO `apple_private_relay_co-ces_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7d0:e12e::/64', 'IPv6');
-INSERT INTO `apple_private_relay_co-ces_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7d0:e150::/64', 'IPv6');
-INSERT INTO `apple_private_relay_co-ces_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7d0:e155::/64', 'IPv6');
-INSERT INTO `apple_private_relay_co-ces_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7d0:e15d::/64', 'IPv6');
-INSERT INTO `apple_private_relay_co-ces_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7d0:e167::/64', 'IPv6');
-INSERT INTO `apple_private_relay_co-ces_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7d0:e180::/64', 'IPv6');
 INSERT INTO `apple_private_relay_co-ces_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7d4:e103::/64', 'IPv6');
 INSERT INTO `apple_private_relay_co-ces_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7d4:e10a::/64', 'IPv6');
 INSERT INTO `apple_private_relay_co-ces_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7d4:e112::/64', 'IPv6');

@@ -26,11 +26,6 @@ INSERT INTO `apple_private_relay_co-cas_ips` (`ip_address`, `ip_type`) VALUES ('
 INSERT INTO `apple_private_relay_co-cas_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7cc:e146::/64', 'IPv6');
 INSERT INTO `apple_private_relay_co-cas_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7cc:e175::/64', 'IPv6');
 INSERT INTO `apple_private_relay_co-cas_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7cc:e186::/64', 'IPv6');
-INSERT INTO `apple_private_relay_co-cas_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7d0:e104::/64', 'IPv6');
-INSERT INTO `apple_private_relay_co-cas_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7d0:e10d::/64', 'IPv6');
-INSERT INTO `apple_private_relay_co-cas_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7d0:e146::/64', 'IPv6');
-INSERT INTO `apple_private_relay_co-cas_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7d0:e175::/64', 'IPv6');
-INSERT INTO `apple_private_relay_co-cas_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7d0:e186::/64', 'IPv6');
 INSERT INTO `apple_private_relay_co-cas_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7d4:e104::/64', 'IPv6');
 INSERT INTO `apple_private_relay_co-cas_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7d4:e10d::/64', 'IPv6');
 INSERT INTO `apple_private_relay_co-cas_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7d4:e146::/64', 'IPv6');

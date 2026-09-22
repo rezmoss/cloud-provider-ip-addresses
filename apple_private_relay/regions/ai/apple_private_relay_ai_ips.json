@@ -50,11 +50,6 @@
     "region": "AI"
   },
   {
-    "ip_address": "172.226.13.144/28",
-    "ip_type": "IPv4",
-    "region": "AI"
-  },
-  {
     "ip_address": "172.226.191.192/27",
     "ip_type": "IPv4",
     "region": "AI"
@@ -111,21 +106,6 @@
   },
   {
     "ip_address": "2a02:26f7:eb85:4000::/64",
-    "ip_type": "IPv6",
-    "region": "AI"
-  },
-  {
-    "ip_address": "2a02:26f7:eb8c:4000::/64",
-    "ip_type": "IPv6",
-    "region": "AI"
-  },
-  {
-    "ip_address": "2a02:26f7:eb8c:c020::/64",
-    "ip_type": "IPv6",
-    "region": "AI"
-  },
-  {
-    "ip_address": "2a02:26f7:eb8d:4000::/64",
     "ip_type": "IPv6",
     "region": "AI"
   },

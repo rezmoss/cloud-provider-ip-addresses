@@ -1,6 +1,6 @@
 # gabia IP ranges - ipset restore format (hash:net)
-# Version: 2 | Generated: 2026-09-21 | Last changed: 2026-08-11
-# IPv4: 49 merged subnets, 40960 unique IPs
+# Version: 3 | Generated: 2026-09-22 | Last changed: 2026-09-22
+# IPv4: 50 merged subnets, 41216 unique IPs
 # IPv6: 0 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
@@ -8,6 +8,7 @@
 #
 create gabia_v4 hash:net family inet hashsize 4096 maxelem 1048576 -exist
 flush gabia_v4
+add gabia_v4 1.201.99.0/24
 add gabia_v4 1.201.224.0/23
 add gabia_v4 1.201.227.0/24
 add gabia_v4 103.240.48.0/22

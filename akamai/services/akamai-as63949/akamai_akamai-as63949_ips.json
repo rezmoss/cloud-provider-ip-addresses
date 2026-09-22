@@ -246,6 +246,12 @@
     "region": "global"
   },
   {
+    "ip_address": "45.79.234.0/24",
+    "ip_type": "IPv4",
+    "service": "akamai-as63949",
+    "region": "global"
+  },
+  {
     "ip_address": "45.79.236.0/22",
     "ip_type": "IPv4",
     "service": "akamai-as63949",

@@ -60,16 +60,6 @@
     "region": "NI"
   },
   {
-    "ip_address": "172.226.11.40/31",
-    "ip_type": "IPv4",
-    "region": "NI"
-  },
-  {
-    "ip_address": "172.226.11.48/28",
-    "ip_type": "IPv4",
-    "region": "NI"
-  },
-  {
     "ip_address": "2606:54c0:4d60::/45",
     "ip_type": "IPv6",
     "region": "NI"
@@ -166,36 +156,6 @@
   },
   {
     "ip_address": "2a02:26f7:bd49:4000::/64",
-    "ip_type": "IPv6",
-    "region": "NI"
-  },
-  {
-    "ip_address": "2a02:26f7:bd4c:4000::/64",
-    "ip_type": "IPv6",
-    "region": "NI"
-  },
-  {
-    "ip_address": "2a02:26f7:bd4c:4a00::/64",
-    "ip_type": "IPv6",
-    "region": "NI"
-  },
-  {
-    "ip_address": "2a02:26f7:bd4c:4a01::/64",
-    "ip_type": "IPv6",
-    "region": "NI"
-  },
-  {
-    "ip_address": "2a02:26f7:bd4c:4a02::/64",
-    "ip_type": "IPv6",
-    "region": "NI"
-  },
-  {
-    "ip_address": "2a02:26f7:bd4c:4a03::/64",
-    "ip_type": "IPv6",
-    "region": "NI"
-  },
-  {
-    "ip_address": "2a02:26f7:bd4d:4000::/64",
     "ip_type": "IPv6",
     "region": "NI"
   },

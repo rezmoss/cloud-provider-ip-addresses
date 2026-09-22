@@ -1,6 +1,6 @@
 #!/bin/bash
 # Apple_private_relay IP Ranges
-# Updated: 2026-06-25 03:22:30
+# Updated: 2026-09-22 02:29:18
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -240,15 +240,6 @@ iptables -A INPUT -s 172.226.9.102/31 -j DROP
 iptables -A INPUT -s 172.226.9.206/31 -j DROP
 iptables -A INPUT -s 172.226.9.230/31 -j DROP
 iptables -A INPUT -s 172.226.9.252/31 -j DROP
-iptables -A INPUT -s 172.226.11.142/31 -j DROP
-iptables -A INPUT -s 172.226.11.210/31 -j DROP
-iptables -A INPUT -s 172.226.11.248/31 -j DROP
-iptables -A INPUT -s 172.226.12.174/31 -j DROP
-iptables -A INPUT -s 172.226.12.222/31 -j DROP
-iptables -A INPUT -s 172.226.12.226/31 -j DROP
-iptables -A INPUT -s 172.226.13.74/31 -j DROP
-iptables -A INPUT -s 172.226.13.98/31 -j DROP
-iptables -A INPUT -s 172.226.13.120/31 -j DROP
 iptables -A INPUT -s 172.226.18.74/31 -j DROP
 iptables -A INPUT -s 172.226.18.124/31 -j DROP
 iptables -A INPUT -s 172.226.18.162/31 -j DROP
@@ -1035,20 +1026,6 @@ ip6tables -A INPUT -s 2a02:26f7:f6e8:a230::/61 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:f6e8:a238::/62 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:f6e8:a23c::/63 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:f6e8:a23e::/64 -j DROP
-ip6tables -A INPUT -s 2a02:26f7:f6e9:1600::/58 -j DROP
-ip6tables -A INPUT -s 2a02:26f7:f6e9:1c80::/58 -j DROP
-ip6tables -A INPUT -s 2a02:26f7:f6e9:1cc0::/59 -j DROP
-ip6tables -A INPUT -s 2a02:26f7:f6e9:a024::/62 -j DROP
-ip6tables -A INPUT -s 2a02:26f7:f6e9:a028::/62 -j DROP
-ip6tables -A INPUT -s 2a02:26f7:f6e9:a02c::/64 -j DROP
-ip6tables -A INPUT -s 2a02:26f7:f6e9:a1d8::/61 -j DROP
-ip6tables -A INPUT -s 2a02:26f7:f6e9:a1e0::/59 -j DROP
-ip6tables -A INPUT -s 2a02:26f7:f6e9:a200::/59 -j DROP
-ip6tables -A INPUT -s 2a02:26f7:f6e9:a220::/60 -j DROP
-ip6tables -A INPUT -s 2a02:26f7:f6e9:a230::/61 -j DROP
-ip6tables -A INPUT -s 2a02:26f7:f6e9:a238::/62 -j DROP
-ip6tables -A INPUT -s 2a02:26f7:f6e9:a23c::/63 -j DROP
-ip6tables -A INPUT -s 2a02:26f7:f6e9:a23e::/64 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:f6ec:1600::/58 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:f6ec:1c80::/58 -j DROP
 ip6tables -A INPUT -s 2a02:26f7:f6ec:1cc0::/59 -j DROP

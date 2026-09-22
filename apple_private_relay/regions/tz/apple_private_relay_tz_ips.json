@@ -120,6 +120,11 @@
     "region": "TZ"
   },
   {
+    "ip_address": "146.75.224.34/31",
+    "ip_type": "IPv4",
+    "region": "TZ"
+  },
+  {
     "ip_address": "172.224.231.80/28",
     "ip_type": "IPv4",
     "region": "TZ"
@@ -511,6 +516,11 @@
   },
   {
     "ip_address": "2a02:26f7:ec11:4000::/64",
+    "ip_type": "IPv6",
+    "region": "TZ"
+  },
+  {
+    "ip_address": "2a04:4e41:1f1::/48",
     "ip_type": "IPv6",
     "region": "TZ"
   },

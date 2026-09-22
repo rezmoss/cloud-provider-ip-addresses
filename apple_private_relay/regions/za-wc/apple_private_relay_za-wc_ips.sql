@@ -33,7 +33,6 @@ INSERT INTO `apple_private_relay_za-wc_ips` (`ip_address`, `ip_type`) VALUES ('2
 INSERT INTO `apple_private_relay_za-wc_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d240:d60f::/64', 'IPv6');
 INSERT INTO `apple_private_relay_za-wc_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d240:d610::/64', 'IPv6');
 INSERT INTO `apple_private_relay_za-wc_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d240:d61c::/64', 'IPv6');
-INSERT INTO `apple_private_relay_za-wc_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d240:d61e::/64', 'IPv6');
 INSERT INTO `apple_private_relay_za-wc_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d240:d61f::/64', 'IPv6');
 INSERT INTO `apple_private_relay_za-wc_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d240:d622::/64', 'IPv6');
 INSERT INTO `apple_private_relay_za-wc_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d240:d62d::/64', 'IPv6');
@@ -45,7 +44,6 @@ INSERT INTO `apple_private_relay_za-wc_ips` (`ip_address`, `ip_type`) VALUES ('2
 INSERT INTO `apple_private_relay_za-wc_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d242:d60f::/64', 'IPv6');
 INSERT INTO `apple_private_relay_za-wc_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d242:d610::/64', 'IPv6');
 INSERT INTO `apple_private_relay_za-wc_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d242:d61c::/64', 'IPv6');
-INSERT INTO `apple_private_relay_za-wc_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d242:d61e::/64', 'IPv6');
 INSERT INTO `apple_private_relay_za-wc_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d242:d61f::/64', 'IPv6');
 INSERT INTO `apple_private_relay_za-wc_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d242:d622::/64', 'IPv6');
 INSERT INTO `apple_private_relay_za-wc_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d242:d62d::/64', 'IPv6');
@@ -57,7 +55,6 @@ INSERT INTO `apple_private_relay_za-wc_ips` (`ip_address`, `ip_type`) VALUES ('2
 INSERT INTO `apple_private_relay_za-wc_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d244:d60f::/64', 'IPv6');
 INSERT INTO `apple_private_relay_za-wc_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d244:d610::/64', 'IPv6');
 INSERT INTO `apple_private_relay_za-wc_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d244:d61c::/64', 'IPv6');
-INSERT INTO `apple_private_relay_za-wc_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d244:d61e::/64', 'IPv6');
 INSERT INTO `apple_private_relay_za-wc_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d244:d61f::/64', 'IPv6');
 INSERT INTO `apple_private_relay_za-wc_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d244:d622::/64', 'IPv6');
 INSERT INTO `apple_private_relay_za-wc_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d244:d62d::/64', 'IPv6');
@@ -69,7 +66,6 @@ INSERT INTO `apple_private_relay_za-wc_ips` (`ip_address`, `ip_type`) VALUES ('2
 INSERT INTO `apple_private_relay_za-wc_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d248:d60f::/64', 'IPv6');
 INSERT INTO `apple_private_relay_za-wc_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d248:d610::/64', 'IPv6');
 INSERT INTO `apple_private_relay_za-wc_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d248:d61c::/64', 'IPv6');
-INSERT INTO `apple_private_relay_za-wc_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d248:d61e::/64', 'IPv6');
 INSERT INTO `apple_private_relay_za-wc_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d248:d61f::/64', 'IPv6');
 INSERT INTO `apple_private_relay_za-wc_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d248:d622::/64', 'IPv6');
 INSERT INTO `apple_private_relay_za-wc_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d248:d62d::/64', 'IPv6');
@@ -81,7 +77,6 @@ INSERT INTO `apple_private_relay_za-wc_ips` (`ip_address`, `ip_type`) VALUES ('2
 INSERT INTO `apple_private_relay_za-wc_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d24c:d60f::/64', 'IPv6');
 INSERT INTO `apple_private_relay_za-wc_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d24c:d610::/64', 'IPv6');
 INSERT INTO `apple_private_relay_za-wc_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d24c:d61c::/64', 'IPv6');
-INSERT INTO `apple_private_relay_za-wc_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d24c:d61e::/64', 'IPv6');
 INSERT INTO `apple_private_relay_za-wc_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d24c:d61f::/64', 'IPv6');
 INSERT INTO `apple_private_relay_za-wc_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d24c:d622::/64', 'IPv6');
 INSERT INTO `apple_private_relay_za-wc_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d24c:d62d::/64', 'IPv6');
@@ -93,7 +88,6 @@ INSERT INTO `apple_private_relay_za-wc_ips` (`ip_address`, `ip_type`) VALUES ('2
 INSERT INTO `apple_private_relay_za-wc_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d250:d60f::/64', 'IPv6');
 INSERT INTO `apple_private_relay_za-wc_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d250:d610::/64', 'IPv6');
 INSERT INTO `apple_private_relay_za-wc_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d250:d61c::/64', 'IPv6');
-INSERT INTO `apple_private_relay_za-wc_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d250:d61e::/64', 'IPv6');
 INSERT INTO `apple_private_relay_za-wc_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d250:d61f::/64', 'IPv6');
 INSERT INTO `apple_private_relay_za-wc_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d250:d622::/64', 'IPv6');
 INSERT INTO `apple_private_relay_za-wc_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d250:d62d::/64', 'IPv6');
@@ -105,7 +99,6 @@ INSERT INTO `apple_private_relay_za-wc_ips` (`ip_address`, `ip_type`) VALUES ('2
 INSERT INTO `apple_private_relay_za-wc_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d254:d60f::/64', 'IPv6');
 INSERT INTO `apple_private_relay_za-wc_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d254:d610::/64', 'IPv6');
 INSERT INTO `apple_private_relay_za-wc_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d254:d61c::/64', 'IPv6');
-INSERT INTO `apple_private_relay_za-wc_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d254:d61e::/64', 'IPv6');
 INSERT INTO `apple_private_relay_za-wc_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d254:d61f::/64', 'IPv6');
 INSERT INTO `apple_private_relay_za-wc_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d254:d622::/64', 'IPv6');
 INSERT INTO `apple_private_relay_za-wc_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d254:d62d::/64', 'IPv6');
@@ -117,7 +110,6 @@ INSERT INTO `apple_private_relay_za-wc_ips` (`ip_address`, `ip_type`) VALUES ('2
 INSERT INTO `apple_private_relay_za-wc_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d258:d60f::/64', 'IPv6');
 INSERT INTO `apple_private_relay_za-wc_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d258:d610::/64', 'IPv6');
 INSERT INTO `apple_private_relay_za-wc_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d258:d61c::/64', 'IPv6');
-INSERT INTO `apple_private_relay_za-wc_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d258:d61e::/64', 'IPv6');
 INSERT INTO `apple_private_relay_za-wc_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d258:d61f::/64', 'IPv6');
 INSERT INTO `apple_private_relay_za-wc_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d258:d622::/64', 'IPv6');
 INSERT INTO `apple_private_relay_za-wc_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:d258:d62d::/64', 'IPv6');

@@ -60,16 +60,6 @@
     "region": "TT"
   },
   {
-    "ip_address": "172.226.11.42/31",
-    "ip_type": "IPv4",
-    "region": "TT"
-  },
-  {
-    "ip_address": "172.226.11.144/28",
-    "ip_type": "IPv4",
-    "region": "TT"
-  },
-  {
     "ip_address": "2a02:26f7:f700:4000::/64",
     "ip_type": "IPv6",
     "region": "TT"
@@ -186,46 +176,6 @@
   },
   {
     "ip_address": "2a02:26f7:f705:4000::/64",
-    "ip_type": "IPv6",
-    "region": "TT"
-  },
-  {
-    "ip_address": "2a02:26f7:f70c:4000::/64",
-    "ip_type": "IPv6",
-    "region": "TT"
-  },
-  {
-    "ip_address": "2a02:26f7:f70c:4d80::/64",
-    "ip_type": "IPv6",
-    "region": "TT"
-  },
-  {
-    "ip_address": "2a02:26f7:f70c:4d81::/64",
-    "ip_type": "IPv6",
-    "region": "TT"
-  },
-  {
-    "ip_address": "2a02:26f7:f70c:4d82::/64",
-    "ip_type": "IPv6",
-    "region": "TT"
-  },
-  {
-    "ip_address": "2a02:26f7:f70c:4d83::/64",
-    "ip_type": "IPv6",
-    "region": "TT"
-  },
-  {
-    "ip_address": "2a02:26f7:f70c:4d84::/64",
-    "ip_type": "IPv6",
-    "region": "TT"
-  },
-  {
-    "ip_address": "2a02:26f7:f70c:4d85::/64",
-    "ip_type": "IPv6",
-    "region": "TT"
-  },
-  {
-    "ip_address": "2a02:26f7:f70d:4000::/64",
     "ip_type": "IPv6",
     "region": "TT"
   },

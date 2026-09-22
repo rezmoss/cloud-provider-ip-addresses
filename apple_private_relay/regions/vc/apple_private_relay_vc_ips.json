@@ -95,11 +95,6 @@
     "region": "VC"
   },
   {
-    "ip_address": "172.226.84.112/28",
-    "ip_type": "IPv4",
-    "region": "VC"
-  },
-  {
     "ip_address": "2606:54c0:d258::/45",
     "ip_type": "IPv6",
     "region": "VC"
@@ -151,21 +146,6 @@
   },
   {
     "ip_address": "2a02:26f7:e745:4000::/64",
-    "ip_type": "IPv6",
-    "region": "VC"
-  },
-  {
-    "ip_address": "2a02:26f7:e74c:4000::/64",
-    "ip_type": "IPv6",
-    "region": "VC"
-  },
-  {
-    "ip_address": "2a02:26f7:e74c:c920::/64",
-    "ip_type": "IPv6",
-    "region": "VC"
-  },
-  {
-    "ip_address": "2a02:26f7:e74d:4000::/64",
     "ip_type": "IPv6",
     "region": "VC"
   },

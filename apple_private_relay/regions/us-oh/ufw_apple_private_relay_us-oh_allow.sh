@@ -1,6 +1,6 @@
 #!/bin/bash
 # Apple_private_relay IP Ranges
-# Updated: 2026-08-24 02:38:43
+# Updated: 2026-09-22 02:29:15
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -376,20 +376,6 @@ ufw allow from 172.226.9.26/31
 ufw allow from 172.226.9.118/31
 ufw allow from 172.226.9.138/31
 ufw allow from 172.226.9.176/31
-ufw allow from 172.226.11.140/31
-ufw allow from 172.226.11.162/31
-ufw allow from 172.226.11.170/31
-ufw allow from 172.226.11.176/30
-ufw allow from 172.226.11.194/31
-ufw allow from 172.226.11.212/31
-ufw allow from 172.226.11.224/31
-ufw allow from 172.226.11.240/31
-ufw allow from 172.226.11.244/31
-ufw allow from 172.226.12.132/31
-ufw allow from 172.226.12.150/31
-ufw allow from 172.226.12.242/31
-ufw allow from 172.226.13.6/31
-ufw allow from 172.226.13.44/31
 ufw allow from 172.226.18.72/31
 ufw allow from 172.226.18.78/31
 ufw allow from 172.226.18.86/31
@@ -1293,23 +1279,6 @@ ufw allow from 2a02:26f7:f6e8:a580::/60
 ufw allow from 2a02:26f7:f6e8:a590::/61
 ufw allow from 2a02:26f7:f6e8:a598::/62
 ufw allow from 2a02:26f7:f6e8:a772::/63
-ufw allow from 2a02:26f7:f6e9:18c0::/58
-ufw allow from 2a02:26f7:f6e9:1900::/57
-ufw allow from 2a02:26f7:f6e9:1980::/58
-ufw allow from 2a02:26f7:f6e9:2060::/59
-ufw allow from 2a02:26f7:f6e9:2080::/58
-ufw allow from 2a02:26f7:f6e9:a072::/63
-ufw allow from 2a02:26f7:f6e9:a074::/62
-ufw allow from 2a02:26f7:f6e9:a078::/61
-ufw allow from 2a02:26f7:f6e9:a080::/64
-ufw allow from 2a02:26f7:f6e9:a50f::/64
-ufw allow from 2a02:26f7:f6e9:a510::/60
-ufw allow from 2a02:26f7:f6e9:a520::/59
-ufw allow from 2a02:26f7:f6e9:a540::/58
-ufw allow from 2a02:26f7:f6e9:a580::/60
-ufw allow from 2a02:26f7:f6e9:a590::/61
-ufw allow from 2a02:26f7:f6e9:a598::/62
-ufw allow from 2a02:26f7:f6e9:a772::/63
 ufw allow from 2a02:26f7:f6ec:18c0::/58
 ufw allow from 2a02:26f7:f6ec:1900::/57
 ufw allow from 2a02:26f7:f6ec:1980::/58

@@ -140,41 +140,6 @@
     "region": "CO-CAU"
   },
   {
-    "ip_address": "2a02:26f7:f7d0:e115::/64",
-    "ip_type": "IPv6",
-    "region": "CO-CAU"
-  },
-  {
-    "ip_address": "2a02:26f7:f7d0:e137::/64",
-    "ip_type": "IPv6",
-    "region": "CO-CAU"
-  },
-  {
-    "ip_address": "2a02:26f7:f7d0:e142::/64",
-    "ip_type": "IPv6",
-    "region": "CO-CAU"
-  },
-  {
-    "ip_address": "2a02:26f7:f7d0:e15b::/64",
-    "ip_type": "IPv6",
-    "region": "CO-CAU"
-  },
-  {
-    "ip_address": "2a02:26f7:f7d0:e164::/64",
-    "ip_type": "IPv6",
-    "region": "CO-CAU"
-  },
-  {
-    "ip_address": "2a02:26f7:f7d0:e16b::/64",
-    "ip_type": "IPv6",
-    "region": "CO-CAU"
-  },
-  {
-    "ip_address": "2a02:26f7:f7d0:e183::/64",
-    "ip_type": "IPv6",
-    "region": "CO-CAU"
-  },
-  {
     "ip_address": "2a02:26f7:f7d4:e115::/64",
     "ip_type": "IPv6",
     "region": "CO-CAU"

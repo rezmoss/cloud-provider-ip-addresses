@@ -85,16 +85,6 @@
     "region": "SV"
   },
   {
-    "ip_address": "172.226.11.112/28",
-    "ip_type": "IPv4",
-    "region": "SV"
-  },
-  {
-    "ip_address": "172.226.11.128/29",
-    "ip_type": "IPv4",
-    "region": "SV"
-  },
-  {
     "ip_address": "2606:54c0:5560::/45",
     "ip_type": "IPv6",
     "region": "SV"
@@ -341,86 +331,6 @@
   },
   {
     "ip_address": "2a02:26f7:bd09:4000::/64",
-    "ip_type": "IPv6",
-    "region": "SV"
-  },
-  {
-    "ip_address": "2a02:26f7:bd0c:4000::/64",
-    "ip_type": "IPv6",
-    "region": "SV"
-  },
-  {
-    "ip_address": "2a02:26f7:bd0c:4c80::/64",
-    "ip_type": "IPv6",
-    "region": "SV"
-  },
-  {
-    "ip_address": "2a02:26f7:bd0c:4c81::/64",
-    "ip_type": "IPv6",
-    "region": "SV"
-  },
-  {
-    "ip_address": "2a02:26f7:bd0c:4c82::/64",
-    "ip_type": "IPv6",
-    "region": "SV"
-  },
-  {
-    "ip_address": "2a02:26f7:bd0c:4c83::/64",
-    "ip_type": "IPv6",
-    "region": "SV"
-  },
-  {
-    "ip_address": "2a02:26f7:bd0c:4c84::/64",
-    "ip_type": "IPv6",
-    "region": "SV"
-  },
-  {
-    "ip_address": "2a02:26f7:bd0c:4c85::/64",
-    "ip_type": "IPv6",
-    "region": "SV"
-  },
-  {
-    "ip_address": "2a02:26f7:bd0c:4c86::/64",
-    "ip_type": "IPv6",
-    "region": "SV"
-  },
-  {
-    "ip_address": "2a02:26f7:bd0c:4c87::/64",
-    "ip_type": "IPv6",
-    "region": "SV"
-  },
-  {
-    "ip_address": "2a02:26f7:bd0c:4c88::/64",
-    "ip_type": "IPv6",
-    "region": "SV"
-  },
-  {
-    "ip_address": "2a02:26f7:bd0c:4c89::/64",
-    "ip_type": "IPv6",
-    "region": "SV"
-  },
-  {
-    "ip_address": "2a02:26f7:bd0c:4c8a::/64",
-    "ip_type": "IPv6",
-    "region": "SV"
-  },
-  {
-    "ip_address": "2a02:26f7:bd0c:4c8b::/64",
-    "ip_type": "IPv6",
-    "region": "SV"
-  },
-  {
-    "ip_address": "2a02:26f7:bd0c:4c8c::/64",
-    "ip_type": "IPv6",
-    "region": "SV"
-  },
-  {
-    "ip_address": "2a02:26f7:bd0c:4c8d::/64",
-    "ip_type": "IPv6",
-    "region": "SV"
-  },
-  {
-    "ip_address": "2a02:26f7:bd0d:4000::/64",
     "ip_type": "IPv6",
     "region": "SV"
   },

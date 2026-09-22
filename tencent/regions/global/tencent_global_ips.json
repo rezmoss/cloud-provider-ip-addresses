@@ -15918,12 +15918,6 @@
     "region": "global"
   },
   {
-    "ip_address": "150.109.31.0/24",
-    "ip_type": "IPv4",
-    "service": "tencent-as132203",
-    "region": "global"
-  },
-  {
     "ip_address": "150.109.32.0/19",
     "ip_type": "IPv4",
     "service": "tencent-as132203",

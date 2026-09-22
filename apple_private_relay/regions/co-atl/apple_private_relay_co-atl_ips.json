@@ -170,31 +170,6 @@
     "region": "CO-ATL"
   },
   {
-    "ip_address": "2a02:26f7:f7d0:e110::/64",
-    "ip_type": "IPv6",
-    "region": "CO-ATL"
-  },
-  {
-    "ip_address": "2a02:26f7:f7d0:e135::/64",
-    "ip_type": "IPv6",
-    "region": "CO-ATL"
-  },
-  {
-    "ip_address": "2a02:26f7:f7d0:e145::/64",
-    "ip_type": "IPv6",
-    "region": "CO-ATL"
-  },
-  {
-    "ip_address": "2a02:26f7:f7d0:e16d::/64",
-    "ip_type": "IPv6",
-    "region": "CO-ATL"
-  },
-  {
-    "ip_address": "2a02:26f7:f7d0:e174::/64",
-    "ip_type": "IPv6",
-    "region": "CO-ATL"
-  },
-  {
     "ip_address": "2a02:26f7:f7d4:e110::/64",
     "ip_type": "IPv6",
     "region": "CO-ATL"

@@ -145,16 +145,6 @@
     "region": "BS"
   },
   {
-    "ip_address": "172.226.13.192/28",
-    "ip_type": "IPv4",
-    "region": "BS"
-  },
-  {
-    "ip_address": "172.226.13.208/29",
-    "ip_type": "IPv4",
-    "region": "BS"
-  },
-  {
     "ip_address": "172.226.142.240/28",
     "ip_type": "IPv4",
     "region": "BS"
@@ -296,31 +286,6 @@
   },
   {
     "ip_address": "2a02:26f7:f810:41c2::/64",
-    "ip_type": "IPv6",
-    "region": "BS"
-  },
-  {
-    "ip_address": "2a02:26f7:f814:4000::/64",
-    "ip_type": "IPv6",
-    "region": "BS"
-  },
-  {
-    "ip_address": "2a02:26f7:f814:41c0::/64",
-    "ip_type": "IPv6",
-    "region": "BS"
-  },
-  {
-    "ip_address": "2a02:26f7:f814:41c1::/64",
-    "ip_type": "IPv6",
-    "region": "BS"
-  },
-  {
-    "ip_address": "2a02:26f7:f814:41c2::/64",
-    "ip_type": "IPv6",
-    "region": "BS"
-  },
-  {
-    "ip_address": "2a02:26f7:f815:4000::/64",
     "ip_type": "IPv6",
     "region": "BS"
   },

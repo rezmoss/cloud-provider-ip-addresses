@@ -20,6 +20,16 @@
     "region": "MU-PU"
   },
   {
+    "ip_address": "146.75.224.20/31",
+    "ip_type": "IPv4",
+    "region": "MU-PU"
+  },
+  {
+    "ip_address": "2a04:4e41:1e2::/52",
+    "ip_type": "IPv6",
+    "region": "MU-PU"
+  },
+  {
     "ip_address": "2a04:4e41:12c0::/52",
     "ip_type": "IPv6",
     "region": "MU-PU"

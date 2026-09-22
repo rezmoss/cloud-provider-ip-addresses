@@ -95,11 +95,6 @@
     "region": "AW"
   },
   {
-    "ip_address": "172.226.13.160/28",
-    "ip_type": "IPv4",
-    "region": "AW"
-  },
-  {
     "ip_address": "172.226.191.224/27",
     "ip_type": "IPv4",
     "region": "AW"
@@ -171,21 +166,6 @@
   },
   {
     "ip_address": "2a02:26f7:f88d:4000::/64",
-    "ip_type": "IPv6",
-    "region": "AW"
-  },
-  {
-    "ip_address": "2a02:26f7:f890:4000::/64",
-    "ip_type": "IPv6",
-    "region": "AW"
-  },
-  {
-    "ip_address": "2a02:26f7:f890:c080::/64",
-    "ip_type": "IPv6",
-    "region": "AW"
-  },
-  {
-    "ip_address": "2a02:26f7:f891:4000::/64",
     "ip_type": "IPv6",
     "region": "AW"
   },

@@ -65,11 +65,6 @@
     "region": "MQ"
   },
   {
-    "ip_address": "172.226.84.64/28",
-    "ip_type": "IPv4",
-    "region": "MQ"
-  },
-  {
     "ip_address": "2606:54c0:48b8::/45",
     "ip_type": "IPv6",
     "region": "MQ"
@@ -116,16 +111,6 @@
   },
   {
     "ip_address": "2a02:26f7:b44d:4000::/64",
-    "ip_type": "IPv6",
-    "region": "MQ"
-  },
-  {
-    "ip_address": "2a02:26f7:b450:4000::/64",
-    "ip_type": "IPv6",
-    "region": "MQ"
-  },
-  {
-    "ip_address": "2a02:26f7:b451:4000::/64",
     "ip_type": "IPv6",
     "region": "MQ"
   },

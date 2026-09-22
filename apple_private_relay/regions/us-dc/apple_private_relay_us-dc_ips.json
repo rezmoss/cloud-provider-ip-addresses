@@ -535,11 +535,6 @@
     "region": "US-DC"
   },
   {
-    "ip_address": "172.226.12.176/31",
-    "ip_type": "IPv4",
-    "region": "US-DC"
-  },
-  {
     "ip_address": "172.226.18.218/31",
     "ip_type": "IPv4",
     "region": "US-DC"
@@ -901,16 +896,6 @@
   },
   {
     "ip_address": "2a02:26f7:f6e8:a004::/64",
-    "ip_type": "IPv6",
-    "region": "US-DC"
-  },
-  {
-    "ip_address": "2a02:26f7:f6e9:c00::/56",
-    "ip_type": "IPv6",
-    "region": "US-DC"
-  },
-  {
-    "ip_address": "2a02:26f7:f6e9:a004::/64",
     "ip_type": "IPv6",
     "region": "US-DC"
   },

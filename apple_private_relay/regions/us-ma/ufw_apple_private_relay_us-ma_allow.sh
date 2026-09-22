@@ -1,6 +1,6 @@
 #!/bin/bash
 # Apple_private_relay IP Ranges
-# Updated: 2026-06-25 03:22:49
+# Updated: 2026-09-22 02:29:37
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -184,11 +184,6 @@ ufw allow from 172.226.9.120/31
 ufw allow from 172.226.9.184/31
 ufw allow from 172.226.9.200/31
 ufw allow from 172.226.9.248/30
-ufw allow from 172.226.11.208/31
-ufw allow from 172.226.12.244/31
-ufw allow from 172.226.13.52/31
-ufw allow from 172.226.13.68/31
-ufw allow from 172.226.13.116/30
 ufw allow from 172.226.18.122/31
 ufw allow from 172.226.19.30/31
 ufw allow from 172.226.19.92/31
@@ -726,21 +721,6 @@ ufw allow from 2a02:26f7:f6e8:a2a8::/62
 ufw allow from 2a02:26f7:f6e8:a2ac::/63
 ufw allow from 2a02:26f7:f6e8:a76b::/64
 ufw allow from 2a02:26f7:f6e8:a76c::/64
-ufw allow from 2a02:26f7:f6e9:1100::/56
-ufw allow from 2a02:26f7:f6e9:1d10::/60
-ufw allow from 2a02:26f7:f6e9:1d20::/59
-ufw allow from 2a02:26f7:f6e9:1d40::/58
-ufw allow from 2a02:26f7:f6e9:1d80::/60
-ufw allow from 2a02:26f7:f6e9:a030::/62
-ufw allow from 2a02:26f7:f6e9:a034::/64
-ufw allow from 2a02:26f7:f6e9:a287::/64
-ufw allow from 2a02:26f7:f6e9:a288::/61
-ufw allow from 2a02:26f7:f6e9:a290::/60
-ufw allow from 2a02:26f7:f6e9:a2a0::/61
-ufw allow from 2a02:26f7:f6e9:a2a8::/62
-ufw allow from 2a02:26f7:f6e9:a2ac::/63
-ufw allow from 2a02:26f7:f6e9:a76b::/64
-ufw allow from 2a02:26f7:f6e9:a76c::/64
 ufw allow from 2a02:26f7:f6ec:1100::/56
 ufw allow from 2a02:26f7:f6ec:1d10::/60
 ufw allow from 2a02:26f7:f6ec:1d20::/59

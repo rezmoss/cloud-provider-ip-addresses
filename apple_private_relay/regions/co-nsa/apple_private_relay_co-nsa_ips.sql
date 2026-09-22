@@ -40,11 +40,6 @@ INSERT INTO `apple_private_relay_co-nsa_ips` (`ip_address`, `ip_type`) VALUES ('
 INSERT INTO `apple_private_relay_co-nsa_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7cc:e129::/64', 'IPv6');
 INSERT INTO `apple_private_relay_co-nsa_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7cc:e152::/64', 'IPv6');
 INSERT INTO `apple_private_relay_co-nsa_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7cc:e182::/64', 'IPv6');
-INSERT INTO `apple_private_relay_co-nsa_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7d0:e101::/64', 'IPv6');
-INSERT INTO `apple_private_relay_co-nsa_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7d0:e124::/64', 'IPv6');
-INSERT INTO `apple_private_relay_co-nsa_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7d0:e129::/64', 'IPv6');
-INSERT INTO `apple_private_relay_co-nsa_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7d0:e152::/64', 'IPv6');
-INSERT INTO `apple_private_relay_co-nsa_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7d0:e182::/64', 'IPv6');
 INSERT INTO `apple_private_relay_co-nsa_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7d4:e101::/64', 'IPv6');
 INSERT INTO `apple_private_relay_co-nsa_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7d4:e124::/64', 'IPv6');
 INSERT INTO `apple_private_relay_co-nsa_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7d4:e129::/64', 'IPv6');

@@ -28,8 +28,6 @@ INSERT INTO `apple_private_relay_co-mag_ips` (`ip_address`, `ip_type`) VALUES ('
 INSERT INTO `apple_private_relay_co-mag_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7c4:e16a::/64', 'IPv6');
 INSERT INTO `apple_private_relay_co-mag_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7cc:e15a::/64', 'IPv6');
 INSERT INTO `apple_private_relay_co-mag_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7cc:e16a::/64', 'IPv6');
-INSERT INTO `apple_private_relay_co-mag_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7d0:e15a::/64', 'IPv6');
-INSERT INTO `apple_private_relay_co-mag_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7d0:e16a::/64', 'IPv6');
 INSERT INTO `apple_private_relay_co-mag_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7d4:e15a::/64', 'IPv6');
 INSERT INTO `apple_private_relay_co-mag_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7d4:e16a::/64', 'IPv6');
 INSERT INTO `apple_private_relay_co-mag_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7d8:e15a::/64', 'IPv6');

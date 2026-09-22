@@ -315,11 +315,6 @@
     "region": "US-RI"
   },
   {
-    "ip_address": "172.226.13.24/31",
-    "ip_type": "IPv4",
-    "region": "US-RI"
-  },
-  {
     "ip_address": "172.226.19.66/31",
     "ip_type": "IPv4",
     "region": "US-RI"
@@ -1481,46 +1476,6 @@
   },
   {
     "ip_address": "2a02:26f7:f6e8:a62b::/64",
-    "ip_type": "IPv6",
-    "region": "US-RI"
-  },
-  {
-    "ip_address": "2a02:26f7:f6e9:1a00::/58",
-    "ip_type": "IPv6",
-    "region": "US-RI"
-  },
-  {
-    "ip_address": "2a02:26f7:f6e9:a090::/64",
-    "ip_type": "IPv6",
-    "region": "US-RI"
-  },
-  {
-    "ip_address": "2a02:26f7:f6e9:a626::/64",
-    "ip_type": "IPv6",
-    "region": "US-RI"
-  },
-  {
-    "ip_address": "2a02:26f7:f6e9:a627::/64",
-    "ip_type": "IPv6",
-    "region": "US-RI"
-  },
-  {
-    "ip_address": "2a02:26f7:f6e9:a628::/64",
-    "ip_type": "IPv6",
-    "region": "US-RI"
-  },
-  {
-    "ip_address": "2a02:26f7:f6e9:a629::/64",
-    "ip_type": "IPv6",
-    "region": "US-RI"
-  },
-  {
-    "ip_address": "2a02:26f7:f6e9:a62a::/64",
-    "ip_type": "IPv6",
-    "region": "US-RI"
-  },
-  {
-    "ip_address": "2a02:26f7:f6e9:a62b::/64",
     "ip_type": "IPv6",
     "region": "US-RI"
   },

@@ -14,7 +14,6 @@ INSERT INTO `apple_private_relay_ag_ips` (`ip_address`, `ip_type`) VALUES ('140.
 INSERT INTO `apple_private_relay_ag_ips` (`ip_address`, `ip_type`) VALUES ('146.75.232.2/31', 'IPv4');
 INSERT INTO `apple_private_relay_ag_ips` (`ip_address`, `ip_type`) VALUES ('146.75.248.2/31', 'IPv4');
 INSERT INTO `apple_private_relay_ag_ips` (`ip_address`, `ip_type`) VALUES ('172.225.92.0/28', 'IPv4');
-INSERT INTO `apple_private_relay_ag_ips` (`ip_address`, `ip_type`) VALUES ('172.225.152.0/27', 'IPv4');
 INSERT INTO `apple_private_relay_ag_ips` (`ip_address`, `ip_type`) VALUES ('172.225.215.240/28', 'IPv4');
 INSERT INTO `apple_private_relay_ag_ips` (`ip_address`, `ip_type`) VALUES ('172.225.238.0/28', 'IPv4');
 INSERT INTO `apple_private_relay_ag_ips` (`ip_address`, `ip_type`) VALUES ('172.226.191.160/27', 'IPv4');
@@ -28,10 +27,6 @@ INSERT INTO `apple_private_relay_ag_ips` (`ip_address`, `ip_type`) VALUES ('2a02
 INSERT INTO `apple_private_relay_ag_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:ebc2:c9e0::/64', 'IPv6');
 INSERT INTO `apple_private_relay_ag_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:ebc2:c9e1::/64', 'IPv6');
 INSERT INTO `apple_private_relay_ag_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:ebc3:4000::/64', 'IPv6');
-INSERT INTO `apple_private_relay_ag_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:ebc4:4000::/64', 'IPv6');
-INSERT INTO `apple_private_relay_ag_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:ebc4:c9e0::/64', 'IPv6');
-INSERT INTO `apple_private_relay_ag_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:ebc4:c9e1::/64', 'IPv6');
-INSERT INTO `apple_private_relay_ag_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:ebc5:4000::/64', 'IPv6');
 INSERT INTO `apple_private_relay_ag_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:ebc8:4000::/64', 'IPv6');
 INSERT INTO `apple_private_relay_ag_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:ebc8:c9e0::/64', 'IPv6');
 INSERT INTO `apple_private_relay_ag_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:ebc8:c9e1::/64', 'IPv6');

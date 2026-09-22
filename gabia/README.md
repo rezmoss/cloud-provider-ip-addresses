@@ -1,6 +1,6 @@
 # Gabia IP Ranges (Auto-Updated Daily)
 
-> Last updated: **2026-09-21** · Total CIDRs: **98** · IPv4: **98** · IPv6: **0** · Services: **1** · Regions: **1**
+> Last updated: **2026-09-22** · Total CIDRs: **99** · IPv4: **99** · IPv6: **0** · Services: **1** · Regions: **1**
 
 Machine-readable, daily-updated, validated public IP ranges for **Gabia**.
 Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and Apache.
@@ -33,8 +33,8 @@ Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and
 1.201.224.0/24
 1.201.225.0/24
 1.201.227.0/24
+1.201.99.0/24
 103.240.48.0/22
-121.78.112.0/24
 ```
 
 ## Per-service breakdown

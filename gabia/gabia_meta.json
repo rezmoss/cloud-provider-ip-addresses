@@ -1,23 +1,23 @@
 {
   "provider": "gabia",
-  "version": 2,
-  "generated_date": "2026-09-21",
-  "last_changed_date": "2026-08-11",
+  "version": 3,
+  "generated_date": "2026-09-22",
+  "last_changed_date": "2026-09-22",
   "sources": [
     "BGP announced prefixes via RIPE NCC RIPEstat"
   ],
   "ipv4": {
-    "cidrs": 98,
-    "merged_cidrs": 49,
-    "addresses": 40960
+    "cidrs": 99,
+    "merged_cidrs": 50,
+    "addresses": 41216
   },
   "ipv6": {
     "cidrs": 0,
     "merged_cidrs": 0,
     "addresses": 0
   },
-  "total_entries": 98,
-  "content_sha256": "0abd2ec46a23663e6b871fa0a6702d2bee0bd803176d7ec5f9523eb845c7ac99",
+  "total_entries": 99,
+  "content_sha256": "1d4d223aaa9dc443bf34b7210206d3fcc3d8787948e2698948d1e6d1c25963ee",
   "license": "CC0-1.0",
   "license_url": "https://github.com/rezmoss/cloud-provider-ip-addresses/blob/main/LICENSE"
 }

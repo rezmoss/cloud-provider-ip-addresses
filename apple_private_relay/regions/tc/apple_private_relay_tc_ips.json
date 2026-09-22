@@ -55,11 +55,6 @@
     "region": "TC"
   },
   {
-    "ip_address": "172.226.84.96/28",
-    "ip_type": "IPv4",
-    "region": "TC"
-  },
-  {
     "ip_address": "2606:54c0:55a8::/45",
     "ip_type": "IPv6",
     "region": "TC"
@@ -126,21 +121,6 @@
   },
   {
     "ip_address": "2a02:26f7:f74c:c820::/64",
-    "ip_type": "IPv6",
-    "region": "TC"
-  },
-  {
-    "ip_address": "2a02:26f7:f750:4000::/64",
-    "ip_type": "IPv6",
-    "region": "TC"
-  },
-  {
-    "ip_address": "2a02:26f7:f750:c820::/64",
-    "ip_type": "IPv6",
-    "region": "TC"
-  },
-  {
-    "ip_address": "2a02:26f7:f751:4000::/64",
     "ip_type": "IPv6",
     "region": "TC"
   },

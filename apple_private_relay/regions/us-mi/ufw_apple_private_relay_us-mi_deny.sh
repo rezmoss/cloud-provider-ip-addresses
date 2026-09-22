@@ -1,6 +1,6 @@
 #!/bin/bash
 # Apple_private_relay IP Ranges
-# Updated: 2026-06-25 03:23:05
+# Updated: 2026-09-22 02:29:53
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -369,23 +369,6 @@ ufw deny from 172.226.9.214/31
 ufw deny from 172.226.9.216/31
 ufw deny from 172.226.9.234/31
 ufw deny from 172.226.9.244/31
-ufw deny from 172.226.11.214/31
-ufw deny from 172.226.11.218/31
-ufw deny from 172.226.11.228/31
-ufw deny from 172.226.11.238/31
-ufw deny from 172.226.12.180/31
-ufw deny from 172.226.12.212/31
-ufw deny from 172.226.12.230/31
-ufw deny from 172.226.12.232/31
-ufw deny from 172.226.12.238/31
-ufw deny from 172.226.13.4/31
-ufw deny from 172.226.13.28/31
-ufw deny from 172.226.13.56/30
-ufw deny from 172.226.13.70/31
-ufw deny from 172.226.13.82/31
-ufw deny from 172.226.13.84/31
-ufw deny from 172.226.13.102/31
-ufw deny from 172.226.13.112/31
 ufw deny from 172.226.18.128/31
 ufw deny from 172.226.18.132/31
 ufw deny from 172.226.18.142/31
@@ -1418,23 +1401,6 @@ ufw deny from 2a02:26f7:f6e8:a320::/59
 ufw deny from 2a02:26f7:f6e8:a340::/58
 ufw deny from 2a02:26f7:f6e8:a380::/59
 ufw deny from 2a02:26f7:f6e8:a76d::/64
-ufw deny from 2a02:26f7:f6e9:1680::/58
-ufw deny from 2a02:26f7:f6e9:1e20::/59
-ufw deny from 2a02:26f7:f6e9:1e40::/58
-ufw deny from 2a02:26f7:f6e9:1e80::/58
-ufw deny from 2a02:26f7:f6e9:a03d::/64
-ufw deny from 2a02:26f7:f6e9:a03e::/63
-ufw deny from 2a02:26f7:f6e9:a040::/61
-ufw deny from 2a02:26f7:f6e9:a048::/62
-ufw deny from 2a02:26f7:f6e9:a04c::/63
-ufw deny from 2a02:26f7:f6e9:a04e::/64
-ufw deny from 2a02:26f7:f6e9:a306::/63
-ufw deny from 2a02:26f7:f6e9:a308::/61
-ufw deny from 2a02:26f7:f6e9:a310::/60
-ufw deny from 2a02:26f7:f6e9:a320::/59
-ufw deny from 2a02:26f7:f6e9:a340::/58
-ufw deny from 2a02:26f7:f6e9:a380::/59
-ufw deny from 2a02:26f7:f6e9:a76d::/64
 ufw deny from 2a02:26f7:f6ec:1680::/58
 ufw deny from 2a02:26f7:f6ec:1e20::/59
 ufw deny from 2a02:26f7:f6ec:1e40::/58

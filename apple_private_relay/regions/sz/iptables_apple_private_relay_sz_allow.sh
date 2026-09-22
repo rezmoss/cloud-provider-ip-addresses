@@ -1,6 +1,6 @@
 #!/bin/bash
 # Apple_private_relay IP Ranges
-# Updated: 2026-06-25 03:23:12
+# Updated: 2026-09-22 02:30:00
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -11,6 +11,7 @@ iptables -A INPUT -s 140.248.40.192/31 -j ACCEPT
 iptables -A INPUT -s 146.75.168.176/31 -j ACCEPT
 iptables -A INPUT -s 146.75.185.176/31 -j ACCEPT
 iptables -A INPUT -s 146.75.198.28/31 -j ACCEPT
+iptables -A INPUT -s 146.75.224.32/31 -j ACCEPT
 iptables -A INPUT -s 172.224.231.48/28 -j ACCEPT
 iptables -A INPUT -s 172.225.137.96/28 -j ACCEPT
 iptables -A INPUT -s 172.225.142.96/28 -j ACCEPT
@@ -35,6 +36,7 @@ ip6tables -A INPUT -s 2a02:26f7:c48d:4000::/64 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:c490:4000::/64 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:c490:cc80::/63 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:c491:4000::/64 -j ACCEPT
+ip6tables -A INPUT -s 2a04:4e41:1f0::/48 -j ACCEPT
 ip6tables -A INPUT -s 2a04:4e41:12ce::/48 -j ACCEPT
 ip6tables -A INPUT -s 2a04:4e41:132b::/48 -j ACCEPT
 ip6tables -A INPUT -s 2a04:4e41:1621::/48 -j ACCEPT

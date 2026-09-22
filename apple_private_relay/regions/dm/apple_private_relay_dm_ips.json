@@ -30,11 +30,6 @@
     "region": "DM"
   },
   {
-    "ip_address": "172.226.84.16/28",
-    "ip_type": "IPv4",
-    "region": "DM"
-  },
-  {
     "ip_address": "2a02:26f7:ea80:4000::/64",
     "ip_type": "IPv6",
     "region": "DM"
@@ -91,21 +86,6 @@
   },
   {
     "ip_address": "2a02:26f7:ea8d:4000::/64",
-    "ip_type": "IPv6",
-    "region": "DM"
-  },
-  {
-    "ip_address": "2a02:26f7:ea90:4000::/64",
-    "ip_type": "IPv6",
-    "region": "DM"
-  },
-  {
-    "ip_address": "2a02:26f7:ea90:c1c0::/64",
-    "ip_type": "IPv6",
-    "region": "DM"
-  },
-  {
-    "ip_address": "2a02:26f7:ea91:4000::/64",
     "ip_type": "IPv6",
     "region": "DM"
   },

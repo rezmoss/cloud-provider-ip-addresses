@@ -40,28 +40,8 @@
     "region": "BB"
   },
   {
-    "ip_address": "172.225.152.96/27",
-    "ip_type": "IPv4",
-    "region": "BB"
-  },
-  {
     "ip_address": "172.225.173.0/27",
     "ip_type": "IPv4",
-    "region": "BB"
-  },
-  {
-    "ip_address": "2a02:26f7:bf00:4000::/64",
-    "ip_type": "IPv6",
-    "region": "BB"
-  },
-  {
-    "ip_address": "2a02:26f7:bf00:c0a0::/64",
-    "ip_type": "IPv6",
-    "region": "BB"
-  },
-  {
-    "ip_address": "2a02:26f7:bf01:4000::/64",
-    "ip_type": "IPv6",
     "region": "BB"
   },
   {

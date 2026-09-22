@@ -15495,11 +15495,6 @@
     "region": "US-AL"
   },
   {
-    "ip_address": "2a02:26f7:f6e9:a0b0::/64",
-    "ip_type": "IPv6",
-    "region": "US-AL"
-  },
-  {
     "ip_address": "2a02:26f7:f6ec:a0b0::/64",
     "ip_type": "IPv6",
     "region": "US-AL"

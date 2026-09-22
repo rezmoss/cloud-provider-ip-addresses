@@ -170,31 +170,6 @@
     "region": "CO-COR"
   },
   {
-    "ip_address": "2a02:26f7:f7d0:e123::/64",
-    "ip_type": "IPv6",
-    "region": "CO-COR"
-  },
-  {
-    "ip_address": "2a02:26f7:f7d0:e141::/64",
-    "ip_type": "IPv6",
-    "region": "CO-COR"
-  },
-  {
-    "ip_address": "2a02:26f7:f7d0:e14b::/64",
-    "ip_type": "IPv6",
-    "region": "CO-COR"
-  },
-  {
-    "ip_address": "2a02:26f7:f7d0:e14c::/64",
-    "ip_type": "IPv6",
-    "region": "CO-COR"
-  },
-  {
-    "ip_address": "2a02:26f7:f7d0:e159::/64",
-    "ip_type": "IPv6",
-    "region": "CO-COR"
-  },
-  {
     "ip_address": "2a02:26f7:f7d4:e123::/64",
     "ip_type": "IPv6",
     "region": "CO-COR"

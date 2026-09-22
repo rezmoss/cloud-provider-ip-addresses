@@ -110,16 +110,6 @@
     "region": "CO-RIS"
   },
   {
-    "ip_address": "2a02:26f7:f7d0:e12c::/64",
-    "ip_type": "IPv6",
-    "region": "CO-RIS"
-  },
-  {
-    "ip_address": "2a02:26f7:f7d0:e156::/64",
-    "ip_type": "IPv6",
-    "region": "CO-RIS"
-  },
-  {
     "ip_address": "2a02:26f7:f7d4:e12c::/64",
     "ip_type": "IPv6",
     "region": "CO-RIS"

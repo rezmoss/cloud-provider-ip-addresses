@@ -290,61 +290,6 @@
     "region": "CO-CES"
   },
   {
-    "ip_address": "2a02:26f7:f7d0:e103::/64",
-    "ip_type": "IPv6",
-    "region": "CO-CES"
-  },
-  {
-    "ip_address": "2a02:26f7:f7d0:e10a::/64",
-    "ip_type": "IPv6",
-    "region": "CO-CES"
-  },
-  {
-    "ip_address": "2a02:26f7:f7d0:e112::/64",
-    "ip_type": "IPv6",
-    "region": "CO-CES"
-  },
-  {
-    "ip_address": "2a02:26f7:f7d0:e126::/64",
-    "ip_type": "IPv6",
-    "region": "CO-CES"
-  },
-  {
-    "ip_address": "2a02:26f7:f7d0:e12b::/64",
-    "ip_type": "IPv6",
-    "region": "CO-CES"
-  },
-  {
-    "ip_address": "2a02:26f7:f7d0:e12e::/64",
-    "ip_type": "IPv6",
-    "region": "CO-CES"
-  },
-  {
-    "ip_address": "2a02:26f7:f7d0:e150::/64",
-    "ip_type": "IPv6",
-    "region": "CO-CES"
-  },
-  {
-    "ip_address": "2a02:26f7:f7d0:e155::/64",
-    "ip_type": "IPv6",
-    "region": "CO-CES"
-  },
-  {
-    "ip_address": "2a02:26f7:f7d0:e15d::/64",
-    "ip_type": "IPv6",
-    "region": "CO-CES"
-  },
-  {
-    "ip_address": "2a02:26f7:f7d0:e167::/64",
-    "ip_type": "IPv6",
-    "region": "CO-CES"
-  },
-  {
-    "ip_address": "2a02:26f7:f7d0:e180::/64",
-    "ip_type": "IPv6",
-    "region": "CO-CES"
-  },
-  {
     "ip_address": "2a02:26f7:f7d4:e103::/64",
     "ip_type": "IPv6",
     "region": "CO-CES"

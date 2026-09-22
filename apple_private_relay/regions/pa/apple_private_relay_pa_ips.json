@@ -70,16 +70,6 @@
     "region": "PA"
   },
   {
-    "ip_address": "172.226.11.64/28",
-    "ip_type": "IPv4",
-    "region": "PA"
-  },
-  {
-    "ip_address": "172.226.11.80/29",
-    "ip_type": "IPv4",
-    "region": "PA"
-  },
-  {
     "ip_address": "2606:54c0:4e40::/45",
     "ip_type": "IPv6",
     "region": "PA"
@@ -296,56 +286,6 @@
   },
   {
     "ip_address": "2a02:26f7:e809:4000::/64",
-    "ip_type": "IPv6",
-    "region": "PA"
-  },
-  {
-    "ip_address": "2a02:26f7:e80c:4000::/64",
-    "ip_type": "IPv6",
-    "region": "PA"
-  },
-  {
-    "ip_address": "2a02:26f7:e80c:4ac0::/64",
-    "ip_type": "IPv6",
-    "region": "PA"
-  },
-  {
-    "ip_address": "2a02:26f7:e80c:4ac1::/64",
-    "ip_type": "IPv6",
-    "region": "PA"
-  },
-  {
-    "ip_address": "2a02:26f7:e80c:4ac2::/64",
-    "ip_type": "IPv6",
-    "region": "PA"
-  },
-  {
-    "ip_address": "2a02:26f7:e80c:4ac3::/64",
-    "ip_type": "IPv6",
-    "region": "PA"
-  },
-  {
-    "ip_address": "2a02:26f7:e80c:4ac4::/64",
-    "ip_type": "IPv6",
-    "region": "PA"
-  },
-  {
-    "ip_address": "2a02:26f7:e80c:4ac5::/64",
-    "ip_type": "IPv6",
-    "region": "PA"
-  },
-  {
-    "ip_address": "2a02:26f7:e80c:4ac6::/64",
-    "ip_type": "IPv6",
-    "region": "PA"
-  },
-  {
-    "ip_address": "2a02:26f7:e80c:4ac7::/64",
-    "ip_type": "IPv6",
-    "region": "PA"
-  },
-  {
-    "ip_address": "2a02:26f7:e80d:4000::/64",
     "ip_type": "IPv6",
     "region": "PA"
   },

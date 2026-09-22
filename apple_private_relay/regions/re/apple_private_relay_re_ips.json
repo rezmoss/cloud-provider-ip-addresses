@@ -65,6 +65,11 @@
     "region": "RE"
   },
   {
+    "ip_address": "146.75.224.26/31",
+    "ip_type": "IPv4",
+    "region": "RE"
+  },
+  {
     "ip_address": "172.224.231.176/28",
     "ip_type": "IPv4",
     "region": "RE"
@@ -176,6 +181,11 @@
   },
   {
     "ip_address": "2a02:26f7:d34d:4000::/64",
+    "ip_type": "IPv6",
+    "region": "RE"
+  },
+  {
+    "ip_address": "2a04:4e41:1ed::/48",
     "ip_type": "IPv6",
     "region": "RE"
   },

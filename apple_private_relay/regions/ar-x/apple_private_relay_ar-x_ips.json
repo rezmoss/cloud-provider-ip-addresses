@@ -220,11 +220,6 @@
     "region": "AR-X"
   },
   {
-    "ip_address": "2a02:26f7:d980:ec79::/64",
-    "ip_type": "IPv6",
-    "region": "AR-X"
-  },
-  {
     "ip_address": "2a02:26f7:d980:ec7a::/64",
     "ip_type": "IPv6",
     "region": "AR-X"
@@ -526,11 +521,6 @@
   },
   {
     "ip_address": "2a02:26f7:d984:ec75::/64",
-    "ip_type": "IPv6",
-    "region": "AR-X"
-  },
-  {
-    "ip_address": "2a02:26f7:d984:ec79::/64",
     "ip_type": "IPv6",
     "region": "AR-X"
   },
@@ -840,11 +830,6 @@
     "region": "AR-X"
   },
   {
-    "ip_address": "2a02:26f7:d988:ec79::/64",
-    "ip_type": "IPv6",
-    "region": "AR-X"
-  },
-  {
     "ip_address": "2a02:26f7:d988:ec7a::/64",
     "ip_type": "IPv6",
     "region": "AR-X"
@@ -1146,11 +1131,6 @@
   },
   {
     "ip_address": "2a02:26f7:d98c:ec75::/64",
-    "ip_type": "IPv6",
-    "region": "AR-X"
-  },
-  {
-    "ip_address": "2a02:26f7:d98c:ec79::/64",
     "ip_type": "IPv6",
     "region": "AR-X"
   },

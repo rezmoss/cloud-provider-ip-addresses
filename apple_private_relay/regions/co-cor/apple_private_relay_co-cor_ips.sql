@@ -40,11 +40,6 @@ INSERT INTO `apple_private_relay_co-cor_ips` (`ip_address`, `ip_type`) VALUES ('
 INSERT INTO `apple_private_relay_co-cor_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7cc:e14b::/64', 'IPv6');
 INSERT INTO `apple_private_relay_co-cor_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7cc:e14c::/64', 'IPv6');
 INSERT INTO `apple_private_relay_co-cor_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7cc:e159::/64', 'IPv6');
-INSERT INTO `apple_private_relay_co-cor_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7d0:e123::/64', 'IPv6');
-INSERT INTO `apple_private_relay_co-cor_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7d0:e141::/64', 'IPv6');
-INSERT INTO `apple_private_relay_co-cor_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7d0:e14b::/64', 'IPv6');
-INSERT INTO `apple_private_relay_co-cor_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7d0:e14c::/64', 'IPv6');
-INSERT INTO `apple_private_relay_co-cor_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7d0:e159::/64', 'IPv6');
 INSERT INTO `apple_private_relay_co-cor_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7d4:e123::/64', 'IPv6');
 INSERT INTO `apple_private_relay_co-cor_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7d4:e141::/64', 'IPv6');
 INSERT INTO `apple_private_relay_co-cor_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:f7d4:e14b::/64', 'IPv6');

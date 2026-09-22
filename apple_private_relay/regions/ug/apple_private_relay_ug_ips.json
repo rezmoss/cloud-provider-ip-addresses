@@ -15,6 +15,11 @@
     "region": "UG"
   },
   {
+    "ip_address": "146.75.224.36/31",
+    "ip_type": "IPv4",
+    "region": "UG"
+  },
+  {
     "ip_address": "172.224.231.96/28",
     "ip_type": "IPv4",
     "region": "UG"
@@ -136,6 +141,11 @@
   },
   {
     "ip_address": "2a02:26f7:da11:4000::/64",
+    "ip_type": "IPv6",
+    "region": "UG"
+  },
+  {
+    "ip_address": "2a04:4e41:1f2::/48",
     "ip_type": "IPv6",
     "region": "UG"
   },
