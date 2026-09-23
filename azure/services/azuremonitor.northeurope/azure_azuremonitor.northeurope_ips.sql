@@ -65,6 +65,7 @@ INSERT INTO `azure_azuremonitor.northeurope_ips` (`ip_address`, `ip_type`) VALUE
 INSERT INTO `azure_azuremonitor.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('74.144.69.32/27', 'IPv4');
 INSERT INTO `azure_azuremonitor.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('104.41.224.134/32', 'IPv4');
 INSERT INTO `azure_azuremonitor.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('137.116.226.81/32', 'IPv4');
+INSERT INTO `azure_azuremonitor.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('172.129.177.128/25', 'IPv4');
 INSERT INTO `azure_azuremonitor.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:5::60/123', 'IPv6');
 INSERT INTO `azure_azuremonitor.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:5::1c0/122', 'IPv6');
 INSERT INTO `azure_azuremonitor.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:5::300/123', 'IPv6');
@@ -79,6 +80,7 @@ INSERT INTO `azure_azuremonitor.northeurope_ips` (`ip_address`, `ip_type`) VALUE
 INSERT INTO `azure_azuremonitor.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:5:21::180/123', 'IPv6');
 INSERT INTO `azure_azuremonitor.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:5:21::600/119', 'IPv6');
 INSERT INTO `azure_azuremonitor.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:5:22::400/119', 'IPv6');
+INSERT INTO `azure_azuremonitor.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:5:2b::/121', 'IPv6');
 INSERT INTO `azure_azuremonitor.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:5:402::500/121', 'IPv6');
 INSERT INTO `azure_azuremonitor.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:5:802::480/121', 'IPv6');
 INSERT INTO `azure_azuremonitor.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:5:c02::480/121', 'IPv6');

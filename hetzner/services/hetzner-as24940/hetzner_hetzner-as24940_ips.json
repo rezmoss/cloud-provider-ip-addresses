@@ -12,6 +12,12 @@
     "region": "global"
   },
   {
+    "ip_address": "2.31.0.0/16",
+    "ip_type": "IPv4",
+    "service": "hetzner-as24940",
+    "region": "global"
+  },
+  {
     "ip_address": "5.9.0.0/16",
     "ip_type": "IPv4",
     "service": "hetzner-as24940",

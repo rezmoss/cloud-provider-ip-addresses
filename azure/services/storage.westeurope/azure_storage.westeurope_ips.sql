@@ -91,6 +91,7 @@ INSERT INTO `azure_storage.westeurope_ips` (`ip_address`, `ip_type`) VALUES ('13
 INSERT INTO `azure_storage.westeurope_ips` (`ip_address`, `ip_type`) VALUES ('135.130.204.0/23', 'IPv4');
 INSERT INTO `azure_storage.westeurope_ips` (`ip_address`, `ip_type`) VALUES ('145.190.135.0/24', 'IPv4');
 INSERT INTO `azure_storage.westeurope_ips` (`ip_address`, `ip_type`) VALUES ('145.190.170.0/24', 'IPv4');
+INSERT INTO `azure_storage.westeurope_ips` (`ip_address`, `ip_type`) VALUES ('145.190.193.0/24', 'IPv4');
 INSERT INTO `azure_storage.westeurope_ips` (`ip_address`, `ip_type`) VALUES ('168.61.57.64/26', 'IPv4');
 INSERT INTO `azure_storage.westeurope_ips` (`ip_address`, `ip_type`) VALUES ('168.61.57.128/25', 'IPv4');
 INSERT INTO `azure_storage.westeurope_ips` (`ip_address`, `ip_type`) VALUES ('168.61.58.0/26', 'IPv4');

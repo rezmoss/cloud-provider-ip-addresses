@@ -270,7 +270,85 @@
     "region": "taiwannorthwest"
   },
   {
-    "ip_address": "57.170.0.0/17",
+    "ip_address": "57.170.0.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.taiwannorthwest",
+    "region": "taiwannorthwest"
+  },
+  {
+    "ip_address": "57.170.2.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.taiwannorthwest",
+    "region": "taiwannorthwest"
+  },
+  {
+    "ip_address": "57.170.3.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.taiwannorthwest",
+    "region": "taiwannorthwest"
+  },
+  {
+    "ip_address": "57.170.3.64/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.taiwannorthwest",
+    "region": "taiwannorthwest"
+  },
+  {
+    "ip_address": "57.170.3.80/30",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.taiwannorthwest",
+    "region": "taiwannorthwest"
+  },
+  {
+    "ip_address": "57.170.3.90/31",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.taiwannorthwest",
+    "region": "taiwannorthwest"
+  },
+  {
+    "ip_address": "57.170.3.92/30",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.taiwannorthwest",
+    "region": "taiwannorthwest"
+  },
+  {
+    "ip_address": "57.170.3.96/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.taiwannorthwest",
+    "region": "taiwannorthwest"
+  },
+  {
+    "ip_address": "57.170.3.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.taiwannorthwest",
+    "region": "taiwannorthwest"
+  },
+  {
+    "ip_address": "57.170.4.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.taiwannorthwest",
+    "region": "taiwannorthwest"
+  },
+  {
+    "ip_address": "57.170.8.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.taiwannorthwest",
+    "region": "taiwannorthwest"
+  },
+  {
+    "ip_address": "57.170.16.0/20",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.taiwannorthwest",
+    "region": "taiwannorthwest"
+  },
+  {
+    "ip_address": "57.170.32.0/19",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.taiwannorthwest",
+    "region": "taiwannorthwest"
+  },
+  {
+    "ip_address": "57.170.64.0/18",
     "ip_type": "IPv4",
     "service": "AzureCloud.taiwannorthwest",
     "region": "taiwannorthwest"

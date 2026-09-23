@@ -354,6 +354,12 @@
     "region": "northeurope"
   },
   {
+    "ip_address": "172.129.177.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.NorthEurope",
+    "region": "northeurope"
+  },
+  {
     "ip_address": "2603:1020:5::60/123",
     "ip_type": "IPv6",
     "service": "AzureMonitor.NorthEurope",
@@ -433,6 +439,12 @@
   },
   {
     "ip_address": "2603:1020:5:22::400/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "2603:1020:5:2b::/121",
     "ip_type": "IPv6",
     "service": "AzureMonitor.NorthEurope",
     "region": "northeurope"

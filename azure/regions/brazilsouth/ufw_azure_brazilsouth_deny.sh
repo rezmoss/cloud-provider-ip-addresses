@@ -1,6 +1,6 @@
 #!/bin/bash
 # Azure IP Ranges
-# Updated: 2026-09-16 02:25:53
+# Updated: 2026-09-23 02:27:08
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -13,20 +13,7 @@ ufw deny from 4.201.0.0/16
 ufw deny from 4.202.0.0/16
 ufw deny from 4.203.0.0/17
 ufw deny from 4.203.128.0/19
-ufw deny from 4.228.0.0/17
-ufw deny from 4.228.128.0/19
-ufw deny from 4.228.160.0/20
-ufw deny from 4.228.176.0/23
-ufw deny from 4.228.178.0/25
-ufw deny from 4.228.178.128/26
-ufw deny from 4.228.178.192/28
-ufw deny from 4.228.178.208/29
-ufw deny from 4.228.178.216/31
-ufw deny from 4.228.178.224/27
-ufw deny from 4.228.179.0/24
-ufw deny from 4.228.180.0/22
-ufw deny from 4.228.184.0/21
-ufw deny from 4.228.192.0/18
+ufw deny from 4.228.0.0/16
 ufw deny from 4.238.128.0/17
 ufw deny from 9.129.36.0/24
 ufw deny from 9.129.50.128/26
@@ -35,13 +22,10 @@ ufw deny from 9.129.116.192/26
 ufw deny from 9.129.119.0/27
 ufw deny from 13.105.52.80/28
 ufw deny from 13.105.52.128/26
-ufw deny from 20.20.96.0/24
-ufw deny from 20.20.97.0/25
-ufw deny from 20.20.97.128/26
-ufw deny from 20.20.97.192/27
-ufw deny from 20.20.97.224/28
-ufw deny from 20.20.97.240/29
-ufw deny from 20.20.97.248/30
+ufw deny from 20.20.96.0/23
+ufw deny from 20.20.98.0/26
+ufw deny from 20.20.98.64/28
+ufw deny from 20.20.98.80/30
 ufw deny from 20.33.5.0/24
 ufw deny from 20.33.63.0/24
 ufw deny from 20.33.161.0/24
@@ -131,6 +115,7 @@ ufw deny from 52.108.171.0/24
 ufw deny from 52.108.172.0/23
 ufw deny from 52.109.108.0/22
 ufw deny from 52.111.225.0/24
+ufw deny from 52.112.25.0/24
 ufw deny from 52.113.132.0/24
 ufw deny from 52.113.152.0/24
 ufw deny from 52.113.193.0/24
@@ -158,7 +143,6 @@ ufw deny from 74.163.0.0/16
 ufw deny from 104.41.0.0/18
 ufw deny from 145.190.149.0/24
 ufw deny from 151.206.87.0/25
-ufw deny from 151.206.151.0/24
 ufw deny from 151.206.177.0/24
 ufw deny from 191.232.32.0/19
 ufw deny from 191.232.64.0/20

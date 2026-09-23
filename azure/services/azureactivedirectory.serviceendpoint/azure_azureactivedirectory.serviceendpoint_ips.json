@@ -786,6 +786,12 @@
     "region": ""
   },
   {
+    "ip_address": "20.20.57.96/28",
+    "ip_type": "IPv4",
+    "service": "AzureActiveDirectory.ServiceEndpoint",
+    "region": ""
+  },
+  {
     "ip_address": "20.72.21.96/27",
     "ip_type": "IPv4",
     "service": "AzureActiveDirectory.ServiceEndpoint",
@@ -5341,6 +5347,12 @@
   },
   {
     "ip_address": "2603:1026:3000:38::/121",
+    "ip_type": "IPv6",
+    "service": "AzureActiveDirectory.ServiceEndpoint",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1026:3000:40::/121",
     "ip_type": "IPv6",
     "service": "AzureActiveDirectory.ServiceEndpoint",
     "region": ""

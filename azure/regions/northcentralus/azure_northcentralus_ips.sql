@@ -124,6 +124,7 @@ INSERT INTO `azure_northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('20.66.
 INSERT INTO `azure_northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('20.66.218.248/30', 'IPv4');
 INSERT INTO `azure_northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('20.66.224.32/29', 'IPv4');
 INSERT INTO `azure_northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('20.66.224.40/30', 'IPv4');
+INSERT INTO `azure_northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('20.66.236.128/26', 'IPv4');
 INSERT INTO `azure_northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('20.72.32.0/19', 'IPv4');
 INSERT INTO `azure_northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('20.80.0.0/18', 'IPv4');
 INSERT INTO `azure_northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('20.80.33.190/32', 'IPv4');
@@ -783,6 +784,7 @@ INSERT INTO `azure_northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1
 INSERT INTO `azure_northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:608:17::600/119', 'IPv6');
 INSERT INTO `azure_northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:608:18::400/119', 'IPv6');
 INSERT INTO `azure_northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:608:19::2b0/124', 'IPv6');
+INSERT INTO `azure_northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:608:1f::1c0/122', 'IPv6');
 INSERT INTO `azure_northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:608:400::/123', 'IPv6');
 INSERT INTO `azure_northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:608:402::80/125', 'IPv6');
 INSERT INTO `azure_northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:608:402::88/125', 'IPv6');

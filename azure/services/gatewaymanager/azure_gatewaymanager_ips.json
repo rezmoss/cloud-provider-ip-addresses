@@ -84,6 +84,12 @@
     "region": ""
   },
   {
+    "ip_address": "4.252.13.64/26",
+    "ip_type": "IPv4",
+    "service": "GatewayManager",
+    "region": ""
+  },
+  {
     "ip_address": "9.160.40.64/26",
     "ip_type": "IPv4",
     "service": "GatewayManager",
@@ -1530,6 +1536,18 @@
     "region": ""
   },
   {
+    "ip_address": "57.173.61.0/26",
+    "ip_type": "IPv4",
+    "service": "GatewayManager",
+    "region": ""
+  },
+  {
+    "ip_address": "57.175.102.64/26",
+    "ip_type": "IPv4",
+    "service": "GatewayManager",
+    "region": ""
+  },
+  {
     "ip_address": "65.52.250.24/29",
     "ip_type": "IPv4",
     "service": "GatewayManager",
@@ -1597,6 +1615,12 @@
   },
   {
     "ip_address": "74.7.202.176/28",
+    "ip_type": "IPv4",
+    "service": "GatewayManager",
+    "region": ""
+  },
+  {
+    "ip_address": "74.159.69.64/26",
     "ip_type": "IPv4",
     "service": "GatewayManager",
     "region": ""

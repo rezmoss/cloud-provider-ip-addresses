@@ -378,7 +378,97 @@
     "region": "uaecentral"
   },
   {
-    "ip_address": "74.243.144.0/20",
+    "ip_address": "74.243.144.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uaecentral",
+    "region": "uaecentral"
+  },
+  {
+    "ip_address": "74.243.148.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uaecentral",
+    "region": "uaecentral"
+  },
+  {
+    "ip_address": "74.243.148.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uaecentral",
+    "region": "uaecentral"
+  },
+  {
+    "ip_address": "74.243.148.160/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uaecentral",
+    "region": "uaecentral"
+  },
+  {
+    "ip_address": "74.243.148.176/31",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uaecentral",
+    "region": "uaecentral"
+  },
+  {
+    "ip_address": "74.243.148.180/30",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uaecentral",
+    "region": "uaecentral"
+  },
+  {
+    "ip_address": "74.243.148.184/29",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uaecentral",
+    "region": "uaecentral"
+  },
+  {
+    "ip_address": "74.243.148.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uaecentral",
+    "region": "uaecentral"
+  },
+  {
+    "ip_address": "74.243.149.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uaecentral",
+    "region": "uaecentral"
+  },
+  {
+    "ip_address": "74.243.149.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uaecentral",
+    "region": "uaecentral"
+  },
+  {
+    "ip_address": "74.243.149.192/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uaecentral",
+    "region": "uaecentral"
+  },
+  {
+    "ip_address": "74.243.149.208/30",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uaecentral",
+    "region": "uaecentral"
+  },
+  {
+    "ip_address": "74.243.149.216/29",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uaecentral",
+    "region": "uaecentral"
+  },
+  {
+    "ip_address": "74.243.149.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uaecentral",
+    "region": "uaecentral"
+  },
+  {
+    "ip_address": "74.243.150.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uaecentral",
+    "region": "uaecentral"
+  },
+  {
+    "ip_address": "74.243.152.0/21",
     "ip_type": "IPv4",
     "service": "AzureCloud.uaecentral",
     "region": "uaecentral"

@@ -606,12 +606,6 @@
     "region": ""
   },
   {
-    "ip_address": "20.111.78.128/28",
-    "ip_type": "IPv4",
-    "service": "AzureActiveDirectory",
-    "region": ""
-  },
-  {
     "ip_address": "20.150.227.112/28",
     "ip_type": "IPv4",
     "service": "AzureActiveDirectory",

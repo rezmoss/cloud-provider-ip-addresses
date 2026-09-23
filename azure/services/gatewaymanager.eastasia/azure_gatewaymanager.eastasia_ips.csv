@@ -1,4 +1,5 @@
 ip_address,ip_type,service,region
+4.252.13.64/26,IPv4,GatewayManager.EastAsia,eastasia
 13.75.36.8/29,IPv4,GatewayManager.EastAsia,eastasia
 20.189.104.72/29,IPv4,GatewayManager.EastAsia,eastasia
 20.195.78.0/26,IPv4,GatewayManager.EastAsia,eastasia

@@ -477,6 +477,7 @@ INSERT INTO `linode_ips` (`ip_address`, `ip_type`) VALUES ('45.79.229.0/24', 'IP
 INSERT INTO `linode_ips` (`ip_address`, `ip_type`) VALUES ('45.79.230.0/24', 'IPv4');
 INSERT INTO `linode_ips` (`ip_address`, `ip_type`) VALUES ('45.79.231.0/24', 'IPv4');
 INSERT INTO `linode_ips` (`ip_address`, `ip_type`) VALUES ('45.79.234.0/24', 'IPv4');
+INSERT INTO `linode_ips` (`ip_address`, `ip_type`) VALUES ('45.79.234.0/24', 'IPv4');
 INSERT INTO `linode_ips` (`ip_address`, `ip_type`) VALUES ('45.79.236.0/24', 'IPv4');
 INSERT INTO `linode_ips` (`ip_address`, `ip_type`) VALUES ('45.79.237.0/24', 'IPv4');
 INSERT INTO `linode_ips` (`ip_address`, `ip_type`) VALUES ('45.79.238.0/24', 'IPv4');

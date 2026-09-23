@@ -8,6 +8,7 @@ CREATE TABLE IF NOT EXISTS `hetzner_global_ips` (
 
 INSERT INTO `hetzner_global_ips` (`ip_address`, `ip_type`) VALUES ('2.28.0.0/16', 'IPv4');
 INSERT INTO `hetzner_global_ips` (`ip_address`, `ip_type`) VALUES ('2.29.0.0/16', 'IPv4');
+INSERT INTO `hetzner_global_ips` (`ip_address`, `ip_type`) VALUES ('2.31.0.0/16', 'IPv4');
 INSERT INTO `hetzner_global_ips` (`ip_address`, `ip_type`) VALUES ('5.9.0.0/16', 'IPv4');
 INSERT INTO `hetzner_global_ips` (`ip_address`, `ip_type`) VALUES ('5.75.128.0/17', 'IPv4');
 INSERT INTO `hetzner_global_ips` (`ip_address`, `ip_type`) VALUES ('5.78.0.0/16', 'IPv4');

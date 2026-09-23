@@ -408,6 +408,12 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "3.41.208.0/25",
+    "ip_type": "IPv4",
+    "service": "AURORA_DSQL",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "3.80.0.0/12",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -8745,6 +8751,12 @@
     "ip_address": "2600:1f10:4000::/36",
     "ip_type": "IPv6",
     "service": "EC2",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "2600:1f10:4040:3800::/56",
+    "ip_type": "IPv6",
+    "service": "AURORA_DSQL",
     "region": "us-east-1"
   },
   {

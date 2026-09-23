@@ -6,6 +6,12 @@
     "region": "eastus3"
   },
   {
+    "ip_address": "51.57.211.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.EastUS3",
+    "region": "eastus3"
+  },
+  {
     "ip_address": "134.138.82.12/30",
     "ip_type": "IPv4",
     "service": "AzureMonitor.EastUS3",

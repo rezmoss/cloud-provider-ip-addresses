@@ -432,6 +432,12 @@
     "region": "eastus"
   },
   {
+    "ip_address": "57.175.228.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.EastUS",
+    "region": "eastus"
+  },
+  {
     "ip_address": "68.220.88.120/29",
     "ip_type": "IPv4",
     "service": "AzureMonitor.EastUS",
@@ -571,6 +577,12 @@
   },
   {
     "ip_address": "2603:1030:210:3a::600/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "2603:1030:210:47::580/121",
     "ip_type": "IPv6",
     "service": "AzureMonitor.EastUS",
     "region": "eastus"

@@ -14,4 +14,5 @@ INSERT INTO `azure_gatewaymanager.centraluseuap_ips` (`ip_address`, `ip_type`) V
 INSERT INTO `azure_gatewaymanager.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('52.253.159.209/32', 'IPv4');
 INSERT INTO `azure_gatewaymanager.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('52.253.232.235/32', 'IPv4');
 INSERT INTO `azure_gatewaymanager.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('52.253.239.162/32', 'IPv4');
+INSERT INTO `azure_gatewaymanager.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('57.173.61.0/26', 'IPv4');
 INSERT INTO `azure_gatewaymanager.centraluseuap_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f:1::40/122', 'IPv6');

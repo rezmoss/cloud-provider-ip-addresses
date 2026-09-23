@@ -558,7 +558,7 @@
     "region": "southeastus3"
   },
   {
-    "ip_address": "74.7.120.0/27",
+    "ip_address": "74.7.120.0/26",
     "ip_type": "IPv4",
     "service": "AzureMonitor.SoutheastUS3",
     "region": "southeastus3"

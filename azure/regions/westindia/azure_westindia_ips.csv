@@ -246,7 +246,6 @@ ip_address,ip_type,service,region
 104.211.189.124/32,IPv4,AzureConnectors.WestIndia,westindia
 104.211.189.218/32,IPv4,AzureConnectors.WestIndia,westindia
 151.206.70.128/25,IPv4,AzureCloud.westindia,westindia
-151.206.162.0/24,IPv4,AzureCloud.westindia,westindia
 151.206.188.0/24,IPv4,AzureCloud.westindia,westindia
 2603:1040:800::/46,IPv6,AzureCloud.westindia,westindia
 2603:1040:805::/48,IPv6,AzureCloud.westindia,westindia

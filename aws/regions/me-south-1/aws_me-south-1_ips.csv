@@ -231,6 +231,8 @@ ip_address,ip_type,service,region
 2600:f0f1:86::/48,IPv6,S3,me-south-1
 2600:f0f1:4040::/42,IPv6,AMAZON,me-south-1
 2600:f0f1:4040::/42,IPv6,EC2,me-south-1
+2600:f0f3:f010:900::/56,IPv6,AMAZON,me-south-1
+2600:f0f3:f010:900::/56,IPv6,EC2,me-south-1
 2a01:578:0:7600::1/128,IPv6,AMAZON,me-south-1
 2a01:578:0:7601::1/128,IPv6,AMAZON,me-south-1
 2a01:578:0:7602::1/128,IPv6,AMAZON,me-south-1
@@ -249,9 +251,6 @@ ip_address,ip_type,service,region
 2a05:d031:e000::/40,IPv6,S3,me-south-1
 2a05:d032:e000::/40,IPv6,AMAZON,me-south-1
 2a05:d032:e000::/40,IPv6,EC2,me-south-1
-2a05:d033:e000::/40,IPv6,AMAZON,me-south-1
-2a05:d033:e000::/40,IPv6,EC2,me-south-1
-2a05:d033:e000::/40,IPv6,IOT_CORE,me-south-1
 2a05:d036:e000::/40,IPv6,AMAZON,me-south-1
 2a05:d036:e000::/40,IPv6,EC2,me-south-1
 2a05:d038:e000::/40,IPv6,AMAZON,me-south-1

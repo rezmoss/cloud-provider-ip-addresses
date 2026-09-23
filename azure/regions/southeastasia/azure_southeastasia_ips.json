@@ -252,7 +252,13 @@
     "region": "southeastasia"
   },
   {
-    "ip_address": "4.193.0.0/23",
+    "ip_address": "4.146.87.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "4.193.0.0/16",
     "ip_type": "IPv4",
     "service": "AzureCloud.southeastasia",
     "region": "southeastasia"
@@ -264,105 +270,9 @@
     "region": "southeastasia"
   },
   {
-    "ip_address": "4.193.2.0/24",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southeastasia",
-    "region": "southeastasia"
-  },
-  {
     "ip_address": "4.193.2.0/30",
     "ip_type": "IPv4",
     "service": "AzureAttestation.SoutheastAsia",
-    "region": "southeastasia"
-  },
-  {
-    "ip_address": "4.193.3.0/25",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southeastasia",
-    "region": "southeastasia"
-  },
-  {
-    "ip_address": "4.193.3.128/26",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southeastasia",
-    "region": "southeastasia"
-  },
-  {
-    "ip_address": "4.193.3.192/27",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southeastasia",
-    "region": "southeastasia"
-  },
-  {
-    "ip_address": "4.193.3.224/28",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southeastasia",
-    "region": "southeastasia"
-  },
-  {
-    "ip_address": "4.193.3.240/31",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southeastasia",
-    "region": "southeastasia"
-  },
-  {
-    "ip_address": "4.193.3.242/32",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southeastasia",
-    "region": "southeastasia"
-  },
-  {
-    "ip_address": "4.193.3.244/30",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southeastasia",
-    "region": "southeastasia"
-  },
-  {
-    "ip_address": "4.193.3.248/29",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southeastasia",
-    "region": "southeastasia"
-  },
-  {
-    "ip_address": "4.193.4.0/24",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southeastasia",
-    "region": "southeastasia"
-  },
-  {
-    "ip_address": "4.193.5.0/25",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southeastasia",
-    "region": "southeastasia"
-  },
-  {
-    "ip_address": "4.193.5.128/28",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southeastasia",
-    "region": "southeastasia"
-  },
-  {
-    "ip_address": "4.193.5.144/29",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southeastasia",
-    "region": "southeastasia"
-  },
-  {
-    "ip_address": "4.193.5.176/28",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southeastasia",
-    "region": "southeastasia"
-  },
-  {
-    "ip_address": "4.193.5.192/26",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southeastasia",
-    "region": "southeastasia"
-  },
-  {
-    "ip_address": "4.193.6.0/23",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southeastasia",
     "region": "southeastasia"
   },
   {
@@ -372,39 +282,9 @@
     "region": "southeastasia"
   },
   {
-    "ip_address": "4.193.8.0/21",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southeastasia",
-    "region": "southeastasia"
-  },
-  {
-    "ip_address": "4.193.16.0/20",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southeastasia",
-    "region": "southeastasia"
-  },
-  {
     "ip_address": "4.193.30.0/28",
     "ip_type": "IPv4",
     "service": "AzureMonitor.SoutheastAsia",
-    "region": "southeastasia"
-  },
-  {
-    "ip_address": "4.193.32.0/19",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southeastasia",
-    "region": "southeastasia"
-  },
-  {
-    "ip_address": "4.193.64.0/18",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southeastasia",
-    "region": "southeastasia"
-  },
-  {
-    "ip_address": "4.193.128.0/17",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southeastasia",
     "region": "southeastasia"
   },
   {
@@ -930,7 +810,73 @@
     "region": "southeastasia"
   },
   {
-    "ip_address": "20.6.0.0/17",
+    "ip_address": "20.6.0.0/19",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "20.6.32.0/20",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "20.6.48.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "20.6.56.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "20.6.58.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "20.6.58.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "20.6.58.96/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "20.6.58.112/30",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "20.6.58.116/31",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "20.6.58.120/29",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "20.6.58.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "20.6.59.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.southeastasia",
     "region": "southeastasia"
@@ -954,9 +900,51 @@
     "region": "southeastasia"
   },
   {
+    "ip_address": "20.6.60.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "20.6.61.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "20.6.61.128/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "20.6.61.160/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "20.6.61.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "20.6.62.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia",
+    "region": "southeastasia"
+  },
+  {
     "ip_address": "20.6.62.0/24",
     "ip_type": "IPv4",
     "service": "AzureMonitor.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "20.6.64.0/18",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia",
     "region": "southeastasia"
   },
   {
@@ -4182,7 +4170,7 @@
     "region": "southeastasia"
   },
   {
-    "ip_address": "57.155.0.0/16",
+    "ip_address": "57.155.0.0/17",
     "ip_type": "IPv4",
     "service": "AzureCloud.southeastasia",
     "region": "southeastasia"
@@ -4338,6 +4326,72 @@
     "region": "southeastasia"
   },
   {
+    "ip_address": "57.155.128.0/20",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "57.155.144.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "57.155.152.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "57.155.152.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "57.155.152.160/29",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "57.155.152.168/30",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "57.155.152.172/31",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "57.155.152.175/32",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "57.155.152.176/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "57.155.152.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "57.155.153.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia",
+    "region": "southeastasia"
+  },
+  {
     "ip_address": "57.155.153.0/27",
     "ip_type": "IPv4",
     "service": "Dynamics365ForMarketingEmail.SoutheastAsia",
@@ -4374,9 +4428,129 @@
     "region": "southeastasia"
   },
   {
+    "ip_address": "57.155.154.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "57.155.156.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "57.155.160.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "57.155.168.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "57.155.170.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "57.155.171.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "57.155.171.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "57.155.171.160/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "57.155.171.176/30",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "57.155.171.180/31",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "57.155.171.182/32",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "57.155.171.184/29",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "57.155.171.192/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "57.155.171.208/29",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "57.155.171.216/30",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "57.155.171.220/31",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "57.155.171.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "57.155.172.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia",
+    "region": "southeastasia"
+  },
+  {
     "ip_address": "57.155.172.64/26",
     "ip_type": "IPv4",
     "service": "AzureContainerRegistry.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "57.155.176.0/20",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "57.155.192.0/18",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia",
     "region": "southeastasia"
   },
   {
@@ -5487,6 +5661,12 @@
     "ip_address": "2603:1040:5:1e::40/124",
     "ip_type": "IPv6",
     "service": "AzureAttestation.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "2603:1040:5:23::100/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SoutheastAsia",
     "region": "southeastasia"
   },
   {

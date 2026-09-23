@@ -16,5 +16,7 @@ INSERT INTO `yandex_yandex-as215013_ips` (`ip_address`, `ip_type`) VALUES ('188.
 INSERT INTO `yandex_yandex-as215013_ips` (`ip_address`, `ip_type`) VALUES ('188.72.111.0/24', 'IPv4');
 INSERT INTO `yandex_yandex-as215013_ips` (`ip_address`, `ip_type`) VALUES ('188.72.112.0/24', 'IPv4');
 INSERT INTO `yandex_yandex-as215013_ips` (`ip_address`, `ip_type`) VALUES ('188.72.113.0/24', 'IPv4');
+INSERT INTO `yandex_yandex-as215013_ips` (`ip_address`, `ip_type`) VALUES ('2a0d:d6c7:10::/48', 'IPv6');
+INSERT INTO `yandex_yandex-as215013_ips` (`ip_address`, `ip_type`) VALUES ('2a0d:d6c7:11::/48', 'IPv6');
 INSERT INTO `yandex_yandex-as215013_ips` (`ip_address`, `ip_type`) VALUES ('2a0d:d6c7:14::/48', 'IPv6');
 INSERT INTO `yandex_yandex-as215013_ips` (`ip_address`, `ip_type`) VALUES ('2a0d:d6c7:15::/48', 'IPv6');

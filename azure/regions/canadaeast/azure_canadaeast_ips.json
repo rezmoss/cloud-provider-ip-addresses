@@ -546,7 +546,7 @@
     "region": "canadaeast"
   },
   {
-    "ip_address": "20.200.0.0/19",
+    "ip_address": "20.200.0.0/18",
     "ip_type": "IPv4",
     "service": "AzureCloud.canadaeast",
     "region": "canadaeast"
@@ -567,12 +567,6 @@
     "ip_address": "20.200.12.128/28",
     "ip_type": "IPv4",
     "service": "AzureMonitor.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "20.200.32.0/21",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.canadaeast",
     "region": "canadaeast"
   },
   {
@@ -615,66 +609,6 @@
     "ip_address": "20.200.35.18/32",
     "ip_type": "IPv4",
     "service": "AzureMachineLearning.CanadaEast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "20.200.40.0/22",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.canadaeast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "20.200.44.0/23",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.canadaeast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "20.200.46.1/32",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.canadaeast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "20.200.46.8/29",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.canadaeast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "20.200.46.16/28",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.canadaeast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "20.200.46.32/27",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.canadaeast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "20.200.46.64/26",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.canadaeast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "20.200.46.128/25",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.canadaeast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "20.200.47.0/24",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.canadaeast",
-    "region": "canadaeast"
-  },
-  {
-    "ip_address": "20.200.48.0/20",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.canadaeast",
     "region": "canadaeast"
   },
   {

@@ -408,12 +408,6 @@
     "region": "westindia"
   },
   {
-    "ip_address": "151.206.162.0/24",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.westindia",
-    "region": "westindia"
-  },
-  {
     "ip_address": "151.206.188.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.westindia",

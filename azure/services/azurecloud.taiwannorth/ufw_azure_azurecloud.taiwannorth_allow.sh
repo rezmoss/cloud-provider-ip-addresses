@@ -1,6 +1,6 @@
 #!/bin/bash
 # Azure IP Ranges
-# Updated: 2026-08-19 02:32:12
+# Updated: 2026-09-23 02:26:50
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -37,7 +37,19 @@ ufw allow from 48.212.56.0/24
 ufw allow from 48.212.184.0/24
 ufw allow from 48.213.57.0/24
 ufw allow from 51.5.58.0/24
-ufw allow from 51.53.0.0/18
+ufw allow from 51.53.0.0/19
+ufw allow from 51.53.32.0/20
+ufw allow from 51.53.48.0/22
+ufw allow from 51.53.52.0/24
+ufw allow from 51.53.53.0/26
+ufw allow from 51.53.53.64/28
+ufw allow from 51.53.53.80/29
+ufw allow from 51.53.53.88/30
+ufw allow from 51.53.53.94/31
+ufw allow from 51.53.53.96/27
+ufw allow from 51.53.53.128/25
+ufw allow from 51.53.54.0/23
+ufw allow from 51.53.56.0/21
 ufw allow from 51.53.64.0/19
 ufw allow from 51.53.96.0/20
 ufw allow from 51.53.112.0/21
@@ -57,7 +69,21 @@ ufw allow from 52.123.205.0/24
 ufw allow from 52.253.219.0/24
 ufw allow from 52.253.220.0/23
 ufw allow from 70.152.230.0/24
-ufw allow from 70.157.0.0/16
+ufw allow from 70.157.0.0/17
+ufw allow from 70.157.128.0/19
+ufw allow from 70.157.160.0/21
+ufw allow from 70.157.168.0/22
+ufw allow from 70.157.172.0/24
+ufw allow from 70.157.173.0/25
+ufw allow from 70.157.173.128/30
+ufw allow from 70.157.173.138/31
+ufw allow from 70.157.173.140/30
+ufw allow from 70.157.173.144/28
+ufw allow from 70.157.173.160/27
+ufw allow from 70.157.173.192/26
+ufw allow from 70.157.174.0/23
+ufw allow from 70.157.176.0/20
+ufw allow from 70.157.192.0/18
 ufw allow from 135.130.35.0/24
 ufw allow from 135.130.41.0/24
 ufw allow from 167.105.0.0/17

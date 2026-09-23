@@ -1,6 +1,6 @@
 # nhncloud IP ranges - ipset restore format (hash:net)
-# Version: 5 | Generated: 2026-09-22 | Last changed: 2026-09-19
-# IPv4: 91 merged subnets, 99328 unique IPs
+# Version: 6 | Generated: 2026-09-23 | Last changed: 2026-09-23
+# IPv4: 92 merged subnets, 99584 unique IPs
 # IPv6: 0 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
@@ -13,6 +13,7 @@ add nhncloud_v4 43.227.116.0/22
 add nhncloud_v4 43.254.244.0/24
 add nhncloud_v4 45.125.232.0/22
 add nhncloud_v4 45.249.160.0/22
+add nhncloud_v4 59.150.18.0/24
 add nhncloud_v4 59.150.32.0/22
 add nhncloud_v4 59.150.36.0/23
 add nhncloud_v4 61.42.226.0/24

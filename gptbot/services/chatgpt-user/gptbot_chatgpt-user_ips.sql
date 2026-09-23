@@ -110,6 +110,7 @@ INSERT INTO `gptbot_chatgpt-user_ips` (`ip_address`, `ip_type`) VALUES ('40.81.2
 INSERT INTO `gptbot_chatgpt-user_ips` (`ip_address`, `ip_type`) VALUES ('40.84.221.208/28', 'IPv4');
 INSERT INTO `gptbot_chatgpt-user_ips` (`ip_address`, `ip_type`) VALUES ('40.84.221.224/28', 'IPv4');
 INSERT INTO `gptbot_chatgpt-user_ips` (`ip_address`, `ip_type`) VALUES ('40.116.73.208/28', 'IPv4');
+INSERT INTO `gptbot_chatgpt-user_ips` (`ip_address`, `ip_type`) VALUES ('40.124.161.0/28', 'IPv4');
 INSERT INTO `gptbot_chatgpt-user_ips` (`ip_address`, `ip_type`) VALUES ('48.221.40.176/28', 'IPv4');
 INSERT INTO `gptbot_chatgpt-user_ips` (`ip_address`, `ip_type`) VALUES ('48.221.184.80/28', 'IPv4');
 INSERT INTO `gptbot_chatgpt-user_ips` (`ip_address`, `ip_type`) VALUES ('48.221.184.96/28', 'IPv4');
@@ -181,6 +182,7 @@ INSERT INTO `gptbot_chatgpt-user_ips` (`ip_address`, `ip_type`) VALUES ('104.210
 INSERT INTO `gptbot_chatgpt-user_ips` (`ip_address`, `ip_type`) VALUES ('104.210.139.224/28', 'IPv4');
 INSERT INTO `gptbot_chatgpt-user_ips` (`ip_address`, `ip_type`) VALUES ('128.85.198.32/28', 'IPv4');
 INSERT INTO `gptbot_chatgpt-user_ips` (`ip_address`, `ip_type`) VALUES ('132.196.82.48/28', 'IPv4');
+INSERT INTO `gptbot_chatgpt-user_ips` (`ip_address`, `ip_type`) VALUES ('134.33.102.192/28', 'IPv4');
 INSERT INTO `gptbot_chatgpt-user_ips` (`ip_address`, `ip_type`) VALUES ('134.138.52.16/28', 'IPv4');
 INSERT INTO `gptbot_chatgpt-user_ips` (`ip_address`, `ip_type`) VALUES ('134.138.52.64/28', 'IPv4');
 INSERT INTO `gptbot_chatgpt-user_ips` (`ip_address`, `ip_type`) VALUES ('134.138.52.96/28', 'IPv4');
@@ -205,6 +207,7 @@ INSERT INTO `gptbot_chatgpt-user_ips` (`ip_address`, `ip_type`) VALUES ('172.162
 INSERT INTO `gptbot_chatgpt-user_ips` (`ip_address`, `ip_type`) VALUES ('172.170.1.80/28', 'IPv4');
 INSERT INTO `gptbot_chatgpt-user_ips` (`ip_address`, `ip_type`) VALUES ('172.170.225.0/28', 'IPv4');
 INSERT INTO `gptbot_chatgpt-user_ips` (`ip_address`, `ip_type`) VALUES ('172.170.241.80/28', 'IPv4');
+INSERT INTO `gptbot_chatgpt-user_ips` (`ip_address`, `ip_type`) VALUES ('172.172.206.48/28', 'IPv4');
 INSERT INTO `gptbot_chatgpt-user_ips` (`ip_address`, `ip_type`) VALUES ('172.175.152.224/28', 'IPv4');
 INSERT INTO `gptbot_chatgpt-user_ips` (`ip_address`, `ip_type`) VALUES ('172.178.140.144/28', 'IPv4');
 INSERT INTO `gptbot_chatgpt-user_ips` (`ip_address`, `ip_type`) VALUES ('172.178.141.112/28', 'IPv4');
@@ -222,6 +225,7 @@ INSERT INTO `gptbot_chatgpt-user_ips` (`ip_address`, `ip_type`) VALUES ('172.199
 INSERT INTO `gptbot_chatgpt-user_ips` (`ip_address`, `ip_type`) VALUES ('172.204.28.224/28', 'IPv4');
 INSERT INTO `gptbot_chatgpt-user_ips` (`ip_address`, `ip_type`) VALUES ('172.204.96.80/28', 'IPv4');
 INSERT INTO `gptbot_chatgpt-user_ips` (`ip_address`, `ip_type`) VALUES ('172.205.189.192/28', 'IPv4');
+INSERT INTO `gptbot_chatgpt-user_ips` (`ip_address`, `ip_type`) VALUES ('172.206.38.240/28', 'IPv4');
 INSERT INTO `gptbot_chatgpt-user_ips` (`ip_address`, `ip_type`) VALUES ('172.207.1.32/28', 'IPv4');
 INSERT INTO `gptbot_chatgpt-user_ips` (`ip_address`, `ip_type`) VALUES ('172.212.172.160/28', 'IPv4');
 INSERT INTO `gptbot_chatgpt-user_ips` (`ip_address`, `ip_type`) VALUES ('172.215.215.32/28', 'IPv4');

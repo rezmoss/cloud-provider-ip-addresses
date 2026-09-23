@@ -36,7 +36,7 @@
     "region": "southeastus"
   },
   {
-    "ip_address": "20.20.68.96/31",
+    "ip_address": "20.20.68.96/30",
     "ip_type": "IPv4",
     "service": "AzureCloud.southeastus",
     "region": "southeastus"
@@ -1002,7 +1002,7 @@
     "region": "southeastus"
   },
   {
-    "ip_address": "2603:1061:1011:28::/64",
+    "ip_address": "2603:1061:1011:28::/63",
     "ip_type": "IPv6",
     "service": "AzureCloud.southeastus",
     "region": "southeastus"

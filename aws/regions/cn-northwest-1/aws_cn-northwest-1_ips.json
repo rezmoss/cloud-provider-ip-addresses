@@ -1252,5 +1252,17 @@
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "2600:f0f3:f010:3200::/56",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "cn-northwest-1"
+  },
+  {
+    "ip_address": "2600:f0f3:f010:3200::/56",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "cn-northwest-1"
   }
 ]

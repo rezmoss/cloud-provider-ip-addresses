@@ -92,7 +92,7 @@ ip_address,ip_type,service,region
 74.7.83.48/28,IPv4,AzureMonitor.SoutheastUS3,southeastus3
 74.7.113.168/29,IPv4,AzureAttestation.SoutheastUS3,southeastus3
 74.7.114.16/30,IPv4,AzureAttestation.SoutheastUS3,southeastus3
-74.7.120.0/27,IPv4,AzureMonitor.SoutheastUS3,southeastus3
+74.7.120.0/26,IPv4,AzureMonitor.SoutheastUS3,southeastus3
 135.130.124.0/23,IPv4,AzureCloud.southeastus3,southeastus3
 135.130.124.0/23,IPv4,Storage.SoutheastUS3,southeastus3
 135.130.144.0/23,IPv4,AzureCloud.southeastus3,southeastus3

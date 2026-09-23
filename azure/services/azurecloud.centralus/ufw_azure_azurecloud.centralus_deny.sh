@@ -1,6 +1,6 @@
 #!/bin/bash
 # Azure IP Ranges
-# Updated: 2026-09-16 02:25:26
+# Updated: 2026-09-23 02:26:41
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -367,7 +367,7 @@ ufw deny from 40.123.169.108/30
 ufw deny from 40.123.169.112/28
 ufw deny from 40.123.169.140/30
 ufw deny from 40.123.169.144/29
-ufw deny from 40.123.169.152/31
+ufw deny from 40.123.169.152/30
 ufw deny from 40.123.169.160/29
 ufw deny from 40.123.169.180/30
 ufw deny from 40.123.169.184/29
@@ -593,33 +593,8 @@ ufw deny from 57.163.22.0/23
 ufw deny from 57.163.28.0/23
 ufw deny from 57.163.40.0/23
 ufw deny from 57.165.128.0/17
-ufw deny from 57.167.0.0/18
-ufw deny from 57.167.64.0/19
-ufw deny from 57.167.96.0/20
-ufw deny from 57.167.112.0/21
-ufw deny from 57.167.120.0/22
-ufw deny from 57.167.124.0/24
-ufw deny from 57.167.125.0/26
-ufw deny from 57.167.125.64/27
-ufw deny from 57.167.125.96/28
-ufw deny from 57.167.125.112/29
-ufw deny from 57.167.125.121/32
-ufw deny from 57.167.125.122/31
-ufw deny from 57.167.125.128/25
-ufw deny from 57.167.126.0/27
-ufw deny from 57.167.126.44/30
-ufw deny from 57.167.126.48/28
-ufw deny from 57.167.126.64/26
-ufw deny from 57.167.126.128/25
-ufw deny from 57.167.127.0/24
-ufw deny from 57.175.0.0/18
-ufw deny from 57.175.64.0/19
-ufw deny from 57.175.96.0/22
-ufw deny from 57.175.100.0/23
-ufw deny from 57.175.102.192/26
-ufw deny from 57.175.103.0/24
-ufw deny from 57.175.104.0/21
-ufw deny from 57.175.112.0/20
+ufw deny from 57.167.0.0/17
+ufw deny from 57.175.0.0/17
 ufw deny from 64.236.0.0/17
 ufw deny from 65.55.144.0/23
 ufw deny from 65.55.146.0/24
@@ -686,7 +661,19 @@ ufw deny from 168.61.208.0/20
 ufw deny from 172.131.0.0/16
 ufw deny from 172.134.0.0/17
 ufw deny from 172.168.0.0/15
-ufw deny from 172.170.0.0/16
+ufw deny from 172.170.0.0/18
+ufw deny from 172.170.64.0/19
+ufw deny from 172.170.96.0/20
+ufw deny from 172.170.112.0/21
+ufw deny from 172.170.120.0/23
+ufw deny from 172.170.122.0/24
+ufw deny from 172.170.123.0/27
+ufw deny from 172.170.123.32/29
+ufw deny from 172.170.123.40/30
+ufw deny from 172.170.123.64/26
+ufw deny from 172.170.123.128/25
+ufw deny from 172.170.124.0/22
+ufw deny from 172.170.128.0/17
 ufw deny from 172.171.0.0/19
 ufw deny from 172.173.8.0/21
 ufw deny from 172.173.64.0/18
@@ -713,6 +700,7 @@ ufw deny from 2603:1030:9:b8::/63
 ufw deny from 2603:1030:9:bb::/64
 ufw deny from 2603:1030:9:bc::/62
 ufw deny from 2603:1030:9:c0::/60
+ufw deny from 2603:1030:9:d1::/64
 ufw deny from 2603:1030:9:d2::/64
 ufw deny from 2603:1030:9:d6::/63
 ufw deny from 2603:1030:9:d8::/61

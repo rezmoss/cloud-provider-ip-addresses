@@ -198,6 +198,12 @@
     "region": "westus"
   },
   {
+    "ip_address": "74.146.46.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.WestUS",
+    "region": "westus"
+  },
+  {
     "ip_address": "104.42.40.28/32",
     "ip_type": "IPv4",
     "service": "AzureMonitor.WestUS",
@@ -283,6 +289,12 @@
   },
   {
     "ip_address": "2603:1030:a07:29::/118",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.WestUS",
+    "region": "westus"
+  },
+  {
+    "ip_address": "2603:1030:a07:30::2c0/122",
     "ip_type": "IPv6",
     "service": "AzureMonitor.WestUS",
     "region": "westus"

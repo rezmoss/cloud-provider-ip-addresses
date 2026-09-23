@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "4.252.13.64/26",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.EastAsia",
+    "region": "eastasia"
+  },
+  {
     "ip_address": "13.75.36.8/29",
     "ip_type": "IPv4",
     "service": "GatewayManager.EastAsia",

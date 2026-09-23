@@ -8,21 +8,7 @@ CREATE TABLE IF NOT EXISTS `azure_azurecloud.norwaye_ips` (
 
 INSERT INTO `azure_azurecloud.norwaye_ips` (`ip_address`, `ip_type`) VALUES ('4.177.0.0/16', 'IPv4');
 INSERT INTO `azure_azurecloud.norwaye_ips` (`ip_address`, `ip_type`) VALUES ('4.179.0.0/16', 'IPv4');
-INSERT INTO `azure_azurecloud.norwaye_ips` (`ip_address`, `ip_type`) VALUES ('4.219.0.0/20', 'IPv4');
-INSERT INTO `azure_azurecloud.norwaye_ips` (`ip_address`, `ip_type`) VALUES ('4.219.16.0/21', 'IPv4');
-INSERT INTO `azure_azurecloud.norwaye_ips` (`ip_address`, `ip_type`) VALUES ('4.219.24.0/22', 'IPv4');
-INSERT INTO `azure_azurecloud.norwaye_ips` (`ip_address`, `ip_type`) VALUES ('4.219.28.0/23', 'IPv4');
-INSERT INTO `azure_azurecloud.norwaye_ips` (`ip_address`, `ip_type`) VALUES ('4.219.30.0/24', 'IPv4');
-INSERT INTO `azure_azurecloud.norwaye_ips` (`ip_address`, `ip_type`) VALUES ('4.219.31.0/26', 'IPv4');
-INSERT INTO `azure_azurecloud.norwaye_ips` (`ip_address`, `ip_type`) VALUES ('4.219.31.64/27', 'IPv4');
-INSERT INTO `azure_azurecloud.norwaye_ips` (`ip_address`, `ip_type`) VALUES ('4.219.31.96/28', 'IPv4');
-INSERT INTO `azure_azurecloud.norwaye_ips` (`ip_address`, `ip_type`) VALUES ('4.219.31.112/30', 'IPv4');
-INSERT INTO `azure_azurecloud.norwaye_ips` (`ip_address`, `ip_type`) VALUES ('4.219.31.122/31', 'IPv4');
-INSERT INTO `azure_azurecloud.norwaye_ips` (`ip_address`, `ip_type`) VALUES ('4.219.31.124/30', 'IPv4');
-INSERT INTO `azure_azurecloud.norwaye_ips` (`ip_address`, `ip_type`) VALUES ('4.219.31.128/25', 'IPv4');
-INSERT INTO `azure_azurecloud.norwaye_ips` (`ip_address`, `ip_type`) VALUES ('4.219.32.0/19', 'IPv4');
-INSERT INTO `azure_azurecloud.norwaye_ips` (`ip_address`, `ip_type`) VALUES ('4.219.64.0/18', 'IPv4');
-INSERT INTO `azure_azurecloud.norwaye_ips` (`ip_address`, `ip_type`) VALUES ('4.219.128.0/17', 'IPv4');
+INSERT INTO `azure_azurecloud.norwaye_ips` (`ip_address`, `ip_type`) VALUES ('4.219.0.0/16', 'IPv4');
 INSERT INTO `azure_azurecloud.norwaye_ips` (`ip_address`, `ip_type`) VALUES ('4.220.0.0/17', 'IPv4');
 INSERT INTO `azure_azurecloud.norwaye_ips` (`ip_address`, `ip_type`) VALUES ('4.235.0.0/16', 'IPv4');
 INSERT INTO `azure_azurecloud.norwaye_ips` (`ip_address`, `ip_type`) VALUES ('13.104.155.32/27', 'IPv4');

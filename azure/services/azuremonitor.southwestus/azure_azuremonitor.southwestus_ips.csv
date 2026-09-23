@@ -1,5 +1,6 @@
 ip_address,ip_type,service,region
 48.219.91.224/27,IPv4,AzureMonitor.SouthwestUS,southwestus
+48.219.96.128/27,IPv4,AzureMonitor.SouthwestUS,southwestus
 48.219.203.242/31,IPv4,AzureMonitor.SouthwestUS,southwestus
 48.219.205.208/29,IPv4,AzureMonitor.SouthwestUS,southwestus
 48.219.205.216/30,IPv4,AzureMonitor.SouthwestUS,southwestus

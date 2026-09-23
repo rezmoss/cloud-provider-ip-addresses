@@ -210,6 +210,12 @@
     "region": "westcentralus"
   },
   {
+    "ip_address": "57.163.84.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
     "ip_address": "135.130.34.192/27",
     "ip_type": "IPv4",
     "service": "Storage.WestCentralUS",
@@ -271,6 +277,12 @@
   },
   {
     "ip_address": "145.190.192.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "145.190.194.0/24",
     "ip_type": "IPv4",
     "service": "Storage.WestCentralUS",
     "region": "westcentralus"

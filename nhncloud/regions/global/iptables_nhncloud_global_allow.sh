@@ -1,6 +1,6 @@
 #!/bin/bash
 # Nhncloud IP Ranges
-# Updated: 2026-09-19 02:32:17
+# Updated: 2026-09-23 02:33:48
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -12,6 +12,7 @@ iptables -A INPUT -s 43.227.116.0/22 -j ACCEPT
 iptables -A INPUT -s 43.254.244.0/24 -j ACCEPT
 iptables -A INPUT -s 45.125.232.0/22 -j ACCEPT
 iptables -A INPUT -s 45.249.160.0/22 -j ACCEPT
+iptables -A INPUT -s 59.150.18.0/24 -j ACCEPT
 iptables -A INPUT -s 59.150.32.0/22 -j ACCEPT
 iptables -A INPUT -s 59.150.36.0/23 -j ACCEPT
 iptables -A INPUT -s 61.42.226.0/24 -j ACCEPT

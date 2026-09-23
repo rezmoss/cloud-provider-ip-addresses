@@ -216,7 +216,7 @@
     "region": "southfrance"
   },
   {
-    "ip_address": "20.111.64.0/18",
+    "ip_address": "20.111.64.0/21",
     "ip_type": "IPv4",
     "service": "AzureCloud.southfrance",
     "region": "southfrance"
@@ -231,6 +231,12 @@
     "ip_address": "20.111.71.160/28",
     "ip_type": "IPv4",
     "service": "AzureMonitor.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "20.111.72.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southfrance",
     "region": "southfrance"
   },
   {
@@ -255,6 +261,12 @@
     "ip_address": "20.111.72.136/29",
     "ip_type": "IPv4",
     "service": "AzureArcInfrastructure.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "20.111.76.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southfrance",
     "region": "southfrance"
   },
   {
@@ -288,6 +300,12 @@
     "region": "southfrance"
   },
   {
+    "ip_address": "20.111.78.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southfrance",
+    "region": "southfrance"
+  },
+  {
     "ip_address": "20.111.78.0/29",
     "ip_type": "IPv4",
     "service": "AzureMonitor.FranceSouth",
@@ -297,6 +315,30 @@
     "ip_address": "20.111.78.8/30",
     "ip_type": "IPv4",
     "service": "AzureMonitor.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "20.111.78.144/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southfrance",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "20.111.78.160/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southfrance",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "20.111.78.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southfrance",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "20.111.79.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southfrance",
     "region": "southfrance"
   },
   {
@@ -315,6 +357,12 @@
     "ip_address": "20.111.79.112/28",
     "ip_type": "IPv4",
     "service": "LogicApps.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "20.111.80.0/20",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southfrance",
     "region": "southfrance"
   },
   {
@@ -345,6 +393,12 @@
     "ip_address": "20.111.89.64/27",
     "ip_type": "IPv4",
     "service": "AzureSecurityCenter.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "20.111.96.0/19",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southfrance",
     "region": "southfrance"
   },
   {
@@ -1650,13 +1704,7 @@
     "region": "southfrance"
   },
   {
-    "ip_address": "98.66.0.0/21",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southfrance",
-    "region": "southfrance"
-  },
-  {
-    "ip_address": "98.66.8.0/24",
+    "ip_address": "98.66.0.0/17",
     "ip_type": "IPv4",
     "service": "AzureCloud.southfrance",
     "region": "southfrance"
@@ -1674,87 +1722,9 @@
     "region": "southfrance"
   },
   {
-    "ip_address": "98.66.9.0/25",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southfrance",
-    "region": "southfrance"
-  },
-  {
-    "ip_address": "98.66.9.128/28",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southfrance",
-    "region": "southfrance"
-  },
-  {
-    "ip_address": "98.66.9.144/29",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southfrance",
-    "region": "southfrance"
-  },
-  {
-    "ip_address": "98.66.9.152/30",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southfrance",
-    "region": "southfrance"
-  },
-  {
-    "ip_address": "98.66.9.157/32",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southfrance",
-    "region": "southfrance"
-  },
-  {
-    "ip_address": "98.66.9.160/27",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southfrance",
-    "region": "southfrance"
-  },
-  {
-    "ip_address": "98.66.9.192/27",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southfrance",
-    "region": "southfrance"
-  },
-  {
-    "ip_address": "98.66.9.224/28",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southfrance",
-    "region": "southfrance"
-  },
-  {
-    "ip_address": "98.66.9.244/30",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southfrance",
-    "region": "southfrance"
-  },
-  {
-    "ip_address": "98.66.9.248/29",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southfrance",
-    "region": "southfrance"
-  },
-  {
-    "ip_address": "98.66.10.0/23",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southfrance",
-    "region": "southfrance"
-  },
-  {
-    "ip_address": "98.66.12.0/22",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southfrance",
-    "region": "southfrance"
-  },
-  {
     "ip_address": "98.66.12.0/22",
     "ip_type": "IPv4",
     "service": "AzureEventGrid.FranceSouth",
-    "region": "southfrance"
-  },
-  {
-    "ip_address": "98.66.16.0/20",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southfrance",
     "region": "southfrance"
   },
   {
@@ -1794,12 +1764,6 @@
     "region": "southfrance"
   },
   {
-    "ip_address": "98.66.32.0/19",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southfrance",
-    "region": "southfrance"
-  },
-  {
     "ip_address": "98.66.37.152/29",
     "ip_type": "IPv4",
     "service": "ApiManagement.FranceSouth",
@@ -1833,18 +1797,6 @@
     "ip_address": "98.66.38.0/30",
     "ip_type": "IPv4",
     "service": "AzureAttestation.FranceSouth",
-    "region": "southfrance"
-  },
-  {
-    "ip_address": "98.66.64.0/18",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southfrance",
-    "region": "southfrance"
-  },
-  {
-    "ip_address": "151.206.168.0/24",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southfrance",
     "region": "southfrance"
   },
   {

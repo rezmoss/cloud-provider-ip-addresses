@@ -41,6 +41,7 @@ INSERT INTO `azure_storage.westcentralus_ips` (`ip_address`, `ip_type`) VALUES (
 INSERT INTO `azure_storage.westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('52.239.244.0/23', 'IPv4');
 INSERT INTO `azure_storage.westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('57.163.30.0/23', 'IPv4');
 INSERT INTO `azure_storage.westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('57.163.50.0/23', 'IPv4');
+INSERT INTO `azure_storage.westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('57.163.84.0/23', 'IPv4');
 INSERT INTO `azure_storage.westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('135.130.34.192/27', 'IPv4');
 INSERT INTO `azure_storage.westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('135.130.34.224/27', 'IPv4');
 INSERT INTO `azure_storage.westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('135.130.60.0/23', 'IPv4');
@@ -52,5 +53,6 @@ INSERT INTO `azure_storage.westcentralus_ips` (`ip_address`, `ip_type`) VALUES (
 INSERT INTO `azure_storage.westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('145.190.137.0/24', 'IPv4');
 INSERT INTO `azure_storage.westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('145.190.177.0/24', 'IPv4');
 INSERT INTO `azure_storage.westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('145.190.192.0/24', 'IPv4');
+INSERT INTO `azure_storage.westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('145.190.194.0/24', 'IPv4');
 INSERT INTO `azure_storage.westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:b06::/49', 'IPv6');
 INSERT INTO `azure_storage.westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:b06:8000::/63', 'IPv6');

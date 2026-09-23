@@ -966,6 +966,12 @@
     "region": "malaysiasouth"
   },
   {
+    "ip_address": "52.123.93.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.malaysiasouth",
+    "region": "malaysiasouth"
+  },
+  {
     "ip_address": "52.123.207.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.malaysiasouth",

@@ -85,22 +85,7 @@
     "service": "gptbot"
   },
   {
-    "ip_address": "172.182.204.0/24",
-    "ip_type": "IPv4",
-    "service": "gptbot"
-  },
-  {
     "ip_address": "172.182.207.0/25",
-    "ip_type": "IPv4",
-    "service": "gptbot"
-  },
-  {
-    "ip_address": "172.182.214.0/24",
-    "ip_type": "IPv4",
-    "service": "gptbot"
-  },
-  {
-    "ip_address": "172.182.215.0/24",
     "ip_type": "IPv4",
     "service": "gptbot"
   }

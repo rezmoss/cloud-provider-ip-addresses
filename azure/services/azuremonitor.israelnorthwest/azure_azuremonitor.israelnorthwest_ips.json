@@ -54,6 +54,12 @@
     "region": "israelnorthwest"
   },
   {
+    "ip_address": "51.58.174.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.IsraelNorthwest",
+    "region": "israelnorthwest"
+  },
+  {
     "ip_address": "2603:1040:1701:d::d/128",
     "ip_type": "IPv6",
     "service": "AzureMonitor.IsraelNorthwest",
@@ -79,6 +85,12 @@
   },
   {
     "ip_address": "2603:1040:1702:6::400/118",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.IsraelNorthwest",
+    "region": "israelnorthwest"
+  },
+  {
+    "ip_address": "2603:1040:1702:a::80/122",
     "ip_type": "IPv6",
     "service": "AzureMonitor.IsraelNorthwest",
     "region": "israelnorthwest"

@@ -8,14 +8,10 @@ CREATE TABLE IF NOT EXISTS `azure_southafricanorth_ips` (
 
 INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('4.167.0.0/16', 'IPv4');
 INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('4.168.0.0/16', 'IPv4');
-INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('4.221.0.0/17', 'IPv4');
+INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('4.221.0.0/16', 'IPv4');
 INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('4.221.45.192/28', 'IPv4');
 INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('4.221.45.232/29', 'IPv4');
-INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('4.221.128.0/18', 'IPv4');
-INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('4.221.192.0/19', 'IPv4');
 INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('4.221.222.48/28', 'IPv4');
-INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('4.221.224.0/21', 'IPv4');
-INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('4.221.232.0/22', 'IPv4');
 INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('4.221.233.2/32', 'IPv4');
 INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('4.221.233.3/32', 'IPv4');
 INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('4.221.233.96/27', 'IPv4');
@@ -24,18 +20,9 @@ INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('4.22
 INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('4.221.233.187/32', 'IPv4');
 INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('4.221.234.32/27', 'IPv4');
 INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('4.221.234.64/28', 'IPv4');
-INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('4.221.236.0/23', 'IPv4');
 INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('4.221.237.84/30', 'IPv4');
 INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('4.221.237.112/28', 'IPv4');
-INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('4.221.238.0/24', 'IPv4');
 INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('4.221.238.152/29', 'IPv4');
-INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('4.221.239.0/25', 'IPv4');
-INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('4.221.239.128/26', 'IPv4');
-INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('4.221.239.192/29', 'IPv4');
-INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('4.221.239.200/31', 'IPv4');
-INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('4.221.239.208/28', 'IPv4');
-INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('4.221.239.224/27', 'IPv4');
-INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('4.221.240.0/20', 'IPv4');
 INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('4.221.250.0/23', 'IPv4');
 INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('4.221.252.0/22', 'IPv4');
 INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('4.222.0.0/16', 'IPv4');
@@ -422,7 +409,6 @@ INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('102.
 INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('102.133.254.218/31', 'IPv4');
 INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('102.133.254.224/29', 'IPv4');
 INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('151.206.113.0/24', 'IPv4');
-INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('151.206.145.0/24', 'IPv4');
 INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('151.206.171.0/24', 'IPv4');
 INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('172.209.128.0/17', 'IPv4');
 INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('172.209.168.0/22', 'IPv4');

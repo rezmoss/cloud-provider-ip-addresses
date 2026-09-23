@@ -1,6 +1,6 @@
 #!/bin/bash
 # Azure IP Ranges
-# Updated: 2026-09-16 02:25:56
+# Updated: 2026-09-23 02:27:11
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -73,6 +73,7 @@ iptables -A INPUT -s 52.108.192.0/24 -j ACCEPT
 iptables -A INPUT -s 52.108.230.0/23 -j ACCEPT
 iptables -A INPUT -s 52.109.60.0/22 -j ACCEPT
 iptables -A INPUT -s 52.111.241.0/24 -j ACCEPT
+iptables -A INPUT -s 52.112.7.0/24 -j ACCEPT
 iptables -A INPUT -s 52.112.162.0/24 -j ACCEPT
 iptables -A INPUT -s 52.114.24.0/22 -j ACCEPT
 iptables -A INPUT -s 52.115.244.0/23 -j ACCEPT
@@ -94,20 +95,7 @@ iptables -A INPUT -s 57.171.21.0/24 -j ACCEPT
 iptables -A INPUT -s 70.152.25.0/24 -j ACCEPT
 iptables -A INPUT -s 70.152.58.0/23 -j ACCEPT
 iptables -A INPUT -s 70.152.60.0/24 -j ACCEPT
-iptables -A INPUT -s 74.224.0.0/17 -j ACCEPT
-iptables -A INPUT -s 74.224.128.0/18 -j ACCEPT
-iptables -A INPUT -s 74.224.192.0/19 -j ACCEPT
-iptables -A INPUT -s 74.224.224.0/22 -j ACCEPT
-iptables -A INPUT -s 74.224.228.0/25 -j ACCEPT
-iptables -A INPUT -s 74.224.228.128/26 -j ACCEPT
-iptables -A INPUT -s 74.224.228.192/28 -j ACCEPT
-iptables -A INPUT -s 74.224.228.208/29 -j ACCEPT
-iptables -A INPUT -s 74.224.228.222/31 -j ACCEPT
-iptables -A INPUT -s 74.224.228.224/27 -j ACCEPT
-iptables -A INPUT -s 74.224.229.0/24 -j ACCEPT
-iptables -A INPUT -s 74.224.230.0/23 -j ACCEPT
-iptables -A INPUT -s 74.224.232.0/21 -j ACCEPT
-iptables -A INPUT -s 74.224.240.0/20 -j ACCEPT
+iptables -A INPUT -s 74.224.0.0/16 -j ACCEPT
 iptables -A INPUT -s 74.225.0.0/18 -j ACCEPT
 iptables -A INPUT -s 104.44.92.160/27 -j ACCEPT
 iptables -A INPUT -s 104.44.94.208/28 -j ACCEPT
@@ -115,7 +103,6 @@ iptables -A INPUT -s 104.47.214.0/23 -j ACCEPT
 iptables -A INPUT -s 104.211.192.0/18 -j ACCEPT
 iptables -A INPUT -s 135.13.0.0/17 -j ACCEPT
 iptables -A INPUT -s 151.206.70.0/25 -j ACCEPT
-iptables -A INPUT -s 151.206.147.0/24 -j ACCEPT
 iptables -A INPUT -s 151.206.173.0/24 -j ACCEPT
 ip6tables -A INPUT -s 2603:1040:c00::/46 -j ACCEPT
 ip6tables -A INPUT -s 2603:1040:c05::/48 -j ACCEPT

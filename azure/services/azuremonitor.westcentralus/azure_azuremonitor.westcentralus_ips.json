@@ -162,6 +162,12 @@
     "region": "westcentralus"
   },
   {
+    "ip_address": "74.159.69.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
     "ip_address": "172.215.203.88/29",
     "ip_type": "IPv4",
     "service": "AzureMonitor.WestCentralUS",
@@ -313,6 +319,12 @@
   },
   {
     "ip_address": "2603:1030:b04:12::600/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:17::540/122",
     "ip_type": "IPv6",
     "service": "AzureMonitor.WestCentralUS",
     "region": "westcentralus"

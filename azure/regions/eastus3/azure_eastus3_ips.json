@@ -270,6 +270,12 @@
     "region": "eastus3"
   },
   {
+    "ip_address": "51.57.211.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.EastUS3",
+    "region": "eastus3"
+  },
+  {
     "ip_address": "52.106.121.0/27",
     "ip_type": "IPv4",
     "service": "AzureCloud.eastus3",

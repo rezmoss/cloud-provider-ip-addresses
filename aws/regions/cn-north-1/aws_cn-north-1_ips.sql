@@ -220,3 +220,5 @@ INSERT INTO `aws_cn-north-1_ips` (`ip_address`, `ip_type`) VALUES ('240f:80fc:80
 INSERT INTO `aws_cn-north-1_ips` (`ip_address`, `ip_type`) VALUES ('240f:80fe:8000::/40', 'IPv6');
 INSERT INTO `aws_cn-north-1_ips` (`ip_address`, `ip_type`) VALUES ('240f:80ff:8000::/40', 'IPv6');
 INSERT INTO `aws_cn-north-1_ips` (`ip_address`, `ip_type`) VALUES ('240f:80ff:8000::/40', 'IPv6');
+INSERT INTO `aws_cn-north-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f3:f010:a00::/56', 'IPv6');
+INSERT INTO `aws_cn-north-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f3:f010:a00::/56', 'IPv6');

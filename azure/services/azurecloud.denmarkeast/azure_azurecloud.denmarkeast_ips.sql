@@ -7,7 +7,19 @@ CREATE TABLE IF NOT EXISTS `azure_azurecloud.denmarkeast_ips` (
 );
 
 INSERT INTO `azure_azurecloud.denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('9.129.59.0/24', 'IPv4');
-INSERT INTO `azure_azurecloud.denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('9.205.0.0/16', 'IPv4');
+INSERT INTO `azure_azurecloud.denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('9.205.0.0/19', 'IPv4');
+INSERT INTO `azure_azurecloud.denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('9.205.32.0/20', 'IPv4');
+INSERT INTO `azure_azurecloud.denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('9.205.48.0/23', 'IPv4');
+INSERT INTO `azure_azurecloud.denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('9.205.50.0/24', 'IPv4');
+INSERT INTO `azure_azurecloud.denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('9.205.51.0/25', 'IPv4');
+INSERT INTO `azure_azurecloud.denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('9.205.51.128/26', 'IPv4');
+INSERT INTO `azure_azurecloud.denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('9.205.51.192/27', 'IPv4');
+INSERT INTO `azure_azurecloud.denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('9.205.51.224/28', 'IPv4');
+INSERT INTO `azure_azurecloud.denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('9.205.51.240/29', 'IPv4');
+INSERT INTO `azure_azurecloud.denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('9.205.52.0/22', 'IPv4');
+INSERT INTO `azure_azurecloud.denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('9.205.56.0/21', 'IPv4');
+INSERT INTO `azure_azurecloud.denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('9.205.64.0/18', 'IPv4');
+INSERT INTO `azure_azurecloud.denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('9.205.128.0/17', 'IPv4');
 INSERT INTO `azure_azurecloud.denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('20.20.48.224/27', 'IPv4');
 INSERT INTO `azure_azurecloud.denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('20.20.52.0/27', 'IPv4');
 INSERT INTO `azure_azurecloud.denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('20.20.55.128/27', 'IPv4');

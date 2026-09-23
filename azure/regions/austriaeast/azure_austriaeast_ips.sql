@@ -50,7 +50,7 @@ INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('57.150.11
 INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('57.150.117.0/24', 'IPv4');
 INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('57.150.120.0/22', 'IPv4');
 INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('57.150.120.0/22', 'IPv4');
-INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('68.210.0.0/16', 'IPv4');
+INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('68.210.0.0/17', 'IPv4');
 INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('68.210.1.0/29', 'IPv4');
 INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('68.210.28.0/27', 'IPv4');
 INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('68.210.29.64/32', 'IPv4');
@@ -67,6 +67,7 @@ INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('68.210.60
 INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('68.210.60.32/27', 'IPv4');
 INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('68.210.62.16/28', 'IPv4');
 INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('68.210.62.32/29', 'IPv4');
+INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('68.210.128.0/19', 'IPv4');
 INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('68.210.152.0/29', 'IPv4');
 INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('68.210.152.12/30', 'IPv4');
 INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('68.210.152.16/29', 'IPv4');
@@ -85,6 +86,7 @@ INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('68.210.15
 INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('68.210.156.32/28', 'IPv4');
 INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('68.210.156.48/28', 'IPv4');
 INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('68.210.156.64/27', 'IPv4');
+INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('68.210.160.0/20', 'IPv4');
 INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('68.210.160.16/30', 'IPv4');
 INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('68.210.160.20/30', 'IPv4');
 INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('68.210.160.40/29', 'IPv4');
@@ -119,6 +121,7 @@ INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('68.210.17
 INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('68.210.175.32/27', 'IPv4');
 INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('68.210.175.64/26', 'IPv4');
 INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('68.210.175.184/29', 'IPv4');
+INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('68.210.176.0/22', 'IPv4');
 INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('68.210.176.0/23', 'IPv4');
 INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('68.210.179.0/27', 'IPv4');
 INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('68.210.179.32/29', 'IPv4');
@@ -126,12 +129,21 @@ INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('68.210.17
 INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('68.210.179.88/30', 'IPv4');
 INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('68.210.179.92/30', 'IPv4');
 INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('68.210.179.128/27', 'IPv4');
+INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('68.210.180.0/23', 'IPv4');
+INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('68.210.182.0/24', 'IPv4');
 INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('68.210.182.48/28', 'IPv4');
 INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('68.210.182.64/26', 'IPv4');
 INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('68.210.182.192/28', 'IPv4');
+INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('68.210.183.0/26', 'IPv4');
+INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('68.210.183.64/27', 'IPv4');
+INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('68.210.183.96/28', 'IPv4');
+INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('68.210.183.120/29', 'IPv4');
+INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('68.210.183.128/25', 'IPv4');
 INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('68.210.183.160/28', 'IPv4');
 INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('68.210.183.192/27', 'IPv4');
 INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('68.210.183.240/28', 'IPv4');
+INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('68.210.184.0/21', 'IPv4');
+INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('68.210.192.0/18', 'IPv4');
 INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('68.210.192.0/29', 'IPv4');
 INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('68.210.192.8/30', 'IPv4');
 INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('68.210.192.16/29', 'IPv4');
@@ -172,12 +184,12 @@ INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('74.148.0.
 INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('74.148.7.0/24', 'IPv4');
 INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('74.148.13.36/30', 'IPv4');
 INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('74.148.13.40/29', 'IPv4');
+INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('74.148.21.0/26', 'IPv4');
 INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('135.130.188.0/23', 'IPv4');
 INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('135.130.188.0/23', 'IPv4');
 INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('145.190.128.0/24', 'IPv4');
 INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('145.190.128.0/24', 'IPv4');
 INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('151.206.116.0/24', 'IPv4');
-INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('151.206.153.0/24', 'IPv4');
 INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('151.206.179.0/24', 'IPv4');
 INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('209.199.22.176/28', 'IPv4');
 INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('209.199.24.64/26', 'IPv4');
@@ -238,6 +250,7 @@ INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020
 INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:104:8::600/119', 'IPv6');
 INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:104:9::1b0/124', 'IPv6');
 INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:104:9::200/119', 'IPv6');
+INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:104:c::400/122', 'IPv6');
 INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:104:403::/125', 'IPv6');
 INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:104:403::8/125', 'IPv6');
 INSERT INTO `azure_austriaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:104:403::10/125', 'IPv6');

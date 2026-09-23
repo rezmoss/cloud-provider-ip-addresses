@@ -137,6 +137,7 @@ INSERT INTO `azure_azureactivedirectory.serviceendpoint_ips` (`ip_address`, `ip_
 INSERT INTO `azure_azureactivedirectory.serviceendpoint_ips` (`ip_address`, `ip_type`) VALUES ('20.20.57.0/28', 'IPv4');
 INSERT INTO `azure_azureactivedirectory.serviceendpoint_ips` (`ip_address`, `ip_type`) VALUES ('20.20.57.32/28', 'IPv4');
 INSERT INTO `azure_azureactivedirectory.serviceendpoint_ips` (`ip_address`, `ip_type`) VALUES ('20.20.57.64/28', 'IPv4');
+INSERT INTO `azure_azureactivedirectory.serviceendpoint_ips` (`ip_address`, `ip_type`) VALUES ('20.20.57.96/28', 'IPv4');
 INSERT INTO `azure_azureactivedirectory.serviceendpoint_ips` (`ip_address`, `ip_type`) VALUES ('20.72.21.96/27', 'IPv4');
 INSERT INTO `azure_azureactivedirectory.serviceendpoint_ips` (`ip_address`, `ip_type`) VALUES ('20.190.128.0/26', 'IPv4');
 INSERT INTO `azure_azureactivedirectory.serviceendpoint_ips` (`ip_address`, `ip_type`) VALUES ('20.190.128.64/28', 'IPv4');
@@ -897,6 +898,7 @@ INSERT INTO `azure_azureactivedirectory.serviceendpoint_ips` (`ip_address`, `ip_
 INSERT INTO `azure_azureactivedirectory.serviceendpoint_ips` (`ip_address`, `ip_type`) VALUES ('2603:1026:3000:28::/121', 'IPv6');
 INSERT INTO `azure_azureactivedirectory.serviceendpoint_ips` (`ip_address`, `ip_type`) VALUES ('2603:1026:3000:30::/121', 'IPv6');
 INSERT INTO `azure_azureactivedirectory.serviceendpoint_ips` (`ip_address`, `ip_type`) VALUES ('2603:1026:3000:38::/121', 'IPv6');
+INSERT INTO `azure_azureactivedirectory.serviceendpoint_ips` (`ip_address`, `ip_type`) VALUES ('2603:1026:3000:40::/121', 'IPv6');
 INSERT INTO `azure_azureactivedirectory.serviceendpoint_ips` (`ip_address`, `ip_type`) VALUES ('2603:1026:3000:60::/121', 'IPv6');
 INSERT INTO `azure_azureactivedirectory.serviceendpoint_ips` (`ip_address`, `ip_type`) VALUES ('2603:1026:3000:68::/121', 'IPv6');
 INSERT INTO `azure_azureactivedirectory.serviceendpoint_ips` (`ip_address`, `ip_type`) VALUES ('2603:1026:3000:70::/121', 'IPv6');

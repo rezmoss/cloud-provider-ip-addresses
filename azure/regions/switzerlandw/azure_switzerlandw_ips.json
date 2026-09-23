@@ -1542,7 +1542,13 @@
     "region": "switzerlandw"
   },
   {
-    "ip_address": "57.160.0.0/17",
+    "ip_address": "57.160.0.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.switzerlandw",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "57.160.4.0/23",
     "ip_type": "IPv4",
     "service": "AzureCloud.switzerlandw",
     "region": "switzerlandw"
@@ -1563,6 +1569,60 @@
     "ip_address": "57.160.5.160/29",
     "ip_type": "IPv4",
     "service": "AzureAttestation.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "57.160.6.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.switzerlandw",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "57.160.6.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.switzerlandw",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "57.160.6.192/30",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.switzerlandw",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "57.160.6.196/31",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.switzerlandw",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "57.160.6.204/30",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.switzerlandw",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "57.160.6.208/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.switzerlandw",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "57.160.6.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.switzerlandw",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "57.160.7.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.switzerlandw",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "57.160.8.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.switzerlandw",
     "region": "switzerlandw"
   },
   {
@@ -1590,6 +1650,12 @@
     "region": "switzerlandw"
   },
   {
+    "ip_address": "57.160.16.0/20",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.switzerlandw",
+    "region": "switzerlandw"
+  },
+  {
     "ip_address": "57.160.22.32/28",
     "ip_type": "IPv4",
     "service": "AzureMonitor.SwitzerlandWest",
@@ -1611,6 +1677,18 @@
     "ip_address": "57.160.28.200/29",
     "ip_type": "IPv4",
     "service": "AzureAttestation.SwitzerlandWest",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "57.160.32.0/19",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.switzerlandw",
+    "region": "switzerlandw"
+  },
+  {
+    "ip_address": "57.160.64.0/18",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.switzerlandw",
     "region": "switzerlandw"
   },
   {

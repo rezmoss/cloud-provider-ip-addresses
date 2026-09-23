@@ -12,6 +12,12 @@
     "region": "qatarcentral"
   },
   {
+    "ip_address": "4.170.31.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
     "ip_address": "4.244.170.0/27",
     "ip_type": "IPv4",
     "service": "AzureMonitor.QatarCentral",
@@ -223,6 +229,12 @@
   },
   {
     "ip_address": "2603:1040:1002:a::400/118",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
+    "ip_address": "2603:1040:1002:e::/121",
     "ip_type": "IPv6",
     "service": "AzureMonitor.QatarCentral",
     "region": "qatarcentral"

@@ -14,4 +14,5 @@ INSERT INTO `azure_gatewaymanager.westcentralus_ips` (`ip_address`, `ip_type`) V
 INSERT INTO `azure_gatewaymanager.westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('52.159.19.113/32', 'IPv4');
 INSERT INTO `azure_gatewaymanager.westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('52.159.20.67/32', 'IPv4');
 INSERT INTO `azure_gatewaymanager.westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('52.159.21.124/32', 'IPv4');
+INSERT INTO `azure_gatewaymanager.westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('74.159.69.64/26', 'IPv4');
 INSERT INTO `azure_gatewaymanager.westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:b04::40/122', 'IPv6');

@@ -167,6 +167,7 @@ INSERT INTO `azure_malaysiasouth_ips` (`ip_address`, `ip_type`) VALUES ('52.121.
 INSERT INTO `azure_malaysiasouth_ips` (`ip_address`, `ip_type`) VALUES ('52.122.236.0/22', 'IPv4');
 INSERT INTO `azure_malaysiasouth_ips` (`ip_address`, `ip_type`) VALUES ('52.122.240.0/22', 'IPv4');
 INSERT INTO `azure_malaysiasouth_ips` (`ip_address`, `ip_type`) VALUES ('52.123.20.0/24', 'IPv4');
+INSERT INTO `azure_malaysiasouth_ips` (`ip_address`, `ip_type`) VALUES ('52.123.93.0/24', 'IPv4');
 INSERT INTO `azure_malaysiasouth_ips` (`ip_address`, `ip_type`) VALUES ('52.123.207.0/24', 'IPv4');
 INSERT INTO `azure_malaysiasouth_ips` (`ip_address`, `ip_type`) VALUES ('70.152.84.0/22', 'IPv4');
 INSERT INTO `azure_malaysiasouth_ips` (`ip_address`, `ip_type`) VALUES ('70.152.88.0/23', 'IPv4');

@@ -7,6 +7,7 @@ CREATE TABLE IF NOT EXISTS `azure_azuremonitor.eastus3_ips` (
 );
 
 INSERT INTO `azure_azuremonitor.eastus3_ips` (`ip_address`, `ip_type`) VALUES ('51.57.210.224/27', 'IPv4');
+INSERT INTO `azure_azuremonitor.eastus3_ips` (`ip_address`, `ip_type`) VALUES ('51.57.211.128/27', 'IPv4');
 INSERT INTO `azure_azuremonitor.eastus3_ips` (`ip_address`, `ip_type`) VALUES ('134.138.82.12/30', 'IPv4');
 INSERT INTO `azure_azuremonitor.eastus3_ips` (`ip_address`, `ip_type`) VALUES ('134.138.82.144/29', 'IPv4');
 INSERT INTO `azure_azuremonitor.eastus3_ips` (`ip_address`, `ip_type`) VALUES ('134.138.82.152/30', 'IPv4');

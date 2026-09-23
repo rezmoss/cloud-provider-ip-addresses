@@ -20,6 +20,7 @@ INSERT INTO `azure_gatewaymanager_ips` (`ip_address`, `ip_type`) VALUES ('4.220.
 INSERT INTO `azure_gatewaymanager_ips` (`ip_address`, `ip_type`) VALUES ('4.221.233.96/27', 'IPv4');
 INSERT INTO `azure_gatewaymanager_ips` (`ip_address`, `ip_type`) VALUES ('4.226.255.128/27', 'IPv4');
 INSERT INTO `azure_gatewaymanager_ips` (`ip_address`, `ip_type`) VALUES ('4.232.24.64/26', 'IPv4');
+INSERT INTO `azure_gatewaymanager_ips` (`ip_address`, `ip_type`) VALUES ('4.252.13.64/26', 'IPv4');
 INSERT INTO `azure_gatewaymanager_ips` (`ip_address`, `ip_type`) VALUES ('9.160.40.64/26', 'IPv4');
 INSERT INTO `azure_gatewaymanager_ips` (`ip_address`, `ip_type`) VALUES ('9.160.171.112/28', 'IPv4');
 INSERT INTO `azure_gatewaymanager_ips` (`ip_address`, `ip_type`) VALUES ('9.205.32.64/26', 'IPv4');
@@ -261,6 +262,8 @@ INSERT INTO `azure_gatewaymanager_ips` (`ip_address`, `ip_type`) VALUES ('57.151
 INSERT INTO `azure_gatewaymanager_ips` (`ip_address`, `ip_type`) VALUES ('57.152.146.144/28', 'IPv4');
 INSERT INTO `azure_gatewaymanager_ips` (`ip_address`, `ip_type`) VALUES ('57.156.76.16/28', 'IPv4');
 INSERT INTO `azure_gatewaymanager_ips` (`ip_address`, `ip_type`) VALUES ('57.167.184.192/26', 'IPv4');
+INSERT INTO `azure_gatewaymanager_ips` (`ip_address`, `ip_type`) VALUES ('57.173.61.0/26', 'IPv4');
+INSERT INTO `azure_gatewaymanager_ips` (`ip_address`, `ip_type`) VALUES ('57.175.102.64/26', 'IPv4');
 INSERT INTO `azure_gatewaymanager_ips` (`ip_address`, `ip_type`) VALUES ('65.52.250.24/29', 'IPv4');
 INSERT INTO `azure_gatewaymanager_ips` (`ip_address`, `ip_type`) VALUES ('68.154.160.112/28', 'IPv4');
 INSERT INTO `azure_gatewaymanager_ips` (`ip_address`, `ip_type`) VALUES ('68.210.62.16/28', 'IPv4');
@@ -273,6 +276,7 @@ INSERT INTO `azure_gatewaymanager_ips` (`ip_address`, `ip_type`) VALUES ('74.7.4
 INSERT INTO `azure_gatewaymanager_ips` (`ip_address`, `ip_type`) VALUES ('74.7.67.192/28', 'IPv4');
 INSERT INTO `azure_gatewaymanager_ips` (`ip_address`, `ip_type`) VALUES ('74.7.176.64/26', 'IPv4');
 INSERT INTO `azure_gatewaymanager_ips` (`ip_address`, `ip_type`) VALUES ('74.7.202.176/28', 'IPv4');
+INSERT INTO `azure_gatewaymanager_ips` (`ip_address`, `ip_type`) VALUES ('74.159.69.64/26', 'IPv4');
 INSERT INTO `azure_gatewaymanager_ips` (`ip_address`, `ip_type`) VALUES ('74.225.47.96/27', 'IPv4');
 INSERT INTO `azure_gatewaymanager_ips` (`ip_address`, `ip_type`) VALUES ('74.225.118.0/28', 'IPv4');
 INSERT INTO `azure_gatewaymanager_ips` (`ip_address`, `ip_type`) VALUES ('85.211.238.32/28', 'IPv4');

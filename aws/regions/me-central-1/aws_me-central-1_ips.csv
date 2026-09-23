@@ -97,9 +97,6 @@ ip_address,ip_type,service,region
 2406:da30:7000::/40,IPv6,EC2,me-central-1
 2406:da32:7000::/40,IPv6,AMAZON,me-central-1
 2406:da32:7000::/40,IPv6,EC2,me-central-1
-2406:da33:7000::/40,IPv6,AMAZON,me-central-1
-2406:da33:7000::/40,IPv6,EC2,me-central-1
-2406:da33:7000::/40,IPv6,IOT_CORE,me-central-1
 2406:da36:7000::/40,IPv6,AMAZON,me-central-1
 2406:da36:7000::/40,IPv6,EC2,me-central-1
 2406:da38:7000::/40,IPv6,AMAZON,me-central-1
@@ -174,5 +171,7 @@ ip_address,ip_type,service,region
 2600:f0f1:8a::/48,IPv6,AMAZON,me-central-1
 2600:f0f1:8a::/48,IPv6,EC2,me-central-1
 2600:f0f1:8a::/48,IPv6,S3,me-central-1
+2600:f0f3:f010:1400::/56,IPv6,AMAZON,me-central-1
+2600:f0f3:f010:1400::/56,IPv6,EC2,me-central-1
 2600:f0fb:f109::/48,IPv6,AMAZON,me-central-1
 2600:f0fb:f109::/48,IPv6,EC2,me-central-1

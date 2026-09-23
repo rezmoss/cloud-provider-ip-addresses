@@ -1,6 +1,6 @@
 #!/bin/bash
 # Leaseweb IP Ranges
-# Updated: 2026-09-22 02:33:47
+# Updated: 2026-09-23 02:33:15
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -690,6 +690,8 @@ ufw allow from 142.111.141.0/24
 ufw allow from 142.111.155.0/24
 ufw allow from 142.111.161.0/24
 ufw allow from 142.111.208.0/24
+ufw allow from 142.228.64.0/23
+ufw allow from 142.228.154.0/23
 ufw allow from 142.234.8.0/21
 ufw allow from 142.234.16.0/20
 ufw allow from 142.234.40.0/21
@@ -911,7 +913,7 @@ ufw allow from 185.49.68.0/22
 ufw allow from 185.51.192.0/24
 ufw allow from 185.60.164.0/24
 ufw allow from 185.67.4.0/22
-ufw allow from 185.70.240.0/24
+ufw allow from 185.70.240.0/23
 ufw allow from 185.71.60.0/22
 ufw allow from 185.73.32.0/23
 ufw allow from 185.73.34.0/24
@@ -957,6 +959,7 @@ ufw allow from 185.248.51.0/24
 ufw allow from 188.93.138.0/24
 ufw allow from 188.116.4.0/22
 ufw allow from 189.85.38.0/23
+ufw allow from 191.96.37.0/24
 ufw allow from 191.96.104.0/24
 ufw allow from 191.96.117.0/24
 ufw allow from 191.96.128.0/24
@@ -1136,6 +1139,7 @@ ufw allow from 216.38.48.0/20
 ufw allow from 216.183.246.0/24
 ufw allow from 216.245.88.0/24
 ufw allow from 217.20.112.0/20
+ufw allow from 217.79.98.0/24
 ufw allow from 217.194.16.0/24
 ufw allow from 217.194.20.0/24
 ufw allow from 2001:678:10c::/48

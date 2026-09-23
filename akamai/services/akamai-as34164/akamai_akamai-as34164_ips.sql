@@ -101,8 +101,6 @@ INSERT INTO `akamai_akamai-as34164_ips` (`ip_address`, `ip_type`) VALUES ('92.12
 INSERT INTO `akamai_akamai-as34164_ips` (`ip_address`, `ip_type`) VALUES ('92.122.180.0/24', 'IPv4');
 INSERT INTO `akamai_akamai-as34164_ips` (`ip_address`, `ip_type`) VALUES ('92.122.181.0/24', 'IPv4');
 INSERT INTO `akamai_akamai-as34164_ips` (`ip_address`, `ip_type`) VALUES ('92.122.189.0/24', 'IPv4');
-INSERT INTO `akamai_akamai-as34164_ips` (`ip_address`, `ip_type`) VALUES ('92.122.191.0/24', 'IPv4');
-INSERT INTO `akamai_akamai-as34164_ips` (`ip_address`, `ip_type`) VALUES ('92.122.204.0/23', 'IPv4');
 INSERT INTO `akamai_akamai-as34164_ips` (`ip_address`, `ip_type`) VALUES ('92.123.49.0/24', 'IPv4');
 INSERT INTO `akamai_akamai-as34164_ips` (`ip_address`, `ip_type`) VALUES ('92.123.69.0/24', 'IPv4');
 INSERT INTO `akamai_akamai-as34164_ips` (`ip_address`, `ip_type`) VALUES ('92.123.147.0/24', 'IPv4');

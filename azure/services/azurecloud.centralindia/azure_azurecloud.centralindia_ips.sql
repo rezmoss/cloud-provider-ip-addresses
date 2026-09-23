@@ -8,20 +8,7 @@ CREATE TABLE IF NOT EXISTS `azure_azurecloud.centralindia_ips` (
 
 INSERT INTO `azure_azurecloud.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('4.186.0.0/16', 'IPv4');
 INSERT INTO `azure_azurecloud.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('4.187.128.0/17', 'IPv4');
-INSERT INTO `azure_azurecloud.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('4.188.0.0/19', 'IPv4');
-INSERT INTO `azure_azurecloud.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('4.188.32.0/26', 'IPv4');
-INSERT INTO `azure_azurecloud.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('4.188.32.64/27', 'IPv4');
-INSERT INTO `azure_azurecloud.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('4.188.32.96/28', 'IPv4');
-INSERT INTO `azure_azurecloud.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('4.188.32.112/29', 'IPv4');
-INSERT INTO `azure_azurecloud.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('4.188.32.120/31', 'IPv4');
-INSERT INTO `azure_azurecloud.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('4.188.32.128/25', 'IPv4');
-INSERT INTO `azure_azurecloud.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('4.188.33.0/24', 'IPv4');
-INSERT INTO `azure_azurecloud.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('4.188.34.0/23', 'IPv4');
-INSERT INTO `azure_azurecloud.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('4.188.36.0/22', 'IPv4');
-INSERT INTO `azure_azurecloud.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('4.188.40.0/21', 'IPv4');
-INSERT INTO `azure_azurecloud.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('4.188.48.0/20', 'IPv4');
-INSERT INTO `azure_azurecloud.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('4.188.64.0/18', 'IPv4');
-INSERT INTO `azure_azurecloud.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('4.188.128.0/17', 'IPv4');
+INSERT INTO `azure_azurecloud.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('4.188.0.0/16', 'IPv4');
 INSERT INTO `azure_azurecloud.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('4.213.0.0/16', 'IPv4');
 INSERT INTO `azure_azurecloud.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('4.224.0.0/16', 'IPv4');
 INSERT INTO `azure_azurecloud.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('4.240.0.0/17', 'IPv4');
@@ -195,7 +182,6 @@ INSERT INTO `azure_azurecloud.centralindia_ips` (`ip_address`, `ip_type`) VALUES
 INSERT INTO `azure_azurecloud.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('135.235.128.0/17', 'IPv4');
 INSERT INTO `azure_azurecloud.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('145.190.158.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('151.206.68.128/25', 'IPv4');
-INSERT INTO `azure_azurecloud.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('151.206.148.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('151.206.174.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:a00::/46', 'IPv6');
 INSERT INTO `azure_azurecloud.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:a05::/48', 'IPv6');

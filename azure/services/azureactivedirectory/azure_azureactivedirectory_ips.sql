@@ -107,7 +107,6 @@ INSERT INTO `azure_azureactivedirectory_ips` (`ip_address`, `ip_type`) VALUES ('
 INSERT INTO `azure_azureactivedirectory_ips` (`ip_address`, `ip_type`) VALUES ('20.83.195.128/28', 'IPv4');
 INSERT INTO `azure_azureactivedirectory_ips` (`ip_address`, `ip_type`) VALUES ('20.88.66.0/27', 'IPv4');
 INSERT INTO `azure_azureactivedirectory_ips` (`ip_address`, `ip_type`) VALUES ('20.89.1.112/30', 'IPv4');
-INSERT INTO `azure_azureactivedirectory_ips` (`ip_address`, `ip_type`) VALUES ('20.111.78.128/28', 'IPv4');
 INSERT INTO `azure_azureactivedirectory_ips` (`ip_address`, `ip_type`) VALUES ('20.150.227.112/28', 'IPv4');
 INSERT INTO `azure_azureactivedirectory_ips` (`ip_address`, `ip_type`) VALUES ('20.167.247.96/28', 'IPv4');
 INSERT INTO `azure_azureactivedirectory_ips` (`ip_address`, `ip_type`) VALUES ('20.187.197.32/27', 'IPv4');

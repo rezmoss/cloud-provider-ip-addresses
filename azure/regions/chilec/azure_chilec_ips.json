@@ -18,13 +18,31 @@
     "region": "chilec"
   },
   {
-    "ip_address": "20.20.89.64/28",
+    "ip_address": "20.20.89.64/27",
     "ip_type": "IPv4",
     "service": "AzureCloud.chilec",
     "region": "chilec"
   },
   {
-    "ip_address": "20.20.89.80/31",
+    "ip_address": "20.20.89.96/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.chilec",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "20.20.89.112/29",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.chilec",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "20.20.89.120/30",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.chilec",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "20.20.89.124/31",
     "ip_type": "IPv4",
     "service": "AzureCloud.chilec",
     "region": "chilec"
@@ -450,7 +468,7 @@
     "region": "chilec"
   },
   {
-    "ip_address": "68.211.0.0/17",
+    "ip_address": "68.211.0.0/20",
     "ip_type": "IPv4",
     "service": "AzureCloud.chilec",
     "region": "chilec"
@@ -636,6 +654,12 @@
     "region": "chilec"
   },
   {
+    "ip_address": "68.211.16.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.chilec",
+    "region": "chilec"
+  },
+  {
     "ip_address": "68.211.16.0/23",
     "ip_type": "IPv4",
     "service": "DataFactory.ChileCentral",
@@ -732,6 +756,12 @@
     "region": "chilec"
   },
   {
+    "ip_address": "68.211.24.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.chilec",
+    "region": "chilec"
+  },
+  {
     "ip_address": "68.211.24.16/28",
     "ip_type": "IPv4",
     "service": "PowerBI.ChileCentral",
@@ -741,6 +771,48 @@
     "ip_address": "68.211.24.32/28",
     "ip_type": "IPv4",
     "service": "PowerBI.ChileCentral",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "68.211.24.72/29",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.chilec",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "68.211.24.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.chilec",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "68.211.24.96/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.chilec",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "68.211.24.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.chilec",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "68.211.25.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.chilec",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "68.211.26.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.chilec",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "68.211.28.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.chilec",
     "region": "chilec"
   },
   {
@@ -765,6 +837,18 @@
     "ip_address": "68.211.31.220/30",
     "ip_type": "IPv4",
     "service": "AzureSecurityCenter.ChileCentral",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "68.211.32.0/19",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.chilec",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "68.211.64.0/18",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.chilec",
     "region": "chilec"
   },
   {
@@ -1638,7 +1722,25 @@
     "region": "chilec"
   },
   {
-    "ip_address": "2603:1061:1013:a0::/64",
+    "ip_address": "2603:1061:1013:a0::/60",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.chilec",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "2603:1061:1013:b0::/62",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.chilec",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "2603:1061:1013:b4::/63",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.chilec",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "2603:1061:1013:b6::/64",
     "ip_type": "IPv6",
     "service": "AzureCloud.chilec",
     "region": "chilec"

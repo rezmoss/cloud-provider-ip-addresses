@@ -1,6 +1,6 @@
 #!/bin/bash
 # Hetzner IP Ranges
-# Updated: 2026-08-13 03:06:12
+# Updated: 2026-09-23 02:31:55
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -8,6 +8,7 @@
 # iptables allow rules for hetzner
 
 iptables -A INPUT -s 2.28.0.0/15 -j ACCEPT
+iptables -A INPUT -s 2.31.0.0/16 -j ACCEPT
 iptables -A INPUT -s 5.9.0.0/16 -j ACCEPT
 iptables -A INPUT -s 5.75.128.0/17 -j ACCEPT
 iptables -A INPUT -s 23.88.0.0/17 -j ACCEPT

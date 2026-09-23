@@ -1,12 +1,13 @@
 #!/bin/bash
 # Aws IP Ranges
-# Updated: 2026-06-14 03:20:57
+# Updated: 2026-09-23 02:25:54
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
 # Updates daily at 02:00 UTC
 # iptables allow rules for aws
 
+iptables -A INPUT -s 3.41.208.0/25 -j ACCEPT
 iptables -A INPUT -s 3.44.5.128/25 -j ACCEPT
 iptables -A INPUT -s 3.44.64.128/25 -j ACCEPT
 iptables -A INPUT -s 3.44.193.128/25 -j ACCEPT
@@ -35,6 +36,7 @@ ip6tables -A INPUT -s 2406:da1a:9d0:b800::/56 -j ACCEPT
 ip6tables -A INPUT -s 2406:da1c:b86:9800::/56 -j ACCEPT
 ip6tables -A INPUT -s 2406:da1e:10e:a00::/56 -j ACCEPT
 ip6tables -A INPUT -s 2406:da1f:51b:1a00::/56 -j ACCEPT
+ip6tables -A INPUT -s 2600:1f10:4040:3800::/56 -j ACCEPT
 ip6tables -A INPUT -s 2600:1f11:e4a:df00::/56 -j ACCEPT
 ip6tables -A INPUT -s 2600:1f14:802:7300::/56 -j ACCEPT
 ip6tables -A INPUT -s 2600:1f16:1ccb:8100::/56 -j ACCEPT

@@ -22,6 +22,7 @@ INSERT INTO `nhncloud_global_ips` (`ip_address`, `ip_type`) VALUES ('45.249.160.
 INSERT INTO `nhncloud_global_ips` (`ip_address`, `ip_type`) VALUES ('45.249.161.0/24', 'IPv4');
 INSERT INTO `nhncloud_global_ips` (`ip_address`, `ip_type`) VALUES ('45.249.162.0/24', 'IPv4');
 INSERT INTO `nhncloud_global_ips` (`ip_address`, `ip_type`) VALUES ('45.249.163.0/24', 'IPv4');
+INSERT INTO `nhncloud_global_ips` (`ip_address`, `ip_type`) VALUES ('59.150.18.0/24', 'IPv4');
 INSERT INTO `nhncloud_global_ips` (`ip_address`, `ip_type`) VALUES ('59.150.32.0/24', 'IPv4');
 INSERT INTO `nhncloud_global_ips` (`ip_address`, `ip_type`) VALUES ('59.150.33.0/24', 'IPv4');
 INSERT INTO `nhncloud_global_ips` (`ip_address`, `ip_type`) VALUES ('59.150.34.0/24', 'IPv4');

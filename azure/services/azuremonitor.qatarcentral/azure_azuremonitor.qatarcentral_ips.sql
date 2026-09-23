@@ -8,6 +8,7 @@ CREATE TABLE IF NOT EXISTS `azure_azuremonitor.qatarcentral_ips` (
 
 INSERT INTO `azure_azuremonitor.qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('4.170.6.112/28', 'IPv4');
 INSERT INTO `azure_azuremonitor.qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('4.170.10.240/28', 'IPv4');
+INSERT INTO `azure_azuremonitor.qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('4.170.31.128/25', 'IPv4');
 INSERT INTO `azure_azuremonitor.qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('4.244.170.0/27', 'IPv4');
 INSERT INTO `azure_azuremonitor.qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('4.244.170.32/28', 'IPv4');
 INSERT INTO `azure_azuremonitor.qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('4.244.175.112/28', 'IPv4');
@@ -44,3 +45,4 @@ INSERT INTO `azure_azuremonitor.qatarcentral_ips` (`ip_address`, `ip_type`) VALU
 INSERT INTO `azure_azuremonitor.qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1002:8::460/123', 'IPv6');
 INSERT INTO `azure_azuremonitor.qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1002:9::7a0/123', 'IPv6');
 INSERT INTO `azure_azuremonitor.qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1002:a::400/118', 'IPv6');
+INSERT INTO `azure_azuremonitor.qatarcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1002:e::/121', 'IPv6');

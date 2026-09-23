@@ -213,3 +213,5 @@ ip_address,ip_type,service,region
 240f:80fe:8000::/40,IPv6,AMAZON,cn-north-1
 240f:80ff:8000::/40,IPv6,AMAZON,cn-north-1
 240f:80ff:8000::/40,IPv6,EC2,cn-north-1
+2600:f0f3:f010:a00::/56,IPv6,AMAZON,cn-north-1
+2600:f0f3:f010:a00::/56,IPv6,EC2,cn-north-1

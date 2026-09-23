@@ -9,8 +9,6 @@ CREATE TABLE IF NOT EXISTS `aws_ap-southeast-3_ips` (
 INSERT INTO `aws_ap-southeast-3_ips` (`ip_address`, `ip_type`) VALUES ('1.178.19.0/24', 'IPv4');
 INSERT INTO `aws_ap-southeast-3_ips` (`ip_address`, `ip_type`) VALUES ('1.178.19.0/24', 'IPv4');
 INSERT INTO `aws_ap-southeast-3_ips` (`ip_address`, `ip_type`) VALUES ('1.178.19.0/24', 'IPv4');
-INSERT INTO `aws_ap-southeast-3_ips` (`ip_address`, `ip_type`) VALUES ('1.178.86.0/24', 'IPv4');
-INSERT INTO `aws_ap-southeast-3_ips` (`ip_address`, `ip_type`) VALUES ('1.178.86.0/24', 'IPv4');
 INSERT INTO `aws_ap-southeast-3_ips` (`ip_address`, `ip_type`) VALUES ('3.2.98.0/24', 'IPv4');
 INSERT INTO `aws_ap-southeast-3_ips` (`ip_address`, `ip_type`) VALUES ('3.2.98.0/24', 'IPv4');
 INSERT INTO `aws_ap-southeast-3_ips` (`ip_address`, `ip_type`) VALUES ('3.2.98.0/24', 'IPv4');
@@ -139,9 +137,6 @@ INSERT INTO `aws_ap-southeast-3_ips` (`ip_address`, `ip_type`) VALUES ('2406:da3
 INSERT INTO `aws_ap-southeast-3_ips` (`ip_address`, `ip_type`) VALUES ('2406:da30:9000::/40', 'IPv6');
 INSERT INTO `aws_ap-southeast-3_ips` (`ip_address`, `ip_type`) VALUES ('2406:da32:9000::/40', 'IPv6');
 INSERT INTO `aws_ap-southeast-3_ips` (`ip_address`, `ip_type`) VALUES ('2406:da32:9000::/40', 'IPv6');
-INSERT INTO `aws_ap-southeast-3_ips` (`ip_address`, `ip_type`) VALUES ('2406:da33:9000::/40', 'IPv6');
-INSERT INTO `aws_ap-southeast-3_ips` (`ip_address`, `ip_type`) VALUES ('2406:da33:9000::/40', 'IPv6');
-INSERT INTO `aws_ap-southeast-3_ips` (`ip_address`, `ip_type`) VALUES ('2406:da33:9000::/40', 'IPv6');
 INSERT INTO `aws_ap-southeast-3_ips` (`ip_address`, `ip_type`) VALUES ('2406:da36:9000::/40', 'IPv6');
 INSERT INTO `aws_ap-southeast-3_ips` (`ip_address`, `ip_type`) VALUES ('2406:da36:9000::/40', 'IPv6');
 INSERT INTO `aws_ap-southeast-3_ips` (`ip_address`, `ip_type`) VALUES ('2406:da38:9000::/40', 'IPv6');

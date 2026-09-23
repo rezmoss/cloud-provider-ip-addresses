@@ -1,6 +1,6 @@
 # alibaba IP ranges - ipset restore format (hash:net)
-# Version: 51 | Generated: 2026-09-22 | Last changed: 2026-09-22
-# IPv4: 311 merged subnets, 15095040 unique IPs
+# Version: 52 | Generated: 2026-09-23 | Last changed: 2026-09-23
+# IPv4: 305 merged subnets, 15102208 unique IPs
 # IPv6: 29 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
@@ -47,13 +47,7 @@ add alibaba_v4 8.210.0.0/15
 add alibaba_v4 8.212.0.0/14
 add alibaba_v4 8.216.0.0/13
 add alibaba_v4 14.1.112.0/22
-add alibaba_v4 38.47.128.0/23
-add alibaba_v4 38.47.131.0/24
-add alibaba_v4 38.47.132.0/22
-add alibaba_v4 38.47.136.0/22
-add alibaba_v4 38.47.140.0/23
-add alibaba_v4 38.47.142.0/24
-add alibaba_v4 38.47.144.0/24
+add alibaba_v4 38.47.128.0/19
 add alibaba_v4 39.96.0.0/13
 add alibaba_v4 39.104.0.0/14
 add alibaba_v4 39.108.0.0/16
@@ -126,8 +120,7 @@ add alibaba_v4 43.123.128.0/18
 add alibaba_v4 43.124.0.0/16
 add alibaba_v4 43.126.0.0/17
 add alibaba_v4 45.113.40.0/22
-add alibaba_v4 45.194.58.0/23
-add alibaba_v4 45.194.63.0/24
+add alibaba_v4 45.194.56.0/21
 add alibaba_v4 45.199.179.0/24
 add alibaba_v4 47.52.0.0/16
 add alibaba_v4 47.56.0.0/15
@@ -199,6 +192,7 @@ add alibaba_v4 101.200.0.0/15
 add alibaba_v4 103.52.196.0/22
 add alibaba_v4 103.81.186.0/23
 add alibaba_v4 103.135.210.0/23
+add alibaba_v4 103.173.12.0/23
 add alibaba_v4 103.206.40.0/22
 add alibaba_v4 106.11.0.0/16
 add alibaba_v4 106.14.0.0/15
@@ -312,11 +306,11 @@ add alibaba_v4 203.119.168.0/21
 add alibaba_v4 203.119.176.0/20
 add alibaba_v4 203.119.192.0/18
 add alibaba_v4 203.209.224.0/19
+add alibaba_v4 205.198.40.0/23
 add alibaba_v4 205.198.43.0/24
-add alibaba_v4 205.198.45.0/24
-add alibaba_v4 205.198.46.0/23
+add alibaba_v4 205.198.44.0/22
 add alibaba_v4 205.204.96.0/19
-add alibaba_v4 209.146.118.0/24
+add alibaba_v4 209.146.118.0/23
 add alibaba_v4 218.244.128.0/19
 add alibaba_v4 223.4.0.0/14
 create alibaba_v6 hash:net family inet6 hashsize 4096 maxelem 1048576 -exist

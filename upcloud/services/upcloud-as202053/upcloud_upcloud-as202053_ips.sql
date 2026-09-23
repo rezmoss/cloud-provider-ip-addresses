@@ -12,6 +12,7 @@ INSERT INTO `upcloud_upcloud-as202053_ips` (`ip_address`, `ip_type`) VALUES ('5.
 INSERT INTO `upcloud_upcloud-as202053_ips` (`ip_address`, `ip_type`) VALUES ('5.22.220.0/22', 'IPv4');
 INSERT INTO `upcloud_upcloud-as202053_ips` (`ip_address`, `ip_type`) VALUES ('5.253.32.0/22', 'IPv4');
 INSERT INTO `upcloud_upcloud-as202053_ips` (`ip_address`, `ip_type`) VALUES ('77.81.0.0/24', 'IPv4');
+INSERT INTO `upcloud_upcloud-as202053_ips` (`ip_address`, `ip_type`) VALUES ('80.47.224.0/22', 'IPv4');
 INSERT INTO `upcloud_upcloud-as202053_ips` (`ip_address`, `ip_type`) VALUES ('80.69.172.0/22', 'IPv4');
 INSERT INTO `upcloud_upcloud-as202053_ips` (`ip_address`, `ip_type`) VALUES ('81.27.96.0/22', 'IPv4');
 INSERT INTO `upcloud_upcloud-as202053_ips` (`ip_address`, `ip_type`) VALUES ('81.27.100.0/22', 'IPv4');

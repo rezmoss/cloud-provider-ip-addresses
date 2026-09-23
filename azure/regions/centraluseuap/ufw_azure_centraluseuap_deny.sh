@@ -1,6 +1,6 @@
 #!/bin/bash
 # Azure IP Ranges
-# Updated: 2026-09-16 02:25:57
+# Updated: 2026-09-23 02:27:11
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -103,6 +103,7 @@ ufw deny from 40.123.169.4/31
 ufw deny from 40.123.169.106/31
 ufw deny from 40.123.169.128/29
 ufw deny from 40.123.169.136/30
+ufw deny from 40.123.169.156/31
 ufw deny from 40.123.170.14/31
 ufw deny from 40.123.170.16/30
 ufw deny from 40.123.170.20/31
@@ -164,27 +165,26 @@ ufw deny from 57.157.45.36/31
 ufw deny from 57.163.8.0/23
 ufw deny from 57.173.0.0/17
 ufw deny from 104.208.48.0/20
-ufw deny from 134.138.128.0/18
-ufw deny from 134.138.192.0/19
-ufw deny from 134.138.224.0/20
-ufw deny from 134.138.240.0/22
-ufw deny from 134.138.244.0/23
-ufw deny from 134.138.246.0/25
-ufw deny from 134.138.246.128/28
-ufw deny from 134.138.246.144/29
-ufw deny from 134.138.246.152/31
-ufw deny from 134.138.246.155/32
-ufw deny from 134.138.246.156/30
-ufw deny from 134.138.246.160/27
-ufw deny from 134.138.246.192/26
-ufw deny from 134.138.247.0/24
-ufw deny from 134.138.248.0/21
+ufw deny from 134.138.128.0/17
 ufw deny from 135.130.247.0/24
 ufw deny from 135.130.252.0/25
 ufw deny from 135.130.254.0/23
 ufw deny from 168.61.136.0/21
 ufw deny from 168.61.224.0/19
-ufw deny from 172.215.0.0/17
+ufw deny from 172.215.0.0/19
+ufw deny from 172.215.32.0/20
+ufw deny from 172.215.48.0/22
+ufw deny from 172.215.52.0/24
+ufw deny from 172.215.53.0/26
+ufw deny from 172.215.53.64/27
+ufw deny from 172.215.53.146/31
+ufw deny from 172.215.53.148/30
+ufw deny from 172.215.53.152/29
+ufw deny from 172.215.53.160/27
+ufw deny from 172.215.53.192/26
+ufw deny from 172.215.54.0/23
+ufw deny from 172.215.56.0/21
+ufw deny from 172.215.64.0/18
 ufw deny from 2603:1030:8::/48
 ufw deny from 2603:1030:9::/63
 ufw deny from 2603:1030:9:16::/64
@@ -192,6 +192,7 @@ ufw deny from 2603:1030:9:b1::/64
 ufw deny from 2603:1030:9:b6::/64
 ufw deny from 2603:1030:9:ba::/64
 ufw deny from 2603:1030:9:d0::/64
+ufw deny from 2603:1030:9:d3::/64
 ufw deny from 2603:1030:9:101::/64
 ufw deny from 2603:1030:9:102::/63
 ufw deny from 2603:1030:9:110::/64

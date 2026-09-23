@@ -6,6 +6,7 @@ CREATE TABLE IF NOT EXISTS `azure_gatewaymanager.eastasia_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_gatewaymanager.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('4.252.13.64/26', 'IPv4');
 INSERT INTO `azure_gatewaymanager.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('13.75.36.8/29', 'IPv4');
 INSERT INTO `azure_gatewaymanager.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('20.189.104.72/29', 'IPv4');
 INSERT INTO `azure_gatewaymanager.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('20.195.78.0/26', 'IPv4');

@@ -150,6 +150,7 @@ INSERT INTO `yandex_global_ips` (`ip_address`, `ip_type`) VALUES ('2a02:6bf:8000
 INSERT INTO `yandex_global_ips` (`ip_address`, `ip_type`) VALUES ('2a02:6bf:8000::/35', 'IPv6');
 INSERT INTO `yandex_global_ips` (`ip_address`, `ip_type`) VALUES ('2a02:6bf:8005::/48', 'IPv6');
 INSERT INTO `yandex_global_ips` (`ip_address`, `ip_type`) VALUES ('2a02:6bf:8006::/48', 'IPv6');
+INSERT INTO `yandex_global_ips` (`ip_address`, `ip_type`) VALUES ('2a02:6bf:80b0::/48', 'IPv6');
 INSERT INTO `yandex_global_ips` (`ip_address`, `ip_type`) VALUES ('2a02:6bf:a000::/35', 'IPv6');
 INSERT INTO `yandex_global_ips` (`ip_address`, `ip_type`) VALUES ('2a02:6bf:a005::/48', 'IPv6');
 INSERT INTO `yandex_global_ips` (`ip_address`, `ip_type`) VALUES ('2a02:6bf:a008::/48', 'IPv6');
@@ -157,5 +158,7 @@ INSERT INTO `yandex_global_ips` (`ip_address`, `ip_type`) VALUES ('2a0b:1440::/3
 INSERT INTO `yandex_global_ips` (`ip_address`, `ip_type`) VALUES ('2a0b:1447:20::/44', 'IPv6');
 INSERT INTO `yandex_global_ips` (`ip_address`, `ip_type`) VALUES ('2a0d:d6c0::/32', 'IPv6');
 INSERT INTO `yandex_global_ips` (`ip_address`, `ip_type`) VALUES ('2a0d:d6c1::/32', 'IPv6');
+INSERT INTO `yandex_global_ips` (`ip_address`, `ip_type`) VALUES ('2a0d:d6c7:10::/48', 'IPv6');
+INSERT INTO `yandex_global_ips` (`ip_address`, `ip_type`) VALUES ('2a0d:d6c7:11::/48', 'IPv6');
 INSERT INTO `yandex_global_ips` (`ip_address`, `ip_type`) VALUES ('2a0d:d6c7:14::/48', 'IPv6');
 INSERT INTO `yandex_global_ips` (`ip_address`, `ip_type`) VALUES ('2a0d:d6c7:15::/48', 'IPv6');

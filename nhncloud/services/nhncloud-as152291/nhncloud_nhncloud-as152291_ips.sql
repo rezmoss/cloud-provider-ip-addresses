@@ -6,6 +6,7 @@ CREATE TABLE IF NOT EXISTS `nhncloud_nhncloud-as152291_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `nhncloud_nhncloud-as152291_ips` (`ip_address`, `ip_type`) VALUES ('59.150.18.0/24', 'IPv4');
 INSERT INTO `nhncloud_nhncloud-as152291_ips` (`ip_address`, `ip_type`) VALUES ('59.150.32.0/24', 'IPv4');
 INSERT INTO `nhncloud_nhncloud-as152291_ips` (`ip_address`, `ip_type`) VALUES ('59.150.33.0/24', 'IPv4');
 INSERT INTO `nhncloud_nhncloud-as152291_ips` (`ip_address`, `ip_type`) VALUES ('59.150.34.0/24', 'IPv4');

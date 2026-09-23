@@ -2082,6 +2082,12 @@
     "region": "westcentralus"
   },
   {
+    "ip_address": "52.112.19.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.westcentralus",
+    "region": "westcentralus"
+  },
+  {
     "ip_address": "52.112.75.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.westcentralus",
@@ -2988,7 +2994,25 @@
     "region": "westcentralus"
   },
   {
-    "ip_address": "57.157.81.128/31",
+    "ip_address": "57.157.81.128/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.westcentralus",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "57.157.81.144/29",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.westcentralus",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "57.157.81.152/30",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.westcentralus",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "57.157.81.156/31",
     "ip_type": "IPv4",
     "service": "AzureCloud.westcentralus",
     "region": "westcentralus"
@@ -3013,6 +3037,18 @@
   },
   {
     "ip_address": "57.163.50.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "57.163.84.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.westcentralus",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "57.163.84.0/23",
     "ip_type": "IPv4",
     "service": "Storage.WestCentralUS",
     "region": "westcentralus"
@@ -3075,6 +3111,18 @@
     "ip_address": "74.159.1.80/29",
     "ip_type": "IPv4",
     "service": "AzureAttestation.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "74.159.69.64/26",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "74.159.69.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.WestCentralUS",
     "region": "westcentralus"
   },
   {
@@ -3295,6 +3343,18 @@
   },
   {
     "ip_address": "145.190.192.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "145.190.194.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.westcentralus",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "145.190.194.0/24",
     "ip_type": "IPv4",
     "service": "Storage.WestCentralUS",
     "region": "westcentralus"
@@ -4005,6 +4065,12 @@
     "ip_address": "2603:1030:b04:14::1d0/124",
     "ip_type": "IPv6",
     "service": "AzureAttestation.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:17::540/122",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.WestCentralUS",
     "region": "westcentralus"
   },
   {

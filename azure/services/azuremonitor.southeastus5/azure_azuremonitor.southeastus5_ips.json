@@ -1,6 +1,6 @@
 [
   {
-    "ip_address": "48.200.141.64/27",
+    "ip_address": "48.200.141.64/26",
     "ip_type": "IPv4",
     "service": "AzureMonitor.SoutheastUS5",
     "region": "southeastus5"
