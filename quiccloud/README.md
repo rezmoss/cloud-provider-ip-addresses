@@ -1,6 +1,6 @@
 # Quic.cloud IP Ranges (Auto-Updated Daily)
 
-> Last updated: **2026-09-23** · Total CIDRs: **152** · IPv4: **152** · IPv6: **0**
+> Last updated: **2026-09-24** · Total CIDRs: **152** · IPv4: **152** · IPv6: **0**
 
 Machine-readable, daily-updated, validated public IP ranges for **Quic.cloud**.
 Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and Apache.

@@ -4740,24 +4740,6 @@
     "region": "eu-central-1"
   },
   {
-    "ip_address": "2a05:d033:4000::/40",
-    "ip_type": "IPv6",
-    "service": "AMAZON",
-    "region": "eu-central-1"
-  },
-  {
-    "ip_address": "2a05:d033:4000::/40",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "eu-central-1"
-  },
-  {
-    "ip_address": "2a05:d033:4000::/40",
-    "ip_type": "IPv6",
-    "service": "IOT_CORE",
-    "region": "eu-central-1"
-  },
-  {
     "ip_address": "2a05:d036:4000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",

@@ -19050,6 +19050,12 @@
     "region": "global"
   },
   {
+    "ip_address": "23.193.203.0/24",
+    "ip_type": "IPv4",
+    "service": "akamai-as20940",
+    "region": "global"
+  },
+  {
     "ip_address": "23.193.208.0/22",
     "ip_type": "IPv4",
     "service": "akamai-as20940",

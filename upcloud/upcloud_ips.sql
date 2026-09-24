@@ -12,10 +12,15 @@ INSERT INTO `upcloud_ips` (`ip_address`, `ip_type`) VALUES ('5.22.216.0/22', 'IP
 INSERT INTO `upcloud_ips` (`ip_address`, `ip_type`) VALUES ('5.22.220.0/22', 'IPv4');
 INSERT INTO `upcloud_ips` (`ip_address`, `ip_type`) VALUES ('5.57.208.0/24', 'IPv4');
 INSERT INTO `upcloud_ips` (`ip_address`, `ip_type`) VALUES ('5.253.32.0/22', 'IPv4');
+INSERT INTO `upcloud_ips` (`ip_address`, `ip_type`) VALUES ('5.253.32.0/24', 'IPv4');
 INSERT INTO `upcloud_ips` (`ip_address`, `ip_type`) VALUES ('38.100.118.0/23', 'IPv4');
 INSERT INTO `upcloud_ips` (`ip_address`, `ip_type`) VALUES ('62.164.153.0/24', 'IPv4');
 INSERT INTO `upcloud_ips` (`ip_address`, `ip_type`) VALUES ('77.81.0.0/24', 'IPv4');
 INSERT INTO `upcloud_ips` (`ip_address`, `ip_type`) VALUES ('80.47.224.0/22', 'IPv4');
+INSERT INTO `upcloud_ips` (`ip_address`, `ip_type`) VALUES ('80.47.228.0/22', 'IPv4');
+INSERT INTO `upcloud_ips` (`ip_address`, `ip_type`) VALUES ('80.47.232.0/22', 'IPv4');
+INSERT INTO `upcloud_ips` (`ip_address`, `ip_type`) VALUES ('80.47.236.0/23', 'IPv4');
+INSERT INTO `upcloud_ips` (`ip_address`, `ip_type`) VALUES ('80.47.238.0/23', 'IPv4');
 INSERT INTO `upcloud_ips` (`ip_address`, `ip_type`) VALUES ('80.69.172.0/22', 'IPv4');
 INSERT INTO `upcloud_ips` (`ip_address`, `ip_type`) VALUES ('81.27.96.0/22', 'IPv4');
 INSERT INTO `upcloud_ips` (`ip_address`, `ip_type`) VALUES ('81.27.100.0/22', 'IPv4');
@@ -58,6 +63,7 @@ INSERT INTO `upcloud_ips` (`ip_address`, `ip_type`) VALUES ('95.111.204.0/22', '
 INSERT INTO `upcloud_ips` (`ip_address`, `ip_type`) VALUES ('95.111.208.0/22', 'IPv4');
 INSERT INTO `upcloud_ips` (`ip_address`, `ip_type`) VALUES ('95.111.212.0/22', 'IPv4');
 INSERT INTO `upcloud_ips` (`ip_address`, `ip_type`) VALUES ('95.111.216.0/21', 'IPv4');
+INSERT INTO `upcloud_ips` (`ip_address`, `ip_type`) VALUES ('109.71.54.0/23', 'IPv4');
 INSERT INTO `upcloud_ips` (`ip_address`, `ip_type`) VALUES ('109.71.54.0/24', 'IPv4');
 INSERT INTO `upcloud_ips` (`ip_address`, `ip_type`) VALUES ('109.71.55.0/24', 'IPv4');
 INSERT INTO `upcloud_ips` (`ip_address`, `ip_type`) VALUES ('152.44.32.0/21', 'IPv4');
@@ -67,6 +73,7 @@ INSERT INTO `upcloud_ips` (`ip_address`, `ip_type`) VALUES ('185.20.136.0/22', '
 INSERT INTO `upcloud_ips` (`ip_address`, `ip_type`) VALUES ('185.26.48.0/22', 'IPv4');
 INSERT INTO `upcloud_ips` (`ip_address`, `ip_type`) VALUES ('185.70.196.0/22', 'IPv4');
 INSERT INTO `upcloud_ips` (`ip_address`, `ip_type`) VALUES ('185.168.48.0/24', 'IPv4');
+INSERT INTO `upcloud_ips` (`ip_address`, `ip_type`) VALUES ('193.104.38.0/24', 'IPv4');
 INSERT INTO `upcloud_ips` (`ip_address`, `ip_type`) VALUES ('194.39.109.0/24', 'IPv4');
 INSERT INTO `upcloud_ips` (`ip_address`, `ip_type`) VALUES ('194.62.96.0/22', 'IPv4');
 INSERT INTO `upcloud_ips` (`ip_address`, `ip_type`) VALUES ('194.107.180.0/24', 'IPv4');
@@ -94,6 +101,7 @@ INSERT INTO `upcloud_ips` (`ip_address`, `ip_type`) VALUES ('212.147.248.0/23', 
 INSERT INTO `upcloud_ips` (`ip_address`, `ip_type`) VALUES ('212.147.250.0/23', 'IPv4');
 INSERT INTO `upcloud_ips` (`ip_address`, `ip_type`) VALUES ('212.147.252.0/22', 'IPv4');
 INSERT INTO `upcloud_ips` (`ip_address`, `ip_type`) VALUES ('213.163.192.0/20', 'IPv4');
+INSERT INTO `upcloud_ips` (`ip_address`, `ip_type`) VALUES ('2001:67c:70::/48', 'IPv6');
 INSERT INTO `upcloud_ips` (`ip_address`, `ip_type`) VALUES ('2604:ed40::/32', 'IPv6');
 INSERT INTO `upcloud_ips` (`ip_address`, `ip_type`) VALUES ('2605:7380::/32', 'IPv6');
 INSERT INTO `upcloud_ips` (`ip_address`, `ip_type`) VALUES ('2605:7380:8000::/34', 'IPv6');

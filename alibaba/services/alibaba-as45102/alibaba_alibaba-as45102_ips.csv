@@ -489,6 +489,7 @@ ip_address,ip_type,service,region
 43.118.128.0/18,IPv4,alibaba-as45102,global
 43.118.128.0/19,IPv4,alibaba-as45102,global
 43.118.160.0/19,IPv4,alibaba-as45102,global
+43.118.168.0/24,IPv4,alibaba-as45102,global
 43.119.0.0/17,IPv4,alibaba-as45102,global
 43.119.0.0/18,IPv4,alibaba-as45102,global
 43.119.64.0/18,IPv4,alibaba-as45102,global
@@ -636,6 +637,7 @@ ip_address,ip_type,service,region
 47.81.128.0/17,IPv4,alibaba-as45102,global
 47.81.128.0/18,IPv4,alibaba-as45102,global
 47.81.192.0/18,IPv4,alibaba-as45102,global
+47.81.200.0/24,IPv4,alibaba-as45102,global
 47.82.0.0/18,IPv4,alibaba-as45102,global
 47.82.0.0/19,IPv4,alibaba-as45102,global
 47.82.8.0/23,IPv4,alibaba-as45102,global
@@ -1218,6 +1220,8 @@ ip_address,ip_type,service,region
 240b:400e::/32,IPv6,alibaba-as45102,global
 240b:400e::/33,IPv6,alibaba-as45102,global
 240b:400e:8000::/33,IPv6,alibaba-as45102,global
+240b:400e:fffe::/48,IPv6,alibaba-as45102,global
+240b:400e:ffff::/48,IPv6,alibaba-as45102,global
 240b:400f::/32,IPv6,alibaba-as45102,global
 240b:400f::/33,IPv6,alibaba-as45102,global
 240b:400f:8000::/33,IPv6,alibaba-as45102,global
@@ -1256,6 +1260,7 @@ ip_address,ip_type,service,region
 240b:401a::/32,IPv6,alibaba-as45102,global
 240b:401a::/33,IPv6,alibaba-as45102,global
 240b:401a:8000::/33,IPv6,alibaba-as45102,global
+240b:401a:fffe::/48,IPv6,alibaba-as45102,global
 240b:401b::/32,IPv6,alibaba-as45102,global
 240b:401b::/33,IPv6,alibaba-as45102,global
 240b:401b:8000::/33,IPv6,alibaba-as45102,global

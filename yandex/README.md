@@ -1,6 +1,6 @@
 # Yandex IP Ranges (Auto-Updated Daily)
 
-> Last updated: **2026-09-23** · Total CIDRs: **156** · IPv4: **124** · IPv6: **32** · Services: **6** · Regions: **1**
+> Last updated: **2026-09-24** · Total CIDRs: **156** · IPv4: **124** · IPv6: **32** · Services: **6** · Regions: **1**
 
 Machine-readable, daily-updated, validated public IP ranges for **Yandex**.
 Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and Apache.

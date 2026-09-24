@@ -123,9 +123,6 @@ INSERT INTO `aws_us-gov-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f30
 INSERT INTO `aws_us-gov-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f32:5000::/40', 'IPv6');
 INSERT INTO `aws_us-gov-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f32:5000::/40', 'IPv6');
 INSERT INTO `aws_us-gov-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f32:5000::/40', 'IPv6');
-INSERT INTO `aws_us-gov-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f33:5000::/40', 'IPv6');
-INSERT INTO `aws_us-gov-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f33:5000::/40', 'IPv6');
-INSERT INTO `aws_us-gov-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f33:5000::/40', 'IPv6');
 INSERT INTO `aws_us-gov-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f36:5000::/40', 'IPv6');
 INSERT INTO `aws_us-gov-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f36:5000::/40', 'IPv6');
 INSERT INTO `aws_us-gov-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f38:5000::/40', 'IPv6');

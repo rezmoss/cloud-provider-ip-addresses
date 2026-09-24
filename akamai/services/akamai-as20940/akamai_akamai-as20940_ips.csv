@@ -1945,6 +1945,7 @@ ip_address,ip_type,service,region
 23.193.197.0/24,IPv4,akamai-as20940,global
 23.193.200.0/24,IPv4,akamai-as20940,global
 23.193.201.0/24,IPv4,akamai-as20940,global
+23.193.203.0/24,IPv4,akamai-as20940,global
 23.193.208.0/22,IPv4,akamai-as20940,global
 23.194.112.0/23,IPv4,akamai-as20940,global
 23.194.114.0/24,IPv4,akamai-as20940,global

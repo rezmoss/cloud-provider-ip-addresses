@@ -1056,24 +1056,6 @@
     "region": "ap-east-1"
   },
   {
-    "ip_address": "2406:da33:e000::/40",
-    "ip_type": "IPv6",
-    "service": "AMAZON",
-    "region": "ap-east-1"
-  },
-  {
-    "ip_address": "2406:da33:e000::/40",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "ap-east-1"
-  },
-  {
-    "ip_address": "2406:da33:e000::/40",
-    "ip_type": "IPv6",
-    "service": "IOT_CORE",
-    "region": "ap-east-1"
-  },
-  {
     "ip_address": "2406:da36:e000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",

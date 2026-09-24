@@ -1,6 +1,6 @@
 #!/bin/bash
 # Aws IP Ranges
-# Updated: 2026-09-23 02:25:54
+# Updated: 2026-09-24 02:25:02
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -12,6 +12,7 @@ ufw allow from 1.178.4.0/22
 ufw allow from 1.178.8.0/22
 ufw allow from 1.178.16.0/20
 ufw allow from 1.178.64.0/23
+ufw allow from 1.178.86.0/24
 ufw allow from 1.178.88.0/21
 ufw allow from 1.178.100.0/22
 ufw allow from 1.178.174.0/24
@@ -872,13 +873,6 @@ ufw allow from 2406:da32:c000::/40
 ufw allow from 2406:da32:c800::/40
 ufw allow from 2406:da32:e000::/40
 ufw allow from 2406:da32:f000::/40
-ufw allow from 2406:da33:800::/40
-ufw allow from 2406:da33:2000::/40
-ufw allow from 2406:da33:4000::/40
-ufw allow from 2406:da33:8000::/40
-ufw allow from 2406:da33:a000::/40
-ufw allow from 2406:da33:c000::/40
-ufw allow from 2406:da33:e000::/40
 ufw allow from 2406:da36:800::/40
 ufw allow from 2406:da36:1000::/40
 ufw allow from 2406:da36:2000::/40
@@ -1405,14 +1399,6 @@ ufw allow from 2600:1f32:c200::/40
 ufw allow from 2600:1f32:e000::/40
 ufw allow from 2600:1f32:e200::/40
 ufw allow from 2600:1f32:ec00::/40
-ufw allow from 2600:1f33:1000::/40
-ufw allow from 2600:1f33:2000::/40
-ufw allow from 2600:1f33:4000::/39
-ufw allow from 2600:1f33:5000::/40
-ufw allow from 2600:1f33:6000::/40
-ufw allow from 2600:1f33:8000::/39
-ufw allow from 2600:1f33:c000::/40
-ufw allow from 2600:1f33:e000::/40
 ufw allow from 2600:1f36:800::/40
 ufw allow from 2600:1f36:1000::/40
 ufw allow from 2600:1f36:2000::/40
@@ -1908,6 +1894,7 @@ ufw allow from 2600:f0f0:4144::/47
 ufw allow from 2600:f0f0:4200::/40
 ufw allow from 2600:f0f0:5400::/45
 ufw allow from 2600:f0f0:5408::/47
+ufw allow from 2600:f0f0:540a::/48
 ufw allow from 2600:f0f0:5500::/48
 ufw allow from 2600:f0f0:5502::/47
 ufw allow from 2600:f0f0:5510::/44
@@ -2373,14 +2360,6 @@ ufw allow from 2a05:d032:a000::/40
 ufw allow from 2a05:d032:b000::/40
 ufw allow from 2a05:d032:c000::/40
 ufw allow from 2a05:d032:e000::/40
-ufw allow from 2a05:d033:1000::/40
-ufw allow from 2a05:d033:2000::/40
-ufw allow from 2a05:d033:4000::/40
-ufw allow from 2a05:d033:5000::/40
-ufw allow from 2a05:d033:6000::/40
-ufw allow from 2a05:d033:8000::/40
-ufw allow from 2a05:d033:a000::/40
-ufw allow from 2a05:d033:c000::/40
 ufw allow from 2a05:d036:800::/40
 ufw allow from 2a05:d036:1000::/40
 ufw allow from 2a05:d036:2000::/40
