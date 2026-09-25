@@ -1,6 +1,6 @@
 #!/bin/bash
 # Gcore IP Ranges
-# Updated: 2026-09-24 02:30:13
+# Updated: 2026-09-25 02:34:05
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -8,7 +8,6 @@
 # UFW deny rules for gcore
 
 ufw deny from 1.37.77.98/32
-ufw deny from 2.78.47.38/32
 ufw deny from 5.1.107.249/32
 ufw deny from 5.8.92.4/30
 ufw deny from 5.8.92.8/32
@@ -370,7 +369,7 @@ ufw deny from 93.114.56.45/32
 ufw deny from 93.114.56.55/32
 ufw deny from 93.114.56.76/32
 ufw deny from 93.114.56.123/32
-ufw deny from 93.115.241.4/31
+ufw deny from 93.115.241.4/32
 ufw deny from 93.123.11.4/30
 ufw deny from 93.123.11.8/31
 ufw deny from 93.123.11.10/32
@@ -478,6 +477,7 @@ ufw deny from 151.248.104.69/32
 ufw deny from 151.248.104.91/32
 ufw deny from 154.120.250.210/32
 ufw deny from 154.160.40.2/32
+ufw deny from 154.160.40.10/32
 ufw deny from 168.232.103.194/31
 ufw deny from 169.239.157.98/32
 ufw deny from 169.239.158.154/32
@@ -558,6 +558,7 @@ ufw deny from 200.24.129.98/31
 ufw deny from 200.24.129.100/32
 ufw deny from 202.78.169.4/30
 ufw deny from 202.78.169.8/32
+ufw deny from 202.78.169.10/31
 ufw deny from 202.78.171.4/30
 ufw deny from 202.78.171.8/32
 ufw deny from 202.78.171.10/31
@@ -910,7 +911,7 @@ ufw deny from 2a03:90c0:321:2803::230/125
 ufw deny from 2a03:90c0:321:2803::238/127
 ufw deny from 2a03:90c0:321:2803::240/126
 ufw deny from 2a03:90c0:321:2803::244/128
-ufw deny from 2a03:90c0:331:2801::4/127
+ufw deny from 2a03:90c0:331:2801::4/128
 ufw deny from 2a03:90c0:341:2801::4/126
 ufw deny from 2a03:90c0:341:2801::8/127
 ufw deny from 2a03:90c0:341:2801::10/126
@@ -1038,6 +1039,7 @@ ufw deny from 2a03:90c0:7e1:2801::4/126
 ufw deny from 2a03:90c0:801:2801::4/126
 ufw deny from 2a03:90c0:821:2801::4/126
 ufw deny from 2a03:90c0:821:2801::8/128
+ufw deny from 2a03:90c0:821:2801::10/128
 ufw deny from 2a03:c343:1::12/128
 ufw deny from 2a04:2e80:5:7::162/127
 ufw deny from 2a05:8200::36/127
@@ -1053,5 +1055,6 @@ ufw deny from 2c0f:4280:6400:2::202/128
 ufw deny from 2c0f:ee00:1:c0eb::50/128
 ufw deny from 2c0f:f578:0:c::106/128
 ufw deny from 2c0f:f7c0:3800:10::be2/128
+ufw deny from 2c0f:f7c0:3800:10::bea/128
 ufw deny from 2c0f:f828:2::114/128
 ufw deny from 2c0f:fe38:7:50::2/128

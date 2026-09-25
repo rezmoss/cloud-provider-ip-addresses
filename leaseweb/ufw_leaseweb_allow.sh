@@ -1,6 +1,6 @@
 #!/bin/bash
 # Leaseweb IP Ranges
-# Updated: 2026-09-24 02:29:45
+# Updated: 2026-09-25 02:32:51
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -331,6 +331,7 @@ ufw allow from 64.188.100.0/22
 ufw allow from 64.188.120.0/22
 ufw allow from 64.204.250.0/24
 ufw allow from 64.204.254.0/24
+ufw allow from 64.205.92.0/24
 ufw allow from 64.226.54.0/23
 ufw allow from 64.226.157.0/24
 ufw allow from 64.226.158.0/23
@@ -557,7 +558,6 @@ ufw allow from 103.209.230.0/24
 ufw allow from 103.227.85.0/24
 ufw allow from 103.227.86.0/24
 ufw allow from 103.229.28.0/22
-ufw allow from 103.247.27.0/24
 ufw allow from 103.254.61.0/24
 ufw allow from 103.254.152.0/22
 ufw allow from 104.164.38.0/24
@@ -1059,6 +1059,9 @@ ufw allow from 195.206.110.0/24
 ufw allow from 195.242.98.0/23
 ufw allow from 195.242.237.0/24
 ufw allow from 198.7.56.0/21
+ufw allow from 198.33.146.0/24
+ufw allow from 198.33.150.0/24
+ufw allow from 198.33.176.0/24
 ufw allow from 198.50.96.0/19
 ufw allow from 198.72.96.0/19
 ufw allow from 198.252.101.0/24
@@ -1208,13 +1211,13 @@ ufw allow from 2a09:17c0:33::/48
 ufw allow from 2a09:17c0:acab::/48
 ufw allow from 2a09:17c1:22::/48
 ufw allow from 2a09:17c1:33::/48
+ufw allow from 2a09:17c2::/32
 ufw allow from 2a09:30c0::/29
 ufw allow from 2a09:43c0::/29
 ufw allow from 2a09:7300::/29
 ufw allow from 2a09:7b00::/29
 ufw allow from 2a09:7f80::/29
 ufw allow from 2a09:b700::/29
-ufw allow from 2a09:d140::/29
 ufw allow from 2a09:db40::/48
 ufw allow from 2a0a:1400::/29
 ufw allow from 2a0a:2340::/29
@@ -1248,7 +1251,6 @@ ufw allow from 2a0d:9400::/29
 ufw allow from 2a0d:d907::/32
 ufw allow from 2a0e:15c0:11::/48
 ufw allow from 2a0e:15c5:acab::/48
-ufw allow from 2a0e:15c6::/32
 ufw allow from 2a0e:15c7:b::/48
 ufw allow from 2a0e:15c7:22::/48
 ufw allow from 2a0e:15c7:33::/48
@@ -1281,6 +1283,7 @@ ufw allow from 2a0f:1e00:987::/48
 ufw allow from 2a0f:1e00:abc::/48
 ufw allow from 2a0f:1e00:def9::/48
 ufw allow from 2a0f:1e01:1::/48
+ufw allow from 2a0f:1e06::/32
 ufw allow from 2a0f:1e80::/31
 ufw allow from 2a0f:1e84::/32
 ufw allow from 2a0f:2500::/29
@@ -1442,6 +1445,7 @@ ufw allow from 2a13:5c80::/29
 ufw allow from 2a13:7900::/29
 ufw allow from 2a13:7d80::/29
 ufw allow from 2a13:8200::/29
+ufw allow from 2a13:8c85::/32
 ufw allow from 2a13:8c86:33::/48
 ufw allow from 2a13:8c86:44::/48
 ufw allow from 2a13:8c86:55::/48

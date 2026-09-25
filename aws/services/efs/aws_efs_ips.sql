@@ -151,6 +151,7 @@ INSERT INTO `aws_efs_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f15:563:5d00:
 INSERT INTO `aws_efs_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f16:663:5300::/56', 'IPv6');
 INSERT INTO `aws_efs_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f16:acd:3a00::/56', 'IPv6');
 INSERT INTO `aws_efs_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f16:1119:8600::/56', 'IPv6');
+INSERT INTO `aws_efs_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f16:1760:6e00::/56', 'IPv6');
 INSERT INTO `aws_efs_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f17:4cae:a000::/56', 'IPv6');
 INSERT INTO `aws_efs_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f17:4ce9:6400::/56', 'IPv6');
 INSERT INTO `aws_efs_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f18:1738:ca00::/56', 'IPv6');

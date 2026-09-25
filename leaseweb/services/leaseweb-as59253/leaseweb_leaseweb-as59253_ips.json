@@ -282,12 +282,6 @@
     "region": "global"
   },
   {
-    "ip_address": "103.247.27.0/24",
-    "ip_type": "IPv4",
-    "service": "leaseweb-as59253",
-    "region": "global"
-  },
-  {
     "ip_address": "103.254.152.0/22",
     "ip_type": "IPv4",
     "service": "leaseweb-as59253",

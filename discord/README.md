@@ -1,6 +1,6 @@
 # Discord IP Ranges (Auto-Updated Daily)
 
-> Last updated: **2026-09-24** · Total CIDRs: **20** · IPv4: **20** · IPv6: **0** · Services: **2**
+> Last updated: **2026-09-25** · Total CIDRs: **20** · IPv4: **20** · IPv6: **0** · Services: **2**
 
 Machine-readable, daily-updated, validated public IP ranges for **Discord**.
 Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and Apache.

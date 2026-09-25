@@ -10815,8 +10815,8 @@ ip_address,ip_type,service,region
 2406:da11:438:2300::/56,IPv6,CLOUDFRONT_ORIGIN_FACING,af-south-1
 2406:da11:6ba:7e00::/56,IPv6,EFS,af-south-1
 2406:da11:700:3b00::/56,IPv6,EC2_INSTANCE_CONNECT,af-south-1
-2406:da12::/36,IPv6,AMAZON,ap-northeast-2
-2406:da12::/36,IPv6,EC2,ap-northeast-2
+2406:da12::/35,IPv6,AMAZON,ap-northeast-2
+2406:da12::/35,IPv6,EC2,ap-northeast-2
 2406:da12:4b:c200::/56,IPv6,CLOUDFRONT_ORIGIN_FACING,ap-northeast-2
 2406:da12:1e1:d900::/56,IPv6,EC2_INSTANCE_CONNECT,ap-northeast-2
 2406:da12:8f1:3d00::/56,IPv6,AURORA_DSQL,ap-northeast-2
@@ -12357,6 +12357,7 @@ ip_address,ip_type,service,region
 2600:1f16:acd:3a00::/56,IPv6,EFS,us-east-2
 2600:1f16:1119:8600::/56,IPv6,EFS,us-east-2
 2600:1f16:138f:cf00::/56,IPv6,EC2_INSTANCE_CONNECT,us-east-2
+2600:1f16:1760:6e00::/56,IPv6,EFS,us-east-2
 2600:1f16:1923:3000::/56,IPv6,CLOUDFRONT_ORIGIN_FACING,us-east-2
 2600:1f16:1ccb:8100::/56,IPv6,AURORA_DSQL,us-east-2
 2600:1f16:8000::/36,IPv6,AMAZON,us-east-2
@@ -15328,6 +15329,8 @@ ip_address,ip_type,service,region
 2600:f0f3:f010:e00::/56,IPv6,EC2,ap-southeast-3
 2600:f0f3:f010:f00::/56,IPv6,AMAZON,us-east-2
 2600:f0f3:f010:f00::/56,IPv6,EC2,us-east-2
+2600:f0f3:f010:1000::/56,IPv6,AMAZON,af-south-1
+2600:f0f3:f010:1000::/56,IPv6,EC2,af-south-1
 2600:f0f3:f010:1300::/56,IPv6,AMAZON,eu-west-1
 2600:f0f3:f010:1300::/56,IPv6,EC2,eu-west-1
 2600:f0f3:f010:1400::/56,IPv6,AMAZON,me-central-1
@@ -15340,10 +15343,14 @@ ip_address,ip_type,service,region
 2600:f0f3:f010:1800::/56,IPv6,EC2,ap-east-1
 2600:f0f3:f010:1900::/56,IPv6,AMAZON,ap-south-2
 2600:f0f3:f010:1900::/56,IPv6,EC2,ap-south-2
+2600:f0f3:f010:1a00::/56,IPv6,AMAZON,ap-northeast-2
+2600:f0f3:f010:1a00::/56,IPv6,EC2,ap-northeast-2
 2600:f0f3:f010:1b00::/56,IPv6,AMAZON,ap-northeast-3
 2600:f0f3:f010:1b00::/56,IPv6,EC2,ap-northeast-3
 2600:f0f3:f010:1c00::/56,IPv6,AMAZON,ap-southeast-5
 2600:f0f3:f010:1c00::/56,IPv6,EC2,ap-southeast-5
+2600:f0f3:f010:1e00::/56,IPv6,AMAZON,eu-west-2
+2600:f0f3:f010:1e00::/56,IPv6,EC2,eu-west-2
 2600:f0f3:f010:2000::/56,IPv6,AMAZON,ap-southeast-4
 2600:f0f3:f010:2000::/56,IPv6,EC2,ap-southeast-4
 2600:f0f3:f010:2100::/56,IPv6,AMAZON,eu-south-1

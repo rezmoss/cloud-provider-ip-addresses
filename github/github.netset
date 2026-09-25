@@ -1,5 +1,5 @@
 # github IP ranges - ipset restore format (hash:net)
-# Version: 16 | Generated: 2026-09-24 | Last changed: 2026-09-24
+# Version: 16 | Generated: 2026-09-25 | Last changed: 2026-09-24
 # IPv4: 4193 merged subnets, 28201103 unique IPs
 # IPv6: 1339 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses

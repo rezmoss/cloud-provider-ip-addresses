@@ -1200,37 +1200,7 @@
     "region": "global"
   },
   {
-    "ip_address": "170.33.40.0/24",
-    "ip_type": "IPv4",
-    "service": "alibaba-as134963",
-    "region": "global"
-  },
-  {
     "ip_address": "170.33.41.0/24",
-    "ip_type": "IPv4",
-    "service": "alibaba-as134963",
-    "region": "global"
-  },
-  {
-    "ip_address": "170.33.44.0/24",
-    "ip_type": "IPv4",
-    "service": "alibaba-as134963",
-    "region": "global"
-  },
-  {
-    "ip_address": "170.33.45.0/24",
-    "ip_type": "IPv4",
-    "service": "alibaba-as134963",
-    "region": "global"
-  },
-  {
-    "ip_address": "170.33.46.0/24",
-    "ip_type": "IPv4",
-    "service": "alibaba-as134963",
-    "region": "global"
-  },
-  {
-    "ip_address": "170.33.47.0/24",
     "ip_type": "IPv4",
     "service": "alibaba-as134963",
     "region": "global"

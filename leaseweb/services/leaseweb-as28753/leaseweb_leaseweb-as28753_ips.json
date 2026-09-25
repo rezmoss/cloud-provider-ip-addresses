@@ -894,12 +894,6 @@
     "region": "global"
   },
   {
-    "ip_address": "2a09:d140::/29",
-    "ip_type": "IPv6",
-    "service": "leaseweb-as28753",
-    "region": "global"
-  },
-  {
     "ip_address": "2a0a:7d00::/29",
     "ip_type": "IPv6",
     "service": "leaseweb-as28753",
@@ -961,12 +955,6 @@
   },
   {
     "ip_address": "2a11:8880::/29",
-    "ip_type": "IPv6",
-    "service": "leaseweb-as28753",
-    "region": "global"
-  },
-  {
-    "ip_address": "2a11:bb44::/32",
     "ip_type": "IPv6",
     "service": "leaseweb-as28753",
     "region": "global"

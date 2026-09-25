@@ -522,6 +522,12 @@
     "region": "global"
   },
   {
+    "ip_address": "104.67.32.0/19",
+    "ip_type": "IPv4",
+    "service": "akamai-as63949",
+    "region": "global"
+  },
+  {
     "ip_address": "104.67.64.0/19",
     "ip_type": "IPv4",
     "service": "akamai-as63949",
@@ -2635,6 +2641,12 @@
   },
   {
     "ip_address": "2600:3c1c::/32",
+    "ip_type": "IPv6",
+    "service": "akamai-as63949",
+    "region": "global"
+  },
+  {
+    "ip_address": "2600:3c1e::/32",
     "ip_type": "IPv6",
     "service": "akamai-as63949",
     "region": "global"

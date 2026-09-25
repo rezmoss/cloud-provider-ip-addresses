@@ -2802,6 +2802,12 @@
     "region": "global"
   },
   {
+    "ip_address": "2a09:17c2::/32",
+    "ip_type": "IPv6",
+    "service": "leaseweb-as60781",
+    "region": "global"
+  },
+  {
     "ip_address": "2a09:7300::/29",
     "ip_type": "IPv6",
     "service": "leaseweb-as60781",
@@ -3103,6 +3109,12 @@
   },
   {
     "ip_address": "2a0f:1ac0::/29",
+    "ip_type": "IPv6",
+    "service": "leaseweb-as60781",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a0f:1e06::/32",
     "ip_type": "IPv6",
     "service": "leaseweb-as60781",
     "region": "global"
@@ -3451,6 +3463,12 @@
   },
   {
     "ip_address": "2a13:5c80::/29",
+    "ip_type": "IPv6",
+    "service": "leaseweb-as60781",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a13:8c85::/32",
     "ip_type": "IPv6",
     "service": "leaseweb-as60781",
     "region": "global"

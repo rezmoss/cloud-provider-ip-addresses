@@ -447,6 +447,8 @@ ip_address,ip_type,service,region
 2600:f0f2:7102::/48,IPv6,AMAZON,eu-west-2
 2600:f0f2:7102::/48,IPv6,AMAZON_CONNECT,eu-west-2
 2600:f0f2:7102::/48,IPv6,EC2,eu-west-2
+2600:f0f3:f010:1e00::/56,IPv6,AMAZON,eu-west-2
+2600:f0f3:f010:1e00::/56,IPv6,EC2,eu-west-2
 2600:f0fb:f029::/48,IPv6,AMAZON,eu-west-2
 2600:f0fb:f029::/48,IPv6,EC2,eu-west-2
 2605:b140:9902::/48,IPv6,AMAZON,eu-west-2

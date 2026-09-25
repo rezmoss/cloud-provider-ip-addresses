@@ -198,6 +198,12 @@
     "region": "global"
   },
   {
+    "ip_address": "23.207.201.0/24",
+    "ip_type": "IPv4",
+    "service": "akamai-as21342",
+    "region": "global"
+  },
+  {
     "ip_address": "23.211.61.0/24",
     "ip_type": "IPv4",
     "service": "akamai-as21342",
@@ -577,6 +583,12 @@
   },
   {
     "ip_address": "2600:1405:1c00::/48",
+    "ip_type": "IPv6",
+    "service": "akamai-as21342",
+    "region": "global"
+  },
+  {
+    "ip_address": "2600:1405:2000::/48",
     "ip_type": "IPv6",
     "service": "akamai-as21342",
     "region": "global"

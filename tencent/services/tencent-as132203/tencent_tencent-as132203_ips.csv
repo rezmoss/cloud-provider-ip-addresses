@@ -327,6 +327,7 @@ ip_address,ip_type,service,region
 43.172.64.0/18,IPv4,tencent-as132203,global
 43.172.108.0/23,IPv4,tencent-as132203,global
 43.172.110.0/23,IPv4,tencent-as132203,global
+43.172.112.0/23,IPv4,tencent-as132203,global
 43.172.128.0/20,IPv4,tencent-as132203,global
 43.172.128.0/23,IPv4,tencent-as132203,global
 43.172.128.0/24,IPv4,tencent-as132203,global

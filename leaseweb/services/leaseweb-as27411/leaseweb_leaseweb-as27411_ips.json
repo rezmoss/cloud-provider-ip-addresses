@@ -600,12 +600,6 @@
     "region": "global"
   },
   {
-    "ip_address": "2a0e:15c6::/32",
-    "ip_type": "IPv6",
-    "service": "leaseweb-as27411",
-    "region": "global"
-  },
-  {
     "ip_address": "2a10:67c7::/32",
     "ip_type": "IPv6",
     "service": "leaseweb-as27411",
