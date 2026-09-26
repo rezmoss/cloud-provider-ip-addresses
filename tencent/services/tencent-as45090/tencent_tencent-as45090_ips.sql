@@ -8,9 +8,7 @@ CREATE TABLE IF NOT EXISTS `tencent_tencent-as45090_ips` (
 
 INSERT INTO `tencent_tencent-as45090_ips` (`ip_address`, `ip_type`) VALUES ('1.12.0.0/14', 'IPv4');
 INSERT INTO `tencent_tencent-as45090_ips` (`ip_address`, `ip_type`) VALUES ('1.12.0.0/18', 'IPv4');
-INSERT INTO `tencent_tencent-as45090_ips` (`ip_address`, `ip_type`) VALUES ('1.12.0.0/20', 'IPv4');
 INSERT INTO `tencent_tencent-as45090_ips` (`ip_address`, `ip_type`) VALUES ('1.12.14.0/23', 'IPv4');
-INSERT INTO `tencent_tencent-as45090_ips` (`ip_address`, `ip_type`) VALUES ('1.12.34.0/23', 'IPv4');
 INSERT INTO `tencent_tencent-as45090_ips` (`ip_address`, `ip_type`) VALUES ('1.12.64.0/18', 'IPv4');
 INSERT INTO `tencent_tencent-as45090_ips` (`ip_address`, `ip_type`) VALUES ('1.12.128.0/18', 'IPv4');
 INSERT INTO `tencent_tencent-as45090_ips` (`ip_address`, `ip_type`) VALUES ('1.12.192.0/18', 'IPv4');

@@ -95,6 +95,9 @@ INSERT INTO `aws_eusc-de-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2001:3fc
 INSERT INTO `aws_eusc-de-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2001:3fc3:a800::/40', 'IPv6');
 INSERT INTO `aws_eusc-de-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2001:3fc4:800::/40', 'IPv6');
 INSERT INTO `aws_eusc-de-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2001:3fc4:800::/40', 'IPv6');
+INSERT INTO `aws_eusc-de-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2001:3fc4:1000::/40', 'IPv6');
+INSERT INTO `aws_eusc-de-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2001:3fc4:1000::/40', 'IPv6');
+INSERT INTO `aws_eusc-de-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2001:3fc4:1000::/40', 'IPv6');
 INSERT INTO `aws_eusc-de-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2001:3fc5:800::/40', 'IPv6');
 INSERT INTO `aws_eusc-de-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2001:3fc5:800::/40', 'IPv6');
 INSERT INTO `aws_eusc-de-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2001:3fc5:1000::/40', 'IPv6');

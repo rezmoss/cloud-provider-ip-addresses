@@ -2802,6 +2802,12 @@
     "region": "cn-north-1"
   },
   {
+    "ip_address": "2001:3fc4:1000::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "eusc-de-east-1"
+  },
+  {
     "ip_address": "2001:3fc5:800::/40",
     "ip_type": "IPv6",
     "service": "S3",

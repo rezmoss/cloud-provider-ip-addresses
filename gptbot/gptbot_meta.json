@@ -1,25 +1,25 @@
 {
   "provider": "gptbot",
-  "version": 27,
-  "generated_date": "2026-09-25",
-  "last_changed_date": "2026-09-23",
+  "version": 28,
+  "generated_date": "2026-09-26",
+  "last_changed_date": "2026-09-26",
   "sources": [
     "https://openai.com/gptbot.json",
     "https://openai.com/chatgpt-user.json",
     "https://openai.com/searchbot.json"
   ],
   "ipv4": {
-    "cidrs": 286,
-    "merged_cidrs": 260,
-    "addresses": 40912
+    "cidrs": 287,
+    "merged_cidrs": 261,
+    "addresses": 40928
   },
   "ipv6": {
     "cidrs": 0,
     "merged_cidrs": 0,
     "addresses": 0
   },
-  "total_entries": 286,
-  "content_sha256": "8ba7b41ea4a86085eae1b9424c21019c9f7f8f5466f58a84d15b1c7ad8fcce70",
+  "total_entries": 287,
+  "content_sha256": "c535a041f22f7b22ae0b1683ff32ebcff99039cd04acf18a357e35fa0c60584d",
   "license": "CC0-1.0",
   "license_url": "https://github.com/rezmoss/cloud-provider-ip-addresses/blob/main/LICENSE"
 }

@@ -3516,12 +3516,6 @@
     "region": "global"
   },
   {
-    "ip_address": "2405:f080:e05::/48",
-    "ip_type": "IPv6",
-    "service": "huawei-as136907",
-    "region": "global"
-  },
-  {
     "ip_address": "2405:f080:e06::/48",
     "ip_type": "IPv6",
     "service": "huawei-as136907",

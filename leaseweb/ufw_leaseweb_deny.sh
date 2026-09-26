@@ -1,6 +1,6 @@
 #!/bin/bash
 # Leaseweb IP Ranges
-# Updated: 2026-09-25 02:32:51
+# Updated: 2026-09-26 02:28:57
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -259,13 +259,12 @@ ufw deny from 45.151.107.0/24
 ufw deny from 45.152.197.0/24
 ufw deny from 45.152.199.0/24
 ufw deny from 45.152.201.0/24
-ufw deny from 45.152.202.0/24
 ufw deny from 45.152.209.0/24
 ufw deny from 45.152.210.0/23
 ufw deny from 45.153.20.0/23
 ufw deny from 45.153.216.0/23
 ufw deny from 45.153.218.0/24
-ufw deny from 45.154.58.0/23
+ufw deny from 45.154.59.0/24
 ufw deny from 45.154.84.0/22
 ufw deny from 45.154.229.0/24
 ufw deny from 45.154.230.0/23
@@ -274,7 +273,6 @@ ufw deny from 45.155.200.0/22
 ufw deny from 45.157.36.0/24
 ufw deny from 45.157.38.0/23
 ufw deny from 45.157.120.0/22
-ufw deny from 45.158.185.0/24
 ufw deny from 45.158.186.0/24
 ufw deny from 45.159.144.0/22
 ufw deny from 45.159.204.0/22
@@ -384,6 +382,7 @@ ufw deny from 72.63.56.0/22
 ufw deny from 72.63.64.0/22
 ufw deny from 72.63.152.0/22
 ufw deny from 72.244.1.0/24
+ufw deny from 77.67.58.0/24
 ufw deny from 77.72.81.0/24
 ufw deny from 77.235.34.0/24
 ufw deny from 77.235.37.0/24
@@ -496,10 +495,8 @@ ufw deny from 91.198.29.0/24
 ufw deny from 91.198.95.0/24
 ufw deny from 91.199.58.0/24
 ufw deny from 91.201.140.0/23
-ufw deny from 91.212.100.0/24
 ufw deny from 91.212.107.0/24
 ufw deny from 91.212.120.0/24
-ufw deny from 91.212.123.0/24
 ufw deny from 91.214.108.0/24
 ufw deny from 91.229.118.0/24
 ufw deny from 91.232.255.0/24
@@ -992,7 +989,6 @@ ufw deny from 193.8.127.0/24
 ufw deny from 193.8.138.0/24
 ufw deny from 193.8.234.0/24
 ufw deny from 193.9.249.0/24
-ufw deny from 193.23.245.0/24
 ufw deny from 193.23.249.0/24
 ufw deny from 193.23.250.0/24
 ufw deny from 193.25.167.0/24
@@ -1001,12 +997,10 @@ ufw deny from 193.27.72.0/23
 ufw deny from 193.32.2.0/24
 ufw deny from 193.32.16.0/24
 ufw deny from 193.32.23.0/24
-ufw deny from 193.39.142.0/23
-ufw deny from 193.39.209.0/24
-ufw deny from 193.39.245.0/24
+ufw deny from 193.39.142.0/24
 ufw deny from 193.41.38.0/24
 ufw deny from 193.41.69.0/24
-ufw deny from 193.41.86.0/23
+ufw deny from 193.41.87.0/24
 ufw deny from 193.41.114.0/23
 ufw deny from 193.41.122.0/23
 ufw deny from 193.43.92.0/24
@@ -1191,7 +1185,9 @@ ufw deny from 2a03:e280::/32
 ufw deny from 2a03:e340::/48
 ufw deny from 2a03:e340:4::/48
 ufw deny from 2a04:8140::/48
-ufw deny from 2a04:88c0::/29
+ufw deny from 2a04:88c0::/30
+ufw deny from 2a04:88c4::/31
+ufw deny from 2a04:88c6::/32
 ufw deny from 2a04:9f40::/29
 ufw deny from 2a05:35c0::/29
 ufw deny from 2a05:3f40::/29

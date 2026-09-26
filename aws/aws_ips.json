@@ -51684,6 +51684,12 @@
     "region": "sa-west-1"
   },
   {
+    "ip_address": "83.160.88.0/23",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "sa-west-1"
+  },
+  {
     "ip_address": "83.162.0.0/15",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -63291,6 +63297,24 @@
     "ip_address": "2001:3fc4:800::/40",
     "ip_type": "IPv6",
     "service": "EC2",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2001:3fc4:1000::/40",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2001:3fc4:1000::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2001:3fc4:1000::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
     "region": "eusc-de-east-1"
   },
   {

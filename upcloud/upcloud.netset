@@ -1,5 +1,5 @@
 # upcloud IP ranges - ipset restore format (hash:net)
-# Version: 5 | Generated: 2026-09-25 | Last changed: 2026-09-24
+# Version: 5 | Generated: 2026-09-26 | Last changed: 2026-09-24
 # IPv4: 38 merged subnets, 104704 unique IPs
 # IPv6: 11 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses

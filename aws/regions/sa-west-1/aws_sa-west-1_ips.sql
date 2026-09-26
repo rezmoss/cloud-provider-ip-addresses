@@ -40,6 +40,7 @@ INSERT INTO `aws_sa-west-1_ips` (`ip_address`, `ip_type`) VALUES ('52.94.250.176
 INSERT INTO `aws_sa-west-1_ips` (`ip_address`, `ip_type`) VALUES ('76.223.170.128/28', 'IPv4');
 INSERT INTO `aws_sa-west-1_ips` (`ip_address`, `ip_type`) VALUES ('83.160.0.0/15', 'IPv4');
 INSERT INTO `aws_sa-west-1_ips` (`ip_address`, `ip_type`) VALUES ('83.160.0.0/15', 'IPv4');
+INSERT INTO `aws_sa-west-1_ips` (`ip_address`, `ip_type`) VALUES ('83.160.88.0/23', 'IPv4');
 INSERT INTO `aws_sa-west-1_ips` (`ip_address`, `ip_type`) VALUES ('83.162.0.0/15', 'IPv4');
 INSERT INTO `aws_sa-west-1_ips` (`ip_address`, `ip_type`) VALUES ('150.222.55.96/27', 'IPv4');
 INSERT INTO `aws_sa-west-1_ips` (`ip_address`, `ip_type`) VALUES ('150.222.55.128/27', 'IPv4');

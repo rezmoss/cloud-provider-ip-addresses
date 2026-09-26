@@ -1,7 +1,7 @@
 # aws IP ranges - ipset restore format (hash:net)
-# Version: 79 | Generated: 2026-09-25 | Last changed: 2026-09-25
+# Version: 80 | Generated: 2026-09-26 | Last changed: 2026-09-26
 # IPv4: 1739 merged subnets, 101881942 unique IPs
-# IPv6: 2337 merged subnets
+# IPv6: 2338 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
 # Load with: sudo ipset restore -! < aws.netset
@@ -1759,6 +1759,7 @@ add aws_v6 2001:3fc3:6800::/40
 add aws_v6 2001:3fc3:8800::/40
 add aws_v6 2001:3fc3:a800::/40
 add aws_v6 2001:3fc4:800::/40
+add aws_v6 2001:3fc4:1000::/40
 add aws_v6 2001:3fc5:800::/40
 add aws_v6 2001:3fc5:1000::/40
 add aws_v6 2001:3fc5:2000::/40

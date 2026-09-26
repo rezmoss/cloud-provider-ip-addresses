@@ -473,6 +473,7 @@ INSERT INTO `aws_s3_ips` (`ip_address`, `ip_type`) VALUES ('136.18.0.0/23', 'IPv
 INSERT INTO `aws_s3_ips` (`ip_address`, `ip_type`) VALUES ('140.179.36.208/28', 'IPv4');
 INSERT INTO `aws_s3_ips` (`ip_address`, `ip_type`) VALUES ('140.179.36.224/28', 'IPv4');
 INSERT INTO `aws_s3_ips` (`ip_address`, `ip_type`) VALUES ('140.179.36.240/28', 'IPv4');
+INSERT INTO `aws_s3_ips` (`ip_address`, `ip_type`) VALUES ('2001:3fc4:1000::/40', 'IPv6');
 INSERT INTO `aws_s3_ips` (`ip_address`, `ip_type`) VALUES ('2001:3fc5:800::/40', 'IPv6');
 INSERT INTO `aws_s3_ips` (`ip_address`, `ip_type`) VALUES ('2001:3fc7:800::/40', 'IPv6');
 INSERT INTO `aws_s3_ips` (`ip_address`, `ip_type`) VALUES ('2001:3fc7:8800::/40', 'IPv6');

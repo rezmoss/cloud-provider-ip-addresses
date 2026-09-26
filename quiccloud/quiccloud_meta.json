@@ -1,7 +1,7 @@
 {
   "provider": "quiccloud",
   "version": 4,
-  "generated_date": "2026-09-25",
+  "generated_date": "2026-09-26",
   "last_changed_date": "2026-09-18",
   "sources": [
     "https://quic.cloud/ips"
