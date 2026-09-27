@@ -1,9 +1,9 @@
 {
-  "generated": "2026-09-26T02:30:44.961552",
+  "generated": "2026-09-27T02:35:30.052404",
   "provider_count": 65,
-  "total_ipv4_addresses": 457820521,
+  "total_ipv4_addresses": 457819755,
   "total_ipv6_addresses": 312925179655417105883403006899029,
-  "ipv4_space_coverage_pct": 10.6595,
+  "ipv4_space_coverage_pct": 10.6594,
   "providers": {
     "cloudflare": {
       "ipv4_cidrs": 15,
@@ -15,10 +15,10 @@
       "regions": 0
     },
     "aws": {
-      "ipv4_cidrs": 10530,
+      "ipv4_cidrs": 10528,
       "ipv6_cidrs": 6901,
-      "total_cidrs": 17431,
-      "ipv4_addresses": 188192808,
+      "total_cidrs": 17429,
+      "ipv4_addresses": 188192296,
       "ipv6_addresses": 3581731151227626986048550076429,
       "services": 27,
       "regions": 43
@@ -87,10 +87,10 @@
       "regions": 0
     },
     "linode": {
-      "ipv4_cidrs": 5410,
+      "ipv4_cidrs": 5409,
       "ipv6_cidrs": 96,
-      "total_cidrs": 5506,
-      "ipv4_addresses": 1392896,
+      "total_cidrs": 5505,
+      "ipv4_addresses": 1392640,
       "ipv6_addresses": 2855985699070713796392665481216,
       "services": 0,
       "regions": 38
@@ -321,10 +321,10 @@
       "regions": 1
     },
     "ovhcloud": {
-      "ipv4_cidrs": 714,
+      "ipv4_cidrs": 715,
       "ipv6_cidrs": 42,
-      "total_cidrs": 756,
-      "ipv4_addresses": 4680704,
+      "total_cidrs": 757,
+      "ipv4_addresses": 4680960,
       "ipv6_addresses": 318191693574209628041014935552,
       "services": 1,
       "regions": 1
@@ -402,10 +402,10 @@
       "regions": 1
     },
     "tor": {
-      "ipv4_cidrs": 1374,
+      "ipv4_cidrs": 1376,
       "ipv6_cidrs": 0,
-      "total_cidrs": 1374,
-      "ipv4_addresses": 1374,
+      "total_cidrs": 1376,
+      "ipv4_addresses": 1376,
       "ipv6_addresses": 0,
       "services": 1,
       "regions": 1
@@ -474,10 +474,10 @@
       "regions": 0
     },
     "zoho": {
-      "ipv4_cidrs": 167,
+      "ipv4_cidrs": 166,
       "ipv6_cidrs": 19,
-      "total_cidrs": 186,
-      "ipv4_addresses": 77568,
+      "total_cidrs": 185,
+      "ipv4_addresses": 77312,
       "ipv6_addresses": 79263221363033161839610429440,
       "services": 9,
       "regions": 1
