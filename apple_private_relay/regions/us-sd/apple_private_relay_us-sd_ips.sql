@@ -19,7 +19,6 @@ INSERT INTO `apple_private_relay_us-sd_ips` (`ip_address`, `ip_type`) VALUES ('1
 INSERT INTO `apple_private_relay_us-sd_ips` (`ip_address`, `ip_type`) VALUES ('104.28.133.142/32', 'IPv4');
 INSERT INTO `apple_private_relay_us-sd_ips` (`ip_address`, `ip_type`) VALUES ('104.28.133.143/32', 'IPv4');
 INSERT INTO `apple_private_relay_us-sd_ips` (`ip_address`, `ip_type`) VALUES ('104.28.138.53/32', 'IPv4');
-INSERT INTO `apple_private_relay_us-sd_ips` (`ip_address`, `ip_type`) VALUES ('104.28.150.190/32', 'IPv4');
 INSERT INTO `apple_private_relay_us-sd_ips` (`ip_address`, `ip_type`) VALUES ('140.248.26.168/31', 'IPv4');
 INSERT INTO `apple_private_relay_us-sd_ips` (`ip_address`, `ip_type`) VALUES ('140.248.26.170/31', 'IPv4');
 INSERT INTO `apple_private_relay_us-sd_ips` (`ip_address`, `ip_type`) VALUES ('140.248.30.168/31', 'IPv4');

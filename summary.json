@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-27T02:35:30.052404",
+  "generated": "2026-09-28T02:44:18.263513",
   "provider_count": 65,
-  "total_ipv4_addresses": 457819755,
+  "total_ipv4_addresses": 457819487,
   "total_ipv6_addresses": 312925179655417105883403006899029,
   "ipv4_space_coverage_pct": 10.6594,
   "providers": {
@@ -15,10 +15,10 @@
       "regions": 0
     },
     "aws": {
-      "ipv4_cidrs": 10528,
+      "ipv4_cidrs": 10530,
       "ipv6_cidrs": 6901,
-      "total_cidrs": 17429,
-      "ipv4_addresses": 188192296,
+      "total_cidrs": 17431,
+      "ipv4_addresses": 188192808,
       "ipv6_addresses": 3581731151227626986048550076429,
       "services": 27,
       "regions": 43
@@ -141,10 +141,10 @@
       "regions": 0
     },
     "apple_private_relay": {
-      "ipv4_cidrs": 41814,
+      "ipv4_cidrs": 41822,
       "ipv6_cidrs": 243357,
-      "total_cidrs": 285171,
-      "ipv4_addresses": 105727,
+      "total_cidrs": 285179,
+      "ipv4_addresses": 105735,
       "ipv6_addresses": 218680998781313459182494547968,
       "services": 0,
       "regions": 1284
@@ -321,10 +321,10 @@
       "regions": 1
     },
     "ovhcloud": {
-      "ipv4_cidrs": 715,
+      "ipv4_cidrs": 713,
       "ipv6_cidrs": 42,
-      "total_cidrs": 757,
-      "ipv4_addresses": 4680960,
+      "total_cidrs": 755,
+      "ipv4_addresses": 4680448,
       "ipv6_addresses": 318191693574209628041014935552,
       "services": 1,
       "regions": 1
@@ -402,10 +402,10 @@
       "regions": 1
     },
     "tor": {
-      "ipv4_cidrs": 1376,
+      "ipv4_cidrs": 1356,
       "ipv6_cidrs": 0,
-      "total_cidrs": 1376,
-      "ipv4_addresses": 1376,
+      "total_cidrs": 1356,
+      "ipv4_addresses": 1356,
       "ipv6_addresses": 0,
       "services": 1,
       "regions": 1
@@ -474,10 +474,10 @@
       "regions": 0
     },
     "zoho": {
-      "ipv4_cidrs": 166,
+      "ipv4_cidrs": 165,
       "ipv6_cidrs": 19,
-      "total_cidrs": 185,
-      "ipv4_addresses": 77312,
+      "total_cidrs": 184,
+      "ipv4_addresses": 77056,
       "ipv6_addresses": 79263221363033161839610429440,
       "services": 9,
       "regions": 1

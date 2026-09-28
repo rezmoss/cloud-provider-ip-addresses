@@ -25,6 +25,21 @@
     "region": "KR"
   },
   {
+    "ip_address": "104.28.138.146/32",
+    "ip_type": "IPv4",
+    "region": "KR"
+  },
+  {
+    "ip_address": "104.28.138.151/32",
+    "ip_type": "IPv4",
+    "region": "KR"
+  },
+  {
+    "ip_address": "104.28.138.152/32",
+    "ip_type": "IPv4",
+    "region": "KR"
+  },
+  {
     "ip_address": "104.28.139.10/32",
     "ip_type": "IPv4",
     "region": "KR"

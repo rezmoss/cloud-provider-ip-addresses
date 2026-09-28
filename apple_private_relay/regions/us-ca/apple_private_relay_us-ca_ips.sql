@@ -745,6 +745,10 @@ INSERT INTO `apple_private_relay_us-ca_ips` (`ip_address`, `ip_type`) VALUES ('1
 INSERT INTO `apple_private_relay_us-ca_ips` (`ip_address`, `ip_type`) VALUES ('104.28.138.136/32', 'IPv4');
 INSERT INTO `apple_private_relay_us-ca_ips` (`ip_address`, `ip_type`) VALUES ('104.28.138.137/32', 'IPv4');
 INSERT INTO `apple_private_relay_us-ca_ips` (`ip_address`, `ip_type`) VALUES ('104.28.138.145/32', 'IPv4');
+INSERT INTO `apple_private_relay_us-ca_ips` (`ip_address`, `ip_type`) VALUES ('104.28.138.147/32', 'IPv4');
+INSERT INTO `apple_private_relay_us-ca_ips` (`ip_address`, `ip_type`) VALUES ('104.28.138.148/32', 'IPv4');
+INSERT INTO `apple_private_relay_us-ca_ips` (`ip_address`, `ip_type`) VALUES ('104.28.138.149/32', 'IPv4');
+INSERT INTO `apple_private_relay_us-ca_ips` (`ip_address`, `ip_type`) VALUES ('104.28.138.150/32', 'IPv4');
 INSERT INTO `apple_private_relay_us-ca_ips` (`ip_address`, `ip_type`) VALUES ('104.28.139.16/32', 'IPv4');
 INSERT INTO `apple_private_relay_us-ca_ips` (`ip_address`, `ip_type`) VALUES ('104.28.139.228/32', 'IPv4');
 INSERT INTO `apple_private_relay_us-ca_ips` (`ip_address`, `ip_type`) VALUES ('104.28.139.229/32', 'IPv4');
