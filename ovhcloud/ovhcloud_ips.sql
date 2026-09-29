@@ -739,6 +739,7 @@ INSERT INTO `ovhcloud_ips` (`ip_address`, `ip_type`) VALUES ('2001:41d0:ab10::/4
 INSERT INTO `ovhcloud_ips` (`ip_address`, `ip_type`) VALUES ('2001:41d0:ab11::/48', 'IPv6');
 INSERT INTO `ovhcloud_ips` (`ip_address`, `ip_type`) VALUES ('2001:41d0:ab12::/48', 'IPv6');
 INSERT INTO `ovhcloud_ips` (`ip_address`, `ip_type`) VALUES ('2001:41d0:ab13::/48', 'IPv6');
+INSERT INTO `ovhcloud_ips` (`ip_address`, `ip_type`) VALUES ('2001:41d0:ac00::/40', 'IPv6');
 INSERT INTO `ovhcloud_ips` (`ip_address`, `ip_type`) VALUES ('2402:1f00::/32', 'IPv6');
 INSERT INTO `ovhcloud_ips` (`ip_address`, `ip_type`) VALUES ('2402:1f00:8000::/40', 'IPv6');
 INSERT INTO `ovhcloud_ips` (`ip_address`, `ip_type`) VALUES ('2402:1f00:8100::/40', 'IPv6');

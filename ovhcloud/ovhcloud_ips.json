@@ -4398,6 +4398,12 @@
     "region": "global"
   },
   {
+    "ip_address": "2001:41d0:ac00::/40",
+    "ip_type": "IPv6",
+    "service": "ovhcloud-as16276",
+    "region": "global"
+  },
+  {
     "ip_address": "2402:1f00::/32",
     "ip_type": "IPv6",
     "service": "ovhcloud-as16276",

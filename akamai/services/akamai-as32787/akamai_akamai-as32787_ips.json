@@ -1116,6 +1116,12 @@
     "region": "global"
   },
   {
+    "ip_address": "139.60.112.0/24",
+    "ip_type": "IPv4",
+    "service": "akamai-as32787",
+    "region": "global"
+  },
+  {
     "ip_address": "139.60.113.0/24",
     "ip_type": "IPv4",
     "service": "akamai-as32787",
@@ -1819,6 +1825,12 @@
   },
   {
     "ip_address": "216.9.61.0/24",
+    "ip_type": "IPv4",
+    "service": "akamai-as32787",
+    "region": "global"
+  },
+  {
+    "ip_address": "216.117.25.0/24",
     "ip_type": "IPv4",
     "service": "akamai-as32787",
     "region": "global"

@@ -198,6 +198,18 @@
     "region": "me-west-1"
   },
   {
+    "ip_address": "51.168.170.0/23",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "me-west-1"
+  },
+  {
+    "ip_address": "51.168.172.0/23",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "me-west-1"
+  },
+  {
     "ip_address": "51.204.0.0/15",
     "ip_type": "IPv4",
     "service": "AMAZON",
