@@ -9,6 +9,8 @@ CREATE TABLE IF NOT EXISTS `azure_azurecloud.southindia_ips` (
 INSERT INTO `azure_azurecloud.southindia_ips` (`ip_address`, `ip_type`) VALUES ('4.247.0.0/17', 'IPv4');
 INSERT INTO `azure_azurecloud.southindia_ips` (`ip_address`, `ip_type`) VALUES ('9.129.65.0/26', 'IPv4');
 INSERT INTO `azure_azurecloud.southindia_ips` (`ip_address`, `ip_type`) VALUES ('9.129.66.224/27', 'IPv4');
+INSERT INTO `azure_azurecloud.southindia_ips` (`ip_address`, `ip_type`) VALUES ('9.129.244.0/26', 'IPv4');
+INSERT INTO `azure_azurecloud.southindia_ips` (`ip_address`, `ip_type`) VALUES ('9.129.245.96/27', 'IPv4');
 INSERT INTO `azure_azurecloud.southindia_ips` (`ip_address`, `ip_type`) VALUES ('13.71.64.0/18', 'IPv4');
 INSERT INTO `azure_azurecloud.southindia_ips` (`ip_address`, `ip_type`) VALUES ('13.104.153.128/26', 'IPv4');
 INSERT INTO `azure_azurecloud.southindia_ips` (`ip_address`, `ip_type`) VALUES ('20.33.162.0/24', 'IPv4');

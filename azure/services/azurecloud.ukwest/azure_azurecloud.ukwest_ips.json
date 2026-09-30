@@ -24,6 +24,24 @@
     "region": "ukwest"
   },
   {
+    "ip_address": "9.129.222.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "9.129.237.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "9.129.243.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
     "ip_address": "20.33.134.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.ukwest",

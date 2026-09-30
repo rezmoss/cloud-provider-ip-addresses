@@ -7,4 +7,5 @@ CREATE TABLE IF NOT EXISTS `azure_azuredigitaltwins.canadaeast_ips` (
 );
 
 INSERT INTO `azure_azuredigitaltwins.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('52.139.106.96/27', 'IPv4');
+INSERT INTO `azure_azuredigitaltwins.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('145.191.182.80/29', 'IPv4');
 INSERT INTO `azure_azuredigitaltwins.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005:3::200/121', 'IPv6');

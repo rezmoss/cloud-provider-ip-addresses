@@ -4218,6 +4218,12 @@
     "region": ""
   },
   {
+    "ip_address": "48.197.153.192/26",
+    "ip_type": "IPv4",
+    "service": "CognitiveServicesManagement",
+    "region": ""
+  },
+  {
     "ip_address": "48.198.101.32/27",
     "ip_type": "IPv4",
     "service": "CognitiveServicesManagement",
@@ -4237,6 +4243,12 @@
   },
   {
     "ip_address": "48.198.101.216/29",
+    "ip_type": "IPv4",
+    "service": "CognitiveServicesManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "48.198.199.192/26",
     "ip_type": "IPv4",
     "service": "CognitiveServicesManagement",
     "region": ""

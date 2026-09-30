@@ -8,12 +8,8 @@ CREATE TABLE IF NOT EXISTS `azure_chilec_ips` (
 
 INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('20.20.32.128/25', 'IPv4');
 INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('20.20.88.0/24', 'IPv4');
-INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('20.20.89.0/26', 'IPv4');
-INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('20.20.89.64/27', 'IPv4');
-INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('20.20.89.96/28', 'IPv4');
-INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('20.20.89.112/29', 'IPv4');
-INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('20.20.89.120/30', 'IPv4');
-INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('20.20.89.124/31', 'IPv4');
+INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('20.20.89.0/25', 'IPv4');
+INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('20.20.89.128/31', 'IPv4');
 INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('20.33.85.0/24', 'IPv4');
 INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('20.33.236.0/24', 'IPv4');
 INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('20.33.236.0/24', 'IPv4');
@@ -84,7 +80,7 @@ INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('57.156.101.82/
 INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('57.156.112.0/21', 'IPv4');
 INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('57.156.124.64/26', 'IPv4');
 INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('57.156.127.0/24', 'IPv4');
-INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('68.211.0.0/20', 'IPv4');
+INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('68.211.0.0/17', 'IPv4');
 INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('68.211.1.64/26', 'IPv4');
 INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('68.211.1.128/27', 'IPv4');
 INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('68.211.1.192/27', 'IPv4');
@@ -115,7 +111,6 @@ INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('68.211.15.32/2
 INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('68.211.15.64/27', 'IPv4');
 INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('68.211.15.128/27', 'IPv4');
 INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('68.211.15.192/26', 'IPv4');
-INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('68.211.16.0/21', 'IPv4');
 INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('68.211.16.0/23', 'IPv4');
 INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('68.211.18.148/30', 'IPv4');
 INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('68.211.19.176/29', 'IPv4');
@@ -132,22 +127,12 @@ INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('68.211.20.248/
 INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('68.211.21.32/27', 'IPv4');
 INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('68.211.22.96/27', 'IPv4');
 INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('68.211.22.128/28', 'IPv4');
-INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('68.211.24.0/26', 'IPv4');
 INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('68.211.24.16/28', 'IPv4');
 INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('68.211.24.32/28', 'IPv4');
-INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('68.211.24.72/29', 'IPv4');
-INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('68.211.24.80/28', 'IPv4');
-INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('68.211.24.96/27', 'IPv4');
-INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('68.211.24.128/25', 'IPv4');
-INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('68.211.25.0/24', 'IPv4');
-INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('68.211.26.0/23', 'IPv4');
-INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('68.211.28.0/22', 'IPv4');
 INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('68.211.30.6/32', 'IPv4');
 INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('68.211.31.64/27', 'IPv4');
 INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('68.211.31.176/29', 'IPv4');
 INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('68.211.31.220/30', 'IPv4');
-INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('68.211.32.0/19', 'IPv4');
-INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('68.211.64.0/18', 'IPv4');
 INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('68.211.128.0/18', 'IPv4');
 INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('68.211.152.0/29', 'IPv4');
 INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('68.211.152.12/30', 'IPv4');
@@ -294,9 +279,8 @@ INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('2603:105c:2:c2
 INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1013::/57', 'IPv6');
 INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1013:80::/59', 'IPv6');
 INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1013:a0::/60', 'IPv6');
-INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1013:b0::/62', 'IPv6');
-INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1013:b4::/63', 'IPv6');
-INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1013:b6::/64', 'IPv6');
+INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1013:b0::/61', 'IPv6');
+INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1013:b8::/64', 'IPv6');
 INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1315:c00::/54', 'IPv6');
 INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:170b::/48', 'IPv6');
 INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2002:d000::/57', 'IPv6');

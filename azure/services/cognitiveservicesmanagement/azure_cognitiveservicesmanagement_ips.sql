@@ -709,10 +709,12 @@ INSERT INTO `azure_cognitiveservicesmanagement_ips` (`ip_address`, `ip_type`) VA
 INSERT INTO `azure_cognitiveservicesmanagement_ips` (`ip_address`, `ip_type`) VALUES ('48.197.90.128/26', 'IPv4');
 INSERT INTO `azure_cognitiveservicesmanagement_ips` (`ip_address`, `ip_type`) VALUES ('48.197.90.192/28', 'IPv4');
 INSERT INTO `azure_cognitiveservicesmanagement_ips` (`ip_address`, `ip_type`) VALUES ('48.197.92.8/29', 'IPv4');
+INSERT INTO `azure_cognitiveservicesmanagement_ips` (`ip_address`, `ip_type`) VALUES ('48.197.153.192/26', 'IPv4');
 INSERT INTO `azure_cognitiveservicesmanagement_ips` (`ip_address`, `ip_type`) VALUES ('48.198.101.32/27', 'IPv4');
 INSERT INTO `azure_cognitiveservicesmanagement_ips` (`ip_address`, `ip_type`) VALUES ('48.198.101.64/27', 'IPv4');
 INSERT INTO `azure_cognitiveservicesmanagement_ips` (`ip_address`, `ip_type`) VALUES ('48.198.101.128/26', 'IPv4');
 INSERT INTO `azure_cognitiveservicesmanagement_ips` (`ip_address`, `ip_type`) VALUES ('48.198.101.216/29', 'IPv4');
+INSERT INTO `azure_cognitiveservicesmanagement_ips` (`ip_address`, `ip_type`) VALUES ('48.198.199.192/26', 'IPv4');
 INSERT INTO `azure_cognitiveservicesmanagement_ips` (`ip_address`, `ip_type`) VALUES ('48.216.28.176/28', 'IPv4');
 INSERT INTO `azure_cognitiveservicesmanagement_ips` (`ip_address`, `ip_type`) VALUES ('48.216.33.32/28', 'IPv4');
 INSERT INTO `azure_cognitiveservicesmanagement_ips` (`ip_address`, `ip_type`) VALUES ('48.216.33.56/29', 'IPv4');

@@ -10,6 +10,9 @@ INSERT INTO `azure_azurecloud.ukwest_ips` (`ip_address`, `ip_type`) VALUES ('9.1
 INSERT INTO `azure_azurecloud.ukwest_ips` (`ip_address`, `ip_type`) VALUES ('9.129.46.128/25', 'IPv4');
 INSERT INTO `azure_azurecloud.ukwest_ips` (`ip_address`, `ip_type`) VALUES ('9.129.56.64/27', 'IPv4');
 INSERT INTO `azure_azurecloud.ukwest_ips` (`ip_address`, `ip_type`) VALUES ('9.129.58.160/27', 'IPv4');
+INSERT INTO `azure_azurecloud.ukwest_ips` (`ip_address`, `ip_type`) VALUES ('9.129.222.0/24', 'IPv4');
+INSERT INTO `azure_azurecloud.ukwest_ips` (`ip_address`, `ip_type`) VALUES ('9.129.237.0/25', 'IPv4');
+INSERT INTO `azure_azurecloud.ukwest_ips` (`ip_address`, `ip_type`) VALUES ('9.129.243.192/26', 'IPv4');
 INSERT INTO `azure_azurecloud.ukwest_ips` (`ip_address`, `ip_type`) VALUES ('20.33.134.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.ukwest_ips` (`ip_address`, `ip_type`) VALUES ('20.33.166.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.ukwest_ips` (`ip_address`, `ip_type`) VALUES ('20.39.160.0/21', 'IPv4');

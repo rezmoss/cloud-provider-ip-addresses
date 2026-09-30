@@ -17,4 +17,5 @@ INSERT INTO `azure_appservice.canadaeast_ips` (`ip_address`, `ip_type`) VALUES (
 INSERT INTO `azure_appservice.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('52.242.41.0/24', 'IPv4');
 INSERT INTO `azure_appservice.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('52.242.42.0/23', 'IPv4');
 INSERT INTO `azure_appservice.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005:2::400/118', 'IPv6');
+INSERT INTO `azure_appservice.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005:13::400/120', 'IPv6');
 INSERT INTO `azure_appservice.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005:402::a0/123', 'IPv6');

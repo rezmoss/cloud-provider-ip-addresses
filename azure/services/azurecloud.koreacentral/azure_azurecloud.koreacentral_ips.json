@@ -18,91 +18,7 @@
     "region": "koreacentral"
   },
   {
-    "ip_address": "4.218.0.0/17",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.koreacentral",
-    "region": "koreacentral"
-  },
-  {
-    "ip_address": "4.218.128.0/18",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.koreacentral",
-    "region": "koreacentral"
-  },
-  {
-    "ip_address": "4.218.192.0/19",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.koreacentral",
-    "region": "koreacentral"
-  },
-  {
-    "ip_address": "4.218.224.0/20",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.koreacentral",
-    "region": "koreacentral"
-  },
-  {
-    "ip_address": "4.218.240.0/21",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.koreacentral",
-    "region": "koreacentral"
-  },
-  {
-    "ip_address": "4.218.248.0/23",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.koreacentral",
-    "region": "koreacentral"
-  },
-  {
-    "ip_address": "4.218.250.0/24",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.koreacentral",
-    "region": "koreacentral"
-  },
-  {
-    "ip_address": "4.218.251.0/26",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.koreacentral",
-    "region": "koreacentral"
-  },
-  {
-    "ip_address": "4.218.251.64/28",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.koreacentral",
-    "region": "koreacentral"
-  },
-  {
-    "ip_address": "4.218.251.80/32",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.koreacentral",
-    "region": "koreacentral"
-  },
-  {
-    "ip_address": "4.218.251.84/30",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.koreacentral",
-    "region": "koreacentral"
-  },
-  {
-    "ip_address": "4.218.251.88/29",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.koreacentral",
-    "region": "koreacentral"
-  },
-  {
-    "ip_address": "4.218.251.96/27",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.koreacentral",
-    "region": "koreacentral"
-  },
-  {
-    "ip_address": "4.218.251.128/25",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.koreacentral",
-    "region": "koreacentral"
-  },
-  {
-    "ip_address": "4.218.252.0/22",
+    "ip_address": "4.218.0.0/16",
     "ip_type": "IPv4",
     "service": "AzureCloud.koreacentral",
     "region": "koreacentral"
@@ -127,6 +43,24 @@
   },
   {
     "ip_address": "9.129.120.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreacentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "9.129.196.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreacentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "9.129.240.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreacentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "9.129.247.96/27",
     "ip_type": "IPv4",
     "service": "AzureCloud.koreacentral",
     "region": "koreacentral"
@@ -853,6 +787,12 @@
   },
   {
     "ip_address": "135.130.106.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreacentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "145.190.195.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.koreacentral",
     "region": "koreacentral"

@@ -30,6 +30,12 @@
     "region": "canadaeast"
   },
   {
+    "ip_address": "2603:1030:1005:13::300/123",
+    "ip_type": "IPv6",
+    "service": "AzureDataExplorerManagement.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
     "ip_address": "2603:1030:1005:402::150/124",
     "ip_type": "IPv6",
     "service": "AzureDataExplorerManagement.CanadaEast",

@@ -1,6 +1,6 @@
 #!/bin/bash
 # Akamai IP Ranges
-# Updated: 2026-09-29 02:29:45
+# Updated: 2026-09-30 02:35:50
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -185,7 +185,7 @@ ufw deny from 165.254.203.192/26
 ufw deny from 165.254.237.128/25
 ufw deny from 165.254.238.128/25
 ufw deny from 165.254.247.128/25
-ufw deny from 167.140.240.0/23
+ufw deny from 167.140.240.0/24
 ufw deny from 168.143.242.0/23
 ufw deny from 168.143.254.0/23
 ufw deny from 170.74.16.0/24
@@ -541,14 +541,13 @@ ufw deny from 2600:3c0f:42::/47
 ufw deny from 2600:3c0f:44::/46
 ufw deny from 2600:3c0f:48::/47
 ufw deny from 2600:3c0f:50::/45
+ufw deny from 2600:3c0f:58::/48
 ufw deny from 2600:3c11::/32
 ufw deny from 2600:3c12:100::/40
 ufw deny from 2600:3c12:300::/40
 ufw deny from 2600:3c12:400::/39
 ufw deny from 2600:3c12:600::/40
-ufw deny from 2600:3c12:800::/38
-ufw deny from 2600:3c12:c00::/39
-ufw deny from 2600:3c12:e00::/40
+ufw deny from 2600:3c12:800::/37
 ufw deny from 2600:3c13::/32
 ufw deny from 2600:3c14::/30
 ufw deny from 2600:3c18::/30

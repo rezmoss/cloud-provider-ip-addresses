@@ -264,7 +264,7 @@
     "region": "austriaeast"
   },
   {
-    "ip_address": "68.210.0.0/17",
+    "ip_address": "68.210.0.0/16",
     "ip_type": "IPv4",
     "service": "AzureCloud.austriaeast",
     "region": "austriaeast"
@@ -363,12 +363,6 @@
     "ip_address": "68.210.62.32/29",
     "ip_type": "IPv4",
     "service": "StorageSyncService.AustriaEast",
-    "region": "austriaeast"
-  },
-  {
-    "ip_address": "68.210.128.0/19",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.austriaeast",
     "region": "austriaeast"
   },
   {
@@ -477,12 +471,6 @@
     "ip_address": "68.210.156.64/27",
     "ip_type": "IPv4",
     "service": "LogicApps.AustriaEast",
-    "region": "austriaeast"
-  },
-  {
-    "ip_address": "68.210.160.0/20",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.austriaeast",
     "region": "austriaeast"
   },
   {
@@ -690,12 +678,6 @@
     "region": "austriaeast"
   },
   {
-    "ip_address": "68.210.176.0/22",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.austriaeast",
-    "region": "austriaeast"
-  },
-  {
     "ip_address": "68.210.176.0/23",
     "ip_type": "IPv4",
     "service": "DataFactory.AustriaEast",
@@ -738,18 +720,6 @@
     "region": "austriaeast"
   },
   {
-    "ip_address": "68.210.180.0/23",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.austriaeast",
-    "region": "austriaeast"
-  },
-  {
-    "ip_address": "68.210.182.0/24",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.austriaeast",
-    "region": "austriaeast"
-  },
-  {
     "ip_address": "68.210.182.48/28",
     "ip_type": "IPv4",
     "service": "PowerBI.AustriaEast",
@@ -768,36 +738,6 @@
     "region": "austriaeast"
   },
   {
-    "ip_address": "68.210.183.0/26",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.austriaeast",
-    "region": "austriaeast"
-  },
-  {
-    "ip_address": "68.210.183.64/27",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.austriaeast",
-    "region": "austriaeast"
-  },
-  {
-    "ip_address": "68.210.183.96/28",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.austriaeast",
-    "region": "austriaeast"
-  },
-  {
-    "ip_address": "68.210.183.120/29",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.austriaeast",
-    "region": "austriaeast"
-  },
-  {
-    "ip_address": "68.210.183.128/25",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.austriaeast",
-    "region": "austriaeast"
-  },
-  {
     "ip_address": "68.210.183.160/28",
     "ip_type": "IPv4",
     "service": "LogicApps.AustriaEast",
@@ -813,18 +753,6 @@
     "ip_address": "68.210.183.240/28",
     "ip_type": "IPv4",
     "service": "DataFactory.AustriaEast",
-    "region": "austriaeast"
-  },
-  {
-    "ip_address": "68.210.184.0/21",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.austriaeast",
-    "region": "austriaeast"
-  },
-  {
-    "ip_address": "68.210.192.0/18",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.austriaeast",
     "region": "austriaeast"
   },
   {

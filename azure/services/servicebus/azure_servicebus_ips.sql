@@ -634,6 +634,7 @@ INSERT INTO `azure_servicebus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:
 INSERT INTO `azure_servicebus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f05:c02::150/125', 'IPv6');
 INSERT INTO `azure_servicebus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005::220/123', 'IPv6');
 INSERT INTO `azure_servicebus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005:1::500/120', 'IPv6');
+INSERT INTO `azure_servicebus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005:13::280/121', 'IPv6');
 INSERT INTO `azure_servicebus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005:402::170/125', 'IPv6');
 INSERT INTO `azure_servicebus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1102:1::/121', 'IPv6');
 INSERT INTO `azure_servicebus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1202::780/121', 'IPv6');

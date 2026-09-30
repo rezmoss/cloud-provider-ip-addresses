@@ -195,6 +195,7 @@ ip_address,ip_type,service,region
 128.203.48.24/31,IPv4,AzureManagedGrafana,
 134.138.216.0/28,IPv4,AzureManagedGrafana,
 134.138.216.16/30,IPv4,AzureManagedGrafana,
+145.191.183.72/29,IPv4,AzureManagedGrafana,
 158.158.129.76/30,IPv4,AzureManagedGrafana,
 158.158.129.144/28,IPv4,AzureManagedGrafana,
 167.105.250.44/30,IPv4,AzureManagedGrafana,

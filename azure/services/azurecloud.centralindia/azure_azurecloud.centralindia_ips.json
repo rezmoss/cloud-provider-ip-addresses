@@ -60,6 +60,18 @@
     "region": "centralindia"
   },
   {
+    "ip_address": "9.129.200.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.centralindia",
+    "region": "centralindia"
+  },
+  {
+    "ip_address": "9.129.241.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.centralindia",
+    "region": "centralindia"
+  },
+  {
     "ip_address": "13.71.0.0/18",
     "ip_type": "IPv4",
     "service": "AzureCloud.centralindia",

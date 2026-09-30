@@ -5,6 +5,7 @@ ip_address,ip_type,service,region
 4.184.128.0/17,IPv4,AzureCloud.germanywc,germanywc
 4.185.0.0/16,IPv4,AzureCloud.germanywc,germanywc
 9.129.44.128/25,IPv4,AzureCloud.germanywc,germanywc
+9.129.236.0/25,IPv4,AzureCloud.germanywc,germanywc
 9.141.0.0/17,IPv4,AzureCloud.germanywc,germanywc
 9.141.128.0/18,IPv4,AzureCloud.germanywc,germanywc
 13.104.144.224/27,IPv4,AzureCloud.germanywc,germanywc

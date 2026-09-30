@@ -2532,6 +2532,48 @@
     "region": "canadaeast"
   },
   {
+    "ip_address": "145.191.182.64/28",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "145.191.182.80/29",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "145.191.182.96/28",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "145.191.182.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "145.191.183.80/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "145.191.183.96/30",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "145.191.184.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
     "ip_address": "151.206.107.0/25",
     "ip_type": "IPv4",
     "service": "AzureCloud.canadaeast",
@@ -2991,6 +3033,42 @@
     "ip_address": "2603:1030:1005:13::1e0/123",
     "ip_type": "IPv6",
     "service": "LogicApps.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:13::23c/126",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:13::270/125",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:13::280/121",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:13::300/123",
+    "ip_type": "IPv6",
+    "service": "AzureDataExplorerManagement.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:13::400/120",
+    "ip_type": "IPv6",
+    "service": "AppService.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:13::540/122",
+    "ip_type": "IPv6",
+    "service": "AzureSignalR.CanadaEast",
     "region": "canadaeast"
   },
   {

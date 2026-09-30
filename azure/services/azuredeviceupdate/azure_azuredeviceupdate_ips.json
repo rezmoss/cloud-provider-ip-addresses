@@ -474,6 +474,24 @@
     "region": ""
   },
   {
+    "ip_address": "48.196.162.192/28",
+    "ip_type": "IPv4",
+    "service": "AzureDeviceUpdate",
+    "region": ""
+  },
+  {
+    "ip_address": "48.197.153.176/28",
+    "ip_type": "IPv4",
+    "service": "AzureDeviceUpdate",
+    "region": ""
+  },
+  {
+    "ip_address": "48.198.199.176/28",
+    "ip_type": "IPv4",
+    "service": "AzureDeviceUpdate",
+    "region": ""
+  },
+  {
     "ip_address": "48.210.103.32/27",
     "ip_type": "IPv4",
     "service": "AzureDeviceUpdate",
@@ -888,6 +906,12 @@
     "region": ""
   },
   {
+    "ip_address": "2603:1030:1702:7::2a0/124",
+    "ip_type": "IPv6",
+    "service": "AzureDeviceUpdate",
+    "region": ""
+  },
+  {
     "ip_address": "2603:1040:5:9::130/124",
     "ip_type": "IPv6",
     "service": "AzureDeviceUpdate",
@@ -997,6 +1021,18 @@
   },
   {
     "ip_address": "2603:1040:1602:3::580/124",
+    "ip_type": "IPv6",
+    "service": "AzureDeviceUpdate",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1040:1a02:7::3d0/124",
+    "ip_type": "IPv6",
+    "service": "AzureDeviceUpdate",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1040:1b02:6::660/124",
     "ip_type": "IPv6",
     "service": "AzureDeviceUpdate",
     "region": ""

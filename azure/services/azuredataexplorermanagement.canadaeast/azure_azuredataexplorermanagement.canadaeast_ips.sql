@@ -11,4 +11,5 @@ INSERT INTO `azure_azuredataexplorermanagement.canadaeast_ips` (`ip_address`, `i
 INSERT INTO `azure_azuredataexplorermanagement.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('40.80.255.12/32', 'IPv4');
 INSERT INTO `azure_azuredataexplorermanagement.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('52.242.47.128/28', 'IPv4');
 INSERT INTO `azure_azuredataexplorermanagement.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005:1::380/121', 'IPv6');
+INSERT INTO `azure_azuredataexplorermanagement.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005:13::300/123', 'IPv6');
 INSERT INTO `azure_azuredataexplorermanagement.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005:402::150/124', 'IPv6');

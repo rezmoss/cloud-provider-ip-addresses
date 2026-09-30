@@ -11,4 +11,5 @@ INSERT INTO `azure_servicebus.canadaeast_ips` (`ip_address`, `ip_type`) VALUES (
 INSERT INTO `azure_servicebus.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('52.139.110.0/25', 'IPv4');
 INSERT INTO `azure_servicebus.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005::220/123', 'IPv6');
 INSERT INTO `azure_servicebus.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005:1::500/120', 'IPv6');
+INSERT INTO `azure_servicebus.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005:13::280/121', 'IPv6');
 INSERT INTO `azure_servicebus.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005:402::170/125', 'IPv6');

@@ -18,6 +18,12 @@
     "region": "canadaeast"
   },
   {
+    "ip_address": "145.191.182.96/28",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
     "ip_address": "2603:1030:1005:3::280/121",
     "ip_type": "IPv6",
     "service": "AzureBackup.CanadaEast",

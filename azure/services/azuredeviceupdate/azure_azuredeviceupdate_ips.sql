@@ -85,6 +85,9 @@ INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('20.
 INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('20.223.64.64/26', 'IPv4');
 INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('20.228.1.0/26', 'IPv4');
 INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('40.67.53.144/28', 'IPv4');
+INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('48.196.162.192/28', 'IPv4');
+INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('48.197.153.176/28', 'IPv4');
+INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('48.198.199.176/28', 'IPv4');
 INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('48.210.103.32/27', 'IPv4');
 INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('48.210.112.80/28', 'IPv4');
 INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('51.12.46.112/28', 'IPv4');
@@ -154,6 +157,7 @@ INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('260
 INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:c06:d::40/124', 'IPv6');
 INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f05:4::510/124', 'IPv6');
 INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005:6::1e0/124', 'IPv6');
+INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1702:7::2a0/124', 'IPv6');
 INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:5:9::130/124', 'IPv6');
 INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:207:6::d0/124', 'IPv6');
 INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:407:7::410/124', 'IPv6');
@@ -173,5 +177,7 @@ INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('260
 INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1402:2::640/124', 'IPv6');
 INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1503:3::500/124', 'IPv6');
 INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1602:3::580/124', 'IPv6');
+INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1a02:7::3d0/124', 'IPv6');
+INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1b02:6::660/124', 'IPv6');
 INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:6:7::60/124', 'IPv6');
 INSERT INTO `azure_azuredeviceupdate_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:403:5::50/124', 'IPv6');

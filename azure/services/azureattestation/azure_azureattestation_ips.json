@@ -3504,6 +3504,18 @@
     "region": ""
   },
   {
+    "ip_address": "2603:1030:1005:13::23c/126",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:1005:13::270/125",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
     "ip_address": "2603:1030:1102::540/124",
     "ip_type": "IPv6",
     "service": "AzureAttestation",
@@ -3583,6 +3595,18 @@
   },
   {
     "ip_address": "2603:1030:1702:5::600/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:1702:7::20c/126",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:1702:7::280/125",
     "ip_type": "IPv6",
     "service": "AzureAttestation",
     "region": ""
@@ -3858,6 +3882,18 @@
     "region": ""
   },
   {
+    "ip_address": "2603:1040:1a02:7::394/126",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1040:1a02:7::3a0/125",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
     "ip_address": "2603:1040:1b02::760/124",
     "ip_type": "IPv6",
     "service": "AzureAttestation",
@@ -3865,6 +3901,18 @@
   },
   {
     "ip_address": "2603:1040:1b02:5::320/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1040:1b02:6::570/126",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1040:1b02:6::578/125",
     "ip_type": "IPv6",
     "service": "AzureAttestation",
     "region": ""

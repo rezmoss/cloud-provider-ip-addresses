@@ -30,6 +30,12 @@
     "region": "canadaeast"
   },
   {
+    "ip_address": "2603:1030:1005:13::280/121",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
     "ip_address": "2603:1030:1005:402::170/125",
     "ip_type": "IPv6",
     "service": "ServiceBus.CanadaEast",

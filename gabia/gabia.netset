@@ -1,6 +1,6 @@
 # gabia IP ranges - ipset restore format (hash:net)
-# Version: 3 | Generated: 2026-09-29 | Last changed: 2026-09-22
-# IPv4: 50 merged subnets, 41216 unique IPs
+# Version: 4 | Generated: 2026-09-30 | Last changed: 2026-09-30
+# IPv4: 59 merged subnets, 52608 unique IPs
 # IPv6: 0 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
@@ -8,30 +8,39 @@
 #
 create gabia_v4 hash:net family inet hashsize 4096 maxelem 1048576 -exist
 flush gabia_v4
+add gabia_v4 1.201.16.0/22
+add gabia_v4 1.201.65.0/24
+add gabia_v4 1.201.66.0/23
+add gabia_v4 1.201.68.0/24
 add gabia_v4 1.201.99.0/24
+add gabia_v4 1.201.111.0/24
+add gabia_v4 1.201.112.0/20
 add gabia_v4 1.201.224.0/23
 add gabia_v4 1.201.227.0/24
+add gabia_v4 103.60.124.0/22
 add gabia_v4 103.240.48.0/22
 add gabia_v4 121.78.79.0/24
+add gabia_v4 121.78.80.0/24
 add gabia_v4 121.78.87.0/24
 add gabia_v4 121.78.93.0/24
 add gabia_v4 121.78.95.0/24
 add gabia_v4 121.78.112.0/21
 add gabia_v4 121.78.121.0/24
-add gabia_v4 121.78.122.0/24
-add gabia_v4 121.78.124.0/24
-add gabia_v4 121.78.126.0/23
-add gabia_v4 121.78.129.0/24
-add gabia_v4 121.78.131.0/24
+add gabia_v4 121.78.122.0/23
+add gabia_v4 121.78.124.0/22
+add gabia_v4 121.78.128.0/22
 add gabia_v4 121.78.132.0/23
 add gabia_v4 121.78.134.0/24
 add gabia_v4 121.78.144.0/22
-add gabia_v4 121.78.177.0/24
-add gabia_v4 121.78.178.0/23
-add gabia_v4 121.78.182.0/24
-add gabia_v4 121.78.192.0/23
-add gabia_v4 121.78.195.0/24
+add gabia_v4 121.78.176.0/22
+add gabia_v4 121.78.182.0/23
+add gabia_v4 121.78.188.0/25
+add gabia_v4 121.78.192.0/22
 add gabia_v4 121.78.196.0/23
+add gabia_v4 139.150.8.0/22
+add gabia_v4 139.150.81.0/24
+add gabia_v4 139.150.82.0/24
+add gabia_v4 139.150.91.0/24
 add gabia_v4 180.131.0.0/21
 add gabia_v4 180.131.10.0/23
 add gabia_v4 180.131.12.0/22

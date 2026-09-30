@@ -590,6 +590,8 @@ INSERT INTO `azure_azureattestation_ips` (`ip_address`, `ip_type`) VALUES ('2603
 INSERT INTO `azure_azureattestation_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f05:14::120/124', 'IPv6');
 INSERT INTO `azure_azureattestation_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005:3::1e0/124', 'IPv6');
 INSERT INTO `azure_azureattestation_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005:f::3f0/124', 'IPv6');
+INSERT INTO `azure_azureattestation_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005:13::23c/126', 'IPv6');
+INSERT INTO `azure_azureattestation_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005:13::270/125', 'IPv6');
 INSERT INTO `azure_azureattestation_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1102::540/124', 'IPv6');
 INSERT INTO `azure_azureattestation_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1102:6::2d0/124', 'IPv6');
 INSERT INTO `azure_azureattestation_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1202::540/124', 'IPv6');
@@ -604,6 +606,8 @@ INSERT INTO `azure_azureattestation_ips` (`ip_address`, `ip_type`) VALUES ('2603
 INSERT INTO `azure_azureattestation_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1602:5::530/124', 'IPv6');
 INSERT INTO `azure_azureattestation_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1702::760/124', 'IPv6');
 INSERT INTO `azure_azureattestation_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1702:5::600/124', 'IPv6');
+INSERT INTO `azure_azureattestation_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1702:7::20c/126', 'IPv6');
+INSERT INTO `azure_azureattestation_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1702:7::280/125', 'IPv6');
 INSERT INTO `azure_azureattestation_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:5:1e::40/124', 'IPv6');
 INSERT INTO `azure_azureattestation_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:207:1::4c0/124', 'IPv6');
 INSERT INTO `azure_azureattestation_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:207:15::3e0/124', 'IPv6');
@@ -649,8 +653,12 @@ INSERT INTO `azure_azureattestation_ips` (`ip_address`, `ip_type`) VALUES ('2603
 INSERT INTO `azure_azureattestation_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1904:6::200/124', 'IPv6');
 INSERT INTO `azure_azureattestation_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1a02::760/124', 'IPv6');
 INSERT INTO `azure_azureattestation_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1a02:5::6d0/124', 'IPv6');
+INSERT INTO `azure_azureattestation_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1a02:7::394/126', 'IPv6');
+INSERT INTO `azure_azureattestation_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1a02:7::3a0/125', 'IPv6');
 INSERT INTO `azure_azureattestation_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1b02::760/124', 'IPv6');
 INSERT INTO `azure_azureattestation_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1b02:5::320/124', 'IPv6');
+INSERT INTO `azure_azureattestation_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1b02:6::570/126', 'IPv6');
+INSERT INTO `azure_azureattestation_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1b02:6::578/125', 'IPv6');
 INSERT INTO `azure_azureattestation_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:6:10::230/124', 'IPv6');
 INSERT INTO `azure_azureattestation_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:301::540/124', 'IPv6');
 INSERT INTO `azure_azureattestation_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:301:7::430/124', 'IPv6');

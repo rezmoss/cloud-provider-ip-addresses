@@ -85,6 +85,8 @@ ip_address,ip_type,service,region
 9.129.28.0/23,IPv4,AzureCloud.centralindia,centralindia
 9.129.57.32/27,IPv4,AzureCloud.centralindia,centralindia
 9.129.66.96/27,IPv4,AzureCloud.centralindia,centralindia
+9.129.200.0/23,IPv4,AzureCloud.centralindia,centralindia
+9.129.241.128/26,IPv4,AzureCloud.centralindia,centralindia
 13.71.0.0/18,IPv4,AzureCloud.centralindia,centralindia
 13.71.30.211/32,IPv4,AzureConnectors.CentralIndia,centralindia
 13.71.48.192/32,IPv4,PowerPlatformInfra.CentralIndia,centralindia

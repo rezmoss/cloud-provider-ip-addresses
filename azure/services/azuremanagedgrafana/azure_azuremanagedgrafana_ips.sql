@@ -202,6 +202,7 @@ INSERT INTO `azure_azuremanagedgrafana_ips` (`ip_address`, `ip_type`) VALUES ('9
 INSERT INTO `azure_azuremanagedgrafana_ips` (`ip_address`, `ip_type`) VALUES ('128.203.48.24/31', 'IPv4');
 INSERT INTO `azure_azuremanagedgrafana_ips` (`ip_address`, `ip_type`) VALUES ('134.138.216.0/28', 'IPv4');
 INSERT INTO `azure_azuremanagedgrafana_ips` (`ip_address`, `ip_type`) VALUES ('134.138.216.16/30', 'IPv4');
+INSERT INTO `azure_azuremanagedgrafana_ips` (`ip_address`, `ip_type`) VALUES ('145.191.183.72/29', 'IPv4');
 INSERT INTO `azure_azuremanagedgrafana_ips` (`ip_address`, `ip_type`) VALUES ('158.158.129.76/30', 'IPv4');
 INSERT INTO `azure_azuremanagedgrafana_ips` (`ip_address`, `ip_type`) VALUES ('158.158.129.144/28', 'IPv4');
 INSERT INTO `azure_azuremanagedgrafana_ips` (`ip_address`, `ip_type`) VALUES ('167.105.250.44/30', 'IPv4');

@@ -846,6 +846,12 @@
     "region": ""
   },
   {
+    "ip_address": "172.192.196.120/29",
+    "ip_type": "IPv4",
+    "service": "AzureFrontDoor.Backend",
+    "region": ""
+  },
+  {
     "ip_address": "172.192.205.94/31",
     "ip_type": "IPv4",
     "service": "AzureFrontDoor.Backend",

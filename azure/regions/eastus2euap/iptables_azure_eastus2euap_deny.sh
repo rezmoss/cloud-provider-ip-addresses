@@ -1,6 +1,6 @@
 #!/bin/bash
 # Azure IP Ranges
-# Updated: 2026-09-23 02:27:12
+# Updated: 2026-09-30 02:31:24
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -217,6 +217,7 @@ iptables -A INPUT -s 40.123.184.224/30 -j DROP
 iptables -A INPUT -s 40.123.184.228/31 -j DROP
 iptables -A INPUT -s 40.123.184.240/28 -j DROP
 iptables -A INPUT -s 40.123.185.0/29 -j DROP
+iptables -A INPUT -s 40.123.185.40/29 -j DROP
 iptables -A INPUT -s 40.123.185.68/30 -j DROP
 iptables -A INPUT -s 40.123.185.72/29 -j DROP
 iptables -A INPUT -s 40.123.185.80/30 -j DROP
@@ -332,23 +333,12 @@ iptables -A INPUT -s 57.157.49.184/31 -j DROP
 iptables -A INPUT -s 57.157.50.0/30 -j DROP
 iptables -A INPUT -s 57.157.50.38/31 -j DROP
 iptables -A INPUT -s 57.157.50.94/31 -j DROP
+iptables -A INPUT -s 57.157.50.96/29 -j DROP
+iptables -A INPUT -s 57.157.50.104/30 -j DROP
 iptables -A INPUT -s 68.220.64.0/20 -j DROP
 iptables -A INPUT -s 68.220.80.0/21 -j DROP
 iptables -A INPUT -s 68.220.96.0/19 -j DROP
-iptables -A INPUT -s 72.147.0.0/20 -j DROP
-iptables -A INPUT -s 72.147.16.0/24 -j DROP
-iptables -A INPUT -s 72.147.17.0/25 -j DROP
-iptables -A INPUT -s 72.147.17.128/27 -j DROP
-iptables -A INPUT -s 72.147.17.160/28 -j DROP
-iptables -A INPUT -s 72.147.17.176/30 -j DROP
-iptables -A INPUT -s 72.147.17.183/32 -j DROP
-iptables -A INPUT -s 72.147.17.184/29 -j DROP
-iptables -A INPUT -s 72.147.17.192/26 -j DROP
-iptables -A INPUT -s 72.147.18.0/23 -j DROP
-iptables -A INPUT -s 72.147.20.0/22 -j DROP
-iptables -A INPUT -s 72.147.24.0/21 -j DROP
-iptables -A INPUT -s 72.147.32.0/19 -j DROP
-iptables -A INPUT -s 72.147.64.0/18 -j DROP
+iptables -A INPUT -s 72.147.0.0/17 -j DROP
 iptables -A INPUT -s 74.151.0.0/17 -j DROP
 iptables -A INPUT -s 104.44.95.208/28 -j DROP
 iptables -A INPUT -s 135.18.0.0/17 -j DROP
@@ -459,6 +449,7 @@ ip6tables -A INPUT -s 2603:1030:401:448::/63 -j DROP
 ip6tables -A INPUT -s 2603:1030:401:44a::/64 -j DROP
 ip6tables -A INPUT -s 2603:1030:401:450::/61 -j DROP
 ip6tables -A INPUT -s 2603:1030:401:458::/62 -j DROP
+ip6tables -A INPUT -s 2603:1030:401:46c::/62 -j DROP
 ip6tables -A INPUT -s 2603:1030:401:47a::/63 -j DROP
 ip6tables -A INPUT -s 2603:1030:401:47c::/62 -j DROP
 ip6tables -A INPUT -s 2603:1030:401:480::/63 -j DROP
@@ -563,7 +554,9 @@ ip6tables -A INPUT -s 2603:1030:401:ac4::/64 -j DROP
 ip6tables -A INPUT -s 2603:1030:401:ae9::/64 -j DROP
 ip6tables -A INPUT -s 2603:1030:401:aea::/64 -j DROP
 ip6tables -A INPUT -s 2603:1030:401:afc::/64 -j DROP
-ip6tables -A INPUT -s 2603:1030:401:b18::/64 -j DROP
+ip6tables -A INPUT -s 2603:1030:401:b18::/62 -j DROP
+ip6tables -A INPUT -s 2603:1030:401:b1c::/63 -j DROP
+ip6tables -A INPUT -s 2603:1030:401:b1e::/64 -j DROP
 ip6tables -A INPUT -s 2603:1030:405::/48 -j DROP
 ip6tables -A INPUT -s 2603:1030:409::/48 -j DROP
 ip6tables -A INPUT -s 2603:1030:40a::/64 -j DROP

@@ -542,6 +542,7 @@ ip_address,ip_type,service,region
 134.138.96.64/26,IPv4,AzureContainerRegistry,
 134.138.98.0/25,IPv4,AzureContainerRegistry,
 135.234.22.0/26,IPv4,AzureContainerRegistry,
+145.191.182.192/26,IPv4,AzureContainerRegistry,
 158.23.10.128/26,IPv4,AzureContainerRegistry,
 158.23.12.128/25,IPv4,AzureContainerRegistry,
 158.23.100.0/26,IPv4,AzureContainerRegistry,

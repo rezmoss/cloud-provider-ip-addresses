@@ -54,6 +54,12 @@
     "region": "canadaeast"
   },
   {
+    "ip_address": "145.191.183.80/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
     "ip_address": "2603:1030:1005::440/122",
     "ip_type": "IPv6",
     "service": "DataFactory.CanadaEast",

@@ -346,6 +346,7 @@ ip_address,ip_type,service,region
 135.224.39.224/27,IPv4,DataFactoryManagement,
 135.225.43.96/27,IPv4,DataFactoryManagement,
 135.225.43.128/29,IPv4,DataFactoryManagement,
+145.191.183.80/28,IPv4,DataFactoryManagement,
 158.23.15.0/28,IPv4,DataFactoryManagement,
 158.23.108.208/28,IPv4,DataFactoryManagement,
 158.23.123.208/28,IPv4,DataFactoryManagement,

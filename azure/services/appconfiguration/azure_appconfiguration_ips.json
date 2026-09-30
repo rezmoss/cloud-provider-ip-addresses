@@ -1608,13 +1608,31 @@
     "region": ""
   },
   {
+    "ip_address": "48.196.161.128/27",
+    "ip_type": "IPv4",
+    "service": "AppConfiguration",
+    "region": ""
+  },
+  {
     "ip_address": "48.197.84.0/26",
     "ip_type": "IPv4",
     "service": "AppConfiguration",
     "region": ""
   },
   {
+    "ip_address": "48.197.152.0/27",
+    "ip_type": "IPv4",
+    "service": "AppConfiguration",
+    "region": ""
+  },
+  {
     "ip_address": "48.198.92.0/26",
+    "ip_type": "IPv4",
+    "service": "AppConfiguration",
+    "region": ""
+  },
+  {
+    "ip_address": "48.198.196.64/27",
     "ip_type": "IPv4",
     "service": "AppConfiguration",
     "region": ""
@@ -2737,6 +2755,12 @@
   },
   {
     "ip_address": "134.138.96.192/27",
+    "ip_type": "IPv4",
+    "service": "AppConfiguration",
+    "region": ""
+  },
+  {
+    "ip_address": "145.191.183.0/27",
     "ip_type": "IPv4",
     "service": "AppConfiguration",
     "region": ""

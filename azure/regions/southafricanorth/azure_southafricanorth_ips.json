@@ -552,6 +552,12 @@
     "region": "southafricanorth"
   },
   {
+    "ip_address": "20.95.226.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southafricanorth",
+    "region": "southafricanorth"
+  },
+  {
     "ip_address": "20.135.78.0/23",
     "ip_type": "IPv4",
     "service": "AzureCloud.southafricanorth",

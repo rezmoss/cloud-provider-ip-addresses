@@ -271,8 +271,6 @@ INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('31.59.27.0/24', 'I
 INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('31.59.28.0/24', 'IPv4');
 INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('31.59.33.0/24', 'IPv4');
 INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('31.186.38.0/23', 'IPv4');
-INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('31.186.38.0/24', 'IPv4');
-INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('31.186.39.0/24', 'IPv4');
 INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('31.186.168.0/23', 'IPv4');
 INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('37.1.192.0/21', 'IPv4');
 INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('37.44.216.0/22', 'IPv4');
@@ -1801,8 +1799,6 @@ INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('2a04:88c5::/32', '
 INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('2a04:88c6::/32', 'IPv6');
 INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('2a04:9f40::/29', 'IPv6');
 INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('2a05:35c0::/29', 'IPv6');
-INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('2a05:35c0:1::/48', 'IPv6');
-INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('2a05:35c0:2::/48', 'IPv6');
 INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('2a05:3f40::/30', 'IPv6');
 INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('2a05:3f44::/30', 'IPv6');
 INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('2a06:1180:2::/48', 'IPv6');
@@ -1827,7 +1823,6 @@ INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('2a09:43c0::/29', '
 INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('2a09:7300::/29', 'IPv6');
 INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('2a09:7b00::/29', 'IPv6');
 INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('2a09:7f80::/29', 'IPv6');
-INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('2a09:b700::/29', 'IPv6');
 INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('2a09:db40::/48', 'IPv6');
 INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('2a0a:1400::/29', 'IPv6');
 INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('2a0a:2340::/29', 'IPv6');
@@ -1920,7 +1915,6 @@ INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('2a0f:1e81:2::/48',
 INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('2a0f:1e81:cdae::/48', 'IPv6');
 INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('2a0f:1e84::/32', 'IPv6');
 INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('2a0f:2500::/29', 'IPv6');
-INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('2a0f:2700:1::/48', 'IPv6');
 INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('2a0f:2700:2::/48', 'IPv6');
 INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('2a0f:2707::/32', 'IPv6');
 INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('2a0f:2840::/29', 'IPv6');
@@ -1945,7 +1939,6 @@ INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('2a0f:7d02:1::/48',
 INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('2a0f:7d06:33::/48', 'IPv6');
 INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('2a0f:8100::/29', 'IPv6');
 INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('2a0f:8680::/29', 'IPv6');
-INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('2a0f:a200::/29', 'IPv6');
 INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('2a0f:a940::/29', 'IPv6');
 INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('2a0f:cc00::/29', 'IPv6');
 INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('2a0f:d200::/29', 'IPv6');
@@ -2033,7 +2026,6 @@ INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('2a11:fd80::/29', '
 INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('2a12:3300::/29', 'IPv6');
 INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('2a12:3f00::/29', 'IPv6');
 INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('2a12:4000::/29', 'IPv6');
-INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('2a12:4ac0::/29', 'IPv6');
 INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('2a12:4b00::/29', 'IPv6');
 INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('2a12:4c80::/29', 'IPv6');
 INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('2a12:4f00::/29', 'IPv6');
@@ -2072,7 +2064,6 @@ INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('2a13:2d40::/29', '
 INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('2a13:2dc0::/29', 'IPv6');
 INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('2a13:2e40::/29', 'IPv6');
 INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('2a13:2fc0::/29', 'IPv6');
-INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('2a13:3040::/29', 'IPv6');
 INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('2a13:3380::/29', 'IPv6');
 INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('2a13:4900::/29', 'IPv6');
 INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('2a13:5b80::/29', 'IPv6');
@@ -2086,7 +2077,6 @@ INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('2a13:8c86:44::/48'
 INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('2a13:8c86:55::/48', 'IPv6');
 INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('2a13:8c86:66::/48', 'IPv6');
 INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('2a13:9280::/32', 'IPv6');
-INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('2a13:9480::/29', 'IPv6');
 INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('2a13:c900:44::/48', 'IPv6');
 INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('2a13:c905::/32', 'IPv6');
 INSERT INTO `leaseweb_ips` (`ip_address`, `ip_type`) VALUES ('2a13:c906::/32', 'IPv6');

@@ -1749,6 +1749,8 @@ INSERT INTO `azure_azuremonitor_ips` (`ip_address`, `ip_type`) VALUES ('138.91.3
 INSERT INTO `azure_azuremonitor_ips` (`ip_address`, `ip_type`) VALUES ('138.91.37.93/32', 'IPv4');
 INSERT INTO `azure_azuremonitor_ips` (`ip_address`, `ip_type`) VALUES ('145.191.144.64/28', 'IPv4');
 INSERT INTO `azure_azuremonitor_ips` (`ip_address`, `ip_type`) VALUES ('145.191.148.176/28', 'IPv4');
+INSERT INTO `azure_azuremonitor_ips` (`ip_address`, `ip_type`) VALUES ('145.191.183.96/30', 'IPv4');
+INSERT INTO `azure_azuremonitor_ips` (`ip_address`, `ip_type`) VALUES ('145.191.184.0/27', 'IPv4');
 INSERT INTO `azure_azuremonitor_ips` (`ip_address`, `ip_type`) VALUES ('157.55.90.64/27', 'IPv4');
 INSERT INTO `azure_azuremonitor_ips` (`ip_address`, `ip_type`) VALUES ('157.55.90.128/26', 'IPv4');
 INSERT INTO `azure_azuremonitor_ips` (`ip_address`, `ip_type`) VALUES ('157.55.177.6/32', 'IPv4');

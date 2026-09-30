@@ -92,6 +92,9 @@ INSERT INTO `azure_canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.248.1
 INSERT INTO `azure_canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('9.129.51.64/26', 'IPv4');
 INSERT INTO `azure_canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('9.129.55.64/27', 'IPv4');
 INSERT INTO `azure_canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('9.129.58.128/28', 'IPv4');
+INSERT INTO `azure_canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('9.129.241.192/26', 'IPv4');
+INSERT INTO `azure_canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('9.129.247.64/27', 'IPv4');
+INSERT INTO `azure_canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('9.129.248.16/28', 'IPv4');
 INSERT INTO `azure_canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('13.71.160.0/19', 'IPv4');
 INSERT INTO `azure_canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('13.71.168.0/27', 'IPv4');
 INSERT INTO `azure_canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('13.71.168.32/29', 'IPv4');

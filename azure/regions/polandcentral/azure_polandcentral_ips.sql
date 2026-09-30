@@ -15,6 +15,9 @@ INSERT INTO `azure_polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('9.129.6
 INSERT INTO `azure_polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('9.129.65.64/26', 'IPv4');
 INSERT INTO `azure_polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('9.129.66.32/27', 'IPv4');
 INSERT INTO `azure_polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('9.129.67.112/28', 'IPv4');
+INSERT INTO `azure_polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('9.129.180.0/22', 'IPv4');
+INSERT INTO `azure_polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('9.129.239.0/25', 'IPv4');
+INSERT INTO `azure_polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('9.129.245.0/26', 'IPv4');
 INSERT INTO `azure_polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('13.105.104.80/28', 'IPv4');
 INSERT INTO `azure_polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('13.105.104.128/26', 'IPv4');
 INSERT INTO `azure_polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.20.34.0/24', 'IPv4');

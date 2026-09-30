@@ -98,6 +98,7 @@ INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('20.8
 INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('20.87.92.64/32', 'IPv4');
 INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('20.87.192.0/18', 'IPv4');
 INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('20.95.224.0/23', 'IPv4');
+INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('20.95.226.0/24', 'IPv4');
 INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('20.135.78.0/23', 'IPv4');
 INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('20.135.80.0/22', 'IPv4');
 INSERT INTO `azure_southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('20.150.21.0/24', 'IPv4');

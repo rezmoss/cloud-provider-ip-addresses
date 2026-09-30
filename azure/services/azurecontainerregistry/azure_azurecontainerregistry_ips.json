@@ -3258,6 +3258,12 @@
     "region": ""
   },
   {
+    "ip_address": "145.191.182.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry",
+    "region": ""
+  },
+  {
     "ip_address": "158.23.10.128/26",
     "ip_type": "IPv4",
     "service": "AzureContainerRegistry",

@@ -1,6 +1,6 @@
 #!/bin/bash
 # Akamai IP Ranges
-# Updated: 2026-09-29 02:29:47
+# Updated: 2026-09-30 02:35:53
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -185,7 +185,7 @@ iptables -A INPUT -s 165.254.203.192/26 -j ACCEPT
 iptables -A INPUT -s 165.254.237.128/25 -j ACCEPT
 iptables -A INPUT -s 165.254.238.128/25 -j ACCEPT
 iptables -A INPUT -s 165.254.247.128/25 -j ACCEPT
-iptables -A INPUT -s 167.140.240.0/23 -j ACCEPT
+iptables -A INPUT -s 167.140.240.0/24 -j ACCEPT
 iptables -A INPUT -s 168.143.242.0/23 -j ACCEPT
 iptables -A INPUT -s 168.143.254.0/23 -j ACCEPT
 iptables -A INPUT -s 170.74.16.0/24 -j ACCEPT
@@ -541,14 +541,13 @@ ip6tables -A INPUT -s 2600:3c0f:42::/47 -j ACCEPT
 ip6tables -A INPUT -s 2600:3c0f:44::/46 -j ACCEPT
 ip6tables -A INPUT -s 2600:3c0f:48::/47 -j ACCEPT
 ip6tables -A INPUT -s 2600:3c0f:50::/45 -j ACCEPT
+ip6tables -A INPUT -s 2600:3c0f:58::/48 -j ACCEPT
 ip6tables -A INPUT -s 2600:3c11::/32 -j ACCEPT
 ip6tables -A INPUT -s 2600:3c12:100::/40 -j ACCEPT
 ip6tables -A INPUT -s 2600:3c12:300::/40 -j ACCEPT
 ip6tables -A INPUT -s 2600:3c12:400::/39 -j ACCEPT
 ip6tables -A INPUT -s 2600:3c12:600::/40 -j ACCEPT
-ip6tables -A INPUT -s 2600:3c12:800::/38 -j ACCEPT
-ip6tables -A INPUT -s 2600:3c12:c00::/39 -j ACCEPT
-ip6tables -A INPUT -s 2600:3c12:e00::/40 -j ACCEPT
+ip6tables -A INPUT -s 2600:3c12:800::/37 -j ACCEPT
 ip6tables -A INPUT -s 2600:3c13::/32 -j ACCEPT
 ip6tables -A INPUT -s 2600:3c14::/30 -j ACCEPT
 ip6tables -A INPUT -s 2600:3c18::/30 -j ACCEPT

@@ -288,6 +288,24 @@
     "region": "japanwest"
   },
   {
+    "ip_address": "9.129.231.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.japanwest",
+    "region": "japanwest"
+  },
+  {
+    "ip_address": "9.129.246.192/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.japanwest",
+    "region": "japanwest"
+  },
+  {
+    "ip_address": "9.129.248.112/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.japanwest",
+    "region": "japanwest"
+  },
+  {
     "ip_address": "13.73.232.0/21",
     "ip_type": "IPv4",
     "service": "AzureCloud.japanwest",
@@ -2706,37 +2724,7 @@
     "region": "japanwest"
   },
   {
-    "ip_address": "135.149.128.0/23",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.japanwest",
-    "region": "japanwest"
-  },
-  {
-    "ip_address": "135.149.130.0/30",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.japanwest",
-    "region": "japanwest"
-  },
-  {
-    "ip_address": "135.149.130.4/31",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.japanwest",
-    "region": "japanwest"
-  },
-  {
-    "ip_address": "135.149.130.8/29",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.japanwest",
-    "region": "japanwest"
-  },
-  {
-    "ip_address": "135.149.130.16/28",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.japanwest",
-    "region": "japanwest"
-  },
-  {
-    "ip_address": "135.149.130.32/27",
+    "ip_address": "135.149.128.0/17",
     "ip_type": "IPv4",
     "service": "AzureCloud.japanwest",
     "region": "japanwest"
@@ -2745,54 +2733,6 @@
     "ip_address": "135.149.130.48/28",
     "ip_type": "IPv4",
     "service": "PowerBI.JapanWest",
-    "region": "japanwest"
-  },
-  {
-    "ip_address": "135.149.130.64/26",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.japanwest",
-    "region": "japanwest"
-  },
-  {
-    "ip_address": "135.149.130.128/25",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.japanwest",
-    "region": "japanwest"
-  },
-  {
-    "ip_address": "135.149.131.0/24",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.japanwest",
-    "region": "japanwest"
-  },
-  {
-    "ip_address": "135.149.132.0/22",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.japanwest",
-    "region": "japanwest"
-  },
-  {
-    "ip_address": "135.149.136.0/21",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.japanwest",
-    "region": "japanwest"
-  },
-  {
-    "ip_address": "135.149.144.0/20",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.japanwest",
-    "region": "japanwest"
-  },
-  {
-    "ip_address": "135.149.160.0/19",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.japanwest",
-    "region": "japanwest"
-  },
-  {
-    "ip_address": "135.149.192.0/18",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.japanwest",
     "region": "japanwest"
   },
   {

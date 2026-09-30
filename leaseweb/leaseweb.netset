@@ -1,7 +1,7 @@
 # leaseweb IP ranges - ipset restore format (hash:net)
-# Version: 48 | Generated: 2026-09-29 | Last changed: 2026-09-29
+# Version: 49 | Generated: 2026-09-30 | Last changed: 2026-09-30
 # IPv4: 1128 merged subnets, 2356480 unique IPs
-# IPv6: 319 merged subnets
+# IPv6: 313 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
 # Load with: sudo ipset restore -! < leaseweb.netset
@@ -1212,7 +1212,6 @@ add leaseweb_v6 2a09:43c0::/29
 add leaseweb_v6 2a09:7300::/29
 add leaseweb_v6 2a09:7b00::/29
 add leaseweb_v6 2a09:7f80::/29
-add leaseweb_v6 2a09:b700::/29
 add leaseweb_v6 2a09:db40::/48
 add leaseweb_v6 2a0a:1400::/29
 add leaseweb_v6 2a0a:2340::/29
@@ -1282,7 +1281,6 @@ add leaseweb_v6 2a0f:1e06::/32
 add leaseweb_v6 2a0f:1e80::/31
 add leaseweb_v6 2a0f:1e84::/32
 add leaseweb_v6 2a0f:2500::/29
-add leaseweb_v6 2a0f:2700:1::/48
 add leaseweb_v6 2a0f:2700:2::/48
 add leaseweb_v6 2a0f:2707::/32
 add leaseweb_v6 2a0f:2840::/29
@@ -1307,7 +1305,6 @@ add leaseweb_v6 2a0f:7d02:1::/48
 add leaseweb_v6 2a0f:7d06:33::/48
 add leaseweb_v6 2a0f:8100::/29
 add leaseweb_v6 2a0f:8680::/29
-add leaseweb_v6 2a0f:a200::/29
 add leaseweb_v6 2a0f:a940::/29
 add leaseweb_v6 2a0f:cc00::/29
 add leaseweb_v6 2a0f:d200::/29
@@ -1393,7 +1390,6 @@ add leaseweb_v6 2a11:fd80::/29
 add leaseweb_v6 2a12:3300::/29
 add leaseweb_v6 2a12:3f00::/29
 add leaseweb_v6 2a12:4000::/29
-add leaseweb_v6 2a12:4ac0::/29
 add leaseweb_v6 2a12:4b00::/29
 add leaseweb_v6 2a12:4c80::/29
 add leaseweb_v6 2a12:4f00::/29
@@ -1431,7 +1427,6 @@ add leaseweb_v6 2a13:2d40::/29
 add leaseweb_v6 2a13:2dc0::/29
 add leaseweb_v6 2a13:2e40::/29
 add leaseweb_v6 2a13:2fc0::/29
-add leaseweb_v6 2a13:3040::/29
 add leaseweb_v6 2a13:3380::/29
 add leaseweb_v6 2a13:4900::/29
 add leaseweb_v6 2a13:5b80::/29
@@ -1445,7 +1440,6 @@ add leaseweb_v6 2a13:8c86:44::/48
 add leaseweb_v6 2a13:8c86:55::/48
 add leaseweb_v6 2a13:8c86:66::/48
 add leaseweb_v6 2a13:9280::/32
-add leaseweb_v6 2a13:9480::/29
 add leaseweb_v6 2a13:c900:44::/48
 add leaseweb_v6 2a13:c905::/32
 add leaseweb_v6 2a13:c906::/31

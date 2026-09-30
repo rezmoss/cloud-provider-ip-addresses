@@ -274,8 +274,11 @@ INSERT INTO `azure_appconfiguration_ips` (`ip_address`, `ip_type`) VALUES ('40.8
 INSERT INTO `azure_appconfiguration_ips` (`ip_address`, `ip_type`) VALUES ('40.119.11.192/28', 'IPv4');
 INSERT INTO `azure_appconfiguration_ips` (`ip_address`, `ip_type`) VALUES ('40.120.75.128/27', 'IPv4');
 INSERT INTO `azure_appconfiguration_ips` (`ip_address`, `ip_type`) VALUES ('48.196.92.0/26', 'IPv4');
+INSERT INTO `azure_appconfiguration_ips` (`ip_address`, `ip_type`) VALUES ('48.196.161.128/27', 'IPv4');
 INSERT INTO `azure_appconfiguration_ips` (`ip_address`, `ip_type`) VALUES ('48.197.84.0/26', 'IPv4');
+INSERT INTO `azure_appconfiguration_ips` (`ip_address`, `ip_type`) VALUES ('48.197.152.0/27', 'IPv4');
 INSERT INTO `azure_appconfiguration_ips` (`ip_address`, `ip_type`) VALUES ('48.198.92.0/26', 'IPv4');
+INSERT INTO `azure_appconfiguration_ips` (`ip_address`, `ip_type`) VALUES ('48.198.196.64/27', 'IPv4');
 INSERT INTO `azure_appconfiguration_ips` (`ip_address`, `ip_type`) VALUES ('48.215.144.192/27', 'IPv4');
 INSERT INTO `azure_appconfiguration_ips` (`ip_address`, `ip_type`) VALUES ('48.216.8.224/27', 'IPv4');
 INSERT INTO `azure_appconfiguration_ips` (`ip_address`, `ip_type`) VALUES ('48.216.26.0/26', 'IPv4');
@@ -463,6 +466,7 @@ INSERT INTO `azure_appconfiguration_ips` (`ip_address`, `ip_type`) VALUES ('104.
 INSERT INTO `azure_appconfiguration_ips` (`ip_address`, `ip_type`) VALUES ('104.214.166.64/27', 'IPv4');
 INSERT INTO `azure_appconfiguration_ips` (`ip_address`, `ip_type`) VALUES ('134.138.73.192/26', 'IPv4');
 INSERT INTO `azure_appconfiguration_ips` (`ip_address`, `ip_type`) VALUES ('134.138.96.192/27', 'IPv4');
+INSERT INTO `azure_appconfiguration_ips` (`ip_address`, `ip_type`) VALUES ('145.191.183.0/27', 'IPv4');
 INSERT INTO `azure_appconfiguration_ips` (`ip_address`, `ip_type`) VALUES ('158.23.12.0/27', 'IPv4');
 INSERT INTO `azure_appconfiguration_ips` (`ip_address`, `ip_type`) VALUES ('158.23.103.128/26', 'IPv4');
 INSERT INTO `azure_appconfiguration_ips` (`ip_address`, `ip_type`) VALUES ('158.23.123.128/27', 'IPv4');

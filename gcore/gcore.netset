@@ -1,7 +1,7 @@
 # gcore IP ranges - ipset restore format (hash:net)
-# Version: 47 | Generated: 2026-09-29 | Last changed: 2026-09-29
-# IPv4: 575 merged subnets, 984 unique IPs
-# IPv6: 474 merged subnets
+# Version: 48 | Generated: 2026-09-30 | Last changed: 2026-09-30
+# IPv4: 575 merged subnets, 983 unique IPs
+# IPv6: 473 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
 # Load with: sudo ipset restore -! < gcore.netset
@@ -9,6 +9,7 @@
 create gcore_v4 hash:net family inet hashsize 4096 maxelem 1048576 -exist
 flush gcore_v4
 add gcore_v4 1.37.77.98/32
+add gcore_v4 2.78.47.38/32
 add gcore_v4 5.1.107.249/32
 add gcore_v4 5.8.92.4/30
 add gcore_v4 5.8.92.8/32
@@ -79,7 +80,6 @@ add gcore_v4 62.112.222.229/32
 add gcore_v4 62.112.223.4/31
 add gcore_v4 62.209.27.232/32
 add gcore_v4 65.20.85.192/32
-add gcore_v4 78.111.103.4/31
 add gcore_v4 78.111.110.4/31
 add gcore_v4 78.111.110.6/32
 add gcore_v4 79.133.108.6/31
@@ -1001,7 +1001,6 @@ add gcore_v6 2a03:90c0:6a1:2801::4/126
 add gcore_v6 2a03:90c0:6a1:2801::8/128
 add gcore_v6 2a03:90c0:6a1:2801::10/126
 add gcore_v6 2a03:90c0:6a1:2801::14/127
-add gcore_v6 2a03:90c0:6b1:2801::4/127
 add gcore_v6 2a03:90c0:6d1:2801::4/126
 add gcore_v6 2a03:90c0:6d1:2801::8/127
 add gcore_v6 2a03:90c0:6d1:2801::10/125

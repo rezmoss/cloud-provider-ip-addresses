@@ -114,6 +114,18 @@
     "region": "canadaeast"
   },
   {
+    "ip_address": "145.191.183.96/30",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "145.191.184.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
     "ip_address": "2603:1030:1005::2a8/126",
     "ip_type": "IPv6",
     "service": "AzureMonitor.CanadaEast",

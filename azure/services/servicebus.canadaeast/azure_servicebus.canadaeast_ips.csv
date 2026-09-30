@@ -4,4 +4,5 @@ ip_address,ip_type,service,region
 52.139.110.0/25,IPv4,ServiceBus.CanadaEast,canadaeast
 2603:1030:1005::220/123,IPv6,ServiceBus.CanadaEast,canadaeast
 2603:1030:1005:1::500/120,IPv6,ServiceBus.CanadaEast,canadaeast
+2603:1030:1005:13::280/121,IPv6,ServiceBus.CanadaEast,canadaeast
 2603:1030:1005:402::170/125,IPv6,ServiceBus.CanadaEast,canadaeast

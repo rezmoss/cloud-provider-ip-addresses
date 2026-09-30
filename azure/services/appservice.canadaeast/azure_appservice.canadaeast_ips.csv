@@ -10,4 +10,5 @@ ip_address,ip_type,service,region
 52.242.41.0/24,IPv4,AppService.CanadaEast,canadaeast
 52.242.42.0/23,IPv4,AppService.CanadaEast,canadaeast
 2603:1030:1005:2::400/118,IPv6,AppService.CanadaEast,canadaeast
+2603:1030:1005:13::400/120,IPv6,AppService.CanadaEast,canadaeast
 2603:1030:1005:402::a0/123,IPv6,AppService.CanadaEast,canadaeast

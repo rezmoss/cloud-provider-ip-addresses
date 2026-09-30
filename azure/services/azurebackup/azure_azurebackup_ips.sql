@@ -367,6 +367,7 @@ INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('134.112.1
 INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('134.112.194.16/28', 'IPv4');
 INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('134.138.70.80/28', 'IPv4');
 INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('134.138.70.128/26', 'IPv4');
+INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('145.191.182.96/28', 'IPv4');
 INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('158.23.100.192/26', 'IPv4');
 INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('158.158.138.202/31', 'IPv4');
 INSERT INTO `azure_azurebackup_ips` (`ip_address`, `ip_type`) VALUES ('158.158.139.0/28', 'IPv4');

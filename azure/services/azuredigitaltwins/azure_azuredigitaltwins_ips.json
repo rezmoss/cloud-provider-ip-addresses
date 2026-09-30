@@ -1596,6 +1596,12 @@
     "region": ""
   },
   {
+    "ip_address": "145.191.182.80/29",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins",
+    "region": ""
+  },
+  {
     "ip_address": "157.55.90.48/29",
     "ip_type": "IPv4",
     "service": "AzureDigitalTwins",

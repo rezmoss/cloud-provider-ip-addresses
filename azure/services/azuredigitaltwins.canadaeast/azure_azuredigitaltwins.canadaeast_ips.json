@@ -6,6 +6,12 @@
     "region": "canadaeast"
   },
   {
+    "ip_address": "145.191.182.80/29",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
     "ip_address": "2603:1030:1005:3::200/121",
     "ip_type": "IPv6",
     "service": "AzureDigitalTwins.CanadaEast",

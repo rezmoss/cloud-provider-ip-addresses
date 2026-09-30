@@ -549,6 +549,7 @@ INSERT INTO `azure_azurecontainerregistry_ips` (`ip_address`, `ip_type`) VALUES 
 INSERT INTO `azure_azurecontainerregistry_ips` (`ip_address`, `ip_type`) VALUES ('134.138.96.64/26', 'IPv4');
 INSERT INTO `azure_azurecontainerregistry_ips` (`ip_address`, `ip_type`) VALUES ('134.138.98.0/25', 'IPv4');
 INSERT INTO `azure_azurecontainerregistry_ips` (`ip_address`, `ip_type`) VALUES ('135.234.22.0/26', 'IPv4');
+INSERT INTO `azure_azurecontainerregistry_ips` (`ip_address`, `ip_type`) VALUES ('145.191.182.192/26', 'IPv4');
 INSERT INTO `azure_azurecontainerregistry_ips` (`ip_address`, `ip_type`) VALUES ('158.23.10.128/26', 'IPv4');
 INSERT INTO `azure_azurecontainerregistry_ips` (`ip_address`, `ip_type`) VALUES ('158.23.12.128/25', 'IPv4');
 INSERT INTO `azure_azurecontainerregistry_ips` (`ip_address`, `ip_type`) VALUES ('158.23.100.0/26', 'IPv4');

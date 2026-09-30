@@ -203,7 +203,6 @@ ip_address,ip_type,service,region
 163.156.4.0/24,IPv4,akamai-as32787,global
 163.156.5.0/24,IPv4,akamai-as32787,global
 167.140.240.0/24,IPv4,akamai-as32787,global
-167.140.241.0/24,IPv4,akamai-as32787,global
 170.74.16.0/24,IPv4,akamai-as32787,global
 184.26.104.0/22,IPv4,akamai-as32787,global
 184.29.144.0/22,IPv4,akamai-as32787,global

@@ -1,6 +1,156 @@
 [
   {
+    "ip_address": "1.201.16.0/24",
+    "ip_type": "IPv4",
+    "service": "gabia-as17589",
+    "region": "global"
+  },
+  {
+    "ip_address": "1.201.17.0/24",
+    "ip_type": "IPv4",
+    "service": "gabia-as17589",
+    "region": "global"
+  },
+  {
+    "ip_address": "1.201.18.0/24",
+    "ip_type": "IPv4",
+    "service": "gabia-as17589",
+    "region": "global"
+  },
+  {
+    "ip_address": "1.201.19.0/24",
+    "ip_type": "IPv4",
+    "service": "gabia-as17589",
+    "region": "global"
+  },
+  {
+    "ip_address": "1.201.65.0/24",
+    "ip_type": "IPv4",
+    "service": "gabia-as17589",
+    "region": "global"
+  },
+  {
+    "ip_address": "1.201.66.0/24",
+    "ip_type": "IPv4",
+    "service": "gabia-as17589",
+    "region": "global"
+  },
+  {
+    "ip_address": "1.201.67.0/24",
+    "ip_type": "IPv4",
+    "service": "gabia-as17589",
+    "region": "global"
+  },
+  {
+    "ip_address": "1.201.68.0/24",
+    "ip_type": "IPv4",
+    "service": "gabia-as17589",
+    "region": "global"
+  },
+  {
     "ip_address": "1.201.99.0/24",
+    "ip_type": "IPv4",
+    "service": "gabia-as17589",
+    "region": "global"
+  },
+  {
+    "ip_address": "1.201.111.0/24",
+    "ip_type": "IPv4",
+    "service": "gabia-as17589",
+    "region": "global"
+  },
+  {
+    "ip_address": "1.201.112.0/24",
+    "ip_type": "IPv4",
+    "service": "gabia-as17589",
+    "region": "global"
+  },
+  {
+    "ip_address": "1.201.113.0/24",
+    "ip_type": "IPv4",
+    "service": "gabia-as17589",
+    "region": "global"
+  },
+  {
+    "ip_address": "1.201.114.0/24",
+    "ip_type": "IPv4",
+    "service": "gabia-as17589",
+    "region": "global"
+  },
+  {
+    "ip_address": "1.201.115.0/24",
+    "ip_type": "IPv4",
+    "service": "gabia-as17589",
+    "region": "global"
+  },
+  {
+    "ip_address": "1.201.116.0/24",
+    "ip_type": "IPv4",
+    "service": "gabia-as17589",
+    "region": "global"
+  },
+  {
+    "ip_address": "1.201.117.0/24",
+    "ip_type": "IPv4",
+    "service": "gabia-as17589",
+    "region": "global"
+  },
+  {
+    "ip_address": "1.201.118.0/24",
+    "ip_type": "IPv4",
+    "service": "gabia-as17589",
+    "region": "global"
+  },
+  {
+    "ip_address": "1.201.119.0/24",
+    "ip_type": "IPv4",
+    "service": "gabia-as17589",
+    "region": "global"
+  },
+  {
+    "ip_address": "1.201.120.0/24",
+    "ip_type": "IPv4",
+    "service": "gabia-as17589",
+    "region": "global"
+  },
+  {
+    "ip_address": "1.201.121.0/24",
+    "ip_type": "IPv4",
+    "service": "gabia-as17589",
+    "region": "global"
+  },
+  {
+    "ip_address": "1.201.122.0/24",
+    "ip_type": "IPv4",
+    "service": "gabia-as17589",
+    "region": "global"
+  },
+  {
+    "ip_address": "1.201.123.0/24",
+    "ip_type": "IPv4",
+    "service": "gabia-as17589",
+    "region": "global"
+  },
+  {
+    "ip_address": "1.201.124.0/24",
+    "ip_type": "IPv4",
+    "service": "gabia-as17589",
+    "region": "global"
+  },
+  {
+    "ip_address": "1.201.125.0/24",
+    "ip_type": "IPv4",
+    "service": "gabia-as17589",
+    "region": "global"
+  },
+  {
+    "ip_address": "1.201.126.0/24",
+    "ip_type": "IPv4",
+    "service": "gabia-as17589",
+    "region": "global"
+  },
+  {
+    "ip_address": "1.201.127.0/24",
     "ip_type": "IPv4",
     "service": "gabia-as17589",
     "region": "global"
@@ -24,6 +174,30 @@
     "region": "global"
   },
   {
+    "ip_address": "103.60.124.0/24",
+    "ip_type": "IPv4",
+    "service": "gabia-as17589",
+    "region": "global"
+  },
+  {
+    "ip_address": "103.60.125.0/24",
+    "ip_type": "IPv4",
+    "service": "gabia-as17589",
+    "region": "global"
+  },
+  {
+    "ip_address": "103.60.126.0/24",
+    "ip_type": "IPv4",
+    "service": "gabia-as17589",
+    "region": "global"
+  },
+  {
+    "ip_address": "103.60.127.0/24",
+    "ip_type": "IPv4",
+    "service": "gabia-as17589",
+    "region": "global"
+  },
+  {
     "ip_address": "103.240.48.0/22",
     "ip_type": "IPv4",
     "service": "gabia-as17589",
@@ -31,6 +205,12 @@
   },
   {
     "ip_address": "121.78.79.0/24",
+    "ip_type": "IPv4",
+    "service": "gabia-as17589",
+    "region": "global"
+  },
+  {
+    "ip_address": "121.78.80.0/24",
     "ip_type": "IPv4",
     "service": "gabia-as17589",
     "region": "global"
@@ -114,7 +294,19 @@
     "region": "global"
   },
   {
+    "ip_address": "121.78.123.0/24",
+    "ip_type": "IPv4",
+    "service": "gabia-as17589",
+    "region": "global"
+  },
+  {
     "ip_address": "121.78.124.0/24",
+    "ip_type": "IPv4",
+    "service": "gabia-as17589",
+    "region": "global"
+  },
+  {
+    "ip_address": "121.78.125.0/24",
     "ip_type": "IPv4",
     "service": "gabia-as17589",
     "region": "global"
@@ -132,7 +324,19 @@
     "region": "global"
   },
   {
+    "ip_address": "121.78.128.0/24",
+    "ip_type": "IPv4",
+    "service": "gabia-as17589",
+    "region": "global"
+  },
+  {
     "ip_address": "121.78.129.0/24",
+    "ip_type": "IPv4",
+    "service": "gabia-as17589",
+    "region": "global"
+  },
+  {
+    "ip_address": "121.78.130.0/24",
     "ip_type": "IPv4",
     "service": "gabia-as17589",
     "region": "global"
@@ -186,6 +390,12 @@
     "region": "global"
   },
   {
+    "ip_address": "121.78.176.0/24",
+    "ip_type": "IPv4",
+    "service": "gabia-as17589",
+    "region": "global"
+  },
+  {
     "ip_address": "121.78.177.0/24",
     "ip_type": "IPv4",
     "service": "gabia-as17589",
@@ -210,6 +420,18 @@
     "region": "global"
   },
   {
+    "ip_address": "121.78.183.0/24",
+    "ip_type": "IPv4",
+    "service": "gabia-as17589",
+    "region": "global"
+  },
+  {
+    "ip_address": "121.78.188.0/25",
+    "ip_type": "IPv4",
+    "service": "gabia-as17589",
+    "region": "global"
+  },
+  {
     "ip_address": "121.78.192.0/24",
     "ip_type": "IPv4",
     "service": "gabia-as17589",
@@ -217,6 +439,12 @@
   },
   {
     "ip_address": "121.78.193.0/24",
+    "ip_type": "IPv4",
+    "service": "gabia-as17589",
+    "region": "global"
+  },
+  {
+    "ip_address": "121.78.194.0/24",
     "ip_type": "IPv4",
     "service": "gabia-as17589",
     "region": "global"
@@ -235,6 +463,48 @@
   },
   {
     "ip_address": "121.78.197.0/24",
+    "ip_type": "IPv4",
+    "service": "gabia-as17589",
+    "region": "global"
+  },
+  {
+    "ip_address": "139.150.8.0/24",
+    "ip_type": "IPv4",
+    "service": "gabia-as17589",
+    "region": "global"
+  },
+  {
+    "ip_address": "139.150.9.0/24",
+    "ip_type": "IPv4",
+    "service": "gabia-as17589",
+    "region": "global"
+  },
+  {
+    "ip_address": "139.150.10.0/24",
+    "ip_type": "IPv4",
+    "service": "gabia-as17589",
+    "region": "global"
+  },
+  {
+    "ip_address": "139.150.11.0/24",
+    "ip_type": "IPv4",
+    "service": "gabia-as17589",
+    "region": "global"
+  },
+  {
+    "ip_address": "139.150.81.0/24",
+    "ip_type": "IPv4",
+    "service": "gabia-as17589",
+    "region": "global"
+  },
+  {
+    "ip_address": "139.150.82.0/24",
+    "ip_type": "IPv4",
+    "service": "gabia-as17589",
+    "region": "global"
+  },
+  {
+    "ip_address": "139.150.91.0/24",
     "ip_type": "IPv4",
     "service": "gabia-as17589",
     "region": "global"

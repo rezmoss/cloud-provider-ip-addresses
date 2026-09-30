@@ -216,7 +216,7 @@
     "region": "southfrance"
   },
   {
-    "ip_address": "20.111.64.0/21",
+    "ip_address": "20.111.64.0/18",
     "ip_type": "IPv4",
     "service": "AzureCloud.southfrance",
     "region": "southfrance"
@@ -231,12 +231,6 @@
     "ip_address": "20.111.71.160/28",
     "ip_type": "IPv4",
     "service": "AzureMonitor.FranceSouth",
-    "region": "southfrance"
-  },
-  {
-    "ip_address": "20.111.72.0/22",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southfrance",
     "region": "southfrance"
   },
   {
@@ -261,12 +255,6 @@
     "ip_address": "20.111.72.136/29",
     "ip_type": "IPv4",
     "service": "AzureArcInfrastructure.FranceSouth",
-    "region": "southfrance"
-  },
-  {
-    "ip_address": "20.111.76.0/23",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southfrance",
     "region": "southfrance"
   },
   {
@@ -300,12 +288,6 @@
     "region": "southfrance"
   },
   {
-    "ip_address": "20.111.78.0/25",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southfrance",
-    "region": "southfrance"
-  },
-  {
     "ip_address": "20.111.78.0/29",
     "ip_type": "IPv4",
     "service": "AzureMonitor.FranceSouth",
@@ -315,30 +297,6 @@
     "ip_address": "20.111.78.8/30",
     "ip_type": "IPv4",
     "service": "AzureMonitor.FranceSouth",
-    "region": "southfrance"
-  },
-  {
-    "ip_address": "20.111.78.144/28",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southfrance",
-    "region": "southfrance"
-  },
-  {
-    "ip_address": "20.111.78.160/27",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southfrance",
-    "region": "southfrance"
-  },
-  {
-    "ip_address": "20.111.78.192/26",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southfrance",
-    "region": "southfrance"
-  },
-  {
-    "ip_address": "20.111.79.0/24",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southfrance",
     "region": "southfrance"
   },
   {
@@ -357,12 +315,6 @@
     "ip_address": "20.111.79.112/28",
     "ip_type": "IPv4",
     "service": "LogicApps.FranceSouth",
-    "region": "southfrance"
-  },
-  {
-    "ip_address": "20.111.80.0/20",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southfrance",
     "region": "southfrance"
   },
   {
@@ -393,12 +345,6 @@
     "ip_address": "20.111.89.64/27",
     "ip_type": "IPv4",
     "service": "AzureSecurityCenter.FranceSouth",
-    "region": "southfrance"
-  },
-  {
-    "ip_address": "20.111.96.0/19",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southfrance",
     "region": "southfrance"
   },
   {

@@ -1,6 +1,6 @@
 #!/bin/bash
 # Leaseweb IP Ranges
-# Updated: 2026-09-29 02:31:32
+# Updated: 2026-09-30 02:36:10
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -1209,7 +1209,6 @@ ip6tables -A INPUT -s 2a09:43c0::/29 -j ACCEPT
 ip6tables -A INPUT -s 2a09:7300::/29 -j ACCEPT
 ip6tables -A INPUT -s 2a09:7b00::/29 -j ACCEPT
 ip6tables -A INPUT -s 2a09:7f80::/29 -j ACCEPT
-ip6tables -A INPUT -s 2a09:b700::/29 -j ACCEPT
 ip6tables -A INPUT -s 2a09:db40::/48 -j ACCEPT
 ip6tables -A INPUT -s 2a0a:1400::/29 -j ACCEPT
 ip6tables -A INPUT -s 2a0a:2340::/29 -j ACCEPT
@@ -1279,7 +1278,6 @@ ip6tables -A INPUT -s 2a0f:1e06::/32 -j ACCEPT
 ip6tables -A INPUT -s 2a0f:1e80::/31 -j ACCEPT
 ip6tables -A INPUT -s 2a0f:1e84::/32 -j ACCEPT
 ip6tables -A INPUT -s 2a0f:2500::/29 -j ACCEPT
-ip6tables -A INPUT -s 2a0f:2700:1::/48 -j ACCEPT
 ip6tables -A INPUT -s 2a0f:2700:2::/48 -j ACCEPT
 ip6tables -A INPUT -s 2a0f:2707::/32 -j ACCEPT
 ip6tables -A INPUT -s 2a0f:2840::/29 -j ACCEPT
@@ -1304,7 +1302,6 @@ ip6tables -A INPUT -s 2a0f:7d02:1::/48 -j ACCEPT
 ip6tables -A INPUT -s 2a0f:7d06:33::/48 -j ACCEPT
 ip6tables -A INPUT -s 2a0f:8100::/29 -j ACCEPT
 ip6tables -A INPUT -s 2a0f:8680::/29 -j ACCEPT
-ip6tables -A INPUT -s 2a0f:a200::/29 -j ACCEPT
 ip6tables -A INPUT -s 2a0f:a940::/29 -j ACCEPT
 ip6tables -A INPUT -s 2a0f:cc00::/29 -j ACCEPT
 ip6tables -A INPUT -s 2a0f:d200::/29 -j ACCEPT
@@ -1390,7 +1387,6 @@ ip6tables -A INPUT -s 2a11:fd80::/29 -j ACCEPT
 ip6tables -A INPUT -s 2a12:3300::/29 -j ACCEPT
 ip6tables -A INPUT -s 2a12:3f00::/29 -j ACCEPT
 ip6tables -A INPUT -s 2a12:4000::/29 -j ACCEPT
-ip6tables -A INPUT -s 2a12:4ac0::/29 -j ACCEPT
 ip6tables -A INPUT -s 2a12:4b00::/29 -j ACCEPT
 ip6tables -A INPUT -s 2a12:4c80::/29 -j ACCEPT
 ip6tables -A INPUT -s 2a12:4f00::/29 -j ACCEPT
@@ -1428,7 +1424,6 @@ ip6tables -A INPUT -s 2a13:2d40::/29 -j ACCEPT
 ip6tables -A INPUT -s 2a13:2dc0::/29 -j ACCEPT
 ip6tables -A INPUT -s 2a13:2e40::/29 -j ACCEPT
 ip6tables -A INPUT -s 2a13:2fc0::/29 -j ACCEPT
-ip6tables -A INPUT -s 2a13:3040::/29 -j ACCEPT
 ip6tables -A INPUT -s 2a13:3380::/29 -j ACCEPT
 ip6tables -A INPUT -s 2a13:4900::/29 -j ACCEPT
 ip6tables -A INPUT -s 2a13:5b80::/29 -j ACCEPT
@@ -1442,7 +1437,6 @@ ip6tables -A INPUT -s 2a13:8c86:44::/48 -j ACCEPT
 ip6tables -A INPUT -s 2a13:8c86:55::/48 -j ACCEPT
 ip6tables -A INPUT -s 2a13:8c86:66::/48 -j ACCEPT
 ip6tables -A INPUT -s 2a13:9280::/32 -j ACCEPT
-ip6tables -A INPUT -s 2a13:9480::/29 -j ACCEPT
 ip6tables -A INPUT -s 2a13:c900:44::/48 -j ACCEPT
 ip6tables -A INPUT -s 2a13:c905::/32 -j ACCEPT
 ip6tables -A INPUT -s 2a13:c906::/31 -j ACCEPT

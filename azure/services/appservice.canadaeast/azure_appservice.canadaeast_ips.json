@@ -66,6 +66,12 @@
     "region": "canadaeast"
   },
   {
+    "ip_address": "2603:1030:1005:13::400/120",
+    "ip_type": "IPv6",
+    "service": "AppService.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
     "ip_address": "2603:1030:1005:402::a0/123",
     "ip_type": "IPv6",
     "service": "AppService.CanadaEast",

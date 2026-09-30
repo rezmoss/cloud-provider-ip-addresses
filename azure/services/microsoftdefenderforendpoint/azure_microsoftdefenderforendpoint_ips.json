@@ -144,6 +144,18 @@
     "region": ""
   },
   {
+    "ip_address": "48.197.152.240/28",
+    "ip_type": "IPv4",
+    "service": "MicrosoftDefenderForEndpoint",
+    "region": ""
+  },
+  {
+    "ip_address": "48.198.197.240/28",
+    "ip_type": "IPv4",
+    "service": "MicrosoftDefenderForEndpoint",
+    "region": ""
+  },
+  {
     "ip_address": "51.4.226.144/28",
     "ip_type": "IPv4",
     "service": "MicrosoftDefenderForEndpoint",

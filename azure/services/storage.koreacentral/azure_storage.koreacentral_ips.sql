@@ -23,4 +23,5 @@ INSERT INTO `azure_storage.koreacentral_ips` (`ip_address`, `ip_type`) VALUES ('
 INSERT INTO `azure_storage.koreacentral_ips` (`ip_address`, `ip_type`) VALUES ('52.239.164.192/26', 'IPv4');
 INSERT INTO `azure_storage.koreacentral_ips` (`ip_address`, `ip_type`) VALUES ('52.239.190.128/26', 'IPv4');
 INSERT INTO `azure_storage.koreacentral_ips` (`ip_address`, `ip_type`) VALUES ('135.130.106.0/23', 'IPv4');
+INSERT INTO `azure_storage.koreacentral_ips` (`ip_address`, `ip_type`) VALUES ('145.190.195.0/24', 'IPv4');
 INSERT INTO `azure_storage.koreacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:f06::/48', 'IPv6');

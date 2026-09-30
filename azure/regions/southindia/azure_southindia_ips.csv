@@ -8,6 +8,8 @@ ip_address,ip_type,service,region
 4.247.40.64/30,IPv4,AzureAttestation.SouthIndia,southindia
 9.129.65.0/26,IPv4,AzureCloud.southindia,southindia
 9.129.66.224/27,IPv4,AzureCloud.southindia,southindia
+9.129.244.0/26,IPv4,AzureCloud.southindia,southindia
+9.129.245.96/27,IPv4,AzureCloud.southindia,southindia
 13.71.64.0/18,IPv4,AzureCloud.southindia,southindia
 13.71.84.34/32,IPv4,AzureIoTHub.SouthIndia,southindia
 13.71.113.127/32,IPv4,AzureIoTHub.SouthIndia,southindia

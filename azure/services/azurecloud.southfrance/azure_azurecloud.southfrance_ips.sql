@@ -16,16 +16,7 @@ INSERT INTO `azure_azurecloud.southfrance_ips` (`ip_address`, `ip_type`) VALUES 
 INSERT INTO `azure_azurecloud.southfrance_ips` (`ip_address`, `ip_type`) VALUES ('20.47.102.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.southfrance_ips` (`ip_address`, `ip_type`) VALUES ('20.60.11.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.southfrance_ips` (`ip_address`, `ip_type`) VALUES ('20.60.188.0/23', 'IPv4');
-INSERT INTO `azure_azurecloud.southfrance_ips` (`ip_address`, `ip_type`) VALUES ('20.111.64.0/21', 'IPv4');
-INSERT INTO `azure_azurecloud.southfrance_ips` (`ip_address`, `ip_type`) VALUES ('20.111.72.0/22', 'IPv4');
-INSERT INTO `azure_azurecloud.southfrance_ips` (`ip_address`, `ip_type`) VALUES ('20.111.76.0/23', 'IPv4');
-INSERT INTO `azure_azurecloud.southfrance_ips` (`ip_address`, `ip_type`) VALUES ('20.111.78.0/25', 'IPv4');
-INSERT INTO `azure_azurecloud.southfrance_ips` (`ip_address`, `ip_type`) VALUES ('20.111.78.144/28', 'IPv4');
-INSERT INTO `azure_azurecloud.southfrance_ips` (`ip_address`, `ip_type`) VALUES ('20.111.78.160/27', 'IPv4');
-INSERT INTO `azure_azurecloud.southfrance_ips` (`ip_address`, `ip_type`) VALUES ('20.111.78.192/26', 'IPv4');
-INSERT INTO `azure_azurecloud.southfrance_ips` (`ip_address`, `ip_type`) VALUES ('20.111.79.0/24', 'IPv4');
-INSERT INTO `azure_azurecloud.southfrance_ips` (`ip_address`, `ip_type`) VALUES ('20.111.80.0/20', 'IPv4');
-INSERT INTO `azure_azurecloud.southfrance_ips` (`ip_address`, `ip_type`) VALUES ('20.111.96.0/19', 'IPv4');
+INSERT INTO `azure_azurecloud.southfrance_ips` (`ip_address`, `ip_type`) VALUES ('20.111.64.0/18', 'IPv4');
 INSERT INTO `azure_azurecloud.southfrance_ips` (`ip_address`, `ip_type`) VALUES ('20.135.28.0/23', 'IPv4');
 INSERT INTO `azure_azurecloud.southfrance_ips` (`ip_address`, `ip_type`) VALUES ('20.150.19.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.southfrance_ips` (`ip_address`, `ip_type`) VALUES ('20.157.156.0/24', 'IPv4');

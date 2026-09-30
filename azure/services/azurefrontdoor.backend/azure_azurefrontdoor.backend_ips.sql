@@ -147,6 +147,7 @@ INSERT INTO `azure_azurefrontdoor.backend_ips` (`ip_address`, `ip_type`) VALUES 
 INSERT INTO `azure_azurefrontdoor.backend_ips` (`ip_address`, `ip_type`) VALUES ('172.186.129.160/29', 'IPv4');
 INSERT INTO `azure_azurefrontdoor.backend_ips` (`ip_address`, `ip_type`) VALUES ('172.186.135.55/32', 'IPv4');
 INSERT INTO `azure_azurefrontdoor.backend_ips` (`ip_address`, `ip_type`) VALUES ('172.186.135.168/30', 'IPv4');
+INSERT INTO `azure_azurefrontdoor.backend_ips` (`ip_address`, `ip_type`) VALUES ('172.192.196.120/29', 'IPv4');
 INSERT INTO `azure_azurefrontdoor.backend_ips` (`ip_address`, `ip_type`) VALUES ('172.192.205.94/31', 'IPv4');
 INSERT INTO `azure_azurefrontdoor.backend_ips` (`ip_address`, `ip_type`) VALUES ('172.192.208.104/29', 'IPv4');
 INSERT INTO `azure_azurefrontdoor.backend_ips` (`ip_address`, `ip_type`) VALUES ('172.192.222.178/32', 'IPv4');

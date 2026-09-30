@@ -91,6 +91,7 @@ ip_address,ip_type,service,region
 20.87.92.64/32,IPv4,LogicApps.SouthAfricaNorth,southafricanorth
 20.87.192.0/18,IPv4,AzureCloud.southafricanorth,southafricanorth
 20.95.224.0/23,IPv4,AzureCloud.southafricanorth,southafricanorth
+20.95.226.0/24,IPv4,AzureCloud.southafricanorth,southafricanorth
 20.135.78.0/23,IPv4,AzureCloud.southafricanorth,southafricanorth
 20.135.80.0/22,IPv4,AzureCloud.southafricanorth,southafricanorth
 20.150.21.0/24,IPv4,AzureCloud.southafricanorth,southafricanorth

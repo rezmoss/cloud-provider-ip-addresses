@@ -10,6 +10,9 @@ INSERT INTO `azure_spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('9.129.43
 INSERT INTO `azure_spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('9.129.58.32/28', 'IPv4');
 INSERT INTO `azure_spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('9.129.67.64/27', 'IPv4');
 INSERT INTO `azure_spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('9.129.118.224/27', 'IPv4');
+INSERT INTO `azure_spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('9.129.236.128/25', 'IPv4');
+INSERT INTO `azure_spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('9.129.246.96/27', 'IPv4');
+INSERT INTO `azure_spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('9.129.248.0/28', 'IPv4');
 INSERT INTO `azure_spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('13.105.111.96/27', 'IPv4');
 INSERT INTO `azure_spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('20.20.39.0/24', 'IPv4');
 INSERT INTO `azure_spaincentral_ips` (`ip_address`, `ip_type`) VALUES ('20.33.131.0/24', 'IPv4');

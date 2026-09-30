@@ -414,6 +414,18 @@
     "region": ""
   },
   {
+    "ip_address": "48.197.156.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureWebPubSub",
+    "region": ""
+  },
+  {
+    "ip_address": "48.198.202.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureWebPubSub",
+    "region": ""
+  },
+  {
     "ip_address": "48.215.89.32/27",
     "ip_type": "IPv4",
     "service": "AzureWebPubSub",
@@ -1044,6 +1056,12 @@
     "region": ""
   },
   {
+    "ip_address": "2603:1030:1005:13::580/122",
+    "ip_type": "IPv6",
+    "service": "AzureWebPubSub",
+    "region": ""
+  },
+  {
     "ip_address": "2603:1030:1702:7::80/122",
     "ip_type": "IPv6",
     "service": "AzureWebPubSub",
@@ -1153,6 +1171,18 @@
   },
   {
     "ip_address": "2603:1040:1802:4::80/122",
+    "ip_type": "IPv6",
+    "service": "AzureWebPubSub",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1040:1a02:7::440/122",
+    "ip_type": "IPv6",
+    "service": "AzureWebPubSub",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1040:1b02:6::6c0/122",
     "ip_type": "IPv6",
     "service": "AzureWebPubSub",
     "region": ""

@@ -8,10 +8,13 @@ CREATE TABLE IF NOT EXISTS `azure_southeastus3_ips` (
 
 INSERT INTO `azure_southeastus3_ips` (`ip_address`, `ip_type`) VALUES ('9.129.45.0/25', 'IPv4');
 INSERT INTO `azure_southeastus3_ips` (`ip_address`, `ip_type`) VALUES ('9.129.58.96/28', 'IPv4');
+INSERT INTO `azure_southeastus3_ips` (`ip_address`, `ip_type`) VALUES ('9.129.231.128/25', 'IPv4');
+INSERT INTO `azure_southeastus3_ips` (`ip_address`, `ip_type`) VALUES ('9.129.248.48/28', 'IPv4');
 INSERT INTO `azure_southeastus3_ips` (`ip_address`, `ip_type`) VALUES ('20.20.52.128/27', 'IPv4');
 INSERT INTO `azure_southeastus3_ips` (`ip_address`, `ip_type`) VALUES ('20.33.119.0/24', 'IPv4');
 INSERT INTO `azure_southeastus3_ips` (`ip_address`, `ip_type`) VALUES ('20.38.51.0/24', 'IPv4');
 INSERT INTO `azure_southeastus3_ips` (`ip_address`, `ip_type`) VALUES ('20.143.104.0/23', 'IPv4');
+INSERT INTO `azure_southeastus3_ips` (`ip_address`, `ip_type`) VALUES ('20.143.244.0/23', 'IPv4');
 INSERT INTO `azure_southeastus3_ips` (`ip_address`, `ip_type`) VALUES ('20.153.28.0/24', 'IPv4');
 INSERT INTO `azure_southeastus3_ips` (`ip_address`, `ip_type`) VALUES ('20.153.28.0/24', 'IPv4');
 INSERT INTO `azure_southeastus3_ips` (`ip_address`, `ip_type`) VALUES ('20.153.46.0/24', 'IPv4');

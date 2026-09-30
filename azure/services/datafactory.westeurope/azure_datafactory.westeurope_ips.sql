@@ -18,6 +18,7 @@ INSERT INTO `azure_datafactory.westeurope_ips` (`ip_address`, `ip_type`) VALUES 
 INSERT INTO `azure_datafactory.westeurope_ips` (`ip_address`, `ip_type`) VALUES ('57.153.246.72/29', 'IPv4');
 INSERT INTO `azure_datafactory.westeurope_ips` (`ip_address`, `ip_type`) VALUES ('57.153.246.80/28', 'IPv4');
 INSERT INTO `azure_datafactory.westeurope_ips` (`ip_address`, `ip_type`) VALUES ('57.153.246.96/30', 'IPv4');
+INSERT INTO `azure_datafactory.westeurope_ips` (`ip_address`, `ip_type`) VALUES ('74.144.162.0/25', 'IPv4');
 INSERT INTO `azure_datafactory.westeurope_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:206:1::480/121', 'IPv6');
 INSERT INTO `azure_datafactory.westeurope_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:206:1::500/122', 'IPv6');
 INSERT INTO `azure_datafactory.westeurope_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:206:1::700/121', 'IPv6');

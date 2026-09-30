@@ -28,5 +28,11 @@
     "ip_type": "IPv6",
     "service": "AzureSignalR.CanadaEast",
     "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1005:13::540/122",
+    "ip_type": "IPv6",
+    "service": "AzureSignalR.CanadaEast",
+    "region": "canadaeast"
   }
 ]

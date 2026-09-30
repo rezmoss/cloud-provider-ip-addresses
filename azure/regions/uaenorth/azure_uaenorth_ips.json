@@ -150,6 +150,18 @@
     "region": "uaenorth"
   },
   {
+    "ip_address": "9.129.243.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uaenorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "9.129.245.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uaenorth",
+    "region": "uaenorth"
+  },
+  {
     "ip_address": "13.104.151.64/26",
     "ip_type": "IPv4",
     "service": "AzureCloud.uaenorth",

@@ -2082,6 +2082,12 @@
     "region": ""
   },
   {
+    "ip_address": "145.191.183.80/28",
+    "ip_type": "IPv4",
+    "service": "DataFactoryManagement",
+    "region": ""
+  },
+  {
     "ip_address": "158.23.15.0/28",
     "ip_type": "IPv4",
     "service": "DataFactoryManagement",

@@ -271,6 +271,7 @@ INSERT INTO `azure_azuredataexplorermanagement_ips` (`ip_address`, `ip_type`) VA
 INSERT INTO `azure_azuredataexplorermanagement_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f05::600/121', 'IPv6');
 INSERT INTO `azure_azuredataexplorermanagement_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f05:402::150/124', 'IPv6');
 INSERT INTO `azure_azuredataexplorermanagement_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005:1::380/121', 'IPv6');
+INSERT INTO `azure_azuredataexplorermanagement_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005:13::300/123', 'IPv6');
 INSERT INTO `azure_azuredataexplorermanagement_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005:402::150/124', 'IPv6');
 INSERT INTO `azure_azuredataexplorermanagement_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1102:1::1c0/123', 'IPv6');
 INSERT INTO `azure_azuredataexplorermanagement_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1202:1::1e0/123', 'IPv6');

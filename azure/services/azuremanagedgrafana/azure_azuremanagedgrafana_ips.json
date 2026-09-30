@@ -1176,6 +1176,12 @@
     "region": ""
   },
   {
+    "ip_address": "145.191.183.72/29",
+    "ip_type": "IPv4",
+    "service": "AzureManagedGrafana",
+    "region": ""
+  },
+  {
     "ip_address": "158.158.129.76/30",
     "ip_type": "IPv4",
     "service": "AzureManagedGrafana",

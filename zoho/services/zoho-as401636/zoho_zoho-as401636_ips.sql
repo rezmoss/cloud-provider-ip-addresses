@@ -7,11 +7,7 @@ CREATE TABLE IF NOT EXISTS `zoho_zoho-as401636_ips` (
 );
 
 INSERT INTO `zoho_zoho-as401636_ips` (`ip_address`, `ip_type`) VALUES ('155.103.236.0/23', 'IPv4');
-INSERT INTO `zoho_zoho-as401636_ips` (`ip_address`, `ip_type`) VALUES ('155.103.236.0/24', 'IPv4');
-INSERT INTO `zoho_zoho-as401636_ips` (`ip_address`, `ip_type`) VALUES ('155.103.237.0/24', 'IPv4');
 INSERT INTO `zoho_zoho-as401636_ips` (`ip_address`, `ip_type`) VALUES ('155.103.238.0/23', 'IPv4');
-INSERT INTO `zoho_zoho-as401636_ips` (`ip_address`, `ip_type`) VALUES ('155.103.238.0/24', 'IPv4');
-INSERT INTO `zoho_zoho-as401636_ips` (`ip_address`, `ip_type`) VALUES ('155.103.239.0/24', 'IPv4');
 INSERT INTO `zoho_zoho-as401636_ips` (`ip_address`, `ip_type`) VALUES ('165.173.164.0/24', 'IPv4');
 INSERT INTO `zoho_zoho-as401636_ips` (`ip_address`, `ip_type`) VALUES ('165.173.165.0/24', 'IPv4');
 INSERT INTO `zoho_zoho-as401636_ips` (`ip_address`, `ip_type`) VALUES ('199.67.69.0/24', 'IPv4');

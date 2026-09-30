@@ -24,6 +24,12 @@
     "region": "canadaeast"
   },
   {
+    "ip_address": "145.191.182.64/28",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
     "ip_address": "2603:1030:1005::200/123",
     "ip_type": "IPv6",
     "service": "PowerQueryOnline.CanadaEast",
