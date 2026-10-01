@@ -1,5 +1,5 @@
 # gcore IP ranges - ipset restore format (hash:net)
-# Version: 48 | Generated: 2026-09-30 | Last changed: 2026-09-30
+# Version: 48 | Generated: 2026-10-01 | Last changed: 2026-09-30
 # IPv4: 575 merged subnets, 983 unique IPs
 # IPv6: 473 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses

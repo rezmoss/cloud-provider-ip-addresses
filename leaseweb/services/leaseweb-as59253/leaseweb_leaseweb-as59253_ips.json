@@ -444,6 +444,12 @@
     "region": "global"
   },
   {
+    "ip_address": "172.255.212.0/23",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as59253",
+    "region": "global"
+  },
+  {
     "ip_address": "173.234.0.0/23",
     "ip_type": "IPv4",
     "service": "leaseweb-as59253",

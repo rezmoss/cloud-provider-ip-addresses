@@ -2148,6 +2148,18 @@
     "region": "eu-west-2"
   },
   {
+    "ip_address": "69.107.13.80/29",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-west-2"
+  },
+  {
+    "ip_address": "69.107.13.88/29",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-west-2"
+  },
+  {
     "ip_address": "99.77.134.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",

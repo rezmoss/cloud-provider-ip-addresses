@@ -2331,7 +2331,6 @@ ip_address,ip_type,service,region
 23.205.213.0/24,IPv4,akamai-as20940,global
 23.205.214.0/24,IPv4,akamai-as20940,global
 23.205.215.0/24,IPv4,akamai-as20940,global
-23.205.222.0/24,IPv4,akamai-as20940,global
 23.205.248.0/24,IPv4,akamai-as20940,global
 23.205.249.0/24,IPv4,akamai-as20940,global
 23.205.252.0/24,IPv4,akamai-as20940,global
@@ -3091,7 +3090,6 @@ ip_address,ip_type,service,region
 60.254.173.0/24,IPv4,akamai-as20940,global
 61.19.12.0/24,IPv4,akamai-as20940,global
 64.86.217.0/24,IPv4,akamai-as20940,global
-64.124.167.0/24,IPv4,akamai-as20940,global
 66.198.8.0/24,IPv4,akamai-as20940,global
 69.22.150.0/23,IPv4,akamai-as20940,global
 69.31.112.0/23,IPv4,akamai-as20940,global
@@ -3912,6 +3910,7 @@ ip_address,ip_type,service,region
 184.87.196.0/24,IPv4,akamai-as20940,global
 184.87.197.0/24,IPv4,akamai-as20940,global
 185.225.250.0/24,IPv4,akamai-as20940,global
+187.210.208.0/24,IPv4,akamai-as20940,global
 189.247.167.0/24,IPv4,akamai-as20940,global
 189.247.204.0/23,IPv4,akamai-as20940,global
 189.247.206.0/24,IPv4,akamai-as20940,global
@@ -3958,7 +3957,6 @@ ip_address,ip_type,service,region
 204.201.160.0/24,IPv4,akamai-as20940,global
 204.237.186.0/23,IPv4,akamai-as20940,global
 204.237.188.0/24,IPv4,akamai-as20940,global
-208.185.115.0/24,IPv4,akamai-as20940,global
 210.61.248.0/23,IPv4,akamai-as20940,global
 218.231.251.0/24,IPv4,akamai-as20940,global
 219.76.11.0/24,IPv4,akamai-as20940,global
@@ -4108,7 +4106,6 @@ ip_address,ip_type,service,region
 2600:1406:6c00::/48,IPv6,akamai-as20940,global
 2600:1406:7800::/48,IPv6,akamai-as20940,global
 2600:1406:8800::/48,IPv6,akamai-as20940,global
-2600:1406:a000::/48,IPv6,akamai-as20940,global
 2600:1406:b400::/48,IPv6,akamai-as20940,global
 2600:1406:bc00::/48,IPv6,akamai-as20940,global
 2600:1406:c400::/48,IPv6,akamai-as20940,global
@@ -4357,7 +4354,6 @@ ip_address,ip_type,service,region
 2600:1417:6c00::/48,IPv6,akamai-as20940,global
 2600:1417:7000::/48,IPv6,akamai-as20940,global
 2600:1417:7c00::/48,IPv6,akamai-as20940,global
-2600:1417:8000::/48,IPv6,akamai-as20940,global
 2600:1417:8400::/48,IPv6,akamai-as20940,global
 2600:1417:8c00::/48,IPv6,akamai-as20940,global
 2600:1417:9000::/48,IPv6,akamai-as20940,global

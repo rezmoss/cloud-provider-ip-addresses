@@ -1,9 +1,9 @@
 ip_address,ip_type,service,region
 1.12.0.0/14,IPv4,tencent-as45090,global
 1.12.0.0/18,IPv4,tencent-as45090,global
-1.12.0.0/20,IPv4,tencent-as132203,global
+1.12.0.0/20,IPv4,tencent-as45090,global
 1.12.14.0/23,IPv4,tencent-as45090,global
-1.12.34.0/23,IPv4,tencent-as132203,global
+1.12.34.0/23,IPv4,tencent-as45090,global
 1.12.64.0/18,IPv4,tencent-as45090,global
 1.12.128.0/18,IPv4,tencent-as45090,global
 1.12.192.0/18,IPv4,tencent-as45090,global
@@ -423,6 +423,7 @@ ip_address,ip_type,service,region
 43.172.15.0/24,IPv4,tencent-as132203,global
 43.172.62.0/23,IPv4,tencent-as132203,global
 43.172.64.0/18,IPv4,tencent-as132203,global
+43.172.106.0/23,IPv4,tencent-as132203,global
 43.172.108.0/23,IPv4,tencent-as132203,global
 43.172.110.0/23,IPv4,tencent-as132203,global
 43.172.112.0/23,IPv4,tencent-as132203,global

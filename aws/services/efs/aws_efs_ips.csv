@@ -66,6 +66,7 @@ ip_address,ip_type,service,region
 63.187.12.0/22,IPv4,EFS,eu-central-1
 63.187.16.0/22,IPv4,EFS,eu-central-1
 63.187.20.0/22,IPv4,EFS,eu-central-1
+63.189.140.0/22,IPv4,EFS,eu-central-1
 77.112.4.0/22,IPv4,EFS,us-east-2
 77.112.8.0/22,IPv4,EFS,us-east-2
 77.112.12.0/22,IPv4,EFS,us-east-2
@@ -166,6 +167,7 @@ ip_address,ip_type,service,region
 2a05:d011:fbb:2500::/56,IPv6,EFS,eu-south-2
 2a05:d012:263:4100::/56,IPv6,EFS,eu-west-3
 2a05:d014:102e:7e00::/56,IPv6,EFS,eu-central-1
+2a05:d014:11e2:dc00::/56,IPv6,EFS,eu-central-1
 2a05:d014:1338:dd00::/56,IPv6,EFS,eu-central-1
 2a05:d014:1cde:6300::/56,IPv6,EFS,eu-central-1
 2a05:d016:107:8100::/56,IPv6,EFS,eu-north-1

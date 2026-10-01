@@ -1,6 +1,6 @@
 #!/bin/bash
 # Googleservices IP Ranges
-# Updated: 2026-09-20 02:25:10
+# Updated: 2026-10-01 02:35:26
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -17,7 +17,7 @@ iptables -A INPUT -s 8.234.18.0/23 -j DROP
 iptables -A INPUT -s 8.236.0.0/17 -j DROP
 iptables -A INPUT -s 8.236.128.0/20 -j DROP
 iptables -A INPUT -s 8.236.160.0/19 -j DROP
-iptables -A INPUT -s 8.237.128.0/17 -j DROP
+iptables -A INPUT -s 8.237.128.0/18 -j DROP
 iptables -A INPUT -s 34.0.228.0/22 -j DROP
 iptables -A INPUT -s 34.0.232.0/21 -j DROP
 iptables -A INPUT -s 34.1.64.0/18 -j DROP
@@ -257,7 +257,6 @@ iptables -A INPUT -s 136.124.0.0/15 -j DROP
 iptables -A INPUT -s 142.250.0.0/15 -j DROP
 iptables -A INPUT -s 146.148.0.0/23 -j DROP
 iptables -A INPUT -s 152.238.0.0/16 -j DROP
-iptables -A INPUT -s 152.239.128.0/17 -j DROP
 iptables -A INPUT -s 162.120.128.0/17 -j DROP
 iptables -A INPUT -s 172.110.32.0/21 -j DROP
 iptables -A INPUT -s 172.217.0.0/16 -j DROP
@@ -266,7 +265,7 @@ iptables -A INPUT -s 173.194.0.0/16 -j DROP
 iptables -A INPUT -s 177.176.0.0/16 -j DROP
 iptables -A INPUT -s 177.178.0.0/15 -j DROP
 iptables -A INPUT -s 177.208.0.0/15 -j DROP
-iptables -A INPUT -s 179.67.0.0/17 -j DROP
+iptables -A INPUT -s 179.67.64.0/18 -j DROP
 iptables -A INPUT -s 179.69.128.0/17 -j DROP
 iptables -A INPUT -s 179.193.128.0/17 -j DROP
 iptables -A INPUT -s 179.199.0.0/17 -j DROP

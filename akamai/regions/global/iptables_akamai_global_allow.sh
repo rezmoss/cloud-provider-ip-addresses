@@ -1,6 +1,6 @@
 #!/bin/bash
 # Akamai IP Ranges
-# Updated: 2026-09-30 02:35:53
+# Updated: 2026-10-01 02:42:48
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -50,7 +50,6 @@ iptables -A INPUT -s 62.255.142.0/24 -j ACCEPT
 iptables -A INPUT -s 64.74.113.0/24 -j ACCEPT
 iptables -A INPUT -s 64.86.217.0/24 -j ACCEPT
 iptables -A INPUT -s 64.89.224.0/20 -j ACCEPT
-iptables -A INPUT -s 64.124.167.0/24 -j ACCEPT
 iptables -A INPUT -s 64.254.26.0/24 -j ACCEPT
 iptables -A INPUT -s 65.51.222.0/24 -j ACCEPT
 iptables -A INPUT -s 66.175.208.0/20 -j ACCEPT
@@ -239,6 +238,7 @@ iptables -A INPUT -s 185.3.92.0/22 -j ACCEPT
 iptables -A INPUT -s 185.123.168.0/22 -j ACCEPT
 iptables -A INPUT -s 185.145.100.0/24 -j ACCEPT
 iptables -A INPUT -s 185.225.250.0/24 -j ACCEPT
+iptables -A INPUT -s 187.210.208.0/24 -j ACCEPT
 iptables -A INPUT -s 189.247.167.0/24 -j ACCEPT
 iptables -A INPUT -s 189.247.204.0/22 -j ACCEPT
 iptables -A INPUT -s 189.247.210.0/24 -j ACCEPT
@@ -322,7 +322,6 @@ iptables -A INPUT -s 204.237.188.0/24 -j ACCEPT
 iptables -A INPUT -s 205.167.188.0/23 -j ACCEPT
 iptables -A INPUT -s 207.203.29.0/24 -j ACCEPT
 iptables -A INPUT -s 207.203.30.0/24 -j ACCEPT
-iptables -A INPUT -s 208.185.115.0/24 -j ACCEPT
 iptables -A INPUT -s 209.200.128.0/20 -j ACCEPT
 iptables -A INPUT -s 209.200.146.0/23 -j ACCEPT
 iptables -A INPUT -s 209.200.148.0/22 -j ACCEPT

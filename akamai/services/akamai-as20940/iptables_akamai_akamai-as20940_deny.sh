@@ -1,6 +1,6 @@
 #!/bin/bash
 # Akamai IP Ranges
-# Updated: 2026-09-18 02:32:19
+# Updated: 2026-10-01 02:42:45
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -20,7 +20,6 @@ iptables -A INPUT -s 59.151.128.0/18 -j DROP
 iptables -A INPUT -s 60.254.128.0/18 -j DROP
 iptables -A INPUT -s 61.19.12.0/24 -j DROP
 iptables -A INPUT -s 64.86.217.0/24 -j DROP
-iptables -A INPUT -s 64.124.167.0/24 -j DROP
 iptables -A INPUT -s 66.198.8.0/24 -j DROP
 iptables -A INPUT -s 69.22.150.0/23 -j DROP
 iptables -A INPUT -s 69.31.112.0/23 -j DROP
@@ -81,6 +80,7 @@ iptables -A INPUT -s 184.24.0.0/13 -j DROP
 iptables -A INPUT -s 184.50.0.0/15 -j DROP
 iptables -A INPUT -s 184.84.0.0/14 -j DROP
 iptables -A INPUT -s 185.225.250.0/24 -j DROP
+iptables -A INPUT -s 187.210.208.0/24 -j DROP
 iptables -A INPUT -s 189.247.167.0/24 -j DROP
 iptables -A INPUT -s 189.247.204.0/22 -j DROP
 iptables -A INPUT -s 189.247.210.0/24 -j DROP
@@ -121,7 +121,6 @@ iptables -A INPUT -s 204.93.48.0/24 -j DROP
 iptables -A INPUT -s 204.201.160.0/24 -j DROP
 iptables -A INPUT -s 204.237.186.0/23 -j DROP
 iptables -A INPUT -s 204.237.188.0/24 -j DROP
-iptables -A INPUT -s 208.185.115.0/24 -j DROP
 iptables -A INPUT -s 210.61.248.0/23 -j DROP
 iptables -A INPUT -s 218.231.251.0/24 -j DROP
 iptables -A INPUT -s 219.76.11.0/24 -j DROP

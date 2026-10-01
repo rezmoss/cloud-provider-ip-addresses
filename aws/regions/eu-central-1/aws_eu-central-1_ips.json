@@ -2604,6 +2604,12 @@
     "region": "eu-central-1"
   },
   {
+    "ip_address": "63.189.140.0/22",
+    "ip_type": "IPv4",
+    "service": "EFS",
+    "region": "eu-central-1"
+  },
+  {
     "ip_address": "64.66.139.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -4441,6 +4447,12 @@
   },
   {
     "ip_address": "2a05:d014:102e:7e00::/56",
+    "ip_type": "IPv6",
+    "service": "EFS",
+    "region": "eu-central-1"
+  },
+  {
+    "ip_address": "2a05:d014:11e2:dc00::/56",
     "ip_type": "IPv6",
     "service": "EFS",
     "region": "eu-central-1"
