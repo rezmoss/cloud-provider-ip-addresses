@@ -334,6 +334,8 @@ INSERT INTO `nhncloud_nhncloud-as45974_ips` (`ip_address`, `ip_type`) VALUES ('1
 INSERT INTO `nhncloud_nhncloud-as45974_ips` (`ip_address`, `ip_type`) VALUES ('180.210.125.0/24', 'IPv4');
 INSERT INTO `nhncloud_nhncloud-as45974_ips` (`ip_address`, `ip_type`) VALUES ('180.210.126.0/24', 'IPv4');
 INSERT INTO `nhncloud_nhncloud-as45974_ips` (`ip_address`, `ip_type`) VALUES ('180.210.127.0/24', 'IPv4');
+INSERT INTO `nhncloud_nhncloud-as45974_ips` (`ip_address`, `ip_type`) VALUES ('182.255.128.0/24', 'IPv4');
+INSERT INTO `nhncloud_nhncloud-as45974_ips` (`ip_address`, `ip_type`) VALUES ('182.255.129.0/24', 'IPv4');
 INSERT INTO `nhncloud_nhncloud-as45974_ips` (`ip_address`, `ip_type`) VALUES ('210.124.216.0/24', 'IPv4');
 INSERT INTO `nhncloud_nhncloud-as45974_ips` (`ip_address`, `ip_type`) VALUES ('210.206.88.0/24', 'IPv4');
 INSERT INTO `nhncloud_nhncloud-as45974_ips` (`ip_address`, `ip_type`) VALUES ('211.32.155.0/24', 'IPv4');

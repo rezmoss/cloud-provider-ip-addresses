@@ -961,8 +961,14 @@ ip_address,ip_type,service,region
 54.243.31.192/26,IPv4,ROUTE53_HEALTHCHECKS,us-east-1
 63.246.119.0/24,IPv4,AMAZON,us-east-1
 63.246.119.0/24,IPv4,EC2,us-east-1
-64.7.200.0/21,IPv4,AMAZON,us-east-1
-64.7.200.0/21,IPv4,EC2,us-east-1
+64.7.200.0/23,IPv4,AMAZON,us-east-1
+64.7.200.0/23,IPv4,EC2,us-east-1
+64.7.202.0/23,IPv4,AMAZON,us-east-1
+64.7.202.0/23,IPv4,EC2,us-east-1
+64.7.204.0/23,IPv4,AMAZON,us-east-1
+64.7.204.0/23,IPv4,EC2,us-east-1
+64.7.206.0/23,IPv4,AMAZON,us-east-1
+64.7.206.0/23,IPv4,EC2,us-east-1
 64.66.131.0/24,IPv4,AMAZON,us-east-1
 64.66.131.0/24,IPv4,EC2,us-east-1
 64.66.135.0/24,IPv4,AMAZON,us-east-1

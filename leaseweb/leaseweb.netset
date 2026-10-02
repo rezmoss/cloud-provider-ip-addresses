@@ -1,7 +1,7 @@
 # leaseweb IP ranges - ipset restore format (hash:net)
-# Version: 50 | Generated: 2026-10-01 | Last changed: 2026-10-01
-# IPv4: 1128 merged subnets, 2356736 unique IPs
-# IPv6: 312 merged subnets
+# Version: 51 | Generated: 2026-10-02 | Last changed: 2026-10-02
+# IPv4: 1127 merged subnets, 2356480 unique IPs
+# IPv6: 313 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
 # Load with: sudo ipset restore -! < leaseweb.netset
@@ -712,7 +712,6 @@ add leaseweb_v4 145.255.128.0/21
 add leaseweb_v4 146.19.93.0/24
 add leaseweb_v4 146.103.1.0/24
 add leaseweb_v4 146.103.6.0/24
-add leaseweb_v4 147.90.188.0/24
 add leaseweb_v4 147.90.207.0/24
 add leaseweb_v4 147.255.0.0/18
 add leaseweb_v4 147.255.64.0/19
@@ -1277,8 +1276,9 @@ add leaseweb_v6 2a0f:1e00:abc::/48
 add leaseweb_v6 2a0f:1e00:def9::/48
 add leaseweb_v6 2a0f:1e01:1::/48
 add leaseweb_v6 2a0f:1e06::/32
-add leaseweb_v6 2a0f:1e80::/31
-add leaseweb_v6 2a0f:1e84::/32
+add leaseweb_v6 2a0f:1e80:1::/48
+add leaseweb_v6 2a0f:1e81:2::/48
+add leaseweb_v6 2a0f:1e81:cdae::/48
 add leaseweb_v6 2a0f:2500::/29
 add leaseweb_v6 2a0f:2700:2::/48
 add leaseweb_v6 2a0f:2707::/32

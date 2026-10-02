@@ -1,6 +1,6 @@
 #!/bin/bash
 # Googlecloud IP Ranges
-# Updated: 2026-10-01 02:35:24
+# Updated: 2026-10-02 02:27:59
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -28,7 +28,6 @@ iptables -A INPUT -s 8.235.0.0/16 -j DROP
 iptables -A INPUT -s 8.236.144.0/20 -j DROP
 iptables -A INPUT -s 8.236.192.0/18 -j DROP
 iptables -A INPUT -s 8.237.0.0/17 -j DROP
-iptables -A INPUT -s 8.237.192.0/18 -j DROP
 iptables -A INPUT -s 23.236.48.0/20 -j DROP
 iptables -A INPUT -s 23.251.128.0/19 -j DROP
 iptables -A INPUT -s 34.0.0.0/17 -j DROP
@@ -448,11 +447,9 @@ iptables -A INPUT -s 146.148.8.0/21 -j DROP
 iptables -A INPUT -s 146.148.16.0/20 -j DROP
 iptables -A INPUT -s 146.148.32.0/19 -j DROP
 iptables -A INPUT -s 146.148.64.0/18 -j DROP
-iptables -A INPUT -s 152.239.128.0/17 -j DROP
 iptables -A INPUT -s 162.216.148.0/22 -j DROP
 iptables -A INPUT -s 162.222.176.0/21 -j DROP
 iptables -A INPUT -s 173.255.112.0/20 -j DROP
-iptables -A INPUT -s 179.67.0.0/18 -j DROP
 iptables -A INPUT -s 192.158.28.0/22 -j DROP
 iptables -A INPUT -s 199.192.115.0/24 -j DROP
 iptables -A INPUT -s 199.223.232.0/22 -j DROP

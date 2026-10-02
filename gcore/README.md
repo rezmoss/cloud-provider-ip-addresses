@@ -1,6 +1,6 @@
 # G-Core Labs IP Ranges (Auto-Updated Daily)
 
-> Last updated: **2026-10-01** · Total CIDRs: **1,832** · IPv4: **984** · IPv6: **848**
+> Last updated: **2026-10-02** · Total CIDRs: **1,830** · IPv4: **983** · IPv6: **847**
 
 Machine-readable, daily-updated, validated public IP ranges for **G-Core Labs**.
 Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and Apache.
@@ -31,8 +31,8 @@ Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and
 1.37.77.98/32
 101.53.220.210/32
 102.130.69.141/32
+102.208.99.251/32
 102.216.238.170/32
-102.67.99.50/32
 ```
 
 ## Why these ranges change
