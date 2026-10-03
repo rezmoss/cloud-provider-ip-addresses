@@ -1,6 +1,6 @@
 #!/bin/bash
 # Zscaler IP Ranges
-# Updated: 2026-10-02 02:34:09
+# Updated: 2026-10-03 02:33:23
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -130,7 +130,9 @@ iptables -A INPUT -s 175.107.134.0/24 -j ACCEPT
 iptables -A INPUT -s 175.107.136.0/21 -j ACCEPT
 iptables -A INPUT -s 175.107.144.0/20 -j ACCEPT
 iptables -A INPUT -s 175.107.160.0/21 -j ACCEPT
-iptables -A INPUT -s 175.107.172.0/23 -j ACCEPT
+iptables -A INPUT -s 175.107.170.0/23 -j ACCEPT
+iptables -A INPUT -s 175.107.172.0/22 -j ACCEPT
+iptables -A INPUT -s 175.107.176.0/22 -j ACCEPT
 iptables -A INPUT -s 175.107.180.0/23 -j ACCEPT
 iptables -A INPUT -s 175.107.184.0/22 -j ACCEPT
 iptables -A INPUT -s 205.220.16.0/21 -j ACCEPT
@@ -173,6 +175,7 @@ ip6tables -A INPUT -s 2400:7aa0:2800::/39 -j ACCEPT
 ip6tables -A INPUT -s 2400:7aa0:2b00::/40 -j ACCEPT
 ip6tables -A INPUT -s 2400:7aa0:2c00::/40 -j ACCEPT
 ip6tables -A INPUT -s 2400:7aa0:2d00::/48 -j ACCEPT
+ip6tables -A INPUT -s 2400:7aa0:2e00::/40 -j ACCEPT
 ip6tables -A INPUT -s 2605:4300:5::/48 -j ACCEPT
 ip6tables -A INPUT -s 2a03:eec0:3211::/48 -j ACCEPT
 ip6tables -A INPUT -s 2a03:eec0:3216::/48 -j ACCEPT

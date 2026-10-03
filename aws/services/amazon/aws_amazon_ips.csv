@@ -27,6 +27,7 @@ ip_address,ip_type,service,region
 1.178.64.0/24,IPv4,AMAZON,ap-northeast-1
 1.178.65.0/24,IPv4,AMAZON,us-west-2
 1.178.72.0/21,IPv4,AMAZON,GLOBAL
+1.178.86.0/24,IPv4,AMAZON,ap-southeast-3
 1.178.88.0/24,IPv4,AMAZON,ap-south-1
 1.178.89.0/24,IPv4,AMAZON,ap-southeast-1
 1.178.90.0/24,IPv4,AMAZON,eu-west-3
@@ -1775,6 +1776,7 @@ ip_address,ip_type,service,region
 16.15.16.0/22,IPv4,AMAZON,me-west-1
 16.15.20.0/22,IPv4,AMAZON,eu-central-1
 16.15.24.0/22,IPv4,AMAZON,sa-west-1
+16.15.28.0/22,IPv4,AMAZON,us-east-2
 16.15.32.0/20,IPv4,AMAZON,us-west-2
 16.15.48.0/23,IPv4,AMAZON,ap-southeast-1
 16.15.50.0/23,IPv4,AMAZON,ap-southeast-1
@@ -4652,6 +4654,8 @@ ip_address,ip_type,service,region
 69.107.13.72/29,IPv4,AMAZON,ca-central-1
 69.107.13.80/29,IPv4,AMAZON,eu-west-2
 69.107.13.88/29,IPv4,AMAZON,eu-west-2
+69.107.13.96/29,IPv4,AMAZON,ap-southeast-1
+69.107.13.104/29,IPv4,AMAZON,ap-southeast-1
 69.230.192.0/18,IPv4,AMAZON,cn-northwest-1
 69.231.128.0/18,IPv4,AMAZON,cn-northwest-1
 69.234.192.0/18,IPv4,AMAZON,cn-northwest-1
@@ -8185,6 +8189,9 @@ ip_address,ip_type,service,region
 2600:f0fb:c001::/48,IPv6,AMAZON,us-east-1
 2600:f0fb:c002::/56,IPv6,AMAZON,us-east-1
 2600:f0fb:c003::/48,IPv6,AMAZON,us-east-1
+2600:f0fb:c004::/48,IPv6,AMAZON,ap-southeast-1
+2600:f0fb:c005::/48,IPv6,AMAZON,eu-west-1
+2600:f0fb:c006::/48,IPv6,AMAZON,us-west-1
 2600:f0fb:c0ff::/56,IPv6,AMAZON,us-east-1
 2600:f0fb:c800::/48,IPv6,AMAZON,us-east-1
 2600:f0fb:c900::/52,IPv6,AMAZON,us-east-1
@@ -8192,11 +8199,15 @@ ip_address,ip_type,service,region
 2600:f0fb:c900:2000::/52,IPv6,AMAZON,us-east-1
 2600:f0fb:c900:3000::/52,IPv6,AMAZON,ap-southeast-1
 2600:f0fb:c900:4000::/52,IPv6,AMAZON,eu-central-1
+2600:f0fb:c900:5000::/52,IPv6,AMAZON,eu-west-1
+2600:f0fb:c900:6000::/52,IPv6,AMAZON,us-west-1
 2600:f0fb:ca00::/52,IPv6,AMAZON,us-east-1
 2600:f0fb:ca00:1000::/52,IPv6,AMAZON,us-east-1
 2600:f0fb:ca00:2000::/52,IPv6,AMAZON,us-east-1
 2600:f0fb:ca01::/52,IPv6,AMAZON,ap-southeast-1
 2600:f0fb:ca02::/52,IPv6,AMAZON,eu-central-1
+2600:f0fb:ca03::/52,IPv6,AMAZON,eu-west-1
+2600:f0fb:ca04::/52,IPv6,AMAZON,us-west-1
 2600:f0fb:e000::/40,IPv6,AMAZON,us-east-1
 2600:f0fb:e100::/40,IPv6,AMAZON,us-east-1
 2600:f0fb:e200::/40,IPv6,AMAZON,us-west-2

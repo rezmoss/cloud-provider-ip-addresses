@@ -252,6 +252,7 @@ ip_address,ip_type,service,region
 16.15.16.0/22,IPv4,S3,me-west-1
 16.15.20.0/22,IPv4,S3,eu-central-1
 16.15.24.0/22,IPv4,S3,sa-west-1
+16.15.28.0/22,IPv4,S3,us-east-2
 16.15.32.0/20,IPv4,S3,us-west-2
 16.15.48.0/23,IPv4,S3,ap-southeast-1
 16.15.50.0/23,IPv4,S3,ap-southeast-1

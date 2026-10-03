@@ -125,6 +125,16 @@
     "service": "claudebot"
   },
   {
+    "ip_address": "160.79.106.16/28",
+    "ip_type": "IPv4",
+    "service": "claudebot"
+  },
+  {
+    "ip_address": "160.79.106.128/28",
+    "ip_type": "IPv4",
+    "service": "claudebot"
+  },
+  {
     "ip_address": "216.73.216.0/22",
     "ip_type": "IPv4",
     "service": "claudebot"

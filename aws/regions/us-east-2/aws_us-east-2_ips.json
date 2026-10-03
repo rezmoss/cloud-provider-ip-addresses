@@ -1668,6 +1668,24 @@
     "region": "us-east-2"
   },
   {
+    "ip_address": "16.15.28.0/22",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-east-2"
+  },
+  {
+    "ip_address": "16.15.28.0/22",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-east-2"
+  },
+  {
+    "ip_address": "16.15.28.0/22",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "us-east-2"
+  },
+  {
     "ip_address": "16.58.0.0/16",
     "ip_type": "IPv4",
     "service": "AMAZON",

@@ -1,23 +1,23 @@
 {
   "provider": "claudebot",
-  "version": 4,
-  "generated_date": "2026-10-02",
-  "last_changed_date": "2026-08-20",
+  "version": 5,
+  "generated_date": "2026-10-03",
+  "last_changed_date": "2026-10-03",
   "sources": [
     "https://claude.com/crawling/bots.json"
   ],
   "ipv4": {
-    "cidrs": 26,
-    "merged_cidrs": 26,
-    "addresses": 1094
+    "cidrs": 28,
+    "merged_cidrs": 28,
+    "addresses": 1126
   },
   "ipv6": {
     "cidrs": 0,
     "merged_cidrs": 0,
     "addresses": 0
   },
-  "total_entries": 26,
-  "content_sha256": "b1d1cd200db6c92a1c26a856caf7e5377f7b947d2de436251899115644f160c2",
+  "total_entries": 28,
+  "content_sha256": "22be82654d12d2a42b22dbece66e38c8f309786fec895aa6b85192bea1dcac73",
   "license": "CC0-1.0",
   "license_url": "https://github.com/rezmoss/cloud-provider-ip-addresses/blob/main/LICENSE"
 }

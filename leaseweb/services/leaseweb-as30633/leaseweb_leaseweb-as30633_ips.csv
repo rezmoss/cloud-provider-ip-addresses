@@ -53,6 +53,7 @@ ip_address,ip_type,service,region
 92.113.3.0/24,IPv4,leaseweb-as30633,global
 92.113.7.0/24,IPv4,leaseweb-as30633,global
 103.139.50.0/24,IPv4,leaseweb-as30633,global
+104.166.83.0/24,IPv4,leaseweb-as30633,global
 108.59.0.0/20,IPv4,leaseweb-as30633,global
 108.62.0.0/22,IPv4,leaseweb-as30633,global
 108.62.116.0/22,IPv4,leaseweb-as30633,global

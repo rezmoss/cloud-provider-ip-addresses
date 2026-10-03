@@ -1,6 +1,6 @@
 #!/bin/bash
 # Claudebot IP Ranges
-# Updated: 2026-08-20 02:31:51
+# Updated: 2026-10-03 02:27:57
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -32,4 +32,6 @@ ufw allow from 35.245.89.239/32
 ufw allow from 35.245.175.129/32
 ufw allow from 40.124.101.48/28
 ufw allow from 136.107.176.208/32
+ufw allow from 160.79.106.16/28
+ufw allow from 160.79.106.128/28
 ufw allow from 216.73.216.0/22

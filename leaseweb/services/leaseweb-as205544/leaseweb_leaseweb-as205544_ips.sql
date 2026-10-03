@@ -88,7 +88,6 @@ INSERT INTO `leaseweb_leaseweb-as205544_ips` (`ip_address`, `ip_type`) VALUES ('
 INSERT INTO `leaseweb_leaseweb-as205544_ips` (`ip_address`, `ip_type`) VALUES ('2a0f:3140::/29', 'IPv6');
 INSERT INTO `leaseweb_leaseweb-as205544_ips` (`ip_address`, `ip_type`) VALUES ('2a0f:3540::/29', 'IPv6');
 INSERT INTO `leaseweb_leaseweb-as205544_ips` (`ip_address`, `ip_type`) VALUES ('2a0f:3740::/29', 'IPv6');
-INSERT INTO `leaseweb_leaseweb-as205544_ips` (`ip_address`, `ip_type`) VALUES ('2a0f:d9c0::/29', 'IPv6');
 INSERT INTO `leaseweb_leaseweb-as205544_ips` (`ip_address`, `ip_type`) VALUES ('2a0f:e440::/29', 'IPv6');
 INSERT INTO `leaseweb_leaseweb-as205544_ips` (`ip_address`, `ip_type`) VALUES ('2a11:3240::/29', 'IPv6');
 INSERT INTO `leaseweb_leaseweb-as205544_ips` (`ip_address`, `ip_type`) VALUES ('2a11:4800::/29', 'IPv6');
