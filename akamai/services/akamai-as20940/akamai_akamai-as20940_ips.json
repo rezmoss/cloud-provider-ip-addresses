@@ -6870,6 +6870,12 @@
     "region": "global"
   },
   {
+    "ip_address": "23.46.19.0/24",
+    "ip_type": "IPv4",
+    "service": "akamai-as20940",
+    "region": "global"
+  },
+  {
     "ip_address": "23.46.22.0/24",
     "ip_type": "IPv4",
     "service": "akamai-as20940",

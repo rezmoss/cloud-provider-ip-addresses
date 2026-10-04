@@ -1,4 +1,8 @@
 ip_address,ip_type,service,region
+91.103.152.0/24,IPv4,zoho-as205111,global
+91.103.153.0/24,IPv4,zoho-as205111,global
+91.103.154.0/24,IPv4,zoho-as205111,global
+91.103.155.0/24,IPv4,zoho-as205111,global
 94.31.54.0/23,IPv4,zoho-as205111,global
 136.143.168.0/24,IPv4,zoho-as205111,global
 136.143.169.0/24,IPv4,zoho-as205111,global

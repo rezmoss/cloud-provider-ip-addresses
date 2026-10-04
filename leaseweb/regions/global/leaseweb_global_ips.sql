@@ -1448,6 +1448,7 @@ INSERT INTO `leaseweb_global_ips` (`ip_address`, `ip_type`) VALUES ('185.67.4.0/
 INSERT INTO `leaseweb_global_ips` (`ip_address`, `ip_type`) VALUES ('185.67.6.0/23', 'IPv4');
 INSERT INTO `leaseweb_global_ips` (`ip_address`, `ip_type`) VALUES ('185.70.240.0/24', 'IPv4');
 INSERT INTO `leaseweb_global_ips` (`ip_address`, `ip_type`) VALUES ('185.70.241.0/24', 'IPv4');
+INSERT INTO `leaseweb_global_ips` (`ip_address`, `ip_type`) VALUES ('185.70.242.0/23', 'IPv4');
 INSERT INTO `leaseweb_global_ips` (`ip_address`, `ip_type`) VALUES ('185.71.60.0/22', 'IPv4');
 INSERT INTO `leaseweb_global_ips` (`ip_address`, `ip_type`) VALUES ('185.73.32.0/23', 'IPv4');
 INSERT INTO `leaseweb_global_ips` (`ip_address`, `ip_type`) VALUES ('185.73.33.0/24', 'IPv4');

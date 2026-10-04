@@ -1098,6 +1098,12 @@
     "region": "global"
   },
   {
+    "ip_address": "137.31.80.0/23",
+    "ip_type": "IPv4",
+    "service": "zscaler-as22616",
+    "region": "global"
+  },
+  {
     "ip_address": "137.31.82.0/23",
     "ip_type": "IPv4",
     "service": "zscaler-as22616",

@@ -6,6 +6,10 @@ CREATE TABLE IF NOT EXISTS `zoho_zoho-as205111_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `zoho_zoho-as205111_ips` (`ip_address`, `ip_type`) VALUES ('91.103.152.0/24', 'IPv4');
+INSERT INTO `zoho_zoho-as205111_ips` (`ip_address`, `ip_type`) VALUES ('91.103.153.0/24', 'IPv4');
+INSERT INTO `zoho_zoho-as205111_ips` (`ip_address`, `ip_type`) VALUES ('91.103.154.0/24', 'IPv4');
+INSERT INTO `zoho_zoho-as205111_ips` (`ip_address`, `ip_type`) VALUES ('91.103.155.0/24', 'IPv4');
 INSERT INTO `zoho_zoho-as205111_ips` (`ip_address`, `ip_type`) VALUES ('94.31.54.0/23', 'IPv4');
 INSERT INTO `zoho_zoho-as205111_ips` (`ip_address`, `ip_type`) VALUES ('136.143.168.0/24', 'IPv4');
 INSERT INTO `zoho_zoho-as205111_ips` (`ip_address`, `ip_type`) VALUES ('136.143.169.0/24', 'IPv4');

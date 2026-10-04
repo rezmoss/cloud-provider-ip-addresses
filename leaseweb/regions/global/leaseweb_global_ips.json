@@ -8652,6 +8652,12 @@
     "region": "global"
   },
   {
+    "ip_address": "185.70.242.0/23",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as205544",
+    "region": "global"
+  },
+  {
     "ip_address": "185.71.60.0/22",
     "ip_type": "IPv4",
     "service": "leaseweb-as60781",
