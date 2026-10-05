@@ -350,11 +350,6 @@
     "region": "IN-GJ"
   },
   {
-    "ip_address": "104.28.149.152/32",
-    "ip_type": "IPv4",
-    "region": "IN-GJ"
-  },
-  {
     "ip_address": "140.248.8.10/31",
     "ip_type": "IPv4",
     "region": "IN-GJ"

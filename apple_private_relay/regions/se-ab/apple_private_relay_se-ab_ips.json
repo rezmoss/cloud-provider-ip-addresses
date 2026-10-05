@@ -70,6 +70,56 @@
     "region": "SE-AB"
   },
   {
+    "ip_address": "104.28.138.179/32",
+    "ip_type": "IPv4",
+    "region": "SE-AB"
+  },
+  {
+    "ip_address": "104.28.138.180/32",
+    "ip_type": "IPv4",
+    "region": "SE-AB"
+  },
+  {
+    "ip_address": "104.28.138.181/32",
+    "ip_type": "IPv4",
+    "region": "SE-AB"
+  },
+  {
+    "ip_address": "104.28.138.182/32",
+    "ip_type": "IPv4",
+    "region": "SE-AB"
+  },
+  {
+    "ip_address": "104.28.138.183/32",
+    "ip_type": "IPv4",
+    "region": "SE-AB"
+  },
+  {
+    "ip_address": "104.28.138.184/32",
+    "ip_type": "IPv4",
+    "region": "SE-AB"
+  },
+  {
+    "ip_address": "104.28.138.186/32",
+    "ip_type": "IPv4",
+    "region": "SE-AB"
+  },
+  {
+    "ip_address": "104.28.138.187/32",
+    "ip_type": "IPv4",
+    "region": "SE-AB"
+  },
+  {
+    "ip_address": "104.28.138.188/32",
+    "ip_type": "IPv4",
+    "region": "SE-AB"
+  },
+  {
+    "ip_address": "104.28.138.189/32",
+    "ip_type": "IPv4",
+    "region": "SE-AB"
+  },
+  {
     "ip_address": "104.28.139.167/32",
     "ip_type": "IPv4",
     "region": "SE-AB"

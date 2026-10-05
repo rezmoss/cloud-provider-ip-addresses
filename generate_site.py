@@ -27,6 +27,7 @@ PROVIDER_META = {
     "digitalocean":        {"name": "DigitalOcean",         "group": "cloud", "color": "#0080FF"},
     "oracle":              {"name": "Oracle Cloud",         "group": "cloud", "color": "#C74634"},
     "linode":              {"name": "Linode",               "group": "cloud", "color": "#00A95C"},
+    "play2go":             {"name": "Play2Go",              "group": "cloud", "color": "#2E7D32"},
     "vultr":               {"name": "Vultr",                "group": "cloud", "color": "#007BFC"},
     "cloudflare":          {"name": "Cloudflare",           "group": "cdn",   "color": "#F38020"},
     "fastly":              {"name": "Fastly",               "group": "cdn",   "color": "#FF282D"},
@@ -53,6 +54,7 @@ PROVIDER_META = {
     "hetzner":             {"name": "Hetzner",              "group": "asn",   "color": "#D50C2D"},
     "ovhcloud":            {"name": "OVHcloud",             "group": "asn",   "color": "#123F6D"},
     "scaleway":            {"name": "Scaleway",             "group": "asn",   "color": "#4F0599"},
+    "contabo":             {"name": "Contabo",              "group": "asn",   "color": "#1F6FB2"},
     "tor":                 {"name": "Tor Exit Nodes",       "group": "vpn",   "color": "#7D4698"},
     "mullvad":             {"name": "Mullvad VPN",          "group": "vpn",   "color": "#294D73"},
 }
@@ -94,6 +96,11 @@ BGP_DERIVED_NOTES = {
     "scaleway": (
         "Scaleway does not publish an official IP range feed. These ranges are derived from "
         "live BGP announcements of Scaleway's officially registered ASNs, observed via "
+        "public BGP data sources."
+    ),
+    "contabo": (
+        "Contabo does not publish an official IP range feed. These ranges are derived from "
+        "live BGP announcements of Contabo's officially registered ASNs, observed via "
         "public BGP data sources."
     ),
 }

@@ -34,7 +34,6 @@ INSERT INTO `apple_private_relay_us-nj_ips` (`ip_address`, `ip_type`) VALUES ('1
 INSERT INTO `apple_private_relay_us-nj_ips` (`ip_address`, `ip_type`) VALUES ('104.28.133.122/32', 'IPv4');
 INSERT INTO `apple_private_relay_us-nj_ips` (`ip_address`, `ip_type`) VALUES ('104.28.133.169/32', 'IPv4');
 INSERT INTO `apple_private_relay_us-nj_ips` (`ip_address`, `ip_type`) VALUES ('104.28.133.170/32', 'IPv4');
-INSERT INTO `apple_private_relay_us-nj_ips` (`ip_address`, `ip_type`) VALUES ('104.28.145.253/32', 'IPv4');
 INSERT INTO `apple_private_relay_us-nj_ips` (`ip_address`, `ip_type`) VALUES ('140.248.1.8/31', 'IPv4');
 INSERT INTO `apple_private_relay_us-nj_ips` (`ip_address`, `ip_type`) VALUES ('140.248.1.10/31', 'IPv4');
 INSERT INTO `apple_private_relay_us-nj_ips` (`ip_address`, `ip_type`) VALUES ('140.248.1.12/31', 'IPv4');

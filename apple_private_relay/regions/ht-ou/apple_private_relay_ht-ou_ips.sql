@@ -20,7 +20,6 @@ INSERT INTO `apple_private_relay_ht-ou_ips` (`ip_address`, `ip_type`) VALUES ('1
 INSERT INTO `apple_private_relay_ht-ou_ips` (`ip_address`, `ip_type`) VALUES ('104.28.94.92/32', 'IPv4');
 INSERT INTO `apple_private_relay_ht-ou_ips` (`ip_address`, `ip_type`) VALUES ('104.28.126.91/32', 'IPv4');
 INSERT INTO `apple_private_relay_ht-ou_ips` (`ip_address`, `ip_type`) VALUES ('104.28.126.92/32', 'IPv4');
-INSERT INTO `apple_private_relay_ht-ou_ips` (`ip_address`, `ip_type`) VALUES ('104.28.145.47/32', 'IPv4');
 INSERT INTO `apple_private_relay_ht-ou_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:3948::/45', 'IPv6');
 INSERT INTO `apple_private_relay_ht-ou_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c3:0:1a2::/64', 'IPv6');
 INSERT INTO `apple_private_relay_ht-ou_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:3948::/45', 'IPv6');

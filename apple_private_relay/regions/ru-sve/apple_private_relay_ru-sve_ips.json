@@ -50,11 +50,6 @@
     "region": "RU-SVE"
   },
   {
-    "ip_address": "104.28.148.97/32",
-    "ip_type": "IPv4",
-    "region": "RU-SVE"
-  },
-  {
     "ip_address": "140.248.34.214/31",
     "ip_type": "IPv4",
     "region": "RU-SVE"

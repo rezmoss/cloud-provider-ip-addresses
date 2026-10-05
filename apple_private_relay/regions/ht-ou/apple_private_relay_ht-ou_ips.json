@@ -70,11 +70,6 @@
     "region": "HT-OU"
   },
   {
-    "ip_address": "104.28.145.47/32",
-    "ip_type": "IPv4",
-    "region": "HT-OU"
-  },
-  {
     "ip_address": "2606:54c0:3948::/45",
     "ip_type": "IPv6",
     "region": "HT-OU"

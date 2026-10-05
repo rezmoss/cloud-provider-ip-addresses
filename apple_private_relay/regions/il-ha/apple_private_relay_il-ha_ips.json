@@ -5,11 +5,6 @@
     "region": "IL-HA"
   },
   {
-    "ip_address": "104.28.146.214/32",
-    "ip_type": "IPv4",
-    "region": "IL-HA"
-  },
-  {
     "ip_address": "2606:54c0:3a20::/45",
     "ip_type": "IPv6",
     "region": "IL-HA"

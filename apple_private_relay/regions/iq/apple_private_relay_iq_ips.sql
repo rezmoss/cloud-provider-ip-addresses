@@ -8,15 +8,12 @@ CREATE TABLE IF NOT EXISTS `apple_private_relay_iq_ips` (
 
 INSERT INTO `apple_private_relay_iq_ips` (`ip_address`, `ip_type`) VALUES ('104.28.141.120/32', 'IPv4');
 INSERT INTO `apple_private_relay_iq_ips` (`ip_address`, `ip_type`) VALUES ('104.28.141.244/32', 'IPv4');
-INSERT INTO `apple_private_relay_iq_ips` (`ip_address`, `ip_type`) VALUES ('104.28.142.67/32', 'IPv4');
 INSERT INTO `apple_private_relay_iq_ips` (`ip_address`, `ip_type`) VALUES ('104.28.146.215/32', 'IPv4');
 INSERT INTO `apple_private_relay_iq_ips` (`ip_address`, `ip_type`) VALUES ('104.28.146.216/32', 'IPv4');
 INSERT INTO `apple_private_relay_iq_ips` (`ip_address`, `ip_type`) VALUES ('104.28.146.217/32', 'IPv4');
-INSERT INTO `apple_private_relay_iq_ips` (`ip_address`, `ip_type`) VALUES ('104.28.146.218/32', 'IPv4');
 INSERT INTO `apple_private_relay_iq_ips` (`ip_address`, `ip_type`) VALUES ('104.28.146.219/32', 'IPv4');
 INSERT INTO `apple_private_relay_iq_ips` (`ip_address`, `ip_type`) VALUES ('104.28.146.220/32', 'IPv4');
 INSERT INTO `apple_private_relay_iq_ips` (`ip_address`, `ip_type`) VALUES ('104.28.147.69/32', 'IPv4');
-INSERT INTO `apple_private_relay_iq_ips` (`ip_address`, `ip_type`) VALUES ('104.28.149.135/32', 'IPv4');
 INSERT INTO `apple_private_relay_iq_ips` (`ip_address`, `ip_type`) VALUES ('104.28.149.136/32', 'IPv4');
 INSERT INTO `apple_private_relay_iq_ips` (`ip_address`, `ip_type`) VALUES ('104.28.149.151/32', 'IPv4');
 INSERT INTO `apple_private_relay_iq_ips` (`ip_address`, `ip_type`) VALUES ('140.248.18.28/31', 'IPv4');

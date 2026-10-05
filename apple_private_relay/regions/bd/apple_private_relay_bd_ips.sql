@@ -12,8 +12,8 @@ INSERT INTO `apple_private_relay_bd_ips` (`ip_address`, `ip_type`) VALUES ('104.
 INSERT INTO `apple_private_relay_bd_ips` (`ip_address`, `ip_type`) VALUES ('104.28.136.198/32', 'IPv4');
 INSERT INTO `apple_private_relay_bd_ips` (`ip_address`, `ip_type`) VALUES ('104.28.136.222/32', 'IPv4');
 INSERT INTO `apple_private_relay_bd_ips` (`ip_address`, `ip_type`) VALUES ('104.28.137.219/32', 'IPv4');
-INSERT INTO `apple_private_relay_bd_ips` (`ip_address`, `ip_type`) VALUES ('104.28.138.47/32', 'IPv4');
 INSERT INTO `apple_private_relay_bd_ips` (`ip_address`, `ip_type`) VALUES ('104.28.138.105/32', 'IPv4');
+INSERT INTO `apple_private_relay_bd_ips` (`ip_address`, `ip_type`) VALUES ('104.28.138.170/32', 'IPv4');
 INSERT INTO `apple_private_relay_bd_ips` (`ip_address`, `ip_type`) VALUES ('104.28.140.110/32', 'IPv4');
 INSERT INTO `apple_private_relay_bd_ips` (`ip_address`, `ip_type`) VALUES ('104.28.140.169/32', 'IPv4');
 INSERT INTO `apple_private_relay_bd_ips` (`ip_address`, `ip_type`) VALUES ('104.28.140.217/32', 'IPv4');
@@ -24,7 +24,6 @@ INSERT INTO `apple_private_relay_bd_ips` (`ip_address`, `ip_type`) VALUES ('104.
 INSERT INTO `apple_private_relay_bd_ips` (`ip_address`, `ip_type`) VALUES ('104.28.142.207/32', 'IPv4');
 INSERT INTO `apple_private_relay_bd_ips` (`ip_address`, `ip_type`) VALUES ('104.28.142.208/32', 'IPv4');
 INSERT INTO `apple_private_relay_bd_ips` (`ip_address`, `ip_type`) VALUES ('104.28.148.181/32', 'IPv4');
-INSERT INTO `apple_private_relay_bd_ips` (`ip_address`, `ip_type`) VALUES ('104.28.148.182/32', 'IPv4');
 INSERT INTO `apple_private_relay_bd_ips` (`ip_address`, `ip_type`) VALUES ('104.28.148.234/32', 'IPv4');
 INSERT INTO `apple_private_relay_bd_ips` (`ip_address`, `ip_type`) VALUES ('104.28.148.235/32', 'IPv4');
 INSERT INTO `apple_private_relay_bd_ips` (`ip_address`, `ip_type`) VALUES ('104.28.148.236/32', 'IPv4');

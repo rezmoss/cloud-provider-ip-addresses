@@ -16,7 +16,6 @@ INSERT INTO `apple_private_relay_ru_ips` (`ip_address`, `ip_type`) VALUES ('104.
 INSERT INTO `apple_private_relay_ru_ips` (`ip_address`, `ip_type`) VALUES ('104.28.105.29/32', 'IPv4');
 INSERT INTO `apple_private_relay_ru_ips` (`ip_address`, `ip_type`) VALUES ('104.28.131.142/32', 'IPv4');
 INSERT INTO `apple_private_relay_ru_ips` (`ip_address`, `ip_type`) VALUES ('104.28.131.143/32', 'IPv4');
-INSERT INTO `apple_private_relay_ru_ips` (`ip_address`, `ip_type`) VALUES ('104.28.149.58/32', 'IPv4');
 INSERT INTO `apple_private_relay_ru_ips` (`ip_address`, `ip_type`) VALUES ('140.248.34.192/31', 'IPv4');
 INSERT INTO `apple_private_relay_ru_ips` (`ip_address`, `ip_type`) VALUES ('140.248.36.246/31', 'IPv4');
 INSERT INTO `apple_private_relay_ru_ips` (`ip_address`, `ip_type`) VALUES ('146.75.169.192/31', 'IPv4');

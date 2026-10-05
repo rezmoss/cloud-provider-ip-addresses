@@ -985,6 +985,11 @@
     "region": "US-OH"
   },
   {
+    "ip_address": "104.28.138.156/32",
+    "ip_type": "IPv4",
+    "region": "US-OH"
+  },
+  {
     "ip_address": "104.28.139.111/32",
     "ip_type": "IPv4",
     "region": "US-OH"

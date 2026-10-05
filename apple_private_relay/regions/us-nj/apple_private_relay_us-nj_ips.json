@@ -140,11 +140,6 @@
     "region": "US-NJ"
   },
   {
-    "ip_address": "104.28.145.253/32",
-    "ip_type": "IPv4",
-    "region": "US-NJ"
-  },
-  {
     "ip_address": "140.248.1.8/31",
     "ip_type": "IPv4",
     "region": "US-NJ"

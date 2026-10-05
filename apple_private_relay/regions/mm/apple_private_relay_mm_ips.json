@@ -60,21 +60,6 @@
     "region": "MM"
   },
   {
-    "ip_address": "104.28.148.183/32",
-    "ip_type": "IPv4",
-    "region": "MM"
-  },
-  {
-    "ip_address": "104.28.148.184/32",
-    "ip_type": "IPv4",
-    "region": "MM"
-  },
-  {
-    "ip_address": "104.28.148.185/32",
-    "ip_type": "IPv4",
-    "region": "MM"
-  },
-  {
     "ip_address": "140.248.16.4/31",
     "ip_type": "IPv4",
     "region": "MM"

@@ -60,12 +60,12 @@
     "region": "CA-NS"
   },
   {
-    "ip_address": "104.28.141.39/32",
+    "ip_address": "104.28.138.169/32",
     "ip_type": "IPv4",
     "region": "CA-NS"
   },
   {
-    "ip_address": "104.28.142.145/32",
+    "ip_address": "104.28.141.39/32",
     "ip_type": "IPv4",
     "region": "CA-NS"
   },

@@ -425,16 +425,6 @@
     "region": "VN-SG"
   },
   {
-    "ip_address": "104.28.148.165/32",
-    "ip_type": "IPv4",
-    "region": "VN-SG"
-  },
-  {
-    "ip_address": "104.28.148.166/32",
-    "ip_type": "IPv4",
-    "region": "VN-SG"
-  },
-  {
     "ip_address": "104.28.148.167/32",
     "ip_type": "IPv4",
     "region": "VN-SG"

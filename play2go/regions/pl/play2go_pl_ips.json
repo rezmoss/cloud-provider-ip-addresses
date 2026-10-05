@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "2.26.5.0/24",
+    "ip_type": "IPv4",
+    "service": "play2go",
+    "region": "pl"
+  },
+  {
+    "ip_address": "2.26.6.0/24",
+    "ip_type": "IPv4",
+    "service": "play2go",
+    "region": "pl"
+  },
+  {
+    "ip_address": "2.27.136.0/24",
+    "ip_type": "IPv4",
+    "service": "play2go",
+    "region": "pl"
+  },
+  {
+    "ip_address": "177.3.211.0/24",
+    "ip_type": "IPv4",
+    "service": "play2go",
+    "region": "pl"
+  }
+]

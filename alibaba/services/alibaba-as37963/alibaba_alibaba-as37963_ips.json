@@ -3912,12 +3912,6 @@
     "region": "global"
   },
   {
-    "ip_address": "140.205.76.0/24",
-    "ip_type": "IPv4",
-    "service": "alibaba-as37963",
-    "region": "global"
-  },
-  {
     "ip_address": "140.205.128.0/18",
     "ip_type": "IPv4",
     "service": "alibaba-as37963",

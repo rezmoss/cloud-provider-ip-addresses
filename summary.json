@@ -1,9 +1,9 @@
 {
-  "generated": "2026-10-04T03:11:08.208718",
-  "provider_count": 65,
-  "total_ipv4_addresses": 458035051,
-  "total_ipv6_addresses": 309519272955382919643719186118844,
-  "ipv4_space_coverage_pct": 10.6645,
+  "generated": "2026-10-05T02:46:15.043750",
+  "provider_count": 67,
+  "total_ipv4_addresses": 458840046,
+  "total_ipv6_addresses": 310628467230582620370028801423548,
+  "ipv4_space_coverage_pct": 10.6832,
   "providers": {
     "cloudflare": {
       "ipv4_cidrs": 15,
@@ -141,10 +141,10 @@
       "regions": 0
     },
     "apple_private_relay": {
-      "ipv4_cidrs": 41822,
+      "ipv4_cidrs": 41712,
       "ipv6_cidrs": 243357,
-      "total_cidrs": 285179,
-      "ipv4_addresses": 105735,
+      "total_cidrs": 285069,
+      "ipv4_addresses": 105625,
       "ipv6_addresses": 218680998781313459182494547968,
       "services": 0,
       "regions": 1284
@@ -285,10 +285,10 @@
       "regions": 1
     },
     "alibaba": {
-      "ipv4_cidrs": 2179,
+      "ipv4_cidrs": 2178,
       "ipv6_cidrs": 249,
-      "total_cidrs": 2428,
-      "ipv4_addresses": 31567104,
+      "total_cidrs": 2427,
+      "ipv4_addresses": 31566848,
       "ipv6_addresses": 88196691137176688286614964666368,
       "services": 3,
       "regions": 1
@@ -402,10 +402,10 @@
       "regions": 1
     },
     "tor": {
-      "ipv4_cidrs": 1398,
+      "ipv4_cidrs": 1383,
       "ipv6_cidrs": 0,
-      "total_cidrs": 1398,
-      "ipv4_addresses": 1398,
+      "total_cidrs": 1383,
+      "ipv4_addresses": 1383,
       "ipv6_addresses": 0,
       "services": 1,
       "regions": 1
@@ -589,6 +589,24 @@
       "ipv6_addresses": 0,
       "services": 2,
       "regions": 0
+    },
+    "contabo": {
+      "ipv4_cidrs": 744,
+      "ipv6_cidrs": 14,
+      "total_cidrs": 758,
+      "ipv4_addresses": 757760,
+      "ipv6_addresses": 1109194275199700726309615304704,
+      "services": 3,
+      "regions": 1
+    },
+    "play2go": {
+      "ipv4_cidrs": 180,
+      "ipv6_cidrs": 0,
+      "total_cidrs": 180,
+      "ipv4_addresses": 47616,
+      "ipv6_addresses": 0,
+      "services": 1,
+      "regions": 5
     }
   }
 }

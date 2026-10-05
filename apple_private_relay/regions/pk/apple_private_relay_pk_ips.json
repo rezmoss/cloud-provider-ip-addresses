@@ -60,11 +60,6 @@
     "region": "PK"
   },
   {
-    "ip_address": "104.28.147.77/32",
-    "ip_type": "IPv4",
-    "region": "PK"
-  },
-  {
     "ip_address": "140.248.28.6/31",
     "ip_type": "IPv4",
     "region": "PK"

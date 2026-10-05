@@ -76,7 +76,6 @@ INSERT INTO `apple_private_relay_in-gj_ips` (`ip_address`, `ip_type`) VALUES ('1
 INSERT INTO `apple_private_relay_in-gj_ips` (`ip_address`, `ip_type`) VALUES ('104.28.137.167/32', 'IPv4');
 INSERT INTO `apple_private_relay_in-gj_ips` (`ip_address`, `ip_type`) VALUES ('104.28.147.82/32', 'IPv4');
 INSERT INTO `apple_private_relay_in-gj_ips` (`ip_address`, `ip_type`) VALUES ('104.28.147.83/32', 'IPv4');
-INSERT INTO `apple_private_relay_in-gj_ips` (`ip_address`, `ip_type`) VALUES ('104.28.149.152/32', 'IPv4');
 INSERT INTO `apple_private_relay_in-gj_ips` (`ip_address`, `ip_type`) VALUES ('140.248.8.10/31', 'IPv4');
 INSERT INTO `apple_private_relay_in-gj_ips` (`ip_address`, `ip_type`) VALUES ('140.248.38.10/31', 'IPv4');
 INSERT INTO `apple_private_relay_in-gj_ips` (`ip_address`, `ip_type`) VALUES ('146.75.132.42/31', 'IPv4');

@@ -70,16 +70,6 @@
     "region": "IN-CH"
   },
   {
-    "ip_address": "104.28.147.92/32",
-    "ip_type": "IPv4",
-    "region": "IN-CH"
-  },
-  {
-    "ip_address": "104.28.147.93/32",
-    "ip_type": "IPv4",
-    "region": "IN-CH"
-  },
-  {
     "ip_address": "140.248.8.6/31",
     "ip_type": "IPv4",
     "region": "IN-CH"

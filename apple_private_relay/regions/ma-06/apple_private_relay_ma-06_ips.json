@@ -75,11 +75,6 @@
     "region": "MA-06"
   },
   {
-    "ip_address": "104.28.146.44/32",
-    "ip_type": "IPv4",
-    "region": "MA-06"
-  },
-  {
     "ip_address": "146.75.132.78/31",
     "ip_type": "IPv4",
     "region": "MA-06"

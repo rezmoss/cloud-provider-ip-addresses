@@ -60,11 +60,6 @@
     "region": "BD-D"
   },
   {
-    "ip_address": "104.28.147.101/32",
-    "ip_type": "IPv4",
-    "region": "BD-D"
-  },
-  {
     "ip_address": "2606:54c0:488::/45",
     "ip_type": "IPv6",
     "region": "BD-D"

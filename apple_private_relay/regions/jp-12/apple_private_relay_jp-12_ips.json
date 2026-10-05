@@ -270,6 +270,21 @@
     "region": "JP-12"
   },
   {
+    "ip_address": "104.28.138.27/32",
+    "ip_type": "IPv4",
+    "region": "JP-12"
+  },
+  {
+    "ip_address": "104.28.138.157/32",
+    "ip_type": "IPv4",
+    "region": "JP-12"
+  },
+  {
+    "ip_address": "104.28.138.160/32",
+    "ip_type": "IPv4",
+    "region": "JP-12"
+  },
+  {
     "ip_address": "104.28.140.82/32",
     "ip_type": "IPv4",
     "region": "JP-12"

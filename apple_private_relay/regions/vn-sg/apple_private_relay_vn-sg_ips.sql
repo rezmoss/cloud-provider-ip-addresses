@@ -91,8 +91,6 @@ INSERT INTO `apple_private_relay_vn-sg_ips` (`ip_address`, `ip_type`) VALUES ('1
 INSERT INTO `apple_private_relay_vn-sg_ips` (`ip_address`, `ip_type`) VALUES ('104.28.122.145/32', 'IPv4');
 INSERT INTO `apple_private_relay_vn-sg_ips` (`ip_address`, `ip_type`) VALUES ('104.28.122.146/32', 'IPv4');
 INSERT INTO `apple_private_relay_vn-sg_ips` (`ip_address`, `ip_type`) VALUES ('104.28.141.220/32', 'IPv4');
-INSERT INTO `apple_private_relay_vn-sg_ips` (`ip_address`, `ip_type`) VALUES ('104.28.148.165/32', 'IPv4');
-INSERT INTO `apple_private_relay_vn-sg_ips` (`ip_address`, `ip_type`) VALUES ('104.28.148.166/32', 'IPv4');
 INSERT INTO `apple_private_relay_vn-sg_ips` (`ip_address`, `ip_type`) VALUES ('104.28.148.167/32', 'IPv4');
 INSERT INTO `apple_private_relay_vn-sg_ips` (`ip_address`, `ip_type`) VALUES ('140.248.16.24/31', 'IPv4');
 INSERT INTO `apple_private_relay_vn-sg_ips` (`ip_address`, `ip_type`) VALUES ('146.75.132.170/31', 'IPv4');

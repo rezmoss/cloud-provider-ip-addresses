@@ -110,11 +110,6 @@
     "region": "BR-BA"
   },
   {
-    "ip_address": "104.28.144.97/32",
-    "ip_type": "IPv4",
-    "region": "BR-BA"
-  },
-  {
     "ip_address": "140.248.25.28/31",
     "ip_type": "IPv4",
     "region": "BR-BA"

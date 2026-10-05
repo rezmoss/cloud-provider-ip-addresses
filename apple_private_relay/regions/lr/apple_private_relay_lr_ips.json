@@ -1,10 +1,5 @@
 [
   {
-    "ip_address": "104.28.146.41/32",
-    "ip_type": "IPv4",
-    "region": "LR"
-  },
-  {
     "ip_address": "140.248.24.80/31",
     "ip_type": "IPv4",
     "region": "LR"

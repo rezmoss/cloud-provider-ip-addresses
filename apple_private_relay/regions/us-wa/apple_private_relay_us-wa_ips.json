@@ -750,11 +750,6 @@
     "region": "US-WA"
   },
   {
-    "ip_address": "104.28.145.2/32",
-    "ip_type": "IPv4",
-    "region": "US-WA"
-  },
-  {
     "ip_address": "104.28.145.3/32",
     "ip_type": "IPv4",
     "region": "US-WA"
@@ -765,27 +760,12 @@
     "region": "US-WA"
   },
   {
-    "ip_address": "104.28.145.5/32",
-    "ip_type": "IPv4",
-    "region": "US-WA"
-  },
-  {
     "ip_address": "104.28.145.6/32",
     "ip_type": "IPv4",
     "region": "US-WA"
   },
   {
-    "ip_address": "104.28.145.7/32",
-    "ip_type": "IPv4",
-    "region": "US-WA"
-  },
-  {
     "ip_address": "104.28.145.8/32",
-    "ip_type": "IPv4",
-    "region": "US-WA"
-  },
-  {
-    "ip_address": "104.28.145.9/32",
     "ip_type": "IPv4",
     "region": "US-WA"
   },
@@ -796,11 +776,6 @@
   },
   {
     "ip_address": "104.28.145.11/32",
-    "ip_type": "IPv4",
-    "region": "US-WA"
-  },
-  {
-    "ip_address": "104.28.145.12/32",
     "ip_type": "IPv4",
     "region": "US-WA"
   },
@@ -831,11 +806,6 @@
   },
   {
     "ip_address": "104.28.145.18/32",
-    "ip_type": "IPv4",
-    "region": "US-WA"
-  },
-  {
-    "ip_address": "104.28.145.19/32",
     "ip_type": "IPv4",
     "region": "US-WA"
   },
@@ -901,11 +871,6 @@
   },
   {
     "ip_address": "104.28.149.224/32",
-    "ip_type": "IPv4",
-    "region": "US-WA"
-  },
-  {
-    "ip_address": "104.28.149.225/32",
     "ip_type": "IPv4",
     "region": "US-WA"
   },

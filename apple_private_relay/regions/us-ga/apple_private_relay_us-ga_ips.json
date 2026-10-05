@@ -1090,31 +1090,6 @@
     "region": "US-GA"
   },
   {
-    "ip_address": "104.28.145.99/32",
-    "ip_type": "IPv4",
-    "region": "US-GA"
-  },
-  {
-    "ip_address": "104.28.145.100/32",
-    "ip_type": "IPv4",
-    "region": "US-GA"
-  },
-  {
-    "ip_address": "104.28.145.101/32",
-    "ip_type": "IPv4",
-    "region": "US-GA"
-  },
-  {
-    "ip_address": "104.28.145.102/32",
-    "ip_type": "IPv4",
-    "region": "US-GA"
-  },
-  {
-    "ip_address": "104.28.145.103/32",
-    "ip_type": "IPv4",
-    "region": "US-GA"
-  },
-  {
     "ip_address": "104.28.145.104/32",
     "ip_type": "IPv4",
     "region": "US-GA"
@@ -1140,42 +1115,7 @@
     "region": "US-GA"
   },
   {
-    "ip_address": "104.28.145.109/32",
-    "ip_type": "IPv4",
-    "region": "US-GA"
-  },
-  {
-    "ip_address": "104.28.145.110/32",
-    "ip_type": "IPv4",
-    "region": "US-GA"
-  },
-  {
-    "ip_address": "104.28.145.111/32",
-    "ip_type": "IPv4",
-    "region": "US-GA"
-  },
-  {
-    "ip_address": "104.28.145.112/32",
-    "ip_type": "IPv4",
-    "region": "US-GA"
-  },
-  {
-    "ip_address": "104.28.145.113/32",
-    "ip_type": "IPv4",
-    "region": "US-GA"
-  },
-  {
     "ip_address": "104.28.150.149/32",
-    "ip_type": "IPv4",
-    "region": "US-GA"
-  },
-  {
-    "ip_address": "104.28.150.150/32",
-    "ip_type": "IPv4",
-    "region": "US-GA"
-  },
-  {
-    "ip_address": "104.28.150.151/32",
     "ip_type": "IPv4",
     "region": "US-GA"
   },

@@ -410,46 +410,6 @@
     "region": "FR"
   },
   {
-    "ip_address": "104.28.149.182/32",
-    "ip_type": "IPv4",
-    "region": "FR"
-  },
-  {
-    "ip_address": "104.28.149.183/32",
-    "ip_type": "IPv4",
-    "region": "FR"
-  },
-  {
-    "ip_address": "104.28.149.254/32",
-    "ip_type": "IPv4",
-    "region": "FR"
-  },
-  {
-    "ip_address": "104.28.149.255/32",
-    "ip_type": "IPv4",
-    "region": "FR"
-  },
-  {
-    "ip_address": "104.28.150.1/32",
-    "ip_type": "IPv4",
-    "region": "FR"
-  },
-  {
-    "ip_address": "104.28.150.2/32",
-    "ip_type": "IPv4",
-    "region": "FR"
-  },
-  {
-    "ip_address": "104.28.150.3/32",
-    "ip_type": "IPv4",
-    "region": "FR"
-  },
-  {
-    "ip_address": "104.28.150.4/32",
-    "ip_type": "IPv4",
-    "region": "FR"
-  },
-  {
     "ip_address": "140.248.24.24/31",
     "ip_type": "IPv4",
     "region": "FR"

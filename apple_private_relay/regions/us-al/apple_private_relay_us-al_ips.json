@@ -270,11 +270,6 @@
     "region": "US-AL"
   },
   {
-    "ip_address": "104.28.145.82/32",
-    "ip_type": "IPv4",
-    "region": "US-AL"
-  },
-  {
     "ip_address": "140.248.26.2/31",
     "ip_type": "IPv4",
     "region": "US-AL"

@@ -295,16 +295,6 @@
     "region": "PK-PB"
   },
   {
-    "ip_address": "104.28.147.84/32",
-    "ip_type": "IPv4",
-    "region": "PK-PB"
-  },
-  {
-    "ip_address": "104.28.147.94/32",
-    "ip_type": "IPv4",
-    "region": "PK-PB"
-  },
-  {
     "ip_address": "104.28.151.58/32",
     "ip_type": "IPv4",
     "region": "PK-PB"

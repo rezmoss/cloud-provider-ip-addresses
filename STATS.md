@@ -1,17 +1,17 @@
 # IP Range Statistics
 
-Generated: 2026-10-04T03:11:08.208718
+Generated: 2026-10-05T02:46:15.043750
 
-Total IPv4 addresses: 458,035,051
-Total IPv6 addresses: 309,519,272,955,382,919,643,719,186,118,844
-IPv4 space coverage: 10.6645%
+Total IPv4 addresses: 458,840,046
+Total IPv6 addresses: 310,628,467,230,582,620,370,028,801,423,548
+IPv4 space coverage: 10.6832%
 
 | Provider | IPv4 CIDRs | IPv6 CIDRs | Total CIDRs | IPv4 Addresses | Services | Regions |
 |----------|-----------|-----------|------------|---------------|----------|--------|
 | akamai | 7,803 | 3,033 | 10,836 | 21,639,888 | 18 | 1 |
-| alibaba | 2,179 | 249 | 2,428 | 31,567,104 | 3 | 1 |
+| alibaba | 2,178 | 249 | 2,427 | 31,566,848 | 3 | 1 |
 | amazonbot | 3,131 | 0 | 3,131 | 3,131 | 3 | 0 |
-| apple_private_relay | 41,822 | 243,357 | 285,179 | 105,735 | 0 | 1284 |
+| apple_private_relay | 41,712 | 243,357 | 285,069 | 105,625 | 0 | 1284 |
 | applebot | 24 | 0 | 24 | 4,752 | 1 | 0 |
 | atlassian | 106 | 60 | 166 | 79,038 | 11 | 17 |
 | aws | 10,552 | 6,925 | 17,477 | 188,199,496 | 27 | 43 |
@@ -25,6 +25,7 @@ IPv4 space coverage: 10.6645%
 | claudebot | 28 | 0 | 28 | 1,126 | 1 | 0 |
 | cloudflare | 15 | 7 | 22 | 1,524,736 | 0 | 0 |
 | commoncrawl | 4 | 1 | 5 | 28 | 1 | 0 |
+| contabo | 744 | 14 | 758 | 757,760 | 3 | 1 |
 | datadog | 154 | 10 | 164 | 38,362 | 11 | 0 |
 | digitalocean | 1,082 | 148 | 1,230 | 3,128,704 | 0 | 13 |
 | discord | 20 | 0 | 20 | 20 | 2 | 0 |
@@ -54,6 +55,7 @@ IPv4 space coverage: 10.6645%
 | ovhcloud | 719 | 43 | 762 | 4,681,984 | 1 | 1 |
 | perplexitybot | 12 | 0 | 12 | 32 | 2 | 0 |
 | pingdom | 149 | 57 | 206 | 149 | 0 | 0 |
+| play2go | 180 | 0 | 180 | 47,616 | 1 | 5 |
 | quiccloud | 152 | 0 | 152 | 152 | 0 | 0 |
 | rackspace | 312 | 14 | 326 | 2,298,880 | 15 | 1 |
 | salesforce | 54 | 5 | 59 | 881,664 | 5 | 1 |
@@ -64,7 +66,7 @@ IPv4 space coverage: 10.6645%
 | teamcity | 11 | 0 | 11 | 11 | 2 | 1 |
 | telegram | 9 | 5 | 14 | 11,008 | 0 | 0 |
 | tencent | 3,362 | 72 | 3,434 | 14,990,592 | 2 | 1 |
-| tor | 1,398 | 0 | 1,398 | 1,398 | 1 | 1 |
+| tor | 1,383 | 0 | 1,383 | 1,383 | 1 | 1 |
 | upcloud | 95 | 21 | 116 | 105,472 | 2 | 1 |
 | uptimerobot | 103 | 103 | 206 | 103 | 1 | 4 |
 | vultr | 442 | 51 | 493 | 1,040,896 | 0 | 35 |
@@ -74,4 +76,4 @@ IPv4 space coverage: 10.6645%
 | zoom | 55 | 2 | 57 | 541,200 | 3 | 0 |
 | zscaler | 930 | 84 | 1,014 | 1,078,016 | 4 | 1 |
 
-*65 providers tracked*
+*67 providers tracked*

@@ -5,25 +5,25 @@
 [![GitHub stars](https://img.shields.io/github/stars/rezmoss/cloud-provider-ip-addresses)](https://github.com/rezmoss/cloud-provider-ip-addresses/stargazers)
 [![GitHub license](https://img.shields.io/github/license/rezmoss/cloud-provider-ip-addresses)](https://github.com/rezmoss/cloud-provider-ip-addresses/blob/main/LICENSE)
 ![Last Updated](https://img.shields.io/github/last-commit/rezmoss/cloud-provider-ip-addresses)
-![Providers](https://img.shields.io/badge/providers-65-blue)
+![Providers](https://img.shields.io/badge/providers-67-blue)
 ![Formats](https://img.shields.io/badge/formats-13+-green)
 ![Update](https://img.shields.io/badge/updated-daily%2002%3A00%20UTC-brightgreen)
 
-> **65 providers** | **13+ output formats** | **Merged/optimized CIDRs** | **Firewall-ready configs** | **Unified cross-provider dataset** | **Daily changelog** | **IP lookup tool** | **Go & JS client libraries**
+> **67 providers** | **13+ output formats** | **Merged/optimized CIDRs** | **Firewall-ready configs** | **Unified cross-provider dataset** | **Daily changelog** | **IP lookup tool** | **Go & JS client libraries**
 
 <!-- STATS_START -->
 <!-- This section is auto-updated by app.py on each run. Do not edit manually. -->
 
 ### Live Stats
 
-> Last updated: **2026-10-04** | Providers: **65** | Total CIDRs: **451,002** | IPv4 addresses: **458,035,051** | IPv4 space: **10.66%**
+> Last updated: **2026-10-05** | Providers: **67** | Total CIDRs: **451,814** | IPv4 addresses: **458,840,046** | IPv4 space: **10.68%**
 
 | Provider | IPv4 CIDRs | IPv6 CIDRs | Total CIDRs | IPv4 Addresses | Services | Regions |
 |----------|-----------|-----------|------------|---------------|----------|--------|
 | akamai | 7,803 | 3,033 | 10,836 | 21,639,888 | 18 | 1 |
-| alibaba | 2,179 | 249 | 2,428 | 31,567,104 | 3 | 1 |
+| alibaba | 2,178 | 249 | 2,427 | 31,566,848 | 3 | 1 |
 | amazonbot | 3,131 | 0 | 3,131 | 3,131 | 3 | 0 |
-| apple_private_relay | 41,822 | 243,357 | 285,179 | 105,735 | 0 | 1284 |
+| apple_private_relay | 41,712 | 243,357 | 285,069 | 105,625 | 0 | 1284 |
 | applebot | 24 | 0 | 24 | 4,752 | 1 | 0 |
 | atlassian | 106 | 60 | 166 | 79,038 | 11 | 17 |
 | aws | 10,552 | 6,925 | 17,477 | 188,199,496 | 27 | 43 |
@@ -37,6 +37,7 @@
 | claudebot | 28 | 0 | 28 | 1,126 | 1 | 0 |
 | cloudflare | 15 | 7 | 22 | 1,524,736 | 0 | 0 |
 | commoncrawl | 4 | 1 | 5 | 28 | 1 | 0 |
+| contabo | 744 | 14 | 758 | 757,760 | 3 | 1 |
 | datadog | 154 | 10 | 164 | 38,362 | 11 | 0 |
 | digitalocean | 1,082 | 148 | 1,230 | 3,128,704 | 0 | 13 |
 | discord | 20 | 0 | 20 | 20 | 2 | 0 |
@@ -66,6 +67,7 @@
 | ovhcloud | 719 | 43 | 762 | 4,681,984 | 1 | 1 |
 | perplexitybot | 12 | 0 | 12 | 32 | 2 | 0 |
 | pingdom | 149 | 57 | 206 | 149 | 0 | 0 |
+| play2go | 180 | 0 | 180 | 47,616 | 1 | 5 |
 | quiccloud | 152 | 0 | 152 | 152 | 0 | 0 |
 | rackspace | 312 | 14 | 326 | 2,298,880 | 15 | 1 |
 | salesforce | 54 | 5 | 59 | 881,664 | 5 | 1 |
@@ -76,7 +78,7 @@
 | teamcity | 11 | 0 | 11 | 11 | 2 | 1 |
 | telegram | 9 | 5 | 14 | 11,008 | 0 | 0 |
 | tencent | 3,362 | 72 | 3,434 | 14,990,592 | 2 | 1 |
-| tor | 1,398 | 0 | 1,398 | 1,398 | 1 | 1 |
+| tor | 1,383 | 0 | 1,383 | 1,383 | 1 | 1 |
 | upcloud | 95 | 21 | 116 | 105,472 | 2 | 1 |
 | uptimerobot | 103 | 103 | 206 | 103 | 1 | 4 |
 | vultr | 442 | 51 | 493 | 1,040,896 | 0 | 35 |
@@ -141,7 +143,7 @@ There are other cloud IP range repos out there. Here's what makes this one diffe
 
 | Feature | This Repo | Others |
 |---------|-----------|--------|
-| Cloud providers | AWS, Azure, GCP, Cloudflare, DigitalOcean, Oracle, Fastly, GitHub, Linode, Vultr, UpCloud, NHN Cloud, Hostway, Gabia + Apple Private Relay, Telegram | Varies |
+| Cloud providers | AWS, Azure, GCP, Cloudflare, DigitalOcean, Oracle, Fastly, GitHub, Linode, Vultr, Contabo, Play2Go, UpCloud, NHN Cloud, Hostway, Gabia + Apple Private Relay, Telegram | Varies |
 | CDN / storage / WAF | G-Core Labs, CacheFly, GoCache, Quic.cloud, Bunny CDN, Wasabi, Backblaze, Imperva, Sucuri, StormWall | Rare |
 | Bot/crawler IPs | GoogleBot, BingBot, GPTBot/ChatGPT, ClaudeBot, AppleBot, PerplexityBot, DuckDuckBot, Amazonbot, Common Crawl | Rare |
 | SaaS / Collaboration | Microsoft 365, Zoom, Atlassian (Jira, Confluence, Bitbucket, Trello, ...) | Very rare |
@@ -260,6 +262,7 @@ curl -sLO https://github.com/rezmoss/cloud-provider-ip-addresses/releases/downlo
 | **Linode (Akamai)** | IPv4 + IPv6 | — | Linode public geofeed |
 | **Apple (iCloud Private Relay)** | IPv4 + IPv6 | — | Apple published egress ranges |
 | **Vultr** | IPv4 + IPv6 | Per-region | Vultr public geofeed |
+| **Play2Go** | IPv4 | Per-country | Play2Go official geofeed |
 | **Telegram** | IPv4 + IPv6 | — | Telegram official CIDR list |
 | **Imperva** | IPv4 + IPv6 | — | Imperva cloud WAF / CDN IP feed |
 | **G-Core Labs** | IPv4 + IPv6 | — | G-Core CDN public IP list |
@@ -320,6 +323,7 @@ curl -sLO https://github.com/rezmoss/cloud-provider-ip-addresses/releases/downlo
 | **Backblaze** | IPv4 + IPv6 | BGP announcements via public BGP data |
 | **Baidu** | IPv4 + IPv6 | BGP announcements via public BGP data |
 | **Bunny CDN** | IPv4 + IPv6 | BGP announcements via public BGP data |
+| **Contabo** | IPv4 + IPv6 | BGP announcements via public BGP data |
 | **Gabia** | IPv4 + IPv6 | BGP announcements via public BGP data |
 | **Hetzner** | IPv4 + IPv6 | BGP announcements via public BGP data |
 | **Hostway** | IPv4 + IPv6 | BGP announcements via public BGP data |
@@ -369,6 +373,7 @@ Each provider has its own page with quick-use snippets, sample CIDRs, and links 
 | **ClaudeBot** | [`claudebot/`](./claudebot/) |
 | **Cloudflare** | [`cloudflare/`](./cloudflare/) |
 | **Common Crawl (CCBot)** | [`commoncrawl/`](./commoncrawl/) |
+| **Contabo** | [`contabo/`](./contabo/) |
 | **Datadog** | [`datadog/`](./datadog/) |
 | **DigitalOcean** | [`digitalocean/`](./digitalocean/) |
 | **Discord** | [`discord/`](./discord/) |
@@ -398,6 +403,7 @@ Each provider has its own page with quick-use snippets, sample CIDRs, and links 
 | **OVHcloud** | [`ovhcloud/`](./ovhcloud/) |
 | **PerplexityBot** | [`perplexitybot/`](./perplexitybot/) |
 | **Pingdom** | [`pingdom/`](./pingdom/) |
+| **Play2Go** | [`play2go/`](./play2go/) |
 | **Quic.cloud** | [`quiccloud/`](./quiccloud/) |
 | **Rackspace** | [`rackspace/`](./rackspace/) |
 | **Salesforce** | [`salesforce/`](./salesforce/) |
@@ -751,6 +757,8 @@ cloud-provider-ip-addresses/
 ├── bunny/                (all formats + services; BGP/ASN-derived)
 ├── internetarchive/      (all formats + services; BGP/ASN-derived)
 ├── discord/              (all formats + services; official Discord egress list)
+├── contabo/              (all formats + services; BGP/ASN-derived)
+├── play2go/              (all formats + regions; official Play2Go geofeed)
 ├── all_providers/
 │   ├── all_providers.json / .csv
 │   ├── all_providers_ips.txt
@@ -938,6 +946,8 @@ curl -sL https://raw.githubusercontent.com/rezmoss/cloud-provider-ip-addresses/m
 | Gabia | Y | — | Y | — | Y | Y |
 | Bunny CDN | Y | Y | Y | — | Y | Y |
 | Discord | Y | — | Y | — | Y | Y |
+| Contabo | Y | Y | Y | — | Y | Y |
+| Play2Go | Y | — | — | Y | Y | Y |
 
 ---
 
@@ -1008,6 +1018,7 @@ All IP range data is sourced from the official, publicly available endpoints pro
 - **Apple (iCloud Private Relay)** — for making Private Relay egress IP ranges available to help websites with geolocation and traffic analysis
 - **Telegram** — for publishing their official network CIDR ranges
 - **Vultr (Constant)** — for maintaining a publicly accessible IP geofeed
+- **Play2Go** — for publishing their IP ranges as an official RFC 8805 geofeed
 - **Perplexity AI (PerplexityBot)** — for making their bot and user-agent IP ranges publicly available
 - **DuckDuckGo (DuckDuckBot)** — for publishing their crawler IP ranges for webmasters
 - **Amazon (Amazonbot)** — for making their crawler and search bot IP ranges publicly available
@@ -1022,7 +1033,7 @@ All IP range data is sourced from the official, publicly available endpoints pro
 - **Pingdom** — for publishing their IPv4 and IPv6 monitoring probe IP ranges
 - **The Tor Project** — for publishing the official bulk exit node list as part of their network directory
 - **Mullvad VPN** — for publishing their complete relay list through their public API
-- **Public BGP data sources** — for the routing data from which the announced address space of Meta, Alibaba, Tencent, IBM Cloud, Hetzner, OVHcloud, and Scaleway is observed
+- **Public BGP data sources** — for the routing data from which the announced address space of Meta, Alibaba, Tencent, IBM Cloud, Hetzner, OVHcloud, Scaleway, and Contabo is observed
 
 ---
 

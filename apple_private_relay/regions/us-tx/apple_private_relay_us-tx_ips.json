@@ -1795,6 +1795,41 @@
     "region": "US-TX"
   },
   {
+    "ip_address": "104.28.138.154/32",
+    "ip_type": "IPv4",
+    "region": "US-TX"
+  },
+  {
+    "ip_address": "104.28.138.171/32",
+    "ip_type": "IPv4",
+    "region": "US-TX"
+  },
+  {
+    "ip_address": "104.28.138.172/32",
+    "ip_type": "IPv4",
+    "region": "US-TX"
+  },
+  {
+    "ip_address": "104.28.138.173/32",
+    "ip_type": "IPv4",
+    "region": "US-TX"
+  },
+  {
+    "ip_address": "104.28.138.174/32",
+    "ip_type": "IPv4",
+    "region": "US-TX"
+  },
+  {
+    "ip_address": "104.28.138.175/32",
+    "ip_type": "IPv4",
+    "region": "US-TX"
+  },
+  {
+    "ip_address": "104.28.138.176/32",
+    "ip_type": "IPv4",
+    "region": "US-TX"
+  },
+  {
     "ip_address": "104.28.139.84/32",
     "ip_type": "IPv4",
     "region": "US-TX"

@@ -10,11 +10,6 @@
     "region": "IQ"
   },
   {
-    "ip_address": "104.28.142.67/32",
-    "ip_type": "IPv4",
-    "region": "IQ"
-  },
-  {
     "ip_address": "104.28.146.215/32",
     "ip_type": "IPv4",
     "region": "IQ"
@@ -30,11 +25,6 @@
     "region": "IQ"
   },
   {
-    "ip_address": "104.28.146.218/32",
-    "ip_type": "IPv4",
-    "region": "IQ"
-  },
-  {
     "ip_address": "104.28.146.219/32",
     "ip_type": "IPv4",
     "region": "IQ"
@@ -46,11 +36,6 @@
   },
   {
     "ip_address": "104.28.147.69/32",
-    "ip_type": "IPv4",
-    "region": "IQ"
-  },
-  {
-    "ip_address": "104.28.149.135/32",
     "ip_type": "IPv4",
     "region": "IQ"
   },

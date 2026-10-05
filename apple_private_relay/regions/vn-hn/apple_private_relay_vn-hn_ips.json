@@ -250,21 +250,6 @@
     "region": "VN-HN"
   },
   {
-    "ip_address": "104.28.148.191/32",
-    "ip_type": "IPv4",
-    "region": "VN-HN"
-  },
-  {
-    "ip_address": "104.28.148.192/32",
-    "ip_type": "IPv4",
-    "region": "VN-HN"
-  },
-  {
-    "ip_address": "104.28.148.193/32",
-    "ip_type": "IPv4",
-    "region": "VN-HN"
-  },
-  {
     "ip_address": "140.248.16.22/31",
     "ip_type": "IPv4",
     "region": "VN-HN"

@@ -80,41 +80,6 @@
     "region": "JP"
   },
   {
-    "ip_address": "104.28.149.6/32",
-    "ip_type": "IPv4",
-    "region": "JP"
-  },
-  {
-    "ip_address": "104.28.149.7/32",
-    "ip_type": "IPv4",
-    "region": "JP"
-  },
-  {
-    "ip_address": "104.28.149.8/32",
-    "ip_type": "IPv4",
-    "region": "JP"
-  },
-  {
-    "ip_address": "104.28.149.9/32",
-    "ip_type": "IPv4",
-    "region": "JP"
-  },
-  {
-    "ip_address": "104.28.149.10/32",
-    "ip_type": "IPv4",
-    "region": "JP"
-  },
-  {
-    "ip_address": "104.28.149.11/32",
-    "ip_type": "IPv4",
-    "region": "JP"
-  },
-  {
-    "ip_address": "104.28.149.12/32",
-    "ip_type": "IPv4",
-    "region": "JP"
-  },
-  {
     "ip_address": "104.28.149.13/32",
     "ip_type": "IPv4",
     "region": "JP"

@@ -765,31 +765,6 @@
     "region": "DE-HE"
   },
   {
-    "ip_address": "104.28.150.216/32",
-    "ip_type": "IPv4",
-    "region": "DE-HE"
-  },
-  {
-    "ip_address": "104.28.150.217/32",
-    "ip_type": "IPv4",
-    "region": "DE-HE"
-  },
-  {
-    "ip_address": "104.28.150.218/32",
-    "ip_type": "IPv4",
-    "region": "DE-HE"
-  },
-  {
-    "ip_address": "104.28.150.219/32",
-    "ip_type": "IPv4",
-    "region": "DE-HE"
-  },
-  {
-    "ip_address": "104.28.150.220/32",
-    "ip_type": "IPv4",
-    "region": "DE-HE"
-  },
-  {
     "ip_address": "104.28.151.2/32",
     "ip_type": "IPv4",
     "region": "DE-HE"

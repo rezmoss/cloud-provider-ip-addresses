@@ -5,6 +5,11 @@
     "region": "PA"
   },
   {
+    "ip_address": "104.28.138.155/32",
+    "ip_type": "IPv4",
+    "region": "PA"
+  },
+  {
     "ip_address": "104.28.145.39/32",
     "ip_type": "IPv4",
     "region": "PA"

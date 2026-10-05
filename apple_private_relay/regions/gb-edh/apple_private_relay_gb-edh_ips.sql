@@ -16,7 +16,6 @@ INSERT INTO `apple_private_relay_gb-edh_ips` (`ip_address`, `ip_type`) VALUES ('
 INSERT INTO `apple_private_relay_gb-edh_ips` (`ip_address`, `ip_type`) VALUES ('104.28.86.87/32', 'IPv4');
 INSERT INTO `apple_private_relay_gb-edh_ips` (`ip_address`, `ip_type`) VALUES ('104.28.89.57/32', 'IPv4');
 INSERT INTO `apple_private_relay_gb-edh_ips` (`ip_address`, `ip_type`) VALUES ('104.28.89.58/32', 'IPv4');
-INSERT INTO `apple_private_relay_gb-edh_ips` (`ip_address`, `ip_type`) VALUES ('104.28.146.124/32', 'IPv4');
 INSERT INTO `apple_private_relay_gb-edh_ips` (`ip_address`, `ip_type`) VALUES ('140.248.40.44/31', 'IPv4');
 INSERT INTO `apple_private_relay_gb-edh_ips` (`ip_address`, `ip_type`) VALUES ('146.75.168.58/31', 'IPv4');
 INSERT INTO `apple_private_relay_gb-edh_ips` (`ip_address`, `ip_type`) VALUES ('146.75.174.32/31', 'IPv4');

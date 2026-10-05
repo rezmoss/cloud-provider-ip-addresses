@@ -1,6 +1,6 @@
 #!/bin/bash
 # Apple_private_relay IP Ranges
-# Updated: 2026-09-28 02:36:43
+# Updated: 2026-10-05 02:40:58
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -186,17 +186,12 @@ ufw allow from 104.28.138.145/32
 ufw allow from 104.28.138.147/32
 ufw allow from 104.28.138.148/31
 ufw allow from 104.28.138.150/32
+ufw allow from 104.28.138.165/32
+ufw allow from 104.28.138.166/31
+ufw allow from 104.28.138.168/32
 ufw allow from 104.28.139.16/32
 ufw allow from 104.28.139.228/30
 ufw allow from 104.28.139.234/32
-ufw allow from 104.28.140.43/32
-ufw allow from 104.28.140.44/30
-ufw allow from 104.28.140.48/31
-ufw allow from 104.28.140.50/32
-ufw allow from 104.28.140.53/32
-ufw allow from 104.28.140.54/31
-ufw allow from 104.28.140.56/31
-ufw allow from 104.28.140.58/32
 ufw allow from 104.28.140.134/31
 ufw allow from 104.28.140.136/31
 ufw allow from 104.28.140.152/32
@@ -215,7 +210,9 @@ ufw allow from 104.28.144.120/29
 ufw allow from 104.28.144.128/29
 ufw allow from 104.28.144.150/31
 ufw allow from 104.28.144.152/29
-ufw allow from 104.28.144.160/28
+ufw allow from 104.28.144.162/31
+ufw allow from 104.28.144.164/30
+ufw allow from 104.28.144.168/29
 ufw allow from 104.28.144.176/29
 ufw allow from 104.28.144.184/30
 ufw allow from 104.28.144.188/32

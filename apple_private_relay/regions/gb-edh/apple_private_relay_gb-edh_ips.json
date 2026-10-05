@@ -50,11 +50,6 @@
     "region": "GB-EDH"
   },
   {
-    "ip_address": "104.28.146.124/32",
-    "ip_type": "IPv4",
-    "region": "GB-EDH"
-  },
-  {
     "ip_address": "140.248.40.44/31",
     "ip_type": "IPv4",
     "region": "GB-EDH"

@@ -50,11 +50,6 @@
     "region": "RU"
   },
   {
-    "ip_address": "104.28.149.58/32",
-    "ip_type": "IPv4",
-    "region": "RU"
-  },
-  {
     "ip_address": "140.248.34.192/31",
     "ip_type": "IPv4",
     "region": "RU"

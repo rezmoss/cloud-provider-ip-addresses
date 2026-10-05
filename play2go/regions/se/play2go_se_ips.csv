@@ -1,0 +1,17 @@
+ip_address,ip_type,service,region
+2.26.7.0/24,IPv4,play2go,se
+2.26.55.0/24,IPv4,play2go,se
+2.26.101.0/24,IPv4,play2go,se
+2.27.23.0/24,IPv4,play2go,se
+13.143.174.0/24,IPv4,play2go,se
+31.76.81.0/24,IPv4,play2go,se
+31.77.18.0/24,IPv4,play2go,se
+31.77.144.0/24,IPv4,play2go,se
+31.77.158.0/24,IPv4,play2go,se
+45.8.93.0/24,IPv4,play2go,se
+87.121.105.0/24,IPv4,play2go,se
+144.31.230.0/24,IPv4,play2go,se
+144.31.235.0/24,IPv4,play2go,se
+177.3.209.0/24,IPv4,play2go,se
+177.3.215.0/24,IPv4,play2go,se
+193.25.216.0/24,IPv4,play2go,se

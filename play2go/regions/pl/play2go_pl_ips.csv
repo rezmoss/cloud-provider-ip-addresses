@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+2.26.5.0/24,IPv4,play2go,pl
+2.26.6.0/24,IPv4,play2go,pl
+2.27.136.0/24,IPv4,play2go,pl
+177.3.211.0/24,IPv4,play2go,pl

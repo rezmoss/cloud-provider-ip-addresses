@@ -140,11 +140,6 @@
     "region": "BR-RS"
   },
   {
-    "ip_address": "104.28.144.26/32",
-    "ip_type": "IPv4",
-    "region": "BR-RS"
-  },
-  {
     "ip_address": "104.28.149.210/32",
     "ip_type": "IPv4",
     "region": "BR-RS"

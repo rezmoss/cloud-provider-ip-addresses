@@ -1,7 +1,7 @@
 {
   "provider": "akamai",
   "version": 68,
-  "generated_date": "2026-10-04",
+  "generated_date": "2026-10-05",
   "last_changed_date": "2026-10-04",
   "sources": [
     "BGP announced prefixes via RIPE NCC RIPEstat"

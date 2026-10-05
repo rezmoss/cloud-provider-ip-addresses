@@ -325,16 +325,6 @@
     "region": "US-CO"
   },
   {
-    "ip_address": "104.28.139.99/32",
-    "ip_type": "IPv4",
-    "region": "US-CO"
-  },
-  {
-    "ip_address": "104.28.139.100/32",
-    "ip_type": "IPv4",
-    "region": "US-CO"
-  },
-  {
     "ip_address": "104.28.139.104/32",
     "ip_type": "IPv4",
     "region": "US-CO"

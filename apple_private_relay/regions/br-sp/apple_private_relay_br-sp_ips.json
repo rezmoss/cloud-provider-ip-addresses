@@ -1055,6 +1055,16 @@
     "region": "BR-SP"
   },
   {
+    "ip_address": "104.28.138.158/32",
+    "ip_type": "IPv4",
+    "region": "BR-SP"
+  },
+  {
+    "ip_address": "104.28.138.178/32",
+    "ip_type": "IPv4",
+    "region": "BR-SP"
+  },
+  {
     "ip_address": "104.28.139.134/32",
     "ip_type": "IPv4",
     "region": "BR-SP"

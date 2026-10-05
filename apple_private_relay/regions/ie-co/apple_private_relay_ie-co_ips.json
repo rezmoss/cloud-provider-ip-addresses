@@ -50,11 +50,6 @@
     "region": "IE-CO"
   },
   {
-    "ip_address": "104.28.146.68/32",
-    "ip_type": "IPv4",
-    "region": "IE-CO"
-  },
-  {
     "ip_address": "2606:54c0:39f0::/45",
     "ip_type": "IPv6",
     "region": "IE-CO"

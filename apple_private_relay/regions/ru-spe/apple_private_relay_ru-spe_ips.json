@@ -15,11 +15,6 @@
     "region": "RU-SPE"
   },
   {
-    "ip_address": "104.28.148.95/32",
-    "ip_type": "IPv4",
-    "region": "RU-SPE"
-  },
-  {
     "ip_address": "140.248.34.212/31",
     "ip_type": "IPv4",
     "region": "RU-SPE"
