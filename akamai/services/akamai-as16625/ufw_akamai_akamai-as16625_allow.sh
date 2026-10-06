@@ -1,6 +1,6 @@
 #!/bin/bash
 # Akamai IP Ranges
-# Updated: 2026-10-03 02:32:52
+# Updated: 2026-10-06 02:34:37
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -799,7 +799,6 @@ ufw allow from 23.205.128.0/20
 ufw allow from 23.205.156.0/22
 ufw allow from 23.205.176.0/20
 ufw allow from 23.205.192.0/20
-ufw allow from 23.205.216.0/22
 ufw allow from 23.205.220.0/23
 ufw allow from 23.205.224.0/20
 ufw allow from 23.205.240.0/21
@@ -835,12 +834,11 @@ ufw allow from 23.208.98.0/23
 ufw allow from 23.208.112.0/20
 ufw allow from 23.208.144.0/21
 ufw allow from 23.208.156.0/22
-ufw allow from 23.208.220.0/22
+ufw allow from 23.208.220.0/23
 ufw allow from 23.208.224.0/19
 ufw allow from 23.209.0.0/19
 ufw allow from 23.209.48.0/21
 ufw allow from 23.209.56.0/22
-ufw allow from 23.209.70.0/23
 ufw allow from 23.209.108.0/22
 ufw allow from 23.209.128.0/19
 ufw allow from 23.209.184.0/22
@@ -868,7 +866,7 @@ ufw allow from 23.211.48.0/21
 ufw allow from 23.211.64.0/19
 ufw allow from 23.211.96.0/22
 ufw allow from 23.211.128.0/22
-ufw allow from 23.211.144.0/20
+ufw allow from 23.211.152.0/21
 ufw allow from 23.211.160.0/20
 ufw allow from 23.211.204.0/22
 ufw allow from 23.211.234.0/23
@@ -1182,11 +1180,10 @@ ufw allow from 104.79.206.0/23
 ufw allow from 104.79.240.0/20
 ufw allow from 104.80.0.0/20
 ufw allow from 104.80.16.0/22
-ufw allow from 104.80.48.0/20
 ufw allow from 104.80.196.0/22
 ufw allow from 104.80.212.0/23
 ufw allow from 104.80.240.0/20
-ufw allow from 104.81.0.0/19
+ufw allow from 104.81.0.0/20
 ufw allow from 104.81.62.0/23
 ufw allow from 104.81.72.0/21
 ufw allow from 104.81.96.0/19

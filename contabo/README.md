@@ -1,6 +1,6 @@
 # Contabo IP Ranges (Auto-Updated Daily)
 
-> Last updated: **2026-10-05** · Total CIDRs: **758** · IPv4: **744** · IPv6: **14** · Services: **3** · Regions: **1**
+> Last updated: **2026-10-06** · Total CIDRs: **758** · IPv4: **744** · IPv6: **14** · Services: **3** · Regions: **1**
 
 Machine-readable, daily-updated, validated public IP ranges for **Contabo**.
 Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and Apache.

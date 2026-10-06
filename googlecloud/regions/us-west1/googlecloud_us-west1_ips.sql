@@ -67,5 +67,7 @@ INSERT INTO `googlecloud_us-west1_ips` (`ip_address`, `ip_type`) VALUES ('136.87
 INSERT INTO `googlecloud_us-west1_ips` (`ip_address`, `ip_type`) VALUES ('136.109.0.0/16', 'IPv4');
 INSERT INTO `googlecloud_us-west1_ips` (`ip_address`, `ip_type`) VALUES ('136.117.0.0/16', 'IPv4');
 INSERT INTO `googlecloud_us-west1_ips` (`ip_address`, `ip_type`) VALUES ('136.118.0.0/16', 'IPv4');
+INSERT INTO `googlecloud_us-west1_ips` (`ip_address`, `ip_type`) VALUES ('179.67.64.0/18', 'IPv4');
+INSERT INTO `googlecloud_us-west1_ips` (`ip_address`, `ip_type`) VALUES ('179.69.128.0/18', 'IPv4');
 INSERT INTO `googlecloud_us-west1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1900:4040::/44', 'IPv6');
 INSERT INTO `googlecloud_us-west1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1902:290::/44', 'IPv6');

@@ -1,6 +1,6 @@
 # Play2Go IP Ranges (Auto-Updated Daily)
 
-> Last updated: **2026-10-05** · Total CIDRs: **180** · IPv4: **180** · IPv6: **0** · Services: **1** · Regions: **5**
+> Last updated: **2026-10-06** · Total CIDRs: **180** · IPv4: **180** · IPv6: **0** · Services: **1** · Regions: **5**
 
 Machine-readable, daily-updated, validated public IP ranges for **Play2Go**.
 Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and Apache.

@@ -1,5 +1,5 @@
 # claudebot IP ranges - ipset restore format (hash:net)
-# Version: 5 | Generated: 2026-10-05 | Last changed: 2026-10-03
+# Version: 5 | Generated: 2026-10-06 | Last changed: 2026-10-03
 # IPv4: 28 merged subnets, 1126 unique IPs
 # IPv6: 0 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
