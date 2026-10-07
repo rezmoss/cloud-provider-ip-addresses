@@ -3606,6 +3606,12 @@
     "region": "westus2"
   },
   {
+    "ip_address": "48.208.102.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.westus2",
+    "region": "westus2"
+  },
+  {
     "ip_address": "48.212.7.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.westus2",
@@ -5022,19 +5028,7 @@
     "region": "westus2"
   },
   {
-    "ip_address": "57.157.73.0/26",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.westus2",
-    "region": "westus2"
-  },
-  {
-    "ip_address": "57.157.73.64/28",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.westus2",
-    "region": "westus2"
-  },
-  {
-    "ip_address": "57.157.73.80/29",
+    "ip_address": "57.157.73.0/25",
     "ip_type": "IPv4",
     "service": "AzureCloud.westus2",
     "region": "westus2"
@@ -5377,6 +5371,36 @@
   },
   {
     "ip_address": "74.146.230.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.WestUS2",
+    "region": "westus2"
+  },
+  {
+    "ip_address": "74.146.233.217/32",
+    "ip_type": "IPv4",
+    "service": "PowerBI.WestUS2",
+    "region": "westus2"
+  },
+  {
+    "ip_address": "74.146.233.220/30",
+    "ip_type": "IPv4",
+    "service": "PowerBI.WestUS2",
+    "region": "westus2"
+  },
+  {
+    "ip_address": "74.146.240.0/26",
+    "ip_type": "IPv4",
+    "service": "PowerBI.WestUS2",
+    "region": "westus2"
+  },
+  {
+    "ip_address": "74.146.240.64/29",
+    "ip_type": "IPv4",
+    "service": "PowerBI.WestUS2",
+    "region": "westus2"
+  },
+  {
+    "ip_address": "74.146.240.128/25",
     "ip_type": "IPv4",
     "service": "AzureMonitor.WestUS2",
     "region": "westus2"
@@ -5767,6 +5791,12 @@
   },
   {
     "ip_address": "172.139.0.0/17",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.westus2",
+    "region": "westus2"
+  },
+  {
+    "ip_address": "172.140.128.0/17",
     "ip_type": "IPv4",
     "service": "AzureCloud.westus2",
     "region": "westus2"

@@ -46,6 +46,7 @@ INSERT INTO `azure_azuremonitor.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('
 INSERT INTO `azure_azuremonitor.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('57.167.184.162/31', 'IPv4');
 INSERT INTO `azure_azuremonitor.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('74.145.58.0/25', 'IPv4');
 INSERT INTO `azure_azuremonitor.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('74.145.59.96/27', 'IPv4');
+INSERT INTO `azure_azuremonitor.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('74.159.238.0/25', 'IPv4');
 INSERT INTO `azure_azuremonitor.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('104.46.123.164/32', 'IPv4');
 INSERT INTO `azure_azuremonitor.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('104.208.144.88/29', 'IPv4');
 INSERT INTO `azure_azuremonitor.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('104.208.170.144/28', 'IPv4');

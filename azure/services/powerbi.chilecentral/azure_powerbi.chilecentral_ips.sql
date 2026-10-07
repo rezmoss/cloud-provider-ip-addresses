@@ -11,5 +11,6 @@ INSERT INTO `azure_powerbi.chilecentral_ips` (`ip_address`, `ip_type`) VALUES ('
 INSERT INTO `azure_powerbi.chilecentral_ips` (`ip_address`, `ip_type`) VALUES ('68.211.13.56/29', 'IPv4');
 INSERT INTO `azure_powerbi.chilecentral_ips` (`ip_address`, `ip_type`) VALUES ('68.211.24.16/28', 'IPv4');
 INSERT INTO `azure_powerbi.chilecentral_ips` (`ip_address`, `ip_type`) VALUES ('68.211.24.32/28', 'IPv4');
+INSERT INTO `azure_powerbi.chilecentral_ips` (`ip_address`, `ip_type`) VALUES ('68.211.211.48/28', 'IPv4');
 INSERT INTO `azure_powerbi.chilecentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:301:2::380/122', 'IPv6');
 INSERT INTO `azure_powerbi.chilecentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:301:2::3c0/123', 'IPv6');

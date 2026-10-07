@@ -342,6 +342,12 @@
     "region": "eastus"
   },
   {
+    "ip_address": "48.206.201.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.EastUS",
+    "region": "eastus"
+  },
+  {
     "ip_address": "52.150.36.187/32",
     "ip_type": "IPv4",
     "service": "AzureMonitor.EastUS",

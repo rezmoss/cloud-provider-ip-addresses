@@ -30,6 +30,12 @@
     "region": "belgiumcentral"
   },
   {
+    "ip_address": "74.152.14.224/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.BelgiumCentral",
+    "region": "belgiumcentral"
+  },
+  {
     "ip_address": "2603:1020:1502:2::1a0/123",
     "ip_type": "IPv6",
     "service": "PowerBI.BelgiumCentral",

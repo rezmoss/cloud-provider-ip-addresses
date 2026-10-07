@@ -594,6 +594,30 @@
     "region": "southwestus"
   },
   {
+    "ip_address": "57.163.62.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southwestus",
+    "region": "southwestus"
+  },
+  {
+    "ip_address": "57.163.62.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.SouthwestUS",
+    "region": "southwestus"
+  },
+  {
+    "ip_address": "57.163.88.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southwestus",
+    "region": "southwestus"
+  },
+  {
+    "ip_address": "57.163.88.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.SouthwestUS",
+    "region": "southwestus"
+  },
+  {
     "ip_address": "135.130.210.0/23",
     "ip_type": "IPv4",
     "service": "AzureCloud.southwestus",
@@ -613,6 +637,12 @@
   },
   {
     "ip_address": "145.190.146.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.SouthwestUS",
+    "region": "southwestus"
+  },
+  {
+    "ip_address": "145.190.196.0/24",
     "ip_type": "IPv4",
     "service": "Storage.SouthwestUS",
     "region": "southwestus"

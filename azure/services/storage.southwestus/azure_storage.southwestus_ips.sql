@@ -11,6 +11,9 @@ INSERT INTO `azure_storage.southwestus_ips` (`ip_address`, `ip_type`) VALUES ('2
 INSERT INTO `azure_storage.southwestus_ips` (`ip_address`, `ip_type`) VALUES ('57.150.174.0/23', 'IPv4');
 INSERT INTO `azure_storage.southwestus_ips` (`ip_address`, `ip_type`) VALUES ('57.150.176.0/24', 'IPv4');
 INSERT INTO `azure_storage.southwestus_ips` (`ip_address`, `ip_type`) VALUES ('57.150.254.0/23', 'IPv4');
+INSERT INTO `azure_storage.southwestus_ips` (`ip_address`, `ip_type`) VALUES ('57.163.62.0/23', 'IPv4');
+INSERT INTO `azure_storage.southwestus_ips` (`ip_address`, `ip_type`) VALUES ('57.163.88.0/23', 'IPv4');
 INSERT INTO `azure_storage.southwestus_ips` (`ip_address`, `ip_type`) VALUES ('135.130.210.0/23', 'IPv4');
 INSERT INTO `azure_storage.southwestus_ips` (`ip_address`, `ip_type`) VALUES ('145.190.146.0/23', 'IPv4');
+INSERT INTO `azure_storage.southwestus_ips` (`ip_address`, `ip_type`) VALUES ('145.190.196.0/24', 'IPv4');
 INSERT INTO `azure_storage.southwestus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1203::/48', 'IPv6');

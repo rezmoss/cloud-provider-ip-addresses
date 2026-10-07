@@ -1,5 +1,5 @@
 # nhncloud IP ranges - ipset restore format (hash:net)
-# Version: 7 | Generated: 2026-10-06 | Last changed: 2026-10-02
+# Version: 7 | Generated: 2026-10-07 | Last changed: 2026-10-02
 # IPv4: 93 merged subnets, 100096 unique IPs
 # IPv6: 0 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses

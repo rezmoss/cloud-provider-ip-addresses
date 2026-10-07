@@ -13,6 +13,7 @@ INSERT INTO `azure_southeastus_ips` (`ip_address`, `ip_type`) VALUES ('20.20.51.
 INSERT INTO `azure_southeastus_ips` (`ip_address`, `ip_type`) VALUES ('20.20.68.0/26', 'IPv4');
 INSERT INTO `azure_southeastus_ips` (`ip_address`, `ip_type`) VALUES ('20.20.68.64/27', 'IPv4');
 INSERT INTO `azure_southeastus_ips` (`ip_address`, `ip_type`) VALUES ('20.20.68.96/30', 'IPv4');
+INSERT INTO `azure_southeastus_ips` (`ip_address`, `ip_type`) VALUES ('20.20.68.100/31', 'IPv4');
 INSERT INTO `azure_southeastus_ips` (`ip_address`, `ip_type`) VALUES ('20.33.65.0/24', 'IPv4');
 INSERT INTO `azure_southeastus_ips` (`ip_address`, `ip_type`) VALUES ('20.33.215.0/24', 'IPv4');
 INSERT INTO `azure_southeastus_ips` (`ip_address`, `ip_type`) VALUES ('20.33.215.0/24', 'IPv4');
@@ -174,6 +175,7 @@ INSERT INTO `azure_southeastus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1037
 INSERT INTO `azure_southeastus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1011::/59', 'IPv6');
 INSERT INTO `azure_southeastus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1011:20::/61', 'IPv6');
 INSERT INTO `azure_southeastus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1011:28::/63', 'IPv6');
+INSERT INTO `azure_southeastus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1011:2a::/64', 'IPv6');
 INSERT INTO `azure_southeastus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1312:5400::/54', 'IPv6');
 INSERT INTO `azure_southeastus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1746::/62', 'IPv6');
 INSERT INTO `azure_southeastus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2011:46::/64', 'IPv6');

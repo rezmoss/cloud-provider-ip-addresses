@@ -7,6 +7,7 @@ ip_address,ip_type,service,region
 51.12.47.28/30,IPv4,PowerBI.SwedenCentral,swedencentral
 51.12.72.216/30,IPv4,PowerBI.SwedenCentral,swedencentral
 51.12.73.88/30,IPv4,PowerBI.SwedenCentral,swedencentral
+74.158.67.96/27,IPv4,PowerBI.SwedenCentral,swedencentral
 2603:1020:1004::5e0/123,IPv6,PowerBI.SwedenCentral,swedencentral
 2603:1020:1004::600/122,IPv6,PowerBI.SwedenCentral,swedencentral
 2603:1020:1004:1::/122,IPv6,PowerBI.SwedenCentral,swedencentral

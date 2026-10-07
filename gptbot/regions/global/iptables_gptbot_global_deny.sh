@@ -1,6 +1,6 @@
 #!/bin/bash
 # Gptbot IP Ranges
-# Updated: 2026-09-26 02:24:53
+# Updated: 2026-10-07 02:35:14
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -90,12 +90,14 @@ iptables -A INPUT -s 20.199.242.0/28 -j DROP
 iptables -A INPUT -s 20.200.212.240/28 -j DROP
 iptables -A INPUT -s 20.206.101.192/28 -j DROP
 iptables -A INPUT -s 20.210.211.192/28 -j DROP
+iptables -A INPUT -s 20.212.62.208/28 -j DROP
 iptables -A INPUT -s 20.215.187.208/28 -j DROP
 iptables -A INPUT -s 20.215.219.128/28 -j DROP
 iptables -A INPUT -s 20.215.219.160/28 -j DROP
 iptables -A INPUT -s 20.215.219.208/28 -j DROP
 iptables -A INPUT -s 20.218.30.240/28 -j DROP
 iptables -A INPUT -s 20.219.71.192/28 -j DROP
+iptables -A INPUT -s 20.219.161.192/28 -j DROP
 iptables -A INPUT -s 20.219.184.96/28 -j DROP
 iptables -A INPUT -s 20.222.36.192/28 -j DROP
 iptables -A INPUT -s 20.227.140.32/28 -j DROP
@@ -104,6 +106,7 @@ iptables -A INPUT -s 20.235.87.224/28 -j DROP
 iptables -A INPUT -s 20.249.63.208/28 -j DROP
 iptables -A INPUT -s 20.250.6.128/28 -j DROP
 iptables -A INPUT -s 20.250.136.64/28 -j DROP
+iptables -A INPUT -s 20.254.201.208/28 -j DROP
 iptables -A INPUT -s 23.98.142.176/28 -j DROP
 iptables -A INPUT -s 23.98.186.64/28 -j DROP
 iptables -A INPUT -s 23.98.186.96/28 -j DROP
@@ -121,6 +124,7 @@ iptables -A INPUT -s 40.84.221.208/28 -j DROP
 iptables -A INPUT -s 40.84.221.224/28 -j DROP
 iptables -A INPUT -s 40.90.214.16/28 -j DROP
 iptables -A INPUT -s 40.116.73.208/28 -j DROP
+iptables -A INPUT -s 40.119.36.240/28 -j DROP
 iptables -A INPUT -s 40.124.161.0/28 -j DROP
 iptables -A INPUT -s 48.221.40.176/28 -j DROP
 iptables -A INPUT -s 48.221.184.80/28 -j DROP
@@ -152,6 +156,7 @@ iptables -A INPUT -s 52.190.137.144/28 -j DROP
 iptables -A INPUT -s 52.190.139.48/28 -j DROP
 iptables -A INPUT -s 52.190.142.64/28 -j DROP
 iptables -A INPUT -s 52.190.190.16/28 -j DROP
+iptables -A INPUT -s 52.190.251.112/28 -j DROP
 iptables -A INPUT -s 52.225.75.208/28 -j DROP
 iptables -A INPUT -s 52.230.152.0/24 -j DROP
 iptables -A INPUT -s 52.231.30.48/28 -j DROP

@@ -78,6 +78,12 @@
     "region": "westeurope"
   },
   {
+    "ip_address": "74.144.163.0/27",
+    "ip_type": "IPv4",
+    "service": "DataFactory.WestEurope",
+    "region": "westeurope"
+  },
+  {
     "ip_address": "2603:1020:206:1::480/121",
     "ip_type": "IPv6",
     "service": "DataFactory.WestEurope",

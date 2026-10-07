@@ -11,5 +11,6 @@ INSERT INTO `azure_powerbi.denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('9
 INSERT INTO `azure_powerbi.denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('9.205.43.248/29', 'IPv4');
 INSERT INTO `azure_powerbi.denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('9.205.58.176/28', 'IPv4');
 INSERT INTO `azure_powerbi.denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('9.205.58.192/28', 'IPv4');
+INSERT INTO `azure_powerbi.denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('9.205.223.80/28', 'IPv4');
 INSERT INTO `azure_powerbi.denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1602:2::1a0/123', 'IPv6');
 INSERT INTO `azure_powerbi.denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1602:2::300/122', 'IPv6');

@@ -2142,37 +2142,19 @@
     "region": "swedencentral"
   },
   {
-    "ip_address": "57.157.68.0/23",
+    "ip_address": "57.157.68.0/22",
     "ip_type": "IPv4",
     "service": "AzureCloud.swedencentral",
     "region": "swedencentral"
   },
   {
-    "ip_address": "57.157.70.0/24",
+    "ip_address": "57.157.188.0/26",
     "ip_type": "IPv4",
     "service": "AzureCloud.swedencentral",
     "region": "swedencentral"
   },
   {
-    "ip_address": "57.157.71.0/25",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.swedencentral",
-    "region": "swedencentral"
-  },
-  {
-    "ip_address": "57.157.71.128/26",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.swedencentral",
-    "region": "swedencentral"
-  },
-  {
-    "ip_address": "57.157.71.192/27",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.swedencentral",
-    "region": "swedencentral"
-  },
-  {
-    "ip_address": "57.157.71.224/28",
+    "ip_address": "57.157.188.64/27",
     "ip_type": "IPv4",
     "service": "AzureCloud.swedencentral",
     "region": "swedencentral"
@@ -2253,6 +2235,12 @@
     "ip_address": "74.158.64.192/26",
     "ip_type": "IPv4",
     "service": "AzureBackup.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "74.158.67.96/27",
+    "ip_type": "IPv4",
+    "service": "PowerBI.SwedenCentral",
     "region": "swedencentral"
   },
   {
@@ -2515,6 +2503,12 @@
   },
   {
     "ip_address": "172.135.0.0/16",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.swedencentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "172.141.0.0/17",
     "ip_type": "IPv4",
     "service": "AzureCloud.swedencentral",
     "region": "swedencentral"

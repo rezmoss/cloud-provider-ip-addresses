@@ -5466,6 +5466,12 @@
     "region": "eastus"
   },
   {
+    "ip_address": "48.206.201.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.EastUS",
+    "region": "eastus"
+  },
+  {
     "ip_address": "48.206.203.243/32",
     "ip_type": "IPv4",
     "service": "AzureMachineLearning.EastUS",
@@ -9621,6 +9627,12 @@
     "ip_address": "168.62.180.173/32",
     "ip_type": "IPv4",
     "service": "AppService.EastUS",
+    "region": "eastus"
+  },
+  {
+    "ip_address": "172.143.0.0/17",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.eastus",
     "region": "eastus"
   },
   {

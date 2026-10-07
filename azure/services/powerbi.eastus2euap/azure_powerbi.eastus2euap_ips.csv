@@ -11,5 +11,6 @@ ip_address,ip_type,service,region
 20.252.215.12/31,IPv4,PowerBI.EastUS2EUAP,eastus2euap
 48.223.1.96/28,IPv4,PowerBI.EastUS2EUAP,eastus2euap
 68.220.126.32/27,IPv4,PowerBI.EastUS2EUAP,eastus2euap
+74.151.91.80/28,IPv4,PowerBI.EastUS2EUAP,eastus2euap
 2603:1030:40b:1::5e0/123,IPv6,PowerBI.EastUS2EUAP,eastus2euap
 2603:1030:40b:1::600/122,IPv6,PowerBI.EastUS2EUAP,eastus2euap

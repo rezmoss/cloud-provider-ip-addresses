@@ -3864,6 +3864,12 @@
     "region": "eastasia"
   },
   {
+    "ip_address": "172.145.0.0/17",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.eastasia",
+    "region": "eastasia"
+  },
+  {
     "ip_address": "191.234.2.0/23",
     "ip_type": "IPv4",
     "service": "AzureCloud.eastasia",

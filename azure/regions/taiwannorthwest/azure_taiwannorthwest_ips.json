@@ -780,6 +780,12 @@
     "region": "taiwannorthwest"
   },
   {
+    "ip_address": "57.170.20.48/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.TaiwanNorthwest",
+    "region": "taiwannorthwest"
+  },
+  {
     "ip_address": "70.152.229.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.taiwannorthwest",

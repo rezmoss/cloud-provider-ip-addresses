@@ -3126,13 +3126,13 @@
     "region": "northcentralus"
   },
   {
-    "ip_address": "57.157.67.96/30",
+    "ip_address": "57.157.67.96/29",
     "ip_type": "IPv4",
     "service": "AzureCloud.northcentralus",
     "region": "northcentralus"
   },
   {
-    "ip_address": "57.157.67.100/31",
+    "ip_address": "57.157.67.104/31",
     "ip_type": "IPv4",
     "service": "AzureCloud.northcentralus",
     "region": "northcentralus"

@@ -534,6 +534,7 @@ ip_address,ip_type,service,region
 168.61.48.0/21,IPv4,AzureCloud.eastus,eastus
 168.62.32.0/19,IPv4,AzureCloud.eastus,eastus
 168.62.160.0/19,IPv4,AzureCloud.eastus,eastus
+172.143.0.0/17,IPv4,AzureCloud.eastus,eastus
 172.171.32.0/19,IPv4,AzureCloud.eastus,eastus
 172.171.64.0/19,IPv4,AzureCloud.eastus,eastus
 172.171.128.0/17,IPv4,AzureCloud.eastus,eastus

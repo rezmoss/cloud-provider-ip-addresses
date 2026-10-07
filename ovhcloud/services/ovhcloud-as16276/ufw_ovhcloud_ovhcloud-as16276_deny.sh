@@ -1,6 +1,6 @@
 #!/bin/bash
 # Ovhcloud IP Ranges
-# Updated: 2026-10-06 02:34:02
+# Updated: 2026-10-07 02:40:14
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -141,6 +141,7 @@ ufw deny from 72.11.139.0/24
 ufw deny from 72.244.230.0/24
 ufw deny from 72.251.0.0/17
 ufw deny from 74.0.7.0/24
+ufw deny from 74.0.44.0/24
 ufw deny from 76.9.104.0/23
 ufw deny from 77.67.28.0/24
 ufw deny from 77.73.34.0/24
@@ -238,6 +239,7 @@ ufw deny from 84.75.33.0/24
 ufw deny from 85.93.21.0/24
 ufw deny from 85.217.144.0/23
 ufw deny from 86.54.26.0/24
+ufw deny from 86.54.42.0/24
 ufw deny from 87.76.137.0/24
 ufw deny from 87.76.140.0/24
 ufw deny from 87.82.206.0/24
@@ -554,6 +556,7 @@ ufw deny from 194.88.232.0/24
 ufw deny from 194.104.138.0/24
 ufw deny from 194.110.171.0/24
 ufw deny from 194.147.159.0/24
+ufw deny from 194.150.165.0/24
 ufw deny from 194.156.227.0/24
 ufw deny from 194.164.230.0/24
 ufw deny from 195.20.146.0/24
@@ -581,6 +584,7 @@ ufw deny from 200.141.186.0/24
 ufw deny from 201.4.67.0/24
 ufw deny from 201.50.22.0/24
 ufw deny from 202.2.60.0/22
+ufw deny from 202.91.169.0/24
 ufw deny from 202.92.214.0/23
 ufw deny from 202.181.0.0/24
 ufw deny from 203.5.184.0/24

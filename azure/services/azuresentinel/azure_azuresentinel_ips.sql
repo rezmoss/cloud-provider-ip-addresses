@@ -288,6 +288,7 @@ INSERT INTO `azure_azuresentinel_ips` (`ip_address`, `ip_type`) VALUES ('72.152.
 INSERT INTO `azure_azuresentinel_ips` (`ip_address`, `ip_type`) VALUES ('72.152.38.48/30', 'IPv4');
 INSERT INTO `azure_azuresentinel_ips` (`ip_address`, `ip_type`) VALUES ('74.7.51.32/29', 'IPv4');
 INSERT INTO `azure_azuresentinel_ips` (`ip_address`, `ip_type`) VALUES ('74.7.183.176/29', 'IPv4');
+INSERT INTO `azure_azuresentinel_ips` (`ip_address`, `ip_type`) VALUES ('74.159.237.139/32', 'IPv4');
 INSERT INTO `azure_azuresentinel_ips` (`ip_address`, `ip_type`) VALUES ('74.163.73.84/31', 'IPv4');
 INSERT INTO `azure_azuresentinel_ips` (`ip_address`, `ip_type`) VALUES ('74.176.2.246/31', 'IPv4');
 INSERT INTO `azure_azuresentinel_ips` (`ip_address`, `ip_type`) VALUES ('74.177.105.30/31', 'IPv4');

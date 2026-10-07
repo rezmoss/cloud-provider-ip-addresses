@@ -17724,6 +17724,12 @@
     "region": ""
   },
   {
+    "ip_address": "9.205.223.80/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI",
+    "region": ""
+  },
+  {
     "ip_address": "9.223.0.0/16",
     "ip_type": "IPv4",
     "service": "AzureCloud",
@@ -121428,6 +121434,12 @@
     "region": ""
   },
   {
+    "ip_address": "48.206.201.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor",
+    "region": ""
+  },
+  {
     "ip_address": "48.206.203.210/31",
     "ip_type": "IPv4",
     "service": "AzureMachineLearningInference",
@@ -143292,13 +143304,7 @@
     "region": ""
   },
   {
-    "ip_address": "52.112.37.0/24",
-    "ip_type": "IPv4",
-    "service": "AzureCloud",
-    "region": ""
-  },
-  {
-    "ip_address": "52.112.38.0/23",
+    "ip_address": "52.112.36.0/22",
     "ip_type": "IPv4",
     "service": "AzureCloud",
     "region": ""
@@ -143310,25 +143316,7 @@
     "region": ""
   },
   {
-    "ip_address": "52.112.48.0/22",
-    "ip_type": "IPv4",
-    "service": "AzureCloud",
-    "region": ""
-  },
-  {
-    "ip_address": "52.112.53.0/24",
-    "ip_type": "IPv4",
-    "service": "AzureCloud",
-    "region": ""
-  },
-  {
-    "ip_address": "52.112.54.0/23",
-    "ip_type": "IPv4",
-    "service": "AzureCloud",
-    "region": ""
-  },
-  {
-    "ip_address": "52.112.56.0/21",
+    "ip_address": "52.112.48.0/20",
     "ip_type": "IPv4",
     "service": "AzureCloud",
     "region": ""
@@ -165372,6 +165360,12 @@
     "region": ""
   },
   {
+    "ip_address": "57.170.20.48/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI",
+    "region": ""
+  },
+  {
     "ip_address": "57.173.0.0/23",
     "ip_type": "IPv4",
     "service": "AzureEventGrid",
@@ -168879,6 +168873,12 @@
     "ip_address": "68.211.204.48/28",
     "ip_type": "IPv4",
     "service": "AzureActiveDirectory",
+    "region": ""
+  },
+  {
+    "ip_address": "68.211.211.48/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI",
     "region": ""
   },
   {
@@ -174762,6 +174762,18 @@
     "region": ""
   },
   {
+    "ip_address": "74.144.163.0/27",
+    "ip_type": "IPv4",
+    "service": "DataFactory",
+    "region": ""
+  },
+  {
+    "ip_address": "74.144.163.0/27",
+    "ip_type": "IPv4",
+    "service": "DataFactoryManagement",
+    "region": ""
+  },
+  {
     "ip_address": "74.145.26.0/23",
     "ip_type": "IPv4",
     "service": "AzureIoTHub",
@@ -175044,6 +175056,36 @@
     "region": ""
   },
   {
+    "ip_address": "74.146.233.217/32",
+    "ip_type": "IPv4",
+    "service": "PowerBI",
+    "region": ""
+  },
+  {
+    "ip_address": "74.146.233.220/30",
+    "ip_type": "IPv4",
+    "service": "PowerBI",
+    "region": ""
+  },
+  {
+    "ip_address": "74.146.240.0/26",
+    "ip_type": "IPv4",
+    "service": "PowerBI",
+    "region": ""
+  },
+  {
+    "ip_address": "74.146.240.64/29",
+    "ip_type": "IPv4",
+    "service": "PowerBI",
+    "region": ""
+  },
+  {
+    "ip_address": "74.146.240.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor",
+    "region": ""
+  },
+  {
     "ip_address": "74.147.1.104/30",
     "ip_type": "IPv4",
     "service": "AzureIoTHub",
@@ -175143,6 +175185,12 @@
     "ip_address": "74.148.21.0/26",
     "ip_type": "IPv4",
     "service": "AzureMonitor.Core",
+    "region": ""
+  },
+  {
+    "ip_address": "74.148.21.240/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI",
     "region": ""
   },
   {
@@ -175284,6 +175332,12 @@
     "region": ""
   },
   {
+    "ip_address": "74.151.91.80/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI",
+    "region": ""
+  },
+  {
     "ip_address": "74.151.220.48/28",
     "ip_type": "IPv4",
     "service": "AzureActiveDirectory",
@@ -175380,6 +175434,18 @@
     "region": ""
   },
   {
+    "ip_address": "74.152.14.160/29",
+    "ip_type": "IPv4",
+    "service": "AzureFrontDoor.Backend",
+    "region": ""
+  },
+  {
+    "ip_address": "74.152.14.224/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI",
+    "region": ""
+  },
+  {
     "ip_address": "74.153.1.160/27",
     "ip_type": "IPv4",
     "service": "Dynamics365ForMarketingEmail",
@@ -175464,6 +175530,12 @@
     "region": ""
   },
   {
+    "ip_address": "74.156.26.80/29",
+    "ip_type": "IPv4",
+    "service": "PowerBI",
+    "region": ""
+  },
+  {
     "ip_address": "74.157.81.80/28",
     "ip_type": "IPv4",
     "service": "AzureActiveDirectory",
@@ -175515,6 +175587,12 @@
     "ip_address": "74.158.64.192/26",
     "ip_type": "IPv4",
     "service": "AzureBackup",
+    "region": ""
+  },
+  {
+    "ip_address": "74.158.67.96/27",
+    "ip_type": "IPv4",
+    "service": "PowerBI",
     "region": ""
   },
   {
@@ -175575,6 +175653,18 @@
     "ip_address": "74.159.69.192/26",
     "ip_type": "IPv4",
     "service": "AzureMonitor.Core",
+    "region": ""
+  },
+  {
+    "ip_address": "74.159.237.139/32",
+    "ip_type": "IPv4",
+    "service": "AzureSentinel",
+    "region": ""
+  },
+  {
+    "ip_address": "74.159.238.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor",
     "region": ""
   },
   {
@@ -176997,6 +177087,12 @@
     "ip_address": "74.240.14.64/27",
     "ip_type": "IPv4",
     "service": "Dynamics365ForMarketingEmail",
+    "region": ""
+  },
+  {
+    "ip_address": "74.240.18.64/29",
+    "ip_type": "IPv4",
+    "service": "PowerBI",
     "region": ""
   },
   {
@@ -197748,6 +197844,12 @@
     "region": ""
   },
   {
+    "ip_address": "172.134.20.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor",
+    "region": ""
+  },
+  {
     "ip_address": "172.160.153.128/26",
     "ip_type": "IPv4",
     "service": "AzureMonitor",
@@ -202143,6 +202245,12 @@
     "ip_address": "172.192.234.128/26",
     "ip_type": "IPv4",
     "service": "AzureBackup",
+    "region": ""
+  },
+  {
+    "ip_address": "172.192.235.160/30",
+    "ip_type": "IPv4",
+    "service": "AzureFrontDoor.Frontend",
     "region": ""
   },
   {
@@ -262914,7 +263022,13 @@
     "region": ""
   },
   {
-    "ip_address": "2603:1030:1008:4::/64",
+    "ip_address": "2603:1030:1008:4::/63",
+    "ip_type": "IPv6",
+    "service": "AzureCloud",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:1008:6::/64",
     "ip_type": "IPv6",
     "service": "AzureCloud",
     "region": ""
@@ -291804,6 +291918,12 @@
     "region": ""
   },
   {
+    "ip_address": "2603:104c:0:200::/55",
+    "ip_type": "IPv6",
+    "service": "AzureCloud",
+    "region": ""
+  },
+  {
     "ip_address": "2603:104c:0:4200::/63",
     "ip_type": "IPv6",
     "service": "AzureCloud",
@@ -295512,6 +295632,12 @@
     "region": ""
   },
   {
+    "ip_address": "2603:1063:4d::/56",
+    "ip_type": "IPv6",
+    "service": "AzureCloud",
+    "region": ""
+  },
+  {
     "ip_address": "2603:1063:ff::/48",
     "ip_type": "IPv6",
     "service": "AzureCloud",
@@ -297186,7 +297312,19 @@
     "region": ""
   },
   {
+    "ip_address": "2603:1063:63a::/56",
+    "ip_type": "IPv6",
+    "service": "AzureCloud",
+    "region": ""
+  },
+  {
     "ip_address": "2603:1063:700::/56",
+    "ip_type": "IPv6",
+    "service": "AzureCloud",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1063:701::/56",
     "ip_type": "IPv6",
     "service": "AzureCloud",
     "region": ""
@@ -297481,6 +297619,12 @@
   },
   {
     "ip_address": "2603:1063:732::/56",
+    "ip_type": "IPv6",
+    "service": "AzureCloud",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1063:734:100::/64",
     "ip_type": "IPv6",
     "service": "AzureCloud",
     "region": ""

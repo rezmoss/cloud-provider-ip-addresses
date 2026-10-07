@@ -936,6 +936,12 @@
     "region": "malaysiawest"
   },
   {
+    "ip_address": "74.156.26.80/29",
+    "ip_type": "IPv4",
+    "service": "PowerBI.MalaysiaWest",
+    "region": "malaysiawest"
+  },
+  {
     "ip_address": "85.211.128.0/17",
     "ip_type": "IPv4",
     "service": "AzureCloud.malaysiawest",
@@ -1831,6 +1837,12 @@
   },
   {
     "ip_address": "2603:1061:2011:3a::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.malaysiawest",
+    "region": "malaysiawest"
+  },
+  {
+    "ip_address": "2603:1063:4d::/56",
     "ip_type": "IPv6",
     "service": "AzureCloud.malaysiawest",
     "region": "malaysiawest"

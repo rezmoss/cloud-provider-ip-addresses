@@ -4378,7 +4378,9 @@ ip_address,ip_type,service,region
 2600:1418:e000::/48,IPv6,akamai-as20940,global
 2600:1419:9::/48,IPv6,akamai-as20940,global
 2600:1419:200::/48,IPv6,akamai-as20940,global
+2600:1419:201::/48,IPv6,akamai-as20940,global
 2600:1419:600::/48,IPv6,akamai-as20940,global
+2600:1419:601::/48,IPv6,akamai-as20940,global
 2600:1419:a00::/48,IPv6,akamai-as20940,global
 2600:1419:e00::/48,IPv6,akamai-as20940,global
 2600:1419:1200::/48,IPv6,akamai-as20940,global

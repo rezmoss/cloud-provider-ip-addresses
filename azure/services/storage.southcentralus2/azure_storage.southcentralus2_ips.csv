@@ -6,4 +6,5 @@ ip_address,ip_type,service,region
 57.150.92.0/24,IPv4,Storage.SouthCentralUS2,southcentralus2
 57.150.240.0/23,IPv4,Storage.SouthCentralUS2,southcentralus2
 135.130.88.0/22,IPv4,Storage.SouthCentralUS2,southcentralus2
+145.190.197.0/24,IPv4,Storage.SouthCentralUS2,southcentralus2
 2603:1030:1103::/48,IPv6,Storage.SouthCentralUS2,southcentralus2

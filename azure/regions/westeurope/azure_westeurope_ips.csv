@@ -1370,6 +1370,7 @@ ip_address,ip_type,service,region
 74.144.136.128/30,IPv4,AzureAttestation.WestEurope,westeurope
 74.144.160.128/25,IPv4,AzureMonitor.WestEurope,westeurope
 74.144.162.0/25,IPv4,DataFactory.WestEurope,westeurope
+74.144.163.0/27,IPv4,DataFactory.WestEurope,westeurope
 74.178.128.0/17,IPv4,AzureCloud.westeurope,westeurope
 74.178.240.160/28,IPv4,PowerBI.WestEurope,westeurope
 74.234.128.0/17,IPv4,AzureCloud.westeurope,westeurope
@@ -1602,7 +1603,7 @@ ip_address,ip_type,service,region
 168.63.107.5/32,IPv4,AppService.WestEurope,westeurope
 168.63.113.32/27,IPv4,Storage.WestEurope,westeurope
 168.63.113.64/27,IPv4,Storage.WestEurope,westeurope
-172.138.0.0/17,IPv4,AzureCloud.westeurope,westeurope
+172.138.0.0/16,IPv4,AzureCloud.westeurope,westeurope
 172.199.0.0/16,IPv4,AzureCloud.westeurope,westeurope
 172.199.16.212/30,IPv4,Sql.WestEurope,westeurope
 172.199.16.224/27,IPv4,Sql.WestEurope,westeurope

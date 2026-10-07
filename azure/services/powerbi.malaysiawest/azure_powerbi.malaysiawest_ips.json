@@ -42,6 +42,12 @@
     "region": "malaysiawest"
   },
   {
+    "ip_address": "74.156.26.80/29",
+    "ip_type": "IPv4",
+    "service": "PowerBI.MalaysiaWest",
+    "region": "malaysiawest"
+  },
+  {
     "ip_address": "2603:1040:1602:2::320/123",
     "ip_type": "IPv6",
     "service": "PowerBI.MalaysiaWest",

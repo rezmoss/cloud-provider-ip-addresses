@@ -11,5 +11,6 @@ INSERT INTO `azure_powerbi.belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES 
 INSERT INTO `azure_powerbi.belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('9.160.51.248/29', 'IPv4');
 INSERT INTO `azure_powerbi.belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('9.160.65.80/28', 'IPv4');
 INSERT INTO `azure_powerbi.belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('9.160.65.96/28', 'IPv4');
+INSERT INTO `azure_powerbi.belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('74.152.14.224/28', 'IPv4');
 INSERT INTO `azure_powerbi.belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1502:2::1a0/123', 'IPv6');
 INSERT INTO `azure_powerbi.belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1502:2::300/122', 'IPv6');

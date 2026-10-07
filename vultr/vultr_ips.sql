@@ -112,6 +112,7 @@ INSERT INTO `vultr_ips` (`ip_address`, `ip_type`) VALUES ('64.176.192.0/19', 'IP
 INSERT INTO `vultr_ips` (`ip_address`, `ip_type`) VALUES ('64.176.224.0/19', 'IPv4');
 INSERT INTO `vultr_ips` (`ip_address`, `ip_type`) VALUES ('64.177.0.0/21', 'IPv4');
 INSERT INTO `vultr_ips` (`ip_address`, `ip_type`) VALUES ('64.177.8.0/21', 'IPv4');
+INSERT INTO `vultr_ips` (`ip_address`, `ip_type`) VALUES ('64.177.16.0/20', 'IPv4');
 INSERT INTO `vultr_ips` (`ip_address`, `ip_type`) VALUES ('64.177.32.0/21', 'IPv4');
 INSERT INTO `vultr_ips` (`ip_address`, `ip_type`) VALUES ('64.177.40.0/21', 'IPv4');
 INSERT INTO `vultr_ips` (`ip_address`, `ip_type`) VALUES ('64.177.48.0/20', 'IPv4');

@@ -1692,6 +1692,12 @@
     "region": ""
   },
   {
+    "ip_address": "74.159.237.139/32",
+    "ip_type": "IPv4",
+    "service": "AzureSentinel",
+    "region": ""
+  },
+  {
     "ip_address": "74.163.73.84/31",
     "ip_type": "IPv4",
     "service": "AzureSentinel",

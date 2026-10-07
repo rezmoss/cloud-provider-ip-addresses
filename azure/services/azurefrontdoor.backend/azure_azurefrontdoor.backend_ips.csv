@@ -119,6 +119,7 @@ ip_address,ip_type,service,region
 69.15.0.0/16,IPv4,AzureFrontDoor.Backend,
 74.147.18.120/30,IPv4,AzureFrontDoor.Backend,
 74.147.18.124/32,IPv4,AzureFrontDoor.Backend,
+74.152.14.160/29,IPv4,AzureFrontDoor.Backend,
 74.161.246.242/31,IPv4,AzureFrontDoor.Backend,
 74.161.246.248/29,IPv4,AzureFrontDoor.Backend,
 74.225.54.90/31,IPv4,AzureFrontDoor.Backend,

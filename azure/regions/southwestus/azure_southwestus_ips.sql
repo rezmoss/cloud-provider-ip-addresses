@@ -105,10 +105,15 @@ INSERT INTO `azure_southwestus_ips` (`ip_address`, `ip_type`) VALUES ('57.150.17
 INSERT INTO `azure_southwestus_ips` (`ip_address`, `ip_type`) VALUES ('57.150.176.0/24', 'IPv4');
 INSERT INTO `azure_southwestus_ips` (`ip_address`, `ip_type`) VALUES ('57.150.254.0/23', 'IPv4');
 INSERT INTO `azure_southwestus_ips` (`ip_address`, `ip_type`) VALUES ('57.150.254.0/23', 'IPv4');
+INSERT INTO `azure_southwestus_ips` (`ip_address`, `ip_type`) VALUES ('57.163.62.0/23', 'IPv4');
+INSERT INTO `azure_southwestus_ips` (`ip_address`, `ip_type`) VALUES ('57.163.62.0/23', 'IPv4');
+INSERT INTO `azure_southwestus_ips` (`ip_address`, `ip_type`) VALUES ('57.163.88.0/23', 'IPv4');
+INSERT INTO `azure_southwestus_ips` (`ip_address`, `ip_type`) VALUES ('57.163.88.0/23', 'IPv4');
 INSERT INTO `azure_southwestus_ips` (`ip_address`, `ip_type`) VALUES ('135.130.210.0/23', 'IPv4');
 INSERT INTO `azure_southwestus_ips` (`ip_address`, `ip_type`) VALUES ('135.130.210.0/23', 'IPv4');
 INSERT INTO `azure_southwestus_ips` (`ip_address`, `ip_type`) VALUES ('145.190.146.0/23', 'IPv4');
 INSERT INTO `azure_southwestus_ips` (`ip_address`, `ip_type`) VALUES ('145.190.146.0/23', 'IPv4');
+INSERT INTO `azure_southwestus_ips` (`ip_address`, `ip_type`) VALUES ('145.190.196.0/24', 'IPv4');
 INSERT INTO `azure_southwestus_ips` (`ip_address`, `ip_type`) VALUES ('209.199.33.192/28', 'IPv4');
 INSERT INTO `azure_southwestus_ips` (`ip_address`, `ip_type`) VALUES ('209.199.34.0/25', 'IPv4');
 INSERT INTO `azure_southwestus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1201::/48', 'IPv6');

@@ -166,6 +166,7 @@ ip_address,ip_type,service,region
 74.148.13.36/30,IPv4,AzureAttestation.AustriaEast,austriaeast
 74.148.13.40/29,IPv4,AzureAttestation.AustriaEast,austriaeast
 74.148.21.0/26,IPv4,AzureMonitor.AustriaEast,austriaeast
+74.148.21.240/28,IPv4,PowerBI.AustriaEast,austriaeast
 135.130.188.0/23,IPv4,AzureCloud.austriaeast,austriaeast
 135.130.188.0/23,IPv4,Storage.AustriaEast,austriaeast
 145.190.128.0/24,IPv4,AzureCloud.austriaeast,austriaeast

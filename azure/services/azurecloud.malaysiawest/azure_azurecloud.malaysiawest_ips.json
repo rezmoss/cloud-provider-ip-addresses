@@ -480,6 +480,12 @@
     "region": "malaysiawest"
   },
   {
+    "ip_address": "2603:1063:4d::/56",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.malaysiawest",
+    "region": "malaysiawest"
+  },
+  {
     "ip_address": "2603:1063:138::/56",
     "ip_type": "IPv6",
     "service": "AzureCloud.malaysiawest",

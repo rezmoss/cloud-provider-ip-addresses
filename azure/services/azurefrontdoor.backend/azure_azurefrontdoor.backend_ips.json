@@ -720,6 +720,12 @@
     "region": ""
   },
   {
+    "ip_address": "74.152.14.160/29",
+    "ip_type": "IPv4",
+    "service": "AzureFrontDoor.Backend",
+    "region": ""
+  },
+  {
     "ip_address": "74.161.246.242/31",
     "ip_type": "IPv4",
     "service": "AzureFrontDoor.Backend",

@@ -5,5 +5,6 @@ ip_address,ip_type,service,region
 51.120.224.122/31,IPv4,PowerBI.NorwayWest,norwayw
 51.120.224.124/30,IPv4,PowerBI.NorwayWest,norwayw
 51.120.224.208/29,IPv4,PowerBI.NorwayWest,norwayw
+74.240.18.64/29,IPv4,PowerBI.NorwayWest,norwayw
 2603:1020:f04::620/123,IPv6,PowerBI.NorwayWest,norwayw
 2603:1020:f04::640/122,IPv6,PowerBI.NorwayWest,norwayw

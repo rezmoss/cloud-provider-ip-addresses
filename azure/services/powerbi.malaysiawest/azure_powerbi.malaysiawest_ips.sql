@@ -13,5 +13,6 @@ INSERT INTO `azure_powerbi.malaysiawest_ips` (`ip_address`, `ip_type`) VALUES ('
 INSERT INTO `azure_powerbi.malaysiawest_ips` (`ip_address`, `ip_type`) VALUES ('20.17.126.72/31', 'IPv4');
 INSERT INTO `azure_powerbi.malaysiawest_ips` (`ip_address`, `ip_type`) VALUES ('20.17.126.76/30', 'IPv4');
 INSERT INTO `azure_powerbi.malaysiawest_ips` (`ip_address`, `ip_type`) VALUES ('20.17.126.80/29', 'IPv4');
+INSERT INTO `azure_powerbi.malaysiawest_ips` (`ip_address`, `ip_type`) VALUES ('74.156.26.80/29', 'IPv4');
 INSERT INTO `azure_powerbi.malaysiawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1602:2::320/123', 'IPv6');
 INSERT INTO `azure_powerbi.malaysiawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1602:2::340/122', 'IPv6');

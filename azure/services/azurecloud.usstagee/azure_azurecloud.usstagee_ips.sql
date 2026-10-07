@@ -29,6 +29,7 @@ INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('4
 INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('40.67.48.0/20', 'IPv4');
 INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('40.67.64.0/19', 'IPv4');
 INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('40.67.96.0/20', 'IPv4');
+INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('40.81.97.10/32', 'IPv4');
 INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('40.82.80.0/22', 'IPv4');
 INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('40.90.18.16/28', 'IPv4');
 INSERT INTO `azure_azurecloud.usstagee_ips` (`ip_address`, `ip_type`) VALUES ('40.90.31.32/27', 'IPv4');

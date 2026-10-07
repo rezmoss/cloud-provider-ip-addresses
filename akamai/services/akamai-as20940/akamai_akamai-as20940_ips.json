@@ -26274,7 +26274,19 @@
     "region": "global"
   },
   {
+    "ip_address": "2600:1419:201::/48",
+    "ip_type": "IPv6",
+    "service": "akamai-as20940",
+    "region": "global"
+  },
+  {
     "ip_address": "2600:1419:600::/48",
+    "ip_type": "IPv6",
+    "service": "akamai-as20940",
+    "region": "global"
+  },
+  {
+    "ip_address": "2600:1419:601::/48",
     "ip_type": "IPv6",
     "service": "akamai-as20940",
     "region": "global"

@@ -17,5 +17,9 @@ INSERT INTO `azure_powerbi.westus2_ips` (`ip_address`, `ip_type`) VALUES ('20.83
 INSERT INTO `azure_powerbi.westus2_ips` (`ip_address`, `ip_type`) VALUES ('48.221.8.80/28', 'IPv4');
 INSERT INTO `azure_powerbi.westus2_ips` (`ip_address`, `ip_type`) VALUES ('48.221.8.96/29', 'IPv4');
 INSERT INTO `azure_powerbi.westus2_ips` (`ip_address`, `ip_type`) VALUES ('48.221.8.128/26', 'IPv4');
+INSERT INTO `azure_powerbi.westus2_ips` (`ip_address`, `ip_type`) VALUES ('74.146.233.217/32', 'IPv4');
+INSERT INTO `azure_powerbi.westus2_ips` (`ip_address`, `ip_type`) VALUES ('74.146.233.220/30', 'IPv4');
+INSERT INTO `azure_powerbi.westus2_ips` (`ip_address`, `ip_type`) VALUES ('74.146.240.0/26', 'IPv4');
+INSERT INTO `azure_powerbi.westus2_ips` (`ip_address`, `ip_type`) VALUES ('74.146.240.64/29', 'IPv4');
 INSERT INTO `azure_powerbi.westus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:c06:1::5e0/123', 'IPv6');
 INSERT INTO `azure_powerbi.westus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:c06:1::600/122', 'IPv6');

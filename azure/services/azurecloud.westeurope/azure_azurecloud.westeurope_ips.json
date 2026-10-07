@@ -2844,7 +2844,7 @@
     "region": "westeurope"
   },
   {
-    "ip_address": "172.138.0.0/17",
+    "ip_address": "172.138.0.0/16",
     "ip_type": "IPv4",
     "service": "AzureCloud.westeurope",
     "region": "westeurope"

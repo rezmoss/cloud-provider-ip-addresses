@@ -1,6 +1,6 @@
 # ovhcloud IP ranges - ipset restore format (hash:net)
-# Version: 90 | Generated: 2026-10-06 | Last changed: 2026-10-06
-# IPv4: 617 merged subnets, 4644864 unique IPs
+# Version: 91 | Generated: 2026-10-07 | Last changed: 2026-10-07
+# IPv4: 621 merged subnets, 4645888 unique IPs
 # IPv6: 4 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
@@ -142,6 +142,7 @@ add ovhcloud_v4 72.11.139.0/24
 add ovhcloud_v4 72.244.230.0/24
 add ovhcloud_v4 72.251.0.0/17
 add ovhcloud_v4 74.0.7.0/24
+add ovhcloud_v4 74.0.44.0/24
 add ovhcloud_v4 76.9.104.0/23
 add ovhcloud_v4 77.67.28.0/24
 add ovhcloud_v4 77.73.34.0/24
@@ -239,6 +240,7 @@ add ovhcloud_v4 84.75.33.0/24
 add ovhcloud_v4 85.93.21.0/24
 add ovhcloud_v4 85.217.144.0/23
 add ovhcloud_v4 86.54.26.0/24
+add ovhcloud_v4 86.54.42.0/24
 add ovhcloud_v4 87.76.137.0/24
 add ovhcloud_v4 87.76.140.0/24
 add ovhcloud_v4 87.82.206.0/24
@@ -555,6 +557,7 @@ add ovhcloud_v4 194.88.232.0/24
 add ovhcloud_v4 194.104.138.0/24
 add ovhcloud_v4 194.110.171.0/24
 add ovhcloud_v4 194.147.159.0/24
+add ovhcloud_v4 194.150.165.0/24
 add ovhcloud_v4 194.156.227.0/24
 add ovhcloud_v4 194.164.230.0/24
 add ovhcloud_v4 195.20.146.0/24
@@ -582,6 +585,7 @@ add ovhcloud_v4 200.141.186.0/24
 add ovhcloud_v4 201.4.67.0/24
 add ovhcloud_v4 201.50.22.0/24
 add ovhcloud_v4 202.2.60.0/22
+add ovhcloud_v4 202.91.169.0/24
 add ovhcloud_v4 202.92.214.0/23
 add ovhcloud_v4 202.181.0.0/24
 add ovhcloud_v4 203.5.184.0/24

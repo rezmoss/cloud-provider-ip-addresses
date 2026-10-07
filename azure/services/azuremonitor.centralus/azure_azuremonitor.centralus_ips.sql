@@ -60,6 +60,7 @@ INSERT INTO `azure_azuremonitor.centralus_ips` (`ip_address`, `ip_type`) VALUES 
 INSERT INTO `azure_azuremonitor.centralus_ips` (`ip_address`, `ip_type`) VALUES ('104.208.35.169/32', 'IPv4');
 INSERT INTO `azure_azuremonitor.centralus_ips` (`ip_address`, `ip_type`) VALUES ('168.61.179.178/32', 'IPv4');
 INSERT INTO `azure_azuremonitor.centralus_ips` (`ip_address`, `ip_type`) VALUES ('172.131.106.64/26', 'IPv4');
+INSERT INTO `azure_azuremonitor.centralus_ips` (`ip_address`, `ip_type`) VALUES ('172.134.20.128/25', 'IPv4');
 INSERT INTO `azure_azuremonitor.centralus_ips` (`ip_address`, `ip_type`) VALUES ('172.169.155.0/24', 'IPv4');
 INSERT INTO `azure_azuremonitor.centralus_ips` (`ip_address`, `ip_type`) VALUES ('172.170.16.192/26', 'IPv4');
 INSERT INTO `azure_azuremonitor.centralus_ips` (`ip_address`, `ip_type`) VALUES ('172.170.178.64/26', 'IPv4');

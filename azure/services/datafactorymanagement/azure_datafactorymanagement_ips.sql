@@ -327,6 +327,7 @@ INSERT INTO `azure_datafactorymanagement_ips` (`ip_address`, `ip_type`) VALUES (
 INSERT INTO `azure_datafactorymanagement_ips` (`ip_address`, `ip_type`) VALUES ('74.7.198.208/28', 'IPv4');
 INSERT INTO `azure_datafactorymanagement_ips` (`ip_address`, `ip_type`) VALUES ('74.7.198.224/27', 'IPv4');
 INSERT INTO `azure_datafactorymanagement_ips` (`ip_address`, `ip_type`) VALUES ('74.7.218.208/28', 'IPv4');
+INSERT INTO `azure_datafactorymanagement_ips` (`ip_address`, `ip_type`) VALUES ('74.144.163.0/27', 'IPv4');
 INSERT INTO `azure_datafactorymanagement_ips` (`ip_address`, `ip_type`) VALUES ('74.224.33.160/27', 'IPv4');
 INSERT INTO `azure_datafactorymanagement_ips` (`ip_address`, `ip_type`) VALUES ('74.240.195.144/28', 'IPv4');
 INSERT INTO `azure_datafactorymanagement_ips` (`ip_address`, `ip_type`) VALUES ('74.240.195.160/29', 'IPv4');

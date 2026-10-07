@@ -14,6 +14,7 @@ INSERT INTO `azure_powerbi.swedencentral_ips` (`ip_address`, `ip_type`) VALUES (
 INSERT INTO `azure_powerbi.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('51.12.47.28/30', 'IPv4');
 INSERT INTO `azure_powerbi.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('51.12.72.216/30', 'IPv4');
 INSERT INTO `azure_powerbi.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('51.12.73.88/30', 'IPv4');
+INSERT INTO `azure_powerbi.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('74.158.67.96/27', 'IPv4');
 INSERT INTO `azure_powerbi.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1004::5e0/123', 'IPv6');
 INSERT INTO `azure_powerbi.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1004::600/122', 'IPv6');
 INSERT INTO `azure_powerbi.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1004:1::/122', 'IPv6');

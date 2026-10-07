@@ -138,6 +138,12 @@
     "region": "usstagee"
   },
   {
+    "ip_address": "40.81.97.10/32",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.usstagee",
+    "region": "usstagee"
+  },
+  {
     "ip_address": "40.82.80.0/22",
     "ip_type": "IPv4",
     "service": "AzureCloud.usstagee",

@@ -136,6 +136,7 @@ INSERT INTO `azure_taiwannorthwest_ips` (`ip_address`, `ip_type`) VALUES ('57.17
 INSERT INTO `azure_taiwannorthwest_ips` (`ip_address`, `ip_type`) VALUES ('57.170.2.0/24', 'IPv4');
 INSERT INTO `azure_taiwannorthwest_ips` (`ip_address`, `ip_type`) VALUES ('57.170.14.240/29', 'IPv4');
 INSERT INTO `azure_taiwannorthwest_ips` (`ip_address`, `ip_type`) VALUES ('57.170.14.248/30', 'IPv4');
+INSERT INTO `azure_taiwannorthwest_ips` (`ip_address`, `ip_type`) VALUES ('57.170.20.48/28', 'IPv4');
 INSERT INTO `azure_taiwannorthwest_ips` (`ip_address`, `ip_type`) VALUES ('70.152.229.0/24', 'IPv4');
 INSERT INTO `azure_taiwannorthwest_ips` (`ip_address`, `ip_type`) VALUES ('167.105.128.0/17', 'IPv4');
 INSERT INTO `azure_taiwannorthwest_ips` (`ip_address`, `ip_type`) VALUES ('167.105.144.0/26', 'IPv4');

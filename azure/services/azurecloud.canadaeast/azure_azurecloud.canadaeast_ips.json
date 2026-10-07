@@ -300,6 +300,24 @@
     "region": "canadaeast"
   },
   {
+    "ip_address": "48.208.96.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadaeast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "48.208.98.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadaeast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "48.208.100.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadaeast",
+    "region": "canadaeast"
+  },
+  {
     "ip_address": "48.212.25.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.canadaeast",
@@ -576,7 +594,13 @@
     "region": "canadaeast"
   },
   {
-    "ip_address": "2603:1030:1008:4::/64",
+    "ip_address": "2603:1030:1008:4::/63",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.canadaeast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "2603:1030:1008:6::/64",
     "ip_type": "IPv6",
     "service": "AzureCloud.canadaeast",
     "region": "canadaeast"

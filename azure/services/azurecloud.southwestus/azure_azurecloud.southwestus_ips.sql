@@ -28,6 +28,8 @@ INSERT INTO `azure_azurecloud.southwestus_ips` (`ip_address`, `ip_type`) VALUES 
 INSERT INTO `azure_azurecloud.southwestus_ips` (`ip_address`, `ip_type`) VALUES ('57.150.174.0/23', 'IPv4');
 INSERT INTO `azure_azurecloud.southwestus_ips` (`ip_address`, `ip_type`) VALUES ('57.150.176.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.southwestus_ips` (`ip_address`, `ip_type`) VALUES ('57.150.254.0/23', 'IPv4');
+INSERT INTO `azure_azurecloud.southwestus_ips` (`ip_address`, `ip_type`) VALUES ('57.163.62.0/23', 'IPv4');
+INSERT INTO `azure_azurecloud.southwestus_ips` (`ip_address`, `ip_type`) VALUES ('57.163.88.0/23', 'IPv4');
 INSERT INTO `azure_azurecloud.southwestus_ips` (`ip_address`, `ip_type`) VALUES ('135.130.210.0/23', 'IPv4');
 INSERT INTO `azure_azurecloud.southwestus_ips` (`ip_address`, `ip_type`) VALUES ('145.190.146.0/23', 'IPv4');
 INSERT INTO `azure_azurecloud.southwestus_ips` (`ip_address`, `ip_type`) VALUES ('209.199.33.192/28', 'IPv4');

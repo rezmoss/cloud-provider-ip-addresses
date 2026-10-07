@@ -12,5 +12,6 @@ INSERT INTO `azure_powerbi.norwaywest_ips` (`ip_address`, `ip_type`) VALUES ('51
 INSERT INTO `azure_powerbi.norwaywest_ips` (`ip_address`, `ip_type`) VALUES ('51.120.224.122/31', 'IPv4');
 INSERT INTO `azure_powerbi.norwaywest_ips` (`ip_address`, `ip_type`) VALUES ('51.120.224.124/30', 'IPv4');
 INSERT INTO `azure_powerbi.norwaywest_ips` (`ip_address`, `ip_type`) VALUES ('51.120.224.208/29', 'IPv4');
+INSERT INTO `azure_powerbi.norwaywest_ips` (`ip_address`, `ip_type`) VALUES ('74.240.18.64/29', 'IPv4');
 INSERT INTO `azure_powerbi.norwaywest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:f04::620/123', 'IPv6');
 INSERT INTO `azure_powerbi.norwaywest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:f04::640/122', 'IPv6');

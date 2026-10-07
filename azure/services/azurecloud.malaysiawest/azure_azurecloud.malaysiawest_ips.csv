@@ -79,6 +79,7 @@ ip_address,ip_type,service,region
 2603:1061:2004:d480::/57,IPv6,AzureCloud.malaysiawest,malaysiawest
 2603:1061:2010:3a::/64,IPv6,AzureCloud.malaysiawest,malaysiawest
 2603:1061:2011:3a::/64,IPv6,AzureCloud.malaysiawest,malaysiawest
+2603:1063:4d::/56,IPv6,AzureCloud.malaysiawest,malaysiawest
 2603:1063:138::/56,IPv6,AzureCloud.malaysiawest,malaysiawest
 2603:1063:635::/56,IPv6,AzureCloud.malaysiawest,malaysiawest
 2603:1063:2202:54::/64,IPv6,AzureCloud.malaysiawest,malaysiawest

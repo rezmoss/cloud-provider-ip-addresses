@@ -1,7 +1,7 @@
 # azure IP ranges - ipset restore format (hash:net)
-# Version: 17 | Generated: 2026-10-06 | Last changed: 2026-09-30
-# IPv4: 1093 merged subnets, 54931823 unique IPs
-# IPv6: 1244 merged subnets
+# Version: 18 | Generated: 2026-10-07 | Last changed: 2026-10-07
+# IPv4: 1089 merged subnets, 54932335 unique IPs
+# IPv6: 1250 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
 # Load with: sudo ipset restore -! < azure.netset
@@ -435,13 +435,9 @@ add azure_v4 52.112.24.0/23
 add azure_v4 52.112.26.0/24
 add azure_v4 52.112.32.0/24
 add azure_v4 52.112.34.0/23
-add azure_v4 52.112.37.0/24
-add azure_v4 52.112.38.0/23
+add azure_v4 52.112.36.0/22
 add azure_v4 52.112.40.0/21
-add azure_v4 52.112.48.0/22
-add azure_v4 52.112.53.0/24
-add azure_v4 52.112.54.0/23
-add azure_v4 52.112.56.0/21
+add azure_v4 52.112.48.0/20
 add azure_v4 52.112.65.0/24
 add azure_v4 52.112.66.0/24
 add azure_v4 52.112.68.0/23
@@ -1447,7 +1443,8 @@ add azure_v6 2603:1030:1000::/47
 add azure_v6 2603:1030:1002::/48
 add azure_v6 2603:1030:1004::/46
 add azure_v6 2603:1030:1008::/62
-add azure_v6 2603:1030:1008:4::/64
+add azure_v6 2603:1030:1008:4::/63
+add azure_v6 2603:1030:1008:6::/64
 add azure_v6 2603:1030:1101::/48
 add azure_v6 2603:1030:1102::/47
 add azure_v6 2603:1030:1104::/47
@@ -1681,6 +1678,7 @@ add azure_v6 2603:1046:1500:34::/64
 add azure_v6 2603:1046:1500:44::/64
 add azure_v6 2603:1046:2000::/48
 add azure_v6 2603:1047:1::/48
+add azure_v6 2603:104c:0:200::/55
 add azure_v6 2603:104c:0:4200::/63
 add azure_v6 2603:104c:0:8200::/55
 add azure_v6 2603:104c:0:c200::/55
@@ -1817,6 +1815,7 @@ add azure_v6 2603:1063:47::/48
 add azure_v6 2603:1063:4a::/55
 add azure_v6 2603:1063:4b::/55
 add azure_v6 2603:1063:4c::/55
+add azure_v6 2603:1063:4d::/56
 add azure_v6 2603:1063:ff::/48
 add azure_v6 2603:1063:100::/55
 add azure_v6 2603:1063:100:200::/56
@@ -2096,7 +2095,9 @@ add azure_v6 2603:1063:636::/56
 add azure_v6 2603:1063:637::/56
 add azure_v6 2603:1063:638::/56
 add azure_v6 2603:1063:639::/56
+add azure_v6 2603:1063:63a::/56
 add azure_v6 2603:1063:700::/56
+add azure_v6 2603:1063:701::/56
 add azure_v6 2603:1063:702::/56
 add azure_v6 2603:1063:703::/56
 add azure_v6 2603:1063:704::/56
@@ -2146,6 +2147,7 @@ add azure_v6 2603:1063:72f::/56
 add azure_v6 2603:1063:730::/56
 add azure_v6 2603:1063:731::/56
 add azure_v6 2603:1063:732::/56
+add azure_v6 2603:1063:734:100::/64
 add azure_v6 2603:1063:1c00::/55
 add azure_v6 2603:1063:1c01::/55
 add azure_v6 2603:1063:1c02::/55

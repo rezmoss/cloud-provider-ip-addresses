@@ -1578,6 +1578,12 @@
     "region": "centraluseuap"
   },
   {
+    "ip_address": "2603:1063:734:100::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.centraluseuap",
+    "region": "centraluseuap"
+  },
+  {
     "ip_address": "2603:1063:2200:28::/64",
     "ip_type": "IPv6",
     "service": "AzureCloud.centraluseuap",
