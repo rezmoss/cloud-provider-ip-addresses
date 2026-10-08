@@ -318,12 +318,6 @@
     "region": "global"
   },
   {
-    "ip_address": "192.196.223.0/24",
-    "ip_type": "IPv4",
-    "service": "leaseweb-as32613",
-    "region": "global"
-  },
-  {
     "ip_address": "198.50.96.0/19",
     "ip_type": "IPv4",
     "service": "leaseweb-as32613",

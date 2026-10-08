@@ -198,6 +198,7 @@ INSERT INTO `aws_api_gateway_ips` (`ip_address`, `ip_type`) VALUES ('44.234.28.0
 INSERT INTO `aws_api_gateway_ips` (`ip_address`, `ip_type`) VALUES ('51.16.149.0/24', 'IPv4');
 INSERT INTO `aws_api_gateway_ips` (`ip_address`, `ip_type`) VALUES ('51.16.150.0/24', 'IPv4');
 INSERT INTO `aws_api_gateway_ips` (`ip_address`, `ip_type`) VALUES ('51.112.20.0/23', 'IPv4');
+INSERT INTO `aws_api_gateway_ips` (`ip_address`, `ip_type`) VALUES ('51.168.118.0/24', 'IPv4');
 INSERT INTO `aws_api_gateway_ips` (`ip_address`, `ip_type`) VALUES ('51.224.184.0/24', 'IPv4');
 INSERT INTO `aws_api_gateway_ips` (`ip_address`, `ip_type`) VALUES ('52.81.135.128/25', 'IPv4');
 INSERT INTO `aws_api_gateway_ips` (`ip_address`, `ip_type`) VALUES ('52.81.137.0/24', 'IPv4');

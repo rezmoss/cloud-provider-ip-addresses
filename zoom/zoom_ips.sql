@@ -8,8 +8,8 @@ CREATE TABLE IF NOT EXISTS `zoom_ips` (
 
 INSERT INTO `zoom_ips` (`ip_address`, `ip_type`) VALUES ('3.7.35.0/25', 'IPv4');
 INSERT INTO `zoom_ips` (`ip_address`, `ip_type`) VALUES ('3.235.82.0/23', 'IPv4');
-INSERT INTO `zoom_ips` (`ip_address`, `ip_type`) VALUES ('3.235.96.0/23', 'IPv4');
-INSERT INTO `zoom_ips` (`ip_address`, `ip_type`) VALUES ('8.5.128.0/24', 'IPv4');
+INSERT INTO `zoom_ips` (`ip_address`, `ip_type`) VALUES ('3.235.96.26/31', 'IPv4');
+INSERT INTO `zoom_ips` (`ip_address`, `ip_type`) VALUES ('3.235.96.158/31', 'IPv4');
 INSERT INTO `zoom_ips` (`ip_address`, `ip_type`) VALUES ('15.220.80.0/24', 'IPv4');
 INSERT INTO `zoom_ips` (`ip_address`, `ip_type`) VALUES ('15.220.81.0/25', 'IPv4');
 INSERT INTO `zoom_ips` (`ip_address`, `ip_type`) VALUES ('18.254.23.128/25', 'IPv4');
@@ -20,7 +20,7 @@ INSERT INTO `zoom_ips` (`ip_address`, `ip_type`) VALUES ('52.61.100.128/25', 'IP
 INSERT INTO `zoom_ips` (`ip_address`, `ip_type`) VALUES ('52.84.151.0/24', 'IPv4');
 INSERT INTO `zoom_ips` (`ip_address`, `ip_type`) VALUES ('64.211.144.0/24', 'IPv4');
 INSERT INTO `zoom_ips` (`ip_address`, `ip_type`) VALUES ('64.224.32.0/19', 'IPv4');
-INSERT INTO `zoom_ips` (`ip_address`, `ip_type`) VALUES ('69.174.108.0/22', 'IPv4');
+INSERT INTO `zoom_ips` (`ip_address`, `ip_type`) VALUES ('69.174.110.0/23', 'IPv4');
 INSERT INTO `zoom_ips` (`ip_address`, `ip_type`) VALUES ('101.36.167.0/24', 'IPv4');
 INSERT INTO `zoom_ips` (`ip_address`, `ip_type`) VALUES ('101.36.170.0/23', 'IPv4');
 INSERT INTO `zoom_ips` (`ip_address`, `ip_type`) VALUES ('103.122.166.0/23', 'IPv4');

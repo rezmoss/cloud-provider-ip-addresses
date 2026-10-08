@@ -191,6 +191,7 @@ ip_address,ip_type,service,region
 51.16.149.0/24,IPv4,API_GATEWAY,il-central-1
 51.16.150.0/24,IPv4,API_GATEWAY,il-central-1
 51.112.20.0/23,IPv4,API_GATEWAY,me-central-1
+51.168.118.0/24,IPv4,API_GATEWAY,me-west-1
 51.224.184.0/24,IPv4,API_GATEWAY,eusc-de-east-1
 52.81.135.128/25,IPv4,API_GATEWAY,cn-north-1
 52.81.137.0/24,IPv4,API_GATEWAY,cn-north-1

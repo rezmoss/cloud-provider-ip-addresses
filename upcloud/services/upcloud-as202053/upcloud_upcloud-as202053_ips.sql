@@ -11,7 +11,6 @@ INSERT INTO `upcloud_upcloud-as202053_ips` (`ip_address`, `ip_type`) VALUES ('5.
 INSERT INTO `upcloud_upcloud-as202053_ips` (`ip_address`, `ip_type`) VALUES ('5.22.216.0/22', 'IPv4');
 INSERT INTO `upcloud_upcloud-as202053_ips` (`ip_address`, `ip_type`) VALUES ('5.22.220.0/22', 'IPv4');
 INSERT INTO `upcloud_upcloud-as202053_ips` (`ip_address`, `ip_type`) VALUES ('5.253.32.0/22', 'IPv4');
-INSERT INTO `upcloud_upcloud-as202053_ips` (`ip_address`, `ip_type`) VALUES ('5.253.32.0/24', 'IPv4');
 INSERT INTO `upcloud_upcloud-as202053_ips` (`ip_address`, `ip_type`) VALUES ('77.81.0.0/24', 'IPv4');
 INSERT INTO `upcloud_upcloud-as202053_ips` (`ip_address`, `ip_type`) VALUES ('80.47.224.0/22', 'IPv4');
 INSERT INTO `upcloud_upcloud-as202053_ips` (`ip_address`, `ip_type`) VALUES ('80.47.228.0/22', 'IPv4');
@@ -59,13 +58,11 @@ INSERT INTO `upcloud_upcloud-as202053_ips` (`ip_address`, `ip_type`) VALUES ('95
 INSERT INTO `upcloud_upcloud-as202053_ips` (`ip_address`, `ip_type`) VALUES ('95.111.204.0/22', 'IPv4');
 INSERT INTO `upcloud_upcloud-as202053_ips` (`ip_address`, `ip_type`) VALUES ('95.111.208.0/22', 'IPv4');
 INSERT INTO `upcloud_upcloud-as202053_ips` (`ip_address`, `ip_type`) VALUES ('95.111.216.0/21', 'IPv4');
-INSERT INTO `upcloud_upcloud-as202053_ips` (`ip_address`, `ip_type`) VALUES ('109.71.54.0/23', 'IPv4');
 INSERT INTO `upcloud_upcloud-as202053_ips` (`ip_address`, `ip_type`) VALUES ('109.71.54.0/24', 'IPv4');
 INSERT INTO `upcloud_upcloud-as202053_ips` (`ip_address`, `ip_type`) VALUES ('109.71.55.0/24', 'IPv4');
 INSERT INTO `upcloud_upcloud-as202053_ips` (`ip_address`, `ip_type`) VALUES ('185.20.136.0/22', 'IPv4');
 INSERT INTO `upcloud_upcloud-as202053_ips` (`ip_address`, `ip_type`) VALUES ('185.26.48.0/22', 'IPv4');
 INSERT INTO `upcloud_upcloud-as202053_ips` (`ip_address`, `ip_type`) VALUES ('185.70.196.0/22', 'IPv4');
-INSERT INTO `upcloud_upcloud-as202053_ips` (`ip_address`, `ip_type`) VALUES ('193.104.38.0/24', 'IPv4');
 INSERT INTO `upcloud_upcloud-as202053_ips` (`ip_address`, `ip_type`) VALUES ('194.39.109.0/24', 'IPv4');
 INSERT INTO `upcloud_upcloud-as202053_ips` (`ip_address`, `ip_type`) VALUES ('194.62.96.0/22', 'IPv4');
 INSERT INTO `upcloud_upcloud-as202053_ips` (`ip_address`, `ip_type`) VALUES ('194.107.180.0/24', 'IPv4');

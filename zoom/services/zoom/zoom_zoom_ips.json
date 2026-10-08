@@ -10,7 +10,12 @@
     "service": "zoom"
   },
   {
-    "ip_address": "3.235.96.0/23",
+    "ip_address": "3.235.96.26/31",
+    "ip_type": "IPv4",
+    "service": "zoom"
+  },
+  {
+    "ip_address": "3.235.96.158/31",
     "ip_type": "IPv4",
     "service": "zoom"
   },
@@ -60,7 +65,7 @@
     "service": "zoom"
   },
   {
-    "ip_address": "69.174.108.0/22",
+    "ip_address": "69.174.110.0/23",
     "ip_type": "IPv4",
     "service": "zoom"
   },

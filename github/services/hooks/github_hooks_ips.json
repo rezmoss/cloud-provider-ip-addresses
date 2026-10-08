@@ -1,5 +1,20 @@
 [
   {
+    "ip_address": "9.234.98.160/28",
+    "ip_type": "IPv4",
+    "service": "hooks"
+  },
+  {
+    "ip_address": "9.234.98.176/28",
+    "ip_type": "IPv4",
+    "service": "hooks"
+  },
+  {
+    "ip_address": "9.234.106.48/28",
+    "ip_type": "IPv4",
+    "service": "hooks"
+  },
+  {
     "ip_address": "140.82.112.0/20",
     "ip_type": "IPv4",
     "service": "hooks"

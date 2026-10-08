@@ -30,12 +30,6 @@
     "region": "global"
   },
   {
-    "ip_address": "5.253.32.0/24",
-    "ip_type": "IPv4",
-    "service": "upcloud-as202053",
-    "region": "global"
-  },
-  {
     "ip_address": "77.81.0.0/24",
     "ip_type": "IPv4",
     "service": "upcloud-as202053",
@@ -318,12 +312,6 @@
     "region": "global"
   },
   {
-    "ip_address": "109.71.54.0/23",
-    "ip_type": "IPv4",
-    "service": "upcloud-as202053",
-    "region": "global"
-  },
-  {
     "ip_address": "109.71.54.0/24",
     "ip_type": "IPv4",
     "service": "upcloud-as202053",
@@ -349,12 +337,6 @@
   },
   {
     "ip_address": "185.70.196.0/22",
-    "ip_type": "IPv4",
-    "service": "upcloud-as202053",
-    "region": "global"
-  },
-  {
-    "ip_address": "193.104.38.0/24",
     "ip_type": "IPv4",
     "service": "upcloud-as202053",
     "region": "global"

@@ -1,6 +1,6 @@
 #!/bin/bash
 # Akamai IP Ranges
-# Updated: 2026-10-01 02:42:48
+# Updated: 2026-10-08 02:38:01
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -375,7 +375,6 @@ ufw allow from 2001:4457:ff0::/48
 ufw allow from 2001:4546:1003::/48
 ufw allow from 2001:4878:7::/48
 ufw allow from 2001:4878:8::/48
-ufw allow from 2001:4878:31::/48
 ufw allow from 2001:4878:37::/48
 ufw allow from 2001:4878:39::/48
 ufw allow from 2001:4878:48::/48
@@ -396,7 +395,6 @@ ufw allow from 2001:4878:322::/47
 ufw allow from 2001:4878:347::/48
 ufw allow from 2001:4878:2007::/48
 ufw allow from 2001:4878:2008::/48
-ufw allow from 2001:4878:2031::/48
 ufw allow from 2001:4878:2037::/48
 ufw allow from 2001:4878:2048::/48
 ufw allow from 2001:4878:2055::/48
@@ -420,7 +418,6 @@ ufw allow from 2001:4878:3068::/48
 ufw allow from 2001:4878:4001::/48
 ufw allow from 2001:4878:4003::/48
 ufw allow from 2001:4878:4007::/48
-ufw allow from 2001:4878:4031::/48
 ufw allow from 2001:4878:4037::/48
 ufw allow from 2001:4878:4055::/48
 ufw allow from 2001:4878:4062::/47
@@ -433,7 +430,6 @@ ufw allow from 2001:4878:4322::/47
 ufw allow from 2001:4878:4347::/48
 ufw allow from 2001:4878:8007::/48
 ufw allow from 2001:4878:8008::/48
-ufw allow from 2001:4878:8031::/48
 ufw allow from 2001:4878:8037::/48
 ufw allow from 2001:4878:8048::/48
 ufw allow from 2001:4878:8062::/47
@@ -454,7 +450,6 @@ ufw allow from 2001:4878:8322::/47
 ufw allow from 2001:4878:8347::/48
 ufw allow from 2001:4878:a007::/48
 ufw allow from 2001:4878:a008::/48
-ufw allow from 2001:4878:a031::/48
 ufw allow from 2001:4878:a037::/48
 ufw allow from 2001:4878:a048::/48
 ufw allow from 2001:4878:a062::/48
@@ -470,7 +465,6 @@ ufw allow from 2001:4878:a322::/47
 ufw allow from 2001:4878:a347::/48
 ufw allow from 2001:4878:b007::/48
 ufw allow from 2001:4878:b008::/48
-ufw allow from 2001:4878:b031::/48
 ufw allow from 2001:4878:b037::/48
 ufw allow from 2001:4878:b048::/48
 ufw allow from 2001:4878:b151::/48

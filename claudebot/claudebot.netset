@@ -1,6 +1,6 @@
 # claudebot IP ranges - ipset restore format (hash:net)
-# Version: 5 | Generated: 2026-10-07 | Last changed: 2026-10-03
-# IPv4: 28 merged subnets, 1126 unique IPs
+# Version: 6 | Generated: 2026-10-08 | Last changed: 2026-10-08
+# IPv4: 38 merged subnets, 1136 unique IPs
 # IPv6: 0 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
@@ -16,6 +16,13 @@ add claudebot_v4 20.102.46.224/28
 add claudebot_v4 34.11.34.31/32
 add claudebot_v4 34.85.172.162/32
 add claudebot_v4 34.150.241.79/32
+add claudebot_v4 34.152.124.140/32
+add claudebot_v4 34.153.21.190/32
+add claudebot_v4 34.162.27.34/32
+add claudebot_v4 34.162.86.102/32
+add claudebot_v4 34.162.90.102/32
+add claudebot_v4 34.162.111.78/32
+add claudebot_v4 34.162.153.71/32
 add claudebot_v4 34.162.191.81/32
 add claudebot_v4 34.162.230.222/32
 add claudebot_v4 34.162.244.71/32
@@ -28,10 +35,13 @@ add claudebot_v4 34.182.225.167/32
 add claudebot_v4 34.182.226.151/32
 add claudebot_v4 34.182.226.221/32
 add claudebot_v4 34.186.108.163/32
+add claudebot_v4 34.186.252.4/32
 add claudebot_v4 35.221.29.174/32
 add claudebot_v4 35.245.89.239/32
 add claudebot_v4 35.245.175.129/32
 add claudebot_v4 40.124.101.48/28
+add claudebot_v4 136.79.143.251/32
+add claudebot_v4 136.83.20.215/32
 add claudebot_v4 136.107.176.208/32
 add claudebot_v4 160.79.106.16/28
 add claudebot_v4 160.79.106.128/28

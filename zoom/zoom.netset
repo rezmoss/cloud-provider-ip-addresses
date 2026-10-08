@@ -1,6 +1,6 @@
 # zoom IP ranges - ipset restore format (hash:net)
-# Version: 3 | Generated: 2026-10-07 | Last changed: 2026-08-30
-# IPv4: 53 merged subnets, 540688 unique IPs
+# Version: 4 | Generated: 2026-10-08 | Last changed: 2026-10-08
+# IPv4: 53 merged subnets, 539412 unique IPs
 # IPv6: 2 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
@@ -10,8 +10,8 @@ create zoom_v4 hash:net family inet hashsize 4096 maxelem 1048576 -exist
 flush zoom_v4
 add zoom_v4 3.7.35.0/25
 add zoom_v4 3.235.82.0/23
-add zoom_v4 3.235.96.0/23
-add zoom_v4 8.5.128.0/24
+add zoom_v4 3.235.96.26/31
+add zoom_v4 3.235.96.158/31
 add zoom_v4 15.220.80.0/24
 add zoom_v4 15.220.81.0/25
 add zoom_v4 18.254.23.128/25
@@ -22,7 +22,7 @@ add zoom_v4 52.61.100.128/25
 add zoom_v4 52.84.151.0/24
 add zoom_v4 64.211.144.0/24
 add zoom_v4 64.224.32.0/19
-add zoom_v4 69.174.108.0/22
+add zoom_v4 69.174.110.0/23
 add zoom_v4 101.36.167.0/24
 add zoom_v4 101.36.170.0/23
 add zoom_v4 103.122.166.0/23

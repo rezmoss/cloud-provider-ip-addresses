@@ -1,6 +1,6 @@
 # ClaudeBot IP Ranges (Auto-Updated Daily)
 
-> Last updated: **2026-10-07** · Total CIDRs: **28** · IPv4: **28** · IPv6: **0** · Services: **1**
+> Last updated: **2026-10-08** · Total CIDRs: **38** · IPv4: **38** · IPv6: **0** · Services: **1**
 
 Machine-readable, daily-updated, validated public IP ranges for **ClaudeBot**.
 Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and Apache.
@@ -29,10 +29,10 @@ Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and
 
 ```
 136.107.176.208/32
+136.79.143.251/32
+136.83.20.215/32
 16.58.26.69/32
 160.79.106.128/28
-160.79.106.16/28
-18.225.238.228/32
 ```
 
 ## Why these ranges change

@@ -1,6 +1,6 @@
 # upcloud IP ranges - ipset restore format (hash:net)
-# Version: 6 | Generated: 2026-10-07 | Last changed: 2026-10-07
-# IPv4: 38 merged subnets, 104704 unique IPs
+# Version: 7 | Generated: 2026-10-08 | Last changed: 2026-10-08
+# IPv4: 37 merged subnets, 104448 unique IPs
 # IPv6: 11 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
@@ -34,7 +34,6 @@ add upcloud_v4 185.20.136.0/22
 add upcloud_v4 185.26.48.0/22
 add upcloud_v4 185.70.196.0/22
 add upcloud_v4 185.168.48.0/24
-add upcloud_v4 193.104.38.0/24
 add upcloud_v4 194.39.109.0/24
 add upcloud_v4 194.62.96.0/22
 add upcloud_v4 194.107.180.0/24

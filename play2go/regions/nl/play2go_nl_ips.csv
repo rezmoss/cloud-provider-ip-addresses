@@ -37,4 +37,5 @@ ip_address,ip_type,service,region
 150.241.94.0/24,IPv4,play2go,nl
 177.3.208.0/24,IPv4,play2go,nl
 177.3.212.0/24,IPv4,play2go,nl
+177.3.219.0/24,IPv4,play2go,nl
 193.23.194.0/24,IPv4,play2go,nl

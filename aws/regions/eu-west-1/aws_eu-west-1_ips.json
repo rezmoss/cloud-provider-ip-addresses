@@ -3684,6 +3684,18 @@
     "region": "eu-west-1"
   },
   {
+    "ip_address": "2600:f0fb:c803::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eu-west-1"
+  },
+  {
+    "ip_address": "2600:f0fb:c803::/48",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eu-west-1"
+  },
+  {
     "ip_address": "2600:f0fb:c900:5000::/52",
     "ip_type": "IPv6",
     "service": "AMAZON",

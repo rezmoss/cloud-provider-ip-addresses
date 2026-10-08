@@ -6,6 +6,5 @@ CREATE TABLE IF NOT EXISTS `zoom_zoom-phone_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
-INSERT INTO `zoom_zoom-phone_ips` (`ip_address`, `ip_type`) VALUES ('8.5.128.0/24', 'IPv4');
 INSERT INTO `zoom_zoom-phone_ips` (`ip_address`, `ip_type`) VALUES ('115.117.119.96/27', 'IPv4');
 INSERT INTO `zoom_zoom-phone_ips` (`ip_address`, `ip_type`) VALUES ('121.244.203.192/27', 'IPv4');

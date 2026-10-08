@@ -1,4 +1,7 @@
 ip_address,ip_type,service
+9.234.98.160/28,IPv4,hooks
+9.234.98.176/28,IPv4,hooks
+9.234.106.48/28,IPv4,hooks
 140.82.112.0/20,IPv4,hooks
 143.55.64.0/20,IPv4,hooks
 185.199.108.0/22,IPv4,hooks

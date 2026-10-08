@@ -14,6 +14,13 @@ INSERT INTO `claudebot_ips` (`ip_address`, `ip_type`) VALUES ('20.102.46.224/28'
 INSERT INTO `claudebot_ips` (`ip_address`, `ip_type`) VALUES ('34.11.34.31/32', 'IPv4');
 INSERT INTO `claudebot_ips` (`ip_address`, `ip_type`) VALUES ('34.85.172.162/32', 'IPv4');
 INSERT INTO `claudebot_ips` (`ip_address`, `ip_type`) VALUES ('34.150.241.79/32', 'IPv4');
+INSERT INTO `claudebot_ips` (`ip_address`, `ip_type`) VALUES ('34.152.124.140/32', 'IPv4');
+INSERT INTO `claudebot_ips` (`ip_address`, `ip_type`) VALUES ('34.153.21.190/32', 'IPv4');
+INSERT INTO `claudebot_ips` (`ip_address`, `ip_type`) VALUES ('34.162.27.34/32', 'IPv4');
+INSERT INTO `claudebot_ips` (`ip_address`, `ip_type`) VALUES ('34.162.86.102/32', 'IPv4');
+INSERT INTO `claudebot_ips` (`ip_address`, `ip_type`) VALUES ('34.162.90.102/32', 'IPv4');
+INSERT INTO `claudebot_ips` (`ip_address`, `ip_type`) VALUES ('34.162.111.78/32', 'IPv4');
+INSERT INTO `claudebot_ips` (`ip_address`, `ip_type`) VALUES ('34.162.153.71/32', 'IPv4');
 INSERT INTO `claudebot_ips` (`ip_address`, `ip_type`) VALUES ('34.162.191.81/32', 'IPv4');
 INSERT INTO `claudebot_ips` (`ip_address`, `ip_type`) VALUES ('34.162.230.222/32', 'IPv4');
 INSERT INTO `claudebot_ips` (`ip_address`, `ip_type`) VALUES ('34.162.244.71/32', 'IPv4');
@@ -26,10 +33,13 @@ INSERT INTO `claudebot_ips` (`ip_address`, `ip_type`) VALUES ('34.182.225.167/32
 INSERT INTO `claudebot_ips` (`ip_address`, `ip_type`) VALUES ('34.182.226.151/32', 'IPv4');
 INSERT INTO `claudebot_ips` (`ip_address`, `ip_type`) VALUES ('34.182.226.221/32', 'IPv4');
 INSERT INTO `claudebot_ips` (`ip_address`, `ip_type`) VALUES ('34.186.108.163/32', 'IPv4');
+INSERT INTO `claudebot_ips` (`ip_address`, `ip_type`) VALUES ('34.186.252.4/32', 'IPv4');
 INSERT INTO `claudebot_ips` (`ip_address`, `ip_type`) VALUES ('35.221.29.174/32', 'IPv4');
 INSERT INTO `claudebot_ips` (`ip_address`, `ip_type`) VALUES ('35.245.89.239/32', 'IPv4');
 INSERT INTO `claudebot_ips` (`ip_address`, `ip_type`) VALUES ('35.245.175.129/32', 'IPv4');
 INSERT INTO `claudebot_ips` (`ip_address`, `ip_type`) VALUES ('40.124.101.48/28', 'IPv4');
+INSERT INTO `claudebot_ips` (`ip_address`, `ip_type`) VALUES ('136.79.143.251/32', 'IPv4');
+INSERT INTO `claudebot_ips` (`ip_address`, `ip_type`) VALUES ('136.83.20.215/32', 'IPv4');
 INSERT INTO `claudebot_ips` (`ip_address`, `ip_type`) VALUES ('136.107.176.208/32', 'IPv4');
 INSERT INTO `claudebot_ips` (`ip_address`, `ip_type`) VALUES ('160.79.106.16/28', 'IPv4');
 INSERT INTO `claudebot_ips` (`ip_address`, `ip_type`) VALUES ('160.79.106.128/28', 'IPv4');

@@ -234,12 +234,6 @@
     "region": "global"
   },
   {
-    "ip_address": "2402:9e80:2402::/48",
-    "ip_type": "IPv6",
-    "service": "leaseweb-as133752",
-    "region": "global"
-  },
-  {
     "ip_address": "2402:a7c1::/32",
     "ip_type": "IPv6",
     "service": "leaseweb-as133752",

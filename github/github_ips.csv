@@ -208,6 +208,9 @@ ip_address,ip_type,service
 9.169.0.0/17,IPv4,actions
 9.169.128.0/17,IPv4,actions
 9.234.0.0/17,IPv4,actions
+9.234.98.160/28,IPv4,hooks
+9.234.98.176/28,IPv4,hooks
+9.234.106.48/28,IPv4,hooks
 9.234.128.0/17,IPv4,actions
 13.64.0.0/16,IPv4,actions
 13.65.0.0/16,IPv4,actions

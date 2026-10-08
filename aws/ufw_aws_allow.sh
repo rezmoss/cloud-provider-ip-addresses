@@ -1,6 +1,6 @@
 #!/bin/bash
 # Aws IP Ranges
-# Updated: 2026-10-07 02:33:28
+# Updated: 2026-10-08 02:31:58
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -13,6 +13,7 @@ ufw allow from 1.178.8.0/22
 ufw allow from 1.178.16.0/20
 ufw allow from 1.178.64.0/23
 ufw allow from 1.178.72.0/21
+ufw allow from 1.178.86.0/24
 ufw allow from 1.178.88.0/21
 ufw allow from 1.178.100.0/22
 ufw allow from 1.178.172.0/23
@@ -440,7 +441,8 @@ ufw allow from 16.12.96.0/20
 ufw allow from 16.12.112.0/21
 ufw allow from 16.12.120.0/22
 ufw allow from 16.15.0.0/18
-ufw allow from 16.15.64.0/20
+ufw allow from 16.15.64.0/19
+ufw allow from 16.15.96.0/22
 ufw allow from 16.15.156.0/22
 ufw allow from 16.15.160.0/19
 ufw allow from 16.15.192.0/18
@@ -585,11 +587,7 @@ ufw allow from 35.50.240.0/23
 ufw allow from 35.50.242.0/24
 ufw allow from 35.52.0.0/15
 ufw allow from 35.54.16.0/20
-ufw allow from 35.54.32.0/20
-ufw allow from 35.54.48.0/21
-ufw allow from 35.54.56.0/22
-ufw allow from 35.54.60.0/23
-ufw allow from 35.54.62.0/24
+ufw allow from 35.54.32.0/19
 ufw allow from 35.54.64.0/18
 ufw allow from 35.55.0.0/17
 ufw allow from 35.56.0.0/15
@@ -1265,6 +1263,8 @@ ufw allow from 64.66.160.0/23
 ufw allow from 64.66.162.0/24
 ufw allow from 64.73.192.0/19
 ufw allow from 64.91.192.0/19
+ufw allow from 64.113.192.0/22
+ufw allow from 64.113.223.0/24
 ufw allow from 64.187.128.0/20
 ufw allow from 64.232.0.0/16
 ufw allow from 64.252.64.0/18
@@ -1341,8 +1341,10 @@ ufw allow from 76.223.172.0/22
 ufw allow from 77.112.0.0/14
 ufw allow from 78.12.0.0/14
 ufw allow from 79.125.0.0/17
-ufw allow from 80.126.0.0/23
-ufw allow from 80.126.2.0/24
+ufw allow from 80.126.0.0/21
+ufw allow from 80.126.8.0/22
+ufw allow from 80.126.12.0/23
+ufw allow from 80.126.14.0/24
 ufw allow from 83.118.240.0/21
 ufw allow from 83.119.128.0/18
 ufw allow from 83.160.0.0/14
@@ -3296,7 +3298,8 @@ ufw allow from 2600:f0fb:c003::/48
 ufw allow from 2600:f0fb:c004::/47
 ufw allow from 2600:f0fb:c006::/48
 ufw allow from 2600:f0fb:c0ff::/56
-ufw allow from 2600:f0fb:c800::/48
+ufw allow from 2600:f0fb:c800::/46
+ufw allow from 2600:f0fb:c804::/48
 ufw allow from 2600:f0fb:c900::/50
 ufw allow from 2600:f0fb:c900:4000::/51
 ufw allow from 2600:f0fb:c900:6000::/52

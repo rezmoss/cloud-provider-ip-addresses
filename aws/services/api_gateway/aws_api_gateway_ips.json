@@ -1152,6 +1152,12 @@
     "region": "me-central-1"
   },
   {
+    "ip_address": "51.168.118.0/24",
+    "ip_type": "IPv4",
+    "service": "API_GATEWAY",
+    "region": "me-west-1"
+  },
+  {
     "ip_address": "51.224.184.0/24",
     "ip_type": "IPv4",
     "service": "API_GATEWAY",

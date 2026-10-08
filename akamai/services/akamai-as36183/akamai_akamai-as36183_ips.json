@@ -3180,12 +3180,6 @@
     "region": "global"
   },
   {
-    "ip_address": "2a02:26f7:74::/48",
-    "ip_type": "IPv6",
-    "service": "akamai-as36183",
-    "region": "global"
-  },
-  {
     "ip_address": "2a02:26f7:76::/48",
     "ip_type": "IPv6",
     "service": "akamai-as36183",

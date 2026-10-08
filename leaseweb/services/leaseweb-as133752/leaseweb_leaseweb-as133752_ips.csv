@@ -38,7 +38,6 @@ ip_address,ip_type,service,region
 209.58.186.0/24,IPv4,leaseweb-as133752,global
 209.58.188.0/24,IPv4,leaseweb-as133752,global
 2001:df1:801::/48,IPv6,leaseweb-as133752,global
-2402:9e80:2402::/48,IPv6,leaseweb-as133752,global
 2402:a7c1::/32,IPv6,leaseweb-as133752,global
 2404:bb40::/32,IPv6,leaseweb-as133752,global
 2a00:c6c0:1::/48,IPv6,leaseweb-as133752,global

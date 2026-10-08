@@ -1,6 +1,6 @@
 #!/bin/bash
 # Akamai IP Ranges
-# Updated: 2026-09-09 02:29:54
+# Updated: 2026-10-08 02:37:59
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -16,7 +16,6 @@ iptables -A INPUT -s 23.62.225.0/24 -j ACCEPT
 iptables -A INPUT -s 23.74.0.0/23 -j ACCEPT
 iptables -A INPUT -s 23.79.224.0/24 -j ACCEPT
 iptables -A INPUT -s 23.79.229.0/24 -j ACCEPT
-iptables -A INPUT -s 23.79.230.0/24 -j ACCEPT
 iptables -A INPUT -s 23.79.232.0/24 -j ACCEPT
 iptables -A INPUT -s 23.79.237.0/24 -j ACCEPT
 iptables -A INPUT -s 23.79.238.0/24 -j ACCEPT
@@ -37,7 +36,6 @@ iptables -A INPUT -s 184.51.33.0/24 -j ACCEPT
 iptables -A INPUT -s 184.51.125.0/24 -j ACCEPT
 ip6tables -A INPUT -s 2001:4878:7::/48 -j ACCEPT
 ip6tables -A INPUT -s 2001:4878:8::/48 -j ACCEPT
-ip6tables -A INPUT -s 2001:4878:31::/48 -j ACCEPT
 ip6tables -A INPUT -s 2001:4878:37::/48 -j ACCEPT
 ip6tables -A INPUT -s 2001:4878:39::/48 -j ACCEPT
 ip6tables -A INPUT -s 2001:4878:48::/48 -j ACCEPT
@@ -57,7 +55,6 @@ ip6tables -A INPUT -s 2001:4878:322::/47 -j ACCEPT
 ip6tables -A INPUT -s 2001:4878:347::/48 -j ACCEPT
 ip6tables -A INPUT -s 2001:4878:2007::/48 -j ACCEPT
 ip6tables -A INPUT -s 2001:4878:2008::/48 -j ACCEPT
-ip6tables -A INPUT -s 2001:4878:2031::/48 -j ACCEPT
 ip6tables -A INPUT -s 2001:4878:2037::/48 -j ACCEPT
 ip6tables -A INPUT -s 2001:4878:2048::/48 -j ACCEPT
 ip6tables -A INPUT -s 2001:4878:2062::/47 -j ACCEPT
@@ -77,7 +74,6 @@ ip6tables -A INPUT -s 2001:4878:2322::/47 -j ACCEPT
 ip6tables -A INPUT -s 2001:4878:2347::/48 -j ACCEPT
 ip6tables -A INPUT -s 2001:4878:3068::/48 -j ACCEPT
 ip6tables -A INPUT -s 2001:4878:4007::/48 -j ACCEPT
-ip6tables -A INPUT -s 2001:4878:4031::/48 -j ACCEPT
 ip6tables -A INPUT -s 2001:4878:4037::/48 -j ACCEPT
 ip6tables -A INPUT -s 2001:4878:4062::/47 -j ACCEPT
 ip6tables -A INPUT -s 2001:4878:4164::/48 -j ACCEPT
@@ -88,7 +84,6 @@ ip6tables -A INPUT -s 2001:4878:4322::/47 -j ACCEPT
 ip6tables -A INPUT -s 2001:4878:4347::/48 -j ACCEPT
 ip6tables -A INPUT -s 2001:4878:8007::/48 -j ACCEPT
 ip6tables -A INPUT -s 2001:4878:8008::/48 -j ACCEPT
-ip6tables -A INPUT -s 2001:4878:8031::/48 -j ACCEPT
 ip6tables -A INPUT -s 2001:4878:8037::/48 -j ACCEPT
 ip6tables -A INPUT -s 2001:4878:8048::/48 -j ACCEPT
 ip6tables -A INPUT -s 2001:4878:8062::/47 -j ACCEPT
@@ -108,7 +103,6 @@ ip6tables -A INPUT -s 2001:4878:8322::/47 -j ACCEPT
 ip6tables -A INPUT -s 2001:4878:8347::/48 -j ACCEPT
 ip6tables -A INPUT -s 2001:4878:a007::/48 -j ACCEPT
 ip6tables -A INPUT -s 2001:4878:a008::/48 -j ACCEPT
-ip6tables -A INPUT -s 2001:4878:a031::/48 -j ACCEPT
 ip6tables -A INPUT -s 2001:4878:a037::/48 -j ACCEPT
 ip6tables -A INPUT -s 2001:4878:a048::/48 -j ACCEPT
 ip6tables -A INPUT -s 2001:4878:a062::/48 -j ACCEPT
@@ -124,7 +118,6 @@ ip6tables -A INPUT -s 2001:4878:a322::/47 -j ACCEPT
 ip6tables -A INPUT -s 2001:4878:a347::/48 -j ACCEPT
 ip6tables -A INPUT -s 2001:4878:b007::/48 -j ACCEPT
 ip6tables -A INPUT -s 2001:4878:b008::/48 -j ACCEPT
-ip6tables -A INPUT -s 2001:4878:b031::/48 -j ACCEPT
 ip6tables -A INPUT -s 2001:4878:b037::/48 -j ACCEPT
 ip6tables -A INPUT -s 2001:4878:b048::/48 -j ACCEPT
 ip6tables -A INPUT -s 2001:4878:b151::/48 -j ACCEPT

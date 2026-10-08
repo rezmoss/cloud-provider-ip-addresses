@@ -228,6 +228,12 @@
     "region": "nl"
   },
   {
+    "ip_address": "177.3.219.0/24",
+    "ip_type": "IPv4",
+    "service": "play2go",
+    "region": "nl"
+  },
+  {
     "ip_address": "193.23.194.0/24",
     "ip_type": "IPv4",
     "service": "play2go",
