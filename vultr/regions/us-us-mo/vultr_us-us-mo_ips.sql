@@ -7,3 +7,4 @@ CREATE TABLE IF NOT EXISTS `vultr_us-us-mo_ips` (
 );
 
 INSERT INTO `vultr_us-us-mo_ips` (`ip_address`, `ip_type`) VALUES ('64.177.16.0/20', 'IPv4');
+INSERT INTO `vultr_us-us-mo_ips` (`ip_address`, `ip_type`) VALUES ('2001:19f0:4c00::/38', 'IPv6');

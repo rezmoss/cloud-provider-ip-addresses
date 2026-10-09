@@ -455,6 +455,7 @@ INSERT INTO `vultr_ips` (`ip_address`, `ip_type`) VALUES ('2001:19f0:1400::/38',
 INSERT INTO `vultr_ips` (`ip_address`, `ip_type`) VALUES ('2001:19f0:4000::/38', 'IPv6');
 INSERT INTO `vultr_ips` (`ip_address`, `ip_type`) VALUES ('2001:19f0:4400::/38', 'IPv6');
 INSERT INTO `vultr_ips` (`ip_address`, `ip_type`) VALUES ('2001:19f0:4800::/38', 'IPv6');
+INSERT INTO `vultr_ips` (`ip_address`, `ip_type`) VALUES ('2001:19f0:4c00::/38', 'IPv6');
 INSERT INTO `vultr_ips` (`ip_address`, `ip_type`) VALUES ('2001:19f0:5000::/38', 'IPv6');
 INSERT INTO `vultr_ips` (`ip_address`, `ip_type`) VALUES ('2001:19f0:5400::/38', 'IPv6');
 INSERT INTO `vultr_ips` (`ip_address`, `ip_type`) VALUES ('2001:19f0:5404::/48', 'IPv6');

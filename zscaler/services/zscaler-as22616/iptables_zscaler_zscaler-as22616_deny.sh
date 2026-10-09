@@ -1,6 +1,6 @@
 #!/bin/bash
 # Zscaler IP Ranges
-# Updated: 2026-10-08 02:38:48
+# Updated: 2026-10-09 02:41:23
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -53,10 +53,12 @@ iptables -A INPUT -s 149.24.90.0/23 -j DROP
 iptables -A INPUT -s 149.24.92.0/24 -j DROP
 iptables -A INPUT -s 149.117.100.0/24 -j DROP
 iptables -A INPUT -s 149.117.102.0/24 -j DROP
+iptables -A INPUT -s 153.69.16.0/24 -j DROP
 iptables -A INPUT -s 155.95.82.0/24 -j DROP
 iptables -A INPUT -s 155.95.84.0/24 -j DROP
 iptables -A INPUT -s 155.95.86.0/24 -j DROP
 iptables -A INPUT -s 156.77.184.0/23 -j DROP
+iptables -A INPUT -s 156.77.186.0/24 -j DROP
 iptables -A INPUT -s 159.254.0.0/16 -j DROP
 iptables -A INPUT -s 161.107.92.0/22 -j DROP
 iptables -A INPUT -s 161.151.200.0/22 -j DROP

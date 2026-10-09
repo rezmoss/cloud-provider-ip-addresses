@@ -2245,6 +2245,11 @@
     "region": "US-US-MN"
   },
   {
+    "ip_address": "2001:19f0:4c00::/38",
+    "ip_type": "IPv6",
+    "region": "US-US-MO"
+  },
+  {
     "ip_address": "2001:19f0:5000::/38",
     "ip_type": "IPv6",
     "region": "NL-NH"

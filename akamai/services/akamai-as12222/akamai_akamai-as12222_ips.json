@@ -648,12 +648,6 @@
     "region": "global"
   },
   {
-    "ip_address": "2001:4878:a037::/48",
-    "ip_type": "IPv6",
-    "service": "akamai-as12222",
-    "region": "global"
-  },
-  {
     "ip_address": "2001:4878:a048::/48",
     "ip_type": "IPv6",
     "service": "akamai-as12222",
@@ -739,12 +733,6 @@
   },
   {
     "ip_address": "2001:4878:b008::/48",
-    "ip_type": "IPv6",
-    "service": "akamai-as12222",
-    "region": "global"
-  },
-  {
-    "ip_address": "2001:4878:b037::/48",
     "ip_type": "IPv6",
     "service": "akamai-as12222",
     "region": "global"

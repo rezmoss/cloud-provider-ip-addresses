@@ -1,7 +1,7 @@
 {
   "provider": "play2go",
   "version": 2,
-  "generated_date": "2026-10-08",
+  "generated_date": "2026-10-09",
   "last_changed_date": "2026-10-08",
   "sources": [
     "https://cdn.play2go.cloud/static/geofeed.csv"

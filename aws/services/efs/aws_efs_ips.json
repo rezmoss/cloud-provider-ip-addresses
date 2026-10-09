@@ -330,6 +330,18 @@
     "region": "eusc-de-east-1"
   },
   {
+    "ip_address": "51.168.180.128/25",
+    "ip_type": "IPv4",
+    "service": "EFS",
+    "region": "me-west-1"
+  },
+  {
+    "ip_address": "51.168.188.0/22",
+    "ip_type": "IPv4",
+    "service": "EFS",
+    "region": "me-west-1"
+  },
+  {
     "ip_address": "54.20.104.0/22",
     "ip_type": "IPv4",
     "service": "EFS",
@@ -982,6 +994,18 @@
     "ip_type": "IPv6",
     "service": "EFS",
     "region": "sa-east-1"
+  },
+  {
+    "ip_address": "2a05:d010:82c4:9400::/56",
+    "ip_type": "IPv6",
+    "service": "EFS",
+    "region": "me-west-1"
+  },
+  {
+    "ip_address": "2a05:d010:83b8:6100::/56",
+    "ip_type": "IPv6",
+    "service": "EFS",
+    "region": "me-west-1"
   },
   {
     "ip_address": "2a05:d011:ab7:bb00::/56",

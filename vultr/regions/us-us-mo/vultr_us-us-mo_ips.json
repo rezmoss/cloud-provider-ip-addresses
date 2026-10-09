@@ -3,5 +3,10 @@
     "ip_address": "64.177.16.0/20",
     "ip_type": "IPv4",
     "region": "US-US-MO"
+  },
+  {
+    "ip_address": "2001:19f0:4c00::/38",
+    "ip_type": "IPv6",
+    "region": "US-US-MO"
   }
 ]

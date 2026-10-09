@@ -1,6 +1,6 @@
 #!/bin/bash
 # Akamai IP Ranges
-# Updated: 2026-10-08 02:38:01
+# Updated: 2026-10-09 02:38:15
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -450,7 +450,6 @@ ufw allow from 2001:4878:8322::/47
 ufw allow from 2001:4878:8347::/48
 ufw allow from 2001:4878:a007::/48
 ufw allow from 2001:4878:a008::/48
-ufw allow from 2001:4878:a037::/48
 ufw allow from 2001:4878:a048::/48
 ufw allow from 2001:4878:a062::/48
 ufw allow from 2001:4878:a151::/48
@@ -465,7 +464,6 @@ ufw allow from 2001:4878:a322::/47
 ufw allow from 2001:4878:a347::/48
 ufw allow from 2001:4878:b007::/48
 ufw allow from 2001:4878:b008::/48
-ufw allow from 2001:4878:b037::/48
 ufw allow from 2001:4878:b048::/48
 ufw allow from 2001:4878:b151::/48
 ufw allow from 2001:4878:b166::/48

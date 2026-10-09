@@ -2472,24 +2472,6 @@
     "region": "global"
   },
   {
-    "ip_address": "148.145.228.0/23",
-    "ip_type": "IPv4",
-    "service": "huawei-as136907",
-    "region": "global"
-  },
-  {
-    "ip_address": "148.145.230.0/23",
-    "ip_type": "IPv4",
-    "service": "huawei-as136907",
-    "region": "global"
-  },
-  {
-    "ip_address": "148.145.232.0/23",
-    "ip_type": "IPv4",
-    "service": "huawei-as136907",
-    "region": "global"
-  },
-  {
     "ip_address": "148.145.236.0/23",
     "ip_type": "IPv4",
     "service": "huawei-as136907",
@@ -2701,12 +2683,6 @@
   },
   {
     "ip_address": "159.138.67.0/24",
-    "ip_type": "IPv4",
-    "service": "huawei-as136907",
-    "region": "global"
-  },
-  {
-    "ip_address": "159.138.72.0/23",
     "ip_type": "IPv4",
     "service": "huawei-as136907",
     "region": "global"

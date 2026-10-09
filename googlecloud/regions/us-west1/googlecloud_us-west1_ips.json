@@ -366,18 +366,6 @@
     "region": "us-west1"
   },
   {
-    "ip_address": "179.67.64.0/18",
-    "ip_type": "IPv4",
-    "service": "Google Cloud",
-    "region": "us-west1"
-  },
-  {
-    "ip_address": "179.69.128.0/18",
-    "ip_type": "IPv4",
-    "service": "Google Cloud",
-    "region": "us-west1"
-  },
-  {
     "ip_address": "2600:1900:4040::/44",
     "ip_type": "IPv6",
     "service": "Google Cloud",

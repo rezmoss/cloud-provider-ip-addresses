@@ -48,12 +48,6 @@
     "region": "europe-north1"
   },
   {
-    "ip_address": "179.193.128.0/19",
-    "ip_type": "IPv4",
-    "service": "Google Cloud",
-    "region": "europe-north1"
-  },
-  {
     "ip_address": "2600:1900:4150::/44",
     "ip_type": "IPv6",
     "service": "Google Cloud",

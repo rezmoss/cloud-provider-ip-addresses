@@ -294,11 +294,13 @@ ip_address,ip_type,service,region
 149.117.102.0/24,IPv4,zscaler-as22616,global
 149.117.230.0/24,IPv4,zscaler-as53813,global
 149.117.231.0/24,IPv4,zscaler-as53813,global
+153.69.16.0/24,IPv4,zscaler-as22616,global
 155.95.82.0/24,IPv4,zscaler-as22616,global
 155.95.84.0/24,IPv4,zscaler-as22616,global
 155.95.86.0/24,IPv4,zscaler-as22616,global
 156.77.184.0/24,IPv4,zscaler-as22616,global
 156.77.185.0/24,IPv4,zscaler-as22616,global
+156.77.186.0/24,IPv4,zscaler-as22616,global
 159.254.0.0/16,IPv4,zscaler-as22616,global
 159.254.30.0/23,IPv4,zscaler-as22616,global
 159.254.58.0/23,IPv4,zscaler-as22616,global

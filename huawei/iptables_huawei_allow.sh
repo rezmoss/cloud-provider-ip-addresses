@@ -1,6 +1,6 @@
 #!/bin/bash
 # Huawei IP Ranges
-# Updated: 2026-10-03 02:33:32
+# Updated: 2026-10-09 02:42:08
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -127,8 +127,7 @@ iptables -A INPUT -s 146.174.128.0/18 -j ACCEPT
 iptables -A INPUT -s 148.145.128.0/19 -j ACCEPT
 iptables -A INPUT -s 148.145.160.0/20 -j ACCEPT
 iptables -A INPUT -s 148.145.192.0/19 -j ACCEPT
-iptables -A INPUT -s 148.145.224.0/21 -j ACCEPT
-iptables -A INPUT -s 148.145.232.0/23 -j ACCEPT
+iptables -A INPUT -s 148.145.224.0/22 -j ACCEPT
 iptables -A INPUT -s 148.145.236.0/23 -j ACCEPT
 iptables -A INPUT -s 148.145.240.0/23 -j ACCEPT
 iptables -A INPUT -s 148.145.250.0/23 -j ACCEPT
@@ -147,7 +146,6 @@ iptables -A INPUT -s 156.240.128.0/18 -j ACCEPT
 iptables -A INPUT -s 156.253.16.0/20 -j ACCEPT
 iptables -A INPUT -s 159.138.0.0/18 -j ACCEPT
 iptables -A INPUT -s 159.138.64.0/21 -j ACCEPT
-iptables -A INPUT -s 159.138.72.0/23 -j ACCEPT
 iptables -A INPUT -s 159.138.76.0/22 -j ACCEPT
 iptables -A INPUT -s 159.138.80.0/20 -j ACCEPT
 iptables -A INPUT -s 159.138.96.0/19 -j ACCEPT

@@ -510,6 +510,12 @@
     "region": "ap-northeast-3"
   },
   {
+    "ip_address": "16.208.142.0/23",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-northeast-3"
+  },
+  {
     "ip_address": "16.209.0.0/16",
     "ip_type": "IPv4",
     "service": "AMAZON",
