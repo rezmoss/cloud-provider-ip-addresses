@@ -8550,6 +8550,12 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "184.195.220.128/25",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "184.195.222.0/23",
     "ip_type": "IPv4",
     "service": "AMAZON",

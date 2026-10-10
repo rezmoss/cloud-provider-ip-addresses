@@ -10,7 +10,6 @@ ip_address,ip_type,service,region
 172.224.9.0/24,IPv4,akamai-as36183,global
 172.224.10.0/24,IPv4,akamai-as36183,global
 172.224.11.0/24,IPv4,akamai-as36183,global
-172.224.12.0/24,IPv4,akamai-as36183,global
 172.224.13.0/24,IPv4,akamai-as36183,global
 172.224.16.0/24,IPv4,akamai-as36183,global
 172.224.17.0/24,IPv4,akamai-as36183,global
@@ -604,7 +603,6 @@ ip_address,ip_type,service,region
 2a02:26f7:131::/48,IPv6,akamai-as36183,global
 2a02:26f7:132::/48,IPv6,akamai-as36183,global
 2a02:26f7:135::/48,IPv6,akamai-as36183,global
-2a02:26f7:136::/48,IPv6,akamai-as36183,global
 2a02:26f7:138::/48,IPv6,akamai-as36183,global
 2a02:26f7:13a::/48,IPv6,akamai-as36183,global
 2a02:26f7:13b::/48,IPv6,akamai-as36183,global

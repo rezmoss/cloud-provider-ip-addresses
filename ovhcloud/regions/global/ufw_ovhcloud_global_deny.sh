@@ -1,6 +1,6 @@
 #!/bin/bash
 # Ovhcloud IP Ranges
-# Updated: 2026-10-09 02:37:48
+# Updated: 2026-10-10 02:38:05
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -516,6 +516,7 @@ ufw deny from 185.226.181.0/24
 ufw deny from 185.228.207.0/24
 ufw deny from 185.240.238.0/24
 ufw deny from 185.241.50.0/23
+ufw deny from 185.244.120.0/24
 ufw deny from 185.250.41.0/24
 ufw deny from 185.251.234.0/24
 ufw deny from 185.255.28.0/24
@@ -529,6 +530,7 @@ ufw deny from 188.255.193.0/24
 ufw deny from 191.44.99.0/24
 ufw deny from 191.96.140.0/23
 ufw deny from 191.101.150.0/24
+ufw deny from 191.101.157.0/24
 ufw deny from 191.101.210.0/24
 ufw deny from 191.101.218.0/24
 ufw deny from 192.6.107.0/24
