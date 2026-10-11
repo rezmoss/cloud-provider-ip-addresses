@@ -96,7 +96,6 @@ ip_address,ip_type,service,region
 157.240.190.0/24,IPv4,meta-as63293,global
 157.240.191.0/24,IPv4,meta-as63293,global
 2a03:2887:ff00::/48,IPv6,meta-as63293,global
-2a03:2887:ff02::/48,IPv6,meta-as63293,global
 2a03:2887:ff03::/48,IPv6,meta-as63293,global
 2a03:2887:ff04::/48,IPv6,meta-as63293,global
 2a03:2887:ff05::/48,IPv6,meta-as63293,global

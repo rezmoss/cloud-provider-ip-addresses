@@ -1800,6 +1800,12 @@
     "region": "global"
   },
   {
+    "ip_address": "87.76.189.0/24",
+    "ip_type": "IPv4",
+    "service": "ovhcloud-as16276",
+    "region": "global"
+  },
+  {
     "ip_address": "87.82.206.0/24",
     "ip_type": "IPv4",
     "service": "ovhcloud-as16276",

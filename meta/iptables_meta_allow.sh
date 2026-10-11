@@ -1,6 +1,6 @@
 #!/bin/bash
 # Meta IP Ranges
-# Updated: 2026-09-19 02:29:03
+# Updated: 2026-10-11 02:39:38
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -89,7 +89,7 @@ ip6tables -A INPUT -s 2620:0:1c00::/40 -j ACCEPT
 ip6tables -A INPUT -s 2620:10d:c090::/44 -j ACCEPT
 ip6tables -A INPUT -s 2a03:2880::/32 -j ACCEPT
 ip6tables -A INPUT -s 2a03:2887:ff00::/48 -j ACCEPT
-ip6tables -A INPUT -s 2a03:2887:ff02::/47 -j ACCEPT
+ip6tables -A INPUT -s 2a03:2887:ff03::/48 -j ACCEPT
 ip6tables -A INPUT -s 2a03:2887:ff04::/46 -j ACCEPT
 ip6tables -A INPUT -s 2a03:2887:ff09::/48 -j ACCEPT
 ip6tables -A INPUT -s 2a03:2887:ff0a::/48 -j ACCEPT

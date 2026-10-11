@@ -3606,6 +3606,24 @@
     "region": "global"
   },
   {
+    "ip_address": "43.97.0.0/17",
+    "ip_type": "IPv4",
+    "service": "alibaba-as45102",
+    "region": "global"
+  },
+  {
+    "ip_address": "43.97.0.0/18",
+    "ip_type": "IPv4",
+    "service": "alibaba-as45102",
+    "region": "global"
+  },
+  {
+    "ip_address": "43.97.64.0/18",
+    "ip_type": "IPv4",
+    "service": "alibaba-as45102",
+    "region": "global"
+  },
+  {
     "ip_address": "43.98.0.0/16",
     "ip_type": "IPv4",
     "service": "alibaba-as45102",
@@ -4963,6 +4981,24 @@
   },
   {
     "ip_address": "43.124.192.0/18",
+    "ip_type": "IPv4",
+    "service": "alibaba-as45102",
+    "region": "global"
+  },
+  {
+    "ip_address": "43.125.24.0/21",
+    "ip_type": "IPv4",
+    "service": "alibaba-as45102",
+    "region": "global"
+  },
+  {
+    "ip_address": "43.125.24.0/22",
+    "ip_type": "IPv4",
+    "service": "alibaba-as45102",
+    "region": "global"
+  },
+  {
+    "ip_address": "43.125.28.0/22",
     "ip_type": "IPv4",
     "service": "alibaba-as45102",
     "region": "global"
@@ -13987,6 +14023,24 @@
   },
   {
     "ip_address": "240b:4006:1028::/45",
+    "ip_type": "IPv6",
+    "service": "alibaba-as45102",
+    "region": "global"
+  },
+  {
+    "ip_address": "240b:4006:110c::/46",
+    "ip_type": "IPv6",
+    "service": "alibaba-as45102",
+    "region": "global"
+  },
+  {
+    "ip_address": "240b:4006:110c::/47",
+    "ip_type": "IPv6",
+    "service": "alibaba-as45102",
+    "region": "global"
+  },
+  {
+    "ip_address": "240b:4006:110e::/47",
     "ip_type": "IPv6",
     "service": "alibaba-as45102",
     "region": "global"

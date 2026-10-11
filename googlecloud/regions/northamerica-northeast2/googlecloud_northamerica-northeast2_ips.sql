@@ -16,6 +16,8 @@ INSERT INTO `googlecloud_northamerica-northeast2_ips` (`ip_address`, `ip_type`) 
 INSERT INTO `googlecloud_northamerica-northeast2_ips` (`ip_address`, `ip_type`) VALUES ('34.157.255.0/24', 'IPv4');
 INSERT INTO `googlecloud_northamerica-northeast2_ips` (`ip_address`, `ip_type`) VALUES ('34.177.65.128/25', 'IPv4');
 INSERT INTO `googlecloud_northamerica-northeast2_ips` (`ip_address`, `ip_type`) VALUES ('34.183.29.0/24', 'IPv4');
+INSERT INTO `googlecloud_northamerica-northeast2_ips` (`ip_address`, `ip_type`) VALUES ('34.183.131.0/24', 'IPv4');
 INSERT INTO `googlecloud_northamerica-northeast2_ips` (`ip_address`, `ip_type`) VALUES ('34.184.30.0/24', 'IPv4');
+INSERT INTO `googlecloud_northamerica-northeast2_ips` (`ip_address`, `ip_type`) VALUES ('34.184.129.0/24', 'IPv4');
 INSERT INTO `googlecloud_northamerica-northeast2_ips` (`ip_address`, `ip_type`) VALUES ('2600:1900:41e0::/44', 'IPv6');
 INSERT INTO `googlecloud_northamerica-northeast2_ips` (`ip_address`, `ip_type`) VALUES ('2600:1902:1e0::/44', 'IPv6');
