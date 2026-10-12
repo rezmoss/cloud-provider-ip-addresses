@@ -230,6 +230,11 @@
     "region": "SG"
   },
   {
+    "ip_address": "104.28.138.209/32",
+    "ip_type": "IPv4",
+    "region": "SG"
+  },
+  {
     "ip_address": "104.28.139.168/32",
     "ip_type": "IPv4",
     "region": "SG"

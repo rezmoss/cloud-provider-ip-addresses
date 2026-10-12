@@ -1,7 +1,7 @@
 {
   "provider": "aws",
   "version": 91,
-  "generated_date": "2026-10-11",
+  "generated_date": "2026-10-12",
   "last_changed_date": "2026-10-11",
   "sources": [
     "https://ip-ranges.amazonaws.com/ip-ranges.json"

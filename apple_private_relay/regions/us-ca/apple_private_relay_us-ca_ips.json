@@ -3735,6 +3735,16 @@
     "region": "US-CA"
   },
   {
+    "ip_address": "104.28.138.190/32",
+    "ip_type": "IPv4",
+    "region": "US-CA"
+  },
+  {
+    "ip_address": "104.28.138.191/32",
+    "ip_type": "IPv4",
+    "region": "US-CA"
+  },
+  {
     "ip_address": "104.28.139.16/32",
     "ip_type": "IPv4",
     "region": "US-CA"

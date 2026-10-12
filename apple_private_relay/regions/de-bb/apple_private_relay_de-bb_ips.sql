@@ -10,6 +10,10 @@ INSERT INTO `apple_private_relay_de-bb_ips` (`ip_address`, `ip_type`) VALUES ('1
 INSERT INTO `apple_private_relay_de-bb_ips` (`ip_address`, `ip_type`) VALUES ('104.28.137.111/32', 'IPv4');
 INSERT INTO `apple_private_relay_de-bb_ips` (`ip_address`, `ip_type`) VALUES ('104.28.138.100/32', 'IPv4');
 INSERT INTO `apple_private_relay_de-bb_ips` (`ip_address`, `ip_type`) VALUES ('104.28.138.101/32', 'IPv4');
+INSERT INTO `apple_private_relay_de-bb_ips` (`ip_address`, `ip_type`) VALUES ('104.28.138.194/32', 'IPv4');
+INSERT INTO `apple_private_relay_de-bb_ips` (`ip_address`, `ip_type`) VALUES ('104.28.138.195/32', 'IPv4');
+INSERT INTO `apple_private_relay_de-bb_ips` (`ip_address`, `ip_type`) VALUES ('104.28.138.210/32', 'IPv4');
+INSERT INTO `apple_private_relay_de-bb_ips` (`ip_address`, `ip_type`) VALUES ('104.28.138.211/32', 'IPv4');
 INSERT INTO `apple_private_relay_de-bb_ips` (`ip_address`, `ip_type`) VALUES ('104.28.143.56/32', 'IPv4');
 INSERT INTO `apple_private_relay_de-bb_ips` (`ip_address`, `ip_type`) VALUES ('104.28.143.57/32', 'IPv4');
 INSERT INTO `apple_private_relay_de-bb_ips` (`ip_address`, `ip_type`) VALUES ('104.28.148.23/32', 'IPv4');

@@ -18,6 +18,8 @@ INSERT INTO `apple_private_relay_in-kl_ips` (`ip_address`, `ip_type`) VALUES ('1
 INSERT INTO `apple_private_relay_in-kl_ips` (`ip_address`, `ip_type`) VALUES ('104.28.117.142/32', 'IPv4');
 INSERT INTO `apple_private_relay_in-kl_ips` (`ip_address`, `ip_type`) VALUES ('104.28.120.141/32', 'IPv4');
 INSERT INTO `apple_private_relay_in-kl_ips` (`ip_address`, `ip_type`) VALUES ('104.28.120.142/32', 'IPv4');
+INSERT INTO `apple_private_relay_in-kl_ips` (`ip_address`, `ip_type`) VALUES ('104.28.138.192/32', 'IPv4');
+INSERT INTO `apple_private_relay_in-kl_ips` (`ip_address`, `ip_type`) VALUES ('104.28.138.193/32', 'IPv4');
 INSERT INTO `apple_private_relay_in-kl_ips` (`ip_address`, `ip_type`) VALUES ('104.28.139.8/32', 'IPv4');
 INSERT INTO `apple_private_relay_in-kl_ips` (`ip_address`, `ip_type`) VALUES ('104.28.150.69/32', 'IPv4');
 INSERT INTO `apple_private_relay_in-kl_ips` (`ip_address`, `ip_type`) VALUES ('140.248.8.14/31', 'IPv4');

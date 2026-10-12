@@ -20,6 +20,26 @@
     "region": "DE-BB"
   },
   {
+    "ip_address": "104.28.138.194/32",
+    "ip_type": "IPv4",
+    "region": "DE-BB"
+  },
+  {
+    "ip_address": "104.28.138.195/32",
+    "ip_type": "IPv4",
+    "region": "DE-BB"
+  },
+  {
+    "ip_address": "104.28.138.210/32",
+    "ip_type": "IPv4",
+    "region": "DE-BB"
+  },
+  {
+    "ip_address": "104.28.138.211/32",
+    "ip_type": "IPv4",
+    "region": "DE-BB"
+  },
+  {
     "ip_address": "104.28.143.56/32",
     "ip_type": "IPv4",
     "region": "DE-BB"

@@ -1830,6 +1830,21 @@
     "region": "US-TX"
   },
   {
+    "ip_address": "104.28.138.196/32",
+    "ip_type": "IPv4",
+    "region": "US-TX"
+  },
+  {
+    "ip_address": "104.28.138.197/32",
+    "ip_type": "IPv4",
+    "region": "US-TX"
+  },
+  {
+    "ip_address": "104.28.138.198/32",
+    "ip_type": "IPv4",
+    "region": "US-TX"
+  },
+  {
     "ip_address": "104.28.139.84/32",
     "ip_type": "IPv4",
     "region": "US-TX"

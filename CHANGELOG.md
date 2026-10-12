@@ -2,6 +2,20 @@
 
 Daily IP range changes across all providers.
 
+## 2026-10-12
+
+### apple_private_relay
+- Added: 22 CIDRs
+- Removed: 0 CIDRs
+
+### play2go
+- Added: 1 CIDRs
+- Removed: 0 CIDRs
+
+### tor
+- Added: 4 CIDRs
+- Removed: 7 CIDRs
+
 ## 2026-10-11
 
 ### tencent

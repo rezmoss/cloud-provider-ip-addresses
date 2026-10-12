@@ -60,6 +60,16 @@
     "region": "IN-KL"
   },
   {
+    "ip_address": "104.28.138.192/32",
+    "ip_type": "IPv4",
+    "region": "IN-KL"
+  },
+  {
+    "ip_address": "104.28.138.193/32",
+    "ip_type": "IPv4",
+    "region": "IN-KL"
+  },
+  {
     "ip_address": "104.28.139.8/32",
     "ip_type": "IPv4",
     "region": "IN-KL"

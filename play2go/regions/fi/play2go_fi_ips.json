@@ -180,6 +180,12 @@
     "region": "fi"
   },
   {
+    "ip_address": "177.3.220.0/24",
+    "ip_type": "IPv4",
+    "service": "play2go",
+    "region": "fi"
+  },
+  {
     "ip_address": "185.216.71.0/24",
     "ip_type": "IPv4",
     "service": "play2go",

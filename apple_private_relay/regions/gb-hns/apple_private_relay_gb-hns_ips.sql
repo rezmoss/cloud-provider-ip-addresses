@@ -13,6 +13,8 @@ INSERT INTO `apple_private_relay_gb-hns_ips` (`ip_address`, `ip_type`) VALUES ('
 INSERT INTO `apple_private_relay_gb-hns_ips` (`ip_address`, `ip_type`) VALUES ('104.28.136.49/32', 'IPv4');
 INSERT INTO `apple_private_relay_gb-hns_ips` (`ip_address`, `ip_type`) VALUES ('104.28.136.50/32', 'IPv4');
 INSERT INTO `apple_private_relay_gb-hns_ips` (`ip_address`, `ip_type`) VALUES ('104.28.138.29/32', 'IPv4');
+INSERT INTO `apple_private_relay_gb-hns_ips` (`ip_address`, `ip_type`) VALUES ('104.28.138.199/32', 'IPv4');
+INSERT INTO `apple_private_relay_gb-hns_ips` (`ip_address`, `ip_type`) VALUES ('104.28.138.207/32', 'IPv4');
 INSERT INTO `apple_private_relay_gb-hns_ips` (`ip_address`, `ip_type`) VALUES ('104.28.139.106/32', 'IPv4');
 INSERT INTO `apple_private_relay_gb-hns_ips` (`ip_address`, `ip_type`) VALUES ('104.28.139.107/32', 'IPv4');
 INSERT INTO `apple_private_relay_gb-hns_ips` (`ip_address`, `ip_type`) VALUES ('104.28.139.108/32', 'IPv4');
